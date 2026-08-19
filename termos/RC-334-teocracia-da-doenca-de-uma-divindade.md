@@ -1,0 +1,42 @@
+# Teocracia da Doença de uma Divindade — RC-334
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+A **submissão doentia exigida pelo Senhor Javé** das suas criaturas — o polo oposto à Democracia do Amor da Deidade (B048, cap. 6): a teocracia de um deus doente. "O problema reside na sua doença psíquica, trauma maior da sua queda, que o deixou marcado com uma natureza simplesmente incompreensível". É o regime de dominação do Criador caído sobre os humanos, expresso no "modelo colmeia" e na "ética da sobrevivência a qualquer custo".
+
+## Contexto / Origem
+O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Teocracia da Doença de uma Divindade") estabelece a antítese fundamental do corpus: **liberdade amorosa (Deidade) × submissão doentia (Javé)**. A teocracia da doença explica a "lavagem cerebral" religiosa, a cobrança de submissão e o "jogo da cobrança" (cap. 9): "Javé nos cobra submissão e subserviência para que seus desígnios possam ser cumpridos... sua vontade somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo".
+
+## Etimologia / Grafias
+- **Grafia preferida:** Teocracia da Doença de uma Divindade
+- **Variações:** teocracia da doença; ditadura doentia do Criador; regime de submissão de Javé
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Favor Divino (B048) | caps. 6, 9 | pp. 45–60, 75–85 (aprox.) | conceito central |
+
+## Citações-chave
+> "A Democracia do Amor da Deidade x a Teocracia da Doença de uma Divindade... comparando com a submissão doentia exigida pelo Senhor Javé da parte das suas criaturas, vemos como realmente existe algo de muito errado com a postura deste último. Mas o problema reside na sua doença psíquica, trauma maior da sua queda." — B048, cap. 6
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Democracia do Amor | RC-333 | opõe-se-a |
+| Criador | RC-041 | é-um |
+| Javé | RC-001 | agente |
+| Modelo Colmeia | RC-176 | expressão |
+| Lavagem Cerebral | RC-335 | instrumento |
+| A Difícil Cobrança | RC-339 | desdobramento |
+
+## Seres Associados
+Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, submetidos).
+
+## Observações
+Ficha baseada em B048 (obra primária). A Teocracia da Doença é o diagnóstico ético do regime de Javé. Cruzar com RC-333, RC-176 e RC-335.

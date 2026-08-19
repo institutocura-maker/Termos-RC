@@ -1,0 +1,57 @@
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===== Ambientes virtuais =====
+venv/
+env/
+ENV/
+.venv/
+
+# ===== IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ===== Sistema =====
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===== Logs e temporários =====
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+
+# ===== Restaurador (ferramenta de migração, não vai para o repo) =====
+# (deixe esta seção comentada; o restaurador pode ser útil no repo)
+# /home/user/restore_rc.py
+
+# ===== Saída de builders (regeneráveis, não versionar) =====
+# (deixe comentado; PDFs/DOCX são regeneráveis a partir do Markdown)
+# *.docx
+# *.xlsx
+# *.pdf
+# *.svg

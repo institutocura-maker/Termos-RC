@@ -1,0 +1,50 @@
+# Pandora como Serpente do Éden — RC-283
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | EVENTOS & ERAS |
+| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+Revelação central de *O Sorriso de Pandora* (B020, cap. 9): **Pandora fez o papel da serpente do Jardim do Éden** — não uma serpente literal, mas a figura que afrontou o Criador para proteger a humanidade: "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." Ao agir assim, impediu que o Criador adestrasse o casal do Éden e, em seguida, eliminasse seus descendentes.
+
+## Contexto / Origem
+No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanização", o Criador (Caos/Javé) fez sua morada "estacionar" numa região do planeta — o futuro Jardim do Éden — e tomou como prisioneiros "um casal pertencente a um dos núcleos humanos". Pandora interveio como "serpente": sua influência genética e seu deslacre já haviam sido semeados entre os humanos, e ela afrontou o plano de dominação do Criador. O "Adão bíblico" e a "Eva bíblica" são distintos dos primeiros humanos de estimação de Epimeteu.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Pandora como Serpente do Éden
+- **Variações:** a serpente do Éden = Pandora; papel da serpente; a "serpente" da tradição bíblica
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Sorriso de Pandora (B020) | cap. 9 (Adão e Eva Bíblicos) | pp. 65–76 (aprox.) | revelação central |
+
+## Citações-chave
+> "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." — B020, cap. 9
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | é-um (papel) |
+| Caos = Brahma = Javé | RC-284 | afronta |
+| Éden do Criador | RC-242 | local |
+| Eva | RC-189 | protege |
+| Opção Inusitada | RC-285 | precede |
+| Trava-demo | RC-184 | contexto |
+
+## Seres Associados
+Pandora (RC-086); Caos/Javé (RC-284/RC-001); Adão e Eva bíblicos (RC-189); anjos do Criador.
+
+## Observações
+Ficha baseada em B020 (obra primária). A reinterpretação da serpente bíblica como Pandora é um dos achados mais impactantes do corpus — conecta a mitologia grega à narrativa do Éden. Cruzar com RC-242 (Éden como laboratório) e RC-285.
+
+---
+
+## Atualização — P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0673–U0679.
+- **Contexto acrescentado:** A narrativa de Eva como agente do destravamento da consciência é reforçada: ela ingere poções, destrava a própria consciência e oferece o recurso a Adão. Pandora não é nomeada diretamente neste trecho; a conexão decorre da Base.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.

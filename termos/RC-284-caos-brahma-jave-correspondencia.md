@@ -1,0 +1,43 @@
+# Caos = Brahma = Javé (correspondência) — RC-284
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | TERMOS ESPECÍFICOS |
+| **Subcategoria** | 8.4 Grego / Latim |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+Correspondência estabelecida em *O Sorriso de Pandora* (B020): **Caos (Mitologia Grega) = Brahma (Hindu) = Javé (Bíblia)** — o mesmo Criador "caído" visto por diferentes tradições. O texto usa recorrentemente a forma composta "**Caos/Brahma/Javé**": "Caos (Brahma ou Javé), o criador, ao contrário, se soergueu do nada, apenas com a sua força mental incompreensível" (B020). A correspondência amplia a cadeia já registrada (B031: Javé = Jeová = Alá = Brahma = Caos = Pangu = Atom).
+
+## Contexto / Origem
+Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Javé", "Caos, o criador dos céus e da Terra", "Caos/Brahma/Javé humilhou Jesus, impondo-lhe a crucificação". A mesma cadeia inclui as outras duas divindades: **Eros = Vishnu** e **Tártaro = Shiva** (RC-286). A correspondência é essencial para ler a mitologia grega como fonte da cosmologia RC.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Caos = Brahma = Javé
+- **Variações:** Caos/Brahma/Javé; Caos (Javé); Caos = Brahma = Javé (cadeia completa com Jeová, Alá, Pangu, Atom)
+- **Idioma de origem:** grego (khaos)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Sorriso de Pandora (B020) | caps. 1–14 (uso recorrente) | — | correspondência central |
+| Painéis Emergentes (B031) | Glossário (Javé, Brahma) | — | apoio (secundária) |
+
+## Citações-chave
+> "Caos (Brahma ou Javé), o criador, ao contrário, se soergueu do nada, apenas com a sua força mental incompreensível até mesmo para nós." — B020, cap. 1
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | variação |
+| Brahma | RC-037 | variação |
+| Criador | RC-041 | é-um |
+| Eros = Vishnu / Tártaro = Shiva | RC-286 | paralelo |
+| Pandora como Serpente | RC-283 | afronta |
+
+## Seres Associados
+Caos/Javé (RC-001); Brahma (RC-037); Criador (RC-041).
+
+## Observações
+Ficha baseada em B020 (obra primária) + B031. A cadeia de sinonímia do Criador (Caos = Brahma = Javé = Jeová = Alá = Pangu = Atom) é fundamental para a leitura comparada das mitologias no corpus RC. Cruzar com RC-286 (Eros/Tártaro).

@@ -1,0 +1,49 @@
+# Círculo / Circuito da Perfeição — RC-603
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.2 Leis e princípios cósmicos |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-14 |
+
+## Definição Sintética
+Circuito de comunicabilidade e mente coletiva dos Seres Originais, associado à unificação e à produção de mônadas.
+
+## Contexto / Origem
+É descrito como padrão máximo de movimento no Paraíso e como matriz da qual grupos projetam seres nos níveis inferiores.
+
+## Etimologia / Grafias
+- Grafia preferida: Círculo da Perfeição. Variação: Circuito da Perfeição.
+- **Fonte de decisão:** Quadro 9 aprovado pelo curador.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0068–U0069; U0182–U0185; U0208–U0210 | STT pré-curado e validado |
+
+## Citações-chave
+> “O chamado circuito, o Círculo da Perfeição.” — P2021-12-04, U0068–U0069; U0182–U0185; U0208–U0210
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Originais do Paraíso | RC-600 | envolve |
+| Mônada (Mônada Espiritual) | RC-149 | produz |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+
+## Seres Associados
+Consultar as relações tipadas acima.
+
+## Observações
+Redes Psíquicas Coletivas foram absorvidas por RC-188 e relacionadas a este termo.
+
+**Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
+
+---
+
+## Atualização — P2024-05-04
+
+- O Círculo da Perfeição é descrito como mecanismo de circulação entre níveis paradisíacos.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.

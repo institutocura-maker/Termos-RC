@@ -1,0 +1,45 @@
+# Éden do Criador (Éden como laboratório) — RC-242
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | LOKAS & GEOGRAFIAS |
+| **Subcategoria** | 3.3 Localidades terrestres |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+Nas RC, o Éden terrestre é **um dos "laboratórios" do Criador** — não um paraíso de delícias, mas um núcleo experimental: "O 'Éden' terrestre é tão somente um desses laboratórios que terminou sendo produzido muito mais pelas circunstâncias dos fatos do que, propriamente, como produto de um projeto específico" (B015, cap. 10). Os núcleos do Éden eram **pequenos grupos de homo sapiens**, "extremamente ricos em termos da nova configuração da **genética da confiança**". O Criador os utilizava como instrumento de redenção/cura de si mesmo e dos seus filhos hierárquicos.
+
+## Contexto / Origem
+O Éden do Criador (B015, cap. 10) esclarece o propósito dos experimentos edênicos: o Criador procurava "gerar o tipo de vida que poderia ser o seu grande instrumento de redenção". O processo evolutivo da Terra produziu "o mais promissor dentre os diversos laboratórios". Zont En Drel 29 foi o guardião dos "portões" do Éden, observando os fatos ao redor de Adão e Eva. O "Adão e Eva escolhidos" pelo Criador são distintos de outros humanos que personificaram "saltos evolutivos" da espécie.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Éden do Criador
+- **Variações:** Éden terrestre; Jardim do Éden (tradicional); "Éden como laboratório"; núcleos edênicos
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Guardião do Éden (B015) | cap. 10 (O Éden do Criador) | pp. 60–70 (aprox.) | capítulo dedicado |
+| Painéis Emergentes (B031) | Glossário (Zont En Drel 29) | — | apoio (secundária) |
+
+## Citações-chave
+> "O 'Éden' terrestre é tão somente um desses laboratórios que terminou sendo produzido muito mais pelas circunstâncias dos fatos do que, propriamente, como produto de um projeto específico." — B015, cap. 10
+>
+> "Esses pequenos grupos de humanos, que aqui estou chamando de laboratórios, eram extremamente ricos em termos da nova configuração da genética da confiança, base do que os terráqueos entendem como atração, desejo e amor." — B015, cap. 10
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Laboratórios do Criador | RC-251 | é-um |
+| Zont En Drel 29 | RC-147 | guarda |
+| Genética da Confiança | RC-243 | base |
+| Colmeia do Éden | RC-177 | variação (B044) |
+| Guerra do Éden | RC-006 | contexto |
+| Adão e Eva (Eva) | RC-189 | habitantes |
+
+## Seres Associados
+Criador (RC-041); Zont En Drel 29 (RC-147); Adão e Eva (RC-189); Jesus (RC-072).
+
+## Observações
+Ficha baseada em B015 (obra primária). O Éden como "laboratório" redefine o conceito bíblico: não é paraíso, mas campo experimental do Criador caído para sua cura/redenção. Cruzar com RC-177 (Colmeia do Éden, B044) e RC-006 (Guerra do Éden).

@@ -1,0 +1,49 @@
+# Os 256 Caminhos Profetizáveis de Orunmilá — RC-767
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.5 Propósitos / Destinos |
+| **Status** | ⚪ Candidato aprovado pelo curador (2026-08-18) |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+
+**Estrutura fundamental/técnica da destinação dos seres** (P2025-11-29): os **256 caminhos possíveis** de serem trilhados pelas entidades individualizadas que existiram no universo vizinho (Orum) ao virem existir na condição biológica/humana. Criados por **Orunmilá** (RC-665) a partir do que a **Wyrd/Teia do Destino** (RC-658) registrou de cada consciência particularizada. Correlacionado à Teia/Wyrd, à ancestralidade espiritual e aos protocolos mentais.
+
+## Estrutura interna (3 elementos definidores)
+
+1. **Ancestralidade espiritual consciencial:** a gênese por trás de cada consciência — espíritos simples/ignorantes (gerados para estruturar as vidas curtas) × espíritos pré-existentes (que já se achavam "alguém" e mergulharam); "tem espírito que foi planta, que foi água, que foi fogo";
+2. **Coleção de protocolos mentais:** os protocolos que uma consciência coleciona das experiências ocorridas em **outras espécies** (RC-517 Protocolo Mental);
+3. **Álbum memorial das vidas humanas sucessivas:** o memorial das vidas vividas na natureza humana (RC-548 Arquivos Mentais).
+
+**Destino e Wyrd:** "só retorna o ser cumprindo um determinado destino" — a Wyrd (RC-658) registrou as informações de cada consciência; os que não precisam cumprir destinos "estão fora disso".
+
+**Aplicação:** "em nascendo na condição humana, 256 possibilidades eles terão" — todos os seres que precisam resolver pendências um dia nascerão humanos (RC-056 Especiação). O **ifismo** (codificação de Osamaro Ibiere) resgata essas informações (ver RC-655).
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-11-29 | bloco 2 (256 caminhos; Wyrd); bloco 3 (espíritos) | palestra/STT pré-curada |
+
+## Citação-chave
+
+> "Orunmilá percebeu, junto com outros seres, que a vida nesse universo do vizinho faliu e os códigos tinham que ser transferidos para cá, para a vida biológica. Porumilá percebeu ou construiu, retirando essa informação da Wyrd, os 256 caminhos possíveis de serem trilhados pelo conjunto das entidades individualizadas." — P2025-11-29
+
+## Termos Relacionados
+
+| Termo | Código | Relação |
+|---|---|---|
+| Orunmilá (Moros de Irém/Orum) | RC-665 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Elm (Moros) | RC-454 | relaciona-se-a |
+| Protocolo Mental | RC-517 | relaciona-se-a |
+| Arquivos Mentais | RC-548 | relaciona-se-a |
+| Vrittis e Cittas | RC-760 | relaciona-se-a |
+| Especiação | RC-056 | relaciona-se-a |
+
+## Blindagem epistemológica
+
+Estrutura técnica da destinação é **leitura do autor** (cronologia interna + Teologia Comparada iorubá) — não é doutrina Ifá tradicional validada. Os 256 caminhos são registro da cosmovisão RC.

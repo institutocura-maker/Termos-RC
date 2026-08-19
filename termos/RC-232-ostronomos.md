@@ -1,0 +1,45 @@
+# Ostronomos — RC-232
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+Espécie extraterrestre (raça intermediária) que aparece na trilogia Terra Atlantis: **"Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem mais próxima, que comigo veio do mundo onde surgimos"** (B017, cap. 4). São seres que "praticam a partilha genética e procriam tais quais os animais deste mundo", autodenominam-se "passantes", dizem ser "bem mais velhos" que os demais e mortais — "facilmente morremos". O grupo é comandado por Sophia, de quem estavam apartados. (Em B031, o glossário refere-se à "Família de Ostronomos" como os 27 seres **Sirianos** ("anfíbios inteligentes") que interagiram com os exploradores Val Geon, Val Pen e Val Ilon num grande rio onde hoje é a China.)
+
+## Contexto / Origem
+Os Ostronomos são uma das "espécies de fora" que monitoravam a Terra nos tempos da chegada dos exilados. O estudo coletivo do código genético de ambas as famílias (Ostronomos e Val) revelou "uma longa e precisa parte do DNA comum às duas espécies, apesar do facto de a nossa ser assexuada". A interação com os Ostronomos (3 anos) é narrada em B031 (via Val Geon, Val Pen, Val Ilon) e aprofundada em B017/B018.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Ostronomos
+- **Variações:** Família de Ostronomos; seres Sirianos (anfíbios inteligentes) — verificar equivalência exata
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Terra Atlantis I (B017) | cap. 4 (Ostronomos) | pp. 29–44 (aprox.) | capítulo dedicado |
+| Terra Atlantis II (B018) | caps. 1–2 | pp. 5–14 | referências |
+| Painéis Emergentes (B031) | Glossário (Val Geon, Val Ilon, Val Pen) | — | apoio (secundária) |
+
+## Citações-chave
+> "Neste padrão de linguagem, a minha identificação é Ostronomos, pai dos que aqui estão comigo. Esta é a minha família, minha linhagem mais próxima, que comigo veio do mundo onde surgimos. Praticamos a partilha genética e procriamos tais quais os animais deste mundo." — B017, cap. 4
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Extraterrestres | RC-098 | é-um |
+| Anunnakis | RC-024 | associado-a (origem comum) |
+| Biodemos | RC-036 | origem comum (DNA) |
+| Val Geon | RC-126 | interagiu |
+| Val Pen | RC-129 | interagiu |
+| Val Ilon | RC-128 | interagiu |
+| Sophia | RC-009 | comandava |
+
+## Seres Associados
+Sophia (RC-009); Família Val (RC-109); Val Geon (RC-126); Val Pen (RC-129); Val Ilon (RC-128).
+
+## Observações
+Ficha baseada em B017/B018 (obras primárias) + B031. A equivalência exata Ostronomos = Sirianos precisa de verificação: B031 descreve os Sirianos como anfíbios inteligentes; B017 não usa a palavra "Siriano" explicitamente no trecho lido. Verificar no cap. 4 completo.

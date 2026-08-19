@@ -1,0 +1,39 @@
+# Últimas Ordens de Javé aos Clones — RC-652
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | EVENTOS & ERAS |
+| **Subcategoria** | 7.5 Missões / Expedições / Encontros |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-15 |
+
+## Definição Sintética
+Instruções finais atribuídas a Javé para que clones observem estudantes da RC e busquem novos padrões de interpretação.
+
+## Contexto / Origem
+Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
+
+## Etimologia / Grafias
+- Forma preferida: **Últimas Ordens de Javé aos Clones**.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2025-10-25 | ver dossiê e transcrição | live/STT |
+
+## Citações-chave
+> Ver P2025-10-25.
+
+## Termos Relacionados
+| Termo/código | Código | Relação |
+|---|---|---|
+| RC-001 | — | relaciona-se-a |
+| RC-019 | — | relaciona-se-a |
+| RC-147 | — | relaciona-se-a |
+| RC-094 | — | relaciona-se-a |
+
+## Seres Associados
+Consultar relações na Base.
+
+## Observações
+Termo candidato, sujeito a cruzamento com obras e palestras adicionais.

@@ -1,0 +1,58 @@
+# Rishis — RC-586
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+Coletivo de sábios associado, na palestra, à revelação do Mahabharata e à reorganização da tradição védica.
+
+## Contexto / Origem
+São situados na quarta era equinocial, em conexão com Vyasa, Kshatriyas e Brahmanes.
+
+## Etimologia / Grafias
+- Grafia preferida: Rishis. STT: riches.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0774 | transcrição automatizada; paráfrase e citação |
+
+## Citações-chave
+> ““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0774
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Vyasa | RC-585 | relaciona-se-a |
+| Mahabharata | RC-593 | relaciona-se-a |
+| Castas Trimurtianas | RC-321 | relaciona-se-a |
+| Dharma e Castas (origem demo) | RC-322 | relaciona-se-a |
+
+## Seres Associados
+Vyasa (RC-585)
+
+## Observações
+Grafia e inserção no núcleo védico foram validadas pelo curador.
+
+**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+## Reforço — P2025-02-16
+
+Os Rishis são apresentados como filhos mentais da Geração Regenerada de Brahma e fontes gênicas/educativas destinadas a criar disciplina no genoma do Criador. A fala nomeia Marichi, Atri, Angiras, Pulastya, Pulaha e Kratu; o sétimo nome da enumeração não foi recuperado com segurança.
+
+`[TEXTO INCOMPLETO — enumeração dos sete Rishis]`
+
+Relações novas: RC-696 Geração Regenerada e RC-700 Kashyapa.
+
+---
+
+## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST02
+
+- **Filhos da mente de Brahma (Geração Regenerada):** "Brahma, a partir de um certo momento da sua história, se achou regenerado... resolveu criar uma geração de novos filhos dele, que chama-se Geração Regenerada de Brahma... normalmente se fala em sete, eu vou falar aqui em seis: Marichi, Atri, Angiras, Pulastya, Pulaha e Kratu";
+- **Rishis andrógenos:** "são seres andrógenos rishis... é um tipo de ser que ninguém sabe o que diabo é, mas é parte demônio, parte isso, parte aquilo. E tem um poder mental que até os deuses tinham medo deles";
+- **Clonagem:** "Brama achou por bem... do seu corpo regenerado criou vários seres, sendo um deles alguém que se chama Daksha [RC-701]" (absorção NT-ST02 — sem termo autônomo, decisão do curador).

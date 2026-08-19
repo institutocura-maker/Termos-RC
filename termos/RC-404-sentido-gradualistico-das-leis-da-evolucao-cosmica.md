@@ -1,0 +1,44 @@
+# Sentido Gradualístico das Leis da Evolução Cósmica — RC-404
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.2 Leis e princípios cósmicos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-13 |
+
+## Definição Sintética
+O "Sentido Gradualístico das Leis da Evolução Cósmica" — anunciado no cap. 1 ("O Aviso") de *Nos Céus da Grécia* (B027): "**O Sentido Gradualístico das Leis da Evolução Cósmica ainda está por ser explicado à comunidade terráquea**, e até que tal ensinamento seja concluído, as leis eternas e seus aspectos transitórios sempre se confundirão ao juízo menos aprofundado." O conceito aponta que as leis eternas se manifestam de forma gradual e adaptada à capacidade perceptiva de cada época.
+
+## Contexto / Origem
+O aviso espiritual que inaugura o B027 estabelece o programa: "Se é dado a cada tempo e lugar somente o que é permitido e possível ser percebido pela mentalidade da época, o aspecto maior há de ser sempre algo modificado para que se enquadre dentro do que pode ser percebido em outra circunstância." O Sentido Gradualístico é a base filosófica da **Reintegração Cósmica** (RC-003): preparar gradualmente o entendimento humano para o retorno ao convívio cósmico.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Sentido Gradualístico das Leis da Evolução Cósmica
+- **Variações:** Sentido Gradualístico; leis da evolução cósmica; gradualismo cósmico
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Nos Céus da Grécia (B027) | cap. 1 (O Aviso) | amostra (p. 8 aprox.) | conceito anunciado |
+
+## Citações-chave
+> "O Sentido Gradualístico das Leis da Evolução Cósmica ainda está por ser explicado à comunidade terráquea, e até que tal ensinamento seja concluído, as leis eternas e seus aspectos transitórios sempre se confundirão ao juízo menos aprofundado." — B027, cap. 1
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Reintegração Cósmica | RC-003 | explica |
+| Revelação Cósmica | RC-094 | contexto |
+| Espiritualidade Superior | RC-059 | origem |
+| Alvorecer de Aquário | RC-405 | contexto |
+
+## Seres Associados
+Mestre Jesus (RC-072); mentores espirituais (RC-100); Jan Val Ellam (RC-071).
+
+## Observações
+Ficha baseada na **amostra** do B027 (caps. 1–3 parciais). O Sentido Gradualístico é um dos conceitos-filosofia do livro — **complementar quando a obra completa chegar**.
+
+## Reforço — Sanchita e Prarabdha Karma / P2024-11-30
+
+A gradualidade é associada à coleção de pendências no Sanchita Karma e à programação do Prarabdha Karma, modulando vertical e horizontalmente experiências conforme a capacidade da consciência.

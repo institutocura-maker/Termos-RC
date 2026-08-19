@@ -1,0 +1,49 @@
+# Favor Divino (conceito invertido) — RC-332
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+O "favor divino" **invertido** — a tese central de *Favor Divino* (B048): os humanos é que fazem um favor ao Criador, **assumindo cotas particularizadas de sua doença** (B031/glossário: "os espíritos que animam os nossos corpos nessa Criação indevida fazem um 'favor divino' a Javé (o Demiurgo) por assumirem cotas particularizadas de sua 'doença'... Através do nosso DNA e de nossas 'vivências na carne' ajudamos a curar esse Ser adoentado"). Em B048, Ellam explica que o termo é uma "provocação": "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor", pois a visão distorcida foi promovida pelas "revelações" do próprio Javé.
+
+## Contexto / Origem
+A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao contrário do que fomos acostumados a pensar?" O livro mostra que a "lavagem cerebral" que produziu a percepção dos "favores de Deus" "foi e ainda é parte de uma etapa necessária de um processo maior". O capítulo 10 (O Reconhecimento que nunca veio) conclui: "o Senhor Javé e toda a sua hierarquia deveriam ser gratos... porque somos nós quem promovemos o progresso necessário à redenção de todos eles e, em especial, a do próprio criador. Mas, aqui na Terra, é tudo ao contrário!"
+
+## Etimologia / Grafias
+- **Grafia preferida:** Favor Divino
+- **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
+- **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
+| Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
+## Citações-chave
+> "O 'favor divino' que aqui utilizo tem como objetivo apenas o de provocar o entendimento do leitor. Afinal, como o meu ou de qualquer outro terráqueo que inevitavelmente sofre a 'lavagem cerebral' imposta pelas crenças vindas do passado equivocado, é mero produto de uma visão distorcida que foi promovida pelas 'revelações' ofertadas ao mundo." — B048, cap. 8
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Favor Divino (título/obra) | RC-063 | variação |
+| Democracia do Amor da Deidade | RC-333 | contraponto |
+| Teocracia da Doença | RC-334 | contexto |
+| Criador | RC-041 | beneficiado |
+| Seres Terrenos | RC-099 | doadores |
+| O Reconhecimento que nunca veio | RC-338 | desdobramento |
+
+## Seres Associados
+Criador/Javé (RC-041/RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
+
+## Observações
+Ficha baseada em B048 (obra primária) + B031. O Favor Divino é o conceito ético central do "drama": a humanidade como instrumento de cura do Criador. Cruzar com RC-063, RC-245 (Humanização do Criador) e RC-217 (DNA como projeção).
+
+## Reforço — PIA / P2024-11-30
+
+O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.

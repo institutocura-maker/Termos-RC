@@ -1,0 +1,41 @@
+# Confederações de Mundos — RC-357
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
+| **Subcategoria** | 6.3 Dinastias extraterrestres |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+Organizações siderais de civilizações planetárias evoluídas — descritas em *Fator Extraterrestre* (B005, cap. 5): "as confederações [são] a maneira, através da qual, diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua." Essas organizações "são algo tão comum, em certas regiões do cosmos, como o são as agremiações estaduais, regionais e nacionais, no âmbito da cultura geopolítica da Terra" e estão "hierarquicamente subordinadas à administração amorosa dos **Prepostos da Deidade**" — "somente na nossa galáxia existem diversas, tendo, cada uma delas, características completamente distintas."
+
+## Contexto / Origem
+As Confederações de Mundos são o pano de fundo político-cósmico do B005: a Terra, por ser uma "espécie de 'terra de ninguém'" (RC-358), estava "passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos". A reintegração da Terra ao convívio cósmico implica sua reinserção nesse tecido de confederações.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Confederações de Mundos
+- **Variações:** confederações de civilizações; organizações siderais; confederação galática
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Fator Extraterrestre (B005) | cap. 5 (Situação Política da Terra diante do Cosmos) | pp. 65–80 (aprox.) | conceito central |
+
+## Citações-chave
+> "Sendo, portanto, o nosso planeta uma espécie de 'terra de ninguém' estava passível de receber visitas exploratórias (muitas vezes com fins pouco nobres) de quaisquer civilizações que não estivessem vinculadas às confederações de mundos, sendo essas confederações a maneira, através da qual, diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua." — B005, cap. 5
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Extraterrestres | RC-098 | é-um |
+| Espiritualidade Superior | RC-059 | subordinada-a |
+| Terra de Ninguém | RC-358 | é-um |
+| Reintegração Cósmica | RC-003 | contexto |
+| Fator Extraterrestre | RC-355 | contexto |
+
+## Seres Associados
+Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).
+
+## Observações
+Ficha baseada em B005 (obra primária). As Confederações de Mundos são o "mapa político" do cosmos nas RC — conectam à Reintegração Cósmica e à cidadania cósmica (RC-226).

@@ -1,0 +1,46 @@
+# Homoafetividade (resquício da força original) — RC-434
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.5 Propósitos / Destinos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-13 |
+
+## Definição Sintética
+A **homoafetividade** como tema-título do B052: nas RC, a atração entre pessoas do mesmo sexo é interpretada como **resquício da força de atração sexual original** (RC-433) — que surgiu antes da polaridade macho/fêmea, na geração demo do Olimpo, como mecanismo de coesão entre seres desconfiados. O livro (2016) aborda a questão com "perspectiva adulta": "não deveria existir culpa e nem mesmo responsabilidade pelo padrão de conduta" — pois a força é anterior às formas animalizadas.
+
+## Contexto / Origem
+O B052 é uma narrativa em 4 partes (Narrativas Esquecidas / Antigas / Tardias / Explicação Necessária) com personagens pós-dilúvio (Heber, Noé, Joctan, Tubal, Faleg) e a rememoração de um ser da estirpe (Despina). O livro também aponta a dramática questão da **"identidade de gênero"** que "eclode explosivamente" nas novas gerações — "um 'marco temporal limite' de um processo cuja origem e desdobramentos permanecem desconhecidos... mas por pouco tempo!".
+
+## Etimologia / Grafias
+- **Grafia preferida:** Homoafetividade
+- **Variações:** homoafetividade (título); atração entre iguais; identidade de gênero (tema adjacente)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Homoafetividade: O Segredo Perdido do Éden (B052) | obra integral (4 partes, 15 caps.) | — | tema-título |
+
+## Citações-chave
+> "não será nesse primeiro livro sobre homoafetividade que me será possível abordar a dramática questão da 'identidade de gêneros' que agora eclode explosivamente — e que sempre existiu — no seio das novas gerações humanas, devido a um 'marco temporal limite' de um processo cuja origem e desdobramentos permanecem desconhecidos para a humanidade – mas por pouco tempo!" — B052
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Força de Atração Sexual | RC-433 | é-um (resquício) |
+| O Segredo Perdido do Éden | RC-435 | relaciona-se-a |
+| Seres Terrenos | RC-099 | tema |
+| Demos | RC-049 | origem |
+
+## Seres Associados
+Heber (RC-436); Joctan (RC-437); Noé; Despina (narradora da estirpe).
+
+## Observações
+Ficha baseada em B052 (obra primária, 2016). O livro é o tratamento das RC para a homoafetividade e identidade de gênero — tese da força de atração original. Cruzar com RC-433 e RC-435.
+
+## Divergência preservada — P2025-03-15
+
+A palestra P2025-03-15 apresenta outra hipótese causal, vinculando homoafetividade, redução reprodutiva e Rebelião dos Elétrons. Essa formulação **não substitui** a definição existente de RC-434 como resquício da força original. As duas camadas permanecem registradas sem harmonização artificial.
+
+A hipótese de P2025-03-15 não possui validação científica e deve ser apresentada com atribuição explícita, respeito às pessoas LGBTQIA+ e sem patologização.

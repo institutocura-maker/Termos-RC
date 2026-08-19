@@ -1,0 +1,43 @@
+# Adhyagya (formas espirituais Adhy) — RC-311
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.8 Consciências coletivas / Logos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+Formas espirituais dos seres Adhy mencionadas em *Inquisição Trimurtiana* (B022, Introdução): "vi-me como que sonhando, tendo uma longa conversa com os espíritos — as suas formas **Adhyagya** — que respondem pelas formas trimurtianas (expressões Adhydaiva edificadas após o 'mergulho' nesta Criação) de Vishnu e Shiva". Ou seja, as formas Adhyagya são os **espíritos (consciências espirituais) por trás das formas Adhydaiva** de Vishnu e Shiva — o nível espiritual que responde pelas divindades da Trimurti.
+
+## Contexto / Origem
+Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva, que o instruem sobre a Criação Bipartida, a queda de Adhyshprabrajna e o drama da Trimurti. O termo conecta-se à taxonomia Adhy: Adhyagia (RC-012, condição da alma pura), Adhyatman (RC-013, corpo causal), Adhydaiva (RC-014, formas caídas), Adhyajna (RC-016, avatares) — e agora **Adhyagya** como as formas espirituais/consciências que respondem pelas expressões Adhydaiva.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Adhyagya
+- **Variações:** formas Adhyagya; espíritos Adhy (formas espirituais); grafia próxima de Adhyagia (RC-012) — verificar distinção
+- **Origem:** composto RC (Adhy + agya/agia)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Inquisição Trimurtiana (B022) | Introdução; caps. 1–3 | pp. 6–12, 13–35 (aprox.) | termo central |
+
+## Citações-chave
+> "Vi-me como que sonhando, tendo uma longa conversa com os espíritos – as suas formas Adhyagya – que respondem pelas formas trimurtianas (expressões Adhydaiva edificadas após o 'mergulho' nesta Criação) de Vishnu e Shiva." — B022, Introdução
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyagia | RC-012 | aproximação (verificar) |
+| Adhyatman | RC-013 | relaciona-se-a |
+| Adhydaiva | RC-014 | responde-por |
+| Vishnu | RC-135 | responde-por |
+| Shiva | RC-102 | responde-por |
+| Adhytia | RC-308 | relaciona-se-a |
+
+## Seres Associados
+Vishnu (RC-135); Shiva (RC-102); gênero Adhy (RC-011).
+
+## Observações
+Ficha baseada em B022 (obra primária). Adhyagya ≈ a forma espiritual/consciência dos Adhy que sustenta as expressões Adhydaiva da Trimurti. Verificar a relação exata com Adhyagia (RC-012) na revisão — podem ser a mesma condição com grafias diferentes.

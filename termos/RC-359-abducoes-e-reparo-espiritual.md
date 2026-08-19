@@ -1,0 +1,40 @@
+# Abduções e Reparo Espiritual — RC-359
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | PROCESSOS & FENÔMENOS |
+| **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+A interpretação das **abduções** (1960–1990) no contexto das RC — o capítulo 9 de *Fator Extraterrestre* (B005): "muitas pessoas estavam sendo abduzidas, ou seja, levadas para dentro de naves alienígenas onde ali sofriam algum tipo de exame, em alguns casos, seguidos de processos operatórios, realizados por entidades não terrenas." O título "Abduções e **Reparo Espiritual**" aponta a tese: para além dos aspectos traumáticos, haveria uma função de reparo/ajuste espiritual no processo.
+
+## Contexto / Origem
+Ellam pesquisou casos de abdução no interior do Nordeste (Paraíba, Rio Grande do Norte e Ceará) no final dos anos 70, junto ao pesquisador norte-americano **Bob Pratt** (autor de "UFO Danger Zone"). O capítulo reflete sobre o "possível 'porquê' daquela estranha série de ocorrências" e a função de reparo espiritual por trás dos aparentes abusos.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Abduções e Reparo Espiritual
+- **Variações:** abduções; sequestros extraterrestres; reparo espiritual
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Fator Extraterrestre (B005) | cap. 9 (Abduções e Reparo Espiritual) | pp. 120–132 (aprox.) | capítulo dedicado |
+
+## Citações-chave
+> "Através de relatos testemunhais e de pesquisas, pouco a pouco, um quadro aparentemente preocupante foi se formando diante da percepção dos estudiosos do fenômeno ufológico: muitas pessoas estavam sendo abduzidas, ou seja, levadas para dentro de naves alienígenas onde ali sofriam algum tipo de exame, em alguns casos, seguidos de processos operatórios, realizados por entidades não terrenas." — B005, cap. 9
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Extraterrestres | RC-098 | realizadas-por |
+| Seres Terrenos | RC-099 | vitimas |
+| Fator Extraterrestre | RC-355 | contexto |
+| Revelação Cósmica | RC-094 | contexto |
+
+## Seres Associados
+Extraterrestres (RC-098); abduzidos humanos (RC-099); Bob Pratt (pesquisador).
+
+## Observações
+Ficha baseada em B005 (obra primária). O "reparo espiritual" é a hipótese das RC para as abduções — conectar com o tema ufológico da reintegração.

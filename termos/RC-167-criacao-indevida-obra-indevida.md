@@ -1,0 +1,68 @@
+# Criação Indevida (Obra Indevida) — RC-167
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.1 Cosmogonia / Criação |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+Expressão recorrente nas RC para designar o **universo gerado pelo erro do Criador** — a Criação de Prabrajna (Brahma/Javé) que "saiu errada" e que **jamais deveria ter sido iniciada**. A obra é "indevida" porque: (1) o Criador "caiu" dentro dela e tornou-se prisioneiro; (2) não foi finalizada — daí a morte, a entropia e o sofrimento das criaturas; (3) as criaturas-ferramenta têm que passar pela experiência da morte "porque esta Obra não foi finalizada, ou não pôde ser" (B024, cap. 3).
+
+## Contexto / Origem
+A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um erro no momento da criação e o Criador teria 'caído' dentro da mesma, gerando dois universos paralelos" (B031). Em B024, a expressão aparece em quase todos os capítulos, associada à epopeia dos agentes da vida, ao Xadrez Cósmico, à Lila e ao drama da Trimurti.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Criação Indevida
+- **Variações:** Obra indevida; Criação "problemática"; Criação "imperfeita"; Criação "inusitada" (título do cap. 2 de B024)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| A Epopeia dos Agentes da Vida Universal (B024) | cap. 2 (A Criação "Inusitada"); cap. 11 (Autoria e Comando) | pp. 20–31, 78–88 (aprox.) | termo central |
+| Painéis Emergentes... (B031) | Glossário (Revelação Cósmica) | — | apoio (secundária) |
+
+## Citações-chave
+> "O grande problema desta Criação é que as criaturas-ferramentas têm que passar pela experiência da morte, porque esta Obra não foi finalizada, ou não pôde ser. Esse é o drama que enfrentamos por causa da entropia que destrói tudo – nem tudo é carma, como dizem os espíritas." — B024, cap. 3
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Prabrajna | RC-152 | autor |
+| Criador | RC-041 | autor (pós-queda) |
+| Xadrez Cósmico | RC-150 | tabuleiro |
+| Eras da Criação | RC-155 | história da obra |
+| Criaturas-ferramenta | RC-164 | habitantes |
+| Revelação Cósmica (conceito) | RC-094 | tema central |
+
+## Seres Associados
+Brahma/Javé (RC-037/RC-001); Trimurti (RC-104); Agentes da Vida Universal (RC-148).
+
+## Observações
+Ficha baseada em B024 (obra primária) + apoio de B031. Verificar no cap. 11 de B024 ("A Autoria e o Comando da Criação 'Indevida'") a questão da responsabilidade/autoria.
+
+---
+
+## Atualização — P2021-12-04
+
+- **Unidades:** U0136–U0148; U0200–U0266.
+- **Contexto acrescentado:** A Criação Indevida é ligada ao problema surgido em Perpérion e a um subgrupo Pashvnaj do Gênero Adhy.
+- **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+- **Precisão estrutural posterior:** o problema da Criação Indevida se inicia em **Perpérion**, Archeon do Gênero Adhy/Pashvnaj e de Prabrajna.
+
+---
+
+## Atualização — P2024-05-04
+
+- A Criação Indevida é usada como polo criado da Simultaneidade Reversa.
+- Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+---
+
+## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
+
+- **A Obra como simulacro (absorção NT-BR02, decisão do curador):** a Criação Indevida é apresentada como a "matrix"/simulacro em que todos estão inseridos — o universo gerado pelo erro do criador é a bolha da realidade simulada (RC-702 Camuflagem da Realidade);
+- **Podridão inerente:** "a podridão é inerente à criação" e o comportamento de "ladrões e necrófagos" na Matrix — "todo mundo aqui dentro é obrigado a ser deselegante para poder existir, porque essa é a história do criador, esse é o retrato dele";
+- **Humanidade salva-criador:** a função humana é reverter a narrativa — "a humanidade como salva-criador" (seção 4.2);
+- **Faixas de realidade:** as faixas definidas × improvisadas (seção 2.5) como expressões da Obra indevida — a física definida "antes da criação"; faixas improvisadas com "demência plena".

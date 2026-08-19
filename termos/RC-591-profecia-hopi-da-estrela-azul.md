@@ -1,0 +1,41 @@
+# Profecia Hopi da Estrela Azul — RC-591
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | EVENTOS & ERAS |
+| **Subcategoria** | 7.3 Profecias / Anúncios |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-14 |
+
+## Definição Sintética
+Tradição atribuída aos Hopis segundo a qual uma Estrela Azul marcaria transição para nova condição de consciência, da crença para o conhecimento.
+
+## Contexto / Origem
+É citada na resposta final sobre se toda passagem de era exige calamidade.
+
+## Etimologia / Grafias
+- Grafia preferida: Profecia Hopi da Estrela Azul. STT: ropes, hopes.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0911–U0924 | transcrição automatizada; paráfrase e citação |
+
+## Citações-chave
+> ““Uma estrela azul [...] daria início a uma nova situação em que os humanos [...] deixariam a crença e trabalhariam com conhecimento.”” — P2022-12-17, U0911–U0924
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
+| Era do Conhecimento e da Espiritualização | RC-536 | relaciona-se-a |
+| Alvorecer de Aquário | RC-405 | relaciona-se-a |
+
+## Seres Associados
+—
+
+## Observações
+Registrar como tradição citada pelo palestrante, não como confirmação factual ou consenso sobre os Hopis.
+
+**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.

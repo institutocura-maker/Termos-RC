@@ -1,0 +1,50 @@
+# Ninurta — RC-588
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+Anunnaki relacionado à localização e ao uso das sete armas atômicas no conflito entre os clãs de Enki e Enlil.
+
+## Contexto / Origem
+É citado junto a Marduk, Anu e Nibiru na narrativa da guerra nuclear Anunnaki.
+
+## Etimologia / Grafias
+- Grafia preferida: Ninurta.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
+
+## Citações-chave
+> ““Marduk e Ninurta [...] sabiam onde estavam [as sete armas].”” — P2022-12-17, U0819–U0821
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnakis | RC-024 | é-um |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
+| Anu (patriarca Anunnaki) | RC-587 | relaciona-se-a |
+
+## Seres Associados
+Anunnakis (RC-024); Enlil (deus sumério, par de Enki) (RC-487); Anu (patriarca Anunnaki) (RC-587)
+
+## Observações
+Menção breve; manter como candidato até cruzamento com outras fontes do corpus.
+
+**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+---
+
+## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
+
+- **Pontaria das bombas:** "de acordo com a pontaria de Ninurta e a outra de acordo com a pontaria de Nergal" — as explosões na Península do Sinai/vale de Sidim (Sodoma e Gomorra) no âmbito da disputa dos clãs (RC-486/487);
+- **Contexto:** "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk";
+- **Quarentena histórica:** os detalhes (vitrificações, Sodoma/Gomorra, Mohenjo-Daro) são **contexto da disputa**, não entidades ontológicas (decisão do curador — RC-024/486/487 absorvem o desfecho).

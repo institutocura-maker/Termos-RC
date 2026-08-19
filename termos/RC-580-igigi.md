@@ -1,0 +1,50 @@
+# Igigi — RC-580
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+Classe de Anunnakis de menor escalão apresentada, na palestra, como rebelde e envolvida em cruzamentos com seres humanos.
+
+## Contexto / Origem
+A hibridização atribuída aos Igigi é situada na segunda era equinocial e ligada à geração de descendentes fora do padrão desejado.
+
+## Etimologia / Grafias
+- Grafia preferida: Igigi. Forma usada na fala: Igigis.
+- **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0707–U0723 | transcrição automatizada; paráfrase e citação |
+
+## Citações-chave
+> ““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnakis | RC-024 | é-um |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | envolve |
+| Nefilins (= Anunnakis) | RC-488 | relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | relaciona-se-a |
+
+## Seres Associados
+Anunnakis (RC-024); Nefilins (= Anunnakis) (RC-488)
+
+## Observações
+Grafia e contexto mesopotâmico validados pelo curador. Status permanece candidato até cruzamento com obra primária/áudio.
+
+**Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+---
+
+## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Tipologia:** "um grupo de 600 anunnaki que tinha uma tipologia muito semelhante à nossa humana e um outro grupo que também se parece conosco, mas que o corpo deles pode receber complemento... eles já nascem com essa genética que o corpo dele já é como se nascesse com lugares para você instalar algumas coisas biônicas... E esses são chamados igigi";
+- **Efetivo:** ~850–900 anunnaki na Terra há ~20.000 anos, "comandados por Enlil"; Enki "era o outro irmão";
+- Os igigi como categoria distinta dos anunnaki de tipologia humana (RC-024).

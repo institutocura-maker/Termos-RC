@@ -1,0 +1,50 @@
+# Enéade de Heliópolis — RC-627
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | GENEALOGIAS & LINHAGENS |
+| **Subcategoria** | 6.1 Famílias divinas / Celestiais |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+Conjunto de nove deuses da tradição egípcia de Heliópolis, citado como narrativa alternativa à Ogdóade de Hermópolis.
+
+## Contexto / Origem
+A comparação mostra que os oito da Ogdóade não representam contagem exaustiva dos seres que mergulharam.
+
+## Etimologia / Grafias
+- Grafia preferida: Enéade de Heliópolis. STT: Ened.
+- **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2026-07-30 — 4ª Edição Estagiários do Kaos | U0016–U0018 | STT pré-curado / devolutiva |
+
+## Citações-chave
+> “A história contada em Heliópolis [...] fala não em Ogdóade, mas em Enéade, ou seja, nove deuses.” — P2026-07-30, U0016–U0018
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Ogdóade de Hermópolis | RC-609 | compara-se-a |
+| Universo TÊNET | RC-626 | relaciona-se-a |
+
+## Seres Associados
+Consultar relações acima.
+
+## Observações
+Ogdóade e Enéade são esquemas distintos e não devem ser fundidos.
+
+**Regra de status:** fonte recente em STT sem áudio anexado; manter candidato salvo status prévio do termo mesclado.
+
+---
+
+## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
+
+- **Thot rei de Heliópolis (~10.000 anos):** "há cerca de 10.000 anos atrás, surgiu uma cidade no Egito chamado Heliópolis. E Thot era o rei dessa época";
+- **Enéade = adaptação dos 9 anunnaki divinizados:** "o conceito de Enéade... foi uma adaptação posterior que iniciados fizeram para adequar os nove principais anunnaki ao divino do Egito. Aí os nomes de Ptah, Osíris, Ísis, Hórus... tudo surge aqui. E cada uma dessas figuras era um anunnaki que ficou no poder durante 500 anos, 1000 anos, 2000 anos";
+- **Ogdóade × Enéade:** "se havia o Díog em Hermópolis [ogdóade], o de Enéade são nove seres" — segunda geração de seres, "ontologicamente posteriores aos oito inengendrados";
+- Memphis e Tebas: "muito ligadas ao culto da morte... não tem muita importância" (na avaliação do autor);
+- Thot "não pôde fugir a isso porque eram os irmãos dele e os primos que basicamente o obrigaram a construir isso".

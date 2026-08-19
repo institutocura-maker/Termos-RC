@@ -1,0 +1,45 @@
+# Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) — RC-496
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | LOKAS & GEOGRAFIAS |
+| **Subcategoria** | 3.4 Regiões cósmicas / Portais |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-14 |
+
+## Definição Sintética
+Ereon é a região/conjunto da Espiritualidade Laboratorial formado por cinco Archeons: Antérion, Danérion, Mermérion, Perpérion e Tempérion.
+
+## Contexto / Origem
+O título da palestra foi adotado como autoridade para a grafia. Os Archeons são descritos como níveis ou subníveis dimensionais, cada qual com famílias e padrões criadores próprios.
+
+## Etimologia / Grafias
+- Grafia preferida: Ereon. Variação histórica: Eeron. STT: héreo.
+- **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0039–U0051; U0313–U0323; U0355–U0358 | transcrição automatizada; pré-curadoria validada |
+| Fontes anteriores da Base | B061 | apoio/remissão |
+
+## Citações-chave
+> “São cinco Archeons [...] padrões de realidade [...] no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
+| Espiritualidade Laboratorial | RC-061 | parte-de |
+| Perpérion | RC-087 | inclui |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | inclui |
+| Impérial — erro histórico de STT (ver Perpérion RC-087) | RC-497 | relaciona-se-a |
+| Tempérium — variação histórica de Tempérion (ver RC-472) | RC-498 | relaciona-se-a |
+
+## Seres Associados
+Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.
+
+## Observações
+Antérion, Danérion e Mermérion foram validados pelo curador para o próximo bloco de novos códigos; ainda não receberam códigos nesta etapa.
+
+**Regra de evidência:** as correções ontológicas foram aprovadas pelo curador, mas a fonte continua sendo STT sem áudio anexado.

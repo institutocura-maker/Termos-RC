@@ -1,0 +1,44 @@
+# Projeto Orbum (cidadania planetária) — RC-535
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-13 |
+
+## Definição Sintética
+**Projeto Orbum** é o movimento de **cidadania planetária** idealizado por Jan Val Ellam (com base no conceito do planeta **Orbum**, RC-085) e apresentado no Manifesto anexo às *Crônicas de um Novo Tempo* (B042): a declaração dos princípios da **cidadania planetária** — "exerça plenamente a sua nacionalidade, mas não esqueça: somos todos cidadãos planetários". Difunde a ideia de que formamos "uma só família ante o cosmos" e que o exercício pleno da **cidadania cósmica** (RC-226) é o maior ensinamento legado por Jesus.
+
+## Contexto / Origem
+O Manifesto do Projeto Orbum (B042, pp. 226–228) convida à "filiação espiritual" à ideia da cidadania planetária, com o site www.orbum.org. É a expressão prática/ética da Revelação Cósmica: a consciência de que somos cidadãos cósmicos exercendo uma cidadania planetária, e que a reintegração da Terra à convivência com as demais civilizações passa pelo despertar dessa consciência.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Projeto Orbum
+- **Variações:** Orbum; Cidadania Planetária (movimento); Declaração dos Princípios da Cidadania Planetária (manifesto)
+- **Obs.:** não confundir com o planeta **Orbum** (RC-085) — o Projeto é o movimento derivado
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Crônicas de um Novo Tempo (B042) | Informações Adicionais — Projeto Orbum | pp. 226–228 (PDF) | Manifesto da cidadania planetária |
+| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
+## Citações-chave
+> "Exerça plenamente a sua nacionalidade, mas não esqueça: somos todos cidadãos planetários. Por conseguinte, formamos uma só família ante o cosmos." — B042, p. 226
+
+> "Se você concorda com os princípios e objetivos da cidadania planetária, junte-se a nós em pensamento, intenção e atitudes." — B042, p. 228
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Orbum (planeta) | RC-085 | relaciona-se-a (origem do nome) |
+| Cidadão Cósmico | RC-226 | relaciona-se-a (ideal) |
+| Revelação Cósmica | RC-094 | relaciona-se-a (doutrina de base) |
+| Transição Planetária | RC-344 | relaciona-se-a (contexto) |
+
+## Seres Associados
+Jan Val Ellam (RC-071, idealizador); Jesus (ensinamento da cidadania cósmica, segundo o livro).
+
+## Observações
+Movimento real do Ellam (site www.orbum.org; citado em outras obras da Etapa II). Registrar o Projeto Orbum como expressão prática da RC — o elo entre a doutrina e a cidadania planetária.

@@ -1,0 +1,41 @@
+# A Vida do CFD de Javé no Ser Humano — RC-382
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.2 Leis e princípios cósmicos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+**"A vida do CFD de Javé vive em cada um de nós"** (B041, cap. 10): "enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida — isso é assunto para reflexão de gente adulta. Por isso que a 'vida nos vive', ao mesmo tempo em que a sensação e o poder de maya – o de cegar com a ilusão... faz com que pensemos que somos senhores da vida que levamos. **Esse é o mistério por trás do 'favor divino' do qual os nossos espíritos são os agentes da Deidade**, na sua ajuda às Divindades problemáticas."
+
+## Contexto / Origem
+O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os humanos carregam o código de vida do Criador e, paradoxalmente, vivem suas próprias vidas transitórias enquanto contribuem para a "vida reconstrutiva" do Cocriador "caído". Ellam "briga" filosoficamente com Brahma, Vishnu e Shiva, dizendo que "eles 'faliram' e transferiram para nós uma responsabilidade que não é nossa" — as Divindades criaram criaturas-ferramentas e, depois, o livre-arbítrio para que espíritos "simples e ignorantes" pudessem se tornar "criaturas esclarecidas e potencialmente amorosas".
+
+## Etimologia / Grafias
+- **Grafia preferida:** A Vida do CFD de Javé no Ser Humano
+- **Variações:** o CFD vivendo em nós; "a vida nos vive"; o código de vida do Criador no humano
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| A Rebelião dos Elétrons (B041) | cap. 10 (A Vida do CFD de Javé no Ser Humano) | pp. 75–90 (aprox.) | capítulo dedicado |
+
+## Citações-chave
+> "A vida do CFD de Javé vive em cada um de nós, enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida... Esse é o mistério por trás do 'favor divino' do qual os nossos espíritos são os agentes da Deidade, na sua ajuda às Divindades problemáticas." — B041, cap. 10
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD | RC-040 | é-um |
+| Favor Divino | RC-332 | relaciona-se-a |
+| Seres Terrenos | RC-099 | portadores |
+| Criador | RC-041 | origem |
+| Criaturas-ferramenta | RC-164 | é-um (contexto) |
+
+## Seres Associados
+Javé (RC-001); Seres Terrenos (RC-099); Deidade (RC-047).
+
+## Observações
+Ficha baseada em B041 (obra primária). O capítulo mais direto sobre o "favor divino" — a chave da relação Criador-humanos. Cruzar com RC-332 e RC-063.

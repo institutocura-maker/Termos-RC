@@ -1,0 +1,42 @@
+# Circuito do CHA — RC-549
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.2 Leis e princípios cósmicos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-13 |
+
+## Definição Sintética
+**Circuito do CHA** é, no Mentalma (B074, cap. 3), o "império das circunstâncias" — o circuito da vida que define os **Arquivos Mentais** (RC-548) que uma pessoa coleciona quando não há **Vontade de Progredir** (RC-550). A sigla **CHA** vem de: **C**ircunstâncias da vida; **H**erança espiritual (hábitos e habilidades do Espírito); **A**titude mental/espiritual. As circunstâncias (ou aparentes acasos) despertam a herança de hábitos e habilidades, que produzem tendências e inclinações psíquicas, que por sua vez cobram uma atitude — fechando o circuito, que se repete ou se renova conforme a postura pessoal.
+
+## Contexto / Origem
+Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desperta a vontade de progredir torna-se "personagem ou 'vítima' do circuito da vida", indo "para onde as ondas desse tormentoso oceano o levarem" (B074, p. 46). O circuito pode se repetir (manutenção) ou se renovar (evolução) conforme a resposta da atitude pessoal. É a "chave" dos arquivos mentais: se não é a vontade de progredir que os acessa, o aparente acaso da vida os abre.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Circuito do CHA
+- **Variações:** "circuito do CHA"; "império das circunstâncias"
+- **Expansão da sigla:** Circunstâncias da vida; Herança espiritual (hábitos e habilidades); Atitude mental/espiritual
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Mentalma I (B074) | Cap. 3 "A 'Chave' dos Arquivos Mentais e o 'Circuito do CHA'" | pp. 43, 46–47 (PDF) | definição e expansão |
+
+## Citações-chave
+> "Vivenciar o 'circuito do CHA' se refere ao fato das 'circunstâncias da vida' ou os seus aparentes acasos despertarem a 'herança' dos hábitos e habilidades do Espírito encarnado... Assim, a sigla 'CHA' foi elaborada a partir das letras iniciais das expressões: Circunstâncias da vida; 'Herança espiritual' (hábitos e habilidades espirituais); Atitude mental/espiritual." — B074, p. 46
+
+> "Caso a 'vontade de progredir' se encontre ausente no psiquismo pessoal... somente lhe resta se tornar um personagem ou 'vítima' do circuito da vida, que eu denomino de 'circuito do CHA' ou o 'império das circunstâncias'." — B074, p. 46
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Arquivos Mentais | RC-548 | relaciona-se-a (define os arquivos) |
+| Vontade de Progredir | RC-550 | relaciona-se-a (antídoto) |
+| Mentalma | RC-166 | relaciona-se-a |
+
+## Seres Associados
+Espírito encarnado; "Eu piloto automático" (o que vive o circuito).
+
+## Observações
+Conceito psicológico-espiritual do Mentalma I. Não confundir com outras siglas "CHA" da base (a busca retornou RC-266/295/485 apenas por coincidência de caracteres). Aplicável à gestão psíquica do cotidiano e à reforma íntima.

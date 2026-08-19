@@ -1,0 +1,51 @@
+# Isolamento Cósmico — RC-070
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | EVENTOS & ERAS |
+| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+É o isolamento imposto aos **19 planetas** que participaram da Rebelião de Lúcifer há aproximadamente **750 mil anos**, iniciada no Sistema de Capela. A Terra serviu de refúgio para exilados (que vieram em naves e reencarnaram por afinidade vibracional — os Exilados de Capela). **Atualmente, a Terra é o único planeta que ainda se encontra isolado cosmicamente**, sem "contato oficial" com outras civilizações extraterrenas. O isolamento terminará quando **Sophia, o Cristo Cósmico e Suserano deste universo, aparecer nos céus com suas naves** e fizer o primeiro contato extraterreno oficial — a promessa de Jesus de que voltaria (B031).
+
+## Contexto / Origem
+O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a condição que explica a ausência de contato oficial com ETs. Sua superação inicia a Reintegração Cósmica da Terra.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Isolamento Cósmico
+- **Variações:** isolamento do orbe terrestre; exílio cósmico
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Painéis Emergentes... (B031) | Glossário de Termos | p. 137 (aprox.) | verbete "Isolamento Cósmico" |
+| Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
+
+## Citações-chave
+> "Esse isolamento cósmico acabará no momento em que Sophia, o Cristo Cósmico e Suserano deste universo, aparecer nos céus com suas naves e fizer o primeiro contato extraterreno oficial com o nosso Planeta. Muitos não entenderão, mas a vinda de Sophia é a promessa que Jesus Cristo nos fez: a de que Ele voltaria." — B031, verbete "Isolamento Cósmico"
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | resulta-de |
+| Segundo Advento do Cristo | RC-005 | termina-com |
+| Sophia | RC-009 | agente do fim |
+| Reintegração Cósmica | RC-003 | seguido-por |
+| Exilados de Capela | RC-007 | gera |
+| Ulsh | RC-105 | envolve |
+
+## Seres Associados
+Sophia (RC-009); Yel Luzbel (RC-078); exilados de Capela (RC-007).
+
+## Observações
+Ficha baseada no glossário de B031. Nota: o glossário cita "750 mil anos" para o isolamento em 19 planetas, enquanto o verbete "Rebelião de Lúcifer" (RC-002) traz a cronologia 742/687/619 mil anos — **divergência a resolver** com a Cronologia Aproximada do livro e as obras primárias.
+
+---
+
+## Atualização — P2022-12-17
+
+- **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881.
+- **Contexto acrescentado:** O Isolamento Cósmico é descrito como condição que deverá terminar com a chegada de Sophia e a Reintegração da Terra.
+- **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.

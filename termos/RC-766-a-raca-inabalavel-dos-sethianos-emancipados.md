@@ -1,0 +1,49 @@
+# A Raça Inabalável dos Sethianos Emancipados — RC-766
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
+| **Status** | ⚪ Candidato aprovado pelo curador (2026-08-18) |
+| **Última atualização** | 2026-08-18 |
+
+## Definição Sintética
+
+**Identidade espiritual-chave** apresentada por Jan Val Ellam (P2024-09-28): a linhagem de humanos — descendentes espirituais de **Seth** (filho de Adão e Eva que se recusou a louvar Javé, RC-594) — que ao longo da história **"não venderam a dignidade"** e se habilitam ao **Tikun** (RC-514). São os **gnósticos barbelos setianos** que encarnaram na época de Jesus para compreender a Gnose pós-ressurreição, e hoje formam a "resistência cósmica" estruturada — o contraste com as criaturas devocionais. **Só eles podem ser "cocriadores parceiros do Quarto Logos" (RC-092).**
+
+## Estrutura interna
+
+- **Origem:** Seth recusou-se a louvar Javé; "nem foi Adão, nem Seth, mas Enos foi o primeiro a honrar" (Bíblia);
+- **Épocas cruciais:** (1) tempo da vida de Seth (filho de Adão e Eva, irmão de Caim e Abel); (2) tempo de Jesus (a mesma "turma" encarnou — gnósticos); (3) tempos atuais da Revelação Cósmica;
+- **Gnósticos de Barbelo:** "os mais belos gnósticos setianos, ou seja, os humanos emancipados que não venderam as suas dignidades" — encomendados pelo "pai-mãe amantíssimo" (Barbelo, RC-483; Pleroma);
+- **Tikun:** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" — os setianos como cocriadores parceiros;
+- **Genótipo e dignidade:** pode faltar tudo no genoma, menos "a sensação de dignidade" (RC-722) — ligado ao Genótipo da Gentileza (RC-748);
+- **Sofia (RC-009):** segundo o autor, os setianos "teriam sido encomendados" pela Deidade imanente — o sagrado em cada consciência (corpo átmico, RC-623);
+- **Frase final:** "somente a raça inabalável dos antigos setianos e gnósticos barbelos setianos emancipados poderá se habilitar para a função. Os demais precisam apenas não atrapalhar o processo."
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-09-28 | bloco 5 (três épocas); bloco 10 (conclusão); bloco 7 (barbelos) | palestra/STT pré-curada |
+
+## Citação-chave
+
+> "Somente a raça inabalável dos antigos setianos e gnósticos barbelos setianos emancipados poderá se habilitar para a função. Os demais precisam apenas não atrapalhar o processo." — P2024-09-28
+
+## Termos Relacionados
+
+| Termo | Código | Relação |
+|---|---|---|
+| Linhagem de Seth | RC-594 | relaciona-se-a |
+| Tikun Cósmico | RC-514 | relaciona-se-a |
+| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Quarto Logos (Olm) | RC-092 | relaciona-se-a |
+| Barbelo | RC-483 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Jesus | RC-072 | relaciona-se-a (gnose pós-ressurreição) |
+
+## Blindagem epistemológica
+
+Linhagem espiritual e "encomenda" da Deidade são **leitura do autor** (Teologia Comparada) — não é genealogia histórica validada. O contraste setianos × devocionais reforça a crítica à devoção (RC-749), mantendo a hierarquia da Base.

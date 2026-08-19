@@ -1,0 +1,42 @@
+# Democracia do Amor da Deidade — RC-333
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.6 Ética / Carma / Compromissos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-12 |
+
+## Definição Sintética
+A **liberdade total concedida pela Deidade** às suas criaturas — o polo oposto à Teocracia da Doença de Javé (B048, cap. 6): "Observando a liberdade total que a Deidade, ainda que presente em todos os demais seres, concede à personalidade destes para que atuem conforme o tirocínio que lhe for próprio, **sem jamais obrigar ou impor coisa alguma a quem quer que seja**, e agora comparando com a submissão doentia exigida pelo Senhor Javé... vemos como realmente existe algo de muito errado com a postura deste último."
+
+## Contexto / Origem
+A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é somente amor... é incapaz de agir de modo a, por exemplo, impor ou limitar a atitude de quem quer que seja". "O que dele é emanado são **mônadas amorosas, ingênuas e incapacitadas de não amarem**". O gesto de amor da Deidade "em lugar nenhum é visto como um 'favor', pois que somente é um dos aspectos reveladores do Seu ministério amoroso".
+
+## Etimologia / Grafias
+- **Grafia preferida:** Democracia do Amor da Deidade
+- **Variações:** democracia do amor; ministério amoroso da Deidade; amor incondicional da Deidade
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| Favor Divino (B048) | caps. 6, 8 | pp. 45–60, 60–75 (aprox.) | conceito central |
+
+## Citações-chave
+> "Observando a liberdade total que a Deidade, ainda que presente em todos os demais seres, concede à personalidade destes para que atuem conforme o tirocínio que lhe for próprio, sem jamais obrigar ou impor coisa alguma a quem quer que seja, e agora comparando com a submissão doentia exigida pelo Senhor Javé da parte das suas criaturas, vemos como realmente existe algo de muito errado com a postura deste último." — B048, cap. 6
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Teocracia da Doença | RC-334 | opõe-se-a |
+| Deidade | RC-047 | é-um (atributo) |
+| Deus Incognoscível | RC-052 | é-um |
+| Mônada | RC-149 | é-um (emanadas) |
+| Favor Divino | RC-332 | contraponto |
+| Liberdade Mental | RC-253 | relaciona-se-a |
+
+## Seres Associados
+Deidade (RC-047); Seres Terrenos (RC-099, beneficiários da liberdade).
+
+## Observações
+Ficha baseada em B048 (obra primária). A Democracia do Amor é o padrão ético superior que contrasta com o modelo colmeia (RC-176) e a Teocracia da Doença. Cruzar com RC-334 e RC-047.
