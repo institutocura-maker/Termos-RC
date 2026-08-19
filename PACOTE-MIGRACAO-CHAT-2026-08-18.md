@@ -15,6 +15,24 @@ Para migração entre chats, anexar preferencialmente:
 
 O usuário é o **curador e autoridade final**. A IA organiza, cruza, edita e audita; não decide ontologia sem autorização.
 
+## Espelhamento no GitHub (fonte alternativa de handoff)
+
+O projeto também está espelhado num **repositório GitHub privado**, sincronizado com o estado canônico (2026-08-19):
+
+- **URL:** `https://github.com/institutocura-maker/Termos-RC` (privado — requer token de acesso);
+- **Branch:** `main` · **Último commit de sincronização:** `ba82bfe` ("feat: sincroniza estado completo");
+- **Conteúdo:** núcleo canônico (`dados_termos.py` + 378 fichas + builders) + `apostilas/CONCLUIDAS/` com **dossiês de curadoria** (`analise/`) + temáticas (`pedagogico/`) + docs de migração + README atualizado;
+- **O que NÃO está no repo (regenerável ou volumoso):** DOCX/XLSX (regeneráveis pelos builders), `reconstrucao/` (pacotes/backups — estão nos arquivos TXT deste pacote), `__pycache__`.
+
+**Como clonar (novo chat):**
+```bash
+git clone https://x-access-token:SEU_TOKEN@github.com/institutocura-maker/Termos-RC.git
+cd Termos-RC
+python3 ferramentas/dados_termos.py   # deve validar: OK: 767 termos, 1531 relações
+```
+
+O **token** deve ser fornecido pelo curador ao novo chat (não está gravado em nenhum arquivo persistente). O GitHub é **fonte de espelhamento/backup** — o workspace local (`/home/user/rc-terminologia`) permanece a fonte primária de trabalho.
+
 ## Estado canônico (2026-08-18)
 
 ```text
@@ -100,12 +118,13 @@ ce4930b6356ded246c4a8eedb617bf5a756e73f57ec14b9b671cb887fe388fde  apostilas/INDI
 1. **Gerador/restaurador de pacotes:** fidelidade byte a byte corrigida (concatenação sem join; busca binária do FIM-ARQ); teste 434/434 arquivos.
 2. **Manifesto dinâmico:** `gerar_pacotes.py` agora computa o estado canônico automaticamente (antes hardcoded — ficava desatualizado).
 3. **Duplicata órfã removida:** `apostilas/2024-11-02_fantasmas_passado_mitologico/` (raiz) era cópia parcial redundante da versão em `CONCLUIDAS/` — removida; a apostila DOCX permanece em CONCLUIDAS.
+4. **Espelhamento GitHub (2026-08-19):** repositório privado `institutocura-maker/Termos-RC` sincronizado com o estado canônico (docs de migração, dossiês de curadoria `analise/`, temática Thot, README); commit `ba82bfe`; 727 arquivos rastreados; ver seção "Espelhamento no GitHub".
 
 ## Restaurador e pacotes
 
 - Restaurador: `ferramentas/restaurar_pacotes.py` (v3, binário; aponta para `reconstrucao/pacotes/` e aceita caminhos por argumento).
 - Formato: `===ARQ: caminho===` / `[conteúdo]` / `===FIM-ARQ: caminho===`.
-- Última fidelidade verificada: **434/434 arquivos** (pacote == manifesto == workspace).
+- Última fidelidade verificada: **435/435 arquivos** (pacote == manifesto == workspace).
 
 ## Comando inicial de validação
 
