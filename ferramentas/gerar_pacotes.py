@@ -50,6 +50,7 @@ GRUPO_REGENERACAO = [
     "01-ficha-modelo.md",
     "02-vocabulario-controlado.md",
     "GUIA-MESTRE-RC-APOSTILA.txt",
+    "PROMPT-INICIAL-DO-AGENTE.md",
     "apostilas/INDICE-PALESTRAS.md",
     "apostilas/INDICE-CURADOR-2026-08-17.txt",
 ]
