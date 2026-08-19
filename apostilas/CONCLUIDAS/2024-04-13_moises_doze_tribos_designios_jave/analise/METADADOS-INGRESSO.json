@@ -1,0 +1,16 @@
+{
+  "sha256_original": "f3f35738828c2cbb1ba5596a1601afeab4f3b81498bb54d353bdb93d1ea511a8",
+  "bytes_original": 128662,
+  "lines_original": 157,
+  "words_original": 22337,
+  "words_transcricao": 21825,
+  "chars_transcricao": 121170,
+  "estrutura": {
+    "cabecalho_indice": "linhas 1-60 (SUGESTÃO DE ÍNDICE, 9 seções, 36 subseções)",
+    "abertura": "linha 62 (Bem, vamos então iniciar...)",
+    "corpo": "linhas 63-157 (blocos contínuos de fala)",
+    "intervencoes_plateia": "a verificar na leitura",
+    "encerramento": "a verificar na leitura"
+  },
+  "observacao": "transcrição STT com índice sugerido; blocos longos sem segmentação U####"
+}

@@ -1,0 +1,16 @@
+{
+  "sha256_original": "a61bbb23af283187de72fa7bcc9d2cc2c3dbdd63106df071740831087e542995",
+  "bytes_original": 182960,
+  "lines_original": 193,
+  "words_original": 31495,
+  "words_transcricao": 31403,
+  "chars_transcricao": 175915,
+  "estrutura": {
+    "cabecalho_evento": "linhas 1-18 (Florianópolis-SC, 14/06/2025, ingresso/contatos)",
+    "abertura": "linha 19 (Pessoal, boa tarde...)",
+    "corpo": "linhas 20-191 (blocos contínuos + extensa sessão de perguntas da plateia)",
+    "intervencoes_plateia": "extensas (Álvaro, Larissa, Elan, Bruno e outros; hermetismo, linhagens, ovo cósmico, ayahuasca, microtúbulos, Ifá/ADE...)",
+    "encerramento": "linha 191 (Podemos encerrar, pessoal. Obrigado. Desculpa qualquer coisa.)"
+  },
+  "observacao": "palestra interativa de Florianópolis; extensa sessão de perguntas; ~31.5k palavras (a maior do conjunto)"
+}

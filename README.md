@@ -1,127 +1,135 @@
-# Termos-RC — Curadoria Terminológica Espiritual
+# Base Terminológica RC — Revelações Cósmicas de Jan Val Ellam
 
-> Repositório de curadoria, glossário e apostilas da tradição **RC** (Revelação Cósmica).
-> Owner: **institutocura-maker**
-> Iniciado em: 2026-08-19 (sessão Apostila(6))
+Workspace reconstruído em **2026-08-14** a partir de:
 
----
+- `GUIA-MESTRE-RC-APOSTILA.pdf` — mapa conceitual, editorial e operacional do projeto;
+- `PACOTE-DE-REGENERACAO-2026-08-14.txt` — arquivos de máquina da base.
 
-## 🎯 Propósito
+Atualizado em **2026-08-17** (nova sessão): Base restaurada para o checkpoint final da seção anterior (745 termos / 1.354 relações), fichas complementares reintegradas e artefatos regenerados.
 
-Este repositório é o **lar versionado** do projeto de curadoria terminológica que vinha sendo desenvolvido em sessões anteriores da plataforma Arena.ai (sessões APOSTILA(1) a APOSTILA(5)).
+## Estado validado
 
-Ele contém:
-- **Base terminológica** dos termos da Revelação Cósmica (RC-001 a RC-767+)
-- **Apostilas concluídas** (13 palestras curadas)
-- **Ferramentas Python** de apoio (build de índices, .docx, .xlsx, pacotes)
-- **Material pedagógico** (estudos temáticos)
-- **Pacotes de migração** entre chats (CONTINUIDADE, RELATÓRIOS, etc.)
+| Item | Estado |
+|---|---:|
+| Termos | **760** (`RC-001` a `RC-760`) |
+| Relações tipadas | **1.433** |
+| Termos marcados com ficha detalhada | **340** |
+| Fichas físicas em `termos/` | **341** (340 canônicas + RC-004 como investigação) |
+| Obras cadastradas | **79** (`B001` a `B079`) |
+| Planilha consolidada | **regenerada — 7 abas** |
+| Índice mestre | **regenerado — 748 termos** |
+| DOCX de leitura | **regenerado — 748 termos / 1.365 relações / 79 obras** |
+| Validação da Base | **OK: 760 termos, 1433 relações — dados válidos** |
 
----
+## Palestras incorporadas (estado resumido)
 
-## 📁 Estrutura
+| Palestra | Faixa / resultado |
+|---|---|
+| P2021-12-04 — Archeons de Ereon e Seres Adhy | RC-596–RC-619 · incorporada |
+| P2022-12-17 — O Incompreendido Ano de 2012 | RC-566–RC-595 · incorporada |
+| P2024-02-25 — Faces de Javé | RC-556–RC-565 · apostila; DOCX a regenerar (Hochmah) |
+| P2024-03-03 — A dessensibilização da Humanidade | **RC-746–RC-748 · incorporada** (Base-first) |
+| P2024-03-02 — O Drama Espiritual de Jesus | **RC-756 · incorporada** (interrompida; núcleo validado) |
+| P2024-04-13 — Moisés, as Doze Tribos e os Desígnios de Javé | **RC-749–RC-750 · incorporada** (Base-first) |
+| P2024-04-14 — Bagagem Intransferível | **RC-751–RC-752 · incorporada** (Base-first) |
+| P2024-05-04 — Simultaneidade Reversa | RC-628–RC-642 · incorporada |
+| P2024-07-13 — Reintegração Cósmica — Tempos de Ruptura | reforços + RC-742/743/744 · concluída |
+| P2024-07-14 — Consciências Espirituais Dignificadas | reforços + RC-745 · concluída |
+| P2024-08-03 — A Falência dos Deuses e a Destinação do Lobo | reforços + RC-742/743/744 · concluída |
+| P2024-09-29 — A Aristocracia Olimpiana e as Monarquias Terrestres | RC-736–RC-741 · concluída |
+| P2024-11-02 — Fantasmas do Passado Mitológico | **RC-728–RC-735 · concluída** (Dossiê aprovado; apostila a confirmar nesta sessão) |
+| P2024-11-09 — O Abismo da Consciência Cósmica | RC-721–RC-727 · apostila aprovada pelo curador |
+| P2024-11-30 — Moros e os Arquivos do Destino Universal | RC-714–RC-720 · apostila aprovada |
+| P2025-02-15 — Camuflagem da Realidade | RC-702–RC-713 · apostila aprovada |
+| P2025-02-16 — Oitavo Dia da Criação | RC-694–RC-701 · apostila aprovada |
+| P2025-03-15 — Rebelião dos Elétrons | RC-690–RC-693 · fonte incompleta; apostila do fragmento aprovada |
+| P2025-05-31 — Árvore da Vida / Metatron | RC-671–RC-689 · DOCX aguardando revisão |
+| P2025-06-14 — A Consciência Humana e a Chave da Decifração Universal | **RC-753–RC-755 · incorporada** (Base-first) |
+| P2025-06-26 — 1ª Ed. Estagiários do Kaos | RC-658–RC-666 · DOCX aguardando revisão |
+| P2025-10-25 — 2ª Ed. Estagiários do Kaos | RC-648–RC-657 · apostila aprovada |
+| P2026-02-28 — Transição Planetária | RC-667–RC-670 · DOCX aguardando revisão |
+| P2026-04-02 — 3ª Ed. Estagiários do Kaos | RC-643–RC-647 · apostila aprovada |
+| P2026-07-30 — 4ª Ed. Estagiários do Kaos | RC-620–RC-627 · incorporada |
+| P2026-08-04 — Podcast Irmãos Dias #272 (Alienígenas e a Bíblia) | **0 códigos · 24 ampliações · 12 relações** (esclarecimento) |
 
-```
-rc-terminologia/
-├── README.md                              ← este arquivo
-├── STATUS-RESTAURACAO.md                  ← controle de migração entre chats
-├── indice-mestre.md                       ← índice geral (em restauração)
-├── CONTINUIDADE.md                        ← guia de continuidade entre sessões
-├── GUIA-MESTRE-RC-APOSTILA.txt            ← documento-mestre (em restauração)
-├── 01-ficha-modelo.md
-├── 02-vocabulario-controlado.md
-├── convencoes-editoriais-rc.md
-├── INDICE-PALESTRAS.md
-├── PACOTE-MIGRACAO-CHAT-2026-08-16.md
-├── PACOTE-MIGRACAO-CHAT-2026-08-18.md
-├── PLANO-MIGRACAO-DE-CHAT.md
-├── RELATORIO-DE-RESTAURACAO-2026-08-17.md
-├── RELATORIO-NOVOS-TERMOS-RC-728-745.md
-│
-├── apostilas/
-│   └── CONCLUIDAS/                        ← 13 apostilas finalizadas
-│       ├── 2021-03-27_enki_enlil_fim_babilonia/
-│       │   ├── Apostila - Enki, Enlil e o Fim Súbito da Babilônia.docx
-│       │   ├── apostila.md
-│       │   ├── ficha_ingresso.md
-│       │   ├── original.txt
-│       │   └── analise/
-│       │       ├── camada-0.txt ... camada-3.txt
-│       │       ├── DECISAO-DO-CURADOR.md
-│       │       ├── DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md
-│       │       ├── leitura-segmentada.txt
-│       │       ├── METADADOS-INGRESSO.json
-│       │       ├── RELATORIO-DE-CICLO.md
-│       │       └── leitura/
-│       │           └── chunk-01.txt ... chunk-NN.txt
-│       ├── ... (12 outras apostilas)
-│
-├── ferramentas/                          ← scripts Python
-│   ├── build_apostila.py
-│   ├── build_indice.py
-│   ├── build_word.py
-│   ├── build_xlsx.py
-│   ├── criar_pasta_palestra.py
-│   ├── dados_termos.py
-│   ├── gerar_pacotes.py
-│   └── restaurar_pacotes.py
-│
-├── pedagogico/                            ← estudos temáticos
-│   ├── Apostila - Javé_ O Buraco Negro da Revelação Cósmica.docx
-│   ├── Apostila-Estudo-Jave-Buraco-Negro.md
-│   ├── MAPA-JAVE-CONEXOES.md
-│   └── mapa-jave-conexoes.svg
-│
-├── reconstrucao/                          ← backups e pacotes
-│   ├── backups/                           ← versões históricas de dados_termos.py
-│   └── pacotes/                           ← pacotes agregados para migração
-│       ├── MANIFESTO-PACOTES-2026-08-18.txt
-│       ├── PACOTE-DE-APOSTILAS-2026-08-18.txt
-│       ├── PACOTE-DE-FICHAS-2026-08-18.txt
-│       ├── PACOTE-DE-ORIGINAIS-2026-08-18.txt
-│       └── PACOTE-DE-REGENERACAO-2026-08-18.txt
-│
-├── referencias-curador/                   ← artigos de referência
-│   └── artigos/
-│       └── 2026-08-18_quarto_cerebro_pandora_denise/
-│
-└── termos/                                ← 378 fichas terminológicas
-    ├── RC-001-jave.md
-    ├── RC-002-rebeliao-de-lucifer.md
-    ├── ...
-    └── RC-767-os-256-caminhos-profetizaveis-de-orunmila.md
+
+## Estratégia vigente (decisão do curador, 2026-08-17)
+
+**Cenário Base-first — apostilas adiadas, camadas/U#### preservadas.**
+
+- Processamento de palestras focado em **enriquecer a Base Terminológica** (termos + fichas + relações);
+- Apostila integral (DOCX) **adiada** — produzida apenas se possível no futuro, a pedido explícito, reaproveitando camadas e U####; apostilas concluídas arquivadas em `apostilas/CONCLUIDAS/`;
+- **Camadas 0–3 + segmentação U#### mantidas** no fluxo (matéria-prima editorial reaproveitável);
+- Leitura 2x + dossiê enxuto + devolutiva do curador **inalterados** (qualidade da curadoria);
+- Entregável padrão do ciclo: **relatório de enriquecimento** (termos novos, relações, quarentenas).
+
+## Fonte única de verdade
+
+`ferramentas/dados_termos.py` é a fonte canônica para:
+
+- códigos e grafias;
+- categorias e status;
+- fontes;
+- termos relacionados;
+- relações tipadas.
+
+**Nunca editar diretamente `base-terminologica.xlsx` ou `indice-mestre.md`: eles são artefatos gerados.**
+
+A bibliografia (`BIBLIO`) está embutida em `ferramentas/build_xlsx.py` e, conforme o Guia-Mestre, deve ser alterada manualmente e com extremo cuidado.
+
+## Comandos de validação e regeneração
+
+```bash
+cd /home/user/rc-terminologia
+python3 ferramentas/dados_termos.py
+python3 ferramentas/build_indice.py
+python3 ferramentas/build_xlsx.py
 ```
 
----
+Resultados esperados:
 
-## 🚀 Como usar (na plataforma Arena.ai)
+```text
+OK: 760 termos, 1433 relações — dados válidos.
+OK -> indice-mestre.md (760 linhas)
+OK -> base-terminologica.xlsx (7 abas)
+```
 
-### Restauração da sessão
-1. Em uma nova sessão, peça ao agente para "ler o `STATUS-RESTAURACAO.md`"
-2. O agente vai entender onde paramos e sugerir os próximos passos
+Outros builders:
 
-### Versionamento com GitHub
-- Repositório: https://github.com/institutocura-maker/Termos-RC
-- Clone: `git clone https://github.com/institutocura-maker/Termos-RC.git`
-- Push: `git push origin main`
+```bash
+python3 ferramentas/build_word.py
+python3 ferramentas/criar_pasta_palestra.py YYYY-MM-DD_slug_resumido
+python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostila.md
+```
 
----
+> Fichas físicas atuais: **322** (321 canônicas + RC-004 como investigação adicional). O restaurador de pacotes está em `ferramentas/restaurar_pacotes.py` (v3, binário).
 
-## 📊 Status atual
+## Regras editoriais essenciais
 
-- ✅ Estrutura de pastas reconstruída (164 pastas)
-- ⏳ ~831 arquivos a restaurar (em andamento)
-- ⏳ 10 arquivos críticos pendentes (ver `STATUS-RESTAURACAO.md`)
+1. Apostila é **transcrição editada integral**, com cobertura próxima de 100% — nunca resumo.
+2. Não inventar, completar ou interpolar. Marcar lacunas com `[REVISAR]` ou `[TEXTO INCOMPLETO]`.
+3. Preservar a voz do autor: marcadores orais, humor, digressões e autocorreções.
+4. Corrigir erros claros de STT com nota editorial na primeira ocorrência.
+5. Notas editoriais são contextuais e não avaliativas.
+6. Usar grafias canônicas da Base: **Brahma, Tikun, Sophia, Nefilins, Ialdabaoth, Olm, Adhy, Javé, Vishnu, Hochmah**.
+7. Em palestra nova: detectar termos, sobretudo os colocados entre aspas; cruzar com a Base e registrar candidatos com fonte `PAAAA-MM-DD`.
+8. O curador é a autoridade de validação; a IA é ferramenta de organização e edição.
+9. **Colecionar incertezas:** registrar dúvidas e divergências sem convertê-las prematuramente em verdades.
 
----
+## Próximos passos canônicos
 
-## 📜 Histórico de sessões
+1. **Pendências de enriquecimento:** nenhuma palestra com apostila concluída fora da Base. P2024-03-02 (Drama Espiritual de Jesus) incorporada. Palestras conhecidas do Guia (Setianos, Dinastia das Sophias) aguardam material-fonte.
+2. Definir, com o curador, o estado da apostila de **P2024-11-02 — Fantasmas do Passado Mitológico** (Dossiê aprovado na seção anterior; a pasta com original/análises já está no workspace).
+3. Iniciar qualquer nova faixa somente em `RC-761`, após aprovação expressa dos candidatos.
+4. Manter em quarentena os itens fonéticos, ontológicos, clínicos, científicos, históricos e políticos registrados nos Dossiês.
+5. Usar o plano/pacote de migração de chat para qualquer mudança de conversa.
+6. Recuperar, se possível, o retorno do intervalo ausente de P2025-03-15.
 
-| Sessão | Data | Backup | Observação |
-|--------|------|--------|------------|
-| APOSTILA(5) V5.0 FINAL | até 2026-08-19 | `BKP_APOSTILA(5)V5.0_FINAL` | backup local em C:\RC News\IEEA\_BACKUP_ |
-| **APOSTILA(6)** | **2026-08-19 →** | **este repo** | **migração para GitHub** |
+## Pastas
 
----
-
-*"A continuidade entre sessões é o que mantém vivo o trabalho do curador."*
+- `ferramentas/` — dados canônicos, builders e restaurador de pacotes;
+- `termos/` — 322 fichas físicas: 321 canônicas + RC-004 como investigação adicional;
+- `apostilas/` — fontes e produtos das palestras; **`apostilas/CONCLUIDAS/`** reúne as pastas com apostila DOCX concluída (6); `2024-11-02` em processamento; demais aguardando recuperação do backup;
+- `pedagogico/` — materiais didáticos (aguardando recuperação);
+- `referencias-curador/` — fontes de reconstrução e materiais não canônicos;
+- `reconstrucao/` — inventário, backups e cópias dos arquivos de sincronização; `reconstrucao/pacotes/` guarda os **Pacotes de Reconstrução/Migração** (TXT anexáveis com manifesto SHA-256; gerados por `ferramentas/gerar_pacotes.py`, restaurados por `ferramentas/restaurar_pacotes.py`).

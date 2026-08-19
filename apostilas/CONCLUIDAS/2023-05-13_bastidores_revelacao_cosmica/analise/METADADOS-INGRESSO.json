@@ -1,0 +1,17 @@
+{
+  "sha256_original": "4325dc45cb806d7c29fa5c4e02914935de5cd937ce80f4deadd7ddb24b0aa969",
+  "bytes_original": 102448,
+  "lines_original": 182,
+  "words_original": 17534,
+  "words_transcricao": 16707,
+  "chars_transcricao": 93270,
+  "data_canonica": "2023-05-13",
+  "observacao_data": "Nome do arquivo '2023-13-05' (mês 13 inexistente) → interpretado como 13/05/2023 = P2023-05-13; local: Red Cross Irlanda",
+  "estrutura": {
+    "cabecalho_sumario": "linhas 1-80 (Sumário Doutrinário, 9 seções)",
+    "abertura": "linha 82 (Vamos nós aqui em Red Cross Irlanda...)",
+    "corpo": "linhas 82-182 (blocos + perguntas da plateia)",
+    "intervencoes_plateia": "presentes (B, Rodrigo, Paulo, super-heróis, IA...)",
+    "encerramento": "linhas 174-182 (perguntas finais; 'Tem duas de mim')"
+  }
+}

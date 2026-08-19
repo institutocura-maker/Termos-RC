@@ -1,0 +1,30 @@
+# Índice de palestras — estado reconstruído
+
+| Data | Palestra | Fonte | Estado no Guia | Estado neste workspace |
+|---|---|---|---|---|
+| 04/12/2021 | Os Archeons de Ereon e os Seres Adhy | `P2021-12-04` / parte de B061 | pré-curadoria, Base e apostila concluídas | estrutura corrigida; 24 termos novos (`RC-596`–`RC-619`); DOCX aguardando revisão do curador |
+| 27/03/2021 | Enki, Enlil e o Fim Súbito da Babilônia | `P2021-03-27` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-764 (Ao Vencedor as Batatas) + RC-765 (Relógio Messiânico); RC-487 (Enlil) com ficha criada; 21 ampliações + 22 relações; **APOSTILA CONCLUÍDA** (marcos da pausa estratégica) |
+| 17/12/2022 | O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | `P2022-12-17` | pré-curadoria e apostila concluídas | 30 termos novos (`RC-566`–`RC-595`), Base atualizada e DOCX aguardando revisão do curador |
+| 03/02/2024 | O Jainismo e o Druidismo Ancestrais | `P2024-02-03` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-759 (Jainismo = antigo Druidismo) + RC-760 (Vrittis e Cittas); **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
+| 13/05/2023 | Bastidores da Revelação Cósmica | `P2023-05-13` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-761 (As Cinco Lentes da Realidade); 19 ampliações + 16 relações; 7 fichas novas/13 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
+| 02/12/2023 | Thot, o Enigmático Hermes Trimegisto | `P2023-12-02` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-762 (Três Escalas) + RC-763 (Sete Leis); RC-463 elevado a fonte primária; 29 ampliações + 21 relações; 11 fichas novas/20 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
+| 25/02/2024 | As Faces de Javé — O Senhor Parameshthi | `P2024-02-25` | apostila completa | fonte Markdown/DOCX ausente; aguarda recuperação |
+| 04/05/2024 | Prabrajna em Perpérion — Simultaneidade Reversa | `P2024-05-04` | Base e apostila concluídas | 15 termos novos (`RC-628`–`RC-642`); apostila aprovada |
+| 28/09/2024 | A Raça Inabalável dos Sethianos Emancipados | `P2024-09-28` / parte de B061 | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-766 (Raça Inabalável dos Sethianos); 24 ampliações + 22 relações; 3 fichas novas/23 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
+| 02/11/2024 | Fantasmas do Passado Mitológico | `P2024-11-02` | pré-curadoria concluída | **PAUSADA pelo curador**; Dossiê com 50 itens; 1.571 unidades; não retomar sem autorização; Base congelada em 727/1.218 |
+| 09/11/2024 | O Abismo da Consciência Cósmica | `P2024-11-09` | Base e apostila concluídas | aprovado com blindagem epistemológica; `RC-721`–`RC-727`; 1.271/1.271 unidades; apostila aprovada pelo curador |
+| 30/11/2024 | Morus e os Arquivos do Destino Universal | `P2024-11-30` | Base e apostila concluídas | `RC-714`–`RC-720`; 1.982/1.982 unidades; apostila aprovada |
+| 15/02/2025 | Você, a Camuflagem da Realidade e os Postulados Quânticos | `P2025-02-15` | Base e apostila concluídas | `RC-702`–`RC-713`; 1.833/1.833 unidades; apostila aprovada |
+| 16/02/2025 | O Oitavo Dia da Criação — O Novo Ser Humano | `P2025-02-16` | Base e apostila concluídas | `RC-694`–`RC-701`; 1.272/1.272 unidades; apostila aprovada |
+| 15/03/2025 | A Rebelião dos Elétrons e a Era do Colapso do Caos Organizado | `P2025-03-15` | Base e apostila do fragmento concluídas | `RC-690`–`RC-693`; fonte oficialmente incompleta; apostila aprovada |
+| 31/05/2025 | O Mistério da Árvore da Vida e a Urdidura de Metatron | `P2025-05-31` | Base e apostila concluídas | RC-671–RC-689; DOCX aguardando revisão |
+| 26/06/2025 | 1ª Edição — Estagiários do Kaos | `P2025-06-26` | Base e apostila concluídas | RC-658–RC-666; DOCX aguardando revisão |
+| 25/10/2025 | 2ª Edição — Estagiários do Kaos | `P2025-10-25` | Base e apostila concluídas | RC-648–RC-657; apostila aprovada |
+| 02/04/2026 | 3ª Edição — Estagiários do Kaos | `P2026-04-02` | Base e apostila concluídas | RC-643–RC-647; Mohen So normalizado; apostila aprovada |
+| 29/11/2025 | A Revelação de Ifá e o Destino dos Seres | `P2025-11-29` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-767 (256 Caminhos de Orunmilá); RC-655/665/666 elevados a fonte primária; 24 ampliações + 17 relações; 4 fichas novas/21 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
+| 14/06/2025 | A Consciência Humana e a Chave da Decifração Universal | parte de B061 | conhecida | material-fonte ausente |
+| 28/02/2026 | Os Desafios da Transição Planetária — Aprofundamento | `P2026-02-28` / parte de B061 | Base e apostila concluídas | RC-667–RC-670; DOCX aguardando revisão |
+| 25/07/2026 | Jesus e a Dinastia das Sophias | parte de B061 | conhecida | material-fonte ausente |
+| 30/07/2026 | 4ª Edição — Perguntas e Reflexões dos Estagiários do Kaos | `P2026-07-30` | Base e apostila concluídas | Elm/Olm, En Ma, Deva/Aurora e RC-620–RC-627 incorporados; DOCX aguardando revisão do curador |
+
+> O Guia usa contagens resumidas diferentes em trechos distintos. O quadro acima conserva todas as datas nominalmente mencionadas, sem eliminar nenhuma.

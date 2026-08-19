@@ -1,0 +1,17 @@
+{
+  "sha256_original": "fd1f08a18bbdda42ee60cdf100b313983211685b1615c0b7488e75140159c28b",
+  "bytes_original": 111154,
+  "lines_original": 121,
+  "words_original": 19148,
+  "words_transcricao": 18793,
+  "chars_transcricao": 105214,
+  "estrutura": {
+    "cabecalho_indice": "linhas 1-51 (ÍNDICE DE CONTEÚDO, 9 seções, 27 subseções)",
+    "abertura": "linha 54 (Bem, vamos lá então... encerra um ciclo; encontro de Edimburgo 2019)",
+    "corpo": "linhas 54-121 (blocos + extensas interações com plateia: Elã, Fideles...)",
+    "intervalo": "linha 84 (15 minutinhos de intervalo)",
+    "encerramento": "a verificar na leitura (linhas 112-121 mostram perguntas finais)",
+    "intervencoes_plateia": "extensas (Elã, Fideles, perguntas sobre Kalki/Buda Maitreya, Ganesha, Yggdrasil, JJ Benites)"
+  },
+  "observacao": "palestra marcada como 'interrompida pela metade' pelo curador; verificar integridade da sequência na leitura"
+}

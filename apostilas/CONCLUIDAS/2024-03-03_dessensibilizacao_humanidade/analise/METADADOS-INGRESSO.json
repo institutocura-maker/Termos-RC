@@ -1,0 +1,16 @@
+{
+  "sha256_original": "2d5ed19a1aaaf4a837231ec6835a62a2eb5358c38241a12edcb6c8ae18ebba64",
+  "bytes_original": 83594,
+  "lines_original": 65,
+  "words_original": 14451,
+  "words_transcricao": 14056,
+  "chars_transcricao": 77969,
+  "estrutura": {
+    "cabecalho_sumario": "linhas 1-48 (7 seções, 28 subseções)",
+    "abertura": "linhas 50-55 (Pessoal, bom dia...)",
+    "corpo": "linhas 56-63 (blocos contínuos de fala, sem quebras internas)",
+    "intervencoes_plateia": "presentes (ex.: linha 57 'Rogério, antes de você continuar...')",
+    "encerramento": "não presente explicitamente; linha 61 menciona intervalo ('10 minutinhos')"
+  },
+  "observacao": "transcrição STT sem segmentação em unidades; bloco único corrido"
+}

@@ -1,0 +1,18 @@
+{
+  "sha256_original": "e7a6b86781d255056018365241d94d4e8e5de338c0700019d51e8ff654df6d31",
+  "bytes_original": 116408,
+  "lines_original": 47,
+  "words_original": 20168,
+  "words_transcricao": 20168,
+  "chars_transcricao": 112576,
+  "data_canonica": "2024-09-28",
+  "observacao_data": "Nome do arquivo '2024-09-28' — data canônica direta = P2024-09-28; palestra listada no Guia como 'A Raça Inabalável dos Sethianos Emancipados' (parte de B061)",
+  "estrutura": {
+    "cabecalho_sumario": "SEM sumário separado — transcrição direta",
+    "abertura": "'Vamos então. Obrigado pela presença...' (Zeitgeist; condicionamento)",
+    "corpo": "10 blocos na leitura segmentada + intervalo de 15 min",
+    "intervencoes_plateia": "7 (piada setiana; elétrons de Jesus; transfiguração; Rogério/transumanismo; Pashupati; serpentes; cavalo/elefante)",
+    "encerramento": "'escapem enquanto ainda podem'; agradecimentos",
+    "local": "Rezende (referência no corpo)"
+  }
+}

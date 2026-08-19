@@ -1,0 +1,18 @@
+{
+  "sha256_original": "3a44dcc35229aa03f7884c41d5abeac41ac00a12bdb89e05e5d09aaf80cb5110",
+  "bytes_original": 106290,
+  "lines_original": 113,
+  "words_original": 18346,
+  "words_transcricao": 17880,
+  "chars_transcricao": 99801,
+  "data_canonica": "2023-12-02",
+  "observacao_data": "Nome do arquivo '2023-12-02' — data canônica direta = P2023-12-02",
+  "estrutura": {
+    "cabecalho_sumario": "início (Sumário Doutrinário, 8 seções)",
+    "abertura": "corpo após o sumário ('Vamos nós então...')",
+    "corpo": "blocos expositivos com slides (11 blocos na leitura segmentada)",
+    "intervencoes_plateia": "8 perguntas (Steiner; habitação de Tot; bombas/expulsão; Apolônio de Tiana; Tot e a RC; invasão ET; Sofia; fraternidade branca)",
+    "encerramento": "'Enaltecer uma figura que ninguém conhece...'; agradecimento; 'vamos para casa'",
+    "observacao_palestra_preparatoria": "palestra preparatória para a de 03/12/2023 (Rebelião de Lúcifer envolvendo Thot)"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "sha256_original": "fd4393c3d23973f273dcf9b9716b0de1e0cf2441b9308b10f5b56360bd15392b",
+  "bytes_original": 181780,
+  "lines_original": 30,
+  "words_original": 31100,
+  "words_transcricao": 31078,
+  "chars_transcricao": 176028,
+  "data_canonica": "2025-11-29",
+  "observacao_data": "Nome do arquivo '2025-11-29' — data canônica direta = P2025-11-29; 'Íntegra da Palestra de Jan Val Ellam em 29/11/2025'; palestra anunciada em P2024-09-28 (Rezende, novembro: Revelação de Ifá)",
+  "estrutura": {
+    "cabecalho_sumario": "SEM sumário separado — título + íntegra direta",
+    "abertura": "'Pessoal, bom dia...' (Descartes; Protágoras; desapego)",
+    "corpo": "12 blocos na leitura segmentada + intervalo/lanche de 1h",
+    "intervencoes_plateia": "3 (Luiz/Ganga; portais América do Sul; fungos)",
+    "encerramento": "'Pessoal, desculpe qualquer coisa... Até qualquer dia'",
+    "elo_base": "FONTE PRIMÁRIA de RC-655 (Revelação de Ifá), RC-665 (Orunmilá), RC-666 (Obatalá); anunciada em P2024-09-28"
+  }
+}

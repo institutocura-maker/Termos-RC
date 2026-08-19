@@ -1,0 +1,18 @@
+{
+  "sha256_original": "76d8b321f1b356a8d6a00efc41574e3d83bba5efaff9b3b27cbb93382cea7959",
+  "bytes_original": 142337,
+  "lines_original": 60,
+  "words_original": 24998,
+  "words_transcricao": 24621,
+  "chars_transcricao": 135635,
+  "data_canonica": "2021-03-27",
+  "observacao_data": "Nome do arquivo '2021-03-27' — data canônica direta = P2021-03-27; palestra online (referência a 'quem um dia assistiu essa palestra lá na frente', março de 2021)",
+  "estrutura": {
+    "cabecalho_sumario": "início (Sumário Doutrinário, 7 capítulos)",
+    "abertura": "corpo após o sumário ('Olá, pessoal...')",
+    "corpo": "blocos expositivos com slides/mapas (10 blocos na leitura segmentada; Léo/Cris operando slides)",
+    "intervencoes_plateia": "2 perguntas (Ricardo Andrade — modus operandi psicopático; Rogério — fechamento/vinda de Sofia)",
+    "encerramento": "reflexão final ('somos os autores e atores da nossa própria vida'); agradecimentos ('Um beijo, um abraço a todos')",
+    "observacao_palestra_antiga": "palestra de 2021 (a mais antiga do corpus processado) — conecta ao ciclo Anunnaki/Thot (P2023-12-02)"
+  }
+}

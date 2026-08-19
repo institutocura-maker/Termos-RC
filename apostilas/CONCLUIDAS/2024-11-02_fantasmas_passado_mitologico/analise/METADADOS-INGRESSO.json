@@ -1,0 +1,30 @@
+{
+  "sha256_original": "a8ede85144c948712f094206cc0a40efd9c6dfeb4df8c43a5cd722b1cfd1d4ca",
+  "bytes_original": 144407,
+  "lines_original": 204,
+  "words_original": 24887,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 91,
+      "words": 7,
+      "lines": 2
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 48,
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 3541,
+      "words": 557,
+      "lines": 62
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 140521,
+      "words": 24322,
+      "lines": 134
+    }
+  },
+  "analytic_units": 1571,
+  "source_status": "sequência aparentemente completa; abertura, intervalo, perguntas e encerramento presentes"
+}

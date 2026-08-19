@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="1300" viewBox="0 0 1300 1300" font-family="Segoe UI, Arial, Helvetica, sans-serif">
+<defs>
+  <radialGradient id="bh" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#000000"/><stop offset="55%" stop-color="#1e0b2e"/><stop offset="80%" stop-color="#3b0764"/><stop offset="100%" stop-color="#000000"/>
+  </radialGradient>
+  <radialGradient id="halo" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#c084fc" stop-opacity="0.5"/><stop offset="100%" stop-color="#c084fc" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1300" height="1300" fill="#0a0118"/>
+<circle cx="650.0" cy="650.0" r="230" fill="url(#halo)"/>
+<circle cx="650.0" cy="650.0" r="285" fill="none" stroke="#3b2a55" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="2,6"/>
+<circle cx="650.0" cy="650.0" r="465" fill="none" stroke="#3b2a55" stroke-width="1" stroke-opacity="0.35" stroke-dasharray="2,6"/>
+<line x1="722.0" y1="650.0" x2="899.0" y2="650.0" stroke="#4ade80" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="720.7" y1="663.6" x2="894.5" y2="697.1" stroke="#a3e635" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="716.8" y1="676.8" x2="881.2" y2="742.5" stroke="#4ade80" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="710.6" y1="688.9" x2="859.5" y2="784.6" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="702.1" y1="699.7" x2="830.2" y2="821.8" stroke="#fb923c" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="691.8" y1="708.6" x2="794.4" y2="852.8" stroke="#60a5fa" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="679.9" y1="715.5" x2="753.4" y2="876.5" stroke="#fbbf24" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="667.0" y1="720.0" x2="708.7" y2="892.0" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="653.4" y1="721.9" x2="661.8" y2="898.7" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="639.8" y1="721.3" x2="614.6" y2="896.5" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="626.5" y1="718.0" x2="568.6" y2="885.3" stroke="#60a5fa" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="614.0" y1="712.4" x2="525.5" y2="865.6" stroke="#60a5fa" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="602.9" y1="704.4" x2="486.9" y2="838.2" stroke="#60a5fa" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="593.4" y1="694.5" x2="454.3" y2="803.9" stroke="#fbbf24" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="586.0" y1="683.0" x2="428.7" y2="764.1" stroke="#f87171" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="580.9" y1="670.3" x2="411.1" y2="720.2" stroke="#f472b6" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="578.3" y1="656.8" x2="402.1" y2="673.7" stroke="#c084fc" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="578.3" y1="643.2" x2="402.1" y2="626.3" stroke="#fb923c" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="580.9" y1="629.7" x2="411.1" y2="579.8" stroke="#4ade80" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="586.0" y1="617.0" x2="428.7" y2="535.9" stroke="#fb923c" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="593.4" y1="605.5" x2="454.3" y2="496.1" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="602.9" y1="595.6" x2="486.9" y2="461.8" stroke="#c084fc" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="614.0" y1="587.6" x2="525.5" y2="434.4" stroke="#f87171" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="626.5" y1="582.0" x2="568.6" y2="414.7" stroke="#c084fc" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="639.8" y1="578.7" x2="614.6" y2="403.5" stroke="#fbbf24" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="653.4" y1="578.1" x2="661.8" y2="401.3" stroke="#fbbf24" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="667.0" y1="580.0" x2="708.7" y2="408.0" stroke="#2dd4bf" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="679.9" y1="584.5" x2="753.4" y2="423.5" stroke="#fb923c" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="691.8" y1="591.4" x2="794.4" y2="447.2" stroke="#fb923c" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="702.1" y1="600.3" x2="830.2" y2="478.2" stroke="#fbbf24" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="710.6" y1="611.1" x2="859.5" y2="515.4" stroke="#c084fc" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="716.8" y1="623.2" x2="881.2" y2="557.5" stroke="#c084fc" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="720.7" y1="636.4" x2="894.5" y2="602.9" stroke="#c084fc" stroke-width="1.6" stroke-opacity="0.8"/>
+<line x1="728.0" y1="650.0" x2="1087.0" y2="650.0" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="727.2" y1="661.4" x2="1082.3" y2="713.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="724.7" y1="672.5" x2="1068.5" y2="775.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="720.6" y1="683.1" x2="1045.7" y2="835.5" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="715.1" y1="693.0" x2="1014.5" y2="891.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="708.1" y1="702.1" x2="975.5" y2="941.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="699.9" y1="710.0" x2="929.5" y2="985.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="690.6" y1="716.6" x2="877.7" y2="1023.0" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="680.5" y1="721.8" x2="820.9" y2="1052.2" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="669.7" y1="725.5" x2="760.5" y2="1072.8" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="658.5" y1="727.5" x2="697.8" y2="1084.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="647.2" y1="727.9" x2="634.0" y2="1086.7" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="635.8" y1="726.7" x2="570.6" y2="1079.7" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="624.8" y1="723.8" x2="508.9" y2="1063.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="614.3" y1="719.4" x2="450.2" y2="1038.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="604.6" y1="713.4" x2="395.7" y2="1005.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="595.9" y1="706.2" x2="346.7" y2="964.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="588.3" y1="697.7" x2="304.1" y2="917.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="582.0" y1="688.2" x2="268.9" y2="863.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="577.1" y1="677.9" x2="241.8" y2="806.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="573.9" y1="667.0" x2="223.5" y2="745.0" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="572.2" y1="655.7" x2="214.2" y2="681.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="572.2" y1="644.3" x2="214.2" y2="618.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="573.9" y1="633.0" x2="223.5" y2="555.0" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="577.1" y1="622.1" x2="241.8" y2="493.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="582.0" y1="611.8" x2="268.9" y2="436.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="588.3" y1="602.3" x2="304.1" y2="382.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="595.9" y1="593.8" x2="346.7" y2="335.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="604.6" y1="586.6" x2="395.7" y2="294.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="614.3" y1="580.6" x2="450.2" y2="261.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="624.8" y1="576.2" x2="508.9" y2="236.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="635.8" y1="573.3" x2="570.6" y2="220.3" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="647.2" y1="572.1" x2="634.0" y2="213.3" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="658.5" y1="572.5" x2="697.8" y2="215.6" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="669.7" y1="574.5" x2="760.5" y2="227.2" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="680.5" y1="578.2" x2="820.9" y2="247.8" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="690.6" y1="583.4" x2="877.7" y2="277.0" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="699.9" y1="590.0" x2="929.5" y2="314.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="708.1" y1="597.9" x2="975.5" y2="358.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="715.1" y1="607.0" x2="1014.5" y2="408.9" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="720.6" y1="616.9" x2="1045.7" y2="464.5" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="724.7" y1="627.5" x2="1068.5" y2="524.1" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<line x1="727.2" y1="638.6" x2="1082.3" y2="586.4" stroke="#7c6a8f" stroke-width="0.8" stroke-opacity="0.35" stroke-dasharray="3,4"/>
+<circle cx="650.0" cy="650.0" r="64" fill="url(#bh)" stroke="#c084fc" stroke-width="3" filter="url(#glow)"/>
+<circle cx="650.0" cy="650.0" r="49" fill="none" stroke="#e9d5ff" stroke-width="1" stroke-opacity="0.6"/>
+<circle cx="650.0" cy="650.0" r="35" fill="none" stroke="#a78bfa" stroke-width="0.8" stroke-opacity="0.5"/>
+<text x="650.0" y="643.0" text-anchor="middle" fill="#f5f3ff" font-size="27" font-weight="bold">RC-001</text>
+<text x="650.0" y="671.0" text-anchor="middle" fill="#c4b5fd" font-size="18" font-weight="bold">JAVÉ</text>
+<circle cx="935.0" cy="650.0" r="7" fill="#4ade80" stroke="#fff" stroke-width="1"/>
+<text x="985.0" y="654.0" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-037 · Brahma (Brajna)</text>
+<circle cx="929.8" cy="703.9" r="7" fill="#a3e635" stroke="#fff" stroke-width="1"/>
+<text x="979.8" y="707.9" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-037 · Brahma (Brajna)</text>
+<circle cx="914.6" cy="755.9" r="7" fill="#4ade80" stroke="#fff" stroke-width="1"/>
+<text x="964.6" y="759.9" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-041 · Criador (Brahma/Javé/Dem…</text>
+<circle cx="889.8" cy="804.1" r="7" fill="#2dd4bf" stroke="#fff" stroke-width="1"/>
+<text x="939.8" y="808.1" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-175 · Abelha-Rainha (Javé)</text>
+<circle cx="856.3" cy="846.7" r="7" fill="#fb923c" stroke="#fff" stroke-width="1"/>
+<text x="906.3" y="850.7" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-194 · Big Data Cósmico</text>
+<circle cx="815.3" cy="882.2" r="7" fill="#60a5fa" stroke="#fff" stroke-width="1"/>
+<text x="865.3" y="886.2" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-207 · Arquiteto Universal</text>
+<circle cx="768.4" cy="909.2" r="7" fill="#fbbf24" stroke="#fff" stroke-width="1"/>
+<text x="818.4" y="913.2" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-216 · Queda do Arquiteto Unive…</text>
+<circle cx="717.2" cy="927.0" r="7" fill="#2dd4bf" stroke="#fff" stroke-width="1"/>
+<text x="767.2" y="931.0" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-261 · Kether (Javé na Cabala)</text>
+<circle cx="663.6" cy="934.7" r="7" fill="#2dd4bf" stroke="#fff" stroke-width="1"/>
+<text x="713.6" y="938.7" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-284 · Caos = Brahma = Javé (co…</text>
+<circle cx="609.4" cy="932.1" r="7" fill="#2dd4bf" stroke="#fff" stroke-width="1"/>
+<text x="559.4" y="936.1" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-346 · Jeová (grafia da trilogi…</text>
+<circle cx="556.8" cy="919.3" r="7" fill="#60a5fa" stroke="#fff" stroke-width="1"/>
+<text x="506.8" y="923.3" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-417 · Resposta de Javé (em 1ª …</text>
+<circle cx="507.5" cy="896.8" r="7" fill="#60a5fa" stroke="#fff" stroke-width="1"/>
+<text x="457.5" y="900.8" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-419 · Sou eu que vivo em vocês…</text>
+<circle cx="463.4" cy="865.4" r="7" fill="#60a5fa" stroke="#fff" stroke-width="1"/>
+<text x="413.4" y="869.4" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-421 · As Memórias de Javé (crô…</text>
+<circle cx="426.0" cy="826.2" r="7" fill="#fbbf24" stroke="#fff" stroke-width="1"/>
+<text x="376.0" y="830.2" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-421 · As Memórias de Javé (crô…</text>
+<circle cx="396.7" cy="780.6" r="7" fill="#f87171" stroke="#fff" stroke-width="1"/>
+<text x="346.7" y="784.6" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-423 · Advogado de Acusação (El…</text>
+<circle cx="376.5" cy="730.3" r="7" fill="#f472b6" stroke="#fff" stroke-width="1"/>
+<text x="326.5" y="734.3" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-476 · En Ma (Emá / Emar — espí…</text>
+<circle cx="366.3" cy="677.1" r="7" fill="#c084fc" stroke="#fff" stroke-width="1"/>
+<text x="316.3" y="681.1" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-476 · En Ma (Emá / Emar — espí…</text>
+<circle cx="366.3" cy="622.9" r="7" fill="#fb923c" stroke="#fff" stroke-width="1"/>
+<text x="316.3" y="626.9" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-478 · Chequinhá (veículo/nave …</text>
+<circle cx="376.5" cy="569.7" r="7" fill="#4ade80" stroke="#fff" stroke-width="1"/>
+<text x="326.5" y="573.7" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-482 · Ialdabaoth (= Javé/Samae…</text>
+<circle cx="396.7" cy="519.4" r="7" fill="#fb923c" stroke="#fff" stroke-width="1"/>
+<text x="346.7" y="523.4" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-495 · Arabot-Ráquia (ambiente …</text>
+<circle cx="426.0" cy="473.8" r="7" fill="#2dd4bf" stroke="#fff" stroke-width="1"/>
+<text x="376.0" y="477.8" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-556 · Senhor Parameshthi / Bra…</text>
+<circle cx="463.4" cy="434.6" r="7" fill="#c084fc" stroke="#fff" stroke-width="1"/>
+<text x="413.4" y="438.6" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-561 · Faces de Javé (sucessiva…</text>
+<circle cx="507.5" cy="403.2" r="7" fill="#f87171" stroke="#fff" stroke-width="1"/>
+<text x="457.5" y="407.2" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-604 · Fatiamento de Consciência</text>
+<circle cx="556.8" cy="380.7" r="7" fill="#c084fc" stroke="#fff" stroke-width="1"/>
+<text x="506.8" y="384.7" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-650 · Melquizedec</text>
+<circle cx="609.4" cy="367.9" r="7" fill="#fbbf24" stroke="#fff" stroke-width="1"/>
+<text x="559.4" y="371.9" text-anchor="end" fill="#e8e2f0" font-size="10.5">RC-652 · Últimas Ordens de Javé a…</text>
+<circle cx="663.6" cy="365.3" r="7" fill="#fbbf24" stroke="#fff" stroke-width="1"/>
+<text x="713.6" y="369.3" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-660 · Pegadinha de Javé</text>
+<circle cx="717.2" cy="373.0" r="7" fill="#2dd4bf" stroke="#fff" stroke-width="1"/>
+<text x="767.2" y="377.0" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-666 · Obatalá (correspondência…</text>
+<circle cx="768.4" cy="390.8" r="7" fill="#fb923c" stroke="#fff" stroke-width="1"/>
+<text x="818.4" y="394.8" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-667 · Autofagia do Criador</text>
+<circle cx="815.3" cy="417.8" r="7" fill="#fb923c" stroke="#fff" stroke-width="1"/>
+<text x="865.3" y="421.8" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-717 · Buraco Negro Mental / Co…</text>
+<circle cx="856.3" cy="453.3" r="7" fill="#fbbf24" stroke="#fff" stroke-width="1"/>
+<text x="906.3" y="457.3" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-736 · Aristocracia Olimpiana e…</text>
+<circle cx="889.8" cy="495.9" r="7" fill="#c084fc" stroke="#fff" stroke-width="1"/>
+<text x="939.8" y="499.9" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-746 · Dessensibilização da Con…</text>
+<circle cx="914.6" cy="544.1" r="7" fill="#c084fc" stroke="#fff" stroke-width="1"/>
+<text x="964.6" y="548.1" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-749 · Vício Devocional</text>
+<circle cx="929.8" cy="596.1" r="7" fill="#c084fc" stroke="#fff" stroke-width="1"/>
+<text x="979.8" y="600.1" text-anchor="start" fill="#e8e2f0" font-size="10.5">RC-750 · Moisés e o Êxodo (leitur…</text>
+<circle cx="1115.0" cy="650.0" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1157.0" y="653.0" text-anchor="start" fill="#b7a8c9" font-size="9">RC-002 · Rebelião de Lúcifer</text>
+<circle cx="1110.0" cy="717.7" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1152.0" y="720.7" text-anchor="start" fill="#b7a8c9" font-size="9">RC-004 · Elohim</text>
+<circle cx="1095.3" cy="784.0" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1137.3" y="787.0" text-anchor="start" fill="#b7a8c9" font-size="9">RC-006 · Guerra do Éden</text>
+<circle cx="1071.0" cy="847.4" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1113.0" y="850.4" text-anchor="start" fill="#b7a8c9" font-size="9">RC-031 · Aya e Aye</text>
+<circle cx="1037.8" cy="906.6" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1079.8" y="909.6" text-anchor="start" fill="#b7a8c9" font-size="9">RC-052 · Deus / Deus Incognos…</text>
+<circle cx="996.3" cy="960.3" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1038.3" y="963.3" text-anchor="start" fill="#b7a8c9" font-size="9">RC-055 · En Drel</text>
+<circle cx="947.4" cy="1007.4" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="989.4" y="1010.4" text-anchor="start" fill="#b7a8c9" font-size="9">RC-063 · Favor Divino</text>
+<circle cx="892.2" cy="1046.9" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="934.2" y="1049.9" text-anchor="start" fill="#b7a8c9" font-size="9">RC-147 · Zont En Drel 29</text>
+<circle cx="831.9" cy="1078.0" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="873.9" y="1081.0" text-anchor="start" fill="#b7a8c9" font-size="9">RC-174 · Colmeia Universal</text>
+<circle cx="767.6" cy="1099.9" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="809.6" y="1102.9" text-anchor="start" fill="#b7a8c9" font-size="9">RC-188 · Mente Coletiva / Red…</text>
+<circle cx="700.9" cy="1112.2" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="742.9" y="1115.2" text-anchor="start" fill="#b7a8c9" font-size="9">RC-198 · Rédeas Genéticas</text>
+<circle cx="633.0" cy="1114.7" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="591.0" y="1117.7" text-anchor="end" fill="#b7a8c9" font-size="9">RC-202 · Linhagens Preferenci…</text>
+<circle cx="565.5" cy="1107.3" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="523.5" y="1110.3" text-anchor="end" fill="#b7a8c9" font-size="9">RC-212 · O Grande Dia do Senh…</text>
+<circle cx="499.9" cy="1090.1" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="457.9" y="1093.1" text-anchor="end" fill="#b7a8c9" font-size="9">RC-213 · Centro de Comando Pa…</text>
+<circle cx="437.4" cy="1063.5" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="395.4" y="1066.5" text-anchor="end" fill="#b7a8c9" font-size="9">RC-220 · Conspiração do Deses…</text>
+<circle cx="379.4" cy="1028.2" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="337.4" y="1031.2" text-anchor="end" fill="#b7a8c9" font-size="9">RC-225 · Gestão Cósmica</text>
+<circle cx="327.3" cy="984.8" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="285.3" y="987.8" text-anchor="end" fill="#b7a8c9" font-size="9">RC-229 · A Lógica de Javé e a…</text>
+<circle cx="282.0" cy="934.2" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="240.0" y="937.2" text-anchor="end" fill="#b7a8c9" font-size="9">RC-231 · Razão Filosófica dos…</text>
+<circle cx="244.5" cy="877.6" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="202.5" y="880.6" text-anchor="end" fill="#b7a8c9" font-size="9">RC-245 · A Humanização do Cri…</text>
+<circle cx="215.7" cy="816.1" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="173.7" y="819.1" text-anchor="end" fill="#b7a8c9" font-size="9">RC-249 · Expulsão dos Viajore…</text>
+<circle cx="196.1" cy="751.1" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="154.1" y="754.1" text-anchor="end" fill="#b7a8c9" font-size="9">RC-325 · Genética Totalitária</text>
+<circle cx="186.2" cy="683.9" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="144.2" y="686.9" text-anchor="end" fill="#b7a8c9" font-size="9">RC-326 · Povos Escolhidos (ar…</text>
+<circle cx="186.2" cy="616.1" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="144.2" y="619.1" text-anchor="end" fill="#b7a8c9" font-size="9">RC-331 · Ra-Atom / Og-mi (nom…</text>
+<circle cx="196.1" cy="548.9" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="154.1" y="551.9" text-anchor="end" fill="#b7a8c9" font-size="9">RC-334 · Teocracia da Doença …</text>
+<circle cx="215.7" cy="483.9" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="173.7" y="486.9" text-anchor="end" fill="#b7a8c9" font-size="9">RC-336 · Ética da Sobrevivênc…</text>
+<circle cx="244.5" cy="422.4" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="202.5" y="425.4" text-anchor="end" fill="#b7a8c9" font-size="9">RC-416 · Cartas a Javé (obra …</text>
+<circle cx="282.0" cy="365.8" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="240.0" y="368.8" text-anchor="end" fill="#b7a8c9" font-size="9">RC-422 · Ser-Criador fracassa…</text>
+<circle cx="327.3" cy="315.2" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="285.3" y="318.2" text-anchor="end" fill="#b7a8c9" font-size="9">RC-424 · Linhagem dos Escolhi…</text>
+<circle cx="379.4" cy="271.8" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="337.4" y="274.8" text-anchor="end" fill="#b7a8c9" font-size="9">RC-426 · Javé sem avatares ('…</text>
+<circle cx="437.4" cy="236.5" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="395.4" y="239.5" text-anchor="end" fill="#b7a8c9" font-size="9">RC-428 · Tempo-limite (transi…</text>
+<circle cx="499.9" cy="209.9" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="457.9" y="212.9" text-anchor="end" fill="#b7a8c9" font-size="9">RC-429 · Javé alimenta-se do …</text>
+<circle cx="565.5" cy="192.7" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="523.5" y="195.7" text-anchor="end" fill="#b7a8c9" font-size="9">RC-449 · Criaturas-ferramenta</text>
+<circle cx="633.0" cy="185.3" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="675.0" y="188.3" text-anchor="start" fill="#b7a8c9" font-size="9">RC-484 · Anjos ministradores …</text>
+<circle cx="700.9" cy="187.8" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="742.9" y="190.8" text-anchor="start" fill="#b7a8c9" font-size="9">RC-485 · Classes de anjos de …</text>
+<circle cx="767.6" cy="200.1" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="809.6" y="203.1" text-anchor="start" fill="#b7a8c9" font-size="9">RC-490 · Caim (leitura RC: se…</text>
+<circle cx="831.9" cy="222.0" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="873.9" y="225.0" text-anchor="start" fill="#b7a8c9" font-size="9">RC-526 · Demência do Criador …</text>
+<circle cx="892.2" cy="253.1" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="934.2" y="256.1" text-anchor="start" fill="#b7a8c9" font-size="9">RC-659 · Quirino Cornélio (Ce…</text>
+<circle cx="947.4" cy="292.6" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="989.4" y="295.6" text-anchor="start" fill="#b7a8c9" font-size="9">RC-661 · Seres Desalmados</text>
+<circle cx="996.3" cy="339.7" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1038.3" y="342.7" text-anchor="start" fill="#b7a8c9" font-size="9">RC-671 · Metatron</text>
+<circle cx="1037.8" cy="393.4" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1079.8" y="396.4" text-anchor="start" fill="#b7a8c9" font-size="9">RC-683 · Torá / Pentateuco</text>
+<circle cx="1071.0" cy="452.6" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1113.0" y="455.6" text-anchor="start" fill="#b7a8c9" font-size="9">RC-685 · Tormento dos Eleitos…</text>
+<circle cx="1095.3" cy="516.0" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1137.3" y="519.0" text-anchor="start" fill="#b7a8c9" font-size="9">RC-737 · Projeto Amaterasu–Ka…</text>
+<circle cx="1110.0" cy="582.3" r="5" fill="#7c6a8f" fill-opacity="0.75" stroke="#a78bfa" stroke-width="0.8"/>
+<text x="1152.0" y="585.3" text-anchor="start" fill="#b7a8c9" font-size="9">RC-741 · Projeto Orunmilá–Olo…</text>
+<text x="650.0" y="48" text-anchor="middle" fill="#f5f3ff" font-size="32" font-weight="bold">RC-001 · JAVÉ — O Buraco Negro da Revelação Cósmica</text>
+<text x="650.0" y="76" text-anchor="middle" fill="#a78bfa" font-size="15">Base Terminológica RC · 2026-08-17 · 33 conexões diretas · 43 relacionados · total 76</text>
+<rect x="18" y="1040" width="300" height="246" rx="10" fill="#120726" fill-opacity="0.92" stroke="#3b2a55"/>
+<text x="32" y="1064" fill="#e2e8f0" font-size="13" font-weight="bold">Legenda — tipos de relação</text>
+<circle cx="34" cy="1091" r="5" fill="#f472b6"/>
+<text x="48" y="1095" fill="#cbd5e1" font-size="11">ancora</text>
+<circle cx="34" cy="1108" r="5" fill="#fb923c"/>
+<text x="48" y="1112" fill="#cbd5e1" font-size="11">associado-a</text>
+<circle cx="34" cy="1125" r="5" fill="#fbbf24"/>
+<text x="48" y="1129" fill="#cbd5e1" font-size="11">atribuído-a</text>
+<circle cx="34" cy="1142" r="5" fill="#fb923c"/>
+<text x="48" y="1146" fill="#cbd5e1" font-size="11">condição-de</text>
+<circle cx="34" cy="1159" r="5" fill="#f87171"/>
+<text x="48" y="1163" fill="#cbd5e1" font-size="11">confronta / envolve</text>
+<circle cx="34" cy="1176" r="5" fill="#a3e635"/>
+<text x="48" y="1180" fill="#cbd5e1" font-size="11">correspondência (teol. comparada)</text>
+<circle cx="34" cy="1193" r="5" fill="#fbbf24"/>
+<text x="48" y="1197" fill="#cbd5e1" font-size="11">dita-por</text>
+<circle cx="34" cy="1210" r="5" fill="#fb923c"/>
+<text x="48" y="1214" fill="#cbd5e1" font-size="11">instrumento-de</text>
+<circle cx="34" cy="1227" r="5" fill="#fbbf24"/>
+<text x="48" y="1231" fill="#cbd5e1" font-size="11">planejada-por</text>
+<circle cx="34" cy="1244" r="5" fill="#fb923c"/>
+<text x="48" y="1248" fill="#cbd5e1" font-size="11">primeiro-caso</text>
+<circle cx="34" cy="1261" r="5" fill="#fbbf24"/>
+<text x="48" y="1265" fill="#cbd5e1" font-size="11">proferida-por</text>
+<circle cx="34" cy="1278" r="5" fill="#c084fc"/>
+<text x="48" y="1282" fill="#cbd5e1" font-size="11">relaciona-se-a</text>
+<circle cx="34" cy="1295" r="5" fill="#fbbf24"/>
+<text x="48" y="1299" fill="#cbd5e1" font-size="11">resulta-em</text>
+<circle cx="34" cy="1312" r="5" fill="#4ade80"/>
+<text x="48" y="1316" fill="#cbd5e1" font-size="11">sinônimo</text>
+<circle cx="34" cy="1329" r="5" fill="#2dd4bf"/>
+<text x="48" y="1333" fill="#cbd5e1" font-size="11">variação</text>
+<circle cx="34" cy="1346" r="5" fill="#60a5fa"/>
+<text x="48" y="1350" fill="#cbd5e1" font-size="11">é-um / parte-de</text>
+<circle cx="34" cy="1363" r="5" fill="#7c6a8f" fill-opacity="0.75"/>
+<text x="48" y="1367" fill="#cbd5e1" font-size="11">relacionado (campo, sem aresta)</text>
+</svg>

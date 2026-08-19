@@ -1,0 +1,16 @@
+{
+  "sha256_original": "bd3963941482b93c4b68683108c48152d0734e5cf14d2f92595d11b91959119c",
+  "bytes_original": 128723,
+  "lines_original": 163,
+  "words_original": 22364,
+  "words_transcricao": 21710,
+  "chars_transcricao": 119804,
+  "estrutura": {
+    "cabecalho_indice": "linhas 1-62 (SUGESTÃO DE ÍNDICE, 11 seções, 33 subseções)",
+    "abertura": "linha 64 (Vamos bem, pessoal, boa tarde...)",
+    "corpo": "linhas 65-163 (blocos contínuos de fala, com trocas de locutor/plateia)",
+    "intervencoes_plateia": "presentes (linhas 65-75 mostram diálogo com a plateia)",
+    "encerramento": "a verificar na leitura"
+  },
+  "observacao": "transcrição STT com índice sugerido (11 seções); blocos longos sem segmentação U####"
+}

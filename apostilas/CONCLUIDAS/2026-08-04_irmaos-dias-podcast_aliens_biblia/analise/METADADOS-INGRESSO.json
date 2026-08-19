@@ -1,0 +1,16 @@
+{
+  "sha256_original": "bf54fba139f0c493ae528b2afecddd7a5b54254cbd27ab4b8b40b42092bed52a",
+  "bytes_original": 96514,
+  "lines_original": 94,
+  "words_original": 17016,
+  "words_transcricao": 15978,
+  "chars_transcricao": 87033,
+  "estrutura": {
+    "cabecalho": "linhas 1-13 (Irmãos Dias Podcast #272; resumo; descrição)",
+    "indice_tematico": "linhas 14-88 (7 seções, ~30 subseções — elaborado com base na transcrição)",
+    "transcricao": "linhas 91+ (TRANSCRIÇÃO AUTOMÁTICA)",
+    "tipo": "podcast/entrevista (Irmãos Dias Podcast #272)",
+    "encerramento": "a verificar na leitura"
+  },
+  "observacao": "podcast/entrevista; índice temático já elaborado no cabeçalho; transcrição STT"
+}

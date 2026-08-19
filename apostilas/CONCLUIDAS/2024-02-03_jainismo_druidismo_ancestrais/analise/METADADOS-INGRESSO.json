@@ -1,0 +1,16 @@
+{
+  "sha256_original": "8b8ae3bab6fba86a82766925bb1f4c2d455a6fe663eb377dd546a7f22b2c356f",
+  "bytes_original": 139510,
+  "lines_original": 197,
+  "words_original": 23859,
+  "words_transcricao": 23053,
+  "chars_transcricao": 129767,
+  "estrutura": {
+    "cabecalho_indice": "linhas 1-80 (índice estruturado, 9 seções)",
+    "abertura": "linha 83 (Então, primeiro agradecer a presença...)",
+    "corpo": "linhas 83-197 (blocos + perguntas da plateia: Elan, Tot, Jaimini...)",
+    "encerramento": "linhas 186-195 (encerramento e avisos finais)",
+    "intervencoes_plateia": "presentes (Elan, Tot, pergunta sobre Jaimini, Gandhy...)"
+  },
+  "observacao": "palestra com índice estruturado (9 seções); transcrição STT"
+}
