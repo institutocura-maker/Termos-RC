@@ -1,0 +1,31 @@
+{
+  "sha256_original": "b6a46b70ba0f0d65e0f56e5b20e6c81ef095682a9b5984a4e1976f6b98dfece4",
+  "bytes_original": 183432,
+  "lines_original": 309,
+  "words_original": 31484,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 80,
+      "words": 13,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 48,
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 15207,
+      "words": 2484,
+      "lines": 259
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 167703,
+      "words": 28979,
+      "lines": 42
+    }
+  },
+  "analytic_units": 1799,
+  "source_status": "sequência aparentemente completa; abertura, exposição e perguntas finais presentes; intervalo não marcado",
+  "nota_divergencia_data": "arquivo nomeado 2026-25-07 pelo curador; base cataloga a palestra como P2025-07-25 — divergência registrada [REVISAR]"
+}

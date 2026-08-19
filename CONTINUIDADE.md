@@ -512,3 +512,17 @@ Recuperar o `apostila.md` já corrigido e rodar `build_apostila.py`. A grafia ca
 - Backup pré-ciclo: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-768-770.py` (`7a95c8dd…`).
 - Próximo código disponível: **RC-771**.
 - **Pendência:** apostila integral (Ciclo de Apostilas em Lote) — aguardando acúmulo/gatilho do curador.
+
+---
+
+## Ciclo de Apostilas — P2026-07-25 Jesus e a Dinastia das Sophias (19/08/2026)
+
+**Primeira apostila integral desta sessão (Apostila(7)).** Autorizada pelo curador ("vamos em frente com a geração da Apostila MD + DOCX e concluí-la").
+
+- `apostila.md` — transcrição editada integral no formato TOP: capa (metadados @), Nota do editor, **12 PARTES** temáticas + seção de perguntas da plateia isolada (PARTE XII) + **Glossário local A–D** com remissões RC (18.855 palavras; 458 parágrafos no DOCX).
+- Cobertura: 100% da macroestrutura real (16 blocos → 12 PARTES); citações literais editadas (grafias canônicas com nota na 1ª ocorrência; [REVISAR] preservados nos STTs duvidosos; marcadores orais/humor/digressões preservados).
+- DOCX gerado via `build_apostila.py` (identidade visual roxa padrão, TOC Word com updateFields).
+- Pasta renomeada para a data canônica **`2026-07-25_jesus_dinastia_sophias_arcontes`** e movida para `apostilas/CONCLUIDAS/` (D-1: data 2026).
+- Índices sincronizados (raiz + `apostilas/INDICE-PALESTRAS.md`).
+- **Total: 14 apostilas concluídas** em `apostilas/CONCLUIDAS/`.
+- Próximos passos (orientação do curador): processar mais palestras → atualizar a base → gerar apostilas **em lote**.
