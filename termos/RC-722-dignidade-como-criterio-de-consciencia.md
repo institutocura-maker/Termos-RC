@@ -10,6 +10,13 @@
 ## Definição Sintética
 Critério ético proposto na palestra para avaliar crenças, poderes e ações: quando uma consciência não se preocupa com a dignidade do outro, sua grandeza declarada não elimina o abismo entre poder e consciência.
 
+
+## Ampliação — P2026-07-25
+
+- **Kant e Sócrates:** Kant — dignidade = aderir aos próprios valores e viver com coerência ("a sua insignificância se torna uma bomba atômica"); Sócrates (RC-406) — recusa da corrupção (fuga da prisão): "prefiro morrer a me sujar".
+- **Pulsação digna (absorvida):** a pulsação que sai de um ser humano detém "todas as senhas de abertura de portais interdimensionais"; emite fragrância ao entrelaçamento quântico dos elétrons (metáfora do autor).
+- **Cisne negro (RC-192):** a dignidade como "o pior cisne negro" para os arcontes — não conseguem entender um ser que dá a vida por honra.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -18,6 +18,16 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **Modelo Polvo (RC-604/RC-001):** o espírito de Jesus é citado como um dos espíritos que compõem o padrão de cérebros da consciência distribuída ("o espírito de Jesus já tendo influenciado o cérebro de Sofia") — contexto do modelo polvo;
 - A humanidade como **salva-criador**: inverte a narrativa da salvação — não é Jesus que salva o humano da perdição, mas a consciência humana (com o Cristo Cósmico) que resgata o criador caído.
 
+
+## Ampliação — P2026-07-25
+
+- **Missão recusada:** esperava-se de Jesus um super-Messias que dominasse as 70 linhagens para entregá-las a Javé e ao conselho (criar super exército judeu, livrar-se do jugo romano); Jesus recusou ("meu pai e vírgula" — STT de "pai e vírgula" [REVISAR] — ver inseminação abaixo).
+- **Gênese:** inseminação artificial em Maria feita por Hochmah/Sophia (RC-565; RC-009) — DNA de Sophia + DNA de Maria; o eu de Jesus "ficou balançando" entre ser o Messias e não dominar ninguém.
+- **Os 500 passos (Evangelho de Bartolomeu, absorvido na devolutiva):** na cruz, Jesus invadiu o Tártaro (RC-286), aprisionou Hades/Reides e Belial (RC-479) e libertou os espíritos presos desde Adão — ato tipificado como **crime contra a Timé** (RC-293) → processo aberto sem resolução; penalidade recaiu sobre Sophia (RC-009).
+- **Jó número dois:** dignidade na submissão — "Javé tava pisando em Jesus e Jesus ainda assim com dignidade".
+- **Ectoplasma:** o eu encarnado usa a condutora do corpo (STT "condaline" [REVISAR]) para produzir ectoplasma — "desencarnado, ninguém faz isso".
+- **Cruzamento devolutiva:** RC-647 (Evangelho de Judas) relacionado (narrativas gnósticas da Paixão).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -17,6 +17,11 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 - **Grafia preferida:** Universo Antimaterial
 - **Variações:** Universo Paralelo (sinônimo); Brahmaloka (termo sânscrito); universo demo
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** Arabot-Ráquia (RC-495) situa-se no Brahmaloka — "uma morada no Brama Loca, onde há uma grande base laboratorial"; Shekinah como nave antimaterial que une os dois universos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -14,6 +14,11 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 ## Etimologia / Grafias
 Forma preferida: Urdidura de Metatron.
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** com a morte de Enoque, Metatron se enfraquece — a "urdidura" perde a sagacidade que Enoque lhe emprestava; os anjos perdem a disputa frente à dinastia dos arcontes.
+
 ## Fontes
 P2025-05-31.
 

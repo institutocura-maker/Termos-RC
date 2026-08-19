@@ -16,6 +16,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Revelação de Ifá e Destinação dos Seres**.
 
+
+## Ampliação — P2026-07-25
+
+- **Renovação do Ifá (P2026-07-25):** "Javé ou Obatalá pediu a Orumilá para criar revelação de Ifá para que os povos da África fossem devotos de Obatalá, de Orumilá, de Olodumaré, para que Cristo não dominasse os povos da África" — geopolítica da devoção (absorvida em RC-474).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

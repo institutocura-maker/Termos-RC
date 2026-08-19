@@ -16,6 +16,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** "a revelação de Ifá e Orunmilá — o coqueiro que existiu em Orum": um pé de coqueiro surgiu primeiro em Orum/Irém (universo vizinho), ser vivo, sofisticando-se até produzir o coco — transferido para este universo (coco verde).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

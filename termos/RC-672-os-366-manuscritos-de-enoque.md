@@ -15,6 +15,11 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 ## Etimologia / Grafias
 Forma preferida: Os 366 Manuscritos de Enoque.
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** Enoque ditou os 366 livros ao filho Matusalém entre as duas subidas; Javé queria Enoque como testemunha de acusação contra a humanidade pré-diluviana.
+
 ## Fontes
 P2025-05-31.
 P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).

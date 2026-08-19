@@ -18,6 +18,11 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 - **Variações:** Kether/Javé; a Coroa (primeira sefirá); identificado a Javé e Brahma
 - **Idioma de origem:** hebraico (כתר = coroa)
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** "Javé se sentiu novamente traído e, por isso, introduziu a Cabala (ou 'acabalá' [STT])" — como contramedida à expansão de Krishna na Europa.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -17,6 +17,11 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 - Grafia preferida: Rama. Sita permanece no glossário local neste ciclo.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2026-07-25
+
+- **Sinarquia (absorvida na devolutiva):** ordem de reinar na Terra criada por Rama, respeitada pela dinastia dos arcontes; "não conseguiu ir adiante" — destruída pela guerra de Kurukshetra (ver RC-414).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

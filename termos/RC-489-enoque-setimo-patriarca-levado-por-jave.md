@@ -16,6 +16,13 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **Thot trabalhou com Enoque:** "além disso, conviveu e trabalhou com os anjos de Javé. Eu vou falar um pouco disso amanhã, com o Adão bíblico, com Enoque" — Thot (RC-463) ao lado de anjos de Javé, Adão e Enoque (nova aresta RC-463 ↔ RC-489);
 - Contexto: a palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações.
 
+
+## Ampliação — P2026-07-25
+
+- **67 anos:** "aos 67 anos de idade" foi levado (dois anjos de Javé; "você foi escolhido"); 300 anos convivendo com Javé; voltou e ditou ao filho Matusalém os 366 livros (RC-672); foi levado de novo e investido de "um macão vibratório" → Metatron (RC-671); "nunca mais voltou à condição humana".
+- **Anafiel e Raziel (RC-485):** levaram Enoque na primeira ida a Arabot-Ráquia; "todos os habitantes do entorno de Javé perceberam o cheiro dele mesmo à distância".
+- **Testemunha de acusação:** Javé queria Enoque como testemunha contra a humanidade transviada pré-diluviana no "julgamento geral" (demência de Javé).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

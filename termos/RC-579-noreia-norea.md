@@ -17,6 +17,12 @@ A menção ocorre durante a reconstrução da primeira era equinocial. O curador
 - Grafia preferida: Noreia. Variação: Norea.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2026-07-25
+
+- **Eleleth (STT "Elelf/Elelet"):** anjo (não arconte) que explica a Noreia a origem e o destino do poder dos arcontes — "os arcontes não sabem da história deles e não sabem do destino deles"; o único que sabe é Moros (RC-454); a revelação a uma humana (Noreia) enfureceu os arcontes ("ferraram com a vida de Noréa").
+- **P2026-07-25:** "um ser espiritual vivo que vai começar a nascer na terra agora tentando refazer o papel" — ver quarentena de identidade de gênero.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

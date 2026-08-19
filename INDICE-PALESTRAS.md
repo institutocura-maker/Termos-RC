@@ -24,7 +24,7 @@
 | 29/11/2025 | A Revelação de Ifá e o Destino dos Seres | `P2025-11-29` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-767 (256 Caminhos de Orunmilá); RC-655/665/666 elevados a fonte primária; 24 ampliações + 17 relações; 4 fichas novas/21 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
 | 14/06/2025 | A Consciência Humana e a Chave da Decifração Universal | parte de B061 | conhecida | material-fonte ausente |
 | 28/02/2026 | Os Desafios da Transição Planetária — Aprofundamento | `P2026-02-28` / parte de B061 | Base e apostila concluídas | RC-667–RC-670; DOCX aguardando revisão |
-| 25/07/2026 | Jesus e a Dinastia das Sophias | parte de B061 | conhecida | material-fonte ausente |
+| 25/07/2026 | Jesus e a Dinastia das Sophias — A Elite dos Arcontes Personificados | `P2026-07-25` | conhecida | **ciclo concluído (2026-08-19):** RC-768 (Princípio da Externalização) + RC-769 (Corpos Fenvã) + RC-770 (Hipóstase dos Arcontes); absorções: Cisne Negro→RC-192, Bartolomeu/500 Passos→RC-072, Hades/Reides→RC-286; B080 Perversa Gratidão; 14 fichas criadas + 40 ampliadas; apostila pendente (Ciclo de Apostilas em Lote) |
 | 30/07/2026 | 4ª Edição — Perguntas e Reflexões dos Estagiários do Kaos | `P2026-07-30` | Base e apostila concluídas | Elm/Olm, En Ma, Deva/Aurora e RC-620–RC-627 incorporados; DOCX aguardando revisão do curador |
 
 > O Guia usa contagens resumidas diferentes em trechos distintos. O quadro acima conserva todas as datas nominalmente mencionadas, sem eliminar nenhuma.

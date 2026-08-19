@@ -18,6 +18,11 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - papel na origem da racionalidade humana (com Eva);
 - obra-base: *O Sorriso de Pandora* (B020).
 
+
+## Ampliação — P2026-07-25
+
+- **Pandora e Zeus (P2026-07-25):** "Pandora criou os humanos e Zeus ficou pé da vida" (queria destruir os animais de estimação de Epimeteu/Prometeu); humanos racionais surgiram "ao longo dos últimos 48.000 anos"; a morte passou a existir com a vida biológica — e os eus mentais passaram a ser aprisionados no Tártaro (RC-286).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

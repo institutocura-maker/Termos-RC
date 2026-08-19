@@ -24,6 +24,11 @@ Formas preferidas: **Daksha** e **Virini**.
 
 Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 
+
+## Ampliação — P2026-07-25
+
+- **69 filhas de Daksha:** as últimas 13 deram origem a Olímpicos e Titãs; duas dessas 13 → os olimpianos/titãs; uma delas ("Ira" [REVISAR]) produziu todas as plantas, inclusive a cuscuta (STT da palestra P2026-07-25).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

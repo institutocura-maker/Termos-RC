@@ -16,6 +16,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 Forma preferida: **Obatalá (correspondência de Javé em Ifá)**.
 
+
+## Ampliação — P2026-07-25
+
+- **Obatalá = Javé (P2026-07-25):** "Jafé ou Obatalá pediu a Orumilá para criar revelação de Ifá" (STT "Jafé/Jahé") — renovação do Ifá como contramedida à expansão de Krishna na África.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

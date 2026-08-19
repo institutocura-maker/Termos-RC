@@ -24,6 +24,11 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 - divisão interna da Geração Regenerada;
 - Sete Rishis, como ampliação de `RC-586`, sem criar códigos individuais neste ciclo.
 
+
+## Ampliação — P2026-07-25
+
+- **Gerações regeneradas (P2026-07-25):** Brahma criou uma geração regenerada da sensação mental (Atri, Marichi, Pulastya, Pulaha, Kratu) e outra do corpo tetracéfalo (Bhrigu, Daksha) — unidas para criar o mundo biológico.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

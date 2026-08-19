@@ -14,6 +14,13 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 ## Etimologia / Grafias
 Forma preferida: Metatron.
 
+
+## Ampliação — P2026-07-25
+
+- **Enfraquecimento:** "quando Enoque morreu, o que restou dele feito Metatron passou a existir como um tipo de ser que só circunstancialmente era acionado pela força dos três senhores da Trimurti" — o Metatron que sobrou é "só um pouco do que era de fato".
+- **"Desse aqui eu cuido, vocês não se metam":** Javé defendia Metatron frente aos arcontes; com o enfraquecimento, os anjos perdem a disputa política contra a dinastia dos arcontes.
+- **Plano falhado:** Javé não pôde usar Metatron para dominar a humanidade → Vishnu propõe o avatar Jesus (via Sophia).
+
 ## Fontes
 P2025-05-31.
 

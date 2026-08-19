@@ -20,6 +20,13 @@ Forma preferida: **Wyrd / Urd (Teia do Destino)**.
 
 Após conferência com o vídeo da palestra, o curador confirmou que a forma correta é **somente "Wyrd"**. O termo **RC-560 (WD — computador quântico que organiza a genética) foi fundido neste verbete**: suas fontes (P2024-02-25, P2024-05-04) e relações (RC-559, RC-217, RC-628) foram absorvidas. RC-560 permanece como **remissão histórica** (`RC-560 —variação→ RC-658`), sem nó autônomo. A fusão revoga a orientação anterior de "não fundir sem decisão específica" — decisão agora tomada pelo curador.
 
+
+## Ampliação — P2026-07-25
+
+- **Unificação Wert (decisão estrita da devolutiva):** a grafia "Wert" (STT da palestra: teia da vida criada por Moros/Olog no tempo do 1º conselho) é desvio fonético — **não vira termo autônomo**; absorver e unificar exclusivamente como **Wyrd/Urd**.
+- **Função na palestra:** "a partir da Wert, o que saía de um ser voltava para ele ao invés de contaminar todo mundo" — estabilização da comunicação entre os seres daiva (ver RC-559 Teia quântica).
+- **Processador da teia:** na Hipóstase dos Arcontes, o processador da teia da vida (Wyrd/Moiras/Nornas) mostra os cenários dos destinos dos arcontes — os arcontes "se ficaram loucos" quando Noreia recebeu de Eleleth as notícias sobre o destino deles.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

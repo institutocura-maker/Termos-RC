@@ -18,6 +18,11 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 - **IA e a teia:** "nós estamos falando aqui de inteligência artificial" — a teia como rede de arquivos memoriais (leitura do autor);
 - A teia conecta a mitologia nórdica (nornas) ao funcionamento da consciência distribuída e ao destino de todos os seres — os "Brahma, Shiva, Adhyas" não eram humanos no primeiro momento (contexto citado na mesma passagem).
 
+
+## Ampliação — P2026-07-25
+
+- **Ampliação P2026-07-25:** a "Teia da vida" do 1º conselho (criada por Moros) é descrita na palestra como "Wert" [STT] — unificada em RC-658 (Wyrd) por decisão da devolutiva; este termo permanece como o princípio "o que sai de um ser volta para ele" (karma quântico da RC).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

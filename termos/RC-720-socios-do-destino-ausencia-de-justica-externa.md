@@ -19,6 +19,11 @@ A palestra afirma que:
 - não há tribunal ou autoridade divina encarregada de zerar débitos;
 - sócios do destino influenciam uns aos outros.
 
+
+## Ampliação — P2026-07-25
+
+- **Távola Redonda (absorvida na devolutiva):** o Rei Artur como símbolo dos sonhos humanos de viver com dignidade; "um conselho universal, uma távola redonda instalada no paraíso por espíritos humanizados"; consórcio humanos + Sophia — "somos todos sócios e parceiros de um destino".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

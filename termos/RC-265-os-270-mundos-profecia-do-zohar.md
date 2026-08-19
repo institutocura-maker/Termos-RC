@@ -17,6 +17,11 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 - **Grafia preferida:** Os 270 Mundos
 - **Variações:** 270 mundos da Criação; "moradas"/lokas envolvidas; público-alvo do Zohar
 
+
+## Ampliação — P2026-07-25
+
+- **Parameshthi (P2026-07-25):** "o senhor Brahma Parameshthi... cerca de 270 mundos que observam o que se passa na Terra" (Vyasa/Mahabharata) — alinhado ao registro do Zohar (RC-265).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

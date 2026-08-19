@@ -17,6 +17,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **Grafia preferida:** Brahma
 - **Variações:** Brajna (condição Adhyatman, antes da queda); identificado a Javé, Caos, Pan Ku, Alá, Atom
 
+
+## Ampliação — P2026-07-25
+
+- **Bipartição:** sob o desejo criado por Cama (RC-622) via Aurora (RC-475), Brahma se divide em dois: o "Brahma podre de sempre" + "Braminha Júnior tetracéfalo" (4 faces) — versão Fenvã (RC-769).
+- **Geração regenerada (RC-696):** da mente: Atri, Marichi, Pulastya, Pulaha, Kratu; do corpo tetracéfalo: Bhrigu e Daksha (RC-701) — Daksha gerou 69 filhas (13 últimas; Olímpicos e Titãs; "Ira" [REVISAR] produziu as plantas, inclusive a cuscuta).
+- **Formas:** cuscuta (1ª vegetal), cefalópodes (3 corações, 9 cérebros — "investimento nos invertebrados"), dragonoide, tentativa humana.
+- **Senhor Brahma Parameshthi:** a face humana de Brahma, descrita por Vyasa (STT "Viaza") no Mahabharata (STT "Marrabarata") — "cerca de 270 mundos que observam o que se passa na Terra" (RC-265).
+- **Comas:** Javé/Brahma ficava milhões de anos apagado, mantido pelos anjos clones; colapso atual "ano 2020 e alguma coisa" (RC-001).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

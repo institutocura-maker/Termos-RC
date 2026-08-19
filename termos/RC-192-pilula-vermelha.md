@@ -18,6 +18,11 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 - **Especiação e novas proteínas:** a consciência "Doravante vai ser obrigada a tomar" muitas e inúmeras pílulas — o despertar é contínuo, ligado à produção das novas proteínas (RC-056);
 - **Faixas de realidade:** as pílulas revelam as faixas definidas × improvisadas (ver RC-702).
 
+
+## Ampliação — P2026-07-25
+
+- **Cisne Negro (absorvido na devolutiva — metáfora epistemológica):** aquilo que o ser humano julga impossível e que, ao se revelar, provoca choques de realidade; a mitologia como "o grande cisne negro da história humana"; a RC como "porrada de cisnes negros"; "bem-vindos ao Clube do Cisne Negro" (P2026-07-25). Metáfora de despertar ligada à pílula vermelha; nota em RC-702 (Camuflagem da Realidade).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

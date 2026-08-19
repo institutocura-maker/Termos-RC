@@ -16,6 +16,14 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 ## Etimologia / Grafias
 - Grafia: Corpo Daiva / Corpo Demoníaco de Plasma.
 
+
+## Ampliação — P2026-07-25
+
+- **Metamorfose:** "na cultura deles não rola um papo entre dois humanos... se Rogério e Mateus fossem daiva, a cada minuto um se transforma numa coisa, com personalidade diferente" — comunicação via "linha ressonante".
+- **Anjos clones:** a condição daiva surgiu quando um anjo clone despertou, confrontou Brahma, perdeu o corpo ígneo e o corpo mental virou daiva; "seres do paraíso mergulharam dentro dessa criação maluca e assumiram essa condição daiva" (dezenas de milhões de seres daiva; quase 1 bilhão de seres ígneos).
+- **Daiva ≠ diabólico:** "não são diabólicos, são demoníacos no sentido de que seus corpos se metamorfoseiam".
+- **Formas de Javé (RC-001):** ígneo → daiva → Fenvã (RC-769) → biológicas (cuscuta, cefalópodes, dragonoide, humano).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

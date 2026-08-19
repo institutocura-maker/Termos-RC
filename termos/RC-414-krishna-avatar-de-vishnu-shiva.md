@@ -19,6 +19,17 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Devoção criticada (RC-749):** "ser devoto é você não usar a mente, não usar seus potenciais... Krishna foi o único avatar que começou a produzir avatares dele mesmo para engrandecê-lo" (Chaitanya/Hare Krishna; Sai Baba [Sathya Sai Baba] como "continuação" — leitura do autor);
 - **Ogdóade (RC-609):** Krishna como desdobramento da leitura dos oito princípios (nova aresta).
 
+
+## Ampliação — P2026-07-25
+
+- **Rama e a sinarquia (RC-584):** ordem de reinar na Terra respeitada pelos arcontes; destruída pela guerra de Kurukshetra entre as famílias que mantinham a dinastia.
+- **Criação de Krishna:** CFD dos três senhores da Trimurti para servi-los; "se achou maior que os três e de fato era" — obrigou a Trimurti a venerá-lo; crise geral no conselho (últimos ~5.000 anos).
+- **Perda do corpo Adhyajna (RC-016):** maldição da rainha Gandhari (STT "Gandares"; esposa de Dhritarashtra — STT "Diriarastra") no Mahabharata → Krishna perde a forma de arconte clássico (ser astralizado).
+- **Caitanya Mahaprabhu (STT "Caetânia Mahaprabu"):** revitalizou o culto a Krishna ([REVISAR] "século X" — cronologia interna; Caitanya é tradicionalmente séc. XV/XVI).
+- **Zoroastro:** a disputa Ahura Mazda × Arimã (STT "Urazda") = brigas Brahma×Krishna e Jesus×Krishna (leitura do autor).
+- **Geopolítica da devoção:** manipula a epifania; Índia como reino terrestre (18h diárias de adoração); templos bramânicos → vaishnavas.
+- **Decisão recente:** teria conversado com Shiva e "baixado as armas mentais", alinhando-se ao inevitável — abertura para a vinda de Sophia; o autor declara confiança "muito modesta" (informação recebida por canais que não pode pôr em dúvida; "Krishna desde a semana passada").
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

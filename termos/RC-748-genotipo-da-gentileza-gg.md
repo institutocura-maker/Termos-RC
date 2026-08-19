@@ -19,6 +19,11 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 - ligado à produção de novos genótipos pela sensibilidade humana (resposta à dessensibilização, RC-746);
 - relação com a herança espiritual no epigenoma (RC-543) e a evolução possível (RC-541).
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25 (referência marginal):** o padrão de "gentileza/dominação" mencionado na palestra permanece em quarentena — sem novos dados nesta fonte.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

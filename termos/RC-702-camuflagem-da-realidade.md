@@ -26,6 +26,11 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 2. envolvidos, mas não iludidos;
 3. libertos da ilusão, ainda corporalmente envolvidos.
 
+
+## Ampliação — P2026-07-25
+
+- **Nota P2026-07-25:** o "cisne negro" (absorvido em RC-192) é a chave da camuflagem: a realidade se camufla sob a crença de que o impossível não existe; os véus "se decerram" quando o eu se autodescobre (pulsação digna — RC-722).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

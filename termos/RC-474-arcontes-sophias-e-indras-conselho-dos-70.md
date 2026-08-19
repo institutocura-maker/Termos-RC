@@ -17,6 +17,15 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **Intriga sobre a herança:** "a vinda de Sophia é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava o fal..." [frase truncada] — a vinda de Sophia (RC-009) situada em disputa arconte;
 - "vários outros arcontes não querem que nenhum desses dois assuma nada" (Cristo/Sophia vs. o processo em curso) — confusão registrada pelo autor.
 
+
+## Ampliação — P2026-07-25
+
+- **Três conselhos (esqueleto da palestra):** 1º Trimurti (deuses primevos, ~4 bi anos) → 2º Dev/Aurora + Cama/Kama + descendência trimurtiana → 3º Dinastia das Sophias/Conselho dos 70 (com os humanos).
+- **Eloim/Elohim (RC-004):** variação usada na fala; 70 clãs de descendentes do dilúvio (Gênesis 11/Torre de Babel; Deuteronômio; Septuaginta; Manuscritos do Mar Morto; Talmud; Midrach).
+- **Função declarada:** manter o criador caído vivo; "os conselhos servem a Javé".
+- **Lógica não humana:** nenhum membro pensa como humano; únicos candidatos humanos: Jesus (rejeitado) e Saibaba (não quis entrar).
+- **Crise:** "dias contados" — universo vizinho colapsando, sem novos membros, seres de Ensá saindo, Krishna alinhado ao inevitável; transição: arcontes nascendo como humanos.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

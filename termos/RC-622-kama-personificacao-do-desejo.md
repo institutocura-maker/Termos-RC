@@ -17,6 +17,11 @@ Surge após a externalização da cólera: o desejo coletivo dos deuses de levar
 - Grafia preferida: Kama. STT: cama.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2026-07-25
+
+- **Cama = Kama (STT "Cama"):** egrégora do desejo criada por Vishnu a partir da influência de Aurora — "eu tenho em mim essa força que Vishnu criou vindo de Aurora"; flecha do cupido/Eros; Cama Sutra (referência do autor); desejo que rompe a desconfiança entre os deuses.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

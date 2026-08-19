@@ -18,6 +18,13 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **Variações:** Moros (Grega); Aeon (RC); Bhava (Hindu); Chesed (4ª Sefirah); Henet (Egípcia-Ogdoade); Maat (Egípcia); Orlog (Nórdica); Phanis (Orfismo); Sudz (Eslava)
 - **Obs.:** **Tempérion** (RC-472) é um setor paralelo da Espiritualidade Laboratorial — **não** é grafia variante de Perpérion (RC-087). Os eons LM (Elm, Olm) são de Tempérion; os Pashvnaj (Javé, Vishnu, Shiva) são de Perpérion. Distinção de jurisdição (esclarecimento do usuário, 2026-08-13).
 
+
+## Ampliação — P2026-07-25
+
+- **Sabe o destino dos arcontes (P2026-07-25):** "o único ser que sabe do destino deles é Moros... nunca se sentou nesse conselho, nunca quis ser dono de alguma coisa, nunca se submeteu à Trimurti".
+- **Criou a teia da vida (Wert [STT] → Wyrd, RC-658):** "a teia foi criada por Moros/Olog... a partir da Wert, o que saía de um ser voltava para ele".
+- **Hipóstase dos Arcontes (RC-770):** Moros é um dos personagens-chave do livro gnóstico.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

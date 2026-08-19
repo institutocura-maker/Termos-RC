@@ -17,6 +17,14 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 - Grafia preferida: En Ma. Variações: Emá; Emar; EMÁ. Não confundir com Elm (RC-454).
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2026-07-25
+
+- **Apresentado pela primeira vez em B068 (O Funeral da Evidência):** o espírito que produziu Brahma, Vishnu e todos os descendentes, inclusive Sophia e Jesus — "100% responsável por tudo que está acontecendo no caos".
+- **Consciência fatiada:** os 70 membros do conselho dos arcontes são eus representativos da consciência fatiada de Emá (e de Ensá, RC-477).
+- **Fellini:** o autor abre B068 com um filme de Fellini em que alguém grita "De quem é a culpa? De quem é a culpa?" — "De quem é a culpa por a gente existir?".
+- **Não é Deus:** "nem EMÁ é um Deus, é só um espírito que criou um problemaço".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -23,6 +23,11 @@ Na cosmologia de Jan Val Ellam, hipótese narrativa segundo a qual códigos, “
 
 NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantropia associada a crianças, famílias, autismo, diagnósticos ou causalidades espirituais clínicas.
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** "externalizaram lá tudo que tinha para ser externalizado... jogaram o problema todo para cá" ao tempo da emergência da espécie humana (últimos ~25.000 anos) — reforça o termo; genoma como "joia" disputada (ver RC-518).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

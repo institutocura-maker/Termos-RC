@@ -18,6 +18,16 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **Variações:** Cristo Cósmico; Suserano Cósmico; "Jesus em seu corpo glorioso"; Sofia; **Hochmah** (epíteto hebraico = Sabedoria, ver RC-565; grafia oral da palestra P2024-02-25 registrada como "Rockman/Rochman" por erro de STT, confirmada pelo curador como **Hochmah**); Sapienza (italiano)
 - **Idioma de origem:** Grego (σοφία = sabedoria)
 
+
+## Ampliação — P2026-07-25
+
+- **"Sophia não é nome — é epíteto"** (personificação de um tipo de sabedoria); os membros do conselho são "personificações diversas de Sophia" (eus de Emá/Ensá).
+- **Origem:** criada no 2º conselho, logo após Dev/Aurora e Cama/Kama; corpo "engendrado para jamais morrer, para durar enquanto este universo durar".
+- **Suzerana do universo biológico:** representante do conselho neste universo; "você tá cuidando aí do nosso gado, mas não pense que esse gado é seu" (gado = humanidade); os seres que criou invadiram sua descendência.
+- **Penalização:** perdeu o direito de herdeira do legado trimurtiano por ter produzido o avatar Jesus que descumpriu a missão; "a Sofia biológica tá fora" do conselho.
+- **Krishna impede a vinda:** medo da perda total da devoção humana (2 bilhões de muçulmanos + 2 bilhões de adoradores de Krishna); vinda = "festival de naves" (quarentena ufológica).
+- **Consórcio:** humanos + Sophia (RC-720) — "somos todos sócios e parceiros de um destino"; vinda como "finalização de uma etapa".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

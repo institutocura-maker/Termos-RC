@@ -18,6 +18,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **Variações:** Senhor Javé; Jeová; Yahweh; YHWH; Deus Bíblico; Brahma (no sistema RC); Criador
 - **Idioma de origem:** Hebraico (tetragrama YHWH)
 
+
+## Ampliação — P2026-07-25
+
+- **Formas assumidas (cronologia da palestra):** corpo ígneo de plasma → condição daiva → cuscuta → cefalópodes → dragonoide → tentativa humana (Senhor Brahma Parameshthi) — "o eu de Javé foi sendo essas coisas todas".
+- **Demência e coma:** ficava milhões de anos apagado; os anjos clones mantinham a forma dele viva; colapso do corpo humano "ano 2020 e alguma coisa" (cronologia interna: 2021).
+- **Epítetos gnósticos:** Samael (cego), Saklas (ignorante), Ialdabaoth (blasfemador), Sabaoth — todos Javé (RC-482); antes da queda: Pistis Sophia (RC-530) = Prabrajna (RC-152).
+- **"Eu fiz e eu carrego":** resposta aos anjos ministradores (RC-485), reproduzida por Isaías.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

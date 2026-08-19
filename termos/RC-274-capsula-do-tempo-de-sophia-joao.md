@@ -17,6 +17,11 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 - **Grafia preferida:** Cápsula do Tempo de Sophia
 - **Variações:** a "cápsula do tempo" (João/Apocalipse); promessas do retorno; "os tempos são chegados"
 
+
+## Ampliação — P2026-07-25
+
+- **P2026-07-25:** a vinda de Sophia é tratada como "finalização de uma etapa" — contexto da cápsula do tempo (João).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

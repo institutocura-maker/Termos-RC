@@ -18,6 +18,13 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 - **Variações:** timi; honra/domínio de um deus; equivalente sânscrito: varna
 - **Idioma de origem:** grego (τιμή = honra, valor, prerrogativa)
 
+
+## Ampliação — P2026-07-25
+
+- **Ritos de passagem** (absorvido na devolutiva): mudança de status instituída entre os arcontes (porteiro do portão do céu, toga do STF, coroa) — "esses seres que não obedecem a nada obedecem a isso".
+- **Crime de Jesus:** agredir a Timé de um arconte é crime no conselho — Jesus invadiu o Tártaro (Timé de Hades e Belial) → processo aberto contra Jesus, sem resolução até hoje.
+- **Aumento de Timé:** cada ser que assumia assento no conselho dos 70 tinha a Timé aumentada — motivo de guerras e perseguição a humanos (ex.: Apolo obrigado a "se livrar" de jogadores humanos).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -474,3 +474,41 @@ Recuperar o `apostila.md` já corrigido e rodar `build_apostila.py`. A grafia ca
 
 
 **Correção de engenharia (2026-08-18, 2ª) — MANIFESTO-PACOTES dinâmico:** auditoria técnica revelou que o `MANIFESTO-PACOTES-2026-08-18.txt` externo exibia estado canônico **HARDCODED** (757 termos / 1.415 relações / próximo RC-758 / "P2024-11-02 CONCLUÍDA") — congelado num checkpoint antigo, enquanto a Base já estava em 765 termos. Causa raiz: `gerar_pacotes.py` tinha as contagens fixas no código-fonte do manifesto. **Correção:** o gerador agora **computa dinamicamente** o estado canônico (termos, relações, fichas, próximo código, apostilas) a partir de `dados_termos.py` e do diretório `termos/`. Pacotes regenerados e verificados: **409/409 arquivos fiéis (pacote == manifesto interno == workspace)**; novo manifesto correto (765 termos / 1.492 relações / próximo RC-766 / 7 apostilas).
+
+---
+
+## Auditoria Apostila(7) — restauração + regeneração de artefatos (2026-08-19)
+
+- **Restauração (Fonte A — GitHub):** token do curador via variável de ambiente (nunca em arquivo); clone `institutocura-maker/Termos-RC` (commit `954d309`, branch `main`) → materializado em `/home/user/rc-terminologia` (729 arquivos; sem `.git`, sem `reconstrucao/` — por design do espelhamento).
+- **Validação:** `OK: 767 termos, 1531 relações — dados válidos.` · SHA-256 `dados_termos.py` = `7a95c8dd…d69d028ac` (idêntico ao Guia v1.1). Nenhum código consumido (próximo: **RC-768**).
+- **Artefatos regenerados (conferência autorizada pelo curador):**
+  - `indice-mestre.md` — 767 linhas; SHA-256 `652519f1…` **byte-idêntico** ao checkpoint 08-18;
+  - `base-terminologica.xlsx` — 7 abas (Índice 767 · Fichas 377 · Relações 1531 · Bibliografia 79 · Categorias 40+1 · Status · Como usar);
+  - `base-terminologica-leitura.docx` — 767 termos / 1531 relações / 79 obras / 378 fichas; **cobertura 767/767 códigos** (parágrafos + tabelas).
+- **Determinismo dos builders:** prova com 2ª geração → diff interno dos ZIPs: única diferença `docProps/core.xml` (timestamp). DOCX idêntico inclusive no core.xml. Builders inalterados desde o checkpoint (`7c95fdf`). Diferença vs 18/08 é só metadado de data (XLSX: created/modified; DOCX: linha "Gerado em 19/08/2026" por design, `build_word.py` L204).
+- **Spot-check de grafias canônicas (XLSX + DOCX):** Brahma RC-037 · Tikun RC-514 · Sophia RC-009 · Nefilins RC-488 · Ialdabaoth RC-482 · Olm RC-092 · Elm RC-454 · Adhy RC-011 (ser) / RC-310 (Adhy que caiu) · Javé RC-001 · Vishnu RC-135 · Xamanismo RC-577 · Wyrd/Urd RC-658 (RC-560 remissão) · Hochmah RC-565 · Vaishnavismo RC-757 · Kapila (ocorre em B076/B078) — **todos OK, sem divergências**.
+- **Sem edições de dados.** Base inalterada; pacotes regenerados abaixo (hábito obrigatório).
+
+---
+
+## Ciclo de Curadoria P2026-07-25 — Jesus e a Dinastia das Sophias (19/08/2026)
+
+**Primeira palestra do ciclo Apostila(7) — "prova de fogo".** Material-fonte fornecido pelo curador (TXT "2026-25-07"); dossiê e devolutiva completos no mesmo dia.
+
+### Devolutiva do curador (via Assistente, 19/08/2026) — integral
+- **D-1:** fonte canônica **P2026-07-25** (data declarada na fala: "hoje, dia 25 de julho do ano 2026"); índices corrigidos (P2025-07-25 → P2026-07-25).
+- **D-2:** aprovados **RC-768** (Princípio da Externalização), **RC-769** (Corpos Fenvã), **RC-770** (Hipóstase dos Arcontes); rejeitados com absorção: Cisne Negro → RC-192 (+nota RC-702); Evangelho de Bartolomeu/500 Passos → RC-072 (cruzando RC-647); Hades/Reides → RC-286 (cruzando RC-074).
+- **D-3:** "Wert" é desvio fonético — unificado exclusivamente como **Wyrd (RC-658)**.
+- **D-4:** 10 subordinados absorvidos (Navalha de Ockham) — sem códigos novos.
+- **D-5:** **B080 Perversa Gratidão** cadastrada na BIBLIO (edição manual, sem tocar em outras entradas).
+- **D-6:** bloco de ~40 ampliações aprovado integralmente.
+- **D-7:** quarentenas estritas (clínico/científico/geopolítico/ufológico/teológico/STT).
+- **D-8:** plateia isolada (7 perguntas finais) — sem ontologia.
+
+### Execução
+- Base: **770 termos · 1.604 relações** (+3 termos, +73 relações) — `OK: 770 termos, 1604 relações — dados válidos.`
+- Fichas: **14 criadas** (RC-768/769/770 + RC-286 Tártaro, RC-494 Dinastia das Sophias, RC-495 Arabot-Ráquia/Shekinah/Merkabah, RC-482 Ialdabaoth, RC-479 Belial, RC-565 Hochmah, RC-530 Pistis Sophia, RC-485 Classes de anjos, RC-477 Ensá, RC-480 Indra, RC-518 Genoma Derivado) e **40 ampliadas** (seção "Ampliação — P2026-07-25").
+- Artefatos regenerados: índice (770), XLSX (7 abas; 80 obras), DOCX (770/1604/80/392).
+- Backup pré-ciclo: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-768-770.py` (`7a95c8dd…`).
+- Próximo código disponível: **RC-771**.
+- **Pendência:** apostila integral (Ciclo de Apostilas em Lote) — aguardando acúmulo/gatilho do curador.

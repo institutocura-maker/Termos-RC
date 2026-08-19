@@ -17,6 +17,11 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 - Grafia preferida: Ravana.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2026-07-25
+
+- **Monstros de Vishnu e Shiva (P2026-07-25):** Ravana (10 cabeças; decepava uma a cada 1.000 anos pensando em Brahma — arrancava fórmulas de poder) e Hiranyakashipu (STT "Iraniakashipu") foram criados para enfraquecer Brahma e saíram do controle — "pandemônio que dissolvia o conselho".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

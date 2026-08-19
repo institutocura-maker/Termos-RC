@@ -10,6 +10,11 @@
 ## Definição Sintética
 Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmissos ao controle dos deuses, associada a Pandora, Eva e Noreia e contraposta a códigos de submissão atribuídos à linhagem de Adão.
 
+
+## Ampliação — P2026-07-25
+
+- **Noreia (RC-579):** a linhagem Pandora–Eva–Noreia reaparece na Hipóstase dos Arcontes — Noreia, filha de Eva, "pura de caráter", que recebeu de Eleleth o destino dos arcontes; a palestra indica que esse "ser espiritual vivo vai começar a nascer na terra agora" (ver quarentena de gênero).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -19,6 +19,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **Krishna (RC-414):** novidade gerada "a partir de uma juntada do DNA de Brama, Vishnu e Shiva" — avatar de DNA misturado que se proclamou superior aos três ("avatar quechada" [STT — ver Colecionar Incertezas]);
 - A Trimurti também é citada no contexto das "colmeias colapsando" (P2023-05-13) e da ascensão do Quarto Logos (RC-092).
 
+
+## Ampliação — P2026-07-25
+
+- **1º conselho dos deuses (deuses primevos):** ~4 bilhões de anos após o Big Bang; Trimurti "três inderrotáveis" (ninguém mata o outro); "manicômio... mas tem três malucões"; pacificação da descendência; criação da teia da vida (Wyrd/RC-658) por Moros.
+- **Sucessão de conselhos:** 2º com Dev/Aurora e Cama/Kama; 3º dinastia das Sophias (RC-494) — ver RC-474.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

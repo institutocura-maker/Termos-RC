@@ -16,6 +16,11 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Evangelho de Judas**.
 
+
+## Ampliação — P2026-07-25
+
+- **Cruzamento P2026-07-25:** junto ao Evangelho de Bartolomeu (absorvido em RC-072), compõe o corpus gnóstico da Paixão citado na palestra (Jesus ressuscitado instruindo discípulos).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
