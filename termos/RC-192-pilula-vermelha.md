@@ -33,6 +33,11 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 - **Pílula vermelha (P2025-03-15):** "saber disso é tomar a pílula vermelha. Vocês estão ferrados." — o despertar para a rebelião dos elétrons; "vão sair daqui ficando pensando nisso... pra maioria da humanidade isso aqui é loucura".
 
+
+## Ampliação — P2025-02-15
+
+- **Pílula vermelha (P2025-02-15):** "a pílula azul é aquela que nos deixa agradável dentro do caos; a pílula vermelha desperta a gente para a consciência de que está no caos. E a partir daí é com o livre arbítrio, ou com o grau de inquietação ou de inconformismo de cada um."
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

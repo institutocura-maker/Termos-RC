@@ -17,6 +17,11 @@ Libertação da roda reencarnacional por superação da ignorância e emancipaç
 - Grafia preferida: Moksha. STT: moxa, Mcha.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2025-02-15
+
+- **Moksha (P2025-02-15 — contexto):** as "fórmulas mentais viciadas" (sanscaras/vāsanās) como grilhões; "quem está livre disso não tem esses grilhões"; a libertação individual (ver RC-705 e RC-712).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

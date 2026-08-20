@@ -23,6 +23,12 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 ## Absorção
 “Mutações Quânticas e Saltos de Espécie” foi absorvido nesta ficha.
 
+
+## Ampliação — P2025-02-15
+
+- **O teclado dos genes (P2025-02-15):** "saber usar os postulados quânticos como forma de tocar o teclado dos seus 25.869 genes [STT — REVISAR], para que você, na condição humana, possa influenciar não só o seu nível de vida, mas todo o ambiente em que está inserido, para além das fronteiras dessa realidade".
+- **O genoma se modifica:** "o que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para exatamente você ser aquilo que você aspira. Quando o seu genoma reescreve o gene com a proteína para que aquilo aconteça em você — seja a cura de uma célula doente, seja capacidades no campo intelectual".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

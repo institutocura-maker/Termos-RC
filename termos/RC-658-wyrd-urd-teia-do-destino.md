@@ -47,6 +47,11 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **"Fora da geopolítica da Trimurti" (P2025-03-15):** "a WD foi gerada fora da geopolítica da Trimurti"; "os três senhores não querem se submeter à Wyrd"; "Krishna diz: quem manda no destino dos seres sou eu" — a oposição de Krishna à Wyrd (ver RC-559).
 - **A Wyrd como organizadora do caos:** "o caos se organizou sob a forma de dois universos e de uma espiritualidade criada, improvisada" — a Wyrd como o processador que organiza o fluxo de informações (reforço do RC-658).
 
+
+## Ampliação — P2025-02-15
+
+- **Wyrd como vínculo (P2025-02-15 — destaque C-2):** "o vínculo aqui é que é, entre aspas, a questão da WD — da teia quântica nórdica — ou da rede de Ifá"; as pendências geram "futuro vinculante" (o passado pendente exige futuro a cumprir). [Nota: grafia canônica Wyrd/Urd — RC-658; "WD" é a variação histórica RC-560.]
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

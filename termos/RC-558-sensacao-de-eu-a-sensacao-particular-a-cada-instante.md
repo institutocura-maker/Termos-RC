@@ -18,6 +18,11 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 - O eu humano profundo deve ser despertado pela vontade dele mesmo e observar o eu imediato (primeiro impulso).
 - Os deuses do universo vizinho 'estão atrás de produzir as suas faces com suas sensações e eles não sabem fazer isso'; humanos são os únicos capazes de modificar o genoma pessoal criando novas sensações.
 
+
+## Ampliação — P2025-02-15
+
+- **Sensação de eu (P2025-02-15):** "o que cada um de nós pensa ser, o que cada um de nós acha que é... isso é só um estágio, é só uma etapa no processo de uma obra que foi iniciada"; "ser um ser humano não é isso que nós estamos certos".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

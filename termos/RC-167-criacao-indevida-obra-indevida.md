@@ -22,6 +22,11 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 
 - **Criação Indevida (P2025-02-16):** a criação como "fogo de artifício" que fenecerá; "o que alguém faz nesse universo não repercute em canto nenhum; o que alguém faz no paraíso só repercute no paraíso; mas um ser humano, com sua pulsação pessoal, movimenta toda a base estrutural de tudo que existe — porque no genoma humano tudo está contido, porque alguém fez que assim fosse. Tudo indica que esse alguém são essas figuras [nagas/reptilianos]."
 
+
+## Ampliação — P2025-02-15
+
+- **Criação Indevida (P2025-02-15):** "o ser que criou isso onde hoje nós estamos não faz isso [não comanda] porque ele desmaiou, ele caiu"; "vi [a criação] vinculada a um campo quântico de possibilidades, mas não tem ninguém no comando lá fora"; "o processo está solto".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

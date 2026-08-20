@@ -22,6 +22,12 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 - **Satyagraha:** resistência pacífica e amorosa em nome da verdade vivida.
 - **Abhaya:** agir sem perguntar o que se ganhará; permanece no glossário, sem novo código neste ciclo.
 
+
+## Ampliação — P2025-02-15
+
+- **Finalize em você mesmo (P2025-02-15):** "se você errar no presente, o que é que eu preciso fazer para finalizar em mim isso que eu acabei de fazer? Eu preciso pedir desculpas. Se ficar pendência relativa ao que outros acharam daquilo que eu fiz, problema dos outros. Se eu não repetir a besteira ou se eu não tiver feito algo por mal... Encerre em mim mesmo aquilo. Se eu ajo assim, eu não crio futuro. Eu sou alguém livre, ainda que eu vá viver futuro. Não gera um futuro vinculante."
+- **O vínculo:** "o vínculo aqui é que é, entre aspas, a questão da WD — da teia quântica nórdica — ou da rede de Ifá, o que seja" (ver RC-658/RC-559).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

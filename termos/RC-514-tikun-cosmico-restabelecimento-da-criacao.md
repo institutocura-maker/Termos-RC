@@ -17,6 +17,11 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - coconstrutores da Obra (RC-545); Favor Divino (RC-332);
 - Tikun vibracional: a liberação da alma para o próprio reencontro (leitura do artigo ART-2026-08-18).
 
+
+## Ampliação — P2025-02-15
+
+- **Tikun (P2025-02-15):** "o nome disso na cabalá é Tikun — o ato do ser humano usar a si mesmo para reparar tanto a obra quanto o criador nela caída" (ver RC-713).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

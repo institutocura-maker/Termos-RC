@@ -23,6 +23,11 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 
 - **Super sensações (P2024-02-25):** 'é necessário antes que você aprenda a criar super sensações ou sensação adulta. E é isso que o Mentalma tenta ensinar.'
 
+
+## Ampliação — P2025-02-15
+
+- **Mentalma (P2025-02-15):** "a importância do diálogo constante interior de você: usar o seu discurso para dizer às suas células o que você quer ser"; "eu estava fazendo um pouco de yoga e me perguntando há quanto tempo eu não crio uma novidade para surpreender os meus RNA mensageiros".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

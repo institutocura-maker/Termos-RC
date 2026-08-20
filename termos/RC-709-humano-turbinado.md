@@ -21,6 +21,13 @@ A fala distingue possibilidades:
 - especiação humana;
 - novas capacidades ligadas a Genes Críticos.
 
+
+## Ampliação — P2025-02-15
+
+- **Obra inacabada (P2025-02-15):** "o ser humano é uma obra inacabada, é algo em transformação. Mas se você acha que você é isso aí, você é isso aí sempre. Esse corpo morre, a sensação de ser isso aí vai, e o próximo você vai ser isso aí de novo, porque é o corpo sutil reencarnante que vai levar as sensações que você colecionou numa vida."
+- **Levitação (vivência pessoal do autor):** "uma das coisas a que eu me dedico nessa vida, exatamente para provocar a saída do meu eu de uma zona de conforto, é fazer com que esse corpo levite. Eu venho fazendo isso há anos... faço para irritar os meus RNA mensageiros todo dia" [quarentena — não validado].
+- **Vir a ser:** "são construções internas... a lei da mente do Buda é você movimentar-se em termos de vida íntima através de sonhos, de planos mentais e de vivência".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

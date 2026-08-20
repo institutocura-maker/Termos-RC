@@ -36,6 +36,15 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 
 - **Choques de realidade (P2024-02-25):** 'primeiro nós vamos ter que sofrer choques de realidade complicados para aprender' — a camuflagem só cai por choques; ver RC-192.
 
+
+## Ampliação — P2025-02-15
+
+- **Maia, o arquiteto dos asuras (P2025-02-15):** "esse truque quântico foi feito pelo ser que criou e caiu na criação. Mas isso foi reforçado por figuras, tipo um próprio ser chamado Maia. Maia é um ser que é um arquiteto dos asuras que conseguiu manter isso funcionando e até hoje funciona" — Maia não é apenas a ilusão, mas o ser que mantém a camuflagem (destaque da devolutiva C-2).
+- **Pílula azul/vermelha:** "a pílula azul é aquela que nos deixa agradável dentro do caos; a pílula vermelha desperta a gente para a consciência de que está no caos"; "a humanidade, quase toda, repousa na pílula azul".
+- **Como romper:** "com delicadeza, mas com firmeza íntima. Não é difícil, pessoal. Apenas não é necessariamente agradável."
+- **Impressões ilusórias:** "o entorno de cada um de nós é o conjunto dessas impressões ilusórias ou impressões inconscientes que levam um quarto de segundo para você ver ou não".
+- **"A ignorância é uma bênção formidável"** — para a maioria, não ver é melhor (leitura do autor).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

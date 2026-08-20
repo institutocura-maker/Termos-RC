@@ -21,6 +21,11 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 
 - **Os dois "piscinões" (P2025-03-15):** "esse piscinão de elétrons e esse piscinão de antielétrons, somados, correspondiam ao estado mental crítico que estavam todos na mente de Prabrajna"; "quando caíram aqui dentro, continuaram agarradinhos (como neurônios)... levaram com eles a sensação do eu deles"; "a primeira carga memorial dos elétrons e antielétrons foi extremamente dolorosa, horrível" (a queda colidiu na memória deles).
 
+
+## Ampliação — P2025-02-15
+
+- **A bacia de elétrons (P2025-02-15):** "o universo é uma grande bacia de elétrons"; "o que um ser humano faz, todos os elétrons sabem na hora" (corante).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

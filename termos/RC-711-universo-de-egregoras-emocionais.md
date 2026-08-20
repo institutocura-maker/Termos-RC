@@ -27,6 +27,11 @@ Formações alimentadas pela repetição de emoções e sentimentos associados a
 - egrégoras “júnior”;
 - “buracos negros mentais”, preservados somente como figura de linguagem.
 
+
+## Ampliação — P2025-02-15
+
+- **Universo de egrégoras emocionais (P2025-02-15):** o entorno humano é composto por "impressões inconscientes" e campos mórficos que envolvem cada ser; "tudo que um ser humano faz a cada segundo tá marcado nisso tudo"; a egrégora emocional como componente da realidade percebida.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

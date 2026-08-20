@@ -36,6 +36,11 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 - **Não é justiça:** "no paraíso não há justiça... no caos também não existia essa presunção. Isso é coisa dos humanos."
 - **Fora da geopolítica da Trimurti:** "WD foi gerada fora da geopolítica da Trimurti... Brama, Vishnu e Shiva não querem se submeter a ela; Krishna diz: quem manda no destino dos seres sou eu" — o conflito.
 
+
+## Ampliação — P2025-02-15
+
+- **Teia quântica (P2025-02-15):** "já que tudo que sai de um ser volta para ele" — o vínculo das pendências; "o presente para esse problema vai ser o momento em que aquilo for resolvido".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -23,6 +23,12 @@ O termo articula:
 - Ciência Pessoal;
 - Lei da Mente do Buda.
 
+
+## Ampliação — P2025-02-15
+
+- **O manual do piloto (P2025-02-15):** "sabendo usar os postulados quânticos, é igual um piloto que entra na cabine de um avião, olha para aquilo tudo, mas se ele não tiver curso, ele não sabe pilotar. Esse corpo é um avião. O cérebro da gente, principalmente o eu de cada um de nós, é o piloto. A gente tem vivido desse jeito pensando que isso é a vida que a gente pode ter. Mas se a gente souber pilotar esse cérebro — por isso os postulados quânticos são importantes, porque é o manual."
+- **A continuidade ilusória:** "a aparente continuidade de nossas impressões mantém essa realidade funcionando. Mas essa continuidade é ilusória, porque muita coisa a gente deixa para trás e não internaliza."
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

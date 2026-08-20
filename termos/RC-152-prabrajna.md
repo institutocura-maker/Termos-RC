@@ -24,6 +24,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **Prabrajna (P2025-02-16):** "um outro ser chamado Prabrajna ficou produzindo essa ideia como Mavatma, mas terminou se apropriando dela e por isso terminou produzindo essa criação e nela caindo".
 - **O fogo de artifício (resposta à plateia):** "essa criação é igual a um fogo de artifício... ela ainda está explodindo, mas em algum momento vai começar a fenecer"; "o estoque de hidrogênio tem limite... nenhuma estrela mais se acenderá"; energia tamásica de Shiva (entropia) rasga a matéria × forças sátvicas de Vishnu (gravidade, eletromagnetismo, forças nucleares); "segundo a ciência, mais uns 40, 50 bilhões de anos"; "o pressuposto é que todos os espíritos até lá estejam limpos... só que hoje já se sabe que não vai dar tempo".
 
+
+## Ampliação — P2025-02-15
+
+- **O criador que caiu (P2025-02-15):** "alguém no paraíso criou um campo quântico, colapsou a realidade, mas nela caiu, e esse processo ficou acontecendo e ninguém [assumiu]"; "nós estamos dentro de uma coisa que foi colapsada... mas não tem ninguém no comando lá fora"; "outros espíritos do paraíso começaram a agir nesse campo quântico para ajudar o ser caído e se ferraram"; "aí alguém resolveu criar espíritos simples e ignorantes, que não sabiam fazer nada, para serem vinculados à vida biológica" (Kardec).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

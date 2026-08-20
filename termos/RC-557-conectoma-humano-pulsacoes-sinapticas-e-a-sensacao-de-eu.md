@@ -11,6 +11,11 @@
 
 Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marcando pensamentos e sentimentos que caracterizam a sensação de eu de uma pessoa. No passado, 'no tempo em que a entropia permitia que as memórias permanecessem pujantes por mais tempo dentro do conectoma humano', algumas figuras sabiam o que é um eu; hoje quase ninguém sabe.
 
+
+## Ampliação — P2025-02-15
+
+- **Neurônio e a sensação de eu (P2025-02-15):** "cada neurônio tem milhares de dendritos, mas só tem uma porta de saída — o axônio. Essa porta de saída produz a sensação no córtex frontal. Por isso a gente pensa que o eu está aí dentro, mas é falso. A internalização de fazer com que um ser humano se confunda com esse corpo é esse truque neuronal: tudo que entra entra facilmente por milhares de dendritos... esse código só consegue processar 2.000 informações por segundo".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

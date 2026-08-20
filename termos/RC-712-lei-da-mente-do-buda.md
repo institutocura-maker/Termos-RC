@@ -31,6 +31,13 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 
 - **Os três tipos de ignorância (P2025-03-15):** "o Vedanta chama de Avidya; Buda chamava de Trishna; Kapila no Samkhya chamava de Vatireca [STT — REVISAR]" — "são três tipos de ignorância que cegam toda a humanidade... você já nasce com eles"; reforço da relação com a Lei da Mente do Buda.
 
+
+## Ampliação — P2025-02-15
+
+- **Lei da Mente do Buda (P2025-02-15):** "a lei que explica o que você pode fazer em você mesmo. O que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para você ser aquilo que aspira. Então aquilo se torna realidade."
+- **Diálogo interior (Mentalma):** "no Mentalma a gente fala da importância do diálogo constante interior: usar o seu discurso para dizer às suas células o que você quer ser".
+- **Transtorno cognitivo × religião:** "transtorno cognitivo é quando você acredita em algo que não é verdade, mas que lhe é agradável... Os ateus dizem: quando uma pessoa sozinha fica fazendo maluquice, a gente diz que fulano tá delirando. Quando várias deliram juntas, o nome disso é religião" [quarentena — leitura do autor].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

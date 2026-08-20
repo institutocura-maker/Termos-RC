@@ -20,6 +20,12 @@ A palestra distingue taumaturgia de:
 
 O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, interpretada como manipulação químico-genética.
 
+
+## Ampliação — P2025-02-15
+
+- **Taumaturgia genético-química (P2025-02-15):** "tocar o teclado dos seus 25.869 genes" como operação de cocriação; a modificação da receita genética pela mente (ver RC-710 e RC-712).
+- **Tikun (destaque C-2):** "o nome disso na cabalá é Tikun, ou seja, o ato do ser humano usar a si mesmo para reparar tanto a obra quanto o criador nela caída. É o ato de consertar os defeitos da criação e do criador" (ver RC-514).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

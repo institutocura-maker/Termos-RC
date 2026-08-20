@@ -17,6 +17,11 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **Grafia preferida:** Reintegração Cósmica
 - **Variações:** (verificar uso de "reabilitação", "retorno ao circuito cósmico", "cidadania planetária")
 
+
+## Ampliação — P2025-02-15
+
+- **Reintegração Cósmica / planeta regenerado (P2025-02-15):** "a Terra só poderá ser o tal planeta regenerado, que a doutrina espírita fala com muita propriedade, quando os humanos que aqui surgirem estiverem vinculados, ou sejam produtos de espíritos limpos, minimamente regenerados" (kardecismo — sem endosso).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -653,3 +653,25 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados.
 
 **Estado:** 770 termos · 1.737 relações · RC-771 livre · 407 fichas · 80 obras · **18 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2025-02-15 Você, a Camuflagem da Realidade e os Postulados Quânticos (19/08/2026)
+
+**Re-curadoria** (repassada de palestra já vista). Devolutiva C-1..C-5 do curador (via Assistente): auditoria aprovada; ~24 ampliações aprovadas; **zero códigos novos** (base em 770); apostila autorizada; quarentenas científico/teológico/clínico confirmadas.
+
+### Execução
+- Auditoria RC-702–713 contra o STT integral: **12/12 confirmados** (base madura).
+- **25 fichas ampliadas** (seção "Ampliação — P2025-02-15"): destaques — **Maia = arquiteto dos asuras** que mantém a camuflagem (RC-702); **eu humano = pérola > espírito** (RC-704); **Tikun = conserto da obra e do criador** (RC-514/713); **Bhavanga/janela pela respiração** (RC-706); **5 elementos/informação** (RC-707); "finalize em você mesmo" (RC-705); Wyrd como vínculo (RC-658).
+- **24 relações novas**; 9 campos relacionados enriquecidos.
+- Base: **770 termos · 1.761 relações** (+24) — `OK: 770 termos, 1761 relações — dados válidos.` · RC-771 preservado.
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-CAMUFLAGEM.py`.
+
+### Colecionar Incertezas (itens novos)
+"Tat" (quem encomendou a pesquisa); "arrancara" (mecanismo do loop mental); "bavanga" (bhavanga); "sanscara/vasana" (saṃskāra/vāsanā); "cundaline" (kundalini); "25.869 × 28.869 genes"; levitação do autor [não validado].
+
+### Apostila (19ª do acervo)
+- `apostila.md` (12.770 palavras; 12 PARTES + glossário A–D; **PARTES V/IX/XII com plateia isolada** — Bárbara, Fernando, Gerald e anônimos; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-02-15_camuflagem_realidade_postulados_quanticos/`.
+- Índices sincronizados.
+
+**Estado:** 770 termos · 1.761 relações · RC-771 livre · 407 fichas · 80 obras · **19 apostilas concluídas**.

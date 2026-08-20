@@ -23,6 +23,13 @@ Quando o corpo morre, o corpo sutil e o eu seriam apropriados pelo espírito. Em
 ## Samskaras e Vasanas
 Mantidos como subtermos de glossário: impressões, hábitos e tendências transportadas entre existências.
 
+
+## Ampliação — P2025-02-15
+
+- **O eu humano é a pérola (P2025-02-15 — destaque C-2):** "existe um meio-termo aí que o eu de cada um de nós repousa. E quer saber quem é mais importante, o espírito ou o eu de cada ser humano? Obviamente que o espiritismo vai dizer que são os espíritos. É, não, pessoal, é o eu de cada ser. E, como os humanos são os mais modernos dessa história, o eu humano é a pérola a ser colecionada no eu espiritual de cada consciência particularizada. O ser humano é, no momento, mais importante do que tudo o que existe somado."
+- **O corpo sutil reencarnante:** "o espírito cede o corpo sutil reencarnante, que traz toda uma condição genética de fórmulas mentais viciadas de vidas passadas, como também traz os sanscaras positivos — fórmulas mentais dos talentos que você já conseguiu em vidas passadas".
+- **O ego pós-morte:** "o eu presente no corpo sutil reencarnante, que acabou de desencarnar — o tipo de ego que ele tinha aqui como ser humano... se isso demora 20 anos e esse ego deixa de ser doente (o que é difícil), o espírito apropria... normalmente é o ego".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
