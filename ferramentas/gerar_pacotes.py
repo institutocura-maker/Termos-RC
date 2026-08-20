@@ -71,6 +71,8 @@ for slug in sorted(os.listdir(os.path.join(RAIZ, "apostilas", "CONCLUIDAS"))):
         GRUPO_APOSTILAS.append(os.path.join(base, "ficha_ingresso.md"))
     if os.path.isfile(os.path.join(RAIZ, base, "original.txt")):
         GRUPO_ORIGINAIS.append(os.path.join(base, "original.txt"))
+    if os.path.isfile(os.path.join(RAIZ, base, "original.pdf")):
+        GRUPO_ORIGINAIS.append(os.path.join(base, "original.pdf"))
 # Apostilas temáticas (pedagogia / Super-Nó Semântico) — também regeneráveis
 for f in sorted(os.listdir(os.path.join(RAIZ, "pedagogico"))):
     if f.startswith("Apostila-Estudo-") and f.endswith(".md"):

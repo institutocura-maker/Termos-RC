@@ -110,6 +110,7 @@ A primeira devolutiva da live *Estagiários do Kaos* foi incorporada parcialment
 - apostila refatorada em 12 PARTES (10.941 palavras; base V2 + trechos V1; **5 figuras embutidas no DOCX**; sem plateia);
 - **Colecionar Incertezas (novos):** "147 Adhy em Perpérion"; "43 Pashvnaj ≈ 20 e poucas almas"; "3.500+ universos de Perpérion"; "os outros 146 vieram resgatar e se lascaram"; "a queda não foi premeditada — foi empurrado"; "Kant: universo sensorial não existe lá fora"; "cérebro bilatério ~4 bi anos"; "3–5% da doença de Javé no DNA"; "90% DNA-lixo"; "mundo de regeneração 2050"; "Yel Luzbel retirado no marco zero de Jesus e Apolônio (1993)"; "Antares prestes a explodir"; "Livros de Enoque desaparecidos"; "Teurgia"; "Saccidanandhagana"; "Discurso Interior"; "Sanscaras"; "Dasein (Heidegger)";
 - **Ampliações retidas (sem ficha física — padrão):** RC-013/014/135/163/343/499/542/019/156/075/035 → aguardam autorização para criação de ficha em ciclo futuro (conforme O-7).
+- **Registro reflexivo (a pedido do curador):** `MAKING-OF-AGENTE.md` arquivado em `apostilas/CONCLUIDAS/2024-05-04_.../analise/` — reações, decisões e aprendizados do Agente neste ciclo (primeiro PDF; dupla versão do Cap. 1; limite como colaboração; telas como chave-mestra). Documento de acervo, não integra ontologia nem BIBLIO.
 
 ## Curadoria P2025-03-15 — Rebelião dos Elétrons
 
