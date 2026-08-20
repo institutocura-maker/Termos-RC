@@ -56,6 +56,11 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Krishna (P2024-11-09 — destaque A-2):** "o senhor Krishna afirma ser o senhor supremo, mas ele age e agiu como alguém que não merece, pelo menos, o meu aplauso... mas ele cumpre a tarefa dele, de fazer com que as pessoas se entorpeçam com a energia que ele emana, para que essas pessoas parem de assaltar, de se drogar, de se matar, e fiquem cantando Hare Krishna milhares de vezes ao longo do dia. OK? Mas isso é uma forma também de imbecilizar as pessoas."
 - **Castas:** "o sistema de castas lá na Índia seja tido como meio normal de educar as pessoas" (Sai Baba defendia) — quarentena.
 
+
+## Ampliação — P2024-09-29
+
+- **Krishna (P2024-09-29 — contexto):** a astrologia védica de Parashara como critério de comprovação de avatares ("eu sou avatar de Shiva, eu sou avatar de Vishnu — ninguém podia provar nada"); "Jesus teria que nascer dentro desses critérios para que magos da cultura persa, egípcia... pudessem ver nos astros o anúncio de que alguém importante, um avatar divino, nasceria na Terra".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

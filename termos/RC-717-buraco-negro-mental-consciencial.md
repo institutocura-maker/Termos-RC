@@ -31,6 +31,12 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 - **2021:** "isso aconteceu no ano de 2021, ninguém sabe as consequências disso... o colapso no universo vizinho começou loucamente a acelerar depois disso"; "o colapso do criador estava basicamente determinado desde a sua queda, só que jamais foi vislumbrado nem compreendido por ele próprio e por ninguém mais".
 - **Vórtice mental:** "os buracos negros surgiram como a necessidade de [o criador caído] chupar as informações [do universo vizinho]... isso gerou um mecanismo tipo vórtice mental extremamente poderoso, cujo resultado foi a emergência de incontáveis buracos negros entre as suas partes, entre os dois universos".
 
+
+## Ampliação — P2024-09-29
+
+- **Colapso do corpo de Javé (P2024-09-29 — pergunta da plateia):** "ele acabou caindo na criação e assimilando todos os males que ele tinha criado"; "a regra dessa criação: tudo que você faz volta para você. Então ele foi vítima da própria [regra]... o corpo dele colapsou, porque a entropia devolveu. Eles estavam fazendo um jogo entrópico de jogar as coisas; a entropia devolveu na mesma hora. Ele represou o quanto pôde, mas em algum momento isso vem."
+- **O sono de Brahma:** "de vez em quando esse corpo dele entrava em coma e os anjos ficavam sustentando durante milhões de anos um Javé desacordado. Por isso que na mitologia ariana ainda se fala no sono de Brahma ou de Javé, que durava milhões de anos. Em algum momento ele acordava e voltava a funcionar. Só que agora o corpo dele colapsou."
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

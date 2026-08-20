@@ -56,3 +56,9 @@
 - **Forças trevosas:** "os próprios orixás foram vítimas... os orixás foram invadidos pelo que a gente chama de forças trevosas";
 - **Ação atual:** "eles não conseguem mais agir diretamente nos terreiros da terra, mas eles agem em espírito... através de enviados deles";
 - Correlação com RC-655 (Revelação de Ifá) — linha de atuação espiritual sem fragmentar (nova aresta RC-741 ↔ RC-666).
+
+## Ampliação — P2024-09-29
+
+- **Projeto Orunmilá–Olodus (P2024-09-29):** o autor anuncia: "vamos estudar agora o que houve no Japão e depois a gente estuda o que houve na África e no Oriente Médio" — o contexto do projeto Ifá/orixás (ver também P2024-11-30: "quando Obatalá traiu Orumilá e lançou o Islã"); a ser ampliado com o trecho correspondente.
+
+---

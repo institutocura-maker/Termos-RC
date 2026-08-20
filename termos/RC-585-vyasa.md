@@ -38,6 +38,11 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 - **Vyasa = encarnação de Moros (P2024-11-30 — destaque M-2):** "os anjos clones de Brahma conseguiram fazer a leitura da genética dos seres híbridos e humanos e disseram: 'Vyasa tem o mesmo código genético de [Moros]'"; "Brama ficou sabendo que Vyasa era uma encarnação híbrida, feito rishi, de Moros"; "Brama matou o irmão de Vyasa num acidente provocado para Vyasa ter relações com as duas esposas do irmão [gerando Pandu e Dhritarashtra → Pândavas e Kauravas]".
 - **As versões do Mahabharata:** "Vyasa escreveu essa versão em diversas línguas para que cada língua pudesse ser entendida pelos seres ou deuses que viviam nas locas"; "através do seu filho Suka, também escreveu uma pequena versão de 100.000 versos pros humanos"; depois se retirou para a floresta de Naimisha (Axis Mundi, "onde tinha caído a seta de Moros") e foi visitado por Narada.
 
+
+## Ampliação — P2024-09-29
+
+- **Parashara e a astrologia védica (P2024-09-29 — destaque O-2):** "Parashara, pai de Krishna Dvaipayana, Vyasa, lá atrás escreveu um livro — o primeiro livro sobre astrologia védica — porque há 7, 8.000 anos apareciam as figuras dizendo: 'Eu sou avatar de Shiva, eu sou avatar de Vishnu', e ninguém podia provar nada. Então, Parashara escreveu um livro com critérios astronômicos para comprovar se tal figura era avatar ou não"; "os gregos traduziram o livro de Parashara sobre astrologia védica".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

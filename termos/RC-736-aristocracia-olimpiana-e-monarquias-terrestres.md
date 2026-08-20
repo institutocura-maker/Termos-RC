@@ -54,3 +54,11 @@
 ## Nota de governança
 
 [P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
+
+## Ampliação — P2024-09-29
+
+- **Aristocracia Olimpiana × Monarquias Terrestres (P2024-09-29):** as monarquias terrestres como cópia do modelo de dominação da aristocracia olimpiana (Zeus/Atena/Poseidon); "era isso que Javé, Zeus e todo mundo queria: humanos submetidos aos deuses"; "não há nenhum exemplo maior do que [o Japão], porque os japoneses de fato se submetem à casa imperial japonesa — o maior exemplo e o mais atual".
+- **O imperador como "Deus":** "pro japonês, o imperador não é um ser humano: ele é Deus, um Deus descendente de Amaterasu. Simples assim. É assim que eles pensam. Nenhuma monarquia humana tem essa profissão de fé no rei imperador que os japoneses têm."
+- **O ápice da submissão devocional:** "se passar um carro preto e alguém disser 'o imperador tá no carro', todos os japoneses baixam a cabeça e não olham pro carro" — o vínculo com o vício devocional de Javé (destaque da devolutiva O-2).
+
+---

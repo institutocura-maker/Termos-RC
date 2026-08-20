@@ -41,3 +41,11 @@
 ## Nota de governança
 
 [P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
+
+## Ampliação — P2024-09-29
+
+- **Amaterasu = Atena (P2024-09-29 — destaque O-2):** "Amaterasu, que é Atena, que é, entre aspas, filha de Zeus"; "Atena é tida como deusa virgem. E o pior: de fato assim ela permaneceu, porque tudo o que ela fez foi por manipulação genética".
+- **Caverna da Rocha Celestial:** "é dito que essa deusa chamada Atena aparecia pros habitantes das ilhas do Japão nesse portal que até hoje é chamado de Caverna da Rocha Celestial. Amaterasu aparecia e ali dava ordens e conversava com uns e outros."
+- **O detalhe profético/cronológico (Colecionar Incertezas):** "provavelmente essa deusa chamada Atena, mês de abril desse ano, ela deixou de existir para esse universo, e ela deve nascer como humana daqui um pouco mais. Mas Poseidon continua lá. Essa é a fofoca que rola. Algumas dessas figuras já nasceram como humanos, outros não."
+
+---

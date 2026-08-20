@@ -721,3 +721,25 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados.
 
 **Estado:** 770 termos · 1.812 relações · RC-771 livre · 407 fichas · 80 obras · **21 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2024-09-29 A Aristocracia Olimpiana e as Monarquias Terrestres (19/08/2026)
+
+**Re-curadoria** (repassada de palestra já vista). Devolutiva O-1..O-5 do curador (via Assistente): auditoria aprovada; ~14 ampliações aprovadas; **zero códigos novos** (base em 770); apostila autorizada; quarentenas político/histórico/ufológico confirmadas.
+
+### Execução
+- Auditoria RC-736–741 contra o STT integral: **6/6 confirmados** (base madura).
+- **14 fichas ampliadas** (seção "Ampliação — P2024-09-29"): destaques — **Amaterasu = Atena** (RC-738); **Susanoo = Poseidon** (RC-739); **classificação japonesa** (takamimusubi primordiais × amatsukami × Kami = geração de Zeus; RC-740); **genealogia imperial completa** (Kojiki/Nihon Shoki; Izanagi/Izanami; Ninigi; Jinmu; Suiko; os "faltantes"; RC-737); **Parashara e a astrologia védica** (RC-585); **imperador Yu** (dragões aquáticos; RC-740/664); **colapso do corpo de Javé e o "sono de Brahma"** (RC-717); **regra "o que você faz volta"** (RC-559).
+- **18 relações novas**; 7 campos relacionados enriquecidos.
+- Base: **770 termos · 1.830 relações** (+18) — `OK: 770 termos, 1830 relações — dados válidos.` · RC-771 preservado.
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-OLIMPIANAS.py`.
+
+### Colecionar Incertezas (itens novos)
+"Amaterasu deixou de existir em abril [2025?] e deve nascer como humana" [cronologia]; "Poseidon continua lá"; "os oito imperadores faltantes"; "vivos embaixo d'água"; "movimento woke" (quarentena política); imperador Yu filho de dragões aquáticos.
+
+### Apostila (22ª do acervo)
+- `apostila.md` (11.900 palavras; 12 PARTES + glossário A–D; **PARTE X — Perguntas da Plateia isolada** — o criador assimilando os males; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-09-29_aristocracia_olimpiana_monarquias/`.
+- Índices sincronizados.
+
+**Estado:** 770 termos · 1.830 relações · RC-771 livre · 407 fichas · 80 obras · **22 apostilas concluídas**.

@@ -84,6 +84,11 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 - **Filhos de Ofiúco:** "os Nagas mergulharam em mundos de Sírius, na Terra... em Sírius geraram os filhos de Ofiúco [STT 'Ostrogonos'] — seres anfíbios, parte peixe serpentoide, parte humana, descritos na trilogia Terra Atlantis"; quando os rebelados de Capela chegaram à Terra (600.000 anos), já encontraram esses seres nos rios e mares, pacíficos.
 - **Robert Temple/Dogons:** referência ao "Mistério de Sírius" (casal de antropólogos franceses e os Dogons) — quarentena.
 
+
+## Ampliação — P2024-09-29
+
+- **Serpentes teriantrópicas (P2024-09-29):** "os dois dragões aquáticos, ou seja, serpentes teriantrópicas — que a gente falou ontem — parte alguma coisa e parte humana" (ligação com P2024-09-28); o imperador Yu como filho dos dragões do Yangtzé/Amarelo.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

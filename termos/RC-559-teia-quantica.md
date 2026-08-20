@@ -41,6 +41,11 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 
 - **Teia quântica (P2025-02-15):** "já que tudo que sai de um ser volta para ele" — o vínculo das pendências; "o presente para esse problema vai ser o momento em que aquilo for resolvido".
 
+
+## Ampliação — P2024-09-29
+
+- **"O que você faz volta" (P2024-09-29 — pergunta da plateia):** "a gente tem uma regra nessa criação: tudo que você faz volta para você. Então ele foi, digamos, vítima da própria [regra]... a entropia devolveu na mesma hora" — a teia quântica como regra (ver RC-658).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

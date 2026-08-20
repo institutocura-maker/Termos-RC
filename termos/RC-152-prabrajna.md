@@ -34,6 +34,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **Prabrajna e o corpo tombado (P2024-11-09):** "existe um livro gnóstico chamado Pistis Sophia... conta a história de uma pistis que veio três vezes atrás de [imantar] Sophia"; "a história da alma, ou melhor, do espírito desmaiado de Prabrajna tentando ligar-se a Javé e não conseguia, porque a podridão de Javé era tamanha"; "no paraíso tem um corpo tombado de Prabrajna que perdeu uma parte" — as "duas partes que estavam desligadas com a implosão do eu de Javé".
 
+
+## Ampliação — P2024-09-29
+
+- **Prabrajna (P2024-09-29 — pergunta da plateia):** "se ele se deu o trabalho de criar todos esses males ou se veio no pacote... ele acabou caindo na criação e assimilando todos os males que ele tinha criado"; "a arte da reconstrução de algo podre — já que ele se tornou [podre] — é uma arte formidável, porque é impressionante o que ele fez. Mas mesmo assim ele não conseguia se manter funcionando muito tempo."
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

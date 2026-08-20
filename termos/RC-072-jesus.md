@@ -40,6 +40,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **Jesus (P2024-11-09 — destaque A-2):** "Jesus, quando disse que ele era o caminho, a verdade e a vida, isso também foi algo que ele poderia ter se poupado e ter dito. Porque as religiões usaram isso num sentido trágico: 'fora de Jesus não há salvação'. E isso é estúpido. Jesus não é o caminho, não é a verdade, nem é a vida. Jesus foi uma vítima de um processo terrível, de uma aposta que envolveu Brahma, Vishnu... mas Jesus fez o que pôde. Jesus foi digno o tempo inteiro como ser humano."
 
+
+## Ampliação — P2024-09-29
+
+- **Jesus (P2024-09-29):** "para que Jesus nascesse, toda uma interação de sincronicidade com o nascimento de João Batista e com uma certa notícia astrológica"; "Javé jogava sempre no limite do limite das possibilidades dele"; Zacarias/Isabel (a mudez; "essa turma não facilita as coisas pros humanos"); "só quando João Batista nasceu a língua do pai destravou e ele cantou hosanas a Deus".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -44,3 +44,13 @@
 ## Nota de governança
 
 [P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
+
+## Ampliação — P2024-09-29
+
+- **Kojiki e Nihon Shoki (P2024-09-29):** "existem dois livros sobreviventes, os mais antigos escritos no Japão, cujas crônicas datam do século VI, mas a tradição oral é muito mais antiga, vem de alguns milênios: é o Kojiki e o Nihon Shoki"; "todos os dois têm uma preocupação básica: descrever a genealogia de todos os imperadores divinos e humanos que o Japão teve, sendo todos eles descendentes de Amaterasu".
+- **Amatsukami × Takamimusubi:** "o Kojiki fala dos amatsukami, chamados deuses do céu e seus descendentes — os deuses mais antigos, ainda que não sejam os primordiais. Os primordiais eles chamam takamimusubi. O takamimusubi representa os deuses primordiais que eram anteriores inclusive aos amatsukami: aqui estamos falando de Brahma, Vishnu, Shiva, Nix, Érebo, os filhos de Nix, Moros, Tânatos. Os amatsukami seriam as gerações de Urano, Cronos; e os Kami, a geração de Zeus para cá."
+- **A genealogia:** "os amatsukami mandaram um casal de gêmeos chamado Izanagi e Izanami. E, portanto, Amaterasu e Susanoo, que seriam descendentes dos mais velhos e também desse casal de gêmeos... os descendentes dessas duas figuras terminaram todos convergindo para um último descendente chamado Ninigi. Esses se estabeleceram na Terra, vieram morar na Terra. E todas as crônicas do Kojiki mostram que os descendentes desses que se estabeleceram na Terra são os membros do clã imperial japonês."
+- **Jinmu e os governantes:** "o bisneto de Ninigi, ou seja, Jinmu, é tido como primeiro imperador"; "os primeiros 15 governantes são tidos como sendo deuses e semideuses; do 16º ao 30º, como semideuses e humanos, sendo a imperatriz Suiko a 30ª"; "existem os primeiros oito imperadores chamados os faltantes, porque sobre estes nunca nenhuma descoberta arqueológica foi feita".
+- **Função do Kojiki:** "o Kojiki não tem a função de colecionar mitos, mas sim de apresentar uma genealogia oficial para provar que as famílias aristocráticas da corte devem servir à família real imperial, porque seus ancestrais assim o fizeram desde a era dos deuses."
+
+---
