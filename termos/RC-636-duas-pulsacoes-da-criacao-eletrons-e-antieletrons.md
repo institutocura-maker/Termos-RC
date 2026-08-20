@@ -16,6 +16,11 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 ## Etimologia / Grafias
 - Grafia: Duas Pulsações da Criação.
 
+
+## Ampliação — P2025-03-15
+
+- **Os dois "piscinões" (P2025-03-15):** "esse piscinão de elétrons e esse piscinão de antielétrons, somados, correspondiam ao estado mental crítico que estavam todos na mente de Prabrajna"; "quando caíram aqui dentro, continuaram agarradinhos (como neurônios)... levaram com eles a sensação do eu deles"; "a primeira carga memorial dos elétrons e antielétrons foi extremamente dolorosa, horrível" (a queda colidiu na memória deles).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

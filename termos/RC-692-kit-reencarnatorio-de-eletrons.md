@@ -27,6 +27,14 @@ Forma preferida: **Kit Reencarnatório de Elétrons**.
 
 A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita editorialmente a função descrita sem alterar o conteúdo.
 
+
+## Ampliação — P2025-03-15
+
+- **A mecânica da assinatura quântica (P2025-03-15):** "os elétrons que um dia já compuseram outros corpos desse mesmo espírito, obrigatoriamente desaparecem de onde estão e aparecem lá no óvulo de mamãe que acabou de ser fecundado"; "cada espírito usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente ele produz a cada vida, mas no fundo são os mesmos elétrons".
+- **Fofoca eletrônica:** "os elétrons dizem: lá vem ele ou lá vem ela" (a assinatura quântica do eu particularizado é informada ao sistema de interligação — "tipo a cor do corante").
+- **Espiritismo clássico:** "o espiritismo não diz isso... diz o que foi possível ser dito no século XIX"; "isso deve ser como incerteza, deixa que o futuro confirme ou não".
+- **Roda de Samsara:** "livrar-se disso ninguém se livra. Isso aí é a roda de Samsara. Bem-vindos." (Ver RC-618/RC-712.)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

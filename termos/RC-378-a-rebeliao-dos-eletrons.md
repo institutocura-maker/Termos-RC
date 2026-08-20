@@ -17,6 +17,14 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **Grafia preferida:** A Rebelião dos Elétrons
 - **Variações:** rebelião inconsciente no âmbito dos elétrons; rebelião íntima dos elétrons; a "rebelião" (aspas na obra)
 
+
+## Ampliação — P2025-03-15
+
+- **"Cansaço da matéria" (P2025-03-15):** "os elétrons estão vivendo uma crise e estão desfazendo, colapsando o que até agora foi construído"; "começou há milhões de anos, mas hoje, ano 2025"; "não aguentam mais memorizar porcaria"; "é a revolução dos elétrons" (nem de direita, nem de esquerda).
+- **"Acabou em fevereiro desse ano [2025]"** [REVISAR — Colecionar Incertezas]: "essa confusão [WD × Trimurti] acabou em fevereiro desse ano, mas os efeitos ainda vão demorar".
+- **Redução da reprodução (quarentena clínica estrita):** "os elétrons estão criando mecanismos no psiquismo" — homoafetividade e fluidez de gênero como mecanismos para reduzir a reprodução = **leitura do autor; jamais fato sociológico/biomédico**.
+- **B063:** o autor cita o livro "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa é sempre superior ao prazer do predador — os elétrons registram o sofrimento e "encheram o saco").
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

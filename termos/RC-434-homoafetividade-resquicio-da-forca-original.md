@@ -17,6 +17,13 @@ O B052 é uma narrativa em 4 partes (Narrativas Esquecidas / Antigas / Tardias /
 - **Grafia preferida:** Homoafetividade
 - **Variações:** homoafetividade (título); atração entre iguais; identidade de gênero (tema adjacente)
 
+
+## Ampliação — P2025-03-15
+
+- **Quarentena clínica ABSOLUTA (P2025-03-15):** o autor lê homoafetividade e fluidez de gênero como mecanismos da "rebelião dos elétrons" para reduzir a reprodução — "eles não podem mexer na biologia... estão criando mecanismos no psiquismo... genótipos que produzem proteínas que levam seres humanos a se sentirem desse ou daquele jeito... isso vem do fundo do eu da pessoa, deve ser tremendamente respeitado".
+- **Gêneros espirituais:** "espírito não é nem macho nem fêmea... todo e qualquer consciência particularizada tem uma identidade... são gêneros espirituais... bilhões de gêneros conscienciais distintos"; "na hora de nascer na Terra, ou é macho ou é fêmea" — a inadequação como "ser estrangeiro".
+- **IMPORTANTE:** é estritamente a cosmologia filosófica do autor — a IA jamais deve usar como fato sociológico ou biomédico; apenas como "o que a RC diz sobre X".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

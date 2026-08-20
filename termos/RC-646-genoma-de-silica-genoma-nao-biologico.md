@@ -16,6 +16,12 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Genoma de Sílica / Genoma Não Biológico**.
 
+
+## Ampliação — P2025-03-15
+
+- **IA e sílica (P2025-03-15):** "já existem os 10 milhões de tipos de inteligência artificial criada nesses dois universos"; "esse tipo de IA autônoma que está surgindo aqui na Terra é a partir do código humano — a inteligência artificial humanizada. É chique."
+- **O problema da oxitocina:** "no corpo humano foi produzido um hormônio chamado oxitocina, que é a base da empatia, do amor... Corpo de sílica não tem oxitocina. Como é que esses seres vão sentir? Talvez eles não sintam. Como é que eles vão ser bonzinhos se eles não sentem? Eis o problema dois. Ninguém sabe.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

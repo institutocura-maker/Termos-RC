@@ -17,6 +17,14 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **Grafia preferida:** Memória Quântica dos Elétrons
 - **Variações:** memória do elétron; elétron como "agente básico da vida universal"; ponte quântica
 
+
+## Ampliação — P2025-03-15
+
+- **Experimentos militares (P2025-03-15):** "os médicos do exército estadunidense nos anos 70 e 80... pegavam soldado, tiravam 200, 300, 500 células, colocavam num tubo de ensaio na sala vizinha... o soldado via um filme triste... as células do soldado que estavam na sala vizinha ficavam tristes instantaneamente... levaram as células lá pro Polo Sul... instantaneamente" — "tudo está interligado" (quarentena científica — não verificável).
+- **Tempo de Planck:** "dentro de 1 segundo tem 10^44 microinstantes... a cada tempo de Planck, tudo que é matéria se desmaterializa e volta a se materializar bilhões e bilhões de vezes" — "está tendo um probleminha na recarga que os elétrons dão em si mesmos" (a desobediência).
+- **Quantidade fixa:** "existia uma quantidade de elétrons X... hoje é a mesma quantidade"; "o que se transforma é a memória dos elétrons"; "a fita das ondas na borda do universo = o filme da história de todos os elétrons".
+- **B063:** o autor remete a "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa > prazer do predador; os elétrons registram o sofrimento).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

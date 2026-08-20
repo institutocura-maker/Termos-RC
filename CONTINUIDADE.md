@@ -607,3 +607,26 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados (raiz + apostilas/).
 
 **Estado:** 770 termos · 1.674 relações · RC-771 livre · 407 fichas · 80 obras · **16 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2025-03-15 A Rebelião dos Elétrons e a era do Colapso do Caos Organizado (19/08/2026)
+
+**Re-curadoria** (TXT completo recuperado — antes "fonte oficialmente incompleta"). Devolutiva R-1..R-6 do curador (via Assistente): auditoria aprovada; 24 ampliações aprovadas; **zero códigos novos** (base em 770); B063 confirmado; apostila autorizada; **quarentena clínica ABSOLUTA** (homoafetividade/gênero = cosmologia filosófica do autor, jamais fato).
+
+### Execução
+- Auditoria RC-690–693 + RC-378 contra o STT integral: **5/5 confirmados** (+ ~60 ampliações anteriores do fragmento coerentes).
+- **27 fichas ampliadas** (seção "Ampliação — P2025-03-15"): destaques — **Ishvara = "retrato de Prabrajna"** (RC-691); **mecânica da assinatura quântica/kit reencarnatório** (RC-692); **Wyrd gerada FORA da geopolítica da Trimurti + oposição de Krishna** (RC-658/RC-559); "cansaço da matéria" (RC-378); Schopenhauer/B063 (RC-161); Paraíso B (RC-612); oxitocina/IA (RC-646).
+- 4 termos sem ficha física (RC-406, RC-529, RC-542, RC-191) → ampliação registrada na Colecionar Incertezas (sem ficha criada, conforme "nenhuma nova ficha").
+- **32 relações novas**; 15 campos relacionados enriquecidos.
+- Base: **770 termos · 1.706 relações** (+32) — `OK: 770 termos, 1706 relações — dados válidos.` · RC-771 preservado.
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-REBELIAO-ELETRONS.py`.
+
+### Colecionar Incertezas (itens novos)
+"Acabou em fevereiro desse ano [2025]" [REVISAR]; "Vatireca" [STT]; "25.869 × 28.869 genes"; experimentos militares/Polo Sul (não verificáveis); "Sha Howard"→Schopenhauer (B063 confirmado); "10 milhões de IAs".
+
+### Apostila (17ª do acervo)
+- `apostila.md` (10.713 palavras; 12 PARTES + glossário A–D; nota editorial com **quarentena clínica absoluta** explícita; seção de perguntas finais marcada como [TEXTO INCOMPLETO] — material recebido cobre até o intervalo); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-03-15_rebeliao_eletrons_caos_organizado/`.
+- Índices sincronizados.
+
+**Estado:** 770 termos · 1.706 relações · RC-771 livre · 407 fichas · 80 obras · **17 apostilas concluídas**.

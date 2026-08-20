@@ -26,6 +26,11 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 - **Trishna, Avidya e "Vatireca" (P2025-05-31 — resposta a Rogério):** Trishna = "tipo de ignorância que faz com que os seres humanos tenham desejos estúpidos... o desejo é a base do sofrimento" (4 Nobres Verdades; Nirvana); Avidya = "quando você não consegue entender que tem um corpo átmico, que você não é isso"; "Vatireca" [STT — REVISAR] = "pior do que Trishna... o estado natural que nós ostentamos... a gente pensa que é esse corpo e não é".
 - **Moksha (RC-618):** "se ancora em níveis profundos de compreensão da ignorância"; "alguns humanos podem evoluir e se libertar. A humanidade jamais" (devoção + corrupção).
 
+
+## Ampliação — P2025-03-15
+
+- **Os três tipos de ignorância (P2025-03-15):** "o Vedanta chama de Avidya; Buda chamava de Trishna; Kapila no Samkhya chamava de Vatireca [STT — REVISAR]" — "são três tipos de ignorância que cegam toda a humanidade... você já nasce com eles"; reforço da relação com a Lei da Mente do Buda.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

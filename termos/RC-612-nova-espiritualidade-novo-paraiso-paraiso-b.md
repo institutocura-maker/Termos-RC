@@ -17,6 +17,11 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 - Grafia preferida: Nova Espiritualidade / Novo Paraíso. Termo composto aprovado inicialmente.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2025-03-15
+
+- **Paraíso B (P2025-03-15):** "talvez a gente precise construir um paraíso B, porque a turma que sai suja, mas consegue dignificar-se do caos, se entrar no paraíso, gera [problemas]" — Sidarta Gautama como exemplo de espírito que já entrou; o amor do caos como mérito.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

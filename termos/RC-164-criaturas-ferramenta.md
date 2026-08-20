@@ -22,6 +22,11 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 
 - **Criaturas-ferramenta (P2025-05-31 — do sumário):** "a redenção do Criador depende das informações produzidas pelas Consciências Particularizadas que atuam como criaturas-ferramentas, permitindo a reconstrução do Ser através da emergência de uma Mente-una"; "a humanidade terrestre tem um papel crucial nesse processo.
 
+
+## Ampliação — P2025-03-15
+
+- **Criaturas-ferramenta (P2025-03-15):** "nós, humanos, somos o que a gente nem sabe que é o melhor produto do universo... o caos organizado da melhor maneira"; o espírito como "museu" que mantém os códigos podres vivos ("colocam o peixinho no aquário, escaneiam o cérebro, guardam os protocolos").
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

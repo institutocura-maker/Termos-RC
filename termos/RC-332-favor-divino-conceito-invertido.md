@@ -18,6 +18,11 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **Variações:** o favor divino invertido; favor dos humanos ao Criador; "o favor divino" (provocação)
 - **Obs.:** o termo RC-063 (Favor Divino, título da obra) e RC-332 (conceito) se complementam — a ficha RC-063 trata do título/obra; esta trata do conceito.
 
+
+## Ampliação — P2025-03-15
+
+- **Favor Divino invertido (P2025-03-15):** "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência" — o mérito do amor do caos (ver RC-529/RC-612).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

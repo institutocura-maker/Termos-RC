@@ -23,6 +23,11 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **Sócrates e os 'melhores eus' (P2024-02-25):** 'eu passei minha vida inteira lutando contra a corrupção e eu vou usar a corrupção para salvar a minha vida? Eu prefiro perder a minha vida.' — 'alguns homens e mulheres conseguiram sozinhos, pagando o preço, criar neles próprios sensações das quais o eu deles não podia abrir mão, sobra de se sentir descaracterizado.'
 - **Não se hospedam em corpo transitório:** 'esse tipo de eu é tão, tão elevado que não se hospeda num corpo transitório'.
 
+
+## Ampliação — P2025-03-15
+
+- **Sócrates e o herói (P2025-03-15):** "Sócrates conseguiu corromper os guardas... 'mas eu passei minha vida inteira falando mal de corrupção. Como é que eu vou encerrar minha vida se eu ceder?'" — o sobreviver a qualquer custo como corrupção; a dignidade como genótipo novo construído por alguns humanos.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

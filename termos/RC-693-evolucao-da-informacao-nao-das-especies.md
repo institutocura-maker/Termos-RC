@@ -26,6 +26,13 @@ Forma preferida: **Evolução da Informação, não das Espécies**.
 
 A vírgula preserva a oposição formulada na fala: “não são as espécies que evoluem, mas sim a informação”.
 
+
+## Ampliação — P2025-03-15
+
+- **"Não são as espécies que evoluem" (P2025-03-15):** "mas sim a informação nelas dispostas como sendo os seus genomas"; "a humanidade nunca evoluiu" (exemplo das proteínas: "há 4.000, 5.000, 6.000 anos o ser humano sente as mesmas sensações; o que evoluiu foi a tecnologia").
+- **Edward Wilson:** "o ser humano pode dizer o que ele quiser, não precisa mais obedecer ao lento processo da evolução biológica" — "a evolução biológica acabou".
+- **Informação como 5º elemento:** "energia, matéria, espaço, tempo... no século XX alguém disse: tem um quinto elemento, informação; no final do século XX: dos cinco, a informação é a mais importante" (causação descendente/monismo).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

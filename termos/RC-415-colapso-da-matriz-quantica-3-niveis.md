@@ -25,6 +25,11 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 - **Grafia preferida:** Colapso da Matriz Quântica
 - **Variações:** colapso quântico; níveis do colapso da Matriz Quântica (1º/2º/3º)
 
+
+## Ampliação — P2025-03-15
+
+- **Colapso da matriz quântica (P2025-03-15 — contexto):** a rebelião dos elétrons como o mecanismo do colapso: "na hora que a energia pulsa... a recarga que os elétrons dão em si mesmos quando vão se materializar de novo está produzindo situações de desobediência ao que antes já estava em curso" — o colapso do caos organizado.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

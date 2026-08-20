@@ -17,6 +17,11 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **Grafia preferida:** Projeto Talm
 - **Variações:** semeadura da vida biológica; projeto de transferência do código de vida
 
+
+## Ampliação — P2025-03-15
+
+- **Projeto Talm (P2025-03-15):** "o nidana foi jogado para esse universo... começou a ser semeado nos planetas"; "aqui na Terra, a primeira molécula com código de vida surgiu a 3,8 bilhões de anos" (Terra 4,6 bilhões); "a semeadura que gerou isso que hoje nós somos".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

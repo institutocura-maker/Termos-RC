@@ -29,6 +29,13 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 - **Não há justiça divina (P2024-02-25):** 'eu pensei que o que regrava a vida nesse universo era justiça divina de Deus. Não tem justiça divina de Deus. O que organiza os genes, os genomas, nascimento... é a teia quântica: o que sai de um ser volta para ele.'
 - **Prevalece sobre o Bhagavad Gita:** 'pouco importa o que sai de um ser, volta para ele' — a teia vence a promessa devocional de Krishna.
 
+
+## Ampliação — P2025-03-15
+
+- **A WD/Wyrd como primeiro artefato (P2025-03-15):** "a primeira coisa criada aqui foi a WD, gerada para guardar nela os códigos-fonte definidores dos seres malucos que surgiram no universo dois, para organizar o trânsito de informações"; "só tem um algoritmo: o que sai de um código genético volta para ele".
+- **Não é justiça:** "no paraíso não há justiça... no caos também não existia essa presunção. Isso é coisa dos humanos."
+- **Fora da geopolítica da Trimurti:** "WD foi gerada fora da geopolítica da Trimurti... Brama, Vishnu e Shiva não querem se submeter a ela; Krishna diz: quem manda no destino dos seres sou eu" — o conflito.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

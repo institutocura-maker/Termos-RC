@@ -16,6 +16,11 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 ## Etimologia / Grafias
 - Grafia: Ressurreição do Cadáver do Criador.
 
+
+## Ampliação — P2025-03-15
+
+- **Ressurreição do cadáver do criador (P2025-03-15 — contexto):** "a preocupação de preservar todas e quaisquer informações que circulem aqui dentro para um dia [o eu do criador] poder ser reconstruído" — a memória dos elétrons como material de reconstrução (ver RC-692 e RC-691).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

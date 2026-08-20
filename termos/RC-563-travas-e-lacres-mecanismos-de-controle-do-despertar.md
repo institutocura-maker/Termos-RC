@@ -11,6 +11,11 @@
 
 Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais: 'o jogo preparado foi esse, com travas e lacres para que o ser humano nunca despertasse os seus potenciais, porque assim é mais fácil manipular'. A religião (temor religioso) é apontada como a ferramenta criada para inocular a sensação de dominação; Eva, ao tomar a bebida (STT 'Telps' [REVISAR]), teria deslacrado os códigos bloqueadores.
 
+
+## Ampliação — P2025-03-15
+
+- **Travas e lacres (P2025-03-15):** "nasceu, você já ganha grátis esses três pacotes de ignorância instalados no seu genoma" (Avidya/Trishna/Vatireca — RC-712); "o transtorno cognitivo não nos permite perceber que vivemos de falsas verdades"; o destrave de Eva/beberagem (chamanismo) — "o que destravou códigos e bloqueios e travas no cérebro dos humanos".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

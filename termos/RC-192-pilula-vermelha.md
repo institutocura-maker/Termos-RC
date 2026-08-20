@@ -28,6 +28,11 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 - **Choques de realidade (P2024-02-25):** 'primeiro nós vamos ter que sofrer choques de realidade complicados para aprender. E isso é só o começo no sentido de reflexão.' — nota cruzada com RC-702.
 
+
+## Ampliação — P2025-03-15
+
+- **Pílula vermelha (P2025-03-15):** "saber disso é tomar a pílula vermelha. Vocês estão ferrados." — o despertar para a rebelião dos elétrons; "vão sair daqui ficando pensando nisso... pra maioria da humanidade isso aqui é loucura".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

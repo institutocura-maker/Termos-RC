@@ -16,6 +16,11 @@ A transferência concentraria a informação dos dois universos nos elétrons re
 ## Etimologia / Grafias
 - Grafia: Transferência da Memória dos Antielétrons.
 
+
+## Ampliação — P2025-03-15
+
+- **Transferência da memória dos antielétrons (P2025-03-15):** contexto da queda de Prabrajna — os antielétrons do universo vizinho guardam a memória original; "os elétrons que caíram desse lado foram se organizando e criando massas de gás de hidrogênio que criaram estrelas, mundos, galáxias" — improvisação da queda.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -22,6 +22,11 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 
 - **Criaturas-ferramenta (P2025-05-31):** "todos os seres... são clones de Javé... os tais anjos clones ou seres de condição adhyajna que se metamorfoseiam, são seres demoníacos, não no sentido ruim da palavra" — o contexto da criação como "criaturas-ferramenta" de Javé.
 
+
+## Ampliação — P2025-03-15
+
+- **Criaturas-ferramenta (P2025-03-15):** "o pior dos 8 bilhões de seres humanos é capaz de agir como um herói em um dado instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8 bilhões de anos consegue fazer isso no paraíso" — o diferencial humano como ferramenta de ressignificação.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -1,0 +1,27 @@
+{
+  "sha256_original": "f515c171317bd77509322276f4e4609b45ee842ea3fad1b3ec854167e83b9513",
+  "bytes_original": 126492,
+  "lines_original": 52,
+  "words_original": 21641,
+  "layers": {
+    "camada-0.txt": {
+      "words": 14,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "words": 411,
+      "lines": 29
+    },
+    "camada-2.txt": {
+      "words": 1162,
+      "lines": 11
+    },
+    "camada-3.txt": {
+      "words": 20051,
+      "lines": 2
+    }
+  },
+  "analytic_units": 1251,
+  "source_status": "sequência completa: abertura, exposição, intervalo (17h), perguntas finais (17h30) e encerramento (19h); contexto do evento presente (Porto Alegre, Hotel DeVille Prime)",
+  "nota": "RE-CURADORIA: base já contém RC-690–RC-693 e RC-378 com fonte P2025-03-15 (sessão anterior, fragmento) — ciclo de auditoria/ampliação, sem consumo de códigos novos salvo decisão do curador"
+}

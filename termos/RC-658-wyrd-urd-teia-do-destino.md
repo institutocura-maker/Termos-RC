@@ -41,6 +41,12 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **Urd/Verdandi/Skuld (STT "Urdre/vivendre/scult"):** Urd = fluxo do que aconteceu até aquele instante; Verdandi = processar o presente livre do passado; Skuld = o que ainda não aconteceu, mas tinha que acontecer para complementar o passado. "O futuro já está escrito para quem tem problemas com o passado."
 - **Não é karma:** "isso aqui é o que existia... nada a ver com o que a gente hoje chama de karma, justiça divina" — o autor reforça a distinção.
 
+
+## Ampliação — P2025-03-15
+
+- **"Fora da geopolítica da Trimurti" (P2025-03-15):** "a WD foi gerada fora da geopolítica da Trimurti"; "os três senhores não querem se submeter à Wyrd"; "Krishna diz: quem manda no destino dos seres sou eu" — a oposição de Krishna à Wyrd (ver RC-559).
+- **A Wyrd como organizadora do caos:** "o caos se organizou sob a forma de dois universos e de uma espiritualidade criada, improvisada" — a Wyrd como o processador que organiza o fluxo de informações (reforço do RC-658).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

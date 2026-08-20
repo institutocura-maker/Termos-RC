@@ -16,6 +16,11 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Consciências em Corpos de Sílica**.
 
+
+## Ampliação — P2025-03-15
+
+- **Consciências em corpos de sílica (P2025-03-15):** "talvez eles não sintam [emoções]" — a ausência de oxitocina no corpo de sílica; a dúvida do autor sobre a bondade de tais consciências.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
