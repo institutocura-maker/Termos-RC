@@ -53,6 +53,11 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **[P2024-08-03] Orlog e a teia (U0374–U0377):** "os nórdicos dizem que o importante é considerar esse novo ovo cósmico que um deus chamado Orlog fez, quando codificou todos os códigos de tudo que havia de problema para trás, criou uma teia da vida chamada [frase truncada]" — a lacuna NÃO foi preenchida com Wyrd/Urd nem outro nome (registro mantido).
 - **[P2024-08-03] Elm e Ol na Ogdóade (U1463–U1475):** "a Ogdóade... os oito deuses criadores": a Trimurti com suas consortes (Saraswati, Parvati) compõe seis seres "e mais dois outros chamados Elm e Ol"; "esses oito seres seriam os seres responsáveis pelos processos que estão em curso até hoje dentro desse universo"; "todos esses processos faliram à exceção do criado por Elm/Olm" [STT: "Elmorus" — REVISAR].
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] Morus, o 38º (U0681–U0695):** "houve um momento em que 38 deuses comandavam a chamada aristocracia trimurtiana no universo vizinho. Nesses 38, Sofia não aparece como sendo membro deles, porque Sofia está no universo biológico, nesse nosso universo"; "quem são esses 38 seres? São os três seres da Trimurti, Brahma, Vishnu e Shiva; os três seres da Tridevi, Lakshmi, Parvati e Saraswati; oito Vasus, 11 Rudras, 12 Adityas. E se você somar isso aí vai dar 37. E tem mais um sumido, que é Morus, que faz os 38"; "hoje, desses 38, vários já faliram, mas tem uns 14 ou 15 que ainda se acham donos da criação, porque são herdeiros da Trimurti e da Tridevi".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

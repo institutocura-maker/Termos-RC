@@ -22,6 +22,11 @@ Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Cor
 
 - **Corpo átmico (P2025-05-31 — resposta a Guilherme):** "é a presença do sagrado, é o empréstimo que o ser primevo, único, infinito empresta de si... uma semente dele que é imutável"; o átmico estrutura tudo o que surgir de vida; no paraíso "quem existe é só corpo átmico" (imutável); "um ser chamado Mohen So/Protogonos/Phanés [STT 'Moreno, protogonos fanis'] constatou que não adiantava [a produção]... parou-se a produção de novos seres a partir de corpos átmicos" → espíritos simples e ignorantes (Kardec).
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O corpo átmico (U0140–U0200):** na constituição septenária segundo Krishna (Bhagavad Gita, a Arjuna): "o corpo átmico, investido dos corpos búdico e manásico, formariam a tríade imortal"; "o corpo átmico é inviolável... por pior que seja o eu humano, esse corpo átmico não se suja; os outros níveis de eu dos corpos da constituição septenária se sujam"; "quando esse tenta mergulhar aqui, aí produz esses choques, esses atritos... o eu fica com defeito. E o defeito são as síndromes, os transtornos que a gente chama" [quarentena clínica].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

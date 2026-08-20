@@ -22,6 +22,11 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 
 - **Paraíso B (P2025-03-15):** "talvez a gente precise construir um paraíso B, porque a turma que sai suja, mas consegue dignificar-se do caos, se entrar no paraíso, gera [problemas]" — Sidarta Gautama como exemplo de espírito que já entrou; o amor do caos como mérito.
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O futuro colegiado (U0540–U0590):** "não existem colegiados de consciências dignificadas ainda. Nós precisamos criar o primeiro... ainda não somos nem 10. Mas daqui a pouco vai ser 20, 30, 50. E assim, nós temos 18.000 anos para fazer isso, se sobrevivermos enquanto experiência biológica"; "tudo que existe nesse sentido é um pequeno grupo de espíritos lúcidos que finalmente estão conseguindo compor uma equipe de seres esclarecidos via os seus eus humanos, que doravante irão trabalhar em diversas esferas para construir, atingir este fim"; "para além disso, existe ainda o colegiado paradisíaco, que não se mistura também com aqueles outros, dos tais seres puros, distribuídos pelos seus três principais níveis de expressão" (paradisíaco imutável; operacional e laboratorial mutáveis — "a revolução começou nesses dois níveis").
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

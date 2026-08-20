@@ -22,6 +22,11 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 
 - **Corpo manásico (P2025-05-31):** "o corpo manásico permite a esse eu búdico expressar-se mentalmente"; no fatiamento de consciência, a projeção do laboratorial ficava "só com a cópia do búdico, do manásico, sem o corpo átmico" (RC-604).
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O corpo manásico (U0140–U0200):** "se eu sou apegado a conceitos, a verdades, eu marco no meu mental inferior"; "se eu sou esclarecido, lúcido e meu tirocínio é limpo, não é dualista burro, marco no mental superior"; "a possibilidade de dignificação de uma consciência passa pelo que o eu humano consegue, ao longo da vida, trabalhar com o seu corpo búdico superior e o seu corpo manásico superior"; "as disciplinas de meditação budista, as linhas do yoga tradicional, coisas como Mentalma" ensinam a manter o inferior sob controle e despertar os superiores — "se a prática for devocional, ferrou, porque você não vai desenvolver seus potenciais".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

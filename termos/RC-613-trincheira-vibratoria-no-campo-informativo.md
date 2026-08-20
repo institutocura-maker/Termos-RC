@@ -17,6 +17,11 @@ O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão 
 - Grafia preferida: Trincheira Vibratória no Campo Informativo.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] A trincheira de resistência (U0540–U0570):** "enquanto não existia uma trincheira de resistência no ambiente espiritual errático, o paraíso, entre aspas, não terá como desenvolver esforços, porque o paraíso precisa de um foco situado além das fronteiras do paraíso. É necessário que, aqui dentro dessa criação, uma trincheira de resistência seja criada, para que dê foco, para que se crie uma ponte disso aqui para cá, e daqui para construir novos ambientes espirituais livres do problema da podridão dos códigos doentes do criador"; "só que isso não se faz na espiritualidade: se faz aqui na Terra"; "é preciso criar uma ponte daqui para cá, para que eles, de lá, possam ser úteis no caos. Por enquanto, todos eles — e Deus inclusive — compõem uma majestosa inutilidade. São seres majestosos, mas inúteis para, entre aspas, fazer alguma coisa aqui dentro"; "a catinga, os efeitos da podridão que estão saindo daqui, estão furando essa blindagem já... está rompendo, e isso aqui tá começando a criar incômodos".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -26,6 +26,11 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 
 - **Cérebro e eu (P2024-11-09):** "o cérebro humano serve para uma vida, nasce e morre com esse corpo e apenas dá guarida ao eu, um personagem que emerge durante a vida do corpo. Isso é transitório, ilusório. Mas tudo isso está vinculado a um espírito que tem lá um tipo de personagem numa mente eterna, que recolhe os fragmentos de cada cérebro e vai colecionando".
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O conectoma como álbum memorial (U0640–U0650):** "o conectoma de Rogério é o álbum memorial de todas as memórias, as emoções, tudo que Rogério vivenciou, todas as sensações — tá tudo aqui guardado. O espírito vai colecionar isso. Se o espírito quiser, ele sente-se como Rogério, porque tá tudo de Rogério nele"; "o espírito de Jesus coleciona tudo de Jesus nele, mas o espírito de Jesus não consegue vivenciar a herança, o legado que Jesus produziu enquanto ser humano... não consegue acionar nele a memória do conectoma talvez mais belo já produzido na condição humana. Na hora da pior dor, ainda assim Jesus conseguiu produzir proteínas que a gente nem imagina no âmbito do seu genoma pessoal".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

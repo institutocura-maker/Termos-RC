@@ -20,6 +20,11 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 - **Os espíritos sem poder:** "os espíritos maravilhosos que vivem nas cidades espirituais dentro da erraticidade... daqui a pouco, todos nós seremos espíritos [desencarnados] e a gente vai se reunir lá e vai dizer: 'O que é que a gente pode fazer?' Ninguém nunca pode fazer nada por esse troço. Você só pode modificar o curso dos acontecimentos se você assumir um corpo de elétrons."
 - **O Deus desconhecido:** "o Deus que verdadeiramente existia, esse ser nunca falou com ninguém aqui na Terra; nesse universo vizinho, ninguém o conhece. É uma coisa distinta. Um ser puro não é nem uma pessoa"; "pro caos é uma majestosa inutilidade".
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O sofrimento não é vontade divina (U0545–U0555):** "nós sofremos não porque Deus quer: é porque alguém errou, é porque muitos erraram. E o problema continua, todos continuam errando, na hora em que dizem: 'ah, a gente tá sofrendo porque Deus quer.' Enquanto a perspectiva for essa, o problema não se resolve"; "aqui a tal da 'é a vontade de Deus'... não há dignificação nesse tipo de reflexão filosófica ou nessa certeza que leva a consciência a aceitar o escândalo, já que é inevitável. Isso é de uma cretinice terrível, porque é uma falta de respeito a Deus, caso ele exista"; "houve um problema no paraíso: foi destravado os padrões de um jogo de perfeição. Deixaram dois fios soltos, para poder existir uma aventura fora da perfeição".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -17,6 +17,12 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **Grafia preferida:** Revelação Cósmica
 - **Variações:** Revelações Cósmicas; RC (sigla usada neste projeto)
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] A revelação como voz de dentro do buraco (U0740–U0790):** "nós caímos num buraco, num wormhole, um buraco de minhoca, um buraco negro, um buraco branco... O filme Interestelar tenta contar o que alguém que cai no buraco negro, encaindo, conta para quem tá fora, qual a sensação de estar lá dentro. Pois é: somos nós, via revelação cósmica, contando para todo mundo aqui dentro — para quem tá fora — qual a nossa impressão e sensação a respeito de tudo que aconteceu. Isso é a revelação cósmica. Finalmente se conseguiu fazer isso. Antes, todas as tentativas davam em religião. A última foi a doutrina espírita, que era só uma tentativa de resgate de um método celta de pensar, de decifrar a realidade, e terminou se transformando também em religião".
+- **[P2024-07-14] O escrutínio (U0750–U0790):** "eu uso um monte de palavrão... para deixar absolutamente claro que isso é algo em construção. E, de novo, estou dizendo: tem muita coisa errada nisso que a gente tá fazendo. Tem que ser corrigido aos poucos. Não pode haver questão de ego... Nada que um ser humano faz pode ser pretendido como perfeito. É necessário o escrutínio constante. Qual o drama das religiões? Elas querem que o que elas têm é verdade e todo mundo tem que acreditar nisso. E quem não obedece é pro inferno".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

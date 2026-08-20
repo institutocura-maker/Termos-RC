@@ -22,6 +22,11 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 
 - **Corpo búdico (P2025-05-31):** "o corpo consciencial búdico, que é o que toma consciência das coisas de um modo diferente do corpo átmico" — uma das duas vestimentas espirituais do ser que desce do paraíso.
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O corpo búdico (U0140–U0200):** "se eu tenho posturas elegantes e não explodo emocionalmente e ajo com um padrão de elegância, eu marco esses arquivos aqui no búdico emocional superior"; a dignificação passa por trabalhar o "corpo búdico superior e o corpo manásico superior, ou seja, o emocional e o mental superior"; o padrão superior: "compaixão universal, tolerância, integridade emocional associada ao padrão de integridade intelectual no campo do tirocínio e da lucidez".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

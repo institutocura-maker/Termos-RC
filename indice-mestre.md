@@ -198,7 +198,7 @@
 | RC-190 | Revelação Espiritual (Kardec) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B044, B016, B013, B048, B006, B060, B061, B042, P2025-02-15, P2024-11-30, P2024-11-09, P2024-03-03, P2024-04-14, P2025-06-14, P2024-02-03 | RC-094; RC-071; RC-100 | — |
 | RC-191 | Fofocas cósmicas | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B044, P2025-03-15, P2025-02-15 | RC-098; RC-036 | — |
 | RC-192 | Pílula vermelha | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B044, P2025-03-15, P2025-02-15, P2024-11-30, P2023-05-13 | RC-094; RC-071; RC-702; RC-378 | [✔](termos/RC-192-pilula-vermelha.md) |
-| RC-193 | Rebanho humano | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B044, P2024-07-14 | RC-099; RC-174; RC-176; RC-745 | — |
+| RC-193 | Rebanho humano | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B044, P2024-07-14 | RC-099; RC-174; RC-176; RC-745 | [✔](termos/RC-193-rebanho-humano.md) |
 | RC-194 | Big Data Cósmico | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B035, P2025-03-15, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29, P2024-04-13 | RC-001; RC-195; RC-201; RC-019; RC-707; RC-711; RC-724; RC-269 | [✔](termos/RC-194-big-data-cosmico.md) |
 | RC-195 | Simbiose Quântica | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B035 | RC-194; RC-196; RC-167 | [✔](termos/RC-195-simbiose-quantica.md) |
 | RC-196 | Criador refém das próprias criaturas | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B035, B001 | RC-041; RC-195; RC-176 | — |
@@ -236,7 +236,7 @@
 | RC-228 | Observação de Sileno (Filhos do Tormento e do Acaso) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B033 | RC-099; RC-094; RC-227 | — |
 | RC-229 | A Lógica de Javé e a Origem da Humanidade | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B033 | RC-001; RC-099; RC-014 | — |
 | RC-230 | Reflexos da Doença (Herança do DNA) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B033 | RC-217; RC-099; RC-040 | — |
-| RC-231 | Razão Filosófica dos Terráqueos | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B033, B005, B049, P2025-03-15, P2024-11-30, P2024-11-09, P2024-07-14 | RC-099; RC-001; RC-094; RC-566; RC-514 | — |
+| RC-231 | Razão Filosófica dos Terráqueos | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B033, B005, B049, P2025-03-15, P2024-11-30, P2024-11-09, P2024-07-14 | RC-099; RC-001; RC-094; RC-566; RC-514 | [✔](termos/RC-231-razao-filosofica-dos-terraqueos.md) |
 | RC-232 | Ostronomos | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B017, B018, B060 | RC-098; RC-024; RC-036; RC-126; RC-128; RC-129 | [✔](termos/RC-232-ostronomos.md) |
 | RC-233 | Marca Val (A Estratégia do Possível) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B017 | RC-109; RC-082; RC-186; RC-036 | — |
 | RC-234 | Cidades Voadoras | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟡 | B018 | RC-058; RC-018; RC-065 | — |
@@ -304,10 +304,10 @@
 | RC-296 | Pitonisas e Oráculos (Apolo/Delfos) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B021, P2024-04-13 | RC-295; RC-145; RC-099 | — |
 | RC-297 | Era dos Humanos (Zeus e a) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, P2025-11-29 | RC-145; RC-300; RC-099; RC-094 | [✔](termos/RC-297-era-dos-humanos-zeus-e-a.md) |
 | RC-298 | Descendência de Pirra (Pirra e Deucalião) | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B021, P2024-11-09 | RC-303; RC-304; RC-086; RC-301; RC-099 | [✔](termos/RC-298-descendencia-de-pirra-pirra-e-deucaliao.md) |
-| RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021 | RC-086; RC-118; RC-145 | — |
+| RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-08-03 | RC-086; RC-118; RC-145 | [✔](termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md) |
 | RC-300 | Dissolução da Tríade (2015–2017) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, B022, P2022-12-17, P2024-11-30 | RC-104; RC-135; RC-102; RC-037; RC-155; RC-571 | — |
 | RC-301 | Prometeu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14 | RC-302; RC-145; RC-086; RC-304 | — |
-| RC-302 | Epimeteu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14 | RC-301; RC-145; RC-086; RC-303 | — |
+| RC-302 | Epimeteu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, P2024-08-03 | RC-301; RC-145; RC-086; RC-303 | [✔](termos/RC-302-epimeteu-tita.md) |
 | RC-303 | Pirra | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-11-09 | RC-298; RC-302; RC-086; RC-304 | — |
 | RC-304 | Deucalião | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-11-09 | RC-298; RC-301; RC-303 | — |
 | RC-305 | Têmis | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021 | RC-145; RC-027; RC-094 | — |
@@ -405,7 +405,7 @@
 | RC-397 | Tirthankaras (Rishabh Dev, Jina Mahavira) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B050, P2025-10-25, P2025-02-16, P2024-02-03 | RC-094; RC-099; RC-655; RC-697 | — |
 | RC-398 | Thuata de Dannan | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B050, B060, P2024-04-13, P2024-02-03 | RC-094; RC-373; RC-068 | — |
 | RC-399 | Dwarka (submersa) | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B050 | RC-094; RC-010 | — |
-| RC-400 | Foz Côa / FOXP2 (símbolos) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B050, B061, P2022-12-17, P2021-12-04, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-099; RC-094; RC-577; RC-614; RC-619; RC-710 | — |
+| RC-400 | Foz Côa / FOXP2 (símbolos) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B050, B061, P2022-12-17, P2021-12-04, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-08-03 | RC-099; RC-094; RC-577; RC-614; RC-619; RC-710 | [✔](termos/RC-400-foz-coa-foxp2-simbolos.md) |
 | RC-401 | Família Demolle (biodemos) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B050 | RC-036; RC-094 | — |
 | RC-402 | Halos de Poder (demos) | Tecnologias & Artefatos | 5.3 Dispositivos / Instrumentos | 🟡 | B050 | RC-049; RC-094 | — |
 | RC-403 | Colegiado Druídico | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B050, B052 | RC-375; RC-373; RC-094 | — |
@@ -518,7 +518,7 @@
 | RC-510 | Blindagem cósmica (= quarentena terrestre) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | B071 | RC-070; RC-342; RC-602 | — |
 | RC-511 | Mêntion (estruturas da mente extrafísica) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | ⚪ | B071, B074, B075, P2026-07-30, P2024-05-04, P2026-04-02 | RC-106; RC-217 | — |
 | RC-512 | Amnésia espiritual (esquecimento das origens) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | ⚪ | B071, ART-2026-08-18 | RC-407; RC-094 | — |
-| RC-513 | Espiritualidade Errática (4ª faixa manifestada) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | B060, B071, P2021-12-04, P2024-05-04, P2025-03-15, P2024-11-09, P2024-07-14, P2024-03-03, P2024-04-14, P2025-06-14 | RC-061; RC-106; RC-107; RC-726 | — |
+| RC-513 | Espiritualidade Errática (4ª faixa manifestada) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | B060, B071, P2021-12-04, P2024-05-04, P2025-03-15, P2024-11-09, P2024-07-14, P2024-03-03, P2024-04-14, P2025-06-14 | RC-061; RC-106; RC-107; RC-726 | [✔](termos/RC-513-espiritualidade-erratica-4a-faixa-manifestada.md) |
 | RC-514 | Tikun Cósmico (restabelecimento da Criação) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | ⚪ | B061, B071, B019, B074, B075, P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14, ART-2026-08-18, P2024-09-28, P2024-08-03 | RC-003; RC-167; RC-618; RC-638; RC-653; RC-707; RC-231; RC-722; RC-713 | [✔](termos/RC-514-tikun-cosmico-restabelecimento-da-criacao.md) |
 | RC-515 | Acidente cosmogônico (queda de Prabrajna) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | ⚪ | B071 | RC-167; RC-152 | — |
 | RC-516 | Hibridização genética (Nefilim reinterpretado) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | ⚪ | B071, P2022-12-17, P2024-09-29, P2021-03-27 | RC-488; RC-323; RC-580 | [✔](termos/RC-516-hibridizacao-genetica-nefilim-reinterpretado.md) |
@@ -530,11 +530,11 @@
 | RC-522 | Parasitismo energético (obsessão ampliada) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | ⚪ | B072, P2022-12-17 | RC-523; RC-381; RC-581 | — |
 | RC-523 | Vampirismo consciencial | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | ⚪ | B072, P2022-12-17, P2025-02-15 | RC-522; RC-381; RC-581; RC-711 | — |
 | RC-524 | Coleta de informações (espírito encarnado) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | ⚪ | B072, P2025-03-15, P2025-02-15, P2024-11-30 | RC-099; RC-148; RC-692; RC-704; RC-708 | — |
-| RC-525 | Semente da racionalidade (diferencial humano) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | ⚪ | B072, P2022-12-17, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-08-03 | RC-099; RC-400; RC-577; RC-727; RC-743 | — |
+| RC-525 | Semente da racionalidade (diferencial humano) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | ⚪ | B072, P2022-12-17, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-08-03 | RC-099; RC-400; RC-577; RC-727; RC-743 | [✔](termos/RC-525-semente-da-racionalidade-diferencial-humano.md) |
 | RC-526 | Demência do Criador (fases da condição de Javé) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | ⚪ | B072, P2024-11-30, P2024-11-09 | RC-001; RC-167; RC-449 | — |
 | RC-527 | Antimundo / antimatéria ('outro lado' da criação) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | B072, P2025-03-15, P2025-02-16, P2024-11-30 | RC-106; RC-294 | — |
 | RC-528 | Mergulho (designação ellâmica da queda) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | ⚪ | B072 | RC-167; RC-515; RC-152 | — |
-| RC-529 | Ressonância límbica (emoções como tecnologia cósmica) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | ⚪ | B072, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29, P2024-08-03, P2024-07-14, P2024-03-03, P2024-04-13 | RC-381; RC-243; RC-099; RC-709; RC-711; RC-719; RC-743; RC-612; RC-618 | — |
+| RC-529 | Ressonância límbica (emoções como tecnologia cósmica) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | ⚪ | B072, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29, P2024-08-03, P2024-07-14, P2024-03-03, P2024-04-13 | RC-381; RC-243; RC-099; RC-709; RC-711; RC-719; RC-743; RC-612; RC-618 | [✔](termos/RC-529-ressonancia-limbica-emocoes-como-tecnologia-cosmica.md) |
 | RC-530 | Pistis Sophia (feminino cósmico gnóstico) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | B072, P2024-11-09 | RC-009; RC-483; RC-494; RC-152; RC-770 | [✔](termos/RC-530-pistis-sophia-feminino-cosmico-gnostico.md) |
 | RC-531 | Laboratório Genético Terra (linhagens monitoradas) | Lokas & Geografias | 3.3 Localidades terrestres | ⚪ | B073, P2024-09-29 | RC-099; RC-323; RC-024; RC-736; RC-737 | — |
 | RC-532 | Vacina do Amor (ancoragem de Jesus no CFD) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | ⚪ | B073 | RC-072; RC-040; RC-243 | — |
@@ -550,7 +550,7 @@
 | RC-542 | Ex-DNA-lixo (DNA não codificante reinterpretado) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B019, P2025-03-15, P2025-02-15, P2024-11-30 | RC-217; RC-540; RC-543; RC-732 | — |
 | RC-543 | Espelho da Herança Espiritual no Epigenoma | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B019, P2024-05-04, P2025-03-15, P2025-02-15, P2024-11-30 | RC-217; RC-542; RC-545; RC-632; RC-692; RC-704; RC-710 | [✔](termos/RC-543-espelho-da-heranca-espiritual-no-epigenoma.md) |
 | RC-544 | Novo Homo sapiens (evolução que terá de vir) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B019, P2022-12-17, P2021-12-04, P2024-05-04, P2026-04-02, P2025-02-16, P2025-02-15, P2024-11-30 | RC-099; RC-042; RC-541; RC-578; RC-614; RC-645; RC-694; RC-695; RC-698; RC-709; RC-710 | — |
-| RC-545 | Coconstrutores da Obra (tikun) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B019, P2025-02-16, P2024-11-30, P2024-07-14, ART-2026-08-18 | RC-514; RC-164; RC-042; RC-698 | — |
+| RC-545 | Coconstrutores da Obra (tikun) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B019, P2025-02-16, P2024-11-30, P2024-07-14, ART-2026-08-18 | RC-514; RC-164; RC-042; RC-698 | [✔](termos/RC-545-coconstrutores-da-obra-tikun.md) |
 | RC-546 | Primado da Consciência Criativa (Goswami) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B019, P2025-03-15, P2025-02-15 | RC-541; RC-547; RC-703; RC-707 | — |
 | RC-547 | Evolução Criativa (hipótese consciencial) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B019 | RC-546; RC-541 | — |
 | RC-548 | Arquivos Mentais (coleção de conceitos no psiquismo) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟡 | B074, B075, P2025-02-15, P2024-11-09, P2024-04-14, P2024-02-03, P2025-11-29 | RC-166; RC-549; RC-517; RC-704; RC-711; RC-724 | [✔](termos/RC-548-arquivos-mentais-colecao-de-conceitos-no-psiquismo.md) |

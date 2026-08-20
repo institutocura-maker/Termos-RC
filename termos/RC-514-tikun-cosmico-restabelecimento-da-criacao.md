@@ -27,6 +27,13 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **[P2024-08-03] O tikum de Javé (U1780):** "hoje ele sabe que ele é refém do que os humanos fizeram com seus próprios genomas. E ele sempre quis comandar esse processo que é o tikum, que é o nome cabalístico de reparo do DNA dele".
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] A entrega do Tikun (U0790–U0815):** "o tikun cabalístico foi entregue no século I depois de Cristo a Shimon Bar Yochai"; "foi um reconhecimento tácito de Javé com base num trabalho que Metatron, um dos seus anjos, havia feito 12, 13.000 anos antes"; "dizendo que os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído"; a distorção: "os judeus transformaram que Malkuth é o Messias que virá para fazer com que os judeus dominem em toda a Terra, para agradar ao Senhor... é uma distorção, uma deformação, uma difamação da revelação que Javé entregou aos judeus".
+- **[P2024-07-14] O app no genoma (U0840–U0860):** "o nosso genoma é o celular... a gente já tem um app baixado, que é o nosso genoma. Mas a gente precisa criar mais um app, que é esse app que apropria os códigos desses protocolos"; "cada um de nós estuda se quiser e do jeito que achar que deve. Na hora em que tá fazendo isso, você tá construindo um app no seu genoma"; "primeiro é necessário você adquirir conhecimento. Segundo, limpar o seu mundo fenomênico, mental, de conceitos e de emoções"; "quando surgir uma massa crítica de humanos que faça isso, o problema está resolvido. O tikun vai começar a funcionar em níveis de consecução que em pouquíssimo tempo se conseguirá o que não se conseguiu até hoje nesses quase 14 bilhões [de anos]".
+- **[P2024-07-14] O marco zero (U0858–U0860):** "essa programação especializada somente é possível na condição humana, e isso somente começou a se dar a partir do momento em que o humano Jesus, preso ao madeiro da cruz, em pleno sofrimento, estruturou essa programação no genoma dele, no próprio genoma dele. Sem o exemplo de Jesus, nós não teríamos o marco zero de um padrão de genoma humano dignificado".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

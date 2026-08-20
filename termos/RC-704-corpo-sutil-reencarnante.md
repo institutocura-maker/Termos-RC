@@ -30,6 +30,11 @@ Mantidos como subtermos de glossário: impressões, hábitos e tendências trans
 - **O corpo sutil reencarnante:** "o espírito cede o corpo sutil reencarnante, que traz toda uma condição genética de fórmulas mentais viciadas de vidas passadas, como também traz os sanscaras positivos — fórmulas mentais dos talentos que você já conseguiu em vidas passadas".
 - **O ego pós-morte:** "o eu presente no corpo sutil reencarnante, que acabou de desencarnar — o tipo de ego que ele tinha aqui como ser humano... se isso demora 20 anos e esse ego deixa de ser doente (o que é difícil), o espírito apropria... normalmente é o ego".
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O cordão e o desdobramento (U0080–U0126):** "o seu corpo tá aqui na Terra, o seu espírito já está nesse lugar. E o que acontece é que, quando esse corpo morre, um cordão entre os dois se desfaz. Aí esse cordão é levado pelo espírito de volta para ele. Na ponta desse cordão vai o seu eu viajando"; "quando nós estamos vivos, o nosso eu se desloca junto com a sensação de deslocamento desse corpo. O que é um truque, porque o nosso eu não precisa do deslocamento do corpo para que ele de fato se desloque. Mas se você mesmo acha que você só se desloca se seu corpo se deslocar, o seu eu jamais irá se deslocar sozinho. Desdobramento. Porque, se pra sua mente aquela possibilidade é impossível, pro seu eu a oportunidade de fazer isso nunca vai existir. Então, é assim que o eu humano é aprisionado na sensação de que ele está aqui dentro".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

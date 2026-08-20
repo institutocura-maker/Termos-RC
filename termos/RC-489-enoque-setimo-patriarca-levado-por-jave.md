@@ -23,6 +23,11 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **Anafiel e Raziel (RC-485):** levaram Enoque na primeira ida a Arabot-Ráquia; "todos os habitantes do entorno de Javé perceberam o cheiro dele mesmo à distância".
 - **Testemunha de acusação:** Javé queria Enoque como testemunha contra a humanidade transviada pré-diluviana no "julgamento geral" (demência de Javé).
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] Enoque e a lógica humana (U0795–U0805):** "Enoque foi levado pro esse universo vizinho para ver tudo que eles haviam feito e explicar para eles"; "ó, o que vocês fizeram sob a lógica humana é isso aqui, ó. Vocês criaram Kether, Hochmah, Binah e Yesod, várias sefirot, ou seja, várias emanações dos três principais seres, que são os três da Trimurti... e vocês criaram uma última, que é a décima, chamada Malkuth, que foi criada no universo vizinho. E no universo em que eu, Enoque, vivo, tem uma que é Malkuth ou Hochmah ou Sophia".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

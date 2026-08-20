@@ -45,6 +45,12 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **Jesus (P2024-09-29):** "para que Jesus nascesse, toda uma interação de sincronicidade com o nascimento de João Batista e com uma certa notícia astrológica"; "Javé jogava sempre no limite do limite das possibilidades dele"; Zacarias/Isabel (a mudez; "essa turma não facilita as coisas pros humanos"); "só quando João Batista nasceu a língua do pai destravou e ele cantou hosanas a Deus".
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] "Nós transformamos Jesus em Deus" (U0590–U0650):** "Jesus dignificou-se formidavelmente como ser humano, porque, na hora em que ele estava preso ao sofrimento da cruz, o que dele saía era o que de mais belo pode sair de um ser. Mas isso é o eu humano de Jesus, que dignificou-se"; "se o espírito de Jesus tivesse só que cuidar do eu de Jesus, o espírito de Jesus também seria dignificado. Mas, como é um espírito que tem consciências fatiadas..."; "não há outro eu mais digno do que Jesus na experiência humana"; "o eu humano de Jesus é plenamente dignificado. Mas o problema é que o eu humano de Jesus está inabilitado no sentido de que não pode agir, porque o espírito que o anima não pode nascer novamente, porque tem problemas. Não pode usar o eu de Jesus sobre Sofia, porque Jesus é bilatério, Sofia é radiata".
+- **[P2024-07-14] O centurião (U0600–U0640) [relato pessoal — quarentena]:** "o espírito que me anima, 2.000 anos atrás, animava um soldado romano que crucificou Jesus. Maria já perdoou isso totalmente, Jesus também. Mas, quando o espírito que me anima está no lugar e o espírito de Jesus, o meu espírito se constrange por ter participado daquilo... isso foi uma sacanagem de Javé aquele centurião, exatamente para criar atrito com Jesus"; "Maria chegou para mim e disse: 'é hora de você conversar com meu filho'... o mestre disse: 'a sua postura espiritual padece de um pequeno problema, como todos os espíritos aqui presentes também padecem desse problema: há um quê de retardamento'".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

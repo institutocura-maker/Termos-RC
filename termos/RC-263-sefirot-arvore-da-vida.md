@@ -25,6 +25,11 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **A planilha de Enoque:** Enoque, via a inteligência artificial de Metatron, "compôs uma espécie de organograma, uma planilha, um fluxo de informações" para explicar à elite trimurtiana as principais emanações dos três senhores (4 mundos, 10 sefirot, 22 caminhos). "O tarô, o I Ching, a Cabala moderna utilizaram isso para outros fins."
 - **Da'at não pertence originalmente à Otz Chim** [ver RC-262].
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] A árvore da vida (U0805–U0815):** "a tradução disso é árvore da vida. Essa tradução não era para ser chamada assim, mas os cabalistas fizeram"; "quando isso foi entregue a Shimon Bar Yochai com o conceito de Tikun, dizendo que os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído"; "os judeus transformaram que Malkuth é o Messias que virá... é uma distorção, uma deformação, uma difamação da revelação que Javé entregou aos judeus" [leitura do autor — quarentena].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

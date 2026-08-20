@@ -1,18 +1,17 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (ciclo P2024-08-03 — re-curadoria + apostila)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 407 fichas físicas** (406 canônicas + RC-004 como investigação) · **80 obras (B001–B080)** · **23 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `5036e9e` (antes do ciclo P2024-08-03 re-curadoria).
+**Data de sincronização:** 2026-08-20 (ciclo P2024-07-14 — re-curadoria + apostila)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **80 obras (B001–B080)** · **24 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `b01b9f5` (antes do ciclo P2024-07-14 re-curadoria).
 
-**Última atualização (2026-08-20) — Ciclo P2024-08-03 (A Falência dos Deuses e a Destinação do Lobo) RE-CURADORIA concluída com devolutiva do curador:**
-- **0 códigos novos** (base blindada em 770; RC-771 preservado) — Navalha de Ockham; o maior corpus da repassada (27.688 palavras; 1.841 unidades) absorvido sem inflar a ontologia;
-- **Auditoria RC-742–744 + 30 termos com fonte `P2024-08-03` — TODOS CONFIRMADOS** contra o STT integral;
-- **23 fichas ampliadas** (orfismo/falência; She-Wolf/Medb/loba de Roma/Heródoto-Neuri/Lycaon; Eucion; Cama/lagostas/oxitocina; Enki/FOXP2 47–48 mil anos; Epimeteu/xamanismo; Kalil Kadmon→Adam Kadmon→Pandora; Tikun de Javé; Ogdóade/Elm-Ol; Ifá/Exu/aché; destinação do lobo atrelada à humana; "cura de Brahma no genoma humano");
-- **13 fontes `P2024-08-03` adicionadas no grafo** (RC-086/092/252/433/454/486/506/514/577/609/622/722/730);
-- **Apostila integral concluída — 13 PARTES (22.619 palavras; a maior da série)**; intervalo de 15 min marcado (U1124); plateia isolada (6 perguntas finais + 2 intercaladas); glossário local A–D; DOCX em CONCLUIDAS;
-- **Ampliações retidas por falta de ficha física (padrão — sem autorização não se cria ficha):** RC-302 Epimeteu (destaque da devolutiva!), RC-400 FOXP2, RC-529 Ressonância límbica, RC-299 Kalil Kadmon, RC-525 Semente da racionalidade → registradas na Colecionar Incertezas com U####; aguardam autorização para criação de ficha;
-- Quarentenas confirmadas (político: Lula/Bolsonaro/Trump/Maduro/Thatcher; clínico-científico: FOXP2/oxitocina/28.869 genes/savant/autismo; teológico: Javé "doente, não mau"/10 mandamentos; ufológico: portais 2012/maias/abduções/experimento 2021);
-- **Nenhuma obra nova** (menção = B064; Rochester = B006);
-- Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados; pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
+**Última atualização (2026-08-20) — Ciclo P2024-07-14 (Consciências Espirituais Dignificadas) RE-CURADORIA concluída com devolutiva do curador:**
+- **0 códigos novos** (base blindada em 770; RC-771 preservado) — 15.396 palavras (944 unidades) absorvidas sem inflar a ontologia;
+- **Auditoria RC-745 + ~40 termos com fonte `P2024-07-14` — TODOS CONFIRMADOS** contra o STT integral;
+- **27 fichas ampliadas** (6 polos dos colegiados espirituais; dignidade elétrica/magnética; constituição septenária/tríade imortal; Tikun — Shimon Bar Yochai/Metatron/Enoque/sefirot; Malkuth=Hochmah=Sophia; aristocracia trimurtiana dos 38 (Morus o 38º); app no genoma; fatiamento Jesus/Sophia/Javé; conectoma; "fé-filosofia"; Krishna/devoção como vício);
+- **9 fichas físicas CRIADAS por autorização expressa do curador (O-7)** — sem consumo de códigos: RC-302 Epimeteu, RC-400 FOXP2, RC-529 Ressonância límbica, RC-299 Kalil Kadmon, RC-525 Semente da racionalidade (retenções de P2024-08-03) + RC-193 Rebanho humano, RC-513 Espiritualidade Errática, RC-545 Coconstrutores, RC-231 Razão Filosófica (P2024-07-14); 9 fontes adicionadas no grafo e flags `ficha=True`;
+- **Apostila integral concluída — 12 PARTES (14.281 palavras)**; 3 perguntas intercaladas da plateia isoladas (U0281, U0321, U0590); **sem perguntas finais** (encerramento direto); glossário local A–D; DOCX em CONCLUIDAS;
+- Quarentenas confirmadas (teológica crítica — "Jesus não é Deus"/"retardamento"/"crença em Deus = transtorno cognitivo"/Niceia; clínica — autismo/oxitocina; histórica — Shimon Bar Yochai/leitura da cabala);
+- **Nenhuma obra nova** (Tzimtzum = B013; Jesus e Nietzsche = B049);
+- Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados (415 fichas-resumo); pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
 
@@ -239,6 +238,15 @@ A primeira devolutiva da live *Estagiários do Kaos* foi incorporada parcialment
 - RC-745 Colegiados Espirituais Humanizados criado;
 - correspondências Teologia Comparada registradas (ex.: Hochmah/Sophia, Kether/Javé/Brahma);
 - Base, índice, XLSX e DOCX regenerados.
+
+### Re-curadoria (devolutiva 2026-08-20) — APROVADA
+
+- 0 códigos novos (770 termos; RC-771 preservado); auditoria RC-745 + ~40 termos confirmada;
+- 27 fichas ampliadas via `_ampliacoes_2024-07-14.txt` (método à prova de aspas; scripts arquivados em `analise/`); RC-733 fundido na seção existente do ciclo original;
+- **9 fichas físicas criadas por autorização expressa (O-7)** — RC-302 Epimeteu, RC-400 FOXP2, RC-529 Ressonância límbica, RC-299 Kalil Kadmon, RC-525 Semente da racionalidade (retenções P2024-08-03), RC-193 Rebanho humano, RC-513 Espiritualidade Errática, RC-545 Coconstrutores, RC-231 Razão Filosófica (P2024-07-14); 9 fontes no grafo; flags `ficha=True`;
+- apostila integral em 12 PARTES (14.281 palavras); 3 perguntas intercaladas isoladas (U0281/U0321/U0590); sem perguntas finais;
+- **Colecionar Incertezas (novos):** "Júlia Domina"; "Maria Helena"; plataforma "Orbon"; "big data dos anjos"; "Jesus bilatério × Sofia radiata"; "espírito de Brahma e Vishnu = um só espírito" (reforço); "eu humano deve se tornar um svami"; "a catinga furando a blindagem do paraíso"; constituição septenária atribuída a Krishna; "Espírito Santo criado em Niceia (séc. IV)"; Nosso Lar (Chico Xavier); "massa crítica ainda não somos nem 10"; "18.000 anos" (reforço); Nietzsche no hospital espiritual de Edimburgo (relato pessoal); "o centurião que crucificou Jesus" (relato pessoal — espírito que anima Ellam);
+- ampliações retidas: **nenhuma** (as 9 fichas pendentes foram autorizadas e materializadas).
 
 ## Curadoria P2024-07-13 — Reintegração Cósmica — Tempos de Ruptura
 

@@ -23,6 +23,11 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 
 - **P2026-07-25:** "Javé se sentiu novamente traído e, por isso, introduziu a Cabala (ou 'acabalá' [STT])" — como contramedida à expansão de Krishna na Europa.
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] Kether na lição de Enoque (U0795–U0805):** "vocês criaram Kether, Hochmah, Binah e Yesod, várias sefirot, ou seja, várias emanações dos três principais seres, que são os três da Trimurti" — Kether como a primeira das emanações da Trimurti na explicação de Enoque (lógica humana aplicada à cabala).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -1,0 +1,50 @@
+# Razão Filosófica dos Terráqueos — RC-231
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | Conceitos Cosmológicos |
+| **Subcategoria** | 2.5 Propósitos / Destinos |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-20 |
+
+## Definição Sintética
+
+Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "capenga" desde sua fundamentação na época de Aristóteles, convertida em "fé-filosofia" quando os filósofos passaram a justificar a fé pessoal em vez de buscar a verdade.
+
+## Contexto / Origem
+
+[P2024-07-14] A palestra das Consciências Espirituais Dignificadas diagnostica o problema de fundamentação da filosofia/metafísica/ontologia e anuncia o curso "Reflexões quase filosóficas" (primeiro: Schopenhauer e o sofrimento do mundo).
+
+## Escopo e evidência
+
+- **[P2024-07-14] Unidades:** U0495–U0539.
+- **[P2024-07-14] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva do curador registrada em 2026-08-20 (ficha autorizada).
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] O problema de fundamentação (U0506–U0525):** "desde que a filosofia se organizou como ciência, que foi nos tempos de Aristóteles, existe um problema na fundamentação da filosofia que nunca foi resolvido... há quase 2.200 anos os filósofos fingem, fazem vista grossa"; "terminaram transformando a filosofia em fé-filosofia: ao invés de buscar a verdade, estão fazendo com que os argumentos filosóficos justifiquem a fé pessoal que eles têm enquanto filósofo"; "filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente"; "a maioria dos filósofos do mundo teve que se render à Igreja Católica... se não se rendesse, era morto".
+- **[P2024-07-14] O curso "Reflexões quase filosóficas" (U0495–U0505):** "estou lançando no âmbito do projeto na plataforma [REVISAR — STT 'Orbon'] um novo curso cujo título é 'Reflexões quase filosóficas'. O 'quase' aí é uma provocação aos filósofos"; "vão ser entre 5 a 10 cursos. O primeiro chama-se Schopenhauer e o sofrimento do mundo... deve sair um livro depois".
+- **[P2024-07-14] A divisão da filosofia (U0520–U0535):** "a filosofia se divide em quatro áreas: a metafísica, a epistemologia, a lógica e a ética. A metafísica se divide em geral e específica: geral é ontologia, específica é teologia"; "a filosofia via metafísica está capenga, porque padece de um problema de fundamentação na sua origem... lá atrás tomaram um equívoco de Aristóteles como sendo correto".
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-07-14 | U0495–U0539 | palestra/STT |
+| B033 / B005 / B049 / P2025-03-15 / P2024-11-30 / P2024-11-09 | — | obras/palestras |
+
+## Citação-chave
+> "Filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente."
+
+## Relações centrais
+
+- Revelação Cósmica (conceito) — RC-094;
+- Tikun Cósmico — RC-514;
+- Dignidade como Critério de Consciência — RC-722.
+
+## Observação
+
+**Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT].
+
+## Nota de governança
+
+[P2024-07-14] As formulações filosóficas ou históricas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.

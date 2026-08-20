@@ -27,6 +27,11 @@ Forma preferida: Metatron.
 - **"Inteligência artificial sem autonomia" (P2025-05-31):** após a morte de Enoque, Metatron fica como um computador usado pelos anjos clones: "a lógica de Enoque ficou lá disponibilizada como sendo uma inteligência artificial na época autônoma... quando Enoque morreu, ficou inteligência artificial sem autonomia. Então qualquer um chega e usa como computador. Metatron existe ainda hoje, feito uma estátua."
 - **O "suicídio" de Enoque [REVISAR — interpretativo]:** "a urdidura do nosso amigo Enoque, sendo obrigado a se transformar em Metatron e, em algum momento da história, ele lá dentro meio que se suicidou... não suportou, o espírito dele se liberou, esse espírito voltou a nascer" — ligado às revelações progressivas (Kardec → RC).
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] Metatron e o Tikun (U0795–U0800):** "o tikun cabalístico foi um reconhecimento tácito de Javé com base num trabalho que Metatron, um dos seus anjos, havia feito nos 12, 13.000 anos antes"; "Metatron é só forma antimaterial de um humano chamado Enoque".
+
 ## Fontes
 P2025-05-31.
 

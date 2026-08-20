@@ -20,6 +20,11 @@ Forma preferida: Malkuth.
 - **Malkuth = Hochmah/Sophia (P2025-05-31) — CONSOLIDAÇÃO CANÔNICA:** "Maulcuf é o nome cabalístico de Rockmar [Hochmah]"; "só tem uma sefirá que é Hochmah, que foi criado nesse universo nosso. E Hochmah também é chamado de Sofia e também é chamado de Malkuth nas tradições cabalísticas."
 - **"Hochmah é apenas um filho de Shockman [Chokhmah? — REVISAR]";** "foi engendrado lá atrás para ser o suzerano" do universo biológico.
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] Malkuth = Hochmah = Sophia (U0801–U0815):** "vocês criaram uma última, que é a décima, chamada Malkuth, que foi criada no universo vizinho. E no universo em que eu, Enoque, vivo, tem uma que é Malkuth ou Hochmah ou Sophia" — reafirmação da correspondência canônica Malkuth = Hochmah = Sophia; "os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído".
+
 ## Fontes
 P2025-05-31.
 

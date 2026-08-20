@@ -34,6 +34,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **Esfacelamento do poder (P2024-02-25):** 'com a assunção da sua fase Parameshthi, houve também o fortalecimento e enfraquecimento de outros deuses... e o esfacelamento do poder de Sofia e do eu de Jesus'.
 - **Hochmah/Sophia insemina Maria (RC-565):** 'nesse universo tem um avatar biológico que foi criado pela Trimurti lá atrás. O nome dele é Rockman [STT] ou Sofia, nome ou epíteto. E esse ser foi aquele que inseminou Maria e produziu Jesus. E é esse ser que foi programado e destinado para ser o herdeiro das regras.'
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] Sofia, ser vivo do universo biológico (U0460–U0475; U0640–U0650; U0860–U0870):** "Sofia, enquanto ser distinto biológico, não participa de nada disso aqui, porque Sofia é um ser vivo, vive nesse nosso universo. Sofia não tem a menor noção disso aqui, mas tem noção de todo mundo que nasce aqui na Terra, porque os anjos de Sofia e de Javé têm algo chamado big data, que controla o DNA de cada um de nós... mas na hora em que esse corpo morre, essa coisa se apaga lá do controle deles, e ele não sabe para onde o espírito de cada um de nós vai, porque ele não sabe nem aonde o dele está"; "Jesus é bilatério, Sofia é radiata: o cérebro do ser chamado Sofia não tem dois compartimentos, dois lados, como o nosso humano tem. Sofia não tem emoções"; "daqui a pouco esse problema vai ser resolvido, e Sofia vai ser turbinada por esse espírito, à moda de Jesus. Aí o quarto logos começa a trabalhar junto com Sofia".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

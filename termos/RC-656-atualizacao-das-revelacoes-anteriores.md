@@ -16,6 +16,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Atualização das Revelações Anteriores**.
 
+
+## Ampliação — P2024-07-14
+
+- **[P2024-07-14] A revisão permanente (U0820–U0830):** "cada momento histórico daqui pra frente vai rever os pontos da revelação cósmica, vai ajeitar alguns, acrescentar outros. E isso não é só aqui na Terra: são em todos os níveis dessa criação, inclusive no paraíso"; "a lógica humana vai ter que ser estabelecida inclusive no paraíso, para que a turma de lá possa compreender"; "no meio da [podridão] surgiu a lógica... ela hoje é compreendida como sendo o software mais sofisticado e complexo de todos os softwares que existem inoculados em padrões de espécies, de seres, inclusive e 100% perfeito".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
