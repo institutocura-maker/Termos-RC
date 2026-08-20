@@ -25,6 +25,11 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 - **Anunnakis na fala (P2025-05-31):** "Nefilim e Anunnaki é a mesmíssima coisa, apenas dois nomes chamados por duas culturas diferentes"; "a Bíblia inicia dizendo: houve um tempo em que os Nefilins estavam na Terra" (traduções portuguesas ocultam: "gigantes"); federação de figuras; igigis como ramo.
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] Enlil e Enki (U0580–U0605):** "isso estamos falando 13, 14.000 anos atrás: os Anunnaki que trabalhavam na Terra resolveram transar com as humanas, o que desobedeceu as ordens de Enlil [STT: 'Eni'], que eram Enlil e Enki [STT: 'Elio e Enk'], os dois comandantes Anunnaki, filho de Anu"; "Enlil tinha dado uma ordem que Anunnaki não podia transar com a humana. Aí os Anunnaki transaram, o próprio Enlil depois transou também"; "Javé tomou a decisão de que os Anunnaki não seriam mais a escolha dele... Javé tinha um sonho de fazer dos Anunnaki um representante dele, porque Javé é um ser que tá preso [no universo vizinho]. Ele não vem para cá nunca"; "quando a turma transou com os humanos, Javé deu uma ordem que a Terra não mais iria pertencer aos Anunnaki"; "os Anunnaki terminaram explodindo bomba em cima do Vale do Sidim: as famosas explosões de Sodoma e Gomorra".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

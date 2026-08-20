@@ -17,6 +17,11 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 - **Grafia preferida:** Modelo Colmeia
 - **Variações:** sistema colmeia; controle colmeia; "modelo colmeia" (aspas na obra)
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] O sistema colmeia falindo (U1400–U1420):** "compreenda: uma abelha rainha com suas abelhas operárias convivem do mesmo jeito que Javé sempre conviveu com os anjos clones. Um manda, o resto obedece... esse resto aqui nem tem individuação, eles são só robôs"; "por que é que o sistema colmeia está falindo no nosso mundo? Porque o sistema colmeia faliu lá: a Trimurti colapsou também. Então, Javé lidava com os anjos de um jeito; como isso aqui faliu, o sistema que vem importado de lá para cá, para criar vida biológica, o mesmo sistema faliu no lado de cá. E vários sistemas estão falindo nos dois lugares"; "é preciso nós aprendermos a reconstruir ou construir outros novos sistemas... de interação, de convivência, de coexistência de seres vivos".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

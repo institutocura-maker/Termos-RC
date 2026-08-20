@@ -20,6 +20,11 @@ A palestra descreve Marte como o nono mundo material conectado a oito locas do u
 
 - **Midgard (P2025-02-16):** "a mitologia nórdica fala Midgard... a gente joga a Terra como sendo Midgard, mas na época era Marte" (o Axis Mundi antes de ser transferido para a Terra/Naimisha); Bifrost como ponte dos nove mundos (ver RC-471).
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] Marte destruído (U0440–U0450):** "quando Marte, que tinha vida que a gente nem imagina o tipo de vida que lá existia há cerca de milhões de anos, perdeu tudo devido a explosões que a turma soltou bombas. É terrível aqui e aqui. Devido a isso, esse ser chamado Sophia... voltou a atenção dele para cá, 300 milhões de anos, mas ele só veio se estabelecer, só veio fazer visitas à Terra muito recentemente, nos últimos 6, 5 milhões de anos".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -52,3 +52,9 @@
 - **[P2024-07-14] Os limites (U0475–U0494):** "não existem colegiados dos anjos clones e muito menos dos seres demo. Só existe dos seres demo hibridizados. Por quê? Porque os anjos clones são robotizados e os seres demos são dementados"; "não existe dignificação existencial profunda em nenhum dos referidos colegiados, porque até mesmo o de padrão filosófico submeteu a sua atitude consciencial a interpretações equivocadas no campo da filosofia, da metafísica e da ontologia".
 
 ---
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] A devoção imbecilizou (U1420–U1430):** "o tipo de ser humano que nós temos sido faliu. Não é que eu, você, alguém falou... o modelo de ser humano que tá indo no lado devocional tá falindo, porque transferiu para outros as possibilidades dela própria evoluir. Então, ela tá esperando que o outro faça com que ela evolua. A devoção é que imbecilizou totalmente o ser humano".
+
+---

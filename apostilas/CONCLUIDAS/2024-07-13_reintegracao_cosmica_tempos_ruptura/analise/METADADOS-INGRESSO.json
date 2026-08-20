@@ -1,0 +1,31 @@
+{
+  "sha256_original": "c93db28e3929ae09499d37b05007380b08013c77bbee002fe7dea50f7e8f4a66",
+  "bytes_original": 146238,
+  "lines_original": 116,
+  "words_original": 25283,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 55,
+      "words": 7,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 48,
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 2833,
+      "words": 434,
+      "lines": 48
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 143126,
+      "words": 24840,
+      "lines": 61
+    }
+  },
+  "analytic_units": 1664,
+  "source_status": "sequência completa; abertura, exposição com intervalo de 15 min (U0906), perguntas intercaladas e finais da plateia, encerramento presentes; camada contextual ausente",
+  "nota": "RE-CURADORIA: base já contém RC-745 (1 termo-título com ficha + ~40 termos com fonte) com fonte P2024-07-13 + 20 relações tipadas (R-RCT) — ciclo de auditoria/ampliação/apostila, sem consumo de códigos novos salvo decisão do curador"
+}

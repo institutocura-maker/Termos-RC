@@ -25,6 +25,12 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 
 - **[P2024-07-14] O sofrimento não é vontade divina (U0545–U0555):** "nós sofremos não porque Deus quer: é porque alguém errou, é porque muitos erraram. E o problema continua, todos continuam errando, na hora em que dizem: 'ah, a gente tá sofrendo porque Deus quer.' Enquanto a perspectiva for essa, o problema não se resolve"; "aqui a tal da 'é a vontade de Deus'... não há dignificação nesse tipo de reflexão filosófica ou nessa certeza que leva a consciência a aceitar o escândalo, já que é inevitável. Isso é de uma cretinice terrível, porque é uma falta de respeito a Deus, caso ele exista"; "houve um problema no paraíso: foi destravado os padrões de um jogo de perfeição. Deixaram dois fios soltos, para poder existir uma aventura fora da perfeição".
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] A ausência da providência (U1000–U1015; U1380–U1395):** "a pior [realidade] vai ser quando a gente perceber que o que existe mesmo é a ausência da imaginária providência e da tal justiça divina. Nenhuma das duas existe nos termos em que a gente pensa. Então, não há o que se esperar de terceiros. Ou você aprende a despertar os seus potenciais, ou não tem isso"; "porque Deus nunca ajudou ninguém... factualmente, Deus nunca ajudou nenhuma das crianças que foi estuprada desde que existe espécie, e o estupro é diário. São milhões de crianças estupradas diariamente. E Deus continua não ajudando. Ele nunca ajudou"; "quando uma pessoa fica em cima de uma cama 10 anos com Alzheimer, não é porque Deus quis assim: isso é defeito de criação. E essa turma induziu que a gente tem que manter essa coisa que não é mais nenhum ser humano vivo, mas é para eles se alimentarem dos eflúvios" [quarentena teológica/clínica].
+- **[P2024-07-13] A majestosa inutilidade (U1540–U1550):** "aqui na espiritualidade tem os mentores espirituais, não servem para porcaria nenhuma. Deus é uma majestosa inutilidade nos moldes em que ele se expressa. Eu tô falando de Deus com todo respeito e carinho, porque eu sei que esse ser existe, ele habita em mim, mas ele é pureza extrema, imanente. A transcendência dele é de uma total inutilidade para o que a gente está vivendo aqui no caos".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

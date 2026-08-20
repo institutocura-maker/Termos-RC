@@ -26,6 +26,12 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 
 - **[P2024-08-03] Yggdrasil no STT (U0359; U0380–U0387):** STT "conglomerado de Brasil / Ig Brasil / Clod Brasil" = Yggdrasil (corrobora a leitura registrada na Colecionar Incertezas); "a vida biológica e a experiência de Odin em Asgard e os nove reinos começou a partir de um novo ovo cósmico"; "os velhos donos ficaram com inveja do tipo de vida que surgiu nos reinos de Yggdrasil. E por isso o Ragnarok lá teve lugar"; "o nosso universo era um dos nove níveis desse conglomerado"; Marte era Midgard; "junto com Asgard e Niflheim... formava os nove mundos e o Ragnarok foi a destruição de tudo isso".
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] Yggdrasil e as setas (U0390–U0450):** "essa besteira que eu acabei de dizer aqui para vocês: a rebelião dos titãs, a decisão de Cronos, o surgimento de Yggdrasil [STT: 'Yodim Brasil'], as setas que Kvasir [STT: 'Kvase'] lá de Asgard lançou para Midgard — mas não foi para Midgard Marte, foi para Midgard, porque a Terra passou a ser chamada então de Midgard. É por isso que nós estamos aqui. É por isso que houve isolamento da Terra. Começou com essa história, só que ninguém sabe disso"; "os Asgardianos, os Aesir e os Vanir, são duas estirpes que surgiram nesse universo vizinho super modernos... quem assistiu o filme Senhor dos Anéis: são tipo aqueles elfos que aparecem lá, só que meio diferente em alguns padrões".
+- **[P2024-07-13] A terra, o point das fofocas (U0450–U0470):** "a Terra era o point de todas as fofocas, de quem tinha algum padrão de discernimento para fazer a fofoca, porque a maioria das civilizações que existiam aqui são todas insetoides, dragonoides, funcionam na base da obediência a um ser alfa. E não existem indivíduos aqui: existem colônias comandadas por um ser, e são milhões de colônias extraterrestres comandadas por um ser, e essa turma tá viva".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

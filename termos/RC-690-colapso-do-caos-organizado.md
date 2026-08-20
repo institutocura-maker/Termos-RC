@@ -45,6 +45,14 @@ Forma preferida: **Colapso do Caos Organizado**.
 
 - **Colapso do Caos Organizado (P2024-11-09):** "o universo passou 13,8 bilhões de anos se organizando; agora, o colapso de tudo o que foi organizado pelo caos está em curso, porque tudo o que o caos construiu não serve para nada"; "as ilhas de negentropia mantêm o funcionamento desse universo até o esgotamento do seu combustível, que é o hidrogênio" (ver RC-725).
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] As colmeias (U1059–U1090):** "no ano 2007, quando as primeiras colmeias começaram a colapsar, até hoje, ano 2024, os cientistas não sabem por que as colmeias colapsaram"; "colmeia é algo extremamente equilibrado e simplesmente começou a colapsar no ano 2007"; relato do Canadá (junho de 2024; "todo dia colmeias estão colapsando"); "há um desequilíbrio profundo na arte da fundamentação da nossa realidade".
+- **[P2024-07-13] A entropia destrói (U1070–U1110):** "é um momento de colapso... mas colapso de quê? Daquilo que o caos conseguiu construir desde que o caos surgiu aqui. Então, o caos passou 13,8 bilhões de anos construindo, mas chegou um ponto em que a entropia agora tá destruindo tudo que foi construído. Nós vamos precisar reconstruir outros sistemas".
+- **[P2024-07-13] Os choques de realidade (U1080–U1130):** "convulsões geológicas e climáticas; percepção da vida extraterrestre do contexto Sophia. Só esses dois aqui já é para bagunçar tudo que tem na Terra"; "as convulsões vão mudar drasticamente as áreas agricultáveis de todo o planeta"; Groenlândia descongelando (Dinamarca; petróleo); "a corrente Golf Stream, que é uma corrente de água quente dentro dos oceanos, já colapsou"; "o oceano vai subir entre 5 a 7 metros e com isso vai acabar quase todas as cidades litorâneas do mundo. Ele já fez isso há 11.000 anos atrás"; "isso não é o fim do mundo. São fins de ciclo"; "não há nada que possa ser feito para impedir o problema. O que a gente pode fazer é minorar os efeitos sobre a gente, sobre a nossa família" [quarentena climática — leitura do autor].
+- **[P2024-07-13] As cidades espirituais colapsando (U1230–U1260):** "as cidades espirituais, lamento dizer, também estão começando a colapsar. Espíritos que antes ficavam no lugarzinho agradável, agora vão operar a partir de lugares desagradáveis"; "os problemas ainda virão no sentido de encarnações complexas"; "espíritos maravilhosos de outros mundos estão vindo encarnar na Terra... quase 90% deles ou mais são autistas" [quarentena clínica]; "a quantidade de humanos homoafetivos vai aumentar loucamente, a questão da reprodução vai diminuir loucamente" [leitura do autor — quarentena]; "os elétrons na posição de rebeldes estão operando na fundamentação da vida".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

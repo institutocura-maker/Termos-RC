@@ -24,6 +24,11 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 
 - **Nefilins (P2025-05-31):** "seres de uma espécie chamada pelos sumérios de Nefilim... quando os sumérios foram substituídos pelos acadianos, os acadianos chamaram de Anunnaki"; "houve um tempo em que eles não estavam" (implicação da tradução original).
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] A exegese de Gênesis 6 (U0540–U0560):** "na Bíblia, no livro Gênesis, está lá escrito: 'houve um tempo em que os Nefilins estavam na Terra.' De onde se deduz que houve um tempo em que eles não estavam na Terra? Mas essa tradução pro português virou: 'houve um tempo em que existiam gigantes na Terra'... gigante não é sinônimo de ser extraterrestre. E o sentido original em hebraico é: 'houve um tempo em que seres de fora, chamados Nefilins, estavam aqui na Terra'"; "Nefilim na linguagem suméria e Anunnaki na linguagem acadiana... esses seres extraterrestres biológicos estavam aqui na Terra, chegaram a 450.000 anos no meio de uma confusão que envolveu a história dos Anunnaki com o braço da rebelião de Lúcifer"; "os Anunnaki se sentiam donos da Terra porque eram a maior força instalada aqui".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

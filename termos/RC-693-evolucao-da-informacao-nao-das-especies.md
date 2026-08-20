@@ -33,6 +33,11 @@ A vírgula preserva a oposição formulada na fala: “não são as espécies qu
 - **Edward Wilson:** "o ser humano pode dizer o que ele quiser, não precisa mais obedecer ao lento processo da evolução biológica" — "a evolução biológica acabou".
 - **Informação como 5º elemento:** "energia, matéria, espaço, tempo... no século XX alguém disse: tem um quinto elemento, informação; no final do século XX: dos cinco, a informação é a mais importante" (causação descendente/monismo).
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] As memórias não são nossas (U1560–U1620):** "papai e mamãe transam... um óvulo é fecundado por um espermatozoide que traz uma porrada de informações memoriais do passado, desses seres. Mas nesse óvulo fecundado vai surgir um novo cérebro de um novo ser, mas as memórias todas já vão estar dispostas no zigoto... então nós já nascemos com as memórias dadas pelos nossos ancestrais"; a analogia de Westworld: "primeiro o dono do parque enchia um androide de memórias, depois soltava algoritmos com fios livres para o androide poder improvisar... depois colocava uma memória encobridora para dar razão de existência... só depois disso eles dão identidade"; "qual a diferença da série Westworld pra vida humana? Nenhuma. As memórias que a gente carrega desde o início não são nossas: são dos nossos ancestrais, dos nossos ascendentes, são dos pais, avós, bisavós. A coisa já começa sem ética nenhuma".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

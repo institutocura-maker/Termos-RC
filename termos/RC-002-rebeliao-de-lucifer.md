@@ -18,6 +18,13 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **Variações:** Queda de Lúcifer; Rebelião dos Anjos (denominação tradicional)
 - **Obs.:** na narrativa RC, a rebelião é de biodemos (Yel Luzbel, da Família Yel), não de "anjos" no sentido tradicional
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] A pandemia virótica (U0451–U0485):** "mais recentemente, há cerca de 700.000 anos, já dentro dessa galáxia, no nosso universo, ocorreu a chamada rebelião de Lúcifer"; "quando a rebelião de Lúcifer aconteceu, surgiu uma pandemia... que contaminou mais de 200 bilhões de seres. E esses seres foram distribuídos em 19 mundos, e a Terra foi um dos mundos que recebeu seres rebeldes"; a natureza virótica: "Lúcifer fixou a mente dele num problema e não conseguia parar de pensar naquilo. Terminou invadindo a mente dele com um tipo de ser vivo referente àquela dúvida. Isso chama-se vírus novo, que Lúcifer criou dentro dele e terminou contaminando todo mundo que pensava como ele" (variantes cronológicas ~700 mil anos × 742 mil; 200 bi × 213 bi — ver Colecionar Incertezas).
+- **[P2024-07-13] A quarentena progressiva (U0465–U0490):** "os seres que se sentiam doentes resolveram, por eles mesmos, se isolar... isso não foi uma decisão de Sofia"; "o nome disso é quarentena"; "esses 19 mundos estavam em quarentena, depois 18, depois 17... com o passar do tempo, cada mundo ia sendo reintegrado à convivência cósmica e os doentes que ainda existiam redistribuídos pelos outros"; "há cerca de 100.000 anos, dos 19 mundos só tinham dois: Outland e a Terra"; "Sofia tomou a decisão de reintegrá-los, e Lúcifer veio pro último bastião que ele tinha para poder construir uma trincheira para manter a rebelião viva, que foi a Terra"; "o quartel-general de Lúcifer tava aqui e está aqui até hoje".
+- **[P2024-07-13] De saúde pública a antagonismo (U0493–U0520):** "quando a coisa complicou no âmbito da rebelião de Lúcifer, aí de fato Sofia tomou decisões muito complicadas. Foi quando o movimento deixou de ser uma questão de saúde pública e se tornou um movimento de antagonismo a Sofia e de antagonismo a quem Sofia representava"; Lêmion [STT — REVISAR], "que viria a ser Satã", questionava Sofia: "você fica falando de seres que nós não vemos para poder justificar atitudes que nós não aceitamos"; "a decisão de Sofia de isolar a Terra nessa época deveu-se aos antagonismos que os rebeldes ficaram emprestando na relação deles a Sofia".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

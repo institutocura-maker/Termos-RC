@@ -19,6 +19,11 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 - **Finalidade:** gerar o tipo de ser humano "que é necessário desesperadamente que venha surgir na terra" — cidadania corajosa, não apenas bondade;
 - Relaciona-se à resposta às perguntas da plateia sobre "já fomos IA" e sobre a experiência terrena (intervenções 1–3 — isoladas, não ontologizadas).
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] A especiação canina (U1470–U1500):** "há 10.000 anos atrás não existia cachorrinho na Terra, só três espécies de lobo. Uma delas, a canis lupus, o lobo cinzento, começou a ser levado pelo ser humano... o genoma do canis lupus foi passando por mutações modificativas, adaptativas, e a partir de um certo ponto o genoma do lobo começou a criar subespécies de si mesmo, ou seja, surgiram as espécies dos cachorrinhos. As mais de 2.000 espécies de cachorrinho que hoje nós temos, todas elas vieram de uma única espécie de lobo"; "nós somos um ser humano biológico, mas da nossa espécie vai se especiar inúmeras diversas outras espécies que todas elas terão a natureza psíquica do ser humano, mas não implica dizer que será nesse mesmo tipo de corpo. Isso chama-se especiação de uma espécie".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

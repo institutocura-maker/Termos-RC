@@ -45,6 +45,12 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 - **Impressões ilusórias:** "o entorno de cada um de nós é o conjunto dessas impressões ilusórias ou impressões inconscientes que levam um quarto de segundo para você ver ou não".
 - **"A ignorância é uma bênção formidável"** — para a maioria, não ver é melhor (leitura do autor).
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] A contrainformação (U0100–U0170):** "os governos e a imprensa da Terra só conseguem fazer o que fazem porque nós estamos condicionados a esperar que alguém nos diga o que é certo, o que é errado... a síndrome do macaco rezador: esperar que a autoridade dê a notícia"; "o sistema que faz com que a gente não perceba [o fenômeno ufológico] é um sistema de contrainformação em relação à verdade, e que transformou o assunto em coisa ridícula"; "os próprios governos semeiam notícias precisas e incorretas: a chamada contrainformação"; "o fenômeno UFO acontece na nossa frente, mas nós não temos mais a capacidade racional, a lucidez, o tirocínio para, por nós mesmos, fazer a leitura da realidade".
+- **[P2024-07-13] Kierkegaard (U0300–U0320):** "Søren Kierkegaard, filósofo dinamarquês, ironicamente diz que o ser humano costuma se enganar de duas maneiras: uma, acreditando em muita coisa como sendo verdade, mas que não é verdade; e a segunda, deixando de acreditar ou de perceber o que é verdade, porque a gente não tem olhos para perceber"; "quem hoje em dia não sabe que existe vida extraterrestre é ignorante de pai e mãe... as pessoas bem informadas da Terra sabem que existe vida extraterrestre... mais de 1.000 ex-militares dos Estados Unidos desde o ano 2001 disseram abertamente que de fato conviveram com coisas que não eram humanas"; Paul Hellyer (ministro da defesa do Canadá; ONU 2006; "quatro civilizações de fora já têm acampamento aqui na Terra com a proteção do governo estadunidense; dois ETs trabalham no governo dos Estados Unidos").
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

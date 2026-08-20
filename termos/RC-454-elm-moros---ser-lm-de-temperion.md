@@ -58,6 +58,11 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 
 - **[P2024-07-14] Morus, o 38º (U0681–U0695):** "houve um momento em que 38 deuses comandavam a chamada aristocracia trimurtiana no universo vizinho. Nesses 38, Sofia não aparece como sendo membro deles, porque Sofia está no universo biológico, nesse nosso universo"; "quem são esses 38 seres? São os três seres da Trimurti, Brahma, Vishnu e Shiva; os três seres da Tridevi, Lakshmi, Parvati e Saraswati; oito Vasus, 11 Rudras, 12 Adityas. E se você somar isso aí vai dar 37. E tem mais um sumido, que é Morus, que faz os 38"; "hoje, desses 38, vários já faliram, mas tem uns 14 ou 15 que ainda se acham donos da criação, porque são herdeiros da Trimurti e da Tridevi".
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] As setas de Moros (U0450–U0460):** "a Terra já era famosa por esconder as setas de Moros, por terce um problema que surgiu quando esses dois universos surgiram: 5 bilhões de anos depois, houve o problema de Moros com os três seres da Trimurti, Brahma, Vishnu e Shiva. E ele escondeu as setas, ninguém sabia onde" [REVISAR — "setas de Moros" fora da base].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

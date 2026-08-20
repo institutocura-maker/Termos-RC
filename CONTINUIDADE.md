@@ -1,17 +1,18 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (ciclo P2024-07-14 — re-curadoria + apostila)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **80 obras (B001–B080)** · **24 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `b01b9f5` (antes do ciclo P2024-07-14 re-curadoria).
+**Data de sincronização:** 2026-08-20 (ciclo P2024-07-13 — re-curadoria + apostila)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **25 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `a24dadb` (antes do ciclo P2024-07-13 re-curadoria).
 
-**Última atualização (2026-08-20) — Ciclo P2024-07-14 (Consciências Espirituais Dignificadas) RE-CURADORIA concluída com devolutiva do curador:**
-- **0 códigos novos** (base blindada em 770; RC-771 preservado) — 15.396 palavras (944 unidades) absorvidas sem inflar a ontologia;
-- **Auditoria RC-745 + ~40 termos com fonte `P2024-07-14` — TODOS CONFIRMADOS** contra o STT integral;
-- **27 fichas ampliadas** (6 polos dos colegiados espirituais; dignidade elétrica/magnética; constituição septenária/tríade imortal; Tikun — Shimon Bar Yochai/Metatron/Enoque/sefirot; Malkuth=Hochmah=Sophia; aristocracia trimurtiana dos 38 (Morus o 38º); app no genoma; fatiamento Jesus/Sophia/Javé; conectoma; "fé-filosofia"; Krishna/devoção como vício);
-- **9 fichas físicas CRIADAS por autorização expressa do curador (O-7)** — sem consumo de códigos: RC-302 Epimeteu, RC-400 FOXP2, RC-529 Ressonância límbica, RC-299 Kalil Kadmon, RC-525 Semente da racionalidade (retenções de P2024-08-03) + RC-193 Rebanho humano, RC-513 Espiritualidade Errática, RC-545 Coconstrutores, RC-231 Razão Filosófica (P2024-07-14); 9 fontes adicionadas no grafo e flags `ficha=True`;
-- **Apostila integral concluída — 12 PARTES (14.281 palavras)**; 3 perguntas intercaladas da plateia isoladas (U0281, U0321, U0590); **sem perguntas finais** (encerramento direto); glossário local A–D; DOCX em CONCLUIDAS;
-- Quarentenas confirmadas (teológica crítica — "Jesus não é Deus"/"retardamento"/"crença em Deus = transtorno cognitivo"/Niceia; clínica — autismo/oxitocina; histórica — Shimon Bar Yochai/leitura da cabala);
-- **Nenhuma obra nova** (Tzimtzum = B013; Jesus e Nietzsche = B049);
-- Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados (415 fichas-resumo); pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
+**Última atualização (2026-08-20) — Ciclo P2024-07-13 (Reintegração Cósmica — Tempos de Ruptura) RE-CURADORIA concluída com devolutiva do curador:**
+- **0 códigos novos** (base blindada em 770; RC-771 preservado) — 24.840 palavras (1.664 unidades) absorvidas sem inflar a ontologia;
+- **Auditoria RC-003 + ~50 termos com fonte `P2024-07-13` — TODOS CONFIRMADOS** contra o STT integral;
+- **25 fichas ampliadas** (quarentena dos 19 mundos/Outland/Terra como último bastião; vinda de Sophia/Mahdi/Messias/Kalki/Malkuth; transfiguração/Apocalipse/WTC=Babilônia; lacres rompidos por Pandora/Eva; Nefilins/Anunnaki/Enlil-Enki; Belial/Hades/Bartolomeu; transumanismo/sílica/especiação; sistema colmeia; Taitiriya Panchado; orixás como única religião persistente);
+- **RC-002 Rebelião de Lúcifer AMPLIADA (O-7)** — pandemia virótica (200 bi; ~700 mil anos), 19 mundos, quarentena progressiva, Outland, Terra como último bastião; variantes cronológicas mantidas em Colecionar Incertezas;
+- **Obra B081 CADASTRADA (O-6)** — "Sophia, os Arcontes e a Disputa pela Suzerania Universal" (~2023; citada U0711); grafia canônica Sophia; 81 obras na BIBLIO;
+- **Ampliações retidas (termos sem ficha física — padrão):** RC-258 Coreografia Cósmica (vinda de Sophia) — conteúdo registrado na Colecionar Incertezas com U####; aguarda autorização para criação de ficha em ciclo futuro (os demais 24 alvos tinham ficha e foram ampliados);
+- **Apostila integral concluída — 13 PARTES (18.897 palavras)**; intervalo de 15 min marcado (U0906/U1031); plateia isolada (intercaladas: Franklin/Maria Helena/Eduardo/Carla + finais); glossário local A–D; DOCX em CONCLUIDAS;
+- Quarentenas confirmadas (ufológica crítica — contato iminente/Nova Jerusalém-nave/"cobra caindo do céu"/WTC=Babilônia; clínica — autismo 90%+/homoafetividade/Alzheimer/oxitocina; teológica — "Deus nunca ajudou ninguém"/"majestosa inutilidade"/Bartolomeu; política — contrainformação/bula da alfabetização/macroforças);
+- Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados (415 fichas-resumo; 81 obras); pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
 
@@ -254,6 +255,16 @@ A primeira devolutiva da live *Estagiários do Kaos* foi incorporada parcialment
 - 20 relações tipadas novas com fonte `P2024-07-13`;
 - RC-742/743/744 também citados por esta fonte;
 - Base, índice, XLSX e DOCX regenerados.
+
+### Re-curadoria (devolutiva 2026-08-20) — APROVADA
+
+- 0 códigos novos (770 termos; RC-771 preservado); auditoria RC-003 + ~50 termos confirmada;
+- 25 fichas ampliadas via `_ampliacoes_2024-07-13.txt` (método à prova de aspas; scripts arquivados em `analise/`);
+- RC-002 ampliada (O-7): pandemia virótica/19 mundos/Outland/Terra como último bastião (variantes ~700 mil × 742 mil; 200 bi × 213 bi na Colecionar Incertezas);
+- **B081 cadastrada** (O-6): "Sophia, os Arcontes e a Disputa pela Suzerania Universal" (~2023; grafia canônica Sophia);
+- apostila integral em 13 PARTES (18.897 palavras); intervalo de 15 min marcado; plateia isolada (intercaladas + finais);
+- **Colecionar Incertezas (novos):** Outland; família Aia/Aie; bolsa de Vaikunta; "as setas de Moros"; Kvasir/Aesir/Vanir; quartel-general de Lúcifer na Terra; WTC = Babilônia (Apocalipse 17-19); Nova Jerusalém-nave; Lêmion (futuro Satã); "Erde" (trabalho de ~800 mi anos do espírito); papagaio Fael; Umbanda "esgoto amoroso"; "90%+ espíritos de outros mundos autistas"; "homoafetivos aumentarão" [quarentena]; cidades espirituais colapsando; Taitiriya Panchado; orixás como única religião persistente; "18.000 anos" (reforço); "Shiva morre junto com a morte humana de Rogério"; "Eva escolhambou com tudo"; "o espírito que anima Ellam morreu em explosão alquímica" (relato pessoal);
+- **Ampliação retida (sem ficha física — padrão):** RC-258 Coreografia Cósmica (U0060–U0100; U0900–U0945) — aguarda autorização para criação de ficha.
 
 
 ## Decisão estratégica (2026-08-17) — Cenário Base-first

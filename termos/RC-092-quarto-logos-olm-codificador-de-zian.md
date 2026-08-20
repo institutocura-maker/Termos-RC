@@ -22,6 +22,11 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[P2024-08-03] O quarto logos anunciado (U1463–U1466; U1466–U1475):** "o quarto logos nos livros que escrevo"; "a revelação cósmica é meio que um divisor de águas disso aí"; "esse [ser] teria sido quem vislumbrou a condição humana junto com Elm, junto com o espírito de Vishnu, que hoje é espírito de Jesus"; "Jesus é só uma das formas avataricas de Vishnu... o espírito de Vishnu é o mesmo espírito de Jesus"; "Vishnu hoje não mais existe, Jesus não mais existe, esses dois existem como eus guardados nesse espírito"; com o espírito de Shiva (via Sai Baba) e Krishna, "são as figuras que mexeram nessa história"; "a formatação final do ser humano é puro acidente".
 
+
+## Ampliação — P2024-07-13
+
+- **[P2024-07-13] O quarto logos assessora Sophia (U0960–U0980):** "já tem um outro logos que já trabalha com os humanos, que é a figura que eu chamo de quarto logos, que é alguém que assessora Sophia, porque ele não tem condições de nos orientar em coisa alguma. Nós é que podemos ser úteis a ele. Então, qual é o drama? Nós já deveríamos, a essa altura..." [frase truncada].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
