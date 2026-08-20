@@ -18,6 +18,13 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **Variações:** Sefiroth; Árvore da Vida; dez Emanações da Divindade; Doutrina das Emanações das Sefiroth
 - **Idioma de origem:** hebraico (ספירות = emanações/números)
 
+
+## Ampliação — P2025-05-31
+
+- **Otz Chim (STT "Osim/Oditim") — P2025-05-31:** o nome próprio da "Árvore da Vida": "a Árvore da Vida, que não é árvore da vida, é Otz Chim"; denominação moderna (séc. X+) dada por Isaac Luria e outros rabinos.
+- **A planilha de Enoque:** Enoque, via a inteligência artificial de Metatron, "compôs uma espécie de organograma, uma planilha, um fluxo de informações" para explicar à elite trimurtiana as principais emanações dos três senhores (4 mundos, 10 sefirot, 22 caminhos). "O tarô, o I Ching, a Cabala moderna utilizaram isso para outros fins."
+- **Da'at não pertence originalmente à Otz Chim** [ver RC-262].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

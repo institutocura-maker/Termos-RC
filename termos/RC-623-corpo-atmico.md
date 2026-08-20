@@ -17,6 +17,11 @@ Na live, o Corpo Átmico permanece ligado à condição original, enquanto o Cor
 - Grafia preferida: Corpo Átmico. STT: corpo átimo. Distinguir de Adhyatman RC-013.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2025-05-31
+
+- **Corpo átmico (P2025-05-31 — resposta a Guilherme):** "é a presença do sagrado, é o empréstimo que o ser primevo, único, infinito empresta de si... uma semente dele que é imutável"; o átmico estrutura tudo o que surgir de vida; no paraíso "quem existe é só corpo átmico" (imutável); "um ser chamado Mohen So/Protogonos/Phanés [STT 'Moreno, protogonos fanis'] constatou que não adiantava [a produção]... parou-se a produção de novos seres a partir de corpos átmicos" → espíritos simples e ignorantes (Kardec).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

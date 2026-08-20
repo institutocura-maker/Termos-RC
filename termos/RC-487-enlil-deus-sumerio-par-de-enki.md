@@ -24,6 +24,11 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **Guerras atômicas (contexto):** a pontaria de Ninurta (RC-588) e Nergal, no âmbito da disputa dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade levada pelo vento dizimou a Suméria — **contexto da disputa, não entidade ontológica** (quarentena histórica — decisão do curador);
 - **Retirada:** ~600 a.C. (era axial) — "Anu foi obrigado a dizer: vamos embora, não vai ficar mais ninguém aqui" (ainda deixaram netos/bisnetos).
 
+
+## Ampliação — P2025-05-31
+
+- **Enlil (P2025-05-31):** par de Enki no comando dos igigis; os igigis "não queriam mais obedecer nem a Enlil, nem a Enki"; sede em "Lammur" (Marte).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

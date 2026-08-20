@@ -21,6 +21,11 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - **DNA humano como "recolhedor"** das vrittis; o eu administra e devolve à memória dos elétrons;
 - relação com karma/teia quântica (RC-559) e protocolo mental (RC-517).
 
+
+## Ampliação — P2025-05-31
+
+- **Vrittis e Cittas (P2025-05-31 — contexto):** o autor cita "Vatireca" [STT — REVISAR] como tipo de ignorância (pior que Trishna) — relacionar com a gestão dos estados mentais (ver RC-712); registro na Colecionar Incertezas.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

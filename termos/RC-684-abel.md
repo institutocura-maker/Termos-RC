@@ -19,6 +19,11 @@ Forma preferida: Abel.
 
 - **Abel como primeiro filho (P2024-02-25):** 'quando Adão e Eva transaram e Abel nasceu, Abel foi o primeiro. Não, mas a Bíblia diz que foi Caim. É porque depois Javé fez essa armação' — Abel 'nasceu com três jeitos afeminados' [REVISAR — quarentena clínica]; Javé fez Caim matar Abel para anular a primogenitura; Sete, o terceiro, tornou-se o patriarca dos escolhidos.
 
+
+## Ampliação — P2025-05-31
+
+- **Abel (P2025-05-31):** primogênito real; "Abel nasce afeminado" [REVISAR — quarentena clínica]; Javé "não aceitava" e armou o fratricídio; "os 10 primeiros patriarcas... viveram 900, 800, 700 anos" (genética herdada de Adão/Javé).
+
 ## Fontes
 P2025-05-31.
 

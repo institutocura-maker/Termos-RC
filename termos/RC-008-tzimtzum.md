@@ -18,6 +18,11 @@ O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revela
 - **Variações:** Tsimtsum; contração de Deus; exílio de Deus dentro da própria Criação; "implosão do Corpo Mental"
 - **Idioma de origem:** hebraico (צמצום = contração)
 
+
+## Ampliação — P2025-05-31
+
+- **Tzimtzum na fala (P2025-05-31):** "Tzin Tzum seria o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação" (livro do autor B013); a luz "mergulhada no seu próprio abismo" (Da'at).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

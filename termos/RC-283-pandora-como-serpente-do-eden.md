@@ -17,6 +17,11 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 - **Grafia preferida:** Pandora como Serpente do Éden
 - **Variações:** a serpente do Éden = Pandora; papel da serpente; a "serpente" da tradição bíblica
 
+
+## Ampliação — P2025-05-31
+
+- **A serpente falante (P2025-05-31):** "até a cobra falante... existe. São seres descendentes dos Nagas e Uragas, filhos de Kadru [STT], uma das filhas de Daksha, que junto com Kashyapa produziram isso" — seres teriantrópicos; "a metáfora que não é metáfora" (leitura do autor).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

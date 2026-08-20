@@ -18,6 +18,11 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **Comando:** "esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão" — contexto do efetivo anunnaki na Terra;
 - Enki e Enlil na dinastia de Nibiru (RC-589) — "Dieck Eno" [STT duvidoso para Enki? — `[REVISAR]`].
 
+
+## Ampliação — P2025-05-31
+
+- **Livro Perdido de Enki (P2025-05-31):** tradução de tábulas sumérias (Nínive; Zecharia Sitchin); Enki, Ninhursag e Ningishzida (Thoth) marcaram casais de humanoides há 50.000 anos ("colocou a sua assinatura quântica genética... para dizer que os humanos eram filhos dele"); FOXP2 ("o gene que responde pela capacidade que o nosso neocórtex tem de produzir símbolos"); genética de submissão (Enki) × genética de liberdade (Pandora, "melhor").
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

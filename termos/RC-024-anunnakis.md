@@ -20,6 +20,11 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **Disputa de "quem chegou primeiro":** "eu cheguei aqui há 67 milhões de anos atrás como tinha dinossauro. Vocês chegaram a 450.000" (contexto de conflito com outras linhagens);
 - **Thot (RC-463)** como o anunnaki mais notável: biológico, terráqueo, filho de Enki, mentor da humanidade.
 
+
+## Ampliação — P2025-05-31
+
+- **Anunnakis na fala (P2025-05-31):** "Nefilim e Anunnaki é a mesmíssima coisa, apenas dois nomes chamados por duas culturas diferentes"; "a Bíblia inicia dizendo: houve um tempo em que os Nefilins estavam na Terra" (traduções portuguesas ocultam: "gigantes"); federação de figuras; igigis como ramo.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

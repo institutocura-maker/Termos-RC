@@ -17,6 +17,11 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 - **Humanos como batatas:** os humanos são as "batatas" do vencedor — ferramentas descartáveis no xadrez cósmico (RC-764);
 - Sinônimo funcional de RC-164 (Criaturas-ferramenta) — ambas alimentadas pela mesma fonte P2021-03-27.
 
+
+## Ampliação — P2025-05-31
+
+- **Criaturas-ferramenta (P2025-05-31):** "todos os seres... são clones de Javé... os tais anjos clones ou seres de condição adhyajna que se metamorfoseiam, são seres demoníacos, não no sentido ruim da palavra" — o contexto da criação como "criaturas-ferramenta" de Javé.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

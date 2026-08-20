@@ -17,6 +17,11 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 - Grafia preferida: Igigi. Forma usada na fala: Igigis.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2025-05-31
+
+- **Os igigis (P2025-05-31):** ramo dos Anunnakis ("igis") que se recusou ao trabalho pesado (retirar ouro para Nibiru); "há 15–16.000 anos" transaram com mulheres humanas na época de Jarede (pai de Enoque) → "raça ímpia"/gigantes; presos por Javé em "prisões onde a energia do mundo [deles]..."; Enoque intercedeu (RC-673); "Lammur" = Marte (STT).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

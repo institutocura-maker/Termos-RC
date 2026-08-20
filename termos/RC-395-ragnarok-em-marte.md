@@ -17,6 +17,11 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **Grafia preferida:** Ragnarok em Marte
 - **Variações:** Ragnarök; o crepúsculo dos deuses (nórdico); explosão que acabou com a atmosfera de Marte
 
+
+## Ampliação — P2025-05-31
+
+- **Ragnarok/Ig Brasil (P2025-05-31):** "restos do Ragnarok": destruição do reino "Ig Brasil" (STT), onde Odin e Freya "criaram uma alquimia na época que resolvia as dores de todos os seres desse universo vizinho" e fizeram "uma ponte desse universo vizinho com o nosso universo... veio bater em Marte".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

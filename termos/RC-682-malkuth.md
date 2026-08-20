@@ -14,6 +14,12 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 ## Etimologia / Grafias
 Forma preferida: Malkuth.
 
+
+## Ampliação — P2025-05-31
+
+- **Malkuth = Hochmah/Sophia (P2025-05-31) — CONSOLIDAÇÃO CANÔNICA:** "Maulcuf é o nome cabalístico de Rockmar [Hochmah]"; "só tem uma sefirá que é Hochmah, que foi criado nesse universo nosso. E Hochmah também é chamado de Sofia e também é chamado de Malkuth nas tradições cabalísticas."
+- **"Hochmah é apenas um filho de Shockman [Chokhmah? — REVISAR]";** "foi engendrado lá atrás para ser o suzerano" do universo biológico.
+
 ## Fontes
 P2025-05-31.
 

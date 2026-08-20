@@ -20,6 +20,12 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 - não comprova cura genética, levitação ou caminhada sobre água;
 - registra a formulação doutrinária usada por Ellam.
 
+
+## Ampliação — P2025-05-31
+
+- **Trishna, Avidya e "Vatireca" (P2025-05-31 — resposta a Rogério):** Trishna = "tipo de ignorância que faz com que os seres humanos tenham desejos estúpidos... o desejo é a base do sofrimento" (4 Nobres Verdades; Nirvana); Avidya = "quando você não consegue entender que tem um corpo átmico, que você não é isso"; "Vatireca" [STT — REVISAR] = "pior do que Trishna... o estado natural que nós ostentamos... a gente pensa que é esse corpo e não é".
+- **Moksha (RC-618):** "se ancora em níveis profundos de compreensão da ignorância"; "alguns humanos podem evoluir e se libertar. A humanidade jamais" (devoção + corrupção).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -31,6 +31,13 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **Vyasa = encarnação de Moros (P2024-02-25):** 'Brahma queria que Krishna conseguisse convencer Vyasa, que era a encarnação de Moros, a modificar os termos do computador quântico que ele havia feito lá atrás.'
 - **Criador da WD/Wyrd:** Moros 'olhou pros genes... disse: ó, tá tudo bichado. Como é que a gente organiza esse baralho? Aí ele organizou, ele criou a WD' — o computador quântico da teia (RC-658/RC-533).
 
+
+## Ampliação — P2025-05-31
+
+- **Moros = Orlog (mitologia nórdica; P2025-05-31):** "esse Morus na mitologia nórdica chamado de Orlog... ser que criou a Wyrd... a teia da vida". Criou a teia "como um engenheiro organizacional de fluxo de informações" — "o que sai de um ser volta para ele" (não é justiça, nem pedagogia).
+- **Criou as três Norns e desapareceu:** "Orlog ficou tão pressionado que resolveu criar três seres: Urd, Verdandi e Skuld" (passado pendente → presente → futuro a cumprir) e sumiu ("os caras da Trimurti estavam atrás").
+- **Enoque recobrou a memória de Moros:** "quando Enoque ressurge como humano, os anjos dizem: esse cara é a planilha que a gente tem do Moros" — a Trimurti percebeu Moros reaparecendo na mente de Metatron.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -19,6 +19,11 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 - **Ordens de matar:** "a ordem de tanto de Javé quanto de Zeus quanto de Anu era matar essa turma" — gigantes que comiam o que um humano comia em 30 dias (época de escassez);
 - **Absorção NT-BA04:** o candidato "Anaquins/Enacins" **rejeitado como termo autônomo** e absorvido aqui (sem código novo).
 
+
+## Ampliação — P2025-05-31
+
+- **Nefilins (P2025-05-31):** "seres de uma espécie chamada pelos sumérios de Nefilim... quando os sumérios foram substituídos pelos acadianos, os acadianos chamaram de Anunnaki"; "houve um tempo em que eles não estavam" (implicação da tradução original).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

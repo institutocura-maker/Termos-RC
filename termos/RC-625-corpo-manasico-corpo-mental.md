@@ -17,6 +17,11 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 - Grafia preferida: Corpo Manásico / Corpo Mental. STT: manáico.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2025-05-31
+
+- **Corpo manásico (P2025-05-31):** "o corpo manásico permite a esse eu búdico expressar-se mentalmente"; no fatiamento de consciência, a projeção do laboratorial ficava "só com a cópia do búdico, do manásico, sem o corpo átmico" (RC-604).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

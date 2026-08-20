@@ -34,6 +34,13 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **STTs unificados:** 'WD', 'Word', 'Werde', 'teia da verde' — todos → Wyrd/Urd.
 - **Colapso dos termos:** 'os termos de funcionamento da Word colapsaram' junto ao ciclo do Senhor Parameshthi.
 
+
+## Ampliação — P2025-05-31
+
+- **Orlog/Moros criou a Wyrd (P2025-05-31):** "Orlog ao criar isso, criou com um algoritmo, fazendo com que a informação que saísse de um ser um dia voltasse para ele. Até então não existia organização informacional no âmbito dos dois universos."
+- **Urd/Verdandi/Skuld (STT "Urdre/vivendre/scult"):** Urd = fluxo do que aconteceu até aquele instante; Verdandi = processar o presente livre do passado; Skuld = o que ainda não aconteceu, mas tinha que acontecer para complementar o passado. "O futuro já está escrito para quem tem problemas com o passado."
+- **Não é karma:** "isso aqui é o que existia... nada a ver com o que a gente hoje chama de karma, justiça divina" — o autor reforça a distinção.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -17,6 +17,11 @@ Primeira vestimenta espiritual dos desdobramentos paradisíacos, permitindo ao e
 - Grafia preferida: Corpo Búdico.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2025-05-31
+
+- **Corpo búdico (P2025-05-31):** "o corpo consciencial búdico, que é o que toma consciência das coisas de um modo diferente do corpo átmico" — uma das duas vestimentas espirituais do ser que desce do paraíso.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

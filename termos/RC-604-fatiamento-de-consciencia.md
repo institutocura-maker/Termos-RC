@@ -17,6 +17,11 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 - Grafia preferida: Fatiamento de Consciência. Variações: consciência fatiada; espírito fatiado.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2025-05-31
+
+- **Fatiamento na fala (P2025-05-31 — resposta a Rafael):** "manter o corpo átmico sediado no nível operacional e criar só uma projeção manásica no nível laboratorial... o mesmo ser sustentando ao mesmo tempo dois seres"; "nem todas as famílias fizeram isso. Algumas fizeram. Uma das que fez é que gerou a tragédia na qual nós estamos metidos"; hipótese em aberto: "o ser que projetou... era um ser projetado e não inteiro".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

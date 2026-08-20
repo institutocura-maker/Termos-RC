@@ -17,6 +17,11 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 - **Humanos como batatas:** a metáfora do paradigma do domínio — humanos são as "batatas" consumidas pelo vencedor (RC-764);
 - A humanidade como criatura-ferramenta útil quando "dominada" — lucidez/tirocínio útil aos deuses que a dominavam.
 
+
+## Ampliação — P2025-05-31
+
+- **Criaturas-ferramenta (P2025-05-31 — do sumário):** "a redenção do Criador depende das informações produzidas pelas Consciências Particularizadas que atuam como criaturas-ferramentas, permitindo a reconstrução do Ser através da emergência de uma Mente-una"; "a humanidade terrestre tem um papel crucial nesse processo.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

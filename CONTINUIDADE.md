@@ -561,3 +561,49 @@ Recuperar o `apostila.md` já corrigido e rodar `build_apostila.py`. A grafia ca
 - Índices sincronizados (raiz + apostilas/).
 
 **Estado:** 770 termos · 1.633 relações · RC-771 livre · 400 fichas · 80 obras · **15 apostilas concluídas**.
+
+---
+
+## Correção de engenharia (2026-08-19, 3ª) — sincronização GitHub: duplicata órfã removida
+
+**Problema (apontado pelo curador):** no GitHub havia `apostilas/2025-07-25_jesus_dinastia_sophias_arcontes/` (estado da curadoria, antes da renomeação canônica para `2026-07-25` + CONCLUIDAS) além da pasta canônica em `CONCLUIDAS/` — duplicata órfã.
+
+**Causa raiz:** o método de sincronização `cp -a /home/user/rc-terminologia/. <clone>` **não remove** do working tree do clone os arquivos que deixaram de existir no workspace; o `git add -A` então não registrava remoções, e arquivos/pastas antigos permaneciam no repo.
+
+**Correção aplicada:** `git rm -r apostilas/2025-07-25_jesus_dinastia_sophias_arcontes` → commit `6a67b77` → push. Auditoria completa (git ls-files × workspace): nenhuma outra órfã real (os "ORFAO" de `termos/RC-572/657/706` e `.docx` eram falsos positivos de escaping de nomes com caracteres especiais).
+
+**Procedimento novo de sincronização (a partir de agora):**
+```bash
+cd /tmp && rm -rf Termos-RC && git clone https://x-access-token:${GH_TOKEN}@github.com/institutocura-maker/Termos-RC.git
+cd Termos-RC
+find . -mindepth 1 ! -name '.git' -exec rm -rf {} +     # LIMPAR working tree (novo passo)
+cp -a /home/user/rc-terminologia/. .
+rm -rf reconstrucao base-terminologica.xlsx base-terminologica-leitura.docx __pycache__
+git checkout HEAD -- .gitignore
+git add -A && git commit -m "..." && git push origin main
+```
+Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remoções e renomeações.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2025-05-31 O Mistério da Árvore da Vida e a Urdidura de Metatron (19/08/2026)
+
+**Re-curadoria** (TXT recuperado). Devolutiva M-1..M-6 do curador (via Assistente): auditoria aprovada; bloco de ampliações aprovado; **zero códigos novos** (base congelada em 770); absorções Orlog/Norns aprovadas; apostila autorizada; quarentenas confirmadas ("a Arca mapeia a estrutura da Revelação, não o noticiário").
+
+### Execução
+- Auditoria RC-671–RC-689 contra o STT: **19/19 confirmados** (a sessão anterior acertou integralmente — base "madura").
+- **7 fichas materializadas:** RC-467 (Moiras/Nornes/Parcas — Urd/Verdandi/Skuld), RC-262 (Daath), RC-266 (Zohar/Shimon bar Yochai), RC-267 (Isaac Luria), RC-005 (Segundo Advento), RC-329 (Kumari Kandan), RC-490 (Caim).
+- **29 fichas ampliadas** (seção "Ampliação — P2025-05-31"): destaques — **Malkuth = Hochmah/Sophia** (consolidação canônica); **Otz Chim = planilha de Enoque**; **Enoque "se suicidou" dentro de Metatron** [REVISAR]; **Orlog = Moros** (RC-454); **Norns → RC-467**; Wyrd como computador quântico (RC-658); inseminação de Maria (B004); transfiguração (RC-366); Corpos Átmico/Búdico/Manásico (RC-623–625); Trishna/Avidya (RC-712); Igigi (RC-580).
+- **41 relações novas** com fonte P2025-05-31; 13 campos relacionados enriquecidos.
+- Base: **770 termos · 1.674 relações** (+41) — `OK: 770 termos, 1674 relações — dados válidos.` · RC-771 preservado.
+- Artefatos regenerados: índice (770), XLSX (80 obras), DOCX (770/1674/80/**407 fichas**).
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-ARVORE-VIDA.py`.
+
+### Colecionar Incertezas (itens novos)
+"Vatireca" [STT]; "Lammur" (Marte); "Ig Brasil" (reino do Ragnarok); "Anahata/Pashupati"; "Enoque se suicidou dentro de Metatron" [REVISAR]; "25.869 × 28.869 genes"; "Hochmah filho de Chokhmah"; "Sóclov" (Sokolov); "Vasir" (urdidura de Moros).
+
+### Apostila (16ª do acervo)
+- `apostila.md` (13.979 palavras; 12 PARTES + glossário A–D; **PARTE XI — Perguntas da Plateia isolada** com 8 intervenções nomeadas e mediador Guilherme Veríssimo); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-05-31_arvore_da_vida_urdidura_metatron/`.
+- Índices sincronizados (raiz + apostilas/).
+
+**Estado:** 770 termos · 1.674 relações · RC-771 livre · 407 fichas · 80 obras · **16 apostilas concluídas**.

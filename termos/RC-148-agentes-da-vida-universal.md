@@ -18,6 +18,11 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 - **Variações:** agentes da vida; agentes da informação cósmica; agentes básicos da vida universal (os elétrons, por extensão)
 - **Obs.:** a "epopeia" refere-se à saga das consciências espirituais (mônadas) ao longo da Criação "indevida"
 
+
+## Ampliação — P2025-05-31
+
+- **Agentes da Vida (P2025-05-31 — do sumário):** "o Projeto Talm visa transformar o antigo nidana em uma equipe de agentes da vida consciente e perceptiva"; a redenção do criador depende das "informações" produzidas pelas "Consciências Particularizadas" (criaturas-ferramenta).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

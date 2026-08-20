@@ -1,0 +1,31 @@
+{
+  "sha256_original": "d8ed54451f714b6892d5324cadb98eca55f7e3366a88d3ec6b77a8dea93aafab",
+  "bytes_original": 181885,
+  "lines_original": 144,
+  "words_original": 31191,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 71,
+      "words": 13,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 2451,
+      "words": 384,
+      "lines": 27
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 15793,
+      "words": 2405,
+      "lines": 63
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 163217,
+      "words": 28386,
+      "lines": 42
+    }
+  },
+  "analytic_units": 1980,
+  "source_status": "sequência completa: abertura, exposição, intervalo (25 min), perguntas finais com mediador (Guilherme) e encerramento; contexto do evento presente (Belo Horizonte, Casa Palestra BH, 31/05/2025)",
+  "nota": "RE-CURADORIA: base já contém RC-671 a RC-689 com fonte P2025-05-31 (19 termos, todos com ficha) — ciclo de auditoria/ampliação, sem consumo de códigos novos salvo decisão do curador"
+}

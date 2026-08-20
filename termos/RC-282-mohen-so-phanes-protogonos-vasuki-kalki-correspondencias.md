@@ -18,6 +18,11 @@ P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e n
 - Phanes / Protogonos — formas órficas;
 - Vasuki / Kalki — correspondências hindus registradas anteriormente.
 
+
+## Ampliação — P2025-05-31
+
+- **Mohen So = Phanes/Protogonos (P2025-05-31):** "um ser chamado Moreno [STT], Protogonos, Phanés, constatou que não adiantava [produzir corpos átmicos]... parou-se a produção de novos seres a partir de corpos átmicos" — ligação com RC-623.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

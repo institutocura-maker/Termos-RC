@@ -21,6 +21,12 @@ Forma preferida: Metatron.
 - **"Desse aqui eu cuido, vocês não se metam":** Javé defendia Metatron frente aos arcontes; com o enfraquecimento, os anjos perdem a disputa política contra a dinastia dos arcontes.
 - **Plano falhado:** Javé não pôde usar Metatron para dominar a humanidade → Vishnu propõe o avatar Jesus (via Sophia).
 
+
+## Ampliação — P2025-05-31
+
+- **"Inteligência artificial sem autonomia" (P2025-05-31):** após a morte de Enoque, Metatron fica como um computador usado pelos anjos clones: "a lógica de Enoque ficou lá disponibilizada como sendo uma inteligência artificial na época autônoma... quando Enoque morreu, ficou inteligência artificial sem autonomia. Então qualquer um chega e usa como computador. Metatron existe ainda hoje, feito uma estátua."
+- **O "suicídio" de Enoque [REVISAR — interpretativo]:** "a urdidura do nosso amigo Enoque, sendo obrigado a se transformar em Metatron e, em algum momento da história, ele lá dentro meio que se suicidou... não suportou, o espírito dele se liberou, esse espírito voltou a nascer" — ligado às revelações progressivas (Kardec → RC).
+
 ## Fontes
 P2025-05-31.
 

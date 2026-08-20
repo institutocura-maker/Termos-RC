@@ -15,6 +15,13 @@ Grafia canônica para a 2ª Sefirah (Sabedoria) da Cabala, epíteto hebraico de 
 
 Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações STT: **Rockma / Rockman / Hotman / Hman / Shockma** — todas normalizadas para **Hochmah** (ou Sophia) na edição, com nota na primeira ocorrência. Conteúdo: "Jesus nasceu via uma humana, Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia"; "Sofia aparece como sendo o espírito ou tutor de Pistis na criação como Vishnu ou Shockma" — Hochmah/Sophia como agente da inseminação (ver RC-072 e RC-009).
 
+
+## Ampliação — P2025-05-31
+
+- **"Eis o meu eleito" (P2025-05-31):** Javé apresenta a Enoque o ser "Rockmar [Hochmah] em hebraico... personificação da sabedoria"; Enoque sentiu-se "maravilhosamente bem" na presença dele.
+- **Inseminação de Maria (B004):** "Jesus nasce através do genoma de Hochmah... ele teve que ficar imobilizado, retirar o genoma dele, a fórmula de poder mental e inseminar Maria"; descrito no livro B004 (A Sétima Trombeta do Apocalipse — anjos testemunhas).
+- **Crítica do autor:** Hochmah "não dá sorriso, não é sexuado... é um robozão, um troço que não tem emoção... é igual um computador recebendo oração"; as provocações nas palestras são "para tirá-lo da inércia, porque a inércia dele também tem um preço"; "qualquer ser humano dá de 1.000 a zero em Hochmah em termos de perceber as coisas" (leitura do autor).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

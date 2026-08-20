@@ -17,6 +17,11 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 - **Grafia preferida:** O Enigma da Transfiguração
 - **Variações:** Transfiguração de Jesus; alteração vibratória; o encontro com Moisés e Elias
 
+
+## Ampliação — P2025-05-31
+
+- **Transfiguração (P2025-05-31):** faltando ~5 meses para a crucificação, anjos de Hochmah cobram a missão no Monte Tabor (Pedro, João e Tiago; "uma nuvem domina a montanha"); Jesus se transfigura, "se fez igual aos anjos e falou com eles na linguagem que eles falavam em Capela" (rebelião de Lúcifer); "garanta ao meu pai Hochmah que eu vou devolver o que ele me deu"; o autor escreveu um livro sobre o tema (vol. 2 "liquidado numa briga com Javé" — humor).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
