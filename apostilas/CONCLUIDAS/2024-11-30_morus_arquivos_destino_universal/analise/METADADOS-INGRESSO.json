@@ -1,0 +1,27 @@
+{
+  "sha256_original": "7796e58cdd7cec8d2b58e7b21e759c9b7db216e8216564689b2621371a883d46",
+  "bytes_original": 206345,
+  "lines_original": 165,
+  "words_original": 35839,
+  "layers": {
+    "camada-0.txt": {
+      "words": 9,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "words": 309,
+      "lines": 23
+    },
+    "camada-2.txt": {
+      "words": 582,
+      "lines": 57
+    },
+    "camada-3.txt": {
+      "words": 34936,
+      "lines": 79
+    }
+  },
+  "analytic_units": 2115,
+  "source_status": "sequência completa aparente; abertura, exposição, intervalo e perguntas finais a confirmar na leitura; contexto presente (sem dados públicos detalhados do evento)",
+  "nota": "RE-CURADORIA: base já contém RC-714–RC-720 (7 termos, todos com ficha) com fonte P2024-11-30 — ciclo de auditoria/ampliação, sem consumo de códigos novos salvo decisão do curador"
+}

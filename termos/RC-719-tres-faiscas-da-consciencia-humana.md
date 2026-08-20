@@ -18,6 +18,13 @@ Arquitetura tripla da condição humana: faísca divina que sustenta, faísca ge
 
 A fala admite faíscas adicionais construídas na vida interior, mas sem taxonomia fechada.
 
+
+## Ampliação — P2024-11-30
+
+- **As Três Faíscas (P2024-11-30 — destaque M-2):** "a humanidade tem duas faíscas que a movimenta: uma que a sustenta, mas não movimenta (o corpo sagrado), e essa faísca doentia do corpo de Javé. Mas eu tenho três faíscas. Algumas pessoas nessa sala têm [três]. Outros têm quatro faíscas — essas outras são as que são construídas na vida interior de um ser humano, não na vida agitada do primeiro impulso."
+- **A 2ª faísca = genoma:** Richard Dawkins ("O Gene Egoísta" — "a ditadura dos genes"); "se você agir no primeiro impulso, eles mandam"; "essa segunda faísca que nos move é o genoma".
+- **A 3ª faísca = eu profundo:** "o seu eu humano, que cria despertar o eu profundo, que é esse eu que age aqui no segundo, terceiro impulso"; "quando você aprende a observar e agir no segundo impulso, aqui você tem livre arbítrio. Porque, se você agir no primeiro impulso, são as memórias que recebeu de papai e mamãe e o fluxo da vida".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

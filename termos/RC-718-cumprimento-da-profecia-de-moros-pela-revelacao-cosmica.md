@@ -20,6 +20,11 @@ Evento/processo em que as revelações ligadas ao espírito de Moros culminam na
 
 A lista é uma arquitetura da palestra; identidades e cronologias devem permanecer atribuídas.
 
+
+## Ampliação — P2024-11-30
+
+- **Cumprimento da Profecia (P2024-11-30):** "a profecia diz que só quando [Moros] resgatasse as três setas, todo o conjunto de seres dos dois universos iriam entender e saber a história desde o momento zero desta criação até os tempos em que as setas fossem descortinadas, deslacradas, novamente lidas, compreendidas e explicadas"; "esta [espécie humana] apenas faria a leitura crítica e explicaria para todas as demais espécies, cujo entendimento é inferior" — a RC como leitura crítica humana das setas.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

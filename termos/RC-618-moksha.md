@@ -22,6 +22,11 @@ Libertação da roda reencarnacional por superação da ignorância e emancipaç
 
 - **Moksha (P2025-02-15 — contexto):** as "fórmulas mentais viciadas" (sanscaras/vāsanās) como grilhões; "quem está livre disso não tem esses grilhões"; a libertação individual (ver RC-705 e RC-712).
 
+
+## Ampliação — P2024-11-30
+
+- **Samsara (P2024-11-30):** "só tem sansara funcionando mesmo"; "alguns de nós que já nem precisariam mais encarnar, mas nós temos a conquista da ressonância límbica"; "você mergulha no sansara de novo sem precisar, mas você mergulha porque precisa fazer por uma questão de consciência sua, não pela necessidade mais do destino a ser cumprido"; "o pior: às vezes, num mergulho desses, você se complica e gera um destino a ser cumprido por você mesmo".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

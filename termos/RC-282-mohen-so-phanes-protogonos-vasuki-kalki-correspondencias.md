@@ -23,6 +23,11 @@ P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e n
 
 - **Mohen So = Phanes/Protogonos (P2025-05-31):** "um ser chamado Moreno [STT], Protogonos, Phanés, constatou que não adiantava [produzir corpos átmicos]... parou-se a produção de novos seres a partir de corpos átmicos" — ligação com RC-623.
 
+
+## Ampliação — P2024-11-30
+
+- **Moron/Phanes/Protogonos (P2024-11-30):** "surgiu um ser chamado Moron [STT 'morrem só'], com a somatória da genética dos três, mas sem lacres, sem travas... sentiu as dores que eles estavam sentindo e disse: 'Vamos parar de criar seres. Coisa só tá piorando'"; propôs: "pegar os nossos códigos podres, jogar para [o universo vizinho sem vida], tentar criar um tipo de vida mais curta... e daqui a gente controla tudo que se passa lá"; "estudou, estudou, estudou. Durante mais de 500 milhões de anos desenvolveu um projeto em que terminou criando um conglomerado de realidades" (Ig Brasil; 8 faixas + nosso = 9); criou os Corpos Fenvã (RC-769).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

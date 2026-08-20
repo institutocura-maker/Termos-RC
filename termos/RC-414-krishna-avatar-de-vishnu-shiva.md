@@ -44,6 +44,12 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Krishna adármico (P2025-02-16):** "Krishna assumiu o controle desse processo e domina a Índia... a Índia hoje pertence a Krishna, como também as duas maiores locas do universo vizinho, a Goloka e a Vaikuntha"; "isso está acabando, porque Krishna, por ter traído o dharma que ele mesmo criou, está se tornando um ser adármico. O ego dele foi direcionado para padrões que o inabilitam na sua pretensão de ser o senhor supremo".
 - **Castas indianas:** "quem nasce na Índia reencarna na Índia... funciona em circuito fechado... as castas vão ter que passar por uma reformulação".
 
+
+## Ampliação — P2024-11-30
+
+- **Krishna (P2024-11-30):** "Krishna surge como o senhor Vishnu para cumprir a promessa feita junto a Jaya e Vijaya [porteiros de Vaikuntha; maldição dos munis]"; "eu sou o senhor supremo... sou a somatória dos três [Brama/Vishnu/Shiva]... e eles três me são devotos"; Bhagavad Gita: "faça isso em meu nome, que nem karma você gera"; Arjuna e os Pândavas × Duryodhana/Kauravas; "Gandhari, a mãe dos [Kauravas], triste porque tinha perdido 100 filhos (o número é literal), se revoltou contra Krishna e soltou uma maldição"; "um belo dia Krishna recebe uma flechada casual e morre. Se ele fosse o Senhor supremo, não poderia receber o curso da maldição nem morrer".
+- **Crítica do autor (quarentena):** "eu percebi maldade em Krishna... eu sinto a vergonha por ti que você deveria sentir"; "Krishna não está à altura do passado dele"; "ele olha para qualquer um de nós como pobres coitados... agem feito carrapatos".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

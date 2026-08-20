@@ -26,6 +26,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **Orumilá e os 256 caminhos (P2025-02-15):** "os 256 caminhos profetizáveis de Orumilá... na revelação de Ifá, ele explica isso aqui: é para quem precisa ter um passado, um dia cumprido no futuro, porque o passado está pendente, então obriga que um tal futuro aconteça para resolvê-lo. Mas esse é o tipo do destino que precisa ser cumprido. Mas se você no presente sempre atua sem gerar fatos que ficam pendentes, você mesmo cria o seu destino. Ele não precisa [estar] já escrito."
 
+
+## Ampliação — P2024-11-30
+
+- **Ifá/odus (P2024-11-30 — pergunta da plateia):** "quando Orumilá e os olodus e molés [STT] começaram a produzir a revelação de Ifá desses 256 [caminhos], a preocupação deles ainda era pros seres deste universo vizinho e pouco pros humanos. Isso iria ser feito através dos odus, mas infelizmente esse plano não foi adiante, porque quando Obatalá traiu Orumilá e lançou o Islã, isso criou um problemaço para o palácio de Alafim, que fica no nível de Ilê"; "Orumilá disse: 'Lá vem outra merda parecida com Ragnarok'... houve uma desmobilização"; o autor: "o que mais esses seres me pedem é para eu atualizar os 256 caminhos", mas não vai conseguir ("obra monumental").
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -22,6 +22,11 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 
 - **Rakshasas (P2025-02-16):** criados por Pulastya; "foram criados para chupar sangue de mamíferos... quando voltavam para lá, a Trimurti analisava"; "se replicaram loucamente, se transformaram em seres extremamente poderosos e roubavam as prendas dos sacrifícios"; a criação dos rakshasas nasce da curiosidade da Trimurti sobre o comportamento dos mamíferos (zelo materno — "tálamo, hipotálamo, hipocampo").
 
+
+## Ampliação — P2024-11-30
+
+- **Rakshasas (P2024-11-30):** "os dois agora tinham que nascer... como rakshasas"; "Hiranyakashipu se transformou em Ravana, o príncipe dos rakshasas"; a guerra do Ramaiana.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

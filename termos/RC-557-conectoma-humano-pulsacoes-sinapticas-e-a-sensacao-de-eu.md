@@ -16,6 +16,11 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 
 - **Neurônio e a sensação de eu (P2025-02-15):** "cada neurônio tem milhares de dendritos, mas só tem uma porta de saída — o axônio. Essa porta de saída produz a sensação no córtex frontal. Por isso a gente pensa que o eu está aí dentro, mas é falso. A internalização de fazer com que um ser humano se confunda com esse corpo é esse truque neuronal: tudo que entra entra facilmente por milhares de dendritos... esse código só consegue processar 2.000 informações por segundo".
 
+
+## Ampliação — P2024-11-30
+
+- **Conectoma (P2024-11-30):** "essa segunda faísca que nos move é o genoma... se você agir no primeiro impulso, são as memórias que recebeu de papai e mamãe e o fluxo da vida"; "quando você aprende a observar e agir no segundo impulso, no impulso mais profundo, aqui você tem livre arbítrio" (ver RC-719).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

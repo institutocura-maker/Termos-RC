@@ -28,6 +28,11 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 
 - **Mentalma (P2025-02-15):** "a importância do diálogo constante interior de você: usar o seu discurso para dizer às suas células o que você quer ser"; "eu estava fazendo um pouco de yoga e me perguntando há quanto tempo eu não crio uma novidade para surpreender os meus RNA mensageiros".
 
+
+## Ampliação — P2024-11-30
+
+- **Mentalma (P2024-11-30 — pergunta da plateia):** "o exercício de, na hora de dormir, me perguntar o que ainda me envergonha"; "eu comecei a observar que vinham informações... que estavam engavetadas, que elas estão vindo à tona"; o padrão vinculado ao odu do jogo de Ifá.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

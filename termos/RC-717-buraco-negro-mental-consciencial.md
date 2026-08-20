@@ -19,6 +19,11 @@ O corpo de Javé teria colapsado em 2021, gerando o primeiro Buraco Negro Mental
 ## Risco de Krishna
 A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida nesta ficha exclusivamente como risco/prognóstico, não como evento consumado.
 
+
+## Ampliação — P2024-11-30
+
+- **Buraco Negro Mental (P2024-11-30):** Einstein (relatividade geral; Prêmio Nobel) e Karl Schwarzschild [STT "Call Schauardes de Child"]; "o buraco negro chupa informação e solta informação no outro universo"; "a informação é que entra em 3D e sai 2D" (leitura — quarentena); a analogia mental/consciencial.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

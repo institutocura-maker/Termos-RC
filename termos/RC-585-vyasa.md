@@ -32,6 +32,12 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
 - **Vyasa (P2025-02-16):** "viveu há cerca de 5.000 anos (4.000 e poucos)"; "teve que compor um nível de explicação para diversas formas de inteligência (gandarvas, iakshas, rakshasas, devas, asuras, pitris, prachetas)"; "fez milhões de versos pros gandarvas... e pros humanos fez uma short version, um resumo de apenas 100.000 versos" (Mahabharata, 10 livros); "os humanos entenderem o que o Mahabharata descreve era o menos importante na lógica de Vyasa".
 
+
+## Ampliação — P2024-11-30
+
+- **Vyasa = encarnação de Moros (P2024-11-30 — destaque M-2):** "os anjos clones de Brahma conseguiram fazer a leitura da genética dos seres híbridos e humanos e disseram: 'Vyasa tem o mesmo código genético de [Moros]'"; "Brama ficou sabendo que Vyasa era uma encarnação híbrida, feito rishi, de Moros"; "Brama matou o irmão de Vyasa num acidente provocado para Vyasa ter relações com as duas esposas do irmão [gerando Pandu e Dhritarashtra → Pândavas e Kauravas]".
+- **As versões do Mahabharata:** "Vyasa escreveu essa versão em diversas línguas para que cada língua pudesse ser entendida pelos seres ou deuses que viviam nas locas"; "através do seu filho Suka, também escreveu uma pequena versão de 100.000 versos pros humanos"; depois se retirou para a floresta de Naimisha (Axis Mundi, "onde tinha caído a seta de Moros") e foi visitado por Narada.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

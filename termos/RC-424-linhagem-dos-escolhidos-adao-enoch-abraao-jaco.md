@@ -29,6 +29,11 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 
 - **Linhagem dos Escolhidos (P2025-02-16 — contexto):** "até hoje estamos vivendo no tal sétimo dia em que Javé faliu definitivamente"; "todos os seus demais herdeiros que o traíram (Krishna) ou que se recusaram a cumprir os desígnios de Javé (Jesus, crucificado)" — o sétimo dia como herança do reino dos nagas transferida aos bramanes/rishis/kshatriyas/arianos/dravidianos (ver RC-697).
 
+
+## Ampliação — P2024-11-30
+
+- **Linhagem dos Escolhidos (P2024-11-30):** "Brama não achava que o melhor sangue humano era aquele de Adão, Sete, Enos, Cainã, Jarede, Enoque, Matusalém, Lamec, Noé, Abraão, Isaque, Jacó? Era. Mas quando Éber..."; "Bharata é um descendente disso aqui"; a disputa das linhagens (hebreus × arianos).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

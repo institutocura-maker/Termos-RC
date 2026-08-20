@@ -38,6 +38,15 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **Criou as três Norns e desapareceu:** "Orlog ficou tão pressionado que resolveu criar três seres: Urd, Verdandi e Skuld" (passado pendente → presente → futuro a cumprir) e sumiu ("os caras da Trimurti estavam atrás").
 - **Enoque recobrou a memória de Moros:** "quando Enoque ressurge como humano, os anjos dizem: esse cara é a planilha que a gente tem do Moros" — a Trimurti percebeu Moros reaparecendo na mente de Metatron.
 
+
+## Ampliação — P2024-11-30
+
+- **A trajetória completa de Moros (P2024-11-30 — destaque M-2):** descobriu um conhecimento que ninguém compreendia; perseguido pelos poderosos do universo vizinho (Caos/Brahma, Tártara/Shiva, Eros/Vishnu); "resolveu esconder o conhecimento e criou cápsulas atemporais... dividiu em três níveis esse conhecimento".
+- **A divisão do conhecimento:** "Moros pegou 25% das informações vivas da sua inteligência, criou um ser; 25% criou outro; 25% criou outro; e ficou com ele só com 25%" — as três Moiras/Nornas (RC-467).
+- **As três setas:** "quando a pressão ficou insuportável, pegou os 25% da sua mente, dividiu em três cápsulas temporais ou atemporais e sumiu com as três... Moros disparou essas três setas atemporais cheias de arquivos com informações vivas"; "depois criou uma outra loca e se escondeu — nunca ninguém voltou a encontrá-lo".
+- **Submetido à própria teia:** "Moros não participava disso. Ele também estava submetido a isso. Ele se submeteu, o código dele estava lá dentro" (RC-658).
+- **"Deus do destino" (epíteto indevido):** "os humanos tascaram indevidamente o nome de deuses em todos esses seres... nenhum chega nem perto de poder ser considerado um deus".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

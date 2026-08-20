@@ -20,6 +20,11 @@ A forma canônica aprovada é:
 ## Contexto / Origem
 Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR]` teria relacionado genoma e necessidades derivadas desse peso. Wyrd organizaria o retorno das informações ao emissor.
 
+
+## Ampliação — P2024-11-30
+
+- **PIA (P2024-11-30):** "Ananké, depois de milhões de anos, conseguiu criar a relação das necessidades típicas daquele tipo de peso inevitável, de podridão ancestral, que cada ser sentia"; a última Moira (Skuld) "iria trabalhar na confecção das possíveis soluções para a necessidade daquele tipo de código podre, o que implicava dizer que o dono desse código, se soubesse do que essa moira sabia, saberia do futuro, já que inevitavelmente aquele eu particularizado seria levado por uma força que o obrigaria a percorrer um caminho existencial de maneira a resolver ou neutralizar as informações vivas que pulsavam dentro dele".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

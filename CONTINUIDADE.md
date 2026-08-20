@@ -675,3 +675,26 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados.
 
 **Estado:** 770 termos · 1.761 relações · RC-771 livre · 407 fichas · 80 obras · **19 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2024-11-30 Morus e os Arquivos do Destino Universal (19/08/2026)
+
+**Re-curadoria** (repassada de palestra já vista). Devolutiva M-1..M-6 do curador (via Assistente): auditoria aprovada; ~25 ampliações aprovadas; **zero códigos novos** (base em 770); M-4: "Morus" = variação do título (canônico Moros/RC-454); apostila autorizada; quarentenas científico/teológico/histórico confirmadas.
+
+### Execução
+- Auditoria RC-714–720 contra o STT integral: **7/7 confirmados** (base madura).
+- **24 fichas ampliadas** (seção "Ampliação — P2024-11-30"): destaques — **trajetória completa de Moros** (perseguição pela Trimurti; divisão 25%×3 Moiras + 25%; 3 setas atemporais; RC-454); **Moros reencarnado como Vyasa** (RC-585); **Três Faíscas da Consciência** (RC-719); **maldição dos munis → Hiranyakashipu→Ravana→Dantavakra** (RC-582); **Wyrd fora da jurisdição da Trimurti/Krishna** (RC-658); **Moron/Phanes/Protogonos** (RC-282); Krishna/Gandhari (RC-414).
+- 1 termo sem ficha (RC-529) → registro na Colecionar Incertezas.
+- **29 relações novas**; 12 campos relacionados enriquecidos.
+- Base: **770 termos · 1.790 relações** (+29) — `OK: 770 termos, 1790 relações — dados válidos.` · RC-771 preservado.
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-MORUS.py`.
+
+### Colecionar Incertezas (itens novos)
+"Morus" (variação do título; canônico Moros); "Ananké" (STT Ank/Nanc); "Moron" (Phanes/Protogonos); "Danta vacra/Chile Chupa" (Dantavakra/Shishupala); "Call Schauardes de Child" (Karl Schwarzschild); "Súdices" (Parcas?); "Planetolândia de Cagen" (Flatland); "Jaya/Vijaia" (Jaya/Vijaya); "Sanata Kumara" (Sanaka Kumara).
+
+### Apostila (20ª do acervo)
+- `apostila.md` (14.300 palavras; 12 PARTES + glossário A–D; **PARTE XI — Perguntas da Plateia e da Internet isoladas** — Bruno 2D/3D, Ivan Krishna/samsara, Ifá/odus, Mentalma; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-11-30_morus_arquivos_destino_universal/`.
+- Índices sincronizados.
+
+**Estado:** 770 termos · 1.790 relações · RC-771 livre · 407 fichas · 80 obras · **20 apostilas concluídas**.

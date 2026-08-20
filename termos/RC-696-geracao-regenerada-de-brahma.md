@@ -37,6 +37,11 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 - **Atri → Rishis:** "seres antimateriais com poderes mentais que fazem votos rígidos de honra" (trincheira genérica; Shiva criou o yoga para eles, não para humanos).
 - **Pulastya →** Rakshasas, macacos, Kinnaras (centauros), Yakshas (espíritos de florestas); **Pulaha →** Sharadas (insetos alados), felinos, Kimpurushas (teriantrópicos leão/homem), ursos e lobos; **Kratu →** Valakhilyas (rishis minúsculos e poderosos) → linhagem de Satyavati → Parashara → Vyasa → Pândavas/Kauravas.
 
+
+## Ampliação — P2024-11-30
+
+- **Geração Regenerada (P2024-11-30):** "na última feição da chamada geração regenerada de Brahma nascem quatro irmãos de Rama"; "Bharata"; "Brahma acreditava, ao longo dos últimos 20.000 anos, que os rishis bramânicos e os kshatriyas dharmicos — os brâmanes e os kshatriyas — iriam dominar a Terra"; "7.000 anos antes de Cristo, era essa a noção".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

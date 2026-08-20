@@ -22,6 +22,11 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 
 - **Faleg interrompe a linhagem (P2024-02-25):** 'um filho de Éber chamado Faleg fez com Javé a mesma coisa que Set havia feito... Deu uma banana.' Com a linhagem hebreia interrompida e a de Cam maldita, restou Jafé — 'Gomer foi o pai dos chamados arianos. Aí Javé... apresentou-se aos arianos com o nome do Senhor Brahma Parameshthi.'
 
+
+## Ampliação — P2024-11-30
+
+- **Faleg/Gomer (P2024-11-30):** "o filho de Éber, Faleg, chegou para Éber e disse: 'Eu não vou honrar Javé do jeito que vocês honram'"; "Javé largou a descendência dos filhos de Noé e procurou Gomer, pai dos arianos, que era neto de Jafé"; "nessa época Javé tinha largado os judeus e hebreus e investiu nos arianos".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

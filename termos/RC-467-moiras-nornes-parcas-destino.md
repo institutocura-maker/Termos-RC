@@ -18,6 +18,14 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - As Moiras/Nornes não têm noção de passado/presente/futuro como os humanos — é o conceito básico de compreensão desses seres.
 - **Absorção M-4 (devolutiva):** Urd/Verdandi/Skuld detalhadas aqui, cruzando firmemente com RC-658 (Wyrd).
 
+
+## Ampliação — P2024-11-30
+
+- **As três Moiras/Nornas (P2024-11-30):** "esses três seres na mitologia grega são chamados de moiras; na nórdica, nornas; na [romana], Parcas"; cada uma com 25% do conhecimento de Moros; "uma especializada em todas as informações vivas que já haviam sido produzidas até o momento (passado); a outra especializada nas informações dali para a frente, sempre no eterno momento presente; e a outra [Skuld] trabalharia na confecção das possíveis soluções para a necessidade daquele tipo de código podre".
+- **"Computadores vivos":** as Moiras como "personificação viva ou computadores vivos... mentalmente manipulando o fluxo das informações vivas no âmbito do que a gente entende hoje como passado, presente e futuro" (eles não têm essa percepção — tudo é eterno agora).
+- **"Mão invisível":** "uma espécie de mão invisível... empurrava cada uma das figuras para um tipo de destino que eles não queriam, mas esse destino era forçado pelas injunções advindas dessas interações entre os circuitos da Wyrd e das três moiras".
+- **Dor volta → perseguição:** "com o tempo, a dor voltou a perturbar todos os seres desse universo. Só um detalhe... todos esses seres foram para cima das moiras, e as moiras não podiam [não tinham o conhecimento de Moros]".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

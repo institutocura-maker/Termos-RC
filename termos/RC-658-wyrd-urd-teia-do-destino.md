@@ -52,6 +52,12 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 
 - **Wyrd como vínculo (P2025-02-15 — destaque C-2):** "o vínculo aqui é que é, entre aspas, a questão da WD — da teia quântica nórdica — ou da rede de Ifá"; as pendências geram "futuro vinculante" (o passado pendente exige futuro a cumprir). [Nota: grafia canônica Wyrd/Urd — RC-658; "WD" é a variação histórica RC-560.]
 
+
+## Ampliação — P2024-11-30
+
+- **O algoritmo puramente organizacional (P2024-11-30 — destaque M-2):** "Morus criou um algoritmo extremamente simples que fez com que a informação que saísse de um ser voltasse para esse mesmo ser, como maneira de organizar um possível progresso para cada um dos seres, senão não haveria base de progresso nenhum".
+- **Fora da jurisdição da Trimurti e de Krishna:** "os três [Caos/Tártara/Eros] estavam submetidos a um processo de destino que foi formulado pelo [Moros], e só ele poderia refazer aquilo"; "aão foi horrível em cima de Moros" (a ira dos três); a Wyrd opera "totalmente fora da jurisdição da Trimurti e de Krishna" (ausência de "justiça divina" — ver RC-559/RC-720).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

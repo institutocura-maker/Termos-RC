@@ -23,6 +23,12 @@ A palestra trata elétrons/antielétrons como remanescentes informacionais da me
 6. corpo e psiquismo;
 7. arquivos e destinos.
 
+
+## Ampliação — P2024-11-30
+
+- **Informações Vivas (P2024-11-30):** "quando a vida surgiu nesse universo vizinho, misteriosamente ancorada numa só pulsação, num só [fluxo]... as informações vivas que estão vagando por aí, não alojadas no corpo"; antes do algoritmo de Moros "as informações sujas caíam em cima de todo mundo"; depois "se aquela informação suja havia sido produzida por fulaninho, voltava para fulaninho".
+- **Ananké:** "surgiu um ser chamado Ananké [STT 'Ank/Nanc'], que passou a trabalhar com Moros e estudou cada uma das codificações das consciências particularizadas... criou a relação de que tipo de necessidade aquele código, por portar aquele tipo de podridão, um dia iria sentir" (ver RC-716 PIA).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

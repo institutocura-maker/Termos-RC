@@ -21,6 +21,11 @@
 
 **Aplicação:** "em nascendo na condição humana, 256 possibilidades eles terão" — todos os seres que precisam resolver pendências um dia nascerão humanos (RC-056 Especiação). O **ifismo** (codificação de Osamaro Ibiere) resgata essas informações (ver RC-655).
 
+
+## Ampliação — P2024-11-30
+
+- **256 Caminhos (P2024-11-30):** o plano de esclarecimento humano dos odus não foi feito; "hoje poderia ser feito, mas nas opções da tragicidade do que eu sou obrigado a trabalhar, isso não vai rolar" (ver RC-655).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

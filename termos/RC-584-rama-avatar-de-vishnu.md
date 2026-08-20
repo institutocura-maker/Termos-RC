@@ -22,6 +22,11 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 
 - **Sinarquia (absorvida na devolutiva):** ordem de reinar na Terra criada por Rama, respeitada pela dinastia dos arcontes; "não conseguiu ir adiante" — destruída pela guerra de Kurukshetra (ver RC-414).
 
+
+## Ampliação — P2024-11-30
+
+- **Rama (P2024-11-30):** "Rama era o rei de Ayodhya — existia a Ayodhya terrena e a Ayodhya do universo vizinho; Rama é o rei das duas"; Bharata (irmão) o substituía no reinado sinárquico; Sita sequestrada por Ravana; a opinião pública de Ayodhya (impureza); o teste de fogo de Sita; Rama e os irmãos fazem um samadhi no rio Sarayu, deixando Bharata como único descendente da linhagem da geração regenerada de Brahma.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

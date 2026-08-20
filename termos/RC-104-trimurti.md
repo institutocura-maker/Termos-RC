@@ -31,6 +31,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **Colapso da Trimurti em 2018 (P2024-02-25):** 'a Trimurti sucumbe, colapsa no ano 2018, para complicar mais ainda o eu e o corpo do Senhor Parameshthi, que colapsa no ano 2021.'
 - **Avatares 'keshava' (STT 'quechava'):** os três seres resolveram criar avatares keshava — 'um avatar produzido por um pedaço do código de vida de Brahma, outro de Vishnu, outro de Shiva... avatar que traz em si o poder mental dos três senhores' — para parar as brigas; 'o processo desandou de vez... porque Krishna provou que era maior que os três'.
 
+
+## Ampliação — P2024-11-30
+
+- **Trimurti na mitologia grega (P2024-11-30):** "surgiu Caos, que é o mesmo que Javé/Brahma; surgiu Tártara, que é Shiva; Eros, que é Vishnu"; a descendência de Eros (Vishnu) e Tártara (Shiva) era grande, a de Brahma pequena; "Brahma chamava Moros e pedia: 'explique melhor as tendências de Eros'... para descobrir a vulnerabilidade dos descendentes"; a perseguição a Moros; "a estupidez clínica chique, charmosa, é a regra de todas as ideias desses seres" (disforia de gênio; o filme "Florence Foster Jenkins" como analogia — quarentena).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

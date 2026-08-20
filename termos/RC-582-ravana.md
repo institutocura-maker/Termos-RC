@@ -27,6 +27,11 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 
 - **Ravana (P2025-02-16):** os Rakshasas (criados por Pulastya) chupavam sangue de mamíferos; "a Trimurti capturava para analisar a comida dos rakshasas (os mamíferos)"; "os rakshasas se tornaram a estirpe mais forte da criação; Ravana, o rei dos Rakshasas, tornou-se o ser mais forte da criação"; os rakshasas roubavam as oferendas dos yajnas → "os deuses produziram Rama para destruir Ravana".
 
+
+## Ampliação — P2024-11-30
+
+- **Ravana e a cadeia encarnatória (P2024-11-30 — destaque M-2):** a maldição dos munis Sanaka Kumara sobre os porteiros Jaya e Vijaya de Vaikuntha: "três nascimentos como demônios"; 1º: Hiranyakashipu e Hiranyaksha (mortos por Narasimha e Varaha, avatares de Vishnu); 2º: renascem como Ravana e Kumbhakarna (mortos por Rama); 3º: Dantavakra e Shishupala [STT "Danta vacra/Chile Chupa/Xupala"] (mortos por Krishna); "os últimos milhões de anos da história da Terra foram por causa da maldição de uma criança" (leitura do autor).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

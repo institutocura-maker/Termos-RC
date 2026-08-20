@@ -24,6 +24,11 @@ A palestra afirma que:
 
 - **Távola Redonda (absorvida na devolutiva):** o Rei Artur como símbolo dos sonhos humanos de viver com dignidade; "um conselho universal, uma távola redonda instalada no paraíso por espíritos humanizados"; consórcio humanos + Sophia — "somos todos sócios e parceiros de um destino".
 
+
+## Ampliação — P2024-11-30
+
+- **Sócios do Destino (P2024-11-30):** "sem milkshake grátis: enquanto essa zorra aqui não se acabar, não tem milkshake grátis" (ver RC-529); "a ausência de justiça divina": a teia como organização pura (RC-658); "só tem sansara funcionando mesmo" (RC-618).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
