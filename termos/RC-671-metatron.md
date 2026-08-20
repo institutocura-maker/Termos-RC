@@ -32,6 +32,11 @@ Forma preferida: Metatron.
 
 - **[P2024-07-14] Metatron e o Tikun (U0795–U0800):** "o tikun cabalístico foi um reconhecimento tácito de Javé com base num trabalho que Metatron, um dos seus anjos, havia feito nos 12, 13.000 anos antes"; "Metatron é só forma antimaterial de um humano chamado Enoque".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23] O corpo especial de Metatron (U0400–U0404; U0417):** "um corpo de metatron eventualmente ligado para conviver com as massas, se desvinculou [das massas]... essas duas coisas horríveis ficaram lá funcionando"; a intenção de Javé com Enoque: "Javé tava se apresentando como controlador da raça humana e a partir desse controle ele iria voltar a organizar toda a retaguarda da sua criação" (U0417); o nome "Metatron" é posterior à época (derivado da linguagem grega — "metra"), conforme pré-curadoria do ciclo (U0400–U0420).
+
 ## Fontes
 P2025-05-31.
 

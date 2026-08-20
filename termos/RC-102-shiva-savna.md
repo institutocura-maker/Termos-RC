@@ -17,6 +17,13 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **Na leitura da Ogdóade (P2023-12-02):** Shiva/Parvati funcionam (reciclagem, entropia, força tamasica, "circuito fechado");
 - Contexto: Shiva entre os seres da Trimurti que disputam com Moros o destino dos seres (RC-454; ver RC-767).
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23] Shiva no sul da Índia (U0280–U0300; U0885):** "há 23.000 anos atrás, quando Shiva começou a se apresentar lá no sul da Índia através de seus avatares, dizendo: 'Eu sou o Deus'" (U0885); "Pashupati foi lá, o senhor Narada foi lá, vários avatares de Shiva" (U0297); "hoje a gente chama isso de tradição [STT 'com mar e candão' — [REVISAR]]" (U0296).
+- **A sexualização dos demos (U0601–U0606):** "os demos nos últimos 7.000 anos estavam iniciando a exploração dessa atividade [sexual]; os demos sempre se procriaram por clonagem assexuada" (U0603–U0604).
+- **"Shiva é quem tem mais poder" (U1188–U1190):** "ele criou monstro para poder derrotar os monstros que outras figuras criaram... tá tendo que desativar os caras" (U1190) [REVISAR — STT].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

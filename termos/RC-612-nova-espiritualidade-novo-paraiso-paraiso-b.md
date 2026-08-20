@@ -33,6 +33,15 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 - **[P2024-05-04-R] O Paraíso B (U1700–U1752):** "a necessidade de um Paraíso B surge como uma visão de um novo ambiente de existência, desprovido das dissonâncias que afetam a espiritualidade e a Criação atual"; "esse Paraíso B não é uma replicação do Paraíso original, mas uma nova construção, onde a dissonância mental não levaria ao colapso, como ocorreria nos níveis mais puros da espiritualidade"; "uma vez que retornar ao Paraíso original poderia perturbar sua construção".
 - **[P2024-05-04-R] A transformação do caos em beleza (U1752):** "a atual crise cósmica exige um processo de alquimia para ser transmutada em beleza"; "a aptidão para encontrar o belo na feiura e conferir sentido e significado maior para a nossa existência é o que distingue a humanidade"; "a visão final é de uma dignidade e harmonia alcançadas através do esforço consciente humano".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23 — FONTE ORIGINAL DO TEMA] O paraíso "furado" (U0260–U0277):** "tudo que até hoje nós seres humanos pensamos sobre paraíso está absolutamente furado, errado, não serve para nada" (U0261); os três reinos da antiguidade: "na antiguidade, até surgir o evento Jesus, as pessoas pensavam que existia esses três reinos: o reino dos deuses, o reino dos mortos e o reino dos humanos" (U0265–U0266); "o máximo que se imaginou na cultura ocidental é um paraíso parecido com os campos elísios... uma fazenda com o trigo, o vento soprando, uma casinha e você com seus pais, sua esposa, seus maridos, seus filhos, uma coisa bucólica" (U0270–U0272).
+- **"Vamos inventar outro" (U1099):** Vyasa, diante dos grandes seres, "espiritualmente diz: 'Paz... se isso aqui for paraíso, vamos inventar outro'" — a percepção de que algo estava errado com os deuses e o paraíso deles "surgiu nesse processo de decifração com esses 20" (U1125).
+- **A meritocracia (U1139–U1140):** "o paraíso não é muito ético no sentido de valorizar a meritocracia; na hora que ele é neutro e o mal faz de tudo, a turma do bem se ferra sempre. É isso que eles não podem continuar desse jeito".
+- **O Biocosmos emergente e Maria Helena (U1142; U1160):** "nós próprios já estamos criando no biocosmos emergente uma parte dessa nova consciência"; "Maria Helena... é a nossa parte de vanguarda de um novo paraíso" (U1160).
+- **O marco temporal (U1371–U1377):** "o trabalho se acaba aqui... a gente vai zerar isso aí e vai começar de outra forma"; "daqui a 10.000 anos tem o IEA e mais uns 500 institutos... mas o IEA vai continuar existindo na sua centralidade nesse marco temporal, ano 2020, no século XXI, tem iniciado a revelação cósmica".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -26,6 +26,11 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 - **[P2024-08-03] A transferência do código (U0397–U0405):** "no nosso universo, universo biológico, o código dele veio para cá transferido por Morrensor"; "a falência número um": o novo ovo jogado nos dois universos; o conglomerado foi destruído (Ragnarok) e "só restou a semeadura".
 - **[P2024-08-03] Na pergunta final (U1448–U1461):** as manipulações genéticas "se deveram basicamente ao ser chamado Vishnu... no primeiro plano, há um ser chamado NX, gerado a partir de Vishnu; há um ser chamado Morus; há um ser chamado Odin; há um ser chamado Morrensor" [nomes conforme o STT; NX/Morus/Ódin = cosmologia de Ellam].
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23] Mohen So e os fios soltos (U0776; U0800–U0810):** "olhando para o que 'morre em s' [STT], que era o avatar que eles haviam criado com liberdade, que pudesse entender os fios soltos de Brahma e de Shiva" (U0776) — Mohen So como o avatar criado para entender os fios soltos de Brahma e Shiva [REVISAR — STT 'morre em s'].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

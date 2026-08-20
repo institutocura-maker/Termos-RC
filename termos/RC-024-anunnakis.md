@@ -30,6 +30,12 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 - **[P2024-07-13] Enlil e Enki (U0580–U0605):** "isso estamos falando 13, 14.000 anos atrás: os Anunnaki que trabalhavam na Terra resolveram transar com as humanas, o que desobedeceu as ordens de Enlil [STT: 'Eni'], que eram Enlil e Enki [STT: 'Elio e Enk'], os dois comandantes Anunnaki, filho de Anu"; "Enlil tinha dado uma ordem que Anunnaki não podia transar com a humana. Aí os Anunnaki transaram, o próprio Enlil depois transou também"; "Javé tomou a decisão de que os Anunnaki não seriam mais a escolha dele... Javé tinha um sonho de fazer dos Anunnaki um representante dele, porque Javé é um ser que tá preso [no universo vizinho]. Ele não vem para cá nunca"; "quando a turma transou com os humanos, Javé deu uma ordem que a Terra não mais iria pertencer aos Anunnaki"; "os Anunnaki terminaram explodindo bomba em cima do Vale do Sidim: as famosas explosões de Sodoma e Gomorra".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23] Os quatro segmentos genéticos (U0435–U0442):** "eu tô falando de religião, não, com o estudo do genoma humano: com o avanço dos estudos de genética foi feito uma pesquisa mundial e a turma que não acreditava em Noé teve que aceitar o fato de que a humanidade é dividida em quatro grandes segmentos genéticos" (U0437); "dos quatro, três são: um Oriente Médio, a África e o [europeu/asiático]" (U0438) [REVISAR — o STT atribui os segmentos de forma confusa (U0435–U0436)]; "a quarta região da Terra é as Américas, que aí não é o DNA de nenhum dos três filhos de Noé" (U0439); "desde o tempo de Adão, Caim foi para lá [as Américas]... toda a descendência da América do Norte, América Central, América do Sul, o DNA vem de Caim, segundo filho de Adão" (U0441–U0442).
+- **Contexto (U0479–U0481):** "a linhagem de Sem sempre lidou com os anjos clones de Javé, não era com seres dentro dos portais; a linhagem de Jafé só lidou com os demos dos portais, foi invadida pelos portais abertos" [REVISAR — STT].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

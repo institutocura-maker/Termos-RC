@@ -33,6 +33,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **Última aposta no ser humano:** 'a última aposta que o tal eu do criador caído tinha ainda balas... para poder semear num ser humano'.
 - **Não soube usar a ressonância humana:** 'não soube aproveitar o fenômeno da ressonância [bôson — REVISAR]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas'.
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23] A aposta Javé×Vishnu (U0280–U0300; U0369):** "Vishnu chegou para Javé e disse: 'Siva já se apresentou aos humanos da terra... ou você domina ou Shiva domina'"; "ou você queima o seu último cartucho" (U0287); "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369); "foi por isso que ele escolheu um Adão e uma Eva" (U0298).
+- **"Desde que ele assassinou Abel, ele deu alinhamento" (U1264–U1265):** Javé "no meio dessa história toda, ele tem um alinhamento. Desde que ele assassinou Abel, ele deu alinhamento".
+- **Javé→arianos como Brahma (U0471–U0475):** "ele escolheu da linhagem dos filhos de Jafé um deles chamado Gomer, que é o ancestral da genética do povo ariano... pegou uma descendência de Gomer e se apresentou ao povo ariano, e o nome Brahma surge aqui. Até então esse ser era conhecido como Javé" (U0471–U0475).
+- **A vingança contra Faleg/Rochester (U0461–U0467):** "o espírito de Rochester... nasceria milênios depois como faraó do Egito, que Javé humilhou na época do êxodo dos hebreus, porque Javé tava se vingando do que Faleg tinha feito com ele" (U0467).
+- **O "big data" (U0404–U0405):** "foi quando eles criaram big data na época para sair pesquisando a assinatura de quanto de espírito... eles chamavam de consciência" [quarentena — metáfora computacional do autor].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

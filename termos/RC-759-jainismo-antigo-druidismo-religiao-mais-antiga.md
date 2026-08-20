@@ -21,6 +21,13 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 - divisões atuais: Shvetambaras (vestidos de branco) × Digambaras (vestidos de vento);
 - convergência com o Método Druídico (RC-755) e a Escola da Decifração da Realidade.
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23 — FONTE ORIGINAL] O método druida (U0732–U0760):** "há poucos mil anos atrás [Vyasa] tentou organizar um grupo para esse grupo retomar aquilo que os druidas tentaram fazer logo após o problema do dilúvio, há cerca de 14.000 anos, quando houve a [quebra]: a crosta terrestre movimentou-se" (U0732–U0734); "os gaélicos... criaram o método Druid em celta. Druid quer dizer busca pela verdade" (U0751–U0752); "eles criaram um instituto para estudar... a verdade" (U0754–U0756); "não era todo e qualquer ser humano que podia buscar a verdade: ele tinha que se submeter ao método druid... para poder se tornar um buscador da verdade" (U0758–U0760).
+- **Tuatha de Danann e milesianos (U0739–U0749):** "a famosa civilização de Tu[r] ou Hiperbórea sucumbiu e os sobreviventes desceram... os chamados Tuatha de Danann desceram pro norte da Irlanda, norte da Escócia" (U0739–U0740); "11.000 anos atrás os milesianos, que era uma tribo que vivia no norte da Espanha... subiram pra Irlanda e se encontraram com os Tuatha" (U0744); "os milesianos foi a primeira etnia totalmente humana que lidou com seres de fora" (U0745); "desse tipo de contato surgiu o que eu chamo de colégio druídico" (U0751).
+- **Vyasa retomando o método (U0772; U0797):** "quando Vyasa estava retomando o alinhamento do padrão que desde o início Moros aplicou para as suas encarnações, ele estava, na verdade, tentando aplicar um método druid entre os mestiços" (U0772); o IEA como continuidade: "a escola de decifração que a gente tá montando para usar o método druid" (U0797).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

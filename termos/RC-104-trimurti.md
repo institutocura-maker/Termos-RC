@@ -41,6 +41,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[P2020-07-11] A falência da Trimurti (U0530–U0540; U0720–U0750):** "os seis seres que compuseram a Ogdóade, os três pares de seres apaixonados, nunca absorveram as circunstâncias evolutivas, nunca criaram circunstâncias evolutivas, falharam"; "a descendência desses seres, à exceção das suas expressões adiágenas, também faliu"; "quando a Trimurti caiu, não teve ninguém; Vishnu disse: vou me desfazer, e se desfez com uma rapidez impressionante; a Trimurti morreu, ficou sem poder, foi desfeita"; "Chiva começou a ir para cima da sua descendência para destruir; Brahma implodiu, ficou um eu ancorado na esfera de ação mental e espiritual (a egrégora criada aqui)".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23 — FONTE ORIGINAL] A metáfora dos fios soltos (U0031–U0067):** o exemplo do poste e dos fios elétricos: "imaginemos um poste cujo fio tem problemas e é cortado e ele fica com todos os fios soltos que deveriam estar ajustados, entrelaçados e dentro do fil[me?]" (U0038); "quando o criador caiu... ele ficou com bilhões de fios soltos e cada um foi seguindo e nunca houve uma corrente educada" (U0042–U0043); "fios soltos: a história morre ali" (U0064); "quando Shiva cria um avatar dele, ele não tem ligação direta por aqui... pega só um desses fiozinhos, e a partir desse fiozinho solto surge o avatar de Shiva, avatar de Vishnu, Brahma" (U0065–U0067).
+- **O drama dos avatares (U0092–U0098):** "Vishnu e Shiva conseguiram criar vários avatares... cada um era mais chique que o outro; sempre eles brigam entre eles, que os diversos egos que o espírito de cada um produziu não disputam entre eles"; "Vishnu já acabou com isso; Shiva ainda não; Brahma nem começou ainda a se resolver, porque Brahma não conseguiu criar [avatares estáveis]" [REVISAR — STT].
+- **A falência e a aposta (U0280–U0300; U0369):** "há cerca de 23.000 anos atrás, diante do episódio Adão, Eva e Javé, Javé tomou a opção desesperada que ele fez na época devido às artimanhas de Shiva e de Vishnu" (U0280); a aposta: "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

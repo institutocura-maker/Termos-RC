@@ -61,6 +61,16 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 
 - **Krishna (P2024-09-29 — contexto):** a astrologia védica de Parashara como critério de comprovação de avatares ("eu sou avatar de Shiva, eu sou avatar de Vishnu — ninguém podia provar nada"); "Jesus teria que nascer dentro desses critérios para que magos da cultura persa, egípcia... pudessem ver nos astros o anúncio de que alguém importante, um avatar divino, nasceria na Terra".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23 — FONTE ORIGINAL] Krishna (STT 'Cristo/Cristva') (U0750–U1050):** "os seres que viviam aqui na terra, seja humano, seja os de fora, se apresentaram como avatar cachava, ou seja, que trazia uma porção da genética de cada um dos três seres [da Trimurti]" (U0876) [REVISAR — 'cachava' no STT]; "e Krishna se apresentou como sendo superior aos três" (U0877); no Bhagavad Gita, "Krishna se apresenta aqui como maior do que os três seres" (U0882).
+- **Comportamento satírico e disfarce (dossiê do ciclo):** Krishna como figura de comportamento satírico/irônico ("disfarce") nos diálogos com Vyasa e Parashara [REVISAR — STT].
+- **Dwarka (U1050–U1056):** "o senhor Krishna morou mais de 10.000 anos em Dwarka, que é uma cidade que hoje tá embaixo da água... muitas cidades estão cobertas porque o mar foi subindo"; "nessa cidade de Dwarka, Krishna uma vez brigou soltando mísseis... existiam cidades que flutuavam na atmosfera também, verdadeiras naves... pertenciam a lokas X, Y, Z, que queria matar Krishna".
+- **A morte por flechada (U1094–U1097):** "eu ainda não sei se eu desfarei ou se terei que morrer... e ele morreu por uma flechada acidental" (U1096–U1097).
+- **Os Pandavas (U0878–U0881):** "quando Vyasa conta no Mahabharata a conversa de Krishna com Arjuna: Arjuna não queria ir pra guerra com seus primos, e Krishna basicamente o obriga a ir, no sentido de que o motiva filosoficamente... 'se ele fosse pra guerra sem ódio, matasse, porque o dharma teria que liquidar o mal pro bem sobreviver'".
+- **Vyasa e Krishna (U1083–U1093):** "quando Vyasa conversando com Krishna, que era o maior ser que ele já tinha visto... 'o poder que eu tenho dele trago em mim: a essência de Brahma, a razão de Vishnu e a força de Shiva'" (U1093).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -26,6 +26,14 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **"Mão invisível":** "uma espécie de mão invisível... empurrava cada uma das figuras para um tipo de destino que eles não queriam, mas esse destino era forçado pelas injunções advindas dessas interações entre os circuitos da Wyrd e das três moiras".
 - **Dor volta → perseguição:** "com o tempo, a dor voltou a perturbar todos os seres desse universo. Só um detalhe... todos esses seres foram para cima das moiras, e as moiras não podiam [não tinham o conhecimento de Moros]".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23 — FONTE ORIGINAL] As Moiras/Nornes como herdeiras dos fios soltos (U0075–U0120):** "quando Moros percebeu o tamanho dessa confusão... ele sumiu, mas ele gerou três seres que não são mulheres, como as mitologias falam" (U0076–U0077); "essas moiras sob a perspectiva da mitologia grega ou as nornes da mitologia nórdica não deveriam ter sido tratados como seres femininos ou masculinos, porque não tem isso" (U0077–U0078); "esses três seres que hoje se entendem como sendo as moiras ou as nornes... são os herdeiros dos fios soltos dos três seres da Trimurti, que Moros estudou cada fio solto desses, passou a equação zero, ou seja, pode misturar esses fios soltos que não vai dar em nada" (U0079–U0080).
+- **O "computador/GPS" (U0081–U0083):** "elas funcionam como espécie de um computador que tem essas informações todas e como todos os demais seres que existem nessa criação, mesmo um mosquito, um coelho, um jacaré, um pássaro, qualquer DNA desse é descendente de um desses fios soltos"; "recebendo as informações da assinatura quântica do DNA desses seres, a exemplo de um GPS que recebe as coordenadas, elas conseguem dar um sentido de localização para esses seres que não têm essa sequência lógica facilmente reconhecível pelos seus empacotamentos sobre a forma de personalidade transitórias".
+- **Não encarnam (U1354):** "essas moiras não têm como encarnar nem a pau" — resposta à pergunta final da plateia.
+- **Frigga (Aran) e o limite do trabalho (U1363–U1369):** "as nornes ou as moiras elas não conseguiam tecer direito... foi Frigga [STT 'Friga/fragil'] que ajudou esse processo para as nornes tecerem essa questão... isso aqui era até as três setas de Moros se consumarem"; "Frigga, também conhecida como Aran [STT 'Aranque'], Aran na mitologia grega e Frigga na mitologia nórdica" (U1363–U1368) [REVISAR — grafia do STT].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

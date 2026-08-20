@@ -43,6 +43,17 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
 - **Parashara e a astrologia védica (P2024-09-29 — destaque O-2):** "Parashara, pai de Krishna Dvaipayana, Vyasa, lá atrás escreveu um livro — o primeiro livro sobre astrologia védica — porque há 7, 8.000 anos apareciam as figuras dizendo: 'Eu sou avatar de Shiva, eu sou avatar de Vishnu', e ninguém podia provar nada. Então, Parashara escreveu um livro com critérios astronômicos para comprovar se tal figura era avatar ou não"; "os gregos traduziram o livro de Parashara sobre astrologia védica".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23 — FONTE ORIGINAL] A genealogia e o papel de Vyasa (U0525–U0650; U0750–U0850):** filho de Parashara e neto de Enoque (Apantaratamas): "Viaza foi neto de um ser chamado Apantaratamas... é Enoque. Apenas o nome de Enoque conhecido na tradição védica" (U0525–U0529); "Parashara foi um gênio, ou seja, o pai de Vyasa, o filho de Enoque... esse Parashara foi o filho gerado numa demo, que produziu um ser híbrido Parashara altamente intelectualizado" (U0538–U0540); "o nome dele era Krishna Viaza" no STT (U0610; tradição: Krishna Dvaipayana).
+- **O divisor de águas (U0614–U0616):** "é uma figura central na devoção da maioria das tradições hinduístas... porque ele foi um divisor de águas" — a partir dele e de Parashara a astrologia védica (Jyotisha) estabeleceu "critérios para provar quem era quem" entre os avatares (U0616–U0618).
+- **O grupo de 20 (U0704–U0719; U0844):** "na época de Vyasa, Vyasa teve a ideia de criar um grupo de aproximadamente 20 pessoas" para "criar uma interpretação dos eventos, do que estava acontecendo aqui na Terra"; "isso começou com quase 250 figuras, terminou em 21" (U0844); foi descartando os "hiperbórios influenciáveis" e os "superdemos considerados avatares da época... porque eram mais autoritários do que propriamente sábios" (U0710–U0717).
+- **A Escola de Decifração e o IEA (U0797–U0798; U0818–U0820):** "os espíritos do grupo de 20 pessoas ao tempo de Vyasa tem tudo a ver com IEA e a escola de decifração que a gente tá montando para usar o método druíd, porque nós nascemos nessa vida para dar continuidade ao que Vyasa fez. Não é o que Enoque fez, não é o que Kardec fez, é o que Vyasa fez"; "essa escola de decifração é o sonho de todo esse processo" (U0820).
+- **Vyasa e a espiritualidade oriental (U1111):** "Vyasa criou na espiritualidade oriental institutos de busca e de decifração que hoje dão guarida ao nosso, que é no Nepal, no Tibeto".
+- **Relato pessoal de Ellam (U1057; U1153):** "tô falando aqui do espírito que me anima"; "o espírito que me anima ter sido Vyasa, eu já sabia desde a primeira vez que eu vivi pra [esta vida]... faz muito tempo" — o espírito que anima Jan Val Ellam foi Vyasa (relato do autor; Colecionar Incertezas).
+- **Obras (U0631–U0635):** escreveu o Vishnu Purana ("que depois foi atualizado pelo filho dele"), "os Vedas, os quatro famosos... participou muito dos versos do primeiro e deixou indicativo dos outros"; "essa foi a primeira grande revelação pós-[dilúvio]".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -41,6 +41,11 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 
 - **[P2020-07-11 — FONTE ORIGINAL] Fatiar a consciência (U0240–U0260; U0810–U0825):** "quando você projetava de si e quando você criava de si, isso chama-se fatiar a consciência"; "alguns não fizeram, alguns mergulhavam, mas não fateavam sua consciência; outros permaneciam no lado superior e fateavam a consciência, e depois eram obrigados a mergulhar para resolver um ajustezinho"; a diferença entre criado, projetado e mergulhado (pergunta da plateia): "criado = um filho que tem nome próprio, relação de filiação; projetado = um outro meu eu, uma outra parte de mim, que eu pretendo usar para experienciar o que eu aqui não posso, mas que de repente já não me obedece, ainda que eu receba os eflúvios; mergulhado = quando você transfere a sede da sua consciência e sai de um contexto e aparece no outro"; "se existem 10 seres na condição adiátima, esses 10 seres podem representar 10 espíritos na condição adiágia, ou só cinco, porque um ser pode projetar e mergulhar".
 
+
+## Ampliação — P2021-01-23
+
+- **[P2021-01-23] Os fios soltos como herança truncada (U0031–U0067):** a metáfora do poste e dos fios: "quando o criador caiu... ele ficou com bilhões de fios soltos e cada um foi seguindo e nunca houve uma corrente educada" (U0042–U0043); "fios soltos: a história morre ali" (U0064); "quando Shiva cria um avatar dele, ele não tem ligação direta por aqui... pega só um desses fiozinhos, e a partir desse fiozinho solto surge o avatar de Shiva, avatar de Vishnu, Brahma" (U0065–U0067); Moros como o único que estudou e equacionou os fios (U0057–U0058) — os avatares da Trimurti nascem de um "fiozinho solto" da consciência fatiada do criador; "se existem fios soltos, a história morre ali" — o fatiamento de consciência como origem da herança informacional truncada.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
