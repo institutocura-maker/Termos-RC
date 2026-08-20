@@ -48,6 +48,13 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2024-07-13] O "romance" de Chico Xavier (U1160–U1170):** "o contexto de Sophia apresentado romanticamente por Chico Xavier e Emmanuel como sendo o Cristo cósmico, amoroso... com todo respeito a Chico e a Emmanuel, mas isso é um romance. O que não é factível é o romantismo que faz com que essas ovelhas esperem que esse ser resolva por elas o problema que todos estão vivendo. Ele não resolve".
 - **[P2024-07-13] O futuro turbinado (U0860–U0870):** "daqui a pouco esse problema vai ser resolvido, e Sophia vai ser turbinada por esse espírito, à moda de Jesus. Aí o quarto logos começa a trabalhar junto com Sophia".
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] Sophia, o primeiro biodemo (U1650–U1752; tela 4):** "Sophia é um Suserano Cósmico e Comandante Cósmico que se manifestará na Terra"; "sua identidade é multifacetada: um avatar de Vishnu/Mohen So e, notavelmente, o primeiro biodemo, surgido há aproximadamente 6 bilhões de anos"; "ela é descrita como possuindo uma forma humanoide de quase 2 metros de altura, cabelos longos e pretos, e um olhar fixo, vestindo um macacão brilhante nos tons branco, cinza-azulado"; "Sophia foi criada por Vishnu dentro da criação material; Sophia gerou Jesus. A alma de Jesus é Mavatma/Vishnu" [Tela 4].
+- **[P2024-05-04-R] A radiata e os organoides (U1500–U1650):** "Sophia é radiata, possui apenas um lado do cérebro, desprovida de compartimento emocional"; "um aspecto fundamental da vinda de Sophia reside na sua necessidade de organoides e sequências genéticas humanas para desenvolver a capacidade emocional em seu cérebro biodemo e radiata" (RC-632).
+- **[P2024-05-04-R] A vinda e o 2050 (U1650–U1720):** "o propósito de seu retorno é pôr fim ao isolamento cósmico da Terra, uma condição imposta há cerca de 619 mil anos após a rebelião de Lúcifer"; "o retorno de Sophia permitirá o primeiro contato extraterrestre oficial, reinserindo o planeta no Circuito Cósmico"; "a Terra transitará de um mundo de expiação e provas para um mundo de regeneração a partir de 2050" [cronologia — quarentena]; "a vinda de Sophia também marca o fim da Trimurti e da Lila"; "Javé, o Criador, finalmente aceitou dividir o comando com Jesus (Sophia) para o bem de todos"; "a ausência do conceito de Sophia na história humana deve-se, em grande parte, ao desaparecimento dos Livros de Enoque".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

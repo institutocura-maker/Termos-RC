@@ -16,6 +16,13 @@ A palestra cria explicitamente o neologismo e o aplica à queda de Prabrajna, ao
 ## Etimologia / Grafias
 - Inclui como subtermos: vínculo indissolúvel criador–criação; compasso/descompasso; reversibilidade genética e cocriadora.
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R (versão refatorada)] A definição operacional (U0001–U0300; telas 1–5):** vínculo energético vibratório de retroalimentação permanente entre o Criador e a Criação; "o que sai volta"; pulsação em permanente cobrança sobre a consciência criadora; analogia da mãe e do filho (a separação física é uma ilusão — "tudo é um só"); "a realidade perceptível é um Maia"; colapso de Javé por falha na retroalimentação; "a alma que sustentava Javé, a alma de Mavatma (que também é a alma do nosso Mestre Jesus), começou a colapsar".
+- **[P2024-05-04-R] Kant e a simultaneidade (U1200–U1300):** "a concepção de Kant, em sua Crítica da Razão Pura, de que, para certas sensações se referirem a algo exterior, a representação do espaço já deve estar subjacente no genoma e na mente do ser humano. Isso implica que o universo sensorial, de fato, não existe lá fora, mas no código neuronal de cada ser vivo" [leitura do autor].
+- **[P2024-05-04-R] A não-linearidade (U0200–U0250):** "eventos como a atuação do Terceiro e Quarto Logos e a subsequente Rebelião dos Elétrons ocorrem em momentos distintos da linha do tempo cósmica. No entanto, para a percepção humana, estes eventos podem ser experienciados em uma ordem não-linear, onde os efeitos podem ser percebidos antes de suas causas mais profundas, criando uma aparente simultaneidade".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

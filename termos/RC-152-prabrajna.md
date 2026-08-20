@@ -39,6 +39,12 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **Prabrajna (P2024-09-29 — pergunta da plateia):** "se ele se deu o trabalho de criar todos esses males ou se veio no pacote... ele acabou caindo na criação e assimilando todos os males que ele tinha criado"; "a arte da reconstrução de algo podre — já que ele se tornou [podre] — é uma arte formidável, porque é impressionante o que ele fez. Mas mesmo assim ele não conseguia se manter funcionando muito tempo."
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] A projeção sem alma (telas 1–5):** "Prabrajna não tem a camada A (alma) dentro de si: ele é uma projeção sustentada à distância" [descrição da Tela 1]; "Prabrajna não existe mais no nível laboratorial. O que existe é só o resto da antiga condição Adhyatman dele, e esse resto aqui é sustentado pela alma de Mavatma"; "o resto desse ser existe em um loop mental tipo pesadelo" (Tela 2); "nos últimos 2 bilhões de anos, o resto da antiga condição Adhyatman de Prabrajna ficou ancorado no seu corpo búdico projetado" — a degradação a "zumbi" (Tela 3); "após o colapso de Javé, restam apenas vestígios: restos de Javé em vexame" (Tela 5).
+- **[P2024-05-04-R] "A mãe de Javé" (U1700–U1752):** "o palestrante metaforicamente compara a humanidade à mãe de Javé, capaz de gerar o leitezinho necessário em nosso genoma para que ele seja ressuscitado e nasça de novo"; "a reconstrução dos eus originais de Mavatma e Prabrajna, que não mais existem, é uma tarefa que cabe aos seres que estão em pleno inferno (neste universo)"; "esse eu de Javé, atualmente parasitário no universo antimaterial, precisaria ser transferido para um novo corpo, que seria um híbrido biodemo-humano neste universo material".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

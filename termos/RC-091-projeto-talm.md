@@ -32,6 +32,13 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 - **[P2024-08-03] A semeadura (U0436–U0444):** "isso foi resultado da semeadura do projeto Talm do nosso amigo Morrensor, que mandou do universo vizinho de lá esse código para cá"; a "primeira molécula mãe" na Terra (3,8 bilhões de anos); o código aprendeu a se replicar — "uma célula com esse código aprendia a construir uma cópia do código... isso chama-se reprodução assexuada"; 3 bilhões de anos de vida unicelular; ~540 milhões de anos atrás surgiram os primeiros pluricelulares — "ninguém sabe de onde veio, porque não tem os fósseis de transição".
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] A gênese do Projeto Talm (U1200–U1400):** "com a falência da vida no universo antimaterial (Brahmaloka), que se formou de maneira improvisada e é descrito como bichado, infectado e apodrecido, os seres extrafísicos perceberam que haviam falhado em criar seres que pudessem evoluir"; "o universo paralelo é caracterizado por um caos crescente e ausência de reorganização negentrópica, levando-o à falência e eventual implosão em algumas centenas de milhões de anos"; "a Trimurti formulou e implementou o Projeto Talm, iniciado há aproximadamente 7,7 bilhões de anos, visando transferir o código de vida do Criador caído do Brahmaloka para o universo material e biológico (Bhuloka)"; "Mohen So, um avatar Keshava de Vishnu e o Desperto ou Único a saber, recomendou parar a replicação demo, pois as combinações dos códigos-fonte (CFDs) dos três senhores só pioravam os problemas".
+- **[P2024-05-04-R] Os fornos replicadores (U1300–U1450):** "para a semeadura da vida biológica, três Fornos Replicadores foram descritos: Awaylengan (de Shiva), Awaymaion (de Vishnu) e Awayen (de Brahma)"; "essas estruturas cósmicas, também chamadas de laboratórios dimensionais ou naves/estações gigantescas, foram responsáveis por projetar e semear diversas espécies"; "Javé/Brahma, em sua condição caída, não conseguiu criar seus próprios Fenvans ou ter avatares como os outros, passando a escolher humanos para representá-lo"; "a operacionalização começou com o surgimento da terceira geração de estrelas, permitindo a produção de elementos químicos mais pesados (ferro, níquel, carbono)".
+- **[P2024-05-04-R] O objetivo final (U1400–U1500):** "o Projeto Talm busca transformar o nidana (estado atual de doença do Criador) em saccidanandhagana (equipe de agentes da vida conscientes e bem-aventurados), mas essa bem-aventurança só poderá ser alcançada quando o problema da podridão de Brahma for resolvido".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -18,6 +18,11 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYP
 - **Variações:** Adhy-Mavatana; Mavatna (forma usada no corpus); Vishnu (expressão Adhydaiva)
 - **Origem:** composto RC (Adhy + Mavatna)
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] ADHYMAVATANA e a tela 4 (telas 1–5):** "Vishnu e Mavatma são o mesmo ser (o que mergulhou com tudo), e o espírito que anima Jesus é essa mesma alma" [descrição da Tela 4]; "Mavatma, que mergulhou conscientemente com alma e tudo, ficou preso sustentando o resíduo de Prabrajna. Sua ADHYAGIA perdeu o Eu consciente, vivendo em loop noturno"; "a condição Adhyagia de Mavatma, depois da queda, ficou com uma porção espiritual vibrante, mas sem um Eu consciente. O resto desse ser existe em um loop mental tipo pesadelo" (Tela 2); "nos últimos 2 bilhões de anos, a condição Adhyagia de Mavatma ficou intocada, mas esgotada por sustentar a parte projetada zumbi" (Tela 3); "após o colapso de Javé, a ADHYAGIA aparece agora à moda de Jesus — prejudicada" (Tela 5).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

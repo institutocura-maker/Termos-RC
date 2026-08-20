@@ -1,0 +1,28 @@
+{
+  "sha256_original": "cee4ef97c351f91a455ec04e54e8702e9e5f5fb475df1b9acfbe888541fdd596",
+  "bytes_original": 368728,
+  "pages": 38,
+  "words_text": 14538,
+  "figuras_extraidas": 5,
+  "layers": {
+    "camada-0.txt": {
+      "words": 0,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "words": 10,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "words": 17,
+      "lines": 4
+    },
+    "camada-3.txt": {
+      "words": 14538,
+      "lines": 1421
+    }
+  },
+  "analytic_units": 1752,
+  "source_status": "VERSÃO REFATORADA (PDF; 38 págs; autor do documento: Edson Cella Mendes) — texto estruturado em 7 capítulos, NÃO é a fala literal; 5 capturas de tela extraídas e descritas pelo curador; Capítulo 1 em 2 versões (V1 e V2-com-slides); sem perguntas de plateia",
+  "nota": "RE-CURADORIA DA VERSÃO REFATORADA: base já contém RC-628–RC-642 (15 termos, todos com ficha) — ciclo de auditoria/ampliação/apostila, sem consumo de códigos salvo decisão do curador"
+}

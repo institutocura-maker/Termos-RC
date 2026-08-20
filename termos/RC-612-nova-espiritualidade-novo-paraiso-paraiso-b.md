@@ -27,6 +27,12 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 
 - **[P2024-07-14] O futuro colegiado (U0540–U0590):** "não existem colegiados de consciências dignificadas ainda. Nós precisamos criar o primeiro... ainda não somos nem 10. Mas daqui a pouco vai ser 20, 30, 50. E assim, nós temos 18.000 anos para fazer isso, se sobrevivermos enquanto experiência biológica"; "tudo que existe nesse sentido é um pequeno grupo de espíritos lúcidos que finalmente estão conseguindo compor uma equipe de seres esclarecidos via os seus eus humanos, que doravante irão trabalhar em diversas esferas para construir, atingir este fim"; "para além disso, existe ainda o colegiado paradisíaco, que não se mistura também com aqueles outros, dos tais seres puros, distribuídos pelos seus três principais níveis de expressão" (paradisíaco imutável; operacional e laboratorial mutáveis — "a revolução começou nesses dois níveis").
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] O Paraíso B (U1700–U1752):** "a necessidade de um Paraíso B surge como uma visão de um novo ambiente de existência, desprovido das dissonâncias que afetam a espiritualidade e a Criação atual"; "esse Paraíso B não é uma replicação do Paraíso original, mas uma nova construção, onde a dissonância mental não levaria ao colapso, como ocorreria nos níveis mais puros da espiritualidade"; "uma vez que retornar ao Paraíso original poderia perturbar sua construção".
+- **[P2024-05-04-R] A transformação do caos em beleza (U1752):** "a atual crise cósmica exige um processo de alquimia para ser transmutada em beleza"; "a aptidão para encontrar o belo na feiura e conferir sentido e significado maior para a nossa existência é o que distingue a humanidade"; "a visão final é de uma dignidade e harmonia alcançadas através do esforço consciente humano".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

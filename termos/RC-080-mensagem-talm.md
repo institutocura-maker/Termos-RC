@@ -19,6 +19,12 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - **Livro citado:** Ellam diz que conta essa história "no livro Sinal de Lel/Lzen" — curador determinou: registrar provisoriamente como a obra **"O Sinal de Lemur"** (`[REVISAR]` título com o áudio);
 - Relaciona-se à consciência humana como única capaz de decifrar a mensagem (RC-761).
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] A carta codificada (U1400–U1500):** "uma parte crucial do Projeto Talm foi a criação da Mensagem Talm, uma carta codificada composta de cinco partes, enviada pelos Fenvans do universo antimaterial para o oceano vibratório do nosso universo. A esperança era que, no futuro, os próprios autores pudessem encontrá-la e decifrá-la, como uma mensagem dentro de uma garrafa e solta no mar"; "essa mensagem, que recua no tempo para mais de 7,8 bilhões de anos atrás, alude à transmigração do código genético do criador para sua formatação biológica em nosso universo".
+- **[P2024-05-04-R] A decifração (U1450–U1550):** "foi descoberta por Yel Lupon, um biodemo da Família Yel dimensionado em Shamb-Aha, que conseguiu ler algumas partes, embora sem a plena compreensão na época, e as repassou para os biodemos de Alt'Lam Gron, que as guardaram no Processador Val"; "a Mensagem Talm só foi plenamente compreendida nos tempos atuais pelos humanos da Terra, devido ao cérebro bilatério do Homo sapiens e à sua singular aptidão para indagar, buscar respostas e ressignificar a realidade (Dasein de Heidegger)"; "a própria mensagem conclui que 'Seremos nós recebendo, de nós mesmos, o que agora transmitimos', uma promessa de Mohen So".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

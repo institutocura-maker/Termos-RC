@@ -1,17 +1,17 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (ciclo P2024-07-13 — re-curadoria + apostila)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **25 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `a24dadb` (antes do ciclo P2024-07-13 re-curadoria).
+**Data de sincronização:** 2026-08-20 (ciclo P2024-05-04 — versão refatorada + apostila)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **26 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `f0e6bb6` (antes do ciclo P2024-05-04-R).
 
-**Última atualização (2026-08-20) — Ciclo P2024-07-13 (Reintegração Cósmica — Tempos de Ruptura) RE-CURADORIA concluída com devolutiva do curador:**
-- **0 códigos novos** (base blindada em 770; RC-771 preservado) — 24.840 palavras (1.664 unidades) absorvidas sem inflar a ontologia;
-- **Auditoria RC-003 + ~50 termos com fonte `P2024-07-13` — TODOS CONFIRMADOS** contra o STT integral;
-- **25 fichas ampliadas** (quarentena dos 19 mundos/Outland/Terra como último bastião; vinda de Sophia/Mahdi/Messias/Kalki/Malkuth; transfiguração/Apocalipse/WTC=Babilônia; lacres rompidos por Pandora/Eva; Nefilins/Anunnaki/Enlil-Enki; Belial/Hades/Bartolomeu; transumanismo/sílica/especiação; sistema colmeia; Taitiriya Panchado; orixás como única religião persistente);
-- **RC-002 Rebelião de Lúcifer AMPLIADA (O-7)** — pandemia virótica (200 bi; ~700 mil anos), 19 mundos, quarentena progressiva, Outland, Terra como último bastião; variantes cronológicas mantidas em Colecionar Incertezas;
-- **Obra B081 CADASTRADA (O-6)** — "Sophia, os Arcontes e a Disputa pela Suzerania Universal" (~2023; citada U0711); grafia canônica Sophia; 81 obras na BIBLIO;
-- **Ampliações retidas (termos sem ficha física — padrão):** RC-258 Coreografia Cósmica (vinda de Sophia) — conteúdo registrado na Colecionar Incertezas com U####; aguarda autorização para criação de ficha em ciclo futuro (os demais 24 alvos tinham ficha e foram ampliados);
-- **Apostila integral concluída — 13 PARTES (18.897 palavras)**; intervalo de 15 min marcado (U0906/U1031); plateia isolada (intercaladas: Franklin/Maria Helena/Eduardo/Carla + finais); glossário local A–D; DOCX em CONCLUIDAS;
-- Quarentenas confirmadas (ufológica crítica — contato iminente/Nova Jerusalém-nave/"cobra caindo do céu"/WTC=Babilônia; clínica — autismo 90%+/homoafetividade/Alzheimer/oxitocina; teológica — "Deus nunca ajudou ninguém"/"majestosa inutilidade"/Bartolomeu; política — contrainformação/bula da alfabetização/macroforças);
+**Última atualização (2026-08-20) — Ciclo P2024-05-04 (Prabrajna em Perpérion — Simultaneidade Reversa) RE-CURADORIA DA VERSÃO REFATORADA, concluída com devolutiva do curador:**
+- **0 códigos novos** (base blindada em 770; RC-771 preservado) — material refatorado (PDF 38 págs., 14.538 palavras, 1.752 unidades) absorvido sem inflar a ontologia;
+- **Primeiro ciclo com material em PDF refatorado** (não transcrição): documento de curadoria/estudo de Edson Cella Mendes, com **5 capturas de tela** extraídas e **descritas pelo curador** (telas: Situação Anterior à Queda; Depois da Queda até ~8 bi; Últimos 2 bi; Contexto da Queda; Atual após colapso de Javé);
+- **Auditoria RC-628–642 + termos com fonte `P2024-05-04` — TODOS CONFIRMADOS** contra o texto refatorado e as 5 telas; as telas corroboram e aprofundam (Adhyatman Real × Projetado; Mavatma = Vishnu; alma de Jesus = Mavatma; "zumbi" de Prabrajna; ADHYAGIA "esgotada"/"à moda de Jesus – prejudicada"; "restos de Javé – vexame");
+- **13 fichas ampliadas** (RC-628/629/087/152/009/091/080/638/612/631/455/408/409) com qualificador de fonte `P2024-05-04-R`;
+- **Apostila integral concluída — 12 PARTES (10.941 palavras)**; base = Capítulo 1 V2 + trechos exclusivos da V1; **5 figuras embutidas no DOCX** (pós-processador python-docx); sem plateia (material sem transcrição);
+- **Ampliações retidas (termos sem ficha física — padrão):** RC-013 Adhyatman, RC-014 Adhydaiva, RC-135 Vishnu, RC-163 Mente Universal, RC-343 Planeta Azul, RC-499 Fornos, RC-542 Ex-DNA-lixo, RC-019 Anjos clones, RC-156 Era da Solidão, RC-075 Lila, RC-035 Bilatérios → registradas na Colecionar Incertezas; **O-7 aprovou aguardar autorização** para Teurgia, Saccidanandhagana, Discurso Interior, Sanscaras, Kapila, Campos Morfogenéticos;
+- Quarentenas confirmadas (teológica crítica; filosófico-científica — Kant/Heidegger/DNA-lixo/3–5%; cronológica — 742/687/619 mil e 2050; política — Sai Baba);
+- **Nenhuma obra nova** (o PDF refatorado é material de aluno/curador — não entra na BIBLIO);
 - Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados (415 fichas-resumo; 81 obras); pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
@@ -101,6 +101,15 @@ A primeira devolutiva da live *Estagiários do Kaos* foi incorporada parcialment
 - Paraíso B mesclado em RC-612;
 - apostila integral produzida a partir do PDF de 39 páginas;
 - cobertura verificada de 1234/1234 unidades.
+
+### Re-curadoria da VERSÃO REFATORADA (devolutiva 2026-08-20) — APROVADA
+
+- 0 códigos novos (770 termos; RC-771 preservado); auditoria RC-628–642 + termos confirmada contra o texto refatorado e as 5 telas;
+- 13 fichas ampliadas via `_ampliacoes_2024-05-04-R.txt` (qualificador `P2024-05-04-R`; scripts arquivados em `analise/`);
+- **as 5 telas** (extraídas do PDF; descrições do curador) corroboram: Adhyatman Real × Projetado; Mavatma = Vishnu (alma de Jesus); "zumbi" de Prabrajna; ADHYAGIA "esgotada"/"à moda de Jesus – prejudicada"; "restos de Javé – vexame";
+- apostila refatorada em 12 PARTES (10.941 palavras; base V2 + trechos V1; **5 figuras embutidas no DOCX**; sem plateia);
+- **Colecionar Incertezas (novos):** "147 Adhy em Perpérion"; "43 Pashvnaj ≈ 20 e poucas almas"; "3.500+ universos de Perpérion"; "os outros 146 vieram resgatar e se lascaram"; "a queda não foi premeditada — foi empurrado"; "Kant: universo sensorial não existe lá fora"; "cérebro bilatério ~4 bi anos"; "3–5% da doença de Javé no DNA"; "90% DNA-lixo"; "mundo de regeneração 2050"; "Yel Luzbel retirado no marco zero de Jesus e Apolônio (1993)"; "Antares prestes a explodir"; "Livros de Enoque desaparecidos"; "Teurgia"; "Saccidanandhagana"; "Discurso Interior"; "Sanscaras"; "Dasein (Heidegger)";
+- **Ampliações retidas (sem ficha física — padrão):** RC-013/014/135/163/343/499/542/019/156/075/035 → aguardam autorização para criação de ficha em ciclo futuro (conforme O-7).
 
 ## Curadoria P2025-03-15 — Rebelião dos Elétrons
 

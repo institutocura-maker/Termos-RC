@@ -17,6 +17,11 @@ O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pa
 - Grafia preferida: Pashvnaj. Variações de STT: vinage, fa vinagem, pasivagem. Grafia ainda deve ser conferida em áudio/obra primária.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] Os Pashvnaj detalhados (U0300–U0450; telas 1–4):** "147 consciências particularizadas de um tipo de expressão que Krishna, no Bhagavad Gita, chamou de Adhyatman ou seres Adhy. Dentre esses, 43 seres compunham uma espécie à parte, conhecida como Pashvnaj, que viviam ativamente interligados e em constante coexistência, como individualidades unidas em corrente"; "esses 43 Pashvnaj não correspondiam a 43 espíritos, mas sim a cerca de vinte e poucas almas, pois muitos eram projeções de si mesmos"; "entre esses Pashvnaj estavam Adish Prabrajna, Adish Mavatma e Adish Savna, que se manifestariam posteriormente como Brahma, Vishnu e Shiva, respectivamente, na Trimurti".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

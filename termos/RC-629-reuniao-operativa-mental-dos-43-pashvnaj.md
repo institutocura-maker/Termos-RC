@@ -16,6 +16,12 @@ A fala descreve um circuito interno de 14 e uma corrente secundária; esse detal
 ## Etimologia / Grafias
 - Grafia: Reunião Operativa Mental dos 43 Pashvnaj. Subtermo: Circuito dos 14.
 
+
+## Ampliação — P2024-05-04-R
+
+- **[P2024-05-04-R] Os 43 Pashvnaj (U0300–U0450; telas 1–4):** "um grupo de 147 consciências, denominadas seres Adhy, residia em Perpérion"; "43 seres compunham uma família específica, os Pashvnaj, que atuavam ativamente interligados em uma vivência coletiva"; "esses 43 Pashvnaj não correspondiam a 43 espíritos, mas sim a cerca de vinte e poucas almas, pois muitos eram projeções de si mesmos"; "entre esses Pashvnaj estavam Adish Prabrajna, Adish Mavatma e Adish Savna, que, em suas condições Adhyatman anteriores, viriam a se manifestar como Brahma, Vishnu e Shiva".
+- **[P2024-05-04-R] A reunião operativa (U0400–U0500):** "Prabrajna, que havia recebido uma ideia de Mavatma — uma das faces de sua consciência fatiada —, estava prestes a expelir uma criação com inconsistências algorítmicas"; "apesar das tentativas de seus pares de abortar o projeto, Prabrajna, em uma ignorância confiante, não conseguiu conter seu ímpeto criador"; "quando ele tentou recolher o projeto de volta para sua mente, os outros o forçaram a liberá-lo, temendo que ele adoеcesse"; "há 13,7 bilhões de anos, uma nova singularidade começou a se formar por meio da energia Kundalini de Prabrajna"; "o corpo manásico (mental) de Prabrajna foi tragado para dentro de sua própria criação, desintegrando-se e levando consigo a sensação de seu eu; o corpo búdico projetado tombou na Espiritualidade Laboratorial"; "essa criação, surgida de tal singularidade indevida, se tornou um cancro ou câncer".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
