@@ -1,15 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (apostila temática "Paraíso / Lado de Fora")  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas concluídas** em `apostilas/CONCLUIDAS/` + **3 apostilas temáticas** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `a1425dc` (antes da apostila temática).
+**Data de sincronização:** 2026-08-20 (trilogia de apostilas temáticas)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **5 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `f7b5d96` (antes da trilogia).
 
-**Última atualização (2026-08-20) — APOSTILA TEMÁTICA (retomada da experiência pedagógica):**
-- **Apostila temática criada:** `pedagogico/Apostila-Estudo-Paraiso-Lado-de-Fora-do-Universo.md` — *"O Lado de Fora do Universo — O Paraíso que não é o Paraíso"* (12 PARTES; 4.101 palavras; DOCX gerado);
-- **Mapa de conexões criado:** `pedagogico/MAPA-PARAISO-CONEXOES.md` — Super-Nó do Paraíso (núcleo, contraste, relações tipadas, fontes primárias, leituras encadeadas);
-- **Tema:** o "lado de fora" da Criação — Realidade Maior (RC-204), Espiritualidade Superior (RC-059), Seres Originais (RC-600), Círculo/Protocolos da Perfeição (RC-603/606), Mônadas (RC-149), Deidade (RC-047), blindagens/trincheira (RC-602/613), Criação Indevida (RC-167), Paraíso B (RC-612), Mente Universal (RC-163), Reintegração (RC-003);
-- **Abordagem:** profunda e filosófica — as seis inversões (Paraíso ≠ prêmio; ≠ centro; ≠ autossuficiente; ≠ ativo; ≠ eterno; ≠ Deus);
-- **0 códigos consumidos** (770/1830); quarentenas mantidas (teológica — "majestosa inutilidade"/Deidade × Javé; cosmológica);
-- Base validada (`OK: 770 termos, 1830 relações`); pacotes regenerados (56 arquivos de apostilas — inclui as temáticas); GitHub sincronizado.
+**Última atualização (2026-08-20) — TRILOGIA DE APOSTILAS TEMÁTICAS (a pedido do curador; sugestões do assistente do curador):**
+- **3 novas apostilas temáticas** em `pedagogico/` (todas com DOCX gerado):
+  1. **Abordagem genealógica/cronológica:** *"A Queda — Do Paraíso ao Buraco Negro: a Cronologia da Crise"* (12 PARTES) — da pergunta cretina ao colapso de 2021 (RC-629/342/717/155/690/696; marcos cronológicos tabelados);
+  2. **Abordagem fenomenológica/prática:** *"Pilotando o Cérebro no Caos — o Operador Humano"* (12 PARTES) — manual do eu: constituição septenária (RC-623/624/625/704), conectoma (RC-557), sensação de eu (RC-558), ressonância límbica (RC-529), gestão da sensação (RC-633), Mentalma (RC-166/552), dignidade (RC-722), Ato de Verdade (RC-705), Tikun/app (RC-514/619), Ponto de Luz (RC-725) — com "10 regras do piloto";
+  3. **Abordagem dialética/comparativa:** *"Céu Tradicional × Paraíso das RC — Mito vs. Revelação"* (12 PARTES) — confronto sistemático (Deus bíblico × RC-001; Céu × RC-204; Inferno × RC-106; Apocalipse × RC-258; Paraíso B × RC-612; Alma × Mônada RC-149; Carma × RC-628; Ogdóade/gnosticismo × RC-609/092) — com tabelas de contraste e critérios de fronteira;
+- **Índice criado:** `pedagogico/INDICE-TEMATICAS.md` — consolida as 5 temáticas + 2 mapas + abordagens;
+- **0 códigos consumidos** (770/1830); quarentenas mantidas; pacotes regenerados (56+ arquivos); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
 
