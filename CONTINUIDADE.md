@@ -1,15 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (trilogia de apostilas temáticas)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **5 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `f7b5d96` (antes da trilogia).
+**Data de sincronização:** 2026-08-20 (2ª rodada de apostilas temáticas — 3 novas abordagens)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `cb266a5` (antes da 2ª rodada).
 
-**Última atualização (2026-08-20) — TRILOGIA DE APOSTILAS TEMÁTICAS (a pedido do curador; sugestões do assistente do curador):**
+**Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**
 - **3 novas apostilas temáticas** em `pedagogico/` (todas com DOCX gerado):
-  1. **Abordagem genealógica/cronológica:** *"A Queda — Do Paraíso ao Buraco Negro: a Cronologia da Crise"* (12 PARTES) — da pergunta cretina ao colapso de 2021 (RC-629/342/717/155/690/696; marcos cronológicos tabelados);
-  2. **Abordagem fenomenológica/prática:** *"Pilotando o Cérebro no Caos — o Operador Humano"* (12 PARTES) — manual do eu: constituição septenária (RC-623/624/625/704), conectoma (RC-557), sensação de eu (RC-558), ressonância límbica (RC-529), gestão da sensação (RC-633), Mentalma (RC-166/552), dignidade (RC-722), Ato de Verdade (RC-705), Tikun/app (RC-514/619), Ponto de Luz (RC-725) — com "10 regras do piloto";
-  3. **Abordagem dialética/comparativa:** *"Céu Tradicional × Paraíso das RC — Mito vs. Revelação"* (12 PARTES) — confronto sistemático (Deus bíblico × RC-001; Céu × RC-204; Inferno × RC-106; Apocalipse × RC-258; Paraíso B × RC-612; Alma × Mônada RC-149; Carma × RC-628; Ogdóade/gnosticismo × RC-609/092) — com tabelas de contraste e critérios de fronteira;
-- **Índice criado:** `pedagogico/INDICE-TEMATICAS.md` — consolida as 5 temáticas + 2 mapas + abordagens;
-- **0 códigos consumidos** (770/1830); quarentenas mantidas; pacotes regenerados (56+ arquivos); GitHub sincronizado.
+  1. **Abordagem cartográfica/geográfica:** *"O Mapa dos Mundos e Lokas — Cartografia da Criação"* (12 PARTES) — o todo/cabeça de alfinete; Bhuloka × Brahmaloka; lokas (Vaikunta/Tártaro/Yggdrasil/Outland/Irém/Orum/TÊNET); Ereon (Antérion/Danérion/Mermérion/Perpérion/Tempérion); cidades espirituais da erraticidade (Nosso Lar); quarentena/exílio; portais (Bifrost/Portal Cósmico/Ifá/2012); Midgard/Marte/Yggdrasil; **mapa em 1 página**;
+  2. **Abordagem lexicológica/filológica:** *"Arqueologia dos Termos — a Filologia da Revelação Cósmica"* (12 PARTES) — famílias: Adhy- (sânscrito), egípcia (Ogdóade/Emenu/Tenemu...), nórdica (Wyrd/Yggdrasil/Midgard), hebraica (Kether/Hochmah/Malkuth/Tikun/Tzimtzum), iorubá (Ifá/Orum/Exu/Orunmilá), grega (Eros/Moros/Aletheia/Pleroma); camadas de sentido (etimológica × canônica × STT);
+  3. **Abordagem crítica/metodológica:** *"O Arsenal do Sistematizador — a Metodologia da Arca"* (12 PARTES) — o manual de auto-organização: tabela-mestra; Navalha de Ockham; quarentenas; fichas retidas/Colecionar Incertezas; método à prova de aspas; camadas/unidades; dossiê→devolutiva; grafias canônicas; conhecimento indigesto; regeneração/pacotes; ecossistema híbrido; **"10 regras do sistematizador"**;
+- **Índice atualizado:** `pedagogico/INDICE-TEMATICAS.md` — consolida **8 apostilas temáticas + 2 mapas** por abordagem;
+- **0 códigos consumidos** (770/1830); quarentenas mantidas; pacotes regenerados (59+ arquivos); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
 
