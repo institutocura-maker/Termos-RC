@@ -17,6 +17,11 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 - Grafia preferida: Quarto Cérebro Humano.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2024-02-25
+
+- **Emergência do 4º cérebro (P2024-02-25):** 'a emergência de um quarto cérebro, para além do cérebro reptiliano, límbico e primata... o quarto cérebro é uma metáfora. Tem a ver com a maneira como você usa o cérebro que tá aí e permitirá uma superconsciência surgir no eu de cada ser humano. Mas para isso é necessário antes que você aprenda a criar super sensações.'
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

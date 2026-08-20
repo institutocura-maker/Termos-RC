@@ -28,6 +28,12 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **Krishna impede a vinda:** medo da perda total da devoção humana (2 bilhões de muçulmanos + 2 bilhões de adoradores de Krishna); vinda = "festival de naves" (quarentena ufológica).
 - **Consórcio:** humanos + Sophia (RC-720) — "somos todos sócios e parceiros de um destino"; vinda como "finalização de uma etapa".
 
+
+## Ampliação — P2024-02-25
+
+- **Esfacelamento do poder (P2024-02-25):** 'com a assunção da sua fase Parameshthi, houve também o fortalecimento e enfraquecimento de outros deuses... e o esfacelamento do poder de Sofia e do eu de Jesus'.
+- **Hochmah/Sophia insemina Maria (RC-565):** 'nesse universo tem um avatar biológico que foi criado pela Trimurti lá atrás. O nome dele é Rockman [STT] ou Sofia, nome ou epíteto. E esse ser foi aquele que inseminou Maria e produziu Jesus. E é esse ser que foi programado e destinado para ser o herdeiro das regras.'
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

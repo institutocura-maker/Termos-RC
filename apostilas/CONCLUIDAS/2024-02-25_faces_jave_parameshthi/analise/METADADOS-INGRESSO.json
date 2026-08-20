@@ -1,0 +1,31 @@
+{
+  "sha256_original": "e7e4827185618bdad1a86aa231b415794f2233f9bc3873be463131824b0b9ecd",
+  "bytes_original": 85827,
+  "lines_original": 8,
+  "words_original": 15029,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 56,
+      "words": 9,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 48,
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 65,
+      "words": 9,
+      "lines": 1
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 85708,
+      "words": 15019,
+      "lines": 4
+    }
+  },
+  "analytic_units": 978,
+  "source_status": "sequência aparentemente completa; abertura e encerramento presentes; SEM perguntas da plateia (autor declara não haver tempo); SEM índice hierárquico no arquivo",
+  "nota": "RE-CURADORIA: base já contém RC-556 a RC-565 com fonte P2024-02-25 (sessão anterior) — este ciclo é de auditoria/ampliação, sem consumo de códigos novos salvo decisão do curador"
+}

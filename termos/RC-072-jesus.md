@@ -28,6 +28,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **Ectoplasma:** o eu encarnado usa a condutora do corpo (STT "condaline" [REVISAR]) para produzir ectoplasma — "desencarnado, ninguém faz isso".
 - **Cruzamento devolutiva:** RC-647 (Evangelho de Judas) relacionado (narrativas gnósticas da Paixão).
 
+
+## Ampliação — P2024-02-25
+
+- **Recusa dos termos (P2024-02-25):** 'eu não vou conseguir cumprir os termos da velha aliança que você pactuou com os patriarcas... a minha condição humana não deixa'; 'Javé, me poupe desse cálice' — 'não, você vai ser crucificado. E não use dos seus superpoderes para escapar.'
+- **Travou o projeto de sucessão:** a condição humana de Jesus 'travou o projeto de sucessão e transferiu a questão para os tempos do cumprimento da promessa da sua vinda como autoridade... para reafirmar que é dada a cada um de acordo com suas obras'.
+- **'Melhores eus':** os eus criados por Jesus e Sócrates 'são tão elevados que não se hospedam num corpo transitório'.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

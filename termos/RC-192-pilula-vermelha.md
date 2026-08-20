@@ -23,6 +23,11 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 - **Cisne Negro (absorvido na devolutiva — metáfora epistemológica):** aquilo que o ser humano julga impossível e que, ao se revelar, provoca choques de realidade; a mitologia como "o grande cisne negro da história humana"; a RC como "porrada de cisnes negros"; "bem-vindos ao Clube do Cisne Negro" (P2026-07-25). Metáfora de despertar ligada à pílula vermelha; nota em RC-702 (Camuflagem da Realidade).
 
+
+## Ampliação — P2024-02-25
+
+- **Choques de realidade (P2024-02-25):** 'primeiro nós vamos ter que sofrer choques de realidade complicados para aprender. E isso é só o começo no sentido de reflexão.' — nota cruzada com RC-702.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

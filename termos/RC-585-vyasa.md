@@ -17,6 +17,16 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 - Grafia preferida: Vyasa. STT: Viaza.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2024-02-25
+
+- **Genealogia (P2024-02-25):** filho de Parashara (STT 'Paraxara/Trachara' — autor de livros sobre astrologia védica, há ~4–5.000 anos) e Satyavati (STT 'Satiavat'); híbridos ('ninguém aí era ser humano 100% puro').
+- **Obras:** 'escreveu os quatro Vedas, os principais Puranas, o Mahabharata e ainda o Bhagavatam', treinando ~19 auxiliares híbridos; por insistência do Senhor Brahma Parameshthi junto aos arianos.
+- **Primeiro nexo causal:** 'Vyasa foi o primeiro a unir os fatos' — a mente humana até ~6–7.000 anos atrás não fazia nexo de causalidade.
+- **Narada e o Bhagavatam:** Narada convenceu o velho Vyasa a escrever o Bhagavatam (devoção a Krishna) — interferência da Trimurti.
+- **Encarnação de Moros:** ver RC-454.
+- **Mahabharata:** 'o primeiro livro escrito por uma mente humana... que juntou uma segunda-feira com a terça-feira'.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

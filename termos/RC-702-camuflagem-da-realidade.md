@@ -31,6 +31,11 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 
 - **Nota P2026-07-25:** o "cisne negro" (absorvido em RC-192) é a chave da camuflagem: a realidade se camufla sob a crença de que o impossível não existe; os véus "se decerram" quando o eu se autodescobre (pulsação digna — RC-722).
 
+
+## Ampliação — P2024-02-25
+
+- **Choques de realidade (P2024-02-25):** 'primeiro nós vamos ter que sofrer choques de realidade complicados para aprender' — a camuflagem só cai por choques; ver RC-192.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

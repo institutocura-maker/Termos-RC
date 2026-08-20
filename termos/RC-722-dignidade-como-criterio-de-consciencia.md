@@ -17,6 +17,12 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **Pulsação digna (absorvida):** a pulsação que sai de um ser humano detém "todas as senhas de abertura de portais interdimensionais"; emite fragrância ao entrelaçamento quântico dos elétrons (metáfora do autor).
 - **Cisne negro (RC-192):** a dignidade como "o pior cisne negro" para os arcontes — não conseguem entender um ser que dá a vida por honra.
 
+
+## Ampliação — P2024-02-25
+
+- **Sócrates e os 'melhores eus' (P2024-02-25):** 'eu passei minha vida inteira lutando contra a corrupção e eu vou usar a corrupção para salvar a minha vida? Eu prefiro perder a minha vida.' — 'alguns homens e mulheres conseguiram sozinhos, pagando o preço, criar neles próprios sensações das quais o eu deles não podia abrir mão, sobra de se sentir descaracterizado.'
+- **Não se hospedam em corpo transitório:** 'esse tipo de eu é tão, tão elevado que não se hospeda num corpo transitório'.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -27,6 +27,13 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **Função na palestra:** "a partir da Wert, o que saía de um ser voltava para ele ao invés de contaminar todo mundo" — estabilização da comunicação entre os seres daiva (ver RC-559 Teia quântica).
 - **Processador da teia:** na Hipóstase dos Arcontes, o processador da teia da vida (Wyrd/Moiras/Nornas) mostra os cenários dos destinos dos arcontes — os arcontes "se ficaram loucos" quando Noreia recebeu de Eleleth as notícias sobre o destino deles.
 
+
+## Ampliação — P2024-02-25
+
+- **WD/Word = computador quântico de Moros (P2024-02-25):** 'ele criou a WD... computador quântico que organiza a genética de todos os seres vivos... o que saia de um ser retorne para ele. Isso não é punição, não é uma justiça, era só uma organização.'
+- **STTs unificados:** 'WD', 'Word', 'Werde', 'teia da verde' — todos → Wyrd/Urd.
+- **Colapso dos termos:** 'os termos de funcionamento da Word colapsaram' junto ao ciclo do Senhor Parameshthi.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

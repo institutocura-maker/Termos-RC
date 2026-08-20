@@ -17,6 +17,11 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **Psiquismo dos "deuses":** "a problemática do psiquismo de 'deuses' e seres cósmicos" (seção 6.3) — Len Mion entre as figuras com psiquismo problemático;
 - Conecta-se ao drama de Lúcifer/Yel Luzbel (RC-078) e à Rebelião (RC-002) — par de Javé no desfecho cósmico.
 
+
+## Ampliação — P2024-02-25
+
+- **Confronto com Parameshthi (P2024-02-25):** 'um ser chamado Leimion [STT — Len Mion], que eu já descrevi isso na Terra Atlantis, faz confronto brabo em relação aos projetos de Javé ou de Brahma Parameshthi. Ferrou com muita coisa desse projeto.'
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

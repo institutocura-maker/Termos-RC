@@ -30,6 +30,14 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Geopolítica da devoção:** manipula a epifania; Índia como reino terrestre (18h diárias de adoração); templos bramânicos → vaishnavas.
 - **Decisão recente:** teria conversado com Shiva e "baixado as armas mentais", alinhando-se ao inevitável — abertura para a vinda de Sophia; o autor declara confiança "muito modesta" (informação recebida por canais que não pode pôr em dúvida; "Krishna desde a semana passada").
 
+
+## Ampliação — P2024-02-25
+
+- **Criado para a sinarquia (P2024-02-25):** 'a Trimurti havia gerado Krishna para continuar a sinarquia de Rama sobre a terra... para fazer com que um certo segmento dos Bharata devesse ganhar uma guerra em Kurukshetra para herdar o domínio da terra.'
+- **Senhor supremo:** 'se afirmou o senhor supremo, mas deixou espaço imperial para todos. Nesse ponto ele foi democrático' [REVISAR — frase do autor].
+- **Bhagavad Gita e o karma do devoto:** 'se você for o meu devoto e agir em nome do dharma, você não terá karma negativo' — interferência da Trimurti (Krishna/Narada) contra a teia quântica; com a morte de Krishna, 'prevalece a velha questão da teia: o que sai de um ser volta para ele'.
+- **4.000 anos de engrandecimento:** 'o eu do Senhor Parameshthi se torna bem menor e simplório do que o eu de Krishna ao longo dos 4.000 anos'; todos os templos de Brahma sumiram; Krishna criou avatares de si mesmo para engrandecê-lo.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

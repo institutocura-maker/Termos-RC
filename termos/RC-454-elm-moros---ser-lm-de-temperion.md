@@ -25,6 +25,12 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **Criou a teia da vida (Wert [STT] → Wyrd, RC-658):** "a teia foi criada por Moros/Olog... a partir da Wert, o que saía de um ser voltava para ele".
 - **Hipóstase dos Arcontes (RC-770):** Moros é um dos personagens-chave do livro gnóstico.
 
+
+## Ampliação — P2024-02-25
+
+- **Vyasa = encarnação de Moros (P2024-02-25):** 'Brahma queria que Krishna conseguisse convencer Vyasa, que era a encarnação de Moros, a modificar os termos do computador quântico que ele havia feito lá atrás.'
+- **Criador da WD/Wyrd:** Moros 'olhou pros genes... disse: ó, tá tudo bichado. Como é que a gente organiza esse baralho? Aí ele organizou, ele criou a WD' — o computador quântico da teia (RC-658/RC-533).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

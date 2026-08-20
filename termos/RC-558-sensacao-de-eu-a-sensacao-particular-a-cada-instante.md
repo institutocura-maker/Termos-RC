@@ -1,0 +1,44 @@
+# Sensação de eu (a sensação particular a cada instante) — RC-558
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.4 Espiritualidade / Doutrina |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-19 |
+
+## Definição Sintética
+
+Definição central da palestra: 'a sensação particular que você sente a cada instante' — a única definição aceitável para o sentido do eu. O eu humano é descrito como 'um programa quântico que funciona entre esses dois polos: a mente espiritual eterna e o cérebro transitório que nasce e morre'; o eu não morre nunca. Metáfora do rádio: o eu não está dentro do corpo. O genoma foi programado para não deixar o eu refletir sobre as sensações que sente.
+
+## ## Ampliação — P2024-02-25 (ficha criada na re-curadoria)
+
+- Quando o corpo morre, o espírito 'coleciona, puxa, escaneia todas as sensações que definiram aquele eu'; a sensação continua existindo.
+- 'Se a sensação for uma merda, o eu adentra uma nova situação existencial se sentindo um merda' — gerir sensações como tarefa existencial.
+- O eu humano profundo deve ser despertado pela vontade dele mesmo e observar o eu imediato (primeiro impulso).
+- Os deuses do universo vizinho 'estão atrás de produzir as suas faces com suas sensações e eles não sabem fazer isso'; humanos são os únicos capazes de modificar o genoma pessoal criando novas sensações.
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
+## Citação-chave
+
+> "Vocês sabem qual é a única definição aceitável para o sentido do eu de cada um de nós? Anotem na mente de vocês: é a sensação particular que você sente a cada instante."
+
+## Termos Relacionados
+
+| Termo | Código | Relação |
+|---|---|---|
+| Conectoma humano | RC-557 | relaciona-se-a |
+| Mentalma | RC-166 | relaciona-se-a |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
+| Genoma Derivado | RC-518 | relaciona-se-a |
+
+## Observações
+
+Conceito central também em P2024-11-09 (Abismo da Consciência) e P2025-02-15.
+
+---

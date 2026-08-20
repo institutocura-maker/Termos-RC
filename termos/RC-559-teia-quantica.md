@@ -23,6 +23,12 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 
 - **Ampliação P2026-07-25:** a "Teia da vida" do 1º conselho (criada por Moros) é descrita na palestra como "Wert" [STT] — unificada em RC-658 (Wyrd) por decisão da devolutiva; este termo permanece como o princípio "o que sai de um ser volta para ele" (karma quântico da RC).
 
+
+## Ampliação — P2024-02-25
+
+- **Não há justiça divina (P2024-02-25):** 'eu pensei que o que regrava a vida nesse universo era justiça divina de Deus. Não tem justiça divina de Deus. O que organiza os genes, os genomas, nascimento... é a teia quântica: o que sai de um ser volta para ele.'
+- **Prevalece sobre o Bhagavad Gita:** 'pouco importa o que sai de um ser, volta para ele' — a teia vence a promessa devocional de Krishna.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

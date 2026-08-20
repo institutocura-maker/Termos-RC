@@ -18,6 +18,11 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **Variações:** "Mentalma" (nome do método e da série); o usuário refere-se à série também como "METALMA"
 - **Obs.:** o livro I define como "a minha disciplina de Yoga, que criei para o meu cotidiano, com o intuito de viver melhor a vida"
 
+
+## Ampliação — P2024-02-25
+
+- **Super sensações (P2024-02-25):** 'é necessário antes que você aprenda a criar super sensações ou sensação adulta. E é isso que o Mentalma tenta ensinar.'
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

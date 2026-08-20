@@ -526,3 +526,38 @@ Recuperar o `apostila.md` já corrigido e rodar `build_apostila.py`. A grafia ca
 - Índices sincronizados (raiz + `apostilas/INDICE-PALESTRAS.md`).
 - **Total: 14 apostilas concluídas** em `apostilas/CONCLUIDAS/`.
 - Próximos passos (orientação do curador): processar mais palestras → atualizar a base → gerar apostilas **em lote**.
+
+---
+
+## APROVAÇÃO OFICIAL (19/08/2026) — P2026-07-25 e Fluxo completo
+
+**Curador:** "Podemos considerar a Apostila APROVADA!!! ... bem como todo o Fluxo que realizamos até aqui. PARABÉNS!!!"
+
+- Apostila P2026-07-25 (MD + DOCX) **APROVADA**;
+- Fluxo integral (Base-first → Devolutiva → Base → Apostila → pacotes → GitHub) **validado pelo curador**;
+- Registros: `DECISAO-DO-CURADOR.md` e `RELATORIO-DE-CICLO.md` na pasta da palestra em `apostilas/CONCLUIDAS/2026-07-25_jesus_dinastia_sophias_arcontes/analise/`;
+- Estado canônico: **770 termos · 1.604 relações · RC-771 livre · 392 fichas · 80 obras · 14 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2024-02-25 As Faces de Javé / O Senhor Parameshthi (19/08/2026)
+
+**Re-curadoria** (TXT recuperado — estava "material-fonte ausente"). Devolutiva F-1..F-7 do curador (via Assistente): auditoria aprovada; 8 fichas criadas; bloco de ampliações aprovado; **zero códigos novos** (Navalha de Ockham — base congelada em 770); quarentenas confirmadas; apostila autorizada.
+
+### Execução
+- Auditoria RC-556–RC-565 contra o STT original: **todos confirmados** (a sessão anterior acertou o núcleo).
+- **8 fichas físicas criadas:** RC-556 (Senhor Parameshthi), RC-557 (Conectoma), RC-558 (Sensação de eu), RC-560 (WD→remissão Wyrd), RC-561 (Faces de Javé), RC-562 (Baralho genético), RC-563 (Travas e lacres), RC-564 (Fios soltos).
+- **19 fichas ampliadas** (seção "Ampliação — P2024-02-25"): RC-001, RC-009, RC-072, RC-074, RC-104, RC-166, RC-192, RC-414, RC-437, RC-454, RC-518, RC-533(?), RC-559, RC-585, RC-614, RC-658, RC-684, RC-702, RC-722, RC-732 (19 confirmadas).
+- **29 relações novas** com fonte P2024-02-25; 13 campos "relacionados" enriquecidos.
+- Base: **770 termos · 1.633 relações** (+29) — `OK: 770 termos, 1633 relações — dados válidos.` · RC-771 preservado.
+- Artefatos regenerados: índice (770), XLSX (80 obras), DOCX (770/1633/80/**400 fichas**).
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-FACES-JAVE.py`.
+
+### Colecionar Incertezas — KESHAVA (rubrica FECHADA)
+- **STT "avatares quechava/quechadas" (P2024-02-25) = avatares Keshava** — evidência que confirma a pista do curador ("quachadas/quechada" = Keshava). Veto estrito mantido: nenhuma grafia fonética virou termo; nós oficiais RC-073 (Keshava) e RC-425 (Krishna como pretenso Keshava) mantidos. *Rubrica encerrada como confirmada.*
+
+### Apostila (15ª do acervo)
+- `apostila.md` (10.434 palavras; 12 PARTES + glossário A–D; **sem seção de plateia** — autor encerrou sem perguntas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-02-25_faces_jave_parameshthi/`.
+- Índices sincronizados (raiz + apostilas/).
+
+**Estado:** 770 termos · 1.633 relações · RC-771 livre · 400 fichas · 80 obras · **15 apostilas concluídas**.

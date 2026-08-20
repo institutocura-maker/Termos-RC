@@ -15,7 +15,7 @@
 | 03/03/2024 | A dessensibilização da Humanidade | `P2024-03-03` | — | **incorporada**; RC-746–RC-748; 11 relações novas; apostila adiada (Base-first) |
 | 13/04/2024 | Moisés, as Doze Tribos e os Desígnios de Javé | `P2024-04-13` | — | **incorporada**; RC-749–RC-750; 10 relações novas; apostila adiada (Base-first) |
 | 14/04/2024 | Bagagem Intransferível — Pendências e Tendências Espirituais | `P2024-04-14` | — | **incorporada**; RC-751–RC-752; 7 relações novas; apostila adiada (Base-first) |
-| 25/02/2024 | As Faces de Javé — O Senhor Parameshthi | `P2024-02-25` | apostila completa | fonte Markdown/DOCX ausente; aguarda recuperação |
+| 25/02/2024 | As Faces de Javé — O Senhor Parameshthi | `P2024-02-25` | apostila completa | **ciclo concluído (2026-08-19):** re-curadoria — auditoria RC-556–RC-565 confirmada; 8 fichas criadas (RC-556/557/558/560/561/562/563/564); 19 ampliações; 29 relações; zero códigos novos (RC-771 preservado); **APOSTILA CONCLUÍDA** (12 PARTES, sem plateia) |
 | 04/05/2024 | Prabrajna em Perpérion — Simultaneidade Reversa | `P2024-05-04` | Base e apostila concluídas | 15 termos novos (`RC-628`–`RC-642`); apostila aprovada |
 | 13/07/2024 | Reintegração Cósmica — Tempos de Ruptura | `P2024-07-13` | — | **concluída**; reforços + participação em RC-742/743/744; 20 relações novas |
 | 14/07/2024 | Consciências Espirituais Dignificadas | `P2024-07-14` | — | **concluída**; RC-745; 27 relações novas |

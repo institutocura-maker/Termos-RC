@@ -14,6 +14,11 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 ## Etimologia / Grafias
 Forma preferida: Abel.
 
+
+## Ampliação — P2024-02-25
+
+- **Abel como primeiro filho (P2024-02-25):** 'quando Adão e Eva transaram e Abel nasceu, Abel foi o primeiro. Não, mas a Bíblia diz que foi Caim. É porque depois Javé fez essa armação' — Abel 'nasceu com três jeitos afeminados' [REVISAR — quarentena clínica]; Javé fez Caim matar Abel para anular a primogenitura; Sete, o terceiro, tornou-se o patriarca dos escolhidos.
+
 ## Fontes
 P2025-05-31.
 

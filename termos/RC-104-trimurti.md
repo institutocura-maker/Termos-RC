@@ -25,6 +25,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **1º conselho dos deuses (deuses primevos):** ~4 bilhões de anos após o Big Bang; Trimurti "três inderrotáveis" (ninguém mata o outro); "manicômio... mas tem três malucões"; pacificação da descendência; criação da teia da vida (Wyrd/RC-658) por Moros.
 - **Sucessão de conselhos:** 2º com Dev/Aurora e Cama/Kama; 3º dinastia das Sophias (RC-494) — ver RC-474.
 
+
+## Ampliação — P2024-02-25
+
+- **Colapso da Trimurti em 2018 (P2024-02-25):** 'a Trimurti sucumbe, colapsa no ano 2018, para complicar mais ainda o eu e o corpo do Senhor Parameshthi, que colapsa no ano 2021.'
+- **Avatares 'keshava' (STT 'quechava'):** os três seres resolveram criar avatares keshava — 'um avatar produzido por um pedaço do código de vida de Brahma, outro de Vishnu, outro de Shiva... avatar que traz em si o poder mental dos três senhores' — para parar as brigas; 'o processo desandou de vez... porque Krishna provou que era maior que os três'.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -26,6 +26,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **Epítetos gnósticos:** Samael (cego), Saklas (ignorante), Ialdabaoth (blasfemador), Sabaoth — todos Javé (RC-482); antes da queda: Pistis Sophia (RC-530) = Prabrajna (RC-152).
 - **"Eu fiz e eu carrego":** resposta aos anjos ministradores (RC-485), reproduzida por Isaías.
 
+
+## Ampliação — P2024-02-25
+
+- **Colapso do corpo em 2021 (P2024-02-25):** 'o corpo de Javé ou do Brahma Parameshthi... não entrou em coma, ele colapsou'; o eu dele continua existindo, voltou a ser parasitário, atrás de um corpo.
+- **Última aposta no ser humano:** 'a última aposta que o tal eu do criador caído tinha ainda balas... para poder semear num ser humano'.
+- **Não soube usar a ressonância humana:** 'não soube aproveitar o fenômeno da ressonância [bôson — REVISAR]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas'.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

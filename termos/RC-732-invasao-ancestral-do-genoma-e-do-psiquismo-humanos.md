@@ -28,6 +28,12 @@ NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantro
 
 - **P2026-07-25:** "externalizaram lá tudo que tinha para ser externalizado... jogaram o problema todo para cá" ao tempo da emergência da espécie humana (últimos ~25.000 anos) — reforça o termo; genoma como "joia" disputada (ver RC-518).
 
+
+## Ampliação — P2024-02-25
+
+- **Reconstrução no genoma humano (P2024-02-25):** 'vai começar tudo de novo. Só que agora não vai ser preciso milhões de espécies. É tudo na condição humana, tudo no genoma humano.'
+- **Humanos como únicos capazes:** 'nós somos os únicos capazes de modificar o genoma pessoal, criando novas sensações. E é isso que, entre aspas, todos os seres desse universo vizinho precisam.'
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -17,6 +17,11 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 - **Contexto do pacto com Abraão:** a maldição tornou Sara estéril — "os anjos de Javé estavam fazendo com Abraão e Sara a mesma coisa que Anu... fez com a irmã" ("sangue azul"; regra monástica) — e o pacto dependia da descendência (nova aresta RC-437 ↔ RC-001);
 - A maldição sobre Faleg/Gômer é **leitura do autor** (Teologia Comparada) — não é relato histórico validado.
 
+
+## Ampliação — P2024-02-25
+
+- **Faleg interrompe a linhagem (P2024-02-25):** 'um filho de Éber chamado Faleg fez com Javé a mesma coisa que Set havia feito... Deu uma banana.' Com a linhagem hebreia interrompida e a de Cam maldita, restou Jafé — 'Gomer foi o pai dos chamados arianos. Aí Javé... apresentou-se aos arianos com o nome do Senhor Brahma Parameshthi.'
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
