@@ -63,6 +63,11 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 
 - **[P2024-07-13] As setas de Moros (U0450–U0460):** "a Terra já era famosa por esconder as setas de Moros, por terce um problema que surgiu quando esses dois universos surgiram: 5 bilhões de anos depois, houve o problema de Moros com os três seres da Trimurti, Brahma, Vishnu e Shiva. E ele escondeu as setas, ninguém sabia onde" [REVISAR — "setas de Moros" fora da base].
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11 — FONTE ORIGINAL] Moros, o sétimo (U0350–U0370; U0830; U0890–U0930):** "essa sétima figura, na mitologia hindu, o seu nome aparece como sendo Bhaga, mas há três Bhagas; este Bhaga seria o Morus da mitologia grega; ele entrou, sujou-se, mas sujou-se pouco, porque não dividiu o poder, não quis coisa de poder"; "o outro, o oitavo, ficou lá fora, só mergulhando em cinco ou seis bilhões de anos, quando depois surgiu o Projeto Talm, foi que essa figura mergulhou"; "o elevador de Moros funciona razoavelmente"; "Moros surgiu de Vaikunta, que é a loka de Vishnu, a partir de uma descendência indireta de Vishnu, da figura que se chamava Nix" [pergunta da plateia]; "na época em que Moros deixou de ser Moros, ele produziu um outro tipo de processo: o portal pelo qual ele mergulhou... essas consciências primordiais só podem sair por onde entraram; ele conseguiu criar no elevadorzinho dele algo parecido com o mahasamadhi, mas não é; houve um escape, mas não no sentido de sair do buraco negro: apenas o seu eu e a sua forma usada na época deixaram de existir; foi um truque; a lei da conservação: nada se cria, nada se perde, tudo se transforma".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

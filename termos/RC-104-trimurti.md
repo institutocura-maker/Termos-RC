@@ -36,6 +36,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **Trimurti na mitologia grega (P2024-11-30):** "surgiu Caos, que é o mesmo que Javé/Brahma; surgiu Tártara, que é Shiva; Eros, que é Vishnu"; a descendência de Eros (Vishnu) e Tártara (Shiva) era grande, a de Brahma pequena; "Brahma chamava Moros e pedia: 'explique melhor as tendências de Eros'... para descobrir a vulnerabilidade dos descendentes"; a perseguição a Moros; "a estupidez clínica chique, charmosa, é a regra de todas as ideias desses seres" (disforia de gênio; o filme "Florence Foster Jenkins" como analogia — quarentena).
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11] A falência da Trimurti (U0530–U0540; U0720–U0750):** "os seis seres que compuseram a Ogdóade, os três pares de seres apaixonados, nunca absorveram as circunstâncias evolutivas, nunca criaram circunstâncias evolutivas, falharam"; "a descendência desses seres, à exceção das suas expressões adiágenas, também faliu"; "quando a Trimurti caiu, não teve ninguém; Vishnu disse: vou me desfazer, e se desfez com uma rapidez impressionante; a Trimurti morreu, ficou sem poder, foi desfeita"; "Chiva começou a ir para cima da sua descendência para destruir; Brahma implodiu, ficou um eu ancorado na esfera de ação mental e espiritual (a egrégora criada aqui)".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

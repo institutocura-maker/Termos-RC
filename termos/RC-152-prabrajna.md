@@ -45,6 +45,12 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[P2024-05-04-R] A projeção sem alma (telas 1–5):** "Prabrajna não tem a camada A (alma) dentro de si: ele é uma projeção sustentada à distância" [descrição da Tela 1]; "Prabrajna não existe mais no nível laboratorial. O que existe é só o resto da antiga condição Adhyatman dele, e esse resto aqui é sustentado pela alma de Mavatma"; "o resto desse ser existe em um loop mental tipo pesadelo" (Tela 2); "nos últimos 2 bilhões de anos, o resto da antiga condição Adhyatman de Prabrajna ficou ancorado no seu corpo búdico projetado" — a degradação a "zumbi" (Tela 3); "após o colapso de Javé, restam apenas vestígios: restos de Javé em vexame" (Tela 5).
 - **[P2024-05-04-R] "A mãe de Javé" (U1700–U1752):** "o palestrante metaforicamente compara a humanidade à mãe de Javé, capaz de gerar o leitezinho necessário em nosso genoma para que ele seja ressuscitado e nasça de novo"; "a reconstrução dos eus originais de Mavatma e Prabrajna, que não mais existem, é uma tarefa que cabe aos seres que estão em pleno inferno (neste universo)"; "esse eu de Javé, atualmente parasitário no universo antimaterial, precisaria ser transferido para um novo corpo, que seria um híbrido biodemo-humano neste universo material".
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11 — FONTE ORIGINAL] Brágina e o projeto criativo (U0290–U0340):** "Brágina colocava a sua cundaline; expressam com a mente aqui na frente de todos; eles sabem trabalhar com os sistemas mentais"; "o que era 14 ficou 13, ficou 11, ficou 10, até que se chegou a um número de oito"; "Brágina mais uma vez colocou o seu projeto criativo e todos os oito estavam com a mente envolvendo aquela coisa holográfica"; "de repente um deles caiu; tornou-se um buraco negro"; "Brágina sumiu"; "a queda não foi premeditada: foi um acidente decorrente de uma disputa com os outros Pashvnaj, onde ele foi empurrado para dentro de sua criação" [ver também P2024-05-04-R].
+- **[P2020-07-11] A reconstrução (U0340–U0360):** "primeiro Brágina caiu, aí se reconstruiu como Brahma, o Javé; passou milhões de anos até que um anjo-clone veio, agrediu; aí depois se tornou Shiva com 2 bilhões de anos; mas 1 bilhão de anos depois Vishnu mergulhou"; "a turma ficou lá fora tentando entender o que fazer; quem vai? Porque poderiam vir 10, 20, não: só podiam entrar oito, porque foram oito mentes que estavam ligadas na criação".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

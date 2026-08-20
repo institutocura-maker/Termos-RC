@@ -17,6 +17,11 @@ A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco 
 - Grafia preferida: Adhy. STT: seres AD, seres Ados, Ades, ISAD, Zad, seres Arte.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11] O Gênero Adhy e os espíritos (U0220–U0240; U0380–U0400):** "147 consciências particularizadas... a família Pastevinagem, ~43 individualidades"; "10 seres adiátima podem representar 5 espíritos adiágia (fatiamento)"; "8 seres adiátima = 7 espíritos (ou 6) adiágia" — a relação ser/espírito como chave do Gênero Adhy.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

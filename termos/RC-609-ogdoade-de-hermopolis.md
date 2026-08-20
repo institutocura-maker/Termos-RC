@@ -22,6 +22,13 @@ Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à
 
 - **[P2024-08-03] A Ogdóade na fala (U1463–U1475):** "o quarto logos... você só vai compreender quem ele é se a gente for estudar a Ogdóade, que é uma expressão que existe em uma das quatro mitologias egípcias, os oito deuses criadores"; "na Ogdóade é dito que os três seres que hoje a gente chama de Trimurti... com suas respectivas consortes... Saraswati, Parvati... compõem seis seres e mais dois outros chamados Elm e Ol"; "todos esses processos faliram à exceção do criado por Elm/Olm" [STT: "Elmorus" — REVISAR].
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11 — FONTE ORIGINAL] A Ogdóade e os oito nomes egípcios (U0067; U0380–U0400):** "a ouv, expressão grega que quer dizer oito; Emenu no egípcio"; "essas oito figuras que em grego a gente pode chamar ogdóade, mas em egípcio seria Emenu"; os nomes: "Tenemu, Tenemut, Num, Numet, Kek, Keket, Heh, Hehet" [STT: 'Tenemur, tenenumet, numet e kect, ré e renet']; a correlação: "Tenemu é Brahma; Tenemut é Saraswati; Num é Vishnu; Numet é Lakshmi; Kek é Shiva; Keket é Parvati; Heh e Hehet é aquele que viria a ser Moros"; "essas oito figuras são oito seres da condição adiátima, mas nós estamos falando de sete espíritos — e tudo indica, talvez sejam só seis espíritos, porque parece existir um outro fatiamento de consciência envolvendo Saraswati e Lakshmi".
+- **[P2020-07-11] A perspectiva 8/7/6 (U0380–U0400):** "pela perspectiva da condição adiátima, foram oito seres da espiritualidade laboratorial: seis seres de Perpérium e dois de Tempérium"; "pela perspectiva da condição adiágia, não são oito seres que mergulharam, são sete: dois espíritos da condição adiágia por três na condição adiátima; um deles fatiou a consciência (Brágina e Mavatimma, que depois se tornaram Javé/Brahma e Vishnu, são dois seres sustentados por um mesmo espírito)".
+- **[P2020-07-11] O gnosticismo (U0440–U0460):** "o gnosticismo olhou para isso tudo e disse: tá tudo errado. Aí criou três sistemas: o 7+1, o 6+2 e o 4+4"; os ofitas: "Logos, Zoe, Anthropos, Eclésia, Protator, Enoia e Aleteia" — "o gnosticismo fez uma esculhambação, distorceu, mas uma coisa verdadeiramente criou: destes oito, o principal era Aleteia, a verdade"; os valentinianos: "sete céus e o Pleroma como sendo mais importante de tudo, situavam Aleteia com o Pleroma"; Pitágoras: "tudo é furado; o que vale é a tetrad, a ogdóade: os oito divididos em duas tetrades (dois quartetos)".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

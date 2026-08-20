@@ -17,6 +17,11 @@ A comparação mostra que os oito da Ogdóade não representam contagem exaustiv
 - Grafia preferida: Enéade de Heliópolis. STT: Ened.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11] A Enéade em contraponto (U0380–U0400):** a Ogdóade de Hermópolis (oito) em contraste com a Enéade de Heliópolis (nove); a palestra usa a Ogdóade como base dos oito entes primordiais [REVISAR — correlação a validar].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

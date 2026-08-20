@@ -1,0 +1,31 @@
+{
+  "sha256_original": "e4b7f8e82d4b1f52d7e9fb9caad1a4b6e811b9c789df2dc60d7ba69bddca7809",
+  "bytes_original": 119452,
+  "lines_original": 160,
+  "words_original": 20322,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 60,
+      "words": 9,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 48,
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 12057,
+      "words": 1886,
+      "lines": 144
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 107058,
+      "words": 18425,
+      "lines": 8
+    }
+  },
+  "analytic_units": 969,
+  "source_status": "sequência completa; abertura, exposição com slides, intervalo de 10 min (U0520), 4/5 perguntas finais da plateia (U0810–U0930) e encerramento presentes; camada contextual ausente",
+  "nota": "PALESTRA INÉDITA NA BASE (P2020-07-11: 0 ocorrências). Ogdóade já cadastrado como RC-609 (fontes P2021-12-04/P2026-07-30/P2023-12-02/P2024-08-03) — avaliar se esta é a fonte original. Ligação direta com P2024-05-04 (Perpérion/Pastevinagem/Brágina/Mavatimma). Ciclo pode consumir códigos novos (RC-771+) conforme auditoria e devolutiva."
+}

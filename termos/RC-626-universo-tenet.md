@@ -17,6 +17,11 @@ A live apenas anuncia o tema; não fornece definição suficiente do universo.
 - Grafia canônica validada na Devolutiva: TÊNET, em maiúsculas. STT: Tênit.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11] A ligação egípcia (U0380–U0400):** os nomes da Ogdóade (Tenemu, Tenemut, Num, Numet, Kek, Keket, Heh, Hehet) — correlacionar com o Universo TÊNET (RC-626) e a tradição de Hermópolis; a ogdóade egípcia como a fonte dos oito entes primordiais [REVISAR — correlação a validar].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

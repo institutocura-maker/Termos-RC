@@ -17,6 +17,11 @@ A Base já individualizava as três integrantes; este código consolida o coleti
 - Grafia preferida: Tridevi. STT: trideve.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11 — FONTE ORIGINAL] A Tridevi e os pares eônicos (U0320–U0330; U0539–U0545):** "os três vínculos ou pares de eons, ou chamados pares eônicos, que o gnosticismo na época de Valentim criou": Shiva-Parvati (o pacto), Vishnu-Lakshmi, Brahma-Saraswati; "os hindus equivocadamente trabalharam como uma tridevi"; "Parvati/Parashakti pretendia dominar tudo e só não dominou porque não conseguiu dominar Moros"; "nenhuma mitologia fala claramente da descendência de Parvati, de Saraswati, de Lakshmi; quase uma nova [guerra] em março desse ano, promovida por raças descendentes dessas figuras, cujos nomes não foram descritos em mitologias" [quarentena; Colecionar Incertezas].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

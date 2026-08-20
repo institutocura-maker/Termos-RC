@@ -1,17 +1,17 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (ciclo P2024-05-04 — versão refatorada + apostila)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **26 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `f0e6bb6` (antes do ciclo P2024-05-04-R).
+**Data de sincronização:** 2026-08-20 (ciclo P2020-07-11 — palestra inédita + apostila)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `5af7ab5` (antes do ciclo P2020-07-11).
 
-**Última atualização (2026-08-20) — Ciclo P2024-05-04 (Prabrajna em Perpérion — Simultaneidade Reversa) RE-CURADORIA DA VERSÃO REFATORADA, concluída com devolutiva do curador:**
-- **0 códigos novos** (base blindada em 770; RC-771 preservado) — material refatorado (PDF 38 págs., 14.538 palavras, 1.752 unidades) absorvido sem inflar a ontologia;
-- **Primeiro ciclo com material em PDF refatorado** (não transcrição): documento de curadoria/estudo de Edson Cella Mendes, com **5 capturas de tela** extraídas e **descritas pelo curador** (telas: Situação Anterior à Queda; Depois da Queda até ~8 bi; Últimos 2 bi; Contexto da Queda; Atual após colapso de Javé);
-- **Auditoria RC-628–642 + termos com fonte `P2024-05-04` — TODOS CONFIRMADOS** contra o texto refatorado e as 5 telas; as telas corroboram e aprofundam (Adhyatman Real × Projetado; Mavatma = Vishnu; alma de Jesus = Mavatma; "zumbi" de Prabrajna; ADHYAGIA "esgotada"/"à moda de Jesus – prejudicada"; "restos de Javé – vexame");
-- **13 fichas ampliadas** (RC-628/629/087/152/009/091/080/638/612/631/455/408/409) com qualificador de fonte `P2024-05-04-R`;
-- **Apostila integral concluída — 12 PARTES (10.941 palavras)**; base = Capítulo 1 V2 + trechos exclusivos da V1; **5 figuras embutidas no DOCX** (pós-processador python-docx); sem plateia (material sem transcrição);
-- **Ampliações retidas (termos sem ficha física — padrão):** RC-013 Adhyatman, RC-014 Adhydaiva, RC-135 Vishnu, RC-163 Mente Universal, RC-343 Planeta Azul, RC-499 Fornos, RC-542 Ex-DNA-lixo, RC-019 Anjos clones, RC-156 Era da Solidão, RC-075 Lila, RC-035 Bilatérios → registradas na Colecionar Incertezas; **O-7 aprovou aguardar autorização** para Teurgia, Saccidanandhagana, Discurso Interior, Sanscaras, Kapila, Campos Morfogenéticos;
-- Quarentenas confirmadas (teológica crítica; filosófico-científica — Kant/Heidegger/DNA-lixo/3–5%; cronológica — 742/687/619 mil e 2050; política — Sai Baba);
-- **Nenhuma obra nova** (o PDF refatorado é material de aluno/curador — não entra na BIBLIO);
+**Última atualização (2026-08-20) — Ciclo P2020-07-11 (O Ogdóade, o Mistério dos Entes Primordiais) — PALESTRA INÉDITA, concluído com devolutiva do curador:**
+- **0 códigos novos** (base blindada em 770; RC-771 preservado) — palestra antiga (2020) e **fonte ORIGINAL** do tema da Ogdóade; 18.425 palavras (969 unidades) absorvidas sem inflar a ontologia;
+- **Auditoria confirmada** — RC-609 (Ogdóade), RC-455 (Pashvnaj), RC-152 (Prabrajna), RC-408/409 (Mavatma/Savna), RC-457–459 (Tridevi), RC-454/092 (Moros/Olm), RC-009 (Sophia), RC-002, RC-604, RC-626/627, RC-411, RC-104, RC-610, RC-669 — todos verificados contra o STT original;
+- **16 fichas ampliadas** (nomes egípcios da Ogdóade com correlação 8/7/6; família Pastevinagem e reuniões 14→8; o colapso das 8 mentes e os oito portais; Fator Parvati/Parashakti e pares eônicos; diferenciação cronológica Moros/Olm — 5–6 bi anos; gnosticismo/Aleteia; "tã-tã" da vinda de Sophia; fatiamento criado×projetado×mergulhado);
+- **Apostila integral concluída — 12 PARTES (10.616 palavras)**; intervalo de 10 min marcado (U0520); plateia isolada (5 perguntas finais — U0810–U0930); glossário local A–D; DOCX em CONCLUIDAS;
+- **Ampliações retidas (termos sem ficha física — padrão):** RC-457/458/459 (Tridevi), RC-211 (Kundalini), RC-013/014 (Adhyatman/Adhydaiva) → registradas na Colecionar Incertezas; aguardam autorização para criação de ficha em ciclo futuro;
+- Quarentenas confirmadas (teológica crítica — "nenhum dos seres que tratamos como Deus é de fato Deus"; histórica/cultural — Egito/gnosticismo/Pitágoras/Hesíodo; política — poder/empresas anos 80/90);
+- **Nenhuma obra nova** (B013 = Tzimtzum/DAF; revista Plus Ultra não é de Ellam; "Testamento de Jesus" [REVISAR]);
+- **Colecionar Incertezas (novos):** "talvez sejam só seis espíritos (fatiamento Saraswati/Lakshmi)"; "Parvati é a rainha das lokas; estica tudo e penetra no nosso universo"; "descendência desconhecida da Tridevi; quase uma nova guerra em março/2020"; "o livro do Testamento de Jesus"; "revista Plus Ultra"; "a escola de Capela e a visita no bojo da rebelião de Lúcifer"; "os arquivos na Escócia/Croácia (setas de Moros)"; "Nix gerou Moros (descendência indireta de Vishnu)"; "Vaikunta como loka de Vishnu"; "o microssegundo de pane geral nos três níveis"; "os espíritos sujos são os heróis, os limpos são omissos por natureza"; "Sofia só sabe atuar na porrada"; "a vinda de Sofia = Kalki/Sanata Kumara/Tirthankara/Mahdi";
 - Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados (415 fichas-resumo; 81 obras); pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
@@ -19,6 +19,17 @@
 **Correção de engenharia (2026-08-18) — gerador/restaurador de pacotes:** auditoria revelou que o gerador de pacotes embutia **1 byte `\n` extra** por arquivo (join com quebra de linha após conteúdo já terminado em `\n`; e marcador FIM-ARQ colado ao conteúdo quando o arquivo não termina em `\n`, ex.: `original.txt` do podcast irmãos Dias). Correções aplicadas: (1) `gerar_pacotes.py` agora **concatena o corpo sem join**, embutindo conteúdo byte a byte; (2) `restaurar_pacotes.py` localiza `===FIM-ARQ:` por **busca binária direta** (não mais regex de início de linha), aponta para `reconstrucao/pacotes/` (checkpoint mais recente) e aceita caminhos como argumentos. Teste de ida-e-volta: **386/386 arquivos 100% fiéis (pacote == manifesto == workspace)**.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
+
+## Curadoria P2020-07-11 — O Ogdóade, o Mistério dos Entes Primordiais
+
+- **PALESTRA INÉDITA na base** (P2020-07-11: 0 ocorrências) — **fonte ORIGINAL** do tema da Ogdóade (RC-609) e dos Pashvnaj (RC-455);
+- devolutiva oficial do curador registrada em 2026-08-20 (APROVADA; zero códigos novos — RC-771 preservado);
+- 16 fichas ampliadas (RC-609 nomes egípcios/correlação 8-7-6/gnosticismo; RC-455 família Pastevinagem/reuniões 14→8/portais; RC-152 colapso das 8 mentes; RC-408/409 Mavatimma/Sávna; RC-454 Moros sétimo/Vaikunta-Nix/escape; RC-092 Olm oitavo/escola de Capela/nerds-internet/Aleteia; RC-009 Sofia "tã-tã"/alinhamento; RC-002 entorno da rebelião; RC-604 fatiamento criado×projetado×mergulhado; RC-626/627 TÊNET/Enéade; RC-411 Gênero Adhy; RC-104 falência da Trimurti; RC-610 pares eônicos/descendência da Tridevi; RC-669 Pashupati);
+- apostila integral em 12 PARTES (10.616 palavras); intervalo de 10 min marcado (U0520); plateia isolada (5 perguntas finais — U0810–U0930); glossário A–D; DOCX em CONCLUIDAS;
+- **Ampliações retidas (sem ficha física — padrão):** RC-457/458/459 (Tridevi), RC-211 (Kundalini), RC-013/014 (Adhyatman/Adhydaiva) → Colecionar Incertezas; aguardam autorização;
+- **Colecionar Incertezas (novos):** "talvez seis espíritos (fatiamento Saraswati/Lakshmi)"; "Parvati rainha das lokas"; "descendência desconhecida da Tridevi (quase guerra em março/2020)"; "Testamento de Jesus" [REVISAR — obra]; "revista Plus Ultra" (não ontológica); "escola de Capela/visita na rebelião"; "arquivos Escócia/Croácia (setas de Moros)"; "Nix gerou Moros"; "Vaikunta"; "microssegundo de pane"; "espíritos sujos = heróis"; "Sofia só sabe atuar na porrada"; "vinda de Sofia = Kalki/Sanata Kumara/Tirthankara/Mahdi";
+- **Nenhuma obra nova** (B013 = Tzimtzum/DAF; revista Plus Ultra não é de Ellam);
+- Base, índice, XLSX e DOCX regenerados.
 
 ## Estado restaurado inicial
 

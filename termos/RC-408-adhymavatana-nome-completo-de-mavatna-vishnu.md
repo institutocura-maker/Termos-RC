@@ -23,6 +23,11 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYP
 
 - **[P2024-05-04-R] ADHYMAVATANA e a tela 4 (telas 1–5):** "Vishnu e Mavatma são o mesmo ser (o que mergulhou com tudo), e o espírito que anima Jesus é essa mesma alma" [descrição da Tela 4]; "Mavatma, que mergulhou conscientemente com alma e tudo, ficou preso sustentando o resíduo de Prabrajna. Sua ADHYAGIA perdeu o Eu consciente, vivendo em loop noturno"; "a condição Adhyagia de Mavatma, depois da queda, ficou com uma porção espiritual vibrante, mas sem um Eu consciente. O resto desse ser existe em um loop mental tipo pesadelo" (Tela 2); "nos últimos 2 bilhões de anos, a condição Adhyagia de Mavatma ficou intocada, mas esgotada por sustentar a parte projetada zumbi" (Tela 3); "após o colapso de Javé, a ADHYAGIA aparece agora à moda de Jesus — prejudicada" (Tela 5).
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11 — FONTE ORIGINAL] Mavatimma e o fatiamento (U0240–U0300; U0380–U0400):** "tinha Brágina e Mavatimma, dois seres da condição adiátima de Perpérium, mas que eram um só espírito adiágia"; "o mesmo espírito responde por Brahma e por Vishnu"; "a parte que ele havia projetado antes, que era para ser Brágina, começou a apresentar problemas"; "Mavatimma, que depois mergulharia como sendo Vishnu"; "dois espíritos da condição adiágia por três na condição adiátima: um deles fatiou a consciência (Brágina e Mavatimma são dois seres sustentados por um mesmo espírito)".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

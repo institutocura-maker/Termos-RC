@@ -14,6 +14,11 @@ P2026-02-28.
 ## Etimologia / Grafias
 Forma validada pelo curador.
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11] Pashupati (U0890–U0900):** "a forma adnata de Shiva associada ao sofrimento do senhor Pashupati, que era uma forma adiágena de Shiva; Shiva é quem teve mais formas, que ainda tem; a mente desses seres, todos funcionando no circuito de Shiva, definiram o que fazer: descobrir uma forma de sair desse buraco negro, que ninguém aguentava mais a dor" — antes do Samudra Manthana.
+
 ## Fontes
 P2026-02-28.
 

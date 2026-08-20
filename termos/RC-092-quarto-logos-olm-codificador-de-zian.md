@@ -27,6 +27,13 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[P2024-07-13] O quarto logos assessora Sophia (U0960–U0980):** "já tem um outro logos que já trabalha com os humanos, que é a figura que eu chamo de quarto logos, que é alguém que assessora Sophia, porque ele não tem condições de nos orientar em coisa alguma. Nós é que podemos ser úteis a ele. Então, qual é o drama? Nós já deveríamos, a essa altura..." [frase truncada].
 
+
+## Ampliação — P2020-07-11
+
+- **[P2020-07-11 — FONTE ORIGINAL] Olm, o oitavo (U0350–U0370; U0600–U0720):** "o quarto Logos, como ele demorou, passou cinco, seis bilhões de anos analisando, e só depois ele mergulhou"; "o elevador de Olm, mesmo sendo codificador de Zian, nesse nosso universo funciona redondinho"; "quando Olm surgiu como codificador de Zian, abriu uma escola no Sistema de Capela e apresentou a tese: há feridas, há problemas na realidade; precisamos criar um grupo que tenha olhos para olhar e tentar perceber isso"; "o contorno da rebelião de Lúcifer: essa coisa do par de Tempérium veio a recomeçar nesses contornos"; "essa escola trabalha alguns poucos milhões de anos, sem provocar guerras, confrontos".
+- **[P2020-07-11] A estratégia do conhecimento (U0630–U0720):** a analogia dos anos 80/90: "nerds, estudantes norte-americanos, desenvolveram as sementes de pequenas empresas que trabalhavam com a internet; hoje valem 200, 300 bilhões, 1 trilhão; tomaram o poder dos presidentes das nações e passaram a mandar no mundo"; "o codificador de Zian fez algo muito parecido: produziu aos poucos um conhecimento, foi produzindo hipóteses, essa estratégia de decifração começou a funcionar associada a uma capacidade filosófica de se unir a princípios e propósitos decentes"; "a revelação cósmica é o momento em que o conhecimento foi sendo criado; essa turma da Trimurti, da Tridevi começou a ser provocada"; "resultado da decisão de Aleteia, ou seja, do quarto Logos, de promover a busca da verdade através do comportamento decente".
+- **[P2020-07-11] Aleteia (U0718–U0720):** "nós vinculados ao quarto Logos de Aleteia; e por isso que ele é o espírito da verdade, porque sempre assim foi chamado" [referência gnóstica — quarentena].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
