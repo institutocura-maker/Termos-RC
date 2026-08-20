@@ -17,6 +17,11 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 - **Grafia preferida:** Olm
 - **Variações:** Codificador de Zion; Codificador de Zian; Quarto Logos (RC-092); "Olm (ou Codificador de Zian)" (B031)
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] "O velho codificador" (U1463–U1466):** "há um desconhecido que é o que eu chamo de quarto logos nos livros que escrevo, que é o velho codificador"; a compreensão de quem ele é passa pela Ogdóade e pela "rebelião de Lúcifer" [STT: "Yel Luzbel"] — "em termos do que a gente pode contar na ótica terrena".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

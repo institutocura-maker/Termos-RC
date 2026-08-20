@@ -38,6 +38,12 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **Gandhi:** "é importante manter a profissão de fé filosófica: você, diariamente, resilientemente, naquilo que Gandhi nos ensinou — 'seja você o instrumento da mudança que você quer ver no mundo'".
 - **"Eu venci o mundo" (Jesus):** "ele venceu como [quem] se mantém aceso, livre e decente".
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] O cerne (U0051; U0799):** "o cerne das coisas, na minha opinião, chama-se dignidade"; "nós só podemos construir duas coisas nessa história: pacificação pessoal e senso de dignidade própria"; "só assim você se [liberta] em relação a tudo isso, ainda que continue a fazer parte disso".
+- **[P2024-08-03] O eu digno e o espírito (U1683–U1715):** "você tem dignidade, seu espírito nenhum"; "o espírito não tem a sensação de dignidade... ele foi criado para fazer o jogo sujo de preparar corpos dentro do aquário"; "se você sai com o eu digno [STT: 'eu de Tat digno' — REVISAR], o espírito que lhe anima é totalmente submisso a você"; "o espírito assume a face da experiência humana... por karma negativo ou por reconhecimento meritório"; "o espírito não evolui por ele mesmo, ele evolui através das experiências que ele provoca no aquário".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -23,6 +23,12 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **Pandora e Zeus (P2026-07-25):** "Pandora criou os humanos e Zeus ficou pé da vida" (queria destruir os animais de estimação de Epimeteu/Prometeu); humanos racionais surgiram "ao longo dos últimos 48.000 anos"; a morte passou a existir com a vida biológica — e os eus mentais passaram a ser aprisionados no Tártaro (RC-286).
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03 — destaque O-2] O sorriso de Pandora (U1414–U1419):** "era Pandora sorrindo, se sentindo livre do domínio de Zeus"; "ele antes era um ser que se chamava Kalil Kadmon [STT: 'Cali Calon']; disso veio o Adam Kadmon, que é outra história, mas que se misturou; e assim, agora se sentia mulher, o nome que deu foi Pandora"; "uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora".
+- **[P2024-08-03] O destrave (U0978–U0982):** "esse problema se deu em todos os segmentos evolutivos advindos dessa geração regenerada do criador, à exceção dos descendentes de Marichi, via Kashyapa, de quem descendem os humanos, devido ao destrave que aconteceu em momentos distintos da sua história evolutiva. Destrave esse feito especificamente por Pandora, por Lilith, por Eva, por Noreia e alguns descendentes"; "se essas mulheres não tivessem feito isso, a humanidade estaria enquadrada em mais uma espécie de lobo, urso".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

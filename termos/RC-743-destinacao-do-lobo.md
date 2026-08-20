@@ -38,3 +38,15 @@
 ## Nota de governança
 
 [P2024-08-03] As formulações mitológicas, cosmológicas, zoológicas, históricas, religiosas, genéticas, biológicas ou clínicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais. Não equivalem a consenso científico, histórico ou religioso.
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03 — destaque O-2] A She-Wolf (U1223–U1245):** "o lobo sempre esteve associado à mulher, representando a mulher livre, independente, ativa, também chamada de She Wolf"; lendas celtas correspondentes ao que Michelle Pfeiffer interpretou no cinema; "essa associação de lobo e mulher traduz uma manipulação genética dos descendentes de Kasyapa e Marichi com os descendentes de Pulaha, ou seja, de humanos com lobos" — perspectiva de um híbrido que trouxesse aos humanos a genética lupina de cuidar dos vulneráveis ("os mais vulneráveis na frente para que o resto cuide").
+- **[P2024-08-03] Rainha Medb (U1329–U1335):** rainha irlandesa celta que reinou em Connacht, pertencente ao ciclo de Ulster; "seu nome significa mulher ou rainha loba"; deusa da guerra pelo desempenho em guerra e forte magnetismo sexual.
+- **[P2024-08-03] A loba de Roma (U1335–U1345):** Rômulo e Remo alimentados por uma loba; "essa loba não era só uma loba, era uma super loba... era alguém que inclusive aconselhava" — possível raiz de mito etrusco.
+- **[P2024-08-03] Heródoto e os Neuri (U1347–U1355):** povos do leste da Europa (atual Romênia) "tinham a capacidade de se transformar em certos dias do ano em lobos, retornando depois disso à forma humana"; denominados por Heródoto "neuros"; antropofagia ritual no culto ao deus lobo.
+- **[P2024-08-03] Lycaon (U1360–U1375):** rei da Arcádia, filho de Pelasgo; tentou matar Zeus ou serviu carne humana; castigado com a forma lupina; segundo Pausânias, sacrificou um filho de Zeus no monte Liceu; a variante de retorno à forma humana após 10 anos alimentando-se de carne humana.
+- **[P2024-08-03] A inveja contra o plano do lobo (U1376–U1385):** "a ação do lobo prevista por Pulaha no meio da palestra era para ser a espécie mais complexa que ele havia criado"; "a inveja de outros filhos da geração regenerada de Brahma não deixou que o plano da destinação do lobo fosse adiante nos termos em que por lá se pensou"; "eles são dementes, por isso que faliram sempre".
+- **[P2024-08-03] A destinação atrelada (U1435–U1440):** "a destinação do lobo está atrelada à destinação dos seres humanos"; "não só do lobo, mas de várias espécies que hoje existem... estão todos metidos na mesma aventura"; "nós somos parceiros e sócios desse destino".
+
+---

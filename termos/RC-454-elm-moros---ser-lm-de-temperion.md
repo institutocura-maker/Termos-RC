@@ -47,6 +47,12 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **Submetido à própria teia:** "Moros não participava disso. Ele também estava submetido a isso. Ele se submeteu, o código dele estava lá dentro" (RC-658).
 - **"Deus do destino" (epíteto indevido):** "os humanos tascaram indevidamente o nome de deuses em todos esses seres... nenhum chega nem perto de poder ser considerado um deus".
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] Orlog e a teia (U0374–U0377):** "os nórdicos dizem que o importante é considerar esse novo ovo cósmico que um deus chamado Orlog fez, quando codificou todos os códigos de tudo que havia de problema para trás, criou uma teia da vida chamada [frase truncada]" — a lacuna NÃO foi preenchida com Wyrd/Urd nem outro nome (registro mantido).
+- **[P2024-08-03] Elm e Ol na Ogdóade (U1463–U1475):** "a Ogdóade... os oito deuses criadores": a Trimurti com suas consortes (Saraswati, Parvati) compõe seis seres "e mais dois outros chamados Elm e Ol"; "esses oito seres seriam os seres responsáveis pelos processos que estão em curso até hoje dentro desse universo"; "todos esses processos faliram à exceção do criado por Elm/Olm" [STT: "Elmorus" — REVISAR].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

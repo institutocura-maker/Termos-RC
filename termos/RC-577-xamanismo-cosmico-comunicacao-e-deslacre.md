@@ -17,6 +17,11 @@ No uso da palestra, protocolo antigo de comunicação entre o universo antimater
 - Grafia preferida: Xamanismo Cósmico. STT: chamanismo, ch humanismo.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03 — destaque O-2] Epimeteu como base do xamanismo (U1480–U1495):** "quem é o mais responsável pelo fato do ser humano ser do jeito que é hoje? É a figura mais louca que eu conheço em toda essa história"; "criou tudo que nós imaginamos como sendo a base do xamanismo"; plantas terrestres com mais de 500 moléculas complexas — "a Terra não faz isso... ayahuasca, cannabis e uma série de outras raízes... foi manipulado"; "quem mais fez isso foi a figura chamada Epimeteu, que era irmão de Prometeu"; "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas"; "ele fez todas as misturas xamânicas... tudo que a gente conhece hoje é Epimeteu por trás".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

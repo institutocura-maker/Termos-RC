@@ -47,3 +47,12 @@
 ## Ampliação — P2024-07-13
 
 - **[P2024-07-13] AE-RCT18 — U0991–U1030; U1242–U1246; U1390–U1459; U1530–U1599:** Acrescenta a falência da providência, dos deuses e dos modelos espirituais como cosmologia atribuída. A relação causal ‘RC-742 resulta-de RC-176’ foi rejeitada: mantém-se apenas proximidade textual.
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] O orfismo como proclamação da falência (U0261–U0268):** "sem o orfismo a gente não compreende muita coisa do que aconteceu na história universal"; revelação surgida há cerca de 2.800 anos na Trácia (atual Bulgária/Turquia/Grécia); "os deuses faliram, mas Zeus nunca aceitou isso"; "a revelação órfica não se digna nem chamar Brahma, Shiva, Vishnu de qualquer coisa" — tudo o que veio antes do novo ovo é tratado como porcaria; a revelação órfica aponta o deus Protogonos como origem da vida que surgiu.
+- **[P2024-08-03] A falência é universal (U0575–U0581):** "os orixás, todas as mitologias estão na mesma falência"; "a dependência deles com a nossa vivência, com a nossa existência aqui com o ser humano" — nós somos o filé da história.
+- **[P2024-08-03] O desfecho da falência (U1395–U1400):** "os deuses faliram e na sua falência eles criaram todas essas estirpes ou espécies tentando não falir, mas faliram"; "cada código genético gera um tipo de expressão corporal ou facial ou comportamental"; espécies extintas no biológico permanecem existindo no universo antimaterial — "como lá tá se acabando, isso precisa ser finalizado".
+- **[P2024-08-03] A exceção (U1466–U1475):** na Ogdóade, "todos esses processos faliram à exceção do criado por Elm/Olm, que vai ter continuidade agora com o quarto logos" — a Revelação Cósmica como divisor de águas.
+
+---

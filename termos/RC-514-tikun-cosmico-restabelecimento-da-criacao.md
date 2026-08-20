@@ -22,6 +22,11 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **Tikun (P2025-02-15):** "o nome disso na cabalá é Tikun — o ato do ser humano usar a si mesmo para reparar tanto a obra quanto o criador nela caída" (ver RC-713).
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] O tikum de Javé (U1780):** "hoje ele sabe que ele é refém do que os humanos fizeram com seus próprios genomas. E ele sempre quis comandar esse processo que é o tikum, que é o nome cabalístico de reparo do DNA dele".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

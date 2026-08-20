@@ -17,6 +17,11 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 - **Demos hesitantes:** "o que liga os chamados demos hesitantes... essa história ainda falta elementos poder me referir a ela" — `[REVISAR]` (Colecionar Incertezas);
 - Contexto: o autor declara não ter ainda elementos para aprofundar a relação (pergunta de Maria Helena sobre o campo morfogenético da humanidade).
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] Kalil Kadmon → Adam Kadmon (U1416–U1417):** "disso veio o Adam Kadmon, que é outra história, mas que se misturou" — a cadeia Kalil Kadmon (nome demo de Pandora) → Adam Kadmon (Ekatma) → Pandora é narrada na palestra como passos da mesma dignificação (ver RC-086 e RC-299).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

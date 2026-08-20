@@ -27,6 +27,14 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 
 - **Rakshasas (P2024-11-30):** "os dois agora tinham que nascer... como rakshasas"; "Hiranyakashipu se transformou em Ravana, o príncipe dos rakshasas"; a guerra do Ramaiana.
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] Criação e expansão (U0695–U0715):** "o nosso amigo Pulasti foi quem deu o seu DNA"; "os rakshasas são mais de 1.000 espécies nesse gênero"; comiam os mamíferos, "cresceram loucamente, se tornaram fortíssimos e nada dos deuses conseguiam mais controlar"; "criaram o império próprio"; "o último é o famoso Ravana, que aparece no livro Ramaiana, mas há toda uma história de milhões de anos que a gente não sabe".
+- **[P2024-08-03] A instituição do sacrifício (U0717–U0734):** criada "para concorrer com os que pegavam tudo para eles"; legitimação nos "Olimpos da vida"; Agni, o deus do fogo: "ou vocês resolvem esse problema lá com os rakshasas ou eu não acendo nunca mais"; comissão de deuses pede a Vishnu que destrua os rakshasas e organize os sacrifícios.
+- **[P2024-08-03] O fim e a mistura (U0743–U0755):** Rama liquidou os rakshasas; "os rakshasas na época começaram, para fugir da fúria da turma de lá, a manipular os seus DNA e se uniram a ursos e lobos"; "hoje tem uma mistureba... pendente de resolução, morrendo de fome e de dor, algumas loucas para vir para cá para comer".
+- **[P2024-08-03] Ravana (U0761–U0765):** "ele não deixava nenhum rakshasa para atrás... se um era ferido, eles voltavam para trás, ainda que perdessem a guerra" — em contraste com Rama, que "deixou tudo para trás em nome do governo sinárquico".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

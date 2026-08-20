@@ -27,6 +27,11 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 - **Projeto Talm (P2024-11-09):** o projeto que trouxe a vida do universo vizinho para o universo biológico (via Moren/Phanes); STT "projeto Town" [REVISAR].
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] A semeadura (U0436–U0444):** "isso foi resultado da semeadura do projeto Talm do nosso amigo Morrensor, que mandou do universo vizinho de lá esse código para cá"; a "primeira molécula mãe" na Terra (3,8 bilhões de anos); o código aprendeu a se replicar — "uma célula com esse código aprendia a construir uma cópia do código... isso chama-se reprodução assexuada"; 3 bilhões de anos de vida unicelular; ~540 milhões de anos atrás surgiram os primeiros pluricelulares — "ninguém sabe de onde veio, porque não tem os fósseis de transição".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

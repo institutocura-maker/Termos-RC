@@ -1,18 +1,18 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-18 (ciclo P2025-11-29 — A Revelação de Ifá e o Destino dos Seres)  
-**Estado canônico:** **767 termos (`RC-001–RC-767`), 1.531 relações, 377 termos com ficha e 378 fichas físicas** (377 canônicas + RC-004 como investigação). Fonte única: `ferramentas/dados_termos.py` · checksum `7a95c8dd5bdb9b981b55f43e9dd1e34229f155be548e232870b27d9e69d028ac`.
+**Data de sincronização:** 2026-08-20 (ciclo P2024-08-03 — re-curadoria + apostila)  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 407 fichas físicas** (406 canônicas + RC-004 como investigação) · **80 obras (B001–B080)** · **23 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `5036e9e` (antes do ciclo P2024-08-03 re-curadoria).
 
-**Última atualização (2026-08-18) — Ciclo P2025-11-29 (A Revelação de Ifá e o Destino dos Seres) concluído com devolutiva do curador:**
-- **1 código novo:** RC-767 **Os 256 Caminhos Profetizáveis de Orunmilá** (COS_PRO 2.5) — estrutura técnica da destinação dos seres (ancestralidade, protocolos, álbum memorial); correlacionado à Teia/Wyrd;
-- **Compactação:** NT-IF02 (6 Etapas) e NT-IF03 (Ifismo) → absorvidos em RC-655; NT-IF04 (Divinosfera dos Orixás) → absorvido em RC-741;
-- **RC-655/665/666 elevados a FONTE PRIMÁRIA definitiva** (Revelação de Ifá; Orunmilá = Moros de Orum; Obatalá = Javé) — o "missing link" prometido em P2024-09-28;
-- **27 termos com fonte `P2025-11-29`** (24 ampliações + RC-767 + fichas novas RC-068/102/517) e **17 relações novas**;
-- **Fichas:** RC-767/068/102/517 novas; 21 fichas ampliadas (incl. RC-001/666 Javé/Obatalá — fome de devoção; Krishna; Jesus; Islã; cuscuta);
-- **Quarentena histórico-religiosa mantida:** Islã/Krishna/Maomé/Orixás = leituras do autor; "SUS da espiritualidade" = citação literária ilustrativa, não preceito;
-- **Veto de STT confirmado:** Hainarok (= Ragnarök), Osamaro Ibier/Croma, 4.261 a.C., morrensor/moruself, imoléis, Vaius — Colecionar Incertezas até áudio;
-- Base validada (`OK: 767 termos, 1531 relações`); índice/XLSX/DOCX regenerados; pacotes de reconstrução regenerados (hábito — manifesto dinâmico);
-- Backup pré-ciclo: `reconstrucao/backups/dados_termos_pre-P2025-11-29_2026-08-18.py`.
+**Última atualização (2026-08-20) — Ciclo P2024-08-03 (A Falência dos Deuses e a Destinação do Lobo) RE-CURADORIA concluída com devolutiva do curador:**
+- **0 códigos novos** (base blindada em 770; RC-771 preservado) — Navalha de Ockham; o maior corpus da repassada (27.688 palavras; 1.841 unidades) absorvido sem inflar a ontologia;
+- **Auditoria RC-742–744 + 30 termos com fonte `P2024-08-03` — TODOS CONFIRMADOS** contra o STT integral;
+- **23 fichas ampliadas** (orfismo/falência; She-Wolf/Medb/loba de Roma/Heródoto-Neuri/Lycaon; Eucion; Cama/lagostas/oxitocina; Enki/FOXP2 47–48 mil anos; Epimeteu/xamanismo; Kalil Kadmon→Adam Kadmon→Pandora; Tikun de Javé; Ogdóade/Elm-Ol; Ifá/Exu/aché; destinação do lobo atrelada à humana; "cura de Brahma no genoma humano");
+- **13 fontes `P2024-08-03` adicionadas no grafo** (RC-086/092/252/433/454/486/506/514/577/609/622/722/730);
+- **Apostila integral concluída — 13 PARTES (22.619 palavras; a maior da série)**; intervalo de 15 min marcado (U1124); plateia isolada (6 perguntas finais + 2 intercaladas); glossário local A–D; DOCX em CONCLUIDAS;
+- **Ampliações retidas por falta de ficha física (padrão — sem autorização não se cria ficha):** RC-302 Epimeteu (destaque da devolutiva!), RC-400 FOXP2, RC-529 Ressonância límbica, RC-299 Kalil Kadmon, RC-525 Semente da racionalidade → registradas na Colecionar Incertezas com U####; aguardam autorização para criação de ficha;
+- Quarentenas confirmadas (político: Lula/Bolsonaro/Trump/Maduro/Thatcher; clínico-científico: FOXP2/oxitocina/28.869 genes/savant/autismo; teológico: Javé "doente, não mau"/10 mandamentos; ufológico: portais 2012/maias/abduções/experimento 2021);
+- **Nenhuma obra nova** (menção = B064; Rochester = B006);
+- Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados; pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
 
@@ -222,6 +222,15 @@ A primeira devolutiva da live *Estagiários do Kaos* foi incorporada parcialment
 - divergências fonéticas mantidas em `[REVISAR]` (ex.: Pularra/Prara/Pharara — sem conversão em relação canônica);
 - lacuna de fala preservada como `[frase truncada]` (não preenchida com Wyrd/Urd nem outro nome);
 - Base, índice, XLSX e DOCX regenerados.
+
+### Re-curadoria (devolutiva 2026-08-20) — APROVADA
+
+- 0 códigos novos (770 termos; RC-771 preservado); auditoria RC-742–744 + 30 termos confirmada;
+- 23 fichas ampliadas via `_ampliacoes_2024-08-03.txt` (método à prova de aspas; scripts arquivados em `analise/`);
+- 13 fontes `P2024-08-03` adicionadas no grafo (RC-086/092/252/433/454/486/506/514/577/609/622/722/730);
+- apostila integral em 13 PARTES (22.619 palavras — a maior da série; intervalo marcado; plateia isolada);
+- **Colecionar Incertezas (novos):** "Ig Brasil/Clod Brasil" = Yggdrasil (STT; 2ª palestra corroborando); "Morrensor/Moren Sou" = Mohen So; Eucion (ancestral dos canídeos, ~4,5 mi anos); oxitocina "casal de lagostas"; "Krishna bloqueou" vampiros/lobisomens; "eu de Tat digno"; "espécie BB"/"chics"; "Philip Dimitrop"; "a cura de Brahma está no genoma humano"; prazo de "18.000 anos"; "massa crítica ~470 mi" (oscila); "cidades maias levadas por portais" (quarentena ufológica); "experimento de 2021"; seis/sete rishis (STT nomeia 5); "Homo sapiens racional há 48.000 anos" × FOXP2 47–48 mil (consistente);
+- **Ampliações retidas (termos sem ficha física — padrão: não criar ficha sem autorização):** RC-302 Epimeteu (U1480–U1525 — destaque da devolutiva), RC-400 FOXP2 (U1554–U1568), RC-529 Ressonância límbica (U0660–U0700), RC-299 Kalil Kadmon (U1414–U1419), RC-525 Semente da racionalidade (U0946–U0978; U1005–U1015) — aguardam autorização para criação de ficha em ciclo futuro.
 
 ## Curadoria P2024-07-14 — Consciências Espirituais Dignificadas
 

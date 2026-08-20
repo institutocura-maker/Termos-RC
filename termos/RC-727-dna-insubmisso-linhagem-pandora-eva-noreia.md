@@ -20,6 +20,11 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **DNA Insubmisso (P2024-11-09):** "quando os humanos começaram a produzir ódio, e os humanos também produzem amor... sensações que nunca nesse universo haviam sido sentidas. Essa novidade fez com que esse mar de elétrons começasse a reciclar as informações"; "os elétrons perceberam: 'essa é a raça mais moderna'"; a humanidade racional surgiu "nos últimos 48.000 anos" de 13,8 bilhões.
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] A exceção humana (U0978–U0985):** os segmentos da geração regenerada falharam "à exceção dos descendentes de Marichi, via Kashyapa"; o destrave por Pandora/Lilith/Eva/Noreia; "hoje nós temos no nosso genoma tudo que todos esses seres querem"; "desde que isso tornou-se conhecido, cidades maias inteiras, há cerca de 1.000 e poucos anos atrás, eram levadas por portais que ainda existiam abertos nessa época" [quarentena ufológica].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

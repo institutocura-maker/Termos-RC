@@ -23,6 +23,11 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **Livro Perdido de Enki (P2025-05-31):** tradução de tábulas sumérias (Nínive; Zecharia Sitchin); Enki, Ninhursag e Ningishzida (Thoth) marcaram casais de humanoides há 50.000 anos ("colocou a sua assinatura quântica genética... para dizer que os humanos eram filhos dele"); FOXP2 ("o gene que responde pela capacidade que o nosso neocórtex tem de produzir símbolos"); genética de submissão (Enki) × genética de liberdade (Pandora, "melhor").
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03 — destaque O-2] Enki e o FOXP2 (U1554–U1568):** "Enki foi quem introduziu [o gene FOXP2]"; "esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma"; "se você pegar fósseis de 100.000 anos de Homo sapiens não tem desse gene... só tem de 40 e poucos mil anos para cá"; a história científica do gene com milhões de anos (herdado dos australopitecos) é distinta — "algo no mar fez isso" [leitura do autor; quarentena científico-genética].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

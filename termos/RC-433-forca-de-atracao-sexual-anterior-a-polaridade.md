@@ -17,6 +17,11 @@ A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; 
 - **Grafia preferida:** Força de Atração Sexual (anterior à polaridade)
 - **Variações:** força de atração; força sexual original; a força que antecede macho/fêmea
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03 — destaque O-2] A lagosta e a confiança (U1599–U1615):** "a lagosta, para transar, precisa tirar a carapaça... ela podia ser comida por um predador. Então ela teve que confiar no lagostão"; "é por isso que a ciência diz que dessa transada os lagostinhos que surgiram receberam as mutações genéticas ocorridas no código genético desse casal e surgiu o gene da oxitocina [STT: GNO XT]"; "isso não é Deus trabalhando... é o próprio Vishnu mexendo nos bichinhos do aquário"; Shiva, via Pashupati, fez a polaridade macho/fêmea dos pluricelulares (U1589).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

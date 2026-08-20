@@ -17,6 +17,11 @@ Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à
 - Grafia preferida: Ogdóade de Hermópolis. STT: Ogat.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] A Ogdóade na fala (U1463–U1475):** "o quarto logos... você só vai compreender quem ele é se a gente for estudar a Ogdóade, que é uma expressão que existe em uma das quatro mitologias egípcias, os oito deuses criadores"; "na Ogdóade é dito que os três seres que hoje a gente chama de Trimurti... com suas respectivas consortes... Saraswati, Parvati... compõem seis seres e mais dois outros chamados Elm e Ol"; "todos esses processos faliram à exceção do criado por Elm/Olm" [STT: "Elmorus" — REVISAR].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -31,6 +31,13 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **Ifá/odus (P2024-11-30 — pergunta da plateia):** "quando Orumilá e os olodus e molés [STT] começaram a produzir a revelação de Ifá desses 256 [caminhos], a preocupação deles ainda era pros seres deste universo vizinho e pouco pros humanos. Isso iria ser feito através dos odus, mas infelizmente esse plano não foi adiante, porque quando Obatalá traiu Orumilá e lançou o Islã, isso criou um problemaço para o palácio de Alafim, que fica no nível de Ilê"; "Orumilá disse: 'Lá vem outra merda parecida com Ragnarok'... houve uma desmobilização"; o autor: "o que mais esses seres me pedem é para eu atualizar os 256 caminhos", mas não vai conseguir ("obra monumental").
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] Os portais de Ifá (U0540–U0543):** "a doutrina dos orixás, a famosa revelação dos corpos de Ifá, que mostra a união que era possível existir entre a comunidade que vivia em Orum e a que vivia no Aiê"; "quando você vinha do mundo invisível pro mundo visível, você passava por um riacho e tinha Exu, portal de uma certa encruzilhada entre mundos"; "há diversos tipos de encruzilhadas... tá descrito no corpo de Ifá, os tais portais".
+- **[P2024-08-03] Espíritos de árvores (U1061–U1065):** "a revelação de Ifá descreve até mesmo o trânsito de espíritos de árvores que migravam do Orum para o Aiê e nasciam ainda como árvores por aqui, seguindo as suas rondas existenciais, conforme Blavatsky... e o que viria a ser a teosofia"; Camille Flammarion e Léon Denis (amigos de Kardec) registraram espíritos que viveram em árvores; a comparação com os Ents do Senhor dos Anéis.
+- **[P2024-08-03] Exu e o aché (U1528–U1531):** "o ser humano é produto de uma série de encruzilhadas de Exu"; "Exu seria o cara que realizou o aché, que transformou alguém do inconsciente pro consciente, mas aconselhado por Orunmilá".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

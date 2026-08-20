@@ -21,6 +21,11 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 - Ragnarok como colapso do sistema e destruição de Marte;
 - substituição posterior do eixo por um Axis Mundi terrestre.
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03] Yggdrasil no STT (U0359; U0380–U0387):** STT "conglomerado de Brasil / Ig Brasil / Clod Brasil" = Yggdrasil (corrobora a leitura registrada na Colecionar Incertezas); "a vida biológica e a experiência de Odin em Asgard e os nove reinos começou a partir de um novo ovo cósmico"; "os velhos donos ficaram com inveja do tipo de vida que surgiu nos reinos de Yggdrasil. E por isso o Ragnarok lá teve lugar"; "o nosso universo era um dos nove níveis desse conglomerado"; Marte era Midgard; "junto com Asgard e Niflheim... formava os nove mundos e o Ragnarok foi a destruição de tudo isso".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -27,6 +27,13 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 
 - **Rama (P2024-11-30):** "Rama era o rei de Ayodhya — existia a Ayodhya terrena e a Ayodhya do universo vizinho; Rama é o rei das duas"; Bharata (irmão) o substituía no reinado sinárquico; Sita sequestrada por Ravana; a opinião pública de Ayodhya (impureza); o teste de fogo de Sita; Rama e os irmãos fazem um samadhi no rio Sarayu, deixando Bharata como único descendente da linhagem da geração regenerada de Brahma.
 
+
+## Ampliação — P2024-08-03
+
+- **[P2024-08-03 — destaque O-2] O avatar duplo (U0735–U0740):** "Vishnu conversou com Shiva e os dois produziram um avatar à moda de Vishnu, mais com genética dos dois, chamado Rama"; nasce em Ayodhya (Uttar Pradesh; rio Sarayu — onde Ellam e Rodrigo estiveram em fevereiro); objetivo: "liquidar os rakshasas, criar uma sinarquia com sede na Terra para organizar os sacrifícios, para que assim toda uma sociedade vizinha se pacificasse".
+- **[P2024-08-03] Sita e Ravana (U0741–U0775):** "criaram uma confusão... de tal modo que Sita, a esposa de Rama, foi sequestrada"; Ravana não fez nada com Sita; a opinião pública de Ayodhya (séculos antes do caso da esposa de César); Sita na fogueira (Agni a preserva); "o único governo decente que teve aqui na terra, cuja sede era a cidade de Ayodhya"; Sita praticou o mahasamadhi; Rama seguiu-se ao rio Sarayu; os personagens "estão todos encarnados" hoje (Sita, Hanuman etc.) — "eu tive que cometer essa indelicadeza de falar com cada um deles" [relato pessoal do autor].
+- **[P2024-08-03] A lição sinárquica (U0755–U0760):** "na condição humana hoje está a esposa de Rama, está esse ser que foi Ravana"; "todos nós estávamos lá"; "o passado somos nós, os humanos, feito humanos" — dramas, traumas, condicionamentos e sensações inquietantes como herança.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
