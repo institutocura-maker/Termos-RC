@@ -25,6 +25,14 @@ A palestra relaciona sua ação a:
 ## Conselho das Nagas
 O Conselho das Nagas foi absorvido nesta ficha como principal componente citado da Mão Invisível, evitando fragmentação prematura. Não é tratado como sinônimo absoluto: a Mão Invisível é explicitamente “multiforme”.
 
+
+## Ampliação — P2025-02-16
+
+- **A Mão Invisível (P2025-02-16):** "esses seres sempre estiveram por trás de muitos dos acontecimentos em curso... o processo continua, a mão invisível. Eles sempre estiveram no processo por trás. Eu estou fazendo essa palestra a pedido deles, só para vocês terem noção da maluquice."
+- **Conselho das Nagas:** "há um conselho permanentemente atuante numa espécie de mundo mental paralelo aos humanos, não formado por espíritos bonitos e charmosos, são essas figuras... esses nagas e alguns padrões de reptilianos que estão por trás de algumas das principais famílias humanas".
+- **Herança transferida:** "a herança do reino dos seres nagas foi transferida para os bramanes, para os rishis, para os kshatriyas, depois os seres híbridos arianos, os dravidianos, enkianos, pandóricos. Tudo isso deu errado. Sobrou o Homo sapiens do contexto Adão e Eva, produzido pela serpente."
+- **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."**
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -22,6 +22,14 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 
 - **Fatiamento na fala (P2025-05-31 — resposta a Rafael):** "manter o corpo átmico sediado no nível operacional e criar só uma projeção manásica no nível laboratorial... o mesmo ser sustentando ao mesmo tempo dois seres"; "nem todas as famílias fizeram isso. Algumas fizeram. Uma das que fez é que gerou a tragédia na qual nós estamos metidos"; hipótese em aberto: "o ser que projetou... era um ser projetado e não inteiro".
 
+
+## Ampliação — P2025-02-16
+
+- **Fatiamento Brama/Vishnu (P2025-02-16 — resposta à plateia):** "Brama, Vishnu e Shiva não correspondem a três espíritos, correspondem a dois. Um espírito de fato está por trás de Shiva, mas o outro espírito praticou o fatiamento de consciência e está por trás de Brama e de Vishnu. Na mitologia hindu, Brama emergiu do umbigo de Vishnu."
+- **A cadeia das condições:** espírito puro (condição adhyagya) → se investe de corpo búdico/manásico (condição adhyatman: Mavatma, Savna, Prabrajna) → mergulham e assumem condição adhydaiva (Brama caiu — desalmado; Shiva e Vishnu ligados aos espíritos) → produzem seres adhyajna (avatares: Krishna, Rama, Jesus, Saibaba) → suporte adhybhuta.
+- **Mavatma→Mohen So:** "a ideia de criação foi de Mavatma, que ao mergulhar passou a se chamar Mohen So [STT 'Vmo']"; Prabrajna se apropriou da ideia e caiu nela.
+- **Shiva:** "é um ser inteiro, expressão única do seu espírito... produziu mais de 1.000 avatares, todos descritos nos Puranas".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

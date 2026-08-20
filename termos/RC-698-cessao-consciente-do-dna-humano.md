@@ -24,6 +24,12 @@ A cessão é vinculada a:
 ## Etimologia / Grafias
 Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial` para **cessão consciencial**.
 
+
+## Ampliação — P2025-02-16
+
+- **Cessão consciente do DNA (P2025-02-16):** "esse DNA humano tem que ser cedido de maneira consciente pelos terráqueos, sendo esta a única maneira de preservar sua validade funcional quando transferido para corpos de outras espécies. Não adianta arrancar o DNA humano ou abduzir alguém e levar — é como um transplante que o organismo rejeita. O DNA humano, para funcionar em qualquer outra coisa, tem que ser protegido pelo ato de cessão consciencial do dono daquele DNA. Esses seres descobriram isso agora, entre os anos 2018, 2021."
+- **Desmistifica abduções:** a "abdução" física não basta — a cessão consciente é a chave (ver RC-359 Abduções e Reparo Espiritual).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -16,6 +16,11 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 ## Etimologia / Grafias
 - Grafia: Cérebro Radiata.
 
+
+## Ampliação — P2025-02-16
+
+- **Cérebro radiata (P2025-02-16):** "a maioria desses seres é cérebro radiata; Sofia [Hochmah], que foi criado antes disso, tem cérebro radiata"; "o cérebro bilatério é uma novidade que surgiu nos últimos milhões de anos, nos últimos 800, 700 milhões de anos" (origem nas linhagens de Kashyapa/Prachetas).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

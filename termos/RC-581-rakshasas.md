@@ -17,6 +17,11 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 - Grafia preferida: Rakshasas. Singular: Rakshasa. STT: racchaças, rakchaças, raquchaças.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2025-02-16
+
+- **Rakshasas (P2025-02-16):** criados por Pulastya; "foram criados para chupar sangue de mamíferos... quando voltavam para lá, a Trimurti analisava"; "se replicaram loucamente, se transformaram em seres extremamente poderosos e roubavam as prendas dos sacrifícios"; a criação dos rakshasas nasce da curiosidade da Trimurti sobre o comportamento dos mamíferos (zelo materno — "tálamo, hipotálamo, hipocampo").
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

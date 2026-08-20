@@ -17,6 +17,11 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 - Grafia preferida: Superconsciência.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2025-02-16
+
+- **Superconsciência (P2025-02-16):** "sem que você trabalhe um padrão de consciência superior, você jamais vai ser alguém dignificado frente a você mesmo. Você vai esperar que alguém chegue e diga: você é digno. E a gente foi condicionado a achar que Deus ou alguém um dia vai chegar e dizer isso... Isso é mentira, pessoal. Isso é furado."
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

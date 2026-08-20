@@ -16,6 +16,11 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 ## Etimologia / Grafias
 - Grafia: Gestão da Sensação Pessoal.
 
+
+## Ampliação — P2025-02-16
+
+- **Gestão da Sensação Pessoal (P2025-02-16):** "a sensação da novidade aparece de vez em quando... mas quando você quiser reter em você a sensação dessa novidade, a coisa escapa de você e você não retém, porque você já está cheio de outras coisas" — a gestão da sensação como caminho (yoga/ciência pessoal).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

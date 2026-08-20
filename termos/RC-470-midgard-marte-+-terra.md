@@ -15,6 +15,11 @@ Na cosmologia comparada de Jan Val Ellam, Midgard é associado primeiro a Marte,
 
 A palestra descreve Marte como o nono mundo material conectado a oito locas do universo vizinho. Após o Ragnarok, o eixo de contato teria sido deslocado para a Terra. O par “Marte + Terra” registra essa transferência funcional, não uma identidade astronômica entre os planetas.
 
+
+## Ampliação — P2025-02-16
+
+- **Midgard (P2025-02-16):** "a mitologia nórdica fala Midgard... a gente joga a Terra como sendo Midgard, mas na época era Marte" (o Axis Mundi antes de ser transferido para a Terra/Naimisha); Bifrost como ponte dos nove mundos (ver RC-471).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

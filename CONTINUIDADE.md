@@ -630,3 +630,26 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados.
 
 **Estado:** 770 termos · 1.706 relações · RC-771 livre · 407 fichas · 80 obras · **17 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2025-02-16 O Oitavo Dia da Criação / O Novo Ser Humano (19/08/2026)
+
+**Re-curadoria** (repassada de palestra já vista). Devolutiva O-1..O-6 do curador (via Assistente): auditoria aprovada; 24 ampliações aprovadas; **zero códigos novos** (base em 770); B001 confirmado; apostila autorizada; **quarentena político/ufológica ABSOLUTA** (TIs/reptilianos = interpretação narrativa do autor).
+
+### Execução
+- Auditoria RC-694–701 contra o STT integral: **8/8 confirmados** (+ ~120 termos anteriores coerentes).
+- **25 fichas ampliadas** (seção "Ampliação — P2025-02-16"): destaques — **Mão Invisível/Conselho das Nagas** (palestra "a pedido deles"; RC-697); **cessão consciente do DNA** (2018–2021; desmistifica abduções; RC-698); **fatiamento Brahma/Vishnu = um espírito** (RC-604); **Krishna adármico** (RC-414); **5 linhagens de Kashyapa + 13 filhas de Daksha** (RC-700/701); genealogia completa (RC-696/664/585/581/582).
+- 2 termos sem ficha (RC-544, RC-387) → registro na Colecionar Incertezas.
+- **31 relações novas**; 13 campos relacionados enriquecidos.
+- Base: **770 termos · 1.737 relações** (+31) — `OK: 770 termos, 1737 relações — dados válidos.` · RC-771 preservado.
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-OITAVO-DIA.py`.
+
+### Colecionar Incertezas (itens novos)
+"Vmo" (Mohen So); "Mavátima" (Mavatma); "Ophiucus/Ostrogonos" (Ofiúco); "quimpurchas" (Kimpurushas); "valaquilias" (Valakhilyas); "maroraga" (Maharaga); "Tiis" (TIs); "demobiol"; "O Drama Cósmico de Javé" = B001 confirmado.
+
+### Apostila (18ª do acervo)
+- `apostila.md` (12.250 palavras; 12 PARTES + glossário A–D; **PARTE XI — Perguntas da Plateia isolada** com 4 intervenções; nota editorial com quarentena TIs/reptilianos); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-02-16_oitavo_dia_criacao_novo_ser_humano/`.
+- Índices sincronizados.
+
+**Estado:** 770 termos · 1.737 relações · RC-771 livre · 407 fichas · 80 obras · **18 apostilas concluídas**.

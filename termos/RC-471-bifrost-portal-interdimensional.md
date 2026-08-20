@@ -17,6 +17,11 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 - **variações:** Bifröst;
 - **STT:** B Frost, Be Frost.
 
+
+## Ampliação — P2025-02-16
+
+- **Bifrost (P2025-02-16):** "a famosa ponte Bifrost, que o deus Heimdall acionava quando era chegada a época de se abrir um caminho entre os nove mundos do conglomerado de Ig Brasil"; "só quando essa Bifrost era estabelecida, seres dessas comunidades podiam viajar de uma para outra, inclusive vir para a Terra (na época, Marte)".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -15,6 +15,11 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 
 - **Na palestra (P2025-05-31):** antes do máximo glacial, há cerca de 23.000 anos, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana; existia um continente da Lemúria, continente de Mu, basicamente ligado ao continente hindu — a cultura que aí existia chama-se Kumari Kandam; expressões avatáricas Anahata/Pashupati [STT — REVISAR] comprovadas por registros arqueológicos de +20.000 anos; dravidianos (Mohenjo-Daro/Harapa) como povo de Shiva; a palavra Deus não existia (surgiu na Trácia, 4–5.000 anos).
 
+
+## Ampliação — P2025-02-16
+
+- **Kumari Kandam (P2025-02-16):** "Shiva começou a se apresentar pelo Axis Mundi de Naimisha... aos humanos que viviam no sul da Índia, na tradição Kumari Kandam (continente que existia dando continuidade ao sul da Índia e sucumbiu ao nível hidrostático do mar)"; "construíram cidades tipo Mohenjo-Daro, Harapa"; "o primeiro a se estabelecer na Terra foi Shiva, há cerca de 20.000 anos, criando os seus seguidores"; o epíteto "Deus" surgiu há ~4.000 anos na Trácia.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

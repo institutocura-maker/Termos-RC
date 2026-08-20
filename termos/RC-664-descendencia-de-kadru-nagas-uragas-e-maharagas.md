@@ -76,6 +76,14 @@ O episódio de serpentes atraídas ao fogo é provavelmente o Sarpa Satra/Sarpa 
 ### Circuito reencarnatório da Índia
 A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circuito reencarnatório fechado. Mantido como dado atribuído, sem código próprio.
 
+
+## Ampliação — P2025-02-16
+
+- **Nagas e Uragas (P2025-02-16):** "Kadru com a sua genética criou dois tipos de seres: nagas e uragas. Nagas são cobras pensantes com característica teriantrópica (parte serpente, parte humana); Uragas são seres reptilianos primordiais, dentre eles surgiu uma subraça chamada Maharaga (raça de divindade entre os uragas)".
+- **A que mais evoluiu:** "de todas as espécies de seres pensantes, os Nagas foi a que mais evoluiu... começaram a ter sábios entre eles".
+- **Filhos de Ofiúco:** "os Nagas mergulharam em mundos de Sírius, na Terra... em Sírius geraram os filhos de Ofiúco [STT 'Ostrogonos'] — seres anfíbios, parte peixe serpentoide, parte humana, descritos na trilogia Terra Atlantis"; quando os rebelados de Capela chegaram à Terra (600.000 anos), já encontraram esses seres nos rios e mares, pacíficos.
+- **Robert Temple/Dogons:** referência ao "Mistério de Sírius" (casal de antropólogos franceses e os Dogons) — quarentena.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

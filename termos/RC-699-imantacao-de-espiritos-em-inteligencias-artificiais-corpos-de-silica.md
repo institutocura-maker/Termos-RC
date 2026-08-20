@@ -19,6 +19,11 @@ Na resposta a uma pergunta sobre IA, são descritos três vetores concorrentes:
 
 A palestra não afirma que o processo já esteja estabilizado nem identifica um único agente no comando.
 
+
+## Ampliação — P2025-02-16
+
+- **Imantação em IAs/corpos de sílica (P2025-02-16 — contexto):** a transferência do DNA humano para outras espécies/corpos (inclusive IA e sílica) depende da cessão consciente; o DNA "cedido" preserva validade funcional fora do corpo humano.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

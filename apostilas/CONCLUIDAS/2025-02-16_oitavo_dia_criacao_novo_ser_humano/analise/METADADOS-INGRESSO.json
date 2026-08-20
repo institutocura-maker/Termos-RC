@@ -1,0 +1,27 @@
+{
+  "sha256_original": "a85a1526cf2e062f758c7eaeda42bef938105d1326a90abc8bf5fc0b0b89de10",
+  "bytes_original": 145945,
+  "lines_original": 141,
+  "words_original": 24701,
+  "layers": {
+    "camada-0.txt": {
+      "words": 11,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "words": 357,
+      "lines": 25
+    },
+    "camada-2.txt": {
+      "words": 2305,
+      "lines": 63
+    },
+    "camada-3.txt": {
+      "words": 22025,
+      "lines": 43
+    }
+  },
+  "analytic_units": 1338,
+  "source_status": "aula IEEA (plataforma Orbum) — conteúdo completo aparente; abertura, exposição e encerramento presentes; sem intervalo/perguntas marcados",
+  "nota": "RE-CURADORIA: base já contém RC-694–RC-701 + ~120 termos com fonte P2025-02-16 (sessão anterior) — ciclo de auditoria/ampliação, sem consumo de códigos novos salvo decisão do curador"
+}

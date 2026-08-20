@@ -29,6 +29,14 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 
 - **Gerações regeneradas (P2026-07-25):** Brahma criou uma geração regenerada da sensação mental (Atri, Marichi, Pulastya, Pulaha, Kratu) e outra do corpo tetracéfalo (Bhrigu, Daksha) — unidas para criar o mundo biológico.
 
+
+## Ampliação — P2025-02-16
+
+- **Os 7 filhos da mente de Brahma (P2025-02-16):** Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu e Vasishtha — "esses sete seres são as fontes gênicas, as fontes do genoma, principais de todas as formas de vida que hoje percebemos existindo na natureza planetária terráquea".
+- **Marichi → Kashyapa:** da genética de Marichi surgiu Kashyapa; de Kashyapa diretamente os Asuras (= Titãs gregos), indiretamente os Devas (Olimpianos) e os Prachetas (dragões pensantes).
+- **Atri → Rishis:** "seres antimateriais com poderes mentais que fazem votos rígidos de honra" (trincheira genérica; Shiva criou o yoga para eles, não para humanos).
+- **Pulastya →** Rakshasas, macacos, Kinnaras (centauros), Yakshas (espíritos de florestas); **Pulaha →** Sharadas (insetos alados), felinos, Kimpurushas (teriantrópicos leão/homem), ursos e lobos; **Kratu →** Valakhilyas (rishis minúsculos e poderosos) → linhagem de Satyavati → Parashara → Vyasa → Pândavas/Kauravas.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

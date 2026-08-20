@@ -22,6 +22,11 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 
 - **Emergência do 4º cérebro (P2024-02-25):** 'a emergência de um quarto cérebro, para além do cérebro reptiliano, límbico e primata... o quarto cérebro é uma metáfora. Tem a ver com a maneira como você usa o cérebro que tá aí e permitirá uma superconsciência surgir no eu de cada ser humano. Mas para isso é necessário antes que você aprenda a criar super sensações.'
 
+
+## Ampliação — P2025-02-16
+
+- **O quarto cérebro (P2025-02-16):** "o quarto cérebro não é mais um pedaço de nada aqui dentro: é a maneira como o seu eu mexe esses três níveis que já tem (reptiliano, límbico, primata)"; "é de ficar num padrão de consciência superior em você, se libertar de todas essas mentiras e criar, a partir de um marco zero, um novo padrão de conhecimento que lhe leve a um nível de compreensão adulta e a um nível de comportamento dignificado".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

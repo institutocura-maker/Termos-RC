@@ -38,6 +38,12 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Bhagavad Gita e o karma do devoto:** 'se você for o meu devoto e agir em nome do dharma, você não terá karma negativo' — interferência da Trimurti (Krishna/Narada) contra a teia quântica; com a morte de Krishna, 'prevalece a velha questão da teia: o que sai de um ser volta para ele'.
 - **4.000 anos de engrandecimento:** 'o eu do Senhor Parameshthi se torna bem menor e simplório do que o eu de Krishna ao longo dos 4.000 anos'; todos os templos de Brahma sumiram; Krishna criou avatares de si mesmo para engrandecê-lo.
 
+
+## Ampliação — P2025-02-16
+
+- **Krishna adármico (P2025-02-16):** "Krishna assumiu o controle desse processo e domina a Índia... a Índia hoje pertence a Krishna, como também as duas maiores locas do universo vizinho, a Goloka e a Vaikuntha"; "isso está acabando, porque Krishna, por ter traído o dharma que ele mesmo criou, está se tornando um ser adármico. O ego dele foi direcionado para padrões que o inabilitam na sua pretensão de ser o senhor supremo".
+- **Castas indianas:** "quem nasce na Índia reencarna na Índia... funciona em circuito fechado... as castas vão ter que passar por uma reformulação".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

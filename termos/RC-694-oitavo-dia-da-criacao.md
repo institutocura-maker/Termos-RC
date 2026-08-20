@@ -27,6 +27,14 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 - Rotatividade do Poder Local e Herança Humana da Terra;
 - dimensão temporal do Novo Ser Humano, sem duplicar `RC-544`.
 
+
+## Ampliação — P2025-02-16
+
+- **Os três cenários do oitavo dia (P2025-02-16):** "esse novo tempo do oitavo dia da criação vai acontecer de todo jeito, porém poderá acontecer sem a participação dos humanos, caso nós venhamos a ser extintos enquanto raça (perigo real e iminente); com os humanos condicionados pela devoção e submissão (não adianta muita coisa); e com os humanos emancipados, ajudando ou definindo a agenda consciencial desse novo tempo".
+- **Especiação:** "o oitavo dia se daria por meio da especiação do genoma humano, que seria exportado para outros mundos desse universo e novos núcleos humanos ali começariam a viver de forma decente".
+- **Pré-requisitos:** "o ser humano só vai cumprir esse oitavo dia sendo o protagonista que se espera se houver nele a emergência do quarto cérebro e se ele edificar em si mesmo um padrão de consciência superior" (ver RC-614 e RC-615).
+- **"O palco no qual o ser humano vive é camuflado a tal ponto que esconde a realidade maior na qual ele atua sem que o saiba."**
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

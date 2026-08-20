@@ -22,6 +22,11 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 
 - **Ragnarok/Ig Brasil (P2025-05-31):** "restos do Ragnarok": destruição do reino "Ig Brasil" (STT), onde Odin e Freya "criaram uma alquimia na época que resolvia as dores de todos os seres desse universo vizinho" e fizeram "uma ponte desse universo vizinho com o nosso universo... veio bater em Marte".
 
+
+## Ampliação — P2025-02-16
+
+- **Ragnarok/Ig Brasil (P2025-02-16):** "depois do Ragnarok, um apocalipse acontecido há cerca de 300 milhões de anos atrás, que envolveu a vida que existia em Marte"; "Marte era, dentro do conceito de Ig Brasil (conglomerado de oito níveis de realidades do universo vizinho + o nosso = nove faixas), o reino de Odin, que se tornou rei imperador"; "os viventes de Asgard jogaram de lá para cá os segredos, os códigos alquímicos, uma série de fórmulas — isso caiu aqui na Terra" (as três setas de Orlog/Moros — ver RC-467/RC-611).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

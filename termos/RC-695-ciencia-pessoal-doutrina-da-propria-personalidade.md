@@ -22,6 +22,13 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 - movimentar-se sem esperar que outro carregue ou salve;
 - desenvolver disciplina compatível com a própria personalidade.
 
+
+## Ampliação — P2025-02-16
+
+- **Doutrina da própria personalidade (P2025-02-16):** "cada ser humano que a isso pretenda desenvolva a sua ciência pessoal ou a sua doutrina, a doutrina da sua própria personalidade, porque cada um de nós é de um jeito. Regras gerais existem, mas cada um de nós precisa também de regras específicas"; "seja você o seu próprio guru".
+- **O espelho:** "você olha para um espelho, quando você sai da frente do espelho sua imagem fica lá. Isso aqui é o eu humano que fica dentro do espelho, mas o espírito dele é o que tá fora. Nós somos imagens refletidas dos nossos espíritos que se movimentam dentro de um espelho — só que esse espelho pra gente é uma faixa de realidade."
+- **Desenraizar:** "você perceber uma nova ideia é fácil. O difícil é desenraizar as velhas ideias... sem o processo da vivência do yoga ou algo parecido, não há possibilidade de renovação do ser humano."
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

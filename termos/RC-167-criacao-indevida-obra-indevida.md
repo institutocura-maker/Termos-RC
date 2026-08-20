@@ -17,6 +17,11 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **Grafia preferida:** Criação Indevida
 - **Variações:** Obra indevida; Criação "problemática"; Criação "imperfeita"; Criação "inusitada" (título do cap. 2 de B024)
 
+
+## Ampliação — P2025-02-16
+
+- **Criação Indevida (P2025-02-16):** a criação como "fogo de artifício" que fenecerá; "o que alguém faz nesse universo não repercute em canto nenhum; o que alguém faz no paraíso só repercute no paraíso; mas um ser humano, com sua pulsação pessoal, movimenta toda a base estrutural de tudo que existe — porque no genoma humano tudo está contido, porque alguém fez que assim fosse. Tudo indica que esse alguém são essas figuras [nagas/reptilianos]."
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

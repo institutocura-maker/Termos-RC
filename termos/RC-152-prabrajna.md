@@ -18,6 +18,12 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **Variações:** Prajapati (tradição védica); identidade anterior de Brahma/Javé; "Prabrajna" também grafado como "Prabrajná"
 - **Origem:** sânscrito (pra = antes; brajna ≈ consciência/sabedoria) — conferir etimologia exata
 
+
+## Ampliação — P2025-02-16
+
+- **Prabrajna (P2025-02-16):** "um outro ser chamado Prabrajna ficou produzindo essa ideia como Mavatma, mas terminou se apropriando dela e por isso terminou produzindo essa criação e nela caindo".
+- **O fogo de artifício (resposta à plateia):** "essa criação é igual a um fogo de artifício... ela ainda está explodindo, mas em algum momento vai começar a fenecer"; "o estoque de hidrogênio tem limite... nenhuma estrela mais se acenderá"; energia tamásica de Shiva (entropia) rasga a matéria × forças sátvicas de Vishnu (gravidade, eletromagnetismo, forças nucleares); "segundo a ciência, mais uns 40, 50 bilhões de anos"; "o pressuposto é que todos os espíritos até lá estejam limpos... só que hoje já se sabe que não vai dar tempo".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

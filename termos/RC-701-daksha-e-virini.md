@@ -29,6 +29,12 @@ Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 
 - **69 filhas de Daksha:** as últimas 13 deram origem a Olímpicos e Titãs; duas dessas 13 → os olimpianos/titãs; uma delas ("Ira" [REVISAR]) produziu todas as plantas, inclusive a cuscuta (STT da palestra P2026-07-25).
 
+
+## Ampliação — P2025-02-16
+
+- **Daksha e Virini (P2025-02-16):** "Daksha teve 69 filhas... essas 13 filhas de Daksha são as mães de quase tudo que vemos no universo e particularmente aqui na Terra"; "dessas 13, Aditi, Diti e Kadru têm protagonismo maior".
+- **Aditi →** 12 Adityas/senhores da criação (→ Vivasvan → Yama/Manu → Manavas); **Diti →** Asuras; **Kadru →** Nagas e Uragas.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -22,6 +22,11 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 
 - **Monstros de Vishnu e Shiva (P2026-07-25):** Ravana (10 cabeças; decepava uma a cada 1.000 anos pensando em Brahma — arrancava fórmulas de poder) e Hiranyakashipu (STT "Iraniakashipu") foram criados para enfraquecer Brahma e saíram do controle — "pandemônio que dissolvia o conselho".
 
+
+## Ampliação — P2025-02-16
+
+- **Ravana (P2025-02-16):** os Rakshasas (criados por Pulastya) chupavam sangue de mamíferos; "a Trimurti capturava para analisar a comida dos rakshasas (os mamíferos)"; "os rakshasas se tornaram a estirpe mais forte da criação; Ravana, o rei dos Rakshasas, tornou-se o ser mais forte da criação"; os rakshasas roubavam as oferendas dos yajnas → "os deuses produziram Rama para destruir Ravana".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

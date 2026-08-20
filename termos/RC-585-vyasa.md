@@ -27,6 +27,11 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 - **Encarnação de Moros:** ver RC-454.
 - **Mahabharata:** 'o primeiro livro escrito por uma mente humana... que juntou uma segunda-feira com a terça-feira'.
 
+
+## Ampliação — P2025-02-16
+
+- **Vyasa (P2025-02-16):** "viveu há cerca de 5.000 anos (4.000 e poucos)"; "teve que compor um nível de explicação para diversas formas de inteligência (gandarvas, iakshas, rakshasas, devas, asuras, pitris, prachetas)"; "fez milhões de versos pros gandarvas... e pros humanos fez uma short version, um resumo de apenas 100.000 versos" (Mahabharata, 10 livros); "os humanos entenderem o que o Mahabharata descreve era o menos importante na lógica de Vyasa".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
