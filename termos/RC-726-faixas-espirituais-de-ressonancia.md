@@ -10,6 +10,11 @@
 ## Definição Sintética
 Ambientes espirituais que, segundo a palestra, seriam sustentados pela ressonância das mentes reunidas. O acesso não seria democrático, mas compatível com a sensação e o estado do eu.
 
+
+## Ampliação — P2024-11-09
+
+- **Faixas de ressonância (P2024-11-09):** "os buracos negros são contatos da vibração desses dois universos"; "a informação entra em 3D e sai 2D"; "isso não é científico, que eu estou afirmando aqui. A ciência não sabe disso. Então, ninguém deve tomar isso como sendo verdade exclusiva. Isso é só uma possibilidade. Vamos colecionar essa incerteza como uma possibilidade."
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

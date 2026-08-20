@@ -21,6 +21,11 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 
 - **Conectoma (P2024-11-30):** "essa segunda faísca que nos move é o genoma... se você agir no primeiro impulso, são as memórias que recebeu de papai e mamãe e o fluxo da vida"; "quando você aprende a observar e agir no segundo impulso, no impulso mais profundo, aqui você tem livre arbítrio" (ver RC-719).
 
+
+## Ampliação — P2024-11-09
+
+- **Cérebro e eu (P2024-11-09):** "o cérebro humano serve para uma vida, nasce e morre com esse corpo e apenas dá guarida ao eu, um personagem que emerge durante a vida do corpo. Isso é transitório, ilusório. Mas tudo isso está vinculado a um espírito que tem lá um tipo de personagem numa mente eterna, que recolhe os fragmentos de cada cérebro e vai colecionando".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -17,6 +17,11 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 - **Grafia preferida:** Deus (quando referido ao Incognoscível); Deus Incognoscível
 - **Variações:** Deidade Suprema; Fonte; Princípio Maior; Deus Bíblico (= Javé, não confundir)
 
+
+## Ampliação — P2024-11-09
+
+- **Deus (P2024-11-09):** "uma consciência cósmica e espiritual, tipo Deus, que pudesse existir para além das fronteiras da criação caótica... jamais deu qualquer passo no sentido de resolver o impasse gerado. Tanto que o buraco negro mental emergiu e está acelerando ainda mais o colapso do universo vizinho. E, de novo, esse Deus que existe lá naquele nível espiritual nunca fez nada, mas ele existe. Mas, como eu disse, pro caos é uma majestosa inutilidade. Nós, os humanos, é que temos que fazer o trabalho sujo".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

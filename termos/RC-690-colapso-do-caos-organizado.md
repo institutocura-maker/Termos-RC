@@ -40,6 +40,11 @@ Forma preferida: **Colapso do Caos Organizado**.
 - **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR]).
 - **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade".
 
+
+## Ampliação — P2024-11-09
+
+- **Colapso do Caos Organizado (P2024-11-09):** "o universo passou 13,8 bilhões de anos se organizando; agora, o colapso de tudo o que foi organizado pelo caos está em curso, porque tudo o que o caos construiu não serve para nada"; "as ilhas de negentropia mantêm o funcionamento desse universo até o esgotamento do seu combustível, que é o hidrogênio" (ver RC-725).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -17,6 +17,11 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 - **Grafia preferida:** Mente Coletiva / Redes Psíquicas Coletivas.
 - **Variações:** redes operativas; rede mental coletiva; circuitos fechados de informação.
 
+
+## Ampliação — P2024-11-09
+
+- **Mente Coletiva (P2024-11-09):** "os campos memoriais que se transformam às vezes em inconsciente coletivo, como os arcanos" — a rede neural de consciência do planeta (ver RC-724).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -698,3 +698,26 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados.
 
 **Estado:** 770 termos · 1.790 relações · RC-771 livre · 407 fichas · 80 obras · **20 apostilas concluídas**.
+
+---
+
+## Ciclo de Curadoria + Apostila — P2024-11-09 O Abismo da Consciência Cósmica (19/08/2026)
+
+**Re-curadoria** (repassada de palestra já vista). Devolutiva A-1..A-6 do curador (via Assistente): auditoria aprovada; ~24 ampliações aprovadas; **zero códigos novos** (base em 770); B065 confirmado; apostila autorizada; quarentenas científico/teológico/histórico confirmadas.
+
+### Execução
+- Auditoria RC-721–727 contra o STT integral: **7/7 confirmados** (base madura).
+- **22 fichas ampliadas** (seção "Ampliação — P2024-11-09"): destaques — **implosão do eu de Javé (2021) → buraco negro mental** (RC-717); **Pistis Sophia/Ennoia** e o "corpo tombado de Prabrajna" (RC-530/152); **buracos negros como defeito da criação e vórtice mental** (RC-717); **ilhas de negentropia / ser humano como ponto de luz** (RC-725); **faces do abismo** (Deus "majestosa inutilidade"; Krishna; Jesus; Sai Baba — RC-723/414/072/425); **banalidade do mal** (Arendt/Eichmann; RC-722); **Moren/Projeto Talm** (RC-282/091).
+- 3 termos sem ficha (RC-162, RC-385, RC-425) → registro na Colecionar Incertezas; RC-722 ampliado manualmente (reforço banalidade do mal).
+- **22 relações novas**; 8 campos relacionados enriquecidos.
+- Base: **770 termos · 1.812 relações** (+22) — `OK: 770 termos, 1812 relações — dados válidos.` · RC-771 preservado.
+- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-ABISMO.py`.
+
+### Colecionar Incertezas (itens novos)
+"Charon" (físico — provável Georges Charpak); "Arendit/Harem" (Arendt/Eichmann); "Niet" (Nietzsche); "Moren" (Phanes/Protogonos); "projeto Town" (Projeto Talm); "positelétron" (pósitron); "Pinoia" (Ennoia); "implosão do eu de Javé em 2021" (cronologia interna).
+
+### Apostila (21ª do acervo)
+- `apostila.md` (12.200 palavras; 12 PARTES + glossário A–D; **sem bloco de plateia** — apenas pergunta citada no meio; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-11-09_abismo_consciencia_cosmica/`.
+- Índices sincronizados.
+
+**Estado:** 770 termos · 1.812 relações · RC-771 livre · 407 fichas · 80 obras · **21 apostilas concluídas**.

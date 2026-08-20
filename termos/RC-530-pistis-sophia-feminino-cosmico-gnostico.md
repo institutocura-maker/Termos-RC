@@ -15,6 +15,11 @@ Epíteto gnóstico do ser criador na sua condição paradisíaca, **antes da que
 
 Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas antes da queda, o ser que eu chamo de Prabrajna, nesse livro ele aparece com o nome de Pist Sophia, que não é nome, é um epíteto, é um tipo de Sofia — Pistis Sophia". A palestra consolida a cadeia: Pistis Sophia (pré-queda) → Javé/Samael/Ialdabaoth (pós-queda).
 
+
+## Ampliação — P2024-11-09
+
+- **Pistis Sophia / Pinoia (P2024-11-09):** "o nome Sofia aí não é nome, é epíteto"; "Sofia aqui não é [Hochmah], a sabedoria... um outro tipo de sabedoria menor chamada Ennoia [STT 'Pinoia']".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

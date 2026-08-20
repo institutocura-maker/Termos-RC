@@ -10,6 +10,12 @@
 ## Definição Sintética
 Estruturas mentais e emocionais que, segundo a explicação da palestra, seriam armazenadas em campos mórficos/memoriais, inconsciente coletivo, arcanos e egrégoras. A fala distingue essas estruturas da memória básica atribuída aos elétrons.
 
+
+## Ampliação — P2024-11-09
+
+- **Formas-pensamento (P2024-11-09):** "vamos chamar de formas-pensamento e formas-sentimento, que são guardadas nos campos mórficos de cada espécie, os campos morfogênicos, os campos memoriais, que se transformam às vezes em inconsciente coletivo, como os arcanos, o mundo das egrégoras".
+- **O elétron não chega lá:** "isso aí não é com elétron, não. Ele não chega nisso... ele guarda a informação. A informação é que chega nesses campos, mas não é que o elétron [vá]".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -28,6 +28,16 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 
 - **Sócrates e o herói (P2025-03-15):** "Sócrates conseguiu corromper os guardas... 'mas eu passei minha vida inteira falando mal de corrupção. Como é que eu vou encerrar minha vida se eu ceder?'" — o sobreviver a qualquer custo como corrupção; a dignidade como genótipo novo construído por alguns humanos.
 
+
+## Ampliação — P2024-11-09
+
+- **Hannah Arendt e a banalidade do mal (P2024-11-09):** "Arendt cunhou a expressão 'banalidade do mal' no relatório de 1963 sobre o julgamento do nazista Adolf Eichmann em Israel... um burocrata brando, distante, preocupado apenas com a eficiência do serviço; terrivelmente normal"; "a pergunta sobre se alguém pode fazer coisas terrivelmente más sem ser terrivelmente mau vaga sem resposta"; "regimes brutalmente totalitários produzem agentes irreflexivos, pessoas incapazes de pensar do ponto de vista da outra"; "para mim, não existiu nada mais tenebroso e escabroso do que perceber que Javé e seus anjos sempre se acharam terrivelmente normais... os avatares se acham normais. A banalidade do mal apresenta em tudo."
+
+- **Dignidade (P2024-11-09):** "Jesus foi digno o tempo inteiro como ser humano, mas ele não devia ter dito [que era o caminho, a verdade e a vida]... 2000 anos depois, todo mundo que seguiu Jesus só fez se ferrar. Jesus não tem nada a ver com isso. Jesus cometeu um ou outro equívoco, porque ele é só um ser humano."
+- **Bem efetivo × circunstancial:** "o mundo precisa de um bem efetivo, não é do bem circunstancial que todos nós fazemos (dar uma esmola, ajudar alguém). O bem efetivo é o bem que gera vida, em que não seja necessário alguém sofrer, alguém passar fome. É nesse ponto que todo mundo aqui é incompetente, em especial os seres que criaram essa história toda."
+- **Gandhi:** "é importante manter a profissão de fé filosófica: você, diariamente, resilientemente, naquilo que Gandhi nos ensinou — 'seja você o instrumento da mudança que você quer ver no mundo'".
+- **"Eu venci o mundo" (Jesus):** "ele venceu como [quem] se mantém aceso, livre e decente".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

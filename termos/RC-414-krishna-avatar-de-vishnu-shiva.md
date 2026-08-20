@@ -50,6 +50,12 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Krishna (P2024-11-30):** "Krishna surge como o senhor Vishnu para cumprir a promessa feita junto a Jaya e Vijaya [porteiros de Vaikuntha; maldição dos munis]"; "eu sou o senhor supremo... sou a somatória dos três [Brama/Vishnu/Shiva]... e eles três me são devotos"; Bhagavad Gita: "faça isso em meu nome, que nem karma você gera"; Arjuna e os Pândavas × Duryodhana/Kauravas; "Gandhari, a mãe dos [Kauravas], triste porque tinha perdido 100 filhos (o número é literal), se revoltou contra Krishna e soltou uma maldição"; "um belo dia Krishna recebe uma flechada casual e morre. Se ele fosse o Senhor supremo, não poderia receber o curso da maldição nem morrer".
 - **Crítica do autor (quarentena):** "eu percebi maldade em Krishna... eu sinto a vergonha por ti que você deveria sentir"; "Krishna não está à altura do passado dele"; "ele olha para qualquer um de nós como pobres coitados... agem feito carrapatos".
 
+
+## Ampliação — P2024-11-09
+
+- **Krishna (P2024-11-09 — destaque A-2):** "o senhor Krishna afirma ser o senhor supremo, mas ele age e agiu como alguém que não merece, pelo menos, o meu aplauso... mas ele cumpre a tarefa dele, de fazer com que as pessoas se entorpeçam com a energia que ele emana, para que essas pessoas parem de assaltar, de se drogar, de se matar, e fiquem cantando Hare Krishna milhares de vezes ao longo do dia. OK? Mas isso é uma forma também de imbecilizar as pessoas."
+- **Castas:** "o sistema de castas lá na Índia seja tido como meio normal de educar as pessoas" (Sai Baba defendia) — quarentena.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -26,6 +26,11 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 
 - **A bacia de elétrons (P2025-02-15):** "o universo é uma grande bacia de elétrons"; "o que um ser humano faz, todos os elétrons sabem na hora" (corante).
 
+
+## Ampliação — P2024-11-09
+
+- **Pósitrons (P2024-11-09):** "os seres que vivem lá fazem a leitura dessas informações a partir do jogo de pósitrons [STT 'positelétron'], ou seja, o tipo de elétron que existe nesse universo vizinho".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

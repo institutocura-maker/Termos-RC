@@ -1,0 +1,27 @@
+{
+  "sha256_original": "46e3d73cb316ca6f3ba2dc445337e7b3260b148e7674039ab6bd6047431dd8fd",
+  "bytes_original": 123893,
+  "lines_original": 86,
+  "words_original": 21407,
+  "layers": {
+    "camada-0.txt": {
+      "words": 7,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "words": 402,
+      "lines": 50
+    },
+    "camada-3.txt": {
+      "words": 20996,
+      "lines": 29
+    }
+  },
+  "analytic_units": 1348,
+  "source_status": "sequência completa aparente; abertura, exposição e encerramento presentes; sem intervalo/perguntas marcados (confirmar na leitura); camada contextual ausente",
+  "nota": "RE-CURADORIA: base já contém RC-721–RC-727 (7 termos, todos com ficha) com fonte P2024-11-09 — ciclo de auditoria/ampliação, sem consumo de códigos novos salvo decisão do curador"
+}

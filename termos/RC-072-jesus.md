@@ -35,6 +35,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **Travou o projeto de sucessão:** a condição humana de Jesus 'travou o projeto de sucessão e transferiu a questão para os tempos do cumprimento da promessa da sua vinda como autoridade... para reafirmar que é dada a cada um de acordo com suas obras'.
 - **'Melhores eus':** os eus criados por Jesus e Sócrates 'são tão elevados que não se hospedam num corpo transitório'.
 
+
+## Ampliação — P2024-11-09
+
+- **Jesus (P2024-11-09 — destaque A-2):** "Jesus, quando disse que ele era o caminho, a verdade e a vida, isso também foi algo que ele poderia ter se poupado e ter dito. Porque as religiões usaram isso num sentido trágico: 'fora de Jesus não há salvação'. E isso é estúpido. Jesus não é o caminho, não é a verdade, nem é a vida. Jesus foi uma vítima de um processo terrível, de uma aposta que envolveu Brahma, Vishnu... mas Jesus fez o que pôde. Jesus foi digno o tempo inteiro como ser humano."
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -25,6 +25,12 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **Quantidade fixa:** "existia uma quantidade de elétrons X... hoje é a mesma quantidade"; "o que se transforma é a memória dos elétrons"; "a fita das ondas na borda do universo = o filme da história de todos os elétrons".
 - **B063:** o autor remete a "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa > prazer do predador; os elétrons registram o sofrimento).
 
+
+## Ampliação — P2024-11-09
+
+- **A memória dos elétrons (P2024-11-09):** "quem descobriu isso foi Charon [STT — REVISAR], físico nuclear francês, que descobriu que as menores partículas dessa criação — o elétron — ele memoriza tudo"; o pernil/ovelha/rocha (memória eletrônica); "o elétron não morre nunca"; "nada se cria, nada se perde na natureza, mas tudo se transforma. O que é que se transforma aqui? A memória dos elétrons. Esses são os famosos registros acásicos".
+- **Corante/bacia:** "o nosso universo é uma bacia bem grande... cheio de um oceano de elétrons"; "do jeito que a água da bacia vai ficando toda azul devido a uma informação nova, quando qualquer nova informação é produzida aqui, instantaneamente ela chega".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

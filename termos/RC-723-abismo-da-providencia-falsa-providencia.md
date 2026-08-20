@@ -13,6 +13,13 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 ## Formulação oral absorvida
 “Majestosa inutilidade” é preservada apenas como expressão oral de Jan Val Ellam para a pureza extrema que sustentaria a existência sem intervir no caos. Não é adotada como dogma editorial.
 
+
+## Ampliação — P2024-11-09
+
+- **Falsa providência (P2024-11-09):** "nós fomos acostumados a pensar sempre na providência... existe uma providência que toma conta da gente, mas não existe. Existe uma providência que não tem nada de providência, que são esses seres todos aqui, mas que não fazem porcaria nenhuma."
+- **Os espíritos sem poder:** "os espíritos maravilhosos que vivem nas cidades espirituais dentro da erraticidade... daqui a pouco, todos nós seremos espíritos [desencarnados] e a gente vai se reunir lá e vai dizer: 'O que é que a gente pode fazer?' Ninguém nunca pode fazer nada por esse troço. Você só pode modificar o curso dos acontecimentos se você assumir um corpo de elétrons."
+- **O Deus desconhecido:** "o Deus que verdadeiramente existia, esse ser nunca falou com ninguém aqui na Terra; nesse universo vizinho, ninguém o conhece. É uma coisa distinta. Um ser puro não é nem uma pessoa"; "pro caos é uma majestosa inutilidade".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

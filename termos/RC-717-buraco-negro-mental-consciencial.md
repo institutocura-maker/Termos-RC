@@ -24,6 +24,13 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 
 - **Buraco Negro Mental (P2024-11-30):** Einstein (relatividade geral; Prêmio Nobel) e Karl Schwarzschild [STT "Call Schauardes de Child"]; "o buraco negro chupa informação e solta informação no outro universo"; "a informação é que entra em 3D e sai 2D" (leitura — quarentena); a analogia mental/consciencial.
 
+
+## Ampliação — P2024-11-09
+
+- **Implosão do eu de Javé (P2024-11-09 — destaque A-2):** "qual foi o problema jamais antevisto? Foi o que aconteceu com a implosão do eu do criador caído, que gerou um buraco negro mental antimaterial no universo [vizinho]"; "a primeira consciência faliu a tal ponto — o eu de Javé — que criou um buraco negro mental no universo vizinho. E é isso que está infectando o paraíso, porque não existia. Por quê? Porque lá no paraíso tem um corpo tombado de Prabrajna, que perdeu uma parte".
+- **2021:** "isso aconteceu no ano de 2021, ninguém sabe as consequências disso... o colapso no universo vizinho começou loucamente a acelerar depois disso"; "o colapso do criador estava basicamente determinado desde a sua queda, só que jamais foi vislumbrado nem compreendido por ele próprio e por ninguém mais".
+- **Vórtice mental:** "os buracos negros surgiram como a necessidade de [o criador caído] chupar as informações [do universo vizinho]... isso gerou um mecanismo tipo vórtice mental extremamente poderoso, cujo resultado foi a emergência de incontáveis buracos negros entre as suas partes, entre os dois universos".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

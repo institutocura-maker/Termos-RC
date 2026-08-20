@@ -15,6 +15,11 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **Noreia (RC-579):** a linhagem Pandora–Eva–Noreia reaparece na Hipóstase dos Arcontes — Noreia, filha de Eva, "pura de caráter", que recebeu de Eleleth o destino dos arcontes; a palestra indica que esse "ser espiritual vivo vai começar a nascer na terra agora" (ver quarentena de gênero).
 
+
+## Ampliação — P2024-11-09
+
+- **DNA Insubmisso (P2024-11-09):** "quando os humanos começaram a produzir ódio, e os humanos também produzem amor... sensações que nunca nesse universo haviam sido sentidas. Essa novidade fez com que esse mar de elétrons começasse a reciclar as informações"; "os elétrons perceberam: 'essa é a raça mais moderna'"; a humanidade racional surgiu "nos últimos 48.000 anos" de 13,8 bilhões.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

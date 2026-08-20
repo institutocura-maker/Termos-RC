@@ -28,6 +28,11 @@ P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e n
 
 - **Moron/Phanes/Protogonos (P2024-11-30):** "surgiu um ser chamado Moron [STT 'morrem só'], com a somatória da genética dos três, mas sem lacres, sem travas... sentiu as dores que eles estavam sentindo e disse: 'Vamos parar de criar seres. Coisa só tá piorando'"; propôs: "pegar os nossos códigos podres, jogar para [o universo vizinho sem vida], tentar criar um tipo de vida mais curta... e daqui a gente controla tudo que se passa lá"; "estudou, estudou, estudou. Durante mais de 500 milhões de anos desenvolveu um projeto em que terminou criando um conglomerado de realidades" (Ig Brasil; 8 faixas + nosso = 9); criou os Corpos Fenvã (RC-769).
 
+
+## Ampliação — P2024-11-09
+
+- **Moren/Phanes (P2024-11-09):** "o criador reconstruído, por meio de um ser chamado Moren, quando de um projeto [Talm], que foi o projeto que trouxe vida do universo vizinho pro universo biológico, começou a decodificar as informações em 3D que, via buracos negros, eram transferidas para a condição 2D do universo vizinho".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -29,6 +29,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **O criador que caiu (P2025-02-15):** "alguém no paraíso criou um campo quântico, colapsou a realidade, mas nela caiu, e esse processo ficou acontecendo e ninguém [assumiu]"; "nós estamos dentro de uma coisa que foi colapsada... mas não tem ninguém no comando lá fora"; "outros espíritos do paraíso começaram a agir nesse campo quântico para ajudar o ser caído e se ferraram"; "aí alguém resolveu criar espíritos simples e ignorantes, que não sabiam fazer nada, para serem vinculados à vida biológica" (Kardec).
 
+
+## Ampliação — P2024-11-09
+
+- **Prabrajna e o corpo tombado (P2024-11-09):** "existe um livro gnóstico chamado Pistis Sophia... conta a história de uma pistis que veio três vezes atrás de [imantar] Sophia"; "a história da alma, ou melhor, do espírito desmaiado de Prabrajna tentando ligar-se a Javé e não conseguia, porque a podridão de Javé era tamanha"; "no paraíso tem um corpo tombado de Prabrajna que perdeu uma parte" — as "duas partes que estavam desligadas com a implosão do eu de Javé".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

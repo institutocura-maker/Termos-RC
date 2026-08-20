@@ -22,6 +22,11 @@ O termo não se refere a deslocamento físico instantâneo, mas a atuação do e
 - **Campo morfogenético humano:** "o que nós fizermos em nós mesmos, o campo morfogenético humano repassa para todos os campos morfogenéticos das espécies que já surgiram antes da nossa, já que o cosmos se atualiza a cada nova espécie que surge".
 - **Instantaneidade além da luz:** "na faixa em que a gente vive, a comunicação entre eventos se dá no limite da velocidade da luz. Já entre a faixa de realidade que vivemos e a mais profunda, o limite da velocidade da luz é ultrapassado. Por isso é instantâneo" (o abraço à distância).
 
+
+## Ampliação — P2024-11-09
+
+- **Não local (P2024-11-09):** "se tiver uma barata voando lá em Coimbra, os elétrons do corpo dessa barata estão em contato com todos os elétrons do universo, inclusive do nosso corpo... instantaneamente ela chega. O eu da gente não sabe, porque a gente não recolhe esse padrão de informação, mas a gente é influenciado por ele".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
