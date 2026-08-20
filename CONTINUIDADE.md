@@ -1,18 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-20 (ciclo P2020-07-11 — palestra inédita + apostila)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas concluídas** em `apostilas/CONCLUIDAS/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `5af7ab5` (antes do ciclo P2020-07-11).
+**Data de sincronização:** 2026-08-20 (apostila temática "Paraíso / Lado de Fora")  
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **81 obras (B001–B081)** · **27 apostilas concluídas** em `apostilas/CONCLUIDAS/` + **3 apostilas temáticas** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `a1425dc` (antes da apostila temática).
 
-**Última atualização (2026-08-20) — Ciclo P2020-07-11 (O Ogdóade, o Mistério dos Entes Primordiais) — PALESTRA INÉDITA, concluído com devolutiva do curador:**
-- **0 códigos novos** (base blindada em 770; RC-771 preservado) — palestra antiga (2020) e **fonte ORIGINAL** do tema da Ogdóade; 18.425 palavras (969 unidades) absorvidas sem inflar a ontologia;
-- **Auditoria confirmada** — RC-609 (Ogdóade), RC-455 (Pashvnaj), RC-152 (Prabrajna), RC-408/409 (Mavatma/Savna), RC-457–459 (Tridevi), RC-454/092 (Moros/Olm), RC-009 (Sophia), RC-002, RC-604, RC-626/627, RC-411, RC-104, RC-610, RC-669 — todos verificados contra o STT original;
-- **16 fichas ampliadas** (nomes egípcios da Ogdóade com correlação 8/7/6; família Pastevinagem e reuniões 14→8; o colapso das 8 mentes e os oito portais; Fator Parvati/Parashakti e pares eônicos; diferenciação cronológica Moros/Olm — 5–6 bi anos; gnosticismo/Aleteia; "tã-tã" da vinda de Sophia; fatiamento criado×projetado×mergulhado);
-- **Apostila integral concluída — 12 PARTES (10.616 palavras)**; intervalo de 10 min marcado (U0520); plateia isolada (5 perguntas finais — U0810–U0930); glossário local A–D; DOCX em CONCLUIDAS;
-- **Ampliações retidas (termos sem ficha física — padrão):** RC-457/458/459 (Tridevi), RC-211 (Kundalini), RC-013/014 (Adhyatman/Adhydaiva) → registradas na Colecionar Incertezas; aguardam autorização para criação de ficha em ciclo futuro;
-- Quarentenas confirmadas (teológica crítica — "nenhum dos seres que tratamos como Deus é de fato Deus"; histórica/cultural — Egito/gnosticismo/Pitágoras/Hesíodo; política — poder/empresas anos 80/90);
-- **Nenhuma obra nova** (B013 = Tzimtzum/DAF; revista Plus Ultra não é de Ellam; "Testamento de Jesus" [REVISAR]);
-- **Colecionar Incertezas (novos):** "talvez sejam só seis espíritos (fatiamento Saraswati/Lakshmi)"; "Parvati é a rainha das lokas; estica tudo e penetra no nosso universo"; "descendência desconhecida da Tridevi; quase uma nova guerra em março/2020"; "o livro do Testamento de Jesus"; "revista Plus Ultra"; "a escola de Capela e a visita no bojo da rebelião de Lúcifer"; "os arquivos na Escócia/Croácia (setas de Moros)"; "Nix gerou Moros (descendência indireta de Vishnu)"; "Vaikunta como loka de Vishnu"; "o microssegundo de pane geral nos três níveis"; "os espíritos sujos são os heróis, os limpos são omissos por natureza"; "Sofia só sabe atuar na porrada"; "a vinda de Sofia = Kalki/Sanata Kumara/Tirthankara/Mahdi";
-- Base validada (`OK: 770 termos, 1830 relações`); índice/XLSX/DOCX regenerados (415 fichas-resumo; 81 obras); pacotes regenerados (hábito — manifesto dinâmico); GitHub sincronizado.
+**Última atualização (2026-08-20) — APOSTILA TEMÁTICA (retomada da experiência pedagógica):**
+- **Apostila temática criada:** `pedagogico/Apostila-Estudo-Paraiso-Lado-de-Fora-do-Universo.md` — *"O Lado de Fora do Universo — O Paraíso que não é o Paraíso"* (12 PARTES; 4.101 palavras; DOCX gerado);
+- **Mapa de conexões criado:** `pedagogico/MAPA-PARAISO-CONEXOES.md` — Super-Nó do Paraíso (núcleo, contraste, relações tipadas, fontes primárias, leituras encadeadas);
+- **Tema:** o "lado de fora" da Criação — Realidade Maior (RC-204), Espiritualidade Superior (RC-059), Seres Originais (RC-600), Círculo/Protocolos da Perfeição (RC-603/606), Mônadas (RC-149), Deidade (RC-047), blindagens/trincheira (RC-602/613), Criação Indevida (RC-167), Paraíso B (RC-612), Mente Universal (RC-163), Reintegração (RC-003);
+- **Abordagem:** profunda e filosófica — as seis inversões (Paraíso ≠ prêmio; ≠ centro; ≠ autossuficiente; ≠ ativo; ≠ eterno; ≠ Deus);
+- **0 códigos consumidos** (770/1830); quarentenas mantidas (teológica — "majestosa inutilidade"/Deidade × Javé; cosmológica);
+- Base validada (`OK: 770 termos, 1830 relações`); pacotes regenerados (56 arquivos de apostilas — inclui as temáticas); GitHub sincronizado.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
 
