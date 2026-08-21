@@ -6,13 +6,13 @@
 # - 1849 relações
 # - 423 termos com ficha; 428 fichas físicas (423 canônicas + RC-004 investigação)
 # - próximo código: RC-778
-# - 35 apostilas concluídas em apostilas/CONCLUIDAS/
+# - 36 apostilas concluídas em apostilas/CONCLUIDAS/
 
 # ARQUIVOS
-e1f73bc78248116b7e0a6ec67ab0777aae474c7ce0b5131b8f056c155151df4c  PACOTE-DE-REGENERACAO-2026-08-18.txt  (17 arquivos; 538602 bytes)
-4b422b557af994cf409c7ddba60ca28808a66b1c9dcf55a62012714b3a7ab716  PACOTE-DE-FICHAS-2026-08-18.txt  (428 arquivos; 1403644 bytes)
-33eb164d61c2a400a0ebd54727ee9384ef753858a5dcda26492d6b8fa70136fc  PACOTE-DE-APOSTILAS-2026-08-18.txt  (78 arquivos; 2579133 bytes)
-fbf267a0dde4f0819c4c1ba54131081c6e493d7e796aff28d5989734a0ad8874  PACOTE-DE-ORIGINAIS-2026-08-18.txt  (34 arquivos; 4891468 bytes)
+a24c236abc89ebcab57120600deaeb9133dc888d8e3f8d8e235fc9aef52a39b1  PACOTE-DE-REGENERACAO-2026-08-18.txt  (17 arquivos; 541976 bytes)
+63a854a497494dca76e1fbf35342e69df81c0c89ea12efbf5c319e6bd2452bcc  PACOTE-DE-FICHAS-2026-08-18.txt  (428 arquivos; 1413667 bytes)
+b30c531b8c5ddbef5aaf573c0081e5059f644d7080e9e1ecb5e33ebc04eb4201  PACOTE-DE-APOSTILAS-2026-08-18.txt  (80 arquivos; 2669620 bytes)
+0b773c935fc973b84b16b80fd577be46460725bf65faf1b74c862f6fbdb65db8  PACOTE-DE-ORIGINAIS-2026-08-18.txt  (35 arquivos; 4972241 bytes)
 
 # REGRA DE RESTAURAÇÃO
 # Cada pacote usa os delimitadores:

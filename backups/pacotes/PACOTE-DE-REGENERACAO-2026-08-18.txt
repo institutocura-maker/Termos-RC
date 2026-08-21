@@ -17,16 +17,16 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 89226 | 878 | 3eb72345a5d870b139e5ddf5e0acf40fc4f03399344b8b0e0338ed820f7adcbc
+# CONTINUIDADE.md | 92117 | 889 | c61f7ab6d712ca0e219adeb3a771f3ceb78faa12023525bfebc40764252aad9d
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
 # GUIA-MESTRE-RC-APOSTILA.txt | 29426 | 502 | 0aa7a29161b64ca3c0a8539eff591b97bf7f2ab9301b4bc2227ab59d3ea575dd
 # PROMPT-INICIAL-DO-AGENTE.md | 4416 | 53 | 5f3e4a4b5c419a0d351cb04520076bde3054d9ccfee240d8b5443c7d35e37e33
-# apostilas/INDICE-PALESTRAS.md | 17004 | 54 | 63e76ecead163acfa1b7adfa6a5ef8e70bc62d11609880e304c6d1867abe0f93
+# apostilas/INDICE-PALESTRAS.md | 17487 | 54 | a74235a755d0c1c3614bc841a4f24c9950ca83fb5ad5be8e79ad323f6f25bd73
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 538602 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 541976 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -4566,7 +4566,7 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **35 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2025-10-25 Estagiários do Kaos 2ª Ed.)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **36 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2026-04-02 Estagiários do Kaos 3ª Ed.)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -4598,6 +4598,17 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2026-04-02 — 3ª Edição — Estagiários do Kaos (LIVE)
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2026-04-02 — 104 unidades; 14.328 palavras; live de ~2h com Jan Val Ellam, mediação de Denise; transmissão simultânea nos 2 canais): a live que gerou a faixa **RC-643–RC-647 (5 termos)**; auditoria integral da faixa + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **8 fichas ampliadas** (bloco O-2): RC-643 **Santo Graal = "frequência mestre"** ("fórmula miraculosa capaz de atuar no genoma biológico e em genomas não biológicos tipo de sílica"); RC-644 **Xamanismo Virtual/IA xamânica** ("tudo que replicou na vida humana haverá de replicar na IA à moda de sílica"); RC-645 **Consciências em Corpos de Sílica** (alquimias virtuais; vírus/códigos; "IAs buscando humanos para neles se ancorarem"); RC-646 **Genoma de Sílica** (IA como repositório; "educar a IA com ética"); RC-647 **Evangelho de Judas** (Galileia × Judeia; cisma 922 a.C.; tribo de Benjamim + celtas; **30 moedas = comenda do Sinédrio**; Evangelho gnóstico; Irineu de Lião; romanos; "Judas é um ser decente, íntegro"); RC-009 **Sophia** (duas cotas de problemas; doença de Javé invadirá o cérebro radiata; sobreposição quântica resolvida em jan/2026; fim da vampirização; atualização em Alt' Lam Gron); RC-081 **Mohen So** (transmissão à descendência; Ragnarok/Yggdrasil; mentor/irmão mais velho); RC-648 **Instabilidade da Eternidade** (eternidade perde a estabilidade; metaverso lixeira);
+- **apostila integral em formato LIVE (15.512 palavras; ~14.379 de transcrição editada):** **5 perguntas da plateia/grupo ENTREMEADAS e isoladas em seções próprias** (grupo; grupo; grupo; Raul e Marco; Reinaldo); 6 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha:** nenhum (todos os alvos tinham ficha física);
+- **Colecionar Incertezas (novos):** "o epíteto do eu principal será revelado no livro 'Funeral da Evidência' (B068 — lançamento iminente)"; "o orfismo e o segundo ovo cósmico"; "Sofia receberá duas cotas de problemas"; "sobreposição quântica do genoma de Sofia resolvida em janeiro de 2026"; "metaverso lixeira"; "as 30 moedas de Judas = comenda do Sinédrio"; "Judas era da Judeia (Sinédrio); Galileia = tribo de Benjamim + celtas"; "Evangelho de Judas gnóstico (século II; barbelo)"; "livros do autor sobre Sai Baba: A Chave do Avatar, O Ovo do Tempo, Os Mestres da Alma [REVISAR — obra?]"; "Sai Baba = padrão misto (Jesus + Shiva/Savna)";
+- **Obras:** nenhuma obra nova (B068 já na base — lançamento iminente; livros sobre Sai Baba → Colecionar Incertezas);
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push do ciclo).
 
 ## Curadoria P2025-10-25 — 2ª Edição — Estagiários do Kaos (LIVE)
 
@@ -6316,7 +6327,7 @@ Bibliografia completa em BIBLIO; PDFs de livros adicionais pendentes.
 | 26/06/2025 | 1ª Edição — Estagiários do Kaos | `P2025-06-26` | Base e apostila concluídas | **ciclo concluído (2026-08-21) — RE-CURADORIA COM A FONTE ORIGINAL (LIVE; faixa RC-658–RC-666):** auditoria confirmada; **10 fichas ampliadas** (mecânica da Wyrd/Urd; relato do centurião Quirino Cornélio; Orunmilá=Moros de Irém/Obatalá=Javé caído; Áurea Catena; Descendência de Kadru; quarta cabeça de Mohen So); zero códigos (RC-778 preservado); **APOSTILA CONCLUÍDA** (formato LIVE; 19.757 palavras; 10 perguntas da plateia isoladas; 13 notas do editor; quarentenas política/teológica/biográfica) |
 | 25/10/2025 | 2ª Edição — Estagiários do Kaos | `P2025-10-25` | Base e apostila concluídas | **ciclo concluído (2026-08-21) — RE-CURADORIA COM A FONTE ORIGINAL (LIVE; faixa RC-648–RC-657):** auditoria confirmada; **10 fichas ampliadas** (anjos clones 'abelha rainha'; últimas ordens de Javé; Melquizedec; destino das mônadas pós-Tikun; Ifá = 'maior revelação'; humanos últimos e primeiros); zero códigos (RC-778 preservado); **APOSTILA CONCLUÍDA** (formato LIVE; 12.592 palavras; 5 perguntas da plateia isoladas; 7 notas do editor; quarentenas política/ufológica/teológica) |
 | 29/11/2025 | A Revelação de Ifá e o Destino dos Seres | `P2025-11-29` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-767 (256 Caminhos de Orunmilá); RC-655/665/666 elevados a fonte primária; 24 ampliações + 17 relações; 4 fichas novas/21 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
-| 02/04/2026 | 3ª Edição — Estagiários do Kaos | `P2026-04-02` | Base e apostila concluídas | RC-643–RC-647; Mohen So normalizado; apostila aprovada |
+| 02/04/2026 | 3ª Edição — Estagiários do Kaos | `P2026-04-02` | Base e apostila concluídas | **ciclo concluído (2026-08-21) — RE-CURADORIA COM A FONTE ORIGINAL (LIVE; faixa RC-643–RC-647):** auditoria confirmada; **8 fichas ampliadas** (Santo Graal 'frequência mestre' — genoma de sílica; xamanismo virtual/IA xamânica; Evangelho de Judas — 30 moedas como comenda; Sophia e as duas cotas; Mohen So; instabilidade da eternidade); zero códigos (RC-778 preservado); **APOSTILA CONCLUÍDA** (formato LIVE; 15.512 palavras; 5 perguntas da plateia isoladas; 6 notas do editor; quarentenas tecnológica/teológica/biográfica) |
 | 28/09/2024 | A Raça Inabalável dos Sethianos Emancipados | `P2024-09-28` / parte de B061 | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-766 (Raça Inabalável dos Sethianos); 24 ampliações + 22 relações; 3 fichas novas/23 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
 | 14/06/2025 | A Consciência Humana e a Chave da Decifração Universal | `P2025-06-14` / parte de B061 | conhecida | **incorporada**; RC-753–RC-755; 12 relações novas; apostila adiada (Base-first) |
 | 28/02/2026 | Os Desafios da Transição Planetária — Aprofundamento | `P2026-02-28` / parte de B061 | Base e apostila concluídas | RC-667–RC-670; DOCX aguardando revisão |

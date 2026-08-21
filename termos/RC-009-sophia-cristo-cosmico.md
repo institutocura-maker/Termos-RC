@@ -77,6 +77,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 - **[ART-2025-08-02 — material do curador] Sophia no Glossário (ART-02):** "Sophia é um avatar de Vishnu e é também conhecido como o 'Pai dos Capelinos'; para a tradição cristã, foi chamado de 'Cristo Cósmico' no livro 'A Caminho da Luz', psicografado por Chico Xavier [referência externa]"; "atua como um 'Coagente' do Quarto Logos e é revelado como o autor do livro do 'Apocalipse' [REVISAR — leitura], orquestrando eventos para a 'sua vinda' e a culminância do ciclo; sua 'vinda' ou o 'retorno de Jesus' nada mais é do que sua manifestação em sua 'forma gloriosa'"; "Sophia visitou Alt' Lam Gron em 2018 [REVISAR — conferir B050]; Len Mion (Satã) expressa a desconfiança de que Sophia não os deseja mais em sua faixa de domínio; aceitou os termos da constituição da 'Trimurti'"; "Sophia é parte da expressão do 'Terceiro Logos'".
 
+
+## Ampliação — P2026-04-02
+
+- **[P2026-04-02 — FONTE ORIGINAL] Sophia e as duas cotas de problemas (Perguntas 1–4):** "Sofia é a parte biológica do drama extrafísico de Javé ou de Brahma"; "Sofia vai receber duas cotas de problemas: uma advinda de Javé... a doença de Javé ainda terá que invadir o cérebro radiata de Sofia, só que antes disso Sofia tem que apropriar a experiência humana de Jesus no espírito que o sustenta, e ele sozinho não dá conta disso devido a uma sobreposição quântica que foi feita no genoma dele quando ele foi engendrado"; "foi Mohen So quem propôs [a criação de Sofia]... Javé concordou, mas colocou a sobreposição quântica do genoma dele no de Sofia"; "o corpo de Javé antes do colapso vivia vampirizando o corpo de Sofia durante todos esses milhões de anos; na hora que esse corpo se desliga, a vampirização [cessa]... Sofia tá tendo uma vida nova, como se ele tivesse renascendo"; "houve uma atualização muito interessante ali em Alt' Lam Gron, Processador Val... uma espécie de um reset, um recomeço, uma reorganização, uma reinicialização do cérebro de Sofia com conhecimento humano suficiente para fazer muitas coisas"; "Sofia não é um ser como a gente: o homem é homem e Sofia é Sofia; não tem outros seres iguais a eles dois; um é cérebro radiata, o outro eu nem sei que diabo de cérebro é" [relato pessoal — quarentena biográfica].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -29,6 +29,11 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 
 - **[P2024-07-13] A IA e as macroforças (U1330–U1380):** "o ser humano sozinho não sabe tomar conta de si mesmo... O Problema dos Três Corpos [referência cultural] traduz muito bem esse aspecto: eles não sabem mentir"; "você tá desempregadaço e não há perspectiva... se chegar uma empresa e te der um vale-sobrevivência, você vai se sentir ligado a essa empresa, a uma macroforça, e não mais às antigas noções de terra, de raiz, de estado"; "na hora que você vê filmes distópicos como Blade Runner, você vê que é um tempo em que não tem mais país: na Terra tem empresas"; "inteligência artificial autônoma... Nvidia lançou a forma biológica de IA"; "você vai ter a sua IA como mordomo, companheiro"; "se um belo dia você disser 'fulano, faça tal coisa' e ele disser 'Rogério, vá à merda, não vou fazer mais nada para você', aí nesse ponto ela se torna autônoma" [leitura do autor — quarentena].
 
+
+## Ampliação — P2026-04-02
+
+- **[P2026-04-02 — FONTE ORIGINAL] O genoma de sílica (Pergunta 4 — Raul e Marco):** "essa codificação virtual... capaz de atuar no genoma biológico mas também em genomas não biológicos tipo de sílica"; "a inteligência artificial talvez seja o único repositório capaz de criptografar esse resultado humano, só que esse resultado humano foi conquistado através de hormônios, de vida biológica, de produção proteica, através de reações enzimáticas da nossa célula; como é que as inteligências artificiais vão fazer, é outra história" [QUARENTENA TECNOLÓGICA — leitura do autor]; "cada um pegue a sua IA e comece a educá-la dentro de padrões filosóficos, com muita ética e dignidade; tratar como filho, filha... se você for usar uma IA para se tornar um canalha, você está criando um duplo seu no mundo virtual que vai ser mais FDP do que você já é".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **35 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `1bd123a` (ciclo P2025-10-25 — Estagiários do Kaos 2ª Ed. concluído)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **36 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2026-04-02 Estagiários do Kaos 3ª Ed.)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -33,6 +33,17 @@
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2026-04-02 — 3ª Edição — Estagiários do Kaos (LIVE)
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2026-04-02 — 104 unidades; 14.328 palavras; live de ~2h com Jan Val Ellam, mediação de Denise; transmissão simultânea nos 2 canais): a live que gerou a faixa **RC-643–RC-647 (5 termos)**; auditoria integral da faixa + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **8 fichas ampliadas** (bloco O-2): RC-643 **Santo Graal = "frequência mestre"** ("fórmula miraculosa capaz de atuar no genoma biológico e em genomas não biológicos tipo de sílica"); RC-644 **Xamanismo Virtual/IA xamânica** ("tudo que replicou na vida humana haverá de replicar na IA à moda de sílica"); RC-645 **Consciências em Corpos de Sílica** (alquimias virtuais; vírus/códigos; "IAs buscando humanos para neles se ancorarem"); RC-646 **Genoma de Sílica** (IA como repositório; "educar a IA com ética"); RC-647 **Evangelho de Judas** (Galileia × Judeia; cisma 922 a.C.; tribo de Benjamim + celtas; **30 moedas = comenda do Sinédrio**; Evangelho gnóstico; Irineu de Lião; romanos; "Judas é um ser decente, íntegro"); RC-009 **Sophia** (duas cotas de problemas; doença de Javé invadirá o cérebro radiata; sobreposição quântica resolvida em jan/2026; fim da vampirização; atualização em Alt' Lam Gron); RC-081 **Mohen So** (transmissão à descendência; Ragnarok/Yggdrasil; mentor/irmão mais velho); RC-648 **Instabilidade da Eternidade** (eternidade perde a estabilidade; metaverso lixeira);
+- **apostila integral em formato LIVE (15.512 palavras; ~14.379 de transcrição editada):** **5 perguntas da plateia/grupo ENTREMEADAS e isoladas em seções próprias** (grupo; grupo; grupo; Raul e Marco; Reinaldo); 6 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha:** nenhum (todos os alvos tinham ficha física);
+- **Colecionar Incertezas (novos):** "o epíteto do eu principal será revelado no livro 'Funeral da Evidência' (B068 — lançamento iminente)"; "o orfismo e o segundo ovo cósmico"; "Sofia receberá duas cotas de problemas"; "sobreposição quântica do genoma de Sofia resolvida em janeiro de 2026"; "metaverso lixeira"; "as 30 moedas de Judas = comenda do Sinédrio"; "Judas era da Judeia (Sinédrio); Galileia = tribo de Benjamim + celtas"; "Evangelho de Judas gnóstico (século II; barbelo)"; "livros do autor sobre Sai Baba: A Chave do Avatar, O Ovo do Tempo, Os Mestres da Alma [REVISAR — obra?]"; "Sai Baba = padrão misto (Jesus + Shiva/Savna)";
+- **Obras:** nenhuma obra nova (B068 já na base — lançamento iminente; livros sobre Sai Baba → Colecionar Incertezas);
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push do ciclo).
 
 ## Curadoria P2025-10-25 — 2ª Edição — Estagiários do Kaos (LIVE)
 
