@@ -19,6 +19,7 @@
 
 ## Ciclo TRILOGIA DO PROJET TALM — Fornos (ART-2025-08-01) · TALM (ART-2025-08-02) · Fenvans (ART-2025-08-03)
 
+- **CORREÇÃO PÓS-CICLO (2026-08-21):** a execução original sofreu interrupção (erro de timeout); o workspace foi ressincronizado com o GitHub (commit `768ad8d`) e as apostilas ART-2025-08-02 e ART-2025-08-03 foram **regeneradas no padrão TOP completo** — `# PARTE X —` maiúsculo (4 PARTES TALM / 3 PARTES Fenvans), `## Capítulo N —` como títulos, **13 + 9 notas do editor (verdinhas)** e glossário A–D preservado; DOCX reconstruídos; seção 'Materiais do Curador (ART)' adicionada ao `apostilas/INDICE-PALESTRAS.md`; script `_regenerar_apostilas_0203.py` arquivado em `analise/`;
 - **Integração aprovada na íntegra** (Devolutiva O-1 a O-8, 2026-08-21) — "a amarração desta Trilogia é o ponto alto da atuação do Sistematizador até aqui";
 - **6 CÓDIGOS NOVOS** (exceção à Navalha de Ockham autorizada — nós estruturais da epopeia): **RC-772 Morlens** · **RC-773 Nanotecnologia Prânica** · **RC-774 PEP (Pulso Eletromagnético Particularizado)** · **RC-775 Éon das Três Esferas** · **RC-776 Ginnungagap** · **RC-777 Anã** [REVISAR grafia] + 10 relações novas;
 - **Acrônimo expandido do TALM registrado pela 1ª vez:** "Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material" (RC-091);

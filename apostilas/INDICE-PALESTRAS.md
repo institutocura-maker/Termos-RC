@@ -42,3 +42,13 @@
 | 04/08/2026 | O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA (Podcast Irmãos Dias #272) | `P2026-08-04` | — | **incorporada**; 0 códigos · 24 ampliações · 12 relações; podcast/entrevista |
 
 > O Guia usa contagens resumidas diferentes em trechos distintos. O quadro acima conserva todas as datas nominalmente mencionadas, sem eliminar nenhuma.
+
+## Materiais do Curador (ART) — apostilas padrão TOP em CONCLUIDAS
+
+| ART | Título | Conteúdo | Estado |
+|---|---|---|---|
+| ART-2025-08-01 | Fornos Replicadores – Awayen, Awaylengan e Awaymaion | As três naves/estações de semeadura do Projeto TALM (RC-771; RC-499) | ✅ apostila concluída (3 PARTES; 9 notas; glossário A–D) |
+| ART-2025-08-02 | Projeto TALM | O programa: acrônimo expandido; nidana→saccidanandhagana; semeadura; DNA; Rebelião dos Elétrons; reintegração (RC-091 e ~15 ampliações; 6 códigos novos RC-772–777) | ✅ apostila concluída (4 PARTES; 13 notas; glossário A–D) |
+| ART-2025-08-03 | Dossiê Fenvans – A Gênese Nanotecnológica e o Sacrifício Cósmico | A engenharia (Morlens RC-772, Nanotecnologia Prânica RC-773, PEP RC-774), o laboratório (Éon das Três Esferas RC-775), o sacrifício (RC-064) e a redenção (Karuna RC-165; Ginnungagap RC-776) | ✅ apostila concluída (3 PARTES; 9 notas; glossário A–D) |
+
+> **Leitura integrada:** `pedagogico/GUIA-TRILOGIA-TALM.md` — a narrativa robusta amarrando os três (máquina → programa → protagonistas).
