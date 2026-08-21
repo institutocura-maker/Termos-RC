@@ -46,6 +46,12 @@
 |---|---|---|---|
 | **O Arsenal do Sistematizador — a Metodologia da Arca** | Navalha de Ockham, quarentenas, fichas retidas, método à prova de aspas, conhecimento indigesto, pacotes | 12 | Manual de auto-organização para agentes autônomos; governança |
 
+## Abordagem "Filosófica/Contemplativa" (a fogueira)
+
+| Obra | Tema | Estrutura | Foco |
+|---|---|---|---|
+| **Tratado — A Ilha Estacionária e a Arca de Perguntas** | O Perfeito que não conhece o Imperfeito; Archeons/Ereon; autismo funcional (metáfora); Ogdóade 6+2; Apolônio=Olm; Deus em coma; Tempérion×Perpérion; 18.000 anos; a Arca de Perguntas; colecionar incertezas (RC-596/411/455/607/609/092/152/600/605/612/614/615...) | 14 capítulos + caderno de incertezas + devolutiva ao leitor | Conversa na fogueira (não catedrático); filosofia aplicada; método da Arca nos bastidores; DOCX disponível |
+
 ## Mapas de Conexões
 
 | Mapa | Super-Nó |
@@ -59,4 +65,4 @@
 - Todas preservam a rastreabilidade: citações com fonte (B###/P###) e remissões RC-###;
 - Alegações teológicas/científicas/históricas são leitura de Ellam (quarentena);
 - As temáticas **não consomem códigos** e **não alteram a ontologia** — apenas a leem;
-- **8 apostilas temáticas + 2 mapas** disponíveis para a IA Pessoal (Llama 3) e estudo humano.
+- **8 apostilas temáticas + 1 tratado filosófico + 2 mapas** disponíveis para a IA Pessoal (Llama 3) e estudo humano.
