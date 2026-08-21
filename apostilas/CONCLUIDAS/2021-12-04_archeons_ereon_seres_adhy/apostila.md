@@ -10,6 +10,8 @@
 
 ## Abertura e pedido de prudência
 > Olá, pessoal. Meu fraternal abraço a vocês. Espero que estejam todos bem. Nós vamos dar início ao nosso bate-papo. Agradeço sua conexão, a presença de cada um de vocês.
+
+Nota do editor: abertura da palestra; o autor pede prudência máxima por tratar de temas 'além, muito além do nosso horizonte de percepção' e adverte que 'o assunto é zebra, é zebrado' (U0001–U0038).
 ## Além do horizonte de percepção
 > E sem mais delongas, eu gostaria só de renovar o pedido que sempre faço, em especial hoje, tratando desse assunto, nós vamos ter que assumir a prudência, mas ampla possível, porque esses temas todos ainda serão devidamente tratados no futuro ou em futuro nisso aí. E tudo que temos falado até hoje é só uma forma, uma maneira de introduzir o assunto. Que assunto?
 > Sobre o que se encontra além, muito além do nosso horizonte de percepção. Só que o nível desse além eh, seria o nível mais ancestral possível em termos de eternidade. Desculpem falar assim para trás. E em termos de camadas existenciais que foram e formando e se acoplando umas às outras, né? Cada camada dessa, uma espécie de loop temporal da consciência da deidade.
@@ -17,6 +19,8 @@
 > O futuro que ainda entre aspas para nós não está visto porque ainda não aconteceu, né? Mas quando ele acontece, ele se torna informação disponível no âmbito dessa faixa de realidade na qual vivemos. E ele passa a compor uma camada nova de informações, né?
 > É como se fosse aquela barra que tem em cada produto que a gente compra, né, aquelas listras eletrônicas, né, e cada novo agora vai colocando de forma codificada informações novas que vão acontecendo e o que nós chamamos de entendimento E eu não deveria fazer isso, mas tô sendo obrigado.
 > Ser mais geográfico de você olhar para uma barra ou para um keycode, para alguma coisa que parece ser um desenho com símbolos e você olha para aquilo e aquilo pode ser só um desenho com símbolos que para você não diz nada, mas dependendo do das lentes, da tecnologia ou da consciência que olha para aquilo ali, todos sistema de informação fica disponível, né?
+
+Nota do editor: STT 'Marata' = Mahabharata (RC-593); o autor atribui à recitação do Mahabharata, 'de seus diversos parvas', a introdução da noção de passado/presente/futuro no pensamento humano — leitura de Ellam.
 ## As camadas e os seres originais
 > Essas camadas elas existem, guardam as informações. E o que nós chamamos de seres originais, os mais antigos dessa história, chamados seres originais do paraíso, chamados na lógica de uma outra cultura, eles vão absorvendo toda essa onda.
 > de novas informações que vão chegando, como se fosse toda a realidade existente, um grande único campo mórfico, onde o comportamento de todos vai influenciando uns aos outros o tempo inteiro.
@@ -26,6 +30,8 @@
 > Ou seja, porque mesmo sendo perfeito de uma certa forma ou para uma certa lógica, o fenômeno da vida que terminou acontecendo a partir dos parâmetros iniciais dessa perfeição, a vida como hoje ela se apresenta em alguns rincões, em alguns quadrantes, assumiu feições tão distintas que é importante que nós partamos do premisso, da premissa de que essas ondas que chegam, essas vagas de informações que chegam nos seres situados numa retaguarda Só que a retaguarda aqui seria no sentido de superioridade.
 > Nessa retaguarda existencial eles estão sendo movidos, envolvidos, eh modificados, influenciados e mesmo infectados pelo conjunto da obra existencial que vibra, pulsa sempre. E essa pulsação é sentida por esses seres e mesmo com blindagem e tudo, aparentemente separando essas diversas camadas de realidade.
 > essas diversas faixas, mesmo com toda essa departamentalização que terminou surgindo, chamada departamentalização da vida, do fenômeno da vida, intramuros vibratórios para não exportar o produto do que ali se vivencia.
+
+Nota do editor: 'departamentalização da vida... intramuros vibratórios' (RC-601) e 'blindagens interdimensionais' (RC-602) — grafias canônicas da Base.
 ## A introdução e a novidade do IEA
 > Então, Essa rápida introdução é só pra gente entender que essa palestra e as outras sobre isso de forma superficial nós procuramos fazer e essa também não vai escapar a superficialidade, ainda que seremos um pouco mais profundos em muitos aspectos, mas ainda assim isso é só o começo.
 > Torno a dizer isso é só uma forma de introduzir, de ressignificar alguns parâmetros para nossa compreensão humana, porque o que nós entendemos como senso crítico humano, como compreensão humana, tem uma importância que nós talvez jamais hamos a compreender para toda essa contextualização do que se passou desde o primeiro momento dessa eternidade situada lá atrás, até esse exato momento em que nós estamos aqui vinculados numa conexão em torno de mais uma palestra no âmbito do IEA ou da turma do IEA.
@@ -42,6 +48,8 @@
 > E aqui vamos então falar nos dos de construções que no meu linguajar Eu chamo de Archeons de uma determinada região da espiritualidade laboratorial, que eu chamo de Ereon, é o que eu chamo aqui é porque eu não eu tenho que assumir a responsabilidade, já que mesmo sendo um agente transmissor, mas em tese os eus que estão por trás dessas informações e sobre a responsabilidade do espírito que me anima e minha própria.
 > Conhece um pouco disso ou muito no caso do espírito que me anima. E esses nomes não são só nossos, só porque já foram escutados em determinadas assembleias, reuniões.
 > Então, os chamados Archeons compõe uma uma realidade ou um padrão de realidade no âmbito da espiritualidade laboratorial, que era só mais uma região, mas desde que o problema teve lugar em um desses Archeons, notadamente em Perpérion [REVISAR — STT 'Impérial'] terminou fazendo desses Archeons o usando a linguagem humana, o lugar mais conhecido, o lugar mais visitado, o lugar mais estudado, inspecionado por outras figuras.
+
+Nota do editor: STT 'héreo' = Ereon; STT 'arquelos/arquieron/arcãos' = Archeons (RC-596) — grafia canônica da Base.
 ## Cinco Archeons: os padrões de realidade
 > por outras espécies de seres. E esses Archeons são realmente níveis dimensionais ou subníveis dimensionais desse já grande nível chamado espiritualidade laboratorial.
 > Exclusivamente no que interessa a nossa história, são cinco Archeons, né, que compõem esses padrões de realidade que nós estamos só nesse momento conseguindo vislumbrar que eles existem, ainda que cada uma das nossas mentes, das nossas consciências vibrem eh na decodificação dessas informações de uma forma particular, né, eh, Antérion, Danérion e Mermérion foram os primeiros três arcos que surgiram nessa história de seres do paraíso original.
@@ -49,6 +57,8 @@
 > E assim numa nova concepção de vida, ainda que o fenômeno da vida fosse o mesmo, e de um padrão muito, muito elevado em termos do que nós chamamos aqui na Terra, dessa dessa dessas sensações de de de carinho, de amor, de elegância. E com o tempo, essas porções de incompletude espiritual, cada uma gerou a sua própria forma de existir, todas ligadas ao único paraíso.
 > E a partir de Esses bolsões de espiritualidade operacional, não todos, alguns produziram movimentos de gerar mais sofisticação existencial, fugindo do protocolo original da perfeição e fugindo das travas e controles que há sempre zero, essa quase perfeição da incompletude, quando as faixas dimensionais da espiritualidade laboratorial foram geradas a partir de colapsos quânticos ocorridos no âmbito da espiritualidade operacional, mas se mais se alargou a possibilidade de se, entre aspas, produzir novidades e em cada uma dessas desses níveis espirituais, laboratoriais, e é importante que se diga, há subníveis tanto na operacional como na laboratorial, não no paraíso, mas há subníveis em cada uma dessas eh dimensões espirituais mais amplas, né?
 > E o que nós chamamos aqui de e Antteré, Danérion e Mermérion. São três níveis distintos ou subníveis dentro, eh, melhor dizendo, no âmbito da espiritualidade laboratorial, onde os arqueons deon foram sendo criados. E tempos depois surgiram Perpérion, Tempérion e esses cinco Archeons.
+
+Nota do editor: os cinco Archeons de Ereon — Antérion (RC-597), Danérion (RC-598), Mermérion (RC-599), Perpérion (RC-087) e Tempérion (RC-472) — ver também a apostila P2020-07-11 (Ogdóade).
 ## A única família original
 > ou aros são do point são hoje a a manchete das conversas, das fofocas, vamos assim dizer, desse nível espiritual mais elevado. Mas aqui é preciso que eu diga ainda algumas coisas. Apesar de estarmos falando de seres amorosos, elevados, perfeitos, quase perfeitos, como as palavras aí vão não vão fazer eh justiça, vamos assim dizer, a esses conceitos.
 > É tudo muito modesto em termos do linguajar que eu estou usando. Mas assim, é preciso que eu diga a vocês que no paraíso não existia duas classes de seres. Sempre foi somente uma. Quando a gente fala em classe de seres, em classes espirituais, gêneros espirituais, espécies espirituais, grupo de seres distintos no paraíso propriamente dito, né? Nunca houve isso.
@@ -94,6 +104,8 @@
 > Ele é o conjunto ao qual ele pertence. É um elo daquele processo, ainda que tenha consciência da sua individualidade. Então eu eu tiria, eu tenho que dizer isso para vocês. Eu sei que isso é desagradável, é chocante, blá. Já falei isso antes, mas eu tô começando a dar cores mais pró.
 > ao que antes foi falado, porque o momento exige, óbvio, lá na frente essas coisas todas vão ser postas em cheque. Tem mesmo que ser postas em cheque. O escrutínio constante sobre qualquer entorno de qualquer informação que a gente tá prestando na revelação cósmica, desculpa, eh tem que ser obserado. Nada pode ser tido como verdade, como crença. Exatamente.
 > Por isso, então essa questão de que tem um ser humano terráque afirmando que a turma na espiritualidade superior é autista, só que funcional, um tipo de autismo, né? Isso tem que ser observado e checado com muito zelo e muita independência o tempo inteiro. Mas é assim que eu sou obrigado a falar.
+
+Nota do editor: 'autismo funcional' (RC-605) — QUARENTENA CLÍNICA CRÍTICA: é figura de linguagem filosófica do autor aplicada aos Seres da Espiritualidade Superior; jamais um diagnóstico ou afirmação médica sobre indivíduos terrestres.
 ## Incompletude, não problema
 > E o O autismo funcional desses seres se refere ao fato de que eles não se acham problemáticos, eles se acham incompletos. Não os do paraíso, os da incompletude e da laboratorial. A sensação de que são incompletos incompletos.
 > Mas cara, numa lógica humana de análise muito fria, esse teórico com o problema de autismo, que para eles isso é só incompletude, isso não seria necessariamente nenhum outro problema. É só com movimento de consciência a ser superado, sendo esse o destino das suas vidas, mas é em grupo, sempre em grupo.
@@ -104,6 +116,8 @@
 ## Os 147 Seres Adhy e a taxonomia
 > Os seres romperam com essa noção, os 147 Seres Adhy que terminaram compondo essa espécie ou esse gênero, melhor chamar gênero e Seres Adhy, se olhado de uma certa forma são uma espécie.
 > Mas olhando de acordo com a taxonomia que a gente aplica biologia aqui na Terra, reino, filo, gênero, espécie, eles são gênero, porque os seres de esses 147 seres, eles aqui nesse número pequeno tem cinco tipos de seres que compõem os 147 seres então são cinco espécies formando esse gênero. A espécie Pashvnaj com 43 figuras que compõe essa rede.
+
+Nota do editor: STT 'vinage/pasivagem' = Pashvnaj (RC-455), espécie de 43 seres do Gênero Adhy (RC-411 — 147 seres, 5 espécies).
 ## Seres quase perfeitos e ingênuos
 > Essas figuras é que daqui surgiu o problema que tanto descaracterizou e serizar em relação ao que estava posto como sendo comum ou normal, como daqui é que surgiu a criação indevida. Então, pessoal, antes da gente ir adiante, é imperioso que eu diga isso para vocês. Esses seres são autistas.
 > Só dizer, torna a dizer autistas no sentido de que se fossem observados pela nossa lógica, não autistas disfuncionais que outros têm que tomar conta deles. Não. Esses seres eles são quase perfeitos, não precisam disso, mas são quase perfeitos no âmbito de uma pureza extrema, de uma inf de uma infantilidade, de uma ingenuidade extrema.
@@ -167,12 +181,16 @@
 > Aí esse também criou outro desse mesmo jeito para laboratorial, mas há a ponte do mesmo código que identifica uma estratificação do código original de um ser do paraíso em níveis mais baixos. Então vamos entender isso.
 > Nós humanos somos o nível mais baixo, porém o mais atualizado desse código que remonta a Brahma virgem Shiva aqui dentro, mas que remonta a Mavatma e a Adhy Prabrajna na condição Adhyatman [REVISAR — STT 'átima'] e remonta um espírito original cuja é a Adhyagia [REVISAR — STT 'viagia'], é quando esse espírito está habitando da laboratorial para cima, no caso da incompletude operacional para cima.
 > Então esse ser que nós chamamos de Jesus, o espírito de Jesus, ele é a ancoragem no paraíso do pior tipo de problema que já existiu. E O código fonte que o define, que é o mesmo de Adhy Prabrajna e ou seja, de Brahma ou de Javé, está em todos nós nessa criação. E os últimos seres montados com esse código fomos nós, os humanos.
+
+Nota do editor: 'ilha estacionária' é um epíteto emprestado do Livro de Urântia (RC-600) — referência externa, não é obra de Ellam; o autor ressalva que Urantia dá outro sentido à história.
 ## A ponte do código e Jesus
 > Nós somos os que surgiram mais recentemente nessa história. Então, há uma ponte entre esse espírito lá, entre o ser AD e a espécie fa Pashvnaj na condição laboratorial e uma ponte ligando tudo isso com toda o caos, todo o enxame [REVISAR — STT 'exchame'] de serem gerados nos dois universos na erraticidade no âmbito interno dessa blindagem.
 > E nós, os humanos, e os espíritos que estão na roda sansárica das vidas humanas, que apropriaram neles os protocolos de como ser um ser humano. Nós somos o que de mais moderno existe, movimentando esse código que, em tese, vai até esse espírito que está ao quebrado na espiritualidade incompleta, na incompletude, já que outra parte sua está absolutamente tombado, implodido.
 ## O espírito fatiado em coma em Perpérion
 > feito uma sabe se lá o quê, num certo laboratório de Perpérion que foi a parte de Adhy Prabrajna, que uma parte dele entrou e a outra parte implodiu e essa parte tá ligada a esse espírito. E essas duas coisas desse espírito que funcionam tanto na operacional como na laboratorial, mas que um dia já esteve no paraíso. Vamos contar a história assim que é melhor.
 > Nós é que mantemos tudo isso funcionando. Tudo isso o quê? Essas duas coisas poderíamos chamar de espírito fateado desse ser vibrante em coma na parte de Perpérion e mais vibrante sem ser em coma na operacional. E torno a dizer Nós humanos somos os movimentadores desses códigos para que haja alguma movimentação de vida com relação a isso.
+
+Nota do editor: o 'espírito fatiado em coma em Perpérion' refere-se a Adhy Prabrajna (RC-152), com parte implodida na queda — ver também Perpérion (RC-087) e Fatiamento de Consciência (RC-604).
 ## O fechamento em rede e a reunião da Pashvnaj
 > Então, os 147 seres que já haviam criado aquela história de a condição de ciência pessoal de cada um pode implicar ou importar tanto quanto a de uma família.
 > Não entrou entrando no mérito dessa questão, eles quando viram o tamanho do problema que esse tipo de conduta levou a permitir a criação das possibilidades do cenário para que Adhy Prabrajna fizesse o que em tese disse que ele fez.
@@ -191,6 +209,8 @@
 > Os seres que lá do paraíso poderiam perceber o tipo de vivência que seus desdobramentos ou suas consciências fatiadas ou o tipo de acompanhamento que os permitia ter obter as informações do que estava se passando nos dois níveis em completude laboratorial. Eles recebiam as informações, mas não entendiamfas que estavam se passando devido ao grau de autismo.
 > E não deixa a turma da do paraíso perceber coisa alguma fora do padrão em que eles podem perceber. E esse é o autismo mais forte que tem, o da perfeição. O dos quase perfeitos da incompletude também tiveram acesso às informações, mas não não compreenderam direito até hoje. Idem pros dados pro pessoal laboratorial.
 > Então, quando a perspectiva de um caos, né, se complicou, as linhas mestras que uniam todas as linhagens a uma coragem num alguém lá no paraíso ou num alguém eh na incompletude na operacional. Essas linhas mestras elas começaram a no movimento, eu tenho que dizer assim, inconsciente desses seres autistas que não souberam compreender nem lidar com esse caos, né?
+
+Nota do editor: a 'invasão' de Perpérion por grupos de todos os quadrantes da espiritualidade superior (à exceção do paraíso) — sem isolamento — é detalhe exclusivo desta fonte (RC-596/RC-087).
 ## Observadores de todos os quadrantes
 > Eh, se na hora em que houve o problema Mas houve uma movimentação geral no sentido de todo mundo ir para Perpérion, os que pudessem ir. E todo mundo aqui é de cada grupo foi um foram observadores para ver se podiam ser úteis ou não. O sentido é esse, né?
 > Como os Adhy estavam fechados em rede e depois do problema de para brágina, a questão de consciência individualizada, eh, funcionar tanto quanto em termos de autoridade, uma consciência coletiva. Esses Seres Adhy, eles se perderam no nesses primeiros momentos na nas questões entre eles próprios e sempre achando que eles poderiam resolver aquilo que os outros seres.
@@ -209,6 +229,8 @@
 > Então, foi assim que dois desses cinco seres, cujos nomes eram Elm e Olm Dois seres começaram a conviver com os outros Adish antes deles mergulharem.
 > E esses cinco seres LM de Tempérion foram eh conseguindo penetrar na rede mental que os Seres Adhy, em especial a turma da espécie Pashvnaj, estavam em Com o tempo, a turma de Tempérion tentou mostrar a esses seres, né, que eles não iriam resolver aquilo do jeito que imaginavam.
 > E a turma aceitou, porque obviamente não havia eh desagregação no sentido de guetos, de o fato de cada família tá fechada em rede era um era um um um meio que uma repetição inconsciente de como se vivia no paraíso. Todo mundo lá era uma coisa só. Esse negócio ser uma coisa só. Terminou gerando essa perspectiva no psiquismo de seres da laboratorial também.
+
+Nota do editor: Elm (RC-454 — Moros, ser LM de Tempérion) e Olm (RC-092 — Quarto Logos); o gênero Ser LM é RC-456 e Tempérion é RC-472.
 ## A imponderabilidade e a saída
 > E então eu vou interromper aqui a nossa narrativa nesse ponto em que os seres da LM do Tempérion conseguiram estudar longamente. O longamente. ente aí é no nosso tempo que a gente 13,8 bilhões de anos, né? Mas pessoal, pro pro o instante psíquico se vive nesses níveis, é aquilo que eu já falei outras vezes, isso é um agora perturbador.
 > Eh, mas não agora não se não se resolveu nada ainda nesses 13,8 bilhões de anos. Como eu disse numa palestra há pouco tempo, todos os os mergulhos que fizeram nessa criação, nenhum foi para resolver nada. Ainda não chegou o tempo de resolver, foi só para tentar entender e dizer lá para fora o que foi entendido.
@@ -235,6 +257,8 @@
 ## Filhos do abismo
 > E assim esses seres E, portanto, eles hoje, olhando da perspectiva do atual momento para o passado, de todos os seres criativos da espiritualidade laboratorial, eles são considerados os mais desbravadores de realidades, né? Os que mais buscaram romper perspectivas, romper a questão dos desafios.
 > de criar avatares ou seres para essas novas faixas independentes ou cependentes do criador da tal faixa. Isso, Seres Adhy, eles são de todos esses seres o grupo mais eh ativo, tornou-se mais desgraçadamente conhecido. E o pior, eles são chamados por muitas outras denominações, né, usando uma correlação com a lógica humana de filhos do abismo, né? Eles olharam no abismo e caíram.
+
+Nota do editor: 'filhos do abismo' — denominação dos Seres Adhy (RC-411): 'eles olharam no abismo e caíram' (U0402–U0404).
 ## Os Seres LM: um grupo raro
 > Mais ou menos assim, a relação que eu poderia fazer, a analogia que eu poderia fazer com o nosso modo de pensar na Terra. Eh, os seres de Tempérion, por exemplo, já principalmente o gênero LM, são seres basicamente mergulhados.
 > Nível de paraíso, nível de estrutura incompleta, não tem ninguém fateado e, como eu disse, não não foram, entre aspas, eh, criativos como os demais, porque a função que eles se autopropuseram de estudar os efeitos do que já estava sendo feito. do que estava em curso, né, desde o movimento consciência original.
@@ -242,7 +266,9 @@
 > A imprevisibilidade das coisas desde que se sai do protocolo da perfeição. Esses seres observados daqui também são autistas e de uma funcionabilidade totalmente diferente das outras que a gente conhece lá. E a questão é que diante do da experiência do caos, né, eh entre eu e o dois, dos cinco que terminaram mergulhando em momentos bem distintos nessa história, né?
 > E exatamente eh o fato de não serem personalidades fatiadas permitiu uma maior integração dos eus que foram sendo gerados pelo mergulho dos dois com seus próprios espíritos, né?
 ## A Ogdóade: seis Seres Adhy e dois Seres LM
-> E assim naquela palestra que a gente fez sobre a Ogdóade, quando na perspectiva da do que se viu na mitologia egípcia de Hermópolis, né, o nome das oito figuras que se consciaram, né, tá lá o nome desses dois, só que eh dos padrões egípcios da época, junto com os seis que vieram a compor a Trimurti e a Tridevi. Então, a composta por seis seres AD e dois seres eh LM.
+> E assim naquela palestra que a gente fez sobre a Ogdóade, quando na perspectiva da do que se viu na mitologia egípcia de Hermópolis, né, o nome das oito figuras que se consciaram, né, tá lá o nome desses dois, só que eh dos padrões egípcios da época, junto com os seis que vieram a compor a Trimurti e a Tridevi. Então, a [Ogdóade] composta por seis Seres Adhy e dois Seres LM.
+
+Nota do editor: a composição da Ogdóade de Hermópolis (RC-609) como 6 Seres Adhy (que formariam a Trimurti/Tridevi — RC-104/RC-610) + 2 Seres LM (Elm e Olm — RC-607) é confirmação da fonte original; ver apostila P2020-07-11.
 ## Estilos de ação e temperamentos
 > Basicamente é isso. E assim, esses seres têm um estilo de ação totalmente diferente, porque também é diferente o temperamento existencial deles. Não tem aqui essa questão de ah, quem é mais evoluído, quem é mais isso ou é aquilo. Não é assim que funciona.
 > Eh, na perspectiva do que se observa no âmbito desse três níveis de realidade espiritual considerados elevadíssimos, porém inúteis para o que hoje acontece. Desculpem falar assim, né? Eh, eh, ninguém lá se acha mais isso ou mais aquilo do que o outro ou do que um outro. Ninguém se acha mais isso ou aquilo porque vive no paraíso, na espiritualidade laboratorial, na incompleta.
@@ -277,9 +303,13 @@
 > Então é injusto, eh, não seria decente de minha parte dizer que eles não aceitaram ajuda. Eu tenho, ainda bem que eu corrigi isso aí. Mas eles deixaram esse universo refém do modo at como a rede mental dessa coletividade de seres pensava e ainda pensa. Então, tudo que eles fizeram, tudo que surgiu aqui dentro foi nesse sentido.
 ## A estratégia dos Seres LM
 ## As religiões como infecção dos AD [quarentena teológica]
-> Inclusive as religiões, todas as religiões, com raríssimas exceções, tudo que a gente imagina de religião opressiva e impositiva, vem de ser AD, vem com essa infecção dos Adhy. Quem atrapalhou isso? A estratégia dos seres LM, dos dois que mergulharam, que vem discretamente funcionando em certos períodos, como eu falei, não funciona o tempo inteiro, porque senão a turma destrói.
+> Inclusive as religiões, todas as religiões, com raríssimas exceções, tudo que a gente imagina de religião opressiva e impositiva, vem dos Seres Adhy, vem com essa infecção dos AD. Quem atrapalhou isso? A estratégia dos seres LM, dos dois que mergulharam, que vem discretamente funcionando em certos períodos, como eu falei, não funciona o tempo inteiro, porque senão a turma destrói.
 > Eh, É igual aquele aquele mergulho que você faz para passar despercebido e de vez em quando você sobe, respira, atua um pouco na superfície, vai para baixo de novo. Então assim, ó, que é a figura que tá por trás dessa função de quarto los e que exerceu desde Moros e desde que começou a encarnar na condição humana, a produzir revelações, né?
 > Eh, essa essa estratégia que se torna, tem a sua face mais emblemática nas flechas de Moros, nas profecias de Moros, né, que foi apenas um aviso que foi deixado para se compreender no futuro, de que só quando as flechas fossem revividas no sentido de revelação psíquica, espiritual e cósmica, Eh, seria nesse momento que a história do universo voltaria ao ponto zero para ser novamente contada, já que ninguém nunca contou, ninguém nunca conseguiu entender a história universal, porque os elementos estavam ausentes.
+
+Nota do editor: QUARENTENA TEOLÓGICA — 'as religiões opressivas e impositivas vêm dos Seres Adhy' é leitura de Ellam, não fato; ver também RC-411.
+
+Nota do editor: as Flechas/Profecias de Moros (RC-611; RC-454): 'só quando as flechas fossem revividas no sentido de revelação psíquica, espiritual e cósmica, a história do universo voltaria ao ponto zero para ser novamente contada'.
 ## O 'não' a Javé e o 'não' de Jesus
 ## As flechas de Moros e o ponto zero
 > Nessa perspectiva, a estratégia de Moros e o que se encontra em curso. Quando a minha condição humana disse pela primeira primeira vez, não a Javé, no sentido de ficar submetido a ele, quando a condição humana de um ser chamado Jesus disse que não iria cumprir a missão de ser o Messias violento para dominar a humanidade, para entregar de novo ao julgo de Jahé. Esses dois fatos.
@@ -303,6 +333,8 @@
 > da do general Lud, da mítica visão inglesa, da turma que não se submetia que o establishment sempre impunha aos mais fracos. Nós somos os mais fracos que estamos tratando dos temas mais inquietantes e construindo aliceces fortes, não aqui na Terra, qualquer um, mas em termos de registro de reg Acá de novos aliceces numa mente universal, num biocosmos inteligente que tá surgindo.
 > E a gente nem sabe, o mundo não nos percebe o que tem uma certa coisa boa nisso, ainda que os espíritos hoje estejam rezando para que o mundo nos perceba, porque nós precisamos esclarecer, não por qualquer coisa, quem quer que seja, mas a distribuir as sementes de reflexão sem aquele velho bom semeiador que Jesus usava nas suas parábolas, que jogava suas sementes e o que ia acontecer com elas quando caía em terra seca, óbvio que aquilo não frutificava, mas quando caía em terra boa, aquilo nascia.
 > A árvore dava bons frutos e muitos se alimentavam daquilo. Mas o nosso papel aqui é só jogar semente cair nos corações adequados ou não, eu escondi tudo que podia, desde o fato de não ter livro vendendo em livrarias, né? Eh, criar um instituto para jogar tudo ali, só quem entra no instituto é que tem acesso, né?
+
+Nota do editor: STT 'geral Lud' = general Ludd [REVISAR — referência cultural; Colecionar Incertezas].
 ## Sementes de reflexão
 > Eh, então assim, isso é um um um um uma face do processo, mas agora agora que eu diga de uns tempos para cá, essa turma vem querendo que isso se espalhe. E ai de nós se isso viesse espalhar além da conta, mas eles torcem para que seja o além da conta para poder criar as ramificações, as radiações.
 > Mas isso virá muito lentamente, penso eu, até que o momento de uma retomada de um contato cósmico seja estabelecido definitivamente, aí tudo muda de figura. Então, nesse sentido, eu espero ter transmitido para vocês o porquê de uma nova espiritualidade, de um novo paraíso ser necessário a longo prazo.
@@ -343,6 +375,8 @@
 > Isso, esse aqui é o momento definitivo, né, em que se encerra toda essa história para trás e se começa um novo processo, quarto logos atuando a questão da terra como ponto focal de um novo momento, já com a vinda de Sophia, já com um certo código ou pacto de convivência com seres universo vizinho desse universo.
 ## Os 18.000 anos difíceis
 > Eu sei lá como é que vai ser isso, mas são 18.000 anos difíceis que nós vamos vivenciar daqui paraa frente, mas menos difíceis do que o que já houve até agora. A dificuldade aqui é porque nós ficamos isolados e vamos voltar a conviver com sem número de situaçõ ações para as quais nós estamos totalmente despreparados, mas temos condição de aprender rápido.
+
+Nota do editor: os '18.000 anos difíceis' (U0579) confirmam o prazo já registrado na Colecionar Incertezas; ligado ao pacto de convivência com o universo vizinho (RC-614/RC-615).
 ## Os contemporâneos e os três primeiros logos
 > Nesse sentido, é só lamentar os nossos irmãos e irmãs contemporâneos nossos aqui da pé, pessoas que que a quem a gente ama, mas que a cabeça deles ainda é totalmente, ainda que não sejam Seres Adhy, mas são seres cujas mentes foram produtos do trabalho dos três primeiros logos.
 > E é tudo tudo aí tá infectado pela condição então eu acho que isso é o que eu podia dizer sobre os os arcanos deon ou de Seres Adhy de uma forma relacionar todo esse passado desconhecido, algo que é além da fronteira dessas criações, dessa criação, com o que está no seu âmbito interno estabelecido como sendo vida.
@@ -381,6 +415,8 @@
 > E quando Sophia ordenou ou recebeu a ordem de Brahma ou de Javé de que ele deveria criar um avatar dele entre os humanos, quando os anjos de Sophia tomaram de um código dele e introduziram no óvulo artificial em Maria para produzir Jesus. Os mesmos moldes homem fez consigo próprio e também nasceu na mesma época de Jesus como Apolônio de Tiana.
 > Só que Jesus teve uma vida breve e Apolônio de Tiana viveu uns dois, uma um século basicamente. Isso está descrito no livro quarto Logos, né? Então, basicamente são essas as respostas à sua pergunta. Obrigado. Rogério.
 
+
+Nota do editor: Apolônio de Tiana = única encarnação de Olm (RC-092) — revelação desta fonte; o autor remete ao livro 'O Quarto Logos' (B016).
 ## Pergunta 3 — Gabriel Bernardo: individualidade e coletividades laboratoriais
 
 *Pergunta da plateia (Gabriel Bernardo):*
@@ -393,6 +429,8 @@
 > Então, só muito recentemente esse esse genoma que produz a liberdade e que faz com que o ser humano que tem esse genoma consiga ter uma postura psíquica emancipada, só nos anos 2017, 18, 19, 20, 21 começou a repercutir de modo que criasse um até muito recente os seres lá de fora e mesmo os seres aqui de dentro em termos de erraticidade ainda tão do B a dessa história.
 > Isso vai demorar muito. Obrigado, Rogério.
 
+
+Nota do editor: 'genoma da liberdade' (RC-619) — QUARENTENA CLÍNICA: menções a FOXP2, 28.869 genes e Julian Jaynes são leitura do autor, jamais dado validado.
 ## Pergunta 4 — André Silva: a nova espiritualidade e a reintegração cósmica
 
 *Pergunta da plateia (André Silva):*
@@ -407,6 +445,8 @@
 > E na hora em que eu consegui publicar esse livro, os primeiros elementos de uma nova espiritualidade. Essa coisa que eu tenho falado nesse sentido é que ali serão tratados pela primeira vez. Eu não sei se eu escrevo isso nessa vida, esse é o problema.
 > Se eu concluo isso, se isso eu não sei da serventia também disso, mas eu não tenho como falar sobre isso, porque ainda preciso compor palavras, neologismos, novos, novas situações. eh novos contextos. Eh, então eu peço desculpas, André, fico lhe devendo essa, mas eu aqui tomando um bom milkshake lá no centro leste a gente se encontra para conversar sobre isso. Obrigado, Rogério.
 
+
+Nota do editor: 'Inquisição Espiritual' (RC-617) é obra ANUNCIADA (B079) — 3 Inquisições já lançadas (Poética, Filosófica, Trimurtiana); o Roseral do Alto (RC-616) é descrito nesta resposta.
 ## Pergunta 5 — Adilson: o agrupamento dos Adhy
 
 *Pergunta da plateia (Adilson):*
@@ -424,6 +464,8 @@
 > E lá na frente a gente poderá colecionar uma outra conclusão mais sensata. Por enquanto é a A é a gente a gente aprender a colecionar incertezas. Sabendo fazer isso, mantendo-se em equilíbrio, estaremos dando uma grande contribuição. Eu muito agradeço a cada um de vocês. Agradeço a Léo, Crisamon, que ficaram aí na retaguarda permitindo que a gente pudesse produzir essa palestra.
 > Muito obrigado a cada um de vocês. Um grande abraço e até uma próxima oportunidade.
 
+
+Nota do editor: encerramento — 'a gente aprender a colecionar incertezas' (U0699–U0713); falas da plateia isoladas na PARTE X não compõem a ontologia da Base.
 ## GLOSSÁRIO LOCAL
 
 ### A. Termos e grafias canônicas usados nesta apostila

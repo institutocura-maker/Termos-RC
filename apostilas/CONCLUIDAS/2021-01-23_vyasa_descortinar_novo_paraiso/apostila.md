@@ -6,10 +6,14 @@
 @nota_editor: Esta apostila é a transcrição editada integral da palestra de 23/01/2021 (fonte P2021-01-23), organizada tematicamente em 12 PARTES para estudo — **palestra inédita na base e fonte original** do detalhamento de Vyasa (RC-585), das Moiras/Nornes (RC-467), dos "fios soltos" da Trimurti, de Parashara, da Escola de Decifração e das três setas de Moros (RC-454). Preservamos a voz, os marcadores orais, o humor e as digressões do autor; corrigimos apenas erros claros de transcrição automática (STT), com nota na primeira ocorrência, seguindo as grafias canônicas da Base Terminológica RC (Vyasa, Parashara, Apantaratamas, Moiras/Nornes, Moros, Enoque, Metatron, Trimurti, Brahma, Vishnu, Shiva, Krishna, Sophia, Mahabharata, Mohen So, método druida, Kardec etc.). Passagens duvidosas do STT ficam marcadas como [REVISAR]. Os **2 intervalos** (café; 15 minutos) estão marcados no corpo do texto, e as **3 perguntas finais da plateia** aparecem isoladas em seção própria (PARTE XII) e **não compõem a ontologia**. Termos com remissão RC-### referem-se à Base Terminológica RC. Alegações teológicas, históricas, culturais, clínico-científicas e políticas são **leitura de Ellam, não consenso validado** — em especial: "tudo que até hoje nós seres humanos pensamos sobre paraíso está absolutamente furado"; "nenhum dos seres que tratamos como Deus é de fato Deus"; a leitura da genética humana (28.869 genes; quatro segmentos genéticos), da evolução do cérebro e das projeções sobre vírus pós-COVID (quarentenas estritas; apenas a interpretação do autor). A palestra passou por re-curadoria (Dossiê + Devolutiva do curador, 20/08/2026 — O-1 a O-7 aprovados): auditoria confirmada; **16 fichas ampliadas**; obra "Nem Deus, nem Javé, nem Darwin: a evolução do cérebro" cadastrada como **B082**; **nenhum código novo consumido** (base blindada em 770 termos).
 
 
+
+Nota do editor: tema-título — o paraíso 'furado' e os três reinos da antiguidade (RC-612); 'se isso aqui for paraíso, vamos inventar outro' (U1099).
 # PARTE I — A Abertura: Uma Palestra Chata, Mas Necessária
 
 ## Uma palestra chata, mas necessária
 > Mas assim, essa palestra de hoje ela é chata, no sentido de que eu gostaria de não fazê-la, mas é necessário, do jeito que existem livros horríveis de ser vistos livros terríveis de serem livros, mas são necessários para que a gente conheça certas coisas. Essa palestra de hoje vai por aí.
+
+Nota do editor: abertura — o autor classifica a palestra como 'chata, mas necessária' e pede prudência; tema ligado a Vyasa (RC-585) e ao Novo Paraíso (RC-612).
 ## O contexto e o marco temporal encarnatório
 > É uma palestra que talvez a gente gaste um pouco de tempo para poder eh abordá-la convenientemente. Mas logo de saída eu vou dizer uma coisa.
 > que me foi solicitado dizer e esclarecer também para ser honesto, esse contexto ao qual vou me referir hoje, dizendo de forma muito clara e pedindo permissão posterior a Maria dela, a exceção dela, as demais pessoas dessa sala estão nessa nessa, nesse contexto do falar também mandou situação das pessoas que estão nos escutando, sem exceção, todas estavam.
@@ -35,6 +39,8 @@
 > Então, pra gente iniciar, antes ainda de iniciar, talvez seja conveniente eu explicar uma coisa a vocês. Aqui tem pessoas que entendem de eletricidade, tá? Vou pedir desculpas porque eu vou inventar aqui uma uma coisa aqui. Vamos imaginar um poste, outro poste, outro poste e um fio daqui para cá, daqui para cá.
 > E assim a energia gerada em algum ponto é transmitida para cá. Esses fios estão muito bem construídos, né? Então, a corrente passa por aqui, por aqui e a coisa vai. Ou seja, a informação, a corrente, o tipo de carga que se pretende passar por esse fio, esse sistema funciona legal.
 > Agora, imaginemos um poste cujo fio tem problemas e é cortado e ele fica com Todos os fios soltos que deveriam estar ajustados, entrelaçados e dentro do fil. Aqui a informação flui muito bem. Aqui não é o trân.
+
+Nota do editor: a metáfora dos 'fios soltos' (poste e fios elétricos) — fonte original do conceito (RC-604; RC-104): 'quando o criador caiu, ele ficou com bilhões de fios soltos'.
 ## Bilhões de fios soltos
 > Vamos só imaginar aqui então que aqui tem um gerador e aqui tem transformadores e essa energia nesse exemplo A aqui vai fluindo aqui não sai do lugar. Quando o criador caiu, ele, entre aspas, construiu-se como ser de um ser, cujo desejo de repassar algum tipo de corrente informação tal dele causou isso.
 > Ou seja, ele ficou com bilhões de fios soltos e cada um foi seguindo e nunca houve uma corrente educada. Qual eficácia para transmitir informação? Alguém mergulha, se reconstrói como Shiva e lá vai Shiva, o mesmo problema de vida. condição adhydaiva [REVISAR — STT 'Adaiva'].
@@ -57,6 +63,8 @@
 
 ## Três seres que não são mulheres
 > Então pessoal, qual é o drama? Quando Moros percebeu o tamanho dessa confusão aqui? Ele viu que não ia resolver, ele sumiu, mas ele gerou três seres que não são mulheres, como as mitologias falam, as moiras sob a perspectiva da mitologia eh grega ou as nornes da mitologia nórdica.
+
+Nota do editor: as Moiras/Nornes (RC-467) como 'três seres que não são mulheres, como as mitologias falam' — herdeiros dos fios soltos; funcionam como 'computador/GPS' das assinaturas quânticas (U0075–U0120).
 ## Os herdeiros dos fios soltos
 > Não deveriam ter sido tratados como seres femininos ou masculinos, porque não tem isso. Esses três seres que hoje se entendem como sendo as moiras ou as nornes.
 > Esses três seres são os herdeiros dos fios soltos dos três seres da Trimurti, que Moros estudou cada fio solto desses, passou a equação zero, ou seja, pode misturar esses fios soltos que não vai dar em nada, nunca vai ser uma Eles apodreceram lá lá atrás.
@@ -75,6 +83,8 @@
 > O IEA tá recebendo hoje um fluxo que nunca deixou de existir, apenas se interrompia para esperar tempos melhores para poder se fazer presente. Aonde? Quando as três flechas de Moros consorciassem para uma única espécie.
 > Em outras palavras, quando o espírito de Moros tivesse três encarnações ou mesma espécie, e realizasse o trabalho de religar alguns desses pontos.
 > Dentro isso, eu vou ter que novamente dizer o seguinte: nós aqui do estamos lidando com assuntos absolutamente superlativos, difíceis de ser codificados, entendidos pela lógica humana, mais de todas as lógicas que existem, inclusive de Deus [REVISAR — STT 'combo'].
+
+Nota do editor: as três setas/flechas de Moros (RC-454): quando reencontradas, 'a história universal retroagiria ao momento zero e seria finalmente contada' (U0107–U0108; U1359–U1372).
 ## A única lógica capaz de tratar dos assuntos
 > E dos seres maravilhosos que habitam o paraíso, a espiritualidade incriada, a espiritualidade superior que sempre existia.
 > antes da criação de qualquer faixa dimensional alternativa, qualquer universo, ou mesmo antes de surgimento dos níveis de espiritualidade operacional e laboratorial, que a gente chama de superior, junto com a própria espiritualidade superior e criada.
@@ -186,6 +196,8 @@
 > Shiva escutou o problema, aí no final disse: "Tem um probleminha aqui, vocês dois estão certos." Mas não é pelo que visto, da Certo problema porque Xavé, você tinha que ter registrado a força, a sua forma de poder em Enoque, lá naquela região do seu Dromolo e Vishnu, você teria que ter registrado a sua assinatura no DNA de Enoque, levando Enoque lá paraa que é sua loca.
 > Você fez isso que o Brahma loca, então não registrou direito. Mas eu desafio vocês dois e digo que Enoque não vai fazer nem o que você já disse que ele iria, nem o que você Vishnu disse que ele iria. Eu digo que Enque tem fazer isso, isso e aposta a minha forma de poder na pessoa. Aí os dois tiveram que aceitar.
 > Aí Enoque foi levado pra loca de Shiva. Ele ferrou DNA de Enque. Enoque foi levado para loca de vigilo. V ferrou de novo com Brahma. Brahma ferrou. O velo de Enoque morreu.
+
+Nota do editor: a aposta Javé×Vishnu (RC-001; RC-135 — ficha retida) envolvendo Enoque; 'eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar' (U0369).
 ## Enoque, o corpo de Metatron e o "big data"
 > Sobrou de Enoque uma múmia entre aspas viva, uma cópia, uma réplica viva e um corpo de Metatron eventualmente ligado para conviver com os masío se desvinculou das mas essas duas coisas horríveis ficaram lá funcionando.
 > E Enoque só mora os dois sumiu o espírito de Enoque foi aquele lá e os três e agora a gente a forma de poder da gente do DNA desses seres e ele está inoperantes, mas o espírito dele tá vinculado a condição humana. Então vamos atrás.
@@ -205,6 +217,8 @@
 > Então isso aqui, eu tô falando de religião, não com o estudo do genoma humano, com o avanço dos estudos de genética, foi feito uma pesquisa mundial e a turma que não acreditava em Noé teve que aceitar o fato de que a humanidade é dividida em quatro grandes segmentos genéticos.
 > Dos quatro, três São esses aqui, um Oriente do Oriente Médico, na África e o E isso aqui surgiu a partir de uma região próxima a Turquia, que é onde essa essa arca, essa ciência.
 > E a quarta região da Terra é as Américas, que aí não é o DNA de nenhum dos três filhos da fé, mas como é nenhum dos três filhos de Noé, como Noé Olhem bem, é o último antes do dilúvio daquela genealogia que começa Adão, sete enos Cainâel, Jared, Enoque, Matusalém, Ladec, Noé.
+
+Nota do editor: os quatro segmentos genéticos (RC-024) — QUARENTENA CIENTÍFICA: leitura do autor ('estudo do genoma humano, não religião'), jamais dado validado (U0435–U0442).
 ## As Américas: a descendência de Caim
 > Hoje, ou seja, nesse tempo aí, eles estavam novamente organizando a vida na África, na Europa e na Ásia e no Oriente Médio. Mas nas Américas, desde o tempo de Adão, Caim foi para lá. Então, toda a descendência da América do Norte, a América Central, América do Sul, o DNA vem de Caim, segundo filho de Adão.
 > Então, veja o tamanho da loucura. Qual é o detalhe? O detalhe aqui, quando Noé teve os três filhos, ele tinha que escolher dos três qual seria o conte doador na sequência da genética divina começada com Adão. Então, sen como era o primogênito, naturalmente sem foi escolhido.
@@ -226,6 +240,8 @@
 > Aí ele escolheu da linhagem dos filhos de Jafé, um deles chamado Gomer, que é o ancestral da genética do povo ariano.
 > E os filhos de Gomer Como Javé foi rechaçado pela descendência oficial de Sem [REVISAR — STT 'Seno'], ele pegou uma descendência de Gomer e se apresentou a essa figura aqui, ao povo ariano, e o nome Brahma surge aqui. Até então esse ser era conhecido como Javé, vamos assim dizer, por essa linhagem.
 > Isso aqui é linhagem semítica, babilônica judi. Aqui é alian Aqui ele ficou conhecido como Brahma. Qual o detalhe? O detalhe é que quando Éber, Javé, Éber e Faleg [REVISAR — STT] morre, os três vão para essa descendência aqui. Qual é o detalhe?
+
+Nota do editor: Javé apresentando-se aos arianos como Brahma (RC-001/RC-037) após a recusa de Faleg (= espírito de Rochester) — 'Faleg = Rochester' na Colecionar Incertezas (U0461–U0475).
 ## Linhagens, anjos e demos dos portais
 > Essa linhagem aqui sempre lidou com os anjos clã de Javé, não era com seres dentro dos portais. Só que a linhagem de Jafé, essa aqui só lidou com os demos dos portais, foi invadida pelos portais abertos. Então, os brâmanes [REVISAR — STT 'branises'], sacerdotes do deus arianos. Nós estamos aqui há 5, 6000 anos atrás, tá?
 > Eles então ficaram se sentindo o povo escolhido. O povo escolhido era esse aqui, hebreus, de quem descendeu os judeus. Mas nesse ponto aqui, Javé largou esse povo e procurou outro. Enquanto esse povo esteve na altura da fala de Brahma [REVISAR — STT 'folha'] era o eleito da terra, mas depois houve um problema.
@@ -251,12 +267,18 @@
 
 ## Apantaratamas, o nome védico de Enoque
 > Então assim, Vyasa foi neto de um ser chamado Apantaratamas. Você sabe o que é Apantaratamas? É Enoque. Apenas o nome de Enoque conhecido na tradição védica é Apantaratamas. Mas como quando Enoque morreu e ficou a múmia, ficou o anjo, o corpo lá [REVISAR — STT], o DNA dele foi preparado.
+
+Nota do editor: Enoque = Apantaratamas (RC-489), nome da tradição védica; 'Tamas é energia de Shiva' — ver também Metatron (RC-671) e o corpo especial (U0525–U0540).
 ## O DNA de Enoque [REVISAR — quarentena]
 > Cerca de uns 9.000 anos depois, essa turma pegou o DNA de Enoque e saiu fertilizando... umas demos [REVISAR — STT] que viviam entre a loca delas, deles e a terra, os portais eram abertos e também fecundaram alguns minérios da é uma confusão total. É uma época difícil da gente falar porque escandaliza.
+
+Nota do editor: [REVISAR — QUARENTENA]: 'o DNA de Enoque fertilizando demos e minérios' é passagem severa do STT e leitura do autor; registrada na Colecionar Incertezas (U0530–U0531).
 ## Parashara, o gênio
 > Então, Nasceu esse ser chamado Parashara, filho de Apantaratamas, apantaramas. E Enoque foi chamado de apantaras. Tamas é energia de Shiva, porque a descendência de Enoque foi altamente recicladora na lógica do bramanismo. Não é a lógica do judaísmo.
 > Só que esse Parashara, ele foi um gênio, ou seja, o pai de Vyasa, o filho de Enoque. Mas filho não, porque Enoque teve relações e produziu Matusalém. Matusalém foi um tipo de filho biológico, vamos dizer, esse parachar foi o filho filho gerado numa demo que produziu um ser híbrido parachara altamente intelectualizado.
 > E não há ninguém na face da terra que tenha produzido tanto quanto esse nosso amigo Parashara.
+
+Nota do editor: Parashara (RC-585) — pai de Vyasa, neto de Enoque; criador dos critérios da astrologia védica (Jyotisha) para comprovar avatares (U0538–U0545).
 ## A astrologia védica e os critérios de avatar
 > A astrologia védica que ele já mostrar para vocês aí que o nosso amigo para Chara produziu para os demos pararem de brigar para poder comprovar quem era avatar de que fio solto, de qual fio solto, de Vishnu, de Shiva e de Brahma, porque nessa época estranhamente alguns seres começaram a se apresentar como avatar [REVISAR — STT 'abajo'].
 > E ninguém nessa época sabia explicar coisa alguma do que acontecia.
@@ -274,6 +296,8 @@
 > Porque cada um julga com o que roda na cabeça. Só que o que hoje roda na nossa cabeça é tranquilo. A gente já viu várias novelas, já leu vários livros, já escutou várias histórias. Desde criancinha a gente escuta história, né? Então a gente sabe rodar início, meio e fim com os Deus. Não sabia. Não existir isso.
 ## INTERVALO — o café
 > Então a gente vai dar uma parada aí para tomar um café. Na volta a gente vai vai pro lado bom da palestra [REVISAR — STT 'del'], que é o que de fato interessa. Isso aqui eu só por enquanto criei um um um reto para vocês entenderem em termos de tempo e de lugar.
+
+Nota do editor: INTERVALO — o autor interrompe para o café (U0571) e anuncia '15 minutinhos' (U0575).
 ## INTERVALO — 15 minutos
 > E agora a gente vai a definitivamente falar de Vyasa [REVISAR — STT 'viagem'] da questão do novo para uma série de problemas que a gente poderá abordar. Então, 15 minutinhos de intervalo e a gente volta.
 
@@ -334,6 +358,8 @@
 > Com o tempo, ele desistiu desses avatares aqui, porque estes eles eles eram mais autoritários do que propriamente sábios, apesar de conhecedores das questões da vida em nível confiável de honra e diência. Eu tô falando aqui de Krishna. No final da palestra eu vou ter que contar as confusões entre viasa e a Krishna.
 > das suas expressões avataris. Então, Vyasa, ele reuniu essa esse grupo para tentar criar uma interpretação dos eventos, do que estava acontecendo aqui na Terra, porque era todo mundo de loca vindo para cá, todo mundo de outros planetas, tudo acontecendo aqui, ninguém entendia.
 > Então, com o tempo, ele foi descartando os iperórios influenciáveis, porque essa turma queria influenciar essa para que essa achasse que esse ou aquele avatar era o bichão. Então, viaja foi descartando tudo isso e ficou basicamente ele mesmo na posição de um rich com seres mestiços e alguns humanos.
+
+Nota do editor: o grupo de 20 (de 250 a 21) e a Escola de Decifração (RC-585/RC-094): 'nós nascemos nessa vida para dar continuidade ao que Vyasa fez' (U0704–U0719; U0797–U0820).
 ## O Jyotisha de Parashara
 > Esse grupo de 20 pessoas é esse final aqui. Nesse ponto foi que surgiu a questão da necessidade da astrologia védica poder decidir se ele viava, tinha ou não autoridade para fazer aquelas definições e como comprovar quem era definitivamente um avatar.
 > Aí baseado no trabalho do pai dele, o vedanga Jyotisha, foi escrito para que nele pudesse ser ancorado os critérios de quê? De verificação astrológica. Faltou um você aqui da assinatura do nascimento de um avatar. Qual o problema?
@@ -356,10 +382,14 @@
 ## O método druida: "busca pela verdade"
 > Esse tipo de coisa houve na Irlanda e houve na Escócia. E desse tipo de contato surgiu o que Eu chamo de colégio druídico, não é druída, é porque os gaélicos, que são esses irlandeses ou escocêses de primeira hora, esse pessoal eles criaram o método Druid em Celta. Druid quer dizer busca pela verdade. Busca da verdade.
 > Então eles criaram um instituto para estudar. O quê? A verdade. Buscar a verdade. Mas mesmo o ser humano, sendo sagaz, não era todo e qualquer ser humano que podia buscar a verdade. Ele tinha que se submeter ao método druid. Ele tinha que estudar primeiro esse método para poder se tornar um buscador da verdade.
+
+Nota do editor: o método druida (RC-759): 'Druid quer dizer busca pela verdade'; os colégios druídicos, Tuatha de Danann e milesianos (U0732–U0760).
 ## Kardec e o espírito de Zéfiro (Rochester)
 > Então, os dois colégios druídicos que aconteceram na terra entre 9 e 8.000 anos sucumbiram, mas a ideia foi iniciada. Vyasa tava retomando essa ideia, porque o próprio espírito dele na época chamada Allan Kardec lá em cima tinha sido druído. Foi nessa época Kardec foi Kardec, tá?
 > Entendam, professor Rivail na França século XIX assumiu o codinome de Allan Kardec [REVISAR — STT 'dono'] um espírito chegou para ele e disse: "Ei, você que tem que codificar". Disse: "Mas eu sou um professor conhecido aqui em Paris. Não, não bota esse nome aí de Allan Kardec.
 > Seu espírito já foi druida lá atrás [REVISAR — STT 'proído']. Nós esse espírito era Zéfiro. Zéfiro é espírito de Rochester. Nós já trabalhamos juntos lá atrás. Então esse lá atrás é nessa época.
+
+Nota do editor: Kardec (RC-190 — ampliação retida, sem ficha física): o espírito que codificou foi Zéfiro (Rochester), 'já foi druida lá atrás' (U0762–U0769).
 ## O método druida entre os mestiços
 > Então quando Vyasa estava retomando o alinhamento do padrão que desde o início Moros aplicou paraas suas encarnações, ele estava, na verdade tentando aplicar um método Druid entre os mestiços. dessa época da sequência dos sacerdotes braman entre os arianos.
 > Então, de acordo com a lenda mito ancestral, numa vida passada, Vyasa havia sido sábio Apantaratamas, que é o mesmo que Enoque. Só que e Enoque havia encarnado a pedido de Vishnu [REVISAR — STT 'viso'] quando ele pronunciou a sílaba Aí começa uma outra confusão.
@@ -413,11 +443,13 @@
 > Eu sei que tu tens revelado a palavra divina mesmo desde a sua primeira expressão vocal na A linguagem da verdade. Tu chamaste o teu presente trabalho de poema, pelo que ele será então um poema.
 > Não haverá poetas cujos trabalhos possam se igualar às descrições desse poema, assim como os três outros móveis chamado asama são sempre desiguais em mérito ao acorrama familiar. Explico já. Que Ganecha seja então considerado para o propósito de escrever o poema junto com você.
 ## A prosa: inovação de Vyasa e Parashara
-> Isso aqui é o seguinte, até esse tempo as pessoas falavam como poesia. Nesse tempo surgiu a prosa que foi viada basicamente com parachar inventado para poder descrever história sem ser usando a métrica da poesia.
+> Isso aqui é o seguinte, até esse tempo as pessoas falavam como poesia. Nesse tempo surgiu a prosa, que foi Vyasa, basicamente com Parashara, inventada para poder descrever história sem ser usando a métrica da poesia.
 > Então esse Azrama aqui que se fala é mostrando que a prosa traz descrição que no não se preocupa com rima, com métrico. Então são frases desiguais, mas que tem o sentido, porque até então tudo tinha que ser igual, igual em termos de preocupação de rima para poder garantir que a história tava sendo passada corretamente.
 > Aí Salte disse, Salte era um personagem do do do do do do do do do Braba, tendo falado dessa maneira para via retirou-se e voltou para os seus aposentos no Bramal aí tem um probleminha. Brahma nunca saiu, nunca levantar. Que história é essa?
 > Quem é essa figura que sabendo que Vyasa pela primeira vez tinha composto em prosa e não em verso, ainda que terminou fazendo verso e uma certa forma quando foi escrever para os humanos, mas via estava em dúvida se aquilo era estava a gosto dos seres do chamado conglomerado de realidades, ou seja, os três gregos Brahma de estilo.
 > Esse ser nessa época em Krishna não tava vivo e Krishna se apresentou Nessa época, os seres que viviam aqui na terra, seja humano, seja os de fora, como sendo avatar cacha, ou seja, que trazia uma porção da genética de cada um dos três seres atributos. E eles, Krishna, se apresentou como sendo superior aos três.
+
+Nota do editor: o Mahabharata (RC-593): a prosa como inovação de Vyasa (vs. poesia métrica); as várias versões para cada família demo (U0799–U0800; U0868–U0871).
 ## Krishna e Arjuna: o Bhagavad Gita
 > Quando Vyasa conta numa rabar, a conversa de Krishna com Arjuna. Arrijuna não queria ir paraa guerra com seus primos. E Krishna basicamente o obriga a ir no sentido de que o motiva filosoficamente disse que ele Krishna garante como provedor de vida que aquilo não iria contrair débito da Juna se ele fosse pra guerra sem ódio.
 > Matasse porque o dharma teria que liquidar o mal pro bem sobreviver. Então Nessa conversa de Crista com Arijúa, que é só um capítulo do Marabarata, mas esse capítulo é um livro à parte chamado Bhagavad Gita, Krishna aqui se apresenta como maior do que os três ser.
@@ -453,6 +485,8 @@
 > Na época se tentou decifrar esses mistérios todos, mas se conversava sobre isso, mas não se escrevia sobre isso porque não tinha como, mas ficou ficou a marcação. Então assim, pessoal, Krishna, ele algumas vezes ou vi porque via ele talvez seja melhor explicar assim A Pantara Tamas foi pai de Parashara, que foi pai de Vyasa.
 > Vyasa foi pai de três filhos. Pandu Dhritarashtra e succa. Esses dois aqui de duas viúvas virgens. Olha a confusão. Olha a confusão. Comprometa as e as duas vistas estão sentadas nessa sala. É o Eu vou vender um óvulo de radar. começar uma nova linhagem.
 > Aí houve uma atividade de interferência para que as duas casassem com dote altíssimo de dois maridos maravilhosos que morreram em batalha, as duas riquíssimas e alguém queria o que queria, que nessa época Vyasa já era um ermita tava na sua fase de porque quando você passa três, cinco 10 anos numa caverna só fazendo yoga.
+
+Nota do editor: Krishna (RC-414) — STT 'avatar cachava' [REVISAR]: avatar que trazia 'uma porção da genética de cada um dos três seres' da Trimurti; Dwarka e a morte por flechada (U0876–U1097).
 ## Pandavas e Kauravas
 > O seu cheiro não é muito bom de ninguém. E essa coisa dessa época era complicada. Então assim, alguém disse, alguém percebeu no big data, né, que misturar a genética desse rapaz com essas duas criaram os seres mais poderosos da terra em termos de missão [REVISAR — STT 'missá'].
 > Então, dessa daqui nasceu de Arjuna, Bima e os dois gêmeos. Gêmeos não, gêmeos. Asim, que são os cinco irmãos e de Dhritarashtra com Gandhari nasceram 100 filhos, sendo uma filha foram [REVISAR — STT '199 com 1001']. 101 101 um filho, sendo uma fêmea, que são os Kauravas.
@@ -505,6 +539,8 @@
 > Quando o espermatozoide vai chegando perto do tudo em menos de um segundo, lá vem o bicho de novo, ih, ferrou. Tenta se reagrupar os elétrons, tenta se reagrupar as informações. É um negócio maluco. E no final o embriãozinho que nasce tem a assinatura quântica daqueles 28.869 genes.
 > No meio dos ativos tá a assinatura do da mesma consciência espiritual. Eu não estou dizendo que os 28.869 genes do corpo de vocês hoje é igual a das últimas vidas.
 > Tô dizendo que parte desse é porque é assinatura que não Então, Vyasa, ele foi [REVISAR — STT 'Vi'] eh ele ele ele criou na espiritualidade oriental, institutos de busca e de decifração que hoje dão guarida ao nosso, que é no Nepal, no Tibeto.
+
+Nota do editor: QUARENTENA CLÍNICA — '28.869 genes' e 'assinatura quântica do DNA' são leitura do autor, jamais dado validado (U1108–U1110).
 ## Institutos de busca e decifração no Oriente
 > Aí depois que Vyasa fez isso, Shiva ordenou alguns avatares dele para se submeterem ao trabalho de [Paz?] [REVISAR — STT]. Depois que isso foi feito, a falange vinculada a história. A banda [cita?] também [REVISAR — STT] se vinculou a esse processo. Então tudo foi [selado] [REVISAR — STT 'seulado'] por quê?
 ## "Quem manda é Maria..."
@@ -522,6 +558,8 @@
 ## O Biocosmos emergente
 > Então nós próprios já estamos criando no Biocosmos emergente uma parte dessa nova consciência que na hora em que as assinaturas quânticas vinculadas à busca de algo benéfico encarnam para que haja um ninho de apoio, não é juda, nem é nada de de ah vantagem, é só para diminuir a desvantagem de você tá no mar de lama tentando limpar as coisas e não funciona porque lama é lama.
 > Então alguém tem que trabalhar na a essência da lama para ver se ela vai por uma [via] alquímica [REVISAR — STT] celeste espiritual, se tornando a lama menos [emanada?] [REVISAR — STT 'enameada'], uma podridão menos desagradável. Esse é o jogo. Mas por enquanto somos nós. Nós quem? Esses babacas aqui.
+
+Nota do editor: o Biocosmos emergente e o novo fio (RC-163 — ampliação retida, sem ficha física; RC-612): 'parte biodêmica, parte humana' (U1142; U1185–U1187).
 ## Sophia e Zeus: o problema do final de 2020
 > E essa história começou com Vyasa [REVISAR — STT 'viança']. Final do ano passado, essa turva me jogou um problema terrível de alguém brigando com com com Sophia e Zeus. E é real esses Zeistem. E me disseram que no mês de janeiro seria extremamente necessário eu me render enquanto Rogério para eles fazerem os alinhamentos.
 > Mas para minha surpresa não foi isso.
@@ -575,6 +613,8 @@
 > Nada até hoje funcionou direito, tudo é livro. Eu terminei um livro essa semana, chama-se Nem Deus, nem Javé, nem Darwi. Dois pontos, a evolução do cí, mostrando que isso que acontece na evolução humana é um é um jogo de manipulação de acordo com circunstâncias. Olha aí, redimensiona, dá tudo errado.
 > Aí joga tudo que é dado de novo, é v o resultado, escolhe um, redimensiona. É desse jeito. Só que Javé, ele no meio dessa história toda, ele tem um alinhamento. Desde que ele assassinou Abel, ele deu alinhamento. Ele não quer certas coisas.
 > E ele não quer certas coisas em termos de DNA, ele vai esse famoso big é a expectativa dele. E esse big era o resultado das contas que Mauros fez o que não prestaram. Aí eles associam o que presta a condição humana.
+
+Nota do editor: obra cadastrada como B082 — 'Nem Deus, nem Javé, nem Darwin: a evolução do cérebro' (U1259–U1260); sinopse reconstruída da fala, aguardando confirmação bibliográfica.
 ## A programação encarnatória
 > Então nós vamos nos vitimando de acordo com esse joguinho para manter [Javé?] vivo [REVISAR — STT 'já'] e instigado, né? Motivado. Não funcionou. O cara morreu. [REVISAR — STT 'Deus foi']. Mas o que tava feito tá feito para continuar. A vida de todos nós é [dessa] forma [REVISAR — STT].
 ## Os palhaços do circo
@@ -596,6 +636,8 @@
 
 > Eh, a astrologia ocidental ou mesmo védica, tem sua razão de existir. Esse conhecimento antigo tem sua função realmente para auxiliar em algo os seres humanos hoje no presente aqui na Terra?
 
+
+Nota do editor: Pergunta 1 da plateia — resposta sobre a astrologia védica (função prática hoje; liberdade do ser humano); fala da plateia não compõe a ontologia (U1300–U1310).
 **Resposta de Jan Val Ellam:**
 
 > Rapaz, a função prática hoje então um pouco distancivo, na minha opinião, mas o procedimento é sério e, creio eu, será ainda muito mais útil lá na frente, mas nesse momento tá meio que perdido porque eh eh as religiões erraram o processo do ser humano dele se tornar dependente de preces, de santos, de Deus.
@@ -616,6 +658,8 @@
 > Mas aí essa questão de o que a gente chama hoje de horóscopo de não sei o quê, aí já é um um leitura que a gente tem que tomar muito cuidado porque são questões vários. Qual a conexão entre Jyotisha e as [águas?] [REVISAR — STT 'ágas']?
 > Já que eu ouvi a frase Jyotisha seria Matemática vética e [águia?] seria engenharia [REVISAR — STT] vética. Isso, isso faz algum sentido?
 
+
+Nota do editor: Pergunta 2 da plateia — Jyotisha/Vedanga (STT 'Giotista'); o aparte de Ellam sobre Zeus e Apolo e os oráculos está registrado (U1311–U1324).
 **Resposta de Jan Val Ellam:**
 
 > É o [Ed?] [REVISAR — STT 'Ed vacá'] que não é e a isso que eu tô dizendo, esses desdobramentos a esse nível. Você você hoje vai à Índia, você tem lá duas universidades que estudam astrologia védica nesse nível de de de de de situação que é tá colocando nesse nível de detalhe. Mas não tem sentido. É isso que eu tô dizendo.
@@ -635,6 +679,8 @@
 
 > Última pergunta, Rogério. Eh, o espírito de Marcos em Rochester [REVISAR — STT 'Voches'] teriam relação com o espírito das moiras? Pergunto das moiras. Pergunto, pois parece que o espírito de Moros e dessas duas figuras vem encarnando junto. As moiras estariam encarnadas?
 
+
+Nota do editor: Pergunta 3 da plateia — espírito de Marcos/Rochester × moiras; resposta inclui Frigga/Aran e as três setas de Moros (U1348–U1372).
 **Resposta de Jan Val Ellam** (inclui Frigga/Aran e as três setas de Moros):
 
 > Não, essas moiras não tem como encarnar nem a pau [REVISAR — STT 'Paulo']. Elas e eu chamo elas, mas não são elas, tá? Já falei isso aqui, mas é um jeito esses três seres. eles. Eh, eu deveria nessa vida ter feito uma viagem ainda.
@@ -658,6 +704,8 @@
 > Então se alguém tiver muita certeza trabalhando no IEA, é bom tomar umas [vitaminas?] [REVISAR — STT 'felic']. Quanto menos certeza a gente tiver, melhor e mais suave e agradável será possível. Nós podemos ter muita coleção de arquivos para consulta, muitos verbetes, muita análise, muito estudo e possibilidade.
 > Mas bater isso aqui é verdade, ninguém não tão cedo. Bem, agradeço então a vocês. Amanhã a gente continua às 10. Obrigado.
 
+
+Nota do editor: encerramento — 'amanhã a gente continua às 10'; falas da plateia isoladas na PARTE XII não compõem a ontologia (U1402–U1404).
 ## GLOSSÁRIO LOCAL
 
 ### A. Termos e grafias canônicas usados nesta apostila
