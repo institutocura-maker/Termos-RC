@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `53b907f` (checkpoint 2026-08-21)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **33 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2022-12-17)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -33,6 +33,17 @@
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2022-12-17 — 1.023 unidades; 21.429 palavras; última palestra do ano de 2022): a palestra que gerou a faixa **RC-566–RC-595 (30 termos)** em ciclos anteriores; auditoria integral da faixa + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **28 fichas ampliadas** (bloco O-2): RC-567 Precessão (25.920 anos; 4 ciclos → 2012); RC-575 **ancoragem da Trimurti na Terra há ~104.000 anos** (Marte 300 mi — Yggdrasil/Bifrost; Val 600.000 anos); RC-573/574 **Cinturão de Fótons/Alcíone** (entrada 21/12/2012; Era de Aquário; exilados); RC-570 Janelas Cósmicas (pacto Zeus–Apolo); RC-576 **Baktun 13/Diego de Landa**; RC-572/578 Fim dos Tempos × Fim do Mundo/Fim do Experimento Humano; RC-590/595 **Yima/Avesta** (cidades subterrâneas na Turquia); RC-591 Profecia Hopi (Estrela Azul); RC-583 **Guerra Nuclear Anunnaki** (sete armas de Nibiru; vale do Sidim; vento radioativo); RC-592 Era de Peixes (Jesus; liberdade); RC-571 2012 (**juízo final frustrado de Javé; "10 anos atrasados"**); RC-104/001/102/594/489/671/580/581/582/584/145/306/460/589/588/587;
+- **apostila integral em 10 PARTES (23.452 palavras; ~21.583 de transcrição editada):** intervalo de 20 min marcado (U0437); plateia isolada — **1 pergunta final** (U0968 — passagens entre eras × calamidades); 17 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha (padrão):** RC-145 (Zeus) e RC-306 (Apolo) — ampliações na Colecionar Incertezas;
+- **Colecionar Incertezas (novos):** "2012 = juízo final frustrado de Javé"; "10 anos atrasados" (2022); "estrela Matusalém" [quarentena]; "exilados de Alcíone"; "Yima e as cidades subterrâneas"; "Dionísio mandou o Olimpo para PQP há ~8.000 anos"; "Abel nasceu afeminado" [REVISAR — STT]; "Eva bebeu poções"; "os Anunnaki pretendem voltar a ter importância"; "cultura com maricandã" = Tamil [REVISAR — STT; **confirma P2021-01-23**]; "IEEA e a proposta política transparente" (não ontológico); "livro de Gudrun (editora Antroposófica)"; "O Homem que Caiu na Terra" (Geoffrey/Bowie — jazz); "novas proteínas corrigem o genoma" [quarentena clínica];
+- **Obras:** nenhuma obra nova (Steiner/antroposofia e livro de Gudrun = referências externas);
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push do ciclo).
 
 ## Ciclo ART-2025-08-01 — Fornos Replicadores: Awayen, Awaylengan e Awaymaion (material do curador)
 

@@ -17,6 +17,11 @@ Tradição atribuída aos Hopis segundo a qual uma Estrela Azul marcaria transi�
 - Grafia preferida: Profecia Hopi da Estrela Azul. STT: ropes, hopes.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Profecia Hopi da Estrela Azul (U0970–U0985):** "os próprios Hopi disseram que esse ano de 2012 ele, entre aspas, não seria necessariamente ruim, seria uma coisa maravilhosa, porque uma estrela azul alguém viria de fora, né, para dar início a uma nova situação em que os humanos na Terra iriam ser conduzidos a uma nova condição de consciência, que é deixar a crença e trabalhar com conhecimento"; "numa outra interpretação você diz: 'Não, os hopis não dizem que vai ser bom. Os hopis dizem que vai depender do mérito do ser humano'"; "não tem que ser necessariamente a passagem entre essas eras com problemas, não. Isso faz parte da lenda nossa".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

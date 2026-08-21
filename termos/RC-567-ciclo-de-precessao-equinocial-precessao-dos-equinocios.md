@@ -17,6 +17,11 @@ Ciclo astronômico de aproximadamente 25.920 anos usado, na palestra, como métr
 - Grafia preferida: Ciclo de Precessão Equinocial. Variação: Precessão dos Equinócios. STT: préção, prceção, prestação, pressionão equinocial.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A precessão em detalhe (U0111–U0130; U0170–U0180):** "a Terra gira em torno do Sol e ela precisa de cerca de 25.920 anos, segundo alguns, ou 25.980 anos, segundo outros, pra dar uma volta desse eixo em torno de si mesmo. Isso aqui é o ciclo da precessão equinocial"; o giro do eixo comparado ao "bamboleio" de um peão; "esse ciclo de precessão equinocial é do planeta Terra em torno do Sol"; "há cerca de uns 30.000 anos atrás, alguns espíritos estavam preocupados com como eles iriam programar as encarnações pra natureza humana ao longo do próximo ciclo equinocial"; "os últimos 104.000 anos se passaram quatro ciclos de precessão equinocial e esses quatro ciclos terminaram no que seria o ano 2012"; "24.000 antes de Cristo, mais 2.000 depois de Cristo, então 26.000 anos".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

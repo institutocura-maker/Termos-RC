@@ -29,6 +29,11 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[ART-2025-08-01] Shiva e Awaylengan (Parte II):** "Shiva, conhecido também como Tártaro na mitologia grega, surgiu como um 'anjo-clone rebelde' de Brahma, um dos oito Seres Adhyatman que tentaram impedir e, depois, consertar a Criação de Brahma. Seu 'mergulho' na Criação ocorreu há cerca de 12,17 bilhões de anos" [REVISAR — conferir B050]; "a 'rebelião' de Shiva culminou em um ato de 'agressão' a Brahma, cortando uma de suas cabeças — esse ato simbolizou o impedimento da capacidade de Brahma de gerar mais anjos-clones"; "Shiva é o 'Segundo Logos', o iniciador da diversidade e o 'Pai dos Demos'; sua energia é a Tamas, uma força desagregadora e destruidora, mas com propósito: aniquilar o 'irreversivelmente problemático' gerado por Javé"; "Awaylengan, o forno de Shiva, foi o primeiro forno replicador do Projeto Talm a surgir e o mais atuante; emergiram os gêneros 'demol' e 'demobiol'; avatares de Shiva foram produzidos a partir de suas instalações — ex.: Sai Baba, edificado a partir do que veio de Krishna".
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Shiva no sul da Índia (U0720–U0730):** "Shiva expressou de si mesmo avatares e fez com que estes agissem no sul da Índia na criação da cultura com maricandã [STT — REVISAR: provável Tamil; confirma P2021-01-23]"; "ele próprio Shiva passou a ser venerado naquela tradição que reunia seres demos, que pelos portais saíam do universo vizinho e iam se refrescar no sul da Índia"; "essa tradição cultural chamada com maricandã no sul da Índia, que envolvia o sul do continente também a parte que hoje é a ilha chamada Sri Lanka, que é o antigo Ceilão, que nessa época não era ilha coisa nenhuma"; "Shiva estabeleceu uma espécie de uma região de culto e se apresentou aos humanos híbridos e demos que viviam naquela região como sendo o deus, entre aspas, dono da terra"; "Shiva já era homenageado e louvado lá no sul da Índia há muito tempo" [antes de Javé conseguir cultos].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

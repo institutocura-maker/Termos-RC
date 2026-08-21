@@ -17,6 +17,11 @@ Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia d
 - Grafia preferida: Avesta. STT: AESTA, a vesta.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Avesta (U0650–U0660; U0645–U0656):** "Rudolf Steiner, que formulou a antroposofia, estudou essas últimas cinco eras zodiacais, ou seja, as de 2.160 anos... cada era cultural dessa são 2.160 anos mais ou menos"; "ele situa [a era do] Avesta como tendo sido a mais importante... falando de fatos ocorridos há 10.000 anos atrás"; "a era de peixes com Jesus, a outra era anterior greco-romana, israelita, uma outra era anterior onde os [persas?] dominaram, uma outra era anterior onde os Vedas dominaram com cultura védica" [Steiner = referência externa (antroposofia), não ontologia].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

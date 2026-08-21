@@ -17,6 +17,11 @@ Era zodiacal ligada, na palestra, à vida de Jesus e a uma orientação de liber
 - Grafia preferida: Era de Peixes.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A Era de Peixes e Jesus (U0890–U0920):** "quando os Anunnaki se ferraram... as profecias de Javé de enviar o seu Messias para dominar a terra toda têm lugar. Nasce Jesus. Aí Javé se sente traído porque o homem Jesus resolveu não cumprir a agenda espiritual do seu próprio espírito e a agenda profética que Javé... anunciou. Jesus disse: 'Não faço'"; "esse acontecimento... trouxe a era de Peixes. Jesus iniciou esse processo com essa atitude dele. E Peixes ficou significando mais ou menos liberdade humana... e veio até 2012"; "isso que Jesus fez começou a produzir toda uma percepção na Trimurti de que eles tinham falido".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

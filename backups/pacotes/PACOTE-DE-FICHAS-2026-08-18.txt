@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 12679 | 134 | 73a88281fd1362ad691b85bd8d8627d1c324173d8ce54d9700f6615d3ca57ed6
+# termos/RC-001-jave.md | 13558 | 139 | e9cd02069aaabda1a2a7b9e184286cdb475c6fbcd8a33785184dfdd8a6f151f0
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -38,8 +38,8 @@
 # termos/RC-091-projeto-talm.md | 9428 | 91 | ebf32941573852dc88cdd44b35103b37dd5db558631743060dcd7a666f4b2f3f
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 11901 | 121 | d916695385912dd9adeaadc08a054da8d9813834d6eca78f0e25e2f8ea73b88e
 # termos/RC-094-revelacao-cosmica-conceito.md | 7395 | 79 | 5032afdfa5b46599f4c7c2ade30f6c15e4199c73c0ea4eace3cd2adff6338127
-# termos/RC-102-shiva-savna.md | 3542 | 52 | fa3b4eaa813f3014e982d0d06b0589f5fc1ebd0bdfd1f3def61509503b56be4e
-# termos/RC-104-trimurti.md | 8174 | 91 | 20da1f78ce07e87f79c839ef6913449c24bee10cf66866480156a02595ba954a
+# termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
+# termos/RC-104-trimurti.md | 9208 | 96 | 3acf9520ac2c834508a474e74da5114f2f92bb0241727d833428e75fd165e813
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -164,7 +164,7 @@
 # termos/RC-454-elm-moros---ser-lm-de-temperion.md | 17643 | 191 | ff12bac06c06c506c046b4595a6f6c0e73f8a1ffa2bb4d3e2c1d92689ef9054c
 # termos/RC-455-pashvnaj-especie-de-43-seres-do-genero-adhy.md | 5849 | 70 | 8e7d528b507e850a68ad95717bd13d9bc2ae29a244bd9bdd0db5bd815493c8e2
 # termos/RC-456-ser-lm-genero-de-temperion.md | 2907 | 49 | bac4755ed21bdc545fe86338f568f373ef7b251e54774ef9b8567b0e423df888
-# termos/RC-460-marduk-ra-anunnaki-filho-de-enki.md | 2741 | 45 | b33c4c95a4c06d1e507a89abd25337379553521996ede6086bb3f979490e22a0
+# termos/RC-460-marduk-ra-anunnaki-filho-de-enki.md | 3437 | 50 | 6075a7b0be0a60346f50ce77c3744ca2315dfe67bb2321d631a8f076f1e7fdf9
 # termos/RC-461-ninmah-anunnaki-geneticista.md | 2034 | 41 | b1437f72a2aea3831643d3c7a92f40891540d42ee6034c62d7f99b6025914243
 # termos/RC-463-hermes-trismegisto-ningishzidda-thoth-quetzalcoatl.md | 5597 | 67 | 86f93d2669fcb4f74aaf63bb1011e0d7f2923259c348930c21ddbd2a7cd9b7db
 # termos/RC-465-asuras-titas.md | 1816 | 44 | 81bc98ec3cfbe5f8374b279e4106b31e4193f7a668a8a5bd0bd28c02556427dd
@@ -185,7 +185,7 @@
 # termos/RC-486-enki-anunnaki-inoculou-o-gene-foxp2.md | 3396 | 57 | 3f9a4f7b05666636c8aa66027c0aaf6cf219f09119606886b595da55af955d95
 # termos/RC-487-enlil-deus-sumerio-par-de-enki.md | 3726 | 59 | 1ba23321e62c411d4c274fe8c8b061c8f4e92e869ec1c53b78c436ca2f4c4e6c
 # termos/RC-488-nefilins-anunnakis.md | 4095 | 61 | 00c1c58a0287d212e3dfe4f35b30ac4b743e0c4b992aae04b221e5b2b82589c5
-# termos/RC-489-enoque-setimo-patriarca-levado-por-jave.md | 4798 | 54 | db91a72368444473841ed2b1a6cc809b8fafda7e3947b8b89ce464d416b414b6
+# termos/RC-489-enoque-setimo-patriarca-levado-por-jave.md | 5583 | 59 | 2182800d99187bc2f8bbd4e50f45f94d63252b007eaac3ffca7fbb2be74fda2d
 # termos/RC-490-caim-leitura-rc-segundo-a-nascer.md | 1422 | 40 | 951e863e96080c9f8e76722629918887faef5920143c987e1b259be7b1382401
 # termos/RC-494-dinastia-das-sophias.md | 2551 | 47 | 613a5dd68bcdf7246a042ed09d46b565d1234ac3baf5b3b50211f3bdce7749a3
 # termos/RC-495-arabot-raquia-shekinah-merkabah.md | 2567 | 43 | 95f8f5c285affee76a83dda7652739a31b3c959aea2a4beb8d93bae0c8875c38
@@ -225,35 +225,35 @@
 # termos/RC-564-fios-soltos-improviso-humano-x-robo.md | 1483 | 36 | c75628be2454234e88e6cb1a97d0dc498a590b5cc93203ba5df587c736cca3ee
 # termos/RC-565-hochmah-2a-sefirah-sabedoria-sophia.md | 2591 | 47 | bdcbe1d8f6d6515a7aae5b181d3fc40979bfefce783f6ab47a9d95a0ba358192
 # termos/RC-566-protocolo-da-busca.md | 2040 | 42 | 6e86d75258bcdccb0acf222645aab530345396ff79fe253fb92401c1e048a979
-# termos/RC-567-ciclo-de-precessao-equinocial-precessao-dos-equinocios.md | 2136 | 42 | 2f710cab839c0fefe9cefc616463151601072b496693c5d8e47a276f3d94949a
+# termos/RC-567-ciclo-de-precessao-equinocial-precessao-dos-equinocios.md | 3003 | 47 | cdf8559bb0a16bb8fe549739582098232a13f3e18dca3a0270b8ef84bffd2a9a
 # termos/RC-568-eras-equinociais-ciclos-de-aproximadamente-5200-anos.md | 2067 | 43 | 9e26883c09e1b787f9d135d80783c2c41b47e4af2bd0239eecdab697dcef61b0
 # termos/RC-569-eras-zodiacais-ciclos-de-aproximadamente-2160-anos.md | 1990 | 43 | 4929daa3f7a2ff8fb81973c7e95baf92c69f2a676e5e7c05ce69934682485b5a
-# termos/RC-570-janelas-cosmicas-metricas-temporais.md | 1856 | 41 | 8ed669138593b10c8e49cb6bbe8181fe42c9604c03f1ac618f9afb840dde3908
-# termos/RC-571-ano-de-2012-como-divisor-de-ciclos.md | 2158 | 45 | e1e328feb1e077a433ba80e10a2f588e4e2e073fcd63b3de4b1dbfe709a858af
-# termos/RC-572-fim-dos-tempos-final-de-ciclo-×-fim-do-mundo.md | 1884 | 42 | b45bcd5be8f3d0816f5771a22ce5a37a6e6aed41b453e77533fa28a1e24d3099
-# termos/RC-573-cinturao-de-fotons.md | 1883 | 42 | a476f35fad4e253510302b4b7425b17a4894bfa7fb60dd397b0770b0e421371f
-# termos/RC-574-alcione-sistema.md | 1754 | 41 | 04afb3835643701e0910496b74901c04ff03c4a24167bf07b23fdcdbe927f8ac
-# termos/RC-575-ancoragem-do-conglomerado-trimurtiano-na-terra.md | 2139 | 45 | f31641023fa0add686f6de0eede1faf42745cf929afd48182a5be8116d7ec520
-# termos/RC-576-baktun-13.md | 1680 | 40 | 7088975954b1cbb3e125f784a69780bec59a5e428a0d98b05273832dedc879ab
+# termos/RC-570-janelas-cosmicas-metricas-temporais.md | 2563 | 46 | 07b3a05c56ad2be7c916309de013b2d7769056bd02951e39eb1b868b9ddf0dd9
+# termos/RC-571-ano-de-2012-como-divisor-de-ciclos.md | 2869 | 50 | ea37d926eb5bdc5bfa2d43701c1e8f70c5506292189542adc9d8750934f8d414
+# termos/RC-572-fim-dos-tempos-final-de-ciclo-×-fim-do-mundo.md | 2739 | 47 | e20eae52cab7dcd444d8266fd9fa3febeed5a1e6a28eb781b66a5c6b5288a189
+# termos/RC-573-cinturao-de-fotons.md | 2754 | 47 | 71bb23c1cd70db24db61d050a810464d67619f31e4bc5e4c9dc88ca34c0a1c89
+# termos/RC-574-alcione-sistema.md | 2704 | 46 | 687295079a63f0612ea6c9afcc1dd3b963e5b564594d9670ee5d61b0ab5957d1
+# termos/RC-575-ancoragem-do-conglomerado-trimurtiano-na-terra.md | 3157 | 50 | 11f261b71549b189bfbef01b93c1dd56e91f62b739d608fce5555ddd73f9f920
+# termos/RC-576-baktun-13.md | 2659 | 45 | 2c38c186bc4c53f371eb697ce71015eb0fad94b50436dcf2bd8348cf68f617aa
 # termos/RC-577-xamanismo-cosmico-comunicacao-e-deslacre.md | 5108 | 74 | 15068b522e57644876739cff0c956e7aea39daa5a1c33dce309051a1900d5ed8
-# termos/RC-578-fim-do-experimento-humano.md | 2022 | 44 | 281db68eeb17ad811e4617a90c9f321dd823bcaf98c70c793fb95a403eb2930f
+# termos/RC-578-fim-do-experimento-humano.md | 2811 | 49 | 6d191a0d6a78f3599ee4ac7b4392b8e8cb7249f0488933968ac0588687e677a9
 # termos/RC-579-noreia-norea.md | 2524 | 49 | 81238b225fe64cf55e38eac096264a3b875edfb602b4c273648ad7a26104ea73
-# termos/RC-580-igigi.md | 2848 | 55 | 42bf10ad5bb3f454a10c43d07bc056e43b72ac3e12c2191130f1249b2f51e4ab
-# termos/RC-581-rakshasas.md | 3948 | 61 | 81c580bf61de13846d5742c2c7877ca437bacf1b6206e0f5566f8ab1f4cc07d3
-# termos/RC-582-ravana.md | 3010 | 56 | 327e70c2e56b0183ef6a1d820d66e45008dc15e345ceaba8e88d94dc0d0d265e
-# termos/RC-583-guerra-nuclear-anunnaki-sete-armas-atomicas.md | 2146 | 44 | 34d8438d12f4f2cf468d6ea422fb9cab64cf4d289b48c5e7e58ea0386098f16e
-# termos/RC-584-rama-avatar-de-vishnu.md | 3744 | 58 | c47a5480b770a098e3cadba9279011332b0c7e5c8d26b73f6a0a4a68e6b0f3f4
+# termos/RC-580-igigi.md | 3442 | 60 | 43cba59a8e7d0f3a9748918cbe134ef1c5b0e9f2958e35a204e74d6ce454712a
+# termos/RC-581-rakshasas.md | 4730 | 66 | 7898bede7026991110ad7a7f264be56c423e82aa41550647702e5b88eed1cff3
+# termos/RC-582-ravana.md | 3345 | 61 | c571338c16d4b95aac7ffa06d1cd08a33bba91d0e1f7d72717e1556c3b7a8916
+# termos/RC-583-guerra-nuclear-anunnaki-sete-armas-atomicas.md | 3249 | 49 | dae7c81010a1a8a6669655386891bbb1b6aeaf5a87d85c873b5195c1d1cfefe1
+# termos/RC-584-rama-avatar-de-vishnu.md | 4099 | 63 | b692fe5721d6f3ba057b82f394d450bf19060f1f3c9f1d1092eb586ed0374f8b
 # termos/RC-585-vyasa.md | 7537 | 82 | eb25660de600a1582fc64f7ff2f3c8cffab3e250226752a106c5223daad39878
 # termos/RC-586-rishis.md | 2961 | 58 | 66734e50ff300536e292b552ee0ad840c15f639ff64467c9a1c5295cb5d6f52d
-# termos/RC-587-anu-patriarca-anunnaki.md | 2465 | 51 | 4ada7b6be639c819b2d483d10264b6b586b97d7315580a1d9ea409d2076e534d
-# termos/RC-588-ninurta.md | 2351 | 50 | fff98170aa89898b418f134b1cad8e47e678a14cc6c09b2fca87173cbff81813
-# termos/RC-589-nibiru.md | 3139 | 59 | 49de00d19738d1d6b80fd173ff7d8cb0f68e5cf0a8e57d397328aa0f882f0ef2
-# termos/RC-590-yima.md | 1698 | 41 | 72a60048f1a1135a9d7045910afc7ba5c0d22b7d1e218ca4a6fa8aedf5fa39d7
-# termos/RC-591-profecia-hopi-da-estrela-azul.md | 1787 | 41 | 273601e46bf5846f9235acf8ec13ad6d1a517261cd629ed6304cf884e2a67ff0
-# termos/RC-592-era-de-peixes.md | 2223 | 49 | 496d6891f8f270813c2861f7cc134a1e1ea14b0a3e1d4a52d84fecb9b42b87f0
+# termos/RC-587-anu-patriarca-anunnaki.md | 2888 | 56 | cc37c88c69af243d400ebda24fea703093e1b9ae41fdc009be6a284051bddedc
+# termos/RC-588-ninurta.md | 2574 | 55 | d66ba5770702104efa584397c538895c984d7e68579f2ea8d5970ee68fde76ea
+# termos/RC-589-nibiru.md | 3441 | 64 | 0dbc48355c865644d05a0a62af7e1afd010e3b123cd344ca7dba07bd50a06b36
+# termos/RC-590-yima.md | 2326 | 46 | 0f6bb541205eb34582b3f825e5c1b90e93c6ef03bf6176725d513143a907d25e
+# termos/RC-591-profecia-hopi-da-estrela-azul.md | 2527 | 46 | 83e27b155898dd7e93d3a88a5d4fb51ddbb864ee87ca927d496aaa66c23de776
+# termos/RC-592-era-de-peixes.md | 2938 | 54 | 46aa3921785fa580288c2d5a95f07beab5555bfcab09d3b4ab61122a2803574f
 # termos/RC-593-mahabharata.md | 3290 | 50 | d3f4c9e376c562fe9de4d22b1c9bbdd5e9e4a6dcd011d143f8dd658aefd90b52
-# termos/RC-594-linhagem-de-seth.md | 2700 | 50 | ecbc831b0ff0341203c3f07bd0e543d282b507856c1e1860f27cfd9adc1dd859
-# termos/RC-595-avesta.md | 1744 | 41 | f9279b7535ed6995d105de18df12a10fac32409d8ab2f9e13f07298289e439af
+# termos/RC-594-linhagem-de-seth.md | 3503 | 55 | b1e79ae6159c79849cde29af9d833726e2d02447fc5e00aec1cfffe04fd0078e
+# termos/RC-595-avesta.md | 2408 | 46 | 421e5eb340e2956add49f8caf00936917b37d8c06a031fb615e3dbc310361b98
 # termos/RC-596-archeons-de-ereon.md | 4033 | 53 | ff207ee0d9c4c74a202bdc25378050f40de56cc10eff960c360652b7029c416c
 # termos/RC-597-anterion.md | 1585 | 43 | f37178be421acbc2f5164d9d4229b5129326497e3b76de602b62ac884a7c2791
 # termos/RC-598-danerion.md | 1522 | 43 | 3717c0e514ceeb7be0fe5ce53e87a2f31f762fc0cb9935833b49b02ed7f6e460
@@ -329,7 +329,7 @@
 # termos/RC-668-som-da-flauta-som-da-falta.md | 786 | 34 | 56fd08aab342174990bdb9a294bc6e791c06a3a558a84211989b362f3f39a8ee
 # termos/RC-669-pashupati-avatar-de-shiva.md | 1573 | 43 | 06b2facc0de373298c87a4ea1670fe8c097200b14d8bed098849ee41a1bc1547
 # termos/RC-670-yoga-ancestral-origem-cosmica.md | 809 | 34 | 030d3254ab504f1c5e9538cb1b1ec60735287c1483a4c66375944914fdec9a29
-# termos/RC-671-metatron.md | 3117 | 60 | ab4f3c907bf84c7a98c001350a712b9a1edcd1074c08ba90fb31b08004dca643
+# termos/RC-671-metatron.md | 3477 | 65 | 98fa2a633b8a47fed76a6135f4c75083265a644f0c97f9ec6b61dba04d2a8aff
 # termos/RC-672-os-366-manuscritos-de-enoque.md | 1052 | 40 | fc9e74b59c8c8ac6dfdfc3fa1feaf8294bfcd121f902cbe732b4b1dd80d2ee41
 # termos/RC-673-intercessao-de-enoque-pelos-anunnakis.md | 1213 | 42 | cb2fd25c47b7cfe87b165a0d211baefd342f0726be305096858aa45ed5b49ff8
 # termos/RC-674-urdidura-de-metatron.md | 1805 | 48 | 0c24ccb5c20add9ba9eda40e2545324bbd2acda481dafd71b589598f916bcee8
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1361793 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1381936 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -487,6 +487,11 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 ## Ampliação — P2025-08-02
 
 - **[ART-2025-08-02 — material do curador] Javé no Glossário (ART-02):** "Javé: um Criador em convalescença — 'doença de impulso nervoso' que o levou a expelir um 'Projeto Mental' que resultou em uma 'Criação imperfeita'"; "o universo material é uma obra que Javé tentou reestruturar após sua 'queda', tornando-se 'refém do progresso de suas criaturas'"; "sua mente 'implodiu', fragmentando-se em 'cacos' ou 'elétrons'; a 'doença' ou 'podridão de Brahma' é um impulso de sobrevivência a qualquer custo e a lei do mais forte sobre o mais fraco"; "notavelmente, o nome de Javé (YHWH) está registrado nas bases químicas do DNA de cada célula humana [QUARENTENA — leitura do autor]"; "é fundamental diferenciar Javé do 'Ser Supremo' ou 'Deus Incognoscível'"; "Javé reconhece que necessita da ajuda e apoio efetivo de muitos humanos para superar suas limitações".
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Javé e a escolha de Adão (U0705–U0735; U0830):** "quando Javé percebeu que Shiva fincou na terra um império para ele... foi isso que levou o nosso amigo Javé a escolher Adão"; "Javé que já havia gasto a fórmula do seu código fonte definidor, porque ele alojou isso em Adão, ele ficou refém dessa situação, não podia arrancar de volta"; "a demência de Javé levou Javé a fazer ao longo desses milênios coisas que a gente nem imagina que depois ele se arrependeu"; "Javé largou os arianos... e voltou a procurar alguém da descendência de Éber... esse alguém era Abraão... voltou a assumir o nome de Javé"; "o nome de Javé (YHWH) está registrado nas bases químicas do DNA" [QUARENTENA — leitura]; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele".
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2545,6 +2550,11 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[ART-2025-08-01] Shiva e Awaylengan (Parte II):** "Shiva, conhecido também como Tártaro na mitologia grega, surgiu como um 'anjo-clone rebelde' de Brahma, um dos oito Seres Adhyatman que tentaram impedir e, depois, consertar a Criação de Brahma. Seu 'mergulho' na Criação ocorreu há cerca de 12,17 bilhões de anos" [REVISAR — conferir B050]; "a 'rebelião' de Shiva culminou em um ato de 'agressão' a Brahma, cortando uma de suas cabeças — esse ato simbolizou o impedimento da capacidade de Brahma de gerar mais anjos-clones"; "Shiva é o 'Segundo Logos', o iniciador da diversidade e o 'Pai dos Demos'; sua energia é a Tamas, uma força desagregadora e destruidora, mas com propósito: aniquilar o 'irreversivelmente problemático' gerado por Javé"; "Awaylengan, o forno de Shiva, foi o primeiro forno replicador do Projeto Talm a surgir e o mais atuante; emergiram os gêneros 'demol' e 'demobiol'; avatares de Shiva foram produzidos a partir de suas instalações — ex.: Sai Baba, edificado a partir do que veio de Krishna".
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Shiva no sul da Índia (U0720–U0730):** "Shiva expressou de si mesmo avatares e fez com que estes agissem no sul da Índia na criação da cultura com maricandã [STT — REVISAR: provável Tamil; confirma P2021-01-23]"; "ele próprio Shiva passou a ser venerado naquela tradição que reunia seres demos, que pelos portais saíam do universo vizinho e iam se refrescar no sul da Índia"; "essa tradição cultural chamada com maricandã no sul da Índia, que envolvia o sul do continente também a parte que hoje é a ilha chamada Sri Lanka, que é o antigo Ceilão, que nessa época não era ilha coisa nenhuma"; "Shiva estabeleceu uma espécie de uma região de culto e se apresentou aos humanos híbridos e demos que viviam naquela região como sendo o deus, entre aspas, dono da terra"; "Shiva já era homenageado e louvado lá no sul da Índia há muito tempo" [antes de Javé conseguir cultos].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2627,6 +2637,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Ampliação — P2025-08-02
 
 - **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] As apostas da Trimurti (U0145–U0150; U0175–U0190):** "no livro Drama Cósmico de Javé, eu procurei explicar que Shiva e Vishnu mantiveram Brahma funcionando, a mente de Brahma funcionando, instigando-a com apostas. Então é o vício desses seres é apostar até hoje"; "essas apostas eram feitas e são feitas em diversos tipos de cassino. Cada céu, cada morada desse troço aí vizinho tem sua [peculiaridade]"; "nós aqui viramos... a novela das 8 para eles... o tijolo de entendimento de um tipo de vida que essas lokas acompanham, fazendo apostas para poder... [produzir] o que seria serotonina, dopamina? É só uma analogia"; "a Trimurti finalmente aceitou a ascendência de um ser... esse ser é Zeus, ou seja, Indra na linguagem hindu, ariana... foi aceito como espécie de regente, de suserano, habitando em uma loka Olímpia, já tendo derrotado os titãs em guerras"; "essa era marcada também pelo final da Trimurti, pelo colapso da Trimurti".
 
 ## Fontes
 
@@ -9337,6 +9352,11 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 - **Amon-R = Brahma = Javé (RC-001):** "Amon-R é o mesmo Brahma, é o mesmo Javé" — a queda do ser; "o corpo Amon que foi despedaçado, que é o corpo manásico que para Prabrajna ou para Javé lá fora antes da criação";
 - A Enéade (RC-627) adaptou os "nove principais anunnaki" ao culto egípcio — contexto em que Ra/Marduk figura entre os deuses.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Marduk (U0830–U0850):** "quando tem um filho chamado Marduk, ele passou a exigir que... antes da vinda de Jesus, a última era antes dessa, Marduk disse: 'Eu sou o suzerano da terra. Eu quero ser o rei dos Anunnakis porque é por meu direito, de acordo com o pacto que foi feito na reunião dos clãs de Enki e de Enlil'"; "os Anunnaki têm milhões de confusões em termos de descendência genética entre eles. Por isso que avô transa com filha, com neta... para o sangue do Anunnaki ser puro"; "Marduk disse que era a vez dele, porque a era zodiacal estava se vencendo, a cerca de 3.000 e poucos anos antes de Cristo".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -10438,6 +10458,11 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **O corpo e o destino do DNA (U0400–U0404):** "sobrou de Enoque uma múmia, entre aspas, viva, uma cópia, uma réplica viva e um corpo de Metatron eventualmente ligado... essas duas coisas horríveis ficaram lá funcionando"; "o espírito de Enoque ficou vinculado à condição humana"; "o DNA dele foi preparado... cerca de uns 9.000 anos depois, essa turma pegou o DNA de Enoque e saiu fertilizando... demos que viviam entre as lokas deles e a terra, os portais eram abertos, e também fecundaram alguns minérios" (U0530–U0531) [REVISAR — quarentena].
 - **A promessa de Vishnu e a aposta (U0784–U0790; U0369):** "segundo a tradição bramânica, Apantaratamas nasceu porque Vishnu pediu para ele nascer no exercício da biologia, ou seja, como ser biológico, e Enoque ou Apantaratamas é essa promessa de Vishnu"; "Vishnu quis dizer que Enoque ou Apantaratamas era um avatar dele... porque Moros originalmente se compôs a partir do DNA de Vishnu" (U0786–U0788) [REVISAR — trecho STT truncado]; a aposta Javé×Vishnu: "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369); "Enoque não vai mais aparecer entre os humanos, mas eu vou me fazer humano e vou trazer a humanidade para você" (U0886).
 - **Os livros (U0417–U0418):** "quando Enoque escreveu os 300 e tantos livros [STT '363']... os livros foram produzidos por Matusalém" [REVISAR — número exato no STT]; "esses livros sumiram a maioria deles nesse cataclismo que ocorreu de 14 a 9.000 anos".
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Enoque (U0760–U0780):** "foi na época de Jared que os Anunnakis transaram com as mulheres. Mas Enoque, filho de Jared, surgiu com o DNA que era o mais próximo daquele que Javé pretendeu quando... inoculou Adão"; "com Enoque, Javé então decide retirar Enoque da terra, levá-lo pro universo vizinho, dar uma forma que Enoque suportasse viver também no mundo antimaterial [Metatron], fazer Enoque voltar para esse universo... ditar o filho dele, Matusalém, mais de três centenas de livros"; "Enoque não morreu aqui na Terra porque o DNA dele tava tão afinado com as intenções de Javé que ele tentou imortalizar Enoque para cada vez que ele quisesse, Enoque apareceria na terra como emissário dele".
 
 ## Fontes
 
@@ -12370,6 +12395,11 @@ Ciclo astronômico de aproximadamente 25.920 anos usado, na palestra, como métr
 - Grafia preferida: Ciclo de Precessão Equinocial. Variação: Precessão dos Equinócios. STT: préção, prceção, prestação, pressionão equinocial.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A precessão em detalhe (U0111–U0130; U0170–U0180):** "a Terra gira em torno do Sol e ela precisa de cerca de 25.920 anos, segundo alguns, ou 25.980 anos, segundo outros, pra dar uma volta desse eixo em torno de si mesmo. Isso aqui é o ciclo da precessão equinocial"; o giro do eixo comparado ao "bamboleio" de um peão; "esse ciclo de precessão equinocial é do planeta Terra em torno do Sol"; "há cerca de uns 30.000 anos atrás, alguns espíritos estavam preocupados com como eles iriam programar as encarnações pra natureza humana ao longo do próximo ciclo equinocial"; "os últimos 104.000 anos se passaram quatro ciclos de precessão equinocial e esses quatro ciclos terminaram no que seria o ano 2012"; "24.000 antes de Cristo, mais 2.000 depois de Cristo, então 26.000 anos".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -12504,6 +12534,11 @@ A palestra identifica duas janelas principais: a escala equinocial e a zodiacal.
 - Grafia preferida: Janelas Cósmicas. Complemento desambiguador: métricas temporais.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] As janelas cósmicas (U0325–U0330; U0145–U0150):** "nós vimos as duas janelas principais através das quais seres que não são humanos observam... Zeus fez um pacto com Apolo que vai valer 2/3 ou que valeu 2/3 da era de Peixes, que começou dá 3.000 anos antes de Cristo e só terminou agora em 2012"; "esses seres... não contam o tempo da vida, seja deles ou nossa, pelos dias, semanas, meses, anos... eles sempre utilizaram essas duas medidas temporais, a equinocial e a zodiacal"; "as apostas começaram agora a ser feitas em eras zodiacais, ao invés das eras equinociais, para ter mais adrenalina na cabeça desses seres".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -12546,6 +12581,11 @@ O palestrante afirma que 2012 “ainda não acabou” porque a regência de Soph
 ## Etimologia / Grafias
 - Grafia preferida: Ano de 2012 como Divisor de Ciclos. Variação retórica: o ano de 2012 ainda não acabou.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] 2012 como divisor (U0920–U0960; U0430–U0436):** "2012 foi o divisor de um tempo que ainda não começou, ainda que passado"; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele"; "falta essa era se acabar na sua repercussão histórica... falta só Sophia assumir a vestimenta de mandatário celestial... falta a Terra... ser reintegrada à convivência cósmica"; "tá atrasado 10 anos... 10 anos nesse contexto de 5.600 anos, de 2.160 anos. Mas como eu disse, esses caras estão nem aí pro calendário da gente"; "2012 e a entrada no cinturão de fótons têm a ver também com o fechamento dos portais".
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -12594,6 +12634,11 @@ A palestra critica a transformação de calendários cíclicos e tradições ant
 - Grafia preferida: Fim dos Tempos / Final de Ciclo × Fim do Mundo.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Fim dos tempos × fim do mundo (U0048–U0050; U0960–U0980):** "há uma diferença entre final dos tempos e final do mundo. Absolutamente diferente. Quando você fala final dos tempos, está falando final de épocas, de ciclos, de períodos... não está querendo dizer que o mundo vai se acabar"; "a escatologia presente nas religiões é um dos ramos da teologia"; "pode ter o fim do experimento humano ou o fim de um planeta. Isso tudo... Nós aqui na Terra estamos candidatos a vários níveis de [desfecho]... porque não tem ninguém no controle"; "não teve fim de mundo, não vai ter fim de mundo, ainda que nós humanos teremos que passar por muito susto, pode ser que haja sim problema de fim de experimento humano. Isso pode, infelizmente, é um perigo real e imediato".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -12637,6 +12682,11 @@ Campo de fótons atribuído, na palestra, ao sistema de Alcíone e atravessado p
 ## Etimologia / Grafias
 - Grafia preferida: Cinturão de Fótons. STT: cinturão de fotos; cinturão dos sótos.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] O cinturão de fótons (U0301–U0330):** "certas áreas do sistema solar de Alcíone têm algo que a ciência não sabe muito bem ainda como explicar, que seria chamado cinturão de fótons espalhado na sua horizontalidade. Do jeito que Saturno tem aqueles anéis, o sistema de Alcíone teria uma zona daquele [tipo], um campo em torno da órbita que orbitaria Alcíone"; "o sistema solar no espaço de 26.000 anos passa duas vezes no meio desse cinturão"; "desde o ano 2012, nós começamos a entrar... o Sol teria entrado nesse cinturão de fótons nesse período — a Terra logo depois"; "o período em que nós vamos ficar dentro desse cinturão de fótons... é uma era zodiacal de 2.160 anos e que na cultura isso seria a nova era de Aquário" [QUARENTENA CIENTÍFICA — leitura do autor].
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -12682,6 +12732,11 @@ Aparece na explicação visual do segundo slide e na interpretação do ano de 2
 - Grafia preferida: Alcíone. STT: Alce, Alceione, Alciion, Alciô, oceônio, ao senhor.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Alcíone e o sistema solar (U0301–U0320; U0331–U0340):** "as informações é que... o sistema solar gastaria um tempo de também 26.000 anos para dar, entre aspas, um giro completo em torno dessa estrela chamada [Alcíone]; essa estrela tá aí aos 400 e poucos anos luz da Terra"; "essa estrela, ela teria seu sistema de mundos, como o Sol tem o seu"; "quando o Sol está se movimentando... estariam vivendo em tempos de escuridão, porque sob essa perspectiva estão fora desse tal campo de fótons"; a entrada no campo em 21/12/2012 corresponde à Era de Aquário (2.160 anos); "notícias de médiuns respeitáveis no espiritismo dizendo que espíritos que vivem nesses mundos vinculados a Alcíone... estão sendo exilados... vão começar a nascer como humanos exatamente nessa transição... no chamado mundo regenerado" [QUARENTENA CIENTÍFICA — leitura do autor].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -12724,6 +12779,11 @@ A palestra situa a ancoragem há cerca de 100–104 mil anos, em reação à ins
 ## Etimologia / Grafias
 - Grafia preferida: Ancoragem do Conglomerado Trimurtiano na Terra.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A ancoragem da Trimurti (U0160–U0170; U0165–U0168):** "há 100.000 aninhos... pela segunda vez essa faixa de realidade vizinha ancorou-se no nosso universo. Só que agora na Terra"; "ancorar-se no nosso universo exatamente sobre o sistema solar e mais especificamente voltado pra Terra"; "essa ancoragem foi muito semelhante à outra ocorrida há 300 milhões de anos, quando a turma... do bairro de [entre]stício desses dois universos chamado Yggdrasil [STT 'Igrazil'] na mitologia nórdica fizeram essa mesma coisa, só que em Marte. Por isso que o Ragnarok aconteceu... como eles tinham uma ponte, a Bifrost [STT 'B Frost'], que unia eles a Marte, a desgraça, as explosões aconteceu em Marte"; "a família Val chegou aqui na Terra há cerca de 600.000 anos atrás no âmbito da rebelião de Lúcifer"; "a ancoragem ocorreu porque Lúcifer estava estabelecendo o seu quartel general na Terra" e Sophia acompanhava o problema luciferiano.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -12771,6 +12831,11 @@ Surge na crítica às leituras apocalípticas modernas das estelas maias e à pe
 ## Etimologia / Grafias
 - Grafia preferida: Baktun 13. STT: Bactum 13, bactunes, backtom.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Baktun 13 e Diego de Landa (U0620–U0640):** "se não fosse Diego de Landa [STT 'Diego Dilanda'], um frade espanhol que em 1453 [1562 — REVISAR] destruiu quase toda a biblioteca dos maias, deixando restar só dois pedaços entre milhares de códices que ele destruiu, dizendo que aquilo era a obra do demônio da Igreja Católica Espanhola"; "esses intérpretes terminaram vendo nas estelas um e seis... o final daquele Baktun 13 corresponderia ao ano 2012"; "tudo indica que é uma era equinocial de 5.200 anos"; "originalmente nos toltecas, como essas figuras híbridas e demo viviam milhares, milhões de anos, um baktun para eles era 5.000 anos, 10.000 anos, dois baktuns"; "os maias não tinham uma visão linear da passagem do tempo"; "os intérpretes do século XX... se você escreve um livro dizendo que o mundo vai se acabar, todo mundo copia, é formidável" — crítica ao comércio do medo.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -12890,6 +12955,11 @@ A palestra o apresenta como possibilidade real ligada à corrupção de seres cr
 - Grafia preferida: Fim do Experimento Humano.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] O fim do experimento humano (U0970–U0990):** "a corrupção chegou a níveis... corrupção em demos não tem grandes problemas. Corrupção em seres pouco criativos não tem nenhum problema. Mas corrupção em seres criativos tem todos os problemas do universo juntos"; "só nós humanos podemos produzir essas novas proteínas através da nossa capacidade de inovar, de criar novos genes, novas proteínas. Se nós formos embora como um resultado estúpido de um experimento que não deu certo, se nós explodirmos a vida e a nós próprios, tá todo mundo ferrado" [QUARENTENA CLÍNICA — leitura do autor]; "se nós formos embora... essa turma vai ter que inventar uma outra raça humana que saiba improvisar".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -12992,6 +13062,11 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 
 - **Os igigis (P2025-05-31):** ramo dos Anunnakis ("igis") que se recusou ao trabalho pesado (retirar ouro para Nibiru); "há 15–16.000 anos" transaram com mulheres humanas na época de Jarede (pai de Enoque) → "raça ímpia"/gigantes; presos por Javé em "prisões onde a energia do mundo [deles]..."; Enoque intercedeu (RC-673); "Lammur" = Marte (STT).
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Os Igigi (U0750–U0760):** "os Anunnakis rebeldes desobedeceram, Enki e Anu, desobedeceram todo mundo e resolveram transar com seres humanos, ou seja, com mulheres. E também Anunnakis fêmeas transaram com humanos machos"; "uma certa classe de Anunnaki chamada Igigi fez isso e a vida na Terra tornou-se muito complicada"; "esses filhos híbridos de Anunnakis com seres humanos criaram problemas pros interesses da Trimurti, pros interesses de Zeus... uma confusão que só acabou com as explosões de Sodoma e Gomorra".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13062,6 +13137,11 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 - **[P2024-08-03] O fim e a mistura (U0743–U0755):** Rama liquidou os rakshasas; "os rakshasas na época começaram, para fugir da fúria da turma de lá, a manipular os seus DNA e se uniram a ursos e lobos"; "hoje tem uma mistureba... pendente de resolução, morrendo de fome e de dor, algumas loucas para vir para cá para comer".
 - **[P2024-08-03] Ravana (U0761–U0765):** "ele não deixava nenhum rakshasa para atrás... se um era ferido, eles voltavam para trás, ainda que perdessem a guerra" — em contraste com Rama, que "deixou tudo para trás em nome do governo sinárquico".
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Os Rakshasas (U0780–U0800):** "foi quando os Rakshasas [STT 'racchaças'], uma espécie, uma estirpe de ser, foi criada pela turma do universo vizinho... todo mundo se apaixonou pelos mamíferos... no sangue humano é que estava o segredo para o tipo de comportamento que mamífero, primata e ser humano passou a ter"; "os Rakshasas foram criados como vampiros para passarem pelos portais e atacar os mamíferos"; "um Rakshasa faminto ficava vigiando o sacrifício, pegava a presa e desaparecia com uma vítima que ia ser sacrificada. E com isso os deuses começaram a ficar p da vida com os Rakshasas, porque a experiência que eles queriam para eles, os Rakshasas terminaram tendo só para eles próprios".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13122,6 +13202,11 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 
 - **Ravana e a cadeia encarnatória (P2024-11-30 — destaque M-2):** a maldição dos munis Sanaka Kumara sobre os porteiros Jaya e Vijaya de Vaikuntha: "três nascimentos como demônios"; 1º: Hiranyakashipu e Hiranyaksha (mortos por Narasimha e Varaha, avatares de Vishnu); 2º: renascem como Ravana e Kumbhakarna (mortos por Rama); 3º: Dantavakra e Shishupala [STT "Danta vacra/Chile Chupa/Xupala"] (mortos por Krishna); "os últimos milhões de anos da história da Terra foram por causa da maldição de uma criança" (leitura do autor).
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Ravana (U0790–U0800):** "o sangue dos Rakshasas, de tanto, entre aspas, tomar sangue mamífero, terminou fazendo com que Ravana, que era um Rakshasa, se tornasse o ser mais forte dos dois universos. Olha o tamanho da confusão"; contexto dos tempos do Ramayana.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13164,6 +13249,11 @@ A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraque
 ## Etimologia / Grafias
 - Grafia preferida: Guerra Nuclear Anunnaki. Complemento: Sete Armas Atômicas.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A guerra nuclear Anunnaki (U0830–U0880):** "Marduk disse: 'Eu sou o suzerano da terra... de acordo com o pacto que foi feito na reunião dos clãs de Enki e de Enlil'"; "as sete armas atômicas que vieram de Nibiru pra Terra... Marduk e que Ninurta... sabiam onde estava"; "Javé... tentou colocar a guerra numa certa posição geográfica que beneficiasse os seus interesses de eliminar na Terra a genética que os Anunnakis haviam misturado lá atrás, no tempo de Jared... Por isso que as explosões foram todas em cima das cidades, cinco cidades das quais Sodoma e Gomorra fazem parte"; "eles explodiram as bombas nos vales do Sidim... o vento levou a onda radioativa das explosões para cima das cidades sumérias. Os Anunnaki se ferraram"; "Anu ficou p da vida... os Anunnaki perderam a capacidade de continuar a disputar com outras forças o domínio na Terra"; "só a partir desse ponto é que os Anunnaki, depois de 400.000 anos dominando a terra... ficaram fracos... ainda que eles pretendam voltar a ter importância".
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -13227,6 +13317,11 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 - **[P2024-08-03 — destaque O-2] O avatar duplo (U0735–U0740):** "Vishnu conversou com Shiva e os dois produziram um avatar à moda de Vishnu, mais com genética dos dois, chamado Rama"; nasce em Ayodhya (Uttar Pradesh; rio Sarayu — onde Ellam e Rodrigo estiveram em fevereiro); objetivo: "liquidar os rakshasas, criar uma sinarquia com sede na Terra para organizar os sacrifícios, para que assim toda uma sociedade vizinha se pacificasse".
 - **[P2024-08-03] Sita e Ravana (U0741–U0775):** "criaram uma confusão... de tal modo que Sita, a esposa de Rama, foi sequestrada"; Ravana não fez nada com Sita; a opinião pública de Ayodhya (séculos antes do caso da esposa de César); Sita na fogueira (Agni a preserva); "o único governo decente que teve aqui na terra, cuja sede era a cidade de Ayodhya"; Sita praticou o mahasamadhi; Rama seguiu-se ao rio Sarayu; os personagens "estão todos encarnados" hoje (Sita, Hanuman etc.) — "eu tive que cometer essa indelicadeza de falar com cada um deles" [relato pessoal do autor].
 - **[P2024-08-03] A lição sinárquica (U0755–U0760):** "na condição humana hoje está a esposa de Rama, está esse ser que foi Ravana"; "todos nós estávamos lá"; "o passado somos nós, os humanos, feito humanos" — dramas, traumas, condicionamentos e sensações inquietantes como herança.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Rama (U0800–U0810):** "os tempos do famoso épico hindu Ramayana, em que um avatar de Vishnu chamado Rama nasce, ou melhor, surge aqui na terra porque ele não nasceu feito homem e mulher normal"; "são os tempos do Ramayana e também em tempos de Matusalém, de Jared, de Enoque".
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -13415,6 +13510,11 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 - Grafia preferida: Anu.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Anu (U0830–U0850):** "Anu era o dono da terra, na lógica dos Anunnaki"; "Anu, que é o pai de Enki e Enlil, não sabe como resolver a situação"; "Anu ficou p da vida com tudo isso e os Anunnaki perderam a capacidade de continuar a disputar com outras forças o domínio na Terra"; "Anu chamou todo mundo de volta, ainda que alguns tenham ficado".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13468,6 +13568,11 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 - Grafia preferida: Ninurta.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Ninurta (U0850–U0860):** filho de Enki/Enlil; sabia onde estavam as sete armas atômicas vindas de Nibiru; envolvido na guerra nuclear contra Marduk.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13519,6 +13624,11 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 ## Etimologia / Grafias
 - Grafia preferida: Nibiru. STT: Dibiru.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Nibiru (U0850–U0860):** "as sete armas atômicas que vieram de Nibiru [STT 'Dibiru'] pra Terra... Marduk e que Ninurta, que são os filhos de Enki e Enlil, sabiam onde estava. Eles pegaram essas bombas para resolver o conflito".
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -13581,6 +13691,11 @@ A palestra cita Yima ao tratar das eras e de cidades subterrâneas na região da
 - Grafia preferida: Yima. STT: Ina.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Yima e as cidades subterrâneas (U0650–U0660):** "o Avesta fala de Yima. Yima seria um ser que a cerca de 12.000, 14.000 anos atrás, quando a Terra passou... dentro de um certo cinturão em que restos de um cometa, mas eram restos complicados, bateram aqui na terra durante mais de 1.000 anos e a turma do universo vizinho percebeu que ia acontecer isso. Esse avatar foi produzido e esse avatar construiu cidades subterrâneas lá onde hoje é a Turquia... inúmeras cidades interligadas"; "o Avesta dá pistas disso aí, o Kalevala finlandês também".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13624,6 +13739,11 @@ Tradição atribuída aos Hopis segundo a qual uma Estrela Azul marcaria transi�
 - Grafia preferida: Profecia Hopi da Estrela Azul. STT: ropes, hopes.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Profecia Hopi da Estrela Azul (U0970–U0985):** "os próprios Hopi disseram que esse ano de 2012 ele, entre aspas, não seria necessariamente ruim, seria uma coisa maravilhosa, porque uma estrela azul alguém viria de fora, né, para dar início a uma nova situação em que os humanos na Terra iriam ser conduzidos a uma nova condição de consciência, que é deixar a crença e trabalhar com conhecimento"; "numa outra interpretação você diz: 'Não, os hopis não dizem que vai ser bom. Os hopis dizem que vai depender do mérito do ser humano'"; "não tem que ser necessariamente a passagem entre essas eras com problemas, não. Isso faz parte da lenda nossa".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13666,6 +13786,11 @@ Era zodiacal ligada, na palestra, à vida de Jesus e a uma orientação de liber
 ## Etimologia / Grafias
 - Grafia preferida: Era de Peixes.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A Era de Peixes e Jesus (U0890–U0920):** "quando os Anunnaki se ferraram... as profecias de Javé de enviar o seu Messias para dominar a terra toda têm lugar. Nasce Jesus. Aí Javé se sente traído porque o homem Jesus resolveu não cumprir a agenda espiritual do seu próprio espírito e a agenda profética que Javé... anunciou. Jesus disse: 'Não faço'"; "esse acontecimento... trouxe a era de Peixes. Jesus iniciou esse processo com essa atitude dele. E Peixes ficou significando mais ou menos liberdade humana... e veio até 2012"; "isso que Jesus fez começou a produzir toda uma percepção na Trimurti de que eles tinham falido".
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -13770,6 +13895,11 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 - Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A linhagem de Seth (U0730–U0750):** "a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado [REVISAR — STT]; aí Caim, que foi o segundo filho de Adão e Eva, matou Abel"; "depois surge Seth, um terceiro filho, que... não quis seguir o mesmo amor por Javé que Adão tinha"; "Adão viveu 930 anos... Seth 105 [912? — REVISAR]"; "essas figuras não estavam nascendo [em lugares diferentes], era no mesmo lugar... entre o Mar Negro e o Mar Cáspio, porque era dali que Javé iria transformar aquilo tudo num super império"; "somente quando chegou os tempos de Cainã é que finalmente a descendência de Adão, Seth, Enos... começaram a homenagear Javé através de sacrifícios, cultos".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -13821,6 +13951,11 @@ Aparece no diálogo com as eras culturais de Rudolf Steiner e com a cronologia d
 ## Etimologia / Grafias
 - Grafia preferida: Avesta. STT: AESTA, a vesta.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Avesta (U0650–U0660; U0645–U0656):** "Rudolf Steiner, que formulou a antroposofia, estudou essas últimas cinco eras zodiacais, ou seja, as de 2.160 anos... cada era cultural dessa são 2.160 anos mais ou menos"; "ele situa [a era do] Avesta como tendo sido a mais importante... falando de fatos ocorridos há 10.000 anos atrás"; "a era de peixes com Jesus, a outra era anterior greco-romana, israelita, uma outra era anterior onde os [persas?] dominaram, uma outra era anterior onde os Vedas dominaram com cultura védica" [Steiner = referência externa (antroposofia), não ontologia].
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -17962,6 +18097,11 @@ Forma preferida: Metatron.
 ## Ampliação — P2021-01-23
 
 - **[P2021-01-23] O corpo especial de Metatron (U0400–U0404; U0417):** "um corpo de metatron eventualmente ligado para conviver com as massas, se desvinculou [das massas]... essas duas coisas horríveis ficaram lá funcionando"; a intenção de Javé com Enoque: "Javé tava se apresentando como controlador da raça humana e a partir desse controle ele iria voltar a organizar toda a retaguarda da sua criação" (U0417); o nome "Metatron" é posterior à época (derivado da linguagem grega — "metra"), conforme pré-curadoria do ciclo (U0400–U0420).
+
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Metatron (U0760–U0780):** (implícito — a "forma que Enoque suportasse viver também no mundo antimaterial"): Javé levou Enoque ao universo vizinho e lhe deu uma forma especial para que suportasse viver no antimaterial, voltando à Terra como emissário imortal; ver RC-489 (Enoque).
 
 ## Fontes
 P2025-05-31.

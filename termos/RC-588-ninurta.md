@@ -17,6 +17,11 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 - Grafia preferida: Ninurta.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Ninurta (U0850–U0860):** filho de Enki/Enlil; sabia onde estavam as sete armas atômicas vindas de Nibiru; envolvido na guerra nuclear contra Marduk.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

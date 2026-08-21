@@ -58,6 +58,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] As apostas da Trimurti (U0145–U0150; U0175–U0190):** "no livro Drama Cósmico de Javé, eu procurei explicar que Shiva e Vishnu mantiveram Brahma funcionando, a mente de Brahma funcionando, instigando-a com apostas. Então é o vício desses seres é apostar até hoje"; "essas apostas eram feitas e são feitas em diversos tipos de cassino. Cada céu, cada morada desse troço aí vizinho tem sua [peculiaridade]"; "nós aqui viramos... a novela das 8 para eles... o tijolo de entendimento de um tipo de vida que essas lokas acompanham, fazendo apostas para poder... [produzir] o que seria serotonina, dopamina? É só uma analogia"; "a Trimurti finalmente aceitou a ascendência de um ser... esse ser é Zeus, ou seja, Indra na linguagem hindu, ariana... foi aceito como espécie de regente, de suserano, habitando em uma loka Olímpia, já tendo derrotado os titãs em guerras"; "essa era marcada também pelo final da Trimurti, pelo colapso da Trimurti".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

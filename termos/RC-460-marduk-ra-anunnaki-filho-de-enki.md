@@ -17,6 +17,11 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 - **Amon-R = Brahma = Javé (RC-001):** "Amon-R é o mesmo Brahma, é o mesmo Javé" — a queda do ser; "o corpo Amon que foi despedaçado, que é o corpo manásico que para Prabrajna ou para Javé lá fora antes da criação";
 - A Enéade (RC-627) adaptou os "nove principais anunnaki" ao culto egípcio — contexto em que Ra/Marduk figura entre os deuses.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Marduk (U0830–U0850):** "quando tem um filho chamado Marduk, ele passou a exigir que... antes da vinda de Jesus, a última era antes dessa, Marduk disse: 'Eu sou o suzerano da terra. Eu quero ser o rei dos Anunnakis porque é por meu direito, de acordo com o pacto que foi feito na reunião dos clãs de Enki e de Enlil'"; "os Anunnaki têm milhões de confusões em termos de descendência genética entre eles. Por isso que avô transa com filha, com neta... para o sangue do Anunnaki ser puro"; "Marduk disse que era a vez dele, porque a era zodiacal estava se vencendo, a cerca de 3.000 e poucos anos antes de Cristo".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

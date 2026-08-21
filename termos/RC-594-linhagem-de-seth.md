@@ -17,6 +17,11 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 - Grafia preferida: Linhagem de Seth. Variação do nome individual: Set/Seth.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] A linhagem de Seth (U0730–U0750):** "a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado [REVISAR — STT]; aí Caim, que foi o segundo filho de Adão e Eva, matou Abel"; "depois surge Seth, um terceiro filho, que... não quis seguir o mesmo amor por Javé que Adão tinha"; "Adão viveu 930 anos... Seth 105 [912? — REVISAR]"; "essas figuras não estavam nascendo [em lugares diferentes], era no mesmo lugar... entre o Mar Negro e o Mar Cáspio, porque era dali que Javé iria transformar aquilo tudo num super império"; "somente quando chegou os tempos de Cainã é que finalmente a descendência de Adão, Seth, Enos... começaram a homenagear Javé através de sacrifícios, cultos".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -37,6 +37,11 @@ Forma preferida: Metatron.
 
 - **[P2021-01-23] O corpo especial de Metatron (U0400–U0404; U0417):** "um corpo de metatron eventualmente ligado para conviver com as massas, se desvinculou [das massas]... essas duas coisas horríveis ficaram lá funcionando"; a intenção de Javé com Enoque: "Javé tava se apresentando como controlador da raça humana e a partir desse controle ele iria voltar a organizar toda a retaguarda da sua criação" (U0417); o nome "Metatron" é posterior à época (derivado da linguagem grega — "metra"), conforme pré-curadoria do ciclo (U0400–U0420).
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Metatron (U0760–U0780):** (implícito — a "forma que Enoque suportasse viver também no mundo antimaterial"): Javé levou Enoque ao universo vizinho e lhe deu uma forma especial para que suportasse viver no antimaterial, voltando à Terra como emissário imortal; ver RC-489 (Enoque).
+
 ## Fontes
 P2025-05-31.
 

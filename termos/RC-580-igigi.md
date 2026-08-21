@@ -22,6 +22,11 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 
 - **Os igigis (P2025-05-31):** ramo dos Anunnakis ("igis") que se recusou ao trabalho pesado (retirar ouro para Nibiru); "há 15–16.000 anos" transaram com mulheres humanas na época de Jarede (pai de Enoque) → "raça ímpia"/gigantes; presos por Javé em "prisões onde a energia do mundo [deles]..."; Enoque intercedeu (RC-673); "Lammur" = Marte (STT).
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Os Igigi (U0750–U0760):** "os Anunnakis rebeldes desobedeceram, Enki e Anu, desobedeceram todo mundo e resolveram transar com seres humanos, ou seja, com mulheres. E também Anunnakis fêmeas transaram com humanos machos"; "uma certa classe de Anunnaki chamada Igigi fez isso e a vida na Terra tornou-se muito complicada"; "esses filhos híbridos de Anunnakis com seres humanos criaram problemas pros interesses da Trimurti, pros interesses de Zeus... uma confusão que só acabou com as explosões de Sodoma e Gomorra".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

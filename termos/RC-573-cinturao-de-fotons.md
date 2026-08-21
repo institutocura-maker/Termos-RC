@@ -17,6 +17,11 @@ Campo de fótons atribuído, na palestra, ao sistema de Alcíone e atravessado p
 - Grafia preferida: Cinturão de Fótons. STT: cinturão de fotos; cinturão dos sótos.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] O cinturão de fótons (U0301–U0330):** "certas áreas do sistema solar de Alcíone têm algo que a ciência não sabe muito bem ainda como explicar, que seria chamado cinturão de fótons espalhado na sua horizontalidade. Do jeito que Saturno tem aqueles anéis, o sistema de Alcíone teria uma zona daquele [tipo], um campo em torno da órbita que orbitaria Alcíone"; "o sistema solar no espaço de 26.000 anos passa duas vezes no meio desse cinturão"; "desde o ano 2012, nós começamos a entrar... o Sol teria entrado nesse cinturão de fótons nesse período — a Terra logo depois"; "o período em que nós vamos ficar dentro desse cinturão de fótons... é uma era zodiacal de 2.160 anos e que na cultura isso seria a nova era de Aquário" [QUARENTENA CIENTÍFICA — leitura do autor].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

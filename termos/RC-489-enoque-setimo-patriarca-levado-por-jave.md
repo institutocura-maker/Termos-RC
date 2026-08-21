@@ -36,6 +36,11 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **A promessa de Vishnu e a aposta (U0784–U0790; U0369):** "segundo a tradição bramânica, Apantaratamas nasceu porque Vishnu pediu para ele nascer no exercício da biologia, ou seja, como ser biológico, e Enoque ou Apantaratamas é essa promessa de Vishnu"; "Vishnu quis dizer que Enoque ou Apantaratamas era um avatar dele... porque Moros originalmente se compôs a partir do DNA de Vishnu" (U0786–U0788) [REVISAR — trecho STT truncado]; a aposta Javé×Vishnu: "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369); "Enoque não vai mais aparecer entre os humanos, mas eu vou me fazer humano e vou trazer a humanidade para você" (U0886).
 - **Os livros (U0417–U0418):** "quando Enoque escreveu os 300 e tantos livros [STT '363']... os livros foram produzidos por Matusalém" [REVISAR — número exato no STT]; "esses livros sumiram a maioria deles nesse cataclismo que ocorreu de 14 a 9.000 anos".
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Enoque (U0760–U0780):** "foi na época de Jared que os Anunnakis transaram com as mulheres. Mas Enoque, filho de Jared, surgiu com o DNA que era o mais próximo daquele que Javé pretendeu quando... inoculou Adão"; "com Enoque, Javé então decide retirar Enoque da terra, levá-lo pro universo vizinho, dar uma forma que Enoque suportasse viver também no mundo antimaterial [Metatron], fazer Enoque voltar para esse universo... ditar o filho dele, Matusalém, mais de três centenas de livros"; "Enoque não morreu aqui na Terra porque o DNA dele tava tão afinado com as intenções de Javé que ele tentou imortalizar Enoque para cada vez que ele quisesse, Enoque apareceria na terra como emissário dele".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

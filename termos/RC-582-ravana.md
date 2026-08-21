@@ -32,6 +32,11 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 
 - **Ravana e a cadeia encarnatória (P2024-11-30 — destaque M-2):** a maldição dos munis Sanaka Kumara sobre os porteiros Jaya e Vijaya de Vaikuntha: "três nascimentos como demônios"; 1º: Hiranyakashipu e Hiranyaksha (mortos por Narasimha e Varaha, avatares de Vishnu); 2º: renascem como Ravana e Kumbhakarna (mortos por Rama); 3º: Dantavakra e Shishupala [STT "Danta vacra/Chile Chupa/Xupala"] (mortos por Krishna); "os últimos milhões de anos da história da Terra foram por causa da maldição de uma criança" (leitura do autor).
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Ravana (U0790–U0800):** "o sangue dos Rakshasas, de tanto, entre aspas, tomar sangue mamífero, terminou fazendo com que Ravana, que era um Rakshasa, se tornasse o ser mais forte dos dois universos. Olha o tamanho da confusão"; contexto dos tempos do Ramayana.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

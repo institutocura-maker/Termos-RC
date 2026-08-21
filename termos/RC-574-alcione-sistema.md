@@ -17,6 +17,11 @@ Aparece na explicação visual do segundo slide e na interpretação do ano de 2
 - Grafia preferida: Alcíone. STT: Alce, Alceione, Alciion, Alciô, oceônio, ao senhor.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Alcíone e o sistema solar (U0301–U0320; U0331–U0340):** "as informações é que... o sistema solar gastaria um tempo de também 26.000 anos para dar, entre aspas, um giro completo em torno dessa estrela chamada [Alcíone]; essa estrela tá aí aos 400 e poucos anos luz da Terra"; "essa estrela, ela teria seu sistema de mundos, como o Sol tem o seu"; "quando o Sol está se movimentando... estariam vivendo em tempos de escuridão, porque sob essa perspectiva estão fora desse tal campo de fótons"; a entrada no campo em 21/12/2012 corresponde à Era de Aquário (2.160 anos); "notícias de médiuns respeitáveis no espiritismo dizendo que espíritos que vivem nesses mundos vinculados a Alcíone... estão sendo exilados... vão começar a nascer como humanos exatamente nessa transição... no chamado mundo regenerado" [QUARENTENA CIENTÍFICA — leitura do autor].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

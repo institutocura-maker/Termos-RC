@@ -34,6 +34,11 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 - **[P2024-08-03] Sita e Ravana (U0741–U0775):** "criaram uma confusão... de tal modo que Sita, a esposa de Rama, foi sequestrada"; Ravana não fez nada com Sita; a opinião pública de Ayodhya (séculos antes do caso da esposa de César); Sita na fogueira (Agni a preserva); "o único governo decente que teve aqui na terra, cuja sede era a cidade de Ayodhya"; Sita praticou o mahasamadhi; Rama seguiu-se ao rio Sarayu; os personagens "estão todos encarnados" hoje (Sita, Hanuman etc.) — "eu tive que cometer essa indelicadeza de falar com cada um deles" [relato pessoal do autor].
 - **[P2024-08-03] A lição sinárquica (U0755–U0760):** "na condição humana hoje está a esposa de Rama, está esse ser que foi Ravana"; "todos nós estávamos lá"; "o passado somos nós, os humanos, feito humanos" — dramas, traumas, condicionamentos e sensações inquietantes como herança.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Rama (U0800–U0810):** "os tempos do famoso épico hindu Ramayana, em que um avatar de Vishnu chamado Rama nasce, ou melhor, surge aqui na terra porque ele não nasceu feito homem e mulher normal"; "são os tempos do Ramayana e também em tempos de Matusalém, de Jared, de Enoque".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

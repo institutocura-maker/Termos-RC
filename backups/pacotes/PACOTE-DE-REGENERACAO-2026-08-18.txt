@@ -17,16 +17,16 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 80393 | 843 | 26f77b52bf33c14c337699b0e82dc941e7274f1b655c2a71d66fb067d5dead1b
+# CONTINUIDADE.md | 83300 | 856 | 3cdec610d58d8bda6229b287b7ab70ed848a0389b8611bc7c8d4fdf257cf1dab
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
 # GUIA-MESTRE-RC-APOSTILA.txt | 29426 | 502 | 0aa7a29161b64ca3c0a8539eff591b97bf7f2ab9301b4bc2227ab59d3ea575dd
 # PROMPT-INICIAL-DO-AGENTE.md | 4416 | 53 | 5f3e4a4b5c419a0d351cb04520076bde3054d9ccfee240d8b5443c7d35e37e33
-# apostilas/INDICE-PALESTRAS.md | 15631 | 54 | 897ddc854d29ddcdcee32c9bd4fba2413b156a2834878261e22256136cff24e4
+# apostilas/INDICE-PALESTRAS.md | 16062 | 54 | ef1c76022f097913d591752b468bfb80bf4c43c34f2a61d2158332b5b72e44fe
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 528396 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 531734 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -4566,7 +4566,9 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `ed1bf36` (Trilogia TALM + correção pós-interrupção + REORGANIZAÇÃO: pastas órfãs removidas, scripts arquivados nas pastas das apostilas, ferramentas/ limpa).
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **33 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2022-12-17)
+
+> **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**
 - **3 novas apostilas temáticas** em `pedagogico/` (todas com DOCX gerado):
@@ -4596,6 +4598,17 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2022-12-17 — 1.023 unidades; 21.429 palavras; última palestra do ano de 2022): a palestra que gerou a faixa **RC-566–RC-595 (30 termos)** em ciclos anteriores; auditoria integral da faixa + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **28 fichas ampliadas** (bloco O-2): RC-567 Precessão (25.920 anos; 4 ciclos → 2012); RC-575 **ancoragem da Trimurti na Terra há ~104.000 anos** (Marte 300 mi — Yggdrasil/Bifrost; Val 600.000 anos); RC-573/574 **Cinturão de Fótons/Alcíone** (entrada 21/12/2012; Era de Aquário; exilados); RC-570 Janelas Cósmicas (pacto Zeus–Apolo); RC-576 **Baktun 13/Diego de Landa**; RC-572/578 Fim dos Tempos × Fim do Mundo/Fim do Experimento Humano; RC-590/595 **Yima/Avesta** (cidades subterrâneas na Turquia); RC-591 Profecia Hopi (Estrela Azul); RC-583 **Guerra Nuclear Anunnaki** (sete armas de Nibiru; vale do Sidim; vento radioativo); RC-592 Era de Peixes (Jesus; liberdade); RC-571 2012 (**juízo final frustrado de Javé; "10 anos atrasados"**); RC-104/001/102/594/489/671/580/581/582/584/145/306/460/589/588/587;
+- **apostila integral em 10 PARTES (23.452 palavras; ~21.583 de transcrição editada):** intervalo de 20 min marcado (U0437); plateia isolada — **1 pergunta final** (U0968 — passagens entre eras × calamidades); 17 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha (padrão):** RC-145 (Zeus) e RC-306 (Apolo) — ampliações na Colecionar Incertezas;
+- **Colecionar Incertezas (novos):** "2012 = juízo final frustrado de Javé"; "10 anos atrasados" (2022); "estrela Matusalém" [quarentena]; "exilados de Alcíone"; "Yima e as cidades subterrâneas"; "Dionísio mandou o Olimpo para PQP há ~8.000 anos"; "Abel nasceu afeminado" [REVISAR — STT]; "Eva bebeu poções"; "os Anunnaki pretendem voltar a ter importância"; "cultura com maricandã" = Tamil [REVISAR — STT; **confirma P2021-01-23**]; "IEEA e a proposta política transparente" (não ontológico); "livro de Gudrun (editora Antroposófica)"; "O Homem que Caiu na Terra" (Geoffrey/Bowie — jazz); "novas proteínas corrigem o genoma" [quarentena clínica];
+- **Obras:** nenhuma obra nova (Steiner/antroposofia e livro de Gudrun = referências externas);
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push do ciclo).
 
 ## Ciclo ART-2025-08-01 — Fornos Replicadores: Awayen, Awaylengan e Awaymaion (material do curador)
 
@@ -6257,7 +6270,7 @@ Bibliografia completa em BIBLIO; PDFs de livros adicionais pendentes.
 | 23/01/2021 | Vyasa e o Descortinar de um Novo Paraíso | `P2021-01-23` | — | **ciclo concluído (2026-08-20) — PALESTRA INÉDITA (fonte original de Vyasa/Moiras/fios soltos):** auditoria confirmada; **16 fichas ampliadas** (genealogia Enoque→Parashara→Vyasa; Moiras herdeiras dos fios soltos/GPS; transmissão limpa e três setas de Moros; Apantaratamas; Metatron; paraíso "furado"; aposta Javé×Vishnu; Krishna avatar cachava/Dwarka; Mahabharata prosa; método druida; 4 segmentos genéticos; Escola de Decifração); **B082 cadastrada** ("Nem Deus, nem Javé, nem Darwin: a evolução do cérebro"); zero códigos (RC-771 preservado); **APOSTILA CONCLUÍDA** (12 PARTES; 25.240 palavras — a maior da série; 2 intervalos marcados; plateia isolada — 3 perguntas finais; quarentenas teológica/clínica/política) |
 | 04/12/2021 | Os Archeons de Ereon e os Seres Adhy | `P2021-12-04` | — | **ciclo concluído (2026-08-21) — RE-CURADORIA COM A FONTE ORIGINAL (faixa RC-596–RC-619):** auditoria confirmada; **25 fichas ampliadas** (perfis dos cinco Archeons; **Ogdóade = 6 Seres Adhy + 2 Seres LM**; **Apolônio de Tiana = única encarnação de Olm**; espírito fatiado em coma em Perpérion; flechas de Moros = ponto zero; estratégia de Tempérion; Roseral do Alto; genoma da liberdade; Mavatma absorvido em RC-408); **B079 confirmada** (Inquisição Espiritual — sem cadastro novo); zero códigos (RC-771 preservado); **APOSTILA CONCLUÍDA** (10 PARTES; 17.515 palavras; intervalo de 15 min marcado; plateia isolada — 5 perguntas; quarentena clínica crítica — autismo funcional) |
 | 27/03/2021 | Enki, Enlil e o Fim Súbito da Babilônia | `P2021-03-27` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-764 (Ao Vencedor as Batatas) + RC-765 (Relógio Messiânico); RC-487 (Enlil) com ficha criada; 21 ampliações + 22 relações; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
-| 17/12/2022 | O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | `P2022-12-17` | pré-curadoria e apostila concluídas | 30 termos novos (`RC-566`–`RC-595`), Base atualizada e DOCX aguardando revisão do curador |
+| 17/12/2022 | O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | `P2022-12-17` | pré-curadoria e apostila concluídas | **ciclo concluído (2026-08-21) — RE-CURADORIA COM A FONTE ORIGINAL (faixa RC-566–RC-595):** auditoria confirmada; **28 fichas ampliadas** (ancoragem da Trimurti 104.000 anos; Cinturão de Fótons/Alcíone; Baktun 13/Diego de Landa; Yima; guerra nuclear Anunnaki; 2012 = juízo final frustrado de Javé); zero códigos (RC-778 preservado); **APOSTILA CONCLUÍDA** (10 PARTES; 23.452 palavras; intervalo de 20 min marcado; plateia isolada — 1 pergunta; 17 notas do editor; quarentenas política/teológica/científica) |
 | 03/02/2024 | O Jainismo e o Druidismo Ancestrais | `P2024-02-03` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-759 (Jainismo = antigo Druidismo) + RC-760 (Vrittis e Cittas); **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
 | 13/05/2023 | Bastidores da Revelação Cósmica | `P2023-05-13` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-761 (As Cinco Lentes da Realidade); 19 ampliações + 16 relações; 7 fichas novas/13 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |
 | 02/12/2023 | Thot, o Enigmático Hermes Trimegisto | `P2023-12-02` | Base e apostila concluídas | **ciclo concluído (2026-08-18):** RC-762 (Três Escalas) + RC-763 (Sete Leis); RC-463 elevado a fonte primária; 29 ampliações + 21 relações; 11 fichas novas/20 ampliadas; **APOSTILA CONCLUÍDA** (marco da pausa estratégica) |

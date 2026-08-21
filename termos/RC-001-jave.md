@@ -47,6 +47,11 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **[ART-2025-08-02 — material do curador] Javé no Glossário (ART-02):** "Javé: um Criador em convalescença — 'doença de impulso nervoso' que o levou a expelir um 'Projeto Mental' que resultou em uma 'Criação imperfeita'"; "o universo material é uma obra que Javé tentou reestruturar após sua 'queda', tornando-se 'refém do progresso de suas criaturas'"; "sua mente 'implodiu', fragmentando-se em 'cacos' ou 'elétrons'; a 'doença' ou 'podridão de Brahma' é um impulso de sobrevivência a qualquer custo e a lei do mais forte sobre o mais fraco"; "notavelmente, o nome de Javé (YHWH) está registrado nas bases químicas do DNA de cada célula humana [QUARENTENA — leitura do autor]"; "é fundamental diferenciar Javé do 'Ser Supremo' ou 'Deus Incognoscível'"; "Javé reconhece que necessita da ajuda e apoio efetivo de muitos humanos para superar suas limitações".
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Javé e a escolha de Adão (U0705–U0735; U0830):** "quando Javé percebeu que Shiva fincou na terra um império para ele... foi isso que levou o nosso amigo Javé a escolher Adão"; "Javé que já havia gasto a fórmula do seu código fonte definidor, porque ele alojou isso em Adão, ele ficou refém dessa situação, não podia arrancar de volta"; "a demência de Javé levou Javé a fazer ao longo desses milênios coisas que a gente nem imagina que depois ele se arrependeu"; "Javé largou os arianos... e voltou a procurar alguém da descendência de Éber... esse alguém era Abraão... voltou a assumir o nome de Javé"; "o nome de Javé (YHWH) está registrado nas bases químicas do DNA" [QUARENTENA — leitura]; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

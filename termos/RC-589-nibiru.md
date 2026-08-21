@@ -17,6 +17,11 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 - Grafia preferida: Nibiru. STT: Dibiru.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Nibiru (U0850–U0860):** "as sete armas atômicas que vieram de Nibiru [STT 'Dibiru'] pra Terra... Marduk e que Ninurta, que são os filhos de Enki e Enlil, sabiam onde estava. Eles pegaram essas bombas para resolver o conflito".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

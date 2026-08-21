@@ -17,6 +17,11 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 - Grafia preferida: Anu.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+
+## Ampliação — P2022-12-17
+
+- **[P2022-12-17 — FONTE ORIGINAL] Anu (U0830–U0850):** "Anu era o dono da terra, na lógica dos Anunnaki"; "Anu, que é o pai de Enki e Enlil, não sabe como resolver a situação"; "Anu ficou p da vida com tudo isso e os Anunnaki perderam a capacidade de continuar a disputar com outras forças o domínio na Terra"; "Anu chamou todo mundo de volta, ainda que alguns tenham ficado".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
