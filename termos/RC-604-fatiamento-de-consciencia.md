@@ -46,6 +46,13 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 
 - **[P2021-01-23] Os fios soltos como herança truncada (U0031–U0067):** a metáfora do poste e dos fios: "quando o criador caiu... ele ficou com bilhões de fios soltos e cada um foi seguindo e nunca houve uma corrente educada" (U0042–U0043); "fios soltos: a história morre ali" (U0064); "quando Shiva cria um avatar dele, ele não tem ligação direta por aqui... pega só um desses fiozinhos, e a partir desse fiozinho solto surge o avatar de Shiva, avatar de Vishnu, Brahma" (U0065–U0067); Moros como o único que estudou e equacionou os fios (U0057–U0058) — os avatares da Trimurti nascem de um "fiozinho solto" da consciência fatiada do criador; "se existem fios soltos, a história morre ali" — o fatiamento de consciência como origem da herança informacional truncada.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Os três modos de habitar dimensões (U0193–U0218):** "(1) o ser pode transferir o seu centro de consciência pessoal, deixando de existir no paraíso e passando a existir nos protocolos da incompletude"; "(2) ele pode não ir, permanecer como ser original, retirar de si uma parte do seu código, criar uma clonagem... e o mecanismo de produção de estrutura espiritual dota aquele novo código de uma mônada espiritual, porque o ser que deu aquele código permanece inteiro no paraíso... uma mônada produzida por todos os seres em processo de unificação, do tal círculo da perfeição eles tiram a mônada e jogam"; "(3) o fatiamento de consciência: o ser projeta de si mesmo um novo eu, mas o mesmo espírito fica tomando conta dos dois. Aqui surge o fatiamento de consciência" (U0193–U0215).
+- **A analogia do jogo de computador (U0216–U0218):** "nós humanos aproveitaríamos o espaço virtual de um computador, criar um jogo e pegar os nossos 28.869 genes, jogar nesse jogo para ver o tipo de ser que dá" [quarentena — analogia do autor].
+- **O Gênero Adhy como o mais fatiado (U0396–U0398):** "esses 147 seres compõem um dos gêneros que mais apresenta índice de fatiamento de consciência em relação à consciência ancestral... é aquele que tem mais desdobramento do que a gente chama de fatiamento de consciência; o percentual de seres fatiados é pequeno nesse contexto, mas o pequeno aí não é tão diminuto assim devido às suas radiações, aos seus desdobramentos, entrelaçamentos".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

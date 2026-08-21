@@ -29,6 +29,11 @@ O problema que culminou na Criação Indevida é ligado a um pequeno subgrupo Pa
 - **[P2020-07-11] As reuniões de avaliação (U0300–U0340):** "como se primeiro todos tivessem se reunido; foram vendo que era melhor manter só a energia de 20, depois de 19, depois de 18, de 15, de 12, até que se chegou a 14 membros que se reuniram"; "o que era 14 ficou 13, ficou 11, ficou 10, até que se chegou a um número de oito figuras"; "três eram as que mais tinham atuado: o próprio Brágina, Mavatimma e Sávna, e mais cinco"; "foi nesse nível de experiência com oito entidades em torno de uma mesa que Brágina mais uma vez colocou o seu projeto criativo, e todos os oito estavam com a sua mente envolvendo aquele produto holográfico".
 - **[P2020-07-11] O colapso e os portais (U0300–U0340; U0480):** "de repente um deles caiu; tornou-se isso aqui um buraco negro"; "os outros sete notaram o impulso; foram obrigados a fazer um movimento contrário àquilo ali; teve uma hora que eles tiveram que se apartar daquele monstro que surgiu"; "é como se uma pane parasse tudo durante um microssegundo, porque aquilo nunca tinha acontecido"; "ela tinha oito buracos ou oito portais de entrada, um dos quais já utilizado da pior forma possível (a queda de Brágina); ficaram sete portais vinculados às mentes dos sete personagens"; "só existiam mais dois portais de entrada; os seis não conseguiam construir mais portais; a falência foi total".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Pashvnaj (U0158; U0290–U0295; U0279):** "a espécie Pashvnaj [STT 'vinage'] com 43 figuras que compõe essa rede" (U0158); "um pequeno subgrupo da espécie Pashvnaj [STT 'vinagem'] tivesse chegado a produzir uma reunião que não deveriam ter feito ou, segundo a perspectiva de lá, teria que ser feita... seria a última tentativa de ver se aquela independência da parte da mente de [Adhy] Prabrajna não iria adiante" (U0290–U0291); "há uma ponte entre esse espírito lá, entre o ser Adhy e a espécie Pashvnaj na condição laboratorial e uma ponte ligando tudo isso com todo o caos" (U0279).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

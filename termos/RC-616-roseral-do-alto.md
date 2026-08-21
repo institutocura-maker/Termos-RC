@@ -17,6 +17,11 @@ Cidade espiritual situada acima da região montanhosa do norte da Espanha, em di
 - Grafia preferida: Roseral do Alto. STT: Roseraldo Alto.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] O Roseral do Alto (U0660–U0673):** "essa Inquisição Espiritual, em que eu descrevo uma certa região espiritual chamada Roseral do Alto: é um tipo de cidade espiritual misteriosa que existe em cima, ali do norte da Espanha... os Pirineus dividindo França e Espanha; para cá tem o País Basco, São Sebastião, Bilbao, depois chega as Astúrias, que tem uma região de montanhas; em cima dessas montanhas, mais voltada pro lado da Irlanda, tem uma cidade espiritual" (U0660–U0664); "foi construída muito tempo atrás por algumas poucas figuras quando estavam no Tibete, mas que nunca foi habitada; tem quatro ou cinco figuras por lá, porque essa cidade espiritual foi construída já antevendo um possível impasse que a gente tá hoje vivendo" (U0665–U0671); "é um canto muito bonito; chama, a gente chama Roseral do Alto" (U0672).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

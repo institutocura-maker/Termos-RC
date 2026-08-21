@@ -17,6 +17,11 @@ A palestra descreve um grupo de cinco LM enviado a Perpérion. A maioria retorna
 - Grafia preferida: Ser LM / seres LM. STT: seres LN. O significado expandido da sigla não é fornecido; não interpolar.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Ser LM (U0348–U0351; U0409–U0411):** "em Tempérion existe pelo menos umas 50 e poucas classes de seres... os Seres Adhy é só um desses gêneros, tem mais um bocado aí; mas em Tempérion é menos movimentada e tem um tipo de ser que eu chamo de LM, é o jeito; eu nunca encontrei uma forma sonora razoável de chamar" (U0346–U0351); "esses seres que estão lá em Tempérion hoje, sediados lá, eles são poucos e é um grupo raro" (U0409); "esses seres observados daqui também são autistas e de uma funcionabilidade totalmente diferente das outras que a gente conhece lá" (U0411) [quarentena — metáfora do autor].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

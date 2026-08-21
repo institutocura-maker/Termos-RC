@@ -17,6 +17,11 @@ Circuito de comunicabilidade e mente coletiva dos Seres Originais, associado à 
 - Grafia preferida: Círculo da Perfeição. Variação: Circuito da Perfeição.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] O Círculo da Perfeição (U0071–U0072; U0206–U0208):** "a comunicabilidade geral em âmbito semográfico que sempre existiu no conjunto da mente coletiva dos seres originais do paraíso, o chamado circuito, o círculo da perfeição. Isso foi um pouco quebrado, ainda que não prejudicado" (U0071–U0072); "o mais comum entre eles é uma mônada ser, entre aspas, produzida por todos os seres em processo de unificação. Do tal círculo da perfeição, eles tiram a mônada e jogam, e isso vai ser o espírito desse ser criado" (U0206–U0208).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

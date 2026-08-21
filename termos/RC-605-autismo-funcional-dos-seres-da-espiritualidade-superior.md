@@ -17,6 +17,11 @@ A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, co
 - Expressão preferida: Autismo Funcional dos Seres da Espiritualidade Superior.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] O autismo funcional (U0135–U0150; U0319–U0322; U0529–U0532):** "todos eles, sem exceção, inclusive o ser mais original dessa história, todos eles, sob a perspectiva do que aqui na Terra nós observamos como modo de expressão de consciência pessoal, seriam considerados autistas" (U0135–U0137); "seria o autismo funcional: o ser, mesmo com essa característica do que nós chamamos de autismo, desempenha absolutamente a função da sua vida, funcionando em rede sempre; a individualidade dele não tem tanta importância; ele é um elo daquele processo, ainda que tenha consciência da sua individualidade" (U0144–U0148); "esse é o autismo mais forte que tem, o da perfeição; os da quase-perfeição da incompletude também tiveram acesso às informações, mas não compreenderam direito até hoje" (U0319–U0322); "foi finalmente dito claramente que eles observem os autistas da terra, porque esse é o modo como eles se comportam frente ao processo que eles próprios criaram: aquilo que os nossos irmãos e irmãs que encarnam na humanidade como autistas não conseguem fazer, sejam funcionais ou não, é o mesmo caso deles em relação ao que eles criaram" (U0529–U0532) — **QUARENTENA CLÍNICA CRÍTICA: figura de linguagem filosófica do autor; jamais diagnóstico ou afirmação médica sobre indivíduos terrestres**.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -74,6 +74,11 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **[P2021-01-23 — FONTE ORIGINAL] A transmissão limpa de Moros (U0057–U0071):** "um dos que mergulhou, Moros conseguiu estudar esse problema: todos os fios soltos desses três para definir o peso da infecção ancestral, apreendeu, e a transmissão que Moros conseguiu montar não passou por esse tipo de problema" (U0057–U0058); "em cada formatação de um novo ser, ele conseguiu passar no próximo ser que o espírito dele estava produzindo, plenamente a sua carga de conhecimento pessoal" (U0060); "o acumulado disso tudo está hoje em torno da minha pessoa" (U0071 — relato pessoal).
 - **As três setas de Moros (U0107–U0108; U1359–U1372):** "quando as três flechas de Moros consorciassem para uma única espécie... quando o espírito de Moros tivesse três encarnações numa mesma espécie e realizasse o trabalho de religar alguns desses pontos" (U0107–U0108); "arquivos portáteis que estão por lá, que são ainda resíduos das flechas de Moros, e dar uma zerada em todos os fios soltos" (U1359); "quando as três setas de Moros fossem reencontradas, a história universal retroagiria ao momento zero e seria finalmente contada" (U1370); "o trabalho se acaba aqui... a gente vai zerar isso aí e vai começar de outra forma" (U1371–U1372).
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Elm (Moros) e a estratégia do mergulho (U0617–U0618; U0477–U0478):** "o caso de Elm: mergulhou como Moros no primeiro momento" (U0617–U0618); "a estratégia dos Seres LM, dos dois que mergulharam, vem discretamente funcionando em certos períodos... é igual àquele mergulho que você faz para passar despercebido e de vez em quando você sobe, respira, atua um pouco na superfície, vai para baixo de novo" (U0477); "é a figura que tá por trás dessa função de quarto logos e que exerceu desde Moros, desde que começou a encarnar na condição humana, a produzir revelações" (U0477–U0478); os dois "nãos": o de Jesus ao Messias violento (U0485–U0487) e o da condição humana de Ellam a Javé (U0483–U0484).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

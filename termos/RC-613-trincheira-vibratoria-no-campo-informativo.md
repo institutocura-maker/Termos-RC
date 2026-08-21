@@ -22,6 +22,11 @@ O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão 
 
 - **[P2024-07-14] A trincheira de resistência (U0540–U0570):** "enquanto não existia uma trincheira de resistência no ambiente espiritual errático, o paraíso, entre aspas, não terá como desenvolver esforços, porque o paraíso precisa de um foco situado além das fronteiras do paraíso. É necessário que, aqui dentro dessa criação, uma trincheira de resistência seja criada, para que dê foco, para que se crie uma ponte disso aqui para cá, e daqui para construir novos ambientes espirituais livres do problema da podridão dos códigos doentes do criador"; "só que isso não se faz na espiritualidade: se faz aqui na Terra"; "é preciso criar uma ponte daqui para cá, para que eles, de lá, possam ser úteis no caos. Por enquanto, todos eles — e Deus inclusive — compõem uma majestosa inutilidade. São seres majestosos, mas inúteis para, entre aspas, fazer alguma coisa aqui dentro"; "a catinga, os efeitos da podridão que estão saindo daqui, estão furando essa blindagem já... está rompendo, e isso aqui tá começando a criar incômodos".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] A trincheira vibratória (U0524–U0534):** "nesses anos que eu falei, entre 2016 e 2021 que nós estamos, alguns acontecimentos marcantes em termos de espiritualidade maior, mas aqui na Terra ninguém conhece, tiveram lugar quando alguns espíritos criaram uma trincheira vibratória no campo informativo e, como se tivessem aberto flâmulas, para que a turma do paraíso pudesse, mesmo sendo lá do paraíso, olhar para aquilo e dizer: 'Pô, tem gente que saiu daqui e agora tá escrevendo faixas para cá, mandando mensagens, e a gente não consegue ler'" (U0524–U0528); "até que eles resolveram não modificar o protocolo, mas permitir um portal de comunicação" (U0528); "hoje esses seres do paraíso estão sendo obrigados a redefinir os seus critérios que até então sempre os levaram a se observar como perfeitos" (U0533–U0534); "quem ama por aqui [na Terra] tem uma força vibratória terrivelmente mais forte do que os nossos amigos de lá" (U0537–U0538).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

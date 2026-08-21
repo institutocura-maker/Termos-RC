@@ -17,6 +17,12 @@ Dois integrantes são recuperáveis como Elm e Olm; os outros três não são no
 - Grafia preferida: Cinco Seres LM de Tempérion. STT: seres LN.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Os Cinco Seres LM de Tempérion (U0352–U0360; U0409–U0415):** "um grupo chamado de seres LM [STT 'LN'], os cinco que foram, esse grupo ficou em Tempérion; eles viviam de ousadia criativa, de transpor barreiras"; "os seres LM sempre estudaram a imponderabilidade, as coisas imprevisíveis ainda não feitas, ainda não vislumbradas, e também estudavam as possíveis decorrências do que já havia sido feito" (U0355–U0357); "foi assim que dois desses cinco seres, cujos nomes eram **Elm e Olm** [STT 'e a l'], começaram a conviver com os outros Seres Adhy antes deles mergulharem" (U0359); "são um grupo raro: nunca seguiram a onda desses fatiamentos, de clonagens; foi um grupo que definiu juntar-se em rede para observar e estudar a imponderabilidade da vida" (U0409); "diante da experiência do caos, entre Elm e Olm, dois dos cinco que terminaram mergulhando em momentos bem distintos nessa história... o fato de não serem personalidades fatiadas permitiu uma maior integração dos eus que foram sendo gerados pelo mergulho dos dois com seus próprios espíritos" (U0412–U0413).
+- **A Ogdóade 6+2 (U0414–U0415):** "naquela palestra que a gente fez sobre a Ogdóade, na perspectiva do que se viu na mitologia egípcia de Hermópolis, o nome das oito figuras que se consciaram... tá lá o nome desses dois [Elm/Olm], junto com os seis que vieram a compor a Trimurti e a Tridevi. Então, a [Ogdóade] composta por seis Seres Adhy e dois Seres LM" (U0414–U0415).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

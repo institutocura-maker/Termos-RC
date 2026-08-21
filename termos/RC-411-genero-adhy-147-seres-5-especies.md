@@ -22,6 +22,15 @@ A palestra fornece a fonte direta mais detalhada da taxonomia: 147 seres, cinco 
 
 - **[P2020-07-11] O Gênero Adhy e os espíritos (U0220–U0240; U0380–U0400):** "147 consciências particularizadas... a família Pastevinagem, ~43 individualidades"; "10 seres adiátima podem representar 5 espíritos adiágia (fatiamento)"; "8 seres adiátima = 7 espíritos (ou 6) adiágia" — a relação ser/espírito como chave do Gênero Adhy.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] O Gênero Adhy e a taxonomia (U0156–U0158):** "os 147 seres [STT 'seres arte'] que terminaram compondo essa espécie ou esse gênero... olhando de acordo com a taxonomia que a gente aplica na biologia aqui na Terra, reino, filo, gênero, espécie, eles são gênero, porque esses 147 seres, nesse número pequeno, têm cinco tipos de seres que compõem os 147 seres; então são cinco espécies formando esse gênero. A espécie Pashvnaj [STT 'vinage'] com 43 figuras que compõe essa rede" (U0158).
+- **O rompimento com a mente coletiva (U0103–U0110):** "os seres [Adhy] romperam com essa questão de que a mente individual não vale nada, o que vale é a mente coletiva... eles passaram a assumir com o tempo uma nova postura mental que meio que diferenciava os Seres Adhy dos demais grupos de seres de Perpérion, mas também de Mermérion, de Danérion, de Antérion"; "toda rede de informação desses níveis tomou consciência de que os Seres Adhy haviam rompido essa característica da natureza psíquica daqueles dias, em que o coletivo sempre iria prevalecer".
+- **"Filhos do abismo" (U0402–U0404):** "o pior, eles são chamados por muitas outras denominações, usando uma correlação com a lógica humana: filhos do abismo... eles olharam no abismo e caíram".
+- **O fechamento em rede e o "motor" (U0302–U0308; U0461–U0476):** "quase todos eles mergulharam; todos se ferraram; alguns ficaram mesmo inabilitados, outros funcionaram mal, mas funcionaram, tipo Brahma, Vishnu, Shiva"; "a resolução do problema da obra que eles criaram passa por eles resolverem os problemas daqui, mas retomando os antigos padrões de Perpérion... corrigir o equívoco e retomar os velhos padrões que eles tinham antes da queda"; "eles deixaram esse universo refém do modo Adhy como a rede mental dessa coletividade de seres pensava e ainda pensa".
+- **As religiões como "infecção dos AD" (U0475–U0476):** "inclusive as religiões, todas as religiões, com raríssimas exceções, tudo que a gente imagina de religião opressiva e impositiva, vem dos Seres Adhy, vem com essa infecção dos AD" [quarentena teológica — leitura de Ellam].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

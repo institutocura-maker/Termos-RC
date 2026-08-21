@@ -51,6 +51,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[P2020-07-11 — FONTE ORIGINAL] Brágina e o projeto criativo (U0290–U0340):** "Brágina colocava a sua cundaline; expressam com a mente aqui na frente de todos; eles sabem trabalhar com os sistemas mentais"; "o que era 14 ficou 13, ficou 11, ficou 10, até que se chegou a um número de oito"; "Brágina mais uma vez colocou o seu projeto criativo e todos os oito estavam com a mente envolvendo aquela coisa holográfica"; "de repente um deles caiu; tornou-se um buraco negro"; "Brágina sumiu"; "a queda não foi premeditada: foi um acidente decorrente de uma disputa com os outros Pashvnaj, onde ele foi empurrado para dentro de sua criação" [ver também P2024-05-04-R].
 - **[P2020-07-11] A reconstrução (U0340–U0360):** "primeiro Brágina caiu, aí se reconstruiu como Brahma, o Javé; passou milhões de anos até que um anjo-clone veio, agrediu; aí depois se tornou Shiva com 2 bilhões de anos; mas 1 bilhão de anos depois Vishnu mergulhou"; "a turma ficou lá fora tentando entender o que fazer; quem vai? Porque poderiam vir 10, 20, não: só podiam entrar oito, porque foram oito mentes que estavam ligadas na criação".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Prabrajna (U0162–U0166; U0238–U0240; U0281–U0287):** "o drama desse ser chamado Adhy Prabrajna é que ele fez a transição, elevou a condição da sua consciência pessoal como se fosse algo mais importante do que a rede dos 43 [Pashvnaj] ou mesmo dos 147 Adhy, porque foram esses dois níveis que foram rompidos pelo drama dele" (U0162–U0164); "Adhy Mavatma e Adhy Prabrajna eram dois desses 147 seres, mas que na verdade eles eram ancorados no mesmo espírito... esse único espírito tem duas versões" (U0238–U0240); "outra parte sua está absolutamente tombada, implodida, feito uma sabe-se-lá-o-quê, num certo laboratório de Perpérion, que foi a parte de [Adhy] Prabrajna, que uma parte dele entrou e a outra parte implodiu e essa parte tá ligada a esse espírito" (U0281–U0282); **"essas duas coisas poderíamos chamar de espírito fatiado desse ser vibrante em coma na parte de Perpérion e mais vibrante sem ser em coma na operacional"** (U0287).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

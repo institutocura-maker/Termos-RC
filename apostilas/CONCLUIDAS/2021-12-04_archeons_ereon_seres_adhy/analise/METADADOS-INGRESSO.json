@@ -1,0 +1,31 @@
+{
+  "sha256_original": "3b590431109d592ec17e443c32ca009f6adaaa809721bcd32ee31cffd36c121a",
+  "bytes_original": 91934,
+  "lines_original": 11,
+  "words_original": 15464,
+  "layers": {
+    "camada-0.txt": {
+      "bytes_utf8": 50,
+      "words": 10,
+      "lines": 1
+    },
+    "camada-1.txt": {
+      "bytes_utf8": 48,
+      "words": 6,
+      "lines": 1
+    },
+    "camada-2.txt": {
+      "bytes_utf8": 57,
+      "words": 8,
+      "lines": 1
+    },
+    "camada-3.txt": {
+      "bytes_utf8": 91871,
+      "words": 15454,
+      "lines": 10
+    }
+  },
+  "analytic_units": 713,
+  "source_status": "sequência aparentemente completa; abertura, exposição, perguntas finais da plateia (Enivaldo, Verônica, Gabriel Bernardo, André Silva, Adilson) e encerramento a confirmar na leitura; índice ausente; camada contextual ausente",
+  "nota": "PALESTRA CONHECIDA NA BASE (faixa RC-596 a RC-619 — 24 termos criados a partir dela em ciclos anteriores; P2021-12-04 já referenciada em fichas). Re-curadoria com a FONTE ORIGINAL: auditar os 24 códigos da faixa, ampliar com a fonte, avaliar candidatos e preparar a apostila integral. Liga-se aos temas recentes: Seres Adhy (RC-411), Archeons de Ereon (Antérion/Danérion/Mermérion/Perpérion/Tempérion), fatiamento de consciência (RC-604), espiritualidade laboratorial, Inquisição Espiritual (B079 anunciada)."
+}

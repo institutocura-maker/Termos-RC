@@ -17,6 +17,11 @@ A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quart
 - Grafia preferida: Flechas de Moros. Variação: Profecias de Moros.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] As Flechas de Moros (U0478–U0482):** "essa estratégia [do Quarto Logos] tem a sua face mais emblemática nas flechas de Moros, nas profecias de Moros, que foi apenas um aviso que foi deixado para se compreender no futuro: de que só quando as flechas fossem revividas no sentido de revelação psíquica, espiritual e cósmica, seria nesse momento que a história do universo voltaria ao ponto zero para ser novamente contada, já que ninguém nunca contou, ninguém nunca conseguiu entender a história universal, porque os elementos estavam ausentes".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -58,6 +58,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2024-07-13] A transfiguração (U0910–U0945):** "Jesus, ao longo dos últimos 8, 9 meses da sua vida, depois do encontro que ele teve com os anjos de Sophia — o momento em que ele se transfigurou — começou a avisar as pessoas que ele iria morrer"; "fiquem tranquilos, eu ressuscito três dias depois e lá na frente eu volto"; "eu virei por sobre as nuvens da terra, não com esse corpo, mas na minha condição de autoridade celeste. E todo mundo que tiver vivo nesse dia vai ver a minha vinda"; a descrição nos Evangelhos de Mateus, Marcos e Lucas (não João).
 - **[P2024-07-13] O julgamento final (U0640–U0650):** "Jesus, enquanto ser humano, só fez piorar o problema para todo mundo, inclusive para ele. Mas ele não teve outra forma de agir. Ele foi digno e criou todos os problemas do mundo".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Jesus (U0275–U0278; U0485–U0487):** "esse ser que nós chamamos de Jesus, o espírito de Jesus, ele é a ancoragem no paraíso do pior tipo de problema que já existiu. E o código fonte que o define, que é o mesmo de [Adhy] Prabrajna, ou seja, de Brahma ou de Javé, está em todos nós nessa criação. E os últimos seres montados com esse código fomos nós, os humanos" (U0275–U0277); "quando a condição humana de um ser chamado Jesus disse que não iria cumprir a missão de ser o Messias violento para dominar a humanidade, para entregar de novo ao jugo de Javé" (U0485–U0486).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

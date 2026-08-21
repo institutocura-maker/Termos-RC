@@ -29,6 +29,11 @@ Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à
 - **[P2020-07-11] A perspectiva 8/7/6 (U0380–U0400):** "pela perspectiva da condição adiátima, foram oito seres da espiritualidade laboratorial: seis seres de Perpérium e dois de Tempérium"; "pela perspectiva da condição adiágia, não são oito seres que mergulharam, são sete: dois espíritos da condição adiágia por três na condição adiátima; um deles fatiou a consciência (Brágina e Mavatimma, que depois se tornaram Javé/Brahma e Vishnu, são dois seres sustentados por um mesmo espírito)".
 - **[P2020-07-11] O gnosticismo (U0440–U0460):** "o gnosticismo olhou para isso tudo e disse: tá tudo errado. Aí criou três sistemas: o 7+1, o 6+2 e o 4+4"; os ofitas: "Logos, Zoe, Anthropos, Eclésia, Protator, Enoia e Aleteia" — "o gnosticismo fez uma esculhambação, distorceu, mas uma coisa verdadeiramente criou: destes oito, o principal era Aleteia, a verdade"; os valentinianos: "sete céus e o Pleroma como sendo mais importante de tudo, situavam Aleteia com o Pleroma"; Pitágoras: "tudo é furado; o que vale é a tetrad, a ogdóade: os oito divididos em duas tetrades (dois quartetos)".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] A composição da Ogdóade (U0414–U0415):** "naquela palestra que a gente fez sobre a Ogdóade [STT 'Ogat'], quando na perspectiva do que se viu na mitologia egípcia de Hermópolis, o nome das oito figuras que se consciaram... tá lá o nome desses dois [Elm e Olm], só que dos padrões egípcios da época, junto com os seis que vieram a compor a Trimurti e a Tridevi. Então, a [Ogdóade] composta por **seis Seres Adhy e dois Seres LM**" — a confirmação da fonte original de que os oito entes de Hermópolis = 6 Adhy (que formariam a Trimurti/Tridevi) + 2 LM (Elm e Olm).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

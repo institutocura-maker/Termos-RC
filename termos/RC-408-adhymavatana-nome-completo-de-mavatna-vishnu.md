@@ -28,6 +28,11 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYP
 
 - **[P2020-07-11 — FONTE ORIGINAL] Mavatimma e o fatiamento (U0240–U0300; U0380–U0400):** "tinha Brágina e Mavatimma, dois seres da condição adiátima de Perpérium, mas que eram um só espírito adiágia"; "o mesmo espírito responde por Brahma e por Vishnu"; "a parte que ele havia projetado antes, que era para ser Brágina, começou a apresentar problemas"; "Mavatimma, que depois mergulharia como sendo Vishnu"; "dois espíritos da condição adiágia por três na condição adiátima: um deles fatiou a consciência (Brágina e Mavatimma são dois seres sustentados por um mesmo espírito)".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Mavatma (U0247–U0254):** "quando Adhy Mavatma [STT 'Atmavátima'] mergulhou como Vishnu e Vishnu compôs com Brahma a Trimurti, Vishnu e Brahma eram duas fatias, dois rostos do mesmo espírito. Quando Vishnu começou a criar avatares de si mesmo, todos esses avatares eram o mesmo espírito, e mais ainda, Brahma caído. A sorte desse espírito é que Brahma nunca pôde criar outros seres a partir dele próprio, a não ser os clones, mas não criou diferenciação que Shiva, como clone rebelde, [fez]"; "quando Sophia foi criado, era Vishnu, [Sophia], tudo fazendo parte de um mesmo espírito que ainda Brahma também desse mesmo espírito; quando Jesus nasceu, é toda essa confusão aqui, o mesmo espírito bancando tudo isso aqui, e Brahma o tempo inteiro" (U0251–U0255).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

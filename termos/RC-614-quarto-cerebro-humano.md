@@ -27,6 +27,11 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 
 - **O quarto cérebro (P2025-02-16):** "o quarto cérebro não é mais um pedaço de nada aqui dentro: é a maneira como o seu eu mexe esses três níveis que já tem (reptiliano, límbico, primata)"; "é de ficar num padrão de consciência superior em você, se libertar de todas essas mentiras e criar, a partir de um marco zero, um novo padrão de conhecimento que lhe leve a um nível de compreensão adulta e a um nível de comportamento dignificado".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] O quarto cérebro (U0575–U0578):** "sempre que eu falar da emergência do quarto cérebro do ser humano... um novo modo desse ser humano vivenciar sua expressão de consciência" (U0575–U0576); "esse aqui é o momento definitivo em que se encerra toda essa história para trás e se começa um novo processo: quarto logos atuando, a questão da terra como ponto focal de um novo momento, já com a vinda de Sophia, já com um certo código ou pacto de convivência com seres do universo vizinho" (U0578).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

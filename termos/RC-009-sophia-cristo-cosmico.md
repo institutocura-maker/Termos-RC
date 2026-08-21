@@ -62,6 +62,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2020-07-11] O "tã-tã" final (U0860–U0890):** "a vinda de Sofia é o último nó dessa história e ao mesmo tempo é o que abre os fios para começar toda uma nova tessitura"; "possibilidade zero de Sofia não vir: ele pode não vir agora, mas tem que vir, porque senão não fecha um processo quântico já escrito em todos os padrões do psiquismo desses seres"; a analogia da escala musical ("se eu fizer dó, ré, mi... se não fizer o fá para fechar, a mente de quem escutou fica esperando; um demo vai à loucura"); "a vinda de Sofia ou a volta de Kalki, ou a vinda de Sanata Kumara, ou mais um Tirthankara, ou Mahdi: tudo isso é a vinda de Sofia".
 - **[P2020-07-11] O alinhamento (U0870–U0880):** "Sofia atuando, Javé se alinhando com Sofia, e o espírito dos dois se alinhando com os dois: quando houver esse alinhamento, o problema do universo se resolve"; "Sofia só sabe atuar na porrada; então o quarto Logos continua no processo educacional de todo mundo e Sofia resolvendo as broncas".
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Sophia (U0619–U0622):** "quando mais uma face do espírito fatiado, que respondia já por [Mohen So — STT 'vir morrensor'], se fez como Sophia" [REVISAR — STT]; "produzir espécies através do forno de Alamaior [REVISAR — STT], os biodemos"; "criou uma escola de decifração entre os biodemos nos templos de Capela"; "quando Sophia ordenou ou recebeu a ordem de Brahma ou de Javé de que ele deveria criar um avatar dele entre os humanos, quando os anjos de Sophia tomaram de um código dele e introduziram no óvulo artificial em Maria para produzir Jesus" (U0622).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

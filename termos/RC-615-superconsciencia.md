@@ -22,6 +22,11 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 
 - **Superconsciência (P2025-02-16):** "sem que você trabalhe um padrão de consciência superior, você jamais vai ser alguém dignificado frente a você mesmo. Você vai esperar que alguém chegue e diga: você é digno. E a gente foi condicionado a achar que Deus ou alguém um dia vai chegar e dizer isso... Isso é mentira, pessoal. Isso é furado."
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] A superconsciência (U0576–U0579):** "um novo modo desse ser humano vivenciar sua expressão de consciência. Eu chamo isso superconsciência" (U0576–U0577); "são 18.000 anos difíceis que nós vamos vivenciar daqui pra frente, mas menos difíceis do que o que já houve até agora" (U0579) [Colecionar Incertezas — confirma o prazo já registrado]; "a dificuldade aqui é porque nós ficamos isolados e vamos voltar a conviver com sem número de situações para as quais nós estamos totalmente despreparados, mas temos condição de aprender rápido" (U0580).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

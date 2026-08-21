@@ -17,6 +17,11 @@ Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-l
 - Grafia preferida: Inquisição Espiritual. Classificação: obra anunciada/em elaboração.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2021-12-04
+
+- **[P2021-12-04 — FONTE ORIGINAL] Inquisição Espiritual (B079) (U0657–U0677):** "tô tentando concluir um livro que vai se chamar Inquisição Espiritual" (U0657); "o nome dos livros que eu já lancei tem três Inquisições: Inquisição Poética, Inquisição Filosófica e Inquisição Trimurtiana" (U0659); "na hora em que eu conseguir publicar esse livro, os primeiros elementos de uma nova espiritualidade, essa coisa que eu tenho falado nesse sentido, é que ali serão tratados pela primeira vez" (U0674–U0675); "eu não sei se eu escrevo isso nessa vida... ainda preciso compor palavras, neologismos, novos contextos" (U0676–U0677) — **confirma B079 (obra anunciada); sem cadastro novo**.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
