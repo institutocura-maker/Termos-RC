@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **36 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `2c4d6bd` (ciclo P2026-04-02 — Estagiários do Kaos 3ª Ed. concluído)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2026-07-30 Estagiários do Kaos 4ª Ed. — FIM DA REPASSADA)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -33,6 +33,18 @@
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2026-07-30 — 4ª Edição — Estagiários do Kaos (LIVE) — FIM DA REPASSADA
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2026-07-30 — 85 unidades; 11.712 palavras; live de ~1h30 com Jan Val Ellam, mediação de Denise Ferreira da Silva; **4ª e última edição da repassada**): a live que gerou a faixa **RC-620–RC-627 (8 termos)** + **RC-476 (En Ma)** + **RC-475 (Deva/Aurora)**; auditoria integral + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **9 fichas ampliadas** (bloco O-2): RC-620 **Eu Coalescente** (metáfora do bondinho do Pão de Açúcar; eu mental que une todos os eus; dignificação); RC-476 **En Ma** (4 centros: Javé/Sophia/Jesus/Vishnu; sobreposição futura; "caos 2.0"; "segredo de estado" [quarentena biográfica]); RC-475 **Deva/Aurora** ("do jeito que Brahma é Javé, Deva é Aurora"; a Grande Deusa); RC-610 **Tridevi** (a conta dos espíritos; Adhy Shakti [REVISAR]); RC-009 **Sophia** (agressão no início da Covid; vinda frágil); RC-072 **Jesus** (não-continuidade; "não sabe acender o fósforo"); RC-104 **Trimurti** (3 seres/2 espíritos; só Elm e Olm atuando); RC-671 **Metatron** (cubo = 12 funções); RC-152 **Prabrajna** (um dos eus; resiliência);
+- **apostila integral em formato LIVE (12.882 palavras; ~11.753 de transcrição editada):** **5 perguntas da plateia/grupo ENTREMEADAS e isoladas em seções próprias**; 6 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha:** RC-135 (Lakshmi — o autor declara "não ter orientação ética para se referir") → Colecionar Incertezas;
+- **Colecionar Incertezas (novos):** "caos 2.0 / universo B"; "Adhy Shakti ligada a duas expressões da Tridevi" [REVISAR]; "cubo de Metatron = 12 funções"; "a conta dos 8 seres: só Elm e Olm atuando"; "segredo de estado sobre En Ma" (Conselho dos Arcontes; Dinastia das Sofias); "Sofia agredido no início da Covid"; "a vinda de Sofia está frágil"; "Jesus: o espírito era para estar produzindo outros corpos, mas não consegue"; "o paraíso perfeito não tem ímpeto criativo"; "ascese espiritual"; "movimento misterioso do início do Funeral da Evidência"; "livro 'Zeus, o Rei do Olimpo' de Giane Miranda" [REVISAR — obra?];
+- **Obras:** nenhuma obra nova (B068 já na base — lançamento iminente; livro de Giane Miranda → Colecionar Incertezas);
+- **FIM DA REPASSADA DAS 4 EDIÇÕES DOS ESTAGIÁRIOS DO KAOS** (P2025-06-26 · P2025-10-25 · P2026-04-02 · P2026-07-30) — todas concluídas com apostilas em CONCLUIDAS;
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push final).
 
 ## Curadoria P2026-04-02 — 3ª Edição — Estagiários do Kaos (LIVE)
 

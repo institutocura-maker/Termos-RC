@@ -82,6 +82,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 - **[P2026-04-02 — FONTE ORIGINAL] Sophia e as duas cotas de problemas (Perguntas 1–4):** "Sofia é a parte biológica do drama extrafísico de Javé ou de Brahma"; "Sofia vai receber duas cotas de problemas: uma advinda de Javé... a doença de Javé ainda terá que invadir o cérebro radiata de Sofia, só que antes disso Sofia tem que apropriar a experiência humana de Jesus no espírito que o sustenta, e ele sozinho não dá conta disso devido a uma sobreposição quântica que foi feita no genoma dele quando ele foi engendrado"; "foi Mohen So quem propôs [a criação de Sofia]... Javé concordou, mas colocou a sobreposição quântica do genoma dele no de Sofia"; "o corpo de Javé antes do colapso vivia vampirizando o corpo de Sofia durante todos esses milhões de anos; na hora que esse corpo se desliga, a vampirização [cessa]... Sofia tá tendo uma vida nova, como se ele tivesse renascendo"; "houve uma atualização muito interessante ali em Alt' Lam Gron, Processador Val... uma espécie de um reset, um recomeço, uma reorganização, uma reinicialização do cérebro de Sofia com conhecimento humano suficiente para fazer muitas coisas"; "Sofia não é um ser como a gente: o homem é homem e Sofia é Sofia; não tem outros seres iguais a eles dois; um é cérebro radiata, o outro eu nem sei que diabo de cérebro é" [relato pessoal — quarentena biográfica].
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Sophia e a vulnerabilidade (Pergunta 4):** "no início da Covid eu tive que dizer: 'ó, parece que Sofia foi agredido'... por forças que estavam procurando liquidá-lo"; "a vinda de Sofia está estabelecida de uma forma muito frágil em torno de promessas que o eu humano de Jesus fez; Sofia garantiu que cumpria, mas até agora a ausência de coerência total da parte desses eus"; "o problema é que existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia" [QUARENTENA TEOLÓGICA/BIOGRÁFICA — leitura do autor].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -15,7 +15,7 @@
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 1718 | 43 | f0c2a2476ee96acf582a7b32dc0572d19836f337cd52194da525e5f20e851f53
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 3305 | 48 | b38fd7e27ad1a52de0717ed0fe06633a9d2e299e13aabb1d12a7da2a7aa3e723
-# termos/RC-009-sophia-cristo-cosmico.md | 20983 | 178 | fba1afdcbf1012554dfab984ba3bf75a0884a597af31b38011756119a0912381
+# termos/RC-009-sophia-cristo-cosmico.md | 21658 | 183 | e37ae48403902a12b645aaa1ec38a679483b9be43bf76e1aa1f47c5f1962b5b1
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 2270 | 44 | 7e7c91755cdac301a21a5a2dfeccf30a2b7f5a296342d852adb7b46f61a418fb
@@ -28,7 +28,7 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 11156 | 108 | f98d02a6805a76eb5c86a6415bad6f6ce9926fd4f2315e8ba076e106fd6d5be6
+# termos/RC-072-jesus.md | 11874 | 113 | 82e9157ffcf25795ab3e0d19df1a7ca1c8f0fd8888aa3bf7a2019a90740d900d
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -39,7 +39,7 @@
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 12409 | 126 | 47c7812e093eda181248688c6fec7330dd0cd0fbe21a64d3ee76f8a631a4f32d
 # termos/RC-094-revelacao-cosmica-conceito.md | 7395 | 79 | 5032afdfa5b46599f4c7c2ade30f6c15e4199c73c0ea4eace3cd2adff6338127
 # termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
-# termos/RC-104-trimurti.md | 9208 | 96 | 3acf9520ac2c834508a474e74da5114f2f92bb0241727d833428e75fd165e813
+# termos/RC-104-trimurti.md | 9743 | 101 | 58ffa55de0a1ca9c09373bbbf9d6872dd9bcc68477e19128f4c958b54f31eee4
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -48,7 +48,7 @@
 # termos/RC-149-monada-monada-espiritual.md | 3221 | 51 | 7a320fa3f609dba4d20003214fd20062760a1ed8559d9451bc8fe465f082fe9b
 # termos/RC-150-xadrez-cosmico.md | 2488 | 42 | 986e22a28950d0342b890839d38b324db8fae30317f5cdecd07c81e2f19c510a
 # termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 3380 | 57 | 3521ffbbb62b0106a13e3d70179bc8a451cc41d94c92c6d887ad9e33194c3ebc
-# termos/RC-152-prabrajna.md | 10017 | 103 | 2d94a32354fdd1d2beba64046e7c720acb553fe97265ce2ccd88654e9b82321c
+# termos/RC-152-prabrajna.md | 10741 | 108 | 1faf22a7b72e2c3cd8b025b0f9164166747ad923692a1d20075c53db95b3ac5a
 # termos/RC-155-eras-da-criacao-10-eras.md | 4748 | 65 | 55c8912fb8667477f022b9237716c2f5c0baba734493d808742752d564cb0fe0
 # termos/RC-160-entropia-e-negentropia.md | 3998 | 53 | 0470ca08cf370d47291fda6932483e32b576a16efdd450cd7346eff0bb6dbe9d
 # termos/RC-161-memoria-quantica-dos-eletrons.md | 6423 | 77 | e3e4a54c74bc900294b48f451ab9ca9611a2210990a1c7c81e174d9a9aa42076
@@ -173,8 +173,8 @@
 # termos/RC-471-bifrost-portal-interdimensional.md | 2332 | 51 | 3e56ce7b71fb7665dad9956b5696f8b8d0042dbb1d23536679cff198f530da23
 # termos/RC-472-temperion-archeon-de-ereon-setor-dos-seres-lm.md | 2398 | 46 | 229cfcb983e3a42b47746587e3aeb1ffc80ea53b4f41dae01ba7391058fa7ca7
 # termos/RC-474-arcontes-sophias-e-indras-conselho-dos-70.md | 2591 | 48 | e3688fceaa3f4c02683198879452c35d206474a46f84ac7564a5de76cf9e8f05
-# termos/RC-475-deva-aurora-a-grande-deusa.md | 2512 | 51 | 06352477f9a63c4693d7831914074c317a48113c079c95fbe478bf7b00979df7
-# termos/RC-476-en-ma-ema-emar---espirito-ancora.md | 2735 | 60 | 2a107a39d7998be8257def8d30a9a9d182157896eda751ba543087354205b911
+# termos/RC-475-deva-aurora-a-grande-deusa.md | 3078 | 56 | 466155703803f95f7e9911cd25ffbe276e866bae89de16912e226998542d1696
+# termos/RC-476-en-ma-ema-emar---espirito-ancora.md | 4374 | 65 | 709943fe2b9adfde9885da13c5667a905ce7f0ba645fdbb2b231aaa992931049
 # termos/RC-477-ensa-espirito-primordial-companheiro-de-en-ma.md | 1534 | 40 | d4ead10d83c5464a0e646fa9b1293cea06ca63426b535aa9e9e80df41b1a02ad
 # termos/RC-479-belial-arconte-sata-do-livro-de-jo.md | 3488 | 50 | a96c46182aaf3dc1d16e926e2a2965f9a80e4c5cebe51e0a7ad1088fa3d546f4
 # termos/RC-480-indra-titulo-de-arconte.md | 1694 | 42 | 01547fc2779734b3adebde23a095a9821c6d55f11eed93fa2889da3a08c71f06
@@ -268,7 +268,7 @@
 # termos/RC-607-cinco-seres-lm-de-temperion.md | 3188 | 50 | d0add0cba3fc8405a34e51c335cdd06115ccd6125ce76b0d1da17122e07cd24b
 # termos/RC-608-imponderabilidade-campo-de-estudo-dos-seres-lm.md | 1702 | 42 | c0559a3dabcc67a229e45dc0f2a8a8a142c9f840b9782828f9d5a2c48fbeef8c
 # termos/RC-609-ogdoade-de-hermopolis.md | 6130 | 77 | 62d579ffefcf230d84ed10a71c14fe6366b95c5fc90d44b56e38ec19232d6275
-# termos/RC-610-tridevi.md | 2556 | 56 | ad13ad6cf6843638156724d92766426cd628fad2b514a893cc95d7e5519bcbae
+# termos/RC-610-tridevi.md | 3951 | 61 | f78e00f95d9cc0959dc585474aa3779239d4dc3778c7edee6868093120e61258
 # termos/RC-611-flechas-profecias-de-moros.md | 3834 | 63 | 3b4e4d6d7e476eddce991b7cc3284234ed48c16036b015defbea84483ae1da93
 # termos/RC-612-nova-espiritualidade-novo-paraiso-paraiso-b.md | 8589 | 103 | 17e1e1f734420d59aebcffd660906cd6527f42b8f7730ef3b77ce8484b27b274
 # termos/RC-613-trincheira-vibratoria-no-campo-informativo.md | 3766 | 51 | 53d5e9bd57bf55fe166070806e339886721c244dbcf8f885227bc7033a044e63
@@ -278,7 +278,7 @@
 # termos/RC-617-inquisicao-espiritual-obra-anunciada.md | 2304 | 46 | 50732e980a5a94d2c4065ab6d3c499c29c9adb6501b799d90af458a90c1d630c
 # termos/RC-618-moksha.md | 2912 | 58 | 7a4072241d6b77b3e5749545dc2a590c11bf6241916c6b7fba3da6c34cc79255
 # termos/RC-619-genoma-da-liberdade.md | 6031 | 61 | beb9ecb5ef214a89e6235c3f9a6ddd7ed4315a1f146ec724ce28160d0e909f79
-# termos/RC-620-eu-coalescente.md | 2121 | 45 | c140164f5e5607c715d32fab298da1e098a181b833893d129ccbd268679824cf
+# termos/RC-620-eu-coalescente.md | 4500 | 50 | fb7fea46f73fcb30bf7a46423cc3707246b3a6e1adf2f71dc98b3a21a9a2555a
 # termos/RC-621-nyx.md | 1485 | 41 | b7487ce16ac3a494238fb326c97094486c110eabe5ff4936ffc957dfd420363a
 # termos/RC-622-kama-personificacao-do-desejo.md | 2427 | 52 | 9eb4b671afa82f43a76499fca3f66f264330f73dd0c0f55b65f1164993e1b771
 # termos/RC-623-corpo-atmico.md | 3815 | 72 | 3ce45dbb10c13d35175e2b26a5f3bedb881dba4262760c6a5a6a3c7dc97fecd1
@@ -329,7 +329,7 @@
 # termos/RC-668-som-da-flauta-som-da-falta.md | 786 | 34 | 56fd08aab342174990bdb9a294bc6e791c06a3a558a84211989b362f3f39a8ee
 # termos/RC-669-pashupati-avatar-de-shiva.md | 1573 | 43 | 06b2facc0de373298c87a4ea1670fe8c097200b14d8bed098849ee41a1bc1547
 # termos/RC-670-yoga-ancestral-origem-cosmica.md | 809 | 34 | 030d3254ab504f1c5e9538cb1b1ec60735287c1483a4c66375944914fdec9a29
-# termos/RC-671-metatron.md | 3477 | 65 | 98fa2a633b8a47fed76a6135f4c75083265a644f0c97f9ec6b61dba04d2a8aff
+# termos/RC-671-metatron.md | 3879 | 70 | 99f46b4ac815800137a6d5d15162d4199d185c0710ff2e2e431b692f7a145390
 # termos/RC-672-os-366-manuscritos-de-enoque.md | 1052 | 40 | fc9e74b59c8c8ac6dfdfc3fa1feaf8294bfcd121f902cbe732b4b1dd80d2ee41
 # termos/RC-673-intercessao-de-enoque-pelos-anunnakis.md | 1213 | 42 | cb2fd25c47b7cfe87b165a0d211baefd342f0726be305096858aa45ed5b49ff8
 # termos/RC-674-urdidura-de-metatron.md | 1805 | 48 | 0c24ccb5c20add9ba9eda40e2545324bbd2acda481dafd71b589598f916bcee8
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1413667 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1422700 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -989,6 +989,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 ## Ampliação — P2026-04-02
 
 - **[P2026-04-02 — FONTE ORIGINAL] Sophia e as duas cotas de problemas (Perguntas 1–4):** "Sofia é a parte biológica do drama extrafísico de Javé ou de Brahma"; "Sofia vai receber duas cotas de problemas: uma advinda de Javé... a doença de Javé ainda terá que invadir o cérebro radiata de Sofia, só que antes disso Sofia tem que apropriar a experiência humana de Jesus no espírito que o sustenta, e ele sozinho não dá conta disso devido a uma sobreposição quântica que foi feita no genoma dele quando ele foi engendrado"; "foi Mohen So quem propôs [a criação de Sofia]... Javé concordou, mas colocou a sobreposição quântica do genoma dele no de Sofia"; "o corpo de Javé antes do colapso vivia vampirizando o corpo de Sofia durante todos esses milhões de anos; na hora que esse corpo se desliga, a vampirização [cessa]... Sofia tá tendo uma vida nova, como se ele tivesse renascendo"; "houve uma atualização muito interessante ali em Alt' Lam Gron, Processador Val... uma espécie de um reset, um recomeço, uma reorganização, uma reinicialização do cérebro de Sofia com conhecimento humano suficiente para fazer muitas coisas"; "Sofia não é um ser como a gente: o homem é homem e Sofia é Sofia; não tem outros seres iguais a eles dois; um é cérebro radiata, o outro eu nem sei que diabo de cérebro é" [relato pessoal — quarentena biográfica].
+
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Sophia e a vulnerabilidade (Pergunta 4):** "no início da Covid eu tive que dizer: 'ó, parece que Sofia foi agredido'... por forças que estavam procurando liquidá-lo"; "a vinda de Sofia está estabelecida de uma forma muito frágil em torno de promessas que o eu humano de Jesus fez; Sofia garantiu que cumpria, mas até agora a ausência de coerência total da parte desses eus"; "o problema é que existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia" [QUARENTENA TEOLÓGICA/BIOGRÁFICA — leitura do autor].
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1811,6 +1816,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 ## Ampliação — P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] Jesus (U0275–U0278; U0485–U0487):** "esse ser que nós chamamos de Jesus, o espírito de Jesus, ele é a ancoragem no paraíso do pior tipo de problema que já existiu. E o código fonte que o define, que é o mesmo de [Adhy] Prabrajna, ou seja, de Brahma ou de Javé, está em todos nós nessa criação. E os últimos seres montados com esse código fomos nós, os humanos" (U0275–U0277); "quando a condição humana de um ser chamado Jesus disse que não iria cumprir a missão de ser o Messias violento para dominar a humanidade, para entregar de novo ao jugo de Javé" (U0485–U0486).
+
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Jesus e a não-continuidade (Pergunta 4):** "Jesus nasceu 2.000 anos [atrás]; esse espírito era para estar produzindo outros corpos humanos dando sequência a Jesus, mas não consegue fazer"; "tudo o que Jesus prometeu que aconteceria na frente ainda não se cumpriu, porque seu espírito não sabe acender o fósforo [STT 'fóssil' — REVISAR], seu espírito não tem força devido ao estado de profunda decadência de alguns dos seus eus"; "muita gente, não necessariamente humana, observa a atuação desse espírito e a não continuidade; esse problema começou desde a rebelião de Lúcifer" [QUARENTENA TEOLÓGICA — leitura do autor].
 
 ## Fontes
 
@@ -2663,6 +2673,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[P2022-12-17 — FONTE ORIGINAL] As apostas da Trimurti (U0145–U0150; U0175–U0190):** "no livro Drama Cósmico de Javé, eu procurei explicar que Shiva e Vishnu mantiveram Brahma funcionando, a mente de Brahma funcionando, instigando-a com apostas. Então é o vício desses seres é apostar até hoje"; "essas apostas eram feitas e são feitas em diversos tipos de cassino. Cada céu, cada morada desse troço aí vizinho tem sua [peculiaridade]"; "nós aqui viramos... a novela das 8 para eles... o tijolo de entendimento de um tipo de vida que essas lokas acompanham, fazendo apostas para poder... [produzir] o que seria serotonina, dopamina? É só uma analogia"; "a Trimurti finalmente aceitou a ascendência de um ser... esse ser é Zeus, ou seja, Indra na linguagem hindu, ariana... foi aceito como espécie de regente, de suserano, habitando em uma loka Olímpia, já tendo derrotado os titãs em guerras"; "essa era marcada também pelo final da Trimurti, pelo colapso da Trimurti".
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] A conta dos oito seres e a Trimurti (Pergunta 2):** "dos oito seres primordiais só estariam atuando o espírito de Elm e Olm"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "aqui a gente resolve o problema da Trimurti, que são três seres relacionados aos dois espíritos" [ver também RC-610].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -3180,6 +3195,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 ## Ampliação — P2025-08-01
 
 - **[ART-2025-08-01] O criador caído e a doença (Partes I–III):** o texto reforça o estado de Prabrajna/Brahma: "mente 'implodida' e 'tragada' pela própria Criação", "ser 'doente', 'despedaçado', por vezes em 'coma perpétuo'", "zumbi de si mesmo" — em sintonia com o "espírito fatiado vibrante em coma em Perpérion" (P2021-12-04); "o seu CFDP, seu 'DNA', já surgiu com defeitos, e essa 'podridão' foi transladada para o DNA de todas as suas criaturas" [quarentena teológica — leitura de Ellam].
+
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Prabrajna como um dos eus (Pergunta 4):** "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "o eu aqui que tá falando é Rogério, que não sabe porcaria nenhuma, que só tem a opinião dele como ser humano, igual a de vocês: eu acho que não é a mesma situação [de despersonificação], porque se fosse, lá atrás já teria sinalizado alguma coisa... há uma resistência, uma resiliência, inclusive, que eu não sei aonde vai terminar" [QUARENTENA BIOGRÁFICA — relato pessoal].
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -9860,6 +9880,11 @@ A live amplia a antiga ficha: Deva/Aurora não seria simplesmente a primeira ent
 - **Poder apagado:** "o componente feminino produziu tudo... e isso foi absolutamente apagado" (fariseus, viúva enterrada viva com o marido — crítica do autor a costumes).
 - **Relevância:** "é impressionante o poder que essa Deusa Dev ou Aurora tem nessa história" — origem do 2º conselho.
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Deva/Aurora, a Grande Deusa (Pergunta 2):** "não há maior mistério dentre as histórias contadas e não contadas do que a emergência, no âmbito do caos, da grande deusa chamada de muitos nomes; a forma mais ancestral que eu conheço de chamar essa figura é o nome Aurora, mas que em sânscrito essa forma mais ancestral é a expressão Deva; então Deva ou Aurora são expressões... do jeito que eu digo 'Brahma é Javé, é a mesma pessoa', então Deva é Aurora, seria a mesma pessoa".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -9913,6 +9938,11 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 - **Consciência fatiada:** os 70 membros do conselho dos arcontes são eus representativos da consciência fatiada de Emá (e de Ensá, RC-477).
 - **Fellini:** o autor abre B068 com um filme de Fellini em que alguém grita "De quem é a culpa? De quem é a culpa?" — "De quem é a culpa por a gente existir?".
 - **Não é Deus:** "nem EMÁ é um Deus, é só um espírito que criou um problemaço".
+
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] En Ma e os quatro centros (Pergunta 4):** "En Ma é apresentado como o espírito que ancora quatro centros de consciência ainda ativos: Javé, Sofia, Jesus e Visno; Evidência afirma que esses quatro eus precisam continuar existindo até que se ajustem e se sobreponham formando uma única consciência"; "sabemos que houve o colapso consciencial de Javé e de Vishnu"; "o colapso e a desconstituição significam apenas a perda da antiga forma de funcionamento mantendo esses centros ativos dentro de En Ma, ou representam o início de uma finalização mais profunda dessas personalidades?" — a resposta: "ninguém sabe responder à expressão final... há uma noção de incompatibilidade horrorosa: reunir num só ser algo que a consciência desse ser não consegue reunir todas essas partes como sendo uma só coisa"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "se no final En Ma vai ser Emar ou se ele vai ter que passar por algum processo e recriar todo um contexto de um caos 2.0"; "existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia"; "essa vulnerabilidade alguns eus mentais que trabalham nessa coisa sabem, mas não falam, não expressam"; "a possível resposta a isso envolve um segredo de estado desses seres que eu não posso [revelar]" [QUARENTENA BIOGRÁFICA — relato pessoal/segredo].
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -14810,6 +14840,11 @@ A Base já individualizava as três integrantes; este código consolida o coleti
 
 - **[P2020-07-11 — FONTE ORIGINAL] A Tridevi e os pares eônicos (U0320–U0330; U0539–U0545):** "os três vínculos ou pares de eons, ou chamados pares eônicos, que o gnosticismo na época de Valentim criou": Shiva-Parvati (o pacto), Vishnu-Lakshmi, Brahma-Saraswati; "os hindus equivocadamente trabalharam como uma tridevi"; "Parvati/Parashakti pretendia dominar tudo e só não dominou porque não conseguiu dominar Moros"; "nenhuma mitologia fala claramente da descendência de Parvati, de Saraswati, de Lakshmi; quase uma nova [guerra] em março desse ano, promovida por raças descendentes dessas figuras, cujos nomes não foram descritos em mitologias" [quarentena; Colecionar Incertezas].
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] A Tridevi e a conta dos espíritos (Pergunta 2):** "em uma palestra sobre a Ogdóade foi levantada a possibilidade de que os oito personagens estivessem relacionados a apenas seis espíritos e que Adhy Shakti estivesse ligada a duas expressões da Tridevi; já em outra palestra tivemos a impressão de que a Tridevi pode estar relacionada à expressão de apenas um só ser"; a resposta: "aqui a gente resolve o problema da Trimurti, que são três seres relacionados aos dois espíritos; mas as três da Tridevi seriam relacionadas a [quantos] espíritos? e os dois, Elm e Olm, são duas figuras distintas; então aqui nós estaríamos falando de quantos espíritos? Sim, em tese, trabalharam por trás de oito seres e continuam trabalhando... essa conta está certa ou muito provavelmente deve estar certa, relacionada à lógica narrativa da Ogdóade"; "se a gente for contar essa história envolvendo outros seres e esquecendo a Wyrd... se a gente for falar do cubo de Metatron, que significa 12 funções, aí é que a coisa vai pro espaço e ninguém entende coisa alguma"; sobre Lakshmi: "eu não tenho orientação ética para me referir a essa questão, porque envolve livre arbítrio de outros seres, coisas delicadas de outros seres; eu não posso falar feito um fofoqueiro espiritual" [QUARENTENA BIOGRÁFICA].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -15426,6 +15461,11 @@ Tipo de Eu Mental dignificado que possui autoridade moral e vibratória para sin
 ## Etimologia / Grafias
 - Grafia preferida: Eu Coalescente. Processo associado: coalescência dos eus, absorvido nesta ficha.
 - **Fonte da decisão:** Devolutiva-01 + observação direta do curador.
+
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL — 4ª Edição Estagiários do Kaos] O Eu Coalescente em detalhe (Pergunta 4):** "eu coalescente como sendo um tipo de eu mental que nem é o eu do espírito que nos anima como também não é o eu epifenomenológico criado pelo cérebro humano"; a metáfora do **bondinho do Pão de Açúcar**: "vamos imaginar o Pão de Açúcar do Rio de Janeiro: tem um morro bem alto, um morro baixo e um cabo de aço unindo os dois e um bondinho que fica pendulando... esse morro grande vamos entender que é o eu espiritual, que tá lá guardando tudo que ele vivenciou, mas ele não pode transformar o que ele guarda; aí esse eu criou um eu transitório menor, que esse eu transforma-se o tempo inteiro, mas esse eu só atua nesse corpo; como tem essa coisa ligando os dois, famoso cordão de prata... vamos brincar e chamar o perispírito do bondinho que fica indo entre os dois padrões de consciência"; "eu chamo isso aqui de eu mental"; "o eu mental, o bondinho, esse aqui pode voar, pode ir em vários outros níveis, mas não perde a ancoragem nos dois até que o corpo físico morra"; "quando o corpo físico morrer, o eu mental volta a se acoplar ao eu espiritual ou não se acopla, fica independente dele e vive se transformando"; "este eu mental é o único que pode ser coalescente no sentido de unir em si mesmo todos os outros eus que o espírito já produziu e cujos corpos já morreram"; "o eu mental da última encarnação, da encarnação presente, em dignificando, poderá dignificar todos os outros eus produzidos pelo espírito, ainda que o nosso espírito não saiba o que diabos é ser digno"; "o eu mental de um ser humano que se dignifica implica dizer que o espírito que o anima não tem mais carmas negativos dos outros eus que ele já produziu, porque está tudo ou neutralizado ou ressignificado"; "esse eu mental pode se apresentar em qualquer nível existencial do todo existencial, do mais belo lugar do paraíso ao mais trevoso lugar do inferno do caos... porque ele dignificou-se e tem em si todas as senhas"; "é um eu coalescente, é um eu que tem autoridade sobre os outros eus que o espírito que anima todos esses eus já criou para trás"; "o espírito sintetiza, atualiza, une sob a égide do último que conseguiu ratificar o processo de dignificação de todos os eus".
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -18242,6 +18282,11 @@ Forma preferida: Metatron.
 ## Ampliação — P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Metatron (U0760–U0780):** (implícito — a "forma que Enoque suportasse viver também no mundo antimaterial"): Javé levou Enoque ao universo vizinho e lhe deu uma forma especial para que suportasse viver no antimaterial, voltando à Terra como emissário imortal; ver RC-489 (Enoque).
+
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] O cubo de Metatron (Pergunta 2):** "se a gente for contar essa história envolvendo outros seres e esquecendo a Wyrd... se a gente for falar do cubo de Metatron, que significa 12 funções, aí é que a coisa vai pro espaço e ninguém entende coisa alguma" [contexto; Colecionar Incertezas — "cubo de Metatron = 12 funções"].
 
 ## Fontes
 P2025-05-31.

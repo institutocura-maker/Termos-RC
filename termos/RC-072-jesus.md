@@ -63,6 +63,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **[P2021-12-04 — FONTE ORIGINAL] Jesus (U0275–U0278; U0485–U0487):** "esse ser que nós chamamos de Jesus, o espírito de Jesus, ele é a ancoragem no paraíso do pior tipo de problema que já existiu. E o código fonte que o define, que é o mesmo de [Adhy] Prabrajna, ou seja, de Brahma ou de Javé, está em todos nós nessa criação. E os últimos seres montados com esse código fomos nós, os humanos" (U0275–U0277); "quando a condição humana de um ser chamado Jesus disse que não iria cumprir a missão de ser o Messias violento para dominar a humanidade, para entregar de novo ao jugo de Javé" (U0485–U0486).
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Jesus e a não-continuidade (Pergunta 4):** "Jesus nasceu 2.000 anos [atrás]; esse espírito era para estar produzindo outros corpos humanos dando sequência a Jesus, mas não consegue fazer"; "tudo o que Jesus prometeu que aconteceria na frente ainda não se cumpriu, porque seu espírito não sabe acender o fósforo [STT 'fóssil' — REVISAR], seu espírito não tem força devido ao estado de profunda decadência de alguns dos seus eus"; "muita gente, não necessariamente humana, observa a atuação desse espírito e a não continuidade; esse problema começou desde a rebelião de Lúcifer" [QUARENTENA TEOLÓGICA — leitura do autor].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -63,6 +63,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[P2022-12-17 — FONTE ORIGINAL] As apostas da Trimurti (U0145–U0150; U0175–U0190):** "no livro Drama Cósmico de Javé, eu procurei explicar que Shiva e Vishnu mantiveram Brahma funcionando, a mente de Brahma funcionando, instigando-a com apostas. Então é o vício desses seres é apostar até hoje"; "essas apostas eram feitas e são feitas em diversos tipos de cassino. Cada céu, cada morada desse troço aí vizinho tem sua [peculiaridade]"; "nós aqui viramos... a novela das 8 para eles... o tijolo de entendimento de um tipo de vida que essas lokas acompanham, fazendo apostas para poder... [produzir] o que seria serotonina, dopamina? É só uma analogia"; "a Trimurti finalmente aceitou a ascendência de um ser... esse ser é Zeus, ou seja, Indra na linguagem hindu, ariana... foi aceito como espécie de regente, de suserano, habitando em uma loka Olímpia, já tendo derrotado os titãs em guerras"; "essa era marcada também pelo final da Trimurti, pelo colapso da Trimurti".
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] A conta dos oito seres e a Trimurti (Pergunta 2):** "dos oito seres primordiais só estariam atuando o espírito de Elm e Olm"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "aqui a gente resolve o problema da Trimurti, que são três seres relacionados aos dois espíritos" [ver também RC-610].
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

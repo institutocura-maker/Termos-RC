@@ -25,6 +25,11 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 - **Fellini:** o autor abre B068 com um filme de Fellini em que alguém grita "De quem é a culpa? De quem é a culpa?" — "De quem é a culpa por a gente existir?".
 - **Não é Deus:** "nem EMÁ é um Deus, é só um espírito que criou um problemaço".
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] En Ma e os quatro centros (Pergunta 4):** "En Ma é apresentado como o espírito que ancora quatro centros de consciência ainda ativos: Javé, Sofia, Jesus e Visno; Evidência afirma que esses quatro eus precisam continuar existindo até que se ajustem e se sobreponham formando uma única consciência"; "sabemos que houve o colapso consciencial de Javé e de Vishnu"; "o colapso e a desconstituição significam apenas a perda da antiga forma de funcionamento mantendo esses centros ativos dentro de En Ma, ou representam o início de uma finalização mais profunda dessas personalidades?" — a resposta: "ninguém sabe responder à expressão final... há uma noção de incompatibilidade horrorosa: reunir num só ser algo que a consciência desse ser não consegue reunir todas essas partes como sendo uma só coisa"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "se no final En Ma vai ser Emar ou se ele vai ter que passar por algum processo e recriar todo um contexto de um caos 2.0"; "existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia"; "essa vulnerabilidade alguns eus mentais que trabalham nessa coisa sabem, mas não falam, não expressam"; "a possível resposta a isso envolve um segredo de estado desses seres que eu não posso [revelar]" [QUARENTENA BIOGRÁFICA — relato pessoal/segredo].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

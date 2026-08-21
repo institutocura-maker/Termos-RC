@@ -61,6 +61,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **[ART-2025-08-01] O criador caído e a doença (Partes I–III):** o texto reforça o estado de Prabrajna/Brahma: "mente 'implodida' e 'tragada' pela própria Criação", "ser 'doente', 'despedaçado', por vezes em 'coma perpétuo'", "zumbi de si mesmo" — em sintonia com o "espírito fatiado vibrante em coma em Perpérion" (P2021-12-04); "o seu CFDP, seu 'DNA', já surgiu com defeitos, e essa 'podridão' foi transladada para o DNA de todas as suas criaturas" [quarentena teológica — leitura de Ellam].
 
+
+## Ampliação — P2026-07-30
+
+- **[P2026-07-30 — FONTE ORIGINAL] Prabrajna como um dos eus (Pergunta 4):** "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "o eu aqui que tá falando é Rogério, que não sabe porcaria nenhuma, que só tem a opinião dele como ser humano, igual a de vocês: eu acho que não é a mesma situação [de despersonificação], porque se fosse, lá atrás já teria sinalizado alguma coisa... há uma resistência, uma resiliência, inclusive, que eu não sei aonde vai terminar" [QUARENTENA BIOGRÁFICA — relato pessoal].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
