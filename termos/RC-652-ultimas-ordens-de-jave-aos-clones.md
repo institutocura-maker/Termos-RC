@@ -16,6 +16,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Últimas Ordens de Javé aos Clones**.
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] As últimas ordens de Javé aos clones (Pergunta 3 — Ana):** "as últimas ordens de Javé para eles [os clones]... isso é uma coisa que o meu código de ética não permite que eu vá além"; "nessas ordens tinha instruções que têm tudo a ver com a pergunta de Ana: Javé não disse 'olha, procurem vocês entre os judeus, como ele fazia antes, entre os arianos'; agora foi: 'vejam nos alunos, nas pessoas que estão estudando esses assuntos, o que é que vocês podem'"; "nós da Revelação Cósmica somos a base mais atual do que um dia foram os escolhidos de Javé, para isso ou para aquilo"; "nesse sentido, a resposta é afirmativa à pergunta de Ana".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

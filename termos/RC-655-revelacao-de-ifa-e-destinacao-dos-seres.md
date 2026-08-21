@@ -38,6 +38,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 - **[P2024-08-03] Espíritos de árvores (U1061–U1065):** "a revelação de Ifá descreve até mesmo o trânsito de espíritos de árvores que migravam do Orum para o Aiê e nasciam ainda como árvores por aqui, seguindo as suas rondas existenciais, conforme Blavatsky... e o que viria a ser a teosofia"; Camille Flammarion e Léon Denis (amigos de Kardec) registraram espíritos que viveram em árvores; a comparação com os Ents do Senhor dos Anéis.
 - **[P2024-08-03] Exu e o aché (U1528–U1531):** "o ser humano é produto de uma série de encruzilhadas de Exu"; "Exu seria o cara que realizou o aché, que transformou alguém do inconsciente pro consciente, mas aconselhado por Orunmilá".
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] A Revelação de Ifá e a destinação dos seres (Pergunta 5 — Adilson):** "a revelação de Ifá e a destinação dos seres é o assunto número um da espiritualidade... a revelação de Ifá é a maior revelação que existe, só que nós desconhecemos"; "isso foi meio que perdido também na noite dos tempos: a cultura iorubá surgiu lá na Arábia Saudita, desceu para a África, terminou vindo para cá no Brasil, e isso foi transformado em Umbanda, Candomblé"; palestra "A Revelação de Ifá e a Destinação dos Seres" em 29/11 (Rio de Janeiro) — o autor prevê lançar o livro sobre o tema ("eu não sei se nessa vida eu fico só fazendo palestras").
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

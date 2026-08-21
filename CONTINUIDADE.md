@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **34 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `26c39ad` (ciclo P2025-06-26 — Estagiários do Kaos 1ª Ed. concluído)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **35 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2025-10-25 Estagiários do Kaos 2ª Ed.)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -33,6 +33,17 @@
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2025-10-25 — 2ª Edição — Estagiários do Kaos (LIVE)
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2025-10-25 — 81 unidades; 11.279 palavras; live de ~1h com Jan Val Ellam, mediação de Denise Ferreira da Silva; grupo "Estagiários do Caos"): a live que gerou a faixa **RC-648–RC-657 (10 termos)**; auditoria integral da faixa + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **10 fichas ampliadas** (bloco O-2): RC-648 Instabilidade da Eternidade (paraíso gerou o caos; ponte caos–paraíso; jainismo/Tirthankaras); RC-649 **Zontrel** (humanização via IEA; Javé colapsou; [REVISAR grafia]); RC-650 **Melquizedec** (semente semita; Faleg recusou; Reinaldo pode ter sido contemporâneo); RC-651 **anjos clones — "abelha rainha × operárias"** (~900 mi clones; 3 milhões nunca acionados; Shiva = clone que se aventurou); RC-652 **últimas ordens de Javé** ("vejam nas pessoas que estudam esses assuntos"; "nós da RC somos a base mais atual dos escolhidos de Javé"); RC-653 **destino das mônadas pós-Tikun** ("em aberto; ninguém tem estatura moral"); RC-654 **Humanos: últimos e primeiros** ("os últimos serão os primeiros"; "grandeza de alma"; "sorrir da própria desgraça"); RC-655 **Revelação de Ifá = "a maior revelação que existe; assunto nº 1 da espiritualidade"** (Arábia Saudita → África → Brasil); RC-656 **atualização das revelações** (de Enoque a Kardec; trívio-quadrívio; Ifá; Cabala; Islã); RC-657 **verdade posta × a construir** ("fofoca cósmica"; "fatos falam por si mesmos");
+- **apostila integral em formato LIVE (12.592 palavras; ~11.356 de transcrição editada):** **5 perguntas da plateia/grupo ENTREMEADAS e isoladas em seções próprias** (grupo; Reinaldo; Ana; José Val Filho; Adilson); 7 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha:** nenhum (todos os alvos tinham ficha física);
+- **Colecionar Incertezas (novos):** "Zontrel em processo de humanização via IEA" [REVISAR — grafia 'Zontrell/Tendré']; "3 milhões de clones de Javé nunca acionados"; "~900 milhões de clones nos primeiros 2,8–3 bi anos"; "as últimas ordens de Javé aos clones (não detalhadas — código de ética do autor)"; "2026/2027 como início da percepção da RC"; "2025 = ano mais estranho da história humana (encontros extraterrestres)" [quarentena ufológica]; "a revelação de Ifá é a maior revelação"; "livros anunciados: Prodígio — a necessidade criativa do caos; Os dois lados da verdade; O drama cósmico de Shiva; livro 2 da homoafetividade; livro 2 do Iré Iró; 5–6 livros sobre Mahabharata/Ramayana" [REVISAR — aguardar lançamento]; "Melquizedec: Reinaldo pode ter sido contemporâneo"; "Faleg recusou honrar Javé";
+- **Obras:** nenhuma obra nova (B068/B080 já na base; anunciados → Colecionar Incertezas);
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push do ciclo).
 
 ## Curadoria P2025-06-26 — 1ª Edição — Estagiários do Kaos (LIVE)
 

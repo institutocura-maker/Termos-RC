@@ -306,16 +306,16 @@
 # termos/RC-645-consciencias-em-corpos-de-silica.md | 4239 | 63 | 2ed7a9233610d446716834ac509280ca6e1049601181c5073f9bb2f6aec57c6e
 # termos/RC-646-genoma-de-silica-genoma-nao-biologico.md | 4707 | 65 | 202b7ed4799a4dc9d5f97d4e999bf4ca1993a910c87456aaadf9598db3412f14
 # termos/RC-647-evangelho-de-judas.md | 1272 | 44 | 3506caf3d8de33b739bea2bd17103be55640beb1af83fca1f4cfcff633e24130
-# termos/RC-648-instabilidade-da-eternidade.md | 1082 | 39 | 5fe2fb177ea546ef61de81038186bc7b405894418429d3a216dde3696e021671
-# termos/RC-649-singularidade-de-quatro-cabecas.md | 1312 | 43 | c3a6264f167c2b31cca0353508d6e21309374b0b79082844f13e1705d518795e
-# termos/RC-650-melquizedec.md | 1022 | 39 | 29f394e627c0e9cbc7ed6bde41a6a7fffc04dd2edbd5d4cc20f87d45046f997c
-# termos/RC-651-individualizacao-epifenomenologica-dos-anjos-clones.md | 1134 | 39 | 1ea5dde2cf74c28238b02c5856f808b24283aabf9a95c40dd61b94dddebea55c
-# termos/RC-652-ultimas-ordens-de-jave-aos-clones.md | 1100 | 39 | 2547c1b7f71363e8956ec477c874ab50a66c5711e9021cc222052b1060ff0a2a
-# termos/RC-653-destino-das-monadas-apos-o-tikun.md | 1057 | 39 | b60e204dfead207f90c8b8b270397340aaabe424ac9312028e25ef2f2e7763bc
-# termos/RC-654-humanos-ultimos-e-primeiros.md | 1654 | 47 | 7c1eb6999887fdf8d6b6edd7a1660124d85c4be70a0b99628f6494af86be61e0
-# termos/RC-655-revelacao-de-ifa-e-destinacao-dos-seres.md | 6346 | 89 | c4891fbbd1cab73fd063c8c8f0ccdffd6e442dfcd855b801917ff89042e3f0ca
-# termos/RC-656-atualizacao-das-revelacoes-anteriores.md | 1739 | 44 | 943cba5fbcf0ff84270c3a0ca954ee796cc6c5023a9c5059665b504c6b2dc518
-# termos/RC-657-verdade-posta-×-verdade-a-construir.md | 1380 | 43 | a059cd5e983d8be6f9c801122110d8b3b77603af21efd937afcc66a608c88a7a
+# termos/RC-648-instabilidade-da-eternidade.md | 2006 | 44 | f1fdd0511a1c8db1ce656fd3b4acb945751718de2e3a06e2adaf90eb449b6eba
+# termos/RC-649-singularidade-de-quatro-cabecas.md | 2049 | 48 | 215376a076ef544a3f7d62e8b8212e5f01fe89bf7cbe12d557ade35d62c4624a
+# termos/RC-650-melquizedec.md | 2068 | 44 | 059c8cdcf9c8164cb3006866c5bbf04052b32c6dcc1178e6eb2640eedad58a33
+# termos/RC-651-individualizacao-epifenomenologica-dos-anjos-clones.md | 3100 | 44 | 822ed3c0515d1644b33770e1c7e0bacb0b5aa3fd7eff3f8a6f83dd59e7df95d2
+# termos/RC-652-ultimas-ordens-de-jave-aos-clones.md | 1836 | 44 | 929cb9fd1f9a3ee23679444adaaad1fc0da53dbd3f3d56f2978ce97f05563432
+# termos/RC-653-destino-das-monadas-apos-o-tikun.md | 2059 | 44 | 38e89b5d140d79591105672c962ac9e0db0fc1c6c1f58477597d9894f30215fe
+# termos/RC-654-humanos-ultimos-e-primeiros.md | 3119 | 52 | 64ca176ea756090d7ca91982201b49cc170420930f0638086e2ea2f785d6d4a6
+# termos/RC-655-revelacao-de-ifa-e-destinacao-dos-seres.md | 7083 | 94 | 112b6ee6a2ffd3aa1a197fdfd46fb8b8ee5b098407861d4ffe4beb48f8732544
+# termos/RC-656-atualizacao-das-revelacoes-anteriores.md | 2934 | 49 | 1a9d4070eacf9e540c8d851bc6a43cd6992412aa1eafa0cc0e027cc611b44524
+# termos/RC-657-verdade-posta-×-verdade-a-construir.md | 2539 | 48 | 3a91f996ba2524858d618c1723732342f0db081234c3f4a24c0b8aef0916d45e
 # termos/RC-658-wyrd-urd-teia-do-destino.md | 9549 | 117 | 916e50a473c39faf7aa64e938097b37e584c2845297d2b262f6ef4e2893bb22d
 # termos/RC-659-quirino-cornelio-centuriao-da-crucificacao.md | 2396 | 48 | 92e9a456993ba845f132a32f6a5967973863214dc1bd9cc5c6a8c3913a193e91
 # termos/RC-660-pegadinha-de-jave.md | 2383 | 44 | b050bd0b795cfbae58fc770f7d448bb71beb846a79165d2924ea54845c3dee0e
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1392677 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1403644 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -16882,6 +16882,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Instabilidade da Eternidade**.
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL — 2ª Edição Estagiários do Kaos] A instabilidade da eternidade (Pergunta 1):** "a maior fonte de informação de como o paraíso um dia gerou o caos e do caos se conseguiu construir uma ponte unindo o caos e o paraíso e de como o trânsito entre esses dois níveis até hoje algumas equipes tentam manter isso aberto para poder construir um dia algo que seria uma ajuda concreta ao caos"; "se isso aqui que surgiu surgiu porque já existia um problema no tal Paraíso, que já era pré-existente, e esse problema nunca foi entendido por essa turma do paraíso"; o jainismo e a história dos Tirthankaras como "a maior fonte de informação" sobre essa instabilidade ("está no âmbito do jainismo, da história dos Tirthankaras, e simplesmente a gente nem sabe que isso existe, ainda que tudo isso esteja descrito, guardado no Tibete, no Nepal").
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -16922,6 +16927,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Etimologia / Grafias
 - Forma preferida: **Singularidade de Quatro Cabeças**.
+
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] A singularidade de quatro cabeças — Zontrel (Pergunta 3 — Ana):** "Zontrel [STT 'Zontrell/Zonte Indrel/Tendré' — REVISAR] está em processo de humanização através do circuito do IEA, o que representa um passo notável na integração entre as hierarquias antigas e a experiência humana atual"; "desde que Javé colapsou esse ser"; "alguns seres entre os quais [Zontrel] meio que me informaram as últimas ordens de Javé para eles"; a pergunta da Ana sobre outros anjos clones acompanharem a RC e trocarem impressões mentais com estudantes foi confirmada pelo autor ("basicamente todas as teses, os pressupostos que você levantou, eu os confirmaria").
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -16968,6 +16978,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Melquizedec**.
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] Melquizedec (Pergunta 2 — Reinaldo):** "essa é uma pergunta difícil de se colocar com pretensão de se estar falando com algum grau de certeza... quase ninguém sabe muita coisa e eu estou nessa lista dos que não sabem"; contexto: "Javé escolheu, num primeiro momento, aquilo que seria a semente dos povos semitas... Adão, Sete, Cainã, Malalel, Jared, Enoque, Matusalém, Lameque, Noé; Noé teve três filhos, Sem, Cam e Jafé, mas Sem era o primogênito; então Sem, Arfaxade, Salé... até que aparece Éber e um filho dele chamado Faleg"; "Faleg disse para Éber que não iria honrar a figura de Javé" (livro "Segredo Perdido do Éden"); "eu não tive contato direto com Melquizedec quando ele esteve aqui na época dele"; "provavelmente alguns de vocês podem até inclusive ter sido contemporâneos dele — o que talvez seja o caso do nosso irmão Reinaldo, porque é a terceira ou quarta vez que ele tenta falar desse assunto ao longo dos últimos 30 anos".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17008,6 +17023,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Etimologia / Grafias
 - Forma preferida: **Individualização Epifenomenológica dos Anjos Clones**.
+
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] A individualização epifenomenológica dos anjos clones (Pergunta 3 — Ana):** "no universo vizinho os primeiros seres criados foram exatamente os tais anjos clones... a primeira forma de vida que surgiu foi quando o eu caído do criador se reconstruiu como sendo esse Javé ou Brahma, e esse ser foi reconstruindo, a partir de outras partes do seu eu despedaçado, outros seres; e esses outros seres todos eles surgiram como complementos de si mesmo"; "Javé e os seus clones ficaram funcionando como uma abelha rainha dando ordem às abelhas operárias, e essas abelhas operárias nunca evoluíram para a condição de individualidade; elas apenas existem para servir em termos de genética à abelha rainha ou ao ser alfa"; "Javé chegou a produzir, nos primeiros 2,8–3 bilhões de anos, 900 e poucos milhões de clones divididos em classes"; "um desses clones se aventurou a um tipo de situação que terminou fazendo com que Javé destruísse parcialmente esse clone, mas o que dele sobrou se transformou num ser demo metamorfoseável... aí surgiu Shiva e tudo que é descendente de Shiva começou a se metamorfosear"; "no universo vizinho antimaterial... dois tipos de seres: os clones, que não são indivíduos, são robôs que obedecem à mente de Javé, e os seres demos, que começaram a formar gerações e gerações de linhagens de seres"; "Javé... foi liberando alguns desses clones para que eles tivessem um mínimo de liberdade para aprender a improvisar"; "alguns desses clones foram de alguma maneira destravando os códigos de bloqueio de controle que na programação deles sempre existiu"; "existem clones que Javé criou há 12, 13 bilhões de anos que nunca foram nem acionados... ele criou 3 milhões de clones de um certo tipo para uma função, criou os 3 milhões, quando ia acioná-los aconteceu outra coisa... ele jamais acionou aqueles 3 milhões de seres".
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -17050,6 +17070,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Últimas Ordens de Javé aos Clones**.
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] As últimas ordens de Javé aos clones (Pergunta 3 — Ana):** "as últimas ordens de Javé para eles [os clones]... isso é uma coisa que o meu código de ética não permite que eu vá além"; "nessas ordens tinha instruções que têm tudo a ver com a pergunta de Ana: Javé não disse 'olha, procurem vocês entre os judeus, como ele fazia antes, entre os arianos'; agora foi: 'vejam nos alunos, nas pessoas que estão estudando esses assuntos, o que é que vocês podem'"; "nós da Revelação Cósmica somos a base mais atual do que um dia foram os escolhidos de Javé, para isso ou para aquilo"; "nesse sentido, a resposta é afirmativa à pergunta de Ana".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17091,6 +17116,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Destino das Mônadas após o Tikun**.
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] O destino das mônadas após o Tikun (Pergunta 4 — José Val Filho):** "essa pergunta ela é tecnicamente muito profunda... se refere a painéis da espiritualidade e da consciência espiritual que ninguém na Terra tem estatura moral para falar disso com alguma pretensão de saber do que está falando, e eu me incluo entre estes que não têm essa estatura moral"; "é importante que vocês não tomem a resposta que eu vou ofertar como sendo uma verdade estabelecida, um assunto concluído... isso está em aberto; só as gerações futuras da humanidade poderão discernir isso com mais propriedade"; "frente ao que hoje se tem como sendo o material disponível para se informar a respeito disso... eu termino lidando com questões que têm a ver com não só as entrelinhas, mas a literalidade da pergunta feita" — a resposta oferecida não conclui: fica em aberto (mônadas absorvidas pela deidade × paraíso incriado).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17131,6 +17161,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Etimologia / Grafias
 - Forma preferida: **Humanos: Últimos e Primeiros**.
+
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] Humanos: últimos e primeiros (Pergunta 4 — José Val):** "nesses 13,8 bilhões de anos os primeiros que surgiram se ferraram; depois os que surgiram se ferraram; os que foram surgindo foram se ferrando menos; os mais recentes já foram bem menos ferrados pelo destino do que os para trás"; "quem nasce por último nesse universo termina sendo o menos doente, o menos estúpido, o menos cretino, o menos demente, mas o menos poderoso"; "essa história de 'os últimos serão primeiros', se a gente entender no âmbito dessa metáfora... os humanos foram os últimos a nascer nesses 13,8 bilhões de anos"; "se nós os humanos somos os últimos, mas pegando carona no que Jesus falou, nós somos os primeiros seres capazes ou com capacidade de realizar o Tikun, o reparo tanto na obra quanto no concerto; o resto para trás não serve para nada ou serve para atrapalhar os humanos"; "nós humanos somos os últimos a surgir e somos os primeiros a ter grandeza de alma para entender o tamanho da merda na qual a gente tá metido"; "nós somos os últimos e os únicos ou primeiros a ter condição espiritual de lidar com a matéria apodrecida chamada caos"; "nós conseguimos sorrir da própria desgraça... nós conseguimos sonhar, imaginar"; "o eu humano esclarecido é uma coisa nova, é uma coisa última a surgir"; "nós humanos podemos e devemos, por nós mesmos, decidir o que fazer".
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -17202,6 +17237,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 - **[P2024-08-03] Os portais de Ifá (U0540–U0543):** "a doutrina dos orixás, a famosa revelação dos corpos de Ifá, que mostra a união que era possível existir entre a comunidade que vivia em Orum e a que vivia no Aiê"; "quando você vinha do mundo invisível pro mundo visível, você passava por um riacho e tinha Exu, portal de uma certa encruzilhada entre mundos"; "há diversos tipos de encruzilhadas... tá descrito no corpo de Ifá, os tais portais".
 - **[P2024-08-03] Espíritos de árvores (U1061–U1065):** "a revelação de Ifá descreve até mesmo o trânsito de espíritos de árvores que migravam do Orum para o Aiê e nasciam ainda como árvores por aqui, seguindo as suas rondas existenciais, conforme Blavatsky... e o que viria a ser a teosofia"; Camille Flammarion e Léon Denis (amigos de Kardec) registraram espíritos que viveram em árvores; a comparação com os Ents do Senhor dos Anéis.
 - **[P2024-08-03] Exu e o aché (U1528–U1531):** "o ser humano é produto de uma série de encruzilhadas de Exu"; "Exu seria o cara que realizou o aché, que transformou alguém do inconsciente pro consciente, mas aconselhado por Orunmilá".
+
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] A Revelação de Ifá e a destinação dos seres (Pergunta 5 — Adilson):** "a revelação de Ifá e a destinação dos seres é o assunto número um da espiritualidade... a revelação de Ifá é a maior revelação que existe, só que nós desconhecemos"; "isso foi meio que perdido também na noite dos tempos: a cultura iorubá surgiu lá na Arábia Saudita, desceu para a África, terminou vindo para cá no Brasil, e isso foi transformado em Umbanda, Candomblé"; palestra "A Revelação de Ifá e a Destinação dos Seres" em 29/11 (Rio de Janeiro) — o autor prevê lançar o livro sobre o tema ("eu não sei se nessa vida eu fico só fazendo palestras").
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -17277,6 +17317,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[P2024-07-14] A revisão permanente (U0820–U0830):** "cada momento histórico daqui pra frente vai rever os pontos da revelação cósmica, vai ajeitar alguns, acrescentar outros. E isso não é só aqui na Terra: são em todos os níveis dessa criação, inclusive no paraíso"; "a lógica humana vai ter que ser estabelecida inclusive no paraíso, para que a turma de lá possa compreender"; "no meio da [podridão] surgiu a lógica... ela hoje é compreendida como sendo o software mais sofisticado e complexo de todos os softwares que existem inoculados em padrões de espécies, de seres, inclusive e 100% perfeito".
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] A atualização das revelações anteriores (Pergunta 1):** "a revelação cósmica está, entre aspas, revendo todos esses itens sem afirmar nada, apenas mostrando: ó, tem coisas estranhas em todos, ou é necessário atualizar todo esse conhecimento para que a gente possa entender"; "de Enoque a Kardec passando por tudo que tá no meio — catolicismo, cristianismo"; "a revelação cósmica é uma revelação chata, por quê? Porque ela não aplaude nada do que foi feito, ainda que resgata todo esse conhecimento e mostra os pontos fortes e fracos e o que precisa ser repensado e atualizado"; o percurso resgatado: Enoque (obras), jainismo/Tirthankaras, Capila/Sidarta Gautama (budismo)/Mahavira (último Tirthankara), Sutras de Yoga de Patanjali/Mentalma, Orunmilá (Ifá → orixás), Cabala (Shimon bar Yochai/Zohar, retomada nos séculos XII–XIII), Maomé (114 suratas → Islã), catolicismo/cristianismo, Kardec (revelação espírita; releitura do Livro dos Espíritos), cultura grega (educação helênica: trívio e quadrívio; a Igreja Católica acabou com essa educação), Vyasa (4 Vedas, Mahabharata).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17317,6 +17362,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Etimologia / Grafias
 - Forma preferida: **Verdade Posta × Verdade a Construir**.
+
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] Verdade posta × verdade a construir (Pergunta 1):** "as informações de outros níveis elas não são, entre aspas, a verdade que a gente tanto busca... isso é mera fofoca cósmica, é um circuito permanente em que a troca de informações entre diversos rincões acontece de forma perene, porém não quer dizer que uns rincões saibam mais do que outros"; "nós humanos somos formidáveis em termos de capacidades mentais e psíquicas... o nosso problema é que nós continuamos sendo sacaneados por todo um contexto de uma geopolítica cósmica"; "tudo isso foi transformado em questão de fé, em questão de crença, e não de apreço pela verdade ou de busca decente pela verdade"; "a revelação cósmica, quando vai apresentar alguma coisa nova, diz: 'a gente não sabe se isso é verdade, tem que ser colecionado como incerteza'... os fatos é que vão falar por si mesmos"; "não é questão de fé ou de crença, é de interpretar os fatos, os eventos"; "a gente tá só descortinando o tamanho da merda... ainda não é a verdade, é o tamanho do engodo que nós vivemos".
 
 ## Fontes
 | Fonte | Localização | Tipo |

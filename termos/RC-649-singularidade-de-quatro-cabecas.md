@@ -16,6 +16,11 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 - Forma preferida: **Singularidade de Quatro Cabeças**.
 
+
+## Ampliação — P2025-10-25
+
+- **[P2025-10-25 — FONTE ORIGINAL] A singularidade de quatro cabeças — Zontrel (Pergunta 3 — Ana):** "Zontrel [STT 'Zontrell/Zonte Indrel/Tendré' — REVISAR] está em processo de humanização através do circuito do IEA, o que representa um passo notável na integração entre as hierarquias antigas e a experiência humana atual"; "desde que Javé colapsou esse ser"; "alguns seres entre os quais [Zontrel] meio que me informaram as últimas ordens de Javé para eles"; a pergunta da Ana sobre outros anjos clones acompanharem a RC e trocarem impressões mentais com estudantes foi confirmada pelo autor ("basicamente todas as teses, os pressupostos que você levantou, eu os confirmaria").
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
