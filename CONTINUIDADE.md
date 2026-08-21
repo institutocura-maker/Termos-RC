@@ -31,6 +31,7 @@
 - **Retidas sem ficha (padrão):** ampliações de RC-064 (Fenvans), RC-093 (Radiatas), RC-035 (Bilatérios), RC-154 (Nidana), RC-186 (Biodemol), RC-135 (Vishnu) → Colecionar Incertezas; aguardam autorização de materialização;
 - **Colecionar Incertezas (novos):** grafia "Awayem" × "Awayen" [REVISAR]; datas Shiva ~12,17 bi anos / Vishnu ~4,1 bi anos / bilatério ~4 bi anos [REVISAR — conferir B050]; "desconstituição Adhydaiva de Vishnu em 2016"; "Frankstein" [sic]; Sai Baba edificado a partir do que veio de Krishna;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+- **Apostila padrão TOP gerada** a partir do artigo (3 PARTES — Awayen/Awaylengan/Awaymaion — com prefácios, capítulos e epílogos; 9 notas do editor; glossário A–D; DOCX) e **pasta transferida para `apostilas/CONCLUIDAS/2025-08-01_fornos_replicadores/`** (30 apostilas em CONCLUIDAS).
 
 ## Curadoria P2021-12-04 — Os Archeons de Ereon e os Seres Adhy
 
