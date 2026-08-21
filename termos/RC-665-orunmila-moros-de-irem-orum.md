@@ -21,6 +21,11 @@ Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
 
 - **P2026-07-25:** "a revelação de Ifá e Orunmilá — o coqueiro que existiu em Orum": um pé de coqueiro surgiu primeiro em Orum/Irém (universo vizinho), ser vivo, sofisticando-se até produzir o coco — transferido para este universo (coco verde).
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Orunmilá = Moros de Irém (pergunta 8):** "quando essa tradição de Orunmilá surgiu... Orunmilá significa Moros; Orum era Irém, é o nome do universo de lá; então Orunmilá era Moros de Irém"; "Javé estava com fome porque Krishna havia roubado o alimento dos deuses; e Moros apareceu... Obatalá, que é o Javé caído reconstruído, pediu: 'Rapaz, me arranje comida'"; "ele não pegou três Nornes não, ele pegou 16"; "os 16 Odus que terminaram criando os 256 caminhos profetizados"; "quando Orunmilá criou os 16 Odus é porque ele estava atualizando a Ifá com os códigos da humanidade, que o big data do criador... Moros se assentou dessas informações para, entre aspas, atualizar a Wyrd com as informações dos humanos; e a Wyrd passou a ser Ifá no sentido de nomenclatura"; "nada disso foi feito com preocupação pedagógica ou de justiça"; "os espíritos terminam recolhendo os efeitos dessa simples ordenação: o que sai de um ser volta para ele — e isso foi sendo transformado na cultura do dharma, do karma, do varna" [quarentena teológica — leitura do autor].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

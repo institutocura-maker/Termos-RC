@@ -50,6 +50,11 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[ART-2025-08-02/03 — material do curador] Olm e o Éon (ART-02 Gloss.; ART-03 Cap. 2):** "o Quarto Logos (Olm/Codificador de Zion) surgiu do forno de Awaymaion há aproximadamente 6 a 7 bilhões de anos e passou a assessorar Sophia" [REVISAR — conferir B050]; "diferente dos três primeiros, Olm não mergulhou no universo antimaterial e conseguiu criar um 'DNA' ou CFD próprio, livre da programação existencial gerada pelo Primeiro Logos"; "a função primordial do Quarto Logos é prover o 'conhecimento esclarecido', ofertando a 'pílula vermelha' para despertar a 'compreensão adulta', e coordenar uma 'inovação de ruptura'; a lógica crítica e o tirocínio da natureza humana são a 'chave' para a abertura da mente de 'todos os modos de pensar desta Criação'"; "Sophia assume o controle da 'Gestão Universal', atuando como 'Coagente' do Quarto Logos, que será o novo tutor e mentor universal".
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Olm e a vida biológica (pergunta 5):** "o quarto logos só mergulhou quando a vida biológica surgiu"; "o quarto logos só começou, entre aspas, a operar depois que a vida biológica surgiu, depois do plano de [Morphia? REVISAR — STT] junto com Sophia"; "o quarto logos muitas vezes pode atuar como essa mão invisível [que o grupo comenta]" [contexto do grupo; a resposta do autor não confirma a participação na Áurea Catena].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

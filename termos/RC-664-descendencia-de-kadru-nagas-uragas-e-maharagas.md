@@ -89,6 +89,11 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 
 - **Serpentes teriantrópicas (P2024-09-29):** "os dois dragões aquáticos, ou seja, serpentes teriantrópicas — que a gente falou ontem — parte alguma coisa e parte humana" (ligação com P2024-09-28); o imperador Yu como filho dos dragões do Yangtzé/Amarelo.
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] A descendência de Kadru (pergunta 6):** "a descendência de Kadru, ou seja, os Nagas e Uragas e o conselho dos Maharagas e outras ramificações dos chamados Tirthankaras, esse conjunto de seres é que tem a ver com toda essa questão de acidentes ou incidentes que foram ocorrendo e que terminaram produzindo a humanidade"; "o quarto logos não tem muito a ver com isso; ele participou disso numa concepção muito teórica de reunião de espíritos fora do âmbito dessa criação".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

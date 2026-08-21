@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **33 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `ffe4611` (ciclo P2022-12-17 concluído)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **34 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — ciclo P2025-06-26 Estagiários do Kaos 1ª Ed.)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -33,6 +33,17 @@
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Curadoria P2025-06-26 — 1ª Edição — Estagiários do Kaos (LIVE)
+
+- **RE-CURADORIA com a FONTE ORIGINAL** (P2025-06-26 — 135 unidades; 19.226 palavras; live de ~2h com Jan Val Ellam, mediação de Denise; grupo "Estagiários do Caos"): a live que gerou a faixa **RC-658–RC-666 (9 termos)**; auditoria integral da faixa + adjacentes contra o STT;
+- devolutiva oficial do curador registrada em 2026-08-21 (**O-1 a O-7 APROVADOS**; zero códigos novos — RC-778 preservado; base blindada em 777 termos);
+- **10 fichas ampliadas** (bloco O-2): RC-658 **Wyrd/Urd** (mecânica: processadores Urd/Verdandi/Skuld; Moros sumiu com a Wyrd; "não é justiça divina, é padrão organizacional"; "o que sai de um ser volta para ele"); RC-659 **Quirino Cornélio** (relato biográfico do centurião — reunião espírita 1987/88; "em nome daquele que você crucificou"); RC-660 **Pegadinha de Javé** (profecias da Torá "nenhuma vírgula pode ser mudada"; "Jesus não existia antes, só Sophia"); RC-661 **Seres Desalmados** (clones primeiros; Brahma/Vishnu/Shiva geraram seres sem alma); RC-663 **Áurea Catena** ("pontinhos luminosos em pleno caos"); RC-664 **Descendência de Kadru** (Nagas/Uragas/Maharagas + Tirthankaras); RC-665 **Orunmilá = Moros de Irém** (16 Odus → 256 caminhos; Ifá = Wyrd atualizada); RC-666 **Obatalá = Javé caído** (Ifá × Islã); RC-081 **Mohen So** (quarta cabeça; Eros→Nix→Moros/Tânatos/Hipnos; fenvans/Bur/Odin/Yggdrasil); RC-092 **Olm** (só operou após a vida biológica);
+- **apostila integral em formato LIVE (19.757 palavras; ~19.315 de transcrição editada):** **10 perguntas da plateia/grupo ENTREMEADAS e isoladas em seções próprias** (Simone Piemonte e Tânia; Cibell; João Maia; Adilson; Denise; Renata Prado); 13 notas do editor; glossário local A–D; DOCX em CONCLUIDAS;
+- **Retidos sem ficha:** nenhum (todos os alvos tinham ficha física);
+- **Colecionar Incertezas (novos):** "Decreto de caos" bloqueando o espírito que anima Ellam (sobre Nix); "A quebra do espelho cósmico" (livro inédito sobre Odin — [REVISAR: obra?]); "Prema Sai" [REVISAR]; "o plano de Morphia" [REVISAR — STT]; "a quarta cabeça de Mohen So passou os arquivos (nem o espírito nem a condição humana conseguem processar)"; "Moros = deus do destino"; "a Wyrd/Ifá não é justiça divina"; "Sai Baba morreu humilhado (Krishna e Brahma se vingaram)"; "Krishna roubou todos os templos de Brahma"; "o autor não considera os livros/palestras como legado seu"; "tocha de Hécate"; "abaiã" [REVISAR — aparigraha?];
+- **Obras:** nenhuma obra nova (Drosnin/Satinover = referências externas; "A quebra do espelho cósmico" = inédita → Colecionar Incertezas);
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado (push do ciclo).
 
 ## Curadoria P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo
 

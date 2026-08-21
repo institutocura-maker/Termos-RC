@@ -32,11 +32,11 @@
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
-# termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 6568 | 86 | 9ea11ba5e393f39ab26f7b400037f8565cb9f9b90e751194f701374c2999ed91
+# termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 8199 | 91 | 044e137fa8ea089f19031a9e834b47ff10a82427fcf11133567a6cd55205fc55
 # termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
 # termos/RC-091-projeto-talm.md | 9428 | 91 | ebf32941573852dc88cdd44b35103b37dd5db558631743060dcd7a666f4b2f3f
-# termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 11901 | 121 | d916695385912dd9adeaadc08a054da8d9813834d6eca78f0e25e2f8ea73b88e
+# termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 12409 | 126 | 47c7812e093eda181248688c6fec7330dd0cd0fbe21a64d3ee76f8a631a4f32d
 # termos/RC-094-revelacao-cosmica-conceito.md | 7395 | 79 | 5032afdfa5b46599f4c7c2ade30f6c15e4199c73c0ea4eace3cd2adff6338127
 # termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
 # termos/RC-104-trimurti.md | 9208 | 96 | 3acf9520ac2c834508a474e74da5114f2f92bb0241727d833428e75fd165e813
@@ -316,15 +316,15 @@
 # termos/RC-655-revelacao-de-ifa-e-destinacao-dos-seres.md | 6346 | 89 | c4891fbbd1cab73fd063c8c8f0ccdffd6e442dfcd855b801917ff89042e3f0ca
 # termos/RC-656-atualizacao-das-revelacoes-anteriores.md | 1739 | 44 | 943cba5fbcf0ff84270c3a0ca954ee796cc6c5023a9c5059665b504c6b2dc518
 # termos/RC-657-verdade-posta-×-verdade-a-construir.md | 1380 | 43 | a059cd5e983d8be6f9c801122110d8b3b77603af21efd937afcc66a608c88a7a
-# termos/RC-658-wyrd-urd-teia-do-destino.md | 7528 | 112 | bf68a3b66fd2cd2c04595dbfba2f9a5020ce5c891cdbc38d3ad2a9bb2409ac22
-# termos/RC-659-quirino-cornelio-centuriao-da-crucificacao.md | 1362 | 43 | ba7027a31ee172ed2f224efd7af25f029b95dd71282726e9a591894c496c94b6
-# termos/RC-660-pegadinha-de-jave.md | 1002 | 39 | cd53c3af98bf43f60a98dd39541d4b3c970f81efd1136e8001b5908bd7ba50c9
-# termos/RC-661-seres-desalmados.md | 970 | 38 | 3bff0eb500cdc6393248f8fb3ad6b50a1960675f58d4e7bf43aa5fb145199147
+# termos/RC-658-wyrd-urd-teia-do-destino.md | 9549 | 117 | 916e50a473c39faf7aa64e938097b37e584c2845297d2b262f6ef4e2893bb22d
+# termos/RC-659-quirino-cornelio-centuriao-da-crucificacao.md | 2396 | 48 | 92e9a456993ba845f132a32f6a5967973863214dc1bd9cc5c6a8c3913a193e91
+# termos/RC-660-pegadinha-de-jave.md | 2383 | 44 | b050bd0b795cfbae58fc770f7d448bb71beb846a79165d2924ea54845c3dee0e
+# termos/RC-661-seres-desalmados.md | 2172 | 43 | 23d0a137fb053c8510b1fcb27487ef629891d8ab28b528c4a615c576d24010c5
 # termos/RC-662-agenda-do-desespero-dos-espiritos.md | 1036 | 39 | 8021ac8eb975080d02df764a50996c6dbd5ea81006b171ea6fc7928b730e156f
-# termos/RC-663-aurea-catena.md | 931 | 38 | 58a7cc3629b73b0b7b218cef4862b2ec02c16a5ed52f81c70f08038d2250698b
-# termos/RC-664-descendencia-de-kadru-nagas-uragas-e-maharagas.md | 6342 | 124 | 7d6b31e04afa849a74fb61434e8e9c87106bc953f97f322b4cb814a595e60070
-# termos/RC-665-orunmila-moros-de-irem-orum.md | 3350 | 69 | 8fa6ef79a4dddf3a1965b6beb66fcbe42af77f17d4b66a01ac651f58abad35be
-# termos/RC-666-obatala-correspondencia-de-jave-em-ifa.md | 2464 | 55 | 9cefdd62ad5e1e2f0870c96125cbb82896ee651acc2cad5c082720d46979c503
+# termos/RC-663-aurea-catena.md | 1636 | 43 | bf0c43232d20a4c82ada2752859f22d055b70b40be3f1fe981b410efa86624ab
+# termos/RC-664-descendencia-de-kadru-nagas-uragas-e-maharagas.md | 6899 | 129 | 0a36b4cec84c3e3480cdff69cb3395c1c0e1dc4e34521b2a2ed73397a20be2fb
+# termos/RC-665-orunmila-moros-de-irem-orum.md | 4515 | 74 | 1afcd49a14d8e2313440dc177d18067dadd2aaf4c60c80d06a371b3d0590ec45
+# termos/RC-666-obatala-correspondencia-de-jave-em-ifa.md | 3001 | 60 | ba43de79bd45f956fd2ab57da8d176d5eab3293b7180736465306be9ac73333f
 # termos/RC-667-autofagia-do-criador.md | 524 | 30 | d97c5600deb65291fb39b6f907f76d9283921e0df5d305a40e75a436a1307da8
 # termos/RC-668-som-da-flauta-som-da-falta.md | 786 | 34 | 56fd08aab342174990bdb9a294bc6e791c06a3a558a84211989b362f3f39a8ee
 # termos/RC-669-pashupati-avatar-de-shiva.md | 1573 | 43 | 06b2facc0de373298c87a4ea1670fe8c097200b14d8bed098849ee41a1bc1547
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1381936 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1392677 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -2055,6 +2055,11 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 
 - **[ART-2025-08-02/03 — material do curador] Mohen So em detalhe (ART-02; ART-03 Cap. 1–3):** "Mohen So, o 'Desperto, o Único a saber, o Conhecedor', foi o principal arquiteto e operacionalizador do Projeto TALM"; "foi concebido com uma 'quarta cabeça' ou processador cerebral livre de travas de controle mental, um protótipo do que viria a ser o cérebro humano — concedendo-lhe um senso crítico superior ao de seu próprio criador"; "diante da falência da replicação demo no universo antimaterial, recomendou sua interrupção e concebeu o universo material como 'laboratório cósmico' e 'farmácia' para gerar 'medicamentos genéticos' e 'seres não bichados'"; "desenvolvedor extremado da nanotecnologia prânica (RC-773) e do PEP (RC-774)"; "construiu o Éon das Três Esferas (RC-775) com a Trimúrti — 'ironicamente, a chave de acesso tornou-se exclusiva dele'"; "instituiu tentativas de unir Fenvans em duplas e tríades, forçando-os a uma só forma existencial (combinações 'loucas', essenciais para explorar possibilidades)"; "a 'loka dos fenvans' e o satélite-laboratório eram seus centros de experimentação".
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Mohen So e a quarta cabeça (pergunta 5):** "Mohen So escaneou a mente, a sua própria mente, e passou, disponibilizou isso pro espírito que me anime, para minha condição humana — isso é um fato"; "não foi o espírito de Moros que estava por trás da quarta cabeça, não é bem assim"; "a partir de um certo momento terminou o ser chamado Moros trabalhando discretamente com Mohen So quando as três pessoas da Trimurti relaxaram e se acostumaram com a presença de Mohen So; mas antes da criação de Mohen So era impensável para o ser chamado [Moros] voltar a ter contato com os três"; "via Mohen So é que Moros e Mohen So discretamente geraram e produziram a ideia de ainda tentar algo no universo vizinho — foi quando os Fenvans começaram a ser criados e Bur, Odin e Yggdrasil, toda aquela história, foi meio ainda uma tentativa de última hora"; "Mohen So é que é a figura genial do processo... quase tudo que hoje nós existimos veio da cabeça de Mohen So: os códigos originais de toda a alquimia da vida que hoje a gente vê em Iron [nosso universo], essa coisa chamada vida biológica"; "Eros gerou Nix e Érebo, e essas duas figuras, em especial Nix, produziram uma série de outros seres entre os quais Moros, Tânatos, Hipnos"; "Mohen So foi criado sem nenhum bloqueio, sem nenhuma trava ou lacre"; "quando ele se desconstituiu, o que ele passou pro espírito que me anime... até hoje fica pululando, mas nem o espírito nem a minha condição humana conseguem processar muita coisa" [relato pessoal — quarentena biográfica].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -2366,6 +2371,11 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 ## Ampliação — P2025-08-02
 
 - **[ART-2025-08-02/03 — material do curador] Olm e o Éon (ART-02 Gloss.; ART-03 Cap. 2):** "o Quarto Logos (Olm/Codificador de Zion) surgiu do forno de Awaymaion há aproximadamente 6 a 7 bilhões de anos e passou a assessorar Sophia" [REVISAR — conferir B050]; "diferente dos três primeiros, Olm não mergulhou no universo antimaterial e conseguiu criar um 'DNA' ou CFD próprio, livre da programação existencial gerada pelo Primeiro Logos"; "a função primordial do Quarto Logos é prover o 'conhecimento esclarecido', ofertando a 'pílula vermelha' para despertar a 'compreensão adulta', e coordenar uma 'inovação de ruptura'; a lógica crítica e o tirocínio da natureza humana são a 'chave' para a abertura da mente de 'todos os modos de pensar desta Criação'"; "Sophia assume o controle da 'Gestão Universal', atuando como 'Coagente' do Quarto Logos, que será o novo tutor e mentor universal".
+
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Olm e a vida biológica (pergunta 5):** "o quarto logos só mergulhou quando a vida biológica surgiu"; "o quarto logos só começou, entre aspas, a operar depois que a vida biológica surgiu, depois do plano de [Morphia? REVISAR — STT] junto com Sophia"; "o quarto logos muitas vezes pode atuar como essa mão invisível [que o grupo comenta]" [contexto do grupo; a resposta do autor não confirma a participação na Áurea Catena].
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -17395,6 +17405,11 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **O algoritmo puramente organizacional (P2024-11-30 — destaque M-2):** "Morus criou um algoritmo extremamente simples que fez com que a informação que saísse de um ser voltasse para esse mesmo ser, como maneira de organizar um possível progresso para cada um dos seres, senão não haveria base de progresso nenhum".
 - **Fora da jurisdição da Trimurti e de Krishna:** "os três [Caos/Tártara/Eros] estavam submetidos a um processo de destino que foi formulado pelo [Moros], e só ele poderia refazer aquilo"; "aão foi horrível em cima de Moros" (a ira dos três); a Wyrd opera "totalmente fora da jurisdição da Trimurti e de Krishna" (ausência de "justiça divina" — ver RC-559/RC-720).
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL — 1ª Edição Estagiários do Kaos] A mecânica da Wyrd/Urd (perguntas 8–9 da plateia):** "a Wyrd atua como mecanismo de retorno repetição e reorganização até que haja lucidez"; "cada ser carrega em seu DNA um programa vibracional que atende aos requisitos da inevitabilidade do retorno da Wyrd, ou seja, delimita o campo de atuação dos padrões que precisam retornar ao ponto de origem"; "não somos apenas o resultado da nossa história pessoal, mas o acúmulo de camadas ancestrais que não foram reorganizadas e seguem gerando ciclos de repetição e desdobramentos cármicos"; "Urd é a base da organização de tudo que é informação"; "Moros foi sendo transformado no deus do destino só porque ele tava explicando que haveria um destino a ser cumprido devido às pendências registradas em Urd"; "Moros sumiu com a Wyrd, criou uma loka cheia de mistérios, empurrou a Wyrd lá dentro e deixou as três Nornes como referências pros seres"; "os seres até hoje... sempre foi encontrar a Wyrd para destruí-la e ferrar com Moros"; "quando a vida biológica atingiu uma massa crítica de pulsação... as informações desse universo ficavam carentes de um polo aglutinador e foi quando a Wyrd começou a estranhamente servir de base para essa questão"; "a velha Wyrd ou a velha Ifá pulsando mas sem determinar nada, a não ser o destino que precisa ser cumprido devido aos acúmulos e pendências do passado"; "a velha regra da Wyrd é a única coisa que funciona para além do paraíso em termos do caos onde a gente vive"; "isso não é decente, isso não é bonito, isso não é ético; é simplesmente um padrão organizacional, um conjunto de algoritmos e de protocolos gerados para organizar o caos, mas não é para resolver o problema do caos"; "o que sai da mente de um ser volta para ele"; "a Wyrd reorganiza mas não pune" — **o desmonte da ideia de "justiça divina"** [quarentena teológica — leitura do autor].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17467,6 +17482,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 Forma preferida: **Quirino Cornélio (Centurião da Crucificação)**.
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] O relato do centurião (pergunta 3):** "essa coisa de o espírito que me anima na época de Jesus ter sido centurião que o crucificou"; relato pessoal: "numa determinada reunião espírita nos anos 1987, 88, um espírito incorporou num determinado médium... esse espírito disse: 'Ó, você precisa fazer tudo isso que nós estamos pedindo em nome daquele que você crucificou'"; "os próprios espíritos tiveram que jogar pesado nesses termos para tentar sensibilizar em mim... gerar em mim sentimentos de culpa e de responsabilidade"; "não veio só a notícia, eles mexeram nos centros memoriais e abriu-se a memória... aquilo me fez ver quão inútil foi o sofrimento daquele cara, quão estúpido foi o sofrimento daquele cara"; "foi em 1988; eu me defrontei com Javé discretamente ao longo dos anos 2003, 4, 5, 6; aí a partir de 2007 foi descarado" — **RELATO BIOGRÁFICO/PESSOAL do autor, jamais fato histórico validado** [quarentena biográfica].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17512,6 +17532,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 Forma preferida: **Pegadinha de Javé**.
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] A pegadinha de Javé em detalhe (pergunta 3):** "Javé pontuou através das profecias e nas escrituras judaicas absolutamente tudo o que foi profetizado, nenhuma vírgula pode ser mudada"; "na hora em que o nosso amigo Javé encheu o mundo e os judeus de profecias era para forçar a quando tal homem Jesus nascesse ele cumprir literalmente aquilo ali"; "essa ordem veio no genoma de Sophia que foi inseminada em Maria"; "Jesus não existia antes disso; quem existia era Sophia"; "não pensem que Javé sabia que Jesus não iria obedecê-lo; Javé achava que ele iria obedecê-lo"; "Javé como sempre sofria ardis de Shiva e Vishnu, ele ficou desconfiado o tempo inteiro se o tal Messias não [seria] mais um ardil — que é o que no final ele acusou Vishnu e Shiva de terem feito esse ardil; até o coitado do Sophia entrou na cota... Sophia não recebeu o manto da suzerania porque Javé disse: 'Você me sacaneou, você fez parte desse ardil'"; "é pegadinha atrás de pegadinha"; "o espírito que me anima foi obrigado a cair nessas pegadinhas e inclusive nessa presente vida em que eu represento como face humana desse processo"; referência externa: os livros de Michael Drosnin ("A verdade por trás do código da Bíblia") e Jeffrey Satinover sobre a Torá [referências externas, não ontológicas].
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17552,6 +17577,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Etimologia / Grafias
 Forma preferida: **Seres Desalmados**.
+
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Seres desalmados além de Javé (pergunta 1 — Simone Piemonte e Tânia):** "existem outros seres desalmados nesta criação além de Javé"; "no início desse processo nem tudo pode ser trabalhado nesses termos"; "no livro Drama Espiritual de Javé eu falo de alguns clones, os primeiros criados, que tiveram problemas seríssimos nesse sentido"; "quando já Brahma, Vishnu e Shiva funcionando como três seres caídos e mergulhados dentro da criação geraram durante uma fase seres para os quais a espiritualidade exterior jamais conseguiu estruturar almas para esses seres, e eles ficaram parecidos com a situação do próprio Javé ou Brahma reconstruído sem alma; e parte disso sobreviveu e sobrevive até os tempos atuais"; "são seres antigos com esse problema; os seres mais novos não teriam mais esse tipo de problema devido aos espíritos simples e ignorantes que foram gerados e continuam sendo para, entre aspas, poder estruturar tudo que é espiritual"; "não há nenhuma função em existir alguém sem alma... isso não significa nada positivo"; "nós não temos como perceber se um humano é um ser sem alma".
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -17633,6 +17663,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 
 ## Etimologia / Grafias
 Forma preferida: **Áurea Catena**.
+
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] A definição da Áurea Catena (pergunta 6):** "a áurea catena é quando você olha para o fundo do poço, vê só escuridão e dejetos, e de repente você vê 1, 2, 3, 4, 5 pontinhos luminosos como se formando uma corrente em pleno caos conseguindo acender a luz lá dentro, no meio de dejetos"; "a missão da revelação cósmica do Mentalma como uma disciplina da personalidade humana para aprender a acender a sua própria luz e outras questões têm a ver com isso"; "cada um de nós aprender a acender a sua própria luz, por menor que seja; mas cada um de nós tem luz própria, basta que a gente saiba disso" (encerramento).
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -17747,6 +17782,11 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 
 - **Serpentes teriantrópicas (P2024-09-29):** "os dois dragões aquáticos, ou seja, serpentes teriantrópicas — que a gente falou ontem — parte alguma coisa e parte humana" (ligação com P2024-09-28); o imperador Yu como filho dos dragões do Yangtzé/Amarelo.
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] A descendência de Kadru (pergunta 6):** "a descendência de Kadru, ou seja, os Nagas e Uragas e o conselho dos Maharagas e outras ramificações dos chamados Tirthankaras, esse conjunto de seres é que tem a ver com toda essa questão de acidentes ou incidentes que foram ocorrendo e que terminaram produzindo a humanidade"; "o quarto logos não tem muito a ver com isso; ele participou disso numa concepção muito teórica de reunião de espíritos fora do âmbito dessa criação".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -17804,6 +17844,11 @@ Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
 ## Ampliação — P2026-07-25
 
 - **P2026-07-25:** "a revelação de Ifá e Orunmilá — o coqueiro que existiu em Orum": um pé de coqueiro surgiu primeiro em Orum/Irém (universo vizinho), ser vivo, sofisticando-se até produzir o coco — transferido para este universo (coco verde).
+
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Orunmilá = Moros de Irém (pergunta 8):** "quando essa tradição de Orunmilá surgiu... Orunmilá significa Moros; Orum era Irém, é o nome do universo de lá; então Orunmilá era Moros de Irém"; "Javé estava com fome porque Krishna havia roubado o alimento dos deuses; e Moros apareceu... Obatalá, que é o Javé caído reconstruído, pediu: 'Rapaz, me arranje comida'"; "ele não pegou três Nornes não, ele pegou 16"; "os 16 Odus que terminaram criando os 256 caminhos profetizados"; "quando Orunmilá criou os 16 Odus é porque ele estava atualizando a Ifá com os códigos da humanidade, que o big data do criador... Moros se assentou dessas informações para, entre aspas, atualizar a Wyrd com as informações dos humanos; e a Wyrd passou a ser Ifá no sentido de nomenclatura"; "nada disso foi feito com preocupação pedagógica ou de justiça"; "os espíritos terminam recolhendo os efeitos dessa simples ordenação: o que sai de um ser volta para ele — e isso foi sendo transformado na cultura do dharma, do karma, do varna" [quarentena teológica — leitura do autor].
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -17875,6 +17920,11 @@ Forma preferida: **Obatalá (correspondência de Javé em Ifá)**.
 ## Ampliação — P2026-07-25
 
 - **Obatalá = Javé (P2026-07-25):** "Jafé ou Obatalá pediu a Orumilá para criar revelação de Ifá" (STT "Jafé/Jahé") — renovação do Ifá como contramedida à expansão de Krishna na África.
+
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] Obatalá = Javé caído (pergunta 8):** "Obatalá, que é o Javé caído reconstruído, pediu: 'Rapaz, me arranje comida'"; "se vocês lerem a Revelação de Ifá, vocês vão ver que Obatalá implorou a Orunmilá para ele fazer a revelação de Ifá, para ele produzir o ifismo; só que depois ele mudou de ideia, resolveu fazer o Islã, e por isso que Orunmilá largou a revelação de Ifá e ela se transformou em orixás"; "é uma história cheia de vai e vem".
 
 ## Fontes
 | Fonte | Localização | Tipo |

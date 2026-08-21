@@ -16,6 +16,11 @@ P2025-06-26 — 1ª Edição Estagiários do Kaos.
 ## Etimologia / Grafias
 Forma preferida: **Áurea Catena**.
 
+
+## Ampliação — P2025-06-26
+
+- **[P2025-06-26 — FONTE ORIGINAL] A definição da Áurea Catena (pergunta 6):** "a áurea catena é quando você olha para o fundo do poço, vê só escuridão e dejetos, e de repente você vê 1, 2, 3, 4, 5 pontinhos luminosos como se formando uma corrente em pleno caos conseguindo acender a luz lá dentro, no meio de dejetos"; "a missão da revelação cósmica do Mentalma como uma disciplina da personalidade humana para aprender a acender a sua própria luz e outras questões têm a ver com isso"; "cada um de nós aprender a acender a sua própria luz, por menor que seja; mas cada um de nós tem luz própria, basta que a gente saiba disso" (encerramento).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
