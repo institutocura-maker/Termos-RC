@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **82 obras (B001–B082)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `93fbefb` (antes do ciclo P2021-12-04; atualizado ao fim do ciclo).
+**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **82 obras (B001–B082)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `895ff33` (ciclo P2021-12-04 concluído).
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**
 - **3 novas apostilas temáticas** em `pedagogico/` (todas com DOCX gerado):
