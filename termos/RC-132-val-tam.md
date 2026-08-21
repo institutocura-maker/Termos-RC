@@ -23,6 +23,11 @@ Ser vinculado à Frota Norte e ao Conselho dos Cinco (RC-501); na leitura da RC,
 
 - **[ART-2025-08-01] Val Tam acoplada a Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen, a Central de Realidades de Brahma]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título 'Awayem' no ART; obra anunciada B083] — conexão inédita na base (ficha física materializada por Devolutiva O-2).
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02 — material do curador] Val Tam e o Processador Val (Glossário):** "há relatos de Val Tam, que desconfiou ter sido 'captado' pelo 'Processador Val' e buscava compreender o destino dos dados que passavam por sua mente, embora a origem e destinação exatas permanecessem um mistério" [REVISAR — leitura]; "as mensagens codificadas encontradas por Yel Lupon foram passadas para os biodemos de Alt' Lam Gron, que as armazenaram no 'Processador Val'".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

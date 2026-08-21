@@ -948,6 +948,12 @@ TERMOS = [
     ("RC-769", "Corpos Fenvã (terceira forma de vida do universo vizinho)", SER_EXT[0], SER_EXT[1], C, ['P2026-07-25'], 'RC-630; RC-475; RC-622; RC-696; RC-104; RC-768', True),
     ("RC-770", "Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes')", TEC_ESC[0], TEC_ESC[1], C, ['P2026-07-25'], 'RC-474; RC-482; RC-530; RC-579; RC-454; RC-658; RC-152; RC-072', True),
     ("RC-771", "Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion)", TEC_NAV[0], TEC_NAV[1], P, ['B061', 'P2021-12-04', 'P2024-05-04', 'ART-2025-08-01'], 'RC-091; RC-499; RC-132; RC-092; RC-064; RC-093; RC-035', True),
+    ("RC-772", "Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético')", SER_EXT[0], SER_EXT[1], P, ['ART-2025-08-03'], 'RC-773; RC-775; RC-091', True),
+    ("RC-773", "Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM)", TEC_NAV[0], TEC_NAV[1], P, ['ART-2025-08-03'], 'RC-091; RC-772; RC-774; RC-081', True),
+    ("RC-774", "PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos)", TEC_NAV[0], TEC_NAV[1], P, ['ART-2025-08-03'], 'RC-773; RC-154; RC-091; RC-081', True),
+    ("RC-775", "Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM)", LOK_REG[0], LOK_REG[1], P, ['ART-2025-08-03'], 'RC-091; RC-771; RC-081; RC-772; RC-454; RC-467; RC-064', True),
+    ("RC-776", "Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados)", LOK_REG[0], LOK_REG[1], P, ['ART-2025-08-03'], 'RC-064; RC-080; RC-154', True),
+    ("RC-777", "Anã (estudou as necessidades dos códigos podres, com Moros; base das Nornes) [REVISAR — grafia]", SER_EXT[0], SER_EXT[1], P, ['ART-2025-08-03'], 'RC-454; RC-467; RC-775', True),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)
@@ -2909,6 +2915,16 @@ RELACOES = [
     ('RC-771', 'relaciona-se-a', 'RC-035', 'ART-2025-08-01'),     # bilatérios (2 hemisférios)
     ('RC-500', 'erro-stt-de', 'RC-499', 'ART-2025-08-01'),        # Alamaior = STT de Awaymaion
     ('RC-092', 'origem-em', 'RC-499', 'ART-2025-08-01'),          # Olm surgiu no forno de Vishnu
+    ('RC-772', 'trabalha-em', 'RC-775', 'ART-2025-08-03'),          # Morlens no Éon das Três Esferas
+    ('RC-772', 'relaciona-se-a', 'RC-773', 'ART-2025-08-03'),      # ~ Nanotecnologia Prânica
+    ('RC-773', 'usada-em', 'RC-774', 'ART-2025-08-03'),            # PEP usa a nanotecnologia
+    ('RC-774', 'transfere', 'RC-154', 'ART-2025-08-03'),           # PEP transfere o nidana
+    ('RC-775', 'inclui', 'RC-771', 'ART-2025-08-03'),              # Éon inclui os fornos (esferas)
+    ('RC-775', 'relaciona-se-a', 'RC-454', 'ART-2025-08-03'),      # sequências de Moros
+    ('RC-775', 'relaciona-se-a', 'RC-467', 'ART-2025-08-03'),      # Nornes operacionalizam
+    ('RC-776', 'relaciona-se-a', 'RC-064', 'ART-2025-08-03'),      # fenvans aprisionados
+    ('RC-777', 'relaciona-se-a', 'RC-454', 'ART-2025-08-03'),      # Anã com Moros
+    ('RC-777', 'relaciona-se-a', 'RC-467', 'ART-2025-08-03'),      # Anã base das Nornes
 
 ]
 

@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **771 termos (`RC-001–RC-771`), 1.839 relações, 420 fichas físicas** (419 canônicas + RC-004 como investigação) · **84 obras (B001–B083 + ART-2025-08-01)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `e2cd2ca` (ciclo ART-2025-08-01 concluído + apostila padrão TOP).
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir ao fim do ciclo Trilogia TALM).
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**
 - **3 novas apostilas temáticas** em `pedagogico/` (todas com DOCX gerado):
@@ -16,6 +16,20 @@
 **Correção de engenharia (2026-08-18) — gerador/restaurador de pacotes:** auditoria revelou que o gerador de pacotes embutia **1 byte `\n` extra** por arquivo (join com quebra de linha após conteúdo já terminado em `\n`; e marcador FIM-ARQ colado ao conteúdo quando o arquivo não termina em `\n`, ex.: `original.txt` do podcast irmãos Dias). Correções aplicadas: (1) `gerar_pacotes.py` agora **concatena o corpo sem join**, embutindo conteúdo byte a byte; (2) `restaurar_pacotes.py` localiza `===FIM-ARQ:` por **busca binária direta** (não mais regex de início de linha), aponta para `reconstrucao/pacotes/` (checkpoint mais recente) e aceita caminhos como argumentos. Teste de ida-e-volta: **386/386 arquivos 100% fiéis (pacote == manifesto == workspace)**.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
+
+## Ciclo TRILOGIA DO PROJET TALM — Fornos (ART-2025-08-01) · TALM (ART-2025-08-02) · Fenvans (ART-2025-08-03)
+
+- **Integração aprovada na íntegra** (Devolutiva O-1 a O-8, 2026-08-21) — "a amarração desta Trilogia é o ponto alto da atuação do Sistematizador até aqui";
+- **6 CÓDIGOS NOVOS** (exceção à Navalha de Ockham autorizada — nós estruturais da epopeia): **RC-772 Morlens** · **RC-773 Nanotecnologia Prânica** · **RC-774 PEP (Pulso Eletromagnético Particularizado)** · **RC-775 Éon das Três Esferas** · **RC-776 Ginnungagap** · **RC-777 Anã** [REVISAR grafia] + 10 relações novas;
+- **Acrônimo expandido do TALM registrado pela 1ª vez:** "Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material" (RC-091);
+- **Fichas materializadas:** RC-064 (Fenvans — O-2), RC-165 (Karuna — O-7);
+- **15 fichas ampliadas:** RC-091, RC-064, RC-080, RC-081, RC-771, RC-092, RC-009, RC-001, RC-104, RC-454, RC-467, RC-132, RC-141, RC-089, RC-018, RC-161, RC-165 (via bloco ART-2025-08-02; RC-141/089/018 retidas por falta de ficha — Colecionar Incertezas);
+- **BIBLIO:** ART-2025-08-02 e ART-2025-08-03 registrados como obras complementares do curador (86 obras);
+- **Apostilas padrão TOP:** ART-01 (CONCLUIDAS desde ciclo anterior) + **ART-02 "Projeto TALM" (4 PARTES, 19.148 palavras)** + **ART-03 "Dossiê Fenvans" (3 PARTES, 21.463 palavras)** — DOCX gerados; **32 apostilas** em CONCLUIDAS;
+- **Guia da Trilogia TALM:** `pedagogico/GUIA-TRILOGIA-TALM.md` — mapa conceitual integrado (TALM→Nidana→Fornos→Éon→Nanotecnologia/PEP/Morlens→Ginnungagap→Moros/Anã/Nornes→Karuna) + linhas de força + quarentenas;
+- **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
+- **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
 
 ## Ciclo ART-2025-08-01 — Fornos Replicadores: Awayen, Awaylengan e Awaymaion (material do curador)
 

@@ -36,6 +36,11 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 
 - **[ART-2025-08-01] Mohen So e o Projeto Talm (Parte III):** "Mohen So, um avatar 'Keshava' de Vishnu, foi crucial para iniciar o 'Projeto Talm'. Ele foi concebido com menos 'lacres' genéticos que seus criadores, concedendo-lhe um senso crítico superior. Mohen So produziu os 'fenvans' (seres-cobaias com códigos genéticos demos modificados) e, a partir deles, gerou Sophia, sua contraparte no universo material".
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02/03 — material do curador] Mohen So em detalhe (ART-02; ART-03 Cap. 1–3):** "Mohen So, o 'Desperto, o Único a saber, o Conhecedor', foi o principal arquiteto e operacionalizador do Projeto TALM"; "foi concebido com uma 'quarta cabeça' ou processador cerebral livre de travas de controle mental, um protótipo do que viria a ser o cérebro humano — concedendo-lhe um senso crítico superior ao de seu próprio criador"; "diante da falência da replicação demo no universo antimaterial, recomendou sua interrupção e concebeu o universo material como 'laboratório cósmico' e 'farmácia' para gerar 'medicamentos genéticos' e 'seres não bichados'"; "desenvolvedor extremado da nanotecnologia prânica (RC-773) e do PEP (RC-774)"; "construiu o Éon das Três Esferas (RC-775) com a Trimúrti — 'ironicamente, a chave de acesso tornou-se exclusiva dele'"; "instituiu tentativas de unir Fenvans em duplas e tríades, forçando-os a uma só forma existencial (combinações 'loucas', essenciais para explorar possibilidades)"; "a 'loka dos fenvans' e o satélite-laboratório eram seus centros de experimentação".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

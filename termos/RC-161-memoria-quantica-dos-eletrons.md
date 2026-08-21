@@ -31,6 +31,11 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **A memória dos elétrons (P2024-11-09):** "quem descobriu isso foi Charon [STT — REVISAR], físico nuclear francês, que descobriu que as menores partículas dessa criação — o elétron — ele memoriza tudo"; o pernil/ovelha/rocha (memória eletrônica); "o elétron não morre nunca"; "nada se cria, nada se perde na natureza, mas tudo se transforma. O que é que se transforma aqui? A memória dos elétrons. Esses são os famosos registros acásicos".
 - **Corante/bacia:** "o nosso universo é uma bacia bem grande... cheio de um oceano de elétrons"; "do jeito que a água da bacia vai ficando toda azul devido a uma informação nova, quando qualquer nova informação é produzida aqui, instantaneamente ela chega".
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02 — material do curador] Elétrons e a Rebelião (Gloss. e Cap. 6):** "o elétron hospeda as informações desde o 'momento zero' da história do universo e é a base da Obra de Javé"; "a 'Rebelião dos Elétrons' é identificada como o 'único padrão modificador do Código de Vida Pessoal do Criador (CFDP)'"; "essa 'rebelião' começou com Yel Luzbel e foi estudada e apropriada pela família Val"; "através do trabalho e da 'limpeza' dos elétrons humanos, estes se unirão para formar a nova 'mente universal', o 'biocosmos emergente', que facilitará a recomposição literal da alma de Javé e a ressurreição de seu corpo mental superior".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

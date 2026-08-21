@@ -53,6 +53,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[ART-2025-08-01] A Trimurti e o Projeto Talm (Partes I–III):** "diante da falência da vida no universo antimaterial (Brahmaloka), com brigas de poder e guerras entre os 'demos', os 'Senhores da Trimurti' — Brahma/Javé, Vishnu e Shiva — idealizaram o 'Projeto Talm'"; "todos eles, em suas formas Adhydaiva, manifestavam essa 'doença' [do Criador]"; "os 'Senhores da Trimurti' emergiram envolvidos em uma constante 'contenda cósmica' (a 'Lila' hindu), disputando a autoria e a supremacia sobre a Obra"; a Trimurti construiu os três fornos replicadores (RC-771) para semear a vida biológica.
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

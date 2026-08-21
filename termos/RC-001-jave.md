@@ -42,6 +42,11 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **A vingança contra Faleg/Rochester (U0461–U0467):** "o espírito de Rochester... nasceria milênios depois como faraó do Egito, que Javé humilhou na época do êxodo dos hebreus, porque Javé tava se vingando do que Faleg tinha feito com ele" (U0467).
 - **O "big data" (U0404–U0405):** "foi quando eles criaram big data na época para sair pesquisando a assinatura de quanto de espírito... eles chamavam de consciência" [quarentena — metáfora computacional do autor].
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02 — material do curador] Javé no Glossário (ART-02):** "Javé: um Criador em convalescença — 'doença de impulso nervoso' que o levou a expelir um 'Projeto Mental' que resultou em uma 'Criação imperfeita'"; "o universo material é uma obra que Javé tentou reestruturar após sua 'queda', tornando-se 'refém do progresso de suas criaturas'"; "sua mente 'implodiu', fragmentando-se em 'cacos' ou 'elétrons'; a 'doença' ou 'podridão de Brahma' é um impulso de sobrevivência a qualquer custo e a lei do mais forte sobre o mais fraco"; "notavelmente, o nome de Javé (YHWH) está registrado nas bases químicas do DNA de cada célula humana [QUARENTENA — leitura do autor]"; "é fundamental diferenciar Javé do 'Ser Supremo' ou 'Deus Incognoscível'"; "Javé reconhece que necessita da ajuda e apoio efetivo de muitos humanos para superar suas limitações".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

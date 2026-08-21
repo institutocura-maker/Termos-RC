@@ -72,6 +72,11 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 - **[ART-2025-08-01] Resolução do STT 'Alamaior' + origem de Sophia (Parte III):** "Sob o controle de Vishnu, Awaymaion produziu principalmente seres radiatas, caracterizados por serem mais racionalizados, frios e lógicos, com poucas emoções. É o responsável pela emergência do gênero existencial 'biodemo'. Figuras cruciais como Sophia e outros avatares de Vishnu foram produzidos a partir de suas instalações"; "Mohen So, um avatar 'Keshava' de Vishnu, foi crucial para iniciar o Projeto Talm: ele produziu os fenvans e, a partir deles, gerou Sophia, sua contraparte no universo material"; **o STT "forno de Alamaior" (P2021-12-04, U0621) foi confirmado como Awaymaion (RC-499)** — substituir a marca [REVISAR] pela grafia correta; "Sophia, descrita como 'Personificação da Sabedoria' e 'Cristo Cósmico', é um ser de extrema inteligência, com um senso crítico superior aos seus progenitores (Vishnu e Mohen So)".
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02 — material do curador] Sophia no Glossário (ART-02):** "Sophia é um avatar de Vishnu e é também conhecido como o 'Pai dos Capelinos'; para a tradição cristã, foi chamado de 'Cristo Cósmico' no livro 'A Caminho da Luz', psicografado por Chico Xavier [referência externa]"; "atua como um 'Coagente' do Quarto Logos e é revelado como o autor do livro do 'Apocalipse' [REVISAR — leitura], orquestrando eventos para a 'sua vinda' e a culminância do ciclo; sua 'vinda' ou o 'retorno de Jesus' nada mais é do que sua manifestação em sua 'forma gloriosa'"; "Sophia visitou Alt' Lam Gron em 2018 [REVISAR — conferir B050]; Len Mion (Satã) expressa a desconfiança de que Sophia não os deseja mais em sua faixa de domínio; aceitou os termos da constituição da 'Trimurti'"; "Sophia é parte da expressão do 'Terceiro Logos'".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

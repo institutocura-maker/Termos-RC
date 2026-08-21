@@ -45,6 +45,11 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[ART-2025-08-01] Olm e o forno de Vishnu (Parte III):** "o próprio Quarto Logos (Olm/Codificador de Zian), um ser que não é criador e que não mergulhou no universo antimaterial, surgiu 'a partir' do forno de Vishnu, Awaymaion, e depois apareceu na nave Asphezian no Sistema de Capela, dando assessoria a Sophia" — confirma a origem já registrada na ficha (B031) com fonte adicional (material do curador); **confirma também a resolução do STT "forno de Alamaior" = Awaymaion** (P2021-12-04, U0621, trecho de Olm/Sophia).
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-02/03 — material do curador] Olm e o Éon (ART-02 Gloss.; ART-03 Cap. 2):** "o Quarto Logos (Olm/Codificador de Zion) surgiu do forno de Awaymaion há aproximadamente 6 a 7 bilhões de anos e passou a assessorar Sophia" [REVISAR — conferir B050]; "diferente dos três primeiros, Olm não mergulhou no universo antimaterial e conseguiu criar um 'DNA' ou CFD próprio, livre da programação existencial gerada pelo Primeiro Logos"; "a função primordial do Quarto Logos é prover o 'conhecimento esclarecido', ofertando a 'pílula vermelha' para despertar a 'compreensão adulta', e coordenar uma 'inovação de ruptura'; a lógica crítica e o tirocínio da natureza humana são a 'chave' para a abertura da mente de 'todos os modos de pensar desta Criação'"; "Sophia assume o controle da 'Gestão Universal', atuando como 'Coagente' do Quarto Logos, que será o novo tutor e mentor universal".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

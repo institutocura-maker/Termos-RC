@@ -1,0 +1,42 @@
+# Nanotecnologia Prânica — RC-773
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
+| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-21 |
+
+## Definição Sintética
+Base tecnológica do **Projeto TALM** (RC-091): manipulação da matéria em escala atômica e molecular, muito mais avançada que a nanotecnologia humana. Opera na formação de subpartículas a partir de frequências de vibração de cordas e colapso quântico. Os **Fenvans** (RC-064) e os vírus ("nanorrobôs autorreplicantes") são produtos dessa tecnologia.
+
+## Contexto / Origem
+Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 — RC-773) a partir do ART-2025-08-03.
+
+## Ampliação — ART-2025-08-03
+
+- **Cap. 1:** "a Nanotecnologia Prânica é a espinha dorsal de todo o Projeto TALM... opera em uma escala e com uma sofisticação muito mais avançadas [que a nanotecnologia terrestre]";
+- "transcende as limitações da física ondulatória ou quântica que atualmente compreendemos, operando em um nível onde a formação de cada subpartícula dos átomos provém de frequências específicas de vibração de cordas e seu colapso quântico, conforme a Teoria das Cordas e Supercordas";
+- "Mohen So, o 'Desperto, o Único a saber, o Conhecedor', foi o desenvolvedor extremado desses mecanismos de elaboração das formas de manifestação da vida biológica; percebeu que seria possível manipular interações de partículas fundamentais como quarks e glúons para encapsular e transferir informações de um universo para o outro";
+- "os Fenvans, os 'seres-cobaias' do Projeto TALM, e até mesmo os vírus que habitam nosso universo, são produtos diretos dessa nanotecnologia prânica; os vírus, em sua estrutura autorreplicante, são comparados a nanorrobôs" [QUARENTENA — analogia do autor, não virologia];
+- "a Revelação Cósmica nos desafia a perceber que somos, a grosso modo, 'Frank sem costuras', produtos dessa engenharia extremamente sofisticada".
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |
+
+## Citações-chave
+> "A Nanotecnologia Prânica é a espinha dorsal de todo o Projeto TALM." — ART-2025-08-03, Cap. 1
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Morlens | RC-772 | relaciona-se-a |
+| PEP | RC-774 | usada-em |
+| Projeto Talm | RC-091 | relaciona-se-a |
+| Mohen So | RC-081 | relaciona-se-a |
+
+## Observações
+- QUARENTENA: vírus como "nanorrobôs" é leitura do autor, jamais virologia validada;
+- Fonte: material do curador (não primário).

@@ -27,6 +27,11 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
   - **Awaymaion** (Vishnu — Terceiro Logos; RC-499): charuto gigante na Via Láctea; emergência do gênero **biodemo** (RC-036); seres radiata mais racionalizados, frios e lógicos; **Sophia** (RC-009) e avatares de Vishnu; **Olm** (RC-092) surgiu "a partir" do forno e depois apareceu na nave **Asphezian** (RC-025) no Sistema de Capela; **Mohen So** (RC-081, avatar Keshava) → fenvans (RC-064) → Sophia.
 - **O cérebro bilatério (RC-035):** o encontro/interação dos protótipos dos fornos de Vishnu e Shiva, há ~4 bilhões de anos [REVISAR — conferir B050], resultou no cérebro bilatério (dois hemisférios), origem das espécies mais complexas, incluindo os humanos — "subproduto" da última criação do Projeto Talm.
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-03 — material do curador] As esferas coloridas e os detalhes dos fornos (Cap. 2):** "a esfera de Brahma é a esfera **cinzenta**, e seu forno replicador é Awayen (ovóide, um pouco maior que a Lua; falhou; tornou-se 'Central de Realidades' e possível 'Portal entre as Realidades'); Val Tam acoplada"; "a esfera de Vishnu é a esfera **esverdeada opaca**, e seu forno é Awaymaion — 'operava com prudência, linearidade e sofisticação', buscando 'seres não bichados'; os Fenvans de Vishnu eram mais sofisticados; a 'Mensagem TALM' estava codificada no forno de Vishnu, mesmo que o de Shiva tenha funcionado primeiro"; "a esfera de Shiva é a esfera **amarronzada**, e seu forno é Awaylengan — primeiro a surgir e o mais atuante; 'charuto gigante' na Via Láctea; gêneros 'demol' e 'demobiol'; seres radiata animalizados; 'universidade genética'; o surgimento da sexualidade e dos seres bilaterais é atribuído aos seus experimentos; um 'vírus emocional' teve origem no forno de Shiva"; "os biodemos surgiram muito mais tarde (últimos 900 milhões de anos) [REVISAR — conferir B050], mostrando a face do forno de Awaymaion, produzindo 'criaturas-ferramentas'".
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

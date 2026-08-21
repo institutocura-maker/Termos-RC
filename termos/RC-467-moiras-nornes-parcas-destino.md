@@ -34,6 +34,11 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **Não encarnam (U1354):** "essas moiras não têm como encarnar nem a pau" — resposta à pergunta final da plateia.
 - **Frigga (Aran) e o limite do trabalho (U1363–U1369):** "as nornes ou as moiras elas não conseguiam tecer direito... foi Frigga [STT 'Friga/fragil'] que ajudou esse processo para as nornes tecerem essa questão... isso aqui era até as três setas de Moros se consumarem"; "Frigga, também conhecida como Aran [STT 'Aranque'], Aran na mitologia grega e Frigga na mitologia nórdica" (U1363–U1368) [REVISAR — grafia do STT].
 
+
+## Ampliação — P2025-08-02
+
+- **[ART-2025-08-03 — material do curador] As Nornes operacionalizando (Cap. 2):** "as 'Nornes' (Moiras/Súdices [STT]) foram então criadas para operacionalizar os resultados desses estudos [de Moros e Anã]"; "as sequências descritas por Moros e Anã, guardadas no Éon das Três Esferas, são essenciais para a propulsão da vida de plasma e da futura vida biológica".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
