@@ -637,7 +637,7 @@ TERMOS = [
     ("RC-497", "Impérial — erro histórico de STT (ver Perpérion RC-087)", LOK_REG[0], LOK_REG[1], C, ['B061', 'P2021-12-04'], "RC-496; RC-087", True),
     ("RC-498", "Tempérium — variação histórica de Tempérion (ver RC-472)", COS_DIM[0], COS_DIM[1], C, ['B061', 'P2021-12-04'], "RC-496; RC-472; RC-061", True),
     ("RC-499", "Forno de Awaymaion (forno de Vishnu; origem de Olm)", LOK_MUN[0], LOK_MUN[1], C, ["B061"], "RC-408; RC-092", False),
-    ("RC-500", "Almaior / Alamaior (forno de biodemos)", LOK_MUN[0], LOK_MUN[1], C, ['B061', 'P2021-12-04'], "RC-036", False),
+    ("RC-500", "Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499)", LOK_MUN[0], LOK_MUN[1], C, ['B061', 'P2021-12-04', 'ART-2025-08-01'], "RC-499", True),
     ("RC-501", "Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel)", SER_COL[0], SER_COL[1], C, ["B061"], "RC-065; RC-109", False),
     ("RC-502", "Val Aten (último Val de Val-Ha)", SER_EXT[0], SER_EXT[1], C, ["B061"], "RC-109; RC-127", False),
     ("RC-503", "Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman)", SER_DIV[0], SER_DIV[1], C, ['B061', 'P2025-02-16', 'P2024-11-30', 'P2024-03-02'], 'RC-408', False),
@@ -947,6 +947,7 @@ TERMOS = [
     ("RC-768", "Princípio da Externalização (criação divina sem sexualidade)", PRO_FIS[0], PRO_FIS[1], C, ['P2026-07-25'], 'RC-040; RC-153; RC-475; RC-622; RC-385; RC-104; RC-769', True),
     ("RC-769", "Corpos Fenvã (terceira forma de vida do universo vizinho)", SER_EXT[0], SER_EXT[1], C, ['P2026-07-25'], 'RC-630; RC-475; RC-622; RC-696; RC-104; RC-768', True),
     ("RC-770", "Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes')", TEC_ESC[0], TEC_ESC[1], C, ['P2026-07-25'], 'RC-474; RC-482; RC-530; RC-579; RC-454; RC-658; RC-152; RC-072', True),
+    ("RC-771", "Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion)", TEC_NAV[0], TEC_NAV[1], P, ['B061', 'P2021-12-04', 'P2024-05-04', 'ART-2025-08-01'], 'RC-091; RC-499; RC-132; RC-092; RC-064; RC-093; RC-035', True),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)
@@ -2899,7 +2900,16 @@ RELACOES = [
     ('RC-717', 'relaciona-se-a', 'RC-559', 'P2024-09-29'),
     ('RC-152', 'relaciona-se-a', 'RC-559', 'P2024-09-29'),
     ('RC-721', 'relaciona-se-a', 'RC-253', 'P2024-09-29'),
-    ('RC-736', 'relaciona-se-a', 'RC-722', 'P2024-09-29'),
+    ('RC-736', 'relaciona-se-a', 'RC-722', 'P2024-09-29'),    ('RC-771', 'inclui', 'RC-499', 'ART-2025-08-01'),              # Fornos Replicadores incluem Awaymaion
+    ('RC-771', 'relaciona-se-a', 'RC-091', 'ART-2025-08-01'),     # ~ Projeto Talm (programa dos fornos)
+    ('RC-771', 'relaciona-se-a', 'RC-132', 'ART-2025-08-01'),     # Val Tam acoplada/prisioneira de Awayen
+    ('RC-771', 'relaciona-se-a', 'RC-092', 'ART-2025-08-01'),     # Olm surgiu a partir de Awaymaion
+    ('RC-771', 'relaciona-se-a', 'RC-064', 'ART-2025-08-01'),     # fenvans (seres-cobaias)
+    ('RC-771', 'relaciona-se-a', 'RC-093', 'ART-2025-08-01'),     # radiatas (1 banda cerebral)
+    ('RC-771', 'relaciona-se-a', 'RC-035', 'ART-2025-08-01'),     # bilatérios (2 hemisférios)
+    ('RC-500', 'erro-stt-de', 'RC-499', 'ART-2025-08-01'),        # Alamaior = STT de Awaymaion
+    ('RC-092', 'origem-em', 'RC-499', 'ART-2025-08-01'),          # Olm surgiu no forno de Vishnu
+
 ]
 
 # Validação

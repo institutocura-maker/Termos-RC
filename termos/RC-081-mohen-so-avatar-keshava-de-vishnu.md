@@ -31,6 +31,11 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 
 - **[P2021-01-23] Mohen So e os fios soltos (U0776; U0800–U0810):** "olhando para o que 'morre em s' [STT], que era o avatar que eles haviam criado com liberdade, que pudesse entender os fios soltos de Brahma e de Shiva" (U0776) — Mohen So como o avatar criado para entender os fios soltos de Brahma e Shiva [REVISAR — STT 'morre em s'].
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] Mohen So e o Projeto Talm (Parte III):** "Mohen So, um avatar 'Keshava' de Vishnu, foi crucial para iniciar o 'Projeto Talm'. Ele foi concebido com menos 'lacres' genéticos que seus criadores, concedendo-lhe um senso crítico superior. Mohen So produziu os 'fenvans' (seres-cobaias com códigos genéticos demos modificados) e, a partir deles, gerou Sophia, sua contraparte no universo material".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

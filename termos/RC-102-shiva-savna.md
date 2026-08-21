@@ -24,6 +24,11 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **A sexualização dos demos (U0601–U0606):** "os demos nos últimos 7.000 anos estavam iniciando a exploração dessa atividade [sexual]; os demos sempre se procriaram por clonagem assexuada" (U0603–U0604).
 - **"Shiva é quem tem mais poder" (U1188–U1190):** "ele criou monstro para poder derrotar os monstros que outras figuras criaram... tá tendo que desativar os caras" (U1190) [REVISAR — STT].
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] Shiva e Awaylengan (Parte II):** "Shiva, conhecido também como Tártaro na mitologia grega, surgiu como um 'anjo-clone rebelde' de Brahma, um dos oito Seres Adhyatman que tentaram impedir e, depois, consertar a Criação de Brahma. Seu 'mergulho' na Criação ocorreu há cerca de 12,17 bilhões de anos" [REVISAR — conferir B050]; "a 'rebelião' de Shiva culminou em um ato de 'agressão' a Brahma, cortando uma de suas cabeças — esse ato simbolizou o impedimento da capacidade de Brahma de gerar mais anjos-clones"; "Shiva é o 'Segundo Logos', o iniciador da diversidade e o 'Pai dos Demos'; sua energia é a Tamas, uma força desagregadora e destruidora, mas com propósito: aniquilar o 'irreversivelmente problemático' gerado por Javé"; "Awaylengan, o forno de Shiva, foi o primeiro forno replicador do Projeto Talm a surgir e o mais atuante; emergiram os gêneros 'demol' e 'demobiol'; avatares de Shiva foram produzidos a partir de suas instalações — ex.: Sai Baba, edificado a partir do que veio de Krishna".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

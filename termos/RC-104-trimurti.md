@@ -48,6 +48,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **O drama dos avatares (U0092–U0098):** "Vishnu e Shiva conseguiram criar vários avatares... cada um era mais chique que o outro; sempre eles brigam entre eles, que os diversos egos que o espírito de cada um produziu não disputam entre eles"; "Vishnu já acabou com isso; Shiva ainda não; Brahma nem começou ainda a se resolver, porque Brahma não conseguiu criar [avatares estáveis]" [REVISAR — STT].
 - **A falência e a aposta (U0280–U0300; U0369):** "há cerca de 23.000 anos atrás, diante do episódio Adão, Eva e Javé, Javé tomou a opção desesperada que ele fez na época devido às artimanhas de Shiva e de Vishnu" (U0280); a aposta: "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369).
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] A Trimurti e o Projeto Talm (Partes I–III):** "diante da falência da vida no universo antimaterial (Brahmaloka), com brigas de poder e guerras entre os 'demos', os 'Senhores da Trimurti' — Brahma/Javé, Vishnu e Shiva — idealizaram o 'Projeto Talm'"; "todos eles, em suas formas Adhydaiva, manifestavam essa 'doença' [do Criador]"; "os 'Senhores da Trimurti' emergiram envolvidos em uma constante 'contenda cósmica' (a 'Lila' hindu), disputando a autoria e a supremacia sobre a Obra"; a Trimurti construiu os três fornos replicadores (RC-771) para semear a vida biológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

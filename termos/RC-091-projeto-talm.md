@@ -39,6 +39,11 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[P2024-05-04-R] Os fornos replicadores (U1300–U1450):** "para a semeadura da vida biológica, três Fornos Replicadores foram descritos: Awaylengan (de Shiva), Awaymaion (de Vishnu) e Awayen (de Brahma)"; "essas estruturas cósmicas, também chamadas de laboratórios dimensionais ou naves/estações gigantescas, foram responsáveis por projetar e semear diversas espécies"; "Javé/Brahma, em sua condição caída, não conseguiu criar seus próprios Fenvans ou ter avatares como os outros, passando a escolher humanos para representá-lo"; "a operacionalização começou com o surgimento da terceira geração de estrelas, permitindo a produção de elementos químicos mais pesados (ferro, níquel, carbono)".
 - **[P2024-05-04-R] O objetivo final (U1400–U1500):** "o Projeto Talm busca transformar o nidana (estado atual de doença do Criador) em saccidanandhagana (equipe de agentes da vida conscientes e bem-aventurados), mas essa bem-aventurança só poderá ser alcançada quando o problema da podridão de Brahma for resolvido".
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01 — material do curador] Os três fornos e a operacionalização (Partes I–III):** "para viabilizar o Projeto Talm e semear a vida biológica em diversos mundos, a Trimurti construiu três fornos replicadores: Awayen (de Brahma/Javé), Awaylengan (de Shiva) e Awaymaion (de Vishnu). Eles foram concebidos para criar seres capazes de atravessar e viver em um universo com leis de Física e Química diferentes, onde antimatéria e matéria não se anulassem ao colidirem"; "o objetivo supremo era transformar o nidana (um ciclo de dor e sofrimento) em saccidanandhagana (um estado de êxtase ou bem-aventurança); para que a vida biológica pudesse surgir, seriam necessários elementos químicos pesados, que só apareceram com a terceira geração de estrelas"; "a incapacidade de Brahma de gerar seus próprios fenvans e avatares diretamente de Awayen o forçou a buscar uma alternativa: ele passou a escolher 'humanos' para representá-lo — Adão, Seth, Enoque, Abraão, Noé, Jacó, e até mesmo Jesus" (ver nó-guarda-chuva **RC-771 Fornos Replicadores**).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

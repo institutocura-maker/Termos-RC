@@ -65,7 +65,12 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 ## Ampliação — P2021-12-04
 
-- **[P2021-12-04 — FONTE ORIGINAL] Sophia (U0619–U0622):** "quando mais uma face do espírito fatiado, que respondia já por [Mohen So — STT 'vir morrensor'], se fez como Sophia" [REVISAR — STT]; "produzir espécies através do forno de Alamaior [REVISAR — STT], os biodemos"; "criou uma escola de decifração entre os biodemos nos templos de Capela"; "quando Sophia ordenou ou recebeu a ordem de Brahma ou de Javé de que ele deveria criar um avatar dele entre os humanos, quando os anjos de Sophia tomaram de um código dele e introduziram no óvulo artificial em Maria para produzir Jesus" (U0622).
+- **[P2021-12-04 — FONTE ORIGINAL] Sophia (U0619–U0622):** "quando mais uma face do espírito fatiado, que respondia já por [Mohen So — STT 'vir morrensor'], se fez como Sophia" [REVISAR — STT]; "produzir espécies através do forno de Awaymaion (STT 'Alamaior' — ver RC-499), os biodemos"; "criou uma escola de decifração entre os biodemos nos templos de Capela"; "quando Sophia ordenou ou recebeu a ordem de Brahma ou de Javé de que ele deveria criar um avatar dele entre os humanos, quando os anjos de Sophia tomaram de um código dele e introduziram no óvulo artificial em Maria para produzir Jesus" (U0622).
+
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] Resolução do STT 'Alamaior' + origem de Sophia (Parte III):** "Sob o controle de Vishnu, Awaymaion produziu principalmente seres radiatas, caracterizados por serem mais racionalizados, frios e lógicos, com poucas emoções. É o responsável pela emergência do gênero existencial 'biodemo'. Figuras cruciais como Sophia e outros avatares de Vishnu foram produzidos a partir de suas instalações"; "Mohen So, um avatar 'Keshava' de Vishnu, foi crucial para iniciar o Projeto Talm: ele produziu os fenvans e, a partir deles, gerou Sophia, sua contraparte no universo material"; **o STT "forno de Alamaior" (P2021-12-04, U0621) foi confirmado como Awaymaion (RC-499)** — substituir a marca [REVISAR] pela grafia correta; "Sophia, descrita como 'Personificação da Sabedoria' e 'Cristo Cósmico', é um ser de extrema inteligência, com um senso crítico superior aos seus progenitores (Vishnu e Mohen So)".
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

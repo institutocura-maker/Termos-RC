@@ -26,6 +26,11 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **Senhor Brahma Parameshthi:** a face humana de Brahma, descrita por Vyasa (STT "Viaza") no Mahabharata (STT "Marrabarata") — "cerca de 270 mundos que observam o que se passa na Terra" (RC-265).
 - **Comas:** Javé/Brahma ficava milhões de anos apagado, mantido pelos anjos clones; colapso atual "ano 2020 e alguma coisa" (RC-001).
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] Brahma/Javé e Awayen (Parte I):** "Brahma, também conhecido como Javé ou Caos... vivenciou uma 'queda' dramática em sua própria Obra; a sua mente, outrora um potencial criativo singular, 'implodiu' e foi 'tragada' pela própria Criação, resultando em um ser 'doente', 'despedaçado' e, por vezes, em 'perpétuo coma' ou inatividade, como se fosse um 'zumbi de si mesmo'"; "o seu Código-Fonte Definidor Pessoal (CFDP), seu 'DNA', já surgiu com defeitos, e essa 'podridão' foi transladada para o DNA de todas as suas criaturas"; "Brahma/Javé tornou-se 'refém do progresso das suas criaturas', incapaz de evoluir por si mesmo"; "seu forno replicador, Awayen, falhou na replicação — 'se tivesse sido bem-sucedido, a exportação de uma doença com padrões incuráveis do Brahmaloka para o Bhuloka teria impedido o surgimento da vida biológica' — e transformou-se numa 'Central de Realidades' (ver RC-771)".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **770 termos (`RC-001–RC-770`), 1.830 relações, 416 fichas físicas** (415 canônicas + RC-004 como investigação) · **82 obras (B001–B082)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `39238ac` (tratado filosófico publicado em `pedagogico/` — 'A Ilha Estacionária e a Arca de Perguntas', 14 capítulos + caderno de incertezas; índice temático com nova abordagem filosófica/contemplativa; zero códigos consumidos).
+**Estado canônico:** **771 termos (`RC-001–RC-771`), 1.839 relações, 420 fichas físicas** (419 canônicas + RC-004 como investigação) · **84 obras (B001–B083 + ART-2025-08-01)** · **29 apostilas de palestras** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir ao fim do ciclo ART-2025-08-01).
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**
 - **3 novas apostilas temáticas** em `pedagogico/` (todas com DOCX gerado):
@@ -16,6 +16,21 @@
 **Correção de engenharia (2026-08-18) — gerador/restaurador de pacotes:** auditoria revelou que o gerador de pacotes embutia **1 byte `\n` extra** por arquivo (join com quebra de linha após conteúdo já terminado em `\n`; e marcador FIM-ARQ colado ao conteúdo quando o arquivo não termina em `\n`, ex.: `original.txt` do podcast irmãos Dias). Correções aplicadas: (1) `gerar_pacotes.py` agora **concatena o corpo sem join**, embutindo conteúdo byte a byte; (2) `restaurar_pacotes.py` localiza `===FIM-ARQ:` por **busca binária direta** (não mais regex de início de linha), aponta para `reconstrucao/pacotes/` (checkpoint mais recente) e aceita caminhos como argumentos. Teste de ida-e-volta: **386/386 arquivos 100% fiéis (pacote == manifesto == workspace)**.
 
 > As seções históricas abaixo registram etapas intermediárias da reconstrução. Para contagens atuais, prevalece `ferramentas/dados_termos.py`.
+
+## Ciclo ART-2025-08-01 — Fornos Replicadores: Awayen, Awaylengan e Awaymaion (material do curador)
+
+- **MATERIAL DO CURADOR** (Edson Cella Mendes) — dossiê próprio "Fornos Replicadores – Awayen, Awaylengan e Awaymaion", baseado estritamente em livros e palestras de Jan Val Ellam; objetivo declarado: resolver problema dos fornos geradores de vida e corrigir termos da KB;
+- devolutiva oficial **O-1 a O-7 APROVADOS** (2026-08-21);
+- **resoluções de STT históricas:** (1) "[REVISAR] forno de **Alamaior**" (P2021-12-04, retido em RC-009/RC-092 + Colecionar Incertezas desde 2021) = **Awaymaion** (forno de Vishnu — o contexto "biodemos" fecha a charada); (2) "[REVISAR] projeto tal" = **Projeto Talm** (RC-091);
+- **RC-771 "Fornos Replicadores" CRIADO** (autorização excepcional O-3 — nó-guarda-chuva estrutural: Awayen de Brahma, Awaylengan de Shiva, Awaymaion de Vishnu/RC-499) + 9 relações novas; **primeiro código consumido desde a estabilização em 770 termos** (RC-771, exceção aprovada pelo curador);
+- **RC-500 corrigido:** "Almaior/Alamaior" → ficha de remissão direta para RC-499 (erro de STT, padrão RC-497);
+- **RC-499 promovido** (⚪→🟡) com ficha física (charuto na Via Láctea; biodemo; radiata racionais; Sophia; Olm → Asphezian; cérebro bilatério ~4 bi anos);
+- **RC-132 Val Tam materializado** (ficha nova autorizada O-2): consciência espiritual "acoplada ou prisioneira" de Awayen — conexão inédita;
+- **10 fichas ampliadas** (RC-091, RC-009, RC-092, RC-132, RC-081, RC-631, RC-102, RC-037, RC-104, RC-152) + limpeza do [REVISAR] "Alamaior" em RC-009/RC-092;
+- **B083 cadastrada** ("Awayen – A Central de Realidades" — obra anunciada; [REVISAR grafia 'Awayem']) + **ART-2025-08-01** registrado na BIBLIO como obra complementar do curador (84 obras);
+- **Retidas sem ficha (padrão):** ampliações de RC-064 (Fenvans), RC-093 (Radiatas), RC-035 (Bilatérios), RC-154 (Nidana), RC-186 (Biodemol), RC-135 (Vishnu) → Colecionar Incertezas; aguardam autorização de materialização;
+- **Colecionar Incertezas (novos):** grafia "Awayem" × "Awayen" [REVISAR]; datas Shiva ~12,17 bi anos / Vishnu ~4,1 bi anos / bilatério ~4 bi anos [REVISAR — conferir B050]; "desconstituição Adhydaiva de Vishnu em 2016"; "Frankstein" [sic]; Sai Baba edificado a partir do que veio de Krishna;
+- Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
 
 ## Curadoria P2021-12-04 — Os Archeons de Ereon e os Seres Adhy
 

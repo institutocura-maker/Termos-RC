@@ -1,0 +1,40 @@
+# Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) — RC-500
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | LOKAS & GEOGRAFIAS |
+| **Subcategoria** | 3.2 Lokas / Mundos interiores |
+| **Status** | ⚪ Candidato |
+| **Última atualização** | 2026-08-21 |
+
+## Definição Sintética
+"Almaior" / "Alamaior" é uma leitura defeituosa de STT, preservada apenas para rastreabilidade. O termo correto no contexto é o forno **Awaymaion** (RC-499), o forno replicador de Vishnu responsável pela emergência dos **biodemos** (RC-036).
+
+## Contexto / Origem
+- A entrada nasceu da mineração de B061 e do STT da P2021-12-04 ("produzir espécies através do forno de Alamaior [REVISAR], os biodemos");
+- **correção aprovada pela Devolutiva ART-2025-08-01 (O-4):** o material do curador "Fornos Replicadores" confirmou que o STT "Alamaior" = **Awaymaion** — o contexto da fala (biodemos) bate exatamente com a função do forno de Vishnu. Transformada em ficha de remissão direta para RC-499.
+
+## Etimologia / Grafias
+- Forma deprecada: Almaior / Alamaior. Forma correta/remissão: Awaymaion — RC-499.
+- **Fonte de decisão:** Devolutiva ART-2025-08-01, O-4 (2026-08-21).
+
+## Fontes
+| Obra/palestra | Localização | Tipo |
+|---|---|---|
+| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0621 | STT pré-curado |
+| ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Parte III | material do curador |
+| Fontes anteriores da Base | B061 | apoio/remissão |
+
+## Citações-chave
+> "Produzir espécies através do forno de Alamaior [STT], os biodemos." — P2021-12-04, U0621 (→ Awaymaion, RC-499)
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | erro-stt-de |
+
+## Seres Associados
+Ver RC-499 (Vishnu, Sophia, Olm, Mohen So, biodemos).
+
+## Observações
+Código imutável e nunca reutilizável. Não usar "Alamaior" como entidade válida em novos textos; manter somente como erro STT histórico.

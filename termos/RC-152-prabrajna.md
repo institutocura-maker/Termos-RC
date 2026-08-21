@@ -56,6 +56,11 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **[P2021-12-04 — FONTE ORIGINAL] Prabrajna (U0162–U0166; U0238–U0240; U0281–U0287):** "o drama desse ser chamado Adhy Prabrajna é que ele fez a transição, elevou a condição da sua consciência pessoal como se fosse algo mais importante do que a rede dos 43 [Pashvnaj] ou mesmo dos 147 Adhy, porque foram esses dois níveis que foram rompidos pelo drama dele" (U0162–U0164); "Adhy Mavatma e Adhy Prabrajna eram dois desses 147 seres, mas que na verdade eles eram ancorados no mesmo espírito... esse único espírito tem duas versões" (U0238–U0240); "outra parte sua está absolutamente tombada, implodida, feito uma sabe-se-lá-o-quê, num certo laboratório de Perpérion, que foi a parte de [Adhy] Prabrajna, que uma parte dele entrou e a outra parte implodiu e essa parte tá ligada a esse espírito" (U0281–U0282); **"essas duas coisas poderíamos chamar de espírito fatiado desse ser vibrante em coma na parte de Perpérion e mais vibrante sem ser em coma na operacional"** (U0287).
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] O criador caído e a doença (Partes I–III):** o texto reforça o estado de Prabrajna/Brahma: "mente 'implodida' e 'tragada' pela própria Criação", "ser 'doente', 'despedaçado', por vezes em 'coma perpétuo'", "zumbi de si mesmo" — em sintonia com o "espírito fatiado vibrante em coma em Perpérion" (P2021-12-04); "o seu CFDP, seu 'DNA', já surgiu com defeitos, e essa 'podridão' foi transladada para o DNA de todas as suas criaturas" [quarentena teológica — leitura de Ellam].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

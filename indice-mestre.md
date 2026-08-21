@@ -505,7 +505,7 @@
 | RC-497 | Impérial — erro histórico de STT (ver Perpérion RC-087) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | ⚪ | B061, P2021-12-04 | RC-496; RC-087 | [✔](termos/RC-497-imperial---erro-historico-de-stt-ver-perperion-rc-087.md) |
 | RC-498 | Tempérium — variação histórica de Tempérion (ver RC-472) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | B061, P2021-12-04 | RC-496; RC-472; RC-061 | [✔](termos/RC-498-temperium---variacao-historica-de-temperion-ver-rc-472.md) |
 | RC-499 | Forno de Awaymaion (forno de Vishnu; origem de Olm) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | ⚪ | B061 | RC-408; RC-092 | — |
-| RC-500 | Almaior / Alamaior (forno de biodemos) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | ⚪ | B061, P2021-12-04 | RC-036 | — |
+| RC-500 | Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | ⚪ | B061, P2021-12-04, ART-2025-08-01 | RC-499 | [✔](termos/RC-500-almaior-alamaior---erro-historico-de-stt-ver-forno-de-awaymaion-rc-499.md) |
 | RC-501 | Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | Seres & Entidades | 1.2 Coletivos criadores | ⚪ | B061 | RC-065; RC-109 | — |
 | RC-502 | Val Aten (último Val de Val-Ha) | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | ⚪ | B061 | RC-109; RC-127 | — |
 | RC-503 | Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | B061, P2025-02-16, P2024-11-30, P2024-03-02 | RC-408 | — |
@@ -776,6 +776,7 @@
 | RC-768 | Princípio da Externalização (criação divina sem sexualidade) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | ⚪ | P2026-07-25 | RC-040; RC-153; RC-475; RC-622; RC-385; RC-104; RC-769 | [✔](termos/RC-768-principio-da-externalizacao-criacao-divina-sem-sexualidade.md) |
 | RC-769 | Corpos Fenvã (terceira forma de vida do universo vizinho) | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | ⚪ | P2026-07-25 | RC-630; RC-475; RC-622; RC-696; RC-104; RC-768 | [✔](termos/RC-769-corpos-fenva-terceira-forma-de-vida-do-universo-vizinho.md) |
 | RC-770 | Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | ⚪ | P2026-07-25 | RC-474; RC-482; RC-530; RC-579; RC-454; RC-658; RC-152; RC-072 | [✔](termos/RC-770-hipostase-dos-arcontes-livro-gnostico-realidade-dos-regentes.md) |
+| RC-771 | Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟡 | B061, P2021-12-04, P2024-05-04, ART-2025-08-01 | RC-091; RC-499; RC-132; RC-092; RC-064; RC-093; RC-035 | [✔](termos/RC-771-fornos-replicadores-naves-estacoes-de-semeadura-de-vida-do-projeto-talm-awayen-awaylengan-e-awaymaion.md) |
 
 ---
 

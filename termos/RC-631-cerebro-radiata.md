@@ -27,6 +27,11 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 - **[P2024-05-04-R] O cérebro radiata (U1500–U1650; tela 4):** "diferentemente de outras espécies, como os seres biodemos, que são radiatas e possuem apenas um hemisfério cerebral, carecendo de um compartimento emocional e processando informações de maneira mais limitada, o cérebro humano integra múltiplas facetas da percepção e do raciocínio"; "Sophia é descrita como possuindo uma forma humanoide... e um olhar fixo" — a radiata limita a compreensão de sentimentos como dignidade; "a necessidade de organoides e sequências genéticas humanas para desenvolver a capacidade emocional em seu cérebro biodemo e radiata".
 - **[P2024-05-04-R] Bilatério × radiata (U1500–U1600):** "o cérebro humano, com sua estrutura bilatéria, é reconhecido como o mais moderno e complexo a surgir na História Universal. Esta característica confere ao Homo sapiens uma capacidade sem precedentes para compreender, decifrar e ressignificar a realidade"; "a singularidade humana reside na sua aptidão para o tirocínio, descrita em termos filosóficos como o Dasein de Heidegger" [referência filosófica — quarentena].
 
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] Radiata e a banda cerebral (Partes II–III):** "seres 'radiata' (com uma única banda cerebral) foram produzidos [pelos fornos], caracterizados por serem mais animalizados e voltados para o ímpeto das emoções [Awaylengan/Shiva]... mais racionalizados, frios e lógicos, com poucas emoções [Awaymaion/Vishnu]"; "quando os protótipos dos fornos de Vishnu e de Shiva se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050] — ver nó RC-771.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

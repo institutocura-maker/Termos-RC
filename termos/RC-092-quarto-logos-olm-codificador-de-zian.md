@@ -38,7 +38,12 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 ## Ampliação — P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] Olm e Apolônio de Tiana (U0613–U0625):** "Apolônio de Tiana foi a única encarnação que Olm [STT 'H'] fez. Esse ser chamado Olm: ele mergulhou nesse universo; ele não mergulhou no universo anterior" (U0613–U0616); "Olm não ficou lá fora, e só quando a vida veio do universo vizinho para este, através do projeto [Tal], quando mais uma face do espírito fatiado, que respondia já por [Mohen So — STT 'vir morrensor'], se fez como Sophia, aí Olm se fez junto de Sophia nesse universo como espécie de irmão mais velho dele, amigo número um" (U0619–U0620); "quando Sophia ordenou ou recebeu a ordem de Brahma ou de Javé de que ele deveria criar um avatar dele entre os humanos, quando os anjos de Sophia tomaram de um código dele e introduziram no óvulo artificial em Maria para produzir Jesus, os mesmos moldes Olm fez consigo próprio e também nasceu na mesma época de Jesus como Apolônio de Tiana. Só que Jesus teve uma vida breve e Apolônio de Tiana viveu cerca de um século. Isso está descrito no livro O Quarto Logos" (U0622–U0625 — B016).
-- **A escola de decifração em Capela (U0621):** "ficou como Sophia no sentido de produzir espécies através do forno de Alamaior [REVISAR — STT], os biodemos, por exemplo, e criou uma escola de decifração que nós estamos recriando na condição humana agora, mas ele criou entre os biodemos nos templos de Capela".
+- **A escola de decifração em Capela (U0621):** "ficou como Sophia no sentido de produzir espécies através do forno de Awaymaion (STT 'Alamaior' — ver RC-499), os biodemos, por exemplo, e criou uma escola de decifração que nós estamos recriando na condição humana agora, mas ele criou entre os biodemos nos templos de Capela".
+
+
+## Ampliação — P2025-08-01
+
+- **[ART-2025-08-01] Olm e o forno de Vishnu (Parte III):** "o próprio Quarto Logos (Olm/Codificador de Zian), um ser que não é criador e que não mergulhou no universo antimaterial, surgiu 'a partir' do forno de Vishnu, Awaymaion, e depois apareceu na nave Asphezian no Sistema de Capela, dando assessoria a Sophia" — confirma a origem já registrada na ficha (B031) com fonte adicional (material do curador); **confirma também a resolução do STT "forno de Alamaior" = Awaymaion** (P2021-12-04, U0621, trecho de Olm/Sophia).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
