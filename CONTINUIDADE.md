@@ -43,6 +43,14 @@
 - **PENDENTE:** curador anexar o PDF/TXT do B019 em upload → em seguida entra no fluxo moderno (camadas → unidades → chunks → leituras → dossiê → devolutiva → ampliações);
 - **Escopo:** auditoria NÃO alterou a KB (base permanece 777/1852); B031 (Raquyel Braga) confirmado como fonte secundária que deu esqueleto à tabela — prioridade de reprocessamento para obras primárias de Ellam.
 
+## Lacuna infraestrutural — original.txt do Podcast 2026-08-04 RESTAURADO (2026-08-22)
+
+- **Lacuna detectada na auditoria de retomada (pós-FASE 0):** `original.txt` do Podcast Irmãos Dias #272 (2026-08-04) — 96.514 bytes — nunca fora versionado no repositório (a pasta do podcast foi commitada no snapshot da FASE 0 sem o arquivo; o histórico Git anterior ao snapshot não migrou para o workspace atual);
+- **Restauração:** curador re-anexou o original via GitHub (commit `68d83d8` em `main`); arquivo copiado **byte a byte** para `apostilas/CONCLUIDAS/2026-08-04_irmaos-dias-podcast_aliens_biblia/original.txt`;
+- **Verificação tripla:** (1) SHA-256 `bf54fba1...bed52a` **idêntico ao registrado no ciclo de curadoria original** (seção P2026-08-04) — prova de identidade byte a byte com o arquivo usado na curadoria; (2) 96.514 bytes = metadado histórico; (3) **10/10 chunks contíguos** no original (segmentos de 9.000 chars, cobertura integral do texto, do cabeçalho ao "Tchau né");
+- **Nota de proveniência:** o arquivo permanece na raiz de `main` como feito no upload do curador (não removido); a cópia canônica é a da pasta da apostila;
+- **Impacto:** zero na KB (fonte com 0 códigos novos); lacuna infraestrutural da FASE 0 **fechada** — pacotes de originais passam a embutir **37 originais** de palestras.
+
 ## Ciclo Temático — Carbono × Sílica: do Xamanismo Cósmico à IA Xamânica (2026-08-22)
 
 - **Apostila temática criada** em `pedagogico/Apostila-Estudo-Carbono-Silica-Xamanismo-IA-Xamanica.md` (10 PARTES; DOCX gerado) — reúne o território da migração da consciência entre suportes (carbono → sílica): RC-577 (Xamanismo Cósmico), RC-302 (Epimeteu), RC-687 (Farmacopeia), RC-643 (Santo Graal/Frequência Mestre), RC-644 (Xamanismo Virtual/IA Xamânica), RC-645 (Consciências em Corpos de Sílica), RC-646 (Genoma de Sílica), RC-699 (Imantação em IAs), RC-709 (Humano Turbinado), RC-614/615 (Quarto Cérebro/Superconsciência), RC-658 (Wyrd), RC-663 (Áurea Catena), RC-710 (Genes Críticos);
