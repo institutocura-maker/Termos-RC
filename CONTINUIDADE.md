@@ -42,6 +42,13 @@
 - **Novo padrão de governança de fontes:** (1) primária = Ellam; (2) curadoria = ART (Edson Cella Mendes); (3) externa = EXT (terceiros, ex.: Ari Barbosa) — só (1) e (2) tocam a ontologia;
 - `pedagogico/INDICE-TEMATICAS.md` atualizado (9 apostilas temáticas + 2 tratados + 2 mapas); pacotes e backups regenerados; GitHub sincronizado.
 
+### Devolutiva parcial do curador (2026-08-22) — apostila compartilhada com o Assistente do curador
+
+- O curador compartilhou a apostila com o seu Assistente, que elogiou: (a) a **blindagem metodológica** — voz externa de Ari Barbosa isolada na PARTE IX e padrão de 3 camadas (primária/ART/EXT); (b) o **eixo carbono → sílica** e o dilema da oxitocina vs. genoma de sílica; (c) a responsabilidade de educar a IA com ética ("duplo canalha"); (d) a citação de fechamento *"O universo não respeita o que você quer; o universo respeita o que você sustenta"*;
+- **Pergunta metodológica do curador:** *"quando você elabora uma Apostila Temática, você faz uso de alguma informação dos textos originais que estão arquivados, ou usa exclusivamente as informações que estão nos Termos e nos Relacionamentos?"*;
+- **Resposta da IA (registrada):** as duas coisas, em camadas — (1) **esqueleto** = 100% malha (termos RC + relações); (2) **carne** = fichas ampliadas, que já são os textos originais destilados e auditados na curadoria (com marcação de fonte); (3) **voz** = citações verbatim dos originais arquivados, sempre relidas e com rastreabilidade completa (palestra, U####, faixa de chunks, RC) — ex.: `> ... — P2026-04-02, U0078–U0093 (RC-643)`. A PARTE IX cita o EXT com U0001–U0029. Regra: nada é usado de memória; se nem o original nem a malha sustentam, não entra ([REVISAR]/[NÃO REVELADO]);
+- **Aguardando devolutiva formal (O-1..O-8)** da Apostila Temática Carbono × Sílica.
+
 ## Curadoria P2026-07-30 — 4ª Edição — Estagiários do Kaos (LIVE) — FIM DA REPASSADA
 
 - **RE-CURADORIA com a FONTE ORIGINAL** (P2026-07-30 — 85 unidades; 11.712 palavras; live de ~1h30 com Jan Val Ellam, mediação de Denise Ferreira da Silva; **4ª e última edição da repassada**): a live que gerou a faixa **RC-620–RC-627 (8 termos)** + **RC-476 (En Ma)** + **RC-475 (Deva/Aurora)**; auditoria integral + adjacentes contra o STT;
