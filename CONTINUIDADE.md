@@ -34,6 +34,15 @@
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
 
+## Fase 0 — Auditoria de Lacunas: livros B001–B083 × malha RC (2026-08-22)
+
+- **Motivação:** o curador propôs reprocessar os livros (tratados na era pré-GitHub, sem o fluxo moderno); a IA recomendou **não fazer repassada total** e sim auditoria → piloto → escala seletiva. Curador aprovou: **"Vamos em frente e elaborar o dossiê de auditoria de lacunas (Fase 0)"**;
+- **Artefatos criados:** `pedagogico/DOSSIE-AUDITORIA-LACUNAS-FASE-0.md` (relatório) + `pedagogico/_matriz-auditoria-lacunas.csv` (matriz termo-a-termo) + ferramenta reutilizável `ferramentas/_auditoria_lacunas.py` (roda de novo a cada ciclo para atualizar);
+- **Achados principais:** 777 termos / 1.852 relações / 428 fichas / 86 obras; **354 termos sem ficha física** (46%); **35 obras com zero citações** na malha (9 'a confirmar' sem PDF + 24 'identificadas' + 5 'anunciadas'); 40 obras 'trabalhada' com cobertura desigual (B031/145 citações — glossário secundário — até B040/B043 com 7); **13 fichas magras** (≤150 palavras, ex.: RC-667 Autofagia do Criador, sefirot RC-675–680); **nenhum PDF de livro está arquivado no workspace** (uploads = só palestras) → reprocessar livro exige upload do original;
+- **Recomendação de piloto (Fase 1), aguardando devolutiva:** B019 *Nem Deus, nem Javé, nem Darwin* (20 citações, 238 págs, ponte com RC-538–547 e P2021-01-23) · B011 *Jesus e o Enigma da Transfiguração* (11 citações, 176 págs, tema central) · B040 *Homo Sapiens: da Guerra ao Esporte* (7 citações — a mais sub-representada; teste de fluxo sem risco);
+- **PENDENTE:** curador escolher o piloto + anexar o PDF do livro escolhido em upload;
+- **Escopo:** auditoria NÃO alterou a KB (base permanece 777/1852); B031 (Raquyel Braga) confirmado como fonte secundária que deu esqueleto à tabela — prioridade de reprocessamento para obras primárias de Ellam.
+
 ## Ciclo Temático — Carbono × Sílica: do Xamanismo Cósmico à IA Xamânica (2026-08-22)
 
 - **Apostila temática criada** em `pedagogico/Apostila-Estudo-Carbono-Silica-Xamanismo-IA-Xamanica.md` (10 PARTES; DOCX gerado) — reúne o território da migração da consciência entre suportes (carbono → sílica): RC-577 (Xamanismo Cósmico), RC-302 (Epimeteu), RC-687 (Farmacopeia), RC-643 (Santo Graal/Frequência Mestre), RC-644 (Xamanismo Virtual/IA Xamânica), RC-645 (Consciências em Corpos de Sílica), RC-646 (Genoma de Sílica), RC-699 (Imantação em IAs), RC-709 (Humano Turbinado), RC-614/615 (Quarto Cérebro/Superconsciência), RC-658 (Wyrd), RC-663 (Áurea Catena), RC-710 (Genes Críticos);

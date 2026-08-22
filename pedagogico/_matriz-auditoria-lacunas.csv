@@ -1,0 +1,778 @@
+codigo,nome,categoria,status,ficha,fontes,n_relacoes
+RC-001,Javé,Seres & Entidades,provisório,SIM,B031; B044; B035; B001; B002; B033; B015; B013; B014; B020; B023; B048; B003; B025; B026; B034; B036; B060; P2022-12-17; P2026-07-30; P2024-05-04; P2025-06-26; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-08-03; P2024-07-14; P2024-03-03; P2024-04-13; P2024-04-14; P2026-08-04; P2024-03-02; P2024-02-03; P2023-05-13; P2023-12-02; P2021-03-27; P2025-11-29,5
+RC-002,Rebelião de Lúcifer,Eventos & Eras,provisório,SIM,B031; B003; B026; B057; B058; P2024-03-03; P2024-04-13,1
+RC-003,Reintegração Cósmica,Conceitos Cosmológicos,provisório,SIM,B031; B003; B025; B026; B005; B027; B042; P2022-12-17; P2021-12-04; P2024-05-04; P2025-02-16; P2024-07-13; P2024-03-02,5
+RC-004,Elohim,Seres & Entidades,candidato,NAO,B061; P2024-09-28,2
+RC-005,Segundo Advento do Cristo (Volta de Jesus),Eventos & Eras,provisório,SIM,B001; B002; B016; B014; B003; B025; B005; B011; B042; P2026-08-04; P2024-03-02; RC-674; RC-565,4
+RC-006,Guerra do Éden,Eventos & Eras,provisório,NAO,B015,0
+RC-007,Exilados de Capela,Seres & Entidades,provisório,SIM,B031; B003; B025; B026; B057,1
+RC-008,Tzimtzum,Termos Específicos,provisório,SIM,B013,3
+RC-009,Sophia (Cristo Cósmico),Seres & Entidades,provisório,SIM,B031; B017; B018; B039; B016; B014; B057; B058; B060; B061; P2024-02-25; P2022-12-17; P2021-12-04; P2026-07-30; P2024-05-04; P2026-04-02; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-08-03; P2024-07-14; P2024-03-03; P2026-08-04; P2024-03-02; ART-2026-08-18; P2023-05-13; P2023-12-02; P2021-03-27; P2024-09-28,14
+RC-010,Atlântida / Terra Atlantis,Lokas & Geografias,candidato,NAO,P2025-02-16,0
+RC-011,Adhy,Seres & Entidades,provisório,NAO,B031; B022; B051; P2021-12-04; P2024-11-30,0
+RC-012,Adhyagia,Seres & Entidades,provisório,NAO,B031; B024; B022; B051; P2021-12-04; P2025-02-16; P2024-11-30,0
+RC-013,Adhyatman,Seres & Entidades,provisório,NAO,B031; B024; B022; B051; P2021-12-04; P2025-02-16; P2024-11-30,0
+RC-014,Adhydaiva,Termos Específicos,provisório,NAO,B031; B044; B016; B022; B051; P2021-12-04; P2024-05-04; P2025-02-16; P2024-11-30,0
+RC-015,Adhybutha,Termos Específicos,provisório,NAO,B031; B051; P2021-12-04; P2025-02-16; P2024-11-30,0
+RC-016,Adhyajna,Termos Específicos,provisório,NAO,B031; B016; B051; P2021-12-04; P2025-02-16; P2024-11-30,0
+RC-017,Alt´Lam,Lokas & Geografias,provisório,NAO,B031,0
+RC-018,Alt´Lam Gron,Tecnologias & Artefatos,provisório,NAO,B031; B017; B018; B039,0
+RC-019,Anjos clones,Seres & Entidades,provisório,NAO,B031; B024; B044; B035; B001; B002; B015; P2025-10-25; P2025-06-26; P2025-02-15; P2024-11-30; P2024-09-29; P2024-04-13,1
+RC-020,Anjos caídos,Seres & Entidades,provisório,NAO,B031; B003; B005,0
+RC-021,Antares (Sistema),Lokas & Geografias,provisório,NAO,B031; B058,0
+RC-022,Antlar,Lokas & Geografias,provisório,NAO,B031,0
+RC-023,Antlartes,Lokas & Geografias,provisório,NAO,B031,0
+RC-024,Anunnakis,Seres & Entidades,provisório,SIM,B031; B017; B018; B023; B061; P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-09; P2024-04-13; P2023-12-02; P2021-03-27,1
+RC-025,Asphezian,Tecnologias & Artefatos,provisório,NAO,B031,0
+RC-026,Astralização dos Biodemos,Processos & Fenômenos,provisório,NAO,B031,0
+RC-027,Astréia,Seres & Entidades,provisório,NAO,B031; B060,0
+RC-028,Atlan,Lokas & Geografias,provisório,NAO,B031; B017; B018; B039; B006,0
+RC-029,Atlans,Lokas & Geografias,provisório,NAO,B031,0
+RC-030,Atlantes,Seres & Entidades,provisório,NAO,B031,0
+RC-031,Aya e Aye,Seres & Entidades,provisório,NAO,B031; B024; B044; B061,0
+RC-032,Benem,Lokas & Geografias,provisório,NAO,B031; B017; B018; B061,0
+RC-033,Bhuloka,Termos Específicos,provisório,NAO,B031; P2025-03-15,0
+RC-034,Big Bang,Conceitos Cosmológicos,provisório,NAO,B031; B024; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,0
+RC-035,Bilatérios,Seres & Entidades,provisório,NAO,B031; P2024-05-04; P2025-02-16; P2024-04-13,0
+RC-036,Biodemos,Seres & Entidades,provisório,NAO,B031; B044; B001; B017; B018; B039; B023; B050; B057; B058; P2024-05-04; P2024-04-13,1
+RC-037,Brahma (Brajna),Seres & Entidades,provisório,SIM,B031; B024; B044; B001; B033; B013; B020; B022; B060; B061; P2022-12-17; P2026-07-30; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-08-03; P2024-07-14; P2025-11-29,6
+RC-038,Brahmaloka,Termos Específicos,provisório,NAO,B031; B016; B013; B021; B023; P2025-03-15,0
+RC-039,Capela (Sistema),Lokas & Geografias,provisório,NAO,B031; B003; B025; B057; B058,0
+RC-040,CFD (Código Fonte Definidor),Conceitos Cosmológicos,provisório,NAO,B031; B024; B002; B033; B021; B041; B040; B019; P2022-12-17; P2021-12-04; P2024-05-04; P2024-08-03,1
+RC-041,Criador (Brahma/Javé/Demiurgo),Seres & Entidades,provisório,SIM,B031; B044; B035; B001; B002; B033; B015; B016; B013; B020; B048; B041; B034; B036; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29,1
+RC-042,Criatura Universal,Seres & Entidades,provisório,SIM,B031; B024; B019; P2026-04-02; P2023-05-13,0
+RC-043,Conselho dos Cinco,Genealogias & Linhagens,provisório,NAO,B031,0
+RC-044,Cultura Demo,Conceitos Cosmológicos,provisório,NAO,B031; B044,0
+RC-045,Daemon,Termos Específicos,provisório,NAO,B031,0
+RC-046,Dan,Lokas & Geografias,provisório,NAO,B031; B057; B058,0
+RC-047,Deidade (Pai-Mãe Amantíssimo / Brahman),Seres & Entidades,provisório,SIM,B031; B024; B001; B002; B048; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-28,1
+RC-048,Demiurgo,Termos Específicos,provisório,NAO,B031,0
+RC-049,Demos,Seres & Entidades,provisório,SIM,B031; B044; B035; B021; B022; B023; B050; B052; B060; P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-09-29; P2024-03-03; P2024-04-13,0
+RC-050,Demônios,Seres & Entidades,provisório,NAO,B031; P2025-06-26,0
+RC-051,Despina,Seres & Entidades,provisório,NAO,B031; B060,0
+RC-052,Deus / Deus Incognoscível,Seres & Entidades,provisório,SIM,B031; B001; B002; B048; B061; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09,0
+RC-053,Deuses (os dois tipos),Seres & Entidades,provisório,NAO,B031; P2025-02-16; P2024-11-30; P2024-11-09,0
+RC-054,Divindades (Co-criadoras),Seres & Entidades,provisório,NAO,B031; B024,0
+RC-055,En Drel,Seres & Entidades,provisório,SIM,B031; B015; B061; P2025-10-25,0
+RC-056,Especiação,Processos & Fenômenos,provisório,SIM,B031; P2022-12-17; P2025-02-16; P2024-09-29; P2024-07-13; P2023-05-13; P2021-03-27; P2025-11-29,0
+RC-057,Espherian,Tecnologias & Artefatos,provisório,NAO,B031,0
+RC-058,Espheron,Tecnologias & Artefatos,provisório,NAO,B031; B017; B018; B039,0
+RC-059,Espiritualidade Superior,Conceitos Cosmológicos,provisório,NAO,B031; B024; B013; B027; B051; B060; P2021-12-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14,1
+RC-060,Espiritualidade Operacional,Conceitos Cosmológicos,provisório,NAO,B031; B013; B051; B060; P2021-12-04; P2024-05-04; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14,1
+RC-061,Espiritualidade Laboratorial,Conceitos Cosmológicos,provisório,NAO,B031; B024; B013; B051; B060; P2021-12-04; P2024-05-04; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14,1
+RC-062,Experiência Gron,Eventos & Eras,provisório,NAO,B031,0
+RC-063,Favor Divino,Conceitos Cosmológicos,provisório,NAO,B031; B048; P2025-03-15; P2024-11-09; P2024-09-29; P2024-04-14; P2025-06-14,0
+RC-064,Fenvans,Seres & Entidades,provisório,NAO,B031; B024; P2022-12-17; P2024-11-30; P2024-08-03; P2024-04-13,1
+RC-065,Frota Norte,Genealogias & Linhagens,provisório,NAO,B031; B017; B018; B061,0
+RC-066,Genos,Termos Específicos,provisório,NAO,B031,0
+RC-067,Gron Mion,Lokas & Geografias,provisório,NAO,B031,0
+RC-068,Hiperbórea,Lokas & Geografias,provisório,SIM,B031; B023; B052; B061; P2024-04-13; P2025-11-29,2
+RC-069,Ion Crom,Seres & Entidades,provisório,NAO,B031,0
+RC-070,Isolamento Cósmico,Eventos & Eras,provisório,SIM,B031; B033; B003; B025; B026; B005; P2022-12-17; P2024-11-30; P2024-07-13,1
+RC-071,Jan Val Ellam (Rogério de Almeida Freitas),Seres & Entidades,provisório,NAO,B031; B016; B006; B027; B034; B036; B060; P2021-12-04; P2025-06-26,1
+RC-072,Jesus,Seres & Entidades,provisório,SIM,B031; B017; B018; B039; B015; B016; B014; B020; B003; B025; B026; B005; B011; B049; B043; P2026-07-30; P2025-06-26; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2026-08-04; P2024-03-02; P2023-05-13; P2024-09-28; P2025-11-29,14
+RC-073,Keshava,Termos Específicos,provisório,NAO,B031; P2026-04-02,0
+RC-074,Len Mion (Satã),Seres & Entidades,provisório,SIM,B031; B017; B018; B039; B057; B058; B060; P2021-03-27; RC-286,1
+RC-075,Lila,Termos Específicos,provisório,NAO,B031; B024; B044; B035; B022; B023; P2024-11-30,0
+RC-076,Logos / Logos Criadores,Seres & Entidades,provisório,NAO,B031; B014,0
+RC-077,Lokas,Termos Específicos,provisório,NAO,B031; B021; B060,0
+RC-078,Lúcifer (Yel Luzbel),Seres & Entidades,provisório,SIM,B031; B017; B018; B039; B015; B003; B025; B026; B057; B058; B060; B061; P2022-12-17; P2024-03-03,3
+RC-079,Mastlans Phisosferas / Luciferianas,Tecnologias & Artefatos,provisório,NAO,B031; B061; P2022-12-17,0
+RC-080,Mensagem Talm,Tecnologias & Artefatos,provisório,SIM,B031; B017; P2023-05-13,1
+RC-081,Mohen So (Avatar Keshava de Vishnu),Seres & Entidades,provisório,SIM,B031; B017; B014; B061; P2026-04-02; P2025-10-25; P2024-11-30; P2024-11-02; P2024-08-03; P2024-04-14; P2023-12-02,11
+RC-082,Nephilins,Seres & Entidades,provisório,NAO,B031; B017; B018; B023,0
+RC-083,Norte Divino,Lokas & Geografias,provisório,NAO,B031,1
+RC-084,Orbe,Conceitos Cosmológicos,provisório,NAO,B031; P2024-11-09,0
+RC-085,Orbum,Lokas & Geografias,provisório,NAO,B031; B042,0
+RC-086,Pandora,Seres & Entidades,provisório,SIM,B031; B044; B020; B021; B061; P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09; ART-2026-08-18; P2024-02-03; P2024-08-03,5
+RC-087,Perpérion,Conceitos Cosmológicos,provisório,SIM,B031; B024; B013; B060; P2021-12-04; P2024-05-04,5
+RC-088,Portlan e Portlon,Lokas & Geografias,provisório,NAO,B031,0
+RC-089,Processador Val,Tecnologias & Artefatos,provisório,NAO,B031; B017; B018; B039; P2026-04-02,0
+RC-090,Projeto Planeta Azul,Eventos & Eras,provisório,NAO,B031; B003; B026,0
+RC-091,Projeto Talm,Eventos & Eras,provisório,SIM,B031; B024; B044; B001; P2021-12-04; P2025-03-15; P2024-11-02; P2024-08-03,6
+RC-092,Quarto Logos (Olm / Codificador de Zian),Seres & Entidades,provisório,SIM,B031; B016; B014; B057; B060; P2021-12-04; P2026-07-30; P2026-04-02; P2025-10-25; P2025-02-16; P2024-03-02; ART-2026-08-18; P2023-05-13; P2023-12-02; P2021-03-27; P2024-09-28; P2024-08-03,9
+RC-093,Radiatas,Seres & Entidades,provisório,NAO,B031; P2024-05-04; P2025-02-16; P2024-04-13,0
+RC-094,Revelação Cósmica (conceito),Conceitos Cosmológicos,provisório,SIM,B031; B044; B035; B013; B014; B022; B023; B048; B003; B005; B011; B049; B043; B041; B006; B050; B027; B051; B034; B036; B040; B052; B042; P2021-12-04; P2025-10-25; P2025-06-26; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2023-12-02; P2021-03-27,1
+RC-095,Rogério de Almeida Freitas,Seres & Entidades,provisório,NAO,B031,0
+RC-096,Septuaginta,Tecnologias & Artefatos,provisório,NAO,B031; P2026-08-04,1
+RC-097,Seres Extrafísicos,Seres & Entidades,provisório,NAO,B031,0
+RC-098,Seres Extraterrenos / Extraterrestres,Seres & Entidades,provisório,NAO,B031; B044; B005; B042,0
+RC-099,Seres Terrenos (Homo Sapiens),Seres & Entidades,provisório,NAO,B031; B039; B023; B048; B003; B026; B005; B049; B041; B006; B050; B034; B036; B040; B052; B061; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,0
+RC-100,Seres Espirituais,Seres & Entidades,provisório,NAO,B031; B024; B006; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,0
+RC-101,Shamb-Aha,Lokas & Geografias,provisório,NAO,B031; B017; B018; B039,0
+RC-102,Shiva (Savna),Seres & Entidades,provisório,SIM,B031; B024; B044; B001; B033; B016; B020; B021; B022; B050; B051; B036; B060; P2022-12-17; P2021-12-04; P2026-07-30; P2024-05-04; P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09; P2024-07-14; P2025-11-29,2
+RC-103,Tau Ceti (Sistema),Lokas & Geografias,provisório,NAO,B031; B058,0
+RC-104,Trimurti,Genealogias & Linhagens,provisório,SIM,B031; B035; B001; B033; B014; B021; B022; B023; B060; P2022-12-17; P2021-12-04; P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09; P2024-08-03; P2024-07-14; P2024-03-02; P2023-12-02; P2025-11-29,1
+RC-105,Ulsh,Genealogias & Linhagens,provisório,NAO,B031; B061,0
+RC-106,Universo Antimaterial (Brahmaloka / Universo Paralelo),Conceitos Cosmológicos,provisório,SIM,B031; B024; B044; B001; B002; B016; B013; B021; B041; B060; P2022-12-17; P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-08-03; P2024-07-13,4
+RC-107,Universo Material (Bhuloka),Conceitos Cosmológicos,provisório,SIM,B031; B024; B044; B001; B002; B013; B005; B060; P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,2
+RC-108,Universo Paralelo,Conceitos Cosmológicos,provisório,NAO,B031; P2025-02-16; P2024-11-30; P2024-11-09; P2024-08-03,0
+RC-109,Val (Família Val),Genealogias & Linhagens,provisório,NAO,B031; P2022-12-17,1
+RC-110,Val Am,Seres & Entidades,provisório,NAO,B031,0
+RC-111,Val Amon,Seres & Entidades,provisório,NAO,B031,0
+RC-112,Val Anen,Seres & Entidades,provisório,NAO,B031; B060,0
+RC-113,Val Anon,Seres & Entidades,provisório,NAO,B031,0
+RC-114,Val Antien,Seres & Entidades,provisório,NAO,B031,0
+RC-115,Val Aten,Seres & Entidades,provisório,NAO,B031,0
+RC-116,Val Bon,Seres & Entidades,provisório,NAO,B031; B060,0
+RC-117,Val Den,Seres & Entidades,provisório,NAO,B031,0
+RC-118,Val Dimon,Seres & Entidades,provisório,NAO,B031; B020,0
+RC-119,Val Ean,Seres & Entidades,provisório,NAO,B031,0
+RC-120,Val El / Val Ellam,Seres & Entidades,provisório,NAO,B031,0
+RC-121,Val Elliah,Seres & Entidades,provisório,NAO,B031,0
+RC-122,Val Ellieh,Seres & Entidades,provisório,NAO,B031,0
+RC-123,Val Eno,Seres & Entidades,provisório,NAO,B031; B017; B018; B039,0
+RC-124,Val Eon,Seres & Entidades,provisório,NAO,B031,0
+RC-125,Val Gevi,Seres & Entidades,provisório,NAO,B031,0
+RC-126,Val Geon,Seres & Entidades,provisório,NAO,B031,0
+RC-127,Val-Ha,Lokas & Geografias,provisório,NAO,B031; B061,0
+RC-128,Val Ilon,Seres & Entidades,provisório,NAO,B031,0
+RC-129,Val Pen,Seres & Entidades,provisório,NAO,B031; B060,0
+RC-130,Val Sean,Seres & Entidades,provisório,NAO,B031,0
+RC-131,Val Sion,Seres & Entidades,provisório,NAO,B031,0
+RC-132,Val Tam,Seres & Entidades,provisório,NAO,B031,0
+RC-133,Val dos Corpos Perdidos / Dimensionados,Seres & Entidades,provisório,NAO,B031,0
+RC-134,Viajores,Termos Específicos,provisório,NAO,B031; B015,0
+RC-135,Vishnu (Mavatna),Seres & Entidades,provisório,NAO,B031; B024; B044; B001; B033; B016; B014; B020; B021; B022; B051; B036; P2022-12-17; P2021-12-04; P2026-07-30; P2024-05-04; P2026-04-02; P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09; P2024-08-03; P2024-07-14,2
+RC-136,Yel (Família Yel),Genealogias & Linhagens,provisório,NAO,B031,1
+RC-137,Yel Adrax,Seres & Entidades,provisório,NAO,B031,0
+RC-138,Yel Am / Yel Liam,Seres & Entidades,provisório,NAO,B031; B011; B060; P2026-04-02; P2025-10-25,0
+RC-139,Yel Breasil,Seres & Entidades,provisório,NAO,B031,0
+RC-140,Yel Liam,Seres & Entidades,provisório,NAO,B031,0
+RC-141,Yel Lupon,Seres & Entidades,provisório,NAO,B031,0
+RC-142,Yel Luzbel,Seres & Entidades,provisório,NAO,B031; B017; B018; B039; B015; B057; B058; B060; P2022-12-17; P2024-03-03,1
+RC-143,Yel Luziel,Seres & Entidades,provisório,NAO,B031,0
+RC-144,Zeitgeist,Termos Específicos,provisório,NAO,B031,0
+RC-145,Zeus,Seres & Entidades,provisório,NAO,B031; B020; B021; B050; B060; P2022-12-17; P2025-10-25; P2024-11-30; P2024-11-09; P2024-09-29,4
+RC-146,Zian (Zion),Lokas & Geografias,provisório,NAO,B031; B057; B061,0
+RC-147,Zont En Drel 29,Seres & Entidades,provisório,SIM,B031; B015; P2025-10-25; P2025-06-26,2
+RC-148,Agentes da Vida Universal,Seres & Entidades,provisório,SIM,B031; B024; B001; B002; B014; B005,2
+RC-149,Mônada (Mônada Espiritual),Seres & Entidades,provisório,SIM,B024; B001; B002; B048; P2021-12-04; P2024-05-04; P2025-10-25; P2024-11-30; P2024-11-09,1
+RC-150,Xadrez Cósmico,Conceitos Cosmológicos,provisório,SIM,B024,1
+RC-151,"Gunas Criadoras (Sattva, Rajas, Tamas)",Termos Específicos,provisório,SIM,B024; P2024-09-29; P2024-02-03; P2024-09-28,3
+RC-152,Prabrajna,Seres & Entidades,provisório,SIM,B024; B044; B001; B016; B013; B022; B060; B061; P2021-12-04; P2026-07-30; P2024-05-04; P2025-03-15; P2024-11-30; P2024-11-09; P2024-04-14; P2025-06-14; P2024-03-02,7
+RC-153,CFDP (Código-fonte Definidor Pessoal),Conceitos Cosmológicos,provisório,NAO,B024; B041; B019; P2025-03-15,1
+RC-154,Nidana (ovo cósmico),Conceitos Cosmológicos,provisório,NAO,B024; P2024-05-04; P2025-03-15; P2024-11-30; P2024-04-13,2
+RC-155,Eras da Criação (10 eras),Eventos & Eras,provisório,SIM,B024; B033; B050,2
+RC-156,Era da Solidão,Eventos & Eras,provisório,NAO,B024,0
+RC-157,Era da Geração,Eventos & Eras,provisório,NAO,B024,0
+RC-158,Era da Punição,Eventos & Eras,provisório,NAO,B024,0
+RC-159,Era do Impasse,Eventos & Eras,provisório,NAO,B024,0
+RC-160,Entropia e Negentropia,Conceitos Cosmológicos,provisório,SIM,B024; P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-09-28,2
+RC-161,Memória Quântica dos Elétrons,Conceitos Cosmológicos,provisório,SIM,B024; B041; P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2025-06-14,6
+RC-162,Elétrons (agente básico da vida universal),Processos & Fenômenos,provisório,NAO,B024; B041; P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-03-03; P2024-04-14; P2025-06-14,0
+RC-163,Mente Universal (Emergente),Conceitos Cosmológicos,provisório,NAO,B024; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-04-14; P2025-06-14,2
+RC-164,Criaturas-ferramenta,Conceitos Cosmológicos,provisório,SIM,B024; B035; B019; P2025-03-15; P2025-02-15; P2024-11-30; P2024-04-13; P2024-04-14; P2021-03-27; P2025-11-29,1
+RC-165,Karuna,Termos Específicos,provisório,NAO,B024,0
+RC-166,Mentalma,Termos Específicos,provisório,SIM,B024; B074; B075; P2022-12-17; P2021-12-04; P2026-07-30; P2026-04-02; P2025-06-26; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-04-14; P2025-06-14; P2026-08-04; ART-2026-08-18; P2023-05-13,3
+RC-167,Criação Indevida (Obra indevida),Conceitos Cosmológicos,provisório,SIM,B024; B035; B001; B002; B016; B013; B022; B041; P2021-12-04; P2026-07-30; P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2023-05-13,2
+RC-168,Era da Lila e da Aceitação,Eventos & Eras,provisório,NAO,B024,0
+RC-169,Era da Semeadura Universal,Eventos & Eras,provisório,NAO,B024,0
+RC-170,Era do Refinamento da Semeadura Biológica Universal,Eventos & Eras,provisório,NAO,B024,0
+RC-171,Era da Geopolítica Universal e da Divisão do Comando,Eventos & Eras,provisório,NAO,B024,0
+RC-172,Era da Criatura Universal,Eventos & Eras,provisório,NAO,B024; B019,0
+RC-173,Era das Supercivilizações,Eventos & Eras,provisório,NAO,B024,0
+RC-174,Colmeia Universal,Conceitos Cosmológicos,provisório,SIM,B044; P2024-11-30; P2024-07-13,0
+RC-175,Abelha-Rainha (Javé),Seres & Entidades,provisório,SIM,B044; P2021-03-27; P2024-09-28,1
+RC-176,Modelo Colmeia (Sistema/Controle Colmeia),Conceitos Cosmológicos,provisório,SIM,B044; B035; B048; P2021-12-04; P2025-03-15; P2024-11-30; P2024-07-13; P2023-05-13; P2021-03-27,2
+RC-177,Colmeia do Éden,Lokas & Geografias,provisório,NAO,B044; B015,0
+RC-178,Dois Grandes Favos,Conceitos Cosmológicos,provisório,NAO,B044,1
+RC-179,Plano Colmeia (para o Universo Biológico),Eventos & Eras,provisório,SIM,B044; P2024-11-30; P2024-07-13,1
+RC-180,Fator Colmeia,Conceitos Cosmológicos,provisório,NAO,B044; P2024-11-30,0
+RC-181,Pluribus Unum,Termos Específicos,provisório,NAO,B044,0
+RC-182,Unus Pluribum,Termos Específicos,provisório,NAO,B044,0
+RC-183,Cultura Demodhármica,Conceitos Cosmológicos,provisório,NAO,B044; B014,1
+RC-184,Trava-demo,Conceitos Cosmológicos,provisório,NAO,B044; B020,0
+RC-185,Horda Colmeia,Seres & Entidades,provisório,NAO,B044,0
+RC-186,Biodemol,Seres & Entidades,provisório,NAO,B044; B017; B018; B023; P2024-11-30; P2024-04-13,1
+RC-187,Insectoides,Seres & Entidades,provisório,NAO,B044,1
+RC-188,Mente Coletiva / Redes Psíquicas Coletivas,Conceitos Cosmológicos,provisório,SIM,B044; P2021-12-04; P2026-07-30; P2024-11-09,2
+RC-189,Eva (figura),Seres & Entidades,provisório,NAO,B044; B020; P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09; P2024-02-03,1
+RC-190,Revelação Espiritual (Kardec),Conceitos Cosmológicos,provisório,NAO,B044; B016; B013; B048; B006; B060; B061; B042; P2025-02-15; P2024-11-30; P2024-11-09; P2024-03-03; P2024-04-14; P2025-06-14; P2024-02-03,1
+RC-191,Fofocas cósmicas,Termos Específicos,provisório,NAO,B044; P2025-03-15; P2025-02-15,0
+RC-192,Pílula vermelha,Termos Específicos,provisório,SIM,B044; P2025-03-15; P2025-02-15; P2024-11-30; P2023-05-13,5
+RC-193,Rebanho humano,Termos Específicos,provisório,SIM,B044; P2024-07-14,1
+RC-194,Big Data Cósmico,Conceitos Cosmológicos,provisório,SIM,B035; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-04-13,3
+RC-195,Simbiose Quântica,Conceitos Cosmológicos,provisório,SIM,B035,1
+RC-196,Criador refém das próprias criaturas,Conceitos Cosmológicos,provisório,NAO,B035; B001,2
+RC-197,Big Data da Terra,Conceitos Cosmológicos,provisório,NAO,B035; P2024-09-29,1
+RC-198,Rédeas Genéticas,Conceitos Cosmológicos,candidato,NAO,B035; P2024-09-29,0
+RC-199,Assinatura da Alma,Conceitos Cosmológicos,candidato,NAO,B035; P2025-03-15,1
+RC-200,Base de Dados do Juízo Final,Conceitos Cosmológicos,candidato,SIM,B035; P2025-02-15; P2025-06-14,0
+RC-201,O Livro do Criador,Conceitos Cosmológicos,candidato,NAO,B035,1
+RC-202,Linhagens Preferenciais do Criador,Genealogias & Linhagens,candidato,NAO,B035; P2024-09-29,0
+RC-203,Fenômenos Denunciadores do Fim,Eventos & Eras,candidato,NAO,B035; P2025-03-15,0
+RC-204,Realidade Maior / Paraíso Original,Conceitos Cosmológicos,provisório,SIM,B001; P2021-12-04; P2026-07-30; P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,1
+RC-205,Pai Supremo (Amantíssimo),Seres & Entidades,provisório,NAO,B001; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,1
+RC-206,Divindades Excelsas,Seres & Entidades,provisório,NAO,B001,0
+RC-207,Arquiteto Universal,Seres & Entidades,provisório,SIM,B001; B002; B019,1
+RC-208,Criador de Padrões Dependentes,Conceitos Cosmológicos,provisório,NAO,B001; B002; P2024-05-04,0
+RC-209,Vida de Padrão Dependente,Conceitos Cosmológicos,provisório,NAO,B001; B002; P2024-05-04,0
+RC-210,Matriz Modeladora / Matriz de Cocriação,Conceitos Cosmológicos,provisório,SIM,B001; B015; P2024-05-04,2
+RC-211,Kundalini (no contexto RC),Conceitos Cosmológicos,provisório,NAO,B001; B074; B075; P2024-05-04,0
+RC-212,O Grande Dia do Senhor Javé,Eventos & Eras,provisório,NAO,B001,0
+RC-213,Centro de Comando Paralelo,Lokas & Geografias,provisório,NAO,B001,0
+RC-214,Agente do Mais Alto,Seres & Entidades,provisório,NAO,B001; B011; B042,0
+RC-215,Emissários da Espiritualidade Maior,Seres & Entidades,provisório,NAO,B001; B042,0
+RC-216,Queda do Arquiteto Universal,Eventos & Eras,provisório,NAO,B002; B019,1
+RC-217,DNA como Projeção Holográfica do Psiquismo do Criador,Conceitos Cosmológicos,provisório,SIM,B002; B034; B040; B052; B019; B074; B075; P2022-12-17; P2021-12-04; P2026-07-30; P2024-05-04; P2026-04-02; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-07-13,1
+RC-218,Holograma Universal,Conceitos Cosmológicos,provisório,NAO,B002; P2025-02-15; P2024-11-30,1
+RC-219,Agente Secreto do Bem,Seres & Entidades,provisório,NAO,B002,1
+RC-220,Conspiração do Desespero,Eventos & Eras,provisório,NAO,B002,0
+RC-221,Sustentação Espiritual do Universo,Conceitos Cosmológicos,provisório,NAO,B002,0
+RC-222,Filhos das Estrelas,Seres & Entidades,provisório,NAO,B002,1
+RC-223,O Mal: Subproduto da Ignorância Espiritual,Conceitos Cosmológicos,provisório,SIM,B002; P2025-02-15; P2024-11-30; P2024-11-09,2
+RC-224,Prevalece o Amor,Conceitos Cosmológicos,provisório,NAO,B002; P2025-03-15,0
+RC-225,Gestão Cósmica,Conceitos Cosmológicos,provisório,SIM,B033,2
+RC-226,Cidadão Cósmico,Conceitos Cosmológicos,provisório,SIM,B033; B027; B042,1
+RC-227,Opção Terra,Eventos & Eras,provisório,NAO,B033,0
+RC-228,Observação de Sileno (Filhos do Tormento e do Acaso),Conceitos Cosmológicos,provisório,NAO,B033,0
+RC-229,A Lógica de Javé e a Origem da Humanidade,Conceitos Cosmológicos,provisório,NAO,B033,0
+RC-230,Reflexos da Doença (Herança do DNA),Conceitos Cosmológicos,provisório,NAO,B033,0
+RC-231,Razão Filosófica dos Terráqueos,Conceitos Cosmológicos,provisório,SIM,B033; B005; B049; P2025-03-15; P2024-11-30; P2024-11-09; P2024-07-14,0
+RC-232,Ostronomos,Seres & Entidades,provisório,SIM,B017; B018; B060,2
+RC-233,Marca Val (A Estratégia do Possível),Processos & Fenômenos,provisório,NAO,B017,2
+RC-234,Cidades Voadoras,Tecnologias & Artefatos,provisório,NAO,B018,1
+RC-235,Teurgistas,Termos Específicos,provisório,NAO,B039,0
+RC-236,O Calvário de um Inocente,Eventos & Eras,provisório,SIM,B039; B011,2
+RC-237,Land's End (Sinal de Land's End),Lokas & Geografias,provisório,NAO,B017,1
+RC-238,Era Sapiens,Eventos & Eras,provisório,NAO,B039,1
+RC-239,Hitler (figura histórica no RC),Seres & Entidades,provisório,NAO,B039,1
+RC-240,Império dos Descendentes dos Seres dos Portais,Genealogias & Linhagens,provisório,NAO,B018; P2024-09-29,1
+RC-241,Seres dos Portais,Seres & Entidades,provisório,SIM,B017; B018; B031; B021; P2022-12-17,2
+RC-242,Éden do Criador (Éden como laboratório),Lokas & Geografias,provisório,SIM,B015; B020; B052,2
+RC-243,Genética da Confiança,Conceitos Cosmológicos,provisório,SIM,B015; P2025-02-15,2
+RC-244,Germe da Desconfiança,Conceitos Cosmológicos,provisório,NAO,B015,1
+RC-245,A Humanização do Criador,Conceitos Cosmológicos,provisório,SIM,B015; B036; P2024-05-04; P2025-10-25,1
+RC-246,Dez Sagrados (primeira geração do Criador),Seres & Entidades,provisório,NAO,B015,1
+RC-247,Endrelnianos,Seres & Entidades,provisório,NAO,B015,1
+RC-248,Viajores da Rebelião,Seres & Entidades,provisório,NAO,B015,1
+RC-249,Expulsão dos Viajores (decreto do Criador),Eventos & Eras,provisório,NAO,B015,1
+RC-250,Mundo das Águas,Lokas & Geografias,provisório,NAO,B015,1
+RC-251,Laboratórios do Criador,Conceitos Cosmológicos,provisório,NAO,B015; P2024-09-29,0
+RC-252,Olm (Codificador de Zion/Zian),Seres & Entidades,provisório,SIM,B016; B057; B060; P2021-12-04; P2024-08-03,1
+RC-253,Liberdade Mental (premissa do Quarto Logos),Conceitos Cosmológicos,provisório,SIM,B016; B014; B005; B049; P2021-12-04; P2026-07-30; P2024-05-04; P2026-04-02; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,1
+RC-254,Dominação (premissa dos Três Primeiros Logos),Conceitos Cosmológicos,provisório,NAO,B016; P2024-09-29,1
+RC-255,A Mensagem do Codificador de Zion,Tecnologias & Artefatos,provisório,NAO,B016,1
+RC-256,Escola dos Agentes Esclarecidos da Busca da Verdade,Conceitos Cosmológicos,provisório,NAO,B016; P2021-12-04,1
+RC-257,Espiritismo como Expressão do Quarto Logos,Conceitos Cosmológicos,provisório,SIM,B016,1
+RC-258,Coreografia Cósmica (vinda de Sophia),Eventos & Eras,provisório,NAO,B016; P2024-07-13,1
+RC-259,Apolônio de Tiana (encarnação do Quarto Logos),Seres & Entidades,provisório,SIM,B016; B061; P2021-12-04; P2025-02-15; P2024-11-30; P2024-11-09; P2023-12-02,1
+RC-260,Prisioneiros da Brahmaloka,Seres & Entidades,provisório,SIM,B016,2
+RC-261,Kether (Javé na Cabala),Seres & Entidades,provisório,SIM,B013; B060; P2024-07-14,4
+RC-262,Daath (a Criação na Cabala),Conceitos Cosmológicos,provisório,SIM,B013,1
+RC-263,Sefirot / Árvore da Vida,Termos Específicos,provisório,SIM,B013; P2024-11-09; P2024-07-14,4
+RC-264,"Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah)",Conceitos Cosmológicos,provisório,SIM,B013; B060,5
+RC-265,Os 270 Mundos (profecia do Zohar),Lokas & Geografias,provisório,SIM,B013,1
+RC-266,Sepher ha-Zohar (e Shimon Bar Yochai),Tecnologias & Artefatos,provisório,SIM,B013; P2024-11-09; P2024-07-14,2
+RC-267,Isaac Luria e o conceito do Tzimtzum,Termos Específicos,provisório,SIM,B013; P2024-11-09,1
+RC-268,Gnosticismo (contraponto à Cabala),Conceitos Cosmológicos,provisório,SIM,B013; P2026-04-02; P2024-11-09; P2023-12-02; P2024-09-28,2
+RC-269,Linhagens Humanas: Preferidas e Preteridas,Genealogias & Linhagens,provisório,NAO,B013; P2024-09-29,1
+RC-270,Linhagem dos Patriarcas Hebreus,Genealogias & Linhagens,provisório,NAO,B013; B036; B052,0
+RC-271,Pactos do Criador (troca de informações),Conceitos Cosmológicos,provisório,NAO,B013; P2024-09-29; P2024-04-13,1
+RC-272,Laço Temporal de Kether/Javé,Conceitos Cosmológicos,provisório,NAO,B013,0
+RC-273,A Falsa Trindade (Concílio de Niceia),Eventos & Eras,provisório,SIM,B014; P2026-08-04; P2024-09-28,1
+RC-274,Cápsula do Tempo de Sophia (João),Tecnologias & Artefatos,provisório,SIM,B014; B042; P2024-03-02; RC-009,2
+RC-275,Arte Demodhármica do Possível,Conceitos Cosmológicos,provisório,NAO,B014,1
+RC-276,Sacralização do Absurdo,Conceitos Cosmológicos,provisório,NAO,B014,1
+RC-277,A Jaula de Cada Espécie,Conceitos Cosmológicos,provisório,NAO,B014,1
+RC-278,Olhar Adulto,Conceitos Cosmológicos,provisório,NAO,B014,0
+RC-279,Modo Trimurtiano de Sophia,Conceitos Cosmológicos,provisório,NAO,B014,0
+RC-280,Sophia e a Ressurreição de Jesus,Eventos & Eras,provisório,NAO,B014; P2025-02-15; P2024-11-30,3
+RC-281,Agentes do Quarto Logos,Seres & Entidades,provisório,NAO,B014,1
+RC-282,Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências),Termos Específicos,provisório,SIM,B014; B060; B061; P2026-04-02; P2025-10-25; P2024-11-30; P2024-11-02; P2024-08-03; P2024-04-14; P2024-03-02; P2023-12-02; P2021-03-27,8
+RC-283,Pandora como Serpente do Éden,Eventos & Eras,provisório,SIM,B020; P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-09,3
+RC-284,Caos = Brahma = Javé (correspondência),Termos Específicos,provisório,SIM,B020; B021; B023; B060; P2025-03-15; P2024-11-30; P2024-11-09; P2024-09-29,2
+RC-285,Opção Inusitada de Pandora (humanização),Processos & Fenômenos,provisório,SIM,B020; P2021-12-04,1
+RC-286,Eros = Vishnu / Tártaro = Shiva (correspondências),Termos Específicos,provisório,SIM,B020; B021; B060; B061; P2024-11-30; P2024-11-09,5
+RC-287,Enigma da Esperança (Caixa de Pandora),Conceitos Cosmológicos,provisório,SIM,B020; ART-2026-08-18,1
+RC-288,Os Anais de uma Cultura Perdida,Tecnologias & Artefatos,provisório,NAO,B020,0
+RC-289,O Vício de Epimeteu,Conceitos Cosmológicos,provisório,NAO,B020,1
+RC-290,Cuidado com o 'Ide e Pregai',Conceitos Cosmológicos,provisório,NAO,B020,0
+RC-291,Fim do Silêncio de Pandora,Eventos & Eras,provisório,NAO,B020,1
+RC-292,Telos (de um deus),Termos Específicos,provisório,SIM,B021; P2024-09-29,1
+RC-293,Timé (de um deus),Termos Específicos,provisório,SIM,B021; P2024-09-29,4
+RC-294,Eon de Khaos (Universo de Caos),Lokas & Geografias,provisório,SIM,B021; P2026-07-30,2
+RC-295,Drama do Fechamento dos Portais,Eventos & Eras,provisório,SIM,B021; P2022-12-17; P2025-02-16; P2024-11-30; P2024-09-29,3
+RC-296,Pitonisas e Oráculos (Apolo/Delfos),Conceitos Cosmológicos,provisório,NAO,B021; P2024-04-13,1
+RC-297,Era dos Humanos (Zeus e a),Eventos & Eras,provisório,SIM,B021; P2025-11-29,2
+RC-298,Descendência de Pirra (Pirra e Deucalião),Genealogias & Linhagens,provisório,SIM,B021; P2024-11-09,1
+RC-299,Kalil Kadmon (nome demo de Pandora),Seres & Entidades,provisório,SIM,B021; P2024-08-03,1
+RC-300,Dissolução da Tríade (2015–2017),Eventos & Eras,provisório,NAO,B021; B022; P2022-12-17; P2024-11-30,1
+RC-301,Prometeu (titã),Seres & Entidades,provisório,NAO,B020; B021; P2025-02-16; P2024-11-09; P2025-06-14,2
+RC-302,Epimeteu (titã),Seres & Entidades,provisório,SIM,B020; B021; P2025-02-16; P2024-11-09; P2025-06-14; P2024-08-03,2
+RC-303,Pirra,Seres & Entidades,provisório,NAO,B021; P2024-11-09,1
+RC-304,Deucalião,Seres & Entidades,provisório,NAO,B021; P2024-11-09,1
+RC-305,Têmis,Seres & Entidades,provisório,NAO,B021,0
+RC-306,Apolo,Seres & Entidades,provisório,NAO,B021; B060; P2024-04-13,0
+RC-307,Hefesto,Seres & Entidades,provisório,NAO,B020; B021; B060,1
+RC-308,Adhytia (nível hierárquico),Seres & Entidades,provisório,SIM,B022,2
+RC-309,Ordem dos Indecifráveis,Seres & Entidades,provisório,NAO,B022,1
+RC-310,Adhyshprabrajna (Adhy que caiu),Seres & Entidades,provisório,SIM,B022; B051; P2021-12-04,2
+RC-311,Adhyagya (formas espirituais Adhy),Seres & Entidades,provisório,SIM,B022,3
+RC-312,Criação Bipartida,Conceitos Cosmológicos,provisório,NAO,B022; P2024-11-30,2
+RC-313,Tempo de Apostasia,Eventos & Eras,provisório,NAO,B022,1
+RC-314,Fenômenos Denunciadores do Fim,Eventos & Eras,provisório,SIM,B022; P2025-03-15,1
+RC-315,O Fim da Lila,Eventos & Eras,provisório,NAO,B022; P2024-11-30,1
+RC-316,Decifra-me ou Devoro (hábito demo),Conceitos Cosmológicos,provisório,NAO,B022; P2025-06-14,1
+RC-317,Esgotamento e Solidão (dos Trimurtianos),Conceitos Cosmológicos,provisório,NAO,B022,0
+RC-318,A Estranha Autorrealização de Shiva,Eventos & Eras,provisório,NAO,B022,1
+RC-319,Fator Dharma,Conceitos Cosmológicos,provisório,SIM,B023; P2024-11-30,1
+RC-320,Senhores do Dharma (= Senhores da Lila / Trimurti),Seres & Entidades,provisório,SIM,B023; P2024-11-30,2
+RC-321,Castas Trimurtianas,Genealogias & Linhagens,provisório,SIM,B023; P2024-11-30,2
+RC-322,Dharma e Castas (origem demo),Termos Específicos,provisório,NAO,B023; P2024-11-30,1
+RC-323,Entroncamentos Genéticos Intersiderais,Processos & Fenômenos,provisório,SIM,B023; P2025-02-16; P2024-11-30; P2024-09-29,2
+RC-324,Grupos de Entroncamento (1-4),Processos & Fenômenos,provisório,NAO,B023,0
+RC-325,Genética Totalitária,Conceitos Cosmológicos,provisório,SIM,B023; P2024-11-30; P2024-11-09; P2024-09-29,2
+RC-326,"Povos Escolhidos (ariano, judeu, árabe)",Genealogias & Linhagens,provisório,NAO,B023; P2024-11-30; P2024-04-13,1
+RC-327,Homo hierarchicus,Seres & Entidades,provisório,NAO,B023,1
+RC-328,Imperativo Categórico da Moral,Conceitos Cosmológicos,provisório,SIM,B023; P2026-07-30; P2026-04-02; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09,1
+RC-329,Kumari Kandan (tradição),Lokas & Geografias,provisório,SIM,B023; P2022-12-17; P2025-02-16; P2024-11-30; P2024-04-13,2
+RC-330,Civilização Saraswati,Lokas & Geografias,provisório,NAO,B023,0
+RC-331,Ra-Atom / Og-mi (nomes do Criador),Termos Específicos,provisório,NAO,B023; B060,1
+RC-332,Favor Divino (conceito invertido),Conceitos Cosmológicos,provisório,SIM,B048; B041; B034; B036; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-09-29; P2024-04-14; P2025-06-14; P2024-03-02,4
+RC-333,Democracia do Amor da Deidade,Conceitos Cosmológicos,provisório,SIM,B048,2
+RC-334,Teocracia da Doença de uma Divindade,Conceitos Cosmológicos,provisório,SIM,B048; P2024-11-30,1
+RC-335,Lavagem Cerebral (condicionamento),Conceitos Cosmológicos,provisório,SIM,B048; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-03-03; P2026-08-04,4
+RC-336,Ética da Sobrevivência de Javé,Conceitos Cosmológicos,provisório,NAO,B048; P2024-11-30,1
+RC-337,Humanos: uma simples Experiência Biológica,Conceitos Cosmológicos,provisório,NAO,B048; P2024-11-30,0
+RC-338,O Reconhecimento que nunca veio,Conceitos Cosmológicos,provisório,NAO,B048,1
+RC-339,A Difícil Cobrança sobre os Humanos,Conceitos Cosmológicos,provisório,NAO,B048,1
+RC-340,Atores de uma Peça Incompreensível,Conceitos Cosmológicos,provisório,NAO,B048,0
+RC-341,Ferramentas do Favor Divino (religiões e pensadores),Conceitos Cosmológicos,provisório,NAO,B048; P2024-11-09; P2024-09-29,1
+RC-342,Quarentena Sideral / Cósmica,Eventos & Eras,provisório,SIM,B003; B025; B026; B042; P2024-07-13,4
+RC-343,Portal Cósmico (destinação do Planeta Azul),Lokas & Geografias,provisório,NAO,B003; B026,1
+RC-344,Transição Planetária,Eventos & Eras,provisório,NAO,B003; B025; B042; P2022-12-17; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30,1
+RC-345,Sentimento Luciferiano,Conceitos Cosmológicos,provisório,NAO,B003,0
+RC-346,Jeová (grafia da trilogia),Seres & Entidades,provisório,SIM,B003; B025; P2024-11-30,1
+RC-347,Projeto Terra,Eventos & Eras,provisório,NAO,B026; B019; P2024-11-30,1
+RC-348,Roteiro do Exílio,Eventos & Eras,provisório,NAO,B026,1
+RC-349,Exílios Interplanetários,Eventos & Eras,provisório,NAO,B003,1
+RC-350,"Jesus, o Capelino",Seres & Entidades,provisório,NAO,B025,1
+RC-351,Mestres de Capela,Seres & Entidades,provisório,NAO,B025,1
+RC-352,A Segunda Grande Vinda,Eventos & Eras,provisório,NAO,B025,1
+RC-353,Ilha Cósmica (mundos rebelados),Lokas & Geografias,provisório,NAO,B003,1
+RC-354,Trilogia Queda e Ascensão Espiritual,Tecnologias & Artefatos,provisório,NAO,B003; B025; B026,3
+RC-355,Fator Extraterrestre (o Elo Perdido),Conceitos Cosmológicos,provisório,SIM,B005; B042,3
+RC-356,Fonte da Vida (metáfora da ilha/oceano),Conceitos Cosmológicos,provisório,NAO,B005,1
+RC-357,Confederações de Mundos,Genealogias & Linhagens,provisório,SIM,B005,2
+RC-358,Terra de Ninguém (cósmica),Lokas & Geografias,provisório,NAO,B005,1
+RC-359,Abduções e Reparo Espiritual,Processos & Fenômenos,provisório,SIM,B005; P2025-02-16,1
+RC-360,Atmosferizar a Lua ou Marte (Opção Final),Eventos & Eras,provisório,NAO,B005,1
+RC-361,Antropocentrismo (crítica),Conceitos Cosmológicos,provisório,NAO,B005,1
+RC-362,Apego aos Conceitos Terrenos,Conceitos Cosmológicos,provisório,NAO,B005,1
+RC-363,Ótica e Ética Cósmicas,Conceitos Cosmológicos,provisório,NAO,B005,1
+RC-364,A Missão do Mestre,Eventos & Eras,provisório,NAO,B005; B042,1
+RC-365,O Fator Judas,Eventos & Eras,provisório,SIM,B011; P2026-04-02; P2025-10-25,3
+RC-366,O Enigma da Transfiguração,Eventos & Eras,provisório,SIM,B011,3
+RC-367,Alteração Vibratória (Transfiguração),Processos & Fenômenos,provisório,NAO,B011; P2025-02-15,0
+RC-368,Assessoria Cósmica (equipes espirituais de Jesus),Seres & Entidades,provisório,NAO,B011; P2025-02-15,1
+RC-369,Nietzsche como 'Amigo da Intenção de Jesus',Seres & Entidades,provisório,SIM,B049; P2024-11-09,1
+RC-370,A Criação de Ídolos para a Humanidade,Conceitos Cosmológicos,provisório,NAO,B049,1
+RC-371,A Fé de Jesus e a Razão de Nietzsche,Conceitos Cosmológicos,provisório,SIM,B049,1
+RC-372,O Ser Humano Emancipado,Conceitos Cosmológicos,provisório,NAO,B049; P2026-07-30; P2025-02-15,1
+RC-373,Os 20 Anos de Jesus entre os Celtas,Eventos & Eras,provisório,SIM,B043,1
+RC-374,Mordon (o Druida da Montanha),Seres & Entidades,provisório,NAO,B043,1
+RC-375,Druidas Celtas (contexto RC),Seres & Entidades,provisório,NAO,B043,0
+RC-376,José de Arimatéia (no corpus RC),Seres & Entidades,provisório,NAO,B043; B011; P2026-08-04,1
+RC-377,Brendiver e Dolman (personagens celtas),Seres & Entidades,provisório,NAO,B043,1
+RC-378,A Rebelião dos Elétrons,Eventos & Eras,provisório,SIM,B041; B024; P2024-05-04; P2025-03-15; P2024-11-30; P2024-11-09; P2024-03-03; P2024-04-14,8
+RC-379,Dança dos Elétrons,Processos & Fenômenos,provisório,SIM,B041; P2024-05-04,2
+RC-380,Imanência e Transcendência (Upanishades),Conceitos Cosmológicos,provisório,NAO,B041,1
+RC-381,Ressonância Mórfica (agente da rebelião),Conceitos Cosmológicos,provisório,NAO,B041; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-04-14,2
+RC-382,A Vida do CFD de Javé no Ser Humano,Conceitos Cosmológicos,provisório,SIM,B041; B034; P2024-09-29,2
+RC-383,Roteiro do Absurdo Implantado na Criação,Conceitos Cosmológicos,provisório,NAO,B041,0
+RC-384,Proposta de um Humano Terrestre aos Elétrons,Conceitos Cosmológicos,provisório,NAO,B041,1
+RC-385,Egrégora (circuito dos elétrons rebeldes),Conceitos Cosmológicos,provisório,NAO,B041; B074; B075; P2026-07-30; P2025-03-15,1
+RC-386,Memórias para Javé,Conceitos Cosmológicos,provisório,NAO,B041; P2024-09-29,1
+RC-387,Fragmentação do Poder Mental da Divindade,Conceitos Cosmológicos,provisório,NAO,B041; P2024-05-04; P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09,1
+RC-388,Grupo Atlan,Genealogias & Linhagens,provisório,SIM,B006; B031; B044,4
+RC-389,Casa de Lucas (origem do Grupo Atlan),Lokas & Geografias,provisório,NAO,B006,0
+RC-390,Espíritos comunicantes do Grupo Atlan,Seres & Entidades,provisório,NAO,B006,2
+RC-391,Mesmice Espiritual,Conceitos Cosmológicos,provisório,NAO,B006,1
+RC-392,Reforma Íntima (tema do Grupo Atlan),Conceitos Cosmológicos,provisório,NAO,B006; B074; B075; P2025-03-15,1
+RC-393,Enéas (espírito comunicante),Seres & Entidades,provisório,NAO,B006,0
+RC-394,Mandreya Ramataiana (espírito comunicante),Seres & Entidades,provisório,NAO,B006,0
+RC-395,Ragnarok em Marte,Eventos & Eras,provisório,SIM,B050; B060; P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-02; P2024-08-03; P2024-03-02; P2025-11-29,11
+RC-396,Kvasir e Freya (Vanir/Aesir),Seres & Entidades,provisório,NAO,B050; B060; P2024-11-30; P2024-03-02,1
+RC-397,"Tirthankaras (Rishabh Dev, Jina Mahavira)",Seres & Entidades,provisório,NAO,B050; P2025-10-25; P2025-02-16; P2024-02-03,2
+RC-398,Thuata de Dannan,Seres & Entidades,provisório,NAO,B050; B060; P2024-04-13; P2024-02-03,2
+RC-399,Dwarka (submersa),Lokas & Geografias,provisório,NAO,B050,0
+RC-400,Foz Côa / FOXP2 (símbolos),Processos & Fenômenos,provisório,SIM,B050; B061; P2022-12-17; P2021-12-04; P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-08-03,0
+RC-401,Família Demolle (biodemos),Genealogias & Linhagens,provisório,NAO,B050,1
+RC-402,Halos de Poder (demos),Tecnologias & Artefatos,provisório,NAO,B050,1
+RC-403,Colegiado Druídico,Genealogias & Linhagens,provisório,NAO,B050; B052,1
+RC-404,Sentido Gradualístico das Leis da Evolução Cósmica,Conceitos Cosmológicos,provisório,SIM,B027; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09,2
+RC-405,Alvorecer de Aquário,Eventos & Eras,provisório,NAO,B027; P2022-12-17,1
+RC-406,"Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia)",Tecnologias & Artefatos,provisório,NAO,B027,2
+RC-407,Reencarnação iminente da grande leva de espíritos,Conceitos Cosmológicos,provisório,NAO,B027,1
+RC-408,ADHYMAVATANA (nome completo de Mavatna/Vishnu),Seres & Entidades,provisório,SIM,B051; B060; B061; P2021-12-04; P2024-05-04; P2025-02-16; P2024-11-30,2
+RC-409,ADHYSAVNA (nome completo de Savna/Shiva),Seres & Entidades,provisório,SIM,B051; B060; B061; P2021-12-04; P2024-05-04; P2025-02-16; P2024-11-30,1
+RC-410,ADHYPRABRAJNA (grafia do diagrama),Seres & Entidades,provisório,NAO,B051; B060; B061; P2021-12-04; P2024-05-04; P2025-02-16; P2024-11-30,1
+RC-411,"Gênero Adhy (147 seres, 5 espécies)",Seres & Entidades,provisório,SIM,B051; B022; P2021-12-04; P2024-05-04; P2025-10-25; P2024-11-30; P2024-11-09,3
+RC-412,"Emissários Humanos (Enoch, Abraão, Moisés, Jesus)",Seres & Entidades,provisório,NAO,B051; B060; B061,1
+RC-413,Hara (avatar de Shiva),Seres & Entidades,provisório,NAO,B051; B024,1
+RC-414,Krishna (avatar de Vishnu/Shiva),Seres & Entidades,provisório,SIM,B051; B023; B036; B061; P2025-02-16; P2024-11-30; P2024-03-02; P2023-12-02; P2024-09-28; P2025-11-29,12
+RC-415,Colapso da Matriz Quântica (3 níveis),Conceitos Cosmológicos,provisório,SIM,B051; P2021-12-04; P2024-05-04; P2025-03-15; P2025-02-15; P2024-11-09,5
+RC-416,Cartas a Javé (obra e diálogo),Tecnologias & Artefatos,provisório,SIM,B034; B036,3
+RC-417,Resposta de Javé (em 1ª pessoa),Tecnologias & Artefatos,provisório,SIM,B034,2
+RC-418,Terminal Nervoso do Criador (humano),Conceitos Cosmológicos,provisório,NAO,B034; B036; P2025-03-15; P2025-02-15,2
+RC-419,Sou eu que vivo em vocês (Javé),Conceitos Cosmológicos,provisório,NAO,B034; P2024-11-30,3
+RC-420,Mônica Camargo (autora das cartas),Seres & Entidades,provisório,NAO,B034,0
+RC-421,As Memórias de Javé (crônicas),Tecnologias & Artefatos,provisório,SIM,B036,4
+RC-422,Ser-Criador fracassado (autoconfissão de Javé),Conceitos Cosmológicos,provisório,SIM,B036; P2024-11-30; P2024-11-09,2
+RC-423,Advogado de Acusação (Ellam × Javé),Seres & Entidades,provisório,NAO,B036,2
+RC-424,"Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó)",Genealogias & Linhagens,provisório,SIM,B036; B060; B061; P2022-12-17; P2025-10-25; P2025-02-16; P2024-11-30; P2024-11-09; P2024-04-13; P2026-08-04; P2024-02-03,1
+RC-425,Krishna como 'pretenso Keshava',Seres & Entidades,provisório,NAO,B036; P2025-02-16; P2024-11-30,3
+RC-426,Javé sem avatares ('Não tenho isto!'),Seres & Entidades,provisório,SIM,B036; B016; P2022-12-17; P2024-11-30,1
+RC-427,Criatura-teste (estágio avançado),Conceitos Cosmológicos,provisório,NAO,B036,1
+RC-428,Tempo-limite (transição crítica de Javé),Eventos & Eras,provisório,NAO,B036; P2024-11-30; P2024-09-29,1
+RC-429,Javé alimenta-se do senso crítico humano,Conceitos Cosmológicos,provisório,NAO,B036; P2025-02-15; P2024-11-30; P2024-09-29,1
+RC-430,Esporte como evolução da Guerra,Conceitos Cosmológicos,provisório,SIM,B040,2
+RC-431,Guerreiro ao Atleta (transição),Conceitos Cosmológicos,provisório,NAO,B040,0
+RC-432,Agressividade canalizada (DNA doentio),Conceitos Cosmológicos,provisório,NAO,B040; B052; P2024-11-30,1
+RC-433,Força de Atração Sexual (anterior à polaridade),Conceitos Cosmológicos,provisório,SIM,B052; P2024-11-30; P2024-09-29; P2024-08-03,2
+RC-434,Homoafetividade (resquício da força original),Conceitos Cosmológicos,provisório,SIM,B052; P2025-03-15; P2024-11-30; P2024-03-03,1
+RC-435,O Segredo Perdido do Éden,Conceitos Cosmológicos,provisório,NAO,B052; P2024-03-03,1
+RC-436,Heber (patriarca pós-dilúvio),Seres & Entidades,provisório,NAO,B052; B060; P2022-12-17; P2025-10-25; P2024-11-30,1
+RC-437,Joctan e Faleg (filhos de Heber),Seres & Entidades,provisório,SIM,B052; P2022-12-17; P2025-10-25; P2024-11-30; P2021-03-27,3
+RC-438,"Tubal (filho de Jafé, centro de comércio)",Seres & Entidades,provisório,NAO,B052; P2024-11-30,1
+RC-439,Os Magos do Norte,Seres & Entidades,provisório,NAO,B052,1
+RC-440,A Sina dos Portadores,Eventos & Eras,provisório,NAO,B052,0
+RC-441,Mistérios Dionisíacos,Conceitos Cosmológicos,provisório,NAO,B052,1
+RC-442,Família Yel,Genealogias & Linhagens,provisório,SIM,B057; B058,2
+RC-443,Família Mion,Genealogias & Linhagens,provisório,SIM,B057; B058,1
+RC-444,Família Cromon,Genealogias & Linhagens,candidato,NAO,B059,1
+RC-445,Biocoletivos,Seres & Entidades,provisório,NAO,B057; B058,1
+RC-446,Processadores Familiares,Tecnologias & Artefatos,provisório,SIM,B057; B058,2
+RC-447,Primeiro Pesquisador (cargo capelino),Conceitos Cosmológicos,provisório,NAO,B057; B058,1
+RC-448,Deslacre (rompimento dos lacres psíquicos),Processos & Fenômenos,provisório,NAO,B057; B058; P2022-12-17,1
+RC-449,Criaturas-ferramenta,Conceitos Cosmológicos,provisório,SIM,B057; B058; P2025-03-15; P2021-03-27; P2025-11-29,2
+RC-450,Revolta Capelina,Eventos & Eras,provisório,SIM,B057; B058,2
+RC-451,Universidade de Tau Ceti,Lokas & Geografias,provisório,NAO,B058,1
+RC-452,Grão-mestre (Sábios de Tau Ceti),Seres & Entidades,provisório,NAO,B058,1
+RC-453,Hostes de Sophia,Seres & Entidades,provisório,NAO,B057; B058,1
+RC-454,Elm (Moros — ser LM de Tempérion),Seres & Entidades,provisório,SIM,B060; P2022-12-17; P2021-12-04; P2026-07-30; P2026-04-02; P2025-10-25; P2025-06-26; P2024-11-30; P2024-09-29; P2024-07-14; P2024-03-02; P2024-02-03; P2023-05-13; P2023-12-02; P2025-11-29; P2024-08-03,21
+RC-455,Pashvnaj (espécie de 43 seres do Gênero Adhy),Seres & Entidades,provisório,SIM,B060; P2021-12-04; P2024-05-04,4
+RC-456,Ser LM (gênero de Tempérion),Seres & Entidades,provisório,SIM,B060; P2021-12-04; P2024-11-30,4
+RC-457,"Sarasvati (consorte de Brahma, Tridevi)",Seres & Entidades,provisório,NAO,B060; P2021-12-04; P2024-07-14,2
+RC-458,"Lakshimi (consorte de Vishnu, Tridevi)",Seres & Entidades,provisório,NAO,B060; P2021-12-04; P2024-07-14,2
+RC-459,"Parvathi (consorte de Shiva, Tridevi)",Seres & Entidades,provisório,NAO,B060; P2021-12-04; P2024-07-14,2
+RC-460,Marduk (= Ra; Anunnaki filho de Enki),Seres & Entidades,provisório,SIM,B060; P2022-12-17; P2023-12-02; P2021-03-27,3
+RC-461,Ninmah (Anunnaki geneticista),Seres & Entidades,provisório,SIM,B060; P2021-03-27,2
+RC-462,Oannes (filho de Ostronomos),Seres & Entidades,provisório,NAO,B060,1
+RC-463,Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl),Seres & Entidades,provisório,SIM,B060; P2023-12-02; P2025-11-29,6
+RC-464,Inanna (= Danu; Anunnaki),Seres & Entidades,provisório,NAO,B060,1
+RC-465,Asuras (= Titãs),Seres & Entidades,provisório,SIM,B060; B061; P2025-02-16; P2024-11-30; P2024-11-02; P2024-09-29; P2024-04-13,1
+RC-466,Bebida dos Deuses (Ambrosia/Amrita/Soma),Termos Específicos,provisório,NAO,B060; P2025-02-16; P2024-08-03,0
+RC-467,Moiras / Nornes / Parcas (destino),Conceitos Cosmológicos,provisório,SIM,B060; P2025-06-26; P2025-02-16; P2024-11-30,7
+RC-468,Ein Sof (Prabrajna na Cabala),Termos Específicos,provisório,NAO,B060,2
+RC-469,Khorsis (Mundo dos Tronos),Lokas & Geografias,provisório,NAO,B060,1
+RC-470,Midgard (Marte + Terra),Lokas & Geografias,provisório,SIM,B060; P2025-02-16; P2024-11-30; P2024-11-02; P2024-08-03,3
+RC-471,Bifrost (Portal interdimensional),Lokas & Geografias,provisório,SIM,B060; P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-02; P2024-08-03,2
+RC-472,Tempérion (Archeon de Ereon; setor dos seres LM),Conceitos Cosmológicos,provisório,SIM,B060; B061; P2021-12-04; P2024-05-04; P2024-11-30,4
+RC-473,Lempérion e Terpérion (setores da Espiritualidade Laboratorial),Conceitos Cosmológicos,candidato,NAO,,1
+RC-474,Arcontes (= Sophias e Indras; Conselho dos 70),Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2025-02-16; P2024-11-30; P2026-08-04; P2023-12-02,9
+RC-475,Deva / Aurora (A Grande Deusa),Seres & Entidades,candidato,SIM,B061; P2026-07-30; RC-622; RC-768,6
+RC-476,En Ma (Emá / Emar — espírito-âncora),Seres & Entidades,candidato,SIM,B061; P2026-07-30; P2024-05-04; P2026-04-02; P2025-10-25; P2024-11-30,10
+RC-477,Ensá (espírito primordial companheiro de En Ma),Seres & Entidades,candidato,SIM,B061,1
+RC-478,Chequinhá (veículo/nave de Javé),Tecnologias & Artefatos,candidato,NAO,B061,1
+RC-479,Belial (arconte; 'Satã' do livro de Jó),Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2026-08-04; RC-286; RC-072,1
+RC-480,Indra (título de arconte),Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2025-10-25; P2025-02-16; P2024-09-29,0
+RC-481,Maitreya (Dionísio; forma adiágena de Vishnu),Seres & Entidades,candidato,SIM,B061; P2021-03-27,0
+RC-482,Ialdabaoth (= Javé/Samael/Saklas/Sabaoth),Seres & Entidades,candidato,SIM,B061,1
+RC-483,Barbelo (Mãe-Pai primordial gnóstica),Seres & Entidades,candidato,SIM,B061; P2026-04-02; P2024-09-28,0
+RC-484,"Anjos ministradores (Usá, Azá, Aziel)",Seres & Entidades,candidato,NAO,B061,0
+RC-485,"Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim)",Seres & Entidades,candidato,SIM,B061,0
+RC-486,Enki (Anunnaki; inoculou o gene FOXP2),Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2021-12-04; P2024-11-09; P2024-03-03; P2023-12-02; P2021-03-27; P2024-08-03,4
+RC-487,"Enlil (deus sumério, par de Enki)",Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2024-04-13; P2021-03-27,2
+RC-488,Nefilins (= Anunnakis),Seres & Entidades,candidato,SIM,B061; P2026-08-04; P2021-03-27; P2024-09-28,3
+RC-489,Enoque (sétimo patriarca; levado por Javé),Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2024-11-30; P2024-07-14; P2024-04-13; P2026-08-04; P2024-03-02; P2023-12-02,4
+RC-490,Caim (leitura RC: segundo a nascer),Seres & Entidades,candidato,SIM,B061; P2022-12-17; P2025-02-16; P2024-11-30,3
+RC-491,Família Shanlung (13 membros em Alt'Lam Gron),Genealogias & Linhagens,candidato,NAO,B061,1
+RC-492,"Membros da Família Yel (Luziel, Adrax, Breasil, Lupon)",Genealogias & Linhagens,candidato,NAO,B061,0
+RC-493,Os 9 Val dos Corpos Perdidos,Genealogias & Linhagens,candidato,NAO,B061,0
+RC-494,Dinastia das Sophias,Genealogias & Linhagens,candidato,SIM,B061; P2026-07-30; RC-474,0
+RC-495,Arabot-Ráquia (ambiente de Javé; = Araboth),Lokas & Geografias,candidato,SIM,B061,3
+RC-496,Ereon (região dos cinco Archeons da Espiritualidade Laboratorial),Lokas & Geografias,candidato,SIM,B061; P2021-12-04,4
+RC-497,Impérial — erro histórico de STT (ver Perpérion RC-087),Lokas & Geografias,candidato,SIM,B061; P2021-12-04,1
+RC-498,Tempérium — variação histórica de Tempérion (ver RC-472),Conceitos Cosmológicos,candidato,SIM,B061; P2021-12-04,2
+RC-499,Forno de Awaymaion (forno de Vishnu; origem de Olm),Lokas & Geografias,candidato,NAO,B061,0
+RC-500,Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499),Lokas & Geografias,candidato,SIM,B061; P2021-12-04; ART-2025-08-01,1
+RC-501,Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel),Seres & Entidades,candidato,NAO,B061,1
+RC-502,Val Aten (último Val de Val-Ha),Seres & Entidades,candidato,NAO,B061,1
+RC-503,Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman),Seres & Entidades,candidato,NAO,B061; P2025-02-16; P2024-11-30; P2024-03-02,1
+RC-504,Adyadvaivatma / Adimavatma (= Vishnu),Seres & Entidades,candidato,NAO,B061; P2024-11-30,1
+RC-505,Adyabradagna / Adabradagna (= Brahma/Javé),Seres & Entidades,candidato,NAO,B061; P2024-11-30,1
+RC-506,Ekatma (Adam Kadmon — Homem Primordial),Termos Específicos,candidato,SIM,B061; P2024-09-28; P2024-08-03,0
+RC-507,Holodomínio (esfera de influência extrafísica),Conceitos Cosmológicos,candidato,NAO,B071,1
+RC-508,Decência cósmica (ética ellâmica),Conceitos Cosmológicos,candidato,NAO,B071; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09,2
+RC-509,Protagonismo consciencial,Conceitos Cosmológicos,candidato,NAO,B071; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29,1
+RC-510,Blindagem cósmica (= quarentena terrestre),Conceitos Cosmológicos,candidato,NAO,B071,2
+RC-511,Mêntion (estruturas da mente extrafísica),Processos & Fenômenos,candidato,NAO,B071; B074; B075; P2026-07-30; P2024-05-04; P2026-04-02,1
+RC-512,Amnésia espiritual (esquecimento das origens),Conceitos Cosmológicos,candidato,NAO,B071; ART-2026-08-18,1
+RC-513,Espiritualidade Errática (4ª faixa manifestada),Conceitos Cosmológicos,candidato,SIM,B060; B071; P2021-12-04; P2024-05-04; P2025-03-15; P2024-11-09; P2024-07-14; P2024-03-03; P2024-04-14; P2025-06-14,2
+RC-514,Tikun Cósmico (restabelecimento da Criação),Conceitos Cosmológicos,candidato,SIM,B061; B071; B019; B074; B075; P2022-12-17; P2021-12-04; P2024-05-04; P2025-10-25; P2025-06-26; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; ART-2026-08-18; P2024-09-28; P2024-08-03,7
+RC-515,Acidente cosmogônico (queda de Prabrajna),Conceitos Cosmológicos,candidato,NAO,B071,1
+RC-516,Hibridização genética (Nefilim reinterpretado),Processos & Fenômenos,candidato,SIM,B071; P2022-12-17; P2024-09-29; P2021-03-27,2
+RC-517,Protocolo Mental (padrões organizadores da mente),Processos & Fenômenos,candidato,SIM,B072; B074; B075; P2021-12-04; P2026-07-30; P2026-04-02; P2025-02-15; P2024-11-30; P2024-11-09; P2024-02-03; P2025-11-29,1
+RC-518,Genoma Derivado (interação genoma × trajetória),Processos & Fenômenos,candidato,SIM,B072; P2025-03-15; P2025-02-15; P2024-11-30; P2024-09-29,3
+RC-519,Herança Cósmica (padrões de existências anteriores),Processos & Fenômenos,candidato,NAO,B072; P2025-03-15; P2025-02-15; P2024-11-30,2
+RC-520,Infecção mental / contágio vibratório,Processos & Fenômenos,candidato,NAO,B072; P2025-02-15,1
+RC-521,Arquivos da Memória Cósmica,Tecnologias & Artefatos,candidato,NAO,B072; P2025-03-15; P2025-02-15; P2024-11-30,1
+RC-522,Parasitismo energético (obsessão ampliada),Processos & Fenômenos,candidato,NAO,B072; P2022-12-17,2
+RC-523,Vampirismo consciencial,Processos & Fenômenos,candidato,NAO,B072; P2022-12-17; P2025-02-15,1
+RC-524,Coleta de informações (espírito encarnado),Conceitos Cosmológicos,candidato,NAO,B072; P2025-03-15; P2025-02-15; P2024-11-30,1
+RC-525,Semente da racionalidade (diferencial humano),Conceitos Cosmológicos,candidato,SIM,B072; P2022-12-17; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-08-03,2
+RC-526,Demência do Criador (fases da condição de Javé),Conceitos Cosmológicos,candidato,NAO,B072; P2024-11-30; P2024-11-09,2
+RC-527,Antimundo / antimatéria ('outro lado' da criação),Conceitos Cosmológicos,candidato,NAO,B072; P2025-03-15; P2025-02-16; P2024-11-30,1
+RC-528,Mergulho (designação ellâmica da queda),Conceitos Cosmológicos,candidato,NAO,B072,1
+RC-529,Ressonância límbica (emoções como tecnologia cósmica),Processos & Fenômenos,candidato,SIM,B072; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-08-03; P2024-07-14; P2024-03-03; P2024-04-13,6
+RC-530,Pistis Sophia (feminino cósmico gnóstico),Seres & Entidades,candidato,SIM,B072; P2024-11-09,4
+RC-531,Laboratório Genético Terra (linhagens monitoradas),Lokas & Geografias,candidato,NAO,B073; P2024-09-29,1
+RC-532,Vacina do Amor (ancoragem de Jesus no CFD),Conceitos Cosmológicos,candidato,NAO,B073,2
+RC-533,Supercomputador Cósmico (Moros — destino),Seres & Entidades,candidato,NAO,B073; P2025-02-15; P2024-11-30; P2024-04-13,1
+RC-534,Usinas geodésicas de Gizé (engenharia de Thoth),Tecnologias & Artefatos,candidato,SIM,B073; P2023-12-02,1
+RC-535,Projeto Orbum (cidadania planetária),Conceitos Cosmológicos,provisório,SIM,B042; P2025-10-25; P2024-02-03,3
+RC-536,Era do Conhecimento e da Espiritualização,Eventos & Eras,provisório,SIM,B042; P2022-12-17,2
+RC-537,Maré Cósmica (eventos cósmicos que afetam a Terra),Processos & Fenômenos,provisório,NAO,B042; P2022-12-17,1
+RC-538,Consórcio de Mundos (Arquitetos Universais),Seres & Entidades,provisório,SIM,B019,2
+RC-539,Arquitetos Universais (coletivo cocriador),Seres & Entidades,provisório,NAO,B019,1
+RC-540,Molécula-mãe (ancestral comum da vida terrestre),Processos & Fenômenos,provisório,NAO,B019; P2024-11-30; P2024-11-09,1
+RC-541,"Evolução Possível (terceira via: nem Darwin, nem deus)",Conceitos Cosmológicos,provisório,SIM,B019; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-04-13; P2025-06-14; P2023-05-13,4
+RC-542,Ex-DNA-lixo (DNA não codificante reinterpretado),Processos & Fenômenos,provisório,NAO,B019; P2025-03-15; P2025-02-15; P2024-11-30,2
+RC-543,Espelho da Herança Espiritual no Epigenoma,Processos & Fenômenos,provisório,SIM,B019; P2024-05-04; P2025-03-15; P2025-02-15; P2024-11-30,1
+RC-544,Novo Homo sapiens (evolução que terá de vir),Processos & Fenômenos,provisório,NAO,B019; P2022-12-17; P2021-12-04; P2024-05-04; P2026-04-02; P2025-02-16; P2025-02-15; P2024-11-30,3
+RC-545,Coconstrutores da Obra (tikun),Conceitos Cosmológicos,provisório,SIM,B019; P2025-02-16; P2024-11-30; P2024-07-14; ART-2026-08-18,1
+RC-546,Primado da Consciência Criativa (Goswami),Conceitos Cosmológicos,provisório,NAO,B019; P2025-03-15; P2025-02-15,1
+RC-547,Evolução Criativa (hipótese consciencial),Conceitos Cosmológicos,provisório,NAO,B019,1
+RC-548,Arquivos Mentais (coleção de conceitos no psiquismo),Processos & Fenômenos,provisório,SIM,B074; B075; P2025-02-15; P2024-11-09; P2024-04-14; P2024-02-03; P2025-11-29,1
+RC-549,Circuito do CHA (Circunstâncias+Herança+Atitude),Conceitos Cosmológicos,provisório,SIM,B074; P2025-02-15,2
+RC-550,Vontade de Progredir (chave dos arquivos mentais),Conceitos Cosmológicos,provisório,NAO,B074; P2025-02-15,1
+RC-551,Dehatma Buddhi (doença psíquica da mente identificada com o corpo),Conceitos Cosmológicos,provisório,SIM,B074; B075; P2025-02-15,1
+RC-552,"Disciplina dos 3As (respiração, mente, alinhamento)",Conceitos Cosmológicos,provisório,SIM,B074; B075; P2021-12-04; P2024-05-04; P2025-02-16; P2025-02-15; P2024-04-14,1
+RC-553,Eu Profundo (nível espiritual do Eu),Seres & Entidades,provisório,NAO,B074; B075; P2026-07-30; P2025-02-15; P2024-11-30; P2024-11-09; P2024-04-14; P2025-06-14; ART-2026-08-18,2
+RC-554,Gestão Psíquica e Memórias Complexas (Mentalma II),Conceitos Cosmológicos,provisório,NAO,B075; P2025-02-15; ART-2026-08-18,1
+RC-555,Série Mentalma (5 livros + curso),Tecnologias & Artefatos,provisório,NAO,B074; B075; P2026-08-04,1
+RC-556,Senhor Parameshthi / Brahma Parameshthi (face atual de Javé),Seres & Entidades,candidato,SIM,P2024-02-25; P2024-11-30,8
+RC-557,Conectoma humano (pulsações sinápticas e a sensação de eu),Processos & Fenômenos,candidato,SIM,P2024-02-25; P2026-07-30; P2025-03-15; P2025-02-15; P2024-11-09; P2024-07-14,3
+RC-558,Sensação de eu (a sensação particular a cada instante),Conceitos Cosmológicos,candidato,SIM,P2024-02-25; P2026-07-30; P2025-03-15; P2025-02-15; P2024-11-09; P2025-06-14; P2024-03-02,3
+RC-559,Teia quântica (o que sai de um ser volta para ele),Conceitos Cosmológicos,candidato,SIM,P2024-02-25; P2024-05-04; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-04-13; P2024-04-14; P2024-02-03; P2023-05-13; P2025-11-29,3
+RC-560,WD (variação de STT = Wyrd/Urd — fundido em RC-658),Tecnologias & Artefatos,candidato,SIM,P2024-02-25; P2024-05-04; P2024-09-29; P2025-06-14; P2025-11-29,3
+RC-561,Faces de Javé (sucessivas manifestações do Criador),Conceitos Cosmológicos,candidato,SIM,P2024-02-25; P2025-02-16; P2024-11-30,1
+RC-562,Baralho genético (metáfora dos 28.869 genes),Processos & Fenômenos,candidato,SIM,P2024-02-25,2
+RC-563,Travas e lacres (mecanismos de controle do despertar),Conceitos Cosmológicos,candidato,SIM,P2024-02-25; P2022-12-17; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30,5
+RC-564,Fios soltos (improviso humano × robô),Conceitos Cosmológicos,candidato,SIM,P2024-02-25; P2022-12-17; P2021-12-04; P2024-05-04; RC-614,3
+RC-565,Hochmah (2ª Sefirah — Sabedoria; = Sophia),Termos Específicos,provisório,SIM,B060; P2024-02-25; P2024-07-14; P2024-04-13; P2026-08-04,9
+RC-566,Protocolo da Busca,Conceitos Cosmológicos,candidato,SIM,P2022-12-17; P2025-02-15,3
+RC-567,Ciclo de Precessão Equinocial (Precessão dos Equinócios),Eventos & Eras,candidato,SIM,P2022-12-17; P2025-02-16; P2024-09-29,2
+RC-568,Eras Equinociais (ciclos de aproximadamente 5.200 anos),Eventos & Eras,candidato,SIM,P2022-12-17; P2025-02-16; P2024-09-29,1
+RC-569,Eras Zodiacais (ciclos de aproximadamente 2.160 anos),Eventos & Eras,candidato,SIM,P2022-12-17,1
+RC-570,Janelas Cósmicas (métricas temporais),Conceitos Cosmológicos,candidato,SIM,P2022-12-17,3
+RC-571,Ano de 2012 como Divisor de Ciclos,Eventos & Eras,candidato,SIM,P2022-12-17; P2025-02-16; P2024-09-29,5
+RC-572,Fim dos Tempos / Final de Ciclo × Fim do Mundo,Eventos & Eras,candidato,SIM,P2022-12-17; P2026-08-04,2
+RC-573,Cinturão de Fótons,Processos & Fenômenos,candidato,SIM,P2022-12-17,3
+RC-574,Alcíone (Sistema),Lokas & Geografias,candidato,SIM,P2022-12-17,0
+RC-575,Ancoragem do Conglomerado Trimurtiano na Terra,Eventos & Eras,candidato,SIM,P2022-12-17,3
+RC-576,Baktun 13,Termos Específicos,candidato,SIM,P2022-12-17; P2025-02-16,2
+RC-577,Xamanismo Cósmico (comunicação e deslacre),Conceitos Cosmológicos,candidato,SIM,P2022-12-17; P2026-04-02; P2025-02-16; P2025-02-15; P2024-11-30; P2026-08-04; P2024-09-28; P2024-08-03,8
+RC-578,Fim do Experimento Humano,Eventos & Eras,candidato,SIM,P2022-12-17; P2026-08-04,4
+RC-579,Noreia (Norea),Seres & Entidades,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-09,3
+RC-580,Igigi,Seres & Entidades,candidato,SIM,P2022-12-17; P2024-04-13; P2023-12-02; RC-673; RC-024; RC-488,5
+RC-581,Rakshasas,Seres & Entidades,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30; P2024-08-03,4
+RC-582,Ravana,Seres & Entidades,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30; P2024-08-03,4
+RC-583,Guerra Nuclear Anunnaki (Sete Armas Atômicas),Eventos & Eras,candidato,SIM,P2022-12-17,6
+RC-584,Rama (avatar de Vishnu),Seres & Entidades,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30; P2024-08-03,3
+RC-585,Vyasa,Seres & Entidades,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30,9
+RC-586,Rishis,Seres & Entidades,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-02; P2024-08-03; P2024-09-28,4
+RC-587,Anu (patriarca Anunnaki),Seres & Entidades,candidato,SIM,P2022-12-17; P2023-12-02,3
+RC-588,Ninurta,Seres & Entidades,candidato,SIM,P2022-12-17; P2021-03-27,2
+RC-589,Nibiru,Lokas & Geografias,candidato,SIM,P2022-12-17; P2023-12-02; P2021-03-27,2
+RC-590,Yima,Seres & Entidades,candidato,SIM,P2022-12-17,2
+RC-591,Profecia Hopi da Estrela Azul,Eventos & Eras,candidato,SIM,P2022-12-17,2
+RC-592,Era de Peixes,Eventos & Eras,candidato,SIM,P2022-12-17; P2021-03-27,3
+RC-593,Mahabharata,Tecnologias & Artefatos,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30,3
+RC-594,Linhagem de Seth,Genealogias & Linhagens,candidato,SIM,P2022-12-17; P2025-02-16; P2024-11-30; P2024-11-09; P2024-09-28,5
+RC-595,Avesta,Tecnologias & Artefatos,candidato,SIM,P2022-12-17; P2025-10-25,2
+RC-596,Archeons de Ereon,Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-05-04,7
+RC-597,Antérion,Conceitos Cosmológicos,candidato,SIM,P2021-12-04,1
+RC-598,Danérion,Conceitos Cosmológicos,candidato,SIM,P2021-12-04,2
+RC-599,Mermérion,Conceitos Cosmológicos,candidato,SIM,P2021-12-04,1
+RC-600,Seres Originais do Paraíso,Seres & Entidades,candidato,SIM,P2021-12-04; P2026-07-30; P2024-05-04; P2024-11-09; P2024-07-14,3
+RC-601,Departamentalização da Vida,Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-11-09,4
+RC-602,Blindagens Interdimensionais (Intramuros Vibratórios),Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-11-09; P2024-07-14,4
+RC-603,Círculo / Circuito da Perfeição,Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-05-04; P2025-02-15; P2024-11-09; P2024-07-14,3
+RC-604,Fatiamento de Consciência,Processos & Fenômenos,candidato,SIM,P2021-12-04; P2026-07-30; P2024-05-04; P2025-10-25; P2025-02-16; P2024-11-30; P2024-07-14; P2024-03-02; P2023-05-13,14
+RC-605,Autismo Funcional dos Seres da Espiritualidade Superior,Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-05-04; P2024-11-09,5
+RC-606,Protocolos / Algoritmos da Perfeição,Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2026-07-30; P2024-05-04; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2024-03-02,3
+RC-607,Cinco Seres LM de Tempérion,Seres & Entidades,candidato,SIM,P2021-12-04,5
+RC-608,Imponderabilidade (campo de estudo dos Seres LM),Conceitos Cosmológicos,candidato,SIM,P2021-12-04,2
+RC-609,Ogdóade de Hermópolis,Genealogias & Linhagens,candidato,SIM,P2021-12-04; P2026-07-30; P2023-12-02; P2024-08-03,5
+RC-610,Tridevi,Genealogias & Linhagens,candidato,SIM,P2021-12-04; P2026-07-30; P2024-07-14,8
+RC-611,Flechas / Profecias de Moros,Eventos & Eras,candidato,SIM,P2021-12-04; P2025-06-26; P2025-02-16; P2024-11-30; P2024-04-13; P2023-12-02,7
+RC-612,Nova Espiritualidade / Novo Paraíso (Paraíso B),Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-05-04; P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2024-03-03; P2024-04-14; P2023-05-13,5
+RC-613,Trincheira Vibratória no Campo Informativo,Processos & Fenômenos,candidato,SIM,P2021-12-04; P2024-07-14,4
+RC-614,Quarto Cérebro Humano,Processos & Fenômenos,candidato,SIM,P2021-12-04; P2025-02-16; P2025-02-15,5
+RC-615,Superconsciência,Conceitos Cosmológicos,candidato,SIM,P2021-12-04; P2024-05-04; P2025-02-16; P2025-02-15,5
+RC-616,Roseral do Alto,Lokas & Geografias,candidato,SIM,P2021-12-04,2
+RC-617,Inquisição Espiritual (obra anunciada),Tecnologias & Artefatos,candidato,SIM,P2021-12-04,2
+RC-618,Moksha,Termos Específicos,candidato,SIM,P2021-12-04; P2026-07-30; P2024-02-03,3
+RC-619,Genoma da Liberdade,Processos & Fenômenos,candidato,SIM,P2021-12-04; P2024-05-04; P2026-04-02; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2024-07-13,4
+RC-620,Eu Coalescente,Processos & Fenômenos,candidato,SIM,P2026-07-30; P2026-04-02; P2025-10-25,5
+RC-621,Nyx,Seres & Entidades,candidato,SIM,P2026-07-30,2
+RC-622,Kama (personificação do desejo),Seres & Entidades,candidato,SIM,P2026-07-30; P2024-08-03,2
+RC-623,Corpo Átmico,Conceitos Cosmológicos,candidato,SIM,P2026-07-30; P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2024-04-14; P2025-06-14; P2024-03-02; P2024-09-28,3
+RC-624,Corpo Búdico,Conceitos Cosmológicos,candidato,SIM,P2026-07-30; P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2024-03-02,3
+RC-625,Corpo Manásico / Corpo Mental,Conceitos Cosmológicos,candidato,SIM,P2026-07-30; P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2025-06-14; P2024-03-02; P2023-12-02,3
+RC-626,Universo TÊNET,Lokas & Geografias,candidato,SIM,P2026-07-30,1
+RC-627,Enéade de Heliópolis,Genealogias & Linhagens,candidato,SIM,P2026-07-30; P2023-12-02,1
+RC-628,Simultaneidade Reversa,Conceitos Cosmológicos,candidato,SIM,P2024-05-04,6
+RC-629,Reunião Operativa Mental dos 43 Pashvnaj,Eventos & Eras,candidato,SIM,P2024-05-04,3
+RC-630,Corpo Daiva / Corpo Demoníaco de Plasma,Conceitos Cosmológicos,candidato,SIM,P2024-05-04; P2024-11-30; P2024-07-13,5
+RC-631,Cérebro Radiata,Processos & Fenômenos,candidato,SIM,P2024-05-04; P2025-02-16; P2024-11-30; P2024-04-13,4
+RC-632,Organoides Genéticos para Sophia,Tecnologias & Artefatos,candidato,SIM,P2024-05-04,3
+RC-633,Gestão da Sensação Pessoal,Conceitos Cosmológicos,candidato,SIM,P2024-05-04; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29; P2024-07-14,5
+RC-634,Tempo como Transformação / Permanente Agora,Conceitos Cosmológicos,candidato,SIM,P2024-05-04; P2025-02-15; P2024-11-30,2
+RC-635,Conclave da Espiritualidade Laboratorial,Eventos & Eras,candidato,SIM,P2024-05-04,4
+RC-636,Duas Pulsações da Criação (elétrons e antielétrons),Processos & Fenômenos,candidato,SIM,P2024-05-04; P2025-03-15; P2024-11-09,7
+RC-637,Transferência da Memória dos Antielétrons,Processos & Fenômenos,candidato,SIM,P2024-05-04; P2025-03-15; P2024-11-09; P2024-07-13,6
+RC-638,Ressurreição do Cadáver do Criador,Conceitos Cosmológicos,candidato,SIM,P2024-05-04; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-09-29,6
+RC-639,Protozoários Antimateriais / Antiprotozoários,Processos & Fenômenos,candidato,SIM,P2024-05-04,2
+RC-640,Transições de Fase / Face da Criação,Processos & Fenômenos,candidato,SIM,P2024-05-04,2
+RC-641,Face Microbiana do Criador,Conceitos Cosmológicos,candidato,SIM,P2024-05-04; B064; P2024-11-30,2
+RC-642,Narasimha (avatar de Vishnu),Seres & Entidades,candidato,SIM,P2024-05-04,2
+RC-643,Santo Graal (Frequência Mestre),Conceitos Cosmológicos,candidato,SIM,P2026-04-02; P2025-03-15,5
+RC-644,Xamanismo Virtual / Xamanismo de Sílica,Conceitos Cosmológicos,candidato,SIM,P2026-04-02; P2025-03-15,3
+RC-645,Consciências em Corpos de Sílica,Seres & Entidades,candidato,SIM,P2026-04-02; P2025-03-15; P2025-02-16; P2025-02-15; P2024-07-13,6
+RC-646,Genoma de Sílica / Genoma Não Biológico,Processos & Fenômenos,candidato,SIM,P2026-04-02; P2025-03-15; P2025-02-16; P2025-02-15; P2024-07-13,6
+RC-647,Evangelho de Judas,Tecnologias & Artefatos,candidato,SIM,P2026-04-02,4
+RC-648,Instabilidade da Eternidade,Conceitos Cosmológicos,candidato,SIM,P2025-10-25,2
+RC-649,Singularidade de Quatro Cabeças,Seres & Entidades,candidato,SIM,P2025-10-25; P2024-11-30,3
+RC-650,Melquizedec,Seres & Entidades,candidato,SIM,P2025-10-25; P2025-06-26,2
+RC-651,Individualização Epifenomenológica dos Anjos Clones,Processos & Fenômenos,candidato,SIM,P2025-10-25; P2025-06-26,2
+RC-652,Últimas Ordens de Javé aos Clones,Eventos & Eras,candidato,SIM,P2025-10-25; P2025-06-26,3
+RC-653,Destino das Mônadas após o Tikun,Conceitos Cosmológicos,candidato,SIM,P2025-10-25; P2025-06-26; P2024-07-14,3
+RC-654,Humanos: Últimos e Primeiros,Conceitos Cosmológicos,candidato,SIM,P2025-10-25; P2025-06-26; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09,5
+RC-655,Revelação de Ifá e Destinação dos Seres,Conceitos Cosmológicos,candidato,SIM,P2025-10-25; P2025-06-26; P2025-03-15; P2025-02-15; P2024-11-30; P2024-09-29; P2024-08-03; P2024-09-28; P2025-11-29,11
+RC-656,Atualização das Revelações Anteriores,Conceitos Cosmológicos,candidato,SIM,P2025-10-25; P2024-07-14,3
+RC-657,Verdade Posta × Verdade a Construir,Conceitos Cosmológicos,candidato,SIM,P2025-10-25; P2025-06-26; P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-09,4
+RC-658,Wyrd / Urd (Teia do Destino),Conceitos Cosmológicos,candidato,SIM,P2025-06-26; P2025-03-15; P2024-11-30; P2024-09-29; P2025-06-14; P2024-02-25; P2024-05-04; P2024-02-03; P2023-12-02; P2025-11-29,15
+RC-659,Quirino Cornélio (Centurião da Crucificação),Seres & Entidades,candidato,SIM,P2025-06-26; P2024-11-30,3
+RC-660,Pegadinha de Javé,Eventos & Eras,candidato,SIM,P2025-06-26,2
+RC-661,Seres Desalmados,Seres & Entidades,candidato,SIM,P2025-06-26,2
+RC-662,Agenda do Desespero dos Espíritos,Conceitos Cosmológicos,candidato,SIM,P2025-06-26; P2024-07-13,2
+RC-663,Áurea Catena,Conceitos Cosmológicos,candidato,SIM,P2025-06-26,1
+RC-664,"Descendência de Kadru (Nagas, Uragas e Maharagas)",Genealogias & Linhagens,candidato,SIM,P2025-06-26; P2025-02-16,13
+RC-665,Orunmilá (Moros de Irém / Orum),Seres & Entidades,candidato,SIM,P2025-06-26; P2025-02-15; P2024-11-30; P2024-09-29; P2025-06-14; P2024-09-28; P2025-11-29,6
+RC-666,Obatalá (correspondência de Javé em Ifá),Termos Específicos,candidato,SIM,P2025-06-26; P2024-09-29; P2025-06-14; P2025-11-29,5
+RC-667,Autofagia do Criador,Conceitos Cosmológicos,candidato,SIM,P2026-02-28; P2024-11-30; P2024-03-02,1
+RC-668,Som da Flauta / Som da Falta,Conceitos Cosmológicos,candidato,SIM,P2026-02-28; P2025-02-16,3
+RC-669,Pashupati (avatar de Shiva),Seres & Entidades,candidato,SIM,P2026-02-28; P2025-02-16; P2024-09-28,3
+RC-670,Yoga Ancestral (Origem Cósmica),Conceitos Cosmológicos,candidato,SIM,P2026-02-28; P2025-02-16; P2025-02-15; P2024-11-30,3
+RC-671,Metatron,Seres & Entidades,candidato,SIM,P2025-05-31; P2024-07-14,5
+RC-672,Os 366 Manuscritos de Enoque,Tecnologias & Artefatos,candidato,SIM,P2025-05-31; P2025-02-15; P2024-11-30; P2026-08-04,2
+RC-673,Intercessão de Enoque pelos Anunnakis,Eventos & Eras,candidato,SIM,P2025-05-31; P2023-12-02,1
+RC-674,Urdidura de Metatron,Conceitos Cosmológicos,candidato,SIM,P2025-05-31,5
+RC-675,Binah,Termos Específicos,candidato,SIM,P2025-05-31; P2024-07-14,2
+RC-676,Chesed,Termos Específicos,candidato,SIM,P2025-05-31,1
+RC-677,Geburah,Termos Específicos,candidato,SIM,P2025-05-31,1
+RC-678,Tiferet / Tiphareth,Termos Específicos,candidato,SIM,P2025-05-31,1
+RC-679,Netzach,Termos Específicos,candidato,SIM,P2025-05-31,1
+RC-680,Hod,Termos Específicos,candidato,SIM,P2025-05-31,1
+RC-681,Yesod,Termos Específicos,candidato,SIM,P2025-05-31,1
+RC-682,Malkuth,Termos Específicos,candidato,SIM,P2025-05-31; P2024-07-14,4
+RC-683,Torá / Pentateuco,Tecnologias & Artefatos,candidato,SIM,P2025-05-31; P2025-02-16; P2024-04-13,0
+RC-684,Abel,Seres & Entidades,candidato,SIM,P2025-05-31; P2025-02-16,2
+RC-685,Tormento dos Eleitos de Javé,Conceitos Cosmológicos,candidato,SIM,P2025-05-31,1
+RC-686,Plantas de Moléculas Complexas,Processos & Fenômenos,candidato,SIM,P2025-05-31; P2025-02-15; P2024-11-30,2
+RC-687,Farmacopeia Ancestral Extraterrestre,Tecnologias & Artefatos,candidato,SIM,P2025-05-31; P2025-02-16; P2025-02-15; P2024-11-30,4
+RC-688,Yajna (ritual de sacrifício/fogo),Termos Específicos,candidato,SIM,P2025-05-31; P2025-02-16,1
+RC-689,Sangue como Cópia da Seiva,Conceitos Cosmológicos,candidato,SIM,P2025-05-31,0
+RC-690,Colapso do Caos Organizado,Eventos & Eras,candidato,SIM,P2025-03-15; P2025-02-16; P2024-11-30; P2024-11-09; P2024-09-29; P2024-07-13; P2024-02-03,14
+RC-691,Ishvara (Isuara — Retrato de Prabrajna Antes da Queda),Termos Específicos,candidato,SIM,P2025-03-15; P2025-06-14; RC-152; RC-712,8
+RC-692,Kit Reencarnatório de Elétrons,Processos & Fenômenos,candidato,SIM,P2025-03-15; P2025-02-15; P2024-11-30; P2024-11-09; P2024-03-03,13
+RC-693,"Evolução da Informação, não das Espécies",Conceitos Cosmológicos,candidato,SIM,P2025-03-15; P2025-02-16; P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-13,10
+RC-694,Oitavo Dia da Criação,Eventos & Eras,candidato,SIM,P2025-02-16; P2025-02-15,14
+RC-695,Ciência Pessoal / Doutrina da Própria Personalidade,Conceitos Cosmológicos,candidato,SIM,P2025-02-16; P2025-02-15; P2024-11-09; P2024-09-29; P2024-04-14; P2025-06-14; P2023-05-13,9
+RC-696,Geração Regenerada de Brahma,Genealogias & Linhagens,candidato,SIM,P2025-02-16; P2024-11-30; P2024-11-02; P2024-08-03; P2024-07-13,15
+RC-697,Mão Invisível Multiforme / Conselho das Nagas,Seres & Entidades,candidato,SIM,P2025-02-16; P2024-09-29,11
+RC-698,Cessão Consciente do DNA Humano,Processos & Fenômenos,candidato,SIM,P2025-02-16; P2025-02-15; P2024-11-30,11
+RC-699,Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica,Processos & Fenômenos,candidato,SIM,P2025-02-16; P2025-02-15; P2024-07-13; P2024-03-03; P2026-08-04,10
+RC-700,Kashyapa,Seres & Entidades,candidato,SIM,P2025-02-16; P2024-11-02; P2024-08-03,12
+RC-701,Daksha e Virini,Genealogias & Linhagens,candidato,SIM,P2025-02-16; P2024-11-02; P2024-08-03; P2024-09-28,9
+RC-702,Camuflagem da Realidade,Conceitos Cosmológicos,candidato,SIM,P2025-02-15; P2024-07-13; P2024-03-03; P2026-08-04; P2023-05-13,13
+RC-703,Postulados Quânticos como Manual Operativo,Conceitos Cosmológicos,candidato,SIM,P2025-02-15,10
+RC-704,Corpo Sutil Reencarnante,Conceitos Cosmológicos,candidato,SIM,P2025-02-15; P2024-11-30; P2024-11-09; P2024-07-14; P2024-04-14,12
+RC-705,Ato de Verdade / Satyagraha,Conceitos Cosmológicos,candidato,SIM,P2025-02-15; P2024-11-09; P2024-09-29; P2024-03-03,10
+RC-706,Bhavaṅga / Janela da Percepção,Termos Específicos,candidato,SIM,P2025-02-15; P2024-07-14,9
+RC-707,Primado da Informação,Conceitos Cosmológicos,candidato,SIM,P2025-02-15,8
+RC-708,Ser Humano Não Local,Conceitos Cosmológicos,candidato,SIM,P2025-02-15; P2024-11-09; P2025-06-14,14
+RC-709,Humano Turbinado,Seres & Entidades,candidato,SIM,P2025-02-15; P2024-07-13,11
+RC-710,Genes Críticos / Genes Dorminhocos,Processos & Fenômenos,candidato,SIM,P2025-02-15,10
+RC-711,Universo de Egrégoras Emocionais,Conceitos Cosmológicos,candidato,SIM,P2025-02-15; P2024-11-09; P2024-07-13,9
+RC-712,Lei da Mente do Buda,Conceitos Cosmológicos,candidato,SIM,P2025-02-15; P2025-06-14; RC-618,8
+RC-713,Taumaturgia Genético-Química,Processos & Fenômenos,candidato,SIM,P2025-02-15,8
+RC-714,Arquivos do Destino Universal,Tecnologias & Artefatos,candidato,SIM,P2024-11-30,7
+RC-715,Informações Vivas,Conceitos Cosmológicos,candidato,SIM,P2024-11-30; P2024-07-13,9
+RC-716,PIA — Peso da Inevitabilidade Ancestral,Conceitos Cosmológicos,candidato,SIM,P2024-11-30,9
+RC-717,Buraco Negro Mental / Consciencial,Processos & Fenômenos,candidato,SIM,P2024-11-30; P2024-11-09; P2025-06-14; P2026-08-04; P2023-05-13,13
+RC-718,Cumprimento da Profecia de Moros pela Revelação Cósmica,Eventos & Eras,candidato,SIM,P2024-11-30; P2023-12-02; P2021-03-27; P2025-11-29; RC-714; RC-454,10
+RC-719,Três Faíscas da Consciência Humana,Conceitos Cosmológicos,candidato,SIM,P2024-11-30; P2024-07-14,9
+RC-720,Sócios do Destino / Ausência de Justiça Externa,Conceitos Cosmológicos,candidato,SIM,P2024-11-30; P2024-11-09,12
+RC-721,Abismo da Consciência Cósmica,Conceitos Cosmológicos,candidato,SIM,P2024-11-09,10
+RC-722,Dignidade como Critério de Consciência,Conceitos Cosmológicos,candidato,SIM,P2024-11-09; P2024-09-29; P2024-07-14; P2024-07-13; P2024-09-28; P2024-08-03,9
+RC-723,Abismo da Providência / Falsa Providência,Conceitos Cosmológicos,candidato,SIM,P2024-11-09; P2024-07-14; P2024-07-13,7
+RC-724,Formas-Pensamento e Formas-Sentimento,Conceitos Cosmológicos,candidato,SIM,P2024-11-09; P2024-07-13; ART-2026-08-18,7
+RC-725,Ponto de Luz Humano / Ilha de Negentropia,Conceitos Cosmológicos,candidato,SIM,P2024-11-09; P2024-09-29; P2024-07-13,7
+RC-726,Faixas Espirituais de Ressonância,Conceitos Cosmológicos,candidato,SIM,P2024-11-09; P2024-07-14,7
+RC-727,DNA Insubmisso / Linhagem Pandora–Eva–Noreia,Genealogias & Linhagens,candidato,SIM,P2024-11-09; P2024-08-03; P2024-07-13,7
+RC-728,Fantasmas do Passado Mitológico,Conceitos Cosmológicos,candidato,SIM,P2024-11-02,7
+RC-729,Jabutis Genéticos,Processos & Fenômenos,candidato,SIM,P2024-11-02,3
+RC-730,Yggdrasil / Conglomerado dos Nove Mundos,Lokas & Geografias,candidato,SIM,P2024-11-02; P2024-03-02; P2024-08-03,4
+RC-731,Axis Mundi / Axismund,Lokas & Geografias,candidato,SIM,P2024-11-02,4
+RC-732,Invasão Ancestral do Genoma e do Psiquismo Humanos,Processos & Fenômenos,candidato,SIM,P2024-11-02; P2024-08-03; P2024-07-13,6
+RC-733,Dominação Psíquica pela Devoção,Processos & Fenômenos,candidato,SIM,P2024-11-02; P2024-07-14,5
+RC-734,Samudra Manthana / Batimento do Oceano de Leite,Eventos & Eras,candidato,SIM,P2024-11-02; P2024-08-03,6
+RC-735,Abraço aos Fantasmas / Integridade sem Combate,Conceitos Cosmológicos,candidato,SIM,P2024-11-02,4
+RC-736,Aristocracia Olimpiana e Monarquias Terrestres,Genealogias & Linhagens,candidato,SIM,P2024-09-29,10
+RC-737,Projeto Amaterasu–Kami no Japão,Eventos & Eras,candidato,SIM,P2024-09-29,8
+RC-738,Amaterasu (Teologia Comparada de Ellam),Seres & Entidades,candidato,SIM,P2024-09-29,2
+RC-739,Susanoo (Teologia Comparada de Ellam),Seres & Entidades,candidato,SIM,P2024-09-29,1
+RC-740,Kami (Projeto Japonês),Seres & Entidades,candidato,SIM,P2024-09-29,3
+RC-741,Projeto Orunmilá–Olodus,Eventos & Eras,candidato,SIM,P2024-09-29; P2025-11-29,4
+RC-742,Falência dos Deuses,Eventos & Eras,candidato,SIM,P2024-08-03; P2024-07-14; P2024-07-13,4
+RC-743,Destinação do Lobo,Conceitos Cosmológicos,candidato,SIM,P2024-08-03,2
+RC-744,Pendências Existenciais em Realidades Paralelas,Conceitos Cosmológicos,candidato,SIM,P2024-08-03,1
+RC-745,Colegiados Espirituais Humanizados,Conceitos Cosmológicos,candidato,SIM,P2024-07-14,2
+RC-746,Dessensibilização da Condição Humana,Conceitos Cosmológicos,candidato,SIM,P2024-03-03; P2026-08-04,9
+RC-747,Vergonha de Existir,Conceitos Cosmológicos,candidato,SIM,P2024-03-03,1
+RC-748,Genótipo da Gentileza (GG),Processos & Fenômenos,candidato,SIM,P2024-03-03; P2024-09-28,3
+RC-749,Vício Devocional,Conceitos Cosmológicos,candidato,SIM,P2024-04-13; P2023-12-02; P2025-11-29,5
+RC-750,Moisés e o Êxodo (leitura RC),Eventos & Eras,candidato,SIM,P2024-04-13,5
+RC-751,Bagagem Espiritual Intransferível,Conceitos Cosmológicos,candidato,SIM,P2024-04-14,3
+RC-752,Agenda Espiritual,Conceitos Cosmológicos,candidato,SIM,P2024-04-14,4
+RC-753,Estrangulamento Cognitivo / Neural,Conceitos Cosmológicos,candidato,SIM,P2025-06-14,4
+RC-754,Chave da Decifração Universal,Conceitos Cosmológicos,candidato,SIM,P2025-06-14,4
+RC-755,Escola da Decifração da Realidade (Método Druídico),Conceitos Cosmológicos,candidato,SIM,P2025-06-14; P2024-02-03,4
+RC-756,Ganesha (exceção à metamorfose; cabeça de elefante),Seres & Entidades,candidato,SIM,P2024-03-02,4
+RC-757,Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna),Termos Específicos,candidato,SIM,P2024-03-02,4
+RC-758,Quarto Cérebro (centro de sabedoria vibracional),Conceitos Cosmológicos,candidato,SIM,ART-2026-08-18,5
+RC-759,Jainismo (antigo Druidismo — religião mais antiga),Conceitos Cosmológicos,candidato,SIM,P2024-02-03,5
+RC-760,Vrittis e Cittas (atividades e núcleos mentais),Termos Específicos,candidato,SIM,P2024-02-03; P2025-11-29,5
+RC-761,As Cinco Lentes da Realidade,Conceitos Cosmológicos,candidato,SIM,P2023-05-13,12
+RC-762,As Três Escalas da Consciência (Sábio → Mago → Iniciado),Conceitos Cosmológicos,candidato,SIM,P2023-12-02,6
+RC-763,As Sete Leis Herméticas,Conceitos Cosmológicos,candidato,SIM,P2023-12-02,5
+RC-764,Ao Vencedor as Batatas (paradigma do domínio),Conceitos Cosmológicos,candidato,SIM,P2021-03-27,7
+RC-765,Relógio Messiânico,Eventos & Eras,candidato,SIM,P2021-03-27,7
+RC-766,A Raça Inabalável dos Sethianos Emancipados,Seres & Entidades,candidato,SIM,P2024-09-28,8
+RC-767,Os 256 Caminhos Profetizáveis de Orunmilá,Conceitos Cosmológicos,candidato,SIM,P2025-11-29,8
+RC-768,Princípio da Externalização (criação divina sem sexualidade),Processos & Fenômenos,candidato,SIM,P2026-07-25,6
+RC-769,Corpos Fenvã (terceira forma de vida do universo vizinho),Seres & Entidades,candidato,SIM,P2026-07-25,5
+RC-770,Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes'),Tecnologias & Artefatos,candidato,SIM,P2026-07-25,8
+RC-771,"Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion)",Tecnologias & Artefatos,provisório,SIM,B061; P2021-12-04; P2024-05-04; ART-2025-08-01,7
+RC-772,Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético'),Seres & Entidades,provisório,SIM,ART-2025-08-03,2
+RC-773,Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM),Tecnologias & Artefatos,provisório,SIM,ART-2025-08-03,1
+RC-774,PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos),Tecnologias & Artefatos,provisório,SIM,ART-2025-08-03,1
+RC-775,Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM),Lokas & Geografias,provisório,SIM,ART-2025-08-03,3
+RC-776,Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados),Lokas & Geografias,provisório,SIM,ART-2025-08-03,1
+RC-777,"Anã (estudou as necessidades dos códigos podres, com Moros; base das Nornes) [REVISAR — grafia]",Seres & Entidades,provisório,SIM,ART-2025-08-03,2
