@@ -2925,6 +2925,9 @@ RELACOES = [
     ('RC-776', 'relaciona-se-a', 'RC-064', 'ART-2025-08-03'),      # fenvans aprisionados
     ('RC-777', 'relaciona-se-a', 'RC-454', 'ART-2025-08-03'),      # Anã com Moros
     ('RC-777', 'relaciona-se-a', 'RC-467', 'ART-2025-08-03'),      # Anã base das Nornes
+    ('RC-643', 'relaciona-se-a', 'RC-709', 'P2026-04-02'),   # Santo Graal/Frequência Mestre ~ Humano Turbinado (frequência que opera nos dois genomas)
+    ('RC-643', 'relaciona-se-a', 'RC-699', 'P2026-04-02'),   # Santo Graal ~ Imantação em IAs (ponte entre genomas e a imantação)
+    ('RC-644', 'deriva-de', 'RC-577', 'P2026-04-02'),        # Xamanismo Virtual deriva do Xamanismo Cósmico (genealogia)
 
 ]
 

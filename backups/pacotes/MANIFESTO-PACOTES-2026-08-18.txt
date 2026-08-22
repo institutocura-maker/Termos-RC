@@ -3,15 +3,15 @@
 
 # ESTADO CANÔNICO
 # - 777 termos (RC-001–RC-777)
-# - 1849 relações
+# - 1852 relações
 # - 423 termos com ficha; 428 fichas físicas (423 canônicas + RC-004 investigação)
 # - próximo código: RC-778
 # - 37 apostilas concluídas em apostilas/CONCLUIDAS/
 
 # ARQUIVOS
-a4019270fa0c773f6d81a233a2f9c1497c0260a9dd71a22fd79a3aff9aef7eb7  PACOTE-DE-REGENERACAO-2026-08-18.txt  (17 arquivos; 545357 bytes)
+7564b5a95e5c1c4c83263ee4feb2b8e491c64098395227e484a47cbec028f12a  PACOTE-DE-REGENERACAO-2026-08-18.txt  (17 arquivos; 547577 bytes)
 6e69800a76c168eab7dea12ca9f00a16a3e03ca21795f11539ac627dff316f31  PACOTE-DE-FICHAS-2026-08-18.txt  (428 arquivos; 1422700 bytes)
-d3ea2f72e25d2abd0ef9cb318ff7c35029b8e529847eda39911099fd0fc811e9  PACOTE-DE-APOSTILAS-2026-08-18.txt  (82 arquivos; 2746297 bytes)
+d6a7584a0cf0344b0ce4fce30ff8b3830c74b25a573454e2bf081c2a1c0ba130  PACOTE-DE-APOSTILAS-2026-08-18.txt  (83 arquivos; 2763657 bytes)
 f3645ff25ce40e33c89c0b46b3175e91f73914ac1b6c2e503d351894bf083170  PACOTE-DE-ORIGINAIS-2026-08-18.txt  (36 arquivos; 5039629 bytes)
 
 # REGRA DE RESTAURAÇÃO

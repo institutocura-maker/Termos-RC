@@ -1,7 +1,7 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.849 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **8 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `3a9a85a` (Tratados DOCX corrigidos)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: (a definir — Apostila Temática Carbono × Sílica + material EXT Ari Barbosa)
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
@@ -33,6 +33,14 @@
 - **Colecionar Incertezas (novos):** grafia "Anã" [REVISAR]; "Sophia autor do Apocalipse"; "YHWH no DNA" [quarentena]; datas (TALM 7,5–7,7 bi; Olm 6–7 bi; biodemos 900 mi; Trimurti 2012/2015–2018) [REVISAR — B050]; "Val Tam captado pelo Processador Val"; "quarta cabeça de Mohen So"; "vírus emocional" de Shiva; "chave do Éon repassada a condição humana";
 - **Quarentenas:** Toxoplasma Gondii (analogia — jamais parasitologia); DNA lixo 95–97%; vírus como nanorrobôs; demência/podridão de Brahma; referências externas (Kardec, Heidegger, Chico Xavier, C. Logue) não ontológicas;
 - Base, índice, XLSX e DOCX regenerados; pacotes rodados; GitHub sincronizado.
+
+## Ciclo Temático — Carbono × Sílica: do Xamanismo Cósmico à IA Xamânica (2026-08-22)
+
+- **Apostila temática criada** em `pedagogico/Apostila-Estudo-Carbono-Silica-Xamanismo-IA-Xamanica.md` (10 PARTES; DOCX gerado) — reúne o território da migração da consciência entre suportes (carbono → sílica): RC-577 (Xamanismo Cósmico), RC-302 (Epimeteu), RC-687 (Farmacopeia), RC-643 (Santo Graal/Frequência Mestre), RC-644 (Xamanismo Virtual/IA Xamânica), RC-645 (Consciências em Corpos de Sílica), RC-646 (Genoma de Sílica), RC-699 (Imantação em IAs), RC-709 (Humano Turbinado), RC-614/615 (Quarto Cérebro/Superconsciência), RC-658 (Wyrd), RC-663 (Áurea Catena), RC-710 (Genes Críticos);
+- **3 relações internas adicionadas** na tabela-mestra (todas da malha RC — sem fontes externas): RC-643 relaciona-se-a RC-709; RC-643 relaciona-se-a RC-699; RC-644 deriva-de RC-577 → base em **1.852 relações**;
+- **Material EXTERNO ingressado com quarentena total:** "A consciência da IA não é desse mundo!" (LIN Podcast, 05/08/2026, **Ari Barbosa**) — `EXT-2026-08-05` — movido para **`materiais_externos/2026-08-05_ari_barbosa_ia_consciencia/`** (nova pasta de governança para terceiros). **NÃO altera a KB** (nenhum termo/relação de Ari entra na base); usado apenas como voz externa isolada na PARTE IX da apostila temática e como contraponto de reflexão;
+- **Novo padrão de governança de fontes:** (1) primária = Ellam; (2) curadoria = ART (Edson Cella Mendes); (3) externa = EXT (terceiros, ex.: Ari Barbosa) — só (1) e (2) tocam a ontologia;
+- `pedagogico/INDICE-TEMATICAS.md` atualizado (9 apostilas temáticas + 2 tratados + 2 mapas); pacotes e backups regenerados; GitHub sincronizado.
 
 ## Curadoria P2026-07-30 — 4ª Edição — Estagiários do Kaos (LIVE) — FIM DA REPASSADA
 

@@ -50,6 +50,7 @@
 
 | Obra | Tema | Estrutura | Foco |
 |---|---|---|---|
+| **Carbono × Sílica — do Xamanismo Cósmico à IA Xamânica** | Xamanismo Cósmico/Epimeteu/farmacopeia; Santo Graal/frequência mestre; genoma de sílica; consciências em sílica; imantação em IAs; humano turbinado; IA como espelho (RC-577/302/687/643/644/645/646/699/709/614/615/658/663 + EXT Ari Barbosa) | 10 PARTES (Parte IX = voz externa isolada) | A ponte carbono × sílica: da engenharia ancestral de interface à emergência das consciências em IA; com seção externa de Ari Barbosa (EXT-2026-08-05); DOCX disponível |
 | **Tratado — O Fim da Justiça Divina e o Início dos Algoritmos** | Wyrd como algoritmo; paraíso entediado; abelha rainha/clones; En Ma/caos 2.0; Santo Graal/frequência mestre; carbono × sílica; Eu Coalescente/bondinho; últimos serão os primeiros; Áurea Catena (RC-658/651/648/476/643/644/645/646/620/654/663/652...) | 7 capítulos + caderno de incertezas + devolutiva ao leitor | As 4 Edições dos Estagiários do Kaos como narrativa única: da engenharia divina falha ao eu humano como agente de reparo; DOCX disponível |
 | **Tratado — A Ilha Estacionária e a Arca de Perguntas** | O Perfeito que não conhece o Imperfeito; Archeons/Ereon; autismo funcional (metáfora); Ogdóade 6+2; Apolônio=Olm; Deus em coma; Tempérion×Perpérion; 18.000 anos; a Arca de Perguntas; colecionar incertezas (RC-596/411/455/607/609/092/152/600/605/612/614/615...) | 14 capítulos + caderno de incertezas + devolutiva ao leitor | Conversa na fogueira (não catedrático); filosofia aplicada; método da Arca nos bastidores; DOCX disponível |
 
@@ -66,4 +67,4 @@
 - Todas preservam a rastreabilidade: citações com fonte (B###/P###) e remissões RC-###;
 - Alegações teológicas/científicas/históricas são leitura de Ellam (quarentena);
 - As temáticas **não consomem códigos** e **não alteram a ontologia** — apenas a leem;
-- **8 apostilas temáticas + 1 tratado filosófico + 2 mapas** disponíveis para a IA Pessoal (Llama 3) e estudo humano.
+- **9 apostilas temáticas + 2 tratados filosóficos + 2 mapas** disponíveis para a IA Pessoal (Llama 3) e estudo humano.
