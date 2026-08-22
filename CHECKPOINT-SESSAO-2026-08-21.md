@@ -95,3 +95,13 @@ Uploads: todos processados; movidos para uploads/processados/ (28 arquivos).
 ---
 
 **Checkpoint criado e atualizado em 2026-08-21 pelo Agente RC (Arena), sob supervisão do curador Edson Cella Mendes.**
+
+---
+
+## ATUALIZAÇÃO 2026-08-22 (registrada no fim da conversa, ANTES do limite de contexto)
+
+- **Devolutiva parcial do curador sobre a Apostila Temática "Carbono × Sílica":** o curador compartilhou a apostila com o seu Assistente, que elogiou a blindagem metodológica (PARTE IX isolada EXT-2026-08-05; padrão 3 camadas primária/ART/EXT), o eixo carbono → sílica, a ética do "duplo canalha" e a citação de fechamento. **Aguardando devolutiva formal O-1..O-8.**
+- **Pergunta metodológica do curador (respondida e registrada em CONTINUIDADE.md):** "a Apostila Temática usa informações dos textos originais arquivados ou exclusivamente Termos e Relacionamentos?" → resposta: 3 camadas — (1) esqueleto = 100% malha; (2) carne = fichas ampliadas (originais já destilados e auditados); (3) voz = citações verbatim dos originais arquivados, relidas na hora, com rastreabilidade (palestra + U#### + chunks + RC). Nada de memória.
+- **NOVA FRENTE EM DISCUSSÃO (decisão pendente do curador):** reprocessar os LIVROS (B001–B083) com o fluxo moderno (camadas → unidades → chunks → leituras → dossiê → devolutiva → ampliações → apostila/tratado). Os livros foram tratados na era pré-GitHub, sem esse fluxo. **Opinião da IA registrada:** NÃO fazer repassada total; fazer auditoria de lacunas (Fase 0) → 1 piloto (Fase 1) → escala seletiva (Fase 2). Dados para a decisão: 86 obras = 40 "trabalhada" (livros com PDF processados na era antiga) + 9 "a confirmar" (aguardando PDF) + 2 "amostra recebida" (B027, B035) + 19 "identificada" + 9 "anunciada" (B079–B083) + 4 "minerada" (Enciclopédias/Glossários) + 3 ART "curadoria". B031 é fonte SECUNDÁRIA (Raquyel Braga) — quarentena de camada. **Perguntar ao curador:** (a) o acervo digital dos livros (PDFs/TXTs) está disponível para upload? (b) qual livro ele considera prioritário como piloto? (c) ele quer o dossiê de auditoria de lacunas primeiro?
+- **Erro "The conversation is too long for the model"** ocorreu nesta conversa → retomar em conversa NOVA com o procedimento padrão: `cd /tmp && git clone https://x-access-token:${GH_TOKEN}@github.com/institutocura-maker/Termos-RC.git && cd Termos-RC && cp -a . /home/user/rc-terminologia/ && rm -rf /home/user/rc-terminologia/.git` → validar base (`OK: 777 termos, 1852 relações`) → ler este CHECKPOINT + CONTINUIDADE.md (HEAD GitHub: **7460b76**).
+- **GitHub sincronizado:** commit `7460b76` (CONTINUIDADE: devolutiva parcial 2026-08-22 + pergunta metodológica registrada com resposta). Nada pendente de push.
