@@ -1,0 +1,18 @@
+Texto integral (camada 3)
+------------------
+O texto integral do livro está em analise/texto_integral.txt (extração byte a byte do original.pdf via pypdf 6.16.1, 2026-08-22; 502.610 chars; 80.493 palavras; 238 páginas; marcadores === PAG N ===; reconstrução dos chunks verificada byte a byte).
+
+Chunks para leitura: analise/leitura/chunk-01.txt ... chunk-52.txt (52 chunks; ~9.745 chars cada; delimitação por página).
+
+Observações da extração:
+- p. 1 = capa (sem texto);
+- p. 2–3 = página de rosto/copyright (texto escasso);
+- p. 212 = assinatura "Jan Val Ellam" (fim do posfácio);
+- p. 238 = última página (fim do Manifesto Orbum);
+- O livro contém 60+ notas de rodapé (p. 213–230) com definições e referências bibliográficas — camada mais rica do livro (ver LEITURA-2, Seção F);
+- 20 inconsistências internas registradas (LEITURA-2, Seção G);
+- 20 variações de grafia registradas (LEITURA-2, Seção D).
+
+Leituras já concluídas:
+- LEITURA-1-MACROESTRUTURA.md (p. 1–238; 995 linhas; tese geral + notas por capítulo)
+- LEITURA-2-TERMINOLOGICA.md (cruzamento com a malha; seções A–H; 364 linhas)

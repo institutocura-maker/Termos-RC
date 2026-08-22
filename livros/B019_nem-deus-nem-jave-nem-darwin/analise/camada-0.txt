@@ -1,0 +1,13 @@
+B019 - Nem Deus, nem Javé, nem Darwin: A Evolução Possível
+
+Obra: B019 (BIBLIO) — livro de Jan Val Ellam (pseudônimo de Rogério de Almeida Freitas)
+Título completo (PDF): "Nem Deus, nem Javé, nem Darwin (a evolução possível) - Jan Val Ellam"
+Editora (segundo as notas do próprio livro): Conectar Editora, Natal
+Ano (nota sobre o autor / lista de obras): publicado sob o pseudônimo Jan Val Ellam; "40 livros publicados no Brasil até o momento"
+Arquivo original: original.pdf (1.808.075 bytes; SHA-256 0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051)
+Extensão: 238 páginas (nascido-digital, texto extraível)
+Texto integral: analise/texto_integral.txt (502.610 chars; 80.493 palavras; marcadores === PAG N ===)
+Chunks: analise/leitura/chunk-01..52 (52 chunks; ~9.745 chars; reconstrução byte a byte verificada)
+Proveniência: upload do curador via GitHub (commit d197e1c em main, pasta uploads_recepcao/, 2026-08-22)
+Assinatura do livro: "Atlan, 13 de janeiro de 2021 — Jan Val Ellam" (p. 8)
+Situação na malha: 20 termos citam B019 (bloco RC-538–547 + 12 pré-existentes) — reprocessamento FASE 1 (piloto aprovado pelo curador em 2026-08-22)
