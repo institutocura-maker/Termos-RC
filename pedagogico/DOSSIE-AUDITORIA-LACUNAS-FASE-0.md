@@ -12,7 +12,7 @@ Ferramenta reutilizável: `ferramentas/_auditoria_lacunas.py` · Matriz de apoio
 
 - **354 termos sem ficha física** (46% da malha) — vivem só na tabela-mestra; nenhuma ampliação, nenhuma citação rastreável.
 
-- **40 obras marcadas como 'trabalhada'** (era pré-GitHub) — mas a representação na malha é **muito desigual**: de 145 citações (B031, glossário secundário) até **7** entre as primárias trabalhadas (B040, B043).
+- **40 obras marcadas como 'trabalhada'** (era pré-GitHub) — mas a representação na malha é **muito desigual**: de 145 citações (obra mais citada) até **1** (B059, B064).
 
 - **35 obras com ZERO citações** na malha — todas as 9 'a confirmar' (sem PDF) + 24 'identificadas' + 5 'anunciadas'.
 
