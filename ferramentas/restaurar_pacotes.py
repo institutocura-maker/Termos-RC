@@ -23,9 +23,10 @@ import os
 import re
 import sys
 
-RAIZ = "/home/user/rc-terminologia"
-# Apontam para o checkpoint mais recente (2026-08-18). Pacotes mais antigos
-# permanecem em /home/user/uploads/ (16/08). Uso:
+# Raiz portátil: a raiz do repositório onde a ferramenta vive (ferramentas/..) —
+# substitui o caminho fixo do ambiente antigo (correção 2026-08-22).
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# Apontam para o checkpoint mais recente (2026-08-18). Uso:
 #   python3 ferramentas/restaurar_pacotes.py                     -> pacotes padrão
 #   python3 ferramentas/restaurar_pacotes.py ARQ1 ARQ2 ...       -> pacotes explícitos
 PACOTES = [

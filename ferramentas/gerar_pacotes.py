@@ -73,6 +73,22 @@ for slug in sorted(os.listdir(os.path.join(RAIZ, "apostilas", "CONCLUIDAS"))):
         GRUPO_ORIGINAIS.append(os.path.join(base, "original.txt"))
     if os.path.isfile(os.path.join(RAIZ, base, "original.pdf")):
         GRUPO_ORIGINAIS.append(os.path.join(base, "original.pdf"))
+# Livros (fluxo FASE 1 — reprocessamento no fluxo moderno) — originais primários
+_LIVROS = os.path.join(RAIZ, "livros")
+if os.path.isdir(_LIVROS):
+    for slug in sorted(os.listdir(_LIVROS)):
+        base = os.path.join("livros", slug)
+        if not os.path.isdir(os.path.join(RAIZ, base)):
+            continue
+        for nome in ("original.pdf", "original.txt"):
+            if os.path.isfile(os.path.join(RAIZ, base, nome)):
+                GRUPO_ORIGINAIS.append(os.path.join(base, nome))
+        for nome in ("ficha_ingresso.md", "METADADOS-INGRESSO.json"):
+            for sub in ("", "analise"):
+                p = os.path.join(base, sub, nome) if sub else os.path.join(base, nome)
+                if os.path.isfile(os.path.join(RAIZ, p)):
+                    GRUPO_APOSTILAS.append(p)
+                    break
 # Apostilas temáticas (pedagogia / Super-Nó Semântico) — também regeneráveis
 for f in sorted(os.listdir(os.path.join(RAIZ, "pedagogico"))):
     if f.startswith("Apostila-Estudo-") and f.endswith(".md"):
@@ -82,7 +98,7 @@ PACOTES = [
     ("PACOTE-DE-REGENERACAO-2026-08-18.txt", GRUPO_REGENERACAO, "núcleo canônico + builders + documentação"),
     ("PACOTE-DE-FICHAS-2026-08-18.txt", GRUPO_FICHAS, "fichas detalhadas (termos/)"),
     ("PACOTE-DE-APOSTILAS-2026-08-18.txt", GRUPO_APOSTILAS, "apostila.md + ficha_ingresso.md (regenera DOCX)"),
-    ("PACOTE-DE-ORIGINAIS-2026-08-18.txt", GRUPO_ORIGINAIS, "original.txt das apostilas concluídas (fonte primária)"),
+    ("PACOTE-DE-ORIGINAIS-2026-08-18.txt", GRUPO_ORIGINAIS, "originais das apostilas concluídas + livros (fonte primária)"),
 ]
 
 
@@ -120,24 +136,26 @@ def gerar_pacote(nome, arquivos, descricao, saida):
         total_bytes += len(dados)
         total_arquivos += 1
         cabecalho.append(f"# {rel} | {len(dados)} | {linhas_de(dados)} | {sha256(dados)}")
-        # FIDELIDADE byte a byte (correção 2026-08-18): o corpo é CONCATENADO
-        # sem join, para que o conteúdo fique literalmente entre o "===\n" do
-        # marcador ARQ e o marcador FIM-ARQ — o restaurador extrai exatamente
-        # esses bytes. Um join aqui injetaria um "\n" extra quando o arquivo
-        # termina sem quebra de linha (ex.: original.txt do podcast irmãos
-        # Dias, sem "\n" final), e um "\n" extra também com CRLF misto.
-        conteudo = dados.decode("utf-8", errors="replace")
-        corpo.append(f"===ARQ: {rel}===\n")
-        corpo.append(conteudo)
-        corpo.append(f"===FIM-ARQ: {rel}===\n")
+        # FIDELIDADE byte a byte (correção 2026-08-18 + correção binária 2026-08-22):
+        # o corpo é CONCATENADO em BYTES sem join e SEM decode — o conteúdo fica
+        # literalmente entre o "===\n" do marcador ARQ e o marcador FIM-ARQ.
+        # (a) um join injetaria "\n" extra quando o arquivo termina sem quebra de
+        #     linha (ex.: original.txt do podcast irmãos Dias, sem "\n" final);
+        # (b) decode utf-8 com errors="replace" CORRROMPIA binários (PDF): bytes
+        #     inválidos viravam U+FFFD (3 bytes) — caso real: original.pdf de
+        #     2024-05-04 perdeu a fidelidade via este caminho na era da migração.
+        # O restaurador (v3) já lê o pacote em modo binário (rb/wb).
+        corpo.append(f"===ARQ: {rel}===\n".encode("utf-8"))
+        corpo.append(dados)
+        corpo.append(f"===FIM-ARQ: {rel}===\n".encode("utf-8"))
 
     cabecalho.append(f"#")
     cabecalho.append(f"# TOTAL: {total_arquivos} arquivos; {total_bytes} bytes de conteúdo embutido.")
-    texto = "\n".join(cabecalho) + "\n" + "".join(corpo) + "\n"
+    texto = ("\n".join(cabecalho) + "\n").encode("utf-8") + b"".join(corpo) + b"\n"
     destino = os.path.join(saida, nome)
-    with open(destino, "w", encoding="utf-8") as f:
+    with open(destino, "wb") as f:
         f.write(texto)
-    pacote_sha = sha256(texto.encode("utf-8"))
+    pacote_sha = sha256(texto)
     print(f"OK -> {nome} | {total_arquivos} arquivos | {total_bytes} bytes embutidos | SHA-256 {pacote_sha[:16]}…")
     return nome, total_arquivos, total_bytes, pacote_sha
 

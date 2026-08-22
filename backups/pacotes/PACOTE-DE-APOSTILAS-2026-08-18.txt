@@ -81,6 +81,8 @@
 # apostilas/CONCLUIDAS/2026-07-30_estagiarios_kaos_4ed/ficha_ingresso.md | 2011 | 41 | 7c3ab0b8a0b775d827baf3706804e6a1d79be5bf6ffa6e9f6d45e63a7404da78
 # apostilas/CONCLUIDAS/2026-08-04_irmaos-dias-podcast_aliens_biblia/apostila.md | 26962 | 323 | 202e7e3817b3c7a2833a6f9a22c737ed26bbfc068bee6e151c5ede3027a22e02
 # apostilas/CONCLUIDAS/2026-08-04_irmaos-dias-podcast_aliens_biblia/ficha_ingresso.md | 2819 | 36 | b713e16f8b5cf3b0c391161fb7177abcaa4beff013695d4098cf11e082527221
+# livros/B019_nem-deus-nem-jave-nem-darwin/ficha_ingresso.md | 5148 | 66 | cbd9c197a6a470a51bdabfeced51c584604624b86a49f6241ca0664eff8fb7e3
+# livros/B019_nem-deus-nem-jave-nem-darwin/analise/METADADOS-INGRESSO.json | 2581 | 53 | 09ee363a533002975d95ca54cbf16dbea88b0ddab9921b48d9a57376b95411be
 # pedagogico/Apostila-Estudo-A-Queda-Cronologia-da-Crise.md | 18167 | 294 | 5bd2bcf6931ee48b3f5a4e566ea9602a714b54607de85a9313039b9fb8e24c89
 # pedagogico/Apostila-Estudo-Arqueologia-dos-Termos.md | 12532 | 256 | 6bba84b5b458dc0d55488b20df9fea4a3cd2cd301b6f773338e047d4f711558a
 # pedagogico/Apostila-Estudo-Arsenal-do-Sistematizador.md | 13895 | 253 | 8a17755780b9cc09c5c02297a3887ff689900eef54a98ddbd1a0a2bce83c4532
@@ -92,7 +94,7 @@
 # pedagogico/Apostila-Estudo-Pilotando-o-Cerebro-no-Caos.md | 15039 | 248 | 9221ed893541140912a9f5c2339ff4a1a44e7b2928e6cba316ef8434ae08eb85
 # pedagogico/Apostila-Estudo-Thot-Hermes-Mentor-Cientifico.md | 17280 | 250 | 0d16b5870dd8f97a7320fc5a3f580c669d90a03138116ca2f2bcc13d0d0bbb54
 #
-# TOTAL: 83 arquivos; 2763657 bytes de conteúdo embutido.
+# TOTAL: 85 arquivos; 2771386 bytes de conteúdo embutido.
 ===ARQ: apostilas/CONCLUIDAS/2020-07-11_ogdoade_misterio_entes_primordiais/apostila.md===
 @titulo: O Ogdóade, o Mistério dos Entes Primordiais
 @autor: Jan Val Ellam
@@ -18878,6 +18880,129 @@ Nota do editor: ver RC-166 (Mentalma), RC-555 (Série Mentalma). Obra B068 (O Fu
   7. Conclusão e autodomínio (dignidade; método Mentalma; papel do buscador).
 - **Fontes citadas no material:** a identificar na leitura (Septuaginta, Vulgata, Livro de Enoque, MJ-12, etc.).
 ===FIM-ARQ: apostilas/CONCLUIDAS/2026-08-04_irmaos-dias-podcast_aliens_biblia/ficha_ingresso.md===
+===ARQ: livros/B019_nem-deus-nem-jave-nem-darwin/ficha_ingresso.md===
+# Ficha de Ingresso — B019 (Livro)
+
+**Obra:** B019 — Nem Deus, nem Javé, nem Darwin
+**Subtítulo (PDF):** A Evolução Possível
+**Autor:** Jan Val Ellam
+**Fonte na malha:** `B019` (20 citações existentes; ponte com RC-538–547 e P2021-01-23)
+**Formato:** Livro — 238 páginas, PDF digital (nascido-digital, texto extraível — NÃO é scan)
+**Arquivo original:** `original.pdf` (1.808.075 bytes · SHA-256 `0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051`)
+**Texto integral extraído:** `analise/texto_integral.txt` (502.610 chars · 80.493 palavras · marcadores `=== PAG N ===`)
+
+## PROVENIÊNCIA
+
+- Upload do curador via GitHub (commit `d197e1c` em `main`, pasta `uploads_recepcao/`, 2026-08-22);
+- Canal de recepção por GitHub adotado nesta sessão (anexos do chat falharam 2×);
+- Hash idêntico do commit do curador até o arquivo arquivado (verificação de integridade completa).
+
+## CONTEXTO (Fase 1 — piloto aprovado pelo curador em 2026-08-22)
+
+- 1º livro reprocessado no **fluxo moderno** (livros eram tratados na era pré-GitHub, sem camadas/chunks/dossiê);
+- Escolha do piloto pelo Dossiê de Auditoria de Lacunas (FASE 0): 20 citações na malha · 11 termos-sf (candidatos a ampliação) · ponte com o território recente (RC-538–547 criados em ciclo anterior; palestra P2021-01-23 já curada);
+- **Objetivo do reprocessamento:** auditar as 20 citações existentes, ampliar fichas com fonte B019, rastrear citações verbatim com página — NÃO criar códigos sem Devolutiva (Navalha de Ockham).
+
+## ESTRUTURA VERIFICADA (sumário p. 4 + varredura de páginas)
+
+| Seção | Páginas |
+|---|---|
+| Sumário | 4 |
+| Sinopse | 5 |
+| (Citação para reflexão) | 6 |
+| Introdução | 7–8 |
+| Cap. 1 — Evolução Possível para Quem? | 9–16 |
+| Cap. 2 — Autor e Ator do Próprio Drama | 17–22 |
+| Cap. 3 — O Acaso, Deus, Criador Complicado e Outros Mistérios | 23–45 |
+| Cap. 4 — "Seleção Natural" e "Darwinismo" | 46–56 |
+| Cap. 5 — O "Jogo das Mutações" | 57–73 |
+| Cap. 6 — O Desenvolvimento Cerebral dos Primatas | 74–79 |
+| Cap. 7 — Teorias sobre a Evolução Biológica | 80–84 |
+| Cap. 8 — Ainda Bem que o Acaso é Inteligente! | 85–95 |
+| Cap. 9 — O que Moveu o Universo até Aqui! | 96–101 |
+| Cap. 10 — Goswami "Remove o Véu" com o "Primado da Consciência Quântica" | 102–117 |
+| Cap. 11 — A Evolução Possível até Agora | 118–134 |
+| Cap. 12 — A Evolução que Terá de Vir: o Novo Homo sapiens | 135–141 |
+| Cap. 13 — Da "Molécula-mãe" à "Singularidade de Kurzweil" | 142–169 |
+| Cap. 14 — Aspectos Obscuros da Evolução | 170–178 |
+| Cap. 15 — O "Ex-DNA-lixo" | 179–185 |
+| Cap. 16 — O "Espelho da Herança Espiritual" no Epigenoma Humano | 186–191 |
+| Cap. 17 — A "Criatura Universal" | 192–202 |
+| Cap. 18 — Coconstrutores de Quê? | 203–210 |
+| Posfácio | 211–212 |
+| Notas Explicativas e Referências Bibliográficas | 213–230 |
+| Sobre o Autor / Por que o IEEA? / Manifesto Projeto Orbum | 231–238 |
+
+## INSTRUÇÕES ESPECIAIS (quarentenas e cuidados pré-declarados)
+
+- **Quarentena científico/biológica ABSOLUTA:** mutações, epigenoma, DNA-lixo (cap. 15 — reforça quarentena existente "DNA lixo 95–97%"), desenvolvimento cerebral de primatas (cap. 6), singularidade de Kurzweil (cap. 13) — tudo **leitura de Ellam, não fato científico validado**;
+- **Referências externas (Amit Goswami — cap. 10; Kurzweil — cap. 13; Darwin — cap. 4):** nomes de terceiros, nunca ontologia — citar como fonte que Ellam dialoga;
+- **Terminologia própria da obra:** "CFDP" (Código-fonte Definidor de Vida Pessoal — cruzar com RC-091/RC-774-TALM), "Criatura Universal", "Coconstrutores", "Consórcio de Mundos", "Arcontes" (sinopse), "Semeadores", "IEEA" (Instituto de Estudos Estratégicos Alternativos), "Projeto Orbum" — mapear contra a malha ANTES de propor qualquer código novo;
+- **B082 (gêmea de nome):** "Nem Deus, nem Javé, nem Darwin: a evolução do cérebro" é obra DISTINTA (identificada, sem processamento) — não confundir com B019;
+- Preservar a voz do autor (marcadores, aspas conceituais, digressões) — o editor é menor que o autor.
+
+## INFERÊNCIAS DA IA (leitura 0 — reconhecimento pelo sumário/sinopse)
+
+- **Tipo:** cosmologia evolucionária (evolução como "jogo" conduzido pela Divindade Cocriadora) × crítica ao darwinismo e ao criacionismo × neurobiologia especulativa × futurologia (novo Homo sapiens);
+- **Eixo central (pela sinopse + introdução):** o DNA veio "semeado" com ~3% do potencial do CFDP do Criador; a evolução é "ponte quântica" de aperfeiçoamento; aspectos obscuros = "Consórcio de Mundos" e arcontes;
+- **Alto rendimento para a malha (previsão):** CFDP/TALM (RC-091), evolução da informação (RC-693), Criatura Universal, novo Homo sapiens (cruzar com RC-709 Humano Turbinado / RC-694 Oitavo Dia), DNA-lixo, epigenoma (RC-727?), Goswami (quarentena externa);
+- **18 capítulos + apêndices institucionais** (IEEA/Orbum) — apêndices podem render material de governança do projeto (Sobre o Autor).
+===FIM-ARQ: livros/B019_nem-deus-nem-jave-nem-darwin/ficha_ingresso.md===
+===ARQ: livros/B019_nem-deus-nem-jave-nem-darwin/analise/METADADOS-INGRESSO.json===
+{
+  "obra": "B019",
+  "titulo": "Nem Deus, nem Javé, nem Darwin",
+  "subtitulo_pdf": "A Evolução Possível",
+  "autor": "Jan Val Ellam",
+  "tipo": "livro",
+  "sha256_original": "0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051",
+  "bytes_original": 1808075,
+  "paginas": 238,
+  "chars_texto": 502610,
+  "palavras_texto": 80493,
+  "paginas_sem_texto": [1],
+  "proveniencia": {
+    "canal": "GitHub (upload do curador, commit d197e1c em main, pasta uploads_recepcao/)",
+    "data": "2026-08-22",
+    "contexto": "FASE 1 — piloto de reprocessamento de livros (aprovado pelo curador)"
+  },
+  "estrutura": {
+    "sumario": "p. 4",
+    "sinopse": "p. 5",
+    "citacao_reflexao": "p. 6",
+    "introducao": "p. 7-8",
+    "capitulos": {
+      "1": "p. 9-16 — Evolução Possível para Quem?",
+      "2": "p. 17-22 — Autor e Ator do Próprio Drama",
+      "3": "p. 23-45 — O Acaso, Deus, Criador Complicado e Outros Mistérios",
+      "4": "p. 46-56 — “Seleção Natural” e “Darwinismo”",
+      "5": "p. 57-73 — O “Jogo das Mutações”",
+      "6": "p. 74-79 — O Desenvolvimento Cerebral dos Primatas",
+      "7": "p. 80-84 — Teorias sobre a Evolução Biológica",
+      "8": "p. 85-95 — Ainda Bem que o Acaso é Inteligente!",
+      "9": "p. 96-101 — O que Moveu o Universo até Aqui!",
+      "10": "p. 102-117 — Goswami “Remove o Véu” com o “Primado da Consciência Quântica”",
+      "11": "p. 118-134 — A Evolução Possível até Agora",
+      "12": "p. 135-141 — A Evolução que Terá de Vir: o Novo Homo sapiens",
+      "13": "p. 142-169 — Da “Molécula-mãe” à “Singularidade de Kurzweil”",
+      "14": "p. 170-178 — Aspectos Obscuros da Evolução",
+      "15": "p. 179-185 — O “Ex-DNA-lixo”",
+      "16": "p. 186-191 — O “Espelho da Herança Espiritual” no Epigenoma Humano",
+      "17": "p. 192-202 — A “Criatura Universal”",
+      "18": "p. 203-210 — Coconstrutores de Quê?"
+    },
+    "posfacio": "p. 211-212",
+    "notas_referencias": "p. 213-230",
+    "sobre_o_autor_ieea_orbum": "p. 231-238"
+  },
+  "quarentenas_predeclaradas": [
+    "científico/biológica (mutações, epigenoma, DNA-lixo, primatas, Kurzweil)",
+    "referências externas (Amit Goswami, Kurzweil, Darwin) — nunca ontologia",
+    "B082 é obra distinta de nome semelhante — não confundir"
+  ],
+  "cruzamentos_previstos": ["RC-091 (CFDP/TALM)", "RC-693 (evolução da informação)", "RC-709 (Humano Turbinado)", "RC-694 (Oitavo Dia)", "RC-538–547 (território do ciclo anterior)", "P2021-01-23"]
+}
+===FIM-ARQ: livros/B019_nem-deus-nem-jave-nem-darwin/analise/METADADOS-INGRESSO.json===
 ===ARQ: pedagogico/Apostila-Estudo-A-Queda-Cronologia-da-Crise.md===
 @titulo: A Queda — Do Paraíso ao Buraco Negro: a Cronologia da Crise
 @autor: Apostila de Estudo — Base Terminológica RC

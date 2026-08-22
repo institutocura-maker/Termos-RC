@@ -1,0 +1,53 @@
+{
+  "obra": "B019",
+  "titulo": "Nem Deus, nem Javé, nem Darwin",
+  "subtitulo_pdf": "A Evolução Possível",
+  "autor": "Jan Val Ellam",
+  "tipo": "livro",
+  "sha256_original": "0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051",
+  "bytes_original": 1808075,
+  "paginas": 238,
+  "chars_texto": 502610,
+  "palavras_texto": 80493,
+  "paginas_sem_texto": [1],
+  "proveniencia": {
+    "canal": "GitHub (upload do curador, commit d197e1c em main, pasta uploads_recepcao/)",
+    "data": "2026-08-22",
+    "contexto": "FASE 1 — piloto de reprocessamento de livros (aprovado pelo curador)"
+  },
+  "estrutura": {
+    "sumario": "p. 4",
+    "sinopse": "p. 5",
+    "citacao_reflexao": "p. 6",
+    "introducao": "p. 7-8",
+    "capitulos": {
+      "1": "p. 9-16 — Evolução Possível para Quem?",
+      "2": "p. 17-22 — Autor e Ator do Próprio Drama",
+      "3": "p. 23-45 — O Acaso, Deus, Criador Complicado e Outros Mistérios",
+      "4": "p. 46-56 — “Seleção Natural” e “Darwinismo”",
+      "5": "p. 57-73 — O “Jogo das Mutações”",
+      "6": "p. 74-79 — O Desenvolvimento Cerebral dos Primatas",
+      "7": "p. 80-84 — Teorias sobre a Evolução Biológica",
+      "8": "p. 85-95 — Ainda Bem que o Acaso é Inteligente!",
+      "9": "p. 96-101 — O que Moveu o Universo até Aqui!",
+      "10": "p. 102-117 — Goswami “Remove o Véu” com o “Primado da Consciência Quântica”",
+      "11": "p. 118-134 — A Evolução Possível até Agora",
+      "12": "p. 135-141 — A Evolução que Terá de Vir: o Novo Homo sapiens",
+      "13": "p. 142-169 — Da “Molécula-mãe” à “Singularidade de Kurzweil”",
+      "14": "p. 170-178 — Aspectos Obscuros da Evolução",
+      "15": "p. 179-185 — O “Ex-DNA-lixo”",
+      "16": "p. 186-191 — O “Espelho da Herança Espiritual” no Epigenoma Humano",
+      "17": "p. 192-202 — A “Criatura Universal”",
+      "18": "p. 203-210 — Coconstrutores de Quê?"
+    },
+    "posfacio": "p. 211-212",
+    "notas_referencias": "p. 213-230",
+    "sobre_o_autor_ieea_orbum": "p. 231-238"
+  },
+  "quarentenas_predeclaradas": [
+    "científico/biológica (mutações, epigenoma, DNA-lixo, primatas, Kurzweil)",
+    "referências externas (Amit Goswami, Kurzweil, Darwin) — nunca ontologia",
+    "B082 é obra distinta de nome semelhante — não confundir"
+  ],
+  "cruzamentos_previstos": ["RC-091 (CFDP/TALM)", "RC-693 (evolução da informação)", "RC-709 (Humano Turbinado)", "RC-694 (Oitavo Dia)", "RC-538–547 (território do ciclo anterior)", "P2021-01-23"]
+}
