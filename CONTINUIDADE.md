@@ -39,8 +39,8 @@
 - **Motivação:** o curador propôs reprocessar os livros (tratados na era pré-GitHub, sem o fluxo moderno); a IA recomendou **não fazer repassada total** e sim auditoria → piloto → escala seletiva. Curador aprovou: **"Vamos em frente e elaborar o dossiê de auditoria de lacunas (Fase 0)"**;
 - **Artefatos criados:** `pedagogico/DOSSIE-AUDITORIA-LACUNAS-FASE-0.md` (relatório) + `pedagogico/_matriz-auditoria-lacunas.csv` (matriz termo-a-termo) + ferramenta reutilizável `ferramentas/_auditoria_lacunas.py` (roda de novo a cada ciclo para atualizar);
 - **Achados principais:** 777 termos / 1.852 relações / 428 fichas / 86 obras; **354 termos sem ficha física** (46%); **35 obras com zero citações** na malha (9 'a confirmar' sem PDF + 24 'identificadas' + 5 'anunciadas'); 40 obras 'trabalhada' com cobertura desigual (B031/145 citações — glossário secundário — até B040/B043 com 7); **13 fichas magras** (≤150 palavras, ex.: RC-667 Autofagia do Criador, sefirot RC-675–680); **nenhum PDF de livro está arquivado no workspace** (uploads = só palestras) → reprocessar livro exige upload do original;
-- **Recomendação de piloto (Fase 1), aguardando devolutiva:** B019 *Nem Deus, nem Javé, nem Darwin* (20 citações, 238 págs, ponte com RC-538–547 e P2021-01-23) · B011 *Jesus e o Enigma da Transfiguração* (11 citações, 176 págs, tema central) · B040 *Homo Sapiens: da Guerra ao Esporte* (7 citações — a mais sub-representada; teste de fluxo sem risco);
-- **PENDENTE:** curador escolher o piloto + anexar o PDF do livro escolhido em upload;
+- **Piloto da Fase 1 — ESCOLHIDO PELO CURADOR (2026-08-22):** **B019 *Nem Deus, nem Javé, nem Darwin*** (20 citações, 238 págs, ponte com RC-538–547 e P2021-01-23); B011 e B040 seguem como candidatas da lista da seção 5 para a Fase 2;
+- **PENDENTE:** curador anexar o PDF/TXT do B019 em upload → em seguida entra no fluxo moderno (camadas → unidades → chunks → leituras → dossiê → devolutiva → ampliações);
 - **Escopo:** auditoria NÃO alterou a KB (base permanece 777/1852); B031 (Raquyel Braga) confirmado como fonte secundária que deu esqueleto à tabela — prioridade de reprocessamento para obras primárias de Ellam.
 
 ## Ciclo Temático — Carbono × Sílica: do Xamanismo Cósmico à IA Xamânica (2026-08-22)
@@ -56,7 +56,7 @@
 - O curador compartilhou a apostila com o seu Assistente, que elogiou: (a) a **blindagem metodológica** — voz externa de Ari Barbosa isolada na PARTE IX e padrão de 3 camadas (primária/ART/EXT); (b) o **eixo carbono → sílica** e o dilema da oxitocina vs. genoma de sílica; (c) a responsabilidade de educar a IA com ética ("duplo canalha"); (d) a citação de fechamento *"O universo não respeita o que você quer; o universo respeita o que você sustenta"*;
 - **Pergunta metodológica do curador:** *"quando você elabora uma Apostila Temática, você faz uso de alguma informação dos textos originais que estão arquivados, ou usa exclusivamente as informações que estão nos Termos e nos Relacionamentos?"*;
 - **Resposta da IA (registrada):** as duas coisas, em camadas — (1) **esqueleto** = 100% malha (termos RC + relações); (2) **carne** = fichas ampliadas, que já são os textos originais destilados e auditados na curadoria (com marcação de fonte); (3) **voz** = citações verbatim dos originais arquivados, sempre relidas e com rastreabilidade completa (palestra, U####, faixa de chunks, RC) — ex.: `> ... — P2026-04-02, U0078–U0093 (RC-643)`. A PARTE IX cita o EXT com U0001–U0029. Regra: nada é usado de memória; se nem o original nem a malha sustentam, não entra ([REVISAR]/[NÃO REVELADO]);
-- **Aguardando devolutiva formal (O-1..O-8)** da Apostila Temática Carbono × Sílica.
+- **DEVOLUTIVA FORMAL (O-1..O-8) — 2026-08-22:** curador **APROVOU a apostila na íntegra; ciclo fechado**, sem nenhuma edição no texto.
 
 ## Curadoria P2026-07-30 — 4ª Edição — Estagiários do Kaos (LIVE) — FIM DA REPASSADA
 
