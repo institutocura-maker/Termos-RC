@@ -47,6 +47,21 @@ def config(doc):
     st.font.name = "Calibri"; st.font.size = Pt(10.5)
     st.element.rPr.rFonts.set(qn("w:eastAsia"), "Calibri")
 
+def nome_seguro_windows(nome):
+    """Torna o nome de arquivo compatível com Windows/OneDrive/Git for Windows.
+
+    Windows proíbe : ? * " < > | / \\ em nomes de arquivo — um único ':' impede
+    o `git clone` da árvore inteira no Windows 11. Substitui por equivalentes
+    visuais, preservando acentos, travessões (—) e o sinal × usados nos títulos.
+    """
+    subs = {":": " -", "?": "", "*": "", '"': "'", "<": "(", ">": ")",
+            "|": "-", "/": "-", "\\": "-"}
+    for velho, novo in subs.items():
+        nome = nome.replace(velho, novo)
+    nome = re.sub(r"\s{2,}", " ", nome).strip().rstrip(".")
+    return nome
+
+
 def set_cab_rod(doc, titulo_cab, autor="Jan Val Ellam", data="", subtipo="Apostila de estudo — transcrição editada"):
     sec = doc.sections[0]
     hdr = sec.header.paragraphs[0]
@@ -262,8 +277,7 @@ def gerar(md_path, saida=None):
 
     if not saida:
         pasta = os.path.dirname(md_path)
-        slug_titulo = re.sub(r"[^A-Za-z0-9]+", " ", titulo).strip().replace(" ", " ")
-        saida = os.path.join(pasta, f"Apostila - {titulo}.docx")
+        saida = os.path.join(pasta, f"Apostila - {nome_seguro_windows(titulo)}.docx")
     doc.save(saida)
     print("OK ->", saida)
 
