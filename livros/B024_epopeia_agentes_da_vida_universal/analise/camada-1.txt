@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): nono livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044).
+PDF entregue em uploads_recepcao/ pelo curador (push 7c04e90 no branch da sessão).
+Obra já na BIBLIO como B024 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+49 termos já citam B024; 22 com ficha. Núcleo: RC-148 Agentes / RC-152 Prabrajna / RC-155 Eras / RC-167 Criação Indevida.
+RC-104 Trimurti tem ficha, mas B024 não está nas fontes. Quarentenas: clínica (câncer/doenças da Trimurti), científica (DNA 3–5% / 13,8 bi), IEEA/Orbum.
+Corpus: original.txt (extract paginado; p. 1 sem texto; p. 22 só legenda da Figura 1). Sem marca d'água de conversor.

@@ -1,0 +1,8 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B024_epopeia_agentes_da_vida_universal/original.txt
+
+SHA-256 2bb933d1d7006629442de6ddb6f08aab5f7653d15fe6d0312b3003ba8ad45faf
+Não duplicar aqui (320 KB). Página 1 = [página sem texto extraível].
+Página 22 = só a legenda da Figura 1 ([TEXTO INCOMPLETO]).
+Sem marca d'água de conversor.

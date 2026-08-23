@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B044 aplicada)  
+**Data de sincronização:** 2026-08-23 (ingresso B024 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B024 *A Epopeia dos Agentes da Vida Universal* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/A Epopeia dos Agentes da Vida Universal - Jan Val Ellam.pdf` (1.828.926 bytes; SHA-256 `2861403c1a4598e97d99720b10a643599c8bb44b295300921bdd1165874a5594`; 162 págs = **B024**). ISBN Ebook 978-85-62411-57-1 já na BIBLIO. CIP 214 p. (papel) × PDF 162 = `[REVISAR]` de contagem. CIP: “univeral”. CDU 133.93. **BIBLIO intocada.**
+- Ciclo em `livros/B024_epopeia_agentes_da_vida_universal/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~49.308 palavras; SHA-256 `2bb933d1d7006629442de6ddb6f08aab5f7653d15fe6d0312b3003ba8ad45faf`. p. 1 sem texto; p. 22 só legenda da Figura 1 → `[TEXTO INCOMPLETO]`.
+- 49 termos já citam B024; 22 com ficha. Dossiê sugere ampliar RC-148, RC-152, RC-167, RC-155, RC-161, RC-149. **0 códigos.** RC-012/013/019/031/034/040/054/059/061/075/100/135/153/154/156–159/162/163/168–173/413 sem ficha — não materializar.
+- RC-104 Trimurti tem ficha, mas **B024 não está nas fontes** (opcional O-2). Quarentenas: clínica (câncer/doenças da Trimurti — não diagnóstico), científica (DNA 3–5% / 13,8 bi / Gunas = matéria escura), teológica (Kardec/Blavatsky/Sai Baba), ufológica, política, biográfica (Índia 2001), IEEA/Orbum fora. Sem fusão com B001/B002/B033/B041/B044; B045 permanece anunciada. Trilogia da Índia / Almanaques → Colecionar Incertezas.
 
 ## Fase 2 — B044 *A Divina Colmeia* (abertura 2026-08-23)
 
