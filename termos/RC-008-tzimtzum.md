@@ -23,6 +23,17 @@ O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revela
 
 - **Tzimtzum na fala (P2025-05-31):** "Tzin Tzum seria o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação" (livro do autor B013); a luz "mergulhada no seu próprio abismo" (Da'at).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** a obra pergunta o que significa o Tzimtzum e situa Isaac Luria como quem “produziu o conceito”.
+- **[B013 p. 14]** Luria criou o conceito: “exílio de deus dentro dele mesmo”; uma “Faixa de Realidade imprópria e corrompida” aprisionou a Mente da qual foi emanada; “um Ser que se pretendeu Criador de Realidades, sucumbiu junto com a sua Expressão Mental”; “acabou ‘tragado’ pelo que, da sua Mente, foi expelido como sendo uma ‘Massa de Moldar Realidade’”.
+- **[B013 p. 14]** o “exílio forçado” é “a tentativa compreensível de transformar uma ‘queda’ num ‘passo de dança’!”
+- **[B013 p. 18]** Luria classifica a queda como “exílio” do estágio anterior (AHVH) “dentro dele mesmo”; “evitam usar a expressão ‘queda’, escondendo-a por trás do conceito subjetivo e relativo do ‘Tzimtzum’.”
+- **[B013 p. 30]** Luria: “Deus foi compelido a dar espaço ao universo, abandonando uma região dentro de sua infinidade. Ao se contrair, ele deixou um lugar primordial para o universo se desenvolver.” Nas RC: a “contração de deus” = “implosão” do Corpo Mental, que provocou a “queda” no âmbito da Criação; “o primeiro ato ou atitude mental de ‘deus’ não foi um passo para fora, mas para dentro, como se ‘implodindo e caindo’ na própria ‘implosão’.”
+- **[B013 p. 146]** tira em quadrinhos: Criador atraído pela “Nuvem Quântica Criatória” emanada da sua Mente → na Nuvem está escrito “Tzimtzum” → o Criador agora dentro dela; “aquele Ser acabara de ‘cair na Nuvem’ que ele próprio havia criado.”
+- **Quarentena teológica:** leitura de Ellam da Cabala lurianica — não exegese judaica. RC-272 (laço temporal) permanece **sem ficha**. IEEA/Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

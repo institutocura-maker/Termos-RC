@@ -88,7 +88,7 @@ TERMOS = [
     ("RC-006", "Guerra do Éden", EVE_GUE[0], EVE_GUE[1], P, ["B015"], "RC-001; RC-004; RC-147; RC-242", False),
     ("RC-007", "Exilados de Capela", SER_DEC[0], SER_DEC[1], P, ["B031", "B003", "B025", "B026", "B057"], "RC-002; RC-003; RC-020; RC-070; RC-078; RC-105", True),
     ("RC-008", "Tzimtzum", TER_HEB[0], TER_HEB[1], P, ["B013"], "RC-261; RC-267; RC-272; RC-265", True),
-    ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28'], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
+    ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B013', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28'], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
     ("RC-010", "Atlântida / Terra Atlantis", LOK_TER[0], LOK_TER[1], C, ['P2025-02-16'], 'RC-030; RC-088; RC-023; RC-029', False),
 
     # ---- Glossário B031 (ordem alfabética)
@@ -702,7 +702,7 @@ TERMOS = [
     ("RC-562", "Baralho genético (metáfora dos 28.869 genes)", PRO_BIO[0], PRO_BIO[1], C, ["P2024-02-25"], "RC-217; RC-559", True),
     ("RC-563", "Travas e lacres (mecanismos de controle do despertar)", COS_ETI[0], COS_ETI[1], C, ['P2024-02-25', 'P2022-12-17', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30'], 'RC-449; RC-099; RC-577; RC-702; RC-189; RC-086; RC-712', True),
     ("RC-564", "Fios soltos (improviso humano × robô)", COS_PRO[0], COS_PRO[1], C, ['P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04; RC-614'], "RC-099; RC-557; RC-619", True),
-    ("RC-565", "Hochmah (2ª Sefirah — Sabedoria; = Sophia)", TER_HEB[0], TER_HEB[1], P, ['B060', 'P2024-02-25', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04'], 'RC-261; RC-263; RC-135; RC-009; RC-072; RC-682; RC-366', True),
+    ("RC-565", "Hochmah (2ª Sefirah — Sabedoria; = Sophia)", TER_HEB[0], TER_HEB[1], P, ['B060', 'B013', 'P2024-02-25', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04'], 'RC-261; RC-263; RC-135; RC-009; RC-072; RC-682; RC-366', True),
     # ---- Novos termos da palestra P2022-12-17 — O Incompreendido Ano de 2012
     # Pré-curadoria aprovada pelo curador em 2026-08-14. Status candidato por se tratar de STT sem áudio.
     ("RC-566", "Protocolo da Busca", COS_ESP[0], COS_ESP[1], C, ['P2022-12-17', 'P2025-02-15'], 'RC-253; RC-226; RC-231; RC-278', True),

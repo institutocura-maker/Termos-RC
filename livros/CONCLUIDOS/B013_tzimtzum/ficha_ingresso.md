@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B013 — Tzimtzum: O Exílio Forçado de uma Divindade
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Ciclo em `livros/B013_tzimtzum/` (fora de CONCLUIDOS). 0 códigos. BIBLIO intocada.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 10 fichas ampliadas (RC-008, RC-267, RC-266, RC-265, RC-262, RC-264, RC-261, RC-263, RC-565, RC-009); B013 nas fontes de RC-565 e RC-009; 0 códigos; BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

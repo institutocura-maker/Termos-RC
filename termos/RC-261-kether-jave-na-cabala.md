@@ -28,6 +28,16 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 
 - **[P2024-07-14] Kether na lição de Enoque (U0795–U0805):** "vocês criaram Kether, Hochmah, Binah e Yesod, várias sefirot, ou seja, várias emanações dos três principais seres, que são os três da Trimurti" — Kether como a primeira das emanações da Trimurti na explicação de Enoque (lógica humana aplicada à cabala).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** o Criador na Cabala é **Kether/Javé**; a Criação é Daath.
+- **[B013 p. 72]** em Yetzirah reside “o Criador ‘caído’ Kether, também chamado de ‘Javé’ e de ‘Brahma’.”
+- **[B013 p. 77]** primeira emanação, Sefirá Kether, “A Coroa”: “Personificação do Criador caído”; mesmo Ser chamado YWHW/Javé, Brahma, Caos, Atom, Ogni, Alá — **Teologia Comparada de Ellam**; “Ente ‘caído’, ‘reconstruído’ sob uma forma ‘eletromagnetizada’”, como os habitantes de Yetzirah.
+- **[B013 p. 107–108]** “queda” de Kether/Javé; os outros dois (após muitas etapas) “concordaram que o Criador havia sido Javé/Kether/Brahma, numa fase anterior à que, então, os três se encontravam como Entidades ‘decaídas’.”
+- **[B013 p. 146]** Kether/Javé teria tentado repassar “as informações sobre o seu ‘problema’, para que a lógica humana pudesse construir a sua visão quanto ao ocorrido.”
+- **Quarentena teológica.** Fonte B013 já estava na tabela-mestra; este bloco só fecha o rastreio de páginas.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

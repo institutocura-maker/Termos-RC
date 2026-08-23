@@ -22,6 +22,16 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 
 - **Parameshthi (P2026-07-25):** "o senhor Brahma Parameshthi... cerca de 270 mundos que observam o que se passa na Terra" (Vyasa/Mahabharata) — alinhado ao registro do Zohar (RC-265).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 10]** profecia VAYEHI 21, 8B-9A: o mensageiro será ouvido “nos 270 mundos da Criação.”
+- **[B013 p. 12]** os livros da Revelação Cósmica “estão sendo produzidos exatamente para chamar a atenção dos ‘270 mundos’ (‘moradas’ ou ‘lokas’) diretamente envolvidos com os problemas mal resolvidos do passado imemorial.”
+- **[B013 p. 12]** as moradas do universo paralelo + civilizações deste universo biológico que aguardam a “Reintegração Cósmica da Terra” somam “muito, mais muito superior ao apontado pelo ‘Sepher ha-Zohar’.”
+- **[B013 p. 136]** “a Cabala foi elaborada não somente para os terráqueos, mas também e, principalmente, para parte dos tais 270 mundos referidos pelo ‘Zohar’.”
+- **[B013 p. 146]** as populações dos 270 mundos “dependeriam do que os humanos compreendessem e, depois, registrassem na sua cultura”; para esse público “o enredo aqui contextualizado não causa espanto algum!”
+- **Quarentena teológica:** Juízo Final / mensageiro = leitura de Ellam. Sem código para “mensageiro do Juízo Final”.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

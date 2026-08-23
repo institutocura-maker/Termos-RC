@@ -87,6 +87,15 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 
 - **[P2026-07-30 — FONTE ORIGINAL] Sophia e a vulnerabilidade (Pergunta 4):** "no início da Covid eu tive que dizer: 'ó, parece que Sofia foi agredido'... por forças que estavam procurando liquidá-lo"; "a vinda de Sofia está estabelecida de uma forma muito frágil em torno de promessas que o eu humano de Jesus fez; Sofia garantiu que cumpria, mas até agora a ausência de coerência total da parte desses eus"; "o problema é que existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia" [QUARENTENA TEOLÓGICA/BIOGRÁFICA — leitura do autor].
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 18]** o Messias da “vinda” = Hochmah / Sophia.
+- **[B013 p. 74]** Hochmah = Sophia = “feitor de Javé” / “deus executivo de Javé” (desde Enoch); reaparece em João como Verbo / forma celestial de Jesus.
+- **[B013 p. 82]** vinda de Hochmah/Sophia cumpre a promessa do “Avatar humano” Jesus (Apocalipse); cabalistas não viram Malkuth em Jesus.
+- **[B013 p. 108]** Chokmah = Vishnu gerou Hochmah/Sophia “como sendo uma extensão de si mesmo”; Hochmah = “ajuda operacional” sem a qual a Criação não se realizaria.
+- **Quarentena teológica:** leitura de Ellam (Cabala × RC). Sem código novo. IEEA/Orbum **fora**. Fonte **B013** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -28,4 +28,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B043_jesus_druida_da_montanha` — Devolutiva aplicada (2026-08-23); 3 fichas (RC-072, RC-373, RC-001); 0 códigos; BIBLIO intocada. Sem apostila.
 
-`B013_tzimtzum/` — ciclo em andamento (2026-08-23); ingresso + dossiê enxuto; aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada.
+`CONCLUIDOS/B013_tzimtzum` — Devolutiva aplicada (2026-08-23); 10 fichas (RC-008, RC-267, RC-266, RC-265, RC-262, RC-264, RC-261, RC-263, RC-565, RC-009); B013 nas fontes de RC-565 e RC-009; 0 códigos; BIBLIO intocada. Sem apostila.

@@ -22,6 +22,16 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **Inseminação de Maria (B004):** "Jesus nasce através do genoma de Hochmah... ele teve que ficar imobilizado, retirar o genoma dele, a fórmula de poder mental e inseminar Maria"; descrito no livro B004 (A Sétima Trombeta do Apocalipse — anjos testemunhas).
 - **Crítica do autor:** Hochmah "não dá sorriso, não é sexuado... é um robozão, um troço que não tem emoção... é igual um computador recebendo oração"; as provocações nas palestras são "para tirá-lo da inércia, porque a inércia dele também tem um preço"; "qualquer ser humano dá de 1.000 a zero em Hochmah em termos de perceber as coisas" (leitura do autor).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 18]** o “Messias” previsto pelo Criador é denominado “Hochmah (em hebraico) ou ‘Sophia’ (em grego).”
+- **[B013 p. 74]** “Hochmah, em hebraico — que mais tarde viria a ser chamada de ‘Sophia’, nas tradições gregas”; no tempo de Enoch, “a Entidade Hochmah (Sophia) era conhecida como o ‘feitor de Javé’, ‘o deus executivo de Javé’.” Com o sumiço dos livros de Enoch, o conceito “se tornou lendário.”
+- **[B013 p. 74]** João trata Hochmah como o “Verbo que estava junto a deus”; a teologia católica (Niceia) “deu fim não só a Sophia, como também a Javé.”
+- **[B013 p. 82]** “A vinda de Hochmah/Sophia à Terra, como cumprimento da promessa feita pelo seu ‘Avatar humano’ Jesus.”
+- **[B013 p. 107–108]** a “Sefirah Superior Chokmah, mais tarde, geraria de si mesmo ‘Hochmah’”; “Chokmah é a mesma Entidade chamada ‘Vishnu’, que gerou ‘Hochmah’ (ou seja, Sophia) como sendo uma extensão de si mesmo”; por isso Salomão a chama “Sabedoria Personificada” ao lado de Kether; por isso João: sem o Verbo, nada do que foi feito se fez.
+- Grafia canônica: **Hochmah** (Sophia) × **Chokmah** (2ª Sefirá / Vishnu). PDF traz também “Chokmach” e “Hokhmah” — não ontologizar as variantes. Fonte **B013** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

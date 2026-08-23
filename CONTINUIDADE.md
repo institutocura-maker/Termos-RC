@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (piloto B013 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B013 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B013 *Tzimtzum: O Exílio Forçado de uma Divindade* (abertura 2026-08-23)
@@ -11,6 +11,10 @@
 - 27 termos já citam B013; 18 com ficha. Dossiê sugere ampliar RC-008, RC-267, RC-266, RC-265, RC-262, RC-264. **0 códigos.** RC-269/270/271/272/038/059/060/061/190/468 sem ficha — não materializar.
 - p. 151 (quadro dos Patriarcas) = só título extraível → `[TEXTO INCOMPLETO]`.
 - Quarentenas: teológica (Cabala / deus caído); político-geopolítica (sionismo; maio/2020); biográfica (infarto 2011); IEEA/Orbum fora.
+
+### Devolutiva B013 aplicada (2026-08-23)
+
+- O-1 confirmado (é B013); O-2: 10 fichas ampliadas (RC-008, RC-267, RC-266, RC-265, RC-262, RC-264 + opcional RC-261, RC-263, **RC-565** e **RC-009** com B013 nas fontes); O-3: zero códigos; RC-038/059/060/061/190/269/270/271/272/468 não materializadas; O-4: Ein Sof em RC-468 sem ficha; Dormammu e IEEA/Orbum fora; p. 151 `[TEXTO INCOMPLETO]`; O-5: B049 e B014 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas teológica, histórico-religiosa, político-geopolítica (sionismo / Estado de Israel / califado / maio/2020), científica, ufológica, biográfica; O-8: pasta em `livros/CONCLUIDOS/B013_tzimtzum/`. Sem apostila.
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
 

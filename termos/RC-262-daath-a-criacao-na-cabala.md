@@ -18,6 +18,16 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 - Distorção judaica: os judeus mantiveram isso, só que mudaram a história (nacionalismo — Deus mergulhou por causa dos judeus).
 - Livro do autor: B013 Tzimtzum (o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** a Cabala explica a Criação **(Daath)** e o Criador **(Kether/Javé)**.
+- **[B013 p. 133]** citação cabalística reproduzida pelo autor: “Daath é ‘um Abismo de Luz’ entre a Tríade Superior, e a multiplicação desta em Forças ou Emanações que constituirão a Criação”; “Daath constitui a fratura pela qual se realiza o fenômeno da ‘Separatividade’, engendrando a Ilusão do Espaço e do Tempo.”
+- **[B013 p. 133]** a razão do mal, na Cabala, é o mau uso da “Luz” por quem vive em Daath, “por reterem para si algo que deveria ser repassado, devolvido ao Criador Kether.”
+- **[B013 p. 134]** Daath = “Círculo Intransponível”: quem nele “mergulha”, “jamais consegue sair”; “Daath é uma Criação ‘blindada’, transitória”; “não é um lugar romântico”; efeito semelhante a Maya (Ilusão).
+- **[B013 p. 134]** para Ellam, Daath “refere-se ao nome desta Obra colapsada — para quem a vê de fora”; os cabalistas restringem o Abismo ao universo material e elevam Yetzirah a “Paraíso”, “que o mesmo não tem.”
+- **Quarentena teológica:** releitura gnóstica da Cabala. RC-190 (Kardec / Erraticidade, p. 134) permanece **sem ficha**. Prazos de desconstituição de Yetzirah: **quarentena científica**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

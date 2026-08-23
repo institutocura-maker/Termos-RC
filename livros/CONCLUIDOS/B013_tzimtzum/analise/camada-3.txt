@@ -1,6 +1,6 @@
 O corpus integral desta obra é o extract paginado:
 
-  livros/B013_tzimtzum/original.txt
+  livros/CONCLUIDOS/B013_tzimtzum/original.txt
 
 SHA-256 804251464317b53a46e6dcbadaa91e41508856af9d688d88e0c930b7dfea828a
 Não duplicar aqui (386 KB). Página 1 = [página sem texto extraível].

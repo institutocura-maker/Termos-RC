@@ -14,8 +14,8 @@
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 2568 | 51 | b11e73cdbc96ff9c55cc46821063e0866f09b6ebf6fdacf335a3ce7440a3495d
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
-# termos/RC-008-tzimtzum.md | 3305 | 48 | b38fd7e27ad1a52de0717ed0fe06633a9d2e299e13aabb1d12a7da2a7aa3e723
-# termos/RC-009-sophia-cristo-cosmico.md | 21658 | 183 | e37ae48403902a12b645aaa1ec38a679483b9be43bf76e1aa1f47c5f1962b5b1
+# termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
+# termos/RC-009-sophia-cristo-cosmico.md | 22432 | 192 | 3b852ef66fd103ac90c178c717317df9ffb19b8b1883b7721c09856a8ad0be03
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 2270 | 44 | 7e7c91755cdac301a21a5a2dfeccf30a2b7f5a296342d852adb7b46f61a418fb
@@ -85,13 +85,13 @@
 # termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 2722 | 41 | fe0d3382a251cfe845c2e47f69a8bf0ac7e16955d2a32691b4902e159f122ee9
 # termos/RC-259-apolonio-de-tiana-encarnacao-do-quarto-logos.md | 3656 | 59 | 501e0f168de8a869560eeed31de81c8da11488ed9b625953ba8f6f6e2299840b
 # termos/RC-260-prisioneiros-da-brahmaloka.md | 3052 | 43 | 467486858b389f4e86eb018db43376ef5d90b1fd804b436d5984961c88ab02d0
-# termos/RC-261-kether-jave-na-cabala.md | 3237 | 53 | 51e7203fa9acd2678eb9b283d800f780825dac44b61ee26ef6d21890ff739bbd
-# termos/RC-262-daath-a-criacao-na-cabala.md | 1791 | 43 | 78fa10b4754a5babf3c72f8ae86ac2593e0af9017c0daa0d44833d88b5ef5f5c
-# termos/RC-263-sefirot-arvore-da-vida.md | 4050 | 54 | c98395a72c437d7e9322685b37b9719034e13a0c558e240496d2adde5af3a54d
-# termos/RC-264-planos-de-existencia-da-cabala-atziluth-briah-yetzirah-assiah.md | 3961 | 57 | 6601512b9b10a54bd5e6d3e9fe95df1d2fa70ba7e1d82e9f8ccb7ab0e835e0fc
-# termos/RC-265-os-270-mundos-profecia-do-zohar.md | 2872 | 46 | d27f2cd898cc47194ad6b184f1fdaec671c7f05cf7d3610108c57422b5740924
-# termos/RC-266-sepher-ha-zohar-e-shimon-bar-yochai.md | 1681 | 40 | 86e6f52164bfe5a35f11322c99e8e70ae71855a2a4556bedc3622a51f2c36763
-# termos/RC-267-isaac-luria-e-o-conceito-do-tzimtzum.md | 1628 | 42 | 221d8ae03127268c58628c73477960caa723cb6e789491374c4e1f7caf96f456
+# termos/RC-261-kether-jave-na-cabala.md | 4390 | 63 | 2eb34560e9e76d398176d8b0258a0c8108c6b2ab7e29396924d713f77b96ece8
+# termos/RC-262-daath-a-criacao-na-cabala.md | 3159 | 53 | 26dd9484135f016235b28feb285492e4381d2a78a63e30f1d5c7697382320f26
+# termos/RC-263-sefirot-arvore-da-vida.md | 5384 | 64 | 130503d49d66c9d3d8e0a86b2100548aaf35818b416da5d49d1fee4361c313c0
+# termos/RC-264-planos-de-existencia-da-cabala-atziluth-briah-yetzirah-assiah.md | 5386 | 69 | 318aea3ddc8128bb19ae06ce95924c5ea5aedd31bd9860cfa45600b95a2411b6
+# termos/RC-265-os-270-mundos-profecia-do-zohar.md | 4050 | 56 | 1b36f1568ea2eaa11c06974016470e2702ee722927ba22a98542407d3d3bc646
+# termos/RC-266-sepher-ha-zohar-e-shimon-bar-yochai.md | 2985 | 50 | 965a72b010f351520e822bdc5b865af3b18c8ae25ac6324a1720c35f49bfa646
+# termos/RC-267-isaac-luria-e-o-conceito-do-tzimtzum.md | 2564 | 51 | 1c19bda8744e57f064bc4835f863d763484bed26766d145cf63bcc1364c4803b
 # termos/RC-268-gnosticismo-contraponto-a-cabala.md | 2533 | 45 | 42dd8bd3048c40acbef8d889646e60167ae46916fcac72194be35e07cfce858b
 # termos/RC-273-a-falsa-trindade-concilio-de-niceia.md | 3868 | 52 | cc5ed209eaca403765e11143eb0867c66ce5fab325a9677f15f4415a5b43f120
 # termos/RC-274-capsula-do-tempo-de-sophia-joao.md | 3113 | 47 | 5c156d5d9c3395f45684d6f01c88c83aad1b0801076ab039520b198f8a1353cb
@@ -223,7 +223,7 @@
 # termos/RC-562-baralho-genetico-metafora-dos-28-869-genes.md | 1336 | 36 | a7f3c25911ff87a6132def7a6066babfa47e4722e4329d92490fe6677a5a75e2
 # termos/RC-563-travas-e-lacres-mecanismos-de-controle-do-despertar.md | 1782 | 41 | 45c28e9e7bf91fb5d09fdbff5d066042fd000668e8b797088fe2a15a782bd68a
 # termos/RC-564-fios-soltos-improviso-humano-x-robo.md | 1483 | 36 | c75628be2454234e88e6cb1a97d0dc498a590b5cc93203ba5df587c736cca3ee
-# termos/RC-565-hochmah-2a-sefirah-sabedoria-sophia.md | 2591 | 47 | bdcbe1d8f6d6515a7aae5b181d3fc40979bfefce783f6ab47a9d95a0ba358192
+# termos/RC-565-hochmah-2a-sefirah-sabedoria-sophia.md | 4008 | 57 | 3d4be42cffe38d8a0e714016f4e9d7283ac283fe1160a9cb8a2b95ec46f4f975
 # termos/RC-566-protocolo-da-busca.md | 2040 | 42 | 6e86d75258bcdccb0acf222645aab530345396ff79fe253fb92401c1e048a979
 # termos/RC-567-ciclo-de-precessao-equinocial-precessao-dos-equinocios.md | 3003 | 47 | cdf8559bb0a16bb8fe549739582098232a13f3e18dca3a0270b8ef84bffd2a9a
 # termos/RC-568-eras-equinociais-ciclos-de-aproximadamente-5200-anos.md | 2067 | 43 | 9e26883c09e1b787f9d135d80783c2c41b47e4af2bd0239eecdab697dcef61b0
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1443834 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1456599 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -905,6 +905,17 @@ O subtítulo da obra de Ellam é *O Exílio Forçado de uma Divindade — Revela
 
 - **Tzimtzum na fala (P2025-05-31):** "Tzin Tzum seria o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação" (livro do autor B013); a luz "mergulhada no seu próprio abismo" (Da'at).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** a obra pergunta o que significa o Tzimtzum e situa Isaac Luria como quem “produziu o conceito”.
+- **[B013 p. 14]** Luria criou o conceito: “exílio de deus dentro dele mesmo”; uma “Faixa de Realidade imprópria e corrompida” aprisionou a Mente da qual foi emanada; “um Ser que se pretendeu Criador de Realidades, sucumbiu junto com a sua Expressão Mental”; “acabou ‘tragado’ pelo que, da sua Mente, foi expelido como sendo uma ‘Massa de Moldar Realidade’”.
+- **[B013 p. 14]** o “exílio forçado” é “a tentativa compreensível de transformar uma ‘queda’ num ‘passo de dança’!”
+- **[B013 p. 18]** Luria classifica a queda como “exílio” do estágio anterior (AHVH) “dentro dele mesmo”; “evitam usar a expressão ‘queda’, escondendo-a por trás do conceito subjetivo e relativo do ‘Tzimtzum’.”
+- **[B013 p. 30]** Luria: “Deus foi compelido a dar espaço ao universo, abandonando uma região dentro de sua infinidade. Ao se contrair, ele deixou um lugar primordial para o universo se desenvolver.” Nas RC: a “contração de deus” = “implosão” do Corpo Mental, que provocou a “queda” no âmbito da Criação; “o primeiro ato ou atitude mental de ‘deus’ não foi um passo para fora, mas para dentro, como se ‘implodindo e caindo’ na própria ‘implosão’.”
+- **[B013 p. 146]** tira em quadrinhos: Criador atraído pela “Nuvem Quântica Criatória” emanada da sua Mente → na Nuvem está escrito “Tzimtzum” → o Criador agora dentro dela; “aquele Ser acabara de ‘cair na Nuvem’ que ele próprio havia criado.”
+- **Quarentena teológica:** leitura de Ellam da Cabala lurianica — não exegese judaica. RC-272 (laço temporal) permanece **sem ficha**. IEEA/Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1018,6 +1029,15 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 ## Ampliação — P2026-07-30
 
 - **[P2026-07-30 — FONTE ORIGINAL] Sophia e a vulnerabilidade (Pergunta 4):** "no início da Covid eu tive que dizer: 'ó, parece que Sofia foi agredido'... por forças que estavam procurando liquidá-lo"; "a vinda de Sofia está estabelecida de uma forma muito frágil em torno de promessas que o eu humano de Jesus fez; Sofia garantiu que cumpria, mas até agora a ausência de coerência total da parte desses eus"; "o problema é que existe um grupo de seres que quer saber a qualquer custo a vulnerabilidade em torno dessa questão de En Ma, que envolve Javé, Jesus e Sofia" [QUARENTENA TEOLÓGICA/BIOGRÁFICA — leitura do autor].
+
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 18]** o Messias da “vinda” = Hochmah / Sophia.
+- **[B013 p. 74]** Hochmah = Sophia = “feitor de Javé” / “deus executivo de Javé” (desde Enoch); reaparece em João como Verbo / forma celestial de Jesus.
+- **[B013 p. 82]** vinda de Hochmah/Sophia cumpre a promessa do “Avatar humano” Jesus (Apocalipse); cabalistas não viram Malkuth em Jesus.
+- **[B013 p. 108]** Chokmah = Vishnu gerou Hochmah/Sophia “como sendo uma extensão de si mesmo”; Hochmah = “ajuda operacional” sem a qual a Criação não se realizaria.
+- **Quarentena teológica:** leitura de Ellam (Cabala × RC). Sem código novo. IEEA/Orbum **fora**. Fonte **B013** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5316,6 +5336,16 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 
 - **[P2024-07-14] Kether na lição de Enoque (U0795–U0805):** "vocês criaram Kether, Hochmah, Binah e Yesod, várias sefirot, ou seja, várias emanações dos três principais seres, que são os três da Trimurti" — Kether como a primeira das emanações da Trimurti na explicação de Enoque (lógica humana aplicada à cabala).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** o Criador na Cabala é **Kether/Javé**; a Criação é Daath.
+- **[B013 p. 72]** em Yetzirah reside “o Criador ‘caído’ Kether, também chamado de ‘Javé’ e de ‘Brahma’.”
+- **[B013 p. 77]** primeira emanação, Sefirá Kether, “A Coroa”: “Personificação do Criador caído”; mesmo Ser chamado YWHW/Javé, Brahma, Caos, Atom, Ogni, Alá — **Teologia Comparada de Ellam**; “Ente ‘caído’, ‘reconstruído’ sob uma forma ‘eletromagnetizada’”, como os habitantes de Yetzirah.
+- **[B013 p. 107–108]** “queda” de Kether/Javé; os outros dois (após muitas etapas) “concordaram que o Criador havia sido Javé/Kether/Brahma, numa fase anterior à que, então, os três se encontravam como Entidades ‘decaídas’.”
+- **[B013 p. 146]** Kether/Javé teria tentado repassar “as informações sobre o seu ‘problema’, para que a lógica humana pudesse construir a sua visão quanto ao ocorrido.”
+- **Quarentena teológica.** Fonte B013 já estava na tabela-mestra; este bloco só fecha o rastreio de páginas.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5360,6 +5390,16 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 - Da'at é o abismo onde essas 10 emanações atuam; só Assiah e Yetzirah são os dois mundos dentro do abismo.
 - Distorção judaica: os judeus mantiveram isso, só que mudaram a história (nacionalismo — Deus mergulhou por causa dos judeus).
 - Livro do autor: B013 Tzimtzum (o barulho quântico da queda ou do exílio forçado de uma divindade em sua própria criação).
+
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** a Cabala explica a Criação **(Daath)** e o Criador **(Kether/Javé)**.
+- **[B013 p. 133]** citação cabalística reproduzida pelo autor: “Daath é ‘um Abismo de Luz’ entre a Tríade Superior, e a multiplicação desta em Forças ou Emanações que constituirão a Criação”; “Daath constitui a fratura pela qual se realiza o fenômeno da ‘Separatividade’, engendrando a Ilusão do Espaço e do Tempo.”
+- **[B013 p. 133]** a razão do mal, na Cabala, é o mau uso da “Luz” por quem vive em Daath, “por reterem para si algo que deveria ser repassado, devolvido ao Criador Kether.”
+- **[B013 p. 134]** Daath = “Círculo Intransponível”: quem nele “mergulha”, “jamais consegue sair”; “Daath é uma Criação ‘blindada’, transitória”; “não é um lugar romântico”; efeito semelhante a Maya (Ilusão).
+- **[B013 p. 134]** para Ellam, Daath “refere-se ao nome desta Obra colapsada — para quem a vê de fora”; os cabalistas restringem o Abismo ao universo material e elevam Yetzirah a “Paraíso”, “que o mesmo não tem.”
+- **Quarentena teológica:** releitura gnóstica da Cabala. RC-190 (Kardec / Erraticidade, p. 134) permanece **sem ficha**. Prazos de desconstituição de Yetzirah: **quarentena científica**.
 
 ## Fontes
 
@@ -5418,6 +5458,16 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 
 - **[P2024-07-14] A árvore da vida (U0805–U0815):** "a tradução disso é árvore da vida. Essa tradução não era para ser chamada assim, mas os cabalistas fizeram"; "quando isso foi entregue a Shimon Bar Yochai com o conceito de Tikun, dizendo que os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído"; "os judeus transformaram que Malkuth é o Messias que virá... é uma distorção, uma deformação, uma difamação da revelação que Javé entregou aos judeus" [leitura do autor — quarentena].
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 71]** Javé, por meio dos Anjos, ofertou “uma descrição sobre a extensão do seu ‘império além-mundo’”, “a metáfora do que passou a ser conhecido como a ‘Árvore da Vida’ e as ‘Sefiroth’.”
+- **[B013 p. 71]** a Árvore da Vida é “um diagrama da emanação do universo a partir do ‘Uno’”; também “um plano para permitir ao homem a escalada das dez ‘Sefiroth’”, “dez ‘Emanações da Divindade’”, “chave para decifrar os mistérios da Cabala, até atingir a ‘União com Deus’.”
+- **[B013 p. 71]** cada Sefirá tem “quádrupla natureza” associada aos quatro universos-mundos (Doutrina das Emanações).
+- **[B013 p. 77]** 1ª Kether (Coroa) = Criador caído; 2ª “Chokmach” [grafia do PDF] / Chokmah (Sabedoria) = Vishnu; 3ª Binah (Compreensão).
+- **[B013 p. 82]** 10ª Malkuth (Reino): “eleitos” de Javé; a vinda de Hochmah/Sophia é “o último capítulo desta história mal compreendida pelos cabalistas”; estes “jamais puderam perceber o ‘Malkuth’ no humilhado Jesus.” RC-682 permanece com as fontes que já tem — **não** acrescentar B013 sem novo pedido.
+- **Quarentena teológica.** Páginas “aprox.” da ficha antiga substituídas pelo rastreio do PDF.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5474,6 +5524,18 @@ A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensõe
 - **Os 4 mundos na fala (P2025-05-31):** Atziluth (Kether/Chokhmah/Binah = Brahma/Vishnu/Shiva; "espiritualidade operacional"), Beriah (Chesed/Geburah/Tiferet; "espiritualidade laboratorial"), Yetzirah (Netzach/Hod/Yesod; o universo vizinho/antimaterial = "Ietsirá"), Assiah (Malkuth = Hochmah/Sophia; nosso universo material).
 - **"Só Aciá e Edirá [Assiah e Yetzirah] são os dois [mundos] dentro do abismo"** (Da'at); Atziluth e Beriah "são lá fora" (paraíso).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 71–72]** quatro níveis, na leitura de Ellam:
+  - Atziluth — “Universo ou Dimensão Arquetípica ou das Emanações”, “Mundo Divino” = Espiritualidade Superior + Operacional; “Circuito da Perfeição”; Paraíso “Imanifestado”.
+  - Briah (Khorsis) — “Universo da Criação”, “Mundo dos Tronos” = Espiritualidade Laboratorial, “mais especificamente como ‘Perpérion’.”
+  - Yetzirah — “Universo da Formação e dos Anjos” = Brahmaloka: “universo antimaterial, paralelo e vizinho ao que vivemos, no qual reside o Criador ‘caído’ Kether, também chamado de ‘Javé’ e de ‘Brahma’.”
+  - Assiah — “Universo da Ação”, “Mundo da Matéria” = Bhuloka, “o nosso universo físico biológico.”
+- **[B013 p. 71]** “Assiah corresponde ao universo no qual vivemos e ‘Yetzirah’, ao universo vizinho, onde se encontra ‘refém’ o Criador ‘caído’.” Briah: “de onde o Criador se ‘desgraçou’”; Yetzirah e Assiah “se ‘infectaram’.”
+- **[B013 p. 107]** o “exílio forçado” de Kether, com Chokmah e Binah, gerou “infecção vibratória” que separou Atziluth/Briah de Yetzirah/Assiah; “natural blindagem” impede que o Paraíso se contamine.
+- RC-038 / RC-059 / RC-060 / RC-061 permanecem **sem ficha**. Sem código novo para os quatro Olam.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5525,6 +5587,16 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 
 - **Parameshthi (P2026-07-25):** "o senhor Brahma Parameshthi... cerca de 270 mundos que observam o que se passa na Terra" (Vyasa/Mahabharata) — alinhado ao registro do Zohar (RC-265).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 10]** profecia VAYEHI 21, 8B-9A: o mensageiro será ouvido “nos 270 mundos da Criação.”
+- **[B013 p. 12]** os livros da Revelação Cósmica “estão sendo produzidos exatamente para chamar a atenção dos ‘270 mundos’ (‘moradas’ ou ‘lokas’) diretamente envolvidos com os problemas mal resolvidos do passado imemorial.”
+- **[B013 p. 12]** as moradas do universo paralelo + civilizações deste universo biológico que aguardam a “Reintegração Cósmica da Terra” somam “muito, mais muito superior ao apontado pelo ‘Sepher ha-Zohar’.”
+- **[B013 p. 136]** “a Cabala foi elaborada não somente para os terráqueos, mas também e, principalmente, para parte dos tais 270 mundos referidos pelo ‘Zohar’.”
+- **[B013 p. 146]** as populações dos 270 mundos “dependeriam do que os humanos compreendessem e, depois, registrassem na sua cultura”; para esse público “o enredo aqui contextualizado não causa espanto algum!”
+- **Quarentena teológica:** Juízo Final / mensageiro = leitura de Ellam. Sem código para “mensageiro do Juízo Final”.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5565,6 +5637,16 @@ O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar 
 ## Ampliação — P2025-05-31
 
 - **Na palestra (P2025-05-31):** no século 2 depois de Cristo, após a morte de Jesus, Javé (pé da vida se achando traído) deu ordens para a Cabalá ser criada; os anjos (com Metatron desativado) apareceram ao rabino Shimon bar Yochai (STT "Shimon Bariokai/Yariosai") e entregaram a Otz Chim e mais uma série de informações sobre a Cabalá; esse rabino agiu da forma mais séria possível e guardou; contraponto à derrota de Javé pela ressurreição de Jesus (e pelos livros via Maria Madalena).
+
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** os mistérios da revelação “registrada pelo rabino Shimon Bar Yochai, na obra ‘Sepher ha-Zohar’.”
+- **[B013 p. 10]** citação (VAYEHI 21, 8B-9A): “Quando os tempos do Juízo Final estiverem chegados, aparecerá um mensageiro cuja proclamação será ouvida nos 270 mundos da Criação.” O Zohar = “O Livro do Esplendor”.
+- **[B013 p. 10]** “O Senhor Javé foi quem ordenou a seus Anjos que informassem ao rabino Shimon Bar Yochai, em meados do século II da Era Cristã, o vaticínio acima referido.”
+- **[B013 p. 70]** Javé promoveu a Cabala “praticamente no mesmo momento em que o gnosticismo surgia, nos primeiros dois séculos da Era Cristã”; a Cabala “surgiu da sua mente como um tipo de reação” aos livros que o acusavam de não ser deus-criador.
+- **[B013 p. 136]** a Cabala, “trabalho expositivo mais bem elaborado pela Assessoria do Criador” nos últimos dois mil anos, destinava-se também ao “público-alvo dos 270 mundos referidos pelo ‘Sepher ha-Zohar’”; resultou, no entanto, em “manual de fé”.
+- **Quarentena histórico-religiosa:** atribuição do Zohar a Shimon (séc. II) é leitura de Ellam. Gnosticismo já em RC-268 — sem código novo.
 
 ## Fontes
 
@@ -5609,6 +5691,15 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 - **Na palestra (P2025-05-31):** séculos depois, Isaac Lúria, já na idade média europeia, resgatou isso (a Otz Chim) e outros rabinos e, com a melhor das intenções, criaram 100 interpretações e passaram a chamar isso de árvore da vida.
 - Tzimtzum distorcido: Isaac Lúria disse que é por isso que tem luz no abismo — o Deus que criou mergulhou no abismo por amor aos que estavam no abismo; Deus mergulhou por causa dos judeus (crítica do autor ao viés nacionalista); cabalistas profundos, porém descuidados.
 - Ver B013 (livro do autor sobre o Tzimtzum).
+
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 6]** Isaac Luria “produziu o conceito do ‘Tzimtzum’” e interpretou a obra de Shimon Bar Yochai.
+- **[B013 p. 14]** a visão de Luria sobre a Cabala produziu o conceito “por ele criado”; a frase “exílio de deus dentro dele mesmo” “corresponde exatamente ao conceito da ‘queda de um deus no âmbito da sua Criação’.”
+- **[B013 p. 18]** Luria “prefere classificar a ‘queda’ desse Ser como sendo um ‘exílio’”; o termo camufla a queda.
+- **[B013 p. 30–31]** citação lurianica da contração; Daniel Matt sobre vasos que se estilhaçam e “tikun” como “reparo” — **não** acrescentar B013 a RC-514 sem autorização; fica só o contexto de Luria.
+- **Quarentena teológica / histórico-religiosa:** Luria (Safed, séc. XVI) e o Zohar — narrativa do autor, não biografia acadêmica. Sem ficha nova.
 
 ## Fontes
 
@@ -12534,6 +12625,16 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **"Eis o meu eleito" (P2025-05-31):** Javé apresenta a Enoque o ser "Rockmar [Hochmah] em hebraico... personificação da sabedoria"; Enoque sentiu-se "maravilhosamente bem" na presença dele.
 - **Inseminação de Maria (B004):** "Jesus nasce através do genoma de Hochmah... ele teve que ficar imobilizado, retirar o genoma dele, a fórmula de poder mental e inseminar Maria"; descrito no livro B004 (A Sétima Trombeta do Apocalipse — anjos testemunhas).
 - **Crítica do autor:** Hochmah "não dá sorriso, não é sexuado... é um robozão, um troço que não tem emoção... é igual um computador recebendo oração"; as provocações nas palestras são "para tirá-lo da inércia, porque a inércia dele também tem um preço"; "qualquer ser humano dá de 1.000 a zero em Hochmah em termos de perceber as coisas" (leitura do autor).
+
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 18]** o “Messias” previsto pelo Criador é denominado “Hochmah (em hebraico) ou ‘Sophia’ (em grego).”
+- **[B013 p. 74]** “Hochmah, em hebraico — que mais tarde viria a ser chamada de ‘Sophia’, nas tradições gregas”; no tempo de Enoch, “a Entidade Hochmah (Sophia) era conhecida como o ‘feitor de Javé’, ‘o deus executivo de Javé’.” Com o sumiço dos livros de Enoch, o conceito “se tornou lendário.”
+- **[B013 p. 74]** João trata Hochmah como o “Verbo que estava junto a deus”; a teologia católica (Niceia) “deu fim não só a Sophia, como também a Javé.”
+- **[B013 p. 82]** “A vinda de Hochmah/Sophia à Terra, como cumprimento da promessa feita pelo seu ‘Avatar humano’ Jesus.”
+- **[B013 p. 107–108]** a “Sefirah Superior Chokmah, mais tarde, geraria de si mesmo ‘Hochmah’”; “Chokmah é a mesma Entidade chamada ‘Vishnu’, que gerou ‘Hochmah’ (ou seja, Sophia) como sendo uma extensão de si mesmo”; por isso Salomão a chama “Sabedoria Personificada” ao lado de Kether; por isso João: sem o Verbo, nada do que foi feito se fez.
+- Grafia canônica: **Hochmah** (Sophia) × **Chokmah** (2ª Sefirá / Vishnu). PDF traz também “Chokmach” e “Hokhmah” — não ontologizar as variantes. Fonte **B013** acrescentada na tabela-mestra.
 
 ## Fontes
 

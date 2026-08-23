@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 275843 | 2954 | f27ef7fe5479e7dff32178e1ce5538048d82cbae9f1a69b344863b5d2a16a403
+# ferramentas/dados_termos.py | 275859 | 2954 | bc3eccc7efbfc1aa9512b12d96bb3dd31e61ef171005cd45c54678599827d362
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53499 | 352 | 449e0d8943d2a27dd30a3b01924c042233afccc6265f9846ef76e8d9eaa55b88
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 107565 | 986 | d53e55d7c393743d9a68689f9629c4b07058534a478570fee8379a2e95ea76aa
+# CONTINUIDADE.md | 109305 | 999 | ae25bff18fa526b7d6a0c9c2bd53d91eb284d91e5aaf5a4fc1704decde0a3a59
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 559038 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 560794 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -118,7 +118,7 @@ TERMOS = [
     ("RC-006", "Guerra do Éden", EVE_GUE[0], EVE_GUE[1], P, ["B015"], "RC-001; RC-004; RC-147; RC-242", False),
     ("RC-007", "Exilados de Capela", SER_DEC[0], SER_DEC[1], P, ["B031", "B003", "B025", "B026", "B057"], "RC-002; RC-003; RC-020; RC-070; RC-078; RC-105", True),
     ("RC-008", "Tzimtzum", TER_HEB[0], TER_HEB[1], P, ["B013"], "RC-261; RC-267; RC-272; RC-265", True),
-    ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28'], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
+    ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B013', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28'], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
     ("RC-010", "Atlântida / Terra Atlantis", LOK_TER[0], LOK_TER[1], C, ['P2025-02-16'], 'RC-030; RC-088; RC-023; RC-029', False),
 
     # ---- Glossário B031 (ordem alfabética)
@@ -732,7 +732,7 @@ TERMOS = [
     ("RC-562", "Baralho genético (metáfora dos 28.869 genes)", PRO_BIO[0], PRO_BIO[1], C, ["P2024-02-25"], "RC-217; RC-559", True),
     ("RC-563", "Travas e lacres (mecanismos de controle do despertar)", COS_ETI[0], COS_ETI[1], C, ['P2024-02-25', 'P2022-12-17', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30'], 'RC-449; RC-099; RC-577; RC-702; RC-189; RC-086; RC-712', True),
     ("RC-564", "Fios soltos (improviso humano × robô)", COS_PRO[0], COS_PRO[1], C, ['P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04; RC-614'], "RC-099; RC-557; RC-619", True),
-    ("RC-565", "Hochmah (2ª Sefirah — Sabedoria; = Sophia)", TER_HEB[0], TER_HEB[1], P, ['B060', 'P2024-02-25', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04'], 'RC-261; RC-263; RC-135; RC-009; RC-072; RC-682; RC-366', True),
+    ("RC-565", "Hochmah (2ª Sefirah — Sabedoria; = Sophia)", TER_HEB[0], TER_HEB[1], P, ['B060', 'B013', 'P2024-02-25', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04'], 'RC-261; RC-263; RC-135; RC-009; RC-072; RC-682; RC-366', True),
     # ---- Novos termos da palestra P2022-12-17 — O Incompreendido Ano de 2012
     # Pré-curadoria aprovada pelo curador em 2026-08-14. Status candidato por se tratar de STT sem áudio.
     ("RC-566", "Protocolo da Busca", COS_ESP[0], COS_ESP[1], C, ['P2022-12-17', 'P2025-02-15'], 'RC-253; RC-226; RC-231; RC-278', True),
@@ -4582,8 +4582,21 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B043 aplicada)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B013 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B013 *Tzimtzum: O Exílio Forçado de uma Divindade* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Tzimtzum (o exílio forçado de uma divindade) - Jan Val Ellam.pdf` (1.931.203 bytes; SHA-256 `9e03f76dac13d4e3d50eb7d1f21072602c1baccbbb18550123243a02930fe2ee`; 185 págs = **B013**).
+- Ciclo em `livros/B013_tzimtzum/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~59.674 palavras; SHA-256 `804251464317b53a46e6dcbadaa91e41508856af9d688d88e0c930b7dfea828a`. Sem CIP extraível; 1ª ed. 2020 Natal-RN; ISBN 978-65-86157-09-3 — BIBLIO já descreve 185 págs / 2020 / ISBN; **intocada**.
+- 27 termos já citam B013; 18 com ficha. Dossiê sugere ampliar RC-008, RC-267, RC-266, RC-265, RC-262, RC-264. **0 códigos.** RC-269/270/271/272/038/059/060/061/190/468 sem ficha — não materializar.
+- p. 151 (quadro dos Patriarcas) = só título extraível → `[TEXTO INCOMPLETO]`.
+- Quarentenas: teológica (Cabala / deus caído); político-geopolítica (sionismo; maio/2020); biográfica (infarto 2011); IEEA/Orbum fora.
+
+### Devolutiva B013 aplicada (2026-08-23)
+
+- O-1 confirmado (é B013); O-2: 10 fichas ampliadas (RC-008, RC-267, RC-266, RC-265, RC-262, RC-264 + opcional RC-261, RC-263, **RC-565** e **RC-009** com B013 nas fontes); O-3: zero códigos; RC-038/059/060/061/190/269/270/271/272/468 não materializadas; O-4: Ein Sof em RC-468 sem ficha; Dormammu e IEEA/Orbum fora; p. 151 `[TEXTO INCOMPLETO]`; O-5: B049 e B014 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas teológica, histórico-religiosa, político-geopolítica (sionismo / Estado de Israel / califado / maio/2020), científica, ufológica, biográfica; O-8: pasta em `livros/CONCLUIDOS/B013_tzimtzum/`. Sem apostila.
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
 

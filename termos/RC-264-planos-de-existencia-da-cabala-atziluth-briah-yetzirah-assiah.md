@@ -30,6 +30,18 @@ A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensõe
 - **Os 4 mundos na fala (P2025-05-31):** Atziluth (Kether/Chokhmah/Binah = Brahma/Vishnu/Shiva; "espiritualidade operacional"), Beriah (Chesed/Geburah/Tiferet; "espiritualidade laboratorial"), Yetzirah (Netzach/Hod/Yesod; o universo vizinho/antimaterial = "Ietsirá"), Assiah (Malkuth = Hochmah/Sophia; nosso universo material).
 - **"Só Aciá e Edirá [Assiah e Yetzirah] são os dois [mundos] dentro do abismo"** (Da'at); Atziluth e Beriah "são lá fora" (paraíso).
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 71–72]** quatro níveis, na leitura de Ellam:
+  - Atziluth — “Universo ou Dimensão Arquetípica ou das Emanações”, “Mundo Divino” = Espiritualidade Superior + Operacional; “Circuito da Perfeição”; Paraíso “Imanifestado”.
+  - Briah (Khorsis) — “Universo da Criação”, “Mundo dos Tronos” = Espiritualidade Laboratorial, “mais especificamente como ‘Perpérion’.”
+  - Yetzirah — “Universo da Formação e dos Anjos” = Brahmaloka: “universo antimaterial, paralelo e vizinho ao que vivemos, no qual reside o Criador ‘caído’ Kether, também chamado de ‘Javé’ e de ‘Brahma’.”
+  - Assiah — “Universo da Ação”, “Mundo da Matéria” = Bhuloka, “o nosso universo físico biológico.”
+- **[B013 p. 71]** “Assiah corresponde ao universo no qual vivemos e ‘Yetzirah’, ao universo vizinho, onde se encontra ‘refém’ o Criador ‘caído’.” Briah: “de onde o Criador se ‘desgraçou’”; Yetzirah e Assiah “se ‘infectaram’.”
+- **[B013 p. 107]** o “exílio forçado” de Kether, com Chokmah e Binah, gerou “infecção vibratória” que separou Atziluth/Briah de Yetzirah/Assiah; “natural blindagem” impede que o Paraíso se contamine.
+- RC-038 / RC-059 / RC-060 / RC-061 permanecem **sem ficha**. Sem código novo para os quatro Olam.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

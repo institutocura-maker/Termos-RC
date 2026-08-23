@@ -30,6 +30,16 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 
 - **[P2024-07-14] A árvore da vida (U0805–U0815):** "a tradução disso é árvore da vida. Essa tradução não era para ser chamada assim, mas os cabalistas fizeram"; "quando isso foi entregue a Shimon Bar Yochai com o conceito de Tikun, dizendo que os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído"; "os judeus transformaram que Malkuth é o Messias que virá... é uma distorção, uma deformação, uma difamação da revelação que Javé entregou aos judeus" [leitura do autor — quarentena].
 
+
+## Ampliação — B013 (Tzimtzum: O Exílio Forçado de uma Divindade)
+
+- **[B013 p. 71]** Javé, por meio dos Anjos, ofertou “uma descrição sobre a extensão do seu ‘império além-mundo’”, “a metáfora do que passou a ser conhecido como a ‘Árvore da Vida’ e as ‘Sefiroth’.”
+- **[B013 p. 71]** a Árvore da Vida é “um diagrama da emanação do universo a partir do ‘Uno’”; também “um plano para permitir ao homem a escalada das dez ‘Sefiroth’”, “dez ‘Emanações da Divindade’”, “chave para decifrar os mistérios da Cabala, até atingir a ‘União com Deus’.”
+- **[B013 p. 71]** cada Sefirá tem “quádrupla natureza” associada aos quatro universos-mundos (Doutrina das Emanações).
+- **[B013 p. 77]** 1ª Kether (Coroa) = Criador caído; 2ª “Chokmach” [grafia do PDF] / Chokmah (Sabedoria) = Vishnu; 3ª Binah (Compreensão).
+- **[B013 p. 82]** 10ª Malkuth (Reino): “eleitos” de Javé; a vinda de Hochmah/Sophia é “o último capítulo desta história mal compreendida pelos cabalistas”; estes “jamais puderam perceber o ‘Malkuth’ no humilhado Jesus.” RC-682 permanece com as fontes que já tem — **não** acrescentar B013 sem novo pedido.
+- **Quarentena teológica.** Páginas “aprox.” da ficha antiga substituídas pelo rastreio do PDF.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
