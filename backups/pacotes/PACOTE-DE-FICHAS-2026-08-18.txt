@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 14311 | 146 | 79004f0d4b9df4e57593081544daf0185c1cf3caf3be6b8d77f9dfb343ad082a
+# termos/RC-001-jave.md | 15662 | 155 | 7aebcf34532a3286386bd4df47e9a81bd2134c9a2b1239fa739c7c33889165fb
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -28,7 +28,7 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 12821 | 120 | c2d5aca2ec814cd7ad2809b4f3179d56e5e10059bc80957e8d17925496f87607
+# termos/RC-072-jesus.md | 14536 | 132 | 2f179853f5b78d7eb501b9520e3e9ad00d2cc821f5f7cd129a838420d4e21b56
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -133,7 +133,7 @@
 # termos/RC-366-o-enigma-da-transfiguracao.md | 4458 | 54 | a405659445ade47aba202ae53cbc94e055180fb56b7fd9c8ec55354cb4ce174a
 # termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md | 2671 | 41 | 8f31cdcdb5620a363942a40a0a39bf7d8144bd74f8787b0cc7cf7d9da7ef48c3
 # termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md | 2174 | 41 | debe3648e2c6238f236f4c5d53d8ac5b0ccce2ee4972b6a3ab6d790db6125c89
-# termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md | 2694 | 41 | 421cb0708972f57162d603d5a5a0dd71c1b3fb89e8b277e04d8ff4e9b8eacddb
+# termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md | 3606 | 50 | 0dc626d91293985a7825ebadcacc504354557ee1071c9ae5130c762bcf9532b8
 # termos/RC-378-a-rebeliao-dos-eletrons.md | 4823 | 59 | 575304b4ebf55b8211be12fbac3e13e5c9493b34ef917599d15d8909a15e5ec6
 # termos/RC-379-danca-dos-eletrons.md | 2461 | 41 | d4d0c08f57bb7357a08d48c90554b9eddbd1cb92156ca1aa8072ceff213de89c
 # termos/RC-382-a-vida-do-cfd-de-jave-no-ser-humano.md | 2675 | 41 | 90d1bfdab368679b36e4b8d867941c87b5b9191627a1d3011ebe34bc753ddd36
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1439856 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1443834 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -499,6 +499,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B019 p. 7]** "a Divindade Criadora, por ter se transformado em 'vítima' da própria Obra, nela 'caiu prisioneira' e não pôde concluir o 'Programa inicialmente gerado' [...] o 'Programa' ficou 'incompleto' e, por isso, o universo foi gerado cheio de imperfeições e de processos inconclusos."
 - **[B019 p. 11]** "a Divindade Cocriadora, atualmente refém do progresso das suas criaturas"; o Criador "'caído' foi forçado a conhecer o 'Projeto edificado' pelos seus 'escolhidos'".
 - **[B019 p. 120]** "o 'susto que Javé tomou com Adão e Eva'", pontos fora da curva do roteiro do "'Criador dos Céus e da Terra' — apesar de 'caído' e por isso 'refém' da sua própria Criação".
+
+
+## Ampliação — B043 (Jesus e o Druida da Montanha)
+
+- **[B043 p. 6]** a obra distingue “Deus, o Incognoscível, e Javé, o criador deste universo.”
+- **[B043 p. 55]** Mordon pergunta se Jesus fala do “Pai Divino e Incognoscível” ou do “pai criador dos humanos e dos chamados anjos”; Jesus atribui os desígnios desta vida a este último.
+- **[B043 p. 63]** “o ser a que Enoch se referiu não é o Pai Celestial, o Incognoscível, mas sim aquele a quem as nossas escrituras clamam como sendo o Eterno”; “Javé representava naquela oportunidade, na condição em que se encontrava, o que agora represento eu para o concerto das coisas deste mundo. Somos trabalhadores do Pai Celestial”; “O chamado Eterno Vivo de Enoch e de Daniel […] presta contas ao Pai Amantíssimo.”
+- **[B043 p. 63–64]** “o pai desta humanidade foi confundido com o Pai Celestial, o que não poderia mesmo ser diferente. Passou, entretanto, a ser o deus de um único povo e o Pai Celestial o é de todos os filhos da sua casa universal”; o deus dos judeus “é pai de todos os humanos” e usa o povo “como veículo… de redenção”.
+- **Quarentena teológica:** leitura do romance, não exegese. Pai Incognoscível absorvido aqui e em RC-072 — **sem código novo**. IEEA/Orbum **fora**. Fonte **B043** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1857,6 +1866,18 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B011 p. 4]** "a personalidade conhecida como Jesus, era, na realidade, a expressão transitória de uma autoridade celeste que, por amor aos que viviam na Terra tornou-se humano para poder com estes conviver e ajudá-los".
 - **[B011 p. 19]** "por mais que nos explicasse Sua origem, dizendo que era um estrangeiro na Terra por não pertencer a este mundo, nós conhecíamos Sua família"; "Ele falava muito sério quando afirmava ser rei, mas não deste mundo"; o Deus das Escrituras "era [...] muito diferente daquele a quem Jesus tratava com tanta intimidade e com toda simplicidade".
 - **[B011 p. 134–135]** diretriz pré-encarnação: sem interferência de naves; a consciência maior "encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre" — **quarentena ufológica** na menção a naves; o limite cerebral é leitura do narrador (Moisés).
+
+
+## Ampliação — B043 (Jesus e o Druida da Montanha)
+
+- **[B043 p. 6]** sinopse: as reflexões de Jesus sobre o “deus dos judeus” “distinguem […] as diferenças entre Deus, o Incognoscível, e Javé, o criador deste universo.”
+- **[B043 p. 18]** Jesus, “por aqueles dias, estava com 21 anos incompletos”; parte com José de Arimatéia rumo às terras dos gauleses.
+- **[B043 p. 53]** a Mordon: “Somos todos focos do poder do Pai, mas não saberia dizer com total segurança, ó Mordon, na condição em que me encontro, qual o potencial de que sou portador.”
+- **[B043 p. 55]** distingue duas vontades: os desígnios desta vida “correm por determinação do pai criador dos humanos e dos anjos”; “por quem sou, devo obediência e alinhamento, vamos dizer filosófico, ao Pai Incognoscível.”
+- **[B043 p. 56]** “não é bem com vistas a este mister que me fiz humano, mas sim, para que no futuro longínquo […] a semente que pretendo deixar como legado possa […] frutificar”; “devo regressar a este mundo, contudo não mais nascendo, fazendo-me humano, mas simplesmente aqui chegando como sou e me fazendo acompanhar pelo pai criador dos humanos.”
+- **[B043 p. 63]** “não sou o ser a quem nosso patriarca se refere; sou um, em uníssono com ele”; “Aqui, encontro-me a serviço direto do deus do nosso povo, mas atendendo ao mister amoroso do Pai Celestial.”
+- **[B043 p. 94]** “Se minha doutrina não servir para despertar nas pessoas a ousadia do comportamento amoroso para muito pouco servirá.”
+- **Quarentena teológica / histórico-religiosa:** voz do romance (psicografia). Pai Incognoscível **não** vira código (O-4). RC-374/376 não materializados.
 
 ## Fontes
 
@@ -7625,6 +7646,15 @@ O B043 (2009, romance espírita psicografado por JVE) narra: o Drama dos Reis Ga
 ## Etimologia / Grafias
 - **Grafia preferida:** Os 20 Anos de Jesus entre os Celtas
 - **Variações:** Jesus e o Druida da Montanha; aos vinte anos entre os celtas; os anos perdidos de Jesus
+
+
+## Ampliação — B043 (Jesus e o Druida da Montanha)
+
+- **[B043 p. 6]** “São fatos da sua juventude, que vão desde a decisiva participação de José de Arimateia em sua vida […] até profundos e reveladores diálogos com seu irmão Tiago”; Jesus se dirige “ao norte mítico” e encontra “o velho druida da montanha, guardador dos mistérios ancestrais.”
+- **[B043 p. 16]** Maria viúva há seis anos; Jesus e Tiago no ofício da carpintaria; chegada de José de Arimatéia.
+- **[B043 p. 31]** interesse de José “mais além” do comercial; comentários sobre o nascimento e os “estranhos poderes” do menino — **não ontologizar**.
+- **[B043 p. 52–53]** encontro na caverna da montanha sagrada: Mordon, Dolman, Brendiver e José; diálogo a sós após a saída dos reis.
+- RC-374 Mordon, RC-375 Druidas, RC-376 José de Arimatéia, RC-377 Brendiver/Dolman permanecem **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

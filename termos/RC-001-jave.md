@@ -59,6 +59,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B019 p. 11]** "a Divindade Cocriadora, atualmente refém do progresso das suas criaturas"; o Criador "'caído' foi forçado a conhecer o 'Projeto edificado' pelos seus 'escolhidos'".
 - **[B019 p. 120]** "o 'susto que Javé tomou com Adão e Eva'", pontos fora da curva do roteiro do "'Criador dos Céus e da Terra' — apesar de 'caído' e por isso 'refém' da sua própria Criação".
 
+
+## Ampliação — B043 (Jesus e o Druida da Montanha)
+
+- **[B043 p. 6]** a obra distingue “Deus, o Incognoscível, e Javé, o criador deste universo.”
+- **[B043 p. 55]** Mordon pergunta se Jesus fala do “Pai Divino e Incognoscível” ou do “pai criador dos humanos e dos chamados anjos”; Jesus atribui os desígnios desta vida a este último.
+- **[B043 p. 63]** “o ser a que Enoch se referiu não é o Pai Celestial, o Incognoscível, mas sim aquele a quem as nossas escrituras clamam como sendo o Eterno”; “Javé representava naquela oportunidade, na condição em que se encontrava, o que agora represento eu para o concerto das coisas deste mundo. Somos trabalhadores do Pai Celestial”; “O chamado Eterno Vivo de Enoch e de Daniel […] presta contas ao Pai Amantíssimo.”
+- **[B043 p. 63–64]** “o pai desta humanidade foi confundido com o Pai Celestial, o que não poderia mesmo ser diferente. Passou, entretanto, a ser o deus de um único povo e o Pai Celestial o é de todos os filhos da sua casa universal”; o deus dos judeus “é pai de todos os humanos” e usa o povo “como veículo… de redenção”.
+- **Quarentena teológica:** leitura do romance, não exegese. Pai Incognoscível absorvido aqui e em RC-072 — **sem código novo**. IEEA/Orbum **fora**. Fonte **B043** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

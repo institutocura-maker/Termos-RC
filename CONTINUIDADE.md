@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (ingresso B043 — *Jesus e o Druida da Montanha*)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B043 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
@@ -59,7 +59,10 @@
 - Ciclo em `livros/B043_jesus_druida_da_montanha/` (fora de CONCLUIDOS até Devolutiva).
 - Extract paginado: ~36.044 palavras; SHA-256 `3721d3b1a4ecd440f96c2130fe276abd1c99e9626080f4b5873b087b268d2a9a`. CIP 113 p. / 2ª ed. 2019 / ISBN ebook 978-85-62411-55-7 — BIBLIO já descreve 117 págs e 2009/2019; **intocada**.
 - 7 termos já citam B043; 2 com ficha. Dossiê sugere ampliar RC-072, RC-373 e (opcional) RC-001. **0 códigos.** RC-374/375/376/377 sem ficha — não materializar.
-- Dossiê enxuto aguarda O-1..O-8.
+
+### Devolutiva B043 aplicada (2026-08-23)
+
+- O-1 confirmado (é B043; “A” = nomenclatura de arquivo); O-2: 3 fichas ampliadas (RC-072, RC-373, **RC-001** com B043 nas fontes); O-3: zero códigos; RC-374/375/376/377 não materializadas; O-4: Pai Incognoscível absorvido em RC-072/RC-001; IEEA/Orbum fora; psicografia = camada de autoria; O-5: B011 e B049 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas teológica e histórico-religiosa; O-8: pasta em `livros/CONCLUIDOS/B043_jesus_druida_da_montanha/`. Sem apostila.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

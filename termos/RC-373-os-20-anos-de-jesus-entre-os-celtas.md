@@ -17,6 +17,15 @@ O B043 (2009, romance espírita psicografado por JVE) narra: o Drama dos Reis Ga
 - **Grafia preferida:** Os 20 Anos de Jesus entre os Celtas
 - **Variações:** Jesus e o Druida da Montanha; aos vinte anos entre os celtas; os anos perdidos de Jesus
 
+
+## Ampliação — B043 (Jesus e o Druida da Montanha)
+
+- **[B043 p. 6]** “São fatos da sua juventude, que vão desde a decisiva participação de José de Arimateia em sua vida […] até profundos e reveladores diálogos com seu irmão Tiago”; Jesus se dirige “ao norte mítico” e encontra “o velho druida da montanha, guardador dos mistérios ancestrais.”
+- **[B043 p. 16]** Maria viúva há seis anos; Jesus e Tiago no ofício da carpintaria; chegada de José de Arimatéia.
+- **[B043 p. 31]** interesse de José “mais além” do comercial; comentários sobre o nascimento e os “estranhos poderes” do menino — **não ontologizar**.
+- **[B043 p. 52–53]** encontro na caverna da montanha sagrada: Mordon, Dolman, Brendiver e José; diálogo a sós após a saída dos reis.
+- RC-374 Mordon, RC-375 Druidas, RC-376 José de Arimatéia, RC-377 Brendiver/Dolman permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

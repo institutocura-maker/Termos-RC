@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 275835 | 2954 | cbee085390e5d951c03ce5c3dab3dd9130349251804f57e98f53796248fe10d7
+# ferramentas/dados_termos.py | 275843 | 2954 | f27ef7fe5479e7dff32178e1ce5538048d82cbae9f1a69b344863b5d2a16a403
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53499 | 352 | 449e0d8943d2a27dd30a3b01924c042233afccc6265f9846ef76e8d9eaa55b88
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 106212 | 975 | 1ca92de173c6dc06e72dcd91a6aa2c06139823f061e8c866e3fd2a63d9973f72
+# CONTINUIDADE.md | 107565 | 986 | d53e55d7c393743d9a68689f9629c4b07058534a478570fee8379a2e95ea76aa
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 557677 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 559038 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -110,7 +110,7 @@ C = "candidato"    # ⚪ — identificado, sem ficha
 # (codigo, nome, categoria, subcategoria, status, fontes, relacionados, ficha)
 TERMOS = [
     # ---- Pré-existentes (RC-001..RC-010)
-    ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
+    ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'B043', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
     ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'P2024-03-03', 'P2024-04-13'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
     ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
     ("RC-004", "Elohim", SER_COL[0], SER_COL[1], C, ["B061", 'P2024-09-28'], "RC-001; RC-474", False),
@@ -4582,7 +4582,7 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B052 aplicada)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B043 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
@@ -4634,6 +4634,17 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 
 - O-1 confirmado (é B052); O-2: 6 fichas ampliadas (RC-434, RC-433, RC-437, RC-242, RC-217, RC-049) com páginas do PDF; O-3: zero códigos; RC-435–441 / RC-051 / RC-044 / RC-540 não materializadas; O-4: identidade de gênero e eugenia fora da ontologia; O-5: B053–B056 intactas; “almanaque tardio” / 2º e 3º livros → Colecionar Incertezas; **O-6: BIBLIO intocada**; O-7: quarentena clínica absoluta + científica/teológica/ufológica; O-8: pasta em `livros/CONCLUIDOS/B052_homoafetividade_segredo_perdido_eden/`. Sem apostila.
 - **Colecionar Incertezas (novos):** “FIM DO PRIMEIRO LIVRO” (B052 p. 229); “almanaque tardio” (título provisório do autor); “terceiro livro sobre esse tema” (p. 236); Aya Raz Yel / Melmon / Devon = nomes de enredo.
+
+## Fase 2 — B043 *Jesus e o Druida da Montanha* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Jesus e o Druida da Montanha A - Jan Val Ellam.pdf` (912.839 bytes; SHA-256 `7d2a7aa9e7b71ff3361a18c1affc831cc1b2037ce6feb8f26ed23fadd841027e`; 117 págs = **B043**). O “A” no nome do arquivo **não** é volume novo.
+- Ciclo em `livros/B043_jesus_druida_da_montanha/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~36.044 palavras; SHA-256 `3721d3b1a4ecd440f96c2130fe276abd1c99e9626080f4b5873b087b268d2a9a`. CIP 113 p. / 2ª ed. 2019 / ISBN ebook 978-85-62411-55-7 — BIBLIO já descreve 117 págs e 2009/2019; **intocada**.
+- 7 termos já citam B043; 2 com ficha. Dossiê sugere ampliar RC-072, RC-373 e (opcional) RC-001. **0 códigos.** RC-374/375/376/377 sem ficha — não materializar.
+
+### Devolutiva B043 aplicada (2026-08-23)
+
+- O-1 confirmado (é B043; “A” = nomenclatura de arquivo); O-2: 3 fichas ampliadas (RC-072, RC-373, **RC-001** com B043 nas fontes); O-3: zero códigos; RC-374/375/376/377 não materializadas; O-4: Pai Incognoscível absorvido em RC-072/RC-001; IEEA/Orbum fora; psicografia = camada de autoria; O-5: B011 e B049 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas teológica e histórico-religiosa; O-8: pasta em `livros/CONCLUIDOS/B043_jesus_druida_da_montanha/`. Sem apostila.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

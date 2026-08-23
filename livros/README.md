@@ -26,4 +26,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B052_homoafetividade_segredo_perdido_eden` — Devolutiva aplicada (2026-08-23); 6 fichas; 0 códigos; BIBLIO intocada. **Quarentena clínica absoluta.** Sem apostila.
 
-`B043_jesus_druida_da_montanha` — ingresso (2026-08-23); dossiê enxuto aguarda Devolutiva; 0 códigos; BIBLIO intocada.
+`CONCLUIDOS/B043_jesus_druida_da_montanha` — Devolutiva aplicada (2026-08-23); 3 fichas (RC-072, RC-373, RC-001); 0 códigos; BIBLIO intocada. Sem apostila.

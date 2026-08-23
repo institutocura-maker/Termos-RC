@@ -75,6 +75,18 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B011 p. 19]** "por mais que nos explicasse Sua origem, dizendo que era um estrangeiro na Terra por não pertencer a este mundo, nós conhecíamos Sua família"; "Ele falava muito sério quando afirmava ser rei, mas não deste mundo"; o Deus das Escrituras "era [...] muito diferente daquele a quem Jesus tratava com tanta intimidade e com toda simplicidade".
 - **[B011 p. 134–135]** diretriz pré-encarnação: sem interferência de naves; a consciência maior "encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre" — **quarentena ufológica** na menção a naves; o limite cerebral é leitura do narrador (Moisés).
 
+
+## Ampliação — B043 (Jesus e o Druida da Montanha)
+
+- **[B043 p. 6]** sinopse: as reflexões de Jesus sobre o “deus dos judeus” “distinguem […] as diferenças entre Deus, o Incognoscível, e Javé, o criador deste universo.”
+- **[B043 p. 18]** Jesus, “por aqueles dias, estava com 21 anos incompletos”; parte com José de Arimatéia rumo às terras dos gauleses.
+- **[B043 p. 53]** a Mordon: “Somos todos focos do poder do Pai, mas não saberia dizer com total segurança, ó Mordon, na condição em que me encontro, qual o potencial de que sou portador.”
+- **[B043 p. 55]** distingue duas vontades: os desígnios desta vida “correm por determinação do pai criador dos humanos e dos anjos”; “por quem sou, devo obediência e alinhamento, vamos dizer filosófico, ao Pai Incognoscível.”
+- **[B043 p. 56]** “não é bem com vistas a este mister que me fiz humano, mas sim, para que no futuro longínquo […] a semente que pretendo deixar como legado possa […] frutificar”; “devo regressar a este mundo, contudo não mais nascendo, fazendo-me humano, mas simplesmente aqui chegando como sou e me fazendo acompanhar pelo pai criador dos humanos.”
+- **[B043 p. 63]** “não sou o ser a quem nosso patriarca se refere; sou um, em uníssono com ele”; “Aqui, encontro-me a serviço direto do deus do nosso povo, mas atendendo ao mister amoroso do Pai Celestial.”
+- **[B043 p. 94]** “Se minha doutrina não servir para despertar nas pessoas a ousadia do comportamento amoroso para muito pouco servirá.”
+- **Quarentena teológica / histórico-religiosa:** voz do romance (psicografia). Pai Incognoscível **não** vira código (O-4). RC-374/376 não materializados.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
