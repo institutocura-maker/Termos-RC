@@ -540,6 +540,12 @@ table.dir a.dl { font-size: 12.5px; padding: 3px 8px; }
   background: var(--sand); color: #121018; font-weight: 650;
 }
 #dl-caixa-link:hover { background: var(--sand-hi); color: #121018; text-decoration: none; }
+#dl-caixa-pasta {
+  display: inline-block; margin-left: 10px; padding: 10px 14px; border-radius: 8px;
+  border: 1px solid var(--border); color: var(--sand);
+}
+#dl-caixa-pasta[hidden] { display: none; }
+#dl-caixa-pasta:hover { background: var(--bg-hover); text-decoration: none; }
 .md h1, .md h2, .md h3, .md h4 { color: var(--sand-hi); line-height: 1.3; }
 .md h1 { font-size: 1.7em; border-bottom: 1px solid var(--border); padding-bottom: .25em; }
 .md h2 { font-size: 1.35em; margin-top: 1.4em; }
@@ -602,6 +608,8 @@ JS = r"""
     });
   }
 
+  var pendente = { url: '', nome: '', blob: null };
+
   function status(msg) {
     var el = document.getElementById('dl-status');
     if (!el) return;
@@ -609,15 +617,59 @@ JS = r"""
     else { el.hidden = true; el.textContent = ''; }
   }
 
-  function caixa(url, nome) {
+  function caixa(url, nome, blob) {
+    pendente.url = url;
+    pendente.nome = nome;
+    pendente.blob = blob || null;
     var box = document.getElementById('dl-caixa');
     var link = document.getElementById('dl-caixa-link');
+    var pasta = document.getElementById('dl-caixa-pasta');
     if (!box || !link) return;
     link.href = url;
-    link.setAttribute('download', nome);
-    link.textContent = 'Clique aqui para salvar ' + nome;
+    link.target = '_blank';
+    link.rel = 'noopener';
+    link.removeAttribute('download');
+    link.removeAttribute('data-dl');
+    link.textContent = 'Abrir e salvar ' + nome;
+    if (pasta) {
+      pasta.hidden = !window.showSaveFilePicker;
+    }
     box.hidden = false;
     try { box.scrollIntoView({ behavior: 'smooth', block: 'nearest' }); } catch (e) {}
+  }
+
+  var link = document.getElementById('dl-caixa-link');
+  if (link) {
+    link.addEventListener('click', function (ev) {
+      ev.stopPropagation();
+    });
+  }
+
+  var pastaBtn = document.getElementById('dl-caixa-pasta');
+  if (pastaBtn) {
+    pastaBtn.addEventListener('click', function (ev) {
+      ev.preventDefault();
+      ev.stopPropagation();
+      if (!window.showSaveFilePicker) return;
+      if (!pendente.blob) {
+        status('Ainda nao tenho o arquivo em memoria. Use o botao dourado.');
+        return;
+      }
+      var opts = { suggestedName: pendente.nome || 'download' };
+      window.showSaveFilePicker(opts).then(function (handle) {
+        return handle.createWritable().then(function (wri) {
+          return wri.write(pendente.blob).then(function () { return wri.close(); });
+        });
+      }).then(function () {
+        status('Salvo: ' + pendente.nome);
+      }).catch(function (err) {
+        if (err && err.name === 'AbortError') {
+          status('Gravacao cancelada.');
+          return;
+        }
+        status('Este painel nao deixou escolher a pasta. Use o botao dourado (nova aba).');
+      });
+    });
   }
 
   document.addEventListener('click', function (ev) {
@@ -628,97 +680,25 @@ JS = r"""
     var nome = a.getAttribute('download') || 'download';
     var zip = url.indexOf('/zip') !== -1;
 
-    var aba = null;
-    try { aba = window.open('about:blank', '_blank'); } catch (e) { aba = null; }
+    status(zip
+      ? 'Preparando o ZIP… em seguida aparece o botao dourado.'
+      : 'Preparando ' + nome + '…');
+    a.classList.add('busy');
 
-    function fecharAba() {
-      try { if (aba && !aba.closed) aba.close(); } catch (e) {}
-    }
-    function irNaAba() {
-      if (aba && !aba.closed) {
-        try { aba.location.href = url; return true; } catch (e) {}
-      }
-      return false;
-    }
-
-    function buscarEOferecer() {
-      status(zip
-        ? 'Preparando o ZIP… depois aparece um botão dourado para salvar.'
-        : 'Preparando ' + nome + '…');
-      a.classList.add('busy');
-      fetch(url, { credentials: 'same-origin' })
-        .then(function (r) {
-          if (!r.ok) throw new Error('HTTP ' + r.status);
-          return r.blob();
-        })
-        .then(function (blob) {
-          var obj = URL.createObjectURL(blob);
-          caixa(obj, nome);
-          status('Arquivo pronto. Clique no botão dourado abaixo para salvar.');
-        })
-        .catch(function () {
-          status('Não consegui montar o arquivo aqui. Tentando nova aba…');
-          if (!irNaAba()) caixa(url, nome);
-        })
-        .finally(function () { a.classList.remove('busy'); });
-    }
-
-    function gravarNoDestino(handle) {
-      status(zip
-        ? 'Preparando o ZIP e gravando no destino escolhido…'
-        : 'Baixando e gravando ' + nome + '…');
-      a.classList.add('busy');
-      fetch(url, { credentials: 'same-origin' })
-        .then(function (r) {
-          if (!r.ok) throw new Error('HTTP ' + r.status);
-          return r.blob();
-        })
-        .then(function (blob) {
-          return handle.createWritable().then(function (wri) {
-            return wri.write(blob).then(function () { return wri.close(); });
-          });
-        })
-        .then(function () {
-          status('Salvo: ' + nome);
-          setTimeout(function () { status(''); }, 7000);
-        })
-        .catch(function () {
-          status('Não deu para gravar no destino. Use o botão dourado ou a nova aba.');
-          if (!irNaAba()) buscarEOferecer();
-        })
-        .finally(function () { a.classList.remove('busy'); });
-    }
-
-    if (window.showSaveFilePicker) {
-      var opts = { suggestedName: nome };
-      if (zip) {
-        opts.types = [{ description: 'Arquivo ZIP', accept: { 'application/zip': ['.zip'] } }];
-      }
-      window.showSaveFilePicker(opts).then(function (handle) {
-        fecharAba();
-        gravarNoDestino(handle);
-      }).catch(function (err) {
-        if (err && err.name === 'AbortError') {
-          fecharAba();
-          status('Download cancelado.');
-          setTimeout(function () { status(''); }, 3000);
-          return;
-        }
-        if (irNaAba()) {
-          status('A janela de destino não abriu neste painel. O download foi para uma nova aba.');
-          return;
-        }
-        fecharAba();
-        buscarEOferecer();
-      });
-      return;
-    }
-
-    if (irNaAba()) {
-      status('Download aberto em nova aba. Se não baixar sozinho, use Salvar como (Ctrl+S).');
-      return;
-    }
-    buscarEOferecer();
+    fetch(url, { credentials: 'same-origin' })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.blob();
+      })
+      .then(function (blob) {
+        caixa(url, nome, blob);
+        status('Pronto. Clique no botao dourado — abre uma nova aba para salvar. Se a aba so mostrar o arquivo, use Ctrl+S.');
+      })
+      .catch(function () {
+        caixa(url, nome, null);
+        status('Nao deu para preparar aqui. Clique no botao dourado para abrir o arquivo numa nova aba.');
+      })
+      .finally(function () { a.classList.remove('busy'); });
   });
 })();
 """
@@ -762,8 +742,12 @@ def pagina(titulo: str, crumbs: str, corpo: str, badge: str = "") -> bytes:
   </div>
   <div class="content">
     <div id="dl-caixa" hidden>
-      <p>O arquivo está pronto neste navegador. O painel da direita costuma bloquear o download automático — clique no botão:</p>
-      <a id="dl-caixa-link" href="#">salvar arquivo</a>
+      <p>O arquivo está pronto. Este painel bloqueia o download automático — use um dos botões:</p>
+      <p>
+        <a id="dl-caixa-link" href="#" target="_blank" rel="noopener">Abrir e salvar</a>
+        <a id="dl-caixa-pasta" href="#" hidden>escolher pasta…</a>
+      </p>
+      <p style="font-size:13px;color:var(--text-mute);margin:10px 0 0">Se abrir uma aba nova e o arquivo não descer sozinho, use Ctrl+S (Salvar como).</p>
     </div>
     {corpo}
     <div class="rodape">Visor somente-leitura — não grava, não move, não apaga.
