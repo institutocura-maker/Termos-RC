@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
+**Data de sincronização:** 2026-08-23 (ingresso B052 — *Homoafetividade*)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
@@ -39,6 +39,15 @@
 ### Devolutiva B011 aplicada (2026-08-23)
 
 - O-1 confirmado; O-2: 5 fichas ampliadas (RC-072, RC-366, RC-365, RC-005, RC-236) com páginas do PDF; O-3: zero códigos; RC-367/368/376/138/214 não materializadas; O-4: posfácio permanece [NÃO REVELADO]; O-5: B012 intacta; **O-6: BIBLIO B011 editada manualmente** → Conectar, 2017, ISBN 978-85-62411-39-7, CIP 238 p. / 176 págs no arquivo (Zian 2002 registrado como menção anterior); O-7: quarentenas mantidas; O-8: pasta em `livros/CONCLUIDOS/B011_jesus_enigma_transfiguracao/`. Sem apostila.
+
+## Fase 2 — B052 *Homoafetividade: O Segredo Perdido do Éden* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Homoafetividade (O Segredo Perdido do Éden) - Jan Val Ellam.pdf` (1.976.700 bytes; SHA-256 `594be9c208c9208515453feea4175d95510967ded2c6fd62decc45b8b416c319`; 252 págs = **B052**).
+- Ciclo em `livros/B052_homoafetividade_segredo_perdido_eden/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~95.434 palavras; SHA-256 `dc8cf74a62ddd0299960140cd973af3b16c588beb362ee9114f9fd13f5310fff`. CIP 180 p. × PDF 252 — já na BIBLIO.
+- 18 termos já citam B052; 8 com ficha. Dossiê sugere ampliar 6 (RC-434, RC-433, RC-437, RC-242, RC-217, RC-049). **0 códigos.** BIBLIO intocada.
+- **Quarentena clínica ABSOLUTA** (homoafetividade / identidade de gênero / eugenia do “modelo”). Série anunciada (“primeiro livro” / “terceiro livro” / “almanaque tardio”) → Colecionar Incertezas; não cadastrar.
+- Dossiê enxuto aguarda O-1..O-8.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

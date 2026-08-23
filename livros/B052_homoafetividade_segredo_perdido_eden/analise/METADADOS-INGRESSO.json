@@ -1,0 +1,22 @@
+{
+  "obra": "B052",
+  "titulo": "Homoafetividade: O Segredo Perdido do Éden",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2016",
+  "pdf_creditos": "Conectar Editora / 2016 / ISBN 978-85-62411-31-1",
+  "divergencia_edicao": "nenhuma material — CIP 180 p. impresso × 252 págs no PDF (já na BIBLIO)",
+  "esclarecimento": "ausente no frontispício; ensaio final assinado Jan Val Ellam (p. 238)",
+  "fonte_upload": "uploads_recepcao/Homoafetividade (O Segredo Perdido do Éden) - Jan Val Ellam.pdf",
+  "bytes_pdf": 1976700,
+  "sha256_pdf": "594be9c208c9208515453feea4175d95510967ded2c6fd62decc45b8b416c319",
+  "paginas_pdf": 252,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 578258,
+  "sha256_original_txt": "dc8cf74a62ddd0299960140cd973af3b16c588beb362ee9114f9fd13f5310fff",
+  "palavras_approx": 95434,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "ingresso; dossiê enxuto; aguardando Devolutiva",
+  "codigos_consumidos": 0
+}

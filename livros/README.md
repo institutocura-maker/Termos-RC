@@ -23,3 +23,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin` — piloto encerrado (2026-08-23).
 
 `CONCLUIDOS/B011_jesus_enigma_transfiguracao` — Devolutiva aplicada (2026-08-23); 5 fichas; 0 códigos; BIBLIO atualizada à mão (Conectar 2017).
+
+`B052_homoafetividade_segredo_perdido_eden` — ingresso (2026-08-23); dossiê enxuto aguarda Devolutiva; 0 códigos; BIBLIO intocada. **Quarentena clínica absoluta.**

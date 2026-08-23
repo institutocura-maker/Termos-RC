@@ -1,0 +1,5 @@
+Contexto de ingresso (2026-08-23): terceiro livro da escala seletiva (após piloto B019 e B011).
+PDF entregue em uploads_recepcao/ pelo curador (push 913a71f no branch da sessão).
+Obra já na BIBLIO como B052 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+18 termos já citam B052; 8 com ficha física. Quarentena clínica absoluta (homoafetividade / gênero).
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.
