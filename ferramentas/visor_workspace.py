@@ -93,14 +93,31 @@ def url_ver(rel: str) -> str:
     return "/?p=" + quote(rel, safe="/")
 
 
-def url_baixar(rel: str) -> str:
-    return "/baixar?p=" + quote(rel, safe="/")
+def url_baixar(rel: str, forcar: bool = False) -> str:
+    u = "/baixar?p=" + quote(rel, safe="/")
+    return u + "&dl=1" if forcar else u
 
 
 def url_zip(rel: str = "") -> str:
     if rel:
         return "/zip?p=" + quote(rel, safe="/")
     return "/zip"
+
+
+def nome_zip(rel: str = "") -> str:
+    dia = date.today().isoformat()
+    if rel:
+        return f"{Path(rel).name}-{dia}.zip"
+    return f"Termos-RC-workspace-{dia}.zip"
+
+
+def link_dl(href: str, rotulo: str, nome_arq: str, cls: str = "btn") -> str:
+    """Link de download que o JS intercepta (o iframe do preview bloqueia anexo nativo)."""
+    return (
+        f'<a class="{html.escape(cls)}" data-dl href="{html.escape(href, quote=True)}" '
+        f'download="{html.escape(nome_arq)}" target="_blank" rel="noopener">'
+        f"{html.escape(rotulo)}</a>"
+    )
 
 
 # ---------------------------------------------------------------------------
@@ -557,13 +574,57 @@ svg.inline-svg { max-width: 100%; background: #fff; border-radius: 8px; }
 JS = """
 (function () {
   var f = document.getElementById('filtro');
-  if (!f) return;
-  f.addEventListener('input', function () {
-    var q = f.value.toLowerCase();
-    document.querySelectorAll('table.dir tbody tr').forEach(function (tr) {
-      var nome = (tr.getAttribute('data-nome') || '').toLowerCase();
-      tr.style.display = nome.indexOf(q) === -1 ? 'none' : '';
+  if (f) {
+    f.addEventListener('input', function () {
+      var q = f.value.toLowerCase();
+      document.querySelectorAll('table.dir tbody tr').forEach(function (tr) {
+        var nome = (tr.getAttribute('data-nome') || '').toLowerCase();
+        tr.style.display = nome.indexOf(q) === -1 ? 'none' : '';
+      });
     });
+  }
+
+  function status(msg) {
+    var el = document.getElementById('dl-status');
+    if (!el) return;
+    if (msg) { el.hidden = false; el.textContent = msg; }
+    else { el.hidden = true; el.textContent = ''; }
+  }
+
+  document.addEventListener('click', function (ev) {
+    var a = ev.target.closest('a[data-dl]');
+    if (!a) return;
+    ev.preventDefault();
+    var url = a.getAttribute('href');
+    var nome = a.getAttribute('download') || 'download';
+    var zip = url.indexOf('/zip') !== -1;
+    status(zip
+      ? 'Preparando o ZIP… isso pode levar alguns segundos. Não saia desta tela.'
+      : 'Baixando ' + nome + '…');
+    a.classList.add('busy');
+    fetch(url, { credentials: 'same-origin' })
+      .then(function (r) {
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        return r.blob();
+      })
+      .then(function (blob) {
+        var obj = URL.createObjectURL(blob);
+        var tmp = document.createElement('a');
+        tmp.href = obj;
+        tmp.download = nome;
+        document.body.appendChild(tmp);
+        tmp.click();
+        tmp.remove();
+        setTimeout(function () { URL.revokeObjectURL(obj); }, 4000);
+        status('Pronto: ' + nome + ' — se a pasta de downloads não abriu, olhe o ícone de download do navegador.');
+        setTimeout(function () { status(''); }, 8000);
+      })
+      .catch(function () {
+        status('O painel bloqueou o download. Abrindo em nova aba…');
+        var w = window.open(url, '_blank');
+        if (!w) { location.href = url; }
+      })
+      .finally(function () { a.classList.remove('busy'); });
   });
 })();
 """
@@ -572,17 +633,12 @@ JS = """
 def acoes_padrao(rel: str = "", is_dir: bool = True, is_file: bool = False) -> str:
     bits = ['<span class="badge ok">somente leitura</span>']
     if is_file and rel:
-        bits.append(f'<a class="btn" href="{url_baixar(rel)}">baixar arquivo</a>')
+        bits.append(link_dl(url_baixar(rel, True), "baixar arquivo", Path(rel).name))
     bits.append(
-        f'<a class="btn zip" href="{url_zip()}" '
-        f'title="Gera o ZIP na memória; nada é gravado no workspace">'
-        f"workspace .zip</a>"
+        link_dl(url_zip(), "workspace .zip", nome_zip(), "btn zip")
     )
     if is_dir and rel:
-        bits.append(
-            f'<a class="btn" href="{url_zip(rel)}" title="ZIP só desta pasta">'
-            f"esta pasta .zip</a>"
-        )
+        bits.append(link_dl(url_zip(rel), "esta pasta .zip", nome_zip(rel)))
     return f'<div class="top-acoes">{"".join(bits)}</div>'
 
 
@@ -608,6 +664,7 @@ def pagina(titulo: str, crumbs: str, corpo: str, badge: str = "") -> bytes:
   <div class="top">
     <nav class="crumbs">{crumbs}</nav>
     {badge}
+    <div id="dl-status" hidden></div>
   </div>
   <div class="content">
     {corpo}
@@ -680,9 +737,9 @@ def corpo_diretorio(pasta: Path) -> str:
         tipo = "pasta" if is_dir else (filho.suffix.lower() or "arquivo").lstrip(".")
         href = url_ver(rel)
         if is_dir:
-            acao = f'<a class="btn dl" href="{url_zip(rel)}">zip</a>'
+            acao = link_dl(url_zip(rel), "zip", nome_zip(rel), "btn dl")
         else:
-            acao = f'<a class="btn dl" href="{url_baixar(rel)}">baixar</a>'
+            acao = link_dl(url_baixar(rel, True), "baixar", filho.name, "btn dl")
         linhas.append(
             f'<tr data-nome="{html.escape(filho.name)}">'
             f'<td><span class="ico {kind}">{ico}</span> '
@@ -719,7 +776,7 @@ def corpo_texto(path: Path, rel: str) -> str:
         aviso = (
             f'<div class="aviso">Arquivo grande ({tam_humano(tam)}). '
             f"Mostrando só os primeiros {tam_humano(LIMITE_PREVIEW)}. "
-            f'<a href="{url_baixar(rel)}">baixar integral</a>.</div>'
+            f'{link_dl(url_baixar(rel, True), "baixar integral", path.name)}.</div>'
         )
 
     meta = (
@@ -727,7 +784,7 @@ def corpo_texto(path: Path, rel: str) -> str:
         f"<span>{n_lin} linhas</span>"
         f"<span>{n_car} caracteres</span>"
         f"<span>{tam_humano(tam)}</span>"
-        f'<span class="acoes"><a class="btn" href="{url_baixar(rel)}">baixar</a></span>'
+        f'<span class="acoes">{link_dl(url_baixar(rel, True), "baixar", path.name)}</span>'
         f"</div>"
     )
 
@@ -816,7 +873,7 @@ def corpo_imagem(path: Path, rel: str) -> str:
     tam = tam_humano(path.stat().st_size)
     return (
         f'<div class="meta-bar"><span>{html.escape(tam)}</span>'
-        f'<a class="btn" href="{url_baixar(rel)}">baixar</a></div>'
+        f'{link_dl(url_baixar(rel, True), "baixar", path.name)}</div>'
         f'<img class="preview" alt="{html.escape(path.name)}" src="{url_baixar(rel)}">'
     )
 
@@ -874,13 +931,34 @@ class Handler(BaseHTTPRequestHandler):
     def do_GET(self):
         try:
             self._get()
+        except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
+            return
         except PermissionError:
-            self._erro(403, "Caminho fora da raiz do workspace.")
+            try:
+                self._erro(403, "Caminho fora da raiz do workspace.")
+            except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
+                return
         except FileNotFoundError:
-            self._erro(404, "Arquivo ou pasta não encontrado.")
+            try:
+                self._erro(404, "Arquivo ou pasta não encontrado.")
+            except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
+                return
         except Exception:
             traceback.print_exc()
-            self._erro(500, "Falha interna do visor (nada foi gravado no disco).")
+            try:
+                self._erro(500, "Falha interna do visor (nada foi gravado no disco).")
+            except (BrokenPipeError, ConnectionResetError, ConnectionAbortedError):
+                return
+
+    def _enviar(self, data: bytes):
+        view = memoryview(data)
+        passo = 64 * 1024
+        for i in range(0, len(view), passo):
+            self.wfile.write(view[i : i + passo])
+        try:
+            self.wfile.flush()
+        except Exception:
+            pass
 
     def do_HEAD(self):
         self.do_GET()
@@ -900,7 +978,7 @@ class Handler(BaseHTTPRequestHandler):
         rel = unquote(qs.get("p", [""])[0])
 
         if u.path == "/baixar":
-            self._baixar(rel)
+            self._baixar(rel, forcar=bool(qs.get("dl")))
             return
         if u.path == "/zip":
             self._zip(rel)
@@ -933,27 +1011,34 @@ class Handler(BaseHTTPRequestHandler):
             corpo = corpo_binario(alvo, rel)
         self._html(200, pagina(titulo, crumbs, corpo, topo))
 
-    def _baixar(self, rel: str):
+    def _baixar(self, rel: str, forcar: bool = False):
         alvo = caminho_seguro(rel)
         if not alvo.exists() or not alvo.is_file():
             raise FileNotFoundError(rel)
         data = alvo.read_bytes()
         nome = alvo.name.replace('"', "")
         ext = alvo.suffix.lower()
-        disposicao = (
-            "inline" if ext in IMAGEM_EXT or ext == ".svg" else "attachment"
-        )
+        if forcar:
+            ctype = "application/octet-stream"
+            disposicao = "attachment"
+        elif ext in IMAGEM_EXT or ext == ".svg":
+            ctype = mime_de(alvo)
+            disposicao = "inline"
+        else:
+            ctype = mime_de(alvo)
+            disposicao = "attachment"
         self.send_response(200)
-        self.send_header("Content-Type", mime_de(alvo))
+        self.send_header("Content-Type", ctype)
         self.send_header("Content-Length", str(len(data)))
         self.send_header(
             "Content-Disposition", f'{disposicao}; filename="{nome}"'
         )
+        self.send_header("Access-Control-Expose-Headers", "Content-Disposition")
         self.send_header("X-Content-Type-Options", "nosniff")
         self.send_header("Cache-Control", "no-store")
         self.end_headers()
         if self.command != "HEAD":
-            self.wfile.write(data)
+            self._enviar(data)
 
     def _zip(self, rel: str):
         alvo = caminho_seguro(rel)
