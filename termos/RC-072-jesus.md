@@ -87,6 +87,17 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B043 p. 94]** “Se minha doutrina não servir para despertar nas pessoas a ousadia do comportamento amoroso para muito pouco servirá.”
 - **Quarentena teológica / histórico-religiosa:** voz do romance (psicografia). Pai Incognoscível **não** vira código (O-4). RC-374/376 não materializados.
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 5]** a relação “entre Jesus, Sophia e Javé”; o “retorno de Jesus” para além da “separação do joio e do trigo”.
+- **[B014 p. 8]** a tradição cristã chama de volta no “estado glorioso” o que o livro identifica como Sophia.
+- **[B014 p. 22]** “o ‘homem Jesus’, o seu avatar humano, reside nele [Sophia], na sua ‘Consciência Mais Profunda’.”
+- **[B014 p. 30]** o “humano Jesus” é “o caso mais extremo” do fatiamento: produziu um “Eu” “muito superior às demais ‘expressões fatiadas’.”
+- **[B014 p. 31]** Jesus = Ser cuja consciência “se encontrava ‘fatiada’ simultaneamente em quatro porções (Vishnu, Mohen So, Sophia e Jesus), pelo menos.”
+- **[B014 p. 83]** “Jesus foi exatamente o tipo de ser humano que Sophia esperava utilizar…? […] posso tranquilamente responder: não, não foi!”
+- **Quarentena teológica.** Sem fusão com B011/B043 (já ampliadas). Sem código novo.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

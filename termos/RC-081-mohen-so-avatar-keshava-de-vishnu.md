@@ -51,6 +51,15 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 
 - **[P2026-04-02 — FONTE ORIGINAL] Mohen So e a transmissão à descendência (Pergunta 3):** "já sabemos que Mohen So, antes de se autoextinguir, transferiu seus conhecimentos, experiências e informações para o ser humano Jan Val Ellam"; "a capacidade dele é tão gigantesca que ele não podia passar o conteúdo mental dele pra ascendência dele, teve que passar pra descendência, e o que restava da descendência só se encontrava na condição humana porque o Ragnarok acabou com tudo que ele havia feito com Odin lá em Yggdrasil"; "o nosso amigo... é uma espécie de mentor, tutor ou irmão mais velho" [relato pessoal — quarentena biográfica]; "a pergunta sobre o eu transitório do Fenvã antimaterial ter sido escaneado ou ter tido autonomia: 'é uma história complicada, eu não pretendia falar disso... se um dia eu lançar o livro Projeto TALM, talvez em um dos capítulos finais eu viesse a falar disso'".
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 29]** Vishnu fez emergir, entre outros, “Mohen So — também conhecido como ‘Phanes’, no orfismo”; “Diretamente do seu Ser, o ‘Terceiro Logos’ ‘gerou’ Mohen So”; Sophia foi gerado diretamente por Mohen So.
+- **[B014 p. 30]** Mohen So “era o único Ser que possuía, na sua constituição pessoal, as ‘Fórmulas Mentais Originais’, identificadoras dos ‘Logos Criadores’”; recebeu os poderes de Vishnu “e uma menor cota de ‘doença original daiva’”; “mais ‘evoluído’, em senso crítico, do que o seu próprio criador.”
+- **[B014 p. 31]** “Vishnu […] gerou Mohen So há cerca de uns 6,4 bilhões de anos após o início da História Universal” — **cronologia em Colecionar Incertezas**; Mohen So na loka-limite Brahmaloka/Bhuloka; após os fenvans, gerou Sophia (biodemo) neste universo.
+- **[B014 p. 33–34]** Mohen So = avatar direto de Vishnu; Sophia = forma Adhyajna de Mohen So; Jesus = avatar terreno de Sophia.
+- **Quarentena teológica / cronológica.** RC-135 Vishnu permanece **sem ficha**. Sem fusão com B045 (Projeto Talm, só anunciado no texto).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

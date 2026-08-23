@@ -11,6 +11,10 @@
 - 23 termos já citam B014; 13 com ficha. Dossiê sugere ampliar RC-009, RC-072, RC-005, RC-273, RC-274, RC-092. **0 códigos.** RC-076/135/183/275–281 sem ficha — não materializar.
 - Quarentenas: teológica (Cristo Cósmico / Falsa Trindade); Niceia; WTC 2001 (p. 152–153) fora; IEEA/Orbum fora. Sem fusão com B013/B016/B012.
 
+### Devolutiva B014 aplicada (2026-08-23)
+
+- O-1 confirmado (é B014; *o/os* Logos = `[REVISAR]`; BIBLIO intocada); O-2: 8 fichas ampliadas (RC-009, RC-072, RC-005, RC-273, RC-274, RC-092 + opcional RC-081, RC-282); O-3: zero códigos; RC-076/135/183/275–281 não materializadas; O-4: Apocalipse = remissão a B012, sem fusão; evento 2001 e IEEA/Orbum fora; O-5: B013, B016 e B012 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas teológica, Niceia, político-geopolítica, cronológica; O-8: pasta em `livros/CONCLUIDOS/B014_sophia_e_o_logos_criadores/`. Sem apostila.
+
 ## Fase 2 — B013 *Tzimtzum: O Exílio Forçado de uma Divindade* (abertura 2026-08-23)
 
 - **PDF ingressado** em `uploads_recepcao/Tzimtzum (o exílio forçado de uma divindade) - Jan Val Ellam.pdf` (1.931.203 bytes; SHA-256 `9e03f76dac13d4e3d50eb7d1f21072602c1baccbbb18550123243a02930fe2ee`; 185 págs = **B013**).

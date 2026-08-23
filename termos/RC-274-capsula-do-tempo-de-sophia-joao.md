@@ -22,6 +22,15 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 
 - **P2026-07-25:** a vinda de Sophia é tratada como "finalização de uma etapa" — contexto da cápsula do tempo (João).
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 145]** “Vivenciando a sua ‘condição humana’, Jesus fez promessas sobre o ‘seu retorno’, que serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia.”
+- **[B014 p. 145]** o cérebro biodemo “somente se dá por vivência”; o psiquismo do “simples homem” de ~30 anos “vale bem mais” do que o que Sophia ostenta “há cerca de 5 bilhões” [cronologia — quarentena].
+- **[B014 p. 153]** voz de Sophia: a “cápsula do tempo”, “contendo os elementos proféticos identificadores da minha ‘vinda’ e da minha assunção ao poder definitivo da questão universal.”
+- **[B014 p. 212]** texto complementar *O Apocalipse: a “Cápsula do Tempo”!* — reproduz material já ligado a B012; **remissão, sem fusão**.
+- **Quarentena político-geopolítica ABSOLUTA:** qualquer âncora em evento terrestre de 2001 permanece **fora da ontologia** (O-4 / O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

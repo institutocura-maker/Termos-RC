@@ -25,6 +25,15 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B011 p. 134]** o livro do Apocalipse "não estava sequer previsto ao tempo da vida de Jesus. Sua necessidade estratégica somente foi depois detectada pelo Mestre".
 - **[B011 p. 135]** "o contato claro e objetivo com os que estão encarnados somente se daria após a autorização do Mestre, em Sua segunda vinda".
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 5]** “Por que Jesus anunciou que voltaria à Terra?”; Apocalipse: “os tempos são chegados”.
+- **[B014 p. 8]** a volta “no seu estado glorioso” = Sophia / Cristo Cósmico — **não** novo nascimento humano.
+- **[B014 p. 145]** as promessas do retorno “serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano.”
+- **[B014 p. 145]** a “forma cósmica de Jesus” que se apresentará “não seja o ‘Jesus efusivo e bem-humorado’ que muitos corações humanos endeusaram.”
+- **Quarentena teológica.** Evento terrestre de 2001 **fora** da ontologia (O-4 / O-7). Sem fusão com B012.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

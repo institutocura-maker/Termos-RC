@@ -1,6 +1,6 @@
 O corpus integral desta obra é o extract paginado:
 
-  livros/B014_sophia_e_o_logos_criadores/original.txt
+  livros/CONCLUIDOS/B014_sophia_e_o_logos_criadores/original.txt
 
 SHA-256 7da5c3dc2bc099a7157bd3f6aa0449f6f2462870d7643e80e0834c73546e8804
 Não duplicar aqui (624 KB). Página 1 = [página sem texto extraível].

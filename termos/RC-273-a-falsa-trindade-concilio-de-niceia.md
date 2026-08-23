@@ -17,6 +17,17 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **Grafia preferida:** A Falsa Trindade
 - **Variações:** Santíssima Trindade (nome tradicional); Concílio de Niceia (325); "Falsa Trindade" (termo de Ellam)
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 187]** a urdidura da “Santíssima Trindade” no Concílio de Niceia — o autor remete o detalhe ao cap. 17.
+- **[B014 p. 196]** “Sophia ficou mais ‘espantado’ ainda ao acompanhar a formulação da ideia da ‘Santíssima Trindade’, produzida pelo ‘Concílio de Niceia’, no ano 325.”
+- **[B014 p. 196]** 36ª Constatação: “A partir do ‘Concílio de Niceia’, o personagem Sophia, que sempre foi amplamente divulgado na cultura hebraica e na dos cristãos helenizados, começou a desaparecer da História.”
+- **[B014 p. 198]** a Trindade “é uma mera criação teológica dos bispos de Niceia.”
+- **[B014 p. 200]** o “Espírito Santo […] simplesmente não existe” (fé, não ontologia); a curiosidade que era de Sophia foi substituída por teologias posteriores.
+- **[B014 p. 203]** para Sophia, a “tríade do catolicismo” está “desfocada”; “a figura do ‘Deus-Pai’ surgida a partir do ‘Concílio de Niceia’ pode até existir, mas não corresponde ao ‘adoentado Criador caído’.”
+- **Quarentena histórico-religiosa e teológica:** Niceia = narrativa de Ellam, **não** fato histórico validado. Sem código novo.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

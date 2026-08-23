@@ -55,6 +55,17 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[P2025-06-26 — FONTE ORIGINAL] Olm e a vida biológica (pergunta 5):** "o quarto logos só mergulhou quando a vida biológica surgiu"; "o quarto logos só começou, entre aspas, a operar depois que a vida biológica surgiu, depois do plano de [Morphia? REVISAR — STT] junto com Sophia"; "o quarto logos muitas vezes pode atuar como essa mão invisível [que o grupo comenta]" [contexto do grupo; a resposta do autor não confirma a participação na Áurea Catena].
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 5]** “Como o ‘Quarto Logos’ atua? Qual o perfil de seus agentes?”
+- **[B014 p. 18–19]** diferente dos três primeiros, o Quarto Logos “não é um ‘Logos’” no mesmo sentido; é “autoridade ratificadora e retificadora”; “Autoridade […] não deve ser entendida como uma força atuante […] por meio de qualquer tipo de imposição. Absolutamente!”
+- **[B014 p. 19]** 5ª Constatação: objetivo = “compreensão esclarecida” para edificar “consciência sábia e virtuosa” a partir da liberdade de cada ser.
+- **[B014 p. 19]** Sophia, “Suserano da Geopolítica Universal”, “trabalhando sempre associado ao ‘Quarto Logos’.”
+- **[B014 p. 172]** capítulo dos agentes; o dharma demodhármico dos humanos seria “obediência aos desígnios de Javé” — leitura do autor, não norma.
+- **[B014 p. 204]** Sophia e o Quarto Logos: o autor não aplaude as “providências” dos Logos Criadores; reconhece o “drama”.
+- RC-281 (Agentes do Quarto Logos) permanece **sem ficha**. Sem fusão com B016.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

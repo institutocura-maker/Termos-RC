@@ -33,6 +33,13 @@ P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e n
 
 - **Moren/Phanes (P2024-11-09):** "o criador reconstruído, por meio de um ser chamado Moren, quando de um projeto [Talm], que foi o projeto que trouxe vida do universo vizinho pro universo biológico, começou a decodificar as informações em 3D que, via buracos negros, eram transferidas para a condição 2D do universo vizinho".
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 29]** Mohen So “também conhecido como ‘Phanes’, no orfismo”; na mitologia hindu “não são facilmente identificados […] como a ‘serpente’ Vasuki e Kalki” (Mohen So / Sophia nessa leitura).
+- **[B014 p. 29–34]** a cadeia Vishnu → Mohen So (direto) → Sophia (direto de Mohen So / indireto de Vishnu) → Jesus (avatar terreno) é o fio das correspondências; não fundir Phanes com Moros (higiene já na ficha).
+- **Quarentena:** Teologia Comparada de Ellam — não identidade histórica das mitologias. Sem código novo.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

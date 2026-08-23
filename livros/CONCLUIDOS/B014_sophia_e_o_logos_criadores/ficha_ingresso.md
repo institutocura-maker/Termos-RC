@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B014 — Sophia e o Logos Criadores
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Ciclo em `livros/B014_sophia_e_o_logos_criadores/` (fora de CONCLUIDOS). 0 códigos. BIBLIO intocada.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 8 fichas ampliadas (RC-009, RC-072, RC-005, RC-273, RC-274, RC-092, RC-081, RC-282); 0 códigos; BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Título capa/CIP *os* Logos = `[REVISAR]`.
 
 ## 1. Identificação
 

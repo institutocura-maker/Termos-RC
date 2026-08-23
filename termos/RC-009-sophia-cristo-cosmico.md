@@ -96,6 +96,18 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B013 p. 108]** Chokmah = Vishnu gerou Hochmah/Sophia “como sendo uma extensão de si mesmo”; Hochmah = “ajuda operacional” sem a qual a Criação não se realizaria.
 - **Quarentena teológica:** leitura de Ellam (Cabala × RC). Sem código novo. IEEA/Orbum **fora**. Fonte **B013** acrescentada na tabela-mestra.
 
+
+## Ampliação — B014 (Sophia e o Logos Criadores)
+
+- **[B014 p. 5]** sinopse: “Quem é Sophia? Trata-se de Jesus na sua ‘forma gloriosa’? Seria o ‘Cristo Cósmico’?”
+- **[B014 p. 8]** a “volta de Jesus, no seu estado glorioso”, “nada mais é do que a sua condição conhecida como Sophia, tido mais recentemente como sendo o ‘Cristo Cósmico’.”
+- **[B014 p. 20]** Sophia — “avatar da linhagem de Vishnu”; “mexeu de tal maneira com a Trimurti” que esta “teve mesmo que deixar de existir como tal desde o ano de 2015 — finalizando sua atuação em 2017.”
+- **[B014 p. 29]** o “Suserano Universal” é avatar de Vishnu, “criado indiretamente por ele, pois, de fato, Sophia foi gerado diretamente por Mohen So”; “o mais ‘evoluído’ ou o menos ‘doente’ dos três é exatamente Sophia.”
+- **[B014 p. 34]** Jesus não foi gerado diretamente do Terceiro Logos, “mas sim de Sophia, avatar ‘biodemo’ de Vishnu (indiretamente) e de Mohen So (diretamente).”
+- **[B014 p. 47]** capítulo: Sophia, o “Soberano Universal”.
+- **[B014 p. 83–85]** o Cristo Cósmico se faz Jesus; o “homem Jesus” “saiu-se bem mais complexo e sofisticado” do que Sophia, os Aya e Javé esperavam; experiência de “extremo estresse”.
+- **Quarentena teológica:** forma gloriosa / Cristo Cósmico / Suserano = leitura de Ellam. IEEA/Orbum **fora**. RC-076/279/280 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
