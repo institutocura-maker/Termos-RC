@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): oitavo livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016).
+PDF entregue em uploads_recepcao/ pelo curador (push 71a6c94 no branch da sessão).
+Obra já na BIBLIO como B044 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+40 termos já citam B044; 19 com ficha. Núcleo: RC-174 Colmeia Universal / RC-175 Abelha-Rainha / RC-176 Modelo Colmeia.
+RC-104 Trimurti tem ficha, mas B044 não está nas fontes. Quarentenas: científica (DNA-lixo / Sheldrake), clínica (corpo do Criador), política, IEEA/Orbum.
+Corpus: original.txt (extract paginado; p. 1 e p. 141 sem texto). Sem marca d'água de conversor.

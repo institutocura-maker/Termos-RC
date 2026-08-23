@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B016 aplicada)  
+**Data de sincronização:** 2026-08-23 (ingresso B044 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B044 *A Divina Colmeia* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/A Divina Colmeia (A Trimurti Desencantada) - Jan Val Ellam.pdf` (1.664.763 bytes; SHA-256 `fb07bb55027495c3936b9f3f52dddb4deffff118b24ed6cb5c55e9e13bca0dba`; 163 págs = **B044**). ISBN 978-85-62411-48-9 já na BIBLIO. CIP 220 p. (papel) × PDF 163 = `[REVISAR]` de contagem. CDU 133.93 (sem a palavra “psicografia” no extract). **BIBLIO intocada.**
+- Ciclo em `livros/B044_a_divina_colmeia/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~55.514 palavras; SHA-256 `415605d393ee13a699b605ad9f23ff0438ae633dba9d3d1060aabf32b4e60733`. p. 1 e p. 141 sem texto extraível.
+- 40 termos já citam B044; 19 com ficha. Dossiê sugere ampliar RC-174, RC-175, RC-176, RC-179, RC-091, RC-188. **0 códigos.** RC-014/019/031/036/044/075/098/135/177/178/180–187/189/190/191 sem ficha — não materializar.
+- RC-104 Trimurti tem ficha, mas **B044 não está nas fontes** (opcional O-2). Quarentenas: teológica, científica (DNA-lixo / Sheldrake), ufológica (insectoides), clínica (corpo do Criador — não diagnóstico), política, biográfica (encontro 2010), IEEA/Orbum fora. Sem fusão com B015/B020/B022/B024/B041; B045 permanece anunciada.
 
 ## Fase 2 — B016 *O Quarto Logos* (abertura 2026-08-23)
 

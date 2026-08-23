@@ -33,3 +33,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B014_sophia_e_o_logos_criadores` — Devolutiva aplicada (2026-08-23); 8 fichas (RC-009, RC-072, RC-005, RC-273, RC-274, RC-092, RC-081, RC-282); 0 códigos; BIBLIO intocada. Sem apostila.
 
 `CONCLUIDOS/B016_o_quarto_logos` — Devolutiva aplicada (2026-08-23); 9 fichas (RC-092, RC-252, RC-259, RC-253, RC-257, RC-009, RC-005, RC-260, RC-426); 0 códigos; ISBN 978-85-62411-37-3 na BIBLIO (edição manual). Sem apostila.
+
+`B044_a_divina_colmeia` — ciclo em andamento (ingresso 2026-08-23); dossiê enxuto aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada.
