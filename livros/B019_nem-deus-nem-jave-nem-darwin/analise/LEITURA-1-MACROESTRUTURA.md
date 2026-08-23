@@ -26,7 +26,7 @@
 ### Cap. 1 — Evolução Possível para Quem? (p. 9–16)
 
 - **IEEA — Instituto de Estudos Estratégicos Alternativos** (p. 9): "contexto que financia os movimentos da natureza nos moldes em que são percebidos no IEEA" → conferir se IEEA já está na malha;
-- **"Criatura Universal"** (p. 9): "única capaz de conduzir o rumo da história desta estranhíssima Criação a um ponto de equilíbrio que possa alicerçar a a 'redenção' do Criador"; Homo sapiens = "aparente produto da evolução terráquea" com tudo a ver com "os primeiros protótipos desta 'Criatura Universal'";
+- **"Criatura Universal"** (p. 9): "única capaz de conduzir o rumo da história desta estranhíssima Criação a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador"; Homo sapiens = "aparente produto da evolução terráquea" com tudo a ver com "os primeiros protótipos desta 'Criatura Universal'";
 - **"Mundos-laboratórios"** (p. 10): "sempre estiveram ligados no que diz respeito a uma organização vinculada ao circuito evolutivo";
 - **CFDP — "Código-fonte Definidor de Vida Pessoal – CFDP" do Criador** (p. 10), "semeado com cerca de somente 3% do seu potencial ativo"; "potencial ativo em 3% de quê? Da 'podridão ancestral' do Criador — advinda da sua 'queda'... e do poder mental que herdou da sua antiga condição de Arquiteto-cocriador" → **cruzar RC-091 (CFDP/TALM) e RC-774 (TALM = "Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material")**;
 - **"Semeadores"** (p. 10): equipes que semearam a vida — conferir na malha;

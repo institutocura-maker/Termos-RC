@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 6107 | 152 | 214ec52ef1805005afb0c97f95e349c85429eb2ca356d9d368ed8149459a132b
 # ferramentas/gerar_pacotes.py | 9440 | 222 | d009e8e475d32cdd39cbc2468c88de9cbabe0fce3ec082a29d8bd78b10259bbd
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 104451 | 944 | 2db5a3822a34456f35f1f97c9934634ce1f915b7e7656b9fcda3c16dc1f238cb
+# CONTINUIDADE.md | 104619 | 944 | 1cc39b84e9cfb68cc21c046d1b08192d57df52284ad36c1afbacedb9b8768f0a
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 556508 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 556676 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -4637,7 +4637,7 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 - **Estrutura mapeada:** sumário (p. 4) + sinopse (p. 5) + introdução (p. 7–8) + **18 capítulos** (p. 9–210) + posfácio (p. 211) + notas/referências (p. 213–230) + Sobre o Autor/IEEA/Projeto Orbum (p. 231–238) — mapa completo na `ficha_ingresso.md` e em `analise/METADADOS-INGRESSO.json`;
 - **Nova pasta `livros/`** criada (primeiro uso) — espelha a convenção das apostilas (original preservado + `ficha_ingresso.md` + `analise/`);
 - **Gerador de pacotes estendido:** agora cobre `livros/*/original.{pdf,txt}` + ficha/metadados → PACOTE-DE-ORIGINAIS em **38 arquivos**;
-- **NOVA LACUNA DETECTADA (para o curador):** `original.pdf` da palestra 2024-05-04 (Prabrajna em Perpérion — Versão Refatorada) é um **artefato corrompido** no disco (142.138 caracteres U+FFFD; streams destruídos — pypdf: "Error -3 decompressing"; a corrompção é anterior à era dos pacotes, ocorrida na migração do ambiente antigo). A apostila e todas as análises daquele ciclo são íntegras; existe backup de nível textual saudável em `analise/leitura-pdf-completo.txt` (14.284 palavras, 0 U+FFFD). **Opcional:** se o curador tiver o PDF original daquela palestra, um re-upload restaura a fidelidade byte a byte; caso contrário, permanece lacuna documentada;
+- **LACUNA 2024-05-04 RESTAURADA (2026-08-22, mesmo dia):** `original.pdf` da palestra Prabrajna em Perpérion (Versão Refatorada) era um **artefato corrompido** no disco (142.138 U+FFFD; corrompção anterior à era dos pacotes, da migração do ambiente antigo — hash do artefato `0252b874…cff91`). Curador re-anexou o PDF original via GitHub (commit `6a95cdf` em `main`); arquivo substituído **byte a byte** (368.728 bytes · SHA-256 `cee4ef97c351f91a455ec04e54e8702e9e5f5fb475df1b9acfbe888541fdd596` · 38 págs). **Verificação dupla:** (1) extração do novo PDF vs. backup textual da época (`analise/leitura-pdf-completo.txt`): **38/38 páginas idênticas** ignorando espaços (única diferença = normalização de espaçamento da ferramenta antiga); (2) round-trip de pacotes **38/38 fiéis** com 0 U+FFFD nos dois PDFs embutidos;
 - **Correção de engenharia (2026-08-22) — gerador de pacotes BINÁRIO-SEGURO:** o `gerar_pacotes.py` decodificava conteúdo em `utf-8 errors="replace"`, **corrompendo binários** (bytes inválidos → U+FFFD de 3 bytes — o PDF do B019 inchava de 1,8 MB para 3,17 MB dentro do pacote; risco: restauração futura sobrescreveria o arquivo sadio no disco com a versão corrompida — o que, na prática, já havia acontecido com o PDF de 2024-05-04). Correções: (1) corpo do pacote agora é **concatenado em bytes, sem decode** (escrita `wb`); (2) `restaurar_pacotes.py`: `RAIZ` passou a ser **portátil** (derivada da localização do script) — antes apontava para o caminho morto do ambiente antigo. **Teste de ida-e-volta: 568/568 arquivos 100% fiéis** (4 pacotes, incluindo os 2 PDFs);
 - **PENDENTE (próxima etapa do fluxo moderno):** leitura 2× → camadas 0–3 → chunks → **Dossiê ENXUTO** de pré-curadoria → Devolutiva do curador (O-1..O-8) → ampliações/relações (KB só toca após aprovação).
 
