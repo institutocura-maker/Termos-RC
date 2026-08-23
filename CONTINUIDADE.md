@@ -1,7 +1,19 @@
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `849fc65` (Apostila Temática Carbono × Sílica + EXT Ari Barbosa)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Ciclo de higienização — AGENTE 9 (2026-08-23)
+
+- **0 códigos consumidos** (RC-778 preservado); base permanece `OK: 777 termos, 1852 relações — dados válidos.`;
+- **4 flags `ficha=True`** alinhados às fichas físicas já materializadas na Trilogia TALM: RC-064 Fenvans · RC-132 Val Tam · RC-165 Karuna · RC-499 Forno de Awaymaion. **RC-004 Elohim permanece `False`** (investigação);
+- **13 apostilas da restauração original** regeneradas em DOCX via `build_apostila.py` (Enki/Enlil, Bastidores, Thot, Jainismo, Drama de Jesus, Dessensibilização, Moisés, Bagagem, Sethianos, Fantasmas, Consciência Humana, Ifá, Podcast Irmãos Dias);
+- **2 `original.txt` restaurados (sem interpolação):**
+  - `2026-08-04_irmaos-dias-podcast_aliens_biblia/original.txt` — cópia byte a byte do TXT da raiz (SHA-256 `bf54fba139f0c493ae528b2afecddd7a5b54254cbd27ab4b8b40b42092bed52a`);
+  - `2024-05-04_prabrajna_perperion_simultaneidade_reversa/original.txt` — extract já validado no ciclo (`analise/leitura-pdf-completo.txt` ≡ `camada-3.txt`; fonte PDF em `uploads_recepcao/`, SHA-256 `cee4ef97c351f91a455ec04e54e8702e9e5f5fb475df1b9acfbe888541fdd596`, 368.728 bytes);
+- Conferência: 0 pastas CONCLUIDAS sem `original.txt`; 0 flags `True` sem arquivo; único arquivo sem `True` = RC-004;
+- Índice, XLSX, DOCX de leitura e pacotes (`backups/pacotes/`) regenerados;
+- **Visor do workspace** (`ferramentas/visor_workspace.py`) recriado nesta sessão (somente leitura; downloads no preview da Arena ainda instáveis — **pausado** a pedido do curador).
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

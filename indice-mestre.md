@@ -69,7 +69,7 @@
 | RC-061 | Espiritualidade Laboratorial | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟡 | B031, B024, B013, B051, B060, P2021-12-04, P2024-05-04, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | RC-060; RC-087; RC-048; RC-472; RC-473; RC-496; RC-596; RC-601; RC-635 | — |
 | RC-062 | Experiência Gron | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B031 | RC-058; RC-018; RC-032; RC-068 | — |
 | RC-063 | Favor Divino | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B031, B048, P2025-03-15, P2024-11-09, P2024-09-29, P2024-04-14, P2025-06-14 | RC-041; RC-001; RC-048 | — |
-| RC-064 | Fenvans | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B024, P2022-12-17, P2024-11-30, P2024-08-03, P2024-04-13 | RC-080; RC-106; RC-098; RC-031; RC-081 | — |
+| RC-064 | Fenvans | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B024, P2022-12-17, P2024-11-30, P2024-08-03, P2024-04-13 | RC-080; RC-106; RC-098; RC-031; RC-081 | [✔](termos/RC-064-fenvans.md) |
 | RC-065 | Frota Norte | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B031, B017, B018, B061 | RC-032; RC-043; RC-109 | — |
 | RC-066 | Genos | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031 | RC-077; RC-038; RC-064; RC-065 | — |
 | RC-067 | Gron Mion | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031 | RC-103; RC-074; RC-136 | — |
@@ -137,7 +137,7 @@
 | RC-129 | Val Pen | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-109; RC-126; RC-128; RC-024 | — |
 | RC-130 | Val Sean | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
 | RC-131 | Val Sion | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
-| RC-132 | Val Tam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-018 | — |
+| RC-132 | Val Tam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-018 | [✔](termos/RC-132-val-tam.md) |
 | RC-133 | Val dos Corpos Perdidos / Dimensionados | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-127; RC-109; RC-110; RC-112; RC-114; RC-115; RC-116; RC-117; RC-118; RC-130; RC-131 | — |
 | RC-134 | Viajores | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B031, B015 | RC-024; RC-082 | — |
 | RC-135 | Vishnu (Mavatna) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B024, B044, B001, B033, B016, B014, B020, B021, B022, B051, B036, P2022-12-17, P2021-12-04, P2026-07-30, P2024-05-04, P2026-04-02, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-08-03, P2024-07-14 | RC-037; RC-102; RC-104; RC-081; RC-009; RC-584; RC-622; RC-642; RC-565 | — |
@@ -170,7 +170,7 @@
 | RC-162 | Elétrons (agente básico da vida universal) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟡 | B024, B041, P2024-05-04, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-03-03, P2024-04-14, P2025-06-14 | RC-161; RC-148; RC-636; RC-690; RC-692; RC-693; RC-715 | — |
 | RC-163 | Mente Universal (Emergente) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B024, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-04-14, P2025-06-14 | RC-161; RC-042; RC-164; RC-694; RC-707; RC-725 | — |
 | RC-164 | Criaturas-ferramenta | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B024, B035, B019, P2025-03-15, P2025-02-15, P2024-11-30, P2024-04-13, P2024-04-14, P2021-03-27, P2025-11-29 | RC-163; RC-099; RC-160 | [✔](termos/RC-164-criaturas-ferramenta.md) |
-| RC-165 | Karuna | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B024 | RC-148; RC-075 | — |
+| RC-165 | Karuna | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B024 | RC-148; RC-075 | [✔](termos/RC-165-karuna.md) |
 | RC-166 | Mentalma | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B024, B074, B075, P2022-12-17, P2021-12-04, P2026-07-30, P2026-04-02, P2025-06-26, P2025-03-15, P2025-02-15, P2024-11-30, P2024-11-09, P2024-04-14, P2025-06-14, P2026-08-04, ART-2026-08-18, P2023-05-13 | RC-071; RC-618; RC-633; RC-655 | [✔](termos/RC-166-mentalma.md) |
 | RC-167 | Criação Indevida (Obra indevida) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B024, B035, B001, B002, B016, B013, B022, B041, P2021-12-04, P2026-07-30, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2023-05-13 | RC-094; RC-041; RC-150; RC-087; RC-628; RC-638; RC-152 | [✔](termos/RC-167-criacao-indevida-obra-indevida.md) |
 | RC-168 | Era da Lila e da Aceitação | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B024 | RC-155; RC-075 | — |
@@ -504,7 +504,7 @@
 | RC-496 | Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | ⚪ | B061, P2021-12-04 | RC-061; RC-087; RC-472; RC-497; RC-498; RC-596; RC-597; RC-598; RC-599 | [✔](termos/RC-496-ereon-regiao-dos-cinco-archeons-da-espiritualidade-laboratorial.md) |
 | RC-497 | Impérial — erro histórico de STT (ver Perpérion RC-087) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | ⚪ | B061, P2021-12-04 | RC-496; RC-087 | [✔](termos/RC-497-imperial---erro-historico-de-stt-ver-perperion-rc-087.md) |
 | RC-498 | Tempérium — variação histórica de Tempérion (ver RC-472) | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | B061, P2021-12-04 | RC-496; RC-472; RC-061 | [✔](termos/RC-498-temperium---variacao-historica-de-temperion-ver-rc-472.md) |
-| RC-499 | Forno de Awaymaion (forno de Vishnu; origem de Olm) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | ⚪ | B061 | RC-408; RC-092 | — |
+| RC-499 | Forno de Awaymaion (forno de Vishnu; origem de Olm) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | ⚪ | B061 | RC-408; RC-092 | [✔](termos/RC-499-forno-de-awaymaion-forno-de-vishnu-origem-de-olm.md) |
 | RC-500 | Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | ⚪ | B061, P2021-12-04, ART-2025-08-01 | RC-499 | [✔](termos/RC-500-almaior-alamaior---erro-historico-de-stt-ver-forno-de-awaymaion-rc-499.md) |
 | RC-501 | Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel) | Seres & Entidades | 1.2 Coletivos criadores | ⚪ | B061 | RC-065; RC-109 | — |
 | RC-502 | Val Aten (último Val de Val-Ha) | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | ⚪ | B061 | RC-109; RC-127 | — |
