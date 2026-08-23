@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B013 aplicada; piloto B014 aberto)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B014 aplicada; piloto B016 aberto)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B016 *O Quarto Logos* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/O Quarto Logos - Jan Val Ellam.pdf` (1.772.619 bytes; SHA-256 `bee21994489bf64b291022287597837df6e227213905e437d1a3e20638c0687a`; 217 págs = **B016**). ISBN 978-85-62411-37-3 (ainda não na BIBLIO). CIP psicografia. **BIBLIO intocada.**
+- Ciclo em `livros/B016_o_quarto_logos/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~77.252 palavras; SHA-256 `63b16bfd238603b50bba2192e997901007253f25839e0b1788f19a13e2ff1f53`.
+- 25 termos já citam B016; 15 com ficha. Dossiê sugere ampliar RC-092, RC-252, RC-259, RC-253, RC-257, RC-009. **0 códigos.** RC-014/016/038/071/135/146/190/254–256/258/281 sem ficha — não materializar.
+- Grafia do livro: **Zion**; canônico: **Zian**. Quarentenas: política (2016), biográfica (infarto), ufológica (Capela), IEEA/Orbum fora. Sem fusão com B014; B045 permanece anunciada.
 
 ## Fase 2 — B014 *Sophia e o Logos Criadores* (abertura 2026-08-23)
 
@@ -866,146 +874,4 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-ARVORE-VIDA.py`.
 
 ### Colecionar Incertezas (itens novos)
-"Vatireca" [STT]; "Lammur" (Marte); "Ig Brasil" (reino do Ragnarok); "Anahata/Pashupati"; "Enoque se suicidou dentro de Metatron" [REVISAR]; "25.869 × 28.869 genes"; "Hochmah filho de Chokhmah"; "Sóclov" (Sokolov); "Vasir" (urdidura de Moros).
-
-### Apostila (16ª do acervo)
-- `apostila.md` (13.979 palavras; 12 PARTES + glossário A–D; **PARTE XI — Perguntas da Plateia isolada** com 8 intervenções nomeadas e mediador Guilherme Veríssimo); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-05-31_arvore_da_vida_urdidura_metatron/`.
-- Índices sincronizados (raiz + apostilas/).
-
-**Estado:** 770 termos · 1.674 relações · RC-771 livre · 407 fichas · 80 obras · **16 apostilas concluídas**.
-
----
-
-## Ciclo de Curadoria + Apostila — P2025-03-15 A Rebelião dos Elétrons e a era do Colapso do Caos Organizado (19/08/2026)
-
-**Re-curadoria** (TXT completo recuperado — antes "fonte oficialmente incompleta"). Devolutiva R-1..R-6 do curador (via Assistente): auditoria aprovada; 24 ampliações aprovadas; **zero códigos novos** (base em 770); B063 confirmado; apostila autorizada; **quarentena clínica ABSOLUTA** (homoafetividade/gênero = cosmologia filosófica do autor, jamais fato).
-
-### Execução
-- Auditoria RC-690–693 + RC-378 contra o STT integral: **5/5 confirmados** (+ ~60 ampliações anteriores do fragmento coerentes).
-- **27 fichas ampliadas** (seção "Ampliação — P2025-03-15"): destaques — **Ishvara = "retrato de Prabrajna"** (RC-691); **mecânica da assinatura quântica/kit reencarnatório** (RC-692); **Wyrd gerada FORA da geopolítica da Trimurti + oposição de Krishna** (RC-658/RC-559); "cansaço da matéria" (RC-378); Schopenhauer/B063 (RC-161); Paraíso B (RC-612); oxitocina/IA (RC-646).
-- 4 termos sem ficha física (RC-406, RC-529, RC-542, RC-191) → ampliação registrada na Colecionar Incertezas (sem ficha criada, conforme "nenhuma nova ficha").
-- **32 relações novas**; 15 campos relacionados enriquecidos.
-- Base: **770 termos · 1.706 relações** (+32) — `OK: 770 termos, 1706 relações — dados válidos.` · RC-771 preservado.
-- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-REBELIAO-ELETRONS.py`.
-
-### Colecionar Incertezas (itens novos)
-"Acabou em fevereiro desse ano [2025]" [REVISAR]; "Vatireca" [STT]; "25.869 × 28.869 genes"; experimentos militares/Polo Sul (não verificáveis); "Sha Howard"→Schopenhauer (B063 confirmado); "10 milhões de IAs".
-
-### Apostila (17ª do acervo)
-- `apostila.md` (10.713 palavras; 12 PARTES + glossário A–D; nota editorial com **quarentena clínica absoluta** explícita; seção de perguntas finais marcada como [TEXTO INCOMPLETO] — material recebido cobre até o intervalo); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-03-15_rebeliao_eletrons_caos_organizado/`.
-- Índices sincronizados.
-
-**Estado:** 770 termos · 1.706 relações · RC-771 livre · 407 fichas · 80 obras · **17 apostilas concluídas**.
-
----
-
-## Ciclo de Curadoria + Apostila — P2025-02-16 O Oitavo Dia da Criação / O Novo Ser Humano (19/08/2026)
-
-**Re-curadoria** (repassada de palestra já vista). Devolutiva O-1..O-6 do curador (via Assistente): auditoria aprovada; 24 ampliações aprovadas; **zero códigos novos** (base em 770); B001 confirmado; apostila autorizada; **quarentena político/ufológica ABSOLUTA** (TIs/reptilianos = interpretação narrativa do autor).
-
-### Execução
-- Auditoria RC-694–701 contra o STT integral: **8/8 confirmados** (+ ~120 termos anteriores coerentes).
-- **25 fichas ampliadas** (seção "Ampliação — P2025-02-16"): destaques — **Mão Invisível/Conselho das Nagas** (palestra "a pedido deles"; RC-697); **cessão consciente do DNA** (2018–2021; desmistifica abduções; RC-698); **fatiamento Brahma/Vishnu = um espírito** (RC-604); **Krishna adármico** (RC-414); **5 linhagens de Kashyapa + 13 filhas de Daksha** (RC-700/701); genealogia completa (RC-696/664/585/581/582).
-- 2 termos sem ficha (RC-544, RC-387) → registro na Colecionar Incertezas.
-- **31 relações novas**; 13 campos relacionados enriquecidos.
-- Base: **770 termos · 1.737 relações** (+31) — `OK: 770 termos, 1737 relações — dados válidos.` · RC-771 preservado.
-- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-OITAVO-DIA.py`.
-
-### Colecionar Incertezas (itens novos)
-"Vmo" (Mohen So); "Mavátima" (Mavatma); "Ophiucus/Ostrogonos" (Ofiúco); "quimpurchas" (Kimpurushas); "valaquilias" (Valakhilyas); "maroraga" (Maharaga); "Tiis" (TIs); "demobiol"; "O Drama Cósmico de Javé" = B001 confirmado.
-
-### Apostila (18ª do acervo)
-- `apostila.md` (12.250 palavras; 12 PARTES + glossário A–D; **PARTE XI — Perguntas da Plateia isolada** com 4 intervenções; nota editorial com quarentena TIs/reptilianos); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-02-16_oitavo_dia_criacao_novo_ser_humano/`.
-- Índices sincronizados.
-
-**Estado:** 770 termos · 1.737 relações · RC-771 livre · 407 fichas · 80 obras · **18 apostilas concluídas**.
-
----
-
-## Ciclo de Curadoria + Apostila — P2025-02-15 Você, a Camuflagem da Realidade e os Postulados Quânticos (19/08/2026)
-
-**Re-curadoria** (repassada de palestra já vista). Devolutiva C-1..C-5 do curador (via Assistente): auditoria aprovada; ~24 ampliações aprovadas; **zero códigos novos** (base em 770); apostila autorizada; quarentenas científico/teológico/clínico confirmadas.
-
-### Execução
-- Auditoria RC-702–713 contra o STT integral: **12/12 confirmados** (base madura).
-- **25 fichas ampliadas** (seção "Ampliação — P2025-02-15"): destaques — **Maia = arquiteto dos asuras** que mantém a camuflagem (RC-702); **eu humano = pérola > espírito** (RC-704); **Tikun = conserto da obra e do criador** (RC-514/713); **Bhavanga/janela pela respiração** (RC-706); **5 elementos/informação** (RC-707); "finalize em você mesmo" (RC-705); Wyrd como vínculo (RC-658).
-- **24 relações novas**; 9 campos relacionados enriquecidos.
-- Base: **770 termos · 1.761 relações** (+24) — `OK: 770 termos, 1761 relações — dados válidos.` · RC-771 preservado.
-- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-CAMUFLAGEM.py`.
-
-### Colecionar Incertezas (itens novos)
-"Tat" (quem encomendou a pesquisa); "arrancara" (mecanismo do loop mental); "bavanga" (bhavanga); "sanscara/vasana" (saṃskāra/vāsanā); "cundaline" (kundalini); "25.869 × 28.869 genes"; levitação do autor [não validado].
-
-### Apostila (19ª do acervo)
-- `apostila.md` (12.770 palavras; 12 PARTES + glossário A–D; **PARTES V/IX/XII com plateia isolada** — Bárbara, Fernando, Gerald e anônimos; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2025-02-15_camuflagem_realidade_postulados_quanticos/`.
-- Índices sincronizados.
-
-**Estado:** 770 termos · 1.761 relações · RC-771 livre · 407 fichas · 80 obras · **19 apostilas concluídas**.
-
----
-
-## Ciclo de Curadoria + Apostila — P2024-11-30 Morus e os Arquivos do Destino Universal (19/08/2026)
-
-**Re-curadoria** (repassada de palestra já vista). Devolutiva M-1..M-6 do curador (via Assistente): auditoria aprovada; ~25 ampliações aprovadas; **zero códigos novos** (base em 770); M-4: "Morus" = variação do título (canônico Moros/RC-454); apostila autorizada; quarentenas científico/teológico/histórico confirmadas.
-
-### Execução
-- Auditoria RC-714–720 contra o STT integral: **7/7 confirmados** (base madura).
-- **24 fichas ampliadas** (seção "Ampliação — P2024-11-30"): destaques — **trajetória completa de Moros** (perseguição pela Trimurti; divisão 25%×3 Moiras + 25%; 3 setas atemporais; RC-454); **Moros reencarnado como Vyasa** (RC-585); **Três Faíscas da Consciência** (RC-719); **maldição dos munis → Hiranyakashipu→Ravana→Dantavakra** (RC-582); **Wyrd fora da jurisdição da Trimurti/Krishna** (RC-658); **Moron/Phanes/Protogonos** (RC-282); Krishna/Gandhari (RC-414).
-- 1 termo sem ficha (RC-529) → registro na Colecionar Incertezas.
-- **29 relações novas**; 12 campos relacionados enriquecidos.
-- Base: **770 termos · 1.790 relações** (+29) — `OK: 770 termos, 1790 relações — dados válidos.` · RC-771 preservado.
-- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-MORUS.py`.
-
-### Colecionar Incertezas (itens novos)
-"Morus" (variação do título; canônico Moros); "Ananké" (STT Ank/Nanc); "Moron" (Phanes/Protogonos); "Danta vacra/Chile Chupa" (Dantavakra/Shishupala); "Call Schauardes de Child" (Karl Schwarzschild); "Súdices" (Parcas?); "Planetolândia de Cagen" (Flatland); "Jaya/Vijaia" (Jaya/Vijaya); "Sanata Kumara" (Sanaka Kumara).
-
-### Apostila (20ª do acervo)
-- `apostila.md` (14.300 palavras; 12 PARTES + glossário A–D; **PARTE XI — Perguntas da Plateia e da Internet isoladas** — Bruno 2D/3D, Ivan Krishna/samsara, Ifá/odus, Mentalma; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-11-30_morus_arquivos_destino_universal/`.
-- Índices sincronizados.
-
-**Estado:** 770 termos · 1.790 relações · RC-771 livre · 407 fichas · 80 obras · **20 apostilas concluídas**.
-
----
-
-## Ciclo de Curadoria + Apostila — P2024-11-09 O Abismo da Consciência Cósmica (19/08/2026)
-
-**Re-curadoria** (repassada de palestra já vista). Devolutiva A-1..A-6 do curador (via Assistente): auditoria aprovada; ~24 ampliações aprovadas; **zero códigos novos** (base em 770); B065 confirmado; apostila autorizada; quarentenas científico/teológico/histórico confirmadas.
-
-### Execução
-- Auditoria RC-721–727 contra o STT integral: **7/7 confirmados** (base madura).
-- **22 fichas ampliadas** (seção "Ampliação — P2024-11-09"): destaques — **implosão do eu de Javé (2021) → buraco negro mental** (RC-717); **Pistis Sophia/Ennoia** e o "corpo tombado de Prabrajna" (RC-530/152); **buracos negros como defeito da criação e vórtice mental** (RC-717); **ilhas de negentropia / ser humano como ponto de luz** (RC-725); **faces do abismo** (Deus "majestosa inutilidade"; Krishna; Jesus; Sai Baba — RC-723/414/072/425); **banalidade do mal** (Arendt/Eichmann; RC-722); **Moren/Projeto Talm** (RC-282/091).
-- 3 termos sem ficha (RC-162, RC-385, RC-425) → registro na Colecionar Incertezas; RC-722 ampliado manualmente (reforço banalidade do mal).
-- **22 relações novas**; 8 campos relacionados enriquecidos.
-- Base: **770 termos · 1.812 relações** (+22) — `OK: 770 termos, 1812 relações — dados válidos.` · RC-771 preservado.
-- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-ABISMO.py`.
-
-### Colecionar Incertezas (itens novos)
-"Charon" (físico — provável Georges Charpak); "Arendit/Harem" (Arendt/Eichmann); "Niet" (Nietzsche); "Moren" (Phanes/Protogonos); "projeto Town" (Projeto Talm); "positelétron" (pósitron); "Pinoia" (Ennoia); "implosão do eu de Javé em 2021" (cronologia interna).
-
-### Apostila (21ª do acervo)
-- `apostila.md` (12.200 palavras; 12 PARTES + glossário A–D; **sem bloco de plateia** — apenas pergunta citada no meio; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-11-09_abismo_consciencia_cosmica/`.
-- Índices sincronizados.
-
-**Estado:** 770 termos · 1.812 relações · RC-771 livre · 407 fichas · 80 obras · **21 apostilas concluídas**.
-
----
-
-## Ciclo de Curadoria + Apostila — P2024-09-29 A Aristocracia Olimpiana e as Monarquias Terrestres (19/08/2026)
-
-**Re-curadoria** (repassada de palestra já vista). Devolutiva O-1..O-5 do curador (via Assistente): auditoria aprovada; ~14 ampliações aprovadas; **zero códigos novos** (base em 770); apostila autorizada; quarentenas político/histórico/ufológico confirmadas.
-
-### Execução
-- Auditoria RC-736–741 contra o STT integral: **6/6 confirmados** (base madura).
-- **14 fichas ampliadas** (seção "Ampliação — P2024-09-29"): destaques — **Amaterasu = Atena** (RC-738); **Susanoo = Poseidon** (RC-739); **classificação japonesa** (takamimusubi primordiais × amatsukami × Kami = geração de Zeus; RC-740); **genealogia imperial completa** (Kojiki/Nihon Shoki; Izanagi/Izanami; Ninigi; Jinmu; Suiko; os "faltantes"; RC-737); **Parashara e a astrologia védica** (RC-585); **imperador Yu** (dragões aquáticos; RC-740/664); **colapso do corpo de Javé e o "sono de Brahma"** (RC-717); **regra "o que você faz volta"** (RC-559).
-- **18 relações novas**; 7 campos relacionados enriquecidos.
-- Base: **770 termos · 1.830 relações** (+18) — `OK: 770 termos, 1830 relações — dados válidos.` · RC-771 preservado.
-- Backup: `reconstrucao/backups/dados_termos_2026-08-19_PRE-CICLO-OLIMPIANAS.py`.
-
-### Colecionar Incertezas (itens novos)
-"Amaterasu deixou de existir em abril [2025?] e deve nascer como humana" [cronologia]; "Poseidon continua lá"; "os oito imperadores faltantes"; "vivos embaixo d'água"; "movimento woke" (quarentena política); imperador Yu filho de dragões aquáticos.
-
-### Apostila (22ª do acervo)
-- `apostila.md` (11.900 palavras; 12 PARTES + glossário A–D; **PARTE X — Perguntas da Plateia isolada** — o criador assimilando os males; notas editoriais com quarentenas explícitas); DOCX gerado; pasta em `apostilas/CONCLUIDAS/2024-09-29_aristocracia_olimpiana_monarquias/`.
-- Índices sincronizados.
-
-**Estado:** 770 termos · 1.830 relações · RC-771 livre · 407 fichas · 80 obras · **22 apostilas concluídas**.
+"Vatirec

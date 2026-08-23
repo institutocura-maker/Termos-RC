@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): sétimo livro da escala seletiva (após B019, B011, B052, B043, B013, B014).
+PDF entregue em uploads_recepcao/ pelo curador (push fe31573 no branch da sessão).
+Obra já na BIBLIO como B016 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+25 termos já citam B016; 15 com ficha. Núcleo: RC-092 Quarto Logos / RC-252 Olm.
+Grafia do livro: Zion. Canônico: Zian. Quarentena política (2016) e biográfica (infarto).
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

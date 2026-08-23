@@ -1,0 +1,21 @@
+{
+  "obra": "B016",
+  "titulo": "O Quarto Logos",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2017",
+  "pdf_creditos": "Conectar Editora / 1ª ed. 2017 Natal-RN / ISBN 978-85-62411-37-3",
+  "divergencia_edicao": "ISBN do PDF ainda não está na BIBLIO; CIP sem contagem de páginas; CIP declara psicografia",
+  "fonte_upload": "uploads_recepcao/O Quarto Logos - Jan Val Ellam.pdf",
+  "bytes_pdf": 1772619,
+  "sha256_pdf": "bee21994489bf64b291022287597837df6e227213905e437d1a3e20638c0687a",
+  "paginas_pdf": 217,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 490931,
+  "sha256_original_txt": "63b16bfd238603b50bba2192e997901007253f25839e0b1788f19a13e2ff1f53",
+  "palavras_approx": 77252,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada",
+  "codigos_consumidos": 0
+}
