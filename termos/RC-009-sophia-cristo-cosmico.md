@@ -108,6 +108,16 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B014 p. 83–85]** o Cristo Cósmico se faz Jesus; o “homem Jesus” “saiu-se bem mais complexo e sofisticado” do que Sophia, os Aya e Javé esperavam; experiência de “extremo estresse”.
 - **Quarentena teológica:** forma gloriosa / Cristo Cósmico / Suserano = leitura de Ellam. IEEA/Orbum **fora**. RC-076/279/280 permanecem **sem ficha**.
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 5]** Sophia = “avatar antiquíssimo de Vishnu”; “parte demo e parte bio, assexuado”; “suserano universal”; “há pelo menos 5 bilhões de anos” — **cronologia em Colecionar Incertezas**.
+- **[B016 p. 5]** Jesus = “expressão humana de Sophia.”
+- **[B016 p. 107]** o “corpo glorioso” / “corpo cósmico” a que Jesus se referiu “era o de Sophia.”
+- **[B016 p. 110]** Sophia na “forma majestosa”, “sob a qual, implicitamente, a condição humana de Jesus se encontrava”; “Cristo Cósmico” / “forma gloriosa.” Emanuel/Chico (*A Caminho da Luz*) = **referência externa, não ontologia**.
+- **[B016 p. 125]** “A volta de Jesus como Sophia, ou seja, a sua face de ‘Cristo Cósmico’ — o do ‘corpo glorioso’.”
+- Sem fusão com B014. IEEA/Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

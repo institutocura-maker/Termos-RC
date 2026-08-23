@@ -17,6 +17,14 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **Grafia preferida:** Liberdade Mental
 - **Variações:** liberdade de pensamento; crivo lógico da razão; livre-arbítrio (aproximação)
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 147]** 38ª Constatação: os três primeiros Logos “sempre trabalharam a partir da premissa básica e comum da dominação” (Brahma, Vishnu, Shiva).
+- **[B016 p. 147]** o Quarto Logos “rompe com esta premissa e estabelece outra bem diferente: fora da ‘liberdade mental’ não parece existir ‘salvação’”; “Por que a liberdade é essencial? Para que possa haver correção de rumos!”
+- **[B016 p. 147]** “a crença em que ‘Deus cuida de nós’ solapa qualquer possibilidade de crivo lógico da parte da razão humana.”
+- RC-254 (Dominação) permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -17,6 +17,15 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - **Grafia preferida:** Javé sem avatares
 - **Variações:** "Não tenho isto!" (declaração); Javé sem expressões Adhyajna; singularidade de Javé
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 5]** “o Criador Brahma, ou Javé, não consegue se expressar por meio de avatares devido à sua ‘queda’.”
+- **[B016 p. 48]** “Como o Primeiro Logos — Brahma/Javé —, não podia gerar avatares, os dois outros Logos foram obrigados a criar tipos especiais desses seres.”
+- **[B016 p. 185]** jamais produziu Adhyajna; permanece no brahmaloka.
+- A fórmula “Não tenho isto!” é de B036 — **não** interpolar como fala deste PDF. Aqui só a impossibilidade estrutural.
+- **Quarentena teológica.**
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -22,6 +22,15 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 
 - **[P2024-08-03] "O velho codificador" (U1463–U1466):** "há um desconhecido que é o que eu chamo de quarto logos nos livros que escrevo, que é o velho codificador"; a compreensão de quem ele é passa pela Ogdóade e pela "rebelião de Lúcifer" [STT: "Yel Luzbel"] — "em termos do que a gente pode contar na ótica terrena".
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 17]** “Sophia e o Codificador de Zion são os dois seres” com quem o autor convive neste ciclo de esclarecimento.
+- **[B016 p. 101]** “Assim se expressou o ‘Codificador de Zion’, que se identificou como Olm”; convite a uma escola de “agentes esclarecidos da busca da verdade” no sistema de Capela — **quarentena ufológica**.
+- **[B016 p. 102]** “O espiritismo, adrede engendrado para ser uma expressão do Quarto Logos, foi abraçado pelas características do Terceiro Logos, porquanto inevitável.”
+- **[B016 p. 107]** assinatura “Olm.”; “Velho Codificador de Zion”; mensagem recolhida após o fim da Trimurti (2º semestre de 2015).
+- RC-255 / RC-256 permanecem **sem ficha**. Zion = variação de Zian.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

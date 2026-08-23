@@ -66,6 +66,16 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[B014 p. 204]** Sophia e o Quarto Logos: o autor não aplaude as “providências” dos Logos Criadores; reconhece o “drama”.
 - RC-281 (Agentes do Quarto Logos) permanece **sem ficha**. Sem fusão com B016.
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 70]** 27ª Constatação: o Quarto Logos “não tem e nem terá igreja, templo, centro de culto, sacerdotes, cobradores de pedágio ou qualquer tipo de autoridade investida”; “todo e qualquer ‘ser cósmico esclarecido’ é o ‘sujeito’ da sua construção.”
+- **[B016 p. 101]** o “Codificador de Zion” “se identificou como Olm” na mensagem recebida pelo autor.
+- **[B016 p. 107]** “Olm” = nome (ou algo que a isto se assemelhe) do “Velho Codificador”; o “corpo glorioso” prometido por Jesus “era o de Sophia.”
+- **[B016 p. 147]** a consciência que personifica o Quarto Logos “já atuou, neste mundo, como Apolônio de Tiana”; “viveu ao tempo de Jesus, tendo nascido antes dele e morrido bem depois da sua crucificação”; “encarnação-teste.”
+- **[B016 p. 161]** mesmo antes de Apolônio, Sidarta e Lao Tse já ofertavam o concurso do processo; agentes do Quarto Logos acumulam conhecimento e se libertam da ignorância.
+- Grafia do livro: **Zion**. Canônico: **Zian**. Variação, sem código novo. Sem fusão com B014.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

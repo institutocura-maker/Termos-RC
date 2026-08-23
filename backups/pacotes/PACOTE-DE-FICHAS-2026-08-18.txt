@@ -12,10 +12,10 @@
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
-# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 3300 | 60 | e8ddd1afff54793fb0fe3b720266cac29d2c5f86e4e197694db9b1e0a05d393c
+# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 3739 | 67 | 95214315a4c897b3e2775a112ae2938c39d69deacb76f1858b2f6a0b07f25edc
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
-# termos/RC-009-sophia-cristo-cosmico.md | 23874 | 204 | 8f6affe178ade9088a356a0e7ef484c73fc152688926b52fd088e94df2cd43c6
+# termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 2270 | 44 | 7e7c91755cdac301a21a5a2dfeccf30a2b7f5a296342d852adb7b46f61a418fb
@@ -36,7 +36,7 @@
 # termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
 # termos/RC-091-projeto-talm.md | 9428 | 91 | ebf32941573852dc88cdd44b35103b37dd5db558631743060dcd7a666f4b2f3f
-# termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 13521 | 137 | 008f83aba31fd3cdbc4f4e1836f0a23d9f10aae4440da84452a2b7badc7a52c3
+# termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 7395 | 79 | 5032afdfa5b46599f4c7c2ade30f6c15e4199c73c0ea4eace3cd2adff6338127
 # termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
 # termos/RC-104-trimurti.md | 9743 | 101 | 58ffa55de0a1ca9c09373bbbf9d6872dd9bcc68477e19128f4c958b54f31eee4
@@ -80,11 +80,11 @@
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 4018 | 53 | 4b64bfa51772d99be0e80d387bdd3f0ef12ea17480c5d083729c19e501ec345a
 # termos/RC-243-genetica-da-confianca.md | 2626 | 41 | cee8949465b59e78f3e61fe601b6f6f9ac69c725bee6fe041dc7647e817e3c2d
 # termos/RC-245-a-humanizacao-do-criador.md | 2844 | 42 | ffdd6724d4a0a074a36bdd81b5da3a2f78b56ecd90efd5a3dc1c1bd9a95eb346
-# termos/RC-252-olm-codificador-de-zion-zian.md | 3787 | 56 | 6014c210178f013bbeb05da41ec023523f6c8826d080790f1caf2fd6ba46bed3
-# termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 3452 | 50 | 69f480be29e45158391dd5af57ac4e65a72cdc41e9aa480e3dbffd99f74821e2
-# termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 2722 | 41 | fe0d3382a251cfe845c2e47f69a8bf0ac7e16955d2a32691b4902e159f122ee9
-# termos/RC-259-apolonio-de-tiana-encarnacao-do-quarto-logos.md | 3656 | 59 | 501e0f168de8a869560eeed31de81c8da11488ed9b625953ba8f6f6e2299840b
-# termos/RC-260-prisioneiros-da-brahmaloka.md | 3052 | 43 | 467486858b389f4e86eb018db43376ef5d90b1fd804b436d5984961c88ab02d0
+# termos/RC-252-olm-codificador-de-zion-zian.md | 4581 | 65 | e8a1c5fae995a48b7386cb63773866e00dbb76f1a1aff43704baf2ce934c6a3f
+# termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4103 | 58 | 4e6e8a3fadb831cdb5fb73d914d2c47cd92a4a13b50f6af3e423f33fa1e1540a
+# termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 3389 | 48 | 756831c2226008c6a7bc8338336d53c20d195e902f29c45af49ddbca8a4d783d
+# termos/RC-259-apolonio-de-tiana-encarnacao-do-quarto-logos.md | 4404 | 67 | 17fff3346d1735dd52f81a562c4c25de4bcc5845f188c9cf49190325749085a9
+# termos/RC-260-prisioneiros-da-brahmaloka.md | 3686 | 52 | b5e1c23154f8a633d6e9cbfaf629dc7cdd69a1dedce67440ff13308862ca66b8
 # termos/RC-261-kether-jave-na-cabala.md | 4390 | 63 | 2eb34560e9e76d398176d8b0258a0c8108c6b2ab7e29396924d713f77b96ece8
 # termos/RC-262-daath-a-criacao-na-cabala.md | 3159 | 53 | 26dd9484135f016235b28feb285492e4381d2a78a63e30f1d5c7697382320f26
 # termos/RC-263-sefirot-arvore-da-vida.md | 5384 | 64 | 130503d49d66c9d3d8e0a86b2100548aaf35818b416da5d49d1fee4361c313c0
@@ -151,7 +151,7 @@
 # termos/RC-421-as-memorias-de-jave-cronicas.md | 2634 | 42 | 56496b6de93fec2668c543bb658ac0f913eb570fe39183a95008895e05dc7320
 # termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 2641 | 41 | f61dd35b7dbe5b787b9d6669b1511ffe1f4186b0aa6159853f396672442d9a3e
 # termos/RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md | 4618 | 69 | 30696521f9cc1a48a09245dd8661e4762041b8ecf1352c8476d5ce7e3cbbfa71
-# termos/RC-426-jave-sem-avatares-nao-tenho-isto.md | 2983 | 50 | 5336e1a090b5d5048436d9bb157ccb72727e909bc3351c6ebda04b482dbc1e00
+# termos/RC-426-jave-sem-avatares-nao-tenho-isto.md | 3556 | 59 | 6363e52d464e2d27644a27b494dd94726efbb4a348f8c8b7254d284b1bcc769d
 # termos/RC-430-esporte-como-evolucao-da-guerra.md | 2657 | 41 | 99c8fd2efe04cd58594e55a6554d98c5f9e0f2cb7be4be5d8b4c7cdb4de4e2d6
 # termos/RC-433-forca-de-atracao-sexual-anterior-a-polaridade.md | 5084 | 55 | 8a8050103de445627a259f885340af628abb5c9aded34e0b0a142decc1ac510a
 # termos/RC-434-homoafetividade-resquicio-da-forca-original.md | 5677 | 62 | 04cf5eb5006b46be0c944c636e2a2dad778fd6c30c05a28988945033612e3c80
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1464939 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1471440 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -816,6 +816,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B014 p. 145]** a “forma cósmica de Jesus” que se apresentará “não seja o ‘Jesus efusivo e bem-humorado’ que muitos corações humanos endeusaram.”
 - **Quarentena teológica.** Evento terrestre de 2001 **fora** da ontologia (O-4 / O-7). Sem fusão com B012.
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 107]** cumprimento da promessa de Jesus de que “voltaria […] com o seu ‘corpo glorioso’”; esse corpo “era o de Sophia.”
+- **[B016 p. 125]** a volta “dar-se-á nos moldes anunciados”; Sophia “cumprirá o que a sua forma humana de Jesus revelou.”
+- **Quarentena teológica / ufológica:** “corpo extraterrestre” (p. 125) não vira fato. Sem fusão com B004.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -1059,6 +1066,16 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B014 p. 47]** capítulo: Sophia, o “Soberano Universal”.
 - **[B014 p. 83–85]** o Cristo Cósmico se faz Jesus; o “homem Jesus” “saiu-se bem mais complexo e sofisticado” do que Sophia, os Aya e Javé esperavam; experiência de “extremo estresse”.
 - **Quarentena teológica:** forma gloriosa / Cristo Cósmico / Suserano = leitura de Ellam. IEEA/Orbum **fora**. RC-076/279/280 permanecem **sem ficha**.
+
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 5]** Sophia = “avatar antiquíssimo de Vishnu”; “parte demo e parte bio, assexuado”; “suserano universal”; “há pelo menos 5 bilhões de anos” — **cronologia em Colecionar Incertezas**.
+- **[B016 p. 5]** Jesus = “expressão humana de Sophia.”
+- **[B016 p. 107]** o “corpo glorioso” / “corpo cósmico” a que Jesus se referiu “era o de Sophia.”
+- **[B016 p. 110]** Sophia na “forma majestosa”, “sob a qual, implicitamente, a condição humana de Jesus se encontrava”; “Cristo Cósmico” / “forma gloriosa.” Emanuel/Chico (*A Caminho da Luz*) = **referência externa, não ontologia**.
+- **[B016 p. 125]** “A volta de Jesus como Sophia, ou seja, a sua face de ‘Cristo Cósmico’ — o do ‘corpo glorioso’.”
+- Sem fusão com B014. IEEA/Orbum **fora**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2525,6 +2542,16 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[B014 p. 172]** capítulo dos agentes; o dharma demodhármico dos humanos seria “obediência aos desígnios de Javé” — leitura do autor, não norma.
 - **[B014 p. 204]** Sophia e o Quarto Logos: o autor não aplaude as “providências” dos Logos Criadores; reconhece o “drama”.
 - RC-281 (Agentes do Quarto Logos) permanece **sem ficha**. Sem fusão com B016.
+
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 70]** 27ª Constatação: o Quarto Logos “não tem e nem terá igreja, templo, centro de culto, sacerdotes, cobradores de pedágio ou qualquer tipo de autoridade investida”; “todo e qualquer ‘ser cósmico esclarecido’ é o ‘sujeito’ da sua construção.”
+- **[B016 p. 101]** o “Codificador de Zion” “se identificou como Olm” na mensagem recebida pelo autor.
+- **[B016 p. 107]** “Olm” = nome (ou algo que a isto se assemelhe) do “Velho Codificador”; o “corpo glorioso” prometido por Jesus “era o de Sophia.”
+- **[B016 p. 147]** a consciência que personifica o Quarto Logos “já atuou, neste mundo, como Apolônio de Tiana”; “viveu ao tempo de Jesus, tendo nascido antes dele e morrido bem depois da sua crucificação”; “encarnação-teste.”
+- **[B016 p. 161]** mesmo antes de Apolônio, Sidarta e Lao Tse já ofertavam o concurso do processo; agentes do Quarto Logos acumulam conhecimento e se libertam da ignorância.
+- Grafia do livro: **Zion**. Canônico: **Zian**. Variação, sem código novo. Sem fusão com B014.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5123,6 +5150,15 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 
 - **[P2024-08-03] "O velho codificador" (U1463–U1466):** "há um desconhecido que é o que eu chamo de quarto logos nos livros que escrevo, que é o velho codificador"; a compreensão de quem ele é passa pela Ogdóade e pela "rebelião de Lúcifer" [STT: "Yel Luzbel"] — "em termos do que a gente pode contar na ótica terrena".
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 17]** “Sophia e o Codificador de Zion são os dois seres” com quem o autor convive neste ciclo de esclarecimento.
+- **[B016 p. 101]** “Assim se expressou o ‘Codificador de Zion’, que se identificou como Olm”; convite a uma escola de “agentes esclarecidos da busca da verdade” no sistema de Capela — **quarentena ufológica**.
+- **[B016 p. 102]** “O espiritismo, adrede engendrado para ser uma expressão do Quarto Logos, foi abraçado pelas características do Terceiro Logos, porquanto inevitável.”
+- **[B016 p. 107]** assinatura “Olm.”; “Velho Codificador de Zion”; mensagem recolhida após o fim da Trimurti (2º semestre de 2015).
+- RC-255 / RC-256 permanecem **sem ficha**. Zion = variação de Zian.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5176,6 +5212,14 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **Grafia preferida:** Liberdade Mental
 - **Variações:** liberdade de pensamento; crivo lógico da razão; livre-arbítrio (aproximação)
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 147]** 38ª Constatação: os três primeiros Logos “sempre trabalharam a partir da premissa básica e comum da dominação” (Brahma, Vishnu, Shiva).
+- **[B016 p. 147]** o Quarto Logos “rompe com esta premissa e estabelece outra bem diferente: fora da ‘liberdade mental’ não parece existir ‘salvação’”; “Por que a liberdade é essencial? Para que possa haver correção de rumos!”
+- **[B016 p. 147]** “a crença em que ‘Deus cuida de nós’ solapa qualquer possibilidade de crivo lógico da parte da razão humana.”
+- RC-254 (Dominação) permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5228,6 +5272,13 @@ A afirmação integra a "Mensagem do Codificador de Zion": "Se antes a intençã
 - **Grafia preferida:** Espiritismo como Expressão do Quarto Logos
 - **Variações:** espiritismo = expressão do Quarto Logos; o espiritismo e o Quarto Logos; "espírito de Kardec" (reconceituação)
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 102]** (voz de Olm) “O espiritismo, adrede engendrado para ser uma expressão do Quarto Logos, foi abraçado pelas características do Terceiro Logos, porquanto inevitável.”
+- **[B016 p. 102]** a intenção era “disciplina esclarecedora, que fugisse do culto da fé e da crendice”; “a busca da verdade […] não pode ser substituída pela fé, que deveria ser tão somente um estágio.”
+- **[B016 p. 38–39]** Kardec: o espiritismo “para muito pouco serviria no futuro” se os postulados não se coadunassem com o avanço do conhecimento — leitura do autor; RC-190 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5270,6 +5321,14 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 ## Etimologia / Grafias
 - **Grafia preferida:** Apolônio de Tiana
 - **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
+
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 146]** capítulo em 1ª pessoa: “Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo.”
+- **[B016 p. 146]** Jesus usou o poder “não para submeter as pessoas, mas sim, para ajudar as mais frágeis”; contraste com o “Deus Bíblico”, que haveria destinado o messias a “dominar a humanidade em seu nome, só que pela força.”
+- **[B016 p. 147]** Apolônio = atuação da consciência do Quarto Logos; contemporâneo de Jesus; “encarnação-teste” — “não dele, nem do seu ego humano”, mas de um dos métodos do codificador.
+- **Quarentena histórico-religiosa:** Apolônio histórico ≠ validação acadêmica da leitura de Ellam.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5331,6 +5390,15 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 ## Etimologia / Grafias
 - **Grafia preferida:** Prisioneiros da Brahmaloka
 - **Variações:** presos no universo antimaterial; "morada" de Brahma; prisioneiros da criação
+
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 185]** “Brahma ou Javé jamais saiu da ‘morada’ que conseguiu gerar para si […] o seu ‘brahmaloka’, onde passou a viver.”
+- **[B016 p. 185]** por ter-se apartado da condição Adhyagia na queda, “Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna).”
+- **[B016 p. 185]** Savna/Tusavna mergulhou e edificou a expressão Adhydaiva Shiva; última Adhyajna humana: Sai Baba.
+- **[B016 p. 5 / 48]** só Vishnu e Shiva geram avatares; o Primeiro Logos “não podia gerar avatares.”
+- RC-014 / RC-016 / RC-038 permanecem **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -8867,6 +8935,15 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 ## Etimologia / Grafias
 - **Grafia preferida:** Javé sem avatares
 - **Variações:** "Não tenho isto!" (declaração); Javé sem expressões Adhyajna; singularidade de Javé
+
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 5]** “o Criador Brahma, ou Javé, não consegue se expressar por meio de avatares devido à sua ‘queda’.”
+- **[B016 p. 48]** “Como o Primeiro Logos — Brahma/Javé —, não podia gerar avatares, os dois outros Logos foram obrigados a criar tipos especiais desses seres.”
+- **[B016 p. 185]** jamais produziu Adhyajna; permanece no brahmaloka.
+- A fórmula “Não tenho isto!” é de B036 — **não** interpolar como fala deste PDF. Aqui só a impossibilidade estrutural.
+- **Quarentena teológica.**
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

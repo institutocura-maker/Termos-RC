@@ -17,6 +17,15 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 - **Grafia preferida:** Prisioneiros da Brahmaloka
 - **Variações:** presos no universo antimaterial; "morada" de Brahma; prisioneiros da criação
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 185]** “Brahma ou Javé jamais saiu da ‘morada’ que conseguiu gerar para si […] o seu ‘brahmaloka’, onde passou a viver.”
+- **[B016 p. 185]** por ter-se apartado da condição Adhyagia na queda, “Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna).”
+- **[B016 p. 185]** Savna/Tusavna mergulhou e edificou a expressão Adhydaiva Shiva; última Adhyajna humana: Sai Baba.
+- **[B016 p. 5 / 48]** só Vishnu e Shiva geram avatares; o Primeiro Logos “não podia gerar avatares.”
+- RC-014 / RC-016 / RC-038 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -34,6 +34,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B014 p. 145]** a “forma cósmica de Jesus” que se apresentará “não seja o ‘Jesus efusivo e bem-humorado’ que muitos corações humanos endeusaram.”
 - **Quarentena teológica.** Evento terrestre de 2001 **fora** da ontologia (O-4 / O-7). Sem fusão com B012.
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 107]** cumprimento da promessa de Jesus de que “voltaria […] com o seu ‘corpo glorioso’”; esse corpo “era o de Sophia.”
+- **[B016 p. 125]** a volta “dar-se-á nos moldes anunciados”; Sophia “cumprirá o que a sua forma humana de Jesus revelou.”
+- **Quarentena teológica / ufológica:** “corpo extraterrestre” (p. 125) não vira fato. Sem fusão com B004.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

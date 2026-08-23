@@ -1,6 +1,6 @@
 O corpus integral desta obra é o extract paginado:
 
-  livros/B016_o_quarto_logos/original.txt
+  livros/CONCLUIDOS/B016_o_quarto_logos/original.txt
 
 SHA-256 63b16bfd238603b50bba2192e997901007253f25839e0b1788f19a13e2ff1f53
 Não duplicar aqui (491 KB). Página 1 = [página sem texto extraível].

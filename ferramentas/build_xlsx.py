@@ -74,7 +74,7 @@ BIBLIO = [
     ["B015", "O Guardião do Éden", "—", "Conectar", "2017", "trabalhada",
      "OBRA PRIMÁRIA (120 págs PDF). 17 capítulos, narrativa de Zont En Drel 29. Éden como laboratório; genética da confiança; humanização do Criador."],
     ["B016", "O Quarto Logos", "—", "Conectar", "2017", "trabalhada",
-     "OBRA PRIMÁRIA (217 págs PDF). 9 capítulos + apêndices. Olm/Codificador de Zion; Liberdade Mental; espiritismo como expressão do 4º Logos."],
+     "OBRA PRIMÁRIA (217 págs PDF; 1ª ed. 2017 Natal-RN; ISBN 978-85-62411-37-3; CIP psicografia). 9 capítulos + apêndices. Olm/Codificador de Zion; Liberdade Mental; espiritismo como expressão do 4º Logos."],
     ["B017", "Terra Atlantis I: O Sinal de Land's End", "Livro 1/3", "Conectar", "2016", "trabalhada",
      "OBRA PRIMÁRIA — TRILOGIA TERRA ATLANTIS (185 págs; Gullan Greyl 23-01-2020; Val Eno 2002–03). 13 capítulos. Rebelião de Lúcifer; Ostronomos; Processador Val; Shamb-Aha."],
     ["B018", "Terra Atlantis II: A Frota Norte", "Livro 2/3", "Conectar", "2017", "trabalhada",

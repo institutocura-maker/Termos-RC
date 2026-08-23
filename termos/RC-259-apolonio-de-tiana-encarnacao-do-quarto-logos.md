@@ -17,6 +17,14 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 - **Grafia preferida:** Apolônio de Tiana
 - **Variações:** Apolônio (filósofo neopitagórico); encarnação do Quarto Logos
 
+
+## Ampliação — B016 (O Quarto Logos)
+
+- **[B016 p. 146]** capítulo em 1ª pessoa: “Costumo olhar para a humanidade com o mesmo padrão de compaixão que dedico a mim mesmo.”
+- **[B016 p. 146]** Jesus usou o poder “não para submeter as pessoas, mas sim, para ajudar as mais frágeis”; contraste com o “Deus Bíblico”, que haveria destinado o messias a “dominar a humanidade em seu nome, só que pela força.”
+- **[B016 p. 147]** Apolônio = atuação da consciência do Quarto Logos; contemporâneo de Jesus; “encarnação-teste” — “não dele, nem do seu ego humano”, mas de um dos métodos do codificador.
+- **Quarentena histórico-religiosa:** Apolônio histórico ≠ validação acadêmica da leitura de Ellam.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

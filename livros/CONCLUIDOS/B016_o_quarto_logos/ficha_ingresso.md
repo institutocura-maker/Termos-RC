@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B016 — O Quarto Logos
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Ciclo em `livros/B016_o_quarto_logos/` (fora de CONCLUIDOS). 0 códigos. BIBLIO intocada.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 9 fichas ampliadas (RC-092, RC-252, RC-259, RC-253, RC-257, RC-009, RC-005, RC-260, RC-426); 0 códigos. BIBLIO: ISBN 978-85-62411-37-3 + CIP psicografia (edição manual). Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 
