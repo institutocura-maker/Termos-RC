@@ -68,6 +68,15 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[P2026-07-30 — FONTE ORIGINAL] A conta dos oito seres e a Trimurti (Pergunta 2):** "dos oito seres primordiais só estariam atuando o espírito de Elm e Olm"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "aqui a gente resolve o problema da Trimurti, que são três seres relacionados aos dois espíritos" [ver também RC-610].
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 11]** Javé e os dois outros “Seres da Trimurti” se encontravam “doentes”; não podiam cuidar nem deles próprios — **quarentena clínica** (leitura, não diagnóstico).
+- **[B044 p. 13]** o “grande desencanto” ao qual Javé se referiu ao perder o controle sobre a “colmeia *Homo* terrestre”. Subtítulo da obra: *A Trimurti Desencantada*.
+- **[B044 p. 53]** 11ª Constatação: a Trimurti foi estabelecida entre aqueles três Seres — Brahma, Shiva e Vishnu — “quando comparados à lógica que hoje existe no psiquismo humano”. A analogia do “hospício” (p. 53) **não** vira diagnóstico.
+- **[B044 p. 55]** os três, em condição Adhydaiva, consumidos pelo exercício do poder autoatribuído; impasse que desemboca no Projeto Talm.
+- Fonte **B044** acrescentada na tabela-mestra. Sem materializar RC-014 / RC-135. Sem fusão com B022.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

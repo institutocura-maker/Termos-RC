@@ -38,6 +38,14 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 
 - **Pílula vermelha (P2025-02-15):** "a pílula azul é aquela que nos deixa agradável dentro do caos; a pílula vermelha desperta a gente para a consciência de que está no caos. E a partir daí é com o livre arbítrio, ou com o grau de inquietação ou de inconformismo de cada um."
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 19]** humanos livres, ao descobrirem a verdade, “podem não gostar da ‘pílula vermelha’ — uma alusão à trilogia cinematográfica ‘Matrix’”.
+- **[B044 p. 30]** deixar o “paraíso da robotização”, da “pílula azul” (Matrix), da “crença infantilizada, feita verdade”.
+- **[B044 p. 157]** a “pílula vermelha” convida à maturidade emocional, “aspecto primário da idade adulta espiritual” (fecho da entrevista; **não** ontologizar o fecho institucional).
+- Uso analógico (Matrix) — **não** termo técnico nem hipótese de simulação. IEEA/Orbum **fora**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

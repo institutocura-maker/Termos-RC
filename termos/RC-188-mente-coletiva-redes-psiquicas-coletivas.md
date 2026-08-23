@@ -22,6 +22,13 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 
 - **Mente Coletiva (P2024-11-09):** "os campos memoriais que se transformam às vezes em inconsciente coletivo, como os arcanos" — a rede neural de consciência do planeta (ver RC-724).
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 86]** o primeiro modelo existencial implementado pela mente de Javé, envolvendo ele e os anjos-clones, foi o da “mente coletiva”, só que sob o seu controle.
+- **[B044 p. 127]** o universo, por meio da sua recém-nascida “Mente Coletiva”, assim agiu para poder sobreviver (deslacre do sistema de controle dos agentes da vida).
+- Sheldrake (p. 127) = hipótese citada, **não** ontologizada. Distinguir mente coletiva natural × controle Colmeia (já na ficha). Sem fusão com B041.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

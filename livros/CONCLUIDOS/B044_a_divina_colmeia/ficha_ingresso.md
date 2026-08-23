@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B044 — A Divina Colmeia
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Pasta fora de `CONCLUIDOS/`.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 9 fichas ampliadas (RC-174, RC-175, RC-176, RC-179, RC-091, RC-188, RC-001, RC-104, RC-192); 0 códigos. B044 nas fontes de RC-104. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

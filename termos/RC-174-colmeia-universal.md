@@ -17,6 +17,15 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 - **Grafia preferida:** Colmeia Universal
 - **Variações:** Colmeia (geral); Colmeia Trimurtina (a colmeia original do universo demo); a "Colmeia" de Javé
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 5]** “A Divina Colmeia” se apresenta como a descrição da “forma-modelo” jamais compreendida de como Javé — o criador universal — se relaciona com suas criaturas.
+- **[B044 p. 39]** os dois “grandes favos” que compõem a “Colmeia” gerada pela mente do Criador: um planejado (o universo em que vivemos) e o outro improvisado no momento da “queda” (universo paralelo, onde vivem demos e anjos-clones). RC-178 permanece **sem ficha**.
+- **[B044 p. 96]** se o Criador tivesse que escolher um lema para sua “Colmeia Universal”, seria *Pluribus unum* — “grau de egoísmo e de cruel frieza” com que vem se reconstruindo. RC-181 permanece **sem ficha**.
+- **[B044 p. 127]** nova etapa da “velha e decadente Colmeia Universal”, quando as “Abelhas-rainhas” aprenderão também a servir a propósitos nobres da coletividade que elas mesmas geraram.
+- Remissão a B041 (p. 127) = **não fundir**. IEEA/Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

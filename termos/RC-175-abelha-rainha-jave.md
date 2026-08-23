@@ -16,6 +16,15 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 - **Sophia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico também se aplica ao séquito de Sophia (RC-009), no contexto do relógio messiânico (RC-765);
 - A metáfora reforça o padrão de domínio (RC-764) e a estrutura de comando cósmico (RC-176).
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 13]** 3ª Constatação: um Ser entronizado como “Abelha-rainha”, único a poder ter qualquer vontade; os demais = “ferramentas” ou “operários robotizados”.
+- **[B044 p. 13]** 4ª Constatação: a humanidade escapou da destinação de se tornar parte de uma grande “colmeia”, tendo Javé na função de “abelha-rainha”.
+- **[B044 p. 96]** a “Abelha-rainha” (Javé), nesses últimos tempos, teve que se “aposentar” da função, mas não da posição estratégica de continuar a ser alimentada pelos esforços e méritos alheios.
+- **[B044 p. 127]** os velhos mecanismos de controle das “Abelhas-rainhas” deixam de surtir efeito sobre terráqueos esclarecidos.
+- **Quarentena clínica:** “dementada” (p. 97) é leitura filosófica do autor, **jamais** diagnóstico. Encontro 2010 / dor corporal = **biográfica**, fora da ontologia.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

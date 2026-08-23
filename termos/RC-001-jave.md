@@ -68,6 +68,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B043 p. 63–64]** “o pai desta humanidade foi confundido com o Pai Celestial, o que não poderia mesmo ser diferente. Passou, entretanto, a ser o deus de um único povo e o Pai Celestial o é de todos os filhos da sua casa universal”; o deus dos judeus “é pai de todos os humanos” e usa o povo “como veículo… de redenção”.
 - **Quarentena teológica:** leitura do romance, não exegese. Pai Incognoscível absorvido aqui e em RC-072 — **sem código novo**. IEEA/Orbum **fora**. Fonte **B043** acrescentada na tabela-mestra.
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 5]** a obra descreve a “forma-modelo” de como Javé se relaciona com suas criaturas.
+- **[B044 p. 12]** “Mesmo o Deus Incognoscível também parece nunca ter cuidado dos humanos” — absorvido aqui (padrão B043); **sem código novo**.
+- **[B044 p. 13]** 4ª Constatação: destinação escapada = colmeia com Javé como abelha-rainha; ocidente = “Javé bíblico”; oriente demodhármico = “Brahma”.
+- **[B044 p. 96–97]** aposentadoria da função (não da posição); humanos criados como “criaturas-ferramentas” / “abelhas-operárias”; empreitada que malogrou desde o início.
+- **Quarentena clínica:** “câncer” do corpo (p. 9), “doentes”, “demência” (p. 97) = leitura do autor, **jamais** diagnóstico. Encontro 2010 = biográfica. Política (p. 19, 123, 145) **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

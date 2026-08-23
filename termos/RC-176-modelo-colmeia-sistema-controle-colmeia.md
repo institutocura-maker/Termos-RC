@@ -22,6 +22,15 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 
 - **[P2024-07-13] O sistema colmeia falindo (U1400–U1420):** "compreenda: uma abelha rainha com suas abelhas operárias convivem do mesmo jeito que Javé sempre conviveu com os anjos clones. Um manda, o resto obedece... esse resto aqui nem tem individuação, eles são só robôs"; "por que é que o sistema colmeia está falindo no nosso mundo? Porque o sistema colmeia faliu lá: a Trimurti colapsou também. Então, Javé lidava com os anjos de um jeito; como isso aqui faliu, o sistema que vem importado de lá para cá, para criar vida biológica, o mesmo sistema faliu no lado de cá. E vários sistemas estão falindo nos dois lugares"; "é preciso nós aprendermos a reconstruir ou construir outros novos sistemas... de interação, de convivência, de coexistência de seres vivos".
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 15]** o “modelo colmeia” já vigia entre Javé e os seus anjos-clones no Brahmaloka; dele veio o código “apodrecido” conhecido como DNA — **quarentena científica**.
+- **[B044 p. 50]** o “sistema colmeia”, mesmo desligado em algumas espécies, permanece com efeitos ancestrais; o chamado “DNA-lixo” esconde essas receitas — **quarentena científica**; RC-542 permanece **sem ficha**.
+- **[B044 p. 54]** 12ª Constatação: as sequências do código-fonte referentes ao “sistema colmeia” produziram efeitos nas espécies biológicas deste universo.
+- **[B044 p. 86]** primeiro modelo existencial de Javé com os anjos-clones = “mente coletiva” sob o seu controle; com o homem, a liberdade passou a ser essencial.
+- **[B044 p. 104]** o “controle colmeia” foi completamente “destravado” pelos humanos terrestres. RC-180 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

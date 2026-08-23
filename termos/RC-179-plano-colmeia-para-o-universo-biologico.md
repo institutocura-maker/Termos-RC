@@ -17,6 +17,13 @@ O "Plano Colmeia" é o elo entre a Colmeia Universal (RC-174) e o Projeto Talm (
 - **Grafia preferida:** Plano Colmeia
 - **Variações:** Plano Colmeia I (no CIP, referente ao Universo Biológico); recriação da "Colmeia Trimurtina" em moldes biológicos
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 63]** quando os “Seres da Trimurti” consideraram inevitável a transferência do código do psiquismo e da consciência demo (demodhármica / trimurtiana) para o universo biológico, o planejamento foi chamado de “Projeto Talm”.
+- **[B044 p. 63]** a intenção sempre foi recriar a “Colmeia Trimurtina” nos moldes biológicos; os terráqueos são a face mais moderna do Projeto Talm.
+- Sheldrake / campos mórficos (p. 63–64) = **referência externa**; RC-381 permanece **sem ficha**. Insectoides (p. 63) = **quarentena ufológica**; RC-187 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

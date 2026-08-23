@@ -49,6 +49,13 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 - **[ART-2025-08-02/03 — material do curador] O acrônimo expandido e a epopeia (ART-02; ART-03):** "o Projeto TALM, acrônimo para 'Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material', é o epicentro desta cosmovisão; ele foi elaborado há aproximadamente 7,5 a 7,7 bilhões de anos, como uma tentativa desesperada da Trimúrti de salvar a vida e o próprio Criador de uma iminente 'falência' no universo antimaterial"; "o objetivo supremo era transformar o 'nidana' — o código-fonte primordial da vida que carregava as marcas psíquicas dos seres 'doentes' — em 'saccidanandhagana', um estado de êxtase e bem-aventurança"; "a essência dessa transmutação residia na manipulação do 'nidana'... visava 'aniquilar certas ordens algorítmicas' do código 'doentio' original de Brahma e 'amortecer' o problema da 'podridão original'"; "recriar a 'Colmeia Trimurtina' em moldes biológicos"; "a primeira replicação do 'nidana' no universo material ocorreu dentro de um 'casulo', um pequeno 'artefato autorreplicador' construído com os elementos químicos disponíveis"; "é nesse ponto que, conforme Allan Kardec, no 'Livro dos Espíritos', surgem os 'espíritos simples e ignorantes'" [referência externa]; **acrônimo expandido registrado pela 1ª vez na base**; datas [REVISAR — conferir B050].
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 55]** a principal causa do desassossego da Trimurti, enquanto a vida se manteve no universo demo, foi a ausência de resultados animadores; todos os engendrados surgiam “doentes”, ainda que poderosos — **quarentena clínica** (leitura, não diagnóstico).
+- **[B044 p. 55]** Brahma, Shiva e Vishnu (condições Adhydaiva) se autoatribuíram poder das personalidades anteriores — Prabrajna, Savna e Mavatna (Adhyatman). RC-013 / RC-014 permanecem **sem ficha**.
+- **[B044 p. 63]** o planejamento da transferência = “Projeto Talm”; recriar a Colmeia Trimurtina no biológico. Sem cadastrar B045.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

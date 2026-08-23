@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 15662 | 155 | 7aebcf34532a3286386bd4df47e9a81bd2134c9a2b1239fa739c7c33889165fb
+# termos/RC-001-jave.md | 16534 | 164 | c2c957a5601afbfa4a46227ed78408fe13f16c7cb80a0f13a4d45dd6301a913a
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -35,11 +35,11 @@
 # termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 10351 | 105 | d275e135defc6a27a5c86c618b44566726c64565c842c9beaadfeb3e5f293f9d
 # termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
-# termos/RC-091-projeto-talm.md | 9428 | 91 | ebf32941573852dc88cdd44b35103b37dd5db558631743060dcd7a666f4b2f3f
+# termos/RC-091-projeto-talm.md | 10094 | 98 | 180e8648d97b216a2ae7d84996069a35df2e36b5df3ee7a8c00b76f8f3b51929
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 7395 | 79 | 5032afdfa5b46599f4c7c2ade30f6c15e4199c73c0ea4eace3cd2adff6338127
 # termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
-# termos/RC-104-trimurti.md | 9743 | 101 | 58ffa55de0a1ca9c09373bbbf9d6872dd9bcc68477e19128f4c958b54f31eee4
+# termos/RC-104-trimurti.md | 10670 | 110 | 58ec67d5a50fe68b4cd4f8eec2acf1ae5af782b9f2c635b11e279af8a30381a4
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -56,12 +56,12 @@
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
 # termos/RC-167-criacao-indevida-obra-indevida.md | 5184 | 78 | c015363c687a45f4fe0590205bf6cfca5d41947bedda9a2e721325fb54408301
-# termos/RC-174-colmeia-universal.md | 3299 | 46 | 54174331ef121816675146bc4ea4a359cfc5ec91c4940dc239835fe4498ec558
-# termos/RC-175-abelha-rainha-jave.md | 2033 | 46 | ac679335c8f1ec03f6f49a805db47c782a6860d78475e8692143c42f1fadf631
-# termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 6309 | 82 | 3fc803707625eeaeadea7dfb35b27063336b82ddf0da66ee08b325933e8c2a09
-# termos/RC-179-plano-colmeia-para-o-universo-biologico.md | 2988 | 43 | 870b7e8a73fb066885d4395dc4d7b4d8cdf708420e6710992554f814b324587c
-# termos/RC-188-mente-coletiva-redes-psiquicas-coletivas.md | 2304 | 46 | 664981c72f16c548727ec71d9dfd1a703f16c3ae69c27f314642e0d84d78949a
-# termos/RC-192-pilula-vermelha.md | 4201 | 64 | 9833cd44b60fecf6eae46e1523014ac6300044af2e55be910fd9e411e83a7422
+# termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
+# termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
+# termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
+# termos/RC-179-plano-colmeia-para-o-universo-biologico.md | 3627 | 50 | 3b7d42d7ae160b739e9377ba93b85e1ee6533c45f584063806f550688ae6f455
+# termos/RC-188-mente-coletiva-redes-psiquicas-coletivas.md | 2854 | 53 | e746a46df163173aa791aae0d47bda8528a0728d8fac746dea107cf929a17f91
+# termos/RC-192-pilula-vermelha.md | 4858 | 72 | 9818b31f216fd6a00980a68b790d6859c786945bf4665c31bd10e4217f0d9506
 # termos/RC-193-rebanho-humano.md | 2556 | 47 | 5f15fa9fe92588a26c915c7df1f91c452db6c96530bfb13172821108811fd4cf
 # termos/RC-194-big-data-cosmico.md | 3328 | 46 | 91d0606032008209384b4d81035b2b8d829b3eccd1b427a8f793588b3e4ad371
 # termos/RC-195-simbiose-quantica.md | 3022 | 41 | f20e0873fd5514e8bffbb45e433eb6eba3063451928557d60d068437bb2f5224
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1471440 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1478625 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -508,6 +508,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B043 p. 63]** “o ser a que Enoch se referiu não é o Pai Celestial, o Incognoscível, mas sim aquele a quem as nossas escrituras clamam como sendo o Eterno”; “Javé representava naquela oportunidade, na condição em que se encontrava, o que agora represento eu para o concerto das coisas deste mundo. Somos trabalhadores do Pai Celestial”; “O chamado Eterno Vivo de Enoch e de Daniel […] presta contas ao Pai Amantíssimo.”
 - **[B043 p. 63–64]** “o pai desta humanidade foi confundido com o Pai Celestial, o que não poderia mesmo ser diferente. Passou, entretanto, a ser o deus de um único povo e o Pai Celestial o é de todos os filhos da sua casa universal”; o deus dos judeus “é pai de todos os humanos” e usa o povo “como veículo… de redenção”.
 - **Quarentena teológica:** leitura do romance, não exegese. Pai Incognoscível absorvido aqui e em RC-072 — **sem código novo**. IEEA/Orbum **fora**. Fonte **B043** acrescentada na tabela-mestra.
+
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 5]** a obra descreve a “forma-modelo” de como Javé se relaciona com suas criaturas.
+- **[B044 p. 12]** “Mesmo o Deus Incognoscível também parece nunca ter cuidado dos humanos” — absorvido aqui (padrão B043); **sem código novo**.
+- **[B044 p. 13]** 4ª Constatação: destinação escapada = colmeia com Javé como abelha-rainha; ocidente = “Javé bíblico”; oriente demodhármico = “Brahma”.
+- **[B044 p. 96–97]** aposentadoria da função (não da posição); humanos criados como “criaturas-ferramentas” / “abelhas-operárias”; empreitada que malogrou desde o início.
+- **Quarentena clínica:** “câncer” do corpo (p. 9), “doentes”, “demência” (p. 97) = leitura do autor, **jamais** diagnóstico. Encontro 2010 = biográfica. Política (p. 19, 123, 145) **fora**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2433,6 +2442,13 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 - **[ART-2025-08-02/03 — material do curador] O acrônimo expandido e a epopeia (ART-02; ART-03):** "o Projeto TALM, acrônimo para 'Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material', é o epicentro desta cosmovisão; ele foi elaborado há aproximadamente 7,5 a 7,7 bilhões de anos, como uma tentativa desesperada da Trimúrti de salvar a vida e o próprio Criador de uma iminente 'falência' no universo antimaterial"; "o objetivo supremo era transformar o 'nidana' — o código-fonte primordial da vida que carregava as marcas psíquicas dos seres 'doentes' — em 'saccidanandhagana', um estado de êxtase e bem-aventurança"; "a essência dessa transmutação residia na manipulação do 'nidana'... visava 'aniquilar certas ordens algorítmicas' do código 'doentio' original de Brahma e 'amortecer' o problema da 'podridão original'"; "recriar a 'Colmeia Trimurtina' em moldes biológicos"; "a primeira replicação do 'nidana' no universo material ocorreu dentro de um 'casulo', um pequeno 'artefato autorreplicador' construído com os elementos químicos disponíveis"; "é nesse ponto que, conforme Allan Kardec, no 'Livro dos Espíritos', surgem os 'espíritos simples e ignorantes'" [referência externa]; **acrônimo expandido registrado pela 1ª vez na base**; datas [REVISAR — conferir B050].
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 55]** a principal causa do desassossego da Trimurti, enquanto a vida se manteve no universo demo, foi a ausência de resultados animadores; todos os engendrados surgiam “doentes”, ainda que poderosos — **quarentena clínica** (leitura, não diagnóstico).
+- **[B044 p. 55]** Brahma, Shiva e Vishnu (condições Adhydaiva) se autoatribuíram poder das personalidades anteriores — Prabrajna, Savna e Mavatna (Adhyatman). RC-013 / RC-014 permanecem **sem ficha**.
+- **[B044 p. 63]** o planejamento da transferência = “Projeto Talm”; recriar a Colmeia Trimurtina no biológico. Sem cadastrar B045.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -2833,6 +2849,15 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Ampliação — P2026-07-30
 
 - **[P2026-07-30 — FONTE ORIGINAL] A conta dos oito seres e a Trimurti (Pergunta 2):** "dos oito seres primordiais só estariam atuando o espírito de Elm e Olm"; "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "aqui a gente resolve o problema da Trimurti, que são três seres relacionados aos dois espíritos" [ver também RC-610].
+
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 11]** Javé e os dois outros “Seres da Trimurti” se encontravam “doentes”; não podiam cuidar nem deles próprios — **quarentena clínica** (leitura, não diagnóstico).
+- **[B044 p. 13]** o “grande desencanto” ao qual Javé se referiu ao perder o controle sobre a “colmeia *Homo* terrestre”. Subtítulo da obra: *A Trimurti Desencantada*.
+- **[B044 p. 53]** 11ª Constatação: a Trimurti foi estabelecida entre aqueles três Seres — Brahma, Shiva e Vishnu — “quando comparados à lógica que hoje existe no psiquismo humano”. A analogia do “hospício” (p. 53) **não** vira diagnóstico.
+- **[B044 p. 55]** os três, em condição Adhydaiva, consumidos pelo exercício do poder autoatribuído; impasse que desemboca no Projeto Talm.
+- Fonte **B044** acrescentada na tabela-mestra. Sem materializar RC-014 / RC-135. Sem fusão com B022.
 
 ## Fontes
 
@@ -3920,6 +3945,15 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 - **Grafia preferida:** Colmeia Universal
 - **Variações:** Colmeia (geral); Colmeia Trimurtina (a colmeia original do universo demo); a "Colmeia" de Javé
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 5]** “A Divina Colmeia” se apresenta como a descrição da “forma-modelo” jamais compreendida de como Javé — o criador universal — se relaciona com suas criaturas.
+- **[B044 p. 39]** os dois “grandes favos” que compõem a “Colmeia” gerada pela mente do Criador: um planejado (o universo em que vivemos) e o outro improvisado no momento da “queda” (universo paralelo, onde vivem demos e anjos-clones). RC-178 permanece **sem ficha**.
+- **[B044 p. 96]** se o Criador tivesse que escolher um lema para sua “Colmeia Universal”, seria *Pluribus unum* — “grau de egoísmo e de cruel frieza” com que vem se reconstruindo. RC-181 permanece **sem ficha**.
+- **[B044 p. 127]** nova etapa da “velha e decadente Colmeia Universal”, quando as “Abelhas-rainhas” aprenderão também a servir a propósitos nobres da coletividade que elas mesmas geraram.
+- Remissão a B041 (p. 127) = **não fundir**. IEEA/Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -3966,6 +4000,15 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 
 - **Sophia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico também se aplica ao séquito de Sophia (RC-009), no contexto do relógio messiânico (RC-765);
 - A metáfora reforça o padrão de domínio (RC-764) e a estrutura de comando cósmico (RC-176).
+
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 13]** 3ª Constatação: um Ser entronizado como “Abelha-rainha”, único a poder ter qualquer vontade; os demais = “ferramentas” ou “operários robotizados”.
+- **[B044 p. 13]** 4ª Constatação: a humanidade escapou da destinação de se tornar parte de uma grande “colmeia”, tendo Javé na função de “abelha-rainha”.
+- **[B044 p. 96]** a “Abelha-rainha” (Javé), nesses últimos tempos, teve que se “aposentar” da função, mas não da posição estratégica de continuar a ser alimentada pelos esforços e méritos alheios.
+- **[B044 p. 127]** os velhos mecanismos de controle das “Abelhas-rainhas” deixam de surtir efeito sobre terráqueos esclarecidos.
+- **Quarentena clínica:** “dementada” (p. 97) é leitura filosófica do autor, **jamais** diagnóstico. Encontro 2010 / dor corporal = **biográfica**, fora da ontologia.
 
 ## Fontes
 
@@ -4020,6 +4063,15 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 ## Ampliação — P2024-07-13
 
 - **[P2024-07-13] O sistema colmeia falindo (U1400–U1420):** "compreenda: uma abelha rainha com suas abelhas operárias convivem do mesmo jeito que Javé sempre conviveu com os anjos clones. Um manda, o resto obedece... esse resto aqui nem tem individuação, eles são só robôs"; "por que é que o sistema colmeia está falindo no nosso mundo? Porque o sistema colmeia faliu lá: a Trimurti colapsou também. Então, Javé lidava com os anjos de um jeito; como isso aqui faliu, o sistema que vem importado de lá para cá, para criar vida biológica, o mesmo sistema faliu no lado de cá. E vários sistemas estão falindo nos dois lugares"; "é preciso nós aprendermos a reconstruir ou construir outros novos sistemas... de interação, de convivência, de coexistência de seres vivos".
+
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 15]** o “modelo colmeia” já vigia entre Javé e os seus anjos-clones no Brahmaloka; dele veio o código “apodrecido” conhecido como DNA — **quarentena científica**.
+- **[B044 p. 50]** o “sistema colmeia”, mesmo desligado em algumas espécies, permanece com efeitos ancestrais; o chamado “DNA-lixo” esconde essas receitas — **quarentena científica**; RC-542 permanece **sem ficha**.
+- **[B044 p. 54]** 12ª Constatação: as sequências do código-fonte referentes ao “sistema colmeia” produziram efeitos nas espécies biológicas deste universo.
+- **[B044 p. 86]** primeiro modelo existencial de Javé com os anjos-clones = “mente coletiva” sob o seu controle; com o homem, a liberdade passou a ser essencial.
+- **[B044 p. 104]** o “controle colmeia” foi completamente “destravado” pelos humanos terrestres. RC-180 permanece **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -4100,6 +4152,13 @@ O "Plano Colmeia" é o elo entre a Colmeia Universal (RC-174) e o Projeto Talm (
 - **Grafia preferida:** Plano Colmeia
 - **Variações:** Plano Colmeia I (no CIP, referente ao Universo Biológico); recriação da "Colmeia Trimurtina" em moldes biológicos
 
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 63]** quando os “Seres da Trimurti” consideraram inevitável a transferência do código do psiquismo e da consciência demo (demodhármica / trimurtiana) para o universo biológico, o planejamento foi chamado de “Projeto Talm”.
+- **[B044 p. 63]** a intenção sempre foi recriar a “Colmeia Trimurtina” nos moldes biológicos; os terráqueos são a face mais moderna do Projeto Talm.
+- Sheldrake / campos mórficos (p. 63–64) = **referência externa**; RC-381 permanece **sem ficha**. Insectoides (p. 63) = **quarentena ufológica**; RC-187 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -4149,6 +4208,13 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 ## Ampliação — P2024-11-09
 
 - **Mente Coletiva (P2024-11-09):** "os campos memoriais que se transformam às vezes em inconsciente coletivo, como os arcanos" — a rede neural de consciência do planeta (ver RC-724).
+
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 86]** o primeiro modelo existencial implementado pela mente de Javé, envolvendo ele e os anjos-clones, foi o da “mente coletiva”, só que sob o seu controle.
+- **[B044 p. 127]** o universo, por meio da sua recém-nascida “Mente Coletiva”, assim agiu para poder sobreviver (deslacre do sistema de controle dos agentes da vida).
+- Sheldrake (p. 127) = hipótese citada, **não** ontologizada. Distinguir mente coletiva natural × controle Colmeia (já na ficha). Sem fusão com B041.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -4213,6 +4279,14 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 ## Ampliação — P2025-02-15
 
 - **Pílula vermelha (P2025-02-15):** "a pílula azul é aquela que nos deixa agradável dentro do caos; a pílula vermelha desperta a gente para a consciência de que está no caos. E a partir daí é com o livre arbítrio, ou com o grau de inquietação ou de inconformismo de cada um."
+
+
+## Ampliação — B044 (A Divina Colmeia)
+
+- **[B044 p. 19]** humanos livres, ao descobrirem a verdade, “podem não gostar da ‘pílula vermelha’ — uma alusão à trilogia cinematográfica ‘Matrix’”.
+- **[B044 p. 30]** deixar o “paraíso da robotização”, da “pílula azul” (Matrix), da “crença infantilizada, feita verdade”.
+- **[B044 p. 157]** a “pílula vermelha” convida à maturidade emocional, “aspecto primário da idade adulta espiritual” (fecho da entrevista; **não** ontologizar o fecho institucional).
+- Uso analógico (Matrix) — **não** termo técnico nem hipótese de simulação. IEEA/Orbum **fora**.
 
 ## Fontes
 
