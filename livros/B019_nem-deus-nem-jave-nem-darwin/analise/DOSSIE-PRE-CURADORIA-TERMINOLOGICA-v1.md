@@ -140,7 +140,7 @@ Prajapati (= RC-152 Prabrajna, p. 65); Mavatna/Mavatma (= RC-135/408, pp. 66/67/
 ## 8. Estado da Base
 
 - **Nada consumido:** base permanece **777 termos / 1.852 relações** (próximo código: RC-778);
-- **Aguardando Devolutiva O-1..O-10 (Seção 7 do dossiê)** para: ampliar os 20 termos que citam B019 (com páginas), decidir os novos códigos (N1–N18), harmonizar a tensão RC-604, e registrar os itens da Colecionar Incertezas;
+- **Aguardando Devolutiva O-1..O-10 (Seção 5 do dossiê)** para: ampliar os 20 termos que citam B019 (com páginas), decidir os novos códigos (N1–N18, Seção 4), harmonizar a tensão RC-604, e registrar os itens da Colecionar Incertezas (Seção 7);
 - **Próximo passo (após devolutiva):** ampliar fichas/termos com as páginas do B019 → novos códigos (se aprovados) → relações → fichas → regenerar artefatos → `gerar_pacotes.py` → CONTINUIDADE → push.
 
 ---

@@ -44,6 +44,7 @@ GRUPO_REGENERACAO = [
     "ferramentas/criar_pasta_palestra.py",
     "ferramentas/restaurar_pacotes.py",
     "ferramentas/gerar_pacotes.py",
+    "ferramentas/verificar_pacotes.py",
     "README.md",
     "CONTINUIDADE.md",
     "convencoes-editoriais-rc.md",
