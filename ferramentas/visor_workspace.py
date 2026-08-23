@@ -13,10 +13,13 @@ Uso:
 from __future__ import annotations
 
 import html
+import io
 import os
 import re
 import sys
 import traceback
+import zipfile
+from datetime import date
 from http.server import ThreadingHTTPServer, BaseHTTPRequestHandler
 from pathlib import Path
 from urllib.parse import parse_qs, quote, unquote, urlparse
@@ -94,6 +97,12 @@ def url_baixar(rel: str) -> str:
     return "/baixar?p=" + quote(rel, safe="/")
 
 
+def url_zip(rel: str = "") -> str:
+    if rel:
+        return "/zip?p=" + quote(rel, safe="/")
+    return "/zip"
+
+
 # ---------------------------------------------------------------------------
 # util
 # ---------------------------------------------------------------------------
@@ -166,6 +175,33 @@ def arvore_pastas(niveis: int = 2):
         return saida
 
     return andar(RAIZ, 1)
+
+
+def iter_arquivos(pasta: Path):
+    """Percorre arquivos visíveis (sem gravar nada)."""
+    for dirpath, dirnames, filenames in os.walk(pasta):
+        dirnames[:] = sorted(d for d in dirnames if d not in OCULTAR_DIR)
+        base = Path(dirpath)
+        for fn in sorted(filenames):
+            if fn in OCULTAR_ARQ:
+                continue
+            path = base / fn
+            if path.is_file():
+                yield path
+
+
+def montar_zip(pasta: Path, prefixo: str) -> bytes:
+    """Monta o ZIP só na memória — o disco do workspace não é tocado."""
+    buf = io.BytesIO()
+    with zipfile.ZipFile(buf, "w", compression=zipfile.ZIP_DEFLATED, compresslevel=6) as zf:
+        for path in iter_arquivos(pasta):
+            rel = path.relative_to(pasta).as_posix()
+            arc = f"{prefixo}/{rel}" if prefixo else rel
+            try:
+                zf.write(path, arcname=arc)
+            except OSError:
+                continue
+    return buf.getvalue()
 
 
 def classe_ext(path: Path) -> str:
@@ -422,6 +458,7 @@ code, pre, .mono { font-family: "Cascadia Code", "Consolas", "Liberation Mono", 
   padding: 10px 22px;
   display: flex; align-items: center; gap: 16px; flex-wrap: wrap;
 }
+.top-acoes { display: flex; align-items: center; gap: 8px; margin-left: auto; flex-wrap: wrap; }
 .crumbs { display: flex; flex-wrap: wrap; gap: 4px; align-items: center; font-size: 14px; }
 .crumbs a { color: var(--lilac); }
 .crumbs span.sep { color: var(--text-mute); }
@@ -465,6 +502,9 @@ table.dir .n { color: var(--text-mute); font-variant-numeric: tabular-nums; whit
   font-size: 13px;
 }
 .btn:hover { background: var(--bg-hover); text-decoration: none; color: var(--sand-hi); }
+.btn.zip { border-color: #6a5a40; }
+table.dir td.acao { width: 1%; white-space: nowrap; text-align: right; }
+table.dir a.dl { font-size: 12.5px; padding: 3px 8px; }
 .md h1, .md h2, .md h3, .md h4 { color: var(--sand-hi); line-height: 1.3; }
 .md h1 { font-size: 1.7em; border-bottom: 1px solid var(--border); padding-bottom: .25em; }
 .md h2 { font-size: 1.35em; margin-top: 1.4em; }
@@ -527,6 +567,23 @@ JS = """
   });
 })();
 """
+
+
+def acoes_padrao(rel: str = "", is_dir: bool = True, is_file: bool = False) -> str:
+    bits = ['<span class="badge ok">somente leitura</span>']
+    if is_file and rel:
+        bits.append(f'<a class="btn" href="{url_baixar(rel)}">baixar arquivo</a>')
+    bits.append(
+        f'<a class="btn zip" href="{url_zip()}" '
+        f'title="Gera o ZIP na memória; nada é gravado no workspace">'
+        f"workspace .zip</a>"
+    )
+    if is_dir and rel:
+        bits.append(
+            f'<a class="btn" href="{url_zip(rel)}" title="ZIP só desta pasta">'
+            f"esta pasta .zip</a>"
+        )
+    return f'<div class="top-acoes">{"".join(bits)}</div>'
 
 
 def pagina(titulo: str, crumbs: str, corpo: str, badge: str = "") -> bytes:
@@ -622,19 +679,24 @@ def corpo_diretorio(pasta: Path) -> str:
         nome = filho.name + ("/" if is_dir else "")
         tipo = "pasta" if is_dir else (filho.suffix.lower() or "arquivo").lstrip(".")
         href = url_ver(rel)
+        if is_dir:
+            acao = f'<a class="btn dl" href="{url_zip(rel)}">zip</a>'
+        else:
+            acao = f'<a class="btn dl" href="{url_baixar(rel)}">baixar</a>'
         linhas.append(
             f'<tr data-nome="{html.escape(filho.name)}">'
             f'<td><span class="ico {kind}">{ico}</span> '
             f'<a href="{href}">{html.escape(nome)}</a></td>'
             f'<td class="n">{html.escape(tipo)}</td>'
             f'<td class="n">{"" if is_dir else tam_humano(tam)}</td>'
+            f'<td class="acao">{acao}</td>'
             f"</tr>"
         )
     return (
         f'<input class="filtro" id="filtro" type="search" '
         f'placeholder="filtrar {len(itens)} itens…" autocomplete="off">'
         f'<table class="dir"><thead><tr>'
-        f"<th>nome</th><th>tipo</th><th>tamanho</th>"
+        f"<th>nome</th><th>tipo</th><th>tamanho</th><th></th>"
         f"</tr></thead><tbody>{''.join(linhas)}</tbody></table>"
     )
 
@@ -840,6 +902,9 @@ class Handler(BaseHTTPRequestHandler):
         if u.path == "/baixar":
             self._baixar(rel)
             return
+        if u.path == "/zip":
+            self._zip(rel)
+            return
         if u.path not in ("/", "/index.html"):
             self._erro(404, "Rota inexistente.")
             return
@@ -849,14 +914,14 @@ class Handler(BaseHTTPRequestHandler):
             raise FileNotFoundError(rel)
         if alvo.is_dir():
             titulo = alvo.name if rel else "raiz"
-            badge = '<span class="badge ok">somente leitura</span>'
-            self._html(200, pagina(titulo, migalhas(rel), corpo_diretorio(alvo), badge))
+            topo = acoes_padrao(rel, is_dir=True, is_file=False)
+            self._html(200, pagina(titulo, migalhas(rel), corpo_diretorio(alvo), topo))
             return
 
         ext = alvo.suffix.lower()
         titulo = alvo.name
         crumbs = migalhas(rel)
-        badge = '<span class="badge ok">somente leitura</span>'
+        topo = acoes_padrao(rel, is_dir=False, is_file=True)
         if ext in BAIXAR_EXT:
             corpo = corpo_binario(alvo, rel)
         elif ext in IMAGEM_EXT:
@@ -866,7 +931,7 @@ class Handler(BaseHTTPRequestHandler):
             corpo = corpo_texto(alvo, rel)
         else:
             corpo = corpo_binario(alvo, rel)
-        self._html(200, pagina(titulo, crumbs, corpo, badge))
+        self._html(200, pagina(titulo, crumbs, corpo, topo))
 
     def _baixar(self, rel: str):
         alvo = caminho_seguro(rel)
@@ -889,6 +954,37 @@ class Handler(BaseHTTPRequestHandler):
         self.end_headers()
         if self.command != "HEAD":
             self.wfile.write(data)
+
+    def _zip(self, rel: str):
+        alvo = caminho_seguro(rel)
+        if not alvo.exists():
+            raise FileNotFoundError(rel)
+        if alvo.is_file():
+            alvo = alvo.parent
+            rel = rel_de(alvo)
+        if rel:
+            prefixo = alvo.name
+            nome = f"{alvo.name}-{date.today().isoformat()}.zip"
+        else:
+            prefixo = "Termos-RC"
+            nome = f"Termos-RC-workspace-{date.today().isoformat()}.zip"
+        nome = nome.replace('"', "")
+        if self.command == "HEAD":
+            self.send_response(200)
+            self.send_header("Content-Type", "application/zip")
+            self.send_header("Content-Disposition", f'attachment; filename="{nome}"')
+            self.send_header("Cache-Control", "no-store")
+            self.end_headers()
+            return
+        data = montar_zip(alvo, prefixo)
+        self.send_response(200)
+        self.send_header("Content-Type", "application/zip")
+        self.send_header("Content-Length", str(len(data)))
+        self.send_header("Content-Disposition", f'attachment; filename="{nome}"')
+        self.send_header("X-Content-Type-Options", "nosniff")
+        self.send_header("Cache-Control", "no-store")
+        self.end_headers()
+        self.wfile.write(data)
 
 
 def main() -> int:
