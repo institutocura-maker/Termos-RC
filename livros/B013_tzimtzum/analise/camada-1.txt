@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): quinto livro da escala seletiva (após B019, B011, B052, B043).
+PDF entregue em uploads_recepcao/ pelo curador (push 065530d no branch da sessão).
+Obra já na BIBLIO como B013 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+27 termos já citam B013; 18 com ficha física. Núcleo: RC-008 Tzimtzum (única fonte = B013).
+Quarentena teológica (Cabala / deus caído) e político-geopolítica (sionismo; maio/2020).
+Corpus: original.txt (extract paginado; p. 1 sem texto; p. 151 só título). Sem marca d'água de conversor.

@@ -1,0 +1,22 @@
+{
+  "obra": "B013",
+  "titulo": "Tzimtzum: O Exílio Forçado de uma Divindade — Revelações Antigas da Cabala",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2020",
+  "pdf_creditos": "Conectar Editora / 1ª ed. 2020 Natal-RN / ISBN 978-65-86157-09-3",
+  "divergencia_edicao": "sem CIP extraível; 185 págs PDF já na BIBLIO; metadado calibre 3.48.0 (2022-05-29)",
+  "fonte_upload": "uploads_recepcao/Tzimtzum (o exílio forçado de uma divindade) - Jan Val Ellam.pdf",
+  "bytes_pdf": 1931203,
+  "sha256_pdf": "9e03f76dac13d4e3d50eb7d1f21072602c1baccbbb18550123243a02930fe2ee",
+  "paginas_pdf": 185,
+  "paginas_sem_texto": [1],
+  "pagina_quadro_nao_extraivel": [151],
+  "bytes_original_txt": 386306,
+  "sha256_original_txt": "804251464317b53a46e6dcbadaa91e41508856af9d688d88e0c930b7dfea828a",
+  "palavras_approx": 59674,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada",
+  "codigos_consumidos": 0
+}

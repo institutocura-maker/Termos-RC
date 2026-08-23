@@ -1,7 +1,16 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B043 aplicada)  
+**Data de sincronização:** 2026-08-23 (piloto B013 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B013 *Tzimtzum: O Exílio Forçado de uma Divindade* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Tzimtzum (o exílio forçado de uma divindade) - Jan Val Ellam.pdf` (1.931.203 bytes; SHA-256 `9e03f76dac13d4e3d50eb7d1f21072602c1baccbbb18550123243a02930fe2ee`; 185 págs = **B013**).
+- Ciclo em `livros/B013_tzimtzum/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~59.674 palavras; SHA-256 `804251464317b53a46e6dcbadaa91e41508856af9d688d88e0c930b7dfea828a`. Sem CIP extraível; 1ª ed. 2020 Natal-RN; ISBN 978-65-86157-09-3 — BIBLIO já descreve 185 págs / 2020 / ISBN; **intocada**.
+- 27 termos já citam B013; 18 com ficha. Dossiê sugere ampliar RC-008, RC-267, RC-266, RC-265, RC-262, RC-264. **0 códigos.** RC-269/270/271/272/038/059/060/061/190/468 sem ficha — não materializar.
+- p. 151 (quadro dos Patriarcas) = só título extraível → `[TEXTO INCOMPLETO]`.
+- Quarentenas: teológica (Cabala / deus caído); político-geopolítica (sionismo; maio/2020); biográfica (infarto 2011); IEEA/Orbum fora.
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
 
