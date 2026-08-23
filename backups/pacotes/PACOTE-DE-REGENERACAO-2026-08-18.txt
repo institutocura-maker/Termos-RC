@@ -8,16 +8,16 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 275827 | 2954 | 61cdfb1f8f3e3aab5bb2c096f8b08118987f2a3ce99f4461f92b3ada6f5227bd
+# ferramentas/dados_termos.py | 275835 | 2954 | cbee085390e5d951c03ce5c3dab3dd9130349251804f57e98f53796248fe10d7
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
-# ferramentas/build_xlsx.py | 53490 | 352 | 08c1252b4c67b9b68ab0dbf6f896d1ed8da328d75ead9a64ed8a1b70a0acf1c0
+# ferramentas/build_xlsx.py | 53281 | 352 | df3473eaf569ddb8eb54c7dfa33dade650bbff46b222733e63f2e61efe80825a
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
 # ferramentas/build_apostila.py | 13021 | 288 | e1395127f4b75145497fa44b1be8f7c381f31d8ad9444afbf6d763db7ed2d3f9
 # ferramentas/criar_pasta_palestra.py | 2686 | 67 | f1fd35d6a916d5f4e7fcd5a3f742b64dc84da390a5c6eb73bfca05e595716741
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 100106 | 925 | 11f78a3bd3204499c4f6f057e22aaa9eaad296f8fec1a6f7a840409043607cdf
+# CONTINUIDADE.md | 103379 | 951 | b21440ec0c155cc8bc1af34a9b6879bdb3e8b63a5155eb31123d0a2d69097673
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 551554 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 554626 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -110,7 +110,7 @@ C = "candidato"    # ⚪ — identificado, sem ficha
 # (codigo, nome, categoria, subcategoria, status, fontes, relacionados, ficha)
 TERMOS = [
     # ---- Pré-existentes (RC-001..RC-010)
-    ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
+    ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
     ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'P2024-03-03', 'P2024-04-13'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
     ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
     ("RC-004", "Elohim", SER_COL[0], SER_COL[1], C, ["B061", 'P2024-09-28'], "RC-001; RC-474", False),
@@ -3223,8 +3223,8 @@ BIBLIO = [
      "OBRA PRIMÁRIA — Jan Val Ellam. Cadastrada a partir da citação na palestra P2026-07-25 ('Jesus e a Dinastia das Sophias'): o autor refere 'o penúltimo livro que eu lancei chama-se Perversa Gratidão. É sobre o livro de Jó' — a aposta entre Javé e Belial/Satã, a 'perversa gratidão' (Jó agradecia a Javé a própria desgraça) e a dignidade subvertida. Sinopse reconstruída da fala; aguardando confirmação bibliográfica independente (editora/ano/ISBN). SEM PDF."],
     ["B081", "Sophia, os Arcontes e a Disputa pela Suzerania Universal", "O papel de Sophia e a rebelião universal dos arcontes (leitura da RC)", "—", "2023 (aprox.)", "identificada",
      "OBRA PRIMÁRIA — Jan Val Ellam. Cadastrada a partir da citação na palestra P2024-07-13 ('Reintegração Cósmica — Tempos de Ruptura'): 'acho que já faz um ano eu lancei um livro chamado Sofia, os Arcontes e a Disputa pela Suzerania Universal' (U0711). Trata do contexto atual dos arcontes (Zeus, Krishna, Apolo etc.) em disputa pela suzerania universal, não aceitando Sophia como suzerano do universo biológico. Sinopse reconstruída da fala; aguardando confirmação bibliográfica independente (editora/ano/ISBN). SEM PDF. Atenção: grafia canônica Sophia."],
-    ["B082", "Nem Deus, nem Javé, nem Darwin: a evolução do cérebro", "A evolução humana como jogo de manipulação (leitura da RC)", "—", "2021", "identificada",
-     "OBRA PRIMÁRIA — Jan Val Ellam. Cadastrada a partir da citação na palestra P2021-01-23 ('Vyasa e o Descortinar de um Novo Paraíso', U1259–U1260): 'Eu terminei um livro essa semana, chama-se Nem Deus, nem Jahé, nem Darwi. Dois pontos, a evolução do cérebro, mostrando que isso que acontece na evolução humana é um jogo de manipulação de acordo com circunstâncias' (recém-terminado ~janeiro/2021). Sinopse reconstruída da fala; aguardando confirmação bibliográfica independente (editora/ano/ISBN). SEM PDF. Autorização de cadastro: Devolutiva do curador O-6 (ciclo P2021-01-23)."],
+    ["B082", "Nem Deus, nem Javé, nem Darwin: a evolução do cérebro", "Remissão histórica a B019 (título de trabalho citado em P2021-01-23)", "—", "2021", "remissão",
+     "REMISSÃO HISTÓRICA a B019 (Nem Deus, nem Javé, nem Darwin: A Evolução Possível). Título de trabalho citado de memória na palestra P2021-01-23 (U1259–U1260: 'Nem Deus, nem Jahé, nem Darwi. Dois pontos, a evolução do cérebro'). Devolutiva B019 O-5 (2026-08-23): não fundir os textos; B082 permanece como rastro da palestra e aponta para o B019 canônico. Sem PDF próprio."],
     ["B083", "Awayen – A Central de Realidades", "O forno replicador de Brahma/Javé e a consciência de Val Tam (obra anunciada)", "—", "anunciada", "anunciada",
      "OBRA ANUNCIADA/EM ELABORAÇÃO — citada no material do curador ART-2025-08-01 ('Fornos Replicadores – Awayen, Awaylengan e Awaymaion', Parte I): as fontes prometem aprofundar em futuras obras a conexão da 'consciência espiritual de Val Tam' com a estação Awayen. Atenção [REVISAR — grafia]: no ART o título aparece como 'Awayem – A Central de Realidades' (vs. forno 'Awayen'); aguardar confirmação bibliográfica independente (editora/ano/ISBN). Autorização de cadastro: Devolutiva do curador O-6 (ciclo ART-2025-08-01). SEM PDF."],
     ["ART-2025-08-01", "Fornos Replicadores – Awayen, Awaylengan e Awaymaion", "Dossiê do curador sobre os fornos geradores de vida do Projeto Talm", "—", "2025", "curadoria",
@@ -4583,7 +4583,33 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 # Continuidade — Base Terminológica RC
 
 **Data de sincronização:** 2026-08-21 (ciclo P2021-12-04 — Os Archeons de Ereon e os Seres Adhy)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas + RC-004 como investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub HEAD: `849fc65` (Apostila Temática Carbono × Sílica + EXT Ari Barbosa)
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Ciclo de higienização — AGENTE 9 (2026-08-23)
+
+- **0 códigos consumidos** (RC-778 preservado); base permanece `OK: 777 termos, 1852 relações — dados válidos.`;
+- **4 flags `ficha=True`** alinhados às fichas físicas já materializadas na Trilogia TALM: RC-064 Fenvans · RC-132 Val Tam · RC-165 Karuna · RC-499 Forno de Awaymaion. **RC-004 Elohim permanece `False`** (investigação);
+- **13 apostilas da restauração original** regeneradas em DOCX via `build_apostila.py` (Enki/Enlil, Bastidores, Thot, Jainismo, Drama de Jesus, Dessensibilização, Moisés, Bagagem, Sethianos, Fantasmas, Consciência Humana, Ifá, Podcast Irmãos Dias);
+- **2 `original.txt` restaurados (sem interpolação):**
+  - `2026-08-04_irmaos-dias-podcast_aliens_biblia/original.txt` — cópia byte a byte do TXT da raiz (SHA-256 `bf54fba139f0c493ae528b2afecddd7a5b54254cbd27ab4b8b40b42092bed52a`);
+  - `2024-05-04_prabrajna_perperion_simultaneidade_reversa/original.txt` — extract já validado no ciclo (`analise/leitura-pdf-completo.txt` ≡ `camada-3.txt`; fonte PDF em `uploads_recepcao/`, SHA-256 `cee4ef97c351f91a455ec04e54e8702e9e5f5fb475df1b9acfbe888541fdd596`, 368.728 bytes);
+- Conferência: 0 pastas CONCLUIDAS sem `original.txt`; 0 flags `True` sem arquivo; único arquivo sem `True` = RC-004;
+- Índice, XLSX, DOCX de leitura e pacotes (`backups/pacotes/`) regenerados;
+- **Visor do workspace** (`ferramentas/visor_workspace.py`) recriado nesta sessão (somente leitura; downloads no preview da Arena ainda instáveis — **pausado** a pedido do curador).
+
+## Devolutiva formal — Apostila Temática Carbono × Sílica (2026-08-23)
+
+- O curador considerou **concluídos** os itens O-1..O-8 da Apostila Temática *Carbono × Sílica*. Não há bloco O-1..O-8 adicional a cumprir neste ciclo; a apostila permanece em `pedagogico/` como está.
+- Nenhum código foi consumido; a PARTE IX (EXT Ari Barbosa) segue isolada.
+
+## Fase 1 — piloto de livros: B019 *Nem Deus, nem Javé, nem Darwin* (abertura 2026-08-23)
+
+- **PDF ingressado:** `uploads_recepcao/Nem Deus, nem Jave, nem Darwin (a evolução possível) - Jan Val Ellam.pdf` (1.808.075 bytes; SHA-256 `0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051`; 238 págs; ISBN e 18 capítulos = **B019**, não obra nova).
+- **Pasta nova:** `livros/` (minúsculo, padrão do repo) + `livros/CONCLUIDOS/` (vazia até Devolutiva + produto) + ciclo em `livros/B019_nem_deus_nem_jave_nem_darwin/` (`original.pdf` byte a byte, `original.txt` extract paginado, ficha, dossiê enxuto).
+- **B082** (*…a evolução do cérebro*, P2021-01-23) **não fundida** — [REVISAR] na Devolutiva.
+- **Devolutiva O-1..O-8 APROVADA** (2026-08-23, via Assistente do curador): identidade B019; 8 fichas ampliadas (RC-541, RC-042, RC-545, RC-217, RC-164, RC-538, RC-001, RC-514) com páginas do PDF; **zero códigos novos**; RC-540/542/544 sem ficha — não materializadas; B082 tornou-se **remissão histórica** a B019 (edição manual da BIBLIO); BIBLIO de B019 intocada; quarentenas IEEA/Orbum e científicas mantidas; sem apostila temática.
+- Pasta movida para `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` (inclui `original.pdf`).
+- Base permanece `OK: 777 termos, 1852 relações`.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

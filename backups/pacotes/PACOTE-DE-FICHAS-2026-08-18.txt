@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 13558 | 139 | e9cd02069aaabda1a2a7b9e184286cdb475c6fbcd8a33785184dfdd8a6f151f0
+# termos/RC-001-jave.md | 14311 | 146 | 79004f0d4b9df4e57593081544daf0185c1cf3caf3be6b8d77f9dfb343ad082a
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -19,7 +19,7 @@
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 2270 | 44 | 7e7c91755cdac301a21a5a2dfeccf30a2b7f5a296342d852adb7b46f61a418fb
-# termos/RC-042-criatura-universal.md | 2263 | 43 | 53d997349441ba218ffe02fb39ff01f567565b47a913cd8c51974149ff5d1413
+# termos/RC-042-criatura-universal.md | 3234 | 50 | fd3848196a1adb22c81aef5aea8164bc6d65c0986b807332a48ff3f1350f90a1
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 2711 | 50 | ad48b9b1a0d702b6e89ca8d5a8aa21af73a7127deca4c8b6d3e0647707e4356e
 # termos/RC-049-demos.md | 2659 | 45 | b50cdf7c2aa80a8276593cad3a339745d4f711ae725782c2e9c336c2b2f4f593
 # termos/RC-052-deus-deus-incognoscivel.md | 2909 | 47 | 552b51347004421808ab173ba64514b75bb308a66ac1f0d252206e58d81a9548
@@ -52,7 +52,7 @@
 # termos/RC-155-eras-da-criacao-10-eras.md | 4748 | 65 | 55c8912fb8667477f022b9237716c2f5c0baba734493d808742752d564cb0fe0
 # termos/RC-160-entropia-e-negentropia.md | 3998 | 53 | 0470ca08cf370d47291fda6932483e32b576a16efdd450cd7346eff0bb6dbe9d
 # termos/RC-161-memoria-quantica-dos-eletrons.md | 6423 | 77 | e3e4a54c74bc900294b48f451ab9ca9611a2210990a1c7c81e174d9a9aa42076
-# termos/RC-164-criaturas-ferramenta.md | 2797 | 53 | 8b23bc13a66cc7e934ea5ca4a5fd5e5fc7f72c577d7484402874ddf01506d74d
+# termos/RC-164-criaturas-ferramenta.md | 3423 | 60 | fa1fc87e496e67505ef45c9436dbd711661934882e0f733dabf4540979e06495
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
 # termos/RC-167-criacao-indevida-obra-indevida.md | 5184 | 78 | c015363c687a45f4fe0590205bf6cfca5d41947bedda9a2e721325fb54408301
@@ -69,7 +69,7 @@
 # termos/RC-204-realidade-maior-paraiso-original.md | 2476 | 52 | 18679bb0b1b13350d1b68c7581de2b1704df232a07c715cc9f847b634ea68e1c
 # termos/RC-207-arquiteto-universal.md | 2746 | 43 | f55b2ac33ed0c08b86f8b9da18f709f81115e99d00dc94a85969d3296977aa65
 # termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 2839 | 48 | af7c9f6e13f35282dbdd095a31bdebba127efc54d1158c369f69da644191526d
-# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 4035 | 63 | be32d3d24872093d177ab4ff76a1826ba7c1439c3b46c45a2c20187cec0a2e21
+# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 4934 | 71 | 442d1fcdf5422050ad1a5427ae5ac57c20d6d44a48ed57f7a3b85ea67e36309a
 # termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 2564 | 42 | b4bbc254e8110cee006f63c9cca0d010253e26c7851a75e6c48fd0d93370846b
 # termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
 # termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
@@ -196,7 +196,7 @@
 # termos/RC-500-almaior-alamaior---erro-historico-de-stt-ver-forno-de-awaymaion-rc-499.md | 2045 | 40 | bc4619e83a941f9befe1ed2186894434543ca90652acd786fbaff6d1bd0bd158
 # termos/RC-506-ekatma-adam-kadmon-homem-primordial.md | 2074 | 43 | bb76e9a43b7357dfca420c20046b95cba69aab4708a60a172158edc893b000da
 # termos/RC-513-espiritualidade-erratica-4a-faixa-manifestada.md | 3535 | 50 | 184c32dad80ea3f8036bfbfe6d5e09f3c55bc95d227c20ac6d96076b83737019
-# termos/RC-514-tikun-cosmico-restabelecimento-da-criacao.md | 6104 | 73 | cb46510e8211ae411edca387d10269b9b4966147f9cf21a7119b91b411797120
+# termos/RC-514-tikun-cosmico-restabelecimento-da-criacao.md | 6726 | 81 | 93ddf44d0a65ed3427bd0e4f898bd2a40c625ab0998bd8f0a900f6c867683f95
 # termos/RC-516-hibridizacao-genetica-nefilim-reinterpretado.md | 2043 | 41 | 011d8e25edf0a47288970f14172065f5f3c332e9951d727611660a6948640cc3
 # termos/RC-517-protocolo-mental-padroes-organizadores-da-mente.md | 1989 | 40 | 72e4eccc0e3bc77c29f49ac3889f3d67a8cd61583521830d234f4f917cfc7a78
 # termos/RC-518-genoma-derivado-interacao-genoma-trajetoria.md | 2555 | 51 | 3a7cf49ca732d9123178ef27030307014744e6835a36095eb64eb114ee53cb23
@@ -206,10 +206,10 @@
 # termos/RC-534-usinas-geodesicas-de-gize-engenharia-de-thoth.md | 1633 | 38 | 7ab0647225e3b0265b7f6eabb728948869a8de1b7da7dfd54a3ff512056ab574
 # termos/RC-535-projeto-orbum-cidadania-planetaria.md | 2854 | 44 | 7b3f1bba90f6055fdef6181a13b21d03f37a1abe381344c5831cf8028e1415b8
 # termos/RC-536-era-do-conhecimento-e-da-espiritualizacao.md | 3007 | 47 | 7e3324d88dc4ea84fe3cf7a5245fe175aa9119b4478ba1a64f4973533664c029
-# termos/RC-538-consorcio-de-mundos-arquitetos-universais.md | 2697 | 42 | 80f944557c07dc627141a213edfaa61a330e7775ca1ff17958ac0c32f7e0d102
-# termos/RC-541-evolucao-possivel-terceira-via-nem-darwin-nem-deus.md | 3705 | 53 | 08c1e263de1c65add8944d200d4bd8c5f7c4d1f018fa412b3495bdd096653f1d
+# termos/RC-538-consorcio-de-mundos-arquitetos-universais.md | 3432 | 49 | 7fd79940b39758e162df027ca3a905f0228ae146108d1950a652bfa8e1f560b6
+# termos/RC-541-evolucao-possivel-terceira-via-nem-darwin-nem-deus.md | 4367 | 61 | 8b55bf1a124d5c683bebf7f7f6f0339c69590d7f07f297328a232899dfca97b0
 # termos/RC-543-espelho-da-heranca-espiritual-no-epigenoma.md | 2491 | 41 | b672c495017d33ff2bf589a172b85540ac9f2178cf3430dd3c144bdf15e7d6ba
-# termos/RC-545-coconstrutores-da-obra-tikun.md | 2935 | 49 | 99767b7185593510c21f67c9f12402b6327486458e716d1c2ed86073c661fa05
+# termos/RC-545-coconstrutores-da-obra-tikun.md | 3768 | 56 | 4c521f09e9a7e88c1e92f2a08ab3a706d2f8f247aac5f7b9d504ccd38d8a082b
 # termos/RC-548-arquivos-mentais-colecao-de-conceitos-no-psiquismo.md | 3793 | 55 | a1dd9a0950da40a7828926870dd547f423a36b2e1f1cfc9a0104f0f9f37da6bc
 # termos/RC-549-circuito-do-cha-circunstancias+heranca+atitude.md | 3114 | 42 | fcc1d06ee349f24eb9d2b568fd70e3318e7e537cf6d8c72c979a52246faa925b
 # termos/RC-551-dehatma-buddhi-doenca-psiquica-da-mente-identificada-com-o-corpo.md | 2554 | 42 | c93a2da475ae5fce59c3ef9b35918c3baf7808d20050fe2d81d27bbcd6f9e386
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1422700 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1428801 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -492,6 +492,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 ## Ampliação — P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] Javé e a escolha de Adão (U0705–U0735; U0830):** "quando Javé percebeu que Shiva fincou na terra um império para ele... foi isso que levou o nosso amigo Javé a escolher Adão"; "Javé que já havia gasto a fórmula do seu código fonte definidor, porque ele alojou isso em Adão, ele ficou refém dessa situação, não podia arrancar de volta"; "a demência de Javé levou Javé a fazer ao longo desses milênios coisas que a gente nem imagina que depois ele se arrependeu"; "Javé largou os arianos... e voltou a procurar alguém da descendência de Éber... esse alguém era Abraão... voltou a assumir o nome de Javé"; "o nome de Javé (YHWH) está registrado nas bases químicas do DNA" [QUARENTENA — leitura]; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele".
+
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 7]** "a Divindade Criadora, por ter se transformado em 'vítima' da própria Obra, nela 'caiu prisioneira' e não pôde concluir o 'Programa inicialmente gerado' [...] o 'Programa' ficou 'incompleto' e, por isso, o universo foi gerado cheio de imperfeições e de processos inconclusos."
+- **[B019 p. 11]** "a Divindade Cocriadora, atualmente refém do progresso das suas criaturas"; o Criador "'caído' foi forçado a conhecer o 'Projeto edificado' pelos seus 'escolhidos'".
+- **[B019 p. 120]** "o 'susto que Javé tomou com Adão e Eva'", pontos fora da curva do roteiro do "'Criador dos Céus e da Terra' — apesar de 'caído' e por isso 'refém' da sua própria Criação".
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1309,6 +1316,13 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **Cronologia:** projetada para o horizonte pós-2050, num mundo de regeneração;
 - **DNA homo terráqueo:** a recomposição do criador depende do DNA humano (seção 9.5 do Sumário);
 - Distingue-se do avatar humano atual: não é uma "melhoria" do homo sapiens, mas uma nova expressão conscencial.
+
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 8]** O *Homo sapiens sapiens* "jamais cumpriu a contento" o papel de criatura "obediente e submissa"; tornou-se "o único protótipo possível de agir antes de um 'salto quântico' [...] na tentativa de se edificar a futura 'Criatura Universal' possível de ser sonhada perante as circunstâncias".
+- **[B019 p. 9]** "este algo a ser edificado, bem poderia se chamar 'a Criatura Universal'. Ela é a única capaz de conduzir o rumo da história desta estranhíssima Criação a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador, 'Diretor e Ator de toda uma Peça Existencial' que foi 'posta para funcionar' sem o devido estudo dos desdobramentos do seu 'roteiro'."
+- **[B019 p. 9]** o surgimento da espécie como "'aparente produto da evolução terráquea'" "tem tudo a ver com os primeiros protótipos desta 'Criatura Universal' ainda por acontecer na sua 'versão final'".
 
 ## Fontes
 
@@ -3473,6 +3487,13 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 
 - **Criaturas-ferramenta (P2025-03-15):** "nós, humanos, somos o que a gente nem sabe que é o melhor produto do universo... o caos organizado da melhor maneira"; o espírito como "museu" que mantém os códigos podres vivos ("colocam o peixinho no aquário, escaneiam o cérebro, guardam os protocolos").
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 11]** o aperfeiçoamento das "criaturas-ferramentas" é o meio pelo qual "o progresso do Criador — momentaneamente incapacitado de evoluir por si mesmo, devido à sua 'queda' — possa ter lugar no seu psiquismo".
+- **[B019 p. 205]** "existir nesta Criação significa simplesmente ser uma 'criatura-ferramenta' de uma construção em curso no próprio universo! Aqui, não se vê 'deus' agindo, nem ninguém mais a não ser os próprios 'agentes da vida'."
+- **[B019 p. 205]** "o homem é a 'criatura-ferramenta' mais recente no 'Palco Universal'".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -4419,6 +4440,14 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 ## Etimologia / Grafias
 - **Grafia preferida:** DNA como Projeção Holográfica do Psiquismo do Criador
 - **Variações:** DNA = projeção holográfica; molécula de DNA como representação química do psiquismo de Javé
+
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 11]** "'ponte quântica' do seu 'CFDP manipulado' (trata-se do código-fonte definidor de vida das 'criaturas-ferramentas', ou CFD, que no caso específico dos seres vivos da Terra, é denominado 'DNA')".
+- **[B019 p. 119]** após a terceira geração de estrelas e planetas rochosos com água, "'moléculas-mãe' — ou seja, o CFD do Criador, que chamamos de 'DNA', no caso da Terra —" foram semeadas "aonde houvesse condições de gerar algum tipo de vida biológica".
+- **[B019 p. 120]** o Eu caído desenvolveu um código-fonte das posturas psíquicas (sobreviver a qualquer custo; fazer o Eu imperar) "repassados a todos os seres [...] a partir do seu já referido CFDP ou 'código genético pessoal'".
+- **Quarentena:** DNA-lixo / epigenética / metilação (caps. 15–16) — leitura de Ellam, não fato validado.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -11039,6 +11068,14 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[P2024-07-14] O app no genoma (U0840–U0860):** "o nosso genoma é o celular... a gente já tem um app baixado, que é o nosso genoma. Mas a gente precisa criar mais um app, que é esse app que apropria os códigos desses protocolos"; "cada um de nós estuda se quiser e do jeito que achar que deve. Na hora em que tá fazendo isso, você tá construindo um app no seu genoma"; "primeiro é necessário você adquirir conhecimento. Segundo, limpar o seu mundo fenomênico, mental, de conceitos e de emoções"; "quando surgir uma massa crítica de humanos que faça isso, o problema está resolvido. O tikun vai começar a funcionar em níveis de consecução que em pouquíssimo tempo se conseguirá o que não se conseguiu até hoje nesses quase 14 bilhões [de anos]".
 - **[P2024-07-14] O marco zero (U0858–U0860):** "essa programação especializada somente é possível na condição humana, e isso somente começou a se dar a partir do momento em que o humano Jesus, preso ao madeiro da cruz, em pleno sofrimento, estruturou essa programação no genoma dele, no próprio genoma dele. Sem o exemplo de Jesus, nós não teríamos o marco zero de um padrão de genoma humano dignificado".
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 9]** a Criatura Universal como único rumo "a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador".
+- **[B019 p. 11]** o tikun prático passa pelo aperfeiçoamento das criaturas-ferramentas: o progresso do Criador "possa ter lugar no seu psiquismo" via CFDP/DNA.
+- **[B019 p. 205]** coconstrutor da "'situação Corporal-mental' do próprio Criador 'caído'" = conserto da Obra **e** do criador (peso pedido na Devolutiva).
+- **Não ontologizar** Singularidade de Kurzweil (cap. 13) nem Manifesto Orbum / IEEA (fecho do volume).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -11528,6 +11565,13 @@ Na sinopse do B019: "Ao indicar um cenário de evolução possível, o autor ain
 - **Variações:** "Consórcio de Mundos" (B019, sinopse); relacionado a "Arquitetos Universais"
 - **Obs.:** no B019 a expressão aparece na sinopse; no corpo, o autor refere-se a "ambientes espirituais, Arquitetos Universais, Seres Espirituais" (p. 121)
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 5]** (sinopse) "um 'Consórcio de Mundos', cujos integrantes, os 'Arquitetos Universais', estão comprometidos com a obtenção da tão esperada 'Criatura Universal'."
+- **[B019 p. 121]** no corpo: "estão referidos ambientes espirituais, Arquitetos Universais, Seres Espirituais, universo paralelo habitado por entes extrafísicos clonados e de mente 'afetada', e um 'código-fonte' que veio de lá para cá" — o autor admite que "nada disso existe cientificamente comprovado" [quarentena].
+- Expressão "conspiração amorosa" (p. 11, anjos-clones despertos) **não vira código**; absorvida aqui como leitura do autor sobre a Hierarquia em torno de Javé.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -11571,6 +11615,14 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **Grafia preferida:** Evolução Possível
 - **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
 - **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
+
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
+- **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
+- **[B019 p. 210]** "Talvez o conceito de 'evolução possível' não seja tão estranho à abordagem darwiniana, ainda que pareça absurdamente herético aos meus contemporâneos. Quem viver, verá!"
+- **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -11676,6 +11728,13 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 
 - **[P2024-07-14] O pequeno grupo (U0570–U0590):** "nós precisamos criar o primeiro [colegiado de consciências dignificadas]... ainda não somos nem 10. Mas daqui a pouco vai ser 20, 30, 50. E nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica"; "tudo que existe nesse sentido é um pequeno grupo de espíritos lúcidos que finalmente estão conseguindo compor uma equipe de seres esclarecidos via os seus eus humanos, que doravante irão trabalhar em diversas esferas para construir, atingir este fim".
 - **[P2024-07-14] A luz emprestada (U0660–U0670):** "no fundo, a gente só pode cuidar da gente mesmo. E esse é o convite que seres esclarecidos fazem a si mesmos: agigantem-se para poder construir luzes para iluminar a estrada de quem não tem luz própria e tá na escuridão e não sabe nem para onde é. Tudo que a gente pode é emprestar a luz que a gente produz em nós mesmos para que alguém possa enxergar o que ele ainda não viu. Até aí vai. Mas o que é que ele vai fazer com o que ele tá enxergando? É com ele."
+
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 205]** "o ser terráqueo é 'coconstrutor' da realidade universal e também, principalmente, da 'situação Corporal-mental' do próprio Criador 'caído', ainda que os humanos desconsiderem ou desconheçam esse assunto."
+- **[B019 p. 205]** "De acordo com os postulados da Física Quântica, cada ser humano é coautor da estruturação do código genético que vai funcionar como a base da sua vida corporal" — **quarentena científica** (leitura do autor, não parecer de física).
+- **[B019 p. 205]** o autor recusa a leitura antropocêntrica/gnóstica: "Não é isso que estou defendendo! [...] coloco o ser terráqueo como um 'escravo', como uma 'cobaia', para o qual convergiu toda a 'sujeira da genética cósmica acumulada do problema do Criador'".
 
 ## Fontes
 | Fonte | Localização | Tipo |

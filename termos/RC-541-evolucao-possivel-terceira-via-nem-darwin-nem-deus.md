@@ -18,6 +18,14 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **Variações:** "a evolução possível" (subtítulo); "Evolução Possível para Quem?" (cap. 1)
 - **Obs.:** título do livro também traz a fórmula "Nem Deus, nem Javé, nem Darwin"
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 6]** Fórmula do autor: "Nem 'Darwinismo', nem 'Criacionismo': a questão é bem mais séria e controversa!"
+- **[B019 p. 170]** Fecho do cap. 14: "Não existe milagre nem bênçãos vindas de lugar nenhum [...] O que se encontra posto é a 'evolução possível'. Nada mais!"
+- **[B019 p. 210]** "Talvez o conceito de 'evolução possível' não seja tão estranho à abordagem darwiniana, ainda que pareça absurdamente herético aos meus contemporâneos. Quem viver, verá!"
+- **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

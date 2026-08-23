@@ -18,6 +18,13 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **DNA homo terráqueo:** a recomposição do criador depende do DNA humano (seção 9.5 do Sumário);
 - Distingue-se do avatar humano atual: não é uma "melhoria" do homo sapiens, mas uma nova expressão conscencial.
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 8]** O *Homo sapiens sapiens* "jamais cumpriu a contento" o papel de criatura "obediente e submissa"; tornou-se "o único protótipo possível de agir antes de um 'salto quântico' [...] na tentativa de se edificar a futura 'Criatura Universal' possível de ser sonhada perante as circunstâncias".
+- **[B019 p. 9]** "este algo a ser edificado, bem poderia se chamar 'a Criatura Universal'. Ela é a única capaz de conduzir o rumo da história desta estranhíssima Criação a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador, 'Diretor e Ator de toda uma Peça Existencial' que foi 'posta para funcionar' sem o devido estudo dos desdobramentos do seu 'roteiro'."
+- **[B019 p. 9]** o surgimento da espécie como "'aparente produto da evolução terráquea'" "tem tudo a ver com os primeiros protótipos desta 'Criatura Universal' ainda por acontecer na sua 'versão final'".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

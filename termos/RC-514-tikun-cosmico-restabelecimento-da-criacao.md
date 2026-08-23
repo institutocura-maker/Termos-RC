@@ -34,6 +34,14 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[P2024-07-14] O app no genoma (U0840–U0860):** "o nosso genoma é o celular... a gente já tem um app baixado, que é o nosso genoma. Mas a gente precisa criar mais um app, que é esse app que apropria os códigos desses protocolos"; "cada um de nós estuda se quiser e do jeito que achar que deve. Na hora em que tá fazendo isso, você tá construindo um app no seu genoma"; "primeiro é necessário você adquirir conhecimento. Segundo, limpar o seu mundo fenomênico, mental, de conceitos e de emoções"; "quando surgir uma massa crítica de humanos que faça isso, o problema está resolvido. O tikun vai começar a funcionar em níveis de consecução que em pouquíssimo tempo se conseguirá o que não se conseguiu até hoje nesses quase 14 bilhões [de anos]".
 - **[P2024-07-14] O marco zero (U0858–U0860):** "essa programação especializada somente é possível na condição humana, e isso somente começou a se dar a partir do momento em que o humano Jesus, preso ao madeiro da cruz, em pleno sofrimento, estruturou essa programação no genoma dele, no próprio genoma dele. Sem o exemplo de Jesus, nós não teríamos o marco zero de um padrão de genoma humano dignificado".
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 9]** a Criatura Universal como único rumo "a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador".
+- **[B019 p. 11]** o tikun prático passa pelo aperfeiçoamento das criaturas-ferramentas: o progresso do Criador "possa ter lugar no seu psiquismo" via CFDP/DNA.
+- **[B019 p. 205]** coconstrutor da "'situação Corporal-mental' do próprio Criador 'caído'" = conserto da Obra **e** do criador (peso pedido na Devolutiva).
+- **Não ontologizar** Singularidade de Kurzweil (cap. 13) nem Manifesto Orbum / IEEA (fecho do volume).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

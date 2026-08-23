@@ -52,6 +52,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **[P2022-12-17 — FONTE ORIGINAL] Javé e a escolha de Adão (U0705–U0735; U0830):** "quando Javé percebeu que Shiva fincou na terra um império para ele... foi isso que levou o nosso amigo Javé a escolher Adão"; "Javé que já havia gasto a fórmula do seu código fonte definidor, porque ele alojou isso em Adão, ele ficou refém dessa situação, não podia arrancar de volta"; "a demência de Javé levou Javé a fazer ao longo desses milênios coisas que a gente nem imagina que depois ele se arrependeu"; "Javé largou os arianos... e voltou a procurar alguém da descendência de Éber... esse alguém era Abraão... voltou a assumir o nome de Javé"; "o nome de Javé (YHWH) está registrado nas bases químicas do DNA" [QUARENTENA — leitura]; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele".
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 7]** "a Divindade Criadora, por ter se transformado em 'vítima' da própria Obra, nela 'caiu prisioneira' e não pôde concluir o 'Programa inicialmente gerado' [...] o 'Programa' ficou 'incompleto' e, por isso, o universo foi gerado cheio de imperfeições e de processos inconclusos."
+- **[B019 p. 11]** "a Divindade Cocriadora, atualmente refém do progresso das suas criaturas"; o Criador "'caído' foi forçado a conhecer o 'Projeto edificado' pelos seus 'escolhidos'".
+- **[B019 p. 120]** "o 'susto que Javé tomou com Adão e Eva'", pontos fora da curva do roteiro do "'Criador dos Céus e da Terra' — apesar de 'caído' e por isso 'refém' da sua própria Criação".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

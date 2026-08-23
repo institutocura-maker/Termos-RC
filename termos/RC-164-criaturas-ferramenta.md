@@ -27,6 +27,13 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 
 - **Criaturas-ferramenta (P2025-03-15):** "nós, humanos, somos o que a gente nem sabe que é o melhor produto do universo... o caos organizado da melhor maneira"; o espírito como "museu" que mantém os códigos podres vivos ("colocam o peixinho no aquário, escaneiam o cérebro, guardam os protocolos").
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 11]** o aperfeiçoamento das "criaturas-ferramentas" é o meio pelo qual "o progresso do Criador — momentaneamente incapacitado de evoluir por si mesmo, devido à sua 'queda' — possa ter lugar no seu psiquismo".
+- **[B019 p. 205]** "existir nesta Criação significa simplesmente ser uma 'criatura-ferramenta' de uma construção em curso no próprio universo! Aqui, não se vê 'deus' agindo, nem ninguém mais a não ser os próprios 'agentes da vida'."
+- **[B019 p. 205]** "o homem é a 'criatura-ferramenta' mais recente no 'Palco Universal'".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

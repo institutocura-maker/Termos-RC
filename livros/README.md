@@ -20,4 +20,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Piloto
 
-`B019_nem_deus_nem_jave_nem_darwin` — *Nem Deus, nem Javé, nem Darwin: A Evolução Possível* (Conectar, 2021).
+`CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin` — *Nem Deus, nem Javé, nem Darwin: A Evolução Possível* (Conectar, 2021). Devolutiva O-1..O-8 aprovada em 2026-08-23; 8 fichas ampliadas; 0 códigos novos; B082 = remissão histórica a B019. Sem apostila temática neste ciclo.

@@ -17,6 +17,14 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **Grafia preferida:** DNA como Projeção Holográfica do Psiquismo do Criador
 - **Variações:** DNA = projeção holográfica; molécula de DNA como representação química do psiquismo de Javé
 
+
+## Ampliação — B019 (Nem Deus, nem Javé, nem Darwin)
+
+- **[B019 p. 11]** "'ponte quântica' do seu 'CFDP manipulado' (trata-se do código-fonte definidor de vida das 'criaturas-ferramentas', ou CFD, que no caso específico dos seres vivos da Terra, é denominado 'DNA')".
+- **[B019 p. 119]** após a terceira geração de estrelas e planetas rochosos com água, "'moléculas-mãe' — ou seja, o CFD do Criador, que chamamos de 'DNA', no caso da Terra —" foram semeadas "aonde houvesse condições de gerar algum tipo de vida biológica".
+- **[B019 p. 120]** o Eu caído desenvolveu um código-fonte das posturas psíquicas (sobreviver a qualquer custo; fazer o Eu imperar) "repassados a todos os seres [...] a partir do seu já referido CFDP ou 'código genético pessoal'".
+- **Quarentena:** DNA-lixo / epigenética / metilação (caps. 15–16) — leitura de Ellam, não fato validado.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

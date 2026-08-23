@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B019 — Nem Deus, nem Javé, nem Darwin
 
-> **ESTADO OPERACIONAL: FASE 1 (piloto de livros) — DOSSIÊ EM ABERTURA, NENHUM CÓDIGO CONSUMIDO.** A base já cita B019 em 20 termos (RC-538–547 e adjacentes). Este PDF é a 1ª vez que o original entra no workspace. Aguardar Devolutiva (O-1..O-8) antes de ampliar fichas ou tocar em BIBLIO.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 8 fichas ampliadas; 0 códigos; B082 = remissão histórica a B019. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 
