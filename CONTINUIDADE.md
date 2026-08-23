@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B052 aplicada)  
+**Data de sincronização:** 2026-08-23 (ingresso B043 — *Jesus e o Druida da Montanha*)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
@@ -52,6 +52,14 @@
 
 - O-1 confirmado (é B052); O-2: 6 fichas ampliadas (RC-434, RC-433, RC-437, RC-242, RC-217, RC-049) com páginas do PDF; O-3: zero códigos; RC-435–441 / RC-051 / RC-044 / RC-540 não materializadas; O-4: identidade de gênero e eugenia fora da ontologia; O-5: B053–B056 intactas; “almanaque tardio” / 2º e 3º livros → Colecionar Incertezas; **O-6: BIBLIO intocada**; O-7: quarentena clínica absoluta + científica/teológica/ufológica; O-8: pasta em `livros/CONCLUIDOS/B052_homoafetividade_segredo_perdido_eden/`. Sem apostila.
 - **Colecionar Incertezas (novos):** “FIM DO PRIMEIRO LIVRO” (B052 p. 229); “almanaque tardio” (título provisório do autor); “terceiro livro sobre esse tema” (p. 236); Aya Raz Yel / Melmon / Devon = nomes de enredo.
+
+## Fase 2 — B043 *Jesus e o Druida da Montanha* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Jesus e o Druida da Montanha A - Jan Val Ellam.pdf` (912.839 bytes; SHA-256 `7d2a7aa9e7b71ff3361a18c1affc831cc1b2037ce6feb8f26ed23fadd841027e`; 117 págs = **B043**). O “A” no nome do arquivo **não** é volume novo.
+- Ciclo em `livros/B043_jesus_druida_da_montanha/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~36.044 palavras; SHA-256 `3721d3b1a4ecd440f96c2130fe276abd1c99e9626080f4b5873b087b268d2a9a`. CIP 113 p. / 2ª ed. 2019 / ISBN ebook 978-85-62411-55-7 — BIBLIO já descreve 117 págs e 2009/2019; **intocada**.
+- 7 termos já citam B043; 2 com ficha. Dossiê sugere ampliar RC-072, RC-373 e (opcional) RC-001. **0 códigos.** RC-374/375/376/377 sem ficha — não materializar.
+- Dossiê enxuto aguarda O-1..O-8.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

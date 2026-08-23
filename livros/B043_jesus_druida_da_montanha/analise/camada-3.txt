@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B043_jesus_druida_da_montanha/original.txt
+
+SHA-256 3721d3b1a4ecd440f96c2130fe276abd1c99e9626080f4b5873b087b268d2a9a
+Não duplicar aqui (222 KB). Página 1 = [página sem texto extraível].
+Sem marca d'água de conversor.

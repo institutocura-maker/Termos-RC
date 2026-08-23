@@ -1,0 +1,5 @@
+Contexto de ingresso (2026-08-23): quarto livro da escala seletiva (após B019, B011, B052).
+PDF entregue em uploads_recepcao/ pelo curador (push 39940d1 no branch da sessão).
+Obra já na BIBLIO como B043 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+7 termos já citam B043; 2 com ficha física (RC-072, RC-373). Quarentena teológica (Incognoscível × Javé).
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

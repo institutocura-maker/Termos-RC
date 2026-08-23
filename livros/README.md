@@ -25,3 +25,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B011_jesus_enigma_transfiguracao` — Devolutiva aplicada (2026-08-23); 5 fichas; 0 códigos; BIBLIO atualizada à mão (Conectar 2017).
 
 `CONCLUIDOS/B052_homoafetividade_segredo_perdido_eden` — Devolutiva aplicada (2026-08-23); 6 fichas; 0 códigos; BIBLIO intocada. **Quarentena clínica absoluta.** Sem apostila.
+
+`B043_jesus_druida_da_montanha` — ingresso (2026-08-23); dossiê enxuto aguarda Devolutiva; 0 códigos; BIBLIO intocada.
