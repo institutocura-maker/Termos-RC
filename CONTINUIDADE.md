@@ -15,6 +15,18 @@
 - Índice, XLSX, DOCX de leitura e pacotes (`backups/pacotes/`) regenerados;
 - **Visor do workspace** (`ferramentas/visor_workspace.py`) recriado nesta sessão (somente leitura; downloads no preview da Arena ainda instáveis — **pausado** a pedido do curador).
 
+## Devolutiva formal — Apostila Temática Carbono × Sílica (2026-08-23)
+
+- O curador considerou **concluídos** os itens O-1..O-8 da Apostila Temática *Carbono × Sílica*. Não há bloco O-1..O-8 adicional a cumprir neste ciclo; a apostila permanece em `pedagogico/` como está.
+- Nenhum código foi consumido; a PARTE IX (EXT Ari Barbosa) segue isolada.
+
+## Fase 1 — piloto de livros: B019 *Nem Deus, nem Javé, nem Darwin* (abertura 2026-08-23)
+
+- **PDF ingressado:** `uploads_recepcao/Nem Deus, nem Jave, nem Darwin (a evolução possível) - Jan Val Ellam.pdf` (1.808.075 bytes; SHA-256 `0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051`; 238 págs; ISBN e 18 capítulos = **B019**, não obra nova).
+- **Pasta nova:** `livros/` (minúsculo, padrão do repo) + `livros/CONCLUIDOS/` (vazia até Devolutiva + produto) + ciclo em `livros/B019_nem_deus_nem_jave_nem_darwin/` (`original.pdf` byte a byte, `original.txt` extract paginado, ficha, dossiê enxuto).
+- **B082** (*…a evolução do cérebro*, P2021-01-23) **não fundida** — [REVISAR] na Devolutiva.
+- **0 códigos consumidos.** Dossiê em `livros/B019_…/analise/DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md` aguarda O-1..O-8 do curador.
+
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**

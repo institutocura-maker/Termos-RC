@@ -1,0 +1,6 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B019_nem_deus_nem_jave_nem_darwin/original.txt
+
+SHA-256 4b85900ee0de5437414774ef995dd3b15293018aa805bb2d04bea1d9e5007586
+Não duplicar aqui (536 KB). Página 1 = [página sem texto extraível].

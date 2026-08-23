@@ -1,0 +1,22 @@
+{
+  "obra": "B019",
+  "titulo": "Nem Deus, nem Javé, nem Darwin: A Evolução Possível",
+  "autor": "Jan Val Ellam",
+  "editora": "Conectar",
+  "ano": 2021,
+  "isbn_papel": "978-65-86157-12-3",
+  "isbn_digital": "978-65-86157-11-6",
+  "fonte_upload": "uploads_recepcao/Nem Deus, nem Jave, nem Darwin (a evolução possível) - Jan Val Ellam.pdf",
+  "bytes_pdf": 1808075,
+  "sha256_pdf": "0fa27f544e8fd29883b0641f07d32692e0abc90358e00bfdf4c94ad5de583051",
+  "paginas_pdf": 238,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 536761,
+  "sha256_original_txt": "4b85900ee0de5437414774ef995dd3b15293018aa805bb2d04bea1d9e5007586",
+  "palavras_approx": 82014,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 1 piloto — livros",
+  "status": "ingresso; dossiê enxuto; aguardando Devolutiva",
+  "codigos_consumidos": 0,
+  "nota_b082": "B082 permanece obra distinta até decisão do curador"
+}

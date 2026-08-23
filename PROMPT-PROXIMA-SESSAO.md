@@ -4,7 +4,7 @@
 >
 > **Hábito obrigatório:** a sessão que estiver encerrando atualiza este arquivo *antes* do último commit — estado canônico, tarefas feitas, pendências e o próximo passo. A sessão nova lê este arquivo primeiro.
 >
-> **Última atualização:** 2026-08-23 · AGENTE 9 (higienização feita; visor pausado) · branch `arena/01a02e74-termos-rc`.
+> **Última atualização:** 2026-08-23 · AGENTE 9 (higienização feita; Carbono O-1..O-8 encerrada; Fase 1 B019 aberta, aguarda Devolutiva) · branch `arena/01a02e74-termos-rc`.
 
 ---
 
@@ -46,7 +46,7 @@ TAREFA Nº 2 — CICLO DE HIGIENIZAÇÃO (FEITO em 2026-08-23):
 
 CORREÇÃO JÁ APLICADA (não refazer): compatibilidade com Windows 11 — PR #2, merge b420f14: dois DOCX em pedagogico/ tinham ':' no nome (proibido no NTFS, abortava o git clone) e o gerador ganhou nome_seguro_windows() em build_apostila.py. Confirmado no clone da sessão 9: a função existe; nenhum ':' em pedagogico/. Os DOCX de Javé/Buraco Negro e Thot/Hermes NÃO estão na árvore (só os .md) — regenerar só se o curador pedir. O hash 4af6e6c pode não aparecer (clone raso).
 
-PENDÊNCIAS DE FUNDO (eu escolho a ordem): devolutiva formal O-1..O-8 da Apostila Temática Carbono × Sílica; Fase 1 do reprocessamento dos livros (Fase 0 concluída em pedagogico/DOSSIE-AUDITORIA-LACUNAS-FASE-0.md — falta escolher o livro-piloto; recomendação registrada: piloto → escala seletiva, sem repassada total); Portal das Apostilas Temáticas (guardado); ampliações retidas sem ficha física (RC-013/014, RC-135, RC-163, RC-190, RC-343, RC-542, RC-019, RC-156, RC-075, RC-035, RC-457/458/459 Tridevi, RC-211); materiais não processados em uploads_recepcao/ (Prabrajna em Perpérion refatorada.pdf e Nem Deus, nem Javé, nem Darwin.pdf); Mapa do Buraco Negro Javé (regenerar quando pedido); B079–B083 pendentes de confirmação bibliográfica.
+PENDÊNCIAS DE FUNDO (eu escolho a ordem): Devolutiva O-1..O-8 do piloto B019 (dossiê em livros/B019_nem_deus_nem_jave_nem_darwin/analise/); B082×B019 [REVISAR — fundir?]; Portal das Apostilas Temáticas (guardado); ampliações retidas sem ficha física (RC-013/014, RC-135, RC-163, RC-190, RC-343, RC-542, RC-019, RC-156, RC-075, RC-035, RC-457/458/459 Tridevi, RC-211); Mapa do Buraco Negro Javé (regenerar quando pedido); B079–B083 pendentes de confirmação bibliográfica. Carbono × Sílica O-1..O-8: ENCERRADA (2026-08-23). PDF B019 ainda também em uploads_recepcao/.
 
 REGRAS DE OURO (inegociáveis): não inventar, não completar, não interpolar — marcar [REVISAR], [TEXTO INCOMPLETO], [frase truncada], [NÃO REVELADO]; falas da plateia sempre isoladas e nunca viram ontologia; Navalha de Ockham — quase sempre zero códigos novos, prefira ampliar fichas existentes (protege o RAG local); nenhum código é consumido antes da Devolutiva (O-1..O-8); quarentenas clínico/científica, político/geopolítica, ufológica, teológica e biográfica — tudo é leitura de Ellam, não fato validado; grafias canônicas: Brahma, Tikun, Sophia (não Sofia), Nefilins, Ialdabaoth, Olm, Elm, Adhy, Javé, Vishnu, Xamanismo (com X), Wyrd/Urd (RC-658; RC-560 é remissão), Kapila, Vaishnavismo, Hochmah, Moros (não Morus), Malkuth=Hochmah=Sophia, Orlog=Moros, Norns Urd/Verdandi/Skuld, Awayen/Awaylengan/Awaymaion, Morlens, Ginnungagap, Orunmilá, Obatalá, En Ma, Deva/Aurora, Mohen So; preservar a voz de Ellam (marcadores, humor, digressões) — o editor é menor que o autor; jamais editar a lista BIBLIO de build_xlsx.py programaticamente (já corrompeu 2×) — edição manual.
 

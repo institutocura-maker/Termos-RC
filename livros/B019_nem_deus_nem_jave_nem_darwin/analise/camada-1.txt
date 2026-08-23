@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): piloto da Fase 1 do reprocessamento dos livros.
+Fonte: PDF entregue em uploads_recepcao/. Cópia em livros/B019_nem_deus_nem_jave_nem_darwin/original.pdf.
+A obra já constava na BIBLIO como B019 (status "trabalhada", era pré-GitHub). Este é o primeiro original arquivado no workspace.
+Introdução datada Atlan, 13 de janeiro de 2021.
+B082 (título vizinho citado em P2021-01-23) NÃO foi fundido.
+Corpus integral: original.txt (extract paginado). Não duplicar em camada-3.
