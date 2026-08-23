@@ -1,0 +1,5 @@
+Contexto de ingresso (2026-08-23): segundo livro da escala seletiva (após piloto B019).
+PDF entregue em uploads_recepcao/ pelo curador (push no branch da sessão).
+Obra já na BIBLIO como B011 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+Divergência de edição Zian 2002 × Conectar 2017 — Colecionar Incertezas; BIBLIO intocada.
+Corpus: original.txt (extract paginado; p. 1 sem texto; marca d'água de conversor omitida).

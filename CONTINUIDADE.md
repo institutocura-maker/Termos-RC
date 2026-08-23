@@ -29,6 +29,13 @@
 - Pasta movida para `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` (inclui `original.pdf`).
 - Base permanece `OK: 777 termos, 1852 relações`.
 
+## Fase 2 — B011 *Jesus e o Enigma da Transfiguração* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Jesus e o Enigma da Transfiguração.pdf` (2.624.011 bytes; SHA-256 `18ba62054f2d0404a943abfbe93929ed2abb50afb8f2d083f157a858ea8fda69`; 176 págs = **B011**).
+- Ciclo em `livros/B011_jesus_enigma_transfiguracao/` (fora de CONCLUIDOS até Devolutiva).
+- **[REVISAR]** BIBLIO = Zian 2002; créditos do PDF = Conectar 2017 / ISBN 978-85-62411-39-7. BIBLIO **não** editada.
+- Dossiê enxuto aguarda O-1..O-8. **0 códigos.**
+
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**

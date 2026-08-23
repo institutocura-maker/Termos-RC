@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B011_jesus_enigma_transfiguracao/original.txt
+
+SHA-256 5d67f262bfb2611fcbafc184fbfc2daf08ea86776f1fcbcf4b25985ed8bf9de1
+Não duplicar aqui. Página 1 = [página sem texto extraível].
+Marca d'água de conversor ebook omitida no extract.
