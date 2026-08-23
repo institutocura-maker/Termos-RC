@@ -4,7 +4,7 @@
 >
 > **Hábito obrigatório:** a sessão que estiver encerrando atualiza este arquivo *antes* do último commit — estado canônico, tarefas feitas, pendências e o próximo passo. A sessão nova lê este arquivo primeiro.
 >
-> **Última atualização:** 2026-08-23 · AGENTE 9 (B011 dossiê aberto, aguarda Devolutiva) · branch `arena/01a02e74-termos-rc`.
+> **Última atualização:** 2026-08-23 · AGENTE 9 (B011 Devolutiva aplicada; 5 fichas; BIBLIO Conectar 2017) · branch `arena/01a02e74-termos-rc`.
 
 ---
 

@@ -68,6 +68,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **[P2026-07-30 — FONTE ORIGINAL] Jesus e a não-continuidade (Pergunta 4):** "Jesus nasceu 2.000 anos [atrás]; esse espírito era para estar produzindo outros corpos humanos dando sequência a Jesus, mas não consegue fazer"; "tudo o que Jesus prometeu que aconteceria na frente ainda não se cumpriu, porque seu espírito não sabe acender o fósforo [STT 'fóssil' — REVISAR], seu espírito não tem força devido ao estado de profunda decadência de alguns dos seus eus"; "muita gente, não necessariamente humana, observa a atuação desse espírito e a não continuidade; esse problema começou desde a rebelião de Lúcifer" [QUARENTENA TEOLÓGICA — leitura do autor].
 
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 4]** "a personalidade conhecida como Jesus, era, na realidade, a expressão transitória de uma autoridade celeste que, por amor aos que viviam na Terra tornou-se humano para poder com estes conviver e ajudá-los".
+- **[B011 p. 19]** "por mais que nos explicasse Sua origem, dizendo que era um estrangeiro na Terra por não pertencer a este mundo, nós conhecíamos Sua família"; "Ele falava muito sério quando afirmava ser rei, mas não deste mundo"; o Deus das Escrituras "era [...] muito diferente daquele a quem Jesus tratava com tanta intimidade e com toda simplicidade".
+- **[B011 p. 134–135]** diretriz pré-encarnação: sem interferência de naves; a consciência maior "encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre" — **quarentena ufológica** na menção a naves; o limite cerebral é leitura do narrador (Moisés).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

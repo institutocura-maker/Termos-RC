@@ -17,6 +17,14 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - E nós estamos vivendo os dias em que só falta o sétimo anjo tocar a sétima trombeta (B004 A Sétima Trombeta do Apocalipse); humor do autor: a torcida do Corinthians vai fazer gol... mas Sofia chega, é maluco.
 - A volta se dá na personalidade celeste (Hochmah/Sophia), não como nascimento humano.
 
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 5]** as três individualidades "afirmaram aqui se encontrar em missão de apoio nestes dias que antecedem o que eles anunciam como sendo o prometido retorno do Mestre Jesus".
+- **[B011 p. 34]** Jesus a João: "era necessário que os fatos acontecessem conforme a escolha das pessoas que tinham relação com sua vida, para que a responsabilidade dos que vivem nesta morada fosse preservada e mais tarde requerida para ajudar-Lhe quando de Sua volta".
+- **[B011 p. 134]** o livro do Apocalipse "não estava sequer previsto ao tempo da vida de Jesus. Sua necessidade estratégica somente foi depois detectada pelo Mestre".
+- **[B011 p. 135]** "o contato claro e objetivo com os que estão encarnados somente se daria após a autorização do Mestre, em Sua segunda vinda".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

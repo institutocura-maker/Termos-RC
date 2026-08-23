@@ -36,6 +36,10 @@
 - **[REVISAR]** BIBLIO = Zian 2002; créditos do PDF = Conectar 2017 / ISBN 978-85-62411-39-7. BIBLIO **não** editada.
 - Dossiê enxuto aguarda O-1..O-8. **0 códigos.**
 
+### Devolutiva B011 aplicada (2026-08-23)
+
+- O-1 confirmado; O-2: 5 fichas ampliadas (RC-072, RC-366, RC-365, RC-005, RC-236) com páginas do PDF; O-3: zero códigos; RC-367/368/376/138/214 não materializadas; O-4: posfácio permanece [NÃO REVELADO]; O-5: B012 intacta; **O-6: BIBLIO B011 editada manualmente** → Conectar, 2017, ISBN 978-85-62411-39-7, CIP 238 p. / 176 págs no arquivo (Zian 2002 registrado como menção anterior); O-7: quarentenas mantidas; O-8: pasta em `livros/CONCLUIDOS/B011_jesus_enigma_transfiguracao/`. Sem apostila.
+
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 
 **Última atualização (2026-08-20) — 2ª RODADA DE APOSTILAS TEMÁTICAS (3 novas abordagens; a pedido do curador, a partir das sugestões do assistente):**

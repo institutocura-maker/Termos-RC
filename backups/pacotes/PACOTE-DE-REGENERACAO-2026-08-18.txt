@@ -10,14 +10,14 @@
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # ferramentas/dados_termos.py | 275835 | 2954 | cbee085390e5d951c03ce5c3dab3dd9130349251804f57e98f53796248fe10d7
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
-# ferramentas/build_xlsx.py | 53281 | 352 | df3473eaf569ddb8eb54c7dfa33dade650bbff46b222733e63f2e61efe80825a
+# ferramentas/build_xlsx.py | 53499 | 352 | 449e0d8943d2a27dd30a3b01924c042233afccc6265f9846ef76e8d9eaa55b88
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
 # ferramentas/build_apostila.py | 13021 | 288 | e1395127f4b75145497fa44b1be8f7c381f31d8ad9444afbf6d763db7ed2d3f9
 # ferramentas/criar_pasta_palestra.py | 2686 | 67 | f1fd35d6a916d5f4e7fcd5a3f742b64dc84da390a5c6eb73bfca05e595716741
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 103379 | 951 | b21440ec0c155cc8bc1af34a9b6879bdb3e8b63a5155eb31123d0a2d69097673
+# CONTINUIDADE.md | 104474 | 962 | 2a403dbdd3b736128e58d0e98f5765b131fd7f1ad05c34da2d43f31f82a230c9
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 554626 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 555939 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -3102,8 +3102,8 @@ BIBLIO = [
     ["B008", "Nos Bastidores da Luz 3", "Revelações do contexto cósmico", "Conectar", "2018", "a confirmar", "Aguardando PDF."],
     ["B009", "Muito Além do Horizonte", "A ligação entre Kardec, Ramatis e Rochester", "Zian", "2001", "a confirmar", "Aguardando PDF."],
     ["B010", "O Testamento de Jesus", "—", "Zian", "2006", "a confirmar", "Aguardando PDF."],
-    ["B011", "Jesus e o Enigma da Transfiguração", "—", "Zian", "2002", "trabalhada",
-     "OBRA PRIMÁRIA (176 págs PDF; Zian, 2002). 3 partes: Livro de Tiago o Maior (Fator Judas); Livro de João o Batista; Livro de Moisés (Enigma da Transfiguração). Transfiguração como alteração vibratória."],
+    ["B011", "Jesus e o Enigma da Transfiguração", "—", "Conectar", "2017", "trabalhada",
+     "OBRA PRIMÁRIA — Jan Val Ellam. PDF arquivado na Arca: 176 págs; créditos Conectar Editora, 2017; ISBN 978-85-62411-39-7; CIP 238 p. (1ª menção BIBLIO: Zian, 2002 — reimpressão/edição do mesmo título). 3 partes: Livro de Tiago o Maior (Fator Judas); Livro de João o Batista; Livro de Moisés (Enigma da Transfiguração). Esclarecimento: Atlan, 11/06/2001. Atualização manual Devolutiva B011 O-6 (2026-08-23)."],
     ["B012", "Recado Cósmico", "As Revelações de Jesus", "Zian", "1999/2002", "a confirmar", "Aguardando PDF."],
     ["B013", "Tzimtzum", "O Exílio Forçado de uma Divindade — Revelações Antigas da Cabala", "Conectar", "2020", "trabalhada",
      "OBRA PRIMÁRIA (185 págs PDF; 1ª ed. 2020; ISBN 978-65-86157-09-3). 11 capítulos + anexo. Tzimtzum = implosão do Corpo Mental; Cabala ↔ RC; 270 mundos."],
@@ -4610,6 +4610,17 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 - **Devolutiva O-1..O-8 APROVADA** (2026-08-23, via Assistente do curador): identidade B019; 8 fichas ampliadas (RC-541, RC-042, RC-545, RC-217, RC-164, RC-538, RC-001, RC-514) com páginas do PDF; **zero códigos novos**; RC-540/542/544 sem ficha — não materializadas; B082 tornou-se **remissão histórica** a B019 (edição manual da BIBLIO); BIBLIO de B019 intocada; quarentenas IEEA/Orbum e científicas mantidas; sem apostila temática.
 - Pasta movida para `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` (inclui `original.pdf`).
 - Base permanece `OK: 777 termos, 1852 relações`.
+
+## Fase 2 — B011 *Jesus e o Enigma da Transfiguração* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Jesus e o Enigma da Transfiguração.pdf` (2.624.011 bytes; SHA-256 `18ba62054f2d0404a943abfbe93929ed2abb50afb8f2d083f157a858ea8fda69`; 176 págs = **B011**).
+- Ciclo em `livros/B011_jesus_enigma_transfiguracao/` (fora de CONCLUIDOS até Devolutiva).
+- **[REVISAR]** BIBLIO = Zian 2002; créditos do PDF = Conectar 2017 / ISBN 978-85-62411-39-7. BIBLIO **não** editada.
+- Dossiê enxuto aguarda O-1..O-8. **0 códigos.**
+
+### Devolutiva B011 aplicada (2026-08-23)
+
+- O-1 confirmado; O-2: 5 fichas ampliadas (RC-072, RC-366, RC-365, RC-005, RC-236) com páginas do PDF; O-3: zero códigos; RC-367/368/376/138/214 não materializadas; O-4: posfácio permanece [NÃO REVELADO]; O-5: B012 intacta; **O-6: BIBLIO B011 editada manualmente** → Conectar, 2017, ISBN 978-85-62411-39-7, CIP 238 p. / 176 págs no arquivo (Zian 2002 registrado como menção anterior); O-7: quarentenas mantidas; O-8: pasta em `livros/CONCLUIDOS/B011_jesus_enigma_transfiguracao/`. Sem apostila.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

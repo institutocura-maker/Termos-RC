@@ -22,6 +22,15 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 
 - **Transfiguração (P2025-05-31):** faltando ~5 meses para a crucificação, anjos de Hochmah cobram a missão no Monte Tabor (Pedro, João e Tiago; "uma nuvem domina a montanha"); Jesus se transfigura, "se fez igual aos anjos e falou com eles na linguagem que eles falavam em Capela" (rebelião de Lúcifer); "garanta ao meu pai Hochmah que eu vou devolver o que ele me deu"; o autor escreveu um livro sobre o tema (vol. 2 "liquidado numa briga com Javé" — humor).
 
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 4]** "A Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém, diferente dos demais, o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus".
+- **[B011 p. 5]** o objetivo das revelações é "o porquê de ter acontecido — nos moldes em que se deu — o encontro entre Jesus e as entidades descritas e o que conversaram".
+- **[B011 p. 134]** "antes de nascer para o mundo terreno, nosso Mestre havia deixado clara Sua diretriz para todas as hostes que O assessoravam, e sabíamos que, em nenhuma hipótese, poderia haver qualquer tipo de interferência de nossa parte. [...] teríamos de nos fazer homens."
+- **[B011 p. 135]** o encontro foi **solicitado** porque, "mesmo sendo Ele quem era, Sua consciência maior encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre"; "caberia ao próprio Mestre acenar com a hora".
+- Expressões "alteração vibratória" e "assessoria cósmica" permanecem nos nós já existentes (RC-367/368) **sem ficha nova**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

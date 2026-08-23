@@ -22,4 +22,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin` — piloto encerrado (2026-08-23).
 
-`B011_jesus_enigma_transfiguracao` — *Jesus e o Enigma da Transfiguração* (B011). Dossiê enxuto aberto; aguarda Devolutiva. Não está em CONCLUIDOS.
+`CONCLUIDOS/B011_jesus_enigma_transfiguracao` — Devolutiva aplicada (2026-08-23); 5 fichas; 0 códigos; BIBLIO atualizada à mão (Conectar 2017).

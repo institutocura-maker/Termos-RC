@@ -12,7 +12,7 @@
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
-# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 1718 | 43 | f0c2a2476ee96acf582a7b32dc0572d19836f337cd52194da525e5f20e851f53
+# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 2568 | 51 | b11e73cdbc96ff9c55cc46821063e0866f09b6ebf6fdacf335a3ce7440a3495d
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 3305 | 48 | b38fd7e27ad1a52de0717ed0fe06633a9d2e299e13aabb1d12a7da2a7aa3e723
 # termos/RC-009-sophia-cristo-cosmico.md | 21658 | 183 | e37ae48403902a12b645aaa1ec38a679483b9be43bf76e1aa1f47c5f1962b5b1
@@ -28,7 +28,7 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 11874 | 113 | 82e9157ffcf25795ab3e0d19df1a7ca1c8f0fd8888aa3bf7a2019a90740d900d
+# termos/RC-072-jesus.md | 12821 | 120 | c2d5aca2ec814cd7ad2809b4f3179d56e5e10059bc80957e8d17925496f87607
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -75,7 +75,7 @@
 # termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
 # termos/RC-231-razao-filosofica-dos-terraqueos.md | 3379 | 50 | 9c83b3a41c777500f3ef34b86a5688add28d04a0373a11808ccd187fee89ac26
 # termos/RC-232-ostronomos.md | 3034 | 45 | dc2ca318f4716600e2866e196074bad63cc4aa22bb5a71b35e0632df0ca2f193
-# termos/RC-236-o-calvario-de-um-inocente.md | 2791 | 44 | 9c79757a9a166bb6cfba64f4b59a86a5314aae442324701ef53e4cfca8bdb17c
+# termos/RC-236-o-calvario-de-um-inocente.md | 3438 | 52 | 86b427755b60ccd2be627011e7ee75353a8b9b52f0209229b2bb464e23b5a5a2
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 3065 | 45 | 315a2a5cfa8a5194708c3b33b722b38e4caee80897d374c0fa75bcc4065acd2b
 # termos/RC-243-genetica-da-confianca.md | 2626 | 41 | cee8949465b59e78f3e61fe601b6f6f9ac69c725bee6fe041dc7647e817e3c2d
@@ -129,8 +129,8 @@
 # termos/RC-355-fator-extraterrestre-o-elo-perdido.md | 2436 | 41 | 3f9d868a62481610d5e6b822ebbc448aac97d4dcfc1a384fd5c0be78ff7f70c9
 # termos/RC-357-confederacoes-de-mundos.md | 2904 | 41 | 6057e1cf460881c67cb282e7dd9f089cbfaec048934a22a1d2ca0fa8853d9a4f
 # termos/RC-359-abducoes-e-reparo-espiritual.md | 2510 | 40 | ef3580ec81421a788da867c3ea5b52a7865da4bc5c582a31321d968191e39511
-# termos/RC-365-o-fator-judas.md | 2365 | 45 | a263f341bf61a0c9b3bcc1f03fd7f5605773174d65204a9ff84c8253e81da53b
-# termos/RC-366-o-enigma-da-transfiguracao.md | 3202 | 45 | 806fdf918e0b33106e14bab33365ec3d06842bec2e6c1e89de6dc7fbed72f502
+# termos/RC-365-o-fator-judas.md | 2988 | 52 | 4087fd854b320b4c2c4d51ede1bcac102b804bcfa95bfa279c144766c0c00036
+# termos/RC-366-o-enigma-da-transfiguracao.md | 4458 | 54 | a405659445ade47aba202ae53cbc94e055180fb56b7fd9c8ec55354cb4ce174a
 # termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md | 2671 | 41 | 8f31cdcdb5620a363942a40a0a39bf7d8144bd74f8787b0cc7cf7d9da7ef48c3
 # termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md | 2174 | 41 | debe3648e2c6238f236f4c5d53d8ac5b0ccce2ee4972b6a3ab6d790db6125c89
 # termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md | 2694 | 41 | 421cb0708972f57162d603d5a5a0dd71c1b3fb89e8b277e04d8ff4e9b8eacddb
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1428801 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1433124 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -789,6 +789,14 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **Na palestra (P2025-05-31):** promessa (via Enoque): eu vou morrer, vou ressuscitar, mas lá na frente eu volto de novo, não nascendo como ser humano, mas na minha personalidade celeste — todos os olhos da terra verão; nesse dia, o que foi profetizado pelo profeta Enoque terá total cumprimento.
 - E nós estamos vivendo os dias em que só falta o sétimo anjo tocar a sétima trombeta (B004 A Sétima Trombeta do Apocalipse); humor do autor: a torcida do Corinthians vai fazer gol... mas Sofia chega, é maluco.
 - A volta se dá na personalidade celeste (Hochmah/Sophia), não como nascimento humano.
+
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 5]** as três individualidades "afirmaram aqui se encontrar em missão de apoio nestes dias que antecedem o que eles anunciam como sendo o prometido retorno do Mestre Jesus".
+- **[B011 p. 34]** Jesus a João: "era necessário que os fatos acontecessem conforme a escolha das pessoas que tinham relação com sua vida, para que a responsabilidade dos que vivem nesta morada fosse preservada e mais tarde requerida para ajudar-Lhe quando de Sua volta".
+- **[B011 p. 134]** o livro do Apocalipse "não estava sequer previsto ao tempo da vida de Jesus. Sua necessidade estratégica somente foi depois detectada pelo Mestre".
+- **[B011 p. 135]** "o contato claro e objetivo com os que estão encarnados somente se daria após a autorização do Mestre, em Sua segunda vinda".
 
 ## Fontes
 
@@ -1835,6 +1843,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 ## Ampliação — P2026-07-30
 
 - **[P2026-07-30 — FONTE ORIGINAL] Jesus e a não-continuidade (Pergunta 4):** "Jesus nasceu 2.000 anos [atrás]; esse espírito era para estar produzindo outros corpos humanos dando sequência a Jesus, mas não consegue fazer"; "tudo o que Jesus prometeu que aconteceria na frente ainda não se cumpriu, porque seu espírito não sabe acender o fósforo [STT 'fóssil' — REVISAR], seu espírito não tem força devido ao estado de profunda decadência de alguns dos seus eus"; "muita gente, não necessariamente humana, observa a atuação desse espírito e a não continuidade; esse problema começou desde a rebelião de Lúcifer" [QUARENTENA TEOLÓGICA — leitura do autor].
+
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 4]** "a personalidade conhecida como Jesus, era, na realidade, a expressão transitória de uma autoridade celeste que, por amor aos que viviam na Terra tornou-se humano para poder com estes conviver e ajudá-los".
+- **[B011 p. 19]** "por mais que nos explicasse Sua origem, dizendo que era um estrangeiro na Terra por não pertencer a este mundo, nós conhecíamos Sua família"; "Ele falava muito sério quando afirmava ser rei, mas não deste mundo"; o Deus das Escrituras "era [...] muito diferente daquele a quem Jesus tratava com tanta intimidade e com toda simplicidade".
+- **[B011 p. 134–135]** diretriz pré-encarnação: sem interferência de naves; a consciência maior "encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre" — **quarentena ufológica** na menção a naves; o limite cerebral é leitura do narrador (Moisés).
 
 ## Fontes
 
@@ -4744,6 +4759,14 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 - **Grafia preferida:** O Calvário de um Inocente
 - **Variações:** Calvário de um Inocente; a crucificação de Jesus (evento subjacente)
 
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 80]** véspera pascal; "postura grave do Mestre"; lava-pés: "a postura dos seres de Seu porte era a preocupação de servir e não de ser servido"; "há bem mais alegria em dar do que em receber".
+- **[B011 p. 81]** "Um de vós me há de trair." — inquietação; Pedro pergunta a João.
+- **[B011 p. 163–164]** o posfácio declara omissão sobre opções que "teriam tido o condão de ter modificado o rumo dos acontecimentos" — permanece **[NÃO REVELADO]**; não completar.
+- Naves, Sidarta, Zoroastro (p. 154) e IEEA/Orbum: **quarentena**; fora desta ficha.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7384,6 +7407,13 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 - **Grafia preferida:** O Fator Judas
 - **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
 
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 19–20]** Judas, "antes de todos os outros, passou a demonstrar pouca surpresa"; "Motivado pelo orgulho intelectual [...] jactava-se em ser conhecedor do plano de Jesus"; o "óbvio" para ele era que Jesus "assumiria [...] uma espécie de governo planetário, em que os judeus exerceriam a supremacia política" e Judas "ocuparia posição de vulto no pretenso reinado".
+- **[B011 p. 81]** na ceia: "Um de vós me há de trair." — o anúncio, na voz de Tiago, sem interpolar o desfecho.
+- Não ontologizar Yel Am/Yel Liam (RC-138 sem ficha).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7435,6 +7465,15 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 ## Ampliação — P2025-05-31
 
 - **Transfiguração (P2025-05-31):** faltando ~5 meses para a crucificação, anjos de Hochmah cobram a missão no Monte Tabor (Pedro, João e Tiago; "uma nuvem domina a montanha"); Jesus se transfigura, "se fez igual aos anjos e falou com eles na linguagem que eles falavam em Capela" (rebelião de Lúcifer); "garanta ao meu pai Hochmah que eu vou devolver o que ele me deu"; o autor escreveu um livro sobre o tema (vol. 2 "liquidado numa briga com Javé" — humor).
+
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 4]** "A Transfiguração relatada nas páginas do Novo Testamento é apenas mais um dos estranhos eventos que cercaram a vida de Jesus. Porém, diferente dos demais, o fenômeno por si só já abre todo um conjunto de possibilidades que, se verdadeiros, modificam por completo o entendimento que temos a respeito da personalidade de Jesus".
+- **[B011 p. 5]** o objetivo das revelações é "o porquê de ter acontecido — nos moldes em que se deu — o encontro entre Jesus e as entidades descritas e o que conversaram".
+- **[B011 p. 134]** "antes de nascer para o mundo terreno, nosso Mestre havia deixado clara Sua diretriz para todas as hostes que O assessoravam, e sabíamos que, em nenhuma hipótese, poderia haver qualquer tipo de interferência de nossa parte. [...] teríamos de nos fazer homens."
+- **[B011 p. 135]** o encontro foi **solicitado** porque, "mesmo sendo Ele quem era, Sua consciência maior encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre"; "caberia ao próprio Mestre acenar com a hora".
+- Expressões "alteração vibratória" e "assessoria cósmica" permanecem nos nós já existentes (RC-367/368) **sem ficha nova**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

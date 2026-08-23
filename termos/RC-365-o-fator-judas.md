@@ -17,6 +17,13 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 - **Grafia preferida:** O Fator Judas
 - **Variações:** Fator Judas; o papel de Judas; Judas Iscariotes (= Yel Am/Yel Liam, RC-138)
 
+
+## Ampliação — B011 (Jesus e o Enigma da Transfiguração)
+
+- **[B011 p. 19–20]** Judas, "antes de todos os outros, passou a demonstrar pouca surpresa"; "Motivado pelo orgulho intelectual [...] jactava-se em ser conhecedor do plano de Jesus"; o "óbvio" para ele era que Jesus "assumiria [...] uma espécie de governo planetário, em que os judeus exerceriam a supremacia política" e Judas "ocuparia posição de vulto no pretenso reinado".
+- **[B011 p. 81]** na ceia: "Um de vós me há de trair." — o anúncio, na voz de Tiago, sem interpolar o desfecho.
+- Não ontologizar Yel Am/Yel Liam (RC-138 sem ficha).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B011 — Jesus e o Enigma da Transfiguração
 
-> **ESTADO OPERACIONAL: FASE 2 (escala seletiva) — DOSSIÊ ENXUTO, NENHUM CÓDIGO CONSUMIDO.** A base já cita B011 em 11 termos. Aguardar Devolutiva (O-1..O-8) antes de ampliar fichas ou tocar em BIBLIO.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 5 fichas ampliadas; 0 códigos; BIBLIO B011 atualizada à mão (Conectar 2017). Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 
