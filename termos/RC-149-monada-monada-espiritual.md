@@ -18,6 +18,13 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 - **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
 - **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 108–109]** nada existe na Criação “indevida”, em Perpérion ou na Espiritualidade Superior, sem uma “mônada espiritual” estruturando o corpo — “pedra, planta, animal ou mesmo um robô”. A Espiritualidade Superior “começou a dar de si mônadas” para estruturar os clones que Brahma criava.
+- **[B024 p. 110]** os Adhyatman de Perpérion “desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava” — os dois processos tiveram lugar. Situação residual: (a) Brahma/Javé “não tinha alma”; (b) alguns clones passaram a ser estruturados com alma, ainda “robôs” da vontade de Javé. RC-012 / RC-013 / RC-100 permanecem **sem ficha**.
+- **[B024 p. 111]** muitas mônadas imantadas na gênese a vegetais e animais irracionais “se encontram na posição de espíritos agora ‘imantados’ em corpos humanos”. A epopeia de cada alma é “trajetória histórica” ainda por descortinar.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

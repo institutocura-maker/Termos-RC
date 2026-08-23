@@ -56,6 +56,14 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[B044 p. 55]** Brahma, Shiva e Vishnu (condições Adhydaiva) se autoatribuíram poder das personalidades anteriores — Prabrajna, Savna e Mavatna (Adhyatman). RC-013 / RC-014 permanecem **sem ficha**.
 - **[B044 p. 63]** o planejamento da transferência = “Projeto Talm”; recriar a Colmeia Trimurtina no biológico. Sem cadastrar B045.
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 81]** cap. 12: formulado há ~7,5 bi, quando os extrafísicos perceberam que “tinham ‘falido’”; há ~6 bi o processo se redirecionou para o universo material. Tentativa de trazer o CFDP de Brahma do antimaterial para o físico: da condição eletromagnética/plasmada → química → biológica.
+- **[B024 p. 82–83]** Brahma, Vishnu e Shiva, prisioneiros dos próprios limites, só sabiam agir por “caos” e “ordem”. Fenvans = “seres-cobaias” criados em laboratórios do antimaterial (nota 21). RC-064 já tem ficha; não materializar novas estirpes.
+- **[B024 p. 111]** os três “Senhores da Trimurti” disputaram “qual parte de cada um seria ‘semeada’”; Vishnu e Shiva apresentaram protótipos (molécula-mãe / *nidana*); Brahma jamais o conseguiu. RC-153 / RC-154 permanecem **sem ficha**. Sem cadastrar B045.
+- **[B024 p. 116–117]** postulados teóricos na Era da Lila e da Aceitação; semeadura efetiva na Era da Semeadura Universal. ~8,1 bi (início do Talm no extract do cap. 16) × ~7,5 bi (cap. 12) = **`[REVISAR]`** de cronologia interna.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

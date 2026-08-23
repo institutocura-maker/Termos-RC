@@ -66,6 +66,15 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **[P2026-07-30 — FONTE ORIGINAL] Prabrajna como um dos eus (Pergunta 4):** "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "o eu aqui que tá falando é Rogério, que não sabe porcaria nenhuma, que só tem a opinião dele como ser humano, igual a de vocês: eu acho que não é a mesma situação [de despersonificação], porque se fosse, lá atrás já teria sinalizado alguma coisa... há uma resistência, uma resiliência, inclusive, que eu não sei aonde vai terminar" [QUARENTENA BIOGRÁFICA — relato pessoal].
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 26]** da “reunião operativa mental” em Perpérion surgiu o “Big Bang”; houve “germinação cancerosa” a partir de Prabrajna — **quarentena clínica** (leitura, jamais diagnóstico). Nenhuma Divindade havia visto essa “anomalia”. RC-034 permanece **sem ficha**.
+- **[B024 p. 32–34]** energia característica = Rajas (~5% visível). Prabrajna criou os quarks; com “distúrbio”, os elétrons. Não conseguiu unir os quarks nem finalizar a Obra. Prajapati (variação védica) foi “tragado” como buraco negro; o Ser chamado Brahma é o nome que assumiu depois de se reconstituir na própria Criação. Distinguir **Brahma** (Divindade “caída”) de **Brahman** (p. 32) — **quarentena teológica**.
+- **[B024 p. 38]** no instante da “queda” (Singularidade há 13,8 bi — **quarentena científica / cronológica**) improvisou o Brahmaloka adjacente ao Bhuloka; “perdeu toda a sua condição de Divindade”; o Corpo Mental se fragmentou. Dúvida do autor: “tragado” ou “empurrado”.
+- **[B024 p. 73]** “doença do primeiro impulso” — impulso mental incontrolável ao expelir a Criação; ao se reconstruir, “já estabeleceu o ‘câncer’ nesse seu primeiro corpo” — **quarentena clínica**.
+- **[B024 p. 99]** elétrons e antielétrons = energia Rajas de Prabrajna, “Mente Despedaçada” / “Neurônios Cerebrais” que escaparam do Corpo Mental. Sem materializar RC-013 / RC-163.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

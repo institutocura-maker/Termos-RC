@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B024 — A Epopeia dos Agentes da Vida Universal
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Pasta fora de `CONCLUIDOS/`.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 9 fichas ampliadas (RC-148, RC-152, RC-167, RC-155, RC-161, RC-149, RC-091, RC-151, RC-104); 0 códigos. B024 nas fontes de RC-104. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

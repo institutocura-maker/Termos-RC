@@ -32,6 +32,14 @@ As Eras da Criação são o **esqueleto cronológico** da cosmologia RC: organiz
 - **Grafia preferida:** Eras da Criação
 - **Variações:** eras universais; as dez eras; eras da Criação Universal
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 113]** cap. 16 reproduz e aprofunda *O Drama Terreno de Javé* (B033) — **não fundir**. Sete eras transcorridas + três previstas = dez; “estamos vivendo o final da sétima era”.
+- **[B024 p. 113–116]** âncoras das eras 1–5: Solidão (até ~500 mi; reconstrução holográfica Prabrajna → Brahma/Javé); Geração (500 mi–2,2 bi; mergulho de Savna a 1,63 bi; agressão a 2,2 bi); Punição (2,2–3,2 bi; corpo do clone “rebelde” destruído → Shiva/demos; padrão “hesitante” = base do DNA *Homo sapiens*); Impasse (3,2–4,3 bi; famílias Aya e Aye; mergulho de Mavatna/Mavatma a 4,1 bi → Vishnu; Moros grafado “Morus” no extract a 4,2 bi — canônico **Moros**); Lila e Aceitação (4,3–5,7 bi; postulados teóricos do Talm).
+- **[B024 p. 116–118]** Semeadura (5,7–7,2 bi; Talm efetivo; portais abertos ~6,8 bi); Refinamento (7,2–13,8 bi; portais fechados em dez/2012; molécula-mãe com a “doença” de Javé “apagada” em 95–97% — **quarentena clínica e científica**). A 7ª era termina quando Sophia se apresentar na Terra.
+- **[B024 p. 119–120]** eras futuras: Geopolítica / divisão do Comando (volta de Jesus/Sophia; Quarto Logos; Adhydaiva deixam de existir; Vishnu já o fez); Criatura Universal + Mente Universal Emergente; Supercivilizações e fim pela entropia. RC-156–159 / RC-168–173 / RC-163 permanecem **sem ficha**. Cronologias (13,8 / 7,5 / 6 / 4,1 bi) = **quarentena científica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

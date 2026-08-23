@@ -77,6 +77,18 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B044 p. 55]** os três, em condição Adhydaiva, consumidos pelo exercício do poder autoatribuído; impasse que desemboca no Projeto Talm.
 - Fonte **B044** acrescentada na tabela-mestra. Sem materializar RC-014 / RC-135. Sem fusão com B022.
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 22]** Figura 1 — “Relação dos ‘Seres da Trimurti’ com esta Criação” = **`[TEXTO INCOMPLETO]`** (só a legenda).
+- **[B024 p. 52]** os “Senhores da Trimurti” — Brahma, Vishnu e Shiva — “estavam visivelmente com ‘câncer’” em suas formas Adhydaiva; Brahma = “projeção holográfica” sem alma imantada ao Eu reconstruído. Vishnu “se desconstituiu em 2016”. **Quarentena clínica** (leitura, jamais diagnóstico). RC-014 / RC-135 permanecem **sem ficha**.
+- **[B024 p. 68]** o mergulho de Mavatna (grafia do extract: também “Mavatma”) a 4,1 bi “terminou proporcionando a formação da Trimurti”: Brahma o Criador, Shiva o Destruidor, Vishnu o Mantenedor. Os “Estatutos da Lila” resolveram o impasse geopolítico.
+- **[B024 p. 76]** não podendo destruir uns aos outros, viveram juntos e criaram a Lila; Vishnu e Shiva mantêm Brahma “acordado” por apostas. “Apostasia”, no livro, é o Deus que perde e não paga.
+- **[B024 p. 108]** competências: Brahma doa o CFDP; Vishnu o modelo consciencial; Shiva organiza/destrói e ensina a saída do *samsara*.
+- **[B024 p. 118–119]** o fim da Trimurti e da Lila marca o termo da 7ª era (apresentação de Sophia / Jesus em estado glorioso). Na 8ª, as expressões Adhydaiva deixam de existir; Vishnu já transmitiu o legado ao “consórcio” Sophia + Jesus.
+- **[B024 p. 135]** posfácio: o “grau de demência” dos Membros “jamais se preocupou com a ausência de resultados animadores”; todos os engendrados surgiam “doentes” — **quarentena clínica**. IEEA / Orbum / entrevista **fora**. Sem fusão com B001, B033, B044.
+- Fonte **B024** acrescentada na tabela-mestra (epopeia da Trimurti na Criação).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

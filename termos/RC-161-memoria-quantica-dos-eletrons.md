@@ -36,6 +36,14 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 
 - **[ART-2025-08-02 — material do curador] Elétrons e a Rebelião (Gloss. e Cap. 6):** "o elétron hospeda as informações desde o 'momento zero' da história do universo e é a base da Obra de Javé"; "a 'Rebelião dos Elétrons' é identificada como o 'único padrão modificador do Código de Vida Pessoal do Criador (CFDP)'"; "essa 'rebelião' começou com Yel Luzbel e foi estudada e apropriada pela família Val"; "através do trabalho e da 'limpeza' dos elétrons humanos, estes se unirão para formar a nova 'mente universal', o 'biocosmos emergente', que facilitará a recomposição literal da alma de Javé e a ressurreição de seu corpo mental superior".
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 97]** cap. 13: o elétron “marca” em si tudo o que vivencia; é o “agente básico da vida universal”, único desde o primeiro momento da Criação até não mais existirem elementos químicos. Serve de “ponte quântica” entre o Criador “caído” e as criaturas-ferramentas.
+- **[B024 p. 97]** Jean-Émile Charon = **referência externa**; **não ontologizar**. Remissão a *A Rebelião dos Elétrons…* (B041) = **não fundir**.
+- **[B024 p. 98]** Tempo de Planck; materialização/desmaterialização bilhões de vezes por segundo; o registro akáshico “corresponde exatamente a esse processo”; no fim, as informações se associam à “Mente Universal” / “Biocosmos Inteligente” — **quarentena científica**. RC-162 / RC-163 permanecem **sem ficha**.
+- **[B024 p. 99–100]** elétrons = “Mente Despedaçada” de Prabrajna; por trás de cada par de olhos, “os elétrons de Javé” tentando reconhecer-se. Os espíritos fazem um “Favor Divino” ao “rejuntar” as partes — não à maneira dela. Choque dos elétrons ante a estupefação de quem percebeu que o Criador tinha “problemas” (o “homem Jesus” foi um desses).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

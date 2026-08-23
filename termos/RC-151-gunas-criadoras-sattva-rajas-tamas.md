@@ -24,6 +24,14 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
 - **Origem:** sânscrito (guṇa = qualidade/atributo)
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 32]** cap. 3: Rajas, Sattva e Tamas “compõem absolutamente tudo o que existe”. Cruzamento do autor com a cosmologia vigente: visível ~5% = Rajas (Prabrajna); matéria escura ~27% = Sattva (Mavatna); energia escura ~68% = Tamas (Savna) — **quarentena científica** (analogia, não fato validado).
+- **[B024 p. 33–35]** Rajas criou quarks (e, com distúrbio, elétrons); Sattva criou glúons e as quatro forças (nuclear forte/fraca, eletromagnética, gravitacional) que organizaram Rajas; Tamas = selo de garantia de que a Obra terá fim. Hindús relacionam Brahma / Vishnu / Shiva às três Gunas.
+- **[B024 p. 36]** Rajas dura enquanto Tamas (entropia) permitir; nesse intervalo Mavatna construiu os corpos estelares que tornaram a vida possível — “porque Brahma, Vishnu e Shiva precisavam de seres inteligentes que pudessem resolver o que eles não tinham condições de analisar”. RC-135 / RC-160 / RC-034 permanecem nos nós já existentes; sem código novo.
+- **[B024 p. 38]** no instante da Singularidade, Savna “expressou” Tamas como selo de garantia; a ciência chama isso, “sob um certo aspecto”, de entropia e, “por outro”, de energia escura — mesma **quarentena científica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

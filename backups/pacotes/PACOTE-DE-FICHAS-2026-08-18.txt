@@ -35,27 +35,27 @@
 # termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 10351 | 105 | d275e135defc6a27a5c86c618b44566726c64565c842c9beaadfeb3e5f293f9d
 # termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
-# termos/RC-091-projeto-talm.md | 10094 | 98 | 180e8648d97b216a2ae7d84996069a35df2e36b5df3ee7a8c00b76f8f3b51929
+# termos/RC-091-projeto-talm.md | 11262 | 106 | 10f2efbc5cd27e73f04ebc570db6e365bfdd4ee351f90ea62e3de5cd25638132
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 7395 | 79 | 5032afdfa5b46599f4c7c2ade30f6c15e4199c73c0ea4eace3cd2adff6338127
 # termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
-# termos/RC-104-trimurti.md | 10670 | 110 | 58ec67d5a50fe68b4cd4f8eec2acf1ae5af782b9f2c635b11e279af8a30381a4
+# termos/RC-104-trimurti.md | 12476 | 122 | d036d8be46f0058fda9641b06a13e131a6ab1946a8ee77f5392ff0a15cad8cff
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
 # termos/RC-147-zont-en-drel-29.md | 3200 | 47 | b4b24bcc990b11f9e76df79116dc9d191ace4f86e6f1154efc6a92efd103392a
-# termos/RC-148-agentes-da-vida-universal.md | 3787 | 54 | 396f3fa8dc97be0337ecabf6fe0f3f242a8bffcecb95dee600f40decde609a0e
-# termos/RC-149-monada-monada-espiritual.md | 3221 | 51 | 7a320fa3f609dba4d20003214fd20062760a1ed8559d9451bc8fe465f082fe9b
+# termos/RC-148-agentes-da-vida-universal.md | 5350 | 63 | 86db7400b944963550b9bbfee0b244b5ce521e825b201f8851900771eb7ea0d6
+# termos/RC-149-monada-monada-espiritual.md | 4288 | 58 | 23b0e3474b87978e5cc7ec4caf6496c7775d2fc1a0d924c819d58bfb380c62f2
 # termos/RC-150-xadrez-cosmico.md | 2488 | 42 | 986e22a28950d0342b890839d38b324db8fae30317f5cdecd07c81e2f19c510a
-# termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 3380 | 57 | 3521ffbbb62b0106a13e3d70179bc8a451cc41d94c92c6d887ad9e33194c3ebc
-# termos/RC-152-prabrajna.md | 10741 | 108 | 1faf22a7b72e2c3cd8b025b0f9164166747ad923692a1d20075c53db95b3ac5a
-# termos/RC-155-eras-da-criacao-10-eras.md | 4748 | 65 | 55c8912fb8667477f022b9237716c2f5c0baba734493d808742752d564cb0fe0
+# termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 4681 | 65 | 656be2d092cf1e730424245bc0118879ac3fa37b91e7347722b8932113a4a7c4
+# termos/RC-152-prabrajna.md | 12264 | 117 | bbb3baaa5509f58c99aa60698007fddce2967c679168182b26cdca1514f05f81
+# termos/RC-155-eras-da-criacao-10-eras.md | 6293 | 73 | 91f4edd20f3f550b8553c524d481bf9b84cdff75a6ac43c3ca78c67d0faaf63a
 # termos/RC-160-entropia-e-negentropia.md | 3998 | 53 | 0470ca08cf370d47291fda6932483e32b576a16efdd450cd7346eff0bb6dbe9d
-# termos/RC-161-memoria-quantica-dos-eletrons.md | 6423 | 77 | e3e4a54c74bc900294b48f451ab9ca9611a2210990a1c7c81e174d9a9aa42076
+# termos/RC-161-memoria-quantica-dos-eletrons.md | 7675 | 85 | d25dd7a706f347dccaacfc4a49a42b1c2c75a18e5343838c43363986173c4ff1
 # termos/RC-164-criaturas-ferramenta.md | 3423 | 60 | fa1fc87e496e67505ef45c9436dbd711661934882e0f733dabf4540979e06495
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 5184 | 78 | c015363c687a45f4fe0590205bf6cfca5d41947bedda9a2e721325fb54408301
+# termos/RC-167-criacao-indevida-obra-indevida.md | 6283 | 87 | e11660a4bd34146c05c89a971bd6a310644d9741e730f65ac938f883b7bf2318
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1478625 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1490949 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -2449,6 +2449,14 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[B044 p. 55]** Brahma, Shiva e Vishnu (condições Adhydaiva) se autoatribuíram poder das personalidades anteriores — Prabrajna, Savna e Mavatna (Adhyatman). RC-013 / RC-014 permanecem **sem ficha**.
 - **[B044 p. 63]** o planejamento da transferência = “Projeto Talm”; recriar a Colmeia Trimurtina no biológico. Sem cadastrar B045.
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 81]** cap. 12: formulado há ~7,5 bi, quando os extrafísicos perceberam que “tinham ‘falido’”; há ~6 bi o processo se redirecionou para o universo material. Tentativa de trazer o CFDP de Brahma do antimaterial para o físico: da condição eletromagnética/plasmada → química → biológica.
+- **[B024 p. 82–83]** Brahma, Vishnu e Shiva, prisioneiros dos próprios limites, só sabiam agir por “caos” e “ordem”. Fenvans = “seres-cobaias” criados em laboratórios do antimaterial (nota 21). RC-064 já tem ficha; não materializar novas estirpes.
+- **[B024 p. 111]** os três “Senhores da Trimurti” disputaram “qual parte de cada um seria ‘semeada’”; Vishnu e Shiva apresentaram protótipos (molécula-mãe / *nidana*); Brahma jamais o conseguiu. RC-153 / RC-154 permanecem **sem ficha**. Sem cadastrar B045.
+- **[B024 p. 116–117]** postulados teóricos na Era da Lila e da Aceitação; semeadura efetiva na Era da Semeadura Universal. ~8,1 bi (início do Talm no extract do cap. 16) × ~7,5 bi (cap. 12) = **`[REVISAR]`** de cronologia interna.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -2859,6 +2867,18 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B044 p. 55]** os três, em condição Adhydaiva, consumidos pelo exercício do poder autoatribuído; impasse que desemboca no Projeto Talm.
 - Fonte **B044** acrescentada na tabela-mestra. Sem materializar RC-014 / RC-135. Sem fusão com B022.
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 22]** Figura 1 — “Relação dos ‘Seres da Trimurti’ com esta Criação” = **`[TEXTO INCOMPLETO]`** (só a legenda).
+- **[B024 p. 52]** os “Senhores da Trimurti” — Brahma, Vishnu e Shiva — “estavam visivelmente com ‘câncer’” em suas formas Adhydaiva; Brahma = “projeção holográfica” sem alma imantada ao Eu reconstruído. Vishnu “se desconstituiu em 2016”. **Quarentena clínica** (leitura, jamais diagnóstico). RC-014 / RC-135 permanecem **sem ficha**.
+- **[B024 p. 68]** o mergulho de Mavatna (grafia do extract: também “Mavatma”) a 4,1 bi “terminou proporcionando a formação da Trimurti”: Brahma o Criador, Shiva o Destruidor, Vishnu o Mantenedor. Os “Estatutos da Lila” resolveram o impasse geopolítico.
+- **[B024 p. 76]** não podendo destruir uns aos outros, viveram juntos e criaram a Lila; Vishnu e Shiva mantêm Brahma “acordado” por apostas. “Apostasia”, no livro, é o Deus que perde e não paga.
+- **[B024 p. 108]** competências: Brahma doa o CFDP; Vishnu o modelo consciencial; Shiva organiza/destrói e ensina a saída do *samsara*.
+- **[B024 p. 118–119]** o fim da Trimurti e da Lila marca o termo da 7ª era (apresentação de Sophia / Jesus em estado glorioso). Na 8ª, as expressões Adhydaiva deixam de existir; Vishnu já transmitiu o legado ao “consórcio” Sophia + Jesus.
+- **[B024 p. 135]** posfácio: o “grau de demência” dos Membros “jamais se preocupou com a ausência de resultados animadores”; todos os engendrados surgiam “doentes” — **quarentena clínica**. IEEA / Orbum / entrevista **fora**. Sem fusão com B001, B033, B044.
+- Fonte **B024** acrescentada na tabela-mestra (epopeia da Trimurti na Criação).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -3132,6 +3152,15 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 
 - **Agentes da vida / heróis (P2025-03-15):** "nós somos os heróis e heroínas criados para resolver essa porcaria aí, só que a gente não sabe disso"; "na verdade, esses seres foram criando as coisas não com intenção predefinida. Eles foram jogando dados biológicos, bioquímicos, e vendo o que é que dava no resultado" (a Bíblia: "viu que era bom" depois de criar).
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 5]** a sinopse firma o termo-título: “sem os seres vivos, a vida não teria lugar, e tão somente existiria o palco”; o fenômeno se hospeda nos corpos, no psiquismo de cada espécie e, mais misterioso, “é na mente dos seres vivos onde a vida efetivamente acontece”.
+- **[B024 p. 7]** a encomenda da Introdução: escrever a “Epopeia da Consciência Espiritual” por trás dos “Agentes” de um “Jogo” — o “Xadrez Cósmico” — executado por Divindades que tomam as espécies da vida universal como “equipes”. Sem fusão com B001 / B002.
+- **[B024 p. 55]** a epopeia “começou, portanto, a partir das diversas ‘moradas’ — ou *lokas*” do universo antimaterial (Brahmaloka). Blavatsky / *Estâncias de Dzyan* e Kardec (p. 55) = **referências externas**; RC-190 permanece **sem ficha**.
+- **[B024 p. 81]** há ~6 bilhões de anos o processo de criar seres vivos se redirecionou do antimaterial para o material: os “Agentes da Vida Universal” passaram a intensificá-lo no Bhuloka, com o “Projeto Talm”.
+- **[B024 p. 108–111]** divisão de competências da Trimurti sobre os agentes: Brahma doa o CFDP; Vishnu dá o “modelo consciencial”; Shiva organiza/destrói formas e semeia o conhecimento que liberta do *samsara*. A epopeia “começou quando o caos e o tormento se manifestaram nesta Criação” (p. 109). Cada agente é “peça importante e única” (p. 111). RC-012 / RC-013 / RC-019 / RC-100 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -3177,6 +3206,13 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 - **Grafia preferida:** Mônada
 - **Variações:** mônada espiritual; alma; espírito; consciência espiritual particularizada; protoconsciência particularizada
 - **Origem:** do grego *monas* (unidade) — usado por Leibniz; nas RC equivale ao espírito/alma individual
+
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 108–109]** nada existe na Criação “indevida”, em Perpérion ou na Espiritualidade Superior, sem uma “mônada espiritual” estruturando o corpo — “pedra, planta, animal ou mesmo um robô”. A Espiritualidade Superior “começou a dar de si mônadas” para estruturar os clones que Brahma criava.
+- **[B024 p. 110]** os Adhyatman de Perpérion “desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava” — os dois processos tiveram lugar. Situação residual: (a) Brahma/Javé “não tinha alma”; (b) alguns clones passaram a ser estruturados com alma, ainda “robôs” da vontade de Javé. RC-012 / RC-013 / RC-100 permanecem **sem ficha**.
+- **[B024 p. 111]** muitas mônadas imantadas na gênese a vegetais e animais irracionais “se encontram na posição de espíritos agora ‘imantados’ em corpos humanos”. A epopeia de cada alma é “trajetória histórica” ainda por descortinar.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3281,6 +3317,14 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **Variações:** as três Gunas; energias Rajas, Sattva e Tamas; gunas criadoras
 - **Origem:** sânscrito (guṇa = qualidade/atributo)
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 32]** cap. 3: Rajas, Sattva e Tamas “compõem absolutamente tudo o que existe”. Cruzamento do autor com a cosmologia vigente: visível ~5% = Rajas (Prabrajna); matéria escura ~27% = Sattva (Mavatna); energia escura ~68% = Tamas (Savna) — **quarentena científica** (analogia, não fato validado).
+- **[B024 p. 33–35]** Rajas criou quarks (e, com distúrbio, elétrons); Sattva criou glúons e as quatro forças (nuclear forte/fraca, eletromagnética, gravitacional) que organizaram Rajas; Tamas = selo de garantia de que a Obra terá fim. Hindús relacionam Brahma / Vishnu / Shiva às três Gunas.
+- **[B024 p. 36]** Rajas dura enquanto Tamas (entropia) permitir; nesse intervalo Mavatna construiu os corpos estelares que tornaram a vida possível — “porque Brahma, Vishnu e Shiva precisavam de seres inteligentes que pudessem resolver o que eles não tinham condições de analisar”. RC-135 / RC-160 / RC-034 permanecem nos nós já existentes; sem código novo.
+- **[B024 p. 38]** no instante da Singularidade, Savna “expressou” Tamas como selo de garantia; a ciência chama isso, “sob um certo aspecto”, de entropia e, “por outro”, de energia escura — mesma **quarentena científica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -3382,6 +3426,15 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **[P2026-07-30 — FONTE ORIGINAL] Prabrajna como um dos eus (Pergunta 4):** "o resgate não é de Javé, de Prabrajna, desse espírito: Prabrajna, Javé, seja Vishnu, seja quem for, são apenas eus desse ser, que ele não consegue aplicar a coalescência no sentido de alinhá-los todos"; "o eu aqui que tá falando é Rogério, que não sabe porcaria nenhuma, que só tem a opinião dele como ser humano, igual a de vocês: eu acho que não é a mesma situação [de despersonificação], porque se fosse, lá atrás já teria sinalizado alguma coisa... há uma resistência, uma resiliência, inclusive, que eu não sei aonde vai terminar" [QUARENTENA BIOGRÁFICA — relato pessoal].
 
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 26]** da “reunião operativa mental” em Perpérion surgiu o “Big Bang”; houve “germinação cancerosa” a partir de Prabrajna — **quarentena clínica** (leitura, jamais diagnóstico). Nenhuma Divindade havia visto essa “anomalia”. RC-034 permanece **sem ficha**.
+- **[B024 p. 32–34]** energia característica = Rajas (~5% visível). Prabrajna criou os quarks; com “distúrbio”, os elétrons. Não conseguiu unir os quarks nem finalizar a Obra. Prajapati (variação védica) foi “tragado” como buraco negro; o Ser chamado Brahma é o nome que assumiu depois de se reconstituir na própria Criação. Distinguir **Brahma** (Divindade “caída”) de **Brahman** (p. 32) — **quarentena teológica**.
+- **[B024 p. 38]** no instante da “queda” (Singularidade há 13,8 bi — **quarentena científica / cronológica**) improvisou o Brahmaloka adjacente ao Bhuloka; “perdeu toda a sua condição de Divindade”; o Corpo Mental se fragmentou. Dúvida do autor: “tragado” ou “empurrado”.
+- **[B024 p. 73]** “doença do primeiro impulso” — impulso mental incontrolável ao expelir a Criação; ao se reconstruir, “já estabeleceu o ‘câncer’ nesse seu primeiro corpo” — **quarentena clínica**.
+- **[B024 p. 99]** elétrons e antielétrons = energia Rajas de Prabrajna, “Mente Despedaçada” / “Neurônios Cerebrais” que escaparam do Corpo Mental. Sem materializar RC-013 / RC-163.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -3457,6 +3510,14 @@ As Eras da Criação são o **esqueleto cronológico** da cosmologia RC: organiz
 ## Etimologia / Grafias
 - **Grafia preferida:** Eras da Criação
 - **Variações:** eras universais; as dez eras; eras da Criação Universal
+
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 113]** cap. 16 reproduz e aprofunda *O Drama Terreno de Javé* (B033) — **não fundir**. Sete eras transcorridas + três previstas = dez; “estamos vivendo o final da sétima era”.
+- **[B024 p. 113–116]** âncoras das eras 1–5: Solidão (até ~500 mi; reconstrução holográfica Prabrajna → Brahma/Javé); Geração (500 mi–2,2 bi; mergulho de Savna a 1,63 bi; agressão a 2,2 bi); Punição (2,2–3,2 bi; corpo do clone “rebelde” destruído → Shiva/demos; padrão “hesitante” = base do DNA *Homo sapiens*); Impasse (3,2–4,3 bi; famílias Aya e Aye; mergulho de Mavatna/Mavatma a 4,1 bi → Vishnu; Moros grafado “Morus” no extract a 4,2 bi — canônico **Moros**); Lila e Aceitação (4,3–5,7 bi; postulados teóricos do Talm).
+- **[B024 p. 116–118]** Semeadura (5,7–7,2 bi; Talm efetivo; portais abertos ~6,8 bi); Refinamento (7,2–13,8 bi; portais fechados em dez/2012; molécula-mãe com a “doença” de Javé “apagada” em 95–97% — **quarentena clínica e científica**). A 7ª era termina quando Sophia se apresentar na Terra.
+- **[B024 p. 119–120]** eras futuras: Geopolítica / divisão do Comando (volta de Jesus/Sophia; Quarto Logos; Adhydaiva deixam de existir; Vishnu já o fez); Criatura Universal + Mente Universal Emergente; Supercivilizações e fim pela entropia. RC-156–159 / RC-168–173 / RC-163 permanecem **sem ficha**. Cronologias (13,8 / 7,5 / 6 / 4,1 bi) = **quarentena científica**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3583,6 +3644,14 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 ## Ampliação — P2025-08-02
 
 - **[ART-2025-08-02 — material do curador] Elétrons e a Rebelião (Gloss. e Cap. 6):** "o elétron hospeda as informações desde o 'momento zero' da história do universo e é a base da Obra de Javé"; "a 'Rebelião dos Elétrons' é identificada como o 'único padrão modificador do Código de Vida Pessoal do Criador (CFDP)'"; "essa 'rebelião' começou com Yel Luzbel e foi estudada e apropriada pela família Val"; "através do trabalho e da 'limpeza' dos elétrons humanos, estes se unirão para formar a nova 'mente universal', o 'biocosmos emergente', que facilitará a recomposição literal da alma de Javé e a ressurreição de seu corpo mental superior".
+
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 97]** cap. 13: o elétron “marca” em si tudo o que vivencia; é o “agente básico da vida universal”, único desde o primeiro momento da Criação até não mais existirem elementos químicos. Serve de “ponte quântica” entre o Criador “caído” e as criaturas-ferramentas.
+- **[B024 p. 97]** Jean-Émile Charon = **referência externa**; **não ontologizar**. Remissão a *A Rebelião dos Elétrons…* (B041) = **não fundir**.
+- **[B024 p. 98]** Tempo de Planck; materialização/desmaterialização bilhões de vezes por segundo; o registro akáshico “corresponde exatamente a esse processo”; no fim, as informações se associam à “Mente Universal” / “Biocosmos Inteligente” — **quarentena científica**. RC-162 / RC-163 permanecem **sem ficha**.
+- **[B024 p. 99–100]** elétrons = “Mente Despedaçada” de Prabrajna; por trás de cada par de olhos, “os elétrons de Javé” tentando reconhecer-se. Os espíritos fazem um “Favor Divino” ao “rejuntar” as partes — não à maneira dela. Choque dos elétrons ante a estupefação de quem percebeu que o Criador tinha “problemas” (o “homem Jesus” foi um desses).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3874,6 +3943,15 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 ## Ampliação — P2025-02-15
 
 - **Criação Indevida (P2025-02-15):** "o ser que criou isso onde hoje nós estamos não faz isso [não comanda] porque ele desmaiou, ele caiu"; "vi [a criação] vinculada a um campo quântico de possibilidades, mas não tem ninguém no comando lá fora"; "o processo está solto".
+
+
+## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
+
+- **[B024 p. 22]** Figura 1 — “Relação dos ‘Seres da Trimurti’ com esta Criação” = só a legenda extraível → **`[TEXTO INCOMPLETO]`**.
+- **[B024 p. 27]** cap. 2: a Criação “inusitada”. Remissão a *O Drama Cósmico de Javé* (B001) = **não fundir**. Kardec (Espiritualidade Superior preexistente) = **referência externa**.
+- **[B024 p. 36]** a Obra “jamais deveria ter existido”; as criaturas-ferramentas passam pela morte “porque esta Obra não foi finalizada, ou não pôde ser” (já na ficha; âncora confirmada no cap. 3).
+- **[B024 p. 76]** cap. 11: autoria e comando. Brahma, Vishnu e Shiva, em condição Adhydaiva, não podendo destruir uns aos outros, formaram a Trimurti e a Lila (“Passatempo” / “Jogo Mental” / estatuto das apostas). RC-075 / RC-014 permanecem **sem ficha**.
+- **[B024 p. 81]** os extrafísicos perceberam que “tinham ‘falido’” — não criaram seres que levassem ao futuro pretendido — e então formularam o Projeto Talm. Sem fusão com B044 / B045.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

@@ -36,4 +36,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B044_a_divina_colmeia` — Devolutiva aplicada (2026-08-23); 9 fichas (RC-174, RC-175, RC-176, RC-179, RC-091, RC-188, RC-001, RC-104, RC-192); B044 nas fontes de RC-104; 0 códigos; BIBLIO intocada. Sem apostila.
 
-`B024_epopeia_agentes_da_vida_universal` — ciclo em andamento (ingresso 2026-08-23); dossiê enxuto aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada.
+`CONCLUIDOS/B024_epopeia_agentes_da_vida_universal` — Devolutiva aplicada (2026-08-23); 9 fichas (RC-148, RC-152, RC-167, RC-155, RC-161, RC-149, RC-091, RC-151, RC-104); B024 nas fontes de RC-104; 0 códigos; BIBLIO intocada. Sem apostila.

@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (ingresso B024 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B024 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B024 *A Epopeia dos Agentes da Vida Universal* (abertura 2026-08-23)
@@ -10,6 +10,11 @@
 - Extract paginado: ~49.308 palavras; SHA-256 `2bb933d1d7006629442de6ddb6f08aab5f7653d15fe6d0312b3003ba8ad45faf`. p. 1 sem texto; p. 22 só legenda da Figura 1 → `[TEXTO INCOMPLETO]`.
 - 49 termos já citam B024; 22 com ficha. Dossiê sugere ampliar RC-148, RC-152, RC-167, RC-155, RC-161, RC-149. **0 códigos.** RC-012/013/019/031/034/040/054/059/061/075/100/135/153/154/156–159/162/163/168–173/413 sem ficha — não materializar.
 - RC-104 Trimurti tem ficha, mas **B024 não está nas fontes** (opcional O-2). Quarentenas: clínica (câncer/doenças da Trimurti — não diagnóstico), científica (DNA 3–5% / 13,8 bi / Gunas = matéria escura), teológica (Kardec/Blavatsky/Sai Baba), ufológica, política, biográfica (Índia 2001), IEEA/Orbum fora. Sem fusão com B001/B002/B033/B041/B044; B045 permanece anunciada. Trilogia da Índia / Almanaques → Colecionar Incertezas.
+
+### Devolutiva B024 aplicada (2026-08-23)
+
+- O-1 confirmado (é B024; CIP 214 p. × PDF 162 = `[REVISAR]` de contagem; grafia CIP “univeral” preservada; BIBLIO intocada); O-2: 9 fichas ampliadas (RC-148, RC-152, RC-167, RC-155, RC-161, RC-149 + opcional RC-091, RC-151, **RC-104** com B024 nas fontes); O-3: zero códigos; RC-012/013/019/031/034/040/054/059/061/075/100/135/153/154/156–159/162/163/168–173/413 não materializadas; O-4: Figura 1 p. 22 `[TEXTO INCOMPLETO]`; Kardec, Blavatsky e Charon fora; IEEA/Orbum fora; trilogia da Índia / Almanaques → Colecionar Incertezas; O-5: B001, B002, B033, B041 e B044 intactas; **O-6: BIBLIO intocada**; O-7: quarentena clínica crítica (“câncer” / “doenças” / “demência” da Trimurti = leitura, jamais diagnóstico) + científica (Gunas = matéria/energia escura; 13,8 bi), teológica, ufológica, política, biográfica; O-8: pasta em `livros/CONCLUIDOS/B024_epopeia_agentes_da_vida_universal/`. Sem apostila.
+- **Colecionar Incertezas (novos):** trilogia *Mistérios da Índia* (*O Orvalho do Tempo*, *A Chave do Avatar*, *Os Mestres da Alma* — “ainda por concluir”); série *Almanaques da Alma* / *As Chaves do Eu Profundo* / *A Parte Divina de Cada Ser* / *As Vestimentas do Ser*; “Anais de Perpérion”; cronologia interna ~8,1 bi (cap. 16) × ~7,5 bi (cap. 12) para o início do Talm `[REVISAR]`.
 
 ## Fase 2 — B044 *A Divina Colmeia* (abertura 2026-08-23)
 
