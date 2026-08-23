@@ -1,6 +1,6 @@
 O corpus integral desta obra é o extract paginado:
 
-  livros/B052_homoafetividade_segredo_perdido_eden/original.txt
+  livros/CONCLUIDOS/B052_homoafetividade_segredo_perdido_eden/original.txt
 
 SHA-256 dc8cf74a62ddd0299960140cd973af3b16c588beb362ee9114f9fd13f5310fff
 Não duplicar aqui (578 KB). Página 1 = [página sem texto extraível].

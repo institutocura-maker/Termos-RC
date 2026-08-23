@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (ingresso B052 — *Homoafetividade*)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B052 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Ciclo de higienização — AGENTE 9 (2026-08-23)
@@ -47,7 +47,11 @@
 - Extract paginado: ~95.434 palavras; SHA-256 `dc8cf74a62ddd0299960140cd973af3b16c588beb362ee9114f9fd13f5310fff`. CIP 180 p. × PDF 252 — já na BIBLIO.
 - 18 termos já citam B052; 8 com ficha. Dossiê sugere ampliar 6 (RC-434, RC-433, RC-437, RC-242, RC-217, RC-049). **0 códigos.** BIBLIO intocada.
 - **Quarentena clínica ABSOLUTA** (homoafetividade / identidade de gênero / eugenia do “modelo”). Série anunciada (“primeiro livro” / “terceiro livro” / “almanaque tardio”) → Colecionar Incertezas; não cadastrar.
-- Dossiê enxuto aguarda O-1..O-8.
+
+### Devolutiva B052 aplicada (2026-08-23)
+
+- O-1 confirmado (é B052); O-2: 6 fichas ampliadas (RC-434, RC-433, RC-437, RC-242, RC-217, RC-049) com páginas do PDF; O-3: zero códigos; RC-435–441 / RC-051 / RC-044 / RC-540 não materializadas; O-4: identidade de gênero e eugenia fora da ontologia; O-5: B053–B056 intactas; “almanaque tardio” / 2º e 3º livros → Colecionar Incertezas; **O-6: BIBLIO intocada**; O-7: quarentena clínica absoluta + científica/teológica/ufológica; O-8: pasta em `livros/CONCLUIDOS/B052_homoafetividade_segredo_perdido_eden/`. Sem apostila.
+- **Colecionar Incertezas (novos):** “FIM DO PRIMEIRO LIVRO” (B052 p. 229); “almanaque tardio” (título provisório do autor); “terceiro livro sobre esse tema” (p. 236); Aya Raz Yel / Melmon / Devon = nomes de enredo.
 
 > **CHECKPOINT 2026-08-21:** pacotes de reconstrução regenerados e TESTADOS (restauração de 549 arquivos, 548 idênticos, base valida `777/1849`); **cópia de segurança versionada em `backups/pacotes/` no GitHub** (procedimento novo: atualizar a cada ciclo junto com `gerar_pacotes.py`); **`CHECKPOINT-SESSAO-2026-08-21.md`** criado na raiz para retomada em nova sessão (estado canônico, cronologia da sessão, pendências, como retomar)..
 

@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B052 — Homoafetividade: O Segredo Perdido do Éden
 
-> **ESTADO OPERACIONAL: INGRESSO (2026-08-23).** Dossiê enxuto aguarda Devolutiva O-1..O-8. **0 códigos.** BIBLIO intocada. Pasta **fora** de `CONCLUIDOS/` até aplicação.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 6 fichas ampliadas; 0 códigos; BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

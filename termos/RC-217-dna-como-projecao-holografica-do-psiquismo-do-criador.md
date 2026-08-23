@@ -25,6 +25,14 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B019 p. 120]** o Eu caído desenvolveu um código-fonte das posturas psíquicas (sobreviver a qualquer custo; fazer o Eu imperar) "repassados a todos os seres [...] a partir do seu já referido CFDP ou 'código genético pessoal'".
 - **Quarentena:** DNA-lixo / epigenética / metilação (caps. 15–16) — leitura de Ellam, não fato validado.
 
+
+## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+
+- **[B052 p. 9]** `n.e.` de Heber: "'sangue', nesse contexto, significa o que hoje entendemos como sendo o código do DNA".
+- **[B052 p. 231]** o "algo" que habita em cada um "foi a mesma 'força inicial' digitalizada sob a forma de DNA ou RNA que, segundo a ciência, aqui surgiu como a 'molécula-mãe' de todas formas de seres vivos".
+- **[B052 p. 233]** "carregamos no DNA do nosso genoma toda essa carga de forças 'atavicamente adormecidas'"; o processo se dá "via a 'ponte quântica' do jogo que decorre da formatação do DNA individualizado".
+- **Quarentena científica:** molécula-mãe 3,8 bi; 3,1 bi de unicelulares; explosão cambriana ~543 mi; "interconectividade não localizada" — leitura de Ellam, não parecer científico. RC-540 (molécula-mãe) **não** materializada.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

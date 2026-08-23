@@ -18,6 +18,13 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **Variações:** demônios; daemon; "seres demos"; deuses mitológicos
 - **Idioma de origem:** grego daimon → latim daemon; no RC, "demo" = "demente"
 
+
+## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+
+- **[B052 p. 40]** `n.e.` sobre a fala de Despina: "o ser se refere à 'cultura demo' que então existia entre os membros da chamada geração do Olimpo, conforme descrito na mitologia grega."
+- **[B052 p. 40–41]** nessa cultura a força de atração surgiu "antes mesmo de a questão 'macho e fêmea' se estabelecer"; o Criador "não é humano, e também não é macho nem fêmea".
+- RC-044 (Cultura Demo) e RC-051 (Despina) permanecem **sem ficha**; B052 **não** entra nas fontes de RC-051. "Seres de outras paragens" (p. 41): **quarentena ufológica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

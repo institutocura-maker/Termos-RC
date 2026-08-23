@@ -24,6 +24,15 @@ O B052 é uma narrativa em 4 partes (Narrativas Esquecidas / Antigas / Tardias /
 - **Gêneros espirituais:** "espírito não é nem macho nem fêmea... todo e qualquer consciência particularizada tem uma identidade... são gêneros espirituais... bilhões de gêneros conscienciais distintos"; "na hora de nascer na Terra, ou é macho ou é fêmea" — a inadequação como "ser estrangeiro".
 - **IMPORTANTE:** é estritamente a cosmologia filosófica do autor — a IA jamais deve usar como fato sociológico ou biomédico; apenas como "o que a RC diz sobre X".
 
+
+## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+
+- **[B052 p. 233]** "Nisso reside a componente homoafetiva que, como subproduto mental, como opção de superação da desconfiança, como força de atração gerada para superar de qualquer maneira a extrema desconfiança que impedia o progresso dos seres, pôde se expressar através de cada ser, de acordo com o mapa pessoal do seu 'passado existencial' traduzido num código genético."
+- **[B052 p. 234]** "Sob uma perspectiva adulta, por esse e por outros aspectos ainda a serem elucidados, não deveria existir culpa e nem mesmo responsabilidade pelo padrão de conduta no campo da preferência sexual que possa advir da intimidade de quem quer que seja."
+- **[B052 p. 238]** "Conclusão: nenhum ser humano deve se sentir culpado por possuir na sua vida psíquica, tendências e inclinações no campo da homoafetividade porque isso tão somente representa uma fase no processo de redenção dessa divindade caída"; "Muito menos deve se sentir 'alguém menor' pelo fato da sua identificação psíquica não se coadunar ao corpo biológico que utiliza nessa vida."
+- **Quarentena clínica ABSOLUTA:** cosmologia filosófica do autor — jamais fato, diagnóstico ou juízo sobre pessoas. Sem patologização. Respeito às pessoas LGBTQIA+.
+- **Identidade de gênero (p. 234):** o próprio autor **adia** — "não será nesse primeiro livro sobre homoafetividade que me será possível abordar a dramática questão da 'identidade de gêneros'". Permanece **fora da ontologia** (O-4).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

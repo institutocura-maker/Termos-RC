@@ -27,6 +27,15 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 
 - **Faleg/Gomer (P2024-11-30):** "o filho de Éber, Faleg, chegou para Éber e disse: 'Eu não vou honrar Javé do jeito que vocês honram'"; "Javé largou a descendência dos filhos de Noé e procurou Gomer, pai dos arianos, que era neto de Jafé"; "nessa época Javé tinha largado os judeus e hebreus e investiu nos arianos".
 
+
+## Ampliação — B052 (Homoafetividade: O Segredo Perdido do Éden)
+
+- **[B052 p. 6]** Joctan a Heber: "não sou eu o continuador da linhagem, mas sim Faleg, o seu primogênito e meu irmão, o portador da perpetuação da semente do Criador."
+- **[B052 p. 108]** Faleg: "Não quero mais ser o elo da linhagem... Sempre achei Joctan mais habilitado para isso"; Joctan: "quanto mais faço as coisas encomendadas pelo Senhor, mas me sinto como você."
+- **[B052 p. 109]** "Faleg veio a falecer de morte natural, pela altura dos seus duzentos anos de idade"; "pela primeira vez, um elo da linhagem da quinta geração após Noé havia morrido antes do próprio"; "Faleg sequer dera a benção ao seu primogênito, com vistas à manutenção da linhagem."
+- **[B052 p. 111]** após a morte do irmão, Joctan é enviado ao norte (Magos) com a bolsa das folhas — RC-439 permanece **sem ficha**.
+- **Quarentena teológica:** `n.e.` p. 109 ("o Senhor estava começando a se apresentar aos futuros arianos como sendo Brahma") é leitura do autor, não história validada. Heber (RC-436) **não** materializado.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
