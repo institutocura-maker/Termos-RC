@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B013 aplicada)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B013 aplicada; piloto B014 aberto)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B014 *Sophia e o Logos Criadores* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/Sophia e o Logos Criadores - Jan Val Ellam.pdf` (2.085.959 bytes; SHA-256 `9acf2c41619fd6b1f8d80c6ed1a0be5ec9ba26252c34b1c12ee1ce0285b48669`; 272 págs = **B014**). Capa/CIP: *os* Logos; CIP 354 p. × PDF 272 — BIBLIO já descreve 272 págs; **intocada**.
+- Ciclo em `livros/B014_sophia_e_o_logos_criadores/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~95.351 palavras; SHA-256 `7da5c3dc2bc099a7157bd3f6aa0449f6f2462870d7643e80e0834c73546e8804`.
+- 23 termos já citam B014; 13 com ficha. Dossiê sugere ampliar RC-009, RC-072, RC-005, RC-273, RC-274, RC-092. **0 códigos.** RC-076/135/183/275–281 sem ficha — não materializar.
+- Quarentenas: teológica (Cristo Cósmico / Falsa Trindade); Niceia; WTC 2001 (p. 152–153) fora; IEEA/Orbum fora. Sem fusão com B013/B016/B012.
 
 ## Fase 2 — B013 *Tzimtzum: O Exílio Forçado de uma Divindade* (abertura 2026-08-23)
 

@@ -1,0 +1,22 @@
+{
+  "obra": "B014",
+  "titulo": "Sophia e os Logos Criadores",
+  "titulo_biblio": "Sophia e o Logos Criadores",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2020",
+  "pdf_creditos": "Conectar Editora / 1ª ed. 2020 Natal-RN / ISBN 978-65-86157-02-4 / CIP 354 p.",
+  "divergencia_edicao": "CIP 354 p. × PDF 272 págs — BIBLIO já descreve 272 págs PDF; título capa/CIP 'os Logos' × BIBLIO/arquivo 'o Logos'",
+  "fonte_upload": "uploads_recepcao/Sophia e o Logos Criadores - Jan Val Ellam.pdf",
+  "bytes_pdf": 2085959,
+  "sha256_pdf": "9acf2c41619fd6b1f8d80c6ed1a0be5ec9ba26252c34b1c12ee1ce0285b48669",
+  "paginas_pdf": 272,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 624150,
+  "sha256_original_txt": "7da5c3dc2bc099a7157bd3f6aa0449f6f2462870d7643e80e0834c73546e8804",
+  "palavras_approx": 95351,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada",
+  "codigos_consumidos": 0
+}

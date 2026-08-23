@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): sexto livro da escala seletiva (após B019, B011, B052, B043, B013).
+PDF entregue em uploads_recepcao/ pelo curador (push 67014ea no branch da sessão).
+Obra já na BIBLIO como B014 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+23 termos já citam B014; 13 com ficha. Núcleo: RC-009 Sophia.
+Quarentena teológica (Cristo Cósmico / Falsa Trindade) e político-geopolítica (WTC 2001).
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.
