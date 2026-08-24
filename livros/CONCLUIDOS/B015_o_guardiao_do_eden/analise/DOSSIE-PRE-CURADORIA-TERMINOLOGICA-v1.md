@@ -4,6 +4,8 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **B017 = remissão de paratexto. B052 fora. O Sorriso de Pandora não entra.**
 
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 2 fichas (só NAT). ZERO códigos. Pasta em `livros/CONCLUIDOS/`.
+
 ---
 
 ## O-1 · Identidade da obra

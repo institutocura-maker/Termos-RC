@@ -16,9 +16,9 @@
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
 # termos/RC-009-sophia-cristo-cosmico.md | 27333 | 235 | 8388c761a400d7cee1b6c404d00c31e2c2746d463c32bd2a1746ea3c4ddfe188
-# termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
+# termos/RC-024-anunnakis.md | 6626 | 79 | 71ca868059d1e0213ad2c7234fe458e3695f678ca47b46aa14a4ee33bde2aeb5
 # termos/RC-037-brahma-brajna.md | 6836 | 90 | 33ba6aebd8d8e062aef25167f3889b77f7e45c7a79cfb841cbcb6d79bb30c11b
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 9339 | 108 | 1f1eb9f3610e3ed4fc65c974270613631f2d27ab9aae6c0d788c538cc5b27943
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 9828 | 114 | 0ce3f4f77b6ece1959ffaee229882253b703fecee1024f088a57bb76cbff0cf6
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1593953 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1595020 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -1410,6 +1410,12 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2021-01-23] Os quatro segmentos genéticos (U0435–U0442):** "eu tô falando de religião, não, com o estudo do genoma humano: com o avanço dos estudos de genética foi feito uma pesquisa mundial e a turma que não acreditava em Noé teve que aceitar o fato de que a humanidade é dividida em quatro grandes segmentos genéticos" (U0437); "dos quatro, três são: um Oriente Médio, a África e o [europeu/asiático]" (U0438) [REVISAR — o STT atribui os segmentos de forma confusa (U0435–U0436)]; "a quarta região da Terra é as Américas, que aí não é o DNA de nenhum dos três filhos de Noé" (U0439); "desde o tempo de Adão, Caim foi para lá [as Américas]... toda a descendência da América do Norte, América Central, América do Sul, o DNA vem de Caim, segundo filho de Adão" (U0441–U0442).
 - **Contexto (U0479–U0481):** "a linhagem de Sem sempre lidou com os anjos clones de Javé, não era com seres dentro dos portais; a linhagem de Jafé só lidou com os demos dos portais, foi invadida pelos portais abertos" [REVISAR — STT].
 
+
+## Ampliação — B015 (O Guardião do Éden)
+
+- **[B015 p. 18]** NAT: Ellam julga que a referência de Zont aos «poucos terráqueos» que estudam o passado «tem a ver com os livros de Zecharia Sitchin, dentre outros»; o revelado «apenas confirma o que já havia sido publicado». **Referência externa — não ontologia.**
+- **[B015 p. 18]** NAT: «O único painel inédito penso ser o que se refere à origem dos anunnakis». **Quarentena ufológica / científica.** Caps. 1–17 **isolados**. Sem fusão com B017 / B023. Fonte **B015** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -1621,6 +1627,12 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B039 p. 32]** NAT: remissão a B052 (*Homoafetividade*) — **não fundir**. Len Mion «estragou os planos do “Senhor de Noé”, o Criador», em duas ocasiões: à linhagem de Sem apresentou-se como «Javé»; aos arianos de Gomer, como «Brahma».
 - **[B039 p. 113]** NAT: Javé desejava a «subjugação dos humanos pela força»; Jesus recusou. **Quarentena teológica.**
 - **[B039 p. 156]** Comentário 3: «desígnios absurdos dos “egos doentios” de Javé e de outros» = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
+
+
+## Ampliação — B015 (O Guardião do Éden)
+
+- **[B015 p. 16]** NAT (voz de Ellam): gloss entre parênteses — as «primeiras gerações dos descendentes» do Criador = «anjos-clones». RC-019 permanece **sem ficha**.
+- Prefácio/Esclarecimento = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–17 (Zont En Drel) **isolados**. Sem extrair RC-147 / RC-055 / RC-245 a partir da narrativa. Sem fusão com B017 / B052. Fonte **B015** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

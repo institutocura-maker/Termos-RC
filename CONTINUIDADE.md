@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (piloto B015 — ingresso e dossiê enxuto; 0 códigos)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B015 aplicada — 2 fichas, 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B015 *O Guardião do Éden* (abertura 2026-08-24)
@@ -10,6 +10,10 @@
 - Extract: ~38.908 palavras; SHA-256 `877d21af677217f413f1f6d872d4af31fc01450b564a58540bc51c8432f668ac`. p. 1 sem texto.
 - **22 termos já citam B015**; 10 com ficha. Dossiê sugere só NAT: RC-041. **0 códigos.** Caps. 1–17 = Zont En Drel — isolados. RC-019/147 não reancorar a partir da narrativa.
 - Hitler (p. 43) = político + isolado — fora. Sitchin = externa. B052 / B017 / B026 = **não fundir**. *O Sorriso de Pandora* no upload — **não processado**.
+
+### Devolutiva B015 aplicada (2026-08-24)
+
+- O-1 confirmado (é B015; 120 págs; CIP 170×120 = `[REVISAR]`; Prefácio/Esclarecimento = remissão a B017); O-2: 2 fichas ampliadas (**RC-041** + opcional **RC-024**) só NAT; B015 nas fontes de RC-024; RC-147/055/242/245 **não** reancoradas a partir de Zont; RC-019 **não** materializada; O-3: zero códigos; O-4: caps. 1–17 isolados; Hitler (p. 43) fora; Sitchin = externa; Orbum/IEEA fora; O-5: B017, B026, B052, B018 e B039 intactas; *O Sorriso de Pandora* intocado; O-6: **BIBLIO intocada** (`trabalhada` / 120 págs); O-7: quarentena mediúnica crítica + clínica, política, ufológica, científica, teológica, institucional; O-8: `_ampliacoes_B015.txt` aplicado; pasta em `livros/CONCLUIDOS/B015_o_guardiao_do_eden/`. Sem apostila.
 
 ## Fase 2 — B026 *Carma e Compromisso* (abertura 2026-08-24) — **livro 3/3 Queda e Ascensão**
 

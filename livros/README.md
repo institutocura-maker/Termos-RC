@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B015_o_guardiao_do_eden/` — piloto aberto (2026-08-24); ingresso + dossiê enxuto; 0 códigos; BIBLIO intocada (`trabalhada` / 120 págs). Aguarda Devolutiva O-1..O-8. Caps. 1–17 (Zont En Drel) isolados. Prefácio/Esclarecimento = remissão a B017. **Não** fundir com B052.
+*(nenhum ciclo integral em andamento.)*
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
@@ -83,3 +83,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B025_caminhos_espirituais` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 108–109; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. Sem apostila.
 
 `CONCLUIDOS/B026_carma_e_compromisso` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 206 + fecho p. 427–428; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. Editores p. 204–205 = não âncora. Trilogia Queda e Ascensão encerrada. Sem apostila.
+
+`CONCLUIDOS/B015_o_guardiao_do_eden` — Devolutiva aplicada (2026-08-24); 2 fichas (RC-041, RC-024) só NAT; B015 nas fontes de RC-024; 0 códigos; BIBLIO intocada. Zont En Drel isolado. Prefácio = remissão a B017. Sem apostila.

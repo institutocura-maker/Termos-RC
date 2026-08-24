@@ -29,7 +29,7 @@
 | RC-021 | Antares (Sistema) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B058 | RC-017; RC-067; RC-002; RC-103 | — |
 | RC-022 | Antlar | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B031 | RC-025; RC-023; RC-030 | — |
 | RC-023 | Antlartes | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B031 | RC-030; RC-010; RC-022 | — |
-| RC-024 | Anunnakis | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B017, B018, B023, B061, P2022-12-17, P2025-02-16, P2024-11-30, P2024-11-09, P2024-04-13, P2023-12-02, P2021-03-27 | RC-082; RC-134; RC-053; RC-080; RC-580; RC-583; RC-587; RC-588; RC-589 | [✔](termos/RC-024-anunnakis.md) |
+| RC-024 | Anunnakis | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B017, B018, B023, B015, B061, P2022-12-17, P2025-02-16, P2024-11-30, P2024-11-09, P2024-04-13, P2023-12-02, P2021-03-27 | RC-082; RC-134; RC-053; RC-080; RC-580; RC-583; RC-587; RC-588; RC-589 | [✔](termos/RC-024-anunnakis.md) |
 | RC-025 | Asphezian | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟡 | B031 | RC-057; RC-058; RC-022; RC-092 | — |
 | RC-026 | Astralização dos Biodemos | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟡 | B031 | RC-101; RC-127; RC-142; RC-074 | — |
 | RC-027 | Astréia | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B060 | RC-116; RC-047; RC-101 | — |

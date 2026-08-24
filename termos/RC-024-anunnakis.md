@@ -36,6 +36,12 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2021-01-23] Os quatro segmentos genéticos (U0435–U0442):** "eu tô falando de religião, não, com o estudo do genoma humano: com o avanço dos estudos de genética foi feito uma pesquisa mundial e a turma que não acreditava em Noé teve que aceitar o fato de que a humanidade é dividida em quatro grandes segmentos genéticos" (U0437); "dos quatro, três são: um Oriente Médio, a África e o [europeu/asiático]" (U0438) [REVISAR — o STT atribui os segmentos de forma confusa (U0435–U0436)]; "a quarta região da Terra é as Américas, que aí não é o DNA de nenhum dos três filhos de Noé" (U0439); "desde o tempo de Adão, Caim foi para lá [as Américas]... toda a descendência da América do Norte, América Central, América do Sul, o DNA vem de Caim, segundo filho de Adão" (U0441–U0442).
 - **Contexto (U0479–U0481):** "a linhagem de Sem sempre lidou com os anjos clones de Javé, não era com seres dentro dos portais; a linhagem de Jafé só lidou com os demos dos portais, foi invadida pelos portais abertos" [REVISAR — STT].
 
+
+## Ampliação — B015 (O Guardião do Éden)
+
+- **[B015 p. 18]** NAT: Ellam julga que a referência de Zont aos «poucos terráqueos» que estudam o passado «tem a ver com os livros de Zecharia Sitchin, dentre outros»; o revelado «apenas confirma o que já havia sido publicado». **Referência externa — não ontologia.**
+- **[B015 p. 18]** NAT: «O único painel inédito penso ser o que se refere à origem dos anunnakis». **Quarentena ufológica / científica.** Caps. 1–17 **isolados**. Sem fusão com B017 / B023. Fonte **B015** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

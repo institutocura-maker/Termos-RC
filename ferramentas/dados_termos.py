@@ -105,7 +105,7 @@ TERMOS = [
     ("RC-021", "Antares (Sistema)", LOK_PLA[0], LOK_PLA[1], P, ["B031", "B058"], "RC-017; RC-067; RC-002; RC-103", False),
     ("RC-022", "Antlar", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-025; RC-023; RC-030", False),
     ("RC-023", "Antlartes", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-030; RC-010; RC-022", False),
-    ("RC-024", "Anunnakis", SER_EXT[0], SER_EXT[1], P, ['B031', 'B017', 'B018', 'B023', 'B061', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-04-13', 'P2023-12-02', 'P2021-03-27'], 'RC-082; RC-134; RC-053; RC-080; RC-580; RC-583; RC-587; RC-588; RC-589', True),
+    ("RC-024", "Anunnakis", SER_EXT[0], SER_EXT[1], P, ['B031', 'B017', 'B018', 'B023', 'B015', 'B061', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-04-13', 'P2023-12-02', 'P2021-03-27'], 'RC-082; RC-134; RC-053; RC-080; RC-580; RC-583; RC-587; RC-588; RC-589', True),
     ("RC-025", "Asphezian", TEC_NAV[0], TEC_NAV[1], P, ["B031"], "RC-057; RC-058; RC-022; RC-092", False),
     ("RC-026", "Astralização dos Biodemos", PRO_ESP[0], PRO_ESP[1], P, ["B031"], "RC-101; RC-127; RC-142; RC-074", False),
     ("RC-027", "Astréia", SER_DEC[0], SER_DEC[1], P, ["B031", "B060"], "RC-116; RC-047; RC-101", False),

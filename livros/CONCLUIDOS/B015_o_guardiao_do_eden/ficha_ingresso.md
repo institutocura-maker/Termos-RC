@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B015 — O Guardião do Éden
 
-> **ESTADO OPERACIONAL: INGRESSO ABERTO — AGUARDA DEVOLUTIVA O-1..O-8.** 0 códigos. BIBLIO intocada. Sem apostila. Pasta **fora** de `CONCLUIDOS/`. Sem fusão.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 2 fichas ampliadas (RC-041 + opcional RC-024) só NAT; B015 nas fontes de RC-024; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Sem fusão.
 
 ## 1. Identificação
 

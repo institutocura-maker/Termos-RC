@@ -81,6 +81,12 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B039 p. 113]** NAT: Javé desejava a «subjugação dos humanos pela força»; Jesus recusou. **Quarentena teológica.**
 - **[B039 p. 156]** Comentário 3: «desígnios absurdos dos “egos doentios” de Javé e de outros» = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
 
+
+## Ampliação — B015 (O Guardião do Éden)
+
+- **[B015 p. 16]** NAT (voz de Ellam): gloss entre parênteses — as «primeiras gerações dos descendentes» do Criador = «anjos-clones». RC-019 permanece **sem ficha**.
+- Prefácio/Esclarecimento = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–17 (Zont En Drel) **isolados**. Sem extrair RC-147 / RC-055 / RC-245 a partir da narrativa. Sem fusão com B017 / B052. Fonte **B015** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
