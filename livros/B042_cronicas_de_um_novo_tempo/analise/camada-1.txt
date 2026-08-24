@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-24): décimo-terceiro livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034).
+PDF entregue em uploads_recepcao/ pelo curador (push 665d253 no branch da sessão).
+Obra já na BIBLIO como B042 (trabalhada; 228 págs e ISBN já descritos). Primeiro original arquivado no workspace.
+17 termos já citam B042; 9 com ficha. Núcleo: RC-094 / RC-003 / RC-005 / RC-536.
+Parte IV (política) e 11-setembro (p. 125) fora. Orbum/IEEA fora.
+Corpus: original.txt (extract paginado; p. 1, 21, 104, 219 sem texto). Sem marca d'água de conversor.

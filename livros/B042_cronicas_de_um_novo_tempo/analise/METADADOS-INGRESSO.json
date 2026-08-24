@@ -1,0 +1,21 @@
+{
+  "obra": "B042",
+  "titulo": "Crônicas de um Novo Tempo",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / ano — (copyright 2011; CIP 2012)",
+  "pdf_creditos": "Conectar : Varna Instituto / Copyright 2011 / CIP 2012 / ISBN 978-85-62411-13-7",
+  "divergencia_edicao": "PDF 228 págs e ISBN batem com BIBLIO; Etapa II ~1999–2002 × intro 04/08/2011 × CIP 2012 = [REVISAR] de recorte; CDD 113; subtítulo CIP 'introdução à era do conhecimento e da espiritualidade'",
+  "fonte_upload": "uploads_recepcao/Cronicas de um Novo Tempo - Jan Val Ellam.pdf",
+  "bytes_pdf": 961068,
+  "sha256_pdf": "3c2c01d44edc84fcf363d8bd650b5ff30cb8364103cd0fa034cf1bef533a67ea",
+  "paginas_pdf": 228,
+  "paginas_sem_texto": [1, 21, 104, 219],
+  "bytes_original_txt": 369876,
+  "sha256_original_txt": "e302c4152ef1ab739abb8c935149736779fbef49fdff8702355a416f98e0f790",
+  "palavras_approx": 57670,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-24",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; pasta fora de CONCLUIDOS",
+  "codigos_consumidos": 0
+}

@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B034 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B042 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B042 *Crônicas de um Novo Tempo* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Cronicas de um Novo Tempo - Jan Val Ellam.pdf` (961.068 bytes; SHA-256 `3c2c01d44edc84fcf363d8bd650b5ff30cb8364103cd0fa034cf1bef533a67ea`; 228 págs = **B042**). ISBN 978-85-62411-13-7 já na BIBLIO. Intro Atlan 04/08/2011; CIP 2012; Copyright 2011. Etapa II ~1999–2002 × 2011/2012 = `[REVISAR]` de recorte. **BIBLIO intocada.**
+- Ciclo em `livros/B042_cronicas_de_um_novo_tempo/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~57.670 palavras; SHA-256 `e302c4152ef1ab739abb8c935149736779fbef49fdff8702355a416f98e0f790`. p. 1, 21, 104, 219 sem texto.
+- 17 termos já citam B042; 9 com ficha. Dossiê sugere ampliar RC-094, RC-005, RC-003, RC-536, RC-274. **0 códigos.** RC-085/098/190/214/215/344/364/537 sem ficha — não materializar.
+- Parte IV (política) e 11-setembro (p. 125) fora. Orbum/IEEA fora. Sem fusão com B001/B011/B014/B043.
 
 ## Fase 2 — B034 *Cartas a Javé* (abertura 2026-08-24)
 
