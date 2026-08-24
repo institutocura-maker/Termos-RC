@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-*(nenhum ciclo integral em andamento — B018/B039 permanecem na gaveta.)*
+`livros/B018_terra_atlantis_a_frota_norte/` — ingresso 2026-08-24; **obra integral (151 págs)**; livro 2/3 Terra Atlantis; dossiê O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. B039 não processado. Sem fusão com B038. Sem apostila.
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 

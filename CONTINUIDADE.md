@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B017 aplicada — 7 fichas, 0 códigos; B018/B039 na gaveta)  
+**Data de sincronização:** 2026-08-24 (ingresso B018 — aguarda Devolutiva; B039 na gaveta; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B018 *Terra Atlantis II: A Frota Norte* (abertura 2026-08-24) — **livro 2/3; B039 fora**
+
+- **PDF ingressado** em `uploads_recepcao/TERRA ATLANTIS - A Frota Norte - Livro 2.pdf` (1.640.256 bytes; SHA-256 `ea5810a677f37b3e479ffa4bf42198c0fdbd2bc88821b9fed50bebd9c9da5ec4`; **151 págs** = **B018**, obra integral). Adaptação Gullan Greyl 28-01-2020. Metadado Author **Gallian Greyl** = `[REVISAR]`. Prefácio/Esclarecimentos = **mesmo bloco de B017**. Sem ISBN/CIP. **BIBLIO intocada** (`trabalhada` / 2017).
+- Ciclo em `livros/B018_terra_atlantis_a_frota_norte/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~56.796 palavras; SHA-256 `4917b00131869dd87ca020cb5cdb20280d4976af424b924f26e5f1a812bb3039`. 151 págs com texto.
+- **21 termos já citam B018**; 7 com ficha. Dossiê sugere só a voz de Ellam (NAT + Cronologia p. 131): RC-078, RC-241, RC-074, RC-041. **0 códigos.** Caps. 1–11 = Val Eno — isolados. RC-065/234/240 sem ficha.
+- Remissão a B017 / B003 = **não fundir**. B039 no upload — **não processado**. B038 **não fundir**. Quarentena mediúnica crítica. Orbum/IEEA/roteiro (p. 140–151) fora. Hitler (p. 147) = sinopse de B039 — fora.
 
 ## Fase 2 — B017 *Terra Atlantis I: O Sinal de Land's End* (abertura 2026-08-24) — **livro 1/3; B018/B039 fora**
 

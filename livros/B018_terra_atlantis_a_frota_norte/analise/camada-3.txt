@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B018_terra_atlantis_a_frota_norte/original.txt
+
+SHA-256 4917b00131869dd87ca020cb5cdb20280d4976af424b924f26e5f1a812bb3039
+378.246 bytes · ~56.796 palavras · 151 págs.
+Todas as páginas com texto extraível.
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Prefácio/Esclarecimentos (remissão a B017) + blocos NAT + Cronologia p. 131 (assinada).
+Caps. 1–11 = Val Eno (isolados).
+Fechos p. 140–151 = autor / roteiro / Orbum / IEEA (fora da malha).

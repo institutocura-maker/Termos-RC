@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 152010 | 1250 | 6b04197071e273d4ed74fca5ba7b2c32c0eb542e65900a5bf489a54421539637
+# CONTINUIDADE.md | 153190 | 1258 | 85baab920efdcbe5fa06d2cd8db8bcc4d0354360977f7ad9d97341d16b778c5e
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 603795 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 604975 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -4582,8 +4582,16 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B017 aplicada — 7 fichas, 0 códigos; B018/B039 na gaveta)  
+**Data de sincronização:** 2026-08-24 (ingresso B018 — aguarda Devolutiva; B039 na gaveta; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B018 *Terra Atlantis II: A Frota Norte* (abertura 2026-08-24) — **livro 2/3; B039 fora**
+
+- **PDF ingressado** em `uploads_recepcao/TERRA ATLANTIS - A Frota Norte - Livro 2.pdf` (1.640.256 bytes; SHA-256 `ea5810a677f37b3e479ffa4bf42198c0fdbd2bc88821b9fed50bebd9c9da5ec4`; **151 págs** = **B018**, obra integral). Adaptação Gullan Greyl 28-01-2020. Metadado Author **Gallian Greyl** = `[REVISAR]`. Prefácio/Esclarecimentos = **mesmo bloco de B017**. Sem ISBN/CIP. **BIBLIO intocada** (`trabalhada` / 2017).
+- Ciclo em `livros/B018_terra_atlantis_a_frota_norte/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~56.796 palavras; SHA-256 `4917b00131869dd87ca020cb5cdb20280d4976af424b924f26e5f1a812bb3039`. 151 págs com texto.
+- **21 termos já citam B018**; 7 com ficha. Dossiê sugere só a voz de Ellam (NAT + Cronologia p. 131): RC-078, RC-241, RC-074, RC-041. **0 códigos.** Caps. 1–11 = Val Eno — isolados. RC-065/234/240 sem ficha.
+- Remissão a B017 / B003 = **não fundir**. B039 no upload — **não processado**. B038 **não fundir**. Quarentena mediúnica crítica. Orbum/IEEA/roteiro (p. 140–151) fora. Hitler (p. 147) = sinopse de B039 — fora.
 
 ## Fase 2 — B017 *Terra Atlantis I: O Sinal de Land's End* (abertura 2026-08-24) — **livro 1/3; B018/B039 fora**
 
