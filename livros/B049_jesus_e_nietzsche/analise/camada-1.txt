@@ -1,0 +1,7 @@
+Contexto de ingresso (2026-08-24): décimo-sétimo livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037).
+PDF entregue em uploads_recepcao/ pelo curador (push 22f3401 no branch da sessão).
+Obra já na BIBLIO como B049 (trabalhada; 224 págs, ISBN já descrito). Primeiro original arquivado no workspace.
+9 termos já citam B049; 6 com ficha. Núcleo: RC-369 / RC-371 / RC-072.
+IEEA / Orbum / entrevista / roteiro (p. 190–224) fora. Cap. 14 (Edimburgo) fora.
+Quarentena clínica da «infecção da crença» / «enlouquecido» / «sanha psicótica».
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

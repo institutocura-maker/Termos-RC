@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B049_jesus_e_nietzsche/original.txt
+
+SHA-256 9e647924758f0b49ae3679c7bf1da0f6161e91b20dc5805bda64f8952adee750
+Não duplicar aqui (518 KB). Página 1 = [página sem texto extraível].
+Sem marca d'água de conversor. Extract com tabulações do calibre.

@@ -1,0 +1,23 @@
+{
+  "obra": "B049",
+  "titulo": "Jesus e Nietzsche",
+  "subtitulo_biblio": "A Fé de Jesus e a Razão de Nietzsche",
+  "autor_capa": "Jan Val Ellam",
+  "autor_canonico": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2019",
+  "pdf_creditos": "Conectar Editora / 1ª ed. Natal-RN 2019 / Copyright 2019 / ISBN 978-85-62411-61-8 / CDD 248.4 / CIP 300 p. / ed. Rodrigo de Paula Pessoa Freitas",
+  "divergencia_edicao": "PDF 224 págs e ISBN batem com BIBLIO; CIP 300 p. × PDF 224 = [REVISAR] de contagem; copyright 2019 = 1ª ed. 2019",
+  "fonte_upload": "uploads_recepcao/Jesus e Nietzsche - Jan Val Ellam.pdf",
+  "bytes_pdf": 1464476,
+  "sha256_pdf": "caa54abc521fa2831eec9cee960e6ed8d850c0dcb5b9431fce9170c2713aa508",
+  "paginas_pdf": 224,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 518196,
+  "sha256_original_txt": "9e647924758f0b49ae3679c7bf1da0f6161e91b20dc5805bda64f8952adee750",
+  "palavras_approx": 78804,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-24",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Ingresso aberto; aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada",
+  "codigos_consumidos": 0
+}

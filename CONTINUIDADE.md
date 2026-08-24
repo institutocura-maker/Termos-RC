@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B037 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B049 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B049 *Jesus e Nietzsche* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Jesus e Nietzsche - Jan Val Ellam.pdf` (1.464.476 bytes; SHA-256 `caa54abc521fa2831eec9cee960e6ed8d850c0dcb5b9431fce9170c2713aa508`; 224 págs = **B049**). ISBN 978-85-62411-61-8 já na BIBLIO. CIP 300 p. × PDF 224 = `[REVISAR]` de contagem. Copyright 2019 = 1ª ed. 2019. CDD 248.4. Intro Atlan 9/11/2019. **BIBLIO intocada.**
+- Ciclo em `livros/B049_jesus_e_nietzsche/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~78.804 palavras; SHA-256 `9e647924758f0b49ae3679c7bf1da0f6161e91b20dc5805bda64f8952adee750`. p. 1 sem texto.
+- 9 termos já citam B049; 6 com ficha. Dossiê sugere ampliar RC-369, RC-371, RC-072. **0 códigos.** RC-370/372/099 sem ficha — não materializar.
+- Cap. 14 (Edimburgo) e IEEA/Orbum/entrevista/roteiro fora. Quarentena clínica («infecção da crença» / «enlouquecido»). Sem fusão com B011/B043/B014/B052.
 
 ## Fase 2 — B037 *Inquisição Filosófica* (abertura 2026-08-24)
 

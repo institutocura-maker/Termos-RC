@@ -18,6 +18,10 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 - Terceiros (EXT) → `materiais_externos/`
 - Glossário Raquyel (B031) → fonte **secundária**; não reprocessar como primária
 
+## Ciclo em andamento
+
+`livros/B049_jesus_e_nietzsche/` — ingresso 2026-08-24; dossiê enxuto O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. Sem apostila.
+
 ## Piloto
 
 `CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin` — piloto encerrado (2026-08-23).
