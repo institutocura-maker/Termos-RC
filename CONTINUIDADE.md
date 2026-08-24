@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B026 aplicada — 3 fichas, 0 códigos; trilogia Queda e Ascensão encerrada)  
+**Data de sincronização:** 2026-08-24 (piloto B015 — ingresso e dossiê enxuto; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B015 *O Guardião do Éden* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/O Guardiao do Eden - Jan Val Ellam.pdf` (1.177.449 bytes; SHA-256 `88c002246693c79fb783bd720057aec7939148b4fa80852abf04635688dc4bbb`; **120 págs** = **B015**, obra integral). calibre 3.48; Title correto. Prefácio/Esclarecimento = **mesmo bloco de B017** (Atlan 29/11/2002 e 20/04/2015). CIP 170 p. × PDF 120 = `[REVISAR]`. ISBN 978-85-62411-33-5 extraível — **não gravar**. **BIBLIO intocada** (`trabalhada` / 2017).
+- Ciclo em `livros/B015_o_guardiao_do_eden/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~38.908 palavras; SHA-256 `877d21af677217f413f1f6d872d4af31fc01450b564a58540bc51c8432f668ac`. p. 1 sem texto.
+- **22 termos já citam B015**; 10 com ficha. Dossiê sugere só NAT: RC-041. **0 códigos.** Caps. 1–17 = Zont En Drel — isolados. RC-019/147 não reancorar a partir da narrativa.
+- Hitler (p. 43) = político + isolado — fora. Sitchin = externa. B052 / B017 / B026 = **não fundir**. *O Sorriso de Pandora* no upload — **não processado**.
 
 ## Fase 2 — B026 *Carma e Compromisso* (abertura 2026-08-24) — **livro 3/3 Queda e Ascensão**
 

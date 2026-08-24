@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B015_o_guardiao_do_eden/original.txt
+
+SHA-256 877d21af677217f413f1f6d872d4af31fc01450b564a58540bc51c8432f668ac
+244.986 bytes · ~38.908 palavras · 120 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Prefácio/Esclarecimento (remissão a B017) + notas do autor terreno (p. 12, 16, 18, 86).
+Caps. 1–17 = Zont En Drel 29 (isolados).
+Fechos p. 108–120 = autor / Orbum / IEEA / CIP (fora da malha).

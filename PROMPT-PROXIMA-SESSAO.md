@@ -4,7 +4,7 @@
 >
 > **Hábito obrigatório:** a sessão que estiver encerrando atualiza este arquivo *antes* do último commit — estado canônico, tarefas feitas, pendências e o próximo passo. A sessão nova lê este arquivo primeiro.
 >
-> **Última atualização:** 2026-08-24 · AGENTE 9 (Devolutiva B026 aplicada — 3 fichas, 0 códigos; trilogia Queda e Ascensão encerrada) · branch `arena/01a02e74-termos-rc`.
+> **Última atualização:** 2026-08-24 · AGENTE 9 (piloto B015 — ingresso e dossiê enxuto; 0 códigos) · branch `arena/01a02e74-termos-rc`.
 
 ---
 

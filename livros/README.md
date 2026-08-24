@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-*(nenhum ciclo integral em andamento.)*
+`livros/B015_o_guardiao_do_eden/` — piloto aberto (2026-08-24); ingresso + dossiê enxuto; 0 códigos; BIBLIO intocada (`trabalhada` / 120 págs). Aguarda Devolutiva O-1..O-8. Caps. 1–17 (Zont En Drel) isolados. Prefácio/Esclarecimento = remissão a B017. **Não** fundir com B052.
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
