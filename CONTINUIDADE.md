@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B039 aplicada — 8 fichas, 0 códigos; trilogia Terra Atlantis encerrada)  
+**Data de sincronização:** 2026-08-24 (piloto B003 — ingresso e dossiê enxuto; 0 códigos; B025/B026 na gaveta)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B003 *Reintegração Cósmica* (abertura 2026-08-24) — **livro 1/3 Queda e Ascensão; B025/B026 fora**
+
+- **PDF ingressado** em `uploads_recepcao/Reintegração Cósmica - trilogia completa - jan val ellam.pdf` (1.992.689 bytes; SHA-256 `142d8dafeca79351ab72725af855fa9bedec59a793f47c1209c6f4c0a5b1a116`; **428 págs** = compilação dos três livros). Este ciclo = **págs 1–103** = **B003**. Adaptação/compilação 2013 (Author `yannicksaurin`; Title `TRILOGIA`). Esclarecimento Atlan **21/09/1991**. Sem ISBN/CIP. **BIBLIO intocada** (`trabalhada` / 1999).
+- Ciclo em `livros/B003_reintegracao_cosmica/` (fora de CONCLUIDOS até Devolutiva).
+- Extract do Livro I: ~33.806 palavras; SHA-256 `ec6b9c736d132da2f7812a95f0999ce2b7af9f096c7c688aab04302e7b55f568`. 103 págs com texto.
+- **21 termos já citam B003**; 11 com ficha. Dossiê sugere só a voz de Ellam (p. 3, 6, 8–10): RC-003, RC-070, RC-342, RC-072. **0 códigos.** Partes I–III + Passado e Presente + Cronologia = irmãos anónimos — isolados. RC-354/343/090 sem ficha.
+- Corpo = psicografia (padrão B009). Lemma Javé = 0; Jeová 36× no corpo isolado. Hitler (p. 58) = político + isolado — fora. Cronologia × B018 = `[REVISAR]` sem fusão. B025 (p. 104) e B026 (p. 197) **não processados**.
 
 ## Fase 2 — B039 *Terra Atlantis III: A Era Sapiens* (abertura 2026-08-24) — **livro 3/3; B017/B018 = remissão**
 

@@ -1,0 +1,13 @@
+O corpus deste ciclo é o extract paginado do Livro I:
+
+  livros/B003_reintegracao_cosmica/original.txt
+
+SHA-256 ec6b9c736d132da2f7812a95f0999ce2b7af9f096c7c688aab04302e7b55f568
+226.571 bytes · ~33.806 palavras · págs 1–103.
+Todas as páginas do Livro I com texto extraível.
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = p. 3, p. 6, Introdução p. 8–9, Esclarecimento p. 10 (Atlan 21/09/1991).
+Partes I–III + Passado e Presente + Cronologia = irmãos anónimos (isolados).
+Fechos p. 97–103 = roteiro de sete grupos / Orbum (fora da malha).
+B025 e B026 não estão neste extract.
