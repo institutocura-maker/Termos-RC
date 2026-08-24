@@ -17,6 +17,13 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 - **Grafia preferida:** A Humanização do Criador
 - **Variações:** processo de humanização do Criador; humanização de Javé
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 6]** as crônicas são apresentadas como “uma das matérias do seu ‘curso de humanização’”.
+- **[B036 p. 9]** Javé: o favor divino é refletido “com o uso da minha parcela de humanização que já possuo, processo este que, hoje sei, vem sendo utilizado pelos que me amam… para que a minha natureza possa mais ainda ‘se humanizar’, como forma de evoluir em decência e em dignidade existencial”.
+- Sem fusão com B015. “Doente” (p. 9) permanece na ficha RC-422, com a mesma **quarentena clínica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

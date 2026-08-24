@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B036 — As Memórias de Javé
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Pasta fora de `CONCLUIDOS/`.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 7 fichas ampliadas (RC-421, RC-422, RC-426, RC-245, RC-424, RC-001, RC-414); 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

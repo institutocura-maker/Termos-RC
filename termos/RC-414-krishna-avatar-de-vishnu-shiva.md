@@ -71,6 +71,12 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Os Pandavas (U0878–U0881):** "quando Vyasa conta no Mahabharata a conversa de Krishna com Arjuna: Arjuna não queria ir pra guerra com seus primos, e Krishna basicamente o obriga a ir, no sentido de que o motiva filosoficamente... 'se ele fosse pra guerra sem ódio, matasse, porque o dharma teria que liquidar o mal pro bem sobreviver'".
 - **Vyasa e Krishna (U1083–U1093):** "quando Vyasa conversando com Krishna, que era o maior ser que ele já tinha visto... 'o poder que eu tenho dele trago em mim: a essência de Brahma, a razão de Vishnu e a força de Shiva'" (U1093).
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 39]** voz atribuída a Javé: “Krishna foi o pretenso Keshava (personificação de um avatar que presumivelmente incorporou sequências da genética mental dos três seres da Trimurti) que se aproveitou da situação e pretendeu apartar do meu poder toda a Criação, situando-a em torno dele.”
+- Outros “antes dele também a tal pretenderam, mas nenhum havia saído das forças consorciadas da Trimurti com tal intento.” RC-425 permanece **sem ficha**. Sem fusão com B016. **Quarentena teológica.**
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

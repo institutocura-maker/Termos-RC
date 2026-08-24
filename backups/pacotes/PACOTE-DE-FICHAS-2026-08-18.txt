@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 16534 | 164 | c2c957a5601afbfa4a46227ed78408fe13f16c7cb80a0f13a4d45dd6301a913a
+# termos/RC-001-jave.md | 17222 | 172 | 20694d0f6c492af7a818a573e6cbd3a64fbaceb009166147e975e2c343752ee5
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -79,7 +79,7 @@
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 4018 | 53 | 4b64bfa51772d99be0e80d387bdd3f0ef12ea17480c5d083729c19e501ec345a
 # termos/RC-243-genetica-da-confianca.md | 2626 | 41 | cee8949465b59e78f3e61fe601b6f6f9ac69c725bee6fe041dc7647e817e3c2d
-# termos/RC-245-a-humanizacao-do-criador.md | 2844 | 42 | ffdd6724d4a0a074a36bdd81b5da3a2f78b56ecd90efd5a3dc1c1bd9a95eb346
+# termos/RC-245-a-humanizacao-do-criador.md | 3432 | 49 | ec28d85bd204431697c4e3a9359ff5b84af33bb4020ebdbfed0e089a228c7784
 # termos/RC-252-olm-codificador-de-zion-zian.md | 4581 | 65 | e8a1c5fae995a48b7386cb63773866e00dbb76f1a1aff43704baf2ce934c6a3f
 # termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4103 | 58 | 4e6e8a3fadb831cdb5fb73d914d2c47cd92a4a13b50f6af3e423f33fa1e1540a
 # termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 3389 | 48 | 756831c2226008c6a7bc8338336d53c20d195e902f29c45af49ddbca8a4d783d
@@ -144,14 +144,14 @@
 # termos/RC-408-adhymavatana-nome-completo-de-mavatna-vishnu.md | 5064 | 67 | f3cac204b68c8f609b0dc6404a77e8a5a2e9bc6b6cb99e3d868235aaa82cf16f
 # termos/RC-409-adhysavna-nome-completo-de-savna-shiva.md | 3920 | 62 | ee1f5ee880ebdab5692344f9c3f9ded66b9175ba7009ad915535df3f6aedb163
 # termos/RC-411-genero-adhy-147-seres-5-especies.md | 5100 | 68 | cd74b619d75777a4d733f031f17b52365243c9a568ba595570447db00e3d6044
-# termos/RC-414-krishna-avatar-de-vishnu-shiva.md | 11175 | 116 | 2b5ff47e70a2f6e66e10210d76ecc61369e3d6fc2902a7fe0a9a48ffb2feeff6
+# termos/RC-414-krishna-avatar-de-vishnu-shiva.md | 11749 | 122 | 4e22a1da5201956843e42b9b7edfb9f222a308b53f4126dd6d7f98839646e2ee
 # termos/RC-415-colapso-da-matriz-quantica-3-niveis.md | 3754 | 67 | 015801d6d384ed20b81fa318c24b0c5ce08a16cb34c257d02ff208503e73d409
 # termos/RC-416-cartas-a-jave-obra-e-dialogo.md | 2949 | 42 | a5df4e040f9a5905050e1daa4e144405c3c8b9563fd4365e14be82c3259ef8c2
 # termos/RC-417-resposta-de-jave-em-1a-pessoa.md | 2531 | 41 | d61f0906ced8a720474b965d693522eb1c09f90d10717d8c1c11e66db7993f50
-# termos/RC-421-as-memorias-de-jave-cronicas.md | 2634 | 42 | 56496b6de93fec2668c543bb658ac0f913eb570fe39183a95008895e05dc7320
-# termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 2641 | 41 | f61dd35b7dbe5b787b9d6669b1511ffe1f4186b0aa6159853f396672442d9a3e
-# termos/RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md | 4618 | 69 | 30696521f9cc1a48a09245dd8661e4762041b8ecf1352c8476d5ce7e3cbbfa71
-# termos/RC-426-jave-sem-avatares-nao-tenho-isto.md | 3556 | 59 | 6363e52d464e2d27644a27b494dd94726efbb4a348f8c8b7254d284b1bcc769d
+# termos/RC-421-as-memorias-de-jave-cronicas.md | 3651 | 50 | d02e30aa6dd81698d28fde399d07e548a74c4c5798cb105438901eb9a8926198
+# termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 3480 | 48 | a4a029b0d590459964bd4ca69a97954f71f2083f93091bb4145024fefabc4496
+# termos/RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md | 5614 | 77 | b11ed24b47ee04f28519417d95357d93a8af9c48b2093d638debbd99e8fc29b0
+# termos/RC-426-jave-sem-avatares-nao-tenho-isto.md | 4099 | 65 | 7b6cbdea5b27c050e4155e49e101290decef920a85ae153379a599a603d6b01b
 # termos/RC-430-esporte-como-evolucao-da-guerra.md | 2657 | 41 | 99c8fd2efe04cd58594e55a6554d98c5f9e0f2cb7be4be5d8b4c7cdb4de4e2d6
 # termos/RC-433-forca-de-atracao-sexual-anterior-a-polaridade.md | 5084 | 55 | 8a8050103de445627a259f885340af628abb5c9aded34e0b0a142decc1ac510a
 # termos/RC-434-homoafetividade-resquicio-da-forca-original.md | 5677 | 62 | 04cf5eb5006b46be0c944c636e2a2dad778fd6c30c05a28988945033612e3c80
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1499437 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1504682 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -517,6 +517,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B044 p. 13]** 4ª Constatação: destinação escapada = colmeia com Javé como abelha-rainha; ocidente = “Javé bíblico”; oriente demodhármico = “Brahma”.
 - **[B044 p. 96–97]** aposentadoria da função (não da posição); humanos criados como “criaturas-ferramentas” / “abelhas-operárias”; empreitada que malogrou desde o início.
 - **Quarentena clínica:** “câncer” do corpo (p. 9), “doentes”, “demência” (p. 97) = leitura do autor, **jamais** diagnóstico. Encontro 2010 = biográfica. Política (p. 19, 123, 145) **fora**.
+
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 4]** Ellam admite, “a muito custo”, que o Ser “poderia ser realmente o tal Javé bíblico”; o pedido passou de ordem a concurso para veicular “suas comunicações”.
+- **[B036 p. 8–11]** 1ª crônica em 1ª pessoa: criou o universo e não sabe poesia; faces sem alma; “advogado de acusação de um julgamento inexistente… fui eu mesmo que o contratei” (Ano: 2012).
+- **[B036 p. 41]** “Não tenho isto!” — remissão a RC-426; sem avatar próprio.
+- **Quarentena clínica** (p. 9: “doente”). Mediunidade / desassossegos = **biográfica**. IEEA (p. 52) **fora**. Sem fusão com B044 / B016 / B041.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5289,6 +5297,13 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 - **Grafia preferida:** A Humanização do Criador
 - **Variações:** processo de humanização do Criador; humanização de Javé
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 6]** as crônicas são apresentadas como “uma das matérias do seu ‘curso de humanização’”.
+- **[B036 p. 9]** Javé: o favor divino é refletido “com o uso da minha parcela de humanização que já possuo, processo este que, hoje sei, vem sendo utilizado pelos que me amam… para que a minha natureza possa mais ainda ‘se humanizar’, como forma de evoluir em decência e em dignidade existencial”.
+- Sem fusão com B015. “Doente” (p. 9) permanece na ficha RC-422, com a mesma **quarentena clínica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8775,6 +8790,12 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Os Pandavas (U0878–U0881):** "quando Vyasa conta no Mahabharata a conversa de Krishna com Arjuna: Arjuna não queria ir pra guerra com seus primos, e Krishna basicamente o obriga a ir, no sentido de que o motiva filosoficamente... 'se ele fosse pra guerra sem ódio, matasse, porque o dharma teria que liquidar o mal pro bem sobreviver'".
 - **Vyasa e Krishna (U1083–U1093):** "quando Vyasa conversando com Krishna, que era o maior ser que ele já tinha visto... 'o poder que eu tenho dele trago em mim: a essência de Brahma, a razão de Vishnu e a força de Shiva'" (U1093).
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 39]** voz atribuída a Javé: “Krishna foi o pretenso Keshava (personificação de um avatar que presumivelmente incorporou sequências da genética mental dos três seres da Trimurti) que se aproveitou da situação e pretendeu apartar do meu poder toda a Criação, situando-a em torno dele.”
+- Outros “antes dele também a tal pretenderam, mas nenhum havia saído das forças consorciadas da Trimurti com tal intento.” RC-425 permanece **sem ficha**. Sem fusão com B016. **Quarentena teológica.**
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -8995,6 +9016,14 @@ O livro é a sequência natural de *Cartas a Javé* (B034) e do *Favor Divino* (
 - **Grafia preferida:** As Memórias de Javé
 - **Variações:** Memórias de Javé; crônicas de Javé; as três partes de crônicas (espontâneas / nem tanto / forçadas)
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 4–6]** Introdução: Ellam cede a “escutar” o Ser que “antes tão somente ordenava”. Primeiro momento = reclamações sobre *Favor Divino* (B048); segundo = respostas às cartas de Mônica Camargo → *Cartas a Javé* (B034). **Não fundir** com B048 / B034.
+- **[B036 p. 5]** três partes: “espontâneas”; “espontâneas, mas nem tanto” (perguntas/discordâncias para “acordá-lo”); “forçadas” (diálogos como em B048). O livro “não se encontra finalizado” e permanecerá aberto a pedido de Javé → **Colecionar Incertezas**; não cadastrar continuação.
+- **[B036 p. 6]** Atlan, 17/01/2014. As crônicas como “matérias do seu ‘curso de humanização’”.
+- **[B036 p. 97]** posfácio: “arte da indiferença emocional” ante as “invasões” — **quarentena biográfica**. Remissão a *Inquisição Filosófica* e *Inquisição Trimurtiana* = **não fundir**. IEEA / Orbum / CIP alheio (p. 111) **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -9038,6 +9067,13 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 ## Etimologia / Grafias
 - **Grafia preferida:** Ser-Criador fracassado
 - **Variações:** Criador fracassado; arquiteto atormentado; Deus doente; "Ser-Criador fracassado" (citação da crônica)
+
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 8]** 1ª crônica (voz de Javé citando Ellam): “Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto Ser-Criador fracassado de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos.”
+- **[B036 p. 8–9]** Javé admite: “Preciso viver e, vida, agora, para mim, é avaliar o modo como existo”; “estou doente. Na verdade, já nasci para esta personalidade doente, hoje o sei” — **quarentena clínica** (leitura / autoconfissão atribuída, jamais diagnóstico).
+- **[B036 p. 9]** o “favor divino”: Ellam “apresentou a sua moeda” — não havia empréstimo, e Javé “é quem deveria ser grato”. Sem fusão com B048.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -9098,6 +9134,14 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 ## Ampliação — P2024-11-30
 
 - **Linhagem dos Escolhidos (P2024-11-30):** "Brama não achava que o melhor sangue humano era aquele de Adão, Sete, Enos, Cainã, Jarede, Enoque, Matusalém, Lamec, Noé, Abraão, Isaque, Jacó? Era. Mas quando Éber..."; "Bharata é um descendente disso aqui"; a disputa das linhagens (hebreus × arianos).
+
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 17]** “Da linhagem humana por mim preparada desde os tempos do meu Adão, escolhi Enoch, que zelosamente cumpriu com os desígnios… Enoch foi o meu predileto.” Grafia do livro: **Enoch** (canônico Enoque quando cruzar fichas).
+- **[B036 p. 18]** retomou a linhagem ao escolher Abraão “para com ele firmar um pacto, coisa que sequer havia estabelecido com Enoch”; “Escolhi a ‘genética de Jacó’… para, a partir dele, distribuir a minha versão predileta do DNA humano então disponível”.
+- **[B036 p. 19]** José e Moisés; o “enviado” (Jesus) “jamais assumiu o papel ajustado” — **quarentena teológica**; não ontologizar nações modernas.
+- **[B036 p. 75]** Enoch: “primeiro humano que construiu uma opinião própria a meu respeito, num certo sentido crítico, mas sem me criticar”; viu que Javé “atormentava” os eleitos. RC-270 / RC-423 permanecem **sem ficha**. Sem fusão com B013.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -9161,6 +9205,12 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - **[B016 p. 185]** jamais produziu Adhyajna; permanece no brahmaloka.
 - A fórmula “Não tenho isto!” é de B036 — **não** interpolar como fala deste PDF. Aqui só a impossibilidade estrutural.
 - **Quarentena teológica.**
+
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 41]** declaração verbatim, voz atribuída a Javé: “Na descendência deles, existem as suas expressões pessoais que, na Terra, elas são conhecidas por avatares. Não tenho isto! Eu sou o que sou tão somente. Não tenho variações de mim mesmo, pelo menos nos termos avatáricos, apesar de que tudo e todos os que existem são expressões do que sou!”
+- Esta é a fonte da fórmula — **não** interpolar em B016. Sem materializar RC-016 / RC-425. Sem fusão com B016.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

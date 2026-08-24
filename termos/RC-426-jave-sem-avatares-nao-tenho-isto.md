@@ -26,6 +26,12 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - A fórmula “Não tenho isto!” é de B036 — **não** interpolar como fala deste PDF. Aqui só a impossibilidade estrutural.
 - **Quarentena teológica.**
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 41]** declaração verbatim, voz atribuída a Javé: “Na descendência deles, existem as suas expressões pessoais que, na Terra, elas são conhecidas por avatares. Não tenho isto! Eu sou o que sou tão somente. Não tenho variações de mim mesmo, pelo menos nos termos avatáricos, apesar de que tudo e todos os que existem são expressões do que sou!”
+- Esta é a fonte da fórmula — **não** interpolar em B016. Sem materializar RC-016 / RC-425. Sem fusão com B016.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

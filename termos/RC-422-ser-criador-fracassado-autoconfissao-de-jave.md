@@ -17,6 +17,13 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 - **Grafia preferida:** Ser-Criador fracassado
 - **Variações:** Criador fracassado; arquiteto atormentado; Deus doente; "Ser-Criador fracassado" (citação da crônica)
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 8]** 1ª crônica (voz de Javé citando Ellam): “Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto Ser-Criador fracassado de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos.”
+- **[B036 p. 8–9]** Javé admite: “Preciso viver e, vida, agora, para mim, é avaliar o modo como existo”; “estou doente. Na verdade, já nasci para esta personalidade doente, hoje o sei” — **quarentena clínica** (leitura / autoconfissão atribuída, jamais diagnóstico).
+- **[B036 p. 9]** o “favor divino”: Ellam “apresentou a sua moeda” — não havia empréstimo, e Javé “é quem deveria ser grato”. Sem fusão com B048.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

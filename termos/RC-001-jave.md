@@ -77,6 +77,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B044 p. 96–97]** aposentadoria da função (não da posição); humanos criados como “criaturas-ferramentas” / “abelhas-operárias”; empreitada que malogrou desde o início.
 - **Quarentena clínica:** “câncer” do corpo (p. 9), “doentes”, “demência” (p. 97) = leitura do autor, **jamais** diagnóstico. Encontro 2010 = biográfica. Política (p. 19, 123, 145) **fora**.
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 4]** Ellam admite, “a muito custo”, que o Ser “poderia ser realmente o tal Javé bíblico”; o pedido passou de ordem a concurso para veicular “suas comunicações”.
+- **[B036 p. 8–11]** 1ª crônica em 1ª pessoa: criou o universo e não sabe poesia; faces sem alma; “advogado de acusação de um julgamento inexistente… fui eu mesmo que o contratei” (Ano: 2012).
+- **[B036 p. 41]** “Não tenho isto!” — remissão a RC-426; sem avatar próprio.
+- **Quarentena clínica** (p. 9: “doente”). Mediunidade / desassossegos = **biográfica**. IEEA (p. 52) **fora**. Sem fusão com B044 / B016 / B041.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -34,6 +34,14 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 
 - **Linhagem dos Escolhidos (P2024-11-30):** "Brama não achava que o melhor sangue humano era aquele de Adão, Sete, Enos, Cainã, Jarede, Enoque, Matusalém, Lamec, Noé, Abraão, Isaque, Jacó? Era. Mas quando Éber..."; "Bharata é um descendente disso aqui"; a disputa das linhagens (hebreus × arianos).
 
+
+## Ampliação — B036 (As Memórias de Javé)
+
+- **[B036 p. 17]** “Da linhagem humana por mim preparada desde os tempos do meu Adão, escolhi Enoch, que zelosamente cumpriu com os desígnios… Enoch foi o meu predileto.” Grafia do livro: **Enoch** (canônico Enoque quando cruzar fichas).
+- **[B036 p. 18]** retomou a linhagem ao escolher Abraão “para com ele firmar um pacto, coisa que sequer havia estabelecido com Enoch”; “Escolhi a ‘genética de Jacó’… para, a partir dele, distribuir a minha versão predileta do DNA humano então disponível”.
+- **[B036 p. 19]** José e Moisés; o “enviado” (Jesus) “jamais assumiu o papel ajustado” — **quarentena teológica**; não ontologizar nações modernas.
+- **[B036 p. 75]** Enoch: “primeiro humano que construiu uma opinião própria a meu respeito, num certo sentido crítico, mas sem me criticar”; viu que Javé “atormentava” os eleitos. RC-270 / RC-423 permanecem **sem ficha**. Sem fusão com B013.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

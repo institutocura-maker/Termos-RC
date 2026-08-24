@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (ingresso B036 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B036 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B036 *As Memórias de Javé* (abertura 2026-08-23)
@@ -10,6 +10,11 @@
 - Extract paginado: ~36.543 palavras; SHA-256 `81183873f995557677ca26f30303b487d0d5363dc041693cb9645ba6d6423b1d`. p. 1 sem texto.
 - 22 termos já citam B036; 12 com ficha. Dossiê sugere ampliar RC-421, RC-422, RC-426, RC-245, RC-424, RC-001. **0 códigos.** RC-071/099/135/270/418/423/425/427–429 sem ficha — não materializar.
 - Quarentenas: clínica (doente / dores — não diagnóstico), biográfica (mediunidade), teológica (Javé em 1ª pessoa), IEEA/Orbum fora. Sem fusão com B034/B048/B015/B016/B041. Livro “não finalizado” → Colecionar Incertezas.
+
+### Devolutiva B036 aplicada (2026-08-23)
+
+- O-1 confirmado (é B036; 111 págs; CIP/ISBN p. 111 = bloco de *Inquisição Trimurtiana* — ignorado; BIBLIO sem ISBN permanece correta); O-2: 7 fichas ampliadas (RC-421, RC-422, RC-426, RC-245, RC-424, RC-001 + opcional **RC-414** Krishna pretenso Keshava); “Não tenho isto!” ancorado na p. 41 (não interpolar em B016); O-3: zero códigos; RC-071/099/135/270/418/423/425/427–429 não materializadas; O-4: CIP alheio, “não se encontra finalizado”, IEEA/Orbum/naves fora; O-5: B034, B048, B015, B016 e B041 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas clínica, biográfica, teológica, ufológica, institucional; O-8: pasta em `livros/CONCLUIDOS/B036_memorias_de_jave/`. Sem apostila.
+- **Colecionar Incertezas (novos):** livro “não se encontra finalizado” (p. 5) — sem volume 2; CIP/ISBN 978-85-62411-35-9 pertence a *Inquisição Trimurtiana*.
 
 ## Fase 2 — B041 *A Rebelião dos Elétrons e o Código de Vida do Criador* (abertura 2026-08-23)
 
