@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-24): décimo-quinto livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048).
+PDF entregue em uploads_recepcao/ pelo curador (push 64ae1ab no branch da sessão).
+Obra já na BIBLIO como B040 (trabalhada; 82 págs, ISBN e nome civil já descritos). Primeiro original arquivado no workspace.
+7 termos já citam B040; 3 com ficha. Núcleo: RC-430 / RC-217.
+Orbum (p. 80–82) fora. Quarentena científica da molécula-mãe / DNA e clínica da “tendência doentia”.
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

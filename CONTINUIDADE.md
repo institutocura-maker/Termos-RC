@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B048 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B040 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B040 *Homo Sapiens: da Guerra ao Esporte* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Homo Sapiens (da Guerra ao Esporte) - Jan Val Ellam.pdf` (601.163 bytes; SHA-256 `45947d6c4b9f04c03108b0b03011821cd6a79ccd1b533f8e1e6348aef363370e`; 82 págs = **B040**). ISBN 978-85-62411-21-2 já na BIBLIO. Assinatura com nome civil (Rogério de Almeida Freitas) já na BIBLIO. Copyright 2014 = 1ª ed. 2014. CDU 500.981. **BIBLIO intocada.**
+- Ciclo em `livros/B040_homo_sapiens_da_guerra_ao_esporte/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~22.619 palavras; SHA-256 `2fe073d42d4b984587f72e16b4c51d188effcbf16cdeec75880550d9bd70fce7`. p. 1 sem texto.
+- 7 termos já citam B040; 3 com ficha. Dossiê sugere ampliar RC-430, RC-217. **0 códigos.** RC-040/099/431/432/244/540 sem ficha — não materializar.
+- Orbum fora. Quarentena científica (molécula-mãe / Sheldrake / IA) e clínica (“tendência doentia” do DNA). Sem fusão com B015/B019/B041/B048.
 
 ## Fase 2 — B048 *Favor Divino* (abertura 2026-08-24)
 

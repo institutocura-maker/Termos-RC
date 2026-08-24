@@ -1,0 +1,22 @@
+{
+  "obra": "B040",
+  "titulo": "Homo Sapiens: da Guerra ao Esporte",
+  "autor_capa": "Rogério de Almeida Freitas",
+  "autor_canonico": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2014",
+  "pdf_creditos": "Conectar Editora / 1ª ed. 2014 / Copyright 2014 / ISBN 978-85-62411-21-2 / CDU 500.981 / org. Krysamon Cavalcante e Gabriela de Paula Pessôa",
+  "divergencia_edicao": "PDF 82 págs, ISBN e nome civil batem com BIBLIO; copyright 2014 = 1ª ed. 2014; CIP sem contagem de páginas impressas; CDU 500.981",
+  "fonte_upload": "uploads_recepcao/Homo Sapiens (da Guerra ao Esporte) - Jan Val Ellam.pdf",
+  "bytes_pdf": 601163,
+  "sha256_pdf": "45947d6c4b9f04c03108b0b03011821cd6a79ccd1b533f8e1e6348aef363370e",
+  "paginas_pdf": 82,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 144240,
+  "sha256_original_txt": "2fe073d42d4b984587f72e16b4c51d188effcbf16cdeec75880550d9bd70fce7",
+  "palavras_approx": 22619,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-24",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada; pasta fora de CONCLUIDOS",
+  "codigos_consumidos": 0
+}

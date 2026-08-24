@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B040_homo_sapiens_da_guerra_ao_esporte/original.txt
+
+SHA-256 2fe073d42d4b984587f72e16b4c51d188effcbf16cdeec75880550d9bd70fce7
+Não duplicar aqui (144 KB). Página 1 = [página sem texto extraível].
+Sem marca d'água de conversor.
