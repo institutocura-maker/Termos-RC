@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B027 — Nos Céus da Grécia
 
-> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24) — AMOSTRA.** 2 fichas ampliadas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos. BIBLIO intocada (`amostra recebida`). Sem apostila. **Pasta permanece em `livros/B027_nos_ceus_da_grecia/`** — não promover a CONCLUIDOS como obra integral. Obra completa continua pendente.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24) — AMOSTRA.** 2 fichas ampliadas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos. BIBLIO intocada (`amostra recebida`). Sem apostila. Pasta em `livros/AMOSTRAS/B027_nos_ceus_da_grecia/` — **não** promover a CONCLUIDOS. Obra completa continua pendente.
 
 ## 1. Identificação
 

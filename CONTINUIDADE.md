@@ -1,7 +1,13 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B020 aplicada — 5 fichas, 0 códigos)  
+**Data de sincronização:** 2026-08-24 (pasta `livros/AMOSTRAS/` — B027 e B035; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Housekeeping — `livros/AMOSTRAS/` (2026-08-24)
+
+- Criada `livros/AMOSTRAS/` (feminino: amostra). B027 e B035 saíram da raiz de `livros/` — **não** foram para CONCLUIDOS.
+- Se a obra completa subir: ciclo novo em `livros/B0NN_slug/`. A pasta da amostra fica como testemunho. BIBLIO permanece `amostra recebida`.
+- 0 códigos. Base intocada.
 
 ## Fase 2 — B020 *O Sorriso de Pandora* (abertura 2026-08-24)
 
@@ -155,19 +161,19 @@
 ## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
 
 - **PDF ingressado** em `uploads_recepcao/Nos Céus da Grécia.pdf` (1.054.688 bytes; SHA-256 `5ffaaac415581b4ba3dcfabc32dab1b1c9600d13912d369ed1d5a32700aa8567`; **14 págs** = amostra B027, **não** a obra completa). Metadado calibre Title = «Nos Céus da Grécia - Sample». Esclarecimento Atlan 24/11/1992. Cap. 3 trunca na p. 14. **BIBLIO intocada** (permanece `amostra recebida`).
-- Ciclo em `livros/B027_nos_ceus_da_grecia/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
+- Ciclo em `livros/AMOSTRAS/B027_nos_ceus_da_grecia/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
 - Extract paginado: ~2.388 palavras; SHA-256 `5686a4f9a9d07163cc478ee874dd80104d9c763399420ffcd3825f7d1431863a`. p. 1 sem texto; p. 5, 8, 11 e 14 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
 - **9 termos já citam B027**; 4 com ficha. Dossiê sugere ampliar só a voz de Ellam no Esclarecimento: RC-003, RC-072. **0 códigos.** RC-405/406/407/059/071 sem ficha — não materializar. RC-404 = lemma na fala de Gabriel/Tiago — não ampliar sem autorização.
 - Caps. 4–13 e IEEA/Orbum/entrevista só no sumário — fora. Quarentena mediúnica (instrumento / Gabriel e Tiago / os três filósofos). Sem fusão com B003/B033/B021. **Não fundir** RC-404 com B009 p. 350 nem com B053.
 
 ### Devolutiva B027 (amostra) aplicada (2026-08-24)
 
-- O-1 confirmado (é B027; PDF = **Sample** de 14 págs; cap. 3 trunca na p. 14; **não** promover a `trabalhada`); O-2: 2 fichas ampliadas (**RC-003**, **RC-072**) só com o Esclarecimento p. 6–7; lemma «reintegração cósmica» não ocorre como locução fechada (bloco honesto: «reintegrada à convivência cósmica»); B027 acrescentado nas fontes de RC-072 (já constava em RC-003); **veto** RC-404 (fala de Gabriel/Tiago), RC-094 e RC-226; O-3: zero códigos; RC-405/406/407/059/071 sem ficha; Gabriel / Tiago / filósofos sem código; O-4: caps. 4–13 + entrevista ignorados; sinopse = paratexto; `[TEXTO INCOMPLETO]` e «inciarmos» sem interpolação; IEEA/Orbum fora; O-5: B003, B033 e B021 intactas; RC-404 **não** fundida com B009 p. 350 nem com B053; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena mediúnica crítica (canal / aviso / diálogo) + teológica, político-geopolítica, ufológica, biográfica, institucional; O-8: `_ampliacoes_B027.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila.
+- O-1 confirmado (é B027; PDF = **Sample** de 14 págs; cap. 3 trunca na p. 14; **não** promover a `trabalhada`); O-2: 2 fichas ampliadas (**RC-003**, **RC-072**) só com o Esclarecimento p. 6–7; lemma «reintegração cósmica» não ocorre como locução fechada (bloco honesto: «reintegrada à convivência cósmica»); B027 acrescentado nas fontes de RC-072 (já constava em RC-003); **veto** RC-404 (fala de Gabriel/Tiago), RC-094 e RC-226; O-3: zero códigos; RC-405/406/407/059/071 sem ficha; Gabriel / Tiago / filósofos sem código; O-4: caps. 4–13 + entrevista ignorados; sinopse = paratexto; `[TEXTO INCOMPLETO]` e «inciarmos» sem interpolação; IEEA/Orbum fora; O-5: B003, B033 e B021 intactas; RC-404 **não** fundida com B009 p. 350 nem com B053; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena mediúnica crítica (canal / aviso / diálogo) + teológica, político-geopolítica, ufológica, biográfica, institucional; O-8: `_ampliacoes_B027.txt` aplicado; pasta em `livros/AMOSTRAS/B027_nos_ceus_da_grecia/` (2026-08-24). Sem apostila.
 
 ## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
 
 - **PDF ingressado** em `uploads_recepcao/O Big Data do Criador.pdf` (1.311.232 bytes; SHA-256 `be79be05ebc34736f16156318066eb144ef9c73acd9903a0966d546162172d92`; **18 págs** = amostra B035, **não** a obra completa). Metadado calibre Title = «O Big Data do Criador - Sample». Intro Atlan 12/03/2016. Cap. 2 trunca na p. 18. **BIBLIO intocada** (permanece `amostra recebida`).
-- Ciclo em `livros/B035_o_big_data_do_criador/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
+- Ciclo em `livros/AMOSTRAS/B035_o_big_data_do_criador/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
 - Extract paginado: ~4.674 palavras; SHA-256 `3d6ea70db88182442bb023151e1d9214822047ef5edceb241bcba12caa0fd83a`. p. 1 sem texto; p. 6 e p. 12 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
 - **20 termos já citam B035**; 11 com ficha. Dossiê sugere ampliar RC-194, RC-195, RC-164, RC-041. **0 códigos.** RC-196/197/198/199/201/202/203/019 sem ficha — não materializar. RC-200 não ampliar (cap. 8 só no sumário).
 - Caps. 3–12 e IEEA/Orbum só no sumário — fora. Quarentena clínica («cientista enlouquecido» / «doença do criador» / cap. 12 «Diagnóstico»). Sem fusão com B001/B044/B041/B048.

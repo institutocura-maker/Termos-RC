@@ -7,9 +7,12 @@ Pasta-irmã de `apostilas/`. Aqui entram as **obras primárias de Jan Val Ellam*
 | Pasta | Papel |
 |---|---|
 | `livros/B0NN_slug/` | ciclo em andamento (PDF + extract + ficha + analise/) |
-| `livros/CONCLUIDOS/` | só depois da Devolutiva **e** da apostila/tratado do livro |
+| `livros/AMOSTRAS/` | Sample com Devolutiva da amostra — **não** é obra fechada |
+| `livros/CONCLUIDOS/` | só depois da Devolutiva da **obra integral** |
 
-O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termos/`, `pedagogico/`. `CONCLUIDOS` fica no masculino (livro).
+O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termos/`, `pedagogico/`. `CONCLUIDOS` fica no masculino (livro). `AMOSTRAS` fica no feminino (amostra).
+
+Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **Não** promover a pasta de `AMOSTRAS/` para `CONCLUIDOS/`.
 
 ## O que nunca vai para cá
 
@@ -22,9 +25,11 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 *(nenhum ciclo integral em andamento.)*
 
-`livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
+## Amostras
 
-`livros/B035_o_big_data_do_criador/` — Devolutiva da **amostra** aplicada (2026-08-24); 7 fichas (RC-194, RC-195, RC-164, RC-041, RC-001, RC-049, RC-167); 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
+`AMOSTRAS/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). Obra completa pendente. Sem apostila.
+
+`AMOSTRAS/B035_o_big_data_do_criador/` — Devolutiva da **amostra** aplicada (2026-08-24); 7 fichas (RC-194, RC-195, RC-164, RC-041, RC-001, RC-049, RC-167); 0 códigos; BIBLIO intocada (`amostra recebida`). Obra completa pendente. Sem apostila.
 
 ## Piloto
 
@@ -85,3 +90,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B026_carma_e_compromisso` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 206 + fecho p. 427–428; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. Editores p. 204–205 = não âncora. Trilogia Queda e Ascensão encerrada. Sem apostila.
 
 `CONCLUIDOS/B015_o_guardiao_do_eden` — Devolutiva aplicada (2026-08-24); 2 fichas (RC-041, RC-024) só NAT; B015 nas fontes de RC-024; 0 códigos; BIBLIO intocada. Zont En Drel isolado. Prefácio = remissão a B017. Sem apostila.
+
+`CONCLUIDOS/B020_o_sorriso_de_pandora` — Devolutiva aplicada (2026-08-24); 5 fichas (RC-086, RC-041, RC-001, RC-072, RC-104) só Introdução + Posfácio (fala de Ellam); B020 nas fontes de RC-104; 0 códigos; BIBLIO intocada. Caps. 1–14 = Pandora isolada. Sem NAT. Sem apostila.
