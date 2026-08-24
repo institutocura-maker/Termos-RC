@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 17222 | 172 | 20694d0f6c492af7a818a573e6cbd3a64fbaceb009166147e975e2c343752ee5
+# termos/RC-001-jave.md | 17935 | 180 | a82efcf605df112cf5544b78488e2584383c052f59dcefe4ffef002d7a97787b
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 6496 | 73 | 53e38ef0e986e31b3d6893c81599d54594338ad264212cc6dc922782b5169725
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -18,7 +18,7 @@
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 3209 | 51 | 12ef03e1a4520f01739359c200fadecdbbfae1e38c8cedc8d00e96a28b1e3d33
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 3838 | 58 | c4b372355f127c9d214a1700b7d1566586803f8135cf259df4551e22dee2b1bb
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 2711 | 50 | ad48b9b1a0d702b6e89ca8d5a8aa21af73a7127deca4c8b6d3e0647707e4356e
 # termos/RC-049-demos.md | 3291 | 52 | 4d4ec7f96245c3d87da4b47ce2c4d4ec791615bf58d3b231cce8067b265ca228
@@ -69,7 +69,7 @@
 # termos/RC-204-realidade-maior-paraiso-original.md | 2476 | 52 | 18679bb0b1b13350d1b68c7581de2b1704df232a07c715cc9f847b634ea68e1c
 # termos/RC-207-arquiteto-universal.md | 2746 | 43 | f55b2ac33ed0c08b86f8b9da18f709f81115e99d00dc94a85969d3296977aa65
 # termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 2839 | 48 | af7c9f6e13f35282dbdd095a31bdebba127efc54d1158c369f69da644191526d
-# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 5799 | 79 | 2978b376cb91dea75e633a57dd4929b87486b9c5fc3732ac1b571a7c947f810f
+# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 6464 | 86 | 6aafb58274aef3ae54a5fc1ddc474830b1b1835c72bb4deadeeadc41954e48c0
 # termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 2564 | 42 | b4bbc254e8110cee006f63c9cca0d010253e26c7851a75e6c48fd0d93370846b
 # termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
 # termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
@@ -120,7 +120,7 @@
 # termos/RC-325-genetica-totalitaria.md | 2924 | 45 | 57483b284da859d85cb0dba742337b9d15ff564bc3e57bf4b5c9eb030714f4e4
 # termos/RC-328-imperativo-categorico-da-moral.md | 3156 | 49 | 0880fc79a4677881ed548a9ae1cf4ec540efba40644c220527f5f24df337da14
 # termos/RC-329-kumari-kandan-tradicao.md | 2173 | 44 | 5cb5c4e48c796a88b524f5e3bd2768b1be357deeba45b856d7a13263c48d5e9e
-# termos/RC-332-favor-divino-conceito-invertido.md | 4551 | 61 | 4018a216da714f4ca1bcb6f27f62636fea89946dcf72e087e862db5e827e1c9d
+# termos/RC-332-favor-divino-conceito-invertido.md | 4984 | 67 | 3bd45640357c380c472952ba7b1b9662502220d69daa804541861f6dc43c2696
 # termos/RC-333-democracia-do-amor-da-deidade.md | 2709 | 42 | 49507db0cdca5919a5bc75883262280c2ab521833d468b078a16afcf17e0702c
 # termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 2597 | 42 | 243105e2cfb9a2258bc4c84b7b2bfef4824b738e9e65172a4c29fd75621c83db
 # termos/RC-335-lavagem-cerebral-condicionamento.md | 3158 | 47 | 90cf84505d0141f1b147a8a5a962477f14576aa1f999e69d36d762c4ecf1ad11
@@ -136,7 +136,7 @@
 # termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md | 3606 | 50 | 0dc626d91293985a7825ebadcacc504354557ee1071c9ae5130c762bcf9532b8
 # termos/RC-378-a-rebeliao-dos-eletrons.md | 6745 | 68 | c466d494f264c3a4d2788024640559cf5f85b584a220cf7df1c6a1643439d974
 # termos/RC-379-danca-dos-eletrons.md | 3367 | 48 | 5959e7400d0130f644a8a5e1fc44b3d72da94e6bf04533f4c2333bc2132bd5a4
-# termos/RC-382-a-vida-do-cfd-de-jave-no-ser-humano.md | 3512 | 47 | b3525be5613d2f4d60f37331d08b4870a725d849553347ba490ac95fe6c30ac1
+# termos/RC-382-a-vida-do-cfd-de-jave-no-ser-humano.md | 3985 | 53 | 5181e031d4c318fe634121ecc108dc2c4c9bd7eead66906ded117806c411b6f3
 # termos/RC-388-grupo-atlan.md | 2960 | 42 | 69330675f12ff36f6d6ff63020fda10cb92cb74e26ffc81e23dc351afaa3937f
 # termos/RC-395-ragnarok-em-marte.md | 4868 | 75 | 7175b2a24399e3aedd506995b2f24ab9e6ba0eed34ecca3bbe72425e0d816566
 # termos/RC-400-foz-coa-foxp2-simbolos.md | 2374 | 48 | 9dd4af194f857bef8138ce99a4d55b1707b99c32801caa956ed5d0f85a66303c
@@ -146,8 +146,8 @@
 # termos/RC-411-genero-adhy-147-seres-5-especies.md | 5100 | 68 | cd74b619d75777a4d733f031f17b52365243c9a568ba595570447db00e3d6044
 # termos/RC-414-krishna-avatar-de-vishnu-shiva.md | 11749 | 122 | 4e22a1da5201956843e42b9b7edfb9f222a308b53f4126dd6d7f98839646e2ee
 # termos/RC-415-colapso-da-matriz-quantica-3-niveis.md | 3754 | 67 | 015801d6d384ed20b81fa318c24b0c5ce08a16cb34c257d02ff208503e73d409
-# termos/RC-416-cartas-a-jave-obra-e-dialogo.md | 2949 | 42 | a5df4e040f9a5905050e1daa4e144405c3c8b9563fd4365e14be82c3259ef8c2
-# termos/RC-417-resposta-de-jave-em-1a-pessoa.md | 2531 | 41 | d61f0906ced8a720474b965d693522eb1c09f90d10717d8c1c11e66db7993f50
+# termos/RC-416-cartas-a-jave-obra-e-dialogo.md | 3816 | 50 | cd0cfd77cde9ac53b6791933e0246ea41d56becc8c2addd600da60e8e9274300
+# termos/RC-417-resposta-de-jave-em-1a-pessoa.md | 3567 | 49 | bb756f9efdbf7d573c342dffe8a9f94898a69bc0fcd89229182bd521111e97e2
 # termos/RC-421-as-memorias-de-jave-cronicas.md | 3651 | 50 | d02e30aa6dd81698d28fde399d07e548a74c4c5798cb105438901eb9a8926198
 # termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 3480 | 48 | a4a029b0d590459964bd4ca69a97954f71f2083f93091bb4145024fefabc4496
 # termos/RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md | 5614 | 77 | b11ed24b47ee04f28519417d95357d93a8af9c48b2093d638debbd99e8fc29b0
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1504682 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1509498 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -525,6 +525,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B036 p. 8–11]** 1ª crônica em 1ª pessoa: criou o universo e não sabe poesia; faces sem alma; “advogado de acusação de um julgamento inexistente… fui eu mesmo que o contratei” (Ano: 2012).
 - **[B036 p. 41]** “Não tenho isto!” — remissão a RC-426; sem avatar próprio.
 - **Quarentena clínica** (p. 9: “doente”). Mediunidade / desassossegos = **biográfica**. IEEA (p. 52) **fora**. Sem fusão com B044 / B016 / B041.
+
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 45]** “sou eu que vivo em vocês!”; nada na Criação “que não seja parte do meu ‘eu’”.
+- **[B034 p. 54]** confirma, na própria voz, o “terminal nervoso” dito pela missivista: cada criatura é terminal do “eu incomensurável”. RC-418 permanece **sem ficha**.
+- **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos”; “Humanizo-me, porém, a cada momento”; não pode mais comandar razão filosófica, senso crítico, tolerância e capacidade de amar — “Terei o alimento que me derem”. Sem fusão com B036 / B044.
+- Cartas de Mônica (p. 7–44) = **voz da missivista, isolada**; não entram na ontologia deste nó.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1368,6 +1376,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B041 p. 40]** “O Deus Amantíssimo nunca criaria algo tão absurdo e medonho”; o risco é confundir o Pai-Mãe com “um Criador bem-intencionado e genial — Prajapati, que se reconstituiu como Javé (ou Brahma) ao ‘cair’ na própria Obra”. “Deus é alguém totalmente *top*, o que não é o caso de Javé.”
 - **[B041 p. 40]** Prajapati foi “sugado” pela própria Criação — “não há separação entre Divindades Criadoras e as Criações delas”. Em nenhum outro universo o Criador foi sugado pela Obra.
 - **[B041 p. 156–157]** para Javé, a rebelião dos elétrons = “rendição psíquica” e “oportunidade de salvação do que resta da sua consciência”. A Trimurti e a egrégora-corpo “se desfizeram”; nova egrégora, Javé “feito um bebê”, “mais consciente”. RC-385 permanece **sem ficha**. Sem fusão com B001 / B024 / B048.
+
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 45]** “Não há nada na minha criação que não seja parte do meu ‘eu’, da minha ‘edificação’.”
+- **[B034 p. 60]** “De fato, não sou humano e jamais o fui. Um dia virei a sê-lo” no sentido de absorver a natureza de cada espécie; “Vishnu e Shiva… já se humanizaram, eu não! Eles nasceram na Terra… eu não nasço… sou todos vocês.” Sem materializar RC-135.
+- **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos os que existem enquanto minhas criaturas. Não temos como nos apartar uns dos outros.” Sem fusão com B041 / B036.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -4795,6 +4810,13 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B052 p. 233]** "carregamos no DNA do nosso genoma toda essa carga de forças 'atavicamente adormecidas'"; o processo se dá "via a 'ponte quântica' do jogo que decorre da formatação do DNA individualizado".
 - **Quarentena científica:** molécula-mãe 3,8 bi; 3,1 bi de unicelulares; explosão cambriana ~543 mi; "interconectividade não localizada" — leitura de Ellam, não parecer científico. RC-540 (molécula-mãe) **não** materializada.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 54]** voz de Javé (não da missivista): “O meu DNA cuja forma–código vive em cada célula do corpo de vocês é a ponte que me une a todas as criaturas erigidas a partir de mim mesmo.”
+- **[B034 p. 55]** o DNA é “ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou”; dele envia comandos e recebe “eflúvios” de pensamentos e emoções. **Quarentena científica** (canal / vibrações eletroquímicas = leitura, não fato validado).
+- A menção ao “terminal nervoso” + DNA na Carta 1 (p. 8) é da missivista — **não** ontologizada. Sem fusão com B002 / B033.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7486,6 +7508,12 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **[B041 p. 70]** o Favor Divino é “a chave de toda questão”: os espíritos são agentes da Deidade na ajuda às Divindades problemáticas, enquanto cada ser “emancipa o seu psiquismo”.
 - **[B041 p. 40]** “Favor Divino II” / “Você e o Favor Divino” (curso IEEA) → **Colecionar Incertezas**; **não cadastrar**. IEEA **fora**.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 46]** Javé agradece à missivista a “oportunidade que me foi negada por tantos” — só recebia “homenagens em salmos, orações, pedidos”.
+- **[B034 p. 66]** já não comanda o amar dos humanos: “Terei o alimento que me derem”; “tempo haverá que não mais será o sabor da prece e da veneração o paladar que terei que sorver”. Sem fusão com B048 / B041.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8273,6 +8301,12 @@ O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os human
 - **[B041 p. 70]** cap. 10: “A vida do CFD de Javé vive em cada um de nós, enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida”. “A vida nos vive”; *maya* cega com a ilusão. “Esse é o mistério por trás do ‘favor divino’ do qual os nossos espíritos são os agentes da Deidade, na sua ajuda às Divindades problemáticas. Eis a chave de toda questão!”
 - **[B041 p. 70–71]** o autor “briga” filosoficamente com Brahma, Vishnu e Shiva: “eles ‘faliram’ e transferiram para nós uma responsabilidade que não é nossa”. Criaturas-ferramentas + livre-arbítrio para que espíritos “simples e ignorantes” se tornem “esclarecidas e potencialmente amorosas”. RC-040 / RC-153 permanecem **sem ficha**. Sem fusão com B048.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 45]** “sou eu que vivo em vocês!” — a vida do código do Criador no humano, na voz do próprio Javé.
+- **[B034 p. 55]** “naquilo que é ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou — o meu DNA. Dele me sirvo para enviar os meus comandos… enquanto recebo os eflúvios… principalmente das suas emoções.” Sem fusão com B041. RC-040 / RC-153 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8929,6 +8963,14 @@ A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1
 - **Grafia preferida:** Cartas a Javé
 - **Variações:** as cartas ao Criador; o diálogo com Javé; cartas e respostas
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 5]** sinopse: “estratégia em curso” para o livro nascer; só depois das cartas o destinatário — Senhor Javé — resolveu respondê-las, “precisando, para tanto, de um intermediário”. “Livro único, singular… revelador em seus propósitos.”
+- **[B034 p. 4]** sumário: **15** cartas + Resposta em 2 partes + 2 posfácios. BIBLIO diz 16 cartas → **`[REVISAR]`** de contagem. BIBLIO intocada.
+- **[B034 p. 6]** prefácio de Mônica: escreveu enquanto lia B002 e B033 — **voz da missivista, isolada**; **não fundir** com B002 / B033.
+- **[B034 p. 67–68]** posfácios: Mônica descreve um Javé “autêntico” (não o do AT nem o de Jesus) — **não ontologizar**. Ellam reluta em intermediar; “não confio nele” — **quarentena biográfica**. IEEA / Orbum / entrevista **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8972,6 +9014,14 @@ A Resposta de Javé é a **única fala extensa do Criador em 1ª pessoa** no cor
 ## Etimologia / Grafias
 - **Grafia preferida:** Resposta de Javé
 - **Variações:** a resposta do Criador; Resposta de Javé - Parte 1 e Parte 2; "sou eu que vivo em vocês" (frase-chave)
+
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 45]** Parte 1, voz atribuída a Javé: “Trate-me como quiser, isso lhe permito.” “Não estava nos meus desígnios, nessa altura, comunicar-me… por meio de respostas às suas cartas.” “Acostumem-se e compreendam: sou eu que vivo em vocês!” RC-419 permanece **sem ficha**.
+- **[B034 p. 45–46]** as espécies são “minhas, pois fazem parte de mim”; deixou seguir livre curso e “tenho me arrependido amargamente”; “não posso destruir aos que amo”. Agradece à missivista; o intermediário “discorda” do que escreve.
+- **[B034 p. 58]** Parte 2: a lógica humana “emprestada” à Trimurti permitiu a primeira “conversa” entre as três personalidades “desde o momento em que de mim foi emanada a criação”. Sem fusão com B036.
+- **[B034 p. 66]** fecho: “Há uma cálice a ser bebido e dele beberei, e não o afastarei de mim. Mas estaremos juntos e seremos um só até o final dos tempos.” Assina **JAVÉ**. **Quarentena teológica.**
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

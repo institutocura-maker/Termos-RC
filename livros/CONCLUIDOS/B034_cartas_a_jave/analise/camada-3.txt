@@ -1,6 +1,6 @@
 O corpus integral desta obra é o extract paginado:
 
-  livros/B034_cartas_a_jave/original.txt
+  livros/CONCLUIDOS/B034_cartas_a_jave/original.txt
 
 SHA-256 7582f0a766ce6bb1dea8b9e0df9f44342ad25b7dae72f68d5d1519286c83c9ae
 Não duplicar aqui (160 KB). Páginas 1 e 72 = [página sem texto extraível].

@@ -33,6 +33,13 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B052 p. 233]** "carregamos no DNA do nosso genoma toda essa carga de forças 'atavicamente adormecidas'"; o processo se dá "via a 'ponte quântica' do jogo que decorre da formatação do DNA individualizado".
 - **Quarentena científica:** molécula-mãe 3,8 bi; 3,1 bi de unicelulares; explosão cambriana ~543 mi; "interconectividade não localizada" — leitura de Ellam, não parecer científico. RC-540 (molécula-mãe) **não** materializada.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 54]** voz de Javé (não da missivista): “O meu DNA cuja forma–código vive em cada célula do corpo de vocês é a ponte que me une a todas as criaturas erigidas a partir de mim mesmo.”
+- **[B034 p. 55]** o DNA é “ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou”; dele envia comandos e recebe “eflúvios” de pensamentos e emoções. **Quarentena científica** (canal / vibrações eletroquímicas = leitura, não fato validado).
+- A menção ao “terminal nervoso” + DNA na Carta 1 (p. 8) é da missivista — **não** ontologizada. Sem fusão com B002 / B033.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

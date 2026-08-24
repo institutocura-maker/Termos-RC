@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B034 — Cartas a Javé
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Pasta fora de `CONCLUIDOS/`.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 7 fichas ampliadas (RC-416, RC-417, RC-001, RC-217, RC-041, RC-332, RC-382); 0 códigos. Cartas de Mônica isoladas. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

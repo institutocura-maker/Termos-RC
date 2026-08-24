@@ -42,4 +42,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B036_memorias_de_jave` — Devolutiva aplicada (2026-08-23); 7 fichas (RC-421, RC-422, RC-426, RC-245, RC-424, RC-001, RC-414); 0 códigos; BIBLIO intocada. CIP p. 111 = bloco de outra obra. Sem apostila.
 
-`B034_cartas_a_jave` — ciclo em andamento (ingresso 2026-08-24); dossiê enxuto aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada.
+`CONCLUIDOS/B034_cartas_a_jave` — Devolutiva aplicada (2026-08-24); 7 fichas (RC-416, RC-417, RC-001, RC-217, RC-041, RC-332, RC-382); cartas de Mônica isoladas; 0 códigos; BIBLIO intocada. Sem apostila.

@@ -24,6 +24,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B041 p. 40]** Prajapati foi “sugado” pela própria Criação — “não há separação entre Divindades Criadoras e as Criações delas”. Em nenhum outro universo o Criador foi sugado pela Obra.
 - **[B041 p. 156–157]** para Javé, a rebelião dos elétrons = “rendição psíquica” e “oportunidade de salvação do que resta da sua consciência”. A Trimurti e a egrégora-corpo “se desfizeram”; nova egrégora, Javé “feito um bebê”, “mais consciente”. RC-385 permanece **sem ficha**. Sem fusão com B001 / B024 / B048.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 45]** “Não há nada na minha criação que não seja parte do meu ‘eu’, da minha ‘edificação’.”
+- **[B034 p. 60]** “De fato, não sou humano e jamais o fui. Um dia virei a sê-lo” no sentido de absorver a natureza de cada espécie; “Vishnu e Shiva… já se humanizaram, eu não! Eles nasceram na Terra… eu não nasço… sou todos vocês.” Sem materializar RC-135.
+- **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos os que existem enquanto minhas criaturas. Não temos como nos apartar uns dos outros.” Sem fusão com B041 / B036.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

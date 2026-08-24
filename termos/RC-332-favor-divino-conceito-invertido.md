@@ -30,6 +30,12 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **[B041 p. 70]** o Favor Divino é “a chave de toda questão”: os espíritos são agentes da Deidade na ajuda às Divindades problemáticas, enquanto cada ser “emancipa o seu psiquismo”.
 - **[B041 p. 40]** “Favor Divino II” / “Você e o Favor Divino” (curso IEEA) → **Colecionar Incertezas**; **não cadastrar**. IEEA **fora**.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 46]** Javé agradece à missivista a “oportunidade que me foi negada por tantos” — só recebia “homenagens em salmos, orações, pedidos”.
+- **[B034 p. 66]** já não comanda o amar dos humanos: “Terei o alimento que me derem”; “tempo haverá que não mais será o sabor da prece e da veneração o paladar que terei que sorver”. Sem fusão com B048 / B041.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -85,6 +85,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B036 p. 41]** “Não tenho isto!” — remissão a RC-426; sem avatar próprio.
 - **Quarentena clínica** (p. 9: “doente”). Mediunidade / desassossegos = **biográfica**. IEEA (p. 52) **fora**. Sem fusão com B044 / B016 / B041.
 
+
+## Ampliação — B034 (Cartas a Javé)
+
+- **[B034 p. 45]** “sou eu que vivo em vocês!”; nada na Criação “que não seja parte do meu ‘eu’”.
+- **[B034 p. 54]** confirma, na própria voz, o “terminal nervoso” dito pela missivista: cada criatura é terminal do “eu incomensurável”. RC-418 permanece **sem ficha**.
+- **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos”; “Humanizo-me, porém, a cada momento”; não pode mais comandar razão filosófica, senso crítico, tolerância e capacidade de amar — “Terei o alimento que me derem”. Sem fusão com B036 / B044.
+- Cartas de Mônica (p. 7–44) = **voz da missivista, isolada**; não entram na ontologia deste nó.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

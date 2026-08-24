@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B034 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B034 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B034 *Cartas a Javé* (abertura 2026-08-24)
@@ -10,6 +10,10 @@
 - Extract paginado: ~25.767 palavras; SHA-256 `7582f0a766ce6bb1dea8b9e0df9f44342ad25b7dae72f68d5d1519286c83c9ae`. p. 1 e p. 72 sem texto.
 - 13 termos já citam B034; 8 com ficha. Dossiê sugere ampliar RC-416, RC-417, RC-001, RC-217. **0 códigos.** RC-071/099/418/419/420 sem ficha — não materializar.
 - Cartas de Mônica isoladas (não ontologia). Quarentenas: clínica, biográfica, teológica, política (entrevista), IEEA/Orbum fora. Sem fusão com B036/B002/B033/B048.
+
+### Devolutiva B034 aplicada (2026-08-24)
+
+- O-1 confirmado (é B034; CIP 110×94, copyright 2019×2014, sumário 15×BIBLIO 16 = `[REVISAR]`; BIBLIO intocada); O-2: 7 fichas ampliadas (RC-416, RC-417, RC-001, RC-217 + opcional RC-041, RC-332, RC-382); cartas de Mônica isoladas — só a fala de Javé alimenta a malha; O-3: zero códigos; RC-418/419/420 não materializadas; O-4: IEEA/Orbum/entrevista fora; nacionalismo (p. 76) banido; O-5: B036, B002, B033 e B048 intactas; **O-6: BIBLIO intocada**; O-7: quarentenas clínica (“cura” / “neurótico” / “delirando” = leitura, jamais diagnóstico), biográfica, teológica, científica, político-geopolítica; O-8: pasta em `livros/CONCLUIDOS/B034_cartas_a_jave/`. Sem apostila.
 
 ## Fase 2 — B036 *As Memórias de Javé* (abertura 2026-08-23)
 
