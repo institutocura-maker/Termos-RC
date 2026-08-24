@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B039 — Terra Atlantis III: A Era Sapiens
 
-> **ESTADO OPERACIONAL: INGRESSO ABERTO — AGUARDA DEVOLUTIVA O-1..O-8.** 0 códigos. BIBLIO intocada. Sem apostila. Pasta **fora** de `CONCLUIDOS/`. Sem fusão com B017 / B018 / B038.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 8 fichas ampliadas (RC-078, RC-009, RC-072, RC-041 + opcionais RC-074, RC-104, RC-241, RC-001) só Esclarecimentos 2018 + NAT permitidas + Comentário 3; B039 nas fontes de RC-041, RC-104, RC-241 e RC-001; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Sem fusão. Sem a palavra «Hitler» nas fichas.
 
 ## 1. Identificação
 

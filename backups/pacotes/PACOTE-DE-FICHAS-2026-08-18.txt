@@ -8,17 +8,17 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 24471 | 236 | 33a7c1c35250571c9c990b45eebda6ddbe6f4ef3584000bdc831718a16f26236
+# termos/RC-001-jave.md | 25229 | 244 | 6a089a753380cfe80ec4539b4d03150860c2ab84cb760a3c7aa6d5254199def0
 # termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
 # termos/RC-003-reintegracao-cosmica.md | 10099 | 107 | cbdc522d633d41a3adc6b7510266adf61b61e890d31710f4336415187135e8c7
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 6247 | 93 | 075010250faf15344ad22fa553cbea13a465b33ef7b054ed20cbc58c854c0f8f
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
-# termos/RC-009-sophia-cristo-cosmico.md | 26317 | 227 | 6bff9e47947fde395b5f7f7630605f1af855eee214eeb29fe9353d4efba46445
+# termos/RC-009-sophia-cristo-cosmico.md | 27333 | 235 | 8388c761a400d7cee1b6c404d00c31e2c2746d463c32bd2a1746ea3c4ddfe188
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 6836 | 90 | 33ba6aebd8d8e062aef25167f3889b77f7e45c7a79cfb841cbcb6d79bb30c11b
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 8399 | 100 | 4df89fd3556a2cc76822cbb1c94684b16abad180c5dddc8cc37ae5fffcd14521
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 9339 | 108 | 1f1eb9f3610e3ed4fc65c974270613631f2d27ab9aae6c0d788c538cc5b27943
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
@@ -28,9 +28,9 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4673 | 64 | 0212e7f3013684c5e41cb597fec8a0cefaaf855df9d1c4451c2f27199e7cac65
-# termos/RC-072-jesus.md | 19882 | 186 | 84bd6f9df94e848bfa5e3f4d2564dd70abc3d0510fec03f838bed3c3cd7ac47d
-# termos/RC-074-len-mion-sata.md | 2582 | 51 | a4e39bae95e155f62f2ca001aab4e9899d076d7021c29e23f03260c3de8f6ae5
-# termos/RC-078-lucifer-yel-luzbel.md | 5063 | 67 | d16da6231577cec072f214717c0798df75b8cf7091125ccccacbbb82552c204b
+# termos/RC-072-jesus.md | 20729 | 193 | 993d5b78b752434db0c1d4bc16e93d33575130bbbc451e5c44e9af834c06772f
+# termos/RC-074-len-mion-sata.md | 3183 | 58 | 7b49a61bda4aaf425ee0948d618d64b78fb1132cabf2f6012c58cfa02e5e8977
+# termos/RC-078-lucifer-yel-luzbel.md | 5662 | 73 | ad5401d8adc0719b99013fe2390231a48eb309dee4d9263889152d8c51206e6b
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
 # termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 10351 | 105 | d275e135defc6a27a5c86c618b44566726c64565c842c9beaadfeb3e5f293f9d
 # termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
@@ -39,7 +39,7 @@
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
 # termos/RC-102-shiva-savna.md | 5733 | 70 | 2e26fa85514a80a4afafb6ca825df3598befed04abfe1c09a37470205c7d874c
-# termos/RC-104-trimurti.md | 15194 | 154 | bacae622980e3eda93e0865a3ec13699be2af2d5b6c5403dcc2619f1369210b0
+# termos/RC-104-trimurti.md | 15755 | 160 | 7285b706ae1f268bc1c2a5ab247b182f4b850511644508c21a1b8827990a7def
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -76,7 +76,7 @@
 # termos/RC-231-razao-filosofica-dos-terraqueos.md | 4480 | 63 | 4f14c1b9876579c5db7d0bb40838e0005a78418125926f051a0f3be95385ac83
 # termos/RC-232-ostronomos.md | 3034 | 45 | dc2ca318f4716600e2866e196074bad63cc4aa22bb5a71b35e0632df0ca2f193
 # termos/RC-236-o-calvario-de-um-inocente.md | 3438 | 52 | 86b427755b60ccd2be627011e7ee75353a8b9b52f0209229b2bb464e23b5a5a2
-# termos/RC-241-seres-dos-portais.md | 4375 | 60 | bda9a8ab32ac1700465e41abe42d99b5be82e6625b8cba2d8afa7729db117faf
+# termos/RC-241-seres-dos-portais.md | 4826 | 65 | 504478725f513f89a0a08c6b91eb1566754442079052daaf6be9cce6b607f277
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 4018 | 53 | 4b64bfa51772d99be0e80d387bdd3f0ef12ea17480c5d083729c19e501ec345a
 # termos/RC-243-genetica-da-confianca.md | 3341 | 48 | 4e2408991f867b399b591885c624efb8063c3e5e02c8958928e14bf8c648154a
 # termos/RC-245-a-humanizacao-do-criador.md | 4748 | 64 | 4b63859184d18d5d55201cf5b6155edb8f27f1ca8e70773b2298c660de3a7b3c
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1581671 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1587444 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -589,6 +589,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B033 p. 10]** remissão a B001 e B002 — **não fundir**. «Câncer» de Javé e da assessoria / molécula-mãe «cancerígena» = **clínica — fora**. Crick = **externa**.
 - **[B033 p. 81]** divisão da gestão com Jesus; «estado de saúde pessoal» = **clínica — fora**.
 - **[B033 p. 201–202]** Posfácio: os «dramas» cósmico, espiritual e terreno «se transformaram em um complexo painel»; o escrevente não se desincumbiu a contento. Sem fusão com B001 / B002. Fonte **B033** já constava na tabela-mestra.
+
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 7]** Esclarecimentos: descobertas «sobre Javé e em torno do mesmo, entre os anos 2007 e 2018» (Atlan, 29/08/2018).
+- **[B039 p. 32]** NAT: o «Senhor de Noé» apresentou-se como «Javé» à linhagem de Sem / Moisés e como «Brahma» aos arianos de Gomer. Remissão a B052 — **não fundir**.
+- **[B039 p. 113]** NAT: disputa Jesus × Javé; o Criador enviara um Messias «pela força»; Jesus recusou. **Quarentena teológica.**
+- **[B039 p. 156]** Comentário 3: «egos doentios» de Javé = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1238,6 +1246,14 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B018 p. 77]** NAT: Ellam faz «as mais profundas reservas» em concordar com o «discernimento de Sophia e das famílias Aya e Aye»; considera esses seres «frios, insensíveis» perante a ética humana. **Quarentena mediúnica** (Val Eno veicula; Ellam reserva).
 - **[B018 p. 132]** Cronologia: Sophia = «avatar» de Vishnu «à moda biodemo»; assume o comando após a «derrocada» do Criador; residência oficial em Capela — **ufológica**. Caps. 1–11 **isolados**. Sem fusão com B017 / B014. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 6]** Esclarecimentos: «incontáveis problemas que envolveram e envolvem o ser cósmico Sophia».
+- **[B039 p. 50]** NAT: na época do relato, Sophia «não havia produzido ainda o seu avatar humano Jesus»; ao ressuscitar, Jesus devolveu ao «feitor» a herança — a forma cósmica — e isso «elevou a situação de Sophia a um padrão vibratório muito superior».
+- **[B039 p. 113]** NAT: a continuidade da «tese de Jesus» «será realizada por Sophia (que cedeu o seu DNA pessoal para ser inseminado em Maria)», cujo corpo «foi engendrado para viver até o final do universo».
+- **[B039 p. 156]** Comentário 3 (fala de Ellam): Sophia é a «contraparte cósmica» de Jesus; «posicionar-se» ≠ agir; «triste, pobre e podre é esse poder» de que está investido. Fala de Val Eno no mesmo comentário = **isolada**. Caps. 1–12 **isolados**. Sem fusão com B017 / B018 / B014. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1575,6 +1591,14 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 
 - **[B018 p. 68]** NAT: a face referida por Val Eno era a de um «Criador falido» — **quarentena clínica** (leitura, jamais diagnóstico); o «fator Javé» só se tornou consciente para os biodemos de Alt'Lam Gron e Shamb-Aha entre 2006 e 2017.
 - **[B018 p. 131–132]** Cronologia (Ellam): Javé/Brahma, «Ser Trimurtiano»; Criação «equivocada»; «tombou doente» / «código de vida doentio» = **clínica — fora**. Diferenças × cronologia de B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Fonte **B018** acrescentada na tabela-mestra.
+
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 7]** Esclarecimentos: Ellam e Val Eno «fomos descobrindo sobre Javé e em torno do mesmo, entre os anos 2007 e 2018». Parte I = Val Eno; Parte II = Ellam como «pretenso autor intelectual».
+- **[B039 p. 32]** NAT: remissão a B052 (*Homoafetividade*) — **não fundir**. Len Mion «estragou os planos do “Senhor de Noé”, o Criador», em duas ocasiões: à linhagem de Sem apresentou-se como «Javé»; aos arianos de Gomer, como «Brahma».
+- **[B039 p. 113]** NAT: Javé desejava a «subjugação dos humanos pela força»; Jesus recusou. **Quarentena teológica.**
+- **[B039 p. 156]** Comentário 3: «desígnios absurdos dos “egos doentios” de Javé e de outros» = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2291,6 +2315,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B018 p. 10]** NAT: remissão a B004 (*A Sétima Trombeta do Apocalipse: A Volta de Jesus*) — **não fundir**.
 - **[B018 p. 139]** Cronologia: Sophia «fazer-se “Jesus”» há pouco mais de 2 mil anos a.p. Caps. 1–11 **isolados**. Sem fusão com B017 / B004. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 50]** NAT: Jesus = avatar humano de Sophia; a ressurreição devolve a herança ao «feitor».
+- **[B039 p. 113]** NAT: disputa «explícita entre Jesus e Javé»; o Criador enviara um «Messias» que «teria que dominar pela força»; Jesus «recusou-se» e «pagou o “preço” ao ser crucificado»; ao ressuscitar, «mostrou ter poder superior ao de Javé e mesmo ao de Sophia». **Quarentena teológica.**
+- **[B039 p. 156]** Comentário 3 (fala de Ellam): «o homem digno que foi Jesus»; forçar a «contraparte cósmica» a cumprir o que o espírito «planeou para a redenção da Tríade caída e fracassada». Caps. 1–12 **isolados**. Sem reancorar RC-236 a partir do cap. 11. Sem fusão com B017 / B018 / B011. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2366,6 +2397,13 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[B018 p. 139]** Cronologia (assinada Ellam): há ~8 mil anos a.p. Len Mion «transformava-se na mente mais poderosa a manipular os humanos»; «batalha mental» entre Javé e Len Mion; após a crucificação, Len Mion («Satã») assume o resto da rebelião; em 1993 é «retirado do ambiente astral» terreno.
 - **[B018 p. 51]** NAT: gloss de uma fala de Len Mion (Val Eno) — «buraco negro» = **científica**; o corpo da fala = **isolado**. Hitler (p. 147) = sinopse de **B039** — **político — fora**. Sem fusão com B039. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 34]** NAT: Len Mion gerou os «exércitos trevosos», que ocuparam território na erraticidade «como se faz numa guerra»; passou a «odiar tudo e todos, inclusive ele próprio».
+- **[B039 p. 32]** NAT: Len Mion invadiu as descendências «escolhidas» do Criador (remissão a B052 — **não fundir**).
+- Comentários 1–2 e cap. 12 = **político-geopolítica — fora**. Sem âncora política. Caps. 1–12 **isolados**. Sem materializar RC-239. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2421,6 +2459,12 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 
 - **[B018 p. 68]** NAT: Yel Luzbel «hoje se encontra em vivência isolada e fora deste contexto»; os biodemos rebelados só perceberam o «fator Javé» por trás do problema com Sophia ao monitorar a relação de Javé com «este escrevente» (2006–2017).
 - Prefácio/Esclarecimentos = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–11 (Val Eno) **isolados**. Sem fusão com B017 / B039. Fonte **B018** já constava na tabela-mestra.
+
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 6]** Esclarecimentos (Atlan, 29/08/2018 — bloco **novo**, não o de B017/B018): Ellam descortinou o contexto da «rebelião» creditada a Yel Luzbel, os problemas de Sophia e a função dos «Processadores» (notadamente o da família Val). Val Eno = «autor real» da Parte I — **quarentena mediúnica**.
+- Caps. 1–12 (Val Eno) **isolados**. Comentários 1–2 = **político-geopolítica — fora**. Sem extrair Val Eno para RC-123 / RC-232. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3291,6 +3335,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
 
 - **[B018 p. 132]** Cronologia (Ellam): «geopolítica da Trimurti ou da Tríade»; «Senhores da Lila»; triunvirato Brahma/Javé, Shiva e Vishnu. «Geopolítica» = leitura do autor, **não** fato político. Diferenças × B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Sem fusão com B017 / B023 / B024. Fonte **B018** acrescentada na tabela-mestra.
+
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 48]** NAT: «Seres do Conglomerado» = «a Trimurti e os seus níveis aristocráticos».
+- **[B039 p. 75]** NAT: os Processadores biodemos foram produzidos por Sophia e pelas famílias Aya e Aye, «influenciados pelos objetivos da Trimurti», para elevar o padrão vibratório de Javé (de «puro demo» a um estado mais avançado). **Quarentena científica** (engenharia quântica). Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
 
 ## Fontes
 
@@ -5691,6 +5741,11 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **[B018 p. 14]** NAT: Val Eno referia-se ao «último dos senhores» / «último em descendência» dos «seres dos portais»; disputa entre gerações; a cultura desses seres «retrocedia a tempos […] anteriores à Criação».
 - **[B018 p. 79]** NAT: os biodemos «jamais compreenderam» a relação do «conglomerado de realidades» com os «seres dos portais»; contexto de «realidade paralela antimaterial» — **quarentena ufológica / científica**.
 - **[B018 p. 9]** NAT só gloss: «viajores» = «Nephilim bíblicos» (grafia do livro) × canônico Nefilins. Caps. 1–11 **isolados**. Sem fusão com B017. Fonte **B018** já constava na tabela-mestra.
+
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 16]** NAT: entre 2002 e 2004 «ainda não estava claro» para os «autores desta narrativa» que os «seres dos portais» e os «Seres do Conglomerado de Realidades» «pertenciam ao universo antimaterial, paralelo ao que vivemos». **Quarentena ufológica / científica.** Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

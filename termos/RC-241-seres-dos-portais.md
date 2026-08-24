@@ -24,6 +24,11 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **[B018 p. 79]** NAT: os biodemos «jamais compreenderam» a relação do «conglomerado de realidades» com os «seres dos portais»; contexto de «realidade paralela antimaterial» — **quarentena ufológica / científica**.
 - **[B018 p. 9]** NAT só gloss: «viajores» = «Nephilim bíblicos» (grafia do livro) × canônico Nefilins. Caps. 1–11 **isolados**. Sem fusão com B017. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 16]** NAT: entre 2002 e 2004 «ainda não estava claro» para os «autores desta narrativa» que os «seres dos portais» e os «Seres do Conglomerado de Realidades» «pertenciam ao universo antimaterial, paralelo ao que vivemos». **Quarentena ufológica / científica.** Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

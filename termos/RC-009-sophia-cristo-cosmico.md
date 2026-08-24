@@ -131,6 +131,14 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B018 p. 77]** NAT: Ellam faz «as mais profundas reservas» em concordar com o «discernimento de Sophia e das famílias Aya e Aye»; considera esses seres «frios, insensíveis» perante a ética humana. **Quarentena mediúnica** (Val Eno veicula; Ellam reserva).
 - **[B018 p. 132]** Cronologia: Sophia = «avatar» de Vishnu «à moda biodemo»; assume o comando após a «derrocada» do Criador; residência oficial em Capela — **ufológica**. Caps. 1–11 **isolados**. Sem fusão com B017 / B014. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 6]** Esclarecimentos: «incontáveis problemas que envolveram e envolvem o ser cósmico Sophia».
+- **[B039 p. 50]** NAT: na época do relato, Sophia «não havia produzido ainda o seu avatar humano Jesus»; ao ressuscitar, Jesus devolveu ao «feitor» a herança — a forma cósmica — e isso «elevou a situação de Sophia a um padrão vibratório muito superior».
+- **[B039 p. 113]** NAT: a continuidade da «tese de Jesus» «será realizada por Sophia (que cedeu o seu DNA pessoal para ser inseminado em Maria)», cujo corpo «foi engendrado para viver até o final do universo».
+- **[B039 p. 156]** Comentário 3 (fala de Ellam): Sophia é a «contraparte cósmica» de Jesus; «posicionar-se» ≠ agir; «triste, pobre e podre é esse poder» de que está investido. Fala de Val Eno no mesmo comentário = **isolada**. Caps. 1–12 **isolados**. Sem fusão com B017 / B018 / B014. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

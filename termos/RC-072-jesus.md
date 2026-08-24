@@ -141,6 +141,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B018 p. 10]** NAT: remissão a B004 (*A Sétima Trombeta do Apocalipse: A Volta de Jesus*) — **não fundir**.
 - **[B018 p. 139]** Cronologia: Sophia «fazer-se “Jesus”» há pouco mais de 2 mil anos a.p. Caps. 1–11 **isolados**. Sem fusão com B017 / B004. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 50]** NAT: Jesus = avatar humano de Sophia; a ressurreição devolve a herança ao «feitor».
+- **[B039 p. 113]** NAT: disputa «explícita entre Jesus e Javé»; o Criador enviara um «Messias» que «teria que dominar pela força»; Jesus «recusou-se» e «pagou o “preço” ao ser crucificado»; ao ressuscitar, «mostrou ter poder superior ao de Javé e mesmo ao de Sophia». **Quarentena teológica.**
+- **[B039 p. 156]** Comentário 3 (fala de Ellam): «o homem digno que foi Jesus»; forçar a «contraparte cósmica» a cumprir o que o espírito «planeou para a redenção da Tríade caída e fracassada». Caps. 1–12 **isolados**. Sem reancorar RC-236 a partir do cap. 11. Sem fusão com B017 / B018 / B011. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -73,6 +73,14 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B018 p. 68]** NAT: a face referida por Val Eno era a de um «Criador falido» — **quarentena clínica** (leitura, jamais diagnóstico); o «fator Javé» só se tornou consciente para os biodemos de Alt'Lam Gron e Shamb-Aha entre 2006 e 2017.
 - **[B018 p. 131–132]** Cronologia (Ellam): Javé/Brahma, «Ser Trimurtiano»; Criação «equivocada»; «tombou doente» / «código de vida doentio» = **clínica — fora**. Diferenças × cronologia de B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Fonte **B018** acrescentada na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 7]** Esclarecimentos: Ellam e Val Eno «fomos descobrindo sobre Javé e em torno do mesmo, entre os anos 2007 e 2018». Parte I = Val Eno; Parte II = Ellam como «pretenso autor intelectual».
+- **[B039 p. 32]** NAT: remissão a B052 (*Homoafetividade*) — **não fundir**. Len Mion «estragou os planos do “Senhor de Noé”, o Criador», em duas ocasiões: à linhagem de Sem apresentou-se como «Javé»; aos arianos de Gomer, como «Brahma».
+- **[B039 p. 113]** NAT: Javé desejava a «subjugação dos humanos pela força»; Jesus recusou. **Quarentena teológica.**
+- **[B039 p. 156]** Comentário 3: «desígnios absurdos dos “egos doentios” de Javé e de outros» = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

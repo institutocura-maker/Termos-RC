@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (piloto B039 — ingresso e dossiê enxuto; 0 códigos; aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B039 aplicada — 8 fichas, 0 códigos; trilogia Terra Atlantis encerrada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B039 *Terra Atlantis III: A Era Sapiens* (abertura 2026-08-24) — **livro 3/3; B017/B018 = remissão**
@@ -10,6 +10,10 @@
 - Extract: ~70.356 palavras; SHA-256 `c16320e2d333358549cb9780cfc027a44fa0d0d44bf9acb40e57352afb6c1026`. 177 págs com texto.
 - **17 termos já citam B039**; 5 com ficha. Dossiê sugere só a voz de Ellam (Esclarecimentos + NAT sem Hitler + Comentário 3): RC-078, RC-009, RC-072, RC-041. **0 códigos.** Caps. 1–12 = Val Eno — isolados. Comentários 1–2 (Hitler / «povos escolhidos») = **político — fora**. RC-239/238/235 sem ficha.
 - Remissão a B017 / B018 / B052 = **não fundir**. B038 **não fundir**. Quarentena mediúnica + político-geopolítica críticas. Orbum/IEEA/entrevista/roteiro (p. 160–177) fora.
+
+### Devolutiva B039 aplicada (2026-08-24)
+
+- O-1 confirmado (é B039; obra integral 177 págs; Gallian × Gullan = `[REVISAR]`; «capítulo 13» × Comentário 1 = `[REVISAR]`; Esclarecimentos 29/08/2018 = bloco novo); O-2: 8 fichas ampliadas (**RC-078**, **RC-009**, **RC-072**, **RC-041** + opcional **RC-074**, **RC-104**, **RC-241**, **RC-001**) só Esclarecimentos 2018 + NAT permitidas + Comentário 3; B039 nas fontes de RC-041, RC-104, RC-241 e RC-001; RC-236 **não** reancorada a partir do cap. 11; RC-232/123 **não** ampliadas a partir de Val Eno; RC-239 **não** materializada; O-3: zero códigos; RC-239/238/235/123/089/099/018/028/036/058/101/142 sem ficha; O-4: caps. 1–12 isolados; Comentários 1–2 banidos; remissão a B052 sem fusão; Orbum/IEEA/entrevista/roteiro fora; O-5: B017, B018, B038, B003, B023, B052 e B004 intactas; trilogia = três nós; O-6: **BIBLIO intocada** (`trabalhada` / 177 págs / ano «—»); O-7: quarentena político-geopolítica crítica (Comentários 1–2 / cap. 12) + clínica («egos doentios» / «doença da Primeira Semente» = leitura, jamais diagnóstico) + mediúnica, ufológica, científica, teológica, institucional; O-8: `_ampliacoes_B039.txt` aplicado (zero vazamento da palavra «Hitler» nas fichas); pasta em `livros/CONCLUIDOS/B039_terra_atlantis_a_era_sapiens/`. Sem apostila. **Trilogia Terra Atlantis encerrada.**
 
 ## Fase 2 — B018 *Terra Atlantis II: A Frota Norte* (abertura 2026-08-24) — **livro 2/3; B039 fora**
 

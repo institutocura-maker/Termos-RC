@@ -31,6 +31,12 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **[B018 p. 68]** NAT: Yel Luzbel «hoje se encontra em vivência isolada e fora deste contexto»; os biodemos rebelados só perceberam o «fator Javé» por trás do problema com Sophia ao monitorar a relação de Javé com «este escrevente» (2006–2017).
 - Prefácio/Esclarecimentos = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–11 (Val Eno) **isolados**. Sem fusão com B017 / B039. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 6]** Esclarecimentos (Atlan, 29/08/2018 — bloco **novo**, não o de B017/B018): Ellam descortinou o contexto da «rebelião» creditada a Yel Luzbel, os problemas de Sophia e a função dos «Processadores» (notadamente o da família Val). Val Eno = «autor real» da Parte I — **quarentena mediúnica**.
+- Caps. 1–12 (Val Eno) **isolados**. Comentários 1–2 = **político-geopolítica — fora**. Sem extrair Val Eno para RC-123 / RC-232. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -149,6 +149,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B033 p. 81]** divisão da gestão com Jesus; «estado de saúde pessoal» = **clínica — fora**.
 - **[B033 p. 201–202]** Posfácio: os «dramas» cósmico, espiritual e terreno «se transformaram em um complexo painel»; o escrevente não se desincumbiu a contento. Sem fusão com B001 / B002. Fonte **B033** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 7]** Esclarecimentos: descobertas «sobre Javé e em torno do mesmo, entre os anos 2007 e 2018» (Atlan, 29/08/2018).
+- **[B039 p. 32]** NAT: o «Senhor de Noé» apresentou-se como «Javé» à linhagem de Sem / Moisés e como «Brahma» aos arianos de Gomer. Remissão a B052 — **não fundir**.
+- **[B039 p. 113]** NAT: disputa Jesus × Javé; o Criador enviara um Messias «pela força»; Jesus recusou. **Quarentena teológica.**
+- **[B039 p. 156]** Comentário 3: «egos doentios» de Javé = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -28,6 +28,13 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[B018 p. 139]** Cronologia (assinada Ellam): há ~8 mil anos a.p. Len Mion «transformava-se na mente mais poderosa a manipular os humanos»; «batalha mental» entre Javé e Len Mion; após a crucificação, Len Mion («Satã») assume o resto da rebelião; em 1993 é «retirado do ambiente astral» terreno.
 - **[B018 p. 51]** NAT: gloss de uma fala de Len Mion (Val Eno) — «buraco negro» = **científica**; o corpo da fala = **isolado**. Hitler (p. 147) = sinopse de **B039** — **político — fora**. Sem fusão com B039. Fonte **B018** já constava na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 34]** NAT: Len Mion gerou os «exércitos trevosos», que ocuparam território na erraticidade «como se faz numa guerra»; passou a «odiar tudo e todos, inclusive ele próprio».
+- **[B039 p. 32]** NAT: Len Mion invadiu as descendências «escolhidas» do Criador (remissão a B052 — **não fundir**).
+- Comentários 1–2 e cap. 12 = **político-geopolítica — fora**. Sem âncora política. Caps. 1–12 **isolados**. Sem materializar RC-239. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

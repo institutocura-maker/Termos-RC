@@ -4,6 +4,8 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Livro 3/3 Terra Atlantis. B017 e B018 = remissão. B038 não fundir.**
 
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 8 fichas (Esclarecimentos 2018 + NAT sem camada política + Comentário 3). ZERO códigos. Pasta em `livros/CONCLUIDOS/`. Trilogia Terra Atlantis encerrada.
+
 ---
 
 ## O-1 · Identidade da obra

@@ -121,6 +121,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[B018 p. 132]** Cronologia (Ellam): «geopolítica da Trimurti ou da Tríade»; «Senhores da Lila»; triunvirato Brahma/Javé, Shiva e Vishnu. «Geopolítica» = leitura do autor, **não** fato político. Diferenças × B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Sem fusão com B017 / B023 / B024. Fonte **B018** acrescentada na tabela-mestra.
 
+
+## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
+
+- **[B039 p. 48]** NAT: «Seres do Conglomerado» = «a Trimurti e os seus níveis aristocráticos».
+- **[B039 p. 75]** NAT: os Processadores biodemos foram produzidos por Sophia e pelas famílias Aya e Aye, «influenciados pelos objetivos da Trimurti», para elevar o padrão vibratório de Javé (de «puro demo» a um estado mais avançado). **Quarentena científica** (engenharia quântica). Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
