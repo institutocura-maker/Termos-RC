@@ -1,0 +1,9 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B033_o_drama_terreno_de_jave/original.txt
+
+SHA-256 8660f0312b9f9a86804f224cacf5b339319319eeeb958a804dfcf76549f3e05b
+481.413 bytes · ~76.527 palavras · 219 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar. Fechos p. 215–219 = Orbum / autor / CIP (fora da malha).

@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B002 aplicada — 9 fichas, 0 códigos; B033 permanece na gaveta)  
+**Data de sincronização:** 2026-08-24 (ingresso B033 — aguarda Devolutiva; B001/B002 aplicados; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B033 *O Drama Terreno de Javé* (abertura 2026-08-24) — **vol. 3; B001/B002 = remissão**
+
+- **PDF ingressado** em `uploads_recepcao/O Drama Terreno de Jave - Jan Val Ellam.pdf` (2.016.922 bytes; SHA-256 `bc533e506a268eb7c622ae49ff73404e3643a9cde58b0c48f0a43063fa4f5485`; **219 págs** = **B033**, obra integral). Sem Introdução / sem Atlan. CIP **sem** psicografia. Copyright 2015 × 1ª ed. 2012 = `[REVISAR]`. ISBN 978-85-62411-17-5 ainda não na BIBLIO. CIP **11-6771** × B002 **11-6770** = `[REVISAR]`; **não fundir**. **BIBLIO intocada** (`trabalhada` / ano «—»).
+- Ciclo em `livros/B033_o_drama_terreno_de_jave/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~76.527 palavras; SHA-256 `8660f0312b9f9a86804f224cacf5b339319319eeeb958a804dfcf76549f3e05b`. p. 1 sem texto.
+- **16 termos já citam B033**; 10 com ficha. Dossiê sugere RC-225, RC-226, RC-231, RC-001, RC-041, RC-070. **0 códigos.** RC-227/228/229/230/040/135 sem ficha. Lemma «Eras da Criação» / «dez eras» **não ocorre**.
+- Remissões a B001 e B002 = **não fundir**. Quarentena clínica crítica (cap. 15; câncer p. 10; «3% da doença» p. 80). Orbum (p. 215–217) fora.
 
 ## Fase 2 — B002 *O Drama Espiritual de Javé* (abertura 2026-08-24) — **vol. 2; B033 fora**
 

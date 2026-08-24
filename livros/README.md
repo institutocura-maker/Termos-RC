@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-*(nenhum ciclo integral em andamento — B033 permanece na gaveta.)*
+`livros/B033_o_drama_terreno_de_jave/` — ingresso 2026-08-24; **obra integral (219 págs)**; vol. 3 da trilogia; dossiê O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. Sem fusão com B001/B002. Sem apostila.
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
