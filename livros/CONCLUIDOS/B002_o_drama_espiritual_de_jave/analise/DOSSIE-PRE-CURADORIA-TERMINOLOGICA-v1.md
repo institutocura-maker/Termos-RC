@@ -4,7 +4,7 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **B033 não entra neste dossiê. B001 = remissão, não fusão.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 9 fichas. ZERO códigos. Pasta em `livros/CONCLUIDOS/`. B033 permanece na gaveta.
 
 ---
 

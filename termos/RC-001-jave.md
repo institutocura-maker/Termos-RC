@@ -133,6 +133,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B001 p. 11]** os seres da Terra e de outros mundos «dependem do Senhor Javé»; «sem a parceria com o Senhor Javé, nós não iremos a lugar nenhum»; «Javé precisa de nós e do nosso progresso para também se unificar ao Pai, o Incognoscível»; «penso que Javé é refém do progresso espiritual de todas as criaturas». RC-196 permanece **sem ficha**.
 - **[B001 p. 298]** Posfácio: Javé «na sua função natural de divindade criadora idealizou e realizou» a obra; Sagan = **referência externa**. Cap. 13 (piloto) **não ontologizado**. Sem fusão com B002 / B033 / B009. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 4–5]** Introdução: Javé = «divindade cocriadora» que «criou este universo e nele se obrigou a viver por uma “questão de consciência”»; a obra é a pedido do próprio; a hoste assessora solicitou o escrevente (Atlan, 04/01/2009). **Quarentena mediúnica**.
+- **[B002 p. 6–7]** reconstituição pós-queda; DNA = projeção holográfica do seu psiquismo (âncora em RC-217).
+- **[B002 p. 66]** cap. 7: Javé «tido de modo confuso por muita gente como sendo Deus»; «despossuído de senso moral»; precisa «edificar em si mesmo algum nível de senso moral esclarecido». «Transtorno de personalidade» / «adoentado» / analogia do autismo (p. 9) = **clínica — fora**. Kardec = **externa**.
+- **[B002 p. 220–221]** Posfácio: «ainda que doente desde o princípio» pela reconstituição, «o que resta dos poderes do Senhor Javé é algo ainda simplesmente incompreensível»; ordem de publicar «ainda que com equívocos». «Doente desde o princípio» = **clínica** (leitura, jamais diagnóstico). Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

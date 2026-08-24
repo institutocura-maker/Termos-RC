@@ -23,6 +23,13 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 - **[B001 p. 14]** «era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal»; as divindades investidas «fazem-se sempre acompanhar por outros seres que a assessoram».
 - **[B001 p. 41]** cap. 3 *Arquiteto por Excelência, “Deus” por Necessidade*: expansão / Big Bang como processo da «vontade e do poder mental da divindade criadora» — **quarentena científica** (analogia do autor). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B002. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 6]** cap. 1 *A Queda de um Arquiteto Universal*: «fazer da queda um passo de dança»; a divindade «reconstituiu a si mesmo em condições impróprias»; a forma reconstituída «atualmente conhecida como “o Senhor Javé”».
+- **[B002 p. 6]** «nada há de glamour no seu atual modo de existir»; «aos olhos terrenos, ele sempre nos parecerá um ser poderoso com traços da divindade perdida».
+- **[B002 p. 6]** «há cerca de 13,7 bilhões de anos» = **quarentena científica**. RC-216 **não materializada** (O-2). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

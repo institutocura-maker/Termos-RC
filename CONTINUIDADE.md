@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B002 — aguarda Devolutiva; B033 não processado)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B002 aplicada — 9 fichas, 0 códigos; B033 permanece na gaveta)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B002 *O Drama Espiritual de Javé* (abertura 2026-08-24) — **vol. 2; B033 fora**
@@ -10,6 +10,11 @@
 - Extract: ~83.062 palavras; SHA-256 `90f0c10d5320a1ad6a1b72155a8f6f5a23b299d8616d9c2b7dca299280792026`. p. 1 sem texto.
 - **24 termos já citam B002**; 13 com ficha. Dossiê sugere RC-217, RC-223, RC-207, RC-001, RC-041, RC-167. **0 códigos.** RC-216/218–222/224/208/209/019/040/196 sem ficha.
 - Intro remete a B001 = **não fundir**. B033 aguarda. Quarentena clínica crítica (autismo p. 9; «transtorno de personalidade» p. 66; cap. 7). Orbum (p. 237–239) fora.
+
+### Devolutiva B002 aplicada (2026-08-24)
+
+- O-1 confirmado (é B002; obra integral 241 págs; copyright 2015 × 1ª ed. 2011 = `[REVISAR]`; remissão a B001, **não fusão**); O-2: 9 fichas ampliadas (RC-217, RC-223, RC-207, RC-001, RC-041, RC-167 + opcional **RC-047**, **RC-052**, **RC-005**); RC-216 **não** materializada; O-3: zero códigos; RC-218–222/224/208/209/019/040/196 sem ficha; «alma divinizada» / «conspiração amorosa» sem código; O-4: analogias clínicas (autismo / transtorno de personalidade) fora; Kardec / Nietzsche / Kierkegaard / Mukherjee = externas; Orbum/IEEA fora; O-5: trilogia = três nós; B001, B041, B035 e B011 intactas; B033 **não** entra; O-6: **BIBLIO intocada** (`trabalhada` / 241 págs); ISBN 978-85-62411-06-9 fica para edição manual se mandar; O-7: quarentena clínica crítica («autismo» / «transtorno de personalidade» / «cota doentia do DNA» / «doente desde o princípio» = leitura, jamais diagnóstico) + mediúnica, científica, teológica, ufológica, institucional; O-8: `_ampliacoes_B002.txt` aplicado; pasta em `livros/CONCLUIDOS/B002_o_drama_espiritual_de_jave/`. Sem apostila. Tabela-mestra intocada (B002 já constava nas 9).
+- B033 permanece na gaveta.
 
 ## Fase 2 — B001 *O Drama Cósmico de Javé* (abertura 2026-08-24) — **vol. 1**
 

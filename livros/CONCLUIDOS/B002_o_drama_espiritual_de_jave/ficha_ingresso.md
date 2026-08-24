@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B002 — O Drama Espiritual de Javé
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada (`trabalhada`). Sem apostila. **PDF = obra integral (241 págs), vol. 2 da trilogia. B001 já em CONCLUIDOS. B033 não processado. Sem fusão.**
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 9 fichas ampliadas (RC-217, RC-223, RC-207, RC-001, RC-041, RC-167 + opcionais RC-047, RC-052, RC-005); 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. B033 não processado. Sem fusão.
 
 ## 1. Identificação
 

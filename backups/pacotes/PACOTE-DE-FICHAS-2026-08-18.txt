@@ -8,21 +8,21 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 22488 | 220 | 693e9eb0f716e3a7aecb7dc366241484b386ceed70adcd5b8c5b390d6d3dbe62
+# termos/RC-001-jave.md | 23658 | 228 | 0fac816726fb7ed9f2edd821412f631e442c9839c02b305a58b2918b17f0e4d7
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 9586 | 101 | 36feee7a719bd9f88ffd09b910745c8f8cd939887e5ea24ab9e05db54c45618b
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
-# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 5182 | 81 | f51fe3ec808075f61d9ded06b0326c53567d19ac387b8eb6ee53b575c648e4d4
+# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 5807 | 87 | 28702f929c8a0320fcbbfa792d597938bf53b88b50e0d6cd3cfa8f43cbed51d8
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 6349 | 84 | 9397235bf28dcc78454732a2e02a0421081588246f0904f98f3b0fe490d429ed
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 6055 | 74 | 56f06e394819c03abdf275109abe525e0e4d1a4cd040a83d62324906949c3e24
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 6592 | 81 | 2d678c966f17a57ce6f8f2f074b7a0827c24fd5144b467c8b95c72fd663ac4a6
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
-# termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3772 | 64 | 16c6f8de32f8bd58aaf1199eefb5cc4d458c5bf6966c05b2f5f6daca4f307914
+# termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
-# termos/RC-052-deus-deus-incognoscivel.md | 3818 | 60 | 1f1486abb552baa5832b4827e280912ec7c348cc34634a2bd2502c44b9cbf5b9
+# termos/RC-052-deus-deus-incognoscivel.md | 4350 | 66 | c95f9bc864ecb91697c3a828728accfe7d07f4acc42d29e74d5432e7f9195a6f
 # termos/RC-055-en-drel.md | 2834 | 42 | 959fc5f0852f79bd883a076ce0e85cca0b0d64799409bccf3ab31803b87cb3c3
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
@@ -55,7 +55,7 @@
 # termos/RC-164-criaturas-ferramenta.md | 3932 | 67 | 1c086c52b006e88bcebea3cfb732f8a34d5b007d0d44715dcdc2c1a3a903efc1
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 8925 | 117 | 3230da5c151bfd6801f12e0f97e6daf39b4dc8f8770997d71c619c3d18791c3d
+# termos/RC-167-criacao-indevida-obra-indevida.md | 9557 | 124 | c284fd5e2bccfbabce31f4c14088c14dc4a5063dbc333099052a2e5f96657e29
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -67,10 +67,10 @@
 # termos/RC-195-simbiose-quantica.md | 4107 | 48 | 55cd89db8a651be61ab9688b76aaa20256255084ff4476ef88de92fee97ce05d
 # termos/RC-200-base-de-dados-do-juizo-final.md | 1722 | 33 | 0cda9c7f334ccc66416d8ecb0c1d97705ae657f78acf4d774da67b7a3d4e9649
 # termos/RC-204-realidade-maior-paraiso-original.md | 2902 | 58 | b257ba8d3a9bdbc68656c96d01b8c4de1e14d4618ca67c3408cf28846ea5729e
-# termos/RC-207-arquiteto-universal.md | 3388 | 49 | 21b85ab7c28d04bae554ef41b83cf3a1665c521b362bbcac43e48bc46f0b6e16
+# termos/RC-207-arquiteto-universal.md | 4115 | 56 | 8092d6188192a0348caa4f6b52f0fcf009bb32e17e72ed0beb7219c7bdf150f0
 # termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 3391 | 54 | dc67589705ac10c33cbdbd46270aee62fd973e2b7fd8d2d076723e3a5a1b80a3
-# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 7491 | 95 | 190e85690b7ce7a39836da9959b91a1cfd56e22f0476d54a4a7cef1cce5ce2b0
-# termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 2564 | 42 | b4bbc254e8110cee006f63c9cca0d010253e26c7851a75e6c48fd0d93370846b
+# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 8615 | 103 | f4191cfdbe74ef6e17ba0092d17c5a2c3f7b3253accbe68ca6ba57b3d074d804
+# termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 3381 | 50 | f5969cff8507d536ab3368deead059f95ef714af9b2e31f72ff6225c93b196e7
 # termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
 # termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
 # termos/RC-231-razao-filosofica-dos-terraqueos.md | 3802 | 56 | c78ed2be84c911531b3e5b450339ee5975ec58bd90960a008f32e9a1d7f1c911
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1559624 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1566275 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -573,6 +573,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B001 p. 9]** «não há nada, no campo da arquitetura do pensamento humano terráqueo, que possa dar guarida razoável à compreensão da exuberante e estranhíssima personalidade de Javé»; «O Senhor Javé nos ama, a seu modo».
 - **[B001 p. 11]** os seres da Terra e de outros mundos «dependem do Senhor Javé»; «sem a parceria com o Senhor Javé, nós não iremos a lugar nenhum»; «Javé precisa de nós e do nosso progresso para também se unificar ao Pai, o Incognoscível»; «penso que Javé é refém do progresso espiritual de todas as criaturas». RC-196 permanece **sem ficha**.
 - **[B001 p. 298]** Posfácio: Javé «na sua função natural de divindade criadora idealizou e realizou» a obra; Sagan = **referência externa**. Cap. 13 (piloto) **não ontologizado**. Sem fusão com B002 / B033 / B009. Fonte **B001** já constava na tabela-mestra.
+
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 4–5]** Introdução: Javé = «divindade cocriadora» que «criou este universo e nele se obrigou a viver por uma “questão de consciência”»; a obra é a pedido do próprio; a hoste assessora solicitou o escrevente (Atlan, 04/01/2009). **Quarentena mediúnica**.
+- **[B002 p. 6–7]** reconstituição pós-queda; DNA = projeção holográfica do seu psiquismo (âncora em RC-217).
+- **[B002 p. 66]** cap. 7: Javé «tido de modo confuso por muita gente como sendo Deus»; «despossuído de senso moral»; precisa «edificar em si mesmo algum nível de senso moral esclarecido». «Transtorno de personalidade» / «adoentado» / analogia do autismo (p. 9) = **clínica — fora**. Kardec = **externa**.
+- **[B002 p. 220–221]** Posfácio: «ainda que doente desde o princípio» pela reconstituição, «o que resta dos poderes do Senhor Javé é algo ainda simplesmente incompreensível»; ordem de publicar «ainda que com equívocos». «Doente desde o princípio» = **clínica** (leitura, jamais diagnóstico). Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -929,6 +937,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B009 p. 353]** Posfácio: «a última promessa feita pelo próprio Mestre, referente ao seu retorno»; «estamos vivendo o momento em que essa promessa há de se cumprir»; «os tempos profetizados estão chegados» — anúncio, não calendário.
 - **[B009 p. 353]** «o Mestre Jesus possa voltar à Terra na sua condição de ser cósmico extraterreno» — **quarentena ufológica** (leitura, jamais fato).
 - **[B009 p. 354]** a mesma equipe do século XIX «atualmente semeia o anúncio da volta de Jesus». Sem fusão com B011 / B014 / B016 / B042. Fonte **B009** acrescentada na tabela-mestra.
+
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 136]** cap. 13: «como “quem realmente manda” é o Senhor Javé — esta é a frase que mais tenho escutado desde o ano de 2007 — a prometida volta de Jesus somente poderá ocorrer quando todos os aspectos apontados como sendo “importantes” para os seus desígnios se encontrarem atendidos».
+- **Quarentena mediúnica** (canal / «quem realmente manda»). «Visita oficial de seres de outros orbes» (mesmo parágrafo) = **ufológica — fora**. Sem calendário. Sem fusão com B001 / B009 / B011. Fonte **B002** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -1490,6 +1504,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B001 p. 11]** lemma «refém» na voz de Ellam — absorvido aqui; RC-196 **não materializada**.
 - Cap. 13 (p. 213–214): metáfora do cientista/piloto «enlouquecido» / «adoeceu» = **clínica / alegoria — fora da ontologia**. Sem fusão com B002 / B035. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 4]** Introdução: o «outrem» é «aquele que, na qualidade de divindade cocriadora, criou este universo e nele se obrigou a viver por uma “questão de consciência”».
+- **[B002 p. 7]** «estando ele agora na situação de refém da própria criação e nela inserida». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
+- Remissão a B001 na Intro = **não fundir**. Sem fusão com B033 / B035. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1609,6 +1630,12 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **[B001 p. 13]** cap. 1: a Deidade é «o único a quem deveríamos nos referir como sendo Deus, o Incognoscível»; personifica-se em Divindades Excelsas.
 - **[B001 p. 13]** o Pai Supremo, o Amantíssimo, é «uma das personificações da Deidade». RC-205 / RC-206 permanecem **sem ficha**.
 - **[B001 p. 11]** o Incognoscível «está acima de todas as divindades criadoras». Sem fusão com B048 / B002. Fonte **B001** já constava na tabela-mestra.
+
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 8]** a Deidade «se “personificou” em divindades maiores e menores», conforme o descrito em B001 — remissão, **não fusão**.
+- **[B002 p. 8]** as divindades receberam almas já «formatadas» conforme as funções; as menores possuem «programa evolutivo com suas próprias regras». «Alma divinizada» **não** ganha código (O-3). Sem fusão com B001 / B048. Fonte **B002** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1748,6 +1775,12 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 
 - **[B001 p. 13]** «Deus, o Incognoscível» = a Deidade, «incompreensível e indescritível»; distinto das Divindades Excelsas e do criador deste universo.
 - **[B001 p. 11]** o Pai Incognoscível «está acima de todas as divindades criadoras»; a «parte sagrada» que sustenta cada ser. Sem fundir com Javé. Sem fusão com B048. Fonte **B001** já constava na tabela-mestra.
+
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 8]** a personificação da Deidade em divindades maiores e menores; as almas das criaturas das divindades menores foram formatadas «simples e ignorantes» — distinto da Deidade.
+- **[B002 p. 188]** «prestação de contas que cada ser existente faz da cota existencial herdada do Deus Incognoscível, Aquele que é Pai e Mãe amoroso dos demais seres viventes». Sem fundir com Javé. Sem fusão com B001 / B048. Fonte **B002** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -4265,6 +4298,13 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B001 p. 103]** «os problemas gerados com a criação indevida da divindade adoentada – e o repito, jamais planejada» — **quarentena clínica** («adoentada» = leitura, jamais diagnóstico).
 - **[B001 p. 280]** «prisão gerada pela criação indevida e desestruturada a nível espiritual». Sem fusão com B002 / B024 / B035. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 108]** «a história anterior ao evento da criação indevida não é tão simplória» que permita juízo terreno de «inocente ou culpado».
+- **[B002 p. 150]** as faixas de realidade da «obra universal oriunda da criação indevida»; opção quântica do elétron = **quarentena científica**.
+- **[B002 p. 190]** as demais «mentes divinas» tentaram «impedir que a criação indevida pudesse acontecer» e, em vendo ser impossível, «formatar melhor» o que seria gerado. Sem fusão com B001 / B024 / B035. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -4979,6 +5019,13 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 - **[B001 p. 14]** «era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal»; as divindades investidas «fazem-se sempre acompanhar por outros seres que a assessoram».
 - **[B001 p. 41]** cap. 3 *Arquiteto por Excelência, “Deus” por Necessidade*: expansão / Big Bang como processo da «vontade e do poder mental da divindade criadora» — **quarentena científica** (analogia do autor). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B002. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 6]** cap. 1 *A Queda de um Arquiteto Universal*: «fazer da queda um passo de dança»; a divindade «reconstituiu a si mesmo em condições impróprias»; a forma reconstituída «atualmente conhecida como “o Senhor Javé”».
+- **[B002 p. 6]** «nada há de glamour no seu atual modo de existir»; «aos olhos terrenos, ele sempre nos parecerá um ser poderoso com traços da divindade perdida».
+- **[B002 p. 6]** «há cerca de 13,7 bilhões de anos» = **quarentena científica**. RC-216 **não materializada** (O-2). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5112,6 +5159,14 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B040 p. 24]** o padrão inicial do DNA é “retrabalhado” “a ‘cada segundo’ pela atitude mental” das criaturas.
 - **[B040 p. 52]** “tudo o que um ser humano pensa e sente, ele marca no seu DNA pessoal.” Sem fusão com B002 / B019 / B034 / B052. Crick / panspermia = **referência externa**.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 6–7]** cap. 1: o poder mental da divindade, «ainda que em desequilíbrio», marcou as «células» da nova forma existencial com o que era emanado «pela sua mente» nos «momentos de pânico e desespero»; expressões «atualmente intituladas pela ciência terrestre como “moléculas de DNA”».
+- **[B002 p. 7]** CONSTATAÇÃO: «O que entendemos na Terra como molécula de DNA, na verdade é uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé. Em outras palavras, é uma representação química do seu psiquismo.»
+- **[B002 p. 7]** a molécula passou a ser «fator de replicação existencial» para os demais seres; o «código da vida» via códons = **quarentena científica** (analogia do autor).
+- **[B002 p. 150]** dois processos holográficos (elétron / «DNA mãe»); DNA = código da existência «quimicamente digitalizado». RC-218 permanece **sem ficha**. «Cota doentia do DNA» (p. 187) = **clínica — fora**. Sem fusão com B001 / B033 / B019. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5176,6 +5231,14 @@ O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qua
 ## Etimologia / Grafias
 - **Grafia preferida:** O Mal: Subproduto da Ignorância Espiritual
 - **Variações:** mal como ignorância; subproduto da ignorância espiritual
+
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 187]** cap. 17 *O Mal: Subproduto da Ignorância Espiritual*: «vivemos sob a égide de uma brutal ditadura» à exceção de civilizações que «já superaram a cota doentia do DNA do criador» — **quarentena clínica** («cota doentia» = leitura cosmologica, jamais diagnóstico).
+- **[B002 p. 188]** a opressão de Javé «é pretensamente exercida em nome do “bem”». C.S. Lewis = **referência externa**.
+- **[B002 p. 190]** o «surgimento do mal» = «mero subproduto da “longevidade indesejada”», associada aos «temperos psicológicos de um ser que teve de “sobreviver a qualquer custo”».
+- Kardec (p. 191) = **externa**. RC-224 permanece **sem ficha**. Sem fusão com B001. Fonte **B002** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

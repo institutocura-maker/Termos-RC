@@ -35,6 +35,12 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 - **[B001 p. 13]** «Deus, o Incognoscível» = a Deidade, «incompreensível e indescritível»; distinto das Divindades Excelsas e do criador deste universo.
 - **[B001 p. 11]** o Pai Incognoscível «está acima de todas as divindades criadoras»; a «parte sagrada» que sustenta cada ser. Sem fundir com Javé. Sem fusão com B048. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 8]** a personificação da Deidade em divindades maiores e menores; as almas das criaturas das divindades menores foram formatadas «simples e ignorantes» — distinto da Deidade.
+- **[B002 p. 188]** «prestação de contas que cada ser existente faz da cota existencial herdada do Deus Incognoscível, Aquele que é Pai e Mãe amoroso dos demais seres viventes». Sem fundir com Javé. Sem fusão com B001 / B048. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

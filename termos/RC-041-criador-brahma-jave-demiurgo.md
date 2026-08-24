@@ -47,6 +47,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B001 p. 11]** lemma «refém» na voz de Ellam — absorvido aqui; RC-196 **não materializada**.
 - Cap. 13 (p. 213–214): metáfora do cientista/piloto «enlouquecido» / «adoeceu» = **clínica / alegoria — fora da ontologia**. Sem fusão com B002 / B035. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 4]** Introdução: o «outrem» é «aquele que, na qualidade de divindade cocriadora, criou este universo e nele se obrigou a viver por uma “questão de consciência”».
+- **[B002 p. 7]** «estando ele agora na situação de refém da própria criação e nela inserida». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
+- Remissão a B001 na Intro = **não fundir**. Sem fusão com B033 / B035. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

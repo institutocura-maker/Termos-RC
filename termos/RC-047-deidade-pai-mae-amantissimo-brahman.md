@@ -31,6 +31,12 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **[B001 p. 13]** o Pai Supremo, o Amantíssimo, é «uma das personificações da Deidade». RC-205 / RC-206 permanecem **sem ficha**.
 - **[B001 p. 11]** o Incognoscível «está acima de todas as divindades criadoras». Sem fusão com B048 / B002. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 8]** a Deidade «se “personificou” em divindades maiores e menores», conforme o descrito em B001 — remissão, **não fusão**.
+- **[B002 p. 8]** as divindades receberam almas já «formatadas» conforme as funções; as menores possuem «programa evolutivo com suas próprias regras». «Alma divinizada» **não** ganha código (O-3). Sem fusão com B001 / B048. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

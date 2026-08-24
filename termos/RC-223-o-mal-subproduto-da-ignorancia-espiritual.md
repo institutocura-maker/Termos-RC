@@ -17,6 +17,14 @@ O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qua
 - **Grafia preferida:** O Mal: Subproduto da Ignorância Espiritual
 - **Variações:** mal como ignorância; subproduto da ignorância espiritual
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 187]** cap. 17 *O Mal: Subproduto da Ignorância Espiritual*: «vivemos sob a égide de uma brutal ditadura» à exceção de civilizações que «já superaram a cota doentia do DNA do criador» — **quarentena clínica** («cota doentia» = leitura cosmologica, jamais diagnóstico).
+- **[B002 p. 188]** a opressão de Javé «é pretensamente exercida em nome do “bem”». C.S. Lewis = **referência externa**.
+- **[B002 p. 190]** o «surgimento do mal» = «mero subproduto da “longevidade indesejada”», associada aos «temperos psicológicos de um ser que teve de “sobreviver a qualquer custo”».
+- Kardec (p. 191) = **externa**. RC-224 permanece **sem ficha**. Sem fusão com B001. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

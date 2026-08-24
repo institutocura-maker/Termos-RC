@@ -49,6 +49,14 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B040 p. 24]** o padrão inicial do DNA é “retrabalhado” “a ‘cada segundo’ pela atitude mental” das criaturas.
 - **[B040 p. 52]** “tudo o que um ser humano pensa e sente, ele marca no seu DNA pessoal.” Sem fusão com B002 / B019 / B034 / B052. Crick / panspermia = **referência externa**.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 6–7]** cap. 1: o poder mental da divindade, «ainda que em desequilíbrio», marcou as «células» da nova forma existencial com o que era emanado «pela sua mente» nos «momentos de pânico e desespero»; expressões «atualmente intituladas pela ciência terrestre como “moléculas de DNA”».
+- **[B002 p. 7]** CONSTATAÇÃO: «O que entendemos na Terra como molécula de DNA, na verdade é uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé. Em outras palavras, é uma representação química do seu psiquismo.»
+- **[B002 p. 7]** a molécula passou a ser «fator de replicação existencial» para os demais seres; o «código da vida» via códons = **quarentena científica** (analogia do autor).
+- **[B002 p. 150]** dois processos holográficos (elétron / «DNA mãe»); DNA = código da existência «quimicamente digitalizado». RC-218 permanece **sem ficha**. «Cota doentia do DNA» (p. 187) = **clínica — fora**. Sem fusão com B001 / B033 / B019. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

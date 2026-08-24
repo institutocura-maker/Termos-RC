@@ -55,6 +55,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B009 p. 353]** «o Mestre Jesus possa voltar à Terra na sua condição de ser cósmico extraterreno» — **quarentena ufológica** (leitura, jamais fato).
 - **[B009 p. 354]** a mesma equipe do século XIX «atualmente semeia o anúncio da volta de Jesus». Sem fusão com B011 / B014 / B016 / B042. Fonte **B009** acrescentada na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 136]** cap. 13: «como “quem realmente manda” é o Senhor Javé — esta é a frase que mais tenho escutado desde o ano de 2007 — a prometida volta de Jesus somente poderá ocorrer quando todos os aspectos apontados como sendo “importantes” para os seus desígnios se encontrarem atendidos».
+- **Quarentena mediúnica** (canal / «quem realmente manda»). «Visita oficial de seres de outros orbes» (mesmo parágrafo) = **ufológica — fora**. Sem calendário. Sem fusão com B001 / B009 / B011. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

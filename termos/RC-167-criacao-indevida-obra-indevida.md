@@ -66,6 +66,13 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B001 p. 103]** «os problemas gerados com a criação indevida da divindade adoentada – e o repito, jamais planejada» — **quarentena clínica** («adoentada» = leitura, jamais diagnóstico).
 - **[B001 p. 280]** «prisão gerada pela criação indevida e desestruturada a nível espiritual». Sem fusão com B002 / B024 / B035. Fonte **B001** já constava na tabela-mestra.
 
+
+## Ampliação — B002 (O Drama Espiritual de Javé)
+
+- **[B002 p. 108]** «a história anterior ao evento da criação indevida não é tão simplória» que permita juízo terreno de «inocente ou culpado».
+- **[B002 p. 150]** as faixas de realidade da «obra universal oriunda da criação indevida»; opção quântica do elétron = **quarentena científica**.
+- **[B002 p. 190]** as demais «mentes divinas» tentaram «impedir que a criação indevida pudesse acontecer» e, em vendo ser impossível, «formatar melhor» o que seria gerado. Sem fusão com B001 / B024 / B035. Fonte **B002** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
