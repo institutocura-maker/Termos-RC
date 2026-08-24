@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B017_terra_atlantis_o_sinal_de_lands_end/original.txt
+
+SHA-256 3c4c8f90ca022e0e58139abc9ab2923dbbc34751aed80b18f92e6d86b6669002
+460.899 bytes · ~70.573 palavras · 185 págs.
+Todas as páginas com texto extraível.
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Prefácio p. 4–5 + Esclarecimentos p. 6–7 + blocos NAT.
+Caps. 1–13 = Val Eno (isolados).
+Fechos p. 174–185 = autor / roteiro / Orbum / IEEA (fora da malha).

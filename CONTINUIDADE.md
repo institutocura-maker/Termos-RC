@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B033 aplicada — 11 fichas, 0 códigos; trilogia dos Dramas encerrada)  
+**Data de sincronização:** 2026-08-24 (ingresso B017 — aguarda Devolutiva; B018/B039 na gaveta; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B017 *Terra Atlantis I: O Sinal de Land's End* (abertura 2026-08-24) — **livro 1/3; B018/B039 fora**
+
+- **PDF ingressado** em `uploads_recepcao/TERRA ATLANTIS - O Sinal de Land's End - Livro 1.pdf` (1.672.665 bytes; SHA-256 `93ad0e9e3ce404e44c8952b37ebf0dac23f995fdab973fba1358b553c25ef7e1`; **185 págs** = **B017**, obra integral). Adaptação Gullan Greyl 23-01-2020. Metadado Author **Gallian Greyl** = `[REVISAR]`. Prefácio Atlan 29/11/2002; Esclarecimentos Atlan 20/04/2015. Sem ISBN/CIP. **BIBLIO intocada** (`trabalhada` / 2016).
+- Ciclo em `livros/B017_terra_atlantis_o_sinal_de_lands_end/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~70.573 palavras; SHA-256 `3c4c8f90ca022e0e58139abc9ab2923dbbc34751aed80b18f92e6d86b6669002`. 185 págs com texto.
+- **23 termos já citam B017**; 9 com ficha. Dossiê sugere só a voz de Ellam: RC-078, RC-003, RC-009, RC-072. **0 códigos.** Caps. 1–13 = Val Eno — isolados. RC-237/123/089/233/101/065 sem ficha.
+- Remissão a B003/B025/B026 = **não fundir**. B018 e B039 no upload — **não processados**. Quarentena mediúnica crítica. Orbum/IEEA/roteiro (p. 174–185) fora. Hitler (p. 181) = sinopse de B039 — fora.
 
 ## Fase 2 — B033 *O Drama Terreno de Javé* (abertura 2026-08-24) — **vol. 3; B001/B002 = remissão**
 
