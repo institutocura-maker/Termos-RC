@@ -343,7 +343,7 @@ TERMOS = [
     ("RC-242", "Éden do Criador (Éden como laboratório)", LOK_TER[0], LOK_TER[1], P, ["B015", "B020", "B052"], "RC-251; RC-177; RC-006; RC-041; RC-147", True),
     ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'P2025-02-15'], 'RC-244; RC-099; RC-210; RC-041', True),
     ("RC-244", "Germe da Desconfiança", COS_LEI[0], COS_LEI[1], P, ["B015"], "RC-243; RC-041; RC-107; RC-167", False),
-    ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], P, ['B015', 'B036', 'P2024-05-04', 'P2025-10-25'], "RC-041; RC-001; RC-099; RC-147", True),
+    ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], P, ['B015', 'B036', 'B048', 'P2024-05-04', 'P2025-10-25'], "RC-041; RC-001; RC-099; RC-147", True),
     ("RC-246", "Dez Sagrados (primeira geração do Criador)", SER_LOG[0], SER_LOG[1], P, ["B015"], "RC-055; RC-041; RC-206", False),
     ("RC-247", "Endrelnianos", SER_ANJ[0], SER_ANJ[1], P, ["B015"], "RC-055; RC-147; RC-019", False),
     ("RC-248", "Viajores da Rebelião", SER_DEC[0], SER_DEC[1], P, ["B015"], "RC-134; RC-250; RC-002; RC-078; RC-249", False),

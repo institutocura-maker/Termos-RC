@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B048 — Favor Divino
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada. Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 9 fichas ampliadas (RC-332, RC-333, RC-334, RC-335, RC-047, RC-001, RC-052, RC-149, RC-245); B048 nas fontes de RC-245; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

@@ -17,6 +17,13 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 - **Grafia preferida:** Lavagem Cerebral
 - **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 6]** Introdução: a lavagem cerebral “foi e ainda é parte de uma etapa necessária de um processo maior”. Atlan, 20/06/2012.
+- **[B048 p. 14]** “existiram e existem muitas ‘lavagens cerebrais’” que motivam ofertas “em troca de ‘favores divinos’”; não é desse tipo de favor que o livro trata.
+- **[B048 p. 76]** Constatação: “Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas — não todas.” Vaticano (p. 7) e fundamentalismo (p. 10) = **política, fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 275883 | 2954 | 1975fc21c2c192117ae52e0c71f20449cb5e3b76c0222478a4078dd6f0a5c03e
+# ferramentas/dados_termos.py | 275891 | 2954 | e7216405190276795f393bf8ecf6184de0d39b59e222614125b47da3436eadfb
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53563 | 352 | 4b14c6ef590c47a9f4c3edbe015b77c09b7d1df8b1bf4c9868fd5eb58fa9e32b
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 125268 | 1098 | a46e739187cdb60083aec38a1299fd878f2fcde2b68b166d18390bb98f465be0
+# CONTINUIDADE.md | 127355 | 1111 | 1d04316c48626376638715f39496b8a14f61ffcae4bec33d5cdbeb7a84eb9b87
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 576845 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 578940 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -373,7 +373,7 @@ TERMOS = [
     ("RC-242", "Éden do Criador (Éden como laboratório)", LOK_TER[0], LOK_TER[1], P, ["B015", "B020", "B052"], "RC-251; RC-177; RC-006; RC-041; RC-147", True),
     ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'P2025-02-15'], 'RC-244; RC-099; RC-210; RC-041', True),
     ("RC-244", "Germe da Desconfiança", COS_LEI[0], COS_LEI[1], P, ["B015"], "RC-243; RC-041; RC-107; RC-167", False),
-    ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], P, ['B015', 'B036', 'P2024-05-04', 'P2025-10-25'], "RC-041; RC-001; RC-099; RC-147", True),
+    ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], P, ['B015', 'B036', 'B048', 'P2024-05-04', 'P2025-10-25'], "RC-041; RC-001; RC-099; RC-147", True),
     ("RC-246", "Dez Sagrados (primeira geração do Criador)", SER_LOG[0], SER_LOG[1], P, ["B015"], "RC-055; RC-041; RC-206", False),
     ("RC-247", "Endrelnianos", SER_ANJ[0], SER_ANJ[1], P, ["B015"], "RC-055; RC-147; RC-019", False),
     ("RC-248", "Viajores da Rebelião", SER_DEC[0], SER_DEC[1], P, ["B015"], "RC-134; RC-250; RC-002; RC-078; RC-249", False),
@@ -4582,8 +4582,21 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B042 aplicada)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B048 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B048 *Favor Divino* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Favor Divino - Jan Val Ellam.pdf` (1.414.834 bytes; SHA-256 `b83c4552507582852ba78cabaffae368025895f39c68924341504875f3cb55c5`; 106 págs = **B048**). ISBN 978-85-62411-19-9 já na BIBLIO. Intro Atlan 20/06/2012; CIP 2013 (13-1221; CDD/CDU 133.9). Copyright 2019 × 1ª ed. 2013 = `[REVISAR]` de ano. **BIBLIO intocada.**
+- Ciclo em `livros/B048_favor_divino/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~34.197 palavras; SHA-256 `86020bcbd6dd91cf585903b99d5b223f26cc99f3c351e4baa8281d97a885d7d6`. p. 1 sem texto.
+- 20 termos já citam B048; 11 com ficha. Dossiê sugere ampliar RC-332, RC-333, RC-334, RC-335, RC-047, RC-001. **0 códigos.** RC-063/099/190/336–341 sem ficha — não materializar.
+- IEEA/Orbum/roteiro fora. Quarentena clínica da “doença” de Javé. Sem fusão com B001/B019/B034/B036/B041. “Xadrez Cósmico” → Colecionar Incertezas.
+
+### Devolutiva B048 aplicada (2026-08-24)
+
+- O-1 confirmado (é B048; copyright 2019 × 1ª ed. 2013 = `[REVISAR]`; BIBLIO intocada); O-2: 9 fichas ampliadas (RC-332, RC-333, RC-334, RC-335, RC-047, RC-001 + opcional RC-052, RC-149, **RC-245** com B048 nas fontes); O-3: zero códigos; RC-063/099/190/336–341 não materializadas; O-4: Vaticano, fundamentalismos e plano de império fora; “Xadrez Cósmico” → Colecionar Incertezas; *A Evolução Possível* = remissão a B019; O-5: B001/B002/B033, B019, B034, B036 e B041 intactas; **O-6: BIBLIO intocada**; O-7: quarentena clínica (“doença do primeiro impulso” / “psiquismo neurótico” / “DNA doentio” = leitura, jamais diagnóstico) + político-geopolítica, teológica, ufológica, científica, biográfica (infarto dez/2011), institucional; O-8: pasta em `livros/CONCLUIDOS/B048_favor_divino/`. Sem apostila.
+- **Colecionar Incertezas (novos):** “Xadrez Cósmico” (p. 43 — título anunciado; RC-150 já existe por B024 — **não fundir**); palestra/curso “Favor Divino: Tempo de Ruptura” / “Favor Divino II” (IEEA).
 
 ## Fase 2 — B042 *Crônicas de um Novo Tempo* (abertura 2026-08-24)
 

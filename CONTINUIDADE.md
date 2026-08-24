@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B048 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B048 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B048 *Favor Divino* (abertura 2026-08-24)
@@ -10,6 +10,11 @@
 - Extract paginado: ~34.197 palavras; SHA-256 `86020bcbd6dd91cf585903b99d5b223f26cc99f3c351e4baa8281d97a885d7d6`. p. 1 sem texto.
 - 20 termos já citam B048; 11 com ficha. Dossiê sugere ampliar RC-332, RC-333, RC-334, RC-335, RC-047, RC-001. **0 códigos.** RC-063/099/190/336–341 sem ficha — não materializar.
 - IEEA/Orbum/roteiro fora. Quarentena clínica da “doença” de Javé. Sem fusão com B001/B019/B034/B036/B041. “Xadrez Cósmico” → Colecionar Incertezas.
+
+### Devolutiva B048 aplicada (2026-08-24)
+
+- O-1 confirmado (é B048; copyright 2019 × 1ª ed. 2013 = `[REVISAR]`; BIBLIO intocada); O-2: 9 fichas ampliadas (RC-332, RC-333, RC-334, RC-335, RC-047, RC-001 + opcional RC-052, RC-149, **RC-245** com B048 nas fontes); O-3: zero códigos; RC-063/099/190/336–341 não materializadas; O-4: Vaticano, fundamentalismos e plano de império fora; “Xadrez Cósmico” → Colecionar Incertezas; *A Evolução Possível* = remissão a B019; O-5: B001/B002/B033, B019, B034, B036 e B041 intactas; **O-6: BIBLIO intocada**; O-7: quarentena clínica (“doença do primeiro impulso” / “psiquismo neurótico” / “DNA doentio” = leitura, jamais diagnóstico) + político-geopolítica, teológica, ufológica, científica, biográfica (infarto dez/2011), institucional; O-8: pasta em `livros/CONCLUIDOS/B048_favor_divino/`. Sem apostila.
+- **Colecionar Incertezas (novos):** “Xadrez Cósmico” (p. 43 — título anunciado; RC-150 já existe por B024 — **não fundir**); palestra/curso “Favor Divino: Tempo de Ruptura” / “Favor Divino II” (IEEA).
 
 ## Fase 2 — B042 *Crônicas de um Novo Tempo* (abertura 2026-08-24)
 

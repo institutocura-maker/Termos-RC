@@ -25,6 +25,14 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 - **[B024 p. 110]** os Adhyatman de Perpérion “desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava” — os dois processos tiveram lugar. Situação residual: (a) Brahma/Javé “não tinha alma”; (b) alguns clones passaram a ser estruturados com alma, ainda “robôs” da vontade de Javé. RC-012 / RC-013 / RC-100 permanecem **sem ficha**.
 - **[B024 p. 111]** muitas mônadas imantadas na gênese a vegetais e animais irracionais “se encontram na posição de espíritos agora ‘imantados’ em corpos humanos”. A epopeia de cada alma é “trajetória histórica” ainda por descortinar.
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 11]** favor = cessão das mônadas espirituais da Deidade às formas-ferramentas.
+- **[B048 p. 15]** a Deidade “passou a emprestar almas, espíritos, mônadas espirituais… para dar estrutura a cada ‘ser vivo’ gerado pelo criador.”
+- **[B048 p. 48]** mônadas “amorosas, ingênuas e incapacitadas de não amarem.”
+- **[B048 p. 70]** o favor “reside exatamente ‘nesses empréstimos de atores espirituais’ que dão vida aos corpos transitórios.” Sem fusão com B024. RC-063 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 17935 | 180 | a82efcf605df112cf5544b78488e2584383c052f59dcefe4ffef002d7a97787b
+# termos/RC-001-jave.md | 18700 | 188 | 1cc67249f2090d9c91aa611e157469086e11905c471081ba1f59ef48ab88d1f7
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 7142 | 79 | d734efe93b1effea8878e5b65c010bc5d10a819d465dd1e5e5f89c42c0ac9c33
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -20,9 +20,9 @@
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 3838 | 58 | c4b372355f127c9d214a1700b7d1566586803f8135cf259df4551e22dee2b1bb
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
-# termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 2711 | 50 | ad48b9b1a0d702b6e89ca8d5a8aa21af73a7127deca4c8b6d3e0647707e4356e
+# termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3262 | 57 | 75c3acc9b701da63287c6fd563d8a9d775c0d1f5abac84dc6def6635b10d18b3
 # termos/RC-049-demos.md | 3291 | 52 | 4d4ec7f96245c3d87da4b47ce2c4d4ec791615bf58d3b231cce8067b265ca228
-# termos/RC-052-deus-deus-incognoscivel.md | 2909 | 47 | 552b51347004421808ab173ba64514b75bb308a66ac1f0d252206e58d81a9548
+# termos/RC-052-deus-deus-incognoscivel.md | 3381 | 54 | 77ce7f9e13c2c6b59443fd703e79c948a97b2d52b853b48f0d3191ea6ce41f24
 # termos/RC-055-en-drel.md | 2834 | 42 | 959fc5f0852f79bd883a076ce0e85cca0b0d64799409bccf3ab31803b87cb3c3
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
@@ -45,7 +45,7 @@
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
 # termos/RC-147-zont-en-drel-29.md | 3200 | 47 | b4b24bcc990b11f9e76df79116dc9d191ace4f86e6f1154efc6a92efd103392a
 # termos/RC-148-agentes-da-vida-universal.md | 5350 | 63 | 86db7400b944963550b9bbfee0b244b5ce521e825b201f8851900771eb7ea0d6
-# termos/RC-149-monada-monada-espiritual.md | 4288 | 58 | 23b0e3474b87978e5cc7ec4caf6496c7775d2fc1a0d924c819d58bfb380c62f2
+# termos/RC-149-monada-monada-espiritual.md | 4862 | 66 | 92602fb6647ff9e93945fcaa7a767e4547aa6c113304618321acd5efffae47ba
 # termos/RC-150-xadrez-cosmico.md | 2488 | 42 | 986e22a28950d0342b890839d38b324db8fae30317f5cdecd07c81e2f19c510a
 # termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 5418 | 72 | 507e9382c869e30908a851e7e781190ef6bbbc12608e8300a4e04ecf46a398db
 # termos/RC-152-prabrajna.md | 12264 | 117 | bbb3baaa5509f58c99aa60698007fddce2967c679168182b26cdca1514f05f81
@@ -79,7 +79,7 @@
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 4018 | 53 | 4b64bfa51772d99be0e80d387bdd3f0ef12ea17480c5d083729c19e501ec345a
 # termos/RC-243-genetica-da-confianca.md | 2626 | 41 | cee8949465b59e78f3e61fe601b6f6f9ac69c725bee6fe041dc7647e817e3c2d
-# termos/RC-245-a-humanizacao-do-criador.md | 3432 | 49 | ec28d85bd204431697c4e3a9359ff5b84af33bb4020ebdbfed0e089a228c7784
+# termos/RC-245-a-humanizacao-do-criador.md | 4129 | 56 | e8edc36e6b09da69ba0a956343fccfba04d9086bcb433f220bc2d310dfc5bb90
 # termos/RC-252-olm-codificador-de-zion-zian.md | 4581 | 65 | e8a1c5fae995a48b7386cb63773866e00dbb76f1a1aff43704baf2ce934c6a3f
 # termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4103 | 58 | 4e6e8a3fadb831cdb5fb73d914d2c47cd92a4a13b50f6af3e423f33fa1e1540a
 # termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 3389 | 48 | 756831c2226008c6a7bc8338336d53c20d195e902f29c45af49ddbca8a4d783d
@@ -120,10 +120,10 @@
 # termos/RC-325-genetica-totalitaria.md | 2924 | 45 | 57483b284da859d85cb0dba742337b9d15ff564bc3e57bf4b5c9eb030714f4e4
 # termos/RC-328-imperativo-categorico-da-moral.md | 3156 | 49 | 0880fc79a4677881ed548a9ae1cf4ec540efba40644c220527f5f24df337da14
 # termos/RC-329-kumari-kandan-tradicao.md | 2173 | 44 | 5cb5c4e48c796a88b524f5e3bd2768b1be357deeba45b856d7a13263c48d5e9e
-# termos/RC-332-favor-divino-conceito-invertido.md | 4984 | 67 | 3bd45640357c380c472952ba7b1b9662502220d69daa804541861f6dc43c2696
-# termos/RC-333-democracia-do-amor-da-deidade.md | 2709 | 42 | 49507db0cdca5919a5bc75883262280c2ab521833d468b078a16afcf17e0702c
-# termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 2597 | 42 | 243105e2cfb9a2258bc4c84b7b2bfef4824b738e9e65172a4c29fd75621c83db
-# termos/RC-335-lavagem-cerebral-condicionamento.md | 3158 | 47 | 90cf84505d0141f1b147a8a5a962477f14576aa1f999e69d36d762c4ecf1ad11
+# termos/RC-332-favor-divino-conceito-invertido.md | 5932 | 74 | e26d8dd2aae1c46cb129b1fb0206aa7ef20d3ae2958e7db871baeb5ce48ddd88
+# termos/RC-333-democracia-do-amor-da-deidade.md | 3348 | 49 | b5b598e7ad8ac2e46bdfe39641fdd630946f5f02741f5f617272324c7ba92a47
+# termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 3265 | 49 | 09dd41a19f05f5710e539b7dde79994a332428e7716277ae4fc89804d9c87b3b
+# termos/RC-335-lavagem-cerebral-condicionamento.md | 3765 | 54 | 96813d1c2679ec6812ab0fb4a9eb22a3bc1c6c52b1d1e7048bd47e73d325aac5
 # termos/RC-342-quarentena-sideral-cosmica.md | 5068 | 57 | 56040246fd317325ce40ad268084ac3bb3954d8a233dfacba3d7ec547638b592
 # termos/RC-346-jeova-grafia-da-trilogia.md | 2581 | 43 | c05c1cfcb4132ef0841d36970871d413eb3b165765718612060588d0fa915c6e
 # termos/RC-355-fator-extraterrestre-o-elo-perdido.md | 3042 | 48 | 77a1949f081b284ee5ebf29f3e398e96a0a31fc5778ad269a9552e118b66d794
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1514045 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1519966 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -533,6 +533,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B034 p. 54]** confirma, na própria voz, o “terminal nervoso” dito pela missivista: cada criatura é terminal do “eu incomensurável”. RC-418 permanece **sem ficha**.
 - **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos”; “Humanizo-me, porém, a cada momento”; não pode mais comandar razão filosófica, senso crítico, tolerância e capacidade de amar — “Terei o alimento que me derem”. Sem fusão com B036 / B044.
 - Cartas de Mônica (p. 7–44) = **voz da missivista, isolada**; não entram na ontologia deste nó.
+
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 18]** voz de Javé (`* Y H V H *`): “Não aceito o fato de que sou recebedor de um ‘favor divino’… Isso não pode ser e, portanto, não posso aceitá-la!”
+- **[B048 p. 26]** “Sou o que sou e não posso ser diferente. Fiz-me de mim mesmo e nada devo a outrem.”
+- **[B048 p. 49–50]** “não existe a tal democracia espiritual”; “Eu mesmo me criei…” — Ellam distingue o corpo holográfico do espírito apartado do Sagrado.
+- **Quarentena clínica** (“doença do primeiro impulso”, p. 10; “nasceu adoentado”, p. 15). Tetragrama no pseudônimo (p. 19) e infarto dez/2011 (p. 46) = **biográfica**. Plano de império (p. 42–45) = **político, fora**. Sem fusão com B034 / B036.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1503,6 +1511,13 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **Grafia preferida:** Deidade
 - **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 31]** “Deidade ser somente amor”; “A Deidade não interfere em coisa alguma e nem muito menos os Seus Prepostos Deificados.”
+- **[B048 p. 36]** “todo-poderoso”, “justiceiro”, “povo prometido” = “coisa de um ser chamado Brahma, Javé ou Alá, mas nada tem a ver com a Deidade”; Esta “dá algo de si” (*atma*).
+- **[B048 p. 47–48]** Pai-Mãe Amantíssimo; mônadas com liberdade total. A ficha deixava de citar a obra primária (só B031). Sem fusão com B001 / B002.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1613,6 +1628,13 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 ## Ampliação — P2024-11-09
 
 - **Deus (P2024-11-09):** "uma consciência cósmica e espiritual, tipo Deus, que pudesse existir para além das fronteiras da criação caótica... jamais deu qualquer passo no sentido de resolver o impasse gerado. Tanto que o buraco negro mental emergiu e está acelerando ainda mais o colapso do universo vizinho. E, de novo, esse Deus que existe lá naquele nível espiritual nunca fez nada, mas ele existe. Mas, como eu disse, pro caos é uma majestosa inutilidade. Nós, os humanos, é que temos que fazer o trabalho sujo".
+
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 13]** “o único e verdadeiro Deus, o Incognoscível, Aquele verdadeiramente Sagrado e doador de toda existência.”
+- **[B048 p. 67]** “o único e verdadeiro Deus Pai-Mãe Amoroso, o Incognoscível, o Eterno, o Incriado”; “não tem entre os seus atributos” a imposição pela força.
+- Distinção Javé ≠ Incognoscível. Sem fusão com B043 / B019. A ficha deixava de citar a obra primária (só B031).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3271,6 +3293,14 @@ A doutrina espírita explica que todos os espíritos foram criados simples e ign
 - **[B024 p. 108–109]** nada existe na Criação “indevida”, em Perpérion ou na Espiritualidade Superior, sem uma “mônada espiritual” estruturando o corpo — “pedra, planta, animal ou mesmo um robô”. A Espiritualidade Superior “começou a dar de si mônadas” para estruturar os clones que Brahma criava.
 - **[B024 p. 110]** os Adhyatman de Perpérion “desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas, para imantá-las nos seres que Brahma criava” — os dois processos tiveram lugar. Situação residual: (a) Brahma/Javé “não tinha alma”; (b) alguns clones passaram a ser estruturados com alma, ainda “robôs” da vontade de Javé. RC-012 / RC-013 / RC-100 permanecem **sem ficha**.
 - **[B024 p. 111]** muitas mônadas imantadas na gênese a vegetais e animais irracionais “se encontram na posição de espíritos agora ‘imantados’ em corpos humanos”. A epopeia de cada alma é “trajetória histórica” ainda por descortinar.
+
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 11]** favor = cessão das mônadas espirituais da Deidade às formas-ferramentas.
+- **[B048 p. 15]** a Deidade “passou a emprestar almas, espíritos, mônadas espirituais… para dar estrutura a cada ‘ser vivo’ gerado pelo criador.”
+- **[B048 p. 48]** mônadas “amorosas, ingênuas e incapacitadas de não amarem.”
+- **[B048 p. 70]** o favor “reside exatamente ‘nesses empréstimos de atores espirituais’ que dão vida aos corpos transitórios.” Sem fusão com B024. RC-063 permanece **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5345,6 +5375,13 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 - **[B036 p. 6]** as crônicas são apresentadas como “uma das matérias do seu ‘curso de humanização’”.
 - **[B036 p. 9]** Javé: o favor divino é refletido “com o uso da minha parcela de humanização que já possuo, processo este que, hoje sei, vem sendo utilizado pelos que me amam… para que a minha natureza possa mais ainda ‘se humanizar’, como forma de evoluir em decência e em dignidade existencial”.
 - Sem fusão com B015. “Doente” (p. 9) permanece na ficha RC-422, com a mesma **quarentena clínica**.
+
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 18]** via a ponte do DNA, “alimentação vibratória” necessária ao processo de “humanização” ou de “redivinização”.
+- **[B048 p. 23–24]** Constatação: a “máquina de pensar” Brahma/Javé/Alá processa informações mas não “o significado mental das coisas”; “O processo de ‘humanização da sua natureza pessoal’… influenciá-lo, por meio da ponte do seu DNA.” **Quarentena clínica + científica.**
+- **[B048 p. 67]** humanização = “plano de outras divindades posto em curso”; “recaídas” quando se sente conduzido. Sem fusão com B015 / B036. Fonte **B048** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7540,6 +7577,13 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **[B034 p. 46]** Javé agradece à missivista a “oportunidade que me foi negada por tantos” — só recebia “homenagens em salmos, orações, pedidos”.
 - **[B034 p. 66]** já não comanda o amar dos humanos: “Terei o alimento que me derem”; “tempo haverá que não mais será o sabor da prece e da veneração o paladar que terei que sorver”. Sem fusão com B048 / B041.
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 11]** Constatação: “São nossos espíritos que, ao assumirem as formas-ferramentas geradas a partir do DNA doentio do criador, expressam o favor amoroso da Deidade concedido a uma divindade caída, através da cessão das suas mônadas espirituais.” **Quarentena clínica** (“DNA doentio” = leitura, jamais diagnóstico).
+- **[B048 p. 15]** Constatação: “Somos nós e os demais seres deste universo, quem fazemos cumprir o único e verdadeiro ‘favor divino’… a Deidade fez e ainda faz a uma das suas divindades menores, que gerou uma ‘criação indevida’.”
+- **[B048 p. 65–66]** o termo é “provocação”: “O ‘favor divino’ que aqui utilizo tem como objetivo apenas o de provocar o entendimento do (a) leitor (a)”; o gesto da Deidade “em lugar nenhum é visto como um ‘favor’”. RC-063 permanece **sem ficha**. Sem fusão com B041 / B034 / B036.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7590,6 +7634,13 @@ A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é
 - **Grafia preferida:** Democracia do Amor da Deidade
 - **Variações:** democracia do amor; ministério amoroso da Deidade; amor incondicional da Deidade
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 47]** “liberdade total que a Deidade… concede à personalidade destes… sem jamais obrigar ou impor coisa alguma a quem quer que seja.”
+- **[B048 p. 48]** “Quem é somente amor… é incapaz de… impor ou limitar a atitude de quem quer que seja”; “O que dele é emanado são mônadas amorosas, ingênuas e incapacitadas de não amarem”; “marca da democracia amorosa da Deidade em todos os seres criados.”
+- Contraste com a Teocracia (RC-334) no mesmo capítulo. “Submissão doentia” permanece na ficha RC-334, com **quarentena clínica**. Sem fusão com B031.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7634,6 +7685,13 @@ O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Te
 - **Grafia preferida:** Teocracia da Doença de uma Divindade
 - **Variações:** teocracia da doença; ditadura doentia do Criador; regime de submissão de Javé
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 47]** “submissão doentia exigida pelo Senhor Javé”; “o problema reside na sua doença psíquica, trauma maior da sua queda” — **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B048 p. 49]** o comportamento ditatorial “mantém vivo” o reconstrutor de um reino; “doente que desconhece o seu próprio estado” = mesma quarentena.
+- **[B048 p. 72]** a vontade “somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo”; “jogo da cobrança”. RC-336 / RC-339 permanecem **sem ficha**. Plano imperial / povo eleito (p. 42–45) = **político, fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7677,6 +7735,13 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 ## Etimologia / Grafias
 - **Grafia preferida:** Lavagem Cerebral
 - **Variações:** condicionamento; lavagem cerebral imposta; adestramento; "descondicione-se" (imperativo de Ellam)
+
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 6]** Introdução: a lavagem cerebral “foi e ainda é parte de uma etapa necessária de um processo maior”. Atlan, 20/06/2012.
+- **[B048 p. 14]** “existiram e existem muitas ‘lavagens cerebrais’” que motivam ofertas “em troca de ‘favores divinos’”; não é desse tipo de favor que o livro trata.
+- **[B048 p. 76]** Constatação: “Esta humanidade sempre foi mantida sob perene processo de lavagem cerebral, por meio de algumas visões religiosas — não todas.” Vaticano (p. 7) e fundamentalismo (p. 10) = **política, fora**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

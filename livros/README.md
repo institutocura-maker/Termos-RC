@@ -46,4 +46,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B042_cronicas_de_um_novo_tempo` — Devolutiva aplicada (2026-08-24); 7 fichas (RC-094, RC-005, RC-003, RC-536, RC-274, RC-355, RC-342); Parte IV e 11-setembro fora; 0 códigos; BIBLIO intocada. Sem apostila.
 
-`B048_favor_divino` — ciclo em andamento (2026-08-24); dossiê enxuto aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada. Fora de CONCLUIDOS.
+`CONCLUIDOS/B048_favor_divino` — Devolutiva aplicada (2026-08-24); 9 fichas (RC-332, RC-333, RC-334, RC-335, RC-047, RC-001, RC-052, RC-149, RC-245); B048 nas fontes de RC-245; 0 códigos; BIBLIO intocada. Sem apostila.

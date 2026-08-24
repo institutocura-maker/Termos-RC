@@ -93,6 +93,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos”; “Humanizo-me, porém, a cada momento”; não pode mais comandar razão filosófica, senso crítico, tolerância e capacidade de amar — “Terei o alimento que me derem”. Sem fusão com B036 / B044.
 - Cartas de Mônica (p. 7–44) = **voz da missivista, isolada**; não entram na ontologia deste nó.
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 18]** voz de Javé (`* Y H V H *`): “Não aceito o fato de que sou recebedor de um ‘favor divino’… Isso não pode ser e, portanto, não posso aceitá-la!”
+- **[B048 p. 26]** “Sou o que sou e não posso ser diferente. Fiz-me de mim mesmo e nada devo a outrem.”
+- **[B048 p. 49–50]** “não existe a tal democracia espiritual”; “Eu mesmo me criei…” — Ellam distingue o corpo holográfico do espírito apartado do Sagrado.
+- **Quarentena clínica** (“doença do primeiro impulso”, p. 10; “nasceu adoentado”, p. 15). Tetragrama no pseudônimo (p. 19) e infarto dez/2011 (p. 46) = **biográfica**. Plano de império (p. 42–45) = **político, fora**. Sem fusão com B034 / B036.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

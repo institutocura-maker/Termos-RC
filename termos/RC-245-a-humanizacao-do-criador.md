@@ -24,6 +24,13 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 - **[B036 p. 9]** Javé: o favor divino é refletido “com o uso da minha parcela de humanização que já possuo, processo este que, hoje sei, vem sendo utilizado pelos que me amam… para que a minha natureza possa mais ainda ‘se humanizar’, como forma de evoluir em decência e em dignidade existencial”.
 - Sem fusão com B015. “Doente” (p. 9) permanece na ficha RC-422, com a mesma **quarentena clínica**.
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 18]** via a ponte do DNA, “alimentação vibratória” necessária ao processo de “humanização” ou de “redivinização”.
+- **[B048 p. 23–24]** Constatação: a “máquina de pensar” Brahma/Javé/Alá processa informações mas não “o significado mental das coisas”; “O processo de ‘humanização da sua natureza pessoal’… influenciá-lo, por meio da ponte do seu DNA.” **Quarentena clínica + científica.**
+- **[B048 p. 67]** humanização = “plano de outras divindades posto em curso”; “recaídas” quando se sente conduzido. Sem fusão com B015 / B036. Fonte **B048** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

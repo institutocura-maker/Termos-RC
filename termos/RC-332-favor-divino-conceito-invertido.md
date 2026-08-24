@@ -36,6 +36,13 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **[B034 p. 46]** Javé agradece à missivista a “oportunidade que me foi negada por tantos” — só recebia “homenagens em salmos, orações, pedidos”.
 - **[B034 p. 66]** já não comanda o amar dos humanos: “Terei o alimento que me derem”; “tempo haverá que não mais será o sabor da prece e da veneração o paladar que terei que sorver”. Sem fusão com B048 / B041.
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 11]** Constatação: “São nossos espíritos que, ao assumirem as formas-ferramentas geradas a partir do DNA doentio do criador, expressam o favor amoroso da Deidade concedido a uma divindade caída, através da cessão das suas mônadas espirituais.” **Quarentena clínica** (“DNA doentio” = leitura, jamais diagnóstico).
+- **[B048 p. 15]** Constatação: “Somos nós e os demais seres deste universo, quem fazemos cumprir o único e verdadeiro ‘favor divino’… a Deidade fez e ainda faz a uma das suas divindades menores, que gerou uma ‘criação indevida’.”
+- **[B048 p. 65–66]** o termo é “provocação”: “O ‘favor divino’ que aqui utilizo tem como objetivo apenas o de provocar o entendimento do (a) leitor (a)”; o gesto da Deidade “em lugar nenhum é visto como um ‘favor’”. RC-063 permanece **sem ficha**. Sem fusão com B041 / B034 / B036.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

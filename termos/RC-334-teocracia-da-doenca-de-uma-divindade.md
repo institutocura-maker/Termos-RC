@@ -17,6 +17,13 @@ O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Te
 - **Grafia preferida:** Teocracia da Doença de uma Divindade
 - **Variações:** teocracia da doença; ditadura doentia do Criador; regime de submissão de Javé
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 47]** “submissão doentia exigida pelo Senhor Javé”; “o problema reside na sua doença psíquica, trauma maior da sua queda” — **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B048 p. 49]** o comportamento ditatorial “mantém vivo” o reconstrutor de um reino; “doente que desconhece o seu próprio estado” = mesma quarentena.
+- **[B048 p. 72]** a vontade “somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo”; “jogo da cobrança”. RC-336 / RC-339 permanecem **sem ficha**. Plano imperial / povo eleito (p. 42–45) = **político, fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -17,6 +17,13 @@ A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é
 - **Grafia preferida:** Democracia do Amor da Deidade
 - **Variações:** democracia do amor; ministério amoroso da Deidade; amor incondicional da Deidade
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 47]** “liberdade total que a Deidade… concede à personalidade destes… sem jamais obrigar ou impor coisa alguma a quem quer que seja.”
+- **[B048 p. 48]** “Quem é somente amor… é incapaz de… impor ou limitar a atitude de quem quer que seja”; “O que dele é emanado são mônadas amorosas, ingênuas e incapacitadas de não amarem”; “marca da democracia amorosa da Deidade em todos os seres criados.”
+- Contraste com a Teocracia (RC-334) no mesmo capítulo. “Submissão doentia” permanece na ficha RC-334, com **quarentena clínica**. Sem fusão com B031.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

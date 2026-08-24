@@ -22,6 +22,13 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 
 - **Deus (P2024-11-09):** "uma consciência cósmica e espiritual, tipo Deus, que pudesse existir para além das fronteiras da criação caótica... jamais deu qualquer passo no sentido de resolver o impasse gerado. Tanto que o buraco negro mental emergiu e está acelerando ainda mais o colapso do universo vizinho. E, de novo, esse Deus que existe lá naquele nível espiritual nunca fez nada, mas ele existe. Mas, como eu disse, pro caos é uma majestosa inutilidade. Nós, os humanos, é que temos que fazer o trabalho sujo".
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 13]** “o único e verdadeiro Deus, o Incognoscível, Aquele verdadeiramente Sagrado e doador de toda existência.”
+- **[B048 p. 67]** “o único e verdadeiro Deus Pai-Mãe Amoroso, o Incognoscível, o Eterno, o Incriado”; “não tem entre os seus atributos” a imposição pela força.
+- Distinção Javé ≠ Incognoscível. Sem fusão com B043 / B019. A ficha deixava de citar a obra primária (só B031).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

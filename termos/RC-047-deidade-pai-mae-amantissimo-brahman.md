@@ -17,6 +17,13 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **Grafia preferida:** Deidade
 - **Variações:** Pai-Mãe Amantíssimo; Ser Supremo; Brahman; Deus Incognoscível; Fonte
 
+
+## Ampliação — B048 (Favor Divino)
+
+- **[B048 p. 31]** “Deidade ser somente amor”; “A Deidade não interfere em coisa alguma e nem muito menos os Seus Prepostos Deificados.”
+- **[B048 p. 36]** “todo-poderoso”, “justiceiro”, “povo prometido” = “coisa de um ser chamado Brahma, Javé ou Alá, mas nada tem a ver com a Deidade”; Esta “dá algo de si” (*atma*).
+- **[B048 p. 47–48]** Pai-Mãe Amantíssimo; mônadas com liberdade total. A ficha deixava de citar a obra primária (só B031). Sem fusão com B001 / B002.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
