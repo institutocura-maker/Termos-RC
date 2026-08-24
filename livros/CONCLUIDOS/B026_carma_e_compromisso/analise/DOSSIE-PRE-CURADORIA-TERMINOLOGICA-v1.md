@@ -4,6 +4,8 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Livro 3/3 Queda e Ascensão. B003 e B025 = remissão.**
 
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 3 fichas (só p. 206 + 427–428). ZERO códigos. Pasta em `livros/CONCLUIDOS/`. **Trilogia Queda e Ascensão encerrada.**
+
 ---
 
 ## O-1 · Identidade da obra

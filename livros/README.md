@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B026_carma_e_compromisso/` — piloto aberto (2026-08-24); ingresso + dossiê enxuto; 0 códigos; BIBLIO intocada (`trabalhada`). Este ciclo = Livro III (págs 197–428). Aguarda Devolutiva O-1..O-8. **Não** fundir com B003 / B025. Corpo dos mentores = isolado. Editores p. 204–205 = não âncora.
+*(nenhum ciclo integral em andamento.)*
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
@@ -80,4 +80,6 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B003_reintegracao_cosmica` — Devolutiva aplicada (2026-08-24); 4 fichas (RC-003, RC-070, RC-342, RC-072) só paratexto assinado; 0 códigos; BIBLIO intocada. Corpo ditado isolado. Sem apostila.
 
-`CONCLUIDOS/B025_caminhos_espirituais` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 108–109; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. B026 na gaveta. Sem apostila.
+`CONCLUIDOS/B025_caminhos_espirituais` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 108–109; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. Sem apostila.
+
+`CONCLUIDOS/B026_carma_e_compromisso` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 206 + fecho p. 427–428; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. Editores p. 204–205 = não âncora. Trilogia Queda e Ascensão encerrada. Sem apostila.

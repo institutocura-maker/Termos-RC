@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (piloto B026 — ingresso e dossiê enxuto; 0 códigos)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B026 aplicada — 3 fichas, 0 códigos; trilogia Queda e Ascensão encerrada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B026 *Carma e Compromisso* (abertura 2026-08-24) — **livro 3/3 Queda e Ascensão**
@@ -10,6 +10,10 @@
 - Extract do Livro III: ~81.941 palavras; SHA-256 `2d88ee7150c72e350ad6a885263013241ba1d85daadf7263e637c499113e8f49`. p. 199 sem texto.
 - **14 termos já citam B026**; 8 com ficha. Dossiê sugere só a voz de Ellam (Esclarecimento p. 206 + fecho p. 427–428): RC-003, RC-072, RC-070. **0 códigos.** Partes I–VI + *Passado e Presente* = isolados. RC-347/090/348/354 sem ficha.
 - p. 204–205 = «Os editores» — não âncora. Hitler (p. 332) = político + isolado — fora. Fecho «Reptiliano Grey» = `[REVISAR]`. Lemma Javé = 0.
+
+### Devolutiva B026 aplicada (2026-08-24)
+
+- O-1 confirmado (Livro III = págs 197–428; ASCENÇÃO / Ascensao / yannicksaurin / Reptiliano Grey = `[REVISAR]`); O-2: 3 fichas ampliadas (**RC-003**, **RC-072**, **RC-070**) só Esclarecimento p. 206 + fecho p. 427–428; p. 200 e p. 204–205 (editores) — não âncora; RC-346/078/001/002 **não** reancoradas a partir do corpo; RC-347/090/348/354 **não** materializadas; O-3: zero códigos; O-4: Partes I–VI + *Passado e Presente* isolados; Hitler / Nazismo (p. 331–332) fora; Jeová / Lúcifer / Orbum no corpo — não reancorar; O-5: B003, B025, B017, B018, B039, B009 e B033 intactas; O-6: **BIBLIO intocada** (`trabalhada` / no PDF da trilogia); O-7: quarentena mediúnica crítica + política, ufológica, teológica, institucional, clínica; O-8: `_ampliacoes_B026.txt` aplicado; pasta em `livros/CONCLUIDOS/B026_carma_e_compromisso/`. Sem apostila. Tabela-mestra intocada (B026 já constava nas 3). **Trilogia Queda e Ascensão encerrada.**
 
 ## Fase 2 — B025 *Caminhos Espirituais* (abertura 2026-08-24) — **livro 2/3 Queda e Ascensão; B026 fora**
 

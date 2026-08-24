@@ -79,6 +79,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B025 p. 108]** este trabalho «objetiva a complementação do anterior — Reintegração Cósmica», explicando pontos «antes apenas tocados de leve»; recomenda a leitura prévia de B003 — remissão, **não fundir**.
 - **[B025 p. 109]** «o que os amáveis mentores nos passam»; «amigos espirituais e de outros orbes»; «homem menor da Terra». **Quarentena mediúnica / ufológica.** Partes I–V **isoladas**. p. 105–106 sem assinatura — **não âncora**. Sem fusão com B003 / B026. Fonte **B025** já constava na tabela-mestra.
 
+
+## Ampliação — B026 (Carma e Compromisso)
+
+- **[B026 p. 206]** Esclarecimento (Atlan, 14/06/1996): o volume «complementando os livros anteriores, Reintegração Cósmica e Caminhos Espirituais, encerra-se a presente trilogia». Remissão a B003 / B025 — **não fundir**.
+- **[B026 p. 427]** fecho (J. V. Ellam): agradece quem passou «pelas páginas desta trilogia»; os erros «deverão ser corrigidos pelos reais autores». **Quarentena mediúnica.**
+- Partes I–VI e *Passado e Presente* **isolados**. p. 200 e p. 204–205 (editores) — **não âncora**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

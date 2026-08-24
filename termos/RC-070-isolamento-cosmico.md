@@ -42,6 +42,13 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B025 p. 108]** Esclarecimento: a humanidade está «congregada na Terra desde os exílios planetários sofridos no passado»; «quando os mundos rebelados passaram por suas reciclagens energéticas» o padrão «torna a ocorrer na atualidade».
 - A reintegração só após novo «exílio, para outros orbes» — **ufológica** (leitura, não facto). Partes I–V **isoladas**. Sem fusão com B003 / B033. Fonte **B025** já constava na tabela-mestra.
 
+
+## Ampliação — B026 (Carma e Compromisso)
+
+- **[B026 p. 206]** Esclarecimento: «Após o exílio e já congregados na Terra muitos milénios depois».
+- **[B026 p. 206]** «orgulho doentio» = **clínica** (leitura, jamais diagnóstico).
+- **[B026 p. 427]** «convivência clara e objetiva com os irmãos de outros orbes» = **ufológica** (leitura, não facto). Partes I–VI **isoladas**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

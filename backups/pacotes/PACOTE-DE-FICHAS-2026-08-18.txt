@@ -10,7 +10,7 @@
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # termos/RC-001-jave.md | 25229 | 244 | 6a089a753380cfe80ec4539b4d03150860c2ab84cb760a3c7aa6d5254199def0
 # termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
-# termos/RC-003-reintegracao-cosmica.md | 12198 | 122 | 57820cafcbdcca6776675b367747b5615d70cd38493bdb781099e2b8f576b6fc
+# termos/RC-003-reintegracao-cosmica.md | 12842 | 129 | 3f1975d6eb8c44ba999160c3dce5767694e368872d35394789d6a5f0c516d751
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 6247 | 93 | 075010250faf15344ad22fa553cbea13a465b33ef7b054ed20cbc58c854c0f8f
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
@@ -27,8 +27,8 @@
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
-# termos/RC-070-isolamento-cosmico.md | 5639 | 76 | 4cfac9dbd2fe1f61cd41f2735cfefe69c1fb71ce691ac675fcd090cdebb93f82
-# termos/RC-072-jesus.md | 21876 | 206 | 2523601e63a53559313318e4b163c8f5f1457ebaefc2d15341d8c65f400f17d8
+# termos/RC-070-isolamento-cosmico.md | 6110 | 83 | 010e3185c02166175d66da0c12175424c833168c5ad397a88918261d4db77ba4
+# termos/RC-072-jesus.md | 22522 | 213 | fb0c9b2b979d63444105f228624da9635a1169cb5f39b898bd208ddd3dc1fce5
 # termos/RC-074-len-mion-sata.md | 3183 | 58 | 7b49a61bda4aaf425ee0948d618d64b78fb1132cabf2f6012c58cfa02e5e8977
 # termos/RC-078-lucifer-yel-luzbel.md | 5662 | 73 | ad5401d8adc0719b99013fe2390231a48eb309dee4d9263889152d8c51206e6b
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1592192 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1593953 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -832,6 +832,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B025 p. 108]** Esclarecimento (Atlan, 02/09/1994): «a Terra somente poderá ser reintegrada à convivência cósmica após o exílio, para outros orbes, dos irmãos terráqueos ainda empedernidos em posturas violentas de desamor e intolerância».
 - **[B025 p. 108]** este trabalho «objetiva a complementação do anterior — Reintegração Cósmica», explicando pontos «antes apenas tocados de leve»; recomenda a leitura prévia de B003 — remissão, **não fundir**.
 - **[B025 p. 109]** «o que os amáveis mentores nos passam»; «amigos espirituais e de outros orbes»; «homem menor da Terra». **Quarentena mediúnica / ufológica.** Partes I–V **isoladas**. p. 105–106 sem assinatura — **não âncora**. Sem fusão com B003 / B026. Fonte **B025** já constava na tabela-mestra.
+
+
+## Ampliação — B026 (Carma e Compromisso)
+
+- **[B026 p. 206]** Esclarecimento (Atlan, 14/06/1996): o volume «complementando os livros anteriores, Reintegração Cósmica e Caminhos Espirituais, encerra-se a presente trilogia». Remissão a B003 / B025 — **não fundir**.
+- **[B026 p. 427]** fecho (J. V. Ellam): agradece quem passou «pelas páginas desta trilogia»; os erros «deverão ser corrigidos pelos reais autores». **Quarentena mediúnica.**
+- Partes I–VI e *Passado e Presente* **isolados**. p. 200 e p. 204–205 (editores) — **não âncora**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2165,6 +2172,13 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B025 p. 108]** Esclarecimento: a humanidade está «congregada na Terra desde os exílios planetários sofridos no passado»; «quando os mundos rebelados passaram por suas reciclagens energéticas» o padrão «torna a ocorrer na atualidade».
 - A reintegração só após novo «exílio, para outros orbes» — **ufológica** (leitura, não facto). Partes I–V **isoladas**. Sem fusão com B003 / B033. Fonte **B025** já constava na tabela-mestra.
 
+
+## Ampliação — B026 (Carma e Compromisso)
+
+- **[B026 p. 206]** Esclarecimento: «Após o exílio e já congregados na Terra muitos milénios depois».
+- **[B026 p. 206]** «orgulho doentio» = **clínica** (leitura, jamais diagnóstico).
+- **[B026 p. 427]** «convivência clara e objetiva com os irmãos de outros orbes» = **ufológica** (leitura, não facto). Partes I–VI **isoladas**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -2361,6 +2375,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **[B025 p. 109]** Esclarecimento: «Que o Bom Amigo e Mestre Jesus nos dê a Sua Paz.»
 - O ditado veio «sob inspiração» dos mentores; Ellam é o «homem menor da Terra» por quem a Espiritualidade Maior tenta «falar das coisas do céu». **Quarentena mediúnica.** Os capítulos do corpo sobre a vinda e os mestres **isolados**. Sem materializar RC-350 / RC-352. Sem fusão com B003 / B005. Fonte **B025** já constava na tabela-mestra.
+
+
+## Ampliação — B026 (Carma e Compromisso)
+
+- **[B026 p. 206]** Esclarecimento: quatro individualidades do exílio estavam, no Gólgota, «encarnadas nas personagens dos dois zelotes crucificados ao lado de Jesus, do centurião romano que comandou a crucificação e um dos que O seguiam mais de perto. Não O reconheceram!»
+- **[B026 p. 206]** hoje «desejosos de por Ele trabalharem»; «convocados pelo amor de Jesus que a todos abraça»; «Que a Sua paz seja conosco!»
+- *Passado e Presente* (1ª pessoa do centurião) **isolado**. Sem extrair a dedicatória. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
 ## Fontes
 

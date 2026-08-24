@@ -161,6 +161,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B025 p. 109]** Esclarecimento: «Que o Bom Amigo e Mestre Jesus nos dê a Sua Paz.»
 - O ditado veio «sob inspiração» dos mentores; Ellam é o «homem menor da Terra» por quem a Espiritualidade Maior tenta «falar das coisas do céu». **Quarentena mediúnica.** Os capítulos do corpo sobre a vinda e os mestres **isolados**. Sem materializar RC-350 / RC-352. Sem fusão com B003 / B005. Fonte **B025** já constava na tabela-mestra.
 
+
+## Ampliação — B026 (Carma e Compromisso)
+
+- **[B026 p. 206]** Esclarecimento: quatro individualidades do exílio estavam, no Gólgota, «encarnadas nas personagens dos dois zelotes crucificados ao lado de Jesus, do centurião romano que comandou a crucificação e um dos que O seguiam mais de perto. Não O reconheceram!»
+- **[B026 p. 206]** hoje «desejosos de por Ele trabalharem»; «convocados pelo amor de Jesus que a todos abraça»; «Que a Sua paz seja conosco!»
+- *Passado e Presente* (1ª pessoa do centurião) **isolado**. Sem extrair a dedicatória. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
