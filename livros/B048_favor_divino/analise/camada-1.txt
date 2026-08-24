@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-24): décimo-quarto livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042).
+PDF entregue em uploads_recepcao/ pelo curador (push ee327bb no branch da sessão).
+Obra já na BIBLIO como B048 (trabalhada; 106 págs e ISBN já descritos). Primeiro original arquivado no workspace.
+20 termos já citam B048; 11 com ficha. Núcleo: RC-332 / RC-333 / RC-334 / RC-335.
+IEEA / Orbum / roteiro (p. 91–106) fora. Quarentena clínica da “doença” de Javé inegociável.
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B042 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B048 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B048 *Favor Divino* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Favor Divino - Jan Val Ellam.pdf` (1.414.834 bytes; SHA-256 `b83c4552507582852ba78cabaffae368025895f39c68924341504875f3cb55c5`; 106 págs = **B048**). ISBN 978-85-62411-19-9 já na BIBLIO. Intro Atlan 20/06/2012; CIP 2013 (13-1221; CDD/CDU 133.9). Copyright 2019 × 1ª ed. 2013 = `[REVISAR]` de ano. **BIBLIO intocada.**
+- Ciclo em `livros/B048_favor_divino/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~34.197 palavras; SHA-256 `86020bcbd6dd91cf585903b99d5b223f26cc99f3c351e4baa8281d97a885d7d6`. p. 1 sem texto.
+- 20 termos já citam B048; 11 com ficha. Dossiê sugere ampliar RC-332, RC-333, RC-334, RC-335, RC-047, RC-001. **0 códigos.** RC-063/099/190/336–341 sem ficha — não materializar.
+- IEEA/Orbum/roteiro fora. Quarentena clínica da “doença” de Javé. Sem fusão com B001/B019/B034/B036/B041. “Xadrez Cósmico” → Colecionar Incertezas.
 
 ## Fase 2 — B042 *Crônicas de um Novo Tempo* (abertura 2026-08-24)
 

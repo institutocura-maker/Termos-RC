@@ -1,0 +1,22 @@
+{
+  "obra": "B048",
+  "titulo": "Favor Divino",
+  "subtitulo": "O Contexto Problemático que envolve a Vida Terrena",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2013 (copyright 2019; CIP 2013)",
+  "pdf_creditos": "Conectar Editora / 1ª ed. 2013 / Copyright 2019 / ISBN 978-85-62411-19-9 / CDD·CDU 133.9 / CIP 13-1221",
+  "divergencia_edicao": "PDF 106 págs e ISBN batem com BIBLIO; copyright 2019 × 1ª ed. 2013 = [REVISAR] de ano; intro Atlan 20/06/2012; CIP sem contagem de páginas impressas; lista de livros no fecho é de reedição (calibre 2022)",
+  "fonte_upload": "uploads_recepcao/Favor Divino - Jan Val Ellam.pdf",
+  "bytes_pdf": 1414834,
+  "sha256_pdf": "b83c4552507582852ba78cabaffae368025895f39c68924341504875f3cb55c5",
+  "paginas_pdf": 106,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 213512,
+  "sha256_original_txt": "86020bcbd6dd91cf585903b99d5b223f26cc99f3c351e4baa8281d97a885d7d6",
+  "palavras_approx": 34197,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-24",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada; pasta fora de CONCLUIDOS",
+  "codigos_consumidos": 0
+}

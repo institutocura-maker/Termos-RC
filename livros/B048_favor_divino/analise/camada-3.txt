@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B048_favor_divino/original.txt
+
+SHA-256 86020bcbd6dd91cf585903b99d5b223f26cc99f3c351e4baa8281d97a885d7d6
+Não duplicar aqui (214 KB). Página 1 = [página sem texto extraível].
+Sem marca d'água de conversor.
