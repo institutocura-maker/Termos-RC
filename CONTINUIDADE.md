@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B049 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B009 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Muito Além do Horizonte (a ligação entre Kardec, Ramatis e Rochester) - Jan Val Ellam.pdf` (2.428.255 bytes; SHA-256 `e1e8e033cdd26ff8c93037bc0c2476e6e9d5261f06add1613d36e0b859e71a18`; 376 págs = **B009**). CIP Zian 2001; créditos também Conectar = `[REVISAR]` de edição. ISBN 85-88584-01-08 = `[REVISAR]`. CDD/CDU 133.93. Prefácio Val Eom, Luanda, dez/2000. **BIBLIO intocada** (permanece `a confirmar`).
+- Ciclo em `livros/B009_muito_alem_do_horizonte/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~139.093 palavras; SHA-256 `a60005342d93e51bc6d3f012c53041c165e667ab0e8b527eb736f0c6001a2134`. p. 1 sem texto.
+- **0 termos citam B009.** Obra psicografada. Dossiê sugere ampliar só a partir da voz de Ellam (Posfácio p. 349–354): RC-094, RC-005, RC-072. **0 códigos.** RC-190 sem ficha — não materializar. Prefácio Val Eom e posfácios Ramatis/Rochester/Hercílio isolados.
+- Caps. 11–13 e IEEA/Orbum/roteiro fora. Sem fusão com B006/B003/B016.
 
 ## Fase 2 — B049 *Jesus e Nietzsche* (abertura 2026-08-24)
 

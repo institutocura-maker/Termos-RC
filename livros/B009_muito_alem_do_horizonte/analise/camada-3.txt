@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B009_muito_alem_do_horizonte/original.txt
+
+SHA-256 a60005342d93e51bc6d3f012c53041c165e667ab0e8b527eb736f0c6001a2134
+Não duplicar aqui (908 KB). Página 1 = [página sem texto extraível].
+Sem marca d'água de conversor.
