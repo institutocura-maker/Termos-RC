@@ -1,0 +1,7 @@
+Contexto de ingresso (2026-08-24): vigésimo item da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037, B049, B009, B035).
+PDF entregue em uploads_recepcao/ pelo curador (push 3e82bbd no branch da sessão).
+Obra já na BIBLIO como B027 (amostra recebida; Conectar; 2019; 14 págs; ISBN 978-85-62411-52-6). Primeiro original arquivado no workspace.
+9 termos já citam B027; 4 com ficha. Núcleo sugerido (só Esclarecimento de Ellam): RC-003 / RC-072.
+Caps. 4–13 e IEEA/Orbum/entrevista só no sumário — fora. Cap. 3 corta na p. 14.
+Quarentena mediúnica (instrumento / Gabriel e Tiago / Sócrates-Platão-Aristóteles).
+Corpus: original.txt (extract paginado; p. 1 sem texto; p. 5, 8, 11 e 14 [TEXTO INCOMPLETO]). Watermark de conversor omitida.

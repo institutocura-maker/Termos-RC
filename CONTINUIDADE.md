@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B035 amostra aplicada — 7 fichas, 0 códigos; pasta fora de CONCLUIDOS)  
+**Data de sincronização:** 2026-08-24 (ingresso B027 amostra — aguarda Devolutiva; B035 amostra já aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
+
+- **PDF ingressado** em `uploads_recepcao/Nos Céus da Grécia.pdf` (1.054.688 bytes; SHA-256 `5ffaaac415581b4ba3dcfabc32dab1b1c9600d13912d369ed1d5a32700aa8567`; **14 págs** = amostra B027, **não** a obra completa). Metadado calibre Title = «Nos Céus da Grécia - Sample». Esclarecimento Atlan 24/11/1992. Cap. 3 trunca na p. 14. **BIBLIO intocada** (permanece `amostra recebida`).
+- Ciclo em `livros/B027_nos_ceus_da_grecia/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
+- Extract paginado: ~2.388 palavras; SHA-256 `5686a4f9a9d07163cc478ee874dd80104d9c763399420ffcd3825f7d1431863a`. p. 1 sem texto; p. 5, 8, 11 e 14 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
+- **9 termos já citam B027**; 4 com ficha. Dossiê sugere ampliar só a voz de Ellam no Esclarecimento: RC-003, RC-072. **0 códigos.** RC-405/406/407/059/071 sem ficha — não materializar. RC-404 = lemma na fala de Gabriel/Tiago — não ampliar sem autorização.
+- Caps. 4–13 e IEEA/Orbum/entrevista só no sumário — fora. Quarentena mediúnica (instrumento / Gabriel e Tiago / os três filósofos). Sem fusão com B003/B033/B021. **Não fundir** RC-404 com B009 p. 350 nem com B053.
 
 ## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
 
@@ -14,7 +22,7 @@
 ### Devolutiva B035 (amostra) aplicada (2026-08-24)
 
 - O-1 confirmado (é B035; PDF = **Sample** de 18 págs; cap. 2 trunca na p. 18; **não** promover a `trabalhada`); O-2: 7 fichas ampliadas (RC-194, RC-195, RC-164, RC-041 + opcional **RC-001**, **RC-049**, **RC-167**) só com as 18 págs; lemma «Javé» e lemma «criação indevida» **não ocorrem** na amostra (blocos honestos); RC-200 **não** ampliada; O-3: zero códigos; RC-196/197/198/199/201/202/203/019 sem ficha; O-4: caps. 3–12 + posfácio ignorados; Hitler / KGB / drones fora; IEEA/Orbum fora; `[TEXTO INCOMPLETO]` sem interpolação; O-5: B001, B044, B041 e B048 intactas; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena clínica crítica («cientista enlouquecido» / «adoentado» / «doença do criador» / «desalmado» / «corpos doentes» / cap. 12 «Diagnóstico» = leitura, jamais diagnóstico) + científica, político-geopolítica, institucional, ufológica, teológica; O-8: `_ampliacoes_B035.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila. Tabela-mestra intocada (B035 já constava nas fontes das 7).
-- Upload posterior (não processado): `uploads_recepcao/Nos Céus da Grécia.pdf` = **B027** (BIBLIO já `amostra recebida`). Aguarda ordem do curador.
+- Upload B027 processado em ciclo próprio (acima). Obra completa de B035 continua pendente.
 
 ## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
 

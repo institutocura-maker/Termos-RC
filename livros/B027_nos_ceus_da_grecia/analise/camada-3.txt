@@ -1,0 +1,10 @@
+O corpus desta amostra é o extract paginado:
+
+  livros/B027_nos_ceus_da_grecia/original.txt
+
+SHA-256 5686a4f9a9d07163cc478ee874dd80104d9c763399420ffcd3825f7d1431863a
+16.126 bytes · ~2.388 palavras · 14 págs.
+p. 1 = [página sem texto extraível].
+p. 5, 8, 11 e 14 = [TEXTO INCOMPLETO] (bytes nulos).
+p. 14 = corte do cap. 3.
+Watermark de conversor omitida. Não interpolar.

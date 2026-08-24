@@ -20,7 +20,9 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B035_o_big_data_do_criador/` — ingresso 2026-08-24; **amostra de 18 págs** (não a obra completa); dossiê enxuto O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada (`amostra recebida`). Sem apostila.
+`livros/B027_nos_ceus_da_grecia/` — ingresso 2026-08-24; **amostra de 14 págs** (não a obra completa); dossiê enxuto O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada (`amostra recebida`). Sem apostila.
+
+`livros/B035_o_big_data_do_criador/` — Devolutiva da **amostra** aplicada (2026-08-24); 7 fichas (RC-194, RC-195, RC-164, RC-041, RC-001, RC-049, RC-167); 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
 ## Piloto
 
