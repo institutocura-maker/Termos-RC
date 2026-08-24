@@ -18,10 +18,6 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 - Terceiros (EXT) → `materiais_externos/`
 - Glossário Raquyel (B031) → fonte **secundária**; não reprocessar como primária
 
-## Ciclo em andamento
-
-`livros/B049_jesus_e_nietzsche/` — ingresso 2026-08-24; dossiê enxuto O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. Sem apostila.
-
 ## Piloto
 
 `CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin` — piloto encerrado (2026-08-23).
@@ -55,3 +51,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B040_homo_sapiens_da_guerra_ao_esporte` — Devolutiva aplicada (2026-08-24); 4 fichas (RC-430, RC-217, RC-243, RC-748); B040 nas fontes de RC-243 e RC-748; 0 códigos; BIBLIO intocada. Sem apostila.
 
 `CONCLUIDOS/B037_inquisicao_filosofica` — Devolutiva aplicada (2026-08-24); 10 fichas (RC-001, RC-104, RC-037, RC-167, RC-334, RC-245, RC-102, RC-422, RC-003, RC-571); B037 nas fontes das 10; 0 códigos; BIBLIO intocada. Sem apostila.
+
+`CONCLUIDOS/B049_jesus_e_nietzsche` — Devolutiva aplicada (2026-08-24); 6 fichas (RC-369, RC-371, RC-072, RC-253, RC-231, RC-273); B049 nas fontes de RC-273; 0 códigos; BIBLIO intocada. Sem apostila.

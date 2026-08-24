@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B049 — Jesus e Nietzsche
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada. Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 6 fichas ampliadas (RC-369, RC-371, RC-072, RC-253, RC-231, RC-273); B049 nas fontes de RC-273; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

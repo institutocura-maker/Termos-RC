@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B049 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B049 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B049 *Jesus e Nietzsche* (abertura 2026-08-24)
@@ -10,6 +10,10 @@
 - Extract paginado: ~78.804 palavras; SHA-256 `9e647924758f0b49ae3679c7bf1da0f6161e91b20dc5805bda64f8952adee750`. p. 1 sem texto.
 - 9 termos já citam B049; 6 com ficha. Dossiê sugere ampliar RC-369, RC-371, RC-072. **0 códigos.** RC-370/372/099 sem ficha — não materializar.
 - Cap. 14 (Edimburgo) e IEEA/Orbum/entrevista/roteiro fora. Quarentena clínica («infecção da crença» / «enlouquecido»). Sem fusão com B011/B043/B014/B052.
+
+### Devolutiva B049 aplicada (2026-08-24)
+
+- O-1 confirmado (é B049; CIP 300 p. × PDF 224 = `[REVISAR]`; BIBLIO intocada); O-2: 6 fichas ampliadas (RC-369, RC-371, RC-072 + opcional RC-253, RC-231, **RC-273** com B049 nas fontes); O-3: zero códigos; RC-370/372/099 não materializadas; Julia Domina / Proteus sem código; O-4: cap. 14 (Edimburgo) fora; IEEA/Orbum e plano de império messiânico fora; Harari/Sheldrake/Voltaire = externas; O-5: B011, B043, B014 e B052 intactas; Dramas = remissão; **O-6: BIBLIO intocada**; O-7: quarentena clínica («infecção da crença» / «enlouquecido» / «sanha psicótica» / «egos adoecidos» = leitura, jamais diagnóstico) + político-geopolítica, teológica, ufológica, biográfica, científica; O-8: pasta em `livros/CONCLUIDOS/B049_jesus_e_nietzsche/`. Sem apostila.
 
 ## Fase 2 — B037 *Inquisição Filosófica* (abertura 2026-08-24)
 

@@ -26,6 +26,12 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **[P2024-07-14] O curso "Reflexões quase filosóficas" (U0495–U0505):** "estou lançando no âmbito do projeto na plataforma [REVISAR — STT 'Orbon'] um novo curso cujo título é 'Reflexões quase filosóficas'. O 'quase' aí é uma provocação aos filósofos"; "vão ser entre 5 a 10 cursos. O primeiro chama-se Schopenhauer e o sofrimento do mundo... deve sair um livro depois".
 - **[P2024-07-14] A divisão da filosofia (U0520–U0535):** "a filosofia se divide em quatro áreas: a metafísica, a epistemologia, a lógica e a ética. A metafísica se divide em geral e específica: geral é ontologia, específica é teologia"; "a filosofia via metafísica está capenga, porque padece de um problema de fundamentação na sua origem... lá atrás tomaram um equívoco de Aristóteles como sendo correto".
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 122–123]** a razão filosófica do «homem Jesus» impede o aprisionamento no papel destinado por Javé; só com a idade ela confronta a fé da família, dos apóstolos, do povo e do próprio Javé.
+- **[B049 p. 115]** Jesus «se viu obrigado a medir o mundo, não pela sua razão, mas pela fé do seu povo». Sem fusão com B033 / B005. Quarentena teológica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

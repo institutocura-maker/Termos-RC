@@ -377,7 +377,7 @@ TERMOS = [
     ("RC-272", "Laço Temporal de Kether/Javé", COS_LEI[0], COS_LEI[1], P, ["B013"], "RC-261; RC-008; RC-167; RC-041; RC-634", False),
 
     # ---- Novos termos de B014 (obra primária: Sophia e o Logos Criadores, 2020)
-    ("RC-273", "A Falsa Trindade (Concílio de Niceia)", EVE_ERA[0], EVE_ERA[1], P, ["B014", 'P2026-08-04', 'P2024-09-28'], "RC-009; RC-072; RC-104; RC-094", True),
+    ("RC-273", "A Falsa Trindade (Concílio de Niceia)", EVE_ERA[0], EVE_ERA[1], P, ['B014', 'B049', 'P2026-08-04', 'P2024-09-28'], "RC-009; RC-072; RC-104; RC-094", True),
     ("RC-274", "Cápsula do Tempo de Sophia (João)", TEC_ESC[0], TEC_ESC[1], P, ["B014", "B042", 'P2024-03-02; RC-009'], "RC-009; RC-005; RC-072; RC-094", True),
     ("RC-275", "Arte Demodhármica do Possível", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-183; RC-009; RC-005; RC-094", False),
     ("RC-276", "Sacralização do Absurdo", COS_ETI[0], COS_ETI[1], P, ["B014"], "RC-094; RC-099; RC-041; RC-254", False),

@@ -28,6 +28,11 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **[B014 p. 203]** para Sophia, a “tríade do catolicismo” está “desfocada”; “a figura do ‘Deus-Pai’ surgida a partir do ‘Concílio de Niceia’ pode até existir, mas não corresponde ao ‘adoentado Criador caído’.”
 - **Quarentena histórico-religiosa e teológica:** Niceia = narrativa de Ellam, **não** fato histórico validado. Sem código novo.
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 12]** «jamais o credo do “Concílio de Niceia” será respeitado, exatamente aquele que criou o mito da “Santíssima Trindade” e igualou Jesus a Deus»; o sistema desde 325 «foi “destruindo” a parte humana de Jesus». **Quarentena histórico-religiosa e político-geopolítica** (leitura do autor, não fato validado). Sem fusão com B014. Fonte **B049** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -25,6 +25,12 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **[B016 p. 147]** “a crença em que ‘Deus cuida de nós’ solapa qualquer possibilidade de crivo lógico da parte da razão humana.”
 - RC-254 (Dominação) permanece **sem ficha**.
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 9]** método: separar o pretendido pelo fundador-revelador do que fazem os seguidores; Nietzsche agrava o abismo; livre da «infecção da crença» — **clínica** (metáfora, não diagnóstico).
+- **[B049 p. 106]** transferir a cota da vida a «deus», Jesus, Buda ou Maomé faz o humano esquecer que é o «agente das transformações»; os que não dão conta entregam a tarefa a manipuladores. Sem fusão com B016. RC-370 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

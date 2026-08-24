@@ -98,6 +98,15 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B014 p. 83]** “Jesus foi exatamente o tipo de ser humano que Sophia esperava utilizar…? […] posso tranquilamente responder: não, não foi!”
 - **Quarentena teológica.** Sem fusão com B011/B043 (já ampliadas). Sem código novo.
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 22]** recusa do papel de «Messias violento»; João Batista pergunta (Lc 7,19); Javé «furioso». Plano de império planetário = **político, fora**.
+- **[B049 p. 77]** cap. 7: Jesus pretendeu «arrebanhar» a humanidade para uma convergência, «mas nem tanto».
+- **[B049 p. 104]** apostas Vishnu × Brahma; código-fonte de Sophia inseminado em Maria; o «homem Jesus» sofreu por não cumprir os termos da aposta.
+- **[B049 p. 122–123]** razão filosófica vs. fé condicionada; «intrigas trimurtianas»; taxado de traidor por Javé. Remissão aos Dramas (nota) = **não fundir**.
+- Sem fusão com B011 (transfiguração de p. 176 está no cap. 14 / encontro — **fora** deste bloco). Quarentena teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

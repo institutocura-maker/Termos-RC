@@ -17,6 +17,13 @@ O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jes
 - **Grafia preferida:** Nietzsche como 'Amigo da Intenção de Jesus'
 - **Variações:** a parceria Jesus-Nietzsche; Nietzsche como agente; "a mais estranha das parcerias"
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 8–9]** intro: Jesus e Nietzsche = «dois dos meus ídolos» no sentido de legado, não de culto; Nietzsche «o único suficientemente livre para acertar na crítica», errando «de longe» quanto ao enredo do crucificado; livre da «infecção da crença» — **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B049 p. 104–106]** cap. 10: nenhum dos dois se descaracterizou; parceria nas «entrelinhas»; Nietzsche põe à prova os valores cristãos que regem o «rebanho» — sem os quais o humano não se torna o «agente da vida» que o universo necessita.
+- **[B049 p. 186–187]** posfácio: Nietzsche «sempre elevou o “homem Jesus” à conta do único cristão decente»; Ellam afirma que Jesus, em espírito, «já leu» Nietzsche. Cap. 14 (Edimburgo) **fora**. Sem fusão com B011 / B043. RC-370 / RC-372 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

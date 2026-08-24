@@ -28,7 +28,7 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 15556 | 143 | 7e73ccebafc432ee153172c7a22f07e1156cab086cf09de16239e9ec96753638
+# termos/RC-072-jesus.md | 16335 | 152 | 0b1b4e6911c2f8e77789405cc1004834a0c51bd488686007d407179dbde29d36
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -73,7 +73,7 @@
 # termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 2564 | 42 | b4bbc254e8110cee006f63c9cca0d010253e26c7851a75e6c48fd0d93370846b
 # termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
 # termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
-# termos/RC-231-razao-filosofica-dos-terraqueos.md | 3379 | 50 | 9c83b3a41c777500f3ef34b86a5688add28d04a0373a11808ccd187fee89ac26
+# termos/RC-231-razao-filosofica-dos-terraqueos.md | 3802 | 56 | c78ed2be84c911531b3e5b450339ee5975ec58bd90960a008f32e9a1d7f1c911
 # termos/RC-232-ostronomos.md | 3034 | 45 | dc2ca318f4716600e2866e196074bad63cc4aa22bb5a71b35e0632df0ca2f193
 # termos/RC-236-o-calvario-de-um-inocente.md | 3438 | 52 | 86b427755b60ccd2be627011e7ee75353a8b9b52f0209229b2bb464e23b5a5a2
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
@@ -81,7 +81,7 @@
 # termos/RC-243-genetica-da-confianca.md | 3341 | 48 | 4e2408991f867b399b591885c624efb8063c3e5e02c8958928e14bf8c648154a
 # termos/RC-245-a-humanizacao-do-criador.md | 4748 | 64 | 4b63859184d18d5d55201cf5b6155edb8f27f1ca8e70773b2298c660de3a7b3c
 # termos/RC-252-olm-codificador-de-zion-zian.md | 4581 | 65 | e8a1c5fae995a48b7386cb63773866e00dbb76f1a1aff43704baf2ce934c6a3f
-# termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4103 | 58 | 4e6e8a3fadb831cdb5fb73d914d2c47cd92a4a13b50f6af3e423f33fa1e1540a
+# termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4616 | 64 | fe1693023fce1995bc2778fdffb78bcfa3c0d48f98552190f5a672e49bb8ae9a
 # termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 3389 | 48 | 756831c2226008c6a7bc8338336d53c20d195e902f29c45af49ddbca8a4d783d
 # termos/RC-259-apolonio-de-tiana-encarnacao-do-quarto-logos.md | 4404 | 67 | 17fff3346d1735dd52f81a562c4c25de4bcc5845f188c9cf49190325749085a9
 # termos/RC-260-prisioneiros-da-brahmaloka.md | 3686 | 52 | b5e1c23154f8a633d6e9cbfaf629dc7cdd69a1dedce67440ff13308862ca66b8
@@ -93,7 +93,7 @@
 # termos/RC-266-sepher-ha-zohar-e-shimon-bar-yochai.md | 2985 | 50 | 965a72b010f351520e822bdc5b865af3b18c8ae25ac6324a1720c35f49bfa646
 # termos/RC-267-isaac-luria-e-o-conceito-do-tzimtzum.md | 2564 | 51 | 1c19bda8744e57f064bc4835f863d763484bed26766d145cf63bcc1364c4803b
 # termos/RC-268-gnosticismo-contraponto-a-cabala.md | 2533 | 45 | 42dd8bd3048c40acbef8d889646e60167ae46916fcac72194be35e07cfce858b
-# termos/RC-273-a-falsa-trindade-concilio-de-niceia.md | 5110 | 63 | 5a5b82f170a977cfb2c59e554a56b583d8fd1d3c20bcca29371cb31b17b983f3
+# termos/RC-273-a-falsa-trindade-concilio-de-niceia.md | 5569 | 68 | 82297d49d81d0033205a8da4d85bc6422f4a0b54f12443734580fd08d051f88e
 # termos/RC-274-capsula-do-tempo-de-sophia-joao.md | 4764 | 62 | ac9871924843a8b7356e9add0737655e0ecbca126f33201a0d0f939b1339be43
 # termos/RC-282-mohen-so-phanes-protogonos-vasuki-kalki-correspondencias.md | 4619 | 84 | 740dfb9daf7fa005f1ad2b6cd310f015876a94214a4c53709480be56c409f4b6
 # termos/RC-283-pandora-como-serpente-do-eden.md | 3582 | 55 | 777fa7b5a214fdea6da5c95d8cf60e6b18d45487ba3af0134ed15b74040b170d
@@ -131,8 +131,8 @@
 # termos/RC-359-abducoes-e-reparo-espiritual.md | 2510 | 40 | ef3580ec81421a788da867c3ea5b52a7865da4bc5c582a31321d968191e39511
 # termos/RC-365-o-fator-judas.md | 2988 | 52 | 4087fd854b320b4c2c4d51ede1bcac102b804bcfa95bfa279c144766c0c00036
 # termos/RC-366-o-enigma-da-transfiguracao.md | 4458 | 54 | a405659445ade47aba202ae53cbc94e055180fb56b7fd9c8ec55354cb4ce174a
-# termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md | 2671 | 41 | 8f31cdcdb5620a363942a40a0a39bf7d8144bd74f8787b0cc7cf7d9da7ef48c3
-# termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md | 2174 | 41 | debe3648e2c6238f236f4c5d53d8ac5b0ccce2ee4972b6a3ab6d790db6125c89
+# termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md | 3590 | 48 | 06ee312216b08a5eaec49aef181ada7e980b4a840e75d9673eeeeae374cda747
+# termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md | 2867 | 47 | df5aef8d7347e23bcd3013160fa7a7b10bae1ee858358bd36c7a1c231f1284e5
 # termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md | 3606 | 50 | 0dc626d91293985a7825ebadcacc504354557ee1071c9ae5130c762bcf9532b8
 # termos/RC-378-a-rebeliao-dos-eletrons.md | 6745 | 68 | c466d494f264c3a4d2788024640559cf5f85b584a220cf7df1c6a1643439d974
 # termos/RC-379-danca-dos-eletrons.md | 3367 | 48 | 5959e7400d0130f644a8a5e1fc44b3d72da94e6bf04533f4c2333bc2132bd5a4
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1530390 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1534176 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -2053,6 +2053,15 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B014 p. 31]** Jesus = Ser cuja consciência “se encontrava ‘fatiada’ simultaneamente em quatro porções (Vishnu, Mohen So, Sophia e Jesus), pelo menos.”
 - **[B014 p. 83]** “Jesus foi exatamente o tipo de ser humano que Sophia esperava utilizar…? […] posso tranquilamente responder: não, não foi!”
 - **Quarentena teológica.** Sem fusão com B011/B043 (já ampliadas). Sem código novo.
+
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 22]** recusa do papel de «Messias violento»; João Batista pergunta (Lc 7,19); Javé «furioso». Plano de império planetário = **político, fora**.
+- **[B049 p. 77]** cap. 7: Jesus pretendeu «arrebanhar» a humanidade para uma convergência, «mas nem tanto».
+- **[B049 p. 104]** apostas Vishnu × Brahma; código-fonte de Sophia inseminado em Maria; o «homem Jesus» sofreu por não cumprir os termos da aposta.
+- **[B049 p. 122–123]** razão filosófica vs. fé condicionada; «intrigas trimurtianas»; taxado de traidor por Javé. Remissão aos Dramas (nota) = **não fundir**.
+- Sem fusão com B011 (transfiguração de p. 176 está no cap. 14 / encontro — **fora** deste bloco). Quarentena teológica.
 
 ## Fontes
 
@@ -5128,6 +5137,12 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **[P2024-07-14] O curso "Reflexões quase filosóficas" (U0495–U0505):** "estou lançando no âmbito do projeto na plataforma [REVISAR — STT 'Orbon'] um novo curso cujo título é 'Reflexões quase filosóficas'. O 'quase' aí é uma provocação aos filósofos"; "vão ser entre 5 a 10 cursos. O primeiro chama-se Schopenhauer e o sofrimento do mundo... deve sair um livro depois".
 - **[P2024-07-14] A divisão da filosofia (U0520–U0535):** "a filosofia se divide em quatro áreas: a metafísica, a epistemologia, a lógica e a ética. A metafísica se divide em geral e específica: geral é ontologia, específica é teologia"; "a filosofia via metafísica está capenga, porque padece de um problema de fundamentação na sua origem... lá atrás tomaram um equívoco de Aristóteles como sendo correto".
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 122–123]** a razão filosófica do «homem Jesus» impede o aprisionamento no papel destinado por Javé; só com a idade ela confronta a fé da família, dos apóstolos, do povo e do próprio Javé.
+- **[B049 p. 115]** Jesus «se viu obrigado a medir o mundo, não pela sua razão, mas pela fé do seu povo». Sem fusão com B033 / B005. Quarentena teológica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -5572,6 +5587,12 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **[B016 p. 147]** o Quarto Logos “rompe com esta premissa e estabelece outra bem diferente: fora da ‘liberdade mental’ não parece existir ‘salvação’”; “Por que a liberdade é essencial? Para que possa haver correção de rumos!”
 - **[B016 p. 147]** “a crença em que ‘Deus cuida de nós’ solapa qualquer possibilidade de crivo lógico da parte da razão humana.”
 - RC-254 (Dominação) permanece **sem ficha**.
+
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 9]** método: separar o pretendido pelo fundador-revelador do que fazem os seguidores; Nietzsche agrava o abismo; livre da «infecção da crença» — **clínica** (metáfora, não diagnóstico).
+- **[B049 p. 106]** transferir a cota da vida a «deus», Jesus, Buda ou Maomé faz o humano esquecer que é o «agente das transformações»; os que não dão conta entregam a tarefa a manipuladores. Sem fusão com B016. RC-370 permanece **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -6275,6 +6296,11 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **[B014 p. 200]** o “Espírito Santo […] simplesmente não existe” (fé, não ontologia); a curiosidade que era de Sophia foi substituída por teologias posteriores.
 - **[B014 p. 203]** para Sophia, a “tríade do catolicismo” está “desfocada”; “a figura do ‘Deus-Pai’ surgida a partir do ‘Concílio de Niceia’ pode até existir, mas não corresponde ao ‘adoentado Criador caído’.”
 - **Quarentena histórico-religiosa e teológica:** Niceia = narrativa de Ellam, **não** fato histórico validado. Sem código novo.
+
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 12]** «jamais o credo do “Concílio de Niceia” será respeitado, exatamente aquele que criou o mito da “Santíssima Trindade” e igualou Jesus a Deus»; o sistema desde 325 «foi “destruindo” a parte humana de Jesus». **Quarentena histórico-religiosa e político-geopolítica** (leitura do autor, não fato validado). Sem fusão com B014. Fonte **B049** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -8220,6 +8246,13 @@ O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jes
 - **Grafia preferida:** Nietzsche como 'Amigo da Intenção de Jesus'
 - **Variações:** a parceria Jesus-Nietzsche; Nietzsche como agente; "a mais estranha das parcerias"
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 8–9]** intro: Jesus e Nietzsche = «dois dos meus ídolos» no sentido de legado, não de culto; Nietzsche «o único suficientemente livre para acertar na crítica», errando «de longe» quanto ao enredo do crucificado; livre da «infecção da crença» — **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B049 p. 104–106]** cap. 10: nenhum dos dois se descaracterizou; parceria nas «entrelinhas»; Nietzsche põe à prova os valores cristãos que regem o «rebanho» — sem os quais o humano não se torna o «agente da vida» que o universo necessita.
+- **[B049 p. 186–187]** posfácio: Nietzsche «sempre elevou o “homem Jesus” à conta do único cristão decente»; Ellam afirma que Jesus, em espírito, «já leu» Nietzsche. Cap. 14 (Edimburgo) **fora**. Sem fusão com B011 / B043. RC-370 / RC-372 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8262,6 +8295,12 @@ O B049 explora a dialética fé × razão como complementares: a fé de Jesus (a
 ## Etimologia / Grafias
 - **Grafia preferida:** A Fé de Jesus e a Razão de Nietzsche
 - **Variações:** fé × razão; o choque fé-razão; a fé de Jesus e a crítica de Nietzsche
+
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 115]** cap. 11: «A fé, efetivamente, “move montanhas”, mas a “vontade de potência” também»; Jesus nasceu «enjaulado» na crença do povo e mediu o mundo pela fé das escrituras, não pela razão; Nietzsche «passou longe» de perceber o problema das origens.
+- **[B049 p. 122–123]** cap. 12: o «homem Jesus» nasceu subjugado por um «plano de fora»; a razão filosófica impediu o aprisionamento total no papel de Messias dominador; fé da família / apóstolos / povo / Javé × razão que encaminha à cruz. «Egos adoecidos» (p. 115) = **clínica**. Sem fusão com B001 / B014. RC-372 permanece **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

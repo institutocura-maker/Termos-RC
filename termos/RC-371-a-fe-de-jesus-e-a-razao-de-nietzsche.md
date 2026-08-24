@@ -17,6 +17,12 @@ O B049 explora a dialética fé × razão como complementares: a fé de Jesus (a
 - **Grafia preferida:** A Fé de Jesus e a Razão de Nietzsche
 - **Variações:** fé × razão; o choque fé-razão; a fé de Jesus e a crítica de Nietzsche
 
+
+## Ampliação — B049 (Jesus e Nietzsche)
+
+- **[B049 p. 115]** cap. 11: «A fé, efetivamente, “move montanhas”, mas a “vontade de potência” também»; Jesus nasceu «enjaulado» na crença do povo e mediu o mundo pela fé das escrituras, não pela razão; Nietzsche «passou longe» de perceber o problema das origens.
+- **[B049 p. 122–123]** cap. 12: o «homem Jesus» nasceu subjugado por um «plano de fora»; a razão filosófica impediu o aprisionamento total no papel de Messias dominador; fé da família / apóstolos / povo / Javé × razão que encaminha à cruz. «Egos adoecidos» (p. 115) = **clínica**. Sem fusão com B001 / B014. RC-372 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
