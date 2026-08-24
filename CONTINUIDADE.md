@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B027 amostra aplicada — 2 fichas, 0 códigos; pasta fora de CONCLUIDOS)  
+**Data de sincronização:** 2026-08-24 (ingresso B023 — aguarda Devolutiva; amostras B027/B035 já aplicadas)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B023 *O Dharma e as Castas Hindus* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/O Dharma e as Castas Hindus - Jan Val Ellam.pdf` (1.999.690 bytes; SHA-256 `3677d2c93c9e5a177e408bc1844b71cdf3ef230c4cb45f656a14a692b8804a1e`; **123 págs** = **B023**, obra integral). Metadado calibre Title = «O Dharma e as Castas Hindus» (sem Sample). Intro Atlan 4/05/2018. CIP 156 p. × PDF 123 = `[REVISAR]`. ISBN 978-85-62411-42-7 ainda não na BIBLIO. **BIBLIO intocada** (`trabalhada`).
+- Ciclo em `livros/B023_o_dharma_e_as_castas_hindus/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~40.347 palavras; SHA-256 `c0aa2e29da291fd89ac39a77795aac1ba349df9cf787ded213b7be92e6d3df35`. p. 1 sem texto. Sem `[TEXTO INCOMPLETO]` de nulos.
+- **27 termos já citam B023**; 15 com ficha. Dossiê sugere ampliar RC-319, RC-320, RC-321, RC-323, RC-325, RC-328. **0 códigos.** RC-322/324/326/327/330/331 e RC-036/038/075/082/099/186 sem ficha — não materializar.
+- IEEA/Orbum/roteiro (p. 112–122) fora. Quarentena clínica («demente» / «doença do Criador» / «câncer» / «vírus mental»). Político (nazismo / povos escolhidos p. 85–90) fora. Sem fusão com B017/B018/B039 / B021 / B024 / B044 / B013.
 
 ## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
 

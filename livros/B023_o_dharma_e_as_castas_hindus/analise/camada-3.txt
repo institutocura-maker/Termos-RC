@@ -1,0 +1,9 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B023_o_dharma_e_as_castas_hindus/original.txt
+
+SHA-256 c0aa2e29da291fd89ac39a77795aac1ba349df9cf787ded213b7be92e6d3df35
+260.464 bytes · ~40.347 palavras · 123 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar. Fechos p. 112–122 = institucionais (fora da malha).

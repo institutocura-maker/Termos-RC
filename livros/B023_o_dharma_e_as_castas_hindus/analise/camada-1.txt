@@ -1,0 +1,7 @@
+Contexto de ingresso (2026-08-24): vigésimo-primeiro item da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037, B049, B009, B035, B027).
+PDF entregue em uploads_recepcao/ pelo curador (push 51d80d8 no branch da sessão).
+Obra já na BIBLIO como B023 (trabalhada; Conectar; 123 págs; sem ano/ISBN na entrada). Primeiro original arquivado no workspace.
+27 termos já citam B023; 15 com ficha. Núcleo sugerido: RC-319 / RC-320 / RC-321 / RC-323 / RC-325 / RC-328.
+IEEA/Orbum/roteiro (p. 112–122) fora. CIP 156 p. × PDF 123 = [REVISAR].
+Quarentena clínica da «doença» / «demente» do Criador; político-geopolítica (povos escolhidos / nazismo p. 90).
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem watermark. Sem [TEXTO INCOMPLETO] de bytes nulos.
