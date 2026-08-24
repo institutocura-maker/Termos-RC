@@ -43,6 +43,14 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B041 p. 145]** “o modo de existir nesta Criação indevida é trágico e vexatório”; as vias religiosas “já foram tentadas e somente fizeram piorar a condição do Criador”.
 - **[B041 p. 158]** o que sobrar de “sujeira” nos elétrons será reprocessado por um avatar — Hara — “que Shiva, há muito tempo, já deixou engendrado para finalizar esta Criação indevida”. RC-413 permanece **sem ficha**. Sem fusão com B024.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 32]** «universo-mãe» (nota *nat:* faixa material jamais finalizada; universo antimaterial improvisado na queda). «Universo-mãe» **sem código**.
+- **[B037 p. 45]** cap. 6 *A Criação Problemática*: seres «superiores» podem errar; religiosidade estéril perante o «Deus Real».
+- **[B037 p. 71–72]** Shiva: «máquina de criar vidas»; «nada disto precisava mesmo de existir». Nota *nat:* recordações anteriores à queda na Criação «indevida».
+- Sem fusão com B024 / B001 / B041. RC-300 / RC-313 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

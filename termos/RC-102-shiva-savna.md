@@ -34,6 +34,13 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[P2022-12-17 — FONTE ORIGINAL] Shiva no sul da Índia (U0720–U0730):** "Shiva expressou de si mesmo avatares e fez com que estes agissem no sul da Índia na criação da cultura com maricandã [STT — REVISAR: provável Tamil; confirma P2021-01-23]"; "ele próprio Shiva passou a ser venerado naquela tradição que reunia seres demos, que pelos portais saíam do universo vizinho e iam se refrescar no sul da Índia"; "essa tradição cultural chamada com maricandã no sul da Índia, que envolvia o sul do continente também a parte que hoje é a ilha chamada Sri Lanka, que é o antigo Ceilão, que nessa época não era ilha coisa nenhuma"; "Shiva estabeleceu uma espécie de uma região de culto e se apresentou aos humanos híbridos e demos que viviam naquela região como sendo o deus, entre aspas, dono da terra"; "Shiva já era homenageado e louvado lá no sul da Índia há muito tempo" [antes de Javé conseguir cultos].
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 71]** Shiva: última conversa livre dos três foi «anterior à criação deste universo»; «máquina de criar vidas»; «nada disto precisava mesmo de existir».
+- **[B037 p. 72]** «Você já era incompleto, desde a sua “queda”, ó Brahma»; tentaram ampará-lo e tiveram de «largá-lo»; cobriu a Criação nos primeiros micro-momentos.
+- **[B037 p. 80–82]** Shiva explica holografia / *rajas* / «doença» de Brahma; a volta de Jesus espera o alinhamento Brahma–Vishnu; confirma: o Criador é «refém do progresso das “criaturas evolutivas”», criadas a partir do DNA «doente». **Quarentena clínica + científica.** «Inteligências evolutivas» **sem código**. Sem fusão com B022. RC-135 permanece **sem ficha**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

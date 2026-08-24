@@ -36,6 +36,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B042 p. 110–111]** crônica homônima: o passado terrestre que não cabe no paradigma atual sobrevive como “notícias místicas” até haver registro científico. A trilogia *Queda e Ascensão Espiritual* (B003 / B025 / B026) = “recados amorosos” / notícias místicas — **não fundir** (obras intactas).
 - **[B042 p. 111]** “dissertar a respeito da história da civilização terrestre é referir-se a um certo contexto cósmico de queda existencial de certas comunidades planetárias que em passado remoto foram trazidas para a Terra.” RC-344 permanece **sem ficha**.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 6]** prefácio: o livro visa o «vislumbre» do que espera «após os primeiros momentos da reintegração da Terra ao convívio com seres de outros orbes».
+- **[B037 p. 33]** Javé: «pormos um fim à etapa de isolamento da Terra»; «circuitos celestiais novamente abertos ao intercâmbio cósmico»; «É chegada a hora do fim do isolamento».
+- **[B037 p. 80]** Shiva: a «volta de Jesus» «religar[á] todos os que vivem na Terra ao circuito da vivência cósmica», no conceito da «reintegração cósmica». Sem fusão com B003 / B042. Recanto de Paz (p. 28) **sem código**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

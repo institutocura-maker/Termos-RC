@@ -31,6 +31,14 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 - **[B048 p. 23–24]** Constatação: a “máquina de pensar” Brahma/Javé/Alá processa informações mas não “o significado mental das coisas”; “O processo de ‘humanização da sua natureza pessoal’… influenciá-lo, por meio da ponte do seu DNA.” **Quarentena clínica + científica.**
 - **[B048 p. 67]** humanização = “plano de outras divindades posto em curso”; “recaídas” quando se sente conduzido. Sem fusão com B015 / B036. Fonte **B048** acrescentada na tabela-mestra.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 24]** o Ser no trono parece «ser humanizado» no corpo, mas «nas suas posturas… poderia ser tudo, menos um ser humano».
+- **[B037 p. 55]** ao aproximar-se da Terra, «ia humanizando-se, ainda que no seu modesto padrão».
+- **[B037 p. 76]** as três personificações «jamais se “humanizaram” do modo como você entende»; Brahma, «Eu não!».
+- **[B037 p. 83]** «ainda estou a deixar-me “humanizar” pela sua lógica»; «ainda nem “humanizei” o modo de pensar»; «Ainda “não humanizado”». Sem fusão com B015 / B036 / B048.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

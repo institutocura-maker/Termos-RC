@@ -24,6 +24,14 @@ O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Te
 - **[B048 p. 49]** o comportamento ditatorial “mantém vivo” o reconstrutor de um reino; “doente que desconhece o seu próprio estado” = mesma quarentena.
 - **[B048 p. 72]** a vontade “somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo”; “jogo da cobrança”. RC-336 / RC-339 permanecem **sem ficha**. Plano imperial / povo eleito (p. 42–45) = **político, fora**.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 11]** «Você é um “doente” por pensar que é “Deus”» — **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B037 p. 25]** Comandante «todo poderoso» em «paradoxal decadência»; «uma “doença poderosa” consumia parte de si mesmo».
+- **[B037 p. 51–52]** cap. 7 *A Doença de um Ser Criador*; «transtorno de personalidade»; «cientista amalucado» — mesma quarentena. Submissão, temor e «disciplina férrea» (p. 55).
+- Sem fusão com B048. RC-336 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

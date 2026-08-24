@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B037 — Inquisição Filosófica
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada. Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 10 fichas ampliadas (RC-001, RC-104, RC-037, RC-167, RC-334, RC-245, RC-102, RC-422, RC-003, RC-571); B037 nas fontes das 10; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

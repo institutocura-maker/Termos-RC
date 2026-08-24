@@ -8,16 +8,16 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 18700 | 188 | 1cc67249f2090d9c91aa611e157469086e11905c471081ba1f59ef48ab88d1f7
+# termos/RC-001-jave.md | 19737 | 197 | 77aadad5e21d10cc36479ac54a78df28c30fede0b9c475ed22358a9532e42168
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
-# termos/RC-003-reintegracao-cosmica.md | 7142 | 79 | d734efe93b1effea8878e5b65c010bc5d10a819d465dd1e5e5f89c42c0ac9c33
+# termos/RC-003-reintegracao-cosmica.md | 7795 | 86 | 1968a3f1f23b572dfecf12962c756af1a00984e0de2911285131242d45e1dd9d
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 4523 | 74 | b5a7358ec0976afe344bdcbfb1966263343be2e118979bf2ad27c34493b7581e
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
-# termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
+# termos/RC-037-brahma-brajna.md | 6349 | 84 | 9397235bf28dcc78454732a2e02a0421081588246f0904f98f3b0fe490d429ed
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 3838 | 58 | c4b372355f127c9d214a1700b7d1566586803f8135cf259df4551e22dee2b1bb
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3262 | 57 | 75c3acc9b701da63287c6fd563d8a9d775c0d1f5abac84dc6def6635b10d18b3
@@ -38,8 +38,8 @@
 # termos/RC-091-projeto-talm.md | 11262 | 106 | 10f2efbc5cd27e73f04ebc570db6e365bfdd4ee351f90ea62e3de5cd25638132
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 8100 | 86 | 855d2b00c21a15b6a368ec019cbcc07c6d5d7bd039eece3cbff52c9c96658ba8
-# termos/RC-102-shiva-savna.md | 4517 | 57 | 38fba08a08f7008d8655ba0f153d0999714837f0ca3bc7a9262516c571166d83
-# termos/RC-104-trimurti.md | 12476 | 122 | d036d8be46f0058fda9641b06a13e131a6ab1946a8ee77f5392ff0a15cad8cff
+# termos/RC-102-shiva-savna.md | 5323 | 64 | 77b1b5754d3c909331927d511a6b6194755cbf7b11e53a44c5eca6d68996abce
+# termos/RC-104-trimurti.md | 13211 | 130 | 4736d5716cecc6de1f370c216aec8c80e5ec3908784f4417ca385e0f2f5f0bab
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -55,7 +55,7 @@
 # termos/RC-164-criaturas-ferramenta.md | 3423 | 60 | fa1fc87e496e67505ef45c9436dbd711661934882e0f733dabf4540979e06495
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 6943 | 94 | 73c15b7aeed3d87238eb04bdf19ea704314c9338da4448587d90a8303cde03e2
+# termos/RC-167-criacao-indevida-obra-indevida.md | 7553 | 102 | e726f205d2d8c6afa56755e25f2bf8e502f30fb9ce3489580304bb7008477347
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -79,7 +79,7 @@
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 4018 | 53 | 4b64bfa51772d99be0e80d387bdd3f0ef12ea17480c5d083729c19e501ec345a
 # termos/RC-243-genetica-da-confianca.md | 3341 | 48 | 4e2408991f867b399b591885c624efb8063c3e5e02c8958928e14bf8c648154a
-# termos/RC-245-a-humanizacao-do-criador.md | 4129 | 56 | e8edc36e6b09da69ba0a956343fccfba04d9086bcb433f220bc2d310dfc5bb90
+# termos/RC-245-a-humanizacao-do-criador.md | 4748 | 64 | 4b63859184d18d5d55201cf5b6155edb8f27f1ca8e70773b2298c660de3a7b3c
 # termos/RC-252-olm-codificador-de-zion-zian.md | 4581 | 65 | e8a1c5fae995a48b7386cb63773866e00dbb76f1a1aff43704baf2ce934c6a3f
 # termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4103 | 58 | 4e6e8a3fadb831cdb5fb73d914d2c47cd92a4a13b50f6af3e423f33fa1e1540a
 # termos/RC-257-espiritismo-como-expressao-do-quarto-logos.md | 3389 | 48 | 756831c2226008c6a7bc8338336d53c20d195e902f29c45af49ddbca8a4d783d
@@ -122,7 +122,7 @@
 # termos/RC-329-kumari-kandan-tradicao.md | 2173 | 44 | 5cb5c4e48c796a88b524f5e3bd2768b1be357deeba45b856d7a13263c48d5e9e
 # termos/RC-332-favor-divino-conceito-invertido.md | 5932 | 74 | e26d8dd2aae1c46cb129b1fb0206aa7ef20d3ae2958e7db871baeb5ce48ddd88
 # termos/RC-333-democracia-do-amor-da-deidade.md | 3348 | 49 | b5b598e7ad8ac2e46bdfe39641fdd630946f5f02741f5f617272324c7ba92a47
-# termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 3265 | 49 | 09dd41a19f05f5710e539b7dde79994a332428e7716277ae4fc89804d9c87b3b
+# termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 3841 | 57 | defe79d989811df82bc840770880271137af56df21ef13cbb23b0b1117d68d99
 # termos/RC-335-lavagem-cerebral-condicionamento.md | 3765 | 54 | 96813d1c2679ec6812ab0fb4a9eb22a3bc1c6c52b1d1e7048bd47e73d325aac5
 # termos/RC-342-quarentena-sideral-cosmica.md | 5068 | 57 | 56040246fd317325ce40ad268084ac3bb3954d8a233dfacba3d7ec547638b592
 # termos/RC-346-jeova-grafia-da-trilogia.md | 2581 | 43 | c05c1cfcb4132ef0841d36970871d413eb3b165765718612060588d0fa915c6e
@@ -149,7 +149,7 @@
 # termos/RC-416-cartas-a-jave-obra-e-dialogo.md | 3816 | 50 | cd0cfd77cde9ac53b6791933e0246ea41d56becc8c2addd600da60e8e9274300
 # termos/RC-417-resposta-de-jave-em-1a-pessoa.md | 3567 | 49 | bb756f9efdbf7d573c342dffe8a9f94898a69bc0fcd89229182bd521111e97e2
 # termos/RC-421-as-memorias-de-jave-cronicas.md | 3651 | 50 | d02e30aa6dd81698d28fde399d07e548a74c4c5798cb105438901eb9a8926198
-# termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 3480 | 48 | a4a029b0d590459964bd4ca69a97954f71f2083f93091bb4145024fefabc4496
+# termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 4000 | 54 | 0bd0eaefd34505b8282841b8a115d4a84a98bc7726fa01a474ded4c47dfc7dc1
 # termos/RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md | 5614 | 77 | b11ed24b47ee04f28519417d95357d93a8af9c48b2093d638debbd99e8fc29b0
 # termos/RC-426-jave-sem-avatares-nao-tenho-isto.md | 4099 | 65 | 7b6cbdea5b27c050e4155e49e101290decef920a85ae153379a599a603d6b01b
 # termos/RC-430-esporte-como-evolucao-da-guerra.md | 3880 | 50 | aa778a324623a0f5c6f10a6c0f70a4bf632435a3f02ce6fdf0cbf1401e3b8088
@@ -229,7 +229,7 @@
 # termos/RC-568-eras-equinociais-ciclos-de-aproximadamente-5200-anos.md | 2067 | 43 | 9e26883c09e1b787f9d135d80783c2c41b47e4af2bd0239eecdab697dcef61b0
 # termos/RC-569-eras-zodiacais-ciclos-de-aproximadamente-2160-anos.md | 1990 | 43 | 4929daa3f7a2ff8fb81973c7e95baf92c69f2a676e5e7c05ce69934682485b5a
 # termos/RC-570-janelas-cosmicas-metricas-temporais.md | 2563 | 46 | 07b3a05c56ad2be7c916309de013b2d7769056bd02951e39eb1b868b9ddf0dd9
-# termos/RC-571-ano-de-2012-como-divisor-de-ciclos.md | 2869 | 50 | ea37d926eb5bdc5bfa2d43701c1e8f70c5506292189542adc9d8750934f8d414
+# termos/RC-571-ano-de-2012-como-divisor-de-ciclos.md | 3296 | 56 | b2c2b7cdd108096ce552d327584fa19e66a841b3d1e770d9a59d348b070476b7
 # termos/RC-572-fim-dos-tempos-final-de-ciclo-×-fim-do-mundo.md | 2739 | 47 | e20eae52cab7dcd444d8266fd9fa3febeed5a1e6a28eb781b66a5c6b5288a189
 # termos/RC-573-cinturao-de-fotons.md | 2754 | 47 | 71bb23c1cd70db24db61d050a810464d67619f31e4bc5e4c9dc88ca34c0a1c89
 # termos/RC-574-alcione-sistema.md | 2704 | 46 | 687295079a63f0612ea6c9afcc1dd3b963e5b564594d9670ee5d61b0ab5957d1
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1523689 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1530390 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -541,6 +541,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B048 p. 26]** “Sou o que sou e não posso ser diferente. Fiz-me de mim mesmo e nada devo a outrem.”
 - **[B048 p. 49–50]** “não existe a tal democracia espiritual”; “Eu mesmo me criei…” — Ellam distingue o corpo holográfico do espírito apartado do Sagrado.
 - **Quarentena clínica** (“doença do primeiro impulso”, p. 10; “nasceu adoentado”, p. 15). Tetragrama no pseudônimo (p. 19) e infarto dez/2011 (p. 46) = **biográfica**. Plano de império (p. 42–45) = **político, fora**. Sem fusão com B034 / B036.
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 8]** hotel em São Paulo, maio/2007: «Vamos fazer um pacto?!»; «Sou aquele que é o Criador… Sou Javé, seu Senhor e seu Deus.»
+- **[B037 p. 10–11]** pacto à maneira de Moisés; autorização da vinda de Jesus; «Eu sou Javé, eu sou Brahma, eu sou Alá e você me deve obediência.» Ellam recusa. RC-271 permanece **sem ficha**.
+- **[B037 p. 19]** «sem a sua submissão à minha vontade, nada sucederia quanto ao retorno de Jesus»; «sem a parceria de um humano à minha vontade, este ciclo não terminará.»
+- **[B037 p. 32–33]** «Sou o que sou»; «eu sou aquele que é»; fim do isolamento; Adão, Enoch, Noé, Abraão, Moisés, Jesus e Maomé = agentes. Grafia *Enoch* = Enoque nas fichas.
+- **Quarentena clínica** («doente» por pensar que é Deus, p. 11; «louco», p. 10) = leitura, jamais diagnóstico. Anúncio falso de 2006 e TAP 25/06/2008 = **biográfica**. Sem fusão com B001 / B036 / B048. Naves dos «anjos» (p. 20) = **ufológica**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -726,6 +735,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 - **[B042 p. 110–111]** crônica homônima: o passado terrestre que não cabe no paradigma atual sobrevive como “notícias místicas” até haver registro científico. A trilogia *Queda e Ascensão Espiritual* (B003 / B025 / B026) = “recados amorosos” / notícias místicas — **não fundir** (obras intactas).
 - **[B042 p. 111]** “dissertar a respeito da história da civilização terrestre é referir-se a um certo contexto cósmico de queda existencial de certas comunidades planetárias que em passado remoto foram trazidas para a Terra.” RC-344 permanece **sem ficha**.
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 6]** prefácio: o livro visa o «vislumbre» do que espera «após os primeiros momentos da reintegração da Terra ao convívio com seres de outros orbes».
+- **[B037 p. 33]** Javé: «pormos um fim à etapa de isolamento da Terra»; «circuitos celestiais novamente abertos ao intercâmbio cósmico»; «É chegada a hora do fim do isolamento».
+- **[B037 p. 80]** Shiva: a «volta de Jesus» «religar[á] todos os que vivem na Terra ao circuito da vivência cósmica», no conceito da «reintegração cósmica». Sem fusão com B003 / B042. Recanto de Paz (p. 28) **sem código**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1326,6 +1342,14 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 ## Ampliação — P2025-08-01
 
 - **[ART-2025-08-01] Brahma/Javé e Awayen (Parte I):** "Brahma, também conhecido como Javé ou Caos... vivenciou uma 'queda' dramática em sua própria Obra; a sua mente, outrora um potencial criativo singular, 'implodiu' e foi 'tragada' pela própria Criação, resultando em um ser 'doente', 'despedaçado' e, por vezes, em 'perpétuo coma' ou inatividade, como se fosse um 'zumbi de si mesmo'"; "o seu Código-Fonte Definidor Pessoal (CFDP), seu 'DNA', já surgiu com defeitos, e essa 'podridão' foi transladada para o DNA de todas as suas criaturas"; "Brahma/Javé tornou-se 'refém do progresso das suas criaturas', incapaz de evoluir por si mesmo"; "seu forno replicador, Awayen, falhou na replicação — 'se tivesse sido bem-sucedido, a exportação de uma doença com padrões incuráveis do Brahmaloka para o Bhuloka teria impedido o surgimento da vida biológica' — e transformou-se numa 'Central de Realidades' (ver RC-771)".
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 11]** o Ser: «Eu sou Javé, eu sou Brahma, eu sou Alá.»
+- **[B037 p. 76]** «Chame-me de “Brahma”»; «Estas três personificações jamais se “humanizaram”… Eu não!»; o circuito mental com Vishnu e Shiva depende do nome.
+- **[B037 p. 80]** mente de Brahma vinculada à divindade da qual é expressão, «apesar de “adoentada”» — **quarentena clínica**. Energia *rajas*; holografia / colapso quântico = **científica**.
+- **[B037 p. 82–83]** «Estou a deixar-me “humanizar”»; não confia em Vishnu nem em Shiva; «maldisse a raça humana da Terra». Sem fusão com B022 / B024. RC-033 / RC-038 permanecem **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2845,6 +2869,13 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[P2022-12-17 — FONTE ORIGINAL] Shiva no sul da Índia (U0720–U0730):** "Shiva expressou de si mesmo avatares e fez com que estes agissem no sul da Índia na criação da cultura com maricandã [STT — REVISAR: provável Tamil; confirma P2021-01-23]"; "ele próprio Shiva passou a ser venerado naquela tradição que reunia seres demos, que pelos portais saíam do universo vizinho e iam se refrescar no sul da Índia"; "essa tradição cultural chamada com maricandã no sul da Índia, que envolvia o sul do continente também a parte que hoje é a ilha chamada Sri Lanka, que é o antigo Ceilão, que nessa época não era ilha coisa nenhuma"; "Shiva estabeleceu uma espécie de uma região de culto e se apresentou aos humanos híbridos e demos que viviam naquela região como sendo o deus, entre aspas, dono da terra"; "Shiva já era homenageado e louvado lá no sul da Índia há muito tempo" [antes de Javé conseguir cultos].
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 71]** Shiva: última conversa livre dos três foi «anterior à criação deste universo»; «máquina de criar vidas»; «nada disto precisava mesmo de existir».
+- **[B037 p. 72]** «Você já era incompleto, desde a sua “queda”, ó Brahma»; tentaram ampará-lo e tiveram de «largá-lo»; cobriu a Criação nos primeiros micro-momentos.
+- **[B037 p. 80–82]** Shiva explica holografia / *rajas* / «doença» de Brahma; a volta de Jesus espera o alinhamento Brahma–Vishnu; confirma: o Criador é «refém do progresso das “criaturas evolutivas”», criadas a partir do DNA «doente». **Quarentena clínica + científica.** «Inteligências evolutivas» **sem código**. Sem fusão com B022. RC-135 permanece **sem ficha**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2958,6 +2989,14 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B024 p. 118–119]** o fim da Trimurti e da Lila marca o termo da 7ª era (apresentação de Sophia / Jesus em estado glorioso). Na 8ª, as expressões Adhydaiva deixam de existir; Vishnu já transmitiu o legado ao “consórcio” Sophia + Jesus.
 - **[B024 p. 135]** posfácio: o “grau de demência” dos Membros “jamais se preocupou com a ausência de resultados animadores”; todos os engendrados surgiam “doentes” — **quarentena clínica**. IEEA / Orbum / entrevista **fora**. Sem fusão com B001, B033, B044.
 - Fonte **B024** acrescentada na tabela-mestra (epopeia da Trimurti na Criação).
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 1]** síntese: vozes de Brahma/Javé, Vishnu e Shiva; «presos nas suas moradas desde o ano de 2012».
+- **[B037 p. 15]** ardil da Trimurti na data da vinda de Jesus — **não fundir** com B022.
+- **[B037 p. 67–71]** cap. 10 (2013): encontro dos três; Shiva: a última conversa «com esta liberdade» foi «num “tempo” anterior à criação deste universo»; «máquina de criar vidas» que «nada disto precisava mesmo de existir».
+- **[B037 p. 76]** as três personificações «jamais se “humanizaram”» do modo humano; Brahma sem avatares terrenos neste passo. RC-135 permanece **sem ficha**. Sem fusão com B022 / B024 / B044. IEEA / Orbum **fora**.
 
 ## Fontes
 
@@ -4061,6 +4100,14 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B041 p. 40]** “Nos outros universos que existem, não tem coisa alguma parecida com o fato de um Criador ter sido ‘sugado’ pela própria Obra.”
 - **[B041 p. 145]** “o modo de existir nesta Criação indevida é trágico e vexatório”; as vias religiosas “já foram tentadas e somente fizeram piorar a condição do Criador”.
 - **[B041 p. 158]** o que sobrar de “sujeira” nos elétrons será reprocessado por um avatar — Hara — “que Shiva, há muito tempo, já deixou engendrado para finalizar esta Criação indevida”. RC-413 permanece **sem ficha**. Sem fusão com B024.
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 32]** «universo-mãe» (nota *nat:* faixa material jamais finalizada; universo antimaterial improvisado na queda). «Universo-mãe» **sem código**.
+- **[B037 p. 45]** cap. 6 *A Criação Problemática*: seres «superiores» podem errar; religiosidade estéril perante o «Deus Real».
+- **[B037 p. 71–72]** Shiva: «máquina de criar vidas»; «nada disto precisava mesmo de existir». Nota *nat:* recordações anteriores à queda na Criação «indevida».
+- Sem fusão com B024 / B001 / B041. RC-300 / RC-313 permanecem **sem ficha**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5398,6 +5445,14 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 - **[B048 p. 18]** via a ponte do DNA, “alimentação vibratória” necessária ao processo de “humanização” ou de “redivinização”.
 - **[B048 p. 23–24]** Constatação: a “máquina de pensar” Brahma/Javé/Alá processa informações mas não “o significado mental das coisas”; “O processo de ‘humanização da sua natureza pessoal’… influenciá-lo, por meio da ponte do seu DNA.” **Quarentena clínica + científica.**
 - **[B048 p. 67]** humanização = “plano de outras divindades posto em curso”; “recaídas” quando se sente conduzido. Sem fusão com B015 / B036. Fonte **B048** acrescentada na tabela-mestra.
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 24]** o Ser no trono parece «ser humanizado» no corpo, mas «nas suas posturas… poderia ser tudo, menos um ser humano».
+- **[B037 p. 55]** ao aproximar-se da Terra, «ia humanizando-se, ainda que no seu modesto padrão».
+- **[B037 p. 76]** as três personificações «jamais se “humanizaram” do modo como você entende»; Brahma, «Eu não!».
+- **[B037 p. 83]** «ainda estou a deixar-me “humanizar” pela sua lógica»; «ainda nem “humanizei” o modo de pensar»; «Ainda “não humanizado”». Sem fusão com B015 / B036 / B048.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7708,6 +7763,14 @@ O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Te
 - **[B048 p. 49]** o comportamento ditatorial “mantém vivo” o reconstrutor de um reino; “doente que desconhece o seu próprio estado” = mesma quarentena.
 - **[B048 p. 72]** a vontade “somente se movimenta em torno da sua doentia necessidade de sobreviver a qualquer custo”; “jogo da cobrança”. RC-336 / RC-339 permanecem **sem ficha**. Plano imperial / povo eleito (p. 42–45) = **político, fora**.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 11]** «Você é um “doente” por pensar que é “Deus”» — **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B037 p. 25]** Comandante «todo poderoso» em «paradoxal decadência»; «uma “doença poderosa” consumia parte de si mesmo».
+- **[B037 p. 51–52]** cap. 7 *A Doença de um Ser Criador*; «transtorno de personalidade»; «cientista amalucado» — mesma quarentena. Submissão, temor e «disciplina férrea» (p. 55).
+- Sem fusão com B048. RC-336 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -9244,6 +9307,12 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 - **[B036 p. 8]** 1ª crônica (voz de Javé citando Ellam): “Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto Ser-Criador fracassado de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos.”
 - **[B036 p. 8–9]** Javé admite: “Preciso viver e, vida, agora, para mim, é avaliar o modo como existo”; “estou doente. Na verdade, já nasci para esta personalidade doente, hoje o sei” — **quarentena clínica** (leitura / autoconfissão atribuída, jamais diagnóstico).
 - **[B036 p. 9]** o “favor divino”: Ellam “apresentou a sua moeda” — não havia empréstimo, e Javé “é quem deveria ser grato”. Sem fusão com B048.
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 51–52]** cap. 7: Ellam confronta o Criador com «transtorno de personalidade» e «cientista amalucado»; Javé recusa o respeito e afirma a «férrea» disciplina. **Quarentena clínica** (leitura / confronto atribuído, jamais diagnóstico).
+- **[B037 p. 83]** Brahma: «uma vez você disse-me que eu parecia um “ser em delírio”»; «isso não significa que eu esteja a “delirar”»; admite já não dominar o processo. Sem fusão com B036.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -13524,6 +13593,12 @@ O palestrante afirma que 2012 “ainda não acabou” porque a regência de Soph
 ## Ampliação — P2022-12-17
 
 - **[P2022-12-17 — FONTE ORIGINAL] 2012 como divisor (U0920–U0960; U0430–U0436):** "2012 foi o divisor de um tempo que ainda não começou, ainda que passado"; "2012 era o ano que Javé imaginava que ele já teria feito o juízo final dele"; "falta essa era se acabar na sua repercussão histórica... falta só Sophia assumir a vestimenta de mandatário celestial... falta a Terra... ser reintegrada à convivência cósmica"; "tá atrasado 10 anos... 10 anos nesse contexto de 5.600 anos, de 2.160 anos. Mas como eu disse, esses caras estão nem aí pro calendário da gente"; "2012 e a entrada no cinturão de fótons têm a ver também com o fechamento dos portais".
+
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 1]** síntese da obra: Brahma/Javé, Vishnu e Shiva «presos nas suas moradas desde o ano de 2012», ainda com poder mental e tecnológico para se acoplarem à faixa densa.
+- Âncora primária (livro) da fórmula já referida em ART-2025-08-02 na ficha RC-104. Sem materializar RC-300. Sem fusão com B022 / B050. Fonte **B037** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

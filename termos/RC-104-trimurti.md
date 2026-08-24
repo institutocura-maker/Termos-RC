@@ -89,6 +89,14 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B024 p. 135]** posfácio: o “grau de demência” dos Membros “jamais se preocupou com a ausência de resultados animadores”; todos os engendrados surgiam “doentes” — **quarentena clínica**. IEEA / Orbum / entrevista **fora**. Sem fusão com B001, B033, B044.
 - Fonte **B024** acrescentada na tabela-mestra (epopeia da Trimurti na Criação).
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 1]** síntese: vozes de Brahma/Javé, Vishnu e Shiva; «presos nas suas moradas desde o ano de 2012».
+- **[B037 p. 15]** ardil da Trimurti na data da vinda de Jesus — **não fundir** com B022.
+- **[B037 p. 67–71]** cap. 10 (2013): encontro dos três; Shiva: a última conversa «com esta liberdade» foi «num “tempo” anterior à criação deste universo»; «máquina de criar vidas» que «nada disto precisava mesmo de existir».
+- **[B037 p. 76]** as três personificações «jamais se “humanizaram”» do modo humano; Brahma sem avatares terrenos neste passo. RC-135 permanece **sem ficha**. Sem fusão com B022 / B024 / B044. IEEA / Orbum **fora**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

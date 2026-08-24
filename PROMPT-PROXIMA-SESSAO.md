@@ -4,7 +4,7 @@
 >
 > **Hábito obrigatório:** a sessão que estiver encerrando atualiza este arquivo *antes* do último commit — estado canônico, tarefas feitas, pendências e o próximo passo. A sessão nova lê este arquivo primeiro.
 >
-> **Última atualização:** 2026-08-24 · AGENTE 9 (B037 ingresso — aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada) · branch `arena/01a02e74-termos-rc`.
+> **Última atualização:** 2026-08-24 · AGENTE 9 (B037 Devolutiva aplicada; 10 fichas; B037 nas fontes; 0 códigos) · branch `arena/01a02e74-termos-rc`.
 
 ---
 
@@ -46,7 +46,7 @@ TAREFA Nº 2 — CICLO DE HIGIENIZAÇÃO (FEITO em 2026-08-23):
 
 CORREÇÃO JÁ APLICADA (não refazer): compatibilidade com Windows 11 — PR #2, merge b420f14: dois DOCX em pedagogico/ tinham ':' no nome (proibido no NTFS, abortava o git clone) e o gerador ganhou nome_seguro_windows() em build_apostila.py. Confirmado no clone da sessão 9: a função existe; nenhum ':' em pedagogico/. Os DOCX de Javé/Buraco Negro e Thot/Hermes NÃO estão na árvore (só os .md) — regenerar só se o curador pedir. O hash 4af6e6c pode não aparecer (clone raso).
 
-PENDÊNCIAS DE FUNDO (eu escolho a ordem): **B037 *Inquisição Filosófica* em ciclo aberto** (ingresso feito; aguarda Devolutiva O-1..O-8). Portal das Apostilas Temáticas (guardado); ampliações retidas sem ficha; Mapa do Buraco Negro Javé; B079/B080/B081/B083. B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040 e Carbono: ENCERRADOS.
+PENDÊNCIAS DE FUNDO (eu escolho a ordem): Portal das Apostilas Temáticas (guardado); ampliações retidas sem ficha; Mapa do Buraco Negro Javé; B079/B080/B081/B083. B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037 e Carbono: ENCERRADOS. PDF *Jesus e Nietzsche* já em `uploads_recepcao/` — não ingressar até o curador pedir.
 
 REGRAS DE OURO (inegociáveis): não inventar, não completar, não interpolar — marcar [REVISAR], [TEXTO INCOMPLETO], [frase truncada], [NÃO REVELADO]; falas da plateia sempre isoladas e nunca viram ontologia; Navalha de Ockham — quase sempre zero códigos novos, prefira ampliar fichas existentes (protege o RAG local); nenhum código é consumido antes da Devolutiva (O-1..O-8); quarentenas clínico/científica, político/geopolítica, ufológica, teológica e biográfica — tudo é leitura de Ellam, não fato validado; grafias canônicas: Brahma, Tikun, Sophia (não Sofia), Nefilins, Ialdabaoth, Olm, Elm, Adhy, Javé, Vishnu, Xamanismo (com X), Wyrd/Urd (RC-658; RC-560 é remissão), Kapila, Vaishnavismo, Hochmah, Moros (não Morus), Malkuth=Hochmah=Sophia, Orlog=Moros, Norns Urd/Verdandi/Skuld, Awayen/Awaylengan/Awaymaion, Morlens, Ginnungagap, Orunmilá, Obatalá, En Ma, Deva/Aurora, Mohen So; preservar a voz de Ellam (marcadores, humor, digressões) — o editor é menor que o autor; jamais editar a lista BIBLIO de build_xlsx.py programaticamente (já corrompeu 2×) — edição manual.
 

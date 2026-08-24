@@ -101,6 +101,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B048 p. 49–50]** “não existe a tal democracia espiritual”; “Eu mesmo me criei…” — Ellam distingue o corpo holográfico do espírito apartado do Sagrado.
 - **Quarentena clínica** (“doença do primeiro impulso”, p. 10; “nasceu adoentado”, p. 15). Tetragrama no pseudônimo (p. 19) e infarto dez/2011 (p. 46) = **biográfica**. Plano de império (p. 42–45) = **político, fora**. Sem fusão com B034 / B036.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 8]** hotel em São Paulo, maio/2007: «Vamos fazer um pacto?!»; «Sou aquele que é o Criador… Sou Javé, seu Senhor e seu Deus.»
+- **[B037 p. 10–11]** pacto à maneira de Moisés; autorização da vinda de Jesus; «Eu sou Javé, eu sou Brahma, eu sou Alá e você me deve obediência.» Ellam recusa. RC-271 permanece **sem ficha**.
+- **[B037 p. 19]** «sem a sua submissão à minha vontade, nada sucederia quanto ao retorno de Jesus»; «sem a parceria de um humano à minha vontade, este ciclo não terminará.»
+- **[B037 p. 32–33]** «Sou o que sou»; «eu sou aquele que é»; fim do isolamento; Adão, Enoch, Noé, Abraão, Moisés, Jesus e Maomé = agentes. Grafia *Enoch* = Enoque nas fichas.
+- **Quarentena clínica** («doente» por pensar que é Deus, p. 11; «louco», p. 10) = leitura, jamais diagnóstico. Anúncio falso de 2006 e TAP 25/06/2008 = **biográfica**. Sem fusão com B001 / B036 / B048. Naves dos «anjos» (p. 20) = **ufológica**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

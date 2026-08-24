@@ -1,7 +1,7 @@
 Contexto de ingresso (2026-08-24): décimo-sexto livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040).
 PDF entregue em uploads_recepcao/ pelo curador (push 693c8a2 no branch da sessão).
 Obra já na BIBLIO como B037 (identificada; «Roteiro de B024»; sem ano/ISBN). Primeiro original arquivado no workspace.
-0 termos citam B037. Núcleo sugerido: RC-001 / RC-104 / RC-334.
+Devolutiva aplicada (2026-08-24): 10 fichas; B037 nas fontes das 10. 0 códigos.
 Não confundir com B022 / B029 / B079. Orbum / IEEA / entrevista / roteiro (p. 85–101) fora.
 Quarentena clínica da «doença» do Criador (cap. 7) — leitura, jamais diagnóstico.
 Corpus: original.txt (extract paginado; 101 págs com texto). Sem marca d'água de conversor.

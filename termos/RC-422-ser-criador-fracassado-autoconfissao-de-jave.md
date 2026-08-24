@@ -24,6 +24,12 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 - **[B036 p. 8–9]** Javé admite: “Preciso viver e, vida, agora, para mim, é avaliar o modo como existo”; “estou doente. Na verdade, já nasci para esta personalidade doente, hoje o sei” — **quarentena clínica** (leitura / autoconfissão atribuída, jamais diagnóstico).
 - **[B036 p. 9]** o “favor divino”: Ellam “apresentou a sua moeda” — não havia empréstimo, e Javé “é quem deveria ser grato”. Sem fusão com B048.
 
+
+## Ampliação — B037 (Inquisição Filosófica)
+
+- **[B037 p. 51–52]** cap. 7: Ellam confronta o Criador com «transtorno de personalidade» e «cientista amalucado»; Javé recusa o respeito e afirma a «férrea» disciplina. **Quarentena clínica** (leitura / confronto atribuído, jamais diagnóstico).
+- **[B037 p. 83]** Brahma: «uma vez você disse-me que eu parecia um “ser em delírio”»; «isso não significa que eu esteja a “delirar”»; admite já não dominar o processo. Sem fusão com B036.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
