@@ -1,9 +1,17 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B001 aplicada — 9 fichas, 0 códigos; B002/B033 aguardam)  
+**Data de sincronização:** 2026-08-24 (ingresso B002 — aguarda Devolutiva; B033 não processado)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
-## Fase 2 — B001 *O Drama Cósmico de Javé* (abertura 2026-08-24) — **vol. 1; B002/B033 fora**
+## Fase 2 — B002 *O Drama Espiritual de Javé* (abertura 2026-08-24) — **vol. 2; B033 fora**
+
+- **PDF ingressado** em `uploads_recepcao/O Drama Espiritual de Jave - Jan Val Ellam.pdf` (1.792.613 bytes; SHA-256 `1fac7bc76700dfb3dd9b67ac9c4a24ca7d635182b19dddf8b4d265e19c08e0c5`; **241 págs** = **B002**, obra integral). Intro Atlan 04/01/2009. CIP **sem** psicografia. Copyright 2015 × 1ª ed. 2011 = `[REVISAR]`. ISBN 978-85-62411-06-9 ainda não na BIBLIO. **BIBLIO intocada** (`trabalhada`).
+- Ciclo em `livros/B002_o_drama_espiritual_de_jave/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~83.062 palavras; SHA-256 `90f0c10d5320a1ad6a1b72155a8f6f5a23b299d8616d9c2b7dca299280792026`. p. 1 sem texto.
+- **24 termos já citam B002**; 13 com ficha. Dossiê sugere RC-217, RC-223, RC-207, RC-001, RC-041, RC-167. **0 códigos.** RC-216/218–222/224/208/209/019/040/196 sem ficha.
+- Intro remete a B001 = **não fundir**. B033 aguarda. Quarentena clínica crítica (autismo p. 9; «transtorno de personalidade» p. 66; cap. 7). Orbum (p. 237–239) fora.
+
+## Fase 2 — B001 *O Drama Cósmico de Javé* (abertura 2026-08-24) — **vol. 1**
 
 - **PDF ingressado** em `uploads_recepcao/O Drama Cosmico de Javé - Jan Val Ellam.pdf` (1.513.345 bytes; SHA-256 `c57fc952b526f0b22e8ec4d2d16cc512a5c6c59db0a130bf663cf7efc2ee6786`; **327 págs** = **B001**, obra integral). Intro Atlan 27/03/2010. CIP psicografia / Diversos Espíritos. ISBN 85-88584-01-8 `[REVISAR]` (vizinho de B009 — **não fundir**). **BIBLIO intocada** (`trabalhada`).
 - Ciclo em `livros/B001_o_drama_cosmico_de_jave/` (fora de CONCLUIDOS até Devolutiva).

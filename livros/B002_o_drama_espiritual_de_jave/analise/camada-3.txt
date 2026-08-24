@@ -1,0 +1,9 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B002_o_drama_espiritual_de_jave/original.txt
+
+SHA-256 90f0c10d5320a1ad6a1b72155a8f6f5a23b299d8616d9c2b7dca299280792026
+529.209 bytes · ~83.062 palavras · 241 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar. Fechos p. 237–241 = Orbum / autor / CIP (fora da malha).
