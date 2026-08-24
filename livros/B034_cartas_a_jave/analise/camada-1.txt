@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-24): décimo-segundo livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036).
+PDF entregue em uploads_recepcao/ pelo curador (push b616e90 no branch da sessão).
+Obra já na BIBLIO como B034 (trabalhada; ISBN e 94 págs já descritos). Primeiro original arquivado no workspace.
+13 termos já citam B034; 8 com ficha. Núcleo: RC-416 Cartas / RC-417 Resposta.
+Cartas de Mônica isoladas (não ontologia). Quarentenas: clínica, biográfica, teológica, IEEA/Orbum.
+Corpus: original.txt (extract paginado; p. 1 e p. 72 sem texto). Sem marca d'água de conversor.

@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B036 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B034 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B034 *Cartas a Javé* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Cartas a Jave - Jan Val Ellam.pdf` (1.303.076 bytes; SHA-256 `4ba3123bbf4ff239ce279ce36501800b9a263274c895d6b6a8a3a7d75f2b0567`; 94 págs = **B034**). ISBN 978-85-62411-23-6 já na BIBLIO. CIP 110 p. × PDF 94 = `[REVISAR]` (já na BIBLIO). Sumário 15 cartas × BIBLIO 16 = `[REVISAR]`. Copyright 2019 × 1ª ed. 2014. **BIBLIO intocada.**
+- Ciclo em `livros/B034_cartas_a_jave/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~25.767 palavras; SHA-256 `7582f0a766ce6bb1dea8b9e0df9f44342ad25b7dae72f68d5d1519286c83c9ae`. p. 1 e p. 72 sem texto.
+- 13 termos já citam B034; 8 com ficha. Dossiê sugere ampliar RC-416, RC-417, RC-001, RC-217. **0 códigos.** RC-071/099/418/419/420 sem ficha — não materializar.
+- Cartas de Mônica isoladas (não ontologia). Quarentenas: clínica, biográfica, teológica, política (entrevista), IEEA/Orbum fora. Sem fusão com B036/B002/B033/B048.
 
 ## Fase 2 — B036 *As Memórias de Javé* (abertura 2026-08-23)
 

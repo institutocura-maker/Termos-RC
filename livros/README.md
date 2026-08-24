@@ -41,3 +41,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B041_rebeliao_dos_eletrons` — Devolutiva aplicada (2026-08-23); 9 fichas (RC-378, RC-379, RC-382, RC-161, RC-332, RC-041, RC-042, RC-151, RC-167); B041 nas fontes de RC-042; 0 códigos; BIBLIO intocada. Sem apostila.
 
 `CONCLUIDOS/B036_memorias_de_jave` — Devolutiva aplicada (2026-08-23); 7 fichas (RC-421, RC-422, RC-426, RC-245, RC-424, RC-001, RC-414); 0 códigos; BIBLIO intocada. CIP p. 111 = bloco de outra obra. Sem apostila.
+
+`B034_cartas_a_jave` — ciclo em andamento (ingresso 2026-08-24); dossiê enxuto aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada.
