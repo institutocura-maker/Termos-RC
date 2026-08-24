@@ -155,6 +155,12 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B003 p. 9]** «irmãos de outros orbes» / «Fraternidade Cósmica» = **ufológica** (leitura, não contacto validado).
 - **[B003 p. 10]** o ditado foi feito «sob os auspícios do amor do Mestre Jesus»; os irmãos espirituais pediram anonimato. **Quarentena mediúnica.** *Passado e Presente* (Gólgota) **isolado**. Sem fusão com B009 / B017 / B001. Fonte **B003** já constava na tabela-mestra.
 
+
+## Ampliação — B025 (Caminhos Espirituais)
+
+- **[B025 p. 109]** Esclarecimento: «Que o Bom Amigo e Mestre Jesus nos dê a Sua Paz.»
+- O ditado veio «sob inspiração» dos mentores; Ellam é o «homem menor da Terra» por quem a Espiritualidade Maior tenta «falar das coisas do céu». **Quarentena mediúnica.** Os capítulos do corpo sobre a vinda e os mestres **isolados**. Sem materializar RC-350 / RC-352. Sem fusão com B003 / B005. Fonte **B025** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

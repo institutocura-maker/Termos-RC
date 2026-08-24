@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B025_caminhos_espirituais/` — piloto aberto (2026-08-24); ingresso + dossiê enxuto; 0 códigos; BIBLIO intocada (`trabalhada`). Este ciclo = Livro II (págs 104–196). Aguarda Devolutiva O-1..O-8. **Não** fundir com B003 / B026. Corpo dos mentores = isolado.
+*(nenhum ciclo integral em andamento — B026 permanece na gaveta.)*
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
@@ -78,4 +78,6 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B039_terra_atlantis_a_era_sapiens` — Devolutiva aplicada (2026-08-24); 8 fichas (RC-078, RC-009, RC-072, RC-041, RC-074, RC-104, RC-241, RC-001) só Esclarecimentos 2018 + NAT + Comentário 3; B039 nas fontes de RC-041, RC-104, RC-241 e RC-001; 0 códigos; BIBLIO intocada. Trilogia Terra Atlantis encerrada. Sem apostila.
 
-`CONCLUIDOS/B003_reintegracao_cosmica` — Devolutiva aplicada (2026-08-24); 4 fichas (RC-003, RC-070, RC-342, RC-072) só paratexto assinado; 0 códigos; BIBLIO intocada. Corpo ditado isolado. B025/B026 na gaveta. Sem apostila.
+`CONCLUIDOS/B003_reintegracao_cosmica` — Devolutiva aplicada (2026-08-24); 4 fichas (RC-003, RC-070, RC-342, RC-072) só paratexto assinado; 0 códigos; BIBLIO intocada. Corpo ditado isolado. Sem apostila.
+
+`CONCLUIDOS/B025_caminhos_espirituais` — Devolutiva aplicada (2026-08-24); 3 fichas (RC-003, RC-072, RC-070) só Esclarecimento p. 108–109; 0 códigos; BIBLIO intocada. Corpo dos mentores isolado. B026 na gaveta. Sem apostila.

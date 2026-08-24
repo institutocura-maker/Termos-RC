@@ -4,6 +4,8 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Livro 2/3 Queda e Ascensão. B003 = remissão. B026 não entra.**
 
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 3 fichas (só Esclarecimento p. 108–109). ZERO códigos. Pasta em `livros/CONCLUIDOS/`. B026 permanece na gaveta.
+
 ---
 
 ## O-1 · Identidade da obra

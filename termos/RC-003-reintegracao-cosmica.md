@@ -72,6 +72,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B003 p. 8–9]** Introdução: analogia do cárcere; «ilha cósmica»; retorno à convivência cósmica «por força de uma lei maior». «Pobre e frágil psicologia humana» = **clínica** (leitura, jamais diagnóstico).
 - **[B003 p. 10]** Esclarecimento (Atlan, 21/09/1991): «Não é nossa opinião pessoal»; informações «ditadas […] por diversos irmãos espirituais» anónimos. **Quarentena mediúnica.** Partes I–III, *Passado e Presente* e Cronologia **isolados**. Sem fusão com B025 / B026 / B017 / B042. Fonte **B003** já constava na tabela-mestra.
 
+
+## Ampliação — B025 (Caminhos Espirituais)
+
+- **[B025 p. 108]** Esclarecimento (Atlan, 02/09/1994): «a Terra somente poderá ser reintegrada à convivência cósmica após o exílio, para outros orbes, dos irmãos terráqueos ainda empedernidos em posturas violentas de desamor e intolerância».
+- **[B025 p. 108]** este trabalho «objetiva a complementação do anterior — Reintegração Cósmica», explicando pontos «antes apenas tocados de leve»; recomenda a leitura prévia de B003 — remissão, **não fundir**.
+- **[B025 p. 109]** «o que os amáveis mentores nos passam»; «amigos espirituais e de outros orbes»; «homem menor da Terra». **Quarentena mediúnica / ufológica.** Partes I–V **isoladas**. p. 105–106 sem assinatura — **não âncora**. Sem fusão com B003 / B026. Fonte **B025** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

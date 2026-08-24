@@ -36,6 +36,12 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B003 p. 3 / p. 8]** Ellam: «cárcere isolado»; «excluídos que fomos da convivência com as outras coletividades do cosmos»; «prisão planetária»; «fronteiras da prisão».
 - **[B003 p. 9]** «ilhados por nosso próprio orgulho»; o mundo aguarda ficar «livre dos grilhões do passado». Partes I–III **isoladas**. Sem fusão com B033 / B025. Fonte **B003** já constava na tabela-mestra.
 
+
+## Ampliação — B025 (Caminhos Espirituais)
+
+- **[B025 p. 108]** Esclarecimento: a humanidade está «congregada na Terra desde os exílios planetários sofridos no passado»; «quando os mundos rebelados passaram por suas reciclagens energéticas» o padrão «torna a ocorrer na atualidade».
+- A reintegração só após novo «exílio, para outros orbes» — **ufológica** (leitura, não facto). Partes I–V **isoladas**. Sem fusão com B003 / B033. Fonte **B025** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

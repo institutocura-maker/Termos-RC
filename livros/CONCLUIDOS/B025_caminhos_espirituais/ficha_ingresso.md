@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B025 — Caminhos Espirituais
 
-> **ESTADO OPERACIONAL: INGRESSO ABERTO — AGUARDA DEVOLUTIVA O-1..O-8.** 0 códigos. BIBLIO intocada. Sem apostila. Pasta **fora** de `CONCLUIDOS/`. Sem fusão. B003 já aplicado. B026 na gaveta.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 3 fichas ampliadas (RC-003, RC-072, RC-070) só Esclarecimento p. 108–109; 0 códigos; tabela-mestra intocada (B025 já constava nas 3). BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. B026 na gaveta. Sem fusão.
 
 ## 1. Identificação
 
