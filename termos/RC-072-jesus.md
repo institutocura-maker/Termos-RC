@@ -168,6 +168,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B026 p. 206]** hoje «desejosos de por Ele trabalharem»; «convocados pelo amor de Jesus que a todos abraça»; «Que a Sua paz seja conosco!»
 - *Passado e Presente* (1ª pessoa do centurião) **isolado**. Sem extrair a dedicatória. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 117]** Posfácio (fala de Ellam): o modo do criador «vitimou os demónios e os egos dos evolutivos, e nem mesmo Jesus parece ter escapado desse problema». **Quarentena teológica.** Falas de Pandora sobre Jesus (corpo e diálogo) **isoladas**. Caps. 1–14 **isolados**. Sem fusão com B011 / B049 / B009. Fonte **B020** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

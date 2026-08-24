@@ -127,6 +127,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B039 p. 48]** NAT: «Seres do Conglomerado» = «a Trimurti e os seus níveis aristocráticos».
 - **[B039 p. 75]** NAT: os Processadores biodemos foram produzidos por Sophia e pelas famílias Aya e Aye, «influenciados pelos objetivos da Trimurti», para elevar o padrão vibratório de Javé (de «puro demo» a um estado mais avançado). **Quarentena científica** (engenharia quântica). Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 117]** Posfácio (fala de Ellam): «o “sentir-se especial”, é um dos piores venenos e tudo o que vem por meio dos três da trimurti, sempre aqui chega com esse tempero: “eu sou isso”, “eu sou aquilo”, “sou assim com Deus”, basta!»
+- Caps. 1–14 **isolados**. Sem materializar RC-135. Sem fusão com B021 / B044 / B024. Fonte **B020** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

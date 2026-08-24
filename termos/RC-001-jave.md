@@ -157,6 +157,11 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B039 p. 113]** NAT: disputa Jesus × Javé; o Criador enviara um Messias «pela força»; Jesus recusou. **Quarentena teológica.**
 - **[B039 p. 156]** Comentário 3: «egos doentios» de Javé = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 116]** Posfácio (fala de Ellam): preferiu não seguir adiante no tema «para evitar contendas com Javé, que sempre me maltratava o corpo e o psiquismo». **Quarentena mediúnica + biográfica**; o «maltratar» = relato pessoal, **não** diagnóstico. Lemma Javé **não ocorre** na Introdução. Caps. 1–14 (17× Javé na voz de Pandora) **isolados**. Sem fusão com B048 / B001. Fonte **B020** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

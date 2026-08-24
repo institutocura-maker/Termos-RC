@@ -4,6 +4,8 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Caps. 1–14 = Pandora isolada. B021 / B056 / B015 / B052 / ART-2026-08-18 fora.**
 
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 5 fichas (só Introdução + Posfácio, fala de Ellam). ZERO códigos. Pasta em `livros/CONCLUIDOS/`.
+
 ---
 
 ## O-1 · Identidade da obra

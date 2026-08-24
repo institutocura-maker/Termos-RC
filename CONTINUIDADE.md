@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (piloto B020 — ingresso e dossiê enxuto; 0 códigos)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B020 aplicada — 5 fichas, 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B020 *O Sorriso de Pandora* (abertura 2026-08-24)
@@ -9,7 +9,11 @@
 - Ciclo em `livros/B020_o_sorriso_de_pandora/` (fora de CONCLUIDOS até Devolutiva).
 - Extract: ~60.361 palavras; SHA-256 `47d14e5b528af313683a750e89158ca636bd57b1e4181c1f02a69297bc941613`. 136 págs todas com texto.
 - **24 termos já citam B020**; 13 com ficha. Dossiê sugere só a voz de Ellam (Introdução + Posfácio): RC-086, RC-041. **0 códigos.** Caps. 1–14 = Pandora — isolados. Sem NAT. RC-118 lemma **ausente**.
-- Hitler (p. 133) = sinopse de B039 — fora. B021 / B056 / B028 / B015 / B052 = **não fundir**. ART-2026-08-18 = secundária. Aguarda Devolutiva.
+- Hitler (p. 133) = sinopse de B039 — fora. B021 / B056 / B028 / B015 / B052 = **não fundir**. ART-2026-08-18 = secundária.
+
+### Devolutiva B020 aplicada (2026-08-24)
+
+- O-1 confirmado (é B020; 136 págs; Gallian × Gullan e índice Silência × Silêncio = `[REVISAR]`; Introdução 17/04/2014 = bloco novo); O-2: 5 fichas ampliadas (**RC-086**, **RC-041** + opcional **RC-001**, **RC-072**, **RC-104**) só Introdução + Posfácio (fala de Ellam); B020 nas fontes de RC-104; *Favor Divino* p. 116 = remissão a B048; RC-283/284/285/286/287/242 **não** reancoradas a partir de Pandora; RC-118 **não** materializada; O-3: zero códigos; O-4: caps. 1–14 isolados; Hesíodo / Dainezi = externas; p. 124 e Hitler p. 133 fora; Orbum/IEEA fora; O-5: B021, B056, B028, B015, B052, B048 e B017 intactas; ART-2026-08-18 secundária; O-6: **BIBLIO intocada** (`trabalhada` / 136 págs); O-7: quarentena mediúnica crítica + clínica («dementada estirpe» / «criada doente» = leitura, jamais diagnóstico) + política, ufológica, científica, teológica, biográfica, institucional; O-8: `_ampliacoes_B020.txt` aplicado; pasta em `livros/CONCLUIDOS/B020_o_sorriso_de_pandora/`. Sem apostila.
 
 ## Fase 2 — B015 *O Guardião do Éden* (abertura 2026-08-24)
 

@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B020_o_sorriso_de_pandora/` — piloto ingressado (2026-08-24); dossiê enxuto; **aguarda Devolutiva**; 0 códigos; BIBLIO intocada (`trabalhada` / 136 págs). Caps. 1–14 = Pandora isolada. Sem NAT. Sem apostila. **Não** mover para CONCLUIDOS antes da Devolutiva + aplicação.
+*(nenhum ciclo integral em andamento.)*
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 

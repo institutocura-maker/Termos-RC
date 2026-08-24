@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B020 — O Sorriso de Pandora
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Sem apostila. Pasta fora de `CONCLUIDOS/`. Sem fusão.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 5 fichas ampliadas (RC-086, RC-041 + opcional RC-001, RC-072, RC-104) só Introdução + Posfácio (fala de Ellam); B020 nas fontes de RC-104; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Sem fusão.
 
 ## 1. Identificação
 

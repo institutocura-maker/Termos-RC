@@ -87,6 +87,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B015 p. 16]** NAT (voz de Ellam): gloss entre parênteses — as «primeiras gerações dos descendentes» do Criador = «anjos-clones». RC-019 permanece **sem ficha**.
 - Prefácio/Esclarecimento = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–17 (Zont En Drel) **isolados**. Sem extrair RC-147 / RC-055 / RC-245 a partir da narrativa. Sem fusão com B017 / B052. Fonte **B015** já constava na tabela-mestra.
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 5–6]** Introdução: a humanidade, «desprezada pelo seu autoproclamado mentor-criador», viu-se pecadora «ainda mesmo antes de ter cometido qualquer equívoco intencionalmente». O «criador bíblico» «reproduziu a história colocando-se como autor e ator de um processo que, na verdade, corre à sua revelia». O «criador dos céus e da Terra […] até aos tempos atuais apodera-se dos eventos ocorridos no âmbito do que julga ser a sua obra».
+- **[B020 p. 117]** Posfácio (fala de Ellam): «O modo ditatorial como o criador agiu e age vitimou os demónios e os egos dos evolutivos».
+- **[B020 p. 118]** «esta humanidade, criada doente e obrigada a ser sadia» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Introdução «tirocínio dementado» / «dementada estirpe» = **clínica — fora da ontologia**. Caps. 1–14 **isolados**. Sem fusão com B015 / B017 / B048. Fonte **B020** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

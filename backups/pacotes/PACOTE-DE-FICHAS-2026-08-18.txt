@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 25229 | 244 | 6a089a753380cfe80ec4539b4d03150860c2ab84cb760a3c7aa6d5254199def0
+# termos/RC-001-jave.md | 25723 | 249 | 271b0de9f5a1e4d74f89e36a02870b57aba357f8881ccfb759da6c0e8b004023
 # termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
 # termos/RC-003-reintegracao-cosmica.md | 12842 | 129 | 3f1975d6eb8c44ba999160c3dce5767694e368872d35394789d6a5f0c516d751
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -18,7 +18,7 @@
 # termos/RC-009-sophia-cristo-cosmico.md | 27333 | 235 | 8388c761a400d7cee1b6c404d00c31e2c2746d463c32bd2a1746ea3c4ddfe188
 # termos/RC-024-anunnakis.md | 6626 | 79 | 71ca868059d1e0213ad2c7234fe458e3695f678ca47b46aa14a4ee33bde2aeb5
 # termos/RC-037-brahma-brajna.md | 6836 | 90 | 33ba6aebd8d8e062aef25167f3889b77f7e45c7a79cfb841cbcb6d79bb30c11b
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 9828 | 114 | 0ce3f4f77b6ece1959ffaee229882253b703fecee1024f088a57bb76cbff0cf6
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 10844 | 121 | a68ef56c6fc41d5bc9dbebc8c1bb8771a797a1fdab72884d719a618f670c8eb6
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
@@ -28,18 +28,18 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 6110 | 83 | 010e3185c02166175d66da0c12175424c833168c5ad397a88918261d4db77ba4
-# termos/RC-072-jesus.md | 22522 | 213 | fb0c9b2b979d63444105f228624da9635a1169cb5f39b898bd208ddd3dc1fce5
+# termos/RC-072-jesus.md | 22939 | 218 | 13e0d1321f565e0f0313e6a33679f84699f7040e9a6d06e95da0686d81349906
 # termos/RC-074-len-mion-sata.md | 3183 | 58 | 7b49a61bda4aaf425ee0948d618d64b78fb1132cabf2f6012c58cfa02e5e8977
 # termos/RC-078-lucifer-yel-luzbel.md | 5662 | 73 | ad5401d8adc0719b99013fe2390231a48eb309dee4d9263889152d8c51206e6b
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
 # termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 10351 | 105 | d275e135defc6a27a5c86c618b44566726c64565c842c9beaadfeb3e5f293f9d
-# termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
+# termos/RC-086-pandora.md | 5322 | 69 | f2a7c4cd522fc21c26babcb92a01257e58106fba8d1c380cfc61e0dd7b14d584
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
 # termos/RC-091-projeto-talm.md | 11262 | 106 | 10f2efbc5cd27e73f04ebc570db6e365bfdd4ee351f90ea62e3de5cd25638132
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
 # termos/RC-102-shiva-savna.md | 5733 | 70 | 2e26fa85514a80a4afafb6ca825df3598befed04abfe1c09a37470205c7d874c
-# termos/RC-104-trimurti.md | 15755 | 160 | 7285b706ae1f268bc1c2a5ab247b182f4b850511644508c21a1b8827990a7def
+# termos/RC-104-trimurti.md | 16202 | 166 | 1eee9670d2745be0cb9be145606c13d1054bfb91ac1cc167ed8591253e44e7f4
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1595020 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1598699 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -597,6 +597,11 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B039 p. 32]** NAT: o «Senhor de Noé» apresentou-se como «Javé» à linhagem de Sem / Moisés e como «Brahma» aos arianos de Gomer. Remissão a B052 — **não fundir**.
 - **[B039 p. 113]** NAT: disputa Jesus × Javé; o Criador enviara um Messias «pela força»; Jesus recusou. **Quarentena teológica.**
 - **[B039 p. 156]** Comentário 3: «egos doentios» de Javé = **clínica** (leitura, jamais diagnóstico). Caps. 1–12 **isolados**. Comentários 1–2 **fora**. Sem fusão com B017 / B018 / B001. Fonte **B039** acrescentada na tabela-mestra.
+
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 116]** Posfácio (fala de Ellam): preferiu não seguir adiante no tema «para evitar contendas com Javé, que sempre me maltratava o corpo e o psiquismo». **Quarentena mediúnica + biográfica**; o «maltratar» = relato pessoal, **não** diagnóstico. Lemma Javé **não ocorre** na Introdução. Caps. 1–14 (17× Javé na voz de Pandora) **isolados**. Sem fusão com B048 / B001. Fonte **B020** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1634,6 +1639,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B015 p. 16]** NAT (voz de Ellam): gloss entre parênteses — as «primeiras gerações dos descendentes» do Criador = «anjos-clones». RC-019 permanece **sem ficha**.
 - Prefácio/Esclarecimento = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–17 (Zont En Drel) **isolados**. Sem extrair RC-147 / RC-055 / RC-245 a partir da narrativa. Sem fusão com B017 / B052. Fonte **B015** já constava na tabela-mestra.
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 5–6]** Introdução: a humanidade, «desprezada pelo seu autoproclamado mentor-criador», viu-se pecadora «ainda mesmo antes de ter cometido qualquer equívoco intencionalmente». O «criador bíblico» «reproduziu a história colocando-se como autor e ator de um processo que, na verdade, corre à sua revelia». O «criador dos céus e da Terra […] até aos tempos atuais apodera-se dos eventos ocorridos no âmbito do que julga ser a sua obra».
+- **[B020 p. 117]** Posfácio (fala de Ellam): «O modo ditatorial como o criador agiu e age vitimou os demónios e os egos dos evolutivos».
+- **[B020 p. 118]** «esta humanidade, criada doente e obrigada a ser sadia» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Introdução «tirocínio dementado» / «dementada estirpe» = **clínica — fora da ontologia**. Caps. 1–14 **isolados**. Sem fusão com B015 / B017 / B048. Fonte **B020** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -2395,6 +2407,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B026 p. 206]** hoje «desejosos de por Ele trabalharem»; «convocados pelo amor de Jesus que a todos abraça»; «Que a Sua paz seja conosco!»
 - *Passado e Presente* (1ª pessoa do centurião) **isolado**. Sem extrair a dedicatória. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 117]** Posfácio (fala de Ellam): o modo do criador «vitimou os demónios e os egos dos evolutivos, e nem mesmo Jesus parece ter escapado desse problema». **Quarentena teológica.** Falas de Pandora sobre Jesus (corpo e diálogo) **isoladas**. Caps. 1–14 **isolados**. Sem fusão com B011 / B049 / B009. Fonte **B020** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2769,6 +2786,13 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[P2024-08-03 — destaque O-2] O sorriso de Pandora (U1414–U1419):** "era Pandora sorrindo, se sentindo livre do domínio de Zeus"; "ele antes era um ser que se chamava Kalil Kadmon [STT: 'Cali Calon']; disso veio o Adam Kadmon, que é outra história, mas que se misturou; e assim, agora se sentia mulher, o nome que deu foi Pandora"; "uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora".
 - **[P2024-08-03] O destrave (U0978–U0982):** "esse problema se deu em todos os segmentos evolutivos advindos dessa geração regenerada do criador, à exceção dos descendentes de Marichi, via Kashyapa, de quem descendem os humanos, devido ao destrave que aconteceu em momentos distintos da sua história evolutiva. Destrave esse feito especificamente por Pandora, por Lilith, por Eva, por Noreia e alguns descendentes"; "se essas mulheres não tivessem feito isso, a humanidade estaria enquadrada em mais uma espécie de lobo, urso".
+
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 5–8]** Introdução (Atlan, 17/04/2014 — voz de Ellam): «Por entre risos e lágrimas, Pandora sobreviveu.» Ellam resume o ardil de Zeus / Prometeu / Hefesto e cita Hesíodo (*Os Trabalhos e os Dias*; *Teogonia*) = **referência externa, não ontologia**. «Ela mesmo foi quem construiu o seu psiquismo de primeira mulher-humana, contrariando por completo as expetativas dos deuses do Olimpo.» «Começa, portanto, o fim do seu silêncio!»
+- **[B020 p. 7]** os escritos «são frutos de uma atitude unilateral da sua parte»; semearam «curiosidade indevida numa mente já cansada […] como é o caso deste aflito escrevente». **Quarentena mediúnica** (canal / «escrevente», não ontologia do médium).
+- **[B020 p. 115–120]** Posfácio (18/08/2014, aeroporto de Salvador): Ellam relata o encontro e, na própria fala, aceita publicar «em sua homenagem». Falas de Pandora no diálogo **isoladas** (padrão B034). Caps. 1–14 **isolados**. Sem extrair RC-118 (lemma Val Dimon **ausente** neste PDF). Sem reancorar RC-283 / RC-284 / RC-285 / RC-286 / RC-287 / RC-242 a partir da narrativa. Sem fusão com B021 / B056 / B028 / B015 / B052. ART-2026-08-18 permanece **secundária**. Fonte **B020** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -3414,6 +3438,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[B039 p. 48]** NAT: «Seres do Conglomerado» = «a Trimurti e os seus níveis aristocráticos».
 - **[B039 p. 75]** NAT: os Processadores biodemos foram produzidos por Sophia e pelas famílias Aya e Aye, «influenciados pelos objetivos da Trimurti», para elevar o padrão vibratório de Javé (de «puro demo» a um estado mais avançado). **Quarentena científica** (engenharia quântica). Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
+
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 117]** Posfácio (fala de Ellam): «o “sentir-se especial”, é um dos piores venenos e tudo o que vem por meio dos três da trimurti, sempre aqui chega com esse tempero: “eu sou isso”, “eu sou aquilo”, “sou assim com Deus”, basta!»
+- Caps. 1–14 **isolados**. Sem materializar RC-135. Sem fusão com B021 / B044 / B024. Fonte **B020** acrescentada na tabela-mestra.
 
 ## Fontes
 

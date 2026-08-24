@@ -29,6 +29,13 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[P2024-08-03 — destaque O-2] O sorriso de Pandora (U1414–U1419):** "era Pandora sorrindo, se sentindo livre do domínio de Zeus"; "ele antes era um ser que se chamava Kalil Kadmon [STT: 'Cali Calon']; disso veio o Adam Kadmon, que é outra história, mas que se misturou; e assim, agora se sentia mulher, o nome que deu foi Pandora"; "uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora".
 - **[P2024-08-03] O destrave (U0978–U0982):** "esse problema se deu em todos os segmentos evolutivos advindos dessa geração regenerada do criador, à exceção dos descendentes de Marichi, via Kashyapa, de quem descendem os humanos, devido ao destrave que aconteceu em momentos distintos da sua história evolutiva. Destrave esse feito especificamente por Pandora, por Lilith, por Eva, por Noreia e alguns descendentes"; "se essas mulheres não tivessem feito isso, a humanidade estaria enquadrada em mais uma espécie de lobo, urso".
 
+
+## Ampliação — B020 (O Sorriso de Pandora)
+
+- **[B020 p. 5–8]** Introdução (Atlan, 17/04/2014 — voz de Ellam): «Por entre risos e lágrimas, Pandora sobreviveu.» Ellam resume o ardil de Zeus / Prometeu / Hefesto e cita Hesíodo (*Os Trabalhos e os Dias*; *Teogonia*) = **referência externa, não ontologia**. «Ela mesmo foi quem construiu o seu psiquismo de primeira mulher-humana, contrariando por completo as expetativas dos deuses do Olimpo.» «Começa, portanto, o fim do seu silêncio!»
+- **[B020 p. 7]** os escritos «são frutos de uma atitude unilateral da sua parte»; semearam «curiosidade indevida numa mente já cansada […] como é o caso deste aflito escrevente». **Quarentena mediúnica** (canal / «escrevente», não ontologia do médium).
+- **[B020 p. 115–120]** Posfácio (18/08/2014, aeroporto de Salvador): Ellam relata o encontro e, na própria fala, aceita publicar «em sua homenagem». Falas de Pandora no diálogo **isoladas** (padrão B034). Caps. 1–14 **isolados**. Sem extrair RC-118 (lemma Val Dimon **ausente** neste PDF). Sem reancorar RC-283 / RC-284 / RC-285 / RC-286 / RC-287 / RC-242 a partir da narrativa. Sem fusão com B021 / B056 / B028 / B015 / B052. ART-2026-08-18 permanece **secundária**. Fonte **B020** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
