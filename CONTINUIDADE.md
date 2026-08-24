@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B017 — aguarda Devolutiva; B018/B039 na gaveta; 0 códigos)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B017 aplicada — 7 fichas, 0 códigos; B018/B039 na gaveta)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B017 *Terra Atlantis I: O Sinal de Land's End* (abertura 2026-08-24) — **livro 1/3; B018/B039 fora**
@@ -10,6 +10,10 @@
 - Extract: ~70.573 palavras; SHA-256 `3c4c8f90ca022e0e58139abc9ab2923dbbc34751aed80b18f92e6d86b6669002`. 185 págs com texto.
 - **23 termos já citam B017**; 9 com ficha. Dossiê sugere só a voz de Ellam: RC-078, RC-003, RC-009, RC-072. **0 códigos.** Caps. 1–13 = Val Eno — isolados. RC-237/123/089/233/101/065 sem ficha.
 - Remissão a B003/B025/B026 = **não fundir**. B018 e B039 no upload — **não processados**. Quarentena mediúnica crítica. Orbum/IEEA/roteiro (p. 174–185) fora. Hitler (p. 181) = sinopse de B039 — fora.
+
+### Devolutiva B017 aplicada (2026-08-24)
+
+- O-1 confirmado (é B017; obra integral 185 págs; Gallian × Gullan = `[REVISAR]`; sem ISBN/CIP; narrativa de Val Eno isolada); O-2: 7 fichas ampliadas (**RC-078**, **RC-003**, **RC-009**, **RC-072** + opcional **RC-002**, **RC-041**, **RC-104**) só com Prefácio / Esclarecimentos / NAT; B017 nas fontes de RC-002, RC-003, RC-041 e RC-104; RC-232/241/080/081 **não** ampliadas a partir de Val Eno; RC-237 **não** materializada; O-3: zero códigos; RC-237/123/089/233/101/065/018/032/058/036/186/082/142/028 sem ficha; O-4: caps. 1–13 isolados; Hitler (p. 181) fora; Chico/Dawkins/Fosar-Bludorf = externas; Orbum/IEEA/roteiro fora; B003/B025/B026 = remissão; O-5: B018, B039, B038, B003, B025, B026 e B009 intactas; O-6: **BIBLIO intocada** (`trabalhada` / 185 págs); O-7: quarentena mediúnica crítica (Val Eno / NAT / Chico) + clínica («criação doentia» / «câncer»), ufológica, científica, teológica, político-geopolítica, institucional; O-8: `_ampliacoes_B017.txt` aplicado; pasta em `livros/CONCLUIDOS/B017_terra_atlantis_o_sinal_de_lands_end/`. Sem apostila. B018 e B039 permanecem na gaveta.
 
 ## Fase 2 — B033 *O Drama Terreno de Javé* (abertura 2026-08-24) — **vol. 3; B001/B002 = remissão**
 

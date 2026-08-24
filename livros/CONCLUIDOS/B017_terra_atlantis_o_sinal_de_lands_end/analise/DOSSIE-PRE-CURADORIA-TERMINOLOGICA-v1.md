@@ -4,7 +4,7 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Livro 1/3 Terra Atlantis. B018 e B039 não entram neste dossiê.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 7 fichas (só voz de Ellam). ZERO códigos. Pasta em `livros/CONCLUIDOS/`. B018/B039 permanecem na gaveta.
 
 ---
 

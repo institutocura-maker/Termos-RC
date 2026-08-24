@@ -58,6 +58,12 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B027 p. 7]** Esclarecimento (voz de Ellam): «em que a comunidade planetária terrestre está prestes a ser reintegrada à convivência cósmica»; os mentores pretendem adaptar aos dias atuais ensinamentos dos «grandes mestres da humanidade».
 - «série de trabalhos» em filosofia política, religiosa e moral (p. 7) = anunciada — **não cadastrar**. Gabriel / Tiago e Sócrates / Platão / Aristóteles **isolados**. Caps. 4–13 + sinopse = **fora**. Sem fusão com B003 / B033 / B021. Fonte **B027** já constava na tabela-mestra.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 6]** Esclarecimentos: Ellam não sabe como os desdobramentos serão conduzidos «após a reintegração da Terra ao convívio com o circuito de intercâmbio cósmico no qual o nosso planeta se encontra há muito inserido».
+- IEEA (mesmo parágrafo) = **institucional — fora**. Remissão a B003 / B025 / B026 = **não fundir**. Caps. 1–13 **isolados**. Sem fusão com B027 / B042. Fonte **B017** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

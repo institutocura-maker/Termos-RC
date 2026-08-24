@@ -30,6 +30,13 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 
 - **[P2020-07-11] O entorno da rebelião (U0600–U0650):** "essa coisa do par de Tempérium (Moros/Olm) veio a recomeçar nos contornos da rebelião de Lúcifer, nas famílias biodemo, lidando com aquele contexto de Sofia, alguns com o codificador de Zian"; "a escola do codificador trabalhou alguns poucos milhões de anos; a rebelião de Lúcifer correu durante o curso: parte da turma ficou e a outra parte se rebelou"; referência aos livros "Compromisso", "Terra Atlantis" e "Testamento de Jesus" [REVISAR — obra] sobre a visita dos colegas da escola à Terra no bojo da rebelião.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 4]** Prefácio: o livro dá seguimento aos «desdobramentos da Rebelião de Lúcifer» e ao «exílio forçado» das famílias Val e Yel.
+- **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas «obrigadas a aportar» por causa da rebelião; operação «camuflagem» em torno do «quartel-general da rebelião».
+- Caps. 1–13 **isolados**. Artefato voador / raças de fora = **ufológica — fora**. Sem fusão com B003 / B018. Fonte **B017** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -18,6 +18,13 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
 - **Idioma de origem:** latim *lucifer* (portador da luz)
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 4–5]** Prefácio (voz de Ellam): as informações «complementam, aprofundam e dão seguimento» à trilogia *Queda e Ascensão Espiritual* (B003 / B025 / B026) — remissão, **não fusão** — «notadamente às […] desdobramentos da Rebelião de Lúcifer» e às trajetórias das famílias Val e Yel até aportarem na Terra, «consequências decorrentes desse exílio forçado».
+- **[B017 p. 5]** a narrativa «não pertence à autoria intelectual deste escrevente», e sim a «um autor situado em um outro contexto». **Quarentena mediúnica.**
+- **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas que, «devido aos desdobramentos da rebelião de Lúcifer, viram-se obrigadas a aportar no planeta Terra»; alguns personagens optaram por uma operação «camuflagem» para preservar o «quartel-general da rebelião». Caps. 1–13 (Val Eno) **isolados**. Artefato voador (p. 4) = **ufológica — fora**. Sem fusão com B018 / B039. Fonte **B017** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

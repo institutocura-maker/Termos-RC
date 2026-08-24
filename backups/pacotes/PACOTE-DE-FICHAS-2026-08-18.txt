@@ -9,16 +9,16 @@
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # termos/RC-001-jave.md | 24471 | 236 | 33a7c1c35250571c9c990b45eebda6ddbe6f4ef3584000bdc831718a16f26236
-# termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
-# termos/RC-003-reintegracao-cosmica.md | 9586 | 101 | 36feee7a719bd9f88ffd09b910745c8f8cd939887e5ea24ab9e05db54c45618b
+# termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
+# termos/RC-003-reintegracao-cosmica.md | 10099 | 107 | cbdc522d633d41a3adc6b7510266adf61b61e890d31710f4336415187135e8c7
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 6247 | 93 | 075010250faf15344ad22fa553cbea13a465b33ef7b054ed20cbc58c854c0f8f
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
-# termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
+# termos/RC-009-sophia-cristo-cosmico.md | 25700 | 221 | 355f538a60929699f74e62661c96a2ba26750dd2a2a7346d4fd437f89fc13094
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 6836 | 90 | 33ba6aebd8d8e062aef25167f3889b77f7e45c7a79cfb841cbcb6d79bb30c11b
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 7181 | 88 | 8111abe1751c75cffce201349e412d107b05624d36b6483c407f703b9b6e841c
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 7765 | 94 | 0a792b11ebaec14846112ff17b04080ae84ddc918c13f552e3b273bf2641e277
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
@@ -28,9 +28,9 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4673 | 64 | 0212e7f3013684c5e41cb597fec8a0cefaaf855df9d1c4451c2f27199e7cac65
-# termos/RC-072-jesus.md | 18678 | 173 | d0bb92554540b620c48b5fea433c847c13691f7b0b2a0e526a5dc05f2ab100a6
+# termos/RC-072-jesus.md | 19248 | 179 | 914492a5e78f596b7e70da524a9138cab7dcf3f20bdc594b32c0c5a8791b72bb
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
-# termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
+# termos/RC-078-lucifer-yel-luzbel.md | 4540 | 61 | 0b2b1f3b3d01d61a1dc09d701f67fcce4de3549ab7d8f498434a38cbd940a722
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
 # termos/RC-081-mohen-so-avatar-keshava-de-vishnu.md | 10351 | 105 | d275e135defc6a27a5c86c618b44566726c64565c842c9beaadfeb3e5f293f9d
 # termos/RC-086-pandora.md | 4017 | 62 | 976180bd592f5fc6b17db9db6ff74af615779480e04e0f34013736b0c7b7d42f
@@ -39,7 +39,7 @@
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
 # termos/RC-102-shiva-savna.md | 5733 | 70 | 2e26fa85514a80a4afafb6ca825df3598befed04abfe1c09a37470205c7d874c
-# termos/RC-104-trimurti.md | 14312 | 143 | acf541b44518add4899449105b626c914d5dfa9ffb19d971572e364b33a32bef
+# termos/RC-104-trimurti.md | 14759 | 149 | b959a808dd56a8aa820bd75a7aaee4d35b69fc74e251fc2e416d168fb5daa632
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1572739 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1577452 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -709,6 +709,13 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 
 - **[P2020-07-11] O entorno da rebelião (U0600–U0650):** "essa coisa do par de Tempérium (Moros/Olm) veio a recomeçar nos contornos da rebelião de Lúcifer, nas famílias biodemo, lidando com aquele contexto de Sofia, alguns com o codificador de Zian"; "a escola do codificador trabalhou alguns poucos milhões de anos; a rebelião de Lúcifer correu durante o curso: parte da turma ficou e a outra parte se rebelou"; referência aos livros "Compromisso", "Terra Atlantis" e "Testamento de Jesus" [REVISAR — obra] sobre a visita dos colegas da escola à Terra no bojo da rebelião.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 4]** Prefácio: o livro dá seguimento aos «desdobramentos da Rebelião de Lúcifer» e ao «exílio forçado» das famílias Val e Yel.
+- **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas «obrigadas a aportar» por causa da rebelião; operação «camuflagem» em torno do «quartel-general da rebelião».
+- Caps. 1–13 **isolados**. Artefato voador / raças de fora = **ufológica — fora**. Sem fusão com B003 / B018. Fonte **B017** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -796,6 +803,12 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - Lemma «reintegração cósmica» **não** ocorre como locução fechada no Esclarecimento. Sem interpolar o título da ficha. Ocorre «reintegrada à convivência cósmica».
 - **[B027 p. 7]** Esclarecimento (voz de Ellam): «em que a comunidade planetária terrestre está prestes a ser reintegrada à convivência cósmica»; os mentores pretendem adaptar aos dias atuais ensinamentos dos «grandes mestres da humanidade».
 - «série de trabalhos» em filosofia política, religiosa e moral (p. 7) = anunciada — **não cadastrar**. Gabriel / Tiago e Sócrates / Platão / Aristóteles **isolados**. Caps. 4–13 + sinopse = **fora**. Sem fusão com B003 / B033 / B021. Fonte **B027** já constava na tabela-mestra.
+
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 6]** Esclarecimentos: Ellam não sabe como os desdobramentos serão conduzidos «após a reintegração da Terra ao convívio com o circuito de intercâmbio cósmico no qual o nosso planeta se encontra há muito inserido».
+- IEEA (mesmo parágrafo) = **institucional — fora**. Remissão a B003 / B025 / B026 = **não fundir**. Caps. 1–13 **isolados**. Sem fusão com B027 / B042. Fonte **B017** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1212,6 +1225,13 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B016 p. 125]** “A volta de Jesus como Sophia, ou seja, a sua face de ‘Cristo Cósmico’ — o do ‘corpo glorioso’.”
 - Sem fusão com B014. IEEA/Orbum **fora**.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 14–15]** NAT: em 2002–2003, «o ser Val Eno Gron situou a figura de Sophia, também conhecido como “Cristo Cósmico”» (notícias via Chico Xavier = **externa / mediúnica**) «como sendo o representante do criador no âmbito deste universo»; Ellam registou a «aparente discrepância» com o recorte de B026 sem «fechá-la». Grafia **Sofia** (NAT) × canônico Sophia.
+- **[B017 p. 15]** NAT / mentores (2015): primeiro surgimento de Sophia como «Gestor de Mundos»; depois «representante do criador» / «primeiro em comando nesta parte da criação».
+- **[B017 p. 23]** NAT: a interação da mente de Vishnu «passou a existir, para este universo, a personalidade de Sophia» — «Personificação da Sabedoria»; «Primeiro em Comando»; «Cristo Cósmico». Caps. 1–13 **isolados**. Sem fusão com B018 / B014. Fonte **B017** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1537,6 +1557,12 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B033 p. 5]** as divindades criadoras intentam homenagear o Pai-Mãe Incognoscível; a criação de Javé «terminou por apresentar uma série de problemas»; o criador expulsou classes de anjos-clones «rebeldes».
 - **[B033 p. 79]** quem gerou o «computador» «dele se tornou refém». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
 - Remissões a B001 / B002 (p. 10) = **não fundir**. «Adoecido» / «câncer» = **clínica — fora**. Sem fusão com B035. Fonte **B033** já constava na tabela-mestra.
+
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 15]** NAT (voz de Ellam / mentores): «o “deus universal”, o criador, desde há muito se encontrava desaparecido e dele não se tinha notícia». A sequência em 1ª pessoa da família Val («a minha mente particularizada») = **Val Eno — isolada**.
+- **[B017 p. 14]** NAT: Sophia como «representante do criador» — discrepância registada, não interpolada. «Criação doentia» (NAT p. 132) = **clínica — fora**. Sem fusão com B001 / B033. Fonte **B017** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2240,6 +2266,12 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B001 p. 9]** «O que mais Jesus nos pediu é que amássemos ao ser criador deste universo, que é exatamente o mesmo personagem»; Jesus «tinha e tem os seus motivos» para o pedido, «ainda que não possamos compreender o Senhor Javé».
 - **Quarentena teológica.** Sem fusão com B009 / B011 / B027. Fonte **B001** acrescentada na tabela-mestra.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 14]** NAT: ao tempo de B026, os mentores apresentaram «a figura cósmica que viria a ser conhecida mais tarde através da figura de Jesus» como «uma das “autoridades cósmicas” que presidia a um grupo de civilizações» na Via Láctea. **Quarentena mediúnica.**
+- **[B017 p. 23]** NAT: Sophia, «ao nascer muito mais tarde na Terra, assumiria a personalidade de Jesus». Caps. 1–13 **isolados**. Sem fusão com B003 / B026 / B009. Fonte **B017** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2351,6 +2383,13 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **Grafia preferida:** Lúcifer (canônico); Yel Luzbel (nome biodemo)
 - **Variações:** Portador da Luz; Estrela da Manhã; anjo caído; diabo (concepção deturpada)
 - **Idioma de origem:** latim *lucifer* (portador da luz)
+
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 4–5]** Prefácio (voz de Ellam): as informações «complementam, aprofundam e dão seguimento» à trilogia *Queda e Ascensão Espiritual* (B003 / B025 / B026) — remissão, **não fusão** — «notadamente às […] desdobramentos da Rebelião de Lúcifer» e às trajetórias das famílias Val e Yel até aportarem na Terra, «consequências decorrentes desse exílio forçado».
+- **[B017 p. 5]** a narrativa «não pertence à autoria intelectual deste escrevente», e sim a «um autor situado em um outro contexto». **Quarentena mediúnica.**
+- **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas que, «devido aos desdobramentos da rebelião de Lúcifer, viram-se obrigadas a aportar no planeta Terra»; alguns personagens optaram por uma operação «camuflagem» para preservar o «quartel-general da rebelião». Caps. 1–13 (Val Eno) **isolados**. Artefato voador (p. 4) = **ufológica — fora**. Sem fusão com B018 / B039. Fonte **B017** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3210,6 +3249,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[B033 p. 81]** «querela cósmica» que envolve «os três deuses hindus da Trimurti» em torno da autoria e da supremacia sobre a obra; as falanges vinculadas aos três esclareceram o escrevente.
 - **[B033 p. 82]** «Xadrez Cósmico» (inconcluso) anunciado para os temas «politicamente incorretos» da Trimurti — Colecionar Incertezas; **não fundir** com B048 / RC-150. RC-135 permanece **sem ficha**. Sem fusão com B024 / B044. Fonte **B033** já constava na tabela-mestra.
+
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 23]** NAT: «um dos senhores da criação universal e da vida — pertencente ao ordenamento geopolítico da trimurti, a saber, Brahma, Visnhu e Shiva». Grafia **Visnhu** × canônico Vishnu. «Geopolítico» = leitura do autor, **não** fato político.
+- Caps. 1–13 **isolados**. Sem fusão com B023 / B024 / B044. Fonte **B017** acrescentada na tabela-mestra.
 
 ## Fontes
 

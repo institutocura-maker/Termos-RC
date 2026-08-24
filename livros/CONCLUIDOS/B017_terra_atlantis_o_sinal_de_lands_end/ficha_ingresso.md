@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B017 — Terra Atlantis I: O Sinal de Land's End
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada (`trabalhada`). Sem apostila. **PDF = obra integral (185 págs), livro 1/3 da trilogia Terra Atlantis. B018 e B039 não processados. Sem fusão.**
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 7 fichas ampliadas (RC-078, RC-003, RC-009, RC-072 + opcionais RC-002, RC-041, RC-104) só com a voz de Ellam; B017 nas fontes de RC-002, RC-003, RC-041 e RC-104; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. B018/B039 na gaveta. Sem fusão.
 
 ## 1. Identificação
 

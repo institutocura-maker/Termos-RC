@@ -128,6 +128,12 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B001 p. 9]** «O que mais Jesus nos pediu é que amássemos ao ser criador deste universo, que é exatamente o mesmo personagem»; Jesus «tinha e tem os seus motivos» para o pedido, «ainda que não possamos compreender o Senhor Javé».
 - **Quarentena teológica.** Sem fusão com B009 / B011 / B027. Fonte **B001** acrescentada na tabela-mestra.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 14]** NAT: ao tempo de B026, os mentores apresentaram «a figura cósmica que viria a ser conhecida mais tarde através da figura de Jesus» como «uma das “autoridades cósmicas” que presidia a um grupo de civilizações» na Via Láctea. **Quarentena mediúnica.**
+- **[B017 p. 23]** NAT: Sophia, «ao nascer muito mais tarde na Terra, assumiria a personalidade de Jesus». Caps. 1–13 **isolados**. Sem fusão com B003 / B026 / B009. Fonte **B017** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

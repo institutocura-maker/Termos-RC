@@ -118,6 +118,13 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B016 p. 125]** “A volta de Jesus como Sophia, ou seja, a sua face de ‘Cristo Cósmico’ — o do ‘corpo glorioso’.”
 - Sem fusão com B014. IEEA/Orbum **fora**.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 14–15]** NAT: em 2002–2003, «o ser Val Eno Gron situou a figura de Sophia, também conhecido como “Cristo Cósmico”» (notícias via Chico Xavier = **externa / mediúnica**) «como sendo o representante do criador no âmbito deste universo»; Ellam registou a «aparente discrepância» com o recorte de B026 sem «fechá-la». Grafia **Sofia** (NAT) × canônico Sophia.
+- **[B017 p. 15]** NAT / mentores (2015): primeiro surgimento de Sophia como «Gestor de Mundos»; depois «representante do criador» / «primeiro em comando nesta parte da criação».
+- **[B017 p. 23]** NAT: a interação da mente de Vishnu «passou a existir, para este universo, a personalidade de Sophia» — «Personificação da Sabedoria»; «Primeiro em Comando»; «Cristo Cósmico». Caps. 1–13 **isolados**. Sem fusão com B018 / B014. Fonte **B017** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

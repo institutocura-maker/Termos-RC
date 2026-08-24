@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 276059 | 2954 | ff57ae61989c115527d5b136c9e2a74b94df469f5441cfd7384614f42b528b54
+# ferramentas/dados_termos.py | 276091 | 2954 | ff29584910b6e0f81ed824ff8d8de38032dd73907119e6ebf501470b7f93c624
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53563 | 352 | 4b14c6ef590c47a9f4c3edbe015b77c09b7d1df8b1bf4c9868fd5eb58fa9e32b
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 150844 | 1246 | 66a315206665715bdff354367f07adc0596e76e347da54c0d6cfc9199505f49c
+# CONTINUIDADE.md | 152010 | 1250 | 6b04197071e273d4ed74fca5ba7b2c32c0eb542e65900a5bf489a54421539637
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 602597 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 603795 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -111,8 +111,8 @@ C = "candidato"    # ⚪ — identificado, sem ficha
 TERMOS = [
     # ---- Pré-existentes (RC-001..RC-010)
     ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'B043', 'B037', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
-    ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'P2024-03-03', 'P2024-04-13'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
-    ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'B037', 'B009', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
+    ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'B017', 'P2024-03-03', 'P2024-04-13'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
+    ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'B037', 'B009', 'B017', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
     ("RC-004", "Elohim", SER_COL[0], SER_COL[1], C, ["B061", 'P2024-09-28'], "RC-001; RC-474", False),
     ("RC-005", "Segundo Advento do Cristo (Volta de Jesus)", EVE_PRO[0], EVE_PRO[1], P, ["B001", "B002", "B016", "B014", "B003", "B025", "B005", "B011", "B042", "B009", 'B033', 'P2026-08-04', 'P2024-03-02; RC-674; RC-565'], "RC-003; RC-009; RC-070; RC-072; RC-212", True),
     ("RC-006", "Guerra do Éden", EVE_GUE[0], EVE_GUE[1], P, ["B015"], "RC-001; RC-004; RC-147; RC-242", False),
@@ -152,7 +152,7 @@ TERMOS = [
     ("RC-038", "Brahmaloka", TER_SAN[0], TER_SAN[1], P, ['B031', 'B016', 'B013', 'B021', 'B023', 'P2025-03-15'], 'RC-106; RC-077; RC-066; RC-049; RC-041', False),
     ("RC-039", "Capela (Sistema)", LOK_PLA[0], LOK_PLA[1], P, ["B031", "B003", "B025", "B057", "B058"], "RC-085; RC-046; RC-109; RC-146; RC-002; RC-007", False),
     ("RC-040", "CFD (Código Fonte Definidor)", COS_LEI[0], COS_LEI[1], P, ['B031', 'B024', 'B002', 'B033', 'B021', 'B041', 'B040', 'B019', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2024-08-03'], 'RC-041; RC-104; RC-081; RC-091; RC-742', False),
-    ("RC-041", "Criador (Brahma/Javé/Demiurgo)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B016', 'B013', 'B020', 'B048', 'B041', 'B034', 'B036', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29'], 'RC-037; RC-052; RC-047; RC-048; RC-001', True),
+    ("RC-041", "Criador (Brahma/Javé/Demiurgo)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B016', 'B013', 'B020', 'B048', 'B041', 'B034', 'B036', 'B017', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29'], 'RC-037; RC-052; RC-047; RC-048; RC-001', True),
     ("RC-042", "Criatura Universal", SER_HIB[0], SER_HIB[1], P, ['B031', 'B024', 'B019', 'B041', 'P2026-04-02', 'P2023-05-13'], "RC-056; RC-099; RC-107; RC-645; RC-761", True),
     ("RC-043", "Conselho dos Cinco", GEN_EXT[0], GEN_EXT[1], P, ["B031"], "RC-065; RC-032; RC-111; RC-121; RC-122; RC-138; RC-143", False),
     ("RC-044", "Cultura Demo", COS_LEI[0], COS_LEI[1], P, ["B031", "B044"], "RC-049; RC-077; RC-064; RC-065", False),
@@ -215,7 +215,7 @@ TERMOS = [
     ("RC-101", "Shamb-Aha", LOK_MUN[0], LOK_MUN[1], P, ["B031", "B017", "B018", "B039"], "RC-127; RC-026; RC-142; RC-074; RC-133", False),
     ("RC-102", "Shiva (Savna)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B024', 'B044', 'B001', 'B033', 'B016', 'B020', 'B021', 'B022', 'B050', 'B051', 'B036', 'B060', 'B037', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2025-11-29'], 'RC-037; RC-135; RC-104; RC-016; RC-073; RC-642; RC-604; RC-675', True),
     ("RC-103", "Tau Ceti (Sistema)", LOK_PLA[0], LOK_PLA[1], P, ["B031", "B058"], "RC-067; RC-021", False),
-    ("RC-104", "Trimurti", GEN_DIV[0], GEN_DIV[1], P, ['B031', 'B035', 'B001', 'B033', 'B014', 'B044', 'B024', 'B021', 'B022', 'B023', 'B060', 'B037', 'P2022-12-17', 'P2021-12-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-02', 'P2023-12-02', 'P2025-11-29'], 'RC-037; RC-102; RC-135; RC-075; RC-040; RC-575; RC-581; RC-609; RC-610; RC-475; RC-769', True),
+    ("RC-104", "Trimurti", GEN_DIV[0], GEN_DIV[1], P, ['B031', 'B035', 'B001', 'B033', 'B014', 'B044', 'B024', 'B021', 'B022', 'B023', 'B060', 'B037', 'B017', 'P2022-12-17', 'P2021-12-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-02', 'P2023-12-02', 'P2025-11-29'], 'RC-037; RC-102; RC-135; RC-075; RC-040; RC-575; RC-581; RC-609; RC-610; RC-475; RC-769', True),
     ("RC-105", "Ulsh", GEN_EXT[0], GEN_EXT[1], P, ["B031", "B061"], "RC-007; RC-070; RC-036", False),
     ("RC-106", "Universo Antimaterial (Brahmaloka / Universo Paralelo)", COS_DIM[0], COS_DIM[1], P, ['B031', 'B024', 'B044', 'B001', 'B002', 'B016', 'B013', 'B021', 'B041', 'B060', 'P2022-12-17', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-13'], 'RC-107; RC-038; RC-108; RC-041; RC-097; RC-077; RC-575; RC-581; RC-636; RC-637; RC-639; RC-003; RC-630; RC-690; RC-495', True),
     ("RC-107", "Universo Material (Bhuloka)", COS_DIM[0], COS_DIM[1], P, ['B031', 'B024', 'B044', 'B001', 'B002', 'B013', 'B005', 'B060', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-106; RC-033; RC-034; RC-084; RC-099; RC-636', True),
@@ -4582,7 +4582,7 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B017 — aguarda Devolutiva; B018/B039 na gaveta; 0 códigos)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B017 aplicada — 7 fichas, 0 códigos; B018/B039 na gaveta)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B017 *Terra Atlantis I: O Sinal de Land's End* (abertura 2026-08-24) — **livro 1/3; B018/B039 fora**
@@ -4592,6 +4592,10 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 - Extract: ~70.573 palavras; SHA-256 `3c4c8f90ca022e0e58139abc9ab2923dbbc34751aed80b18f92e6d86b6669002`. 185 págs com texto.
 - **23 termos já citam B017**; 9 com ficha. Dossiê sugere só a voz de Ellam: RC-078, RC-003, RC-009, RC-072. **0 códigos.** Caps. 1–13 = Val Eno — isolados. RC-237/123/089/233/101/065 sem ficha.
 - Remissão a B003/B025/B026 = **não fundir**. B018 e B039 no upload — **não processados**. Quarentena mediúnica crítica. Orbum/IEEA/roteiro (p. 174–185) fora. Hitler (p. 181) = sinopse de B039 — fora.
+
+### Devolutiva B017 aplicada (2026-08-24)
+
+- O-1 confirmado (é B017; obra integral 185 págs; Gallian × Gullan = `[REVISAR]`; sem ISBN/CIP; narrativa de Val Eno isolada); O-2: 7 fichas ampliadas (**RC-078**, **RC-003**, **RC-009**, **RC-072** + opcional **RC-002**, **RC-041**, **RC-104**) só com Prefácio / Esclarecimentos / NAT; B017 nas fontes de RC-002, RC-003, RC-041 e RC-104; RC-232/241/080/081 **não** ampliadas a partir de Val Eno; RC-237 **não** materializada; O-3: zero códigos; RC-237/123/089/233/101/065/018/032/058/036/186/082/142/028 sem ficha; O-4: caps. 1–13 isolados; Hitler (p. 181) fora; Chico/Dawkins/Fosar-Bludorf = externas; Orbum/IEEA/roteiro fora; B003/B025/B026 = remissão; O-5: B018, B039, B038, B003, B025, B026 e B009 intactas; O-6: **BIBLIO intocada** (`trabalhada` / 185 págs); O-7: quarentena mediúnica crítica (Val Eno / NAT / Chico) + clínica («criação doentia» / «câncer»), ufológica, científica, teológica, político-geopolítica, institucional; O-8: `_ampliacoes_B017.txt` aplicado; pasta em `livros/CONCLUIDOS/B017_terra_atlantis_o_sinal_de_lands_end/`. Sem apostila. B018 e B039 permanecem na gaveta.
 
 ## Fase 2 — B033 *O Drama Terreno de Javé* (abertura 2026-08-24) — **vol. 3; B001/B002 = remissão**
 

@@ -110,6 +110,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B033 p. 81]** «querela cósmica» que envolve «os três deuses hindus da Trimurti» em torno da autoria e da supremacia sobre a obra; as falanges vinculadas aos três esclareceram o escrevente.
 - **[B033 p. 82]** «Xadrez Cósmico» (inconcluso) anunciado para os temas «politicamente incorretos» da Trimurti — Colecionar Incertezas; **não fundir** com B048 / RC-150. RC-135 permanece **sem ficha**. Sem fusão com B024 / B044. Fonte **B033** já constava na tabela-mestra.
 
+
+## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
+
+- **[B017 p. 23]** NAT: «um dos senhores da criação universal e da vida — pertencente ao ordenamento geopolítico da trimurti, a saber, Brahma, Visnhu e Shiva». Grafia **Visnhu** × canônico Vishnu. «Geopolítico» = leitura do autor, **não** fato político.
+- Caps. 1–13 **isolados**. Sem fusão com B023 / B024 / B044. Fonte **B017** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
