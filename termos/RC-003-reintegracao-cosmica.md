@@ -51,6 +51,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B009 p. 18]** assume a tarefa no «campo da tentativa do esclarecimento redentor»; o juízo que fizer «das pessoas e dos fatos» é o que prestará contas «perante as leis cósmicas que nos regem a existência».
 - **[B009 p. 19]** «missões complementares ao testemunho do Cristo» ainda não «corretamente percebidas quanto a certos aspectos pretendidos pela Espiritualidade Maior». Relato atribuído a Ramatis («império da luz», «trabalhadores de última hora») = **voz de terceiro no Esclarecimento — não ontologizado**. Sem fusão com B003 / B037 / B042. Fonte **B009** acrescentada na tabela-mestra.
 
+
+## Ampliação — B027 (Nos Céus da Grécia)
+
+- Lemma «reintegração cósmica» **não** ocorre como locução fechada no Esclarecimento. Sem interpolar o título da ficha. Ocorre «reintegrada à convivência cósmica».
+- **[B027 p. 7]** Esclarecimento (voz de Ellam): «em que a comunidade planetária terrestre está prestes a ser reintegrada à convivência cósmica»; os mentores pretendem adaptar aos dias atuais ensinamentos dos «grandes mestres da humanidade».
+- «série de trabalhos» em filosofia política, religiosa e moral (p. 7) = anunciada — **não cadastrar**. Gabriel / Tiago e Sócrates / Platão / Aristóteles **isolados**. Caps. 4–13 + sinopse = **fora**. Sem fusão com B003 / B033 / B021. Fonte **B027** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

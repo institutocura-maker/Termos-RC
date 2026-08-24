@@ -10,7 +10,7 @@
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # termos/RC-001-jave.md | 20642 | 205 | 3227cd17bb43831b0350a1266c4621b91bcb147a9912aade470dd30deff922c3
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
-# termos/RC-003-reintegracao-cosmica.md | 8813 | 94 | 2fb4f8133850f952785077a6ec9a960ab00561376d019bc22bd7c08d3e25e4dd
+# termos/RC-003-reintegracao-cosmica.md | 9586 | 101 | 36feee7a719bd9f88ffd09b910745c8f8cd939887e5ea24ab9e05db54c45618b
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 5182 | 81 | f51fe3ec808075f61d9ded06b0326c53567d19ac387b8eb6ee53b575c648e4d4
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
@@ -28,7 +28,7 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 17268 | 159 | e1d926e2ca138882116748940e055e407d7e67342308c8539f39c3d753019ac7
+# termos/RC-072-jesus.md | 18096 | 166 | 338a11a4f2ead6dccf853a60b9cbb7b13b7a5c5120a9a9c107eeb96fb23fce83
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1545594 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1547195 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -758,6 +758,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B009 p. 13]** Esclarecimento: Ellam distingue entidade «espiritual (espíritos desencarnados)» e «cósmica (seres que vivem fora do contexto terrestre)» — horizonte cósmico da voz do autor, sem interpolar o termo.
 - **[B009 p. 18]** assume a tarefa no «campo da tentativa do esclarecimento redentor»; o juízo que fizer «das pessoas e dos fatos» é o que prestará contas «perante as leis cósmicas que nos regem a existência».
 - **[B009 p. 19]** «missões complementares ao testemunho do Cristo» ainda não «corretamente percebidas quanto a certos aspectos pretendidos pela Espiritualidade Maior». Relato atribuído a Ramatis («império da luz», «trabalhadores de última hora») = **voz de terceiro no Esclarecimento — não ontologizado**. Sem fusão com B003 / B037 / B042. Fonte **B009** acrescentada na tabela-mestra.
+
+
+## Ampliação — B027 (Nos Céus da Grécia)
+
+- Lemma «reintegração cósmica» **não** ocorre como locução fechada no Esclarecimento. Sem interpolar o título da ficha. Ocorre «reintegrada à convivência cósmica».
+- **[B027 p. 7]** Esclarecimento (voz de Ellam): «em que a comunidade planetária terrestre está prestes a ser reintegrada à convivência cósmica»; os mentores pretendem adaptar aos dias atuais ensinamentos dos «grandes mestres da humanidade».
+- «série de trabalhos» em filosofia política, religiosa e moral (p. 7) = anunciada — **não cadastrar**. Gabriel / Tiago e Sócrates / Platão / Aristóteles **isolados**. Caps. 4–13 + sinopse = **fora**. Sem fusão com B003 / B033 / B021. Fonte **B027** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2109,6 +2116,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B009 p. 19]** Esclarecimento: o «juízo do mundo» «sequer logra […] estar na direção analítica correta» quanto a «Jesus e os temas centrais de sua mensagem», «mesmo decorridos dois mil anos»; «missões complementares ao testemunho do Cristo» (Espiritismo = «exemplo mais recente») também desfiguradas — **quarentena teológica**.
 - **[B009 p. 353]** Ellam: «estar servindo ao Mestre Jesus»; o que faz, faz «acreditando […] estar servindo […] ao amigo maior, Jesus»; se houver equívoco, registra só «a minha boa intenção em servi-Lo».
 - **[B009 p. 353–354]** o anúncio da volta é o tema que Ellam enfoca; a equipe do Espírito da Verdade = a mesma que agora anuncia Jesus. Sem fusão com B011 / B043 / B049. Prefácio de Val Eom e posfácios de Ramatis / Rochester / Hercílio **isolados**. Fonte **B009** acrescentada na tabela-mestra.
+
+
+## Ampliação — B027 (Nos Céus da Grécia)
+
+- **[B027 p. 7]** Esclarecimento: «essas sinfonias têm na pessoa do Mestre Jesus, o maestro amigo que, em profunda harmonia com os mentores e trabalhadores deste e de outros orbes, tomam nas mãos os instrumentos terrenos necessários para que a música possa ser escutada na esfera dos encarnados».
+- **[B027 p. 7]** «É da vontade do Mestre que assim o seja!»; «conforme a vontade dEle, que é o reflexo maior do amor do Pai».
+- Ellam: «apenas um desses instrumentos que a Espiritualidade Maior utiliza». **Quarentena mediúnica** (canal, não ontologia). «outros orbes» = **ufológica**. Aviso de Gabriel/Tiago e o encontro do cap. 2 **fora**. RC-405 permanece **sem ficha**. Sem fusão com B009 / B011 / B043 / B049. Fonte **B027** acrescentada na tabela-mestra.
 
 ## Fontes
 

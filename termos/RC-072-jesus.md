@@ -114,6 +114,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B009 p. 353]** Ellam: «estar servindo ao Mestre Jesus»; o que faz, faz «acreditando […] estar servindo […] ao amigo maior, Jesus»; se houver equívoco, registra só «a minha boa intenção em servi-Lo».
 - **[B009 p. 353–354]** o anúncio da volta é o tema que Ellam enfoca; a equipe do Espírito da Verdade = a mesma que agora anuncia Jesus. Sem fusão com B011 / B043 / B049. Prefácio de Val Eom e posfácios de Ramatis / Rochester / Hercílio **isolados**. Fonte **B009** acrescentada na tabela-mestra.
 
+
+## Ampliação — B027 (Nos Céus da Grécia)
+
+- **[B027 p. 7]** Esclarecimento: «essas sinfonias têm na pessoa do Mestre Jesus, o maestro amigo que, em profunda harmonia com os mentores e trabalhadores deste e de outros orbes, tomam nas mãos os instrumentos terrenos necessários para que a música possa ser escutada na esfera dos encarnados».
+- **[B027 p. 7]** «É da vontade do Mestre que assim o seja!»; «conforme a vontade dEle, que é o reflexo maior do amor do Pai».
+- Ellam: «apenas um desses instrumentos que a Espiritualidade Maior utiliza». **Quarentena mediúnica** (canal, não ontologia). «outros orbes» = **ufológica**. Aviso de Gabriel/Tiago e o encontro do cap. 2 **fora**. RC-405 permanece **sem ficha**. Sem fusão com B009 / B011 / B043 / B049. Fonte **B027** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

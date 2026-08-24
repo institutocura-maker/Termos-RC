@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B027 amostra — aguarda Devolutiva; B035 amostra já aplicada)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B027 amostra aplicada — 2 fichas, 0 códigos; pasta fora de CONCLUIDOS)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
@@ -10,6 +10,10 @@
 - Extract paginado: ~2.388 palavras; SHA-256 `5686a4f9a9d07163cc478ee874dd80104d9c763399420ffcd3825f7d1431863a`. p. 1 sem texto; p. 5, 8, 11 e 14 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
 - **9 termos já citam B027**; 4 com ficha. Dossiê sugere ampliar só a voz de Ellam no Esclarecimento: RC-003, RC-072. **0 códigos.** RC-405/406/407/059/071 sem ficha — não materializar. RC-404 = lemma na fala de Gabriel/Tiago — não ampliar sem autorização.
 - Caps. 4–13 e IEEA/Orbum/entrevista só no sumário — fora. Quarentena mediúnica (instrumento / Gabriel e Tiago / os três filósofos). Sem fusão com B003/B033/B021. **Não fundir** RC-404 com B009 p. 350 nem com B053.
+
+### Devolutiva B027 (amostra) aplicada (2026-08-24)
+
+- O-1 confirmado (é B027; PDF = **Sample** de 14 págs; cap. 3 trunca na p. 14; **não** promover a `trabalhada`); O-2: 2 fichas ampliadas (**RC-003**, **RC-072**) só com o Esclarecimento p. 6–7; lemma «reintegração cósmica» não ocorre como locução fechada (bloco honesto: «reintegrada à convivência cósmica»); B027 acrescentado nas fontes de RC-072 (já constava em RC-003); **veto** RC-404 (fala de Gabriel/Tiago), RC-094 e RC-226; O-3: zero códigos; RC-405/406/407/059/071 sem ficha; Gabriel / Tiago / filósofos sem código; O-4: caps. 4–13 + entrevista ignorados; sinopse = paratexto; `[TEXTO INCOMPLETO]` e «inciarmos» sem interpolação; IEEA/Orbum fora; O-5: B003, B033 e B021 intactas; RC-404 **não** fundida com B009 p. 350 nem com B053; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena mediúnica crítica (canal / aviso / diálogo) + teológica, político-geopolítica, ufológica, biográfica, institucional; O-8: `_ampliacoes_B027.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila.
 
 ## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
 

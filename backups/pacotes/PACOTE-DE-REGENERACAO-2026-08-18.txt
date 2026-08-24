@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 276027 | 2954 | 8e14739fe22f7f1d460d4c490cee129e8b4d910832fe6bc26e8310d3e298c97f
+# ferramentas/dados_termos.py | 276035 | 2954 | 786213c3ba88bc905d2206f8862923f8b07e74fd2b00c7b7dc6af249bc50824a
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53563 | 352 | 4b14c6ef590c47a9f4c3edbe015b77c09b7d1df8b1bf4c9868fd5eb58fa9e32b
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 138036 | 1173 | ef43689ed458e0f6c848e5c0d7383e4fd73b0403e1b89af1034a5190d6ce3e82
+# CONTINUIDADE.md | 140386 | 1185 | 4d468ebd639da0e0b24a5c3fb6c4547696f6b8d72e23adf73d844324ca15d82a
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 589757 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 592115 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -183,7 +183,7 @@ TERMOS = [
     ("RC-069", "Ion Crom", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-136; RC-018", False),
     ("RC-070", "Isolamento Cósmico", EVE_GUE[0], EVE_GUE[1], P, ['B031', 'B033', 'B003', 'B025', 'B026', 'B005', 'P2022-12-17', 'P2024-11-30', 'P2024-07-13'], 'RC-002; RC-005; RC-009; RC-003; RC-007; RC-105', True),
     ("RC-071", "Jan Val Ellam (Rogério de Almeida Freitas)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B016', 'B006', 'B027', 'B034', 'B036', 'B060', 'P2021-12-04', 'P2025-06-26'], "RC-094; RC-083; RC-095; RC-120; RC-617; RC-659", False),
-    ("RC-072", "Jesus", SER_HUM[0], SER_HUM[1], P, ['B031', 'B017', 'B018', 'B039', 'B015', 'B016', 'B014', 'B020', 'B003', 'B025', 'B026', 'B005', 'B011', 'B049', 'B043', 'B009', 'P2026-07-30', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2026-08-04', 'P2024-03-02', 'P2023-05-13', 'P2024-09-28', 'P2025-11-29'], 'RC-009; RC-005; RC-016; RC-041; RC-138; RC-592; RC-604; RC-659; RC-713; RC-722; RC-286; RC-647; RC-565; RC-293; RC-479; RC-770; RC-556; RC-585', True),
+    ("RC-072", "Jesus", SER_HUM[0], SER_HUM[1], P, ['B031', 'B017', 'B018', 'B039', 'B015', 'B016', 'B014', 'B020', 'B003', 'B025', 'B026', 'B005', 'B011', 'B049', 'B043', 'B009', 'B027', 'P2026-07-30', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2026-08-04', 'P2024-03-02', 'P2023-05-13', 'P2024-09-28', 'P2025-11-29'], 'RC-009; RC-005; RC-016; RC-041; RC-138; RC-592; RC-604; RC-659; RC-713; RC-722; RC-286; RC-647; RC-565; RC-293; RC-479; RC-770; RC-556; RC-585', True),
     ("RC-073", "Keshava", TER_SAN[0], TER_SAN[1], P, ['B031', 'P2026-04-02'], "RC-037; RC-102; RC-135; RC-081", False),
     ("RC-074", "Len Mion (Satã)", SER_DEC[0], SER_DEC[1], P, ["B031", "B017", "B018", "B039", "B057", "B058", "B060", 'P2021-03-27; RC-286'], "RC-142; RC-026; RC-101; RC-067; RC-002", True),
     ("RC-075", "Lila", TER_SAN[0], TER_SAN[1], P, ['B031', 'B024', 'B044', 'B035', 'B022', 'B023', 'P2024-11-30'], 'RC-104; RC-037; RC-102; RC-135', False),
@@ -4582,8 +4582,20 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B035 amostra aplicada — 7 fichas, 0 códigos; pasta fora de CONCLUIDOS)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B027 amostra aplicada — 2 fichas, 0 códigos; pasta fora de CONCLUIDOS)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
+
+- **PDF ingressado** em `uploads_recepcao/Nos Céus da Grécia.pdf` (1.054.688 bytes; SHA-256 `5ffaaac415581b4ba3dcfabc32dab1b1c9600d13912d369ed1d5a32700aa8567`; **14 págs** = amostra B027, **não** a obra completa). Metadado calibre Title = «Nos Céus da Grécia - Sample». Esclarecimento Atlan 24/11/1992. Cap. 3 trunca na p. 14. **BIBLIO intocada** (permanece `amostra recebida`).
+- Ciclo em `livros/B027_nos_ceus_da_grecia/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
+- Extract paginado: ~2.388 palavras; SHA-256 `5686a4f9a9d07163cc478ee874dd80104d9c763399420ffcd3825f7d1431863a`. p. 1 sem texto; p. 5, 8, 11 e 14 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
+- **9 termos já citam B027**; 4 com ficha. Dossiê sugere ampliar só a voz de Ellam no Esclarecimento: RC-003, RC-072. **0 códigos.** RC-405/406/407/059/071 sem ficha — não materializar. RC-404 = lemma na fala de Gabriel/Tiago — não ampliar sem autorização.
+- Caps. 4–13 e IEEA/Orbum/entrevista só no sumário — fora. Quarentena mediúnica (instrumento / Gabriel e Tiago / os três filósofos). Sem fusão com B003/B033/B021. **Não fundir** RC-404 com B009 p. 350 nem com B053.
+
+### Devolutiva B027 (amostra) aplicada (2026-08-24)
+
+- O-1 confirmado (é B027; PDF = **Sample** de 14 págs; cap. 3 trunca na p. 14; **não** promover a `trabalhada`); O-2: 2 fichas ampliadas (**RC-003**, **RC-072**) só com o Esclarecimento p. 6–7; lemma «reintegração cósmica» não ocorre como locução fechada (bloco honesto: «reintegrada à convivência cósmica»); B027 acrescentado nas fontes de RC-072 (já constava em RC-003); **veto** RC-404 (fala de Gabriel/Tiago), RC-094 e RC-226; O-3: zero códigos; RC-405/406/407/059/071 sem ficha; Gabriel / Tiago / filósofos sem código; O-4: caps. 4–13 + entrevista ignorados; sinopse = paratexto; `[TEXTO INCOMPLETO]` e «inciarmos» sem interpolação; IEEA/Orbum fora; O-5: B003, B033 e B021 intactas; RC-404 **não** fundida com B009 p. 350 nem com B053; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena mediúnica crítica (canal / aviso / diálogo) + teológica, político-geopolítica, ufológica, biográfica, institucional; O-8: `_ampliacoes_B027.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila.
 
 ## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
 
@@ -4596,7 +4608,7 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ### Devolutiva B035 (amostra) aplicada (2026-08-24)
 
 - O-1 confirmado (é B035; PDF = **Sample** de 18 págs; cap. 2 trunca na p. 18; **não** promover a `trabalhada`); O-2: 7 fichas ampliadas (RC-194, RC-195, RC-164, RC-041 + opcional **RC-001**, **RC-049**, **RC-167**) só com as 18 págs; lemma «Javé» e lemma «criação indevida» **não ocorrem** na amostra (blocos honestos); RC-200 **não** ampliada; O-3: zero códigos; RC-196/197/198/199/201/202/203/019 sem ficha; O-4: caps. 3–12 + posfácio ignorados; Hitler / KGB / drones fora; IEEA/Orbum fora; `[TEXTO INCOMPLETO]` sem interpolação; O-5: B001, B044, B041 e B048 intactas; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena clínica crítica («cientista enlouquecido» / «adoentado» / «doença do criador» / «desalmado» / «corpos doentes» / cap. 12 «Diagnóstico» = leitura, jamais diagnóstico) + científica, político-geopolítica, institucional, ufológica, teológica; O-8: `_ampliacoes_B035.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila. Tabela-mestra intocada (B035 já constava nas fontes das 7).
-- Upload posterior (não processado): `uploads_recepcao/Nos Céus da Grécia.pdf` = **B027** (BIBLIO já `amostra recebida`). Aguarda ordem do curador.
+- Upload B027 processado em ciclo próprio (acima). Obra completa de B035 continua pendente.
 
 ## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
 

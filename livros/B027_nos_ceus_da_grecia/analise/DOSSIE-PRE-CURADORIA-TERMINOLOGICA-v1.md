@@ -3,7 +3,7 @@
 **Fase 2 · 2026-08-24 · AGENTE 9**  
 **Nenhum código consumido. BIBLIO intocada.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 2 fichas (RC-003, RC-072) só com o Esclarecimento. RC-404 / RC-094 / RC-226 vetados. ZERO códigos. Pasta **não** movida para CONCLUIDOS. Obra completa pendente.
 
 ---
 
