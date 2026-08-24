@@ -64,6 +64,14 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B017 p. 6]** Esclarecimentos: Ellam não sabe como os desdobramentos serão conduzidos «após a reintegração da Terra ao convívio com o circuito de intercâmbio cósmico no qual o nosso planeta se encontra há muito inserido».
 - IEEA (mesmo parágrafo) = **institucional — fora**. Remissão a B003 / B025 / B026 = **não fundir**. Caps. 1–13 **isolados**. Sem fusão com B027 / B042. Fonte **B017** acrescentada na tabela-mestra.
 
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 3]** Ellam: a reintegração de uma coletividade «à sociedade cósmica», após «longuíssima e dolorosa penalidade», exige esclarecimento; «este livro — como outros a serem lançados — foi produzido» para quem «seremos em breve reintegrados à convivência cósmica».
+- **[B003 p. 6]** a trilogia = «recados amorosos» / «notícias místicas do passado»; «Reintegrar-se a uma situação existencial antes vivida é o que está prestes a ocorrer com boa parcela da população terrestre». Grafia **Carma e Compreensão** × Compromisso = `[REVISAR]` — remissão a B026, **não fundir**.
+- **[B003 p. 8–9]** Introdução: analogia do cárcere; «ilha cósmica»; retorno à convivência cósmica «por força de uma lei maior». «Pobre e frágil psicologia humana» = **clínica** (leitura, jamais diagnóstico).
+- **[B003 p. 10]** Esclarecimento (Atlan, 21/09/1991): «Não é nossa opinião pessoal»; informações «ditadas […] por diversos irmãos espirituais» anónimos. **Quarentena mediúnica.** Partes I–III, *Passado e Presente* e Cronologia **isolados**. Sem fusão com B025 / B026 / B017 / B042. Fonte **B003** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

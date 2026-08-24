@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B003 — Reintegração Cósmica
 
-> **ESTADO OPERACIONAL: INGRESSO ABERTO — AGUARDA DEVOLUTIVA O-1..O-8.** 0 códigos. BIBLIO intocada. Sem apostila. Pasta **fora** de `CONCLUIDOS/`. Sem fusão. B025 e B026 na gaveta.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 4 fichas ampliadas (RC-003, RC-070, RC-342, RC-072) só paratexto assinado (p. 3, 6, 8–10); 0 códigos; tabela-mestra intocada (B003 já constava nas 4). BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. B025 e B026 na gaveta. Sem fusão.
 
 ## 1. Identificação
 

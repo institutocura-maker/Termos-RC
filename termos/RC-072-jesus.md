@@ -148,6 +148,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B039 p. 113]** NAT: disputa «explícita entre Jesus e Javé»; o Criador enviara um «Messias» que «teria que dominar pela força»; Jesus «recusou-se» e «pagou o “preço” ao ser crucificado»; ao ressuscitar, «mostrou ter poder superior ao de Javé e mesmo ao de Sophia». **Quarentena teológica.**
 - **[B039 p. 156]** Comentário 3 (fala de Ellam): «o homem digno que foi Jesus»; forçar a «contraparte cósmica» a cumprir o que o espírito «planeou para a redenção da Tríade caída e fracassada». Caps. 1–12 **isolados**. Sem reancorar RC-236 a partir do cap. 11. Sem fusão com B017 / B018 / B011. Fonte **B039** já constava na tabela-mestra.
 
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 3 / p. 9]** Ellam: «empunhar os lenços brancos de paz e concórdia e acenar para o Mestre Jesus», pedindo que a Terra seja «mais uma vez, integrada à convivência cósmica».
+- **[B003 p. 9]** «irmãos de outros orbes» / «Fraternidade Cósmica» = **ufológica** (leitura, não contacto validado).
+- **[B003 p. 10]** o ditado foi feito «sob os auspícios do amor do Mestre Jesus»; os irmãos espirituais pediram anonimato. **Quarentena mediúnica.** *Passado e Presente* (Gólgota) **isolado**. Sem fusão com B009 / B017 / B001. Fonte **B003** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

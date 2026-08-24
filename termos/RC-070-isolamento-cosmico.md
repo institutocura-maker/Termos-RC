@@ -30,6 +30,12 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B033 p. 107]** «Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário.»
 - Contato oficial / naves / Capela = **ufológica — fora** (não ontologizar a partir deste volume). Sem fusão com B003 / B031. Fonte **B033** já constava na tabela-mestra.
 
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 3 / p. 8]** Ellam: «cárcere isolado»; «excluídos que fomos da convivência com as outras coletividades do cosmos»; «prisão planetária»; «fronteiras da prisão».
+- **[B003 p. 9]** «ilhados por nosso próprio orgulho»; o mundo aguarda ficar «livre dos grilhões do passado». Partes I–III **isoladas**. Sem fusão com B033 / B025. Fonte **B003** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

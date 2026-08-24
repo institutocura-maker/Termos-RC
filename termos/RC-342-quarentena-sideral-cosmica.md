@@ -30,6 +30,12 @@ A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não p
 - **[B042 p. 108]** *“Meu Reino não é deste Mundo”*: a Terra como “mundo rebelado e, portanto, impedido de conviver com as demais famílias planetárias do cosmos”; o retorno de Jesus = “momento final” do “doloroso isolamento”.
 - **[B042 p. 109]** “voltaremos a conviver com os irmãos e irmãs de outros orbes”; “somos cidadãos cósmicos”. Avistamentos do séc. XX/XXI = **ufológica**, não prova da quarentena. Sem fusão com B003. RC-070 permanece no nó já existente.
 
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 9]** Introdução (voz de Ellam): a Terra deve ficar livre «da quarentena cósmica que lhe foi imposta para que os eflúvios nocivos que nele habitam não influenciassem outros mundos».
+- **[B003 p. 3 / p. 8]** «ilha cósmica» no paratexto assinado — RC-353 permanece **sem ficha**. Corpo ditado (incl. cap. «Fim da Quarentena Cósmica») **isolado**. Sem reancorar a sinopse p. 2. Sem fusão com B025 / B026 / B042. Fonte **B003** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

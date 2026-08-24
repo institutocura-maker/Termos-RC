@@ -4,6 +4,8 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Livro 1/3 Queda e Ascensão. B025 e B026 não entram neste dossiê.**
 
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 4 fichas (só paratexto assinado). ZERO códigos. Pasta em `livros/CONCLUIDOS/`. B025 e B026 permanecem na gaveta.
+
 ---
 
 ## O-1 · Identidade da obra

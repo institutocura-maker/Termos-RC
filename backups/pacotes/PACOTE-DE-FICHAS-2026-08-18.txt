@@ -10,7 +10,7 @@
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # termos/RC-001-jave.md | 25229 | 244 | 6a089a753380cfe80ec4539b4d03150860c2ab84cb760a3c7aa6d5254199def0
 # termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
-# termos/RC-003-reintegracao-cosmica.md | 10099 | 107 | cbdc522d633d41a3adc6b7510266adf61b61e890d31710f4336415187135e8c7
+# termos/RC-003-reintegracao-cosmica.md | 11345 | 115 | 3631cdd601392801b70bc5b3c7a77a49dc841e246f1855421ddf594846d59fa8
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 6247 | 93 | 075010250faf15344ad22fa553cbea13a465b33ef7b054ed20cbc58c854c0f8f
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
@@ -27,8 +27,8 @@
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
-# termos/RC-070-isolamento-cosmico.md | 4673 | 64 | 0212e7f3013684c5e41cb597fec8a0cefaaf855df9d1c4451c2f27199e7cac65
-# termos/RC-072-jesus.md | 20729 | 193 | 993d5b78b752434db0c1d4bc16e93d33575130bbbc451e5c44e9af834c06772f
+# termos/RC-070-isolamento-cosmico.md | 5131 | 70 | fb824f02b7e7dd498a3fc786362210d5737ef8954ddbbf6b428116d3e97a960c
+# termos/RC-072-jesus.md | 21381 | 200 | 35b75f65f39b22e7e83da99b8f73212ced90600bc9c71b2bece6bb548dd6cf41
 # termos/RC-074-len-mion-sata.md | 3183 | 58 | 7b49a61bda4aaf425ee0948d618d64b78fb1132cabf2f6012c58cfa02e5e8977
 # termos/RC-078-lucifer-yel-luzbel.md | 5662 | 73 | ad5401d8adc0719b99013fe2390231a48eb309dee4d9263889152d8c51206e6b
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -124,7 +124,7 @@
 # termos/RC-333-democracia-do-amor-da-deidade.md | 3348 | 49 | b5b598e7ad8ac2e46bdfe39641fdd630946f5f02741f5f617272324c7ba92a47
 # termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 3841 | 57 | defe79d989811df82bc840770880271137af56df21ef13cbb23b0b1117d68d99
 # termos/RC-335-lavagem-cerebral-condicionamento.md | 3765 | 54 | 96813d1c2679ec6812ab0fb4a9eb22a3bc1c6c52b1d1e7048bd47e73d325aac5
-# termos/RC-342-quarentena-sideral-cosmica.md | 5068 | 57 | 56040246fd317325ce40ad268084ac3bb3954d8a233dfacba3d7ec547638b592
+# termos/RC-342-quarentena-sideral-cosmica.md | 5604 | 63 | 6bf6e682f4d244a9001ba492546131306917cfb31e647786a284d9268cbb6125
 # termos/RC-346-jeova-grafia-da-trilogia.md | 2581 | 43 | c05c1cfcb4132ef0841d36970871d413eb3b165765718612060588d0fa915c6e
 # termos/RC-355-fator-extraterrestre-o-elo-perdido.md | 3042 | 48 | 77a1949f081b284ee5ebf29f3e398e96a0a31fc5778ad269a9552e118b66d794
 # termos/RC-357-confederacoes-de-mundos.md | 2904 | 41 | 6057e1cf460881c67cb282e7dd9f089cbfaec048934a22a1d2ca0fa8853d9a4f
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1587444 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1590336 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -817,6 +817,14 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 - **[B017 p. 6]** Esclarecimentos: Ellam não sabe como os desdobramentos serão conduzidos «após a reintegração da Terra ao convívio com o circuito de intercâmbio cósmico no qual o nosso planeta se encontra há muito inserido».
 - IEEA (mesmo parágrafo) = **institucional — fora**. Remissão a B003 / B025 / B026 = **não fundir**. Caps. 1–13 **isolados**. Sem fusão com B027 / B042. Fonte **B017** acrescentada na tabela-mestra.
+
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 3]** Ellam: a reintegração de uma coletividade «à sociedade cósmica», após «longuíssima e dolorosa penalidade», exige esclarecimento; «este livro — como outros a serem lançados — foi produzido» para quem «seremos em breve reintegrados à convivência cósmica».
+- **[B003 p. 6]** a trilogia = «recados amorosos» / «notícias místicas do passado»; «Reintegrar-se a uma situação existencial antes vivida é o que está prestes a ocorrer com boa parcela da população terrestre». Grafia **Carma e Compreensão** × Compromisso = `[REVISAR]` — remissão a B026, **não fundir**.
+- **[B003 p. 8–9]** Introdução: analogia do cárcere; «ilha cósmica»; retorno à convivência cósmica «por força de uma lei maior». «Pobre e frágil psicologia humana» = **clínica** (leitura, jamais diagnóstico).
+- **[B003 p. 10]** Esclarecimento (Atlan, 21/09/1991): «Não é nossa opinião pessoal»; informações «ditadas […] por diversos irmãos espirituais» anónimos. **Quarentena mediúnica.** Partes I–III, *Passado e Presente* e Cronologia **isolados**. Sem fusão com B025 / B026 / B017 / B042. Fonte **B003** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2138,6 +2146,12 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B033 p. 107]** «Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário.»
 - Contato oficial / naves / Capela = **ufológica — fora** (não ontologizar a partir deste volume). Sem fusão com B003 / B031. Fonte **B033** já constava na tabela-mestra.
 
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 3 / p. 8]** Ellam: «cárcere isolado»; «excluídos que fomos da convivência com as outras coletividades do cosmos»; «prisão planetária»; «fronteiras da prisão».
+- **[B003 p. 9]** «ilhados por nosso próprio orgulho»; o mundo aguarda ficar «livre dos grilhões do passado». Partes I–III **isoladas**. Sem fusão com B033 / B025. Fonte **B003** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -2321,6 +2335,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B039 p. 50]** NAT: Jesus = avatar humano de Sophia; a ressurreição devolve a herança ao «feitor».
 - **[B039 p. 113]** NAT: disputa «explícita entre Jesus e Javé»; o Criador enviara um «Messias» que «teria que dominar pela força»; Jesus «recusou-se» e «pagou o “preço” ao ser crucificado»; ao ressuscitar, «mostrou ter poder superior ao de Javé e mesmo ao de Sophia». **Quarentena teológica.**
 - **[B039 p. 156]** Comentário 3 (fala de Ellam): «o homem digno que foi Jesus»; forçar a «contraparte cósmica» a cumprir o que o espírito «planeou para a redenção da Tríade caída e fracassada». Caps. 1–12 **isolados**. Sem reancorar RC-236 a partir do cap. 11. Sem fusão com B017 / B018 / B011. Fonte **B039** já constava na tabela-mestra.
+
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 3 / p. 9]** Ellam: «empunhar os lenços brancos de paz e concórdia e acenar para o Mestre Jesus», pedindo que a Terra seja «mais uma vez, integrada à convivência cósmica».
+- **[B003 p. 9]** «irmãos de outros orbes» / «Fraternidade Cósmica» = **ufológica** (leitura, não contacto validado).
+- **[B003 p. 10]** o ditado foi feito «sob os auspícios do amor do Mestre Jesus»; os irmãos espirituais pediram anonimato. **Quarentena mediúnica.** *Passado e Presente* (Gólgota) **isolado**. Sem fusão com B009 / B017 / B001. Fonte **B003** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -8416,6 +8437,12 @@ A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não p
 
 - **[B042 p. 108]** *“Meu Reino não é deste Mundo”*: a Terra como “mundo rebelado e, portanto, impedido de conviver com as demais famílias planetárias do cosmos”; o retorno de Jesus = “momento final” do “doloroso isolamento”.
 - **[B042 p. 109]** “voltaremos a conviver com os irmãos e irmãs de outros orbes”; “somos cidadãos cósmicos”. Avistamentos do séc. XX/XXI = **ufológica**, não prova da quarentena. Sem fusão com B003. RC-070 permanece no nó já existente.
+
+
+## Ampliação — B003 (Reintegração Cósmica)
+
+- **[B003 p. 9]** Introdução (voz de Ellam): a Terra deve ficar livre «da quarentena cósmica que lhe foi imposta para que os eflúvios nocivos que nele habitam não influenciassem outros mundos».
+- **[B003 p. 3 / p. 8]** «ilha cósmica» no paratexto assinado — RC-353 permanece **sem ficha**. Corpo ditado (incl. cap. «Fim da Quarentena Cósmica») **isolado**. Sem reancorar a sinopse p. 2. Sem fusão com B025 / B026 / B042. Fonte **B003** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
