@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B009 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B035 amostra — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
+
+- **PDF ingressado** em `uploads_recepcao/O Big Data do Criador.pdf` (1.311.232 bytes; SHA-256 `be79be05ebc34736f16156318066eb144ef9c73acd9903a0966d546162172d92`; **18 págs** = amostra B035, **não** a obra completa). Metadado calibre Title = «O Big Data do Criador - Sample». Intro Atlan 12/03/2016. Cap. 2 trunca na p. 18. **BIBLIO intocada** (permanece `amostra recebida`).
+- Ciclo em `livros/B035_o_big_data_do_criador/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~4.674 palavras; SHA-256 `3d6ea70db88182442bb023151e1d9214822047ef5edceb241bcba12caa0fd83a`. p. 1 sem texto; p. 6 e p. 12 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
+- **20 termos já citam B035**; 11 com ficha. Dossiê sugere ampliar RC-194, RC-195, RC-164, RC-041. **0 códigos.** RC-196/197/198/199/201/202/203/019 sem ficha — não materializar. RC-200 não ampliar (cap. 8 só no sumário).
+- Caps. 3–12 e IEEA/Orbum só no sumário — fora. Quarentena clínica («cientista enlouquecido» / «doença do criador» / cap. 12 «Diagnóstico»). Sem fusão com B001/B044/B041/B048.
 
 ## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
 

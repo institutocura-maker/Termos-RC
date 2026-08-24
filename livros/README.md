@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-Nenhum.
+`livros/B035_o_big_data_do_criador/` — ingresso 2026-08-24; **amostra de 18 págs** (não a obra completa); dossiê enxuto O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada (`amostra recebida`). Sem apostila.
 
 ## Piloto
 

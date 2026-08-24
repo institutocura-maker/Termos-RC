@@ -1,0 +1,7 @@
+Contexto de ingresso (2026-08-24): décimo-nono item da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037, B049, B009).
+PDF entregue em uploads_recepcao/ pelo curador (push 9da24ad no branch da sessão).
+Obra já na BIBLIO como B035 (amostra recebida; Conectar; 2016 intro.; 18 págs). Primeiro original arquivado no workspace.
+20 termos já citam B035; 11 com ficha. Núcleo sugerido (só a amostra): RC-194 / RC-195 / RC-164 / RC-041.
+Caps. 3–12 e IEEA/Orbum só no sumário — fora. Cap. 2 corta na p. 18.
+Quarentena clínica da «doença» / «cientista enlouquecido» / cap. 12 «Diagnóstico».
+Corpus: original.txt (extract paginado; p. 1 sem texto; p. 6 e p. 12 [TEXTO INCOMPLETO]). Watermark de conversor omitida.

@@ -1,0 +1,10 @@
+O corpus desta amostra é o extract paginado:
+
+  livros/B035_o_big_data_do_criador/original.txt
+
+SHA-256 3d6ea70db88182442bb023151e1d9214822047ef5edceb241bcba12caa0fd83a
+30.011 bytes · ~4.674 palavras · 18 págs.
+p. 1 = [página sem texto extraível].
+p. 6 e p. 12 = [TEXTO INCOMPLETO] (bytes nulos).
+p. 18 = corte do cap. 2.
+Watermark de conversor omitida. Não interpolar.

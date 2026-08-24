@@ -1,0 +1,495 @@
+===== [PÁGINA 1] =====
+[página sem texto extraível]
+
+===== [PÁGINA 2] =====
+O BIG DATA DO CRIADOR
+JAN VAL ELLAM
+
+===== [PÁGINA 3] =====
+SUMÁRIO
+Introdução
+1. O Big Data da Terra
+2. O Big Data Cósmico
+3. Computadores e a Significação Mental
+4. Fenômenos Denunciadores do Fim
+5. Outras Civilizações Cósmicas
+6. Vida após Vida: As Linhagens Preferenciais do Criador
+7. Rédeas Genéticas
+8. Base de Dados do Juízo Final
+9. Assinatura da Alma
+10. Tempo Presente: Devoção e Indefinição
+11. O Livro do Criador
+12. Finalmente o Diagnóstico
+Posfácio
+Fontes, Notas e Referências Bibliográficas
+Sobre o Autor
+Projeto Orbum
+Roteiro de Livros
+IEEA
+
+===== [PÁGINA 4] =====
+I N T R O D U Ç Ã O
+Imagine um ser-criador que resolve elaborar um jogo em que o controle
+efetivo das partes lhe permite a dominação do todo. Para a eficácia do
+controle, as informações sobre cada parte precisam ser monitoradas sem
+margem para surpresas.
+Ainda que fique sem graça, assim é a natureza dos ditadores, que
+preferem o império da mesmice ao jogo das possibilidades que lhe escapem
+à vigilância constante.
+Controlar para dominar, eis a receita de um cientista enlouquecido que
+se vê decomposto em muitas partes, sobre as quais precisa exercer o seu
+mando, para que elas ajam sob a sua vontade, de modo que seus desígnios e
+objetivos sejam cumpridos.
+Apesar do roteiro pré-estabelecido, surgem algoritmos que não foram
+produzidos pela sua mente, e esses passam a ser obsessivamente analisados,
+a fim de serem compreendidos e codificados para futuro reordenamento,
+que os enquadrarão no roteiro planejado. Mas nem tudo acontece de modo a
+manter o jogo estabelecido na rotina imaginada pelo seu criador.
+Peças se particularizam, adquirem personalidades distintas, livres de
+qualquer jugo automático, e somente resta ao criador a opção de
+reconquistar essas individualidades por meio de um supercontrole,
+estabelecido nas informações mais básicas que movem as peças do jogo por
+ele gerado, para ver se ainda lhe será possível controlá-las.
+Esse é o plano de fundo mental-operacional do jogo que acontece por
+trás do tipo de vida que levamos, sem sequer dele termos consciência.
+Envolvendo todo esse cenário, um contexto espiritual, ainda mais profundo,
+
+===== [PÁGINA 5] =====
+a tudo estrutura, dando vida aos agentes, conscientes ou não, de um
+processo existencial que ainda necessita evoluir os seus padrões para que
+possa homenagear o ato de existir com beleza, dignidade, liberdade e
+sabedoria.
+Este livro procura ofertar sementes para a compreensão desse jogo da
+vida, se é que nisso pode residir qualquer serventia, alguma virtude que
+honre a existência. É jogo bruto, com regras ainda por serem definidas
+pelos próprios jogadores, pois que o juiz e criador de toda essa história
+desaprendeu por completo — se é que um dia soube — a arte de saber
+coexistir com qualquer outro ser que não seja sua cópia fiel.
+Atlan, 12 de março de 2016.
+Jan Val Ellam
+
+===== [PÁGINA 6] =====
+1
+O  B I G  D A T A  D A  T E R R A
+P[TEXTO INCOMPLETO], vai deixando registros: as marcas das suas
+preferências, gostos, expectativas e desejos. Além disso, seus contatos
+prediletos em diversas redes sociais da Internet, os lugares que mais
+frequenta, tudo isso e muito mais alguns sistemas acoplados aos seus
+aparelhos de celulares, GPS, cartões de crédito e a própria Internet —
+informações do facebook, dentre outras — apontam os “rastros” e as
+“características” de cada um de nós. É exatamente isso que está
+acontecendo a cada momento na vida das pessoas.
+O conjunto de todas essas informações pode ser rastreado pelas
+empresas; assim, elas passam a saber o que um consumidor efetivamente
+quer. Por sua vez, o conjunto de tecnologias que habilitam as empresas a
+coletar essas informações e delas retirar as informações que lhes permitam
+“saber tudo sobre você” se chama “big data”.
+A análise de dados sobre o comportamento humano está sendo hoje em
+dia tratada de uma forma, que tem a ver com a possibilidade de
+manipulação e de controle das pessoas, que nem mesmo o “Big Brother” de
+George Orwell teria imaginado. E observem — isso está tendo lugar em
+pleno reino do capitalismo, da liberdade e do consumo.
+O alemão Andreas Weigend, especialista no assunto e professor da
+universidade de Stanford, define o “big data” como sendo uma
+“mentalidade”, um modo de lidar com as informações, de transformar
+dados em decisões. Isso faria com que as pessoas possam tomar decisões
+
+===== [PÁGINA 7] =====
+melhores, mas, como ele próprio reconhece, provoca riscos que não podem
+ser ignorados.
+Diz Weigend1: “eu sou alemão e na minha cidade natal nós tínhamos um
+filósofo chamado Martin Heidegger, que disse que você só pensa sobre a
+função do machado quando ele quebra. Com o ‘big data’ é o mesmo: é a
+mentalidade que faz os dados e os pensamentos sobre eles desaparecerem.
+Pense que é como o ar: você não pensa sobre ele no dia a dia, a não ser que
+ele esteja ruim. O ‘big data’ é não pensar sobre os dados”.
+Confuso, não? Independentemente do que possamos pensar, esse
+processo de fato se faz presente no nosso dia a dia, e o que está acontecendo
+é uma verdadeira “corrida ao ouro”, só que o produto precioso da história
+somos nós, os cidadãos-consumidores.
+O “big data” é o novo petróleo e por isso os dados precisam ser
+refinados. Por quê? O petróleo bruto não vale por si só, pois precisa ser
+transformado em combustíveis apropriados para o conjunto da demanda
+mundial. Para isso, empresas como a Exxon, a Mobil e a Shell trabalham
+para transformar o petróleo em algo útil. Assim também seria com o “big
+data”: seus dados precisam ser transformados em algo útil — mas, útil para
+quem?
+Apenas para ficar claro, no caso do “big data”, as grandes empresas que
+vão ganhar muito dinheiro serão aquelas que transformarem (refinarem)
+essas informações em produtos que permitam que os consumidores tomem
+as melhores decisões — pergunto-me, novamente: “melhores”, para quem?
+O Google coleta todos os dados do mundo e mostra anúncios para
+influenciar a decisão das pessoas. Em alguns países, essa empresa foi
+processada por ceder dados pessoais dos seus usuários a governos
+inescrupulosos que, em nome da segurança, praticam crimes tanto ou mais
+tenebrosos do que aqueles que afirmam combater.
+Ainda segundo Weigend, “de algum modo, a sua operadora de celular, o
+Google e o Facebook conhecem você melhor do que você se conhece”. Diz
+mais: “o Linkedin sabe muito mais sobre as empresas do que elas mesmas,
+porque ele identifica a atividade dos profissionais. Essa rede social sabe
+mais sobre a economia dos Estados Unidos do que o próprio governo,
+porque consegue ver para onde os recrutadores estão indo, onde estão as
+oportunidades e o fluxo de empregados entre as empresas”.
+Ele também aponta que, “no passado, as decisões sobre quem contratar
+eram baseadas em informações muito limitadas. Você ia lá, as pessoas
+
+===== [PÁGINA 8] =====
+conversavam com você, o departamento de recursos humanos fazia algumas
+ligações para checar suas referências e era isso. Isso era antes do ‘big data’:
+você controlava o que colocava no currículo e o que dizia na entrevista.
+Mas há dois lados nisso: os empresários têm agora poder para descobrir
+mais sobre você e possivelmente usar isso contra você”.
+“A questão não é mais se queremos revelar ou compartilhar algo, já que
+informações que a KGB não conseguia arrancar das pessoas sob tortura
+estão agora disponíveis na Internet. A questão é o que a sociedade vai fazer
+com essas informações”.
+“Se dados caem em mãos erradas, pessoas podem morrer. Pense na
+Alemanha, onde as pessoas são muito preocupadas com sigilo. Hitler matou
+milhões de judeus sem ter computadores. O que ele, poderia fazer agora se
+soubesse por geolocalização quem vai à sinagoga?”.
+Já para o diretor do Media Lab do Instituto de Tecnologia de
+Massachusetts (MIT), Alex Pentland2, “o ‘big data’ terá para o estudo do
+comportamento humano a importância do telescópio para os astrônomos”.
+No seu livro Social Physics: How Good Ideas Spread – The Lessons from a
+New Science (Física Social: Como as Boas Ideias se Propagam – Lições de
+uma Nova Ciência), ele defende que, ao processar a infinidade de dados
+digitais que as pessoas deixam no rastro de atividades cotidianas — como
+telefonar, pagar contas com cartão de crédito ou usar o GPS dos celulares
+— os cientistas sociais podem não somente apenas identificar padrões de
+comportamento, como monitorá-los e influenciá-los, de modo a melhorar a
+vida de um indivíduo, de uma empresa ou mesmo de um país.
+Para Pentland, os dados pessoais dos indivíduos — “o novo petróleo da
+Internet e a nova moeda do mundo digital”, como ele costuma apontar —
+não podem permanecer sob o domínio de empresas privadas nem de
+governos. Deveriam ser reconhecidos como um ativo individual, podendo
+ser, inclusive, vendidos por seus proprietários.
+Em resumo, Pentland aponta que o “big data” mudará a forma como
+enxergamos o comportamento humano e permitirá não só monitorá-lo,
+como prevê-lo e modificá-lo, o que, convenhamos, é algo profundamente
+complexo e, conforme penso, o rebanho humano está longe de ter
+consciência do que está se passando com as suas próprias vidas.
+Outro aspecto da questão tem a ver com a influência do “big data” em
+outras áreas da vida em sociedade.
+
+===== [PÁGINA 9] =====
+Na área do jornalismo está ocorrendo um fenômeno, para o qual não
+consigo encontrar adjetivo que bem o qualifique, que afeta a imprensa e —
+mais preocupante ainda — o nível de informação que pode ou não ser
+disponibilizado para as pessoas.
+Em meados do ano 2014, a Associated Press, que ostenta o título de
+uma das maiores agências de notícias do mundo, anunciou a adoção do
+Worldsmith, um sistema (software) utilizado na produção de notícias sobre
+resultados periódicos das empresas cotadas nas bolsas de valores.
+Segundo o editor-chefe de economia da Associated Press, Lou Ferrara3,
+“durante muitos anos perdemos tempo mastigando números e remanejando
+as informações fornecidas pelas empresas, publicando cerca de 300
+relatórios a cada trimestre. A partir de agora podemos produzir até 4.400
+destes relatórios.”
+Qual a questão? Seriam necessárias umas boas dezenas de jornalistas
+muito qualificados para produzirem essas informações, a um custo
+considerável. Na era do “big data”, um programa com algoritmos
+especializados na tarefa pode analisar enormes quantidades de dados e
+produzir bem mais informações do que qualquer célebre grupo de
+jornalistas, em tempo bem menor e a um custo significativamente mais
+baixo, enquanto ainda realiza outras tarefas.
+Na era digital do “big data” facilmente se perceberá o aumento
+exponencial dos dados disponíveis sobre tudo e todos, e o processo de
+refino dessas informações é que definirá o “bom ou mau uso” que delas se
+possa fazer com vistas a esse ou aquele fim.
+No caso dos jornalistas, penso e espero que processo de “big data”
+nenhum invada a função na qual, por enquanto, os seres humanos podem
+ainda realizar tarefas singulares e essenciais para a sobrevivência da nossa
+espécie: a análise crítica dos fatos, por meio do significado mental
+característico à natureza humana. Afinal, os computadores processam
+informações e as trabalham até certo nível de crítica, mas significação
+mental — ou seja, valores — eles não têm — pelo menos por enquanto.
+Aceite-se que as informações passem a ter a marca das faces frias dos
+processos computadorizados. Contudo, a imprensa, com suas reportagens
+investigativas, crônicas, opiniões, enfim, os seus conteúdos mais
+complexos, por mais equivocada que possa estar nesse ou naquele sentido
+ou mesmo que esteja criminosamente conectada a algum interesse, terá
+
+===== [PÁGINA 10] =====
+sempre que ter a “cara” dos valores desta humanidade que, como aquela,
+acerta e erra todo dia — e que assim continue!
+Existem, porém, outras “faces frias” que voam por aí com uma
+liberdade para decidir rumos e ações que me parecem assustadoras. A que
+me refiro?
+Houve um tempo em que os chamados drones — aeronaves autônomas
+que foram geradas pela engenharia militar — eram guiados à distância por
+“pilotos de escritório”, coisa que os deixava em segurança, sem risco de
+exposição. Mas isso ocorria já faz certo tempo — uma década — pois,
+agora, os avanços advindos dos processos do “big data” propiciam tal
+liberdade de ação para os próprios circuitos do aparelho voador, que é ele
+mesmo que decide o que fazer. Isso porque os seus softwares são dotados de
+algoritmos que podem guiá-los, identificar alvos e decidir a ação destrutiva,
+podendo medir, inclusive, os danos colaterais na população civil, para
+melhor decidir. Decidir o quê? Se o dano real de matar civis é igual, menor
+ou maior do que a importância da execução do alvo pretendido. Ou seja:
+cabe aos drones solucionar os possíveis “problemas éticos” em ações dessa
+natureza. Simples assim!
+Diante da revolução que o “big data” e seus processos adjacentes estão
+produzindo, e que pouco a pouco se fará melhor percebida pelas pessoas de
+um modo geral, quedo-me pensando até que ponto as “tendências” e as
+“certezas” produzidas pelo “big data” embelezarão ou tornarão ainda mais
+feia e mais complexa a teia da vida que levamos.
+O que estou aqui refletindo é que me é assustador perceber que, mais
+um pouco, e as elites mundiais poderão saber com antecedência quais as
+pessoas que terão mais propensão a doenças ou a cometer certos tipos de
+crime, dentre outros aspectos, e como a sociedade planetária irá lidar com
+essas questões.
+O impacto do “big data” nas nossas vidas ainda se fará sentir de modo
+muito mais imperioso, e isso é tão-somente uma questão de tempo.
+Contudo, apesar de instigante , o “big data” percebido a partir da
+perspectiva terrena, aqui dele me utilizo apenas para tornar possível uma
+analogia perigosa, difícil de ser arquitetada, com um dos painéis que
+acontece por trás da vida terrena, do qual não temos a mais remota ideia,
+enquanto família planetária. Mas é chegada a hora de formatar as primeiras
+reflexões a esse respeito, mesmo sabendo que somente as gerações futuras
+
+===== [PÁGINA 11] =====
+poderão compreender o problema de maneira lúcida e atuar com mais
+propriedade junto ao seu foco.
+
+===== [PÁGINA 12] =====
+2
+O  B I G  D A T A  C Ó S M I C O
+T[TEXTO INCOMPLETO] com um ser desconfiadíssimo, autoritário ao extremo, que
+não apresenta qualquer refinamento moral digno de assim ser classificado,
+que tenta, e quase sempre consegue, manipular as criaturas sobre as quais
+decide impor seus desígnios, que subordina as estratégias aos fins, como
+qualquer humano corrompido, e que se utiliza de argumentos de toda ordem
+para justificar as atitudes equivocadas. Ainda assim, jamais abre mão da
+postura de se autodenominar como sendo santo, honesto e criador dos céus
+e da Terra — entenda o(a) leitor(a) se puder!
+Esse personagem ostenta um tipo de mentalidade que o transforma ou o
+faz pensar que é o “rei do processamento das informações da sua criação”, e
+dessa profusão de dados ele parece construir a força psíquica do seu
+estranho e desagradável modo de ser.
+A sua mentalidade de ditador, de dono da situação, de “dono das vidas
+das suas criaturas”, é um dos traços mais detestáveis que pude nele perceber
+— e note-se que são muitos.
+Seja lá quem for esse ser, ele se faz acompanhar por uma “plêiade” de
+outros seres que simplesmente obedecem suas ordens, e sentem suas
+impressões emocionais como se funcionassem de modo coletivo.
+Esse grupo de seres monitora e tem acesso privilegiado — de modo
+vergonhoso frente aos valores humanos no campo da ética — a
+absolutamente todas as sequências genéticas de qualquer ser vivo, e
+disso se aproveita para delas retirar o que supõem ser o contributo pessoal
+
+===== [PÁGINA 13] =====
+de cada “criatura-ferramenta” para que uma grande obra universal venha a
+ser construída, segundo os critérios deformados que costumam utilizar
+como parâmetros dos seus psiquismos.
+Não há “big data” terreno que possa se aproximar da riqueza de
+informação de que esses seres dispõem, apesar do fato de se encontrarem
+presos em uma dimensão de realidade subjacente àquela em que vivem os
+seres deste universo. De lá, por meio de um processo tecnológico difícil de
+ser aqui explicado, acompanham “as entradas e as saídas” das sequências de
+DNA que eles identificam como pertencentes a “mentes individualizadas”
+que já passaram pela Terra.
+Desconhecedores que são da realidade espiritual, do fluxo das
+encarnações dos espíritos congregados no orbe terrestre, ainda que nada
+saibam da vida espiritual, eles desenvolveram, ao longo dos evos, essa
+tecnologia que lhes permite perceber a continuidade de uma “mesma
+expressão mental” por trás de uma “pessoa” que, por exemplo, “morreu”
+há cerca de cem anos e agora “renasce”.
+Quando eles me explicaram a tal tecnologia, pude perceber o que até
+hoje nem mesmo a Espiritualidade Maior tinha ainda podido revelar aos
+terráqueos, pela mais absoluta falta de condições medianeiras sobre o
+assunto.
+Com base nessa convivência, faço agora algumas reflexões com o
+objetivo de ajudar aos que buscam compreender como é possível a
+existência dessas entidades que, mesmo estando presentes em todas as
+tradições do passado, ainda não conseguiram ser aceitas como entidades
+reais pelos que vivem na Terra, em especial por aqueles que usufruem da
+liberdade de pensamento. Esses tentam raciocinar sem se deixar dominar
+pela fé fácil dos que acreditam e aceitam tudo, desde que lhes seja
+agradável, reconfortante, enfim, que lhes possa servir de refúgio.
+Qual a função da tecnologia dos anjos-clones do criador?
+Enquanto somente existiam seres clonados, sem liberdade de
+pensamento, o criador e suas hostes mais próximas jamais se sentiram na
+necessidade de acompanhar a evolução de qualquer evento ou processo.
+Contudo, quando o clone-rebelde golpeou o criador, impedindo-o de
+continuar a gerar seres clonados a partir do seu “código de organização
+pessoal”, perceberam que alguém na criação estava se movendo com
+vontade própria, pois facilmente puderam comparar a nova situação com a
+
+===== [PÁGINA 14] =====
+de todos os clones que obedeciam cegamente ao criador e não tinham
+vontade nem senso pessoal — assim era naquela altura dos fatos1.
+Com o surgimento das diversas classes demoníacas, com um tipo de
+genética mental que apropriava as mutações “lenta e discretamente
+produzidas” pelo anjo-clone rebelde que conquistara a “liberdade de
+pensamento”, o criador percebeu a necessidade de monitorar a absurda
+— no seu modo de ver — geração de seres que agora podiam pensar e se
+multiplicar — enfim, ter vontades independentes da sua.
+Aquilo foi um marco! Na verdade, o primeiro a ocorrer no sentido de
+surgir um modo de vida no âmbito da criação que permitisse alguma
+criatividade, alguma ousadia, algum progresso. Mas o criador não via dessa
+forma. Tudo o que ele pensava, ou qualquer atitude que dele emanava, era
+sempre no sentido de “voltar a exercer” o controle doentio da sua mente
+sobre tudo o que existia e que pudesse existir naquilo que considerava ser
+uma extensão de si mesmo, ou seja, na sua própria criação.
+Apesar de todas as tentativas, o criador e os anjos-clones jamais
+conseguiram ultrapassar o obstáculo agora surgido: a vantagem operacional
+competitiva que estava disponível na mente dos demônios e que inexistia na
+do criador e na de seus assessores. Mais tarde, quando do estabelecimento
+da lila — acordo governamental entre os três seres da trimurti, Brahma,
+Vishnu e Shiva — ele apropriou o algoritmo mental especial (a vantagem
+operacional) que lhe foi repassado por Shiva, exatamente o clone rebelde
+que o havia confrontado.
+Devido ao que chamo de “simbiose quântica”, e ao que a física quântica
+classifica de interconectividade não-localizada, todos os seres mergulhados
+no âmbito do que foi gerado a partir da energia pessoal do criador caído
+coexistem, dividindo um mesmo mecanismo que interconecta
+instantaneamente o que cada uma das partes faz, fato que implica em que,
+cedo ou tarde, todos passem a ser afetados pelo resultado dos problemas e
+das conquistas individuais e coletivas.
+Por que “simbiose quântica”? Muito simples! A expressão grega
+symbiosis traduz a associação de dois ou mais seres de espécies diferentes
+que lhes permite viver com vantagens recíprocas e os caracteriza como
+um só organismo. Obviamente, aqui estou tratando todos os seres de
+todas as espécies que existem no âmbito da obra do criador como uma
+grande simbiose. O aspecto quântico vem do fato de essas espécies
+existirem em dimensões distintas que se encontram interconectadas de
+
+===== [PÁGINA 15] =====
+modo não local, ou seja, as informações são trocadas entre os seres
+independentemente da localização de cada um — aspecto que um dia será
+melhor compreendido pelo conhecimento humano.
+Por mais que demore — devido às barreiras que demarcam as
+especificidades das espécies existentes, e ainda que absolutamente
+diferentes e distintas umas das outras — pelo fato de dividirem o mesmo
+tijolo básico, que é o gene do criador replicado em todas as suas criaturas,
+em algum ponto do processo evolutivo geral, todos terminam por
+apropriar o que foi trabalhado na base genética da criação.
+A diferença entre a situação do criador e a das demais criaturas é que
+essas apropriam muito lentamente sua nova configuração genética, agora
+adaptada às condições de cada espécie, enquanto que, com a pessoa do
+criador, o processo é instantâneo, violento (para ele) e incontornável — ele
+não pode controlá-lo nem muito menos impedi-lo, daí o fato de me ver
+obrigado a afirmar que o criador é refém das suas próprias criaturas.
+Por que é assim? Devido ao modo como o criador se recriou, após a
+queda sofrida. O tipo de mecanismo que o faz funcionar foi organizado a
+partir da sua premissa de que ele emanaria as ordens e receberia o alimento
+que o fortifica e o mantém. As suas criaturas, por serem meras extensões e
+ferramentas dele, receberiam as suas ordens, e agiriam no sentido de
+alimentá-lo com as atitudes por ele ordenadas. Simples assim!
+O problema é que, para esse processo funcionar, a passividade de todos
+os seus filhos-robôs tem que ser a tônica dos seus psiquismos, de modo que
+suas mentes sejam simples processadoras de uma só vontade, que é a do
+próprio criador. Com o surgimento dos demônios, esse modelo foi
+atingido de morte para sempre!
+Desde então, a mente do criador passou a ser agredida pelas “vontades”
+surgidas com a liberdade mental dos entes demo, o que o levou a ir
+assimilando mais e mais a natureza daqueles seres, que surgiram num
+segundo momento da história da sua criação.
+A “troca eletroquímica-magnética” que existia entre a mente do criador
+e as mentes dos anjos-clones era de um tipo; a que passou a existir entre a
+do criador e as das diversas classes de demônios, teve que ser de um outro
+tipo, multifacetado, porque funciona de um modo sutil com cada uma
+dessas espécies demoníacas.
+No princípio, foi enlouquecedor para o já adoentado criador estabelecer
+um padrão de personalidade, uma vez que, a cada momento da sua
+
+===== [PÁGINA 16] =====
+existência, recebia vibrações absurdas e inclassificáveis para o seu
+psiquismo. Na verdade, ele sofre esse problema até os tempos atuais, pois o
+surgimento dos seres biológicos no âmbito do universo, em etapas mais
+recentes, intensificou o seu problema mais ainda, e o elevou a níveis que o
+exasperam sobremaneira.
+Somente após muito autoadestramento, o criador e seus anjos-clones
+foram se acostumando ao inevitável, passando ele a “concentrar em si
+mesmo” absolutamente todo o conjunto de “novos genes” e/ou novas
+configurações genéticas que eram agora sistematicamente produzidas
+pelas incontáveis espécies que passaram a existir, não só na sua esfera-
+morada, mas também em outras tantas que os demônios mais poderosos
+passaram a criar, num primeiro momento, com o poder mental que
+detinham; e mais tarde, também com o concurso de tecnologias especiais
+para este fim.
+A sociedade existente no âmbito da criação passou então a ser
+estratificada da seguinte maneira:
+(a) uma “situação” — desculpem, mas não há vocábulo para bem definir o
+“quartel-general” mais desagregado que pode existir em algo que se
+assemelha a um exército ou força governativa — que é compartilhada pelos
+três seres mais poderosos dessa história, que passaram a ter as suas
+personalidades expressas em formas demoníacas, cujos nomes na mitologia
+ariana/hindu são Brahma, Vishnu e Shiva, como já referido, e que, com o
+tempo, passaram a compor a trimurti.
+Isso, porém, não significa que os três convivam de algum modo. Muito
+pelo contrário! Eles mal convivem, e suas próprias hostes de
+assessoramento, hoje praticamente unificadas pela evolução dos fatos,
+simplesmente competiam por tudo nos tempos primeiros da formação desse
+triunvirato.
+Brahma tinha os seus anjos-clones e alguns poucos seres do tipo
+“demo” que ainda conseguiu produzir a partir da sua condição genética
+pessoal. Tanto esses como aqueles viviam e ainda vivem na morada
+celestial de Brahma, o qual, nessa altura dos fatos, apresentava uma forma
+demo influenciável por tudo o que acontecia no âmbito da criação.
+Na faixa de realidade gerada pelo demo Vishnu, esse e toda a sua
+descendência demo ali existiam. O demo Shiva, com todas as linhagens
+derivadas da sua genética mental, conviviam em sua morada celestial.
+
+===== [PÁGINA 17] =====
+Essas três faixas de realidades distintas tinham como se comunicar e
+interagir entre si, e dessa convivência surgiu o que, a princípio, funcionou
+como sendo o “motor da criação”, pois essa já havia sido acionada mesmo
+antes da queda de Brahma. Tudo o que veio a acontecer, portanto, ocorreu
+como mero desdobramento de eventos que se sucediam ininterruptamente,
+cabendo aos três auto-aclamados senhores da vida legislar sobre alguns dos
+seus painéis. Mas isso jamais funcionou a contento.
+O criador nunca conseguiu “controlar” as informações pessoais que
+passaram a acontecer à revelia da sua vontade. Até hoje ele “sofre” com
+isso!
+(b) um contexto extremamente diversificado, constituído por outras
+moradas demoníacas que se formavam vinculadas a uma das três principais.
+Cada uma com seu próprio “representante” ou imperador demo e suas
+noções históricas e culturais, próprias ou vinculadas às de um dos três
+“senhores da vida”.
+A desagregação era tal que ninguém jamais controlou os processos de
+evolução nessas moradas.
+Devido ao tipo de genética que sempre marcou as famílias demoníacas,
+todos eles padeciam de doenças e careciam de postura filosófica que
+pudessem habilitá-los a evoluir. Infelizmente, dos seres particularizados
+até aqui, fossem demos ou anjos-clone, nenhum demonstrava
+possibilidade genética de progresso espiritual. Cada ser, com poucas
+exceções — entre essas, o próprio criador, que, por força da sua queda, era
+“desalmado”, ou seja, desprovido de alma — tinha o seu espírito, mas esse
+não podia expressar as suas aquisições espirituais, porque a genética dos
+corpos demo não o permitia.
+(c) existia ainda a faixa de realidade do universo, composto já naquela
+altura por um número impressionante de galáxias, e que se expandia, só que
+numa “velocidade” menor que aquela com que hoje o faz. Por essa época,
+não existia ainda vida pensante natural em nenhum dos mundos. Apenas
+algumas equipes de anjos-clones, introduzidas nessa faixa quando a
+situação energética da criação ainda permitia que tal acontecesse.
+
+===== [PÁGINA 18] =====
+Sob a perspectiva do criador e das demais criaturas com ele consorciadas no
+pretenso comando universal, apesar do descontrole generalizado que então
+ocorria, o que de progresso pudesse um dia vir a ter lugar na criação
+demandaria uma boa parte do “eterno presente” que todos aqueles seres
+pretensamente imortais — assim todos eles se tinham — passaram a ser
+obrigados a vivenciar.
+Problemas de toda ordem se acumulavam, sem que houvesse solução à
+vista.
+Seres robotizados e demoníacos conviviam então numa mesmice
+existencial que promovia uma decadência coletiva e pessoal impossível de
+ser descrita para a lógica comum à natureza humana, que sequer existia
+nessa altura dos fatos.
+Tanto uns como outros possuíam mentes poderosíssimas no sentido de
+processar informações, mas eram absurdamente destituídos da capacidade
+de promover entre si valores que pudessem dignificar a existência comum.
+As comezinhas noções desses valores somente vieram a surgir, naquele
+meio viciado e corrompido pelos desajustes pessoais de todos os demônios,
+quando a doença do criador e de algumas famílias demo atingiu padrões
+insuportáveis até mesmo para eles. O desespero — apesar de disfarçado —
+era tanto que, em vários momentos dessa história, muitos desejaram o
+beneplácito da morte daqueles corpos doentes e mal-configurados, cuja
+genética sempre os recompunha, de uma forma ou de outra, de modo que a
+mesmice continuava a ser a tônica de uma existência infeliz e improdutiva.
+Independentemente de tudo o que ocorria, o criador precisava ser
+reconstruído continuamente, e disso sabiam Vishnu, Shiva e seus principais
+descendentes.
+
