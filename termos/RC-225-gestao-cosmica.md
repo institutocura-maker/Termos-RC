@@ -17,6 +17,14 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 - **Grafia preferida:** Gestão Cósmica
 - **Variações:** gestão universal; divisão da gestão; administração cósmica; divisão do Comando
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 79]** cap. 7 *Gestão Cósmica*: «o “computador” foi gerado, mas quem o gerou, dele se tornou refém»; Javé «não tem permitido que ninguém o faça por ele». «Conspiração amorosa» **não** ganha código (O-3).
+- **[B033 p. 80]** «sempre o que esteve em jogo foi e é a gestão do cosmos» — «quem exerce a supremacia sobre os diversos processos em curso».
+- **[B033 p. 81]** Brahma «já aceitou a divisão da gestão universal com aquele a quem conhecemos atualmente como Mestre Jesus, e a sua tão prometida volta tem tudo a ver com os termos desta questão» (data de escrita: 22/02/2012).
+- **[B033 p. 82]** «não podem existir três mentes responsáveis pelo mesmo processo». «Xadrez Cósmico» = Colecionar Incertezas (já em B048) — **não fundir**. «3% da doença do criador» (p. 80) = **clínica — fora**. RC-227 **não materializada**. Sem fusão com B001 / B002 / B048. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

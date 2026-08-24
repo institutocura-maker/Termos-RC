@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B033 — O Drama Terreno de Javé
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada (`trabalhada`). Sem apostila. **PDF = obra integral (219 págs), vol. 3 da trilogia. B001 e B002 já em CONCLUIDOS. Sem fusão.**
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 11 fichas ampliadas (RC-225, RC-226, RC-231, RC-001, RC-041, RC-070 + opcionais RC-037, RC-104, RC-102, RC-167, RC-005); B033 nas fontes de RC-005 e RC-167; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Trilogia dos Dramas encerrada. Sem fusão.
 
 ## 1. Identificação
 

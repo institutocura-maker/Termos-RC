@@ -54,6 +54,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B002 p. 7]** «estando ele agora na situação de refém da própria criação e nela inserida». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
 - Remissão a B001 na Intro = **não fundir**. Sem fusão com B033 / B035. Fonte **B002** já constava na tabela-mestra.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 5]** as divindades criadoras intentam homenagear o Pai-Mãe Incognoscível; a criação de Javé «terminou por apresentar uma série de problemas»; o criador expulsou classes de anjos-clones «rebeldes».
+- **[B033 p. 79]** quem gerou o «computador» «dele se tornou refém». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
+- Remissões a B001 / B002 (p. 10) = **não fundir**. «Adoecido» / «câncer» = **clínica — fora**. Sem fusão com B035. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

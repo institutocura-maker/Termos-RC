@@ -32,6 +32,13 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **[B049 p. 122–123]** a razão filosófica do «homem Jesus» impede o aprisionamento no papel destinado por Javé; só com a idade ela confronta a fé da família, dos apóstolos, do povo e do próprio Javé.
 - **[B049 p. 115]** Jesus «se viu obrigado a medir o mundo, não pela sua razão, mas pela fé do seu povo». Sem fusão com B033 / B005. Quarentena teológica.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 191]** cap. 18 *A Surpresa de Javé: a Razão Filosófica dos Terráqueos*: o universo «há cerca de 13,7 bilhões de anos»; a humanidade «há cerca de duzentos mil anos» — **quarentena científica**.
+- **[B033 p. 192]** CONSTATAÇÃO: os terráqueos podem ser «um protótipo melhorado»; a «maior surpresa» foi a «razão filosófica» que os humanos passaram a apresentar.
+- Anunnakis / Enki / Ningishzida = **ufológica — fora**. *Carma e Compromisso* = remissão a **B026**, **não fusão**. Nietzsche / Píndaro = **externas**. Sem fusão com B049. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

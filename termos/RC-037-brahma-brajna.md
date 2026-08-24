@@ -39,6 +39,12 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[B037 p. 80]** mente de Brahma vinculada à divindade da qual é expressão, «apesar de “adoentada”» — **quarentena clínica**. Energia *rajas*; holografia / colapso quântico = **científica**.
 - **[B037 p. 82–83]** «Estou a deixar-me “humanizar”»; não confia em Vishnu nem em Shiva; «maldisse a raça humana da Terra». Sem fusão com B022 / B024. RC-033 / RC-038 permanecem **sem ficha**.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 5]** Senhor Javé, «na sua revelação aos judeus», = «Senhor Brahma, quando assim se apresentou aos arianos da antiguidade perdida».
+- **[B033 p. 79–81]** «Senhores Brahma (Javé) e Vishnu (Jesus)»; Brahma «jamais teve “razão filosófica” desperta» nos níveis da humanidade. «3% da doença do criador» = **clínica — fora**. Sem fusão com B001 / B024. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

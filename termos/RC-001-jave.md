@@ -141,6 +141,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B002 p. 66]** cap. 7: Javé «tido de modo confuso por muita gente como sendo Deus»; «despossuído de senso moral»; precisa «edificar em si mesmo algum nível de senso moral esclarecido». «Transtorno de personalidade» / «adoentado» / analogia do autismo (p. 9) = **clínica — fora**. Kardec = **externa**.
 - **[B002 p. 220–221]** Posfácio: «ainda que doente desde o princípio» pela reconstituição, «o que resta dos poderes do Senhor Javé é algo ainda simplesmente incompreensível»; ordem de publicar «ainda que com equívocos». «Doente desde o princípio» = **clínica** (leitura, jamais diagnóstico). Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 4–5]** cap. 1: na resposta a «por que absolutamente tudo […] já nasceu programado para morrer» «reside o maior dos mistérios que atende pelo nome de Javé»; Senhor Javé (judeus) = Senhor Brahma (arianos).
+- **[B033 p. 10]** remissão a B001 e B002 — **não fundir**. «Câncer» de Javé e da assessoria / molécula-mãe «cancerígena» = **clínica — fora**. Crick = **externa**.
+- **[B033 p. 81]** divisão da gestão com Jesus; «estado de saúde pessoal» = **clínica — fora**.
+- **[B033 p. 201–202]** Posfácio: os «dramas» cósmico, espiritual e terreno «se transformaram em um complexo painel»; o escrevente não se desincumbiu a contento. Sem fusão com B001 / B002. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -4,7 +4,7 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Vol. 3. B001 e B002 = remissão, não fusão.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 11 fichas. ZERO códigos. Pasta em `livros/CONCLUIDOS/`. Trilogia dos Dramas encerrada.
 
 ---
 

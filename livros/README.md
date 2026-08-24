@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B033_o_drama_terreno_de_jave/` — ingresso 2026-08-24; **obra integral (219 págs)**; vol. 3 da trilogia; dossiê O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. Sem fusão com B001/B002. Sem apostila.
+*(nenhum ciclo integral em andamento.)*
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
@@ -68,4 +68,6 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B001_o_drama_cosmico_de_jave` — Devolutiva aplicada (2026-08-24); 9 fichas (RC-001, RC-041, RC-047, RC-204, RC-207, RC-210, RC-167, RC-072, RC-052); B001 nas fontes de RC-072; 0 códigos; BIBLIO intocada. Sem apostila.
 
-`CONCLUIDOS/B002_o_drama_espiritual_de_jave` — Devolutiva aplicada (2026-08-24); 9 fichas (RC-217, RC-223, RC-207, RC-001, RC-041, RC-167, RC-047, RC-052, RC-005); 0 códigos; BIBLIO intocada. B033 permanece na gaveta. Sem apostila.
+`CONCLUIDOS/B002_o_drama_espiritual_de_jave` — Devolutiva aplicada (2026-08-24); 9 fichas (RC-217, RC-223, RC-207, RC-001, RC-041, RC-167, RC-047, RC-052, RC-005); 0 códigos; BIBLIO intocada. Sem apostila.
+
+`CONCLUIDOS/B033_o_drama_terreno_de_jave` — Devolutiva aplicada (2026-08-24); 11 fichas (RC-225, RC-226, RC-231, RC-001, RC-041, RC-070, RC-037, RC-104, RC-102, RC-167, RC-005); B033 nas fontes de RC-005 e RC-167; 0 códigos; BIBLIO intocada. Trilogia dos Dramas encerrada. Sem apostila.

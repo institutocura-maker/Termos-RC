@@ -61,6 +61,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B002 p. 136]** cap. 13: «como “quem realmente manda” é o Senhor Javé — esta é a frase que mais tenho escutado desde o ano de 2007 — a prometida volta de Jesus somente poderá ocorrer quando todos os aspectos apontados como sendo “importantes” para os seus desígnios se encontrarem atendidos».
 - **Quarentena mediúnica** (canal / «quem realmente manda»). «Visita oficial de seres de outros orbes» (mesmo parágrafo) = **ufológica — fora**. Sem calendário. Sem fusão com B001 / B009 / B011. Fonte **B002** já constava na tabela-mestra.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 81]** a «tão prometida volta» de Jesus «tem tudo a ver» com a divisão da gestão universal aceita por Brahma.
+- **[B033 p. 82]** o retorno «à pedido do Senhor Javé» está dificultado por problemas na hierarquia celeste. Sem calendário. Anunnakis / naves = **ufológica — fora**. Sem fusão com B001 / B002 / B011. Fonte **B033** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

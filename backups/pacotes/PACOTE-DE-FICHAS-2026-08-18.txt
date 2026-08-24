@@ -8,17 +8,17 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 23658 | 228 | 0fac816726fb7ed9f2edd821412f631e442c9839c02b305a58b2918b17f0e4d7
+# termos/RC-001-jave.md | 24471 | 236 | 33a7c1c35250571c9c990b45eebda6ddbe6f4ef3584000bdc831718a16f26236
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 9586 | 101 | 36feee7a719bd9f88ffd09b910745c8f8cd939887e5ea24ab9e05db54c45618b
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
-# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 5807 | 87 | 28702f929c8a0320fcbbfa792d597938bf53b88b50e0d6cd3cfa8f43cbed51d8
+# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 6247 | 93 | 075010250faf15344ad22fa553cbea13a465b33ef7b054ed20cbc58c854c0f8f
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
-# termos/RC-037-brahma-brajna.md | 6349 | 84 | 9397235bf28dcc78454732a2e02a0421081588246f0904f98f3b0fe490d429ed
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 6592 | 81 | 2d678c966f17a57ce6f8f2f074b7a0827c24fd5144b467c8b95c72fd663ac4a6
+# termos/RC-037-brahma-brajna.md | 6836 | 90 | 33ba6aebd8d8e062aef25167f3889b77f7e45c7a79cfb841cbcb6d79bb30c11b
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 7181 | 88 | 8111abe1751c75cffce201349e412d107b05624d36b6483c407f703b9b6e841c
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
@@ -27,7 +27,7 @@
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
-# termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
+# termos/RC-070-isolamento-cosmico.md | 4673 | 64 | 0212e7f3013684c5e41cb597fec8a0cefaaf855df9d1c4451c2f27199e7cac65
 # termos/RC-072-jesus.md | 18678 | 173 | d0bb92554540b620c48b5fea433c847c13691f7b0b2a0e526a5dc05f2ab100a6
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
@@ -38,8 +38,8 @@
 # termos/RC-091-projeto-talm.md | 11262 | 106 | 10f2efbc5cd27e73f04ebc570db6e365bfdd4ee351f90ea62e3de5cd25638132
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
-# termos/RC-102-shiva-savna.md | 5323 | 64 | 77b1b5754d3c909331927d511a6b6194755cbf7b11e53a44c5eca6d68996abce
-# termos/RC-104-trimurti.md | 13772 | 137 | 05f3fc864a37386338add3f9f79f9dacc82da55078f16854650e91c0d6bdb09b
+# termos/RC-102-shiva-savna.md | 5733 | 70 | 2e26fa85514a80a4afafb6ca825df3598befed04abfe1c09a37470205c7d874c
+# termos/RC-104-trimurti.md | 14312 | 143 | acf541b44518add4899449105b626c914d5dfa9ffb19d971572e364b33a32bef
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -55,7 +55,7 @@
 # termos/RC-164-criaturas-ferramenta.md | 3932 | 67 | 1c086c52b006e88bcebea3cfb732f8a34d5b007d0d44715dcdc2c1a3a903efc1
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 9557 | 124 | c284fd5e2bccfbabce31f4c14088c14dc4a5063dbc333099052a2e5f96657e29
+# termos/RC-167-criacao-indevida-obra-indevida.md | 9982 | 130 | b1c060b9bbd3300c63dad81418ee667519ee6cbbca23cbf82cd31bd03a53996b
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -71,9 +71,9 @@
 # termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 3391 | 54 | dc67589705ac10c33cbdbd46270aee62fd973e2b7fd8d2d076723e3a5a1b80a3
 # termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 8615 | 103 | f4191cfdbe74ef6e17ba0092d17c5a2c3f7b3253accbe68ca6ba57b3d074d804
 # termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 3381 | 50 | f5969cff8507d536ab3368deead059f95ef714af9b2e31f72ff6225c93b196e7
-# termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
-# termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
-# termos/RC-231-razao-filosofica-dos-terraqueos.md | 3802 | 56 | c78ed2be84c911531b3e5b450339ee5975ec58bd90960a008f32e9a1d7f1c911
+# termos/RC-225-gestao-cosmica.md | 3810 | 50 | 6ec19ef0c1764b746c666f619acb1ea23ee6c2dc2d27bcdae0d4e5dfae84e393
+# termos/RC-226-cidadao-cosmico.md | 3105 | 48 | 6b4daf3cbdaceb8cc9f4d7e9f1d38d4fcd950802541dfba23f4c74072f8fecf0
+# termos/RC-231-razao-filosofica-dos-terraqueos.md | 4480 | 63 | 4f14c1b9876579c5db7d0bb40838e0005a78418125926f051a0f3be95385ac83
 # termos/RC-232-ostronomos.md | 3034 | 45 | dc2ca318f4716600e2866e196074bad63cc4aa22bb5a71b35e0632df0ca2f193
 # termos/RC-236-o-calvario-de-um-inocente.md | 3438 | 52 | 86b427755b60ccd2be627011e7ee75353a8b9b52f0209229b2bb464e23b5a5a2
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1566275 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1572739 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -581,6 +581,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B002 p. 6–7]** reconstituição pós-queda; DNA = projeção holográfica do seu psiquismo (âncora em RC-217).
 - **[B002 p. 66]** cap. 7: Javé «tido de modo confuso por muita gente como sendo Deus»; «despossuído de senso moral»; precisa «edificar em si mesmo algum nível de senso moral esclarecido». «Transtorno de personalidade» / «adoentado» / analogia do autismo (p. 9) = **clínica — fora**. Kardec = **externa**.
 - **[B002 p. 220–221]** Posfácio: «ainda que doente desde o princípio» pela reconstituição, «o que resta dos poderes do Senhor Javé é algo ainda simplesmente incompreensível»; ordem de publicar «ainda que com equívocos». «Doente desde o princípio» = **clínica** (leitura, jamais diagnóstico). Sem fusão com B001 / B033. Fonte **B002** já constava na tabela-mestra.
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 4–5]** cap. 1: na resposta a «por que absolutamente tudo […] já nasceu programado para morrer» «reside o maior dos mistérios que atende pelo nome de Javé»; Senhor Javé (judeus) = Senhor Brahma (arianos).
+- **[B033 p. 10]** remissão a B001 e B002 — **não fundir**. «Câncer» de Javé e da assessoria / molécula-mãe «cancerígena» = **clínica — fora**. Crick = **externa**.
+- **[B033 p. 81]** divisão da gestão com Jesus; «estado de saúde pessoal» = **clínica — fora**.
+- **[B033 p. 201–202]** Posfácio: os «dramas» cósmico, espiritual e terreno «se transformaram em um complexo painel»; o escrevente não se desincumbiu a contento. Sem fusão com B001 / B002. Fonte **B033** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -943,6 +951,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 
 - **[B002 p. 136]** cap. 13: «como “quem realmente manda” é o Senhor Javé — esta é a frase que mais tenho escutado desde o ano de 2007 — a prometida volta de Jesus somente poderá ocorrer quando todos os aspectos apontados como sendo “importantes” para os seus desígnios se encontrarem atendidos».
 - **Quarentena mediúnica** (canal / «quem realmente manda»). «Visita oficial de seres de outros orbes» (mesmo parágrafo) = **ufológica — fora**. Sem calendário. Sem fusão com B001 / B009 / B011. Fonte **B002** já constava na tabela-mestra.
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 81]** a «tão prometida volta» de Jesus «tem tudo a ver» com a divisão da gestão universal aceita por Brahma.
+- **[B033 p. 82]** o retorno «à pedido do Senhor Javé» está dificultado por problemas na hierarquia celeste. Sem calendário. Anunnakis / naves = **ufológica — fora**. Sem fusão com B001 / B002 / B011. Fonte **B033** acrescentada na tabela-mestra.
 
 ## Fontes
 
@@ -1410,6 +1424,12 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[B037 p. 80]** mente de Brahma vinculada à divindade da qual é expressão, «apesar de “adoentada”» — **quarentena clínica**. Energia *rajas*; holografia / colapso quântico = **científica**.
 - **[B037 p. 82–83]** «Estou a deixar-me “humanizar”»; não confia em Vishnu nem em Shiva; «maldisse a raça humana da Terra». Sem fusão com B022 / B024. RC-033 / RC-038 permanecem **sem ficha**.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 5]** Senhor Javé, «na sua revelação aos judeus», = «Senhor Brahma, quando assim se apresentou aos arianos da antiguidade perdida».
+- **[B033 p. 79–81]** «Senhores Brahma (Javé) e Vishnu (Jesus)»; Brahma «jamais teve “razão filosófica” desperta» nos níveis da humanidade. «3% da doença do criador» = **clínica — fora**. Sem fusão com B001 / B024. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1510,6 +1530,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B002 p. 4]** Introdução: o «outrem» é «aquele que, na qualidade de divindade cocriadora, criou este universo e nele se obrigou a viver por uma “questão de consciência”».
 - **[B002 p. 7]** «estando ele agora na situação de refém da própria criação e nela inserida». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
 - Remissão a B001 na Intro = **não fundir**. Sem fusão com B033 / B035. Fonte **B002** já constava na tabela-mestra.
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 5]** as divindades criadoras intentam homenagear o Pai-Mãe Incognoscível; a criação de Javé «terminou por apresentar uma série de problemas»; o criador expulsou classes de anjos-clones «rebeldes».
+- **[B033 p. 79]** quem gerou o «computador» «dele se tornou refém». Lemma «refém» — absorvido aqui; RC-196 **não materializada**.
+- Remissões a B001 / B002 (p. 10) = **não fundir**. «Adoecido» / «câncer» = **clínica — fora**. Sem fusão com B035. Fonte **B033** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2041,6 +2068,13 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 
 - **[P2024-07-13] O isolamento progressivo (U0270–U0300):** "a Terra foi isolada devido a várias confusões que foram acontecendo ao longo dos bilhões de anos para trás. E alguém tomava uma decisão"; as quatro decisões: rebelião dos titãs → Cronos; rebelião de Lúcifer → Sofia; rebelião dos Anunnaki na época de Jared → Javé; rebelião de Ades e Belial → Jesus; "a gente olha para isso aqui e diz: 'tudo isso é invenção, é lenda, é mitologia. Nada disso é verdade.' Eis o nosso problema: tudo isso aqui é, entre aspas, são eventos reais, segundo se entende"; "se a Globo não deu, o fato não aconteceu".
 - **[P2024-07-13] A Terra conhecida (U0050–U0100):** "a Terra chegou a ser um dos pontos dessa parte do universo mais entre aspas conhecidos"; "os seres biodemos viram a explosão em Marte e perceberam que seja lá o que soltou aquilo não foi produzido nesse universo"; "a Terra foi o planeta mais famoso dessa época, porque o quartel-general de Lúcifer tava aqui e está aqui até hoje".
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 98]** cap. 9: o isolamento é o pano de fundo do cidadão cósmico — título *Apesar do Isolamento*.
+- **[B033 p. 107]** «Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário.»
+- Contato oficial / naves / Capela = **ufológica — fora** (não ontologizar a partir deste volume). Sem fusão com B003 / B031. Fonte **B033** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3036,6 +3070,12 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[B037 p. 72]** «Você já era incompleto, desde a sua “queda”, ó Brahma»; tentaram ampará-lo e tiveram de «largá-lo»; cobriu a Criação nos primeiros micro-momentos.
 - **[B037 p. 80–82]** Shiva explica holografia / *rajas* / «doença» de Brahma; a volta de Jesus espera o alinhamento Brahma–Vishnu; confirma: o Criador é «refém do progresso das “criaturas evolutivas”», criadas a partir do DNA «doente». **Quarentena clínica + científica.** «Inteligências evolutivas» **sem código**. Sem fusão com B022. RC-135 permanece **sem ficha**.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 79]** o «1/3 faltante» da atitude mental da autoria universal «se refere à participação do Senhor Shiva».
+- **[B033 p. 82]** «somente os termos da responsabilidade do Senhor Shiva (Sai Baba) já foram delineados». «Prema Baba» (p. 80) **não** ganha código (O-3). Sem fusão com B037. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -3164,6 +3204,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B023 p. 14]** «esses Senhores da Trimurti se pensam “deuses”, e suas formas avatáricas também, porém, de fato, eles não são».
 - **[B023 p. 15]** Trimurti = os autoaclamados Senhores da Lila / Senhores do Dharma.
 - **[B023 p. 24]** convivência de Ellam com os três; desejavam que os híbridos «herdassem a Terra». Geopolítica da Lila (p. 14) = **não ontologizar como fato**. Sem materializar RC-075 / RC-135. Sem fusão com B024 / B044. Fonte **B023** já constava na tabela-mestra.
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 81]** «querela cósmica» que envolve «os três deuses hindus da Trimurti» em torno da autoria e da supremacia sobre a obra; as falanges vinculadas aos três esclareceram o escrevente.
+- **[B033 p. 82]** «Xadrez Cósmico» (inconcluso) anunciado para os temas «politicamente incorretos» da Trimurti — Colecionar Incertezas; **não fundir** com B048 / RC-150. RC-135 permanece **sem ficha**. Sem fusão com B024 / B044. Fonte **B033** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -4305,6 +4351,12 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B002 p. 150]** as faixas de realidade da «obra universal oriunda da criação indevida»; opção quântica do elétron = **quarentena científica**.
 - **[B002 p. 190]** as demais «mentes divinas» tentaram «impedir que a criação indevida pudesse acontecer» e, em vendo ser impossível, «formatar melhor» o que seria gerado. Sem fusão com B001 / B024 / B035. Fonte **B002** já constava na tabela-mestra.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 125]** o «conjunto da criação indevida»; tudo o que existe de ser vivo «se originou, direta ou indiretamente, a partir do DNA do próprio criador» — **quarentena científica**.
+- **[B033 p. 187]** individualidades «vitimadas pela criação indevida do Senhor Javé». Sem fusão com B001 / B002 / B024. Fonte **B033** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5284,6 +5336,14 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 - **Grafia preferida:** Gestão Cósmica
 - **Variações:** gestão universal; divisão da gestão; administração cósmica; divisão do Comando
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 79]** cap. 7 *Gestão Cósmica*: «o “computador” foi gerado, mas quem o gerou, dele se tornou refém»; Javé «não tem permitido que ninguém o faça por ele». «Conspiração amorosa» **não** ganha código (O-3).
+- **[B033 p. 80]** «sempre o que esteve em jogo foi e é a gestão do cosmos» — «quem exerce a supremacia sobre os diversos processos em curso».
+- **[B033 p. 81]** Brahma «já aceitou a divisão da gestão universal com aquele a quem conhecemos atualmente como Mestre Jesus, e a sua tão prometida volta tem tudo a ver com os termos desta questão» (data de escrita: 22/02/2012).
+- **[B033 p. 82]** «não podem existir três mentes responsáveis pelo mesmo processo». «Xadrez Cósmico» = Colecionar Incertezas (já em B048) — **não fundir**. «3% da doença do criador» (p. 80) = **clínica — fora**. RC-227 **não materializada**. Sem fusão com B001 / B002 / B048. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5327,6 +5387,13 @@ O Cidadão Cósmico é o **ideal antropológico das RC**: o humano que desenvolv
 ## Etimologia / Grafias
 - **Grafia preferida:** Cidadão Cósmico
 - **Variações:** cidadania cósmica; cidadão planetário; cidadania planetária (Projeto Orbum)
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 98]** cap. 9 *Apesar do Isolamento, eis o Cidadão Cósmico*. CONSTATAÇÃO: o universo como «organismo» / «computador quântico» cujas «teclas» são os seres viventes — **quarentena científica** (analogia do autor).
+- **[B033 p. 107]** «Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário. Contudo, ele ainda precisa ser bastante melhorado.»
+- Orbum / cidadania planetária (p. 215–217) = **institucional — fora**. Sem fusão com B027 / B042. Fonte **B033** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -5385,6 +5452,13 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 
 - **[B049 p. 122–123]** a razão filosófica do «homem Jesus» impede o aprisionamento no papel destinado por Javé; só com a idade ela confronta a fé da família, dos apóstolos, do povo e do próprio Javé.
 - **[B049 p. 115]** Jesus «se viu obrigado a medir o mundo, não pela sua razão, mas pela fé do seu povo». Sem fusão com B033 / B005. Quarentena teológica.
+
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 191]** cap. 18 *A Surpresa de Javé: a Razão Filosófica dos Terráqueos*: o universo «há cerca de 13,7 bilhões de anos»; a humanidade «há cerca de duzentos mil anos» — **quarentena científica**.
+- **[B033 p. 192]** CONSTATAÇÃO: os terráqueos podem ser «um protótipo melhorado»; a «maior surpresa» foi a «razão filosófica» que os humanos passaram a apresentar.
+- Anunnakis / Enki / Ningishzida = **ufológica — fora**. *Carma e Compromisso* = remissão a **B026**, **não fusão**. Nietzsche / Píndaro = **externas**. Sem fusão com B049. Fonte **B033** já constava na tabela-mestra.
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -41,6 +41,12 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[B037 p. 72]** «Você já era incompleto, desde a sua “queda”, ó Brahma»; tentaram ampará-lo e tiveram de «largá-lo»; cobriu a Criação nos primeiros micro-momentos.
 - **[B037 p. 80–82]** Shiva explica holografia / *rajas* / «doença» de Brahma; a volta de Jesus espera o alinhamento Brahma–Vishnu; confirma: o Criador é «refém do progresso das “criaturas evolutivas”», criadas a partir do DNA «doente». **Quarentena clínica + científica.** «Inteligências evolutivas» **sem código**. Sem fusão com B022. RC-135 permanece **sem ficha**.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 79]** o «1/3 faltante» da atitude mental da autoria universal «se refere à participação do Senhor Shiva».
+- **[B033 p. 82]** «somente os termos da responsabilidade do Senhor Shiva (Sai Baba) já foram delineados». «Prema Baba» (p. 80) **não** ganha código (O-3). Sem fusão com B037. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -73,6 +73,12 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B002 p. 150]** as faixas de realidade da «obra universal oriunda da criação indevida»; opção quântica do elétron = **quarentena científica**.
 - **[B002 p. 190]** as demais «mentes divinas» tentaram «impedir que a criação indevida pudesse acontecer» e, em vendo ser impossível, «formatar melhor» o que seria gerado. Sem fusão com B001 / B024 / B035. Fonte **B002** já constava na tabela-mestra.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 125]** o «conjunto da criação indevida»; tudo o que existe de ser vivo «se originou, direta ou indiretamente, a partir do DNA do próprio criador» — **quarentena científica**.
+- **[B033 p. 187]** individualidades «vitimadas pela criação indevida do Senhor Javé». Sem fusão com B001 / B002 / B024. Fonte **B033** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

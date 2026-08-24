@@ -23,6 +23,13 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[P2024-07-13] O isolamento progressivo (U0270–U0300):** "a Terra foi isolada devido a várias confusões que foram acontecendo ao longo dos bilhões de anos para trás. E alguém tomava uma decisão"; as quatro decisões: rebelião dos titãs → Cronos; rebelião de Lúcifer → Sofia; rebelião dos Anunnaki na época de Jared → Javé; rebelião de Ades e Belial → Jesus; "a gente olha para isso aqui e diz: 'tudo isso é invenção, é lenda, é mitologia. Nada disso é verdade.' Eis o nosso problema: tudo isso aqui é, entre aspas, são eventos reais, segundo se entende"; "se a Globo não deu, o fato não aconteceu".
 - **[P2024-07-13] A Terra conhecida (U0050–U0100):** "a Terra chegou a ser um dos pontos dessa parte do universo mais entre aspas conhecidos"; "os seres biodemos viram a explosão em Marte e perceberam que seja lá o que soltou aquilo não foi produzido nesse universo"; "a Terra foi o planeta mais famoso dessa época, porque o quartel-general de Lúcifer tava aqui e está aqui até hoje".
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 98]** cap. 9: o isolamento é o pano de fundo do cidadão cósmico — título *Apesar do Isolamento*.
+- **[B033 p. 107]** «Apesar do isolamento, o cidadão cósmico pretendido surgiu neste palco planetário.»
+- Contato oficial / naves / Capela = **ufológica — fora** (não ontologizar a partir deste volume). Sem fusão com B003 / B031. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

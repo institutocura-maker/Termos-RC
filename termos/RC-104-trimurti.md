@@ -104,6 +104,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B023 p. 15]** Trimurti = os autoaclamados Senhores da Lila / Senhores do Dharma.
 - **[B023 p. 24]** convivência de Ellam com os três; desejavam que os híbridos «herdassem a Terra». Geopolítica da Lila (p. 14) = **não ontologizar como fato**. Sem materializar RC-075 / RC-135. Sem fusão com B024 / B044. Fonte **B023** já constava na tabela-mestra.
 
+
+## Ampliação — B033 (O Drama Terreno de Javé)
+
+- **[B033 p. 81]** «querela cósmica» que envolve «os três deuses hindus da Trimurti» em torno da autoria e da supremacia sobre a obra; as falanges vinculadas aos três esclareceram o escrevente.
+- **[B033 p. 82]** «Xadrez Cósmico» (inconcluso) anunciado para os temas «politicamente incorretos» da Trimurti — Colecionar Incertezas; **não fundir** com B048 / RC-150. RC-135 permanece **sem ficha**. Sem fusão com B024 / B044. Fonte **B033** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
