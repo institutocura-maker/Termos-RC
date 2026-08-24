@@ -30,6 +30,13 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **A revelação que não se pretende verdadeira (U1377–U1401):** "a revelação cósmica é coisa para milhões de anos, é um processo que os fatos é que vão falar por si mesmos, deverão apenas ser interpretados corretamente" (U1377); "até hoje a gente usa da revelação, ou seja, encarna homens e mulheres e fala de fatos que ninguém viu; daqui pra frente serão os fatos acontecendo e todo mundo olhando" (U1378–U1379); "a revelação cósmica, acima de tudo, é a primeira revelação que nunca vai ser pretendida como verdadeira... sempre honesta no sentido de buscar a verdade, e por isso nunca vai [se corromper]" (U1393–U1394).
 - **O IEA e o juízo final (U0801–U0802):** "quando Javé se frustrou com Jesus e ordenou que o anjo dele, Gabriel, explicasse a Shimon [STT]... dizendo que lá próximo ao juízo final aparecerá na terra alguém que irá falar, esclarecer os 270 mundos, ou seja, resgatar tudo que foi dito para explicar. É o IEA, pessoal, não sou eu não, a gente tá no início" [REVISAR — STT].
 
+
+## Ampliação — B042 (Crônicas de um Novo Tempo)
+
+- **[B042 p. 71]** crônica homônima: dar por sabido o que ainda se pretende descobrir é crença no lugar da verificação. Epígrafe de Emerson; prudência do Tao (Lao Tse) = **referências externas**.
+- **[B042 p. 87]** distinta da Revelação Espiritual (Kardec + espíritos comunicantes): “a Revelação Cósmica não se dará exclusivamente por obra de nenhum terráqueo”; “não ficará inserida na obra de nenhum homem ou mulher da Terra”; maturidade só com “convivência, clara e objetiva, com os nossos irmãos cósmicos”. RC-190 permanece **sem ficha**.
+- Sem fusão com B031. IEEA **fora**. Parte IV e 11-setembro **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

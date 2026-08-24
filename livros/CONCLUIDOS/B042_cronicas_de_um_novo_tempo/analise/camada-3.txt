@@ -1,6 +1,6 @@
 O corpus integral desta obra é o extract paginado:
 
-  livros/B042_cronicas_de_um_novo_tempo/original.txt
+  livros/CONCLUIDOS/B042_cronicas_de_um_novo_tempo/original.txt
 
 SHA-256 e302c4152ef1ab739abb8c935149736779fbef49fdff8702355a416f98e0f790
 Não duplicar aqui (370 KB). Páginas 1, 21, 104 e 219 = [página sem texto extraível].

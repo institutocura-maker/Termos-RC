@@ -30,6 +30,12 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[P2024-07-13] A parte romântica × a parte complexa (U0040–U0100):** "nós vamos ter que estudar agora a parte da reintegração cósmica que eu falei lá no século passado: é a parte romântica da história, é a parte menos desagradável, mas tem uma parte profundamente complexa"; "a cada dia, um número X de figuras novas chegam aqui: sejam seres extraterrestres desse universo biológico ou seres extrafísicos desse universo vizinho... diariamente aumenta a taxa de figuras novas"; "isso vai chegar num ponto tal em que os governos da Terra, a imprensa, não mais conseguirão obscurecer o tema".
 - **[P2024-07-13] O detalhe da quarentena (U0463–U0490):** "a reintegração cósmica, ela tem um detalhe. No início eram 19 mundos isolados da convivência com os demais planetas. Por que isolados? Porque era um caso de saúde pública"; "quando dos 19 mundos, um desses mundos, a população daquele mundo se curava, esse mundo era reintegrado à convivência e o restinho da população daquele mundo que ainda estava doente era elevada e distribuída pelos 18 mundos que ainda estavam isolados".
 
+
+## Ampliação — B042 (Crônicas de um Novo Tempo)
+
+- **[B042 p. 110–111]** crônica homônima: o passado terrestre que não cabe no paradigma atual sobrevive como “notícias místicas” até haver registro científico. A trilogia *Queda e Ascensão Espiritual* (B003 / B025 / B026) = “recados amorosos” / notícias místicas — **não fundir** (obras intactas).
+- **[B042 p. 111]** “dissertar a respeito da história da civilização terrestre é referir-se a um certo contexto cósmico de queda existencial de certas comunidades planetárias que em passado remoto foram trazidas para a Terra.” RC-344 permanece **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

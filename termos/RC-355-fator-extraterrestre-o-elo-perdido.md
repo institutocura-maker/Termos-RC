@@ -17,6 +17,13 @@ O capítulo 12 de B005 ("A Busca do Elo Perdido: O Fator Extraterrestre") argume
 - **Grafia preferida:** Fator Extraterrestre
 - **Variações:** o elo perdido; componente extraterrena; fator ET (jargão)
 
+
+## Ampliação — B042 (Crônicas de um Novo Tempo)
+
+- **[B042 p. 105]** *Espíritos e Extraterrestres*: hipótese de desencarnados + visitantes de outros mundos que, “quando próximos ao nosso planeta, projetam-se com seus corpos especiais nos ambientes astrais”. **Quarentena ufológica** (leitura, não fato).
+- **[B042 p. 105–106]** na codificação espírita “não era possível se referir a esses seres”; a ausência de ETs em Kardec gerou dogmas — Kardec = **referência externa**; RC-190 sem ficha.
+- Sem fusão com B005. Naves / avistamentos **fora** da malha como evento validado.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

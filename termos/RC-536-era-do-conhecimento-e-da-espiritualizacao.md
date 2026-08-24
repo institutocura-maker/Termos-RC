@@ -18,6 +18,13 @@ A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da 
 - **Variações:** "nova era do conhecimento e da espiritualização"; "novo tempo" (título da obra)
 - **Obs.:** o título do livro ("Crônicas de um Novo Tempo") ecoa essa denominação
 
+
+## Ampliação — B042 (Crônicas de um Novo Tempo)
+
+- **[B042 p. 5]** Esclarecimento: “Estamos nos primeiros tempos de uma nova era a qual, particularmente, denomino como sendo a do conhecimento e da espiritualização.”
+- **[B042 p. 6]** Atlan, 04/08/2011. Textos em maioria inéditos; alguns já em jornais, “novo tratamento editorial”; “sem nenhuma ligação com fé ou dogma.” BIBLIO Etapa II ~1999–2002 × 2011/2012 = **`[REVISAR]`** de recorte.
+- As frases sobre fundamentalismos EUA/Islã (p. 5) = **quarentena político-geopolítica** — **não** ontologizadas.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

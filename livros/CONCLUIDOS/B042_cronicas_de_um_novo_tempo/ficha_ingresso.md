@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B042 — Crônicas de um Novo Tempo
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Pasta fora de `CONCLUIDOS/`.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 7 fichas ampliadas (RC-094, RC-005, RC-003, RC-536, RC-274, RC-355, RC-342); 0 códigos. Parte IV e 11-setembro fora. RC-535 não ampliada. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

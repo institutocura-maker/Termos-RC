@@ -31,6 +31,12 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 - **[B014 p. 212]** texto complementar *O Apocalipse: a “Cápsula do Tempo”!* — reproduz material já ligado a B012; **remissão, sem fusão**.
 - **Quarentena político-geopolítica ABSOLUTA:** qualquer âncora em evento terrestre de 2001 permanece **fora da ontologia** (O-4 / O-7).
 
+
+## Ampliação — B042 (Crônicas de um Novo Tempo)
+
+- **[B042 p. 56]** crônica *O Discreto Avatar do Ocidente*: missionários que trabalham “com discrição elegante”. Gandhi, Teresa, Sai Baba, Divaldo, Chico = **referências externas** (não ontologizar).
+- **[B042 p. 58–61]** o espírito que personificou João Evangelista — único apóstolo a sobreviver às perseguições; com o desencarne de Chico Xavier, a leitura do autor é que Jesus quis dizer que esse espírito “ficaria reencarnado na Terra até o seu retorno”; depois, Francisco de Assis. **Quarentena teológica.** Sem fusão com B014. RC-214 / RC-215 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

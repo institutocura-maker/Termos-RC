@@ -41,6 +41,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B016 p. 125]** a volta “dar-se-á nos moldes anunciados”; Sophia “cumprirá o que a sua forma humana de Jesus revelou.”
 - **Quarentena teológica / ufológica:** “corpo extraterrestre” (p. 125) não vira fato. Sem fusão com B004.
 
+
+## Ampliação — B042 (Crônicas de um Novo Tempo)
+
+- **[B042 p. 92]** crônica *A Promessa de Jesus*: vida discreta até o ministério; anúncio de morte e ressurreição como vínculo da obra a um evento.
+- **[B042 p. 95]** *A Volta do Mestre*: “Afinal, Jesus voltará? Quando? De que modo?” — pergunta, não calendário. Leituras protestante / católica / espírita = **teologia comparada**, não ontologia.
+- **[B042 p. 108–109]** a promessa de retornar “em toda a sua glória, acompanhado pelos seus anjos” é “a única promessa feita por ‘alguma autoridade celeste’” quanto ao fim do isolamento; as promessas “estão vinculadas ao poder de mando do Senhor Javé”. Sem fusão com B011 / B014 / B016. Avistamentos (p. 109) = **quarentena ufológica**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 123537 | 1086 | 3d348f96b776ac6bc8e03134ecb62245423d1c8f01fc7a2fd9e44efa5076c4f9
+# CONTINUIDADE.md | 125268 | 1098 | a46e739187cdb60083aec38a1299fd878f2fcde2b68b166d18390bb98f465be0
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 575114 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 576845 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -4582,8 +4582,20 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B034 aplicada)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B042 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B042 *Crônicas de um Novo Tempo* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Cronicas de um Novo Tempo - Jan Val Ellam.pdf` (961.068 bytes; SHA-256 `3c2c01d44edc84fcf363d8bd650b5ff30cb8364103cd0fa034cf1bef533a67ea`; 228 págs = **B042**). ISBN 978-85-62411-13-7 já na BIBLIO. Intro Atlan 04/08/2011; CIP 2012; Copyright 2011. Etapa II ~1999–2002 × 2011/2012 = `[REVISAR]` de recorte. **BIBLIO intocada.**
+- Ciclo em `livros/B042_cronicas_de_um_novo_tempo/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~57.670 palavras; SHA-256 `e302c4152ef1ab739abb8c935149736779fbef49fdff8702355a416f98e0f790`. p. 1, 21, 104, 219 sem texto.
+- 17 termos já citam B042; 9 com ficha. Dossiê sugere ampliar RC-094, RC-005, RC-003, RC-536, RC-274. **0 códigos.** RC-085/098/190/214/215/344/364/537 sem ficha — não materializar.
+- Parte IV (política) e 11-setembro (p. 125) fora. Orbum/IEEA fora. Sem fusão com B001/B011/B014/B043.
+
+### Devolutiva B042 aplicada (2026-08-24)
+
+- O-1 confirmado (é B042; Etapa II ~1999–2002 × intro 2011 / CIP 2012 = `[REVISAR]`; BIBLIO intocada); O-2: 7 fichas ampliadas (RC-094, RC-005, RC-003, RC-536, RC-274 + opcional RC-355 sob quarentena ufológica, RC-342); RC-535 **não** ampliada (Orbum); O-3: zero códigos; RC-085/098/190/214/215/344/364/537 não materializadas; O-4: Parte IV, fundamentalismos e 11-setembro fora; Sagan/Chico/Rohden fora; O-5: B001, B011, B014 e B043 intactas; **O-6: BIBLIO intocada**; O-7: quarentena político-geopolítica inegociável + clínica (“doentia insistência” = leitura) + científica, teológica, ufológica, institucional; O-8: pasta em `livros/CONCLUIDOS/B042_cronicas_de_um_novo_tempo/`. Sem apostila.
 
 ## Fase 2 — B034 *Cartas a Javé* (abertura 2026-08-24)
 

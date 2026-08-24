@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B042 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B042 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B042 *Crônicas de um Novo Tempo* (abertura 2026-08-24)
@@ -10,6 +10,10 @@
 - Extract paginado: ~57.670 palavras; SHA-256 `e302c4152ef1ab739abb8c935149736779fbef49fdff8702355a416f98e0f790`. p. 1, 21, 104, 219 sem texto.
 - 17 termos já citam B042; 9 com ficha. Dossiê sugere ampliar RC-094, RC-005, RC-003, RC-536, RC-274. **0 códigos.** RC-085/098/190/214/215/344/364/537 sem ficha — não materializar.
 - Parte IV (política) e 11-setembro (p. 125) fora. Orbum/IEEA fora. Sem fusão com B001/B011/B014/B043.
+
+### Devolutiva B042 aplicada (2026-08-24)
+
+- O-1 confirmado (é B042; Etapa II ~1999–2002 × intro 2011 / CIP 2012 = `[REVISAR]`; BIBLIO intocada); O-2: 7 fichas ampliadas (RC-094, RC-005, RC-003, RC-536, RC-274 + opcional RC-355 sob quarentena ufológica, RC-342); RC-535 **não** ampliada (Orbum); O-3: zero códigos; RC-085/098/190/214/215/344/364/537 não materializadas; O-4: Parte IV, fundamentalismos e 11-setembro fora; Sagan/Chico/Rohden fora; O-5: B001, B011, B014 e B043 intactas; **O-6: BIBLIO intocada**; O-7: quarentena político-geopolítica inegociável + clínica (“doentia insistência” = leitura) + científica, teológica, ufológica, institucional; O-8: pasta em `livros/CONCLUIDOS/B042_cronicas_de_um_novo_tempo/`. Sem apostila.
 
 ## Fase 2 — B034 *Cartas a Javé* (abertura 2026-08-24)
 

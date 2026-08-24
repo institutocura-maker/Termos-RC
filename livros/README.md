@@ -44,4 +44,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B034_cartas_a_jave` — Devolutiva aplicada (2026-08-24); 7 fichas (RC-416, RC-417, RC-001, RC-217, RC-041, RC-332, RC-382); cartas de Mônica isoladas; 0 códigos; BIBLIO intocada. Sem apostila.
 
-`B042_cronicas_de_um_novo_tempo` — ciclo em andamento (ingresso 2026-08-24); dossiê enxuto aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada. Parte IV (política) fora.
+`CONCLUIDOS/B042_cronicas_de_um_novo_tempo` — Devolutiva aplicada (2026-08-24); 7 fichas (RC-094, RC-005, RC-003, RC-536, RC-274, RC-355, RC-342); Parte IV e 11-setembro fora; 0 códigos; BIBLIO intocada. Sem apostila.
