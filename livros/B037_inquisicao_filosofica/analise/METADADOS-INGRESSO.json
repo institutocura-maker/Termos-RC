@@ -1,0 +1,23 @@
+{
+  "obra": "B037",
+  "titulo": "Inquisição Filosófica",
+  "autor_capa": "Jan Val Ellam",
+  "autor_canonico": "Jan Val Ellam",
+  "adaptador_pdf": "Gullan Greyl (p. 1, 18-02-2020); metadado Acrobat: Gallian Greyl (2022-01-24)",
+  "biblio_editora_ano": "Conectar / ano em branco / status identificada",
+  "pdf_creditos": "sem CIP / sem ISBN / sem créditos Conectar; Acrobat PDFMaker 21 para Word",
+  "divergencia_edicao": "PDF 101 págs sem ISBN; BIBLIO sem ano/págs/ISBN; Gullan × Gallian; índice Parte 2=67 × Cap.10=63",
+  "fonte_upload": "uploads_recepcao/INQUISIÇÃO FILOSÓFICA.pdf",
+  "bytes_pdf": 1199948,
+  "sha256_pdf": "c320e410a855d5ec990b2c89f4194fc01eb34df096e359a14ff35f1f436ba9c8",
+  "paginas_pdf": 101,
+  "paginas_sem_texto": [],
+  "bytes_original_txt": 258915,
+  "sha256_original_txt": "04b4c7cf06c87c14b747cf77e9baf30deef80c32f7714bb871e57cf1004799e3",
+  "palavras_approx": 40129,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-24",
+  "ciclo": "Fase 2 — escala seletiva (primeira obra identificada / 0 citações)",
+  "status": "Ingresso aberto; aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada",
+  "codigos_consumidos": 0
+}

@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B040 aplicada)  
+**Data de sincronização:** 2026-08-24 (ingresso B037 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B037 *Inquisição Filosófica* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/INQUISIÇÃO FILOSÓFICA.pdf` (1.199.948 bytes; SHA-256 `c320e410a855d5ec990b2c89f4194fc01eb34df096e359a14ff35f1f436ba9c8`; 101 págs = **B037**). BIBLIO: Conectar / `identificada` / «Roteiro de B024» / sem ano/ISBN. Este PDF = adaptação Gullan Greyl 18-02-2020 (metadado *Gallian Greyl* = `[REVISAR]`); **sem** CIP/ISBN. Índice Parte 2 = 67 × Cap. 10 = 63 = `[REVISAR]`. **BIBLIO intocada.**
+- Ciclo em `livros/B037_inquisicao_filosofica/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~40.129 palavras; SHA-256 `04b4c7cf06c87c14b747cf77e9baf30deef80c32f7714bb871e57cf1004799e3`. 101 págs com texto.
+- **0 termos citam B037** (primeira obra `identificada` desta esteira). Dossiê sugere ampliar RC-001, RC-104, RC-037, RC-167, RC-334, RC-245. **0 códigos.** RC-135/271/300/313/033/038 sem ficha — não materializar. «Recanto de Paz» sem código.
+- Não confundir com B022 / B029 / B079. IEEA/Orbum/entrevista/roteiro fora. Quarentena clínica da «doença» do Criador (cap. 7). Sem fusão com B001/B002/B033/B036/B034/B048.
 
 ## Fase 2 — B040 *Homo Sapiens: da Guerra ao Esporte* (abertura 2026-08-24)
 

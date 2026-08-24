@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B037_inquisicao_filosofica/original.txt
+
+SHA-256 04b4c7cf06c87c14b747cf77e9baf30deef80c32f7714bb871e57cf1004799e3
+Não duplicar aqui (259 KB). 101 páginas com texto extraível.
+Sem marca d'água de conversor.
