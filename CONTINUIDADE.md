@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B018 aplicada — 7 fichas, 0 códigos; B039 na gaveta)  
+**Data de sincronização:** 2026-08-24 (piloto B039 — ingresso e dossiê enxuto; 0 códigos; aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B039 *Terra Atlantis III: A Era Sapiens* (abertura 2026-08-24) — **livro 3/3; B017/B018 = remissão**
+
+- **PDF ingressado** em `uploads_recepcao/TERRA ATLANTIS - A Era Sapiens - Livro 3.pdf` (2.104.283 bytes; SHA-256 `a16c327b00bf12e198acee1eb6155408865cadc5590f726243b5a9ac310b15c9`; **177 págs** = **B039**, obra integral). Adaptação Gullan Greyl 01-02-2020. Metadado Author **Gallian Greyl** = `[REVISAR]`. Esclarecimentos Atlan **29/08/2018** = **bloco novo** (não é o Prefácio/Esclarecimentos de B017/B018). Sem ISBN/CIP. **BIBLIO intocada** (`trabalhada` / ano «—»).
+- Ciclo em `livros/B039_terra_atlantis_a_era_sapiens/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~70.356 palavras; SHA-256 `c16320e2d333358549cb9780cfc027a44fa0d0d44bf9acb40e57352afb6c1026`. 177 págs com texto.
+- **17 termos já citam B039**; 5 com ficha. Dossiê sugere só a voz de Ellam (Esclarecimentos + NAT sem Hitler + Comentário 3): RC-078, RC-009, RC-072, RC-041. **0 códigos.** Caps. 1–12 = Val Eno — isolados. Comentários 1–2 (Hitler / «povos escolhidos») = **político — fora**. RC-239/238/235 sem ficha.
+- Remissão a B017 / B018 / B052 = **não fundir**. B038 **não fundir**. Quarentena mediúnica + político-geopolítica críticas. Orbum/IEEA/entrevista/roteiro (p. 160–177) fora.
 
 ## Fase 2 — B018 *Terra Atlantis II: A Frota Norte* (abertura 2026-08-24) — **livro 2/3; B039 fora**
 
