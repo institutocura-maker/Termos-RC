@@ -25,6 +25,12 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **[B017 p. 5]** a narrativa «não pertence à autoria intelectual deste escrevente», e sim a «um autor situado em um outro contexto». **Quarentena mediúnica.**
 - **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas que, «devido aos desdobramentos da rebelião de Lúcifer, viram-se obrigadas a aportar no planeta Terra»; alguns personagens optaram por uma operação «camuflagem» para preservar o «quartel-general da rebelião». Caps. 1–13 (Val Eno) **isolados**. Artefato voador (p. 4) = **ufológica — fora**. Sem fusão com B018 / B039. Fonte **B017** já constava na tabela-mestra.
 
+
+## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+
+- **[B018 p. 68]** NAT: Yel Luzbel «hoje se encontra em vivência isolada e fora deste contexto»; os biodemos rebelados só perceberam o «fator Javé» por trás do problema com Sophia ao monitorar a relação de Javé com «este escrevente» (2006–2017).
+- Prefácio/Esclarecimentos = **mesmo bloco de B017** — remissão, **não** reancorar. Caps. 1–11 (Val Eno) **isolados**. Sem fusão com B017 / B039. Fonte **B018** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

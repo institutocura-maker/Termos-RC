@@ -17,6 +17,13 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **Grafia preferida:** Seres dos Portais
 - **Variações:** "deuses da mitologia grega"; demos mitológicos; gênios (mitologia árabe)
 
+
+## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+
+- **[B018 p. 14]** NAT: Val Eno referia-se ao «último dos senhores» / «último em descendência» dos «seres dos portais»; disputa entre gerações; a cultura desses seres «retrocedia a tempos […] anteriores à Criação».
+- **[B018 p. 79]** NAT: os biodemos «jamais compreenderam» a relação do «conglomerado de realidades» com os «seres dos portais»; contexto de «realidade paralela antimaterial» — **quarentena ufológica / científica**.
+- **[B018 p. 9]** NAT só gloss: «viajores» = «Nephilim bíblicos» (grafia do livro) × canônico Nefilins. Caps. 1–11 **isolados**. Sem fusão com B017. Fonte **B018** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

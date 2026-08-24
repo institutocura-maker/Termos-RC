@@ -116,6 +116,11 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B017 p. 23]** NAT: «um dos senhores da criação universal e da vida — pertencente ao ordenamento geopolítico da trimurti, a saber, Brahma, Visnhu e Shiva». Grafia **Visnhu** × canônico Vishnu. «Geopolítico» = leitura do autor, **não** fato político.
 - Caps. 1–13 **isolados**. Sem fusão com B023 / B024 / B044. Fonte **B017** acrescentada na tabela-mestra.
 
+
+## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+
+- **[B018 p. 132]** Cronologia (Ellam): «geopolítica da Trimurti ou da Tríade»; «Senhores da Lila»; triunvirato Brahma/Javé, Shiva e Vishnu. «Geopolítica» = leitura do autor, **não** fato político. Diferenças × B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Sem fusão com B017 / B023 / B024. Fonte **B018** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -4,7 +4,7 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **Livro 2/3 Terra Atlantis. B039 não entra neste dossiê. B017 = remissão.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 7 fichas (só NAT + Cronologia). ZERO códigos. Pasta em `livros/CONCLUIDOS/`. B039 permanece na gaveta.
 
 ---
 

@@ -125,6 +125,12 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B017 p. 15]** NAT / mentores (2015): primeiro surgimento de Sophia como «Gestor de Mundos»; depois «representante do criador» / «primeiro em comando nesta parte da criação».
 - **[B017 p. 23]** NAT: a interação da mente de Vishnu «passou a existir, para este universo, a personalidade de Sophia» — «Personificação da Sabedoria»; «Primeiro em Comando»; «Cristo Cósmico». Caps. 1–13 **isolados**. Sem fusão com B018 / B014. Fonte **B017** já constava na tabela-mestra.
 
+
+## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+
+- **[B018 p. 77]** NAT: Ellam faz «as mais profundas reservas» em concordar com o «discernimento de Sophia e das famílias Aya e Aye»; considera esses seres «frios, insensíveis» perante a ética humana. **Quarentena mediúnica** (Val Eno veicula; Ellam reserva).
+- **[B018 p. 132]** Cronologia: Sophia = «avatar» de Vishnu «à moda biodemo»; assume o comando após a «derrocada» do Criador; residência oficial em Capela — **ufológica**. Caps. 1–11 **isolados**. Sem fusão com B017 / B014. Fonte **B018** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

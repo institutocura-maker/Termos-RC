@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B018 — Terra Atlantis II: A Frota Norte
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada (`trabalhada`). Sem apostila. **PDF = obra integral (151 págs), livro 2/3. B017 já em CONCLUIDOS. B039 não processado. Sem fusão com B038.**
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 7 fichas ampliadas (RC-078, RC-241, RC-074, RC-041 + opcionais RC-009, RC-072, RC-104) só NAT + Cronologia; B018 nas fontes de RC-041 e RC-104; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. B039 na gaveta. Sem fusão.
 
 ## 1. Identificação
 

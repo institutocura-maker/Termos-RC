@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B018_terra_atlantis_a_frota_norte/` — ingresso 2026-08-24; **obra integral (151 págs)**; livro 2/3 Terra Atlantis; dossiê O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. B039 não processado. Sem fusão com B038. Sem apostila.
+*(nenhum ciclo integral em andamento — B039 permanece na gaveta.)*
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 
@@ -71,3 +71,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B002_o_drama_espiritual_de_jave` — Devolutiva aplicada (2026-08-24); 9 fichas (RC-217, RC-223, RC-207, RC-001, RC-041, RC-167, RC-047, RC-052, RC-005); 0 códigos; BIBLIO intocada. Sem apostila.
 
 `CONCLUIDOS/B033_o_drama_terreno_de_jave` — Devolutiva aplicada (2026-08-24); 11 fichas (RC-225, RC-226, RC-231, RC-001, RC-041, RC-070, RC-037, RC-104, RC-102, RC-167, RC-005); B033 nas fontes de RC-005 e RC-167; 0 códigos; BIBLIO intocada. Trilogia dos Dramas encerrada. Sem apostila.
+
+`CONCLUIDOS/B017_terra_atlantis_o_sinal_de_lands_end` — Devolutiva aplicada (2026-08-24); 7 fichas (RC-078, RC-003, RC-009, RC-072, RC-002, RC-041, RC-104) só voz de Ellam; B017 nas fontes de RC-002, RC-003, RC-041 e RC-104; 0 códigos; BIBLIO intocada. Sem apostila.
+
+`CONCLUIDOS/B018_terra_atlantis_a_frota_norte` — Devolutiva aplicada (2026-08-24); 7 fichas (RC-078, RC-241, RC-074, RC-041, RC-009, RC-072, RC-104) só NAT + Cronologia; B018 nas fontes de RC-041 e RC-104; 0 códigos; BIBLIO intocada. B039 na gaveta. Sem apostila.

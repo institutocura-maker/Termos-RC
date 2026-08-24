@@ -67,6 +67,12 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B017 p. 15]** NAT (voz de Ellam / mentores): «o “deus universal”, o criador, desde há muito se encontrava desaparecido e dele não se tinha notícia». A sequência em 1ª pessoa da família Val («a minha mente particularizada») = **Val Eno — isolada**.
 - **[B017 p. 14]** NAT: Sophia como «representante do criador» — discrepância registada, não interpolada. «Criação doentia» (NAT p. 132) = **clínica — fora**. Sem fusão com B001 / B033. Fonte **B017** acrescentada na tabela-mestra.
 
+
+## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+
+- **[B018 p. 68]** NAT: a face referida por Val Eno era a de um «Criador falido» — **quarentena clínica** (leitura, jamais diagnóstico); o «fator Javé» só se tornou consciente para os biodemos de Alt'Lam Gron e Shamb-Aha entre 2006 e 2017.
+- **[B018 p. 131–132]** Cronologia (Ellam): Javé/Brahma, «Ser Trimurtiano»; Criação «equivocada»; «tombou doente» / «código de vida doentio» = **clínica — fora**. Diferenças × cronologia de B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Fonte **B018** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

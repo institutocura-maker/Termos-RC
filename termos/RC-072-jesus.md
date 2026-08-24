@@ -134,6 +134,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B017 p. 14]** NAT: ao tempo de B026, os mentores apresentaram «a figura cósmica que viria a ser conhecida mais tarde através da figura de Jesus» como «uma das “autoridades cósmicas” que presidia a um grupo de civilizações» na Via Láctea. **Quarentena mediúnica.**
 - **[B017 p. 23]** NAT: Sophia, «ao nascer muito mais tarde na Terra, assumiria a personalidade de Jesus». Caps. 1–13 **isolados**. Sem fusão com B003 / B026 / B009. Fonte **B017** já constava na tabela-mestra.
 
+
+## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
+
+- **[B018 p. 56]** NAT: o espírito de Yel Am, emancipado da condição biodemo, «viria a ter […] a função de apóstolo junto ao Mestre Jesus, mais especificamente como a personificação de Judas Iscariotes». **Quarentena mediúnica / teológica.**
+- **[B018 p. 10]** NAT: remissão a B004 (*A Sétima Trombeta do Apocalipse: A Volta de Jesus*) — **não fundir**.
+- **[B018 p. 139]** Cronologia: Sophia «fazer-se “Jesus”» há pouco mais de 2 mil anos a.p. Caps. 1–11 **isolados**. Sem fusão com B017 / B004. Fonte **B018** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
