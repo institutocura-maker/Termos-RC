@@ -47,7 +47,7 @@
 | RC-039 | Capela (Sistema) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B003, B025, B057, B058 | RC-085; RC-046; RC-109; RC-146; RC-002; RC-007 | — |
 | RC-040 | CFD (Código Fonte Definidor) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B031, B024, B002, B033, B021, B041, B040, B019, P2022-12-17, P2021-12-04, P2024-05-04, P2024-08-03 | RC-041; RC-104; RC-081; RC-091; RC-742 | — |
 | RC-041 | Criador (Brahma/Javé/Demiurgo) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B044, B035, B001, B002, B033, B015, B016, B013, B020, B048, B041, B034, B036, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29 | RC-037; RC-052; RC-047; RC-048; RC-001 | [✔](termos/RC-041-criador-brahma-jave-demiurgo.md) |
-| RC-042 | Criatura Universal | Seres & Entidades | 1.7 Híbridos / Seres de transição | 🟡 | B031, B024, B019, P2026-04-02, P2023-05-13 | RC-056; RC-099; RC-107; RC-645; RC-761 | [✔](termos/RC-042-criatura-universal.md) |
+| RC-042 | Criatura Universal | Seres & Entidades | 1.7 Híbridos / Seres de transição | 🟡 | B031, B024, B019, B041, P2026-04-02, P2023-05-13 | RC-056; RC-099; RC-107; RC-645; RC-761 | [✔](termos/RC-042-criatura-universal.md) |
 | RC-043 | Conselho dos Cinco | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B031 | RC-065; RC-032; RC-111; RC-121; RC-122; RC-138; RC-143 | — |
 | RC-044 | Cultura Demo | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B031, B044 | RC-049; RC-077; RC-064; RC-065 | — |
 | RC-045 | Daemon | Termos Específicos | 8.4 Grego / Latim | 🟡 | B031 | RC-049; RC-050; RC-053 | — |

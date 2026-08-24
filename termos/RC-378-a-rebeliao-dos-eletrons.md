@@ -25,6 +25,15 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **Redução da reprodução (quarentena clínica estrita):** "os elétrons estão criando mecanismos no psiquismo" — homoafetividade e fluidez de gênero como mecanismos para reduzir a reprodução = **leitura do autor; jamais fato sociológico/biomédico**.
 - **B063:** o autor cita o livro "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa é sempre superior ao prazer do predador — os elétrons registram o sofrimento e "encheram o saco").
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 5]** a sinopse firma o tema-título: os elétrons hospedam, na “intimidade”, as informações desde o “momento zero”; os psiquismos das espécies predadoras “têm sujado a ‘existência interior’ desses agentes da informação cósmica”; “algum tipo de premissa neles, não mais suporta acumular marcações de sofrimento”.
+- **[B041 p. 131–132]** cap. 17: “movimento inconsciente de ‘rebelião íntima’ no âmbito dos elétrons”. Primeira etapa (reverter o caos dos “deuses primordiais”): Moros (grafia do extract: “Morus”), Ananke, Mohen So, Odin, Kvasir, Têmis. Segunda etapa (ponto de inflexão): Yel Luzbel, famílias rebeldes, Ostronomos, Pandora, Dionísio, Pirra, Eva. Sem materializar novos nós.
+- **[B041 p. 147]** cap. 21: “os elétrons não suportam mais receber marcação deletéria”; vivem como se estivessem “enjoados” ou “enojados” — analogia médico/paciente. O descompasso de sexo (psiquismo × genoma) = **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B041 p. 156–157]** cap. 22: “foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro”. Para Javé, significa “rendição psíquica” — abrir mão da gestão dos “pedaços desagregados de si mesmo”. Ressonância mórfica entre antielétrons e elétrons = “principal agente” — Sheldrake = **referência externa**; RC-381 permanece **sem ficha**.
+- **[B041 p. 157–158]** nova egrégora: a Trimurti e a egrégora-corpo de Javé “se desfizeram”; Javé “feito um bebê” ligado a outra, “só que mais consciente”, mantida pelas mentes da Revelação Cósmica. “Ohm” (p. 158) = variação de **Olm** — `[REVISAR]`; não criar código. Remissão ao Quarto Logos (B016) = **não fundir**. IEEA / Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -32,6 +32,13 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **[B024 p. 36]** Rajas dura enquanto Tamas (entropia) permitir; nesse intervalo Mavatna construiu os corpos estelares que tornaram a vida possível — “porque Brahma, Vishnu e Shiva precisavam de seres inteligentes que pudessem resolver o que eles não tinham condições de analisar”. RC-135 / RC-160 / RC-034 permanecem nos nós já existentes; sem código novo.
 - **[B024 p. 38]** no instante da Singularidade, Savna “expressou” Tamas como selo de garantia; a ciência chama isso, “sob um certo aspecto”, de entropia e, “por outro”, de energia escura — mesma **quarentena científica**.
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 43]** cap. 6: as Gunas — Rajas, Sattva e Tamas, “expressas respectivamente por Brahma, Vishnu e Shiva” — “foram e são o alicerce da Criação”.
+- **[B041 p. 43]** Prajapati / Prabrajna sofria de “inconsistência psíquica” que o autor chama de “doença do primeiro impulso” — **quarentena clínica** (leitura, jamais diagnóstico). Outras Divindades (Mavatna e Savna) tentaram ajustar o projeto na mente dela; Prajapati as expulsou e, na expulsão, a Criação “sugou” o corpo mental, “despedaçando-o”. Brahma diz que “não ‘caiu’… mas que ‘foi empurrado’”.
+- Sem fusão com B024. RC-013 / RC-387 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

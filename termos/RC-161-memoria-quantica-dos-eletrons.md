@@ -44,6 +44,13 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[B024 p. 98]** Tempo de Planck; materialização/desmaterialização bilhões de vezes por segundo; o registro akáshico “corresponde exatamente a esse processo”; no fim, as informações se associam à “Mente Universal” / “Biocosmos Inteligente” — **quarentena científica**. RC-162 / RC-163 permanecem **sem ficha**.
 - **[B024 p. 99–100]** elétrons = “Mente Despedaçada” de Prabrajna; por trás de cada par de olhos, “os elétrons de Javé” tentando reconhecer-se. Os espíritos fazem um “Favor Divino” ao “rejuntar” as partes — não à maneira dela. Choque dos elétrons ante a estupefação de quem percebeu que o Criador tinha “problemas” (o “homem Jesus” foi um desses).
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 5]** o elétron hospeda as informações “produzidas desde o ‘momento zero’ da sua história — que começou alguns segundos após o Big Bang — até os tempos presentes, e assim será enquanto o universo não finalizar”.
+- **[B041 p. 46]** Charon = memória quântica “infinita” nos circuitos — **referência externa**; **quarentena científica**. Sem fusão com B024 (cap. 13).
+- **[B041 p. 103]** cap. 14: duas componentes da memória, segundo os “amigos espirituais” — **passiva** (arquivista / registro akáshico) e **ativa**. “Essa não é uma constatação científica, pois a ciência apenas afirma que o elétron tem uma ‘memória quântica’”. RC-162 / RC-163 / RC-386 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

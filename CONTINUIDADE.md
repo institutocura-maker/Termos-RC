@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (ingresso B041 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-23 (Devolutiva B041 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B041 *A Rebelião dos Elétrons e o Código de Vida do Criador* (abertura 2026-08-23)
@@ -10,6 +10,11 @@
 - Extract paginado: ~59.099 palavras; SHA-256 `5d2dde9db30f35039db8ca44b13e62fec49ba7a9a2bf1c3b487900e163bf8688`. p. 1 e p. 162 sem texto.
 - 20 termos já citam B041; 9 com ficha. Dossiê sugere ampliar RC-378, RC-379, RC-382, RC-161, RC-332, RC-041. **0 códigos.** RC-040/153/162/380/381/383–387 sem ficha — não materializar.
 - RC-042 Criatura Universal tem ficha, mas **B041 não está nas fontes** (opcional O-2). Quarentenas: clínica (doença/infecção dos elétrons — não diagnóstico), científica (Charon / Sheldrake / 13,8 bi), teológica (Kardec), biográfica (Rogério / Aya), IEEA/Orbum fora. Sem fusão com B024/B016/B048/B001/B002/B033. “Favor Divino II” → Colecionar Incertezas.
+
+### Devolutiva B041 aplicada (2026-08-23)
+
+- O-1 confirmado (é B041; CIP 186 p. × PDF 184 = `[REVISAR]` de contagem; copyright 2019 × 1ª ed. 2018 = `[REVISAR]` de ano; BIBLIO intocada); O-2: 9 fichas ampliadas (RC-378, RC-379, RC-382, RC-161, RC-332, RC-041 + opcional **RC-042** com B041 nas fontes, RC-151, RC-167); O-3: zero códigos; RC-040/153/162/380/381/383–387/413 não materializadas; O-4: “Ohm” = Olm e “Morus” = Moros (variações); “13,8 milhões” `[REVISAR]`; Charon, Sheldrake, Jung, Freud, Kardec fora; IEEA/Orbum e “Favor Divino II” fora; O-5: B024, B016, B048, B001, B002 e B033 intactas; **O-6: BIBLIO intocada**; O-7: quarentena clínica crítica (“infecção” / “enjoos” / “doença do primeiro impulso” = leitura, jamais diagnóstico) + científica (Charon / Sheldrake / 25.869 genes / 13,8 bi); O-8: pasta em `livros/CONCLUIDOS/B041_rebeliao_dos_eletrons/`. Sem apostila.
+- **Colecionar Incertezas (novos):** “Favor Divino II” / “Você e o Favor Divino” (curso IEEA, p. 40); “13,8 milhões de anos” (p. 47) × 13,8 bilhões no mesmo livro `[REVISAR]`; “Ohm” (p. 158) = Olm.
 
 ## Fase 2 — B024 *A Epopeia dos Agentes da Vida Universal* (abertura 2026-08-23)
 

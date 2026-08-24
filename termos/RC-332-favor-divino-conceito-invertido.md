@@ -23,6 +23,13 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 
 - **Favor Divino invertido (P2025-03-15):** "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência" — o mérito do amor do caos (ver RC-529/RC-612).
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 16]** o autor se viu obrigado a publicar *Favor Divino* (B048) para explicar o “aspecto desagradável” dos espíritos portarem o código da “doença pessoal” do Criador decaído — **quarentena clínica** (leitura, jamais diagnóstico). **Não fundir** com B048.
+- **[B041 p. 70]** o Favor Divino é “a chave de toda questão”: os espíritos são agentes da Deidade na ajuda às Divindades problemáticas, enquanto cada ser “emancipa o seu psiquismo”.
+- **[B041 p. 40]** “Favor Divino II” / “Você e o Favor Divino” (curso IEEA) → **Colecionar Incertezas**; **não cadastrar**. IEEA **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

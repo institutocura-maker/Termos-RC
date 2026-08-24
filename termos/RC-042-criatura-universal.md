@@ -25,6 +25,14 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[B019 p. 9]** "este algo a ser edificado, bem poderia se chamar 'a Criatura Universal'. Ela é a única capaz de conduzir o rumo da história desta estranhíssima Criação a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador, 'Diretor e Ator de toda uma Peça Existencial' que foi 'posta para funcionar' sem o devido estudo dos desdobramentos do seu 'roteiro'."
 - **[B019 p. 9]** o surgimento da espécie como "'aparente produto da evolução terráquea'" "tem tudo a ver com os primeiros protótipos desta 'Criatura Universal' ainda por acontecer na sua 'versão final'".
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 73]** cap. 11 dedicado: o “maior de todos” os mistérios é que o repasse da energia amorosa da “Criatura Universal” — “livre e mentalmente emancipada”, “ainda por surgir” — “será a única força capaz de… contribuir decisivamente com a redenção pessoal do Criador”.
+- **[B041 p. 73]** os terráqueos pensantes são “a primeira espécie a servir de base para um processo de especiação”; daí “outras subespécies humanas, tanto biológicas como transumanas”. Sem fundir com B019 / B024.
+- **[B041 p. 73]** o “jogo da marcação energética” mudou por “imposição” de certa massa crítica de elétrons que não tinham mais como receber tanta “infecção informativa”; prece fervorosa / temor / submissão “já não podem mais influenciar o Criador”. Início do “problema”: **2007–2016** — **quarentena cronológica**.
+- Fonte **B041** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

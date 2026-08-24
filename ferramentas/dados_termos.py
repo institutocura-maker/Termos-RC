@@ -123,7 +123,7 @@ TERMOS = [
     ("RC-039", "Capela (Sistema)", LOK_PLA[0], LOK_PLA[1], P, ["B031", "B003", "B025", "B057", "B058"], "RC-085; RC-046; RC-109; RC-146; RC-002; RC-007", False),
     ("RC-040", "CFD (Código Fonte Definidor)", COS_LEI[0], COS_LEI[1], P, ['B031', 'B024', 'B002', 'B033', 'B021', 'B041', 'B040', 'B019', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2024-08-03'], 'RC-041; RC-104; RC-081; RC-091; RC-742', False),
     ("RC-041", "Criador (Brahma/Javé/Demiurgo)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B016', 'B013', 'B020', 'B048', 'B041', 'B034', 'B036', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29'], 'RC-037; RC-052; RC-047; RC-048; RC-001', True),
-    ("RC-042", "Criatura Universal", SER_HIB[0], SER_HIB[1], P, ['B031', 'B024', 'B019', 'P2026-04-02', 'P2023-05-13'], "RC-056; RC-099; RC-107; RC-645; RC-761", True),
+    ("RC-042", "Criatura Universal", SER_HIB[0], SER_HIB[1], P, ['B031', 'B024', 'B019', 'B041', 'P2026-04-02', 'P2023-05-13'], "RC-056; RC-099; RC-107; RC-645; RC-761", True),
     ("RC-043", "Conselho dos Cinco", GEN_EXT[0], GEN_EXT[1], P, ["B031"], "RC-065; RC-032; RC-111; RC-121; RC-122; RC-138; RC-143", False),
     ("RC-044", "Cultura Demo", COS_LEI[0], COS_LEI[1], P, ["B031", "B044"], "RC-049; RC-077; RC-064; RC-065", False),
     ("RC-045", "Daemon", TER_GRE[0], TER_GRE[1], P, ["B031"], "RC-049; RC-050; RC-053", False),

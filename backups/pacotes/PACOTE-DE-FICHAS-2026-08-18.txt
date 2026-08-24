@@ -18,8 +18,8 @@
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 5631 | 76 | fced6d82a4a0d7cd5d8eaa699445f096df713fc2b91ad6b1af82ae48c2435879
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 2270 | 44 | 7e7c91755cdac301a21a5a2dfeccf30a2b7f5a296342d852adb7b46f61a418fb
-# termos/RC-042-criatura-universal.md | 3234 | 50 | fd3848196a1adb22c81aef5aea8164bc6d65c0986b807332a48ff3f1350f90a1
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 3209 | 51 | 12ef03e1a4520f01739359c200fadecdbbfae1e38c8cedc8d00e96a28b1e3d33
+# termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 2711 | 50 | ad48b9b1a0d702b6e89ca8d5a8aa21af73a7127deca4c8b6d3e0647707e4356e
 # termos/RC-049-demos.md | 3291 | 52 | 4d4ec7f96245c3d87da4b47ce2c4d4ec791615bf58d3b231cce8067b265ca228
 # termos/RC-052-deus-deus-incognoscivel.md | 2909 | 47 | 552b51347004421808ab173ba64514b75bb308a66ac1f0d252206e58d81a9548
@@ -47,15 +47,15 @@
 # termos/RC-148-agentes-da-vida-universal.md | 5350 | 63 | 86db7400b944963550b9bbfee0b244b5ce521e825b201f8851900771eb7ea0d6
 # termos/RC-149-monada-monada-espiritual.md | 4288 | 58 | 23b0e3474b87978e5cc7ec4caf6496c7775d2fc1a0d924c819d58bfb380c62f2
 # termos/RC-150-xadrez-cosmico.md | 2488 | 42 | 986e22a28950d0342b890839d38b324db8fae30317f5cdecd07c81e2f19c510a
-# termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 4681 | 65 | 656be2d092cf1e730424245bc0118879ac3fa37b91e7347722b8932113a4a7c4
+# termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 5418 | 72 | 507e9382c869e30908a851e7e781190ef6bbbc12608e8300a4e04ecf46a398db
 # termos/RC-152-prabrajna.md | 12264 | 117 | bbb3baaa5509f58c99aa60698007fddce2967c679168182b26cdca1514f05f81
 # termos/RC-155-eras-da-criacao-10-eras.md | 6293 | 73 | 91f4edd20f3f550b8553c524d481bf9b84cdff75a6ac43c3ca78c67d0faaf63a
 # termos/RC-160-entropia-e-negentropia.md | 3998 | 53 | 0470ca08cf370d47291fda6932483e32b576a16efdd450cd7346eff0bb6dbe9d
-# termos/RC-161-memoria-quantica-dos-eletrons.md | 7675 | 85 | d25dd7a706f347dccaacfc4a49a42b1c2c75a18e5343838c43363986173c4ff1
+# termos/RC-161-memoria-quantica-dos-eletrons.md | 8477 | 92 | b0e9c392988bb92068a3b9f26f8245ffc2d6a34dc448a3f6b667f24fa0444155
 # termos/RC-164-criaturas-ferramenta.md | 3423 | 60 | fa1fc87e496e67505ef45c9436dbd711661934882e0f733dabf4540979e06495
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 6283 | 87 | e11660a4bd34146c05c89a971bd6a310644d9741e730f65ac938f883b7bf2318
+# termos/RC-167-criacao-indevida-obra-indevida.md | 6943 | 94 | 73c15b7aeed3d87238eb04bdf19ea704314c9338da4448587d90a8303cde03e2
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -120,7 +120,7 @@
 # termos/RC-325-genetica-totalitaria.md | 2924 | 45 | 57483b284da859d85cb0dba742337b9d15ff564bc3e57bf4b5c9eb030714f4e4
 # termos/RC-328-imperativo-categorico-da-moral.md | 3156 | 49 | 0880fc79a4677881ed548a9ae1cf4ec540efba40644c220527f5f24df337da14
 # termos/RC-329-kumari-kandan-tradicao.md | 2173 | 44 | 5cb5c4e48c796a88b524f5e3bd2768b1be357deeba45b856d7a13263c48d5e9e
-# termos/RC-332-favor-divino-conceito-invertido.md | 3863 | 54 | 8a7026a3ac549462e7eab7dec159ddee4e052ec1bd3f3be15262f858e9f75ece
+# termos/RC-332-favor-divino-conceito-invertido.md | 4551 | 61 | 4018a216da714f4ca1bcb6f27f62636fea89946dcf72e087e862db5e827e1c9d
 # termos/RC-333-democracia-do-amor-da-deidade.md | 2709 | 42 | 49507db0cdca5919a5bc75883262280c2ab521833d468b078a16afcf17e0702c
 # termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 2597 | 42 | 243105e2cfb9a2258bc4c84b7b2bfef4824b738e9e65172a4c29fd75621c83db
 # termos/RC-335-lavagem-cerebral-condicionamento.md | 3158 | 47 | 90cf84505d0141f1b147a8a5a962477f14576aa1f999e69d36d762c4ecf1ad11
@@ -134,9 +134,9 @@
 # termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md | 2671 | 41 | 8f31cdcdb5620a363942a40a0a39bf7d8144bd74f8787b0cc7cf7d9da7ef48c3
 # termos/RC-371-a-fe-de-jesus-e-a-razao-de-nietzsche.md | 2174 | 41 | debe3648e2c6238f236f4c5d53d8ac5b0ccce2ee4972b6a3ab6d790db6125c89
 # termos/RC-373-os-20-anos-de-jesus-entre-os-celtas.md | 3606 | 50 | 0dc626d91293985a7825ebadcacc504354557ee1071c9ae5130c762bcf9532b8
-# termos/RC-378-a-rebeliao-dos-eletrons.md | 4823 | 59 | 575304b4ebf55b8211be12fbac3e13e5c9493b34ef917599d15d8909a15e5ec6
-# termos/RC-379-danca-dos-eletrons.md | 2461 | 41 | d4d0c08f57bb7357a08d48c90554b9eddbd1cb92156ca1aa8072ceff213de89c
-# termos/RC-382-a-vida-do-cfd-de-jave-no-ser-humano.md | 2675 | 41 | 90d1bfdab368679b36e4b8d867941c87b5b9191627a1d3011ebe34bc753ddd36
+# termos/RC-378-a-rebeliao-dos-eletrons.md | 6745 | 68 | c466d494f264c3a4d2788024640559cf5f85b584a220cf7df1c6a1643439d974
+# termos/RC-379-danca-dos-eletrons.md | 3367 | 48 | 5959e7400d0130f644a8a5e1fc44b3d72da94e6bf04533f4c2333bc2132bd5a4
+# termos/RC-382-a-vida-do-cfd-de-jave-no-ser-humano.md | 3512 | 47 | b3525be5613d2f4d60f37331d08b4870a725d849553347ba490ac95fe6c30ac1
 # termos/RC-388-grupo-atlan.md | 2960 | 42 | 69330675f12ff36f6d6ff63020fda10cb92cb74e26ffc81e23dc351afaa3937f
 # termos/RC-395-ragnarok-em-marte.md | 4868 | 75 | 7175b2a24399e3aedd506995b2f24ab9e6ba0eed34ecca3bbe72425e0d816566
 # termos/RC-400-foz-coa-foxp2-simbolos.md | 2374 | 48 | 9dd4af194f857bef8138ce99a4d55b1707b99c32801caa956ed5d0f85a66303c
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1490949 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1499437 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -1354,6 +1354,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **Grafia preferida:** Criador
 - **Variações:** Brahma; Javé; Deus Bíblico; Demiurgo (Platão); "Criador caído"
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 40]** “O Deus Amantíssimo nunca criaria algo tão absurdo e medonho”; o risco é confundir o Pai-Mãe com “um Criador bem-intencionado e genial — Prajapati, que se reconstituiu como Javé (ou Brahma) ao ‘cair’ na própria Obra”. “Deus é alguém totalmente *top*, o que não é o caso de Javé.”
+- **[B041 p. 40]** Prajapati foi “sugado” pela própria Criação — “não há separação entre Divindades Criadoras e as Criações delas”. Em nenhum outro universo o Criador foi sugado pela Obra.
+- **[B041 p. 156–157]** para Javé, a rebelião dos elétrons = “rendição psíquica” e “oportunidade de salvação do que resta da sua consciência”. A Trimurti e a egrégora-corpo “se desfizeram”; nova egrégora, Javé “feito um bebê”, “mais consciente”. RC-385 permanece **sem ficha**. Sem fusão com B001 / B024 / B048.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1407,6 +1414,14 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[B019 p. 8]** O *Homo sapiens sapiens* "jamais cumpriu a contento" o papel de criatura "obediente e submissa"; tornou-se "o único protótipo possível de agir antes de um 'salto quântico' [...] na tentativa de se edificar a futura 'Criatura Universal' possível de ser sonhada perante as circunstâncias".
 - **[B019 p. 9]** "este algo a ser edificado, bem poderia se chamar 'a Criatura Universal'. Ela é a única capaz de conduzir o rumo da história desta estranhíssima Criação a um ponto de equilíbrio que possa alicerçar a 'redenção' do Criador, 'Diretor e Ator de toda uma Peça Existencial' que foi 'posta para funcionar' sem o devido estudo dos desdobramentos do seu 'roteiro'."
 - **[B019 p. 9]** o surgimento da espécie como "'aparente produto da evolução terráquea'" "tem tudo a ver com os primeiros protótipos desta 'Criatura Universal' ainda por acontecer na sua 'versão final'".
+
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 73]** cap. 11 dedicado: o “maior de todos” os mistérios é que o repasse da energia amorosa da “Criatura Universal” — “livre e mentalmente emancipada”, “ainda por surgir” — “será a única força capaz de… contribuir decisivamente com a redenção pessoal do Criador”.
+- **[B041 p. 73]** os terráqueos pensantes são “a primeira espécie a servir de base para um processo de especiação”; daí “outras subespécies humanas, tanto biológicas como transumanas”. Sem fundir com B019 / B024.
+- **[B041 p. 73]** o “jogo da marcação energética” mudou por “imposição” de certa massa crítica de elétrons que não tinham mais como receber tanta “infecção informativa”; prece fervorosa / temor / submissão “já não podem mais influenciar o Criador”. Início do “problema”: **2007–2016** — **quarentena cronológica**.
+- Fonte **B041** acrescentada na tabela-mestra.
 
 ## Fontes
 
@@ -3325,6 +3340,13 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **[B024 p. 36]** Rajas dura enquanto Tamas (entropia) permitir; nesse intervalo Mavatna construiu os corpos estelares que tornaram a vida possível — “porque Brahma, Vishnu e Shiva precisavam de seres inteligentes que pudessem resolver o que eles não tinham condições de analisar”. RC-135 / RC-160 / RC-034 permanecem nos nós já existentes; sem código novo.
 - **[B024 p. 38]** no instante da Singularidade, Savna “expressou” Tamas como selo de garantia; a ciência chama isso, “sob um certo aspecto”, de entropia e, “por outro”, de energia escura — mesma **quarentena científica**.
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 43]** cap. 6: as Gunas — Rajas, Sattva e Tamas, “expressas respectivamente por Brahma, Vishnu e Shiva” — “foram e são o alicerce da Criação”.
+- **[B041 p. 43]** Prajapati / Prabrajna sofria de “inconsistência psíquica” que o autor chama de “doença do primeiro impulso” — **quarentena clínica** (leitura, jamais diagnóstico). Outras Divindades (Mavatna e Savna) tentaram ajustar o projeto na mente dela; Prajapati as expulsou e, na expulsão, a Criação “sugou” o corpo mental, “despedaçando-o”. Brahma diz que “não ‘caiu’… mas que ‘foi empurrado’”.
+- Sem fusão com B024. RC-013 / RC-387 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -3653,6 +3675,13 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[B024 p. 98]** Tempo de Planck; materialização/desmaterialização bilhões de vezes por segundo; o registro akáshico “corresponde exatamente a esse processo”; no fim, as informações se associam à “Mente Universal” / “Biocosmos Inteligente” — **quarentena científica**. RC-162 / RC-163 permanecem **sem ficha**.
 - **[B024 p. 99–100]** elétrons = “Mente Despedaçada” de Prabrajna; por trás de cada par de olhos, “os elétrons de Javé” tentando reconhecer-se. Os espíritos fazem um “Favor Divino” ao “rejuntar” as partes — não à maneira dela. Choque dos elétrons ante a estupefação de quem percebeu que o Criador tinha “problemas” (o “homem Jesus” foi um desses).
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 5]** o elétron hospeda as informações “produzidas desde o ‘momento zero’ da sua história — que começou alguns segundos após o Big Bang — até os tempos presentes, e assim será enquanto o universo não finalizar”.
+- **[B041 p. 46]** Charon = memória quântica “infinita” nos circuitos — **referência externa**; **quarentena científica**. Sem fusão com B024 (cap. 13).
+- **[B041 p. 103]** cap. 14: duas componentes da memória, segundo os “amigos espirituais” — **passiva** (arquivista / registro akáshico) e **ativa**. “Essa não é uma constatação científica, pois a ciência apenas afirma que o elétron tem uma ‘memória quântica’”. RC-162 / RC-163 / RC-386 permanecem **sem ficha**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -3952,6 +3981,13 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B024 p. 36]** a Obra “jamais deveria ter existido”; as criaturas-ferramentas passam pela morte “porque esta Obra não foi finalizada, ou não pôde ser” (já na ficha; âncora confirmada no cap. 3).
 - **[B024 p. 76]** cap. 11: autoria e comando. Brahma, Vishnu e Shiva, em condição Adhydaiva, não podendo destruir uns aos outros, formaram a Trimurti e a Lila (“Passatempo” / “Jogo Mental” / estatuto das apostas). RC-075 / RC-014 permanecem **sem ficha**.
 - **[B024 p. 81]** os extrafísicos perceberam que “tinham ‘falido’” — não criaram seres que levassem ao futuro pretendido — e então formularam o Projeto Talm. Sem fusão com B044 / B045.
+
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 40]** “Nos outros universos que existem, não tem coisa alguma parecida com o fato de um Criador ter sido ‘sugado’ pela própria Obra.”
+- **[B041 p. 145]** “o modo de existir nesta Criação indevida é trágico e vexatório”; as vias religiosas “já foram tentadas e somente fizeram piorar a condição do Criador”.
+- **[B041 p. 158]** o que sobrar de “sujeira” nos elétrons será reprocessado por um avatar — Hara — “que Shiva, há muito tempo, já deixou engendrado para finalizar esta Criação indevida”. RC-413 permanece **sem ficha**. Sem fusão com B024.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7428,6 +7464,13 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 
 - **Favor Divino invertido (P2025-03-15):** "nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência" — o mérito do amor do caos (ver RC-529/RC-612).
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 16]** o autor se viu obrigado a publicar *Favor Divino* (B048) para explicar o “aspecto desagradável” dos espíritos portarem o código da “doença pessoal” do Criador decaído — **quarentena clínica** (leitura, jamais diagnóstico). **Não fundir** com B048.
+- **[B041 p. 70]** o Favor Divino é “a chave de toda questão”: os espíritos são agentes da Deidade na ajuda às Divindades problemáticas, enquanto cada ser “emancipa o seu psiquismo”.
+- **[B041 p. 40]** “Favor Divino II” / “Você e o Favor Divino” (curso IEEA) → **Colecionar Incertezas**; **não cadastrar**. IEEA **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8097,6 +8140,15 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **Redução da reprodução (quarentena clínica estrita):** "os elétrons estão criando mecanismos no psiquismo" — homoafetividade e fluidez de gênero como mecanismos para reduzir a reprodução = **leitura do autor; jamais fato sociológico/biomédico**.
 - **B063:** o autor cita o livro "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa é sempre superior ao prazer do predador — os elétrons registram o sofrimento e "encheram o saco").
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 5]** a sinopse firma o tema-título: os elétrons hospedam, na “intimidade”, as informações desde o “momento zero”; os psiquismos das espécies predadoras “têm sujado a ‘existência interior’ desses agentes da informação cósmica”; “algum tipo de premissa neles, não mais suporta acumular marcações de sofrimento”.
+- **[B041 p. 131–132]** cap. 17: “movimento inconsciente de ‘rebelião íntima’ no âmbito dos elétrons”. Primeira etapa (reverter o caos dos “deuses primordiais”): Moros (grafia do extract: “Morus”), Ananke, Mohen So, Odin, Kvasir, Têmis. Segunda etapa (ponto de inflexão): Yel Luzbel, famílias rebeldes, Ostronomos, Pandora, Dionísio, Pirra, Eva. Sem materializar novos nós.
+- **[B041 p. 147]** cap. 21: “os elétrons não suportam mais receber marcação deletéria”; vivem como se estivessem “enjoados” ou “enojados” — analogia médico/paciente. O descompasso de sexo (psiquismo × genoma) = **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B041 p. 156–157]** cap. 22: “foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro”. Para Javé, significa “rendição psíquica” — abrir mão da gestão dos “pedaços desagregados de si mesmo”. Ressonância mórfica entre antielétrons e elétrons = “principal agente” — Sheldrake = **referência externa**; RC-381 permanece **sem ficha**.
+- **[B041 p. 157–158]** nova egrégora: a Trimurti e a egrégora-corpo de Javé “se desfizeram”; Javé “feito um bebê” ligado a outra, “só que mais consciente”, mantida pelas mentes da Revelação Cósmica. “Ohm” (p. 158) = variação de **Olm** — `[REVISAR]`; não criar código. Remissão ao Quarto Logos (B016) = **não fundir**. IEEA / Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8150,6 +8202,13 @@ O cap. 7 de B041 (2018) detalha a dança: quarks e léptons (primeiras partícul
 - **Grafia preferida:** Dança dos Elétrons
 - **Variações:** jogo dos elétrons; dança dos elétrons (metáfora); transições orbitais (termo científico)
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 46]** cap. 7: a “dança” — “quando um elétron salta de uma órbita para outra ou quando ele desaparece de uma órbita e aparece em outra” — é responsável pela tabela periódica; “cria e modifica a forma material das coisas e dos corpos dos seres vivos”. Quantidade de elétrons = a mesma desde o início (conservação: “nada se perde, nada se cria, tudo se transforma”).
+- **[B041 p. 46]** Charon, físico nuclear francês, “percebeu que os elétrons… têm memória quântica infinita” — **referência externa**; **não ontologizar**.
+- **[B041 p. 47]** comunicação instantânea e não-local entre todos os elétrons — **quarentena científica**. “já existem há 13,8 milhões de anos” no mesmo livro que usa 13,8 bilhões → **`[REVISAR]`**. RC-162 permanece **sem ficha**. Sem fusão com B024.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8192,6 +8251,12 @@ O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os human
 ## Etimologia / Grafias
 - **Grafia preferida:** A Vida do CFD de Javé no Ser Humano
 - **Variações:** o CFD vivendo em nós; "a vida nos vive"; o código de vida do Criador no humano
+
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 70]** cap. 10: “A vida do CFD de Javé vive em cada um de nós, enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida”. “A vida nos vive”; *maya* cega com a ilusão. “Esse é o mistério por trás do ‘favor divino’ do qual os nossos espíritos são os agentes da Deidade, na sua ajuda às Divindades problemáticas. Eis a chave de toda questão!”
+- **[B041 p. 70–71]** o autor “briga” filosoficamente com Brahma, Vishnu e Shiva: “eles ‘faliram’ e transferiram para nós uma responsabilidade que não é nossa”. Criaturas-ferramentas + livre-arbítrio para que espíritos “simples e ignorantes” se tornem “esclarecidas e potencialmente amorosas”. RC-040 / RC-153 permanecem **sem ficha**. Sem fusão com B048.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

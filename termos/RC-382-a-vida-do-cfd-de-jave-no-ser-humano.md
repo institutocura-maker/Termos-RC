@@ -17,6 +17,12 @@ O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os human
 - **Grafia preferida:** A Vida do CFD de Javé no Ser Humano
 - **Variações:** o CFD vivendo em nós; "a vida nos vive"; o código de vida do Criador no humano
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 70]** cap. 10: “A vida do CFD de Javé vive em cada um de nós, enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida”. “A vida nos vive”; *maya* cega com a ilusão. “Esse é o mistério por trás do ‘favor divino’ do qual os nossos espíritos são os agentes da Deidade, na sua ajuda às Divindades problemáticas. Eis a chave de toda questão!”
+- **[B041 p. 70–71]** o autor “briga” filosoficamente com Brahma, Vishnu e Shiva: “eles ‘faliram’ e transferiram para nós uma responsabilidade que não é nossa”. Criaturas-ferramentas + livre-arbítrio para que espíritos “simples e ignorantes” se tornem “esclarecidas e potencialmente amorosas”. RC-040 / RC-153 permanecem **sem ficha**. Sem fusão com B048.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

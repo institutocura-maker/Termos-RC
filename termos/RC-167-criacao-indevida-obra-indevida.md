@@ -36,6 +36,13 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B024 p. 76]** cap. 11: autoria e comando. Brahma, Vishnu e Shiva, em condição Adhydaiva, não podendo destruir uns aos outros, formaram a Trimurti e a Lila (“Passatempo” / “Jogo Mental” / estatuto das apostas). RC-075 / RC-014 permanecem **sem ficha**.
 - **[B024 p. 81]** os extrafísicos perceberam que “tinham ‘falido’” — não criaram seres que levassem ao futuro pretendido — e então formularam o Projeto Talm. Sem fusão com B044 / B045.
 
+
+## Ampliação — B041 (A Rebelião dos Elétrons)
+
+- **[B041 p. 40]** “Nos outros universos que existem, não tem coisa alguma parecida com o fato de um Criador ter sido ‘sugado’ pela própria Obra.”
+- **[B041 p. 145]** “o modo de existir nesta Criação indevida é trágico e vexatório”; as vias religiosas “já foram tentadas e somente fizeram piorar a condição do Criador”.
+- **[B041 p. 158]** o que sobrar de “sujeira” nos elétrons será reprocessado por um avatar — Hara — “que Shiva, há muito tempo, já deixou engendrado para finalizar esta Criação indevida”. RC-413 permanece **sem ficha**. Sem fusão com B024.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

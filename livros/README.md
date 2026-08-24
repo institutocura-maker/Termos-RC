@@ -38,4 +38,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B024_epopeia_agentes_da_vida_universal` — Devolutiva aplicada (2026-08-23); 9 fichas (RC-148, RC-152, RC-167, RC-155, RC-161, RC-149, RC-091, RC-151, RC-104); B024 nas fontes de RC-104; 0 códigos; BIBLIO intocada. Sem apostila.
 
-`B041_rebeliao_dos_eletrons` — ciclo em andamento (ingresso 2026-08-23); dossiê enxuto aguarda Devolutiva O-1..O-8. 0 códigos. BIBLIO intocada.
+`CONCLUIDOS/B041_rebeliao_dos_eletrons` — Devolutiva aplicada (2026-08-23); 9 fichas (RC-378, RC-379, RC-382, RC-161, RC-332, RC-041, RC-042, RC-151, RC-167); B041 nas fontes de RC-042; 0 códigos; BIBLIO intocada. Sem apostila.

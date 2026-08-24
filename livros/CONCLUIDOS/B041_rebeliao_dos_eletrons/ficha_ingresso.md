@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B041 — A Rebelião dos Elétrons e o Código de Vida do Criador
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Pasta fora de `CONCLUIDOS/`.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-23).** 9 fichas ampliadas (RC-378, RC-379, RC-382, RC-161, RC-332, RC-041, RC-042, RC-151, RC-167); 0 códigos. B041 nas fontes de RC-042. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 
