@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B041 aplicada)  
+**Data de sincronização:** 2026-08-23 (ingresso B036 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B036 *As Memórias de Javé* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/As Memorias de Jave - Jan Val Ellam.pdf` (1.371.099 bytes; SHA-256 `d523f5d5ee9079df861bcc7e6829bbc7ed0e972999d43dffed6c8e4ec2791e69`; 111 págs = **B036**). BIBLIO já descreve 111 págs e as 3 partes; sem ISBN — **correto**. CIP p. 111 = bloco de *Inquisição Trimurtiana* (ISBN 978-85-62411-35-9 / 244 p.) → `[REVISAR]`; **não** gravar. Copyright 2017; intro Atlan 17/01/2014. **BIBLIO intocada.**
+- Ciclo em `livros/B036_memorias_de_jave/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~36.543 palavras; SHA-256 `81183873f995557677ca26f30303b487d0d5363dc041693cb9645ba6d6423b1d`. p. 1 sem texto.
+- 22 termos já citam B036; 12 com ficha. Dossiê sugere ampliar RC-421, RC-422, RC-426, RC-245, RC-424, RC-001. **0 códigos.** RC-071/099/135/270/418/423/425/427–429 sem ficha — não materializar.
+- Quarentenas: clínica (doente / dores — não diagnóstico), biográfica (mediunidade), teológica (Javé em 1ª pessoa), IEEA/Orbum fora. Sem fusão com B034/B048/B015/B016/B041. Livro “não finalizado” → Colecionar Incertezas.
 
 ## Fase 2 — B041 *A Rebelião dos Elétrons e o Código de Vida do Criador* (abertura 2026-08-23)
 

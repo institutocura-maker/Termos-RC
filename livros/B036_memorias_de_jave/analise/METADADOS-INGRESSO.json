@@ -1,0 +1,21 @@
+{
+  "obra": "B036",
+  "titulo": "As Memórias de Javé",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / ano — (copyright 2017; intro 17/01/2014)",
+  "pdf_creditos": "Conectar Editora / Copyright 2017 Natal-RN; CIP colado de Inquisição Trimurtiana (ISBN 978-85-62411-35-9 / 244 p.)",
+  "divergencia_edicao": "PDF 111 págs bate com BIBLIO; CIP p.111 é de outra obra (Inquisição Trimurtiana); NÃO adotar o ISBN; CDU 133.93 pertence ao CIP alheio",
+  "fonte_upload": "uploads_recepcao/As Memorias de Jave - Jan Val Ellam.pdf",
+  "bytes_pdf": 1371099,
+  "sha256_pdf": "d523f5d5ee9079df861bcc7e6829bbc7ed0e972999d43dffed6c8e4ec2791e69",
+  "paginas_pdf": 111,
+  "paginas_sem_texto": [1],
+  "bytes_original_txt": 221276,
+  "sha256_original_txt": "81183873f995557677ca26f30303b487d0d5363dc041693cb9645ba6d6423b1d",
+  "palavras_approx": 36543,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; pasta fora de CONCLUIDOS",
+  "codigos_consumidos": 0
+}

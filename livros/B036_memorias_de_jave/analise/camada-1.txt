@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): décimo-primeiro livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041).
+PDF entregue em uploads_recepcao/ pelo curador (push 56eb364 no branch da sessão).
+Obra já na BIBLIO como B036 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+22 termos já citam B036; 12 com ficha. Núcleo: RC-421 Memórias / RC-422 Ser-Criador fracassado / RC-426 “Não tenho isto!”.
+CIP p.111 é de outra obra. Quarentenas: clínica (doente / dores — não diagnóstico), biográfica (mediunidade), IEEA/Orbum.
+Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

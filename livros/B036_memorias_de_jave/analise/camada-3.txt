@@ -1,0 +1,7 @@
+O corpus integral desta obra é o extract paginado:
+
+  livros/B036_memorias_de_jave/original.txt
+
+SHA-256 81183873f995557677ca26f30303b487d0d5363dc041693cb9645ba6d6423b1d
+Não duplicar aqui (221 KB). Página 1 = [página sem texto extraível].
+Sem marca d'água de conversor.
