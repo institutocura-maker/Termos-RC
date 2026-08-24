@@ -1,0 +1,14 @@
+O corpus deste ciclo é o extract paginado do Livro III:
+
+  livros/B026_carma_e_compromisso/original.txt
+
+SHA-256 2d88ee7150c72e350ad6a885263013241ba1d85daadf7263e637c499113e8f49
+536.346 bytes · ~81.941 palavras · págs 197–428.
+p. 199 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Esclarecimento p. 206 (Atlan 14/06/1996) + fecho p. 427–428 (J. V. Ellam).
+p. 200 = paratexto sem assinatura (não âncora).
+p. 204–205 = Os editores (não âncora).
+Partes I–VI + Passado e Presente = mentores / 1ª pessoa (isolados).
+B003 e B025 não estão neste extract.
