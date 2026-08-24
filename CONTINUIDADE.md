@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B040 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B040 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B040 *Homo Sapiens: da Guerra ao Esporte* (abertura 2026-08-24)
@@ -10,6 +10,10 @@
 - Extract paginado: ~22.619 palavras; SHA-256 `2fe073d42d4b984587f72e16b4c51d188effcbf16cdeec75880550d9bd70fce7`. p. 1 sem texto.
 - 7 termos já citam B040; 3 com ficha. Dossiê sugere ampliar RC-430, RC-217. **0 códigos.** RC-040/099/431/432/244/540 sem ficha — não materializar.
 - Orbum fora. Quarentena científica (molécula-mãe / Sheldrake / IA) e clínica (“tendência doentia” do DNA). Sem fusão com B015/B019/B041/B048.
+
+### Devolutiva B040 aplicada (2026-08-24)
+
+- O-1 confirmado (é B040; nome civil e organizadoras já na BIBLIO; BIBLIO intocada); O-2: 4 fichas ampliadas (RC-430, RC-217 + opcional **RC-243** e **RC-748** com B040 nas fontes); O-3: zero códigos; RC-040/099/431/432/244/540 não materializadas; “homo consumus” sem código; O-4: Orbum, nacionalidades/“ismos” e anedotas (“mão de deus” / “lei de Gérson”) fora; Crick/Sheldrake/Kurzweil = referências externas; O-5: B015, B019, B041 e B048 intactas; **O-6: BIBLIO intocada**; O-7: quarentena clínica (“tendência doentia” / “eu ansioso” / “gene da corrupção” = leitura, jamais diagnóstico) + científica, político-geopolítica, ufológica, teológica, biográfica, institucional; O-8: pasta em `livros/CONCLUIDOS/B040_homo_sapiens_da_guerra_ao_esporte/`. Sem apostila.
 
 ## Fase 2 — B048 *Favor Divino* (abertura 2026-08-24)
 

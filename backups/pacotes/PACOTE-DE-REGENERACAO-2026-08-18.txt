@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 275891 | 2954 | e7216405190276795f393bf8ecf6184de0d39b59e222614125b47da3436eadfb
+# ferramentas/dados_termos.py | 275907 | 2954 | bbaf4d559c93b5d42fd246e879c06156af33d5ea8cc66756f860ea058229002c
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53563 | 352 | 4b14c6ef590c47a9f4c3edbe015b77c09b7d1df8b1bf4c9868fd5eb58fa9e32b
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 127355 | 1111 | 1d04316c48626376638715f39496b8a14f61ffcae4bec33d5cdbeb7a84eb9b87
+# CONTINUIDADE.md | 129212 | 1123 | 7c38b4712956899780a2f5ecf712b8c448b576e86204b778b915a4740042dd60
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 578940 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 580813 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -371,7 +371,7 @@ TERMOS = [
 
     # ---- Novos termos de B015 (obra primária: O Guardião do Éden, 2017)
     ("RC-242", "Éden do Criador (Éden como laboratório)", LOK_TER[0], LOK_TER[1], P, ["B015", "B020", "B052"], "RC-251; RC-177; RC-006; RC-041; RC-147", True),
-    ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'P2025-02-15'], 'RC-244; RC-099; RC-210; RC-041', True),
+    ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'B040', 'P2025-02-15'], 'RC-244; RC-099; RC-210; RC-041', True),
     ("RC-244", "Germe da Desconfiança", COS_LEI[0], COS_LEI[1], P, ["B015"], "RC-243; RC-041; RC-107; RC-167", False),
     ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], P, ['B015', 'B036', 'B048', 'P2024-05-04', 'P2025-10-25'], "RC-041; RC-001; RC-099; RC-147", True),
     ("RC-246", "Dez Sagrados (primeira geração do Criador)", SER_LOG[0], SER_LOG[1], P, ["B015"], "RC-055; RC-041; RC-206", False),
@@ -954,7 +954,7 @@ TERMOS = [
     ("RC-745", 'Colegiados Espirituais Humanizados', COS_DIM[0], COS_DIM[1], C, ['P2024-07-14'], 'RC-726; RC-722; RC-193; RC-733; RC-513; RC-633; RC-612; RC-613', True),
     ("RC-746", "Dessensibilização da Condição Humana", COS_LEI[0], COS_LEI[1], C, ['P2024-03-03', 'P2026-08-04'], 'RC-529; RC-049; RC-001; RC-378; RC-335; RC-705; RC-747; RC-748', True),
     ("RC-747", "Vergonha de Existir", COS_ETI[0], COS_ETI[1], C, ['P2024-03-03'], 'RC-746; RC-078; RC-705; RC-722', True),
-    ("RC-748", "Genótipo da Gentileza (GG)", PRO_BIO[0], PRO_BIO[1], C, ['P2024-03-03', 'P2024-09-28'], 'RC-746; RC-486; RC-543; RC-541', True),
+    ("RC-748", "Genótipo da Gentileza (GG)", PRO_BIO[0], PRO_BIO[1], C, ['P2024-03-03', 'P2024-09-28', 'B040'], 'RC-746; RC-486; RC-543; RC-541', True),
     ("RC-749", "Vício Devocional", COS_ETI[0], COS_ETI[1], C, ['P2024-04-13', 'P2023-12-02', 'P2025-11-29'], 'RC-001; RC-335; RC-019; RC-194; RC-746', True),
     ("RC-750", "Moisés e o Êxodo (leitura RC)", EVE_MIS[0], EVE_MIS[1], C, ['P2024-04-13'], 'RC-001; RC-164; RC-424; RC-271; RC-683', True),
     ("RC-751", "Bagagem Espiritual Intransferível", COS_PRO[0], COS_PRO[1], C, ['P2024-04-14'], 'RC-752; RC-548; RC-704; RC-164; RC-332', True),
@@ -4582,8 +4582,20 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B048 aplicada)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B040 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B040 *Homo Sapiens: da Guerra ao Esporte* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Homo Sapiens (da Guerra ao Esporte) - Jan Val Ellam.pdf` (601.163 bytes; SHA-256 `45947d6c4b9f04c03108b0b03011821cd6a79ccd1b533f8e1e6348aef363370e`; 82 págs = **B040**). ISBN 978-85-62411-21-2 já na BIBLIO. Assinatura com nome civil (Rogério de Almeida Freitas) já na BIBLIO. Copyright 2014 = 1ª ed. 2014. CDU 500.981. **BIBLIO intocada.**
+- Ciclo em `livros/B040_homo_sapiens_da_guerra_ao_esporte/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~22.619 palavras; SHA-256 `2fe073d42d4b984587f72e16b4c51d188effcbf16cdeec75880550d9bd70fce7`. p. 1 sem texto.
+- 7 termos já citam B040; 3 com ficha. Dossiê sugere ampliar RC-430, RC-217. **0 códigos.** RC-040/099/431/432/244/540 sem ficha — não materializar.
+- Orbum fora. Quarentena científica (molécula-mãe / Sheldrake / IA) e clínica (“tendência doentia” do DNA). Sem fusão com B015/B019/B041/B048.
+
+### Devolutiva B040 aplicada (2026-08-24)
+
+- O-1 confirmado (é B040; nome civil e organizadoras já na BIBLIO; BIBLIO intocada); O-2: 4 fichas ampliadas (RC-430, RC-217 + opcional **RC-243** e **RC-748** com B040 nas fontes); O-3: zero códigos; RC-040/099/431/432/244/540 não materializadas; “homo consumus” sem código; O-4: Orbum, nacionalidades/“ismos” e anedotas (“mão de deus” / “lei de Gérson”) fora; Crick/Sheldrake/Kurzweil = referências externas; O-5: B015, B019, B041 e B048 intactas; **O-6: BIBLIO intocada**; O-7: quarentena clínica (“tendência doentia” / “eu ansioso” / “gene da corrupção” = leitura, jamais diagnóstico) + científica, político-geopolítica, ufológica, teológica, biográfica, institucional; O-8: pasta em `livros/CONCLUIDOS/B040_homo_sapiens_da_guerra_ao_esporte/`. Sem apostila.
 
 ## Fase 2 — B048 *Favor Divino* (abertura 2026-08-24)
 

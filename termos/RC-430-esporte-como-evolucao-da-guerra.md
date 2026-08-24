@@ -17,6 +17,15 @@ O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta q
 - **Grafia preferida:** Esporte como evolução da Guerra
 - **Variações:** da guerra ao esporte; esporte × guerra; a transição guerreiro-atleta
 
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 3]** sinopse: “Um dia guerreiro implacável, hoje atleta que vibra na vitória e aceita a derrota sem aniquilar o seu oponente.”
+- **[B040 p. 11]** tese: o primeiro DNA surgiu “já com essa tendência doentia”; “os futuros homo sapiens tiveram que evoluir para poder praticar esportes sem matar os ‘adversários’, antes, durante ou depois da peleja.” **Quarentena clínica** (“tendência doentia” = leitura, jamais diagnóstico).
+- **[B040 p. 26]** “o presumível ‘bom caminho’ do estágio de guerreiros do passado ao de esportistas do presente”; a prática civilizada dos esportes = “um dos fatores mais emblemático de todo esse processo evolutivo.”
+- **[B040 p. 41]** espírito olímpico (séc. VIII a.C. / Kampilia no Mahabharata): a espécie “conseguiu apropriar a genética de praticar contendas sem trucidar o oponente, aprendendo, inclusive, a perder com honra.”
+- **[B040 p. 66–70]** síntese: da molécula-mãe à trégua de Olímpia; “Faça amor, não faça guerra… e não esqueça de praticar esportes.” RC-431 / RC-432 permanecem **sem ficha**. Sem fusão com B015 / B019. Orbum **fora**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

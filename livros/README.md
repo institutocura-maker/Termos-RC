@@ -48,4 +48,4 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 `CONCLUIDOS/B048_favor_divino` — Devolutiva aplicada (2026-08-24); 9 fichas (RC-332, RC-333, RC-334, RC-335, RC-047, RC-001, RC-052, RC-149, RC-245); B048 nas fontes de RC-245; 0 códigos; BIBLIO intocada. Sem apostila.
 
-`B040_homo_sapiens_da_guerra_ao_esporte` — ciclo em andamento (2026-08-24); dossiê enxuto aguarda Devolutiva O-1..O-8; 0 códigos; BIBLIO intocada. Fora de CONCLUIDOS.
+`CONCLUIDOS/B040_homo_sapiens_da_guerra_ao_esporte` — Devolutiva aplicada (2026-08-24); 4 fichas (RC-430, RC-217, RC-243, RC-748); B040 nas fontes de RC-243 e RC-748; 0 códigos; BIBLIO intocada. Sem apostila.

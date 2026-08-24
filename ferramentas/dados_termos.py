@@ -341,7 +341,7 @@ TERMOS = [
 
     # ---- Novos termos de B015 (obra primária: O Guardião do Éden, 2017)
     ("RC-242", "Éden do Criador (Éden como laboratório)", LOK_TER[0], LOK_TER[1], P, ["B015", "B020", "B052"], "RC-251; RC-177; RC-006; RC-041; RC-147", True),
-    ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'P2025-02-15'], 'RC-244; RC-099; RC-210; RC-041', True),
+    ("RC-243", "Genética da Confiança", COS_LEI[0], COS_LEI[1], P, ['B015', 'B040', 'P2025-02-15'], 'RC-244; RC-099; RC-210; RC-041', True),
     ("RC-244", "Germe da Desconfiança", COS_LEI[0], COS_LEI[1], P, ["B015"], "RC-243; RC-041; RC-107; RC-167", False),
     ("RC-245", "A Humanização do Criador", COS_PRO[0], COS_PRO[1], P, ['B015', 'B036', 'B048', 'P2024-05-04', 'P2025-10-25'], "RC-041; RC-001; RC-099; RC-147", True),
     ("RC-246", "Dez Sagrados (primeira geração do Criador)", SER_LOG[0], SER_LOG[1], P, ["B015"], "RC-055; RC-041; RC-206", False),
@@ -924,7 +924,7 @@ TERMOS = [
     ("RC-745", 'Colegiados Espirituais Humanizados', COS_DIM[0], COS_DIM[1], C, ['P2024-07-14'], 'RC-726; RC-722; RC-193; RC-733; RC-513; RC-633; RC-612; RC-613', True),
     ("RC-746", "Dessensibilização da Condição Humana", COS_LEI[0], COS_LEI[1], C, ['P2024-03-03', 'P2026-08-04'], 'RC-529; RC-049; RC-001; RC-378; RC-335; RC-705; RC-747; RC-748', True),
     ("RC-747", "Vergonha de Existir", COS_ETI[0], COS_ETI[1], C, ['P2024-03-03'], 'RC-746; RC-078; RC-705; RC-722', True),
-    ("RC-748", "Genótipo da Gentileza (GG)", PRO_BIO[0], PRO_BIO[1], C, ['P2024-03-03', 'P2024-09-28'], 'RC-746; RC-486; RC-543; RC-541', True),
+    ("RC-748", "Genótipo da Gentileza (GG)", PRO_BIO[0], PRO_BIO[1], C, ['P2024-03-03', 'P2024-09-28', 'B040'], 'RC-746; RC-486; RC-543; RC-541', True),
     ("RC-749", "Vício Devocional", COS_ETI[0], COS_ETI[1], C, ['P2024-04-13', 'P2023-12-02', 'P2025-11-29'], 'RC-001; RC-335; RC-019; RC-194; RC-746', True),
     ("RC-750", "Moisés e o Êxodo (leitura RC)", EVE_MIS[0], EVE_MIS[1], C, ['P2024-04-13'], 'RC-001; RC-164; RC-424; RC-271; RC-683', True),
     ("RC-751", "Bagagem Espiritual Intransferível", COS_PRO[0], COS_PRO[1], C, ['P2024-04-14'], 'RC-752; RC-548; RC-704; RC-164; RC-332', True),

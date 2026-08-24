@@ -24,6 +24,13 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 
 - **P2026-07-25 (referência marginal):** o padrão de "gentileza/dominação" mencionado na palestra permanece em quarentena — sem novos dados nesta fonte.
 
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 28]** “de cada três indivíduos somente um tem o gene da gentileza”; “houve época em que esse gene simplesmente não existia no genoma humano.”
+- **[B040 p. 34–35]** “Quando um ‘primeiro humano’ teve… a ideia de ser gentil, o seu DNA pessoal instantaneamente reprogramou o seu código”; evolução vertical (dionisíaca) × horizontal (apolínea / massa crítica).
+- **Quarentena científica + clínica:** genótipos GG/AG/AA e o mecanismo “ideia → DNA” = cronologia interna do autor, jamais diagnóstico nem fato genético validado. Sheldrake (p. 29) = **referência externa**. Sem fusão com P2024-03-03. Fonte **B040** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

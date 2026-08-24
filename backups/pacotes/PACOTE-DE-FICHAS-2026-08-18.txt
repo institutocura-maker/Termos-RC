@@ -69,7 +69,7 @@
 # termos/RC-204-realidade-maior-paraiso-original.md | 2476 | 52 | 18679bb0b1b13350d1b68c7581de2b1704df232a07c715cc9f847b634ea68e1c
 # termos/RC-207-arquiteto-universal.md | 2746 | 43 | f55b2ac33ed0c08b86f8b9da18f709f81115e99d00dc94a85969d3296977aa65
 # termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 2839 | 48 | af7c9f6e13f35282dbdd095a31bdebba127efc54d1158c369f69da644191526d
-# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 6464 | 86 | 6aafb58274aef3ae54a5fc1ddc474830b1b1835c72bb4deadeeadc41954e48c0
+# termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 7491 | 95 | 190e85690b7ce7a39836da9959b91a1cfd56e22f0476d54a4a7cef1cce5ce2b0
 # termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 2564 | 42 | b4bbc254e8110cee006f63c9cca0d010253e26c7851a75e6c48fd0d93370846b
 # termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
 # termos/RC-226-cidadao-cosmico.md | 2501 | 41 | 35c9a8f9946aebcf1be05c6ae701c0e3f9f036942b4086019f0b97ddd69cec94
@@ -78,7 +78,7 @@
 # termos/RC-236-o-calvario-de-um-inocente.md | 3438 | 52 | 86b427755b60ccd2be627011e7ee75353a8b9b52f0209229b2bb464e23b5a5a2
 # termos/RC-241-seres-dos-portais.md | 3644 | 53 | 102a2dc3d12cd096b42da3e8ce52b7e4dbdb35cf5210b1d1dbc977e1b63dfc00
 # termos/RC-242-eden-do-criador-eden-como-laboratorio.md | 4018 | 53 | 4b64bfa51772d99be0e80d387bdd3f0ef12ea17480c5d083729c19e501ec345a
-# termos/RC-243-genetica-da-confianca.md | 2626 | 41 | cee8949465b59e78f3e61fe601b6f6f9ac69c725bee6fe041dc7647e817e3c2d
+# termos/RC-243-genetica-da-confianca.md | 3341 | 48 | 4e2408991f867b399b591885c624efb8063c3e5e02c8958928e14bf8c648154a
 # termos/RC-245-a-humanizacao-do-criador.md | 4129 | 56 | e8edc36e6b09da69ba0a956343fccfba04d9086bcb433f220bc2d310dfc5bb90
 # termos/RC-252-olm-codificador-de-zion-zian.md | 4581 | 65 | e8a1c5fae995a48b7386cb63773866e00dbb76f1a1aff43704baf2ce934c6a3f
 # termos/RC-253-liberdade-mental-premissa-do-quarto-logos.md | 4103 | 58 | 4e6e8a3fadb831cdb5fb73d914d2c47cd92a4a13b50f6af3e423f33fa1e1540a
@@ -152,7 +152,7 @@
 # termos/RC-422-ser-criador-fracassado-autoconfissao-de-jave.md | 3480 | 48 | a4a029b0d590459964bd4ca69a97954f71f2083f93091bb4145024fefabc4496
 # termos/RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md | 5614 | 77 | b11ed24b47ee04f28519417d95357d93a8af9c48b2093d638debbd99e8fc29b0
 # termos/RC-426-jave-sem-avatares-nao-tenho-isto.md | 4099 | 65 | 7b6cbdea5b27c050e4155e49e101290decef920a85ae153379a599a603d6b01b
-# termos/RC-430-esporte-como-evolucao-da-guerra.md | 2657 | 41 | 99c8fd2efe04cd58594e55a6554d98c5f9e0f2cb7be4be5d8b4c7cdb4de4e2d6
+# termos/RC-430-esporte-como-evolucao-da-guerra.md | 3880 | 50 | aa778a324623a0f5c6f10a6c0f70a4bf632435a3f02ce6fdf0cbf1401e3b8088
 # termos/RC-433-forca-de-atracao-sexual-anterior-a-polaridade.md | 5084 | 55 | 8a8050103de445627a259f885340af628abb5c9aded34e0b0a142decc1ac510a
 # termos/RC-434-homoafetividade-resquicio-da-forca-original.md | 5677 | 62 | 04cf5eb5006b46be0c944c636e2a2dad778fd6c30c05a28988945033612e3c80
 # termos/RC-437-joctan-e-faleg-filhos-de-heber.md | 3749 | 58 | 82ff50211931a3006504a36006065232601142c007ff0be288f725b76cc68939
@@ -406,7 +406,7 @@
 # termos/RC-745-colegiados-espirituais-humanizados.md | 5410 | 60 | 9ec65d83227cd16bdd48494e3a270bb3e546316d10fc583665db4cac56175c6b
 # termos/RC-746-dessensibilizacao-da-condicao-humana.md | 3165 | 52 | 5260793ed3756fdfb19abb53da8f1f01b90030611d4e8cd0e90f2fdc2923ef01
 # termos/RC-747-vergonha-de-existir.md | 2390 | 43 | 59ea6abfd1e6f00da211b2d682e47535aabfa02524244cb16a0f6209ba5d3941
-# termos/RC-748-genotipo-da-gentileza-gg.md | 3529 | 57 | 863457a537a60e5da4a0e07b956707d7dd2483e2b3236cd5e13a628c3f0b5bf1
+# termos/RC-748-genotipo-da-gentileza-gg.md | 4287 | 64 | 17d541c2a15ffe2cf940530da913cd3ecf5bbc3751ccdb167b283e5ae339ae31
 # termos/RC-749-vicio-devocional.md | 4142 | 63 | 7ff4ef0150716b1bf5729f9297b565117340178a1f3f4e77de6f30fae1106b4e
 # termos/RC-750-moises-e-o-exodo-leitura-rc.md | 2782 | 48 | f0761b83027f9852ddc574f1ef3370166505f13071d8e4189fe162333fb6c182
 # termos/RC-751-bagagem-espiritual-intransferivel.md | 2682 | 46 | 30a3788a4950bc5c5b4e1d5c79f4a38bc48d80f872823e701c8bafb5c2614491
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1519966 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1523689 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -4867,6 +4867,15 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B034 p. 55]** o DNA é “ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou”; dele envia comandos e recebe “eflúvios” de pensamentos e emoções. **Quarentena científica** (canal / vibrações eletroquímicas = leitura, não fato validado).
 - A menção ao “terminal nervoso” + DNA na Carta 1 (p. 8) é da missivista — **não** ontologizada. Sem fusão com B002 / B033.
 
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 9–10]** molécula-mãe há 3,8 bilhões de anos; unicelulares por ~3,1 bi sem se unir; hipótese do autor: herdaram o “gene da desconfiança”. **Quarentena científica** (leitura, não parecer científico). RC-540 permanece **sem ficha**.
+- **[B040 p. 11]** “o ‘código que responde pelo jeito de ser de cada espécie’ da Terra, tem o seu genoma derivado da molécula-mãe”; o “modo de ser” desconfiado e destrutivo “veio do primeiro DNA.”
+- **[B040 p. 18]** o impulso escrito no DNA = “domínio do mais forte sob o mais fraco”; o altruísmo = “estranho componente de reconfiguração do nosso DNA original.”
+- **[B040 p. 24]** o padrão inicial do DNA é “retrabalhado” “a ‘cada segundo’ pela atitude mental” das criaturas.
+- **[B040 p. 52]** “tudo o que um ser humano pensa e sente, ele marca no seu DNA pessoal.” Sem fusão com B002 / B019 / B034 / B052. Crick / panspermia = **referência externa**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -5325,6 +5334,13 @@ A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244
 ## Etimologia / Grafias
 - **Grafia preferida:** Genética da Confiança
 - **Variações:** efeito confiança; configuração genética da confiança; genética do amor
+
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 9–10]** “gene da desconfiança” impede unicelulares de se unirem; “gene da confiança” só surge “muito tempo mais tarde.”
+- **[B040 p. 18–19]** hormônio da confiança (oxitocina) e “genes da gentileza” tornam possível “direcionar a sua força para a prática esportiva saudável.” **Quarentena científica** (oxitocina/OXTR = citação, não validação).
+- **[B040 p. 40]** a espécie passa da “desconfiança absoluta” à confiança na hierarquia (exército) — marco psicológico, não ontologia militar. Sem fusão com B015. RC-244 permanece **sem ficha**. Fonte **B040** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -9417,6 +9433,15 @@ O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta q
 ## Etimologia / Grafias
 - **Grafia preferida:** Esporte como evolução da Guerra
 - **Variações:** da guerra ao esporte; esporte × guerra; a transição guerreiro-atleta
+
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 3]** sinopse: “Um dia guerreiro implacável, hoje atleta que vibra na vitória e aceita a derrota sem aniquilar o seu oponente.”
+- **[B040 p. 11]** tese: o primeiro DNA surgiu “já com essa tendência doentia”; “os futuros homo sapiens tiveram que evoluir para poder praticar esportes sem matar os ‘adversários’, antes, durante ou depois da peleja.” **Quarentena clínica** (“tendência doentia” = leitura, jamais diagnóstico).
+- **[B040 p. 26]** “o presumível ‘bom caminho’ do estágio de guerreiros do passado ao de esportistas do presente”; a prática civilizada dos esportes = “um dos fatores mais emblemático de todo esse processo evolutivo.”
+- **[B040 p. 41]** espírito olímpico (séc. VIII a.C. / Kampilia no Mahabharata): a espécie “conseguiu apropriar a genética de praticar contendas sem trucidar o oponente, aprendendo, inclusive, a perder com honra.”
+- **[B040 p. 66–70]** síntese: da molécula-mãe à trégua de Olímpia; “Faça amor, não faça guerra… e não esqueça de praticar esportes.” RC-431 / RC-432 permanecem **sem ficha**. Sem fusão com B015 / B019. Orbum **fora**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -23313,6 +23338,13 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 ## Ampliação — P2026-07-25
 
 - **P2026-07-25 (referência marginal):** o padrão de "gentileza/dominação" mencionado na palestra permanece em quarentena — sem novos dados nesta fonte.
+
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 28]** “de cada três indivíduos somente um tem o gene da gentileza”; “houve época em que esse gene simplesmente não existia no genoma humano.”
+- **[B040 p. 34–35]** “Quando um ‘primeiro humano’ teve… a ideia de ser gentil, o seu DNA pessoal instantaneamente reprogramou o seu código”; evolução vertical (dionisíaca) × horizontal (apolínea / massa crítica).
+- **Quarentena científica + clínica:** genótipos GG/AG/AA e o mecanismo “ideia → DNA” = cronologia interna do autor, jamais diagnóstico nem fato genético validado. Sheldrake (p. 29) = **referência externa**. Sem fusão com P2024-03-03. Fonte **B040** acrescentada na tabela-mestra.
 
 ## Fontes
 

@@ -40,6 +40,15 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B034 p. 55]** o DNA é “ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou”; dele envia comandos e recebe “eflúvios” de pensamentos e emoções. **Quarentena científica** (canal / vibrações eletroquímicas = leitura, não fato validado).
 - A menção ao “terminal nervoso” + DNA na Carta 1 (p. 8) é da missivista — **não** ontologizada. Sem fusão com B002 / B033.
 
+
+## Ampliação — B040 (Homo Sapiens: da Guerra ao Esporte)
+
+- **[B040 p. 9–10]** molécula-mãe há 3,8 bilhões de anos; unicelulares por ~3,1 bi sem se unir; hipótese do autor: herdaram o “gene da desconfiança”. **Quarentena científica** (leitura, não parecer científico). RC-540 permanece **sem ficha**.
+- **[B040 p. 11]** “o ‘código que responde pelo jeito de ser de cada espécie’ da Terra, tem o seu genoma derivado da molécula-mãe”; o “modo de ser” desconfiado e destrutivo “veio do primeiro DNA.”
+- **[B040 p. 18]** o impulso escrito no DNA = “domínio do mais forte sob o mais fraco”; o altruísmo = “estranho componente de reconfiguração do nosso DNA original.”
+- **[B040 p. 24]** o padrão inicial do DNA é “retrabalhado” “a ‘cada segundo’ pela atitude mental” das criaturas.
+- **[B040 p. 52]** “tudo o que um ser humano pensa e sente, ele marca no seu DNA pessoal.” Sem fusão com B002 / B019 / B034 / B052. Crick / panspermia = **referência externa**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
