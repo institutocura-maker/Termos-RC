@@ -17,6 +17,13 @@ A Genética Totalitária conecta-se à escolha dos **três segmentos étnicos** 
 - **Grafia preferida:** Genética Totalitária
 - **Variações:** estratégia de dominação genética; povos escolhidos; "povo escolhido" (traço cultural)
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 85]** cap. 7: «uma moda criada pelos “deuses de fora”» — «escolher um povo da Terra para, por meio dele, dominar os demais povos».
+- **[B023 p. 85]** o Criador «aplicou, até o ano 2015, essa estratégia»; humanos «saíram do seu controle genético desde os tempos de Pandora». «Criador decaído e demente» = **quarentena clínica** (leitura, jamais diagnóstico).
+- **p. 87–90 (nazismo / elites / dicotomia esquerda-direita / «povos escolhidos» étnicos) = político-geopolítica — fora.** Sem âncora nesses trechos. RC-326 / RC-331 permanecem **sem ficha**. Sem fusão com B013. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -118,6 +118,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B035 p. 16]** os três mais poderosos «passaram a ter as suas personalidades expressas em formas demoníacas, cujos nomes na mitologia ariana/hindu são Brahma, Vishnu e Shiva» e «passaram a compor a trimurti». Brahma «apresentava uma forma demo influenciável por tudo o que acontecia no âmbito da criação».
 - **[B035 p. 17]** «queda de Brahma»; a criação «já havia sido acionada mesmo antes» da queda. Sem materializar RC-037 / RC-102 / RC-135 / RC-104. Sem fusão com B001 / B036 / B048. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 23]** «Criação de Brahma (ou de Javé)» — identificação no entroncamento de gêneros. Sem interpolar o bloco étnico da p. 85.
+- **[B023 p. 14]** avatares (Krishna / Jesus / Sai Baba) «rendidos às necessidades da geopolítica da Lila» por «genética-demo» — **quarentena teológica**.
+- p. 85–90 («povos escolhidos» / nazismo / «doença mental») = **político + clínica — fora**. Sem fusão com B013 / B036. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

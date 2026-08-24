@@ -77,6 +77,13 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[B036 p. 39]** voz atribuída a Javé: “Krishna foi o pretenso Keshava (personificação de um avatar que presumivelmente incorporou sequências da genética mental dos três seres da Trimurti) que se aproveitou da situação e pretendeu apartar do meu poder toda a Criação, situando-a em torno dele.”
 - Outros “antes dele também a tal pretenderam, mas nenhum havia saído das forças consorciadas da Trimurti com tal intento.” RC-425 permanece **sem ficha**. Sem fusão com B016. **Quarentena teológica.**
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 23]** Krishna = «avatar keshava enviado pelos três Senhores da Trimurti» para as «últimas etapas históricas» que definiriam «aquele que, finalmente, herdaria a Terra».
+- **[B023 p. 38]** «grande formulador, revelador, executor e principal definidor» de dharma e varna para a cultura demo e os descendentes hiperbóreos; no cap. IV do Gita, institui as castas «num tempo ainda bem anterior ao de sua personalidade como Krishna».
+- **[B023 p. 11]** Ellam defende Sai Baba «engendrado à moda de Krishna» / avatar de Shiva — **quarentena teológica** (leitura, não fato vaishnava). Sem materializar RC-425. Sem fusão com B036. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

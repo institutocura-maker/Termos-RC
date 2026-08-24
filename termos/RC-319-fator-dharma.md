@@ -18,6 +18,13 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 - **Variações:** dharma (termo sânscrito); dever sagrado; dharma como dever moral; cultura demodhármica (relacionado)
 - **Idioma de origem:** sânscrito (dharma = lei/dever)
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 15]** cap. 2: «talvez poucas expressões da atual linguagem humana “escondam” […] tantos mistérios como é o caso de “dharma”».
+- **[B023 p. 15]** se o dharma fosse o «painel mental» sobre o qual os Senhores se apoiavam para interpretar as escrituras védicas, «essas precisavam ser revistas».
+- **[B023 p. 97]** na cultura «demodhármica», «a simples questão da aplicação ou não dos critérios do dharma como dever moral, definiria tudo»; karma = «não cumprimento do dharma». Bonder = **referência externa**. Sem materializar RC-322 / RC-075. Sem fusão com B024. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

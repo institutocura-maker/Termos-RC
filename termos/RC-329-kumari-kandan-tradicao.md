@@ -20,6 +20,12 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 
 - **Kumari Kandam (P2025-02-16):** "Shiva começou a se apresentar pelo Axis Mundi de Naimisha... aos humanos que viviam no sul da Índia, na tradição Kumari Kandam (continente que existia dando continuidade ao sul da Índia e sucumbiu ao nível hidrostático do mar)"; "construíram cidades tipo Mohenjo-Daro, Harapa"; "o primeiro a se estabelecer na Terra foi Shiva, há cerca de 20.000 anos, criando os seus seguidores"; o epíteto "Deus" surgiu há ~4.000 anos na Trácia.
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 43]** um dos dois focos das castas: «tradição Kumari Kandan, no sul da Índia», terras que ~20 mil anos atrás ligavam o sul do continente ao atual Sri Lanka e depois foram cobertas pelo oceano.
+- Grafia do livro: **Kandan**. A ficha já registra Kandam (palestras). **Não fundir** as grafias; convívio marcado. Quarentena cronológica/arqueológica. Sem materializar RC-330. Sem fusão com B021. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

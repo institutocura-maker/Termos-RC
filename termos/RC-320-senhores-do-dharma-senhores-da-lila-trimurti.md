@@ -18,6 +18,12 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 - **Variações:** Senhores da Lila; Senhores da Trimurti; os três "deuses" do dharma
 - **Idioma de origem:** sânscrito (dharma) + português
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 15]** «seres que se apresentavam como “Senhores do Dharma” – os mesmos autoaclamados “Senhores da Lila”, da Trimurti hindu».
+- **[B023 p. 24]** «Da minha desafortunada convivência com os seres da Trimurti, posso testemunhar que pensavam que aqueles seres híbridos “herdariam a Terra”». RC-075 permanece **sem ficha**. Sem fusão com B044. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

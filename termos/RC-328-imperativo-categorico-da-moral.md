@@ -17,6 +17,13 @@ O imperativo categórico marca a mudança provocada pelo modo humano de existir:
 - **Grafia preferida:** Imperativo Categórico da Moral
 - **Variações:** imperativo categórico da espiritualização; freio moral; o imperativo da racionalidade humana
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 96]** cap. 9: «Há um imperativo categórico, no campo da moral, atrelado ao modo da existência espiritual», que a «Revelação Espiritual» do séc. XIX e Sai Baba «não puderam» / «não houve por bem» esclarecer.
+- **[B023 p. 96]** o modo humano de existir mudou «como as leis ditas científicas, desta Criação, passaram a atuar no seu contexto quântico».
+- **[B023 p. 96–97]** «imperativo categórico da moral ou da espiritualização» surgiu «a partir da eclosão da racionalidade humana»; senso crítico + razão filosófica = «freio» ao «mal» e à «ignorância» das classes demoníacas. Einstein / Tagore = **externas**. Sem fusão com B003. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

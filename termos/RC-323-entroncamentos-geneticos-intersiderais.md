@@ -24,6 +24,13 @@ Os entroncamentos genéticos explicam a composição do genoma humano como "mosa
 - **Grafia preferida:** Entroncamentos Genéticos Intersiderais
 - **Variações:** entroncamentos genéticos; cruzamentos intersiderais; grupos de entroncamento (1–4)
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 28]** cap. 3: povos híbridos entre contextos «demoníaco e humano»; Hiperbórea; biodemo / biodemol / humano.
+- **[B023 p. 28–29]** quatro grupos descritos: (1) demo + homo = biodemol; (2) biodemo + biodemol + homo; (3) nephelim + homo e anfíbios sirianos + homo; (4) biodemo + demo = alguns atlantes.
+- **[B023 p. 29]** «foram pelo menos oito», mas só os quatro «sobreviveram para “contar a história”» → **Colecionar Incertezas**. Grafia **nephelim** (livro); canônico Nefilins (RC-488). RC-324 / RC-036 / RC-082 / RC-186 permanecem **sem ficha**. Sitchin = **externa**. Sem fusão com B017 / B018 / B039. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

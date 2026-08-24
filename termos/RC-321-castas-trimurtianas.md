@@ -17,6 +17,13 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 - **Grafia preferida:** Castas Trimurtianas
 - **Variações:** sistema de castas; castas arianas/hindus; varna (sânscrito); brâmanes/xátrias/vaixás/sudras
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 14]** implantação das castas primeiro entre «seres demo-homos» híbridos; depois os humanos «herdaram toda a tradição dessa cultura demo-homo».
+- **[B023 p. 43]** cap. 4: o sistema «surgiu pela primeira vez, na Terra, em dois focos de aglomerados não humanos»: Hiperbórea (Norte) e tradição **Kumari Kandan** (sul da Índia; ~20 mil anos; ponte com o atual Sri Lanka).
+- Sem materializar RC-327 / RC-330. Grafia **Kandan** (livro) × Kandam (ficha RC-329) — **não fundir**. Sem fusão com B021. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

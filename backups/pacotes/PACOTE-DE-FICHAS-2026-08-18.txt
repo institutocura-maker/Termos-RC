@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 20642 | 205 | 3227cd17bb43831b0350a1266c4621b91bcb147a9912aade470dd30deff922c3
+# termos/RC-001-jave.md | 21190 | 212 | 16eff574901dcf37fa0e8dccf44594fefdc6017241e6870180eabb1b78621030
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 9586 | 101 | 36feee7a719bd9f88ffd09b910745c8f8cd939887e5ea24ab9e05db54c45618b
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -21,7 +21,7 @@
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 5455 | 67 | fbbc99ba4aaa514e4d5dc16ff7898c7bb1f292c4bb368764aecb2d6d33b484e9
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3262 | 57 | 75c3acc9b701da63287c6fd563d8a9d775c0d1f5abac84dc6def6635b10d18b3
-# termos/RC-049-demos.md | 4223 | 60 | dc3baeec9ef0e52f76892d579dbc2c8cbd148ca8b7d598d1a2bc53cb14333934
+# termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
 # termos/RC-052-deus-deus-incognoscivel.md | 3381 | 54 | 77ce7f9e13c2c6b59443fd703e79c948a97b2d52b853b48f0d3191ea6ce41f24
 # termos/RC-055-en-drel.md | 2834 | 42 | 959fc5f0852f79bd883a076ce0e85cca0b0d64799409bccf3ab31803b87cb3c3
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
@@ -39,7 +39,7 @@
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
 # termos/RC-102-shiva-savna.md | 5323 | 64 | 77b1b5754d3c909331927d511a6b6194755cbf7b11e53a44c5eca6d68996abce
-# termos/RC-104-trimurti.md | 13211 | 130 | 4736d5716cecc6de1f370c216aec8c80e5ec3908784f4417ca385e0f2f5f0bab
+# termos/RC-104-trimurti.md | 13772 | 137 | 05f3fc864a37386338add3f9f79f9dacc82da55078f16854650e91c0d6bdb09b
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -113,13 +113,13 @@
 # termos/RC-310-adhyshprabrajna-adhy-que-caiu.md | 3030 | 51 | 9ca08fd8c13cfdfb224219a8b17acfbe6a3b1f77167ee1572bdb67da6e93c383
 # termos/RC-311-adhyagya-formas-espirituais-adhy.md | 2678 | 43 | ef711c7ae60fdb8d9dda55ac2ce45ae2345ec5dfaa303d5d2523a7e0b49f992b
 # termos/RC-314-fenomenos-denunciadores-do-fim.md | 2834 | 42 | 4862470b64d793ecd92354fb32a0e332fc41208220dd61af21423581591b9654
-# termos/RC-319-fator-dharma.md | 2825 | 43 | 94e58d7d9c9163b056f49b02afa829bfb61a3c75577ee141242ee9ddc0e6bee5
-# termos/RC-320-senhores-do-dharma-senhores-da-lila-trimurti.md | 2365 | 42 | 0b476521256a96c41b5b25f2154f3d3a9375932ec743199834ff83d466bca11e
-# termos/RC-321-castas-trimurtianas.md | 2541 | 42 | 4cf60fb72bd31f14aa4e65d8c0465bac25356dfeba5313cdc66dd74ec5ba9651
-# termos/RC-323-entroncamentos-geneticos-intersiderais.md | 2722 | 49 | f9816d490fb46ecd7b4f24e58e2272d54c61bc6441f6566639a16221a1f44181
-# termos/RC-325-genetica-totalitaria.md | 2924 | 45 | 57483b284da859d85cb0dba742337b9d15ff564bc3e57bf4b5c9eb030714f4e4
-# termos/RC-328-imperativo-categorico-da-moral.md | 3156 | 49 | 0880fc79a4677881ed548a9ae1cf4ec540efba40644c220527f5f24df337da14
-# termos/RC-329-kumari-kandan-tradicao.md | 2173 | 44 | 5cb5c4e48c796a88b524f5e3bd2768b1be357deeba45b856d7a13263c48d5e9e
+# termos/RC-319-fator-dharma.md | 3535 | 50 | 1dacc88ffcf2a9f258622070f846ed533b6fc4c2ddc8c1f712f0a9cc685c9bcc
+# termos/RC-320-senhores-do-dharma-senhores-da-lila-trimurti.md | 2840 | 48 | e8bfe4ed78cc7f2f25e8261653a093a5a9b85060aa67c6a5e34e6c36faa8376d
+# termos/RC-321-castas-trimurtianas.md | 3169 | 49 | f7dafe704e46017e32ef29728d1bb327845420639e5799d4e2b489686a3f03f5
+# termos/RC-323-entroncamentos-geneticos-intersiderais.md | 3464 | 56 | 33af30c0d2665aa2d8da45cdcd68392036515929517b50ed60d86b612a3343dc
+# termos/RC-325-genetica-totalitaria.md | 3644 | 52 | 9eb16b3915d8e453b744189ffd1e7b4bbc58e884611c8520db87f9569059bf33
+# termos/RC-328-imperativo-categorico-da-moral.md | 3945 | 56 | 5979fb57fc3b6820c247422dbdc980fdb223cf5530a4cd682f318dd763f04535
+# termos/RC-329-kumari-kandan-tradicao.md | 2692 | 50 | 004a65e7644f47a99f63b736091fca11ab1a3009d7ef4ef94e4efd0e79b558f3
 # termos/RC-332-favor-divino-conceito-invertido.md | 5932 | 74 | e26d8dd2aae1c46cb129b1fb0206aa7ef20d3ae2958e7db871baeb5ce48ddd88
 # termos/RC-333-democracia-do-amor-da-deidade.md | 3348 | 49 | b5b598e7ad8ac2e46bdfe39641fdd630946f5f02741f5f617272324c7ba92a47
 # termos/RC-334-teocracia-da-doenca-de-uma-divindade.md | 3841 | 57 | defe79d989811df82bc840770880271137af56df21ef13cbb23b0b1117d68d99
@@ -144,7 +144,7 @@
 # termos/RC-408-adhymavatana-nome-completo-de-mavatna-vishnu.md | 5064 | 67 | f3cac204b68c8f609b0dc6404a77e8a5a2e9bc6b6cb99e3d868235aaa82cf16f
 # termos/RC-409-adhysavna-nome-completo-de-savna-shiva.md | 3920 | 62 | ee1f5ee880ebdab5692344f9c3f9ded66b9175ba7009ad915535df3f6aedb163
 # termos/RC-411-genero-adhy-147-seres-5-especies.md | 5100 | 68 | cd74b619d75777a4d733f031f17b52365243c9a568ba595570447db00e3d6044
-# termos/RC-414-krishna-avatar-de-vishnu-shiva.md | 11749 | 122 | 4e22a1da5201956843e42b9b7edfb9f222a308b53f4126dd6d7f98839646e2ee
+# termos/RC-414-krishna-avatar-de-vishnu-shiva.md | 12508 | 129 | 4b8ecd727ff515a7b857cb2d8b7b3cee3ea2ccb023c050006b151124e1469265
 # termos/RC-415-colapso-da-matriz-quantica-3-niveis.md | 3754 | 67 | 015801d6d384ed20b81fa318c24b0c5ce08a16cb34c257d02ff208503e73d409
 # termos/RC-416-cartas-a-jave-obra-e-dialogo.md | 3816 | 50 | cd0cfd77cde9ac53b6791933e0246ea41d56becc8c2addd600da60e8e9274300
 # termos/RC-417-resposta-de-jave-em-1a-pessoa.md | 3567 | 49 | bb756f9efdbf7d573c342dffe8a9f94898a69bc0fcd89229182bd521111e97e2
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1547195 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1554138 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -558,6 +558,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B035 p. 4–5]** mesmo bloco do «ser-criador» / jogo / supercontrole (bloco opcional autorizado). «cientista enlouquecido» = **clínica**.
 - **[B035 p. 16]** os três mais poderosos «passaram a ter as suas personalidades expressas em formas demoníacas, cujos nomes na mitologia ariana/hindu são Brahma, Vishnu e Shiva» e «passaram a compor a trimurti». Brahma «apresentava uma forma demo influenciável por tudo o que acontecia no âmbito da criação».
 - **[B035 p. 17]** «queda de Brahma»; a criação «já havia sido acionada mesmo antes» da queda. Sem materializar RC-037 / RC-102 / RC-135 / RC-104. Sem fusão com B001 / B036 / B048. Fonte **B035** já constava na tabela-mestra.
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 23]** «Criação de Brahma (ou de Javé)» — identificação no entroncamento de gêneros. Sem interpolar o bloco étnico da p. 85.
+- **[B023 p. 14]** avatares (Krishna / Jesus / Sai Baba) «rendidos às necessidades da geopolítica da Lila» por «genética-demo» — **quarentena teológica**.
+- p. 85–90 («povos escolhidos» / nazismo / «doença mental») = **político + clínica — fora**. Sem fusão com B013 / B036. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1648,6 +1655,13 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B035 p. 15]** «Com o surgimento dos demônios, esse modelo foi atingido de morte para sempre!» — o modelo dos «filhos-robôs» / «uma só vontade».
 - **[B035 p. 16–17]** estratificação: (a) Brahma / Vishnu / Shiva em formas demoníacas (mal convivem); (b) outras moradas demo, cada uma com «imperador demo»; (c) universo ainda sem «vida pensante natural».
 - **[B035 p. 17]** famílias demoníacas «padeciam de doenças» e a genética dos corpos demo não permitia expressar aquisições espirituais — **quarentena clínica**. RC-019 permanece **sem ficha**. Sem fusão com B052 / B044. Fonte **B035** já constava na tabela-mestra.
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 5–6]** Introdução: disciplina existencial criada para «demônios feito gente»; o sistema de leis herdado pelos humanos era «destinado a um outro tipo de psiquismo – o demo».
+- **[B023 p. 24]** «ética demo» / «honra demo» como base das castas; «nós, humanos, deles herdamos essas convenções».
+- Sem materializar RC-322 / RC-044. Sem fusão com B052 / B044. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3075,6 +3089,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B037 p. 15]** ardil da Trimurti na data da vinda de Jesus — **não fundir** com B022.
 - **[B037 p. 67–71]** cap. 10 (2013): encontro dos três; Shiva: a última conversa «com esta liberdade» foi «num “tempo” anterior à criação deste universo»; «máquina de criar vidas» que «nada disto precisava mesmo de existir».
 - **[B037 p. 76]** as três personificações «jamais se “humanizaram”» do modo humano; Brahma sem avatares terrenos neste passo. RC-135 permanece **sem ficha**. Sem fusão com B022 / B024 / B044. IEEA / Orbum **fora**.
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 14]** «esses Senhores da Trimurti se pensam “deuses”, e suas formas avatáricas também, porém, de fato, eles não são».
+- **[B023 p. 15]** Trimurti = os autoaclamados Senhores da Lila / Senhores do Dharma.
+- **[B023 p. 24]** convivência de Ellam com os três; desejavam que os híbridos «herdassem a Terra». Geopolítica da Lila (p. 14) = **não ontologizar como fato**. Sem materializar RC-075 / RC-135. Sem fusão com B024 / B044. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -7428,6 +7449,13 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 - **Variações:** dharma (termo sânscrito); dever sagrado; dharma como dever moral; cultura demodhármica (relacionado)
 - **Idioma de origem:** sânscrito (dharma = lei/dever)
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 15]** cap. 2: «talvez poucas expressões da atual linguagem humana “escondam” […] tantos mistérios como é o caso de “dharma”».
+- **[B023 p. 15]** se o dharma fosse o «painel mental» sobre o qual os Senhores se apoiavam para interpretar as escrituras védicas, «essas precisavam ser revistas».
+- **[B023 p. 97]** na cultura «demodhármica», «a simples questão da aplicação ou não dos critérios do dharma como dever moral, definiria tudo»; karma = «não cumprimento do dharma». Bonder = **referência externa**. Sem materializar RC-322 / RC-075. Sem fusão com B024. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7473,6 +7501,12 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 - **Variações:** Senhores da Lila; Senhores da Trimurti; os três "deuses" do dharma
 - **Idioma de origem:** sânscrito (dharma) + português
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 15]** «seres que se apresentavam como “Senhores do Dharma” – os mesmos autoaclamados “Senhores da Lila”, da Trimurti hindu».
+- **[B023 p. 24]** «Da minha desafortunada convivência com os seres da Trimurti, posso testemunhar que pensavam que aqueles seres híbridos “herdariam a Terra”». RC-075 permanece **sem ficha**. Sem fusão com B044. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7515,6 +7549,13 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 ## Etimologia / Grafias
 - **Grafia preferida:** Castas Trimurtianas
 - **Variações:** sistema de castas; castas arianas/hindus; varna (sânscrito); brâmanes/xátrias/vaixás/sudras
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 14]** implantação das castas primeiro entre «seres demo-homos» híbridos; depois os humanos «herdaram toda a tradição dessa cultura demo-homo».
+- **[B023 p. 43]** cap. 4: o sistema «surgiu pela primeira vez, na Terra, em dois focos de aglomerados não humanos»: Hiperbórea (Norte) e tradição **Kumari Kandan** (sul da Índia; ~20 mil anos; ponte com o atual Sri Lanka).
+- Sem materializar RC-327 / RC-330. Grafia **Kandan** (livro) × Kandam (ficha RC-329) — **não fundir**. Sem fusão com B021. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7567,6 +7608,13 @@ Os entroncamentos genéticos explicam a composição do genoma humano como "mosa
 - **Grafia preferida:** Entroncamentos Genéticos Intersiderais
 - **Variações:** entroncamentos genéticos; cruzamentos intersiderais; grupos de entroncamento (1–4)
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 28]** cap. 3: povos híbridos entre contextos «demoníaco e humano»; Hiperbórea; biodemo / biodemol / humano.
+- **[B023 p. 28–29]** quatro grupos descritos: (1) demo + homo = biodemol; (2) biodemo + biodemol + homo; (3) nephelim + homo e anfíbios sirianos + homo; (4) biodemo + demo = alguns atlantes.
+- **[B023 p. 29]** «foram pelo menos oito», mas só os quatro «sobreviveram para “contar a história”» → **Colecionar Incertezas**. Grafia **nephelim** (livro); canônico Nefilins (RC-488). RC-324 / RC-036 / RC-082 / RC-186 permanecem **sem ficha**. Sitchin = **externa**. Sem fusão com B017 / B018 / B039. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7610,6 +7658,13 @@ A Genética Totalitária conecta-se à escolha dos **três segmentos étnicos** 
 ## Etimologia / Grafias
 - **Grafia preferida:** Genética Totalitária
 - **Variações:** estratégia de dominação genética; povos escolhidos; "povo escolhido" (traço cultural)
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 85]** cap. 7: «uma moda criada pelos “deuses de fora”» — «escolher um povo da Terra para, por meio dele, dominar os demais povos».
+- **[B023 p. 85]** o Criador «aplicou, até o ano 2015, essa estratégia»; humanos «saíram do seu controle genético desde os tempos de Pandora». «Criador decaído e demente» = **quarentena clínica** (leitura, jamais diagnóstico).
+- **p. 87–90 (nazismo / elites / dicotomia esquerda-direita / «povos escolhidos» étnicos) = político-geopolítica — fora.** Sem âncora nesses trechos. RC-326 / RC-331 permanecem **sem ficha**. Sem fusão com B013. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7657,6 +7712,13 @@ O imperativo categórico marca a mudança provocada pelo modo humano de existir:
 ## Etimologia / Grafias
 - **Grafia preferida:** Imperativo Categórico da Moral
 - **Variações:** imperativo categórico da espiritualização; freio moral; o imperativo da racionalidade humana
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 96]** cap. 9: «Há um imperativo categórico, no campo da moral, atrelado ao modo da existência espiritual», que a «Revelação Espiritual» do séc. XIX e Sai Baba «não puderam» / «não houve por bem» esclarecer.
+- **[B023 p. 96]** o modo humano de existir mudou «como as leis ditas científicas, desta Criação, passaram a atuar no seu contexto quântico».
+- **[B023 p. 96–97]** «imperativo categórico da moral ou da espiritualização» surgiu «a partir da eclosão da racionalidade humana»; senso crítico + razão filosófica = «freio» ao «mal» e à «ignorância» das classes demoníacas. Einstein / Tagore = **externas**. Sem fusão com B003. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7711,6 +7773,12 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 ## Ampliação — P2025-02-16
 
 - **Kumari Kandam (P2025-02-16):** "Shiva começou a se apresentar pelo Axis Mundi de Naimisha... aos humanos que viviam no sul da Índia, na tradição Kumari Kandam (continente que existia dando continuidade ao sul da Índia e sucumbiu ao nível hidrostático do mar)"; "construíram cidades tipo Mohenjo-Daro, Harapa"; "o primeiro a se estabelecer na Terra foi Shiva, há cerca de 20.000 anos, criando os seus seguidores"; o epíteto "Deus" surgiu há ~4.000 anos na Trácia.
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 43]** um dos dois focos das castas: «tradição Kumari Kandan, no sul da Índia», terras que ~20 mil anos atrás ligavam o sul do continente ao atual Sri Lanka e depois foram cobertas pelo oceano.
+- Grafia do livro: **Kandan**. A ficha já registra Kandam (palestras). **Não fundir** as grafias; convívio marcado. Quarentena cronológica/arqueológica. Sem materializar RC-330. Sem fusão com B021. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -9151,6 +9219,13 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 
 - **[B036 p. 39]** voz atribuída a Javé: “Krishna foi o pretenso Keshava (personificação de um avatar que presumivelmente incorporou sequências da genética mental dos três seres da Trimurti) que se aproveitou da situação e pretendeu apartar do meu poder toda a Criação, situando-a em torno dele.”
 - Outros “antes dele também a tal pretenderam, mas nenhum havia saído das forças consorciadas da Trimurti com tal intento.” RC-425 permanece **sem ficha**. Sem fusão com B016. **Quarentena teológica.**
+
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 23]** Krishna = «avatar keshava enviado pelos três Senhores da Trimurti» para as «últimas etapas históricas» que definiriam «aquele que, finalmente, herdaria a Terra».
+- **[B023 p. 38]** «grande formulador, revelador, executor e principal definidor» de dharma e varna para a cultura demo e os descendentes hiperbóreos; no cap. IV do Gita, institui as castas «num tempo ainda bem anterior ao de sua personalidade como Krishna».
+- **[B023 p. 11]** Ellam defende Sai Baba «engendrado à moda de Krishna» / avatar de Shiva — **quarentena teológica** (leitura, não fato vaishnava). Sem materializar RC-425. Sem fusão com B036. Fonte **B023** já constava na tabela-mestra.
 
 ## Fontes
 

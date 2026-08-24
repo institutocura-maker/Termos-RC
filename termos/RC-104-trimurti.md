@@ -97,6 +97,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B037 p. 67–71]** cap. 10 (2013): encontro dos três; Shiva: a última conversa «com esta liberdade» foi «num “tempo” anterior à criação deste universo»; «máquina de criar vidas» que «nada disto precisava mesmo de existir».
 - **[B037 p. 76]** as três personificações «jamais se “humanizaram”» do modo humano; Brahma sem avatares terrenos neste passo. RC-135 permanece **sem ficha**. Sem fusão com B022 / B024 / B044. IEEA / Orbum **fora**.
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 14]** «esses Senhores da Trimurti se pensam “deuses”, e suas formas avatáricas também, porém, de fato, eles não são».
+- **[B023 p. 15]** Trimurti = os autoaclamados Senhores da Lila / Senhores do Dharma.
+- **[B023 p. 24]** convivência de Ellam com os três; desejavam que os híbridos «herdassem a Terra». Geopolítica da Lila (p. 14) = **não ontologizar como fato**. Sem materializar RC-075 / RC-135. Sem fusão com B024 / B044. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

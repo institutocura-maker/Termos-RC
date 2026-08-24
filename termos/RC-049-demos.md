@@ -33,6 +33,13 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B035 p. 16–17]** estratificação: (a) Brahma / Vishnu / Shiva em formas demoníacas (mal convivem); (b) outras moradas demo, cada uma com «imperador demo»; (c) universo ainda sem «vida pensante natural».
 - **[B035 p. 17]** famílias demoníacas «padeciam de doenças» e a genética dos corpos demo não permitia expressar aquisições espirituais — **quarentena clínica**. RC-019 permanece **sem ficha**. Sem fusão com B052 / B044. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — B023 (O Dharma e as Castas Hindus)
+
+- **[B023 p. 5–6]** Introdução: disciplina existencial criada para «demônios feito gente»; o sistema de leis herdado pelos humanos era «destinado a um outro tipo de psiquismo – o demo».
+- **[B023 p. 24]** «ética demo» / «honra demo» como base das castas; «nós, humanos, deles herdamos essas convenções».
+- Sem materializar RC-322 / RC-044. Sem fusão com B052 / B044. Fonte **B023** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

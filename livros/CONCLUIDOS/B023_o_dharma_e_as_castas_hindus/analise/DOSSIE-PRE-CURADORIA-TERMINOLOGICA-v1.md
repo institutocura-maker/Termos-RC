@@ -3,7 +3,7 @@
 **Fase 2 · 2026-08-24 · AGENTE 9**  
 **Nenhum código consumido. BIBLIO intocada.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 11 fichas. ZERO códigos. Pasta movida para `livros/CONCLUIDOS/`.
 
 ---
 
