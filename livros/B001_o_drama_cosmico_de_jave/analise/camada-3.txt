@@ -1,0 +1,9 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B001_o_drama_cosmico_de_jave/original.txt
+
+SHA-256 ae9f3148bc503b9db0b716f3ef9dacb070a410151051949796140395dd15ce87
+695.734 bytes · ~109.344 palavras · 327 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar. Fechos p. 322–327 = Orbum/roteiro (fora da malha).

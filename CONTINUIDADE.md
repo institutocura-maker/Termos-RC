@@ -1,7 +1,16 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B023 aplicada — 11 fichas, 0 códigos; pasta em CONCLUIDOS)  
+**Data de sincronização:** 2026-08-24 (ingresso B001 — aguarda Devolutiva; B002/B033 não processados)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B001 *O Drama Cósmico de Javé* (abertura 2026-08-24) — **vol. 1; B002/B033 fora**
+
+- **PDF ingressado** em `uploads_recepcao/O Drama Cosmico de Javé - Jan Val Ellam.pdf` (1.513.345 bytes; SHA-256 `c57fc952b526f0b22e8ec4d2d16cc512a5c6c59db0a130bf663cf7efc2ee6786`; **327 págs** = **B001**, obra integral). Intro Atlan 27/03/2010. CIP psicografia / Diversos Espíritos. ISBN 85-88584-01-8 `[REVISAR]` (vizinho de B009 — **não fundir**). **BIBLIO intocada** (`trabalhada`).
+- Ciclo em `livros/B001_o_drama_cosmico_de_jave/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~109.344 palavras; SHA-256 `ae9f3148bc503b9db0b716f3ef9dacb070a410151051949796140395dd15ce87`. p. 1 sem texto.
+- **31 termos já citam B001**; 18 com ficha. Dossiê sugere RC-001, RC-041, RC-047, RC-204, RC-207, RC-210. **0 códigos.** RC-196/205/206/208–215/019/036/135 sem ficha. Lemma Trimurti **não ocorre**.
+- Decisão de lote: **não** processar B001+B002+B033 de uma vez (787 págs). B002 e B033 aguardam.
+- Orbum/roteiro (p. 322–327) fora. Quarentena mediúnica (CIP) + clínica (cap. 13 piloto). Sem fusão com B002/B033/B009.
 
 ## Fase 2 — B023 *O Dharma e as Castas Hindus* (abertura 2026-08-24)
 
@@ -15,7 +24,7 @@
 
 - O-1 confirmado (é B023; obra integral 123 págs; CIP 156 × PDF 123 = `[REVISAR]`; folha «E A CASTAS» = `[REVISAR]`); O-2: 11 fichas ampliadas (RC-319, RC-320, RC-321, RC-323, RC-325, RC-328 + opcional **RC-329**, **RC-104**, **RC-414**, **RC-049**, **RC-001**); p. 90 e o bloco étnico/nazismo de RC-325 **fora**; O-3: zero códigos; RC-322/324/326/327/330/331 e RC-036/038/075/082/099/186 sem ficha; O-4: «pelo menos oito» entroncamentos → Colecionar Incertezas; Kumari **Kandan** × Kandam sem fusão; Sitchin/Einstein/Tagore = externas; IEEA/Orbum fora; O-5: B017/B018/B039, B021, B024, B044 e B013 intactas; O-6: **BIBLIO intocada** (`trabalhada`); ISBN 978-85-62411-42-7 fica para edição manual se mandar; O-7: quarentena clínica crítica + político-geopolítica, científica, ufológica, teológica, biográfica, institucional; O-8: `_ampliacoes_B023.txt` aplicado; pasta em `livros/CONCLUIDOS/B023_o_dharma_e_as_castas_hindus/`. Sem apostila. Tabela-mestra intocada (B023 já constava nas 11).
 - **Colecionar Incertezas (novos):** «pelo menos oito» entroncamentos (p. 29 — só 4 descritos).
-- Uploads posteriores (não processados): *O Drama Cósmico de Javé* (B001), *O Drama Espiritual de Javé* (B002), *O Drama Terreno de Javé* (B033).
+- B001 ingressado em ciclo próprio (acima). B002 e B033 permanecem só no upload.
 
 ## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
 
