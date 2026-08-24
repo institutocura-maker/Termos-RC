@@ -10,9 +10,9 @@
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # termos/RC-001-jave.md | 19737 | 197 | 77aadad5e21d10cc36479ac54a78df28c30fede0b9c475ed22358a9532e42168
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
-# termos/RC-003-reintegracao-cosmica.md | 7795 | 86 | 1968a3f1f23b572dfecf12962c756af1a00984e0de2911285131242d45e1dd9d
+# termos/RC-003-reintegracao-cosmica.md | 8813 | 94 | 2fb4f8133850f952785077a6ec9a960ab00561376d019bc22bd7c08d3e25e4dd
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
-# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 4523 | 74 | b5a7358ec0976afe344bdcbfb1966263343be2e118979bf2ad27c34493b7581e
+# termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 5182 | 81 | f51fe3ec808075f61d9ded06b0326c53567d19ac387b8eb6ee53b575c648e4d4
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
@@ -28,7 +28,7 @@
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 16335 | 152 | 0b1b4e6911c2f8e77789405cc1004834a0c51bd488686007d407179dbde29d36
+# termos/RC-072-jesus.md | 17268 | 159 | e1d926e2ca138882116748940e055e407d7e67342308c8539f39c3d753019ac7
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -37,7 +37,7 @@
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
 # termos/RC-091-projeto-talm.md | 11262 | 106 | 10f2efbc5cd27e73f04ebc570db6e365bfdd4ee351f90ea62e3de5cd25638132
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
-# termos/RC-094-revelacao-cosmica-conceito.md | 8100 | 86 | 855d2b00c21a15b6a368ec019cbcc07c6d5d7bd039eece3cbff52c9c96658ba8
+# termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
 # termos/RC-102-shiva-savna.md | 5323 | 64 | 77b1b5754d3c909331927d511a6b6194755cbf7b11e53a44c5eca6d68996abce
 # termos/RC-104-trimurti.md | 13211 | 130 | 4736d5716cecc6de1f370c216aec8c80e5ec3908784f4417ca385e0f2f5f0bab
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1534176 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1538026 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -743,6 +743,14 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B037 p. 33]** Javé: «pormos um fim à etapa de isolamento da Terra»; «circuitos celestiais novamente abertos ao intercâmbio cósmico»; «É chegada a hora do fim do isolamento».
 - **[B037 p. 80]** Shiva: a «volta de Jesus» «religar[á] todos os que vivem na Terra ao circuito da vivência cósmica», no conceito da «reintegração cósmica». Sem fusão com B003 / B042. Recanto de Paz (p. 28) **sem código**.
 
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- Lemma «reintegração» **não** ocorre no Esclarecimento. Prefácio de Val Eom **vetado** (voz de terceiro).
+- **[B009 p. 13]** Esclarecimento: Ellam distingue entidade «espiritual (espíritos desencarnados)» e «cósmica (seres que vivem fora do contexto terrestre)» — horizonte cósmico da voz do autor, sem interpolar o termo.
+- **[B009 p. 18]** assume a tarefa no «campo da tentativa do esclarecimento redentor»; o juízo que fizer «das pessoas e dos fatos» é o que prestará contas «perante as leis cósmicas que nos regem a existência».
+- **[B009 p. 19]** «missões complementares ao testemunho do Cristo» ainda não «corretamente percebidas quanto a certos aspectos pretendidos pela Espiritualidade Maior». Relato atribuído a Ramatis («império da luz», «trabalhadores de última hora») = **voz de terceiro no Esclarecimento — não ontologizado**. Sem fusão com B003 / B037 / B042. Fonte **B009** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -884,6 +892,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B042 p. 92]** crônica *A Promessa de Jesus*: vida discreta até o ministério; anúncio de morte e ressurreição como vínculo da obra a um evento.
 - **[B042 p. 95]** *A Volta do Mestre*: “Afinal, Jesus voltará? Quando? De que modo?” — pergunta, não calendário. Leituras protestante / católica / espírita = **teologia comparada**, não ontologia.
 - **[B042 p. 108–109]** a promessa de retornar “em toda a sua glória, acompanhado pelos seus anjos” é “a única promessa feita por ‘alguma autoridade celeste’” quanto ao fim do isolamento; as promessas “estão vinculadas ao poder de mando do Senhor Javé”. Sem fusão com B011 / B014 / B016. Avistamentos (p. 109) = **quarentena ufológica**.
+
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- **[B009 p. 353]** Posfácio: «a última promessa feita pelo próprio Mestre, referente ao seu retorno»; «estamos vivendo o momento em que essa promessa há de se cumprir»; «os tempos profetizados estão chegados» — anúncio, não calendário.
+- **[B009 p. 353]** «o Mestre Jesus possa voltar à Terra na sua condição de ser cósmico extraterreno» — **quarentena ufológica** (leitura, jamais fato).
+- **[B009 p. 354]** a mesma equipe do século XIX «atualmente semeia o anúncio da volta de Jesus». Sem fusão com B011 / B014 / B016 / B042. Fonte **B009** acrescentada na tabela-mestra.
 
 ## Fontes
 
@@ -2063,6 +2078,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B049 p. 122–123]** razão filosófica vs. fé condicionada; «intrigas trimurtianas»; taxado de traidor por Javé. Remissão aos Dramas (nota) = **não fundir**.
 - Sem fusão com B011 (transfiguração de p. 176 está no cap. 14 / encontro — **fora** deste bloco). Quarentena teológica.
 
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- **[B009 p. 19]** Esclarecimento: o «juízo do mundo» «sequer logra […] estar na direção analítica correta» quanto a «Jesus e os temas centrais de sua mensagem», «mesmo decorridos dois mil anos»; «missões complementares ao testemunho do Cristo» (Espiritismo = «exemplo mais recente») também desfiguradas — **quarentena teológica**.
+- **[B009 p. 353]** Ellam: «estar servindo ao Mestre Jesus»; o que faz, faz «acreditando […] estar servindo […] ao amigo maior, Jesus»; se houver equívoco, registra só «a minha boa intenção em servi-Lo».
+- **[B009 p. 353–354]** o anúncio da volta é o tema que Ellam enfoca; a equipe do Espírito da Verdade = a mesma que agora anuncia Jesus. Sem fusão com B011 / B043 / B049. Prefácio de Val Eom e posfácios de Ramatis / Rochester / Hercílio **isolados**. Fonte **B009** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -2792,6 +2814,14 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[B042 p. 71]** crônica homônima: dar por sabido o que ainda se pretende descobrir é crença no lugar da verificação. Epígrafe de Emerson; prudência do Tao (Lao Tse) = **referências externas**.
 - **[B042 p. 87]** distinta da Revelação Espiritual (Kardec + espíritos comunicantes): “a Revelação Cósmica não se dará exclusivamente por obra de nenhum terráqueo”; “não ficará inserida na obra de nenhum homem ou mulher da Terra”; maturidade só com “convivência, clara e objetiva, com os nossos irmãos cósmicos”. RC-190 permanece **sem ficha**.
 - Sem fusão com B031. IEEA **fora**. Parte IV e 11-setembro **fora**.
+
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- **[B009 p. 353]** Posfácio de Ellam: o tema que enfoca «a pedido da Espiritualidade» é «o cumprimento da última promessa feita pelo próprio Mestre, referente ao seu retorno». Relata que «esses seres afirmam» serem «os tempos profetizados» chegados e ser aquele «o momento propício para que algumas páginas da revelação cósmica possam complementar o entendimento ofertado ao mundo pela revelação espiritual».
+- **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
+- **[B009 p. 354]** tese em 1ª pessoa: «a equipe do Espírito da Verdade, que realizou a codificação espírita, seja a mesma que atualmente semeia o anúncio da volta de Jesus»; «tenho razões e fortes motivos pessoais para sabê-lo e afirmá-lo, independente de tudo o mais».
+- RC-190 permanece **sem ficha**. **Quarentena teológica** (Kardec / Espírito da Verdade / codificação = leitura de Ellam, não fato kardecista). Caps. 1–21 e posfácios de Ramatis / Rochester / Hercílio **isolados**. Sem fusão com B003 / B006 / B016. Fonte **B009** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

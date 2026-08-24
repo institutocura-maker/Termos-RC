@@ -1,7 +1,7 @@
 Contexto de ingresso (2026-08-24): décimo-oitavo livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037, B049).
 PDF entregue em uploads_recepcao/ pelo curador (push 62782dc no branch da sessão).
 Obra já na BIBLIO como B009 (a confirmar; Zian 2001; «Aguardando PDF»). Primeiro original arquivado no workspace.
-0 termos citam B009. Núcleo sugerido (só voz de Ellam): RC-094 / RC-005 / RC-072.
+Devolutiva aplicada (2026-08-24): 4 fichas (RC-094, RC-005, RC-072 + opcional RC-003); B009 nas fontes das 4. 0 códigos.
 Prefácio Val Eom e posfácios Ramatis/Rochester/Hercílio isolados. Caps. 1–21 = psicografia isolada.
 Caps. 11–13 e IEEA/Orbum/roteiro fora.
 Corpus: original.txt (extract paginado; p. 1 sem texto). Sem marca d'água de conversor.

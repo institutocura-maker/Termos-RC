@@ -43,6 +43,14 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B037 p. 33]** Javé: «pormos um fim à etapa de isolamento da Terra»; «circuitos celestiais novamente abertos ao intercâmbio cósmico»; «É chegada a hora do fim do isolamento».
 - **[B037 p. 80]** Shiva: a «volta de Jesus» «religar[á] todos os que vivem na Terra ao circuito da vivência cósmica», no conceito da «reintegração cósmica». Sem fusão com B003 / B042. Recanto de Paz (p. 28) **sem código**.
 
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- Lemma «reintegração» **não** ocorre no Esclarecimento. Prefácio de Val Eom **vetado** (voz de terceiro).
+- **[B009 p. 13]** Esclarecimento: Ellam distingue entidade «espiritual (espíritos desencarnados)» e «cósmica (seres que vivem fora do contexto terrestre)» — horizonte cósmico da voz do autor, sem interpolar o termo.
+- **[B009 p. 18]** assume a tarefa no «campo da tentativa do esclarecimento redentor»; o juízo que fizer «das pessoas e dos fatos» é o que prestará contas «perante as leis cósmicas que nos regem a existência».
+- **[B009 p. 19]** «missões complementares ao testemunho do Cristo» ainda não «corretamente percebidas quanto a certos aspectos pretendidos pela Espiritualidade Maior». Relato atribuído a Ramatis («império da luz», «trabalhadores de última hora») = **voz de terceiro no Esclarecimento — não ontologizado**. Sem fusão com B003 / B037 / B042. Fonte **B009** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

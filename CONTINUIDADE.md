@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B009 — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B009 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
@@ -10,6 +10,11 @@
 - Extract paginado: ~139.093 palavras; SHA-256 `a60005342d93e51bc6d3f012c53041c165e667ab0e8b527eb736f0c6001a2134`. p. 1 sem texto.
 - **0 termos citam B009.** Obra psicografada. Dossiê sugere ampliar só a partir da voz de Ellam (Posfácio p. 349–354): RC-094, RC-005, RC-072. **0 códigos.** RC-190 sem ficha — não materializar. Prefácio Val Eom e posfácios Ramatis/Rochester/Hercílio isolados.
 - Caps. 11–13 e IEEA/Orbum/roteiro fora. Sem fusão com B006/B003/B016.
+
+### Devolutiva B009 aplicada (2026-08-24)
+
+- O-1 confirmado (é B009; CIP Zian 2001 × créditos Conectar = `[REVISAR]`; ISBN 85-88584-01-08 = `[REVISAR]`; BIBLIO permanece `a confirmar`); O-2: 4 fichas ampliadas (RC-094, RC-005, RC-072 + opcional **RC-003** só com o Esclarecimento; Val Eom vetado); B009 nas fontes das 4; O-3: zero códigos; RC-190 sem ficha; Kardec / Ramatis / Rochester / Val Eom / Hercílio / Bezerra / Wera sem código; O-4: prefácio Val Eom, caps. 1–21 e posfácios de terceiros isolados; caps. 11–13 e Napoleão/unificação europeia fora; IEEA/Orbum/roteiro fora; O-5: B006, B003 e B016 intactas; O-6: **BIBLIO intocada**; O-7: quarentena mediúnica (psicografia / «ser médium de si mesmo») + teológica, clínica («louco» / «desgaste psicológico» = leitura), político-geopolítica, ufológica («ser cósmico extraterreno»), biográfica, institucional; O-8: pasta em `livros/CONCLUIDOS/B009_muito_alem_do_horizonte/`. Sem apostila.
+- **Colecionar Incertezas (novos):** *Livro da Reencarnação* (p. 350 — anunciado; não cadastrar); *O Sentido Gradualístico das Leis do Carma* (p. 350 — **não fundir** com B053 *O Sentido Gradual das Leis Morais*).
 
 ## Fase 2 — B049 *Jesus e Nietzsche* (abertura 2026-08-24)
 

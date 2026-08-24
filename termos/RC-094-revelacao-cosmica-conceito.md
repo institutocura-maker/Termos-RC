@@ -37,6 +37,14 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[B042 p. 87]** distinta da Revelação Espiritual (Kardec + espíritos comunicantes): “a Revelação Cósmica não se dará exclusivamente por obra de nenhum terráqueo”; “não ficará inserida na obra de nenhum homem ou mulher da Terra”; maturidade só com “convivência, clara e objetiva, com os nossos irmãos cósmicos”. RC-190 permanece **sem ficha**.
 - Sem fusão com B031. IEEA **fora**. Parte IV e 11-setembro **fora**.
 
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- **[B009 p. 353]** Posfácio de Ellam: o tema que enfoca «a pedido da Espiritualidade» é «o cumprimento da última promessa feita pelo próprio Mestre, referente ao seu retorno». Relata que «esses seres afirmam» serem «os tempos profetizados» chegados e ser aquele «o momento propício para que algumas páginas da revelação cósmica possam complementar o entendimento ofertado ao mundo pela revelação espiritual».
+- **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
+- **[B009 p. 354]** tese em 1ª pessoa: «a equipe do Espírito da Verdade, que realizou a codificação espírita, seja a mesma que atualmente semeia o anúncio da volta de Jesus»; «tenho razões e fortes motivos pessoais para sabê-lo e afirmá-lo, independente de tudo o mais».
+- RC-190 permanece **sem ficha**. **Quarentena teológica** (Kardec / Espírito da Verdade / codificação = leitura de Ellam, não fato kardecista). Caps. 1–21 e posfácios de Ramatis / Rochester / Hercílio **isolados**. Sem fusão com B003 / B006 / B016. Fonte **B009** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

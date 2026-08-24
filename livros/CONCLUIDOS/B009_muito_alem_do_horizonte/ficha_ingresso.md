@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B009 — Muito Além do Horizonte
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada. Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 4 fichas ampliadas (RC-094, RC-005, RC-072, RC-003); B009 nas fontes das 4; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`.
 
 ## 1. Identificação
 

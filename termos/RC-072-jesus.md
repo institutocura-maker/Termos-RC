@@ -107,6 +107,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B049 p. 122–123]** razão filosófica vs. fé condicionada; «intrigas trimurtianas»; taxado de traidor por Javé. Remissão aos Dramas (nota) = **não fundir**.
 - Sem fusão com B011 (transfiguração de p. 176 está no cap. 14 / encontro — **fora** deste bloco). Quarentena teológica.
 
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- **[B009 p. 19]** Esclarecimento: o «juízo do mundo» «sequer logra […] estar na direção analítica correta» quanto a «Jesus e os temas centrais de sua mensagem», «mesmo decorridos dois mil anos»; «missões complementares ao testemunho do Cristo» (Espiritismo = «exemplo mais recente») também desfiguradas — **quarentena teológica**.
+- **[B009 p. 353]** Ellam: «estar servindo ao Mestre Jesus»; o que faz, faz «acreditando […] estar servindo […] ao amigo maior, Jesus»; se houver equívoco, registra só «a minha boa intenção em servi-Lo».
+- **[B009 p. 353–354]** o anúncio da volta é o tema que Ellam enfoca; a equipe do Espírito da Verdade = a mesma que agora anuncia Jesus. Sem fusão com B011 / B043 / B049. Prefácio de Val Eom e posfácios de Ramatis / Rochester / Hercílio **isolados**. Fonte **B009** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

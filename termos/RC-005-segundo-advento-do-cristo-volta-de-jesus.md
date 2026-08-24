@@ -48,6 +48,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B042 p. 95]** *A Volta do Mestre*: “Afinal, Jesus voltará? Quando? De que modo?” — pergunta, não calendário. Leituras protestante / católica / espírita = **teologia comparada**, não ontologia.
 - **[B042 p. 108–109]** a promessa de retornar “em toda a sua glória, acompanhado pelos seus anjos” é “a única promessa feita por ‘alguma autoridade celeste’” quanto ao fim do isolamento; as promessas “estão vinculadas ao poder de mando do Senhor Javé”. Sem fusão com B011 / B014 / B016. Avistamentos (p. 109) = **quarentena ufológica**.
 
+
+## Ampliação — B009 (Muito Além do Horizonte)
+
+- **[B009 p. 353]** Posfácio: «a última promessa feita pelo próprio Mestre, referente ao seu retorno»; «estamos vivendo o momento em que essa promessa há de se cumprir»; «os tempos profetizados estão chegados» — anúncio, não calendário.
+- **[B009 p. 353]** «o Mestre Jesus possa voltar à Terra na sua condição de ser cósmico extraterreno» — **quarentena ufológica** (leitura, jamais fato).
+- **[B009 p. 354]** a mesma equipe do século XIX «atualmente semeia o anúncio da volta de Jesus». Sem fusão com B011 / B014 / B016 / B042. Fonte **B009** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

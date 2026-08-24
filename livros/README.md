@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-`livros/B009_muito_alem_do_horizonte/` — ingresso 2026-08-24; dossiê enxuto O-1..O-8; **aguarda Devolutiva**. 0 códigos. BIBLIO intocada. Sem apostila.
+Nenhum.
 
 ## Piloto
 

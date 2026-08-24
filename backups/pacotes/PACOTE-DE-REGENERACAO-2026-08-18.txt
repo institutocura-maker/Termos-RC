@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 275995 | 2954 | 77bdefc7db9925bb1bdba3a1560b1afe6930d351f648171e503fbe42405445f0
+# ferramentas/dados_termos.py | 276027 | 2954 | 8e14739fe22f7f1d460d4c490cee129e8b4d910832fe6bc26e8310d3e298c97f
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53563 | 352 | 4b14c6ef590c47a9f4c3edbe015b77c09b7d1df8b1bf4c9868fd5eb58fa9e32b
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 133185 | 1147 | 7b901c79bad19dd234cb0609c3b4b4ac7ccece9a19c8e58ea3b1f23ea38ddf3b
+# CONTINUIDADE.md | 135477 | 1160 | 32f90af5de1e7f460cd5c0c3863bbe22675caa55d3edf001fb99e9afc830ecc0
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 584874 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 587198 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -112,9 +112,9 @@ TERMOS = [
     # ---- Pré-existentes (RC-001..RC-010)
     ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'B043', 'B037', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
     ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'P2024-03-03', 'P2024-04-13'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
-    ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'B037', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
+    ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'B037', 'B009', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
     ("RC-004", "Elohim", SER_COL[0], SER_COL[1], C, ["B061", 'P2024-09-28'], "RC-001; RC-474", False),
-    ("RC-005", "Segundo Advento do Cristo (Volta de Jesus)", EVE_PRO[0], EVE_PRO[1], P, ["B001", "B002", "B016", "B014", "B003", "B025", "B005", "B011", "B042", 'P2026-08-04', 'P2024-03-02; RC-674; RC-565'], "RC-003; RC-009; RC-070; RC-072; RC-212", True),
+    ("RC-005", "Segundo Advento do Cristo (Volta de Jesus)", EVE_PRO[0], EVE_PRO[1], P, ["B001", "B002", "B016", "B014", "B003", "B025", "B005", "B011", "B042", "B009", 'P2026-08-04', 'P2024-03-02; RC-674; RC-565'], "RC-003; RC-009; RC-070; RC-072; RC-212", True),
     ("RC-006", "Guerra do Éden", EVE_GUE[0], EVE_GUE[1], P, ["B015"], "RC-001; RC-004; RC-147; RC-242", False),
     ("RC-007", "Exilados de Capela", SER_DEC[0], SER_DEC[1], P, ["B031", "B003", "B025", "B026", "B057"], "RC-002; RC-003; RC-020; RC-070; RC-078; RC-105", True),
     ("RC-008", "Tzimtzum", TER_HEB[0], TER_HEB[1], P, ["B013"], "RC-261; RC-267; RC-272; RC-265", True),
@@ -183,7 +183,7 @@ TERMOS = [
     ("RC-069", "Ion Crom", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-136; RC-018", False),
     ("RC-070", "Isolamento Cósmico", EVE_GUE[0], EVE_GUE[1], P, ['B031', 'B033', 'B003', 'B025', 'B026', 'B005', 'P2022-12-17', 'P2024-11-30', 'P2024-07-13'], 'RC-002; RC-005; RC-009; RC-003; RC-007; RC-105', True),
     ("RC-071", "Jan Val Ellam (Rogério de Almeida Freitas)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B016', 'B006', 'B027', 'B034', 'B036', 'B060', 'P2021-12-04', 'P2025-06-26'], "RC-094; RC-083; RC-095; RC-120; RC-617; RC-659", False),
-    ("RC-072", "Jesus", SER_HUM[0], SER_HUM[1], P, ['B031', 'B017', 'B018', 'B039', 'B015', 'B016', 'B014', 'B020', 'B003', 'B025', 'B026', 'B005', 'B011', 'B049', 'B043', 'P2026-07-30', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2026-08-04', 'P2024-03-02', 'P2023-05-13', 'P2024-09-28', 'P2025-11-29'], 'RC-009; RC-005; RC-016; RC-041; RC-138; RC-592; RC-604; RC-659; RC-713; RC-722; RC-286; RC-647; RC-565; RC-293; RC-479; RC-770; RC-556; RC-585', True),
+    ("RC-072", "Jesus", SER_HUM[0], SER_HUM[1], P, ['B031', 'B017', 'B018', 'B039', 'B015', 'B016', 'B014', 'B020', 'B003', 'B025', 'B026', 'B005', 'B011', 'B049', 'B043', 'B009', 'P2026-07-30', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2026-08-04', 'P2024-03-02', 'P2023-05-13', 'P2024-09-28', 'P2025-11-29'], 'RC-009; RC-005; RC-016; RC-041; RC-138; RC-592; RC-604; RC-659; RC-713; RC-722; RC-286; RC-647; RC-565; RC-293; RC-479; RC-770; RC-556; RC-585', True),
     ("RC-073", "Keshava", TER_SAN[0], TER_SAN[1], P, ['B031', 'P2026-04-02'], "RC-037; RC-102; RC-135; RC-081", False),
     ("RC-074", "Len Mion (Satã)", SER_DEC[0], SER_DEC[1], P, ["B031", "B017", "B018", "B039", "B057", "B058", "B060", 'P2021-03-27; RC-286'], "RC-142; RC-026; RC-101; RC-067; RC-002", True),
     ("RC-075", "Lila", TER_SAN[0], TER_SAN[1], P, ['B031', 'B024', 'B044', 'B035', 'B022', 'B023', 'P2024-11-30'], 'RC-104; RC-037; RC-102; RC-135', False),
@@ -205,7 +205,7 @@ TERMOS = [
     ("RC-091", "Projeto Talm", EVE_MIS[0], EVE_MIS[1], P, ['B031', 'B024', 'B044', 'B001', 'P2021-12-04', 'P2025-03-15', 'P2024-11-02', 'P2024-08-03'], 'RC-080; RC-104; RC-037; RC-102; RC-135; RC-081; RC-040; RC-154; RC-282', True),
     ("RC-092", "Quarto Logos (Olm / Codificador de Zian)", SER_LOG[0], SER_LOG[1], P, ['B031', 'B016', 'B014', 'B057', 'B060', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-10-25', 'P2025-02-16', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2024-08-03'], 'RC-076; RC-087; RC-085; RC-025; RC-072; RC-456; RC-472; RC-604; RC-607; RC-609; RC-611; RC-612; RC-615; RC-608; RC-167; RC-649; RC-697', True),
     ("RC-093", "Radiatas", SER_HIB[0], SER_HIB[1], P, ['B031', 'P2024-05-04', 'P2025-02-16', 'P2024-04-13'], 'RC-035; RC-109; RC-136; RC-009; RC-631', False),
-    ("RC-094", "Revelação Cósmica (conceito)", COS_COG[0], COS_COG[1], P, ['B031', 'B044', 'B035', 'B013', 'B014', 'B022', 'B023', 'B048', 'B003', 'B005', 'B011', 'B049', 'B043', 'B041', 'B006', 'B050', 'B027', 'B051', 'B034', 'B036', 'B040', 'B052', 'B042', 'P2021-12-04', 'P2025-10-25', 'P2025-06-26', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2023-12-02', 'P2021-03-27'], 'RC-071; RC-106; RC-107; RC-003; RC-090; RC-611; RC-656; RC-718', True),
+    ("RC-094", "Revelação Cósmica (conceito)", COS_COG[0], COS_COG[1], P, ['B031', 'B044', 'B035', 'B013', 'B014', 'B022', 'B023', 'B048', 'B003', 'B005', 'B011', 'B049', 'B043', 'B041', 'B006', 'B050', 'B027', 'B051', 'B034', 'B036', 'B040', 'B052', 'B042', 'B009', 'P2021-12-04', 'P2025-10-25', 'P2025-06-26', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2023-12-02', 'P2021-03-27'], 'RC-071; RC-106; RC-107; RC-003; RC-090; RC-611; RC-656; RC-718', True),
     ("RC-095", "Rogério de Almeida Freitas", SER_HUM[0], SER_HUM[1], P, ["B031"], "RC-071; RC-094", False),
     ("RC-096", "Septuaginta", TEC_ESC[0], TEC_ESC[1], P, ['B031', 'P2026-08-04'], 'RC-082; RC-106', False),
     ("RC-097", "Seres Extrafísicos", SER_DEC[0], SER_DEC[1], P, ["B031"], "RC-049; RC-019; RC-024; RC-106; RC-031", False),
@@ -4582,8 +4582,21 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B049 aplicada)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B009 aplicada)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
+
+- **PDF ingressado** em `uploads_recepcao/Muito Além do Horizonte (a ligação entre Kardec, Ramatis e Rochester) - Jan Val Ellam.pdf` (2.428.255 bytes; SHA-256 `e1e8e033cdd26ff8c93037bc0c2476e6e9d5261f06add1613d36e0b859e71a18`; 376 págs = **B009**). CIP Zian 2001; créditos também Conectar = `[REVISAR]` de edição. ISBN 85-88584-01-08 = `[REVISAR]`. CDD/CDU 133.93. Prefácio Val Eom, Luanda, dez/2000. **BIBLIO intocada** (permanece `a confirmar`).
+- Ciclo em `livros/B009_muito_alem_do_horizonte/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~139.093 palavras; SHA-256 `a60005342d93e51bc6d3f012c53041c165e667ab0e8b527eb736f0c6001a2134`. p. 1 sem texto.
+- **0 termos citam B009.** Obra psicografada. Dossiê sugere ampliar só a partir da voz de Ellam (Posfácio p. 349–354): RC-094, RC-005, RC-072. **0 códigos.** RC-190 sem ficha — não materializar. Prefácio Val Eom e posfácios Ramatis/Rochester/Hercílio isolados.
+- Caps. 11–13 e IEEA/Orbum/roteiro fora. Sem fusão com B006/B003/B016.
+
+### Devolutiva B009 aplicada (2026-08-24)
+
+- O-1 confirmado (é B009; CIP Zian 2001 × créditos Conectar = `[REVISAR]`; ISBN 85-88584-01-08 = `[REVISAR]`; BIBLIO permanece `a confirmar`); O-2: 4 fichas ampliadas (RC-094, RC-005, RC-072 + opcional **RC-003** só com o Esclarecimento; Val Eom vetado); B009 nas fontes das 4; O-3: zero códigos; RC-190 sem ficha; Kardec / Ramatis / Rochester / Val Eom / Hercílio / Bezerra / Wera sem código; O-4: prefácio Val Eom, caps. 1–21 e posfácios de terceiros isolados; caps. 11–13 e Napoleão/unificação europeia fora; IEEA/Orbum/roteiro fora; O-5: B006, B003 e B016 intactas; O-6: **BIBLIO intocada**; O-7: quarentena mediúnica (psicografia / «ser médium de si mesmo») + teológica, clínica («louco» / «desgaste psicológico» = leitura), político-geopolítica, ufológica («ser cósmico extraterreno»), biográfica, institucional; O-8: pasta em `livros/CONCLUIDOS/B009_muito_alem_do_horizonte/`. Sem apostila.
+- **Colecionar Incertezas (novos):** *Livro da Reencarnação* (p. 350 — anunciado; não cadastrar); *O Sentido Gradualístico das Leis do Carma* (p. 350 — **não fundir** com B053 *O Sentido Gradual das Leis Morais*).
 
 ## Fase 2 — B049 *Jesus e Nietzsche* (abertura 2026-08-24)
 
