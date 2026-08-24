@@ -1,0 +1,21 @@
+{
+  "obra": "B041",
+  "titulo": "A Rebelião dos Elétrons e o Código de Vida do Criador",
+  "autor": "Jan Val Ellam",
+  "biblio_editora_ano": "Conectar / 2018",
+  "pdf_creditos": "Conectar Editora / 1ª ed. 2018 + linha Natal-RN/2019 / ISBN Ebook 978-85-62411-53-3",
+  "divergencia_edicao": "CIP 186 p. × PDF 184 págs; copyright 2019 × 1ª ed. 2018 × Natal-RN/2019; BIBLIO já descreve 184 págs PDF e o ISBN; CDU 133.9 (quebrado no extract); metadado com dois-pontos no título",
+  "fonte_upload": "uploads_recepcao/A Rebeliao dos Eletrons (e o código da vida do Criador) - Jan Val Ellam.pdf",
+  "bytes_pdf": 2114609,
+  "sha256_pdf": "9bdeaa3f84488a0caa72b03a4cf9b4055bc224748f2323d9f60423f2cb4e32cf",
+  "paginas_pdf": 184,
+  "paginas_sem_texto": [1, 162],
+  "bytes_original_txt": 377868,
+  "sha256_original_txt": "5d2dde9db30f35039db8ca44b13e62fec49ba7a9a2bf1c3b487900e163bf8688",
+  "palavras_approx": 59099,
+  "watermark_omitida": null,
+  "data_ingresso": "2026-08-23",
+  "ciclo": "Fase 2 — escala seletiva",
+  "status": "Aguarda Devolutiva O-1..O-8; 0 códigos; pasta fora de CONCLUIDOS",
+  "codigos_consumidos": 0
+}

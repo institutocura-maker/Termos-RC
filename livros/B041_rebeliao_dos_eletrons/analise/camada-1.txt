@@ -1,0 +1,6 @@
+Contexto de ingresso (2026-08-23): décimo livro da escala seletiva (após B019, B011, B052, B043, B013, B014, B016, B044, B024).
+PDF entregue em uploads_recepcao/ pelo curador (push 394d50c no branch da sessão).
+Obra já na BIBLIO como B041 (trabalhada, era pré-GitHub). Primeiro original arquivado no workspace.
+20 termos já citam B041; 9 com ficha. Núcleo: RC-378 Rebelião / RC-379 Dança / RC-382 Vida do CFD / RC-161 Memória quântica.
+RC-042 Criatura Universal tem ficha, mas B041 não está nas fontes. Quarentenas: clínica (doença/infecção — não diagnóstico), científica (Charon / Sheldrake / 13,8 bi), IEEA/Orbum.
+Corpus: original.txt (extract paginado; p. 1 e p. 162 sem texto). Sem marca d'água de conversor.

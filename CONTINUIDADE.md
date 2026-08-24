@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-23 (Devolutiva B024 aplicada)  
+**Data de sincronização:** 2026-08-23 (ingresso B041 — aguarda Devolutiva)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B041 *A Rebelião dos Elétrons e o Código de Vida do Criador* (abertura 2026-08-23)
+
+- **PDF ingressado** em `uploads_recepcao/A Rebeliao dos Eletrons (e o código da vida do Criador) - Jan Val Ellam.pdf` (2.114.609 bytes; SHA-256 `9bdeaa3f84488a0caa72b03a4cf9b4055bc224748f2323d9f60423f2cb4e32cf`; 184 págs = **B041**). ISBN Ebook 978-85-62411-53-3 já na BIBLIO. CIP 186 p. (papel) × PDF 184 = `[REVISAR]` de contagem. CDU 133.9. Copyright 2019 × 1ª ed. 2018 × Natal-RN/2019 = `[REVISAR]` de ano. **BIBLIO intocada.**
+- Ciclo em `livros/B041_rebeliao_dos_eletrons/` (fora de CONCLUIDOS até Devolutiva).
+- Extract paginado: ~59.099 palavras; SHA-256 `5d2dde9db30f35039db8ca44b13e62fec49ba7a9a2bf1c3b487900e163bf8688`. p. 1 e p. 162 sem texto.
+- 20 termos já citam B041; 9 com ficha. Dossiê sugere ampliar RC-378, RC-379, RC-382, RC-161, RC-332, RC-041. **0 códigos.** RC-040/153/162/380/381/383–387 sem ficha — não materializar.
+- RC-042 Criatura Universal tem ficha, mas **B041 não está nas fontes** (opcional O-2). Quarentenas: clínica (doença/infecção dos elétrons — não diagnóstico), científica (Charon / Sheldrake / 13,8 bi), teológica (Kardec), biográfica (Rogério / Aya), IEEA/Orbum fora. Sem fusão com B024/B016/B048/B001/B002/B033. “Favor Divino II” → Colecionar Incertezas.
 
 ## Fase 2 — B024 *A Epopeia dos Agentes da Vida Universal* (abertura 2026-08-23)
 
