@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B035 — O Big Data do Criador
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada. Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24) — AMOSTRA.** 7 fichas ampliadas (RC-194, RC-195, RC-164, RC-041 + opcionais RC-001, RC-049, RC-167); 0 códigos. BIBLIO intocada (`amostra recebida`). Sem apostila. **Pasta permanece em `livros/B035_o_big_data_do_criador/`** — não promover a CONCLUIDOS como obra integral. Obra completa continua pendente.
 
 ## 1. Identificação
 

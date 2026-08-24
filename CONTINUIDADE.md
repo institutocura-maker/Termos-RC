@@ -1,15 +1,20 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B035 amostra — aguarda Devolutiva)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B035 amostra aplicada — 7 fichas, 0 códigos; pasta fora de CONCLUIDOS)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
 
 - **PDF ingressado** em `uploads_recepcao/O Big Data do Criador.pdf` (1.311.232 bytes; SHA-256 `be79be05ebc34736f16156318066eb144ef9c73acd9903a0966d546162172d92`; **18 págs** = amostra B035, **não** a obra completa). Metadado calibre Title = «O Big Data do Criador - Sample». Intro Atlan 12/03/2016. Cap. 2 trunca na p. 18. **BIBLIO intocada** (permanece `amostra recebida`).
-- Ciclo em `livros/B035_o_big_data_do_criador/` (fora de CONCLUIDOS até Devolutiva).
+- Ciclo em `livros/B035_o_big_data_do_criador/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
 - Extract paginado: ~4.674 palavras; SHA-256 `3d6ea70db88182442bb023151e1d9214822047ef5edceb241bcba12caa0fd83a`. p. 1 sem texto; p. 6 e p. 12 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
 - **20 termos já citam B035**; 11 com ficha. Dossiê sugere ampliar RC-194, RC-195, RC-164, RC-041. **0 códigos.** RC-196/197/198/199/201/202/203/019 sem ficha — não materializar. RC-200 não ampliar (cap. 8 só no sumário).
 - Caps. 3–12 e IEEA/Orbum só no sumário — fora. Quarentena clínica («cientista enlouquecido» / «doença do criador» / cap. 12 «Diagnóstico»). Sem fusão com B001/B044/B041/B048.
+
+### Devolutiva B035 (amostra) aplicada (2026-08-24)
+
+- O-1 confirmado (é B035; PDF = **Sample** de 18 págs; cap. 2 trunca na p. 18; **não** promover a `trabalhada`); O-2: 7 fichas ampliadas (RC-194, RC-195, RC-164, RC-041 + opcional **RC-001**, **RC-049**, **RC-167**) só com as 18 págs; lemma «Javé» e lemma «criação indevida» **não ocorrem** na amostra (blocos honestos); RC-200 **não** ampliada; O-3: zero códigos; RC-196/197/198/199/201/202/203/019 sem ficha; O-4: caps. 3–12 + posfácio ignorados; Hitler / KGB / drones fora; IEEA/Orbum fora; `[TEXTO INCOMPLETO]` sem interpolação; O-5: B001, B044, B041 e B048 intactas; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena clínica crítica («cientista enlouquecido» / «adoentado» / «doença do criador» / «desalmado» / «corpos doentes» / cap. 12 «Diagnóstico» = leitura, jamais diagnóstico) + científica, político-geopolítica, institucional, ufológica, teológica; O-8: `_ampliacoes_B035.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila. Tabela-mestra intocada (B035 já constava nas fontes das 7).
+- Upload posterior (não processado): `uploads_recepcao/Nos Céus da Grécia.pdf` = **B027** (BIBLIO já `amostra recebida`). Aguarda ordem do curador.
 
 ## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)
 

@@ -34,6 +34,13 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 - **[B019 p. 205]** "existir nesta Criação significa simplesmente ser uma 'criatura-ferramenta' de uma construção em curso no próprio universo! Aqui, não se vê 'deus' agindo, nem ninguém mais a não ser os próprios 'agentes da vida'."
 - **[B019 p. 205]** "o homem é a 'criatura-ferramenta' mais recente no 'Palco Universal'".
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 13]** lemma: contributo pessoal de cada «criatura-ferramenta» para «uma grande obra universal» segundo «critérios deformados» dos psiquismos da plêiade.
+- **[B035 p. 15]** as criaturas, «por serem meras extensões e ferramentas dele, receberiam as suas ordens, e agiriam no sentido de alimentá-lo com as atitudes por ele ordenadas».
+- Sem materializar RC-019. Sem fusão com B019 / B024. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

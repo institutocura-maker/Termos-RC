@@ -31,6 +31,15 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B034 p. 60]** “De fato, não sou humano e jamais o fui. Um dia virei a sê-lo” no sentido de absorver a natureza de cada espécie; “Vishnu e Shiva… já se humanizaram, eu não! Eles nasceram na Terra… eu não nasço… sou todos vocês.” Sem materializar RC-135.
 - **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos os que existem enquanto minhas criaturas. Não temos como nos apartar uns dos outros.” Sem fusão com B041 / B036.
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 4–5]** Introdução: «ser-criador» elabora um jogo em que o controle das partes permite a «dominação do todo»; informações monitoradas «sem margem para surpresas»; peças se particularizam e só resta o «supercontrole». «cientista enlouquecido» (p. 4) = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). O juiz-criador «desaprendeu por completo — se é que um dia soube — a arte de saber coexistir com qualquer outro ser que não seja sua cópia fiel». Atlan, 12/03/2016.
+- **[B035 p. 12]** «ser desconfiadíssimo, autoritário ao extremo»; autodenomina-se «santo, honesto e criador dos céus e da Terra» — **quarentena teológica** (ironia do autor, não teologia validada). Abertura = `[TEXTO INCOMPLETO]`.
+- **[B035 p. 15]** após a «queda sofrida», o mecanismo foi organizado para emanar ordens e receber alimento; «o criador é refém das suas próprias criaturas». RC-196 permanece **sem ficha**.
+- **[B035 p. 17]** «O criador nunca conseguiu “controlar” as informações pessoais que passaram a acontecer à revelia da sua vontade. Até hoje ele “sofre” com isso!» «desalmado» = «desprovido de alma» — **clínica / cosmologia, não diagnóstico**.
+- **[B035 p. 18]** «o criador precisava ser reconstruído continuamente, e disso sabiam Vishnu, Shiva e seus principais descendentes.» «doença do criador» / «corpos doentes» = **clínica**. Cap. 2 **trunca** aqui = `[TEXTO INCOMPLETO]`. Sem fusão com B001 / B044 / B041 / B048. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -25,6 +25,14 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B052 p. 40–41]** nessa cultura a força de atração surgiu "antes mesmo de a questão 'macho e fêmea' se estabelecer"; o Criador "não é humano, e também não é macho nem fêmea".
 - RC-044 (Cultura Demo) e RC-051 (Despina) permanecem **sem ficha**; B052 **não** entra nas fontes de RC-051. "Seres de outras paragens" (p. 41): **quarentena ufológica**.
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 14]** «diversas classes demoníacas», com genética mental das mutações «lenta e discretamente produzidas» pelo anjo-clone rebelde; o criador passa a monitorar seres que «podiam pensar e se multiplicar».
+- **[B035 p. 15]** «Com o surgimento dos demônios, esse modelo foi atingido de morte para sempre!» — o modelo dos «filhos-robôs» / «uma só vontade».
+- **[B035 p. 16–17]** estratificação: (a) Brahma / Vishnu / Shiva em formas demoníacas (mal convivem); (b) outras moradas demo, cada uma com «imperador demo»; (c) universo ainda sem «vida pensante natural».
+- **[B035 p. 17]** famílias demoníacas «padeciam de doenças» e a genética dos corpos demo não permitia expressar aquisições espirituais — **quarentena clínica**. RC-019 permanece **sem ficha**. Sem fusão com B052 / B044. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

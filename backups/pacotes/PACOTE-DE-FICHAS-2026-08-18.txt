@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 19737 | 197 | 77aadad5e21d10cc36479ac54a78df28c30fede0b9c475ed22358a9532e42168
+# termos/RC-001-jave.md | 20642 | 205 | 3227cd17bb43831b0350a1266c4621b91bcb147a9912aade470dd30deff922c3
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 8813 | 94 | 2fb4f8133850f952785077a6ec9a960ab00561376d019bc22bd7c08d3e25e4dd
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -18,10 +18,10 @@
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 6349 | 84 | 9397235bf28dcc78454732a2e02a0421081588246f0904f98f3b0fe490d429ed
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 3838 | 58 | c4b372355f127c9d214a1700b7d1566586803f8135cf259df4551e22dee2b1bb
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 5455 | 67 | fbbc99ba4aaa514e4d5dc16ff7898c7bb1f292c4bb368764aecb2d6d33b484e9
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3262 | 57 | 75c3acc9b701da63287c6fd563d8a9d775c0d1f5abac84dc6def6635b10d18b3
-# termos/RC-049-demos.md | 3291 | 52 | 4d4ec7f96245c3d87da4b47ce2c4d4ec791615bf58d3b231cce8067b265ca228
+# termos/RC-049-demos.md | 4223 | 60 | dc3baeec9ef0e52f76892d579dbc2c8cbd148ca8b7d598d1a2bc53cb14333934
 # termos/RC-052-deus-deus-incognoscivel.md | 3381 | 54 | 77ce7f9e13c2c6b59443fd703e79c948a97b2d52b853b48f0d3191ea6ce41f24
 # termos/RC-055-en-drel.md | 2834 | 42 | 959fc5f0852f79bd883a076ce0e85cca0b0d64799409bccf3ab31803b87cb3c3
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
@@ -52,10 +52,10 @@
 # termos/RC-155-eras-da-criacao-10-eras.md | 6293 | 73 | 91f4edd20f3f550b8553c524d481bf9b84cdff75a6ac43c3ca78c67d0faaf63a
 # termos/RC-160-entropia-e-negentropia.md | 3998 | 53 | 0470ca08cf370d47291fda6932483e32b576a16efdd450cd7346eff0bb6dbe9d
 # termos/RC-161-memoria-quantica-dos-eletrons.md | 8477 | 92 | b0e9c392988bb92068a3b9f26f8245ffc2d6a34dc448a3f6b667f24fa0444155
-# termos/RC-164-criaturas-ferramenta.md | 3423 | 60 | fa1fc87e496e67505ef45c9436dbd711661934882e0f733dabf4540979e06495
+# termos/RC-164-criaturas-ferramenta.md | 3932 | 67 | 1c086c52b006e88bcebea3cfb732f8a34d5b007d0d44715dcdc2c1a3a903efc1
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 7553 | 102 | e726f205d2d8c6afa56755e25f2bf8e502f30fb9ce3489580304bb7008477347
+# termos/RC-167-criacao-indevida-obra-indevida.md | 8486 | 111 | be1de156167b33c63783cbefd8aab70152c47ab397d1d874dd0f6f6e728a2bdb
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -63,8 +63,8 @@
 # termos/RC-188-mente-coletiva-redes-psiquicas-coletivas.md | 2854 | 53 | e746a46df163173aa791aae0d47bda8528a0728d8fac746dea107cf929a17f91
 # termos/RC-192-pilula-vermelha.md | 4858 | 72 | 9818b31f216fd6a00980a68b790d6859c786945bf4665c31bd10e4217f0d9506
 # termos/RC-193-rebanho-humano.md | 2556 | 47 | 5f15fa9fe92588a26c915c7df1f91c452db6c96530bfb13172821108811fd4cf
-# termos/RC-194-big-data-cosmico.md | 3328 | 46 | 91d0606032008209384b4d81035b2b8d829b3eccd1b427a8f793588b3e4ad371
-# termos/RC-195-simbiose-quantica.md | 3022 | 41 | f20e0873fd5514e8bffbb45e433eb6eba3063451928557d60d068437bb2f5224
+# termos/RC-194-big-data-cosmico.md | 4915 | 54 | e931167c707338ce3ee702a424584cb5316f3b4d20d817ac5f241b9e752bf49c
+# termos/RC-195-simbiose-quantica.md | 4107 | 48 | 55cd89db8a651be61ab9688b76aaa20256255084ff4476ef88de92fee97ce05d
 # termos/RC-200-base-de-dados-do-juizo-final.md | 1722 | 33 | 0cda9c7f334ccc66416d8ecb0c1d97705ae657f78acf4d774da67b7a3d4e9649
 # termos/RC-204-realidade-maior-paraiso-original.md | 2476 | 52 | 18679bb0b1b13350d1b68c7581de2b1704df232a07c715cc9f847b634ea68e1c
 # termos/RC-207-arquiteto-universal.md | 2746 | 43 | f55b2ac33ed0c08b86f8b9da18f709f81115e99d00dc94a85969d3296977aa65
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1538026 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1545594 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -550,6 +550,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B037 p. 19]** «sem a sua submissão à minha vontade, nada sucederia quanto ao retorno de Jesus»; «sem a parceria de um humano à minha vontade, este ciclo não terminará.»
 - **[B037 p. 32–33]** «Sou o que sou»; «eu sou aquele que é»; fim do isolamento; Adão, Enoch, Noé, Abraão, Moisés, Jesus e Maomé = agentes. Grafia *Enoch* = Enoque nas fichas.
 - **Quarentena clínica** («doente» por pensar que é Deus, p. 11; «louco», p. 10) = leitura, jamais diagnóstico. Anúncio falso de 2006 e TAP 25/06/2008 = **biográfica**. Sem fusão com B001 / B036 / B048. Naves dos «anjos» (p. 20) = **ufológica**.
+
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- Lemma «Javé» **não ocorre** na amostra. Sem interpolar o tetragrama. Identificação do criador com Brahma só na estratificação do cap. 2.
+- **[B035 p. 4–5]** mesmo bloco do «ser-criador» / jogo / supercontrole (bloco opcional autorizado). «cientista enlouquecido» = **clínica**.
+- **[B035 p. 16]** os três mais poderosos «passaram a ter as suas personalidades expressas em formas demoníacas, cujos nomes na mitologia ariana/hindu são Brahma, Vishnu e Shiva» e «passaram a compor a trimurti». Brahma «apresentava uma forma demo influenciável por tudo o que acontecia no âmbito da criação».
+- **[B035 p. 17]** «queda de Brahma»; a criação «já havia sido acionada mesmo antes» da queda. Sem materializar RC-037 / RC-102 / RC-135 / RC-104. Sem fusão com B001 / B036 / B048. Fonte **B035** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1444,6 +1452,15 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B034 p. 60]** “De fato, não sou humano e jamais o fui. Um dia virei a sê-lo” no sentido de absorver a natureza de cada espécie; “Vishnu e Shiva… já se humanizaram, eu não! Eles nasceram na Terra… eu não nasço… sou todos vocês.” Sem materializar RC-135.
 - **[B034 p. 66]** “Sou pai e criador de mim mesmo e de todos os que existem enquanto minhas criaturas. Não temos como nos apartar uns dos outros.” Sem fusão com B041 / B036.
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 4–5]** Introdução: «ser-criador» elabora um jogo em que o controle das partes permite a «dominação do todo»; informações monitoradas «sem margem para surpresas»; peças se particularizam e só resta o «supercontrole». «cientista enlouquecido» (p. 4) = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). O juiz-criador «desaprendeu por completo — se é que um dia soube — a arte de saber coexistir com qualquer outro ser que não seja sua cópia fiel». Atlan, 12/03/2016.
+- **[B035 p. 12]** «ser desconfiadíssimo, autoritário ao extremo»; autodenomina-se «santo, honesto e criador dos céus e da Terra» — **quarentena teológica** (ironia do autor, não teologia validada). Abertura = `[TEXTO INCOMPLETO]`.
+- **[B035 p. 15]** após a «queda sofrida», o mecanismo foi organizado para emanar ordens e receber alimento; «o criador é refém das suas próprias criaturas». RC-196 permanece **sem ficha**.
+- **[B035 p. 17]** «O criador nunca conseguiu “controlar” as informações pessoais que passaram a acontecer à revelia da sua vontade. Até hoje ele “sofre” com isso!» «desalmado» = «desprovido de alma» — **clínica / cosmologia, não diagnóstico**.
+- **[B035 p. 18]** «o criador precisava ser reconstruído continuamente, e disso sabiam Vishnu, Shiva e seus principais descendentes.» «doença do criador» / «corpos doentes» = **clínica**. Cap. 2 **trunca** aqui = `[TEXTO INCOMPLETO]`. Sem fusão com B001 / B044 / B041 / B048. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1616,6 +1633,14 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B052 p. 40]** `n.e.` sobre a fala de Despina: "o ser se refere à 'cultura demo' que então existia entre os membros da chamada geração do Olimpo, conforme descrito na mitologia grega."
 - **[B052 p. 40–41]** nessa cultura a força de atração surgiu "antes mesmo de a questão 'macho e fêmea' se estabelecer"; o Criador "não é humano, e também não é macho nem fêmea".
 - RC-044 (Cultura Demo) e RC-051 (Despina) permanecem **sem ficha**; B052 **não** entra nas fontes de RC-051. "Seres de outras paragens" (p. 41): **quarentena ufológica**.
+
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 14]** «diversas classes demoníacas», com genética mental das mutações «lenta e discretamente produzidas» pelo anjo-clone rebelde; o criador passa a monitorar seres que «podiam pensar e se multiplicar».
+- **[B035 p. 15]** «Com o surgimento dos demônios, esse modelo foi atingido de morte para sempre!» — o modelo dos «filhos-robôs» / «uma só vontade».
+- **[B035 p. 16–17]** estratificação: (a) Brahma / Vishnu / Shiva em formas demoníacas (mal convivem); (b) outras moradas demo, cada uma com «imperador demo»; (c) universo ainda sem «vida pensante natural».
+- **[B035 p. 17]** famílias demoníacas «padeciam de doenças» e a genética dos corpos demo não permitia expressar aquisições espirituais — **quarentena clínica**. RC-019 permanece **sem ficha**. Sem fusão com B052 / B044. Fonte **B035** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3910,6 +3935,13 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 - **[B019 p. 205]** "existir nesta Criação significa simplesmente ser uma 'criatura-ferramenta' de uma construção em curso no próprio universo! Aqui, não se vê 'deus' agindo, nem ninguém mais a não ser os próprios 'agentes da vida'."
 - **[B019 p. 205]** "o homem é a 'criatura-ferramenta' mais recente no 'Palco Universal'".
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 13]** lemma: contributo pessoal de cada «criatura-ferramenta» para «uma grande obra universal» segundo «critérios deformados» dos psiquismos da plêiade.
+- **[B035 p. 15]** as criaturas, «por serem meras extensões e ferramentas dele, receberiam as suas ordens, e agiriam no sentido de alimentá-lo com as atitudes por ele ordenadas».
+- Sem materializar RC-019. Sem fusão com B019 / B024. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -4147,6 +4179,15 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B037 p. 45]** cap. 6 *A Criação Problemática*: seres «superiores» podem errar; religiosidade estéril perante o «Deus Real».
 - **[B037 p. 71–72]** Shiva: «máquina de criar vidas»; «nada disto precisava mesmo de existir». Nota *nat:* recordações anteriores à queda na Criação «indevida».
 - Sem fusão com B024 / B001 / B041. RC-300 / RC-313 permanecem **sem ficha**.
+
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- Lemma «criação indevida» / «obra indevida» **não ocorre** na amostra. Bloco honesto: queda / criação que foge ao roteiro (autorizado). Sem interpolar o lemma.
+- **[B035 p. 4]** «Apesar do roteiro pré-estabelecido, surgem algoritmos que não foram produzidos pela sua mente»; «nem tudo acontece de modo a manter o jogo estabelecido»; peças se particularizam, «livres de qualquer jugo automático».
+- **[B035 p. 13–14]** o clone-rebelde golpeia o criador e impede a geração de clones a partir do «código de organização pessoal»; surge vontade própria.
+- **[B035 p. 15]** «o modo como o criador se recriou, após a queda sofrida».
+- **[B035 p. 17]** a criação «já havia sido acionada mesmo antes da queda de Brahma»; o que veio depois = «mero desdobramento». Sem fusão com B001 / B024 / B041 / B037. Fonte **B035** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -4655,6 +4696,14 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 - **Grafia preferida:** Big Data Cósmico
 - **Variações:** "big data" do Criador; supercontrole informacional; monitoramento genético cósmico
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 12]** cap. 2 *O Big Data Cósmico*. Abertura = `[TEXTO INCOMPLETO]` (bytes nulos no extract — não interpolar). O «personagem» ostenta mentalidade de «rei do processamento das informações da sua criação»; ditador, «dono das vidas das suas criaturas».
+- **[B035 p. 12–13]** acompanha-se de uma «plêiade» que obedece e sente impressões emocionais «como se funcionassem de modo coletivo»; acesso privilegiado, «de modo vergonhoso frente aos valores humanos no campo da ética», a «absolutamente todas as sequências genéticas de qualquer ser vivo», das quais retiram o contributo pessoal de cada «criatura-ferramenta».
+- **[B035 p. 13]** «Não há “big data” terreno que possa se aproximar da riqueza de informação de que esses seres dispõem», embora presos «em uma dimensão de realidade subjacente»; acompanham «as entradas e as saídas» das sequências de DNA identificadas com «mentes individualizadas»; continuidade de uma «mesma expressão mental» por trás de quem «morreu» e «renasce».
+- **Amostra (18 págs):** esta seção ancora as páginas do PDF arquivado (as fichas de 2026-08-12 nasceram desta amostra, sem âncora de página). Caps. 3–12 + posfácio = só sumário — **fora**. RC-197 / RC-019 permanecem **sem ficha**. RC-200 **não** ampliada (cap. 8 só no sumário). Cap. 1 (Weigend / Heidegger / Pentland / analogia política) = **referências externas + político-geopolítica, fora**. Sem fusão com B001. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -4702,6 +4751,13 @@ Consequência direta da queda do Criador: como todas as criaturas dividem "o mes
 ## Etimologia / Grafias
 - **Grafia preferida:** Simbiose Quântica
 - **Variações:** simbiose cósmica; interconectividade não-localizada (física quântica)
+
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 14]** «Devido ao que chamo de “simbiose quântica”, e ao que a física quântica classifica de interconectividade não-localizada, todos os seres mergulhados no âmbito do que foi gerado a partir da energia pessoal do criador caído coexistem, dividindo um mesmo mecanismo que interconecta instantaneamente o que cada uma das partes faz».
+- **[B035 p. 14–15]** *symbiosis* = associação de espécies distintas com vantagens recíprocas, «um só organismo»; o quântico = dimensões distintas interconectadas de modo não local. **Quarentena científica** (não-localidade / física quântica = analogia do autor, não fato validado).
+- **[B035 p. 15]** mesmo «tijolo básico»: «o gene do criador replicado em todas as suas criaturas»; nas criaturas a apropriação é lenta; no criador é «instantâneo, violento (para ele) e incontornável» — daí «o criador é refém das suas próprias criaturas». RC-196 permanece **sem ficha**. Sem fusão com B041. Fonte **B035** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

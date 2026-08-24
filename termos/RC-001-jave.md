@@ -110,6 +110,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B037 p. 32–33]** «Sou o que sou»; «eu sou aquele que é»; fim do isolamento; Adão, Enoch, Noé, Abraão, Moisés, Jesus e Maomé = agentes. Grafia *Enoch* = Enoque nas fichas.
 - **Quarentena clínica** («doente» por pensar que é Deus, p. 11; «louco», p. 10) = leitura, jamais diagnóstico. Anúncio falso de 2006 e TAP 25/06/2008 = **biográfica**. Sem fusão com B001 / B036 / B048. Naves dos «anjos» (p. 20) = **ufológica**.
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- Lemma «Javé» **não ocorre** na amostra. Sem interpolar o tetragrama. Identificação do criador com Brahma só na estratificação do cap. 2.
+- **[B035 p. 4–5]** mesmo bloco do «ser-criador» / jogo / supercontrole (bloco opcional autorizado). «cientista enlouquecido» = **clínica**.
+- **[B035 p. 16]** os três mais poderosos «passaram a ter as suas personalidades expressas em formas demoníacas, cujos nomes na mitologia ariana/hindu são Brahma, Vishnu e Shiva» e «passaram a compor a trimurti». Brahma «apresentava uma forma demo influenciável por tudo o que acontecia no âmbito da criação».
+- **[B035 p. 17]** «queda de Brahma»; a criação «já havia sido acionada mesmo antes» da queda. Sem materializar RC-037 / RC-102 / RC-135 / RC-104. Sem fusão com B001 / B036 / B048. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

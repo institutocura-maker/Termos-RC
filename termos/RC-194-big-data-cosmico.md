@@ -17,6 +17,14 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 - **Grafia preferida:** Big Data Cósmico
 - **Variações:** "big data" do Criador; supercontrole informacional; monitoramento genético cósmico
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- **[B035 p. 12]** cap. 2 *O Big Data Cósmico*. Abertura = `[TEXTO INCOMPLETO]` (bytes nulos no extract — não interpolar). O «personagem» ostenta mentalidade de «rei do processamento das informações da sua criação»; ditador, «dono das vidas das suas criaturas».
+- **[B035 p. 12–13]** acompanha-se de uma «plêiade» que obedece e sente impressões emocionais «como se funcionassem de modo coletivo»; acesso privilegiado, «de modo vergonhoso frente aos valores humanos no campo da ética», a «absolutamente todas as sequências genéticas de qualquer ser vivo», das quais retiram o contributo pessoal de cada «criatura-ferramenta».
+- **[B035 p. 13]** «Não há “big data” terreno que possa se aproximar da riqueza de informação de que esses seres dispõem», embora presos «em uma dimensão de realidade subjacente»; acompanham «as entradas e as saídas» das sequências de DNA identificadas com «mentes individualizadas»; continuidade de uma «mesma expressão mental» por trás de quem «morreu» e «renasce».
+- **Amostra (18 págs):** esta seção ancora as páginas do PDF arquivado (as fichas de 2026-08-12 nasceram desta amostra, sem âncora de página). Caps. 3–12 + posfácio = só sumário — **fora**. RC-197 / RC-019 permanecem **sem ficha**. RC-200 **não** ampliada (cap. 8 só no sumário). Cap. 1 (Weigend / Heidegger / Pentland / analogia política) = **referências externas + político-geopolítica, fora**. Sem fusão com B001. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

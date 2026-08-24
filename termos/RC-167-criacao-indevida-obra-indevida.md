@@ -51,6 +51,15 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B037 p. 71–72]** Shiva: «máquina de criar vidas»; «nada disto precisava mesmo de existir». Nota *nat:* recordações anteriores à queda na Criação «indevida».
 - Sem fusão com B024 / B001 / B041. RC-300 / RC-313 permanecem **sem ficha**.
 
+
+## Ampliação — B035 (O Big Data do Criador)
+
+- Lemma «criação indevida» / «obra indevida» **não ocorre** na amostra. Bloco honesto: queda / criação que foge ao roteiro (autorizado). Sem interpolar o lemma.
+- **[B035 p. 4]** «Apesar do roteiro pré-estabelecido, surgem algoritmos que não foram produzidos pela sua mente»; «nem tudo acontece de modo a manter o jogo estabelecido»; peças se particularizam, «livres de qualquer jugo automático».
+- **[B035 p. 13–14]** o clone-rebelde golpeia o criador e impede a geração de clones a partir do «código de organização pessoal»; surge vontade própria.
+- **[B035 p. 15]** «o modo como o criador se recriou, após a queda sofrida».
+- **[B035 p. 17]** a criação «já havia sido acionada mesmo antes da queda de Brahma»; o que veio depois = «mero desdobramento». Sem fusão com B001 / B024 / B041 / B037. Fonte **B035** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

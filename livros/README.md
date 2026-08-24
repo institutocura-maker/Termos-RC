@@ -57,3 +57,5 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 `CONCLUIDOS/B037_inquisicao_filosofica` — Devolutiva aplicada (2026-08-24); 10 fichas (RC-001, RC-104, RC-037, RC-167, RC-334, RC-245, RC-102, RC-422, RC-003, RC-571); B037 nas fontes das 10; 0 códigos; BIBLIO intocada. Sem apostila.
 
 `CONCLUIDOS/B049_jesus_e_nietzsche` — Devolutiva aplicada (2026-08-24); 6 fichas (RC-369, RC-371, RC-072, RC-253, RC-231, RC-273); B049 nas fontes de RC-273; 0 códigos; BIBLIO intocada. Sem apostila.
+
+`CONCLUIDOS/B009_muito_alem_do_horizonte` — Devolutiva aplicada (2026-08-24); 4 fichas (RC-094, RC-005, RC-072, RC-003); B009 nas fontes das 4; 0 códigos; BIBLIO intocada (`a confirmar`). Sem apostila.
