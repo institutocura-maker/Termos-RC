@@ -1,0 +1,13 @@
+O corpus deste ciclo é o extract paginado do Livro II:
+
+  livros/B025_caminhos_espirituais/original.txt
+
+SHA-256 d81890c5d78fe3af01ded3963bf77407baf47865ba2d9329cd82918b45982165
+227.366 bytes · ~34.373 palavras · págs 104–196.
+Todas as páginas do Livro II com texto extraível.
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Esclarecimento p. 108–109 (Atlan 02/09/1994).
+p. 105–106 = paratexto sem assinatura (não âncora).
+Partes I–V = mentores (isolados).
+B003 e B026 não estão neste extract.

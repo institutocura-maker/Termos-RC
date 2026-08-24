@@ -20,7 +20,7 @@ O nome da raiz é **minúsculo** (`livros/`), no padrão de `apostilas/`, `termo
 
 ## Ciclo em andamento
 
-*(nenhum ciclo integral em andamento — B025 e B026 permanecem na gaveta.)*
+`livros/B025_caminhos_espirituais/` — piloto aberto (2026-08-24); ingresso + dossiê enxuto; 0 códigos; BIBLIO intocada (`trabalhada`). Este ciclo = Livro II (págs 104–196). Aguarda Devolutiva O-1..O-8. **Não** fundir com B003 / B026. Corpo dos mentores = isolado.
 
 `livros/B027_nos_ceus_da_grecia/` — Devolutiva da **amostra** aplicada (2026-08-24); 2 fichas (RC-003, RC-072); B027 nas fontes de RC-072; 0 códigos; BIBLIO intocada (`amostra recebida`). **Não** mover para CONCLUIDOS como obra integral. Obra completa pendente. Sem apostila.
 

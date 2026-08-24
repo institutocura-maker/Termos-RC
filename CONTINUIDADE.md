@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B003 aplicada — 4 fichas, 0 códigos; B025/B026 na gaveta)  
+**Data de sincronização:** 2026-08-24 (piloto B025 — ingresso e dossiê enxuto; 0 códigos; B026 na gaveta)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B025 *Caminhos Espirituais* (abertura 2026-08-24) — **livro 2/3 Queda e Ascensão; B026 fora**
+
+- **PDF** = o mesmo da trilogia (SHA-256 `142d8daf…`; 428 págs). Este ciclo = **págs 104–196** = **B025**. Esclarecimento Atlan **02/09/1994**. Sem ISBN/CIP. **BIBLIO intocada** (`trabalhada` / 2000).
+- Ciclo em `livros/B025_caminhos_espirituais/` (fora de CONCLUIDOS até Devolutiva).
+- Extract do Livro II: ~34.373 palavras; SHA-256 `d81890c5d78fe3af01ded3963bf77407baf47865ba2d9329cd82918b45982165`.
+- **15 termos já citam B025**; 9 com ficha. Dossiê sugere só a voz de Ellam (Esclarecimento p. 108–109): RC-003, RC-072, RC-070. **0 códigos.** Partes I–V = mentores — isolados. RC-350/351/352/354 sem ficha.
+- Lemma Javé = 0; Jeová 13× no corpo isolado. Hitler = 0 neste extract. Sem Orbum neste volume. B026 (p. 197) **não processado**.
 
 ## Fase 2 — B003 *Reintegração Cósmica* (abertura 2026-08-24) — **livro 1/3 Queda e Ascensão; B025/B026 fora**
 
