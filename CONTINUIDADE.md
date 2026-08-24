@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (ingresso B001 — aguarda Devolutiva; B002/B033 não processados)  
+**Data de sincronização:** 2026-08-24 (Devolutiva B001 aplicada — 9 fichas, 0 códigos; B002/B033 aguardam)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B001 *O Drama Cósmico de Javé* (abertura 2026-08-24) — **vol. 1; B002/B033 fora**
@@ -11,6 +11,10 @@
 - **31 termos já citam B001**; 18 com ficha. Dossiê sugere RC-001, RC-041, RC-047, RC-204, RC-207, RC-210. **0 códigos.** RC-196/205/206/208–215/019/036/135 sem ficha. Lemma Trimurti **não ocorre**.
 - Decisão de lote: **não** processar B001+B002+B033 de uma vez (787 págs). B002 e B033 aguardam.
 - Orbum/roteiro (p. 322–327) fora. Quarentena mediúnica (CIP) + clínica (cap. 13 piloto). Sem fusão com B002/B033/B009.
+
+### Devolutiva B001 aplicada (2026-08-24)
+
+- O-1 confirmado (é B001; 327 págs; ISBN/CIP vizinhos de B009 = `[REVISAR]`; **não fundir**); O-2: 9 fichas ampliadas (RC-001, RC-041, RC-047, RC-204, RC-207, RC-210 + opcional **RC-167**, **RC-072**, **RC-052**); B001 nas fontes de RC-072; RC-196 **não** materializada; O-3: zero códigos; RC-205/206/208–215/019/036/135 sem ficha; O-4: metáfora do piloto fora; Sagan/Einstein/Charon/Kipling/Waters = externas; Orbum fora; B002/B033 **não** processados; O-5: trilogia = três nós; B009, B003, B013 intactas; O-6: **BIBLIO intocada**; O-7: quarentena mediúnica + clínica críticas; O-8: `_ampliacoes_B001.txt` aplicado; pasta em `livros/CONCLUIDOS/B001_o_drama_cosmico_de_jave/`. Sem apostila.
 
 ## Fase 2 — B023 *O Dharma e as Castas Hindus* (abertura 2026-08-24)
 

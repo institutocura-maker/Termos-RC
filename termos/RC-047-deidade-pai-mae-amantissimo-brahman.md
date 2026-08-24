@@ -24,6 +24,13 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **[B048 p. 36]** “todo-poderoso”, “justiceiro”, “povo prometido” = “coisa de um ser chamado Brahma, Javé ou Alá, mas nada tem a ver com a Deidade”; Esta “dá algo de si” (*atma*).
 - **[B048 p. 47–48]** Pai-Mãe Amantíssimo; mônadas com liberdade total. A ficha deixava de citar a obra primária (só B031). Sem fusão com B001 / B002.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 13]** cap. 1: a Deidade é «o único a quem deveríamos nos referir como sendo Deus, o Incognoscível»; personifica-se em Divindades Excelsas.
+- **[B001 p. 13]** o Pai Supremo, o Amantíssimo, é «uma das personificações da Deidade». RC-205 / RC-206 permanecem **sem ficha**.
+- **[B001 p. 11]** o Incognoscível «está acima de todas as divindades criadoras». Sem fusão com B048 / B002. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

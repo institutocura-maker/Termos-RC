@@ -121,6 +121,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B027 p. 7]** «É da vontade do Mestre que assim o seja!»; «conforme a vontade dEle, que é o reflexo maior do amor do Pai».
 - Ellam: «apenas um desses instrumentos que a Espiritualidade Maior utiliza». **Quarentena mediúnica** (canal, não ontologia). «outros orbes» = **ufológica**. Aviso de Gabriel/Tiago e o encontro do cap. 2 **fora**. RC-405 permanece **sem ficha**. Sem fusão com B009 / B011 / B043 / B049. Fonte **B027** acrescentada na tabela-mestra.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 8–9]** o «amoroso jugo suave» de Jesus «nada pede, nada quer, nada impõe»; o modo de Javé «não tem […] o menor traço que o aproxime» desse jugo.
+- **[B001 p. 9]** «O que mais Jesus nos pediu é que amássemos ao ser criador deste universo, que é exatamente o mesmo personagem»; Jesus «tinha e tem os seus motivos» para o pedido, «ainda que não possamos compreender o Senhor Javé».
+- **Quarentena teológica.** Sem fusão com B009 / B011 / B027. Fonte **B001** acrescentada na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

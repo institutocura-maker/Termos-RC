@@ -40,6 +40,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B035 p. 17]** «O criador nunca conseguiu “controlar” as informações pessoais que passaram a acontecer à revelia da sua vontade. Até hoje ele “sofre” com isso!» «desalmado» = «desprovido de alma» — **clínica / cosmologia, não diagnóstico**.
 - **[B035 p. 18]** «o criador precisava ser reconstruído continuamente, e disso sabiam Vishnu, Shiva e seus principais descendentes.» «doença do criador» / «corpos doentes» = **clínica**. Cap. 2 **trunca** aqui = `[TEXTO INCOMPLETO]`. Sem fusão com B001 / B044 / B041 / B048. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 11]** o criador deste universo é o mesmo personagem que Jesus pede que se ame; distinto do «Amantíssimo Pai, o Incognoscível»; Javé «precisa de nós» para unificar-se ao Pai; «divindade co-criadora» (p. 298).
+- **[B001 p. 11]** lemma «refém» na voz de Ellam — absorvido aqui; RC-196 **não materializada**.
+- Cap. 13 (p. 213–214): metáfora do cientista/piloto «enlouquecido» / «adoeceu» = **clínica / alegoria — fora da ontologia**. Sem fusão com B002 / B035. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

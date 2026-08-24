@@ -29,6 +29,12 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 - **[B048 p. 67]** “o único e verdadeiro Deus Pai-Mãe Amoroso, o Incognoscível, o Eterno, o Incriado”; “não tem entre os seus atributos” a imposição pela força.
 - Distinção Javé ≠ Incognoscível. Sem fusão com B043 / B019. A ficha deixava de citar a obra primária (só B031).
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 13]** «Deus, o Incognoscível» = a Deidade, «incompreensível e indescritível»; distinto das Divindades Excelsas e do criador deste universo.
+- **[B001 p. 11]** o Pai Incognoscível «está acima de todas as divindades criadoras»; a «parte sagrada» que sustenta cada ser. Sem fundir com Javé. Sem fusão com B048. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

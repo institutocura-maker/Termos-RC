@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B001 — O Drama Cósmico de Javé
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Dossiê enxuto em `analise/`. 0 códigos. BIBLIO intocada (`trabalhada`). Sem apostila. **PDF = obra integral (327 págs), vol. 1 da trilogia. B002 e B033 não fundidos e não processados neste ciclo.**
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-24).** 9 fichas ampliadas (RC-001, RC-041, RC-047, RC-204, RC-207, RC-210 + opcionais RC-167, RC-072, RC-052); B001 nas fontes de RC-072; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. B002/B033 não processados.
 
 ## 1. Identificação
 

@@ -125,6 +125,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B023 p. 14]** avatares (Krishna / Jesus / Sai Baba) «rendidos às necessidades da geopolítica da Lila» por «genética-demo» — **quarentena teológica**.
 - p. 85–90 («povos escolhidos» / nazismo / «doença mental») = **político + clínica — fora**. Sem fusão com B013 / B036. Fonte **B023** já constava na tabela-mestra.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 8–9]** Introdução: a partir de 2005/2007 Ellam distingue as hostes do Senhor Javé da hoste espiritual anterior; «O Senhor Javé – e as hierarquias que dele partem – simplesmente não tem no seu modo de agir o menor traço que o aproxime do jugo suave de Jesus». **Quarentena mediúnica** (canal; convivência relatada, não ontologia do médium).
+- **[B001 p. 9]** «não há nada, no campo da arquitetura do pensamento humano terráqueo, que possa dar guarida razoável à compreensão da exuberante e estranhíssima personalidade de Javé»; «O Senhor Javé nos ama, a seu modo».
+- **[B001 p. 11]** os seres da Terra e de outros mundos «dependem do Senhor Javé»; «sem a parceria com o Senhor Javé, nós não iremos a lugar nenhum»; «Javé precisa de nós e do nosso progresso para também se unificar ao Pai, o Incognoscível»; «penso que Javé é refém do progresso espiritual de todas as criaturas». RC-196 permanece **sem ficha**.
+- **[B001 p. 298]** Posfácio: Javé «na sua função natural de divindade criadora idealizou e realizou» a obra; Sagan = **referência externa**. Cap. 13 (piloto) **não ontologizado**. Sem fusão com B002 / B033 / B009. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

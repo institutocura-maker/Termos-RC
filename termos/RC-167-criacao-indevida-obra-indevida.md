@@ -60,6 +60,12 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B035 p. 15]** «o modo como o criador se recriou, após a queda sofrida».
 - **[B035 p. 17]** a criação «já havia sido acionada mesmo antes da queda de Brahma»; o que veio depois = «mero desdobramento». Sem fusão com B001 / B024 / B041 / B037. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 103]** «os problemas gerados com a criação indevida da divindade adoentada – e o repito, jamais planejada» — **quarentena clínica** («adoentada» = leitura, jamais diagnóstico).
+- **[B001 p. 280]** «prisão gerada pela criação indevida e desestruturada a nível espiritual». Sem fusão com B002 / B024 / B035. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

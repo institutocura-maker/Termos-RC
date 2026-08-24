@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 21190 | 212 | 16eff574901dcf37fa0e8dccf44594fefdc6017241e6870180eabb1b78621030
+# termos/RC-001-jave.md | 22488 | 220 | 693e9eb0f716e3a7aecb7dc366241484b386ceed70adcd5b8c5b390d6d3dbe62
 # termos/RC-002-rebeliao-de-lucifer.md | 5574 | 58 | 94b019eb1d35891227c5b45ce43e0cf48e626a24183517a0cc92fdaa73fd8621
 # termos/RC-003-reintegracao-cosmica.md | 9586 | 101 | 36feee7a719bd9f88ffd09b910745c8f8cd939887e5ea24ab9e05db54c45618b
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -18,17 +18,17 @@
 # termos/RC-009-sophia-cristo-cosmico.md | 24739 | 214 | 6903cac18071adbc6dad5030ebe47c0c474d006a8c4ae9d1022f48814beddc62
 # termos/RC-024-anunnakis.md | 6048 | 73 | 75ced3b99752ec9ba0aa3a306040668eb0102369fb5cd734c6ee1ca5f6100cf1
 # termos/RC-037-brahma-brajna.md | 6349 | 84 | 9397235bf28dcc78454732a2e02a0421081588246f0904f98f3b0fe490d429ed
-# termos/RC-041-criador-brahma-jave-demiurgo.md | 5455 | 67 | fbbc99ba4aaa514e4d5dc16ff7898c7bb1f292c4bb368764aecb2d6d33b484e9
+# termos/RC-041-criador-brahma-jave-demiurgo.md | 6055 | 74 | 56f06e394819c03abdf275109abe525e0e4d1a4cd040a83d62324906949c3e24
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
-# termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3262 | 57 | 75c3acc9b701da63287c6fd563d8a9d775c0d1f5abac84dc6def6635b10d18b3
+# termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 3772 | 64 | 16c6f8de32f8bd58aaf1199eefb5cc4d458c5bf6966c05b2f5f6daca4f307914
 # termos/RC-049-demos.md | 4715 | 67 | 229d5d24a3c71ca04ee50908a5c7b88375ecdea075dabe312ac78ecf78d27677
-# termos/RC-052-deus-deus-incognoscivel.md | 3381 | 54 | 77ce7f9e13c2c6b59443fd703e79c948a97b2d52b853b48f0d3191ea6ce41f24
+# termos/RC-052-deus-deus-incognoscivel.md | 3818 | 60 | 1f1486abb552baa5832b4827e280912ec7c348cc34634a2bd2502c44b9cbf5b9
 # termos/RC-055-en-drel.md | 2834 | 42 | 959fc5f0852f79bd883a076ce0e85cca0b0d64799409bccf3ab31803b87cb3c3
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
 # termos/RC-070-isolamento-cosmico.md | 4217 | 57 | 797b9a9a1ca49b90782fef2b56e0ecd9ce643fdd8c0a62b4ad5886cd7164509c
-# termos/RC-072-jesus.md | 18096 | 166 | 338a11a4f2ead6dccf853a60b9cbb7b13b7a5c5120a9a9c107eeb96fb23fce83
+# termos/RC-072-jesus.md | 18678 | 173 | d0bb92554540b620c48b5fea433c847c13691f7b0b2a0e526a5dc05f2ab100a6
 # termos/RC-074-len-mion-sata.md | 1937 | 45 | b08b34039e2cc4a7ea852bcdbb208de2d7dc2ffbd36da79868c901c42f378230
 # termos/RC-078-lucifer-yel-luzbel.md | 3464 | 54 | ef24529bbb957e4e587b6b4ee66edf4db4167963451b297092d97752d97c0be3
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -55,7 +55,7 @@
 # termos/RC-164-criaturas-ferramenta.md | 3932 | 67 | 1c086c52b006e88bcebea3cfb732f8a34d5b007d0d44715dcdc2c1a3a903efc1
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 8486 | 111 | be1de156167b33c63783cbefd8aab70152c47ab397d1d874dd0f6f6e728a2bdb
+# termos/RC-167-criacao-indevida-obra-indevida.md | 8925 | 117 | 3230da5c151bfd6801f12e0f97e6daf39b4dc8f8770997d71c619c3d18791c3d
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -66,9 +66,9 @@
 # termos/RC-194-big-data-cosmico.md | 4915 | 54 | e931167c707338ce3ee702a424584cb5316f3b4d20d817ac5f241b9e752bf49c
 # termos/RC-195-simbiose-quantica.md | 4107 | 48 | 55cd89db8a651be61ab9688b76aaa20256255084ff4476ef88de92fee97ce05d
 # termos/RC-200-base-de-dados-do-juizo-final.md | 1722 | 33 | 0cda9c7f334ccc66416d8ecb0c1d97705ae657f78acf4d774da67b7a3d4e9649
-# termos/RC-204-realidade-maior-paraiso-original.md | 2476 | 52 | 18679bb0b1b13350d1b68c7581de2b1704df232a07c715cc9f847b634ea68e1c
-# termos/RC-207-arquiteto-universal.md | 2746 | 43 | f55b2ac33ed0c08b86f8b9da18f709f81115e99d00dc94a85969d3296977aa65
-# termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 2839 | 48 | af7c9f6e13f35282dbdd095a31bdebba127efc54d1158c369f69da644191526d
+# termos/RC-204-realidade-maior-paraiso-original.md | 2902 | 58 | b257ba8d3a9bdbc68656c96d01b8c4de1e14d4618ca67c3408cf28846ea5729e
+# termos/RC-207-arquiteto-universal.md | 3388 | 49 | 21b85ab7c28d04bae554ef41b83cf3a1665c521b362bbcac43e48bc46f0b6e16
+# termos/RC-210-matriz-modeladora-matriz-de-cocriacao.md | 3391 | 54 | dc67589705ac10c33cbdbd46270aee62fd973e2b7fd8d2d076723e3a5a1b80a3
 # termos/RC-217-dna-como-projecao-holografica-do-psiquismo-do-criador.md | 7491 | 95 | 190e85690b7ce7a39836da9959b91a1cfd56e22f0476d54a4a7cef1cce5ce2b0
 # termos/RC-223-o-mal-subproduto-da-ignorancia-espiritual.md | 2564 | 42 | b4bbc254e8110cee006f63c9cca0d010253e26c7851a75e6c48fd0d93370846b
 # termos/RC-225-gestao-cosmica.md | 2788 | 42 | 2636ebb931a2960c72a4da5bfe8aca9f9c75352536e3ade864a017e81ec81c24
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1554138 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1559624 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -565,6 +565,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B023 p. 23]** «Criação de Brahma (ou de Javé)» — identificação no entroncamento de gêneros. Sem interpolar o bloco étnico da p. 85.
 - **[B023 p. 14]** avatares (Krishna / Jesus / Sai Baba) «rendidos às necessidades da geopolítica da Lila» por «genética-demo» — **quarentena teológica**.
 - p. 85–90 («povos escolhidos» / nazismo / «doença mental») = **político + clínica — fora**. Sem fusão com B013 / B036. Fonte **B023** já constava na tabela-mestra.
+
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 8–9]** Introdução: a partir de 2005/2007 Ellam distingue as hostes do Senhor Javé da hoste espiritual anterior; «O Senhor Javé – e as hierarquias que dele partem – simplesmente não tem no seu modo de agir o menor traço que o aproxime do jugo suave de Jesus». **Quarentena mediúnica** (canal; convivência relatada, não ontologia do médium).
+- **[B001 p. 9]** «não há nada, no campo da arquitetura do pensamento humano terráqueo, que possa dar guarida razoável à compreensão da exuberante e estranhíssima personalidade de Javé»; «O Senhor Javé nos ama, a seu modo».
+- **[B001 p. 11]** os seres da Terra e de outros mundos «dependem do Senhor Javé»; «sem a parceria com o Senhor Javé, nós não iremos a lugar nenhum»; «Javé precisa de nós e do nosso progresso para também se unificar ao Pai, o Incognoscível»; «penso que Javé é refém do progresso espiritual de todas as criaturas». RC-196 permanece **sem ficha**.
+- **[B001 p. 298]** Posfácio: Javé «na sua função natural de divindade criadora idealizou e realizou» a obra; Sagan = **referência externa**. Cap. 13 (piloto) **não ontologizado**. Sem fusão com B002 / B033 / B009. Fonte **B001** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1475,6 +1483,13 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 - **[B035 p. 17]** «O criador nunca conseguiu “controlar” as informações pessoais que passaram a acontecer à revelia da sua vontade. Até hoje ele “sofre” com isso!» «desalmado» = «desprovido de alma» — **clínica / cosmologia, não diagnóstico**.
 - **[B035 p. 18]** «o criador precisava ser reconstruído continuamente, e disso sabiam Vishnu, Shiva e seus principais descendentes.» «doença do criador» / «corpos doentes» = **clínica**. Cap. 2 **trunca** aqui = `[TEXTO INCOMPLETO]`. Sem fusão com B001 / B044 / B041 / B048. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 11]** o criador deste universo é o mesmo personagem que Jesus pede que se ame; distinto do «Amantíssimo Pai, o Incognoscível»; Javé «precisa de nós» para unificar-se ao Pai; «divindade co-criadora» (p. 298).
+- **[B001 p. 11]** lemma «refém» na voz de Ellam — absorvido aqui; RC-196 **não materializada**.
+- Cap. 13 (p. 213–214): metáfora do cientista/piloto «enlouquecido» / «adoeceu» = **clínica / alegoria — fora da ontologia**. Sem fusão com B002 / B035. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -1587,6 +1602,13 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **[B048 p. 31]** “Deidade ser somente amor”; “A Deidade não interfere em coisa alguma e nem muito menos os Seus Prepostos Deificados.”
 - **[B048 p. 36]** “todo-poderoso”, “justiceiro”, “povo prometido” = “coisa de um ser chamado Brahma, Javé ou Alá, mas nada tem a ver com a Deidade”; Esta “dá algo de si” (*atma*).
 - **[B048 p. 47–48]** Pai-Mãe Amantíssimo; mônadas com liberdade total. A ficha deixava de citar a obra primária (só B031). Sem fusão com B001 / B002.
+
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 13]** cap. 1: a Deidade é «o único a quem deveríamos nos referir como sendo Deus, o Incognoscível»; personifica-se em Divindades Excelsas.
+- **[B001 p. 13]** o Pai Supremo, o Amantíssimo, é «uma das personificações da Deidade». RC-205 / RC-206 permanecem **sem ficha**.
+- **[B001 p. 11]** o Incognoscível «está acima de todas as divindades criadoras». Sem fusão com B048 / B002. Fonte **B001** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1720,6 +1742,12 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 - **[B048 p. 13]** “o único e verdadeiro Deus, o Incognoscível, Aquele verdadeiramente Sagrado e doador de toda existência.”
 - **[B048 p. 67]** “o único e verdadeiro Deus Pai-Mãe Amoroso, o Incognoscível, o Eterno, o Incriado”; “não tem entre os seus atributos” a imposição pela força.
 - Distinção Javé ≠ Incognoscível. Sem fusão com B043 / B019. A ficha deixava de citar a obra primária (só B031).
+
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 13]** «Deus, o Incognoscível» = a Deidade, «incompreensível e indescritível»; distinto das Divindades Excelsas e do criador deste universo.
+- **[B001 p. 11]** o Pai Incognoscível «está acima de todas as divindades criadoras»; a «parte sagrada» que sustenta cada ser. Sem fundir com Javé. Sem fusão com B048. Fonte **B001** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2137,6 +2165,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B027 p. 7]** Esclarecimento: «essas sinfonias têm na pessoa do Mestre Jesus, o maestro amigo que, em profunda harmonia com os mentores e trabalhadores deste e de outros orbes, tomam nas mãos os instrumentos terrenos necessários para que a música possa ser escutada na esfera dos encarnados».
 - **[B027 p. 7]** «É da vontade do Mestre que assim o seja!»; «conforme a vontade dEle, que é o reflexo maior do amor do Pai».
 - Ellam: «apenas um desses instrumentos que a Espiritualidade Maior utiliza». **Quarentena mediúnica** (canal, não ontologia). «outros orbes» = **ufológica**. Aviso de Gabriel/Tiago e o encontro do cap. 2 **fora**. RC-405 permanece **sem ficha**. Sem fusão com B009 / B011 / B043 / B049. Fonte **B027** acrescentada na tabela-mestra.
+
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 8–9]** o «amoroso jugo suave» de Jesus «nada pede, nada quer, nada impõe»; o modo de Javé «não tem […] o menor traço que o aproxime» desse jugo.
+- **[B001 p. 9]** «O que mais Jesus nos pediu é que amássemos ao ser criador deste universo, que é exatamente o mesmo personagem»; Jesus «tinha e tem os seus motivos» para o pedido, «ainda que não possamos compreender o Senhor Javé».
+- **Quarentena teológica.** Sem fusão com B009 / B011 / B027. Fonte **B001** acrescentada na tabela-mestra.
 
 ## Fontes
 
@@ -4224,6 +4259,12 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B035 p. 15]** «o modo como o criador se recriou, após a queda sofrida».
 - **[B035 p. 17]** a criação «já havia sido acionada mesmo antes da queda de Brahma»; o que veio depois = «mero desdobramento». Sem fusão com B001 / B024 / B041 / B037. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 103]** «os problemas gerados com a criação indevida da divindade adoentada – e o repito, jamais planejada» — **quarentena clínica** («adoentada» = leitura, jamais diagnóstico).
+- **[B001 p. 280]** «prisão gerada pela criação indevida e desestruturada a nível espiritual». Sem fusão com B002 / B024 / B035. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -4873,6 +4914,12 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 - **Variações:** nível paradisíaco; Paraíso; matriz original.
 - **Termo externo local:** Ilha Estacionária do Paraíso, de *O Livro de Urântia*, mantido apenas como remissão/glossário.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 13]** «A Realidade Maior é pré-existente a tudo»; universo espiritual «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo».
+- «afirmam os Espíritos Codificadores» = **referência externa** (Kardec); Ellam relata, não ontologizar a codificação. Sem fusão com P2021-12-04. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -4926,6 +4973,12 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 - **Grafia preferida:** Arquiteto Universal
 - **Variações:** arquiteto universal (função); divindade menor co-criadora; "Arquiteto por Excelência"; identidade prévia: Prabrajna/Prajapati (RC-152)
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 14]** «era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal»; as divindades investidas «fazem-se sempre acompanhar por outros seres que a assessoram».
+- **[B001 p. 41]** cap. 3 *Arquiteto por Excelência, “Deus” por Necessidade*: expansão / Big Bang como processo da «vontade e do poder mental da divindade criadora» — **quarentena científica** (analogia do autor). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B002. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -4970,6 +5023,12 @@ A Matriz Modeladora é o que faltou ao Criador de Padrões Dependentes: o modelo
 ## Etimologia / Grafias
 - **Grafia preferida:** Matriz Modeladora
 - **Variações:** Matriz Modeladora Eterna; Fonte Primordial Formadora do Todo; padrão estruturante espiritual
+
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 23]** o modelo da divindade «não conseguiu estabelecer ponte de ressonância com a já referida Fonte Primordial Formadora do Todo ou Matriz Modeladora Eterna, de cujo concurso tudo depende»; sem esse concurso, «nada, absolutamente nada de material […] consegue tomar forma e existir transitoriamente».
+- **[B001 p. 57]** cap. 4 *Matriz Modeladora: Pano de Fundo da Criação*. RC-208 permanece **sem ficha**. Sem fusão com B015. Fonte **B001** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

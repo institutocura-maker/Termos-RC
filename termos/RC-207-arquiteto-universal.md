@@ -17,6 +17,12 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 - **Grafia preferida:** Arquiteto Universal
 - **Variações:** arquiteto universal (função); divindade menor co-criadora; "Arquiteto por Excelência"; identidade prévia: Prabrajna/Prajapati (RC-152)
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 14]** «era chegado o momento de mais uma divindade menor co-criadora apresentar-se para exercer a função de arquiteto universal»; as divindades investidas «fazem-se sempre acompanhar por outros seres que a assessoram».
+- **[B001 p. 41]** cap. 3 *Arquiteto por Excelência, “Deus” por Necessidade*: expansão / Big Bang como processo da «vontade e do poder mental da divindade criadora» — **quarentena científica** (analogia do autor). Sem fundir a função pré-queda com o Javé pós-queda. Sem fusão com B002. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

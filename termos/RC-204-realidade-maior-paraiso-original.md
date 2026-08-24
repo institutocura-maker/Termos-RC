@@ -18,6 +18,12 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 - **Variações:** nível paradisíaco; Paraíso; matriz original.
 - **Termo externo local:** Ilha Estacionária do Paraíso, de *O Livro de Urântia*, mantido apenas como remissão/glossário.
 
+
+## Ampliação — B001 (O Drama Cósmico de Javé)
+
+- **[B001 p. 13]** «A Realidade Maior é pré-existente a tudo»; universo espiritual «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo».
+- «afirmam os Espíritos Codificadores» = **referência externa** (Kardec); Ellam relata, não ontologizar a codificação. Sem fusão com P2021-12-04. Fonte **B001** já constava na tabela-mestra.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

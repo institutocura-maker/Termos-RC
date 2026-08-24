@@ -4,7 +4,7 @@
 **Nenhum código consumido. BIBLIO intocada.**  
 **B002 e B033 não entram neste dossiê.**
 
-Aguarda Devolutiva do curador (O-1..O-8).
+**DEVOLUTIVA APLICADA (2026-08-24).** O-1..O-8 aprovados. 9 fichas. ZERO códigos. Pasta em `livros/CONCLUIDOS/`. B002/B033 aguardam.
 
 ---
 
