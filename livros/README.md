@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum.
+`livros/B006_nos_bastidores_da_luz_i/` — piloto ingressado (2026-08-25); dossiê enxuto; **aguarda Devolutiva**; 0 códigos; BIBLIO intocada (`trabalhada` / 118 págs). Diversos Espíritos isolados (padrão B009). Prefácio Jether isolado. Sem apostila. **Não** mover para CONCLUIDOS antes da Devolutiva + aplicação.
 
 ## Amostras
 

@@ -1,0 +1,15 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B006_nos_bastidores_da_luz_i/original.txt
+
+SHA-256 61629134b2ce6f1205c8f481b69729dbf1e34da54659e03dede694f35bacebe5
+419.638 bytes · ~64.888 palavras · 118 págs.
+Nenhuma página sem texto extraível.
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Apresentação p. 1 + Esclarecimento p. 2–4 (Atlan 22/03/2000).
+Prefácio Jether Jacomini Filho = isolado.
+Personagens p. 4–7 = orientação dos mentores — isolado.
+Caps. 1–45 (Pergunta da plateia + Resposta dos espíritos) = isolados.
+Fechos p. 114–117 = Orbum / Esclarecimento Estratégico (fora da malha).
+Kardec / Ubaldi / Chico = referências externas (Prefácio isolado ou corpo isolado).

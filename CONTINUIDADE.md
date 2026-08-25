@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-25 (piloto B005 — ingresso e dossiê enxuto; 0 códigos)  
+**Data de sincronização:** 2026-08-25 (piloto B006 — ingresso e dossiê enxuto; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B006 *Nos Bastidores da Luz I* (abertura 2026-08-25)
+
+- **PDF ingressado** em `uploads_recepcao/nos-bastidores-da-luz-i-pdf-free.pdf` (531.621 bytes; SHA-256 `a6ba1c15cf47bb2a683f34324e848e31d154517d2228804b7fcf3a73d3da3481`; **118 págs** = **B006**, obra integral). Acrobat PDFMaker 11; Title «Nos Bastidores da Luz»; Author metadado **Jan Val Ellan** = `[REVISAR]`. CIP de capa: Diversos Espíritos. Esclarecimento Atlan **22/03/2000**. Sem ISBN/CIP catalográfico. **BIBLIO intocada** (`trabalhada` / 2000).
+- Ciclo em `livros/B006_nos_bastidores_da_luz_i/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~64.888 palavras; SHA-256 `61629134b2ce6f1205c8f481b69729dbf1e34da54659e03dede694f35bacebe5`. 118 págs todas com texto.
+- **13 termos já citam B006**; 2 com ficha. Dossiê sugere só Ellam: RC-388. **0 códigos.** Prefácio Jether isolado. Caps. 1–45 isolados. Orbum fora. Javé/Jeová = 0. Hitler = 0.
+- B007 / B008 / B009 / B005 / B003 = **não fundir**. Aguarda Devolutiva.
 
 ## Fase 2 — B005 *Fator Extraterrestre* (abertura 2026-08-25)
 
