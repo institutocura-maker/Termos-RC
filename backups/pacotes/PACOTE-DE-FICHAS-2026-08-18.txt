@@ -137,7 +137,7 @@
 # termos/RC-378-a-rebeliao-dos-eletrons.md | 6745 | 68 | c466d494f264c3a4d2788024640559cf5f85b584a220cf7df1c6a1643439d974
 # termos/RC-379-danca-dos-eletrons.md | 3367 | 48 | 5959e7400d0130f644a8a5e1fc44b3d72da94e6bf04533f4c2333bc2132bd5a4
 # termos/RC-382-a-vida-do-cfd-de-jave-no-ser-humano.md | 3985 | 53 | 5181e031d4c318fe634121ecc108dc2c4c9bd7eead66906ded117806c411b6f3
-# termos/RC-388-grupo-atlan.md | 2960 | 42 | 69330675f12ff36f6d6ff63020fda10cb92cb74e26ffc81e23dc351afaa3937f
+# termos/RC-388-grupo-atlan.md | 4291 | 49 | 2213e34910844b8b5f8669acf948b20df500cec379c9d382bd5482eb1b793261
 # termos/RC-395-ragnarok-em-marte.md | 4868 | 75 | 7175b2a24399e3aedd506995b2f24ab9e6ba0eed34ecca3bbe72425e0d816566
 # termos/RC-400-foz-coa-foxp2-simbolos.md | 2374 | 48 | 9dd4af194f857bef8138ce99a4d55b1707b99c32801caa956ed5d0f85a66303c
 # termos/RC-404-sentido-gradualistico-das-leis-da-evolucao-cosmica.md | 2804 | 44 | c3bd370367bf9fdb076012fbf7c8f627bff044aabb42bbd5c963ca5ea5c6ead9
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1610449 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1611780 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -9285,6 +9285,13 @@ O Esclarecimento do B006 narra a origem: "No início, era a Casa de Lucas. Centr
 ## Etimologia / Grafias
 - **Grafia preferida:** Grupo Atlan
 - **Variações:** Atlan (grupo de estudos); Casa de Lucas (nome anterior); Grupo Atlan (IEEA)
+
+
+## Ampliação — B006 (Nos Bastidores da Luz I)
+
+- **[B006 p. 1]** Apresentação (JAN VAL ELLAM): o livro oferta «um conjunto de reflexões» para a «percepção dos contextos espiritual e cósmico que envolvem a vida terrena».
+- **[B006 p. 2–4]** Esclarecimento (Atlan, 22/03/2000 — voz de Ellam): «No início, era a Casa de Lucas.» Com a presença de «seres cósmicos» distintos dos «espíritos desencarnados», o grupo e o recanto passaram a chamar-se **Atlan**. «Quatro, seis, às vezes oito reuniões por mês, desde o ano de 1986, foi a rotina de trabalho, em grupos de estudo, do autor terreno destas páginas.» Transcrições do período 11/11/1997–17/03/2000 (Manuel Pereira Júnior e Ricardo Frederico de Carvalho). «Este trabalho é dedicado a todos os membros da família Atlan.»
+- Prefácio de Jether Jacomini Filho **isolado**. Personagens p. 4–7 **isolados**. Caps. 1–45 **isolados**. «JAN VAL ELLAM» no cap. 41 = médium, **isolado**. RC-389 / RC-390 / RC-393 / RC-394 **não** materializadas. **Não** fundir com RC-028 (Atlan luciferiana). **Não** reancorar RC-003 a partir do cap. 38 (Enéas). Sem fusão com B007 / B008 / B009 / B005 / B003. Orbum / Esclarecimento Estratégico **fora**. **Quarentena mediúnica** (canal / reuniões). Fonte **B006** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

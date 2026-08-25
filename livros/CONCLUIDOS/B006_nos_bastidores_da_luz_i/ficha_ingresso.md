@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B006 — Nos Bastidores da Luz I
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Sem apostila. Pasta fora de `CONCLUIDOS/`. Sem fusão.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25).** 1 ficha ampliada (RC-388) só Apresentação + Esclarecimento; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Prefácio Jether e caps. 1–45 isolados. Sem fusão.
 
 ## 1. Identificação
 

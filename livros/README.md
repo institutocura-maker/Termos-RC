@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`livros/B006_nos_bastidores_da_luz_i/` — piloto ingressado (2026-08-25); dossiê enxuto; **aguarda Devolutiva**; 0 códigos; BIBLIO intocada (`trabalhada` / 118 págs). Diversos Espíritos isolados (padrão B009). Prefácio Jether isolado. Sem apostila. **Não** mover para CONCLUIDOS antes da Devolutiva + aplicação.
+Nenhum.
 
 ## Amostras
 
@@ -96,3 +96,5 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 `CONCLUIDOS/B021_tempos_dificeis_no_olimpo` — Devolutiva aplicada (2026-08-25); 8 fichas (RC-292, RC-293, RC-294, RC-295 + opcional RC-049, RC-086, RC-001, RC-241) só ensaio na voz de Ellam; B021 nas fontes de RC-001; 0 códigos; BIBLIO intocada. Zeus (Diálogo) e Pandora (cap. 2) isolados. Sem apostila.
 
 `CONCLUIDOS/B005_fator_extraterrestre` — Devolutiva aplicada (2026-08-25); 7 fichas (RC-355, RC-070, RC-357, RC-359 + opcional RC-003, RC-072, RC-094) só voz de Ellam; 0 códigos; BIBLIO intocada. Orbum / Esclarecimento Estratégico fora. Jeová p. 22 não reancora RC-001. Sem apostila.
+
+`CONCLUIDOS/B006_nos_bastidores_da_luz_i` — Devolutiva aplicada (2026-08-25); 1 ficha (RC-388) só Apresentação + Esclarecimento; 0 códigos; BIBLIO intocada. Diversos Espíritos e Prefácio Jether isolados. Sem apostila.
