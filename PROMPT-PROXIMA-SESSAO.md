@@ -4,7 +4,7 @@
 >
 > **Última atualização:** 2026-08-25 · AGENTE 11 · **CICLO B057 *A Revolta do Anjo Decaído* FECHADO** (Devolutiva O-1..O-8 aplicada: **10 fichas ampliadas + 7 criadas** — RC-142 = remissão de RC-078; **B086–B090 cadastradas**; **0 códigos**; 777/1.852 invariantes) · branch **`arena/01a03ad8-termos-rc`** (esteira 11; trouxe o tip `0d76442` da esteira 10 via fetch+reset).
 >
-> **Tarefa da sessão nova:** retomar o repasse dos livros — **próximo: piloto B058** *O Início da Revolta Capelina* (PDF já em `uploads_recepcao/`), com dossiê enxuto ao curador. **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
+> **Tarefa da sessão nova:** o curador decide — aplicar a **Devolutiva do B058** *O Início da Revolta Capelina* (piloto/dossiê desta esteira, em `livros/B058_inicio_da_revolta_capelina/analise/`), ou outra ordem. **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
 
 ---
 
@@ -21,7 +21,7 @@
 ## PROMPT PARA COLAR NO NOVO CHAT
 
 ```
-Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan Val Ellam. Esta é uma sessão de continuidade. A esteira 10 fechou a revisão de continuidade e os ciclos B074/B075 Mentalma; a esteira 11 (branch arena/01a03ad8-termos-rc) fechou o ciclo B057 A Revolta do Anjo Decaído (Devolutiva aplicada: 10 fichas ampliadas + 7 criadas — RC-142 = ficha de remissão para RC-078; B086–B090 cadastradas; B057 nas fontes de RC-085/444/491; 0 códigos) Próximo: piloto B058 O Início da Revolta Capelina (PDF já recebido). Aguardando a ordem do curador.
+Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan Val Ellam. Esta é uma sessão de continuidade. A esteira 10 fechou a revisão de continuidade e os ciclos B074/B075 Mentalma; a esteira 11 (branch arena/01a03ad8-termos-rc) fechou o ciclo B057 A Revolta do Anjo Decaído (Devolutiva aplicada: 10 fichas ampliadas + 7 criadas — RC-142 = ficha de remissão para RC-078; B086–B090 cadastradas; B057 nas fontes de RC-085/444/491; 0 códigos) e abriu o piloto B058 O Início da Revolta Capelina (ingresso + leitura integral + dossiê enxuto O-1..O-8 pronto). Aguardando a Devolutiva do B058 ou a ordem do curador.
 
 AUTORIDADE: o curador (Edson Cella Mendes) é a autoridade máxima. Você organiza, cruza, edita e audita. Nunca decida ontologia sem autorização. Conclusões são sempre sugestões.
 
@@ -33,13 +33,13 @@ PRIMEIRA AÇÃO (antes de qualquer edição):
 5. Leia PROMPT-PROXIMA-SESSAO.md (este) por inteiro — inclusive as seções Workspace × GitHub e Patrimônio da KB.
 6. Resuma o estado e aguarde confirmação do curador. NÃO abrir PR.
 
-ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 439 fichas físicas (438 ficha=True + RC-004 investigação False) · 93 obras (B001–B090 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 37 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento (B057 fechado; próximo B058).
+ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 439 fichas físicas (438 ficha=True + RC-004 investigação False) · 93 obras (B001–B090 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 37 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · piloto B058 em andamento (aguarda Devolutiva).
 
 FONTE DA VERDADE: o GitHub (branch da sessão: arena/01a03ad8-termos-rc). O Workspace da Arena é sandbox efêmero — o curador trabalha pelo GitHub, não pelo painel de arquivos da Arena. (Decisão do curador, 2026-08-25: sem investimento no Workspace.)
 
 ARTEFATOS DE LEITURA: base-terminologica.xlsx e base-terminologica-leitura.docx estão no GitHub (decisão do curador, 2026-08-25: cópia para download). Regenerar sempre com python3 ferramentas/build_indice.py && python3 ferramentas/build_xlsx.py && python3 ferramentas/build_word.py antes de qualquer commit que mude a base (são espelho; a fonte é dados_termos.py + Markdown).
 
-TAREFA DESTA SESSÃO: abrir o piloto B058 O Início da Revolta Capelina (PDF em uploads_recepcao/) e entregar o dossiê enxuto O-1..O-8 — ou a ordem que o curador der. Pendências de fundo: obras completas B027 e B035; B076–B078 Mentalma III–V (sem PDF); B085 Hyren-Hyron e B086–B090 (sem PDF); B059 (só físico). Não começar nada sem a obra nomeada.
+TAREFA DESTA SESSÃO: aplicar a Devolutiva O-1..O-8 do B058 (dossiê enxuto em livros/B058_inicio_da_revolta_capelina/analise/) — ou a ordem que o curador der. Pendências de fundo: obras completas B027 e B035; B076–B078 Mentalma III–V (sem PDF); B085 Hyren-Hyron e B086–B090 (sem PDF); B059 (só físico). Não começar nada sem a obra nomeada.
 
 MÉTODO DO CICLO DE LIVRO (padrão B019..B022, B074, B075, B057): PDF em livros/B0NN_slug/ (original.pdf + original.txt paginado, SHA-256) + ficha_ingresso.md + analise/ (camadas 0–3, LEITURA-1, DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md com O-1..O-8) → AGUARDA DEVOLUTIVA (0 códigos) → [aprovada] ampliações via analise/_ampliacoes_B0NN.txt + _aplicar_ampliacoes_B0NN.py (seção ## Ampliação — B0NN antes de ## Fontes) → validar → artefatos (índice, xlsx, docx) → DECISAO-DO-CURADOR.md + RELATORIO-DE-CICLO.md → mover para livros/CONCLUIDOS/ → atualizar CONTINUIDADE + livros/README.md + PROMPT-PROXIMA → push.
 
@@ -179,11 +179,11 @@ Trilogias Dramas / Terra Atlantis / Queda e Ascensão: **ENCERRADAS.**
 - **B086–B090 cadastradas** (5 obras de Jeane Miranda da p. 70; `identificada`; sem PDF). **O Funeral da Evidência = já era B068** (nenhuma duplicata; nota de B061 corrigida).
 - **B057 nas fontes de RC-085/RC-444/RC-491** (O-6). Grafias: "Shanlun" → Shanlung; datas 687 mil × 742 mil = variante anotada. Quarentenas: mediumística/ufológica/teológica/institucional.
 - Base: **777/1.852 invariantes**; 439 fichas; 93 obras; 37 livros em `CONCLUIDOS/`.
-- Próximo: **piloto B058** *O Início da Revolta Capelina* (PDF já em `uploads_recepcao/`).
+- **Piloto B058 *O Início da Revolta Capelina* aberto nesta esteira** (dossiê enxuto em `livros/B058_inicio_da_revolta_capelina/analise/` — **AGUARDA DEVOLUTIVA**; 0 códigos; sem prefácio de Ellam neste volume; notas da ed. 2022 citam Wikipédia e B031).
 
 HEAD: tip da branch `arena/01a03ad8-termos-rc` (esteira 11). PR **não** aberto.
 
-Pendências de livro (quando o curador quiser): **B058** (PDF recebido — piloto imediato); B059 *Sinais de Guerra em Capela* (só físico); B086–B090 (sem PDF); obras completas B027 e B035; B076–B078 *Mentalma III–V* (sem PDF); B085 *Hyren-Hyron* (sem PDF). Pendências menores: manifest versionado desatualizado (curador decide regenerar); CIP B074 `[REVISAR]`.
+Pendências de livro (quando o curador quiser): **Devolutiva B058** (dossiê pronto); B059 *Sinais de Guerra em Capela* (só físico); B086–B090 (sem PDF); obras completas B027 e B035; B076–B078 *Mentalma III–V* (sem PDF); B085 *Hyren-Hyron* (sem PDF). Pendências menores: manifest versionado desatualizado (curador decide regenerar); CIP B074 `[REVISAR]`.
 
 ---
 

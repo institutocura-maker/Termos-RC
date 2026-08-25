@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum (B057 fechado em 2026-08-25). **Próximo: B058 *O Início da Revolta Capelina*** (PDF já em `uploads_recepcao/`) — na ordem do curador.
+`B058_inicio_da_revolta_capelina/` — ingresso + leitura integral (76 págs) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; **sem prefácio de Ellam** neste volume). B059 (vol. 3) sem PDF (somente físico) — radar completo.
 
 ## Último ciclo
 

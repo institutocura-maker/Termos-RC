@@ -1,0 +1,11 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B058_inicio_da_revolta_capelina/original.txt
+
+SHA-256 e6c692fe597fe7f3a8e1ac8246657d8050666d524252020961983d814d9d64be
+177.776 bytes · ~27.310 palavras · 76 págs. (paginação do livro = PDF − 4)
+Sem páginas vazias. Sem \x00. Sem marca d'água. Nada interpolado.
+**EDIÇÃO RECEBIDA:** "Corrigido e Adaptado por Gullan Greyl" (http://www.gullangreyl.pt; 28-11-2022) — português europeu ("perspetiva", "facto", "connosco", "atualizámos"); metadado PDF: autor "Gallian Greyl" (o adaptador), título em branco, producer "Adobe PDF Library 21.7.123" (criação 28-11-2022).
+Voz: psicografia em 1ª pessoa de **Yel Luzbel** (voz isolada, padrão B022/B057) + NOTA DO AUTOR EXTRATERRESTRE (Yel — "Imagem e Reflexo") + NOTA DA AUTORA TERRENA (Jeane, com citação de Krishnamurti) + PARA YEL LUZBEL (dedicatória de Adilson Reane). **Sem prefácio de Ellam neste volume.**
+Paratexto: SINTESE (p. 1); notas de rodapé numeradas com **FONTES EXTERNAS** — Wikipédia (Antares p. 37; equivalência massa-energia p. 41; Scorpius p. 41; Tau Ceti p. 46) e **B031 "Painéis Emergentes da Revelação Cósmica" de Raqueyel Braga** (nota sobre Dan, p. 41); nota 2 p. 37 distingue a Universidade de Tau Ceti da escola de Zion (cross RC-146); nota 2 p. 13 (astronomia de Capella: 42 anos-luz; 150× mais brilhante; 16× maior que o Sol); erro do artefato: nota 1 p. 13 grafou "A Revolto do Anjo Decaído".
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).
