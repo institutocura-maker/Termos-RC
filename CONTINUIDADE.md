@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-25 (Devolutiva B006 aplicada — 1 ficha, 0 códigos)  
+**Data de sincronização:** 2026-08-25 (piloto B022 — ingresso e dossiê enxuto; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B022 *Inquisição Trimurtiana* (abertura 2026-08-25)
+
+- **PDF ingressado** em `uploads_recepcao/Inquisicao Trimurtiana (Tempo de apostasia) - Jan Val Ellam.pdf` (1.874.774 bytes; SHA-256 `236f72c840161a388508fdc3175a80d588d1e44ff8fe8bdedad40a7abaef47c5`; **174 págs** = **B022**, obra integral). calibre 3.48; Title com subtítulo; Author Jan Val Ellam. Introdução Atlan **30/11/2015**. CIP 244 p. × PDF 174 = `[REVISAR]`. ISBN 978-85-62411-34-2 extraível — **não gravar**. **BIBLIO intocada** (`trabalhada` / ano «—»).
+- Ciclo em `livros/B022_inquisicao_trimurtiana/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~65.016 palavras; SHA-256 `bff374d74d753daa06837a1f891fccd7fd4b818fa65c34235e428137259ca241`. p. 1 sem texto.
+- **26 termos já citam B022**; 12 com ficha. Dossiê sugere RC-310, RC-311, RC-308, RC-104, RC-314. **0 códigos.** Introdução + Posfácio = Ellam. Falas da Trimurti isoladas. Orbum/IEEA fora. Hitler = 0. Jeová = 0.
+- B037 / B029 / B079 = **não fundir**. Aguarda Devolutiva.
 
 ## Fase 2 — B006 *Nos Bastidores da Luz I* (abertura 2026-08-25)
 

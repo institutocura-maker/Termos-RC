@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum.
+`livros/B022_inquisicao_trimurtiana/` — piloto ingressado (2026-08-25); dossiê enxuto; **aguarda Devolutiva**; 0 códigos; BIBLIO intocada (`trabalhada` / 174 págs). Introdução + Posfácio = Ellam. Trimurti isolada. Sem apostila. **Não** mover para CONCLUIDOS antes da Devolutiva + aplicação.
 
 ## Amostras
 

@@ -1,0 +1,13 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B022_inquisicao_trimurtiana/original.txt
+
+SHA-256 bff374d74d753daa06837a1f891fccd7fd4b818fa65c34235e428137259ca241
+412.345 bytes · ~65.016 palavras · 174 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Introdução p. 4–7 + Posfácio p. 158–162 + narração em 1ª pessoa nos caps. 1–10.
+Falas de Brahma / Vishnu / Shiva (diálogo) = isoladas.
+Fechos p. 163–174 = autor / Orbum / roteiro / IEEA / CIP (fora da malha).
+Kardec (Sobre o Autor) = referência externa.
