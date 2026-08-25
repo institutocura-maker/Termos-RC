@@ -25,6 +25,14 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 - **Crime de Jesus:** agredir a Timé de um arconte é crime no conselho — Jesus invadiu o Tártaro (Timé de Hades e Belial) → processo aberto contra Jesus, sem resolução até hoje.
 - **Aumento de Timé:** cada ser que assumia assento no conselho dos 70 tinha a Timé aumentada — motivo de guerras e perseguição a humanos (ex.: Apolo obrigado a "se livrar" de jogadores humanos).
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 8]** extrafísicos «ainda se encontram sob a égide (custódia) da timé de Zeus».
+- **[B021 p. 10–11]** ensaio: «Para um deus, quanto mais cidades "conquistadas", preces de prestígios recebidas, como também sacrifícios endereçados a ele, maior seria a sua timé.» «o que de mais tenebroso pode acontecer a um deus é ter a sua honra atingida devido à perda da sua timé.» Domínio = «morada» ou geno; sem ela, risco de «sem-teto». Timé também = esfera de atribuições / «talento pessoal» = sânscrito «varna». Jaa Torrano / Hesíodo = **referência externa, não ontologia**.
+- **[B021 p. 13]** a timé de Zeus «foi duramente atingida»; o mesmo ocorreu «com a de todos os seres tidos como "deuses"».
+- **[B021 p. 157]** Notas: reitera a definição (timaí; varna). Falas de Zeus **isoladas**. RC-145 **não** materializada. Sem fusão com B020. Fonte **B021** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

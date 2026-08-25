@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-25 (piloto B021 — ingresso e dossiê enxuto; 0 códigos)  
+**Data de sincronização:** 2026-08-25 (Devolutiva B021 aplicada — 8 fichas, 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B021 *Tempos Difíceis no Olimpo* (abertura 2026-08-25)
@@ -10,6 +10,10 @@
 - Extract: ~57.760 palavras; SHA-256 `9347b6a8bfbc840037bf8b357b5332a3033b29c019a74a0d054387d80b2a9f5e`. p. 1 sem texto.
 - **29 termos já citam B021**; 16 com ficha. Dossiê sugere RC-292, RC-293, RC-294, RC-295. **0 códigos.** Ensaio = Ellam. Falas de Zeus (Diálogo p. 146–149) e de Pandora (cap. 2) isoladas. RC-145 **não** materializar.
 - Hitler = 0. B020 = remissão, **não fundir**. Aguarda Devolutiva.
+
+### Devolutiva B021 aplicada (2026-08-25)
+
+- O-1 confirmado (é B021; 174 págs; Author metadado Jan Ellam = `[REVISAR]`; ISBN digital ignorado; Introdução Atlan 01/01/2022 = bloco novo); O-2: 8 fichas ampliadas (**RC-292**, **RC-293**, **RC-294**, **RC-295** + opcional **RC-049**, **RC-086**, **RC-001**, **RC-241**) só Introdução + corpo do ensaio + Notas (voz de Ellam); B021 nas fontes de RC-001; Diálogo Inusitado e falas de Pandora (cap. 2) isolados; RC-145 **não** materializada; RC-283/284/285 **não** reancoradas; O-3: zero códigos; O-4: falas mediúnicas banidas; Hesíodo / Kardec / Matrix = externas; Themis × Têmis e Hefestos × Hefesto = `[REVISAR]`; Orbum/IEEA fora; O-5: B020, B001, B003, B016, B022 e B056 intactas; O-6: **BIBLIO intocada** (`trabalhada` / 174 págs / ISBN 978-65-86157-20-8); O-7: quarentena mediúnica crítica (Zeus / Pandora) + clínica («demência» / «dementes» / «doença» = leitura, jamais diagnóstico) + científica, ufológica, teológica, biográfica, institucional; O-8: `_ampliacoes_B021.txt` aplicado; pasta em `livros/CONCLUIDOS/B021_tempos_dificeis_no_olimpo/`. Sem apostila.
 
 ## Housekeeping — `livros/AMOSTRAS/` (2026-08-24)
 

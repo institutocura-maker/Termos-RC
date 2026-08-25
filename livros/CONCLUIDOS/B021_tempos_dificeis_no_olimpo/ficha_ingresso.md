@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B021 — Tempos Difíceis no Olimpo
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Sem apostila. Pasta fora de `CONCLUIDOS/`. Sem fusão.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25).** 8 fichas ampliadas (RC-292, RC-293, RC-294, RC-295 + opcional RC-049, RC-086, RC-001, RC-241) só ensaio na voz de Ellam (Introdução + corpo + Notas); B021 nas fontes de RC-001; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Sem fusão.
 
 ## 1. Identificação
 

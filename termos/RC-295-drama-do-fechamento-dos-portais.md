@@ -17,6 +17,13 @@ O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam d
 - **Grafia preferida:** Drama do Fechamento dos Portais
 - **Variações:** fechamento dos portais; fim dos portais naturais; o "Drama do Fechamento dos Portais"
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 9]** portais «foram se fechando, movidos pela "entropia universal"»; «lacre do destino» (bloqueio total) «no ano de 2012». **Quarentena ufológica / científica** (entropia / 2012 = leitura).
+- **[B021 p. 15–16]** quando as passagens se fecharam, os entes do universo paralelo «tiveram que permanecer apenas do lado de lá».
+- **[B021 p. 127–128]** cap. 21: tema «ausente nos estudos humanos»; «a partir desse evento se acabou o engodo dos deuses». Pitonisas/oráculos = descrição do ensaio; RC-296 permanece **sem ficha**. «Dementes» (p. 128) = **clínica — fora da ontologia**. Falas de Zeus **isoladas**. Sem fusão com B024 / B001. Fonte **B021** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

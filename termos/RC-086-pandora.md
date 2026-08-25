@@ -36,6 +36,12 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[B020 p. 7]** os escritos «são frutos de uma atitude unilateral da sua parte»; semearam «curiosidade indevida numa mente já cansada […] como é o caso deste aflito escrevente». **Quarentena mediúnica** (canal / «escrevente», não ontologia do médium).
 - **[B020 p. 115–120]** Posfácio (18/08/2014, aeroporto de Salvador): Ellam relata o encontro e, na própria fala, aceita publicar «em sua homenagem». Falas de Pandora no diálogo **isoladas** (padrão B034). Caps. 1–14 **isolados**. Sem extrair RC-118 (lemma Val Dimon **ausente** neste PDF). Sem reancorar RC-283 / RC-284 / RC-285 / RC-286 / RC-287 / RC-242 a partir da narrativa. Sem fusão com B021 / B056 / B028 / B015 / B052. ART-2026-08-18 permanece **secundária**. Fonte **B020** já constava na tabela-mestra.
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 17]** cap. 2 (voz de Ellam): «Depois que produzi o primeiro livro com Pandora» = remissão a **B020**, **não fundir**. Falas diretas de Pandora no capítulo **isoladas** (padrão B020 / B034).
+- **[B021 p. 18–19]** ensaio: após a metamorfose «a de Pandora» «que levou um demo a se transformar numa fêmea Homo sapiens». Sem extrair RC-118 / RC-299 a partir da nota p. 164 (Kalil/Kadmon). Sem reancorar RC-283 / RC-284 / RC-285. RC-145 **não** materializada. Diálogo Inusitado **isolado**. Sem fusão com B020 / B056 / B001. Fonte **B021** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

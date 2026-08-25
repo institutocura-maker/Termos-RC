@@ -18,6 +18,14 @@ O "Eon de Khaos" é o nome grego para o universo antimaterial (Brahmaloka) visto
 - **Variações:** Universo de Caos; Eon de Khaos (grafia grega); genos/eons (moradas)
 - **Idioma de origem:** grego (αιών = era/mundo; khaos = caos)
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 10–11]** «inúmeros genos que compõem o "Eon de Khaos", ou seja, o "Universo de Caos"».
+- **[B021 p. 12]** «em todo o eon de Caos (Brahmaloka, o universo antimaterial)». RC-038 permanece **sem ficha**.
+- **[B021 p. 24]** dois eons: o biológico «planejado»; o antimaterial «improvisado» quando o Criador «caiu». **Quarentena científica** (quarks / Big Bang = leitura do autor).
+- **[B021 p. 157–158]** Notas: «eon» tanto «universo» quanto «geno»; «Eon de Khaos» = «universo do Criador caído». Sem reancorar RC-284 / RC-283 / RC-285. Sem materializar RC-038 / RC-077. Sem fusão com B020. Fonte **B021** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

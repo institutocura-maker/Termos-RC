@@ -40,6 +40,13 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B023 p. 24]** «ética demo» / «honra demo» como base das castas; «nós, humanos, deles herdamos essas convenções».
 - Sem materializar RC-322 / RC-044. Sem fusão com B052 / B044. Fonte **B023** já constava na tabela-mestra.
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 13]** nas mitologias originais os entes eram classificados como demônios (demos); a palavra «deus» surge depois, com as religiões. «Dementes» = **quarentena clínica**.
+- **[B021 p. 18]** ensaio: «todo ser demo tem um quê de "demência"» = **clínica** (construto cosmológico, jamais diagnóstico).
+- **[B021 p. 41]** cap. 6: «diferença de ordem corporal e psíquica existente entre demos e humanos»; «Demônios e humanos também são figuras à parte, que conviviam, mas não se compreendiam». Falas de Zeus **isoladas**. Sem materializar RC-040 / RC-044 / RC-145. Sem fusão com B020 / B052. Fonte **B021** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

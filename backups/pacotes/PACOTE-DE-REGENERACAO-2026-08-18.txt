@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# ferramentas/dados_termos.py | 276155 | 2954 | fc20ca646b997d368d32ad313714acd9a71dfffe36c078504e4d0ef20720851b
+# ferramentas/dados_termos.py | 276163 | 2954 | 7cef2ecae1788ed9762a93a2ad234497db4be55a7a7242f8d87d497d52b2e174
 # ferramentas/build_indice.py | 2868 | 50 | cdd60911caff9699a47e7eff543aaca38e091a46d1faad70f61dab03a57db81b
 # ferramentas/build_xlsx.py | 53563 | 352 | 4b14c6ef590c47a9f4c3edbe015b77c09b7d1df8b1bf4c9868fd5eb58fa9e32b
 # ferramentas/build_word.py | 14618 | 333 | 5a4c9499774404bd429f6408fdcfc66cc659af2c230eab27f0141c4890e28d29
@@ -17,7 +17,7 @@
 # ferramentas/restaurar_pacotes.py | 5986 | 151 | 78ae9f265196ebab59e64c05e4216edaada7c30f4e79347df19aec2265f9b269
 # ferramentas/gerar_pacotes.py | 8381 | 204 | 2f8a54a7f2dd8f05b443808703fe3ecfba8fd4b6e2d19de166b5698062ea521e
 # README.md | 8323 | 135 | 8445ab5f17a2ac026253ddd745d5ead6afd055793c1432aaaa684a85a968db90
-# CONTINUIDADE.md | 167016 | 1334 | e4e74fe8c105b1465c99ae723ee7f3aa943b8b4325c6fa705e67a9a0312d40a2
+# CONTINUIDADE.md | 169607 | 1352 | 64c0822cbb7d2ac9c999ff184027d7bc9fec8517088d0760a4a0361c0295263b
 # convencoes-editoriais-rc.md | 4626 | 125 | 92d2651d1839fec2d6ca0817dfc325d4fe52bc57908e45fb64fdefe133acd44c
 # 01-ficha-modelo.md | 2893 | 74 | 6552a5c1eaa750518a87d74141746aac2482c429a67e7065ad9105ba95a4c2c1
 # 02-vocabulario-controlado.md | 4416 | 74 | dcc5c169d90680585c322fe13e6d6c163b336248440f5e6fa5b7640dbd18cc1a
@@ -26,7 +26,7 @@
 # apostilas/INDICE-PALESTRAS.md | 18094 | 55 | ca23faf93fd932d7db4626d9c77ffaa09de7fad77790ae5de05da55e3a40a5b0
 # apostilas/INDICE-CURADOR-2026-08-17.txt | 2377 | 25 | 5c184acf0d8e4e0aebbf10334cc7e49d8571caf59346e37858be06070b80c046
 #
-# TOTAL: 17 arquivos; 618865 bytes de conteúdo embutido.
+# TOTAL: 17 arquivos; 621464 bytes de conteúdo embutido.
 ===ARQ: ferramentas/dados_termos.py===
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
@@ -110,7 +110,7 @@ C = "candidato"    # ⚪ — identificado, sem ficha
 # (codigo, nome, categoria, subcategoria, status, fontes, relacionados, ficha)
 TERMOS = [
     # ---- Pré-existentes (RC-001..RC-010)
-    ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'B043', 'B037', 'B039', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
+    ("RC-001", "Javé", SER_DIV[0], SER_DIV[1], P, ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B013', 'B014', 'B020', 'B021', 'B023', 'B048', 'B003', 'B025', 'B026', 'B034', 'B036', 'B060', 'B019', 'B043', 'B037', 'B039', 'P2022-12-17', 'P2026-07-30', 'P2024-05-04', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2024-04-13', 'P2024-04-14', 'P2026-08-04', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2025-11-29'], 'RC-002; RC-003; RC-007; RC-009; RC-037; RC-041; RC-052; RC-660; RC-661; RC-662; RC-666; RC-717; RC-736; RC-261; RC-604; RC-630; RC-769', True),
     ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'B017', 'P2024-03-03', 'P2024-04-13'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
     ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'B037', 'B009', 'B017', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
     ("RC-004", "Elohim", SER_COL[0], SER_COL[1], C, ["B061", 'P2024-09-28'], "RC-001; RC-474", False),
@@ -4582,8 +4582,26 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ===ARQ: CONTINUIDADE.md===
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (Devolutiva B020 aplicada — 5 fichas, 0 códigos)  
+**Data de sincronização:** 2026-08-25 (Devolutiva B021 aplicada — 8 fichas, 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B021 *Tempos Difíceis no Olimpo* (abertura 2026-08-25)
+
+- **PDF ingressado** em `uploads_recepcao/Tempos Dificeis no Olimpo - Jan Val Ellam.pdf` (1.760.082 bytes; SHA-256 `98a71fb3c9239bc6fd4d8ba2c5482b9a86e9a67ea0121e563ba863c1183cbaaa`; **174 págs** = **B021**, obra integral). calibre 3.48; Title correto; Author metadado **Jan Ellam** = `[REVISAR]`. Introdução Atlan **01/01/2022**. ISBN Papel já na BIBLIO; Digital 978-65-86157-19-2 — **não gravar**. **BIBLIO intocada** (`trabalhada` / 2022).
+- Ciclo em `livros/B021_tempos_dificeis_no_olimpo/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~57.760 palavras; SHA-256 `9347b6a8bfbc840037bf8b357b5332a3033b29c019a74a0d054387d80b2a9f5e`. p. 1 sem texto.
+- **29 termos já citam B021**; 16 com ficha. Dossiê sugere RC-292, RC-293, RC-294, RC-295. **0 códigos.** Ensaio = Ellam. Falas de Zeus (Diálogo p. 146–149) e de Pandora (cap. 2) isoladas. RC-145 **não** materializar.
+- Hitler = 0. B020 = remissão, **não fundir**. Aguarda Devolutiva.
+
+### Devolutiva B021 aplicada (2026-08-25)
+
+- O-1 confirmado (é B021; 174 págs; Author metadado Jan Ellam = `[REVISAR]`; ISBN digital ignorado; Introdução Atlan 01/01/2022 = bloco novo); O-2: 8 fichas ampliadas (**RC-292**, **RC-293**, **RC-294**, **RC-295** + opcional **RC-049**, **RC-086**, **RC-001**, **RC-241**) só Introdução + corpo do ensaio + Notas (voz de Ellam); B021 nas fontes de RC-001; Diálogo Inusitado e falas de Pandora (cap. 2) isolados; RC-145 **não** materializada; RC-283/284/285 **não** reancoradas; O-3: zero códigos; O-4: falas mediúnicas banidas; Hesíodo / Kardec / Matrix = externas; Themis × Têmis e Hefestos × Hefesto = `[REVISAR]`; Orbum/IEEA fora; O-5: B020, B001, B003, B016, B022 e B056 intactas; O-6: **BIBLIO intocada** (`trabalhada` / 174 págs / ISBN 978-65-86157-20-8); O-7: quarentena mediúnica crítica (Zeus / Pandora) + clínica («demência» / «dementes» / «doença» = leitura, jamais diagnóstico) + científica, ufológica, teológica, biográfica, institucional; O-8: `_ampliacoes_B021.txt` aplicado; pasta em `livros/CONCLUIDOS/B021_tempos_dificeis_no_olimpo/`. Sem apostila.
+
+## Housekeeping — `livros/AMOSTRAS/` (2026-08-24)
+
+- Criada `livros/AMOSTRAS/` (feminino: amostra). B027 e B035 saíram da raiz de `livros/` — **não** foram para CONCLUIDOS.
+- Se a obra completa subir: ciclo novo em `livros/B0NN_slug/`. A pasta da amostra fica como testemunho. BIBLIO permanece `amostra recebida`.
+- 0 códigos. Base intocada.
 
 ## Fase 2 — B020 *O Sorriso de Pandora* (abertura 2026-08-24)
 
@@ -4737,26 +4755,26 @@ python3 ferramentas/build_apostila.py apostilas/YYYY-MM-DD_slug_resumido/apostil
 ## Fase 2 — B027 *Nos Céus da Grécia* (abertura 2026-08-24) — **AMOSTRA**
 
 - **PDF ingressado** em `uploads_recepcao/Nos Céus da Grécia.pdf` (1.054.688 bytes; SHA-256 `5ffaaac415581b4ba3dcfabc32dab1b1c9600d13912d369ed1d5a32700aa8567`; **14 págs** = amostra B027, **não** a obra completa). Metadado calibre Title = «Nos Céus da Grécia - Sample». Esclarecimento Atlan 24/11/1992. Cap. 3 trunca na p. 14. **BIBLIO intocada** (permanece `amostra recebida`).
-- Ciclo em `livros/B027_nos_ceus_da_grecia/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
+- Ciclo em `livros/AMOSTRAS/B027_nos_ceus_da_grecia/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
 - Extract paginado: ~2.388 palavras; SHA-256 `5686a4f9a9d07163cc478ee874dd80104d9c763399420ffcd3825f7d1431863a`. p. 1 sem texto; p. 5, 8, 11 e 14 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
 - **9 termos já citam B027**; 4 com ficha. Dossiê sugere ampliar só a voz de Ellam no Esclarecimento: RC-003, RC-072. **0 códigos.** RC-405/406/407/059/071 sem ficha — não materializar. RC-404 = lemma na fala de Gabriel/Tiago — não ampliar sem autorização.
 - Caps. 4–13 e IEEA/Orbum/entrevista só no sumário — fora. Quarentena mediúnica (instrumento / Gabriel e Tiago / os três filósofos). Sem fusão com B003/B033/B021. **Não fundir** RC-404 com B009 p. 350 nem com B053.
 
 ### Devolutiva B027 (amostra) aplicada (2026-08-24)
 
-- O-1 confirmado (é B027; PDF = **Sample** de 14 págs; cap. 3 trunca na p. 14; **não** promover a `trabalhada`); O-2: 2 fichas ampliadas (**RC-003**, **RC-072**) só com o Esclarecimento p. 6–7; lemma «reintegração cósmica» não ocorre como locução fechada (bloco honesto: «reintegrada à convivência cósmica»); B027 acrescentado nas fontes de RC-072 (já constava em RC-003); **veto** RC-404 (fala de Gabriel/Tiago), RC-094 e RC-226; O-3: zero códigos; RC-405/406/407/059/071 sem ficha; Gabriel / Tiago / filósofos sem código; O-4: caps. 4–13 + entrevista ignorados; sinopse = paratexto; `[TEXTO INCOMPLETO]` e «inciarmos» sem interpolação; IEEA/Orbum fora; O-5: B003, B033 e B021 intactas; RC-404 **não** fundida com B009 p. 350 nem com B053; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena mediúnica crítica (canal / aviso / diálogo) + teológica, político-geopolítica, ufológica, biográfica, institucional; O-8: `_ampliacoes_B027.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila.
+- O-1 confirmado (é B027; PDF = **Sample** de 14 págs; cap. 3 trunca na p. 14; **não** promover a `trabalhada`); O-2: 2 fichas ampliadas (**RC-003**, **RC-072**) só com o Esclarecimento p. 6–7; lemma «reintegração cósmica» não ocorre como locução fechada (bloco honesto: «reintegrada à convivência cósmica»); B027 acrescentado nas fontes de RC-072 (já constava em RC-003); **veto** RC-404 (fala de Gabriel/Tiago), RC-094 e RC-226; O-3: zero códigos; RC-405/406/407/059/071 sem ficha; Gabriel / Tiago / filósofos sem código; O-4: caps. 4–13 + entrevista ignorados; sinopse = paratexto; `[TEXTO INCOMPLETO]` e «inciarmos» sem interpolação; IEEA/Orbum fora; O-5: B003, B033 e B021 intactas; RC-404 **não** fundida com B009 p. 350 nem com B053; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena mediúnica crítica (canal / aviso / diálogo) + teológica, político-geopolítica, ufológica, biográfica, institucional; O-8: `_ampliacoes_B027.txt` aplicado; pasta em `livros/AMOSTRAS/B027_nos_ceus_da_grecia/` (2026-08-24). Sem apostila.
 
 ## Fase 2 — B035 *O Big Data do Criador* (abertura 2026-08-24) — **AMOSTRA**
 
 - **PDF ingressado** em `uploads_recepcao/O Big Data do Criador.pdf` (1.311.232 bytes; SHA-256 `be79be05ebc34736f16156318066eb144ef9c73acd9903a0966d546162172d92`; **18 págs** = amostra B035, **não** a obra completa). Metadado calibre Title = «O Big Data do Criador - Sample». Intro Atlan 12/03/2016. Cap. 2 trunca na p. 18. **BIBLIO intocada** (permanece `amostra recebida`).
-- Ciclo em `livros/B035_o_big_data_do_criador/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
+- Ciclo em `livros/AMOSTRAS/B035_o_big_data_do_criador/` (**fora de CONCLUIDOS** — amostra; obra completa pendente).
 - Extract paginado: ~4.674 palavras; SHA-256 `3d6ea70db88182442bb023151e1d9214822047ef5edceb241bcba12caa0fd83a`. p. 1 sem texto; p. 6 e p. 12 `[TEXTO INCOMPLETO]`. Watermark de conversor omitida.
 - **20 termos já citam B035**; 11 com ficha. Dossiê sugere ampliar RC-194, RC-195, RC-164, RC-041. **0 códigos.** RC-196/197/198/199/201/202/203/019 sem ficha — não materializar. RC-200 não ampliar (cap. 8 só no sumário).
 - Caps. 3–12 e IEEA/Orbum só no sumário — fora. Quarentena clínica («cientista enlouquecido» / «doença do criador» / cap. 12 «Diagnóstico»). Sem fusão com B001/B044/B041/B048.
 
 ### Devolutiva B035 (amostra) aplicada (2026-08-24)
 
-- O-1 confirmado (é B035; PDF = **Sample** de 18 págs; cap. 2 trunca na p. 18; **não** promover a `trabalhada`); O-2: 7 fichas ampliadas (RC-194, RC-195, RC-164, RC-041 + opcional **RC-001**, **RC-049**, **RC-167**) só com as 18 págs; lemma «Javé» e lemma «criação indevida» **não ocorrem** na amostra (blocos honestos); RC-200 **não** ampliada; O-3: zero códigos; RC-196/197/198/199/201/202/203/019 sem ficha; O-4: caps. 3–12 + posfácio ignorados; Hitler / KGB / drones fora; IEEA/Orbum fora; `[TEXTO INCOMPLETO]` sem interpolação; O-5: B001, B044, B041 e B048 intactas; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena clínica crítica («cientista enlouquecido» / «adoentado» / «doença do criador» / «desalmado» / «corpos doentes» / cap. 12 «Diagnóstico» = leitura, jamais diagnóstico) + científica, político-geopolítica, institucional, ufológica, teológica; O-8: `_ampliacoes_B035.txt` aplicado; **pasta NÃO movida** para `CONCLUIDOS/`. Sem apostila. Tabela-mestra intocada (B035 já constava nas fontes das 7).
+- O-1 confirmado (é B035; PDF = **Sample** de 18 págs; cap. 2 trunca na p. 18; **não** promover a `trabalhada`); O-2: 7 fichas ampliadas (RC-194, RC-195, RC-164, RC-041 + opcional **RC-001**, **RC-049**, **RC-167**) só com as 18 págs; lemma «Javé» e lemma «criação indevida» **não ocorrem** na amostra (blocos honestos); RC-200 **não** ampliada; O-3: zero códigos; RC-196/197/198/199/201/202/203/019 sem ficha; O-4: caps. 3–12 + posfácio ignorados; Hitler / KGB / drones fora; IEEA/Orbum fora; `[TEXTO INCOMPLETO]` sem interpolação; O-5: B001, B044, B041 e B048 intactas; O-6: **BIBLIO intocada** (`amostra recebida` / «Aguardando obra completa»); O-7: quarentena clínica crítica («cientista enlouquecido» / «adoentado» / «doença do criador» / «desalmado» / «corpos doentes» / cap. 12 «Diagnóstico» = leitura, jamais diagnóstico) + científica, político-geopolítica, institucional, ufológica, teológica; O-8: `_ampliacoes_B035.txt` aplicado; pasta em `livros/AMOSTRAS/B035_o_big_data_do_criador/` (2026-08-24). Sem apostila. Tabela-mestra intocada (B035 já constava nas fontes das 7).
 - Upload B027 processado em ciclo próprio (acima). Obra completa de B035 continua pendente.
 
 ## Fase 2 — B009 *Muito Além do Horizonte* (abertura 2026-08-24)

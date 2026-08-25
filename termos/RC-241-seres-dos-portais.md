@@ -29,6 +29,11 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 
 - **[B039 p. 16]** NAT: entre 2002 e 2004 «ainda não estava claro» para os «autores desta narrativa» que os «seres dos portais» e os «Seres do Conglomerado de Realidades» «pertenciam ao universo antimaterial, paralelo ao que vivemos». **Quarentena ufológica / científica.** Caps. 1–12 **isolados**. Sem fusão com B017 / B018. Fonte **B039** acrescentada na tabela-mestra.
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 140–141]** ensaio: «as futuras gerações humanas terão que voltar a conviver com os "seres dos portais" — é assim que eu os denomino na trilogia "Terra Atlantis"»; «chamados de "seres dos portais" porque apareciam e desapareciam próximo àqueles vórtices». Remissão à trilogia B017 / B018 / B039 — **não fundir**. IEEA (mesmo capítulo) = **institucional — fora**. Falas de Zeus **isoladas**. Sem fusão com B020 / B017. Fonte **B021** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

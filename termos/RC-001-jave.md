@@ -162,6 +162,12 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **[B020 p. 116]** Posfácio (fala de Ellam): preferiu não seguir adiante no tema «para evitar contendas com Javé, que sempre me maltratava o corpo e o psiquismo». **Quarentena mediúnica + biográfica**; o «maltratar» = relato pessoal, **não** diagnóstico. Lemma Javé **não ocorre** na Introdução. Caps. 1–14 (17× Javé na voz de Pandora) **isolados**. Sem fusão com B048 / B001. Fonte **B020** já constava na tabela-mestra.
 
+
+## Ampliação — B021 (Tempos Difíceis no Olimpo)
+
+- **[B021 p. 12]** ensaio: «Caos (entre os gregos), Javé ou ainda Jeová (para os hebreus/judeus), Brahma (para os arianos/hindus), Amom (no Egito) e Alá (no islamismo) são epítetos distintos que representam a face de um mesmo Ser.» Jeová 1× neste PDF. **Quarentena teológica.**
+- Falas de Zeus e de Pandora **isoladas**. Sem reancorar RC-284 a partir deste volume. Sem fusão com B020 / B001 / B003 / B016. Fonte **B021** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
