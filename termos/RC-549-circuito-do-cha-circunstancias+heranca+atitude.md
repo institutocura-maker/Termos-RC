@@ -18,6 +18,15 @@ Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desper
 - **Variações:** "circuito do CHA"; "império das circunstâncias"
 - **Expansão da sigla:** Circunstâncias da vida; Herança espiritual (hábitos e habilidades); Atitude mental/espiritual
 
+
+## Ampliação — B074 (Mentalma I)
+
+- **[B074 pp. 46–47]** definição do acrônimo: **C** = Circunstâncias da vida; **H** = "Herança espiritual" (hábitos e habilidades espirituais); **A** = Atitude mental/espiritual. Sinônimo "império das circunstâncias"; o "aparente acaso, inerente às circunstâncias da vida"; o "Eu piloto automático" vive o circuito (a "chave" do progresso pessoal transferida para as situações).
+- **[B074 pp. 47–48]** exemplo do "chato": arquivos de existência passada abrem-se imediatamente na vida nova (50 anos depois, "nunca se visto antes"); "orai e vigiai" = "prudência emocional e atitudinal"; "botão psíquico" acionado pela vontade pessoal vs. "livre-arbítrio de momento".
+- **[B074 pp. 50–51]** "**samsara**": "o ciclo contínuo de reencarnações sempre em torno das mesmas questões", com o "mais do mesmo" da "coleção" de arquivos "algo 'infectada'" — vocabulário da obra (sem código, O-3). "Soberania espiritual" vs. "império das pseudorrealidades"; "rebanho humano".
+- **[B074 p. 158]** o karma (Kapila: "questão de ressonância, e não de fatalidade") = "a lei da ação e reação, de causa e efeito que rege os caminhos do 'circuito do CHA'" = "o resgate de um 'banco de arquivos' produzidos pelas nossas atitudes mentais".
+- 0 códigos novos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

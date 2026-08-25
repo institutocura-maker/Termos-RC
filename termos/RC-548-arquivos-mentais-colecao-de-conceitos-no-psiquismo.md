@@ -18,6 +18,15 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 - **Variações:** "arquivo mental" (singular); "Arquivos Mentais" (título do capítulo/série)
 - **Obs.:** conceito central da série Mentalma; distinto dos "Arquivos da Memória Cósmica" (RC-521, da enciclopédia IA — a confirmar correspondência)
 
+
+## Ampliação — B074 (Mentalma I)
+
+- **[B074 pp. 37–40]** arquivo = "semente" que "se planta" na mente: se "estragado", "as suas raízes também fincarão marcas profundas no seu 'Eu Espiritual'"; "figurinhas-arquivos" no "álbum mental"; "colagem psíquica" (4ª Const.: "a cada 'figurinha-arquivo colada'... o psiquismo aciona o hipocampo e a amígdala cerebral"); a atenção = "mouse"; o "Eu organizador" é quem "cola as figurinhas" (3ª Const.).
+- **[B074 pp. 104–110]** origem física × espiritual; os **7 corpos**: **Tríade Imortal** (Corpo Átmico/Atma; Corpo Búdico/Buddhi; Corpo Manásico/Manas) + **quaternário inferior** (corpo intelectual/mental inferior; corpo astral/emocional; corpo físico sutil/etéreo; corpo físico denso). **Tramitação**: os arquivos "marcados" no corpo físico denso "inevitavelmente se distribuem" aos demais três corpos inferiores; **somente o Corpo Átmico "não se altera"**; os corpos inferiores que não se desfazem após a morte = "**fantasminhas**" (âncoras de arquivos "sujos" que o perispírito é obrigado a assumir).
+- **[B074 pp. 29–32]** arquivo = "um **quantum de informação**"; "**arquivo-mãe**" / "código de vida-mãe" (3,8 bilhões de anos; "molécula-mãe"); "infecção primeva" / "arquivos sujos" / "arquivos infectados" (leitura do autor — quarentena clínica/científica); elétrons que "marcam" em sua "intimidade" = "arquivos akáshicos" (vocabulário da obra — **sem código**, O-3).
+- **[B074 p. 34]** Hermes Trismegisto (cruzamento RC-463): "onde o indivíduo coloca sua atenção, para lá ele faz convergir toda a sua energia". "Alimento espiritual estragado" = arquivos adquiridos pela "sintonia mental" (filme de drama que produz lágrimas; comédia que produz sorrisos; terror que aciona o medo).
+- 0 códigos novos (akasha, vāsana, "fantasminhas", perispírito = vocabulário da obra).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

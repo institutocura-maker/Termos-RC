@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B074 — Mentalma I (A Consciência Esclarecida e a Gestão dos Arquivos Mentais)
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 10).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 10).** 7 fichas (5 ampliadas: RC-166/548/549/551/552 + 2 criadas: RC-550, RC-553); 0 códigos; B084 cadastrada (O-5); pasta movida para `CONCLUIDOS/`. Sem apostila.
 
 ## 1. Identificação
 

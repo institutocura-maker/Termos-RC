@@ -18,6 +18,16 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **Variações:** "os 3As"; "Aprofundar a respiração; Acalmar a mente; Alinhar-se consigo mesmo"
 - **Obs.:** não confundir com outras siglas "3A" da base (nenhuma conflita)
 
+
+## Ampliação — B074 (Mentalma I)
+
+- **[B074 pp. 131–133]** definição: **Aprofundar** a respiração / **Acalmar** a mente / **Alinhar-se** consigo mesmo; exemplo da savana e da leoa (três estágios respiratórios: tranquilidade, dúvida, decisão de correr); "de quatorze a dezessete para **quatro ou cinco respirações por minuto** — fazendo um ciclo completo a cada dez, doze ou catorze segundos"; "hormônios de pacificação"; "envelhecimento mais lento — em termos biológicos".
+- **[B074 pp. 134–136]** a respiração = o único processo que pode ser involuntário e voluntário; "o altar onde o 'Eu humano' poderia repousar, refazer-se, revigorar-se, realinhar-se"; rotina matinal: 3–4 circuitos de 5 respirações completas ("**selo de garantia**", p. 135); a cadeia: quem aprofunda a respiração "nem que não queira, o meu 'Eu' acalma a mente", e, aprofundando e acalmando, "termino alinhando o meu 'Eu humano' com o 'Eu Mais Profundo'" (p. 136) — a "agenda espiritual" do dia.
+- **[B074 p. 181]** ritmo pessoal de Ellam: "inspiro em quatro ou cinco segundos, seguro-o durante uns dezesseis a vinte segundos, e expiro entre oito e dez segundos, e fico um ou dois segundos sem inspirar" — "cada um deve criar o seu próprio ritmo respiratório, atentando para que não haja esforço"; 23ª Const.: "Para superar o 'Eu ansioso', não há outro jeito que não seja transformando o seu ritmo respiratório".
+- **[B074 pp. 172, 174]** prana = "a energia vital que permeia esta Criação"; o "**forninho mental**" que transforma o prana "advindo da respiração no 'material quântico'" (22ª Const.).
+- **[B074 p. 184]** segundo "erro fatal": não utilizar a educação respiratória para controlar as emoções ("a outra opção é tomar remédios" — clínico, **fora da malha**).
+- 0 códigos novos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

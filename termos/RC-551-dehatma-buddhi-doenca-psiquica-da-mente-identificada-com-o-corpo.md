@@ -18,6 +18,16 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 - **Variações:** "doença do dehatma buddhi"; "dehatma buddhi" (sânscrito)
 - **Composição:** deha (corpo) + atma (alma) + buddhi (mente/inteligência)
 
+
+## Ampliação — B074 (Mentalma I)
+
+- **[B074 pp. 151–152]** definição sânscrita: "animal humano, mentalmente incapacitado de perceber que o seu psiquismo, além de ser formado pela natureza animal do seu corpo, é também composto pela natureza espiritual da sua Alma"; a doença ocorre quando o indivíduo "conclui equivocadamente: **'Eu sou o corpo!'**"; "uma 'triste verdade pessoal' que atinge quase todos, na humanidade"; a "Chave da Vontade Maior" não consegue atuar no "ego nervoso e primitivo".
+- **[B074 pp. 153–155]** a "**primeira versão**" do psiquismo: os primeiros pensamentos/sentimentos são falsos — arquivos "jogados" na "caixa de depósito" pela vida/"corrente mental"; a técnica da "vontade de observar" (teste dos cinco minutos); "pescar" na "corrente mental" ("um tipo de 'internet cósmica' dos campos mórficos da espécie"); o "Não sou eu!" como distanciamento psíquico.
+- **[B074 pp. 156–157]** livre-arbítrio: a analogia do rio e da barragem rompada — "a vida de um dehatma buddhi tem o livre-arbítrio reduzido e costuma ser 'atropelado' diariamente"; gasta toda a energia (prana) sobrevivendo à "enchente do dia" como "cobaia" da "corrente mental" cujo "dono é Javé"; a "arte do segundo impulso"; "o 'dono do lamaçal' — que é Javé — está indelevelmente 'ligado' (ou 'preso') a alguns seres humanos que não apresentam a 'doença do dehatma buddhi', e deles recebe o suporte vibratório" (p. 156).
+- **[B074 p. 185]** quarto "erro fatal" = "achar que é a personalidade ilusória corporal, confundindo-se com o corpo".
+- **[B074 p. 178]** "**mentenet**": nome dado por Ellam à "corrente mental" humana ("Há um tipo de 'internet humana' — eu chamo essa 'corrente mental' de 'mentenet'").
+- **Quarentena clínica:** o método não é terapia; o trecho p. 215 (biodemos/Len Mion/Hitler) está **banido da malha** (O-7). 0 códigos novos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

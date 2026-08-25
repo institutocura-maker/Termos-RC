@@ -23,7 +23,11 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B074_mentalma_i_consciencia_esclarecida/` — ingresso (2026-08-25, AG. 10); leitura integral feita; **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. PDF do B075 (Mentalma II) já em `uploads_recepcao/` — ciclo separado, na ordem do curador.
+Nenhum.
+
+## Último ciclo
+
+`CONCLUIDOS/B074_mentalma_i_consciencia_esclarecida/` — **B074 *Mentalma I***: Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 10); **5 fichas ampliadas + 2 criadas (RC-550, RC-553); 0 códigos**; **B084** *O Legado Esquecido: o Yoga dos Trimurtianos* cadastrada (`identificada`); quarentena p. 215 (Hitler/Len Mion/biodemos) **banida da malha**. Sem apostila. Próximo: **B075 *Mentalma II*** (PDF já em `uploads_recepcao/`), na ordem do curador.
 
 ## Amostras
 

@@ -33,6 +33,17 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 
 - **Mentalma (P2024-11-30 — pergunta da plateia):** "o exercício de, na hora de dormir, me perguntar o que ainda me envergonha"; "eu comecei a observar que vinham informações... que estavam engavetadas, que elas estão vindo à tona"; o padrão vinculado ao odu do jogo de Ifá.
 
+
+## Ampliação — B074 (Mentalma I)
+
+- **[B074 pp. 13–15]** origem: criado por Ellam para enfrentar o estresse do cotidiano ("foi um dia histórico quando percebi que o cotidiano estava indevidamente comandando o meu psiquismo", p. 13); a primeira "respiração consciente" nasceu no banco (1990 — a senhora reclamona, p. 14); "o Mentalma, o meu 'Yoga do cotidiano', aplicável diariamente" (p. 15).
+- **[B074 p. 17]** o nome = combinação de "mente lúcida" + "Alma limpa"; "o Mentalma não pertence a mim, mas a quem dele se valer" ("não é um trilho, mas uma trilha").
+- **[B074 pp. 19–20]** "manual de voo pessoal": síntese dos mestres orientais + "professor Hermógenes" ("copiei de onde podia"); "uma certa dose de interferência dos amigos espirituais, não no sentido de corrigir o rumo, mas confirmando" (**quarentena mediúnica** — leitura, não ontologia).
+- **[B074 pp. 22–24]** "O Mentalma é a minha **Moksha** atualizada!" (Kapila/Samkhya — "disciplinas-irmãs" do Yoga); a "pílula vermelha" da Matrix "já foi tragada por Kapila há cerca de 2700 anos" (p. 23); "a única face do Yoga, à moda do Mestre **Ramana Maharshi**... voltada exclusivamente para a condição humana" (p. 24).
+- **[B074 p. 11]** advertência: "o Mentalma — que **não é um método de autoajuda**"; "uma 'tijolada' que eu dou na minha própria cabeça, ou melhor dizendo, no meu próprio psiquismo".
+- **[B074 pp. 189, 199]** os **5 "graus de maestria"**: 1 Arquitetura dos Arquivos Mentais; 2 Gestão da Vontade; 3 Imperturbabilidade; 4 Discernimento Esclarecido Profundo; 5 Condução do Fluxo Mental. "A maestria não é uma conquista, mas sim, a sua permanente tentativa de atingir padrões virtuosos e superiores."
+- **[B074 p. 10]** série de **7 volumes anunciada** (I–VII; VI *Qualia e o Laboratório Mental*; VII *O Eu como Computador Quântico* — "planejados" em 2020) — **RC-555 mantém o nome** ("5 livros + curso"); anúncio registrado no O-3/RELATÓRIO (Nota Especial do curador). 0 códigos novos. Voz 100% Ellam; sem plateia.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

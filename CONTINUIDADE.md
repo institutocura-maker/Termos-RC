@@ -1,7 +1,11 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-25 (sessão 10 — REVISÃO DE CONTINUIDADE fechada: vigência × Workspace × xlsx/docx × mapa da KB; handoff em `PROMPT-PROXIMA-SESSAO.md`; HEAD `66b01e1` + commit de revisão)  
-**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **10 apostilas temáticas (8 com DOCX) + 2 tratados + 2 mapas + índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 10: `arena/01a03913-termos-rc`
+**Data de sincronização:** 2026-08-25 (sessão 10 — REVISÃO DE CONTINUIDADE fechada + **CICLO B074 *Mentalma I* FECHADO** (Devolutiva O-1..O-8 aplicada); handoff em `PROMPT-PROXIMA-SESSAO.md`)  
+**Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 430 fichas físicas** (429 canônicas com `ficha=True` + RC-004 investigação) · **87 obras (B001–B084 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **10 apostilas temáticas (todas com DOCX) + 2 tratados + 2 mapas + índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 10: `arena/01a03913-termos-rc`
+
+## Ciclo — B074 *Mentalma I* (2026-08-25, AGENTE 10)
+
+PDF do curador (subido em `arena/01a02e74`; cherry-pick `f33dae2`) — 227 págs, ~72,5 mil palavras; **leitura integral**. Dossiê enxuto O-1..O-8 → **Devolutiva aprovada no mesmo dia** → aplicação: **5 fichas ampliadas** (RC-166, RC-548, RC-549, RC-551, RC-552, via `_ampliacoes_B074.txt` + script) + **2 fichas criadas** (RC-550 Vontade de Progredir, RC-553 Eu Profundo — flags `ficha`→True) + **B084** *O Legado Esquecido: o Yoga dos Trimurtianos* cadastrada na BIBLIO (`identificada`; SEM PDF). **0 códigos** (veto absoluto do curador; malha blindada em 777/1.852). Quarentena p. 215 (Hitler/Len Mion/biodemos) **banida da malha**; termos clínicos (Cury/SPA, "psicopatias") restritos ao campo filosófico/cosmológico. RC-555: nome intacto + nota dos 7 volumes anunciados em 2020. CIP 290 p. × PDF 227 = `[REVISAR]`; ISBN não gravado. Pasta em `CONCLUIDOS/`. Artefatos regenerados (índice, xlsx, docx: 430 fichas, 87 obras). **B075 *Mentalma II*** já em `uploads_recepcao/` — próximo ciclo, na ordem do curador.
 
 ## Sessão 10 — Revisão de continuidade (2026-08-25, AGENTE 10)
 
