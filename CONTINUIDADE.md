@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-24 (pasta `livros/AMOSTRAS/` — B027 e B035; 0 códigos)  
+**Data de sincronização:** 2026-08-25 (piloto B021 — ingresso e dossiê enxuto; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B021 *Tempos Difíceis no Olimpo* (abertura 2026-08-25)
+
+- **PDF ingressado** em `uploads_recepcao/Tempos Dificeis no Olimpo - Jan Val Ellam.pdf` (1.760.082 bytes; SHA-256 `98a71fb3c9239bc6fd4d8ba2c5482b9a86e9a67ea0121e563ba863c1183cbaaa`; **174 págs** = **B021**, obra integral). calibre 3.48; Title correto; Author metadado **Jan Ellam** = `[REVISAR]`. Introdução Atlan **01/01/2022**. ISBN Papel já na BIBLIO; Digital 978-65-86157-19-2 — **não gravar**. **BIBLIO intocada** (`trabalhada` / 2022).
+- Ciclo em `livros/B021_tempos_dificeis_no_olimpo/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~57.760 palavras; SHA-256 `9347b6a8bfbc840037bf8b357b5332a3033b29c019a74a0d054387d80b2a9f5e`. p. 1 sem texto.
+- **29 termos já citam B021**; 16 com ficha. Dossiê sugere RC-292, RC-293, RC-294, RC-295. **0 códigos.** Ensaio = Ellam. Falas de Zeus (Diálogo p. 146–149) e de Pandora (cap. 2) isoladas. RC-145 **não** materializar.
+- Hitler = 0. B020 = remissão, **não fundir**. Aguarda Devolutiva.
 
 ## Housekeeping — `livros/AMOSTRAS/` (2026-08-24)
 

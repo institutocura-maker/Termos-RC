@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B021_tempos_dificeis_no_olimpo/original.txt
+
+SHA-256 9347b6a8bfbc840037bf8b357b5332a3033b29c019a74a0d054387d80b2a9f5e
+360.327 bytes · ~57.760 palavras · 174 págs.
+p. 1 = [página sem texto extraível].
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Introdução p. 6–7 + caps. 1–24 (ensaio) + Perguntas p. 150–156 + Notas p. 157–165.
+Falas de Zeus (corpo e Diálogo p. 146–149) e de Pandora (cap. 2) = isoladas.
+Fechos p. 166–174 = autor / IEEA / Orbum (fora da malha).
