@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum.
+`B074_mentalma_i_consciencia_esclarecida/` — ingresso (2026-08-25, AG. 10); leitura integral feita; **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. PDF do B075 (Mentalma II) já em `uploads_recepcao/` — ciclo separado, na ordem do curador.
 
 ## Amostras
 

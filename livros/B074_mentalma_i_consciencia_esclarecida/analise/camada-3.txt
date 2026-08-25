@@ -1,0 +1,11 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B074_mentalma_i_consciencia_esclarecida/original.txt
+
+SHA-256 6a399b76214443851b986a1f203da08994f97b0f927989157c54150a79d03fe9
+464.350 bytes · ~72.553 palavras · 227 págs.
+p. 1 = [página sem texto extraível] (capa). pp. 197 e 227 vazias.
+Sem [TEXTO INCOMPLETO] de bytes nulos. Sem watermark. Não interpolar.
+Voz de Ellam em todo o corpo (1ª pessoa); citações de terceiros = fonte citada, não diálogo; sem plateia (obra escrita, não palestra).
+Apêndices p. 200–227 (INSTALM/entrevista/roteiro de leitura/IEEA/Orbum/autor) = institucional/biográfico — fora da malha terminológica (quarentenas O-7).
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).

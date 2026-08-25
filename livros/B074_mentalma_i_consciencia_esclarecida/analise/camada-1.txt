@@ -1,0 +1,7 @@
+Contexto de ingresso (2026-08-25, AG. 10): o curador subiu na branch arena/01a02e74 (cherry-pick f33dae2) os PDFs de Mentalma I (B074) e Mentalma II (B075) em uploads_recepcao/. Ciclo agora é B074 (ordem do curador); B075 segue separado.
+Obra já na BIBLIO como B074 (trabalhada; Conectar 2020; 227 págs). Termos já consumidos em ciclo anterior: RC-548/549/550/551/552 + RC-166 (ficha nova) + 7 relações. Este ciclo = repasse da obra física + ampliações da malha (O-2).
+Sem ficha: RC-550 (Vontade de Progredir) e RC-553 (Eu Profundo) — ambos com B074 nas fontes → propostas de ficha nova no O-2. RC-554/RC-555 → ciclo B075.
+Voz = tudo Ellam (1ª pessoa); citações (Kafka, Goethe, Nietzsche, Kierkegaard, Yogananda, Bentov, Sai Baba, MLK, Jesus, Krishna, Cury, Kahneman, Bierce, Rohden) = fonte citada, não diálogo.
+Quarentenas: ufológica (4.6/6.3; p. 215 — Hitler/biodemo: SENSÍVEL) · clínica (Cury/SPA; psicopatias; vícios; "tomar remédios") · mediúnica (obsessores; glutográfica; Camargo; Kardec) · teológica (Javé = núcleo RC; "filho do demônio"; povos eleitos; papa Francisco) · biográfica (Rogério; NDE p. 118; Collor 1990) · institucional (IEEA/Orbum/INSTALM/IEPP) · política (manifesto; líderes).
+Grafias canônicas: Nefilins (no livro "Nephelim (ou Anunnaki)"); Javé; Brahma; Vishnu; Shiva; Trimurti; Krishna; Kapila.
+Corpus: original.txt (p. 1 sem texto; pp. 197 e 227 vazias). Sem watermark, sem \x00, nada interpolado.
