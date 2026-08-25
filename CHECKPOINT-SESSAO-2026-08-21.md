@@ -1,7 +1,7 @@
 # CHECKPOINT DE SESSÃO — 2026-08-21 (ATUALIZADO)
 
-> **Documento de retomada** — para qualquer nova sessão do Agente Base-first continuar exatamente de onde esta parou, sem depender da janela de contexto anterior.
-> **ATUALIZAÇÃO:** este checkpoint foi revisado após os ciclos da repassada dos Estagiários do Kaos (4 edições), dos tratados filosóficos e da correção dos DOCX. É a versão vigente.
+> **Documento de retomada histórica** (2026-08-21/22). Para o estado vigente, prevalece `PROMPT-PROXIMA-SESSAO.md`.
+> Contagens abaixo (1849 relações / HEAD e91552d) estão **velhas**. Vigente em 2026-08-25: **777 termos / 1.852 relações** · HEAD **`3fa96c1`** · branch `arena/01a02e74-termos-rc`.
 
 ---
 
@@ -23,9 +23,9 @@ Uploads: todos processados; movidos para uploads/processados/ (28 arquivos).
 
 ## 2. COMO RETOMAR (procedimento padrão)
 
-1. `cd /tmp && git clone https://x-access-token:${GH_TOKEN}@github.com/institutocura-maker/Termos-RC.git` (token: `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`; nunca salvar em arquivo; `x-access-token:` funciona no clone; push usa o token como username direto);
-2. Copiar o clone para `/home/user/rc-terminologia/` (remover `.git` do workspace; **nunca** copiar `.git` para o workspace);
-3. `python3 ferramentas/dados_termos.py` (validar) → `python3 ferramentas/build_indice.py` → `build_xlsx.py` → `build_word.py` (regenerar artefatos);
+1. Na Arena, o clone já vem na raiz do repositório (`/home/user/Termos-RC`). `git` e `gh` já autenticados — **nunca** colar token, senha ou PAT no chat nem em arquivo. Se a autenticação falhar, pedir ao curador para reconectar o GitHub na Arena.
+2. Branch da sessão: `arena/01a02e74-termos-rc`. Se o HEAD local for só o `main` (`b420f14`) e o working tree estiver limpo: `git fetch origin arena/01a02e74-termos-rc && git reset --hard FETCH_HEAD`. Se já houver commit local, rebase (não reset).
+3. `python3 ferramentas/dados_termos.py` (validar) → deve retornar `OK: 777 termos, 1852 relações — dados válidos.` Artefatos de leitura (`base-terminologica.xlsx`, `base-terminologica-leitura.docx`) **não** estão no GitHub — regenerar com `build_xlsx.py` e `build_word.py` se o curador quiser.
 4. Se necessário reconstruir: `python3 ferramentas/restaurar_pacotes.py` (aponta para `reconstrucao/pacotes/`; XLSX/DOCX são regeneráveis, não embutidos);
 5. Ler: `CHECKPOINT-SESSAO-2026-08-21.md` (este), `CONTINUIDADE.md` (histórico + Colecionar Incertezas), `convencoes-editoriais-rc.md`, `GUIA-MESTRE-RC-APOSTILA-v1.1.md`.
 
@@ -103,5 +103,5 @@ Uploads: todos processados; movidos para uploads/processados/ (28 arquivos).
 - **Devolutiva parcial do curador sobre a Apostila Temática "Carbono × Sílica":** o curador compartilhou a apostila com o seu Assistente, que elogiou a blindagem metodológica (PARTE IX isolada EXT-2026-08-05; padrão 3 camadas primária/ART/EXT), o eixo carbono → sílica, a ética do "duplo canalha" e a citação de fechamento. **Aguardando devolutiva formal O-1..O-8.**
 - **Pergunta metodológica do curador (respondida e registrada em CONTINUIDADE.md):** "a Apostila Temática usa informações dos textos originais arquivados ou exclusivamente Termos e Relacionamentos?" → resposta: 3 camadas — (1) esqueleto = 100% malha; (2) carne = fichas ampliadas (originais já destilados e auditados); (3) voz = citações verbatim dos originais arquivados, relidas na hora, com rastreabilidade (palestra + U#### + chunks + RC). Nada de memória.
 - **NOVA FRENTE EM DISCUSSÃO (decisão pendente do curador):** reprocessar os LIVROS (B001–B083) com o fluxo moderno (camadas → unidades → chunks → leituras → dossiê → devolutiva → ampliações → apostila/tratado). Os livros foram tratados na era pré-GitHub, sem esse fluxo. **Opinião da IA registrada:** NÃO fazer repassada total; fazer auditoria de lacunas (Fase 0) → 1 piloto (Fase 1) → escala seletiva (Fase 2). Dados para a decisão: 86 obras = 40 "trabalhada" (livros com PDF processados na era antiga) + 9 "a confirmar" (aguardando PDF) + 2 "amostra recebida" (B027, B035) + 19 "identificada" + 9 "anunciada" (B079–B083) + 4 "minerada" (Enciclopédias/Glossários) + 3 ART "curadoria". B031 é fonte SECUNDÁRIA (Raquyel Braga) — quarentena de camada. **Perguntar ao curador:** (a) o acervo digital dos livros (PDFs/TXTs) está disponível para upload? (b) qual livro ele considera prioritário como piloto? (c) ele quer o dossiê de auditoria de lacunas primeiro?
-- **Erro "The conversation is too long for the model"** ocorreu nesta conversa → retomar em conversa NOVA com o procedimento padrão: `cd /tmp && git clone https://x-access-token:${GH_TOKEN}@github.com/institutocura-maker/Termos-RC.git && cd Termos-RC && cp -a . /home/user/rc-terminologia/ && rm -rf /home/user/rc-terminologia/.git` → validar base (`OK: 777 termos, 1852 relações`) → ler este CHECKPOINT + CONTINUIDADE.md (HEAD GitHub: **7460b76**).
-- **GitHub sincronizado:** commit `7460b76` (CONTINUIDADE: devolutiva parcial 2026-08-22 + pergunta metodológica registrada com resposta). Nada pendente de push.
+- **Erro "The conversation is too long for the model"** ocorreu nesta conversa → retomar em conversa NOVA na Arena (clone já vem pronto). Validar `OK: 777 termos, 1852 relações`. Ler `PROMPT-PROXIMA-SESSAO.md` + este CHECKPOINT + `CONTINUIDADE.md`. **Nunca** colar token. HEAD vigente da esteira (2026-08-25): **`3fa96c1`**.
+- **GitHub (nota histórica 2026-08-22):** commit `7460b76` era o HEAD daquele dia. Não usar como estado atual.

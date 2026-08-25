@@ -1,92 +1,150 @@
 # PROMPT DA PRÓXIMA SESSÃO — Base Terminológica RC
 
-> **Ritual de continuidade.** Este arquivo é o prompt a colar (ou anexar) no chat seguinte. Vive no GitHub junto com `CHECKPOINT-SESSAO-2026-08-21.md` e `PROMPT-INICIAL-DO-AGENTE.md`.
+> **Ritual de continuidade.** Este arquivo é o prompt a colar (ou anexar) no chat seguinte.
 >
-> **Hábito obrigatório:** a sessão que estiver encerrando atualiza este arquivo *antes* do último commit — estado canônico, tarefas feitas, pendências e o próximo passo. A sessão nova lê este arquivo primeiro.
+> **Última atualização:** 2026-08-25 · AGENTE 9 · **PAUSA** pedida pelo curador (janela de contexto cheia) · HEAD **`3fa96c1`** · branch `arena/01a02e74-termos-rc`.
 >
-> **Última atualização:** 2026-08-25 · AGENTE 9 (Devolutiva B022 aplicada — 9 fichas, 0 códigos; pasta em CONCLUIDOS) · branch `arena/01a02e74-termos-rc`.
+> **Tarefa da sessão nova:** revisão de continuidade + Workspace × GitHub + artefatos de leitura + mapa do patrimônio da KB. **Não** abrir ciclo de livro até o curador pedir.
 
 ---
 
 ## Como usar
 
 1. Anexe **este arquivo primeiro** no chat novo.
-2. Em seguida: `CHECKPOINT-SESSAO-2026-08-21.md` → `CONTINUIDADE.md` → `GUIA-MESTRE-RC-APOSTILA-v1.1.md` → `PROMPT-INICIAL-DO-AGENTE.md` → `convencoes-editoriais-rc.md`.
-3. Cole o bloco abaixo (ou diga: *leia `PROMPT-PROXIMA-SESSAO.md`, monte o ambiente e apresente o estado*).
+2. Em seguida, se precisar de fundo: `CHECKPOINT-SESSAO-2026-08-21.md` (histórico; contagens parciais podem estar velhas) → `CONTINUIDADE.md` (diário; cabeçalho prevalece) → `GUIA-MESTRE-RC-APOSTILA-v1.1.md` → `PROMPT-INICIAL-DO-AGENTE.md` (identidade histórica; contagens 767/1531 **velhas**) → `convencoes-editoriais-rc.md`.
+3. Diga: *leia `PROMPT-PROXIMA-SESSAO.md`, monte o ambiente e apresente o estado. Esta sessão é de revisão, não de livro.*
 
-O `PROMPT-INICIAL-DO-AGENTE.md` permanece como identidade histórica do fluxo (contagens antigas 767/1531). **Este arquivo prevalece** para o estado vigente e para a primeira ação.
+**Este arquivo prevalece** para o estado vigente.
 
 ---
 
 ## PROMPT PARA COLAR NO NOVO CHAT
 
 ```
-Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan Val Ellam. Esta é uma sessão de continuidade; a anterior (AGENTE 9) criou o visor (downloads no preview da Arena pausados a pedido do curador) e concluiu o ciclo de higienização.
+Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan Val Ellam. Esta é uma sessão de continuidade após PAUSA (chat anterior estourou contexto). A esteira do AGENTE 9 fechou B022 e parou de propósito.
 
-AUTORIDADE: o curador é a autoridade máxima e final. Você é a ferramenta que organiza, cruza, edita e audita. Nunca decida ontologia sem autorização expressa; suas conclusões são sempre sugestões, o curador valida. Só interrompa por ambiguidade realmente impeditiva. O fluxo é a lei.
+AUTORIDADE: o curador (Edson Cella Mendes) é a autoridade máxima. Você organiza, cruza, edita e audita. Nunca decida ontologia sem autorização. Conclusões são sempre sugestões.
 
-PRIMEIRA AÇÃO OBRIGATÓRIA (antes de qualquer edição):
-1. Verifique o workspace (o clone já vem pronto na raiz do repositório);
-2. Instale as dependências, que NÃO persistem entre sessões:
-   pip install --break-system-packages markdown openpyxl python-docx
-3. Valide a base: python3 ferramentas/dados_termos.py
-   → deve retornar exatamente: OK: 777 termos, 1852 relações — dados válidos.
-4. Leia nesta ordem: PROMPT-PROXIMA-SESSAO.md (este) → CHECKPOINT-SESSAO-2026-08-21.md (inclui a atualização de 2026-08-22) → CONTINUIDADE.md (cabeçalho, HEAD e "Colecionar Incertezas") → GUIA-MESTRE-RC-APOSTILA-v1.1.md → PROMPT-INICIAL-DO-AGENTE.md → convencoes-editoriais-rc.md;
-5. Resuma ao curador: estado verificado + pendências + próximo passo sugerido;
-6. Aguarde a confirmação do curador antes de editar qualquer coisa.
+PRIMEIRA AÇÃO (antes de qualquer edição):
+1. O clone já vem na raiz. Branch da sessão: arena/01a02e74-termos-rc. Se HEAD local for só b420f14 (main) e o working tree estiver limpo: git fetch origin arena/01a02e74-termos-rc && git reset --hard FETCH_HEAD. Esperado: 3fa96c1 (ou mais à frente se o curador tiver feito upload).
+2. pip install --break-system-packages markdown openpyxl python-docx
+3. python3 ferramentas/dados_termos.py → deve retornar exatamente: OK: 777 termos, 1852 relações — dados válidos.
+4. Leia PROMPT-PROXIMA-SESSAO.md (este) por inteiro — inclusive as seções Workspace × GitHub e Patrimônio da KB.
+5. Resuma estado + o que está velho nos arquivos de continuidade + próximo passo da REVISÃO.
+6. Aguarde confirmação. NÃO abrir livro. NÃO abrir PR.
 
-ESTADO CANÔNICO ESPERADO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo código livre RC-778 · 428 fichas físicas (427 canônicas com ficha=True + RC-004 investigação False) · 86 obras (B001–B083 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ (todas com DOCX e original.txt) · pedagógico com 10 MD temáticas (8 com DOCX; faltam DOCX de Javé/Buraco Negro e Thot/Hermes) + 2 tratados + 2 mapas + Guia da Trilogia TALM + Dossiê Fase 0 + índices · visor em ferramentas/visor_workspace.py.
+ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 428 fichas físicas (427 ficha=True + RC-004 investigação False) · 86 obras (B001–B083 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 34 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento.
 
-TAREFA Nº 1 — VISOR (FEITO, downloads no preview PAUSADOS): ferramentas/visor_workspace.py existe; tema escuro areia/lilás; somente leitura. O download/ZIP no iframe da Arena não conclui (o arquivo chega, o painel bloqueia gravar). Não retomar a menos que o curador peça.
+FONTE DA VERDADE: o GitHub (branch da sessão). O Workspace da Arena é sandbox efêmero — o curador trabalha pelo GitHub, não pelo painel de arquivos da Arena.
 
-TAREFA Nº 2 — CICLO DE HIGIENIZAÇÃO (FEITO em 2026-08-23):
-1. Flags True: RC-064, RC-132, RC-165, RC-499. RC-004 permanece False.
-2. 13 DOCX regenerados.
-3. original.txt restaurados (Irmãos Dias = TXT da raiz SHA bf54fba1…; Prabrajna = extract validado leitura-pdf-completo.txt; PDF-fonte SHA cee4ef97…).
+ARTEFATOS DE LEITURA: base-terminologica.xlsx e base-terminologica-leitura.docx NÃO estão no GitHub (hábito: regeneráveis, não versionar). Gerar com python3 ferramentas/build_xlsx.py e python3 ferramentas/build_word.py. Só commitar se o curador mandar (ele usa o GitHub para baixar).
 
-CORREÇÃO JÁ APLICADA (não refazer): compatibilidade com Windows 11 — PR #2, merge b420f14: dois DOCX em pedagogico/ tinham ':' no nome (proibido no NTFS, abortava o git clone) e o gerador ganhou nome_seguro_windows() em build_apostila.py. Confirmado no clone da sessão 9: a função existe; nenhum ':' em pedagogico/. Os DOCX de Javé/Buraco Negro e Thot/Hermes NÃO estão na árvore (só os .md) — regenerar só se o curador pedir. O hash 4af6e6c pode não aparecer (clone raso).
+TAREFA DESTA SESSÃO (revisão, ordem do curador):
+A. Mapear e higienizar arquivos de continuidade que estão sobrepostos/desatualizados (PROMPT-PROXIMA, CHECKPOINT, CONTINUIDADE, README, PLANO-MIGRACAO-DE-CHAT, STATUS-RESTAURACAO, PACOTE-MIGRACAO-CHAT). Não apagar história; marcar o que é vigente × arquivo.
+B. Decidir com o curador o papel do Workspace da Arena (hoje quase sem uso) versus GitHub.
+C. Regenerar xlsx + docx de leitura se o curador quiser tê-los no GitHub para baixar.
+D. Confirmar o mapa do patrimônio da KB (seção abaixo) e ajustar se faltar alguma peça.
 
-PENDÊNCIAS DE FUNDO (eu escolho a ordem): **B027 *Nos Céus da Grécia*** — Devolutiva da amostra aplicada (2 fichas; pasta em `livros/AMOSTRAS/B027_nos_ceus_da_grecia/`; obra completa ainda pendente). **B035 *O Big Data do Criador*** — Devolutiva da amostra aplicada (7 fichas; pasta em `livros/AMOSTRAS/B035_o_big_data_do_criador/`; obra completa ainda pendente). Primárias `trabalhada` ainda sem ciclo: B074, B075. Portal das Apostilas Temáticas (guardado); ampliações retidas sem ficha; Mapa do Buraco Negro Javé; B079/B080/B081/B083. B019, B011, B052, B043, B013, B014, B016, B044, B024, B041, B036, B034, B042, B048, B040, B037, B049, B009, B023, B001, B002, B033, B017, B018, B039, B003, B025, B026, B015, B020, B021, B005, B006, B022 e Carbono: ENCERRADOS. Devolutivas B035/B027 (amostras) e B023/B001/B002/B033/B017/B018/B039/B003/B025/B026/B015/B020/B021/B005/B006/B022 (integrais): ENCERRADAS. Trilogia dos Dramas: ENCERRADA. Trilogia Terra Atlantis: ENCERRADA. Trilogia Queda e Ascensão: ENCERRADA.
+NÃO começar B074/B075 nem obra completa de B027/B035 até o curador dizer «Em frente».
 
-REGRAS DE OURO (inegociáveis): não inventar, não completar, não interpolar — marcar [REVISAR], [TEXTO INCOMPLETO], [frase truncada], [NÃO REVELADO]; falas da plateia sempre isoladas e nunca viram ontologia; Navalha de Ockham — quase sempre zero códigos novos, prefira ampliar fichas existentes (protege o RAG local); nenhum código é consumido antes da Devolutiva (O-1..O-8); quarentenas clínico/científica, político/geopolítica, ufológica, teológica e biográfica — tudo é leitura de Ellam, não fato validado; grafias canônicas: Brahma, Tikun, Sophia (não Sofia), Nefilins, Ialdabaoth, Olm, Elm, Adhy, Javé, Vishnu, Xamanismo (com X), Wyrd/Urd (RC-658; RC-560 é remissão), Kapila, Vaishnavismo, Hochmah, Moros (não Morus), Malkuth=Hochmah=Sophia, Orlog=Moros, Norns Urd/Verdandi/Skuld, Awayen/Awaylengan/Awaymaion, Morlens, Ginnungagap, Orunmilá, Obatalá, En Ma, Deva/Aurora, Mohen So; preservar a voz de Ellam (marcadores, humor, digressões) — o editor é menor que o autor; jamais editar a lista BIBLIO de build_xlsx.py programaticamente (já corrompeu 2×) — edição manual.
+REGRAS DE OURO: não inventar / [REVISAR] / [TEXTO INCOMPLETO]; plateia e cartas isoladas; Navalha de Ockham (quase sempre zero códigos); nada antes da Devolutiva O-1..O-8; quarentenas (clínica, política, ufológica, teológica, biográfica, institucional); grafias canônicas (Brahma, Tikun, Sophia, Nefilins, Ialdabaoth, Olm, Elm, Adhy, Javé, Vishnu, Xamanismo, Wyrd/Urd, Kapila, Vaishnavismo, Hochmah, Moros, Malkuth=Hochmah=Sophia, Orlog=Moros, Awayen/Awaylengan/Awaymaion, Morlens, Ginnungagap, Orunmilá, Obatalá, En Ma, Deva/Aurora, Mohen So); jamais editar BIBLIO de build_xlsx.py programaticamente; nunca colar token/PAT.
 
-FIM DE TODO CICLO (hábito obrigatório): validar dados_termos.py → regenerar artefatos (build_indice.py, build_xlsx.py, build_word.py) → apostila/DOCX se houver → atualizar CONTINUIDADE.md e os índices → atualizar ESTE arquivo (PROMPT-PROXIMA-SESSAO.md) → python3 ferramentas/gerar_pacotes.py → atualizar backups/pacotes/ → commit e push no branch da sessão → abrir PR só quando eu pedir.
+LIÇÃO DA SESSÃO 8: push ANTES de abrir PR; PR por último e só se o curador pedir.
 
-LIÇÃO DA SESSÃO 8: o merge/fechamento do PR encerra a sessão de código e bloqueia todo acesso remoto ao GitHub. Portanto: faça o push do trabalho ANTES de abrir o PR final, e deixe o PR por último.
-
-Comece agora: monte o ambiente, valide a base, leia os documentos e me apresente o estado + o próximo passo. Aguarde minha confirmação antes de editar.
+Comece agora: valide a base, leia este arquivo e apresente o estado da revisão. Aguarde confirmação.
 ```
 
 ---
 
-## Estado verificado na abertura da sessão 9 (2026-08-23)
+## Workspace da Arena × GitHub (2026-08-25)
 
-Não alterar ontologia com base neste bloco — é auditoria, não devolutiva.
-
-| Item | Resultado |
+| O quê | Papel real |
 |---|---|
-| Validação | `OK: 777 termos, 1852 relações — dados válidos.` |
-| Sequência | RC-001–RC-777 contínua; próximo livre **RC-778** |
-| Fichas físicas | 428 `.md` em `termos/` |
-| Flags `ficha=True` | 423 (todos com arquivo) |
-| Flags `ficha=False` com arquivo | RC-004 (investigação — não mexer), **RC-064, RC-132, RC-165, RC-499** (desatualizados) |
-| Obras | 86 ids em BIBLIO |
-| Apostilas CONCLUIDAS | 37 pastas |
-| Sem DOCX | 13 (lista da Tarefa 2.2) |
-| Sem `original.txt` | Prabrajna 2024-05-04; Podcast Irmãos Dias 2026-08-04 |
-| `visor_workspace.py` | ausente no clone |
-| Windows / `:` | `nome_seguro_windows()` presente; nenhum `:` em `pedagogico/` |
-| Clone | raso; só o merge `b420f14` do PR #2 |
-| Uploads não processados | 2 PDFs em `uploads_recepcao/` |
+| **GitHub** `institutocura-maker/Termos-RC` · branch `arena/01a02e74-termos-rc` | **Fonte da verdade.** O curador sobe PDFs, baixa arquivos, vê o histórico. |
+| **`main`** | Ainda em `b420f14` (PR #2, Windows). O trabalho desta esteira **não** está no `main`. |
+| **Workspace Arena** | Sandbox do agente. Some com a sessão. Downloads no preview **pausados**. O visor (`ferramentas/visor_workspace.py`) existe, mas o curador não o usa. |
+| **Como o curador entrega PDF** | *Add files via upload* no GitHub → `uploads_recepcao/` → o agente faz `fetch`/`pull --ff-only`. Anexos de chat **não** caem em `/home/user/uploads/`. |
+
+Se o Workspace «não tem uso»: está correto. Não investir nele nesta pausa, salvo pedido explícito.
 
 ---
 
-## Encerramento de sessão (checklist deste arquivo)
+## Artefatos de leitura (xlsx / docx)
 
-Antes do último commit, a sessão corrente deve atualizar:
+Não estão no disco nem no Git (por hábito, desde que o versionamento de binários inchou o repo).
 
-1. **Última atualização** (data, número do agente, branch, HEAD).
-2. **ESTADO CANÔNICO ESPERADO** — só se `dados_termos.py` tiver mudado.
-3. **Tarefas 1 e 2** — marcar feito / parcial / ainda pendente; não apagar o enunciado enquanto restar recorte.
-4. **Pendências de fundo** — o curador escolhe a ordem; não promover item à ontologia.
-5. O bloco *PROMPT PARA COLAR* — para a sessão seguinte abrir sem depender do chat anterior.
+```bash
+python3 ferramentas/build_xlsx.py    # → base-terminologica.xlsx (7 abas)
+python3 ferramentas/build_word.py    # → base-terminologica-leitura.docx
+```
+
+`indice-mestre.md` **está** no Git (regenerado a cada ciclo). Apostilas e tratados em DOCX **estão** no Git (`apostilas/CONCLUIDAS/`, `pedagogico/`). Faltam DOCX só de *Javé/Buraco Negro* e *Thot/Hermes*.
+
+Decisão para a sessão nova: o curador quer o xlsx/docx **no GitHub** (para baixar) ou continua só regenerável?
+
+---
+
+## Patrimônio da KB — o que é canônico
+
+Camadas, da mais dura para a mais mole:
+
+### 1. Núcleo (se isto sumir, a Base some)
+
+| Arquivo | O que é |
+|---|---|
+| `ferramentas/dados_termos.py` | **Fonte única.** 777 termos + 1.852 relações. Validar sempre. |
+| `ferramentas/build_xlsx.py` | BIBLIO das 86 obras. **Edição só manual.** |
+| `termos/*.md` | 428 fichas (a carne da ontologia). |
+| `indice-mestre.md` | Índice gerado; versionado. |
+
+### 2. Governança (sem isto o próximo agente se perde)
+
+| Arquivo | O que é |
+|---|---|
+| `PROMPT-PROXIMA-SESSAO.md` | **Vigente.** Estado + primeira ação. |
+| `convencoes-editoriais-rc.md` | Grafias, quarentenas, Navalha. |
+| `GUIA-MESTRE-RC-APOSTILA-v1.1.md` | Método (dossiê → Devolutiva → ampliação). |
+| `CONTINUIDADE.md` | Diário da jornada (longo; cabeçalho = agora). |
+| `CHECKPOINT-SESSAO-2026-08-21.md` | Retomada antiga; útil como história. **Não** usar o procedimento de clone com token. |
+| `PROMPT-INICIAL-DO-AGENTE.md` | Identidade histórica (contagens velhas). |
+
+### 3. Acervo trabalhado (a jornada)
+
+| Pasta | Conteúdo |
+|---|---|
+| `livros/CONCLUIDOS/` | 34 obras integrais com PDF + extract + dossiê + ampliações. |
+| `livros/AMOSTRAS/` | B027 e B035 (Sample; obra completa pendente). |
+| `apostilas/CONCLUIDAS/` | 37 palestras/lives (original.txt + apostila.md + DOCX). |
+| `pedagogico/` | 10 apostilas temáticas + 2 tratados + 2 mapas + Guia TALM + Dossiê Fase 0. |
+| `materiais_externos/` | EXT (terceiros; **não** toca ontologia). |
+| `uploads_recepcao/` | PDFs que o curador subiu (fonte bruta). |
+| `backups/pacotes/` | MANIFESTO + FICHAS + REGENERAÇÃO (seguro versionado). |
+
+### 4. Regenerável / não versionar
+
+`base-terminologica.xlsx` · `base-terminologica-leitura.docx` · `reconstrucao/` · `__pycache__/`
+
+### 5. Arquivos históricos — não confundir com o vigente
+
+`README.md` (contagens 760/1433) · `STATUS-RESTAURACAO.md` · `PLANO-MIGRACAO-DE-CHAT.md` · `PACOTE-MIGRACAO-CHAT-2026-08-18.md`
+
+---
+
+## Ciclos desta esteira (AGENTE 9) — ENCERRADOS
+
+B019 · B011 · B052 · B043 · B013 · B014 · B016 · B044 · B024 · B041 · B036 · B034 · B042 · B048 · B040 · B037 · B049 · B009 · B023 · B001 · B002 · B033 · B017 · B018 · B039 · B003 · B025 · B026 · B015 · B020 · B021 · B005 · B006 · **B022** · amostras B035 e B027 · Carbono.
+
+Trilogias Dramas / Terra Atlantis / Queda e Ascensão: **ENCERRADAS.**
+
+HEAD: **`3fa96c1`** `feat: aplica Devolutiva B022 — 9 fichas, 0 códigos`. PR **não** aberto.
+
+Pendências de livro (quando o curador quiser): B074 *Mentalma I*, B075 *Mentalma II*; obras completas de B027 e B035.
+
+---
+
+## Encerramento de sessão (checklist)
+
+1. Última atualização (data, agente, branch, HEAD).
+2. ESTADO CANÔNICO — só se `dados_termos.py` mudou.
+3. Pendências de fundo — o curador escolhe a ordem.
+4. Bloco *PROMPT PARA COLAR* — a sessão seguinte não depende do chat anterior.
