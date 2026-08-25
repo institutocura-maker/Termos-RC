@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum.
+`B057_revolta_do_anjo_decaido/` — ingresso (2026-08-25, AG. 10); leitura integral (70 págs) feita; **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; prefácio de Ellam). B058 (vol. 2) com PDF já em `uploads_recepcao/` — próximo ciclo, na ordem do curador.
 
 ## Último ciclo
 

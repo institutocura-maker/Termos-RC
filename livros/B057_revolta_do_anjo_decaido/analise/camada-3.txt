@@ -1,0 +1,11 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B057_revolta_do_anjo_decaido/original.txt
+
+SHA-256 479e5610360ef4cb71bcedac18a334385f4044c4bfeff8ef5e11e004d64ef6be
+176.251 bytes · ~28.206 palavras · 70 págs. (paginação do livro = PDF − 3)
+Sem páginas vazias. Sem \x00. Sem marca d'água. Nada interpolado.
+**EDIÇÃO RECEBIDA:** "Corrigido e Adaptado por Gullan Greyl" (http://www.gullangreyl.pt; 15-11-2022) — português europeu ("perspetivas", "factos", "registado"); metadado PDF: autor "Gallian Greyl" (o adaptador), título em branco, producer "Adobe PDF Library 21.7.123" (Acrobat PDFMaker para Word).
+Voz: psicografia em 1ª pessoa de **Yel Luzbel** (ser de Capela — **voz isolada**, padrão B022: ser/plateia isolados) + interjeições da "esta escritora" (Jeane Miranda) + PREFÁCIO (voz de Ellam, pp. 4–5).
+Paratexto: SINTESE (p. 1), notas de rodapé numeradas (datas referenciadas a anos terrestres p. 20; Sophia = avatar de Vishnu p. 20; Pandora/olimpianos p. 25; **Orbum — extraído de B026 "Carma e Compromisso" (1996)** p. 25; Zion/Codificador p. 30; Capela = 4 estrelas p. 10; "Anjos Decaídos" (2010) p. 14).
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).
