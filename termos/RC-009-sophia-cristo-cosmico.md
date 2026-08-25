@@ -151,6 +151,15 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B057 p. 68 · cliffhanger]** "todos nós esperámos muito tempo por uma resposta de Sophia e, aqui, adianto o que será discutido no segundo livro desta trilogia: **essa explicação nunca veio!**" (→ B058).
 - 0 códigos novos (O-3). Grafia canônica **Sophia** mantida (o livro usa "Sophia").
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 10]** "esperámos muito tempo pela resposta de **Sophia – o 'Comandante deste universo' e 'Pai dos Biodemos'** – quanto ao pedido de se fazer uma reunião entre ele e os vários Sábios das 'famílias de biodemos'... **essa solicitação nunca foi atendida!**" (resolve o cliffhanger do B057.)
+- **[B058 caps. 10–13]** o silêncio persiste: nem o **ofício da Universidade de Tau Ceti** ("enviaremos, imediatamente, um ofício da 'Universidade', solicitando que tudo seja desvendado por ele", p. 55) obtém resposta; Len Mion: "Ele nada dirá, **porque nada sabe!**" (p. 59 — leitura do ser em revolta).
+- **[B058 p. 72 · a suspeita — leitura do ser em revolta]** "**Sophia, que nos engendrou, também criou todos os nossos 'Processadores'.**"; "agora está evidente para mim que **Sophia e as suas Hostes devem espionar-nos por meio dos 'Processadores Familiares'!**" (RC-446/RC-453; O-7 — não fato ontológico.)
+- **[B058 p. 67/74]** as designações do séquito: "**Hostes de Comando**" (p. 67) e "**Hostes bélicas**" (p. 74 — RC-453).
+- 0 códigos novos (O-3). Grafia canônica **Sophia** mantida.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

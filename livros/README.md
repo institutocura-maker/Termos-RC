@@ -23,9 +23,11 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B058_inicio_da_revolta_capelina/` — ingresso + leitura integral (76 págs) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; **sem prefácio de Ellam** neste volume). B059 (vol. 3) sem PDF (somente físico) — radar completo.
+Nenhum (B057 e B058 fechados em 2026-08-25 — trilogia de Yel Luzbel ⅔ completa). **B059 *Sinais de Guerra em Capela* está SEM PDF** (somente físico, ASIN B0GFPWXVSG). Próximo ciclo: na ordem do curador.
 
 ## Último ciclo
+
+`CONCLUIDOS/B058_inicio_da_revolta_capelina/` — **B058 *O Início da Revolta Capelina*** (obra secundária — psicografia de Jeane Miranda; **sem prefácio de Ellam**; ed. 2022 Gullan Greyl): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **15 fichas ampliadas + 6 criadas (RC-021/103/448/451/452/453); 0 códigos; nota da ed. 2022 + notas com fontes externas (Wikipédia/B031) na BIBLIO**. B057 (Livro 1) em `CONCLUIDOS/`.
 
 `CONCLUIDOS/B057_revolta_do_anjo_decaido/` — **B057 *A Revolta do Anjo Decaído*** (obra secundária — psicografia de Jeane Miranda, prefácio de Ellam): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **10 fichas ampliadas + 7 criadas (RC-036/039/046/142-remissão/146/445/447) + B057 nas fontes de RC-085/444/491; 0 códigos; B086–B090 cadastradas; ed. 2022 anotada na BIBLIO**. RC-142 = remissão para RC-078 (duplicidade resolvida sem fusão).
 

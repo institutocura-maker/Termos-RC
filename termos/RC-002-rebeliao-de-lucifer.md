@@ -48,6 +48,15 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[B057 p. 14 · nota]** nomes variantes do evento: "'Rebelião dos Anjos Decaídos', também chamada de 'Revolta dos Anjos Decaídos' ou **'Rebelião de Yel Luzbel'**".
 - 0 códigos novos (O-3). Voz de Yel Luzbel (psicografia de Jeane Miranda) — **isolada, leitura do ser, não fato ontológico** (O-7).
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 31]** "Tornámo-nos todos fadados a acreditar que éramos possuidores da Verdade e que Sophia e os seus Administradores estavam a mentir-nos. Por isso, a partir dali, eles foram declarados nossos inimigos! **A 'Revolta Capelina' estava declarada!**" (RC-450.)
+- **[B058 p. 40]** a escalada radical (Len Mion): "havemos de forçá-lo a receber-nos ou a explicar-nos quem é este Criador que nunca foi visto... **Se ele não nos convencer, vamos impor-nos, obrigando-o a abandonar, imediatamente, o comando deste universo!**"
+- **[B058 p. 25]** "Acabou-se o tempo da escravidão, e já não me sinto obrigado a respeitar Sophia e os seus Assessores." (Len Mion — leitura do ser em revolta.)
+- **[B058 p. 74]** o desfecho do volume: o movimento adquire "bandeira, lema e líderes" e vira **"Exército"** — "Caminhávamos todos na mesma direção do que, posteriormente, mostrou-se como sendo um **cenário de conflito, dor e guerra!**" (→ B059 *Sinais de Guerra em Capela*.)
+- 0 códigos novos (O-3). Voz de Yel Luzbel (psicografia) — **leitura do ser, não fato ontológico** (O-7: isolamento total, sem prefácio de Ellam neste volume).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

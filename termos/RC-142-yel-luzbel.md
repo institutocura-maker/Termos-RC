@@ -16,3 +16,10 @@
 ## Observações
 - Nome cósmico do ser: "**Yel Luzbel** – assim é o seu nome cósmico" (B057, p. 13). Sinônimos na malha: **Lúcifer** (RC-078); relação canônica `RC-078 variação RC-142` (B031) já registrada na tabela-mestra.
 - Ficha de remissão criada no ciclo B057 (Devolutiva O-2). 0 códigos novos (O-3).
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **Remissão mantida** (decisão da Devolutiva B057): todo o conteúdo de B058 relativo ao ser está concentrado na ampliação de **RC-078** (renúncia ao cargo; nomeação como "Primeiro em Comando" das famílias rebeladas; "Imagem e Reflexo"; a "massa energética" que só ele vê).
+- 0 códigos novos (O-3).
+
+---

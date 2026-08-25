@@ -18,6 +18,16 @@ No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fu
 - **Variações:** "um dos primeiros pesquisadores da família Yel" (B057, p. 15); "primeiro pesquisador da família Yel" (B057, p. 26); "Primeiro Pesquisador" (B058, registro da BIBLIO)
 - **Obs.:** não confundir com o "primeiro escalão" de Orbum (nota p. 25 do B057) — este é o estrato administrativo, não um cargo de pesquisa
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 42]** "Comecei a palestra a falar sobre as **minhas obrigações enquanto 'Primeiro Pesquisador' da 'família Yel'**." (em Antares.)
+- **[B058 p. 47]** o endereço cerimonioso do Grão-mestre: "Integrante Yel Luzbel, **'Primeiro Pesquisador' pertencente à 'família Yel'**, do planeta Dan, do sistema de Capela."
+- **[B058 p. 67]** a censura: "reconheça que não está a portar-se de acordo com o cargo de **'Primeiro Pesquisador da Família Yel'**, que você ocupa!"
+- **[B058 p. 68 · A DEMISSÃO]** "Quero, neste momento, **renunciar à função que exerci desde que fui urdido para esta realidade!**" — o "Primeiro em Comando" dos Yel: "Não existe nenhum registo deste tipo de solicitação... Isso é inconcebível!... **como pode pensar que conseguirá viver sem que esteja ligado a uma 'família', hierarquia e função** que lhe define o motivo da sua existência?"
+- **[B058 p. 70]** o relato público: "Contei... **da minha demissão do cargo de 'Primeiro Pesquisador' e, consequentemente, do 'Processador Yel'**. Nada lhes ocultei!"; o surgimento do "**Segundo Pesquisador**" dos Yel na hierarquia.
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

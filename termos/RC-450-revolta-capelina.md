@@ -18,6 +18,15 @@ No Livro 1 (B057), Yel Luzbel levanta suas constatações sobre a Obra do Criado
 - **Variações:** "Revolta de Capela"; "Rebelião dos Anjos Decaídos" (designação terrena); "Rebelião de Lúcifer" (RC-002)
 - **Obs.:** na narrativa psicografada, "revolta capelina" refere-se à fase inicial em Capela; a base registra o evento maior como "Rebelião de Lúcifer" (RC-002)
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 31 · a declaração]** "A **'Revolta Capelina' estava declarada!**" — após a grande palestra com os líderes ao lado e o "grande circuito mental" fechado: "eles [Sophia e Administradores] **foram declarados nossos inimigos**!"
+- **[B058 p. 40]** o objetivo radical: "vamos impor-nos, **obrigando-o a abandonar, imediatamente, o comando deste universo!**" (Len Mion.)
+- **[B058 p. 74 · o EXÉRCITO]** "Passámos, então, a pensar e a agir conforme uma organização que se assemelha ao que os humanos da Terra conhecem como sendo um **'Exército'**. Tínhamos **'líderes e soldados'** que estavam a aprontar-se para **combater Sophia e as suas Hostes bélicas!**"; a causa "tinha **bandeira, lema e líderes**".
+- **[B058 p. 74 · o fecho]** "Não havia mais retorno! Caminhávamos todos na mesma direção do que, posteriormente, mostrou-se como sendo um **cenário de conflito, dor e guerra!**" (→ B059.)
+- 0 códigos novos (O-3). A Revolta Capelina como etapa formal da Rebelião (relação RC-450 ↔ RC-002 já na malha).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

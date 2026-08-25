@@ -18,6 +18,14 @@ Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias
 - **Variações:** "sistema solar de Capela"; "sistema de Capela" (B057); Alfa Aurigae (nota p. 10)
 - **Obs.:** no universo RC, "Capela" designa o sistema (não um planeta); o mundo de nascimento de Yel Luzbel é **Dan** (RC-046)
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 13 · nota do adaptador — quarentena institucional]** "**Capella** fica a cerca de **42 anos-luz do Sol** (o ano-luz... vale aproximadamente 9,5 trilhões de quilómetros), sendo **150 vezes mais brilhante e 16 vezes maior** que o astro-rei do Sistema Solar." — grafia "Capella" **absorvida** para o canônico **Capela** (O-4).
+- **[B058 p. 16]** o sistema como palco: os conclaves das "famílias de biodemos **que existiam em Capela**".
+- **[B058 p. 47]** no endereço cerimonioso do Grão-mestre: "Integrante Yel Luzbel, 'Primeiro Pesquisador' pertencente à 'família Yel', do planeta Dan, **do sistema de Capela**."
+- 0 códigos novos (O-3). Notas da ed. 2022 com fonte externa (adaptador) — quarentena institucional (O-4/O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

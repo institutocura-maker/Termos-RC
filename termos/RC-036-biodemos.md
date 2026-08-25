@@ -18,6 +18,15 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **Variações:** "estirpe dos biodemos" (B057); biodemos (plural)
 - **Obs.:** não confundir com **Demos** (RC-049) — categoria/estirpe distinta na malha
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 10]** Sophia = "**Pai dos Biodemos**"; os "vários Sábios das 'famílias de biodemos'".
+- **[B058 p. 16]** "a maioria dos 'Primeiros em Comando' das numerosas **'famílias de biodemos' que existiam em Capela**" presentes ao conclave.
+- **[B058 p. 39]** a adesão massiva: "estava cercado por **centenas de milhares de seres** que faziam parte de várias 'famílias capelinas'. Pelo que eu pude perceber, **somente da 'família Yel', havia mais da metade dos seus integrantes**."
+- **[B058 p. 60]** a mudança de natureza em curso: "nós, os capelinos, **não somos tendentes a ter 'emoções' e sequer nos agredíamos mutuamente. Éramos seres objetivos e práticos!**" — "pareceu-me que estávamos a perder esse nosso modo de agir!"
+- 0 códigos novos (O-3). Quarentena ufológica: cruzar, não materializar (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

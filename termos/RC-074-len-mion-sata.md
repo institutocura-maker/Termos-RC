@@ -48,6 +48,18 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[B057 p. 61 · corresponsabilidade, a escritora]** "cada um fez o que quis com ela [a 'pólvora']... cada um seguiu a **inclinação que tinha mais forte dentro de si**, o que foi da inteira responsabilidade de cada um, e não somente sua."
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (Yel Luzbel) — leitura do ser (O-7).
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 12]** "há **'algo de podre'** em toda a criação deste universo!"; "gostaria que, a partir deste momento, **você me tratasse como um integrante da sua 'família'**" (a Yel Luzbel).
+- **[B058 p. 25]** "**Acabou-se o tempo da escravidão**, e já não me sinto obrigado a respeitar Sophia e os seus Assessores."
+- **[B058 p. 34]** o plano de expansão: "O plano consiste em **irmos primeiro a Antares** e, de lá, visitarmos os outros planetas que também já o estão a aguardar" — inclusive "a famosa 'Universidade' de Tau Ceti" (RC-021/RC-103/RC-451).
+- **[B058 p. 39]** "ele possuía um tipo de **poder pessoal de persuasão** que fazia com que ficássemos totalmente envolvidos pela força advinda das suas palavras. Era impossível que o ouvinte não se convencesse..."
+- **[B058 p. 52 · a ruptura com Yel]** "Mesmo que você desista, **eu não recuarei!**... daremos seguimento à nossa 'causa'"; "estes Sábios que vivem **enclausurados e ligados em dogmatismos de cunho científico**"; "a sua Hierarquia **'falida'** e a este **falso Criador, inventado por eles, para somente nos dominar!**" (leitura do ser em revolta — O-7.)
+- **[B058 p. 61–62]** "Nós, da 'família Mion', **não colecionamos dúvidas!**"; o ultimato (do Primeiro em Comando Mion): "você deve decidir logo, **se está connosco ou contra nós!**"; "Não acreditamos mais em Sophia e, portanto, **queremos ver e falar com o Criador!**"
+- **[B058 p. 63]** a percepção de Yel Luzbel: "me causava 'desassossego', perceber um certo **'extremismo, nervosismo e agressividade'** tanto no discurso como no atual modo de agir de Len Mion e do 'Primeiro em Comando' da 'família Mion'."
+- 0 códigos novos (O-3). Fonte: narrativa psicografada (voz isolada de Yel Luzbel).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

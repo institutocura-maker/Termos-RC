@@ -18,6 +18,14 @@ No B057 (cap. 2, pp. 21–22), Yel Luzbel explica o gênero capelino por contras
 - **Variações:** "entes coletivos" (B057); "biocoletivos" (B058)
 - **Idioma de origem / etimologia:** português — bio- + coletivo (neologismo do universo capelino)
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 1 · SINTESE]** "a Família Mion decide entrar em contato com **os demais Biocoletivos espalhados pelo universo**"; "os lacres que marcavam o psiquismo coletivo desses seres passaram a ser rompidos, dando lugar a um **senso de individualidade inquietante jamais intentado**" (RC-448).
+- **[B058 p. 70 · o limiar da individualidade]** Yel Luzbel: "Se eu deixar de ser um integrante da minha 'família' e, portanto, desligar-me do 'Processador' que nos une a todos, **não mais existirei como um ser coletivo para este universo?**"
+- **[B058 p. 71]** "Precisamos libertar-nos dos nossos grilhões, e o facto de estarmos todos ligados a 'Processadores Familiares', **parece ser exatamente o que nos mantêm dominados e controlados!**"
+- 0 códigos novos (O-3). A transição coletivo→individual é o eixo conceitual do volume (O-7: leitura do ser).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

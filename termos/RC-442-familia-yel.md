@@ -28,6 +28,17 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 - **[B057 p. 21]** contexto: entre as "**Aproximadamente 250 mil famílias capelinas**" criadas por Sophia (900 milhões a 230 milhões de anos; "todos assexuados –, em geral"; funções predeterminadas).
 - 0 códigos novos (O-3). Números (492 mi; 5545) vêm exclusivamente da narrativa psicografada (O-7).
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 18–19 · o Conselho Familiar]** a convocação inédita **por presença** (não mental) ao "auditório central"; o "Primeiro em Comando" dos Yel: "fui convocado pelos Sábios de outras 'famílias' para explicar-lhes de onde Luzbel obteve as informações"; "Não o recriminarei por desobedecer-nos, Luzbel."
+- **[B058 p. 20]** o isolamento sentido por Yel: "fiquei extremamente incomodado por **ter sido isolado do 'Processador Yel'** e, consequentemente, do restante da minha espécie. Senti-me sozinho e desamparado."
+- **[B058 p. 36]** a recusa coletiva: Yel e a equipa anunciam pelo Processador que não comparecerão à assembleia do Conselho.
+- **[B058 p. 39]** a adesão: na onda rebelde, "somente da 'família Yel', **havia mais da metade dos seus integrantes**".
+- **[B058 p. 66–69 · a censura final e o ineditismo]** "Não existe **nenhum registo deste tipo de solicitação** na nossa ou em qualquer outra 'família capelina', Luzbel!... **Isso é inconcebível para todos nós!**"; "Você está a quebrar todas as regras e a violar tudo o que construímos enquanto seres que foram urdidos para serem analíticos e racionais!"
+- **[B058 p. 70]** o "**Segundo Pesquisador**" dos Yel pergunta como Yel sobreviverá "sem estar inserido em alguma 'família'" (hierarquia interna: Primeiro Pesquisador → Segundo Pesquisador).
+- 0 códigos novos (O-3). Números e hierarquias vêm da narrativa psicografada (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

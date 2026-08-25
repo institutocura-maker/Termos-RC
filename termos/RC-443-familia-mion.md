@@ -29,6 +29,19 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - **[B057 p. 60–61 · a "perdição"]]** a família "se tornou extremamente 'violenta' e 'descontrolada'"; a "agressividade": "partir imediatamente para o confronto direto ou indireto" (p. 61); "essa foi a perdição da família Mion" (p. 61).
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7).
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 14]** Len Mion convoca o conclave da família: "Vamos Luzbel, **teremos de tratar deste assunto por nós mesmos!** A minha 'família' já não tem mais paciência..."
+- **[B058 p. 29]** o "Primeiro em Comando" dos Mion convoU "os Sábios de **quase todas as 'famílias capelinas'**".
+- **[B058 p. 32]** "Temos do nosso lado os 'Primeiros em Comando' e os Sábios dos 'Conselhos' de **milhares de 'famílias'**."
+- **[B058 p. 58]** a divisão de papéis: "A 'família Mion' **seguia administrando e organizando o nosso movimento**, enquanto o que me cabia fazer, era somente falar diante do público."
+- **[B058 p. 61]** a irredutibilidade: "Nós, da 'família Mion', **não colecionamos dúvidas!**... iremos até ao fim, seja lá o que aconteça!"
+- **[B058 p. 71]** a oferta ao renunciante: "acharemos uma maneira de **você ser ligado ao 'Processador' da 'família Mion'**!"
+- **[B058 p. 73]** "Somos a sua 'família' e o seguiremos nas suas decisões e ações!... somente devemos obediência a você e à 'família Mion'!"
+- **[B058 p. 63]** o registro do desvio: "extremismo, nervosismo e agressividade" (percepção de Yel Luzbel).
+- 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

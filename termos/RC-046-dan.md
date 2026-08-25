@@ -18,6 +18,14 @@ Termo do universo capelino da RC (glossário B031; presente também em B058). No
 - **Variações:** "mundo chamado 'Dan'" (B057)
 - **Obs.:** não confundir com **Danu** (mitologia celta) nem com outros "Dan" da malha — aqui é o mundo capelino de urdidura
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 41 · nota do adaptador, com fonte B031]** "**Dan é um planeta do Sistema de Capela. Era lá que ficavam as naves em que a 'Família Yel' foi criada.** Fonte: 'Painéis Emergentes da Revelação Cósmica — um guia prático para iniciantes - Livro 1', de Raqueyel Braga, editora Nova Egrégora, 2020." (= **B031** — nota da ed. 2022, quarentena institucional.)
+- **[B058 p. 47]** o Grão-mestre: "Integrante Yel Luzbel, 'Primeiro Pesquisador' pertencente à 'família Yel', **do planeta Dan**, do sistema de Capela."
+- **[B058 p. 63]** o retiro de Yel Luzbel: "**Voltei para o meu planeta Dan, escondi-me de todos** e passei a refletir sobre o rumo que a 'causa' estava a tomar."
+- 0 códigos novos (O-3). Quarentena ufológica (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B058 — Os Livros de Yel Luzbel 2: O Início da Revolta Capelina
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 11 — esteira `arena/01a03ad8-termos-rc`).** 15 fichas ampliadas (RC-002/009/036/039/046/074/078/142/442/443/445/446/447/449/450) + 6 criadas (RC-021/103/448/451/452/453); nota da ed. 2022 (com fontes externas das notas) na BIBLIO; **0 códigos**. Pasta em `CONCLUIDOS/`. Sem apostila.
 
 ## 1. Identificação
 

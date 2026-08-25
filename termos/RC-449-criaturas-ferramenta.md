@@ -27,6 +27,14 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 
 - **Criaturas-ferramenta (P2025-03-15):** "o pior dos 8 bilhões de seres humanos é capaz de agir como um herói em um dado instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8 bilhões de anos consegue fazer isso no paraíso" — o diferencial humano como ferramenta de ressignificação.
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 6 · a nota "Imagem e Reflexo" — a definição filosófica do conceito]** "apenas uma **criatura-ferramenta**, e passa a constituir **o 'deus verdadeiro de si mesmo'!**"; "A 'Forma Imagem-pensamento' foi subjugada por algumas das suas 'réplicas' que se libertaram e se autotransformaram em 'reflexos de si mesmas', independentes do seu Criador."
+- **[B058 p. 8]** "Que culpa têm as **criaturas-ferramentas — como os capelinos e os humanos**, por exemplo — que surgiram para a vida nesta Criação 'imperfeita', de simplesmente pensarem e procederem de acordo com o que foram condicionados?" (nota da autora terrena.)
+- **[B058 p. 9]** a tríade: "o 'Espelho' (o Espírito) modificar o '**reflexo' (o ego da criatura-ferramenta que ele anima)** e a 'Imagem' (o próprio Criador que se 'reconstituiu'...)."
+- 0 códigos novos (O-3). "Deus verdadeiro de si mesmo" e a metafísica do reflexo = **leitura teológica/filosófica do ser** (O-7 — jamais fato ontológico primário).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

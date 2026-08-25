@@ -28,6 +28,15 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - **[B057 p. 35]** a anatomia da mente coletiva: "um equipamento unia as nossas mentes individuais – ou seja, possuíamos uma **'mente coletiva', subdividida em várias 'mentes componentes', todas associadas pelo 'Processador Yel'**."
 - 0 códigos novos (O-3). Sophia como criadora: relação RC-446 ←criado-por— RC-009 já registrada (B058).
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 27 · o bloqueio]** "Encontrámos uma maneira de **'bloquear' as nossas conversas**. O 'circuito está fechado', e somente nós, que estamos aqui, somos capazes de captar o que está a acontecer... **nada disso irá para o nosso 'Processador Familiar'!**" (a equipa de pesquisa de Yel — técnica inédita.)
+- **[B058 p. 71–72 · a suspeita]** "Não sabemos se **Sophia e as suas Hostes se conetam aos 'Processadores Familiares'**... Isso é algo que teremos de descobrir!"; "**Sophia, que nos engendrou, também criou todos os nossos 'Processadores'.**"; "Sophia e as suas Hostes **devem espionar-nos por meio dos 'Processadores Familiares'!**" (leitura do ser em revolta — O-7.)
+- **[B058 p. 71]** a requalificação do dispositivo: "estes mecanismos que... se tratam somente de **dispositivos que nos controlam e nos dominam**"; a oferta: "acharemos uma maneira de você ser ligado ao 'Processador' da 'família Mion'!"
+- **[B058 p. 70]** o desligamento de Yel: "**Jamais alguém havia abdicado da sua função ou sequer se desligado do 'Processador' da sua 'família'!**"
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

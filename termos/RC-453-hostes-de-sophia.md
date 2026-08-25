@@ -1,0 +1,45 @@
+# Hostes de Sophia — RC-453
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.2 Coletivos criadores |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-25 |
+
+## Definição Sintética
+**Hostes de Sophia** são as forças coletivas a serviço de Sophia (RC-009) na trilogia de Yel Luzbel — o séquito administrativo e bélico do "Comandante deste universo": os "Administradores"/"Assessores" e as "**Hostes bélicas**" que, ao final do Livro 2, o "Exército" dos biodemos rebelados se prepara para combater. No Livro 1, "a Revolta... foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**".
+
+## Contexto / Origem
+No Livro 2 (B058), as designações se sucedem: "Sophia e as suas Hostes" (recorrente); "Sophia e os seus Assessores" (pp. 25–26); "as suas 'Hostes de Comando'" (p. 67); "combater Sophia e **as suas Hostes bélicas**!" (p. 74 — o alvo do "Exército" rebelde). A relação canônica da malha (`RC-453 associado-a RC-009`, B058: "Hostes bélicas a serviço de Sophia") já registrava o vínculo. No Livro 1 (B057), as hostes eram o alvo da rebelião ("contra Sophia e as suas hostes", p. 19) e a suposta identidade do Criador na teoria do ser em revolta ("E se Sophia e as suas hostes, na verdade, fossem esse Criador...?", p. 49 — quarentena).
+
+## Etimologia / Grafias
+- **Grafia preferida:** Hostes de Sophia
+- **Variações:** "as suas Hostes" (B057/B058); "Hostes de Comando" (B058, p. 67); "Hostes bélicas" (B058, p. 74); "Assessores"/"Administradores" de Sophia
+- **Obs.:** coletivo (não ser individual); no RC, as hostes conectam-se à hierarquia administrativa de Orbum (RC-085)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| O Início da Revolta Capelina (B058) | Cap. 6 | p. 26 (PDF): "enfrentarmos Sophia e as suas Hostes" | narrativa psicografada (Yel Luzbel) |
+| O Início da Revolta Capelina (B058) | Cap. 14 | p. 67 (PDF): "as suas 'Hostes de Comando'" | narrativa psicografada |
+| O Início da Revolta Capelina (B058) | Cap. 15 | p. 74 (PDF): "combater Sophia e as suas Hostes bélicas!" | narrativa psicografada |
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 19 (PDF): a rebelião "contra Sophia e as suas hostes" | narrativa psicografada |
+
+## Citações-chave
+> "Por mais desagradável que seja, preciso informar o leitor que a 'Revolta dos Anjos Decaídos' foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**, que resultou na morte de seres de várias espécies desse Sistema Solar e de outros..." — B057, p. 19
+
+> "Passámos, então, a pensar e a agir conforme uma organização que se assemelha ao que os humanos da Terra conhecem como sendo um 'Exército'. Tínhamos 'líderes e soldados' que estavam a aprontar-se para **combater Sophia e as suas Hostes bélicas**!" — B058, p. 74
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado-a (a serviço de — relação B058) |
+| Revolta Capelina | RC-450 | envolve (o alvo bélico do "Exército") |
+| Biodemos | RC-036 | relaciona-se-a (os dois lados do conflito) |
+
+## Seres Associados
+Sophia (RC-009, o comandante); os Administradores/Assessores; os "anjos assessores" (B057, p. 45); Yel Luzbel e Len Mion (os adversários).
+
+## Observações
+**Ficha criada no ciclo B058 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B057/B058 nas fontes) sem ficha física. **Quarentenas (O-7):** mediumística (narrativa psicografada — "leitura do ser") + ufológica (força bélica extraterrestre — cruzar, não materializar). A identificação "Hostes = o Criador" (B057, p. 49) é **teoria do ser em revolta** — não fato ontológico. 0 códigos novos (O-3).

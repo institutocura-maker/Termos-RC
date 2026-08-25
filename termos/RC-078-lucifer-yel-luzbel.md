@@ -56,6 +56,20 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **RC-142 "Yel Luzbel" = remissão para esta ficha** (Devolutiva B057, O-2: concentrar o conteúdo em RC-078; duplicidade RC-078 × RC-142 resolvida **sem fusão de códigos** — RC-142 permanece termo-remissa na malha).
 - 0 códigos novos (O-3). "Lacres mentais", "vírus mental", "liberdade mental", "pólvora" = vocabulário narrativo da obra (Navalha).
 
+
+## Ampliação — B058 (A Revolta do Anjo Decaído)
+
+- **[B058 p. 6 · nota "Imagem e Reflexo" do próprio ser]** "Pode o 'reflexo' tornar-se mais do que a 'Imagem'?... **O 'reflexo' é mais importante do que a 'Imagem', posto que pode modificá-la.** A 'Imagem' perdeu o domínio sobre o 'reflexo'!... **apenas uma criatura-ferramenta, e passa a constituir o 'deus verdadeiro de si mesmo'!**" (RC-449.)
+- **[B058 p. 30]** o efeito sobre as plateias: "parecia que estávamos **hipnotizados pelo seu magnetismo pessoal**!"; "Você, Luzbel, **cresce em tamanho e força quando fala** sobre estes assuntos." (relato da equipa de pesquisa.)
+- **[B058 p. 44]** a "massa energética": "à medida que eles se 'agitavam', a 'massa energética' surgia... ia mudando de cor... ampliava o seu tamanho de tal forma que envolvia também as outras 'famílias'" — **"Por que somente eu consigo ver esta 'massa energética'?"** (só Yel Luzbel a visualiza; Len Mion: "Nada percebo").
+- **[B058 p. 58]** "Tenho de confessar que estava com o **'ego inflamado'**, como diz esta escritora."
+- **[B058 p. 36–37]** a insubordinação formal: anuncia pelo Processador Yel que não comparecerá à assembleia do Conselho; "cheguei à conclusão de que **o tempo da minha submissão havia acabado!**"; insere "o 'germe da divisão' no contexto da 'família Yel'".
+- **[B058 p. 68 · A RENÚNCIA]** "Quero, neste momento, **renunciar à função que exerci desde que fui urdido para esta realidade!**... Não faço mais parte do quadro de pesquisadores desta 'família'! **Agora, sou um ser independente!** Pesquisarei o que me aprouver e não terei mais de pedir permissão a vocês para pensar ou falar algo!" (RC-447.)
+- **[B058 p. 73 · a nomeação]** "você será nomeado como o **'Primeiro em Comando' de todos nós das 'famílias' aqui presentes!** Somos a sua 'família' e o seguiremos nas suas decisões e ações!... somente devemos obediência a você e à 'família Mion'!"
+- **[B058 p. 74 · o juízo tardio]** "fui obrigado a assumir um posto que, para mim, **tornou-se algo terrível e insuportável**, pois tive de exercer **uma liderança que nunca quis**, junto àqueles que me juraram obediência irrestrita."
+- **RC-142 = remissão para esta ficha** (decisão da Devolutiva B057, mantida neste ciclo).
+- 0 códigos novos (O-3). "Massa energética", "magnetismo pessoal", "causa", cargos = vocabulário narrativo (Navalha).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
