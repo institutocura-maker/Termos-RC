@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B057 — Os Livros de Yel Luzbel 1: A Revolta do Anjo Decaído
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 10).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 11 — esteira `arena/01a03ad8-termos-rc`).** 10 fichas ampliadas (RC-002/007/009/074/078/092/252/442/443/446) + 7 criadas (RC-036/039/046/142-remissão/146/445/447) + B057 nas fontes de RC-085/444/491; **B086–B090 cadastradas**; nota da ed. 2022 na BIBLIO; **0 códigos**. Pasta em `CONCLUIDOS/`. Sem apostila.
 
 ## 1. Identificação
 

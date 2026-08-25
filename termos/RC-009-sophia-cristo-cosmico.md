@@ -139,6 +139,18 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B039 p. 113]** NAT: a continuidade da «tese de Jesus» «será realizada por Sophia (que cedeu o seu DNA pessoal para ser inseminado em Maria)», cujo corpo «foi engendrado para viver até o final do universo».
 - **[B039 p. 156]** Comentário 3 (fala de Ellam): Sophia é a «contraparte cósmica» de Jesus; «posicionar-se» ≠ agir; «triste, pobre e podre é esse poder» de que está investido. Fala de Val Eno no mesmo comentário = **isolada**. Caps. 1–12 **isolados**. Sem fusão com B017 / B018 / B014. Fonte **B039** já constava na tabela-mestra.
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 17–18]** "nem mesmo Sophia², o **Comandante dos capelinos**, 'representante legal' do Criador, **naquele quadrante**" — comparado ao "presidente que comanda uma corporação".
+- **[B057 p. 20 · nota de fim de capítulo]** "**Sophia é o epíteto de um ser extraterrestre**, que significa 'Personificação da Sabedoria'. Ele é um **avatar de Vishnu**, e também conhecido como o '**Pai dos Capelinos**' por esses extraterrestres. No livro 'A Caminho da Luz', de 'Emmanuel', psicografado por Chico Xavier, ele foi chamado de '**Cristo Cósmico**'." (Emmanuel/Chico Xavier = fonte citada **mediumística, leitura isolada** — O-7.)
+- **[B057 p. 21]** criador das famílias capelinas: "fomos urdidos por vontade de um ser cósmico – ou seja, Sophia – **que nos fez à sua imagem e semelhança**, talvez procurando conhecer-se"; "**Aproximadamente 250 mil famílias capelinas** foram criadas, sequencialmente, de 900 milhões a 230 milhões de anos antes do presente... cada qual com características próprias e uma **função predeterminada**... todos assexuados –, em geral."
+- **[B057 p. 34 · o silêncio]** "procuramos novamente por Sophia, para que ele nos recebesse, **mas isso não foi possível, segundo a equipa que administra o tempo que ele dispõe** para receber as famílias que precisam de algum esclarecimento"; "algo assim **nunca aconteceu connosco** enquanto família, já que, sempre que desejávamos, éramos prontamente atendidos por ele ou por alguém da sua equipa."
+- **[B057 p. 45]** "os **anjos assessores de Sophia**, que eram menos evoluídos vibratoriamente do que eu, **podiam ver o Criador e eu não** – portanto, possivelmente, o Criador teria o mesmo nível de vibração que tais seres que o percebiam."
+- **[B057 p. 49 · leitura do ser em revolta — quarentena]** "E se **Sophia e as suas hostes, na verdade, fossem esse Criador** que tenta fazer-nos de **massa de manobra** para que soframos, e que nós... tenhamos que elaborar a 'cura' para ele próprio **através do nosso sofrimento**?" — teoria formulada na fase revoltada (caps. 5–7); o próprio Yel Luzbel a desqualifica depois ("contaminado com tantas ideias equivocadas", p. 45). **Não fato ontológico.**
+- **[B057 p. 68 · cliffhanger]** "todos nós esperámos muito tempo por uma resposta de Sophia e, aqui, adianto o que será discutido no segundo livro desta trilogia: **essa explicação nunca veio!**" (→ B058).
+- 0 códigos novos (O-3). Grafia canônica **Sophia** mantida (o livro usa "Sophia").
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -18,6 +18,16 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 - **Variações:** "família Yel"; estirpe Yel; "famílias capelinas" (conjunto)
 - **Obs.:** não confundir com a **Família Val** (RC-109) nem com a **Família Mion** (RC-443), outras estirpes de Capela
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 15]** "A nossa família Yel foi urdida **há cerca de 492 milhões de anos**¹, e era composta por **5545 seres**. Desses, todos mantinham registado em si próprios **os genes que nos definiam como família**... não conseguíamos fugir a essa 'programação'. **Éramos assim, e pronto!**" (nota p. 20: tempos referenciados a anos terrestres.)
+- **[B057 p. 15]** "Cada um de nós, da família Yel – **uma das espécies do género capelino** –, nasceu individualmente... éramos ligados uns aos outros por um mecanismo que ficou conhecido entre nós como o **'Processador Yel'**. Esse **'Processador Quântico'** registava tudo o que sentíamos individualmente e, posteriormente, tudo o que pensávamos ou sentíamos enquanto grupo ou coletividade familiar." (RC-446.)
+- **[B057 p. 28]** a hierarquia interna: o mediador "com o seu poder mental... haveria de conseguir expressar, em pensamento linear, as questões" para "**o mais sábio – o que havia nascido primeiro –**, pois conhecia 'segredos' que alguns de nós ainda não tivéramos tempo de aprender" (o primeiro da família Yel a ser urdido — p. 29); o **conclave das três mentes**: "fecharam um 'circuito mental' entre nós três. **Éramos três mentes a operar como uma única**."
+- **[B057 p. 60 · a decisão protetora]** "os meus irmãos mais sábios **haviam cortado a minha participação junto a ele** [Processador Yel] porque haviam entendido que as minhas vibrações provocariam um estado de desequilíbrio nos outros membros da família Yel. Talvez, manter o meu 'circuito mental' fechado para o acesso ao 'Processador Yel' **tenha sido a decisão mais sábia** naquele tempo." (a escritora duvidou; Yel Luzbel defendeu a decisão — p. 60.)
+- **[B057 p. 21]** contexto: entre as "**Aproximadamente 250 mil famílias capelinas**" criadas por Sophia (900 milhões a 230 milhões de anos; "todos assexuados –, em geral"; funções predeterminadas).
+- 0 códigos novos (O-3). Números (492 mi; 5545) vêm exclusivamente da narrativa psicografada (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

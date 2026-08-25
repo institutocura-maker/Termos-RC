@@ -2,9 +2,9 @@
 
 > **Ritual de continuidade.** Este arquivo é o prompt a colar (ou anexar) no chat seguinte.
 >
-> **Última atualização:** 2026-08-25 · AGENTE 10 · **REVISÃO DE CONTINUIDADE FECHADA** (tarefas A/B/C/D) + **CICLOS B074 E B075 *Mentalma I–II* FECHADOS** (Devolutivas O-1..O-8 aplicadas; 0 códigos; B084/B085 cadastradas) · HEAD **`66b01e1`** (handoff; + commits da esteira 10) · branch `arena/01a03913-termos-rc`.
+> **Última atualização:** 2026-08-25 · AGENTE 11 · **CICLO B057 *A Revolta do Anjo Decaído* FECHADO** (Devolutiva O-1..O-8 aplicada: **10 fichas ampliadas + 7 criadas** — RC-142 = remissão de RC-078; **B086–B090 cadastradas**; **0 códigos**; 777/1.852 invariantes) · branch **`arena/01a03ad8-termos-rc`** (esteira 11; trouxe o tip `0d76442` da esteira 10 via fetch+reset).
 >
-> **Tarefa da sessão nova:** retomar o repasse dos livros — **próximo: B076–B078 *Mentalma III–V*** (sem PDF — quando o curador tiver); obras completas **B027 e B035**; B085 *Hyren-Hyron* (sem PDF). **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
+> **Tarefa da sessão nova:** retomar o repasse dos livros — **próximo: piloto B058** *O Início da Revolta Capelina* (PDF já em `uploads_recepcao/`), com dossiê enxuto ao curador. **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
 
 ---
 
@@ -21,32 +21,33 @@
 ## PROMPT PARA COLAR NO NOVO CHAT
 
 ```
-Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan Val Ellam. Esta é uma sessão de continuidade. A esteira 9 fechou B022 e parou de propósito; a esteira 10 fechou a revisão de continuidade (vigência, Workspace, xlsx/docx, mapa da KB), recebeu os DOCX Javé e Thot/Hermes (coleção pedagico/ completa) e **fechou o ciclo B074 *Mentalma I*** (Devolutiva aplicada: 5 fichas ampliadas + 2 criadas; 0 códigos; B084 *O Legado Esquecido* cadastrada). Aguardando a ordem do repasse de livros.
+Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan Val Ellam. Esta é uma sessão de continuidade. A esteira 10 fechou a revisão de continuidade e os ciclos B074/B075 Mentalma; a esteira 11 (branch arena/01a03ad8-termos-rc) fechou o ciclo B057 A Revolta do Anjo Decaído (Devolutiva aplicada: 10 fichas ampliadas + 7 criadas — RC-142 = ficha de remissão para RC-078; B086–B090 cadastradas; B057 nas fontes de RC-085/444/491; 0 códigos) Próximo: piloto B058 O Início da Revolta Capelina (PDF já recebido). Aguardando a ordem do curador.
 
 AUTORIDADE: o curador (Edson Cella Mendes) é a autoridade máxima. Você organiza, cruza, edita e audita. Nunca decida ontologia sem autorização. Conclusões são sempre sugestões.
 
 PRIMEIRA AÇÃO (antes de qualquer edição):
-1. O clone já vem na raiz (main, b420f14). O trabalho da esteira está na branch arena/01a03913-termos-rc. Se HEAD local for só b420f14 (main) e o working tree estiver limpo: git fetch origin arena/01a03913-termos-rc && git reset --hard FETCH_HEAD. Esperado: 66b01e1 (ou mais à frente, se o curador tiver feito upload em outra branch da esteira — ex.: arena/01a02e74 — nesse caso cherry-pick/merge antes de editar).
-2. SE O WORKSPACE PARECER ANTIGO (ex.: sem livros/CONCLUIDOS/, ou HEAD em b420f14 depois de já ter trabalhado): o sandbox revertia o workspace — refaça fetch + reset ANTES de editar. O store durável é a branch no GitHub; commit + push ao fim de cada turno.
+1. O clone já vem na raiz (main, b420f14). O trabalho da esteira está na branch arena/01a03ad8-termos-rc (esteira 11). Se HEAD local for só b420f14 (main) e o working tree estiver limpo: git fetch origin arena/01a03ad8-termos-rc && git reset --hard FETCH_HEAD. Esperado: o tip da esteira 11 (B057 aplicado + piloto B058). Conferir TODAS as branches (o curador pode subir arquivos em qualquer uma): git ls-remote --heads origin — se houver upload novo em outra branch (ex.: arena/01a03913-termos-rc), fetch + cherry-pick/merge ANTES de editar.
+2. SE O WORKSPACE PARECER ANTIGO (ex.: sem livros/CONCLUIDOS/B057, ou HEAD em b420f14 depois de já ter trabalhado): o sandbox reverteu o workspace — refaça fetch + reset ANTES de editar. O store durável é a branch no GitHub; commit + push ao fim de cada turno.
 3. pip install --break-system-packages markdown openpyxl python-docx pypdf
 4. python3 ferramentas/dados_termos.py → deve retornar exatamente: OK: 777 termos, 1852 relações — dados válidos.
 5. Leia PROMPT-PROXIMA-SESSAO.md (este) por inteiro — inclusive as seções Workspace × GitHub e Patrimônio da KB.
 6. Resuma o estado e aguarde confirmação do curador. NÃO abrir PR.
 
-ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 432 fichas físicas (431 ficha=True + RC-004 investigação False) · 88 obras (B001–B085 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 36 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento.
+ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 439 fichas físicas (438 ficha=True + RC-004 investigação False) · 93 obras (B001–B090 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 37 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento (B057 fechado; próximo B058).
 
-FONTE DA VERDADE: o GitHub (branch da sessão). O Workspace da Arena é sandbox efêmero — o curador trabalha pelo GitHub, não pelo painel de arquivos da Arena. (Decisão do curador, 2026-08-25: **sem investimento** no Workspace.)
+FONTE DA VERDADE: o GitHub (branch da sessão: arena/01a03ad8-termos-rc). O Workspace da Arena é sandbox efêmero — o curador trabalha pelo GitHub, não pelo painel de arquivos da Arena. (Decisão do curador, 2026-08-25: sem investimento no Workspace.)
 
-ARTEFATOS DE LEITURA: base-terminologica.xlsx e base-terminologica-leitura.docx **estão no GitHub** (decisão do curador, 2026-08-25: cópia para download). Regenerar sempre com python3 ferramentas/build_xlsx.py e python3 ferramentas/build_word.py antes de qualquer commit que mude a base (são espelho; a fonte é dados_termos.py + Markdown).
+ARTEFATOS DE LEITURA: base-terminologica.xlsx e base-terminologica-leitura.docx estão no GitHub (decisão do curador, 2026-08-25: cópia para download). Regenerar sempre com python3 ferramentas/build_indice.py && python3 ferramentas/build_xlsx.py && python3 ferramentas/build_word.py antes de qualquer commit que mude a base (são espelho; a fonte é dados_termos.py + Markdown).
 
-TAREFA DESTA SESSÃO: retomar o repasse dos livros, na ordem do curador — **B074 *Mentalma I* já FECHADO na esteira 10** (Devolutiva aplicada; 0 códigos; B084 cadastrada); pendências: **B075 *Mentalma II*** (PDF já em `uploads_recepcao/`) · B076–B078 (sem PDF) · obras completas de B027 e B035. Não começar nada sem a obra nomeada.
+TAREFA DESTA SESSÃO: abrir o piloto B058 O Início da Revolta Capelina (PDF em uploads_recepcao/) e entregar o dossiê enxuto O-1..O-8 — ou a ordem que o curador der. Pendências de fundo: obras completas B027 e B035; B076–B078 Mentalma III–V (sem PDF); B085 Hyren-Hyron e B086–B090 (sem PDF); B059 (só físico). Não começar nada sem a obra nomeada.
 
-MÉTODO DO CICLO DE LIVRO (padrão B019..B022, B074): PDF em `livros/B0NN_slug/` (original.pdf + original.txt paginado, SHA-256) + `ficha_ingresso.md` + `analise/` (camadas 0–3, LEITURA-1, DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md com O-1..O-8) → **AGUARDA DEVOLUTIVA** (0 códigos) → [aprovada] ampliações via `analise/_ampliacoes_B0NN.txt` + `_aplicar_ampliacoes_B0NN.py` (seção `## Ampliação — B0NN` antes de `## Fontes`) → validar → artefatos (índice, xlsx, docx) → `DECISAO-DO-CURADOR.md` + `RELATORIO-DE-CICLO.md` → mover para `livros/CONCLUIDOS/` → atualizar CONTINUIDADE + `livros/README.md` + PROMPT-PROXIMA → push.
+MÉTODO DO CICLO DE LIVRO (padrão B019..B022, B074, B075, B057): PDF em livros/B0NN_slug/ (original.pdf + original.txt paginado, SHA-256) + ficha_ingresso.md + analise/ (camadas 0–3, LEITURA-1, DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md com O-1..O-8) → AGUARDA DEVOLUTIVA (0 códigos) → [aprovada] ampliações via analise/_ampliacoes_B0NN.txt + _aplicar_ampliacoes_B0NN.py (seção ## Ampliação — B0NN antes de ## Fontes) → validar → artefatos (índice, xlsx, docx) → DECISAO-DO-CURADOR.md + RELATORIO-DE-CICLO.md → mover para livros/CONCLUIDOS/ → atualizar CONTINUIDADE + livros/README.md + PROMPT-PROXIMA → push.
 
-REGRAS DE OURO: não inventar / [REVISAR] / [TEXTO INCOMPLETO]; plateia e cartas isoladas; Navalha de Ockham (quase sempre zero códigos — B074: veto absoluto); nada antes da Devolutiva O-1..O-8; quarentenas (clínica, política, ufológica, teológica, biográfica, institucional — p. 215 de B074: Hitler/biodemos BANIDO da malha); grafias canônicas (Brahma, Tikun, Sophia, Nefilins [no B074: "Nephelim"], Ialdabaoth, Olm, Elm, Adhy, Javé, Vishnu, Xamanismo, Wyrd/Urd, Kapila, Vaishnavismo, Hochmah, Moros, Malkuth=Hochmah=Sophia, Orlog=Moros, Awayen/Awaylengan/Awaymaion, Morlens, Ginnungagap, Orunmilá, Obatalá, En Ma, Deva/Aurora, Mohen So); jamais editar BIBLIO de build_xlsx.py programaticamente; nunca colar token/PAT.
+REGRAS DE OURO: não inventar / [REVISAR] / [TEXTO INCOMPLETO]; plateia e cartas isoladas; Navalha de Ockham (quase sempre zero códigos — veto absoluto); nada antes da Devolutiva O-1..O-8; quarentenas (mediumística, clínica, política, ufológica, teológica, biográfica, institucional — p. 215 de B074: Hitler/biodemos BANIDO da malha); grafias canônicas (Brahma, Tikun, Sophia, Nefilins, Ialdabaoth, Olm, Elm, Adhy, Javé, Vishnu, Xamanismo, Wyrd/Urd, Kapila, Vaishnavismo, Hochmah, Moros, Malkuth=Hochmah=Sophia, Orlog=Moros, Awayen/Awaylengan/Awaymaion, Morlens, Ginnungagap, Orunmilá, Obatalá, En Ma, Deva/Aurora, Mohen So, Shanlung); jamais editar BIBLIO de build_xlsx.py programaticamente; nunca colar token/PAT.
 
 LIÇÃO DA SESSÃO 8: push ANTES de abrir PR; PR por último e só se o curador pedir.
-LIÇÃO DA SESSÃO 10: o workspace Arena reverteu entre turnos sem aviso — o único store durável é o push na branch; re-fetch/re-reset se o tree parecer antigo; commit + push ao fim de cada turno. O curador pode subir arquivos em QUALQUER branch da esteira (viu: subiu em arena/01a02e74) — conferir as branches antes de editar.
+LIÇÃO DA SESSÃO 10: o workspace Arena reverte entre turnos sem aviso — o único store durável é o push na branch; re-fetch/re-reset se o tree parecer antigo; commit + push ao fim de cada turno. O curador pode subir arquivos em QUALQUER branch — conferir as branches antes de editar.
+LIÇÃO DA SESSÃO 11: o prompt que o curador cola pode estar DEFASADO em relação à branch (visto em 2026-08-25: dizia B074/B075 pendentes quando a branch já os tinha fechado e aberto o piloto B057). O PROMPT-PROXIMA-SESSAO.md da branch prevalece; conferir sempre o estado real da árvore (ciclo ativo em livros/, últimos commits) antes de agir.
 
 Comece agora: valide a base, leia este arquivo e apresente o estado. Aguarde confirmação.
 ```
@@ -79,10 +80,10 @@ Nada foi apagado — os históricos conservam a história; o banner ⚠️ no to
 
 | O quê | Papel real |
 |---|---|
-| **GitHub** `institutocura-maker/Termos-RC` · branch `arena/01a03913-termos-rc` (esteira 10) | **Fonte da verdade.** O curador sobe PDFs, baixa arquivos (incl. xlsx/docx de leitura), vê o histórico. |
-| **Branches das esteiras anteriores** (`arena/01a02e74` · `arena/01a02c4e` · `arena/01a02a88`) | Histórico versionado; a esteira vigente é a 10. **O curador pode subir arquivos em qualquer branch** (2026-08-25: subiu os DOCX Javé/Thot **e os PDFs Mentalma I/II** em `arena/01a02e74`) — conferir antes de editar. A pasta de obra em processamento fica na branch da sessão o ciclo inteiro (visível trocando a branch no GitHub) e só move para `CONCLUIDOS/` no fechamento. |
+| **GitHub** `institutocura-maker/Termos-RC` · branch `arena/01a03ad8-termos-rc` (esteira 11) | **Fonte da verdade.** O curador sobe PDFs, baixa arquivos (incl. xlsx/docx de leitura), vê o histórico. |
+| **Branches das esteiras anteriores** (`arena/01a03913-termos-rc` · `arena/01a02e74` · `arena/01a02c4e` · `arena/01a02a88`) | Histórico versionado; a esteira vigente é a 11. **O curador pode subir arquivos em qualquer branch** — conferir antes de editar. A pasta de obra em processamento fica na branch da sessão o ciclo inteiro e só move para `CONCLUIDOS/` no fechamento. |
 | **`main`** | Ainda em `b420f14` (PR #2, Windows). O trabalho desta esteira **não** está no `main`. |
-| **Workspace Arena** | Sandbox do agente. Some com a sessão e **reverte entre turnos** (visto em 2026-08-25). **Decisão do curador (2026-08-25): sem investimento** — o curador não o usa; visor/preview ficam parados. |
+| **Workspace Arena** | Sandbox do agente. Some com a sessão e **reverte entre turnos**. **Decisão do curador (2026-08-25): sem investimento** — o curador não o usa; visor/preview ficam parados. |
 | **Como o curador entrega PDF** | *Add files via upload* no GitHub → `uploads_recepcao/` → o agente faz `fetch`/cherry-pick. Anexos de chat **não** caem em `/home/user/uploads/`. |
 
 Consequência operacional: **commit + push ao fim de cada turno** — o push é o que dura.
@@ -93,15 +94,16 @@ Consequência operacional: **commit + push ao fim de cada turno** — o push é 
 
 **Decisão do curador (2026-08-25): cópia versionada no GitHub** para download.
 
-- `base-terminologica.xlsx` (7 abas) e `base-terminologica-leitura.docx` **estão no Git** a partir desta sessão.
+- `base-terminologica.xlsx` (7 abas) e `base-terminologica-leitura.docx` **estão no Git**.
 - Ficam **regeneráveis**: a fonte continua sendo `dados_termos.py` + Markdown; os binários são espelho. Regenerar sempre antes de qualquer commit que mude a base:
 
 ```bash
-python3 ferramentas/build_xlsx.py    # → base-terminologica.xlsx (7 abas)
-python3 ferramentas/build_word.py    # → base-terminologica-leitura.docx
+python3 ferramentas/build_indice.py   # → indice-mestre.md
+python3 ferramentas/build_xlsx.py     # → base-terminologica.xlsx (7 abas)
+python3 ferramentas/build_word.py     # → base-terminologica-leitura.docx
 ```
 
-`indice-mestre.md` **está** no Git (regenerado a cada ciclo). Apostilas e tratados em DOCX **estão** no Git (`apostilas/CONCLUIDAS/`, `pedagogico/`) — **coleção completa** (10 apostilas temáticas + 2 tratados; Javé e Thot/Hermes recebidos do curador em 2026-08-25; no nome `Apostila - Javé_ O Buraco Negro...` o `_` é o `:` do título adaptado para Windows).
+`indice-mestre.md` **está** no Git (regenerado a cada ciclo). Apostilas e tratados em DOCX **estão** no Git (`apostilas/CONCLUIDAS/`, `pedagogico/`) — **coleção completa**: 10 apostilas temáticas + 2 tratados (Javé e Thot/Hermes; no nome `Apostila - Javé_ O Buraco Negro...` o `_` é o `:` do título adaptado para Windows).
 
 ---
 
@@ -114,8 +116,8 @@ Camadas, da mais dura para a mais mole:
 | Arquivo | O que é |
 |---|---|
 | `ferramentas/dados_termos.py` | **Fonte única.** 777 termos + 1.852 relações. Validar sempre. |
-| `ferramentas/build_xlsx.py` | BIBLIO das 88 obras. **Edição só manual.** |
-| `termos/*.md` | 432 fichas (a carne da ontologia). |
+| `ferramentas/build_xlsx.py` | BIBLIO das 93 obras. **Edição só manual.** |
+| `termos/*.md` | 439 fichas (a carne da ontologia). |
 | `indice-mestre.md` | Índice gerado; versionado. |
 
 ### 2. Governança (sem isto o próximo agente se perde)
@@ -136,12 +138,12 @@ Camadas, da mais dura para a mais mole:
 
 | Pasta | Conteúdo |
 |---|---|
-| `livros/CONCLUIDOS/` | 36 obras integrais com PDF + extract + dossiê + ampliações (últimas: B074 *Mentalma I*, B075 *Mentalma II*). |
+| `livros/CONCLUIDOS/` | 37 obras integrais com PDF + extract + dossiê + ampliações (última: B057 *A Revolta do Anjo Decaído*). |
 | `livros/AMOSTRAS/` | B027 e B035 (Sample; obra completa pendente). |
 | `apostilas/CONCLUIDAS/` | 37 palestras/lives (original.txt + apostila.md + DOCX). |
 | `pedagogico/` | 10 apostilas temáticas (todas com DOCX) + 2 tratados (com DOCX) + 2 mapas + índice temático + Guia TALM + Dossiê Fase 0 + matriz de auditoria. |
 | `materiais_externos/` | EXT (terceiros; **não** toca ontologia). |
-| `uploads_recepcao/` | PDFs que o curador subiu (fonte bruta; Mentalma II ainda aguardando ciclo). |
+| `uploads_recepcao/` | PDFs que o curador subiu (fonte bruta; B058 em processamento). |
 | `backups/pacotes/` | MANIFESTO + FICHAS + REGENERAÇÃO (seguro versionado; **manifesto de 2026-08-18 desatualizado** — ver pendências). |
 
 ### 4. Regenerável
@@ -164,14 +166,24 @@ Trilogias Dramas / Terra Atlantis / Queda e Ascensão: **ENCERRADAS.**
 
 - A. Higienização: banners HISTÓRICO em 5 arquivos + MAPA DA VIGÊNCIA (nada apagado).
 - B. Workspace da Arena: **sem investimento** (decisão do curador) — GitHub = única interface.
-- C. xlsx/docx de leitura: **versionados no GitHub** (decisão do curador) — gerados nesta sessão; coleção `pedagogico/` completa (DOCX Javé + Thot/Hermes recebidos).
-- D. Mapa da KB: +3 peças (`01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `INDICE-PALESTRAS.md`); correção `pedagogico/`: **10** apostilas temáticas (não 9).
-- **E. B074 *Mentalma I***: Devolutiva O-1..O-8 aplicada — **5 fichas ampliadas** (RC-166/548/549/551/552) + **2 criadas** (RC-550 Vontade de Progredir, RC-553 Eu Profundo); **0 códigos** (veto absoluto); **B084** *O Legado Esquecido: o Yoga dos Trimurtianos* cadastrada (`identificada`); quarentena p. 215 (Hitler/Len Mion/biodemos) **banida da malha**; CIP 290 p. × PDF 227 = `[REVISAR]`; ISBN não gravado; pasta em `CONCLUIDOS/`.
-- **F. B075 *Mentalma II***: Devolutiva O-1..O-8 aplicada — **6 fichas ampliadas** (RC-166/548/550/551/552/553) + **2 criadas** (RC-554 Gestão Psíquica e Memórias Complexas; RC-555 Série Mentalma — Nota Especial: nome intacto + 7 volumes anunciados em 2020); **B075 adicionada às fontes de RC-550** (decisão extra do curador); **0 códigos**; **B085** *Hyren-Hyron: Universos em Colisão* (2021; coautoria Freitas e Kummer; nome civil) cadastrada (`identificada` + tag obra complementar); PKMzeta/hipnose = **leitura filosófica, jamais terapia**; NDEs/milagres/Ramtha fora da ontologia; erros do autor registrados sem corrigir a voz (p. 64 "1957"; p. 139 "cerebelo"); grafias absorvidas ("Sofia" → Sophia; "Roden" → Rohden); FAROL LUSITANO/IESP = quarentena institucional; pasta em `CONCLUIDOS/`.
+- C. xlsx/docx de leitura: **versionados no GitHub** (decisão do curador); coleção `pedagogico/` completa.
+- D. Mapa da KB: +3 peças; correção `pedagogico/`: **10** apostilas temáticas.
+- **E. B074 *Mentalma I***: Devolutiva aplicada — 5 ampliadas + 2 criadas (RC-550, RC-553); **0 códigos**; B084 cadastrada; quarentena p. 215 banida; CIP 290 × 227 = `[REVISAR]`.
+- **F. B075 *Mentalma II***: Devolutiva aplicada — 6 ampliadas + 2 criadas (RC-554, RC-555); **0 códigos**; B085 cadastrada; PKMzeta/hipnose = leitura filosófica; NDEs/Ramtha fora.
+- **G. Piloto B057** (último commit da esteira 10): ingresso + dossiê enxuto, 0 códigos.
 
-HEAD: **`66b01e1`** `docs: pausa e handoff — mapa da KB, Workspace × GitHub, token removido` + commits da esteira 10 (revisão, DOCX pedagico, B074, B075 — tip da branch `arena/01a03913-termos-rc`). PR **não** aberto.
+**AGENTE 11 (2026-08-25) — ciclo B057 *A Revolta do Anjo Decaído* FECHADO (zero códigos):**
 
-Pendências de livro (quando o curador quiser): **B076–B078 *Mentalma III–V*** (sem PDF — quando o curador tiver); obras completas de B027 e B035; B085 *Hyren-Hyron* (sem PDF). Pendências menores: manifest versionado (`backups/pacotes/`, 2026-08-18) ainda com contagens antigas — curador decide regenerar; CIP B074 `[REVISAR]`.
+- **Devolutiva O-1..O-8 100% aprovada e aplicada.** Obra secundária (psicografia de Jeane Miranda; prefácio de Ellam; ed. 2022 "Corrigida e Adaptada por Gullan Greyl", PT-PT — anotada na BIBLIO).
+- **10 fichas ampliadas** (RC-002/007/009/074/078/092/252/442/443/446) + **7 criadas** (RC-036 Biodemos · RC-039 Capela · RC-046 Dan · RC-146 Zian/Zion · RC-445 Biocoletivos · RC-447 Primeiro Pesquisador · **RC-142 Yel Luzbel = remissão para RC-078** — duplicidade resolvida sem fusão de códigos).
+- **B086–B090 cadastradas** (5 obras de Jeane Miranda da p. 70; `identificada`; sem PDF). **O Funeral da Evidência = já era B068** (nenhuma duplicata; nota de B061 corrigida).
+- **B057 nas fontes de RC-085/RC-444/RC-491** (O-6). Grafias: "Shanlun" → Shanlung; datas 687 mil × 742 mil = variante anotada. Quarentenas: mediumística/ufológica/teológica/institucional.
+- Base: **777/1.852 invariantes**; 439 fichas; 93 obras; 37 livros em `CONCLUIDOS/`.
+- Próximo: **piloto B058** *O Início da Revolta Capelina* (PDF já em `uploads_recepcao/`).
+
+HEAD: tip da branch `arena/01a03ad8-termos-rc` (esteira 11). PR **não** aberto.
+
+Pendências de livro (quando o curador quiser): **B058** (PDF recebido — piloto imediato); B059 *Sinais de Guerra em Capela* (só físico); B086–B090 (sem PDF); obras completas B027 e B035; B076–B078 *Mentalma III–V* (sem PDF); B085 *Hyren-Hyron* (sem PDF). Pendências menores: manifest versionado desatualizado (curador decide regenerar); CIP B074 `[REVISAR]`.
 
 ---
 

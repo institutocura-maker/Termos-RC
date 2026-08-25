@@ -23,9 +23,11 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B057_revolta_do_anjo_decaido/` — ingresso (2026-08-25, AG. 10); leitura integral (70 págs) feita; **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; prefácio de Ellam). B058 (vol. 2) com PDF já em `uploads_recepcao/` — próximo ciclo, na ordem do curador.
+Nenhum (B057 fechado em 2026-08-25). **Próximo: B058 *O Início da Revolta Capelina*** (PDF já em `uploads_recepcao/`) — na ordem do curador.
 
 ## Último ciclo
+
+`CONCLUIDOS/B057_revolta_do_anjo_decaido/` — **B057 *A Revolta do Anjo Decaído*** (obra secundária — psicografia de Jeane Miranda, prefácio de Ellam): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **10 fichas ampliadas + 7 criadas (RC-036/039/046/142-remissão/146/445/447) + B057 nas fontes de RC-085/444/491; 0 códigos; B086–B090 cadastradas; ed. 2022 anotada na BIBLIO**. RC-142 = remissão para RC-078 (duplicidade resolvida sem fusão).
 
 `CONCLUIDOS/B075_mentalma_ii_gestao_psiquica_memorias_complexas/` — **B075 *Mentalma II***: Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 10); **6 fichas ampliadas + 2 criadas (RC-554, RC-555) + B075 nas fontes de RC-550; 0 códigos; B085 cadastrada**. B074 (I) em `CONCLUIDOS/`.
 

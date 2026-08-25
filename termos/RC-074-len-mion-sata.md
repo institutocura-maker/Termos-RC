@@ -35,6 +35,19 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[B039 p. 32]** NAT: Len Mion invadiu as descendências «escolhidas» do Criador (remissão a B052 — **não fundir**).
 - Comentários 1–2 e cap. 12 = **político-geopolítica — fora**. Sem âncora política. Caps. 1–12 **isolados**. Sem materializar RC-239. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 41 · apresentação]** "recebi a visita de um capelino da família Mion, chamado **Len Mion**. Nós já havíamos trabalhado juntos em algumas pesquisas sobre a evolução das espécies que o Criador fez."
+- **[B057 p. 44]** "o meu '**irmão de caminhada**' – Len Mion – quase não conseguia falar, tal foi a repercussão que isso causou nele. Devo confessar que muito me custa, atualmente, refletir sobre tal impacto."; "se não tivesse tido essa conversa com Len Mion, talvez – somente talvez – **ele não tivesse se transformado no que ele se tornou**."
+- **[B057 p. 43 · o conclave Mion]** "— **Se, por um acaso, eu concordar com você nas suas teorias, mudarei o rumo da vida da minha família e não seguirei mais Sophia.** Conte-me e veremos o que vai acontecer em seguida." (Len Mion, após ouvir as questões.)
+- **[B057 p. 42]** o desafio de Yel: "Quer anexar em você a incerteza e a preocupação ao descobrir que está envolvido numa **'simulação fantasiosa'** a respeito da vida que levamos neste ambiente...?"
+- **[B057 p. 59 · a família Mion]** "Se havia determinada missão a ser cumprida, que fosse de grande complexidade no que se refere a ter ousadia para ser levada adiante, então a família Mion era chamada para executá-la porque, quando eles decidiam algo, não mudavam a sua rota até conseguirem os resultados pretendidos. **Eles eram fortes, obstinados e ousados.**... **Eles enfrentariam Sophia, caso assim decidissem!**"
+- **[B057 p. 60 · a "perdição"]]** "tomaram a decisão de sempre partir imediatamente para o confronto direto ou indireto... o que acabou por ocorrer com a família Mion, que se tornou **extremamente 'violenta' e 'descontrolada'**"; [p. 61] "bastava só um pouco de 'agitação' e 'nervosismo' para fazer **explodir**, neles próprios, o que os humanos conhecem por **'agressividade' ou 'confronto'**."
+- **[B057 p. 61]** a "pólvora": "E eu, fui 'aquele' que lhes deu a **'pólvora' certa** para fazerem 'explodir', neles próprios, esse tipo de comportamento. Então, essa foi a **perdição da família Mion**."
+- **[B057 p. 61 · corresponsabilidade, a escritora]** "cada um fez o que quis com ela [a 'pólvora']... cada um seguiu a **inclinação que tinha mais forte dentro de si**, o que foi da inteira responsabilidade de cada um, e não somente sua."
+- 0 códigos novos (O-3). Fonte: narrativa psicografada (Yel Luzbel) — leitura do ser (O-7).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

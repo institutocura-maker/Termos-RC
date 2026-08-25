@@ -17,6 +17,15 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **Grafia preferida:** Exilados de Capela
 - **Variações:** Anjos caídos (equivalência parcial, ver RC-020); Espíritos exilados de Capela
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 19]** "Entre os '**rebelados**' sobreviventes, estavam os capelinos das **famílias Yel, Mion, Cromon e Shanlun** [canônico: **Shanlung**], que **se refugiaram no planeta Terra há uns 98 mil anos**, e todos os membros da **família Val, que vieram para a Terra há aproximadamente 620 mil anos**, antes que essas 'guerras' começassem."
+- **[B057 p. 19]** "Com o passar do tempo, **quase todos morreram neste planeta** – entretanto, existe um pequeno grupo de capelinos que, na **única nave dos 'ex-rebelados', ainda apta para se locomover à volta da Terra, se submeteu a um processo de alteração dimensional**."
+- **[B057 p. 1 · SINTESE]** "A Terra hoje abriga uma família planetária que herdou — ainda que muitos não exerçam — **a capacidade de ser livre**. São poucos dentre os humanos terrestres que têm a perceção de que **graças a esses 'exilados', em especial Yel Luzbel**, temos esse potencial de liberdade"; "O preço pago pelos seres que causaram essa rutura na forma existencial dos 'anjos' de então foi altíssimo, o que terminou maculando as suas consciências com uma espécie de culpa longeva que Yel Luzbel ainda carrega."
+- **[B057 p. 14 · nota]** "Capelino é a designação dada aos **seres extraterrestres, de vários tipos, oriundos do sistema de Capela**. Eles possuem corpos de vida longa, mas sujeitos a fenecer, e podem, por meio de naves espaciais, viajar pela galáxia... (Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam)." (cross B017/B018/B039.)
+- 0 códigos novos (O-3). Quarentena ufológica: cruzar, não materializar como fato (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -41,17 +41,17 @@
 | RC-033 | Bhuloka | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031, P2025-03-15 | RC-107; RC-034; RC-038 | — |
 | RC-034 | Big Bang | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B031, B024, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-033; RC-107; RC-106 | — |
 | RC-035 | Bilatérios | Seres & Entidades | 1.7 Híbridos / Seres de transição | 🟡 | B031, P2024-05-04, P2025-02-16, P2024-04-13 | RC-093; RC-036; RC-631 | — |
-| RC-036 | Biodemos | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B044, B001, B017, B018, B039, B023, B050, B057, B058, P2024-05-04, P2024-04-13 | RC-109; RC-136; RC-049; RC-098 | — |
+| RC-036 | Biodemos | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B044, B001, B017, B018, B039, B023, B050, B057, B058, P2024-05-04, P2024-04-13 | RC-109; RC-136; RC-049; RC-098 | [✔](termos/RC-036-biodemos.md) |
 | RC-037 | Brahma (Brajna) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B024, B044, B001, B033, B013, B020, B022, B060, B061, B037, P2022-12-17, P2026-07-30, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29, P2024-08-03, P2024-07-14, P2025-11-29 | RC-041; RC-001; RC-052; RC-104; RC-135; RC-102; RC-696; RC-700; RC-701; RC-261; RC-604; RC-265 | [✔](termos/RC-037-brahma-brajna.md) |
 | RC-038 | Brahmaloka | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031, B016, B013, B021, B023, P2025-03-15 | RC-106; RC-077; RC-066; RC-049; RC-041 | — |
-| RC-039 | Capela (Sistema) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B003, B025, B057, B058 | RC-085; RC-046; RC-109; RC-146; RC-002; RC-007 | — |
+| RC-039 | Capela (Sistema) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B003, B025, B057, B058 | RC-085; RC-046; RC-109; RC-146; RC-002; RC-007 | [✔](termos/RC-039-capela-sistema.md) |
 | RC-040 | CFD (Código Fonte Definidor) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B031, B024, B002, B033, B021, B041, B040, B019, P2022-12-17, P2021-12-04, P2024-05-04, P2024-08-03 | RC-041; RC-104; RC-081; RC-091; RC-742 | — |
 | RC-041 | Criador (Brahma/Javé/Demiurgo) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B044, B035, B001, B002, B033, B015, B016, B013, B020, B048, B041, B034, B036, B017, B018, B039, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-29 | RC-037; RC-052; RC-047; RC-048; RC-001 | [✔](termos/RC-041-criador-brahma-jave-demiurgo.md) |
 | RC-042 | Criatura Universal | Seres & Entidades | 1.7 Híbridos / Seres de transição | 🟡 | B031, B024, B019, B041, P2026-04-02, P2023-05-13 | RC-056; RC-099; RC-107; RC-645; RC-761 | [✔](termos/RC-042-criatura-universal.md) |
 | RC-043 | Conselho dos Cinco | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B031 | RC-065; RC-032; RC-111; RC-121; RC-122; RC-138; RC-143 | — |
 | RC-044 | Cultura Demo | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B031, B044 | RC-049; RC-077; RC-064; RC-065 | — |
 | RC-045 | Daemon | Termos Específicos | 8.4 Grego / Latim | 🟡 | B031 | RC-049; RC-050; RC-053 | — |
-| RC-046 | Dan | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B057, B058 | RC-136; RC-039; RC-079 | — |
+| RC-046 | Dan | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B057, B058 | RC-136; RC-039; RC-079 | [✔](termos/RC-046-dan.md) |
 | RC-047 | Deidade (Pai-Mãe Amantíssimo / Brahman) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B024, B001, B002, B048, P2025-03-15, P2025-02-15, P2024-11-30, P2024-11-09, P2024-09-28 | RC-052; RC-054; RC-041 | [✔](termos/RC-047-deidade-pai-mae-amantissimo-brahman.md) |
 | RC-048 | Demiurgo | Termos Específicos | 8.4 Grego / Latim | 🟡 | B031 | RC-041; RC-087; RC-061; RC-063 | — |
 | RC-049 | Demos | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B044, B035, B021, B022, B023, B050, B052, B060, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-09-29, P2024-03-03, P2024-04-13 | RC-022; RC-050; RC-045; RC-053; RC-038; RC-097; RC-630 | [✔](termos/RC-049-demos.md) |
@@ -90,7 +90,7 @@
 | RC-082 | Nephilins | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B017, B018, B023 | RC-024; RC-096; RC-134 | — |
 | RC-083 | Norte Divino | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B031 | RC-068; RC-120 | — |
 | RC-084 | Orbe | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟡 | B031, P2024-11-09 | RC-107; RC-100; RC-726 | — |
-| RC-085 | Orbum | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B042 | RC-009; RC-039; RC-040 | — |
+| RC-085 | Orbum | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B042, B057 | RC-009; RC-039; RC-040 | — |
 | RC-086 | Pandora | Seres & Entidades | 1.7 Híbridos / Seres de transição | 🟡 | B031, B044, B020, B021, B061, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, ART-2026-08-18, P2024-02-03, P2024-08-03 | RC-118; RC-047; RC-142; RC-053; RC-727; RC-286 | [✔](termos/RC-086-pandora.md) |
 | RC-087 | Perpérion | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟡 | B031, B024, B013, B060, P2021-12-04, P2024-05-04 | RC-061; RC-013; RC-048; RC-092; RC-106; RC-107; RC-152; RC-167; RC-472; RC-496; RC-497; RC-596; RC-411; RC-455 | [✔](termos/RC-087-perperion.md) |
 | RC-088 | Portlan e Portlon | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B031 | RC-010; RC-047 | — |
@@ -147,11 +147,11 @@
 | RC-139 | Yel Breasil | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-047 | — |
 | RC-140 | Yel Liam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-138; RC-136; RC-072 | — |
 | RC-141 | Yel Lupon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-080; RC-026; RC-101; RC-089 | — |
-| RC-142 | Yel Luzbel | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B017, B018, B039, B015, B057, B058, B060, P2022-12-17, P2024-03-03 | RC-078; RC-136; RC-002; RC-070; RC-017; RC-026 | — |
+| RC-142 | Yel Luzbel | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B017, B018, B039, B015, B057, B058, B060, P2022-12-17, P2024-03-03 | RC-078; RC-136; RC-002; RC-070; RC-017; RC-026 | [✔](termos/RC-142-yel-luzbel.md) |
 | RC-143 | Yel Luziel | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136; RC-043; RC-065 | — |
 | RC-144 | Zeitgeist | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B031 | RC-094 | — |
 | RC-145 | Zeus | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B020, B021, B050, B060, P2022-12-17, P2025-10-25, P2024-11-30, P2024-11-09, P2024-09-29 | RC-047; RC-066; RC-077; RC-097; RC-480 | — |
-| RC-146 | Zian (Zion) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B057, B061 | RC-109; RC-039; RC-092 | — |
+| RC-146 | Zian (Zion) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B031, B057, B061 | RC-109; RC-039; RC-092 | [✔](termos/RC-146-zian-zion.md) |
 | RC-147 | Zont En Drel 29 | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟡 | B031, B015, P2025-10-25, P2025-06-26 | RC-055; RC-019; RC-001; RC-006; RC-651; RC-652 | [✔](termos/RC-147-zont-en-drel-29.md) |
 | RC-148 | Agentes da Vida Universal | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B031, B024, B001, B002, B014, B005 | RC-149; RC-150; RC-160; RC-106; RC-107 | [✔](termos/RC-148-agentes-da-vida-universal.md) |
 | RC-149 | Mônada (Mônada Espiritual) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B024, B001, B002, B048, P2021-12-04, P2024-05-04, P2025-10-25, P2024-11-30, P2024-11-09 | RC-148; RC-100; RC-012; RC-603; RC-653 | [✔](termos/RC-149-monada-monada-espiritual.md) |
@@ -449,10 +449,10 @@
 | RC-441 | Mistérios Dionisíacos | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B052 | RC-094; RC-433; RC-049 | — |
 | RC-442 | Família Yel | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B057, B058 | RC-142; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-442-familia-yel.md) |
 | RC-443 | Família Mion | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B057, B058 | RC-074; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-443-familia-mion.md) |
-| RC-444 | Família Cromon | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B059 | RC-036; RC-450 | — |
-| RC-445 | Biocoletivos | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B057, B058 | RC-036; RC-442; RC-443; RC-450 | — |
+| RC-444 | Família Cromon | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B059, B057 | RC-036; RC-450 | — |
+| RC-445 | Biocoletivos | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B057, B058 | RC-036; RC-442; RC-443; RC-450 | [✔](termos/RC-445-biocoletivos.md) |
 | RC-446 | Processadores Familiares | Tecnologias & Artefatos | 5.3 Dispositivos / Instrumentos | 🟡 | B057, B058 | RC-036; RC-009; RC-442; RC-443 | [✔](termos/RC-446-processadores-familiares.md) |
-| RC-447 | Primeiro Pesquisador (cargo capelino) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B057, B058 | RC-142; RC-442 | — |
+| RC-447 | Primeiro Pesquisador (cargo capelino) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B057, B058 | RC-142; RC-442 | [✔](termos/RC-447-primeiro-pesquisador-cargo-capelino.md) |
 | RC-448 | Deslacre (rompimento dos lacres psíquicos) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟡 | B057, B058, P2022-12-17 | RC-142; RC-036; RC-445; RC-577 | — |
 | RC-449 | Criaturas-ferramenta | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B057, B058, P2025-03-15, P2021-03-27, P2025-11-29 | RC-036; RC-099; RC-001; RC-148 | [✔](termos/RC-449-criaturas-ferramenta.md) |
 | RC-450 | Revolta Capelina | Eventos & Eras | 7.1 Guerras / Rebeliões / Conflitos | 🟡 | B057, B058 | RC-002; RC-142; RC-443; RC-444 | [✔](termos/RC-450-revolta-capelina.md) |
@@ -496,7 +496,7 @@
 | RC-488 | Nefilins (= Anunnakis) | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | ⚪ | B061, P2026-08-04, P2021-03-27, P2024-09-28 | RC-024; RC-580 | [✔](termos/RC-488-nefilins-anunnakis.md) |
 | RC-489 | Enoque (sétimo patriarca; levado por Javé) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | ⚪ | B061, P2022-12-17, P2024-11-30, P2024-07-14, P2024-04-13, P2026-08-04, P2024-03-02, P2023-12-02 | RC-424; RC-495; RC-594; RC-485; RC-671; RC-672 | [✔](termos/RC-489-enoque-setimo-patriarca-levado-por-jave.md) |
 | RC-490 | Caim (leitura RC: segundo a nascer) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | ⚪ | B061, P2022-12-17, P2025-02-16, P2024-11-30 | RC-001; RC-424; RC-579; RC-594; RC-684 | [✔](termos/RC-490-caim-leitura-rc-segundo-a-nascer.md) |
-| RC-491 | Família Shanlung (13 membros em Alt'Lam Gron) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B061 | RC-036; RC-105 | — |
+| RC-491 | Família Shanlung (13 membros em Alt'Lam Gron) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B061, B057 | RC-036; RC-105 | — |
 | RC-492 | Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B061 | RC-442 | — |
 | RC-493 | Os 9 Val dos Corpos Perdidos | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B061 | RC-109; RC-127 | — |
 | RC-494 | Dinastia das Sophias | Genealogias & Linhagens | 6.1 Famílias divinas / Celestiais | ⚪ | B061, P2026-07-30; RC-474 | RC-009; RC-474 | [✔](termos/RC-494-dinastia-das-sophias.md) |

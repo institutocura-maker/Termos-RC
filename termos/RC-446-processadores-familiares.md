@@ -18,6 +18,16 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - **Variações:** "Processador Familiar"; "Processador Yel"; "Processadores Familiares de Informações"
 - **Obs.:** na base, já existe o "Processador Val" (RC-089), dispositivo da Família Val — verificar correspondência com os Processadores Familiares das obras primárias
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 15]** "**Cada família capelina possuía o seu próprio 'Processador'.**" — o "Processador Yel", "**'Processador Quântico'**", "registava tudo o que sentíamos individualmente e, posteriormente, tudo o que pensávamos ou sentíamos enquanto grupo ou coletividade familiar."
+- **[B057 p. 22]** o mecanismo do contágio: "o que nos fazia ser coletivos, **também nos uniu na nova energia desagregadora** que passou a perturbar, inicialmente, o ambiente coletivo da minha família e, depois, os ambientes de todos os outros capelinos que faziam parte de outras famílias que viviam em Orbum (RC-085)."
+- **[B057 p. 34]** o monitoramento: "Já faz algum tempo que **estávamos a monitorar as vibrações que você emitia para o 'Processador Yel'**, e nos deparámos com a magnitude das expressões desarmónicas e nervosas que você estava a marcar nele." (a alta cúpula da família Yel reunida — evento inédito.)
+- **[B057 p. 60 · o corte protetor]** "os meus irmãos mais sábios **haviam cortado a minha participação junto a ele** [Processador Yel]... Talvez... tenha sido **a decisão mais sábia** naquele tempo."; **[B057 p. 60 · o Processador Mion]** "essa energia foi se propagando... através do **'Processador Mion'** e, depois de um certo tempo, **todos dessa família acabaram por pensar da mesma maneira** – assim funcionava o 'Processador' de cada família!"
+- **[B057 p. 35]** a anatomia da mente coletiva: "um equipamento unia as nossas mentes individuais – ou seja, possuíamos uma **'mente coletiva', subdividida em várias 'mentes componentes', todas associadas pelo 'Processador Yel'**."
+- 0 códigos novos (O-3). Sophia como criadora: relação RC-446 ←criado-por— RC-009 já registrada (B058).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

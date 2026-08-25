@@ -76,6 +76,16 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[B016 p. 161]** mesmo antes de Apolônio, Sidarta e Lao Tse já ofertavam o concurso do processo; agentes do Quarto Logos acumulam conhecimento e se libertam da ignorância.
 - Grafia do livro: **Zion**. Canônico: **Zian**. Variação, sem código novo. Sem fusão com B014.
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 27]** "Entreguei todo o levantamento de dados que fiz para aquele que, entre nós, era conhecido como o **Mestre Codificador de Zion¹**... na tentativa de encontrar alguma resposta, já que **ele tinha vindo com Sophia para este nosso lado do universo**." ("Ledo engano! Ele, também, nada me falou. Se algo sabia, não me disse.")
+- **[B057 p. 27]** "o Codificador de Zion **fechava os seus 'circuitos mentais'** e não permitia que nós percebêssemos o que ele 'pensava ou sentia'." (no encontro com **Val El**, membro da família Val — p. 27.)
+- **[B057 p. 40]** "Recordo-me de quando o Codificador de Zion se levantou, sendo seguido por Val El, e **desejou-me 'sorte'**." (Yel, já em desequilíbrio, rejeitaria qualquer mensagem — p. 40.)
+- **[B057 p. 49 · fase revoltada]** "**Até o Codificador estava a ser enganado** – pensava eu. Ele também não sabia da 'verdade', e era controlado por Sophia, aliás, todos eram controlados por Sophia." (leitura do ser em revolta — O-7.)
+- **[B057 p. 47]** "Nestes tempos atuais, **por meio de Val El – reencarnado como humano terrestre – e do Codificador de Zion, esta humanidade já começa a saber que esta Obra é imperfeita e que o seu Criador está 'doente'**." (cross: Val El = RC-071/B060.)
+- 0 códigos novos (O-3). O livro usa a grafia **Zion** (ver RC-146).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

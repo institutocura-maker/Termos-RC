@@ -31,6 +31,15 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 - **[B016 p. 107]** assinatura “Olm.”; “Velho Codificador de Zion”; mensagem recolhida após o fim da Trimurti (2º semestre de 2015).
 - RC-255 / RC-256 permanecem **sem ficha**. Zion = variação de Zian.
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 27]** o título no livro: "**Mestre Codificador de Zion**" — "Este ser era muito respeitado e mesmo **venerado por todos os capelinos**" (nota, p. 30).
+- **[B057 p. 30 · nota de fim de capítulo — a escola]** "O Mestre Codificador de Zion era responsável por **uma escola no planeta Zion**, para onde convergiam todas as informações coletadas nos diversos campos da pesquisa cósmica. A escola do planeta Zion foi criada por ele, para os que tivessem condições de aprender a **arte da codificação e da decodificação cósmica**, com o objetivo de **decifrar o grande enigma da existência deste universo e do seu Criador**."
+- **[B057 p. 27]** o bloqueio: "fechava os seus 'circuitos mentais' e não permitia que nós percebêssemos o que ele 'pensava ou sentia'" — indício, para Yel Luzbel, de que "existia alguma coisa que estava extremamente errada" (p. 27–28).
+- **[B057 p. 49]** "Até o Codificador estava a ser enganado – pensava eu." (fase revoltada; leitura do ser — O-7.)
+- 0 códigos novos (O-3). Grafia do livro: **Zion** (base: Zian/Zion — RC-146).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

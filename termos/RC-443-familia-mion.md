@@ -18,6 +18,17 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - **Variações:** "família Mion"; "estirpe Mion"; "os Mion"
 - **Obs.:** o nome dos integrantes carrega o sufixo "Mion" (Len Mion, Gron Mion), assim como "Yel" marca a Família Yel
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 59 · caracterização]** "Se havia determinada missão a ser cumprida, que fosse de grande complexidade no que se refere a ter ousadia para ser levada adiante, **então a família Mion era chamada para executá-la** porque, quando eles decidiam algo, **não mudavam a sua rota até conseguirem os resultados pretendidos. Eles eram fortes, obstinados e ousados.** Nenhuma família tinha essas características tão acentuadas quanto eles... **Eles enfrentariam Sophia, caso assim decidissem!**"
+- **[B057 p. 52 · Len Mion apresenta a família]** "eu reuni aqui, perante você, aqueles seres da minha família que **julgo mais ousados, mais inteligentes e mais corajosos na maneira de pensar**... Nós, da família Mion, somos assim! Somos ousados e permitimo-nos pensar um pouco mais além do que vocês, da família Yel."
+- **[B057 p. 60 · o Processador Mion]** "essa energia foi se propagando – digamos assim – **através do 'Processador Mion'** e, depois de um certo tempo, **todos dessa família acabaram por pensar da mesma maneira** – assim funcionava o 'Processador' de cada família!" (RC-446.)
+- **[B057 p. 58 · o conclave]** "Tempos mais tarde, fui chamado novamente para estar com a família Mion... entre eles, **estavam os mais sábios daquela espécie**... fecharemos um **'circuito vibratório'** e tomaremos uma decisão única." (conclui: "marcaremos uma audiência com Sophia" — p. 67.)
+- **[B057 p. 67 · a "bolha protetora"]]** "Os sábios fecharam o 'circuito vibratório' e nos envolveram em uma **'bolha protetora'** – digamos assim –, que nos isolava dos demais capelinos que ali estavam." (conclave dos sábios da maioria das famílias + Yel Luzbel e Len Mion.)
+- **[B057 p. 60–61 · a "perdição"]]** a família "se tornou extremamente 'violenta' e 'descontrolada'"; a "agressividade": "partir imediatamente para o confronto direto ou indireto" (p. 61); "essa foi a perdição da família Mion" (p. 61).
+- 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

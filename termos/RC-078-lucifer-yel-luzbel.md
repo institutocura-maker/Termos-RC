@@ -37,6 +37,25 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **[B039 p. 6]** Esclarecimentos (Atlan, 29/08/2018 — bloco **novo**, não o de B017/B018): Ellam descortinou o contexto da «rebelião» creditada a Yel Luzbel, os problemas de Sophia e a função dos «Processadores» (notadamente o da família Val). Val Eno = «autor real» da Parte I — **quarentena mediúnica**.
 - Caps. 1–12 (Val Eno) **isolados**. Comentários 1–2 = **político-geopolítica — fora**. Sem extrair Val Eno para RC-123 / RC-232. Sem fusão com B017 / B018. Fonte **B039** já constava na tabela-mestra.
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 15]** "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fui encarregado de verificar os graus de atuação e de evolução dos seres que faziam parte deste universo." (também "primeiro pesquisador da família Yel", p. 26; o cargo: RC-447.)
+- **[B057 p. 16–17 · as três constatações]** (1ª) o nivelamento: a lei "que nos nivelava a todos num único tipo de percepção e de entendimento"; (2ª) a incoerência: as informações "mostravam-se incoerentes e sem lógica para serem realmente estabelecidas por 'Alguém' que 'sabia' o que estava a fazer – essa foi a minha segunda constatação"; (3ª) a analogia do quotidiano: o presidente da corporação que "não tem a capacidade de responder sobre algo tão sério que está sob a responsabilidade dele" (p. 17).
+- **[B057 p. 18]** "Sim, eu **neguei a existência do tal Criador propalado** pelos que administravam o universo e **questionei as leis que regem e mantém esta Criação** e também os seres que respondiam por elas. Isso que eu fiz não foi nada corriqueiro naquele contexto dos capelinos!"
+- **[B057 p. 19]** a mutação: "uma 'vibração inusitada'... causando uma mutação no meu código genético"; "abrisse certos **'lacres mentais'** em mim mesmo"; "'pequena' mutação genética que resultou no fator que me trouxe mais **'liberdade mental'**" (742 mil anos, aproximadamente); "**Depois, repassei esse gene mutante para os demais capelinos da minha família.**"
+- **[B057 p. 22]** o contágio: "algo parecido com um **vírus** que, ao entrar em sintonia com o 'Processador Mental' da nossa família – o 'Processador Yel' –, causou desequilíbrios, de modo generalizado" (SINTESE, p. 1: "uma espécie de 'vírus mental'").
+- **[B057 p. 43]** "O problema tinha se iniciado, e eu estava a ser o **veículo disseminador** de tudo aquilo. O que não tem remédio, remediado está! – diz esta escritora."
+- **[B057 p. 58/61 · a "pólvora" à família Mion]** "E eu, fui 'aquele' que lhes deu a **'pólvora' certa para fazerem 'explodir'**, neles próprios, esse tipo de comportamento" (p. 61; ver RC-074/RC-443).
+- **[B057 p. 20]** o isolamento: "o tempo de **isolamento voluntário** que vivi depois que saí da Terra, **carregado nos braços daquele que aqui ficou conhecido como Jesus ressuscitado**" (cross com o ciclo B001/B002/B036); "exílio voluntário" (p. 23).
+- **[B057 p. 45 · fase revoltada, autoqualificada]** "Eu estava **contaminado com tantas ideias equivocadas** que já não atinava com nada!" — o próprio livro qualifica a voz dos caps. 5–7 como leitura do ser em revolta (O-7).
+- **[B057 p. 61 · corresponsabilidade, a escritora]** "Você é responsável pela 'pólvora', no entanto, eu sou responsável pelo uso que fiz dela. Então, **somos ambos corresponsáveis**."
+- **[B057 p. 61]** "a espécie humana terrestre é tão **preciosa** para nós... O **Homo Sapiens, por ter a mente sem tantas 'travas'**, consegue perceber as questões de um modo que os capelinos não conseguem imaginar" (p. 51: "a espécie Homo Sapiens é o melhor resultado que este universo já produziu").
+- **[B057 p. 62 · a "redenção"]** "cabe-me ajudá-los! E o farei para que eu possa, em algum momento, **redimir-me diante de mim mesmo**. Esse é o objetivo que pretendo alcançar."
+- **[B057 p. 62 · resultado positivo]** "a 'Rebelião', apesar de toda a dor e sofrimento, apresentou um resultado positivo, ou seja, a **liberdade de existir sem tantos condicionamentos e tantos controlos**."
+- **RC-142 "Yel Luzbel" = remissão para esta ficha** (Devolutiva B057, O-2: concentrar o conteúdo em RC-078; duplicidade RC-078 × RC-142 resolvida **sem fusão de códigos** — RC-142 permanece termo-remissa na malha).
+- 0 códigos novos (O-3). "Lacres mentais", "vírus mental", "liberdade mental", "pólvora" = vocabulário narrativo da obra (Navalha).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

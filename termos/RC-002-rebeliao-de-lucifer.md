@@ -37,6 +37,17 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[B017 p. 6–7]** Esclarecimentos: famílias cósmicas «obrigadas a aportar» por causa da rebelião; operação «camuflagem» em torno do «quartel-general da rebelião».
 - Caps. 1–13 **isolados**. Artefato voador / raças de fora = **ufológica — fora**. Sem fusão com B003 / B018. Fonte **B017** acrescentada na tabela-mestra.
 
+
+## Ampliação — B057 (A Revolta do Anjo Decaído)
+
+- **[B057 p. 19]** "Por mais desagradável que seja, preciso informar o leitor que a 'Revolta dos Anjos Decaídos' foi uma rebelião **deflagrada há uns 687 mil anos, em Capela, contra Sophia e as suas hostes**, que resultou na **morte de seres de várias espécies desse Sistema Solar e de outros, como o de Antares, e na destruição de civilizações e de mundos**." (Antares = RC-021.)
+- **[B057 p. 19]** sobreviventes: "Entre os 'rebelados' sobreviventes, estavam os capelinos das **famílias Yel, Mion, Cromon e Shanlun** [grafia do livro; canônico: **Shanlung**], que se refugiaram no planeta Terra **há uns 98 mil anos**, e todos os membros da **família Val, que vieram para a Terra há aproximadamente 620 mil anos, antes que essas 'guerras' começassem**."
+- **[B057 p. 19]** o grupo remanescente: "quase todos morreram neste planeta – entretanto, existe um pequeno grupo de capelinos que, na **única nave dos 'ex-rebelados', ainda apta para se locomover à volta da Terra**, se submeteu a um processo de **alteração dimensional**."
+- **[B057 p. 18–19 · divergência de datas]** "liberdade mental" conquistada "há uns **740 mil anos**" (p. 18) / "**742 mil anos, aproximadamente**" (p. 19) × Revolta deflagrada "há uns **687 mil anos**" (p. 19) — nota de fim de capítulo (p. 20): "**todos os tempos usados neste livro são referenciados a anos terrestres**". A base já registrava "700 mil vs 742 mil" (B061, seção E.7) → **variante B057 (687 mil) anotada como nota de curadoria** (O-4 — absorver, preservando o artefato).
+- **[B057 p. 1 · SINTESE]** enquadramento da contracapa: o processo "acidentalmente contribuiu na semeadura do **maior legado da humanidade: A liberdade**".
+- **[B057 p. 14 · nota]** nomes variantes do evento: "'Rebelião dos Anjos Decaídos', também chamada de 'Revolta dos Anjos Decaídos' ou **'Rebelião de Yel Luzbel'**".
+- 0 códigos novos (O-3). Voz de Yel Luzbel (psicografia de Jeane Miranda) — **isolada, leitura do ser, não fato ontológico** (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

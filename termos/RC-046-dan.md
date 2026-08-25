@@ -1,0 +1,45 @@
+# Dan — RC-046
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | LOKAS & GEOGRAFIAS |
+| **Subcategoria** | 3.1 Planetas / Sistemas estelares |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-25 |
+
+## Definição Sintética
+**Dan** é o "mundo" do sistema de Capela (RC-039) no qual Yel Luzbel (RC-078) nasceu — descrito como uma **grande nave-laboratório** onde os membros das famílias de capelinos eram urdidos ("nascemos 'prontos', ou seja, já habilitados para atuarmos como cientistas e pesquisadores"). Era administrado por seres que, confrontados com as questões de Yel Luzbel, "levaram um grande susto".
+
+## Contexto / Origem
+Termo do universo capelino da RC (glossário B031; presente também em B058). No B057: "Nasci no longínquo sistema solar de Capela. **Fui urdido numa grande nave-laboratório, como os demais membros das famílias de capelinos que também existiam por lá**" (p. 15); e "levei-as para o conhecimento dos **seres que administravam o mundo chamado 'Dan', no qual eu nasci**, e todos levaram um grande susto e não conseguiram responder-me a nenhuma delas" (p. 27). A urdidura em nave-laboratório (em vez de nascimento planetário comum) é traço distintivo da narrativa psicografada.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Dan
+- **Variações:** "mundo chamado 'Dan'" (B057)
+- **Obs.:** não confundir com **Danu** (mitologia celta) nem com outros "Dan" da malha — aqui é o mundo capelino de urdidura
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF): urdidura na grande nave-laboratório | narrativa psicografada (Yel Luzbel) |
+| A Revolta do Anjo Decaído (B057) | Cap. 3 | p. 27 (PDF): "o mundo chamado 'Dan', no qual eu nasci" | narrativa psicografada |
+| O Início da Revolta Capelina (B058) | — | — | base do termo (ciclo futuro) |
+| Glossário Raquyel (B031) | — | — | base do termo |
+
+## Citações-chave
+> "Nasci no longínquo sistema solar de Capela. **Fui urdido numa grande nave-laboratório, como os demais membros das famílias de capelinos** que também existiam por lá. Nascemos 'prontos', ou seja, já habilitados para atuarmos como cientistas e pesquisadores." — B057, p. 15
+
+> "levei-as para o conhecimento dos **seres que administravam o mundo chamado 'Dan', no qual eu nasci, e todos levaram um grande susto** e não conseguiram responder-me a nenhuma delas." — B057, p. 27
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Raças capelinas | RC-136 | relaciona-se-a (mundo de urdidura) |
+| Capela (Sistema) | RC-039 | ocorre-em (mundo do sistema) |
+| Mastlans Phisosferas / Luciferianas | RC-079 | relaciona-se-a (relação prévia na malha) |
+
+## Seres Associados
+Yel Luzbel (RC-078, nascido em Dan); os administradores de Dan (seres anônimos da narrativa); Sophia (RC-009, criador das famílias).
+
+## Observações
+**Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (B031/B057/B058 nas fontes) sem ficha física. **Quarentena ufológica (O-7):** mundo-nave extraterrestre — cruzar com as obras primárias de Ellam, não materializar como fato; narrativa psicografada (voz isolada de Yel Luzbel). 0 códigos novos (O-3).
