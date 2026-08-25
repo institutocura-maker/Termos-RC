@@ -27,6 +27,18 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 - **[B074 p. 34]** Hermes Trismegisto (cruzamento RC-463): "onde o indivíduo coloca sua atenção, para lá ele faz convergir toda a sua energia". "Alimento espiritual estragado" = arquivos adquiridos pela "sintonia mental" (filme de drama que produz lágrimas; comédia que produz sorrisos; terror que aciona o medo).
 - 0 códigos novos (akasha, vāsana, "fantasminhas", perispírito = vocabulário da obra).
 
+
+## Ampliação — B075 (Mentalma II)
+
+- **[B075 p. 100]** "'Limpar' a memória animal resulta em também **'despoluir' a memória espiritual**."
+- **[B075 p. 69]** a "**biblioteca de arquivos mentais**" de um ser humano "constitui tudo o que ele é" — marcada na "Mente Espiritual", nas sinapses e no DNA do corpo material (e no "DNA espiritual" dele).
+- **[B075 p. 101]** a "**memória quântica**" desperta as sinapses na varredura do "pior momento" (arquivo negativo a descartar).
+- **[B075 p. 102]** 14ª Const.: "O passado está marcado nos **registros akásicos** (ou akáshicos), mas esses não são todos os 'registros quânticos'... o Sanchita-karma contém o que aconteceu em termos de vida pensante e amorosa, mas esses não são registros akásicos"; **"mentenet"** = "uma grande 'rede cósmica espiritual' — na qual cada ser humano é, ao mesmo tempo, um tipo de hardware e um dos elos dessa corrente" (nota p. 191: "ele pode alterar o seu passado ao modificar ou eliminar arquivos mentais" — **leitura do autor**).
+- **[B075 p. 80]** a deleção de arquivo é "**quântica**" (instantânea): "Basta ele querer, que o arquivo escolhido será deletado — repito — tanto na sua 'Mente Espiritual' quanto do seu cérebro físico, pois ocorre o desfazimento das sinapses cerebrais relativas a ele."
+- **[B075 pp. 108–109]** a "limpeza" em 2 etapas: (1) "Com a Vontade, focar, intencionalmente, no arquivo mental problemático"; (2) "Envolver a lembrança desse arquivo com um 'novo sentimento' ou qualquer postura mental nobre"; 16ª Const.: "as memórias indesejáveis tornam o ser humano **prisioneiro** das próprias lembranças e do **inferno mental/psicológico** por ele criado".
+- **[B075 p. 107]** **PKMzeta** (molécula real citada): "acionada por posturas mentais habilmente trabalhadas pelo seu psiquismo"; os "jogos mentais" do Mentalma "proporcionam a produção desse hormônio" — **leitura científica/clínica, jamais promover como terapia** (O-7).
+- 0 códigos novos (registros akásicos/mentenet = vocabulário da obra, O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

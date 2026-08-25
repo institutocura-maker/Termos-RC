@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B075 — Mentalma II (Gestão Psíquica e Memórias Complexas)
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 10).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 10).** 6 fichas ampliadas (RC-166/548/550/551/552/553) + 2 criadas (RC-554, RC-555) + B075 adicionada às fontes de RC-550; **B085 cadastrada**; 0 códigos. Pasta em `CONCLUIDOS/`. Sem apostila.
 
 ## 1. Identificação
 

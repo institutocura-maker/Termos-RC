@@ -2,9 +2,9 @@
 
 > **Ritual de continuidade.** Este arquivo é o prompt a colar (ou anexar) no chat seguinte.
 >
-> **Última atualização:** 2026-08-25 · AGENTE 10 · **REVISÃO DE CONTINUIDADE FECHADA** (tarefas A/B/C/D) + **CICLO B074 *Mentalma I* FECHADO** (Devolutiva O-1..O-8 aplicada; 0 códigos; B084 cadastrada) · HEAD **`66b01e1`** (handoff; + commits da esteira 10) · branch `arena/01a03913-termos-rc`.
+> **Última atualização:** 2026-08-25 · AGENTE 10 · **REVISÃO DE CONTINUIDADE FECHADA** (tarefas A/B/C/D) + **CICLOS B074 E B075 *Mentalma I–II* FECHADOS** (Devolutivas O-1..O-8 aplicadas; 0 códigos; B084/B085 cadastradas) · HEAD **`66b01e1`** (handoff; + commits da esteira 10) · branch `arena/01a03913-termos-rc`.
 >
-> **Tarefa da sessão nova:** retomar o repasse dos livros — **próximo: B075 *Mentalma II*** (PDF já em `uploads_recepcao/`); depois B076–B078 (sem PDF — quando o curador tiver) e obras completas B027 e B035. **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
+> **Tarefa da sessão nova:** retomar o repasse dos livros — **próximo: B076–B078 *Mentalma III–V*** (sem PDF — quando o curador tiver); obras completas **B027 e B035**; B085 *Hyren-Hyron* (sem PDF). **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
 
 ---
 
@@ -33,7 +33,7 @@ PRIMEIRA AÇÃO (antes de qualquer edição):
 5. Leia PROMPT-PROXIMA-SESSAO.md (este) por inteiro — inclusive as seções Workspace × GitHub e Patrimônio da KB.
 6. Resuma o estado e aguarde confirmação do curador. NÃO abrir PR.
 
-ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 430 fichas físicas (429 ficha=True + RC-004 investigação False) · 87 obras (B001–B084 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 35 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento.
+ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 432 fichas físicas (431 ficha=True + RC-004 investigação False) · 88 obras (B001–B085 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 36 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento.
 
 FONTE DA VERDADE: o GitHub (branch da sessão). O Workspace da Arena é sandbox efêmero — o curador trabalha pelo GitHub, não pelo painel de arquivos da Arena. (Decisão do curador, 2026-08-25: **sem investimento** no Workspace.)
 
@@ -114,8 +114,8 @@ Camadas, da mais dura para a mais mole:
 | Arquivo | O que é |
 |---|---|
 | `ferramentas/dados_termos.py` | **Fonte única.** 777 termos + 1.852 relações. Validar sempre. |
-| `ferramentas/build_xlsx.py` | BIBLIO das 87 obras. **Edição só manual.** |
-| `termos/*.md` | 430 fichas (a carne da ontologia). |
+| `ferramentas/build_xlsx.py` | BIBLIO das 88 obras. **Edição só manual.** |
+| `termos/*.md` | 432 fichas (a carne da ontologia). |
 | `indice-mestre.md` | Índice gerado; versionado. |
 
 ### 2. Governança (sem isto o próximo agente se perde)
@@ -136,7 +136,7 @@ Camadas, da mais dura para a mais mole:
 
 | Pasta | Conteúdo |
 |---|---|
-| `livros/CONCLUIDOS/` | 35 obras integrais com PDF + extract + dossiê + ampliações (última: B074 *Mentalma I*). |
+| `livros/CONCLUIDOS/` | 36 obras integrais com PDF + extract + dossiê + ampliações (últimas: B074 *Mentalma I*, B075 *Mentalma II*). |
 | `livros/AMOSTRAS/` | B027 e B035 (Sample; obra completa pendente). |
 | `apostilas/CONCLUIDAS/` | 37 palestras/lives (original.txt + apostila.md + DOCX). |
 | `pedagogico/` | 10 apostilas temáticas (todas com DOCX) + 2 tratados (com DOCX) + 2 mapas + índice temático + Guia TALM + Dossiê Fase 0 + matriz de auditoria. |
@@ -160,17 +160,18 @@ Camadas, da mais dura para a mais mole:
 
 Trilogias Dramas / Terra Atlantis / Queda e Ascensão: **ENCERRADAS.**
 
-**AGENTE 10 (2026-08-25) — revisão de continuidade + ciclo B074 (zero códigos em tudo):**
+**AGENTE 10 (2026-08-25) — revisão de continuidade + ciclos B074–B075 *Mentalma* (zero códigos em tudo):**
 
 - A. Higienização: banners HISTÓRICO em 5 arquivos + MAPA DA VIGÊNCIA (nada apagado).
 - B. Workspace da Arena: **sem investimento** (decisão do curador) — GitHub = única interface.
 - C. xlsx/docx de leitura: **versionados no GitHub** (decisão do curador) — gerados nesta sessão; coleção `pedagogico/` completa (DOCX Javé + Thot/Hermes recebidos).
 - D. Mapa da KB: +3 peças (`01-ficha-modelo.md`, `02-vocabulario-controlado.md`, `INDICE-PALESTRAS.md`); correção `pedagogico/`: **10** apostilas temáticas (não 9).
 - **E. B074 *Mentalma I***: Devolutiva O-1..O-8 aplicada — **5 fichas ampliadas** (RC-166/548/549/551/552) + **2 criadas** (RC-550 Vontade de Progredir, RC-553 Eu Profundo); **0 códigos** (veto absoluto); **B084** *O Legado Esquecido: o Yoga dos Trimurtianos* cadastrada (`identificada`); quarentena p. 215 (Hitler/Len Mion/biodemos) **banida da malha**; CIP 290 p. × PDF 227 = `[REVISAR]`; ISBN não gravado; pasta em `CONCLUIDOS/`.
+- **F. B075 *Mentalma II***: Devolutiva O-1..O-8 aplicada — **6 fichas ampliadas** (RC-166/548/550/551/552/553) + **2 criadas** (RC-554 Gestão Psíquica e Memórias Complexas; RC-555 Série Mentalma — Nota Especial: nome intacto + 7 volumes anunciados em 2020); **B075 adicionada às fontes de RC-550** (decisão extra do curador); **0 códigos**; **B085** *Hyren-Hyron: Universos em Colisão* (2021; coautoria Freitas e Kummer; nome civil) cadastrada (`identificada` + tag obra complementar); PKMzeta/hipnose = **leitura filosófica, jamais terapia**; NDEs/milagres/Ramtha fora da ontologia; erros do autor registrados sem corrigir a voz (p. 64 "1957"; p. 139 "cerebelo"); grafias absorvidas ("Sofia" → Sophia; "Roden" → Rohden); FAROL LUSITANO/IESP = quarentena institucional; pasta em `CONCLUIDOS/`.
 
-HEAD: **`66b01e1`** `docs: pausa e handoff — mapa da KB, Workspace × GitHub, token removido` + commits da esteira 10 (revisão, DOCX pedagico, B074 — tip da branch `arena/01a03913-termos-rc`). PR **não** aberto.
+HEAD: **`66b01e1`** `docs: pausa e handoff — mapa da KB, Workspace × GitHub, token removido` + commits da esteira 10 (revisão, DOCX pedagico, B074, B075 — tip da branch `arena/01a03913-termos-rc`). PR **não** aberto.
 
-Pendências de livro (quando o curador quiser): **B075 *Mentalma II*** (PDF já recebido); B076–B078 (sem PDF — quando o curador tiver); obras completas de B027 e B035. Pendências menores: manifest versionado (`backups/pacotes/`, 2026-08-18) ainda com contagens antigas — curador decide regenerar; CIP B074 `[REVISAR]`.
+Pendências de livro (quando o curador quiser): **B076–B078 *Mentalma III–V*** (sem PDF — quando o curador tiver); obras completas de B027 e B035; B085 *Hyren-Hyron* (sem PDF). Pendências menores: manifest versionado (`backups/pacotes/`, 2026-08-18) ainda com contagens antigas — curador decide regenerar; CIP B074 `[REVISAR]`.
 
 ---
 

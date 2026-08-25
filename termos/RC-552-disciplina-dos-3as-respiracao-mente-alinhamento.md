@@ -28,6 +28,15 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **[B074 p. 184]** segundo "erro fatal": não utilizar a educação respiratória para controlar as emoções ("a outra opção é tomar remédios" — clínico, **fora da malha**).
 - 0 códigos novos.
 
+
+## Ampliação — B075 (Mentalma II)
+
+- **[B075 pp. 168–169]** **PRA** (Programa Respiração Aprofundada): "a pessoa inspira em **4, 5 ou 6 segundos, retém o ar por 15 a 20 segundos, depois o expele em 5 a 10 segundos**, e fica um tempinho — um milésimo de um segundo, um segundo — sem respirar" (2 a 5 respirações profundas por minuto); "O Professor Hermógenes e outros mestres sempre recomendaram que o(a) praticante, imediatamente após soltar o ar dos pulmões, às vezes, provocasse **uma ou duas pequenas tossidas**"; "o primeiro passo para alcançar a 'soberania espiritual' é, inevitavelmente, adotar o hábito de utilizar algum ritmo respiratório diferente do usual".
+- **[B075 p. 168]** "**pranayama** — as práticas milenares que consistem em exercícios de controle respiratório" — "transformou-se numa **'chave do autocontrole'**"; "a respiração engloba as funções fisiológica, psicológica e espiritual".
+- **[B075 p. 94]** "vivência interior": "O único fator que habilita o ser individualizado a exercer a sua '**cidadania dupla**' (espiritual e terrena) é a vivência interior, e para que isso aconteça, ele terá que praticar **umas boas centenas ou milhares de horas meditando** (o suficiente para romper o primarismo vibratório da condição animalizada), como fizeram Yogananda e vários outros gurus e mestres hindus"; o "pranayama extremante simples... constitui a **primeira fase da disciplina dos '3As'** (Aprofundar a respiração / Acalmar a mente / Alinhar-me com meu 'Eu Espiritual')".
+- **[B075 p. 23]** respiração dirigida a arquivos específicos (exemplo da claustrofobia — **clínica, exemplo**): "a respiração pode ser **direcionada, com uma precisão cirúrgica**, para arquivos mentais de problemas específicos, no sentido de atacar a causa e as consequências desses".
+- 0 códigos novos (PAC/"DBD" = programa clínico, O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

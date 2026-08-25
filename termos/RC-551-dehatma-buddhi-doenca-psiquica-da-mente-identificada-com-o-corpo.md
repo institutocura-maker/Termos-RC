@@ -28,6 +28,16 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 - **[B074 p. 178]** "**mentenet**": nome dado por Ellam à "corrente mental" humana ("Há um tipo de 'internet humana' — eu chamo essa 'corrente mental' de 'mentenet'").
 - **Quarentena clínica:** o método não é terapia; o trecho p. 215 (biodemos/Len Mion/Hitler) está **banido da malha** (O-7). 0 códigos novos.
 
+
+## Ampliação — B075 (Mentalma II)
+
+- **[B075 p. 13]** "Dehatma-buddhi" é "uma expressão sânscrita que descreve **aquele ser humano apartado do seu Corpo Búdico** — um dos Corpos Superiores —, e que, ao assumir que é o próprio corpo físico material, se confunde com o corpo animal, com o nome que lhe deram ao nascer"; analogia da TV: o corpo é "tão somente um instrumento"; o nome = "um dos canais da TV, o que se encontra selecionado no momento"; "o ego humano **perdeu essa capacidade** de saber se sintonizar naquilo que ele gostaria".
+- **[B075 p. 15]** "A maioria dos seres humanos se porta como um 'dehatma buddhi', apresentando esse tipo de doença psíquica" (exemplos: missa, passe, dízimo — **crítica religiosa, leitura**).
+- **[B075 pp. 16–17]** os "yoguis profundos" da "linhagem sacerdotal" (3 anos sem comer — **leitura do autor**): o corpo "funciona como se fosse um mero aparelho de televisão que está ligado, mas sem função"; o "Yoga mental" readquire "a habilidade de saber sintonizar a si próprio".
+- **[B075 p. 107]** a cura: "Uma pessoa só conseguirá se livrar da 'doença do dehatma buddhi' se o seu cérebro produzir **PKMzeta**, que é acionado por posturas mentais habilmente trabalhadas pelo seu psiquismo" — **leitura clínica** (O-7); "é importantíssimo que as memórias indesejáveis sejam varridas da própria lembrança".
+- **[B075 p. 127]** "O pior automatismo que um ser humano pode ostentar é o de 'colecionar' arquivos mentais ruins. O automatismo é subproduto da 'doença' do Criador deste universo, mas as pessoas não precisam aplicá-lo ou fazer como Javé, pois elas têm a condição — que ele não possui — de serem **criativas e ousadas**."
+- 0 códigos novos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

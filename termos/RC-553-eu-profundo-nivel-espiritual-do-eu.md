@@ -18,6 +18,16 @@ No Mentalma I (B074, cap. 11 — "O 'Eu' que Surge da 'Caixa de Depósitos'"), E
 - **Variações:** "Eu Mais Profundo", "Consciência Profunda Espiritual"; expressões afins (sem código próprio): "Eu Superior", "Eu Sagrado", "Eu Verdadeiro", "Eu mais primário"
 - **Idioma de origem / etimologia:** expressão criada por Ellam (B074); lastro na tradição hindu (o "atman" / "fagulha do Absoluto" no nível Atma)
 
+
+## Ampliação — B075 (Mentalma II)
+
+- **[B075 p. 96]** o exemplo "Eduardo" — **três níveis**: (1) "Eduardo," o **"Eu egoico"** — "o 'Eu terreno', por se tratar de um humano da Terra — do Espírito 'que o anima'"; (2) o Espírito "que o anima" — o **"Eu mais Profundo"** de "Eduardo"; (3) o **"Eu Superior", que é o "Eu Sagrado"**, "que habita cada ser e que surge na 'Consciência Espiritual' do 'Eu Espiritual' quando o 'Eu egoico' 'Eduardo' e esse 'Eu Profundo'... 'se anulam' de maneira alinhada e harmônica".
+- **[B075 p. 96]** "Esta vinculação que se estabelece com o 'Eu Sagrado' denomina-se '**Unidade com o Pai**', e se dá quando o indivíduo se torna 'Um só' com a pureza que Dele é emanada permanentemente, entendendo-se como um mero personagem deste Ser, agindo aonde o 'Eu terreno' está."
+- **[B075 p. 95]** "**swami**" = "alguém que conseguiu **unificar o seu ego terreno à sua 'Condição Mental Espiritual'**"; na "meditação 'Yogui Espiritual'", quando a "Mente Espiritual" do Espírito entra em profunda capacidade de meditação, "outro 'Eu' surge, 'falando mentalmente' com a pessoa... o 'Eu Sagrado'".
+- **[B075 p. 93]** a "dupla cidadania": "passamos a negociar quem está no comando das atividades diárias nesta 'realidade manifestada'"; "Rogério" é "só um personagem que o meu Espírito utiliza para **aprimorar o 'Código-fonte Definidor de Vida Pessoal' do Criador** (CFDP, RC-153), por meio do meu DNA".
+- **[B075 p. 95]** "o meu 'Eu terreno' é apenas mais um '**conjunto de algoritmos**' que estão sendo assimilados pelo meu Espírito — portanto, para que o foco da Consciência possa se deslocar para a 'Mente Espiritual', **o ego tem que compreender o que ele é e não querer ser o que não é!**"
+- 0 códigos novos (Eu Superior/Eu Sagrado/"Unidade com o Pai" = vocabulário da obra, O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

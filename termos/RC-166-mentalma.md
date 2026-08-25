@@ -44,6 +44,16 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **[B074 pp. 189, 199]** os **5 "graus de maestria"**: 1 Arquitetura dos Arquivos Mentais; 2 Gestão da Vontade; 3 Imperturbabilidade; 4 Discernimento Esclarecido Profundo; 5 Condução do Fluxo Mental. "A maestria não é uma conquista, mas sim, a sua permanente tentativa de atingir padrões virtuosos e superiores."
 - **[B074 p. 10]** série de **7 volumes anunciada** (I–VII; VI *Qualia e o Laboratório Mental*; VII *O Eu como Computador Quântico* — "planejados" em 2020) — **RC-555 mantém o nome** ("5 livros + curso"); anúncio registrado no O-3/RELATÓRIO (Nota Especial do curador). 0 códigos novos. Voz 100% Ellam; sem plateia.
 
+
+## Ampliação — B075 (Mentalma II)
+
+- **[B075 p. 185]** "Quando criei o Mentalma, cheguei perto da busca por **vinte maestrias pessoais** que desejei praticar nesta vida, e assim sigo fazendo. Elas estão distribuídas pelos **sete módulos** do Mentalma." (sete módulos = sete volumes da série).
+- **[B075 p. 185]** o **Grau 6 de maestria** — "Maestria da Arquitetura do Projeto Espiritual de Vida" — é específico do "Mentalma II" (os graus 1–5, do B074 cap. 18, são retomados em 12.1–12.5).
+- **[B075 pp. 165–166]** o "**Dia Meta 10**": dez práticas diárias (Yoga tradicional e rodopio; PAC; "contemplação quântica"; PRA; "negação de mim mesmo"; PAR; relaxamento/concentração/meditação; alongamentos; "Phowa"; "nada concluir" + "indiferença amorosa"). Origem da ideia: "nenhum mestre digno desse título deixa que o dia lhe aconteça, porém, diferente disso, ele 'cria o seu dia'" (Judy Z. Knight — **canalização/mediúnica, leitura isolada**, p. 165).
+- **[B075 p. 93–94]** a "**dupla cidadania**" (manifesto × imanifesto) como meta do método: "um dos objetivos principais deste livro é que o(a) leitor(a) saiba que lhe é possível exercer a 'cidadania dupla' no 'manifestado' e no 'imanifestado'".
+- **[B075 p. 88]** "O Mentalma convida o(a) leitor(a) a adotar essa **atitude dionisíaca** — e não a atitude apolínea do controle, da subserviência e do medo —, de modo a se transformar em **artista de si mesmo ou artífice da própria existência**. A vida é pura arte, e a arte de saber viver é ousadia em pleno caos!"
+- 0 códigos novos (O-3). Voz 100% Ellam; sem plateia.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -23,7 +23,11 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B075_mentalma_ii_gestao_psiquica_memorias_complexas/` — ingresso (2026-08-25, AG. 10); leitura integral (201 págs) feita; **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. B074 (I) já em `CONCLUIDOS/`.
+Nenhum.
+
+## Último ciclo
+
+`CONCLUIDOS/B075_mentalma_ii_gestao_psiquica_memorias_complexas/` — **B075 *Mentalma II***: Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 10); **6 fichas ampliadas + 2 criadas (RC-554, RC-555) + B075 nas fontes de RC-550; 0 códigos; B085 cadastrada**. B074 (I) em `CONCLUIDOS/`.
 
 ## Último ciclo
 
