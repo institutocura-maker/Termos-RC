@@ -17,6 +17,14 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 - **STT:** Assuras, açuras;
 - **correspondência RC:** Titãs, exclusivamente como **Teologia Comparada de Ellam**.
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 57–58 · a teogonia do volume]** "a estirpe dos titãs era muito mais antiga que a nossa. **Eles faziam parte da segunda geração de deuses, e eram seres poderosos, descendentes de Urano. Cronos, que pertencia à terceira geração de deuses, foi aprisionado no tártaro pelo seu filho Zeus, que era da quarta geração.** Após derrotar Cronos, Zeus entrou em guerra com os titãs, vencendo-os e também aprisionando quase todos no tártaro – **os irmãos Prometeu e Epimeteu foram poupados por interesse** do 'chefe' do Olimpo."
+- **[B087 notas p. 61]** as notas mitológicas da ed. 2022: Urano ("deus primordial (protogenos) do céu. 'Casou-se' com Gaia (a Terra)"); Cronos/Reia (engolia os filhos; "Zeus, que Reia conseguiu salvar, enganando Cronos – ela enrolou uma pedra num pano"); o tártaro ("a personificação do 'Mundo Inferior'... onde são aprisionados os inimigos do Olimpo").
+- **[B087 p. 68]** a especialização da linhagem: "construtores, pesquisadores e ousados no campo da criatividade... Zeus... precisa do nosso concurso criativo e da nossa inteligência."
+- 0 códigos novos (O-3). Quarentena ufológica (O-7). **B087 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

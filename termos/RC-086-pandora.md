@@ -42,6 +42,19 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[B021 p. 17]** cap. 2 (voz de Ellam): «Depois que produzi o primeiro livro com Pandora» = remissão a **B020**, **não fundir**. Falas diretas de Pandora no capítulo **isoladas** (padrão B020 / B034).
 - **[B021 p. 18–19]** ensaio: após a metamorfose «a de Pandora» «que levou um demo a se transformar numa fêmea Homo sapiens». Sem extrair RC-118 / RC-299 a partir da nota p. 164 (Kalil/Kadmon). Sem reancorar RC-283 / RC-284 / RC-285. RC-145 **não** materializada. Diálogo Inusitado **isolado**. Sem fusão com B020 / B056 / B001. Fonte **B021** já constava na tabela-mestra.
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 14]** a origem na voz da própria ser: "EU SURGI de um sentimento destrutivo que Zeus, meu pai, teve. Eu 'nasci' para expressar um ente sem forma, sem conteúdo... **e sem a polaridade feminina que agora tenho**."
+- **[B087 p. 5 · SINOPSE]** "**a primeira mulher, que era parte humana e parte olimpiana**. Ela foi condicionada, à 'força', a tornar-se um ser feminino, mas logo depois... **optou por permanecer, ao longo da sua existência, com o padrão feminino** a marcar-lhe a forma de existir." (a escolha posterior é dela — nuance do volume.)
+- **[B087 p. 18 · a "violência mental"]** "a 'violência' que me alterou refere-se à **invasão de mentes no meu mais íntimo, no que me era mais precioso, mudando o que eu não queria que fosse alterado**, e projetando em mim o que, definitivamente, por escolha própria, eu não faria." (quarentena social/de gênero — O-7.)
+- **[B087 p. 37 · a libertação]** "o que Zeus não havia percebido é que **ele havia me libertado**, ele havia me livrado do seu controle mental e, portanto, do seu domínio. Eu era livre!"; "Você já não é o meu criador, pois libertou-me ao transformar a minha forma de existir! **Sou livre!**" (p. 38.)
+- **[B087 p. 44 · Prometeu sobre ela]** "**Você e somente você, dentre todos os seres desta Criação em que vivemos, possui o direito pleno de escolher!**"; "Você é, agora, o 'protótipo' mais especial que temos."
+- **[B087 p. 24 · nota 3 — a linhagem]** "A espécie Homo sapiens sapiens é, principalmente, resultante da **miscigenação, ao longo do tempo, da linhagem de Pandora** com outras linhagens humanas, como a manipulada geneticamente pelos **Anunnaki** (RC-024) e algumas que extraterrestres trouxeram para a Terra." (nota da ed. 2022 — doutrina RC; cross RC-727.)
+- **[B087 p. 80 · o plano]** "o meu objetivo era conseguir que **aquelas criaturas fossem livres**. Eu planeava algo superior para aquela espécie! Não queria que eles fossem somente 'massa de manobra' para os titãs ou para os deuses do Olimpo." (→ tema do Livro 2, B088.)
+- **[B087 p. 71]** a co-criação de **Pirra** (RC-303) com Epimeteu, no "círculo de luz".
+- 0 códigos novos (O-3). Voz de Pandora (psicografia) — **leitura do ser, não fato ontológico** (O-7). **B087 adicionada às fontes** (fonte nova — Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

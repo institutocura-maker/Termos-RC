@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B087 — Os Livros da Vida de Pandora 1: Zeus, os Titãs e a Criação da Espécie Humana Terrestre
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 11 — esteira `arena/01a03ad8-termos-rc`).** 9 fichas do cluster ampliadas (RC-086/302/285/287/298/465/727/736/297) + 4 criadas (RC-145 Zeus, RC-301 Prometeu, RC-303 Pirra, RC-307 Hefesto) + **B087 nas fontes de 13 termos**; status **`trabalhada`** + nota da ed. 2022 na BIBLIO; **0 códigos**. Pasta em `CONCLUIDOS/`. Sem apostila.
 
 ## 1. Identificação
 

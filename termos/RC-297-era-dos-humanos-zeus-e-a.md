@@ -17,6 +17,15 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 - **Grafia preferida:** Era dos Humanos
 - **Variações:** Zeus e a Impensável "Era dos Humanos"; a era em que os humanos imperam
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 58 · o "marco evolutivo"]** Prometeu: "Observe, Pandora, que em cima dos ombros dessa espécie tão grotesca **perduram várias possibilidades de 'marco evolutivo' nunca antes visto**, ou sequer pretendido para criaturas tão frágeis e primitivas como essas."
+- **[B087 p. 44]** o pacto: Pandora e Prometeu "estabelecemos um pacto para trabalharmos pela evolução daquelas criaturas que andavam sobre duas pernas, **os futuros humanos da espécie Homo sapiens sapiens**."
+- **[B087 p. 75 · a primeira palavra]** após a "poção" cerebral de Epimeteu (mais cérebro, mais sinapses), o macho especial articula "**olá!**" — o primeiro vocábulo da espécie.
+- **[B087 p. 61]** "Lembre-se, **essa é somente a primeira geração desses seres**." (o processo é longo — "eu viveria ainda muito para efetivar o que eu estava a planear".)
+- 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -17,6 +17,16 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - **Grafia preferida:** Opção Inusitada de Pandora
 - **Variações:** opção mental de Hefesto; humanização de Pandora; transferência de fase demo → homo; "primeira mulher humana racional"
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 66]** "**Eu, como Pandora, mais biológica que olimpiana, evoluía e aprendia a 'pensar e sentir' de modo diferente de outrora.** Cada dia, algo novo em mim me surpreendia..."
+- **[B087 p. 65]** "**Eu era, de facto, um novo ser!**... 'Algo' crescia dentro de mim, sem que eu soubesse como aquilo acontecia…" — a narrativa INTEIRA do B087 é este processo (a "Opção Inusitada" de B020 contada em primeira pessoa).
+- **[B087 p. 35–36 · o "presente" de Hefesto]** "ele obedeceria à ordem de Zeus, porém **deixaria que eu decidisse, em algum momento, se, de facto, gostaria de tornar-me um ser biológico humanoide, e quem decidiria isso seria eu e não Zeus**."
+- **[B087 p. 38]** o estado intermediário: "com os 'presentes' dados por Atena e Hefesto, eu ainda era '**meio olimpiana**' e, portanto, ainda estava em posse dos meus poderes mentais."
+- **[B087 p. 39]** a "folga cerebral": o corpo humanoide "mantinha naturalmente uma forma constante, sem que eu precisasse usar o meu poder mental para estabilizá-la."
+- 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

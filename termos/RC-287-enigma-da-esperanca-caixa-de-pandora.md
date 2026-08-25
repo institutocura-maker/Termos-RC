@@ -17,6 +17,16 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 - o "erro foi negar o que havia nela", não abri-la;
 - ligação com Pandora (RC-086) e com a origem da racionalidade humana.
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 51 · a entrega]** Zeus: "todo o bom pai deve, no casamento da sua filha, dar-lhe uma prenda... **Essa 'caixa' está selada, e somente você poderá abri-la.**" (a mentira que predispõe a abertura por Epimeteu.)
+- **[B087 p. 55 · o conteúdo]** "Dentro dela, foram colocados alguns 'vírus'... **'algoritmos virais'**... **ódio, maldade, arrogância, desespero, doenças, malícia, soberba, ciúme, luxúria e esperança**. Essas eram as 'instruções viróticas' que se propagariam, contaminando os seres da espécie que Prometeu queria criar, **livre desses 'vícios'!**" — **a "esperança" como o último algoritmo viral** (variante a registrar).
+- **[B087 p. 55 · a função]** "**Corrupção e dominação**, eis o que aquela 'caixa' representava!... a intenção era corrompê-la e, depois, dominá-la!"
+- **[B087 nota 1 p. 55]** as definições do adaptador: "Algoritmo é uma sequência finita de instruções bem definidas... vírus, em latim, quer dizer fluído venenoso ou toxina que pode infectar."
+- **[B087 p. 54]** **divergência estrutural × B020** (variante narrativa, jamais fusão): quem abre a caixa é **Epimeteu** (a caixa "magnetizada"), não Pandora — ver RC-302.
+- 0 códigos novos (O-3). "Algoritmos virais" = vocabulário da obra (Navalha — O-3). **B087 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

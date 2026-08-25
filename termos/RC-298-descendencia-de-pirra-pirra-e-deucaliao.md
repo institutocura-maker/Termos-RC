@@ -17,6 +17,14 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 - **Grafia preferida:** Descendência de Pirra
 - **Variações:** Pirra e Deucalião; a linhagem de Pirra; o casal Deucalião/Pirra
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 72 · a promessa a Pirra]** "De você, **nascerão seres melhorados que serão os futuros descendentes que habitarão a Terra**. Você será a minha filha e a minha única descendente." (Epimeteu.)
+- **[B087 p. 71 · a criação]** "juntámos a nossa força mental e formámos um '**círculo de luz**' e, dentro dele, começámos a engendrar – ou a criar – um corpo para o futuro ser... **ela era muito mais titânide do que olimpiana**."
+- **[B087 p. 78]** "**Realmente, ela era titânide e olimpiana**, pois que possuía características dessas duas estirpes." (o híbrido que funda a descendência.)
+- 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7). **B087 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

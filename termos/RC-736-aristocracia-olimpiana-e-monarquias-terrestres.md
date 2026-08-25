@@ -62,3 +62,12 @@
 - **O ápice da submissão devocional:** "se passar um carro preto e alguém disser 'o imperador tá no carro', todos os japoneses baixam a cabeça e não olham pro carro" — o vínculo com o vício devocional de Javé (destaque da devolutiva O-2).
 
 ---
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 p. 21–22 · a Assembleia]** "Zeus e os seus irmãos eram os principais deuses que formavam a **'Assembleia dos Eleitos'**, que tinha o poder de decidir o destino de todos. Entre todos os deuses dessa 'assembleia', o mais poderoso era Zeus." (nota 3 p. 19: **os doze** — Zeus, Hera, Poseidon, Atena, Ares, Deméter, Apolo, Ártemis, Hefesto, Afrodite, Hermes e Dionísio.)
+- **[B087 p. 28]** a "elite dos deuses do Olimpo" (Atena "fazia parte da 'elite' — e isso a tornava diferente dos outros 'filhos diretos' de Zeus").
+- **[B087 p. 20]** a estrutura de poder: "Ele se julgava importante o suficiente para se autoproclamar como o **'Senhor de Todos os Seres Viventes'** ou o 'Senhor de Toda a Criação', e assim, de título em título, a sua soberba não tinha fim."
+- 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
+
+---

@@ -31,6 +31,13 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2024-07-13] O destrave de Pandora e Eva (U0570–U0600):** "desde que Pandora e Eva tomaram certas raízes, o controle genético que fazia com que os humanos fossem retardados foi rompido, e os humanos deixaram de ser dementes. Surgiu a racionalidade plena, que foi sendo desenvolvida, mas esses seres todos tentaram atrapalhar essa racionalidade e conseguiram, porque hoje nós temos transtornos psíquicos e cognitivos ao invés de travas e lacres do nosso genoma que nos imbecilizavam na época"; "Eva escolhambou com tudo"; "Abel, Caim, os primeiros filhos de Adão e Eva não se viram projeto" [REVISAR — STT].
 - **[P2024-07-13] Os filhos de deuses × filhos de humanos (U0575–U0600):** "na época de Jared... existiam na Terra filhos de humanos e filhos de Deus. Filhos de humanos eram aqueles que um ser humano transava com outro e os filhos eram iguais aos pais. Só que tinha humanas que eram roubadas por seres de fora, e aqui nasciam filhos dos deuses que transavam com humanos... esses filhos herdavam as características humanas da mãe, mas também as características genéticas do pai que não era humano"; "o que foi escolhido para ser o número um de uma escala evolutiva... foi esse ser chamado Adão".
 
+
+## Ampliação — B087 (A Revolta do Anjo Decaído)
+
+- **[B087 nota 3 p. 24 · a miscigenação]** "A espécie Homo sapiens sapiens é, principalmente, resultante da **miscigenação**, ao longo do tempo, **da linhagem de Pandora** com outras linhagens humanas, como a **manipulada geneticamente pelos Anunnaki** (RC-024) e algumas que **extraterrestres trouxeram para a Terra**." (nota da ed. 2022 — doutrina RC.)
+- **[B087 p. 8 · o paralelo Pandora–Eva]** a nota da autora: Pandora e Eva — "dois factos que, supostamente, foram realizados pelo padrão feminino, sendo que disso resultou toda a desgraça... **Eu penso diferente** a respeito do que foi dito e atribuído a Eva e a Pandora." (a refutação do "veículo da desgraça" — camada histórico-cultural.)
+- 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

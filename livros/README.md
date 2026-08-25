@@ -23,11 +23,13 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B087_pandora_1_zeus_titas_criacao_especie_humana/` — ingresso + leitura integral (88 págs) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; COM prefácio de Ellam). **Fonte nova** (0 termos citavam B087) — ciclo de vinculação ao cluster Pandora/Olimpo. B088 e B089 com PDFs já em `uploads_recepcao/` — sequência do curador.
+Nenhum (B087 fechado em 2026-08-25 — trilogia Pandora ⅓ completa). **Próximo: B088 *O Coquetel das Poções e o Iminente Ataque do Olimpo*** (PDF já em `uploads_recepcao/`) → B089 — na sequência do curador.
 
-Pendência de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
+Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 
 ## Último ciclo
+
+`CONCLUIDOS/B087_pandora_1_zeus_titas_criacao_especie_humana/` — **B087 *Os Livros da Vida de Pandora 1*** (obra secundária — psicografia de Jeane Miranda; COM prefácio de Ellam — quarentena teológica crítica; ed. 2022 Gullan Greyl): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **9 fichas do cluster ampliadas + 4 materializadas (RC-145 Zeus, RC-301 Prometeu, RC-303 Pirra, RC-307 Hefesto) + B087 nas fontes de 13 termos; 0 códigos; status `trabalhada`**. Divergências × B020 registradas (a caixa aberta por Epimeteu; a "esperança" como algoritmo viral). Atena: observacional.
 
 `CONCLUIDOS/B058_inicio_da_revolta_capelina/` — **B058 *O Início da Revolta Capelina*** (obra secundária — psicografia de Jeane Miranda; **sem prefácio de Ellam**; ed. 2022 Gullan Greyl): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **15 fichas ampliadas + 6 criadas (RC-021/103/448/451/452/453); 0 códigos; nota da ed. 2022 + notas com fontes externas (Wikipédia/B031) na BIBLIO**. B057 (Livro 1) em `CONCLUIDOS/`.
 
