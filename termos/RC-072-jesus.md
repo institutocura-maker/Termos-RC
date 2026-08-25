@@ -173,6 +173,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **[B020 p. 117]** Posfácio (fala de Ellam): o modo do criador «vitimou os demónios e os egos dos evolutivos, e nem mesmo Jesus parece ter escapado desse problema». **Quarentena teológica.** Falas de Pandora sobre Jesus (corpo e diálogo) **isoladas**. Caps. 1–14 **isolados**. Sem fusão com B011 / B049 / B009. Fonte **B020** já constava na tabela-mestra.
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 4]** Esclarecimento: Ellam pergunta se a personalidade do Mestre Jesus, «individualidade cósmica» que «não viver na Terra», não deveria ser referida como «a de um ser extraterrestre». **Quarentena teológica + ufológica** (pergunta retórica, não classificação ontológica).
+- **[B005 p. 55]** cap. 6: «um mestre maior — unificado ao Pai Celestial — se fez homem, transformando-se no maior fator extraterrestre na História desta humanidade.» «Os habitantes da Terra não têm, ainda, a menor idéia do quanto devem a esta individualidade cósmica conhecida entre nós como Jesus.»
+- Lemma **Javé ausente** neste PDF. Jeová (p. 22) **não** reancora RC-001. Niceia / Constantino = **teológica / histórico-religiosa — fora**. Sem fusão com B011 / B009 / B003. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

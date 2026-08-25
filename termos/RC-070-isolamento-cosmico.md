@@ -49,6 +49,12 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B026 p. 206]** «orgulho doentio» = **clínica** (leitura, jamais diagnóstico).
 - **[B026 p. 427]** «convivência clara e objetiva com os irmãos de outros orbes» = **ufológica** (leitura, não facto). Partes I–VI **isoladas**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 20–21]** cap. 2: analogia do exílio na floresta — os descendentes «acharão que estão sós»; a ótica terrena inclina-se a pensar que a Terra é «o único habitado por seres inteligentes».
+- **[B005 p. 24]** ensaio: auto-exílio em «dezenove mundos principais»; as minorias «ainda adoentadas» iam para os mundos que permaneceriam isolados, enquanto os outros «iam sendo reintegrados à convivência». «Doença» / «adoentadas» / «solução clínica» = **quarentena clínica**. Capela / naves = **ufológica** (leitura, não facto). Sem materializar RC-007 / RC-078 / RC-020. Sem fusão com B003 / B033. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

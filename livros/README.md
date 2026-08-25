@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`livros/B005_fator_extraterrestre/` — piloto ingressado (2026-08-25); dossiê enxuto; **aguarda Devolutiva**; 0 códigos; BIBLIO intocada (`trabalhada` / 126 págs). Ensaio = Ellam. Orbum fora. Sem apostila. **Não** mover para CONCLUIDOS antes da Devolutiva + aplicação.
+Nenhum.
 
 ## Amostras
 
@@ -92,3 +92,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 `CONCLUIDOS/B015_o_guardiao_do_eden` — Devolutiva aplicada (2026-08-24); 2 fichas (RC-041, RC-024) só NAT; B015 nas fontes de RC-024; 0 códigos; BIBLIO intocada. Zont En Drel isolado. Prefácio = remissão a B017. Sem apostila.
 
 `CONCLUIDOS/B020_o_sorriso_de_pandora` — Devolutiva aplicada (2026-08-24); 5 fichas (RC-086, RC-041, RC-001, RC-072, RC-104) só Introdução + Posfácio (fala de Ellam); B020 nas fontes de RC-104; 0 códigos; BIBLIO intocada. Caps. 1–14 = Pandora isolada. Sem NAT. Sem apostila.
+
+`CONCLUIDOS/B021_tempos_dificeis_no_olimpo` — Devolutiva aplicada (2026-08-25); 8 fichas (RC-292, RC-293, RC-294, RC-295 + opcional RC-049, RC-086, RC-001, RC-241) só ensaio na voz de Ellam; B021 nas fontes de RC-001; 0 códigos; BIBLIO intocada. Zeus (Diálogo) e Pandora (cap. 2) isolados. Sem apostila.
+
+`CONCLUIDOS/B005_fator_extraterrestre` — Devolutiva aplicada (2026-08-25); 7 fichas (RC-355, RC-070, RC-357, RC-359 + opcional RC-003, RC-072, RC-094) só voz de Ellam; 0 códigos; BIBLIO intocada. Orbum / Esclarecimento Estratégico fora. Jeová p. 22 não reancora RC-001. Sem apostila.

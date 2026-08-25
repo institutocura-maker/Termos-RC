@@ -10,7 +10,7 @@
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
 # termos/RC-001-jave.md | 26242 | 255 | 3dce325d97e7a31c94be212003380db3a42d9cd7914e45dede8dc328bc861b69
 # termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
-# termos/RC-003-reintegracao-cosmica.md | 12842 | 129 | 3f1975d6eb8c44ba999160c3dce5767694e368872d35394789d6a5f0c516d751
+# termos/RC-003-reintegracao-cosmica.md | 13532 | 135 | 1206e9d974a7b97c97532ade32722200e4a951c664189d9f060232ec38a8e222
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
 # termos/RC-005-segundo-advento-do-cristo-volta-de-jesus.md | 6247 | 93 | 075010250faf15344ad22fa553cbea13a465b33ef7b054ed20cbc58c854c0f8f
 # termos/RC-007-exilados-de-capela.md | 2600 | 45 | a007e0c4468b0feed12128bd7fd32060841871e5dd17e1cc44efea7b65fe2394
@@ -27,8 +27,8 @@
 # termos/RC-056-especiacao.md | 4666 | 64 | 030ff640a42f5de44906829e3edb2433a0cbae95ad6359a1c3686323f433de24
 # termos/RC-064-fenvans.md | 6482 | 55 | 8b516a1891cb3380d192fad0b3f511f6d9df57e2807b7fca596a1564a875fcd3
 # termos/RC-068-hiperborea.md | 2063 | 41 | 81c2720d2ba155841aeaff5ba4513d0e738071b79a9735021ed8bb8bec2c7281
-# termos/RC-070-isolamento-cosmico.md | 6110 | 83 | 010e3185c02166175d66da0c12175424c833168c5ad397a88918261d4db77ba4
-# termos/RC-072-jesus.md | 22939 | 218 | 13e0d1321f565e0f0313e6a33679f84699f7040e9a6d06e95da0686d81349906
+# termos/RC-070-isolamento-cosmico.md | 6843 | 89 | 555a73613784a8859481ee5fce572b27c78ad15766248aba2c85a41546e70bf4
+# termos/RC-072-jesus.md | 23835 | 225 | 1fd0b738aacf1df4b923b9608f60ac23b452f9fd42cae1ea873b8b8e80b0f512
 # termos/RC-074-len-mion-sata.md | 3183 | 58 | 7b49a61bda4aaf425ee0948d618d64b78fb1132cabf2f6012c58cfa02e5e8977
 # termos/RC-078-lucifer-yel-luzbel.md | 5662 | 73 | ad5401d8adc0719b99013fe2390231a48eb309dee4d9263889152d8c51206e6b
 # termos/RC-080-mensagem-talm.md | 5573 | 55 | dc63acaf1a2bc6cdeab4b4580511557250e5b1d35103786187ccdb2db39a127c
@@ -37,7 +37,7 @@
 # termos/RC-087-perperion.md | 3949 | 56 | 75bbf587409837adfe18e5eaff71f194019e202af1ceca698e275f291145854c
 # termos/RC-091-projeto-talm.md | 11262 | 106 | 10f2efbc5cd27e73f04ebc570db6e365bfdd4ee351f90ea62e3de5cd25638132
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
-# termos/RC-094-revelacao-cosmica-conceito.md | 9340 | 94 | b1c63f349367dda588fe6e1f1032422ca8e2cc51a6990fa9d47da68c814ad5de
+# termos/RC-094-revelacao-cosmica-conceito.md | 10004 | 100 | 32734a04ad09d145be387403e2e6d146f717aa27609062caa8e61a9a941c303a
 # termos/RC-102-shiva-savna.md | 5733 | 70 | 2e26fa85514a80a4afafb6ca825df3598befed04abfe1c09a37470205c7d874c
 # termos/RC-104-trimurti.md | 16202 | 166 | 1eee9670d2745be0cb9be145606c13d1054bfb91ac1cc167ed8591253e44e7f4
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
@@ -126,9 +126,9 @@
 # termos/RC-335-lavagem-cerebral-condicionamento.md | 3765 | 54 | 96813d1c2679ec6812ab0fb4a9eb22a3bc1c6c52b1d1e7048bd47e73d325aac5
 # termos/RC-342-quarentena-sideral-cosmica.md | 5604 | 63 | 6bf6e682f4d244a9001ba492546131306917cfb31e647786a284d9268cbb6125
 # termos/RC-346-jeova-grafia-da-trilogia.md | 2581 | 43 | c05c1cfcb4132ef0841d36970871d413eb3b165765718612060588d0fa915c6e
-# termos/RC-355-fator-extraterrestre-o-elo-perdido.md | 3042 | 48 | 77a1949f081b284ee5ebf29f3e398e96a0a31fc5778ad269a9552e118b66d794
-# termos/RC-357-confederacoes-de-mundos.md | 2904 | 41 | 6057e1cf460881c67cb282e7dd9f089cbfaec048934a22a1d2ca0fa8853d9a4f
-# termos/RC-359-abducoes-e-reparo-espiritual.md | 2510 | 40 | ef3580ec81421a788da867c3ea5b52a7865da4bc5c582a31321d968191e39511
+# termos/RC-355-fator-extraterrestre-o-elo-perdido.md | 4186 | 55 | 33c221b7f36c4899314bc06f8bb0af0fdf9d70f297c40d0d46ac773c53ca59c7
+# termos/RC-357-confederacoes-de-mundos.md | 3789 | 47 | 18a6ffc23f8d0672a0778d337e6124050ba8c58f064cd8a2b6b807cc11ae7f2c
+# termos/RC-359-abducoes-e-reparo-espiritual.md | 3280 | 46 | d312cd2bf3672d1f7c78db5ab5910ee1b277cd2aad40cdd865ec9d9a94d5be27
 # termos/RC-365-o-fator-judas.md | 2988 | 52 | 4087fd854b320b4c2c4d51ede1bcac102b804bcfa95bfa279c144766c0c00036
 # termos/RC-366-o-enigma-da-transfiguracao.md | 4458 | 54 | a405659445ade47aba202ae53cbc94e055180fb56b7fd9c8ec55354cb4ce174a
 # termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md | 3590 | 48 | 06ee312216b08a5eaec49aef181ada7e980b4a840e75d9673eeeeae374cda747
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1604667 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1610449 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -850,6 +850,12 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B026 p. 206]** Esclarecimento (Atlan, 14/06/1996): o volume «complementando os livros anteriores, Reintegração Cósmica e Caminhos Espirituais, encerra-se a presente trilogia». Remissão a B003 / B025 — **não fundir**.
 - **[B026 p. 427]** fecho (J. V. Ellam): agradece quem passou «pelas páginas desta trilogia»; os erros «deverão ser corrigidos pelos reais autores». **Quarentena mediúnica.**
 - Partes I–VI e *Passado e Presente* **isolados**. p. 200 e p. 204–205 (editores) — **não âncora**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
+
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 65]** cap. 6 fecho + cap. 7: Jesus anuncia que «no futuro retornaria para, pessoalmente, presidir a reintegração da Terra à convivência cósmica».
+- **[B005 p. 65]** cap. 7: após o retorno do Mestre, a Terra «continuava a não pertencer a nenhuma das confederações cósmicas»; a cruz na psicosfera como aviso de que «em breve retornarei […] e novamente introduzi-lo na convivência com as outras famílias cósmicas». **Quarentena ufológica / teológica.** Kardec (p. 66–67) = **externa**. Remissão a B003 — **não fundir**. Sem fusão com B009 / B027 / B011. Fonte **B005** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -2216,6 +2222,12 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B026 p. 206]** «orgulho doentio» = **clínica** (leitura, jamais diagnóstico).
 - **[B026 p. 427]** «convivência clara e objetiva com os irmãos de outros orbes» = **ufológica** (leitura, não facto). Partes I–VI **isoladas**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 20–21]** cap. 2: analogia do exílio na floresta — os descendentes «acharão que estão sós»; a ótica terrena inclina-se a pensar que a Terra é «o único habitado por seres inteligentes».
+- **[B005 p. 24]** ensaio: auto-exílio em «dezenove mundos principais»; as minorias «ainda adoentadas» iam para os mundos que permaneceriam isolados, enquanto os outros «iam sendo reintegrados à convivência». «Doença» / «adoentadas» / «solução clínica» = **quarentena clínica**. Capela / naves = **ufológica** (leitura, não facto). Sem materializar RC-007 / RC-078 / RC-020. Sem fusão com B003 / B033. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -2424,6 +2436,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 ## Ampliação — B020 (O Sorriso de Pandora)
 
 - **[B020 p. 117]** Posfácio (fala de Ellam): o modo do criador «vitimou os demónios e os egos dos evolutivos, e nem mesmo Jesus parece ter escapado desse problema». **Quarentena teológica.** Falas de Pandora sobre Jesus (corpo e diálogo) **isoladas**. Caps. 1–14 **isolados**. Sem fusão com B011 / B049 / B009. Fonte **B020** já constava na tabela-mestra.
+
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 4]** Esclarecimento: Ellam pergunta se a personalidade do Mestre Jesus, «individualidade cósmica» que «não viver na Terra», não deveria ser referida como «a de um ser extraterrestre». **Quarentena teológica + ufológica** (pergunta retórica, não classificação ontológica).
+- **[B005 p. 55]** cap. 6: «um mestre maior — unificado ao Pai Celestial — se fez homem, transformando-se no maior fator extraterrestre na História desta humanidade.» «Os habitantes da Terra não têm, ainda, a menor idéia do quanto devem a esta individualidade cósmica conhecida entre nós como Jesus.»
+- Lemma **Javé ausente** neste PDF. Jeová (p. 22) **não** reancora RC-001. Niceia / Constantino = **teológica / histórico-religiosa — fora**. Sem fusão com B011 / B009 / B003. Fonte **B005** já constava na tabela-mestra.
 
 ## Fontes
 
@@ -3207,6 +3226,12 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[B009 p. 353–354]** «aspectos de uma grande verdade cósmica que pouco a pouco se descortina ante a imprevidente ótica dos valores transitórios terrenos».
 - **[B009 p. 354]** tese em 1ª pessoa: «a equipe do Espírito da Verdade, que realizou a codificação espírita, seja a mesma que atualmente semeia o anúncio da volta de Jesus»; «tenho razões e fortes motivos pessoais para sabê-lo e afirmá-lo, independente de tudo o mais».
 - RC-190 permanece **sem ficha**. **Quarentena teológica** (Kardec / Espírito da Verdade / codificação = leitura de Ellam, não fato kardecista). Caps. 1–21 e posfácios de Ramatis / Rochester / Hercílio **isolados**. Sem fusão com B003 / B006 / B016. Fonte **B009** acrescentada na tabela-mestra.
+
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 118]** Posfácio (voz de Ellam): os mentores pediram que desenvolvesse estudos próprios, «de forma semelhante» ao que fizera em *Muito Além do Horizonte*; nasceu então o «compêndio» sobre a temática extraterrena. Remissão a B009 — **não fundir**. **Quarentena mediúnica.**
+- **[B005 p. 113]** cap. 12 (gloss do «escrevente» sobre Enoch): «primeiras etapas da Revelação Cósmica». **Quarentena teológica.** Interpretação do Apocalipse das Semanas = leitura do autor, não exegese. Qumran **fora**. Sem fusão com B003 / B031 / B011. Fonte **B005** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -8678,6 +8703,13 @@ O capítulo 12 de B005 ("A Busca do Elo Perdido: O Fator Extraterrestre") argume
 - **[B042 p. 105–106]** na codificação espírita “não era possível se referir a esses seres”; a ausência de ETs em Kardec gerou dogmas — Kardec = **referência externa**; RC-190 sem ficha.
 - Sem fusão com B005. Naves / avistamentos **fora** da malha como evento validado.
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 4–5]** Esclarecimento (Atlan, 16/02/2004 — voz de Ellam): o «fator extraterrestre» ficou «sempre à margem dos "estudos sérios"»; «parece termos perdido o elo» com um passado lido pela «ótica viciada do presente». O tema «extraterrestre» virou «sinônimo de loucura, alucinação etc.», sendo «o fator mais importante das nossas vidas». «Orgulho doentio» = **quarentena clínica** (leitura, jamais diagnóstico).
+- **[B005 p. 105]** cap. 12: «Eis o elo perdido: a componente extraterrena na nossa história que responde pela nossa origem.» **Quarentena ufológica** (leitura do autor, não facto validado). Sagan / Crick = **externas**. Qumran / Israel / Jordânia (p. 108–110) = **político — fora**.
+- **[B005 p. 118]** Posfácio: os mentores pediram «um trabalho específico sobre a temática extraterrena». **Quarentena mediúnica.** Remissão a B009 / B027 / B028 / B011 — **não fundir**. Orbum / Esclarecimento Estratégico **fora**. Sem materializar RC-098 / RC-356. Sem fusão com B003 / B042. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8721,6 +8753,12 @@ As Confederações de Mundos são o pano de fundo político-cósmico do B005: a 
 - **Grafia preferida:** Confederações de Mundos
 - **Variações:** confederações de civilizações; organizações siderais; confederação galática
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 45]** cap. 5: a Terra como «terra de ninguém», «passível de receber visitas exploratórias […] de quaisquer civilizações que não estivessem vinculadas às confederações de mundos»; estas são o modo pelo qual «diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua», «hierarquicamente subordinadas à administração amorosa dos Prepostos da Deidade». RC-358 / RC-206 permanecem **sem ficha**.
+- **[B005 p. 46]** «informações que nos chegam através do "processo mediúnico da revelação"» — «frágil componente humana». **Quarentena mediúnica + ufológica.** Anunnaki / extrativismo = **ufológica — fora da ontologia**. Sem materializar RC-098. Sem fusão com B003. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -8763,6 +8801,12 @@ Ellam pesquisou casos de abdução no interior do Nordeste (Paraíba, Rio Grande
 ## Etimologia / Grafias
 - **Grafia preferida:** Abduções e Reparo Espiritual
 - **Variações:** abduções; sequestros extraterrestres; reparo espiritual
+
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 84–85]** cap. 9: entre 1960 e 1990, «muitas pessoas estavam sendo abduzidas, ou seja, levadas para dentro de naves alienígenas onde ali sofriam algum tipo de exame». **Quarentena ufológica crítica** (leitura, não facto).
+- **[B005 p. 86–87]** Ellam: «pano de fundo espiritual» por trás dos casos; abduções como «ocorrências cármicas permitidas por força dos mecanismos do necessário reparo energético-vibratório». Bob Pratt / *UFO Danger Zone* = **referência externa / biográfica**. Anunnaki / atlantes / cobaias = **ufológica — fora**. Kardec / Drosnin (p. 84) = **externas**. Sem materializar RC-098 / RC-360. Sem fusão com B003. Fonte **B005** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

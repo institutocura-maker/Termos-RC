@@ -45,6 +45,12 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[B009 p. 354]** tese em 1ª pessoa: «a equipe do Espírito da Verdade, que realizou a codificação espírita, seja a mesma que atualmente semeia o anúncio da volta de Jesus»; «tenho razões e fortes motivos pessoais para sabê-lo e afirmá-lo, independente de tudo o mais».
 - RC-190 permanece **sem ficha**. **Quarentena teológica** (Kardec / Espírito da Verdade / codificação = leitura de Ellam, não fato kardecista). Caps. 1–21 e posfácios de Ramatis / Rochester / Hercílio **isolados**. Sem fusão com B003 / B006 / B016. Fonte **B009** acrescentada na tabela-mestra.
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 118]** Posfácio (voz de Ellam): os mentores pediram que desenvolvesse estudos próprios, «de forma semelhante» ao que fizera em *Muito Além do Horizonte*; nasceu então o «compêndio» sobre a temática extraterrena. Remissão a B009 — **não fundir**. **Quarentena mediúnica.**
+- **[B005 p. 113]** cap. 12 (gloss do «escrevente» sobre Enoch): «primeiras etapas da Revelação Cósmica». **Quarentena teológica.** Interpretação do Apocalipse das Semanas = leitura do autor, não exegese. Qumran **fora**. Sem fusão com B003 / B031 / B011. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

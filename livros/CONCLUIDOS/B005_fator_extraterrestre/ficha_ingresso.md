@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B005 — Fator Extraterrestre
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Sem apostila. Pasta fora de `CONCLUIDOS/`. Sem fusão.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25).** 7 fichas ampliadas (RC-355, RC-070, RC-357, RC-359 + opcional RC-003, RC-072, RC-094) só voz de Ellam (Esclarecimento + caps. 1–12 + Posfácio); 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Sem fusão. Sem RC-001 (lemma Javé ausente; Jeová p. 22 não reancora).
 
 ## 1. Identificação
 

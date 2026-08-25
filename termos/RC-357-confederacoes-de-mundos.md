@@ -17,6 +17,12 @@ As Confederações de Mundos são o pano de fundo político-cósmico do B005: a 
 - **Grafia preferida:** Confederações de Mundos
 - **Variações:** confederações de civilizações; organizações siderais; confederação galática
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 45]** cap. 5: a Terra como «terra de ninguém», «passível de receber visitas exploratórias […] de quaisquer civilizações que não estivessem vinculadas às confederações de mundos»; estas são o modo pelo qual «diversas civilizações celestiais minimamente evoluídas se aglutinam em torno das regras da convivência cósmica e da ajuda mútua», «hierarquicamente subordinadas à administração amorosa dos Prepostos da Deidade». RC-358 / RC-206 permanecem **sem ficha**.
+- **[B005 p. 46]** «informações que nos chegam através do "processo mediúnico da revelação"» — «frágil componente humana». **Quarentena mediúnica + ufológica.** Anunnaki / extrativismo = **ufológica — fora da ontologia**. Sem materializar RC-098. Sem fusão com B003. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

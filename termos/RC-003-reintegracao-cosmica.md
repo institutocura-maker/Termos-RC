@@ -86,6 +86,12 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B026 p. 427]** fecho (J. V. Ellam): agradece quem passou «pelas páginas desta trilogia»; os erros «deverão ser corrigidos pelos reais autores». **Quarentena mediúnica.**
 - Partes I–VI e *Passado e Presente* **isolados**. p. 200 e p. 204–205 (editores) — **não âncora**. Sem fusão com B003 / B025. Fonte **B026** já constava na tabela-mestra.
 
+
+## Ampliação — B005 (Fator Extraterrestre)
+
+- **[B005 p. 65]** cap. 6 fecho + cap. 7: Jesus anuncia que «no futuro retornaria para, pessoalmente, presidir a reintegração da Terra à convivência cósmica».
+- **[B005 p. 65]** cap. 7: após o retorno do Mestre, a Terra «continuava a não pertencer a nenhuma das confederações cósmicas»; a cruz na psicosfera como aviso de que «em breve retornarei […] e novamente introduzi-lo na convivência com as outras famílias cósmicas». **Quarentena ufológica / teológica.** Kardec (p. 66–67) = **externa**. Remissão a B003 — **não fundir**. Sem fusão com B009 / B027 / B011. Fonte **B005** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

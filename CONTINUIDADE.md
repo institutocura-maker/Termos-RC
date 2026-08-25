@@ -11,6 +11,10 @@
 - **22 termos já citam B005**; 12 com ficha. Dossiê sugere RC-355, RC-070, RC-357, RC-359. **0 códigos.** Ensaio = Ellam. Orbum / Esclarecimento Estratégico fora. Lemma Javé = 0; Jeová 1× p. 22. Hitler = 0.
 - B003 / B009 / B011 / B027 / B028 = remissão, **não fundir**. Aguarda Devolutiva.
 
+### Devolutiva B005 aplicada (2026-08-25)
+
+- O-1 confirmado (é B005; 126 págs; capa Jan Vall Ellam, 12 caps. × BIBLIO 15, índice 07–172 × PDF 126 = `[REVISAR]`); O-2: 7 fichas ampliadas (**RC-355**, **RC-070**, **RC-357**, **RC-359** + opcional **RC-003**, **RC-072**, **RC-094**) só Esclarecimento + caps. 1–12 + Posfácio; Orbum / Esclarecimento Estratégico isolados; lemma Javé ausente; Jeová p. 22 **não** reancora RC-001; O-3: zero códigos; O-4: Sagan / Crick / Kardec / Sitchin / Drosnin / Rohden / Einstein = externas; Qumran / Israel / Jordânia fora; Orbum fora; O-5: B003, B009, B011, B027, B028, B006 e B012 intactas; O-6: **BIBLIO intocada** (Zian / 2004 / `trabalhada` / 126 págs / «15 capítulos»); O-7: quarentena **ufológica crítica** (naves / abduções / confederações / Capela / Enoch / Lua-Marte) + clínica («orgulho doentio» / «doença» em Capela = leitura, jamais diagnóstico) + científica, teológica, política, mediúnica, institucional, biográfica; O-8: `_ampliacoes_B005.txt` aplicado; pasta em `livros/CONCLUIDOS/B005_fator_extraterrestre/`. Sem apostila.
+
 ## Fase 2 — B021 *Tempos Difíceis no Olimpo* (abertura 2026-08-25)
 
 - **PDF ingressado** em `uploads_recepcao/Tempos Dificeis no Olimpo - Jan Val Ellam.pdf` (1.760.082 bytes; SHA-256 `98a71fb3c9239bc6fd4d8ba2c5482b9a86e9a67ea0121e563ba863c1183cbaaa`; **174 págs** = **B021**, obra integral). calibre 3.48; Title correto; Author metadado **Jan Ellam** = `[REVISAR]`. Introdução Atlan **01/01/2022**. ISBN Papel já na BIBLIO; Digital 978-65-86157-19-2 — **não gravar**. **BIBLIO intocada** (`trabalhada` / 2022).
