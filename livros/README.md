@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum.
+`B075_mentalma_ii_gestao_psiquica_memorias_complexas/` — ingresso (2026-08-25, AG. 10); leitura integral (201 págs) feita; **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. B074 (I) já em `CONCLUIDOS/`.
 
 ## Último ciclo
 

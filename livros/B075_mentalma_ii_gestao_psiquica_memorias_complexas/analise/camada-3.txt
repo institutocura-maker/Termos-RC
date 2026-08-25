@@ -1,0 +1,11 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B075_mentalma_ii_gestao_psiquica_memorias_complexas/original.txt
+
+SHA-256 c211480e6d10dcb3feba3919c33b98092319d802d6f1ecb8cfd183bde86a906c
+430.505 bytes · ~68.653 palavras · 201 págs.
+p. 1 = [página sem texto extraível] (capa). p. 201 vazia.
+Sem [TEXTO INCOMPLETO] de bytes nulos. Sem watermark. Não interpolar.
+Voz de Ellam em todo o corpo (1ª pessoa); 31 Constatações numeradas; 16 exercícios mentais; apenas citações de terceiros (Sai Baba, Lao Tse, Kierkegaard, Keynes, Nietzsche, Gandhi, Sócrates, Shakespeare, Quetzalcoatl, Ana Beatriz Barbosa, Evangelho de Tomé...), sem diálogo, sem plateia.
+Notas Explicativas (p. 190–193) e apêndices (INSTALM/Sobre o Autor/Orbum, p. 194–201) = paratexto institucional/biográfico — fora da malha terminológica (quarentenas O-7).
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).
