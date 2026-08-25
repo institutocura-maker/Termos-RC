@@ -4,7 +4,7 @@
 >
 > **Última atualização:** 2026-08-25 · AGENTE 11 · **CICLOS B057, B058 (YEL LUZBEL) E B087 (PANDORA 1) FECHADOS** (Devolutivas O-1..O-8 aplicadas; **0 códigos em todos**; B087 = fonte nova, vinculada ao cluster Pandora/Olimpo com 13 vínculos + 4 fichas materializadas; 777/1.852 invariantes) · branch **`arena/01a03ad8-termos-rc`** (esteira 11; trouxe o tip `0d76442` da esteira 10 via fetch+reset).
 >
-> **Tarefa da sessão nova:** o curador decide — o piloto do **B088** *O Coquetel das Poções e o Iminente Ataque do Olimpo* (PDF já em `uploads_recepcao/`; sequência da trilogia Pandora determinada pelo curador), ou outra ordem. **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
+> **Tarefa da sessão nova:** o curador decide — aplicar a **Devolutiva do B088** *O Coquetel das Poções...* (piloto/dossiê desta esteira, em `livros/B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/analise/`), ou outra ordem. **A ordem é do curador.** Não abrir ciclo sem a obra nomeada.
 
 ---
 
@@ -26,20 +26,20 @@ Continue o projeto Base Terminológica RC — as Revelações Cósmicas de Jan V
 AUTORIDADE: o curador (Edson Cella Mendes) é a autoridade máxima. Você organiza, cruza, edita e audita. Nunca decida ontologia sem autorização. Conclusões são sempre sugestões.
 
 PRIMEIRA AÇÃO (antes de qualquer edição):
-1. O clone já vem na raiz (main, b420f14). O trabalho da esteira está na branch arena/01a03ad8-termos-rc (esteira 11). Se HEAD local for só b420f14 (main) e o working tree estiver limpo: git fetch origin arena/01a03ad8-termos-rc && git reset --hard FETCH_HEAD. Esperado: o tip da esteira 11 (B057/B058/B087 aplicados; nenhum ciclo ativo — próximo B088). Conferir TODAS as branches (o curador pode subir arquivos em qualquer uma): git ls-remote --heads origin — se houver upload novo em outra branch (ex.: arena/01a03913-termos-rc), fetch + cherry-pick/merge ANTES de editar.
+1. O clone já vem na raiz (main, b420f14). O trabalho da esteira está na branch arena/01a03ad8-termos-rc (esteira 11). Se HEAD local for só b420f14 (main) e o working tree estiver limpo: git fetch origin arena/01a03ad8-termos-rc && git reset --hard FETCH_HEAD. Esperado: o tip da esteira 11 (B057/B058/B087 aplicados + piloto B088 aguardando Devolutiva). Conferir TODAS as branches (o curador pode subir arquivos em qualquer uma): git ls-remote --heads origin — se houver upload novo em outra branch (ex.: arena/01a03913-termos-rc), fetch + cherry-pick/merge ANTES de editar.
 2. SE O WORKSPACE PARECER ANTIGO (ex.: sem livros/CONCLUIDOS/B057, ou HEAD em b420f14 depois de já ter trabalhado): o sandbox reverteu o workspace — refaça fetch + reset ANTES de editar. O store durável é a branch no GitHub; commit + push ao fim de cada turno.
 3. pip install --break-system-packages markdown openpyxl python-docx pypdf
 4. python3 ferramentas/dados_termos.py → deve retornar exatamente: OK: 777 termos, 1852 relações — dados válidos.
 5. Leia PROMPT-PROXIMA-SESSAO.md (este) por inteiro — inclusive as seções Workspace × GitHub e Patrimônio da KB.
 6. Resuma o estado e aguarde confirmação do curador. NÃO abrir PR.
 
-ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 449 fichas físicas (448 ficha=True + RC-004 investigação False) · 93 obras (B001–B090 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 39 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · nenhum ciclo em andamento (próximo: B088).
+ESTADO CANÔNICO: 777 termos (RC-001–RC-777) · 1.852 relações · próximo RC-778 · 449 fichas físicas (448 ficha=True + RC-004 investigação False) · 93 obras (B001–B090 + ART-2025-08-01/02/03) · 37 apostilas em apostilas/CONCLUIDAS/ · 39 livros em livros/CONCLUIDOS/ · 2 amostras em livros/AMOSTRAS/ (B027, B035) · piloto B088 em andamento (aguarda Devolutiva).
 
 FONTE DA VERDADE: o GitHub (branch da sessão: arena/01a03ad8-termos-rc). O Workspace da Arena é sandbox efêmero — o curador trabalha pelo GitHub, não pelo painel de arquivos da Arena. (Decisão do curador, 2026-08-25: sem investimento no Workspace.)
 
 ARTEFATOS DE LEITURA: base-terminologica.xlsx e base-terminologica-leitura.docx estão no GitHub (decisão do curador, 2026-08-25: cópia para download). Regenerar sempre com python3 ferramentas/build_indice.py && python3 ferramentas/build_xlsx.py && python3 ferramentas/build_word.py antes de qualquer commit que mude a base (são espelho; a fonte é dados_termos.py + Markdown).
 
-TAREFA DESTA SESSÃO: abrir o piloto B088 O Coquetel das Poções e o Iminente Ataque do Olimpo (PDF em uploads_recepcao/) e entregar o dossiê enxuto O-1..O-8 — ou a ordem que o curador der. Pendências de fundo: B089 (PDF recebido); B059 (sem PDF — só físico); obras completas B027/B035; B076–B078 Mentalma III–V (sem PDF); B085/B086/B090 (sem PDF). Não começar nada sem a obra nomeada.
+TAREFA DESTA SESSÃO: aplicar a Devolutiva O-1..O-8 do B088 (dossiê enxuto em livros/B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/analise/) e seguir com B089 Os Anunnaki e a Disputa pela Genética de Pandora (PDF já recebido — fecha a trilogia Pandora) — ou a ordem que o curador der. Não começar nada sem a obra nomeada.
 
 MÉTODO DO CICLO DE LIVRO (padrão B019..B022, B074, B075, B057): PDF em livros/B0NN_slug/ (original.pdf + original.txt paginado, SHA-256) + ficha_ingresso.md + analise/ (camadas 0–3, LEITURA-1, DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md com O-1..O-8) → AGUARDA DEVOLUTIVA (0 códigos) → [aprovada] ampliações via analise/_ampliacoes_B0NN.txt + _aplicar_ampliacoes_B0NN.py (seção ## Ampliação — B0NN antes de ## Fontes) → validar → artefatos (índice, xlsx, docx) → DECISAO-DO-CURADOR.md + RELATORIO-DE-CICLO.md → mover para livros/CONCLUIDOS/ → atualizar CONTINUIDADE + livros/README.md + PROMPT-PROXIMA → push.
 
@@ -138,7 +138,7 @@ Camadas, da mais dura para a mais mole:
 
 | Pasta | Conteúdo |
 |---|---|
-| `livros/CONCLUIDOS/` | 39 obras integrais com PDF + extract + dossiê + ampliações (últimas: B057, B058 — Yel Luzbel ⅔ — e B087 — Pandora ⅓). |
+| `livros/CONCLUIDOS/` | 39 obras integrais com PDF + extract + dossiê + ampliações (últimas: B057, B058 — Yel Luzbel ⅔ — e B087 — Pandora ⅓; **B088 em processamento**). |
 | `livros/AMOSTRAS/` | B027 e B035 (Sample; obra completa pendente). |
 | `apostilas/CONCLUIDAS/` | 37 palestras/lives (original.txt + apostila.md + DOCX). |
 | `pedagogico/` | 10 apostilas temáticas (todas com DOCX) + 2 tratados (com DOCX) + 2 mapas + índice temático + Guia TALM + Dossiê Fase 0 + matriz de auditoria. |
@@ -180,11 +180,12 @@ Trilogias Dramas / Terra Atlantis / Queda e Ascensão: **ENCERRADAS.**
 - **B057 nas fontes de RC-085/RC-444/RC-491** (O-6). Grafias: "Shanlun" → Shanlung; datas 687 mil × 742 mil = variante anotada. Quarentenas: mediumística/ufológica/teológica/institucional.
 - Base: **777/1.852 invariantes**; 439 fichas; 93 obras; 37 livros em `CONCLUIDOS/`.
 - **Ciclo B058 *O Início da Revolta Capelina* FECHADO** (piloto + Devolutiva aplicada no mesmo dia): **15 fichas ampliadas + 6 criadas** (RC-021 Antares · RC-103 Tau Ceti · RC-448 Deslacre · RC-451 Universidade de Tau Ceti · RC-452 Grão-mestre · RC-453 Hostes de Sophia); **0 códigos**; BIBLIO de B058 com a nota da ed. 2022 + notas com fontes externas (Wikipédia/B031 — quarentena institucional); **isolamento mediúnico total** (sem prefácio de Ellam neste volume — dedicatória de Adilson Reane + notas de Yel/Jeane); "falso Criador" = leitura do ser em revolta, jamais fato ontológico; "Capella" → Capela; erro "A Revolto" registrado sem corrigir a voz; **radar limpo** (as 7 obras da autora já estavam na BIBLIO). Pasta em `CONCLUIDOS/`.
+- **Piloto B088 *Os Livros da Vida de Pandora 2* aberto nesta esteira** (dossiê enxuto em `livros/B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/analise/` — **AGUARDA DEVOLUTIVA**; 0 códigos; **título interno alterado na ed. 2022**: "As Poções dos Titãs e a Ameaça do Olimpo"; sem prefácio de Ellam — a nota é o "Manifesto de Pandora"; fonte nova: vínculos a 12 termos; **Témis e Ares** sem termo — observação; a profecia Pirra+filho de Prometeu = cross RC-298/Deucalião).
 - **Ciclo B087 *Os Livros da Vida de Pandora 1* FECHADO** (piloto + Devolutiva aplicada no mesmo dia): **FONTE NOVA** (0 termos citavam B087) — **9 fichas do cluster ampliadas + 4 materializadas** (RC-145 Zeus · RC-301 Prometeu · RC-303 Pirra · RC-307 Hefesto) + **B087 nas fontes de 13 termos**; status **`trabalhada`** + nota da ed. 2022; **0 códigos** (777/1.852); quarentena **teológica CRÍTICA — isolamento sumário padrão B001/B002** (prefácio de Ellam: Jesus/Javé); clínica (Epimeteu viciado nas "poções"); social/de gênero (a "violência mental"); divergências × B020 registradas, jamais fundidas (a caixa aberta por **Epimeteu**; a "esperança" como o último "algoritmo viral"); **Atena = registro observacional** (sem termo). Pasta em `CONCLUIDOS/` (39 obras).
 
 HEAD: tip da branch `arena/01a03ad8-termos-rc` (esteira 11). PR **não** aberto.
 
-Pendências de livro (quando o curador quiser): **B088** e **B089** (trilogia Pandora — PDFs já recebidos; sequência imediata na ordem do curador); B059 *Sinais de Guerra em Capela* (**sem PDF — somente físico**, ASIN B0GFPWXVSG; fecha a trilogia de Yel Luzbel); obras completas B027 e B035; B076–B078 *Mentalma III–V* (sem PDF); B085 *Hyren-Hyron*, B086 e B090 (sem PDF). Pendências menores: manifest versionado desatualizado (curador decide regenerar); CIP B074 `[REVISAR]`.
+Pendências de livro (quando o curador quiser): **Devolutiva B088** (dossiê pronto); **B089** (PDF recebido — fecha a trilogia Pandora); B059 *Sinais de Guerra em Capela* (**sem PDF — somente físico**, ASIN B0GFPWXVSG; fecha a trilogia de Yel Luzbel); obras completas B027 e B035; B076–B078 *Mentalma III–V* (sem PDF); B085 *Hyren-Hyron*, B086 e B090 (sem PDF). Pendências menores: manifest versionado desatualizado (curador decide regenerar); CIP B074 `[REVISAR]`.
 
 ---
 

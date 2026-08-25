@@ -1,0 +1,11 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/original.txt
+
+SHA-256 c554d47977bbbe9ccad7c445b473a4b3d54515311a84a614e5d823598d20b3da
+206.219 bytes · ~33.523 palavras · 93 págs. (referência = página do PDF; TOC quebrado)
+Sem páginas vazias. Sem \x00. Sem marca d'água. Nada interpolado.
+**EDIÇÃO RECEBIDA:** "Corrigido e Adaptado por Gullan Greyl" (http://www.gullangreyl.pt; 28-02-2022) — português europeu; metadado PDF: autor "Gallian Greyl" (o adaptador), título em branco, producer "Adobe PDF Library 21.7.123" (criação 28-02-2022). **TÍTULO INTERNO ALTERADO nesta edição: "As Poções dos Titãs e a Ameaça do Olimpo"** (o original, constante da BIBLIO e das listas da autora, é "O Coquetel das Poções e o Iminente Ataque do Olimpo").
+Voz: psicografia em 1ª pessoa de **Pandora** (voz isolada) + o "Manifesto de Pandora para a Emancipação Humana" (nota de abertura assinada pela própria entidade, com interjeições de "esta escrevente") + DEDICATÓRIA (Ricardo Reis) + epígrafes de capítulo (**Ítalo Calvino, "As Cidades Invisíveis"** — caps. 1-11; Ricardo Reis — caps. 12-15; Álvaro de Campos). **SEM prefácio de Ellam.**
+Paratexto com notas de rodapé: cross-refs ao Livro 1 (caps. 3, 4, 10, 14, 15 — uma delas com o título TRUNCADO: "Os Livros Vida de pandora; Zeus, os e a da Humana Terrestre", p. 53); **Témis** (nota 1 p. 59: "titânide da segunda geração... 'aquela que é posta, colocada'. Foi a segunda esposa, conselheira e mentora de Zeus"); notas com **fonte Wikipédia** (neurónio/sinapses, p. 47 — como no B058, quarentena institucional); ERROS de grafia nas citações de Pessoa: "Álvaro de Camps" (p. 6), "Fenando Pessoa" (p. 6, 72, 76), "As Cidades Inviáveis" (p. 37), "pessoa" minúsculo (p. 72, 76).
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).

@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum (B087 fechado em 2026-08-25 — trilogia Pandora ⅓ completa). **Próximo: B088 *O Coquetel das Poções e o Iminente Ataque do Olimpo*** (PDF já em `uploads_recepcao/`) → B089 — na sequência do curador.
+`B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/` — ingresso + leitura integral (93 págs) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; **sem prefácio de Ellam** — a nota de abertura é o "Manifesto de Pandora"). **Fonte nova** (0 termos citavam B088). ⚠️ A ed. 2022 alterou o título interno ("As Poções dos Titãs e a Ameaça do Olimpo"). B089 com PDF já em `uploads_recepcao/`.
 
 Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 
