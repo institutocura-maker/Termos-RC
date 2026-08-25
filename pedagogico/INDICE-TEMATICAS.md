@@ -1,14 +1,14 @@
 # Índice de Apostilas Temáticas — Base Terminológica RC
 
-> **Atualizado em 2026-08-20 (2ª rodada).** Apostilas de síntese construídas a partir da KB (termos + relações + fontes), não transcrições de palestras. Todas em `pedagogico/`, com DOCX formatado ao lado. Base: 770 termos · 1.830 relações.
+> **Atualizado em 2026-08-25 (3ª atualização: DOCX Javé e Thot/Hermes recebidos do curador — coleção completa).** Apostilas de síntese construídas a partir da KB (termos + relações + fontes), não transcrições de palestras. Todas em `pedagogico/`, com DOCX formatado ao lado. Base: 777 termos · 1.852 relações.
 
 ## Abordagem "Super-Nó" (geografia de um tema central)
 
 | Apostila | Tema | PARTES | Foco |
 |---|---|---|---|
 | **O Lado de Fora do Universo — O Paraíso que não é o Paraíso** | Paraíso/Espiritualidade Superior (RC-204/059/600/603/606/149/047...) | 12 | Geografia do "fora"; 6 inversões filosóficas |
-| **Javé: O Buraco Negro da Revelação Cósmica** | Javé (RC-001) e seus ~103 relacionamentos | 11 | Biografia cósmica do criador caído |
-| **Thot/Hermes: Mentor Científico** | Thot (anunnaki; Sete Leis Herméticas) | — | Perfil do mentor |
+| **Javé: O Buraco Negro da Revelação Cósmica** | Javé (RC-001) e seus ~103 relacionamentos | 11 | Biografia cósmica do criador caído; DOCX disponível (recebido 2026-08-25) |
+| **Thot/Hermes: Mentor Científico** | Thot (anunnaki; Sete Leis Herméticas) | — | Perfil do mentor; DOCX disponível (recebido 2026-08-25) |
 
 ## Abordagem "Genealógica/Cronológica" (fluxo temporal da crise)
 
@@ -67,4 +67,4 @@
 - Todas preservam a rastreabilidade: citações com fonte (B###/P###) e remissões RC-###;
 - Alegações teológicas/científicas/históricas são leitura de Ellam (quarentena);
 - As temáticas **não consomem códigos** e **não alteram a ontologia** — apenas a leem;
-- **9 apostilas temáticas + 2 tratados filosóficos + 2 mapas** disponíveis para a IA Pessoal (Llama 3) e estudo humano.
+- **10 apostilas temáticas + 2 tratados filosóficos + 2 mapas** disponíveis (todas com DOCX) para a IA Pessoal (Llama 3) e estudo humano.
