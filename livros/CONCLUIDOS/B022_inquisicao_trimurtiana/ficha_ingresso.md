@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B022 — Inquisição Trimurtiana
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8.** Nenhum código consumido. BIBLIO intocada. Sem apostila. Pasta fora de `CONCLUIDOS/`. Sem fusão.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25).** 9 fichas ampliadas (RC-310, RC-311, RC-104, RC-308, RC-314 + opcional RC-037, RC-152, RC-167, RC-001); B022 nas fontes de RC-001; 0 códigos. BIBLIO intocada. Sem apostila. Pasta em `livros/CONCLUIDOS/`. Trimurti isolada. Sem fusão.
 
 ## 1. Identificação
 

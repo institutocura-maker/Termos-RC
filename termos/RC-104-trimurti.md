@@ -133,6 +133,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B020 p. 117]** Posfácio (fala de Ellam): «o “sentir-se especial”, é um dos piores venenos e tudo o que vem por meio dos três da trimurti, sempre aqui chega com esse tempero: “eu sou isso”, “eu sou aquilo”, “sou assim com Deus”, basta!»
 - Caps. 1–14 **isolados**. Sem materializar RC-135. Sem fusão com B021 / B044 / B024. Fonte **B020** acrescentada na tabela-mestra.
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 4–6]** Introdução (voz de Ellam): «formas trimurtianas»; «os três da Trimurti»; convivência com as formas Adhydaiva de Brahma, Shiva e Vishnu desde 2008 (primeiro só Brahma/Javé) e intensificada «a partir dos fatos registrados na segunda parte» de *Inquisição Filosófica* = remissão a **B037**, **não fundir**. Ellam: «o que ali fiz e expressei foi e é de minha total responsabilidade».
+- **[B022 p. 158]** Posfácio: de 2008 a 2015, convivência forçada com «estes três seres» / «Senhores da Lila». RC-075 **não** materializada. Bloco político do Posfácio (2015) **fora**.
+- Falas de Brahma / Vishnu / Shiva **isoladas**. Sem fusão com B037 / B029 / B079 / B021 / B001 / B044. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

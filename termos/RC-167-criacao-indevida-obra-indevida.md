@@ -79,6 +79,12 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B033 p. 125]** o «conjunto da criação indevida»; tudo o que existe de ser vivo «se originou, direta ou indiretamente, a partir do DNA do próprio criador» — **quarentena científica**.
 - **[B033 p. 187]** individualidades «vitimadas pela criação indevida do Senhor Javé». Sem fusão com B001 / B002 / B024. Fonte **B033** acrescentada na tabela-mestra.
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 4–5]** Introdução (só paratexto): «Criação Universal indevida» / «Criação indevida» procedida por Adhyshprabrajna. O que Ellam percebe «se assemelhava a dois universos paralelos»: um em expansão, «onde a vida biológica impera»; outro «retraído, desagregado», com «entes-clones» e classes de «demônios». A locução «Criação Bipartida» (p. 4) = descrição do paratexto; **RC-312 não** materializada. «Entes-clones» **sem código**.
+- Falas da Trimurti **isoladas**. Sem fusão com B037 / B001 / B024. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

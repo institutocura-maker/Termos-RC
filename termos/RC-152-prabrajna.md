@@ -75,6 +75,12 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[B024 p. 73]** “doença do primeiro impulso” — impulso mental incontrolável ao expelir a Criação; ao se reconstruir, “já estabeleceu o ‘câncer’ nesse seu primeiro corpo” — **quarentena clínica**.
 - **[B024 p. 99]** elétrons e antielétrons = energia Rajas de Prabrajna, “Mente Despedaçada” / “Neurônios Cerebrais” que escaparam do Corpo Mental. Sem materializar RC-013 / RC-163.
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5]** Introdução (só paratexto): a entidade «antes **Adhyshprabrajna**» procedeu a Criação indevida na expressão Adhyatman. Nome pré-queda neste volume = remissão a **RC-310**, sem interpolar Prajapati / Perpérion a partir daqui.
+- Falas da Trimurti **isoladas**. Sem fusão com B024 / B037. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

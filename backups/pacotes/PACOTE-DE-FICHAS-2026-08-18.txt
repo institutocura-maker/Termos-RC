@@ -8,7 +8,7 @@
 # FONTE ÚNICA DE VERDADE: ferramentas/dados_termos.py.
 #
 # MANIFESTO (caminho | bytes | linhas | SHA-256):
-# termos/RC-001-jave.md | 26242 | 255 | 3dce325d97e7a31c94be212003380db3a42d9cd7914e45dede8dc328bc861b69
+# termos/RC-001-jave.md | 26985 | 262 | 617deec724e3b52569e88e64abd2acc86e35d53552d6d9401a8f40670f545b53
 # termos/RC-002-rebeliao-de-lucifer.md | 6136 | 65 | 369c781580548bd088507e79adad602d5d25140c718ba17bde82d7742c3830b4
 # termos/RC-003-reintegracao-cosmica.md | 13532 | 135 | 1206e9d974a7b97c97532ade32722200e4a951c664189d9f060232ec38a8e222
 # termos/RC-004-elohim.md | 2368 | 47 | 2723cc9a2c915397c1a05dd83a03d751224999299012c7370696318dbb7f4dfb
@@ -17,7 +17,7 @@
 # termos/RC-008-tzimtzum.md | 5181 | 59 | 8a5dfdbf13363e87661c876b863291e9673f3d3cba46b6444b3133f80eae29b6
 # termos/RC-009-sophia-cristo-cosmico.md | 27333 | 235 | 8388c761a400d7cee1b6c404d00c31e2c2746d463c32bd2a1746ea3c4ddfe188
 # termos/RC-024-anunnakis.md | 6626 | 79 | 71ca868059d1e0213ad2c7234fe458e3695f678ca47b46aa14a4ee33bde2aeb5
-# termos/RC-037-brahma-brajna.md | 6836 | 90 | 33ba6aebd8d8e062aef25167f3889b77f7e45c7a79cfb841cbcb6d79bb30c11b
+# termos/RC-037-brahma-brajna.md | 7467 | 97 | 646f69a20ab433c58eccea07028357c67ac2875d89c183f3b82a2bd9f532931b
 # termos/RC-041-criador-brahma-jave-demiurgo.md | 10844 | 121 | a68ef56c6fc41d5bc9dbebc8c1bb8771a797a1fdab72884d719a618f670c8eb6
 # termos/RC-042-criatura-universal.md | 4231 | 58 | ca2902d52f3d644c41c6684246ce2abb2a9f28b3ea551bf0d479276ca5251705
 # termos/RC-047-deidade-pai-mae-amantissimo-brahman.md | 4259 | 70 | 08ca6e4aef7cac94f4c5d249e7e0037f67f77495cb0ba871a024f9b42f72b941
@@ -39,7 +39,7 @@
 # termos/RC-092-quarto-logos-olm-codificador-de-zian.md | 14651 | 147 | b6e6d698207e01e6fb4f9cb66575f3359e02c72c924fc228be7f22f3f9664786
 # termos/RC-094-revelacao-cosmica-conceito.md | 10004 | 100 | 32734a04ad09d145be387403e2e6d146f717aa27609062caa8e61a9a941c303a
 # termos/RC-102-shiva-savna.md | 5733 | 70 | 2e26fa85514a80a4afafb6ca825df3598befed04abfe1c09a37470205c7d874c
-# termos/RC-104-trimurti.md | 16202 | 166 | 1eee9670d2745be0cb9be145606c13d1054bfb91ac1cc167ed8591253e44e7f4
+# termos/RC-104-trimurti.md | 17025 | 173 | d22c3fc391241552deafef4db51553652402b31e479f6c2a13a499db492149bc
 # termos/RC-106-universo-antimaterial-brahmaloka-universo-paralelo.md | 3157 | 58 | 475d6e236aa19cb0f9907d31860714d4c5af9904e13153d81fede629291e6bdc
 # termos/RC-107-universo-material-bhuloka.md | 2051 | 43 | 9abf54aaab0cb7ae6381f62b4c159e9762652deb1ccc8adc0022befec7a11ae1
 # termos/RC-132-val-tam.md | 3574 | 54 | d325690f24e573e8751ce502811df21f62ee03ffbc9e0bb04f2e505ed90f7006
@@ -48,14 +48,14 @@
 # termos/RC-149-monada-monada-espiritual.md | 4862 | 66 | 92602fb6647ff9e93945fcaa7a767e4547aa6c113304618321acd5efffae47ba
 # termos/RC-150-xadrez-cosmico.md | 2488 | 42 | 986e22a28950d0342b890839d38b324db8fae30317f5cdecd07c81e2f19c510a
 # termos/RC-151-gunas-criadoras-sattva-rajas-tamas.md | 5418 | 72 | 507e9382c869e30908a851e7e781190ef6bbbc12608e8300a4e04ecf46a398db
-# termos/RC-152-prabrajna.md | 12264 | 117 | bbb3baaa5509f58c99aa60698007fddce2967c679168182b26cdca1514f05f81
+# termos/RC-152-prabrajna.md | 12679 | 123 | acd93c6ef17f93df4561163b5ca5e89ff86073552cf853e87738f1c0df398681
 # termos/RC-155-eras-da-criacao-10-eras.md | 6293 | 73 | 91f4edd20f3f550b8553c524d481bf9b84cdff75a6ac43c3ca78c67d0faaf63a
 # termos/RC-160-entropia-e-negentropia.md | 3998 | 53 | 0470ca08cf370d47291fda6932483e32b576a16efdd450cd7346eff0bb6dbe9d
 # termos/RC-161-memoria-quantica-dos-eletrons.md | 8477 | 92 | b0e9c392988bb92068a3b9f26f8245ffc2d6a34dc448a3f6b667f24fa0444155
 # termos/RC-164-criaturas-ferramenta.md | 3932 | 67 | 1c086c52b006e88bcebea3cfb732f8a34d5b007d0d44715dcdc2c1a3a903efc1
 # termos/RC-165-karuna.md | 3249 | 48 | f05330ee01ad562bc0583fd39abbd6aa1c1a9a7b969ea6e7edcbb1965ba58785
 # termos/RC-166-mentalma.md | 6883 | 107 | a617d6b01751ff0e922f25ebc70ed0437dc921d0804dcbe1bdd7b61e2bd80a91
-# termos/RC-167-criacao-indevida-obra-indevida.md | 9982 | 130 | b1c060b9bbd3300c63dad81418ee667519ee6cbbca23cbf82cd31bd03a53996b
+# termos/RC-167-criacao-indevida-obra-indevida.md | 10630 | 136 | 21c8579f2229a0fb12ebde4f3dd241b60d286ffd1daf90d57abd7490bb1a002e
 # termos/RC-174-colmeia-universal.md | 4308 | 55 | 5016b800a9ff016e1323163e9441f3aff817511194a32b2b8378ced11d0dd0a5
 # termos/RC-175-abelha-rainha-jave.md | 2960 | 55 | ea77799af02450a3bdbef98caee3dba2eb83c88b84e07af8abfd9355d050220b
 # termos/RC-176-modelo-colmeia-sistema-controle-colmeia.md | 7247 | 91 | f4fe466cb71870eeb4080903af589ca5a54ebec3d6d1bd65b58448d070c76314
@@ -109,10 +109,10 @@
 # termos/RC-298-descendencia-de-pirra-pirra-e-deucaliao.md | 2891 | 42 | 6734a7ff3acec0087da722075adef66d81b021cdc3ca03e6bb0907df48682230
 # termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md | 2035 | 48 | ade7aefa05bf6b9c23a574c0582e7e95d142980bb9f1e473e650de9988d586ed
 # termos/RC-302-epimeteu-tita.md | 3754 | 52 | 7cd163e6e47fb357379e314e0ed94ff999c0ad09d5a5911b4c76e867f0dda057
-# termos/RC-308-adhytia-nivel-hierarquico.md | 2824 | 42 | 90d7f335aab10cbc0f7e0e3555c8ed8aaf06c2298e79c95990db55623fc2bf61
-# termos/RC-310-adhyshprabrajna-adhy-que-caiu.md | 3030 | 51 | 9ca08fd8c13cfdfb224219a8b17acfbe6a3b1f77167ee1572bdb67da6e93c383
-# termos/RC-311-adhyagya-formas-espirituais-adhy.md | 2678 | 43 | ef711c7ae60fdb8d9dda55ac2ce45ae2345ec5dfaa303d5d2523a7e0b49f992b
-# termos/RC-314-fenomenos-denunciadores-do-fim.md | 2834 | 42 | 4862470b64d793ecd92354fb32a0e332fc41208220dd61af21423581591b9654
+# termos/RC-308-adhytia-nivel-hierarquico.md | 3823 | 49 | 5e75d5bb27c869acc018f6eed15e2722c2b45b356dd6b51576aa2ccd2250bf96
+# termos/RC-310-adhyshprabrajna-adhy-que-caiu.md | 4092 | 58 | 536973ae95a2baf2ea7ae6e6809cc489de5a5a0206bc6a136f54bdedec80552a
+# termos/RC-311-adhyagya-formas-espirituais-adhy.md | 3545 | 50 | 2eb181396de54af1eadcf0a870f6a84bb247cdbb860e42eb155b963792c804ad
+# termos/RC-314-fenomenos-denunciadores-do-fim.md | 4164 | 49 | cff58d2e4a5d8d40df94647dad76ccead0c7338934ce4b8c4da00fbe992d229f
 # termos/RC-319-fator-dharma.md | 3535 | 50 | 1dacc88ffcf2a9f258622070f846ed533b6fc4c2ddc8c1f712f0a9cc685c9bcc
 # termos/RC-320-senhores-do-dharma-senhores-da-lila-trimurti.md | 2840 | 48 | e8bfe4ed78cc7f2f25e8261653a093a5a9b85060aa67c6a5e34e6c36faa8376d
 # termos/RC-321-castas-trimurtianas.md | 3169 | 49 | f7dafe704e46017e32ef29728d1bb327845420639e5799d4e2b489686a3f03f5
@@ -437,7 +437,7 @@
 # termos/RC-776-ginnungagap-zona-intercessoria-entre-universos.md | 2336 | 38 | 1800d59a49d2e292ae1b9e429a560c7943b391aa1420d94ef7268c9e5c6f3f1b
 # termos/RC-777-ana-estudou-as-necessidades-dos-codigos-podres.md | 2459 | 40 | d9620af68ed22451d459579dcf48f10c8a8ece0fd8a4a1b1f95edb7c0cc6992b
 #
-# TOTAL: 428 arquivos; 1611780 bytes de conteúdo embutido.
+# TOTAL: 428 arquivos; 1619298 bytes de conteúdo embutido.
 ===ARQ: termos/RC-001-jave.md===
 # Javé (Senhor Javé) — RC-001
 
@@ -608,6 +608,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **[B021 p. 12]** ensaio: «Caos (entre os gregos), Javé ou ainda Jeová (para os hebreus/judeus), Brahma (para os arianos/hindus), Amom (no Egito) e Alá (no islamismo) são epítetos distintos que representam a face de um mesmo Ser.» Jeová 1× neste PDF. **Quarentena teológica.**
 - Falas de Zeus e de Pandora **isoladas**. Sem reancorar RC-284 a partir deste volume. Sem fusão com B020 / B001 / B003 / B016. Fonte **B021** acrescentada na tabela-mestra.
+
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5]** Introdução (só paratexto): a forma Adhydaiva da entidade caída «viria a ser conhecida, na cultura humana, como Brahma/Javé/Alá». **Quarentena teológica.**
+- **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente»; «Somente escrevi este livro a pedido do Senhor Javé». A «Revelação Cósmica» = «pedagogia do possível» segundo o «Programa de Revelações Sucessivas» — Emanuel / Chico Xavier = **referência externa**. Parágrafo político (2015) **fora**.
+- Falas de Brahma / Vishnu / Shiva **isoladas**. Sem fusão com B037 / B001 / B021. Fonte **B022** acrescentada na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -1516,6 +1523,13 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[B033 p. 5]** Senhor Javé, «na sua revelação aos judeus», = «Senhor Brahma, quando assim se apresentou aos arianos da antiguidade perdida».
 - **[B033 p. 79–81]** «Senhores Brahma (Javé) e Vishnu (Jesus)»; Brahma «jamais teve “razão filosófica” desperta» nos níveis da humanidade. «3% da doença do criador» = **clínica — fora**. Sem fusão com B001 / B024. Fonte **B033** já constava na tabela-mestra.
+
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5–6]** Introdução (só paratexto): Brahma/Javé/Alá = forma Adhydaiva prisioneira de Adhyshprabrajna; Brahma = «ser holográfico, sem “alma”»; o «corpo mental» extraído da condição Adhyatman «é este que responde por sua existência como Brahma».
+- **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente em inúmeras situações». Bloco político do mesmo parágrafo **fora**.
+- Falas de Brahma **isoladas**. Sem fusão com B037 / B024. Fonte **B022** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -3489,6 +3503,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B020 p. 117]** Posfácio (fala de Ellam): «o “sentir-se especial”, é um dos piores venenos e tudo o que vem por meio dos três da trimurti, sempre aqui chega com esse tempero: “eu sou isso”, “eu sou aquilo”, “sou assim com Deus”, basta!»
 - Caps. 1–14 **isolados**. Sem materializar RC-135. Sem fusão com B021 / B044 / B024. Fonte **B020** acrescentada na tabela-mestra.
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 4–6]** Introdução (voz de Ellam): «formas trimurtianas»; «os três da Trimurti»; convivência com as formas Adhydaiva de Brahma, Shiva e Vishnu desde 2008 (primeiro só Brahma/Javé) e intensificada «a partir dos fatos registrados na segunda parte» de *Inquisição Filosófica* = remissão a **B037**, **não fundir**. Ellam: «o que ali fiz e expressei foi e é de minha total responsabilidade».
+- **[B022 p. 158]** Posfácio: de 2008 a 2015, convivência forçada com «estes três seres» / «Senhores da Lila». RC-075 **não** materializada. Bloco político do Posfácio (2015) **fora**.
+- Falas de Brahma / Vishnu / Shiva **isoladas**. Sem fusão com B037 / B029 / B079 / B021 / B001 / B044. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -4059,6 +4080,12 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[B024 p. 38]** no instante da “queda” (Singularidade há 13,8 bi — **quarentena científica / cronológica**) improvisou o Brahmaloka adjacente ao Bhuloka; “perdeu toda a sua condição de Divindade”; o Corpo Mental se fragmentou. Dúvida do autor: “tragado” ou “empurrado”.
 - **[B024 p. 73]** “doença do primeiro impulso” — impulso mental incontrolável ao expelir a Criação; ao se reconstruir, “já estabeleceu o ‘câncer’ nesse seu primeiro corpo” — **quarentena clínica**.
 - **[B024 p. 99]** elétrons e antielétrons = energia Rajas de Prabrajna, “Mente Despedaçada” / “Neurônios Cerebrais” que escaparam do Corpo Mental. Sem materializar RC-013 / RC-163.
+
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5]** Introdução (só paratexto): a entidade «antes **Adhyshprabrajna**» procedeu a Criação indevida na expressão Adhyatman. Nome pré-queda neste volume = remissão a **RC-310**, sem interpolar Prajapati / Perpérion a partir daqui.
+- Falas da Trimurti **isoladas**. Sem fusão com B024 / B037. Fonte **B022** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -4634,6 +4661,12 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 
 - **[B033 p. 125]** o «conjunto da criação indevida»; tudo o que existe de ser vivo «se originou, direta ou indiretamente, a partir do DNA do próprio criador» — **quarentena científica**.
 - **[B033 p. 187]** individualidades «vitimadas pela criação indevida do Senhor Javé». Sem fusão com B001 / B002 / B024. Fonte **B033** acrescentada na tabela-mestra.
+
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 4–5]** Introdução (só paratexto): «Criação Universal indevida» / «Criação indevida» procedida por Adhyshprabrajna. O que Ellam percebe «se assemelhava a dois universos paralelos»: um em expansão, «onde a vida biológica impera»; outro «retraído, desagregado», com «entes-clones» e classes de «demônios». A locução «Criação Bipartida» (p. 4) = descrição do paratexto; **RC-312 não** materializada. «Entes-clones» **sem código**.
+- Falas da Trimurti **isoladas**. Sem fusão com B037 / B001 / B024. Fonte **B022** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7784,6 +7817,13 @@ Os Adhytia aparecem episodicamente nos registros da mitologia hindu (os Adityas)
 - **Variações:** Adityas (mitologia hindu — verificar relação); linhagem dos descendentes da Trimurti
 - **Obs.:** distinguir de Adhy (gênero espiritual, RC-011) — Adhytia é a linhagem descendente
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 31]** cap. 2 (fala de Ellam no diálogo; interlocutores isolados): após a morte da condição humana, «alguns membros da linhagem de descendentes de vocês três, os chamados **Adhytia**, tentarão ocupar os canais de comunicação possíveis entre os terráqueos e vocês, na tentativa de desqualificar estas informações».
+- **[B022 p. 130–131]** cap. 9 (narração de Ellam): «ali estava o nível hierárquico dos Adhytia… em número de **nove seres**, sendo cada um mais estranho e diferente do que o outro — na verdade eram “singulares” — para o meu padrão humano». Nos estudos hindus, os Adhytia «aparecem muito episodicamente»; no academicismo, «jamais encontrei referências dignas de nota».
+- Falas de Brahma («são os Adhytia») e do Adhytia (p. 131–132) **isoladas**. RC-309 (*Ordem dos Indecifráveis*) **não** materializada. Sem fusão com B037. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7827,6 +7867,13 @@ O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do 
 - **Grafia preferida:** Adhyshprabrajna
 - **Variações:** Adhy-Prabrajna; Prabrajna (forma curta); identidade anterior de Brahma/Javé/Alá
 - **Origem:** sânscrito/composto RC (Adhy + Prabrajna)
+
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5]** Introdução (Atlan, 30/11/2015 — voz de Ellam): a Criação Universal indevida «foi procedida por **Adhyshprabrajna**, na sua expressão Adhyatman». Após a «queda» na Criação indevida, esta entidade — «antes Adhyshprabrajna» — erigiu uma forma de expressão (Adhydaiva) conhecida, na cultura humana, como **Brahma/Javé/Alá**, «da qual tornou-se prisioneira e dela jamais se libertou».
+- **[B022 p. 5–6]** o espírito, ou forma Adhyagya, de Adhyshprabrajna «não se encontrava presente àquele encontro porque jamais conseguira se imantar à sua expressão Adhydaiva — Brahma». Desde então Brahma «sempre foi e ainda é um ser holográfico, sem “alma”»; da condição Adhyatman foi «extraído» o «corpo mental», e é este que responde pela existência como Brahma.
+- Falas de Brahma / Vishnu / Shiva **isoladas**. RC-011 / RC-012 / RC-013 / RC-014 **não** materializadas. Sem fusão com B037 / B029 / B079. Fonte **B022** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -7881,6 +7928,13 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 - **Variações:** formas Adhyagya; espíritos Adhy (formas espirituais); grafia próxima de Adhyagia (RC-012) — verificar distinção
 - **Origem:** composto RC (Adhy + agya/agia)
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 4]** Introdução (voz de Ellam): «vi-me como que sonhando, tendo uma longa conversa com os espíritos — as suas formas **Adhyagya** — que respondem pelas formas trimurtianas (expressões Adhydaiva edificadas após o “mergulho” nesta Criação) de Vishnu e Shiva».
+- **[B022 p. 5]** as formas Adhyagya que respondem por Vishnu e Shiva «instruíram-me numa série de postulados»; as formas Adhyatman então conhecidas como **Adhyshmavatna** (Vishnu) e **Adhyshsavna** (Shiva) — nomes do paratexto, **sem código novo**.
+- **Quarentena mediúnica:** a «orientação que os espíritos… me levaram a fazer» (p. 6) não vira ontologia das entidades. Diálogo dos caps. 1–10 **isolado**. RC-012 **não** materializada. Sem fusão com B037. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
@@ -7924,6 +7978,13 @@ Os fenômenos denunciadores do fim são o pano de fundo sensorial de todo o B022
 ## Etimologia / Grafias
 - **Grafia preferida:** Fenômenos Denunciadores do Fim
 - **Variações:** fenômenos do fim; tormentas magnéticas; fenômenos denunciadores (título de capítulo em B035 e B022)
+
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 58–63]** cap. 4 *Fenômenos Denunciadores do Fim* (narração de Ellam): «ribombar de eventos distantes, como se fossem trovões longínquos»; «fenômenos eletromagnéticos» com repercussão no «plasma-matéria» dos corpos; o «espaço-tempo» da dimensão vibra com «epicentro» acima das cabeças; gravidade some por instantes e todos flutuam. A sequência matéria/antimatéria e a «violação da paridade» no universo antimaterial = **quarentena científica** (leitura do autor). Mentores espirituais (p. 61) **isolados**.
+- **[B022 p. 125–126]** cap. 9 (narração de Ellam — **não** é o cap. 4): «o firmamento daquele lugar continuava em plena convulsão»; «potentíssimos fenômenos»; «campo protetor» em torno dos três / «tormentas magnéticas». «No início dos encontros, pensei que o desconforto era só meu… o menos incomodado era eu, pois aquilo tudo doía na organização daqueles seres.» «Profundamente medicados para que suas formas pudessem conviver com o inevitável» = **quarentena clínica** (leitura, jamais diagnóstico).
+- Falas da Trimurti **isoladas**. RC-313 / RC-300 / RC-315 **não** materializadas. Título homônimo no sumário de B035 = **não fundir**. Fonte **B022** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

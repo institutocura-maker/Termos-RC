@@ -18,6 +18,13 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 - **Variações:** formas Adhyagya; espíritos Adhy (formas espirituais); grafia próxima de Adhyagia (RC-012) — verificar distinção
 - **Origem:** composto RC (Adhy + agya/agia)
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 4]** Introdução (voz de Ellam): «vi-me como que sonhando, tendo uma longa conversa com os espíritos — as suas formas **Adhyagya** — que respondem pelas formas trimurtianas (expressões Adhydaiva edificadas após o “mergulho” nesta Criação) de Vishnu e Shiva».
+- **[B022 p. 5]** as formas Adhyagya que respondem por Vishnu e Shiva «instruíram-me numa série de postulados»; as formas Adhyatman então conhecidas como **Adhyshmavatna** (Vishnu) e **Adhyshsavna** (Shiva) — nomes do paratexto, **sem código novo**.
+- **Quarentena mediúnica:** a «orientação que os espíritos… me levaram a fazer» (p. 6) não vira ontologia das entidades. Diálogo dos caps. 1–10 **isolado**. RC-012 **não** materializada. Sem fusão com B037. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -168,6 +168,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B021 p. 12]** ensaio: «Caos (entre os gregos), Javé ou ainda Jeová (para os hebreus/judeus), Brahma (para os arianos/hindus), Amom (no Egito) e Alá (no islamismo) são epítetos distintos que representam a face de um mesmo Ser.» Jeová 1× neste PDF. **Quarentena teológica.**
 - Falas de Zeus e de Pandora **isoladas**. Sem reancorar RC-284 a partir deste volume. Sem fusão com B020 / B001 / B003 / B016. Fonte **B021** acrescentada na tabela-mestra.
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5]** Introdução (só paratexto): a forma Adhydaiva da entidade caída «viria a ser conhecida, na cultura humana, como Brahma/Javé/Alá». **Quarentena teológica.**
+- **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente»; «Somente escrevi este livro a pedido do Senhor Javé». A «Revelação Cósmica» = «pedagogia do possível» segundo o «Programa de Revelações Sucessivas» — Emanuel / Chico Xavier = **referência externa**. Parágrafo político (2015) **fora**.
+- Falas de Brahma / Vishnu / Shiva **isoladas**. Sem fusão com B037 / B001 / B021. Fonte **B022** acrescentada na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

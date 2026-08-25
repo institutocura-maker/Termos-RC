@@ -45,6 +45,13 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[B033 p. 5]** Senhor Javé, «na sua revelação aos judeus», = «Senhor Brahma, quando assim se apresentou aos arianos da antiguidade perdida».
 - **[B033 p. 79–81]** «Senhores Brahma (Javé) e Vishnu (Jesus)»; Brahma «jamais teve “razão filosófica” desperta» nos níveis da humanidade. «3% da doença do criador» = **clínica — fora**. Sem fusão com B001 / B024. Fonte **B033** já constava na tabela-mestra.
 
+
+## Ampliação — B022 (Inquisição Trimurtiana)
+
+- **[B022 p. 5–6]** Introdução (só paratexto): Brahma/Javé/Alá = forma Adhydaiva prisioneira de Adhyshprabrajna; Brahma = «ser holográfico, sem “alma”»; o «corpo mental» extraído da condição Adhyatman «é este que responde por sua existência como Brahma».
+- **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente em inúmeras situações». Bloco político do mesmo parágrafo **fora**.
+- Falas de Brahma **isoladas**. Sem fusão com B037 / B024. Fonte **B022** já constava na tabela-mestra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

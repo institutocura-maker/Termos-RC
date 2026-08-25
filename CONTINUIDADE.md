@@ -1,6 +1,6 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-25 (piloto B022 — ingresso e dossiê enxuto; 0 códigos)  
+**Data de sincronização:** 2026-08-25 (Devolutiva B022 aplicada — 9 fichas, 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
 
 ## Fase 2 — B022 *Inquisição Trimurtiana* (abertura 2026-08-25)
@@ -9,7 +9,11 @@
 - Ciclo em `livros/B022_inquisicao_trimurtiana/` (fora de CONCLUIDOS até Devolutiva).
 - Extract: ~65.016 palavras; SHA-256 `bff374d74d753daa06837a1f891fccd7fd4b818fa65c34235e428137259ca241`. p. 1 sem texto.
 - **26 termos já citam B022**; 12 com ficha. Dossiê sugere RC-310, RC-311, RC-308, RC-104, RC-314. **0 códigos.** Introdução + Posfácio = Ellam. Falas da Trimurti isoladas. Orbum/IEEA fora. Hitler = 0. Jeová = 0.
-- B037 / B029 / B079 = **não fundir**. Aguarda Devolutiva.
+- B037 / B029 / B079 = **não fundir**.
+
+### Devolutiva B022 aplicada (2026-08-25)
+
+- O-1 confirmado (é B022; 174 págs; CIP 244 p. × PDF 174 = `[REVISAR]`; ISBN 978-85-62411-34-2 extraível — **não gravado**); O-2: 9 fichas ampliadas (**RC-310**, **RC-311**, **RC-104** só Introdução + Posfácio; **RC-308**, **RC-314** com narração de Ellam no corpo; opcional **RC-037**, **RC-152**, **RC-167**, **RC-001** só paratexto); B022 nas fontes de RC-001; falas de Brahma / Vishnu / Shiva isoladas; RC-312 / RC-313 / RC-315 / RC-309 / RC-011–014 **não** materializadas; O-3: zero códigos; O-4: falas das entidades banidas; Posfácio político (2015) fora; Kardec / Orbum / IEEA / roteiro fora; O-5: B037, B029, B079, B001, B044 e B021 intactas; O-6: **BIBLIO intocada** (Conectar / ano «—» / `trabalhada` / 174 págs); O-7: quarentena **mediúnica crítica** (Trimurti nos caps. 1–10) + clínica («psicopatia» / «demência» / «doente» / «medicados» = leitura, jamais diagnóstico) + política, ufológica, teológica, institucional; O-8: `_ampliacoes_B022.txt` aplicado; pasta em `livros/CONCLUIDOS/B022_inquisicao_trimurtiana/`. Sem apostila.
 
 ## Fase 2 — B006 *Nos Bastidores da Luz I* (abertura 2026-08-25)
 
