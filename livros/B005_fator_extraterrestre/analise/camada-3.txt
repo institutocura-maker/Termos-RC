@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B005_fator_extraterrestre/original.txt
+
+SHA-256 168b7a56305906257c18fb6c0ed70e2d70b7252045e02ea37a34d54bbd82d771
+253.803 bytes · ~38.911 palavras · 126 págs.
+Nenhuma página sem texto extraível.
+Sem [TEXTO INCOMPLETO] de bytes nulos.
+Não interpolar.
+Voz de Ellam = Esclarecimento p. 2–6 + caps. 1–12 + Posfácio p. 116–120.
+Fechos p. 120–126 = Notas / Orbum / Esclarecimento Estratégico (fora da malha).
+Sagan, Crick, Kardec, Sitchin, Drosnin, Rohden/Einstein = referências externas.

@@ -1,7 +1,15 @@
 # Continuidade — Base Terminológica RC
 
-**Data de sincronização:** 2026-08-25 (Devolutiva B021 aplicada — 8 fichas, 0 códigos)  
+**Data de sincronização:** 2026-08-25 (piloto B005 — ingresso e dossiê enxuto; 0 códigos)  
 **Estado canônico:** **777 termos (`RC-001–RC-777`), 1.852 relações, 428 fichas físicas** (427 canônicas com `ficha=True` + RC-004 investigação) · **86 obras (B001–B083 + ART-2025-08-01/02/03)** · **37 apostilas de palestras/lives** em `apostilas/CONCLUIDAS/` (todas com DOCX e `original.txt`) + **9 apostilas temáticas + 2 tratados** + **2 mapas** + **índice** em `pedagogico/` + **1 material externo (Ari Barbosa)** em `materiais_externos/`. Fonte única: `ferramentas/dados_termos.py` · GitHub branch da sessão 9: `arena/01a02e74-termos-rc`
+
+## Fase 2 — B005 *Fator Extraterrestre* (abertura 2026-08-25)
+
+- **PDF ingressado** em `uploads_recepcao/Fator Extraterrestre Jan Vall Ellam.pdf` (282.704 bytes; SHA-256 `4a0bb1f46c917b8d8c3ede843ad932975bac06af9b22d377f8e5914f9e8c4028`; **126 págs** = **B005**, obra integral). Zian 2004. Capa **Jan Vall Ellam** = `[REVISAR]`. Esclarecimento Atlan **16/02/2004**. Sem ISBN/CIP neste PDF. **BIBLIO intocada** (`trabalhada` / 2004).
+- Ciclo em `livros/B005_fator_extraterrestre/` (fora de CONCLUIDOS até Devolutiva).
+- Extract: ~38.911 palavras; SHA-256 `168b7a56305906257c18fb6c0ed70e2d70b7252045e02ea37a34d54bbd82d771`. 126 págs todas com texto.
+- **22 termos já citam B005**; 12 com ficha. Dossiê sugere RC-355, RC-070, RC-357, RC-359. **0 códigos.** Ensaio = Ellam. Orbum / Esclarecimento Estratégico fora. Lemma Javé = 0; Jeová 1× p. 22. Hitler = 0.
+- B003 / B009 / B011 / B027 / B028 = remissão, **não fundir**. Aguarda Devolutiva.
 
 ## Fase 2 — B021 *Tempos Difíceis no Olimpo* (abertura 2026-08-25)
 

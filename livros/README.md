@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum.
+`livros/B005_fator_extraterrestre/` — piloto ingressado (2026-08-25); dossiê enxuto; **aguarda Devolutiva**; 0 códigos; BIBLIO intocada (`trabalhada` / 126 págs). Ensaio = Ellam. Orbum fora. Sem apostila. **Não** mover para CONCLUIDOS antes da Devolutiva + aplicação.
 
 ## Amostras
 
