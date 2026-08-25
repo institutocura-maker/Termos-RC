@@ -1,5 +1,7 @@
 # Base Terminológica RC — Revelações Cósmicas de Jan Val Ellam
 
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Este documento registra o estado da reconstrução de 2026-08-14 (contagens 760/1.433); contagens, HEADs e procedimentos estão desatualizados. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+
 Workspace reconstruído em **2026-08-14** a partir de:
 
 - `GUIA-MESTRE-RC-APOSTILA.pdf` — mapa conceitual, editorial e operacional do projeto;

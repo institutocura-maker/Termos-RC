@@ -1,5 +1,7 @@
 # Plano de Migração de Chat — Projeto RC
 
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Plano de 2026-08-18; migração já concluída. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+
 **Versão:** 1.1  
 **Data:** 18/08/2026  
 **Objetivo:** mudar de conversa sem perder estado canônico, decisões curatoriais, rastreabilidade, quarentenas ou fluxo editorial.

@@ -1,5 +1,7 @@
 # Pacote de Migração de Chat — Checkpoint 2026-08-18
 
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Snapshot de 2026-08-18; contagens e pendências desatualizadas. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+
 ## Identidade do projeto
 
 **Base Terminológica das Revelações Cósmicas de Jan Val Ellam** e produção de apostilas integrais a partir de transcrições automatizadas.

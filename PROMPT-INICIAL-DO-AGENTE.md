@@ -1,5 +1,7 @@
 # PROMPT INICIAL DO AGENTE — Base Terminológica RC
 
+> **⚠️ ARQUIVO HISTÓRICO** (marcado na revisão de 2026-08-25 — AGENTE 10). Prompt da sessão original (contagens velhas); a orientação "anexe este arquivo PRIMEIRO" está superada. **Não usar como estado vigente** — prevalece `PROMPT-PROXIMA-SESSAO.md`.
+
 > **Uso (curador):** anexe este arquivo PRIMEIRO no novo chat, junto com o `GUIA-MESTRE-RC-APOSTILA.txt` (v1.1) e o `PACOTE-MIGRACAO-CHAT-2026-08-18.md`. O texto abaixo é o prompt a colar.
 
 ---
