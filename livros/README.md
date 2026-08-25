@@ -23,7 +23,9 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum (B057 e B058 fechados em 2026-08-25 — trilogia de Yel Luzbel ⅔ completa). **B059 *Sinais de Guerra em Capela* está SEM PDF** (somente físico, ASIN B0GFPWXVSG). Próximo ciclo: na ordem do curador.
+`B087_pandora_1_zeus_titas_criacao_especie_humana/` — ingresso + leitura integral (88 págs) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; COM prefácio de Ellam). **Fonte nova** (0 termos citavam B087) — ciclo de vinculação ao cluster Pandora/Olimpo. B088 e B089 com PDFs já em `uploads_recepcao/` — sequência do curador.
+
+Pendência de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 
 ## Último ciclo
 

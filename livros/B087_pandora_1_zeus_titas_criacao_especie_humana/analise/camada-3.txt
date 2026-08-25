@@ -1,0 +1,11 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B087_pandora_1_zeus_titas_criacao_especie_humana/original.txt
+
+SHA-256 a2af46be75a94dfaa758d7a0f8449d78976099bad78960a656e394baa809f109
+203.426 bytes · ~32.619 palavras · 88 págs. (paginação impressa irregular — offset varia ao longo do livro; **referência = página do PDF**)
+Sem páginas vazias. Sem \x00. Sem marca d'água. Nada interpolado.
+**EDIÇÃO RECEBIDA:** "Corrigido e Adaptado por Gullan Greyl" (http://www.gullangreyl.pt; 09-02-2022) — português europeu; metadado PDF: autor "Gallian Greyl" (o adaptador), título em branco, producer "Adobe PDF Library 21.7.123" (criação 09-02-2022). NOTA DA AUTORA datada "Primavera de 2017" (obra original ~2017; publicação Nova Egrégora 2019).
+Voz: psicografia em 1ª pessoa de **Pandora** (voz isolada) + PREFÁCIO de Ellam (pp. 6–7) + NOTA DA AUTORA TERRENA (Jeane) + DEDICATÓRIA (Caetano Veloso/Maiakovski) + O MITO DE PANDORA (fonte externa: Gabriel Chalita, "Vivendo a Filosofia") + epígrafes de capítulo (Camus, Pessoa ×2, Nietzsche ×5, Comte, Camões ×2, Agostinho da Silva — todas externas).
+Paratexto com notas de rodapé MITOLÓGICAS/DOCTRINAIS (diferente do B058, que citava Wikipédia): Prometeu/Epimeteu (Hesíodo); a Assembleia dos Doze (p. 19); Hefesto (p. 36); Urano/Gaia, Cronos/Reia, tártaro (p. 61); "algoritmo"/"vírus" (p. 55); **nota 4 p. 11 (a origem dos olimpianos: Brahma → anjo-clones rebelde → Shiva → estirpe dos olimpianos, "a última a surgir" — doutrina RC)**; **nota 3 p. 24 (Homo sapiens sapiens = miscigenação da linhagem de Pandora + linhagem Anunnaki + linhagens extraterrestres — doutrina RC)**; nota 4 p. 61 ("essas duas fêmeas tinham sido criadas por Atena"); notas apontando para o Livro 2 (B088).
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).
