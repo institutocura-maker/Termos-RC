@@ -46,6 +46,14 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 - **[B044 p. 157]** a “pílula vermelha” convida à maturidade emocional, “aspecto primário da idade adulta espiritual” (fecho da entrevista; **não** ontologizar o fecho institucional).
 - Uso analógico (Matrix) — **não** termo técnico nem hipótese de simulação. IEEA/Orbum **fora**.
 
+
+## Ampliação — P2023-07-30 (A Leitura Adulta da Realidade)
+
+- **[P2023-07-30 · AS PÍLULAS VERMELHAS PLURAIS]** "A pílula vermelha para se tomar dentro do cebolão — **não chamo mais nem matrix** — a pílula vermelha **ela não é uma só, não: são VÁRIAS pílulas vermelhas. Ou talvez, além de vermelho, existam outras pílulas de outras cores que a gente nem imagina**, mas que a gente precisa tomar para que a nossa química interna seja comandada [por nós]."
+- **[P2023-07-30 · a caverna]** "isso aqui ainda é **a caverna de Platão**: a gente só vê o que pode ver, porque o que a gente pode ver já tá determinado por quem de fora obriga que você veja — **você só tá vendo as sombras da caverna.**" (cross o "oculto que se torna evidente" de Jesus.)
+- **[P2023-07-30 · a regra]** "se o eu de cada um de nós é cego para a POSSIBILIDADE, isso implica que os nossos olhos também serão cegos para a OPORTUNIDADE... **as certezas matam as possibilidades**" — a fundamentação epistemológica da pílula.
+- 0 códigos novos (O-3). Platão = quarentena cultural.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -18,6 +18,14 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 - **Variações:** Zont En Drel; "o guardião do Éden"; guardião universal (apresentação)
 - **Obs.:** em B015, refere-se aos irmãos como "endrelnianos" (RC-247)
 
+
+## Ampliação — P2023-07-30 (A Leitura Adulta da Realidade)
+
+- **[P2023-07-30 · O Q&A INTEIRO — A HUMANIZAÇÃO INÉDITA]** "Zont En Drel, em tese, não obedece a Sophia... **a estirpe dele foi criada para proteger Brahma de todo e qualquer outro ser que viesse a ser criado depois. O Sophia foi criado depois.** Então a estirpe de Zont En Drel, penso eu, toda ela vai se extinguir, menos ele, porque ele tá nesse universo aqui e a estirpe dele tá toda no universo de lá."
+- **[P2023-07-30 · a humanização]** "Tudo que eu sei é que esse ser **se humanizou. Zont En Drel talvez seja o primeiro anjo clone de Javé humanizado** — mas eu não sei o que isso significa, porque é humanizado à moda deles: não tem emoções, não tem nem corpo de carbono, é silícico."
+- **[P2023-07-30 · o perfil]** "Eu vejo em Zont En Drel **um ser que tava despertando, mas com uma característica que nós humanos temos: a da TIMIDEZ**, a de ser discreto, de não querer chamar atenção — já que a ordem que ele recebeu foi sempre de se manter à parte, acompanhar tudo, mas raramente recebia ordens de fazer alguma coisa. **E quem dava ordem a ele parou de dar há muito tempo... Javé o deixou livre e mandou que ficasse próximo e VINCULADO À MINHA PESSOA.** Eu não sei o que isso significa."
+- 0 códigos novos (O-3). Quarentena biográfica (o vínculo com Ellam).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

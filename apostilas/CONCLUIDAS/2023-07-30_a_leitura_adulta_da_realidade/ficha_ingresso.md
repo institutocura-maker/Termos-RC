@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-07-30 — A Leitura Adulta da Realidade
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Nenhuma ficha tocada. Pasta em `apostilas/` (sai para `CONCLUIDAS/` só depois da aplicação + apostila). **A 4ª PALESTRA DA NOVA FASE — a palestra-SISTEMA (a taxonomia das matrizes) e a 2ª maior concentração política da coleção.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **4 fichas ampliadas** (RC-147/166/087/192 — Zont En Drel humanizado; o axioma do axônio; os artistas da obra; as pílulas plurais) + RC-218/RC-528 no pacote (a taxonomia M1-M4; o livro inédito) · 6 vínculos · **A APOSTILA COM A RETENÇÃO EM BLOCO** (a PARTE VIII) · pasta em `apostilas/CONCLUIDAS/` (41 apostilas). **O CEBOLÃO ESTÁ ENGAVETADO.**
 
 ## 1. Identificação
 

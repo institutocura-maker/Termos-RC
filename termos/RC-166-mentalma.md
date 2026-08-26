@@ -54,6 +54,15 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **[B075 p. 88]** "O Mentalma convida o(a) leitor(a) a adotar essa **atitude dionisíaca** — e não a atitude apolínea do controle, da subserviência e do medo —, de modo a se transformar em **artista de si mesmo ou artífice da própria existência**. A vida é pura arte, e a arte de saber viver é ousadia em pleno caos!"
 - 0 códigos novos (O-3). Voz 100% Ellam; sem plateia.
 
+
+## Ampliação — P2023-07-30 (A Leitura Adulta da Realidade)
+
+- **[P2023-07-30 · O AXIOMA DO AXÔNIO ÚNICO — a fundação neural do método]** "Observem que são **milhares de dendritos em um neurônio e SÓ UM AXÔNIO**... entra uma porrada de informações — 400 bilhões de bits a cada microinstante — o nosso código neuronal **só processa 2.000 e solta UMA resposta só pelo axônio**... A pergunta é: por que que não tem dois axônios? Por que milhares de coisas entram pelos dendritos e **só sai um? Porque isso chama-se ESCRAVIZAÇÃO. O eu humano tem que ser a resposta do axônio.** Não é a gente que opta — o eu de cada um de nós já é o resultado disso."
+- **[P2023-07-30 · Eva e a sabotagem]** "Eva, quando tomou as poções [não foi maçã]... **esculhambou com esse código neural**... o humano despertou além da programação e teve que desenvolver uma racionalidade para decidir, já que não havia mais a ordem que era dada... **Javé e companhia limitada encheu o DNA humano de travas e lacres, já que ele perdeu o controle automático.**"
+- **[P2023-07-30 · O MÉTODO]** "A única maneira de você ser dono de você mesmo: **o eu humano conversar consigo mesmo, com o discurso interior**... dizendo ao código neuronal o que você quer... 'eu vou parar para respirar' — e **todas as células do meu corpo escutam a voz... e o cérebro se acende pelas próprias ordens que você dá, e não porque alguém lá de longe mandou um impulso.**"
+- **[P2023-07-30 · O ESCUDO DE 500 TRILHÕES DE VOLTS]** "Se você usar o seu discurso interior, **cada célula do seu corpo emite 1,4 V; como são trilhões de células, você pode criar um campo protetor ao redor do seu corpo em que cerca de 500 trilhões de volts estejam pulsando a cada instante**... uma esfera de cerca de 18 m de diâmetro, com o corpo no centro — **o corpo de defesa pulsante que um ser humano pode criar.** Quando um humano faz isso, tudo que vem da mente dos seres que controlam campos mórficos... **aqui não mais a repercussão das ordens deles.** É grátis, é simples, não é fácil."
+- 0 códigos novos (O-3). Quarentena científica (a neurologia como leitura).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
