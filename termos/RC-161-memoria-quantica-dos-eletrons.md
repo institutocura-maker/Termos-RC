@@ -57,6 +57,16 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[P2023-11-19 · cap. 7.2]** os elétrons "**hospedam informações desde o 'momento zero' do Big Bang**" — a memória quântica ancorada no instante inicial (a confirmar na fonte P2024/2025 da ficha).
 - 0 códigos novos (O-3). Quarentena científica.
 
+
+## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+
+- **[P2023-06-24 · O ELÉTRON MEMORIZA]** "o elétron existe porque **o elétron MEMORIZA TUDO QUE ELE VIVENCIA**. Então aqui dentro do balão mágico, todos os elétrons e todos os antielétrons... **eles memorizam tudo. Dependendo do que eles memorizam, eles pulsam e vibram de um jeito**."
+- **[P2023-06-24 · A CARGA MEMORIAL]** "na atualidade, **a carga memorial do elétron está desencadeando variações em suas frequências vibratórias, as quais estão modificando o antigo padrão normal das coisas e dos processos que sustentam a vida** e a movimenta."
+- **[P2023-06-24 · A RESPOSTA A SIMONE — o número fixo]** "o número de elétrons é o mesmo... nenhum deles é destruído e nenhum novo é criado. **Porque o jogo é a quantidade do que saiu da soprada de Javé**... **o que é que se altera? A MEMÓRIA DOS ELÉTRONS**... não está havendo guerra entre elétrons."
+- **[P2023-06-24 · AS MEMÓRIAS INDIVIDUAIS]** "o elétron do corpo de uma cabra, quando a cabra morre, ele apropria tudo que ele sentiu quando esteve no corpo daquela cabra... o elétron dessa plantinha memoriza tudo... **o elétron do meu corpo, além de saber tudo que eu sei, os outros elétrons sabem porque o MEU CONTA PARA ELES. Os elétrons trocam informação o tempo inteiro**."
+- **[P2023-06-24 · A PREFERÊNCIA PELA PLANTA]** "se os elétrons se rebelarem feio, **todos elétrons vão querer só ser PLANTA**, com vergonha e nojo das marcações que eles têm quando tem que ser jacaré, tigre, aranha... predador... necrófago... 'Putz, aqui, ó'" — e o inverso da consciência: "os elétrons vão todos querer ser plantas ao invés de seres humanos, **porque seres humanos têm consciência, planta não tem**."
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

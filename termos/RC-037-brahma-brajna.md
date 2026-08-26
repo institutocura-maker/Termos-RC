@@ -52,6 +52,14 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente em inúmeras situações». Bloco político do mesmo parágrafo **fora**.
 - Falas de Brahma **isoladas**. Sem fusão com B037 / B024. Fonte **B022** já constava na tabela-mestra.
 
+
+## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+
+- **[P2023-06-24 · A NOITE DE BRAMA × O COMA-IMPLOSÃO]** "esse ser quase implodiu ao longo dos 13.8 bilhões de anos. **Ele entrava em coma na mitologia hindu — a chamada NOITE DE BRAMA, o sono de Brama, que passava 4 BILHÕES DE ANOS** dormiu, coma. **Só que agora o coma que ele entrou não foi igual aos outros comas desde que ele caiu na criação. ESSE COMA FOI IMPLOSÃO**... ninguém esperava que isso acontecesse" (a ponte com RC-717).
+- **[P2023-06-24 · A GRAFIA BRAJNA NA VOZ]** "quando viu **para BRAJNA** tentar soltar o track dele, encher o balão" (a grafia da malha confirmada na transcrição — 3ª ocorrência: 'Brajna', 'para Bragna', 'para Bragana'); "o de **para Bragana que caiu SE TRANSFORMOU EM JAVÉ desde o início até o final desse universo**."
+- **[P2023-06-24 · O TRACK E A QUEDA]** "o cara que soltou o track, **ele foi junto**... ele só idealizou o plano das coisas se acendendo, não idealizou outra coisa... **esse outro universo [o vizinho] ficou sendo IMPROVISADO junto com a queda**... reza uma lenda não terrena que Savna divisou o ponto de inflexão" (ver RC-102).
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -18,6 +18,12 @@ Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Ja
 - **Variações:** Caos/Brahma/Javé; Caos (Javé); Caos = Brahma = Javé (cadeia completa com Jeová, Alá, Pangu, Atom)
 - **Idioma de origem:** grego (khaos)
 
+
+## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+
+- **[P2023-06-24 · O CAOS DOS GREGOS NA VOZ DOS ESPÍRITOS]** "em 2018, acho que no mês de fevereiro, alguns seres começaram a me dizer: '**Ei, Javé morreu... comemoremos**'... o nome não era sempre Javé... **normalmente essa turma que falava aí CHAMAVA DE CAOS. Eram figuras vinculadas ao conhecimento grego... 'Caos se foi. É hora de comemorarmos'**" [STT: "Peti, Dioniso, Ramos" — os nomes dos espíritos; [REVISAR] — Pã? Dionísio?] — ⚠️ **a 2ª confirmação da correspondência na voz dos próprios espíritos** (a 1ª: B020 cap. 1); quarentena biomediúnica — registro fenomênico.
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

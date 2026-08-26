@@ -41,6 +41,16 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[P2023-11-19 · cap. 7.2]** "Os humanos, ao **limpar seus próprios elétrons através do amor e do conhecimento**, contribuem para a formação de uma 'nova mente universal'" — a contribuição pessoal à rebelião (cross RC-163).
 - 0 códigos novos (O-3). Quarentena científica (a física dos elétrons como leitura do autor).
 
+
+## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+
+- **[P2023-06-24 · O QUE O LUZBEL COMEÇOU A PENSAR FOI CONCLUÍDO]** "quem começou a lidar com essa perspectiva foi **Elos Bell, Lúcifer [Yel Luzbel]**. A rebelião de Lúcifer tem a ver com isso, só que num modo ainda muito precário... **o que é que o Luzbel começou a pensar na época e eu, Rogério, CONCLUÍ POR ELE AGORA que é a rebelião dos elétrons. O que sem querer o Luzbel começou a pensar foi concluído.**" — a cronologia íntima: "**algo que o Luzbell pensou, percebeu há 1 MILHÃO 20 E POUCOS ANOS atrás. A rebelião dele, esse problema EXPLODIU NA CABEÇA DELE há 700 E POUCOS MIL ANOS atrás**, contaminou a porrada de gente... gerou [STT 'Gerço' — gerou?] 100 desdobramentos, **surgiu o terreno como subproduto de 100 confusões. Aí o eu terreno CONCLUIU A PERCEPÇÃO LUCIFERIANA naquele tempo**. Então não foi nada programado."
+- **[P2023-06-24 · SEM MENTOR]** "isso **NÃO TEM MENTOR, nem influenciador, isso é um FATO. Simplesmente aconteceu** essa perspectiva de rebelião dos elétrons" (a resposta à pergunta sobre o Quarto Logos — que "não interferiu nem coisa alguma": ver RC-092).
+- **[P2023-06-24 · O ACIDENTE E A DISTOPIA]** "isso é um **ACIDENTE**. Isso não é uma arte produzida. Isso não é uma estratégia criada, nem um sonho almejado. É **uma DISTOPIA que surgiu**... o espírito que nos anima, a cada um de nós, nesse mês de junho do ano 2023, **ELES NÃO SABEM O QUE É QUE VAI ACONTECER**" (a resposta a Márcia — contra a leitura estratégica).
+- **[P2023-06-24 · O ELÉTRON PRIMORDIAL INTERDITADO + o Mergulho na Escuridão]** "esse assunto... faz parte dos **OUTROS NOVE LIVROS que em tese complementam um livro chamado A Rebelião dos Elétrons**... há uma desavença entre o meu entendimento, o entendimento de Rogério, e o de Jah [Javé]... **esse assunto surgiu quando eu estava escrevendo, A PEDIDO DELE, um livro chamado MERGULHO NA ESCURIDÃO, que eu NUNCA CONCLUI** e ele se foi... como esse assunto vai demorar ainda uns **18.000 ANOS** ou talvez em vidas futuras" ⚠️ quarentena biográfica/biomediúnica; o "Mergulho na Escuridão" já registrado como obra futura (P2023-07-30).
+- **[P2023-06-24 · A QUEDA DA PROCREAÇÃO — quarentena clínica estrita (retenção)]** "começa a surgir uma série de fatores para que não haja sexo procriador... **na base disso são os elétrons tentando modificar a lógica da mente que criou esses sistemas**... Brás Cubas [STT 'Cubers/Brcubber']: 'eu não tive filhos, não quis passar essa vergonha, essa ignomínia, esse código podre para ninguém'" [a homoafetividade como mecanismo dos elétrons = LEITURA DO AUTOR; jamais fato sociológico/biomédico].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

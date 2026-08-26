@@ -54,6 +54,13 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[B060 · quarentena]** religiosa/biográfica (os Sai Baba são personagens recentes reais); os avatares hindus = leitura de terceiros.
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+
+- **[P2023-06-24 · A LENDA NÃO TERRENA DE SAVNA — a revelação cosmogônica]** "reza uma lenda não terrena que **SAVNA** [STT: 'Sávina', 'Sáven', 'sábana', 'Sávna', 'Sávenna' — a grafia da malha confirmada 5× na mesma fala] — **o nome que o ser dentro dessa roda, dessa bola chamado CHIVA tinha ANTES DO BALÃO** — somente aplicou a sua **FORÇA TAMÁSICA** nos termos em que o fez, **PORQUE DIVISOU QUANDO SERIA O PONTO DE INFLEXÃO da derrocada do corpo reconstruído pelo criador**... lá no início, quando o amigo dele caiu na criação, **Savna disse: 'Ih, vai ser até ali. A partir dali é que as coisas se modificam'**" — e o ajuste fino: "a força tamásica que esse ser aplicou foi quem fez Javé implodir. **Mas ele fez porque JAVÉ IMPLODIU A SI MESMO**, colecionando as piores marcações no interior dos próprios elétrons" [a confirmação da P2025-11-29: a força tamásica = a entropia dessa criação].
+- **[P2023-06-24 · A FÍSICA DE SAVNA — a resposta a Cristiane]** "**Sávenna... criou AS LEIS que fizeram com que prótons e nêutrons se unessem NO NÚCLEO ATÔMICO** para atrair o elétron — e todos os elementos químicos da tabela periódica... um próton de um núcleo não salta pro outro, **mas um elétron de um elemento químico SALTA para outro elemento químico** [levando consigo as informações]" ["uma vátima que veio a ser vígena" — [REVISAR]].
+- 0 códigos novos (O-3). Quarentena: biomediúnica (a lenda como relato de origem não terrena).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

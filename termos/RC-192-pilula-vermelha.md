@@ -54,6 +54,13 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 - **[P2023-07-30 · a regra]** "se o eu de cada um de nós é cego para a POSSIBILIDADE, isso implica que os nossos olhos também serão cegos para a OPORTUNIDADE... **as certezas matam as possibilidades**" — a fundamentação epistemológica da pílula.
 - 0 códigos novos (O-3). Platão = quarentena cultural.
 
+
+## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
+
+- **[P2023-06-24 · A PÍLULA AZUL COMO BÊNÇÃO — o inverso canônico]** a resposta a Gabriel ("a ausência de uma vontade livre esclarecida eliminaria o observador quântico, culminando no buraco negro mental?"): "**Não**... a não consciência, entre aspas, **não implica em vínculo de atração com egrégoras ou buracos negros mentais... NA VERDADE, É QUASE QUE UM ANTÍDOTO**... é por isso que eu estava dizendo: **os elétrons vão todos querer ser plantas ao invés de seres humanos, porque seres humanos têm consciência, planta não tem... NESSE PONTO AÍ, A PÍLULA AZUL DA NÃO CONSCIÊNCIA É UMA BÇÃO [bênção]**" — ⚠️ o espelho exato da RC-192 (a azul como conformidade): aqui a azul opera como VARIAÇÃO RETÓRICA INVERSA, sem conflito estrutural (a Devolutiva O-4) — a pílula azul protege o simples; a vermelha desperta o capaz.
+- **[P2023-06-24 · O ESTACIONAMENTO]** "só a falsa sensação de que a zona de conforto nos dá paz — não dá... é um desconforto, **porque não há evolução, não há potenciais sendo despertos**... mas **o ERRO PRODUZ NOVAS PROTEÍNAS**" (a ponte com RC-056).
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
