@@ -1,0 +1,39 @@
+CAMADA 0 — INVENTÁRIO DO ARTEFATO (B050 Guia das Eras Universais — Mapa)
+
+ARTEFATO
+- Arquivo: original.pdf (cópia byte a byte de uploads_recepcao/Guia-das-Eras-Universais-Mapa.pdf, upload do curador — commit 2afd37f)
+- SHA-256: c6d6ef7314689105df473b541931f68c6be66459531aff337276c743794a7275
+- 3.946.685 bytes · 1 página · 3436,39 × 2449,94 pt (formato A0 paisagem)
+- Criado: Adobe Illustrator 26.1 (Macintosh) · Adobe PDF library 16.04 · 30/05/2023 12:57:31 (UTC−3)
+- Metadado /Title: "A0 TL" (formato do papel + abreviação de "timeline")
+- Crédito impresso: "© Jan Val Ellam" (canto inferior direito, cinza)
+
+NATUREZA DO CONTEÚDO (diferente de todos os ciclos anteriores)
+- INFOGRÁFICO de 1 página: não há texto corrido, mas TEXTO VETORIAL (298 spans).
+- EXTRAÇÃO: pypdf 6.16.2 (visitor_text → posições) + PyMuPDF 1.28.2 (dict → spans com cor/fonte; drawings → geometria).
+  SEM OCR (desnecessário: 100% do texto é vetorial). Nada interpolado.
+- GEOMETRIA: 3.060 desenhos vetoriais (2.673 preenchimentos + 386 traçados) — espinhas de
+  trilha verticais coloridas, caixas de evento (vermelho-tijolo com texto branco para os
+  eventos fundadores das eras), réguas de escala logarítmica na faixa central.
+- LIMITAÇÃO DECLARADA: o Agente não possui visão de imagem neste ambiente — a leitura do
+  mapa foi feita pela RECONSTRUÇÃO ANALÍTICA da camada vetorial (posições + cores + geometria),
+  que é FIEL ao arquivo (é o próprio conteúdo embutido, não interpretação visual).
+
+ESTRUTURA RECUPERADA
+- Título: "Linha do Tempo da Revelação Cósmica" (61pt, vermelho)
+- Marco fundador: "Início do universo - Big Bang" (43pt)
+- 4 trilhas verticais (A demo/antimaterial · A2 famílias biodemo+vida na Terra · B Terra/humanidade ·
+  C pré-história/mito · D recorte histórico), cada uma com escala logarítmica própria
+  ("1: 500 milhões" até "1: 100"; D usa "(t= anos)" com marcos "2.000 A.P / 2.000 D.C.")
+- Segmentos superior/inferior por trilha, separados pela faixa central de réguas; leitura em serpente.
+- AS ERAS no rodapé das trilhas A e B: I Solidão (13,8–13,3 bi) · II Geração (13,3–11,6) ·
+  III Punição (11,6–10,6) · IV Impasse (10,6–9,5) · Z Vishnu/Eros (9,7–9,5) ·
+  V Lila e Aceitação (9,5–8,1) · VI Semeadura Universal (8,1–6) · VII Refino (6–presente)
+- 143 eventos datados (13,3 bi a.p. → 2015 d.C. + marco "T=0")
+- Período destacado na trilha C: "Influência E.T e demodhármica (30 mil a.p. a 12 mil a.p.)"
+
+ARQUIVOS DA CADEIA
+- original.pdf (o artefato) · original.txt (transcrição estrutural + cronologia unificada)
+- analise/METADADOS-INGRESSO.json · camada-0.txt (este) · camada-1.txt (spans brutos posicionais)
+- camada-2.txt (reconstrução por trilha) · camada-3.txt (cruzamento com a malha RC)
+- analise/LEITURA-1-MACROESTRUTURA.md · analise/DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md

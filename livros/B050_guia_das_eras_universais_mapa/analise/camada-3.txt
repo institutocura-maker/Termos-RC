@@ -1,0 +1,103 @@
+CAMADA 3 — CRUZAMENTO DO MAPA B050 COM A MALHA RC (777 termos)
+
+1. A PEGADA DA B050 NA MALHA (antes deste ciclo)
+- A B050 JÁ ESTÁ CATALOGADA na BIBLIO (status `trabalhada`) — este ciclo = MATERIALIZAÇÃO FÍSICA
+  (o upload do PDF) + VERIFICAÇÃO, no rito do B031.
+- 16 termos já citam B050 nas fontes (8 com ficha):
+  RC-036 Biodemos [F] · RC-049 Demos [F] · RC-094 Revelação Cósmica (conceito) [F] ·
+  RC-099 Seres Terrenos · RC-102 Shiva (Savna) [F] · RC-145 Zeus [F] · RC-155 Eras da Criação (10 eras) [F] ·
+  RC-395 Ragnarok em Marte [F] · RC-396 Kvasir e Freya (Vanir/Aesir) · RC-397 Tirthankaras ·
+  RC-398 Thuata de Dannan · RC-399 Dwarka (submersa) · RC-400 Foz Côa / FOXP2 [F] ·
+  RC-401 Família Demolle (biodemos) · RC-402 Halos de Poder (demos) · RC-403 Colegiado Druídico
+- 8 relações com fonte B050.
+
+2. NOMES DO MAPA × TERMOS DA MALHA (espelho — o mapa é SÍNTESE de fontes já digeridas)
+- Cósmico-demo: Savna=RC-102 · Mavatma=RC-504 (Adyadvaivatma) · Mohen So=RC-081/282 ·
+  Fenvans=RC-064 · Brahma/Brajna=RC-037 · Shiva=RC-102 · Javé=RC-001 · Sophia=RC-009 ·
+  Codificador de Zion/Olm=RC-252 (Zian=RC-146) · Trimurti=RC-104 · Vishnu/Mavatna=RC-135 ·
+  Eros=Vishnu=RC-286 · Lila=RC-075/315 · Talm=RC-080/091 · Nidana=RC-154 · Gron=RC-062/018 ·
+  Urano/Gaia/Odin/Thor/Kvasir/Vanir/Aesir/Ragnarok=RC-395/396 (e RC-470 Midgard=Marte+Terra)
+- Famílias biodemo: Demolle=RC-401 · Cromon=RC-444 · Mion=RC-443/074 · Shanlun→Shanlung=RC-491 ·
+  Yel=RC-136/078 · Val=RC-109 · biodemos=RC-036
+- Terra/humanidade: Hiperbórea=RC-068 · Atlan=RC-028/010/029 · Mastlans=RC-079 · Shamb-Aha=RC-101 ·
+  Benem=RC-032 · Espherian=RC-057 · Orbum=RC-085 · Capela=RC-039 · Antares=RC-021 ·
+  Exilados de Capela=RC-007 · Nefilim=RC-516 (hibridização) · Anunnakis=RC-024 ·
+  Kalil Kadmon=RC-299 · Pandora=RC-086/283/285 · Prometeu=RC-301 · Zeus=RC-145 ·
+  Deucalião/Pirra=RC-298/303/304 · Seth=RC-594/766 · Caim=RC-490 · Adão/Eva=RC-424/189 ·
+  Enoch=RC-412/424 · Moisés=RC-750 · Apolônio de Tiana=RC-259 · Jesus=RC-072 ·
+  Ravana=RC-582 · Mahabharata=RC-593 · Pashupati=RC-669 · Mahavira/Tirthankaras=RC-397 ·
+  Foz Côa/FOXP2=RC-400 · Dwarka=RC-399 · Thuata de Dannan=RC-398 · Eras=RC-155/156/157/158/159/168...
+
+3. NOMES DO MAPA SEM TERMO PRÓPRIO NA MALHA — classificação (O-3/O-4 do dossiê)
+- VARIAÇÕES GRÁFICAS já cobertas (jamais criar): Nephilim→Nefilim (RC-516) · Espheriam→Espherian
+  (RC-057) · Hiperbóreo→Hiperbórea (RC-068) · Shanlun→Shanlung (RC-491) · Thirtankara→Tirthankara
+  (RC-397) · Rivail→Kardec (RC-190, sem ficha) · Brahmaloca→Brahmaloka (RC-106) ·
+  Chronus/Cronos/Themis/Minemosine/Oceano→titãs (RC-465 Asuras=Titãs; satélites) · Kapila→grafia
+  canônica da lista de regras (não é termo) · sirianos→Sírius (contexto RC-021?) · Val Ha→localidade
+  Val (RC-109 contexto)
+- FIGURAS HISTÓRICAS/MÍTICAS EXTERNAS (quarentena, NÃO cadastrar — Navalha): Salomão · Alexandre
+  Magno · Qin Shi Huang Di · Maomé · Boécio · Jan Huss · Templários · Cruzadas · Júlia Domna ·
+  Homero · Hesíodo · Lao Tse · Zoroastro · Siddartha Gautama · Confúcio · Tales · Pitágoras ·
+  Noé/Cam/Jafé/Sem · Matsya · Rishabh Dev (dentro de RC-397) · Jorgamungand/Remdel/Thor/Odin
+  (personagens do eixo nórdico — RC-395/396 como umbrella) · Toba · Pangeia (ciência)
+- ELEMENTOS SEM TERMO (potenciais, decisão é do curador — sugestão: ABSORVER, não criar):
+  o período "Z" (Vishnu/Eros 9,7–9,5 bi) · os numerais ordinais das famílias (168332ª Cromon,
+  199741ª Mion, 216265ª Shanlun, 247898ª Yel, 249314ª Val) · "T=0" (Apolônio e Jesus Cristo) ·
+  "Ardenianos" · "Astlatame/Astlan" · as naves Mastlans (RC-079 cobre) · "6029 biodemos"
+
+4. CONFIRMAÇÕES (o mapa valida a malha — datas idênticas às fontes digeridas)
+- Inquietação de Yel Luzbel 742 mil ✓ (B031 p. 108) · Rebelião 687 mil ✓ (B031/B057) ·
+  Chegada dos 736 Val nas 3 naves 619 mil ✓ (B031 p. 108: Asphezian/Espherian/Espheron) ·
+  Hibernação 606/600 mil ✓ · Grande Conflagração Antares 532 mil ✓ (RC-021) ·
+  Yel Luzbel vem para a Terra 98 mil ✓ (B057 p. 19) · base Atlan ✓ (RC-028) ·
+  As 7 eras transcorridas com âncoras IDÊNTICAS ao B024 cap. 16 (via RC-155): Solidão 13,8–13,3 ·
+  Geração 13,3–11,6 · Punição 11,6–10,6 · Impasse 10,6–9,5 · Lila 9,5–8,1 ✓✓ (conversão
+  "anos após o início" → "a.p." bate perfeito) · fechamento dos portais dez/2012 ✓ (B024: RC-155) ·
+  Ragnarok em Marte ✓ (RC-395) · Kvasir/Freya ✓ (RC-396) · Experiência Gron ✓ (RC-062) ·
+  Demolle 2ª família ✓ (RC-401) · Halos de poder 7 bi ✓ (RC-402) · Colegiado druídico ✓ (RC-403)
+
+5. DIVERGÊNCIAS E ANOMALIAS DETECTADAS (registrar, absorver — O-4)
+- **13,8 × 13,7 bi**: o mapa abre em 13,8 (Big Bang; régua "13,8 bilhões") = B024/B033 (linha
+  PRIMÁRIA de Ellam) e B088; o 13,7 é de B031 (RaquYel) e B089 (M. H. Kummer). A raiz da
+  divergência da escola está entre PRIMÁRIA (13,8) e segunda mão (13,7) — inverte a nota do
+  ciclo B031, que via o 13,7 como "a raiz".
+- Semeadura/Refino: mapa VI 8,1–6 / VII 6–presente × B024 (RC-155) 5,7–7,2 / 7,2–13,8 "após o
+  início" = 8,1–6,6 / 6,6–presente → divergência de 0,6 bi na virada VI/VII.
+- "Surge Sophia, o primeiro biodemo (6 bi)" × a malha (Sophia = Cristo Cósmico, avatar de Vishnu,
+  "Pai dos Capelinos" — B057; criador das famílias capelinas). LEITURA DO MAPA — registrar como
+  variação, jamais fundir (a hierarquia Sophia RC-009 é intocável).
+- Numerações ordinais das famílias (168332ª Cromon em 710 mi; 249314ª Val em 230 mi) × B057
+  ("~250 mil famílias capelinas, de 900 mi a 230 mi"): COERENTE entre si (a última ≈ 250 mil ✓),
+  mas os ordinais são dado novo do mapa (Cromon 168332ª ≠ a ordem cronológica 3ª de B057? — a
+  Demolle é "2ª família" no mapa e a malha não numera). Absorver como nota.
+- Kvasir 4,8 bi e Urano/Odin ~5 bi (trilha A) × morte de Kvasir 290–280 mi e Ragnarok em Marte
+  300 mi (trilha A2): o mapa usa o eixo nórdico em duas camadas — coerente com RC-395/396.
+- "Morte de Val Ellam no Hiperbóreo (17 mil)" — Val Ellam (RC-120, o ser) MORTO: leitura a
+  registrar (quarentena; a ficha de RC-120 está pendente).
+- Grafias do artefato preservadas (sem corrigir a voz): "algorítmo" (erro) · "Moises" ·
+  "evoluidos" · "possuiam" · "Thirtankara" · "Shanlun" · "Luciferiana" (naves) · "Sirilanka" ·
+  datas mistas (a.p./a.C./d.C./"T=0") · "Kapila (aproximadamente séc. VII a.C. ou séc. VIII d.C.)"
+  (erro evidente de século — preservar).
+- A nota da BIBLIO referencia "cronologia-B050.md" — arquivo INEXISTENTE no repositório
+  ([REVISAR]: este ciclo o materializa como original.txt, 143 eventos; a nota diz "~142" —
+  contagem real 143).
+
+6. NOVIDADES DE CONTEÚDO (eventos/datos não registrados na malha — só com Devolutiva)
+- Kalil Kadmon surge no evento do Toba: "Surge Kalil Kadmon (Pandora)" (74 mil) — cross RC-299/B089!
+- "Zeus usa Pandora para atingir Prometeu (52 mil)" — cluster Pandora/Olimpo (RC-145/301/086).
+- "Fim da Lila/Trimurti (2015 d.C.)" · "Len Mion/Satã é retirado do ambiente astral terreno (1993)"
+  · "Yel Luzbel é retirado do ambiente astral terreno" + "Apolônio e Jesus Cristo (T=0)" —
+  marcos do PRESENTE (pós-2012) na trilha D.
+- "Atenção trimurtiana move o Brahmaloka para o Hiperbóreo na Terra (200 mil)" — o Brahmaloka
+  MOVIDO para a Terra (cross RC-106/RC-068).
+- "Contato com os 9 Val situados em Val Ha (183 mil)" · "Construção da cidadela de Benem, através
+  do sucateamento de Espheriam (392 mil)" + "instalação do processador Val em Espherian" —
+  as naves viram cidades (cross RC-032/057/089).
+- "Processador Val detecta uma consciência Val na geração de Zeus e duas na de Poseidon (68 mil)"
+  (cross RC-089/145) · "Encontro dos Val com sirianos (520 mil)" · "Chegada de naves desconhecidas
+  para os Val (214 mil)".
+- "Completada a Experiência Gron (19.700)" / "Início da experiência Gron (22 mil)" (RC-062 —
+  datas precisas!) · "Fim das mortes de biodemos no Hiperbóreo (14 mil)" · "Início das mortes de
+  biodemos no Hiperbóreo (19 mil)".
+- Os quantitativos: 374 Guardiões En Drel · 6029 biodemos nas Mastlans · 40.000 humanoides em
+  4 grupos (60 cm a 2 m) · 28 Val mortos na hibernação · 9 consciências Val · 366 livros de Enoch.

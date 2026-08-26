@@ -1,0 +1,17 @@
+{
+  "obra": "B050 — Guia das Eras Universais (Mapa): Linha do Tempo da Revelação Cósmica",
+  "arquivo": "original.pdf",
+  "sha256_pdf": "c6d6ef7314689105df473b541931f68c6be66459531aff337276c743794a7275",
+  "bytes": 3946685,
+  "paginas": 1,
+  "formato_pt": "3436,39 x 2449,94 (A0 paisagem)",
+  "criador": "Adobe Illustrator 26.1 (Macintosh)",
+  "produtor": "Adobe PDF library 16.04",
+  "data_criacao": "2023-05-30T12:57:31-03:00",
+  "titulo_interno": "A0 TL",
+  "spans_texto": 298,
+  "creditos": "© Jan Val Ellam (canto inferior direito)",
+  "titulo_no_mapa": "Linha do Tempo da Revelação Cósmica (61pt, vermelho)",
+  "extracao": "pypdf 6.16.2 (visitor_text) + PyMuPDF 1.28.2 (dict/drawings) — texto vetorial, sem OCR",
+  "upload": "commit 2afd37f (branch arena/01a03ad8-termos-rc, 2026-08-26)"
+}

@@ -1,0 +1,180 @@
+CAMADA 2 — RECONSTRUÇÃO ESTRUTURAL POR TRILHA (leitura posicional)
+Método: agrupamento dos spans por faixa de X (trilha) e ordenação por Y.
+Eventos = blocos de linhas com Y contíguo (<=20pt). Estrutura do artefato preservada.
+
+==========================================================================================
+TRILHA A — UNIVERSO DEMO/ANTIMATERIAL (coluna esquerda)  (60 spans)
+==========================================================================================
+  y=  114.3 | 500 milhões de anos iniciais sem pensamentos. (13,3 bilhões a.p.)
+  y=  153.1 | Brahma domina partes desgarradas,que passam  a compô-lo. (12,9 bilhões de anos a.p.)
+  y=  201.0 | Savna mergulha na singularidade imperfeita e imanta-se a um anjo-clone. / Passa a procurar uma forma de ajudar Brahma. (Aproximadamente 12,17 bilhões a.p.)
+  y=  266.8 | Surge estirpe En Drel, 374 Guardiões de Javé. (10,84 bilhões a.p.)
+  y=  313.1 | Mavatma mergulha, aplica a força atrativa nos seres anti-materiais. (Aproximadamente 9,7 bilhões a.p.)
+  y=  360.3 | Surge Morus. (Aproximadamente 9,6 bilhões a.p.)
+  y=  403.5 | Desaparecimento de Morus. (8,2 bilhões a.p.)
+  y=  447.3 | Surge Mohen So, criador dos Fenvans. (7,8 bilhões a.p.)
+  y=  498.2 | Abertura de portais entre os universos material e antimaterial. (7 bilhões a.p.)
+  y=  545.3 | Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)
+  y=  590.2 | Início do universo - Big Bang
+  y=  626.6 | Linha do Tempo da Revelação Cósmica / Primeiras mortes de demos, / geração de Odin. (5 bilhões a.p.)
+  y=  707.5 | Kvasir: Urdido da combinação / da genética dos Vanir com a / dos Aesir. (4,8 bilhões a.p.)
+  y= 1118.3 | I / II / III / IV / Z / V / VI
+  y= 1167.9 | 1: 500 milhões
+  y= 1222.2 | 13,8 bilhões
+  y= 1342.5 | Surge a água no planeta Terra. / Surge o Nidana ("molécula-mãe). / Primeiras moléculas que já / possuiam câncer. (3,8 bilhões a.p.)
+  y= 1436.9 | Planeta Terra. (4,6 bilhões a.p.)
+  y= 1479.7 | Entropia passa a se intensificar sobre o / universo material. (4,7 bilhões a.p.)
+  y= 1539.6 | Nascimento do nosso Sol. (4,7 bilhões a.p.)
+  y= 1579.1 | Urano e Gaia criam a segunda geração de titãs / (Oceano, Themis, Chronus, Minemosine...). / (6 - 5 bilhões a.p.)
+  y= 1667.3 | Halos de poder usados para estabilizar a forma física / dos demos. (7 bilhões a.p.)
+  y= 1723.7 | "Início" do projeto Talm. (7,7 bilhões a.p.)
+  y= 1765.8 | Demos falidos, sem possibilidade de se multiplicar. (8 bilhões a.p.)
+  y= 1823.0 | Estrelas de terceira geração passam a produzir elementos / mais pesados. (Ca, Fe, Mg e C).(8,2 bilhões a.p.)
+  y= 1889.2 | Brahma pune os rebelados e acidentalmente inicia a / história demo. (11,3 bilhões de anos a.p.)
+  y= 1948.9 | Brahma passa a mexer no algorítmo mestre para replicar / partes diferenciadas. Shiva corta uma das cinco cabeças / de Brahma. (11,6 bilhões de anos a.p.)
+  y= 2028.3 | Anjo clone "especial" de Javé engendrado. / (12 bilhões de anos a.p.)
+  y= 2164.0 | I / Era da Solidão (13,8 a 13,3 bilhões de anos  a.p.)
+  y= 2203.5 | II / Era da Geração (13,3 bilhões a 11,6 bilhões de anos a.p.)
+  y= 2243.0 | III / Era da Punição (11,6 a 10,6 bilhões de anos a.p.)
+  y= 2282.5 | IV / Era do Impasse (10,6 a 9,5 bilhões de anos a.p.)
+
+==========================================================================================
+TRILHA A2 — FAMÍLIAS BIODemo + VIDA NA TERRA (sub-coluna)  (30 spans)
+==========================================================================================
+  y=  617.5 | Primeiras famílias de biodemos. (932 milhões a.p.)
+  y=  690.2 | Segunda família biodemo, chamada Demolle. (834 milhões a.p.)
+  y=  727.6 | 168332ª família biodemo, chamada Cromon. (710 milhões a.p.)
+  y=  769.2 | 199741ª família biodemo, chamada Mion. (690 milhões a.p.)
+  y=  804.0 | Peixes macho e fêmea. Já possuíam características de / presa e predador. (540 milhões a.p.)
+  y=  857.6 | 216265ª família de biodemos, Shanlun. (506 milhões a.p.)
+  y=  901.1 | 247898ª família de biodemos, Yel. (492 milhões a.p.)
+  y=  940.4 | Ardenianos na Terra. (450 milhões a.p.)
+  y=  981.4 | Vida saiu do mar (anfíbios). (420 milhões a.p.)
+  y= 1019.4 | Pangeia começa a se dividir. (250 milhões a.p.)
+  y= 1056.0 | 249314ª família de biodemos, Val. / (230 milhões a.p.)
+  y= 1167.0 | 1: 100 milhões
+  y= 1206.5 | 1 bilhão / 100 milhões
+  y= 1509.3 | Primeiros mamíferos (pequenos ratos). / (190 milhões a.p. - 80 milhões a.p.)
+  y= 1575.8 | Surgem os dinossauros na Terra. (230 milhões a.p.) / 4ª grande extinção dos seres vivos. (225 milhões a.p.)
+  y= 1640.8 | Morte de Kvasir (290 milhões a 280 milhões a.p.)
+  y= 1691.9 | Ragnarok em Marte, uma explosão que acabou com a / atmosfera e diversas formas de vida do planeta. / Morte de Odin, Thor,Remdel e Jorgamungand / (300 milhões a.p.)
+  y= 1789.4 | Primeira leva de répteis na Terra. (355 milhões a.p.)
+  y= 1836.2 | Kvasir e Freya  em busca dos Titãs banidos por Cronos. / (450 milhões até 290 milhões a.p.)
+  y= 1900.9 | Surgem insetos na Terra. (480 milhões a.p.)
+  y= 1960.1 | Explosão cambriana. Seres pluricelulares (540 milhões a.p.)
+
+==========================================================================================
+TRILHA B — TERRA/HUMANIDADE (coluna central)  (90 spans)
+==========================================================================================
+  y=  103.4 | Início do processo de quase implosão da condição demo de Brahma. / (8 milhões a.p. até 3,5 milhões a.p.)
+  y=  159.7 | Entropia começou a romper as estruturas dos / "caminhos e portais de encontro". (4 milhões a.p.)
+  y=  216.2 | Primeira leva de humanoides, preparados para a vida na Terra, / instintivos, sem "luz da razão". (3 milhões a.p.)
+  y=  265.9 | Quatro grupos de humanoides, (40.000 no total, com altura de 60 cm a 2 m) / resultantes de múltiplas experiências são trazidos para a Terra, / como teste final de adaptação. (1 milhão a.p. - 950 mil a.p.)
+  y=  332.0 | Chegada de seres "mais evoluidos", na Terra, de diversas origens planetárias. / Objetivo de edificar um portal cósmico multidimensional.  (800 mil a.p.)
+  y=  385.1 | Nos mundos rebelados começa a "educação" de seres por temor / a castigos impostos por "Deus". (700 mil a.p.)
+  y=  437.4 | Começo da "rebelião de Yel Luzbel". Resultou nos mais devastadores / conflitos do sistema de Antares. (687 mil a.p.)
+  y=  496.0 | Começo das tentativas de hibernação dos Val.(606 mil a.p.)
+  y=  535.9 | Grande Conflagração, no sistema de Antares e / outros, com muitos biodemos mortos (532 mil a.p.)
+  y=  594.8 | Nephilim bíblicos na África e Mesopotâmia.(450 mil a.p.)
+  y=  632.3 | Surgem Humanos. (aproximadamente 300 mil a.p.)
+  y=  674.7 | Chegada de naves desconhecidas para os Val. (214 mil a.p.)
+  y=  714.7 | Yel Luzbel com as naves Mastlans transportando 6029 biodemos, / vem para a  Terra, sendo este o último planeta rebelado. 98 mil (a.p.)
+  y=  767.7 | Encontro entre família Val e Yel. / Na base luciferiana Atlan (81 mil a.p.)
+  y=  817.9 | Erupção do monte Toba causa cataclismos / que fazem com que o quartel-general luciferiano / repense sua situação na Terra.  (74 mil a.p.) / Surge Kalil Kadmon (Pandora).
+  y=  900.2 | Processador Val detecta uma consciencia / Val na geração de Zeus e duas na / de Poseidon. (68 mil a.p.)
+  y=  961.6 | Conflitos entre  seres dos portais, / Nephilim e mastlan luciferiana que / foi destruída. (67 mil a.p.)
+  y= 1023.7 | Destruição de bases e ilhas no Pacífico. / Astralização de alguns biodemos como / Yel Luzbel e Len Mion para Shamb-Aha. / (64 mil a.p.)
+  y= 1119.3 | VII
+  y= 1164.4 | 1: 10 milhões / 1: 1 milhão / 1: 50 mil / 1: 5 mil
+  y= 1203.0 | 10 milhões / 1 milhão / 100 mil / 50 mil
+  y= 1291.1 | Ascensão de Zeus como "rei" / dos demos. (100 mil a.p.)
+  y= 1333.1 | Surgem os antropoides, / precursores de humanos e / macacos. (22 milhões a.p.) / Contato com os 9 Val situados / em Val Ha (183 mil a.p.)
+  y= 1394.4 | Extinção dos dinossauros. / Mamíferos passam a "dominar" / a Terra. (66 milhões a.p.) / Deuses Olimpianos. (380 mil a.p.) / Atenção trimurtiana move o Brahmaloka / para o Hiperbóreo na Terra. (200 mil a.p.)
+  y= 1484.8 | Construção da cidadela de Benem, através do / sucateamento de Espheriam. (392 mil a.p.) / Posterior instalação do processador Val em Espherian.
+  y= 1556.2 | Mortes de 28 Val na tentativa de saírem da hibernação. / (461 mil  a.p.) 9 consciências Val que morreram em / 599 mil  a.p. fazem contato através do processador Val.
+  y= 1634.5 | Sinais de rebeldes são captados pelos Val. (467 mil a.p.)
+  y= 1675.2 | Encontro dos Val com sirianos. (520 mil a.p.)
+  y= 1722.3 | 690 Val entram em hibernação, logo 46 ficam operativos. (600 mil a.p.) / Val operam fora das naves, 9 mortes, sobram 37 operativos. (599 mil a.p.)
+  y= 1788.4 | Chegada, na Terra, dos primeiros exilados, desencarnados e E.T, como / os 736 Val nas naves Asphezian, Espherian e Espheron. (619 mil a.p.)
+  y= 1850.6 | Início da inquietação de Yel Luzbel, no sistema de Capela. (742 mil a.p.)
+  y= 1897.8 | Val El é convidado para participar da escola do Codificador de Zion. / Sophia tenta construir um portal na Terra. (aproximadamente 1 milhão a.p.)
+  y= 1956.9 | Morte o Anjo Clone de Javé em Orbum,sistema de Capela, na Via Lactea. / Sophia vai investigar. Começo da "depressão" de Brahma. (4 milhões a.p.) / Início do colegiado do Codificador de Zion (4 milhões a.p.)
+  y= 2031.9 | Quase implosão pessoal de Brahma, enfraquecido pela disputa / da Trimurti. (5 milhões a.p. - 4 milhões a.p.)
+  y= 2074.0 | Zeus usa Pandora para atingir Prometeu. (52 mil a.p.)
+  y= 2164.0 | Z / Período da influência avassaladora de Vishnu/Eros (9,7 a 9,5 bilhões de anos a.p.)
+  y= 2203.5 | V / Era da Lila e da Aceitação (9,5 a 8,1 bilhões de anos a.p.)
+  y= 2243.0 | VI / Era da Semeadura Universal  (8,1 a 6 bilhões de anos a.p.)
+  y= 2282.5 | VII / Era do Refino da Semeadura Universal  (6 bilhões a.p. até o presente)
+
+==========================================================================================
+TRILHA C — PRÉ-HISTÓRIA E MITO (direita interna)  (62 spans)
+==========================================================================================
+  y=  451.3 | Ravana passa a se concentrar em Brahma para obter / fórmulas de poder. (30 mil a.p. até 25 mil a.p.)
+  y=  512.3 | Raças semibiológicas no hiperbóreo. (30 mil a.p.)
+  y=  562.7 | Adão e Eva bíblicos. (23 mil a.p.)
+  y=  609.9 | Seth, terceiro filho do casal Adão e Eva bíblicos. (22 mil a.p.)
+  y=  661.4 | Início do fechamento dos portais. (20 mil a.p.)
+  y=  710.6 | Dwarka submersa. (19 mil a.p. )
+  y=  755.2 | Antes desse marco a promessa dos avatares era / para anunnakis e sirianos. Depois passou a ser para / os humanos. (16 mil a.p.)
+  y=  831.0 | Devastações, dilúvios e hecatombes na Terra. (14 mil a.p.)
+  y=  869.4 | Descendentes de Caim, sobreviventes  de / Astlatame e Astlan, chegam na América do Sul / (região do lago Titicaca), (13 mil a.p.)
+  y=  943.0 | Colegiado druídico. (13 mil a.p.- 9 mil a.p.)
+  y=  979.0 | Dilúvio bíblico. Noé, Cam, Jafé e Sem / chegam no mar Cáspio, "recriam" a escrita. / (9 mil a.p. - 8 mil a.p.)
+  y= 1047.8 | Surgimento da escrita / segundo o  establishment / científico atual. (6261 a.p.)
+  y= 1165.9 | 1: 2,5 mil / Influência E.T / e demodhármica. / ( 30 mil a.p a / 12 mil a.p.) / 10 mil / 1: 500 / (5800 a.p.) / Sumérios.
+  y= 1248.1 | Período do / Mahabharata. / (7 mil a 5 mil a.p.)
+  y= 1312.6 | Matsya conversa com Noé. / (9 mil a.p.  8 mil a.p.)
+  y= 1367.2 | Rishabh Dev, primeiro dos / Tirthankaras. Fundou o Jainadharma. / (8765 a.p.)
+  y= 1460.5 | Primeiros acampamentos na região que / formaria a Grécia. (12 mil a.p.)
+  y= 1511.2 | Início das calamidades que deram fim / a "civilização atlante". (14 mil a.p.) / Fim das mortes de biodemos no / Hiperbóreo. (14 mil a.p.) / Thuata de Dannan chegam a região da / Irlanda do Norte. (14 mil - 15 mil a.p.)
+  y= 1626.7 | Tempo de Enoch. Já existia escrita, deixou / 366 livros. (16 mil a.p.)
+  y= 1676.2 | Morte de Val Ellam no Hiperbóreo. (17 mil a.p.)
+  y= 1704.9 | Início das mortes de biodemos no Hiperbóreo. / (19 mil a.p.)
+  y= 1751.3 | Completada a Experiência Gron. (19.700 a.p.)
+  y= 1788.5 | Estátua de Pashupati, no Sirilanka. (20 mil a.p.)
+  y= 1824.8 | Início da experiência Gron. (22 mil a.p.)
+  y= 1856.8 | Terra passa por vários dilúvios e microdilúvios. / Hiperbóreo é atingido. (23 mil a.p.)
+  y= 1902.7 | Fósseis encontrados, em Foz Côa com o gêne FOXP2. / (entendimento de símbolos). (30 mil a.p.)
+  y= 1954.9 | Período do Ramayana. (32 mil a.p até 15  mil a.p.)
+  y= 1990.2 | Pandora faz a transição de fase. (48 mil  a.p.)
+  y= 2021.9 | Humanos inteligentes e despertos. (48 mil a.p.) / Zont En Drel vem para a Terra "guardar" o jardim-laboratório. (48 mil a.p.)
+
+==========================================================================================
+TRILHA D — HISTÓRIA RECORTE (direita externa)  (56 spans)
+==========================================================================================
+  y=  466.4 | Moises. (3200 a.p.)
+  y=  509.3 | Construção do templo do Rei Salomão. (1015 a.C.)
+  y=  552.2 | Jina Mahavira. 24°A Thirtankara. (2600 a.p.) / Expulsão dos Annunnakis da Terra, por En Drel e outros sob / comando de Javé. (2600 a.p.)
+  y=  630.2 | Alexandre Magno. (356 a.C.)
+  y=  672.3 | Imperador Qin Shi Huang Di, grande queima de arquivos na China. (2235 a.p.)
+  y=  713.5 | Romanos dominam a Grécia. (2168 a.p.)
+  y=  758.0 | Destruição do templo do Rei Salomão. (70 d.C.)
+  y=  802.3 | Boécio. (480 d.C.)
+  y=  848.0 | Maomé. (576 d.C.)
+  y=  890.5 | Ordem dos Templários. (1117 d.C. a  1307 d.C.)
+  y=  931.6 | Começam as Cruzadas. (1064 - 1069 d.C.)
+  y=  975.8 | Jan Huss. (1369 d.C.)
+  y= 1015.1 | Prof. Rivail. (1804 d.C.)
+  y= 1054.6 | Fim do fechamento dos / portais. ( 2012 d.C.)
+  y= 1139.8 | (t= anos)
+  y= 1165.5 | 1: 200 / 1: 100
+  y= 1193.4 | 2.000 A.P / 2.000 D.C. / Fim da Lila/Trimurti. (2015 d.C.)
+  y= 1312.2 | Len Mion/Satã é retirado / (1993 d.C.) / do ambiente astral terreno.
+  y= 1382.2 | Primeira universidade do mundo, no Cairo. (988 d.C.)
+  y= 1418.4 | Início da expansão do Islã. (711 d.C.)
+  y= 1456.7 | Igreja católica e Concílio de Nicéia. / (aproximadamente 316 d.C. e 325 d.C.)
+  y= 1511.2 | Júlia Domna (313 d.C. e 325 d.C.)
+  y= 1550.1 | Yel Luzbel é retirado do ambiente astral terreno. / Apolônio e Jesus Cristo. (T =0)
+  y= 1603.7 | Grandes mestres como Lao Tse, Zoroastro, Siddartha Gautama, / Confúcio, os pré-socráticos,Tales de Mileto e Pitágoras. / (2600 a.p - 2495 a.p.) Os moldes da sociedade atual nascem em / Atenas. Gregos rompem o "medo" de deuses.
+  y= 1682.5 | Hesíodo, fala da Teogonia dos deuses primordiais. (2700 a.p.) / Pouco antes desse período surge o alfabeto grego.
+  y= 1727.9 | Homero, fala da cosmogênese dos titãs. (2772 a.p.) / Kapila. (aproximadamente séc. VII a.C. ou séc. VIII d.C.)
+  y= 1775.6 | Zeus não conseguia mais engravidar humanas,para gerar / semi-deuses que enfrentavam titãs. (4000 a.p. - 3000 a.p.)
+  y= 1830.2 | Guerra de Tróia. (3422 a.p.)
+  y= 1865.7 | E.T.s perceberam que não dominariam a Terra. (3500 a.p.)
+  y= 1903.1 | Início do obscurantismo intelectual imposto por religiões. (4000 a.p.)
+  y= 1939.8 | Antigo Egito. (4198 a.p.)
+  y= 1974.5 | Grandes civilizações gregas, como os Pelásios da / Arcádia, duraram quase 1600 anos. Tinham construções semelhantes / às dos Toltecas. Cicládios, Dóreos e Minóicos na ilha de Creta. (5000 a.p.)
+  y= 2044.8 | Dilúvio de Deucalião e Pirra. (6000 a.p. / - / 5000 a.p.)
+  y= 2085.8 | Javé dá a ordem para os humanos ficarem sozinhos na Terra. (5100 a.p.)
+  y= 2219.1 | © / Jan Val Ellam
+
