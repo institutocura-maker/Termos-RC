@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-06-03 — Os Bastidores da Ressurreição de Jesus
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **8 fichas ampliadas** (RC-565 a biografia do Verbo; RC-366 o embate no Tabor; RC-104 o colapso 2018 — o [REVISAR] "20171" RESOLVIDO; RC-005/RC-682 a identificação das vindas; RC-479 a literalidade de Bartolomeu; RC-474 a etimologia + os orixás; RC-072 o não-cumprimento) + RC-280/RC-189/RC-375 no pacote (sem ficha — o precedente) · **11 vínculos** · **A APOSTILA LAVRADA** (13 PARTES; a retenção política com precisão cirúrgica — o "capital judaico" BANIDO sumário; a teológica massiva com a mecânica genética blindada; Jaynes/microtúbulos/Emoto como chaves de leitura didáticas) · **a BIBLIO de B081 antedatada para 03/06/2023 (edição manual)** · pasta em `apostilas/CONCLUIDAS/` (46 apostilas). **A CORRENTE TEMPORAL DE JUNHO/2023 SELOADA.**
 
 ## 1. Identificação
 
