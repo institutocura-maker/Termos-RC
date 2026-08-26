@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum (B087 e B088 fechados em 2026-08-25 — trilogia Pandora ⅔ completa). **Próximo: B089 *Os Anunnaki e a Disputa pela Genética de Pandora*** (PDF já em `uploads_recepcao/` — fecha a trilogia), na ordem do curador.
+`B089_pandora_3_anunnaki_disputa_genetica_pandora/` — ingresso + leitura integral (108 págs — o maior da trilogia) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; sem prefácio de Ellam — paratexto triplo com texto de Mana Helena Kummer). **Fonte nova** (0 termos citavam B089) — 3º ciclo de vinculação: clusters Pandora/Olimpo **+ ANUNNAKI**. Decisão pendente: as fichas de **Témis** e **Ares** (ganharam densidade — palavra da Devolutiva B088).
 
 Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 

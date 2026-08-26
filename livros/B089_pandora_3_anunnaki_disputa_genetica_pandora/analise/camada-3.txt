@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B089_pandora_3_anunnaki_disputa_genetica_pandora/original.txt
+
+SHA-256 f4b10b0b320266723cbaaaa73725d8240d6cf4b482d12095c6286d4dd47a0605
+251.244 bytes · ~40.411 palavras · 108 págs. (o maior volume da trilogia; referência = página do PDF; TOC quebrado)
+**2 págs SEM TEXTO (59 e 85)** — em branco no PDF. Sem \x00. Sem marca d'água. Nada interpolado.
+**EDIÇÃO RECEBIDA:** "Corrigido e Adaptado por Gullan Greyl" (http://www.gullangreyl.pt; 10-05-2022) — português europeu; metadado PDF: autor "Gallian Greyl" (o adaptador), título em branco, producer "Adobe PDF Library 21.7.123" (criação 10-05-2022).
+Voz: psicografia em 1ª pessoa de **Pandora** (voz isolada) + o PARATEXTO TRIPLO: CITAÇÃO (Nietzsche, p. 5) + NOTA DA AUTORA TERRENA (Jeane, pp. 6–8 — com a Trimurti "decaída") + **"ALGUMAS CONSIDERAÇÕES SOBRE A PANDORA" de MANA HELENA KUMMER (pp. 9–11 — "baseado nos ensinamentos de Jan Val Ellam"; doutrina RC densa: Kadmon, "Falaia Charis", Astreia/Despina, Deucalião, 13,7 bi anos)** + epígrafes de capítulo (Fernando Pessoa, Ricardo Reis ×3, Alberto Caeiro, Shakespeare ×3, Nietzsche ×2, Martin Luther King Jr.).
+Notas de rodapé: cross-refs aos Livros 1 e 2 (caps. 11, 13 ×2, 15); **a definição Wikipédia de Anunnaki (nota 1 p. 63)**; a nota de "genótipo" com URL corrompida (p. 75: "htrps://wvwbiologianet.com" — BiologiaNet).
+ANOMALIAS do artefato: as 2 págs em branco (59, 85); o trecho corrompido p. 74 ("«o cuco vemos está me orientando"); a URL corrompida; **13,7 bi anos (Kummer) × 13,8 bi (B088)** — divergência interna da série.
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).
