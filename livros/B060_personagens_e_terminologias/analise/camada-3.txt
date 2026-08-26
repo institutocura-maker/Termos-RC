@@ -1,0 +1,47 @@
+CAMADA 3 — O LEVANTAMENTO DE APROVEITAMENTO (o cruzamento com a malha RC)
+
+PERGUNTA DO CURADOR: "ver se tem algum Personagem ou alguma relação entre eles que possa ser aproveitada?"
+
+1. O QUE A MALHA JÁ DIGERIU (a fundação usou este PDF como fonte — 67 termos citam B060)
+- Hermes Trismegisto = Ningishzidda/Thoth/Quetzalcóatl/Viracocha (RC-463 [F], cita "B060, p. 2") ✓
+- Inanna = Danu (RC-464) · Moiras/Nornes/Parcas (RC-467 [F]) · Bebida dos Deuses (RC-466) · Bifrost (RC-471 [F])
+- Midgard = Marte+Terra (RC-470 [F]) · Oannes (RC-462) · Tridevi Sarasvati/Lakshimi/Parvathi (RC-457/458/459)
+- As Sefirahs (RC-675–680) · Kether=Javé (RC-261) · Daath (RC-262) · Planos da Cabala (RC-264) · Khorsis (RC-469)
+- Elm/Moros (RC-454 [F]): ser LM de Tempérion + a cadeia avatárica PRINCIPAL já gravada com fonte B060
+  (relações com RC-071 Ellam, RC-190 Kardec, RC-436 Heber, RC-396 Kvasir) + Vyasa (RC-585, "vinculado-ao-espírito")
+- Yel Am/Yel Liam = Judas (RC-138, cita B060) · Astréia (RC-027) · Despina (RC-051) · Maitreya (RC-481)
+- Os 9 Val dos Corpos Perdidos (RC-110–RC-131, fontes B031) — TODOS com termo
+- Javé = Prabrajna/Prajapati/Brajna com ~18 equivalentes (RC-001/RC-037/RC-468 Ein Sof...)
+- Trimurti (RC-104) · Vishnu=Mavatna (RC-135) · Shiva=Savna (RC-102) · Pandoraa=Val Dimon (RC-086 variação RC-118, fonte B020!)
+- Universo Antimaterial/Material (RC-106/RC-107) · Metatron (RC-671) · Kama (RC-622) · Vyasa (RC-585) · Pashupati (RC-669) · Ishvara (RC-691)
+
+2. ⚠️ AS RELAÇÕES QUE FALTAM (os elos propostos pelo documento e AUSENTES das 1.852 relações) — CANDIDATAS
+   [verificadas uma a uma contra RELACOES]
+- **RC-027 Astréia ↔ RC-116 Val Bon** — NÃO existe. O documento: "Astréia: Val Bon (Biodemo da família Val); Astréia (Grega-Olimpiana, filha de Zeus e Têmis)".
+- **RC-051 Despina ↔ RC-112 Val Anen** — NÃO existe. O documento: "Despina: Val Anen (Biodemo da familia Val); Despina (Grega, filha de Poseidon e Deméter); Monachikós; Monisi".
+- **RC-299 Kalil Kadmon ↔ RC-118 Val Dimon** — NÃO existe (o elo que falta no triângulo: RC-086 variação RC-118 [B020 ✓] e RC-299 variação RC-086 [B021 ✓]). O documento: "Pandora: Val Dimon (Biodemo da família Val); Kalil Kadmon (Grega-Olimpiano filho de Zeus); Pandora (após a transição de fase de Kadmon)" — e acrescenta a GENEALOGIA "filho de Zeus".
+- **RC-481 Maitreya ↔ RC-092 Olm/Quarto Logos** — NÃO existe. O documento lista Maitreya como avatar FUTURO de Olm ("Senhor Maitreya (Cabala Judaica-ainda virá)"). ⚠️ DIVERGÊNCIA: a ficha RC-481 (fontes B061/P2021-03-27) diz Maitreya "forma adiágena de Vishnu" — B060 diz avatar de Olm. Registrar, jamais fundir.
+- **RC-129 Val Pen = Rochester** — NÃO existe relação (Rochester SEM TERMO na malha). O documento traz a CADEIA COMPLETA de encarnações de Rochester: "Val Pen (Biodemo da família Val); Astartos (tempo do imperador romano Tibério); Caio Lucilius (180 a.C., poeta satirista); Faraó Mernephtah (o Faraó do Êxodo, séc. XIII a.C.); John Wilmot (1647, Conde de Rochester); Lotário de Rabenau; Parashara (Hindu, pai de Vyasa)". ⚠️ Rochester é personagem do título do B009 (obra de Ellam: "a ligação entre Kardec, Ramatis e Rochester") — a cadeia é OURO para a futura ficha.
+
+3. OS CONTEÚDOS AMPLIÁVEIS (para fichas existentes — só com Devolutiva)
+- **RC-454 (Elm/Moros) [F]:** a lista completa dos avatares do documento com os nomes QUE FICARAM DE FORA da ficha: **Apantharatamas** ("nome de Enoch no Hinduísmo"), **Hude** ("Islã — nome de Heber"), **Metraton** ("múmia de Enock"), **Niccolo Polo** (1230, pai de Marco Polo), **Nicius**, o **Sacerdote do Faraó Mernephta** (nome ??), o **Aluno de Platão** (nome ??) — e a grafia **"Ealm"** do documento (variante de Elm; a ficha registra Elm). Nota: Boécio e Kapila já estão na ficha ✓ (e Boécio aparece no MAPA B050, trilha D!).
+- **RC-104 (Trimurti) [F]:** as **8 TRÍADES comparativas** do documento: Celta (OGNI-THYRÉ-TEUT) · Ogdoade/Egito (TENEMUNET-KEK-NUN; e a feminina TENEMUNET-KEKT-NAUNET) · Egípcia (ATOM-TEFNUT-CHEFNUT) · Sefirahs (KETHER-BINAH-CHOKMACH) · Grega (CAOS-TARTAR-EROS) · Tríade Imortal (RC) · Tridevi (SARASVATI-PARVATHI-LAKSHIMI) · Triglav Eslava (SVAROG-PERUN-SVENTOVIT) · Triunvirato Universal (RC).
+- **RC-102 (Shiva) / RC-135 (Vishnu):** os avatares exóticos — Shiva: Sai Baba de Shirdi (1838–1918), Sathya Sai Baba (1926–2011), Shankaracharya, Kalki, Rama, Ogo (Dogon), Bava/Brida/Hara. Vishnu: **Ahura Mazda** (Zoroastrismo) + as **7 Amesa Espenta**, **Baphomet** (Trácia), **Nommo** (Dogon), Kurma, Matsya, Audumbla, "Verbo (Evangelho de João)", "Deus executivo/Feitor de Javé (conceitos enoquianos)".
+- **RC-001/RC-037 (Javé/Brahma):** as equivalências EXÓTICAS não registradas: **Eru Ilúvatar (Tolkien!)**, **Omama (Yanomami)**, **Amma Talu (Dogon)**, **Kaaguem (Bosquinamos Sam)**, Dashbog (Noé, Eslava), Svarog, Ymir, Tenemu — todas como LEITURA de terceiros (quarentena; Tolkien = referência cultural).
+- **RC-106/RC-107 (universos):** as equivalências druídicas **Hyren (antimaterial) / Hyron (material)** — ⚠️ cross com B085 *Hyren-Hyron: Universos em Colisão* (sem PDF)! — + Niflheim, Prav, Yotukara/Hutukara (Yanomami), Musphelheim como material, Svargi (Olimpo).
+- **RC-464 (Inanna):** Ishtar (Acadiana) na cadeia (sem ficha — registro no pacote).
+
+4. OS NOMES SEM TERMO (decisão de curadoria — sugestão: NÃO criar, absorver)
+- Rochester (personagem-título do B009 — o único caso discutível; a cadeia de 7 encarnações ficaria no pacote/futura ficha)
+- Sai Baba de Shirdi / Sathya Sai Baba (biográfico-religioso — quarentena) · Shankaracharya · Boécio (histórico; já citado no mapa B050 e na ficha RC-454) · Niccolo Polo · Nicius · Apantharatamas · Hude · Mernephtah · Ahura Mazda (dentro da ficha de Vishnu) · Baphomet (sensível — quarentena) · Nommo · Kurma · Matsya · Eru Ilúvatar (Tolkien — cultural) · Omama/Amma Talu/Kaaguem (antropológico) · Talassa/Sémele/Latona/Maia/Métis (genealogias olímpicas externas) · Thânatos/Mors · Dashbog · Ishtar (variação de Inanna) · Veles/Perun/Audumbla/Sventovit (eixo eslavo dentro das fichas de Shiva/Vishnu/Zeus)
+
+5. GRAFIAS E ANOMALIAS DO ARTEFATO (preservar, registrar)
+- "Perperion" × Perpérion (RC-087) · "Tempérion" ✓ (RC-472) · "Mavatina" × Mavatna (RC-135) · "Brajna" × Brajna/Brajna? (RC-037 é "Brahma (Brajna)") · "Ealm" × Elm (RC-454) · "Pashvnaj" ✓ · "Romama" (erro: Romana) · "Gregra" (erro: Grega) · "Hndu" (erro) · "Sifirah" × Sefirah · "Lakshimi" ✓ (grafia da malha!) · "Vulcano (Romama)" · "Kardek" × Kardec (RC-190) · "Metraton" × Metatron (RC-671) · "1.804"/"1.647"/"1.230" (pontos de milhar em datas) · "Ninhasarg" × Ninhursag? (RC-461 Ninmah) · "Odim" × Odin · "Nidogue" × Nidhogg · "Tartar" × Tártaro · "Chefnut" × Tefnut? (o doc usa CHEFNUT como equivalente de Vishnu e TEFNUT como de Shiva — INVERSÃO a registrar) · "Musphelhein" × Muspelheim · "interdimencional" (erro) · "Prabajna" × Prabrajna (RC-152!) — o doc usa Prabajna/Prajapati/Brajna.
+- ⚠️ CHEFNUT/TEFNUT: o doc lista "Chefnut" entre os equivalentes de VISHNU e "Shu/Tefnut" entre os de SHIVA — e na Tríade Egípcia "ATOM-TEFNUT-CHEFNUT". A Ogdoade: Tefnut é umidade/Seca? Registrar sem corrigir a voz.
+
+6. QUARENTENAS (o documento inteiro é leitura de terceiro)
+- Mediumística/terceiros: "PROVÁVEIS imantações/encarnações" — o título avisa; equivalências = leitura do aluno, hierarquia inferior às obras primárias.
+- Religiosa/biográfica: Sai Babas, Shankaracharya, Baphomet, Ahura Mazda, os avatares hindus.
+- Cultural: Tolkien (Eru Ilúvatar) — referência literária, jamais ontologia.
+- Antropológica: Dogon (Amma Talu, Ogo, Nommo), Yanomami (Omama, Yotukara/Hutukara), Bosquinamos Sam (Kaaguem) — registro etnográfico de terceiros.
+- Teológica: Javé=Alá=Caos=Ein Sof... (a cadeia de equivalentes do Criador).

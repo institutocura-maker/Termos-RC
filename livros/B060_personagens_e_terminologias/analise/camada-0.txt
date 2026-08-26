@@ -1,0 +1,19 @@
+CAMADA 0 — INVENTÁRIO DO ARTEFATO (B060)
+
+- Arquivo: original.pdf (cópia byte a byte de uploads_recepcao/PERSONAGENS DA REVELAÇÃO CÓSMICA 5.pdf — upload do curador, commit 02012dd)
+- SHA-256: f49e952972763e779a57cf3b13a628b92c86785d993a97f0e28fc58cdc51e291 · 172.483 bytes · 9 páginas
+- Autor do documento (metadado Word): Luís Eugênio Paulino de Mendonça · 25/08/2022
+- Título interno: "PERSONAGENS E TERMINOLOGIAS DA REVELAÇÃO CÓSMICA, ALGUMAS DE SUAS PROVÁVEIS IMANTAÇÕES/ENCARNAÇÕES E AS VARIAÇÕES DOS NOMES CONFORME AS MITOLOGIAS"
+- O "5" no nome do arquivo (PERSONAGENS... 5.pdf) — versão/item do acervo do curador; o documento não se autodenomina "5".
+
+NATUREZA
+- Dicionário alfabético de equivalências mitológicas (Grega, Romana, Hindu/Védica, Nórdica, Egípcia, Cabala, Celta, Eslava, Zoroastrismo, Dogon, Yanomami, Tolkien...) + fichas de eons com listas de avatares.
+- OBRA SECUNDÁRIA de terceiro (aluno avançado); o título avisa: "PROVÁVEIS imantações/encarnações" — LEITURA, não fato ontológico.
+- A BIBLIO da B060 (status `trabalhada`) JÁ descrevia este PDF (9 págs) e a fundação o usou como fonte (67 termos citam B060; fichas citam "B060, p. N"). OBS. da nota: "arquivo antigo/desatualizado segundo o usuário; grafias variantes (Perperion × Tempérion; Mavatina × Mavatna)".
+
+ESTRUTURA (9 págs)
+- pp. 1–5: verbetes alfabéticos (Afrodite → Olm)
+- pp. 5–8: os grandes eons com avatares (Olm, Pandora, Parvathi, Rochester, Sarasvati, Shiva/Savna, Vishnu/Mavatina)
+- pp. 7: a lista das TRÍADES universais (8 tríades comparativas)
+- pp. 2: os 4 NÍVEIS da Espiritualidade (Faixas Existenciais do Paraíso; Cabala)
+- pp. 8–9: universos (Antimaterial/Material com equivalências: Daath, Hyren/Hyron, Niflheim, Yotukara...) e os últimos verbetes (Yel Luzbel, Zeus)

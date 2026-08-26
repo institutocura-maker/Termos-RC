@@ -1,0 +1,14 @@
+{
+  "obra": "B060 — Personagens e Terminologias da Revelação Cósmica: Equivalências entre mitologias",
+  "arquivo": "original.pdf",
+  "sha256_pdf": "f49e952972763e779a57cf3b13a628b92c86785d993a97f0e28fc58cdc51e291",
+  "bytes": 172483,
+  "paginas": 9,
+  "autor_documento": "Luís Eugênio Paulino de Mendonça (aluno avançado de Ellam)",
+  "criador": "Microsoft Word para Microsoft 365",
+  "data_criacao": "2022-08-25T15:56:49-03:00",
+  "titulo_interno": "PERSONAGENS E TERMINOLOGIAS DA REVELAÇÃO CÓSMICA, ALGUMAS DE SUAS PROVÁVEIS IMANTAÇÕES/ENCARNAÇÕES E AS VARIAÇÕES DOS NOMES CONFORME AS MITOLOGIAS",
+  "upload": "commit 02012dd (branch arena/01a03ad8-termos-rc, 2026-08-26)",
+  "extracao": "pypdf 6.16.2 (extract_text por página)",
+  "observacao": "A nota BIBLIO da B060 já descrevia este PDF (9 págs) — a fundação da base o usou como fonte (fichas citam 'B060, p. N'). Este ciclo = MATERIALIZAÇÃO da fonte + verificação + o levantamento de aproveitamento."
+}
