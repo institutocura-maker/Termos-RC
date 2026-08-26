@@ -42,6 +42,12 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 - **[B036 p. 19]** José e Moisés; o “enviado” (Jesus) “jamais assumiu o papel ajustado” — **quarentena teológica**; não ontologizar nações modernas.
 - **[B036 p. 75]** Enoch: “primeiro humano que construiu uma opinião própria a meu respeito, num certo sentido crítico, mas sem me criticar”; viu que Javé “atormentava” os eleitos. RC-270 / RC-423 permanecem **sem ficha**. Sem fusão com B013.
 
+
+## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+
+- **[P2023-09-09 · BRAHMA DESALMADO — o mecanismo escolhidos × avatares]** "**Brahma é um ser desalmado. Por isso, Brahma nunca pôde criar um avatar.** Vishnu e Shiva não caíram. Eles mergulharam de forma organizada... Mas Brahma caiu, ele apartou-se da sua alma" → Brahma "chegava para um membro [das espécies] e dizia: 'Olha, **você é o meu escolhido** e eu vou lhe apoiar... Se outros chegarem dizendo que são avatares de outros deuses, eu garanto que **eu vou enfermizar a vida deles**'" — o mecanismo: os ESCOLHIDOS de Brahma × os AVATARES de Vishnu/Shiva.
+- **[P2023-09-09 · Enoque e Adão]** "Javé levou Enoque desse universo pro outro... para avisar a turma da terra que Enoque agora **seria o escolhido de Javé**, que iria comandar os humanos para enfrentar os avatares que... Shiva estava desenvolvendo lá na Índia" [com "Maricandã" — REVISAR]; e "há 23.000 anos, Javé... **escolheu um Adão e nele inoculou o que restava do seu genoma** para que através de Adão surgisse uma descendência que representasse Javé".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

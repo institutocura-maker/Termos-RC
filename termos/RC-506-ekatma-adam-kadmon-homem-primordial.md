@@ -22,6 +22,11 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 - **[P2024-08-03] Kalil Kadmon → Adam Kadmon (U1416–U1417):** "disso veio o Adam Kadmon, que é outra história, mas que se misturou" — a cadeia Kalil Kadmon (nome demo de Pandora) → Adam Kadmon (Ekatma) → Pandora é narrada na palestra como passos da mesma dignificação (ver RC-086 e RC-299).
 
+
+## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+
+- **[P2023-09-09 · O PRIMEIRO ADÃO]** "desse análise de Phanes... emergiu **o primeiro Adão num forno de vida que foi construído por essa turma nesse nosso universo chamado Aingan [⚠ REVISAR — o forno; cross RC-499/RC-771]**... **esse primeiro Adão aqui não é o Adão da Bíblia, não. Esse aqui é um GIGANTE que foi construído na perspectiva de ser o primeiro molde, um modelo corporal que um dia poderia receber a correção de todas as doenças do corpo do criador no sonho de fazer com que um dia esse criador assumisse um eu desse tipo de modelo corporal**" (o Evangelho apócrifo de João; "eu já fiz uma palestra toda sobre isso") — o Primeiro Adão = o Adam Kadmon/Ekatma como o MOLDE de ressureição do criador.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

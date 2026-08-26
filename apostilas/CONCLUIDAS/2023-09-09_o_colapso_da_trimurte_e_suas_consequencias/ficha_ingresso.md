@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-09-09 — O Colapso da Trimurti e Suas Consequências
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Nenhuma ficha tocada. Pasta em `apostilas/` (sai para `CONCLUIDAS/` só depois da aplicação + apostila). **A 2ª PALESTRA DA NOVA FASE — a palestra-MATRIZ da "escola do colapso".**
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · 7 fichas ampliadas + RC-154 no pacote · 8 vínculos de fonte · **A APOSTILA LAVRADA** (o rito clássico com o dicionário STT aplicado; as quarentenas máximas: Hitler BANIDO da citação; autismo/homoafetividade sob quarentena clínica absoluta) · a nota da B041 (a série de NOVE) · pasta em `apostilas/CONCLUIDAS/` (39 apostilas).
 
 ## 1. Identificação
 

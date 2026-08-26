@@ -35,6 +35,14 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - **[P2023-11-19 · cap. 5.3]** a renovação: várias mentes "buscando ser dignas e **renovando as vrittis e os tattvas**" para a transformação — a via da limpeza.
 - **Devolutiva O-3: o termo Tattva NÃO ganha código — absorvido ESTRUTURADO nesta ficha** (o elo do meio da tríade). 0 códigos.
 
+
+## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+
+- **[P2023-09-09 · O CITTA = A COMPLEXIDADE IRREDUTÍVEL]** "O que nos faz humanos reside num conjunto de protocolos específicos engendrados sobre a égede [?] do que hoje chamamos de **complexidade irredutível**... essa complexidade irredutível foi chamada há cerca de 2.400-700 anos atrás por **Patanjali [STT 'Pantângele'] no yoga sutra como sendo um tipo de citta específica que existia no ser humano**" — a identificação CITTA = complexidade irredutível; a analogia da RATOEIRA ("só funciona com todas essas peças"); "essa central... é a joia do processo e é ela que precisa ser ressignificada e retrabalhada, porque **essa é a única complexidade irredutível que existe, que é útil à ressurreição do eu de Javé**".
+- **[P2023-09-09 · A ORIGEM: AS DUAS BEBERAGENS]** "**Pandora, há cerca de 49.000 anos, tomou umas poções [STT 'pelps'] que o Epimeteu [STT 'Pimeteu'] havia preparado. E depois, há 23.000 anos atrás, Eva... Não foi maçã... a química, a influência que a gente chama hoje de psicodélica** no cérebro desse homo sapiens que existe há 200.000 anos, ele levou **duas ondas de mexida há 49-48.000 e há 23.000 anos**. E aqui surgiu essa citta, esse centro cerebral... que envolve a **epífese, ou seja, a glândula pineal**" — quem "aprender a mexer nesse seu centro... consegue virar borboleta, levitar, andar sobre as águas".
+- **[P2023-09-09 · Osíris/Helena]** "na mitologia várias figuras... perdeu a cabeça e o resto do corpo, mas a cabeça continuava. Que história é essa? Complexidade irredutível" — o despachamento de Osíris/Helena [quarentena mitológica] como a mesma chave.
+- 0 códigos novos (O-3). Quarentena científica (a pineal/psicodélicos como leitura).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

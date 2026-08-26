@@ -154,6 +154,16 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2023-11-19 · cap. 4.3 + Q&A]** "A incapacidade de Sophia de assumir plenamente sua função é atribuída à **'discórdia dos demais arcontos'** [arcontes] e ao desvio de Jesus do papel de Messias violento, o que **'estragou todo esse plano'** da Trimúrti" — o legado em disputa e o herdeiro impedido (quarentena teológica: a leitura do papel de Jesus).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+
+- **[P2023-09-09 · o núcleo — A DISPUTA E O FIM]** "esses três seres [Brahma, Vishnu, Shiva] passaram quase 5 bilhões de anos discutindo dois assuntos: quem dos três havia criado [e] quem mandava aqui dentro... **a disputa... acabou no ano 2021**, agora, cerca de 13,8 bilhões de anos depois" — ⚠️ a data do fim da disputa interna (a malha: B018/B022; o mapa B050 "Fim da Lila/Trimurti 2015"; a P2024-11-09 "a implosão do eu de Javé 2021").
+- **[P2023-09-09 · o manicômio e o triunvirato]** "é como um manicômio em que os três principais doidos... tentam matar um ao outro, mas não conseguem... 'vamos fazer o seguinte, vamos criar aqui um triunvirato pra gente mandar nesse manicômio'" — **a origem da Trimurti como ACORDO de não-agressão** ("Ah, eles passaram a morar juntinhos como amigos. Nunca."); cada um ficou com 1/3 do universo vizinho.
+- **[P2023-09-09 · A FALÊNCIA DAS LOCAS]** "esse universo vizinho tem **mais de 5 milhões de locas** e cada loca tem um deusinho... hoje esses três seres se enfraqueceram a tal ponto que perderam o controle... **hoje tá tudo falido... ninguém tem mais força mental para sustentar aquilo**"; o universo vizinho "já acabou no sentido de que não tem mais massa de modelar".
+- **[P2023-09-09 · O COLAPSO EM 4 NÍVEIS — a resposta-mestra]** (1) **"Essa história começou a ser desenhada no ano 2007, quando a primeira colmeia aqui na Terra colapsou, sem maiores avisos"** (o "estresse extremo" dos cientistas, relatório 2014); (2) o universo vizinho ("como eu já contei no livro Inquisição Trimurtiana"); (3) "nos níveis espirituais da erraticidade planetária... cidades espirituais colapsando"; (4) a corrente do Golfo (os cientistas da ONU). E: **"o eu de Javé colapsou... Vishnu se desconstituiu, forçando o atributo a se desfazer para LIBERAR OS AVATARES porque eles tinham perdido o controle sobre os avatares"** — Vishnu "colapsou porque quis".
+- **[P2023-09-09 · o Q&A — a escolhambação]** "hoje é uma escolhambação... quando o vazio de comando, de poder impera o cada um por si, é algo tremendamente mais trágico ainda... A vinda de Hochmah [STT 'Rockma'] ou Sophia deve pôr em ordem algumas partes desse processo. As decisões que Krishna tomar ao longo dos próximos séculos também" — o pós-colapso: Hochmah/Sophia + Krishna.
+- 0 códigos novos (O-3). Quarentena científica (as colmeias/Golfo como leitura).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

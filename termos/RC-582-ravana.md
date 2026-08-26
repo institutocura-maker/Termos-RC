@@ -37,6 +37,12 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 
 - **[P2022-12-17 — FONTE ORIGINAL] Ravana (U0790–U0800):** "o sangue dos Rakshasas, de tanto, entre aspas, tomar sangue mamífero, terminou fazendo com que Ravana, que era um Rakshasa, se tornasse o ser mais forte dos dois universos. Olha o tamanho da confusão"; contexto dos tempos do Ramayana.
 
+
+## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+
+- **[P2023-09-09 · A ORIGEM DOS RAKSHASAS]** a ideia de Brahma: "vamos criar uma raça que numa loca que a gente controle... pegue o sangue dos mamíferos, porque deve estar no sangue o segredo do porquê dos mamíferos cuidarem uns dos outros... E essa a gente traz de volta e aqui a gente analisa" — os rakshasas [STT raquchaças] como os COLHEDORES DE SANGUE.
+- **[P2023-09-09 · RAVANA × ZEUS]** "surgiu entre os rakshasas uma figura chamada **Ravana, que... disse: 'Eu desafio vocês todos para a porrada'... Ravana deu uma surra em Zeus e Zeus já era rei dos reis na época**" — o embate (antes de Krishna); e os rakshasas "roubavam tudo" nos sacrifícios ("os deuses já estavam loucos por carne, os eflúvios da carne, sangue").
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

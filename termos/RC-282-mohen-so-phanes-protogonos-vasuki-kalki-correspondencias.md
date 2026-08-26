@@ -40,6 +40,15 @@ P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e n
 - **[B014 p. 29–34]** a cadeia Vishnu → Mohen So (direto) → Sophia (direto de Mohen So / indireto de Vishnu) → Jesus (avatar terreno) é o fio das correspondências; não fundir Phanes com Moros (higiene já na ficha).
 - **Quarentena:** Teologia Comparada de Ellam — não identidade histórica das mitologias. Sem código novo.
 
+
+## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
+
+- **[P2023-09-09 · A AUTÓPSIA DE PHANES — o mecanismo celular]** MOROS [STT "Boris"] "chegou [aos] três caras da Trimurte e disse: 'Ei, vocês aí... tá todo mundo doente aqui'" (a podridão ancestral, ~5 bi após o início); depois **Phanes "fez uma autópsia, uma espécie de autópsia, porque o corpo tava quase morto, mas não morto, de Brahma"** → "ele percebeu algo terrível: **cada uma das células do corpo do criador tinha uma doença específica. Aí ele obviamente percebeu que não tinha como existir uma cura para aquilo ali. E não tendo cura pro criador, não teria cura para ninguém dos que vivia lá."**
+- **[P2023-09-09 · O DOADOR DE VIDA]** "esse ser aqui, Phanes, que é o **doador da vida, segundo a visão do orfismo**... o ser mais importante desses deuses primordiais é Phanes, porque ele foi quem resolveu essa bronca. Mal ele aparece nas outras mitologias porque ele era incompreendido... **Zeus não aceitava essa versão**" (a época de Dionísio/Orfeu/Sileno).
+- **[P2023-09-09 · A ESTRATÉGIA DOS 10.000]** "não adianta pegar só um espírito para pegar aquela doença... **a gente tem que criar uns 1.000 a 10.000 espíritos e inoculá-los todos com uma mesma doença**... pelo menos um dia, um de nós, se autocure" — cada autocura = "uma peça do puzzle... que serve para ressuscitar o corpo quase defunto do criador".
+- **[P2023-09-09 · OS FENVANS]** "Quando esse ser chamado Phanes criou uma classe de seres que eu tô sendo obrigado a chamar de **Fenvan, porque é assim que eles se chamam** — espécie de demos daiva mais modernos — aí a aventura de trazer o Código do Criador de lá para cá começou a ser perseguida" (cross RC-064 ✓).
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
