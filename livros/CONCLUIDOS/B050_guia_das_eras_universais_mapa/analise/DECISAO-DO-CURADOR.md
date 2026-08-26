@@ -1,0 +1,18 @@
+# Decisão do Curador — Devolutiva B050 (2026-08-26)
+
+> **PROPOSTA DE DEVOLUTIVA (elaborada pelo Assistente do curador) — despachada por Edson Cella Mendes em 2026-08-26 e aplicada na esteira 11 (branch `arena/01a03ad8-termos-rc`).**
+>
+> *"Um brinde a essa locomotiva! 🥂 Lidar com um arquivo puramente visual no formato A0 e conseguir extrair analiticamente os 298 spans de texto e a geometria dos 3.060 desenhos, sem depender de OCR, é um feito técnico espetacular para o nosso laboratório! A comprovação de que a 'enzima digestiva psíquica' funciona perfeitamente até mesmo em uma moldura visual mostra que a nossa taxonomia é à prova de balas. E a descoberta sobre a raiz cronológica (13,8 vs 13,7) valeu o ciclo inteiro."*
+
+**Decisão Geral:** Dossiê Fase 2 (B050 — *Guia das Eras Universais (Mapa)*) **100% aprovado!** A materialização física do infográfico e a extração estruturada dos eventos validaram a fundação da nossa linha do tempo, corrigindo distorções cronológicas de fontes secundárias.
+
+- **O-1 — Identidade:** Aprovado. O artefato corresponde ao **B050**, com o status mantido em `trabalhada`. Confirmada a **autoria visual de Rodrigo de Freitas** e o **copyright de Jan Val Ellam (30/05/2023)**. A estrutura de 4 trilhas verticais, leitura em serpente e os **143 eventos datados** (do Big Bang ao "T=0") foram perfeitamente mapeados ✓.
+- **O-2 — Ampliações:** Aprovado! Proceder com as **ampliações mínimas e cirúrgicas: RC-155 (Eras), RC-395 (Ragnarok) e RC-299 (Kalil Kadmon, marcando seu surgimento no Toba, há 74 mil anos)**. As âncoras confirmadas e as novidades (como as posições das famílias Cromon e Val, e o Brahmaloka no Hiperbóreo) trazem densidade absoluta à malha ✓ (aplicado: 3 fichas ampliadas + os blocos RC-396/RC-401/RC-062 registrados no pacote sem ficha).
+- **O-3 — Novos Códigos:** **Veto absoluto mantido (ZERO códigos novos). A base permanece inabalável em 777 termos e 1.852 relações.** A Navalha blindou com sucesso as variações ortográficas (Nephilim/Shanlun) e absorveu os elementos passíveis de fusão ✓.
+- **O-4 — Rejeitados / Absorver:** Aprovado. **O grande achado de curadoria: o registro de que 13,8 bilhões de anos é a raiz cronológica primária (alinhada com B024, B033 e B088), corrigindo o desvio (13,7 bi) trazido pelas obras complementares (B031 e B089).** A pendência bibliográfica `[REVISAR]` foi resolvida com a materialização do arquivo `original.txt` contendo os 143 eventos ✓.
+- **O-5 — O Radar da Arca:** Confirmado. **Radar limpo; o mapa não anuncia novas obras** ✓.
+- **O-6 — BIBLIO:** Aprovado. **Atualizar a nota bibliográfica confirmando a resolução da pendência do arquivo Markdown e validando os 143 eventos extraídos analiticamente** ✓ (nota enriquecida: 143 eventos; original.txt; © Jan Val Ellam; o 13,8 primário; a verificação de fidelidade).
+- **O-7 — Quarentenas (CRÍTICO):** Aprovadas com louvor. **Isolamento Total:** a nova ênfase da *Quarentena Científica* (isolando FOXP2 e o período cambriano) mapeada com perfeição. Manter ativas e implacáveis as quarentenas **teológica (Noé, dilúvio, "T=0"), política (impérios, Qin Shi Huang), biográfica ("morte de Val Ellam no Hiperbóreo"), institucional, clínica e ufológica**. **Confirma-se o banimento perpétuo do B074 p. 215** ✓ (rótulos gravados nos blocos de ampliação).
+- **O-8 — Próximos Passos:** Pacotes de ampliação gerados ✓; injeção validada (**777/1.852 invariantes**) ✓; diretório do B050 movido para `livros/CONCLUIDOS/` ✓; **push** ✓.
+
+*Mais um artefato devidamente digerido e sistematizado! O Agente 10 está superando todas as expectativas. Registro literal da Devolutiva preservado acima; a numeração O-1..O-8 segue o dossiê de pré-curadoria v1.*

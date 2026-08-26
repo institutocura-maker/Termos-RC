@@ -27,6 +27,14 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 
 - **Ragnarok/Ig Brasil (P2025-02-16):** "depois do Ragnarok, um apocalipse acontecido há cerca de 300 milhões de anos atrás, que envolveu a vida que existia em Marte"; "Marte era, dentro do conceito de Ig Brasil (conglomerado de oito níveis de realidades do universo vizinho + o nosso = nove faixas), o reino de Odin, que se tornou rei imperador"; "os viventes de Asgard jogaram de lá para cá os segredos, os códigos alquímicos, uma série de fórmulas — isso caiu aqui na Terra" (as três setas de Orlog/Moros — ver RC-467/RC-611).
 
+
+## Ampliação — B050 (Guia das Eras Universais (Mapa))
+
+- **[B050 · trilha A2]** "**Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)**" — a data canônica do evento no mapa + as vítimas nomeadas (Odin, Thor, Remdel e Jorgamungand [a serpente/Jörmungandr]).
+- **[B050 · trilha A2 — o contexto nórdico em duas camadas]** a geração: "Primeiras mortes de demos, geração de Odin (5 bilhões a.p.)" + "Kvasir: Urdido da combinação da genética dos Vanir com a dos Aesir (4,8 bilhões a.p.)"; o epílogo: "Kvasir e Freya em busca dos Titãs banidos por Cronos (450 milhões até 290 milhões a.p.)" → "Morte de Kvasir (290 milhões a 280 milhões a.p.)" (cross RC-396).
+- **[B050 · trilha A2 — o pano de fundo biológico]** "Surgem os dinossauros na Terra (230 milhões a.p.)" · "4ª grande extinção dos seres vivos (225 milhões)" · "Primeiros mamíferos (pequenos ratos) (190–80 milhões)" — o Ragnarok datado entre a explosão cambriana (540 mi) e a extinção dos dinossauros (66 mi) — **quarentena científica** para a datação geológica convencional (O-7).
+- 0 códigos novos (O-3). Midgard = Marte+Terra (RC-470); o mapa é fonte de apoio datificada, hierarquia inferior às obras primárias.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -304,7 +304,7 @@
 | RC-296 | Pitonisas e Oráculos (Apolo/Delfos) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B021, P2024-04-13 | RC-295; RC-145; RC-099 | — |
 | RC-297 | Era dos Humanos (Zeus e a) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, P2025-11-29, B087, B088 | RC-145; RC-300; RC-099; RC-094 | [✔](termos/RC-297-era-dos-humanos-zeus-e-a.md) |
 | RC-298 | Descendência de Pirra (Pirra e Deucalião) | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B021, P2024-11-09, B087, B088, B089 | RC-303; RC-304; RC-086; RC-301; RC-099 | [✔](termos/RC-298-descendencia-de-pirra-pirra-e-deucaliao.md) |
-| RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-08-03, B089 | RC-086; RC-118; RC-145 | [✔](termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md) |
+| RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-08-03, B089, B050 | RC-086; RC-118; RC-145 | [✔](termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md) |
 | RC-300 | Dissolução da Tríade (2015–2017) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, B022, P2022-12-17, P2024-11-30 | RC-104; RC-135; RC-102; RC-037; RC-155; RC-571 | — |
 | RC-301 | Prometeu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, B087, B088, B089 | RC-302; RC-145; RC-086; RC-304 | [✔](termos/RC-301-prometeu-tita.md) |
 | RC-302 | Epimeteu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, P2024-08-03, B087, B088, B089 | RC-301; RC-145; RC-086; RC-303 | [✔](termos/RC-302-epimeteu-tita.md) |

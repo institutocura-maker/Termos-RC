@@ -30,6 +30,13 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[B089 p. 9 · paratexto de Kummer — QUARENTENA INSTITUCIONAL]** "**Ao nascer como um ser assexuado e já pronto para a vida, Kadmon, filho da titânide Themis (ou Témis) e de Zeus, o 'Rei do Olimpo', jamais imaginou que se tornaria a primeira mulher** da humanidade terrestre, a grande ancestral que, mais tarde, ficou conhecida como Pandora." — **a origem do nome-demo na psicografia** (paralela à revelação de B021).
 - 0 códigos novos (O-3). Texto de terceiros ("baseado nos ensinamentos de Jan Val Ellam") — **registro sem promover a paratexto autorizado** (O-1/O-7). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B050 (Guia das Eras Universais (Mapa))
+
+- **[B050 · trilha B — O SURGIMENTO]** "Erupção do monte Toba causa cataclismos que fazem com que o quartel-general luciferiano repense sua situação na Terra. (74 mil a.p.) **Surge Kalil Kadmon (Pandora)**." — o nome demo de Pandora SURGE no mapa logo após o Toba e o abalo do quartel-general luciferiano (a base Atlan: 81 mil; a chegada de Yel Luzbel: 98 mil) — o cross com B089 (a ficha já registra Kadmon pela trilogia Pandora) **agora com data**.
+- **[B050 · trilha B/C — os demais marcos Pandora do mapa]** "Zeus usa Pandora para atingir Prometeu (52 mil a.p.)" (trilha B) · "Pandora faz a transição de fase (48 mil a.p.)" (trilha C — no mesmo nível de "Humanos inteligentes e despertos" e "Zont En Drel vem para a Terra 'guardar' o jardim-laboratório", ambos 48 mil) — a sequência Kadmon (74) → uso contra Prometeu (52) → transição de fase (48) **ordena a biografia de Pandora no mapa** (cross RC-086/RC-145/RC-301).
+- 0 códigos novos (O-3). Zeus/Prometeu/Pirra: cluster já denso (B087–B089); o mapa só datifica — quarentena ufológica/teológica padrão (O-7).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

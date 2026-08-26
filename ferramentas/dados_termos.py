@@ -407,7 +407,7 @@ TERMOS = [
     ("RC-296", "Pitonisas e Oráculos (Apolo/Delfos)", COS_ESP[0], COS_ESP[1], P, ["B021", 'P2024-04-13'], "RC-295; RC-145; RC-099", False),
     ("RC-297", "Era dos Humanos (Zeus e a)", EVE_ERA[0], EVE_ERA[1], P, ["B021", 'P2025-11-29', 'B087', 'B088'], "RC-145; RC-300; RC-099; RC-094", True),
     ("RC-298", "Descendência de Pirra (Pirra e Deucalião)", GEN_HUM[0], GEN_HUM[1], P, ['B021', 'P2024-11-09', 'B087', 'B088', 'B089'], 'RC-303; RC-304; RC-086; RC-301; RC-099', True),
-    ("RC-299", "Kalil Kadmon (nome demo de Pandora)", SER_DEC[0], SER_DEC[1], P, ["B021", 'P2024-08-03', 'B089'], "RC-086; RC-118; RC-145", True),
+    ("RC-299", "Kalil Kadmon (nome demo de Pandora)", SER_DEC[0], SER_DEC[1], P, ["B021", 'P2024-08-03', 'B089', 'B050'], "RC-086; RC-118; RC-145", True),
     ("RC-300", "Dissolução da Tríade (2015–2017)", EVE_ERA[0], EVE_ERA[1], P, ['B021', 'B022', 'P2022-12-17', 'P2024-11-30'], 'RC-104; RC-135; RC-102; RC-037; RC-155; RC-571', False),
     ("RC-301", "Prometeu (titã)", SER_DEC[0], SER_DEC[1], P, ['B020', 'B021', 'P2025-02-16', 'P2024-11-09', 'P2025-06-14', 'B087', 'B088', 'B089'], 'RC-302; RC-145; RC-086; RC-304', True),
     ("RC-302", "Epimeteu (titã)", SER_DEC[0], SER_DEC[1], P, ['B020', 'B021', 'P2025-02-16', 'P2024-11-09', 'P2025-06-14', 'P2024-08-03', 'B087', 'B088', 'B089'], 'RC-301; RC-145; RC-086; RC-303', True),

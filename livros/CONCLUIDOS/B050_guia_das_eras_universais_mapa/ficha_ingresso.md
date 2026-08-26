@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B050 — Guia das Eras Universais (Mapa): Linha do Tempo da Revelação Cósmica
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila. **CICLO ESPECIAL: a MATERIALIZAÇÃO DA B050** (obra já catalogada — o rito do B031 aplicado a um INFOGRÁFICO).
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos. Pasta em `livros/CONCLUIDOS/`. Sem apostila. **CICLO ESPECIAL: a MATERIALIZAÇÃO DA B050** — verificação de fidelidade: as âncoras das eras são idênticas ao B024 cap. 16; **13,8 bi = a linha primária**; 143 eventos transcritos em original.txt (pendência do "cronologia-B050.md" resolvida).
 
 ## 1. Identificação
 
