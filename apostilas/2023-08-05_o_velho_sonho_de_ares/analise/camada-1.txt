@@ -1,0 +1,7 @@
+CAMADA 1 — O DOCUMENTO BRUTO
+
+O texto bruto integral está em ../original.txt (SHA d583a2c1...).
+Estrutura física: 104 linhas — o monólogo em DUAS PARTES (com o intervalo
+de 15-20 min marcado: "A gente vai fazer uma parada aí de 20 minutos") +
+o Q&A final (as perguntas da plateia — Nelson, T1, Teresa — e da internet).
+Nada interpolado; nada corrigido na voz bruta.
