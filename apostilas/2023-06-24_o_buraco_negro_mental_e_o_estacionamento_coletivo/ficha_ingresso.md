@@ -1,0 +1,31 @@
+# Ficha de Ingresso — P2023-06-24 — O Buraco Negro Mental e o Estacionamento Coletivo
+
+> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+
+## 1. Identificação
+
+| Campo | Informação |
+|---|---|
+| **Palestra** | *O Buraco Negro Mental e o Estacionamento Coletivo* — **P2023-06-24** (24/06/2023) |
+| **Natureza do material** | **TRANSCRIÇÃO STT BRUTA INTEGRAL** (~23,5 mil palavras; os megablocos monológicos L10/L13/L27/L36 + o intervalo do lanche + o Q&A da internet com 10 pergunteiros) |
+| **Recebido** | Upload do curador (commit `c95088b`) · 138.199 bytes · SHA-256 `3eb0fbda77c704b335f29743b836a992f9dd1dbc8eed384ece171b9ce11a018d` |
+| **Inédita?** | ✓ **SIM** — citada por ZERO termos |
+| **Slug** | `2023-06-24_o_buraco_negro_mental_e_o_estacionamento_coletivo` |
+| **A ANTEVÉSPERA** | A palestra da NOITE SEGUINTE é a P2023-06-25 (a palestra-Krishna, já engavetada): "a palestra que eu vou fazer AMANHÃ... entre o espírito que me anima e essa figura chamada Krishna ao longo dos últimos 5.000 anos" — o par sequencial das duas datas |
+
+## 2. A tese e as joias
+
+- **A TESE**: o buraco negro mental é **a invenção dos elétrons** — a resposta da memória deles ao lixo informacional: *"implodir o foco consciencial de quem produz mais m****"* para expulsá-los do palco primário da existência. **"Um dia vai receber um prêmio Nobel."**
+- **As joias**: **A CRONOLOGIA COMPLETA DO 1º CASO** (2017 o transporte à força → **2018 a implosão do eu de JAVÉ** → 2021 a confirmação; "o mais forte de todos foi o primeiro a implodir Cajabé, que terminou sendo mais frágil") + **os DOIS buracinhos seguintes na erraticidade** (figuras que FORAM humanas) · **A LENDA DE SAVNA** (o ser chamado Chiva antes do balão **divisou o ponto de inflexão** e por isso dosou a força tamásica — "vai ser até ali"; + **as leis que unem prótons e nêutrons**) · **O EU = CONECTOMA** (a bolinha quântica entre o espírito e o cérebro) · **ARCANO → EGRÉGORA** (Jung; Lula/Bolsonaro como egrégoras; "as egrégoras achando que são pessoas"; **JAVÉ REFÉM DE TODAS** — "sob a dessas egrégoras, ele padeceu") · **o RELATO 2017-2018** (o TRADUTOR de Javé levado à força; "Javé morreu, comemoremos" — o CAOS dos gregos) · **o ELÉTRON PRIMORDIAL interditado** (os NOVE livros que complementam B041) · **o MERGULHO NA ESCURIDÃO** (o livro a pedido de Javé, jamais concluído; 18.000 anos) · **o PROJETO IREN IRON** (B085 Hyren-Hyron: a gênese — recusado, depois ficção; a saga de 5-6 livros) · **a JOIA DA COROA EXISTENCIAL** (Enki+Pandora+Eva+Prometeu) · **a PÍLULA AZUL da não consciência como bênção** (o inverso da RC-192) · **LUZBEL** (1.020.000/700.000 anos; o que ele "começou a pensar" foi CONCLUÍDO pela rebelião) · **o Quarto Logos/APOLÔNIO** ("não pode se sujar"; a solução final) · **a ANTEVÉSPERA de Krishna**.
+
+## 3. INSTRUÇÕES ESPECIAIS
+
+- **⚠️ A QUARENTENA BIOMEDIÚNICA NO PONTO MÁXIMO**: o relato 2017-2018 (o transporte à força; o definhamento de Javé; a morte comemorada; o eu neutralizado "num horizonte de eventos" por consciências espirituais e DUAS ENCARNADAS) + a retrogradação (os dois nascidos no universo vizinho; o menino do WTC) + a parceria com Krishna de amanhã — **registro fenomênico, não ontologia**.
+- **+ TEOLÓGICA** ("creio em Deus nos moldes em que nós o fizemos é um TRANSTORNO MENTAL"; o fiat lux como "causa ontológica master") + **UFOLÓGICA** (Grusch/Elizondo/Greer/Lazar; Área 51; nazistas da Antártida; o governo que vendeu cidadãos) + **CLÍNICA** (a homoafetividade como mecanismo dos elétrons — a retenção) + **POLÍTICA** (os "istas"; Lula/Bolsonaro; Putin; as pentecostais).
+- **O STT**: Sávina/Sáven/Sábana/Sávna/Sávenna→**SAVNA** · Chiva→**Shiva** · Cajabé/Jah/Jaé/Javer→**Javé** · Bragna/Brajana/para Bragana→**BRAHMA (Brajna)** · susirania→**SUZERANIA** (B081) · Irém Iron→**HYREN-HYRON** (B085) · Keria Cumer→**KUMMER** · Warnh Hole→**WORMHOLE** · radiação rock→**RADIAÇÃO HAWKING** · tempo de plank→**PLANCK** · Cubers/Brcubber→**BRÁS CUBAS** · Mus to Death→**AMUSED TO DEATH** · Eric o Viking→**ERIK THE VIKING** · Polônia→**APOLÔNIO (de Tiana)** · discloser→**DISCLOSURE** · homofetatividade→**HOMOAFETIVIDADE** · anonaque→**ANUNNAKI** · Enk→**ENKI** · apimeteu/Pimeteu→**PROMETEU** · Schuman/chuma→**SCHUMANN** · Michel Caco→**MICHIO KAKU?** [REVISAR] · pelps→? [REVISAR] · + [REVISAR]: "Peti, Dioniso, Ramos", "Pexo", "uma vátima que veio a ser vígena", "Gerço" (= gerou?), "os demos" (= deimos?), "um saga no perfeito" (= um hexágono perfeito?), "BA 51" (= Área 51), "1981" (Lazar — 1989?), "bção" (= bênção), "animaisracionais" (= animais irracionais).
+- Nada antes da Devolutiva O-1..O-8.
+
+## 4. Verificação da IA (leitura 1 — integral, 74/74 linhas)
+
+- **A palestra conversa com**: RC-717 (O CENTRO!), RC-378/RC-161/RC-162/RC-636 (a família do elétron), RC-385/RC-711 (as egrégoras), RC-557/RC-719 (o conectoma e o eu), RC-725/RC-160 (as ilhas de negentropia), RC-056 (as proteínas), RC-514/RC-545 (o tikun e os coconstrutores), RC-092/RC-259 (o Quarto Logos/Apolônio), RC-078/RC-142 (Luzbel), RC-102/RC-409/RC-151 (SAVNA e a força tamásica), RC-513/RC-510/RC-106/RC-527 (a erraticidade, a blindagem, o universo vizinho), RC-284 (o CAOS dos gregos), RC-037/RC-041 (Brajna/Javé), RC-528 (o Mergulho), RC-189/RC-086/RC-727/RC-301/RC-486 (Eva/Pandora/Prometeu/Enki), RC-192 (a pílula azul!), RC-199 (a assinatura quântica), RC-414 (Krishna-amanhã), RC-009/RC-474 (Sophia/arcontes; B081), RC-426/RC-081/RC-413/RC-669 (os avatares), RC-381 (o campo mórfico), RC-163 (o biocosmos), RC-690 (o colapso), RC-522 (o encosto), RC-702 (a matrix), RC-036 (os biodemos).
+- **Novo para o curador (decidir)**: as ampliações-alvo (a sugestão: RC-717 o bloco-centro; RC-385 a tipologia arcano→egrégora; RC-557 o eu-conectoma; RC-102/RC-409 a lenda de Savna) + as notas BIBLIO de B085/B081 (edição MANUAL) + a apostila (o rito clássico; a ufologia e o relato biomediúnico sob as quarentenas).
