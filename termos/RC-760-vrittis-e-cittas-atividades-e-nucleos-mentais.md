@@ -43,6 +43,14 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 - **[P2023-09-09 · Osíris/Helena]** "na mitologia várias figuras... perdeu a cabeça e o resto do corpo, mas a cabeça continuava. Que história é essa? Complexidade irredutível" — o despachamento de Osíris/Helena [quarentena mitológica] como a mesma chave.
 - 0 códigos novos (O-3). Quarentena científica (a pineal/psicodélicos como leitura).
 
+
+## Ampliação — P2023-07-05 (O Despertar dos Potenciais da Consciência Pessoal)
+
+- **[P2023-07-05 · RAMANA MAHARSHI — o eu falso e o verdadeiro]** "Ramana Maharshi, um dos grandes mestres do pensamento indo, diz: **para além dos primeiros pensamentos e sentimentos que Rogério pensa que tem e com eles se confunde, para além disso tudo é que se encontra o verdadeiro EU.** ... esse eu [do primeiro impulso] é o eu falso... **Ninguém controla esse primeiro impulso.**" — e: **"99% do que se passa ao longo do dia no psiquismo de cada um de nós NÃO é produzido pela vontade**... É inevitável, não tem quem a detenha, **mas você pode sair do meio da correnteza, observá-la e despertar o seu eu profundo.**"
+- **[P2023-07-05 · O EXERCÍCIO DOS OLHOS FECHADOS]** "[Ramana] fechava os olhos e dizia: **'O que está por trás da escuridão dos meus olhos fechados?'** Com o tempo, deu duas respostas: (1) **por trás da escuridão reside um outro nível de realidade** — a realidade espiritual, quântica, interior; (2) **quem está por trás é EU MESMO** — não o Rogério que papai e mamãe nomearam, mas 'aquele mais profundo que despertou quando aprendi a não me deixar levar pelos impulsos'."
+- **[P2023-07-05 · a Dehātma-buddhi]** "nós estamos enjaulados... de má utilização da conjugação do verbo eu sou"; o STT "Derratma B" [≈ **Dehātma-buddhi** — a identificação com o corpo; a hipótese do curador na Devolutiva O-4] — o estado de quem "pensa que o eu dele está dentro do rádio falando".
+- 0 códigos novos (O-3). Quarentena cultural (Ramana Maharshi como referência).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
