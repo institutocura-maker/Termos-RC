@@ -22,6 +22,12 @@ A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraque
 
 - **[P2022-12-17 — FONTE ORIGINAL] A guerra nuclear Anunnaki (U0830–U0880):** "Marduk disse: 'Eu sou o suzerano da terra... de acordo com o pacto que foi feito na reunião dos clãs de Enki e de Enlil'"; "as sete armas atômicas que vieram de Nibiru pra Terra... Marduk e que Ninurta... sabiam onde estava"; "Javé... tentou colocar a guerra numa certa posição geográfica que beneficiasse os seus interesses de eliminar na Terra a genética que os Anunnakis haviam misturado lá atrás, no tempo de Jared... Por isso que as explosões foram todas em cima das cidades, cinco cidades das quais Sodoma e Gomorra fazem parte"; "eles explodiram as bombas nos vales do Sidim... o vento levou a onda radioativa das explosões para cima das cidades sumérias. Os Anunnaki se ferraram"; "Anu ficou p da vida... os Anunnaki perderam a capacidade de continuar a disputar com outras forças o domínio na Terra"; "só a partir desse ponto é que os Anunnaki, depois de 400.000 anos dominando a terra... ficaram fracos... ainda que eles pretendam voltar a ter importância".
 
+
+## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+
+- **[P2023-05-20 · O VALE DO SIDIM — O ERRO QUE CUSTOU A TERRA]** "esses seres cometeram um erro muito complicado... há cerca de 4.000 anos atrás, quando, devido a uma confusão dos descendentes de ENKI E DE ENLIL, ELES TERMINARAM EXPLODINDO BOMBAS EM CIMA DO VALE DO SIDIM, que envolve cinco cidades — as mais conhecidas: SODOMA E GOMORRA. **E O PRÓPRIO JAVÉ E OS ANJOS DE JAVÉ SE VALERAM DISSO** para o Javé dizer que era poder dele, coisa e tal — **MAS NUNCA FOI**" + "até hoje tem uma marca no solo, na Península do Sinai... **A VITRIFICAÇÃO QUE SÓ EXPLOSÕES NUCLEARES CAUSAM NO SOLO** — tem a camada vitrificada, tem tudo" + "**O VENTO LEVOU A POEIRA RADIOATIVA EXATAMENTE PARA CIMA DAS CIDADES aonde eles, os tais deuses sumérios, estavam estabelecidos... a partir daí eles PERDERAM A FORÇA TOTAL... E ESSA COISA TÁ DESARRUMADA ATÉ HOJE**" + "os Anunnaki AINDA TÊM ARMAS NUCLEARES. Não saltaram todas na época das explosões do Vale do Sidim" + **MARDUK morto**: "MARDUK, filho de Enlil, morreu numa confusão dessas [de sucessão de era zodiacal] — para ele dizer 'a partir de agora sou eu que mando na Terra e era' — mas aí mataram o [Marduk]".
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

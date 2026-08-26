@@ -41,6 +41,12 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[P2022-12-17 — FONTE ORIGINAL] Enoque (U0760–U0780):** "foi na época de Jared que os Anunnakis transaram com as mulheres. Mas Enoque, filho de Jared, surgiu com o DNA que era o mais próximo daquele que Javé pretendeu quando... inoculou Adão"; "com Enoque, Javé então decide retirar Enoque da terra, levá-lo pro universo vizinho, dar uma forma que Enoque suportasse viver também no mundo antimaterial [Metatron], fazer Enoque voltar para esse universo... ditar o filho dele, Matusalém, mais de três centenas de livros"; "Enoque não morreu aqui na Terra porque o DNA dele tava tão afinado com as intenções de Javé que ele tentou imortalizar Enoque para cada vez que ele quisesse, Enoque apareceria na terra como emissário dele".
 
+
+## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+
+- **[P2023-05-20 · O FINAL DOS TEMPOS DEFINIDO — A REDEFINIÇÃO]** "**O PRIMEIRO A UTILIZAR ISSO FOI ENOQUE, NUMA CONVERSA QUE TEVE NO UNIVERSO VIZINHO COM ANJOS E COM O PRÓPRIO JAVÉ.** E na época Enoque entendia esse final dos tempos como sendo um JULGAMENTO FINAL que aquele ser tinha dito que faria sobre todo mundo. **O QUE É QUE AQUELE SER, O CRIADOR JAVÉ, NÃO SABIA? É QUE ELE IRIA DESMAIAR, IMPLODIR, ENTRAR EM COMA ALGUNS DIAS ANTES DO FINAL DO FINAL DOS TEMPOS — QUE ELE MESMO, DE ONDE ELE ESTAVA, ELE SÓ PÔDE ENXERGAR ATÉ ALI E CHAMOU AQUILO DE FINAL DOS TEMPOS.** E final dos tempos é isso que a gente tá vivendo e vai viver mais ainda. **MAS NÃO É O FINAL DA VIDA** — pode ser da vida humana, ou de boa parte dos humanos" + [no Q&A, a confirmação:] "Javé desmaiou de novo?" — "**É A MESMA COISA, DESDE 2018, 2019. É O MESMO DESMAIO.** Não é o segundo desmaio, não. ESSE VAI DURAR UM BOM TEMPO."
+- 0 códigos novos (O-3 — a redefinição absorvida aqui conforme a Devolutiva).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

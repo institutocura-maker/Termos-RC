@@ -42,6 +42,14 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **[P2023-08-05 · as Flechas de Moros]** "uma outra história... que tem a ver com as setas ou Flechas de Moros terminaram concentrando aqui em Marte e na Terra todo o interesse dessa turma" (cross RC-611).
 - 0 códigos novos (O-3). Quarentena científica (as datações geológicas como leitura).
 
+
+## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+
+- **[P2023-05-20 · O RAGNAROK COMO CICLO PASSADO]** "o Ragnarok seria uma guerra que aconteceria aqui em MIDGARD, provocada por essas OITO OUTRAS FAIXAS DE REALIDADE. **ISSO JÁ ACONTECEU HÁ 300 MILHÕES DE ANOS ATRÁS — SÓ QUE NO NOSSO UNIVERSO, O CENTRO DISSO FOI MARTE. A vida que tinha lá foi destruída**" + as tribos: "as divindades nórdicas vinham de DUAS TRIBOS INIMIGAS — tipo os primos hindus [kauravas/pândavas]... **AESIR E VANIR**... os Aesir ocupavam ASGARD, enquanto os VANIR se contentavam com VANAHEIM, a oeste de Midgard" + "a batalha... entre os deuses Aesir e Vanir, LIDERADOS POR ODIN, e as criaturas do caos — os GIGANTES DE FOGO, os JOTUN[OS]... LIDERADOS POR LOKI... os AESIR alertados juntaram-se aos EINHERJAR — os valorosos guerreiros mortos que viviam em VALHALLA — e aos Vanir... rumam ao campo de VIGRID... **ISSO AQUI SERIA O PLANETA MARTE**; SURT liderará as tropas dos filhos de MUSPELHEIM, lançando fogo nos NOVE MUNDOS; a horda baixará pela ponte BIFROST — A PONTE DO ARCO-ÍRIS".
+- **[P2023-05-20 · O CICLO E AS RESSONÂNCIAS]** "**O RAGNAROK É UM CICLO — NÃO FOI SÓ UMA BATALHA... essa batalha NÃO LIQUIDOU TODOS OS AGENTES. É POR ISSO QUE ELES DIZEM QUE ISSO VAI SER RETOMADO UM DIA**" + "a vida na Terra começou DEPOIS QUE A DE MARTE FALIU, há 300 milhões de anos" + **TOLKIEN**: "quando no último filme [de Tolkien] os heróis chegam num barquinho num exército de espíritos mortos de guerreiros, ajuda lá na batalha — **ISSO TUDO FOI RETIRADO DAQUI**" + o Netflix [a série "Ragnarok"]: "essas figuras nascendo como humanos... como se dissesse: o Ragnarok acabou, MAS OS SOBREVIVENTES AGORA ESTÃO SE FAZENDO HUMANOS e a confusão tá vindo para ser resolvida NO SEIO DA ESPÉCIE HUMANA" + "na época de Odin... o bem e o mal NÃO EXISTIAM. As noções eram outras, COMO UM CAVALO TER SUAS NOÇÕES".
+- **[P2023-05-20 · O ESPÍRITO DE ODIN]** ⚠️ [quarentena biomediúnica] "**O ODIN FOI MORTO NO RAGNAROK. O ESPÍRITO DE ODIN HÁ UNS 20 ANOS ME TRANSMITE NOTÍCIAS.** E eu comecei a tomar nota disso. Tem uns livros que eu comecei a escrever, MAS NÃO VOU TERMINAR, chamado 'A HORA MAIS SOMBRIA QUE AINDA VIRÁ'... é exatamente Odin em espírito dizendo umas coisas... é como se o Ragnarok tivesse a sua parte um, MAS TEM UMA OUTRA PARTE" [a obra inédita no radar — B094].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

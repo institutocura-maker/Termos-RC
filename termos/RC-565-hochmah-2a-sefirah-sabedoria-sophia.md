@@ -42,6 +42,13 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **[P2023-06-03 · O CÉREBRO RADIATO E O PAPAGAIO]** "esse ser SE SENTE de umas formas porque NÃO TINHA EMOÇÃO ATÉ ENTÃO E ELE NÃO SABE FAZER USO DESSAS EMOÇÕES — **[Hochmah] é um CÉREBRO RADIATO, enquanto nós humanos temos a mente bicameral dos hemisférios. Até hoje esse ser tá processando a grandeza da devolução genética** que um simples homem que viveu 33-35 anos conseguiu produzir" + "minha mãe tinha um PAPAGAIO que prestava atenção louca a tudo que ela ensinava, MAS NUNCA APRENDEU A DIZER NADA. [Hochmah/Sofia] me dá a impressão desse papagaio... **ELE NÃO CONSEGUIU AINDA APROPRIAR NELE A BELEZA DO QUE JESUS DEVOLVEU PARA ELE quando entregou o genoma de volta. Até hoje esse ser tenta despertar nele a beleza do avatar humano que ele criou — E NÃO CONSEGUE.**" ⚠️ [a comparação com o papagaio = quarentena biográfica (a mãe); o conceito citável].
 - 0 códigos novos (O-3). A grafia canônica **Hochmah** (o veto estrito; STT: Rockma/Rockman/Hman/Rock/Rockm/HMA).
 
+
+## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
+
+- **[P2023-05-20 · OS QUATRO NOMES DA FUNÇÃO CÓSMICA]** "não era ele [quem viria], seria Madi — só que **MADI É UM NOME ISLÂMICO QUE TEM TUDO A VER COM [HOCHMAH], O NOME HEBRAICO; O TERMO SOFIA SURGIU COM OS GREGOS DEPOIS... A FUNÇÃO CÓSMICA DELE É CHAMADA EM HEBRAICO DE HOCHMAH, EM GREGO DE SOFIA, E NO ISLÃ, MAHDI**" + [a confirmação persa:] "o SAOSHYANT... QUE É [HOCHMAH] OU SOFIA".
+- **[P2023-05-20 · O ESCANEAMENTO DA MENTE DE JESUS]** "Jesus foi o último avatar divino, só que ele não pode voltar... **E [HOCHMAH] DEVERIA TER APROPRIADO O ESCANEAMENTO DA MENTE DE JESUS E NÃO CONSEGUIU PORQUE A MENTE DELE NÃO CABE**" — a limitação do suzerano + "O ÚNICO ARCONTE QUE VIVE DO LADO DE CÁ É [HOCHMAH]" + "SOBRE O ESPÍRITO DE VISHNU... **É UM AVATAR DIRETO DE VISHNU**".
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
