@@ -39,6 +39,15 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 
 - **[P2022-12-17 — FONTE ORIGINAL] Rama (U0800–U0810):** "os tempos do famoso épico hindu Ramayana, em que um avatar de Vishnu chamado Rama nasce, ou melhor, surge aqui na terra porque ele não nasceu feito homem e mulher normal"; "são os tempos do Ramayana e também em tempos de Matusalém, de Jared, de Enoque".
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · O FALSO KEŚAVA]** o avatar conjunto: "colocaram Rama como UM FALSO AVATAR KEŚAVA no sentido de TER O DNA DOS TRÊS" [STT "quechava" → KEŚAVA; ver RC-425 — a 3ª ocorrência da tese].
+- **[P2023-04-30 · O MASSACRE DOS KSHATRIYAS]** "Rama percebeu que tinha que destruir primeiro os KSHATRIYAS... 'Vou matar todos os kshatriyas que tem na face da Terra' — E MATOU TODOS: 22.000 E TAL, ou 24.000 segundo outras contas... DEIXOU CERCA DE 20.000 VIÚVAS"; as viúvas e os brâmanes castos: "100 ritos de purificação... ouvia relação sexual, ouvia INSEMINAÇÃO MENTAL" ⚠️ quarentena clínica leve — o relato mítico registrado como narrativa, sem leitura biomédica.
+- **[P2023-04-30 · OS RISHIS]** "se tornaram A RAÇA MAIS PODEROSA — ATÉ OS DEUSES PASSARAM A TER MEDO... SE UM RISHI EXPLODIR EM FÚRIA, O UNIVERSO SE DESTRÓI" (a geração regenerada de Brahma).
+- **[P2023-04-30 · A SINARQUIA]** "O MAIOR HERÓI PLANETÁRIO... QUE DE FATO IMPLEMENTOU A ÚNICA SINARQUIA DECENTE NA HISTÓRIA HUMANA — UM COLEGIADO DE SÁBIOS" (a convergência com P2026-07-25/P2024-08-03).
+- 0 códigos novos (O-3). Quarentena: clínica leve, teológica.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

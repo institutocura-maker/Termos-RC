@@ -43,6 +43,14 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 - **[P2023-09-09 · A ORIGEM DOS RAKSHASAS]** a ideia de Brahma: "vamos criar uma raça que numa loca que a gente controle... pegue o sangue dos mamíferos, porque deve estar no sangue o segredo do porquê dos mamíferos cuidarem uns dos outros... E essa a gente traz de volta e aqui a gente analisa" — os rakshasas [STT raquchaças] como os COLHEDORES DE SANGUE.
 - **[P2023-09-09 · RAVANA × ZEUS]** "surgiu entre os rakshasas uma figura chamada **Ravana, que... disse: 'Eu desafio vocês todos para a porrada'... Ravana deu uma surra em Zeus e Zeus já era rei dos reis na época**" — o embate (antes de Krishna); e os rakshasas "roubavam tudo" nos sacrifícios ("os deuses já estavam loucos por carne, os eflúvios da carne, sangue").
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · O ENVIADO DAS TREVAS]** o discurso de Sai Baba: "as trevas concentraram seus principais soldados em torno de um enviado das trevas, QUE É O COITADO DO RAVANA"; "o último que surgiu... O SER MAIS FORTE... movido a super sangue... RAVANA SÓ NÃO DESAFIOU ESSES TRÊS PORQUE ELE ERA UM FILHO DE SHIVA."
+- **[P2023-04-30 · A PERTURBAÇÃO DE BRAHMA]** "perturbou BRAHMA até Brahma dar a ele fórmula de poder" (o rishi de 10 cabeças — a convergência com a P2026-07-25); a surra em INDRA/ZEUS ("a surra valia pela morte em termos de desonra").
+- **[P2023-04-30 · O SEQUESTRO DE SITA COMO ARMAÇÃO]** "a turma forçou a barra: 'vamos fazer com que Ravana rapte Sita... E ENTÃO RAVANA RAPTA SITA E POR ISSO RAMA TERMINA MATANDO RAVANA E TODOS OS RAKSHASAS'" — o rapto como operação armada pelos próprios deuses.
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

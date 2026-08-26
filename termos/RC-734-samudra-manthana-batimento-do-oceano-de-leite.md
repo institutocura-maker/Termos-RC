@@ -24,6 +24,12 @@ Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano d
 
 O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR]`; não foram completados por fontes externas dentro da transcrição.
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · A GARGANTA AZUL — o Neelakantha]** "Chiva [STT] já salvou o universo uma vez... quando surgiu um super ser que criou a AYURVEDA; surgiu AMRITA... MAS SURGIU UM VENENO que ninguém esperava... um vírus começou a se espalhar em toda a criação. E CHIVA ABSORVEU TUDO AQUILO, GUARDOU NELE MESMO — E POR ISSO ELE FICOU COM A GARGANTA AZULADA... senão ele teria morrido naquela época" — a expansão do veneno (o "vírus") além da narrativa clássica do batimento; Shiva como o Absorvedor (a ponte com a REVERSIBILIDADE GENÉTICA de RC-414: "Shiva absorveu um pouco").
+- 0 códigos novos (O-3). Quarentena: científica (o "vírus" como narrativa mítica, não patologia).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

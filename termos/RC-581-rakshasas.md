@@ -40,6 +40,14 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 
 - **[P2022-12-17 — FONTE ORIGINAL] Os Rakshasas (U0780–U0800):** "foi quando os Rakshasas [STT 'racchaças'], uma espécie, uma estirpe de ser, foi criada pela turma do universo vizinho... todo mundo se apaixonou pelos mamíferos... no sangue humano é que estava o segredo para o tipo de comportamento que mamífero, primata e ser humano passou a ter"; "os Rakshasas foram criados como vampiros para passarem pelos portais e atacar os mamíferos"; "um Rakshasa faminto ficava vigiando o sacrifício, pegava a presa e desaparecia com uma vítima que ia ser sacrificada. E com isso os deuses começaram a ficar p da vida com os Rakshasas, porque a experiência que eles queriam para eles, os Rakshasas terminaram tendo só para eles próprios".
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · A ORIGEM COMPLETA — a versão mais antiga do dossiê]** "alguém lá teve uma ideia: 'vamos criar uma raça que atravesse esses portais... A GENTE SOLTA ELES PARA CHUPAR O SANGUE DOS MAMÍFEROS... e vê O QUE É QUE O SANGUE DESSES ANIMAIS TEM QUE O NOSSO SANGUE AMARELADO, DE PLASMA, NÃO TEM'... ENGENHARAM AÍ UMAS 500 RAÇAS PARA VER SE UMA FUNCIONA. UMA RAÇA CHAMADA RAKSHASA SURGIU... E ISSO FOI NA TERRA" [a Terra como palco] — as 500 raças experimentais (a cifra desta fonte; a de P2024-08-03 registrou "mais de 1.000 espécies" — variações registradas, não fundidas).
+- **[P2023-04-30 · OS SACRIFÍCIOS E AS CATEGORIAS DE VAMPIROS]** "vamos ensinar eles a fazerem SACRIFÍCIOS... VÁRIOS TIPOS DE CATEGORIAS DE VAMPIROS... quem só puder se alimentar A PARTIR DOS EFLÚVIOS, DO CHEIRO do churrasco".
+- **[P2023-04-30 · A MOTIVAÇÃO]** o mistério dos mamíferos que cuidam uns dos outros (o zelo que o sangue amarelado de plasma não tem — a curiosidade que motivou a engenharia; ver a ampliação P2025-02-16).
+- 0 códigos novos (O-3). Quarentena: científica (o sangue), ufológica (os portais).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

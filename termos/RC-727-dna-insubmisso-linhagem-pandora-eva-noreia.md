@@ -54,6 +54,14 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[B089 p. 6 · Jeane]** "condiciona-nos a ficar presos aos ditames de **uma genética que nos sentencia a agir e pensar de determinado modo**" — e a libertação ("temos a possibilidade de nos libertar").
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · A RECUSA — o bloco-núcleo]** "não tem como eu produzir mais no meu DNA genótipos que criem no meu psiquismo UMA ATITUDE DE SUBMISSÃO. FOI O QUE EU DISSE A JAVÉ UMA VEZ: EU POSSO ME RENDER À BELEZA DE UMA BARATA E FICAR DE JOELHOS DIANTE DELA... MAS DOBRAR MEU JOELHO VOCÊ NÃO DOBRA... PORQUE O SEU EGO É DOENTO. VOCÊ SÓ AMA AS PESSOAS SE ELAS SE SUBMETEREM — EU NÃO ME SUBMETO."
+- **[P2023-04-30 · O ALGORITMO AMOROSO]** "nós criamos um tipo de ALGORITMO AMOROSO QUE POR SUA VEZ NÃO EXISTE LÁ EM CIMA. O algoritmo amoroso que existe lá é muito simplório. ESSES DOIS PRECISAM SE ENCONTRAR" — a novidade humana (o amor criado de baixo) contra o simplório de cima.
+- **[P2023-04-30 · A CONTRAPARTE DO TERCEIRO PLANO]** o mal DISTRIBUÍDO no DNA de cada ser humano (o plano das trevas que fez da espécie um refém genético — ver RC-414) encontra nesta linhagem a recusa programática: o genoma que não produz submissão — a síntese dos dois blocos desta palestra.
+- 0 códigos novos (O-3). Quarentena: clínica (a anedota da barata), teológica (o atrito com Javé rotulado).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

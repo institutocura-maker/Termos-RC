@@ -175,6 +175,13 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2023-11-19 · Q&A bruto — literal, a pergunta de Fidel e a resposta]** o atraso da vinda de Sophia: "ele é um ser que tá acostumado a bilhões de anos e de repente um ano, uma hora pode ter um significado que ele não perceba uma mudança drástica" — **a escala temporal do ser** como hipótese da plateia; e a resposta de Ellam: "**um peso enorme de discórdia dos demais arcontos em relação ao fato dele não merecer ser o herdeiro da falência da Trimurte [Trimurti]**, ou seja, do legado da Trimurte" — a causa real declarada.
 - 0 códigos novos (O-3). Quarentena teológica (o herdeiro da falência).
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · O RADIATA — o veredicto]** "'a vinda de Krishna seria mais produtiva do que a vinda de Sofia?' — TOTALMENTE. KRISHNA TEM 300 MILHÕES DE COISAS PARA NOS DIZER. SOFIA NÃO TEM NADA. SOFIA É UM SER RADIATA. RADIATA SIGNIFICA SIMPLÓRIO... na nossa lógica, em termos de evolução, quando os radiatas surgiram já foi uma evolução formidável, mas comparado ao que hoje nós somos..." (ver RC-093 Radiatas) ⚠️ quarentena teológica — a comparação de produtividade Krishna × Sophia RETIDA como LEITURA DO AUTOR na voz do Q&A, sem dogma da malha (a Devolutiva O-7).
+- **[P2023-04-30 · O LUGAR DE SOFIA?]** "'será que Krishna não tá a fim de vir NO LUGAR de Sofia?' — eu não sei a quanto ele suporta a vibração desse mundo material... ISSO VAI SER NO TEMPO DAS NOSSAS VIDAS"; "o que Jesus disse NÃO está se cumprindo; o que Krishna disse ESTÁ — a máquina de gerar encarnações na Índia é loucamente ativa" ⚠️ teológica; "o Ocidente poderia dizer que não é o Messias que veio — ESSE É O PROBLEMA: HÁ TODA UMA CRISTALIZAÇÃO DE CRENÇA" (a profecia tem que ser cumprida "NOS MOLDES EM QUE FOI VATICINADO, sob pena de nada de Brama e Javé valer em termos de profecia" — ver RC-005).
+- 0 códigos novos (O-3). Quarentena: teológica (CRÍTICA — os atritos diretos com Jesus/Sofia rotulados, não dogmatizados).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

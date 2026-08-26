@@ -92,6 +92,14 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[P2023-11-19 · cap. 7.3]** "O 'Quarto Logos' (Olm/Codificador de Zion) é apresentado como um ser diferenciado que **não 'mergulhou' no universo antimaterial, o que lhe permitiu desenvolver um DNA próprio, 'livre da programação existencial gerada pelo primeiro Logos'**. Sua função é **'gerar cocriadores esclarecidos, independentes e harmonizados'**." — o DNA próprio de Olm e a função geradora.
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
+
+- **[P2023-04-30 · O JOGO EDUCACIONAL]** "o jogo que existe hoje entre o Senhor Krishna e o movimento do Quarto Logos É APENAS UMA DISPUTA EM TORNO DE QUE MÉTODO EDUCACIONAL deveria ou poderia ser colocado À DISPOSIÇÃO — E NÃO IMPOSTO... ELE QUER IMPOR O CULTO DEVOCIONAL... ELE PODE ATÉ TER RAZÃO, MAS ISSO APENAS NEUTRALIZA — NÃO CONSTRÓI... O DNA HUMANO PRECISA SER MODIFICADO PARA PRODUZIR MAIS PROTEÍNA — E O MÉTODO DE [KRISHNA] NÃO MODIFICA PROTEÍNA COISA ALGUMA."
+- **[P2023-04-30 · A CONTINUIDADE DE KAPILA]** "o que Rogério agora tá fazendo é UMA CONTINUIDADE DE KAPILA... é UM JOGO DE XADREZ SEM NENHUM TRAUMA entre o personagem de Krishna e o espírito que me anima" ⚠️ quarentena biomediúnica — a auto-referência do autor-foco; a Samkhya retomada "ATRAVÉS DO MENTALMA" (ver RC-166).
+- **[NOTA DE CURADORIA — a Devolutiva O-4]** a menção a Kapila/Samkhya e a taxonomia dos três karmas (sanchita/prarabdha/agami) nesta palestra permanecem ESTRITAMENTE CONFINADAS à mecânica filosófica da Revelação Cósmica — sem qualquer cruzamento com as bases de Jyotish e astrologia védica (escopos isolados do ecossistema local).
+- 0 códigos novos (O-3). Quarentena: biomediúnica, científica (a proteína).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
