@@ -60,6 +60,12 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 - **[B014 p. 33–34]** Mohen So = avatar direto de Vishnu; Sophia = forma Adhyajna de Mohen So; Jesus = avatar terreno de Sophia.
 - **Quarentena teológica / cronológica.** RC-135 Vishnu permanece **sem ficha**. Sem fusão com B045 (Projeto Talm, só anunciado no texto).
 
+
+## Ampliação — P2023-06-25 (A Proposta de Salvação do Senhor Krishna)
+
+- **[P2023-06-25 · O CROSS-REFERENCE KEŚAVA — a revisão da ficha]** a definição: os **Keśava** são os avatares CONJUNTOS dos três da Trimurti ("Vishnu com a maior porção do código — mas **a genética de Shiva prevaleceu**"), o primeiro Rama e o segundo Krishna — ⚠️ **a ficha registra 'Mohen So (Avatar Keshava de Vishnu)' [a narrativa vaishnava]; a P2023-06-25 corrige: 'os avatares Keśava são do código dos TRÊS, com o temperamento/genética de Shiva prevalecendo — dizer que são de Vishnu está absolutamente errado'** — A DIVERGÊNCIA registrada sem fusão: a malha mantém a atribuição tradicional na nomenclatura do termo; a ampliação registra a versão do palestrante como a chave revisionista [a decisão de fundir ou renomear é do curador].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

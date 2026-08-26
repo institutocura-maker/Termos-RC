@@ -162,7 +162,7 @@ TERMOS = [
     ("RC-078", "Lúcifer (Yel Luzbel)", SER_DEC[0], SER_DEC[1], P, ['B031', 'B017', 'B018', 'B039', 'B015', 'B003', 'B025', 'B026', 'B057', 'B058', 'B060', 'B061', 'P2022-12-17', 'P2024-03-03'], "RC-142; RC-002; RC-070; RC-020; RC-007", True),
     ("RC-079", "Mastlans Phisosferas / Luciferianas", TEC_NAV[0], TEC_NAV[1], P, ['B031', 'B061', 'P2022-12-17'], "RC-017; RC-028; RC-046; RC-002", False),
     ("RC-080", "Mensagem Talm", TEC_ESC[0], TEC_ESC[1], P, ["B031", "B017", "P2023-05-13"], "RC-064; RC-141; RC-091; RC-089; RC-078; RC-761", True),
-    ("RC-081", "Mohen So (Avatar Keshava de Vishnu)", SER_EXT[0], SER_EXT[1], P, ['B031', 'B017', 'B014', 'B061', 'P2026-04-02', 'P2025-10-25', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2023-12-02'], 'RC-135; RC-009; RC-073; RC-091; RC-040; RC-454; RC-282', True),
+    ("RC-081", "Mohen So (Avatar Keshava de Vishnu)", SER_EXT[0], SER_EXT[1], P, ['B031', 'B017', 'B014', 'B061', 'P2026-04-02', 'P2025-10-25', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2023-12-02', 'P2023-06-25'], 'RC-135; RC-009; RC-073; RC-091; RC-040; RC-454; RC-282', True),
     ("RC-082", "Nephilins", SER_EXT[0], SER_EXT[1], P, ["B031", "B017", "B018", "B023"], "RC-024; RC-096; RC-134", False),
     ("RC-083", "Norte Divino", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-068; RC-120", False),
     ("RC-084", "Orbe", COS_DIM[0], COS_DIM[1], P, ['B031', 'P2024-11-09'], 'RC-107; RC-100; RC-726', False),
@@ -544,7 +544,7 @@ TERMOS = [
     ("RC-411", "Gênero Adhy (147 seres, 5 espécies)", SER_LOG[0], SER_LOG[1], P, ['B051', 'B022', 'P2021-12-04', 'P2024-05-04', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09'], 'RC-011; RC-012; RC-013; RC-014; RC-015; RC-016; RC-094; RC-455; RC-605; RC-087; RC-635', True),
     ("RC-412", "Emissários Humanos (Enoch, Abraão, Moisés, Jesus)", SER_HUM[0], SER_HUM[1], P, ["B051", "B060", "B061"], 'RC-094; RC-072; RC-270', False),
     ("RC-413", "Hara (avatar de Shiva)", SER_EXT[0], SER_EXT[1], P, ["B051", "B024"], "RC-102; RC-073; RC-094", False),
-    ("RC-414", "Krishna (avatar de Vishnu/Shiva)", SER_EXT[0], SER_EXT[1], P, ['B051', 'B023', 'B036', 'B061', 'P2025-02-16', 'P2024-11-30', 'P2024-03-02', 'P2023-12-02', 'P2024-09-28', 'P2025-11-29'], 'RC-135; RC-102; RC-094; RC-183; RC-714; RC-717; RC-584; RC-016; RC-009; RC-757; RC-425; RC-073; RC-694; RC-582; RC-722', True),
+    ("RC-414", "Krishna (avatar de Vishnu/Shiva)", SER_EXT[0], SER_EXT[1], P, ['B051', 'B023', 'B036', 'B061', 'P2025-02-16', 'P2024-11-30', 'P2024-03-02', 'P2023-12-02', 'P2024-09-28', 'P2025-11-29', 'P2023-06-25'], 'RC-135; RC-102; RC-094; RC-183; RC-714; RC-717; RC-584; RC-016; RC-009; RC-757; RC-425; RC-073; RC-694; RC-582; RC-722', True),
     ("RC-415", "Colapso da Matriz Quântica (3 níveis)", COS_DIM[0], COS_DIM[1], P, ['B051', 'P2021-12-04', 'P2024-05-04', 'P2025-03-15', 'P2025-02-15', 'P2024-11-09'], 'RC-059; RC-060; RC-061; RC-167; RC-094; RC-602; RC-690', True),
 
     # ---- Novos termos de B034 (obra primária: Cartas a Javé, 2014 — Ellam & Mônica Camargo)
@@ -724,7 +724,7 @@ TERMOS = [
     ("RC-582", "Ravana", SER_DEC[0], SER_DEC[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-09-09'], 'RC-581; RC-584; RC-593; RC-414', True),
     ("RC-583", "Guerra Nuclear Anunnaki (Sete Armas Atômicas)", EVE_GUE[0], EVE_GUE[1], C, ["P2022-12-17"], "RC-486; RC-487; RC-460; RC-587; RC-588; RC-589", True),
     ("RC-584", "Rama (avatar de Vishnu)", SER_EXT[0], SER_EXT[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03'], 'RC-135; RC-582; RC-593', True),
-    ("RC-585", "Vyasa", SER_HUM[0], SER_HUM[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30'], 'RC-436; RC-586; RC-593; RC-454; RC-718; RC-414; RC-556; RC-072', True),
+    ("RC-585", "Vyasa", SER_HUM[0], SER_HUM[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2023-06-25'], 'RC-436; RC-586; RC-593; RC-454; RC-718; RC-414; RC-556; RC-072', True),
     ("RC-586", "Rishis", SER_HUM[0], SER_HUM[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-09-28'], 'RC-585; RC-593; RC-321; RC-322; RC-696; RC-700; RC-734', True),
     ("RC-587", "Anu (patriarca Anunnaki)", SER_EXT[0], SER_EXT[1], C, ["P2022-12-17", 'P2023-12-02', 'B089'], "RC-024; RC-486; RC-487; RC-583", True),
     ("RC-588", "Ninurta", SER_EXT[0], SER_EXT[1], C, ["P2022-12-17", 'P2021-03-27'], "RC-024; RC-487; RC-583; RC-587", True),
@@ -732,7 +732,7 @@ TERMOS = [
     ("RC-590", "Yima", SER_HUM[0], SER_HUM[1], C, ["P2022-12-17"], "RC-595; RC-567; RC-568", True),
     ("RC-591", "Profecia Hopi da Estrela Azul", EVE_PRO[0], EVE_PRO[1], C, ["P2022-12-17"], "RC-571; RC-536; RC-405", True),
     ("RC-592", "Era de Peixes", EVE_ERA[0], EVE_ERA[1], C, ["P2022-12-17", 'P2021-03-27'], "RC-569; RC-072; RC-571; RC-405", True),
-    ("RC-593", "Mahabharata", TEC_ESC[0], TEC_ESC[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30'], 'RC-585; RC-586; RC-104; RC-584', True),
+    ("RC-593", "Mahabharata", TEC_ESC[0], TEC_ESC[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2023-06-25'], 'RC-585; RC-586; RC-104; RC-584', True),
     ("RC-594", "Linhagem de Seth", GEN_HUM[0], GEN_HUM[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-09-28'], 'RC-424; RC-490; RC-489; RC-579', True),
     ("RC-595", "Avesta", TEC_ESC[0], TEC_ESC[1], C, ['P2022-12-17', 'P2025-10-25'], "RC-590; RC-567; RC-568", True),
 

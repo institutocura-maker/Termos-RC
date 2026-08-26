@@ -54,6 +54,14 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 - **Relato pessoal de Ellam (U1057; U1153):** "tô falando aqui do espírito que me anima"; "o espírito que me anima ter sido Vyasa, eu já sabia desde a primeira vez que eu vivi pra [esta vida]... faz muito tempo" — o espírito que anima Jan Val Ellam foi Vyasa (relato do autor; Colecionar Incertezas).
 - **Obras (U0631–U0635):** escreveu o Vishnu Purana ("que depois foi atualizado pelo filho dele"), "os Vedas, os quatro famosos... participou muito dos versos do primeiro e deixou indicativo dos outros"; "essa foi a primeira grande revelação pós-[dilúvio]".
 
+
+## Ampliação — P2023-06-25 (A Proposta de Salvação do Senhor Krishna)
+
+- **[P2023-06-25 · A PRIMEIRA NARRATIVA — Vyasa, o primeiro bardo]** "naquela época [há 6-7 mil anos]... **NINGUÉM SABIA CONTAR UMA HISTÓRIA**... tudo era memória ('fulano comeu javali, fulano morreu')... **o Mahabharata foi a primeira narrativa feita também em versos** que procurava juntar a morte de alguém na quarta-feira com a disenteria da terça, com as dores da segunda **e com a causa de tudo isso**. E o primeiro ser que fez isso **não era um humano, era um híbrido... o nome dele era Krishna Dvaipayana — não é Krishna o ser supremo, é um OUTRO Krishna chamado VYASA.**"
+- **[P2023-06-25 · A CENA CANÔNICA — Brahma desce; Ganesha escreve]** "**o próprio Brahma desceu do seu nível existencial** e foi até Vyasa numa assembleia de munis... **'Estou gostando muito do que você tá fazendo. Continue. NÓS PRECISAMOS DISSO.'**... 'eu vou falar com Ganesha, que tem uma caneta de escrita rápida, e ele vai escrever tudo que você recitar'... **Ganesha não sabia patavinas o que tava escrevendo, mas sabia reproduzir os sons. E Vyasa, que sabia o que estava pensando, passava o significado — e Ganesha construiu uma versão.**" [RC-756 ✓]
+- **[P2023-06-25 · AS VERSÕES]** "**Vyasa teve que compor uma história com cerca de 5-6 MILHÕES de versos** para que etnias que viviam nas locas pudessem entender — outra versão com milhões de versos para outras etnias... **e uma versãozinha, uma short version de 100.000 versos pros humanos, que é o Mahabharata que a gente conhece**" [os Gandharvas, os Rakshasas, os Yakshas, os devas].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

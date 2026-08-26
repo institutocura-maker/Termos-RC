@@ -25,6 +25,15 @@
 - **A cena de Brama (U0846–U0875):** "quando Vyasa, filho de Parashara, tinha terminado essa mais grandiosa das narrações... [a figura que se dizia] Brahma foi pessoalmente ao lugar onde Vyasa estava para gratificar o santo"; "pela primeira vez alguém tava dividindo a lógica humana em termos de passado, presente e futuro, o que tinha acontecido, o que estava acontecendo e o que poderia acontecer" (U0858); "esse ser é real... do jeito que Brama ou Javé fez com Enoque humano, Brama fez com esse ser que não era humano... Brama era um entrante na cabeça desse ser, e esse ser se deixava dominar porque o ego dele se achava um avatar de Brahma" (U0895–U0900).
 - **O Bhagavad Gita (U0878; U0882):** "essa conversa de Krishna com Arjuna, que é só um capítulo do Mahabharata, mas esse capítulo é um livro à parte chamado Bhagavad Gita".
 
+
+## Ampliação — P2023-06-25 (A Proposta de Salvação do Senhor Krishna)
+
+- **[P2023-06-25 · O BHAGAVAD GITA — o parva da epifania]** "o Mahabharata tem vários parvas, vários capítulos. **Um deles chama-se Bhagavad Gita, que é o capítulo no qual Krishna se apresenta — ou seja, faz a EPIFANIA dele — ou revela a Arjuna que ele era o ser supremo em pessoa. E Vyasa reproduz isso**" — "esse contexto histórico que Vyasa produziu **não tinha intenção de revelar Krishna**... [mas] reproduziu o momento em que Krishna deixou isso absolutamente claro."
+- **[P2023-06-25 · A PROPOSTA DE SALVAÇÃO — o financiamento]** "Quando no Bhagavad Gita Krishna diz: **'Arjuna, cumpri o teu dharma** — como Rama, antes de mim, cumpriu o dele mesmo perdendo a esposa. O teu é matar os Kurus'... 'o dharma de um kshatriya é preservar a luz. Se para isso for necessário destruir, ele destrói cumprindo o dharma **E ISSO NÃO GERA KARMA. Arjuna, PENSA EM MIM na hora em que estiveres matando — alguém que tu não gerarás karma. PORQUE EU SOU O FINANCIADOR. Eu sou o ser supremo que estou financiando tudo isso. EU SOU O SER POR TRÁS DOS KURUS, POR TRÁS DOS PÂNDAVAS, POR TRÁS DO BEM E DO MAL.**'"
+- **[P2023-06-25 · O FINANCIAMENTO PÓS-MORTE]** "quando a batalha de Kurukshetra acabou... a vitória de Pirro [a explicação: o general romano]... **Krishna financiou a passagem de cada figura que morreu em Kurukshetra pro nível de espiritualidade que tá organizado — porque não era uma guerra de ódio, era uma guerra em torno do cumprimento do Dharma. E Krishna financiou o retorno de todos os seres híbridos para as suas respectivas locas.**"
+- **[P2023-06-25 · o Q&A]** "esses nossos irmãos que usam o caminho que Krishna amorosamente ofereceu **se valem dos esforços alheios. Nós despendemos os nossos próprios esforços** e ainda temos o privilégio de contar com a ajuda daqueles que nos amam... **é sempre uma festa**" (a resposta sobre os desprendidos).
+- 0 códigos novos (O-3). Quarentena teológica (o Gita como leitura).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
