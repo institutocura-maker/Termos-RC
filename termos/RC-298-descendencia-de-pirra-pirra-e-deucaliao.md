@@ -38,6 +38,14 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 - **[B089 p. 9 · paratexto de Kummer]** "as musas tiveram contato com **Pirra — a filha de Pandora e Epimeteu — e o seu consorte Deucalião**." — **Deucalião confirmado como o par de Pirra** na psicografia (aprofunda RC-298; a profecia dos delírios do B088 [Pirra + o futuro filho de Prometeu] segue o caminho mitológico clássico).
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2023-08-05 (O Velho Sonho de Ares)
+
+- **[P2023-08-05 · HELENO — O NETO DE PANDORA]** "quando Pandora e Epimeteu foram obrigados a misturar suas moléculas de reprodução sexual, surgiu uma filha chamada **Pirra**. Prometeu produziu **Deucalião**. Pirra e Deucalião se uniram e criaram **18 filhos. Um deles chama-se Heleno, que é neto de Pandora**."
+- **[P2023-08-05 · OS 4 POVOS GREGOS]** "Heleno foi exatamente aquele ser de quem os povos **Aqueu, Dóricos [Dolos], Eólicos e Jônios — os quatro que atacaram Troia**... são os quatro descendentes de Heleno. **E Heleno tinha genética de Pandora, que era de não se submeter aos deuses.** O que se via na guerra de Troia era também uma tentativa de dois lados: um que ia acabar de vez o DNA de Pandora e de Eva, que agora estava restrito a esses quatro povos... e do outro lado a submissão" — a guerra de Troia como a tentativa de APAGAR o DNA da não-submissão.
+- **[P2023-08-05 · EVA DA LINHAGEM]** "Javé não percebeu, mas **Eva era da linhagem de Pandora, que tem a genética de não submissão aos deuses**... quando a gente olha para Adão e Eva, a gente tá vendo no homem a genética de submissão aos deuses e na mulher a genética de negação do comando dos deuses sobre a humanidade. **Por isso que Eva foi trucidada o tempo inteiro.**"
+- 0 códigos novos (O-3). Heleno absorvido (sem termo — Navalha).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

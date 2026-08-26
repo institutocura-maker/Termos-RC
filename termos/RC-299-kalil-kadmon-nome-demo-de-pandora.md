@@ -37,6 +37,16 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[B050 · trilha B/C — os demais marcos Pandora do mapa]** "Zeus usa Pandora para atingir Prometeu (52 mil a.p.)" (trilha B) · "Pandora faz a transição de fase (48 mil a.p.)" (trilha C — no mesmo nível de "Humanos inteligentes e despertos" e "Zont En Drel vem para a Terra 'guardar' o jardim-laboratório", ambos 48 mil) — a sequência Kadmon (74) → uso contra Prometeu (52) → transição de fase (48) **ordena a biografia de Pandora no mapa** (cross RC-086/RC-145/RC-301).
 - 0 códigos novos (O-3). Zeus/Prometeu/Pirra: cluster já denso (B087–B089); o mapa só datifica — quarentena ufológica/teológica padrão (O-7).
 
+
+## Ampliação — P2023-08-05 (O Velho Sonho de Ares)
+
+- **[P2023-08-05 · A GÊNESE COMPLETA — A SABOTAGEM DO OLIMPO]** Zeus tinha "um dos filhos, porque não era nem macho, nem fêmea, **Kalil Kadmon** [STT: 'Cali Cadimon'], que vivia nessas fazendas de Epimeteu" → o plano: "vamos criar o mais belo e funesto dos presentes... **cada um de vocês pegue a sua pior marcação e inocule isso nele**" — mas "como todo mundo tava meio irritado com Zeus, **cada um do Olimpo deu para esse Kalil Kadmon a sua MELHOR sequência genética ao invés da pior**".
+- **[P2023-08-05 · O ALGORITMO DE HEFESTO]** "Hefesto chegou para esse Kadmon e disse: 'O que é que eu tenho que fazer?' — 'Eu não sei... eu tenho que me metamorfosear numa coisa que vai ferrar com tudo lá na fazenda'... **'exatamente por eu não saber o que fazer, eu vou criar aqui um algoritmo, vou colocar no seu genoma, e você vai lá pra fazenda e lá você decide o que você quiser ser'**" — o livre-arbítrio como o algoritmo de Hefesto.
+- **[P2023-08-05 · A METAMORFOSE]** "na fazenda de Epimeteu... não só tinha ser humano macho, não tinha fêmea — **ela se transformou em fêmea**. Aí surge Pandora... Quando ela fez a metamorfose, ela carregou todo o conhecimento que ele já tinha como Kalil Kadmon e a melhor parte de cada um dos outros deuses do Olímpico" — "a primeira mulher que surgiu, **Pandora, surgiu com um nível de inteligência e sagacidade superior a todo o mundo que existia nesse universo vizinho e a toda e qualquer civilização** que porventura existia aqui".
+- **[P2023-08-05 · O PRIMEIRO SORRISO]** "E ela ainda fez mais isso: **SORRIU. Nunca ninguém antes tinha sorrido nessa história.** E quando ela sorriu, o cérebro produziu um conjunto de peptídeos na condição humana que ninguém nessa história tem. Qual o sorriso dela? **De satisfação. Por quê? Porque ela não precisava mais ser igual a Zeus e a turma do Olimpo. Ela agora era igual aos animais de estimação de Epimeteu — e isso era o máximo para ela.**"
+- **[P2023-08-05 · ZEUS ASSUME]** "Zeus disse: 'Saiu do jeito que eu encomendei. **EU SOU O PAI DOS HUMANOS.**' E nas mitologias é dito que Zeus — ou **Indra** na mitologia ariana — é o pai dos humanos" (cross RC-145/RC-480).
+- 0 códigos novos (O-3). Quarentena teológica (a leitura de Zeus como "pai").
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

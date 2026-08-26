@@ -180,6 +180,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[B005 p. 55]** cap. 6: «um mestre maior — unificado ao Pai Celestial — se fez homem, transformando-se no maior fator extraterrestre na História desta humanidade.» «Os habitantes da Terra não têm, ainda, a menor idéia do quanto devem a esta individualidade cósmica conhecida entre nós como Jesus.»
 - Lemma **Javé ausente** neste PDF. Jeová (p. 22) **não** reancora RC-001. Niceia / Constantino = **teológica / histórico-religiosa — fora**. Sem fusão com B011 / B009 / B003. Fonte **B005** já constava na tabela-mestra.
 
+
+## Ampliação — P2023-08-05 (O Velho Sonho de Ares)
+
+- **[P2023-08-05 · O APÓCRIFO DE BARTOLOMEU — O CONECTOMA]** "há um livro escrito por Bartolomeu, que foi um dos apóstolos... um livro apócrifo. E Bartolomeu conta ao Jesus ressuscitado... 'na hora em que você foi crucificado... eu olhava pra cruz e você tava lá. Mas de repente eu olhava pra cruz e você NÃO tava lá' → **Jesus ressuscitado disse: 'eu de fato saí da cruz durante um tempo e dei 500 passos para dentro da terra e fui lá no inferno. E lá eu enfrentei o diabo e o seu guardião. E eu pisei em Belial com um pé e com outro pé pisei no diabo... E foi assim que eu soltei do inferno as almas do patriarca Adão, Setos [Sete?]... de todos os patriarcas**'" — a libertação dos patriarcas do Tártaro (Hades/Reides os mantinha cativos).
+- **[P2023-08-05 · O MECANISMO INTERDIMENSIONAL]** "quando Jesus morreu na cruz, **o seu espírito escaneou todo o genoma do homem Jesus**. Nesse ponto, esse espírito começou a agir interdimensionalmente. Antes ele não agia — **só agiu depois que apropriou nele o conectoma do homem Jesus**... **esses seres para entrarem nas matrix [uma dentro da outra] têm que primeiro absorver protocolos de experiências em espécies cuja senha, ou cujo ectoplasma advindo do genoma, sirva para abrir os portais**" — e "Sofia é a forma cósmica dessa forma humana de Jesus, ou do espírito que hoje tem Jesus escaneado, vinculado a Sofia — **mas Sofia não age, nunca agiu**".
+- 0 códigos novos (O-3). Quarentena teológica (o apócrifo como leitura; a crítica a Sophia "ama ou diz que ama, mas não cuida").
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

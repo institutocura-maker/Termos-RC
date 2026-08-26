@@ -15,6 +15,13 @@ Na leitura da RC, Caim não foi o primogênito — Abel nasceu primeiro; Caim te
 
 - **Na palestra (P2025-05-31):** o primeiro filho dele não foi Caim, foi Abel — a Bíblia diz que foi Caim, mas foi Abel; Javé covardemente criou uma confusão entre eles e os anjos de Javé levaram Caim a matar Abel; Caim exilado (não punido); Sete (3º filho) tornou-se o patriarca dos escolhidos; Enos (filho de Sete) o primeiro a louvar Javé.
 
+
+## Ampliação — P2023-08-05 (O Velho Sonho de Ares)
+
+- **[P2023-08-05 · CAIM → A AMÉRICA]** "cadê a América? Tem América do Norte, América Central, América do Sul. **É um outro geno. De onde veio?** ... em tese veio de alguém muito mais antigo que Noé, **que se chama Caim**... E **Caim foi expulso lá da Turquia, foi bater na América Central. Os antigos contos [nórdicos]... as lendas de Ast, Aston, Atlan** era um monte de coisa lá, falam disso. Então, América do Norte, centro e sul: **a genética de Caim**; e nas outras partes do mundo, esses três filhos de Noé [Sem/Cam/Jafé]."
+- **[P2023-08-05 · o contexto]** a pesquisa genética "perto do ano 2000": "a genética que existe no Oriente Médio, na África e na Europa e na Ásia... isso é uma só [em termos de ascendência pós-dilúvio]" — a leitura RC da genética das populações [quarentena científica: a leitura, não a validação].
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

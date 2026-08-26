@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-08-05 — O Velho Sonho de Ares
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Nenhuma ficha tocada. Pasta em `apostilas/` (sai para `CONCLUIDAS/` só depois da aplicação + apostila). **A 3ª PALESTRA DA NOVA FASE — e a MAIS SENSÍVEL de toda a coleção.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **5 fichas ampliadas** (RC-299/395/298/490/072 — a gênese de Kadmon; Ares no Ragnarok; Heleno; Caim/América; o apócrifo de Bartolomeu) · 5 vínculos · **A APOSTILA LAVRADA COM A RETENÇÃO EM BLOCO** (a PARTE VIII: todo o conteúdo político banido da citação por decreto da Devolutiva O-7) · Ares permanece nó satélite sem código (a decisão B089 confirmada) · pasta em `apostilas/CONCLUIDAS/` (40 apostilas). **A LOCOMOTIVA ATRAVESSOU O INFERNO DE ARES E SAIU INTACTA.**
 
 ## 1. Identificação
 

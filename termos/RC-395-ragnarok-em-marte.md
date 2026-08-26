@@ -35,6 +35,13 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **[B050 · trilha A2 — o pano de fundo biológico]** "Surgem os dinossauros na Terra (230 milhões a.p.)" · "4ª grande extinção dos seres vivos (225 milhões)" · "Primeiros mamíferos (pequenos ratos) (190–80 milhões)" — o Ragnarok datado entre a explosão cambriana (540 mi) e a extinção dos dinossauros (66 mi) — **quarentena científica** para a datação geológica convencional (O-7).
 - 0 códigos novos (O-3). Midgard = Marte+Terra (RC-470); o mapa é fonte de apoio datificada, hierarquia inferior às obras primárias.
 
+
+## Ampliação — P2023-08-05 (O Velho Sonho de Ares)
+
+- **[P2023-08-05 · A CONFIRMAÇÃO CRUZADA]** "pelas fofocas nesses dois mundos, há cerca de **350 milhões de anos** surgiu a notícia de que a vida que aqui era mais fantástica que existia. Aí a cerca de **300 milhões de anos**, era tanta gente disputando isso que **terminaram destruindo a vida que existia em Marte**. E hoje nós somos na Terra de novo o fenômeno da vida que emergiu nos últimos 50.000 anos... **E o que aconteceu em Marte [o Ragnarok] há 300 milhões de anos está prestes a acontecer de novo aqui na Terra. E o senhor Ares é um dos mais atuantes nesse aspecto.**"
+- **[P2023-08-05 · as Flechas de Moros]** "uma outra história... que tem a ver com as setas ou Flechas de Moros terminaram concentrando aqui em Marte e na Terra todo o interesse dessa turma" (cross RC-611).
+- 0 códigos novos (O-3). Quarentena científica (as datações geológicas como leitura).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
