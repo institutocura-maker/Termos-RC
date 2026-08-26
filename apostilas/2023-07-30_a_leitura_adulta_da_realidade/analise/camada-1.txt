@@ -1,0 +1,4 @@
+CAMADA 1 — O DOCUMENTO BRUTO
+O texto bruto integral está em ../original.txt (SHA 3caacc44...).
+Estrutura: 30 linhas — o monólogo didático (com os desenhos: o neurônio, as matrizes, a cebola, a pirâmide financeira) + o Q&A final (as perguntas sobre Zendrel [Zont En Drel], as famílias/bilionários e o fechamento).
+Nada interpolado; nada corrigido na voz bruta.
