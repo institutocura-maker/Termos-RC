@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-05-21 — A Hebdômoda de Apolo / O Ultraje Humano
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **6 fichas ampliadas** (RC-293 a Timé/Fobes; RC-292 o Telos; RC-621 Nyx; RC-467 as Moiras; RC-298 a genealogia; RC-286 o Tifão) + RC-306/296/305/027 no pacote (sem ficha — **com A HEBDÔMADA injetada estruturalmente nos blocos RC-306/296**, a decisão O-3) · **10 vínculos** · **A APOSTILA LAVRADA** (14 PARTES; o escudo biomediúnico máximo — a palestra dirigida PARA Apolo como registro fenomênico; **a revelação Apolo/orixás RETIDA** por ordem expressa; a menção ao ditador BANIDA) · **A TRILOGIA DO DESESPERO na BIBLIO** (B091+B080 atualizada+B092+B093 — 96 obras) · pasta em `apostilas/CONCLUIDAS/` (47 apostilas). **A RAIZ TEMPORAL DA CORRENTE MAIO-JUNHO/2023 TRANCADA.**
 
 ## 1. Identificação
 
