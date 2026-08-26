@@ -1,0 +1,29 @@
+# Leitura 1 — Macroestrutura · B031 Painéis Emergentes da Revelação Cósmica
+
+Reconhecimento. Fonte: `original.txt` (conversão e-book calibre com marca d'água DEMO; o extract é limpo). Nada interpolado. **PDF = obra integral (181 págs; CIP 206 p. — divergência da conversão).** **A OBRA FUNDADORA DA BASE:** o glossário desta obra originou a tabela-mestra (777 termos); 145 termos (19%) já citam B031.
+
+## Arco
+
+1. **Paratexto (p. 2–13):** CIP completo (ISBN papel/e-book; Editor: **Leonardo Kummer**; Capa: Luciana Lebel) + SINOPSE ("a pílula vermelha"; os QR Codes) + AGRADECIMENTOS (a família; **"Ao meu mestre Jan Val Ellam, que não se intitula e nem quer ser mestre de ninguém"**; a "Regra de Ouro" de Jesus) + **PREFÁCIO DE ELLAM** (a "trilha cerebral" — "80 bilhões de neurônios... 100 trilhões de estradas neurais"; o "perspectivo"; **Natal, 07/09/2020**) + PREFÁCIO DA AUTORA (SP, 26/01/2018; os temas; a disclaim; a nota sobre demônios = "seres dementes que se metamorfoseavam").
+2. **Introdução (p. 14–22):** a conversão da autora — **15/08/2017**; a mãe Fátima e o curso espírita; **"mônadas espirituais"** no YouTube; o primeiro vídeo de Ellam; "O Livro de Urântia"; **a entrevista no Programa do Jô (junho de 2004)**; a palestra no Templo da Arte; os capítulos "O que é a RC" / "Quem é Jan Val Ellam" / "Por que RaquYel Braga".
+3. **PARTE I — Contexto Espiritual Superior (p. 23–42):** Níveis de Realidade e Seres; Completude/Incompletude/Perfeição/Imperfeição; **A Singularidade, a Queda e a Doença do Criador** (o núcleo doutrinário — RC-047/RC-001 e a "doença" — já na malha).
+4. **PARTE II — Contexto Cósmico Demo Antimaterial (p. 43–62):** **"Há 13,7 bilhões de anos, Brahma/Javé vê seu corpo mental caído em um universo improvisado e antimaterial"**; o Universo Antimaterial (**Brahmaloka**) e suas Eras; **Demos, suas Lokas e os Deuses Mitológicos**; a Falência da Vida no Universo Paralelo e o **Projeto Talm**; a **Mensagem Talm** (RC-091 etc. — a malha já cobre).
+5. **PARTE III — Contexto Biológico Material Extraterreno e Terreno (p. 63–99):** **os Fornos Replicadores** (RC-771; ART-2025-08-01); **as Famílias Biodêmicas**; o **Projeto Planeta Azul**; **A Rebelião de Lúcifer, o Isolamento Cósmico e os Exilados de Capela** (RC-002/RC-007); **A "Segunda Volta de Jesus", Sophia e a Reintegração Cósmica da Terra** (RC-009/RC-003); **o DNA Homo-Terráqueo e o Favor Divino das Criaturas-Ferramenta** (RC-727/RC-449); **O Quarto Logos e Seus Agentes** (RC-092).
+6. **Considerações Finais (p. 100–101):** a humildade da compiladora ("uma pequena parte da história deste e do outro universo").
+7. **CRONOLOGIA APROXIMADA (p. 102–121):** ~74 eventos (a BIBLIO) — **~56 entradas datadas detectadas no extract** (divergência de contagem a registrar); abre com **"13,7 bilhões de anos A.P.: Em Perpérion, na Espiritualidade Laboratorial, Brajna (nome de Brahma/Javé na Espiritualidade Laboratorial) cria a singularidade deste universo (Big Bang)"**; Bhuloka (material) × Brahmaloka (antimaterial); desce por 13,5/13,2 bi → 950/550/492/480/420/385/233 mi → … → 13 mil/12 mil/6 mil/2.300/2 mil anos A.P. **[13,7 bi — o número de Kummer/B089; × 13,8 do B088]**.
+8. **GLOSSÁRIO (p. 122–154):** **143 verbetes** — **A FONTE DA TABELA-MESTRA** ("Os termos descritos neste glossário foram coletados de diversos livros e palestras de Jan Val Ellam, por isso, muitos deles podem não ser mencionados diretamente no livro"); de Adhy a Zont En Drel 29 (inclui Zeitgeist, Zeus, os Yel, os Anunnakis).
+9. **Outros Canais + Leituras + Bibliografia (p. 155–169):** "Jan Val Ellam já escreveu **mais de uma centena** de livros que ainda não foram publicados"; **15 obras na bibliografia — TODAS já na BIBLIO** (B003/B025/B026/B017/B018/B039/B001/B036/B022/B037/B011/B015/B016/B020/B009); os grupos de palestras do IEEA.
+10. **POSFÁCIO (p. 170–172) — a joia:** "**Depois de 687 mil anos, mais um vírus, uma nova pandemia e um novo isolamento**" — "687 mil anos depois que o vírus da inquietação de Yel Luzbel se espalhou no Sistema de Capela, causando uma pandemia e o isolamento cósmico de **19 planetas**, nós – os Exilados de Capela – nos encontramos novamente enfrentando um novo vírus (COVID-19)"; "**infectando mais de 213 bilhões de seres**"; "Dezenove planetas exilados **por ordem de Sophia, o Cristo Cósmico**, sendo a Terra o último planeta remanescendo isolado"; "Quem sabe não é a hora de Sophia/Jesus voltar?"; "Jesus voltar por cima das nuvens, **em seu disco voador, cheio de naves ao seu redor**"; "Que bom seria finalizar dois isolamentos de uma só vez..."; **São Paulo, 07 de Setembro de 2020** (a mesma data do prefácio de Ellam!).
+
+## Mapa × malha — A VERIFICAÇÃO DE FIDELIDADE (o coração deste ciclo)
+
+| Verificação | Resultado |
+|---|---|
+| **Verbetes do glossário** | **143 detectados** (a BIBLIO registra "140" — corrigir na nota) |
+| **× termos da malha** | **135 correspondem (94%)** — RC-011..RC-018 (Adhy, Adhyagia, Adhyatman, Adhydaiva, Adhybutha, Adhyajna, Alt´Lam, Alt´Lam Gron...), os Anunnakis (RC-024), Zeus (RC-145), os Yel, etc. |
+| **Os 8 sem termo** | **Nomes pessoais/variações — já fundidos na fundação:** Jan Val Ellam (RC-071 cobre), Val / Val El ou Val Ellam (→ RC-071), Yel / Yel Am (→ RC-492 e os Yel), Len Mion (→ RC-074), Tau Ceti (→ RC-103), CFD (sigla não-RC). **Nenhuma lacuna ontológica real.** |
+| **Termos com B031 nas fontes** | 145 (19% da malha; 44 com ficha) — a fonte mais citada |
+| **A cronologia** | abre com **13,7 bi** (Brajna/Perpérion/Bhuloka/Brahmaloka) — confere com o paratexto de Kummer (B089); diverge do 13,8 do B088 (registrar) |
+| **A bibliografia** | 15 obras — **todas já catalogadas**; "mais de uma centena" de livros inéditos (o radar do Futuro) |
+
+**Conclusão da verificação: A TABELA-MESTRA É FIEL À FONTE.** A materialização do PDF confirma a integridade da fundação da base.

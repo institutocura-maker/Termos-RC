@@ -23,7 +23,7 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-Nenhum (B089 fechado em 2026-08-25 — **A TRILOGIA PANDORA (B087–B089) FECHOU**). Próximo ciclo: na ordem do curador (pendências: B059 sem PDF — só físico; obras completas B027/B035; B076–B078; B085/B086/B090).
+`B031_paineis_emergentes_da_revelacao_cosmica/` — ingresso + leitura integral (181 págs) + dossiê enxuto (2026-08-26, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. **A MATERIALIZAÇÃO DA OBRA FUNDADORA** (a fonte da tabela-mestra; 145 termos já a citam) — o ciclo é ingresso + **verificação de fidelidade** (143 verbetes × 135 termos = 94%: a malha é fiel) + registro. Com PREFÁCIO DE ELLAM (Natal, 07/09/2020) e o posfácio dos 687 mil anos.
 
 Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 

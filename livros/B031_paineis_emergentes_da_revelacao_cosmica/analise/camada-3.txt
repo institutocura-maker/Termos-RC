@@ -1,0 +1,12 @@
+O corpus desta obra é o extract paginado:
+
+  livros/B031_paineis_emergentes_da_revelacao_cosmica/original.txt
+
+SHA-256 fc39f9d21408670538797f3141fca354645d6076e1f0162a86434b162bbc6dcf
+256.949 bytes · ~40.241 palavras · 181 págs. (conversão e-book; CIP: 206 p. — divergência)
+1 pág sem texto (p. 1, a capa). Sem \x00. Nada interpolado.
+**EDIÇÃO RECEBIDA:** conversão e-book via **calibre 6.25.0 (2024-01-08)** com marca d'água "**ebook converter DEMO Watermarks**" em TODAS as páginas (linha fixa — o extract é limpo; removível na leitura). Metadado: título completo + **duas entradas de autora** ("Costa Braga da Silva Motta da Cunha, Raquel & Braga, Raquyel"). NÃO é a edição Gullan Greyl da trilogia Jeane Miranda — é outro pipeline (e-book da própria autora/editora).
+CIP: 206 p., 21,6 cm; CDD 133.93; ISBN Papel 978-65-992214-1-5 (o da BIBLIO ✓); ISBN e-book 978-65-992214-2-2 (não gravar — regra); "Baseado nos ensinamentos de Jan Val Ellam"; Editor/Diagramação: Leonardo Kummer; Capa: Luciana Lebel; Editora Nova Egrégora, 1ª ed., Curitiba, 2020.
+Voz: RaquYel Braga (obra de estudo/compilação) + **PREFÁCIO DE JAN VAL ELLAM** (Natal, 07/09/2020) + Prefácio da Autora (SP, 26/01/2018) + **POSFÁCIO** (SP, 07/09/2020 — o paralelo dos 687 mil anos).
+Datas internas: escrita iniciada ~2018 (prefácio da autora) e concluída na pandemia de 2020 (posfácio); a conversão e-book: 2024.
+O PDF permanece em uploads_recepcao/ (também copiado como original.pdf na pasta da obra).
