@@ -184,6 +184,13 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B031 · divergência cronológica registrada (O-4 — absorver)]** a obra grafa **13,7 bilhões de anos** em TODAS as ocorrências (cronologia p. 102 + Parte II p. 27 + considerações) — o número de Kummer (B089) × os **13,8 do B088**: a divergência interna da escola de segunda mão tem **raiz na própria obra fundadora do gênero** (a RaquYel usa 13,7).
 - 0 códigos novos (O-3). "Brajna" = nome de Brahma/Javé na Espiritualidade Laboratorial — variação já fundida na fundação (ver a verificação de fidelidade: 143 verbetes × 135 termos, 94%).
 
+
+## Ampliação — B060 (Personagens e Terminologias da Revelação Cósmica)
+
+- **[B060 pp. 3-4 · verbete "Javé" — AS EQUIVALÊNCIAS EXÓTICAS]** o verbete abre: "Prabajna [sic], Prajapati ou Brajna — ser Pashvnaj do gênero Adhy de Perperion, um dos 5 eons da Espiritualidade Laboratorial" (✓ a malha: RC-152 Prabrajna; o doc DISTINGUE Perpérion × Tempérion como a ficha RC-454). Equivalentes canônicos já na malha (Alá, Atom, Brahma, Caos, Ein Sof RC-468, Javé, Kether RC-261, Pan Ku, YWHW). **OS EXÓTICOS (registro de curadoria antropológica/cultural — Devolutiva O-4: "jamais equivalência canônica"):** **Amma Talu (Dogon, África)** · **Eru Ilúvatar (J.R.R. Tolkien — "Ser supremo do universo"; referência LITERÁRIA)** · **Kaaguem (Bosquinamos Sam, África)** · **Omama (Yanomami, Brasil)** · Svarog (Eslava) · Ymir (Nórdica) · Tenemu (Egípcia-Ogdoade) · Dashbog (no verbete Noé) · Ogni (Celta) · Arimã (Zoroastrismo).
+- **[B060 · quarentena]** teológica (a cadeia Alá=Javé=Caos...); cultural (Tolkien — jamais ontologia); antropológica (Dogon/Yanomami/Bosquinamos — etnografia de terceiros).
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

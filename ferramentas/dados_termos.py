@@ -199,7 +199,7 @@ TERMOS = [
     ("RC-115", "Val Aten", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-133; RC-109; RC-127", False),
     ("RC-116", "Val Bon", SER_EXT[0], SER_EXT[1], P, ["B031", "B060"], "RC-133; RC-109; RC-027", False),
     ("RC-117", "Val Den", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-133; RC-109", False),
-    ("RC-118", "Val Dimon", SER_EXT[0], SER_EXT[1], P, ["B031", "B020"], "RC-133; RC-109; RC-086", False),
+    ("RC-118", "Val Dimon", SER_EXT[0], SER_EXT[1], P, ["B031", "B020", "B060"], "RC-133; RC-109; RC-086; RC-299", False),
     ("RC-119", "Val Ean", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-109", False),
     ("RC-120", "Val El / Val Ellam", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-109; RC-071; RC-140; RC-068; RC-083", False),
     ("RC-121", "Val Elliah", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-043; RC-109; RC-072", False),
@@ -216,7 +216,7 @@ TERMOS = [
     ("RC-132", "Val Tam", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-109; RC-018", True),
     ("RC-133", "Val dos Corpos Perdidos / Dimensionados", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-127; RC-109; RC-110; RC-112; RC-114; RC-115; RC-116; RC-117; RC-118; RC-130; RC-131", False),
     ("RC-134", "Viajores", TER_OUT[0], TER_OUT[1], P, ["B031", "B015"], "RC-024; RC-082", False),
-    ("RC-135", "Vishnu (Mavatna)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B024', 'B044', 'B001', 'B033', 'B016', 'B014', 'B020', 'B021', 'B022', 'B051', 'B036', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14'], 'RC-037; RC-102; RC-104; RC-081; RC-009; RC-584; RC-622; RC-642; RC-565', False),
+    ("RC-135", "Vishnu (Mavatna)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B024', 'B044', 'B001', 'B033', 'B016', 'B014', 'B020', 'B021', 'B022', 'B051', 'B036', 'B060', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14'], 'RC-037; RC-102; RC-104; RC-081; RC-009; RC-584; RC-622; RC-642; RC-565', False),
     ("RC-136", "Yel (Família Yel)", GEN_EXT[0], GEN_EXT[1], P, ["B031"], "RC-109; RC-078; RC-046; RC-137", False),
     ("RC-137", "Yel Adrax", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-136", False),
     ("RC-138", "Yel Am / Yel Liam", SER_EXT[0], SER_EXT[1], P, ['B031', 'B011', 'B060', 'P2026-04-02', 'P2025-10-25'], "RC-136; RC-120; RC-140; RC-072; RC-043; RC-647", False),
@@ -407,7 +407,7 @@ TERMOS = [
     ("RC-296", "Pitonisas e Oráculos (Apolo/Delfos)", COS_ESP[0], COS_ESP[1], P, ["B021", 'P2024-04-13'], "RC-295; RC-145; RC-099", False),
     ("RC-297", "Era dos Humanos (Zeus e a)", EVE_ERA[0], EVE_ERA[1], P, ["B021", 'P2025-11-29', 'B087', 'B088'], "RC-145; RC-300; RC-099; RC-094", True),
     ("RC-298", "Descendência de Pirra (Pirra e Deucalião)", GEN_HUM[0], GEN_HUM[1], P, ['B021', 'P2024-11-09', 'B087', 'B088', 'B089'], 'RC-303; RC-304; RC-086; RC-301; RC-099', True),
-    ("RC-299", "Kalil Kadmon (nome demo de Pandora)", SER_DEC[0], SER_DEC[1], P, ["B021", 'P2024-08-03', 'B089', 'B050'], "RC-086; RC-118; RC-145", True),
+    ("RC-299", "Kalil Kadmon (nome demo de Pandora)", SER_DEC[0], SER_DEC[1], P, ["B021", 'P2024-08-03', 'B089', 'B050', 'B060'], "RC-086; RC-118; RC-145", True),
     ("RC-300", "Dissolução da Tríade (2015–2017)", EVE_ERA[0], EVE_ERA[1], P, ['B021', 'B022', 'P2022-12-17', 'P2024-11-30'], 'RC-104; RC-135; RC-102; RC-037; RC-155; RC-571', False),
     ("RC-301", "Prometeu (titã)", SER_DEC[0], SER_DEC[1], P, ['B020', 'B021', 'P2025-02-16', 'P2024-11-09', 'P2025-06-14', 'B087', 'B088', 'B089'], 'RC-302; RC-145; RC-086; RC-304', True),
     ("RC-302", "Epimeteu (titã)", SER_DEC[0], SER_DEC[1], P, ['B020', 'B021', 'P2025-02-16', 'P2024-11-09', 'P2025-06-14', 'P2024-08-03', 'B087', 'B088', 'B089'], 'RC-301; RC-145; RC-086; RC-303', True),
@@ -618,7 +618,7 @@ TERMOS = [
     ("RC-478", "Chequinhá (veículo/nave de Javé)", TEC_NAV[0], TEC_NAV[1], C, ["B061"], "RC-001", False),
     ("RC-479", "Belial (arconte; 'Satã' do livro de Jó)", SER_DEC[0], SER_DEC[1], C, ['B061', 'P2022-12-17', 'P2026-08-04; RC-286; RC-072'], "RC-474; RC-074", True),
     ("RC-480", "Indra (título de arconte)", SER_LOG[0], SER_LOG[1], C, ['B061', 'P2022-12-17', 'P2025-10-25', 'P2025-02-16', 'P2024-09-29'], 'RC-474; RC-145; RC-696; RC-700; RC-701', True),
-    ("RC-481", "Maitreya (Dionísio; forma adiágena de Vishnu)", SER_DIV[0], SER_DIV[1], C, ["B061", 'P2021-03-27'], "RC-408; RC-306", True),
+    ("RC-481", "Maitreya (Dionísio; forma adiágena de Vishnu)", SER_DIV[0], SER_DIV[1], C, ["B061", 'P2021-03-27', 'B060'], "RC-408; RC-306; RC-092", True),
     ("RC-482", "Ialdabaoth (= Javé/Samael/Saklas/Sabaoth)", SER_DIV[0], SER_DIV[1], C, ["B061"], "RC-001; RC-474", True),
     ("RC-483", "Barbelo (Mãe-Pai primordial gnóstica)", SER_DIV[0], SER_DIV[1], C, ['B061', 'P2026-04-02', 'P2024-09-28'], "RC-474; RC-647", True),
     ("RC-484", "Anjos ministradores (Usá, Azá, Aziel)", SER_ANJ[0], SER_ANJ[1], C, ["B061"], "RC-001; RC-485", False),
@@ -1368,6 +1368,10 @@ RELACOES = [
     ("RC-454", "relaciona-se-a", "RC-190", "B060"),   # Kardec = avatar de Elm
     ("RC-454", "relaciona-se-a", "RC-436", "B060"),   # Heber = avatar de Elm
     ("RC-454", "relaciona-se-a", "RC-396", "B060"),   # Kvasir = avatar de Elm
+    ("RC-027", "variação", "RC-116", "B060"),           # Astréia = Val Bon (Biodemo da família Val) — Devolutiva B060, O-2
+    ("RC-051", "variação", "RC-112", "B060"),           # Despina = Val Anen (Biodemo da família Val) — Devolutiva B060, O-2
+    ("RC-299", "variação", "RC-118", "B060"),           # Kalil Kadmon = Val Dimon (fecha o triângulo Pandora: RC-086↔RC-118 [B020] + RC-299↔RC-086 [B021]) — Devolutiva B060, O-2
+    ("RC-481", "encarnação-posterior-de", "RC-092", "B060"),  # Maitreya = avatar futuro de Olm ("ainda virá") — ⚠ divergência com a ficha ("forma adiágena de Vishnu", B061/P2021-03-27): anotada, NÃO fundida — Devolutiva B060, O-2
     ("RC-455", "relaciona-se-a", "RC-152", "B060"),   # Prabrajna é Pashvnaj (Adhy de Perperion)
     ("RC-455", "relaciona-se-a", "RC-102", "B060"),   # Savna/Shiva é Pashvnaj
     ("RC-455", "relaciona-se-a", "RC-408", "B060"),   # Mavatina/Vishnu é Pashvnaj

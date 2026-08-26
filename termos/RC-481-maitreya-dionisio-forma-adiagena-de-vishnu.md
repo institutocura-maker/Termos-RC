@@ -32,3 +32,12 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 |---|---|---|
 | Relógio Messiânico | RC-765 | relaciona-se-a |
 | Mohen So = Kalki | RC-282 | relaciona-se-a |
+
+## Nota de Devolutiva — B060 (2026-08-26): a divergência Olm × Vishnu
+
+> **MANDATO EXPRESSO DA DEVOLUTIVA B060 (O-2):** a relação **("RC-481", "encarnação-posterior-de", "RC-092", "B060")** foi gravada na tabela-mestra (Maitreya = avatar FUTURO de Olm/Quarto Logos — o B060 o lista entre os avatares de Olm: "Senhor Maitreya (Cabala Judaica — ainda virá)").
+>
+> ⚠️ **A DIVERGÊNCIA, rigorosamente anotada, SEM fusão conceitual:**
+> - **B060** (material de aluno, p. 5, verbete "Olm"): Maitreya = avatar futuro de **OLM** (ao lado de Apolônio de Tiana).
+> - **Esta ficha / B061 + P2021-03-27**: Maitreya = "**forma adiágena de Vishnu**" (RC-135) — e a citação-chave acima o liga ao ciclo Kalki/Mohen So (RC-282).
+> - As DUAS leituras coexistem registradas; a hierarquia das fontes (obras/palestras de Ellam > material de aluno) favorece a leitura da ficha; a relação B060 fica como o registro da divergência. **JAMAIS fundir.**

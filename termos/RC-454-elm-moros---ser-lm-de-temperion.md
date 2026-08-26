@@ -84,6 +84,14 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 
 - **[ART-2025-08-03 — material do curador] Moros e a planilha da podridão (Cap. 2):** "Moros, o primeiro a empregar a racionalidade para mapear a 'podridão ancestral', criou uma 'planilha' em um 'computador quântico' onde essa podridão era criptografada como um 'código fonte definidor'"; "suas sequências estão entre os 'tesouros genéticos' do Éon das Três Esferas (RC-775), essenciais para a propulsão da vida de plasma e da futura vida biológica"; "as 'Nornes' (Moiras) foram então criadas para operacionalizar os resultados dos estudos de Moros e Anã".
 
+
+## Ampliação — B060 (Personagens e Terminologias da Revelação Cósmica)
+
+- **[B060 p. 4 · verbete "Moros" — A LISTA COMPLETA DOS AVATARES]** "Ealm [sic; variação de Elm], ser LM de Tempérion, um dos 5 eons da Espiritualidade Laboratorial": **Apantharatamas** ("nome de Enoch no Hinduísmo") · **Boécio** (480 d.C., "Anício Mânlio Torquato Severino Boécio, filósofo e poeta") · **Enock** (sétimo patriarca hebreu) · **Heber** (tataraneto de Noé, pai de Faleg e Joctan) · **Hude** ("Islã — nome de Heber") · **Jacó** (filho de Isaac e Rebeca) · **Kapila** (fundador da escola Samkhya) · **Kardek** [sic] (1804, França, "Hippolyte Léon Denizard Rivail, codificador do Espiritismo") · **Kvasir** (Nórdica) · **Metraton** [sic] ("múmia de Enock") · **Niccolo Polo** (1230, italiano, "mercador, pai de Marco Polo") · **Nicius** · **Rogério de Almeida Freitas** ("Jan Val Ellam — codificador da Revelação Cósmica") · **Sacerdote do Faraó Mernephta** (nome ??) · **Val El** (Biodemo da família Val) · **Vyasa** (autor do Mahabharata) · **Aluno de Platão** (nome ??) — os grifos da ficha original (Ellam, Kardec, Heber, Kvasir, Enoch, Jacó, Kapila, Boécio, Vyasa) CONFIRMADOS; os demais são os elos que faltavam.
+- **[B060 p. 4 — os equivalentes do eon]** Aeon (RC) · Bhava (Hindu) · **Chesed (4ª Sefirah — RC-676 ✓)** · Henet (Egípcia-Ogdoade) · **Maat** (Egípcia) · Moros (Grega) · **Orlog (Nórdica — ✓ RC-658/Orlog=Moros)** · Phanis (Orfismo) · Sudz (Eslava).
+- **[B060 · quarentena]** toda a lista é leitura de terceiro ("PROVÁVEIS imantações/encarnações" — o título do documento avisa); Boécio também aparece no MAPA B050 (trilha D, 480 d.C. — cross ✓); a grafia "Ealm" é variante de Elm registrada sem corrigir a voz.
+- 0 códigos novos (O-3 — veto absoluto).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

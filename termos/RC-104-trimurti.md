@@ -140,6 +140,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B022 p. 158]** Posfácio: de 2008 a 2015, convivência forçada com «estes três seres» / «Senhores da Lila». RC-075 **não** materializada. Bloco político do Posfácio (2015) **fora**.
 - Falas de Brahma / Vishnu / Shiva **isoladas**. Sem fusão com B037 / B029 / B079 / B021 / B001 / B044. Fonte **B022** já constava na tabela-mestra.
 
+
+## Ampliação — B060 (Personagens e Terminologias da Revelação Cósmica)
+
+- **[B060 p. 7 · verbete "Trimurti" — AS 8 TRÍADES COMPARATIVAS]** "Conceito de uma tríade universal criadora registrada em várias mitologias... a sequência dos nomes segue a mesma da Trimurti Ariana/Hindu": **Tríade Celta: OGNI-THYRÉ-TEUT** · **Tríade da Ogdoade (Emenu, Egito): TENEMUNET-KEK-NUN** · **Tríade das Sefirahs (Cabala): KETHER-BINAH-CHOKMACH** · **Tríade Egípcia: ATOM-TEFNUT-CHEFNUT** · **Tríade feminina da Ogdoade: TENEMUNET-KEKT-NAUNET** · **Tríade Grega: CAOS-TARTAR-EROS** · **Tríade Imortal (Revelação Cósmica)** · **Tridevi (esposas): SARASVATI-PARVATHI-LAKSHIMI** · **Triglav (Eslava): SVAROG-PERUN-SVENTOVIT** · **Trimurti (principal): BRAHMA-SHIVA-VISHNU** · **Triunvirato Universal (Revelação Cósmica)**.
+- **[B060 · quarentena]** teológica (as tríades); a "Tríade Grega CAOS-TARTAR-EROS" espelha o panteão RC (Caos=Javé/B088; Tártaro=Shiva; Eros=Vishnu — RC-286); grifos [sic] preservados ("CHOKMACH", "SVENTOVIT").
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -123,7 +123,7 @@
 | RC-115 | Val Aten | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109; RC-127 | — |
 | RC-116 | Val Bon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B060 | RC-133; RC-109; RC-027 | — |
 | RC-117 | Val Den | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-133; RC-109 | — |
-| RC-118 | Val Dimon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B020 | RC-133; RC-109; RC-086 | — |
+| RC-118 | Val Dimon | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B020, B060 | RC-133; RC-109; RC-086; RC-299 | — |
 | RC-119 | Val Ean | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109 | — |
 | RC-120 | Val El / Val Ellam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-071; RC-140; RC-068; RC-083 | — |
 | RC-121 | Val Elliah | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-043; RC-109; RC-072 | — |
@@ -140,7 +140,7 @@
 | RC-132 | Val Tam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-109; RC-018 | [✔](termos/RC-132-val-tam.md) |
 | RC-133 | Val dos Corpos Perdidos / Dimensionados | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-127; RC-109; RC-110; RC-112; RC-114; RC-115; RC-116; RC-117; RC-118; RC-130; RC-131 | — |
 | RC-134 | Viajores | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B031, B015 | RC-024; RC-082 | — |
-| RC-135 | Vishnu (Mavatna) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B024, B044, B001, B033, B016, B014, B020, B021, B022, B051, B036, P2022-12-17, P2021-12-04, P2026-07-30, P2024-05-04, P2026-04-02, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-08-03, P2024-07-14 | RC-037; RC-102; RC-104; RC-081; RC-009; RC-584; RC-622; RC-642; RC-565 | — |
+| RC-135 | Vishnu (Mavatna) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B024, B044, B001, B033, B016, B014, B020, B021, B022, B051, B036, B060, P2022-12-17, P2021-12-04, P2026-07-30, P2024-05-04, P2026-04-02, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-08-03, P2024-07-14 | RC-037; RC-102; RC-104; RC-081; RC-009; RC-584; RC-622; RC-642; RC-565 | — |
 | RC-136 | Yel (Família Yel) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B031 | RC-109; RC-078; RC-046; RC-137 | — |
 | RC-137 | Yel Adrax | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031 | RC-136 | — |
 | RC-138 | Yel Am / Yel Liam | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B011, B060, P2026-04-02, P2025-10-25 | RC-136; RC-120; RC-140; RC-072; RC-043; RC-647 | — |
@@ -304,7 +304,7 @@
 | RC-296 | Pitonisas e Oráculos (Apolo/Delfos) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B021, P2024-04-13 | RC-295; RC-145; RC-099 | — |
 | RC-297 | Era dos Humanos (Zeus e a) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, P2025-11-29, B087, B088 | RC-145; RC-300; RC-099; RC-094 | [✔](termos/RC-297-era-dos-humanos-zeus-e-a.md) |
 | RC-298 | Descendência de Pirra (Pirra e Deucalião) | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B021, P2024-11-09, B087, B088, B089 | RC-303; RC-304; RC-086; RC-301; RC-099 | [✔](termos/RC-298-descendencia-de-pirra-pirra-e-deucaliao.md) |
-| RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-08-03, B089, B050 | RC-086; RC-118; RC-145 | [✔](termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md) |
+| RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-08-03, B089, B050, B060 | RC-086; RC-118; RC-145 | [✔](termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md) |
 | RC-300 | Dissolução da Tríade (2015–2017) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, B022, P2022-12-17, P2024-11-30 | RC-104; RC-135; RC-102; RC-037; RC-155; RC-571 | — |
 | RC-301 | Prometeu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, B087, B088, B089 | RC-302; RC-145; RC-086; RC-304 | [✔](termos/RC-301-prometeu-tita.md) |
 | RC-302 | Epimeteu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, P2024-08-03, B087, B088, B089 | RC-301; RC-145; RC-086; RC-303 | [✔](termos/RC-302-epimeteu-tita.md) |
@@ -486,7 +486,7 @@
 | RC-478 | Chequinhá (veículo/nave de Javé) | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | ⚪ | B061 | RC-001 | — |
 | RC-479 | Belial (arconte; 'Satã' do livro de Jó) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | ⚪ | B061, P2022-12-17, P2026-08-04; RC-286; RC-072 | RC-474; RC-074 | [✔](termos/RC-479-belial-arconte-sata-do-livro-de-jo.md) |
 | RC-480 | Indra (título de arconte) | Seres & Entidades | 1.8 Consciências coletivas / Logos | ⚪ | B061, P2022-12-17, P2025-10-25, P2025-02-16, P2024-09-29 | RC-474; RC-145; RC-696; RC-700; RC-701 | [✔](termos/RC-480-indra-titulo-de-arconte.md) |
-| RC-481 | Maitreya (Dionísio; forma adiágena de Vishnu) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | B061, P2021-03-27 | RC-408; RC-306 | [✔](termos/RC-481-maitreya-dionisio-forma-adiagena-de-vishnu.md) |
+| RC-481 | Maitreya (Dionísio; forma adiágena de Vishnu) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | B061, P2021-03-27, B060 | RC-408; RC-306; RC-092 | [✔](termos/RC-481-maitreya-dionisio-forma-adiagena-de-vishnu.md) |
 | RC-482 | Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | B061 | RC-001; RC-474 | [✔](termos/RC-482-ialdabaoth-jave-samael-saklas-sabaoth.md) |
 | RC-483 | Barbelo (Mãe-Pai primordial gnóstica) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | B061, P2026-04-02, P2024-09-28 | RC-474; RC-647 | [✔](termos/RC-483-barbelo-mae-pai-primordial-gnostica.md) |
 | RC-484 | Anjos ministradores (Usá, Azá, Aziel) | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | ⚪ | B061 | RC-001; RC-485 | — |

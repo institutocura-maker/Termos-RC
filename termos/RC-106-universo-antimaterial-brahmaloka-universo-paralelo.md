@@ -22,6 +22,13 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 
 - **P2026-07-25:** Arabot-Ráquia (RC-495) situa-se no Brahmaloka — "uma morada no Brama Loca, onde há uma grande base laboratorial"; Shekinah como nave antimaterial que une os dois universos.
 
+
+## Ampliação — B060 (Personagens e Terminologias da Revelação Cósmica)
+
+- **[B060 p. 7 · verbete "Universo Antimaterial"]** equivalências: **Brahmaloka (✓ RC-106)** · **Daath (Cabala — "universo antimaterial+material, blindados"; RC-262 ✓)** · **Hyren (Druidística)** — ⚠️ **CROSS COM B085 *Hyren-Hyron: Universos em Colisão*** (2021, "Freitas e Kummer", sem PDF — o radar da Arca; a grafia da BIBLIO B085 é "Hyren-Hyron" ✓) · Niflheim (Nórdica) · Prav (Eslava) · Realidade adjacente (RC) · Yetzirah (Cabala) · **Yotukara (Yanomami)**.
+- **[B060 · quarentena]** antropológica (Yanomami); as equivalências druídicas Hyren/Hyron são o elo nominal com a B085 — registro, não validação da obra (sem PDF).
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

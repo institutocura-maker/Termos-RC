@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B060 — Personagens e Terminologias da Revelação Cósmica
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila. **CICLO ESPECIAL: a MATERIALIZAÇÃO DA B060** — a fonte de equivalências que a fundação já usou (67 termos citam B060).
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **+4 relações (1.852→1.856 — a primeira injeção da esteira)** · 6 fichas ampliadas · a divergência Maitreya anotada na RC-481 · Rochester sem código (conteúdo no pacote). Pasta em `livros/CONCLUIDOS/`. **O CICLO QUE ENCERRA A FASE DOS LIVROS.**
 
 ## 1. Identificação
 

@@ -47,6 +47,13 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[B033 p. 79]** o «1/3 faltante» da atitude mental da autoria universal «se refere à participação do Senhor Shiva».
 - **[B033 p. 82]** «somente os termos da responsabilidade do Senhor Shiva (Sai Baba) já foram delineados». «Prema Baba» (p. 80) **não** ganha código (O-3). Sem fusão com B037. Fonte **B033** já constava na tabela-mestra.
 
+
+## Ampliação — B060 (Personagens e Terminologias da Revelação Cósmica)
+
+- **[B060 pp. 6-7 · verbete "Shiva" — OS AVATARES EXÓTICOS]** "Savna, ser Pashvnaj do gênero Adhy de Perperion... Segundo Logos - Energia Tamas - Energia Escura - Destruidor" (✓ RC-102): equivalentes Binah (RC-675 ✓), Kek, Nidogue [Nidhogg], Perun, Shu, Tartar [Tártaro], Tefnut, Thyré. **Avatares (registro de curadoria religiosa/biográfica — O-4):** Bava · Brida · Hara · Ishvara (RC-691 ✓) · Kalki · Krishna ("avatar biodemol keshava") · Ogo (Dogon) · Pashupati (RC-669 ✓) · Prima Sai · **Rama** (Ramayana) · **Sai Baba de Shirdi (1838(?)–1918, Índia)** · **Sathya Sai Baba (1926–2011, "nome Sathyanarayana Raju")** · **Shankaracharya** ("Adi Xancara, formulador da Advaita Vedanta") — com a OBS. do documento: "na literatura Védica/Ariana/Hindu existem mais de 1.000 nomes de seus avatares".
+- **[B060 · quarentena]** religiosa/biográfica (os Sai Baba são personagens recentes reais); os avatares hindus = leitura de terceiros.
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
