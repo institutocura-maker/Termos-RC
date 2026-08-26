@@ -1,0 +1,13 @@
+{
+  "palestra": "P2023-11-19 — A Máquina da Criação: O Desmonte do Mundo",
+  "arquivo": "original.txt",
+  "sha256": "a4b722efe5c9705ec8589d505de7a9438a8f0f71cbae5f0fc32cb5b2fc74a622",
+  "bytes": 95414,
+  "palavras": 16008,
+  "linhas": 160,
+  "natureza": "DOCUMENTO HÍBRIDO: (1) refatoração estruturada da palestra (índice de 7 capítulos + resumos por tópico — material derivado, provável geração assistida: 'A análise da transcrição... foi possível estruturar o conteúdo em sete capítulos... conforme a solicitação') + (2) o RABICHO BRUTO do Q&A final (transcrição STT das últimas perguntas da plateia, linhas 134-159)",
+  "fonte_primaria": "A TRANSCRIÇÃO INTEGRAL STT da palestra NÃO está no arquivo — apenas a síntese estruturada + o fragmento do Q&A",
+  "upload": "commit 1fdfe12 (branch arena/01a03ad8-termos-rc, 2026-08-26)",
+  "inedita": true,
+  "extracao": "leitura integral direta (texto)"
+}

@@ -1,0 +1,8 @@
+CAMADA 1 — O DOCUMENTO BRUTO
+
+O texto bruto integral está em ../original.txt (a cópia byte a byte do upload; SHA a4b722ef...).
+Estrutura física: 160 linhas —
+  · linhas 1-133: a REATORAÇÃO ESTRUTURADA (título + "SUGESTÃO DE ESTRUTURA" + o índice dos 7 capítulos + os resumos por tópico 1.1-7.3)
+  · linhas 134-159: o RABICHO BRUTO DO Q&A (transcrição STT crua: as perguntas da plateia — Fidel, Maria Helena — e as respostas de Ellam)
+  · linha 160: (vazio)
+Nada interpolado; nada corrigido na voz bruta.

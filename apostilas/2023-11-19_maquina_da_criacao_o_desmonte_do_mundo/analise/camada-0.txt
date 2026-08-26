@@ -1,0 +1,20 @@
+CAMADA 0 — INVENTÁRIO DO ARTEFATO (P2023-11-19)
+
+- Arquivo: original.txt (cópia byte a byte de uploads_recepcao/2023-11-19 - A Máquina da Criação O Desmonte do Mundo.txt — upload do curador, commit 1fdfe12)
+- SHA-256: a4b722efe5c9705ec8589d505de7a9438a8f0f71cbae5f0fc32cb5b2fc74a622 · 95.414 bytes · ~16 mil palavras · 160 linhas
+- NATUREZA HÍBRIDA (a definição do rito):
+  · PARTE 1 (linhas 1-133): REATORAÇÃO ESTRUTURADA — "SUGESTÃO DE ESTRUTURA" + índice de 7 capítulos com resumos por tópico (1.1-7.3). Linguagem de síntese assistida ("A análise da transcrição da palestra... foi possível estruturar o conteúdo em sete capítulos principais... conforme a solicitação").
+  · PARTE 2 (linhas 134-159): O RABICHO BRUTO DO Q&A — transcrição STT crua das perguntas finais da plateia (com os erros de ditado) e o fechamento de Ellam ("nos preparemos enquanto ainda dá para almoçar sem ser OGMs").
+- ⚠️ A TRANSCRIÇÃO INTEGRAL STT do corpo da palestra NÃO está no arquivo — a fonte primária completa não foi fornecida (o curador decide: prosseguir com este material ou subir a integral).
+
+ESTRUTURA DA REFATORAÇÃO (7 capítulos)
+1. O Desmonte do Mundo e a Crise da Consciência Humana (incompletude; despreparo moral; vazio existencial)
+2. A Ascensão do Progresso Tecnológico (computação→IA autônoma; Amy Webb/"Os Nove Titãs da IA"; disputa pela dominação; computação ubíqua; metaverso)
+3. A Biologia Sintética: A Reescrita do Código da Vida (códons; os "estátuas de Javé" [tattvas]; a comparação com Prabrajna e a matrix; a "nova máquina da criação")
+4. A Problemática do Criador e o Impasse Cósmico (vrites→tátuas→citas [vrittis→tattvas→cittas]; o Projeto Talm; a falência da Trimúrti; a discórdia dos arcontos; Jesus "estragou o plano")
+5. A Resposta da Humanidade (compreensão; dignidade; Satyagraha/Gandhi; a "aura catena" [Áurea Catena]; o campo mórfico)
+6. O Novo Mundo (OGMs; especiação humana; transumanismo; o risco da escravização pela IA — Matrix/Blade Runner/Westworld)
+7. A RC como Catalisador (semear o conhecimento crítico; "Deus está no comando" = "transtorno mental"; os "mandantes do mundo" como Bill Gates; a rebelião dos elétrons; a nova mente universal/biocosmos; o Quarto Logos/Olm)
+
+O Q&A BRUTO (linhas 134-159)
+- "Fidel" (participante) e as perguntas sobre os "táos/távos" (tattvas — "partículas que em tese devem existir mas que funcionam para além do espaço-tempo da nossa matrix") e sobre o atraso de Sofia; a resposta sobre a discórdia dos arcontos ("o herdeiro da falência da Trimurte"); a pergunta sobre religião/cientistas; Maria Helena (Kummer) sobre o metaverso como laboratório; as famílias endogâmicas; genes ruins; "nem Chapolim Colorado resolve"; o corpo sem mazelas × o eu humano (genética + conector espiritual); o fechamento sobre o almoço sem OGMs.
