@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-06-17 — O Paradoxo Divino
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **6 fichas ampliadas** (RC-047 a exposição magistral da Deidade; RC-651 o deslacramento dos clones; RC-717 o veto vibratório; RC-694 o oitavo dia antecipado; RC-725/RC-615 a absorção do INCÔMODO CONSCIENCIAL) + RC-060/RC-019 no pacote (sem ficha — o precedente) · **8 vínculos** · **A APOSTILA LAVRADA** (14 PARTES; a cobrança a Krishna/Jesus ISOLADA EM BLOCO — a quarentena teológica no ponto máximo; o ChatGPT como registro tecnológico-cultural isolado) · pasta em `apostilas/CONCLUIDAS/` (45 apostilas).
 
 ## 1. Identificação
 
