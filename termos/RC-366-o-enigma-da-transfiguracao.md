@@ -31,6 +31,13 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 - **[B011 p. 135]** o encontro foi **solicitado** porque, "mesmo sendo Ele quem era, Sua consciência maior encontrava-se submetida aos fatores limitantes de um cérebro físico terrestre"; "caberia ao próprio Mestre acenar com a hora".
 - Expressões "alteração vibratória" e "assessoria cósmica" permanecem nos nós já existentes (RC-367/368) **sem ficha nova**.
 
+
+## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
+
+- **[P2023-06-03 · O EMBATE NO TABOR — A OUTRA LEITURA]** "os anjos de [Hochmah]... 'Jesus, nós queremos uma conversa reservada'... Jesus chama PEDRO, JOÃO E TIAGO, sobem no MONTE TABOR... uma nuvem envolve o monte; os apóstolos DESFAILECEM e SERES SE PROJETAM... **A TEOR DA CONVERSA: 'Nós estamos aqui porque você NÃO ESTÁ CUMPRINDO O QUE FOI ACERTADO LÁ NO ALTO ESCALÃO — e [Hochmah], que é a sua forma celestial, TÁ PREOCUPADÍSSIMO porque você tá fazendo o uso do CÓDIGO DELE... A ordem é você fazer, e você tá dizendo que não vai fazer... nós vamos interferir porque do jeito que você tá fazendo, você vai deformar, vai provocar MUTAÇÕES no ordenamento natural do genoma emprestado.**'"
+- **[P2023-06-03 · 'QUEM MANDA SOU EU']** "Aí Jesus disse: 'Não interfiram.' — 'Mas Jesus, será que você, na sua condição humana, não tá meio tantã?' — **AÍ JESUS NESSA HORA TRANSFIGURA, ou seja, metamorfoseia o seu corpo dentro de um padrão celestial, E FALA COM OS ANJOS NA LINGUAGEM QUE SE USA NO SISTEMA DE CAPELA, onde esses anjos residem** [RC-039/RC-350]: 'Eu estou mostrando a vocês aqui... que eu estou compreendendo muito bem o que está se passando. SÓ QUE EU ESTOU DECIDINDO QUE EU NÃO VOU FAZER ISSO E VOCÊS NÃO INTERFIRAM. QUEM MANDA SOU EU.' — **NÃO INTERFERIRAM.**' Aí Pedro [acordando]: 'Mestre, você quer que eu construa mais tendas?' — 'Durma, Pedro, durma.' **NO OUTRO DIA, quando Jesus desce do Monte Tabor, começa a anunciar que IRIA MORRER.**" — ⚠️ **A DIVERGÊNCIA com a leitura do B011 (Moisés e Elias; a Assessoria Cósmica RC-368) REGISTRADA SEM FUSÃO** (a decisão de fundir é do curador; a Devolutiva O-2: "mantendo a divergência com o B011 documentada, mas sem forçar fusão estrutural").
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

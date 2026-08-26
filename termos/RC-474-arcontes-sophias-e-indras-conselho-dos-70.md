@@ -26,6 +26,14 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **Lógica não humana:** nenhum membro pensa como humano; únicos candidatos humanos: Jesus (rejeitado) e Saibaba (não quis entrar).
 - **Crise:** "dias contados" — universo vizinho colapsando, sem novos membros, seres de Ensá saindo, Krishna alinhado ao inevitável; transição: arcontes nascendo como humanos.
 
+
+## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
+
+- **[P2023-06-03 · A ETIMOLOGIA RC DO TERMO]** "ARCONTE é uma expressão grega que **SURGIU QUANDO JESUS RESSUSCITADO se referia a esses donos de faixa de realidade**... como isso foi produzido na linguagem grega, surgiu esse termo arconte. **Mas o que é um arconte? É UM ALGUÉM QUE SE JULGA DONO DE UMA REALIDADE, de uma faixa de realidade, de uma morada, de um lugar.**" — a origem do termo atribuída ao próprio Jesus ressuscitado (nas revelações à Madalena e ao grupo gnóstico).
+- **[P2023-06-03 · OS ORIXÁS COMO ARCONTES]** "Javé [é] arconte-chefe... qualquer desses deuses de quaisquer mitologias são chamados arcontes... **OS ORIXÁS, SIM — da tradição iorubá [STT: 'eubá'], os que a gente conhece na cultura brasileira e de Cuba... NADA MAIS SÃO DO QUE OS MESMOS DEUSES DAS MITOLOGIAS GREGA, ROMANA, HINDU, [ariana?] — só que chamados de outra forma e tratados através de histórias específicas da cultura africana. São arcontes.**"
+- **[P2023-06-03 · 'SOLTEM AS MINHAS ALMAS' — E ELE AGIU]** "Jesus começou a dizer aos arcontes... que se apoderavam dos espíritos dos humanos que iam morrendo: **'SOLTEM AS MINHAS ALMAS SENÃO EU VOU TER QUE AGIR.' E OS ARCONTES NÃO SOLTAVAM — E ELE AGIU.**" + o antes/depois: "antes de Jesus, os arcontes PEGAVAM os espíritos sobrepostos [dos mortos]... **DEPOIS DO QUE JESUS FEZ, HOJE OS ARCONTES NÃO PEGAM MAIS**" + os arcontes do 1º ao 5º céu negando a vestimenta de suzerano a Jesus ("todos eles dizem que JESUS TRAIU JAVÉ").
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

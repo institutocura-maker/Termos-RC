@@ -67,6 +67,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[B033 p. 81]** a «tão prometida volta» de Jesus «tem tudo a ver» com a divisão da gestão universal aceita por Brahma.
 - **[B033 p. 82]** o retorno «à pedido do Senhor Javé» está dificultado por problemas na hierarquia celeste. Sem calendário. Anunnakis / naves = **ufológica — fora**. Sem fusão com B001 / B002 / B011. Fonte **B033** acrescentada na tabela-mestra.
 
+
+## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
+
+- **[P2023-06-03 · A IDENTIFICAÇÃO DAS VINDAS — a fonte mais antiga]** "a vinda do **Avatar KALKI** [STT: 'Calk/Avatarcal'] — QUE É A MESMA VINDA DE MALKUTH, que é a mesma vinda do **MAHDI** [STT: 'Madi' — os islâmicos]... o RETORNO DE JESUS [os cristãos], a vinda do MESSIAS [os judeus] — **MAS NÓS ESTAMOS FALANDO DE UMA MESMA ENTIDADE. Isso tudo aqui é UMA DISPUTA PELA SUZERANIA UNIVERSAL**, porque esse ser é o único nesse universo, e os outros que disputam esse poder são OS HERDEIROS DA TRIMURTI** que estão no universo [vizinho]" + a promessa integral (a Tiago): "'eu voltarei... **NÃO nascendo como ser humano de novo, MAS NA MINHA FORMA CELESTIAL — E TODOS OS OLHOS QUE ESTIVEREM VIVENDO NA TERRA ME VERÃO VIR POR SOBRE AS NUVENS, CERCADO POR MINHAS HOSTES ANGELICAIS**'... assim será a vinda de Malkuth — ou a vinda de Sofia — **QUE É O RETORNO DE JESUS NA SUA FORMA CÓSMICA**" + "SEGUNDO AS FOFOCAS, ISSO ESTÁ PARA BREVES DIAS. QUEM VIVER VERÁ" ⚠️ [quarentena biomediúnica] + "NÃO há nada que nós humanos possamos fazer... a vinda de Sofia... NÃO TEM NADA A VER com os humanos" + a condição (Elan): ele viria "não na estrutura já falida da Trimurti [a devoção]" — disputando a suzerania.
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

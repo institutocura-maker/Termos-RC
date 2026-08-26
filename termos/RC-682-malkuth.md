@@ -25,6 +25,12 @@ Forma preferida: Malkuth.
 
 - **[P2024-07-14] Malkuth = Hochmah = Sophia (U0801–U0815):** "vocês criaram uma última, que é a décima, chamada Malkuth, que foi criada no universo vizinho. E no universo em que eu, Enoque, vivo, tem uma que é Malkuth ou Hochmah ou Sophia" — reafirmação da correspondência canônica Malkuth = Hochmah = Sophia; "os humanos eram os únicos capazes de, sob o comando de Malkuth, um dia reparar tanto os defeitos da obra quanto do criador nela caído".
 
+
+## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
+
+- **[P2023-06-03 · MALKUTH E A VESTIMENTA NEGADA]** "eu deveria receber a minha **VESTIMENTA DE SUZERANO, DE HERDEIRO DA CRIAÇÃO**... **MAS OS ARCONTES DO PRIMEIRO CÉU, DO SEGUNDO, DO TERCEIRO, DO QUARTO, DO QUINTO CÉU NÃO QUEREM DAR**... porque todos eles dizem que **JESUS TRAIU JAVÉ** — e o Jesus ressuscitado também traiu; e além de trair, TAVA DENUNCIANDO PUBLICAMENTE. Aí Jesus disse: '**MAS EU ASSUMIREI A SUZERANIA — mais um pouco eu farei**'" (o diálogo com Tiago) + a identificação das vindas (Kalki = Malkuth = Mahdi = Messias = Jesus — RC-005) + a leitura cabalística: "MALCUT [Malkuth], a décima sefirá... É O MESSIAS QUE ELES [os judeus] ESTÃO ESPERANDO. Porque até hoje eles não aceitam o fracassado Jesus... já que ele foi crucificado como [traidor]".
+- 0 códigos novos (O-3).
+
 ## Fontes
 P2025-05-31.
 

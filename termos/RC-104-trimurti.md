@@ -164,6 +164,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2023-09-09 · o Q&A — a escolhambação]** "hoje é uma escolhambação... quando o vazio de comando, de poder impera o cada um por si, é algo tremendamente mais trágico ainda... A vinda de Hochmah [STT 'Rockma'] ou Sophia deve pôr em ordem algumas partes desse processo. As decisões que Krishna tomar ao longo dos próximos séculos também" — o pós-colapso: Hochmah/Sophia + Krishna.
 - 0 códigos novos (O-3). Quarentena científica (as colmeias/Golfo como leitura).
 
+
+## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
+
+- **[P2023-06-03 · O COLAPSO DA TRIMURTI EM 2018 — A RESOLUÇÃO DA ANOMALIA]** **[RESOLVE o [REVISAR] "'20171'" da P2023-12-02]** "Persiste da pior forma possível: **BRAHMA E VISHNU JÁ NÃO MAIS EXISTEM no sentido como existiam antes. SÓ SHIVA OU BINÁ é que ainda funciona**... **AQUI começou biologicamente em 2007; LÁ FOI NO ANO 2018.**... **A TRIMURTI COLAPSOU IGUAL A UMA COLMEIA. SOBROU CHIVA; OS OUTROS EUS FORAM DESATIVADOS — MAS O EU DE JAVÉ AINDA PRECISA SER RESSUSCITADO LÁ NA FRENTE**... a questão são **OS HERDEIROS DA TRIMURTI que estão em GUERRA — não é mais a Trimurti**" — o paralelo colmeia/Trimurti (a confirmação independente do dossiê do buraco negro mental, P2023-06-24) + "sou uma voz solitária falando disso porque fui obrigado a assistir" ⚠️ [quarentena biomediúnica].
+- **[P2023-06-03 · PANKU — a cosmogonia chinesa]** "na mitologia chinesa... nada surgiu um OVO; esse ovo quebrou e saíram três coisas: o [yin], o yang e **PANKU [Pangu], o criador caído**... a própria Cabala diz: há um Deus exilado na sua própria obra... **A Cabala, para transformar uma queda num passo de dança, diz: 'mas esse Deus SE EXILOU POR AMOR'**" (a cosmogonia chinesa como o espelho do Big Bang dual: matéria × antimatéria).
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
