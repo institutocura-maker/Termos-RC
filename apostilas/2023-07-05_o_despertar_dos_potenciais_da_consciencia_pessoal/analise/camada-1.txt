@@ -1,0 +1,4 @@
+CAMADA 1 — O DOCUMENTO BRUTO
+O texto bruto integral está em ../original.txt (SHA 44886654...).
+Estrutura: 37 linhas — o núcleo monológico (linha 3, 47.413 chars) + o Q&A (as linhas 4-36: o avião, a Trácia/Agostinho, o telos, os peptídeos, a visita dos 27 anos).
+Nada interpolado; nada corrigido na voz bruta.
