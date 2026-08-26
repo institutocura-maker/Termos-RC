@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B089 — Os Livros da Vida de Pandora 3: Os Anunnaki e a Disputa pela Genética de Pandora
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 11 — esteira `arena/01a03ad8-termos-rc`).** 15 fichas dos DOIS clusters ampliadas (Pandora/Olimpo + Anunnaki: RC-086/024/487/486/587/589/303/145/301/302/299/298/285/727/736) + **B089 nas fontes de 17 termos** (15 + os opcionais RC-152 e RC-051); status **`trabalhada`** + nota completa na BIBLIO; **0 códigos** — Témis e Ares como **nós satélites estruturais** (sem código, per a Devolutiva). Pasta em `CONCLUIDOS/`. **A TRILOGIA PANDORA FECHOU.** Sem apostila.
 
 ## 1. Identificação
 

@@ -22,6 +22,13 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 
 - **[P2022-12-17 — FONTE ORIGINAL] Nibiru (U0850–U0860):** "as sete armas atômicas que vieram de Nibiru [STT 'Dibiru'] pra Terra... Marduk e que Ninurta, que são os filhos de Enki e Enlil, sabiam onde estava. Eles pegaram essas bombas para resolver o conflito".
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 64–65 · o planeta em crise]** "**No nosso planeta, que chamamos de 'Nibiru'... a camada que o protege das radiações que vêm do espaço, está a deteriorar-se**... se nada for feito, **Nibiru perderá as suas condições de abrigar vida** e, consequentemente, o nosso povo perecerá."
+- **[B089 p. 65 · o ouro]** "**Este ouro, quando transformado num pó fino, é lançado em cima da camada que protege o nosso planeta**... O mais impressionante é que ela absorve este tipo de material de tal maneira que **se regenera com ele**. Portanto, precisamos voltar à Terra, de tempos a tempos."
+- 0 códigos novos (O-3). Quarentena ufológica CRÍTICA (O-7 — cruzar com a linha RC, jamais fundir). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -79,3 +79,12 @@
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
 ---
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 40 · ARES caracterizado]** "**autoritário, violento, controlador, vil e malvado. Destruir, era sempre o seu objetivo, porém, antes... achava melhor se ainda pudesse humilhar o seu adversário... primeiro, ele adorava causar sofrimento, para só depois aniquilar** o adversário. Esse era Ares, o 'Deus da Guerra', filho de Zeus e Hera." (Ares = **nó satélite estrutural** — sem código, Devolutiva O-3.)
+- **[B089 p. 42 · TÉMIS]** "**a minha criadora faz parte dos doze titãs chamados de 'Deuses Anciães'**... Témis é tida entre nós, os olimpianos, como a **'Deusa da Justiça e do Conhecimento'**." (Témis = nó satélite estrutural — sem código.)
+- **[B089 p. 88–90 · o conselho e a guerra]** Zeus + Poseidon + Hades + Ares + Atena reunidos; "Convocai a 'Assembleia dos Deuses'!"; **o ataque chefiado por Ares e Atena** — a vitória total ("nenhum deles sobreviveu").
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
+---

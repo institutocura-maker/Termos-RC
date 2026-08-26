@@ -29,6 +29,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 
 - **Enlil (P2025-05-31):** par de Enki no comando dos igigis; os igigis "não queriam mais obedecer nem a Enlil, nem a Enki"; sede em "Lammur" (Marte).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 54]** "**Saudações, Príncipe Enlil!**... **Aqui me reporto sob a ordem do meu pai e Rei Anu.**" (a apresentação por Prometeu — o contato prévio: "No passado, estive aqui a convite de um titã chamado Prometeu!")
+- **[B089 p. 53 e 61]** a caracterização: "um ser **frio, sem expressões emocionais**... educado e que falava de modo cortês, porém não demonstrava qualquer emoção" — "a malícia por trás da cordialidade" (SINTESE, p. 1).
+- **[B089 p. 61–62]** **a análise genética de Pandora e Pirra** com o equipamento da nave (Pirra: "um poder de renovação"; Pandora: "em fase de transformação... não está definida enquanto espécie"); "**Como matéria de pesquisa, Prometeu, quero acompanhar a evolução dela!**"
+- **[B089 p. 80–84 · o banquete]** vestido simples + a coroa ("a minha palavra é sagrada"); o pedido ("retirar um pouco do seu fluído vital"); **a recusa de Epimeteu e o recuo régio**: "**Sem a sua permissão, nada será feito**... Todavia, digo-lhes que **não mais serão convidados à minha presença**."
+- **[B089 p. 105 · a fuga]** "**Enlil teve de sair rapidamente**... conseguiu decolar dos ambientes terrenos com a sua nave... **em fuga!**... Atena e outros deuses aguardavam por eles no espaço aéreo! **Não sei o que aconteceu com Enlil e a sua nave.**" (o destino fica ABERTO.)
+- 0 códigos novos (O-3). Quarentena ufológica CRÍTICA (O-7 — cruzar com B060/B061, jamais fundir). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -67,6 +67,17 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[B088 p. 90 · o chamado de Témis]** "somente após essa conversa é que Pandora entenderá **o papel que lhe cabe desempenhar** no que Témis chamou de 'o início da criação de uma nova espécie'" (→ B089).
 - 0 códigos novos (O-3). Voz de Pandora (psicografia) — **leitura do ser** (O-7: isolamento total, sem prefácio de Ellam). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 9 · paratexto de Kummer — QUARENTENA INSTITUCIONAL (doutrina de segunda mão)]** "**Ao nascer como um ser assexuado e já pronto para a vida, KADMON, filho da titânide Themis (ou Témis) e de Zeus, o 'Rei do Olimpo', jamais imaginou que se tornaria a primeira mulher da humanidade terrestre**, a grande ancestral que, mais tarde, ficou conhecida como Pandora." (a origem do nome — cross RC-299.)
+- **[B089 p. 61–62 · o diagnóstico de Enlil]** "**as moléculas... em Pandora, ainda estão em fase de transformação. Portanto, ela não está definida enquanto espécie.** É fascinante poder constatar isso!" — e o interesse: "**Como matéria de pesquisa, Prometeu, quero acompanhar a evolução dela!**"
+- **[B089 p. 66 · o comandante]** "**você seria um excelente protótipo para criarmos uma nova espécie entre os Anunnaki**" — a "disputa" do título (contida pela poção de camuflagem e pela recusa no banquete).
+- **[B089 p. 73–74 · a "propriedade" simulada]** a estratégia de sobrevivência: "**Como poderei... ter um comportamento dessa classe, deixando que me vejam como uma propriedade de alguém?**" (quarentena social/de gênero — a submissão era SIMULADA, e ela a detestava.)
+- **[B089 p. 9–10 · Kummer]** a encarnação ("o Espírito de Pandora obteve sucesso **já na segunda tentativa**"); a resistência psíquica ("essa 'marcação' no seu DNA espiritual bloqueia essas interferências quando o seu Espírito reencarna — **e ela prefere vir no sexo feminino**").
+- **[B089 p. 106 · o final aberto]** o reencontro com os proto-humanos fica prometido ("Teria de aguardar por mais algum tempo para obter essa resposta!") — a trilogia fecha sem fechar.
+- 0 códigos novos (O-3). Voz de Pandora (psicografia) — **leitura do ser** (O-7). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

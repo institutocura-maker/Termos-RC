@@ -32,6 +32,12 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 - **[B088 p. 55–56 · o plano genético]** "**eu e Pirra seremos as 'futuras fêmeas' que devem procriar com esses seres**, para termos 'melhores protótipos desta nova espécie'... ao mesclarmos as genéticas olimpiana e titã com essa 'humana', dessa mistura nascerá uma espécie que será diferente de tudo o que existe até agora!"
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 9 · paratexto de Kummer]** "as musas tiveram contato com **Pirra — a filha de Pandora e Epimeteu — e o seu consorte Deucalião**." — **Deucalião confirmado como o par de Pirra** na psicografia (aprofunda RC-298; a profecia dos delírios do B088 [Pirra + o futuro filho de Prometeu] segue o caminho mitológico clássico).
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

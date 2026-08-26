@@ -42,6 +42,16 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[B015 p. 18]** NAT: Ellam julga que a referência de Zont aos «poucos terráqueos» que estudam o passado «tem a ver com os livros de Zecharia Sitchin, dentre outros»; o revelado «apenas confirma o que já havia sido publicado». **Referência externa — não ontologia.**
 - **[B015 p. 18]** NAT: «O único painel inédito penso ser o que se refere à origem dos anunnakis». **Quarentena ufológica / científica.** Caps. 1–17 **isolados**. Sem fusão com B017 / B023. Fonte **B015** acrescentada na tabela-mestra.
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 60]** o tratamento régio: "**Ó 'Senhor dos Anunnaki', segundo governante de Nibiru, Príncipe Enlil!**" (a hierarquia e o cerimonial).
+- **[B089 p. 65 · A BUSCA POR ESCRAVOS]** "Muito seria útil termos escravos para escavarem em busca de ouro, pois este apenas é encontrado nas profundezas da terra!... **Se tivéssemos seres, neste planeta, que entendessem as nossas ordens e que pudéssemos obrigar a trabalhar o dia todo... iríamos mais rápido para casa.**" (o tema central — quarentena ética; a crítica implícita da obra: a recusa de Pandora.)
+- **[B089 p. 67 · a pureza genética]** "**Temos muito cuidado em preservar a nossa pureza genética**... não nos misturamos com outras espécies"; a realeza endogâmica (Anu + Ki, a irmã).
+- **[B089 p. 105 · a destruição]** "Quanto aos **Anunnaki que ficaram frente a frente com Ares, nenhum deles sobreviveu**... uma cena apavorante ver o 'Deus da Guerra' em ação."
+- **[B089 · DIVERGÊNCIAS × a linha mesopotâmica da RC (B060/B061) — variações da psicografia, JAMAIS FUNDIDAS (O-4/O-7)]** (1) a guerra deste volume é **Olimpo×Anunnaki** (Ares/Atena) — a RC tem a própria (RC-583, a Guerra Nuclear das Sete Armas Atômicas); (2) aqui os Anunnaki **buscam** escravos e NÃO conseguem — na linha RC (B060: Ninmah geneticista; Enki e o gene FOXP2/RC-486) eles CRIAM a espécie trabalhadora; (3) a nota p. 63 (fonte Wikipédia) define os Anunnaki como "divindades sumérias, acádias e babilônicas... descendentes de Anu, o 'deus do céu', e a sua consorte Ki, a 'deusa da terra'" — no corpo do livro, **Ki é a irmã-esposa de Anu e mãe de Enlil**.
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

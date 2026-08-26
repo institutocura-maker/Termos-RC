@@ -22,6 +22,13 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 
 - **[P2022-12-17 — FONTE ORIGINAL] Anu (U0830–U0850):** "Anu era o dono da terra, na lógica dos Anunnaki"; "Anu, que é o pai de Enki e Enlil, não sabe como resolver a situação"; "Anu ficou p da vida com tudo isso e os Anunnaki perderam a capacidade de continuar a disputar com outras forças o domínio na Terra"; "Anu chamou todo mundo de volta, ainda que alguns tenham ficado".
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 54]** "**Aqui me reporto sob a ordem do meu pai e Rei Anu.**" — e (via Epimeteu, p. 50): "o seu governante e pai havia se comunicado com ele e **lhe ordenado para não demorar mais**" (o rei pressiona o príncipe).
+- **[B089 p. 67 · a linhagem]** "**todos da realeza descendem do mesmo ramo genético do nosso Rei Anu. Veja, ele e a nossa Rainha Ki, que é a sua irmã, são descendentes diretos dos nossos mais antigos governantes.** O rei manteve a pureza da sua linhagem ao procriar com ela, e deles nasceu o nosso Príncipe Enlil."
+- 0 códigos novos (O-3). Quarentena ufológica (O-7). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

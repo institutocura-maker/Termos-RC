@@ -27,6 +27,14 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - **[B088 p. 87 · o diagnóstico de Prometeu]** "assim era o 'rei do Olimpo', Zeus — **um ser totalmente manipulável simplesmente devido ao medo de perder o seu trono**, que é bom lembrar, que **lhe foi oferecido pelos outros deuses**!"
 - 0 códigos novos (O-3). Quarentena ufológica (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 88–90 · o conselho de guerra]** "**Como eles ousam aportar nos ambientes terrenos sem a minha permissão!** Eles verão com quem estão lidando!"; "os meus domínios foram violados!" (Hades); "**Combateremos esses inimigos e mostraremos a eles quem é que manda nos céus, nas águas e, principalmente, no submundo terreno!**"
+- **[B089 p. 87–90]** a cena do conselho: Zeus + Poseidon + Hades + Ares + Atena + Témis; a ordem: "Convoque a 'Assembleia dos Deuses', sem perda de tempo!"; a vitória ("o Olimpo está a comemorar o rápido desfecho desse ataque").
+- **[B089 p. 97 · o rei manipulado]** "**Ela [Témis] faz isso o tempo todo, até mesmo com o próprio Zeus e ele nem se dá conta que, muitas vezes, as ordens que dá, na verdade, foi ela que as inseriu na sua mente!**" — o "Rei do Olimpo" como o manipulado (Témis = **nó satélite estrutural** desta ficha, sem código — Devolutiva O-3).
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

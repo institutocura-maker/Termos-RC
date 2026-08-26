@@ -29,6 +29,15 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 - **[B088 p. 68 · o poder titânico]** a persuasão magnética: "**Não há ninguém que eu não consiga convencer** de algo quando invoco, em mim, todo o meu poder de magnetizar aquele a quem estou a dirigir-me."
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 52 e 54 · o contato prévio]** o líder Anunnaki: "**Reconheço este lugar! No passado, estive aqui a convite de um titã chamado Prometeu!**" — Prometeu conhecia Enlil havia muito tempo (o motivo da missão dada por Zeus).
+- **[B089 p. 19–20 · os transes]** "**Isso está sem controle e anda a ocorrer cada vez mais frequentemente!** Preciso fazer algo para dominar esse processo!" — e a revelação de Témis: ela TAMBÉM é dominada pelas mesmas forças ("Eu também sou dominada por forças que não consigo identificar" — p. 33).
+- **[B089 p. 57 · a leitura dos Anunnaki]** "**Esses extraterrestres são arrogantes e dão valor às hierarquias e ao poder.** Penso que você não vai desejar que a nova espécie tenha essas características!" — os Anunnaki NÃO são o modelo para os humanos.
+- **[B089 p. 68 · a missão misteriosa]** Prometeu parte "numa missão" (dada por Enlil?) — "Eu não posso ficar por mais tempo, porque tenho uma missão que preciso rapidamente efetivar."
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

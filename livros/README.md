@@ -23,11 +23,13 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B089_pandora_3_anunnaki_disputa_genetica_pandora/` — ingresso + leitura integral (108 págs — o maior da trilogia) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; sem prefácio de Ellam — paratexto triplo com texto de Mana Helena Kummer). **Fonte nova** (0 termos citavam B089) — 3º ciclo de vinculação: clusters Pandora/Olimpo **+ ANUNNAKI**. Decisão pendente: as fichas de **Témis** e **Ares** (ganharam densidade — palavra da Devolutiva B088).
+Nenhum (B089 fechado em 2026-08-25 — **A TRILOGIA PANDORA (B087–B089) FECHOU**). Próximo ciclo: na ordem do curador (pendências: B059 sem PDF — só físico; obras completas B027/B035; B076–B078; B085/B086/B090).
 
 Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 
 ## Último ciclo
+
+`CONCLUIDOS/B089_pandora_3_anunnaki_disputa_genetica_pandora/` — **B089 *Os Anunnaki e a Disputa pela Genética de Pandora*** (obra secundária — psicografia de Jeane Miranda; sem prefácio de Ellam — paratexto triplo com o texto de Mana Helena Kummer em quarentena institucional): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **15 fichas dos DOIS clusters ampliadas (Anunnaki: RC-024/487/486/587/589 + Pandora/Olimpo) + B089 nas fontes de 17 termos; 0 códigos — a fortaleza 777; status `trabalhada`**. Témis e Ares = nós satélites estruturais (sem código — decisão da Devolutiva). As divergências × B060/B061 registradas como variações, jamais fundidas. **FECHA a trilogia (final aberto — o destino de Enlil e o reencontro ficam prometidos).**
 
 `CONCLUIDOS/B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/` — **B088 *Os Livros da Vida de Pandora 2*** (obra secundária — psicografia de Jeane Miranda; **sem prefácio de Ellam** — a nota é o "Manifesto de Pandora"; ⚠️ ed. 2022 com título interno alterado: "As Poções dos Titãs e a Ameaça do Olimpo"): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **12 fichas do cluster ampliadas + B088 nas fontes de 13 termos (12 + RC-465); 0 códigos; status `trabalhada`**. Cross cruciais: Pandora em Capela; a humanização concluída; a profecia Pirra+filho de Prometeu (Deucalião); o medo da morte de Zeus; Khaos=Javé. Témis e Ares: observacionais.
 

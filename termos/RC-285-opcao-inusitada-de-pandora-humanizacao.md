@@ -35,6 +35,12 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - **[B088 p. 38–41 · as emoções]** o abraço do "macho especial" ("senti vontade de que ele me abraçasse... 'sensações' de 'paz' e de 'aconchego'"); "Aquele foi o dia das grandes 'emoções'. Cada encontro... provocava-me emoções fisiológicas e psíquicas."
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 60–62]** a apresentação a Enlil: Pandora "**fez uma transferência de fase e tornou-se um protótipo de uma nova espécie que estamos a chamar de biológica**" (Prometeu); o diagnóstico do aparelho: "**as moléculas... ainda estão em fase de transformação. Portanto, ela não está definida enquanto espécie.**" — a "Opção Inusitada" segue ABERTA (a transmutação de Pirra, sem poções, como o eco — p. 77).
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

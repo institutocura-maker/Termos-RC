@@ -28,6 +28,13 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[P2024-08-03 — destaque O-2] Enki e o FOXP2 (U1554–U1568):** "Enki foi quem introduziu [o gene FOXP2]"; "esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma"; "se você pegar fósseis de 100.000 anos de Homo sapiens não tem desse gene... só tem de 40 e poucos mil anos para cá"; a história científica do gene com milhões de anos (herdado dos australopitecos) é distinta — "algo no mar fez isso" [leitura do autor; quarentena científico-genética].
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 67 · a genealogia real]** "**O seu meio-irmão, o Príncipe Enki, é o filho primogénito de Anu.**" — Enki NÃO aparece no corpo do volume (apenas na genealogia relatada pelo comandante: o primogênito × Enlil, o sucessor filho da rainha Ki).
+- **[B089 · observação]** a linha mesopotâmica da RC (B060/B061: **Enki inoculou o gene FOXP2** — RC-486) e a versão deste volume (os Anunnaki sem escravos, buscando espécie) são **paralelas** — variações registradas, jamais fundidas (O-4).
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

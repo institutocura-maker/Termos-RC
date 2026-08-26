@@ -26,6 +26,16 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - **[B088 p. 55]** a "futura fêmea" do plano genético (com Pandora) — ver RC-298.
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 97 · a expulsão de Témis]** "Quando percebi que ela estava a investigar dentro da minha própria mente, **logo me defendi!**... Apanhei-a de surpresa... **expulsando-a da minha mente, advertindo-a que não mais agisse assim comigo.**" — e a constatação de Pandora: Témis "invade facilmente as mentes deles [dos olimpianos], colhendo informações e até mesmo plantando sugestões, **sem que sequer percebam!**"
+- **[B089 p. 99 · O MELHOR PROTÓTIPO]** "**Pirra era o melhor resultado alcançado até então... o que de melhor existia a partir dessas duas estirpes!**" (Epimeteu: "o melhor protótipo que existe dos titãs e dos olimpianos" — a revelação que Témis buscou.)
+- **[B089 p. 61 · o diagnóstico de Enlil]** "as moléculas que formam o seu corpo têm em si **um poder de renovação** que servirá para que possa viver durante muito tempo" (as moléculas de Pirra estabilizadas × as de Pandora em transformação).
+- **[B089 p. 77 · a transmutação natural]** "a minha genética biológica foi repassada para ela... **estava a alterar o seu código genético**, anexando a parte biológica... na sua composição corporal de titânide e olimpiana" — a transformação de Pirra ocorre SEM poções.
+- **[B089 p. 103 · a teoria da adversidade]** "talvez, estejamos o tempo todo a vivenciar situações de confronto para, de algum modo, ao acharmos soluções que nunca foram pensadas por nós, anexar nos nossos cérebros um novo modo de pensar... **para dar um salto em direção ao desconhecido.**"
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

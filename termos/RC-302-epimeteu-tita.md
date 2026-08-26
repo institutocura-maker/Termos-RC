@@ -48,6 +48,16 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[B088 p. 42]** "**Éramos como pai e filha**, cada um cuidando e protegendo o outro!"
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 83 · A RECUSA no banquete]** "**pensa que permitirei que a minha esposa seja assim tratada?**... **Não admito que toquem na minha esposa!**... considero esta solicitação uma verdadeira afronta!" — o momento decisivo da disputa (Enlil recua: "Sem a sua permissão, nada será feito").
+- **[B089 p. 71–72 · a estratégia da 'propriedade']** "os Anunnaki gostam de respeitar as hierarquias... **se eu me colocasse na posição de responsável por você, eles teriam de falar comigo**" — a proteção pela lei da hierarquia Anunnaki.
+- **[B089 p. 77–78 · a poção de camuflagem]** "**terá a propriedade de camuflar a verdadeira constituição da sua atual genética**... baralhe o seu código, por algumas horas" (de 4 em 4 horas — a proteção do genótipo contra a pesquisa de Enlil; quarentena clínica — leitura narrativa).
+- **[B089 p. 76 · os 'mundos virtuais']** (via Pirra): "se eu ou você não existíssemos na sua vida, **ele já teria se transportado para um dos seus mundos virtuais, pois lá ele é feliz**" — o refúgio do vício das poções.
+- **[B089 p. 98 · O PRESSENTIMENTO]** "**Talvez o meu tempo já esteja por acabar**, e devo treiná-las a sobreviverem sem a minha ajuda. Eu sinto isso..." (eco do destino trágico do mito — o fecho da trilogia deixa a sombra).
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -24,6 +24,12 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 
 - **[P2024-08-03 — destaque O-2] A cadeia de Pandora (U1414–U1419):** "era Pandora sorrindo, se sentindo livre do domínio de Zeus"; "ele antes era um ser que se chamava Kalil Kadmon [STT: 'Cali Calon']; disso veio o Adam Kadmon, que é outra história, mas que se misturou; e assim, agora se sentia mulher, o nome que deu foi Pandora"; "uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora".
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 9 · paratexto de Kummer — QUARENTENA INSTITUCIONAL]** "**Ao nascer como um ser assexuado e já pronto para a vida, Kadmon, filho da titânide Themis (ou Témis) e de Zeus, o 'Rei do Olimpo', jamais imaginou que se tornaria a primeira mulher** da humanidade terrestre, a grande ancestral que, mais tarde, ficou conhecida como Pandora." — **a origem do nome-demo na psicografia** (paralela à revelação de B021).
+- 0 códigos novos (O-3). Texto de terceiros ("baseado nos ensinamentos de Jan Val Ellam") — **registro sem promover a paratexto autorizado** (O-1/O-7). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

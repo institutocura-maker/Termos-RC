@@ -46,6 +46,14 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[B088 p. 35]** **Capela** e os **13,8 bilhões de anos** (ver RC-086) — a autobiografia de Pandora ancora a linhagem na cosmologia RC.
 - 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B089 (A Revolta do Anjo Decaído)
+
+- **[B089 p. 67 · o CONTRASTE genético]** a pureza Anunnaki ("**Temos muito cuidado em preservar a nossa pureza genética**... não nos misturamos com outras espécies") × a miscigenação de Pandora (a "transferência de fase"; a genética "não definida") — **a disputa do título é entre duas filosofias genéticas** (a pureza × a mistura criadora).
+- **[B089 p. 9–10 · Kummer]** a assinatura quântica no DNA dos ex-olimpianos ("os seres olimpianos... conseguem mexer no DNA desses humanos cuja assinatura quântica os identifica"); a resistência de Pandora (o DNA espiritual que "bloqueia essas interferências").
+- **[B089 p. 6 · Jeane]** "condiciona-nos a ficar presos aos ditames de **uma genética que nos sentencia a agir e pensar de determinado modo**" — e a libertação ("temos a possibilidade de nos libertar").
+- 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
