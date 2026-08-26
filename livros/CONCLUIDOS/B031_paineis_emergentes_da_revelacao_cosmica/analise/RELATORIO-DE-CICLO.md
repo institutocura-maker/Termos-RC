@@ -17,7 +17,7 @@
 
 ## Notas de aplicação (transparência para o curador)
 
-1. **RC-071 (Jan Val Ellam) — ampliação sem ficha:** a Devolutiva O-2 mandou expandir RC-071 com o prefácio; RC-071 segue **sem ficha física por decisão histórica da esteira** ("não materializar": dossiês B006/B009/B016/B034/B036). Aplicação: o conteúdo aprovado (prefácio, "Outros Canais", Introdução) ficou registrado **no pacote `_ampliacoes_B031.txt`** (versionado e rastreável), com nota de quarentena biográfica. Materializar a ficha de RC-071, se o curador preferir, é reversão de um passo — basta ordem.
+1. **RC-071 (Jan Val Ellam) — ampliação sem ficha:** a Devolutiva O-2 mandou expandir RC-071 com o prefácio; RC-071 seguia **sem ficha física por decisão histórica da esteira** ("não materializar": dossiês B006/B009/B016/B034/B036). Aplicação: o conteúdo aprovado (prefácio, "Outros Canais", Introdução) ficou registrado **no pacote `_ampliacoes_B031.txt`** (versionado e rastreável), com nota de quarentena biográfica. Materializar a ficha de RC-071, se o curador preferir, é reversão de um passo — basta ordem. **→ ADITAMENTO (2026-08-26, mesmo dia): o curador ORDENOU a materialização — EXECUTADA (ver "Aditamento" ao final).**
 2. **O produto maior do ciclo é a VERIFICAÇÃO, não a ampliação:** 143 verbetes × **135 termos na malha (94%)** — os 8 restantes são nomes pessoais/variações já fundidos na fundação (Jan Val Ellam/Val/Val El→RC-071; Yel/Yel Am→RC-492; Len Mion→RC-074; Tau Ceti→RC-103; CFD). **A tabela-mestra é fiel à fonte.** Registrada na BIBLIO, na LEITURA-1 e aqui.
 3. **Páginação:** todas as referências "p. N" seguem a **página do PDF** (convenção da esteira). As páginas "aprox." das fichas antigas (fundadas no glossário antes do PDF existir) foram precisadas onde a ampliação tocou (RC-002: verbete p. 143; cronologia p. 108).
 4. **Nenhuma alteração em `dados_termos.py`** neste ciclo (primeira vez na esteira): os 5 alvos já citavam B031 nas fontes; a malha 777/1.852 nem foi aberta — a obra fundadora já estava digerida. A confirmação é o produto.
@@ -25,10 +25,10 @@
 ## Estado da base (pós-aplicação, validado)
 
 - **Termos: 777 (invariantes) · Relações: 1.852 (invariantes) · próximo RC-778.**
-- **Fichas físicas: 449** (448 `ficha=True` + RC-004 investigação) — **inalteradas** (0 materializações).
+- **Fichas físicas: 450** (449 `ficha=True` + RC-004 investigação) — **449 no fechamento original; +1 no ADITAMENTO (RC-071 materializada por ordem do curador)**.
 - **Obras: 93** (B001–B090 + 3 ART) — inalteradas.
 - **Livros em CONCLUIDOS: 42** (+B031).
-- Artefatos regenerados: `indice-mestre.md`, `base-terminologica.xlsx` (448 fichas-resumo, 93 obras), `base-terminologica-leitura.docx`.
+- Artefatos regenerados: `indice-mestre.md`, `base-terminologica.xlsx` (449 fichas-resumo, 93 obras), `base-terminologica-leitura.docx`.
 
 ## Pendências para o curador
 
@@ -37,12 +37,24 @@
 3. O teaser do "ser venerado" (B088 p. 20, não revelado).
 4. Manifest versionado (`backups/pacotes/`) com contagens antigas — curador decide regenerar.
 5. CIP B074 290 p. × PDF 227 = `[REVISAR]`; contagem da cronologia B031 (~56 × 74) — verificações de fundo.
-6. Eventual materialização da ficha de RC-071 (nota 1) — aguarda ordem.
+6. Eventual materialização da ficha de RC-071 (nota 1) — **RESOLVIDA por ordem do curador (2026-08-26): ficha materializada.**
 
 ## Trilha (commits na branch `arena/01a03ad8-termos-rc`)
 
 - `559f1c9` — piloto B031: ingresso + leitura integral 181/181 + dossiê enxuto O-1..O-8 (0 códigos).
 - `b192886` — upload do curador (o PDF de B031), integrado por rebase.
-- este commit — aplicação da Devolutiva (4 ampliadas + RC-071 no pacote + BIBLIO enriquecida + CONCLUIDOS + push).
+- `83c05ac` — aplicação da Devolutiva (4 ampliadas + RC-071 no pacote + BIBLIO enriquecida + CONCLUIDOS + push).
 
 **COM B031, A FONTE FUNDADORA ESTÁ FISICAMENTE NA ARCA** — a partir daqui a base cita a obra materializada. 41 → **42 obras fechadas**.
+
+---
+
+## ADITAMENTO — Materialização da ficha RC-071 (2026-08-26, ordem expressa do curador)
+
+Aplicada no mesmo dia do fechamento, por ordem direta do curador (a "reversão de um passo" oferecida na nota 1):
+
+- **Criada `termos/RC-071-jan-val-ellam.md`** — persona doutrinária do codificador/transmissor; a seção `## Ampliação — B031` carrega o conteúdo aprovado na Devolutiva O-2 (o prefácio autorizado com a "trilha cerebral" e o "perspectivo"; os "Outros Canais" com os 100+ livros inéditos; os agradecimentos e a Introdução da autora — ambos em quarentena biográfica).
+- **`dados_termos.py`: RC-071 `ficha` False → True** (substituição exata de linha + validação imediata — LIÇÃO B087). **Ficha=True: 448 → 449**; fontes e relacionados intactos.
+- **Base invariante: 777 termos / 1.852 relações** (materialização de ficha não cria código — o veto O-3 permanece absoluto).
+- **Quarentenas mantidas na ficha:** biográfica permanente (nome civil RC-095, NDE Petrolina, o Programa do Jô, encarnações atribuídas = registro de leitura); institucional (IEEA/IESP/INSTALM, Rádio Atlan fora da ontologia primária); a decisão histórica "não materializar" de B006/B009/B016/B034/B036 fica **ENCERRADA para este termo** (RC-095, o nome civil, segue sem ficha).
+- Artefatos regenerados (índice, xlsx: 449 fichas-resumo, docx: 450 fichas); governança atualizada (CONTINUIDADE, PROMPT-PROXIMA, livros/README, o pacote `_ampliacoes_B031.txt` com o aditamento).
