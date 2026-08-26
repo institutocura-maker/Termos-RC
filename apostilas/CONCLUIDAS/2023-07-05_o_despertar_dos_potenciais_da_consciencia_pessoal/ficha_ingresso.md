@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-07-05 — O Despertar dos Potenciais da Consciência Pessoal
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Nenhuma ficha tocada. Pasta em `apostilas/` (sai para `CONCLUIDAS/` só depois da aplicação + apostila). **A 5ª PALESTRA DA NOVA FASE — a mais SERENA da série de 2023 (o Mentalma em versão palestra).**
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **3 fichas ampliadas** (RC-166 o Mentalma completo [a lei do Buda corrigida, o RNA mensageiro, o epigenoma, os 4 níveis, os 3 As]; RC-658 a bacia de corante; RC-760 Ramana Maharshi) + RC-211 no pacote · 4 vínculos · **A APOSTILA LAVRADA** (12 PARTES, sem retenção em bloco — as camadas leves: a biográfica e a clínica [o RNA/epigenoma como metáfora]) · pasta em `apostilas/CONCLUIDAS/` (42 apostilas). **Nota: a aplicação foi refeita após a 8ª reversão do sandbox + a interrupção de energia (o commit de proteção 9ec0acd).**
 
 ## 1. Identificação
 
