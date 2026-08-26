@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-06-25 — A Proposta de Salvação do Senhor Krishna
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Nenhuma ficha tocada. Pasta em `apostilas/` (sai para `CONCLUIDAS/` só depois da aplicação + apostila). **A 6ª PALESTRA DA NOVA FASE — a peça que faltava do ciclo hindu.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **4 fichas ampliadas** (RC-414 a tese Keśava; RC-585 Vyasa; RC-593 o Gita/financiamento; RC-081 o cross) · 4 vínculos · **A APOSTILA LAVRADA** (9 PARTES; A CENA de 20/06/2023 sob a quarentena biomediúnica — registro fenomênico, não ontologia) · **os 3-4 livros futuros registrados no radar** · pasta em `apostilas/CONCLUIDAS/` (43 apostilas).
 
 ## 1. Identificação
 
