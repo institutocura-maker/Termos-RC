@@ -46,6 +46,13 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 - **[P2023-08-05 · EVA DA LINHAGEM]** "Javé não percebeu, mas **Eva era da linhagem de Pandora, que tem a genética de não submissão aos deuses**... quando a gente olha para Adão e Eva, a gente tá vendo no homem a genética de submissão aos deuses e na mulher a genética de negação do comando dos deuses sobre a humanidade. **Por isso que Eva foi trucidada o tempo inteiro.**"
 - 0 códigos novos (O-3). Heleno absorvido (sem termo — Navalha).
 
+
+## Ampliação — P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
+
+- **[P2023-05-21 · A GENEALOGIA LIBERTÁRIA COMPLETA]** "**PROMETEU FOI A CABEÇA PENSANTE** [da criação da humanidade livre, junto com Enki]... Prometeu, **ATRAVÉS DE DEUCALIÃO, MISTURANDO O SEU [CLONE] — misturando a sua genética com a de PIRRA — PRODUZIU 18 FILHOS, DENTRE OS QUAIS UM CHAMAVA-SE HELENO. HELENO TEVE QUATRO FILHOS... e os dois netos de Heleno [e] mais dois dos quatro filhos — ESSAS QUATRO FIGURAS CRIARAM OS QUATRO POVOS: AQUEUS, JÔNICOS, DÓRICOS E EÓLICOS, QUE CRIARAM A CULTURA GREGA. E A CULTURA GREGA QUE NOS MANTÉM VIVOS ATÉ HOJE — de forma LIBERTÁRIA.**" [Zeus e os outros "foram só percebendo quando as coisas aconteciam".]
+- **[P2023-05-21 · A TENTAIVA DE EXTERMÍNIO]** "Quando Pandora criou o ser humano racional LIVRE, ENKI criou o ser humano racional SUBMISSO [no sentido mental de protocolos]... **QUANDO ZEUS PERCEBEU QUE KADMON [KALIL KADMON] HAVIA SE TRANSFORMADO EM PANDORA... ZEUS MANDOU MATAR TODO MUNDO — NÃO CONSEGUIU.** Aí Prometeu disse: 'Cara, ESSE PESSOAL AÍ É MAIS SAGAZ QUE A GENTE. Olhe a descendência... olha o meu filho Deucalião. Olha a filha de Pandora, Pirra. Olha o que Deucalião e Pirra produziram. Veja a descendência de Astreia...'"
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

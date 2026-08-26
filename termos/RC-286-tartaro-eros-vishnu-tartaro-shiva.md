@@ -15,6 +15,13 @@ Loca/morada do universo vizinho usada como prisão: abrigava os seres demoníaco
 
 Devolutiva do curador (19/08/2026): o candidato **Hades/Reides** foi absorvido neste termo — dinâmicas de aprisionamento mental. Conteúdo: Hades (STT "Ades/Reides/Reid/Reis") = arconte dono do Tártaro, um dos irmãos de Zeus; para aumentar sua Timé, aprendeu a capturar o eu mental ("a alma") de humanos ao morrerem, desde Adão; criou um grupo de seres para isso; Javé depositara em Adão uma herança única (DNA), o que tornou toda a descendência aprisionável. Jesus, na cruz, invadiu o Tártaro (500 passos — Evangelho de Bartolomeu), aprisionou Hades e Belial e libertou os espíritos presos — ato tipificado como crime contra a Timé (processo aberto contra Jesus, sem resolução).
 
+
+## Ampliação — P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
+
+- **[P2023-05-21 · O TIFÃO — O MONSTRO DE SHIVA]** "O oráculo ao tempo dos titãs era um DRAGÃO FALANTE chamado PITON... **guardião de um outro titã temido por todos os demais deuses. ESSE TITÃ PRISIONEIRO ERA ALGUÉM CHAMADO TIFON (ou Tifeu), FILHO DO DEUS TÁRTARO — QUE É O DEUS SHIVA.**" — "um ente com **100 CABEÇAS** e cada cabeça era tipo uma dragão, uma serpente, e cada uma delas, acreditem, se for possível, PARECIA TER UMA IDENTIDADE PRÓPRIA... **ESSE TIFÃO FOI PRODUZIDO POR SHIVA PARA CONCORRER COM O MONSTRO QUE BRAHMA — OU JAVÉ, O CAOS — TINHA CRIADO ANTES. ESSA HISTÓRIA NÃO É CONTADA, MAS É ASSIM MESMO.**... Ninguém o suportava, SOMENTE A TITÂNIA EQUIDNA [STT: 'Quidna'] conseguia suportá-lo. E ESSES SERES AINDA TIVERAM FILHOS. E A CHAMADA ESFINGE... VEM DESSE TIPO DE JUNÇÃO DE DNA."
+- **[P2023-05-21 · PITON E A ORIGEM REMOTA DA MEDIUNIDADE]** "Piton... era dado a ser profeta — UM DRAGÃO MÉDIUM FALANTE... **capacidade esta que a mitologia grega diz que ele HERDOU DA SUA MÃE GAIA**. Se aí a origem mais remota da mediunidade [não estaria cravada]... seria um ser que nem titã é — DE UMA GERAÇÃO ANTERIOR, NA GERAÇÃO DE URANOS OU TALVEZ DOS ENTES PRIMORDIAIS.**" [o 'Chico Xavier da época era Pitô' — a piada; APOLO DERROTA PITON e se torna proprietário de Delfos.]
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

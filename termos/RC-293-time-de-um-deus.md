@@ -33,6 +33,15 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 - **[B021 p. 13]** a timé de Zeus «foi duramente atingida»; o mesmo ocorreu «com a de todos os seres tidos como "deuses"».
 - **[B021 p. 157]** Notas: reitera a definição (timaí; varna). Falas de Zeus **isoladas**. RC-145 **não** materializada. Sem fusão com B020. Fonte **B021** já constava na tabela-mestra.
 
+
+## Ampliação — P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
+
+- **[P2023-05-21 · A TIMÉ MEDIDA PELA FORBES]** "Você tinha um exército com 100 pessoas, uma vai embora, 99: você perdeu força. Você tinha 50 palácios, agora tem 49: perdeu a Timé. Você tinha 10 tipos de armas, agora tem nove: você perdeu a Timé. **A TIMÉ DE UM DEUS ERA MEDIDA DO JEITO QUE HOJE EM DIA SAI A REVISTA FORBES, os principais bilionários da Terra — fulano é o primeiro, segundo... O OLIMPO ERA ESPECIALISTA EM MEDIR, E ZEUS TINHA QUE SER O NÚMERO UM. Não era. Aí, quando não era, era uma perturbação terrível... e ZEUS SÓ FEZ CAIR — ATÉ HOJE ELE TÁ CAINDO em termos de perda de timé.**" (com RC-306.)
+- **[P2023-05-21 · A POSSE QUE VAI ALÉM DO ESCRAVO]** "É TIMÉ a expressão grega que diz o tamanho da majestade que eles têm... **é pior que escravo: é posse — um tipo de posse que tá além do que nós entendemos** como a posse que alguns seres humanos sentiram em relação a seus escravos... o conceito de ser dono **NÃO IMPLICA EM MALDADE**: do jeito que nós somos donos de várias coisas e não somos maus" + o espelho humano (de maridos, esposas, filhos, cavalos, cachorros, vizinhos, **e de conceitos e verdades**).
+- **[P2023-05-21 · A TIMÉ DE KRISHNA]** "A gente não tem nem como entender **A TIMÉ DE KRISHNA** — é uma coisa impressionante. **MESMO NA PANDEMIA FUNCIONOU MUITO BEM**" (o grupo hindu dominado funcionando).
+- **[P2023-05-21 · AS DEFECÇÕES E A DISTINÇÃO ASTREIA × ASTÉRIA]** "devido aos problemas ocorridos ao longo dos últimos 50.000 anos, as defecções em torno de Zeus... Pandora, Epimeteu, Prometeu, Astreia, Despina, Dionísio, Centauros e Sátiros passaram a criticar a gestão de Zeus... **ZEUS NUNCA QUIS SER ISSO — os titães derrotados por ele e os próprios irmãos é que pediram para ele ser o gestor**" + a correção genealógica: "**a Astreia é confundida com a outra figura chamada ASTÉRIA, que é uma titã, MAS NÃO é filha de Zeus e Têmis**... a Astéria se transformou numa CODORNIZ que se transformou numa ilha [DELOS], porque Zeus a perseguia [para possuí-la]... **A ASTÉRIA CONSEGUIU FUGIR DE ZEUS, MAS A ASTREIA NÃO CONSEGUIU FUGIR DE APOLO**" [as constelações de LIBRA; a ilha que "voava sobre o mar", tipo a ilha de São Brandão].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

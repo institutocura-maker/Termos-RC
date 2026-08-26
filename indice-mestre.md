@@ -32,7 +32,7 @@
 | RC-024 | Anunnakis | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B017, B018, B023, B015, B061, P2022-12-17, P2025-02-16, P2024-11-30, P2024-11-09, P2024-04-13, P2023-12-02, P2021-03-27, B089 | RC-082; RC-134; RC-053; RC-080; RC-580; RC-583; RC-587; RC-588; RC-589 | [✔](termos/RC-024-anunnakis.md) |
 | RC-025 | Asphezian | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟡 | B031 | RC-057; RC-058; RC-022; RC-092 | — |
 | RC-026 | Astralização dos Biodemos | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟡 | B031 | RC-101; RC-127; RC-142; RC-074 | — |
-| RC-027 | Astréia | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B060 | RC-116; RC-047; RC-101 | — |
+| RC-027 | Astréia | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, B060, P2023-05-21 | RC-116; RC-047; RC-101 | — |
 | RC-028 | Atlan | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B031, B017, B018, B039, B006 | RC-030; RC-079; RC-010 | — |
 | RC-029 | Atlans | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B031 | RC-030; RC-010; RC-028 | — |
 | RC-030 | Atlantes | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031 | RC-010; RC-028; RC-029; RC-022; RC-023 | — |
@@ -291,27 +291,27 @@
 | RC-283 | Pandora como Serpente do Éden | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B020, P2022-12-17, P2025-02-16, P2024-11-30, P2024-11-09 | RC-086; RC-285; RC-242; RC-189; RC-270; RC-664; RC-697; RC-727; RC-701 | [✔](termos/RC-283-pandora-como-serpente-do-eden.md) |
 | RC-284 | Caos = Brahma = Javé (correspondência) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B020, B021, B023, B060, P2025-03-15, P2024-11-30, P2024-11-09, P2024-09-29, P2023-06-24 | RC-001; RC-037; RC-041; RC-047 | [✔](termos/RC-284-caos-brahma-jave-correspondencia.md) |
 | RC-285 | Opção Inusitada de Pandora (humanização) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟡 | B020, P2021-12-04, B087, B088, B089 | RC-086; RC-283; RC-184; RC-118 | [✔](termos/RC-285-opcao-inusitada-de-pandora-humanizacao.md) |
-| RC-286 | Eros = Vishnu / Tártaro = Shiva (correspondências) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B020, B021, B060, B061, P2024-11-30, P2024-11-09 | RC-135; RC-102; RC-145; RC-284; RC-074; RC-072; RC-519 | [✔](termos/RC-286-eros-vishnu-tartaro-shiva-correspondencias.md) |
+| RC-286 | Eros = Vishnu / Tártaro = Shiva (correspondências) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B020, B021, B060, B061, P2024-11-30, P2024-11-09, P2023-05-21 | RC-135; RC-102; RC-145; RC-284; RC-074; RC-072; RC-519 | [✔](termos/RC-286-eros-vishnu-tartaro-shiva-correspondencias.md) |
 | RC-287 | Enigma da Esperança (Caixa de Pandora) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B020, ART-2026-08-18, B087, B088 | RC-086; RC-145; RC-099 | [✔](termos/RC-287-enigma-da-esperanca-caixa-de-pandora.md) |
 | RC-288 | Os Anais de uma Cultura Perdida | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B020 | RC-086; RC-145; RC-284; RC-094 | — |
 | RC-289 | O Vício de Epimeteu | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B020 | RC-086; RC-145; RC-283; RC-099 | — |
 | RC-290 | Cuidado com o 'Ide e Pregai' | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B020 | RC-072; RC-099; RC-094; RC-086 | — |
 | RC-291 | Fim do Silêncio de Pandora | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B020 | RC-086; RC-094; RC-071; RC-099 | — |
-| RC-292 | Telos (de um deus) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B021, P2024-09-29 | RC-293; RC-145; RC-297; RC-094 | [✔](termos/RC-292-telos-de-um-deus.md) |
-| RC-293 | Timé (de um deus) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B021, P2024-09-29 | RC-292; RC-145; RC-294; RC-094; RC-269; RC-736; RC-072 | [✔](termos/RC-293-time-de-um-deus.md) |
+| RC-292 | Telos (de um deus) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B021, P2024-09-29, P2023-05-21 | RC-293; RC-145; RC-297; RC-094 | [✔](termos/RC-292-telos-de-um-deus.md) |
+| RC-293 | Timé (de um deus) | Termos Específicos | 8.4 Grego / Latim | 🟡 | B021, P2024-09-29, P2023-05-21 | RC-292; RC-145; RC-294; RC-094; RC-269; RC-736; RC-072 | [✔](termos/RC-293-time-de-um-deus.md) |
 | RC-294 | Eon de Khaos (Universo de Caos) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B021, P2026-07-30 | RC-284; RC-106; RC-077; RC-038 | [✔](termos/RC-294-eon-de-khaos-universo-de-caos.md) |
 | RC-295 | Drama do Fechamento dos Portais | Eventos & Eras | 7.4 Catástrofes / Dilúvios / Quedas | 🟡 | B021, P2022-12-17, P2025-02-16, P2024-11-30, P2024-09-29 | RC-296; RC-145; RC-070; RC-106; RC-694; RC-571 | [✔](termos/RC-295-drama-do-fechamento-dos-portais.md) |
-| RC-296 | Pitonisas e Oráculos (Apolo/Delfos) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B021, P2024-04-13 | RC-295; RC-145; RC-099 | — |
+| RC-296 | Pitonisas e Oráculos (Apolo/Delfos) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B021, P2024-04-13, P2023-05-21 | RC-295; RC-145; RC-099 | — |
 | RC-297 | Era dos Humanos (Zeus e a) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, P2025-11-29, B087, B088 | RC-145; RC-300; RC-099; RC-094 | [✔](termos/RC-297-era-dos-humanos-zeus-e-a.md) |
-| RC-298 | Descendência de Pirra (Pirra e Deucalião) | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B021, P2024-11-09, B087, B088, B089, P2023-08-05 | RC-303; RC-304; RC-086; RC-301; RC-099 | [✔](termos/RC-298-descendencia-de-pirra-pirra-e-deucaliao.md) |
+| RC-298 | Descendência de Pirra (Pirra e Deucalião) | Genealogias & Linhagens | 6.2 Linhagens humanas | 🟡 | B021, P2024-11-09, B087, B088, B089, P2023-08-05, P2023-05-21 | RC-303; RC-304; RC-086; RC-301; RC-099 | [✔](termos/RC-298-descendencia-de-pirra-pirra-e-deucaliao.md) |
 | RC-299 | Kalil Kadmon (nome demo de Pandora) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-08-03, B089, B050, B060, P2023-08-05 | RC-086; RC-118; RC-145 | [✔](termos/RC-299-kalil-kadmon-nome-demo-de-pandora.md) |
 | RC-300 | Dissolução da Tríade (2015–2017) | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟡 | B021, B022, P2022-12-17, P2024-11-30 | RC-104; RC-135; RC-102; RC-037; RC-155; RC-571 | — |
 | RC-301 | Prometeu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, B087, B088, B089 | RC-302; RC-145; RC-086; RC-304 | [✔](termos/RC-301-prometeu-tita.md) |
 | RC-302 | Epimeteu (titã) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, P2025-02-16, P2024-11-09, P2025-06-14, P2024-08-03, B087, B088, B089 | RC-301; RC-145; RC-086; RC-303 | [✔](termos/RC-302-epimeteu-tita.md) |
 | RC-303 | Pirra | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-11-09, B087, B088, B089 | RC-298; RC-302; RC-086; RC-304 | [✔](termos/RC-303-pirra.md) |
 | RC-304 | Deucalião | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2024-11-09 | RC-298; RC-301; RC-303 | — |
-| RC-305 | Têmis | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021 | RC-145; RC-027; RC-094 | — |
-| RC-306 | Apolo | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, B060, P2024-04-13 | RC-145; RC-296; RC-094 | — |
+| RC-305 | Têmis | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, P2023-05-21 | RC-145; RC-027; RC-094 | — |
+| RC-306 | Apolo | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B021, B060, P2024-04-13, P2023-05-21 | RC-145; RC-296; RC-094 | — |
 | RC-307 | Hefesto | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B020, B021, B060, B087, B088 | RC-145; RC-086; RC-285 | [✔](termos/RC-307-hefesto.md) |
 | RC-308 | Adhytia (nível hierárquico) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B022 | RC-104; RC-311; RC-011; RC-094 | [✔](termos/RC-308-adhytia-nivel-hierarquico.md) |
 | RC-309 | Ordem dos Indecifráveis | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B022 | RC-308; RC-311; RC-104 | — |
@@ -472,7 +472,7 @@
 | RC-464 | Inanna (= Danu; Anunnaki) | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B060 | RC-024; RC-398 | — |
 | RC-465 | Asuras (= Titãs) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B060, B061, P2025-02-16, P2024-11-30, P2024-11-02, P2024-09-29, P2024-04-13, B087, B088 | RC-301; RC-302; RC-145; RC-696; RC-700; RC-701; RC-734 | [✔](termos/RC-465-asuras-titas.md) |
 | RC-466 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | Termos Específicos | 8.5 Outros idiomas / jargão técnico | 🟡 | B060, P2025-02-16, P2024-08-03 | RC-049; RC-145 | — |
-| RC-467 | Moiras / Nornes / Parcas (destino) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B060, P2025-06-26, P2025-02-16, P2024-11-30 | RC-145; RC-300; RC-658; RC-454; RC-714; RC-716 | [✔](termos/RC-467-moiras-nornes-parcas-destino.md) |
+| RC-467 | Moiras / Nornes / Parcas (destino) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟡 | B060, P2025-06-26, P2025-02-16, P2024-11-30, P2023-05-21 | RC-145; RC-300; RC-658; RC-454; RC-714; RC-716 | [✔](termos/RC-467-moiras-nornes-parcas-destino.md) |
 | RC-468 | Ein Sof (Prabrajna na Cabala) | Termos Específicos | 8.2 Hebraico / Cabala | 🟡 | B060 | RC-152; RC-261; RC-264 | — |
 | RC-469 | Khorsis (Mundo dos Tronos) | Lokas & Geografias | 3.2 Lokas / Mundos interiores | 🟡 | B060 | RC-061; RC-264 | — |
 | RC-470 | Midgard (Marte + Terra) | Lokas & Geografias | 3.1 Planetas / Sistemas estelares | 🟡 | B060, P2025-02-16, P2024-11-30, P2024-11-02, P2024-08-03 | RC-395; RC-107; RC-358; RC-730; RC-731; RC-471 | [✔](termos/RC-470-midgard-marte-+-terra.md) |
@@ -626,7 +626,7 @@
 | RC-618 | Moksha | Termos Específicos | 8.1 Sânscrito / Hinduísmo | ⚪ | P2021-12-04, P2026-07-30, P2024-02-03 | RC-166; RC-253; RC-514; RC-552 | [✔](termos/RC-618-moksha.md) |
 | RC-619 | Genoma da Liberdade | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | ⚪ | P2021-12-04, P2024-05-04, P2026-04-02, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14, P2024-07-13 | RC-217; RC-400; RC-253; RC-564; RC-614; RC-615; RC-633; RC-646; RC-710; RC-712; RC-727 | [✔](termos/RC-619-genoma-da-liberdade.md) |
 | RC-620 | Eu Coalescente | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | ⚪ | P2026-07-30, P2026-04-02, P2025-10-25 | RC-476; RC-553; RC-557; RC-558; RC-604; RC-328; RC-253; RC-648; RC-699 | [✔](termos/RC-620-eu-coalescente.md) |
-| RC-621 | Nyx | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | P2026-07-30 | RC-475; RC-454; RC-622 | [✔](termos/RC-621-nyx.md) |
+| RC-621 | Nyx | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | P2026-07-30, P2023-05-21 | RC-475; RC-454; RC-622 | [✔](termos/RC-621-nyx.md) |
 | RC-622 | Kama (personificação do desejo) | Seres & Entidades | 1.1 Divindades / Criadores | ⚪ | P2026-07-30, P2024-08-03 | RC-135; RC-475; RC-286; RC-621 | [✔](termos/RC-622-kama-personificacao-do-desejo.md) |
 | RC-623 | Corpo Átmico | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | P2026-07-30, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14, P2024-04-14, P2025-06-14, P2024-03-02, P2024-09-28 | RC-204; RC-624; RC-625; RC-013; RC-630; RC-704; RC-706; RC-282; RC-604 | [✔](termos/RC-623-corpo-atmico.md) |
 | RC-624 | Corpo Búdico | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | ⚪ | P2026-07-30, P2024-05-04, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14, P2024-03-02 | RC-204; RC-623; RC-625; RC-606; RC-704; RC-706 | [✔](termos/RC-624-corpo-budico.md) |

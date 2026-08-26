@@ -39,6 +39,13 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 
 - **[ART-2025-08-03 — material do curador] As Nornes operacionalizando (Cap. 2):** "as 'Nornes' (Moiras/Súdices [STT]) foram então criadas para operacionalizar os resultados desses estudos [de Moros e Anã]"; "as sequências descritas por Moros e Anã, guardadas no Éon das Três Esferas, são essenciais para a propulsão da vida de plasma e da futura vida biológica".
 
+
+## Ampliação — P2023-05-21 (A Hebdômada de Apolo - O Ultraje Humano)
+
+- **[P2023-05-21 · AS MOIRAS NÃO ERAM MÉDIUNS]** "**QUANDO MOROS CRIOU AS MOIRAS — a mitologia grega diz que ZEUS as criou junto com Têmis, MAS ESTÁ ERRADO — MOROS AS CRIOU DE FORMA DE CLONAGEM.** Essas moiras que surgiram de Moros [receberam] espíritos que vieram específicos [— nessa época o Quarto Logos não tinha mergulhado ainda]... **ESSAS TRÊS FORAM AS PRIMEIRAS FIGURAS QUE DE FATO COMEÇARAM A TER ISSO** [a faculdade]. As moiras olhavam para a TESITURA dos cálculos de Moros e de Ananke e conseguiam dizer a um deus [que chegava querendo saber do futuro]: **'EU SÓ CONSIGO VER ATÉ AQUI. A partir daqui eu não consigo ver mais.'**"
+- **[P2023-05-21 · A TESITURA DO DNA]** "**AS MOIRAS LIAM A TESITURA DO DNA DE CADA E DE CADA ESTIRPE DE SER**... [mas] NÃO ERAM MÉDIUNS nos termos em que a gente [usa]. **QUANDO OS HUMANOS SURGIRAM, AS MOIRAS NÃO SABIAM LER COISA NENHUMA, porque os humanos eram muito mais complexos — AÍ SURGIU A FUNÇÃO ORACULAR** [para os caras dizerem, e eles tratavam de CUMPRIR o que haviam dito para impressionar os humanos]." — a precisão da leitura: as moiras liam estirpes, não humanos; "até hoje só quem consegue fazer esse tipo de leitura do que está por vir SÃO OS ANJOS DE JAVÉ — UM SUPERCOMPUTADOR" (RC-533).
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
