@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-06-24 — O Buraco Negro Mental e o Estacionamento Coletivo
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **10 fichas ampliadas** (RC-717 a cronologia 2017→2018→2021; RC-557 o eu-conectoma; RC-102/RC-409 a lenda de Savna; + RC-378/161/725/192/037/284) + RC-385 no pacote (sem ficha — o precedente RC-162/163/315) · **11 vínculos** · **A APOSTILA LAVRADA** (13 PARTES; o RELATO 2017-2018 retido em bloco — a quarentena biomediúnica no ponto máximo; a polarização partidária extirpada por ordem da Devolutiva O-7) · **a BIBLIO editada manualmente** (B085 a saga de Hyren-Hyron; B081 a citação de jun/2023) · pasta em `apostilas/CONCLUIDAS/` (44 apostilas).
 
 ## 1. Identificação
 
