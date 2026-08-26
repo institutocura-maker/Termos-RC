@@ -27,6 +27,14 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 
 - **[P2021-12-04 — FONTE ORIGINAL] A superconsciência (U0576–U0579):** "um novo modo desse ser humano vivenciar sua expressão de consciência. Eu chamo isso superconsciência" (U0576–U0577); "são 18.000 anos difíceis que nós vamos vivenciar daqui pra frente, mas menos difíceis do que o que já houve até agora" (U0579) [Colecionar Incertezas — confirma o prazo já registrado]; "a dificuldade aqui é porque nós ficamos isolados e vamos voltar a conviver com sem número de situações para as quais nós estamos totalmente despreparados, mas temos condição de aprender rápido" (U0580).
 
+
+## Ampliação — P2023-06-17 (O Paradoxo Divino)
+
+- **[P2023-06-17 · A SUPERCONSCIÊNCIA E O QUARTO CÉREBRO]** "o ser humano quando ele se alinha **e se torna uma SUPERCONSCIÊNCIA, quando o seu QUARTO CÉREBRO começa a rodar nos TRÊS CÉREBROS que estão aqui dentro do crânio — o primata, o límbico e o reptiliano — JUNTO COM O NEOCÓRTEX**... para ele de fato se tornar um humano diferente, **ele tem que estar alinhado com pressupostos lógicos que não sejam contraditórios**... quando a lei da mente [de Buda] aponta que o que você pensa, você cria; o que você sente, você atrai; o que você aspira a ser... se torna a realidade — **mas para que as criações do seu pensamento, as atrações das suas emoções e os seus desejos de vir a ser, SE NÃO TIVER ALINHADO, NÃO FUNCIONA**" (a superconsciência como o alinhamento sem contradições).
+- **[P2023-06-17 · O HUMANO NOVO TURBINADO]** "um humano novo, turbinado, livre, **rodando a cabeça à moda do QUARTO CÉREBRO... que dele emerge UMA SUPERCONSCIÊNCIA QUE NÃO DEPENDA DO CORPO** na qual ele está hospedado, **que dele venha a emergir padrões de produção de informação são NUNCA ANTES VERIFICADOS — NOVAS PROTEÍNAS, NOVAS SEQUÊNCIAS GENÉTICAS que ele possa distribuir como BÊNÇÃOS** para outros que estão na retaguarda existencial, **que ninguém tem, só ele tem aquele tipo de genótipo. E JESUS TINHA GENÓTIPOS QUE NINGUÉM MAIS TEM. ISSO CHAMA-SE RIQUEZA PESSOAL.**"
+- **[P2023-06-17 · O INCÔMODO CONSCIENCIAL — o sinal de grandeza (a absorção da Devolutiva O-3)]** "**SÓ QUEM SENTE INCÔMODO CONSCIENCIAL É QUEM É GRANDE... INCÔMODO CONSCIENCIAL É SINAL DE GRANDEZA**... se no meu coração sofrimento alheio não entra, eu não me incomodo, eu não sou grande" — o critério da superconsciência: o coração que abarca o sofrimento alheio [as cobranças nominais RETIDAS — quarentena O-7].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

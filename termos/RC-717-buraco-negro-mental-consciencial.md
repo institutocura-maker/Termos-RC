@@ -49,6 +49,15 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 - **[P2023-06-24 · A GÊNESE ELÉTRICA]** "o buraco negro mental é **produção da RESSONÂNCIA DOS ELÉTRONS, não é de mente nenhuma sobre eles**... é o desconcerto vibratório dos elétrons que termina produzindo isso" (a resposta a Cristiane — contra a hipótese de ação da deidade de fora da blindagem).
 - 0 códigos novos (O-3). Quarentenas: biomediúnica (o relato 2017-2018), teológica, ufológica, clínica, política.
 
+
+## Ampliação — P2023-06-17 (O Paradoxo Divino)
+
+- **[P2023-06-17 · O VETO VIBRATÓRIO — a interdição pré-definição (a antevéspera)]** "Infelizmente, Simone, **eu NÃO TENHO COMO RESPONDER esse assunto buraco negro mental. EU FALEI A PEDIDO DELES** [o grupo de inteligências lúcidas]... esse grupo... **eu, entre aspas, me submeti ao que eles me pedem, porque realmente esses buracos negros estão vinculados a processos que a gente nem imagina. E O SIMPLES ATO DE SE REFERIR A ELES EM CERTO PADRÃO VIBRATÓRIO É UM PROBLEMA QUE A GENTE NEM IMAGINA**" ⚠️ quarentena biomediúnica — a interdição de uma semana (a P2023-06-24, sete dias depois, quebraria o veto "a pedido deles").
+- **[P2023-06-17 · O REINO DAS EGRÉGORAS — a gênese]** "a questão do buraco negro mental que a gente tem falado... **COMEÇA EXATAMENTE NO REINO DESSAS EGRÉGORAS. Isso FERROU O CRIADOR CAÍDO. Isso JÁ FERROU VÁRIAS CRIATURAS DO UNIVERSO VIZINHO**, que não é nem essa faixa de realidade, nem a faixa de realidade espiritual — é uma outra. **Mas nesse campo quântico de pensamentos, sentimentos da criação, É UM SÓ PARA TODA A CRIAÇÃO e para a erraticidade vinculada**" (as faixas espirituais vinculadas a essa criação).
+- **[P2023-06-17 · O MARCO 2018 (2×)]** "desde o ano de **2018** que os espíritos lúcidos, que são poucos, começaram a desconfiar de que efetivamente **OU O SER HUMANO SE REINVENTA OU ELE SUCCUMBE**" + "desde **2018** se percebeu que ou se resolve isso ou tá todo mundo ferrado nesse âmbito e em todos os outros, **PORQUE FALIMOS TODOS**. Não funciona mais esse modelo."
+- **[P2023-06-17 · AS CARGAS FRACAS]** "os elétrons de seres humanos [simples] assim são **elétrons que têm CARGAS FRACAS**... a turma açucarada vai para onde o açúcar não dá [a nada]" [a resposta a Simone sobre os "espíritos açucarados/sugados" — STT] (ver RC-161).
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

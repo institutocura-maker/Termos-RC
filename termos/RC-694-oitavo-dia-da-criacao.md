@@ -35,6 +35,12 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 - **Pré-requisitos:** "o ser humano só vai cumprir esse oitavo dia sendo o protagonista que se espera se houver nele a emergência do quarto cérebro e se ele edificar em si mesmo um padrão de consciência superior" (ver RC-614 e RC-615).
 - **"O palco no qual o ser humano vive é camuflado a tal ponto que esconde a realidade maior na qual ele atua sem que o saiba."**
 
+
+## Ampliação — P2023-06-17 (O Paradoxo Divino)
+
+- **[P2023-06-17 · O OITAVO DIA — A FONTE ANTECIPADA (jun/2023, ~2 anos antes da P2025-02-16)]** **ANTONINE MEER** [STT — [REVISAR]; a escritora canadense], a quem um repórter fez uma pergunta irônica: "**É, meus livros até podem não ser conhecidos, mas eu escrevo porque EU ME CONSIDERO A ARTESÃ DO OITAVO DIA DA CRIAÇÃO** — as religiões dizem que Deus trabalhou um dia, dois, três, no sétimo ele descansou. **EU ACHO QUE ELE NÃO FEZ TUDO. Então eu trabalho nesse oitavo dia.** Antes, até o sétimo dia, **esse pássaro que tá cantando ali na árvore — ESSE CANTO NÃO EXISTIA, não foi Deus que [fez]. Esse pássaro É UM ARTESÃO TAMBÉM DO OITAVO DIA. COMO EU SOU. TODOS NÓS SOMOS ARTESÃOS DESSE OITAVO DIA DA CRIAÇÃO. ESSA CRIAÇÃO É INCOMPLETA**" — o oitavo dia como a cocriação contínua (RC-545): "nós somos recriadores, nós somos cocriadores... há um princípio sempre renovador em cada processo de pulsação".
+- 0 códigos novos (O-3). A antecipação: o conceito lavrado na P2025-02-16 já pulsava em jun/2023.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

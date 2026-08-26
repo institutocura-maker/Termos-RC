@@ -33,6 +33,14 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[P2023-06-24 · A ASSINATURA QUÂNTICA E A DESTINAÇÃO]** "em termos de destinação coletiva... o que tiver que ser, será. Ninguém impede... **Mas em termos de destinação individual, a pulsação pessoal associada à sua INTEGRIDADE DE CONSCIÊNCIA, que é a sua ASSINATURA QUÂNTICA**... quem define o que vai ser é a consciência pessoal. Se essa for livre... **tem que ser exemplo de dignidade em meio ao caos**" (ver RC-199).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-06-17 (O Paradoxo Divino)
+
+- **[P2023-06-17 · O HUMANO FORTE × O HUMANO FRACO]** "um **ser humano fraco PRECISA de crença religiosa**, porque ele mesmo não consegue criar valores filosóficos e valores motivacionais, psicológicos, que o estimulem e que o mantenham repousando sobre a sua própria consciência... **SÓ SERES HUMANOS FORTES correm o risco de... não cometer o pior dos desatinos, QUE É O DE TRANSFERIR PARA A CRENÇA EM DEUS AS RESPONSABILIDADES EXISTENCIAIS QUE LHE SÃO PRÓPRIAS**... o rebanho humano todo ele é fraco... **as ovelhas se deixam conduzir pelos lobos**... são cegos guiando cegos. Estamos todos indo já caídos no precipício, **mas a gente acha que tá indo pro céu**" + "ser humano forte é aquele que olha para as coisas e tenta ver a vida como ela é, **não exige nada de ninguém e só de si mesmo**... **E SE TORNA UM HERÓI DE SI MESMO, AINDA QUE O MUNDO NÃO PERCEBA.** Mas é aqui NA GESTÃO DO SEU PRÓPRIO GENOMA que o ser humano se faz grande."
+- **[P2023-06-17 · O VÓRTICE QUE PERTURBA O PARAÍSO]** "quando você se torna **UM VÓRTICE ÚNICO de um padrão de energia, de pulsação, que até quem tá lá no paraíso diz: 'Putz... HÁ UMA ESTATURA MORAL, que diabos é isso? Vibrando nesse vórtice que vem e nos faz sentirmos menores'**... PESSOAL, PARADOXO NÃO EXISTE SÓ ENTRE A GENTE. **Essa turma do paraíso tá cheíssima de paradoxos para resolver** e ainda nem começou a brincadeira para eles."
+- **[P2023-06-17 · O INCÔMODO CONSCIENCIAL — a absoruição (a Devolutiva O-3)]** "**TEM CONSCIÊNCIA, MAS NÃO SE INCOMODA. Os humanos se incomodam. Por que os divinos não se incomodam** com o caos, com a dor, com criança sendo [violada] a toda hora?... **SÓ QUEM SENTE INCÔMODO CONSCIENCIAL É QUEM É GRANDE — é quem tem um coração que abarca o sofrimento alheio** para com isso se incomodar... **INCÔMODO CONSCIENCIAL É SINAL DE GRANDEZA.** Isso, [o que chamam de] divino, não tem isso" — ⚠️ a cobrança nominal a Krishna e a Jesus ("daqui eu cobro ao próprio irmão e mestre Krishna esse incômodo que ele não tem... como Jesus nunca se incomodou com o sangue de Roma... 'o caminho, a verdade e a vida' — para quê? para quem?") **RETIDA COMO QUARENTENA (a Devolutiva O-7: a leitura crítica do autor-foco, não taxonomia conceitual)**; o CONCEITO absorvido aqui.
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
