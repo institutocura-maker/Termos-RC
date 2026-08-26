@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B031 — Painéis Emergentes da Revelação Cósmica: Um Guia Prático Para Iniciantes
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila. **CICLO ESPECIAL: a MATERIALIZAÇÃO DA OBRA FUNDADORA** (a fonte da tabela-mestra).
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos. Pasta em `livros/CONCLUIDOS/`. Sem apostila. **CICLO ESPECIAL: a MATERIALIZAÇÃO DA OBRA FUNDADORA** (a fonte da tabela-mestra) — verificação de fidelidade: 143 verbetes × 135 termos (94%), a tabela-mestra é fiel à fonte.
 
 ## 1. Identificação
 

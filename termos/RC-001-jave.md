@@ -175,6 +175,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B022 p. 161]** Posfácio (voz de Ellam): «Este ser — Brahma/Javé — me defraudou deliberada e calculadamente»; «Somente escrevi este livro a pedido do Senhor Javé». A «Revelação Cósmica» = «pedagogia do possível» segundo o «Programa de Revelações Sucessivas» — Emanuel / Chico Xavier = **referência externa**. Parágrafo político (2015) **fora**.
 - Falas de Brahma / Vishnu / Shiva **isoladas**. Sem fusão com B037 / B001 / B021. Fonte **B022** acrescentada na tabela-mestra.
 
+
+## Ampliação — B031 (Painéis Emergentes da Revelação Cósmica)
+
+- **[B031 p. 102 · CRONOLOGIA — a entrada fundadora (autorizada na Devolutiva O-2)]** "13,7 bilhões de anos antes do presente (A.P.): Em Perpérion, na Espiritualidade Laboratorial, **Brajna (nome de Brahma/Javé na Espiritualidade Laboratorial) cria a singularidade deste universo (Big Bang)**. Algo sai errado e Brahma é 'tragado' para dentro da singularidade e improvisa um universo paralelo para 'cair'. Na queda, apenas seu 'corpo mental' vai para o universo paralelo, ficando um ser eletromagnético 'sem alma'. **Dois universos começam a existir a partir daí: um material ('Bhuloka') e um antimaterial ('Brahmaloka')**." (Perpérion = RC-087; Brajna = RC-037; Bhuloka = RC-107; Brahmaloka = RC-106.)
+- **[B031 p. 27 · PARTE II — "A Criação de Brajna/Brahma"]** "A Criação de Brajna/Brahma é composta pelo universo material, pelo universo antimaterial, **pelo próprio Brahma (Brajna após cair dentro da sua própria Criação)** e pela erraticidade, que acabou sendo criada posteriormente pela Espiritualidade Superior dentro da blindagem para dar guarida aos espíritos (desencarnados e 'desimantados')..."; "É no Brahmaloka que **Brahma/Javé (o Deus Bíblico) 'caiu' na hora da criação e ainda reside**."
+- **[B031 p. 27 · PARTE II — "Universo Material"]** "É o nosso universo, que também surgiu há 13,7 bilhões de anos através do 'Big Bang' (na versão científica), **ou criado por Brahma, ou Javé - o Deus Bíblico, ou Alá, etc. (na versão religiosa)**. É feito de matéria e composto por **2 trilhões de galáxias**... Na Revelação Cósmica esse universo é chamado de **Bhuloka**."
+- **[B031 · divergência cronológica registrada (O-4 — absorver)]** a obra grafa **13,7 bilhões de anos** em TODAS as ocorrências (cronologia p. 102 + Parte II p. 27 + considerações) — o número de Kummer (B089) × os **13,8 do B088**: a divergência interna da escola de segunda mão tem **raiz na própria obra fundadora do gênero** (a RaquYel usa 13,7).
+- 0 códigos novos (O-3). "Brajna" = nome de Brahma/Javé na Espiritualidade Laboratorial — variação já fundida na fundação (ver a verificação de fidelidade: 143 verbetes × 135 termos, 94%).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

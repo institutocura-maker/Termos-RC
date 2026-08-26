@@ -160,6 +160,15 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B058 p. 67/74]** as designações do séquito: "**Hostes de Comando**" (p. 67) e "**Hostes bélicas**" (p. 74 — RC-453).
 - 0 códigos novos (O-3). Grafia canônica **Sophia** mantida.
 
+
+## Ampliação — B031 (Painéis Emergentes da Revelação Cósmica)
+
+- **[B031 p. 171 · POSFÁCIO — paratexto inédito]** "**Dezenove planetas exilados por ordem de Sophia, o Cristo Cósmico**, sendo a Terra o último planeta remanescendo isolado" — a autoria do isolamento (cross com o verbete "Reintegração Cósmica", p. 143: "o exílio... imposto pelo próprio Sophia").
+- **[B031 p. 171 · POSFÁCIO]** "Quem sabe não é a hora de **Sophia/Jesus voltar**? De encerrar um ciclo que começou com um vírus e um isolamento há 687 mil anos? Quem sabe não é a hora do Cristo Cósmico vir cumprir a promessa que fez há dois mil anos, a de que **resgataria as suas ovelhas desgarradas**?"
+- **[B031 p. 172 · POSFÁCIO — QUARENTENA TEOLÓGICA/UFOLÓGICA: isolamento sumário (O-7)]** "já está mais do que na hora de Sophia vir nos tirar desse isolamento. Sei que para muitos poderá parecer loucura **Jesus voltar por cima das nuvens, em seu disco voador, cheio de naves ao seu redor**." — a "Segunda Volta" como **leitura da autora** (o próprio posfácio a apresenta como "um pensamento que tive, para que cada um reflita à sua maneira e chegue à conclusão que queira").
+- **[B031 p. 137 · GLOSSÁRIO — verbete "Isolamento Cósmico"]** "Esse isolamento cósmico acabará no momento em que **Sophia, o Cristo Cósmico e Suserano deste universo**..." [verbete truncado na extração por colunas] — o título **"Suserano deste universo"** (hierarquia da malha ✓).
+- 0 códigos novos (O-3). Grafia canônica **Sophia** ✓ (a equação "Sophia/Jesus" é da autora — leitura, quarentena teológica).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

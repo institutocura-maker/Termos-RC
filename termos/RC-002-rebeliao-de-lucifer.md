@@ -57,6 +57,16 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[B058 p. 74]** o desfecho do volume: o movimento adquire "bandeira, lema e líderes" e vira **"Exército"** — "Caminhávamos todos na mesma direção do que, posteriormente, mostrou-se como sendo um **cenário de conflito, dor e guerra!**" (→ B059 *Sinais de Guerra em Capela*.)
 - 0 códigos novos (O-3). Voz de Yel Luzbel (psicografia) — **leitura do ser, não fato ontológico** (O-7: isolamento total, sem prefácio de Ellam neste volume).
 
+
+## Ampliação — B031 (Painéis Emergentes da Revelação Cósmica)
+
+- **[B031 p. 171 · POSFÁCIO — paratexto inédito]** "Eis que, **687 mil anos depois que o vírus da inquietação de Yel Luzbel se espalhou no Sistema de Capela, causando uma pandemia e o isolamento cósmico de 19 planetas**, nós – os Exilados de Capela – nos encontramos novamente enfrentando um novo vírus (COVID-19)". O paralelo 687 mil anos × 2020 é **leitura da autora — QUARENTENA CLÍNICA** (O-7: retido, jamais apropriação).
+- **[B031 p. 171 · POSFÁCIO]** "Há 687 mil anos um novo vírus (de Yel Luzbel) foi gerado, **infectando mais de 213 bilhões de seres**, e causando uma pandemia no Sistema de Capela." — a tríade quantitativa do posfácio: **687 mil anos / 213 bi de seres / 19 planetas**.
+- **[B031 p. 143 · GLOSSÁRIO — verbete "Rebelião de Lúcifer" (página agora precisa; a ficha registrava "p. 140 aprox.")]** "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou **há 742 mil anos** no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada. Essa pandemia levou a uma rebelião **por volta de 687 mil anos**, a qual culminou no isolamento cósmico de seres em 19 planetas, **há aproximadamente 619 mil anos**." — a tripla datação 742/687/619 **confirma a variante B057 (687 mil) já registrada nesta ficha**.
+- **[B031 p. 108 · CRONOLOGIA — a entrada antes "a conferir" na Fontes]** "687 mil anos A.P.: Começa a Rebelião de Lúcifer. O vírus de inquietação e nervosismo se espalha entre os **Yel e outras famílias de biodemos, tais como os Val, Mion, Cromon, Shanlung**, além de muitas outras." (grafias canônicas ✓; cross RC-136/RC-109/RC-444/RC-491.) — e a entrada anterior: "742 mil anos A.P.: Início da inquietação de Yel Luzbel (posteriormente conhecido na Terra como Lúcifer), **biodemo do planeta Dan**, no Sistema de Capela. Ele começava a se questionar quanto à existência de um Ser Criador." (Dan = RC-046.)
+- **[B031 p. 143 · GLOSSÁRIO — verbete "Reintegração Cósmica"]** "Nosso planeta será reintegrado ao Circuito Cósmico... **saindo do exílio que foi imposto pelo próprio Sophia após a Rebelião de Lúcifer**" (o exílio por ordem de Sophia — cross RC-009/RC-003).
+- 0 códigos novos (O-3). Obra complementar de aluna (fonte secundária) — mas **COM PREFÁCIO AUTORIZADO DE ELLAM**; os dados quantitativos do posfácio entram como leitura de terceiros (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

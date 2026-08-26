@@ -23,11 +23,11 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B031_paineis_emergentes_da_revelacao_cosmica/` — ingresso + leitura integral (181 págs) + dossiê enxuto (2026-08-26, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. **A MATERIALIZAÇÃO DA OBRA FUNDADORA** (a fonte da tabela-mestra; 145 termos já a citam) — o ciclo é ingresso + **verificação de fidelidade** (143 verbetes × 135 termos = 94%: a malha é fiel) + registro. Com PREFÁCIO DE ELLAM (Natal, 07/09/2020) e o posfácio dos 687 mil anos.
-
-Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
+**Nenhum** — a fila aguarda a ordem do curador. Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel; obras completas B027/B035; B076–B078 *Mentalma III–V*; B085/B086/B090 (sem PDF).
 
 ## Último ciclo
+
+`CONCLUIDOS/B031_paineis_emergentes_da_revelacao_cosmica/` — **B031 *Painéis Emergentes da Revelação Cósmica*** (obra complementar da aluna RaquYel Braga — **COM PREFÁCIO AUTORIZADO DE ELLAM**; a fonte da tabela-mestra): Devolutiva O-1..O-8 aplicada (2026-08-26, AG. 11); **A MATERIALIZAÇÃO DA OBRA FUNDADORA — a verificação de fidelidade: 143 verbetes × 135 termos = 94%, a tabela-mestra é fiel à fonte**. **4 fichas ampliadas com o paratexto inédito** (RC-002/RC-007/RC-009 — o posfácio dos 687 mil anos; RC-001 — a cronologia Brajna) + **RC-071 (o prefácio de Ellam) registrado no pacote sem ficha** (decisão histórica mantida); **BIBLIO enriquecida** (143 verbetes; PDF em poder da base; L. Kummer); **0 códigos — dados_termos.py nem foi aberto** (os 5 alvos já citavam B031). Quarentenas: o paralelo Yel Luzbel×COVID-19 retido (clínica); a "Segunda Volta em disco voador" isolada sumariamente.
 
 `CONCLUIDOS/B089_pandora_3_anunnaki_disputa_genetica_pandora/` — **B089 *Os Anunnaki e a Disputa pela Genética de Pandora*** (obra secundária — psicografia de Jeane Miranda; sem prefácio de Ellam — paratexto triplo com o texto de Mana Helena Kummer em quarentena institucional): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **15 fichas dos DOIS clusters ampliadas (Anunnaki: RC-024/487/486/587/589 + Pandora/Olimpo) + B089 nas fontes de 17 termos; 0 códigos — a fortaleza 777; status `trabalhada`**. Témis e Ares = nós satélites estruturais (sem código — decisão da Devolutiva). As divergências × B060/B061 registradas como variações, jamais fundidas. **FECHA a trilogia (final aberto — o destino de Enlil e o reencontro ficam prometidos).**
 

@@ -26,6 +26,15 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **[B057 p. 14 · nota]** "Capelino é a designação dada aos **seres extraterrestres, de vários tipos, oriundos do sistema de Capela**. Eles possuem corpos de vida longa, mas sujeitos a fenecer, e podem, por meio de naves espaciais, viajar pela galáxia... (Fonte: Trilogia 'Terra Atlantis', de Jan Val Ellam)." (cross B017/B018/B039.)
 - 0 códigos novos (O-3). Quarentena ufológica: cruzar, não materializar como fato (O-7).
 
+
+## Ampliação — B031 (Painéis Emergentes da Revelação Cósmica)
+
+- **[B031 p. 171 · POSFÁCIO — paratexto inédito]** a autora **se inclui entre os Exilados**: "nós – **os Exilados de Capela** – nos encontramos novamente enfrentando um novo vírus (COVID-19)"; "(muitas delas sendo ainda os tais **'Exilados de Capela' encarnados**)" (a COVID-19 atingindo os exilados reencarnados — **quarentena clínica**: leitura, não fato).
+- **[B031 p. 171 · POSFÁCIO]** "**sendo a Terra o último planeta remanescendo isolado com seres 'Exilados de Capela'**"; "A Terra, com seus países, estados, cidades, pessoas isoladas em suas casas, **ainda é um planeta a ser resgatado e curado, de todas as formas e maneiras, física ou espiritualmente**." (p. 172: "Que bom seria finalizar **dois isolamentos de uma só vez**...".)
+- **[B031 p. 137 · GLOSSÁRIO — verbete "Isolamento Cósmico"]** "É o isolamento que se impôs aos 19 planetas que participaram da Rebelião de Lúcifer **há aproximadamente 750 mil anos**, iniciada no Sistema de Capela. A Terra foi **refúgio de vários exilados que para cá vieram em suas naves, e que também aqui passaram a reencarnar devido à sua afinidade vibracional** (os chamados 'Exilados de Capela'). Atualmente, **a Terra é o único planeta que ainda se encontra isolada cosmicamente**, e por isso ainda não teve nenhum 'contato oficial' com outras civilizações extraterrenas." — nota de curadoria: o glossário grafa **"750 mil anos"** — mais uma variante da datação (742/750/687; absorver, O-4).
+- **[B031 p. 108 · CRONOLOGIA]** "619 mil anos A.P.: Início do Isolamento Cósmico. **19 planetas rebelados são isolados do circuito de convivência cósmica, sendo eles: 14 planetas do Sistema de Antares, 2 do Sistema de Tau Ceti, 2 do Sistema de Epsilon Eridani e 1 do Sistema Solar, ou seja, a Terra**." — a composição exata dos 19; e a chegada: "Muitos vêm no estado de espíritos desencarnados e outros em naves espaciais, **como foi o caso de toda a Família Val, com os seus 736 membros, que aportaram na Terra em suas 3 grandes naves: Asphezian, Espherian e Espheron**." (cross RC-109/RC-070/RC-021/RC-103.)
+- 0 códigos novos (O-3). Quarentena ufológica (naves, isolamento cósmico): **cruzar, não materializar**; o posfácio é paratexto de terceiros (O-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
