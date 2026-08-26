@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-04-30 — O Senhor Krishna e as Expressões do Ser
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (26/08/2026).** Devolutiva 100% aprovada e APLICADA: 9 fichas ampliadas (RC-414/581/582/584/734/776/009/092/727) + 9 vínculos P2023-04-30 + notas BIBLIO B017/B021 (edição manual) + apostila + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/`. **⚠️ O ELO PERDIDO (29/04/2023) segue no radar — a solicitar o TXT ao curador (a Devolutiva O-1).**
 
 ## 1. Identificação
 
