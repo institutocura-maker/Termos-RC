@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-05-20 — As Batalhas do Final dos Tempos
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · **11 fichas ampliadas** (RC-005 a síntese escatológica; RC-565 os quatro nomes; RC-414 a conversa + OS CÉUS DE CRISTO × OS CÉUS DE JESUS; RC-395 o Ragnarok marciano; RC-583 o Vale do Sidim; RC-024 o Gazu; RC-490 Caim na América; RC-595 o Saoshyant; RC-658 o Irém × Iron [o [REVISAR] resolvido]; RC-489 o final dos tempos redefinido; RC-644 a profecia Humanos × IA) · **11 vínculos** · **A APOSTILA LAVRADA** (18 PARTES; o Nord Stream e o Vaticano em RETENÇÃO TOTAL; o Gazu como paralelo literário-histórico) · **A BIBLIO: B094 'A Hora Mais Sombria' cadastrada + B093 atualizada** (97 obras) · pasta em `apostilas/CONCLUIDAS/` (48 apostilas). **A CORRENTE DE SETE DATAS ESTABELECIDA.**
 
 ## 1. Identificação
 
