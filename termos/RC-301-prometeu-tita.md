@@ -18,6 +18,17 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 - **Variações:** Prometeu
 - **Obs.:** na nota mitológica da ed. 2022 do B087: Prometeu = "**antevisão**" ("aquele que vê o futuro"); "Segundo Hesíodo, Prometeu desenvolveu um papel crucial na história da humanidade"
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 17–18 · os transes]** em transe, formula o coquetel e orienta Pandora — e depois: "**Não sei de onde vem esta informação** que agora estou para lhe dizer"; "**devo confessar-lhe que não me lembro de nada**" (a "força" misteriosa que o guia).
+- **[B088 p. 19 e 47]** "Algo ou alguém estava a usar-nos" (reflexão de Pandora); "**Algo age por meio de nós, ó Pandora!** Agora, tenho plena convicção disso!"
+- **[B088 p. 85–90 · o GAMBITO no Olimpo]** chega deliberadamente devagar ("para dar tempo aos espiões de falarem com Zeus... o 'circo já estivesse todo armado'"); finge ser informante de uma conspiração ("não posso revelar nomes... teremos o elemento surpresa a nosso favor"); Témis consolida a farsa aconselhando Zeus.
+- **[B088 p. 89 · as confissões a Atena]** os "animais" são "nada mais do que **experimentos**"; a provocação a Zeus é "**a minha vingança pessoal por ele ter destruído a minha espécie**. Provavelmente, é uma maneira de me vingar dele!"
+- **[B088 p. 89 · A PROFECIA de Atena]** "**Você sabe que, um dia, isso acabará muito mal, não sabe, ó Prometeu?**... E quando isso acontecer, não quero estar na sua pele!" (→ o castigo do Cáucaso do mito clássico — possivelmente no B089).
+- **[B088 p. 68 · o poder titânico]** a persuasão magnética: "**Não há ninguém que eu não consiga convencer** de algo quando invoco, em mim, todo o meu poder de magnetizar aquele a quem estou a dirigir-me."
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

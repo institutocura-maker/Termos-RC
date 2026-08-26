@@ -39,6 +39,15 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[B087 nota 2 p. 18]** Epimeteu = "**o que pensa depois**" (Hesíodo) — a nota mitológica da ed. 2022.
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 68 · a invisibilidade]** "Agora, vocês duas perceberão que nós, os titãs de segunda geração, temos alguns poderes especiais. **Epimeteu pode ficar invisível**..."
+- **[B088 p. 69 · os segredos]** "**Eu também tenho os meus segredos, ó Pandora!**... **tenho vários laboratórios montados, cada um em um local diferente**. Posso parecer tolo, no entanto, eu tinha plena convicção que, em algum momento, essa contenda entre Prometeu e Zeus não traria bons resultados."
+- **[B088 p. 37 · o cuidado]** (via Pirra): "Ele disse-me que **não deixaria você correr mais nenhum risco** e, portanto, **não permitiria que novamente tomasse qualquer beberagem sem antes experimentá-la nele**" — o titã testava tudo em si primeiro (quarentena clínica — leitura narrativa).
+- **[B088 p. 42]** "**Éramos como pai e filha**, cada um cuidando e protegendo o outro!"
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -27,6 +27,14 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - **[B087 p. 39]** a "folga cerebral": o corpo humanoide "mantinha naturalmente uma forma constante, sem que eu precisasse usar o meu poder mental para estabilizá-la."
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 45 · o processo CONCLUÍDO]** "Conseguimos, ó querida Pandora!... **Você está livre da genética de Zeus e ainda mantém os seus poderes mentais!**" + "viverá bem mais do que eu!" — a "Opção Inusitada" (B020) contada até o fim pela psicografia.
+- **[B088 p. 31–32 · a "fase de transição"]** "sentia que ele estava a ter várias oscilações e a mudar muito entre a composição olimpiana e a biológica. Percebi também que a minha porção biológica estava a afirmar-se de maneira mais forte."
+- **[B088 p. 38–41 · as emoções]** o abraço do "macho especial" ("senti vontade de que ele me abraçasse... 'sensações' de 'paz' e de 'aconchego'"); "Aquele foi o dia das grandes 'emoções'. Cada encontro... provocava-me emoções fisiológicas e psíquicas."
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -38,6 +38,14 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[B087 p. 8 · o paralelo Pandora–Eva]** a nota da autora: Pandora e Eva — "dois factos que, supostamente, foram realizados pelo padrão feminino, sendo que disso resultou toda a desgraça... **Eu penso diferente** a respeito do que foi dito e atribuído a Eva e a Pandora." (a refutação do "veículo da desgraça" — camada histórico-cultural.)
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 35 · o nome do Criador]** "o que fomos ao longo das nossas vidas **esta Obra de Khaos (Javé)**" — e a doutrina do Manifesto (p. 6): "tudo foi criado a partir daquele que é conhecido por **'Khaos' (na mitologia grega) ou 'Brahma' (de acordo com a mitologia hindu)**... todos... receberam como 'herança' a **'doença'** que este Criador possuía." (quarentena teológica — equiparação Khaos=Javé = leitura da psicografia.)
+- **[B088 p. 7 · as ancestralidades]** "**Isso aconteceu comigo, com Eva, com Maria de Magdala** e com outros personagens, tanto masculinos como femininos" — a trama das mulheres apagadas pela história (quarentena social/de gênero).
+- **[B088 p. 35]** **Capela** e os **13,8 bilhões de anos** (ver RC-086) — a autobiografia de Pandora ancora a linhagem na cosmologia RC.
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

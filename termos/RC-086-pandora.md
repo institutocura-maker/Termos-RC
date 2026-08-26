@@ -55,6 +55,18 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[B087 p. 71]** a co-criação de **Pirra** (RC-303) com Epimeteu, no "círculo de luz".
 - 0 códigos novos (O-3). Voz de Pandora (psicografia) — **leitura do ser, não fato ontológico** (O-7). **B087 adicionada às fontes** (fonte nova — Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 25–27 · o "coquetel das poções" e a travessia]** formulado por Prometeu em transe (3 poções: libertar a genética de Zeus mantendo poderes e longevidade); a noite "em chamas"; dias inconsciente "entre a vida e a morte"; **"tornei-me um ser radiante, emitindo luz para todos os lados!"** (p. 24).
+- **[B088 p. 45 · o resultado]** **"Conseguimos, ó querida Pandora!... Você está livre da genética de Zeus e ainda mantém os seus poderes mentais!"** (Prometeu, com o artefato) + "você poderá viver por mais alguns milhares de anos... **viverá bem mais do que eu!**"
+- **[B088 p. 35 · a autobiografia cósmica — cross trilogia Yel Luzbel]** "Inicialmente, lembro-me que **vivi numa das 'famílias extraterrestres' que foram criadas no sistema solar de Capela**, depois, como uma olimpiana, e por último, sempre na forma humana terrestre."; "sei que **ao longo dos 13,8 bilhões de anos desta Criação**, contados à moda terrestre, já devo ter vivido muito mais 'vidas' do que me é possível recordar." (Capela = RC-039; cross B057/B058.)
+- **[B088 p. 35–36 · a "Consciência Mais Profunda"]** "as nossas marcações espirituais... o que nos marca a 'Consciência Mais Profunda', que são 'todas as formas de vida que já vivenciamos'... do meu '**Verdadeiro Ser**'."
+- **[B088 p. 77 · a "hipnose" coletiva]** na transferência dos 12 machos: "utilizando os meus 'poderes mentais', **implantei a ordem, nos seus pequenos cérebros, de me seguirem irresistivelmente**" (quarentena clínica — leitura narrativa, jamais promoção).
+- **[B088 p. 83 · a raiva]** "Se Zeus tiver destruído Prometeu, **usarei o resto da minha vida na tentativa de fazê-lo pagar por isso!**... eu me vingarei!" — e a réplica do titã: "Em quem vingará a minha pretensa morte, já que estou bem vivo?"
+- **[B088 p. 90 · o chamado de Témis]** "somente após essa conversa é que Pandora entenderá **o papel que lhe cabe desempenhar** no que Témis chamou de 'o início da criação de uma nova espécie'" (→ B089).
+- 0 códigos novos (O-3). Voz de Pandora (psicografia) — **leitura do ser** (O-7: isolamento total, sem prefácio de Ellam). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

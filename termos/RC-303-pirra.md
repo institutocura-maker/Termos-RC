@@ -18,6 +18,14 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - **Variações:** —
 - **Obs.:** no livro, o nome é traduzido como "aquela cheia de sabedoria, de justiça e amor" (fala de Epimeteu, p. 72); no mito clássico, "pirra" = "a ruiva/vermelha como fogo"
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 49 · a decisão soberana]** "**quero que a minha porção titânide permaneça no meu corpo, tornando-me um ser parte titânide e parte biológica**... Levarei comigo a sua genética, pois foi exatamente para isso que ele me urdiu, e eu farei gosto em realizar o seu desejo."
+- **[B088 p. 27 e 30 · a guardiã]** "Nas noites que velei o seu sono, **anotei as frases que você murmurou**"; "**Somos parceiras de ideal!**... nada do que aqui falámos, eu contarei ao meu tio ou ao meu pai. Este é um momento nosso, e será o nosso segredo."
+- **[B088 p. 55]** a "futura fêmea" do plano genético (com Pandora) — ver RC-298.
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

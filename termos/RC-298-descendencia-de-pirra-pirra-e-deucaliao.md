@@ -25,6 +25,13 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 - **[B087 p. 78]** "**Realmente, ela era titânide e olimpiana**, pois que possuía características dessas duas estirpes." (o híbrido que funda a descendência.)
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7). **B087 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 28–29 · A PROFECIA DOS DELÍRIOS]** anotada por Pirra: Pandora "quis saber **de que maneira surgiria uma nova linhagem a partir de mim e do descendente direto de Prometeu, se esse pretenso filho sequer existia**" — o filho futuro de Prometeu (= **Deucalião** no mito clássico; o par de Pirra em RC-298) ainda não existe; "o objetivo deste planeamento... é para ser alcançado num futuro ainda longínquo."
+- **[B088 p. 55–56 · o plano genético]** "**eu e Pirra seremos as 'futuras fêmeas' que devem procriar com esses seres**, para termos 'melhores protótipos desta nova espécie'... ao mesclarmos as genéticas olimpiana e titã com essa 'humana', dessa mistura nascerá uma espécie que será diferente de tudo o que existe até agora!"
+- 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

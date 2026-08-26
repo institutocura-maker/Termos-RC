@@ -71,3 +71,11 @@
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
 ---
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 84 e 88 · ARES]** "o mais terrível de todos, ou seja, **Ares, o deus da Guerra**! Ele e Atena apresentavam as suas armas em punho!" (p. 84); "O 'deus da guerra' era mais 'prático'... **destruía primeiro e perguntava depois**... **Ares era um deus frio e instável!** Ninguém sabia como ele agiria!" (p. 88 — personagem sem termo; registro observacional, O-3).
+- **[B088 p. 87–88 · o decreto e a caça]** a ordem irrevogável a Atena e Ares; "Todos os deuses ficaram nervosos porque sabiam que, a partir daquele instante, seriam investigados e pressionados" — "**uma verdadeira 'caça' aos possíveis inimigos de Zeus**" (p. 90).
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
+---

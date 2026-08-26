@@ -27,6 +27,13 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 - **[B087 p. 54]** **divergência estrutural × B020** (variante narrativa, jamais fusão): quem abre a caixa é **Epimeteu** (a caixa "magnetizada"), não Pandora — ver RC-302.
 - 0 códigos novos (O-3). "Algoritmos virais" = vocabulário da obra (Navalha — O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 6–7 · o MANIFESTO re-explica a caixa]** "**Nada mais errado do que essa premissa. Primeiro, porque não sou dada a 'curiosidades'.** Segundo, é que, se alguém tivesse 'espalhado a maldade, a maledicência, as doenças, o ódio, a guerra e a desonestidade', **não teria sido eu, mas quem criou a tal 'caixa' e colocou dentro dela tudo o que havia de mais vil e perverso**." (reafirma a versão do B087: aberta por Epimeteu.)
+- **[B088 p. 7]** a finalidade: "destruir, por meio do acréscimo do **'vírus da corrupção'**, uma nova espécie − a humana terrestre − que estava a ser criada por mim e pelos irmãos titãs."
+- 0 códigos novos (O-3). Divergência × mito × B020 registrada como variação narrativa (O-4). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

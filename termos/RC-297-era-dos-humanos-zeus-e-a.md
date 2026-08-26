@@ -26,6 +26,14 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 - **[B087 p. 61]** "Lembre-se, **essa é somente a primeira geração desses seres**." (o processo é longo — "eu viveria ainda muito para efetivar o que eu estava a planear".)
 - 0 códigos novos (O-3). **B087 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 46–47 · o programa cerebral]** "uma poção que faça com que **o cérebro do 'macho especial' aumente de tamanho**... Epimeteu acredita que esse aumento craniano proporcionará **mais espaço para o surgimento de novos neurónios** e, consequentemente, **uma maior produção de novas sinapses**" (notas de rodapé com fonte Wikipédia — quarentena institucional, O-4).
+- **[B088 p. 55 · a fixação genética]** "os seres resultantes destes cruzamentos **já nasceriam anexados com uma 'genética' mais evoluída**, na sua composição biológica" — a evolução fixada pela reprodução.
+- **[B088 p. 90 · a profecia de Témis]** "o início da criação de **uma nova espécie de seres que poderão pensar e falar e que, num futuro ainda distante, serão chamados de humanos**."
+- 0 códigos novos (O-3). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

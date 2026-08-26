@@ -23,11 +23,13 @@ Se a obra completa de uma amostra subir: ciclo novo em `livros/B0NN_slug/`. **N�
 
 ## Ciclo em andamento
 
-`B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/` — ingresso + leitura integral (93 págs) + dossiê enxuto (2026-08-25, AG. 11); **AGUARDA DEVOLUTIVA O-1..O-8** (dossiê em `analise/`). 0 códigos. Obra secundária (psicografia de Jeane Miranda; **sem prefácio de Ellam** — a nota de abertura é o "Manifesto de Pandora"). **Fonte nova** (0 termos citavam B088). ⚠️ A ed. 2022 alterou o título interno ("As Poções dos Titãs e a Ameaça do Olimpo"). B089 com PDF já em `uploads_recepcao/`.
+Nenhum (B087 e B088 fechados em 2026-08-25 — trilogia Pandora ⅔ completa). **Próximo: B089 *Os Anunnaki e a Disputa pela Genética de Pandora*** (PDF já em `uploads_recepcao/` — fecha a trilogia), na ordem do curador.
 
 Pendências de fundo: B059 *Sinais de Guerra em Capela* SEM PDF (somente físico, ASIN B0GFPWXVSG) — fecha a trilogia de Yel Luzbel.
 
 ## Último ciclo
+
+`CONCLUIDOS/B088_pandora_2_coquetel_de_pocoes_ataque_do_olimpo/` — **B088 *Os Livros da Vida de Pandora 2*** (obra secundária — psicografia de Jeane Miranda; **sem prefácio de Ellam** — a nota é o "Manifesto de Pandora"; ⚠️ ed. 2022 com título interno alterado: "As Poções dos Titãs e a Ameaça do Olimpo"): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **12 fichas do cluster ampliadas + B088 nas fontes de 13 termos (12 + RC-465); 0 códigos; status `trabalhada`**. Cross cruciais: Pandora em Capela; a humanização concluída; a profecia Pirra+filho de Prometeu (Deucalião); o medo da morte de Zeus; Khaos=Javé. Témis e Ares: observacionais.
 
 `CONCLUIDOS/B087_pandora_1_zeus_titas_criacao_especie_humana/` — **B087 *Os Livros da Vida de Pandora 1*** (obra secundária — psicografia de Jeane Miranda; COM prefácio de Ellam — quarentena teológica crítica; ed. 2022 Gullan Greyl): Devolutiva O-1..O-8 aplicada (2026-08-25, AG. 11); **9 fichas do cluster ampliadas + 4 materializadas (RC-145 Zeus, RC-301 Prometeu, RC-303 Pirra, RC-307 Hefesto) + B087 nas fontes de 13 termos; 0 códigos; status `trabalhada`**. Divergências × B020 registradas (a caixa aberta por Epimeteu; a "esperança" como algoritmo viral). Atena: observacional.
 

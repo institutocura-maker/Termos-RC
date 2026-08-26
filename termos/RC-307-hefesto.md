@@ -18,6 +18,13 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - **Variações:** "Hefesto" (nota mitológica); deus do fogo e das habilidades técnicas (no mito clássico retomado na p. 13)
 - **Obs.:** no mito clássico (fonte Chalita, p. 13), Hefesto é quem **cria** a mulher perfeita a mando de Zeus — no B087, ele "encerra" a transformação de Pandora e a protege (a subversão do volume)
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 32–34 · O ARTEFATO]** "Certa vez, Zeus solicitou a Hefesto que descobrisse uma maneira de verificar quanto tempo mais ele viveria... **Ajudei-o a pesquisar**... conseguimos construir um tipo de artefato que, ao averiguar os organismos que compõe um determinado corpo, realiza uma possível 'previsão' do tempo que tal corpo pode durar." (Prometeu — o coautor; testado em Hefesto, Prometeu e no próprio Zeus.)
+- **[B088 p. 63 e 65 · vigiado]** "Hefesto foi pressionado, por Zeus, a revelar o motivo da visita de Prometeu"; "Hefesto está a ser vigiado o tempo todo. **Zeus mandou dois dos seus mais fiéis filhos impedirem que Prometeu e Hefesto tenham contato**."
+- 0 códigos novos (O-3). Quarentena ufológica (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

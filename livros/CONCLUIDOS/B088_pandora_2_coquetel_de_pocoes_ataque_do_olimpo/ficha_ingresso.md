@@ -1,6 +1,6 @@
 # Ficha de Ingresso — B088 — Os Livros da Vida de Pandora 2: O Coquetel das Poções e o Iminente Ataque do Olimpo
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-25, AG. 11).** 0 códigos. Pasta em `livros/` (sai para `CONCLUIDOS/` só depois da aplicação). Sem apostila.
+> **ESTADO OPERACIONAL: DEVOLUTIVA O-1..O-8 APLICADA (2026-08-25, AG. 11 — esteira `arena/01a03ad8-termos-rc`).** 12 fichas do cluster ampliadas (RC-086/145/285/287/297/298/301/302/303/307/727/736) + **B088 nas fontes de 13 termos** (12 + RC-465); status **`trabalhada`** + nota do título alterado da ed. 2022 na BIBLIO; **0 códigos**. Pasta em `CONCLUIDOS/`. Sem apostila.
 
 ## 1. Identificação
 

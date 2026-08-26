@@ -18,6 +18,15 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - **Variações:** "deus do Olimpo"; "chefe dos deuses" (nota — Hesíodo, "Teogonia"; "Hinos Homéricos")
 - **Obs.:** na nota mitológica da ed. 2022 do B087: "o 'deus dos céus', que mantêm a ordem e a justiça"
 
+
+## Ampliação — B088 (A Revolta do Anjo Decaído)
+
+- **[B088 p. 33–34 e 44 · O MEDO DA MORTE]** o artefato de Hefesto/Prometeu que mede longevidade — construído a pedido de Zeus, que "queria ter plena certeza da sua imortalidade": "Hefesto confidenciou-me que **o mesmo ficou muito preocupado com o resultado do seu exame corporal**" (p. 34); "Zeus ainda não está convencido do tempo que esse dispositivo detetou de sobrevida do seu corpo... **sempre recebia a mesma resposta do artefato, ficando relutante em aceitar o resultado da previsão como verdade**" (p. 44). **O segredo: Zeus é mortal.**
+- **[B088 p. 62–63 · a paranóia]** "Zeus fez, de todos os olimpianos, **os seus espiões**"; "Zeus anda nervoso o tempo todo!"; a pressão sobre Hefesto ("foi pressionado, por Zeus, a revelar o motivo da visita de Prometeu").
+- **[B088 p. 87 · o decreto]** "**Ordeno-lhes, ó Atena e Ares, que nenhum deus ou olimpiano, que estiver a tramar algo contra mim, sobreviva! Destruam os meus inimigos sem hesitação.** Dou este poder de decisão a vocês dois!" — "Todos os que estavam na sala do Trono tremeram ante a força com que Zeus emitiu o seu mandato!"
+- **[B088 p. 87 · o diagnóstico de Prometeu]** "assim era o 'rei do Olimpo', Zeus — **um ser totalmente manipulável simplesmente devido ao medo de perder o seu trono**, que é bom lembrar, que **lhe foi oferecido pelos outros deuses**!"
+- 0 códigos novos (O-3). Quarentena ufológica (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
