@@ -1,0 +1,4 @@
+CAMADA 1 — O DOCUMENTO BRUTO
+O texto bruto integral está em ../original.txt (SHA 166690c1...).
+Estrutura: 45 linhas — o núcleo monológico (linha 3, 49.107 chars: da abertura confessional até "avatares de Krishna") + o Q&A pós-intervalo (as linhas 4-43: a proposta aos Hare Krishna; a loca/Vaikuntha; Sai Baba; A CENA de 20/06/2023; o ateísmo; a alimentação).
+Nada interpolado; nada corrigido na voz bruta.
