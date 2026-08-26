@@ -1,0 +1,23 @@
+# Leitura 1 — Macroestrutura (P2023-06-03, 2026-08-26, AG. 11)
+
+> Leitura integral (24/24 linhas — o megabloco L3 de 76.101 chars + o Q&A). O detalhe nas camadas 0-3.
+
+## O esqueleto
+
+**TRANSCRIÇÃO STT BRUTA (~19,3 mil palavras)**. A tese: *a ressurreição de Jesus é A DEVOLUÇÃO DO CÓDIGO — "ele tinha que transformar aquele corpo defunto no código que precisava devolver a HOCHMAH [Rockman]. POR ISSO ELE RESSUSCITOU" — e o fator determinante foi o NASCIMENTO: a inseminação artificial de Maria com o código genético EMPRESTADO por Hochmah (o Verbo hebraico, o avatar da Trimurti neste universo, o suzerano de 5-6 bi anos), com "a receita genética" do Messias escrita por Keter/Javé. O homem Jesus NÃO CUMPRIU ("por uma questão de LIMITE — me perdoe, mas eu não posso dizer que foi porque ele amava os humanos"); resistiu na TRANSFIGURAÇÃO ("quem manda sou eu"); morreu; e devolveu o código "MUITO MAIOR E SEM DEFEITO" — e Hochmah, o cérebro radiato sem emoções, até hoje processa "a beleza do que Jesus devolveu" (o papagaio da mãe).* O arco: a trilha SNOWDEN → PROMETEU → JESUS → as QUATRO NARRATIVAS (Pedro; Paulo o inventor da salvação; MADALENA a mais fiel; Roma) → a destruição de 373 e NAG HAMMADI (1945) → A DESCIDA AOS INFERNOS (o Evangelho de Bartolomeu: 500 passos; o Tártaro; Hades; Belial e Reides; a libertação das almas desde Adão) → A VESTIMENTA DE SUZERANO negada pelos arcontes ("Jesus TRAIU Javé") → A VINDA ("todos os olhos me verão vir por sobre as nuvens" = Malkuth = Sofia = o retorno cósmico) — e no Q&A: KALKI = MAHDI = MESSIAS = JESUS = UMA SÓ ENTIDADE; A TRIMURTI COLAPSOU EM 2018 (sobrou Shiva); os orixás são arcontes; o método druida; e "vós sois deuses — mas não do jeito que estamos sendo".
+
+## O veredicto da leitura
+
+1. **A palestra-Hochmah** — a biografia completa do Verbo (RC-565): o menino Jesus de 10 anos perguntando no Sinédrio; o avatar dos três neste universo; o suzerano de 5-6 bi; a inseminação artificial; o empréstimo; a devolução; o cérebro radiato; o papagaio.
+2. **A Transfiguração revisitada (RC-366)**: a outra leitura — os anjos de Hochmah cobrando o contrato genético; a linguagem do sistema de Capela; "QUEM MANDA SOU EU" — a divergência com o B011 (Moisés/Elias) registrada sem fusão.
+3. **O colapso da Trimurti em 2018 (RC-104)** — RESOLVE o [REVISAR] "20171" da ficha: "aqui 2007, LÁ 2018... colapsou igual a uma colmeia. SOBROU CHIVA. Os herdeiros estão em guerra" — a confirmação independente do dossiê do buraco negro mental (P2023-06-24).
+4. **A descida aos infernos (RC-479)**: o Evangelho de Bartolomeu ipsis litteris — os 500 passos, o Tártaro, Hades "o irmão de Zeus", Belial e Reides de pacto, as almas desde Adão, "SOLTEM AS MINHAS ALMAS SENÃO EU VOU TER QUE AGIR — E ELE AGIU".
+5. **A identificação das vindas (RC-005/RC-682)**: Kalki = Malkuth = Mahdi = Messias = Jesus — "uma disputa pela suzerania universal" contra os herdeiros da Trimurti; "segundo as fofocas, está para breves dias".
+6. **A arqueologia das fontes**: as 4 narrativas; Paulo o inventor da salvação e do "Cristo" (com Nietzsche); Madalena e os 100 discípulos as 7 mulheres; Atanásio/Jerônimo/Damaso e os 4.000 evangelhos destruídos; Pacômio e os 52 manuscritos de Nag Hammadi.
+7. **As joias do Q&A**: os ORIXÁS como arcontes (a etimologia RC do termo: "surgiu quando Jesus ressuscitado se referia a esses donos de faixa de realidade"); o método druida ("a busca da verdade, sem crença em nada"); Eva e os MICROTÚBULOS + a mente bicameral de Jaynes; o experimento de Massaru Emoto (a água marca o MAGNÉTICO); o ALTRUÍSMO como invenção humana; "EU INVENTEI O MENTALMA"; e o fecho: "NÓS SOMOS POTENCIALMENTE VÓS SOIS DEUSES — mas não do jeito que estamos sendo".
+8. **B081 antedatada de novo** (03/06/2023 — a 3ª citação, a mais antiga: "eu escrevi recentemente um livro... e peguei dois livros que nem fazem parte da biblioteca de Nag Hammadi").
+9. **As âncoras**: 2007; 2018; 14-15.000 anos (Prometeu/hiperbórios); 13-14.000 (Tuatha); 5-6 bi; 373; 1945; 52 manuscritos; 500 passos; 30 moedas; 2.700 anos (Jaynes); "breves dias".
+
+## As quarentenas
+
+TEOLÓGICA/RELIGIOSA (massiva: a concepção virgem como violência; a inseminação; Jesus o não-cumpridor; Paulo; o criador doente; o islamismo "100% Javé"; Maomé; a Cabala; "as religiões transformaram as mitologias em mentira") · POLÍTICA (o "capital judaico via política anglo-americana" — RETENÇÃO; Snowden/PRISM/Dilma) · UFOLÓGICA (Paul Hellyer e os 4 povos; as derrubadas; os reptilianos; os portais) · BIOMEDIÚNICA ("a pedido deles"; "fui obrigado a assistir"; "segundo as fofocas"; "eu sou Rockman") · CLÍNICA (o Q de esquizoides) · INSTITUCIONAL/BIOGRÁFICA (o curso Mentalma; a mãe e o papagaio).

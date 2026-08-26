@@ -1,0 +1,34 @@
+# Ficha de Ingresso — P2023-06-03 — Os Bastidores da Ressurreição de Jesus
+
+> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+
+## 1. Identificação
+
+| Campo | Informação |
+|---|---|
+| **Palestra** | *Os Bastidores da Ressurreição de Jesus* — **P2023-06-03** (03/06/2023, sábado) |
+| **Natureza do material** | **TRANSCRIÇÃO STT BRUTA INTEGRAL** (~19,3 mil palavras; o megabloco L3 de 76.101 chars + o intervalo com o anúncio do curso Mentalma + o Q&A com 6 pergunteiros) |
+| **Recebido** | Upload do curador (commit `46c8a76`) · 114.360 bytes · SHA-256 `dbe45210102234d9376381897c90343a93b0602ccb3653d85ae06ba8036e0b5c` |
+| **Inédita?** | ✓ **SIM** — citada por ZERO termos |
+| **Slug** | `2023-06-03_os_bastidores_da_ressurreicao_de_jesus` |
+| **O ELO QUE ABRE O MÊS** | A 1ª palestra de junho/2023 — a que inaugura o quadrilátero ampliado: **03/06 (esta) → Schumann 16/06 → O Paradoxo Divino 17/06 → O Buraco Negro Mental 24/06 → Krishna 25/06** (as 3 últimas já engavetadas + o Paradoxo Divino). A cadeia completa do drama de junho. |
+
+## 2. A tese e as joias
+
+- **A TESE**: **a ressurreição de Jesus é A DEVOLUÇÃO DO CÓDIGO** — *"ele tinha que pegar os elétrons que compunham os elementos químicos do corpo morto... transformar aquele corpo defunto no código que precisava devolver a HOCHMAH [Rockman]. POR ISSO ELE RESSUSCITOU"* — e o fator determinante foi o nascimento: **a inseminação artificial de Maria com o código genético EMPRESTADO** por Hochmah (o Verbo hebraico), com "a receita genética" do Messias escrita por Keter/Javé.
+- **As joias**: **A TRILHA SNOWDEN → PROMETEU → JESUS** (Prometeu "o Snowden dos deuses", denunciando as corrupções do Olimpo aos povos hiperbórios há 14-15.000 anos) · **ROCKMAN = O VERBO** (o menino Jesus de 10 anos perguntando no Sinédrio; o avatar dos três neste universo; o suzerano de 5-6 bi; o CÉREBRO RADIATO; **O PAPAGAIO da mãe** — "ele não conseguiu ainda apropriar nele a beleza do que Jesus devolveu") · **A TRANSFIGURAÇÃO REVISITADA** (os anjos de Hochmah cobrando o contrato; "a linguagem do sistema de Capela"; **"QUEM MANDA SOU EU"**) · **A DESCIDA AOS INFERNOS** (o Evangelho de Bartolomeu: os 500 passos; o Tártaro; Hades; **BELIAL E REIDES**; "SOLTEM AS MINHAS ALMAS SENÃO EU VOU TER QUE AGIR — E ELE AGIU") · **AS 30 MOEDAS DE JUDAS COMO CONDECORAÇÃO** · **A TRIMURTI COLAPSOU EM 2018** (sobrou Shiva — **RESOLVE o [REVISAR] "20171" da ficha RC-104!**) · **A IDENTIFICAÇÃO DAS VINDAS**: Kalki = Malkuth = Mahdi = Messias = Jesus — "uma disputa pela suzerania universal" · **OS ORIXÁS SÃO ARCONTES** (a etimologia RC do termo) · **O MÉTODO DRUIDA** ("a busca da verdade, sem crença em nada") · **EVA E OS MICROTÚBULOS** + a mente bicameral de Jaynes · o experimento de **MASSARU EMOTO** (a água marca o magnético) · **O ALTRUÍSMO como invenção humana** · "EU INVENTEI O MENTALMA" · o fecho: **"NÓS SOMOS POTENCIALMENTE VÓS SOIS DEUSES — mas não do jeito que estamos sendo"**.
+
+## 3. INSTRUÇÕES ESPECIAIS
+
+- **⚠️ A QUARENTENA TEOLÓGICA/RELIGIOSA EM MASSA**: a concepção virgem como violência ("que tipo de Deus... engravidar uma criança de 15 anos?"); a inseminação artificial; Jesus o não-cumpridor; **o islamismo "a única 100% o que Javé quer" + Maomé**; a Cabala; o criador doente; Paulo; "as religiões transformaram as mitologias em mentira".
+- **+ POLÍTICA (retenção)**: o "império mundial disfarçado do CAPITAL JUDAICO VIA A POLÍTICA ANGLO-AMERICANA" (o trecho final da resposta do protocolo — RETENÇÃO); Snowden/PRISM/Dilma (rotulado).
+- **+ UFOLÓGICA**: Paul Hellyer e os 4 povos acobertados; as 200+ derrubadas; os reptilianos ("eu SEI que existem"); os portais e a tecnologia de neutralização.
+- **+ BIOMEDIÚNICA**: "a pedido deles"; "fui obrigado a assistir"; "eles fizeram comigo o que os Tuatha fizeram com os milesianos"; "segundo as fofocas, está para breves dias"; "eu sou Rockman, sou o espírito que está vinculado a ele".
+- **+ INSTITUCIONAL/BIOGRÁFICA**: o anúncio do curso Mentalma (Porto Alegre/agosto-2023); "eu inventei o Mentalma"; a mãe e o papagaio. **+ CLÍNICA**: o "Q de esquizoides".
+- **O STT**: Snowen/Snow/Snowing→**SNOWDEN** · Nagramad/Naghabad→**NAG HAMMADI** · Rockma/Rockman/Hman/Rock/HMA→**HOCHMAH** (a canônica!) · Kter/Queté/Queter→**KETHER** · Maulf/Malkov/Maulkuf→**MALKUTH** · Shimon Bariosi→**SHIMON BAR YOCHAI** · ticum→**TIKUN** · zite gast→**ZEITGEIST** · São Paôio→**SÃO PACÔMIO** · Anázias e Caifaz→**ANÁS E CAIFÁS** · Heat/Heit→**HADES** · Vno/Vígno→**VISHNU** · Chiva→**SHIVA** · Rolidiano→**HOLLYWOODIANO** · Julian James→**JULIAN JAYNES** · Raman Amarrix→**RAMANA MAHARSHI** · Massaro Imoto→**MASSARU EMOTO** · Calk/Avatarcal→**KALKI** · Madi→**MAHDI** · eubá→**IORUBÁ** · Paul Hiller→**PAUL HELLYER** (a confirmação do [REVISAR] da P2023-08-05!) · Xinchir antima→**QIN SHI HUANG?** · Anunque→**ANUNNAKI** · Marrabara/Ramaiana→**MAHABHARATA/RAMAYANA** · Tuatas/Estoata de Danã→**TUATHA DÉ DANANN** · Edim→**ODIN** · Sined/Sinedreio/cinédrio→**SINÉDRIO** · Élios→**EVANGELHOS** · CERNE→**CERN** · + [REVISAR]: "Swarming" (o programa?), "Oxo" (o mestre de Ricardo?), "anjã" (integridade em sânscrito?), "pels" (as poções de Eva — de novo), "a iasca cannabis" (ayahuasca?), "filhos de Erim" (Érimón?), "na bom assar" (o rei da Babilônia?), "373" (Atanásio — historicamente 367), "os 20 69 genes" (28.869?), "os 26-27.000 genes ativos", "Reides" (o parceiro de Belial — já canônico na RC-479).
+- Nada antes da Devolutiva O-1..O-8.
+
+## 4. Verificação da IA (leitura 1 — integral, 24/24 linhas)
+
+- **A palestra conversa com**: RC-565 (O CENTRO — Hochmah/Rockman!), RC-280 (a ressurreição como devolução — SEM FICHA), RC-366/RC-367 (a Transfiguração!), RC-104/RC-102 (a Trimurti colapsada/sobrou Shiva), RC-005/RC-682 (a vinda/Malkuth!), RC-479 (Belial e Reides!), RC-474/RC-770 (os arcontes/a Hipóstase), RC-072/RC-009 (Jesus/Sophia), RC-638 (a ressurreição pendente de Javé), RC-284 (Yahvé/Brahma/Alá), RC-261 (Kether/a Cabala/Shimon Bar Yochai), RC-166 (o Mentalma/sanskaras), RC-365 (o Fator Judas!), RC-086 (o DNA pandórico de Heleno), RC-375 (o método druida — SEM FICHA), RC-189 (Eva e os microtúbulos — SEM FICHA), RC-350/RC-039 (a linguagem de Capela), RC-557 (o rádio/locutor; o tálamo), RC-760 (Ramana), RC-545/RC-514 (o tikun), RC-725 (o altruísmo).
+- **Novo para o curador (decidir)**: as ampliações-alvo (a sugestão: RC-565 o bloco-centro; RC-366 a Transfiguração revisitada; RC-104 o colapso de 2018; RC-005 a identificação das vindas; RC-479 a descida aos infernos; RC-474 os orixás; RC-072 o não-cumprimento) + a nota BIBLIO de B081 (a citação antedatada — edição MANUAL) + a apostila (o rito clássico; a política em retenção).
