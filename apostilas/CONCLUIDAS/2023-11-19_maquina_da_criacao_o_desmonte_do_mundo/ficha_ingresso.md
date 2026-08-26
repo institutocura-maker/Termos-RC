@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-11-19 — A Máquina da Criação: O Desmonte do Mundo
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA O-1..O-8 (2026-08-26, AG. 11).** 0 códigos. Nenhuma ficha tocada. Pasta em `apostilas/` (sai para `CONCLUIDAS/` só depois da aplicação + apostila). **A 1ª PALESTRA DA NOVA FASE** — e a primeira fonte genuinamente NOVA da esteira (a verificação de cobertura atestou zero sobras: P2023-11-19 não é citada por NENHUM termo).
+> **ESTADO OPERACIONAL: CONCLUÍDO (Devolutiva aplicada em 2026-08-26, AG. 11 — 100% aprovada).** 0 códigos · 9 fichas ampliadas + 3 no pacote · 12 vínculos de fonte · **A APOSTILA LAVRADA** (apostila.md + DOCX, 8 PARTES + o Q&A literal) · pasta em `apostilas/CONCLUIDAS/` (38 apostilas). **O PUSH INAUGURAL DAS PALESTRAS.** **A 1ª PALESTRA DA NOVA FASE** — e a primeira fonte genuinamente NOVA da esteira (a verificação de cobertura atestou zero sobras: P2023-11-19 não é citada por NENHUM termo).
 
 ## 1. Identificação
 

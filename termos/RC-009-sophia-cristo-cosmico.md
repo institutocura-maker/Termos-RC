@@ -169,6 +169,12 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[B031 p. 137 · GLOSSÁRIO — verbete "Isolamento Cósmico"]** "Esse isolamento cósmico acabará no momento em que **Sophia, o Cristo Cósmico e Suserano deste universo**..." [verbete truncado na extração por colunas] — o título **"Suserano deste universo"** (hierarquia da malha ✓).
 - 0 códigos novos (O-3). Grafia canônica **Sophia** ✓ (a equação "Sophia/Jesus" é da autora — leitura, quarentena teológica).
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · Q&A bruto — literal, a pergunta de Fidel e a resposta]** o atraso da vinda de Sophia: "ele é um ser que tá acostumado a bilhões de anos e de repente um ano, uma hora pode ter um significado que ele não perceba uma mudança drástica" — **a escala temporal do ser** como hipótese da plateia; e a resposta de Ellam: "**um peso enorme de discórdia dos demais arcontos em relação ao fato dele não merecer ser o herdeiro da falência da Trimurte [Trimurti]**, ou seja, do legado da Trimurte" — a causa real declarada.
+- 0 códigos novos (O-3). Quarentena teológica (o herdeiro da falência).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

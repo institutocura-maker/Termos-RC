@@ -34,6 +34,13 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[B041 p. 156–157]** cap. 22: “foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro”. Para Javé, significa “rendição psíquica” — abrir mão da gestão dos “pedaços desagregados de si mesmo”. Ressonância mórfica entre antielétrons e elétrons = “principal agente” — Sheldrake = **referência externa**; RC-381 permanece **sem ficha**.
 - **[B041 p. 157–158]** nova egrégora: a Trimurti e a egrégora-corpo de Javé “se desfizeram”; Javé “feito um bebê” ligado a outra, “só que mais consciente”, mantida pelas mentes da Revelação Cósmica. “Ohm” (p. 158) = variação de **Olm** — `[REVISAR]`; não criar código. Remissão ao Quarto Logos (B016) = **não fundir**. IEEA / Orbum **fora**.
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 7.2 — A REVISITA]** "a 'rebelião dos elétrons' como um processo em que os elétrons, que 'hospedam informações desde o **momento zero** do Big Bang', estão se insurgindo contra a **'imundície'** acumulada." — o elo com a memória quântica (RC-161).
+- **[P2023-11-19 · cap. 7.2]** "Os humanos, ao **limpar seus próprios elétrons através do amor e do conhecimento**, contribuem para a formação de uma 'nova mente universal'" — a contribuição pessoal à rebelião (cross RC-163).
+- 0 códigos novos (O-3). Quarentena científica (a física dos elétrons como leitura do autor).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

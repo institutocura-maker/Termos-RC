@@ -64,6 +64,13 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[B024 p. 111]** os três “Senhores da Trimurti” disputaram “qual parte de cada um seria ‘semeada’”; Vishnu e Shiva apresentaram protótipos (molécula-mãe / *nidana*); Brahma jamais o conseguiu. RC-153 / RC-154 permanecem **sem ficha**. Sem cadastrar B045.
 - **[B024 p. 116–117]** postulados teóricos na Era da Lila e da Aceitação; semeadura efetiva na Era da Semeadura Universal. ~8,1 bi (início do Talm no extract do cap. 16) × ~7,5 bi (cap. 12) = **`[REVISAR]`** de cronologia interna.
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 4.2]** "A história de Javé, que ao cair 'improvisou' um universo antimaterial (Brahmaloka), é conectada ao **Projeto Talm**. Este projeto, concebido pela Trimúrti, visava **transferir o 'código de vida' do Criador 'caído' do universo antimaterial para o universo material biológico (Bhuloka)**." — a função do Talm como a PONTE do código (a confirmação da ficha pela via da palestra).
+- **[P2023-11-19 · cap. 4.2]** "Javé necessita da ajuda dos humanos para 'reparar' a **'carga da desgraça'** que ele transferiu." — o why da transferência.
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

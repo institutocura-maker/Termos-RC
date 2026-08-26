@@ -147,6 +147,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B060 · quarentena]** teológica (as tríades); a "Tríade Grega CAOS-TARTAR-EROS" espelha o panteão RC (Caos=Javé/B088; Tártaro=Shiva; Eros=Vishnu — RC-286); grifos [sic] preservados ("CHOKMACH", "SVENTOVIT").
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 4.3 — A FALÊNCIA]** "A 'falência' da Trimúrti (Brahma, Vishnu e Shiva) é um ponto crucial, indicando o **colapso de um sistema de poder cósmico que se desfez 'muito recentemente'**." — a confirmação temporal da falência (a malha registrava via B018/B022; a palestra reitera).
+- **[P2023-11-19 · cap. 4.3 + Q&A]** "A incapacidade de Sophia de assumir plenamente sua função é atribuída à **'discórdia dos demais arcontos'** [arcontes] e ao desvio de Jesus do papel de Messias violento, o que **'estragou todo esse plano'** da Trimúrti" — o legado em disputa e o herdeiro impedido (quarentena teológica: a leitura do papel de Jesus).
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

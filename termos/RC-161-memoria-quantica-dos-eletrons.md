@@ -51,6 +51,12 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[B041 p. 46]** Charon = memória quântica “infinita” nos circuitos — **referência externa**; **quarentena científica**. Sem fusão com B024 (cap. 13).
 - **[B041 p. 103]** cap. 14: duas componentes da memória, segundo os “amigos espirituais” — **passiva** (arquivista / registro akáshico) e **ativa**. “Essa não é uma constatação científica, pois a ciência apenas afirma que o elétron tem uma ‘memória quântica’”. RC-162 / RC-163 / RC-386 permanecem **sem ficha**.
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 7.2]** os elétrons "**hospedam informações desde o 'momento zero' do Big Bang**" — a memória quântica ancorada no instante inicial (a confirmar na fonte P2024/2025 da ficha).
+- 0 códigos novos (O-3). Quarentena científica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -26,6 +26,15 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 
 - **Vrittis e Cittas (P2025-05-31 — contexto):** o autor cita "Vatireca" [STT — REVISAR] como tipo de ignorância (pior que Trishna) — relacionar com a gestão dos estados mentais (ver RC-712); registro na Colecionar Incertezas.
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 4.1 — O TRATAMENTO MAIS DENSO DA TRÍADE]** "os humanos foram 'caracterizados para ter as manias de Jah, os hábitos de Jahé, os problemas de Jah' [STT; Javé], sendo as **vrittis** (sensações e pensamentos negativos no campo da emoção) transformadas em **tattvas** [STT: 'tátuas'/'estátuas'/'távos'/'táos'] e instaladas nos seres humanos como **cittas** [STT: 'citas'] ou núcleos mentais. Estas são as 'fórmulas mentais primitivas' do 'criador caído'." — a cadeia completa vrittis→tattvas→cittas com a função de cada elo.
+- **[P2023-11-19 · cap. 3.1]** a biologia sintética visa substituir o "código dos **estátuas** [tattvas] de Javé que está presente nas células do mundo biológico" — os tattvas como o CÓDIGO NA CÉLULA (a ponte biológica do conceito).
+- **[P2023-11-19 · Q&A bruto — literal]** a pergunta de Fidel e a resposta de Ellam: os tattvas ["táos"] "são **partículas que em tese devem existir mas que funcionam para além do espaço-tempo da nossa matrix**" — a definição física do tattva (fora do espaço-tempo).
+- **[P2023-11-19 · cap. 5.3]** a renovação: várias mentes "buscando ser dignas e **renovando as vrittis e os tattvas**" para a transformação — a via da limpeza.
+- **Devolutiva O-3: o termo Tattva NÃO ganha código — absorvido ESTRUTURADO nesta ficha** (o elo do meio da tríade). 0 códigos.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

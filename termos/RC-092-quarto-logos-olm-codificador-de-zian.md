@@ -86,6 +86,12 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[B057 p. 47]** "Nestes tempos atuais, **por meio de Val El – reencarnado como humano terrestre – e do Codificador de Zion, esta humanidade já começa a saber que esta Obra é imperfeita e que o seu Criador está 'doente'**." (cross: Val El = RC-071/B060.)
 - 0 códigos novos (O-3). O livro usa a grafia **Zion** (ver RC-146).
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 7.3]** "O 'Quarto Logos' (Olm/Codificador de Zion) é apresentado como um ser diferenciado que **não 'mergulhou' no universo antimaterial, o que lhe permitiu desenvolver um DNA próprio, 'livre da programação existencial gerada pelo primeiro Logos'**. Sua função é **'gerar cocriadores esclarecidos, independentes e harmonizados'**." — o DNA próprio de Olm e a função geradora.
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

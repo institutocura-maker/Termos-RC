@@ -28,6 +28,13 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 - **Finalize em você mesmo (P2025-02-15):** "se você errar no presente, o que é que eu preciso fazer para finalizar em mim isso que eu acabei de fazer? Eu preciso pedir desculpas. Se ficar pendência relativa ao que outros acharam daquilo que eu fiz, problema dos outros. Se eu não repetir a besteira ou se eu não tiver feito algo por mal... Encerre em mim mesmo aquilo. Se eu ajo assim, eu não crio futuro. Eu sou alguém livre, ainda que eu vá viver futuro. Não gera um futuro vinculante."
 - **O vínculo:** "o vínculo aqui é que é, entre aspas, a questão da WD — da teia quântica nórdica — ou da rede de Ifá, o que seja" (ver RC-658/RC-559).
 
+
+## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
+
+- **[P2023-11-19 · cap. 5.2]** "A prática da 'Satyagraha', uma expressão sânscrita que significa **'resistência pacífica e amorosa'**, ensinada por Gandhi, é recomendada como um meio de manter uma 'visão crítica' e uma 'distância prudente' [a síntese se corta]" — a Satyagraha como postura diante do desmonte (quarentena biográfica: Gandhi como referência).
+- **[P2023-11-19 · cap. 5.2 — o contexto]** a dignidade como "conceito supremo mais superlativo", capaz de tornar menores as discussões que dilaceram a humanidade — o par dignidade/Satyagraha.
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
