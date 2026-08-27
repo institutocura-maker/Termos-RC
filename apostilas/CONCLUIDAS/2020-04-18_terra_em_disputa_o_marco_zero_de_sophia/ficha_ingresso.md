@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2020-04-18 — Terra em Disputa: o Marco Zero de Sophia
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada e APLICADA: **7 fichas ampliadas com o selo [O EMBRIONÁRIO DE 2020]** (RC-092/009/005/565/727/467/047) + **7 vínculos P2020-04-18** (a raiz temporal) + apostila + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/` (53). O "Sofios Logos Criadores" no radar (obra em desenvolvimento, sem ficha). **O próximo trilho: Maio/2020 (JUÍZO FINAL).**
 
 ## 1. Identificação
 
