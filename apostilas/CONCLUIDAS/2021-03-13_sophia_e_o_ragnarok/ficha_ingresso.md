@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2021-03-13 — Sophia e o Ragnarok
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 5/5 linhas + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada ("entrou no novo ano derrubando portas" + A FONÉTICA DE OURO: IG Brasil→YGGDRASIL; Word→WYRD; Saturno→SURTUR) e APLICADA: **6 fichas ampliadas** (RC-395 [A VERSÃO DEFINITIVA: a gênese odiniana; as ordens no DNA; os dois petardos; SURTUR] / RC-543 [a metilação como a regra do jogo] / RC-092 [OLM o tutor; a rebelião como receitas; A NOVA ESPÉCIE] / RC-009 [o ser alfa; A DESOBEDIÊNCIA SUPREMA] / RC-036/RC-442 [a cronologia: Shanlung 506 Ma · Yel ~490 · VOL 232 Ma; os mortos do Ragnarok reencarnando; a Vol/Volks absorvida estruturalmente]) + **8 vínculos P2021-03-13** + 2 blocos no pacote (RC-019 os três níveis; RC-540) + notas BIBLIO **B044 (citada ao vivo) + B087-B089 (os complementos)** + apostila (10 PARTES) + DOCX. **0 códigos — 777/1.856 intactos — a base de pedra.** Pasta engavetada em `apostilas/CONCLUIDAS/` (58). ⚠️ **A LACUNA DA 'PALESTRA DA IA' REGISTRADA NO RADAR** (a Devolutiva O-1). A próxima: o avanço de 2021 quando o curador nomear.
 
 ## 1. Identificação
 
