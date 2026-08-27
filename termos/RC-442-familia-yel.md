@@ -45,6 +45,12 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 - **[P2020-08-08 · A FAMÍLIA YEL — a cronologia capelina]** "SÓ OS VOL, OS IEL [YEL] E O XUM FORAM CRIADOS E PASSARAM A VIVER NO SISTEMA DE CAPELA" [a família Yel entre as espécies capelinas recentes]; **A NATUREZA APOLÍNEA**: "os cromões... e os mi... esse pessoal olhava para isso tudo e ELES ERAM GUERREIROS, DIFERENTE DOS IELS... se a gente for olhar... SÓ SURGIA CIVILIZAÇÕES FRIAS no sentido de seres ABSOLUTAMENTE APOLÍNEOS NA QUESTÃO DE OBEDIÊNCIA A NORMAS e tudo seguia uma construção no campo intelectual de tecnologia intelectual formidável" [na parte de Sofia]; **O SILÊNCIO DE 310 MA**: "Lúcifer e é o LUZBEL [a família Yel!], há 310 milhões de anos, olhou para aquilo, A FAMÍLIA [YEL] OLHOU PARA AQUILO... 'Ô Aias e Aês, o que é que vocês... falam de comunicação com essa turma aí desse universo vizinho?' OS AIAS E AÊS NUNCA ABRIRAM A BOCA"; "não somos guerreiros. Nós não fomos gerados para [a guerra]" [a voz dos iels na prontidão].
 - 0 códigos novos (O-3). Quarentena: teológica (o eco luciferiano).
 
+
+## Ampliação — P2021-03-13 (Sophia e o Ragnarok)
+
+- **[P2021-03-13 · A FAMÍLIA YEL — o destino dos mortos do Ragnarok e os poucos que viam Olm]** **OS MORTOS DO RAGNAROK**: "os espíritos da turma que morreu no Ragnarok, principalmente os asgardianos, os vanirianos e outros, TURMA ÉLFICA de vários mais quatro mundos desse sistema... TERMINARAM NASCENDO NESSE RESTANTE DE FAMÍLIA YEL E NA FAMÍLIA VOLKS" [⚠️⚠️ os mortos de Midgard reencarnando na família Yel!]; **OS POUCOS QUE VIAM OLM**: "bilhões de anos depois da criação de [Olm e] Sofia, quando [Olm] se defrontou, pela primeira vez, com a família Vol e ALGUNS YEL, é que ele percebeu que algumas daquelas figuras OLHAVAM E QUERIAM SABER MAIS sobre como ele era, porque ele era totalmente diferente de todos. Só que ninguém nunca tinha [tido olhos para] achar algo diferente. ALGUNS VOL, ALGUNS YEL, POUCOS, MAS OLM PERCEBEU" [⚠️ os primeiros Yel despertos!]; "a família Yel começou a ser produzida cerca de 400 e poucos milhões de anos... LOGO [APÓS] 490 E POUCOS MILHÕES DE ANOS. Mas aí depois voltou a ser uma turma meio problemática"; "o nosso amigo [Yel] Luzbel e outros, eles terminaram sendo influenciados por esse processo [do Ragnarok]"; "À EXCEÇÃO DE PARTE DOS YEL E DA FAMÍLIA VOL" [fora do ser alfa de Sofia!].
+- 0 códigos novos (O-3). Quarentena: —.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
