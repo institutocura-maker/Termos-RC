@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-04-29 — Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada e APLICADA: **17 fichas ampliadas** (RC-565/072/001/102/047/616/727/644/467/009/638/037/104/757/529/702/725) + **19 vínculos P2023-04-29** + 2 blocos no pacote (RC-135/RC-280) + notas BIBLIO B022 (A DATA DE 2016!)/B019 (edição manual) + apostila + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/` (52). **A CORRENTE DE ABRIL FECHADA.** O "Jesus Niet" [REVISAR] no radar (a hipótese do curador: Jesus/Nietzsche).
 
 ## 1. Identificação
 
