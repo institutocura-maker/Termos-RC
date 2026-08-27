@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2020-05-09 — Sophia e o Juízo Final
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 9/9 linhas + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada ("o passo atrás foi magistral") e APLICADA: **8 fichas ampliadas** (RC-489 [o alvo central: O MESSIAS DE JAVÉ ERA ENOQUE + a aposta tripartite + o Frankenstein] / RC-200 / RC-104 / RC-102 / RC-001 / RC-072 / RC-424 / RC-009) + **12 vínculos P2020-05-09** + 4 blocos no pacote (RC-135 o plano da substituição + RC-075 a Lila-jurisprudência + RC-019 + RC-016) + notas BIBLIO **B013/B014 IDENTIFICADAS AO VIVO** (as pendências "Tzimtzum" e "Sofios Logos Criadores" resolvidas) + B022/B037 + apostila (15 PARTES) + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/` (55). **A CORRENTE DE 2020 SOLDADA: 18/04 → 09/05 → 04/07.** A próxima no plano do cluster: Agosto/2020 (O Moscoviano).
 
 ## 1. Identificação
 
