@@ -43,7 +43,7 @@
 
 ## O-6 · BIBLIO / índice
 
-- **Proposta de nota BIBLIO (edição MANUAL)**: **B001** — CROSS P2021-09-04: "apertem cintos, o Criador" citada ao vivo ("sem piloto e é cada um de nós que pilota") · **B014** — CROSS: "a vanguarda do atraso" citada (3ª vez) · **B087-B089** — CROSS: as mensagens-tal + os processadores + os consórcios de DNA citados ao vivo · ⚠️ **O LIVRO "JESUS NIET" — A CADASTRAR** (a ordem a decidir: obra lançada citada ao vivo; o título/grafia em [REVISAR]) · ⚠️ **O ÚLTIMO LIVRO (a perda do senso compartilhado de realidade) — obra anunciada**. [Aguardar a ordem de edição manual.]
+- **Proposta de nota BIBLIO (edição MANUAL)**: **B001** — CROSS P2021-09-04: "apertem cintos, o Criador" citada ao vivo ("sem piloto e é cada um de nós que pilota") · **B014** — CROSS: "a vanguarda do atraso" citada (3ª vez) · **B017/B018/B039 (Terra Atlantis)** — CROSS: as mensagens-tal + os processadores + os consórcios de DNA citados ao vivo · ⚠️ **O LIVRO "JESUS NIET" — A CADASTRAR** (a ordem a decidir: obra lançada citada ao vivo; o título/grafia em [REVISAR]) · ⚠️ **O ÚLTIMO LIVRO (a perda do senso compartilhado de realidade) — obra anunciada**. [Aguardar a ordem de edição manual.]
 - ÍNDICE-PALESTRAS: a linha P2021-09-04 entra após a P2021-07-24.
 - O TXT (113.869 bytes) + SHA `8a3480ca…` registrados no METADADOS-INGRESSO.json ✓.
 

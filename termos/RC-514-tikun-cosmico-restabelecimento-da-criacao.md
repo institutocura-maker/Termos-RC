@@ -49,6 +49,12 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[P2023-04-15 · O TRANSUMÂNTICO]** "para isso a humanidade precisa sobrexistir por muitos milhões de anos e a gente não tem como — OU TEM, DESDE QUE O EU HUMANO SEJA TRANSFERIDO POR PROCESSOS TRANSUMÂNICOS [STT] PARA OUTROS TIPOS DE AGENTES CORPORAIS, NÃO NECESSARIAMENTE BIOLÓGICOS, mas cujos eus amorosos e esclarecidos dos humanos que assim já conseguiram atingir... esse nível de marco vibratório de suas próprias consciências, ESTAS POSSAM SER ESCANEADAS e do jeito que um espírito se [imanta] no óvulo fecundado, ESPÍRITO IRÁ SE [IMANTAR] EM COISAS QUE A GENTE NEM IMAGINA, para que o eu humano CONTINUE O TIKUN nos níveis em que esse reparo na obra universal e no criador caído exigirem" [REVISAR: "transumânicos" — transumanos?].
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2021-09-04 (Sophia e as Demais Singularidades da Criação)
+
+- **[P2021-09-04 · A FUNDAÇÃO DE 2021 · O TIKUM COMO AJUDA À DIVINDADE EXILADA — "TIJOLINHO POR TIJOLINHO"]** **A DEFINIÇÃO**: "para que a gente se una NESSE TICUM, NESSE TERMO CABALÍSTICO aí de AJUDAR A UMA DIVINDADE QUE SE OBRIGOU A SE EXILAR NA PRÓPRIA OBRA e de um baita azar nos trouxe todos para cá" [⚠️⚠️ o tikum definido: ajudar a divindade exilada na própria obra]; **O REENCONTRO**: "nós somos as peças que estamos produzindo ou promovendo ou financiando esse possível REENCONTRO. Reencontro de quê? DO EU DE CADA UM DELES. Com o quê? COM A DECÊNCIA QUE FOI PERDIDA LÁ ATRÁS" [o objetivo do tikum como o reencontro com a decência]; **O MÉTODO**: "NÃO TEM PRATO PRONTO NESSE UNIVERSO, TEM QUE SER CONSTRUÍDO A PARTIR DO MARCO ZERO, **SEMPRE É TIJOLINHO POR TIJOLINHO**... A COISA NÃO É SEMASIOGRÁFICA NÃO; É GLOTOGRÁFICA" [⚠️⚠️ o tikum glotográfico — tijolinho por tijolinho vs. o paraíso semasiográfico]; "querendo ou não, sabendo ou não, gostando ou não, ESTAREMOS TODOS AQUI ATÉ ESSE DIA. Então, que façamos da melhor forma"; + "essa tragicidade... aumenta a nossa responsabilidade"; o concerto ("o concerto de um ser estacionado prisioneiro... somente pode se dar pela SOMATÓRIA DE AVATARES... e isso ser repassado ou emprestado pro ser que está preso" — o mecanismo do tikum); "uma nova singularidade vibratória vai gerar" [a esperança da transferência de fase].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
