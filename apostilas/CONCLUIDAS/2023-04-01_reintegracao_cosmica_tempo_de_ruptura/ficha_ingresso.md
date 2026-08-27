@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-04-01 — Reintegração Cósmica: Tempo de Ruptura
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada e APLICADA: **20 fichas ampliadas** (RC-039/565/001/002/072/638/529/047/727/024/091 + RC-104/395/007/005/759/702/725/166/543) + **22 vínculos P2023-04-01** + 2 blocos no pacote (RC-280/RC-189) + notas BIBLIO B039/B064 (edição manual; a variação da B064 documentada sem fusão) + apostila + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/`. ⚠️ A LACUNA DE RESENDE (~25/03) no radar; o 29/04 — recuperado em seguida (a P2023-04-29, o ciclo B do mesmo turno).
 
 ## 1. Identificação
 
