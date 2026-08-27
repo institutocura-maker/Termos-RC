@@ -42,6 +42,12 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - **[B058 p. 63]** o registro do desvio: "extremismo, nervosismo e agressividade" (percepção de Yel Luzbel).
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (O-7).
 
+
+## Ampliação — P2020-08-08 (Sophia e o Alinhamento Interdimensional do Moscoviano)
+
+- **[P2020-08-08 · A FAMÍLIA MION — os guerreiros antigos]** "OS CROMONS, OS MIÕES JÁ TINHAM SIDO CRIADOS ANTES" [as espécies antigas anteriores à fixação em Capela]; "OS MI, ESSE PESSOAL OLHAVA PARA ISSO TUDO E ELES ERAM GUERREIROS, DIFERENTE DOS IELS... E era uma situação confusa" [⚠️ o contraste estrutural guerreiros×apolíneos: os Miões entre as famílias guerreiras que presenciaram o alinhamento de 310 Ma]; "Nessa época [~310 Ma] os vol nem existiam. Os viel, sim. Os CHANLUM [SHANLUNG], sim. Os mi, os prom. Sim, mas val nem existia" [⚠️ a ordem de surgimento: viel/shanlung/mi/prom antes; vol depois — a cronologia das espécies!].
+- 0 códigos novos (O-3). Quarentena: —.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

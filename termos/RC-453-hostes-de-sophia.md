@@ -18,6 +18,12 @@ No Livro 2 (B058), as designações se sucedem: "Sophia e as suas Hostes" (recor
 - **Variações:** "as suas Hostes" (B057/B058); "Hostes de Comando" (B058, p. 67); "Hostes bélicas" (B058, p. 74); "Assessores"/"Administradores" de Sophia
 - **Obs.:** coletivo (não ser individual); no RC, as hostes conectam-se à hierarquia administrativa de Orbum (RC-085)
 
+
+## Ampliação — P2020-08-08 (Sophia e o Alinhamento Interdimensional do Moscoviano)
+
+- **[P2020-08-08 · A FAMÍLIA AIA E A OMISSÃO ORDENADA POR JAHVÉ]** **A OMISSÃO**: "SE SOFIA E OUTROS HABITANTES DESSE UNIVERSO TINHAM DÚVIDA DE QUE EXISTIA O UNIVERSO VIZINHO, PORQUE QUEM FALAVA E SEMPRE FALOU ISSO FORAM OS AIA E AÊ EM TORNO DE SOFIA, POIS QUE ELES RECEBIAM DE JAHVÉ LÁ DO OUTRO UNIVERSO, ORDENS DE OMITIR A SOFIA" [⚠️ a existência do universo vizinho deliberadamente ocultada de Sofia pelos próprios hostes, por ordem de Javé!]; **O SILÊNCIO DE 310 MA**: "Lúcifer e é o Luzbel, há 310 milhões de anos, olhou para aquilo, a família [Yel] olhou... 'Ô Aias e Aês... o que é que vocês... falam de comunicação com essa turma aí desse universo vizinho? O que que eles dizem?' OS AIAS E AÊS NUNCA ABRIRAM A BOCA"; **A LILA**: "essa turma que promoveu isso [a destruição de Marte] ainda hoje sendo seguida pela turma Aia e Aê... SE ELES NÃO DEREM AS QUESTÕES LEGAIS DA LILA, OU SEJA, DA GEOPOLÍTICA DA TRIMURTI, QUE A TURMA AIA, AÊ E SOFIA SEGUEM À RISCA, TEM QUE SER CUMPRIDO. Eh, mas não dá para cumprir... problemas do outro universo e eles não compreendem isso e ao mesmo tempo no outro universo ninguém quer mais fazer isso... uma coisa ridícula, uma coisa surreal... UM DESENHO ANIMADO DE TERROR"; **MARÇO/2020** [⚠️ o evento no nível canônico já estabelecido na ampliação P2020-07-04 ("Sofia se meteu e o Aia e Aer se meteram e foram agredidos"); OS DETALHES DO ATENTADO EM RETENÇÃO — a Devolutiva O-7: "a Quarentena Biomediúnica blinda a base retendo os detalhes do atentado sofrido pela Família AIA em março/2020" — o registro integral no original.txt e na apostila, rotulado]; **A PRONTIDÃO ORIGINÁRIA**: "Sofia veio aqui, deu uma ordem para diversas famílias Biodemo ficarem... em prontidão... NÓS NÃO SOMOS GUERREIROS. NÓS NÃO FOMOS GERADOS PARA [a guerra]. Mas é bom ficar porque a gente não sabe o que é que vem por aí" [a natureza não-bélica dos Aia/Aê vs os cromões/miões guerreiros].
+- 0 códigos novos (O-3). Quarentenas: biomediúnica (os detalhes do atentado de março/2020 em retenção).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

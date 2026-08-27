@@ -39,6 +39,12 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 - **[B058 p. 70]** o "**Segundo Pesquisador**" dos Yel pergunta como Yel sobreviverá "sem estar inserido em alguma 'família'" (hierarquia interna: Primeiro Pesquisador → Segundo Pesquisador).
 - 0 códigos novos (O-3). Números e hierarquias vêm da narrativa psicografada (O-7).
 
+
+## Ampliação — P2020-08-08 (Sophia e o Alinhamento Interdimensional do Moscoviano)
+
+- **[P2020-08-08 · A FAMÍLIA YEL — a cronologia capelina]** "SÓ OS VOL, OS IEL [YEL] E O XUM FORAM CRIADOS E PASSARAM A VIVER NO SISTEMA DE CAPELA" [a família Yel entre as espécies capelinas recentes]; **A NATUREZA APOLÍNEA**: "os cromões... e os mi... esse pessoal olhava para isso tudo e ELES ERAM GUERREIROS, DIFERENTE DOS IELS... se a gente for olhar... SÓ SURGIA CIVILIZAÇÕES FRIAS no sentido de seres ABSOLUTAMENTE APOLÍNEOS NA QUESTÃO DE OBEDIÊNCIA A NORMAS e tudo seguia uma construção no campo intelectual de tecnologia intelectual formidável" [na parte de Sofia]; **O SILÊNCIO DE 310 MA**: "Lúcifer e é o LUZBEL [a família Yel!], há 310 milhões de anos, olhou para aquilo, A FAMÍLIA [YEL] OLHOU PARA AQUILO... 'Ô Aias e Aês, o que é que vocês... falam de comunicação com essa turma aí desse universo vizinho?' OS AIAS E AÊS NUNCA ABRIRAM A BOCA"; "não somos guerreiros. Nós não fomos gerados para [a guerra]" [a voz dos iels na prontidão].
+- 0 códigos novos (O-3). Quarentena: teológica (o eco luciferiano).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
