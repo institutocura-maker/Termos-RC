@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2020-09-19 — Sophia e o Impasse do Juízo Final
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 26/26 linhas + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada ("a peça de resistência de 2020") e APLICADA: **8 fichas ampliadas COM A TAG [O EMBRIONÁRIO DE 2020]** (RC-200 [1989 + o impasse de 2014 + "tem reciclagem"] / RC-072 [A RECUSA NO TABOR] / RC-001 [JAVÉ FOI JULGADO — biodemo e humano] / RC-002 [LEMION="El Set An"=SATÃ — o núcleo narrativo] / RC-565 [O VERBO=HOCHMAH; "Sofia tá aqui" fenomênico] / RC-021 [os dois mundos de ANTARES] / RC-611 [as flechas via Edimburgo] / RC-145 [Zeus nato em Creta; os titãs]) + **10 vínculos P2020-09-19** + 2 blocos no pacote (RC-540/RC-190) + notas BIBLIO **B011 (citada ao vivo + O LIVRO LIQUIDADO EM 2011 como obra fantasma) + B087-B089 (a gênese 2002/2003 + as 26 trilogias)** + apostila (11 PARTES) + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/` (57). **A CORRENTE DE 2020 EM CINCO VAGÕES: 18/04 → 09/05 → 04/07 → 08/08 → 19/09.** A próxima no plano do cluster: 2021 (Ragnarok e Convenções Mentais).
 
 ## 1. Identificação
 
