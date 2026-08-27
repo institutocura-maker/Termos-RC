@@ -35,6 +35,12 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - **[B089 p. 97 · o rei manipulado]** "**Ela [Témis] faz isso o tempo todo, até mesmo com o próprio Zeus e ele nem se dá conta que, muitas vezes, as ordens que dá, na verdade, foi ela que as inseriu na sua mente!**" — o "Rei do Olimpo" como o manipulado (Témis = **nó satélite estrutural** desta ficha, sem código — Devolutiva O-3).
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2020-09-19 (Sophia e o Impasse do Juízo Final)
+
+- **[P2020-09-19 · ZEUS NATO EM CRETA + OS TITÃS PRISIONEIROS DA VIA LÁCTEA; ⚠️ O EMBRIONÁRIO DE 2020]** **A ORIGEM TERRESTRE DE ZEUS**: "Aí surge quem? ZEUS. Zeus nasce aonde? NA TERRA, PESSOAL. ZEUS NASCEU DE UM PORTAL ABERTO AQUI NA TERRA, NA ILHA DE CRETA. Então, ZEUS É O ÚNICO DEMO QUE NÃO FOI [engendrado no universo vizinho]... Zeus já é alguém que NASCEU NESSE NOSSO UNIVERSO, ainda que seja demo, E AINDA QUE HOJE MORE NO OLIMPO, QUE É UMA LOCA DO UNIVERSO VIZINHO" [⚠️⚠️ a inversão: o demo nascido AQUI!]; **OS TITÃS**: "a primeira coisa... no sentido de chamar a Terra [ao centro] foi um evento que aconteceu COM A CRIAÇÃO DOS TITÃS. Eu tô usando aqui a mitologia grega... Poderia usar a mitologia hindu, chamando isso de ASURAS — é a mesma coisa. OS TITÃS, quando eles, numa primeira confusão que eles criaram, FORAM ALOJADOS COMO PRISIONEIROS, COMO CASTIGO, NA NOSSA GALÁXIA VIA LÁCTEA... houve uma época aí para trás em que A GERAÇÃO DE URANOS E A GERAÇÃO DE CRONOS FORAM PRO CACETE... e os titãs foram castigados a viver aprisionados em torno da galáxia... eles ficaram LIGADOS À NOSSA GALÁXIA"; "COM OS TITÃS HOUVE O DESDOBRAMENTO DE UMA LINHAGEM QUE SURGIU A PARTIR DO PROJETO TALM... AS GUERRAS QUE FORAM ESTABELECIDAS COM OS TITÃS E OUTRAS FIGURAS FORAM EM TORNO DESSA GALÁXIA"; "a Terra foi se transformando NUM PONTO DE CONFUSÃO DOS TITÃS... espiritualmente A LATA DE LIXO DE TUDO"; o Q&A de Pandora: "mesmo com a DESOBEDIÊNCIA DE PANDORA EM RELAÇÃO AOS CRITÉRIOS DE ZEUS, o tipo de ser humano que dali surgiu produzia coisas que ninguém em nenhum desses dois universos..." [⚠️ "os critérios de Zeus" — o eco de P2020-08-08: "Pandora, filha de Zeus com Têmis"].
+- 0 códigos novos (O-3). Quarentena: teológica (a mitologia como chave).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
