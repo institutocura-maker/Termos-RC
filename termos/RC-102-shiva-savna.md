@@ -71,6 +71,12 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[P2023-04-15 · OS DRAVIDIANOS]** "isso poderia sair via A HERANÇA DE SHIVA apropriada por Krishna... porque SHIVA INTRODUZIU ISSO HÁ 23.000 ANOS lá na tradição com [Marici? — STT 'Marik Candã' [REVISAR]] NO SUL DA ÍNDIA ATRAVÉS DOS DRAVIDIANOS [STT: 'gravidianos'], QUE SÃO OS HINDUS ATUAIS".
 - 0 códigos novos (O-3). Quarentenas: teológica, científica, cultural.
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · SÁVNA SE ASSOCIA À IDEIA — e o ESPÍRITO MAIS FORTE]** "um outro ser chamado **SÁVNA** se associou também [à ideia de Para Brajna, ANTES da criação]... **ESSE AQUI, O DE SÁVNA, SÓ FEZ TENTAR AJUDAR**"; **O VEREDICTO DO Q&A**: "o espírito que anima a figura de Shiva, que ainda está negociando com vários dos seus [adhyágenas], avatares que ele criou, **AINDA TEM UM POUCO DE REVERSIBILIDADE GENÉTICA, porque Shiva, pelo fato de não ter essas pendências que o outro espírito tem, É MUITO MAIS FORTE. SHIVA, QUEM DE FATO PRESIDE TUDO ISSO AQUI, É O ESPÍRITO MAIS FORTE QUE TEM**"; "Chiva terminou adquirindo os probleminhas cármicos... algumas das suas expressões é que estão resolvendo: **SAI BABA TROUXE UM POUCO DISSO PARA MORRER DO MODO QUE MORREU, NUM TEMPO EM QUE NÃO ERA PREVISTO... PARA EXATAMENTE COMEÇAR A PURGAR [O KARMA] DE SHIVA FRENTE ÀS EXIGÊNCIAS DE BRAHMA**"; + o anúncio: "Krishna, quando surgiu como avatar keśava... **FEZ UMA OPÇÃO PELO ESPÍRITO DE SHIVA, porque ele percebeu que ele ia ter que destruir, que reciclar muita coisa. E SHIVA É O RECICLADOR. VISHNU É MAIS O MANTENEDOR**" [a ponte com a P2023-04-30].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

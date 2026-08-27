@@ -47,6 +47,12 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[P2023-04-01 · O ESTRESSE EXTREMO COMO MARCA DA FALÊNCIA]** "Em 2007, quando as primeiras colmeias começaram simplesmente a colapsar... passaram 5 anos estudando... 'não é uma causa só, são diversas causas'... O NOME MAIS BONITO QUE PUDERAM: ESTRESSE EXTREMO... até hoje, ano 2023, as colmeias mais selvagens... a natureza mais intrínseza por trás desse tipo de inseto COLAPOU NA SUA GÊNESE ORGANIZATIVA, OU SEJA, NO MUNDO QUÂNTICO"; "OUTRAS FORMAS DE VIDA SOCIAL, BIOLÓGICA, VÃO COLAPSANDO AOS POUCOS. E VOCÊ SÓ NÃO NOTA QUANDO ISSO ACONTECE COM A ESPÉCIE HUMANA"; **"O ESTRESSE EXTREMO DOS SISTEMAS BIOLÓGICOS E ESPIRITUAIS É A MARCA MAIS EMBLEMÁTICA DA FALÊNCIA DE TUDO QUE FOI FEITO ATÉ HOJE POR ESSES SERES"**; "TODAS AS UTOPIAS QUE NÓS SONHAMOS... DEU TUDO ERRADO... o nome disso é COLAPSO, pessoal. É DISTOPIA."
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · OS NÍVEIS ESPIRITUAIS COLAPSANDO COMO COLMEIAS]** as colmeias de 2007 ("o sistema mais bem organizado da natureza em termos de ser alfa, abelha rainha e abelhas operárias... E DE REPENTE EM 2007 COLAPSOU PORQUE NÃO DEU NEM AVISO... o nome: ESTRESSE EXTREMO... até hoje, ano 2023, as colmeias mais selvagens... o processo continua"); **O COLAPSO ESPIRITUAL**: "PARA MINHA TRISTEZA, EU SEI PORQUE FUI OBRIGADO A SABER QUE, OBVIAMENTE, NA ESPIRITUALIDADE ERRÁTICA... AS COISAS LÁ TAMBÉM ESTÃO COLAPSANDO. **NÍVEIS ESPIRITUAIS, [TIPO] COLMEIAS, SEM AVISAR, COM ESPÍRITO DENTRO. Ah, mas por que isso não aparece nas reuniões espíritas? Aí não me cabe explicar**"; "nesse universo vizinho, as coisas estão colapsando também... ALGUMAS LOCAS JÁ COMEÇARAM"; **A DESCONSTITUIÇÃO GENÉTICA**: "DAQUI A 400 ANOS TODOS OS SERES HUMANOS PODEM CHEGAR A UM ESTÁGIO DE RETARDAMENTO MENTAL... muitas coisas que nos fizeram humanos até hoje ESTÃO SENDE DESCONSTITUÍDAS NA SUA BASE GENÉTICA... pessoas que vão deixar de ser humanos, ainda que aparentemente vão estar num corpo humano. NA VERDADE, ISSO JÁ ESTÁ ACONTECENDO"; o livro: "isso eu escrevi no livro INQUISIÇÃO TRIMURTIANA quando eu lancei **LÁ EM 2016**" [B022 — a data!].
+- 0 códigos novos (O-3). Quarentena: científica/clínica (rotuladas).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

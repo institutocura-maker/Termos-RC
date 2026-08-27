@@ -55,6 +55,12 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **[P2023-04-15 · ORLOG E AS NORNES]** "na mitologia nórdica Moros é A FIGURA MAIS IMPORTANTE, é chamado de ORLOG... junto com as NORNES, que seriam o nome que as Moiras da mitologia grega foram assim tratadas na mitologia nórdica"; + "conforme previu Moros... OS FILHOS DESSE PROCESSO DE FATIAMENTO ÚNICO FORAM OS PRIMEIROS A SURGIR, MAS SERIAM OS ÚLTIMOS A CONSEGUIR EVOLUIR, caso o fizessem. LEMBREM-SE BEM DISSO" (a profecia registrada).
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · A LEI DO RETORNO ASSIMÉTRICA — a teia de Wyrd/Orlog]** "aquele discurso bonito da SEMEADURA LIVRE, MAS A COLHEITA É OBRIGATÓRIA, **SÓ FUNCIONA PRO LADO NEGATIVO da teia de [WYRD — STT: 'word'] QUE ORLOG CRIOU LÁ ATRÁS. Quem faz m***, essa m*** um dia volta para ele. MAS QUEM FAZ BEM — ISSO NÃO QUER DIZER QUE O BEM VOLTE, PORQUE O MEIO NÃO DEIXA, NÃO DEIXAVA ATÉ AGORA — MAS EM ALGUM MOMENTO VAI TER QUE DEIXAR, SENÃO NÃO TEM SALVAÇÃO**"; "O BEM NINGUÉM O PROTEGE. O bem não confronta o mal. O bem não se enfeia... **A TURMA TENDENTE AO BEM TEM QUE PRODUZIR DURANTE ALGUNS BILHÕES DE ANOS SEM QUE O MAL ATRAPALHE**, sob pena de nunca existir o bem institucionalizado"; **"O BEM CRIADO POR UM PURO NÃO RESISTE porque não tem malícia... TEM QUE SER UM BEM CRIADO POR UM FILHO DO CAOS, que estrutura melhor o bem e o preserva da morte fácil, do aniquilamento fácil"**; "não tem bem nessa história, É SÓ MAL CONTRA MAL".
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

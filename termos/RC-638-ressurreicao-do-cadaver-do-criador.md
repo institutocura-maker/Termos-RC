@@ -33,6 +33,12 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 - **[P2023-04-01 · A ABELHA RAINHA = JAVÉ]** "Quando a gente olha para uma abelha rainha e as abelhas operárias, A ABELHA RAINHA É A ÚNICA QUE IMPORTA. As abelhas operárias NEM SENSO DE INDIVIDUALIDADE TÊM, porque o genoma delas é SÓ PARA SERVIR A ABELHA RAINHA. **ASSIM É JAVÉ E TODAS AS CRIATURAS-FERRAMENTAS, INCLUSIVE NÓS, OS HUMANOS**, que somos só a última geração a surgir nessa história" (a convergência com a P2023-06-17 — a 3ª fonte).
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · O EU COLMÉICO — a expansão máxima]** "TODOS OS CLONES CRIADOS POR JAVÉ SE RELACIONAM COM JAVÉ SENDO JAVÉ A ABELHA RAINHA E O RESTO ABELHA OPERÁRIA — ENTÃO SÃO EUS COLMÉICOS... **ESSES ANJOS FORAM DESPERTANDO UM OU OUTRO, MAS CONTINUA A SER UM EU COLMÉICO PORQUE ELES NÃO SABEM VIVER SEM ESTAR SE SENTINDO SERVINDO A JAVÉ. É UMA DOENÇA NELES. Se Javé um dia morrer efetivamente, se não tiver mais nem uma casca de unha de Javé para eles venerarem, ESSES SERES MEIO QUE IMPLODEM porque não tem mais sentido de existência**"; "ESSE EU COLMÉICO FOI O PRIMEIRO TIPO DE EU TRANSFERIDO PARA O MUNDO BIOLÓGICO. Na hora em que nós vemos cupins que tem um C alfa e os cupins obedecem, formiga... abelha... **AS PRIMEIRAS CIVILIZAÇÕES DO NOSSO UNIVERSO FÍSICO SÃO EDIFICADAS A PARTIR DE SERES INSETOIDES**... essas civilizações... TÊM 500 MUNDOS... são as que têm construções mais fantásticas... **SÃO ESCRAVOS INCONSCIENTES**"; "nesse universo, SÓ A CONDIÇÃO HUMANA É TOTALMENTE LIVRE do eu colméico — [falando] desse universo e do universo vizinho"; os anunnakis "são mais ou menos livres"; a China como "um partido [col]méico, 15 pessoas decidem" ⚠️ política; **A DEMÊNCIA DOS DEMOS**: "o demo sem dente ai ai ai... ELES NÃO JUNTAM UMA SEGUNDA-FEIRA COM A TERÇA-FEIRA. Uma causa com efeito. A demência deles não permite... **TÊMIS, UMA TITÃ... FOI A PRIMEIRA QUE COMEÇOU A JUNTAR** [causa e efeito] e a dizer: 'ei, pessoal, ó, ELES ESTÃO EVOLUINDO NESSE MISTÉRIO agora'".
+- 0 códigos novos (O-3). Quarentenas: teológica, política.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

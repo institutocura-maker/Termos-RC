@@ -22,6 +22,12 @@ Cidade espiritual situada acima da região montanhosa do norte da Espanha, em di
 
 - **[P2021-12-04 — FONTE ORIGINAL] O Roseral do Alto (U0660–U0673):** "essa Inquisição Espiritual, em que eu descrevo uma certa região espiritual chamada Roseral do Alto: é um tipo de cidade espiritual misteriosa que existe em cima, ali do norte da Espanha... os Pirineus dividindo França e Espanha; para cá tem o País Basco, São Sebastião, Bilbao, depois chega as Astúrias, que tem uma região de montanhas; em cima dessas montanhas, mais voltada pro lado da Irlanda, tem uma cidade espiritual" (U0660–U0664); "foi construída muito tempo atrás por algumas poucas figuras quando estavam no Tibete, mas que nunca foi habitada; tem quatro ou cinco figuras por lá, porque essa cidade espiritual foi construída já antevendo um possível impasse que a gente tá hoje vivendo" (U0665–U0671); "é um canto muito bonito; chama, a gente chama Roseral do Alto" (U0672).
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · A PONTE DO PARAÍSO B — a citação mais direta do corpus]** "É NECESSÁRIA A CRIAÇÃO DE UMA PONTE, porque nós estamos infectados por essa sujeira, mas mesmo infectados NÓS CONSEGUIMOS CRIAR PROTOCOLOS FORMIDÁVEIS... **A PONTE, EU IMAGINO QUE EU ENTENDA O QUE É, E EU TENHO CHAMADO ISSO JUNTO COM OS AMIGOS ESPIRITUAIS DE UMA CIDADE — TEM UMA PONTE CHAMADA ROSERAL DO ALTO. TÁ LÁ EM CIMA DAS ASTÚRIAS, NOS CÉUS DA ESPANHA, MAS LÁ PRO NORTE. DEVE EXISTIR OUTRAS QUE EU NÃO CONHEÇA, MAS ESSA DAÍ EU CONHEÇO, QUE É UMA CIDADE ESPIRITUAL DIFERENTE DE TUDO QUE EXISTE, PORQUE LÁ PODE ENTRAR AS FIGURAS MALUCAS, QUE EM TESE SÃO OS ESPÍRITOS DA GENTE, QUE JÁ NÃO SE ENQUADRA EM COISA ALGUM DO QUE TÁ AÍ — NEM NO PARAÍSO, NEM NO INFERNO, NEM NO PURGATÓRIO. NÓS FICAMOS DESLOCADOS**" + OS DOIS METAVERSOS: "rapaz, vamos criar o metaverso e deixar registrado nesse metaverso UM PADRÃO DE DNA QUE MOSTRE TODA A PODRIDÃO acumulada... se der tudo errado aqui, esse metaverso REINICIA uma faixa de realidade... **E O METaversO [B]: retirar O DNA MAIS BELO QUE EXISTE NA HUMANIDADE e criar um metaverso específico... junta depois METaverso CHEIO DE M*** COM METaverso CHEIO DE BELEZA E TENTA**" [a convergência com a P2023-04-15 — a opção metaverso de Shiva].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

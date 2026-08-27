@@ -69,6 +69,12 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[P2023-04-15 · OS CLONES/ANJOS ROBÔS]** "esses clones FORAM CHAMADOS DE ANJOS, porque foram figuras criadas pelo Deus criador caído para servi-lo. ESSES CLONES ERAM ROBÔS... ESSE SER CAÍDO, ELE É DESALMADO E É ATÉ HOJE"; "os AD foram os primeiros a mergulhar, mas SERÃO OS ÚLTIMOS A CONSEGUIR EVOLUIR devido ao problema de apodrecimento que Brama, Vishnu e Shiva, ao se reconstruírem aqui dentro — um caído e dois mergulhados —, TIVERAM QUE USAR MATÉRIA PODRE para reconstruir os seus próprios corpos, as suas condições adidaiva" (a profecia de Moros).
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · A IDEIA QUE ESCAPOU E A PODRIDÃO GENIALMENTE ORGANIZADA]** "PARA BRAJNA É UM SER MARAVILHOSO, É UMA FIGURA FORMIDÁVEL, PURA... **E UM INSTANTEZINHO, MAS É UM INSTANTEZINHO MESMO**. E é nesse ponto em que as coisas se tornam drásticas... quando você assiste isso aí num filme, você diz: 'Por que é que Deus não atuou nessa hora?'... **SE PARA BRAJNA TIVESSE SOLTO A SUA IDEIA [de volta], MAHAVATMA TERIA RECEBIDO, CORRIGIDO — MAS NÃO DEU**"; "quando ele caiu aqui, ELE SE FERROU"; o corpo: "esse corpinho aqui espiritual tombado aqui. **TÁ ATÉ HOJE**"; **O VEREDICTO**: "Brahma, Vishnu e Shiva... **SÃO OS SERES MAIS APODRECIDOS QUE EXISTEM... PARADOXALMENTE SÃO OS TRÊS PAIS DE TUDO ISSO AÍ, com méritos e deméritos, que se reconstruíram a partir da podridão de Javé, das partes podres que sobraram da queda dele. NÓS SOMOS A PODRIDÃO ORGANIZADA SOB A FORMA HUMANA. ABRE ESSE CORPO, VOCÊ SÓ VAI VER PODRIDÃO AQUI DENTRO. SÓ QUE A PODRIDÃO TODA ORGANIZADA SOB A FORMA DE ÓRGÃOS E GENIALMENTE ORGANIZADA. OS CARAS SÃO GENIAIS, MAS NÃO COMPREENDEM PORCARIA NENHUMA DO QUE FAZEM**"; "Para Brajna... existe lá de alguma forma, MAS NÃO É A PERSONALIDADE DELE RODANDO MAIS" [a convergência com a P2023-04-15].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

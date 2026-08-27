@@ -194,6 +194,12 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2023-04-15 · O SER ALFA]** "Sofia, o ser criado nesse universo para ser o SUZERANO desse universo, herdeiro e representante da aristocracia trimurtiana do universo vizinho... SER ALFA de todas as espécies desse universo, INCLUSIVE E PRINCIPALMENTE DAS FAMÍLIAS BIODÉMO" (a cabala: "os três seres da Cabala que compõem a chamada trimurti: respectivamente KETER, CHOKMAH e BINAH" — ver RC-682); "os anjos de Brahma... foram engendrados nesse universo para ficar AO LADO de Sofia. Porque se Sofia fizesse qualquer besteira, os anjos o destruiriam. É amor sobrando."
 - 0 códigos novos (O-3). Quarentenas: teológica (a hierarquia como ontologia), biomediúnica (a agressão de 2020; as duas tentativas).
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · O RADIATA SEM MOTOR E A COROAÇÃO DO REI CHARLES]** "SOFIA É UM SER ALFA BIOLOGICAMENTE RADIATA E DEMONOLOGICAMENTE ALGO RETARDADO, **QUE NÃO TEM MOTOR OU PENDOR EVOLUTIVO NENHUM. VIVE EM PERMANENTE ESTADO DE CRISE** e cumpre as obrigações do seu ser... RECEBE O CONFRONTO DE TODAS AS DEMAIS FORÇAS TRIMURTIANAS. PORQUE NINGUÉM ACEITA QUE ELE SEJA O SOBERANO HERDEIRO... **E NÃO SABE MUITO BEM O QUE FAZER**"; "há quase 20 anos que eu acompanho isso. RECEBO BILHETINHOS... 'isso é uma forma de você me demonstrar a sua demência... OU VOCÊ TÁ FINGINDO SER SOFIA?'" ⚠️ quarentena biomediúnica; "se você vir Sofia assim, você se sente atraído porque ele é do bem, bonito para cacete... mas quando você chega perto — **AQUELE EFEITO QUE CAETANO VELOSO DIZ: DE PERTO NINGUÉM É NORMAL**"; **A COROAÇÃO**: "vai ser IGUAL À COROAÇÃO DO REI CHARLES aí na Inglaterra. Senta o rapaz no trono, bota a coroa, bota a capa... 'Levante e age' — **NÃO SABE O QUE FAZER**... tira uma foto, tem um rei. Ah, o rei resolverá nossos problemas. NÃO RESOLVE... essa pirotecnia, essa coreografia... VAI ACONTECER NA HORA EM QUE SOFIA SE APRESENTAR AOS HUMANOS, PORQUE ISSO SIGNIFICA ACEITAÇÃO TOTAL. E POR QUE PRÓS HUMANOS? PORQUE NÓS TEMOS A LÓGICA PARA PODER COMPOR UMA HISTÓRIA QUE TODOS ENTENDAM"; as hostes: "SOFIA E SUAS HOSTES HÍBRIDAS que correspondem a certas civilizações biológicas confederadas em torno de Sofia... a Federação Galáctica existe sim... apenas NENHUM DELES TEM A RACIONALIDADE QUE A GENTE TEM" ⚠️ ufológica.
+- 0 códigos novos (O-3). Quarentenas: biomediúnica, ufológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

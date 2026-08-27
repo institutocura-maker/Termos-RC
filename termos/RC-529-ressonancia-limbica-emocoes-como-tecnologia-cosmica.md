@@ -43,6 +43,12 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **[P2023-04-01 · A RESSONÂNCIA LÍMBICA, O FOXP2 E O ALTRUÍSMO — o Q&A]** "Desde que os mamíferos surgiram na evolução biológica, surgiu algo chamado RESSONÂNCIA LÍMBICA, que faz com que os cientistas hoje digam: 'um mamífero consegue SENTIR O QUE O OUTRO ESTÁ SENTINDO'... o cérebro límbico com o tálamo, hipotálamo, amígdala cerebral e o hipocampo permite que o mamífero crie memórias a ela associados certos padrões de emoção... o mamífero, que não é racional, AGE NO SENTIDO DE SER ÚTIL, OU DE AJUDAR, OU DE ZELAR, OU CUIDAR DOS SEUS SEMELHANTES"; **O FOXP2** [STT: 'Genifox P2/FOP P2']: "no neocórtex, o FOXP2 permite que a gente, diferente dos mamíferos, seja mamíferos que usam da racionalidade... USO DE SÍMBOLOS, DE CONTEÚDOS MENTAIS"; **O ALTRUÍSMO**: "nós damos a vida uns pelos outros, por alguém que a gente ama ou por uma tese que eu defendo. **NÓS HUMANOS CRIAMOS O ALTRUÍSMO, QUE É DAR SEM RECEBER. NÓS SOMOS HORRÍVEIS, MAS SOMOS MARAVILHOSOS TAMBÉM.**"
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · A EMOÇÃO COMO ANTÍDOTO E O FOXP2 — os 177 bilhões]** "PARA ELES [do universo vizinho] É MAIS FÁCIL CONTROLAR [os aparelhos] DO QUE ALGUÉM QUE TEM EMOÇÕES... **O QUE TIRA A GENTE DO CONTROLE DELES É A EMOÇÃO**" [ver RC-644]; "CADA NEURÔNIO É UM SER VIVO... ISSO AQUI É A MEMBRANA, QUE É A PARTE MAIS INTELIGENTE DELE... CADA NEURÔNIO TEM MILHARES DE DENDRITAS E UM AXÔNIO. POR QUE É QUE CADA NEURÔNIO TEM MILHARES DE DENDRITAS E SÓ UM AXÔNIO? **PORQUE QUEM CRIOU ESSA COISA CRIOU DESSE JEITO**"; "desde que o GEN FOXP2 começou a funcionar... O CÓDIGO DE JAVÉ JÁ RODOU CERCA DE **177 BILHÕES DE VEZES**" [ver RC-727]; "o espírito de Jesus, inclusive... é uma pureza, um excesso de pureza — **A GENTE CHAMA TRANSTORNO DE ESPECTRO AUTISTA AQUI, NÉ?**" ⚠️ quarentena clínica CRÍTICA (a metáfora/rótulo comportamental exclusivamente — jamais diagnóstico).
+- 0 códigos novos (O-3). Quarentenas: científica, clínica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

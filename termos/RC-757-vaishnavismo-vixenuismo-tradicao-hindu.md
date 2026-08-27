@@ -18,6 +18,12 @@ O **vaishnavismo** (ou vixenuísmo) é uma das principais tradições do hinduí
 - o autor usa o termo para explicar a disputa entre os seguidores de Vishnu, Brama e Shiva na formação dos puranas;
 - relaciona-se à dinâmica da Trimurti (RC-104) e ao fatiamento de consciência (RC-604).
 
+
+## Ampliação — P2023-04-29 (Jesus, Sophia e Javé: as Responsabilidades de um mesmo Ser)
+
+- **[P2023-04-29 · A DISPUTA DOS EU EXPANDIDOS E O ANÚNCIO DE AMANHÃ]** "os seguidores de Vishnu, que são vaishnavas... os seguidores de Chiva, que são chivaístas, **DISPUTAM ATÉ HOJE FERRENHAMENTE OS EUS EXPANDIDOS DE [RAMA — STT 'Hamana'] E DE KRISHNA. Os seguidores de Vishnu dizendo que essas duas são duas encarnações avatáricas de Vishnu; os seguidores de Chiva dizem: 'não, é de Chiva'**... os hindus nunca compreenderam isso... os hindus, muito pior do que nós ocidentais, RETALHARAM A CRENÇA HINDUÍSTA EM TANTOS MILHÕES DE DEUSES"; **O ANÚNCIO**: "MAS QUAL FOI O DRAMA QUE A GENTE VAI VER AMANHÃ — **A PALESTRA DE AMANHÃ É 'O SENHOR KRISHNA E AS EXPRESSÕES DO SER'. KRISHNA, QUANDO SURGIU COMO AVATAR KEŚAVA de Vishnu, Chiva e Brama, mais vinculado aos dois espíritos, FEZ UMA OPÇÃO PELO ESPÍRITO DE SHIVA... e quando esse rapaz se definiu, ELE COMEÇOU A CRIAR AVATARES A PARTIR DELE MESMO, coisa que nunca tinha acontecido**" [A PROVA DIRETA DA COSTURA com a P2023-04-30]; "alguns desses avatares, durante o tempo em que o eu de Krishna era dividido entre os espíritos, estão ligados também a esse espírito de Mahavatma... É UMA ESCOLHAMBAÇÃO O NEGÓCIO E NÃO HÁ MAIS FINALIZAÇÃO POSSÍVEL"; "É VYASA 2" [a referência: "É o que VYASA fez no tempo do Mahabharata, quando contou uma mesma guerra de Kurukshetra em diversos estilos para que diversos tipos de mentalidade... pudessem entender a história"].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
