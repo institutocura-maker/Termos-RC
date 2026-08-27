@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2021-07-24 — Sophia, Ananque e as Necessidades Cósmicas
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 46/46 linhas + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Ciclo completo: piloto (`7c6b9c0`) → Devolutiva (100% aprovada — a grafia ANANQUE consagrada + as duas novas obras; registrada VERBATIM em `analise/DECISAO-DO-CURADOR.md`) → parte 1/2 (`325ee96`: **7 fichas ampliadas com a tag [A FUNDAÇÃO DE 2021] + 7 vínculos + A RC-777 RENOMEADA (Anã → ANANQUE) + BIBLIO 98→100 (B095 Guardião do Éden + B096 Shiva e a Origem Esquecida do Yoga)**) → parte 2/2 (apostila 12 PARTES + Q&A isolado + DOCX + RELATORIO) → engavetamento em `apostilas/CONCLUIDAS/` + push. **0 códigos consumidos — 777/1.856 intactos. O RADAR EXPLODIU (a O-1): as palestras de 25/07/2021 + dezembro/Rezende + "As últimas 5 horas de Jesus na cruz" na lista de buscas prioritárias.**
 
 ## 1. Identificação
 
