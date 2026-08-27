@@ -84,11 +84,11 @@ TERMOS = [
     ("RC-002", "Rebelião de Lúcifer", EVE_GUE[0], EVE_GUE[1], P, ["B031", "B003", "B026", "B057", "B058", 'B017', 'P2024-03-03', 'P2024-04-13', 'P2023-04-01'], "RC-001; RC-003; RC-070; RC-078; RC-142", True),
     ("RC-003", "Reintegração Cósmica", COS_PRO[0], COS_PRO[1], P, ['B031', 'B003', 'B025', 'B026', 'B005', 'B027', 'B042', 'B037', 'B009', 'B017', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-07-13', 'P2024-03-02'], 'RC-005; RC-007; RC-009; RC-070; RC-094; RC-571; RC-612; RC-615; RC-694; RC-106; RC-258; RC-342; RC-690; RC-702; RC-344', True),
     ("RC-004", "Elohim", SER_COL[0], SER_COL[1], C, ["B061", 'P2024-09-28'], "RC-001; RC-474", False),
-    ("RC-005", "Segundo Advento do Cristo (Volta de Jesus)", EVE_PRO[0], EVE_PRO[1], P, ["B001", "B002", "B016", "B014", "B003", "B025", "B005", "B011", "B042", "B009", 'B033', 'P2026-08-04', 'P2024-03-02; RC-674; RC-565', 'P2023-06-03', 'P2023-05-20', 'P2023-04-15', 'P2023-04-01'], "RC-003; RC-009; RC-070; RC-072; RC-212", True),
+    ("RC-005", "Segundo Advento do Cristo (Volta de Jesus)", EVE_PRO[0], EVE_PRO[1], P, ["B001", "B002", "B016", "B014", "B003", "B025", "B005", "B011", "B042", "B009", 'B033', 'P2026-08-04', 'P2024-03-02; RC-674; RC-565', 'P2023-06-03', 'P2023-05-20', 'P2023-04-15', 'P2023-04-01', 'P2020-04-18'], "RC-003; RC-009; RC-070; RC-072; RC-212", True),
     ("RC-006", "Guerra do Éden", EVE_GUE[0], EVE_GUE[1], P, ["B015"], "RC-001; RC-004; RC-147; RC-242", False),
     ("RC-007", "Exilados de Capela", SER_DEC[0], SER_DEC[1], P, ["B031", "B003", "B025", "B026", "B057", 'P2023-04-01'], "RC-002; RC-003; RC-020; RC-070; RC-078; RC-105", True),
     ("RC-008", "Tzimtzum", TER_HEB[0], TER_HEB[1], P, ["B013"], "RC-261; RC-267; RC-272; RC-265", True),
-    ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B013', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2023-11-19', 'P2023-04-30', 'P2023-04-15', 'P2023-04-29'], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
+    ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B013', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2023-11-19', 'P2023-04-30', 'P2023-04-15', 'P2023-04-29', 'P2020-04-18'], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
     ("RC-010", "Atlântida / Terra Atlantis", LOK_TER[0], LOK_TER[1], C, ['P2025-02-16'], 'RC-030; RC-088; RC-023; RC-029', False),
 
     # ---- Glossário B031 (ordem alfabética)
@@ -128,7 +128,7 @@ TERMOS = [
     ("RC-044", "Cultura Demo", COS_LEI[0], COS_LEI[1], P, ["B031", "B044"], "RC-049; RC-077; RC-064; RC-065", False),
     ("RC-045", "Daemon", TER_GRE[0], TER_GRE[1], P, ["B031"], "RC-049; RC-050; RC-053", False),
     ("RC-046", "Dan", LOK_PLA[0], LOK_PLA[1], P, ["B031", "B057", "B058"], "RC-136; RC-039; RC-079", True),
-    ("RC-047", "Deidade (Pai-Mãe Amantíssimo / Brahman)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B024', 'B001', 'B002', 'B048', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-28', 'P2023-06-17', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29'], 'RC-052; RC-054; RC-041', True),
+    ("RC-047", "Deidade (Pai-Mãe Amantíssimo / Brahman)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B024', 'B001', 'B002', 'B048', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-28', 'P2023-06-17', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2020-04-18'], 'RC-052; RC-054; RC-041', True),
     ("RC-048", "Demiurgo", TER_GRE[0], TER_GRE[1], P, ["B031"], "RC-041; RC-087; RC-061; RC-063", False),
     ("RC-049", "Demos", SER_DEC[0], SER_DEC[1], P, ['B031', 'B044', 'B035', 'B021', 'B022', 'B023', 'B050', 'B052', 'B060', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-09-29', 'P2024-03-03', 'P2024-04-13'], 'RC-022; RC-050; RC-045; RC-053; RC-038; RC-097; RC-630', True),
     ("RC-050", "Demônios", SER_DEC[0], SER_DEC[1], P, ['B031', 'P2025-06-26'], "RC-049; RC-045; RC-078", False),
@@ -173,7 +173,7 @@ TERMOS = [
     ("RC-089", "Processador Val", TEC_NAV[0], TEC_NAV[1], P, ['B031', 'B017', 'B018', 'B039', 'P2026-04-02'], "RC-109; RC-018; RC-080; RC-141", False),
     ("RC-090", "Projeto Planeta Azul", EVE_MIS[0], EVE_MIS[1], P, ["B031", "B003", "B026"], "RC-107; RC-106; RC-094", False),
     ("RC-091", "Projeto Talm", EVE_MIS[0], EVE_MIS[1], P, ['B031', 'B024', 'B044', 'B001', 'P2021-12-04', 'P2025-03-15', 'P2024-11-02', 'P2024-08-03', 'P2023-11-19', 'P2023-04-15', 'P2023-04-01'], 'RC-080; RC-104; RC-037; RC-102; RC-135; RC-081; RC-040; RC-154; RC-282', True),
-    ("RC-092", "Quarto Logos (Olm / Codificador de Zian)", SER_LOG[0], SER_LOG[1], P, ['B031', 'B016', 'B014', 'B057', 'B060', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-10-25', 'P2025-02-16', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2024-08-03', 'P2023-11-19', 'P2023-04-30'], 'RC-076; RC-087; RC-085; RC-025; RC-072; RC-456; RC-472; RC-604; RC-607; RC-609; RC-611; RC-612; RC-615; RC-608; RC-167; RC-649; RC-697', True),
+    ("RC-092", "Quarto Logos (Olm / Codificador de Zian)", SER_LOG[0], SER_LOG[1], P, ['B031', 'B016', 'B014', 'B057', 'B060', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-10-25', 'P2025-02-16', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2024-08-03', 'P2023-11-19', 'P2023-04-30', 'P2020-04-18'], 'RC-076; RC-087; RC-085; RC-025; RC-072; RC-456; RC-472; RC-604; RC-607; RC-609; RC-611; RC-612; RC-615; RC-608; RC-167; RC-649; RC-697', True),
     ("RC-093", "Radiatas", SER_HIB[0], SER_HIB[1], P, ['B031', 'P2024-05-04', 'P2025-02-16', 'P2024-04-13'], 'RC-035; RC-109; RC-136; RC-009; RC-631', False),
     ("RC-094", "Revelação Cósmica (conceito)", COS_COG[0], COS_COG[1], P, ['B031', 'B044', 'B035', 'B013', 'B014', 'B022', 'B023', 'B048', 'B003', 'B005', 'B011', 'B049', 'B043', 'B041', 'B006', 'B050', 'B027', 'B051', 'B034', 'B036', 'B040', 'B052', 'B042', 'B009', 'P2021-12-04', 'P2025-10-25', 'P2025-06-26', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2023-12-02', 'P2021-03-27'], 'RC-071; RC-106; RC-107; RC-003; RC-090; RC-611; RC-656; RC-718', True),
     ("RC-095", "Rogério de Almeida Freitas", SER_HUM[0], SER_HUM[1], P, ["B031"], "RC-071; RC-094", False),
@@ -604,7 +604,7 @@ TERMOS = [
     ("RC-464", "Inanna (= Danu; Anunnaki)", SER_EXT[0], SER_EXT[1], P, ["B060"], "RC-024; RC-398", False),
     ("RC-465", "Asuras (= Titãs)", SER_DEC[0], SER_DEC[1], P, ['B060', 'B061', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-09-29', 'P2024-04-13', 'B087', 'B088'], 'RC-301; RC-302; RC-145; RC-696; RC-700; RC-701; RC-734', True),
     ("RC-466", "Bebida dos Deuses (Ambrosia/Amrita/Soma)", TER_OUT[0], TER_OUT[1], P, ['B060', 'P2025-02-16', 'P2024-08-03'], 'RC-049; RC-145', False),
-    ("RC-467", "Moiras / Nornes / Parcas (destino)", COS_PRO[0], COS_PRO[1], P, ['B060', 'P2025-06-26', 'P2025-02-16', 'P2024-11-30', 'P2023-05-21', 'P2023-04-15', 'P2023-04-29'], 'RC-145; RC-300; RC-658; RC-454; RC-714; RC-716', True),
+    ("RC-467", "Moiras / Nornes / Parcas (destino)", COS_PRO[0], COS_PRO[1], P, ['B060', 'P2025-06-26', 'P2025-02-16', 'P2024-11-30', 'P2023-05-21', 'P2023-04-15', 'P2023-04-29', 'P2020-04-18'], 'RC-145; RC-300; RC-658; RC-454; RC-714; RC-716', True),
     ("RC-468", "Ein Sof (Prabrajna na Cabala)", TER_HEB[0], TER_HEB[1], P, ["B060"], "RC-152; RC-261; RC-264", False),
     ("RC-469", "Khorsis (Mundo dos Tronos)", LOK_MUN[0], LOK_MUN[1], P, ["B060"], "RC-061; RC-264", False),
     ("RC-470", "Midgard (Marte + Terra)", LOK_PLA[0], LOK_PLA[1], P, ['B060', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03'], 'RC-395; RC-107; RC-358; RC-730; RC-731; RC-471', True),
@@ -702,7 +702,7 @@ TERMOS = [
     ("RC-562", "Baralho genético (metáfora dos 28.869 genes)", PRO_BIO[0], PRO_BIO[1], C, ["P2024-02-25"], "RC-217; RC-559", True),
     ("RC-563", "Travas e lacres (mecanismos de controle do despertar)", COS_ETI[0], COS_ETI[1], C, ['P2024-02-25', 'P2022-12-17', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30'], 'RC-449; RC-099; RC-577; RC-702; RC-189; RC-086; RC-712', True),
     ("RC-564", "Fios soltos (improviso humano × robô)", COS_PRO[0], COS_PRO[1], C, ['P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04; RC-614'], "RC-099; RC-557; RC-619", True),
-    ("RC-565", "Hochmah (2ª Sefirah — Sabedoria; = Sophia)", TER_HEB[0], TER_HEB[1], P, ['B060', 'B013', 'P2024-02-25', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04', 'P2023-06-03', 'P2023-05-20', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29'], 'RC-261; RC-263; RC-135; RC-009; RC-072; RC-682; RC-366', True),
+    ("RC-565", "Hochmah (2ª Sefirah — Sabedoria; = Sophia)", TER_HEB[0], TER_HEB[1], P, ['B060', 'B013', 'P2024-02-25', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04', 'P2023-06-03', 'P2023-05-20', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2020-04-18'], 'RC-261; RC-263; RC-135; RC-009; RC-072; RC-682; RC-366', True),
     # ---- Novos termos da palestra P2022-12-17 — O Incompreendido Ano de 2012
     # Pré-curadoria aprovada pelo curador em 2026-08-14. Status candidato por se tratar de STT sem áudio.
     ("RC-566", "Protocolo da Busca", COS_ESP[0], COS_ESP[1], C, ['P2022-12-17', 'P2025-02-15'], 'RC-253; RC-226; RC-231; RC-278', True),
@@ -895,7 +895,7 @@ TERMOS = [
     ("RC-724", "Formas-Pensamento e Formas-Sentimento", COS_ESP[0], COS_ESP[1], C, ['P2024-11-09', 'P2024-07-13', 'ART-2026-08-18'], 'RC-548; RC-711; RC-381; RC-194; RC-385; RC-188', True),
     ("RC-725", "Ponto de Luz Humano / Ilha de Negentropia", COS_PRO[0], COS_PRO[1], C, ['P2024-11-09', 'P2024-09-29', 'P2024-07-13', 'P2023-06-24', 'P2023-06-17', 'P2023-04-01', 'P2023-04-29'], 'RC-160; RC-508; RC-705; RC-163; RC-690; RC-722; RC-727; RC-720', True),
     ("RC-726", "Faixas Espirituais de Ressonância", COS_DIM[0], COS_DIM[1], C, ['P2024-11-09', 'P2024-07-14'], 'RC-084; RC-513; RC-507; RC-633; RC-704; RC-529; RC-745', True),
-    ("RC-727", "DNA Insubmisso / Linhagem Pandora–Eva–Noreia", GEN_HUM[0], GEN_HUM[1], C, ['P2024-11-09', 'P2024-08-03', 'P2024-07-13', 'B087', 'B088', 'B089', 'P2023-04-30', 'P2023-04-01', 'P2023-04-29'], 'RC-086; RC-189; RC-579; RC-619; RC-283; RC-486; RC-325; RC-725; RC-525', True),
+    ("RC-727", "DNA Insubmisso / Linhagem Pandora–Eva–Noreia", GEN_HUM[0], GEN_HUM[1], C, ['P2024-11-09', 'P2024-08-03', 'P2024-07-13', 'B087', 'B088', 'B089', 'P2023-04-30', 'P2023-04-01', 'P2023-04-29', 'P2020-04-18'], 'RC-086; RC-189; RC-579; RC-619; RC-283; RC-486; RC-325; RC-725; RC-525', True),
 
     # ---- P2024-11-02 — Fantasmas do Passado Mitológico
     ("RC-728", "Fantasmas do Passado Mitológico", COS_PRO[0], COS_PRO[1], C, ["P2024-11-02"], "RC-729; RC-730; RC-731; RC-732; RC-733; RC-734; RC-735; RC-094", True),

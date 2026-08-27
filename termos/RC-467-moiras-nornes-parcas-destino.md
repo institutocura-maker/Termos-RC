@@ -61,6 +61,13 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **[P2023-04-29 · A LEI DO RETORNO ASSIMÉTRICA — a teia de Wyrd/Orlog]** "aquele discurso bonito da SEMEADURA LIVRE, MAS A COLHEITA É OBRIGATÓRIA, **SÓ FUNCIONA PRO LADO NEGATIVO da teia de [WYRD — STT: 'word'] QUE ORLOG CRIOU LÁ ATRÁS. Quem faz m***, essa m*** um dia volta para ele. MAS QUEM FAZ BEM — ISSO NÃO QUER DIZER QUE O BEM VOLTE, PORQUE O MEIO NÃO DEIXA, NÃO DEIXAVA ATÉ AGORA — MAS EM ALGUM MOMENTO VAI TER QUE DEIXAR, SENÃO NÃO TEM SALVAÇÃO**"; "O BEM NINGUÉM O PROTEGE. O bem não confronta o mal. O bem não se enfeia... **A TURMA TENDENTE AO BEM TEM QUE PRODUZIR DURANTE ALGUNS BILHÕES DE ANOS SEM QUE O MAL ATRAPALHE**, sob pena de nunca existir o bem institucionalizado"; **"O BEM CRIADO POR UM PURO NÃO RESISTE porque não tem malícia... TEM QUE SER UM BEM CRIADO POR UM FILHO DO CAOS, que estrutura melhor o bem e o preserva da morte fácil, do aniquilamento fácil"**; "não tem bem nessa história, É SÓ MAL CONTRA MAL".
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2020-04-18 (Terra em Disputa: o Marco Zero de Sophia)
+
+- **[P2020-04-18 · O EMBRIONÁRIO DE 2020 — A PROFECIA DAS TRÊS SETAS DE MOROS]** "A PROFECIA DE MOROS DIZIA EXATAMENTE ISSO: QUE SÓ QUANDO SURGISSE UMA RAÇA ONDE AS TRÊS SETAS QUE ELE JOGOU PUDESSEM SER [cravadas/atendidas]... Então, na lógica deles, o que tá sendo feito é O CUMPRIMENTO DESSA PROFECIA DE MOROS" — **AS TRÊS SETAS** (a imagem inédita do instrumento da profecia: a raça que falta); a perspectiva que sobrou do fim da Trimurti: "QUANDO UMA OUTRA PERSPECTIVA FOI A QUE SOBROU, QUE É A QUESTÃO DE MOROS VINCULADA AO QUARTO LOGOS" [RC-092]; "o grupo do [IEA] conseguiu resgatar algumas notícias... E SOFIA ATENDE COM ISSO".
+- **[P2020-04-18 · O MILKSHAKE NO PURGATÓRIO — o estacionamento espiritual]** "o lá, entre aspas, É UM ESTACIONAMENTO NUM CERTO NÍVEL ESPIRITUAL em que você não tem grandes [problemas], no nível em que os espíritos da gente normalmente se estabelecem entre as vidas. É MUITO MELHOR LÁ, MAS O PROBLEMA É QUE LÁ SEMPRE É MAIS DO MESMO E NÃO RESOLVE OS PROBLEMAS ACUMULADOS do DNA apodrecido do Criador. Então, a gente tem que assumir — FAZ PARTE DO FAVOR DIVINO PARAR DE TOMAR ESSES MILKSHAKES E MERGULHAR DE NOVO"; "esses dois universos precisam terminar. Esse primeiro vai terminar de forma escangalhada. Esse nosso outro, quando chegar o seu momento, TEM QUE SER DE FORMA MINIMAMENTE ORGANIZADA" [os três níveis e o fechamento da obra].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
