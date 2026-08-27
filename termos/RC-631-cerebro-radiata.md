@@ -32,6 +32,13 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
 - **[ART-2025-08-01] Radiata e a banda cerebral (Partes II–III):** "seres 'radiata' (com uma única banda cerebral) foram produzidos [pelos fornos], caracterizados por serem mais animalizados e voltados para o ímpeto das emoções [Awaylengan/Shiva]... mais racionalizados, frios e lógicos, com poucas emoções [Awaymaion/Vishnu]"; "quando os protótipos dos fornos de Vishnu e de Shiva se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050] — ver nó RC-771.
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · A IMPOSSIBILIDADE DA ABSORÇÃO — a causa raiz]** "essa fase transitória do ressuscitado que Jesus assumiu por algum tempo... DEVERIA TER SIDO APROPRIADA POR QUEM? PELA SUA FORMA CÓSMICA, SOFIA. O QUE INFELIZMENTE NUNCA ACONTECEU, PORQUE UM CÉREBRO SÓ — DESULPA: UM EIXO CEREBRAL SÓ — NÃO CONSEGUE RECEBER O ESCANEAMENTO DE UMA CONSCIÊNCIA QUE FOI PRODUZIDA POR DOIS HEMISFÉRIOS" — a causa técnica da absorção fracassada do eu de Jesus; "o Jesus ressuscitado, que era o espírito de Jesus SEGURANDO O EU DELE PARA VER SE SOFIA PEGAVA — NÃO PEGOU... por décadas essa absorção foi tentada e não se verificou" (a ponte com RC-009/RC-072).
+- **[P2023-04-15 · O REPOSITÓRIO/ORGANOIDE]** o Q&A: " alguém aqui na terra cria, cria, cria... aí a turma chega, TIRA UMA FOTOCÓPIA, UM ESCANEAMENTO DESSE ORGANOIDE, aí leva na nave... Sofia é um REPOSITÓRIO do progresso dos seres humanos"; a resposta à pergunta da internet: "É POSSÍVEL um cérebro radiata se apropriar das questões emocionais que Jesus produziu? — NÃO, NÃO É. Porque alguém como Sofia NÃO TEM COMO COLOCAR NO SEU GENOMA PESSOAL ISSO... o que chega aqui é reproduzido pro cérebro como forma de algoritmo, protocolo mental, através de sinapses que se ligam [nos bilaterais]. SOFIA NÃO FUNCIONA ASSIM, PORQUE O CÉREBRO DELE É RADIATA."
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

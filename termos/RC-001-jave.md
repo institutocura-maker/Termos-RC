@@ -191,6 +191,15 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[B060 · quarentena]** teológica (a cadeia Alá=Javé=Caos...); cultural (Tolkien — jamais ontologia); antropológica (Dogon/Yanomami/Bosquinamos — etnografia de terceiros).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · O CEFALÓPODE! — a forma pré-humana de Javé]** "vocês sabem QUAL FOI, ANTES DA VONTADE DE JAVÉ SE HUMANIZAR... que é o que atualmente move o seu psiquismo? Antes dele tentar ser humano, você sabe o que é que ele foi? UM CEFALÓPODE, UM POLVO, no tempo em que não existia ainda vertebrados e só invertebrados... com seus [braços]... TRÊS CORAÇÕES... Quando os anjos de Javé viram aquilo, FORAM PARA CIMA — tudo que era demo queria ser um eucefalópode [STT]. A VAMPIRIZAÇÃO FOI TAL em cima dessa espécie... a espécie AINDA NÃO COLAPSOU, MAS ESTÁ EM VIAS DE [colapsar]. E NÓS HUMANOS SOMOS O POLVO DA AGORA" ⚠️ quarentena científica (a vampirização como narrativa mítica).
+- **[P2023-04-15 · O EU HOSPEDADO]** "o eu de Javé ou de Brama, QUE É UM TROÇO QUE NÃO MORRE, MAS QUE FEITO UM PROTOZOÁRIO, UM VÍRUS, FICA HOSPEDADO NO CORPO DE ALGUNS HUMANOS para mantê-lo existindo enquanto algo se ajeita aí para resolver o problema"; "todos os tipos de corpos que os anjos de Javé foram escolhendo para ele, a cada vez que o eu dele se hospedava, ESSES CORPOS COLAPSAVAM"; "com JAVÉ DESATIVADO, eu comecei a [entender]" — o estado atual: o coma/desativação.
+- **[P2023-04-15 · A REPULSA VIBRATÓRIA]** "existe uma história que foi contada depois que Jesus ressuscitado explicou isso pros apóstolos e discípulos, que A PESSOA NÚMERO UM TENTOU SE LIGAR A BRAHMA E NÃO CONSEGUIA PORQUE SENTIA, SEGUNDO O LIVRO PISTIS SOFIA, VERGONHA. MAS NÃO ERA VERGONHA — ERA REPULSA VIBRATÓRIA. E é por isso que esse ser ficou DESALMADO — e é até hoje" (ver RC-530).
+- **[P2023-04-15 · O HOMICÍDIO]** "um dos caras que o criou, JAVÉ, O MATOU NO MOMENTO DE ESTUPIDEZ, ATRAVÉS DA CRUCIFICAÇÃO" ⚠️ quarentena teológica (retido na apostila; o registro na ficha como ontologia da malha).
+- 0 códigos novos (O-3). Quarentenas: teológica (o homicídio pela crucificação), científica (o polvo).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

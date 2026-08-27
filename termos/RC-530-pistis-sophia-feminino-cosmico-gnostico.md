@@ -20,6 +20,13 @@ Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas ante
 
 - **Pistis Sophia / Pinoia (P2024-11-09):** "o nome Sofia aí não é nome, é epíteto"; "Sofia aqui não é [Hochmah], a sabedoria... um outro tipo de sabedoria menor chamada Ennoia [STT 'Pinoia']".
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · A REPULSA VIBRATÓRIA]** "existe uma história que foi contada depois que JESUS RESSUSCITADO explicou isso pros apóstolos e discípulos, que a P1, ou seja, a pessoa número um, TENTOU SE LIGAR A BRAHMA E NÃO CONSEGUIA PORQUE SENTIA, SEGUNDO O LIVRO PISTIS SOFIA, VERGONHA. MAS NÃO ERA VERGONHA — ERA REPULSA VIBRATÓRIA. E é por isso que... esse ser ficou DESALMADO" — a releitura do Pistis Sophia: a "vergonha" de Brahma traduzida como repulsa vibratória da pessoa um.
+- **[P2023-04-15 · O IRMÃO THAAGO E A VESTIMENTA DE BARBELO]** "quando nos livros gnósticos o Jesus ressuscitado [disse] ao seu irmão THAAGO [STT — [REVISAR]]: 'Ó Thaago, A VESTIMENTA QUE EU DEVERIA JÁ ESTAR VESTINDO AGORA COMO REPRESENTANTE DO MEU PAI E DOS DEMAIS SERES DO PLEROMA DE BARBELO, EU JÁ DEVERIA TER ESSA VESTIMENTA, MAS OS ARCONTES DO SÉTIMO, SEXTO, QUINTO E QUARTO CÉU NÃO DEIXAM'"; "Sofia nesse universo foi engendrado para ser o herdeiro da Trimurti, só que a Trimurti se ferrou, MAS TEM ARCONTES QUE NÃO QUEREM MAIS QUE ELE SEJA O HERDEIRO. ELES QUEREM VIR PARA CÁ PARA TOMAR ESSA BRIGA" [REVISAR: "Thaago" — Tomé? o interlocutor do Pistis Sophia].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

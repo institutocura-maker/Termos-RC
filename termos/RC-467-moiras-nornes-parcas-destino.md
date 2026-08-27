@@ -46,6 +46,15 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **[P2023-05-21 · A TESITURA DO DNA]** "**AS MOIRAS LIAM A TESITURA DO DNA DE CADA E DE CADA ESTIRPE DE SER**... [mas] NÃO ERAM MÉDIUNS nos termos em que a gente [usa]. **QUANDO OS HUMANOS SURGIRAM, AS MOIRAS NÃO SABIAM LER COISA NENHUMA, porque os humanos eram muito mais complexos — AÍ SURGIU A FUNÇÃO ORACULAR** [para os caras dizerem, e eles tratavam de CUMPRIR o que haviam dito para impressionar os humanos]." — a precisão da leitura: as moiras liam estirpes, não humanos; "até hoje só quem consegue fazer esse tipo de leitura do que está por vir SÃO OS ANJOS DE JAVÉ — UM SUPERCOMPUTADOR" (RC-533).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · O PIA — o peso da podridão ancestral]** "MOROS... CONSEGUIU MEDIR ALGO QUE HOJE A GENTE CHAMA DE PIA — PESO DA INEVITABILIDADE ANCESTRAL. Isso é a coisa eufemística [a] ser usada, porque NA VERDADE ESSE PIA QUE MOROS CONSEGUIU MEDIR NA ÉPOCA É O PESO DA PODRIDÃO DA INEVITABILIDADE ANCESTRAL QUE CADA SER QUE MERGULHAVA NESSA CRIAÇÃO INOCULAVA EM SI MESMO. Então, cada ser tinha uma espécie de pia, ou seja, UMA ESPÉCIE DE CÓDIGO PESSOAL HERDADO DO CRIADOR"; a cronologia: "nessa altura da história, 4, 5 BILHÕES DE ANOS DEPOIS DA CRIAÇÃO DESSE UNIVERSO, Brama, Vishnu e Shiva, mesmo com corpos apodrecidos, JÁ TINHAM DESCENDÊNCIA CLONADA de si mesmo".
+- **[P2023-04-15 · A TABELA E AS MOIRAS]** "vendo que Moros havia estabelecido a pia de cada estirpe gerada... JUNTO COM MOROS DEPOIS SURGIU UMA FIGURA CHAMADA ANANKE... ao lado foi estabelecendo O TIPO DE NECESSIDADE que aquele grau de podridão iria produzir no psiquismo de cada ser. E assim ESSA TABELA DE GRAU DE PODRIDÃO e a necessidade que aquele grau provocaria — A TRIMURTI VÁRIAS VEZES ENTROU EM GUERRA PARA CONSEGUIR ISSO. E MOROS ESCONDEU E RESOLVEU CRIAR TRÊS MOIRAS, dividir esse conhecimento pelas três, MAS UMA QUARTA PARTE DESSE CONHECIMENTO ELE GUARDOU PARA SI MESMO E SUMIU, como sendo a única maneira de preservar as informações para que a Trimurti não usasse isso nas guerras que esses três seres sempre tinham".
+- **[P2023-04-15 · AS VULNERABILIDADES]** "Brama e Vishnu e Shiva queriam saber... VISHNU E SHIVA QUERIAM SABER QUAL ERA A VULNERABILIDADE DA ESTIRPE 7 surgida a partir de Brama. E QUEM SABIA DISSO ERA MOROS. Aí Moros NÃO QUERIA DIZER, porque Shiva, sabendo disso, iria tentar disputar algo com essa turma... porque ele sabia que a turma ia usar mal" — o motivo do desaparecimento.
+- **[P2023-04-15 · ORLOG E AS NORNES]** "na mitologia nórdica Moros é A FIGURA MAIS IMPORTANTE, é chamado de ORLOG... junto com as NORNES, que seriam o nome que as Moiras da mitologia grega foram assim tratadas na mitologia nórdica"; + "conforme previu Moros... OS FILHOS DESSE PROCESSO DE FATIAMENTO ÚNICO FORAM OS PRIMEIROS A SURGIR, MAS SERIAM OS ÚLTIMOS A CONSEGUIR EVOLUIR, caso o fizessem. LEMBREM-SE BEM DISSO" (a profecia registrada).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

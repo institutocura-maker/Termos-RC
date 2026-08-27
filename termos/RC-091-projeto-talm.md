@@ -71,6 +71,13 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[P2023-11-19 · cap. 4.2]** "Javé necessita da ajuda dos humanos para 'reparar' a **'carga da desgraça'** que ele transferiu." — o why da transferência.
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · MOROS O RESPONSÁVEL PELO TALM]** "o veredito [do ser de quatro cabeças]: 'Vocês já mexeram [na genética], manipularam e tá aí o resultado. NÃO DEU CERTO. NÓS PRECISAMOS CRIAR UM TIPO DE VIDA DIFERENTE das que existem aqui. E aqui tá tudo infectado. MAS TEM UM UNIVERSO VIZINHO que surgiu junto com o nosso... MAS NÃO TEM NADA VIVO LÁ. VAMOS MANDAR CÓDIGOS MICROBIANOS PARA LÁ e ver o que é que esses códigos, chegando num planeta X, Y, Z, evoluem, criam um tipo de vida que daqui a gente controla E ASSIM A GENTE DE LÁ RETIRA OS NOVOS PADRÕES DA GENÉTICA QUE A GENTE PRECISA PARA CORRIGIR A NOSSA APODRECÇÃO'... MARAVILHA, MARAVILHA. SURGIU O PROJETO TALM [STT: 'projeto Talmer'], que tinha como responsabilidade TRAZER A VIDA DE LÁ... para o nosso atual universo, QUE NESSA ÉPOCA NÃO TINHA VIDA AINDA".
+- **[P2023-04-15 · OS FENVANS ASTRONAUTAS]** "o código chamado NIDANA foi [trazido] ATRAVÉS DE UMA CLASSE NOVA DE SERES QUE FOI FEITA A PARTIR DA DECISÃO DE MOROS CHAMADA FENVÃES... e esses fenvans IAM SER OS ASTRONAUTAS que iriam tentar trazer o código de lá para cá. ISSO É UMA HISTÓRIA TRÁGICA, MAS O CÓDIGO VEIO" — a origem do projeto na voz mais completa do corpus (a convergência com RC-776/RC-154).
+- 0 códigos novos (O-3). Quarentena: ufológica (os astronautas).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

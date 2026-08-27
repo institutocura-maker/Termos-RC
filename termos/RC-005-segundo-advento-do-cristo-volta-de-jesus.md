@@ -81,6 +81,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2023-05-20 · O FINAL DOS TEMPOS COMO CICLO]** "**esse final dos tempos, vírgula, é só o fim de um ciclo e o início de outro.** Como os humanos vão tá nisso é que a gente só vai saber na medida em que o tempo passa" + o juízo final como balela: "VAI TER JUÍZO FINAL? NÃO. Isso foi uma balela que a loucura de Javé ou de Brahma lá atrás... disse que iria julgar todo mundo, inclusive os anjos dele. **SÓ QUE ELE APODRECEU PRIMEIRO, COLAPSOU**" [quarentena teológica].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · AS PROMESSAS DO CRISTO CÓSMICO]** "Jesus fez as promessas de que retornaria, MAS NA CONDIÇÃO DO CRISTO CÓSMICO. E ESSA PROMESSA FALTA SER CUMPRIDA... A PERGUNTA É: QUANTO VALEM AS PROMESSAS DE UM PSIQUISMO HUMANO QUE REPRESENTA TÃO SOMENTE A FASE FINAL DE UMA CONSCIÊNCIA FATEADA?"; a leitura dupla: "SERÁ ISSO UM SIMPLES CENÁRIO... ou A FALSA ESPERANÇA PRODUZIDA PELO INGENUAMENTO ANÚNCIO de um ser humano que sonhou... ou A ÚNICA CARTADA... ou UM ARDIL... que foi empregado no seu próprio espírito pelos adversários... 'esse é o último ardil que a gente tá aplicando no filho da mãe do Javé'"; o veredito: "Pessoal, VALE. VALE PARA CACETE. VALE MUITO. É A ÚNICA COISA QUE VALE NESSA HISTÓRIA"; "AINDA ASSIM, ESSE ANÚNCIO MANTEVE MENTES TRABALHANDO EM TORNO DESSA PERSPECTIVA DURANTE 2.000 ANOS".
+- **[P2023-04-15 · AS VINDAS REPETIDAS]** "Sofia virá INDEPENDENTE DISSO, porque é só o primeiro passo de um novo processo. E quando Sofia chegar, vai dar beijinhos, vai curar [unha] encravada... NADA DISSO... CHEGAR, TODO MUNDO PERCEBE QUE ELE EXISTE, MAS o rapaz não é bom de papo... AÍ UM BEIJINHO, VOLTA — VAI VOLTAR VÁRIAS VEZES. A HUMANIDADE VAI SE ACOSTUMAR A ISSO."
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -31,6 +31,12 @@ Forma preferida: Malkuth.
 - **[P2023-06-03 · MALKUTH E A VESTIMENTA NEGADA]** "eu deveria receber a minha **VESTIMENTA DE SUZERANO, DE HERDEIRO DA CRIAÇÃO**... **MAS OS ARCONTES DO PRIMEIRO CÉU, DO SEGUNDO, DO TERCEIRO, DO QUARTO, DO QUINTO CÉU NÃO QUEREM DAR**... porque todos eles dizem que **JESUS TRAIU JAVÉ** — e o Jesus ressuscitado também traiu; e além de trair, TAVA DENUNCIANDO PUBLICAMENTE. Aí Jesus disse: '**MAS EU ASSUMIREI A SUZERANIA — mais um pouco eu farei**'" (o diálogo com Tiago) + a identificação das vindas (Kalki = Malkuth = Mahdi = Messias = Jesus — RC-005) + a leitura cabalística: "MALCUT [Malkuth], a décima sefirá... É O MESSIAS QUE ELES [os judeus] ESTÃO ESPERANDO. Porque até hoje eles não aceitam o fracassado Jesus... já que ele foi crucificado como [traidor]".
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · A CABALA — o mapeamento das sephirot]** "quando esse ser número dois caiu na própria obra e se reconstruiu com os restos de si mesmo como sendo JAVÉ, BRAMA OU KETER. KETER É O NOME DO CRIADOR CAÍDO NO ÂMBITO DA CABALA"; "Sofia, assim chamado na linguagem grega, mas na verdade ele era chamado por um nome que o hebraico chama com mais propriedade e há mais tempo, chamado CHOKMAH [STT: 'Rockma']... porque os três seres da CABALA que compõem a chamada trimurti são RESPECTIVAMENTE KETER, CHOKMAH E BINAH. Então, Chokmah... produziu Sofia, que é [Hochmah]" — o mapeamento das três primeiras sephirot sobre a Trimurti (Keter=Brahma/Javé; a grafia canônica Hochmah=Malkuth=Sophia da malha confirmada na voz).
+- 0 códigos novos (O-3). Quarentena: teológica (a cabala como registro).
+
 ## Fontes
 P2025-05-31.
 

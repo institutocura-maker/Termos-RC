@@ -171,6 +171,15 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2023-06-03 · PANKU — a cosmogonia chinesa]** "na mitologia chinesa... nada surgiu um OVO; esse ovo quebrou e saíram três coisas: o [yin], o yang e **PANKU [Pangu], o criador caído**... a própria Cabala diz: há um Deus exilado na sua própria obra... **A Cabala, para transformar uma queda num passo de dança, diz: 'mas esse Deus SE EXILOU POR AMOR'**" (a cosmogonia chinesa como o espelho do Big Bang dual: matéria × antimatéria).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · A FORMAÇÃO — o gênio político de Vishnu]** "ATÉ QUE CHEGOU UM PONTO em que, A CERCA DE 8, 9 BILHÕES DE ANOS — 7, 8 BILHÕES, desculpa — depois da criação desse vexame, VISHNU DISSE para Brahma e Shiva: 'EI, VAMOS PARAR DE BRIGAR E VAMOS CONVERSAR.' Não adianta mais a gente brigar... eram, imagine, TRÊS MALUCOS DENTRO DE UM MANICÔMIO BRIGANDO. Nenhum dos três conseguiam matar o outro... AÍ VISHNU TEVE A LUCIDEZ de dizer: 'EI, VAMOS GOVERNAR JUNTOS, porque só que a gente não tem nada a governar, porque todo mundo é doido aqui igual a gente'".
+- **[P2023-04-15 · O SER DE QUATRO CABEÇAS]** "a ideia genial que eles tiveram foi criar um corpo COM QUATRO CABEÇAS... uma representava o DNA de Brahma... o outro de Vishnu, o outro de Shiva, E A QUARTA CABEÇA ERA UM PROTO-SER... os três rostos olhando assim para ele. Se ele fizesse qualquer coisa, os três pegavam e matavam, MAS DEIXARAM A CABEÇA DELE LIVRE PARA PENSAR" — o proto-gonos que se tornou MOROS (ver RC-565).
+- **[P2023-04-15 · A DESCONSTITUIÇÃO]** "ESSA TRIMURTI FALIU... EM 2018, A TRIMURTI, QUE JÁ HAVIA FALIDO HÁ 7 BILHÕES DE ANOS, FOI DESCONSTITUÍDA, PORQUE VISHNU DISSE: 'TÔ FORA, NÓS ESTAMOS ATRAPALHANDO TUDO.' Aí ele se desconstituiu NOS TERMOS EM QUE EU CONTO NO LIVRO INQUISIÇÃO TRIMURTIANA [B022!]. Aí Brama entrou em coma de novo. SÓ TEM SHIVA AÍ ATUANDO" — a 3ª fonte da cronologia 2018-19 (a convergência P2023-06-03/P2023-04-30).
+- **[P2023-04-15 · O PACTO]** "VISHNU NUNCA BRIGOU COM BRAHMA, NUNCA BRIGOU COM SHIVA. MAS SHIVA SEMPRE BRIGOU COM BRAHMA — QUE É O PACTO ENTRE OS TRÊS PARA MANTER BRAHMA DESPERTO E ACORDADO O TEMPO TODO"; o sono: "quando na mitologia ariana hindu diz 'tem um sono de Brama de 400 milhões de anos', é porque ELE ENTRAVA EM COMA. Os anjos de Brama ou de Javé que ele havia criado logo no início é que o mantinham funcionando de alguma forma".
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

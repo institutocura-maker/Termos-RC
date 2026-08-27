@@ -30,6 +30,13 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 
 - **[P2024-07-14] O amor mamífero × o amor divino (U0880–U0900):** "o que se desconhece é que o amor mamífero naturalmente cuida e protege, mas o amor de quem tá [no paraíso] não tem algoritmos de cuidar e proteger"; "a produção de oxitocina no âmbito do nosso organismo nos permite sentir o zelo mamífero, que a gente chama hoje de amor"; "um réptil não tem hipotálamo, tálamo, hipocampo e amígdala cerebral para produzir esse zelo"; "uma mãe rã, se cruzar com seu filho depois que ele cresceu, nem vai saber que é filho dela. Mas os mamíferos sabem: uma mãe nunca esquece o seu leãozinho"; "a ressonância límbica dos mamíferos faz com que o amor mamífero naturalmente tenha algoritmos bioquímicos traduzidos como zelo, como cuidado, como proteção"; "o amor divino apenas pulsa permanentemente no seu padrão de perfeição, de pureza... essa imantação não age, não atua, não premia nem castiga ninguém".
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · A OXITOCINA E O GENÓTIPO DA GENTILEZA]** "hoje nós só podemos olhar um para outro e dizer 'eu lhe amo' PORQUE EXISTE A OXITOCINA, EXISTE GENÓTIPOS QUE HOJE FAZEM PARTE DOS 28.869 GENES DO NOSSO GENOMA, mas que... é coisa de 48.000 ANOS PARA CÁ. ISSO FOI PRODUZIDO LENTAMENTE PELA EVOLUÇÃO"; "os espíritos que animaram as diversas gerações de humanos JÁ SE APROPRIARAM OS PROTOCOLOS DO PROGRESSO... esses espíritos JÁ RECOLHERAM A CAPACIDADE DE AMAR QUE OS MAMÍFEROS INVENTARAM ATRAVÉS DO CÉREBRO LÍMBICO. Já apropriaram a capacidade de produzir GENTILEZA, CARINHO, TERNURA, ALTRUÍSMO."
+- **[P2023-04-15 · A PRIMEIRA MÃE MAMÍFERA]** "aqui pela primeira vez um animal sentiu um ser saindo dentro de si mesmo e pegou esse animal e COM O HIPOCAMPO TIROU UMA FOTOGRAFIA E COM A AMÍGDALA CEREBRAL SENTIU UM ZELO... ESSA MÃE MAMÍFERA ASSOCIOU A MEMÓRIA REFERENTE A UM ALGUÉM JUNTO COM UM SENTIMENTO DE ZELO... E MARCOU NO NA MENTE DO ESPÍRITO ETERNO LIGADO ÀQUELE ANIMAL"; + a pré-história: "muitos faziam o que nós chamamos de sexo, UM ROSNANDO, O OUTRO TAMBÉM, MAS NÃO ERA O PRAZER — ERA MANTENDO A GUARDA para ameaçar o companheiro ou a companheira" (o medo pré-oxitocina).
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

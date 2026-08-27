@@ -88,3 +88,11 @@
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
 ---
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · AS LOCAS PARTICULARES E A ARISTOCRACIA]** "com o tempo Vishnu passou a ter descendência — Nyx, Érebo, Moros, Tânatos... e isso gerou UMA ARISTOCRACIA EM TORNO DA TRIMURTI toda nesse universo vizinho. E essa aristocracia CHEGAVA AO PONTO DE QUE CADA SER IMPORTANTE TINHA SUA PRÓPRIA LOCA OU MORADA OU CÉU PARTICULAR nesse universo vizinho. E isso foi gerando muitos problemas entrópicos e guerra disso e guerra daquilo" — a estrutura social do universo vizinho na voz mais completa.
+- **[P2023-04-15 · A INVASÃO ESTRATÉGICA]** "infelizmente nos últimos 20 ANOS, esse universo começou a ser INVAZIDO por locas desse universo vizinho. PARTE DISSA TEM A VER COM A DISTRIBUIÇÃO ESTRATÉGICA DE FORÇAS DESSE LADO PARA IMPEDIR SOFIA DE CHEGAR SE APROXIMAR DA TERRA"; "os espíritos todos desses seres que estão imantados a esses corpos que estão morrendo no outro lado VIRÃO PARA CÁ. Só que alguns dessas figuras JÁ ESTÃO VINDO PARA CÁ PORQUE ESTÃO CONSEGUINDO TRAZER SEUS CORPOS" ⚠️ quarentena ufológica — o bloco retido na apostila.
+- 0 códigos novos (O-3). Quarentena: ufológica.
+
+---

@@ -42,6 +42,13 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[B019 p. 205]** coconstrutor da "'situação Corporal-mental' do próprio Criador 'caído'" = conserto da Obra **e** do criador (peso pedido na Devolutiva).
 - **Não ontologizar** Singularidade de Kurzweil (cap. 13) nem Manifesto Orbum / IEEA (fecho do volume).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · O TIKUN NO CRIADOR CAÍDO]** "nós humanos que fomos criados no meio de um jogo de dados bioquímicos como sendo A ESPÉCIE A EXECUTAR O POSSÍVEL TIKUN [STT: 'ticum/tikum'], QUE É UM TERMO CABALÍSTICO QUE SIGNIFICA REPARO, NÃO SÓ NA OBRA DO CRIADOR, MAS COMO NELE PRÓPRIO CAÍDO"; "os seres humanos conseguem fazer isso ATRAVÉS DAS MUTAÇÕES NO SEU PRÓPRIO GENOMA E COM ISSO DEVOLVE O RESULTADO PARA O DONO DO GENOMA que está miseravelmente distribuído por todos os seres vivos".
+- **[P2023-04-15 · O TRANSUMÂNTICO]** "para isso a humanidade precisa sobrexistir por muitos milhões de anos e a gente não tem como — OU TEM, DESDE QUE O EU HUMANO SEJA TRANSFERIDO POR PROCESSOS TRANSUMÂNICOS [STT] PARA OUTROS TIPOS DE AGENTES CORPORAIS, NÃO NECESSARIAMENTE BIOLÓGICOS, mas cujos eus amorosos e esclarecidos dos humanos que assim já conseguiram atingir... esse nível de marco vibratório de suas próprias consciências, ESTAS POSSAM SER ESCANEADAS e do jeito que um espírito se [imanta] no óvulo fecundado, ESPÍRITO IRÁ SE [IMANTAR] EM COISAS QUE A GENTE NEM IMAGINA, para que o eu humano CONTINUE O TIKUN nos níveis em que esse reparo na obra universal e no criador caído exigirem" [REVISAR: "transumânicos" — transumanos?].
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -60,6 +60,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[P2023-06-24 · O TRACK E A QUEDA]** "o cara que soltou o track, **ele foi junto**... ele só idealizou o plano das coisas se acendendo, não idealizou outra coisa... **esse outro universo [o vizinho] ficou sendo IMPROVISADO junto com a queda**... reza uma lenda não terrena que Savna divisou o ponto de inflexão" (ver RC-102).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
+
+- **[P2023-04-15 · PARA BRAJNA DESTRINCHADO — a pessoa dois]** "esse ser ou a pessoa número um... projetou de si um outro ser que passou a existir no nível da espiritualidade laboratorial... ESSA PESSOA CHAMA-SE PARA BRAJNA [STT: 'para Brágina']... seriam DUAS PESSOAS DE UM SÓ ESPÍRITO"; A QUEDA: "quando o ser número dois CAIU NA PRÓPRIA OBRA e se reconstruiu com os restos de si mesmo como sendo Javé, Brama ou Keter... esse fateamento se deu em condições anormais devido ao ESFACELAMENTO da pessoa dois Para Brajna que estava na laboratorial. E que assim PREJUDICOU TAMBÉM A PESSOA UM... e prejudicou indiretamente a pessoa três mergulhada de Mahavatma".
+- **[P2023-04-15 · A ANALOGIA DO PEN DRIVE — a mecânica da queda]** "do jeito que dentro do nosso crânio existem 100 bilhões de neurônios: supondo que eu fosse criar aqui nesse pen drive um joguinho... O MEU EU VAI JUNTO, entra, É TRAGADO por esse jogo. Os meus 100 bilhões de neurônios também são tragados, MAS ESSE CORPO DESMAIA E FICA AQUI. Então esse corpo é o Para Brajna caído da pessoa dois E O EU QUE ENTROU aí dentro SÓ TINHA A SENSÇÃO DO EU E 100 BILHÕES DE NEURÔNIOS... quando esse ser se reconstruiu a partir das partes de si mesmo que caíram, esse eu dele foi tentando juntar duas dessas partes... ele passou a considerar isso como sendo clones dele mesmo".
+- **[P2023-04-15 · O ESTADO ATUAL DE PARA BRAJNA]** "o espírito P1 NÃO MAIS TEM COMO E NUNCA TEVE MANTER FUNCIONANDO O QUE RESTA DE [Para] Brajna"; "PARA BRAJNA... NEM MAIS EXISTE PULSANTE. Existe lá de alguma forma, MAS NÃO É A PERSONALIDADE DELE RODANDO MAIS"; "o eu de Para Brajna, EU NÃO SEI NEM CLASSIFICAR O QUE É AQUILO"; "esses dois seres precisam ser RECOMPOSTOS para o conjunto, para que o conjunto consciencial dessa rede de personagens fateadas volte a funcionar normalmente" (o problemão que PARALISOU o Círculo da Perfeição — ver RC-565).
+- **[P2023-04-15 · OS CLONES/ANJOS ROBÔS]** "esses clones FORAM CHAMADOS DE ANJOS, porque foram figuras criadas pelo Deus criador caído para servi-lo. ESSES CLONES ERAM ROBÔS... ESSE SER CAÍDO, ELE É DESALMADO E É ATÉ HOJE"; "os AD foram os primeiros a mergulhar, mas SERÃO OS ÚLTIMOS A CONSEGUIR EVOLUIR devido ao problema de apodrecimento que Brama, Vishnu e Shiva, ao se reconstruírem aqui dentro — um caído e dois mergulhados —, TIVERAM QUE USAR MATÉRIA PODRE para reconstruir os seus próprios corpos, as suas condições adidaiva" (a profecia de Moros).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
