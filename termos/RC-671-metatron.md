@@ -47,6 +47,12 @@ Forma preferida: Metatron.
 
 - **[P2026-07-30 — FONTE ORIGINAL] O cubo de Metatron (Pergunta 2):** "se a gente for contar essa história envolvendo outros seres e esquecendo a Wyrd... se a gente for falar do cubo de Metatron, que significa 12 funções, aí é que a coisa vai pro espaço e ninguém entende coisa alguma" [contexto; Colecionar Incertezas — "cubo de Metatron = 12 funções"].
 
+
+## Ampliação — P2021-05-08 (As Convenções Mentais de Sophia)
+
+- **[P2021-05-08 · A FUNDAÇÃO DE 2021 · O METATRON QUE "NÃO SUPORTOU" — A TRAGÉDIA DOS TRÊS]** "a última tradução mais compreensível seria o Metatron... SUCUMBIU, ELE NÃO SUPORTOU. O Enoque humano morreu lá fora, ficou essa forma clonada de Metatron que nunca [conseguiu]... NÃO CONSEGUIU LEVAR ADIANTE A PERSONALIDADE DE ENOQUE"; "E OS TRÊS CARAS PERDERAM DE VEZ O ACESSO AO CAMPO MÓRFICO HUMANO... O QUE PARA ELES FOI UMA TRAGÉDIA" [⚠️ a tragédia trimurtiana — a perda do acesso ao campo mórfico humano]; o clonado que nunca funcionou; + o elo com a aposta (a RC-489).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 P2025-05-31.
 
