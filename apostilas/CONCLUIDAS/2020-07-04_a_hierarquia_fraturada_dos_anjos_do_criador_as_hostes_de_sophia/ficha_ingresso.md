@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2020-07-04 — A Hierarquia Fraturada dos Anjos do Criador, as Hostes de Sophia
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada e APLICADA: **7 fichas ampliadas** (RC-009/092/467/072/005/001/102 — com o selo [O EMBRIONÁRIO DE 2020] na RC-102) + **9 vínculos P2020-07-04** + 2 blocos no pacote (RC-019 A HIERARQUIA FRATURADA/RC-387) + notas BIBLIO B045/B046 (edição manual) + apostila + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/` (54). ⚠️ **A PALESTRA DE MAIO/2020 (JUÍZO FINAL) NO RADAR — o curador voltará a ela.** O "Drama Espiritual de Javé" e o "Tzimtzum" no radar de obras.
 
 ## 1. Identificação
 
