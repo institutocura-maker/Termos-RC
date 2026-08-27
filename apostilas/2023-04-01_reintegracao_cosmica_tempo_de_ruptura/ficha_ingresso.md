@@ -1,0 +1,34 @@
+# Ficha de Ingresso — P2023-04-01 — Reintegração Cósmica: Tempo de Ruptura
+
+> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+
+## 1. Identificação
+
+| Campo | Informação |
+|---|---|
+| **Palestra** | *Reintegração Cósmica: Tempo de Ruptura* — **P2023-04-01** (01/04/2023, sábado de manhã; com anúncio da palestra da tarde [os agentes do Quarto Logos] e do evento de SP 10-11/06 ✓) |
+| **Natureza do material** | **TRANSCRIÇÃO STT BRUTA INTEGRAL** (~15.838 palavras; **um MEGABLOCO ÚNICO de 9 linhas**) |
+| **Recebido** | Upload do curador (commit `798958c`) · 93.337 bytes · SHA-256 `b400e1b89f6cddfabd44d543818a949bac505244cb41ec7bd2ce62d371463cee` |
+| **Inédita?** | ✓ **SIM** — citada por ZERO termos |
+| **Slug** | `2023-04-01_reintegracao_cosmica_tempo_de_ruptura` |
+| **⚠️ A NOVA RAIZ** | **A PRIMEIRA DE TODAS**: 01/04 (esta) → 15/04 → **[29/04 — o ELO PERDIDO: CONFIRMADO INDISPONÍVEL pelo curador — 'infelizmente não temos todas disponíveis']** → 30/04 → 20/05 → ... → 25/06. **+ A LACUNA DE RESENDE**: o Q&A referencia "na semana passada numa palestra em RESENDE" (~25/03/2023 — não recebida). |
+
+## 2. A tese e as joias
+
+- **A TESE (o título em duas metades)**: **REINTEGRAÇÃO CÓSMICA** — a Terra é o último dos **19 mundos** que Sofia isolou por causa da "pandemia psíquica" do vírus da mente de Lúcifer (o penúltimo, **OUTLAND**, foi reintegrado há 100.000 anos — a Terra ficou com "o lixo da rebelião"); a reintegração acontecerá **"no meio de uma invasão", "em pleno caos planetário"** — e o humano, como o ex-detento de 50 anos nunca preparado, vai do pânico à estupefação "COMO JESUS DISSE" [o logion 2 de Tomé]. **TEMPO DE RUPTURA** — "não adianta mais fazer rebelião... A VERDADEIRA REVOLUÇÃO É A QUE SE PASSA LENTA E SILENCIOSAMENTE NO ÍNTIMO DOS SERES HUMANOS QUE ESTÃO EFETIVAMENTE EVOLUINDO".
+- **As joias**: **O GOVERNO DE SOFIA EM CAPELA** (a estrela a 40.000 anos-luz na constelação do Cocheiro; o suzerano) · **"SOFIA NÃO É UM NOME, É UM EPÍTETO"** (Rockma/Hochmah; a personificação da sabedoria) · **OS 19 MUNDOS E OUTLAND** · **O VÍRUS DA MENTE DE LÚCIFER** (a pandemia psíquica dos 250 mil biodemos) · **A MUTAÇÃO DA SUBMISSÃO** (Abraão; "Javé já tinha conseguido o que queria") + **FAUSTO/MEFISTÓFELES** ("isso é Javé puro e simples") + **A RODA DAS ESCOLHAS** (Faleque→Gomer/Brahma→Abraão→Jesus→Maomé) · **O EVANGELHO DE TOMÉ** (o quinto evangelho; o logion 2; Tomé o irmão carnal) · **A RELEITURA DA CRUCIFICAÇÃO** ("me deixa propor uma NOVA aliança... E JESUS ESCUTOU UM NÃO... FICOU ATÔNITO, MAS AGIGANTOU-SE E MORREU COM A DIGNIDADE") · **OS DOIS CÉREBROS** (100 bi neurônios + 40 mil células cardíacas) · **WESTWORLD E A MEMÓRIA MÃE** · **47.000 ANOS SEM A PALAVRA 'DEUS'** (a Trácia, ~5.400 anos; as 75 mitologias estudadas; o jainismo) · **A REBELIÃO DOS TITÃS E A VIA LÁCTEA** (por isso os humanos só surgiram nesta galáxia) · **OS TRÊS FORNOS REPLICADORES** (Awaaien/Aon/Aingan — um para cada senhor!) · **OS NEFELIM/ANUNNA/IGIGIS** (a tradução errada dos "gigantes") · **A ABELHA RAINHA = JAVÉ** ("assim é Javé e todas as criaturas-ferramentas") · **O ROMPIMENTO DOS LACRES** ("pelo uso inteligente do processo de respiração associado a estados meditativos e contemplativos. E aí que eu procuro explicar no MENTALMA") · **"OS SERES DO PARAÍSO NÃO CUIDAM"** (a majestilidade; "espero que um dia eles acordem") · **A RESSONÂNCIA LÍMBICA E O FOXP2** (o altruísmo como "dar sem receber") · **OS SETE CORPOS** (o átmico que não se suja) · o toxoplasma/a guerra híbrida/Paul Hellyer (quarentenas).
+
+## 3. INSTRUÇÕES ESPECIAIS
+
+- **⚠️ A QUARENTENA POLÍTICA EM RETENÇÃO TOTAL**: **O NORD STREAM 2** + os neoconservadores + a terceira guerra mundial + a Finlândia + Lula/Bolsonaro (o precedente da P2023-05-20).
+- **+ TEOLÓGICA EM MASSA**: o batismo ("renuncia ao demônio?"); a crucificação; Abraão e Isaque; **"a ausência da imaginada providência divina e justiça divina QUE NÃO EXISTEM"**; as religiões impositivas; a igreja que queimou filósofos; o papa/oração.
+- **+ CLÍNICA (CRÍTICO)**: **O TEA COMO LEITURA DOS PUROS QUE NASCEM HUMANOS** ("são tão doces, tão puros, que não sabem lidar com o DNA do caos") — LEITURA DO AUTOR, rotulada, jamais dado biomédico; **O TOXOPLASMA GONDII** (os ratos; os acidentes/suicídios; a extensão aos estadistas); o COVID-19.
+- **+ UFOLÓGICA**: Paul Hellyer (as 4 raças; os 2 ETs no governo); os 3 OVNIs abatidos/50 casos; a invasão em curso; as naves quadradas.
+- **+ BIOMEDIÚNICA**: as duas mortes do corpo do autor ("esse não escapa"; "Pai, a ti me entrego com alegria, amor, confiança e gratidão"); os amigos espirituais "rezando".
+- **O STT**: West Road→**WESTWORLD** · prciano→**PRUSSIANO** (Kant) · Nit→**NIETZSCHE** · Get→**GOETHE** · Exildo/Exío→**HESÍODO** · Diego Dilanda Frade→**DIEGO DE LANDA** (o STT diz 1452 — na história 1562; anotar) · Xinanti→**QIN SHI HUANG** · Naboná→**[REVISAR]** (Assurbanípal?) · Júlio Sési→**JÚLIO CÉSAR** · Rockma→**HOCHMAH** · El Luzbell→**LÚCIFER/YEL LUZBEL** · igijis→**IGIGIS** · Enl→**ENLIL** · Faleg→**PELEGUE** · Paul Hilier→**PAUL HELLYER** · El Musk→**ELON MUSK** · toxoplasmagonda→**TOXOPLASMA GONDII** · Genifox P2/FOP P2→**FOXP2** (o gene!) · Ipona→**HIPONA** (Agostinho; "há 16 anos" [STT — 1.600?]) · Súmula→**SUMA Teológica** · Awaaien/Aon/Aingan→**[REVISAR]** (os três fornos!) · Scolov/Belgrade→**[REVISAR]** · "em 76"→**1776** (James Bruce) · opia cósmica→**[REVISAR]** · Buloca→**BHU-LOKA** [REVISAR] · Rainharok→**RAGNAROK** · miodemos→**BIODEMOS** · "aasca"→**[REVISAR]** · "tá russo"→**[REVISAR]** ("tá errado"?).
+- Nada antes da Devolutiva O-1..O-8.
+
+## 4. Verificação da IA (leitura 1 — integral, 9/9 linhas)
+
+- **A palestra conversa com**: RC-039 (Capela — O CENTRO!), RC-565 (o epíteto/os 19 mundos), RC-009 (a vinda na invasão), RC-072 (Tomé!), RC-001 (Abraão/Fausto/a roda), RC-002 (o vírus!), RC-024 (Nefelim/Igigis), RC-638 (a abelha rainha!), RC-529 (a ressonância límbica/FOXP2), RC-047 (a majestilidade!), RC-727 (os lacres/o Mentalma), RC-104 (a tríade grega), RC-395 (Marte), RC-091 (os fornos!), RC-007 (os exilados), RC-005, RC-759 (o jainismo), RC-702, RC-725, RC-166 + as notas RC-543/RC-189/RC-280.
+- **Novo para o curador (decidir)**: as ampliações-alvo (a sugestão: RC-039 o governo; RC-565 o epíteto/os 19 mundos; RC-001 a mutação da submissão; RC-002 o vírus; RC-072 Tomé; RC-638 a abelha rainha; RC-529 o FOXP2; RC-047 a majestilidade; RC-727 os lacres; RC-024 os Igigis; RC-091 os fornos) + **as notas BIBLIO de B039/B064 (edição MANUAL — a divergência "Além da Ordenação do Caos" sem fusão)** + a apostila (o rito clássico; o Nord Stream em retenção total; o TEA/toxoplasma rotulados).
