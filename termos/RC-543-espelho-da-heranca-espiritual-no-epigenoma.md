@@ -18,6 +18,12 @@ No cap. 16, Ellam apresenta a epigenética como "uma nova e importante Ciência"
 - **Variações:** "Espelho da Herança Espiritual" no Epigenoma Humano (cap. 16); epigenética
 - **Obs.:** conceito que cruza ciência (epigenoma) e doutrina RC (herança espiritual/consciencial)
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O EX-DNA-LIXO E AS 800 RECEITAS]** "dos 28.869 genes, SÓ 2, 3% produz as proteínas... o resto está desligado. A ciência até um dia chamava de DNA LIXO. MAS NÃO É LIXO... esse DNA desativado tem 100 funções, MAS NÃO A DE PRODUZIR PROTEÍNA. PORQUE SE ISSO AQUI PRODUZISSE PROTEÍNA, NÓS, OS HUMANOS, NÃO EXISTIRÍAMOS... seria [seríamos] tão monstros quanto quaisquer um desses seres que existiram para trás"; FREUD e a barreira do inconsciente ("os hospitais psiquiátricos... as doenças mentais têm a ver com essa barreira que não tá funcionando bem"); "O QUE O DNA DE CADA SER VIVO REFLETE? O CÓDIGO-FONTE DE VIDA DO CRIADOR... A DOENÇA DO CRIADOR ESTÁ DESATIVADA" [ver RC-727].
+- 0 códigos novos (O-3). Quarentena: clínica (a psiquiatria rotulada).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

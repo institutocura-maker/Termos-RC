@@ -35,6 +35,12 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **[B031 p. 108 · CRONOLOGIA]** "619 mil anos A.P.: Início do Isolamento Cósmico. **19 planetas rebelados são isolados do circuito de convivência cósmica, sendo eles: 14 planetas do Sistema de Antares, 2 do Sistema de Tau Ceti, 2 do Sistema de Epsilon Eridani e 1 do Sistema Solar, ou seja, a Terra**." — a composição exata dos 19; e a chegada: "Muitos vêm no estado de espíritos desencarnados e outros em naves espaciais, **como foi o caso de toda a Família Val, com os seus 736 membros, que aportaram na Terra em suas 3 grandes naves: Asphezian, Espherian e Espheron**." (cross RC-109/RC-070/RC-021/RC-103.)
 - 0 códigos novos (O-3). Quarentena ufológica (naves, isolamento cósmico): **cruzar, não materializar**; o posfácio é paratexto de terceiros (O-7).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O LIXO DA REBELIÃO — os exilados]** "do jeito que a TURMA DE CAPELA um dia veio EXILADA para a Terra, LÁ VEM TURBILHÃO, JÁ VEIO"; "A TERRA RECEBEU O LIXO da rebelião... veio em naves para cá E TAMBÉM EM COMBOIO ESPIRITUAL"; "NÓS, OS HUMANOS, HÁ 50.000 ANOS ATRÁS ÉRAMOS ANIMAIS DE ESTIMAÇÃO IRRACIONAIS DESSES SERES... do jeito que a gente brinca com papagaio, cachorrinho, cavalo, gato, NÓS ÉRAMOS O CACHORRINHO E O GATO desses seres... só que fomos adquirindo inteligência e nos tornamos MAIS SAGAZES DO QUE ELES. E eles foram perdendo a capacidade reprodutiva. Os portais se fecharam... NÓS HUMANOS HERDAMOS ISSO AQUI"; "eles ainda inventaram essa coisa de REI/RAINHA para dizer que era representante deles... SANGUE AZUL"; "A TERRA ESTÁ ISOLADA DO INTERCÂMBIO CÓSMICO. E assim permanece até hoje" — a analogia da penitenciária (o ex-detento de 50 anos que precisa de "reforço psicológico, informativo" — a reintegração).
+- 0 códigos novos (O-3). Quarentena: ufológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

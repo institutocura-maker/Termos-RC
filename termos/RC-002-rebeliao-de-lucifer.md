@@ -67,6 +67,13 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[B031 p. 143 · GLOSSÁRIO — verbete "Reintegração Cósmica"]** "Nosso planeta será reintegrado ao Circuito Cósmico... **saindo do exílio que foi imposto pelo próprio Sophia após a Rebelião de Lúcifer**" (o exílio por ordem de Sophia — cross RC-009/RC-003).
 - 0 códigos novos (O-3). Obra complementar de aluna (fonte secundária) — mas **COM PREFÁCIO AUTORIZADO DE ELLAM**; os dados quantitativos do posfácio entram como leitura de terceiros (O-7).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · A REBELIÃO COMO PANDEMIA PSÍQUICA — O VÍRUS DA MENTE]** "um ser chamado EL LUZBELL, QUE ERA SÓ UM CIENTISTA BIOLÓGICO desse lado aqui do nosso universo, estudando certos seres vivos, PERCEBEU QUE O GENOMA... tinha um problema que não era para ter... DE TANTO LUZBEL INSISTIR, PELA PRIMEIRA VEZ NA HISTÓRIA DA VIDA DESSE UNIVERSO... ALGUÉM INSISTIU INTELECTUALMENTE FALANDO NA DEFESA DE UMA CERTEZA CONCEITUAL... todos esses seres brigavam por 100 razões, mas sempre no sentido de ORDENAR O CAOS"; **O VÍRUS**: "devido à insistência de Lúcifer, surgiu UM VÍRUS QUE ANTES NÃO EXISTIA. E ESSE VÍRUS PROPAGAVA-SE JUNTO COM A IDEIA DE LUZBEL E QUALQUER OUTRO SER QUE PENSASSE NO ASSUNTO. O CAMPO MÓRFICO do gênero dos biodemos redistribuia isso para todo mundo. E A PANDEMIA, A PARTIR DE UM VÍRUS SURGIDO NA MENTE DE LÚCIFER, GRAÇOU POR TODO O GÊNERO BIODÊMO E AS SUAS QUASE 250.000 ESPÉCIES DISTINTAS" — a rebelião como uma pandemia da mente [RC-078/RC-142: Yel Luzbel o cientista].
+- **[P2023-04-01 · O ISOLAMENTO LUCIFERIANO]** "A TERRA COMEÇOU A FICAR ISOLADA DESDE ESSA ÉPOCA, DEVIDO AO PROBLEMA LUCIFERIANO, E PERMANECE ASSIM ATÉ HOJE"; a trilogia citada ao vivo: "Sinal de Land's End, Frota Norte e A ERA SAPIENS" [B039!] — "uma tentativa de romancear fatos extraterrestres".
+- 0 códigos novos (O-3). Quarentena: ufológica (os 250 mil biodemos).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

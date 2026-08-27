@@ -26,6 +26,12 @@ Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias
 - **[B058 p. 47]** no endereço cerimonioso do Grão-mestre: "Integrante Yel Luzbel, 'Primeiro Pesquisador' pertencente à 'família Yel', do planeta Dan, **do sistema de Capela**."
 - 0 códigos novos (O-3). Notas da ed. 2022 com fonte externa (adaptador) — quarentena institucional (O-4/O-7).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O GOVERNO DE SOFIA SEDEADO EM CAPELA — a voz mais completa do corpus]** "Na nossa galáxia, uma certa estrela aqui perto da Terra, cerca de 40.000 ANOS-LUZ, chamada CAPELA, NA CONSTELAÇÃO DO COCHEIRO, um ser que foi engendrado pelos seres da tríade... PARA SER O REPRESENTANTE DELES NESSE UNIVERSO. Esse ser, cerca de 5, 6 BILHÕES DE ANOS atrás, foi engendrado... ESSE SER ESCOLHEU AO LONGO DOS ÚLTIMOS MILHÕES DE ANOS SEDEAR O SEU GOVERNO, JÁ QUE ELE ERA O SUZERANO DESSE UNIVERSO, NA GALÁXIA REFERENTE AO PROBLEMA DOS TITÃS. E NO SISTEMA DE CAPELA ELE ENTÃO EDIFICOU, VAMOS ASSIM DIZER, O SEU [GOVERNO]" + "vários outros sistemas associados à suzerania desse ser" — a capital do suzerano; "do jeito que a TURMA DE CAPELA um dia veio exilada para a Terra, lá vem turbilhão, JÁ VEIO".
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

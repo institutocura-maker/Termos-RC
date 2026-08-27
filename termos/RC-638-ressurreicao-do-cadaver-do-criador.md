@@ -27,6 +27,12 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 - **[P2024-05-04-R] A mãe de Javé (U1700–U1752):** "Jan Val Ellam descreve essa função humana como tornar-se mãe de Javé, fornecendo o leitezinho (novas sequências genéticas e proteínas) necessário para sua ressurreição"; "Javé é, paradoxalmente, refém do progresso de suas criaturas"; "desde sua queda, Javé perdeu sua alma e se fragmentou em elétrons e antielétrons. Sua ressurreição dependerá da recomposição desses cacos por meio da marcação dos elétrons pelos humanos"; "esse eu de Javé, atualmente parasitário no universo antimaterial, precisaria ser transferido para um novo corpo, que seria um híbrido biodemo-humano neste universo material"; "a reconstrução dos eus originais de Mavatma e Prabrajna, que não mais existem, é uma tarefa que cabe aos seres que estão em pleno inferno".
 - **[P2024-05-04-R] O Biocosmos (U1550–U1700):** "o processo de limpeza culminará na formação de uma nova mente universal, o Biocosmos Inteligente, também referido como Mente Universal Emergente ou Mente Cósmica Emergente. Este Biocosmos é o produto do Terceiro Logos em emergência e será assumido pelo Quarto Logos"; "essa nova mente universal reflete a forma como os elétrons vibram com o surgimento de terráqueos conscientes".
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · A ABELHA RAINHA = JAVÉ]** "Quando a gente olha para uma abelha rainha e as abelhas operárias, A ABELHA RAINHA É A ÚNICA QUE IMPORTA. As abelhas operárias NEM SENSO DE INDIVIDUALIDADE TÊM, porque o genoma delas é SÓ PARA SERVIR A ABELHA RAINHA. **ASSIM É JAVÉ E TODAS AS CRIATURAS-FERRAMENTAS, INCLUSIVE NÓS, OS HUMANOS**, que somos só a última geração a surgir nessa história" (a convergência com a P2023-06-17 — a 3ª fonte).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

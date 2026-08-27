@@ -37,6 +37,12 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **[P2023-04-15 · A PRIMEIRA MÃE MAMÍFERA]** "aqui pela primeira vez um animal sentiu um ser saindo dentro de si mesmo e pegou esse animal e COM O HIPOCAMPO TIROU UMA FOTOGRAFIA E COM A AMÍGDALA CEREBRAL SENTIU UM ZELO... ESSA MÃE MAMÍFERA ASSOCIOU A MEMÓRIA REFERENTE A UM ALGUÉM JUNTO COM UM SENTIMENTO DE ZELO... E MARCOU NO NA MENTE DO ESPÍRITO ETERNO LIGADO ÀQUELE ANIMAL"; + a pré-história: "muitos faziam o que nós chamamos de sexo, UM ROSNANDO, O OUTRO TAMBÉM, MAS NÃO ERA O PRAZER — ERA MANTENDO A GUARDA para ameaçar o companheiro ou a companheira" (o medo pré-oxitocina).
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · A RESSONÂNCIA LÍMBICA, O FOXP2 E O ALTRUÍSMO — o Q&A]** "Desde que os mamíferos surgiram na evolução biológica, surgiu algo chamado RESSONÂNCIA LÍMBICA, que faz com que os cientistas hoje digam: 'um mamífero consegue SENTIR O QUE O OUTRO ESTÁ SENTINDO'... o cérebro límbico com o tálamo, hipotálamo, amígdala cerebral e o hipocampo permite que o mamífero crie memórias a ela associados certos padrões de emoção... o mamífero, que não é racional, AGE NO SENTIDO DE SER ÚTIL, OU DE AJUDAR, OU DE ZELAR, OU CUIDAR DOS SEUS SEMELHANTES"; **O FOXP2** [STT: 'Genifox P2/FOP P2']: "no neocórtex, o FOXP2 permite que a gente, diferente dos mamíferos, seja mamíferos que usam da racionalidade... USO DE SÍMBOLOS, DE CONTEÚDOS MENTAIS"; **O ALTRUÍSMO**: "nós damos a vida uns pelos outros, por alguém que a gente ama ou por uma tese que eu defendo. **NÓS HUMANOS CRIAMOS O ALTRUÍSMO, QUE É DAR SEM RECEBER. NÓS SOMOS HORRÍVEIS, MAS SOMOS MARAVILHOSOS TAMBÉM.**"
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

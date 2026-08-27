@@ -180,6 +180,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2023-04-15 · O PACTO]** "VISHNU NUNCA BRIGOU COM BRAHMA, NUNCA BRIGOU COM SHIVA. MAS SHIVA SEMPRE BRIGOU COM BRAHMA — QUE É O PACTO ENTRE OS TRÊS PARA MANTER BRAHMA DESPERTO E ACORDADO O TEMPO TODO"; o sono: "quando na mitologia ariana hindu diz 'tem um sono de Brama de 400 milhões de anos', é porque ELE ENTRAVA EM COMA. Os anjos de Brama ou de Javé que ele havia criado logo no início é que o mantinham funcionando de alguma forma".
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · A TRÍADE GREGA — Caos como "o pior palavrão"]** "Quem explicou isso foi HESÍODO [STT: 'Exildo'], através de [Os Trabalhos e os Dias], associado ao que HOMERO na Ilíada e na Odisseia também falaram... SURGIU ALGO QUE NÃO DEVERIA SURGIR. E o ser que criou isso, ele deu o nome de CAOS. CAOS É O PIOR PALAVRÃO que na época existia... E Hesíodo TRATOU O DEUS CRIADOR CAÍDO COMO SENDO CAOS. **NÃO ERA UMA DÁDIVA — ERA UM PROBLEMA**"; "Caos, Tártaro, Eros, Nix, Érebo... os deuses primordiais... **A CHAMADA TRÍADE FORMADA POR CAOS, TÁRTARO E EROS, QUE SERIA BRAMA, VISHNU E SHIVA, se a gente fosse comparar com a mitologia ariana hindu**"; as gerações: Urano → **CRONOS E OS TITÃS** → Zeus e os olimpianos; "depois de Zeus a coisa complicou, porque Zeus NÃO CONSEGUIU criar uma outra geração descendente dele. POR QUÊ? PORQUE OS HUMANOS SURGIRAM E ATRAPALHARAM TUDO. NA VERDADE, AS MULHERES SURGIRAM E ATRAPALHARAM TUDO... os homens foram só influenciados" [leitura mítica rotulada]; **A REBELIÃO DOS TITÃS E A VIA LÁCTEA**: "quando Cronos, no meio da confusão dos titãs com Urano... ALGUÉM LÁ NO UNIVERSO VIZINHO OLHOU ASSIM PARA ESSE UNIVERSO... os rebeldes vão ficar presos nesse universo vizinho, MAS VINCULADOS ÀQUELA GALÁXIA. AQUELA GALÁXIA É ESSA GALÁXIA: VIA LÁCTEA... eles nem olhavam pro sol nem pra Terra — ELES OLHAVAM PRA GALÁXIA"; "OS HUMANOS SÓ SURGIRAM NA TERRA E NESSA GALÁXIA porque os titãs foram condenados a ficar ligados à galáxia na qual hoje nós existimos".
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

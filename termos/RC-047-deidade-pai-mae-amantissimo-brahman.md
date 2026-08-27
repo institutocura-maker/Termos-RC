@@ -58,6 +58,12 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **[P2023-04-15 · O CÍRCULO DA PERFEIÇÃO — o eixo explicativo]** "esse ser notou que seres que estavam aqui e aqui, SE QUISSEM, NÃO MAIS PODERIAM RETORNAR — E ISSO NÃO ESTAVA PREVISTO. Aí esse ser aqui criou isso que seria UMA ESPÉCIE DE UM CARROSSEL passando os três níveis... FINANCIADO PELA PUREZA DESSE SER... QUANDO PARA BRAJNA CRIOU O PROBLEMÃO, ESSE CÍRCULO DA PERFEIÇÃO PAROU E ATÉ HOJE TÁ PARADO PORQUE NINGUÉM COMPREENDEU O QUE HOUVE" (o nome pela mente de Javé; do "Mergulho na Escuridão" não lançado — ver RC-565).
 - 0 códigos novos (O-3). Quarentena: teológica (a "fofoca espiritual" rotulada).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · A MAJESTILIDADE — "os seres do paraíso não cuidam" (o Q&A inteiro)]** o Livro dos Espíritos: "antes desse universo ser criado, já existia uma espiritualidade... PRÉ-EXISTENTE... algo INSCRIADO... um ser que nós chamamos Deus seria o SER ENCRIADO"; Agostinho de Hipona [STT: 'Ipona'] e Tomás de Aquino (a Suma); "esse ser... EU SEI QUE ELE NÃO AGE, MAS A IMANÊNCIA DELE É O QUE NOS SUSTENTA"; **O DRAMA**: "para nós humanos, PARA A NOSSA LÓGICA, AMAR É CUIDAR... QUAL É O DRAMA? É QUE OS SERES DO PARAÍSO NÃO CUIDAM. Eles são extremamente puros — de uma pureza tal — MAS NÃO AGEM... uma perfeição diferente dessa"; **A MAJESTILIDADE**: "o espírito que me anima tá meio que em choque com essa platitude dos espíritos evoluidérrimos do paraíso... eu chamo daqui da MAJESTILIDADE DOS SERES DO PARAÍSO para nós que estamos no caos. **EU ESPERO QUE UM DIA ELES ACORDEM**"; **OS SETE CORPOS** [teosofia — confinada à mecânica da RC]: o quaternário inferior (físico, duplo etérico, emocional, mental inferior) + A TRÍADE IMORTAL (átmico, búdico, manásico); **"ESSE ÁTMICO É O ÚNICO QUE NÃO SE SUJA NUNCA. Por quê? PORQUE VEM DESSA IMANÊNCIA DESSE SER**"; "esse ser é O SAGRADO QUE HABITA EM CADA UM DE NÓS, MAS NÃO FAZ NADA. O eu da gente é o que tem que fazer — MAS ELE EXISTE, É REAL"; **os puros que nascem com TEA** ⚠️ [quarentena clínica CRÍTICA — a leitura do autor rotulada como chave de leitura filosófica, jamais dado biomédico].
+- 0 códigos novos (O-3). Quarentenas: teológica, clínica (o rótulo).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

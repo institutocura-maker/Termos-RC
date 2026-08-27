@@ -78,6 +78,12 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[P2023-04-15 · OS FENVANS ASTRONAUTAS]** "o código chamado NIDANA foi [trazido] ATRAVÉS DE UMA CLASSE NOVA DE SERES QUE FOI FEITA A PARTIR DA DECISÃO DE MOROS CHAMADA FENVÃES... e esses fenvans IAM SER OS ASTRONAUTAS que iriam tentar trazer o código de lá para cá. ISSO É UMA HISTÓRIA TRÁGICA, MAS O CÓDIGO VEIO" — a origem do projeto na voz mais completa do corpus (a convergência com RC-776/RC-154).
 - 0 códigos novos (O-3). Quarentena: ufológica (os astronautas).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O CÓDIGO MICROBIANO E OS TRÊS FORNOS — a grafia normalizada]** "Quando a gente fala em vírus, protozoários, bactérias, a gente tá falando na forma mais minúscula de vida... ISSO AQUI É O CÓDIGO DO CRIADOR QUE VEIO DE LÁ PARA CÁ. Em um dos livros últimos que eu lancei chamado ALÉM DA ORDENAÇÃO DO CAOS, A FACE MICROBIANA DO CRIADOR [B064 — a variação documentada], é exatamente isso que eu tenho a explicar"; **OS TRÊS FORNOS REPLICADORES (a grafia fonética da raiz)**: "a vida biológica foi replicada através de TRÊS FORNOS REPLICADORES... **de AWAAIEN, AON E AINGAN** [a grafia desta fonte — NORMALIZANDO o [REVISAR] 'Aaion/Aá Maayon/awailingan' da P2023-04-15; fonética a confirmar], PORQUE ERA UM FORNO PARA CADA UM DOS TRÊS SENHORES da trimúrti ou da tríade"; o transfer: "o código de vida do criador foi transferido do universo vizinho pro daqui" — "a vida primeiro aconteceu lá, nos primeiros 7 bilhões de anos desse universo vizinho... não existia vida no nosso universo" [RC-280 no pacote].
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

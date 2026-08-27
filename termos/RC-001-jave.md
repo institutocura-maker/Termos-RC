@@ -200,6 +200,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[P2023-04-15 · O HOMICÍDIO]** "um dos caras que o criou, JAVÉ, O MATOU NO MOMENTO DE ESTUPIDEZ, ATRAVÉS DA CRUCIFICAÇÃO" ⚠️ quarentena teológica (retido na apostila; o registro na ficha como ontologia da malha).
 - 0 códigos novos (O-3). Quarentenas: teológica (o homicídio pela crucificação), científica (o polvo).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O TESTE DE ABRAÃO E A MUTAÇÃO DA SUBMISSÃO]** a narrativa completa: "Isaque, suba aqui nessa pedra e finja que você é um carneiro... fecha os olhos, confia em mim... Aí ele pegou a faca. Quando ia descendo, JAVÉ, TÃO GENEROSO, MANDOU UM ANJO SEGURAR A MÃO DE ABRAÃO"; "Isaque morreu perto de 90 anos com todos os traumas... sem entender por que diabos o pai quis matá-lo um dia"; **A CHAVE**: "NA HORA EM QUE O NOSSO AMIGO ABRAÃO DECIDIU MATAR O FILHO, ELE PROMOVEU A MUTAÇÃO NO SEU [DNA] DE SUBMISSÃO A JAVÉ — OU SEJA, JAVÉ JÁ TINHA CONSEGUIDO O QUE QUERIA DO SER HUMANO: A SUBMISSÃO. Então não precisava matar o filho".
+- **[P2023-04-01 · FAUSTO/MEFISTÓFELES]** "'Eu sou bom... eu vou lhe dar conhecimento, mas eu quero sua SUJEIÇÃO... eu vou lhe dar vida eterna, mas eu quero a sua sujeição. E eu vou lhe dar amor, mas eu quero a sua RENDIÇÃO.' **ISSO É JAVÉ. PURO E SIMPLES.** Javé que sempre, até os seres humanos surgirem, só sabia lidar com seres que o obedeciam cegamente... TODOS ESSES SERES... SÃO PARVOS NO CAMPO DA RACIONALIDADE... SÃO DEMENTES. Até que EVA estragou tudo. Na verdade, foi PANDORA antes, mas EVA finalizou o processo" [RC-189 no pacote].
+- **[P2023-04-01 · A RODA DAS ESCOLHAS]** "esse ser maluco... um dia escolheu os hebreus... Aí FALEQUE [STT: 'Faleg'], filho de Éber, disse: 'EU NÃO VOU.' Jogou fora os hebreus... foi atrás de GOMER, outro neto de Noé. Aí escolheu OS ARIANOS, SE APRESENTANDO AGORA COMO BRAMA. Aí lá na frente deu tudo errado... voltou a se apresentar aos descendentes de Éber escolhendo ABRAÃO, fez outro pacto. Aí vem JESUS, não cumpre o que ele queria, ele joga isso tudo fora, escolhe MAOMÉ, escolhe os árabes... NO FINAL ELE COLOCOU TODO MUNDO PARA BRIGAR COM TODO MUNDO" — as 5 escolhas em 4.000 anos; "JAVÉ, O DEUS BÍBLICO, PERDEU O CONTROLE SOBRE OS HUMANOS DESDE A ÉPOCA DE ADÃO E EVA"; o isolamento total ("a decisão de Javé [de Caos]: ele decretou o ISOLAMENTO TOTAL da Terra" — após os Igigis).
+- 0 códigos novos (O-3). Quarentena: teológica (o teste de Abraão rotulado).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

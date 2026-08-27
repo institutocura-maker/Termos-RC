@@ -50,6 +50,12 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **[P2023-05-20 · O ESPÍRITO DE ODIN]** ⚠️ [quarentena biomediúnica] "**O ODIN FOI MORTO NO RAGNAROK. O ESPÍRITO DE ODIN HÁ UNS 20 ANOS ME TRANSMITE NOTÍCIAS.** E eu comecei a tomar nota disso. Tem uns livros que eu comecei a escrever, MAS NÃO VOU TERMINAR, chamado 'A HORA MAIS SOMBRIA QUE AINDA VIRÁ'... é exatamente Odin em espírito dizendo umas coisas... é como se o Ragnarok tivesse a sua parte um, MAS TEM UMA OUTRA PARTE" [a obra inédita no radar — B094].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · MARTE E OS NOVE NÍVEIS — a confirmação]** "Houve uma história anterior em MARTE... há cerca de 300 MILHÕES DE ANOS uma outra confusão. Esta confusão é descrita na mitologia nórdica, quando RAGNAROK teve lugar toda a vida da [Yggdrasil], que eram NOVE NÍVEIS DE REALIDADE que se uniam dentro de um mesmo padrão de intercoexistência... SENDO O SISTEMA SOLAR MARTE DESE UNIVERSO E OITO NÍVEIS DESSE UNIVERSO VIZINHO. RAGNAROK BASICAMENTE DESTRUIU OITO LOCAS OU EONOS do lado de lá E A VIDA QUE EXISTIA NO PLANETA MARTE" (a 3ª fonte — a convergência com a P2023-05-20/B050).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

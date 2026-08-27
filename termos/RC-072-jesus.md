@@ -210,6 +210,13 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2023-04-15 · O COLO — o fecho]** "O ESPÍRITO DE JESUS É UM DESALENTO PROFUNDO, IMPRESSIONANTE. ELE PRECISA DE COLO. E SÓ NÓS HUMANOS PODEMOS CARREGAR ESSE RAPAZ NO COLO. E esse rapaz que eu digo é o espírito de Jesus"; "para que o seu espírito continue a ser ALGUM ESPÍRITO DIGNO DE UM MÍNIMO DE RESPEITO"; a condição: "tem que ser uma ajuda CONSCIENTE... se for inconsciente não funciona... o ser humano não vai pulsar o seu DNA de modo a promover o que precisa ser feito".
 - 0 códigos novos (O-3). Quarentenas: teológica (CRÍTICO — o Messias violento, a crucificação, o Aba, as promessas: os blocos de choque retidos na apostila, a ontologia preservada), clínica.
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O EVANGELHO DE TOMÉ — o logion 2]** "Jesus ressuscitado conversava bastante com seus apóstolos e discípulos... com JUDAS DÍDIMO TOMÉ OU TOMÁS, QUE ERA ALÉM DE IRMÃO CARNAL SEU VIA MARIA, tornou-se um evangelista, só que de um chamado QUINTO EVANGELHO — EVANGELHO DE TOMÉ — que NÃO FOI CONSIDERADO CANÔNICO pela Igreja Católica na altura do século 4"; **O LOGION 2**: "'NA TERRA SÃO POUCOS OS QUE BUSCAM A VERDADE, MAS ESTES ESTRANHAMENTE NÃO DEIXAM NUNCA DE BUSCAR. E DE TANTO BUSCAR, UM DIA IRÃO ENCONTRAR. E QUANDO ENCONTRAREM A VERDADE FICARÃO ESTUPEFATOS. DEPOIS SE EQUILIBRARÃO E OUTRA ETAPA IRÃO REINAR SOBRE O PROCESSO DA VIDA'" + o logion 5: "'PERCEBE O QUE ESTÁ À VISTA, QUE O OCULTO LHE SERÁ ENTÃO EVIDENTE'" [a chave epistemológica da RC!].
+- **[P2023-04-01 · A RELEITURA DA CRUCIFICAÇÃO]** "Os termos da VELHA ALIANÇA exigiam que ele fosse o MESSIAS SUPER VIOLENTO, usasse os seus superpoderes para libertar os judeus da opressão humana, criar o império judeu na terra e assim levar todos os humanos de volta para o controle do Deus bíblico — **POIS ESTE É O ENREDO POR TRÁS DE TODA A BÍBLIA**"; a lista dos patriarcas (Adão, Sete, Enos, Cainã, [Mahalalel], Jarede, Enoque, Matusalém, Lamec, Noé, [Sem], [Arfaxad], Abraão, Isaque, Jacó, até Jesus); **O NÃO**: "'JAVÉ, ABA, ME LIVRA DESSE CÁLICE, ME DEIXE PROPOR UMA NOVA ALIANÇA'... E JESUS ESCUTOU UM NÃO. E Jesus, tendo poderes a simplesmente não se submeter... SE SUBMETEU ÀQUILO PARA TENTAR SENSIBILIZAR o ser chamado Javé, que ele julgava amoroso, digno, justo, decente, perfeito. E SÓ NO OUTRO DIA, PRESO AO MADEIRO DA CRUZ, PERCEBEU QUE ALGO DE MUITO ERRADO NAS CERTEZAS... FICOU ATÔNITO, MAS AGIGANTOU-SE E MORREU COM A DIGNIDADE" ⚠️ quarentena teológica (o bloco de choque retido na apostila; a ontologia preservada).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

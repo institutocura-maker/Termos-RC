@@ -59,6 +59,13 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **[P2023-04-15 · O ORFISMO]** "quem elevou a pessoa de Phanes da condição de um simples modelo à condição de ENTE INDEPENDENTE E SINGULAR FOI O ORFISMO, que surgiu há cerca de 2.700 anos" (as revelações de Dionísio, de Apolo e do próprio Orfeu).
 - 0 códigos novos (O-3). Quarentenas: teológica (a genealogia como ontologia, sem o choque), biomediúnica (a fonte como "fofoca espiritual" do espírito que anima o autor).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O EPÍTETO — "Sofia não é um nome"]** "Quando os humanos vieram a surgir, passaram a chamar esse ser NA LINGUAGEM HEBRAICA DE ROCKMA [Hochmah/Chokmah]. E quando essa história foi conhecida e traduzida pelo conhecimento e cultura helênica, esse ser passou a ser chamado de SOFIA. **SOFIA AQUI NÃO É UM NOME, É UM EPÍTETO — personificação da sabedoria.**" + "esse ser que hoje o Espiritismo chama de CRISTO CÓSMICO, esse ser que o Jesus humano se referia como sendo A FORMA CELESTIAL DELE, que um dia viria à Terra depois do seu tempo de condição humana"; o corpo: "ser biológico como a gente, só que de um tipo de biologia associada a uma genética que veio desse universo vizinho demo... **o tipo de corpo dele é BIODÊMO: não tem sexo, são assexuados, EMOÇÃO ZERO**" [RC-631/RC-093].
+- **[P2023-04-01 · A DECISÃO DOS 19 MUNDOS E OUTLAND]** "a decisão de Sofia, que resolveu ISOLAR EM 19 MUNDOS todos os seres que se contaminaram... a cerca de 700.000 anos atrás"; a reintegração gradual: "com o tempo, os que conseguiam se autocurar... um certo mundo era REINTEGRADO à convivência cósmica e só ficava 16, 15, 14... com o tempo só tinham 10... HÁ CERCA DE 100.000 ANOS ATRÁS, DOS 19 MUNDOS, SÓ DOIS CONTINUAVAM ISOLADOS. HÁ 100.000 ANOS, UM PLANETA CHAMADO **OUTLAND** FINALMENTE FOI REINTEGRADO À CONVIVÊNCIA CÓSMICA. E O ÚLTIMO PLANETA, QUE É A TERRA, RECEBEU O LIXO DOS DOENTES, DOS REBELDES... A TURMA MAIS DOIDA, MAIS MALUCA, MAIS DOENTE, MAIS TEIMOSA... VEIO EM NAVES PARA CÁ E TAMBÉM EM COMBOIO ESPIRITUAL" — **OUTLAND: o nome do penúltimo mundo** (a joia cosmológica da Devolutiva).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

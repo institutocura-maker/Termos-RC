@@ -62,6 +62,12 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2023-04-30 · A CONTRAPARTE DO TERCEIRO PLANO]** o mal DISTRIBUÍDO no DNA de cada ser humano (o plano das trevas que fez da espécie um refém genético — ver RC-414) encontra nesta linhagem a recusa programática: o genoma que não produz submissão — a síntese dos dois blocos desta palestra.
 - 0 códigos novos (O-3). Quarentena: clínica (a anedota da barata), teológica (o atrito com Javé rotulado).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O ROMPIMENTO DOS LACRES — a chave metodológica]** "Do jeito que EVA lá atrás ROMPEU COM UM LACRE que fazia todo mundo meio retardado — ela ao tomar aquela bobagem que PROMETEU havia produzido — NÓS HUMANOS PRECISAMOS MAIS E MAIS ROMPER ESSES LACRES, mas a gente pode fazer isso PELO USO INTELIGENTE DO PROCESSO DE RESPIRAÇÃO ASSOCIADO A ESTADOS MEDITATIVOS E CONTEMPLATIVOS. E AÍ QUE EU PROCURO EXPLICAR NO MENTALMA" [RC-166!]; "quando os seres humanos se tornaram SENHORES DE SI MESMOS, no sentido de poderem sozinhos verificar o que era bem e mal... ESSE SER FICOU LOUCO"; + **O DNA LIXO**: "dos 28.869 genes da gente, SÓ 2, 3% PRODUZ AS PROTEÍNAS... o resto está DESLIGADO. A ciência até um dia chamava de DNA LIXO. MAS NÃO É LIXO... SE ISSO AQUI PRODUZISSE PROTEÍNA, NÓS, OS HUMANOS, NÃO EXISTIRÍAMOS"; FREUD e a barreira ("se algum conteúdo oculto sair do inconsciente e vier para o consciente, O EU HUMANO PIRA"); "TRAVAS, BLOQUEIOS, LACRES impostos no nosso genoma"; "o jogo dessas 800 E POUCAS RECEITAS GENÉTICAS que o eu da gente pode manipular"; "A DOENÇA DO CRIADOR ESTÁ DESATIVADA para dar possibilidade para que seres... encontrem uma forma de superar isso — A GENTE ESTÁ RESOLVENDO O NOSSO PROBLEMA QUE NÃO É NOSSO"; "nós somos as próprias COBAIAS. Pior do que o filme West World. Porque a televisão desliga e a vida da gente não para."
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

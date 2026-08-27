@@ -74,6 +74,12 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **[P2023-07-05 · A AGENDA INTERIOR]** "é você que acontece para a vida com sua agenda interior pronta... ou a vida lhe trata e você apenas reage — **o nome disso chama-se MEDIOCRIDADE EXISTENCIAL**"; **O CÓDIGO DE VALORES SUPREMOS**: "resumi tudo a um só código: **É DIGNO isso que eu tô querendo fazer? Esse impulso é decente para com os meus princípios?**" + o lema: **"defina-se menos, procure mais"** ("quanto menos definido eu estou, menor é minha coleção de certezas") + a jaula do "eu sou".
 - 0 códigos novos (O-3 — os conceitos absorvidos aqui).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O MENTALMA COMO O MÉTODO DO ROMPIMENTO]** "NÓS HUMANOS PRECISAMOS MAIS E MAIS ROMPER ESSES LACRES, mas a gente pode fazer isso PELO USO INTELIGENTE DO PROCESSO DE RESPIRAÇÃO ASSOCIADO A ESTADOS MEDITATIVOS E CONTEMPLATIVOS. **E AÍ QUE EU PROCURO EXPLICAR NO MENTALMA**" — a 2ª ponte direta livro-palestra; a preparação para a reintegração: "TENDO FÉ? Fé aqui não conta. É ESTUDANDO, É REFLETINDO, É SE PACIFICANDO... tentar agir de forma digna"; "nós humanos somos OS AGENTES DA VIDA e nós podemos sim transformar a nós próprios... NÓS SOMOS OS PORTADORES DO CAOS, AINDA QUE EM NOSSOS CORAÇÕES E MENTES AS CHAVES DA FELICIDADE, DA PAZ E DO PROGRESSO E DO CONSERTO DO PRÓPRIO CRIADOR".
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

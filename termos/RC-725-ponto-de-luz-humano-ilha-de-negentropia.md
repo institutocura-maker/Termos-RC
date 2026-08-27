@@ -41,6 +41,12 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[P2023-06-17 · O INCÔMODO CONSCIENCIAL — a absoruição (a Devolutiva O-3)]** "**TEM CONSCIÊNCIA, MAS NÃO SE INCOMODA. Os humanos se incomodam. Por que os divinos não se incomodam** com o caos, com a dor, com criança sendo [violada] a toda hora?... **SÓ QUEM SENTE INCÔMODO CONSCIENCIAL É QUEM É GRANDE — é quem tem um coração que abarca o sofrimento alheio** para com isso se incomodar... **INCÔMODO CONSCIENCIAL É SINAL DE GRANDEZA.** Isso, [o que chamam de] divino, não tem isso" — ⚠️ a cobrança nominal a Krishna e a Jesus ("daqui eu cobro ao próprio irmão e mestre Krishna esse incômodo que ele não tem... como Jesus nunca se incomodou com o sangue de Roma... 'o caminho, a verdade e a vida' — para quê? para quem?") **RETIDA COMO QUARENTENA (a Devolutiva O-7: a leitura crítica do autor-foco, não taxonomia conceitual)**; o CONCEITO absorvido aqui.
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · O ESTRESSE EXTREMO COMO MARCA DA FALÊNCIA]** "Em 2007, quando as primeiras colmeias começaram simplesmente a colapsar... passaram 5 anos estudando... 'não é uma causa só, são diversas causas'... O NOME MAIS BONITO QUE PUDERAM: ESTRESSE EXTREMO... até hoje, ano 2023, as colmeias mais selvagens... a natureza mais intrínseza por trás desse tipo de inseto COLAPOU NA SUA GÊNESE ORGANIZATIVA, OU SEJA, NO MUNDO QUÂNTICO"; "OUTRAS FORMAS DE VIDA SOCIAL, BIOLÓGICA, VÃO COLAPSANDO AOS POUCOS. E VOCÊ SÓ NÃO NOTA QUANDO ISSO ACONTECE COM A ESPÉCIE HUMANA"; **"O ESTRESSE EXTREMO DOS SISTEMAS BIOLÓGICOS E ESPIRITUAIS É A MARCA MAIS EMBLEMÁTICA DA FALÊNCIA DE TUDO QUE FOI FEITO ATÉ HOJE POR ESSES SERES"**; "TODAS AS UTOPIAS QUE NÓS SONHAMOS... DEU TUDO ERRADO... o nome disso é COLAPSO, pessoal. É DISTOPIA."
+- 0 códigos novos (O-3). Quarentena: científica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

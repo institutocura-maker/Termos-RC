@@ -88,6 +88,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2023-04-15 · AS VINDAS REPETIDAS]** "Sofia virá INDEPENDENTE DISSO, porque é só o primeiro passo de um novo processo. E quando Sofia chegar, vai dar beijinhos, vai curar [unha] encravada... NADA DISSO... CHEGAR, TODO MUNDO PERCEBE QUE ELE EXISTE, MAS o rapaz não é bom de papo... AÍ UM BEIJINHO, VOLTA — VAI VOLTAR VÁRIAS VEZES. A HUMANIDADE VAI SE ACOSTUMAR A ISSO."
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
+
+- **[P2023-04-01 · A VINDA NO MEIO DE UMA INVASÃO]** "o contexto atual que a gente vive é onde vários desses seres disputam a suzerania universal, A VINDA DE SOFIA À TERRA PARA QUE DE FATO HAJA REINTEGRAÇÃO DA TERRA À CONVIVÊNCIA CÓSMICA. PODERIA TER SE DADO DENTRO DE UMA ESTRATÉGIA DESSE SER, MAS POR ALGUM MOTIVO ELE NÃO FEZ. ENTÃO AGORA VAI ACONTECER NO MEIO DE UMA INVASÃO"; "a retomada da convivência com esses seres vai ser assim: é um pânico, VAI SER UMA ESTUPEFAÇÃO, COMO JESUS DISSE" [o logion 2 de Tomé!]; "arcontes desse universo vizinho que NÃO ACEITAM que o único desse universo biológico, que é o tal ser chamado Rockma/Sofia, RECEBA A VESTIMENTA DE SUZERANO" (a convergência com a P2023-04-15).
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
