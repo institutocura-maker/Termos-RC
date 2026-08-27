@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-04-15 — Desafio Crucial: O Alinhamento do Espírito de Jesus
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR.** 0 códigos consumidos. Nenhuma ficha tocada. Apostila NÃO iniciada.
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada e APLICADA: **17 fichas ampliadas** (RC-565/009/072/001/104/037/102/467/631/091/047/005/682/736/530/514/529) + **21 vínculos P2023-04-15** + 4 blocos no pacote (RC-135/280/154/016) + notas BIBLIO B022/B024 (edição manual) + apostila + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/`. **⚠️ O ELO PERDIDO (29/04/2023) segue no radar — a solicitar o TXT ao curador.**
 
 ## 1. Identificação
 
