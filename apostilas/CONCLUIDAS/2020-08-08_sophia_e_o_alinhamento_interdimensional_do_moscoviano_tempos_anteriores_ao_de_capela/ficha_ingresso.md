@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2020-08-08 — Sophia e o Alinhamento Interdimensional do Moscoviano: Tempos Anteriores ao de Capela
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 13/13 linhas + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Devolutiva 100% aprovada ("a locomotiva não apenas fez a curva de Agosto, como quebrou a barreira do som") e APLICADA: **7 fichas ampliadas** (RC-395 [o alvo central: a fonte 2020 do Ragnarok em Marte] / RC-543 [o Espelho do Epigenoma embrionário] / RC-009 / RC-453 / RC-036 / RC-442 / RC-443) + **11 vínculos P2020-08-08** + 4 blocos no pacote (RC-444 o bloco biodemo + RC-085 Orbum + RC-396 Friga/Nornes + RC-546 a causação descendente) + notas BIBLIO **B019 ANTEDATADA** (a gênese ao vivo 08/08/2020) + **A REVISTA PLUS ULTRA CADASTRADA** (PER-PLUS-ULTRA — periódico secundário; 98 obras) + B013/B001/B033/B022 + apostila (12 PARTES) + DOCX. **0 códigos — 777/1.856 intactos.** Pasta engavetada em `apostilas/CONCLUIDAS/` (56). **A CORRENTE DE 2020 COMPLETA: 18/04 → 09/05 → 04/07 → 08/08.** A próxima no plano do cluster: 2021 (Ragnarok e Convenções Mentais).
 
 ## 1. Identificação
 
