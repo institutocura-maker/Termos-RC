@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2021-09-04 — Sophia e as Demais Singularidades da Criação
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 11/11 linhas (o megabloco de 95.160 chars — o maior da série) + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Ciclo completo: piloto (`89acdb6`) → Devolutiva (100% aprovada — a B097 "Jesus Niet" oficializada; registrada VERBATIM em `analise/DECISAO-DO-CURADOR.md`) → parte 1/2 (`36839f3`: **10 fichas ampliadas com a tag [A FUNDAÇÃO DE 2021] + 1 bloco-pacote [RC-508] + 11 vínculos + B097 "JESUS NIET" OFICIALIZADA + as crosses B001/B014/B017-B039 + AS ERRATAS [a B095 que duplicava a B015; o código Terra Atlantis corrigido para B017/B018/B039]**) → parte 2/2 (apostila 10 PARTES + Q&A isolado + DOCX + RELATORIO) → engavetamento em `apostilas/CONCLUIDAS/` + push. **0 códigos consumidos — 777/1.856 intactos · 100 OBRAS. O ANO DE 2021 DO CLUSTER CONCLUÍDO (a O-1).**
 
 ## 1. Identificação
 
