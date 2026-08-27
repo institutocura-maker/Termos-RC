@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2021-05-08 — As Convenções Mentais de Sophia
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 15/15 linhas + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Ciclo completo: piloto (`d8c4423`) → Devolutiva (100% aprovada — a Decisão "Morençor"; registrada VERBATIM em `analise/DECISAO-DO-CURADOR.md`) → parte 1/2 (`ddb6729`: **9 fichas ampliadas com a tag [A FUNDAÇÃO DE 2021] + 1 bloco-pacote + 10 vínculos + BIBLIO manual B085/B014**) → parte 2/2 (apostila 11 PARTES + Q&A isolado + DOCX + RELATORIO) → engavetamento em `apostilas/CONCLUIDAS/` + push. **0 códigos consumidos — 777/1.856 intactos. O PLANO DO CLUSTER "2021 RAGNAROK E CONVENÇÕES MENTAIS" COMPLETO.**
 
 ## 1. Identificação
 
