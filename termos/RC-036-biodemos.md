@@ -53,14 +53,23 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[P2021-05-15 · A RETIRADA PÓS-DILUVIANA: A ILHA QUE SE MOVE]** "Porque a essa altura a turma de Alto Langron continuou existindo lá eh nessa ilha que se move em cima do Oceano Atlântico, entre a Irlanda e a Islândia." (U0003)
 - **[P2021-05-15 · ✅ RESOLUÇÃO DO [REVISAR] DA FICHA (Devolutiva O-8 de 28/08/2026)]** A ficha carregava desde P2020-08-08 a grafia «ALTA LANGRON» como protótipo mais avançado dos biodemos. Esta fonte repete a forma («Alto Langron») e lhe dá contexto (a ilha móvel entre Irlanda e Islândia). **Resolução aprovada:** forma correspondente = ALT´LAM GRON (RC-018) / ALT´LAM (RC-017). ⚠️ A equivalência é decisão do Curador, não demonstração fonética; registrar como leitura oficial.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · OS BIODAMOS SÃO ENGENDRADOS EM CASULOS, ASSEXUADOS POR FAMÍLIA]** "os biodemos são seres que foram engendrados em casulos, adoram casulo, adoram ficar em naves, adoram ficar nas suas residências, não gostam de sair por aí nos planetas." (U0006); "cerca de 900 milhões de anos atrás, é, era um top do top do top, ou seja, eh, somilhas demolindo, duas primeiras, né, as consideradas a grande novidade do progresso existencial, mas nenhuma delas, a condição biodêmica, nunca teve percepção que lhes permitisse fixar a atenção com profundidade e perceber as questões." (U0006) — **D-10:** 900 milhões de anos entra como dado oral de 2020 (sem equivalente datado na malha). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3 meses** a atual fonte oral mais antiga da ficha (`P2020-08-08`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · GÊNERO POR FAMÍLIA — O QUE A FONTE DIZ, E ONDE A ASPA FICA]** "A definição de gênero deles é é quase que por família." (U0006) — ⚠️ A fonte tem frase mais dura sobre gênero/sexo; por **D-3** ela **não** entra em ficha (fica na apostila, com nota). Aqui vai só a definição estrutural.
+- **[P2020-04-25 · «15 FORMAS DE biodemo» — DADO DE DICIONÁRIO DESTA FONTE]** "os biodemos são seres que foram engendrados em casulos, adoram casulo, adoram ficar em naves, adoram ficar nas suas residências, não gostam de sair por aí nos planetas." (U0006) — Medição integral em `camada-2.txt`: `biodemo` 19×, mais `biodma`, `biodos`, `biodeno`, `bioderno`, `biodêmos`, `biodérêmico`… e **0** da grafia «biodeemo» que a Base prefere.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
 | A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
 | O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
 | Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+
 
 
 ## Citações-chave

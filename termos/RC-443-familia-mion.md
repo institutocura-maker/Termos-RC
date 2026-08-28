@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.3 Dinastias extraterrestres |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrita nos "Livros de Yel Luzbel" (Jeane Miranda) como **mais antiga que a Família Yel** e protagonista no contato com os demais **Biocoletivos** do universo. Sob a liderança do "Primeiro em Comando", a Família Mion convoca conclaves, pressiona por respostas de Sophia e acolhe Yel Luzbel quando este se desliga da própria família — tornando-se o núcleo do movimento que antecedeu a **Revolta Capelina**.
@@ -48,13 +48,20 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 - **[P2020-08-08 · A FAMÍLIA MION — os guerreiros antigos]** "OS CROMONS, OS MIÕES JÁ TINHAM SIDO CRIADOS ANTES" [as espécies antigas anteriores à fixação em Capela]; "OS MI, ESSE PESSOAL OLHAVA PARA ISSO TUDO E ELES ERAM GUERREIROS, DIFERENTE DOS IELS... E era uma situação confusa" [⚠️ o contraste estrutural guerreiros×apolíneos: os Miões entre as famílias guerreiras que presenciaram o alinhamento de 310 Ma]; "Nessa época [~310 Ma] os vol nem existiam. Os viel, sim. Os CHANLUM [SHANLUNG], sim. Os mi, os prom. Sim, mas val nem existia" [⚠️ a ordem de surgimento: viel/shanlung/mi/prom antes; vol depois — a cronologia das espécies!].
 - 0 códigos novos (O-3). Quarentena: —.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O ELENCO DAS FAMÍLIAS DA TERRA NAS GRAFAS DO STT]** "quase 250.000 famílias biodêmicas que existem até hoje, umas penso que 10, 11, 12, se ferraram nessas confusões todas lá em Antares." (U0006) — **D-7:** nenhum nome de família é corrigido em silêncio; as grafas degradadas vão para o Apêndice da apostila. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3 meses** a atual fonte oral mais antiga da ficha (`P2020-08-08`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | "nascidos coletivamente" (contraste com os Yel) |
 | O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | decide contatar os Biocoletivos |
 | O Início da Revolta Capelina (B058) | Cap. 2 | p. 14–15 (PDF) | conclave da família; confrontar Sophia e Hostes |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 66–68 (PDF) | Primeiro em Comando; processo de desligamento |
+
 
 ## Citações-chave
 > "Enquanto os 'sábios' da Família Yel aguardam as respostas de Sophia para as questões do Primeiro Pesquisador Yel Luzbel, a Família Mion decide entrar em contato com os demais Biocoletivos espalhados pelo universo." — B058, p. 1 (sinopse)

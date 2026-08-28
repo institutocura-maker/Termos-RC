@@ -5,7 +5,7 @@
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Mentalma** é o **método de yoga mental e de emancipação psíquica** criado por Jan Val Ellam para o cotidiano — uma "disciplina de Yoga" que substitui as práticas físicas (asanas) por **"jogos mentais"** baseados em questionamentos sobre os próprios conceitos, crenças e "verdades pessoais". O nome deriva de *Mente* + *Atma* (alma/espírito). É o método central da série paralela às Revelações Cósmicas (5 livros + curso), intimamente ligada ao corpus RC.
@@ -80,14 +80,22 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **[P2023-04-01 · O MENTALMA COMO O MÉTODO DO ROMPIMENTO]** "NÓS HUMANOS PRECISAMOS MAIS E MAIS ROMPER ESSES LACRES, mas a gente pode fazer isso PELO USO INTELIGENTE DO PROCESSO DE RESPIRAÇÃO ASSOCIADO A ESTADOS MEDITATIVOS E CONTEMPLATIVOS. **E AÍ QUE EU PROCURO EXPLICAR NO MENTALMA**" — a 2ª ponte direta livro-palestra; a preparação para a reintegração: "TENDO FÉ? Fé aqui não conta. É ESTUDANDO, É REFLETINDO, É SE PACIFICANDO... tentar agir de forma digna"; "nós humanos somos OS AGENTES DA VIDA e nós podemos sim transformar a nós próprios... NÓS SOMOS OS PORTADORES DO CAOS, AINDA QUE EM NOSSOS CORAÇÕES E MENTES AS CHAVES DA FELICIDADE, DA PAZ E DO PROGRESSO E DO CONSERTO DO PRÓPRIO CRIADOR".
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O 8º MÓDULO **NÃO** MINISTRADO: «EU SÓ VOU DAR CINCO, TALVEZ SEIS»]** "eu só vou dar cinco, talvez seis, no máximo, certo, mas nunca oito." (U0006); "Mentalma, eu fui percebendo quão natural é essa coisa de um espírito que tá lá na esfera X, ele pensa em você, as duas mentes entram em sintonia, ainda que o seu psiquismo de Rogério esteja vendo um jogo de futebol." (U0006) — A estrutura 6+1+1 tem antecedente **datado** em 2020. ⚠️ Medição: «Mentalma» = **1** ocorrência no bruto — esta ficha não pode claims maiores que a fonte. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A INTERCOMUNICAÇÃO NÃO LOCAL COMO O MÓDULO RETIDO]** "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006); "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção (fonte original) |
 | Mentalma I (B074) | Advertência; Cap. 1–2 | pp. 11–12, 26 (PDF) | definição do método |
 | Mentalma II (B075) | Cap. 1 | — | aprofundamento |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 ## Citações-chave
 > "Criei o Mentalma como sendo o meu método de nada reafirmar, questionando todas as minhas 'certezas sinápticas'... O Mentalma questiona e recria, assegurando novas possibilidades." — B074, p. 11

@@ -36,11 +36,18 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 - **[P2021-05-15 · O CRÂNIO COMO INVÓLUCRO DO QUE IMPORTA]** "Muitos, muitas coisas importantes, mas talvez a principal seja o fato de ter crânio, pois que o crânio protege o que fica dentro dele, que é o mais importante." (U0003)
 - **[P2021-05-15 · O DIAGNÓSTICO DO ESTACIONAMENTO]** "Porque os humanos estacionaram." (U0003)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A TRAVA GENÉTICA COMO DISPOSITIVO DE CONTENÇÃO (uso datado de 2020)]** "travas genéticas de controle que eles haviam colocado." (U0006); "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U1646–U1688 | aula/palestra STT |
+
 
 
 ## Citações-chave

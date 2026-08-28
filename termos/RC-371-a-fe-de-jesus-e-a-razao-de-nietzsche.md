@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.6 Ética / Carma / Compromissos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O contraste e o choque entre a **fé de Jesus** e a **razão de Nietzsche** — o capítulo 11 do B049: enquanto Jesus encarna a fé amorosa e o "amai-vos uns aos outros", Nietzsche representa a razão crítica que desmonta os ídolos e a moral institucionalizada. O capítulo 12 aprofunda: "O Choque entre a Fé e a Razão de Jesus, que Nietzsche não Viu" — Ellam aponta que o filósofo não percebeu a dimensão cósmica da intenção de Jesus.
@@ -23,10 +23,17 @@ O B049 explora a dialética fé × razão como complementares: a fé de Jesus (a
 - **[B049 p. 115]** cap. 11: «A fé, efetivamente, “move montanhas”, mas a “vontade de potência” também»; Jesus nasceu «enjaulado» na crença do povo e mediu o mundo pela fé das escrituras, não pela razão; Nietzsche «passou longe» de perceber o problema das origens.
 - **[B049 p. 122–123]** cap. 12: o «homem Jesus» nasceu subjugado por um «plano de fora»; a razão filosófica impediu o aprisionamento total no papel de Messias dominador; fé da família / apóstolos / povo / Javé × razão que encaminha à cruz. «Egos adoecidos» (p. 115) = **clínica**. Sem fusão com B001 / B014. RC-372 permanece **sem ficha**.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · «NIETS» NA BOCA DA FONTE: A ABREVIAÇÃO E O REFERENTE]** "Niets dizia que quando você olha olha para um abismo, tanto você olhar para o abismo durante um bom tempo, esse abismo termina olhando para você." (U0006); "Então eu tô tentando dizer para vocês que nós, os seres humanos, somos o abismo paraa Javela." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B049`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Jesus e Nietzsche (B049) | caps. 11–12 | pp. 165–190 (aprox.) | capítulos dedicados |
+
 
 ## Citações-chave
 > *(A inserir — transcrição literal dos caps. 11–12 na revisão.)* — B049

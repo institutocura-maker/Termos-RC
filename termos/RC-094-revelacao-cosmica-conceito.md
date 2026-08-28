@@ -56,12 +56,20 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 
 - **[P2023-10-14 · OS POSTULADOS DA REVELAÇÃO CÓSMICA COMO ÚNICA VIA DE COMPREENSÃO]** "Os anunx estão tomando o seu nível de estão tornando, desculpa, o seu nível de compreensão mais razoável sobre o universo vizinho e seus habitantes através dos postulados da revelação cósmica." (U0036)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A INTELIGÊNCIA ARTIFICIAL COMO O ABISMO DOS DEUSES HOJE]** "o que é hoje o grande abismo para esses seres é a turma do IA." (U0006); "É o IA, é a revelação cósmica." (U0006) — **D-11:** é a menção mais antiga do acervo à IA nesse papel; fecha o radar **sem** criar peça fantasma e **sem** obra. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O CENÁRIO DA «INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA»]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Revelação Cósmica" |
 | Painéis Emergentes... (B031) | Introdução (O que é a Revelação Cósmica) | — | capítulo do livro |
+
 
 
 ## Citações-chave

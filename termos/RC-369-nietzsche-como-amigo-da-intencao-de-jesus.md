@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A tese central de *Jesus e Nietzsche* (B049): **Friedrich Nietzsche como um "agente", uma espécie de "amigo da intenção de Jesus"** — "quando colocou em dúvida, sem se preocupar em corrigir, um pouco do que foi equivocadamente distorcido do legado do Messias, ainda que entronizado como 'verdade eterna'... entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias".
@@ -24,10 +24,17 @@ O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jes
 - **[B049 p. 104–106]** cap. 10: nenhum dos dois se descaracterizou; parceria nas «entrelinhas»; Nietzsche põe à prova os valores cristãos que regem o «rebanho» — sem os quais o humano não se torna o «agente da vida» que o universo necessita.
 - **[B049 p. 186–187]** posfácio: Nietzsche «sempre elevou o “homem Jesus” à conta do único cristão decente»; Ellam afirma que Jesus, em espírito, «já leu» Nietzsche. Cap. 14 (Edimburgo) **fora**. Sem fusão com B011 / B043. RC-370 / RC-372 permanecem **sem ficha**.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A MÁXIMA DO ABISMO USADA COMO MÉTODO E DESLITERALIZADA PELO AUTOR]** "Niets dizia que quando você olha olha para um abismo, tanto você olhar para o abismo durante um bom tempo, esse abismo termina olhando para você." (U0006); "O abismo é metafórico, não é literal, não é ainda que Niet tenha falado aparentemente como se fosse literal, mas eu não tenho expressão intelectual para comentar a linguagem alemã, mas a impressão que eu tenho que Nit falou no sentido metafórico eh não era só um abismo como um acidente geográfico geológico, hipótese alguma, a coisa era mais profunda." (U0006) — A fonte **nega** a leitura literal («O abismo é metafórico, não é literal») e depois a **materializa** no plano cosmológico: as duas aspas precisam viver juntas na ficha. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **4.5 anos** a atual fonte oral mais antiga da ficha (`P2024-11-09`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Jesus e Nietzsche (B049) | caps. 10–14 | pp. 150–220 (aprox.) | tese central |
+
 
 ## Citações-chave
 > "Pude constatar que, entre Jesus e Nietzsche, parecia existir a mais estranha das parcerias, por mim percebida nas entrelinhas dos fatos, ainda que a mesma possa parecer curiosa por força do corajoso antagonismo que o filósofo assumiu frente aos equívocos dos 'donos do legado' do Messias." — B049, cap. 10

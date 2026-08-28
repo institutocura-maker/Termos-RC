@@ -69,3 +69,10 @@
 - **[P2023-10-14 · A VARIANTE DATADA DA FÓRMULA (D-8a)]** "Se o bem virar bicho para destruir o mal, não é o bem." (U0071); "Então o bem não ganha." (U0071) — Registrada como variante de 2023; a fórmula canônica permanece a da Base.
 
 ---
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O EU ALIMENTADO, NÃO O EU TODO-PODEROSO]** "esse eu de Jaé, ele é um eu alimentado até hoje pelo processador B." (U0006) — A falência dos deuses lida em 2020 como **problema de manutenção**, não como drama moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A FÓRMULA DE GRAU DE TESTEMUNHO ACOMPANHA ESTA FICHA]** "pelo que eu julgo, entre aspas, saber, pelo que o espírito que me anima pensa que sabe há muito tempo, isso é real." (U0006) — Obrigatória onde esta fonte sustentar afirmação sobre o estado do criador (D-4).
+
+---

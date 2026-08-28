@@ -37,11 +37,19 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 - **[P2023-10-14 · A VARIANTE DITADA PELA FONTE (D-8a: variante, não substituição)]** "Por o bem não destrói o mal sob pena de se tornar igual a ele." (U0071); "O bem perde sempre para continuar sendo bem, senão ele se desconfigura." (U0071) — ⚠️ A redação canônica da Base fica **intocada** (decisão D-8a do Curador): o que se registra aqui é a **variante oral de 14/10/2023**.
 - **[P2023-10-14 · A AUSÊNCIA DE REPRESENTAÇÃO DO BEM]** "Nada que existe na Terra representa o bem, a não ser uma pessoa que o produza." (U0071)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · CONFIANÇA ZERO NO EU DO CRIADOR, EM 2020]** "Esse eu de Jahvel para mim é zero o padrão de confiança que eu tenho nessa figura." (U0006) — 🆕 A formulação mais dura da Base sobre o eu de Javé ganha antecedente **oral de 25/04/2020** — anterioridade calculada, não alegada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O EU QUE PRECISA DE HOSPEDAGEM]** "hospedagem corporal, precisa desenvolver um psiquismo a partir de um cérebro onde ele possa hospedar esse eu dele na sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006); "O vírus é o eu de Jahrado, desagregado." (U0006)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | As Memórias de Javé (B036) | Primeira Crônica | pp. 10–15 (aprox.) | autoconfissão |
+
 
 
 ## Citações-chave

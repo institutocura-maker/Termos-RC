@@ -44,12 +44,20 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2021-05-15 · A ENTROPIA COMO POLÍTICA DOS DEUSES (o medo de 49.000 anos atrás)]** "essa coisa de hoje, hoje que eu digo nos últimos tempos, nos últimos 10 anos, eles se perguntarem se o que fez para garantir que com entropia funcionando, o ser humano viva pouco, já que na época ele tinha medo, eles tinham medo de que se isso pode ser revertido ou se algum tipo de CPH, sabe sei lá o quê, a ser adicionado." (U0003)
 - **[P2021-05-15 · ⚠️ «NÃO HÁ PLANO B» (restrito à citação, por decisão do Curador)]** "Então não há plano B." (U0016) — A fórmula permanece como citação de U0016 nesta ficha e na apostila — não vira epígrafe nem síntese de doutrina (Devolutiva O-5).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · TAMAS = ENTROPIA = ENERGIA ESCURA = SELO DE QUE A CRIAÇÃO NÃO DEVERIA TER COMEÇADO]** "energia tamásica é o selo de garantia de que essa criação dia se acaba porque ela não deveria ter sido começado." (U0009) — Identidade tripla afirmada pela fonte; é a definição operacional de entropia **deste** período. Não harmonizar com a formulação dos livros. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O BIG CRUNCH DO UNIVERSO VIZINHO (a física de borda)]** "a expansão virou uma um big crush, voltou a ir pro seu tempo inicial, que promove um tempo negativo." (U0009); "buraco de minhoca e saber interagir com ele e produzir uma nova matéria um tipo novo Bos de Higs que crie uma matéria que até então não existia com uma certa massa que permita você interagir e trabalhar uma uma transmissão de informação que cria um novo corpo e projeta o seu código genético numa época X." (U0009) — ⚠️ Quarentena científica (retenção): cosmologia especulativa contada como fato; entra como dito, sem virar verbete de física.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 14 | pp. 101–104 (aprox.) | capítulo inteiro |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 | p. 37 (aprox.) | "selo de garantia" |
+
 
 
 ## Citações-chave

@@ -61,12 +61,20 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[P2021-05-15 · O ISOLAMENTO COMO VANTAGEM DECLARADA]** "Ou criticando loucamente ou mas de alguma forma nós estamos em em evidência para esses estranhamente era para estarmos também já para terra, mas A permanência do isolamento faz com que nós continuemos desconhecidos e tem as suas vantagens." (U0016)
 - **[P2021-05-15 · OS QUE ESPERAM O FIM DO ISOLAMENTO PARA PEGAR UMA FATIA]** "E porque as outras civilizações que existem aqui nesse nosso universo biológico não tem força representativa nem em mar, nem na lua, nem aqui, nem em lugar algum para fazer nada, estão por aqui como piratas cósmicos, como Figuras que também participaram de hibridagens lá atrás se sentem vinculadas ao progresso humano e estão esperando ver como é que acaba essa zorra aqui do isolamento terrestre para pegar uma fatia disso ou daquilo, mas não são importantes no sentido de terem influenciado." (U0003) — ⚠️ quarentena ufológica.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A TERRA COMO **ÚNICO** PLANETA REBELDE]** "deixou a Terra como o único planeta rebelde." (U0006) — ⚠️ A expressão «isolamento cósmico» tem **0** ocorrências nesta fonte (**medição**, não impressão): a ficha recebe o *conceito com dado próprio*, não a etiqueta. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O QG TELETRANSPORTADO E O «PRISIONEIRO ISOLADO» (64 mil anos)]** "Há cerca de 64.000 anos, o quartel general da rebelião se teletransportou para alguma dimensão, ficou lá prisioneiro isolado." (U0006) — **Inédito na Base**: nem B057 nem as fichas do tema trazem esse episódio. Entra **datado**, sem harmonizar com os 98 mil da obra.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 137 (aprox.) | verbete "Isolamento Cósmico" |
 | Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
+
 
 
 ## Citações-chave

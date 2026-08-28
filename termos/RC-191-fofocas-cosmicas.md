@@ -32,13 +32,21 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 - **[P2023-10-14 · O LIMITE ÉTICO QUE ELE MESMO SE IMPÕE]** "Segundo eu postar errado naquilo que eu percebi e trouxe Então assim, eu não sou dono de nenhuma verdade, mas às vezes a justiça humana não descobre uma coisa e lá na espiritualidade tudo é muito claro." (U0081) — ⭐⭐ A autodeclaração de **grau de testemunho** da fonte: saber sem poder usar. Deve acompanhar qualquer citação desta ficha.
 - **[P2023-10-14 · A NEGAÇÃO DA FACULDADE DE PERCEBER]** "Eu não, eu eu não tenho essa capacidade de perceber." (U0076)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O GRAU DE TESTEMUNHO DA FONTE, 3,5 ANOS ANTES DA FÓRMULA DE 2023]** "pelo que eu julgo, entre aspas, saber, pelo que o espírito que me anima pensa que sabe há muito tempo, isso é real." (U0006) — **D-4 autoriza e determina**: é a única peça biográfica que transita. A fórmula «pelo que eu julgo, entre aspas, saber» carimba a **procedência** do relato, nunca a veracidade. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O QUE OS MÉDIUNS PERGUNTARAM (contexto de produção)]** "o que eu mais recebi desse ser através de médiuns diversos dos anos 2009, 2011, é que eu deveria confiar cegamente nele." (U0006)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | B044 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
 | P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

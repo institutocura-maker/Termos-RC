@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.3 Dispositivos / Instrumentos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Dispositivos psíquico-tecnológicos que **conectam todos os integrantes de cada família capelina** (o "Processador Yel", os "Processadores" da família Mion etc.), criados por **Sophia** junto com os próprios biodemos. Servem para comunicação, armazenamento e coesão do coletivo familiar; desligar-se do Processador equivale a deixar de existir "como ser coletivo" — e, segundo suspeita revelada no Livro 2, Sophia e suas Hostes poderiam acessá-los. (Narrativa psicografada de Jeane Miranda — conceito análogo ao "Processador Val", RC-089, das obras primárias.)
@@ -37,12 +37,19 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - **[B058 p. 70]** o desligamento de Yel: "**Jamais alguém havia abdicado da sua função ou sequer se desligado do 'Processador' da sua 'família'!**"
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O ÚNICO PROCESSADOR QUE SOBREVIVEU ÀS GUERRAS]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B057`, `B058`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | cada família possuía o seu próprio Processador |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 67 (PDF) | desligar-se do Processador = deixar de ser ser coletivo |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 68 (PDF) | Sophia criou todos os Processadores |
+
 
 ## Citações-chave
 > "Cada família capelina possuía o seu próprio 'Processador'. A nossa família Yel foi urdida há cerca de 492 milhões de anos... todos mantinham registados em si próprios os genes que nos definiam como família." — B057, p. 15

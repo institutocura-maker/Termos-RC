@@ -32,13 +32,20 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 - **[P2021-05-15 · A ORIGEM HISTÓRICA DO COLÉGIO (a lacuna que a ficha tinha)]** "Quando os toatas de Nanã entregaram isso pros milesianos, É como se eles estivessem pedindo ajuda para resolver um problema milenar, né, que eles tinham." (U0003); "E foi daqui que surgiu um colégio druídico." (U0003)
 - **[P2021-05-15 · O QUE FOI ENTREGUE AOS MILESIANOS]** "Então esse essa turma aqui tinha muita informação, inclusive sobre CPH4, os dramas de todo mundo que fez testes e a coisa não se não expandiu." (U0003)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A ESCOLA DA DECIFRAÇÃO JÁ OPERANDO EM 2020, COM DATAÇÃO PRÓPRIA]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006); "os anjos chegavam para aparecem no contexto dos livros mais antigos dizendo, mas eles os a nossa criatura superior a nós?" (U0006) — A fórmula do «decifrar» vem com contagem («3–4 milhões de anos; substanciada há ~2 milhões») — selo temporal D-10. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-06-14 | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
 
 
 ## Citação-chave

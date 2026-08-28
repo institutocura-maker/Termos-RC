@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Projeção de múltiplos eus ou identidades sustentados por um mesmo espírito ancestral em diferentes níveis, corpos ou avatares.
@@ -53,11 +53,19 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 - **A analogia do jogo de computador (U0216–U0218):** "nós humanos aproveitaríamos o espaço virtual de um computador, criar um jogo e pegar os nossos 28.869 genes, jogar nesse jogo para ver o tipo de ser que dá" [quarentena — analogia do autor].
 - **O Gênero Adhy como o mais fatiado (U0396–U0398):** "esses 147 seres compõem um dos gêneros que mais apresenta índice de fatiamento de consciência em relação à consciência ancestral... é aquele que tem mais desdobramento do que a gente chama de fatiamento de consciência; o percentual de seres fatiados é pequeno nesse contexto, mas o pequeno aí não é tão diminuto assim devido às suas radiações, aos seus desdobramentos, entrelaçamentos".
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · «O ASSUNTO MAIS SÉRIO» — o peso que a fonte dá ao fatiamento]** "esse fatiamento de consciência é o assunto mais sério de tudo que eu tenho falado até hoje." (U0009); "A Solange Silva pergunta: «O Brama Loca e o Buloca estão vinculados a uma mente coletiva?»" (U0009) — Definição por pergunta (Solange Silva, U0009): o ciclo registra que o conceito foi **provocado**, não exposto em bloco. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O ERRO DE «para BRAGINA» [REVISAR: hipótese Parabrahman]]** "erro que para Bragina cometeu, que é o ser que caiu na criação e o resto dele que foi reconstruído, é que a gente chama de javé, o erro de para brágina tem a ver com o fatiamento ou o modo do fatiamento que houve no seu próprio espírito, que é o qual a gente já falou, é o mesmo de Virgo, Sofia, Javé e Jesus é o Espírito Santo." (U0009) — **D-7:** hipótese documentada, fusão recusada. O trecho é a ponte entre fatiamento e o eu reconstruído de Javé.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0187–U0201; U0212–U0243; U0361–U0368 | STT pré-curado e validado |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+
 
 ## Citações-chave
 > “O mesmo espírito fica tomando conta dos dois. Aqui surge o fatiamento de consciência.” — P2021-12-04, U0187–U0201; U0212–U0243; U0361–U0368

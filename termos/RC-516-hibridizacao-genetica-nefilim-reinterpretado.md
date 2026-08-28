@@ -33,13 +33,20 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 - **[P2023-10-14 · OS TESTES COM CASAIS DE HOMINÍDIOS]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033); "Então os anunx além de se sentirem donos da terra, Porque construíram o primeiro Centro de Controle da Emissão a cerca de 440.000 anos atrás e começaram a fazer teste de manipulação genética assim que laboratórios puderam ser construídos por eles aqui na Terra." (U0005)
 - **[P2023-10-14 · A PANDORA COMO CONTRAPROGRAMA]** "O gene de Henk e a revolução de metamorfose que Pandora fez no próprio genoma quando se transformou numa fêmea racional." (U0009) — [REVISAR: «Henk» — ver RC-486 e o item 2 da devolutiva.]
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · AS TRAVAS COLOCADAS PELAS DIVINDADES E A RUPTURA DELAS PELA EVOLUÇÃO]** "travas genéticas de controle que eles haviam colocado." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (dinastias — desobediência); bloco 5 (dilúvio) | palestra/STT pré-curada |
+
 
 
 

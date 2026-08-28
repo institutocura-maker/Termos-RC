@@ -121,11 +121,18 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2021-05-15 · A LINHAGEM DE PANDORA COMO A MAIS PRÓXIMA DE SOFIA]** "Então, quando Pandora resolveu fazer uma metamorfose que ela nunca tinha feito, que foi exatamente de assumir como sendo a sua próxima cara, a de um rosto humano, porque ela amava os humanos, os animais de Primeteu, e como Efestos tinha dado paraa Pandora essa transição de fase que só ela tinha, os demos podem ser o que eles quiserem no padrão do que o genoma deles permit." (U0006) — ⚠️ RETIRADA: «os manipulados por Pandora são os seres mais próximos de Sofia» não ocorre nesta fonte; a proximidade com Sofia fica como leitura da camada-3, não como citação.
 - **[P2021-05-15 · A AUSÊNCIA DE ESCÂNDALO NA MISTURA]** "Primeiro que a pamixia ela não Não, não, não existia escândalo com isso." (U0003) — ⚠️ [TEXTO CORROMPIDO no STT: «a Pamixia ela não Não, não, não existia escândalo»] — preservar, não normalizar.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · CONTROLE, SERVIDÃO E O QUE A BIODEMIZAÇÃO ALTEROU]** "travas genéticas de controle que eles haviam colocado." (U0006); "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008) · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-11-09 | U1218–U1270 | palestra/STT |
+
 
 
 ## Relações centrais

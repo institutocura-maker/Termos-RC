@@ -291,9 +291,16 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2023-10-14 · A SUZERANIA E A DATAÇÃO DO ENGENDRAMENTO]** "E aqui só tem um suzerano construído ou engendrado para isso que foi Sofia, que foi construído ou engendrado há 6 bilhões de anos atrás." (U0033); "Aí aqui tem Sofia o Rockman." (U0033)
 - **[P2023-10-14 · O PAI DE JESUS E O ELOGIO DA AUSÊNCIA]** "Ou seja, Sofia era pai de Jesus." (U0033); "Era para Sofia ter entrado com nos anulxos também não fez nada." (U0033)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · SOFIA: A RAINHA QUE **NÃO QUIS** SER RAINHA — E O ANO 2018]** "Sofia pass Passou o ano 2018, basicamente quase todo em Alto Landrão, ou seja, aqui na Terra com esses seres." (U0006); "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **Fechamento pedido pela devolutiva (D-10):** a decisão de 2018 em Alto Langron é *formulação oral datada*; não se transforma em cronologia canônica da Sophia. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2020-04-25 · A NOVA FAMÍLIA COMO ATO DE DECÊNCIA]** "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 143 (aprox.) | verbete "Sophia" |
@@ -301,6 +308,7 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 
 

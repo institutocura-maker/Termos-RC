@@ -301,13 +301,21 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2023-10-14 · O GETSÊMANI E A RECUSA DOS PODERES COMO QUESTÃO DE HONRA]** "E Jesus na quinta-feira antes de ser crucificado na sexta, disse: «Javé, me livre desse cálice.»" (U0033); "E não use os seus poderes para escapar da crucificação, que seria deshonroso para você." (U0033) — ⭐⭐ É o ponto exato em que o tema do título (honra) toca a cristologia da fonte.
 - **[P2023-10-14 · O REINO NÃO DESSE MUNDO E O «FEZ DE TUDO E NADA»]** "Diz: «Meu reino não é desse mundo.»" (U0033); "Fez de tudo e nada." (U0033)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A RECUSA DO PODER LIDA COMO PRODUTO DA GENÉTICA INSERIDA]** "Ele entrou em guerra com Jesus até um tempo atrás que ele não aceitava o modelo genético que Jesus criou." (U0006) — ⚠️ Quarentena teológica (retenção): entra com rótulo, e o ciclo **não** a projeta sobre nenhuma tradição viva. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **14 dias** a atual fonte oral mais antiga da ficha (`P2020-05-09`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O QUE A FONTE ESTÁ ESCREVENDO SOBRE JAVÉ (radar, 0 obra)]** "Tô traduzindo uns três ou quatro evangelhos gnósticos para poder explicar isso melhor." (U0006) — **D-11:** «três ou quatro evangelhos gnósticos» e o livro escrito com o próprio Javé vão para o **radar de fila**, sem registro bibliográfico.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | B031 | — | obra publicada |
 | P2023-05-13 | seções 3.2, 4.2, 9.4; bloco do "reinar sobre o processo" | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

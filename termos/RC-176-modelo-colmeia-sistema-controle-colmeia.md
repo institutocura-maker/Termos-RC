@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 É o **modus operandi existencial** implementado por Javé: o modelo da **"mente coletiva" sob o seu controle**, no qual o Criador ("Abelha-Rainha") ocupa o topo e todas as demais criaturas — "operárias" — existem para servir e alimentar a rainha, sem liberdade ou conveniência próprias (B044, caps. 1, 11). Os humanos romperam o "lacre" do sistema de controle — o "modelo colmeia" — para poderem evoluir, mas ainda não o realizaram como deveriam (cap. 7).
@@ -31,10 +31,18 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 - **[B044 p. 86]** primeiro modelo existencial de Javé com os anjos-clones = “mente coletiva” sob o seu controle; com o homem, a liberdade passou a ser essencial.
 - **[B044 p. 104]** o “controle colmeia” foi completamente “destravado” pelos humanos terrestres. RC-180 permanece **sem ficha**.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A CHAVE DE LEITURA CONFESSADA PELO AUTOR (Dante)]** "Divina Commeia para poder entender como é que uma abelha rainha lida com as abelhas operárias, né?" (U0008) — **D-12:** a obra citada entra como **nota externa** — 0 obras novas; a grafia do bruto é «Divina Commeia». · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O MODELO COLMEIA APLICADO À ESPÉCIE]** "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008); "a chamada última espécie do universo, que que eu chamo no livro Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Divina Colmeia (B044) | caps. 1, 2, 7, 11, 14 | pp. 20–22, 62, 86–87, 104–105 | termo central |
+
 
 ## Citações-chave
 > "O primeiro modelo existencial implementado pela mente de Javé, envolvendo ele próprio e os seus anjos-clones, foi o da 'mente coletiva', só que sob o seu controle." — B044, cap. 11

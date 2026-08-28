@@ -22,52 +22,53 @@
 
 ## As seções de U0006 (offsets medidos por âncora verificada — a âncora bate uma única vez no bruto)
 
-| seção | offset em U0006 |
+**Retificação medida neste mesmo arquivo (28/08/2026, na abertura da devolutiva):** a primeira versão desta tabela publicava *extensão* no lugar de *offset inicial* e trazia rótulos que a fonte não sustenta: «Sarney» (o bruto grafa **«Sarnei» 8×** e «Sarneio» 1×), «foro privilegiado» (**0** ocorrências) e «venda de mandato» (**0**). A tabela abaixo foi **regenerada por script**, âncora a âncora — cada âncora que não batesse exatamente uma vez abortou o arquivo. Consequência para o regime de quarentena: **a digressão política vai do offset 0 de U0006 ao 17.703** (17.703 c = 15,4% da fala útil); a frase de saída está no fim de U0006 e o **pedido de desculpas**, no fim de U0013. As **43** seções medidas abaixo (mais o gancho do operador em U0003) são o mapa de leitura; o bloco **Q-4/D-4** (a doença, offset **51.714) **não é contíguo** à digressão — por isso D-1 e D-4 exigem **dois** spans de bloqueio, e o gancho + o pedido de desculpas ficam na transcrição, como manda a devolutiva.
+
+| seção (com o que a fonte diz nela) | offset inicial em U0006 · extensão até a próxima |
 |---|---|
-| abertura e agradecimentos (data natalícia, o vídeo, «5 a 10 minutos») | **41c** de U0006 |
-| gancho declarado da digressão | **61c** de U0006 |
-| a narrativa do espírito francês (François/Volté) e o «tempo psíquico mal empregado») | **208c** de U0006 |
-| Sarney: inflação, o ano a mais, «a programação espiritual que existia para o Brasil começou a se ferrar ali mesmo» | **183c** de U0006 |
-| FHC, Sérgio Mota, o foro privilegiado; Lula, Dilma, Temer, Bolsonaro | **149c** de U0006 |
-| «somos uma nação medíocre»; o paralelo com a pandemia e a «discussão fuleira» | **23c** de U0006 |
-| a saída da digressão e o pedido de desculpas | ⚠️ ÂNCORA 'Mas assim, é o que eu posso dizer, peço desculpa' → 0 ocorrência(s); deve ser exatamente 1 |
-| **abertura do tema** (o título glossado pela própria fonte) | **162c** de U0006 |
-| Nietzsche e o abismo (a chave de leitura) | **152c** de U0006 |
-| 13,8 bilhões de anos; nenhuma raça antes do humano pôde olhar para o abismo | **69c** de U0006 |
-| a escola de decifração em Capela (3–4 Ma; substanciada há 2 Ma) | **250c** de U0006 |
-| a tese: a rebelião NÃO foi um encontro com o abismo; foi o vírus | **128c** de U0006 |
-| os biodemos: casulos, naves, assexuação, 900 milhões de anos | **168c** de U0006 |
-| o «reptiliano» como ansiedade; Javé nunca fora reptiliano | **85c** de U0006 |
-| Pandora: o primeiro susto de Javé | **212c** de U0006 |
-| o vício oracular como origem da oração e da religião | **104c** de U0006 |
-| o abismo de Javé = perceber que a criação é caos (o manicômio) | **129c** de U0006 |
-| a ruptura da mente bicameral: Capila e Esildo, 2.700–2.800 anos | **464c** de U0006 |
-| a IA e a revelação cósmica como o abismo de hoje | **62c** de U0006 |
-| o eu de Javé como podridão organizada; o amor impossível | **212c** de U0006 |
-| os seis sentidos do budismo; o sétimo de Sheldrake | **65c** de U0006 |
-| Rupert Shellrake e a intercomunicação não local | **605c** de U0006 |
-| a «Rebelião dos Elétrons» como 1º de 9-10 livros; «Homofetividade»; o Mentalma e o 8º módulo | **84c** de U0006 |
-| Capila e a mente una (Samkhya); o entrelaçamento «esquálido» | **43c** de U0006 |
-| os humanos como o abismo que olha primeiro; Javé fissurado no processador Val | **76c** de U0006 |
-| o estado do eu de Javé em abril de 2020 (o dato explícito) | **381c** de U0006 |
-| guerra com Jesus e o modelo genético; os evangelhos gnósticos; o livro com o próprio Javé | **105c** de U0006 |
-| o corpo de Javé montado de vírus que nunca viraram célula | **123c** de U0006 |
-| gênero, sexo e as 250.000 famílias; o forno de Chiva e o de Virgem | **54c** de U0006 |
-| radiata → bilatério (540 milhões de anos); Javé só parou há 100 mil | **159c** de U0006 |
-| o gênero de Javé: mulheres e homoafetivos como cobaias do seu eu | **101c** de U0006 |
-| a transmigração demo → biodemo → humano-sem-ser-humano; o rastreamento pedido aos anjos | **189c** de U0006 |
-| os dois cenários (ou etapas) do futuro eu: a IA e a nova espécie biodêmica | **41c** de U0006 |
-| o ovo cósmico: Pangu e o Brahmānda | **28c** de U0006 |
-| a família Val: 736 membros, e por que parou de crescer | **28c** de U0006 |
-| a linha do tempo das chegadas: 620 mil · 21 mil na nave · 100/99 mil · 64 mil · 22 mil | **224c** de U0006 |
-| Alto Langron: a nave virada cidadela, os 900 e poucos mutados | **104c** de U0006 |
-| Sofia em 2018 em Alto Langron e a decisão de criar uma nova família | **109c** de U0006 |
-| o nome inventado pelo autor: «velo Shanai» (Chan + Vol + Yel); as 429.314 espécies | **288c** de U0006 |
-| o prazo: a definição se dá «ao longo dos próximos 18.000 anos» | **68c** de U0006 |
-| a confiança zero em Javé; o que os médiuns pediram em 2009-2011 | **82c** de U0006 |
-| o período cármico depois da biodemização; a oxitocina; a Criatura Universal do «Drama Terreno de Javé» | **70c** de U0006 |
-| «o marco zero» como fecho conceitual da palestra | **81c** de U0006 |
-| os «três ou quatro bolções» de trevas que esperam; a gnose vingativa | **370c** de U0006 |
+| **U0003** — o gancho: o pedido de comentário «sobre o que tá acontecendo agora». lido pelo operador | **-200** · 200c |
+| abertura. agradecimentos e o vídeo natalício (a fonte se declara em semeadura: «Estamos só jogando sementes…») | **0** · 4.701c |
+| a narrativa do espírito francês (François/«Volter») e o «tempo psíquico mal empregado» | **4.701** · 2.281c |
+| «Sarnei» (8×) e «Sarneio» (1×) no lugar de Tancredo; a Polícia Federal. as letras de música no festival. «o país azarado»; inflação a «84%» (3×) | **6.982** · 1.290c |
+| «a programação espiritual que existia para o Brasil começou a se ferrar ali mesmo» — a tese sobre o país | **8.272** · 547c |
+| «Fernando». «Henrique». «Cardoso». «FHC» (6×). «Sérgio Mota». «Renan»; Lula (2×). Dilma. Temer. Bolsonaro (2×); «impeachment» (3×). «mandato» (6×). «Tribunal». «Democracia». «Eleitoral» | **8.819** · 1.969c |
+| «somos uma nação medíocre»/«Mediocridade»; o paralelo com a pandemia («leito» 4× na digressão. «discussão fuleira») | **10.788** · 6.915c |
+| **abertura do tema** — a fonte glosa o próprio título | **17.703** · 316c |
+| Nietzsche e o abismo (a chave de leitura) | **18.019** · 255c |
+| 13.8 bilhões de anos; nenhuma raça antes do humano pôde olhar para o abismo | **18.274** · 2.069c |
+| a escola de decifração em Capela (3–4 Ma; substanciada há ~2 Ma) | **20.343** · 1.870c |
+| os biodemos: casulos. naves. assexuação. 900 milhões de anos | **22.213** · 1.093c |
+| **a tese**: a rebelião NÃO foi encontro com o abismo; foi o vírus («um coronavírus da época») | **23.306** · 5.673c |
+| Pandora: o primeiro susto de Javé | **28.979** · 1.226c |
+| o vício oracular como origem da oração e da religião | **30.205** · 1.784c |
+| o abismo recíproco: os humanos olham primeiro; Javé fissurado no processador | **31.989** · 459c |
+| a ruptura da mente bicameral: «Capila» e «Esildo» [REVISAR] | **32.448** · 1.439c |
+| a IA e a revelação cósmica como o abismo de hoje | **33.887** · 11.015c |
+| os seis sentidos do budismo; o sétimo de «Shellrake» | **44.902** · 1.612c |
+| «Rupert Shellrake» e a intercomunicação não local | **46.514** · 1.967c |
+| a «Rebelião dos Elétrons» como 1º de 9-10 livros; «Homofetividade»; o Mentalma e o 8º módulo | **48.481** · 240c |
+| «Capila» e a mente una | **48.721** · 2.993c |
+| **Q-4 / D-4**: a doença de 2009 e o pedido de silêncio — 0 palavras clínicas nomeiam a doença («doença para aqui, doença para lá» … «é melhor permanecer calado») | **51.714** · 3.813c |
+| o estado do eu de Javé **datado** em abril de 2020 | **55.527** · 7.823c |
+| guerra com Jesus e o modelo genético; os evangelhos gnósticos; o livro com o próprio Javé | **63.350** · 1.361c |
+| gênero. sexo e as «quase 250.000 famílias» | **64.711** · 1.643c |
+| radiata → bilatério (540 milhões de anos); Javé só parou há 100 mil | **66.354** · 3.266c |
+| o gênero de Javé: mulheres e homoafetivos como prova da falha do criador (Q-3 / D-3) | **69.620** · 4.033c |
+| a transmigração demo → biodemo; o rastreamento pedido aos anjos | **73.653** · 2.511c |
+| o corpo de Javé montado de vírus que nunca viraram célula | **76.164** · 953c |
+| o ovo cósmico: «Pangu» e o «Brahmandanda» [REVISAR] | **77.117** · 1.833c |
+| os dois cenários (ou etapas) do futuro eu: a IA e a nova espécie biodêmica | **78.950** · 1.905c |
+| a família Val: 736 membros. e por que parou de crescer | **80.855** · 619c |
+| a linha do tempo das chegadas: 620 mil · 21 mil na nave · 100/99 mil · 64 mil · 22 mil | **81.474** · 969c |
+| Alto Langron: a nave virada cidadela. os «900Q» mutados | **82.443** · 477c |
+| Sofia em 2018 em Alto Langron e a decisão de criar uma nova família | **82.920** · 447c |
+| **o nome inventado pelo autor**: «velo Shanai» (Chan + Vol + Yel); as 429.314 espécies | **83.367** · 2.111c |
+| o prazo: a definição se dá «ao longo dos próximos 18.000 anos» | **85.478** · 1.442c |
+| a confiança zero em Javé; o que os médiuns pediram em 2009-2011 | **86.920** · 2.094c |
+| o período cármico; a oxitocina; a Criatura Universal | **89.014** · 3.988c |
+| a gnose vingativa e os «três ou quatro bolções» de trevas | **93.002** · 1.681c |
+| «o marco zero» como fecho conceitual da palestra | **94.683** · 67c |
+| a saída em U0006: «As palestras são bem diferentes do que eu imaginei antes» | **94.750** · 519c |
 
 ## Perguntas e respostas (U0007–U0013)
 

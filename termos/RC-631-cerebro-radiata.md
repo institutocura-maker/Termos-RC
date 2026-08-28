@@ -47,11 +47,19 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 - **[P2021-05-15 · A DECISÃO NÃO-AUTÔNOMA DE SOFIA]** "Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi." (U0003)
 - **[P2021-05-15 · O QUE A EXPANSÃO PREJUDICOU]** "E isso prejudicou, Sofia, isso prejudicou muitos seres, mas muitos seres, muitos protótipos que, como eu falei no início da palestra, eram excelentes, mas que as marcas da componente demo no genótipo, na genética que eles tinham, no genoma que eles tinham, era tão presente ou mais presente ou presente de um modo que impedia esse progresso." (U0003)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A DECISÃO CÓSMICA RADIATA → BILATÉRIO (540 milhões de anos)]** "foi quando eles resolveram juntar esses dois hemisférios, não mais em cérebros radiatas, mas eles criaram o cérebro bilatério que permitia os dois hemisférios." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O FECHO DA PALESTRA: A NOVA ESPÉCIE SERÁ **BILATÉRIA**]** "Pergunta muito interessante que vai ser bilatéria, vai." (U0013) — A estrutura inteira do bloco radiata/bilatério está em **pergunta-final/resposta** (U0012→U0013): é o trecho mais «inédito» da fonte para a malha de cérebro.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0576–U0589 | PDF/transcrição pré-curada |
+
 
 
 ## Citações-chave

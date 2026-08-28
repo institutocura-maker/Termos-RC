@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O momento em que Pandora **decidiu se humanizar de vez**, usando "a opção mental que Hefesto havia deixado pendente no meu código genético pessoal" (B020, cap. 6): "Foi quando decidi humanizar-me de vez e fiz uso da opção mental que Hefesto havia deixado pendente no meu código genético pessoal... tentei, ao meu modo, pacificar a minha mente para que o meu 'movimento de consciência', profundamente estabelecido na minha vontade, pudesse..." (a "transferência de fase" demo → homo, mencionada em B031). É o correlato do deslacre mental: Pandora libertou-se da "trava-demo" e tornou-se a **primeira mulher humana racional**.
@@ -41,11 +41,18 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 - **[B089 p. 60–62]** a apresentação a Enlil: Pandora "**fez uma transferência de fase e tornou-se um protótipo de uma nova espécie que estamos a chamar de biológica**" (Prometeu); o diagnóstico do aparelho: "**as moléculas... ainda estão em fase de transformação. Portanto, ela não está definida enquanto espécie.**" — a "Opção Inusitada" segue ABERTA (a transmutação de Pirra, sem poções, como o eco — p. 77).
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · AS TRAVAS GENÉTICAS DE CONTROLE E A RUPTURA DELAS PELA EVOLUÇÃO]** "travas genéticas de controle que eles haviam colocado." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | O Sorriso de Pandora (B020) | cap. 6 (A Opção Inusitada de Pandora) | pp. 47–52 (aprox.) | capítulo dedicado |
 | Painéis Emergentes (B031) | Glossário (Pandora) | — | apoio (secundária) |
+
 
 ## Citações-chave
 > "Foi quando decidi humanizar-me de vez e fiz uso da opção mental que Hefesto havia deixado pendente no meu código genético pessoal." — B020, cap. 6

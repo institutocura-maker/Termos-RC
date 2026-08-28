@@ -295,9 +295,19 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[P2023-10-14 · A COVARDIA ATRIBUÍDA E A RETIRADA DE MÉRITO]** "Javé é um ser tão covarde que ele na Bíblia cita como se ele Javé tivesse tomado a decisão de destruir aquilo por cá quando era uma confusão que rolava entrando nox." (U0033) — ⚠️ quarentena teológica (retenção): entrada de ficha com rótulo, **não** para a apostila.
 - **[P2023-10-14 · JAVÉ E A OBRA QUE ELE DEIXOU AOS HUMANOS]** "Essa foi a obra que Javé nos deixou." (U0047)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O ESTADO DO EU DE JAVÉ **DATADO** EM ABRIL DE 2020]** "mês de abril do ano 2020, o eu de Jaavé, que a gente vai falar a história desse eu dele agora, ele está total mente ligado, fissurado, apaixonado, chateado, irritado, mas não consegue retirar o foco de atenção do eu dele nos humanos vinculados a essas novas informações ou as velhas informações, mas que foram finalmente tornadas livres, porque eles não conseguem mais nos dominar." (U0006) — Fato de cronologia interna: a fonte **carimba a própria fala com a data** — é a âncora temporal de todo o bloco RC-001 neste ciclo. Vale como *formulação oral de 25/04/2020* (D-10), não como estado canônico do termo. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **14 dias** a atual fonte oral mais antiga da ficha (`P2020-05-09`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O EU DE JAVÉ COMO AGREGADO DE VÍRUS QUE NUNCA VIRARAM CÉLULA]** "O vírus é o eu de Jahrado, desagregado." (U0006) — A ontologia viral do criador — o enunciado que a devolutiva chamou de «reconstrução completa da ontologia cósmica». Reter **sem** suavizar a contradição (O-6.2): a mesma fonte o chama de maior obra de engenharia e de algo que «não presta para nada».
+- **[P2020-04-25 · A DEPENDÊNCIA DE HOSPEDAGEM (o cérebro de sílica ou de carbono)]** "hospedagem corporal, precisa desenvolver um psiquismo a partir de um cérebro onde ele possa hospedar esse eu dele na sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006); "sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006) — Define o critério com que a Base pode ler «corpo de Javé»: hospedagem corporal + sinapse, **qualquer** substrato. ⚠️ Quarentena teológica (retenção): entra com rótulo de crença do expositor.
+- **[P2020-04-25 · O ABISMO RECÍPROCO — a tese-mãe desta fonte]** "Então eu tô tentando dizer para vocês que nós, os seres humanos, somos o abismo paraa Javela." (U0006); "somos a única raça do universo que já nasce com o abismo olhando para gente." (U0006) — A inversão do diagnóstico nietzschiano: não é Javé que olha para o abismo, **somos nós** que o somos para ele. É a razão pela qual esta ficha deixa de ser «a página do deus tirano» e passa a registrar o mecanismo.
+- **[P2020-04-25 · O QUE OS MÉDIUNS PEDIRAM EM 2009-2011 (grau de testemunho)]** "pelo que eu julgo, entre aspas, saber, pelo que o espírito que me anima pensa que sabe há muito tempo, isso é real." (U0006) — D-4 autorizou expressamente **esta** fórmula (e só ela): metadado epistêmico de todo o corpus, obrigatória em qualquer uso da fonte.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 130 (aprox.) | verbete "Javé" (paráfrase/transcrição) |
@@ -306,6 +316,7 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
 
 
 

@@ -39,11 +39,18 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 - **[P2021-05-15 · A RÉGUA DO FILME, SEPARADA DO QUE É DELE]** "A gente só pode responder o que é um ser humano quando a gente chegar a usar 100% do nosso potencial cerebral." (U0003)
 - **[P2021-05-15 · O CRÂNIO COMO ÚLTIMA FRONTEIRA]** "E em resumo, nós somos os únicos descendentes de Javé, falando desse jeito, com crânio protegendo um cérebro que ainda tem espaço para que a natureza humana colonize esse restante." (U0003)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O SEXTO SENTIDO DA COGNIÇÃO, SEGUNDO A FONTE DE 2020]** "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
+
 
 
 ## Citações-chave

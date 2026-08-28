@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-28 |
 
 ## Remissão
 
@@ -21,5 +21,12 @@
 
 - **Remissão mantida** (decisão da Devolutiva B057): todo o conteúdo de B058 relativo ao ser está concentrado na ampliação de **RC-078** (renúncia ao cargo; nomeação como "Primeiro em Comando" das famílias rebeladas; "Imagem e Reflexo"; a "massa energética" que só ele vê).
 - 0 códigos novos (O-3).
+
+---
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A VARIANTE «A REBELIÃO DE LÚCIA» [REVISAR: STT feminizou o nome]]** "a rebelião de Lúcia deixou a Terra como o único planeta rebelde." (U0006) — **D-7 aplicada:** hipótese documentada, correção recusada. A grafia canônica «Yel Luzbel» fica intocada; a variante entra datada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O QUE A FONTE **NÃO** DIZ SOBRE YEL]** "hoje é o marco zero que surgiu como produto dos desdob os da rebelião de Lúcifer." (U0006) — **Contagem medida**: «Yel» aparece **1** vez no bruto, e o termo composto «Yel Luzbel», **0**. Esta ficha recebe *ampliação de contexto*, não de nome — ver `camada-2.txt` §2.
 
 ---

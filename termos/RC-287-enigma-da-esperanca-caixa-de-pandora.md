@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -34,12 +34,19 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 - **[B088 p. 7]** a finalidade: "destruir, por meio do acréscimo do **'vírus da corrupção'**, uma nova espécie − a humana terrestre − que estava a ser criada por mim e pelos irmãos titãs."
 - 0 códigos novos (O-3). Divergência × mito × B020 registrada como variação narrativa (O-4). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A HERANÇA QUE RESTOU QUANDO O CONTROLE FALHOU]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B020`, `ART-2026-08-18`, `B087`, `B088`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | B020 | O Sorriso de Pandora | livro |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+
 
 ## Interpretação secundária (ART-2026-08-18)
 

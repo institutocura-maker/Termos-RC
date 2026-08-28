@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -33,13 +33,21 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[B041 p. 73]** o “jogo da marcação energética” mudou por “imposição” de certa massa crítica de elétrons que não tinham mais como receber tanta “infecção informativa”; prece fervorosa / temor / submissão “já não podem mais influenciar o Criador”. Início do “problema”: **2007–2016** — **quarentena cronológica**.
 - Fonte **B041** acrescentada na tabela-mestra.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A «ÚLTIMA ESPÉCIE DO UNIVERSO» COMO DESTINO DO PROCESSO]** "a chamada última espécie do universo, que que eu chamo no livro Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006); "essa definição vai ter que se dar ao longo dos próximos 18.000 anos." (U0006) — **D-10:** o prazo de 18.000 anos entra como *formulação oral de 2020*; 0 correspondência em livro — não inventar suporte. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.0 anos** a atual fonte oral mais antiga da ficha (`P2023-05-13`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O «DRAMA TERRENO DE JAVÉ» (nome próprio da fonte)]** "Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | B031 / B024 / B019 | — | obras publicadas |
 | P2026-04-02 | — | palestra/STT |
 | P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

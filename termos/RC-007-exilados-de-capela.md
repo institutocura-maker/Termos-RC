@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 São os seres das **famílias biodemicas exilados do Sistema de Capela para a Terra**. Chegaram de duas formas: **em naves**, fugindo dos confrontos nos mundos de Capela, e **como espíritos desencarnados**, devido à afinidade vibratória — passando a reencarnar no nosso planeta. O termo "Exilados de Capela" só surgiu no Séc. XX, no livro *A Caminho da Luz* (Chico Xavier/Emmanuel). A gênese da história espiritual da Terra teria começado com esses espíritos (B031).
@@ -41,12 +41,20 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **[P2023-04-01 · O LIXO DA REBELIÃO — os exilados]** "do jeito que a TURMA DE CAPELA um dia veio EXILADA para a Terra, LÁ VEM TURBILHÃO, JÁ VEIO"; "A TERRA RECEBEU O LIXO da rebelião... veio em naves para cá E TAMBÉM EM COMBOIO ESPIRITUAL"; "NÓS, OS HUMANOS, HÁ 50.000 ANOS ATRÁS ÉRAMOS ANIMAIS DE ESTIMAÇÃO IRRACIONAIS DESSES SERES... do jeito que a gente brinca com papagaio, cachorrinho, cavalo, gato, NÓS ÉRAMOS O CACHORRINHO E O GATO desses seres... só que fomos adquirindo inteligência e nos tornamos MAIS SAGAZES DO QUE ELES. E eles foram perdendo a capacidade reprodutiva. Os portais se fecharam... NÓS HUMANOS HERDAMOS ISSO AQUI"; "eles ainda inventaram essa coisa de REI/RAINHA para dizer que era representante deles... SANGUE AZUL"; "A TERRA ESTÁ ISOLADA DO INTERCÂMBIO CÓSMICO. E assim permanece até hoje" — a analogia da penitenciária (o ex-detento de 50 anos que precisa de "reforço psicológico, informativo" — a reintegração).
 - 0 códigos novos (O-3). Quarentena: ufológica.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 («experiência Gron» [REVISAR]) → «900Q»]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A ESCOLA DE CAPELA: 3–4 Ma, substanciada há ~2 Ma]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006) — Contagem medida: «Capela» **1** ocorrência no bruto — a ficha não pode inflar esta fonte. ⚠️ «capelinos» = **0** ocorrências.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 129 (aprox.) | verbete "Exilados de Capela" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 124 (aprox.) | verbete "Anjos caídos" (diferenciação) |
 | Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
+
 
 ## Citações-chave
 > "Na Revelação Cósmica, os Exilados de Capela são os seres biodemos extraterrestres (entre eles Lúcifer - Yel Luzbel), que vieram para a Terra em face do isolamento cósmico." — B031, verbete "Anjos caídos"

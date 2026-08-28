@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.5 Missões / Expedições / Encontros |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Revelação central de *O Sorriso de Pandora* (B020, cap. 9): **Pandora fez o papel da serpente do Jardim do Éden** — não uma serpente literal, mas a figura que afrontou o Criador para proteger a humanidade: "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." Ao agir assim, impediu que o Criador adestrasse o casal do Éden e, em seguida, eliminasse seus descendentes.
@@ -28,10 +28,17 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 - **[P2025-02-22 — eco] A SERPENTE REAL DO ÉDEN]** "no episódio descrito no Gênesis, existem QUATRO PERSONAGENS: JAVÉ, ADÃO, EVA E UMA TAL DE UMA SERPENTE QUE CONVERSA COM EVA. Conversa? Serpente não conversa... Ah, mas isso não é metáfora, não. Infelizmente eu tenho que dizer para vocês que NÃO É... AO LONGO DOS ÚLTIMOS 300 MILHÕES DE ANOS, OS FILHOS DE CADRU, DE DESCENDÊNCIA NAGA E URAGA, INVASIRAM ESTE UNIVERSO, INVASIRAM A TERRA TAMBÉM E SE ESTABELECERAM" [⚠️⚠️ a confirmação da realidade da serpente]; "QUANDO EVA VÊ UMA SERPENTE QUE DIZ: 'OLÁ, EVA, TUDO BEM?'... Ó, você por aqui? É, estou passando, mas olha, já soube desse último elixir... AS SERPENTES FINANCIARAM O DESPERTAR HUMANO"; "O PRÓPRIO JAVÉ QUANDO PRODUZIU AS NOTÍCIAS REGISTRADAS NO GÊNESIS DIZ: 'A SERPENTE, O MAIS ASTUTO DOS ANIMAIS.' OU SEJA, JAVÉ ELE CONTOU AQUILO MEIO QUE TRISTE, SÓ QUE NÓS NUNCA ENTENDEMOS DIREITO"; "a serpente... ela representa UM ENREDO QUE NÃO É PERCEBIDO PELO SENSO COMUM" [o Gênesis como o registro invertido].
 - 0 códigos novos (O-3). Quarentena: teológica (a leitura do Gênesis).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A MESMA CENA CONTADA PELO AVESSO: PORTAIS, HERANÇA E O «VÍCIO ORACULAR»]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) — Bloco Pandora lido como **mecanismo de contenção** (travas postas pelos deuses), não como cosmogonia moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | O Sorriso de Pandora (B020) | cap. 9 (Adão e Eva Bíblicos) | pp. 65–76 (aprox.) | revelação central |
+
 
 ## Citações-chave
 > "Aqui fiz o papel da serpente pois, enquanto mulher, mas com o meu poder mental demoníaco ainda acionado, afrontei Caos e os seus anjos como forma de proteger a minha semeadura entre os humanos." — B020, cap. 9

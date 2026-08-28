@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.4 Escrituras / Objetos documentais |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Série Mentalma** ("Mentalma — A Yoga do Cotidiano") é a série de livros de Jan Val Ellam sobre o método **Mentalma** (RC-166): **7 partes anunciadas em 2020** (no *Mentalma I*, p. 10), das quais **5 publicadas** — I *A Consciência Esclarecida e a Gestão dos Arquivos Mentais* (B074, 2020); II *Gestão Psíquica e Memórias Complexas* (B075, 2022); III *Autoconhecimento e Emancipação* (B076, 2025); IV *Consciência Pessoal e Soberania Espiritual* (B077, 2026); V *Autorrealização* (B078, 2026) — mais o **curso** ("Ciclo de Cursos e Palestras", p. 196). VI *Qualia e o Laboratório Mental* e VII *O Eu como Computador Quântico* permanecem **anunciados/não publicados**. "Vinte maestrias pessoais... distribuídas pelos **sete módulos** do Mentalma" (B075, p. 185).
@@ -18,9 +18,15 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 - **Variações:** "Mentalma I–VII" (nomes dos volumes); "A Yoga do Cotidiano" (epíteto do método); "sete módulos do Mentalma"
 - **Idioma de origem / etimologia:** "Mentalma" = *Mente* + *Atma* (RC-166); "cotidiano" = "aplicável diariamente" (B074, p. 15)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O MÓDULO RETIDO E O SÉTIMO SENTIDO (ampliação datada)]** "eu só vou dar cinco, talvez seis, no máximo, certo, mas nunca oito." (U0006); "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **6.3 anos** a atual fonte oral mais antiga da ficha (`P2026-08-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Mentalma I (B074) | Introdução | p. 10 (PDF) | lista dos 7 volumes |
 | Mentalma II (B075) | Introdução; cap. 12; Sobre o Autor | pp. 7, 185, 196 (PDF) | "dois primeiros publicados"; 20 maestrias/7 módulos; curso |
 | Mentalma III (B076) | — | — | (sem PDF; sinopse Amazon — Publicações Europa América, 2025) |
@@ -28,6 +34,7 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 | Mentalma V (B078) | — | — | (sem PDF; sinopse Amazon — Publicações Europa América, 2026) |
 | A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção do termo (fonte original) |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | menção |
+
 
 ## Citações-chave
 > "Esse meu aprendizado está sistematizado em **sete partes**, descritas na série de livros mostrada a seguir, sendo que, até o momento, **estão publicados os dois primeiros**: Mentalma I... Mentalma II... Mentalma III – Autoconhecimento e Emancipação; Mentalma IV – Consciência Pessoal e Soberania Espiritual; Mentalma V – Autorrealização; Mentalma VI – Qualia e o Laboratório Mental; Mentalma VII – O Eu como Computador Quântico." — B075, p. 7

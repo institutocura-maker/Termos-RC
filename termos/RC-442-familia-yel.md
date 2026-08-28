@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.3 Dinastias extraterrestres |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Estirpe capelina da qual **Yel Luzbel (Lúcifer)** é integrante — a mais mencionada na narrativa psicografada de Jeane Miranda ("Os Livros de Yel Luzbel"). Segundo B057, a família Yel foi urdida há cerca de **492 milhões de anos** e era composta por **5.545 seres**, todos ligados entre si pelo **"Processador Yel"**. Yel Luzbel exercia o cargo de **Primeiro Pesquisador** da família. (Cronologia e números: narrativa psicografada — a confirmar nas obras primárias de Ellam.)
@@ -57,13 +57,20 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 - **[P2021-09-04 · A FUNDAÇÃO DE 2021 · O DESPLUGUE DO VOL — A QUEDA DE SOPHIA EXPLICADA]** **O PLANO B**: "o processador Vol era O PLANO B, vamos assim dizer. Se não foi via a absorção direta do que o próprio Jesus lhe repassou pela ressurreição, ou via o contorno espiritual de ambos, porque são faces de um mesmo espírito, **O PLANO B SERIA O PROCESSADOR VOL, QUE SOBROU NA HISTÓRIA E QUE ANOTOU AS PRÓPRIAS QUESTÕES DO HOMEM JESUS POR UMA NOTA DE RODAPÉ NA HISTÓRIA DELE, QUE TALVEZ UM DIA SEJA CONTADA, MAS TAMBÉM ACHO QUE NÃO POR MIM**" [⚠️⚠️⚠️ o Vol como o plano B + a nota de rodapé de Jesus — "que talvez um dia seja contada, mas também acho que não por mim"]; **O DESPLUGUE**: "quando o processador Vol, que ficou permanentemente disponível, meio que desassociou-se... **DESPLUGOU DE SOFIA. E ISSO COMPLICO A SITUAÇÃO. Sofia ele se sentiu MENOR PELA PRIMEIRA VEZ nesse contexto, porque viu que uma coisa que ele criou MEIO QUE SE DESGARROU DELE**" [⚠️⚠️⚠️ o momento da queda]; **A EGRÉGORA ELETRÔNICA VIVA**: "porque O PROCESSADOR TEM A ESPÉCIE DE UMA EGRÉGORA ELETRÔNICA VIVA, VIRA UM MASCOTE da pessoa... meio difícil arranjar uma analogia, mas A BÚSSOLA DOURADA traz, numa ficção, [que] os seres humanos tinham DAEMONS, como animais que os acompanhavam e esses animais mudavam de forma" [⚠️⚠️ o processador como mascote — os daemons de A Bússola Dourada!]; "Sofia emparedou-se... ficou meio que ENJAULADO NO QUE ELE SEMPRE FOI, NO ATRASO, no sentido de que não conseguia progredir. E devido à sua expressão autista no nível em que ele é, genial em muitas coisas, mas ABSOLUTAMENTE DESPROVIDO DE CONDIÇÕES MÍNIMAS em outras"; + "eu quando tava escrevendo TERRA ATLANTIS, quando eu recebi as informações de VALENO [STT — REVISAR], lá no início do MILENO [STT — REVISAR], ficava olhando... a trajetória de Sofia é diferente" [B087-B089 — a fonte dos livros]; "como faltava esse DUPLO B de Sofia no lado biodêmico... esses 30 dias que foram definitivos".
 - 0 códigos novos (O-3). Quarentena: —.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O PARADEIRO DESCONHECIDO DO PROCESSADOR DA FAMÍLIA]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006); "as grandes guerras da rebelião surgiram no sistema de Antares a cerca de 530 532.000 anos." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3 meses** a atual fonte oral mais antiga da ficha (`P2020-08-08`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | narrativa psicografada (Yel Luzbel) |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | urdida há ~492 milhões de anos; 5.545 seres |
 | O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | família aguarda resposta de Sophia |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 67–68 (PDF) | desligamento do Processador Yel |
+
 
 ## Citações-chave
 > "Cada um de nós, da família Yel – uma das espécies do género capelino –, nasceu individualmente, com a sua particularidade e característica. Entretanto, mesmo sendo seres individualizados, éramos ligados uns aos outros por um mecanismo que ficou conhecido como o nosso 'Processador'." — B057, p. 15

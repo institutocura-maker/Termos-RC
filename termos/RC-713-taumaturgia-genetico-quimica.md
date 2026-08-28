@@ -48,12 +48,20 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 - **[P2023-10-14 · TEURGIA, MAGIA E A FACE DA TEOLOGIA (fecho do bloco cabalístico)]** "Sim, porque daí é trabalho com os elementos." (U0090); "Magia é uma das faces da teologia." (U0091) — A pergunta é do ouvinte («isso chama-se teurgia, não é?») e o expositor **aceita o termo**: a ficha registra o uso, não a prática. ⚠️ Nenhum código novo para «teurgia» (navalha; Devolutiva D-1).
 - **[P2023-10-14 · A DECLARAÇÃO DE QUE A PARTIR DE AMANHÃ PODE PARAR]** "Pode ser que a partir de amanhã entropia em peça, mas até hoje sim." (U0089) — [TEXTO CORROMPIDO: «entropia em peça» é o que o STT entregou; preservar, não decodificar.]
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · OXITOCINA, VIBRAÇÃO E A MONTAGEM DO EU DE JAVÉ]** "mergulhar na condição animal para poder encontrar brecha no psiquismo dele para adequar a produção de hormônios que hoje ele não tem a menor condição, tipo a oxitocina, o hormônio do amor, da confiança." (U0006) — ⚠️ Quarentena clínica (retenção): nada aqui é recomendação de saúde; a aspa documenta a **tese do material psíquico**. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A HOSPEDAGEM SINÁPTICA COMO TÉCNICA]** "sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006); "hospedagem corporal, precisa desenvolver um psiquismo a partir de um cérebro onde ele possa hospedar esse eu dele na sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0737–U0770 | aula/palestra STT |
+
 
 
 

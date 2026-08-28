@@ -30,13 +30,21 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 - **[P2021-05-15 · A ESPECIAÇÃO COMO FUTURO ABERTO (e a dieta que a permitiria)]** "o tipo de alimentação ou dieta das gerações futuras que vão se especiar, né, não possam ter uma condição mais longa de desenvolver as suas habilidades mentais, porque seria essa parte do cérebro humano que ainda não foi desperta, porque no uso disso aí a natureza humana, com sua razão filosófica ancorada no respeito ao próximo, no amor incondicional, no respeito a questões sofisticadas, como altruísmo, como não sei o quê, que as outras espécies nem imaginam que possa ser, mas também não entendem quando a gente se sacrifica uns pelos outros." (U0003)
 - **[P2021-05-15 · O PROJETO DA NOVA FAMÍLIA BIODEMÔNICA DECLARADO IMPOSSÍVEL]** "Não tem, não há a menor possibilidade de no espaço de tempo que se precisa que certas soluções sejam finalmente eh tidas como reais." (U0015)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · ESPECIAÇÃO COMO MOTOR DA VINDA DA CRIATURA UNIVERSAL]** "a chamada última espécie do universo, que que eu chamo no livro Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006); "Pergunta muito interessante que vai ser bilatéria, vai." (U0013) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O QUE A NOVA ESPÉCIE **NÃO** RECEBE: ESPÍRITOS HUMANOS]** "retrogradação espiritual." (U0013) — **D-6:** «retrogradação espiritual» é **termo-observação** (0 código); a linha entra aqui como uso datado.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B031 | — | obra publicada |
 | P2023-05-13 | seção 9.6; bloco das novas proteínas | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

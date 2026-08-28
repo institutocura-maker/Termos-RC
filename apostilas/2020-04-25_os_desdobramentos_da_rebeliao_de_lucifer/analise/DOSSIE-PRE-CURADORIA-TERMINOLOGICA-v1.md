@@ -147,10 +147,14 @@ manda na grafia; o Curador, na leitura).
 A fonte **abre** com um bloco político- nacional que ela mesma se declara obrigada a fazer
 («Eu vou então gastar aqui 5 a 10 minutos para eh Cris receber.» (**U0006**, 61 c), U0006), pedido pelo próprio operador («Antes da palestra do Rogério, tem alguns comentários que a gente recebeu aqui eh por contato solicitando que o Rogério fizesse uma a uns comentários sobre o que tá acontecendo agora, etc.» (**U0003**, 187 c), U0003). São
 **~17.700 caracteres** — **15,4% do texto falado** — contínuos, de «OK, querido» até o gancho de
-abertura do tema, e contêm: nomeação de partidos e presidentes (Sarney, FHC, Lula, Dilma, Temer,
-Bolsonaro), acusação nominal de corrupção e de venda de mandato, inflação de «84% ao mês», foro
-privilegiado, a biografia do autor («eu me vi, como eu já disse em outros momentos, vigiado pela Polícia Federal» e «tô com que eu saiba 61
-anos»), e juízo sobre o povo brasileiro («Nós somos medíocres»). Termina com o autor **pedindo
+abertura do tema, e contêm: nomeação de partidos e presidentes **como o STT os grafa** — «Sarnei» (8×), «Sarneio» (1×),
+«Fernando»/«Henrique»/«Cardoso»/«FHC» (6×), «Sérgio Mota», «Renan», «Tancredo», Lula (2×), Dilma, Temer, Bolsonaro (2×),
+mais «impeachment» (3×), «mandato» (6×), «Tribunal», «Democracia», «Eleitoral», «partido» (6×), «corrupção» (2×) e inflação
+a «84%» (3×). **Não** estão no bruto — e por isso saem desta descrição, que a leitura inicial dera por certa —
+«foro privilegiado», «venda de mandato», «Senado», «Câmara», «STF», «vacina», «gripe», «quarentena», «óbito», «mortos»
+(todos **0** ocorrências medidas): a digressão é de opinador, não de analista institucional. A biografia do autor entra
+(«eu me vi, como eu já disse em outros momentos, vigiado pela Polícia Federal», «tô com que eu saiba 61 anos», o «país azarado»),
+e o juízo sobre o povo brasileiro. O bloco termina com o autor **pedindo
 desculpa pelo próprio bloco**: «a palestra foi para um lado bem diferente do que eu imaginar, mas tá feito.» (**U0013**, 75 c) (U0013) e «me perdoem a a opinião, mas é o que eu posso dar sobre essas confusões aí de política, mas o fato é que nós temos tantos problemas para resolver ao longo da eternidade, mesmo não sendo a eternidade ao longo longo do tempo em que ainda vai existir vida nesse universo e os nossos espíritos vão est sempre por aqui.» (**U0013**, 313 c) (U0013).
 
 **Proposta D-1: bloqueio sumário e absoluto do bloco inteiro** (mesma regra do item 10 aplicado a

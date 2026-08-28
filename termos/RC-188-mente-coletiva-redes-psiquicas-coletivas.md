@@ -35,12 +35,19 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 - **[P2021-05-15 · MEMETE — A DEFINIÇÃO EM BOCA DO AUTOR (termo nunca cadastrado)]** "Mas os pensamentos que vêm da movimentação do campo mófico humano, da dos do inconsciente coletivo humano e da corrente da genética que toda santa hora, cada microsegundo, pega tudo que cada cabeça de qualquer ser humano que exista pensou, esteja ele aqui na eh na lua, num planeta abduzido, a sequência da internet humana, que eu chamo Memete, a cada microssegundo distribui e redistribui e pega e redistribui de novo para toda e qualquer cabeça de um ser humano e o produto do que todos pensam." (U0018); "Esse genoma de hoje, hoje os últimos tempos, veja só, o genoma de cada ser humano pula loucamente a cada microssegundo, tá?" (U0006)
 - **[P2021-05-15 · O TECLADO GENÉTICO COMO INTERFACE DA REDE]** "É o uso que a atitude mental de cada ser humano faz do seu teclado genético." (U0006) — ⚠️ **VETO DE CÓDIGO MANTIDO (Devolutiva O-8):** «Memete» permanece termo-observação absorvido aqui e em RC-194; **não** ocupa RC-778.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A MENTE UNA DE «CAPIILA» COMO CONHECIMENTO ABORTADO]** "Capila foi o primeiro a falar da mente uma." (U0006); "mente coletiva?" (U0009) — **D-7:** hipótese *Kapila/Sāṃkhya* documentada, fusão recusada. A fonte usa «mente una» — expressão que a Base não tem com esse nome (ver Apêndice). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B044 — A Divina Colmeia | contexto do Modelo Colmeia | fonte publicada |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0067–U0074; U0084–U0096; U0134–U0139 | STT pré-curado |
+
 
 
 ## Citações-chave

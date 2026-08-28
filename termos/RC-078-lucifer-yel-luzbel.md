@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Lúcifer** é o nome terreno pelo qual **Yel Luzbel** passou a ser conhecido: biodemo da **Família Yel**, criado no Sistema de Capela, que **deu início à Rebelião de Lúcifer** nos Sistemas de Capela e Antares e depois se exilou na Terra. São Jerônimo atribuiu "Lúcifer" ao anjo caído ao traduzir a Vulgata (séc. IV d.C.); a palavra significa literalmente **"O Portador da Luz"** (B031). Sua importância nas RC é sem precedentes para o **"deslacre" mental** dos biodemos que se rebelaram — abrindo caminho para a liberdade humana em relação ao domínio "colméico" do Criador.
@@ -70,11 +70,19 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **RC-142 = remissão para esta ficha** (decisão da Devolutiva B057, mantida neste ciclo).
 - 0 códigos novos (O-3). "Massa energética", "magnetismo pessoal", "causa", cargos = vocabulário narrativo (Navalha).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · «NINGUÉM CONSEGUIA RESOLVER O PROBLEMA LUCIFERIANO»]** "ninguém conseguia resolver o problema luciferiano, quando isso se tornou uma pandemia, dentro da pandemia que já para qualquer existir em qualquer das condições do âmbito da criação de janvier, porque é vírus doento." (U0006) — A fonte não narra a queda: registra o **impasse** que ela criou — daí o título ser «desdobramentos». Grafia degradada do nome na fala: «I Luzbell» (STT). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · O VETO ÀS GRAFIAS CORROMPIDAS, CONFIRMADO]** "deixou a Terra como o único planeta rebelde." (U0006) — **Retificação R-3:** o bruto grafa «Luzbel» 2×, «Luisber» 1×, «I Luzbell» 1× — **0** de «Lusbel». A forma canônica da Base não é dedutível do TXT: daí o Apêndice da apostila. O nome **não** é unificado a RC-142 nesta fase (D-7).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 138 (aprox.) | verbete "Lúcifer" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 148 (aprox.) | verbete "Yel Luzbel" |
+
 
 ## Citações-chave
 > "Sua importância é sem precedentes para o 'deslacre' mental dos biodemos que vieram a se rebelar. Somente após o 'deslacre' causado por Yel Luzbel e, posteriormente, o 'deslacre' causado por Pandora é que os seres humanos terrestres puderam 'ser livres' do domínio 'colméico' do Criador." — B031, verbete "Yel Luzbel"

@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -25,11 +25,18 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 - **[B044 p. 127]** os velhos mecanismos de controle das “Abelhas-rainhas” deixam de surtir efeito sobre terráqueos esclarecidos.
 - **Quarentena clínica:** “dementada” (p. 97) é leitura filosófica do autor, **jamais** diagnóstico. Encontro 2010 / dor corporal = **biográfica**, fora da ontologia.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A GENÉTICA DAS ABELHAS OPERÁRIAS COMO MODELO DE SERVIDÃO]** "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008) — O modelo colmeia lido pela biologia: Javé como rainha e a servidão como **genética inserida**, não como punição moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

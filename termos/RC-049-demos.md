@@ -54,12 +54,20 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[P2021-05-15 · A AUSÊNCIA DE DUALISMO MORAL]** "Eles não tem esse tipo de dualismo na cabeça." (U0003)
 - **[P2021-05-15 · O PACTO DAS ESTIRPES DE DEMO ANTIGA]** "Então, a hibridagem, o acordo, o pacto que muitas das estirpes de demo antiga eh foram fazendo ao longo desses 50.000 anos, exatamente para poder ocupar uma cidade, uma ilhota daquela." (U0003)
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A MENTE DEMO COMO O RUÍDO QUE OS BIODAMOS FORAM CRIADOS PARA AMORTECER]** "inquietude da mente demo ancestral." (U0006); "ansiedade, nervosismo, estresse." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A DEMÊNCIA FILOSÓFICA E O PADRÃO DE INQUIETAÇÃO]** "O nome disso é reptiliano." (U0006) — A fonte nega que Javé tenha sido «reptiliano» e usa o termo para ansiedade: registro terminológico **do uso**, não da teoria.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+
 
 
 ## Citações-chave

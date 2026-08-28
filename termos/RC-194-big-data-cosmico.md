@@ -31,11 +31,18 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 - **[P2021-05-15 · QUEM CRIOU O BIG DATA E O MAPA DAS 10 ENCARNAÇÕES]** "Então, Sofia, ele consegue ter relação, não consegue ter acesso a essas informações e retirar daí, desculpem, as sequências genéticas que o interessam e os Aia e Aia são muito, foram eles que criaram esses troços de certa forma eh do chamado big data que eu sempre me referi." (U0015); "Tudo que Sofia pode fazer para evoluir a sua condição de radiata é pegar a organ a partir de a de sequências genéticas novas que os humanos vê tendo, né, e com base no campo móv outra contribuição peculiar de cada ser humano, porque assim, existe um mapa em que cada ser humano, eh, olhando para esse mapa, você pega suas últimas 10 encarnações como ser humano e você vê a mesma assinatura quântica no mapa." (U0015)
 - **[P2021-05-15 · A CONTRIBUIÇÃO INDIVIDUAL MEDIDA NO CAMPO]** "Como também se pode saber a contribuição específica de Zezinho dos Anzóis, como é que ele tá em relação à contribuição dele pro campo mófico." (U0015) — ⚠️ A frase seguinte (o fundador do islamismo e o «campo mófico») é trecho RETIDO em bloco (Devolutiva O-5) — não transcrever.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A GÊNESE DO BIG DATA: OS ANJOS INFORMAM JAVÉ]** "foi aqui que começou a surgir essa questão de big data." (U0006); "uma vez eu conversando com os anjos dele nas confusões dos anos 2009, 10 e 11, eu disse que é que vocês não faz um rastreamento das formas mentais de janela para trás e ver, mas eles não conseguem." (U0006) — A fonte **data** a ideia («foi aqui que começou a surgir essa questão de big data») e a ancora num procedimento: rastreamento de DNA novo comunicado a Javé. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | O Big Data do Criador (B035) | cap. 2 (O Big Data Cósmico) | amostra (pp. 8–13 do PDF) | conteúdo presente na amostra |
+
 
 
 ## Citações-chave

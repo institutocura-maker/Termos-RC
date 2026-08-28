@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -60,11 +60,19 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[B058 p. 63]** a percepção de Yel Luzbel: "me causava 'desassossego', perceber um certo **'extremismo, nervosismo e agressividade'** tanto no discurso como no atual modo de agir de Len Mion e do 'Primeiro em Comando' da 'família Mion'."
 - 0 códigos novos (O-3). Fonte: narrativa psicografada (voz isolada de Yel Luzbel).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · «LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS» [REVISAR: Len Mion]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+- **[P2020-04-25 · A NOVA RAÇA COMO REPARAÇÃO, NÃO COMO PUNIÇÃO]** "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013); "Pergunta muito interessante que vai ser bilatéria, vai." (U0013)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | seção 6.2–6.3; bloco 9 (relógio messiânico) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

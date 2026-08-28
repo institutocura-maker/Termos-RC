@@ -26,13 +26,20 @@
 
 - **[P2021-05-15 · O MESMO ANÚNCIO, PELA CHAVE DA COLONIZAÇÃO]** "Quem consome aquele tipo de droga tem desbloqueado esse essa condição de ir criando, eu vou falar sobre isso, uma palestra que eu devo fazer domingo em reserva são os protocolos da mente e o quarto cérebro vão criando, vão colonizando esses neurônios que ainda nem foram ativados ou ficam neutros." (U0003) — Registrar como antecessor de linguagem: a fórmula «centro de sabedoria vibracional» (2026) não é idêntica à de 2021 — não equiparar.
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · O SÉTIMO SENTIDO: INTERCOMUNICAÇÃO NÃO LOCAL]** "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006); "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006) — Medição: a fonte **não** usa a expressão «quarto cérebro» — a ampliação é de conceito, com nota, não de termo. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2026-08-18 | caps. 1–10 (conceito central) | artigo de aluna avançada (exegese) |
 | O Quarto Logos (B016) | caps. 6–9 (citado pelo artigo) | obra primária de Ellam |
+
 
 
 ## Citação-chave

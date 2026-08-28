@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil anos** no Sistema de Capela, que gerou um "vírus" que contaminou mais de **213 bilhões de seres** (pandemia generalizada). Essa pandemia levou a uma rebelião por volta de **687 mil anos**, culminando no **isolamento cósmico** de seres em **19 planetas** há aproximadamente **619 mil anos** (B031). (Definição do glossário de B031; cronologia a confirmar nas obras primárias.)
@@ -104,12 +104,21 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[P2025-02-22 — eco] YEL LUZBEL O CIENTISTA]** "a rebelião de Lúcifer foi quando um ser chamado YEL LUZBEL, DA FAMÍLIA YEL, MUITO ANTERIOR À FAMÍLIA VAL, PERCEBEU... ELE ERA UM CIENTISTA E PERCEBEU DEFEITOS NA CRIAÇÃO E CHEGOU PRÁ SOFIA E DISSE: 'Ó, TEM DEFEITOS?' Sophia disse: 'Não, não tem, não pode ter. Tem, tem, não tem, tem, não tem, tem, não tem. SURGIU UM VÍRUS. E esse vírus terminou criando UM PROBLEMA DE SAÚDE PÚBLICA que depois de X milhares de anos transformou NUMA REBELIÃO POLÍTICA'" [⚠️⚠️ a gênese técnica da rebelião]; "quando ocorreu a rebelião de Lúcia e seus desdobramentos, [Sophia] não soube que atitude tomar E QUEM TOMOU A ATITUDE FORAM SEUS ANJOS... FOI QUANDO [LUZBEL] COBROU DELE: 'QUE OBEDIÊNCIA CEGA É ESSA SUA? A UM DEUS QUE VOCÊ DIZ EXISTIR NESSE UNIVERSO VIZINHO E A GENTE AQUI NEM CONSEGUE PERCEBER... ESSE DEUS DE LÁ MANDA DESTRUIR TUDO'" [a cobrança]; "o que restou da rebelião de Lúcifer, QUE ACONTECEU NA GESTÃO DELE [SOPHIA] LÁ EM ORBON, terminou vindo pra Terra" [a Terra pária]; "a Terra nessa época... tava invadida por ex-rebeldes do problema da rebelião luciferiana, [Anunnakis], [Nefilins], sirianos... arturianos" [⚠️ ufológica — rotulada].
 - 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
 
+
+## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
+
+- **[P2020-04-25 · A REBELIÃO **NÃO** FOI O ENCONTRO COM O ABISMO]** "A rebelião de Lúcifer não foi porque I Luzbell olhou muito tempo para um abismo e o abismo olhou para ele e deu broca." (U0006) — Re-enquadramento aprovado na devolutiva: a queda não foi *insight*, foi **infecção**. Registrar que a fonte nega explicitamente a leitura gnóstica clássica. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **5 meses** a atual fonte oral mais antiga da ficha (`P2020-09-19`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · «UM CORONAVÍRUS DA ÉPOCA» (D-2: analogia estrutural, retida)]** "um coronavírus da época." (U0006); "eu sempre colocava vírus entre aspas porque eu não sei como chamar isso, mas o nome é vírus mesmo, é o único que nós temos." (U0006) — **Decisão D-2 do Curador.** A expressão é *analogia cosmológica*, não juízo de saúde pública; o juízo público estava na digressão bloqueada (D-1). Nota obrigatória em todo uso da aspa.
+- **[P2020-04-25 · A GNOSIS VINGATIVA COMO DESDOBRAMENTO DA QUEDA]** "a turma da gnose envzada pro lado da perdição e essa turma vai querer se vingar se todo mundo perdoasse o nosso amigo." (U0006)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Rebelião de Lúcifer" |
 | Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
 | A Sétima Trombeta do Apocalipse (B004) | a preencher | — | pendente (obra primária) |
+
 
 ## Citações-chave
 > "Período de inquietações de Yel Luzbel (Lúcifer) que se iniciou há 742 mil anos no Sistema de Capela, gerando uma espécie de vírus que contaminou mais de 213 bilhões de seres, causando uma pandemia generalizada." — B031, verbete "Rebelião de Lúcifer"
