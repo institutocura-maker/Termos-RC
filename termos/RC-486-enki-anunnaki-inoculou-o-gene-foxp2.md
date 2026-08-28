@@ -35,6 +35,12 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **[B089 · observação]** a linha mesopotâmica da RC (B060/B061: **Enki inoculou o gene FOXP2** — RC-486) e a versão deste volume (os Anunnaki sem escravos, buscando espécie) são **paralelas** — variações registradas, jamais fundidas (O-4).
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · O ENKI/FOXP2 CONFIRMADO]** "aquele ser chamado ENKI, ANUNAK [anunnaki], DOS DEUSES BIOLÓGICOS, ELE HÁ UNS 20.000 ANOS ATRÁS FEZ UMAS EXPERIÊNCIAS COM CASAL DE HOMO SAPIENS, DE HOMO ERECTO, HOMO NEANDERTHALENSE... E ELE COLOCOU O GENE FOXP2 DELE NESSES SERES PARA VER SE ESSES SERES DESPERTAVAM ALGUMA RACIONALIDADE PARA APRENDER A RECEBER ORDENS. **ENTÃO, A FINALIDADE FOI DESPERTAR LÁ ATRÁS SÓ PROS HUMANOS OBEDECEREM AOS DEUSES**" [⚠️⚠️ a confirmação histórica + a finalidade da obediência]; O CONTEXTO: "Eva veio da descendência de Pandora... A GENÉTICA DE EVA ERA NÃO OBEDECER OS DEUSES, É OS HUMANOS LIVRES. A DE ADÃO ERA OBEDECER OS ANUNAQUES. Então, JAVÉ PEGOU CARONA NISSO" (RC-727/RC-024).
+- 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

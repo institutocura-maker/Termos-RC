@@ -18,6 +18,12 @@ O Manifesto do Projeto Orbum (B042, pp. 226–228) convida à "filiação espiri
 - **Variações:** Orbum; Cidadania Planetária (movimento); Declaração dos Princípios da Cidadania Planetária (manifesto)
 - **Obs.:** não confundir com o planeta **Orbum** (RC-085) — o Projeto é o movimento derivado
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · O PROJETO ORBUM REGISTRADO (a Devolutiva O-5)]** "quando a TERRA VIROU O AXISMUND, OU SEJA, O EIXO DO MUNDO desses seres. Eu expliquei isso NA PALESTRA DE ONTEM [02/11/2024]. Hoje não vai dar para explicar, senão vai tomar muito tempo, MAS **JÁ TÁ DISPONÍVEL NO PROJETO ORBUM ESSA QUESTÃO DE AXISM[UNDI]**" [⚠️⚠️⚠️ o repositório do projeto como a casa do axismundi + ⚠️ A PALESTRA DE 02/11/2024 NO RADAR DE BUSCA (a Devolutiva O-1)]; ⚠️ **A DUPLA SEMÂNTICA**: "ROCKMA/SOFIA ESTABELECEU-SE EM ORBUM, QUE É O NOME DE UM OUTRO PLANETA DE CAPELA" [o planeta de Sophia compartilha o nome do projeto de cidadania planetária — anotado sem fusão].
+- 0 códigos novos (O-3). Quarentena: institucional (o projeto).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

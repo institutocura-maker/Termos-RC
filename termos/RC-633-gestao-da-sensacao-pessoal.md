@@ -26,6 +26,12 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 
 - **[P2024-07-14] Criar a própria sensação (U0540–U0570; U0840–U0856):** "na hora em que você descobrir o problema... em algum momento você comece a reinar sobre o processo, a criar a sua própria sensação em pleno caos. A criação da sensação que você termina produzindo em você surpreende até o pessoal do paraíso, porque é superior à do paraíso em estatura moral, em mérito filosófico"; "sentir-se digno no exercício de dar de você, sem esperar receber nada desse oceano — eis a emancipação de uma consciência dignificada"; "quando o seu ser chega nesse ponto, na condição humana, eureca: o alinhamento tá pronto, o app está instalado, e tudo que você faz a partir dali a turma recebe, porque você tá dando"; "ofertai o mais belo perfume que puder sair da sua pulsação, ainda que você esteja no oceano de [podridão]".
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · A SENSÇÃO E A LUZ ACESA]** "UM SER QUE MANTÉM A SUA LUZ ACESA ATRAVÉS DAS SUAS SENSÇÕES... **O QUE É A LUZ DE UM SER HUMANO? É QUANDO A SENSÇÃO QUE ELE SENTE EMITE UMA FREQUÊNCIA LUMINOSA.** Mas você não consegue emitir uma frequência luminosa se sua sensação é [negativa]... **A SENSÇÃO É TUDO. POR ISSO QUE NO MENTALMA A GENTE TRABALHA ISSO.** Então essa sensação fará com que se alguém vai mexer com você nessa sensação, VOCÊ NEM SINTA E NÃO HAJA NENHUM PROBLEMA PARA VOCÊ... SE FOR ESPÍRITOS, SERES DEMO DESSE UNIVERSO VIZINHO, QUANDO VOCÊ ATIVA A SUA ENERGIA, ELES NÃO CONSEGUEM SE APROXIMAR" [⚠️⚠️ a ponte com o Mentalma/RC-166].
+- 0 códigos novos (O-3). Quarentena: clínica (a "frequência luminosa" como conceito do Mentalma).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

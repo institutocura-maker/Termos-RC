@@ -28,6 +28,12 @@ Forma preferida: **Áurea Catena**.
 - **[P2023-11-19 · cap. 5.3]** "Este processo é identificado como a **'maior das revoluções possíveis de ser feita sem nenhuma violência'**, onde 'cada ser humano se...' [a síntese se corta]" — a revolução pacífica (cross RC-705 Satyagraha).
 - 0 códigos novos (O-3). Quarentena científica (o "campo mórfico" — Sheldrake — como chave de leitura).
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · A OITAVA HORA — A CONSPIRAÇÃO AMOROSA]** "as estrelas entre si. A alma dos sóis responde ao suspiro das flores. A corrente da harmonia faz todos os seres da natureza harmonizar entre si... INÍCIO DA REVELAÇÃO CÓSMICA NOS SEUS PRIMEIROS ESTÁGIOS... A CHAMADA CONSPIRAÇÃO AMOROSA, no sentido de que AS ESTRELAS CONVERSAM ENTRE SI, OU SEJA, SERES DE DIVERSOS NÍVEIS ESTÃO CONVERSANDO ENTRE SI a partir dos temas que a revelação cósmica está resgatando porque estavam perdidos... LUZES FORAM ACESAS, ALMAS FORAM RESPONDENDO AO CHORO DA VIDA BIOLÓGICA E ASSIM SURGIU UMA CORRENTE DE HARMONIA QUE TENTA CRIAR A CHAMADA AURA CATENA [ÁUREA CATENA], QUE É A CORRENTE DE LUZ QUE ENVOLVE VÁRIOS SERES QUE ESTÃO EM VÁRIOS NÍVEIS... MAS MESMO VOCÊ ESTANDO NO CÉU, NO PURGATÓRIO, NO INFERNO, NO PRIMEIRO, OITAVO, 10º ANDAR, COMEÇA... A CATENA PASSA POR TODOS OS LUGARES. **DESDE QUE VOCÊ SE ASSOCIE À CORRENTE, VOCÊ TÁ NELA**" [⚠️⚠️ a definição completa da Áurea Catena na voz de 2024].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

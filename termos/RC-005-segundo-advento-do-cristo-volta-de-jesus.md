@@ -122,6 +122,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2023-04-01b · A SEPARAÇÃO DO JOIO E DO TRIGO]** "a promessa que o homem Jesus fez de aqui retornar, não nascendo novamente como humano, mas na sua condição celestial, PARA PRESIDIR PESSOALMENTE A SEPARAÇÃO DO JOIO DO TRIGO, para cumprir aquilo que Enoque lá atrás apresentou ao mundo: A AGENDA DE JAH... nessa agenda veio algo chamado JUÍZO FINAL"; "o tempo é simultâneo. Essas coisas estão ocorrendo simultaneamente... HOCHMAH OU SOFIA VAI SE APRESENTAR À TERRA ENQUANTO O SEU PRÓPRIO ESPÍRITO, QUE É O ESPÍRITO DE JESUS, COMANDA ESSE PROCESSO DE SEPARAÇÃO DO JOIO E DO TRIGO, MAS NA ESPIRITUALIDADE" [a dupla presidência; a ponte com RC-565].
 - 0 códigos novos (O-3). Quarentena: teológica (a leitura da segunda vinda/juízo final como processo da RC).
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · A NONA HORA DO NUCTEMERON — A VINDA DE SOFIA]** (a decodificação): "A NONA [HORA]... **O NÚMERO QUE NÃO DEVE SER REVELADO, QUE É O QUE NÓS VAMOS VIVER DENTRO DE POUCOS DIAS, QUE É EXATAMENTE A VINDA DE SOFIA, O FIM DO GOVERNO DE JAVÉ, DEVIDO À DESATIVAÇÃO DA LILA E DA TRIMURTI. A QUALQUER MOMENTO ISSO ACONTECE. NÓS ESTAMOS VIVENDO ENTRE A OITAVA E A NONA HORA**... para que o companheiro dele, [OLM], POSSA COMEÇAR A ATUAR SEM JAVÉ ATRAPALHAR E SEM A TRIMURTI SE METER A BESTA, PORQUE ESSE UNIVERSO VIZINHO TÁ SE ACABANDO. ENTÃO TUDO VAI VIR PARA CÁ E O TRABALHO DO QUARTO LOGOS [DE] HOMEM VAI SER AQUI" [⚠️⚠️⚠️ a nona hora batendo — a Absorção do Nuctemeron como estrutura narrativa na ficha da vinda de Sophia (a Devolutiva O-3)].
+- **[P2024-11-03 · A DÉCIMA HORA — A REINTEGRAÇÃO]** "A 10ª HORA... a chave do ciclo astronômico do movimento circular da vida dos homens... **O MOMENTO DA REINTEGRAÇÃO DO PLANETA TERRA. Até hoje os humanos ficaram isolados, mas COM A VINDA DE SOFIA, OS HUMANOS VÃO AGORA SABER DE TUDO QUE EXISTE VIDA LÁ FORA. OU SEJA, A IGNORÂNCIA VAI SER ROMPIDA. SÓ CONTINUE IGNORANTE QUEM QUISER**"; A 11ª: "AS ASAS DOS GÊNIOS... ELES VOAM DE ESFERA EM ESFERA, LEVANDO MENSAGENS DE DEUS DE MUNDO A MUNDO... O CONHECIMENTO DECIFRADO E COLECIONADO A PARTIR DA LÓGICA HUMANA... É PARA SER EXPORTADO PARA O RESTO DO UNIVERSO BIOLÓGICO, COMO TAMBÉM PARA O UNIVERSO DEMO".
+- 0 códigos novos (O-3). Quarentena: teológica (o fim do governo de Javé).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -20,6 +20,12 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 - ligada à Revelação Cósmica (RC-094), ao Mentalma (RC-166) e à Ciência Pessoal (RC-695);
 - cada um cria a própria vivência íntima; "não há manual".
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · A ESCOLA DA DECIFRAÇÃO E O PERSPECTIVISMO]** "é preciso surgir uma escola que faça A ARTE DA DECIFRAÇÃO DA REALIDADE SER ALGO HONESTO E PRECISO. **POR ENQUANTO É SÓ HONESTO, MAS AINDA NÃO É UMA ARTE.** Por enquanto, a revelação cósmica é um monte de informações com mais de 1[00?] palestras e vários livros. Não sou só eu, várias pessoas escrevendo... A escola... QUE A GENTE TÁ TRABALHANDO NELA, ORGANIZA TODO ESSE CONHECIMENTO e a gente vai deixar isso à frente. O QUARTO LOGOS VAI RETOMAR A PARTIR DISSO para poder começar de fato a trabalhar os ajustes na condição humana no sentido de transformar a arte da decifração num processo de fato honesto, sem fé... com cuidado mental, com precisão intelectual, com lucidez, com tirocínio"; **O PERSPECTIVISMO**: "ou seja, PRATICANDO O PERSPECTIVISMO, QUE É A ARTE DE VER SOBRE TODOS OS ÂNGULOS, SOBRE TODOS OS ÂNGULOS POSSÍVEIS, UM MESMO PROBLEMA PARA MELHOR PODER DEFINI-LO SEM CRIAR UM TRANSTORNO COGNITIVO sobre aquilo"; "ISSO AQUI É A IDADE ADULTA DA EVOLUÇÃO UNIVERSAL. SÓ OS HUMANOS PODEM PRODUZIR ISSO. Mas para que surja esse... aspecto adulto no nosso psiquismo é necessário uma série de ajustes"; A ORIGEM: "tudo que ele [OLM] fez foi TENTAR CRIAR ALGO QUE HOJE NÓS CHAMAMOS DE ESCOLA DA DECIFRAÇÃO DA REALIDADE... FOI FECHADA porque vários alunos terminaram se envolvendo com as brigas da rebelião de Lúcifer" (RC-092/RC-002).
+- 0 códigos novos (O-3). Quarentena: clínica (o "transtorno cognitivo" como metáfora epistemológica).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

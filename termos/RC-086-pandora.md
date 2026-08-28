@@ -86,6 +86,12 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[P2023-04-01b · O DNA DE PANDORA E OS 300]** "quando a gente viu ali 300 lutando contra 5 milhões [o filme 300], ERA UM RESTINHO DA DIGNIDADE HUMANA... educados sob a égide DO DNA DE PANDORA, DA LIBERDADE"; "os ideais libertários da genética de Pandora, de Eva, dos descendentes helênicos. HELENO ERA NETO DE PANDORA" [⚠️ a genealogia].
 - 0 códigos novos (O-3). Quarentena: a leitura da mitologia grega como registro narrativo da RC.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 — eco] A PRIMEIRA REVOLUÇÃO]** "PANDORA JÁ TINHA FEITO UNS 18[.000] ANOS ANTES DE EVA A PRIMEIRA REVOLUÇÃO NO SENTIDO DE PROMOVER PROGRESSO PROS HUMANOS" [⚠️ o refinamento da cronologia interna: Pandora ~18.000 anos antes de Eva — coerente com os ~48.000 anos da P2023-04-01b se Eva for ~30.000]; "Eva veio da descendência de Pandora... a genética de Eva era NÃO OBEDECER OS DEUSES" (RC-727).
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

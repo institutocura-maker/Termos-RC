@@ -210,6 +210,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2023-04-01b · A TRIMURTI NA SEQUÊNCIA DOS MERGULHOS — eco]** "olhando agora via mitologia ariana hindu... o criador [Brahma], o mantenedor [Vishnu], o destruidor ou reciclador [Shiva]. E ESSES TRÊS SERES COMPORIAM ALGO QUE SE CHAMA... TRIMURTI... Mas os hindus afirmam que num segundo momento uma outra tríade... TRIDEVI, que corresponderia aos seres [Lakshmi], PARVATI e SARASVATI" [⚠️ a Tridevi como o segundo trio da Ogload (RC-600)]; "A TRIMURTI É CATIVA, REFÉM DO UNIVERSO VIZINHO" [por isso Sophia/Hochmah "criado pela Trimurti para representar a Trimurti neste universo"]; **A PERSEGUIÇÃO A MOROS**: "Brama, Virgino e Chiva descobriram que alguém sabia da vulnerabilidade, ou seja, da parte fraca ou da fraqueza do código de cada um deles, COMEÇARAM A EXIGIR QUE MOROS MOSTRASSE ISSO PARA ELES... porque disputavam, brigavam o tempo inteiro. As mitologias contam toda essa história"; + BRAHMA O PRIMEIRO LOGOS: "o primeiro logos Brama semeou a criação com o tijolo da vida... o segundo [Shiva] construiu corpos e deu polaridade e sexualidade... o terceiro [Vishnu] pôs para evoluir [a confiança]" [a síntese dos três].
 - 0 códigos novos (O-3). Quarentena: a mitologia hindu como registro narrativo.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 — eco] A DESATIVAÇÃO E O SONO]** "A VINDA DE SOFIA, O FIM DO GOVERNO DE JAVÉ, DEVIDO À DESATIVAÇÃO DA LILA E DA TRIMURTI... SEM A TRIMURTI SE METER A BESTA"; "QUANDO JAVÉ ENTRAVA EM COMAS, O SONO DE BRAHMA descrito na mitologia ariana hindu, OS ANJOS CONTINUAVAM AGINDO"; BRAHMA e a última fórmula: "'você já gastou quase todas as suas fórmulas com RAVANA, QUE FOI UM REI DOS RAKSHASAS, QUE ROUBOU DE VOCÊ DIVERSAS FÓRMULAS DO SEU PODER... você agora só tem um, então tome bem cuidado'... Brama, que é meio corintiano vascaíno [a piada]" [RC-037]; VISHNU: "'você não quer brigar com Chiva, né? Na disputa da raça humana que surgiu com essa sagacidade toda que nem você tem, nem Chiva tem'".
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

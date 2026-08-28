@@ -103,6 +103,12 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2023-04-01b · OS TRÊS GRUPOS — a tripartição de Jesus]** (ver RC-005 para o bloco integral): "AQUI NA TERRA TEM TRÊS TIPOS DE SERES HUMANOS" — a minoria que prefere morrer a matar / o grande grupo que mata para não morrer / "ESTES FAZEM O MAL POR FAZER O MAL. ESTES MATAM POR MATAR... SÃO FILHOS DAS TREVAS. E DAQUI PRECISARÃO SAIR" [a absorção na malha do agente: o critério da agenda interior].
 - 0 códigos novos (O-3). Quarentenas: ufológica (Marte/os 500 casais — rotulada) + clínica (a especiação como chave de leitura).
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · AS MULHERES DA REVOLUÇÃO]** "ESSE PAPO AQUI DE VISHNU/BRAHMA FOI ANTES DE EVA, PORQUE PANDORA JÁ TINHA FEITO UNS 18[.000] ANOS ANTES DE EVA A PRIMEIRA REVOLUÇÃO NO SENTIDO DE PROMOVER PROGRESSO PROS HUMANOS. **DEPOIS LILITH, DEPOIS É QUE EVA E UMA FILHA QUE ELA TEVE QUE NINGUÉM FALA CHAMADA NOREIA, É QUE ESSAS FIGURAS, OU SEJA, AS MULHERES, É QUE FIZERAM A REVOLUÇÃO. NÓS, OS BABACOIDES HUMANOS, MACHOS, ZERO À ESQUERDA**"; "EVA VEIO DA DESCENDÊNCIA DE PANDORA... A GENÉTICA DE EVA ERA NÃO OBEDECER OS DEUSES... A DE ADÃO ERA OBEDECER OS ANUNAQUES"; A ESPECIAÇÃO TRANSHUMANISTA: "o ajuste na condição humana... numa especiação da espécie humana, MAS NÃO VIA CORPOS BIOLÓGICOS, MAS SIM NO ÂMBITO DO TRANSHUMANISMO... é o EU do ser humano, que mesmo no corpo de androide... mas surge lá um tipo de amor" (RC-644/RC-092).
+- 0 códigos novos (O-3). Quarentena: clínica (o gênero/Abel afeminado — rotulado).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

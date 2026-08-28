@@ -57,6 +57,12 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - **[B002 p. 7]** a molécula passou a ser «fator de replicação existencial» para os demais seres; o «código da vida» via códons = **quarentena científica** (analogia do autor).
 - **[B002 p. 150]** dois processos holográficos (elétron / «DNA mãe»); DNA = código da existência «quimicamente digitalizado». RC-218 permanece **sem ficha**. «Cota doentia do DNA» (p. 187) = **clínica — fora**. Sem fusão com B001 / B033 / B019. Fonte **B002** já constava na tabela-mestra.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · A SEXTA HORA — O CRIADOR COMO DOENÇA]** "O CRIADOR PERSEGUE OS SEUS ESCOLHIDOS DENTRO DA NATUREZA HUMANA E SE EXPÕE, SEM QUE O SAIBA, PARA SER DECIFRADO. **O CRIADOR FALIU.** Aí ele pegou o código dele, escolheu vários seres, INOCULOU ESSES SERES COM A DOENÇA DELE, ESSES SERES PASSARAM A SER DOENTES. E na hora em que cada doença desse foi diagnosticada e surgiu um remédio... **É ISSO QUE NÓS SOMOS: COBAIAS DESSA EXPERIÊNCIA. O GENOMA DE CADA UM DE NÓS É O GENOMA DO CRIADOR DOENTE QUE HABITA EM NÓS. E AS INQUIETAÇÕES QUE ISSO PRODUZEM É PARA QUE O NOSSO EU APRENDA A PROMOVER MUTAÇÕES COM SUA KUNDALINI NO PRÓPRIO DNA PARA RECUPERAR A CONDIÇÃO DO CRIADOR**" [⚠️⚠️⚠️ a sexta hora do Nuctemeron]; O BIG DATA: "os anjos de Javé... TÊM O BIG DATA DO NOSSO GENOMA... eles mexem dentro de programações de verificação naquilo que o genoma de fulano pode contribuir com o genoma do criador... ELES ESPERAM TER A COLHEITA DE NOVAS SEQUÊNCIAS GENÔMICAS" [o transumanismo dos anjos como chave de leitura — a Devolutiva O-4].
+- 0 códigos novos (O-3). Quarentena: clínica (a linguagem da "doença" como metáfora).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

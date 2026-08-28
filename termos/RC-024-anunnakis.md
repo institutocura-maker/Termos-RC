@@ -65,6 +65,12 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2023-04-01 · NEFELIM/ANUNNA/IGIGIS — a tradução que cancelou o contexto]** "NEFELIM é uma expressão SUMÉRIA... pelos acadianos foram chamados de ANUNNA... na história da civilização mesopotâmica os povos foram se substituindo: sumérios... acadianos, caldeus, babilônicos, assírios"; **A TRADUÇÃO ERRADA**: "'Houve um tempo em que os Nefelim estavam na Terra'... a infeliz pessoa que traduziu... traduziu como 'Houve um tempo em que existiam GIGANTES na Terra'. ESSA TRADUÇÃO ACABA TOTALMENTE COM A PERSPECTIVA LÓGICA de que... eram seres que NÃO ERAM DA TERRA... o contexto extraterrestre é CANCELADO da interpretação"; **OS IGIGIS** [STT: 'igijis']: "Enoque conta um problema que houve com um certo tipo de anunnaque chamado IGIGIS, que desobedeceram a ordem de ENLIL... e desceram à terra e tiveram relações com mulheres. Aí o criador universal... ficou louco da vida e decretou mais uma [decisão]" + **ENOQUE**: James Bruce em 1776 [STT: 'em 76'] na Etiópia ("dois manuscritos dos 36 livros que Enoque escreveu"); "o professor Scolov na biblioteca de Belgrade" em 1846 [STT — [REVISAR]]; "Enoque foi um cara que viveu há 13, 14.000 anos atrás"; os 366 livros [STT]; o 10º céu ("onde o comandante, o criador — AINDA NÃO EXISTIA A PALAVRA 'DEUS'").
 - 0 códigos novos (O-3). Quarentena: ufológica.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 — eco] OS DEUSES BIOLÓGICOS]** "a mitologia suméria, acadiana... você tá falando de seres que foram chamados indevidamente de deuses, MAS SÃO SERES BIOLÓGICOS QUE CHEGARAM AQUI NA TERRA EM NAVES"; "aquele ser chamado Enki, Anunak, DOS DEUSES BIOLÓGICOS, ele há uns 20.000 anos atrás fez umas experiências..." (RC-486); "a de Adão era obedecer os Anunaques".
+- 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

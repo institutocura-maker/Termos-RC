@@ -81,6 +81,12 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[B022 p. 5]** Introdução (só paratexto): a entidade «antes **Adhyshprabrajna**» procedeu a Criação indevida na expressão Adhyatman. Nome pré-queda neste volume = remissão a **RC-310**, sem interpolar Prajapati / Perpérion a partir daqui.
 - Falas da Trimurti **isoladas**. Sem fusão com B024 / B037. Fonte **B022** já constava na tabela-mestra.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 — eco] A CONTAMINAÇÃO DE PRABRAJNA]** "EU ENTENDI SEMPRE PELO QUE EU ESTUDEI... QUE TUDO QUE CHEGA AQUI DE ALGUMA FORMA É CONTAMINADO PELA CRIAÇÃO DE PRABRAJNA, PELO QUE JAVÉ FEZ. [OLM] NÃO PASSOU POR ISSO NÃO..." (a_RC-092/RC-037).
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

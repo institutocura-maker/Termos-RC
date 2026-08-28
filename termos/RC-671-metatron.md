@@ -53,6 +53,12 @@ Forma preferida: Metatron.
 - **[P2021-05-08 · A FUNDAÇÃO DE 2021 · O METATRON QUE "NÃO SUPORTOU" — A TRAGÉDIA DOS TRÊS]** "a última tradução mais compreensível seria o Metatron... SUCUMBIU, ELE NÃO SUPORTOU. O Enoque humano morreu lá fora, ficou essa forma clonada de Metatron que nunca [conseguiu]... NÃO CONSEGUIU LEVAR ADIANTE A PERSONALIDADE DE ENOQUE"; "E OS TRÊS CARAS PERDERAM DE VEZ O ACESSO AO CAMPO MÓRFICO HUMANO... O QUE PARA ELES FOI UMA TRAGÉDIA" [⚠️ a tragédia trimurtiana — a perda do acesso ao campo mórfico humano]; o clonado que nunca funcionou; + o elo com a aposta (a RC-489).
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 — eco] O PODER DADO A ENOQUE]** "ele pegou Enoque, que foi o sétimo dessa relação, levou Enoque, DEU PODER A ENOQUE... porque ele queria usar Enoque de vez em quando PARA APARECER PROS HUMANOS, dizendo: 'eu sou o escolhido de Jah'" (ver RC-489 — a tecnologia e os 366 livros).
+- 0 códigos novos (O-3).
+
 ## Fontes
 P2025-05-31.
 

@@ -84,6 +84,12 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[P2023-04-01 · O CÓDIGO MICROBIANO E OS TRÊS FORNOS — a grafia normalizada]** "Quando a gente fala em vírus, protozoários, bactérias, a gente tá falando na forma mais minúscula de vida... ISSO AQUI É O CÓDIGO DO CRIADOR QUE VEIO DE LÁ PARA CÁ. Em um dos livros últimos que eu lancei chamado ALÉM DA ORDENAÇÃO DO CAOS, A FACE MICROBIANA DO CRIADOR [B064 — a variação documentada], é exatamente isso que eu tenho a explicar"; **OS TRÊS FORNOS REPLICADORES (a grafia fonética da raiz)**: "a vida biológica foi replicada através de TRÊS FORNOS REPLICADORES... **de AWAAIEN, AON E AINGAN** [a grafia desta fonte — NORMALIZANDO o [REVISAR] 'Aaion/Aá Maayon/awailingan' da P2023-04-15; fonética a confirmar], PORQUE ERA UM FORNO PARA CADA UM DOS TRÊS SENHORES da trimúrti ou da tríade"; o transfer: "o código de vida do criador foi transferido do universo vizinho pro daqui" — "a vida primeiro aconteceu lá, nos primeiros 7 bilhões de anos desse universo vizinho... não existia vida no nosso universo" [RC-280 no pacote].
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · O PROJETO TALM NA SEGUNDA HORA DO NUCTEMERON]** "ANTES EXISTIAM OS SERES DO UNIVERSO DEMO E AGORA, DEPOIS DO PROJETO TALBO [TALM], QUE CRIOU A VINDA DO CÓDIGO DE VIDA DO MUNDO DO UNIVERSO VIZINHO PRO NOSSO UNIVERSO... existem seres no universo biológico e esses seres do universo biológico mostravam A DUALIDADE NA CRIAÇÃO quando comparados com os seres do universo demo. Só que esses seres biológicos CONSEGUIRAM FAZER ALGO QUE OS SERES DO UNIVERSO DEMO NÃO FIZERAM: TORNARAM POSSÍVEL A EVOLUÇÃO" [a segunda hora: "os peixes do zodíaco cantam louvor a Deus"].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

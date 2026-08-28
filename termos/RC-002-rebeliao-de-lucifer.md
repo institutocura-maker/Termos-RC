@@ -92,6 +92,12 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[P2023-04-01b — eco] O SISTEMA DE CAPELA]** "lá no SISTEMA DE CAPELA, AONDE OCORREU A REBELIÃO DE LÚCIFER, que nós falamos" [o palco da rebelião — o mesmo de RC-092: a escola de decifração de Olm]; + OS ANJOS DECAÍDOS: "todos aprisionados no ORB DA TERRA... esses espíritos seriam aqueles que deram origem à gênese em termos de experimento humano" [a prisão planetária; o eco da P2020-04-18]; + A PRÉ-HISTÓRIA: o segundo mergulho (Shiva com "o plano de liquidar o amigo que caíra" — RC-454) e a clonagem do criador caído ("até então só existia Brama e certas sedes que funcionavam ao redor dele COMO CLONES, MAS TOTALMENTE ROBOTIZADOS... esse segundo ser... MANTOU-SE EM UM DESSES CLONES, DESPERTOU A SUA PRÓPRIA CONSCIÊNCIA" [⚠️ o despertar da consciência no clone — a matriz de todas as rebeliões subsequentes].
 - 0 códigos novos (O-3). Quarentena: ufológica (Capela — rotulada).
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 — eco] A ESCOLA FECHADA E OS MILHÕES]** "lá no sistema de Capela, AONDE OCORREU A REBELIÃO DE LÚCIFER... A ESCOLA DA DECIFRAÇÃO DA REALIDADE FOI FECHADA PORQUE VÁRIOS ALUNOS TERMINARAM SE ENVOLVENDO COM AS BRIGAS DA REBELIÃO DE LÚCIFER. E ESSE ASSUNTO MORREU"; "QUANDO ESSES OITO SERES MERGULHARAM, NA VERDADE FORAM MILHARES DE SERES, MILHÕES QUE MERGULHARAM, OITO CONSEGUIRAM FUNCIONAR, O RESTO PIROU... CHEGOU UM PONTO EM QUE A TURMA DO PARAÍSO: NINGUÉM VAI MAIS MERGULHAR NISSO. VAMOS CRIAR ESPÍRITOS SIMPLES E IGNORANTES, COMO É DITO NO LIVRO DOS ESPÍRITOS, PARA ESTRUTURAR TUDO QUE SURGIA AÍ DENTRO" [os espíritos simples e ignorantes — Kardec].
+- 0 códigos novos (O-3). Quarentena: ufológica (Capela — rotulada).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

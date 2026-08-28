@@ -39,6 +39,12 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **[B041 p. 43]** Prajapati / Prabrajna sofria de “inconsistência psíquica” que o autor chama de “doença do primeiro impulso” — **quarentena clínica** (leitura, jamais diagnóstico). Outras Divindades (Mavatna e Savna) tentaram ajustar o projeto na mente dela; Prajapati as expulsou e, na expulsão, a Criação “sugou” o corpo mental, “despedaçando-o”. Brahma diz que “não ‘caiu’… mas que ‘foi empurrado’”.
 - Sem fusão com B024. RC-013 / RC-387 permanecem **sem ficha**.
 
+
+## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
+
+- **[P2024-11-03 · AS GUNAS NA TERCEIRA HORA DO NUCTEMERON]** "as serpentes do caduceu de Hermes entrelaçam-se três vezes. Cérbero escancara a sua tríplice goela e o fogo entoa louvores a Deus pelas três línguas do relâmpago... AS TRÊS COMPONENTES NECESSÁRIAS À EVOLUÇÃO DO PSIQUISMO UNIVERSAL SÃO FINALMENTE DECODIFICADAS A PARTIR DO USO DA KUNDALINI, SENDO ESSE O ÚNICO MODO DE CORRIGIR E DE REDIMENSIONAR O DNA DO CRIADOR... AS SERPENTES ENTRELAÇADAS TRÊS VEZES SIGNIFICA A PERCEPÇÃO DAS TRÊS GUNAS RAJAS, [SATTVA] E [TAMAS], que a mitologia ariana hindu explica como sendo OS TRÊS PADRÕES DE ENERGIA QUE MOVEM ABSOLUTAMENTE TUDO QUE EXISTE dentro dessa criação... AS TRÊS LÍNGUAS DO RELÂMPAGO SIGNIFICAM QUE ATRAVÉS DAS FORÇAS RAJAS, [SATTVA] E TAMAS... OS RELÂMPAGOS AJEITAM O PROBLEMA DO CRIADOR. FOI ENTÃO QUE FOI VISLUMBRADA A SOLUÇÃO PARA O SEU ENIGMA, PARA SUA DOENÇA"; A 12ª HORA: "com os três fatores... o fim da criação vai ser carimbado pela força de um ser chamado Chiva" [RC-102].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
