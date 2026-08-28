@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2024-11-03 — Apolônio de Tiana e o Quarto Logos
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Leitura integral 81/81 linhas (o megabloco de 38.261 chars + o bloco do Nuctemeron) + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (28/08/2026).** Ciclo fechado: a Devolutiva do curador (via o seu Assistente) 100% aprovada → **29 fichas ampliadas + 2 no pacote (RC-189/RC-211) + 31 vínculos + 0 códigos** (777/1.856 intactos; **as 4 fichas-alvo principais: RC-259/RC-092/RC-514/RC-489**) → **A BIBLIO: B026 OFICIALIZADA + os avistamentos B016/B017/B018/B039 + a EXT-NUCTEMERON CADASTRADA (102 OBRAS)** + o Projeto Orbum registrado (RC-535) → apostila (9 PARTES + Q&A + Apêndice; **o Centurião como índice rotulado do CÓDIGO PRETO**) + DOCX + RELATORIO-DE-CICLO. Pasta engavetada em `apostilas/CONCLUIDAS/` — **A 27ª DA FASE (a primeira de 2024)**. ⚠️ **A PALESTRA DE 02/11/2024 (O AXISMUNDI) NO RADAR COM PRIORIDADE MÁXIMA**.
 
 ## 1. Identificação
 
