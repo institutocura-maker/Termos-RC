@@ -198,6 +198,11 @@ def aplicar_bloqueios(linha, end, medida=None):
 
 
 # ---------------------------------------------------------------- corpo
+def n_bruto(n):
+    """Inteiro com separador de milhar no padrão da casa (ponto)."""
+    return f"{n:,}".replace(",", ".")
+
+
 def main():
     bruto = "\n".join(LINHAS)
     # pré-checagem: toda âncora de nota e todo bloqueio têm de existir no bruto
@@ -238,7 +243,7 @@ def main():
     w(f"@subtitulo: Apostila de estudo — transcrição integral (sábado, {SIGLA}) com o bloqueio sumário do item 10 "
       "da devolutiva, aparato curatorial das 11 decisões, glossário e Apêndice do dicionário STT.")
     w(f"@fonte: original.txt do ciclo — 146.039 bytes · 141.539 caracteres · 94 linhas lógicas (U0001–U0094, 89 com texto) · "
-      "1.501 períodos · SHA-256 09f7a76d42759351b883ef4f2a71de4e795784b6e2893f0668196368ccb18644")
+      "1.501 períodos · SHA-256 `09f7a76d…ccb18644` (o hash integral está em `analise/METADADOS-INGRESSO.json`)")
     w("@nota_editor: Esta apostila é a transcrição editada da palestra «A Esquecida Honra dos Anunnaki», de 14 de "
       "outubro de 2023, preservada byte a byte em original.txt. O STT não separou os turnos: as 89 linhas com texto "
       "são falas coladas, algumas com dezenas de milhares de caracteres (U0033 tem 33.128), e por isso a divisão em "
@@ -267,8 +272,8 @@ def main():
     w("")
     w("## Cobertura (declaração, como nas Convenções v2)")
     w("")
-    w(f"- Transcrição integral publicada: **{chars_publicados} de {chars_bruto} caracteres** da fala "
-      f"(**{100.0 * chars_publicados / chars_bruto:.2f}%**), menos **{total_cortado} caracteres** suprimidos nos "
+    w(f"- Transcrição integral publicada: **{n_bruto(chars_publicados)} de {n_bruto(chars_bruto)} caracteres** da fala "
+      f"(**{100.0 * chars_publicados / chars_bruto:.2f}%**), menos **{n_bruto(total_cortado)} caracteres** suprimidos nos "
       f"**{n_bloqueios} trechos bloqueados** por determinação curatorial (item 10), cada um substituído por marcador "
       "no próprio lugar. O auditor `_cobertura_apostila.py` confere o texto parágrafo a parágrafo e reproduce a "
       "mesma contagem.")
@@ -280,7 +285,7 @@ def main():
     w("## O que foi bloqueado, e por quê (item 10 da devolutiva)")
     w("")
     for ini, fita, motivo, addr in BLOQUEIOS:
-        w(f"- **{addr}** — quarentena {motivo} — **{cortados.get(ini, 0)} caracteres** suprimidos no ponto "
+        w(f"- **{addr}** — quarentena {motivo} — **{n_bruto(cortados.get(ini, 0))} caracteres** suprimidos no ponto "
           "(as âncoras do recorte ficam apenas no gerador, para que nenhum fragmento do teor bloqueado "
           "reapareça aqui como exemplo).")
     w("")
