@@ -3,7 +3,7 @@
 """Aplica as ampliações P2021-05-15 nas fichas, lendo o pacote de texto puro.
 
 Padrão do rito: `apostilas/CONCLUIDAS/2023-06-24_*/analise/_aplicar_ampliacoes_*.py`
-(idem `_aplicar_ampliacoes_B022/B074/B075`). RAIZ = AQUI.parents[2] — rodar **antes**
+(idem `_aplicar_ampliacoes_B022/B074/B075`). RAIZ = Path(_resolve_raiz(AQUI)) — rodar **antes**
 de mover a pasta do ciclo para `apostilas/CONCLUIDAS/`.
 
 Faz três coisas por ficha, e nada mais:
@@ -17,8 +17,18 @@ deles vive na malha, `ferramentas/dados_termos.py`; o conteúdo fica no Bloco 2 
 import re
 from pathlib import Path
 
+import os
+
+def _resolve_raiz(inicio):
+    """Sobe até o diretório que contém `ferramentas/` — funciona antes e depois do
+    engavetamento da pasta do ciclo em `apostilas/CONCLUIDAS/`."""
+    d = os.path.abspath(inicio)
+    while d != os.path.dirname(d) and not os.path.isdir(os.path.join(d, "ferramentas")):
+        d = os.path.dirname(d)
+    return d
+
 AQUI = Path(__file__).resolve().parent
-RAIZ = AQUI.parents[2]
+RAIZ = Path(_resolve_raiz(AQUI))
 TERMOS = RAIZ / "termos"
 FONTE = AQUI / "_ampliacoes_P2021-05-15.txt"
 FONTE_SIGLA = "P2021-05-15"

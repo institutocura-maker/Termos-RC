@@ -14,7 +14,17 @@ endereços `(U00xx)` ignorados; `[…]` são comentários meus e saem da aspa.
 import re, os, glob
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
-RAIZ = os.path.dirname(os.path.dirname(os.path.dirname(AQUI)))
+import sys
+if str(AQUI) not in sys.path: sys.path.insert(0, AQUI)
+def _resolve_raiz(inicio):
+    """Sobe até o diretório que contém `ferramentas/` — funciona antes e depois do
+    engavetamento da pasta do ciclo em `apostilas/CONCLUIDAS/`."""
+    d = os.path.abspath(inicio)
+    while d != os.path.dirname(d) and not os.path.isdir(os.path.join(d, "ferramentas")):
+        d = os.path.dirname(d)
+    return d
+
+RAIZ = _resolve_raiz(AQUI)
 CICLO = AQUI.rsplit("/analise", 1)[0]
 SECAO = "## Ampliação — P2021-05-15"
 

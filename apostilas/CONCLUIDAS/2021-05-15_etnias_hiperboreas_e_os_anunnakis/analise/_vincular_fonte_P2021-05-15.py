@@ -15,7 +15,17 @@ nenhum código novo, nenhum status alterado.
 import re, sys
 from pathlib import Path
 
-RAIZ = Path(__file__).resolve().parents[3]
+import os
+
+def _resolve_raiz(inicio):
+    """Sobe até o diretório que contém `ferramentas/` — funciona antes e depois do
+    engavetamento da pasta do ciclo em `apostilas/CONCLUIDAS/`."""
+    d = os.path.abspath(inicio)
+    while d != os.path.dirname(d) and not os.path.isdir(os.path.join(d, "ferramentas")):
+        d = os.path.dirname(d)
+    return d
+
+RAIZ = Path(_resolve_raiz(Path(__file__).resolve().parent))
 DADOS = RAIZ / "ferramentas" / "dados_termos.py"
 AQUI = Path(__file__).resolve().parent
 PACOTE = AQUI / "_ampliacoes_P2021-05-15.txt"

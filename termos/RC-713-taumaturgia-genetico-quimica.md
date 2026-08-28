@@ -39,7 +39,7 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 ## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · CPH4: O QUE É, DE FATO, SEGUNDO O AUTOR]** "E um tem Mas assim, quem tem osso mesmo são os humanos." (U0003); "E esse CPH4 é um tipo de enzima que as grávidas, as humanas grávidas, no seu sexto mês de gravidez soltam, eh, os organismos das mães produzem esse CPH4, exatamente para os seus bebezinhos começarem a ter um Esqueleto ósseo, osso." (U0003)
-- **[P2021-05-15 · A DROGA DO FILME × A ENZIMA REAL]** "O CPH4 é aquela droga sintética, desculpe o Pleonasmo, que no filme aparece como sendo aquela coisa azul dentro de saquinhos plásticos, né?" (U0003) — ⚠️ quarentena científica: a farmacologia é do filme Lucy (B036), não da Base.
+- **[P2021-05-15 · A DROGA DO FILME × A ENZIMA REAL]** "O CPH4 é aquela droga sintética, desculpe o Pleonasmo, que no filme aparece como sendo aquela coisa azul dentro de saquinhos plásticos, né?" (U0003) — ⚠️ quarentena científica: a farmacologia é do filme *Lucy* (2014, Luc Besson) — que **não** tem obra nem termo na Base [RETIFICAÇÃO: o piloto citava «B036»; B036 é «As Memórias de Javé»].
 - **[P2021-05-15 · O QUE OS DEUSES FIZERAM COM ESSA DESCOBERTA]** "Os caras eram tão que eles descobriram o CPH4 na condição humana, verificaram em outras espécies da natureza selvagem da Terra, mas eles queriam adequar eles porque eles é que esperavam chegar no fim como os mandatários e como a gente já sabe deu tudo errado." (U0003)
 
 ## Fontes

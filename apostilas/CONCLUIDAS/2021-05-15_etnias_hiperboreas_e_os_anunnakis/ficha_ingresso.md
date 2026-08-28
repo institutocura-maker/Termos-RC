@@ -1,6 +1,6 @@
 # Ficha de Ingresso v2.0 — P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis
 
-> **ESTADO OPERACIONAL: PILOTO REGISTRADO — AGUARDA DEVOLUTIVA DO CURADOR (O-1..O-8).** Nada na malha foi tocado: `ferramentas/dados_termos.py` intocado, 0 fichas criadas ou ampliadas, 0 relações, 0 códigos, BIBLIO intocada, espelhos (índice/XLSX/DOCX) não regenerados, apostila e DOCX não iniciados. Este é o produto da etapa 1 do rito (piloto), assinado pelo **AGENTE 13**, esteira `arena/01a04969-termos-rc`.
+> **ESTADO OPERACIONAL: CONCLUÍDO (28/08/2026 — AGENTE 13).** A devolutiva foi registrada item a item em `analise/DECISAO-DO-CURADOR.md` e aplicada em dois blocos: **BLOCO A** — **54 fichas ampliadas + 63 linhas de cadastro (54 + 9 `ficha=False`), a RC-464 materializada, 0 códigos (RC-778 intocado), 0 relações novas, BIBLIO intocada** (commit `520b83e`); **BLOCO B** — **a apostila de 486 linhas com cobertura 100% auditada (106.695/106.732 chars; 1 lacuna autorizada de 171 chars), o aparato curatorial com 8 notas do editor e 1 bloqueio, o glossário A–D (66 entradas) e o apêndice do dicionário STT (28 entradas), o DOCX (90.856 B), os três espelhos regenerados, o `RELATORIO-DE-CICLO.md` e o engavetamento em `apostilas/CONCLUIDAS/` — A 67ª DA ARCA.** O produto da etapa 1 (o piloto, com o registro `AGUARDA DEVOLUTIVA`) permanece integralmente neste arquivo e nas camadas, como histórico do rito; a linha acima é o estado vigente. ⚠️ **NO RADAR DO CICLO**: a palestra de **16/05/2021** (o alerta D-11, sem resposta do curador).
 
 ## 1. Identificação
 

@@ -9,7 +9,7 @@ Objeto: **normalização de grafia** e **identificação de variantes de STT**, 
 |---|---|---|---|---|
 | anonax · Anunax · anunques · anunaques · Anonaques · Anunais · anonacos · Anunau · Anon Chic · anonáxos · anunx | ~45 | **ANUNNAKI** (plural da base: **Anunnakis**) | RC-024 ✓ | normalizar + nota de 1ª ocorrência («o STT fragmenta o nome em 11+ formas; mantemos ANUNNAKI») |
 | perbórias · hiperbórias · hiperbórios · hipergórias · hiperbóis · hiper bória · **egoas** (ininteligível) | ~42 | **HIPERBÓREA / etnias hiperbóreas** | RC-068 ✓ | normalizar; «egoas» fica como [TEXTO CORROMPIDO] |
-| Tul · Thu · Tur · tool · tulecado · terras de Tur | 5 | **HIPERBÓREA** + **UL** (RC-209) + Thule (inexistente como termo) | RC-068/RC-209 | grafar **THULE** em itálico com [REVISAR]; NÃO criar termo |
+| Tul · Thu · Tur · tool · tulecado · terras de Tur | 5 | **HIPERBÓREA**; Thule e «UL» são **inexistentes como termo** na Base | RC-068 | grafar **THULE** em itálico com [REVISAR]; NÃO criar termo |
 | Odim · Odinha | 9 | **ODIN** | ausente como termo próprio | nota de apostila (o panteão nórdico é material de RC-068/RC-126) |
 | Aesir e Vanir · Aesires · Vanires · Air e Vanir · air e vanas · exires e van | 8 | **AESIR** / **VANIR** (ausentes como termos) | — | registrar como grafias de RC-068; sem novos códigos |
 | **demobios** · Demobio · Demobil · demobi | ~11 | **DEMOBIO** — a Base só tem **RC-186 DEMOBOL (ficha=False)** e **RC-401 Família Demolle (False)** | RC-186/RC-401 | ⚠️ **decisão de curador**: é o mesmo vocábulo (demobio ↔ demol/demobiol) ou classe distinta? A fonte mesma separa: "uma mistura de demo e de bio, mas um padrão diferente dos biodemos" |
@@ -23,15 +23,15 @@ Objeto: **normalização de grafia** e **identificação de variantes de STT**, 
 | toatas · tuatas · tutatas (de Danana / de Anu / de Danã / de Nanã / de inan / de Dana) | 18 | **TUATHA DE DANANN** (presente no texto de **RC-759**) | RC-759 ✓ | grafar Tuatha de Danann; registrar a etimologia oral ("toatas quer dizer seguidores") |
 | Zachariah Sitting · Zacarias Sitchin · Zecas City · Zacas City · Zar City · Zé Car · Zé Carity · Zecaria City · City | 7 | **SITCHIN** (zero ocorrências na Base) | — | quarentena ufológica/científica; só nota de apostila |
 | Aáon · Aamaion · Hawaiingan · Aingã · "forno de replicação de vidro" | 7 | **AWAYMAION (AÁON/VISHNU)** / **AWAYLENGAN (HAVAINGÃ/SHIVA)** | RC-500 / RC-771 / RC-499 | manter as duas grafias da fonte em nota; não renomear fornos |
-| Virgno · Morrenç · Pachu Pathiba | (idem) | **MORREN SO** / **PASUPATI** | RC-499/RC-759 | [REVISAR] «Morrenç» ≈ MORREN SO; «Pachu Pathiba» ≈ Pasupati |
+| Virgno · Morrenç · Pachu Pathiba | (idem) | **MORREN SO** / **PASUPATI** | RC-499 (forno de Vishnu) · RC-102 (Shiva/Savna) — «Morren So» e «Pasupati» não têm código próprio | [REVISAR] «Morrenç» ≈ MORREN SO; «Pachu Pathiba» ≈ Pasupati |
 | Lili · Liilet · Lilif · Lilet | 6 | **LILITH** (zero termos; presente em RC-727/RC-380/RC-191) | — | manter [REVISAR]; não equiparar Lilith a Nana sem decisão |
 | noada | 1 | **NUADA** (zero na Base) | — | item do pacote de absorção em RC-759/RC-755 |
 | milesianos | 5 | **MILESIANOS** (zero termos; em RC-759) | RC-759 ✓ | ok como conteúdo de ficha, sem código novo |
 | astronomos | 6 | **OSTRONOMOS** (RC-232) — **OU** "astrônomos humanos" | RC-232 ✓ | ⚠️ ambiguidade não resolvida: em U0003 a palavra aparece 2× **entre nomes divinos** («era Anu… e astronomos, esses dois seres tinham muito mais prestígio»); em U0009–U0010 aparece 2× **como profissão humana** ("astrônomo da NASA"). **Proposta: não fundir.** Deixar as duas leituras documentadas |
-| Javé · Jahé · Jahve · Jahvenou · Jahos · Jah · Javel · Javferência | 20 | **JAVÉ** | RC-010 ✓ | normalizar; «Jahferência» = fusão STT de «Javé/ferência de Eva» — NÃO decodificar |
+| Javé · Jahé · Jahve · Jahvenou · Jahos · Jah · Javel · Javferência | 20 | **JAVÉ** | RC-001 ✓ [RETIFICADO: o piloto dizia RC-010, que é Atlântida] | normalizar; «Jahferência» = fusão STT de «Javé/ferência de Eva» — NÃO decodificar |
 | SEDA · nuvem de Earth | — | **Sedna** (planeta menor) / **nuvem de Oort** | — | registrar como ciência de borda citada [REVISAR] |
 | CPH4 | 14 | **CPH4** (zero termos; em RC-189/RC-713/RC-710 como referência de filme) | — | manter como citado; não criar termo |
-| Lúci · Lucy | 7 | **LUCY (filme 2014)** | RC-354 B036 ✓ (BIBLIO) | ok como referência cultural; já indexada |
+| Lúci · Lucy | 7 | **LUCY (filme 2014, Luc Besson)** | **sem termo e sem obra na Base** [RETIFICADO: o piloto escreveu «B036/RC-354» — B036 é «As Memórias de Javé» e RC-354 é a Trilogia Queda e Ascensão; nenhuma das duas é o filme] | registrar como referência cultural citada pelo expositor; **não** indexar |
 | Memete | 1 | **MÍMEME / MEME** (Base: **Memete** = vocábulo do autor) | — | ⚠️ **termo próprio ausente do cadastro** — ver O-2 |
 | pamixia · ponixia | 7 | **PAMÍXIA** | — | ⚠️ idem; o STT alterna «pamixia/ponixia» na mesma frase |
 | IEA · nos botecos | 3 | sigla da escola interior | — | quarentena institucional |
@@ -82,6 +82,6 @@ Objeto: **normalização de grafia** e **identificação de variantes de STT**, 
 | `#QUARENTENA-BIOGRÁFICA` | U0018 | "Acredite, se tem um ser humano que quer parar, sou eu. Há muito tempo. E só fiz me ferrar."; a humilhação; "eu sou repetitivo por natureza" |
 | `#QUARENTENA-INSTITUCIONAL` | U0003/U0018 | IEA, "estudo dirigido", "nos botecos", o grupo que se poupa de encarnar; "Cris/Crisamon/Crisamor" (operador de slides) |
 | `#QUARENTENA-ÉTNICA` | U0003 | a linguagem sobre "raças"/"tipo ideal"/"povos do norte": o texto trata grupos humanos como linhagens híbridas; **tratar com a mesma régua do "Código Preto"** — indexar, não amplificar |
-| `#CITAÇÃO-DE-FONTE-EXTERNA` | U0003 | o filme *Lucy* (B036/RC-354) e as crônicas sumérias/"lenda de Adapa" — registrar como referência, não como fonte primária da Base |
+| `#CITAÇÃO-DE-FONTE-EXTERNA` | U0003 | o filme *Lucy* (sem obra/termo na Base — ver a linha 34 corrigida) e as crônicas sumérias/"lenda de Adapa" — registrar como referência, não como fonte primária da Base |
 
 ⚠️ **Nenhuma quarentena apaga texto**: no modelo da Convenção, o rótulo é metadado da apostila (índice de itens bloqueados), e o trecho permanece em `original.txt`. A decisão de **reter em bloco** ou **publicar com nota** é do curador (O-7 do dossiê).

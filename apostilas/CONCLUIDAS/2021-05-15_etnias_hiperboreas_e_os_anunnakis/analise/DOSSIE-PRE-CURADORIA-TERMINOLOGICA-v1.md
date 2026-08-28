@@ -72,7 +72,7 @@ Formato: **proposta · base documental (U) · efeito nos contadores · alternati
 - `P2021-05-15` entra como **fonte primária oral** (1ª camada) nas fichas de D-1..D-12 — no padrão do que a esteira faz (`fontes=[…]` em `dados_termos.py` + bloco `FONTES` da ficha + `VÍNCULOS` quando há relação de conteúdo, não só menção).
 - **Zero** vínculos novos entre termos (não há termos novos).
 - **Zero** vínculos para as auto-referências não localizadas (as cinco auto-referências do corpo e do Q&A) — elas viram o **bloco RADAR** da apostila e ficam listadas aqui para que o Curador aponte (ou não) a peça correspondente. Se nenhuma for apontada, nada entra na malha.
-- **BIBLIO:** +0. *Lucy* já está indexada (B036/RC-354); Sitchin e Hancock **não** entram como obras — a fonte os menciona em regime de quarentena (ver O-5).
+- **BIBLIO:** +0. *Lucy* **não** está indexada — [RETIFICAÇÃO: o piloto a ligava a B036/RC-354, que são «As Memórias de Javé» e a Trilogia Queda e Ascensão; nada a ver com o filme]; Sitchin e Hancock **não** entram como obras — a fonte os menciona em regime de quarentena (ver O-5).
 - **IRÉM IRON / B029 / B079:** a palestra **não** é citada em nenhum dos três; nenhuma linha de `build_xlsx.py` precisa mudar **exceto** se o Curador aprovar D-6 (RC-617), caso em que a nota bibliográfica pode ganhar «anunciado em 15/05/2021».
 
 ---

@@ -604,7 +604,7 @@ BLOCOS = {
   None),
  ("A DROGA DO FILME × A ENZIMA REAL",
   ["é aquela droga sintética, desculpe o Pleonasmo"],
-  "⚠️ quarentena científica: a farmacologia é do filme Lucy (B036), não da Base."),
+  "⚠️ quarentena científica: a farmacologia é do filme *Lucy* (2014, Luc Besson) — que **não** tem obra nem termo na Base [RETIFICAÇÃO: o piloto citava «B036»; B036 é «As Memórias de Javé»]."),
  ("O QUE OS DEUSES FIZERAM COM ESSA DESCOBERTA",
   ["eles descobriram o CPH4 na condição humana"],
   None),
