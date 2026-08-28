@@ -1,0 +1,87 @@
+CAMADA 2 — AUDITORIA TERMINOLÓGICA E STT
+P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis
+
+Objeto: **normalização de grafia** e **identificação de variantes de STT**, sem alterar `original.txt`. Nada aqui é decisão ontológica: cada linha indica a forma canônica da Base e o destino a propor na apostila. Contagens = ocorrências no bruto (Python `re` sobre `original.txt`, insensível a caixa), válidas como ordens de grandeza da instabilidade gráfica.
+
+## 1. Tabela-mestre de normalização (fonte → canônico)
+
+| Grafia no bruto (variantes) | Ocorr. | Forma canônica da Base | Ficha | Destino na apostila |
+|---|---|---|---|---|
+| anonax · Anunax · anunques · anunaques · Anonaques · Anunais · anonacos · Anunau · Anon Chic · anonáxos · anunx | ~45 | **ANUNNAKI** (plural da base: **Anunnakis**) | RC-024 ✓ | normalizar + nota de 1ª ocorrência («o STT fragmenta o nome em 11+ formas; mantemos ANUNNAKI») |
+| perbórias · hiperbórias · hiperbórios · hipergórias · hiperbóis · hiper bória · **egoas** (ininteligível) | ~42 | **HIPERBÓREA / etnias hiperbóreas** | RC-068 ✓ | normalizar; «egoas» fica como [TEXTO CORROMPIDO] |
+| Tul · Thu · Tur · tool · tulecado · terras de Tur | 5 | **HIPERBÓREA** + **UL** (RC-209) + Thule (inexistente como termo) | RC-068/RC-209 | grafar **THULE** em itálico com [REVISAR]; NÃO criar termo |
+| Odim · Odinha | 9 | **ODIN** | ausente como termo próprio | nota de apostila (o panteão nórdico é material de RC-068/RC-126) |
+| Aesir e Vanir · Aesires · Vanires · Air e Vanir · air e vanas · exires e van | 8 | **AESIR** / **VANIR** (ausentes como termos) | — | registrar como grafias de RC-068; sem novos códigos |
+| **demobios** · Demobio · Demobil · demobi | ~11 | **DEMOBIO** — a Base só tem **RC-186 DEMOBOL (ficha=False)** e **RC-401 Família Demolle (False)** | RC-186/RC-401 | ⚠️ **decisão de curador**: é o mesmo vocábulo (demobio ↔ demol/demobiol) ou classe distinta? A fonte mesma separa: "uma mistura de demo e de bio, mas um padrão diferente dos biodemos" |
+| **demobiol** · Demobiol | (idem) | **RC-771** canônico: «emergiram os gêneros demol e demobiol» (via ART-2025-08-01) | RC-771 ✓ | **atestação 2021** do termo → reforço de ficha, sem código novo |
+| Enk · Enek · Henk · Enemp · Enquenil · clã de Enek | 8 | **ENKI** | RC-486 ✓ | normalizar; «Enquenil» é **fusão Enki+Enlil** — registrar, não decodificar |
+| Enen · Ningir Rçado · clã Hen Lil · Ningursag · Ninhursag | 3 | **ENLIL** (RC-487) / **NINHURSAG** (ausente) | RC-487 ✓ | manter como [REVISAR]; não fixar identidade |
+| Mardur | 1 | **MARDUK** | RC-460 ✓ | normalizar |
+| Nana · Nanau · Danana · Inana · inan · ISAR | 27 | **INANNA (= Danu; Anunnaki)** | **RC-464 (ficha=False)** | ⚠️ peça-chave do ciclo (ver dossiê O-2.1); ISAR [REVISAR — provável ISHTAR] |
+| Anibiro · Nibiro · Nibir · Nibeiro · **inibir** [REVISAR] · Libirô | 13 | **NIBIRU** | RC-589 ✓ | normalizar; "inibir" fica marcado |
+| Viaza · viaja · Gancha · ganexa · Gene · Marra Barata · rabarata | 11 | **VYASA** / **GANESHA** / **MAHABHARATA** | RC-585 ✓ (Vyasa) / Ganesha ausente | normalizar; é o eco direto de P2021-01-23 (dois meses antes) |
+| toatas · tuatas · tutatas (de Danana / de Anu / de Danã / de Nanã / de inan / de Dana) | 18 | **TUATHA DE DANANN** (presente no texto de **RC-759**) | RC-759 ✓ | grafar Tuatha de Danann; registrar a etimologia oral ("toatas quer dizer seguidores") |
+| Zachariah Sitting · Zacarias Sitchin · Zecas City · Zacas City · Zar City · Zé Car · Zé Carity · Zecaria City · City | 7 | **SITCHIN** (zero ocorrências na Base) | — | quarentena ufológica/científica; só nota de apostila |
+| Aáon · Aamaion · Hawaiingan · Aingã · "forno de replicação de vidro" | 7 | **AWAYMAION (AÁON/VISHNU)** / **AWAYLENGAN (HAVAINGÃ/SHIVA)** | RC-500 / RC-771 / RC-499 | manter as duas grafias da fonte em nota; não renomear fornos |
+| Virgno · Morrenç · Pachu Pathiba | (idem) | **MORREN SO** / **PASUPATI** | RC-499/RC-759 | [REVISAR] «Morrenç» ≈ MORREN SO; «Pachu Pathiba» ≈ Pasupati |
+| Lili · Liilet · Lilif · Lilet | 6 | **LILITH** (zero termos; presente em RC-727/RC-380/RC-191) | — | manter [REVISAR]; não equiparar Lilith a Nana sem decisão |
+| noada | 1 | **NUADA** (zero na Base) | — | item do pacote de absorção em RC-759/RC-755 |
+| milesianos | 5 | **MILESIANOS** (zero termos; em RC-759) | RC-759 ✓ | ok como conteúdo de ficha, sem código novo |
+| astronomos | 6 | **OSTRONOMOS** (RC-232) — **OU** "astrônomos humanos" | RC-232 ✓ | ⚠️ ambiguidade não resolvida: em U0003 a palavra aparece 2× **entre nomes divinos** («era Anu… e astronomos, esses dois seres tinham muito mais prestígio»); em U0009–U0010 aparece 2× **como profissão humana** ("astrônomo da NASA"). **Proposta: não fundir.** Deixar as duas leituras documentadas |
+| Javé · Jahé · Jahve · Jahvenou · Jahos · Jah · Javel · Javferência | 20 | **JAVÉ** | RC-010 ✓ | normalizar; «Jahferência» = fusão STT de «Javé/ferência de Eva» — NÃO decodificar |
+| SEDA · nuvem de Earth | — | **Sedna** (planeta menor) / **nuvem de Oort** | — | registrar como ciência de borda citada [REVISAR] |
+| CPH4 | 14 | **CPH4** (zero termos; em RC-189/RC-713/RC-710 como referência de filme) | — | manter como citado; não criar termo |
+| Lúci · Lucy | 7 | **LUCY (filme 2014)** | RC-354 B036 ✓ (BIBLIO) | ok como referência cultural; já indexada |
+| Memete | 1 | **MÍMEME / MEME** (Base: **Memete** = vocábulo do autor) | — | ⚠️ **termo próprio ausente do cadastro** — ver O-2 |
+| pamixia · ponixia | 7 | **PAMÍXIA** | — | ⚠️ idem; o STT alterna «pamixia/ponixia» na mesma frase |
+| IEA · nos botecos | 3 | sigla da escola interior | — | quarentena institucional |
+
+## 2. Palavras que o STT **fundiu** (não são grafias, são colisões)
+
+| Bruto | Leitura provável | Tratamento |
+|---|---|---|
+| "a o pensamento moderno humanizou" | o pensamento moderno | corrigir na apostila, nota na 1ª ocorrência |
+| "estes Zeus eram sexuados" | estes (descendentes de) Zeus | **manter** o truncamento; registrar como [TEXTO CORROMPIDO] sem completar |
+| "os deuses mais antigos foram os chamados seres atrimurteindo agora pela mitologia" | «a Trimúrti, indo agora pela mitologia» | manter; nota |
+| "o Adão da Bíblia… contra a vontade de Jahferência de Eva" | «contra a vontade de Javé, pela interferência de Eva»? | **NÃO DECODIFICAR** |
+| "Amorota… Zeus sempre teve mais poder que Cos, ou seja, que Javel" | — | **NÃO DECODIFICAR** |
+| "os deibir daqui a uns 1000 anos" | «os de [Nibiru]»/«os anunnaki» | [REVISAR] |
+| "Foi está sendo feito Roger Tragédia [REVISAR] que morrendo continua no outro dia no IA nos botecos a mesma bagunça de estudo" | nome próprio corrompido | [REVISAR]; possível referência a membro desencarnado do IEA |
+| "o drama para esses seres é que só a natureza humana hoje em dia é tazo" [REVISAR] | «é tudo»? «é o prazo»? | [REVISAR] |
+| "senão tube visada" | — | [TEXTO CORROMPIDO] |
+| "Barão não, Sofia não. Mas o do povo faz assim" | «Tubarão não, Sofia não… o do polvo» | manter; nota |
+| "engolidas pelo bar lá atrás" | «pelo mar» | manter; nota |
+| "Só os poucos que ficam fora da radicidade" | «da erraticidade» | manter; nota |
+| "pegar a organ a partir de a de sequências genéticas novas que os humanos vê tendo" | «pegar órgãos/organoides a partir de sequências» | manter [TEXTO INCOMPLETO] |
+| "questões cáricas e confusões" | «questões cármicas»? | [REVISAR] |
+| "Rainarok aconteceu em Marte" / "Ranarok" | **RAGNAROK** | RC-593/RC-395 ✓ grafar Ragnarok |
+
+## 3. Números: o que fica, o que não entra na Base
+
+**Preservados como ditos** (com [REVISAR] quando isolados): 60.000 · 50.000 · 49.000/48.000 · 40.000→10.000 · 30.000 · 14.000/13.000/12.000 · 9.000–10.000 (dilúvio) · 5.000 · 2.600 · 2.500 · 1.000 · 3.600 (e a variação «não é 3600 batido») · 900 milhões–1 bilhão · 400 milhões · 6 bilhões · 13 bilhões · 28.879 genes · 100 bilhões de neurônios · 82, 86 bilhões · 16–17% usados · 84/83% restantes · 17–40% de expansão · 72 civilizações · 14 caravanas · 100.000 maluquiças · 81 e 72 luas · 930 anos (Adão) · 1867/1886.
+
+**⚠️ Divergência numerológica frontal com o canônico**: `28.879` (esta fonte) × `28.869` (Base, 16 fichas). A fonte **não** corrige a Base nem vice-versa: registro como variante com selo temporal em O-2 e, se aprovado, nota na ficha de genes (RC-055/RC-128/RC-238).
+
+## 4. Nomes de personagens: o que a Base já tem × o que não tem
+
+**Já cadastrados** (absorção): Anu (RC-587) · Enki (RC-486) · Enlil (RC-487) · Marduk (RC-460) · Ninmah (RC-461) · Inanna (RC-464, ficha=False) · Nibiru (RC-589) · Javé (RC-010) · Sophia (RC-009) · Vyasa (RC-585) · Trimurte (RC-104) · Lila (RC-075, ficha=False) · Aia/Aie (RC-031, ficha=False) · Ostronomos (RC-232) · Demobol (RC-186, False) · Família Demolle (RC-401, False) · Alt'Lam (RC-017/RC-018, False) · Radiatas (RC-093, False) · Bilatérios (RC-035, False) · Especiação (RC-056) · Hibridação (RC-057) · Hibridização genética (RC-516) · Big Data Cósmico (RC-194; **RC-197 Falso**) · Mente Coletiva (RC-188) · Organoides (RC-632) · Cérebro Radiata (RC-631) · Ragnarok (RC-593) / Ragnarok em Marte (RC-395) · Guerra Nuclear Anunnaki (RC-583) · Inquisição Espiritual (RC-617) · Bagagem Espiritual Intransferível (RC-751) · Colegiados Espirituais Humanizados (RC-745) · Método Druídico (RC-755) · Druidismo (RC-759) · Isolamento Cósmico (RC-070) · Entropia (RC-160) · Quarto Logos (RC-092) · Quarto Cérebro (RC-614/RC-758) · Protocolos Psicomagnéticos/Protocolo Mental (RC-517/RC-519) · Biodemos (RC-036) · Sirianos (RC-089) · Campo Morfogenético (RC-113/RC-465/RC-467).
+
+**Ausentes do cadastro de termos** (e que o ciclo NÃO propõe como código novo): Thule · Aesir · Vanir · Demobio · Tuatha de Danann · Milesianos · Nuada · Adapa · Sitchin · Graham Hancock · Bauval (não citado) · SEDNA · Nuvem de Oort · CPH4 · FOXP2 · Memete · Pamíxia · Banca Espiritual de Resistência · Ilha que se Move · 72 Civilizações Hiperbóreas · 14 Caravanas · ISAR · Lilith · Gandharvas (1 ocorrência "Gandarvas") · Ganesha.
+**Tratamento proposto:** (i) a maioria é **material de ficha alheia** (entra por ampliação nas fichas acima, não por código novo); (ii) **três candidatos reais a cadastro** existem e estão listados em O-2 para decisão exclusiva do curador: **Memete**, **Pamíxia**, **CPH4** — com o alerta de que **RC-778 está disponível e o teto sacrossanto é 777**, de modo que a recomendação do AGENTE 13 é **absorvê-los** (RC-188/RC-194; RC-516/RC-057; RC-713/RC-710) e deixar os três no pacote `_ampliacoes_P2021-05-15.txt` como termos-observação.
+
+## 5. Quarentenas a rotular (as 10 marcas deste ciclo)
+
+| Marca | Trechos (U) | Conteúdo |
+|---|---|---|
+| `#QUARENTENA-RELIGIOSA` | U0015 | Maomé/"maior marca do campo mórfico"; islamismo como "maior grau de afetação emocional" |
+| `#QUARENTENA-POLÍTICA` | U0003 | direita/esquerda × migração; "religiões nas TVs"; "ídolos políticos"; o exemplo alemão; "quando os humanos ficaram sozinhos e surgiram a questão das das religiões, aí isso passou a ser nos olhos da atualidade uma coisa absurda devido a ao sentido do pecado" |
+| `#QUARENTENA-TEOLÓGICA` | U0003/U0005 | "Deus ao diabo, caso exista, não existe"; "não há plano B"; Sodoma/Gomorra como bombas; "nem Deus… nem Javé impede" |
+| `#QUARENTENA-CIENTÍFICA` | U0003/U0010 | 28.879 genes; 16–17% de neurônios; CPH4 "enzima do 6º mês"; 81/72 luas; Plutão/SEDNA/nuvem de Oort; detectabilidade de Nibiru |
+| `#QUARENTENA-UFOLÓGICA` | U0003/U0010 | naves orbitando Saturno e Júpiter; anunnakis em Marte e na Lua; "tem grupos de cientistas conversando com a Nunx escondido" [STT «a Nunx» ≈ «os Anunnaki»]; Sitchin "consultor da NASA" |
+| `#QUARENTENA-HISTÓRICA` | U0003 | 1867 (Alaska) e a equipe de evangelização de 1886; mitologia "finouriana"; as tábuas de Nínive |
+| `#QUARENTENA-BIOGRÁFICA` | U0018 | "Acredite, se tem um ser humano que quer parar, sou eu. Há muito tempo. E só fiz me ferrar."; a humilhação; "eu sou repetitivo por natureza" |
+| `#QUARENTENA-INSTITUCIONAL` | U0003/U0018 | IEA, "estudo dirigido", "nos botecos", o grupo que se poupa de encarnar; "Cris/Crisamon/Crisamor" (operador de slides) |
+| `#QUARENTENA-ÉTNICA` | U0003 | a linguagem sobre "raças"/"tipo ideal"/"povos do norte": o texto trata grupos humanos como linhagens híbridas; **tratar com a mesma régua do "Código Preto"** — indexar, não amplificar |
+| `#CITAÇÃO-DE-FONTE-EXTERNA` | U0003 | o filme *Lucy* (B036/RC-354) e as crônicas sumérias/"lenda de Adapa" — registrar como referência, não como fonte primária da Base |
+
+⚠️ **Nenhuma quarentena apaga texto**: no modelo da Convenção, o rótulo é metadado da apostila (índice de itens bloqueados), e o trecho permanece em `original.txt`. A decisão de **reter em bloco** ou **publicar com nota** é do curador (O-7 do dossiê).

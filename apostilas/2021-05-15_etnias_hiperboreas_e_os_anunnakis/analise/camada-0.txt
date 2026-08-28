@@ -1,0 +1,424 @@
+CAMADA 0 — INVENTÁRIO OBSERVACIONAL DENSO
+P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis
+
+Leitura feita sobre os 6 chunks de `analise/leitura/`, que reconstituem exatamente os bytes de `original.txt` (asserção verificada). Esta camada **não corrige STT, não decide identidade, não transforma alegação em fato e não injeta termos na base**. As grafias abaixo permanecem como foram ouvidas na transcrição; a normalização fica na camada 2.
+
+Endereços: U0001–U0020 = linhas lógicas do TXT bruto (CRLF preservados). O monólogo inteiro cabe em **U0003 (71.574 chars / 73.711 bytes)**, com o intervalo de café embutido; U0005 fecha a exposição; U0006–U0018 = o Q&A.
+
+## 1. Moldura — U0001–U0003 (abertura e "o desconto")
+
+- Cabeçalho: "2021-05-15 - As Etnias Hiperboreas e os Anunnakis".
+- Abertura: "Olá, pessoal. O meu fraternal abraço a vocês." + gratidão pela "permanente conexão".
+- Pedido explícito de indulgência: "Não esqueçam de dar o desconto. em relação a ao que aqui nós vamos falar, porque realmente os os temas eles têm muitas faces e até um tempo atrás todas elas estavam ocultas".
+- "estranhamente a todo um conjunto de forças agindo para que aquilo que estava antes escondido apareça, se torneja posto à vista de dos que querem olhar".
+- "a espécie humana é é realmente um ponto fora da curva em relação a tudo que existe, seja em que nível for, do paraíso a esse caos infernal que vivemos".
+- O autor declara que **retoma um tema já tratado**: "as etnias, as espécies que nos definiram são exatamente essas que a a gente já falou em outras palestras e hoje eu vou novamente me referir ao tema, mas colocando alguns itens, algumas eh alguns painéis em torno dessas etnias".
+- Advertência de conteúdo: "alguns desses painéis são pitorescos, perturbadores, desagradáveis, mas de fato nós temos que repor, senão o o contexto mais amplo".
+- Balanço do que a esteira do IEA já faria: "já Considero que aquilo que há 20 anos atrás não estava dito em nenhuma página do conhecimento humano moderno a história do universo antes da criação desse universo. O fato de como a gente deve resgatar a notícia de que são dois universos em vez de um só da criação. Explicar toda a questão mitológica… nós já o fizemos."
+- Recorte temporal anunciado: "os últimos 50.000 anos, que a gente costuma chamar até perto de 8.000 anos atrás, de paleolítico do seu nível superior, médio, inferior, e somente a partir dessa marca que a gente vai entrando aí no neolítico".
+- "também a gente já se referiu ao antes e depois do dilúvio, o grande dilúvio."
+
+## 2. O critério anti-antrópico e o motivo do realce — U0003
+
+- Crítica ao pensamento moderno: "a o pensamento moderno humanizou todo mundo, mas aí não bate porque ficam parecendo seres humanos. mais que dão 1000 tiros no segundo de flecha que voam para ali para lá. Isso não é humano."
+- A razão de escolher o tema: "na palestra de hoje eu resolvi dar um realce aos anonax por questões que durante a palestra fica eh deverá ficar mais fácil. pra gente compreender o porquê de Deus está ressaltando os Anunax." (⚠️ "Deus está ressaltando" — formulação a tratar com quarentena teológica)
+
+## 3. O marco da racionalização e a destruição do registro — U0003
+
+- "a história humana começou no seu nível mais remoto, exatamente a cerca de 50.000, 49.000. 48.000 anos atrás, quando o Homo sapiens se tornou homo sapiens sapiens".
+- "já era uma espécie muito mais esperta que as demais… mas ainda não era racionalizada. Então essa espécie a se tornar racional."
+- "os paleantropólogos chamaram de homo sapiens sapiens, ou seja, duplamente racionais, o que é um certo exagero."
+- O destino do registro: "cujas notícias ou desapareceram ou se tornaram mitológicas ou foram cobertas pela expansão do cristianismo e do catolicismo, que terminou destruindo tudo que existia para trás, aonde havia uma cruz gaélica, galaica, gaulesa, seta, celta, o cristianismo substituir essa cruz pela cruz de Jesus".
+- "todo aquele conhecimento de uns 30.000 anos de história foi sendo destruído."
+
+## 4. O norte: Tul / Tool / Tur — U0003
+
+- "essas etnias, que eu chamo de perbórias, e nós deveríamos chamar de perbórias, foram todas elas convergindo para basicamente numa única região do planeta."
+- "aqui a gente se refere ao norte sagrado, ao norte mítico, que lá atrás, eu já fiz umas duas ou três palestras sobre isso".
+- "lá no Polo Norte existia um lendário continente que na língua Escandinávia se chama Tul Thu Alguns outros dizem que não era bem um continente, era um uma grande ilha cercada por outras partes menores de terra, mas pouco importa."
+- "Foi ali nesse lugar aonde hoje não tem mais nenhuma terra porque tudo sucumbiu, mas que existia Tul e outras partes ou ilhas menores ao redor desse continente, que essas etnias foram se fixando."
+- Adiante, na mesma linha: "nesse polo Norte em tool"; e o "grande continente de Lu" no Pacífico; "a antiga Lemúria e de MU"; "a noção que se criou em torno do Império Atlante"; "esse nome Atlânt seja muito mais conhecido que Hiperbório".
+- Declaração de recorte: "eu eu tô tendo que fazer essa opção para repor alguns fatos, mas só quero deixar claro que não tem como se contar toda a história de tudo que aconteceu na Terra."
+
+## 5. A causa: a briga que não podia se fixar — U0003
+
+- "essas etnias eram basicamente a feição da impossibilidade de espécies mais velhas que disputavam o controle do universo, o controle de todas as partes do universo."
+- "essa briga havia convergido pra Terra, ou melhor, pros nossos sistema solar muito tempo antes e se fixado de forma definitiva aqui, por volta de 400 milhões de anos e mais ainda quando o Rainarok aconteceu em Marte, aí tudo se transferiu pra Terra."
+- "nesses últimos 50.000 anos, essas forças que não puderam sair dos níveis de das moradas ou locas desse universo vizinho. Eles então procuraram criar novas espécies com a genética deles que se fizessem presentes na terra."
+- "E e por isso essa hibridagem, porque nenhuma delas… conseguia sozinha eh dominar ou se fazer presente, então tinha que se misturar com alguém… acostumada aos aos padrões de universo antimaterial e agora ter que viver no material."
+- "conseguia vir de lá, passar um tempo aqui e voltar, mas se estabelecer, poucos conseguiram isso."
+- "como tinham que ter muitos membros, caba da etnia para poder se fazer representar ter um espaço qualquer de dominação. Então, a hibridagem, o acordo, o pacto que muitas das estirpes de demo antiga eh foram fazendo ao longo desses 50.000 anos, exatamente para poder ocupar uma cidade, uma ilhota daquela."
+
+## 6. As SEIS componentes — U0003 (o núcleo estrutural da palestra)
+
+- Enquadramento: "são seis, basicamente, as principais parcelas ou componentes que ao longo dessa história de aproximadamente uns 30.000 anos de muita importância situada entre 40.000 anos e 10.000 anos atrás, esse foi o período mais importante da história dessas cidades."
+- Ressalva de exaustividade: «Essas seis são as mais importantes para o que que nós queremos estudar na palestra de hoje… mas não são somente essas as parcelas que existiram eh nesse período no hiperbório, como também não é somente no hiperbório».
+- (1) "os deuses mais antigos foram os chamados seres atrimurteindo agora pela mitologia, ariana hindu, os trimurtianos, Brama, Virgem e Chiva, os descendentes de primeira, segunda e terceira" + "nenhum desses seres nunca conseguiu sair das suas moradas. Então, eles nunca colocaram o pé deles em nenhuma dessas ilhas hiperbórias, tá? Não foi a geração mais velha, não foi foram as primeiras gerações que determinaram os fatos desses últimos milênios."
+- (2) "A primeira, a mais antiga que conseguiu fazer parte disso tem a ver com os descendentes daquilo que eu chamo seres eh demo bio, que é uma mistura de demo e de bio, mas um padrão diferente dos biodemos. Eh, é outra questão." + "aqueles seres descendentes de Odim, os Aesir e Vanir ou Aesires e Vanires, esses seres Demobio foi eh foram a as equipes que mais trabalharam nesses últimos 50.000 anos, no sentido de formar cidades ou dominar ou criar cidadelas."
+- (3) "A segunda componente mais importante já é de uma geração de Temos muito mais nova do que a dessa descendência de Odim… basicamente à geração de Zeus e os descendentes de Zeus e dos seus irmãos e irmãs de geração. Esses se misturaram com os primeiros e foram ocupando que podiam ocupar." + "eu chamo de Demobiol, porque muitos deles, diferentes das descendências de Odim, dos Aesir e dos Vanires, que não eram sexuados, estes Zeus eram sexuados."
+- (4)(5)(6) "A essas duas se associaram o quê? Os biodemos, os sirianos, os anonaques e os seres humanos."
+- Síntese reiterada: "essas seis componentes aí Elas são os focos da missigenação ou da hibridagem que aconteceu ao longo dos últimos eh 50.000 anos" e, na reprise após o pedido de slide, "os Demobil, descendentes dos Air e Vanir. Os Demobiol, descendentes de Zeus e companhia limitada e os diodemos."
+- ⚠️ A taxonomia das "três estirpes sem osso" mais adiante reordena as seis (ver §9).
+
+## 7. Os operadores de slides e o intervalo — U0003
+
+- "daqui a pouco eu vou pedir para que Cris coloque para facilitar o entendimento, mas ainda não agora."
+- "essas seis componentes que eu vou pedir agora paraa Crisamor, por favor, lançar eh isso que nós estamos falando".
+- Pós-slide: "então, Cris, pode, por favor, voltar a imagem natural."
+- No trecho final do mapa: "Eu vou pedir a Crisamon que ele coloque aí o mapa que uma vez a gente já mostrou lá atrás numa palestra que eu não me lembro qual foi. Acho que foi sobre Elan e o Rá" + "Exatamente aí onde Crisamon tá mostrando aí com o o cursou há cerca de 14.000 anos" + "o Cris, se quiser tirar pode tirar, né?".
+- Intervalo: "vamos dar uma parada aí para tomar um café. Daqui uns 15 minutinhos a gente volta." / "Bem, vamos voltar. o nosso bate-papo".
+
+## 8. A fonte antiga e o que ela diz — U0003
+
+- "quando a gente lê os livros de antiguidade, Ramaiana, Marrabarata, os livros jainistas que desconhecemos, eh, a própria, o os próprios cantos dos Vedas, livros egípcios, livros, tudo que a gente imaginar, fala desse período, fala dessas etnias. ainda que com outros nomes ou mesmo chamando algumas dessas atnias de deuses, é uma confusão que não acaba nunca."
+- Analogia com a Rebelião: "do mesmo modo que na rebelião de Lúcifer são muitas as faces daquela história e a gente teve que resumir tudo em cinco, seis famílias rebeldes quando a questão é bem mais ampla que isso."
+
+## 9. Cansaço, protótipos e o problema demo — U0003
+
+- "essas cidades hiperbórias, ainda que suas populações se vissem obrigados a participar de brigas, guerras, mas a cultura reinante era de cansaço. Ninguém queria mais isso. No entanto, eram obrigados a".
+- "não há livro nenhum do mundo e nunca mais, ao longo da eternidade, penso eu, nós teremos a capacidade de de escrever um livro assim. os 10 milhões de momentos mais importantes dos 30.000 anos de história das etnias hiperbórias. Não tem como escrever um livro desse."
+- "as etnias hiperbórias misturadas a partir dessas seis componentes produziram sim protótipos muito bons, excelentes. O único problema é que todos eles tinham um grande fator de herança do problema da genética demo. E isso basicamente inviabilizava aquele tipo como sendo o tipo ideal."
+- "não podemos fazer uma distinção muito diferente para os tipos de seres que viviam nessas etnias… os biodemos sozinhos iam se prestar… Não, não iriam servir. Os anunaques sozinhos também não. Os sirianos também não. Os seres demobiol também não. Os seres demobi também não." + "era uma mistura dessas cinco componentes mais o DNA humano."
+- A assimetria de consideração: "até então nenhuma das outras componentes… ninguém dava uma moeda de 10 centavos furados pelos seres humanos… ninguém imaginava que os seres humanos iriam herdar a Terra."
+- O diagnóstico da incompreensão generalizada: "todos os seres que viveram isso, a começar de Javé até qualquer um dos seres que era cidadão de qualquer uma dessas cidades hiperbórias… ninguém compreendia o que tava se passando e Ninguém conseguia explicar um pro outro… por dois motivos. Primeiro porque ninguém sabia que estava ocorrendo mesmo. E segundo ninguém conseguia falar uma linguagem que fosse entendida por todas as partes, por todos os tipos de psiquismo, por todos os tipos de linguagem, cultura".
+
+## 10. Vyasa, Ganesha e os Gandarvas (eco de 2 meses antes) — U0003
+
+- "Há uns dois meses atrás, eu falei que Viaza foi o primeiro a conseguir organizar uma mesma história contada sobre uma ótica de uns quatro, cinco ou seis tipos de modos de contar uma mesma história diferente."
+- "Gancha inclusive traduziu quando numa rabarata diz que viaja ao fazer isso, ganexa com uma caneta especial que ele tinha, segundo Marra Barato, Ganeixa, aquele tipo de ser demobio tem uma parte humana e a cabeça de elefantes, né?"
+- "E esse ser, como Viaza, não sabia sozinho preparar a história para todas as locas… Gene ajudou adaptando o que Viaza tava contando ao tipo de entendimento que a turma dos Gandarvas, que pertence a quatro locas distintas poderiam obter."
+- "Entendam, Só depois do dilúvio é que aconteceram essas coisas." / "somente depois de Viaza é que o universo de lá e o de cá aprenderam a sistematizar o conhecimento histórico de modo a que ele pudesse vir a ser útil um dia."
+- A finalidade da sistematização: "quando a eh o senso crítico e a razão filosófica que pudesse ponderar os fatos com justiça, sem afetação… pudesse permitir exatamente isso. Isso o quê? A busca da verdade."
+
+## 11. Quem tinha prestígio nas ilhas — U0003
+
+- Construção enfática: "nem Brama, nem Vdo, nem Javé, eh, nem Chiva, nem ninguém, era muito confiável aos seres mestiços das etnias hipergórias… nesses 30.000 anos aqui, o ser ou dos deuses assim feridos."
+- "o Deus que mais tinha prestígio, o Deus que mais era reverenciado… não era nenhum dos seres que vive nesse universo aí vizinho, em nenhum das moradas. Não era nenhum ser trimurtiano daqueles, da trimurte, não era ninguém, era um ser do nosso universo."
+- "Ah, Sofia, não esqueçam, Sofia. era Anu, Anu, o, entre aspas, rei dos anunais. Eh, e astronomos, esses dois seres tinham muito mais prestígio junto às ilhas, desculpa, junto às etinias hiperbórias híbridas do que a turma do universo vizinho, como astronomos e seus descendentes, suas linhagens e uma um modo muito particular de viver e tinha suas limitações."
+- "a NU era a figura mais eh querida. Não, não, não, não, o termo não é querido… mais respeitada, mais com mais credibilidade, até porque a Lua visitava essas essas essas etnias, essas cidades, né? Astronomos também. Zeus algumas vezes conseguia, mas quem vinha mais era Apólogo, representando Zeus, né?"
+- "Brama, virgem e chiva jamais."
+
+## 12. As 72 etnias e os 14 sobreviventes — U0003
+
+- "essas ilhas, elas tinham aproximadamente umas umas 72 etnias importantes e durante esses 30.000 anos e nenhum era igual a outra eram distintas, um grau de mistiçagem eh específico".
+- "quando essas eh etnias se viram todas em perigo de morte devido ao cataclismo que teve há 14, 13, 12.000 anos atrás e que essas ilhas todas afundaram lá no norte e que a única notícia que se tem dessas figuras é que os tuatas de dano chegaram na atual Irlanda e no atual na atual Escócia."
+- "toda essa história sobrou ou se esconde atrás dos toatas de Danana."
+- "esse toata de Danana, antes de ser conhecido como toata de Danana, era conhecido como toatas de Anu."
+- "Por Porque das 72 civilizações eh importantes da de etnia hiperbória mistiça, 14 conseguiram sobreviver e saíram lá dessas terras e terminaram chegando eh no norte da dos continentes americanos, asiático e europeu."
+- "os tuatas de Danana, seguidores do deus Anu e da deusa Danana."
+
+## 13. Anu, Inana e o ciclo de 3600 anos — U0003
+
+- "Anu, ele tinha dois filhos, En, os famosos clã de Enek, que a gente já falou também em em palestras passadas."
+- "Anu tinha uma neta chamada Inana. E essa figura era um figuraço, porque ela inana diferente de do dos dois principais filhos de Anu em Lilio e do próprio Anu."
+- "Essa turma toda, o Anon Chic é quem nascia em Nibiro e Nanau na terra. É neta de Anô."
+- "ela quando a nu vinha a Terra cada cerca de 3600 anos, que é o tempo da órbita que o planeta Anibiro faz em torno aí do sistema solar. Quando Nanu vinha, Anu vinha a Terra, se encontrava com Inana. E quando Anu não vinha à terra, Inana ia lá e Libirô, se encontravam com Anu e assim avô e Népta se tornaram amantes."
+- "Como também Nana fez tudo que tinha que fazer para, mesmo sendo mais nova, ser considerada uma das grandes deusas dos anunaques."
+- "a deusa Danana é a deusa inana, ou seja, os toatas de Danan, na verdade são os toatas de inan, ou seja, toatas quer dizer seguidores."
+- "os anunx tiveram nesse contexto e por isso os tuatas de Danana, na verdade é Inana e neta de Essa figura teve um poder absolutamente grande até cerca de 2500 anos atrás."
+
+## 14. As duas linhagens: Pandora × Anunnaki, e os dois Adãos — U0003
+
+- "48, 49.000 anos, quando surgiu o Homo SPS, sapiens o racionalizado, isso veio, a gente já falou lá atrás, de dois movimentos distintos."
+- "Pandora, que terminou se tornando uma fêmea humana e procri e já descendentes racionalizados nasceram disso."
+- "E Enen, um dos filho de Anu, que com sua irmã eh Ningir Rçado, tem vários vários nomes para se dizer dizer sobre essa figura, dependendo da pronúncia ou se você vai paraa fonética suméria, fonética eh acadiana, caldaica, rita, ou rita, essas figuras estão presentes sob vários nomes, dependendo da cultura que a ele se refira."
+- "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né? A a história da criação do Homo Sapiens Enkiano, ou seja, filho de Enk, a partir de uma manipulação que essas três figuras pegando o DNA de Enk, mexeram no DNA de alguns casais homo sapiens a cerca de 49.000 anos."
+- "E aqui surgiu uma geração de humanos também em vias de se racionalizar, mas a moda da racionalidade um pouquinho prejudicada dos anonaxos."
+- "essas duas linhagens de DNA modificado, de DNA humano modificado pela interferência da mente de Pandora e da genética dos anunax."
+- "essas duas linhagens, de certa forma produziram dois seres que em algum momento da história foram chamados de Adão. Só que o Adão bíblico viveu quase 1000 anos, 930 anos".
+- "Mas o Adapa em que ano? Não, o Adap em que ano viveu? Viveu pouco. Por quê? Porque diferente do Adão movido, escolhido por Javé, em que e os Anunacas, eles morriam de medo que os humanos que já eram naturalmente mais espertos que eles em muitas coisas."
+- "Quando racionalizados no nível de entender a linguagem dos Anunax, eles tinham medo do que esses humanos poderiam se tornar após a manipulação genética feita por eles. Então, em que encurtou mais ainda a genética do ser humano para que ele não vivesse muito."
+- "o Adapa em que ano, ou seja, o Adão dos Anunax era extremamente inteligente, mas de vida curta. Enquanto que o Adão da Bíblia… foi um Adão que surgiu muito inteligente, mas contra a vontade de Jahferência de Eva e com a vida longa de 930 anos. Matusalém teve mais ainda do que Adão."
+- A fonte da lenda: "nas crônicas sumérias, nas tabuletas sumérias acadianas encontradas no século XIX nas bibliotecas da antiga capital de Min Na biblioteca de Nínive, antiga capital do império assírio, existem lá diversas crônicas sumérias e uma delas se chama a lenda de Adapa. Essa lenda de Adapa é exatamente o a lenda do Adão em que ano".
+- "O fato é que o Adão de Javé e o Adapa de Enk são figuras humanas. Hoje estão aqui, mas cada um tem registros genéticos em algumas áreas dos seus genomas que tem origens distintas e diferentes."
+
+## 15. Sem osso: a anatomia das estirpes — U0003
+
+- "os Demobil, descendentes dos Air e Vanir. Os Demobiol, descendentes de Zeus e companhia limitada e os diodemos. Esses três, essas três Eh, estirps. Nenhuma das três tinha osso no corpo."
+- "Aí aqui nós estamos falando de duas estirpes do universo vizinho e uma do daqui."
+- "E o que é que eles tinham? Cartilagem e outros tecidos, mas o osso não tinha. E os sirianos e os anunques, os sirianos também não tinham, ô tin um um tipo de cartilagem formidável."
+- "os anunx não é só uma coisa como é o ser humano. O ser humano, todos nós somos farinha do mesmo saco, mas os anuna não são. Eles têm tipos de anonax."
+- "quem tem osso mesmo são os humanos."
+
+## 16. CPH4, o filme Lúci, o crânio — U0003
+
+- "Bom, o problema disso é o CPH4. O que diabos é o CPH4? É um enzima."
+- "O CPH4 é aquela droga sintética, desculpe o Pleonasmo, que no filme aparece como sendo aquela coisa azul dentro de saquinhos plásticos… que aquilo desbloquearia no filme os entraves ou as travas ou os códigos de de bloqueios, bloqueio que existem no cérebro humano."
+- "esse CPH4 é um tipo de enzima que as grávidas, as humanas grávidas, no seu sexto mês de gravidez soltam, eh, os organismos das mães produzem esse CPH4, exatamente para os seus bebezinhos começarem a ter um Esqueleto ósseo, osso. É uma espécie de enzima que funciona como uma bomba atômica dentro do corpo do bebê".
+- "talvez a principal [importância de ter osso] seja o fato de ter crânio, pois que o crânio protege o que fica dentro dele, que é o mais importante. no esforço que a natureza faz para produzir vida complexa, que é o cérebro. O crânio contém o cérebro."
+- "Ah, você disse que biodemo não tem osso? Não, não tem. Sofia biodemo. É, foi o primeiro tipo de ser biodemo que surgiu. Os biodemos surgiram a partir de Sofia."
+- "Então quer dizer que Sofia como ser biodemo, não tem osso? Não, não tem. E ele tem o quê? O que os invertebrados têm? Cartilagens que compõe também o esqueleto. Tubarão tem osso? Não."
+- "Povo tem osso? Não. Cartilagem. Putz, mas são nove cérebros. Um cérebro em cada tentáculo e um central." (⚠️ "povo" = STT para POLVO, a repetição é sistemática no texto)
+- "O cérebro de um povo, mesmo sem ter osso, age emocionalmente no padrão sem geiográfico. Barão não, Sofia não." (⚠️ passagen corrompida no STT)
+- "só se aprendeu a produzir esse CPH4 muito mais recentemente nessa história de 13 bilhões de anos. Sofia foi criada há 6 bilhões de anos lá atrás, então não tinha."
+- "Se lembra que eu tenho falado que quando os produto de Aáon, que é o forno de replicação de vidro, administrado por Virgno e Morrenç e o forno de Hawaiingan, administrado por Pachu Pathiba. O produto disso aqui se encontrou um só muito recentemente, há cerca de 900, 1 bilhão de anos atrás, né? É que surgiu a questão do cérebro bilatério, aqueles dois hemisférios."
+- "o ser humano não foi o primeiro a ter, aliás, o ser humano foi o último a surgir com essa característica, porque ele é produto da evolução de tudo que veio desse momento em que se uniram as conquistas evolutivas de Aamaion e Aingã."
+- "as experiências malucas começavam a ser feitas" / "ocorreu pestes, vírus, foi uma loucura. Na verdade, ainda está sendo, porque o que nós vivenciamos hoje é um pouco ou muito ou total desdobramento do que aconteceu lá atrás".
+- Os números citados nesta linha: "os nossos 28.879 genes, cada um gene desses tem milhares de cons e a loucura, a troca eletroquímica aqui dentro das bases nitrogenadas tem como objetivo produzir uma receita para cada gene desse… Proteínas, enzimas."
+
+## 17. O anúncio de uma palestra futura — U0003
+
+- "Eu não sei se vocês se lembram quando a gente aqui analisou o filme Lucy." (⚠️ uma análise de filme já feita em ciclo anterior — não localizada na Arca: item de radar)
+- "eu vou falar sobre isso, uma palestra que eu devo fazer domingo em reserva são os protocolos da mente e o quarto cérebro vão criando, vão colonizando esses neurônios que ainda nem foram ativados ou ficam neutros."
+- "Por quê? Porque os humanos estacionaram."
+- "nós, seres humanos, somos a única espécie que ainda tem um cérebro que por ser mais recente o cérebro com a proteção do crânio do que os cérebros radiatas, tipo de Sofia, nunca foi bilatério, tipo do povo, e em corpos invertebrados, nós aqui precisamos romper essa barreira para usar os 84, 83% restante. das ligações neuroniais, sinapses que existem na nossa no nosso cérebro".
+
+## 18. A citação do filme e a régua do cérebro — U0003
+
+- "tinha o Morgan Freeman faz o papel do cientista que fica falando enquanto o filme vai se desenvolvendo até que Lucy e o personagem de Morgan Freeman se encontram."
+- Citação lida: "Nós, seres humanos, até o momento em que estamos aqui falando, Só usamos cerca de 16 a 17% dos cerca de 100 bilhões de neurônios disponíveis no nosso cérebro. Normalmente os cientistas falam 82, 86 bilhões de neurônios, mas o filme já arredondou para 100."
+- "A gente só pode responder o que é um ser humano quando a gente chegar a usar 100% do nosso potencial cerebral. Uau! Mas isso é possível? Olha, se tá aí, alguém um dia pode chegar lá. Vai ser bom ou ruim? Aí o filme Lúci brinca."
+- "o filme Lúci é para assistir mais de uma vez, tá? Pra gente percebendo todas as nuances e todos os nuances, riquezas que tem ali".
+- ⚠️ O autor oscila entre duas cifras para o não-usado: "usar os 84, 83% restante" (contra o "16 a 17%" usado citado do filme) — ambas aritméticamente coerentes entre si.
+
+## 19. O que as etnias entenderam — e erraram — U0003
+
+- "algumas etnias hiperbórias compreenderam isso. Só que eles compreenderam isso primeiro nos cérebros que não tinham crânio… Porque eles queriam que eles tomassem conta e herdassem. Ninguém olhava para cabeça dos seres humanos."
+- "eles descobriram o CPH4 na condição humana, verificaram em outras espécies da natureza selvagem da Terra, mas eles queriam adequar eles porque eles é que esperavam chegar no fim como os mandatários e como a gente já sabe deu tudo errado."
+- "os testes realizados na tentativa de expansão da capacidade dos potenciais cerebrais de demobios, demobiol, biodemos, os sirianos foram inteligentes, sei lá, ou sábios e não fizeram isso. Mas os anunx fizeram por isso eles têm diversos tipos de de eh de corpo, todo mundo aí se ferrou, sofia, inclusive"
+- "Mas ele fez isso não porque ele decidiu fazer isso. Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi. Foi complicado."
+- "No sentido em que o único exemplo que eles têm de expansão de um cérebro nos moldes em que eles conhecem não vertebrado, que é o do povo. Vejam como a coisa é maluca, né? Como os ardinianos, uma espécie de também teve que fazer com os cérebros deles. Eles tentaram esse tipo de expansão e Sofia foi junto e não deu certo."
+- "isso prejudicou, Sofia, isso prejudicou muitos seres, mas muitos seres, muitos protótipos… as marcas da componente demo no genótipo, na genética que eles tinham, no genoma que eles tinham, era tão presente ou mais presente ou presente de um modo que impedia esse progresso."
+- Enki e o FOXP2: "lá atrás quando quis transformar a humanidade numa humanidade que aprendesse a linguagem dos anonax e para isso ele colocou o Fox P2 dele que os Anonax tinham de uma racionalidade que ainda não havia surgido na Terra num corpo de homo que já tinha crânio, coisa que não necessariamente os anonax todos detém em si."
+- "o os que detém não é o mesmo do nosso tipo, muito menos o cérebro dele é sofisticado como o nosso. É mais ser mais antigo, talvez não seja tão moderno quanto o nosso."
+
+## 20. Tuatha → milesianos → colégio druídico — U0003
+
+- "quando os toatas de Dana, ou seja, os toatas de Nana, neta de amor [REVISAR], chegaram a ter contato com os primeiros seres humanos, que não eram seres humanos adestrados nas cidades o das etnias hiperbórias. Eram seres humanos que não viviam lá, viviam na Europa. E eram seres humanos livres, de influência maior desse ou daquele personagem, os chamados milesianos, que a gente já falou em outras palestras, que na época viviam ali no norte da Europa, desculpa, norte da Espanha, aonde hoje é o país Vasco".
+- "quando os milesianos humanos se encontraram com os seguidores de Inana… o rei deles se chamava noada."
+- "então esse essa turma aqui tinha muita informação, inclusive sobre CPH4, os dramas de todo mundo que fez testes e a coisa não se não expandiu."
+- "Quando os toatas de Nanã entregaram isso pros milesianos, É como se eles estivessem pedindo ajuda para resolver um problema milenar, né, que eles tinham."
+- "Quando houve a Ecatômb cerca de 14.000 anos, muitas vozes de algumas ilhas, de algumas etnias desses seres começaram a dizer que e aquilo era castigo em cima deles, porque eles ultrapassaram níveis que não podiam ter ultrapassado."
+- "O pitoresco é aqueles fizeram isso porque a turma do conglomerado de realidade, querendo descobrir mais e mais poder, praticamente os obrigou a fazer."
+- "Mas aí como deu tudo errado, lá vem a a boataria de que eles iam agora ser castigados, mas não não castigo devido aos problemas ambientais da Terra, como isso que vai acontecer daqui a pouco também, os problemas ambientais que vamos ter que começar a sofrer."
+- "É nem nem Deus se existisse com esse tipo de proposta diria, nem Javé impede, ninguém pode impedir. A roda que Javé criou funciona por ela mesma."
+- "os milesianos quando receberam as informações… obrigou os milesianos a se tornarem reflexivos. E foi daqui que surgiu um colégio druídico. E esse mesmo processo aconteceu não só na Irlanda, mas também no norte da Escócia. E outro colégio, esses dois colégios druídicos, foram tentar entender não só as feridas da realidade, mas esse tipo de problema."
+- "a influência de Anu, a influência dos Anonax junto a essas etnias hiperbórias e agora pela primeira vez com a participação de um grupo humano independente, repito, que não era mandado por A, B, C ou D, não morava lá."
+- "eles agora estavam sendo convidados a ajudar essa turma que ficou, teve que disputar espaços para viver, já que suas terras foram engolidas pelo bar lá atrás, né?" [STT: «pelo bar» ≈ «pelo mar» — [REVISAR]]
+- "só a partir daí e principalmente depois do dilúvio é que trimurtianos, descendentes de Odinha, ainda presos lá em suas cidades, as Guardianas, eh, a turma de Zeus, toda essa turma desse universo vizinho. E sirianos, biodemos, anunx começaram a olhar assim pros humanos, dizendo: 'Putz, esses caras vão herdar isso aqui'. Eles começaram só a desconfiar nesse ponto da história. Ou seja, 9, 10, 11, 12, 13, 14.000 anos. Os últimos 9.000 anos dessa história."
+- "O mais pitoresco nos colégios druídicos de então era entender que seres humanos tinham dentro da cabeça possibilidades, coisas, caminhos, utilizações que os outros seres não tinham."
+- "E o engraçado é que os humanos eram meros animais de estimação ou o que fosse dos tais deuses. E os tais deuses estavam passando isso agora pros humanos."
+
+## 21. A herança da criação — U0003 (a tese central)
+
+- "desse ser sobre esse aspecto só veio existir de que de fato os humanos não herdaram só a terra. Olhem bem o que eu vou dizer agora. Os humanos herdaram a porcaria dessa criação."
+- "Toda a criação universal está refém do que os 17, 18, 20, 25, 30, 40%. de expansão que a gente possa promover aí na utilização dos nossos neurônios dos minhocos vier a fazer essa certeza perturba desgraçada e desesperadamente a todos esses seres sofia inclusive."
+- A pergunta dos seres: "Mas será será que é bom que os humanos então morram tão rápido assim?"
+- A descontinuidade cósmica: "É que nunca uma segunda-feira do cosmo se juntou a uma terça-feira, no sentido de serem dois dias produtivos ou duas etapas produtivas, uma atrás da outra. Quem surge aqui destrói o que foi feito ontem. Quem assume aqui o poder destrói o que foi feito antes dele. É de uma cretinícia, de uma descontinuidade no sentido negativo. Terrível. São problemas no campo da solução de continuidade. Não existe."
+- "Nós humanos somos aqueles que iremos criar as soluções, mas a continuidade dessas soluções… esbarra no fato de que nós vivemos muito curto, um tempo de vida muito curto e ainda somos corruptos, claro, né?"
+
+## 22. A espiritualidade que não retém — U0003 (⚠️ anterioridade com RC-751)
+
+- "Das 72 eh, eu não vou saber dizer, das 72 civilizações hiperbórias, algumas poucas resolveram criar na medida em que tiveram seus membros que faziam parte da elite governamental de cada cidade dessa, ao longo desses 30.000 anos, muitos morreram, aliás, todos morreram com raras exceções."
+- "as que conseguiram se unir na espiritualidade ainda em torno dos mesmos sonhos, pois nem todos conseguem devido a questões cáricas e confusões, né? Eh, continuam ou estão tentando manter-se operantes no sentido de compreender hoje o papel da humanidade nessa história. Vem exatamente desses poucos núcleos."
+- O problema contemporâneo: "eles se perguntarem se o que fez para garantir que com entropia funcionando, o ser humano viva pouco, já que na época ele tinha medo, eles tinham medo de que se isso pode ser revertido ou se algum tipo de CPH, sabe sei lá o quê, a ser adicionado."
+- "o tipo de alimentação ou dieta das gerações futuras que vão se especiar, né, não possam ter uma condição mais longa de desenvolver as suas habilidades mentais, porque seria essa parte do cérebro humano que ainda não foi desperta".
+- ⚠️⚠️ A formulação do mecanismo: "Por quê? Porque tá tendo um problema seríssimo na espiritualidade que começou de uns anos para cá e vai até ninguém sabe quando que está impedindo que os espíritos desencarnados retenham as suas melhores conquistas codificadas sob a forma de certas sequências, que é novidade, eh, paraa manutenção do da bagagem espiritual."
+- "Isso tudo devido à incômoda poluição vibratória que tá tendo em tudo que é quadrante da radicidade. Só os poucos que ficam fora da radicidade podem manter esse jogo de uma vida aqui, continua a outra, continua a outra, continua a outra e fazer um trabalho, né, produtivo, mas a maioria não consegue ir lá, então não vai sequenciar direito. E quem perde e se ferra com isso é a própria criação."
+
+## 23. Pós-café: os dois ciclos e a PAMÍXIA — U0003
+
+- "os atores, atrizes daqueles dias, né? Quem viveu aqueles dias, que dias? Esses entre 30 e 10. 1000 anos atrás, vamos concentrar agora nesses 20.000 anos, que foi o auge da o ápice, vamos assim dizer, da dessa cultura que eu chamo hiperbória".
+- "os espíritos que viveram esses dias têm registrado nas suas memórias momentos únicos que realmente nunca havia no contexto da história universal tido lugar nada parecido com aqueles momentos em que a troca progressiva de informações".
+- "não era muito de conversa, era um falando e o resto escutando… para todas as partes envolvidas era tremendamente rico e agradável. Havia uma um sentimento, havia um tipo de simplicidade de pureza, que hoje não tem mais".
+- "nessa época aconteceu um quadro de troca de informações que levou também a um outro quadro de troca de informações genéticas… E isso se dava através da atitude sexual dos seres, como também da própria do próprio uso… laboratorial de manipulação ou de união genética, que era típico dos demobi e dos demobiol não sexuados."
+- "Hoje na taxonomia se usa muito a premissa lógica de lógica de que só um membro de uma espécie tem relações com seus semelhante… Nessa época as coisas não eram assim".
+- ⚠️⚠️ O termo: "é a chamada época, isso já era mais antigo, mas eh a pamixia ou pamixia, que significa membros de diversas espécies terem relações entre si, melhor dizendo, membros de espécies diferentes poder ter relação eh entre eles. E esse era o fato mais comum naqueles dias".
+- "tanto no campo da sexualidade e às vezes a coisa era muito estranha, muito pitoresco, não vale a pena a gente falar disso porque é é até mesmo difícil de abordar pelo pelo aspecto pitoresco de como os seres com a disposição de órgãos sexuais não tão razoáveis assim, eh, de se encontrarem, mas conseguiam copular de alguma forma, né, seja por prazer, seja pela intenção de testar a união".
+- "quando os humanos ficaram sozinhos e surgiram a questão das das religiões, aí isso passou a ser nos olhos da atualidade uma coisa absurda devido a ao sentido do pecado."
+- ⚠️⚠️ O papel de Javé: "Mas Javé foi um dos caras que mais trabalhou para que a ponixia não fosse adiante, né? Essa essa eh na verdade a a Pamixia ela ia de encontro aos interesses de Javé. Ele não queria que os anunx eh desenvolvessem mais relações com ninguém para não ocupar mais espaços num poder que jáé olhava bem atravessado."
+- A moralidade assombrada: "nenhum desses seres nunca agiu pro lado do bem. Eles não tem esse tipo de dualismo na cabeça. Eles agem só na na defesa dos seus dessa das da dos seus eh dos seus interesses."
+- Os dois ciclos: "o ciclo um era as cidades, eram as etnias hiperbórias. Nesse ciclo dois já não eram porque elas sumiram no cataclismo, mas era descendência, porque sobrou muita descendência eh dessas etnias eh antes do do do dilúvio, mas que que Não passaram a história."
+- A inversão demográfica: "Se antes tinham muitos seres híbridos de fora nessas cidades e alguns poucos humanos, aí depois do dilúvio passou a ser o contrário. Era muito humano e alguns seres de fora que ficavam na posição de deuses daquela cidade ou disso ou daquilo. Mas a maioria humana foi prevalecendo."
+- "A gente conhece os toatas de Danã porque afinal de contas foi a base da mitologia celta na Irlanda e um pouco a mitologia nórdica".
+
+## 24. A migração e a política contemporânea — U0003 (⚠️ QUARENTENA POLÍTICA)
+
+- "Hoje a gente olha pro mundo e vê assim a visão que hoje a direita tem sobre a questão da migração, né? A direita não gosta da migração porque obviamente essa migração não respeita, né, a penso eu, inevitável celebração das diferenças que existem."
+- "Nessa época os seres eram diferentes. Que época? O ciclo um. E também no ciclo dois tinha humanos e não humanos. Mas assim, mesmo a visão mais ultradiritista da época, respeitava, celebrava mesmo essa questão da diferença."
+- "A esquerda já, através do multiculturalismo já trata isso de outra forma, mas tanto também não resolve o problema".
+- "não é só juntar a todo um processo de educação básica que nós humanos deveríamos ter, mas não temos. Aí a educação eh geopolítica é um sentimento de cidadania cósmica e veio do sentimento de nacionalismo."
+- "Mas vocês sabem o que é que atrapalha essa migração? É, são as religiões."
+
+## 25. O que os hiperbórios teriam e o que perdemos — U0003
+
+- "mesmo sendo cidadãos do século XX a gente é muito, mas muito mais atrasado do que esses seres eh que seja no ciclo um ou dois da educação ou da cultura hiperbória atingiram níveis de progresso em alguns campos que são superiores ao que a gente tem hoje. Não tô falando aqui de tecnologia, não, tô falando de progresso no campo da atitude mental frente aos desafios da vida."
+- "os espíritos que vivenciavam eh que vivenciaram de algum modo alguma coisa eh nesses tempos hiperbórios, guardam neles registro um ou outro registro assim inesquecível de uma coisa que causava um na no nosso hipocampo cerebral, na nossa memória cerebral junto com a emoção, um uma recordação agradável de algo que a gente perdeu."
+- "Os espíritos que vivenciaram isso hoje estão na humanidade, só na humanidade não tem mais nada. Mas os arcanos mais antigos na nossa memória de uma coisa muito agradável que existia. Ah, isso permanece, mas não é do céu, não é desses tempos. Foi o único contexto temporal que nós, seres humanos, tivemos."
+- "E a turma, a turma eh, que conseguiu trazer isso de lá para cá, como ser humano, ainda não conseguiu pôr em prática atitudes políticas, atitudes no campo eh da sabedoria judiciária, no campo judicial, né? Eh, legislativo, eram eram figuras bem melhores do que nós somos hoje."
+
+## 26. O mapa do norte e as 14 caravanas — U0003
+
+- "ele coloque aí o mapa… como se a gente tivesse parado, eh, num satélite lá em cima do Polo Norte, olhando paraa terra".
+- "o onde tem esse azul, aí o polo norte estaria no meio. Há 14.000 anos atrás existia aí uma terra, um um continente tulecado por outras porções de terras. Exatamente aí é que ficava essas 72 civilizações ou culturas ou etnias hiperbóis."
+- "Dessas 72, 14 se espalharam ou foram navegando para onde tivesse terra mais próxima."
+- "se a gente for ver lá no onde é o Alaska hoje, a gente vai ver Iup e Piia. Então, assim, cada lugarzinho desse aí, Alaska, Canadá, Groenlândia, Isso eh conta, é um tipo de mitologia que foi depois criada. Na verdade, cada nome desses representa um dos segmentos das 14, eh, vamos assim dizer, os 14 eh, caravanas de seres que em barcos ou em outro tipo de de transporte conseguiram sair das terras que afundaram e aportaram aí."
+- "Esse mapa aí ele foi construído… para mostrar essas culturas esquimóis que tem lá no Alasca. começa no na Sibéria, R, na Sibéria, na Rússia, o Alaska e Norte Canadá e Groenlândia, mas teve mais outros pontos no continente asiático, à direita do CS… também teve chegada deles no norte da Inglaterra, que é esse pontinho aqui embaixo. A Irlanda já nem aparece no mapa."
+- "os tuatas de Danã são responsáveis só por dois contatos aí já com a Escandinávia, com o norte da Grã-Bretã e da e da da da Irlanda, mas outros toatas de outros deuses foram pro resto da Sibéria asiática. Então foram 14."
+- "Essa parte do mundo era a parte mais interessante de se viver nesses últimos 40.000 anos. até que houve, desculpa, nos últimos 30.000 anos, antes desses 10 últimos, porque ocorreu eh essa terrível ecatômb aí, esse cataclismo."
+- "Tudo que aí eram seres mistiços. O chamado norte mítico, tá? Eram seres mistiços, eh, seres híbridos e a toda uma história que precisa ser resgatada, mas mas que infelizmente não não vai ser mesmo."
+- "Só pra gente entender, houve uma o Cris, se quiser tirar pode tirar, né?"
+
+## 27. Alaska, Rússia, 1867 e 1886 — U0003 (⚠️ quarentena histórica/institucional)
+
+- "Até o ano 1800 e tarará, 1867, o Alaska, né, eh, da dos Estados Unidos pertencia à Rússia. Então, existia ali a aquele ponto foi o ponto lá onde hoje é o Alaska, ligado a à parte siberiana da Rússia. Tudo aquilo era da Rússia. Os Estados Unidos tomou em 1867."
+- "uns 20 anos depois, quando os Estados Unidos tomou Alaska da Rússia, logo chegou uma equipe de evangelização que em 1886, 19 anos depois, começou a adaptar os nomes dessas migrações do de sobreviventes. das terras de Tur, das terras hiperbóreas, né?"
+- "E tudo foi transformado em religião cristã de cunho evangélico do lado oeste, do lado esquerdo do mato e do lado direito simplesmente sumiu."
+- "o que surgiu de mitologia depois como a finouriana, que é a mitologia mais importante da da da história russa, vamos assim dizer, tem exatamente a ver com traços risquícios dessa dessa história que, infelizmente se perdeu."
+
+## 28. O pós-dilúvio: a geopolítica dos 9.000 anos — U0003 / U0005
+
+- "Depois do dilúvio, a situação da Terra ficou muito parecida com a de antes do dilúvio. Em um sentido. Qual no sentido de que os anonax continuaram a a tentar dominar, né, o mundo."
+- "No primeiro ciclo, eles fizeram isso a partir dessas cidades hipergórias. Mas nesse segundo ciclo, que eu chamo depois do dilúvio, os anunacos foram obrigados a fazer uma opção de vida geopolítica planetária. E eles escolheram o Egito como sendo a base da sua dominação."
+- "nesses últimos 9.000 anos, o que é que a gente vai ver? A gente vai ver os biodemos basicamente sumidos."
+- "Por quê? Porque a essa altura a turma de Alto Langron continuou existindo lá eh nessa ilha que se move em cima do Oceano Atlântico, entre a Irlanda e a Islândia. por ali. Então, os biodemos meio que saíram do contexto, né?"
+- "Os nossos amigos sirianos foram obrigados a se esconder e muitos deles, mesmo não querendo, foram obrigados a pegar uma de suas naves e está até hoje girando algum em torno de Saturno e outro em torno de Júpiter. Um dia a gente vai entender isso melhor."
+- "E tem também Anunax em Marte. O fato é que na Terra, desculpa, os sirianos, Júpiter, Saturno e os Anunax terminaram também ocupando Marte e Lua."
+- "Aqui na Terra… os anunques deixaram a sua força maior em torno do Egito. E é exatamente devido a essas questões que ao longo desses últimos 9000 anos os anunques no Egito."
+- "A descendência Demobio de Odim também foi pro espaço porque terminou se perdendo na na misturada aí das espécies."
+- "a descendência de Zeus, aonde podia estar, porque eh depois do dilúvio, a descendência de Zeus se se meteu mais e mais em confusões tentando dominar a Terra, né? E foi quando o próprio Zeus começou a transar loucamente com tudo que se movimentava que ele queria ter uma descendência com aquilo para dar continuidade à sua genética".
+- O endogameísmo anunnaki como paralelo: "já que o Zanuna defendiu a tese, por isso Anu, como avô transou com Inana, sua neta, para poder dar uma descendência de um de uma posição genética que eles acham importante."
+- "Os anuna eles não valorizam, eles não são sofisticados a ponto de valorizar eh certos valores. Eles não têm sensibilidade para isso. Nós humanos temos, eles não têm."
+- A composição residual: "nesses últimos 9.000 anos, os Anunax na no Egito, a turma de Zeus espalhada como podia, e os seres humanos, esses três essas três componentes, né, já que agora não tenho mais as outras três que eu acabei de citar aqui."
+- A ressalva: "isso não quer dizer que durante esses últimos 9.000 anos só essas turmas aí de fora estavam presentes na terra… geopoliticamente não disputavam nada e viviam na sobra dos espaços que sempre foi dado a eles."
+- As duas arquiteturas cerebrais em campo: "E tem seres invertebrados com cérebro, que agora vocês já entendem quando eu falar assim, e também tem uma turma vertebrada com cérebro, mas estes são mais sofisticados… tem espécie que pode crescer em termos de inteligência e tem espécie que não pode crescer porque não tem Observe esse detalhe."
+- O condicionamento javiano: "os seres humanos continuaram sendo condicionados na disputa maluca que Jahé fez. ainda usando os filhos netos, bisnetos, tataranetos de Noé. Por isso que ele resolveu se apresentar a todo mundo aqui na terra… ele pegou os humanos, já tinha feito lá atrás, e continuou tentando desenvolver aquele Adão que ele julgava ser o melhor que ele poderia ter produzido."
+- A data do ápice: "Há 5000 anos atrás, ah, foi o ápice da disputa entre Zeus e Descendentes e os Anonaques e os seres humanos do meio. A partir desse ponto, começou a acontecer coisas muito confusas, muito confusas."
+- A crítica comparada de Anu e Zeus: "O Zeus não tinha a consciência crítica que Anu tinha. Então, Anu como chefe dos Anunax… ele junto com a figura chamada Inana… Essa turma tá toda viva aí, né? Não aqui na Terra, alguns voltaram eh para Nibir 2600 anos atrás, mas vão voltar lá na frente."
+
+## 29. A leitura de Anu e o colapso olímpico — U0003 / U0005
+
+- "Anu, ele olhava para essa história e Ele ele pensava que Anu pensava mais ou menos da seguinte forma: nós anunques estamos controlando os humanos porque na hora que tomamos conta aqui do Egito e da Turquia e bá e bá, a gente mantém os humanos sob controle, coisa que Zeus não tinha nem como pensar que sim ou que não, porque há muito tempo ele havia perdido o controle das coisas e não tinha e não tinha senso crítico. Anu tinha um senso crítico e na época de fato ele dominava a situação, os humanos."
+- "Ele olhava para Zeus, né? E via que seres justos portais viviam brigando entre eles… E se enfraqueciam, não se multiplicavam."
+- "algo de estranho parecia estar ocorrendo nas moradas eh na no Olímpio, né, da daqueles seres e eles já estavam diminuindo a saída para esse universo."
+- "Uau, finalmente nós vamos dominar Terra, os humanos estão sob controle. Zeus tá se desfazendo. Zeus e a geração tá se desfazendo sozinho devido à confusões, doença, peste e incapacidade de se reproduzir."
+- "Acompanhava eh quando Zeus transava com mano e nascia um alguém, ele ficava olhando. Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra".
+
+## 30. A guerra atômica e a expulsão — U0005 (⚠️ teológica/histórica)
+
+- "quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim. São aquelas, aquele vale onde tem cidade Sodoma, Gomurraá e do Sinai lá embaixo."
+- "Quando os Anunax fizeram isso, eles não tinham noção, como a gente falou na palestra, do que a poeira nuclear poderia fazer. E basicamente as bombas que eles soltaram para resolver o problema terminou expulsando eles da Terra."
+- A recordação da fonte anterior: "aquilo que a gente falou numa numas palestras meses atrás" (⚠️ a versão canônica do evento na base é a P2022-12-17/RC-583 — esta é **anterior em 19 meses**)
+
+## 31. A tese da herança por incompetência — U0005
+
+- "nesse ponto da história, a gente compreender que os humanos herdaram a Terra só pelo fato de que nenhuma outra daquelas componentes que eu falei ao eh ao tempo das etnias hiperbórias teve a competência, né, para se estabelecer, dominar, não é?"
+- "os humanos nunca expulsaram os deuses daqui. Quando eu comecei a conviver com Jahos, eu escutei de Jah, eu expulsei os anonacos da terra, eu expulsei não sei o quê, eu até que cheguei a falar disso, né? Mas Amorota sobre uma certa perspectiva, Zeus sempre teve mais poder que Cos, ou seja, que Javel, mas pouco importa." (⚠️ trecho corrompido no STT — preservado como está)
+- "nós humanos, herdamos essa história. Repito, por incompetência da tribúcia, por incompetência da descendência de Odim, por incompetência da descendência de Zeus e dele próprio, por incompetência da gestão dos anunaques e porque os sirianos nunca foram dominadores e os biodemos terminaram se ferrando também não eram dominadores."
+- "as outras civilizações que existem aqui nesse nosso universo biológico não tem força representativa nem em mar, nem na lua, nem aqui, nem em lugar algum para fazer nada, estão por aqui como piratas cósmicos, como Figuras que também participaram de hibridagens lá atrás se sentem vinculadas ao progresso humano e estão esperando ver como é que acaba essa zorra aqui do isolamento terrestre para pegar uma fatia disso ou daquilo."
+- "Se essas forças forem competentes nesse sentido, sentido de dominar um planeta com um monte de malucos vivendo nele, imaginem quão incompetente essas forças são para cuidar de coisas maiores, tipo o sistema solar, a galáxia, o universo, a criação."
+- O resumo do enredo: "toda uma briga começada em tempos primordiais que foi estabelecida em torno da trimurte, da sua regra de conduta chamada Lila, que representava os critérios da geopolítica, da disputa dos três membros da Trimurto da época e das descendências desses seres. Todo esse contexto foi depois repassado para o nosso universo. E aqui, depois de muitas disputas, confusões, isso tudo convergiu paraa Terra e na Terra isso convergiu para as cidades hiperbórias."
+- "a mistiçagem que houve nas cidades hiperbórias terminou traduzindo o último retrato da disputa das forças presentes aqui na Terra… Dos que estavam pousando para esse os humanos que nem eram candidatos herdaram essa coisa porque as etnias hipergórias que já eram dominadas pelos anonax durante muito tempo, todos eles falharam, inclusive os anuna e nós herdamos. Ponto final."
+- "Não, não tem ponto final. Esse é o problema."
+
+## 32. O que resta em disputa — U0005
+
+- "Muitas dessas forças tentaram se reorganizar, as do universo paralelo. É um enigma, porque tem essas figuras que não aceitam Sofia, não aceitavam nac [REVISAR — provável Anu] e que estão ainda de lá tentando fazer alguma coisa para continuar essa disputa."
+- "quem disputar, quem dominar a Terra, quem dominar os humanos, vai dominar muita coisa durante muito tempo. É assim que eles estão pensando agora na geopolítica atual, porque os humanos servirão aos interesses dessas forças na medida em que vão trabalhar, podem trabalhar para elas decifrando as coisas."
+- "tem Sofia, que é a força desse universo. Os anunques também estão ainda presentes, mas vão aparecer aqui de novo os deibir daqui a uns 1000 anos. A turma que tá aqui continua por aqui em Marte na lua e pode dar suas caras."
+- "A vinda de Sofia tem como objetivo ele assumir o dia da posse dele para acabar com toda essa história e todos convergirem pro comando Sofia, o comando prático e para a coordenação do quarto logos, o programa evolutivo mental e espiritual, porque é a única forma disso aqui ter algum futuro."
+- "Hoje a visão que eu tenho na no da minha pequenez é que não há futuro se isso não for coordenado eh em torno dessas duas forças."
+- "O que resta do tempo universal na espiritualidade… a visão é muito semelhante a essa que nós estamos falando aqui, que nós temos como ser seres humanos, né?"
+- "o adapa em que ano ainda é um padrão de genética que está presente. Provavelmente quando passar o domínio da genética do Adão religioso impositivo, marcado pela que desde Jahé, ah, a moda do judaísmo, do cristianismo, do islamismo, essa coisa impositiva que terminou transformando o ser humano em alguém submisso, o escravo da estupidez, vamos assim dizer."
+- "o experimento humano tá em perigo, seja pelo que nós humanos podemos fazer conosco, seja o que as forças diferentes possam ainda fazer nessa história."
+- "o que é que a gente pode fazer? Nada. Nós podemos, nesse sentido da da luta lá fora, nada. Aqui dentro a gente pode fazer tudo, estudando, refletindo, construindo. nós barreiras prudentes no campo da afetação."
+- ⚠️ Bloco religião/política (retenção proposta — O-7): "É só ver o que as religiões estão fazendo aí na TVs e o que narrativas absurdas se transforma em religião e a as doutrinas políticas absurdas vinculadas à crença no ismo eh e personificado em ídolos políticos de A ou de B é também uma forma de religiosidade absurda, porque a fé que os humanos infantilizados colocam em certas pessoas drasticamente falidas no campo da moral e da filosofia, mas como sendo seus ídolos políticos, ferra com qualquer noção de dignidade no sentido de fazer bom uso da sua racionalidade."
+- "muitas vezes a gente traz desse passado aí não são os arcanos bonitos, são os arcanos feios, de preferências e inclinações que a gente ainda sente. e que se traduz no olhar atual como sendo às vezes extrema direita, extrema esquerda, direita, esquerda, centro, isso, aquilo, tudo isso tem que ser revisto por cada um de nós".
+- O comparativo histórico sensível: "pra gente não, no final das contas, Não ser no futuro que alguns alemães ainda são os críticos de si mesmos, dos seus ancestrais, das suas famílias, porque deixaram as coisas chegar no ponto de um rit [REVISAR — provável 'o regime/um rito'?]. Não tô falando só aqui do Brasil, tô falando da Terra. Em todos os países hoje há esse perigo."
+- ⚠️ A inversão ética: "a gente acha que esse lado aqui é o Bem, esse lado aqui é uma, ó, pessoal, o bem não existe. O bem não existe exteriorizado em nada. O bem precisa ser heroicamente trabalhado no íntimo de cada um de nós. E o bem, o verdadeiro bem, não é aquele que se trabalha com afetação emocional, tem que ser trabalhado com a sabedoria do conhecimento bem aplicado".
+- A mensagem que o autor elege como principal: "De todas as linhagens que a gente viu aqui, a única que sobrou, repito, com a possibilidade de expansão no campo do crescimento do eu, ou seja, do tirocínio de cada ser, é humana. Mas se a gente estacionar isso aí em situações de emotividade, de de afetação infantil, o universo se ferra."
+- O fecho do monólogo: "que façamos bom uso do do que resta do espaço do nosso cérebro e que possamos fazer melhor uso das áreas cerebrais que já colonizamos até hoje usando o linguajar do filme Lúci."
+- A despedida e o pedido de desculpas: "peço desculpas porque seguramente sempre desagrado alguns e termino ferindo a susceptibilidade de outros, mas é assim mesmo."
+
+## 33. Q&A — U0006–U0018 (seis perguntas lidas por intermediário)
+
+- U0006 (moderador → autor): "Só um minutinho, Rogério." **P1 — "o gene da cognição Fox P2 dos descendentes de Anunax é diferente dos descendentes de Pandora?"** Resposta: "Sim, são dois. É um mesmo genoma, porque para pertencer a espécie humana tem que ser o genoma humano, mas áreas desse genoma, a chamada HR1, HR2, HR, são diversas áreas… tem umas pequenas diferenças que a o estudo do genoma humano ainda tá longe de perceber".
+- U0006: "o genoma de cada ser humano pula loucamente a cada microssegundo, tá? Nunca para. Então, o genoma advindo do campo mórfico, de todos os membros da humanidade também nunca para." / "o genoma de hoje é de hoje, o de 1000 anos atrás era de 1000 anos atrás, o de 10.000, isso vai mudando sempre." / "É o uso que a atitude mental de cada ser humano faz do seu teclado genético."
+- U0006 (Pandora, na mesma resposta): "quando Pandora recebeu no seu corpo várias sequências genéticas de Atena, de Apolo, a turma lá do Olímpico que Zeus mandou repassar para Pandora só eh sequências genéticas ruins. A turma passou o que de melhor tinha, fez o contrário."
+- U0006: "no organismo de Pandora já tinha várias beberagens repetidas das poções de epimeteu, nos quais existia sequência dos animais humanos que ele trabalhava." / "quando Pandora resolveu fazer uma metamorfose que ela nunca tinha feito, que foi exatamente de assumir como sendo a sua próxima cara, a de um rosto humano, porque ela amava os humanos, os animais de Primeteu, e como Efestos tinha dado paraa Pandora essa transição de fase que só ela tinha, os demos podem ser o que eles quiserem no padrão do que o genoma deles permit." / "O genoma de Pandora foi aberto por Efestos, deixando ela ser o que quisesse."
+- U0006: "Então, Pandora, quando ela se tornou mulher, ela automaticamente já estava racionalizada em alto nível. Não é assim o que aconteceu com os casais de Homo Sápiens, que aos poucos em que sua irmã e seu filho foram trabalhando no sentido de fazer manipulações genéticas com o Fox P2 típico dos anonarques… a turma de Pandora já era muito mais eh desenvolvida nesse sentido."
+- U0007 **P2 — "Inana ficou conhecido na mitologia nórdica com algum outro nome e qual seria a sua relação com Lilith?"** Resposta: "Na nórdica isso não é muito claro e penso que não. O segundo nome mais importante de Inana é ISAR." / "Inana, ela foi tremendamente importante na história da Mesopotâmia… Nesses últimos 10.000 anos, notadamente de sumérios, acadianos, caldeus, babilônicos" / "Inana, junto a esse pessoal, junto aos rititas, os urritas, ela tem 1000 nomes".
+- U0007: "Muitos dos eh reis assírios, como Sargã 1 2 3, como Senequiribe, acho que o nome é esse, Senequaribe, alguma coisa assim, essas figuras todas eram devotos de Inana e só fazia o que ela mandava, só ia paraa guerra se ela garantisse proteção."
+- U0007: "era uma extraterrestre, não era um ser extrafísico como a descendência de Zeus. Então, eu não tenho notícias dela no panteão nórdico. Eu tenho notícias dela nesses panteões aqui que eu falei, principalmente no Itita e o Rita e Acadiano."
+- U0008–U0009 **P2b — "Se haveria alguma relação dela que você faz com Lilet."** Resposta: "com Lilet, sim. Ela participou, eh, e Nana, ela tomou partido pela E Nana chegou a uma conclusão que os seres humanos viveram bem melhor se não fossem dominados por eles próprios." / "Ela mesma passou a usar os humanos a partir de então da forma mais decente." / "os anunques não são muito bons nesse campo não".
+- U0009: "ela nas brigas que existiam ao longo desse tempo aí em torno das figuras eh da Eva hebraica, ela se meteu sim. E eu acho, acho não, eu sei que ela ajudou, mas apenas eu acho que ela é uma Uma das figuras que sempre atrapalharam, sempre atrapalhou Javé e usou Eva e Lilif."
+- U0009 (a distinção ontológica): "Sim, mas não é a mesma coisa não. Lili era uma deusa. Deus não, era um ser demo. E Nana não é demo, ela é anunque, ela é biológica."
+- U0009 **P3 — [longa, lida com erros do STT] "Está Elan erros na obra de Zachariah Sitting apontados por astrônomos no que de respeito a Nibiru, qual seria a informação que conteria o elo de ligação que o faz que você considerasse ele uma… referência? … a existência de inibir como válida, a a existência de inibir como válida para nós do IA. É possível para a ciência atual encontrar correspondência nas informações que temos para validar a órbita de Nibiro como detectável, observável?"**
+- U0010: "Não, ainda não." / "e disse em torno da obra de Zacarias City, há coisas maravilhosas e algumas poucas coisas que eu discordo. O fato de eu discordar não quer dizer que eu esteja certo e ele errado. Ao contrário, eu posso discordar e ele pode continuar, tá certo?"
+- U0010: "nunca li um livro na minha vida, seja de quem for, em que tem coisas que eu me alinho com aquelas coisas, outras deixo solto e outras eu sinto uma certa situação de confronto mental de minha parte com aquilo que tô lendo… Eu nunca tenho pretensão de ter certeza."
+- U0010: "já estudei a obra de Zecaria City toda e já discuti, discuti não escutei, assisti a discussão de Zé Cars astrônomos e a briga feia que teve do Zé Carity Não dele, mas Graham Hancock brigou com Zacas City, Robert Bv, muitos desses caras egiptólogos, que eu também li os livros de todos eles e respeito."
+- U0010: "Esse tem razão, aquele não tem. A briga, as brigas que eu vi eram Mais no sentido de ego, o nosso amigo Zar City, ele era consultor da NASA. E sendo consultor da NASA, ele tinha acesso às melhores eh medições instrumentais. Ele conhecia os grupos de vanguarda que estudavam a evolução do sistema solar."
+- U0010: "De zer a 10, os cientistas costumam dizer que a gente ainda não sabe nem seis. Ninguém sabe explicar direito o surgimento de alguns planetas." / "Até pouco tempo atrás, Plutão era um planeta considerado assim pelos cientistas. Depois verificou-se que e Ele não se enquadrava nos critérios… Surgiu SEDA, que já é mais longe que Plutão."
+- U0010: "além da nuvem de Earth, que é seria o limite, né, o primeiro limite que cerca o nosso sistema solar organizado, que aí vem o desorganizado, que é esse essa quantidade impressionante de cometas."
+- U0010: "Saturno e Júpiter com as suas 81 e 72 luas, eu acho cada um deles, respectivamente, acho que os números são esses, a última utilização, a atualização que eu fiz, constantemente se descobre e se atualiza o número de de satélites".
+- U0010: "Se você pegar um mapa da Via Láctea e localizar onde tá o sol, o céu que a gente enxerga, se você pegar um botão de camisa e colocar em cima do sol, o tamanho desse botão é o espaço na galáxia que a gente percebe olhando o céu aqui. A noite. A gente só percebe esse pontinho e não é nada."
+- U0010: "ninguém tem certeza de coisa alguma sobre o sistema solar, sobre se inibir existe ou não existe… sobre se a estrela sol tem uma estrela irmã gêmea chamado ninguém sabe. Só que alguns cientistas pecam pela arrogância e falam como se soubessem. Não pode existir nada. como Nibeiro, que é o que alguns caras NASA disseram, mas dizem, mas não pode provar que aquilo tá errado."
+- ⚠️⚠️ U0010 (a autocorreção do ciclo de 3600 anos): "Pelas pelas previsões de Z City, você deveria observar Nibiro, então, a cada hora que quisesse naquele ponto. E é essa base da discussão dos astrônomos da NASA com City quando ele estava vivo. E C falou muito claramente que a rota eh nada peculiar da órbita de de Nibiro, se modificava a cada vez que ele passava próximo ao sistema solar. O que implica dizer que não é 3600 anos batido, pode ser 3600 em 1 ano, 3000, ou seja, tem pequenas variações em cada vez que ele orbita."
+- ⚠️ U0010 (ufológica): "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo."
+- U0010: "Infelizmente nessas notícias que nós temos acontece mais do ego jornalista o ego desses cientistas que brincam uns com os outros. E a verdade é é sempre a vítima dessa história, né?"
+- U0010–U0013: o autor fecha com «ainda não há elementos suficientes para isso»; o intermediário registra «Perfeito. Obrigado.» e ambos conferem a cobertura das respostas — «Eu não sei se eu respondi tudo. Eram duas perguntas.» / «Respondeu. Respondeu sim. OK.» (marca de que o Q&A era lido e conferido em tempo real)
+- U0014 **P4 — "no projeto da nova família biodêmica, que está levando em consideração a necessidade evolutiva deles serem vertebrados e bilatérios ou não."** Resposta (U0015): "Não, não tem como. Esse é o problema." / "Não se pode esperar que as novas espécies das da família Biodem nasçam com esse tipo de CPH4 explodindo no sentido de formatar ossos, crânios, não tem como, seria uma outra espécie e não dá para esperar isso."
+- U0015 (o único caminho de Sophia): "Tudo que Sofia pode fazer para evoluir a sua condição de radiata é pegar a organ a partir de a de sequências genéticas novas que os humanos vê tendo, né, e com base no campo móv outra contribuição peculiar de cada ser humano".
+- ⚠️ U0015 (o mapa das 10 encarnações): "existe um mapa em que cada ser humano, eh, olhando para esse mapa, você pega suas últimas 10 encarnações como ser humano e você vê a mesma assinatura quântica no mapa. Então, cada vida dessa repercute no campo mórfico eh da humanidade com o padrão, um número X, uma nota X. E eles conseguem ver isso."
+- ⚠️⚠️⚠️ U0015 (BLOCO RELIGIOSO SENSÍVEL — retenção proposta em O-7): "se hoje a gente fosse fazer isso, eu não digo nem pela marcação atual, mas a marcação dos arcanos, o que mais, o ser humano que mais marcou o campo mófico da humanidade Ma, né, ao fundar o islamismo. E essa religião é que tem o maior grau de afetação emocional. E como é muita gente, isso marca no campo mófico humano coisas que até hoje estão lá marcadas porque são realimentadas diariamente".
+- U0015 (o humor preservável): "Como também se pode saber a contribuição específica de Zezinho dos Anzóis, como é que ele tá em relação à contribuição dele pro campo mófico. Aparece lá o de cada ser humano."
+- U0015 (a origem do big data): "os Aia e Aia são muito, foram eles que criaram esses troços de certa forma eh do chamado big data que eu sempre me referi. Então eles conseguem fazer isso aí."
+- U0015: "Fora isso, nada a Sofia pode fazer. nele próprio, nem os biodemos, nem nenhum outro tipo de espécie que se resolva a ponto de que isso se torne útil para resolver o problema da criação." / "o drama para esses seres é que só a natureza humana hoje em dia é tazo [REVISAR]."
+- U0015: "Eles encheram os seres humanos de condicionamentos, de medos, de mazelas e transformar o ser humano num troço pequeno em termos de produção, quando podia ser grande, superior, limpo em termos de produção genética e espiritual."
+- U0015 (a fórmula da beleza/fealdade e da capacidade): "Nós, seres humanos, somos hoje os seres talvez mais feios da criação, mas os únicos capazes de, se fizermos bom uso da natureza do psiquismo humano, nos elevar a ponto de resolver todo o problema. Só que isso é muito recente para eles. muito recente."
+- U0015: "os humanos que chegaram nesse ponto não pretendem ter poder, então para eles isso é um bacem negociar com base no impacto de, né? Então os que chegaram nesse ponto não foram por aí, eles não sabem fazer nada, não sabem mais como lidar."
+- U0015: "se houvesse algum transplante a ser feito de alguém para Sofia, isso já teria sido feito. Mas a condição diodêmica com que Sofia foi engendrado lá atrás, eh, não sei, não sei se há alguma solução nesse sentido. O que eu imagino saber, pelo que eles demonstraram, é isso. Só a importação de organoides ou de sequências genéticas tiradas diretamente do ser humano através de técnicas que a gente não sabe direito. Fora isso, só reza para nos enganar, porque também não resolve."
+- U0015 **P5 — "considerando que sempre esses seres têm tido dificuldades em pr [pôr] seus planos em prática quando e quando o fazase não atinge seus objetivos? O que garante que Sofia terá êxito vindo exercer a sua soberania?"** Resposta (U0016): "Olha, garantido, garantido mesmo. Só a certeza da entropia. O resto não tem garantia não, pessoal. Até hoje nada deu certo."
+- U0016: "Isso implica dizer que durante muito tempo nada vai dar certo, a não ser aquilo que individualmente nós seres humanos fizermos. Não aqui na terra, porque aqui não não adianta, mas bulhufas fora. Aí se mais de um ser humano conseguir fazer, certo? Em dois, em três, um grupo, aí a coisa vai mudando de perspectiva."
+- U0016: "Isso aqui é expectativa, é sonho também, não é certeza que vai ser feito. Exemplo, como opção, ou isso vai ser feito ou a entropia vai sempre imperar e resolver a situação."
+- U0016 (⚠️ biográfica/quarentena — o autor admite arrependimento de ter falado em público): "já tá se Veja só, deixa eu ser um pouco alarmista. Eu falei na última reunião, até me arrependi de falar aqui do estudo dirigido, acho que foi no estudo dirigido que eu falei do livro dos Espíritos, mas já tem uma turma espiritual e isso não existia 5 anos atrás."
+- U0016: "já tem uma turma agora que tá defendendo que alguns algumas consciências humanizadas sobre a perspectiva espiritual realmente se poupem de encarnar, de encarnar não, de mergulhar nessa criação até que lá fora, com algum nível de consciência crítica contra solução pro para Javé, para Krishna, para e para ver o que que faz."
+- U0016 (a tríade das espiritualidades): "O problema é nós aqui dentro sem poder fazer nada, os espíritos lá fora totalmente abestalhados, parvos, não conseguem ter senso crítico nenhum e a turma do paraíso, da laboratorial e da operacional, mais parvos ainda. Então é complicado."
+- U0016: "Se isso que eu tô dizendo a vocês estiver realmente ancorado nesses padrões departamentalizados de ineficácia que eu estou aqui transmitindo, o assunto tem que ser considerado como dramático. E o que eu tô transmitindo para vocês tem que ser verificado, só o tempo poderá, né? Mas assim, não tá tão errado assim não, pessoal. O assunto dramático."
+- U0016 (o comparativo histórico do registro): "Jesus teve aqui, Buda teve aqui, fulano teve aqui, aí semeava, morria a turma ia escrever 20, 30 anos depois. aí destruir esses livros, não sei o quê, blá blá blá."
+- U0016 (a virada de 2010): "De 2010 para cá, nós temos aí uns 10 aninhos de uma profunda eh tô falando só esses 10, né? De uma profunda emergência de conceitos novos, de coisas que desmascararam uma série de crenças infant infantis."
+- U0016: "É o fogo de Prometeu realmente queimando tudo e reciclando e colocando novas informações que nunca antes haviam sido trabalhadas." / "ao longo desses 10 anos, essas informações assim que são postas no DNA humano, um grupo de humanos já tá aprofundando estudando e divulgando em circuitos esses temas, esses estudos. E isso nunca existiu na história dessa criação."
+- U0016: "Pela primeira vez, seres com nível de consciência minimamente honestos no campo da descência, do jogo de princípios e propósitos, estão atuando no mistério decifrador, decodificador, com senso de profundidade. muito grande e amplo."
+- U0016: "essas informações não estão sendo estragadas pela afetação da emoção no campo da fé, nem da pretensão da verdade. E estão sendo trabalhadas não só por uma mente, mas por dezenas ou centenas de mentes que estão trabalhando de forma crítica, não é de louvor, não é, é crítica, é tentando ver os erros."
+- U0016: "Foi está sendo feito Roger Tragédia [REVISAR] que morrendo continua no outro dia no IA nos botecos a mesma bagunça de estudo, de crítica, de da chegada de novas informações."
+- U0016 (a fórmula do processo limpo): "em continuando é o primeiro processo limpo. Pode tá errado, mas limpo sem os estragos dos anteriores, que vai continuar feito geração após geração e sempre ajustado pela liberdade de ajuste que o processo tem, já que aqui não tem porcaria nenhuma de fé, nem de de de de religião, é a busca da, entre aspas, verdade. É um estado permanente de crítica."
+- U0016: "Então isso é uma bomba atômica na história. Atômica nada, é uma bomba nuclear."
+- U0016: "não há outro tema na no circuito das fofocas cósmicas. É, é esse aqui. Ou criticando loucamente ou mas de alguma forma nós estamos em em evidência para esses estranhamente era para estarmos também já para terra, mas A permanência do isolamento faz com que nós continuemos desconhecidos e tem as suas vantagens."
+- U0016: "não há outra coisa sendo feita em lugar algum. Repito, do paraíso ao inferno caótico de Javé. Não tem nada sendo feito a não ser isso. Se isso parar, olha, acabou." / "Não há plano em curso de execução ou de consecução nenhuma. O único que existe é esse. Isso não é da tribut, não é de ninguém, é da gente."
+- ⚠️ U0016: "Então não há plano B. Deus ao diabo, caso exista, não existe, não tem outro plano. É o que os humanos, alguns humanos da Terra estão fazendo."
+- U0017–U0018 **P6 (via Cláudia) — "poderia explicar eh aprofundar o fato de não estar tendo informações na erraticidade. Durante a palestra você comentou sobre essa questão."** Resposta (U0018): "difícil porque a a estrutura do paraíso é manter tudo no estado de perfeição que lá sustenta as coisas. A estrutura da operacional é manter em funcionamento novas atitudes e buscas, mas dentro de certos padrões de controle. A mesma uma coisa da laboratorial."
+- U0018: "A única esculhambação que existe é isso aqui. Nessa esculhambação, a erraticidade, ou seja, a espiritualidade foi construída para isso, também tem como norma construtiva para que um ambiente espiritual exista. As mentes que estão ali dentro têm que agir em unísono no sentido de estruturar os aliceces magnéticos daquilo ali. Se dois brigam, se cinco brigam, se discordam, começa a ter problemas."
+- U0018: "quem tá no nível espiritual tem que ser ressonante com os outros. A vida biológica foi criada porque na vida biológica não tem o problema da dissonância, desde que os dois dissonantes estejam cada um no corpo humano que torna a ser a parte ressonante do processo."
+- U0018 (a analogia do firmamento): "É igual o firmamento, né? Passou avião, passou urubu, nada fica ali parado olhando para você, passa." / "Se você se confundir com isso, você se afetar, aí aquele urubu para e olha para você e pum, como o vírus se hospeda em você, aquela informação você apropriou. Esse é o drama."
+- U0018: "Como também na espiritualidade vibrações de certas informações não podem entrar na psicosfera daquelas cidades porque vai criar vírus e vai criar problemas."
+- ⚠️⚠️ U0018 (o termo que a malha não tem): "a corrente da genética que toda santa hora, cada microsegundo, pega tudo que cada cabeça de qualquer ser humano que exista pensou, esteja ele aqui na eh na lua, num planeta abduzido, a sequência da internet humana, que eu chamo Memete, a cada microssegundo distribui e redistribui e pega e redistribui de novo para toda e qualquer cabeça de um ser humano e o produto do que todos pensam."
+- U0018: "Poucos são os níveis espirituais que retém as informações que são eh vivenciadas por eles quando assistem as palestras, os bate-papos do IEA, porque fazem mal no atual estado momento." / "eles fazem de conta a chamada vista grossa para que aquilo não se estabeleça lá como sendo um padrão".
+- ⚠️⚠️ U0018 (a tétrade das inquisições + a obra anunciada — ANTERIORIDADE): "eu vou ter que falar disso. Eu não sei quando é que eu vou começar a falar disso. Se eu cismar, no próximo fim de semana eu começo, mas não sei se ainda é o momento. Mas eh existe um livro que eu chamo de inquisição espiritual. Já falei disso aí no na outra palestra. Eu já eh inquisição filosófica, inquisição poética, inquisição trimurtiana, mas ainda tem um outro chamado inquisição espiritual que eu nunca tive coragem de falar, de de de publicar, porque é um bunker na espiritualidade que espírito que me anime e outros, alguns de vocês aí do IA, o grupo é pequeno, tá? tendo alguns séculos para ver se aí a gente consegue reter espiritualmente algumas, né?"
+- U0018: "E esse livro Inquisição Espiritual, não sei se vai ser esse o nome, se um dia eu publicar, conta a história desse troço e do que se passou e do que se passa."
+- U0018: "Então, quando a gente fica brincando, dizendo que é necessário um paraíso verde, não é o tempo das nossas vidas, a gente próxima coisa lá pro futuro do infinito. O infinito tem sua dose de futuro, como a eternidade também tem."
+- U0018: "Por porque a espiritualidade errática não consegue ser ambiente para que haja progresso, porque não pode haver o contraditório, não pode haver nada diferente senão tube visada [REVISAR]. E assim é fora da blindagem no chamado paraíso nível A, B, C, se assim quisermos chamar."
+- U0018: "os nossos espíritos terminaram se especializando exatamente no contraditório e mesmo sujos e em plena briga sorrir, atingir níveis de paz, de odiar quem nos agride. Essa turma não entende nada disso."
+- U0018 (a proposta da banca): "É preciso que mais grupos espirituais mantenham ou construam aquilo que eu tô chamando de banca espiritual, de resistência, né, de de para reter ali os assuntos para serem trabalhados, verificados, porque só aqui na terra não tá, não tem espaço."
+- U0018 (⚠️ ENCERRAMENTO PESSOAL — quarentena biográfica): "eu sou repetitivo por natureza, não é o jeito, não tenho outra alternativa." / "Olha, se tem um ser humano com vontade de parar, sou há muito tempo. Até dar aviso e ser humilhado por toda um contexto de vida de que Que coisa boa. Só assim eu paro. E não parei com a porcaria de da da humilhação. Acredite, se tem um ser humano que quer parar, sou eu. Há muito tempo. E só fiz me ferrar."
+- U0018: "eu não paro porque terrivelmente eu sei que se a gente parar e o a gente somos nós, esse pouquinho dos seres humanos. Olha, a gente não imagina o tamanho da desgraça que se estabelece de pronto num monte de consciência. que tão pegando carona com a gente."
+- U0018: "se eu tiver muito enganado e tiver enganando vocês com esse tipo de perspectiva, milhões de perdão, mas é a única coisa que eu digo que tem alguma perspectiva, mas não quero com isso gerar expectativa nem esperança. São os fatos que eu lido com eles".
+- U0018 (o fecho): "não vamos parar, ainda que um outro pare. E eu posso me situar entre esses… continuem fazendo o quê? Estudando, questionando, buscando a verdade. Esse é um grande barato." / "enquanto vida houver, usar essa vida para dignificar a mim mesmo, no sentido em que eu posso ser útil a quem está ali convivendo comigo e tentar sempre fugir da ignorância buscando a verdade." / "Então, beijo para todos, obrigado e até um dia aí qualquer."
+- U0019–U0020: linhas vazias (fim do arquivo).
+
+## 34. Quantificação observacional (sem juízo)
+
+| Item | Ocorrências observadas na transcrição (bruto) |
+|---|---|
+| Variantes STT de ANUNNAKI | "anonax", "Anunax", "anunques", "anunaques", "Anonaques", "Anunais", "anonacos", "Anuna", "anonáxos", "anunx", "anuna", "Anunau", "Anon Chic", "anunaídes" [REVISAR] |
+| Variantes de HIPERBÓREO | "perbórias", "hiperbórias", "hiperbórios", "hipergórias", "hiperbóreas", "hiperbóis", "hiper bória", "egoas" [REVISAR] |
+| Variantes de THULE | "Tul Thu", "Tul", "tool", "Tur", "tulecado", "terras de Tur" |
+| Variantes de ODIN | "Odim", "Odinha", "Odim" |
+| Variantes de AESIR/VANIR | "Aesir e Vanir", "Aesires e Vanires", "Air e Vanir", "air e vanas", "exires e van" |
+| Variantes de ENKI | "Enk", "Enek", "Henk", "Enemp", "enk", "Enquenil" (fusão com Enlil), "clã de Enek", "clã Hen Lil" |
+| Variantes de VYASA/GANESHA | "Viaza", "viaja", "Gancha", "ganexa", "Gene", "Marra Barata", "rabarata" |
+| Variantes de TUATHA DE DANANN | "toatas de Danana", "tuatas de dano", "toatas de Danã", "toatas de Anu", "tuatas de Nanã", "seguidores de Inana", "toatas de inan", "os toatas de Dana", "tutatas" [REVISAR] |
+| Variantes de NIBIRU | "Anibiro", "Nibiro", "Nibir", "Nibeiro", "inibir" [REVISAR], "Libirô", "Nibiru" |
+| Variantes de INANNA/ISHTAR | "Inana", "inan(a)", "Nana", "Nanu" [REVISAR], "Danana", "Danã", "ISAR", "Nanau" |
+| Variantes de SITCHIN | "Zachariah Sitting", "Zacarias Sitchin", "Zecas City"/"Zacas City", "Zar City", "Zé Car", "Zé Carity", "Zecaria City", "Cin", "City" |
+| Variantes dos FORNOS | "Aáon", "Aamaion", "Hawaiingan", "Aingã" |
+| Números de profundidade citados | 50.000 / 49.000 / 48.000 · 40.000 → 10.000 · 30.000 · 8.000 · 14.000 → 12.000 · 9.000–10.000 (dilúvio) · 9.000 (pós-dilúvio) · 5.000 (ápice da disputa) · 2.600 (retorno anunnaki a Nibiru) · 2.500 (poder de Inana) · 1.000 (novo aparecimento) · 3.600 (órbita) · 400 milhões (convergência/polvo) · 900 milhões–1 bilhão (cérebro bilatério) · 6 bilhões (Sophia) · 13 bilhões (história) · 28.879 (genes) · 100 bilhões (neurônios) · 82–86 bilhões · 16 a 17% · 84/83% · 17–40% (expansão) · 72 (etnias) · 14 (sobreviventes) · 6 (componentes) · 9 (cérebros do polvo) · 10 (encarnações no mapa) · 200 (a "20 anos atrás" do corpus) · 1867/1886 (Alaska/evangelização) · 2000? (não há) |

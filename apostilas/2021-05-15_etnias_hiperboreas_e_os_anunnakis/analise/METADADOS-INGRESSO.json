@@ -1,0 +1,21 @@
+{
+  "palestra": "P2021-05-15 — As Etnias Hiperbóreas e os Anunnakis",
+  "data": "15/05/2021",
+  "arquivo": "original.txt",
+  "arquivo_recepcao": "uploads_recepcao/2021-05-15 - As Etnias Hiperboreas e os Anunnakis.txt",
+  "sha256": "57f8e002f830a9226d8b557c642dd6a1e1c475e0c10738e62aa888825417bec4",
+  "bytes": 110198,
+  "caracteres_unicode": 106835,
+  "palavras": 18887,
+  "linhas": 20,
+  "chunks": 6,
+  "chunk_alvo_caracteres": 17000,
+  "natureza": "TRANSCRIÇÃO STT BRUTA INTEGRAL — fonte primária da palestra; preservada byte a byte; aguardando pré-curadoria e Devolutiva.",
+  "inedita": true,
+  "local": "[REVISAR — não identificado no cabeçalho da transcrição]",
+  "slug": "2021-05-15_etnias_hiperboreas_e_os_anunnakis",
+  "estado": "AGUARDA DEVOLUTIVA DO CURADOR (piloto registrado nesta esteira — AGENTE 13)",
+  "data_ingresso": "2026-08-28",
+  "caracteres_unicode_normalizados": 106816,
+  "chunk_reconstituicao_byte_a_byte": true
+}
