@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2025-02-22 — A Vinda de Sophia e o Equilíbrio Universal
 
-> **ESTADO OPERACIONAL: PILOTO CONCLUÍDO — AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Leitura integral 104/104 linhas (o megabloco de 28.190 chars) + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (28/08/2026).** Ciclo fechado: a Devolutiva do curador 100% aprovada → **29 fichas ampliadas + 1 no pacote (RC-135) + 30 vínculos + 0 códigos** (777/1.856 invioláveis; **as fichas-alvo nomeadas: RC-009/RC-565 + RC-454 + RC-664 + RC-072 + RC-005 + RC-760**) → **A BIBLIO: B004 coautoria validada + as crosses B011/B012 (102 obras)** → apostila (11 PARTES + Q&A + Apêndice; **as duas testemunhas como o índice rotulado do CÓDIGO PRETO**) + DOCX + RELATORIO-DE-CICLO. Pasta engavetada em `apostilas/CONCLUIDAS/` — **A 28ª DA FASE (a palestra-síntese do cluster)**. ⚠️ **O CURSO DA VÉSPERA (~21/02/2025) NO RADAR** (a Devolutiva O-1).
 
 ## 1. Identificação
 
