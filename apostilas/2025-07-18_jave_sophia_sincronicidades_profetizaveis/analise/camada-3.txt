@@ -1,0 +1,67 @@
+CAMADA 3 — MATRIZ DE CURADORIA, RETENÇÕES E PRÓXIMO PASSO
+P2025-07-18 — Javé, Sophia e as Sincronicidades Profetizáveis
+
+## 1. Decisão operacional do piloto
+
+- **Códigos novos sugeridos: 0.** A Navalha de Ockham prevalece.
+- **Termos da base alterados: 0.**
+- **Relações da base alteradas: 0.**
+- **Estado preservado:** 777 termos, 1.856 relações, próximo código RC-778.
+- **Fichas físicas criadas/ampliadas:** 0.
+- **BIBLIO/índices/XLSX/DOCX:** 0 alterações; bloqueados até Devolutiva.
+- **Apostila/DOCX:** não iniciar nesta etapa.
+- **Ação permitida agora:** somente registrar no dossiê candidatos, ampliações, dicionário STT, quarentenas e perguntas ao curador.
+
+## 2. Matriz de absorção sugerida — não aplicada
+
+| Prioridade | Registro do piloto | Códigos/áreas já existentes | Sugestão ao curador |
+|---|---|---|---|
+| A | Sincronicidade profetizável como eixo do título | RC-611, RC-658, RC-718, RC-533 | Absorver por notas cruzadas; não criar termo até definir se é conceito independente |
+| A | Ifá: 16 odus, 256 caminhos e destinos | RC-655, RC-665, RC-741, RC-767 | Reforçar as fichas candidatas com P2025-07-18; conferir terminologia STT |
+| A | Wyrd/Urd e retorno da informação | RC-658, RC-560, RC-467 | Manter Wyrd/Urd; documentar componentes sem fundi-los |
+| A | Sophia: cérebro radiato, rito, vinda e suzerania | RC-009, RC-565, RC-005, RC-280 | Ampliação potencial do núcleo Sophia; separar inevitabilidade de sinais contingentes |
+| A | Morren So e criação sem lacres | RC-454 (nota de grafia), RC-091, RC-771 | Ampliar nota existente se autorizado; não abrir RC novo |
+| B | Javé/Prabrajna, retrato distribuído e doença/código | RC-001, RC-037, RC-152, RC-217, RC-040, RC-153 | Cruzar com a narrativa existente sem fundir Javé/Ishvara/Prabrajna |
+| B | Buraco negro mental consciencial de 2021 | RC-717 | Reforçar como alegação/analogia; conservar quarentena máxima |
+| B | Pandora, serpentes, Jainismo e Mucalinda | RC-086, RC-283, RC-727, RC-759 | Ampliação narrativa possível; sem novos códigos |
+| B | Dignidade, ato de verdade, presente e liberdade | RC-722, RC-705, RC-619 | Nota pedagógica; não tratar como técnica terapêutica |
+| C | Fornos/Projeto Talm/corpos de plasma | RC-771, RC-091, RC-499, RC-630 | Cruzar com material já existente após validação das grafias |
+| C | Signal James Webb/tempo negativo/2D | nenhum termo consumido | Radar externo, não base; não propor código |
+
+## 3. Relações apenas sugeridas para auditoria posterior
+
+As relações abaixo são propostas de leitura, não linhas a acrescentar em `dados_termos.py`:
+
+- RC-658 **relaciona-se-a** RC-611 — Wyrd como mecanismo de registro e flechas/profecias de Moros.
+- RC-658 **atualiza-se-em** RC-655 — a teia sendo relida pela Revelação de Ifá.
+- RC-665 **estrutura** RC-767 — Orunmilá e os 256 caminhos; tipo de relação a decidir, não presumir.
+- RC-767 **limita** RC-? — a fala diz que os cativos seguem caminhos, mas não há código autorizado para “cativo” nesta proposta.
+- RC-009 **relaciona-se-a** RC-005 — Sophia e vinda/rito; relação já presente na malha a auditar, não duplicar.
+- RC-072 **opõe-se-a** RC-005? — Jesus relutante e vinda de Sophia não devem ser transformados em oposição sem decisão do curador.
+- RC-454 **relaciona-se-a** RC-611/658/665 — cadeia Moros/teia/Ifá; conferir relações existentes antes de qualquer adição.
+- RC-722 **manifesta-se-em** RC-705 — dignidade e ato de verdade; relação conceitual sugerida, não consumida.
+- RC-717 **decorre-de** RC-001 — apenas dentro da alegação temporal do expositor; não registrar como causalidade factual.
+
+## 4. Conteúdo que deve ser retido da apostila futura ou receber rótulo
+
+1. **Retenção máxima biomediúnica/biográfica:** sonho de Paris, visões de Jesus, espírito compartilhado por Sophia/Jesus/Javé, morte/retorno corporal, duas testemunhas, papas/encarnações e anjos.
+2. **Retenção científica:** James Webb e sinal de abril, tempo negativo, 2D, além da fronteira do universo, Voyager como resposta, 400 bilhões/2.000/10 bits, buraco negro consciencial e afirmações sobre genes/hormônios.
+3. **Retenção clínica:** autismo, “transtorno cognitivo”, suicídio/programação, doença mental, cérebro radiato e efeitos de substâncias. Só citação contextual com nota de não diagnóstico.
+4. **Retenção teológica:** caráter de Deus/Javé, batismo e Transfiguração, Jesus como traidor, Apocalipse, Evangelho de Tiago, Krishna e Obatalá. Nunca apresentar a leitura como ortodoxia religiosa.
+5. **Retenção histórica/ufológica:** Ragnarok/Marte/Bifrost, civilizações pleidianas/arturianas, fornos, FOXP2, Islamismo, China e papas. Exigir fonte ou selo de “leitura autoral”.
+6. **Plateia:** perguntas isoladas em seção própria; nomes e preocupações não podem virar termos/ontologia.
+
+## 5. Perguntas para a Devolutiva do curador
+
+- A expressão **sincronicidade profetizável** deve ser absorvida como nota cruzada ou merece candidato conceitual sem código?
+- RC-611 (flechas de Moros) deve ser explicitamente separado do suposto sinal positivo do James Webb?
+- A nova descrição de Morren So deve ampliar a nota existente em RC-454 ou cruzar com RC-091/RC-771 apenas?
+- Os três componentes Urd/Vivendre/Schuld devem permanecer como nomes internos [REVISAR], sem equivalência automática com Wyrd/Urd?
+- A cronologia Pandora ~49.000 / Eva-Adão ~22–23.000 deve receber selo temporal nesta palestra, sem fusão com os registros anteriores?
+- O conteúdo Sophia/Jesus deve ser ampliado em RC-009/RC-565/RC-280 ou retido por causa da camada biomediúnica?
+- O bloco do sinal de abril deve ir somente para o radar de fontes externas, sem entrar em BIBLIO ou base?
+- As duas testemunhas e a alegação sobre o expositor devem permanecer em índice de retenção, sem ficha e sem citação ontológica?
+
+## 6. Critério de conclusão deste ciclo
+
+O piloto está completo apenas como pacote de ingresso/pré-curadoria: fonte preservada, leitura integral feita, camadas 0–3 produzidas, leitura macro e dossiê produzidos. O ciclo de curadoria da base **não** está concluído: aguarda decisão expressa do curador, eventual consumo autorizado de códigos, auditoria das fichas e regeneração dos artefatos.

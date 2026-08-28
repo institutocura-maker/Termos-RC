@@ -1,0 +1,95 @@
+CAMADA 2 — AUDITORIA TERMINOLÓGICA, STT E QUARENTENAS DE GRAFIA
+P2025-07-18 — Javé, Sophia e as Sincronicidades Profetizáveis
+
+Regra: este documento normaliza apenas para leitura e sugere auditorias. Nenhuma linha de `ferramentas/dados_termos.py`, nenhuma ficha física e nenhuma relação foi alterada. O original continua com as grafias STT.
+
+## 1. Alinhamento com a base existente — sem consumo
+
+| Fala/ideia do piloto | Referência existente a auditar | Encaminhamento pré-curatorial |
+|---|---|---|
+| Javé e seu retrato caído/reconstruído | RC-001, RC-037, RC-152, RC-217 | Possível ampliação de contexto; não fundir automaticamente Javé, Brahma, Prabrajna e Ishvara |
+| Sophia/Sofia, Hochmah, suzerania e rito | RC-009, RC-565, RC-005, RC-280 | Central do piloto; conferir grafia canônica Sophia e manter o discurso como alegação |
+| Moros/Orlog, setas e destino | RC-454, RC-611, RC-658, RC-718 | Cruzar; não transformar a nova sincronicidade em “flecha” sem decisão |
+| Orunmilá/Ifá/16/256 caminhos | RC-655, RC-665, RC-741, RC-767 | Fonte forte de ampliação dos candidatos existentes; nenhum código novo |
+| Wyrd/Urd/WD | RC-658 e remissão histórica RC-560 | Aplicar Wyrd/Urd como grafia vigente; preservar Urd/Vivendre/Schuld como componentes ou variantes a revisar |
+| Morren So | Nota de grafia oficial existente em RC-454 | Usar **Morren So** no derivado; registrar “Morençou/Morrensor/Morençor/Morençou” como STT |
+| Ananque | RC-777 | A palestra reabre a cadeia Moros/necessidade/destino; ampliar só após Devolutiva |
+| Buraco negro mental/consciencial | RC-717 | Reforço de fonte; manter explicitamente não astrofísico/neurocientífico |
+| CFD/DNA/genoma e liberdade | RC-040, RC-153, RC-217, RC-619, RC-727 | Cruzar sem linguagem genética factual; separar metáfora cosmológica de biologia |
+| Fornos e Projeto Talm | RC-771, RC-091, RC-499 | Cruzar as três atribuições; nomes de STT permanecem como dicionário |
+| Pandora/serpente/Jainismo/Mucalinda | RC-086, RC-283, RC-727, RC-759 | Possível ampliação narrativa, com quarentenas teológica/histórica |
+| Dignidade, ato de verdade e resistência | RC-722, RC-705 | A palestra fornece formulação ética; não criar “rito de passagem” autônomo |
+| Corpo daiva/plasma e cérebro radiato | RC-630, RC-646 | Quarentena ufológica/científica; não converter em anatomia |
+
+## 2. Candidatos conceituais — somente registro no dossiê
+
+1. **Sincronicidade profetizável:** expressão do título e conceito organizador. Proposta de absorção distribuída entre RC-611 (profecias), RC-658 (teia), RC-718 (cumprimento) e, se o curador aprovar, RC-533 (processador). **Não sugerir RC-778.**
+2. **Rito de passagem como operador de previsibilidade:** não há autorização para código; registrar como eixo transversal entre RC-722, RC-705, RC-009 e RC-005.
+3. **Sinal perfeito / tempo negativo / universo vizinho:** nota de radar e quarentena científica; não tratar como termo ontológico da RC sem evidência externa ou ordem.
+4. **O retrato humano distribuído:** ampliar, se aprovado, a cadeia RC-152/217/619/727; não criar novo código para a metáfora.
+5. **Oró / “veneno primordial”:** o som é instável e não está consolidado no índice desta auditoria. Registrar apenas como [REVISAR], possível leitura em torno de CFD/genoma; não decidir que seja termo iorubá canônico.
+6. **Rede consciencial / buraco negro mental:** absorver em RC-717 como analogia de colapso, sem chamar de fenômeno físico.
+7. **Soberania/suzerania de Sophia:** absorver em RC-009/005; separar “vinda inevitável” de previsões sobre papas, testemunhas e datas.
+8. **Quatro usos do momento presente:** nota pedagógica ligada a RC-619/705/722; a enumeração não deve ser completada além do que o áudio permite.
+
+## 3. Dicionário STT — correções candidatas e cautelas
+
+| Forma ouvida no TXT | Forma editorial a testar | Regra de segurança |
+|---|---|---|
+| Sofia / Sofía | **Sophia** | Normalizar somente em derivados; o original fica intacto |
+| Morençou / Morrensor / Morençor / Morenou | **Morren So** | Grafia vigente; conferir a passagem e não criar ficha separada |
+| Jahé / Jahvel / Jahuara / Javé | **Javé** quando o contexto for o criador | Não colapsar automaticamente com Ishvara/Prabrajna |
+| Iuara / Ichuara / Chuara / Aixuara | [REVISAR: Ishvara?] | O contexto varia; não impor equivalência sem fonte |
+| Prabrágina / Para Bragna / Para Brajna | **Prabrajna** | Forma canônica da base; conservar a alegação de queda como camada da fala |
+| WDE / WERD / WD / Urdre / Udre / Urre | **Wyrd / Urd** | RC-658 é remissão canônica; Urd, Vivendre e Schuld podem ser níveis distintos |
+| Vivendre | **Vivendre** [REVISAR] | Não apagar o componente “presente” em uma fusão arbitrária |
+| Scud / Scult / Schul / Schuld | **Schuld** [REVISAR] | Forma ouvida instável; não registrar como novo ser |
+| Moro / Moros / Orlog | **Elm (Moros)** / Moros | Cruzar RC-454, RC-611 e RC-658; respeitar a cadeia vigente e o contexto narrativo |
+| Orumilá / Aurumilá / Orumiá | **Orunmilá** | Cruzar RC-665 e RC-767 |
+| Batalá / Olodumaré | **Obatalá** [REVISAR] | RC-666 existe; não presumir que toda ocorrência seja a mesma entidade |
+| tirtancaras / tirthancaras | **Tirthankaras** | Cruzar RC-759; manter como história narrada |
+| Jump / Jungos / Junch | **Jung** | Verificar edição/fonte de 1952 antes de qualquer BIBLIO |
+| James Web | **James Webb** | Correção editorial factual só com fonte externa; no piloto, marcar STT |
+| Voider / voer | **Voyager** [REVISAR] | A fala também menciona Carl Sagan; não confirmar a resposta científica |
+| Seagan | **Sagan** | Candidato de STT, não BIBLIO consumida |
+| darinismo / neodarinismo | **darwinismo / neodarwinismo** | Correção clara de STT, sem validar a tese sobre evolução |
+| elopilha / elopila | **eolípila** [REVISAR] | Heron de Alexandria; conferir grafia histórica |
+| Costa Graves / Costa Gravas | **Costa-Gavras** [REVISAR] | Identificação do filme “Uma Bela Vida” não confirmada nesta sessão |
+| caedrada / caaba | **Caaba** [REVISAR] | Não aplicar sem áudio/fonte externa |
+| pleidianos / plegianos | **Pleiadianos** [REVISAR] | Quarentena ufológica; nomes são apresentados como rótulos humanos |
+| organoides / conectoma | termos técnicos mantidos | Não extrair inferência neurobiológica do uso retórico |
+
+## 4. Grafias vigentes que não devem ser reabertas pelo STT
+
+- **Morren So**: usar assim nos derivados, embora o TXT varie.
+- **Segon Sha**: grafia vigente do corpus; não é ouvido/identificado neste piloto e não deve ser inserido artificialmente em um trecho que não o contém.
+- **Ananque**: grafia vigente e RC-777; não substituir por uma variante ou por “necessidade” sem decisão.
+- **Sophia**: forma editorial canônica, mantendo `Sofia` no original.
+- **Wyrd/Urd**: fusão vigente para o índice; componentes narrativos instáveis ficam preservados como [REVISAR].
+- **Javé, Vishnu, Brahma, Shiva, Olm, Elm**: formas da base; o fato de a voz usar aproximações fonéticas não autoriza criar equivalências novas.
+
+## 5. Quarentenas terminológicas
+
+### Científica / física
+
+James Webb, sinal perfeito, sinal 2D, tempo negativo, fronteira do universo, buracos negros, 400 bilhões de bits, fótons, entropia, hidrogênio, plasma, FOXP2, hipotálamo e tálamo. São alegações, analogias ou dados a conferir; não são evidência científica no estado do piloto.
+
+### Clínica / saúde mental / segurança
+
+“Transtorno cognitivo”, autismo de espíritos puros, genoma sujo, hormônios, suicídio, dor, doença mental e programação existencial. Usar apenas como fala do expositor; não diagnosticar, prescrever, culpabilizar ou explicar comportamento real com o modelo cosmológico.
+
+### Biomediúnica / biográfica
+
+Sonho de Paris, visões de Jesus, fatiamento de consciência, o eu de Javé, morte/retorno corporal, os anjos, duas testemunhas, identidade do espírito que anima Sophia/Jesus/Javé e alegações pessoais do expositor. Código de retenção máxima; não ontologizar.
+
+### Teológica / histórica / mitológica
+
+Jesus, batismo, Transfiguração, Apocalipse, Evangelho de Tiago, Judas, Krishna, Batalá/Obatalá, Mucalinda, tirthankaras, Ragnarok e genealogias. Manter o carimbo “leitura do expositor” e separar tradição-fonte de interpretação RC.
+
+### Ufológica / tecnológica
+
+Civilizações insetoides, Pleiadianos, arturianos, sirianos, fornos de replicação, corpos radiatos, corpo de plasma, superposição de universos e supernáve/vinda de Sophia. Não validar, não criar fichas novas.
+
+### Política / institucional
+
+China, democracias, papas, Papa Francisco, João Paulo II, IEA, cursos e devolução da sala. São contexto de pergunta ou leitura autoral; não registrar como ontologia de arcontes.
