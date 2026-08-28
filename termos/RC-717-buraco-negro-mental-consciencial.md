@@ -93,3 +93,11 @@ A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho sã
 - **Demência plena das faixas improvisadas:** "A demência é plena, ainda que não profunda, porque os seres têm algum nível de consciência crítica, mas não conseguem fechar o entendimento... a consciência deles não tem como ter continuidade, porque o próprio habitat onde eles vivem não tem a continuidade que o nosso aqui tem";
 - **Coma de Javé:** os ciclos de "coma" (seções 4.4, 9.1) — o colapso não é citado diretamente aqui (2021 em outras palestras) — `[REVISAR]`;
 - A consciência humana crítica como fator que rompe a demência ancestral (RC-761).
+
+---
+
+## Reforço — P2025-07-18 — alegação do colapso de Javé
+
+- **[P2025-07-18 · U00007/U00016 e Q&A U00023–U00025]** O expositor retoma a alegação de que o corpo de Javé teria colapsado em 2021 e que seu “eu” teria permanecido em condição parasitária. A expressão **buraco negro mental consciencial** é explicada por analogia com implosão, ego e retenção de informação.
+- **Decisão editorial aplicada:** absorver como **alegação**, sem literalidade astrofísica, neurológica ou clínica. O status do verbete não muda.
+- **Quarentena:** separar este uso do sinal do James Webb e de buracos negros astronômicos; não usar para diagnosticar pessoas nem para afirmar uma descoberta científica.

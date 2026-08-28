@@ -80,3 +80,11 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **Marco dos setianos:** "pode faltar tudo no genoma deles, menos a sensação de dignidade... sentir-se digno, os setianos, os gnósticos";
 - **Autocobrança:** "é importante não a gente cobrar dos outros... mas cobrar da gente mesmo. 'Putz, eu tô sendo digno, tô tentando ser digno'";
 - **Relação nova:** RC-748 ↔ RC-722 (Genótipo da Gentileza ~ Dignidade).
+
+---
+
+## Nota pedagógica — P2025-07-18 — dignidade como descontinuidade
+
+- **[P2025-07-18 · U00009–U00017]** A palestra contrapõe obediência cega e liberdade de consciência e afirma que uma sensação digna, quando acompanhada por resoluções e conduta, pode interromper a repetição de um roteiro. A dignidade é apresentada como critério prático de transformação do presente.
+- **Cruzamento aprovado:** rito de passagem, quatro usos do presente e ato de verdade ficam como notas pedagógicas transversais em RC-619, RC-705 e RC-722.
+- **Quarentena:** não transformar o vocabulário de “doença”, “genoma”, carma ou espírito em diagnóstico, psicologia clínica ou instrução de saúde.

@@ -59,3 +59,11 @@ Consultar as relações tipadas acima.
 Termo candidato; requer cruzamento com palestras sobre FOXP2, Pandora e mente bicameral.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
+
+---
+
+## Nota pedagógica — P2025-07-18 — rito, presente e liberdade
+
+- **[P2025-07-18 · U00009–U00016]** A palestra usa o “rito de passagem” como marco pelo qual uma pessoa rompe hábitos, se compara entre ontem e o próximo agora e pode deixar de repetir pendências. A liberdade é apresentada como capacidade humana de tomar resoluções, agir e sustentar uma mudança real — não como mero desejo.
+- **Quatro usos do presente:** o discurso menciona quatro possibilidades: trabalhar o problema já existente, permanecer sem nova causação, piorar o acumulado ou produzir algo fora da rota prevista. A formulação fica como nota pedagógica, sem completar o que o STT não torna seguro.
+- **Quarentena:** “genoma” e “programa” são metáforas/teses internas da RC nesta passagem; não são promessa de reprogramação genética, cura ou tratamento.

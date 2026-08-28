@@ -55,3 +55,11 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 
 ## Observações Históricas
 As anedotas de Ashoka/Ganges e a causalidade da independência indiana são apresentadas como narrativa da palestra, não reconstrução histórica exaustiva.
+
+---
+
+## Nota pedagógica — P2025-07-18 — dignidade e resistência não violenta
+
+- **[P2025-07-18 · U00016–U00017]** No fecho, o expositor chama de resistência pacífica e amorosa o esforço de permanecer ligado à verdade íntima, agir com dignidade a cada segundo e não esperar um resultado externo como condição do ato.
+- **Cruzamento aprovado:** a nota de rito de passagem e a “sincronicidade profetizável” podem ser lidas transversalmente com RC-619 e RC-722, sem gerar novo termo ou relação.
+- **Quarentena:** trata-se de formulação ética/pedagógica do expositor; não é método clínico, garantia de destino ou prescrição religiosa.

@@ -1,6 +1,6 @@
 # Ficha de Ingresso v2.0 — P2025-07-18 — Javé, Sophia e as Sincronicidades Profetizáveis
 
-> **ESTADO OPERACIONAL: PILOTO ABERTO — AGUARDA PRÉ-CURADORIA E DEVOLUTIVA.** Nenhum código consumido. Nenhuma ficha da malha tocada. Nenhuma apostila iniciada.
+> **ESTADO OPERACIONAL: CICLO PÓS-CURADORIA CONCLUÍDO — DEVOLUTIVA 100% APLICADA.** Zero códigos novos; RC-778 permanece intocado. A fonte única permanece em 777 termos e 1.856 relações. Fichas existentes ampliadas conforme `analise/DECISAO-DO-CURADOR.md`; fonte original preservada byte a byte.
 
 ## 1. Identificação
 
@@ -42,4 +42,8 @@ A abertura identificada no ingresso começa agradecendo a presença e anuncia um
 - `analise/LEITURA-1-MACROESTRUTURA.md`
 - `analise/DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md`
 
-Após a Devolutiva, o curador decidirá se haverá injeção na malha, apostila, cadastro bibliográfico ou retenções adicionais.
+## 5. Encerramento pós-curadoria
+
+A Devolutiva Oficial do curador Edson Cella Mendes foi recebida com aprovação de 100% e aplicada integralmente, sem novos códigos e sem novas relações. O suposto sinal do James Webb permanece apenas no radar externo; Jung (1952) não foi cadastrado na BIBLIO; `oró` permanece `[REVISAR]`; a divergência Pandora ~49.000 / Eva-Adão ~22–23.000 foi selada com `P2025-07-18` sem fusão retroativa.
+
+Produtos finais do ciclo: `analise/DECISAO-DO-CURADOR.md`, `analise/RELATORIO-DE-CICLO.md`, `apostila.md`, DOCX da apostila, índice mestre, XLSX e DOCX da Base, índices de palestras, `CONTINUIDADE.md` e pacotes de reconstrução. A fonte original continua intocada.

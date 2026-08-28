@@ -62,3 +62,11 @@
 - **Projeto Orunmilá–Olodus (P2024-09-29):** o autor anuncia: "vamos estudar agora o que houve no Japão e depois a gente estuda o que houve na África e no Oriente Médio" — o contexto do projeto Ifá/orixás (ver também P2024-11-30: "quando Obatalá traiu Orumilá e lançou o Islã"); a ser ampliado com o trecho correspondente.
 
 ---
+
+---
+
+## Reforço — P2025-07-18 — atualização em 16 odus e 256 caminhos
+
+- **[P2025-07-18 · U00016]** A palestra reconta o Projeto Orunmilá–Olodus como atualização da Wyrd/Ifá com informações humanas e como construção de caminhos previsíveis conforme a origem ancestral da entidade. O número narrado é **16 odus e 256 caminhos**.
+- **Decisão editorial:** manter a leitura como ampliação de um projeto já existente, sem ficha nova, sem código novo e sem alteração da contagem da malha.
+- **Quarentena:** os termos “alma”, “origem vegetal/animal/mineral” e “trânsito para o universo biológico” são componentes da cosmologia narrada; não são classificação biológica.

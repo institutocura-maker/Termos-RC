@@ -228,3 +228,12 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 - **"morresom/moruself" [STT]:** "um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico, mas destruíram isso no Hainarok [Ragnarök RC-395], porque isso estava fora do controle deles";
 - **Orunmilá = Moros de Orum:** "Orunmilá, que Orilá, ou seja, Moros de Orum" (RC-665);
 - **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) como o desfecho da disputa.
+
+---
+
+## Reforço — P2025-07-18 — Morren So, o Talm e os fornos
+
+- **[P2025-07-18 · U00012–U00016]** O expositor apresenta Morren So como ser criado “sem lacres, sem travas”, com o código dos três, capaz de observar a doença distribuída no criador e pensar na transferência/ressignificação dos códigos. A fala o liga ao **Projeto Talm** e à organização de vida nos dois universos.
+- **Grafia STT:** `Morençou`, `Morrensor`, `Morençor` e formas próximas; aplicar **Morren So**, a grafia vigente já registrada nesta ficha, sem abrir ficha autônoma.
+- **Cruzamento estrutural aprovado:** relacionar a narrativa às notas de RC-091 (Projeto Talm) e RC-771 (Fornos Replicadores). A palestra também vincula a samudra manthana, o amrita e a participação de Vishnu; estes elementos permanecem notas narrativas e não novos nós.
+- **Quarentena:** “avatar do código dos três”, “legista” e gênese cosmológica são alegações do expositor e devem permanecer rotulados como leitura RC.

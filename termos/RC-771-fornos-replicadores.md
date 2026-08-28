@@ -71,3 +71,11 @@ Brahma/Javé (RC-001/037), Shiva (RC-102), Vishnu (RC-135), Sophia (RC-009), Moh
 - **Quarentenas:** datas (Shiva ~12,17 bi anos; Vishnu ~4,1 bi anos; bilatério ~4 bi anos) [REVISAR — conferir B050]; taxonomia radiata/bilatério = leitura da RC, não neurociência; "CFDP doente"/"zumbi de si mesmo" = leitura teológica de Ellam.
 
 **Regra de status:** 🟡 provisório — criado por autorização excepcional do curador (O-3, Devolutiva ART-2025-08-01); aguarda confirmação em fonte primária (B###/áudio) para promoção a definitivo.
+
+---
+
+## Reforço — P2025-07-18 — nomes e atribuições preservados
+
+- **[P2025-07-18 · U00014–U00016]** A fala retoma os três fornos como **Awayen, Awaymaion e Awaylengan**, associados respectivamente a Brahma, Vishnu e Shiva, e liga a transferência/organização da vida ao Projeto Talm e a Morren So.
+- **Cruzamento estrutural aprovado:** preservar a leitura em conjunto com RC-454 e RC-091, sem criar fichas para os componentes e sem alterar a malha.
+- **Quarentena:** fornos, plasma, cérebro radiato e transferência interuniversal permanecem em registro ufológico/cosmológico do autor, não em literalidade científica.

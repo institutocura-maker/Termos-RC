@@ -136,3 +136,11 @@ Ficha baseada no glossário de B031 + capítulo homônimo do livro (Parte II). E
 ## Reforço — P2025-03-15
 
 O Projeto Talm é apresentado como transferência do código plasmático Nidana do universo antimaterial para o universo biológico, onde se converte em DNA e chega à complexidade humana. A cadeia é ligada a Ishvara — RC-691 — e à Evolução da Informação — RC-693.
+
+---
+
+## Reforço — P2025-07-18 — coordenação atribuída a Morren So
+
+- **[P2025-07-18 · U00012–U00016]** O Projeto Talm é explicitamente mencionado como o programa que trouxe “o código da vida do universo antimaterial para o material”. No arco narrativo, a coordenação é atribuída a **Morren So**.
+- **Cruzamento estrutural:** esta nota deve ser lida junto da ampliação de RC-454 e da descrição dos três Fornos Replicadores em RC-771. Não altera a definição, o status ou a contagem de códigos.
+- **Quarentena:** transferência de código, universo antimaterial/material e microinstantes são linguagem cosmológica do expositor; não são biologia, física ou engenharia demonstradas.

@@ -73,3 +73,11 @@ Edimburgo, Split e Naimisharanya permanecem localizações atribuídas à palest
 - **A RC = revelação das setas:** "a Revelação Cósmica é exatamente a revelação das setas... de um conhecimento que lá atrás já existia, mas que não havia compreensão e foi jogado como cápsula temporal para um tempo que seria possível de ser compreendido";
 - **Cápsula do Tempo (RC-274):** paralelo com a Cápsula do Tempo de Sophia (João) — nova aresta RC-611 ↔ RC-274;
 - "isso tudo é sujo" — o processo tem origem no desespero (leitura do autor).
+
+---
+
+## Reforço — P2025-07-18 — separação das Flechas e do sinal do James Webb
+
+- **[P2025-07-18 · U00017–U00022]** Na pergunta de Silvia, o suposto sinal de abril é comparado a uma possível flecha de Moros. A resposta separa os dois: as **setas/flechas de Moros** são descritas como portadoras de “arquivos problemáticos e soluções algorítmicas para certos problemas” e como ligadas ao “peso da inevitabilidade”; já o sinal é qualificado na fala como algo que “parece ser uma notícia boa”. O expositor conclui: **“As setas de Moros são complicadas”** e não confirma que o sinal seja uma flecha.
+- **Decisão editorial aplicada:** manter RC-611 exclusivamente no arco Flechas/Profecias de Moros. O suposto sinal do James Webb permanece fora da ontologia, exclusivamente no radar externo de fontes e sob quarentena científica.
+- **Quarentena:** a comparação é uma pergunta da plateia e uma resposta autoral; não é identificação física, astronômica ou ontológica do sinal.

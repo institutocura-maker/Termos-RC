@@ -133,3 +133,11 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 ## Blindagem científica e histórica
 A linhagem é **Teologia Comparada/cosmologia de Ellam**, não uma categoria da genética acadêmica. A associação de Enki ao “gene de submissão”, as datas, os números de genes e a leitura dos 300 espartanos não são evidência genética ou historiografia estabelecida. A Eva mitocondrial da genética populacional é distinta da Eva bíblica/RC.
+
+---
+
+## Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão
+
+- **[P2025-07-18]** A palestra registra **Pandora em aproximadamente 49.000 anos** e **Eva/Adão em aproximadamente 22–23.000 anos**.
+- **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.
+- `oró` permanece **[REVISAR]**; não há decodificação ou cadastro derivado desta ocorrência.

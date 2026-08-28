@@ -52,3 +52,11 @@
 ## Blindagem epistemológica
 
 Estrutura técnica da destinação é **leitura do autor** (cronologia interna + Teologia Comparada iorubá) — não é doutrina Ifá tradicional validada. Os 256 caminhos são registro da cosmovisão RC.
+
+---
+
+## Reforço — P2025-07-18 — os caminhos e a sincronicidade profetizável
+
+- **[P2025-07-18 · U00016]** O expositor afirma que a atualização atribuída a Orunmilá transforma a Wyrd em Ifá e organiza **16 odus/olodus e 256 caminhos previsíveis** para diferentes origens ancestrais. O discurso contrapõe o destino ligado a pendências à abertura produzida pelo uso consciente do presente.
+- **Nota cruzada aprovada:** a expressão **sincronicidade profetizável** é somente uma nota de ligação entre RC-767, RC-658, RC-655 e RC-718. Não se cria termo autônomo.
+- **Quarentena:** manter o status do verbete e a ressalva epistemológica já existente; a palestra é fonte de ampliação, não prova de um sistema divinatório factual.

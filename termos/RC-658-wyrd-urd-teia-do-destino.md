@@ -130,3 +130,12 @@ WERD/W/ERD do STT são tratados como provável Wyrd. A equivalência integral co
 - **Destino e retorno:** "só retorna o ser cumprindo um determinado destino" — os 256 caminhos (RC-767) como desdobramento da teia;
 - **Reforço da fusão histórica:** "WERT/Werd" [STT = Wyrd] — RC-560 permanece remissão histórica; grafia canônica Wyrd/Urd mantida;
 - Nova aresta RC-665 ↔ RC-658 (Orunmilá ~ Wyrd); RC-760 ↔ RC-658 (Vrittis ~ Wyrd).
+
+---
+
+## Reforço — P2025-07-18 — sincronicidade, Wyrd/Urd e processadores do destino
+
+- **[P2025-07-18 · U00009–U00012] Sincronicidade profetizável:** o expositor parte de Jung e define sincronicidade como coincidência significativa, relacionando-a a intenção, campos mentais, informação e encruzilhadas. Esta é uma **nota cruzada** com RC-611 e RC-718, não um novo termo ou código.
+- **[P2025-07-18 · U00014–U00016] A teia como organização:** Moros/Orlog é descrito como criador de um processador em que a informação que sai de um ser retorna a ele; o mecanismo é apresentado como organização do fluxo, não como justiça divina. A fala nomeia três processadores/seres com formas STT próximas de `Urdre`, `Vivendre` e `Scud/Schuld`.
+- **Grafia e escopo:** a forma canônica **Wyrd/Urd** permanece. As formas dos componentes são preservadas como variações a revisar e não são automaticamente apagadas ou convertidas em novos seres.
+- **Quarentena:** a relação entre intenção, fóton, matéria e não-localidade é leitura cosmológica do expositor; não é afirmação de física estabelecida.

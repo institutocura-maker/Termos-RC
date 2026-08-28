@@ -92,3 +92,11 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 - **Candomblé/umbanda/santeria:** "cada uma dessas novas faces do culto dos orixás se transformou numa religião"; "a Umbanda, o candomblé e a santeria é o SUS da espiritualidade, recebe todo mundo" (citação literária ilustrativa — não preceito da Base);
 - **Vedas:** Javé/Obatalá "já tinha produzido os Vedas, que é o manual de como os humanos podem cantar hinos aos deuses, fazer sacrifícios e ofertar oferendas";
 - A Revelação de Ifá ≠ culto dos orixás: "o culto dos orixás nasce a partir da revelação de Ifá, mas toma suas cores próprias".
+
+---
+
+## Reforço — P2025-07-18 — destino obrigatório e liberdade do presente
+
+- **[P2025-07-18 · U00016]** Na atualização atribuída a Orunmilá, a fala descreve a passagem de três processadores para **16 odus/olodus e 256 caminhos previsíveis**, vinculados às origens ancestrais e aos códigos que entrariam no universo biológico. O expositor afirma que determinados caminhos seriam destinos a cumprir, enquanto o ser humano que não gera novas pendências poderia construir outra destinação no presente.
+- **[Nota cruzada]** A “sincronicidade profetizável” é absorvida estritamente como ponte de leitura entre RC-655, RC-665, RC-658 e RC-718; não recebe código independente.
+- **Quarentena:** a cadeia é uma leitura mitológico-cosmológica; termos como genoma, alma, trânsito de espécies e destino não devem ser tratados como genética ou antropologia validadas.

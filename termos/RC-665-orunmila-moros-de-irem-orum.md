@@ -72,3 +72,12 @@ Olodumaré/“Olo Maré” permanece em quarentena.
 - **"morresom/moruself" [STT]:** "um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico, mas destruíram isso no Hainarok [Ragnarök RC-395]";
 - **Divinosfera de Orunmilá:** "quem manda é o código de Xangô. Porque Orunmilá nunca estabeleceu regras no sentido de lei. Ele estabeleceu versos no sentido de orientar";
 - **Osamaro Ibiere:** o médium nigeriano (1980) articulou o resgate "exclusivamente por meio da cultura iorubá" (nova aresta RC-665 ↔ RC-658).
+
+---
+
+## Reforço — P2025-07-18 — Orunmilá como atualização da teia
+
+- **[P2025-07-18 · U00016]** Orunmilá é apresentado como Moros de Orum/Irém que atualiza a Wyrd com informações humanas. Na fala, ele deixa de trabalhar apenas com passado/presente/futuro e passa a construir caminhos previsíveis para origens distintas — árvores, minerais, animais, seres teriantrópicos e humanos —, chegando aos **16 odus e 256 caminhos**.
+- **Forma ouvida:** `Orumilá/Aurumilá/Orumiá`; aplicar **Orunmilá** nos derivados, mantendo o STT no original e no dicionário.
+- **Cruzamento aprovado:** reforço de RC-655, RC-658, RC-741 e RC-767; status do termo permanece inalterado.
+- **Quarentena:** a equivalência Moros–Orunmilá e a taxonomia das origens são atribuídas à palestra, não a consenso religioso ou acadêmico.
