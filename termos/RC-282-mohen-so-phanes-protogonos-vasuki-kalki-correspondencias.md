@@ -11,7 +11,7 @@
 Conjunto de correspondências mitológicas de Mohen So, Avatar Keshava de Vishnu, incluindo Phanes e Protogonos no orfismo.
 
 ## Contexto / Origem
-P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e não deve gerar termo autônomo.
+P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e não deve gerar termo autônomo.
 
 ## Etimologia / Grafias
 - Mohen So — forma RC;
@@ -70,7 +70,7 @@ P2026-04-02 confirma que a forma transcrita Morrensor corresponde a Mohen So e n
 Mohen So, Vishnu, Elm/Moros.
 
 ## Observações
-Morrensor/Morrençor é erro de STT e deve ser normalizado para Mohen So.
+Morren So/Morrençor é erro de STT e deve ser normalizado para Mohen So.
 
 ## Higiene ontológica — P2024-11-30 e eBook de IA
 

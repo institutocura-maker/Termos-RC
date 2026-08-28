@@ -17,6 +17,12 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **Grafia preferida:** Entropia e Negentropia
 - **Variações:** entropia negativa (negentropia); desorganização entrópica
 
+
+## Ampliação — P2022-09-24 (Sophia, os Arcontes e a Disputa pela Suzerania Universal)
+
+- **[P2022-09-24 · AS ILHAS DE NEGENTROPIA — A PODRIDÃO QUE EVOLUIU]** **A SÍNTESE**: "AS ILHAS DE NEGENTROPIA JAMAIS FORAM FORMADAS PELOS ARCONTES... cada ser humano é UMA ILHA NEGENTRÓPICA no meio da entropia... a entropia destrói tudo. Mas nós, humanos, temos um corpinho que dura x anos. E isso é uma ilha negentrópica, ou seja, QUE SUPORTA A ENTROPIA DURANTE UM TEMPO. E DURANTE ESSE TEMPO, o eu da gente sai do estado de infância, juventude, adulto, E NÓS PRODUZIMOS O QUÊ? COMPREENSÃO. Ou compreensão esclarecida ou compreensão burra. Mas produzimos compreensão. OS ARCONTES NÃO COMPREENDEM BULHUFAS. ELES NÃO CONSEGUEM FORMAR ILHAS DE NEGENTROPIA. ELES SÃO A PRÓPRIA PODRIDÃO QUE NÃO EVOLUIU. NÓS SOMOS A PODRIDÃO QUE EVOLUIU PORQUE SOMOS ILHAS DE NEGENTROPIA" [⚠️⚠️⚠️]; **A CONTINUIDADE**: "pra nossa sorte a gente morre, o eu da gente continua. Aí o espírito produz um novo corpo com aquele DNA igual ao do último defunto. Aí lá vai o eu da gente, nasce de novo, só que com uma outra expressão facial, pensando que é um outro ser, MAS OS PROTOCOLOS MENTAIS E CONSCIENCIAIS SÃO OS MESMOS E ESTÃO DANDO CONTINUIDADE AO QUE FOI PRODUZIDO EM TERMOS DE PROGRESSO ESPIRITUAL. SEM ILHAS DE NEGENTROPIA NESSE MAR DE ENTROPIA JAMAIS EXISTIRIA PROGRESSO PSÍQUICO. E OS ARCONTES NÃO PODEM FAZER ISSO. SÓ NÓS HUMANOS PODEMOS FAZER ISSO"; **A SOBREVIDA**: "o lado biológico e material da criação terá naturalmente UMA SOBREVIDA QUE O ANTIMATERIAL E DEMONÍACO NÃO TERÁ. Ou seja, ELES VÃO [acabar], NÓS NÃO, pelo menos é o que tá previsto"; + o universo deles ("o universo deles ainda deverá durar alguns milhões de anos. O nosso aqui são bilhões de anos"; "o nosso ainda tá se expandindo e vai durar enquanto tiver massa de hidrogênio... a turma joga para 50 a 100 bilhões de anos lá na frente").
+- 0 códigos novos (O-3). Quarentena: —.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

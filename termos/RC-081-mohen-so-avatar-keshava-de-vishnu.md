@@ -11,20 +11,20 @@
 Mohen So é Avatar Keshava de Vishnu, identificado nas correspondências RC como Phanes/Protogonos e vinculado ao espírito de Elm/Moros.
 
 ## Contexto / Origem
-A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o relaciona à singularidade órfica e ao espírito de Elm.
+A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o relaciona à singularidade órfica e ao espírito de Elm.
 
 ## Etimologia / Grafias
 - **Preferida:** Mohen So.
-- **Erros/variações STT:** Morrensor, Morrençor, Moren So.
+- **Erros/variações STT:** Morren So, Morrençor, Moren So.
 - **Correspondências:** Phanes, Protogonos, Vasuki, Kalki.
 
 
 ## Ampliação — P2024-08-03
 
-- **[P2024-08-03 — Morrensor] O ser sem lacre (U0345–U0361):** pela primeira vez a Trimurti criou "um ser sem lacre mental, sem trava genética, sem memória encobridora no seu cérebro... chamado Morrensor"; ele sentia no corpo as dores de Brahma/Vishnu/Shiva e dizia o que precisava ser feito: "vou ter que colocar de novo no mesmo lugar a velha genética apodrecida... preciso criar um novo ovo cósmico com a genética apodrecida para fazer uma alquimia"; propôs criar "mais um tipo de espécie de seres demo, só do tipo Fenvan, e separou metade do universo vizinho para que esses novos demos Fenvans vivessem".
-- **[P2024-08-03] Buri, Bor e Odin (U0357–U0360):** "Buri, Bor e Odin foram as três primeiras gerações de Fenvans criados para viver no conglomerado de Yggdrasil [STT: 'Brasil']"; "a vida que hoje nós vemos é resultado do que Morrensor fez há cerca de 8–7 bilhões de anos atrás".
-- **[P2024-08-03] A transferência do código (U0397–U0405):** "no nosso universo, universo biológico, o código dele veio para cá transferido por Morrensor"; "a falência número um": o novo ovo jogado nos dois universos; o conglomerado foi destruído (Ragnarok) e "só restou a semeadura".
-- **[P2024-08-03] Na pergunta final (U1448–U1461):** as manipulações genéticas "se deveram basicamente ao ser chamado Vishnu... no primeiro plano, há um ser chamado NX, gerado a partir de Vishnu; há um ser chamado Morus; há um ser chamado Odin; há um ser chamado Morrensor" [nomes conforme o STT; NX/Morus/Ódin = cosmologia de Ellam].
+- **[P2024-08-03 — Morren So] O ser sem lacre (U0345–U0361):** pela primeira vez a Trimurti criou "um ser sem lacre mental, sem trava genética, sem memória encobridora no seu cérebro... chamado Morren So"; ele sentia no corpo as dores de Brahma/Vishnu/Shiva e dizia o que precisava ser feito: "vou ter que colocar de novo no mesmo lugar a velha genética apodrecida... preciso criar um novo ovo cósmico com a genética apodrecida para fazer uma alquimia"; propôs criar "mais um tipo de espécie de seres demo, só do tipo Fenvan, e separou metade do universo vizinho para que esses novos demos Fenvans vivessem".
+- **[P2024-08-03] Buri, Bor e Odin (U0357–U0360):** "Buri, Bor e Odin foram as três primeiras gerações de Fenvans criados para viver no conglomerado de Yggdrasil [STT: 'Brasil']"; "a vida que hoje nós vemos é resultado do que Morren So fez há cerca de 8–7 bilhões de anos atrás".
+- **[P2024-08-03] A transferência do código (U0397–U0405):** "no nosso universo, universo biológico, o código dele veio para cá transferido por Morren So"; "a falência número um": o novo ovo jogado nos dois universos; o conglomerado foi destruído (Ragnarok) e "só restou a semeadura".
+- **[P2024-08-03] Na pergunta final (U1448–U1461):** as manipulações genéticas "se deveram basicamente ao ser chamado Vishnu... no primeiro plano, há um ser chamado NX, gerado a partir de Vishnu; há um ser chamado Morus; há um ser chamado Odin; há um ser chamado Morren So" [nomes conforme o STT; NX/Morus/Ódin = cosmologia de Ellam].
 
 
 ## Ampliação — P2021-01-23
@@ -88,7 +88,7 @@ A live P2026-04-02 normaliza os ruídos Morrensor/Morrençor como Mohen So e o r
 Vishnu, Elm/Moros, Sophia.
 
 ## Observações
-NT-K3-09 Morrensor foi reprovado como termo independente. Toda ocorrência deve ser normalizada para Mohen So.
+NT-K3-09 Morren So foi reprovado como termo independente. Toda ocorrência deve ser normalizada para Mohen So.
 
 ## Reforço — P2024-11-30
 
