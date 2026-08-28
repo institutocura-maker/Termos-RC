@@ -33,6 +33,12 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 - **Herança transferida:** "a herança do reino dos seres nagas foi transferida para os bramanes, para os rishis, para os kshatriyas, depois os seres híbridos arianos, os dravidianos, enkianos, pandóricos. Tudo isso deu errado. Sobrou o Homo sapiens do contexto Adão e Eva, produzido pela serpente."
 - **"A humanidade em algum momento vai se encontrar cara a cara com esses seres. É inevitável."**
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] O CONSELHO DAS NAGAS]** "existe um conselho chamado MAHORAGA, que são os maiores entre Nagas e Uragas, que formam um conselho muito distinto que comanda basicamente [tudo]. Ninguém sabe a quantidade que existe desses seres, nagas e uragas"; "as nagas e uragas nos ajudam a mantermos vivos, mas também não nos salvam"; "esses seres... SÃO EXTREMAMENTE DISCRETOS PORQUE É DA NATUREZA DE SERES QUE SE ARRASTAM A DISCRIÇÃO, NÃO SEREM PERCEBIDOS"; "eles passaram a proteger, A FINANCIAR O AVANÇO DA EVOLUÇÃO HUMANA" [a mão invisível — RC-664].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

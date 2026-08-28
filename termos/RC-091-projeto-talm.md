@@ -90,6 +90,12 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[P2024-11-03 · O PROJETO TALM NA SEGUNDA HORA DO NUCTEMERON]** "ANTES EXISTIAM OS SERES DO UNIVERSO DEMO E AGORA, DEPOIS DO PROJETO TALBO [TALM], QUE CRIOU A VINDA DO CÓDIGO DE VIDA DO MUNDO DO UNIVERSO VIZINHO PRO NOSSO UNIVERSO... existem seres no universo biológico e esses seres do universo biológico mostravam A DUALIDADE NA CRIAÇÃO quando comparados com os seres do universo demo. Só que esses seres biológicos CONSEGUIRAM FAZER ALGO QUE OS SERES DO UNIVERSO DEMO NÃO FIZERAM: TORNARAM POSSÍVEL A EVOLUÇÃO" [a segunda hora: "os peixes do zodíaco cantam louvor a Deus"].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 · O COORDENADOR REVELADO]** "esse ser que a gente chama de Sofia, ele surgiu a partir de Vishnu no forno de replicação de Vishnu... E SURGE A CERCA DE 5,7 BILHÕES DE ANOS ATRÁS NO ÂMBITO DE UM PROJETO QUE MORREN SO COORDENOU, QUE SE CHAMA PROJETO TALM NA LINGUAGEM DELES, QUE TROUXE A VIDA, O CÓDIGO DA VIDA DO UNIVERSO ANTIMATERIAL PARA O MATERIAL" [⚠️⚠️⚠️ Morren So como o coordenador do Talm — a atribuição explícita]; o contexto dos fornos: "cada um desses seres, junto com sua assessoria criaram três fornos de replicação de vida no nosso universo... Brama ficou com a [Awayen], VISHNU FICOU COM A [AWAYMAION] E SHIVA COM A [AWAYLENGAN]. A [fornalha] de Brama nunca funcionou direito" (RC-771); OS MICROINSTANTES: "tudo se desmaterializa e volta a se materializar bilhões de vezes em um segundo... dentro de 1 segundo existe 10 elevado a -44 microinstantes... É NESSE ESPAÇO QUE EXISTE ENTRE A MATERIALIZAÇÃO E A DESMATERIALIZAÇÃO... QUE ESSES SERES APRENDERAM A TRABALHAR PARA INCUTIR, INOCULAR IDEIAS tidas no âmbito antimaterial, no universo material".
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

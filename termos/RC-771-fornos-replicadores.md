@@ -32,6 +32,12 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 
 - **[ART-2025-08-03 — material do curador] As esferas coloridas e os detalhes dos fornos (Cap. 2):** "a esfera de Brahma é a esfera **cinzenta**, e seu forno replicador é Awayen (ovóide, um pouco maior que a Lua; falhou; tornou-se 'Central de Realidades' e possível 'Portal entre as Realidades'); Val Tam acoplada"; "a esfera de Vishnu é a esfera **esverdeada opaca**, e seu forno é Awaymaion — 'operava com prudência, linearidade e sofisticação', buscando 'seres não bichados'; os Fenvans de Vishnu eram mais sofisticados; a 'Mensagem TALM' estava codificada no forno de Vishnu, mesmo que o de Shiva tenha funcionado primeiro"; "a esfera de Shiva é a esfera **amarronzada**, e seu forno é Awaylengan — primeiro a surgir e o mais atuante; 'charuto gigante' na Via Láctea; gêneros 'demol' e 'demobiol'; seres radiata animalizados; 'universidade genética'; o surgimento da sexualidade e dos seres bilaterais é atribuído aos seus experimentos; um 'vírus emocional' teve origem no forno de Shiva"; "os biodemos surgiram muito mais tarde (últimos 900 milhões de anos) [REVISAR — conferir B050], mostrando a face do forno de Awaymaion, produzindo 'criaturas-ferramentas'".
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] AS ATRIBUIÇÕES DOS TRÊS FORNOS]** "cada um desses seres, junto com sua assessoria, criaram TRÊS FORNOS DE REPLICAÇÃO DE VIDA NO NOSSO UNIVERSO, CHAMADOS AWAYEN, AWAYMAION E AWAYLENGAN. E BRAMA FICOU COM A AWAYEN, VISHNU FICOU COM A AWAYMAION E SHIVA COM A AWAYLENGAN. A [FORNALHA] DE BRAMA NUNCA FUNCIONOU DIREITO" [⚠️⚠️ as atribuições explícitas na voz de 2025]; "O FORNO DE SHIVA EXPLODE. COMEÇAM A SURGIR SERES ANIMALIZADOS, PROTORRACIONAIS... CHIVA GEROU AS POLARIDADES SEXUAIS que hoje nós conhecemos e outras tantas que nós nem imaginamos"; "esses seres gerados a partir do forno [Awaylengan] de Chiva, QUE TRAZIA SENSAÇÃO" [os organoides para o cérebro radiato de Sophia].
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

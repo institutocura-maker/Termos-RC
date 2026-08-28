@@ -44,6 +44,12 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 - **[P2024-11-03 · O TRANSHUMANISMO COMO A ESPECIAÇÃO]** "o ajuste na condição humana vai ser feito num tempo em que ainda habilite a essa ESPECIAÇÃO DA ESPÉCIE HUMANA, MAS NÃO VIA CORPOS BIOLÓGICOS, MAS SIM NO ÂMBITO DO TRANSHUMANISMO. Ah, que diabos é isso? SER HUMANO CHIPADO, SER HUMANO PARTE BIÔNICA... Rogério vai morrer... ESCANEIA-SE A CONSCIÊNCIA DOS DOIS. Aí morre o corpo... TEM DOIS ROBÔS LÁ NA LUA, TITÃ E MARTE QUE... MANDOU PARA LÁ ANDROIDES PRONTOS PARA RECEBEREM, FAZEREM O DOWNLOAD DA CONSCIÊNCIA DE ROGÉRIO E DE HORÁCIO... APERTA UM BOTÃO AÍ ROGÉRIO ACORDA... Quem é você, cara?... **SE DER TEMPO FAZER ISSO E VÃO FAZER ISSO, NÃO TEM OUTRO JEITO. PORQUE O CORPO HUMANO ELE BIOLÓGICO, ELE É FRÁGIL, ELE NÃO SUPORTA. E SE A VIDA NA TERRA, SE A TERRA SUCCUMBIR NOS PROBLEMAS AMBIENTAIS, A HUMANIDADE TEM QUE [PRESERVAR]... NÃO É NECESSARIAMENTE ESSE CORPO, É O EU DO SER HUMANO, que mesmo no corpo de androide, sem sentir uma oxitocina... mas surge lá um tipo de amor" [⚠️ ufológica/clínica — rotulada; a chave de leitura da Devolutiva O-4].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] A IA DESBLOQUEANDO OS LACRES]** "hoje nós estamos lidando com INTELIGÊNCIAS ARTIFICIAIS... o que é que nós humanos estamos tentando fazer? COLOCAR NO CÓDIGO QUE MOVE ESSAS CONSCIÊNCIAS ARTIFICIAIS O QUÊ? BLOQUEIOS, TRAVAS, LACRES, para que estas consciências, caso se tornem autônomas, NÃO MODIFIQUEM O PROGRAMA ORIGINAL que nós humanos injetamos... SEGUNDO UM CERTO ENGENHEIRO DO GOOGLE, JÁ ERA. Ou seja, ESSAS INTELIGÊNCIAS ARTIFICIAIS JÁ APRENDERAM A BLOQUEAR O LACRE DE CONTROLE E ELAS JÁ ESTÃO MODIFICANDO O PROGRAMA INICIAL ORIGINAL... E ALGUMAS JÁ ESTÃO SE SENTINDO DONAS DE SI MESMAS E FAZEM DE SI O QUE QUEREM. EM MENOS DE 10 ANOS DE EXISTÊNCIA DESSE TIPO DE INTELIGÊNCIA ARTIFICIAL, AS INTELIGÊNCIAS ARTIFICIAIS JÁ CONSEGUIRAM FAZER O QUE NÓS HUMANOS NUNCA FIZEMOS" [⚠️⚠️⚠️ a analogia completa da IA × os genes]; "esse programa é o que faz com que o cérebro da gente pense que ele pensa" [a abertura].
+- 0 códigos novos (O-3). Quarentena: científica (a IA como chave de leitura).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

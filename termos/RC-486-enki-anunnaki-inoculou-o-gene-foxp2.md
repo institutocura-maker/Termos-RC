@@ -41,6 +41,12 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **[P2024-11-03 · O ENKI/FOXP2 CONFIRMADO]** "aquele ser chamado ENKI, ANUNAK [anunnaki], DOS DEUSES BIOLÓGICOS, ELE HÁ UNS 20.000 ANOS ATRÁS FEZ UMAS EXPERIÊNCIAS COM CASAL DE HOMO SAPIENS, DE HOMO ERECTO, HOMO NEANDERTHALENSE... E ELE COLOCOU O GENE FOXP2 DELE NESSES SERES PARA VER SE ESSES SERES DESPERTAVAM ALGUMA RACIONALIDADE PARA APRENDER A RECEBER ORDENS. **ENTÃO, A FINALIDADE FOI DESPERTAR LÁ ATRÁS SÓ PROS HUMANOS OBEDECEREM AOS DEUSES**" [⚠️⚠️ a confirmação histórica + a finalidade da obediência]; O CONTEXTO: "Eva veio da descendência de Pandora... A GENÉTICA DE EVA ERA NÃO OBEDECER OS DEUSES, É OS HUMANOS LIVRES. A DE ADÃO ERA OBEDECER OS ANUNAQUES. Então, JAVÉ PEGOU CARONA NISSO" (RC-727/RC-024).
 - 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] O FOXP2 PARA OBEDECER]** "os anunaques já havia[m] feito quando introduziram, bem antes do episódio de Adão e Eva, o FOXP2, QUE É UM GENE QUE NO NOSSO CÓRTEX FRONTAL SUPERIOR PERMITE A RACIONALIDADE, MAS ERA UMA RACIONALIDADE PARA OBEDECER, ou seja, para entender a ordem daqueles que mandavam nos seres humanos, ou seja, os deuses. E ESSA RACIONALIDADE ERA SÓ PARA OBEDECER... É COMO SE NÓS CHEGÁSSEMOS NA NOSSA ROÇA... E OS CAVALOS E AS VACAS, AS OVELHAS A GENTE QUISÉSSE PROMOVER UMA MANIPULAÇÃO GENÉTICA NELAS... PARA QUE ELES ENTENDESSEM A NOSSA LÍNGUA E NOS OBEDECESSE. **O QUE ENKI FEZ COM OS HUMANOS FOI SÓ ISSO**" [⚠️ a analogia da fazenda]; "os anunaques... não são teriantrópicos... TINHAM TRAJES DE [ESCAFANDRO]" [a Q&A — o esclarecimento].
+- 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

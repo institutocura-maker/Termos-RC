@@ -95,6 +95,12 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[P2024-11-03 — eco] MARICANDÃ E A 12ª HORA]** "há 20.000 anos atrás, CHIVA APRESENTOU-SE NA TRADIÇÃO COM MARICANDÃ [REVISAR — Murugan?], NO SUL DA ÍNDIA, para os dravidianos e outras figuras que por lá existiam e disse: 'EU SOU O DEUS PRINCIPAL dessa história'"; A 12ª HORA DO NUCTEMERON: "O FIM DA CRIAÇÃO VAI SER CARIMBADO PELA FORÇA DE UM SER CHAMADO CHIVA, QUE JÁ CRIOU UMA EXPRESSÃO DELE CHAMADA [RARA — REVISAR: RUDRA?], QUE VAI ENGOLIR A SUJEIRA QUE RESTAR DESSA CRIAÇÃO PARA VER SE ISSO SE ACABA" [⚠️⚠️ a expressão devoradora de Shiva na 12ª hora].
 - 0 códigos novos (O-3). Quarentena: a mitologia comparada como registro narrativo.
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] SHIVA O ANARQUISTA]** "SHIVA É O MAIS PODEROSO DE TODOS OS SERES DESSE UNIVERSO... quando notou que todos os deuses estavam se auto elogiando, se vestindo com ouros... O QUE É QUE SHIVA RESOLVEU FAZER? VESTIR COM UMA PELE DE ANIMAL, ANDAR COM UM CRÂNIO DE UM MACACO ACOMPANHADO DAS PIOR[ES] FIGURAS. OS GANAS ANDAVAM COM SHIVA. OS GANAS FORAM AS PRIMEIRAS FIGURAS A FUMAR CANABIS. Fiquem sabendo, está descrito no Purana. E A ORDA DE SHIVA FOI A PRIMEIRA ORDEM ANARQUISTA QUE SURGIU, porque Shiva, em sendo mais poderoso dos deuses, CURTIA COM A CARA DELES TODOS, dizendo: 'Ó, vocês estão investindo em valores equivocados'. DIONISO REPETIU SHIVA quando Dioniso surgiu" [⚠️⚠️⚠️ Shiva o anarquista]; "SHIVA JÁ ESTÁ DOMINANDO A HUMANIDADE... TRABALHANDO NA TRADIÇÃO COM MARICANDÃ LÁ NA ÍNDIA. Os dravidianos e seus ancestrais foi o povo escolhido por Shiva... OS JAINISTAS É QUE PRODUZIAM OS DRAV[II]DIANOS" [⚠️ a estratégia de Shiva na Terra]; "Shiva disse: 'não, eu confio'" (× Brama sobre Sophia); o forno [Awaylengan] que "explode"; "Chiva e Vishnu começaram a influenciar Sofia para que ele fosse fazendo combinações".
+- 0 códigos novos (O-3). Quarentena: clínica (a canabis — como registro mitológico).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

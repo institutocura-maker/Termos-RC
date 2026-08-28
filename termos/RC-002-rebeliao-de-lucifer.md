@@ -98,6 +98,12 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[P2024-11-03 — eco] A ESCOLA FECHADA E OS MILHÕES]** "lá no sistema de Capela, AONDE OCORREU A REBELIÃO DE LÚCIFER... A ESCOLA DA DECIFRAÇÃO DA REALIDADE FOI FECHADA PORQUE VÁRIOS ALUNOS TERMINARAM SE ENVOLVENDO COM AS BRIGAS DA REBELIÃO DE LÚCIFER. E ESSE ASSUNTO MORREU"; "QUANDO ESSES OITO SERES MERGULHARAM, NA VERDADE FORAM MILHARES DE SERES, MILHÕES QUE MERGULHARAM, OITO CONSEGUIRAM FUNCIONAR, O RESTO PIROU... CHEGOU UM PONTO EM QUE A TURMA DO PARAÍSO: NINGUÉM VAI MAIS MERGULHAR NISSO. VAMOS CRIAR ESPÍRITOS SIMPLES E IGNORANTES, COMO É DITO NO LIVRO DOS ESPÍRITOS, PARA ESTRUTURAR TUDO QUE SURGIA AÍ DENTRO" [os espíritos simples e ignorantes — Kardec].
 - 0 códigos novos (O-3). Quarentena: ufológica (Capela — rotulada).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] YEL LUZBEL O CIENTISTA]** "a rebelião de Lúcifer foi quando um ser chamado YEL LUZBEL, DA FAMÍLIA YEL, MUITO ANTERIOR À FAMÍLIA VAL, PERCEBEU... ELE ERA UM CIENTISTA E PERCEBEU DEFEITOS NA CRIAÇÃO E CHEGOU PRÁ SOFIA E DISSE: 'Ó, TEM DEFEITOS?' Sophia disse: 'Não, não tem, não pode ter. Tem, tem, não tem, tem, não tem, tem, não tem. SURGIU UM VÍRUS. E esse vírus terminou criando UM PROBLEMA DE SAÚDE PÚBLICA que depois de X milhares de anos transformou NUMA REBELIÃO POLÍTICA'" [⚠️⚠️ a gênese técnica da rebelião]; "quando ocorreu a rebelião de Lúcia e seus desdobramentos, [Sophia] não soube que atitude tomar E QUEM TOMOU A ATITUDE FORAM SEUS ANJOS... FOI QUANDO [LUZBEL] COBROU DELE: 'QUE OBEDIÊNCIA CEGA É ESSA SUA? A UM DEUS QUE VOCÊ DIZ EXISTIR NESSE UNIVERSO VIZINHO E A GENTE AQUI NEM CONSEGUE PERCEBER... ESSE DEUS DE LÁ MANDA DESTRUIR TUDO'" [a cobrança]; "o que restou da rebelião de Lúcifer, QUE ACONTECEU NA GESTÃO DELE [SOPHIA] LÁ EM ORBON, terminou vindo pra Terra" [a Terra pária]; "a Terra nessa época... tava invadida por ex-rebeldes do problema da rebelião luciferiana, [Anunnakis], [Nefilins], sirianos... arturianos" [⚠️ ufológica — rotulada].
+- 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -22,6 +22,12 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 
 - **A serpente falante (P2025-05-31):** "até a cobra falante... existe. São seres descendentes dos Nagas e Uragas, filhos de Kadru [STT], uma das filhas de Daksha, que junto com Kashyapa produziram isso" — seres teriantrópicos; "a metáfora que não é metáfora" (leitura do autor).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] A SERPENTE REAL DO ÉDEN]** "no episódio descrito no Gênesis, existem QUATRO PERSONAGENS: JAVÉ, ADÃO, EVA E UMA TAL DE UMA SERPENTE QUE CONVERSA COM EVA. Conversa? Serpente não conversa... Ah, mas isso não é metáfora, não. Infelizmente eu tenho que dizer para vocês que NÃO É... AO LONGO DOS ÚLTIMOS 300 MILHÕES DE ANOS, OS FILHOS DE CADRU, DE DESCENDÊNCIA NAGA E URAGA, INVASIRAM ESTE UNIVERSO, INVASIRAM A TERRA TAMBÉM E SE ESTABELECERAM" [⚠️⚠️ a confirmação da realidade da serpente]; "QUANDO EVA VÊ UMA SERPENTE QUE DIZ: 'OLÁ, EVA, TUDO BEM?'... Ó, você por aqui? É, estou passando, mas olha, já soube desse último elixir... AS SERPENTES FINANCIARAM O DESPERTAR HUMANO"; "O PRÓPRIO JAVÉ QUANDO PRODUZIU AS NOTÍCIAS REGISTRADAS NO GÊNESIS DIZ: 'A SERPENTE, O MAIS ASTUTO DOS ANIMAIS.' OU SEJA, JAVÉ ELE CONTOU AQUILO MEIO QUE TRISTE, SÓ QUE NÓS NUNCA ENTENDEMOS DIREITO"; "a serpente... ela representa UM ENREDO QUE NÃO É PERCEBIDO PELO SENSO COMUM" [o Gênesis como o registro invertido].
+- 0 códigos novos (O-3). Quarentena: teológica (a leitura do Gênesis).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

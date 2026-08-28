@@ -25,6 +25,12 @@ A palestra descreve Marte como o nono mundo material conectado a oito locas do u
 
 - **[P2024-07-13] Marte destruído (U0440–U0450):** "quando Marte, que tinha vida que a gente nem imagina o tipo de vida que lá existia há cerca de milhões de anos, perdeu tudo devido a explosões que a turma soltou bombas. É terrível aqui e aqui. Devido a isso, esse ser chamado Sophia... voltou a atenção dele para cá, 300 milhões de anos, mas ele só veio se estabelecer, só veio fazer visitas à Terra muito recentemente, nos últimos 6, 5 milhões de anos".
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] MIDGARD E O AXISMUNDI]** "na mitologia nórdica, Marte é chamado de MIDGARD, QUE É UMA DAS NOVE FAIXAS DE REALIDADE, junto com as outras oito, que Odin era o imperador"; "POR ISSO QUE MARTE ERA O AXISMUNDI DA ÉPOCA... E ESSA PONTE TERMINOU SE FIXANDO EM MARTE"; "a família Val terminou chegando aqui na Terra há cerca de 600.000 anos atrás" [a transição do eixo para a Terra].
+- 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

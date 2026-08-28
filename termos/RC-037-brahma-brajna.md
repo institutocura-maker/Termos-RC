@@ -93,6 +93,12 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[P2024-11-03 — eco] BRAHMA E A ÚLTIMA FÓRMULA]** "'você já gastou quase todas as suas fórmulas com RAVANA, que foi um rei dos rakshasas, que roubou de você diversas fórmulas do seu poder... VOCÊ AGORA SÓ TEM UM, ENTÃO TOME BEM CUIDADO'... aí Brama usou a última fórmula em Adão e 'quando percebeu que tinha usado a última fórmula de poder dele em Adão e não tinha mais como retirar de volta, ELE FERROU-SE, CAIU EM MAIS UM ARDIU DAS BRIGAS ENTRE OS TRÊS SERES'" (RC-104).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] BRAHMA O EU RECREADO E OS 5000 TEMPLOS]** "Brama é um eu recriado de um ser que vivia na PERIFERIA DO PARAÍSO, que teve uma ideia, CAIU DENTRO DA IDEIA, PERDEU A SUA CONDIÇÃO DE EU PARADISÍACO E SE RECONSTRUIU DENTRO DA IDEIA COM O RESTO PODRE DELE MESMO" [⚠️⚠️ a formulação completa]; "Brama não tem alma... Ele foi criado a partir do corpo manásico e lúdico... corpo de plasma" [a Q&A]; O SONO: "ele entra em coma... passa milhões de anos desfalecido... quando volta é um novo Brama que surge e esse universo entra em festa"; OS 5000 TEMPLOS: "há 5000 anos atrás, quando Brama, Vishnu e Chiva produziram KRISHNA, BRAMA TINHA 5000 TEMPLOS QUE O ADORAVAM NA ÍNDIA. Só que Krishna quando surgiu disse: 'EU SOU MAIS PODEROSO QUE VOCÊS TRÊS E VOCÊS TÊM QUE ME LOUVAR E SEREM MEUS DEVOTOS.' Então KRISHNA FOI TOMANDO TODOS OS TEMPLOS DE BRAMA... O JAVÉ FICOU [P...] DA VIDA COM KRISHNA E MANDOU JESUS" [⚠️ a guerra dos templos]; a [Awayen] "nunca funcionou direito"; "depois que Brama tomou esse amrita, aí ELE SE SENTIU CHIQUE"; o Para Brajna planejador: "o nosso universo, ele foi planejado por um ser chamado PARABRAJNA ou PRAJAPATI, que antes dele cair... A SUA INTENÇÃO ERA CRIAR UM MODELO DE REPLICAÇÃO VIA O ÁTOMO DE HIDROGÊNIO... O CRIADOR IMAGINOU ISSO, CAIU NA PRÓPRIA IDEIA, ELE APENAS NÃO FINALIZOU O PROJETO. Então, o nosso universo... foi planejado, MAS NÃO FOI FINALIZADO" [⚠️⚠️ o projeto do átomo de hidrogênio não finalizado].
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

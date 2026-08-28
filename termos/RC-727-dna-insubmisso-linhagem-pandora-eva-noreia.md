@@ -109,6 +109,12 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2024-11-03 · AS MULHERES DA REVOLUÇÃO]** "ESSE PAPO AQUI DE VISHNU/BRAHMA FOI ANTES DE EVA, PORQUE PANDORA JÁ TINHA FEITO UNS 18[.000] ANOS ANTES DE EVA A PRIMEIRA REVOLUÇÃO NO SENTIDO DE PROMOVER PROGRESSO PROS HUMANOS. **DEPOIS LILITH, DEPOIS É QUE EVA E UMA FILHA QUE ELA TEVE QUE NINGUÉM FALA CHAMADA NOREIA, É QUE ESSAS FIGURAS, OU SEJA, AS MULHERES, É QUE FIZERAM A REVOLUÇÃO. NÓS, OS BABACOIDES HUMANOS, MACHOS, ZERO À ESQUERDA**"; "EVA VEIO DA DESCENDÊNCIA DE PANDORA... A GENÉTICA DE EVA ERA NÃO OBEDECER OS DEUSES... A DE ADÃO ERA OBEDECER OS ANUNAQUES"; A ESPECIAÇÃO TRANSHUMANISTA: "o ajuste na condição humana... numa especiação da espécie humana, MAS NÃO VIA CORPOS BIOLÓGICOS, MAS SIM NO ÂMBITO DO TRANSHUMANISMO... é o EU do ser humano, que mesmo no corpo de androide... mas surge lá um tipo de amor" (RC-644/RC-092).
 - 0 códigos novos (O-3). Quarentena: clínica (o gênero/Abel afeminado — rotulado).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] A LIBERDADE COMO A DESORDEM]** "O QUE PARA SOFIA É ORDEM E CAOS, PARA NÓS HUMANOS É LIBERDADE. A NOSSA LIBERDADE AOS OLHOS DELE É ALGO DESORDEIRO, ERA ALGO QUE NÃO DEVERIA EXISTIR. Porque na lógica do genoma dele, O SER HUMANO ERA PARA SER OBEDIENTE A JAVÉ"; "NÓS, OS HUMANOS, QUE SURGIMOS FILHOS DE EVA, SOMOS A PIOR DESORDEM QUE JÁ SURGIU NESSE UNIVERSO. EU NUNCA TINHA FALADO EM TERMOS TÃO CLAROS"; "O ADÃO E EVA QUE JAVÉ E TODO ESSE REINO TRIMURTIANO QUERIA ERA AQUELE OBEDIENTE... Só que EVA ATRAPALHOU ESSE PLANO, PASSOU A [ser] DE DISCERNIR POR ELA MESMA... E INFLUENCIOU O COITADINHO DO ADÃO. OS HOMENS SÃO SEMPRE [ADÃO]" [⚠️ teológica]; a Terra pária: "A TERRA... ERA UM PLANETA PÁRIA, onde os traidores da ordem cósmica... terminaram por se associar aos humanos, FILHOS DO CAOS DA DESOBEDIÊNCIA PROMOVIDA PELA DESCENDÊNCIA DE CADRU. E DAÍ O CARIMBO DE PECADO ORIGINAL TER SIDO ESTABELECIDO COMO SENDO A MARCA DA HUMANIDADE"; a especiação: "daqui a 10.000 anos, várias milhares de humanidades estarão vivendo em vários lugares... VAI VIVER EM MARTE, NA LUA... livres da ditadura estúpida do religiosismo infantilizado".
+- 0 códigos novos (O-3). Quarentena: teológica.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

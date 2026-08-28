@@ -216,6 +216,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2024-11-03 — eco] A DESATIVAÇÃO E O SONO]** "A VINDA DE SOFIA, O FIM DO GOVERNO DE JAVÉ, DEVIDO À DESATIVAÇÃO DA LILA E DA TRIMURTI... SEM A TRIMURTI SE METER A BESTA"; "QUANDO JAVÉ ENTRAVA EM COMAS, O SONO DE BRAHMA descrito na mitologia ariana hindu, OS ANJOS CONTINUAVAM AGINDO"; BRAHMA e a última fórmula: "'você já gastou quase todas as suas fórmulas com RAVANA, QUE FOI UM REI DOS RAKSHASAS, QUE ROUBOU DE VOCÊ DIVERSAS FÓRMULAS DO SEU PODER... você agora só tem um, então tome bem cuidado'... Brama, que é meio corintiano vascaíno [a piada]" [RC-037]; VISHNU: "'você não quer brigar com Chiva, né? Na disputa da raça humana que surgiu com essa sagacidade toda que nem você tem, nem Chiva tem'".
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] AS GERAÇÕES REGENERADAS E A TRIMURTI GREGA]** "depois que Brama tomou esse amrita... surge a chamada GERAÇÃO REGENERADA DE BRAMA. HÁ DUAS GERAÇÕES REGENERADAS DE BRAHMA. UMA QUE É A GERAÇÃO REGENERADA DA MENTE DE BRAHMA E OUTRA A GERAÇÃO REGENERADA DO CORPO" [⚠️⚠️ as duas gerações]; os sete filhos + Kashyapa + Daksha (RC-664); ⚠️ [a O-4] **A TRIMURTI GREGA: "se formos para mitologia grega, vamos chamar de CAOS, EROS E TÁRTARO"** [a divergência com o "Caos=Érebo=Tártaro" dos ciclos anteriores — documentada SEM fusão]; "esses três tipos de seres obedecem a uma trimurti descrita em várias mitologias. A mais famosa é a trimurti hindu"; A SAMUDRA MANTHANA: "os deuses... sentiam muita dor e foram falar com Brama... [Vishnu] 'SE EU ME ASSUMIR COMO AVATAR DE MIM MESMO... EU CRIAREI UMA SUPER SERPENTE... MAS VOCÊS ASURAS, QUE SÃO OS TITÃS GREGOS, E VOCÊS DEVAS QUE SÃO OS OLIMPIANOS GREGOS, TÊM QUE ME SEGURAR E DEIXAR MINHA CAUDA LIVRE PARA QUE EU BATA'... DAQUI SURGIU O CHAMADO AYURVEDA... E SURGIU TAMBÉM AMRITA... DEVIDO À BRIGA ENTRE ASURAS E DEVAS... VISHNU ENCHEU O SACO, NÃO PRODUZIU AMRITA SUFICIENTE PARA TODO MUNDO E PAROU A PRODUÇÃO... E ESSE UNIVERSO ENTROU EM GUERRA" [⚠️ os asuras=titãs; os devas=olimpianos]; "no início só tinha um tipo de ser, que foi o criador caído e anjos clones... até que uma abelha operária dessa DESTRAVO O CÓDIGO E DISSE: 'EI, EU TAMBÉM SOU ABELHA.' Aí criou um outro contexto existencial de corpos chamados demoníacos... um tipo de ser com o corpo DAIVA" [a origem dos corpos daiva].
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

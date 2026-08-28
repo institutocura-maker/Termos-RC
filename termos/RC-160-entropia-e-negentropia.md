@@ -31,6 +31,12 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2023-04-01b · A REBELIÃO DOS ELÉTRONS]** "eles já marcaram tanto sofrimento... que não conseguem mais... ESTÃO CRIANDO 100 ALTERNATIVAS PARA MUDAR A REGRA DO JOGO [o mais forte manda]... eles ultrapassaram o ponto do caos, aquele limite suportável" [B005/B041 — "um dos livros mais sérios da história da humanidade. Pena que escrito por alguém do meu tamanho" (a citação ao vivo)].
 - 0 códigos novos (O-3). Quarentena: científica (Charon/Laszlo/Emoto como chaves de leitura — a Devolutiva O-4) + biomediúnica ("eu não sou escritor, eu sou alguém que é obrigado a escrever" — retida).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] A ONDA E O OCEANO; A ÚLTIMA ESTRELA]** "o ser humano é só, a exemplo de UMA ONDA QUE PENSA QUE É UMA ONDA quando uma onda é só O OCEANO SE MOVIMENTANDO... QUE OCEANO PROMOVE O NOSSO CORPO SENDO UMA ONDA? É O OCEANO DOS ELÉTRONS. TODOS OS ELÉTRONS DESSE UNIVERSO ESTÃO INTERLIGADOS PELO CHAMADO ENTRELAÇAMENTO QUÂNTICO. E É A MESMA QUANTIDADE DE ELÉTRONS QUE NO PRIMEIRO MICROINSTANTE DESSE UNIVERSO EXISTIA, É A MESMA QUE EXISTE HOJE. POR ISSO QUE NENHUM NOVO ELÉTRON SE CRIOU. NENHUM DOS ELÉTRONS QUE JÁ EXISTIAM SE PERDE. NADA SE CRIA, NADA SE PERDE, PORÉM TUDO SE TRANSFORMA. **O QUE É QUE DIABOS SE TRANSFORMA? A MEMÓRIA DOS ELÉTRONS**" [⚠️⚠️⚠️ a resposta de 2025 à tríade lavoisierana]; A ÚLTIMA ESTRELA: "quando acabar o estoque de hidrogênio nesse universo, NENHUMA ESTRELA VAI MAIS SE ACENDER. ENTÃO VAI EXISTIR UM MOMENTO EM QUE A ÚLTIMA ESTRELA VAI APAGAR... nesse ponto o nosso universo acaba. **SOFIA FOI ENGENDEDOR PARA DURAR ATÉ ESSE LIMITE**"; O FIM DO UNIVERSO PLANEJADO: "o nosso universo... foi planejado por um ser chamado Parabrajna ou Prajapati... O CRIADOR IMAGINOU ISSO, CAIU NA PRÓPRIA IDEIA, ELE APENAS NÃO FINALIZOU O PROJETO... quando ele se expandir demais, O TECIDO DO ESPAÇO-TEMPO... VAI SE RASGAR... inclusive o átomo... AGORA TEM UMA FORÇA DA ENTROPIA PARA DESFAZÊ-LO"; OS BURACOS MENTAIS: "do jeito que existem buracos negros no nosso universo... COMEÇOU A SURGIR BURACOS MENTAIS QUE SUGAM OUTRAS COISAS QUE A GENTE NEM IMAGINA. SURGIU PRIMEIRO COM O COLAPSO DO CORPO DE JAVÉ".
+- 0 códigos novos (O-3). Quarentena: científica (a física como chave de leitura).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

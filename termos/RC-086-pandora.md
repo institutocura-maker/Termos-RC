@@ -92,6 +92,12 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[P2024-11-03 — eco] A PRIMEIRA REVOLUÇÃO]** "PANDORA JÁ TINHA FEITO UNS 18[.000] ANOS ANTES DE EVA A PRIMEIRA REVOLUÇÃO NO SENTIDO DE PROMOVER PROGRESSO PROS HUMANOS" [⚠️ o refinamento da cronologia interna: Pandora ~18.000 anos antes de Eva — coerente com os ~48.000 anos da P2023-04-01b se Eva for ~30.000]; "Eva veio da descendência de Pandora... a genética de Eva era NÃO OBEDECER OS DEUSES" (RC-727).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] PANDORA FINANCIADA PELAS SERPENTES]** "houve uma outra história que eu não vou poder falar aqui de PANDORA QUE EFETIVAMENTE PRODUZ UM BOOM EM TERMOS DE GENOMA LIBERTÁRIO E SENCIENTE, ou seja, com consciência de si mesmo... QUEM FINANCIOU ISSO FOI UM GRUPO DE AMIGOS SERPENTES que [com] Epimeteu, que junto com Pandora produziram [filhos]... TUDO FINANCIADO PELAS SERPENTES MESTRES EM ALQUIMIA. E Epimeteu era também um mestre que trocava experiência" [⚠️⚠️ o financiamento serpentino de Pandora — RC-664/RC-697]; ⚠️ [a O-4] **A CRONOLOGIA**: "Cadru é milhões de anos. [KALIL KADMON] TRANSFORMOU EM PANDORA UMA COISA MAIS RECENTE ENTRE 80.000 ANOS E PANDORA ESPECIFICAMENTE SURGIU A 49[.000?] ANOS. EVA E ADÃO, CERCA DE 23, 22.000 ANOS ATRÁS" [⚠️ as divergências com os ~48.000 da P2023-04-01b e o "18.000 anos antes de Eva" da P2024-11-03 — documentadas com o selo temporal da P2025-02-22, SEM fusão].
+- 0 códigos novos (O-3).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -66,6 +66,12 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[P2023-04-01b · A CONSPIRAÇÃO DO BEM E O BIOCOSMOS EMERGENTE]** "A CONSPIRAÇÃO DO BEM... está já acontecendo UM BIOCOSMOS EMERGENTE, UM NOVO TIPO DE SER HUMANO, ainda que ínfime, ESTÁ SURGINDO NESSA TEIA DA VIDA BIOLÓGICA" [⚠️⚠️ o ponto de luz como a ilha de negentropia viva; a ponte com o evento de junho/2023 ("a nova emergência de um novo tipo de ser humano" — o anúncio do Elas Universis) ⚠️ institucional]; + A TURMA DO CAOS VALE MAIS (o Q&A): "o babaca do caos que tá chegando lá tem UM POTENCIAL VIBRATÓRIO DIFERENTE DO DELES E, PASME, MAIS AUTORIDADE ESPIRITUAL E MORAL. Por quê? QUEM VALE MAIS? QUEM JÁ FOI CRIADO PERFEITO OU ALGUÉM QUE SE METEU NO CAOS E, EM PLENO OCEANO DE... [esgoto], APRENDEU AINDA ASSIM A VIBRAR FEITO LUZ, FEITO OURO E SE AGIGANTA? QUEM É QUE VALE MAIS, PESSOAL? A TURMA DO CAOS QUE CONSEGUIU ISSO AÍ" [⚠️⚠️⚠️⚠️ a autoridade moral do caos — a dignidade conquistada vs. a herdada].
 - 0 códigos novos (O-3). Quarentena: científica (o centésimo macaco como chave pedagógica).
 
+
+## Ampliação — P2025-02-22 (A Vinda de Sophia e o Equilíbrio Universal)
+
+- **[P2025-02-22 — eco] O PONTO DE LUZ NO OCEANO]** a função: "recolher a [sujeira]... reunir no seu genoma, RESSIGNIFICAR CADA GENE E DEVOLVER TRANSFORMADA EM BELEZA PRO OCEANO DE ELÉTRONS" (RC-760/RC-217); "e o eu humano é aquele que é ou produto disso que ele recolhe, ou seja, [sujeira] pura, OU É UM EU QUE VAI ATUAR SOBRE A [SUJEIRA] QUE ELE RECOLHE, RESSIGNIFICANDO COM A SUA TEMPERATURA INTERIOR, COM O SEU CÓDIGO FILOSÓFICO DE EXISTIR, COM A SUA PREOCUPAÇÃO DE SER DIGNO EM CADA INSTANTE. E ASSIM TUDO QUE SAI DE VOCÊ, AINDA QUE VOCÊ ERRE O TEMPO TODO, MAS SAI COM A SUA BOA INTENÇÃO NO CAMPO DA NOBREZA" [⚠️⚠️ o eu como o agente transformador]; "QUANDO UMA CERTA QUANTIDADE DE MASSA CRÍTICA DE HUMANOS CONSEGUIR FAZER ISSO, O PROBLEMA DOS DOIS UNIVERSOS ESTARÁ RESOLVIDO, MAS NÓS SOMOS MUITO POUCOS E NÃO VAI DAR TEMPO"; a especiação: "hoje nós somos o canis lupus da história... daqui a 10.000 anos, VÁRIAS MILHARES DE HUMANIDADES... sem os vícios, sem a sujeira... para que esses humanos possam investir em senso de dignidade... E NÃO FICAR SENDO SÓ DEVOTO".
+- 0 códigos novos (O-3).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
