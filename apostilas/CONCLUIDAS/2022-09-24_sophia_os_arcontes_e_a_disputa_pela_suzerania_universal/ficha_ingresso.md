@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2022-09-24 — Sophia, os Arcontes e a Disputa pela Suzerania Universal
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 31/31 linhas (megablocos de 43.992/28.619/15.253/11.142 chars) + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (27/08/2026).** Ciclo completo: piloto (`e4353ad`) → Devolutiva (100% aprovada — **A DIRETRIZ CRÍTICA DE FONÉTICA: MORREN SO**; registrada VERBATIM em `analise/DECISAO-DO-CURADOR.md`) → parte 1/2 (`cef6c27`: **10 fichas ampliadas + 1 pacote [RC-189] + 11 vínculos + A CORREÇÃO GLOBAL MORREN SO [a malha + a BIBLIO + as notas da P2021-05-08 — 120+ correções; o verbatim histórico preservado] + SEGON SHA + a BIBLIO B081/B085/B044/B079**) → parte 2/2 (apostila 11 PARTES + Q&A isolado + DOCX + RELATORIO) → engavetamento em `apostilas/CONCLUIDAS/` + push. **0 códigos consumidos — 777/1.856 intactos. ESTABELECIDA OFICIALMENTE COMO A PALESTRA-FONTE PRIMÁRIA DO LIVRO B081 (a O-1).**
 
 ## 1. Identificação
 
