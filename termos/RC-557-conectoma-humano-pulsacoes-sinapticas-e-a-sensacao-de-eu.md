@@ -44,6 +44,13 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 - **[P2023-06-24 · EVA E AS "PELPS" — a ponte com RC-189/RC-727]** "Eva tomou umas pelps [poções] que vieram lá dos **laboratórios de Prometeu**... **EVA NÃO COMEU MAÇÃ, TOMOU ISSO AÍ**... mexeu no código neuronal [que Javé criou para dominar o corpo de fora]... 'ferrou com a história'? **FERROU NADA — LIBERTOU A HUMANIDADE DO JUGO DOS DEUSES, AS MULHERES**" [quarentena: a leitura do Éden].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-04-01b (O Quarto Logos e seus Agentes)
+
+- **[P2023-04-01b · O CONECTOMA E A TRANSFERÊNCIA]** "cada neurônio se comunica com 1000 outros... cada sinapse é uma espécie de estrada neural... ISSO TUDO CHAMA-SE CONECTOMA HUMANO. É O MAPA DE TODOS OS PENSAMENTOS, SENTIMENTOS, MEMÓRIAS... na hora em que esse corpo morre, ALGUÉM ESCANEIA A PERSONALIDADE DE ROGÉRIO, SE APROPRIA DISSO" [o uso paralelo dos eus guardados].
+- **[P2023-04-01b · O CÉREBRO DO CORAÇÃO — a convergência dos dois cérebros]** "a ciência descobriu que a gente tem UM CÉREBRO NO CORAÇÃO FORMADO POR 40.000 CÉLULAS. Com esse [o da cabeça] eu posso mentir... MAS ESSE CÉREBRO DAQUI NÃO TEM JEITO DE EU ENGANÁ-LO... A ÁGUA MARCA O QUE SAI DA PULSAÇÃO MAGNÉTICA DO MEU CORAÇÃO" [⚠️⚠️⚠️⚠️ ⚠️ QUARENTENA CLÍNICA/CIENTÍFICA (a Devolutiva O-7): a formulação entra na base EXCLUSIVAMENTE COMO CONCEITO METAFÍSICO DO MENTALMA — a linguagem dos dois focos: "os pensamentos, as palavras são a linguagem do cérebro. AS EMOÇÕES E OS SENTIMENTOS SÃO A LINGUAGEM DO CORAÇÃO. Nós temos que alinhar isso"; os experimentos de Emoto (os cristais da água) e a lagosta/oxitocina como CHAVES DE LEITURA PEDAGÓGICAS, não dogmas científicos (a Devolutiva O-4)]; **A SUPERCONSCIÊNCIA**: "ESSA CONVERGÊNCIA [cérebro + cérebro do coração] PRODUZ UMA SUPERCONSCIÊNCIA E PROMOVERÁ A EMERGÊNCIA DO QUARTO CÉREBRO".
+- 0 códigos novos (O-3). Quarentena: clínica/científica (a retenção das formulações literais — a Devolutiva O-7).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |

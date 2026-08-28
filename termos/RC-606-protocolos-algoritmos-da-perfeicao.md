@@ -17,6 +17,13 @@ A saída desses protocolos permitiria a incompletude, a criatividade e os riscos
 - Grafia preferida: Protocolos / Algoritmos da Perfeição.
 - **Fonte de decisão:** Quadro 9 aprovado pelo curador.
 
+
+## Ampliação — P2023-04-01b (O Quarto Logos e seus Agentes)
+
+- **[P2023-04-01b · O PARAÍSO B — a origem da falha]** (o Q&A): "eu tenho falado que é um PARAÍSO B, porque o PARAÍSO A, nos termos em que as coisas estão, tudo lá maravilhoso [mas] DE LÁ SAIU UM PEQUENÍSSIMO PROBLEMA que não era para ser problema... quem é criado perfeito NÃO TEM A OPÇÃO DE NÃO SER PERFEITO... segundo um certo nível de fofoca, A TURMA PERFEITA, UM BELLO DIA, DECIDIU VER COMO SERIA EXISTIR SEM SER SOB A ÉGIDE DE PROTOCOLOS PERFEITOS, SOLTAR ALGUNS FIOS... Não ser perfeito não significa necessariamente ser imperfeito... VAMOS SUBSTITUIR PERFEITO POR COMPLETO. ESSA TURMA ERA COMPLETA E DECIDIU VER COMO SERIA VIVER NA INCOMPLETUDE" [a sutileza lógica registrada]; **A BLINDAGEM**: "VAMOS BLINDAR CADA EXPERIÊNCIA DESSA DENTRO DE UM COLAPSO QUÂNTICO BLINDADO, porque caso haja algum problema, fica ali naquele metaverso, naquela realidade e a gente arranja uma forma de resolver" [⚠️⚠️⚠️⚠️]; **O ESCORREGÃO**: "QUAL O DRAMA? O DRAMA É QUE ALGUÉM ESCORREGOU NO CASCO DE BANANA, AINDA QUE NÃO TENHA BANANA NO PARAÍSO, mas alguém se escorregou e escorregado CRIOU O CAOS E NINGUÉM SABE LIDAR COM ISSO. Os seres desse paraíso, perfeitos ou completos... QUANDO VIRAM O PROBLEMA QUE ACONTECEU, NINGUÉM SABIA E NINGUÉM SABE ATÉ HOJE O QUE FAZER" [a falha origem do caos; a infecção que fura a blindagem].
+- **[P2023-04-01b · A DISNEILÂNDIA]** "em outros universos construídos a partir do paraíso espiritual incriado, NINGUÉM NASCE E MORRE, TODO MUNDO ENTRA E SAI... VOCÊ NÃO PERDE A NOÇÃO DE QUEM VOCÊ É. ISSO É DIGNO" [o contraste com a erraticidade improvisada deste universo].
+- 0 códigos novos (O-3). Quarentena: a narrativa como fofoca/metafísica da RC.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
