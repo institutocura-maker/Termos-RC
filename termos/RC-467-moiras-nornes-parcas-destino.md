@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.8 Consciências coletivas / Logos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-19 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -80,11 +80,19 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **[P2023-04-01b · AS MOIRAS CLONADAS POR MOROS]** "ELE CRIOU TRÊS SERES A PARTIR DE SI MESMO, CLONANDO AS CHAMADAS MOIRAS na mitologia grega OU AS CHAMADAS NORNES na mitologia nórdica, e dividiu o conhecimento que tinha com os três, MAS MANTEVE UMA PARTE PARA SI E SUMIU" [⚠️⚠️⚠️ A ORIGEM DAS MOIRAS: clonadas de Moros (RC-454) — o conhecimento repartido em três + a parte retida]; **AS FIGURAS MAIS PROCURADAS**: "AS TRÊS MOIRAS PASSARAM A SER AS FIGURAS MAIS PROCURADAS no âmbito da cultura desse universo vizinho. Porque todos os seres desse universo vizinho TÊM UM QUÊ DE PREJUÍZO NO SEU MODE DE SER... OS DEUSES QUERIAM SABER O DESTINO DELES" [a função oracular da teia: por isso a Wyrd (RC-658)].
 - 0 códigos novos (O-3). Quarentena: a mitologia comparada como registro narrativo.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A DISTINÇÃO TÉCNICA QUE A FONTE ATRIBUI AOS ANUNNAKIS]** "Os os anunques, portanto, como eu disse a vocês, o pensamento deles, tudo na vida deles é ou acontece por fado ou sorte ou acontece por destino." (U0033); "Os anunac sempre se preocupam em diferenciar o que era a decisão deles, que eles chamam de fato ou sorte, e o que era o inevitável destino." (U0033) — ⭐⭐ A fonte não usa as Moiras/Nornes como metáfora: usa a distinção como **categoria de decisão** de outro povo.
+- **[P2023-10-14 · A PERGUNTA QUE ABRE O BLOCO FILOSÓFICO]** "Os os anunques, portanto, como eu disse a vocês, o pensamento deles, tudo na vida deles é ou acontece por fado ou sorte ou acontece por destino." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

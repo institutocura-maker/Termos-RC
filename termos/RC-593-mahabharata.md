@@ -39,11 +39,19 @@
 
 - **[P2021-05-15 · O MAHABHARATA NA GRAFIA ORAL E O SEU USO]** "Mas como eu disse no início, quando a gente lê os livros de antiguidade, Ramaiana, Marrabarata, os livros jainistas que desconhecemos, eh, a própria, o os próprios cantos dos Vedas, livros egípcios, livros, tudo que a gente imaginar, fala desse período, fala dessas etnias." (U0003)
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · «MARRA BARAT»: A OBRA CITADA COM A GRAFIA DA FONTE]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020); "Mas isso não quer dizer que a gente não tenha honra, porque o próprio Marrabarata diz que em certas situações a mentira é mais aplic que é a verdade sob pena do que você vai provocar de repercussão no outro lado da história." (U0020) — [REVISAR: «Marra Barat»/«Marrabarata» = Mahabharata; «Braba» = Brahma. A mentira «mais aplicável» que a verdade é juízo da fonte sobre o próprio épico.]
+- **[P2023-10-14 · O DIÁLOGO DE KRISHNA NO BAGAVAGUITA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+
 
 
 ## Citações-chave

@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -293,12 +293,22 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2025-02-22 · A REABILITAÇÃO DE JUDAS]** "JUDAS ERA O PRINCIPAL APÓSTOLO... ERA O ÚNICO QUE TINHA NÍVEL INTELECTUAL PARA CONVERSAR COM JESUS QUASE DE IGUAL PARA IGUAL. E JUDAS TINHA ABSOLUTA CERTEZA que um dia ele, Jesus, iria [se assumir]" (a Q&A completa): "NEM UMA COISA, NEM OUTRA. JUDAS FOI USADO POR JESUS, O QUE É PIOR AINDA"; "JUDAS FOI UM MENINO BRILHANTE QUE FOI ESTUDAR NO SINÉDRIO. SAULO DE TARSO, QUE DEPOIS SERIA PAULO, TAMBÉM ERA UMA CARA BRILHANTE. JUDAS E SAULO ESTUDARAM JUNTOS NO SINÉDRIO"; "Judas se tornou homem, conheceu Jesus, SE APAIXONOU POR JESUS... E JESUS ADORAVA JUDAS TAMBÉM, PORQUE DOS SEUS APÓSTOLOS ERA O ÚNICO LÚCIDO, PORQUE ERA CULTO. ISSO JUDAS E JESUS CONVERSÁVAM MUITO"; o diplomata imprensado; o deadline ("me dê até quinta-feira que eu resolvo"); "'JÁ QUE VOCÊ TEM QUE FAZER, FAÇA LOGO'"; "JUDAS, ATÉ A ÚLTIMA HORA, ACHAVA QUE JESUS IA USAR OS SUPERPODERES DELE E SAIR VOANDO, FEITO SUPER-HOMEM"; "Pedro brigou com [um] dos guardas, JESUS USOU OS PODERES DELE PARA CURAR O GUARDA, E OLHANDO PARA JUDAS DIZENDO: 'Ó, CARA, EU TENTEI TE AVISAR. MEU REINO NÃO É DESSE MUNDO'"; "AS 30 MOEDAS DE PRATA NÃO ERAM VALOR... QUEM PRESTAVA BONS SERVIÇOS AO SINÉDRIO RECEBIA UMA COMENDA DE 30 MOEDAS... a tradução da coisa QUE JUDAS VENDEU JESUS POR 30, ISSO ESTÁ ERRADO"; "JESUS ANTECIPOU A MORTE DELE. A RESPONSABILIDADE É DE JESUS. ELE PODIA NÃO TER MORRIDO NAQUELE DIA, NAQUELE JEITO, MAS ELE TAVA DE SACO CHEIO" [⚠️ teológica]; JOÃO: "o único que esteve presente em 100% dos acontecimentos... o único que não fugiu, QUE FICOU AOS PÉS DA CRUZ"; "JOÃO, MARCOS NEM ERA APÓSTOLO. LUCAS NEM CONHECEU JESUS"; a missão contra Krishna: "o eu humano de Jesus também tinha missão de ROUBAR OS DEVOTOS DE KRISHNA para levá-los para Brama... O JAVÉ FICOU [P...] DA VIDA COM KRISHNA E MANDOU JESUS para pegar todos os humanos, inclusive os hindus".
 - 0 códigos novos (O-3). Quarentena: teológica máxima (o Getsêmani; a responsabilidade de Jesus; o "de saco cheio").
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A INSEMINAÇÃO E A PATERNIDADE CÓSMICA]** "O DNA de Sofia, inseminado artificialmente em Maria." (U0033) — ⚠️ quarentena teológica (retenção): conteúdo de ficha, não de apostila.
+- **[P2023-10-14 · A TRANSFIGURAÇÃO REDESCRITA: OS ANJOS COMO PLATEIA]** "Jesus não se transfigurou na chamada transfiguração descrita nos nos evangelhos para que os anjos vissem que mesmo ele na condição humana, ele tava sabendo muito bem o que tava fazendo." (U0033)
+- **[P2023-10-14 · O GETSÊMANI E A RECUSA DOS PODERES COMO QUESTÃO DE HONRA]** "E Jesus na quinta-feira antes de ser crucificado na sexta, disse: «Javé, me livre desse cálice.»" (U0033); "E não use os seus poderes para escapar da crucificação, que seria deshonroso para você." (U0033) — ⭐⭐ É o ponto exato em que o tema do título (honra) toca a cristologia da fonte.
+- **[P2023-10-14 · O REINO NÃO DESSE MUNDO E O «FEZ DE TUDO E NADA»]** "Diz: «Meu reino não é desse mundo.»" (U0033); "Fez de tudo e nada." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | B031 | — | obra publicada |
 | P2023-05-13 | seções 3.2, 4.2, 9.4; bloco do "reinar sobre o processo" | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

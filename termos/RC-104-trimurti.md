@@ -229,12 +229,19 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2021-05-15 · LILA COMO REGRA DE CONDUTA GEOPOLÍTICA]** "Então, resumo da ópera, toda uma briga começada em tempos primordiais que foi estabelecida em torno da trimurte, da sua regra de conduta chamada Lila, que representava os critérios da geopolítica, da disputa dos três membros da Trimurto da época e das descendências desses seres." (U0003) — [RC-075 Lila não tem ficha — o dado fica neste bloco e na apostila.]
 - **[P2021-05-15 · A INEFICIÊNCIA DAS FORÇAS DO UNIVERSO VIZINHO]** "Eh, nenhum desses seres nunca conseguiu sair das suas moradas." (U0003)
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A TRIMÚRTI QUE NUNCA VEIO — E OS AVATARES NO LUGAR]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — [REVISAR: «trium virato» é a grafia do bruto.]
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da ogdóade/Trimurti (princípios ontológicos; colapso) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

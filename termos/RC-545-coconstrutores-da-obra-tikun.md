@@ -5,7 +5,7 @@
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-20 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -32,11 +32,19 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 - **[B019 p. 205]** "De acordo com os postulados da Física Quântica, cada ser humano é coautor da estruturação do código genético que vai funcionar como a base da sua vida corporal" — **quarentena científica** (leitura do autor, não parecer de física).
 - **[B019 p. 205]** o autor recusa a leitura antropocêntrica/gnóstica: "Não é isso que estou defendendo! [...] coloco o ser terráqueo como um 'escravo', como uma 'cobaia', para o qual convergiu toda a 'sujeira da genética cósmica acumulada do problema do Criador'".
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · AS SEFIROT COMO COCONSTRUTORAS DA OBRA (anterioridade)]** "que foram reconstruídas dentro da matrix para resolver o problema da matrix." (U0085) — 🆕 anterioridade: P2024-07-14
+- **[P2023-10-14 · OS QUE FAZEM DA VIDA O QUE SABEM CONSTRUÍ-LA]** "E nós aqui do lado biológico é que podemos fazer da nossa vida o que nós soubermos construir nela." (U0064)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2024-07-14 | U0570–U0590; U0660–U0670 | palestra/STT |
 | B019 / P2025-02-16 / P2024-11-30 / ART-2026-08-18 | — | obras |
+
 
 ## Citação-chave
 > "Nós temos 18.000 anos para fazer isso. Se sobrevivermos enquanto experiência biológica."

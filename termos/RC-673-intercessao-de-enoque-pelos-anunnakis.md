@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
@@ -14,8 +14,15 @@ O Mistério da Árvore da Vida e a Urdidura de Metatron.
 ## Etimologia / Grafias
 Forma preferida: Intercessão de Enoque pelos Anunnakis.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A INTERCESSÃO NARRADA EM 14/10/2023 (anterioridade)]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033) — 🆕 anterioridade: P2023-12-02 — esta fonte é **7 semanas** anterior.
+
 ## Fontes
 P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+
 
 ## Citações-chave
 Ver transcrição.

@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.2 Linhagens humanas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A **linhagem genética "preparada desde 'seu Adão'"** por Javé — revelada nas *Memórias de Javé* (B036) e sintetizada no resumo (B036R): o "Projeto Humano" visava "cultivar sequências genéticas específicas que pudessem servir de ponte para sua própria cura e estabilização mental". A cadeia dos escolhidos:
@@ -54,13 +54,20 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 - **[P2020-05-09 · A LINHAGEM DOS ESCOLHIDOS — de Adão a Maria pela ótica do Big Data]** a sequência completa: "Adão, Sete, Enos, Cainã, Malalalahel [STT — Mahalalel], Jaré [Jarede], Denoque [Enoque], Matusalém, Lamec, Noé... ESSA SEQUÊNCIA QUE JAVÉ TAVA REFÉM DELA e a cada um que nascia, ele olhava, MAS NÃO CONFIAVA TOTALMENTE"; a origem: "ele escolheu um Adão... o tal do Adão bíblico tem o DNA de Javé"; "o primeiro filho de Adão e Eva foi ABEL QUE NASCE COM JEITO FEMININO"; "JAVÉ ESCUTAVA NOTÍCIAS MARAVILHOSAS QUE NÃO ERAM REAIS dos sucessos que Chiva tava tendo com as suas descendências... no outro lado do mundo" [o motivo da pressa]; **JACÓ E A CILADA DO DNA**: "quando surgiu a história de que Virgo teria dito para os anjos aia que AQUELE JACÓ ERA O MESMO PADRÃO GENÉTICO [de Enoque]... os anjos, mandados agora por Javé, ARMARAM LÁ UMA CILADA EM TORNO DO HOMEM JACÓ para provocar nele uma certa situação. E POR ISSO, EM TODA A BÍBLIA, O ÚNICO SER HUMANO QUE SAIU NA PORRADA COM UM ANJO FOI JACÓ... o primeiro que tocar o lado posterior da coxa da perna do oponente derrotaria o outro... E SACANEARAM JACÓ DE TODA FORMA, SÓ PARA BATER NELE E TIRAR O DNA DO CORPO DELE NUMA SIMPLES PANCADA — dessa já tira o DNA — E LEVARAM O DNA DE JACÓ PARA A NAVE... POR ISSO QUE JACÓ SONHOU... COM A ESCADA E ANJOS SUBINDO E DESCENDO DOS CÉUS... MAS É PORQUE ELES ESTAVAM SÓ CERTIFICANDO SE O DNA DAQUELE HUMANO ERA O MESMO DNA QUE ELES CONHECIAM DE ENOQUE" [⚠️ a leitura 2020 da escada de Jacó]; **AS 12 TRIBOS → BENJAMIM → MARIA**: "aí foi que A VIDA DE JACÓ FOI TAMBÉM PRO INFERNO, porque JAVÉ DECIDIU CRIAR A DESCENDÊNCIA MAIS AMPLA. Então Javé criou um contexto de 12 TRIBOS a partir de 12 filhos de Jacó, para escolher no meio dessas 12 tribos QUAL A MELHOR GENÉTICA para que o Messias dele lá no futuro nascesse nesse segmento... JÁ NESSA ÉPOCA, A TURMA DO BIG DATA LÁ DO CRIADOR, eles ficaram fazendo [simulações]... testaram o DNA do filho 1, 2, 3, 10, 11... MAS O 12º FOI BENJAMIN. Ah, isso aqui vai. MARIA, A MÃE DE JESUS, NASCEU NESSA DESCENDÊNCIA, porque aqui era possível não o DNA de Virgo, mas o de AIA [STT — o da linha], que já é de Virgo, LÓGICA, inserir em Maria, NASCERIA O PADRÃO DO MESSIAS QUE JAVÉ ENTÃO QUERIA" [⚠️ a Maria benjamita!]; o plano: "o plano agora era o divismo [STT — REVISAR: o plano de Vishnu]... não seriam mais com Enoque, nem com Jacó, MAS COM UMA DESCENDÊNCIA DE JACÓ"; **A DESCENDÊNCIA DE MULHERES** (ver RC-727): "quando se percebeu a riqueza da descendência de Pandora, DEPOIS DA DESCENDÊNCIA DE EVA, DEPOIS DA DESCENDÊNCIA DE OUTRAS MULHERES CUJOS NOMES NÃO PASSARAM À HISTÓRIA. OS HOMENS NESSA ÉPOCA ERAM SÓ CONTRIBUINTES... SÓ DAVAM AS ESPERMAS. O RESTO ERA AS MULHERES".
 - 0 códigos novos (O-3). Quarentena: teológica (a leitura da escada/12 tribos).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A LISTA DOS PATRIARCAS, COM O CORTE PRÓPRIO DA FONTE]** "Aí Adão termina produzindo um terceiro filho chamado Sete, que produz outro chamado Enos, Cainan, Malalarel, Jaré, Deno Matusalém, Lanec, Noé, Sena, Faxado, Salé, blá blá blá blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá." (U0015); "Essa pergunta Adão, sete, Enos, Cainã, Malalar, Jaré, Denoque, Matusalém, Lam, ou seja, todo Os escolhios de Javé se fazem." (U0033) — ⚠️ Duas listas patriarcais na mesma fonte, com cortes diferentes (U0015 × U0033): divergência de STT, **não** de doutrina — registrar sem harmonizar.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | As Memórias de Javé (B036) | crônicas (Adão, Enoch, Abraão, Jacó) | — | tema recorrente |
 | Memórias de Javé - RESUMO (B036R) | seção 3 (A Linhagem dos Escolhidos) | — | síntese estruturada |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
 
 ## Citações-chave
 > (B036R) "Para Javé, o ser humano é uma ferramenta estratégica. O 'Projeto Humano' visava cultivar sequências genéticas específicas que pudessem servir de ponte para sua própria cura e estabilização mental." — B036R, seção 3

@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -46,12 +46,20 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 
 - **"O que você faz volta" (P2024-09-29 — pergunta da plateia):** "a gente tem uma regra nessa criação: tudo que você faz volta para você. Então ele foi, digamos, vítima da própria [regra]... a entropia devolveu na mesma hora" — a teia quântica como regra (ver RC-658).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A TESITURA DA TEIA DA VIDA, ESTUDADA PELAS TRÊS FIGURAS]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033)
+- **[P2023-10-14 · O QUE SAI VOLTA — E O CAMPO QUE O GUARDA]** "E nesse campo aqui, Tudo volta a ser energia que pode ser colapsada de acordo com o que o euma, se souber usar o seu próprio cérebro e o seu genoma, mandam nesse espaço." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-05-13 | bloco Orlog/nornas/teia | palestra/STT pré-curada |
 | B031 (e demais fontes históricas) | — | obras publicadas |
+
 
 ## Citação-chave
 

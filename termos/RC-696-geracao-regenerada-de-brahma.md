@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.1 Famílias divinas / Celestiais |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Conjunto de filhos e filhas produzidos pela mente e pelo corpo reconstruído de Brahma/Javé após o Ragnarok, apresentados como fontes genéticas de espécies e linhagens posteriores.
@@ -42,10 +42,19 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 
 - **Geração Regenerada (P2024-11-30):** "na última feição da chamada geração regenerada de Brahma nascem quatro irmãos de Rama"; "Bharata"; "Brahma acreditava, ao longo dos últimos 20.000 anos, que os rishis bramânicos e os kshatriyas dharmicos — os brâmanes e os kshatriyas — iriam dominar a Terra"; "7.000 anos antes de Cristo, era essa a noção".
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A LINHAGEM REGENERADA DE BRAHMA, DITA COMO «DE JAVÉ» (anterioridade)]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020) — 🆕 anterioridade: P2024-07-13
+- **[P2023-10-14 · OS SETE FILHOS E A CLONAGEM]** "Mas vamos agentar a mesma história de novo, em que diz que a partir de um certo ponto, Brahma teve sete filhos, uma dessas, mas aí não é filho no sentido de de sexo, filho clonado." (U0020)
+- **[P2023-10-14 · A ESCOLHA DA LINHAGEM PARA DOMINAR A TERRA]** "E assim, a partir de um certo momento, quando surgiu na Terra uma figura chamada barata ou barata, Brama disse: «É esse aqui que eu vou querer que a minha descendência de seres híbridos seja criada.» Ainda não era uma Então, os baratas ou barata era o nome de um dos quatro filhos de uma geração que Brama diz que foi especial." (U0020)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-16 | U0387–U0434; U0471–U0483; U0903–U0906 | aula/palestra STT |
+
 
 ## Citações-chave
 > “Ele criou então filhos e filhas da sua mente e criou também filhos e filhas do seu corpo.”

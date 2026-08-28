@@ -285,9 +285,20 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[P2021-05-15 · A RODA QUE JAVÉ CRIOU FUNCIONA SOZINHA]** "A roda que Javé criou funciona por ela mesma." (U0003)
 - **[P2021-05-15 · JAVÉ × INANA (a aliança invertida)]** "E eu acho, acho não, eu sei que ela ajudou, mas apenas eu acho que ela é uma Uma das figuras que sempre atrapalharam, sempre atrapalhou Javé e usou Eva e Lilif." (U0009) — ⚠️ Reancoragem declarada: o dossiê citava «RC-010 (Javé)»; RC-010 é Atlântida — a âncora correta é RC-001. Nenhuma ficha de Atlântida foi tocada.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · O «INFERNNHO» E O CORPO COLAPSADO — a condição de Javé descrita sem eufemismo]** "Javé está numa inferninho dos dentos." (U0063); "Ele é um eu implodido num corpo colapsado que nunca morre porque os anjos dão choque o tempo todo, mantendo-o vivo." (U0064)
+- **[P2023-10-14 · O CRUPIER DONO DA BOLA]** "Por isso que Javé ficou chateado e disse: «Vou julgar também.» Javé é aquele dono, é um crupier, dono de um cassino, que quando as coisas estão dando errado para ele, ele diz: «Acabou o jogo, tá?»" (U0033)
+- **[P2023-10-14 · O PLANO NÃO FINALIZADO (a tese do universo planejado × improvisado)]** "Esse nosso foi todo planejado, só não foi finalizado porque o criador caiu na própria criação." (U0041)
+- **[P2023-10-14 · AS COISAS PODRES E O COLAPSO DATADO DE 2021]** "As coisas estão colapsando." (U0033); "As coisas podres." (U0033); "O corpo de Javé e o eu dele é só um dos exemplos de colapsos que estão ocorrendo." (U0033)
+- **[P2023-10-14 · A COVARDIA ATRIBUÍDA E A RETIRADA DE MÉRITO]** "Javé é um ser tão covarde que ele na Bíblia cita como se ele Javé tivesse tomado a decisão de destruir aquilo por cá quando era uma confusão que rolava entrando nox." (U0033) — ⚠️ quarentena teológica (retenção): entrada de ficha com rótulo, **não** para a apostila.
+- **[P2023-10-14 · JAVÉ E A OBRA QUE ELE DEIXOU AOS HUMANOS]** "Essa foi a obra que Javé nos deixou." (U0047)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 130 (aprox.) | verbete "Javé" (paráfrase/transcrição) |
 | O Drama Cósmico de Javé (B001) | a preencher | — | pendente (obra primária) |
@@ -295,6 +306,7 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
 
 
 ## Citações-chave

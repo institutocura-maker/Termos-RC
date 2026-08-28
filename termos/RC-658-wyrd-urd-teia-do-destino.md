@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Teia germânico-nórdica de destino, causalidade e retorno das informações, organizada por Moros e atualizada como Ifá.
@@ -78,11 +78,19 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **[P2023-05-20 · IRÉM × IRON — A CONSOLIDAÇÃO]** "**A GUERRA INTERDIMENSIONAL ENTRE AS FORÇAS DE IRÉM, QUE É O UNIVERSO DE LÁ, E AS FORÇAS DE IRON, QUE É O UNIVERSO DE CÁ. ESSE É O RESUMO DA HISTÓRIA. E A TURMA DE IRÉM TÁ QUERENDO VIR PARA CÁ. EU TÔ USANDO IRÉM/IRON PORQUE É A EXPRESSÃO MAIS ANTIGA QUE EU CONHEÇO, ARCA DRUÍDICA — isso aí ninguém conhece, MAS É ASSIM QUE A GENTE TÁ USANDO NO LIVRO, NA SAGA QUE A GENTE LANÇOU SOBRE UNIVERSOS EM COLISÃO** [B085 — a confirmação do uso druídico na saga]" — **[RESOLVE o [REVISAR] "Iron/Irém" da P2023-05-21: os nomes druídicos arcaicos dos dois universos]** + a batalha em torno do Sol ⚠️ [quarentena ufológica]: "um dia desses HOUVE UMA BATALHA ENVOLVENDO CENTENAS DE MILHARES DE NAVES. E a Terra sabe, os governos sabem, PORQUE FOI TUDO FILMADO... entre quem? AS FORÇAS DE IRÉM E AS FORÇAS DE IRON" + o que a mente humana não percebe ("o que tá oculto por trás de um Putin, de um Biden, a gente não percebe... são realidades simultâneas").
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes.]
+- **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-06-26 | ver dossiê | live/STT |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
 
 ## Citações-chave
 > Ver P2025-06-26.

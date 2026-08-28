@@ -5,7 +5,7 @@
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.2 Hebraico / Cabala |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A **"Árvore da Vida"** é um dos símbolos cabalísticos fundamentais — um "diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação" (B013, cap. 6). As **dez Sefirot** que compõem a Árvore da Vida representam as **dez "Emanações da Divindade"**, os dez aspectos do universo manifestado — "constituindo a chave para decifrar os mistérios da Cabala, até atingir a 'União com Deus'". Cada Sefirá tem uma quádrupla natureza associada aos quatro universos-mundos da Cabala (Doutrina das Emanações).
@@ -40,10 +40,20 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **[B013 p. 82]** 10ª Malkuth (Reino): “eleitos” de Javé; a vinda de Hochmah/Sophia é “o último capítulo desta história mal compreendida pelos cabalistas”; estes “jamais puderam perceber o ‘Malkuth’ no humilhado Jesus.” RC-682 permanece com as fontes que já tem — **não** acrescentar B013 sem novo pedido.
 - **Quarentena teológica.** Páginas “aprox.” da ficha antiga substituídas pelo rastreio do PDF.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A ÁRVORE DA VIDA COMO INVENÇÃO DE UM HUMANO]** "É uma representação que Enoque, um humano, criou." (U0085); "É um joguinho que Enoque humano criou pros seres demos jogarem, para eles entenderem direito o que estão fazendo." (U0085) — ⭐⭐⭐ A inversão da direção da revelação (humano → deuses) está aqui, em fala.
+- **[P2023-10-14 · AS DEZ PERSONIFICAÇÕES E OS DESÍGNIOS]** "Ou seja, a árvore da vida mostra as 10 principais personificações do que esses seres consideram como entes divinos que têm missão ou que tem um processo em curso que tem a ver com o cumprimento dos desígnios de Keper, de Javel." (U0085); "São encarnações as que movem os principais 10 processos que acontecem dentro da matrix que Javé terminou criando sem querer, ou melhor dizendo, né?" (U0085)
+- **[P2023-10-14 · A PONTE COM O TARÔ]** "A relação entre essas 10firais aí aqui dá toda a margem do tarô." (U0085)
+- **[P2023-10-14 · A ENTREGA AOS RABINOS E O MATERIAL PRIMÁRIO]** "Mas quando Javé decidiu apresentar isso aos humanos, foi dois séculos depois de Jesus, foi quando os anjos aí Enoqu Metatron já não mais existiam, mas Gabriel entregou a rabinos Shimon Bariokai esses postulados acaba lá e entre eles estava a árvore da vida." (U0085) — [REVISAR: «fois» é truncamento do STT; o canônico da Base é Shimon bar Yochai. A expressão «ver também» aparece degradada na linha 280 do bruto. [TEXTO CORROMPIDO].
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Tzimtzum (B013) | cap. 6 (Os Planos de Existência da Cabala) | pp. 75–85 (aprox.) | conceito central |
+
 
 ## Citações-chave
 > "Para muitos, a 'Árvore da Vida' – um dos símbolos cabalísticos fundamentais – é um diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação. Outros a veem como sendo um plano para permitir ao homem a escalada das dez 'Sefiroth' que compõem a 'Árvore da Vida', e representam as dez 'Emanações da Divindade'." — B013, cap. 6

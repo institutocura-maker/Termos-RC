@@ -80,12 +80,20 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **[P2021-05-15 · ⚠️ T-1: A CIFRA DE 400 MILHÕES (a selar, sem correção do canônico)]** "E essa briga havia convergido pra Terra, ou melhor, pros nossos sistema solar muito tempo antes e se fixado de forma definitiva aqui, por volta de 400 milhões de anos e mais ainda quando o Rainarok aconteceu em Marte, aí tudo se transferiu pra Terra." (U0003) — Divergência registrada: a linha canônica fixa o Ragnarok em Marte em 300 milhões de anos (B050); esta fonte dá 400 milhões e usa o mesmo número para a convergência da briga. **Nenhuma alteração no canônico** (Devolutiva O-8).
 - **[P2021-05-15 · O DADO ZOOLÓGICO ASSOCIADO]** "Porque o povo também tem a sua história de como ele há 400 milhões de anos em termos do nosso tempo terreno, foi já apareceu assim." (U0003) — [STT: «o povo» = o polvo.]
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · RAGNAROK: OS 300 MILHÕES DE ANOS DESTA FONTE (três vezes)]** "Quando os anunques souberam do Rainarok ocorrido há 300 milhões de anos e que Sofia também não fez nada e ele já era o suzerano aqui." (U0033); "A mitologia nórdica aponta que há 300 milhões de anos atrás, oito dos níveis de um universo vizinho que existe paralelo ao nosso e mais o nível do nosso universo, ou seja, esses nove níveis de existência." (U0003) — ⚠️ Terceira cifra no acervo para o mesmo evento (a Base tem 300 mi em B050 e 400 mi em P2021-05-15): **selar com a data**, não harmonizar.
+- **[P2023-10-14 · A SOBRE-VIDA COMO «SOBRA DE UM PROBLEMA»]** "Tudo indica, tudo indica que esses seres que nós chamamos hoje anonax, eles sejam uma sobra de um problema ocorrido a cerca de 300 milhões de anos atrás, precisa abrir há 300 milhões de anos atrás, quando aconteceu o chamado nórdico." (U0003)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Guia das Eras Universais (B050) | Linha do Tempo (evento datado) | — | evento do mapa |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
 
 
 ## Citações-chave

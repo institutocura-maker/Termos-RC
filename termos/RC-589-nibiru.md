@@ -38,11 +38,21 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 - **[P2021-05-15 · O CONTEXTO ASTRONÔMICO CITADO (com [REVISAR] e quarentena científica)]** "Até pouco tempo atrás, Plutão era um planeta considerado assim pelos cientistas." (U0010); "Saturno e Júpiter com as suas 81 e 72 luas, eu acho cada um deles, respectivamente, acho que os números são esses, a última utilização, a atualização que eu fiz, constantemente se descobre e se atualiza o número de de satélites em torno desse plan." (U0010) — [REVISAR: «nuvem de Earth» ≈ nuvem de Oort; «SEDA» ≈ Sedna.] ⚠️ as luas são dadas como cifra viva pelo próprio autor («constantemente se descobre e se atualiza o número»).
 - **[P2021-05-15 · QUARENTENA UFOLÓGICA (a frase que não se amplia)]** "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo." (U0010) — [STT: «a Nunx» ≈ os Anunnaki.] Registro apenas.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A ÓRBITA DE 3.600 ANOS E O «CHARLES» DO STT]** "Então aqui dá 3.600 anos." (U0003); "Você já falou isso em outros vídeos, mas só para registrar aqui, quando foi a última vez que Nibiro passou aqui próximo à Terra?" (U0047) — ⚠️ **Não fixar a data da última passagem**: a resposta é autocontraditória na própria fala («2000 496» / «499» / «6 anos de Cristo»).
+- **[P2023-10-14 · O POUSO EM TRÊS NÚMEROS]** "Pousou na Terra cerca de 450.000 anos atrás, na verdade, segundo eles, 445.000." (U0005); "Ele veio atravessando tudo isso e resolveu abrir caminho no cinturão de asteroides usando bombas nucleares." (U0005)
+- **[P2023-10-14 · 2012: O LACRAMENTO DOS PORTAIS POR ENTROPIA CÓSMICA]** "Mas nos últimos três 1000 anos, esses portais começaram a fechar e no ano 2012 eles se lacraram devido a entropia cósmica." (U0041); "Em 2012 isso foi lacrado." (U0041) — ⭐⭐⭐ ⚠️ **Divergência de objeto, selada com a data da fonte**: aqui 2012 é o lacramento dos **portais**; a Base trata 2012 como recuo de consciência humana. Nenhuma das duas leituras substitui a outra.
+- **[P2023-10-14 · O SOL COMO VIA DE TRÂNSITO (e não como «o portal»)]** "Quando os caras perceberam isso, eles passaram a usar as estrelas como sendo um tipo de portal natural." (U0041); "E essa invasão tá se dando pelo sol, mas também já está se dando portais." (U0046) — A formulação «o portal é o Sol», aventada na leitura inicial, **não existe na fonte** (retirada documentada em camada-0 §23).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
+
 
 
 ## Citações-chave

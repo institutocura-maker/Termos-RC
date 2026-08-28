@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
@@ -37,8 +37,16 @@ Forma preferida: Malkuth.
 - **[P2023-04-15 · A CABALA — o mapeamento das sephirot]** "quando esse ser número dois caiu na própria obra e se reconstruiu com os restos de si mesmo como sendo JAVÉ, BRAMA OU KETER. KETER É O NOME DO CRIADOR CAÍDO NO ÂMBITO DA CABALA"; "Sofia, assim chamado na linguagem grega, mas na verdade ele era chamado por um nome que o hebraico chama com mais propriedade e há mais tempo, chamado CHOKMAH [STT: 'Rockma']... porque os três seres da CABALA que compõem a chamada trimurti são RESPECTIVAMENTE KETER, CHOKMAH E BINAH. Então, Chokmah... produziu Sofia, que é [Hochmah]" — o mapeamento das três primeiras sephirot sobre a Trimurti (Keter=Brahma/Javé; a grafia canônica Hochmah=Malkuth=Sophia da malha confirmada na voz).
 - 0 códigos novos (O-3). Quarentena: teológica (a cabala como registro).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · «MALUKUF»: A 10ª SEFIRAH PELA BOCA DA FONTE (D-7)]** "Então, Malukuf é o Messias prometido por aos judeus." (U0085); "quando entre aspas chegar a hora, mas Malukuf já existia, que é Sofia ou Rock, é figura cósmica do Messias." (U0085) — ⚠️ A ficha não funde Malkuth/Sophia/Hochmah: o que se registra é a **equivalência afirmada em 14/10/2023**.
+- **[P2023-10-14 · O ESPERADO QUE JULGA OS PRÓPRIOS DEUSES]** "Os Anunax sabem que se servirá e os Anunax estão esperando serem julgados por esse ser." (U0033); "Estranhamente eles ainda acreditam no julgamento de deuses e humanos." (U0041)
+
 ## Fontes
 P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+
 
 ## Citações-chave
 Ver transcrição.

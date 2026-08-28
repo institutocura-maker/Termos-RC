@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -46,11 +46,19 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **[P2025-02-22 — eco] A TIMÉ E AS LOCAS]** "esses arcontes todos estão morrendo junto com esse universo. SE UM OU OUTRO PASSAR PARA CÁ, TÁ TUDO BEM"; A TIMÉ: "o equilíbrio universal tem que se estabelecer sobre componentes cujos aliceces não tenham por trás ARCONTES ENLOUQUECIDOS, AMBICIOSOS QUE SÓ PENSAM NA SUA TIMÉ. TIMÉ É UMA EXPRESSÃO GREGA QUE QUER DIZER O TAMANHO DA SUA MAJESTADE" [⚠️⚠️ a timé definida]; "vários arcontes, dono das locas... NÃO MAIS CONSIDERARAM SOPHIA... os próprios anjos que tinham que destruir Sophia... NÃO DESTRUIRAM"; "esse universo [vizinho]... É UMA CASA DE MARIMBONDA. Colmeia. É cheio de gomos, de locas e dentro de cada loca tem um ser que se acha o arconte, ou seja, o dono"; "tem gente que detesta Javé e detesta Sophia e quer destruir a condição humana" [os arcontes anti-humanos]; "algo que esses seres não sabiam... em 2012, 2013: QUE ESSE UNIVERSO JÁ ESTÁ COLAPSANDO. Então, todos eles ou dão um jeito de vir para cá ou vão morrer... DE TODA ESSA HISTÓRIA SÓ VAI SOBRAR SOPHIA".
 - 0 códigos novos (O-3). Quarentena: ufológica (as locas — rotulada).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · ARCONTES = DONOS, E A HONRA DEMODÁRMICA APLICADA A ELES (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "E esses arcontes de lá todos eles vão se ferrar." (U0033)
+- **[P2023-10-14 · QUEM SE SENTIA ARCONTE E O QUE OS PORTAIS FECHARAM]** "Aí os seres Zeus, Apolo, Áes, blá blá blá desse universo visí não podiam passar para cá, o que eliminou de seres que se sentiam arcontes, ou seja, donos." (U0018) — A definição «arcontes, ou seja, donos» é dada **em fala** — material raro, e anterior a quase todas as fichas do tema.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco final (arcontes/intriga; Sofia) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

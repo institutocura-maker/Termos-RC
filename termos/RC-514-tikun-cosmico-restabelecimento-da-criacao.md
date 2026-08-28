@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -61,13 +61,22 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[P2024-11-03 · O TIKUN CONSAGRADO — OS AGENTES DO FAVOR DIVINO]** "o ajuste na condição humana TEM A VER COM A EMERGÊNCIA DE UM NOVO TIPO DE SER HUMANO que universalizará a formulação da CIÊNCIA DA PERSONALIDADE de cada ser consciente, como a gente do ticum. **TICUM [TIKUN] É UMA EXPRESSÃO CABALÍSTICA QUE DIZ QUE TANTO A CRIAÇÃO QUANTO O CRIADOR NELA CAÍDO, AMBOS PRECISAM DE REPARO, TIKUN, REPARO, CONSERTO. E SÓ A CONDIÇÃO HUMANA CONSEGUE FAZER ESSE CONSERTO AÍ DENTRO DE SI MESMO**"; "PORQUE O GENOMA QUE TÁ DENTRO DAS CÉLULAS DA GENTE É A COTA DA DOENÇA DO CRIADOR QUE CADA UM DE NÓS, COBAIA, PORTA... **NÓS SOMOS AGENTES DE UM FAVOR DIVINO. NÓS SOMOS HERÓIS E HEROÍNAS E SOMOS CLASSIFICADOS COMO PECADORES**" [⚠️⚠️⚠️ B048 Favor Divino]; "A teologia católica diz que a vida é perfeita, Deus é perfeito, mas tudo fica ruim porque nós humanos somos a doença da vida... ESSA VIDA NASCEU DOENTE PORQUE VEIO DOS [esgotos] DE UM SER DOENTE. E NÓS, OS HUMANOS, QUE SURGIMOS DESSA DOENÇA, ESTAMOS DESTINADOS A SERMOS SERES SUPERIORES... não para que a gente seja superior a ninguém, mas é que TENHAMOS ATITUDES SUPERIORES no sentido de consciência esclarecida"; "E NA HORA EM QUE VOCÊ CONSERTA VOCÊ MESMO... VOCÊ TÁ REALIZANDO O TIKUN, PORQUE VOCÊ ESTÁ FAZENDO AS MUTAÇÕES NO GENOMA DO CRIADOR QUE HABITA EM VOCÊ, QUE VOCÊ FAZ O FAVOR DIVINO DE TOMAR CONTA DESSA PARTE DOENTE DELE"; "**APOL[ÔNIO] SABE DISSO. JESUS SE ESQUECEU DISSO. TÁ, TÁ TENDO QUE SE RELEMBRAR E REDIMENSIONAR AS CERTEZAS E EXCLUSIVISTAS QUE ELE TINHA EM RELAÇÃO ÀS ESCRITURAS JUDAICAS**" [RC-259/RC-072]; A SEXTA HORA DO NUCTEMERON como o contexto: "o criador persegue os seus escolhidos dentro da natureza humana E SE EXPÕE SEM QUE O SAIBA PARA SER DECIFRADO. O criador faliu... ELE PEGOU O CÓDIGO DELE, ESCOLHEU VÁRIOS SERES, INOCULOU ESSES SERES COM A DOENÇA DELE... É ISSO QUE NÓS SOMOS: COBAIAS DESSA EXPERIÊNCIA" (RC-217).
 - 0 códigos novos (O-3). Quarentena: teológica (a inversão da teologia católica do pecado).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · TIKUN DEFINIDO COMO REPARO NA OBRA **E NO CRIADOR**]** "E o ticum cabalístico quer dizer exatamente o reparo na obra e no criador." (U0033); "É para realizar o reparo no genoma do criador." (U0033) — ⭐⭐⭐ O deslocamento do objeto do tikun (não «nos judeus»: nos humanos e no criador) é a tese da fonte.
+- **[P2023-10-14 · A RELEITURA DO AVISO]** "Só que os judeus transformaram esse aviso num entendimento muito romântico." (U0033)
+- **[P2023-10-14 · O TIKUN COMO PROJETO DE JAVÉ]** "A partir desse ponto, Javé pensava em se apoderar do controle sobre os seres humanos paraa realização do seu ticum." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | B061, B071, B019, B074, B075 | obras | livros |
 | P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | palestras | palestra/STT |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+
 
 ## Interpretação secundária (ART-2026-08-18)
 

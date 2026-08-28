@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -29,12 +29,20 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 
 - **[P2024-07-13] A exegese de Gênesis 6 (U0540–U0560):** "na Bíblia, no livro Gênesis, está lá escrito: 'houve um tempo em que os Nefilins estavam na Terra.' De onde se deduz que houve um tempo em que eles não estavam na Terra? Mas essa tradução pro português virou: 'houve um tempo em que existiam gigantes na Terra'... gigante não é sinônimo de ser extraterrestre. E o sentido original em hebraico é: 'houve um tempo em que seres de fora, chamados Nefilins, estavam aqui na Terra'"; "Nefilim na linguagem suméria e Anunnaki na linguagem acadiana... esses seres extraterrestres biológicos estavam aqui na Terra, chegaram a 450.000 anos no meio de uma confusão que envolveu a história dos Anunnaki com o braço da rebelião de Lúcifer"; "os Anunnaki se sentiam donos da Terra porque eram a maior força instalada aqui".
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A ETIMOLOGIA FALADA: ANUNA = ACARIANO, NOME SUMÉRIO = NEFELIM]** "Só para esclarecer, o nome Anuna é uma expressão acadiana que foi encontrada nas tábulas sumérias." (U0033); "Mas o nome dos anunaques na linguagem suméria é nefelim." (U0033)
+- **[P2023-10-14 · A TRADUÇÃO QUE CANCELA A PERCEPÇÃO]** "Gigante é uma coisa, o extraterrestre é outra." (U0033); "Então assim, as traduções foram nos emborrecendo, foram nos cegando." (U0033) — ⭐ É também o argumento metodológico desta Base: se a tradução perde, a grafia do STT é dado filológico — ver camada-1 §7.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (dinastias — anaquins/enacins); bloco 5 (dilúvio) | palestra/STT pré-curada |
 | B061 / P2026-08-04 | — | anteriores |
+
 
 ## Citação-chave
 

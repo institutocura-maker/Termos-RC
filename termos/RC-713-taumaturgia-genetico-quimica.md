@@ -42,11 +42,19 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 - **[P2021-05-15 · A DROGA DO FILME × A ENZIMA REAL]** "O CPH4 é aquela droga sintética, desculpe o Pleonasmo, que no filme aparece como sendo aquela coisa azul dentro de saquinhos plásticos, né?" (U0003) — ⚠️ quarentena científica: a farmacologia é do filme *Lucy* (2014, Luc Besson) — que **não** tem obra nem termo na Base [RETIFICAÇÃO: o piloto citava «B036»; B036 é «As Memórias de Javé»].
 - **[P2021-05-15 · O QUE OS DEUSES FIZERAM COM ESSA DESCOBERTA]** "Os caras eram tão que eles descobriram o CPH4 na condição humana, verificaram em outras espécies da natureza selvagem da Terra, mas eles queriam adequar eles porque eles é que esperavam chegar no fim como os mandatários e como a gente já sabe deu tudo errado." (U0003)
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · TEURGIA, MAGIA E A FACE DA TEOLOGIA (fecho do bloco cabalístico)]** "Sim, porque daí é trabalho com os elementos." (U0090); "Magia é uma das faces da teologia." (U0091) — A pergunta é do ouvinte («isso chama-se teurgia, não é?») e o expositor **aceita o termo**: a ficha registra o uso, não a prática. ⚠️ Nenhum código novo para «teurgia» (navalha; Devolutiva D-1).
+- **[P2023-10-14 · A DECLARAÇÃO DE QUE A PARTIR DE AMANHÃ PODE PARAR]** "Pode ser que a partir de amanhã entropia em peça, mas até hoje sim." (U0089) — [TEXTO CORROMPIDO: «entropia em peça» é o que o STT entregou; preservar, não decodificar.]
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0737–U0770 | aula/palestra STT |
+
 
 
 ## Citações-chave

@@ -283,15 +283,25 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2021-05-15 · A ÚNICA VIA PRÁTICA DE SOFIA]** "Fora isso, nada a Sofia pode fazer." (U0015)
 - **[P2021-05-15 · A VINDA, A POSSE E A COORDENAÇÃO DO QUARTO LOGOS]** "A vinda de Sofia tem como objetivo ele assumir o dia da posse dele para acabar com toda essa história e todos convergirem pro comando Sofia, o comando prático e para a coordenação do quarto logos, o programa evolutivo mental e espiritual, porque é a única forma disso aqui ter algum futuro." (U0005) — ⚠️ a fórmula «a espiritualidade humana é a única alavanca da reintegração» é de OUTRA fonte — não atribuir a P2021-05-15.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · «ZERO À ESQUERDA»: A MINIMIZAÇÃO DE SOPHIA POR UMA FONTE DE 2023]** "Então, Sofia é um zero à esquerda na perspectiva do que os anonaques pensam e na perspectiva do que alguns humanos pensam, mas outros acham que ele é o poder total." (U0035) — ⚠️ **Divergência selada com a data da fonte** (regra do Curador): nada na ficha canônica muda.
+- **[P2023-10-14 · A NÃO-INTERFERÊNCIA TRÍPLICE DE SOPHIA]** "Quando os anunques souberam do Rainarok ocorrido há 300 milhões de anos e que Sofia também não fez nada e ele já era o suzerano aqui." (U0033); "Há 700.000 anos ocorreu A rebelião de Lúcia." (U0033)
+- **[P2023-10-14 · A SUZERANIA E A DATAÇÃO DO ENGENDRAMENTO]** "E aqui só tem um suzerano construído ou engendrado para isso que foi Sofia, que foi construído ou engendrado há 6 bilhões de anos atrás." (U0033); "Aí aqui tem Sofia o Rockman." (U0033)
+- **[P2023-10-14 · O PAI DE JESUS E O ELOGIO DA AUSÊNCIA]** "Ou seja, Sofia era pai de Jesus." (U0033); "Era para Sofia ter entrado com nos anulxos também não fez nada." (U0033)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 143 (aprox.) | verbete "Sophia" |
 | Sophia e o Logos Criadores (B014) | a preencher | — | pendente (obra primária) |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 
 ## Citações-chave

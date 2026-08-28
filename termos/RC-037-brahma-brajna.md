@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Nas RC, Brahma é o **"Criador caído, apodrecido e adoentado"** — a mesma entidade que a Bíblia chama de **Javé**, a Mitologia Grega de **Caos**, a Chinesa de **Pan Ku**, o Alcorão de **Alá**. Antes de "cair" em sua criação, em Perpérion (Espiritualidade Laboratorial), era **Brajna**, em sua condição **Adhyatman**. Jamais pôde ter avatares devido à sua condição "desalmada" (apenas seu corpo mental caiu na criação), mas sempre escolheu "eleitos" entre os humanos (Adão, Seth, Enoque, Abraão, Jacó) (B031).
@@ -99,11 +99,19 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[P2025-02-22 — eco] BRAHMA O EU RECREADO E OS 5000 TEMPLOS]** "Brama é um eu recriado de um ser que vivia na PERIFERIA DO PARAÍSO, que teve uma ideia, CAIU DENTRO DA IDEIA, PERDEU A SUA CONDIÇÃO DE EU PARADISÍACO E SE RECONSTRUIU DENTRO DA IDEIA COM O RESTO PODRE DELE MESMO" [⚠️⚠️ a formulação completa]; "Brama não tem alma... Ele foi criado a partir do corpo manásico e lúdico... corpo de plasma" [a Q&A]; O SONO: "ele entra em coma... passa milhões de anos desfalecido... quando volta é um novo Brama que surge e esse universo entra em festa"; OS 5000 TEMPLOS: "há 5000 anos atrás, quando Brama, Vishnu e Chiva produziram KRISHNA, BRAMA TINHA 5000 TEMPLOS QUE O ADORAVAM NA ÍNDIA. Só que Krishna quando surgiu disse: 'EU SOU MAIS PODEROSO QUE VOCÊS TRÊS E VOCÊS TÊM QUE ME LOUVAR E SEREM MEUS DEVOTOS.' Então KRISHNA FOI TOMANDO TODOS OS TEMPLOS DE BRAMA... O JAVÉ FICOU [P...] DA VIDA COM KRISHNA E MANDOU JESUS" [⚠️ a guerra dos templos]; a [Awayen] "nunca funcionou direito"; "depois que Brama tomou esse amrita, aí ELE SE SENTIU CHIQUE"; o Para Brajna planejador: "o nosso universo, ele foi planejado por um ser chamado PARABRAJNA ou PRAJAPATI, que antes dele cair... A SUA INTENÇÃO ERA CRIAR UM MODELO DE REPLICAÇÃO VIA O ÁTOMO DE HIDROGÊNIO... O CRIADOR IMAGINOU ISSO, CAIU NA PRÓPRIA IDEIA, ELE APENAS NÃO FINALIZOU O PROJETO. Então, o nosso universo... foi planejado, MAS NÃO FOI FINALIZADO" [⚠️⚠️ o projeto do átomo de hidrogênio não finalizado].
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · O ANJO CLONE, A PORRADA E O NASCIMENTO DA DESCENDÊNCIA DEMONÍACA]** "Os demônios quando Shiva, aliás, um anjo clone deu uma porrada em Brama e Brama devolveu a porrada nesse anjo clone." (U0033)
+- **[P2023-10-14 · A AUTODECLARAÇÃO DE PUREZA DOS DEUSES]** "Nós somos limpos." (U0033); "Os humanos surgiam do barro e dos restosos." (U0033)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 5, 16 | pp. 14–17, 32–36, 113–119 | obra primária (fonte principal) |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 126 (aprox.) | verbete "Brahma" (secundária) |
+
 
 ## Citações-chave
 > "Na Revelação Cósmica, Brahma é o 'Criador caído, apodrecido e adoentado'. Em Perpérion (na Espiritualidade Laboratorial), antes de 'cair' em sua criação, ele era Brajna, em sua condição Adhyatman." — B031, verbete "Brahma"

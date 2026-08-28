@@ -58,12 +58,21 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **[P2021-05-15 · OS DOIS FOXP2 (Q&A U0006)]** "Eh, o gene da cognição Fox P2 dos descendentes de Anunax é diferente dos descendentes de Pandora?" (U0006); "É um mesmo genoma, porque para pertencer a espécie humana tem que ser o genoma humano, mas áreas desse genoma, a chamada HR1, HR2, HR, são diversas áreas, né?" (U0006)
 - **[P2021-05-15 · O PAR ADÃO/ADAPA COMO DIAGNÓSTICO DO PRESENTE]** "Então, tá se estudando de tudo, mas assim, o que importa pra gente, o objetivo dessa palestra foi só mostrar esse pano de fundo, deixar claro que o adapa em que ano ainda é um padrão de genética que está presente." (U0005) — ⚠️ T-11: a fonte põe Adão e Adapa juntos na janela de ~49.000 anos; a base selou Pandora ~49.000 × Eva/Adão ~22-23.000 [P2025-02-22]. Selar, **não fundir**.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · O MARCADOR GENÉTICO UNIFORMIZADO DA CONDIÇÃO HUMANA]** "Se qualquer exame de sangue for feito em qualquer ser humano, há um marcador genético, antiquís, que corresponde a um a uma marca uniformizada na condição humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolutiva]:** o bruto grafa «Enk» e «Henk»; **a mesma grafia «Henk» designa também o chefe da nave dos 50**. O Curador **recusou a unificação** a RC-486: manter a leitura dupla (livro de Enki × livro do emissário Henk).
+- **[P2023-10-14 · A DESTINAÇÃO: O DNA DE ENKI, JAMAIS O DE PANDORA]** "O tipo de ser humano a surgir na natureza terrestre era o produzido pela interferência do DNA de Enk, jamais o de Pandora." (U0033)
+- **[P2023-10-14 · O CRITÉRIO DO JULGAMENTO GENÉTICO]** "Quais Os que ele iria reaproveitar, os que estivessem aliados com os padrões do genoma de Enk." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

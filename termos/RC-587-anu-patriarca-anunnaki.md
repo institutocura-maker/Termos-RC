@@ -38,11 +38,20 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 - **[P2021-05-15 · A ENDOGAMIA ANUNNAKI ATRIBUÍDA A ANU]** "E foi quando o próprio Zeus começou a transar loucamente com tudo que se movimentava que ele queria ter uma descendência com aquilo para dar continuidade à sua genética no meio daquela história, já que o Zanuna defendiu a tese, por isso Anu, como avô transou com Inana, sua neta, para poder dar uma descendência de um de uma posição genética que eles acham importante." (U0003)
 - **[P2021-05-15 · O PONTO CEGO: A DESCENDÊNCIA DOS DOIS FILHOS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · O SELO DE ANU NA CARTA DE GAUZU (material inédito para a ficha)]** "E Gauzu entrega a Enque e a Enlil uma carta de recomendação com o selo de Anu." (U0005); "É, mas eu não conheço nemum o Gauzu." (U0005) — ⭐⭐ A cena do emissor desconhecido — o selo autêntico e a assinatura não reconhecida — não consta das fontes atuais da Base.
+- **[P2023-10-14 · ANU E O CONSELHO DOS SETE DIANTE DA INVASÃO]** "E Anu e o conselho dos sete ainda valiam os efeitos colaterais que a invasão na parte das forças do universo vizinho poderá provocar." (U0046)
+- **[P2023-10-14 · A EXPECTATIVA DE UMA DECISÃO QUE NÃO CHEGA]** "Então, quem vive lá em Nibiro, e tem gente viva, eles estão esperando uma decisão de Anu, que por sua vez está vinculada de Henk, em Lu, Narsag e de seus filhos que ainda estão vivos." (U0020) — [REVISAR: «Henk» — item 2 da devolutiva (leitura dupla documentada; não unificar a Enki).]
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0820; U0836–U0839 | transcrição automatizada; paráfrase e citação |
+
 
 
 ## Citações-chave

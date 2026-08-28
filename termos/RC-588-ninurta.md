@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Anunnaki relacionado à localização e ao uso das sete armas atômicas no conflito entre os clãs de Enki e Enlil.
@@ -22,10 +22,17 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 
 - **[P2022-12-17 — FONTE ORIGINAL] Ninurta (U0850–U0860):** filho de Enki/Enlil; sabia onde estavam as sete armas atômicas vindas de Nibiru; envolvido na guerra nuclear contra Marduk.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · NINURTA E A RECUSA DA CHEFIA]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018) — ⚠️ A grafia «Eli» para Enlil é do STT; o par Marduk–Ninurta é o da fonte, não uma dedução.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Marduk e Ninurta [...] sabiam onde estavam [as sete armas].”” — P2022-12-17, U0819–U0821

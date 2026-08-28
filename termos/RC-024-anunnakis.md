@@ -82,12 +82,26 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2021-05-15 · A INEFICIÊNCIA COMO CAUSA DA HERANÇA HUMANA]** "Os humanos herdaram a porcaria dessa criação." (U0003)
 - **[P2021-05-15 · OS ANUNNAKI EM MARTE, NA LUA E NAS NAVES DOS SIRIANOS]** "O fato é que na Terra, desculpa, os sirianos, Júpiter, Saturno e os Anunax terminaram também ocupando Marte e Lua." (U0003) — ⚠️ quarentena ufológica.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A HONRA COMO PROPRIEDADE DE ESPÉCIE — e só duas espécies na Terra a teriam]** "Então, seja lá que número for, só duas tem noção de honra." (U0020); "Ou seja, duas não irão nos destruir nunca." (U0020); "Só duas, anunx e sirianos." (U0020) — ⚠️ O **próprio autor suspende** o segundo termo logo em seguida («Que diabos é sirianos? Vamos deixar para lá»): nenhuma ficha de sirianos recebe este uso.
+- **[P2023-10-14 · DEFINIÇÃO OPERACIONAL DE «HONRA» NESTA FONTE]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020) — A Base não tem termo com a palavra «honra» no nome (77 ocorrências no bruto) — decisão D-1 do Curador: sem código novo; verbete no Apêndice do dicionário STT da apostila.
+- **[P2023-10-14 · HONRA, DECÊNCIA E A AUSÊNCIA DE HERANÇA MORAL]** "Honra não é para todo mundo." (U0041); "E de repente a coisa desandou." (U0020)
+- **[P2023-10-14 · PODERES CIRCUNSTANCIAIS ≠ PODER DE DOMINAÇÃO (a fórmula de segurança da fonte)]** "E como eu disse no início da palestra, eles têm poderes circunstanciais, mas não tem poder de dominação." (U0081) — ⚠️ **Obrigatória em todo uso desta fonte**: desarma a leitura apocalíptica do bloco ufológico.
+- **[P2023-10-14 · A CONVERSABILIDADE COMO CRITÉRIO DE PARCERIA]** "Os anunacos, pelo menos conversam com os humanos." (U0030)
+- **[P2023-10-14 · A GENÉTICA DE OBEDIÊNCIA: O MODELO DA DOMESTICAÇÃO (linha que a leitura inicial tinha «lembrado» ao contrário)]** "Ou seja, como se a gente pegasse vaca, cachorro, gato, cavalo e mexesse na genética deles para que eles aprendessem a obedecer as nossas ordens." (U0005) — ⭐ A fórmula real da fonte é a da **genética de obediência como método aplicado a animais**, e não uma sentença sobre «escravidão de filhos» — a formulação lembrada na leitura inicial **não existe** no bruto e foi substituída por esta aspa (U0005).
+- **[P2023-10-14 · O POVO ESPÉCIE E O REACENDIMENTO (o título explicado pela fonte)]** "Nós precisamos reacender a honra dos anunax." (U0072); "Por isso que eu coloquei o nome da palestra de da esquecida honra dos anunac." (U0072) — ⚠️ Fato de catálogo: a fonte registra **três** títulos (o do arquivo, «a honra esquecida dos anunx» e «a honra perdida dos anunx» nos arquivos do autor).
+- **[P2023-10-14 · O DOMÍNIO QUE NÃO SE CONQUISTOU, SE PERDEU]** "Então, compreendam que os anunx também se acham don dos humanos." (U0005); "E eles não têm a opção D." (U0020) — [REVISAR: «a opção D» — sigla não decifrada na fonte; não conjeturar.]
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da história anunnaki (Nibiru/Anu/Enki/Enlil/Ninmah/Igigi) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

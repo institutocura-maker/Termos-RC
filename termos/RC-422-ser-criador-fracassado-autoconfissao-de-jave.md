@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A **autoconfissão de Javé** como "Ser-Criador fracassado" — o conceito central das *Memórias de Javé* (B036): a Primeira Crônica registra o humano (Ellam) acusando o Criador: "Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto **Ser-Criador fracassado** de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos". Javé admite: "Preciso viver e, vida, agora, para mim, é avaliar o modo como existo, uma vez que minha forma a isso me obriga, pois tenho que redimensioná-la."
@@ -30,10 +30,19 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 - **[B037 p. 51–52]** cap. 7: Ellam confronta o Criador com «transtorno de personalidade» e «cientista amalucado»; Javé recusa o respeito e afirma a «férrea» disciplina. **Quarentena clínica** (leitura / confronto atribuído, jamais diagnóstico).
 - **[B037 p. 83]** Brahma: «uma vez você disse-me que eu parecia um “ser em delírio”»; «isso não significa que eu esteja a “delirar”»; admite já não dominar o processo. Sem fusão com B036.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A AUTOCONFISSÃO DO CRIADOR FRACASSADO, EM 2023 (anterioridade)]** "Mas assim, o julgador, o juiz faliu, colapsou." (U0033); "Afinal, o criador de todas as coisas não está mais no comando." (U0047) — 🆕 anterioridade: P2024-11-09
+- **[P2023-10-14 · A VARIANTE DITADA PELA FONTE (D-8a: variante, não substituição)]** "Por o bem não destrói o mal sob pena de se tornar igual a ele." (U0071); "O bem perde sempre para continuar sendo bem, senão ele se desconfigura." (U0071) — ⚠️ A redação canônica da Base fica **intocada** (decisão D-8a do Curador): o que se registra aqui é a **variante oral de 14/10/2023**.
+- **[P2023-10-14 · A AUSÊNCIA DE REPRESENTAÇÃO DO BEM]** "Nada que existe na Terra representa o bem, a não ser uma pessoa que o produza." (U0071)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | As Memórias de Javé (B036) | Primeira Crônica | pp. 10–15 (aprox.) | autoconfissão |
+
 
 ## Citações-chave
 > "Foi a inconsequente roda de gerar vida que inventaste, que forçou muitos de nós a assumir personagens, para fazer valer a sua desdita enquanto Ser-Criador fracassado de uma Obra que, se um dia pensada como um paraíso, transformou-se no inferno existencial de tantos." — B036, Primeira Crônica (fala de Ellam a Javé)

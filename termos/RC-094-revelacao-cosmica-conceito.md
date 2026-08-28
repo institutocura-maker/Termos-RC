@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 É o **conjunto de revelações** transmitidas por **Jan Val Ellam** sobre a origem do nosso universo, em que se misturam mitologias, espiritualidade, cosmologia, ufologia e física quântica. Seu tema central é a máxima de que **houve um erro no momento da criação** e o Criador "caiu" dentro dela, gerando **dois universos paralelos**: o nosso e um universo antimaterial vizinho. Remonta a nossa história de **13,7 bilhões de anos**, reconstituindo os fatos sob a ótica dos contextos espiritual, biológico material (terreno e extraterreno) e extrafísico antimaterial (B031).
@@ -51,11 +51,18 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[B005 p. 118]** Posfácio (voz de Ellam): os mentores pediram que desenvolvesse estudos próprios, «de forma semelhante» ao que fizera em *Muito Além do Horizonte*; nasceu então o «compêndio» sobre a temática extraterrena. Remissão a B009 — **não fundir**. **Quarentena mediúnica.**
 - **[B005 p. 113]** cap. 12 (gloss do «escrevente» sobre Enoch): «primeiras etapas da Revelação Cósmica». **Quarentena teológica.** Interpretação do Apocalipse das Semanas = leitura do autor, não exegese. Qumran **fora**. Sem fusão com B003 / B031 / B011. Fonte **B005** já constava na tabela-mestra.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · OS POSTULADOS DA REVELAÇÃO CÓSMICA COMO ÚNICA VIA DE COMPREENSÃO]** "Os anunx estão tomando o seu nível de estão tornando, desculpa, o seu nível de compreensão mais razoável sobre o universo vizinho e seus habitantes através dos postulados da revelação cósmica." (U0036)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Revelação Cósmica" |
 | Painéis Emergentes... (B031) | Introdução (O que é a Revelação Cósmica) | — | capítulo do livro |
+
 
 ## Citações-chave
 > "É o conjunto de revelações que estão sendo passadas por Jan Val Ellam sobre a origem do nosso universo, onde se misturam as páginas das mitologias, espiritualidade, cosmologia, ufologia e física quântica. Seu tema central baseia-se na máxima de que houve um erro no momento da criação e o Criador teria 'caído' dentro da mesma, gerando dois universos paralelos." — B031, verbete "Revelação Cósmica"

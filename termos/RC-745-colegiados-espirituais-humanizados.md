@@ -66,3 +66,10 @@
 - **[P2021-05-15 · A TURMA QUE SE POUPOU DE ENCARNAR]** "Mas já tem uma turma agora que tá defendendo que alguns algumas consciências humanizadas sobre a perspectiva espiritual realmente se poupem de encarnar, de encarnar não, de mergulhar nessa criação até que lá fora, com algum nível de consciência crítica contra solução pro para Javé, para Krishna, para e para ver o que que faz." (U0016) — ⚠️ quarentena biomediúnica — registro, não doutrina.
 
 ---
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · O ADJETIVO «DEMODÁRMICO» GANHA DEFINIÇÃO ORAL (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "Essa honra demodármica sempre se ancorou nas relações da linhagem, das linhagens genéticas." (U0020) — Decisão D-1 do Curador: nota transversal nesta ficha — o adjetivo já vivia aqui; a **honra** não vira código.
+- **[P2023-10-14 · O LEGADO MAL ENDEREÇADO]** "O conteúdo do legado que eles deixaram e nós humanos ficamos escutando essas palavras sem entender que no princípio isso foi criado para outro tipo de ser." (U0020)
+
+---

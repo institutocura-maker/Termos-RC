@@ -45,12 +45,20 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **[P2021-05-15 · A GRAFIA FUNDIDA NO STT («Enquenil»)]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003) — ⚠️ «Enquenil» = fusão de STT entre Enki e Enlil; a linha canônica separa os dois clãs. Não decodificar o nome do pai nem o do filho.
 - **[P2021-05-15 · O CLÃ NAS BOMBAS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · O LAMENTO DE ENLIL: PRISIONEIROS POR TEREM SE FEITO COMO OS TERRESTRES]** "Eli diz: «Antes os terrestres se estavam fazendo como nós.»" (U0036); "Agora nós nos temos feito como os terrestres para ficar prisioneiros deste planeta." (U0036); "Toda a missão se converteu em um pesadelo." (U0036) — ⭐⭐ A peça retórica mais citável do ciclo; grafia do bruto: «enque» para Enki, «Elio» para Enlil.
+- **[P2023-10-14 · A PROIBIÇÃO DE FALAR COM OS HUMANOS]** "Quando certas desgraças iam ter lugar, Enlisava os deuses, aos anunaques, mas o proibia os deuses de falarem com os humanos." (U0036)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

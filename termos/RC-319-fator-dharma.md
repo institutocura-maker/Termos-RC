@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O **dharma** como fator revelado em *O Dharma e as Castas Hindus* (B023, cap. 2): "talvez poucas expressões da atual linguagem humana 'escondam' — no seu significado e no contexto em que ela surgiu — tantos mistérios como é o caso de 'dharma'". Ellam desconfia que o dharma era o "painel mental" sobre o qual os **"Senhores do Dharma"** (os mesmos "Senhores da Lila", a Trimurti) se apoiavam para compor a interpretação das escrituras védicas — o que exige revê-las. A 4ª Constatação conecta o dharma à vida universal: a vida se aproveita dos "feitos" que cada consciência particularizada "esculpe nos elétrons".
@@ -25,10 +25,17 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 - **[B023 p. 15]** se o dharma fosse o «painel mental» sobre o qual os Senhores se apoiavam para interpretar as escrituras védicas, «essas precisavam ser revistas».
 - **[B023 p. 97]** na cultura «demodhármica», «a simples questão da aplicação ou não dos critérios do dharma como dever moral, definiria tudo»; karma = «não cumprimento do dharma». Bonder = **referência externa**. Sem materializar RC-322 / RC-075. Sem fusão com B024. Fonte **B023** já constava na tabela-mestra.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A TRÍADE VARNA–DHARMA–KARMA COMO PEDAGOGIA PARA HÍBRIDOS (anterioridade)]** "Então varma, dma e karma são três conceitos foram criados não para humanidade, mas para educar esses seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «varma, dma» são as grafias do bruto para varna/dharma.]
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | O Dharma e as Castas Hindus (B023) | cap. 2 (O Fator Dharma); cap. 9 | pp. 15–30, 100–115 (aprox.) | conceito central |
+
 
 ## Citações-chave
 > "Talvez poucas expressões da atual linguagem humana 'escondam' – no seu significado e no contexto em que ela surgiu – tantos mistérios como é o caso de 'dharma'... Desde que me defrontei com os intrigantes aspectos vindos da minha não menos enigmática convivência com seres que se apresentavam como 'Senhores do Dharma' – os mesmos autoaclamados 'Senhores da Lila', da Trimurti hindu – comecei a... desconfiar." — B023, cap. 2

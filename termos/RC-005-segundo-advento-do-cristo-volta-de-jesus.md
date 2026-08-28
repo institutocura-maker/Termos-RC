@@ -140,12 +140,21 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 
 - **[P2021-05-15 · A VINDA COMO ASSUNÇÃO DA POSSE (e a ausência de garantia)]** "Eh, o que leva a próxima pergunta que tem a ver com a sua resposta é: considerando que sempre esses seres têm tido dificuldades em pr seus planos em prática quando e quando o fazase não atinge seus objetivos?" (U0015)
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A VOLTA COMO QUESTÃO DE HONRA, NÃO DE PODER]** "Voltar não, vai ter que que vir aqui e se apresentar, cumprir os termos da palavra que ele expressou através do apocalipse, quando ali ele disse: «Eu, Sofia, vou cumprir as promessas que o meu eu humano fez enquanto Jesus»." (U0035); "É uma questão de honra." (U0035)
+- **[P2023-10-14 · O HEDGE TRIPLO QUE FECHA A PROFECIA]** "Vai acontecer se não matar ele." (U0035); "É conveniente que a gente não espere, ainda que ele venha, mas também não muda nada." (U0036) — ⭐⭐ A fonte **mantém** a promessa e **recomenda não esperá-la**: registrar o par, sem escolher um dos lados.
+- **[P2023-10-14 · A CONDIÇÃO CELESTE DA VOLTA]** "E Jesus marcou o ponto em que esse encontro ou em que a resolução disso seria comunicada como quando ele disse que no futuro ele Jesus voltaria se ele foi crucificado como um b****** humilhado, maltratado, mas ele voltaria no futuro, não nascendo como um simples homem, mas na sua condição celeste, de autoridade celeste, ou seja, como Maulf, como Roque Ma Sofia, cercado por suas hortes angelicais." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

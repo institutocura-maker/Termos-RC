@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
@@ -59,8 +59,16 @@ Forma preferida: Metatron.
 - **[P2024-11-03 — eco] O PODER DADO A ENOQUE]** "ele pegou Enoque, que foi o sétimo dessa relação, levou Enoque, DEU PODER A ENOQUE... porque ele queria usar Enoque de vez em quando PARA APARECER PROS HUMANOS, dizendo: 'eu sou o escolhido de Jah'" (ver RC-489 — a tecnologia e os 366 livros).
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · METATRON = FORMA ANTIMATERIAL DE ENOQUE, **COM PRAZO**]** "Enoque morreu, ficou a figura de Metatron, que é a forma antimaterial de Enoque, mas que funcionou só durante um tempo." (U0085) — ⭐⭐⭐ A limitação temporal da função não consta das fontes anteriores da Base → ampliação de conteúdo.
+- **[P2023-10-14 · A PREPARAÇÃO DOS POUCOS DESPERTOS]** "E ele foi quem terminou de fazer essa preparação aqui em termos de explicar os anjos de Jaavé, os poucos despertos que tinham aquela situação." (U0085)
+
 ## Fontes
 P2025-05-31.
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+
 
 ## Citações-chave
 Ver transcrição.

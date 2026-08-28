@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A "rebelião dos elétrons" é o **movimento inconsciente de rebelião íntima no âmbito dos elétrons** (B041, cap. 17) — e, segundo o cap. 22, **"foi e é o único padrão modificador do Código de Vida Pessoal do Criador (CFDP)"**, daí o título do livro. Para Javé, "o sentido que damos à 'rebelião dos elétrons' significa exatamente a sua rendição psíquica, cuja implicação é a de 'abrir mão' da gestão dos 'pedaços desagregados de si mesmo', ou seja, dos elétrons e dos antielétrons". Em vez de Javé comandar os elétrons (suas partes desagregadas), **eles atuarão sobre ele**, comandados pelas mentes das "criaturas-ferramentas" — "a única maneira possível deles ajudarem o Criador 'caído'".
@@ -51,11 +51,18 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[P2023-06-24 · A QUEDA DA PROCREAÇÃO — quarentena clínica estrita (retenção)]** "começa a surgir uma série de fatores para que não haja sexo procriador... **na base disso são os elétrons tentando modificar a lógica da mente que criou esses sistemas**... Brás Cubas [STT 'Cubers/Brcubber']: 'eu não tive filhos, não quis passar essa vergonha, essa ignomínia, esse código podre para ninguém'" [a homoafetividade como mecanismo dos elétrons = LEITURA DO AUTOR; jamais fato sociológico/biomédico].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A OBRA CITADA NOMINALMENTE EM PALESTRA, EM 2023]** "E só entende isso quem entendeu que tá escrito no livro Rebelião dos Elétrons." (U0033)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Rebelião dos Elétrons (B041) | caps. 17, 21, 22 | pp. 130–150, 165–184 (aprox.) | tema-título |
 | A Epopeia dos Agentes da Vida (B024) | cap. 13 (Mistério dos Elétrons) | — | apoio |
+
 
 ## Citações-chave
 > "A 'rebelião dos elétrons' foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro. A 'rebelião dos elétrons' é a única maneira possível deles ajudarem o Criador 'caído', pois em vez de Javé comandar os elétrons – que são suas partes desagregadas –, eles atuarão sobre ele, só que comandados pelas mentes das 'criaturas-ferramentas' geradas para esse fim." — B041, cap. 22

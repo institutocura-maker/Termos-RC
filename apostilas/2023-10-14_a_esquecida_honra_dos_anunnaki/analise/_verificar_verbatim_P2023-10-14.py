@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""AUDITORIA VERBATIM v2 — P2021-05-15.
+"""AUDITORIA VERBATIM v2 — P2023-10-14 (portões herdadas do ciclo-espelho P2021-05-15, código idêntico).
 
 Dois portões, ambos obrigatórios:
 

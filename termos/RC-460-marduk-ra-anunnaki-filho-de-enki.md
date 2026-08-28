@@ -27,12 +27,20 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 
 - **[P2021-05-15 · «MARDUR» NA BRIGA QUE GEROU AS BOMBAS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003) — ⚠️ Divergência SEM FUSÃO: a base descreve a guerra como disputa «pelo controle de terras raras» [P2022-12-17]; aqui é narrada como briga de clãs, sem menção a terras raras. Selar as duas leituras.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · MARDUK, A VEZ DELE E AS CIDADES SIMPÁTICAS]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018); "Tem lá o vale do Sidim, um pouco mais abaixo, onde existia cidade de Sodoma e Gomorra e essas cidades eram simpáticas a Marduk." (U0018)
+- **[P2023-10-14 · O REI QUE NÃO CHEGOU A REINAR: NERGAL E NINURTA]** "eergal e no lurtte." (U0018); "Isso tá descrito nos livros animais." (U0018) — [TEXTO CORROMPIDO: «eergal e no lurtte» ≈ Nergal e Ninurta; «livros animais» ≈ livros annunaki — [REVISAR], não decodificar.]
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco Rá/Amon/corpo manásico; bloco da Enéade | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

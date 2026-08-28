@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -66,11 +66,20 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **[P2024-11-03 · A INVERSÃO DE CAIM E ABEL]** "Aí quando o nosso amigo BRAHMA percebeu que tinha usado A ÚLTIMA FÓRMULA DE PODER DELE EM ADÃO... Aí O PRIMEIRO SER QUE NASCE DISSO NÃO FOI CAIM, FOI ABEL E NASCEU AFEFINADO. Aí JAVÉ FOI À LOUCURA porque na lógica de então NEM ERA UMA COISA NEM OUTRA. E JAVÉ NÃO QUER... ENCHER O SACO DE CAIM PARA CAIM TER UMA RAIVA DE ABEL, MATAR ABEL, PORQUE ELE, JAVÉ, NÃO MATA NINGUÉM. ELE É SANTO, PURO, HONESTO E JUSTO, **MAS ELE ENVOLVE ALGUÉM PARA CONVENCER ALGUÉM PARA MATAR**... O COITADO DO CAIM... NA HISTÓRIA... ele colocou Caim [como culpado]... MAS NÃO FOI ABEL [o escolhido]. AÍ, O IRMÃO DOS DOIS, NASCEU" [Sete — a linhagem correta] [⚠️⚠️⚠️ a inversão da narrativa do Gênese: Abel o primogênito; a manipulação de Javé; quarentena teológica].
 - 0 códigos novos (O-3 — a Devolutiva). Quarentenas: teológica (a inversão de Caim/Abel; Javé o manipulador) + histórica (a leitura do Gênese).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · ENOQUE TRADUZIDO EM REGISTRO TÉCNICO-ORAL: «DENTRO DE UM MACACÃO»]** "Enoque foi um deles, mas Eno foi dentro de um macacão e ainda assim morreu porque não conseguiu ficar muito tempo lá." (U0041) — ⭐⭐ Nenhuma fonte anterior da Base contém esse detalhe (a travessia com traje).
+- **[P2023-10-14 · A EMBAIXADA E A AGENDA]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033)
+- **[P2023-10-14 · A ÁRVORE CRIADA POR ELE]** "É uma representação que Enoque, um humano, criou." (U0085)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

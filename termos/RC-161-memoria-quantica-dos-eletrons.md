@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Capacidade **misteriosa e exclusiva dos elétrons** (que as demais micropartículas não possuem) de **"marcar" em si mesmos tudo o que vivenciam** — uma espécie de memória quântica (B024, cap. 13). O elétron é o **único agente que existe desde o primeiro momento da Criação** e existirá até não mais existirem elementos químicos. Os elétrons absorvem absolutamente tudo o que experienciam, trocando informações com seus "irmãos gêmeos-parceiros" do **emaranhamento quântico**. Quando um corpo morre, seus elétrons não morrem — voltam à condição de "unidade" levando gravado tudo o que vivenciaram, passando de um ser para outro (cap. 14).
@@ -67,11 +67,19 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[P2023-06-24 · A PREFERÊNCIA PELA PLANTA]** "se os elétrons se rebelarem feio, **todos elétrons vão querer só ser PLANTA**, com vergonha e nojo das marcações que eles têm quando tem que ser jacaré, tigre, aranha... predador... necrófago... 'Putz, aqui, ó'" — e o inverso da consciência: "os elétrons vão todos querer ser plantas ao invés de seres humanos, **porque seres humanos têm consciência, planta não tem**."
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A MEMÓRIA QUÂNTICA COMO IMPEDIMENTO DO JUIZ]** "Os próprios fatos da obra de Javé marcado na memória quântica dos elétrons inviabilizaram a conduta de Javé como juiz." (U0033)
+- **[P2023-10-14 · O BURACO NEGRO DE MÃO ÚNICA (a física oral da fonte)]** "Então, buraco negro seria o que leva notícia, notícia daqui para lá, mas não traz notícia de lá para cá." (U0041); "Ao ser atraído pronto de evento de um buraco negro, aquela informação se transforma em 2D, entra no buraco negro e deixa de existir." (U0041) — ⭐⭐⭐ A «cópia da informação aqui se mantém» é o ponto de contato exato com a tese desta ficha; a grafia do bruto é «pronto de evento».
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 13 (Mistério dos Elétrons) | pp. 97–100 (aprox.) | capítulo inteiro |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 14 | pp. 101–104 | aprofundamento |
+
 
 ## Citações-chave
 > "Uma das suas faces mais misteriosas reside no fato do mesmo possuir uma capacidade de 'memória quântica', que as demais micropartículas formadoras do mundo material não possuem." — B024, cap. 13

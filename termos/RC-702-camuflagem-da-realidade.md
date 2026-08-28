@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Sistema perceptivo, neuronal, cultural e psíquico que faz o humano tomar uma faixa limitada da realidade como totalidade, ocultando níveis quânticos, espirituais e cósmicos.
@@ -63,11 +63,18 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 - **[P2023-04-29 · A MATRIX DUPLA E O TERRENO DA REALIDADE]** "QUEM TÁ AQUI DENTRO TÁ DENTRO DE UMA MATRIX. QUEM TÁ LÁ FORA TÁ FORA DA MATRIX... como a primeira vida surgiu nesse universo improvisado e o código de vida que foi mandado de cá para lá foi que criou a vida biológica, **ISSO AQUI PASSOU A SER UMA ESPÉCIE DE REALIDADE ÂNCORA, E AQUI UMA OUTRA MATRIZ DENTRO DA MATRIX. Então nós vivemos nesse universo biológico, estamos numa matriz... QUEM TÁ NESSE UNIVERSO VIZINHO TENTA NOS CONTROLAR ATRAVÉS DOS CAMPOS MÓRFICOS DE CADA ESPÉCIE**"; os espíritos: "os espíritos [chiques] da gente estão lá fora, ou alguns foram atraídos e tiveram que ficar aqui dentro — PRESOS A NÚCLEOS DE ERRATICIDADE... o pior é que nem nessas cidades espirituais consegue ficar e é obrigado a ficar SOBREPOSTO AO SEU CORPO FÍSICO... o espírito que já perdeu a noção de que é um espírito... feito um fantasminha no corpo de Rogério, E PENSA QUE É ROGÉRIO" [RC-557]; o terraplanismo: "Aristóteles... [ERATÓSTENES] em Alexandria calculou a circunferência da superfície da Terra: 40.000 km. Hoje, com a ciência que a gente tem, mediu: 39.900... TEM GENTE HOJE QUE AINDA NÃO SABE QUE [A TERRA] É REDONDA... O ÓBVIO NÃO É MAIS ÓBVIO"; "A FÁBRICA DE CRETINOS DIGITAIS" [o livro de Michel Desmurget — STT]: "as últimas gerações que nasceram na Terra SÃO MAIS BURRAS QUE A DOS SEUS PAIS, COISA QUE JAMAIS TINHA EXISTIDO ANTES NA HISTÓRIA HUMANA".
 - 0 códigos novos (O-3). Quarentenas: científica, clínica (o rótulo).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A CAMUFLAGEM COMO CONDIÇÃO DO AFFETO (uso novo, não anterioridade)]** "Então, o nosso olho é estado para um Zoom para que a camuflagem da realidade nos faça pensar isso." (U0033); "Se a gente abrir o corpo de um ser humano ou de qualquer ser vivo dentro Tudo é podridão, só que bem organizada, funcionando maravilhosamente." (U0033) — As fontes desta ficha já são anteriores a 14/10/2023: entra **uso novo**, sem nota de anterioridade.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0001–U0018; U0074–U0200; U1210–U1320; U1689–U1699 | aula/palestra STT |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
+
 
 ## Citações-chave
 > “Nós somos peixes que só conseguimos ver o aquário em que vivemos, só que o vidro está camuflado.”

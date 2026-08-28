@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Classe de Anunnakis de menor escalão apresentada, na palestra, como rebelde e envolvida em cruzamentos com seres humanos.
@@ -27,10 +27,18 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 
 - **[P2022-12-17 — FONTE ORIGINAL] Os Igigi (U0750–U0760):** "os Anunnakis rebeldes desobedeceram, Enki e Anu, desobedeceram todo mundo e resolveram transar com seres humanos, ou seja, com mulheres. E também Anunnakis fêmeas transaram com humanos machos"; "uma certa classe de Anunnaki chamada Igigi fez isso e a vida na Terra tornou-se muito complicada"; "esses filhos híbridos de Anunnakis com seres humanos criaram problemas pros interesses da Trimurti, pros interesses de Zeus... uma confusão que só acabou com as explosões de Sodoma e Gomorra".
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A REVOLTA DOS IGIGI, DATADA POR ESTA FONTE]** "Decorridos 360, 360.000 anos depois da chegada de Alalu, uma um certo tipo de anunque chamado Igii veio pra Terra para trabalhar como sendo os mineradores." (U0005)
+- **[P2023-10-14 · A ESCASSEZ DE MÃO DE OBRA COMO CAUSA DA FABRICAÇÃO]** "Então, poucos anulacques, por mais que chegasse, sempre eram poucos para a quantidade de trabalhos 300.000 anos, 200.000 anos, 100.000 anos e em que uma irmã dele chamada Narsc e um outro irmão chamado Eno que já tinha vindo depois dele." (U0005)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0707–U0723 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Uma certa classe de Anunnaki chamada Igigi fez isso.”” — P2022-12-17, U0707–U0723

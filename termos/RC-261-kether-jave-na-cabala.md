@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Kether** é o nome pelo qual o **Criador (Javé/Brahma)** é designado na Cabala — a "Coroa" da Árvore da Vida, o Criador referido no subtítulo de B013: "a Criação (Daath), o Criador (Kether/Javé)". Na correspondência cabalística das RC, **Kether = Javé = Brahma**, residente no nível **Yetzirah** da Cabala (o Brahmaloka): "o universo antimaterial, paralelo e vizinho ao que vivemos, no qual reside o Criador 'caído' Kether, também chamado de 'Javé' e de 'Brahma'" (B013, cap. 6).
@@ -38,10 +38,18 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 - **[B013 p. 146]** Kether/Javé teria tentado repassar “as informações sobre o seu ‘problema’, para que a lógica humana pudesse construir a sua visão quanto ao ocorrido.”
 - **Quarentena teológica.** Fonte B013 já estava na tabela-mestra; este bloco só fecha o rastreio de páginas.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · JAVÉ = KETHER, AFIRMADO EM FALA (anterioridade)]** "Então, Javé é que ter, é, a primeira que foi reconstruída aqui dentro." (U0085); "Então ele foi organizou uma árvore da vida dizendo: «Olha, o principal aqui entre vocês que vocês consideram é keter.»" (U0085) — 🆕 anterioridade: P2024-07-14
+- **[P2023-10-14 · AS NOVE RESTANTES RECONSTRUÍDAS NA MATRIX]** "As outras nove são outras nove personif." (U0085)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Tzimtzum (B013) | caps. 1, 6, 11 | pp. 13, 75–85, 130–140 (aprox.) | termo central |
+
 
 ## Citações-chave
 > "Yetzirah: o 'Universo da Formação e dos Anjos', ou seja, o que tenho chamado, a exemplo do que fizeram os 'rishis' pré-védicos, de 'Brahmaloka', ou seja, o universo antimaterial, paralelo e vizinho ao que vivemos, no qual reside o Criador 'caído' Kether, também chamado de 'Javé' e de 'Brahma'." — B013, cap. 6

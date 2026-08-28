@@ -5,7 +5,7 @@
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.2 Hebraico / Cabala |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-19 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -118,11 +118,19 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **[P2025-02-22 · O EPÍTETO E A BIOGRAFIA TÉCNICA]** "o nome [HOCHMAH] hebraico foi chamado de SOPHIA. NÃO É NOME, É EPÍTETO. Porque quando essa história foi contada em grego, o nome [Hochmah] hebraico foi chamado de Sophia" [⚠️ a explicitação da tradução]; A GÊNESE NO FORNO DE VISHNU: "esse ser que a gente chama de Sofia, ELE SURGIU A PARTIR DE VISHNU NO FORNO DE REPLICAÇÃO DE VISHNU [AWAYMAION]... A CERCA DE 5,7 BILHÕES DE ANOS... A PARTIR DE UM CASULO... E SOFIA SURGIU DE LINHAGEM DE MORRENÇO E VISHNU, OU SEJA, NÃO ERA DE BRAMA NEM DE CHIVA" [⚠️ a linhagem explícita]; a limitação: "na época, ele era o ser mais avançado do universo vizinho e desse. HOJE... TOTALMENTE ULTRAPASSADO"; o cérebro radiato e as peças de reposição (ver RC-009); "Sofia, através do processo de decifrar a realidade, de perceber incongruências..." [o método do suzerano]; a ordem de Javé: "'Sofia, nós estamos todos recebendo ordem de Javé... VOCÊ VAI TER QUE SE FAZER HUMANO, PORQUE SHIVA JÁ ESTÁ DOMINANDO A HUMANIDADE'" [⚠️ a Razão da encarnação de Jesus]; "Sofia ficou IMOBILIZADO em termos de poder agir. CEDEU DE SI A SUA ASSINATURA QUÂNTICA GENÔMICA" (RC-072).
 - 0 códigos novos (O-3). Quarentenas: teológica (a inseminação: "inocular algo numa menina de 15 anos é de uma violência sem tamanho... nós humanos transformamos tudo isso em sagrado. NÓS FOMOS OBRIGADOS A TOMAR O ABSURDO COMO SENDO ALGO MARAVILHOSO").
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · A TESE DATADA DA FUSÃO DE EPÍTETOS (D-7: tese da fonte, não estrutura da ficha)]** "Esse cara é o pai de Jesus, tá pessoal?" (U0033); "É o Rockman em hebraico, Sofia em grego." (U0033) — ⚠️ Item 6 da devolutiva: a fusão **não** entra na estrutura das fichas; vive aqui como **tese datada** (com RC-682) e no aparato da apostila.
+- **[P2023-10-14 · A GRAFIA DO STT PARA A 2ª SEFIRAH]** "Aí tem Shockma e biná." (U0085) — [REVISAR: «Shockma» = Hochmah (canônico da Base); grafia preservada na citação.]
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

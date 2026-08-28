@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -117,11 +117,19 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[P2023-04-30 · A CRÍTICA — o veredito]** "eu não posso confiar num deus que quer ser louvado o tempo todo [Nietzsche]... ELE TINHA TUDO. TODOS OS PODERES CRIADOS ATÉ HOJE. NÃO TINHA DIGNIDADE... KRISHNA TEM QUE SE FAZER HUMANO — SEM CÓDIGO DEMO NENHUM. E ISSO ELE NÃO ENTENDE"; "nós humanos somos capazes de compreender coisas que nem Krishna compreendeu, porque ele se limitava ao padrão da grandiosidade de si mesmo"; a devoção como meta final "É UMA MANEIRA DEMO DE PENSAR: pacifica o coração, MAS NÃO MODIFICA O DNA".
 - 0 códigos novos (O-3). Quarentenas: teológica (a luminosidade × Jesus), biomediúnica (Sai Baba/Prema Sai), científica (a reversibilidade genética).
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · KRISHNA COMO INTRODUTOR DECLARADO DO DHARMA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020); "Arjuna quando aqui estive comivaco lá atrás eu ensinei o, ensinei o conceito do dharma, ou seja, o conceito do dharma foi o que educou as gerações." (U0020)
+- **[P2023-10-14 · O BEM E O MAL NO CAMPO DE BATALHA (Arjuna)]** "Eles representam o mal e você aqui representa o bem e o bem tem que destruir o mal." (U0020) — ⚠️ registrar **como fala da fonte sobre o Gita**; não confundir com a fórmula canônica da Base sobre o bem que não destrói o mal (ver RC-422/RC-742).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco Krishna × Trimurti × Moros | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

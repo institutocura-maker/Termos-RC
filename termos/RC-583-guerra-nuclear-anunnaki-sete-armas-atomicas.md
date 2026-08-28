@@ -36,11 +36,20 @@ A guerra envolve Enki, Enlil, Marduk, Anu e Ninurta e teria provocado o enfraque
 - **[P2021-05-15 · OS ATORES COM A GRAFIA ORAL]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003) — [REVISAR].
 - **[P2021-05-15 · A MEMÓRIA DE UMA FALA ANTERIOR (radar de acervo)]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003) — «fonte não localizada» — Devolutiva O-8; não criar vínculo.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · AS CINCO BOMBAS RESTANTES E O VALE DO SIDIM]** "Tomam as cinco bombas restantes e soltam em cima das cidades do vale do Sidim." (U0018); "E essa história que eu tô contando a vocês, 7 anos depois da explosão dessas bombas, que se deu a cerca de 4.000 anos atrás, exatamente na mudança da era zodiacal, 7 anos depois em que volta a habitar um lugar aqui na Terra, não mais a cidade na Suméria, porque a radioatividade não deixava." (U0018) — ⚠️ Selar: a data das bombas **nesta fonte** é ~4.000 anos; os «2200 anos antes de Cristo» pertencem a outro evento (a vez de Marduque). Não fundir as duas cronologias.
+- **[P2023-10-14 · A GUERRA QUE OS TIROU DA TERRA]** "Os anx pararam de fazer jogadas, movimento brusco, desde que eles explodiram as bombas em cima Sodoma e Gomorra e mais as outras cidades do Vale do Sidim." (U0033)
+- **[P2023-10-14 · OS POUROS QUE FICARAM: A GUARDA BAIXA]** "nibiro, mas os anonax eles talvez aprecem chegada deles, porque assim, eh, são são essas decisões que estão sendo tomadas nesse tempo de vida da gente, mas como eu disse, eles não têm concentração de força suficiente aqui para dominar nada." (U0028)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0841 | transcrição automatizada; paráfrase e citação |
+
 
 
 ## Citações-chave

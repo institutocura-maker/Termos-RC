@@ -1,0 +1,290 @@
+# PACOTE DE AMPLIAÇÕES — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+# Gerado por _gerar_ampliacoes_P2023-10-14.py: toda citação foi extraída byte a byte do
+# `original.txt` a partir de âncoras — nada aqui foi digitado de memória.
+# Alterações mecânicas declaradas: (i) aspas duplas internas da fonte viram «…» (aspas_internas());
+# (ii) quebras de linha do bruto dentro da mesma frase viram espaço — nenhuma palavra é tocada.
+# 0 códigos novos (Devolutiva 28/08/2026: teto 777 inviolável; «honra» fica como termo-observação — D-1).
+# Nada dos blocos bloqueados (item 10) entra aqui; RC-396 e RC-672 estão fora por decisão/checagem.
+
+### RC-024
+- **[P2023-10-14 · A HONRA COMO PROPRIEDADE DE ESPÉCIE — e só duas espécies na Terra a teriam]** "Então, seja lá que número for, só duas tem noção de honra." (U0020); "Ou seja, duas não irão nos destruir nunca." (U0020); "Só duas, anunx e sirianos." (U0020) — ⚠️ O **próprio autor suspende** o segundo termo logo em seguida («Que diabos é sirianos? Vamos deixar para lá»): nenhuma ficha de sirianos recebe este uso.
+- **[P2023-10-14 · DEFINIÇÃO OPERACIONAL DE «HONRA» NESTA FONTE]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020) — A Base não tem termo com a palavra «honra» no nome (77 ocorrências no bruto) — decisão D-1 do Curador: sem código novo; verbete no Apêndice do dicionário STT da apostila.
+- **[P2023-10-14 · HONRA, DECÊNCIA E A AUSÊNCIA DE HERANÇA MORAL]** "Honra não é para todo mundo." (U0041); "E de repente a coisa desandou." (U0020)
+- **[P2023-10-14 · PODERES CIRCUNSTANCIAIS ≠ PODER DE DOMINAÇÃO (a fórmula de segurança da fonte)]** "E como eu disse no início da palestra, eles têm poderes circunstanciais, mas não tem poder de dominação." (U0081) — ⚠️ **Obrigatória em todo uso desta fonte**: desarma a leitura apocalíptica do bloco ufológico.
+- **[P2023-10-14 · A CONVERSABILIDADE COMO CRITÉRIO DE PARCERIA]** "Os anunacos, pelo menos conversam com os humanos." (U0030)
+- **[P2023-10-14 · A GENÉTICA DE OBEDIÊNCIA: O MODELO DA DOMESTICAÇÃO (linha que a leitura inicial tinha «lembrado» ao contrário)]** "Ou seja, como se a gente pegasse vaca, cachorro, gato, cavalo e mexesse na genética deles para que eles aprendessem a obedecer as nossas ordens." (U0005) — ⭐ A fórmula real da fonte é a da **genética de obediência como método aplicado a animais**, e não uma sentença sobre «escravidão de filhos» — a formulação lembrada na leitura inicial **não existe** no bruto e foi substituída por esta aspa (U0005).
+- **[P2023-10-14 · O POVO ESPÉCIE E O REACENDIMENTO (o título explicado pela fonte)]** "Nós precisamos reacender a honra dos anunax." (U0072); "Por isso que eu coloquei o nome da palestra de da esquecida honra dos anunac." (U0072) — ⚠️ Fato de catálogo: a fonte registra **três** títulos (o do arquivo, «a honra esquecida dos anunx» e «a honra perdida dos anunx» nos arquivos do autor).
+- **[P2023-10-14 · O DOMÍNIO QUE NÃO SE CONQUISTOU, SE PERDEU]** "Então, compreendam que os anunx também se acham don dos humanos." (U0005); "E eles não têm a opção D." (U0020) — [REVISAR: «a opção D» — sigla não decifrada na fonte; não conjeturar.]
+
+### RC-001
+- **[P2023-10-14 · O «INFERNNHO» E O CORPO COLAPSADO — a condição de Javé descrita sem eufemismo]** "Javé está numa inferninho dos dentos." (U0063); "Ele é um eu implodido num corpo colapsado que nunca morre porque os anjos dão choque o tempo todo, mantendo-o vivo." (U0064)
+- **[P2023-10-14 · O CRUPIER DONO DA BOLA]** "Por isso que Javé ficou chateado e disse: «Vou julgar também.» Javé é aquele dono, é um crupier, dono de um cassino, que quando as coisas estão dando errado para ele, ele diz: «Acabou o jogo, tá?»" (U0033)
+- **[P2023-10-14 · O PLANO NÃO FINALIZADO (a tese do universo planejado × improvisado)]** "Esse nosso foi todo planejado, só não foi finalizado porque o criador caiu na própria criação." (U0041)
+- **[P2023-10-14 · AS COISAS PODRES E O COLAPSO DATADO DE 2021]** "As coisas estão colapsando." (U0033); "As coisas podres." (U0033); "O corpo de Javé e o eu dele é só um dos exemplos de colapsos que estão ocorrendo." (U0033)
+- **[P2023-10-14 · A COVARDIA ATRIBUÍDA E A RETIRADA DE MÉRITO]** "Javé é um ser tão covarde que ele na Bíblia cita como se ele Javé tivesse tomado a decisão de destruir aquilo por cá quando era uma confusão que rolava entrando nox." (U0033) — ⚠️ quarentena teológica (retenção): entrada de ficha com rótulo, **não** para a apostila.
+- **[P2023-10-14 · JAVÉ E A OBRA QUE ELE DEIXOU AOS HUMANOS]** "Essa foi a obra que Javé nos deixou." (U0047)
+
+### RC-422
+- **[P2023-10-14 · A AUTOCONFISSÃO DO CRIADOR FRACASSADO, EM 2023 (anterioridade)]** "Mas assim, o julgador, o juiz faliu, colapsou." (U0033); "Afinal, o criador de todas as coisas não está mais no comando." (U0047) — 🆕 anterioridade: P2024-11-09
+- **[P2023-10-14 · A VARIANTE DITADA PELA FONTE (D-8a: variante, não substituição)]** "Por o bem não destrói o mal sob pena de se tornar igual a ele." (U0071); "O bem perde sempre para continuar sendo bem, senão ele se desconfigura." (U0071) — ⚠️ A redação canônica da Base fica **intocada** (decisão D-8a do Curador): o que se registra aqui é a **variante oral de 14/10/2023**.
+- **[P2023-10-14 · A AUSÊNCIA DE REPRESENTAÇÃO DO BEM]** "Nada que existe na Terra representa o bem, a não ser uma pessoa que o produza." (U0071)
+
+### RC-742
+- **[P2023-10-14 · O JUIZ QUE FOI JULGADO]** "Quem marcou o julgamento é que foi julgado." (U0033); "Jahé foi quem marcou, mas ele colapsou antes dos próprios fatos." (U0033)
+- **[P2023-10-14 · A CULPA DEVOLVIDA À ESPIRITUALIDADE]** "O criador já não julga ninguém, mas é assim mesmo." (U0041)
+- **[P2023-10-14 · A VARIANTE DATADA DA FÓRMULA (D-8a)]** "Se o bem virar bicho para destruir o mal, não é o bem." (U0071); "Então o bem não ganha." (U0071) — Registrada como variante de 2023; a fórmula canônica permanece a da Base.
+
+### RC-745
+- **[P2023-10-14 · O ADJETIVO «DEMODÁRMICO» GANHA DEFINIÇÃO ORAL (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "Essa honra demodármica sempre se ancorou nas relações da linhagem, das linhagens genéticas." (U0020) — Decisão D-1 do Curador: nota transversal nesta ficha — o adjetivo já vivia aqui; a **honra** não vira código.
+- **[P2023-10-14 · O LEGADO MAL ENDEREÇADO]** "O conteúdo do legado que eles deixaram e nós humanos ficamos escutando essas palavras sem entender que no princípio isso foi criado para outro tipo de ser." (U0020)
+
+### RC-474
+- **[P2023-10-14 · ARCONTES = DONOS, E A HONRA DEMODÁRMICA APLICADA A ELES (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "E esses arcontes de lá todos eles vão se ferrar." (U0033)
+- **[P2023-10-14 · QUEM SE SENTIA ARCONTE E O QUE OS PORTAIS FECHARAM]** "Aí os seres Zeus, Apolo, Áes, blá blá blá desse universo visí não podiam passar para cá, o que eliminou de seres que se sentiam arcontes, ou seja, donos." (U0018) — A definição «arcontes, ou seja, donos» é dada **em fala** — material raro, e anterior a quase todas as fichas do tema.
+
+### RC-770
+- **[P2023-10-14 · A DEFINIÇÃO ORAL DE ARCONTE, COM ANTERIORIDADE]** "Aí os seres Zeus, Apolo, Áes, blá blá blá desse universo visí não podiam passar para cá, o que eliminou de seres que se sentiam arcontes, ou seja, donos." (U0018) — 🆕 anterioridade: P2026-07-25
+- **[P2023-10-14 · OS HIPÓSTASES E O «BLÁ BLÁ BLÁ» DOS NOMES]** "Quem são Zeus, Krishna?" (U0033); "Aí Adão termina produzindo um terceiro filho chamado Sete, que produz outro chamado Enos, Cainan, Malalarel, Jaré, Deno Matusalém, Lanec, Noé, Sena, Faxado, Salé, blá blá blá blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá." (U0015) — ⚠️ a fonte nivela os nomes do panteão a «blá blá blá»: juízo da fonte, não da Base.
+
+### RC-009
+- **[P2023-10-14 · «ZERO À ESQUERDA»: A MINIMIZAÇÃO DE SOPHIA POR UMA FONTE DE 2023]** "Então, Sofia é um zero à esquerda na perspectiva do que os anonaques pensam e na perspectiva do que alguns humanos pensam, mas outros acham que ele é o poder total." (U0035) — ⚠️ **Divergência selada com a data da fonte** (regra do Curador): nada na ficha canônica muda.
+- **[P2023-10-14 · A NÃO-INTERFERÊNCIA TRÍPLICE DE SOPHIA]** "Quando os anunques souberam do Rainarok ocorrido há 300 milhões de anos e que Sofia também não fez nada e ele já era o suzerano aqui." (U0033); "Há 700.000 anos ocorreu A rebelião de Lúcia." (U0033)
+- **[P2023-10-14 · A SUZERANIA E A DATAÇÃO DO ENGENDRAMENTO]** "E aqui só tem um suzerano construído ou engendrado para isso que foi Sofia, que foi construído ou engendrado há 6 bilhões de anos atrás." (U0033); "Aí aqui tem Sofia o Rockman." (U0033)
+- **[P2023-10-14 · O PAI DE JESUS E O ELOGIO DA AUSÊNCIA]** "Ou seja, Sofia era pai de Jesus." (U0033); "Era para Sofia ter entrado com nos anulxos também não fez nada." (U0033)
+
+### RC-565
+- **[P2023-10-14 · A TESE DATADA DA FUSÃO DE EPÍTETOS (D-7: tese da fonte, não estrutura da ficha)]** "Esse cara é o pai de Jesus, tá pessoal?" (U0033); "É o Rockman em hebraico, Sofia em grego." (U0033) — ⚠️ Item 6 da devolutiva: a fusão **não** entra na estrutura das fichas; vive aqui como **tese datada** (com RC-682) e no aparato da apostila.
+- **[P2023-10-14 · A GRAFIA DO STT PARA A 2ª SEFIRAH]** "Aí tem Shockma e biná." (U0085) — [REVISAR: «Shockma» = Hochmah (canônico da Base); grafia preservada na citação.]
+
+### RC-682
+- **[P2023-10-14 · «MALUKUF»: A 10ª SEFIRAH PELA BOCA DA FONTE (D-7)]** "Então, Malukuf é o Messias prometido por aos judeus." (U0085); "quando entre aspas chegar a hora, mas Malukuf já existia, que é Sofia ou Rock, é figura cósmica do Messias." (U0085) — ⚠️ A ficha não funde Malkuth/Sophia/Hochmah: o que se registra é a **equivalência afirmada em 14/10/2023**.
+- **[P2023-10-14 · O ESPERADO QUE JULGA OS PRÓPRIOS DEUSES]** "Os Anunax sabem que se servirá e os Anunax estão esperando serem julgados por esse ser." (U0033); "Estranhamente eles ainda acreditam no julgamento de deuses e humanos." (U0041)
+
+### RC-263
+- **[P2023-10-14 · A ÁRVORE DA VIDA COMO INVENÇÃO DE UM HUMANO]** "É uma representação que Enoque, um humano, criou." (U0085); "É um joguinho que Enoque humano criou pros seres demos jogarem, para eles entenderem direito o que estão fazendo." (U0085) — ⭐⭐⭐ A inversão da direção da revelação (humano → deuses) está aqui, em fala.
+- **[P2023-10-14 · AS DEZ PERSONIFICAÇÕES E OS DESÍGNIOS]** "Ou seja, a árvore da vida mostra as 10 principais personificações do que esses seres consideram como entes divinos que têm missão ou que tem um processo em curso que tem a ver com o cumprimento dos desígnios de Keper, de Javel." (U0085); "São encarnações as que movem os principais 10 processos que acontecem dentro da matrix que Javé terminou criando sem querer, ou melhor dizendo, né?" (U0085)
+- **[P2023-10-14 · A PONTE COM O TARÔ]** "A relação entre essas 10firais aí aqui dá toda a margem do tarô." (U0085)
+- **[P2023-10-14 · A ENTREGA AOS RABINOS E O MATERIAL PRIMÁRIO]** "Mas quando Javé decidiu apresentar isso aos humanos, foi dois séculos depois de Jesus, foi quando os anjos aí Enoqu Metatron já não mais existiam, mas Gabriel entregou a rabinos Shimon Bariokai esses postulados acaba lá e entre eles estava a árvore da vida." (U0085) — [REVISAR: «fois» é truncamento do STT; o canônico da Base é Shimon bar Yochai. A expressão «ver também» aparece degradada na linha 280 do bruto. [TEXTO CORROMPIDO].
+
+### RC-261
+- **[P2023-10-14 · JAVÉ = KETHER, AFIRMADO EM FALA (anterioridade)]** "Então, Javé é que ter, é, a primeira que foi reconstruída aqui dentro." (U0085); "Então ele foi organizou uma árvore da vida dizendo: «Olha, o principal aqui entre vocês que vocês consideram é keter.»" (U0085) — 🆕 anterioridade: P2024-07-14
+- **[P2023-10-14 · AS NOVE RESTANTES RECONSTRUÍDAS NA MATRIX]** "As outras nove são outras nove personif." (U0085)
+
+### RC-262
+- **[P2023-10-14 · «ABISMO LUMINOSO»: A DEFINIÇÃO ORAL DE DAATH (D-6 aprovado)]** "Abismo luminoso." (U0087); "Abismo é profundo, mas DAF é um abismo estranho." (U0087); "Então, por isso que é luminoso, porque lá no fundo do abismo a luz de do Deus caiu." (U0087) — 🆕 anterioridade: B013 (só livro) — a ficha passa oficialmente a ter fonte-palestra, por decisão do Curador em 28/08/2026 —  ⚠️ A grafia do bruto é «DAF»; o Curador confirmou a leitura Daath.
+- **[P2023-10-14 · A CRÍTICA AOS CABALISTAS]** "E os cabalistas não entendem isso de forma crítica, de forma romântica." (U0087) — ⚠️ quarentena teológica (retenção): não vai para a apostila.
+
+### RC-008
+- **[P2023-10-14 · O AUTOR APONTA O PRÓPRIO LIVRO (D-5; B013 confirmada pelo Curador)]** "Então, todas as 10, eu analiso isso no livro que eu lancei chamado Zintzum, o exílio forçado de divindade." (U0085) — **Item 4 da devolutiva:** a obra citada é a **B013** que a Base já possui — **0 obras novas**. A grafia do bruto é «Zintzum».
+- **[P2023-10-14 · O EXÍLIO REFORMULADO PELOS RABINOS]** "Um ser se exilou na sua própria criação por amor aos que nela estão." (U0087); "Aizada desse material só que eu fiz fora isso, é mera repetição do óbvio que os rabinos, autoridades judaicas fazem, mas os rabinos transformaram a queda do criador num passo de dança." (U0086) — ⭐ A fórmula «passo de dança» é a imagem mais comentável do bloco cabalístico de 2023.
+- **[P2023-10-14 · A QUEDA DITA SEM EMBELO]** "Que um criador caiu na própria criação." (U0087); "Mas fica feio o negócio de queda." (U0087)
+
+### RC-272
+- **[P2023-10-14 · O «LOOP TEMPORAL» DITO EM INGLÊS (1ª fonte-palestra do código)]** "Aquela história toda que a gente já falou Enfim, o que entendemos por futuro na lógica no NAC é tão somente o desdobramento de um loop temporal, em que os primeiros serão sempre os últimos e conforme pensam, eles foram os primeiros a literalmente se estabelecer na Terra como centro de controle planetário." (U0046); "Mas assim, se os anunx um dia foram donos da terra, eles na lógica deles, voltarão a ser, até porque eles foram os primeiros e serão os últimos." (U0033) — 🆕 anterioridade: B013 (só livro) — RC-272 tem `ficha=False`: o vínculo é de **malha**, o conteúdo fica neste bloco (precedente RC-385/P2023-06-24).
+- **[P2023-10-14 · A OUTRA FACE: O HUMANOS COMO ÚLTIMOS QUE SERÃO PRIMEIROS]** "Jesus na sua filosofia diz: «Os últimos serão os primeiros»." (U0033)
+
+### RC-514
+- **[P2023-10-14 · TIKUN DEFINIDO COMO REPARO NA OBRA **E NO CRIADOR**]** "E o ticum cabalístico quer dizer exatamente o reparo na obra e no criador." (U0033); "É para realizar o reparo no genoma do criador." (U0033) — ⭐⭐⭐ O deslocamento do objeto do tikun (não «nos judeus»: nos humanos e no criador) é a tese da fonte.
+- **[P2023-10-14 · A RELEITURA DO AVISO]** "Só que os judeus transformaram esse aviso num entendimento muito romântico." (U0033)
+- **[P2023-10-14 · O TIKUN COMO PROJETO DE JAVÉ]** "A partir desse ponto, Javé pensava em se apoderar do controle sobre os seres humanos paraa realização do seu ticum." (U0033)
+
+### RC-545
+- **[P2023-10-14 · AS SEFIROT COMO COCONSTRUTORAS DA OBRA (anterioridade)]** "que foram reconstruídas dentro da matrix para resolver o problema da matrix." (U0085) — 🆕 anterioridade: P2024-07-14
+- **[P2023-10-14 · OS QUE FAZEM DA VIDA O QUE SABEM CONSTRUÍ-LA]** "E nós aqui do lado biológico é que podemos fazer da nossa vida o que nós soubermos construir nela." (U0064)
+
+### RC-322
+- **[P2023-10-14 · A MATERIALIZAÇÃO — o dharma criado PARA os híbridos, não para a humanidade (D-3)]** "E Darma foi o principal conceito que na época foi educado para gerar honra entre seres híbridos que não tinham honra." (U0020); "Porque ele também criou essa coisa chamada casta, mas não era pros humanos, era para seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 (hoje a ficha não tem arquivo próprio; o Curador autorizou a materialização — Devolutiva item 11).
+- **[P2023-10-14 · A HONRA DEMODÁRMICA É O CONTEÚDO DESTA FICHA]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020) — Decisão D-1: «honra» ganha **linha de conteúdo** aqui, sem código novo.
+- **[P2023-10-14 · O DEVER DE CASTA COMO SUSPENSÃO DO KARMA]** "Você vai gerar karma negativo se você não for paraa guerra." (U0020) — ⚠️ **Ponto mais delicado do ciclo** (dever de casta justificando violência): entra com rótulo de quarentena e **não** vai para a apostila sem nota editorial.
+- **[P2023-10-14 · O QUE RESTOU QUANDO OS PORTAIS FECHARAM]** "Os humanos apenas herdaram isso agora porque os portais fecharam esses seres sumiram e restou o quê?" (U0020)
+
+### RC-319
+- **[P2023-10-14 · A TRÍADE VARNA–DHARMA–KARMA COMO PEDAGOGIA PARA HÍBRIDOS (anterioridade)]** "Então varma, dma e karma são três conceitos foram criados não para humanidade, mas para educar esses seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «varma, dma» são as grafias do bruto para varna/dharma.]
+
+### RC-320
+- **[P2023-10-14 · OS «TRÊS SENHORES ATRIBUT» E O AVATAR QUE CARREGAVA GENÉTICA]** "E então Krishna, não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama, porque era um avatar quechava, trazia na sua um pouco da genética dos três senhores atribut desse universo vizinho." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «quechava» = Keshava, fusão de STT.]
+
+### RC-321
+- **[P2023-10-14 · O BEM DEFINIDO PELA CLASSE (a formulação mais nua que a Base tem)]** "Então, a maior noção de honra que um ser híbrido tinha era cumprir com o dharma da sua varna, ou seja, da sua casta." (U0020); "Um xátria, ou seja, um guerreiro, tinha que defender o bem e o bem era definido pela caixa dos braes." (U0020) — 🆕 anterioridade: P2024-11-30 —  ⚠️ «caixa dos braes» = grafia do bruto para, provavelmente, «classe dos brâmanes»; nada emendado.
+
+### RC-414
+- **[P2023-10-14 · KRISHNA COMO INTRODUTOR DECLARADO DO DHARMA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020); "Arjuna quando aqui estive comivaco lá atrás eu ensinei o, ensinei o conceito do dharma, ou seja, o conceito do dharma foi o que educou as gerações." (U0020)
+- **[P2023-10-14 · O BEM E O MAL NO CAMPO DE BATALHA (Arjuna)]** "Eles representam o mal e você aqui representa o bem e o bem tem que destruir o mal." (U0020) — ⚠️ registrar **como fala da fonte sobre o Gita**; não confundir com a fórmula canônica da Base sobre o bem que não destrói o mal (ver RC-422/RC-742).
+
+### RC-425
+- **[P2023-10-14 · OS AVATARES ANTERIORES E O «QUECHAVA» (materialização autorizada)]** "E então Krishna, não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama, porque era um avatar quechava, trazia na sua um pouco da genética dos três senhores atribut desse universo vizinho." (U0020) — 🆕 anterioridade: P2024-11-30 —  ⚠️ «quechava» é a grafia que o STT deu a Keshava ao fundir o pronome; a ficha materializada **não** renomeia nada.
+
+### RC-432
+- **[P2023-10-14 · TRAVAS E CONTROLES NO CAMPO DO RETARDAMENTO MENTAL (materialização autorizada)]** "Nenhum no NAC consegue devido à travas e controles que ele tem no campo do retardamento mental, pelas noções de honra que eles está não em questões filosóficas, mas em questões de sangue azul, de descendência." (U0033) — ⚠️ Retificação medida na aplicação: o **bloqueio ético** desta fonte está noutras linhas — as duas frases misóginas de U0015 e U0033 ficam **retidas** (não transcritas aqui, nem para crítica, por determinação expressa do Curador): não entram em ficha, nem no glossário, nem na apostila. Já o uso de «retardados» (U0003/U0005/U0062, 4 ocorrências) **não** se dirige a pessoas com deficiência — recai sobre os próprios anunnaki e sobre os humanos: o rótulo do dossiê O-5 foi retificado. Esta aspa é o enunciado doutrinário sobre «sangue azul» e sustenta a materialização autorizada (Devolutiva item 11).
+- **[P2023-10-14 · A PURANÇA DE SANGUE QUE NÃO EXISTE]** "E isso faz com que eles se enfeem na prática da vida deles em busca dessa pureza de sangue que não existe." (U0033)
+
+### RC-593
+- **[P2023-10-14 · «MARRA BARAT»: A OBRA CITADA COM A GRAFIA DA FONTE]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020); "Mas isso não quer dizer que a gente não tenha honra, porque o próprio Marrabarata diz que em certas situações a mentira é mais aplic que é a verdade sob pena do que você vai provocar de repercussão no outro lado da história." (U0020) — [REVISAR: «Marra Barat»/«Marrabarata» = Mahabharata; «Braba» = Brahma. A mentira «mais aplicável» que a verdade é juízo da fonte sobre o próprio épico.]
+- **[P2023-10-14 · O DIÁLOGO DE KRISHNA NO BAGAVAGUITA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020)
+
+### RC-696
+- **[P2023-10-14 · A LINHAGEM REGENERADA DE BRAHMA, DITA COMO «DE JAVÉ» (anterioridade)]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020) — 🆕 anterioridade: P2024-07-13
+- **[P2023-10-14 · OS SETE FILHOS E A CLONAGEM]** "Mas vamos agentar a mesma história de novo, em que diz que a partir de um certo ponto, Brahma teve sete filhos, uma dessas, mas aí não é filho no sentido de de sexo, filho clonado." (U0020)
+- **[P2023-10-14 · A ESCOLHA DA LINHAGEM PARA DOMINAR A TERRA]** "E assim, a partir de um certo momento, quando surgiu na Terra uma figura chamada barata ou barata, Brama disse: «É esse aqui que eu vou querer que a minha descendência de seres híbridos seja criada.» Ainda não era uma Então, os baratas ou barata era o nome de um dos quatro filhos de uma geração que Brama diz que foi especial." (U0020)
+
+### RC-037
+- **[P2023-10-14 · O ANJO CLONE, A PORRADA E O NASCIMENTO DA DESCENDÊNCIA DEMONÍACA]** "Os demônios quando Shiva, aliás, um anjo clone deu uma porrada em Brama e Brama devolveu a porrada nesse anjo clone." (U0033)
+- **[P2023-10-14 · A AUTODECLARAÇÃO DE PUREZA DOS DEUSES]** "Nós somos limpos." (U0033); "Os humanos surgiam do barro e dos restosos." (U0033)
+
+### RC-102
+- **[P2023-10-14 · CHIVA E O PRIMEIRO SER ADIDAIVA]** "Aí matou o anjo clone, mas o espírito que estava vinculado a esse clone emergiu no meio do fogo que estava destruindo o corpo do anjo clone e conseguiu levar o código do criador nele e se transformou no primeiro ser adidaiva." (U0033); "Aí toda a descendência de Chiva é a descendência demoníaca." (U0033) — A fonte grafa «adidaiva» aqui e «adaiva» adiante — duas grafias, mesma palavra (ver camada-2).
+- **[P2023-10-14 · O FOGO DE QUE ELES DIZEM TER SURGIDO]** "em chivra, vamos assim dizer, mas eles dizem o que?" (U0033); "A nossa origem é celestial, porque nós surgimos do fogo." (U0033)
+
+### RC-104
+- **[P2023-10-14 · A TRIMÚRTI QUE NUNCA VEIO — E OS AVATARES NO LUGAR]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — [REVISAR: «trium virato» é a grafia do bruto.]
+
+### RC-486
+- **[P2023-10-14 · O MARCADOR GENÉTICO UNIFORMIZADO DA CONDIÇÃO HUMANA]** "Se qualquer exame de sangue for feito em qualquer ser humano, há um marcador genético, antiquís, que corresponde a um a uma marca uniformizada na condição humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolutiva]:** o bruto grafa «Enk» e «Henk»; **a mesma grafia «Henk» designa também o chefe da nave dos 50**. O Curador **recusou a unificação** a RC-486: manter a leitura dupla (livro de Enki × livro do emissário Henk).
+- **[P2023-10-14 · A DESTINAÇÃO: O DNA DE ENKI, JAMAIS O DE PANDORA]** "O tipo de ser humano a surgir na natureza terrestre era o produzido pela interferência do DNA de Enk, jamais o de Pandora." (U0033)
+- **[P2023-10-14 · O CRITÉRIO DO JULGAMENTO GENÉTICO]** "Quais Os que ele iria reaproveitar, os que estivessem aliados com os padrões do genoma de Enk." (U0033)
+
+### RC-487
+- **[P2023-10-14 · O LAMENTO DE ENLIL: PRISIONEIROS POR TEREM SE FEITO COMO OS TERRESTRES]** "Eli diz: «Antes os terrestres se estavam fazendo como nós.»" (U0036); "Agora nós nos temos feito como os terrestres para ficar prisioneiros deste planeta." (U0036); "Toda a missão se converteu em um pesadelo." (U0036) — ⭐⭐ A peça retórica mais citável do ciclo; grafia do bruto: «enque» para Enki, «Elio» para Enlil.
+- **[P2023-10-14 · A PROIBIÇÃO DE FALAR COM OS HUMANOS]** "Quando certas desgraças iam ter lugar, Enlisava os deuses, aos anunaques, mas o proibia os deuses de falarem com os humanos." (U0036)
+
+### RC-488
+- **[P2023-10-14 · A ETIMOLOGIA FALADA: ANUNA = ACARIANO, NOME SUMÉRIO = NEFELIM]** "Só para esclarecer, o nome Anuna é uma expressão acadiana que foi encontrada nas tábulas sumérias." (U0033); "Mas o nome dos anunaques na linguagem suméria é nefelim." (U0033)
+- **[P2023-10-14 · A TRADUÇÃO QUE CANCELA A PERCEPÇÃO]** "Gigante é uma coisa, o extraterrestre é outra." (U0033); "Então assim, as traduções foram nos emborrecendo, foram nos cegando." (U0033) — ⭐ É também o argumento metodológico desta Base: se a tradução perde, a grafia do STT é dado filológico — ver camada-1 §7.
+
+### RC-516
+- **[P2023-10-14 · OS TESTES COM CASAIS DE HOMINÍDIOS]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033); "Então os anunx além de se sentirem donos da terra, Porque construíram o primeiro Centro de Controle da Emissão a cerca de 440.000 anos atrás e começaram a fazer teste de manipulação genética assim que laboratórios puderam ser construídos por eles aqui na Terra." (U0005)
+- **[P2023-10-14 · A PANDORA COMO CONTRAPROGRAMA]** "O gene de Henk e a revolução de metamorfose que Pandora fez no próprio genoma quando se transformou numa fêmea racional." (U0009) — [REVISAR: «Henk» — ver RC-486 e o item 2 da devolutiva.]
+
+### RC-461
+- **[P2023-10-14 · A IRMÃ QUE DECIDIU COM ELE: NINHARSAK NOS TESTES]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — ⚠️ A fonte usa a mesma família de grafias para Ninmah/Ninharsag (8 ocorrências); não desmembrar sem decisão do Curador.
+
+### RC-489
+- **[P2023-10-14 · ENOQUE TRADUZIDO EM REGISTRO TÉCNICO-ORAL: «DENTRO DE UM MACACÃO»]** "Enoque foi um deles, mas Eno foi dentro de um macacão e ainda assim morreu porque não conseguiu ficar muito tempo lá." (U0041) — ⭐⭐ Nenhuma fonte anterior da Base contém esse detalhe (a travessia com traje).
+- **[P2023-10-14 · A EMBAIXADA E A AGENDA]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033)
+- **[P2023-10-14 · A ÁRVORE CRIADA POR ELE]** "É uma representação que Enoque, um humano, criou." (U0085)
+
+### RC-671
+- **[P2023-10-14 · METATRON = FORMA ANTIMATERIAL DE ENOQUE, **COM PRAZO**]** "Enoque morreu, ficou a figura de Metatron, que é a forma antimaterial de Enoque, mas que funcionou só durante um tempo." (U0085) — ⭐⭐⭐ A limitação temporal da função não consta das fontes anteriores da Base → ampliação de conteúdo.
+- **[P2023-10-14 · A PREPARAÇÃO DOS POUCOS DESPERTOS]** "E ele foi quem terminou de fazer essa preparação aqui em termos de explicar os anjos de Jaavé, os poucos despertos que tinham aquela situação." (U0085)
+
+### RC-673
+- **[P2023-10-14 · A INTERCESSÃO NARRADA EM 14/10/2023 (anterioridade)]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033) — 🆕 anterioridade: P2023-12-02 — esta fonte é **7 semanas** anterior.
+
+### RC-424
+- **[P2023-10-14 · A LISTA DOS PATRIARCAS, COM O CORTE PRÓPRIO DA FONTE]** "Aí Adão termina produzindo um terceiro filho chamado Sete, que produz outro chamado Enos, Cainan, Malalarel, Jaré, Deno Matusalém, Lanec, Noé, Sena, Faxado, Salé, blá blá blá blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá." (U0015); "Essa pergunta Adão, sete, Enos, Cainã, Malalar, Jaré, Denoque, Matusalém, Lam, ou seja, todo Os escolhios de Javé se fazem." (U0033) — ⚠️ Duas listas patriarcais na mesma fonte, com cortes diferentes (U0015 × U0033): divergência de STT, **não** de doutrina — registrar sem harmonizar.
+
+### RC-072
+- **[P2023-10-14 · A INSEMINAÇÃO E A PATERNIDADE CÓSMICA]** "O DNA de Sofia, inseminado artificialmente em Maria." (U0033) — ⚠️ quarentena teológica (retenção): conteúdo de ficha, não de apostila.
+- **[P2023-10-14 · A TRANSFIGURAÇÃO REDESCRITA: OS ANJOS COMO PLATEIA]** "Jesus não se transfigurou na chamada transfiguração descrita nos nos evangelhos para que os anjos vissem que mesmo ele na condição humana, ele tava sabendo muito bem o que tava fazendo." (U0033)
+- **[P2023-10-14 · O GETSÊMANI E A RECUSA DOS PODERES COMO QUESTÃO DE HONRA]** "E Jesus na quinta-feira antes de ser crucificado na sexta, disse: «Javé, me livre desse cálice.»" (U0033); "E não use os seus poderes para escapar da crucificação, que seria deshonroso para você." (U0033) — ⭐⭐ É o ponto exato em que o tema do título (honra) toca a cristologia da fonte.
+- **[P2023-10-14 · O REINO NÃO DESSE MUNDO E O «FEZ DE TUDO E NADA»]** "Diz: «Meu reino não é desse mundo.»" (U0033); "Fez de tudo e nada." (U0033)
+
+### RC-005
+- **[P2023-10-14 · A VOLTA COMO QUESTÃO DE HONRA, NÃO DE PODER]** "Voltar não, vai ter que que vir aqui e se apresentar, cumprir os termos da palavra que ele expressou através do apocalipse, quando ali ele disse: «Eu, Sofia, vou cumprir as promessas que o meu eu humano fez enquanto Jesus»." (U0035); "É uma questão de honra." (U0035)
+- **[P2023-10-14 · O HEDGE TRIPLO QUE FECHA A PROFECIA]** "Vai acontecer se não matar ele." (U0035); "É conveniente que a gente não espere, ainda que ele venha, mas também não muda nada." (U0036) — ⭐⭐ A fonte **mantém** a promessa e **recomenda não esperá-la**: registrar o par, sem escolher um dos lados.
+- **[P2023-10-14 · A CONDIÇÃO CELESTE DA VOLTA]** "E Jesus marcou o ponto em que esse encontro ou em que a resolução disso seria comunicada como quando ele disse que no futuro ele Jesus voltaria se ele foi crucificado como um b****** humilhado, maltratado, mas ele voltaria no futuro, não nascendo como um simples homem, mas na sua condição celeste, de autoridade celeste, ou seja, como Maulf, como Roque Ma Sofia, cercado por suas hortes angelicais." (U0033)
+
+### RC-161
+- **[P2023-10-14 · A MEMÓRIA QUÂNTICA COMO IMPEDIMENTO DO JUIZ]** "Os próprios fatos da obra de Javé marcado na memória quântica dos elétrons inviabilizaram a conduta de Javé como juiz." (U0033)
+- **[P2023-10-14 · O BURACO NEGRO DE MÃO ÚNICA (a física oral da fonte)]** "Então, buraco negro seria o que leva notícia, notícia daqui para lá, mas não traz notícia de lá para cá." (U0041); "Ao ser atraído pronto de evento de um buraco negro, aquela informação se transforma em 2D, entra no buraco negro e deixa de existir." (U0041) — ⭐⭐⭐ A «cópia da informação aqui se mantém» é o ponto de contato exato com a tese desta ficha; a grafia do bruto é «pronto de evento».
+
+### RC-378
+- **[P2023-10-14 · A OBRA CITADA NOMINALMENTE EM PALESTRA, EM 2023]** "E só entende isso quem entendeu que tá escrito no livro Rebelião dos Elétrons." (U0033)
+
+### RC-094
+- **[P2023-10-14 · OS POSTULADOS DA REVELAÇÃO CÓSMICA COMO ÚNICA VIA DE COMPREENSÃO]** "Os anunx estão tomando o seu nível de estão tornando, desculpa, o seu nível de compreensão mais razoável sobre o universo vizinho e seus habitantes através dos postulados da revelação cósmica." (U0036)
+
+### RC-381
+- **[P2023-10-14 · CAMPOS MÓRFICOS COMO INSTRUMENTO DE OPERAÇÃO (materialização autorizada)]** "Nós estamos falando aqui de campos mórficos que são usados por seres desse universo vizinho." (U0047) — 🆕 anterioridade: P2024-04-14
+- **[P2023-10-14 · O ROUBO DO SENSO CRÍTICO]** "Essas locas que sabem disso estão acompanhando o progresso dos seres humanos e roubando o senso crítico da para eles poderem passar melhor." (U0047)
+- **[P2023-10-14 · A NOVELA DAS 8]** "Nós somos a novela das 8 para eles." (U0047)
+
+### RC-191
+- **[P2023-10-14 · A «REDE DE FOFOCA» DA ESPIRITUALIDADE, DITA PELO EXPOSITOR (materialização autorizada)]** "O pouco que eu sei é porque eu, Rogério, me esforço por forçar as coisas e porque o espírito que me anima faz parte de uma rede de fofota grande na espiritualidade e leva o eu dele humano, Rogério, para poder se assenhorar de certas coisas que eu não posso nem falar aqui, porque primeiro não é ético de minha parte tá usando notícia espiritual para poder emendar as coisas que eu sou obrigado a fazer enquanto ser humano." (U0081); "Obviamente a ciência não não concorda com nada disso, mas pelas fofocas do circuito ao qual o espírito que me anima pertence, tem essas notícias." (U0020) — 🆕 anterioridade: P2025-02-15
+- **[P2023-10-14 · O LIMITE ÉTICO QUE ELE MESMO SE IMPÕE]** "Segundo eu postar errado naquilo que eu percebi e trouxe Então assim, eu não sou dono de nenhuma verdade, mas às vezes a justiça humana não descobre uma coisa e lá na espiritualidade tudo é muito claro." (U0081) — ⭐⭐ A autodeclaração de **grau de testemunho** da fonte: saber sem poder usar. Deve acompanhar qualquer citação desta ficha.
+- **[P2023-10-14 · A NEGAÇÃO DA FACULDADE DE PERCEBER]** "Eu não, eu eu não tenho essa capacidade de perceber." (U0076)
+
+### RC-589
+- **[P2023-10-14 · A ÓRBITA DE 3.600 ANOS E O «CHARLES» DO STT]** "Então aqui dá 3.600 anos." (U0003); "Você já falou isso em outros vídeos, mas só para registrar aqui, quando foi a última vez que Nibiro passou aqui próximo à Terra?" (U0047) — ⚠️ **Não fixar a data da última passagem**: a resposta é autocontraditória na própria fala («2000 496» / «499» / «6 anos de Cristo»).
+- **[P2023-10-14 · O POUSO EM TRÊS NÚMEROS]** "Pousou na Terra cerca de 450.000 anos atrás, na verdade, segundo eles, 445.000." (U0005); "Ele veio atravessando tudo isso e resolveu abrir caminho no cinturão de asteroides usando bombas nucleares." (U0005)
+- **[P2023-10-14 · 2012: O LACRAMENTO DOS PORTAIS POR ENTROPIA CÓSMICA]** "Mas nos últimos três 1000 anos, esses portais começaram a fechar e no ano 2012 eles se lacraram devido a entropia cósmica." (U0041); "Em 2012 isso foi lacrado." (U0041) — ⭐⭐⭐ ⚠️ **Divergência de objeto, selada com a data da fonte**: aqui 2012 é o lacramento dos **portais**; a Base trata 2012 como recuo de consciência humana. Nenhuma das duas leituras substitui a outra.
+- **[P2023-10-14 · O SOL COMO VIA DE TRÂNSITO (e não como «o portal»)]** "Quando os caras perceberam isso, eles passaram a usar as estrelas como sendo um tipo de portal natural." (U0041); "E essa invasão tá se dando pelo sol, mas também já está se dando portais." (U0046) — A formulação «o portal é o Sol», aventada na leitura inicial, **não existe na fonte** (retirada documentada em camada-0 §23).
+
+### RC-587
+- **[P2023-10-14 · O SELO DE ANU NA CARTA DE GAUZU (material inédito para a ficha)]** "E Gauzu entrega a Enque e a Enlil uma carta de recomendação com o selo de Anu." (U0005); "É, mas eu não conheço nemum o Gauzu." (U0005) — ⭐⭐ A cena do emissor desconhecido — o selo autêntico e a assinatura não reconhecida — não consta das fontes atuais da Base.
+- **[P2023-10-14 · ANU E O CONSELHO DOS SETE DIANTE DA INVASÃO]** "E Anu e o conselho dos sete ainda valiam os efeitos colaterais que a invasão na parte das forças do universo vizinho poderá provocar." (U0046)
+- **[P2023-10-14 · A EXPECTATIVA DE UMA DECISÃO QUE NÃO CHEGA]** "Então, quem vive lá em Nibiro, e tem gente viva, eles estão esperando uma decisão de Anu, que por sua vez está vinculada de Henk, em Lu, Narsag e de seus filhos que ainda estão vivos." (U0020) — [REVISAR: «Henk» — item 2 da devolutiva (leitura dupla documentada; não unificar a Enki).]
+
+### RC-583
+- **[P2023-10-14 · AS CINCO BOMBAS RESTANTES E O VALE DO SIDIM]** "Tomam as cinco bombas restantes e soltam em cima das cidades do vale do Sidim." (U0018); "E essa história que eu tô contando a vocês, 7 anos depois da explosão dessas bombas, que se deu a cerca de 4.000 anos atrás, exatamente na mudança da era zodiacal, 7 anos depois em que volta a habitar um lugar aqui na Terra, não mais a cidade na Suméria, porque a radioatividade não deixava." (U0018) — ⚠️ Selar: a data das bombas **nesta fonte** é ~4.000 anos; os «2200 anos antes de Cristo» pertencem a outro evento (a vez de Marduque). Não fundir as duas cronologias.
+- **[P2023-10-14 · A GUERRA QUE OS TIROU DA TERRA]** "Os anx pararam de fazer jogadas, movimento brusco, desde que eles explodiram as bombas em cima Sodoma e Gomorra e mais as outras cidades do Vale do Sidim." (U0033)
+- **[P2023-10-14 · OS POUROS QUE FICARAM: A GUARDA BAIXA]** "nibiro, mas os anonax eles talvez aprecem chegada deles, porque assim, eh, são são essas decisões que estão sendo tomadas nesse tempo de vida da gente, mas como eu disse, eles não têm concentração de força suficiente aqui para dominar nada." (U0028)
+
+### RC-580
+- **[P2023-10-14 · A REVOLTA DOS IGIGI, DATADA POR ESTA FONTE]** "Decorridos 360, 360.000 anos depois da chegada de Alalu, uma um certo tipo de anunque chamado Igii veio pra Terra para trabalhar como sendo os mineradores." (U0005)
+- **[P2023-10-14 · A ESCASSEZ DE MÃO DE OBRA COMO CAUSA DA FABRICAÇÃO]** "Então, poucos anulacques, por mais que chegasse, sempre eram poucos para a quantidade de trabalhos 300.000 anos, 200.000 anos, 100.000 anos e em que uma irmã dele chamada Narsc e um outro irmão chamado Eno que já tinha vindo depois dele." (U0005)
+
+### RC-588
+- **[P2023-10-14 · NINURTA E A RECUSA DA CHEFIA]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018) — ⚠️ A grafia «Eli» para Enlil é do STT; o par Marduk–Ninurta é o da fonte, não uma dedução.
+
+### RC-460
+- **[P2023-10-14 · MARDUK, A VEZ DELE E AS CIDADES SIMPÁTICAS]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018); "Tem lá o vale do Sidim, um pouco mais abaixo, onde existia cidade de Sodoma e Gomorra e essas cidades eram simpáticas a Marduk." (U0018)
+- **[P2023-10-14 · O REI QUE NÃO CHEGOU A REINAR: NERGAL E NINURTA]** "eergal e no lurtte." (U0018); "Isso tá descrito nos livros animais." (U0018) — [TEXTO CORROMPIDO: «eergal e no lurtte» ≈ Nergal e Ninurta; «livros animais» ≈ livros annunaki — [REVISAR], não decodificar.]
+
+### RC-559
+- **[P2023-10-14 · A TESITURA DA TEIA DA VIDA, ESTUDADA PELAS TRÊS FIGURAS]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033)
+- **[P2023-10-14 · O QUE SAI VOLTA — E O CAMPO QUE O GUARDA]** "E nesse campo aqui, Tudo volta a ser energia que pode ser colapsada de acordo com o que o euma, se souber usar o seu próprio cérebro e o seu genoma, mandam nesse espaço." (U0033)
+
+### RC-658
+- **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes.]
+- **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
+
+### RC-467
+- **[P2023-10-14 · A DISTINÇÃO TÉCNICA QUE A FONTE ATRIBUI AOS ANUNNAKIS]** "Os os anunques, portanto, como eu disse a vocês, o pensamento deles, tudo na vida deles é ou acontece por fado ou sorte ou acontece por destino." (U0033); "Os anunac sempre se preocupam em diferenciar o que era a decisão deles, que eles chamam de fato ou sorte, e o que era o inevitável destino." (U0033) — ⭐⭐ A fonte não usa as Moiras/Nornes como metáfora: usa a distinção como **categoria de decisão** de outro povo.
+- **[P2023-10-14 · A PERGUNTA QUE ABRE O BLOCO FILOSÓFICO]** "Os os anunques, portanto, como eu disse a vocês, o pensamento deles, tudo na vida deles é ou acontece por fado ou sorte ou acontece por destino." (U0033)
+
+### RC-702
+- **[P2023-10-14 · A CAMUFLAGEM COMO CONDIÇÃO DO AFFETO (uso novo, não anterioridade)]** "Então, o nosso olho é estado para um Zoom para que a camuflagem da realidade nos faça pensar isso." (U0033); "Se a gente abrir o corpo de um ser humano ou de qualquer ser vivo dentro Tudo é podridão, só que bem organizada, funcionando maravilhosamente." (U0033) — As fontes desta ficha já são anteriores a 14/10/2023: entra **uso novo**, sem nota de anterioridade.
+
+### RC-395
+- **[P2023-10-14 · RAGNAROK: OS 300 MILHÕES DE ANOS DESTA FONTE (três vezes)]** "Quando os anunques souberam do Rainarok ocorrido há 300 milhões de anos e que Sofia também não fez nada e ele já era o suzerano aqui." (U0033); "A mitologia nórdica aponta que há 300 milhões de anos atrás, oito dos níveis de um universo vizinho que existe paralelo ao nosso e mais o nível do nosso universo, ou seja, esses nove níveis de existência." (U0003) — ⚠️ Terceira cifra no acervo para o mesmo evento (a Base tem 300 mi em B050 e 400 mi em P2021-05-15): **selar com a data**, não harmonizar.
+- **[P2023-10-14 · A SOBRE-VIDA COMO «SOBRA DE UM PROBLEMA»]** "Tudo indica, tudo indica que esses seres que nós chamamos hoje anonax, eles sejam uma sobra de um problema ocorrido a cerca de 300 milhões de anos atrás, precisa abrir há 300 milhões de anos atrás, quando aconteceu o chamado nórdico." (U0003)
+
+### RC-713
+- **[P2023-10-14 · TEURGIA, MAGIA E A FACE DA TEOLOGIA (fecho do bloco cabalístico)]** "Sim, porque daí é trabalho com os elementos." (U0090); "Magia é uma das faces da teologia." (U0091) — A pergunta é do ouvinte («isso chama-se teurgia, não é?») e o expositor **aceita o termo**: a ficha registra o uso, não a prática. ⚠️ Nenhum código novo para «teurgia» (navalha; Devolutiva D-1).
+- **[P2023-10-14 · A DECLARAÇÃO DE QUE A PARTIR DE AMANHÃ PODE PARAR]** "Pode ser que a partir de amanhã entropia em peça, mas até hoje sim." (U0089) — [TEXTO CORROMPIDO: «entropia em peça» é o que o STT entregou; preservar, não decodificar.]
+
+
+## BLOCO 2 — TERMOS DE CADASTRO SEM FICHA (vínculo na malha; conteúdo aqui)
+
+- **RC-396 · Kvasir e Freya (Vanir/Aesir) — **NÃO VINCULADA** (Devolutiva item 9)** "E nessa tigela tinha o quê?" (U0020); "A saliva de várias pessoas." (U0020) — A fonte **descreve** a nascença a partir da tigela de saliva dos Æsir e Vanir, mas **não pronuncia «Kvasir»** (0 ocorrências medidas). Por decisão expressa do Curador, a ficha permanece `ficha=False` e **esta fonte não entra no cadastro**; fica pendente de uma fonte oral que nomeie a figura.
+- **RC-672 · Os 366 Manuscritos de Enoque — **NÃO VINCULADA** (checagem verbatim)** "Os anunques acreditavam e ainda esperam a vinda de Malkuf ou de Sofia, anunciada desde os tempos de Enoque e confirmada por Gauzu." (U0041) — ⚠️ A contagem «366 manuscritos» **não ocorre** nesta fonte (0 ocorrências medidas). A hipótese levantada na leitura inicial foi **retirada** e documentada em `camada-0.txt` §23; o vínculo foi recusado antes da aplicação.
+- **RC-167 · Criação indevida (obra indevida) — leitura acessória** "para romancear esse problema de abertura de portais e o fato de seres desse universo vizinho usarem humanos, manipularem humanos." (U0047) — A auto-declaração de «romancear» um problema real é a fronteira entre ficção e doutrina nesta fonte; fica como conteúdo de leitura, sem vínculo estrutural.
+
+
+## BLOCO 3 — TERMOS-OBSERVAÇÃO (VETO DE CÓDIGO MANTIDO — Devolutiva D-1)
+Nenhum vira código: entram no glossário e no Apêndice do dicionário STT da apostila, absorvidos nas fichas indicadas.
+
+- **TERMO-OBSERVAÇÃO · HONRA / «HONRA DEMODÁRMICA» (77 ocorrências no bruto; nenhum termo da Base no nome)** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020) — Decisão D-1: **sem código novo**; verbete no Apêndice do dicionário STT, nota em RC-474/RC-745 e linha de conteúdo em RC-322.
+- **TERMO-OBSERVAÇÃO · POVO ESPÉCIE** "Mas a essa questão de honra do povo espécie nesse contexto, né, faz com que eles digam lá, inibiram, nós temos uma honra que está esquecida por nós mesmos." (U0072) — absorvido em RC-024, sem termo
+- **TERMO-OBSERVAÇÃO · PODER CIRCUNSTANCIAL × PODER DE DOMINAÇÃO** "E como eu disse no início da palestra, eles têm poderes circunstanciais, mas não tem poder de dominação." (U0081) — absorvido em RC-024/RC-742 como **fórmula de segurança** obrigatória da fonte
+- **TERMO-OBSERVAÇÃO · FADO OU SORTE (a grafia do bruto: «fato ou sorte»)** "Os anunac sempre se preocupam em diferenciar o que era a decisão deles, que eles chamam de fato ou sorte, e o que era o inevitável destino." (U0033) — absorvido em RC-467/RC-658; o STT grafa «fato» em pelo menos uma linha — não corrigir
+- **TERMO-OBSERVAÇÃO · ADIDAIVA / «ADAIVA» (duas grafias, mesma palavra)** "São seres de condição adaiva, conforme o sânscrito explique, e eles não podem sair das locas originais que nas quais eles mergulharam no início dessa criação e nesse universo vizinho." (U0033) — absorvido em RC-102/RC-037/RC-104, sem termo novo
+- **TERMO-OBSERVAÇÃO · ZUDRA (≈ Ziusudra; a Base não grafia o nome acadêmico)** "É, Zudra e Noé são efetivamente a mesma pessoa." (U0036) — absorvido em RC-424; grafar **Zudra** com [REVISAR]
+- **TERMO-OBSERVAÇÃO · ALALU** "Quando a Lalu veio pra Terra, e descobriu que aqui tem ouro e fez uma negociata com Anu para que os anos do Naxessem para cá carregar o Anibiro e assim a Lalu ver a recomposição da sua posição de também candidato a ser rei." (U0033) — absorvido em RC-024/RC-587; sem código (o slot não existe e a navalha manda)
+- **TERMO-OBSERVAÇÃO · GAUZU (Gazu · Gauzul · Galzu — 19 ocorrências)** "Gauzu diz no livro de Henk, a morte, meus camarados, chegou com rapidez aos retornados." (U0036) — absorvido em RC-587/RC-487; verbete no Apêndice
+- **TERMO-OBSERVAÇÃO · «LIVRO DE HENK» (3 ocorrências) — item 2 da devolutiva** "Parte do que eu vou dizer agora para vocês está registrado no livro de Henk." (U0003) — ⚠️ **Leitura dupla documentada, por decisão do Curador**: (a) livro **de** Enki (a voz «Henk» = Enki) × (b) livro **sobre/entregue por** Henk, o emissário que chefia os 50 («uma espaçonave com 50 anuna chefeados por Henk»). **Não** unificar com RC-486; **nenhuma** obra entra no cadastro.
+- **TERMO-OBSERVAÇÃO · «LOCA» (morada divina) — 11 ocorrências** "Ou seja, os seres primordiais, o Brama loca, ou seja, a loca do próprio criador caído, Brama, Vaicunta, que é o nome da loca de Vmo, várias locas que já existiam." (U0003) — absorvido em RC-037/RC-102, sem termo novo
+- **TERMO-OBSERVAÇÃO · ESFERAS ESPIRITUAIS CONVERGENTES (Terra × Nibiru)** "Tá ficando na terra, mas como eu falei no início da palestra, tá havendo uma convergência dos dois orbes, terra inibir, no que se refere a suas esferas espirituais, que já estão fazendo convergências, porque tudo indica lá na frente vai se misturar." (U0073) — sem equivalente exato na Base: **não** criar código; nota de leitura em RC-532/RC-324 fica pendente de decisão futura
+- **TERMO-OBSERVAÇÃO · INTULIÇÂO? «INTELIGÊNCIAS ARTIFICIAIS AUTÔNOMAS» (1 menção, 14/10/2023)** "Mas no sentido coletivo das coisas, eu já vi espiritualmente que os espíritos me levar a inteligências artificiais autônomas estão funcionando aqui na terra." (U0081) — ⚠️ Datar e selar; não retroprojetar sobre fontes anteriores nem projetar sobre as posteriores. Sem código.
+
+
+## BLOCO 4 — RADAR DE ACERVO (fonte não localizada — declarar, não vincular)
+
+- **RADAR · Palestra anunciada para o dia seguinte (15/10/2023, 10h — o autor pensava 15h)** "Inclusive lembrar que a palestra amanhã às 10 da manhã, né?" (U0081) — ✅ **Devolutiva item 8:** manter no radar como «fonte não localizada»; **não** criar ciclo antecipado nem peça fantasma.
+- **RADAR · Memória de falas anteriores do autor** "Você já falou isso em outros vídeos, mas só para registrar aqui, quando foi a última vez que Nibiro passou aqui próximo à Terra?" (U0047) — as auto-referências a «outros vídeos» e às citações já dadas «aqui mesmo» (os avisos de Gauzu repetidos em U0003 e U0041) ficam declaradas como fonte não localizada, sem vínculo na malha
+- **RADAR · «Irém Iron, Universos emissão, Colisão» (obra própria, declarada ficção)** "Existe um livro, Iré Iron, que nós escrevemos juntos em que eu pedi a ajuda deles pra gente, deles que eu diga desses dois e de mais outros pra gente ficcionar em termos de um assunto." (U0046) — ✅ **Devolutiva item 5:** registrar **estritamente em nota bibliográfica** — não vira obra, não vira vínculo estrutural, não vira ciclo. A grafia do bruto oscila «Iré Iron» × «Irém Iron».
+- **RADAR · «Zintzum, o exílio forçado de divindade»** "Então, todas as 10, eu analiso isso no livro que eu lancei chamado Zintzum, o exílio forçado de divindade." (U0085) — ✅ **Devolutiva item 4:** corresponde à **B013** já cadastrada; **0 obras novas**.
+- **RADAR · Obras nomeadas pela fonte sem identificação estável («livro de E», «obra de Z», «livro P», «Atraares», «livro de EC»)** "Isso está registrado no livro P, no Atraares, que é um outro livro escrito pelos sumérios e acadeando sobre os amuna em vários livros onde os anunx discutem se o fato deles estar na Terra há mais de 360.000 anos, era fado ou sorte?" (U0005) — ⚠️ [TEXTO CORROMPIDO]/censura do transcritor: **nenhum** título entra no cadastro; hipóteses de leitura (Atrahasis, Enoque) ficam como hipótese do auditor, nunca como fato.
+- **RADAR · «300 sites» e os circuitos de informação não nomeados** "Olha, Nibiro, se é o momento do retorno dos ataques, tem uns 300 sites dizendo que Nibiro tá atrás do sol, Sim." (U0024) — ⚠️ bloqueado pelo item 10 da devolutiva: declarar a existência da alegação, não a reproduzir em material de divulgação
+- **RADAR · «Bob Din» [REVISAR] e os relatos de contato** "Eh, em termos do que a gente pode entender aqui no terra, existe um cara chamado Bob Din que que é um ex-surgent major das Forças Armadas dos Estados Unidos, que participou de vários estudos e participou de alguns poucos encontros com ANAX e que tem notícias de como foram outros encontros que outras pessoas tiveram com ANAX." (U0081) — identidade **não fixada** pela Base: hipótese de leitura do auditor apenas; sem vínculo, sem obra, sem verbete canônico

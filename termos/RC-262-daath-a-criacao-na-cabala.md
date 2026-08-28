@@ -5,7 +5,7 @@
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.2 Hebraico / Cabala |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-19 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -28,11 +28,19 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 - **[B013 p. 134]** para Ellam, Daath “refere-se ao nome desta Obra colapsada — para quem a vê de fora”; os cabalistas restringem o Abismo ao universo material e elevam Yetzirah a “Paraíso”, “que o mesmo não tem.”
 - **Quarentena teológica:** releitura gnóstica da Cabala. RC-190 (Kardec / Erraticidade, p. 134) permanece **sem ficha**. Prazos de desconstituição de Yetzirah: **quarentena científica**.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · «ABISMO LUMINOSO»: A DEFINIÇÃO ORAL DE DAATH (D-6 aprovado)]** "Abismo luminoso." (U0087); "Abismo é profundo, mas DAF é um abismo estranho." (U0087); "Então, por isso que é luminoso, porque lá no fundo do abismo a luz de do Deus caiu." (U0087) — 🆕 anterioridade: B013 (só livro) — a ficha passa oficialmente a ter fonte-palestra, por decisão do Curador em 28/08/2026 —  ⚠️ A grafia do bruto é «DAF»; o Curador confirmou a leitura Daath.
+- **[P2023-10-14 · A CRÍTICA AOS CABALISTAS]** "E os cabalistas não entendem isso de forma crítica, de forma romântica." (U0087) — ⚠️ quarentena teológica (retenção): não vai para a apostila.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

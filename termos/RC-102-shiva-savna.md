@@ -106,12 +106,20 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[P2021-05-15 · SIVA COMO ADMINISTRADOR DO SEGUNDO FORNO — E O «JAMAIS» NAS ILHAS]** "Então, eles nunca colocaram o pé deles em nenhuma dessas ilhas hiperbórias, tá?" (U0003) — ⚠️ quarentena religiosa/hinduísta: as grafias orais da Trimúrti nesta fonte («Brama, virgem e chiva») **não** substituem as grafias canônicas da Base.
 
+
+## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
+
+- **[P2023-10-14 · CHIVA E O PRIMEIRO SER ADIDAIVA]** "Aí matou o anjo clone, mas o espírito que estava vinculado a esse clone emergiu no meio do fogo que estava destruindo o corpo do anjo clone e conseguiu levar o código do criador nele e se transformou no primeiro ser adidaiva." (U0033); "Aí toda a descendência de Chiva é a descendência demoníaca." (U0033) — A fonte grafa «adidaiva» aqui e «adaiva» adiante — duas grafias, mesma palavra (ver camada-2).
+- **[P2023-10-14 · O FOGO DE QUE ELES DIZEM TER SURGIDO]** "em chivra, vamos assim dizer, mas eles dizem o que?" (U0033); "A nossa origem é celestial, porque nós surgimos do fogo." (U0033)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave
