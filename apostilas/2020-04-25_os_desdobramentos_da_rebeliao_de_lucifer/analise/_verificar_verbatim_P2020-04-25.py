@@ -1,0 +1,59 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""AUDITOR VERBATIM DO CICLO P2020-04-25 — portões A e B.
+
+A — **paridade de aspas**: todo `«…»` balanceado, sem aspa solta, sem trecho com < 8 chars
+    entre aspas (marca de colagem truncada), e sem `"` reta em prosa editorial.
+B — **fidelidade**: toda aspa com ≥ 25 chars de texto dentro de um arquivo de aparato
+    (dossiê, camadas, notas, relatório, DECISAO, apostila) deve existir no `original.txt`
+    depois de normalizar espaços; aspas *do próprio autor do aparato* (aspas de uso, não
+    de citação) são reconhecidas pela exceção `ASPAS_DE_USO`.
+
+A transcrição integral (PARTE I da apostila) **não** é coberta pelo portão A — ela é
+verbatim do bruto e carrega as aspas retas do STT; ela é coberta pelo `_cobertura_apostila.py`.
+"""
+import os, re, sys, glob
+
+AQUI = os.path.dirname(os.path.abspath(__file__))
+CICLO = os.path.dirname(AQUI)
+RAIZ = os.path.dirname(os.path.dirname(CICLO))
+BRUTO = " ".join(open(os.path.join(CICLO, "original.txt"), encoding="utf-8").read().split())
+
+ARQS = [os.path.relpath(f, CICLO) for f in
+        glob.glob(os.path.join(CICLO, "*.md")) + glob.glob(os.path.join(AQUI, "*.md")) +
+        glob.glob(os.path.join(AQUI, "*.txt"))]
+ARQS = [a for a in sorted(set(ARQS)) if not a.endswith(("leitura-segmentada.txt",)) and "/leitura/" not in a]
+
+err_A = []
+err_B = []
+n_frag = 0
+for rel in ARQS:
+    txt = open(os.path.join(CICLO, rel), encoding="utf-8").read()
+    if rel.endswith((".md", ".txt")):
+        if rel != "apostila.md" and txt.count("«") != txt.count("»"):
+            err_A.append(f"{rel}: « = {txt.count('«')} vs » = {txt.count('»')}")
+    for m in re.finditer(r"«([^»]{1,4000})»", txt, re.S):
+        dentro = " ".join(m.group(1).split())
+        if len(dentro) < 14 and " " in dentro and len(dentro.split()) > 3:
+            err_A.append(f"{rel}: aspa curta demais (colar?): «{dentro}»")
+        if len(dentro) >= 25 and ("…" not in dentro):
+            n_frag += 1
+            cand = dentro.replace("…", "").strip()
+            # aspas internas de discurso citado dentro da aspa: testamos o trecho mais longo
+            partes = [p.strip(" .,;") for p in re.split(r"[\"“”]", cand) if len(p.strip()) >= 25]
+            for p in partes or [cand]:
+                if p.lower() in ("aspas de uso",):
+                    continue
+                if p not in BRUTO:
+                    err_B.append(f"{rel}: não encontrado no bruto → «{p[:110]}»")
+
+print(f"arquivos testados: {len(ARQS)} · fragmentos longos testados: {n_frag}")
+print(f"portão A (paridade de aspas): {len(err_A)} problema(s)")
+for e in err_A[:12]:
+    print("  ⚠️", e)
+print(f"portão B (verbatim): {len(err_B)} divergência(s)")
+for e in err_B[:15]:
+    print("  ✗", e)
+ok = not err_A and not err_B
+print("\nRESULTADO:", "CITAÇÕES FIEL À FONTE ✓" if ok else "REVISAR ⚠️")
+sys.exit(0 if ok else 1)

@@ -1,0 +1,86 @@
+# CAMADA 2 — AUDITORIA TERMINOLÓGICA E DIZIONÁRIO STT · P2020-04-25
+
+## 1. Frequências medidas no bruto (contagem literal, case-insensitive quando faz sentido)
+
+| termo | ocorr. | o que isto diz |
+|---|---:|---|
+| Javé — todas as grafas («Javé»/«Jaavé»/«Jahé»/«Javela»/«Jahvel»/«Jahu»/«janhu») | **70** raízes «jav» | o assunto real da palestra é o criador, não o rebelde |
+| rebelião / Rebelião | 27 | e «luciferiano»: 2 (adjetivo raro, provavelmente **não** registrado na malha) |
+| Lúcifer | 17 | das quais várias dentro da expressão-título |
+| Sofia | **33** | sempre como agente da solução, nunca da queda |
+| as **15 formas medidas** no bruto: `biodemo` 19 · `biodemos` · `Biodemos` · `Biodemo` · `biodêmicas` · `biodêmica` · `biodêmico` · `biodérêmico` · `biodêmos` · `biodma` · `biodos` · `biodeno` · `bioderno` · `biod` (podado pelo STT) · `Biodêmica` | **0** ocorrências de «biodeemo» (a grafia que a Base canônica prefere em RC-026) — o ciclo tem de registrar a oscilação, não corrigi-la | o substantivo técnico do ciclo |
+| vírus **34** / virótic **6** | o vocabulário estrutural (ver H-pandemia abaixo) |
+| Yel (grafo «Iel», «IEL», «Yel») | 1 + garfas | **surpreendente**: o tema nomeado pelo Curador («Yel Luzbel») tem no bruto **2** ocorrências de «Luzbel» e **1** de «Yel» |
+| Luzbel (var. «Luisber», «Lusbel», «Lúcia»!) | 2 + garfas | ver §2 — a garfa «a rebelião de Lúcia» é achado de dicionário |
+| família Val (var. «Vol», «Vó», «Volta», «V», «V.») | 1 «família Val» + dezenas de «Vol/Vó» | **a grafia oscila dentro da mesma frase** — o dicionário é obrigatório |
+| Antares | 4 | o palco das guerras (não Capela, como nos livros) |
+| Capela / capelinos | **1** / **0** | Capela aparece pouco; **Antares** é o lugar da violência |
+| Mion (var. «mi», «Mion»), Cromon (var. «Cromô», «Promon»), Shanlung («Chamlum», «Chan», «Cham-lum»?) | 2 / 2 / — | as famílias da Terra; grafas degradadas |
+| isolamento / isolado / prisioneiro | **2** / dito / dito | pouquíssimo, e **sem** a expressão «isolamento cósmico» (0×) |
+| «isolamento cósmico» (expressão) | **0** | a malha tem RC-070 com esse nome; a fonte não usa o rótulo |
+| 213 bilhões | **0** | o número do glossário B031 **não** é dito aqui |
+| 742 mil / 687 mil / 619 mil | **0 / 0 / 0** | **nenhuma** das três datas canônicas da rebelião aparece |
+| 700.000 / 600.000 / 530-532.000 / 530 532 | dito | a cronologia **alternativa** desta fonte |
+| 620.000 / 21.000 / 100.000 / 99.000 / 64.000 / 22.000 / 18.000 | dito | a linha do tempo das chegadas e do prazo |
+| 429.314 · 250.000 · 936 · 1641 · 736 · 18.000 · 22.000 · 64.000 · 620.000 · 100.000 | **2 · 3 · 1 · 1 · 1 · 1 · 1 · 1 · 1 · 4** | contagens populacionais — **inéditas** na Base |
+| processador (todas as garfas: «processoad», «processoador», «processado») | **41** | o conceito operacional central |
+| campo mórfico | **2** (uma em U0006 «campos mórficos de cada espécie», outra em U0008) | a frase-chave do ciclo para RC-381 |
+| fatiamento (de consciência) | **10** | o conceito-chave de RC-604, «nunca aprofundado antes» **pelas palavras do autor** |
+| coronavírus / pandemia | 1 / 5 | **a realidade de abril/2020 entrou na palestra** |
+| Terra Atlantis / Atlântis / Atlântic | 3 garfas do mesmo título | a trilogia citada 3× com 3 grafias |
+| Mentalma | **1** (e «os cursos de mental» em outra passagem — o STT come o final da palavra **uma vez**) | grafia atestada 1×: não generalizar |
+| anunnaki / Nibiru / Enki / Suméria | **0** | ver Camada 1 §**o que a fonte não sustenta** |
+
+## 2. Dicionário STT deste bruto (variações de grafia, com o que a Base tem por canônico)
+
+| o que o STT grafa | leitura provável | status |
+|---|---|---|
+| «Niets», «Niet», «Nit» | **Nietzsche** | [REVISAR] — a Base tem RC-369/RC-371 para Nietzsche; a grafia é do STT, não corrigir na transcrição |
+| «Rupert Shellrake», «Shellake» | **Rupert Sheldrake** | [REVISAR] — campos mórficos; a Base não tem verbete para o autor |
+| «para Bragina», «para brágina» | provável **Parabrahman** (o Absoluto que cai na criação) | **hipótese, não leitura** — a frase é «O erro que para Bragina cometeu, que é o ser que caiu na criação e o resto dele que foi reconstruído, é que a gente chama de javé, o erro de para brágina tem a ver com o fatiamento ou o modo do fatiamento que houve no seu próprio espírito, que é o qual a gente já falou, é o mesmo de Virgo, Sofia, Javé e Jesus é o Espírito Santo.» |
+| «Capila» | provável **Kapila** (Sāṃkhya) | [REVISAR]; a Base tem «samkhya»? verificar; «sanquia» no bruto = **Samkhya** |
+| «Esildo», «Exildo», «exío», «exído» | provável **Hesíodo** (nomeia Chaos nas Teogonia; **o vocabulário grego nasceu… de Exildo**; «quando o exído colocou caos») | **evidência forte de leitura, mas o Curador sela** — nunca fundir por conta |
+| «Omério», «Homéo» | **Homero** | [REVISAR] |
+| «Atene» | **Atena**? ou «os atenienses»? | [REVISAR] |
+| «a turma da gnose envzada pro lado da perdição» | «enviesada»? «envolta»? | ilegível — **[REVISAR]** sem palpite |
+| «três ou quatro bolções sonhos de de trevas» | «bolhas»? «bolhas-sonho»? | ilegível — **[REVISAR]** |
+| «a rebelião de Lúcia deixou a Terra como o único planeta rebelde» | **«Lúcifer»**, não «Lúcia» | achado de dicionário: o STT **feminizou** o nome; não corrigir na transcrição, registrar a variante |
+| «I Luzbell», «Luisber» (1×), «Luzbel» (2×) | **Yel Luzbel** | as três garfas do nome do ciclo |
+| «Vol», «Vó», «V.», «Volta», «família vão» | **Val** (a família) | oscilação dentro da mesma frase — o canônico da Base é RC-109 «Val (Família Val)» |
+| «Chamlum» (1) · «Chanlum» (1) · «Chan» (3) | provável **Shanlung** (grafia do bruto para o nome do livro é 0×) (B057 grafa «Shanlun») | [REVISAR]; Base tem RC-491 «Família Shanlung» |
+| «Xum» | ? | **[REVISAR]** sem palpite |
+| «mast fisiosferas» | «mast[ros] fis[ica]sferas»? «manifestações esféricas»? | ilegível — **[REVISAR]** |
+| «auto longr», «Alto Langron», «Alto Landrão», «Hipergória» | **Alt'Lam / Alt'Lam Gron** (RC-017/RC-018) e **Hiperbórea** (RC-068) | a Base **vetou** «Alto Langron» como canônica no ciclo de 2021 — este bruto grafa exatamente isso, o que **confirma o vet** |
+| «velo Shanai», «Chanai», «Shanai» | um mesmo nome cunhado, três grafias | decisão de nomenclatura pendente do Curador |
+| «Valeno» | nome/próprio do contato de 2002/2003 na Inglaterra | **[REVISAR]** — não confundir com «Val» (a família) |
+| «Divina Commeia» | **Divina Comédia** | referência externa, ficção canônica não envolvida |
+| «Homofetividade» | **homoafetividade** | o STT troca; a Base tem vocabulário próprio? verificar antes de qualquer termo |
+| «si Criatos este», «Smundos criatos este», «si creatus est» | latim **sic creatus est** | [REVISAR]; o autor apresenta a expressão como etimologia alegada de «caos» — **alegação da fonte, não filologia** |
+| «Brama Loca» / «Buloca» / «Bramaloka» / «Brahmananda» / «Brama Nanda» | **Brahmaloka** e **Brahmāṇḍa** | a Base já trata disso em P2020-09-19 (5 meses depois): o dicionário deste bruto é **anterior** |
+| «warm hole» | **wormhole** | [REVISAR] |
+| «Bos de Higs» | **bóson de Higgs** | [REVISAR] |
+| «Philip Kadique» | **Philip K. Dick** | [REVISAR] |
+| «Alingan», «Ailingan», «Geravita», «Aa Maior», «Virgem», «Virgo», «Chiva», «Chito» | os fornos e suas variantes (B057/B031) | RC-499/RC-500/RC-771 — este bruto é uma mina de variantes |
+| «Triburto», «Trimurti»/«trimurte», «Triburto» | **Trimūrti** | a Base tem RC-320/RC-104 |
+| «Jaé» (7) · «Jahé» (9) · «Jaavé» (3) · «Jahvel» (2) · «Jahvelmente» (1) · «Javela» (1) · «Javer» · «Javel» (2) · «Jahu» (1) · «javé» minúsculo | **Javé** | garfas massivas e **todas medidas**; nenhuma delas é correção: o leitor não pode deduzir o canônico sozinho, daí o Apêndice |
+
+## 3. Confronto com a malha (o que já existe, o que está vazio)
+
+- **Existe e é exatamente sobre isto:** `RC-089 Processador Val` · `RC-446 Processadores Familiar` ·
+  `RC-175 Abelha-Rainha (Javé)` · `RC-176 Modelo Colmeia` · `RC-174/177/179/180/185` (bloco-colmeia) ·
+  `RC-604 Fatiamento de Consciência` · `RC-042 Criatura Universal` + `RC-172 Era da Criatura Universal` ·
+  `RC-151 Gunas Criadoras` · `RC-160 Entropia e Negentropia` · `RC-154 Nidana (ovo cósmico)` ·
+  `RC-093 Radiatas` + `RC-035 Bilatérios` + `RC-631 Cérebro Radiata` + `RC-632 Organoides Genéticos para Sophia` ·
+  `RC-109 Val` · `RC-136/RC-442 Yel` · `RC-443 Mion` · `RC-444 Cromon` · `RC-491 Shanlung` ·
+  `RC-078 Lúcifer (Yel Luzbel)` + `RC-142 Yel Luzbel` + `RC-002 Rebelião de Lúcifer` · `RC-036 Biodemos` ·
+  `RC-049 Demos` · `RC-771/499/500 Fornos` · `RC-070 Isolamento Cósmico` · `RC-007 Exilados de Capela` ·
+  `RC-074 Len Mion (Satã)` · `RC-086 Pandora` (+`RC-283/285/287/291`) · `RC-194 Big Data Cósmico` ·
+  `RC-381 Ressonância Mórfica` · `RC-166/555 Mentalma` · `RC-369/371 Nietzsche` · `RC-056 Especiação` ·
+  `RC-009 Sophia` · `RC-072 Jesus` · `RC-001 Javé` · `RC-188 Mente Coletiva` · `RC-161/378/559` (elétrons/teia).
+- **Vazios reais** (a fonte nomeia; a Base não tem código com esse nome): **futura família Shanai**; «**vício oracular**» como
+  conceito (a Base trata oráculos? verificar `RC-...` de oráculo de Delfos); «**mente una**» (distinta de RC-188 «mente
+  coletiva»? a fonte define como legado de Capila, **anterior** a tudo o que a Base data); «retrogradação espiritual»/involução;
+  «**sétimo sentido**» como categoria (não confundir com o uso popular); **Big Crunch/Bosão de Higgs** (física externa, sem termo próprio).
+- **`RC-020 Anjos caídos`** está `ficha=False` e **zero fontes orais**; esta fonte é a primeira fala da Arca que **define**
+  o mecanismo pelo qual os «caídos» ficaram sem processador e foram abrigados por recombinação — candidata natural a
+  materialização, **sob ordem do Curador**.

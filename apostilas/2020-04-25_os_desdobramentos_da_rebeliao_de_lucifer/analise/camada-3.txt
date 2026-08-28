@@ -1,0 +1,77 @@
+# CAMADA 3 — MOVIMENTOS, ANTERIORIDADE, NAVALHA E RADAR · P2020-04-25
+
+## Os 12 movimentos (na ordem da fonte, sem reordenar)
+
+| # | movimento | endereço | natureza |
+|---|---|---|---|
+| M1 | Abertura dupla do operador e o pedido de comentário sobre o momento | U0003–U0005 | paratexto |
+| M2 | Agradecimento pela data natalícia; o filme/vídeo; **estamos só jogando sementes** | U0006 (início) | pessoal |
+| M3 | **Digressão política**: o espírito francês e o «tempo psíquico mal empregado»; Sarney; FHC; «nação medíocre»; a pandemia e a «discussão fuleira» | U0006 ~0–17.700 | **política/pandemia** |
+| M4 | Saída da digressão + o pedido de desculpas + a «autoclassificação» como extratema | U0006 (fim de M3) | metadado do bloqueio |
+| M5 | Nietzsche, o abismo e as 13,8 bilhões de anos; nenhuma raça pôde olhar antes | U0006 | filosófico-cosmológico |
+| M6 | A tese central: a rebelião **não** foi olhar para o abismo; foi o vírus; «coronavírus da época» | U0006 | **doutrinário central** |
+| M7 | Biodemos: casulos, assexuação, 900 milhões de anos; o «reptiliano»; Javé nunca reptiliano | U0006 | antropológico |
+| M8 | Pandora como primeiro susto de Javé; o vício oracular; travas genéticas e sua ruptura | U0006 | mitológico |
+| M9 | A mente bicameral: Capila e «Esildo», 2.700–2.800 anos; o «divisor de águas» que foi destruído depois | U0006 | histórico |
+| M10 | Os sentidos: cinco, o sexto (cognição, budismo), o sétimo (Sheldrake, intercomunicação não local); Mentalma e o 8º módulo não dado; a «mente una» de Capila | U0006 | epistêmico |
+| M11 | O eu de Javé: podridão organizada, corpo de vírus sem célula, guerra com Jesus, o gênero que ele não tem, as cobaias humanas, mulheres e homoafetivos, «abril de 2020» como estado datado | U0006 | **teológico central** |
+| M12 | Linha do tempo das chegadas e o Alto Langron; a família de 736; Sofia 2018 e a nova família «Shanai»; os dois cenários (IA × biodemização) e os 18.000 anos; a Criatura Universal e o período cármico; «o marco zero» | U0006 | **o desdobramento prometido** |
+| M13 | As três respostas do Q&A: processador/colmeia e a gênese dos livros; fatiamento de consciência/gunas/Dark; bilatéria, «não» à retrogradação, Lemion, e a desculpa final | U0007–U0013 | Q&A |
+
+*(o ciclo tem 13 movimentos em vez dos «14» de contagem redonda: não se encaixa à força.)*
+
+## Matriz de anterioridade (o que esta fala diz antes de qualquer fonte da malha)
+
+| asserção dita aqui | código | fonte oral mais antiga da Base hoje | ganho |
+|---|---|---|---|
+| **o eu de Javé está ligado/fissurado nos humanos** com data explícita («mês de abril do ano 2020») | RC-001, RC-422, RC-742 | P2020-05-09 (RC-001) | **14 dias** antes do estrato oral mais antigo da malha |
+| o abismo como recíproco: **nós somos o abismo de Javé** | RC-422 (**autocensura/confissão de Javé**), RC-001 | P2023-10-14 (que já antecipava «o juiz faliu») | ~3 anos e meio |
+| **campo mórfico = o análogo humano do processador** | RC-381 | P2023-10-14 | **3,5 anos** |
+| Big Data como mecanismo de aferição do processador (anjos informando Javé) | RC-194 | P2021-05-15 | **13 meses** |
+| radiata → bilatério como decisão cósmica; cérebro bilatério e 540 milhões de anos | RC-631, RC-093, RC-035 | P2021-05-15 | **13 meses** |
+| os 8 módulos do Mentalma e o **8º não ministrado** (intercomunicação não local) | RC-166, RC-555 | P2023-07-05 (e o 6+1+1 de P2024-11-03) | **3 anos e 2 meses** |
+| o **processador liga-se ao cérebro de Sofia**, não cada indivíduo da espécie | RC-089, RC-446, RC-009 | (a definir pela auditoria das fichas) | inédito: não há fala anterior com esse mecanismo |
+| a escola de decifração em Capela: 3–4 milhões de anos, substanciada há ~2 milhões | RC-755 | P2021-05-15 | 13 meses |
+| os livros «A Rebelião dos Elétrons» como 1º de 9–10, e o 2º «Homofetividade» | RC-378, RC-161 | P2023-06-24 | ~3 anos |
+| o genealogista de «para Bragina» = o ser caído cujo resto reconstruído é Javé | RC-001, RC-604, RC-515 | (verificar) | candidato a **nota de origem** |
+| Alt'Lam Gron como **cidadela onde restam os biodemos mutados** (e a grafia «Alto Langron») | RC-017/RC-018 | P2021-05-15 | **13 meses** e o **veto gráfico reconfirmado** por uma fonte mais antiga |
+
+**Regra operante (selada nos dois últimos ciclos):** registrar anterioridade **com a data da fonte**, **sem
+retrodatação** e **sem harmonizar números**. Onde esta fala diverge dos livros (700/600/532 mil vs 742/687/619
+mil; «100 mil» vs «98 mil»; 250.000 vs 429.314 famílias), a Base passa a ter **duas formulações datadas**, não
+uma média.
+
+## A navalha (o que o ciclo NÃO deve propor)
+
+1. **Nada de termo novo para «coronavírus», «pandemia», «entropia», «bóson de Higgs», «wormhole»** — são o
+   vocabulário do mundo, citados de passagem; a Base é terminologia RC, não enciclopédia.
+2. **Nada de «Yel Luzbel» como código separado do existente**: já há RC-142 (Yel Luzbel) **e** RC-078 (Lúcifer
+   (Yel Luzbel)) — o ciclo não cria terceiro; e **não** unifica os dois por conta própria (precedente do
+   Curador: fusões não se fazem por iniciativa do agente).
+3. **Nada de termo para as séries** (*Dark*, *The Man in the High Castle*) — são referência ficcional declarada
+   como ficção pela própria fonte; vão como **nota bibliográfica externa**, no máximo.
+4. **Nada de «Shanlung» = «Shanai»** sem o Curador: um é família antiga do livro, o outro é neologismo cunhado
+   pelo autor em 2020 para uma família **futura**. A proximidade fonética é armadilha clássica de STT.
+5. **Nada de harmonizar «Hesíodo»/«Kapila»**: a fonte grafa «Esildo»/«Capila». A hipótese de leitura é
+   apresentada **como hipótese** na devolutiva; se o Curador selar, entra como [REVISAR] resolvido na ficha — e
+   não como «a fonte disse Hesíodo» na transcrição.
+6. **Nenhuma aspa digitada à mão** (todo verbatim deste ciclo sai de `_aspas_P2020-04-25.py`, que aborta se a
+   âncora não bate exatamente uma vez).
+
+## O radar (o que a própria fonte aponta e a Arca ainda não tem)
+
+1. **«Dora Vante»**: o autor anuncia que vai explicar «o que é que vai haver com esse eu» → a palestra é
+   auto-declarada **parte 1** de uma sequência. Verificar no índice da Arca se existe fala subsequente (as de
+   maio/junho/07 de 2020 já estão fechadas: P2020-05-09 não retoma o tema do modo anunciado?).
+2. **O livro com o próprio Javé** («mergulho na escuridão») e **«uns três ou quatro evangelhos gnósticos» em
+   tradução** — dois produtos do autor sem registo na BIBLIO (checar B0xx antes de dizer «inédito»).
+3. **«Homofetividade» como 2º volume da série da rebelião dos elétrons** — a série de 9–10 livros tem hoje qual
+   rasto na Base? (RC-378 + RC-161). Radar de fila de livros.
+4. **A reunião de 2002/2003 na Inglaterra com «Valeno»** — biobibliografia; pode explicar a datação editorial de
+   B017/B018/B039 e da primeira trilogia; **não** inferir nada sem fonte.
+5. **936 biodemos transmigrados para a «experiência Gron» [REVISAR]** — a Base tem RC-... para isso? Se não, é
+   o único candidato a termo novo com peso cosmológico além do «Shanai».
+6. **O paralelo com a pandemia real** está **dentro** do corpo da palestra (não só na digressão): a expressão
+   «um coronavírus da época» está no argumento doutrinário. Bloquear por recorte linear não resolve: o
+   tratamento da pandemia precisa de **decisão própria** do Curador (item 10 do ciclo anterior vs. retenção
+   doutrinária). Registro, não decido.

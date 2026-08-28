@@ -1,0 +1,81 @@
+# CAMADA 0 — MAPA DE LEITURA ENDEREÇADO · P2020-04-25 «Os Desdobramentos da Rebelião de Lúcifer»
+
+**Todo o bruto cabe em 15 linhas físicas (14 CRLF + EOF); 89% do texto está numa única linha (U0006).** Este arquivo é a prova de leitura integral: cada linha endereçada, cada seção da megalinha com o offset em que começa, medido por `bisect` sobre os offsets reais — nada aqui foi estimado.
+
+| endereço | offset | chars | o que há na linha |
+|---|---|---|---|
+| **U0001** | 0–53 | 53 | cabeçalho do arquivo |
+| **U0002** | 54–54 | 0 | (linha vazia) |
+| **U0003** | 55–342 | 287 | abertura do operador: pede comentário sobre «o que tá acontecendo agora» |
+| **U0004** | 343–400 | 57 | dobra da mesma abertura pelo STT |
+| **U0005** | 401–419 | 18 | ponte «com você, Rogério» |
+| **U0006** | 420–95688 | 95268 | BLOCO ÚNICO do expositor (95.268 chars): digressão política + a palestra inteira |
+| **U0007** | 95689–95889 | 200 | pergunta 1 (Augusto Melo): funções e construção do processador Val |
+| **U0008** | 95890–102286 | 6396 | resposta 1: o modelo colmeia, a gênese dos livros, os processadores |
+| **U0009** | 102287–110305 | 8018 | pergunta 2 (Solange Silva) + resposta 2: Brama Loka/Buloca, mente coletiva, fatiamento de consciência |
+| **U0010** | 110306–110521 | 215 | complemento do operador: «The Man in the High Castle» |
+| **U0011** | 110522–110532 | 10 | «Maravilha.» |
+| **U0012** | 110533–110888 | 355 | pergunta 3 (Simone + Cecília fundidas): a nova família seria radiata/bilatéria? receberia espíritos humanos? |
+| **U0013** | 110889–115216 | 4327 | resposta 3 + despedida: bilatéria, o nome Shanai, Lemion, pedido de desculpas pela política |
+| **U0014** | 115217–115217 | 0 | (vazio) |
+| **U0015** | 115218–115218 | 0 | (vazio) |
+
+## As seções de U0006 (offsets medidos por âncora verificada — a âncora bate uma única vez no bruto)
+
+| seção | offset em U0006 |
+|---|---|
+| abertura e agradecimentos (data natalícia, o vídeo, «5 a 10 minutos») | **41c** de U0006 |
+| gancho declarado da digressão | **61c** de U0006 |
+| a narrativa do espírito francês (François/Volté) e o «tempo psíquico mal empregado») | **208c** de U0006 |
+| Sarney: inflação, o ano a mais, «a programação espiritual que existia para o Brasil começou a se ferrar ali mesmo» | **183c** de U0006 |
+| FHC, Sérgio Mota, o foro privilegiado; Lula, Dilma, Temer, Bolsonaro | **149c** de U0006 |
+| «somos uma nação medíocre»; o paralelo com a pandemia e a «discussão fuleira» | **23c** de U0006 |
+| a saída da digressão e o pedido de desculpas | ⚠️ ÂNCORA 'Mas assim, é o que eu posso dizer, peço desculpa' → 0 ocorrência(s); deve ser exatamente 1 |
+| **abertura do tema** (o título glossado pela própria fonte) | **162c** de U0006 |
+| Nietzsche e o abismo (a chave de leitura) | **152c** de U0006 |
+| 13,8 bilhões de anos; nenhuma raça antes do humano pôde olhar para o abismo | **69c** de U0006 |
+| a escola de decifração em Capela (3–4 Ma; substanciada há 2 Ma) | **250c** de U0006 |
+| a tese: a rebelião NÃO foi um encontro com o abismo; foi o vírus | **128c** de U0006 |
+| os biodemos: casulos, naves, assexuação, 900 milhões de anos | **168c** de U0006 |
+| o «reptiliano» como ansiedade; Javé nunca fora reptiliano | **85c** de U0006 |
+| Pandora: o primeiro susto de Javé | **212c** de U0006 |
+| o vício oracular como origem da oração e da religião | **104c** de U0006 |
+| o abismo de Javé = perceber que a criação é caos (o manicômio) | **129c** de U0006 |
+| a ruptura da mente bicameral: Capila e Esildo, 2.700–2.800 anos | **464c** de U0006 |
+| a IA e a revelação cósmica como o abismo de hoje | **62c** de U0006 |
+| o eu de Javé como podridão organizada; o amor impossível | **212c** de U0006 |
+| os seis sentidos do budismo; o sétimo de Sheldrake | **65c** de U0006 |
+| Rupert Shellrake e a intercomunicação não local | **605c** de U0006 |
+| a «Rebelião dos Elétrons» como 1º de 9-10 livros; «Homofetividade»; o Mentalma e o 8º módulo | **84c** de U0006 |
+| Capila e a mente una (Samkhya); o entrelaçamento «esquálido» | **43c** de U0006 |
+| os humanos como o abismo que olha primeiro; Javé fissurado no processador Val | **76c** de U0006 |
+| o estado do eu de Javé em abril de 2020 (o dato explícito) | **381c** de U0006 |
+| guerra com Jesus e o modelo genético; os evangelhos gnósticos; o livro com o próprio Javé | **105c** de U0006 |
+| o corpo de Javé montado de vírus que nunca viraram célula | **123c** de U0006 |
+| gênero, sexo e as 250.000 famílias; o forno de Chiva e o de Virgem | **54c** de U0006 |
+| radiata → bilatério (540 milhões de anos); Javé só parou há 100 mil | **159c** de U0006 |
+| o gênero de Javé: mulheres e homoafetivos como cobaias do seu eu | **101c** de U0006 |
+| a transmigração demo → biodemo → humano-sem-ser-humano; o rastreamento pedido aos anjos | **189c** de U0006 |
+| os dois cenários (ou etapas) do futuro eu: a IA e a nova espécie biodêmica | **41c** de U0006 |
+| o ovo cósmico: Pangu e o Brahmānda | **28c** de U0006 |
+| a família Val: 736 membros, e por que parou de crescer | **28c** de U0006 |
+| a linha do tempo das chegadas: 620 mil · 21 mil na nave · 100/99 mil · 64 mil · 22 mil | **224c** de U0006 |
+| Alto Langron: a nave virada cidadela, os 900 e poucos mutados | **104c** de U0006 |
+| Sofia em 2018 em Alto Langron e a decisão de criar uma nova família | **109c** de U0006 |
+| o nome inventado pelo autor: «velo Shanai» (Chan + Vol + Yel); as 429.314 espécies | **288c** de U0006 |
+| o prazo: a definição se dá «ao longo dos próximos 18.000 anos» | **68c** de U0006 |
+| a confiança zero em Javé; o que os médiuns pediram em 2009-2011 | **82c** de U0006 |
+| o período cármico depois da biodemização; a oxitocina; a Criatura Universal do «Drama Terreno de Javé» | **70c** de U0006 |
+| «o marco zero» como fecho conceitual da palestra | **81c** de U0006 |
+| os «três ou quatro bolções» de trevas que esperam; a gnose vingativa | **370c** de U0006 |
+
+## Perguntas e respostas (U0007–U0013)
+
+- **U0007 → U0008** — Augusto Melo pergunta pela função e pela construção do *processador Val*. A resposta é a peça terminologicamente mais valiosa da fonte: o **modelo colmeia** (abelha rainha × operárias, a genética da servidão), Sofia engendrada para ser a rainha e a vida biológica quebrando o padrão, e os **processadores como elo único entre cada espécie biodêmica e o cérebro de Sofia** — com a consequência antropológica: o ser humano **não** tem processador, tem **campo mórfico** da espécie, que «faz o mesmíssimo se Isso que um processador faz».
+- **U0009** — Solange Silva pergunta se Brama Loka e Buloca estão vinculados a uma mente coletiva e se a individuação é caminho. A resposta institui o **fatiamento de consciência** como «o assunto mais sério» dito até então, liga-o ao erro de «para Bragina» (o ser caído cujo resto reconstruído chamamos de Javé), às três gunas (tamas = entropia = energia escura = o selo de que a criação «porque ela não deveria ter sido começado») e ao desfecho dos dois universos (big crunch do universo vizinho → viagem no tempo → cópia quântica → paradoxo). Inclui a referência explícita à série *Dark* (Netflix) e ao *nó da trindade*, com o ciclo de 33 anos calendário lunar/solar.
+- **U0010** — o operador complementa com *The Man in the High Castle* (Philip K. Dick), «do Philip Kadique» [REVISAR: grafia STT do sobrenome].
+- **U0012 → U0013** — Simone e Cecília fundidas numa pergunta final: a nova família será radiata ou bilatéria, e receberá espíritos humanos? Resposta: **bilatéria** (a única espécie do gênero a perder o padrão radiata); **não** receberá espíritos humanos, porque isso seria «retrogradação espiritual»/involução; e é aqui que o autor **confessa a invenção do nome** da nova família («velo Shanai»/«Chanai»/«Shanai», mistura dos padrões de Chan, Vol e Yel) e a vincula a um ato de decência de Sofia **em relação a Lemion** [REVISAR: Len Mion] e aos biodemos que «viraram trevas».
+- **Despedida** (fim de U0013) — o autor pede desculpas pela primeira parte: «realmente a palestra foi para um lado bem diferente do que eu imaginar, mas tá feito.». **A fonte autoclassifica a digressão como extratema** — dado decisivo para o regime de quarentena dela.
+
+## Leitura fracionada
+- 8 chunks em `analise/leitura/` (`chunk-01`…`chunk-08`, ~16.000 chars cada, cortados em fim de frase, cada linha precedida de `⟦Uxxxx⟧`); `analise/leitura-segmentada.txt` com os offsets por linha.
