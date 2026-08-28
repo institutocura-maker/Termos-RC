@@ -1,6 +1,6 @@
 # Ficha de Ingresso — P2023-04-01b — O Quarto Logos e seus agentes (A TARDE DE 01/04)
 
-> **ESTADO OPERACIONAL: AGUARDA DEVOLUTIVA DO CURADOR (dossiê O-1..O-8 em analise/).** Piloto concluído: leitura integral 34/34 linhas (o megabloco recorde de 73.232 chars) + camadas 0-3 + LEITURA-1 + dossiê enxuto. **0 códigos consumidos — 777/1.856 intactos. Nenhuma ficha tocada. Apostila NÃO iniciada.**
+> **ESTADO OPERACIONAL: CONCLUÍDO (28/08/2026).** Ciclo fechado: a Devolutiva do curador 100% aprovada → **18 fichas ampliadas + 1 no pacote (RC-189) + 19 vínculos + 0 códigos** (777/1.856 intactos) → **A BIBLIO: a B098 "ELAS UNIVERSIS" cadastrada + as crosses B016/B041/B003/B048 (101 obras)** + **O KIERKEGAARD RESOLVIDO NA BASE** (os materiais da P2021-09-04) → apostila (10 PARTES + Q&A + Apêndice) + DOCX + RELATORIO-DE-CICLO. Pasta engavetada em `apostilas/CONCLUIDAS/` — **A 26ª DA FASE**.
 
 ## 1. Identificação
 
