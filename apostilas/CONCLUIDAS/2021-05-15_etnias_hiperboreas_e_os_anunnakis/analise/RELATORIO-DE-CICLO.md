@@ -62,7 +62,7 @@ Somam-se às **6 citações retiradas** por não existirem no bruto (T-13/RC-461
 
 ## 6. Pendências carregadas (o radar da Operação)
 
-- ⚠️⚠️ **A PALESTRA SEGUINTE DO DIA SEGUNTE — `P2021-05-16`**: o alerta **D-11** aberto no ciclo ("a palestra de 16/05/2021"), **ainda sem resposta do curador**; se existir no acervo, é a próxima candidata natural da fila.
+- ✅ **RESOLVIDO EM 28/08/2026 — O ALERTA D-11**: o curador respondeu VERBATIM ("Beleza ! Não temos a Palestra do dia 16/05/2021.") — **não há peça de 16/05/2021 no acervo**; a menção do bruto fica apenas como fala do autor, sem código, vínculo ou obra. Registro em `../DECISAO-DO-CURADOR.md` (Devolutiva Complementar). **E o curador já nomeou o próximo ciclo: TEMA ANUNNAKI — «A Esquecida Honra dos Anunnaki» (fonte proposta `P2023-10-14`)**, aguardando o TXT na fila de entrada.
 - **Os `[REVISAR]` abertos**: o local do evento (só marcas internas "no IEA"); o operador de slides («Cris/Crisamon/Crisamor»); "Homo Sapiens Enkiano" (D-9); as grafias «Pamíxia», «Memete», «nuadara»-type; e os nomes do Q&A lidos por intermediário.
 - **Os termos-observação do BLOCO 3 (13 itens)**, mantidos sem código à espera de slot/ordem: Memete, Pamíxia, CPH4, Thule/«continente de Lu», Aesir/Vanir/Odim, Tuatha/Milesianos/Nuada, Adapa, ISAR, «ilha que se move», Banca Espiritual, 72 etnias/14 caravanas, Sitchin/Hancock/NASA/Plutão/Sedna/Oort.
 - **Obras**: nenhuma obra nova cadastrada (a ordem O-6); a fila de livros segue (B059 sem PDF; B027/B035; B076-B078; B085/B086/B090; B096/B097/B098 SEM PDF; B004/B012 aguardando PDF).

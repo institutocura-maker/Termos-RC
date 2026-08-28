@@ -74,3 +74,21 @@ registro de execução.
 3. **Governança** ✓ — `INDICE-PALESTRAS.md` (a linha 15/05/2021 inserida junto às de 2021), `CONTINUIDADE.md` (o novo banner + o verbete `## Ciclo — P2021-05-15` + os contadores **451 fichas físicas / 67 apostilas**) e `PROMPT-PROXIMA-SESSAO.md` (a 4ª atualização + a tarefa da sessão nova com as pendências formais abertas).
 4. **Bruto em `uploads_recepcao/`** ✓ — **NÃO REMOVIDO** (dado sem efeito pelo registro deste arquivo): a convenção da casa é **manter** o TXT recebido na fila de entrada — os brutos de todos os ciclos concluídos (2023-06-24, 2025-07-18, …) continuam lá. A integridade foi conferida **SHA a SHA** antes do movimento e está no item "conferido neste commit" acima; o que se move é apenas a pasta do ciclo para `CONCLUIDAS/`.
 5. **Dúvida a devolver ao Curador:** a palestra de **domingo 16/05/2021** («os protocolos da mente e o quarto cérebro») continua em busca prioritária? E RC-004 tem arquivo físico com `ficha=False` no cadastro (divergência pré-existente, **não** mexi).
+
+## DEVOLUTIVA COMPLEMENTAR — 28/08/2026, a resposta do Curador ao alerta D-11 + a nomeação do próximo ciclo
+
+### VERBATIM (como recebido na sessão, sem edição)
+
+> Beleza ! Não temos a Palestra do dia 16/05/2021. Vamos seguir com o tema Anunnakis, com a Palestra >> [2023-10-14 - A Esquecida Honra dos Anunnaki.txt]
+
+*Registro da transmissão: a mensagem chegou ao agente com os sinais de escape da interface (`&gt;&gt;`, `&gt;`), decodificados aqui para `>>`; o texto entre colchetes é o nome do arquivo indicado pelo Curador.*
+
+### O que fica decidido e registrado
+
+| # | Conteúdo | Estado |
+|---|---|---|
+| **D-11 (radar)** | **NÃO EXISTE palestra em 16/05/2021** no acervo — a dúvida do ciclo está **RESPONDIDA E ENCERRADA**. A menção do bruto («uma palestra que eu devo fazer domingo») permanece registrada **apenas como fala do autor**, sem contraparte de acervo; **nenhum** código, vínculo ou obra é criado em função dela | ✅ ENCERRADO |
+| **Radar RC-742 (BLOCO 4)** | O item «fonte não localizada — declarar, não vincular» recebe a resposta do Curador: a fonte não existe no acervo. Nada a vincular | ✅ ENCERRADO |
+| **Próximo ciclo** | **TEMA: ANUNNAKI** · palestra **«A Esquecida Honra dos Anunnaki»** · fonte proposta **`P2023-10-14`** (14/10/2023) · arquivo indicado: `2023-10-14 - A Esquecida Honra dos Anunnaki.txt` | 📥 **AGUARDANDO O ARQUIVO** |
+
+⚠️ **REGISTRO DE INTEGRIDADE DO INGRESSO:** em 28/08/2026, ao abrir o ciclo nomeado, o arquivo **ainda não estava no workspace** — ausente em `uploads_recepcao/` (31 TXTs, o mais recente deste bloco é `2023-11-19`), ausente em `apostilas/` e em todas as branches do repositório (verificado por `git fetch` + `git ls-tree` em 7 branches). **Nenhum byte de conteúdo foi inferred, transcrito ou citado**: o rito (leitura integral → camadas → dossiê) **não começa sem o bruto**. O terreno da Base já foi mapeado (9 termos com ANUNN no nome, todos com ficha; `P2023-10-14` com **0 ocorrências** = fonte inédita; na Arca não há nenhuma peça de outubro/2023 — o ciclo cairia na lacuna entre a P2023-09-09 e a P2023-11-19).
