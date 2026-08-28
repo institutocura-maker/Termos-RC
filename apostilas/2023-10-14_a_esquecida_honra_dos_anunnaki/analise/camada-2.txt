@@ -1,0 +1,83 @@
+CAMADA 2 — AUDITORIA TERMINOLÓGICA E STT
+P2023-10-14 — A Esquecida Honra dos Anunnaki
+
+Objeto: **normalização de grafia** e **identificação de variantes de STT**, sem alterar `original.txt` (que permanece byte a byte). Nada aqui é decisão ontológica: cada linha indica a forma canônica da Base e o destino a propor na apostila. Contagens = ocorrências no bruto, medidas por Python `re` sobre `original.txt`, insensível a caixa, na data desta leitura — valem como **ordem de grandeza da instabilidade gráfica**, não como censo doutrinário.
+
+## 1. A palavra do título
+
+| forma no bruto | Ocorr. | forma canônica / status na Base | destino proposto |
+|---|---|---|---|
+| honra | 77 (das quais 7 em «deshonra/deshonrados») | **inexistente como nome de termo** nas 777 fichas (15 fichas a usam em corpo de texto) | ⚠️ decisão O-1: **não criar código**; tratar «honra» como **conceito-observação do pacote** e grafar no texto novo como palavra comum, com a definição da fonte em nota |
+| honra demodármica (3 ocorr.: «honra demodármica» × 2 + «demoic» × 1) | 3 | o adjetivo existe em **RC-474** (Arcontes) e **RC-745** (Colegiados Espirituais Humanizados) | nota de vínculo nas duas fichas; **sem** ficha nova |
+| «demoic» | 1 | grafia única do bruto para «demodármico» na frase "por isso chamo demoic" | camada de glossário: registrar a motivação etimológica do autor |
+
+## 2. Tabela-mestre de normalização (fonte → canônico)
+
+| Grafia no bruto (variantes) | Ocorr. | Forma canônica da Base | Ficha | Destino na apostila |
+|---|---|---|---|---|
+| anunax · anunx · anunaques · anunques · anunaques · anonax · amuna · amonartes · amonastros · anouna · anarx · «anunac» · «monáques» | 194 radicais «anun/anon/amun» | **ANUNNAKIS** | RC-024 ✓ (18 fontes) | normalizar; nota de 1ª ocorrência: «o STT fragmenta o nome em 12+ formas, inclusive dentro da mesma frase» |
+| Nibiro · Nibir · **inibir** · inibiro · Dibiro · Nibil · Nibiru | 52 (sendo **10 «inibir»**) | **NIBIRU** | RC-589 ✓ | normalizar; **«inibir» fica marcado como [TEXTO CORROMPIDO] em todo uso citável** (não é homófona, é deformação) |
+| Henk · Enk · Enque · enem · «dek» | 35 (Henk 12 · demais 23) | **ENKI** | RC-486 ✓ (12 fontes) | ⚠️⚠️ **ambiguidade O-2**: «Henk» designa **também** o chefe da nave dos 50 e batiza o «livro de Henk»; **não unificar sem o curador** |
+| Eli · Enio · Elio · «em Lio» · Enlio · Enlisava · «Lio» | 13 | **ENLIL** | RC-487 ✓ | normalizar; «Enlisava» é **fusão verbo/substantivo** do STT — registrar, não corrigir |
+| Narsag · Nhanag · Narsc · Ninha · Ninharsak · Ninhanc · Nharsá | 8 | **NINHARSAG/NINMAH** | RC-461 ✓ (Ninmah) | ⚠️ a fonte usa **uma só família de grafias para duas divindades**; manter [REVISAR] |
+| Gauzu · Gazu · Gauzul · Galzu · «Ga » | 19 | **GAUZU (EABANI?)** — a Base grafa **Gauzu** | RC-587/RC-461 como contexto; **sem código próprio** | grafar **Gauzu**; registrar o «selo de Anu» como detalhe inédito (nota em RC-024) |
+| Alalu · Lalu · Alu · «alu» | 37 | **ALALU** | ausente como termo próprio (está em RC-024/RC-587) | **termo-observação**; não criar código (navalha) |
+| Anu (27), «Aen», «aen que diz» | 27 | **ANU** | RC-587 ✓ | normalizar; «aen» = fusão «Anu»+proclase |
+| nefelim · Nefelin · Nefel · «réfeles» | 4 | **NEFILINS** | RC-488 ✓ | grafar **Nefilins**; a etimologia «Anuna = acadiano / nome sumério = nefelim» vai como **citação**, não como verbete |
+| Zudra · Zupro · «udras» | 3 | inexistente na Base (nem Ziusudra nem Utnapishtim) | — | grafar **Zudra** com [REVISAR]; **não** importar grafia acadêmica |
+| Noé · «Noé» (13 com Zudra) | 13 | em RC-424 (Linhagem dos Escolhidos) | RC-424 ✓ | ok como conteúdo; a frase «Noé é uma reinvenção.» fica **fora** (quarentena teológica) |
+| Enoque · Denoque · Enoqu · «Eno» · «E» | 23 | **ENOQUE** | RC-489 ✓ (12 fontes) | normalizar; **atenção**: «livro de E» é truncamento, não abreviação do autor |
+| Metatron · Metatron (2) · «Metratron» | 2 | **METATRON** | RC-671 ✓ | grafar **Metatron**; a «forma antimaterial de Enoque» é **ampliação de conteúdo**, não de nome |
+| Shimon Bariokai · Shimon Barokai | 2 | canônico da Base: **Shimon bar Yochai** (sem ficha própria; presente em corpo de fichas) | — | grafar **Shimon bar Yochai** com [REVISAR]; não criar código |
+| Sofia (34) | 34 | **SOPHIA** | RC-009 ✓ | grafar **Sophia** (canônico); **nunca** grafar «Sofia» em texto novo |
+| Rockman · Maul Cuf · Malufa · Malcua · Malukuf · «Rock» | 9 | **MALKUTH** (RC-682) / **HOCHMAH** (RC-565) / **SOPHIA** (RC-009) — três códigos separados | RC-682/RC-565/RC-009 | ⚠️⚠️ a fonte **funde** os epítetos; a apostila registra a fusão **como tese da fonte**, datada, sem reescrever as três fichas |
+| keter · Kter · Keper · «que ter» | 8 | **KETHER** | RC-261 ✓ | grafar **Kether**; a frase "Javé é que ter" é a equivalência Javé = Kether → **O-4** |
+| Shockma | 1 | **HOCHMAH** | RC-565 ✓ | grafar **Hochmah**; [REVISAR] «Sho voo» (2ª ocorrência, irrecuperável) |
+| Biná (2) | 2 | **BINAH** | RC-675 ✓ | ok |
+| «DAF» | 1 | **DAATH** (RC-262, hoje só com fonte em livro B013) | RC-262 | ⚠️ **O-3**: só vincular se o curador confirmar a leitura «DAF = Daath» |
+| sefirás · Sefiraz · «10firais» · «asfiraz» · «céfirada» | 5 | **SEFIROT / ÁRVORE DA VIDA** | RC-263 ✓ | grafar **sefirot**; a fonte dá **10** menções numéricas ao longo do bloco final |
+| Cabalá · Cabala (11) | 11 | **CABALA** (tratada nas fichas de sefirot/ticum) | RC-263/RC-514 | ok |
+| ticum (3) | 3 | **TIKUN** | RC-514 ✓ (20 fontes) | grafar **Tikun**; a definição «reparo no genoma do criador» é **ampliação forte**, candidata a entrada na ficha |
+| Zintzum | 1 | **TZIMTZUM** | RC-008 ✓ (só B013) | ⚠️ **O-6**: é o **título de livro do próprio autor** («Zintzum, o exílio forçado de divindade»); identificar edição, **não** cadastrar |
+| Marra Barat · Marrabarata · Marabarata · «Marraabar» · Bagavaguita | 9 | **MAHABHARATA** (RC-593 ✓) / **BHAGAVAD GITA** (sem ficha) | RC-593 | grafar **Mahabharata** e **Bhagavad Gita**; registrar as 4 grafias em nota |
+| Brama · Braba · Brama (23 com «bram») | 23 | **BRAHMA** | RC-037 ✓ | normalizar |
+| Chiva · chivra · «Sho voo» · quechava | 13 | **SHIVA** (RC-102 ✓) / **KESHAVA** (RC-425) | RC-102/RC-425 | normalizar; «quechava» é **fusão** de «Keshava» com o pronome: registrar |
+| Vígno · Virghiva · «Vmo» · Virgem (fusão) | 4 | **VISHNU** | RC-104 ✓ (39 fontes) | ⚠️ o STT grafou «Virgem» onde se lê Vishnu em pelo menos um ponto de fonte anterior — **manter a palavra da fonte entre aspas, nunca em paráfrase** |
+| Krishna (11) · Crisna | 11 | **KRISHNA** | RC-414 ✓ | ok; a atribuição «introdutor do conceito de dharma» é o núcleo do vínculo |
+| Arjuna · Ajuna · «Aruna» · «Aruna» | 9 | **ARJUNA** | sem ficha | conteúdo de RC-322; grafar Arjuna |
+| carna · «Carna» | 3 | **KARNA** (herói do Mahabharata) | sem ficha | ⚠️ **homófona perigosa** com «carne» (7 ocorr.), que o STT também produz em «você não gerará carne»: **nunca** harmonizar as duas palavras |
+| varma · varna · casta | 5 | **VARNA / CASTAS** | RC-321 ✓ (Castas Trimurtianas) | grafar **varna**; RC-322 é o domicílio da tese «as castas foram criadas para os demônios» |
+| dharma · Darma · dma · «the dharma» | 15 | **DHARMA** | RC-322/RC-319/RC-320 ✓ | grafar **dharma**; «dma» = **perda de sílaba**, não abreviação |
+| karma · «carne» | 7 | **KARMA** | (tratado em várias fichas; **sem** código próprio a criar) | grafar karma; preservar «carne» **só** dentro de aspas |
+| Ragnarok · «Rainarok» · «o chamado nórdico» | 7 | **RAGNAROK** — a Base tem **RC-395 Ragnarok em Marte** | RC-395 ✓ | ⚠️ a fonte data o evento em **300 milhões de anos** (3 menções): divergência a selar, não a harmonizar |
+| Orlog · WER · Word · «três normes» | 3+1+1 | **WYRD/URÐ** (RC-658) · **NORNES** (RC-467) · **TEIA QUÂNTICA** (RC-559) | RC-658/RC-467/RC-559 | grafar Wyrd/Orlog/Nornes; «Word» é o STT para «Wyrd» — **não** traduzir duas vezes |
+| buraco negro (9) · «pronto de evento» · 3D/2D | 9 | sem código próprio para «buraco negro» (21 fichas o citam) | RC-161/RC-094 | **não criar código**; nota em RC-161 (memória quântica) com a fórmula da **mão única** |
+| matrix (6) · «sistema Matrix» | 6 | **MATRIX** (13 fichas citam; sem verbete próprio) | RC-002/RC-287 | grafar **matrix** em itálico quando termo da fonte; não criar código |
+| portais/portais (15) · «portais naturais» | 15 | RC-324/RC-532 (portais e conglomerados) | — | ok como conteúdo; **a frase que a sessão anterior tinha atribuído à fonte («o portal é o Sol») NÃO existe** — ver camada-0 §23 |
+| Frankstein (2) · «Mary Chily» (1) | 2 | a Base trata Frankenstein em **RC-776** (Ginnungagap) e **RC-302** (Epimeteu) | RC-776/RC-302 | grafar **Frankenstein**; a hipótese «Mary Shelley» fica como **hipótese do auditor**, nunca como fato |
+| tigela (3) · «chaval» · Kvasir (0) | 3 | **KVASIR** existe em RC-396/RC-378/RC-395/RC-454/RC-611/RC-730 | RC-396 ✓ | ⚠️ a fonte **não pronuncia** «Kvasir» (o STT cortou); **não** escrever «a fonte fala de Kvasir»; escrever «a fonte descreve a nascença a partir da tigela de saliva, sem nomear a figura» |
+| «toatas de Danã» (1) | 1 | **TUATHA DE DANANN** (RC-759 ✓, RC-464 ✓) | RC-759/RC-464 | grafar **Tuatha de Danann**; «toatas» é a grafia do bruto e vai em nota |
+| deep state (5) · Bilderberg (1) · Black Rock (1) · Vanguard (1) · Wall Street (1) | ~9 | **quarentena política** | — | **proibido** na apostila; ver camada-0 §17 |
+| sirianos (2) · reptilianos (2) · UFOs/APS/disco voador (8) | 12 | **quarentena ufológica**; a Base tem fichas próprias de contacto, mas **a fonte suspende o termo** | RC-089 etc. | não vincular: "Que diabos é sirianos? Vamos deixar para lá" |
+| «Bob Din» (1) · «ex-surgent major» (1) | 1 | [TEXTO CORROMPIDO] — hipótese do auditor: deformação de «ex-Sergeant Major»; **identidade não fixada** | — | **não** nomear; registrar como [REVISAR] |
+| «teurgia» (1) · magia (3) | 4 | conteúdo em RC-259/RC-463/RC-713 | RC-713 ✓ | grafar **teurgia**; a fórmula "Magia é uma das faces da teologia." fica como **citação de fechamento** do bloco cabalístico, se autorizada |
+| «inteligências artificiais autônomas» (0 no plural exato; 1 menção) | 1 | sem código | — | **datar e selar**: menção de 14/10/2023 a IA autônoma; não retroprojetar sobre fontes anteriores |
+| «livro de Henk» (3) · «livro de Enoque» (1) · «livro P» (1) · «Atraares» (1) · «livro de EC» (1) | 7 | ⚠️ **cinco designações de obra, nenhuma estável** | — | **nenhuma** entra como obra cadastrada; ver dossiê O-2/O-6 |
+
+## 3. Números que o STT degradou (proibido «consertar»)
+
+- «445.000.» com ponto interno; «5, 6 7.000 anos»; «48 49.000 anos»; «20, 30.000 anos»; «600, 700, 800 anos»; «1.4 V»; «18 m»; «0,5 mm»; «3600» (vírus) × «3.600» (órbita); «13.8 bilhões»; «5.000 200 anos» (precessão); «2000 496» / «499.» / «6 anos» (a última passagem); «20012» (o ano do episódio pessoal); «1,4 V» × «1.4 V» (duas grafias no mesmo bloco). → **tudo preservado como está**; a tabela de datações da camada-0 §21 é o único lugar onde se ordenam.
+
+## 4. Artefatos estruturais do arquivo (para a nota metodológica da apostila)
+
+1. **94 linhas** e **1.501 períodos**: a linha do STT **não** coincide com a frase — metade dos períodos está colada em linhas que contêm de 5 a 180 períodos.
+2. **93 quebras CRLF**: o arquivo veio com terminação Windows; nenhuma linha foi reescalona.
+3. **Linhas = turnos de fala** do locutor principal, com as falas dos ouvintes **coladas dentro** (sem marcador de turno): por isso o Q&A aparece como monólogo.
+4. **Censuras** do transcritor (`c*****`, `m****`, `f**`) preservadas.
+5. **Nenhuma pontuação é do autor**: é do motor de fala. Consequência: aspas «» desta Base são **rótulos**, não marcação da fonte.
+
+## 5. Veredito da auditoria terminológica
+
+- **0 termos novos obrigatórios**: «honra», «honra demodármica», «fado ou sorte», «loop temporal», «poder circunstancial», «povo espécie», «adidaiva», «camuflagem da realidade», «rede de fofoca», «teurgia», «Zudra», «Alalu», «Gauzu» — **todos** têm pouso em fichas existentes ou ficam como termos-observação. O teto de **777** códigos permanece intocado; **RC-778 segue não consumido**.
+- **2 grafias que não podem ser normalizadas sem nota**: «inibir» (= Nibiru, 10×) e «Henk» (= Enki **ou** emissário, 12×).
+- **1 erro de hipótese de leitura corrigido neste ciclo**: «366 manuscritos» (RC-672) **não** ocorre nesta fonte; a ausência está medida (0 ocorrências de «366»).

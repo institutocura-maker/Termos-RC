@@ -1,0 +1,79 @@
+CAMADA 3 — MATRIZ DE CURADORIA
+P2023-10-14 — A Esquecida Honra dos Anunnaki
+
+Camada de decisão (**propositiva, nunca autoaplicada**). Cada linha: o que a fonte entrega → onde deveria pousar → por quê → o que fica **fora**. Contadores da Base no ato desta leitura (**medidos**, não lembrados): **777 termos** (`len(TERMOS)=777` em `ferramentas/dados_termos.py`) · **1.856 relações** (`len(RELACOES)=1856`) · **451 fichas** em `termos/*.md` · **53** identificadores de obra `B0xx` citados no cadastro · **54** fichas já contendo a ampliação do ciclo anterior (`## Ampliação — P2021-05-15`). Nenhuma dessas quatro cifras se move nesta etapa; a devolutiva do curador é que decide.
+
+## 1. Os 14 movimentos estruturais da fonte × destinos
+
+| # | Movimento (bloco U00xx) | Âncoras de destino | Veredito proposto |
+|---|---|---|---|
+| M1 | **A HONRA como propriedade de espécie** — «só duas têm noção de honra»; «o anúncio do título»; U0020/U0085 | **nenhuma ficha contém «honra» no nome** (15 fichas a usam em corpo) | ⚠️ **O-1**: propor (a) **nenhum código novo**; (b) nota transversal «honra demodármica» em RC-474 e RC-745 (as duas fichas onde o adjetivo já vive) + em RC-322; (c) a palavra vira **verbete do dicionário da apostila** (Apêndice), não da Base |
+| M2 | **Dharma/varna/karma criados para híbridos, não para humanos**; U0020 | RC-322 (ficha=**False**) · RC-319 · RC-320 · RC-321 · RC-104 · RC-414 · RC-425 (False) | ⭐⭐⭐ **bloco de 5 anterioridades simultâneas** (todos hoje ancorados em P2024-11-30 ou 2024-11-09) + **materialização de RC-322 e RC-425** se o curador aceitar o precedente |
+| M3 | **Fado × destino** como categoria técnica dos Anunnakis; U0033 | RC-467 · RC-658 · RC-718 · RC-559 · RC-094 | **absorção**: a formulação oral de 2023 é a mais explícita que a Base tem do par; **sem** código novo |
+| M4 | **Loop temporal** («os primeiros serão sempre os últimos»); U0085 | **RC-272 (Laço Temporal de Kether/Javé — hoje só B013, ficha=False)** | ⭐⭐⭐ **a 1ª fonte-palestra do código**, se autorizada; é também a 1ª vez que a expressão inglesa aparece em fonte datada da Arca |
+| M5 | **O colapso de Javé como impedimento do julgamento**; U0033 | RC-001 · RC-422 (False→**SIM**, já materializada) · RC-742 · RC-745 · RC-005 | ⭐⭐ **RC-422 ganha anterioridade** (hoje 2024-11-09) com a frase "Ele é um eu implodido num corpo colapsado que nunca morre porque os anjos dão choque o tempo todo, mantendo-o vivo." |
+| M6 | **A linhagem regenerada de Brahma** citada como conteúdo do «Marra Barat»; U0020 | RC-696 (hoje 2024-07-13) · RC-037 · RC-593 | ⭐ **anterioridade em RC-696**; **não** renomear o texto da ficha para a grafia da fonte |
+| M7 | **A fabricação do sapiens + marcador genético + os dois genes** (Enki × Pandora); U0005/U0015 | RC-486 · RC-461 · RC-516 · RC-488 · RC-580 · RC-424 | **absorção em RC-486/RC-516**; a frase do destino («resignado e obediente») vai como **citação datada**, não como doutrina |
+| M8 | **As cinco bombas no vale de Sidim** e a expulsão; U0018 | RC-583 · RC-460 · RC-588 · RC-589 · RC-587 | ⚠️ **divergência de datação interna** (4.000 anos × 2200 a.C. da vez de Marduque): **selar com a data da fonte**; não corrigir nenhuma das duas fichas |
+| M9 | **GAUZU, o emissário com selo de Anu e a ordem de não voltar**; U0003/U0041 | RC-587 · RC-487 · RC-486 · RC-461 · (Gauzu sem ficha) | ⭐ **a carta com selo é material inédito**; propor **nota em RC-587** e entrada no dicionário da apostila; **não** abrir código para «Gauzu» (o slot existe? verificar — **mesmo se existir, manter como termo-observação**) |
+| M10 | **A ordem secreta de Nibiro, em duas versões** (U0003 × U0041) e os avisos de Gauzu citados de obra terceira; U0041 | RC-024 · RC-589 · RC-489 · RC-673 | **duas versões = duas ocorrências**, nunca uma síntese; a citação «vós três permanecerão na terra, só voltarão para o nibiro para morrer» entra **como citação da fonte sobre a fonte** |
+| M11 | **Cabala: Javé=Kether, Daath=abismo luminoso, Árvore da Vida criada por Enoque, Malukuf=10ª**; U0071 | RC-261 (2024-07-14) · RC-262 (só B013) · RC-263 (2024-07-14) · RC-675 (2024-07-14) · RC-682 · RC-565 · RC-671 · RC-489 · RC-008 (só B013) | ⭐⭐⭐ **o bloco mais valioso do ciclo em anterioridade**: 4 códigos ganham 2023-10-14 como fonte; **3** (RC-008, RC-262, RC-272) passariam de «só livro» a «também palestra» |
+| M12 | **Metatron = forma antimaterial de Enoque, com prazo de validade**; U0071 | RC-671 · RC-489 · RC-672 ⚠️ | **RC-671 recebe a ampliação**; **RC-672 fica FORA** (a contagem de manuscritos não ocorre nesta fonte — ver camada-2 §5) |
+| M13 | **Campos mórficos, rede de fofoca, «novela das 8»**; U0085/U0081 | RC-381 (False) · RC-191 (False) · RC-559 · RC-658 | ⭐⭐ **duas materializações candidatas** + anterioridade dupla (RC-381 hoje 2024-04-14; RC-191 hoje 2025-02-15) |
+| M14 | **Arcontes = «donos»**, definição dada em fala; U0015 | RC-474 · RC-770 (só P2026-07-25) · RC-009 | ⭐ **RC-770 ganha anterioridade** com "o que eliminou de seres que se sentiam arcontes, ou seja, donos." — a definição é curta, exata e testável |
+
+## 2. Matriz de anterioridade (medida, não lembrada)
+
+Formato: código · nome · fonte mais antiga **hoje** · o que a fonte de 2023 entrega.
+
+| código | nome | mais antiga hoje | ⚑ | conteúdo novo |
+|---|---|---|---|---|
+| RC-272 | Laço Temporal de Kether/Javé | **B013 (só livro)** | ⭐⭐⭐ | 1ª fonte-palestra + a expressão «loop temporal» |
+| RC-008 | Tzimtzum | **B013 (só livro)** | ⭐⭐⭐ | o autor nomeia o **próprio livro** com o subtítulo do conceito |
+| RC-262 | Daath | **B013 (só livro)** | ⭐⭐ (condicional a O-3) | «Abismo luminoso.» |
+| RC-322 | Dharma e Castas (origem demo) | P2024-11-30 | ⭐⭐⭐ | a tese completa + materialização |
+| RC-425 | Krishna como «pretenso Keshava» | P2024-11-30 | ⭐⭐ | «quechava» + a sequência dos avatares |
+| RC-432 | Agressividade canalizada (DNA doentio) | P2024-11-30 | ⭐ | o «retardamento mental» dos deuses (⚠️ quarentena no uso) |
+| RC-319/320/321 | Fator Dharma / Senhores do Dharma / Castas Trimurtianas | P2024-11-30 | ⭐⭐ | as três fichas recebem a mesma data: **aplicar em bloco** |
+| RC-381 | Ressonância Mórfica | P2024-04-14 | ⭐⭐ | "campos mórficos que são usados por seres desse universo vizinho." |
+| RC-191 | Fofocas cósmicas | P2025-02-15 | ⭐⭐⭐ | "o espírito que me anima faz parte de uma rede de fofota grande na espiritualidade" |
+| RC-422 | Ser-Criador fracassado | P2024-11-09 | ⭐⭐ | o eu implodido mantido vivo por choques |
+| RC-261 | Kether | P2024-07-14 | ⭐⭐ | «Javé é que ter [Kether]» |
+| RC-263 | Sefirot / Árvore da Vida | P2024-07-14 | ⭐⭐ | a Árvore como invenção de Enoque para os deuses se verem |
+| RC-675 | Binah | P2024-07-14 | ⭐ | «Aí tem Shockma e biná. … Sho voo e biná é Shiva.» |
+| RC-696 | Geração Regenerada de Brahma | P2024-07-13 | ⭐⭐ | a linhagem regenerada no «Marra Barat» |
+| RC-545 | Coconstrutores da Obra (tikun) | P2024-07-14 | ⭐ | as nove sefirot reconstruídas «para resolver o problema da matrix» |
+| RC-673 | Intercessão de Enoque pelos Anunnakis | P2023-12-02 | ⭐ | Enoque enviado com agenda/aviso (3 meses e 18 dias antes da sua fonte atual) |
+| RC-770 | Hipóstase dos Arcontes | P2026-07-25 | ⭐ | arcontes = donos |
+| **sem** anterioridade (só ampliação de uso) | RC-024 · RC-486 · RC-487 · RC-488 · RC-489 · RC-671 · RC-682 · RC-565 · RC-009 · RC-005 · RC-072 · RC-001 · RC-161 · RC-378 · RC-593 · RC-414 · RC-514 · RC-516 · RC-589 · RC-587 · RC-580 · RC-583 · RC-461 · RC-460 · RC-104 · RC-102 · RC-037 · RC-395 · RC-467 · RC-658 · RC-559 · RC-702 · RC-094 · RC-424 · RC-745 · RC-474 · RC-713 · RC-302 · RC-776 | — | — | suas fontes mais antigas são **anteriores** a 14/10/2023; entrarão com conteúdo novo e data, sem toque na linha do tempo |
+| **FORA** | RC-672 (366 manuscritos) | P2024-11-03 | ✗ | **não vincular**: a contagem não existe nesta fonte (0 ocorrências medidas) |
+
+## 3. O que este ciclo NÃO proporá (navalha aplicada)
+
+1. **Nenhum código novo.** Candidatos recusados: «honra», «honra demodármica», «povo espécie», «fado ou sorte», «poder circunstancial», «previsibilidade», «Zudra», «Alalu», «Gauzu», «Kvasir» (já existe em RC-396, ficha=False), «adidaiva», «teurgia», «wyrd» (já existe em RC-658), «loop temporal» (já existe em RC-272). **Teto 777 intocado; RC-778 não consumido.**
+2. **Nenhuma renomeação.** Não se troca «Anunnakis» por «Anunnaki», nem «Sophia» por «Sofia», nem «Nefilins» por «Nefelim»: a grafia canônica vale **no texto novo**; a do bruto fica em nota e no Apêndice.
+3. **Nenhuma fusão de epítetos.** A fonte funde Sophia/Rockman/Malukuf/Messias; a Base mantém RC-009/RC-565/RC-682 separados. **A fusão vira citação datada, nunca estrutura de ficha.**
+4. **Nenhuma retrodatação.** As cifras da fonte (300 milhões, 700.000, 445.000, 4.000, 2012, 3.600) entram **ao lado** das canônicas com selo «P2023-10-14».
+5. **Nenhuma ciência de borda como fato.** Nibiru visível, Vídeos de satélite, «300 sites», 3600 espécies de vírus, campo de 1,4 V, «mais de 500 mitos de dilúvio», Bob Din [REVISAR] — tudo **dito pela fonte**; nada verificado por este agente.
+6. **Nenhum vínculo de confirmação com peças não localizadas.** "Você já falou isso em outros vídeos", "a palestra amanhã às 10 da manhã", "o livro que a gente lançou" (Irém Iron), "o livro de Henk", "o livro P", "Atraares", "o livro de EC": **cinco menções a obras/peças que este agente não identifica**. Ficam como radar, não como `VÍNCULOS`.
+7. **Nenhuma citação dos blocos retidos** (política, guerra, menores, saúde, juízos sobre mulheres e sobre pessoas com deficiência). Ver camada-0 §17 e §9, e §19: o bloco Kennedy/orçamento secreto e o episódio Faria Lima ficam **fora de tudo** que não seja esta camada-0.
+
+## 4. Decisões de fronteira (onde o ciclo decide **não** decidir)
+
+| nó | as duas leituras possíveis | o que a fonte autoriza | proposta |
+|---|---|---|---|
+| **Henk** | (= Enki, pai genético) × (= emissário de Anu, chefe dos 50) | as duas funções aparecem com a mesma grafia, inclusive em frases incompatíveis | ⚠️ **O-2, a mais importante do ciclo**: manter **as duas** leituras documentadas; **não** criar «Henk» como variante de RC-486 sem decisão |
+| «livro de Henk» | obra de Enki × obra sobre Henk × deformação de «livro de Enoque» | a fonte o cita como obra lida em voz alta | nenhuma obra entra no cadastro (102 obras intocadas) |
+| «DAF» | Daath × outro conceito cabalístico | o predicado «abismo luminoso» casa com Daath | vincular **só** com sim do curador |
+| Nefilins | sinônimo de Anunnakis × classe distinta | "o nome dos anunaques na linguagem suméria é nefelim" + "Gigante é uma coisa, o extraterrestre é outra." | reforçar RC-488 com a citação; **não** unificar com RC-024 |
+| «as cinco bombas restantes» | cinco × «2200 a.C.» × «4.000 anos» | três datações em dois blocos diferentes da fala | **selar as três**, em nota única, com o número de linhas de origem |
+| «o bem não destrói o mal sob pena de se tornar igual a ele» | variante da fórmula canônica × formulação autônoma | a fórmula canônica da Base tem redação própria e está em RC-422/RC-742 | registrar **como variante datada**; não reescrever a canônica |
+| Título | «A Esquecida Honra dos Anunnaki» (arquivo) × «a honra esquecida dos anunx» × «a honra perdida dos anunx» (arquivos do autor) | as três formas ocorrem; a primeira é do nome do arquivo | **ficha de ingresso** registra as três; apostila mantém o nome do arquivo; a Base não padroniza o título da fala |
+
+## 5. Radar (pendências externas ao ciclo)
+
+- **S-1** · palestra de **15/10/2023, 10h** (a fonte anuncia e corrige o horário ao vivo) — inquérito ao curador; **nada a criar**.
+- **S-2** · «Irém Iron, Universos emissão, Colisão» — obra própria ficcional, co-escrita; identificar edição.
+- **S-3** · «Zintzum, o exílio forçado de divindade» — identificar edição/ano; **não** duplicar com B013.
+- **S-4** · a «carta com selo de Anu» e o episódio Faria Lima: **biográfico**; se houver verbete biográfico do expositor, fica lá — **nunca** em código de hierarquia divina (regra RC-232).
+- **S-5** · R-1 (registro de anterioridade do pacote H2) e ⚠️ `DECLARAÇÃO DE ESTADO` com o verbatim da devolutiva principal do ciclo anterior: **ambas à espera do curador desde o ciclo P2021-05-15**.
