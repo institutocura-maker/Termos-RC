@@ -14,7 +14,7 @@ from docx.enum.text import WD_ALIGN_PARAGRAPH
 
 AQUI = Path(__file__).resolve().parent
 MD = AQUI.parent / "apostila.md"
-OUT = AQUI.parent / "Apostila - Reintegração Cósmica: Tempo de Ruptura.docx"
+OUT = AQUI.parent / "Apostila - Reintegração Cósmica — Tempo de Ruptura.docx"
 
 doc = Document()
 
