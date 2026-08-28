@@ -69,3 +69,11 @@ Localizações das flechas permanecem alegações da palestra; o eBook não forn
 
 - **A Revelação de Ifá no cumprimento:** os 256 caminhos (RC-767) e a destinação dos seres como parte da revelação das "setas" de Moros (RC-611) — "o único compêndio produzido que serve de manual de orientação quanto ao futuro que já se encontra escrito";
 - **Sexta etapa por ocorrer:** "terá que ser feita pelas gerações humanas futuras... sendo esta a única maneira de organizar e minimizar o sofrimento do inevitável trânsito de todos os seres do Orum para a condição humana".
+
+---
+
+## Reforço — P2025-07-18 — sincronicidade profetizável e inevitabilidade
+
+- **[P2025-07-18 · U00013–U00016] Sincronicidade profetizável:** a palestra distingue **inevitabilidade** (o peso das Flechas de Moros — RC-611) de **previsibilidade** (a leitura dos padrões da teia — RC-658/RC-767), propondo que a vida é "parcialmente profetizável". Esta é uma **nota cruzada** com RC-611 e RC-658, conforme a Devolutiva O-2 (Sincronicidade Profetizável absorvida estritamente como nota cruzada RC-611/658/718, sem código independente);
+- **O cumprimento em curso:** a distinção reforça o registro existente — a Revelação Cósmica como a revelação das setas (P2023-12-02) e os 256 caminhos de Orunmilá (RC-767) como o compêndio de leitura do "futuro que já se encontra escrito";
+- **Quarentena:** a profetização é apresentada pelo expositor como hipótese cosmológica ligada à teia do destino; não é afirmação de causalidade científica nem de previsão verificável.

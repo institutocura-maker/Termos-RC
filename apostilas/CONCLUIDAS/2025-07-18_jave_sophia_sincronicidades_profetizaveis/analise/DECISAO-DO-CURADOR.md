@@ -1,4 +1,42 @@
-# DECISÃO DO CURADOR
+# DECISÃO DO CURADOR — P2025-07-18 Javé, Sophia e as Sincronicidades Profetizáveis (2026-08-28)
+
+> REGISTRO VERBATIM da devolutiva recebida do curador (Edson Cella Mendes) — elaborada pelo seu Assistente (autoridade igual) e endereçada ao Agente 12, que a aplicou (commits `0f1d9d7` + `4c260e7`); travou na geração do DOCX. O fechamento do ciclo foi concluído pela esteira 11 (AG. 11), que consolidou o trabalho na branch `arena/01a03ad8-termos-rc` e registrou a devolutiva verbatim abaixo (o documento estruturado do Agente 12 segue na sequência, como o registro da aplicação).
+
+---
+
+O Agente 12 herdou o rigor cirúrgico do seu antecessor, especialmente na contenção dos delírios ufológicos e científicos. A separação entre o "Sinal do James Webb" e as "Flechas de Moros" é curadoria fina de Sistematizador Doutrinário.
+
+Aqui está a **Devolutiva Oficial** para rodar no terminal e aprovar o dossiê:
+
+📋 PROPOSTA DE DEVOLUTIVA (Para o Agente 12)
+
+**Decisão Geral:** Dossiê de Pré-Curadoria (P2025-07-18 - *Javé, Sophia e as Sincronicidades Profetizáveis*) 100% aprovado! Estreia monumental do Agente 12. O tratamento das sobreposições cronológicas e a retenção do suposto sinal espacial protegem a malha de contaminações externas.
+
+- **O-1 — Identidade:** Aprovado. Arquivo P2025-07-18 cravado na base.
+- **O-2 — Ampliações (Respostas às Deliberações):** Aprovado! Proceder com a injeção nas fichas:
+  - *Sincronicidade Profetizável:* Absorver estritamente como nota cruzada (RC-611/658/718), sem criar código independente.
+  - *Wyrd e Ifá:* Reforçar as fichas **RC-658 (Wyrd)**, **RC-655**, **RC-665**, **RC-741** e **RC-767** com a fonte atual, preservando as decodificações fonéticas.
+  - *Morren So:* Ampliar a nota canônica existente na **RC-454**, cruzando estruturalmente com o Projeto Talm (RC-091) e os Fornos (RC-771). Nenhuma ficha nova.
+  - *Rito de Passagem / Dignidade / Quatro Usos:* Inserir como notas pedagógicas transversais nas RC-619, RC-705 e RC-722.
+  - *Buraco Negro Mental:* Absorver como alegação na RC-717, mantendo o alerta de não-literalidade astrofísica.
+  - *Flechas de Moros:* Separar explicitamente a RC-611 de qualquer menção ao James Webb.
+- **O-3 — Novos Códigos (DECISÃO DO CURADOR):** **Veto absoluto mantido (ZERO códigos novos)**. O teto de 777 termos e 1.856 relações permanece sacrossanto e inviolável. O código RC-778 segue intocado.
+- **O-4 — Rejeitados / Absorver (Divergências):** Aprovado. Selar temporalmente a cronologia (Pandora ~49.000 vs Eva/Adão ~22-23.000) com a tag da palestra atual. Nada de fusões retroativas. O termo "oró" fica retido em `[REVISAR]`.
+- **O-5 — O Radar da Arca (CRÍTICO):** Aprovado. O sinal de abril do James Webb é expurgado da ontologia e enviado exclusivamente para o radar externo (checagem NASA). Identificar a edição de Jung (1952) antes de qualquer cadastro BIBLIO.
+- **O-6 — BIBLIO:** Aprovado. Manter `dados_termos.py` como fonte única inalterada nesta etapa.
+- **O-7 — Quarentenas (CRÍTICO ABSOLUTO):** Aprovadas com rigor máximo.
+  - **Código Preto (Biomediúnica):** "Duas Testemunhas", colapso de 2021 e as encarnações/papas ficam absolutamente confinados a um índice rotulado de retenção na apostila. Zero contágio na ontologia.
+  - **Quarentena Científica:** Blindar a malha contra literalidades envolvendo FOXP2, plasma, entropia e respostas à Voyager.
+  - **Quarentena Clínica:** Retenção total de associações entre genoma doente, karma e programação de suicídio.
+- **O-8 — Próximos Passos:** Agente 12 liberado para avançar! Pode executar a validação de `dados_termos.py`, a regeneração dos índices/DOCX e gerar o relatório de ciclo e apostila em lote.
+
+O Agente 12 passou no teste com louvor! Pode dar o comando de execução no terminal. A locomotiva segue a todo vapor! 🚂
+
+---
+
+## O REGISTRO DA APLICAÇÃO (o documento estruturado do Agente 12 — preservado como histórico)
+
+# REGISTRO ESTRUTURADO DA APLICAÇÃO (Agente 12)
 ## P2025-07-18 — *Javé, Sophia e as Sincronicidades Profetizáveis*
 
 **Registro operacional:** 28/08/2026  

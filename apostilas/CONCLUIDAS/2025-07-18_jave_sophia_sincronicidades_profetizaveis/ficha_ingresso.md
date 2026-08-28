@@ -1,6 +1,6 @@
 # Ficha de Ingresso v2.0 — P2025-07-18 — Javé, Sophia e as Sincronicidades Profetizáveis
 
-> **ESTADO OPERACIONAL: CICLO PÓS-CURADORIA CONCLUÍDO — DEVOLUTIVA 100% APLICADA.** Zero códigos novos; RC-778 permanece intocado. A fonte única permanece em 777 termos e 1.856 relações. Fichas existentes ampliadas conforme `analise/DECISAO-DO-CURADOR.md`; fonte original preservada byte a byte.
+> **ESTADO OPERACIONAL: CONCLUÍDO (28/08/2026 — o resgate do AG. 11).** A devolutiva do Assistente do curador 100% aplicada pelo AG. 12 (14 fichas + 15 vínculos; 0 códigos; RC-778 intocado) → o ciclo fechado pela esteira 11: a devolutiva registrada VERBATIM + a nota cruzada da Sincronicidade Profetizável completada na RC-718 (o mandato O-2) + os espelhos regenerados + o DOCX gerado (onde o AG. 12 travou) + o RELATORIO + a governança. **A 29ª DA FASE — A ÚLTIMA DO TEMA.** Pasta engavetada em `apostilas/CONCLUIDAS/` (A ARCA — 66 apostilas).
 
 ## 1. Identificação
 
