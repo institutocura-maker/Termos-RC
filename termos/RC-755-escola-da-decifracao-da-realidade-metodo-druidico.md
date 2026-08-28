@@ -35,7 +35,7 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A ESCOLA DA DECIFRAÇÃO JÁ OPERANDO EM 2020, COM DATAÇÃO PRÓPRIA]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006); "os anjos chegavam para aparecem no contexto dos livros mais antigos dizendo, mas eles os a nossa criatura superior a nós?" (U0006) — A fórmula do «decifrar» vem com contagem («3–4 milhões de anos; substanciada há ~2 milhões») — selo temporal D-10. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A ESCOLA DA DECIFRAÇÃO JÁ OPERANDO EM 2020, COM DATAÇÃO PRÓPRIA]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006); "os anjos chegavam para aparecem no contexto dos livros mais antigos dizendo, mas eles os a nossa criatura superior a nós?" (U0006) — A fórmula do «decifrar» vem com contagem (3–4 milhões de anos, substanciada há ~2 milhões) — selo temporal D-10. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## Fontes
 

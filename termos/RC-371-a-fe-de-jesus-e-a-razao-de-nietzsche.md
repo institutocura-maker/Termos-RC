@@ -26,7 +26,7 @@ O B049 explora a dialética fé × razão como complementares: a fé de Jesus (a
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · «NIETS» NA BOCA DA FONTE: A ABREVIAÇÃO E O REFERENTE]** "Niets dizia que quando você olha olha para um abismo, tanto você olhar para o abismo durante um bom tempo, esse abismo termina olhando para você." (U0006); "Então eu tô tentando dizer para vocês que nós, os seres humanos, somos o abismo paraa Javela." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B049`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+- **[P2020-04-25 · NIETS NA BOCA DA FONTE: A ABREVIAÇÃO E O REFERENTE]** "Niets dizia que quando você olha olha para um abismo, tanto você olhar para o abismo durante um bom tempo, esse abismo termina olhando para você." (U0006); "Então eu tô tentando dizer para vocês que nós, os seres humanos, somos o abismo paraa Javela." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B049`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

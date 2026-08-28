@@ -63,7 +63,7 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · «LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS» [REVISAR: Len Mion]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+- **[P2020-04-25 · LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS [REVISAR: Len Mion]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 - **[P2020-04-25 · A NOVA RAÇA COMO REPARAÇÃO, NÃO COMO PUNIÇÃO]** "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013); "Pergunta muito interessante que vai ser bilatéria, vai." (U0013)
 
 ## Fontes

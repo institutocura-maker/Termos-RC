@@ -31,7 +31,7 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A MESMA CENA CONTADA PELO AVESSO: PORTAIS, HERANÇA E O «VÍCIO ORACULAR»]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) — Bloco Pandora lido como **mecanismo de contenção** (travas postas pelos deuses), não como cosmogonia moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A MESMA CENA CONTADA PELO AVESSO: PORTAIS, HERANÇA E O VÍCIO ORACULAR]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) — Bloco Pandora lido como **mecanismo de contenção** (travas postas pelos deuses), não como cosmogonia moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

@@ -65,7 +65,7 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A TERRA COMO **ÚNICO** PLANETA REBELDE]** "deixou a Terra como o único planeta rebelde." (U0006) — ⚠️ A expressão «isolamento cósmico» tem **0** ocorrências nesta fonte (**medição**, não impressão): a ficha recebe o *conceito com dado próprio*, não a etiqueta. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-- **[P2020-04-25 · O QG TELETRANSPORTADO E O «PRISIONEIRO ISOLADO» (64 mil anos)]** "Há cerca de 64.000 anos, o quartel general da rebelião se teletransportou para alguma dimensão, ficou lá prisioneiro isolado." (U0006) — **Inédito na Base**: nem B057 nem as fichas do tema trazem esse episódio. Entra **datado**, sem harmonizar com os 98 mil da obra.
+- **[P2020-04-25 · O QG TELETRANSPORTADO E O PRISIONEIRO ISOLADO (64 mil anos)]** "Há cerca de 64.000 anos, o quartel general da rebelião se teletransportou para alguma dimensão, ficou lá prisioneiro isolado." (U0006) — **Inédito na Base**: nem B057 nem as fichas do tema trazem esse episódio. Entra **datado**, sem harmonizar com os 98 mil da obra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

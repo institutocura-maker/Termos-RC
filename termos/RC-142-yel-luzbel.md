@@ -26,7 +26,7 @@
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A VARIANTE «A REBELIÃO DE LÚCIA» [REVISAR: STT feminizou o nome]]** "a rebelião de Lúcia deixou a Terra como o único planeta rebelde." (U0006) — **D-7 aplicada:** hipótese documentada, correção recusada. A grafia canônica «Yel Luzbel» fica intocada; a variante entra datada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A VARIANTE A REBELIÃO DE LÚCIA [REVISAR: STT feminizou o nome]]** "a rebelião de Lúcia deixou a Terra como o único planeta rebelde." (U0006) — **D-7 aplicada:** hipótese documentada, correção recusada. A grafia canônica «Yel Luzbel» fica intocada; a variante entra datada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O QUE A FONTE **NÃO** DIZ SOBRE YEL]** "hoje é o marco zero que surgiu como produto dos desdob os da rebelião de Lúcifer." (U0006) — **Contagem medida**: «Yel» aparece **1** vez no bruto, e o termo composto «Yel Luzbel», **0**. Esta ficha recebe *ampliação de contexto*, não de nome — ver `camada-2.txt` §2.
 
 ---

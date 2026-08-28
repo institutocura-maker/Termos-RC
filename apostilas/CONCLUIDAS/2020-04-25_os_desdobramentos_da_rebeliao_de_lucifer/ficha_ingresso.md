@@ -7,7 +7,7 @@
 | código da fonte | `P2020-04-25` |
 | título do arquivo | «2020-04-25 - Os Desdobramentos da Rebelião de Lúcifer Olá, pessoal.» |
 | título curatorial | Os Desdobramentos da Rebelião de Lúcifer |
-| **tema nomeado pelo Curador** | **«Yel Luzbel ou Lúcifer»** (28/08/2026) |
+| **tema nomeado pelo Curador** | **Yel Luzbel ou Lúcifer** (28/08/2026) |
 | data da fala | **sábado, 25/04/2020** (calendário, não memória) |
 | ciclo de palestra | `apostilas/2020-04-25_os_desdobramentos_da_rebeliao_de_lucifer/` |
 | autor da fala | Jan Val Ellam («Rogério», como a fonte mesma se chama na abertura) |
@@ -84,4 +84,10 @@ anterioridade, navalha, radar) · `LEITURA-1-MACROESTRUTURA.md` · `DOSSIE-PRE-C
 
 ---
 
-**Nada foi aplicado na malha.** O rito está no ponto de **esperar a devolutiva do Curador**.
+**A esta altura do rito nada havia sido aplicado na malha.** A ficha fica congelada como registro de ingresso; o desfecho está em `DECISAO-DO-CURADOR.md` e em `analise/RELATORIO-DE-CICLO.md`.
+
+---
+
+## 6. Desfecho (28/08/2026, mesmo dia)
+
+Devolutiva D-1…D-14 registrada verbatim e aplicada em dois commits: **BLOCO A** (`5cc6b29`: pacote de 56 códigos, 45 fichas ampliadas, RC-020 materializada, portões C e D verdes) e **BLOCO B** (apostila de 54 blocos com 2 spans bloqueados da devolutiva, cobertura 85,45% medida, DOCX, relatório, `git mv` para `apostilas/CONCLUIDAS/` — a 69ª da Arca). **O `original.txt` deste ingresso terminou o ciclo com o mesmo SHA-256 com que entrou** (`1e8091e1…a7b3a`; `git diff` contra o commit do ingresso: vazio), e nenhum arquivo sob `livros/` foi tocado.

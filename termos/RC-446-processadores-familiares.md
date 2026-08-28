@@ -40,7 +40,7 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · O ÚNICO PROCESSADOR QUE SOBREVIVEU ÀS GUERRAS]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B057`, `B058`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+- **[P2020-04-25 · O ÚNICO PROCESSADOR QUE SOBREVIVEU ÀS GUERRAS]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B057`, `B058`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

@@ -18,6 +18,13 @@ AQUI = os.path.dirname(os.path.abspath(__file__))
 CICLO = os.path.dirname(AQUI)
 RAIZ = os.path.dirname(os.path.dirname(CICLO))
 BRUTO = " ".join(open(os.path.join(CICLO, "original.txt"), encoding="utf-8").read().split())
+# 2º corpus, declarado: aspas que citam a **devolutiva do Curador** (DECISAO §1) são fiéis à decisão,
+# não à fonte oral — continuam auditadas, só que contra o texto em que foram ditas.
+if os.path.exists(os.path.join(CICLO, "DECISAO-DO-CURADOR.md")):
+    _t = open(os.path.join(CICLO, "DECISAO-DO-CURADOR.md"), encoding="utf-8").read().split("## 1.")[1].split("## 2.")[0]
+    DEVOL = " ".join(re.sub(r"[>*`_#]", " ", _t).split()).casefold()
+else:
+    DEVOL = ""
 
 ARQS = [os.path.relpath(f, CICLO) for f in
         glob.glob(os.path.join(CICLO, "*.md")) + glob.glob(os.path.join(AQUI, "*.md")) +
@@ -27,6 +34,7 @@ ARQS = [a for a in sorted(set(ARQS)) if not a.endswith(("leitura-segmentada.txt"
 err_A = []
 err_B = []
 n_frag = 0
+n_dev = 0
 for rel in ARQS:
     txt = open(os.path.join(CICLO, rel), encoding="utf-8").read()
     if rel.endswith((".md", ".txt")):
@@ -45,9 +53,12 @@ for rel in ARQS:
                 if p.lower() in ("aspas de uso",):
                     continue
                 if p not in BRUTO:
+                    if re.sub(r"[*`_]", "", p).strip().casefold() in DEVOL:
+                        n_dev += 1
+                        continue
                     err_B.append(f"{rel}: não encontrado no bruto → «{p[:110]}»")
 
-print(f"arquivos testados: {len(ARQS)} · fragmentos longos testados: {n_frag}")
+print(f"arquivos testados: {len(ARQS)} · fragmentos longos testados: {n_frag} · aspas conferidas no 2º corpus (devolutiva): {n_dev}")
 print(f"portão A (paridade de aspas): {len(err_A)} problema(s)")
 for e in err_A[:12]:
     print("  ⚠️", e)

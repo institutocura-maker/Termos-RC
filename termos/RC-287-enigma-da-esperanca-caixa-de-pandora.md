@@ -37,7 +37,7 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A HERANÇA QUE RESTOU QUANDO O CONTROLE FALHOU]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B020`, `ART-2026-08-18`, `B087`, `B088`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+- **[P2020-04-25 · A HERANÇA QUE RESTOU QUANDO O CONTROLE FALHOU]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B020`, `ART-2026-08-18`, `B087`, `B088`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 
 ## Fontes
 

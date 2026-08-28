@@ -38,7 +38,7 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A MENTE UNA DE «CAPIILA» COMO CONHECIMENTO ABORTADO]** "Capila foi o primeiro a falar da mente uma." (U0006); "mente coletiva?" (U0009) — **D-7:** hipótese *Kapila/Sāṃkhya* documentada, fusão recusada. A fonte usa «mente una» — expressão que a Base não tem com esse nome (ver Apêndice). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A MENTE UNA DE CAPIILA COMO CONHECIMENTO ABORTADO]** "Capila foi o primeiro a falar da mente uma." (U0006); "mente coletiva?" (U0009) — **D-7:** hipótese *Kapila/Sāṃkhya* documentada, fusão recusada. A fonte usa «mente una» — expressão que a Base não tem com esse nome (ver Apêndice). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |

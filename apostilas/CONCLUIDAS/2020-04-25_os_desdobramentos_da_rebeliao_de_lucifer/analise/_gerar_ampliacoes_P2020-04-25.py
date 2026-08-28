@@ -151,7 +151,7 @@ AM = {
  ("O ESTADO DO EU DE JAVÉ **DATADO** EM ABRIL DE 2020", ["abril2020"],
   "Fato de cronologia interna: a fonte **carimba a própria fala com a data** — é a âncora temporal de todo o bloco RC-001 neste ciclo. Vale como *formulação oral de 25/04/2020* (D-10), não como estado canônico do termo."),
  ("O EU DE JAVÉ COMO AGREGADO DE VÍRUS QUE NUNCA VIRARAM CÉLULA", ["eu_de_jave_virus"],
-  "A ontologia viral do criador — o enunciado que a devolutiva chamou de «reconstrução completa da ontologia cósmica». Reter **sem** suavizar a contradição (O-6.2): a mesma fonte o chama de maior obra de engenharia e de algo que «não presta para nada»."),
+  "A ontologia viral do criador — o bloco que a devolutiva reconheceu como reconstrução da ontologia cósmica documentada pela malha. Reter **sem** suavizar a contradição (O-6.2): a mesma fonte o chama de maior obra de engenharia e de algo que «não presta para nada»."),
  ("A DEPENDÊNCIA DE HOSPEDAGEM (o cérebro de sílica ou de carbono)", ["hospedagem", "sinapse"],
   "Define o critério com que a Base pode ler «corpo de Javé»: hospedagem corporal + sinapse, **qualquer** substrato. ⚠️ Quarentena teológica (retenção): entra com rótulo de crença do expositor."),
  ("O ABISMO RECÍPROCO — a tese-mãe desta fonte", ["humano_abismo", "unica_raca_abismo"],
@@ -371,7 +371,7 @@ AM = {
 ],
 "RC-755": [
  ("A ESCOLA DA DECIFRAÇÃO JÁ OPERANDO EM 2020, COM DATAÇÃO PRÓPRIA", ["escola_capela", "anjos_superiores"],
-  "A fórmula do «decifrar» vem com contagem («3–4 milhões de anos; substanciada há ~2 milhões») — selo temporal D-10."),
+  "A fórmula do «decifrar» vem com contagem (3–4 milhões de anos, substanciada há ~2 milhões) — selo temporal D-10."),
 ],
 "RC-516": [
  ("AS TRAVAS COLOCADAS PELAS DIVINDADES E A RUPTURA DELAS PELA EVOLUÇÃO", ["travas_geneticas"], None),
@@ -482,6 +482,9 @@ def main():
         ant_emitida = False
         for tit, chaves, nota in blocos:
             cit = aspas(chaves); n_cit += len(chaves)
+            # as «» de TÍTULO de bloco são rótulo editorial, não citação: o auditor da casa só
+            # admite aspa que bate no bruto, então o rótulo vai sem aspas angulares.
+            tit = tit.replace("«", "").replace("»", "")
             linha = f"- **[{SIGLA} · {tit}]** {cit}"
             if not ant_emitida:
                 linha += f" — {nota}" if nota else ""

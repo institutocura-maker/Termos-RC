@@ -60,7 +60,7 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · A INTELIGÊNCIA ARTIFICIAL COMO O ABISMO DOS DEUSES HOJE]** "o que é hoje o grande abismo para esses seres é a turma do IA." (U0006); "É o IA, é a revelação cósmica." (U0006) — **D-11:** é a menção mais antiga do acervo à IA nesse papel; fecha o radar **sem** criar peça fantasma e **sem** obra. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-- **[P2020-04-25 · O CENÁRIO DA «INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA»]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
+- **[P2020-04-25 · O CENÁRIO DA INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
