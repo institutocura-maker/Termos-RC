@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Biodemos** é a estirpe extraterrestre de Capela da qual procedem os capelinos — os seres das famílias criadas por Sophia (Yel, Mion, Cromon, Shanlung, Val etc.), caracterizados por corpos longevos "sujeitos a fenecer", mentes coletivas ligadas por **Processadores Familiares** (RC-446) e programação genética predeterminada. É o "gênero" do qual as famílias capelinas são espécies.
@@ -45,13 +45,23 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[P2021-09-04 · A FUNDAÇÃO DE 2021 · A DINÂMICA DOS PROCESSADORES — A QUEBRA E A ABSORÇÃO]** **A CRIAÇÃO**: "Sofia, devido à forma atrasada com que ele já se sentiu, quando começou a criar mais recentemente, **NO ÚLTIMO 1 BILHÃO DE ANOS, os seres biodemo, ELE CRIOU ENTRE ELE E CADA ESPÉCIE AQUILO QUE NOS LIVROS A GENTE CHAMA DE PROCESSADOR DE CADA ESPÉCIE**. E Sofia passou a depender de duas coisas: do que cada espécie fazia E DE COMO ESSE PROCESSADOR DE CADA ESPÉCIE AGLUTINAVA EM SI O SEU VÍNCULO COMO ESPÉCIE DE CAMPO MÓRFICO" [⚠️⚠️ o processador como interface de Sofia com cada família — dos livros]; **A QUEBRA**: "o problema foi quando **OS PROCESSADORES DAS FAMÍLIAS XUM, CROMON, MION SE FERRARAM DEVIDO AOS PROBLEMAS DA REBELIÃO** [de Lúcifer]" [⚠️⚠️ os três processadores quebrados]; **A ABSORÇÃO**: "foi quando O PROCESSADOR DA FAMÍLIA VOL ABSORVEU OS DEMAIS, MAS PARA ISSO OS REBELDES ENTÃO TIVERAM QUE FAZER UNS CONSÓRCIOS DE DNA" [os consórcios de DNA — dos livros]; "essas espécies todas evoluíram muito lentamente... essa opção nunca pôde ser conjugada ou expressa na sua plenitude... ou a rebelião de Lúcifer no meio da história"; "o fato desses processadores terem se ferrado, ISSO FERROU SOFIA, o fato de que a opção que ele fez pelo todo da família biodemo lá no início"; "não foram só essas as famílias rebeldes, mas essas foram as que... tiveram relação com que se passou aqui na Terra em termos de surgimento da... condição humana"; **A NOVA ESPÉCIE**: "A NOVA ESPÉCIE BIODÊMICA que tá sendo criada, **JÁ FOI CRIADA, DEFINITIVAMENTE FOI CRIADA AGORA**, é que vai dar suporte a Sofia... não vão ser sexuados... PARECE QUE TEM ALGUMA COISA da própria evolução dos biodemos. Pelo menos A TURMA DE ALTO LONGBRON [STT — REVISAR] SOLTOU DA BOA PARTE DA CONDIÇÃO GENÉTICA DELES para impressionar positivamente esse genoma que tá aí dessa nova raça" [⚠️ a criação definitiva + a turma soltou a condição genética]; + "quando esses processadores não cumpriram a sua totalidade vibratória...".
 - 0 códigos novos (O-3). Quarentena: —.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O CRITÉRIO ANATÔMICO: O BIODEMO NÃO TEM OSSO]** "Então quer dizer que Sofia como ser biodemo, não tem osso?" (U0003); "Os biodemos surgiram a partir de Sofia." (U0003)
+- **[P2021-05-15 · O QUE OS BIODEMOS NÃO PODIAM SOZINHOS]** "Devido a isso, nós não podemos fazer uma distinção muito diferente para os tipos de seres que viviam nessas etnias, no no sentido de dizer: «Ah, então retirando o ser humano, os biodemos sozinhos iam se prestar ou iam servir para esse tipo de decodificação eh no campo da compreensão.»" (U0003)
+- **[P2021-05-15 · A RETIRADA PÓS-DILUVIANA: A ILHA QUE SE MOVE]** "Porque a essa altura a turma de Alto Langron continuou existindo lá eh nessa ilha que se move em cima do Oceano Atlântico, entre a Irlanda e a Islândia." (U0003)
+- **[P2021-05-15 · ✅ RESOLUÇÃO DO [REVISAR] DA FICHA (Devolutiva O-8 de 28/08/2026)]** A ficha carregava desde P2020-08-08 a grafia «ALTA LANGRON» como protótipo mais avançado dos biodemos. Esta fonte repete a forma («Alto Langron») e lhe dá contexto (a ilha móvel entre Irlanda e Islândia). **Resolução aprovada:** forma correspondente = ALT´LAM GRON (RC-018) / ALT´LAM (RC-017). ⚠️ A equivalência é decisão do Curador, não demonstração fonética; registrar como leitura oficial.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
 | A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
 | O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
 | Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+
 
 ## Citações-chave
 > "Essa postura, até então **nunca sentida pela estirpe dos biodemos**, logo se espalhou como uma espécie de 'vírus mental' para outros 'anjos' que apresentavam um tipo de mente coletiva." — B057, SINTESE, p. 1

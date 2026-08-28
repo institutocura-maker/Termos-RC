@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -98,15 +98,24 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[P2025-02-22 — eco] PANDORA FINANCIADA PELAS SERPENTES]** "houve uma outra história que eu não vou poder falar aqui de PANDORA QUE EFETIVAMENTE PRODUZ UM BOOM EM TERMOS DE GENOMA LIBERTÁRIO E SENCIENTE, ou seja, com consciência de si mesmo... QUEM FINANCIOU ISSO FOI UM GRUPO DE AMIGOS SERPENTES que [com] Epimeteu, que junto com Pandora produziram [filhos]... TUDO FINANCIADO PELAS SERPENTES MESTRES EM ALQUIMIA. E Epimeteu era também um mestre que trocava experiência" [⚠️⚠️ o financiamento serpentino de Pandora — RC-664/RC-697]; ⚠️ [a O-4] **A CRONOLOGIA**: "Cadru é milhões de anos. [KALIL KADMON] TRANSFORMOU EM PANDORA UMA COISA MAIS RECENTE ENTRE 80.000 ANOS E PANDORA ESPECIFICAMENTE SURGIU A 49[.000?] ANOS. EVA E ADÃO, CERCA DE 23, 22.000 ANOS ATRÁS" [⚠️ as divergências com os ~48.000 da P2023-04-01b e o "18.000 anos antes de Eva" da P2024-11-03 — documentadas com o selo temporal da P2025-02-22, SEM fusão].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O QUE OS OLÍMPICOS PASSARAM PARA PANDORA (a inversão do padrão)]** "Ah, quando Pandora recebeu no seu corpo várias sequências genéticas de Atena, de Apolo, a turma lá do Olímpico que Zeus mandou repassar para Pandora só eh sequências genéticas ruins." (U0006)
+- **[P2021-05-15 · A RACIONALIZAÇÃO EM ALTO NÍVEL (a tese que a ficha esperava)]** "Então, Pandora, quando ela se tornou mulher, ela automaticamente já estava racionalizada em alto nível." (U0006)
+- **[P2021-05-15 · PANDORA QUE SE FEZ FÊMEA HUMANA E PROCRIOU]** "Pandora, que terminou se tornando uma fêmea humana e procri e já descendentes racionalizados nasceram disso." (U0003); "Então, quando Pandora resolveu fazer uma metamorfose que ela nunca tinha feito, que foi exatamente de assumir como sendo a sua próxima cara, a de um rosto humano, porque ela amava os humanos, os animais de Primeteu, e como Efestos tinha dado paraa Pandora essa transição de fase que só ela tinha, os demos podem ser o que eles quiserem no padrão do que o genoma deles permit." (U0006)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B020 | O Sorriso de Pandora | livro |
 | B031 | Painéis Emergentes | livro |
 | P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-03-03 | palestras | palestra/STT |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
 
 ## Interpretação secundária (ART-2026-08-18)
 

@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Emergência futura de nova capacidade humana, atrelada a novo modo de expressão da consciência.
@@ -32,10 +32,19 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 
 - **[P2021-12-04 — FONTE ORIGINAL] O quarto cérebro (U0575–U0578):** "sempre que eu falar da emergência do quarto cérebro do ser humano... um novo modo desse ser humano vivenciar sua expressão de consciência" (U0575–U0576); "esse aqui é o momento definitivo em que se encerra toda essa história para trás e se começa um novo processo: quarto logos atuando, a questão da terra como ponto focal de um novo momento, já com a vinda de Sophia, já com um certo código ou pacto de convivência com seres do universo vizinho" (U0578).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O QUARTO CÉREBRO ANUNCIADO PARA O DIA SEGUINTE]** "Quem consome aquele tipo de droga tem desbloqueado esse essa condição de ir criando, eu vou falar sobre isso, uma palestra que eu devo fazer domingo em reserva são os protocolos da mente e o quarto cérebro vão criando, vão colonizando esses neurônios que ainda nem foram ativados ou ficam neutros." (U0003) — ⚠️ **Radar (Devolutiva O-8):** a palestra de domingo 16/05/2021 entra em busca prioritária — ainda não a temos.
+- **[P2021-05-15 · A RÉGUA DO FILME, SEPARADA DO QUE É DELE]** "A gente só pode responder o que é um ser humano quando a gente chegar a usar 100% do nosso potencial cerebral." (U0003)
+- **[P2021-05-15 · O CRÂNIO COMO ÚLTIMA FRONTEIRA]** "E em resumo, nós somos os únicos descendentes de Javé, falando desse jeito, com crânio protegendo um cérebro que ainda tem espaço para que a natureza humana colonize esse restante." (U0003)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “Emergência do quarto cérebro do ser humano, atrelada a um novo modo [...] de consciência.” — P2021-12-04, U0534–U0538

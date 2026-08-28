@@ -5,7 +5,7 @@
 | **Categoria Principal** | Seres & Entidades |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-20 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -47,11 +47,18 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[P2023-08-05 · ZEUS ASSUME]** "Zeus disse: 'Saiu do jeito que eu encomendei. **EU SOU O PAI DOS HUMANOS.**' E nas mitologias é dito que Zeus — ou **Indra** na mitologia ariana — é o pai dos humanos" (cross RC-145/RC-480).
 - 0 códigos novos (O-3). Quarentena teológica (a leitura de Zeus como "pai").
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · PANDORA NA MITOLOGIA DESTE CICLO (sem o nome demo)]** "Pandora, que terminou se tornando uma fêmea humana e procri e já descendentes racionalizados nasceram disso." (U0003) — ⚠️ KALIL KADMON NÃO É CITADO nesta fonte; o vínculo é nominal. Registrar a ausência (para não inflar a ficha).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U1414–U1419 | palestra/STT |
 | B021 | — | obra |
+
 
 ## Citação-chave
 > "Uma sensação de dignidade surgiu pela primeira vez com o sorriso de Pandora."

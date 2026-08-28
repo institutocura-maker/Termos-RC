@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.8 Consciências coletivas / Logos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 O Quarto Logos se chama **"Olm"**, mais conhecido como o **Codificador de Zian (ou Zion)**. "Mergulhou" de Perpérion diretamente para o nosso universo biológico (Bhuloka) — foi o **único dos quatro Logos que não mergulhou no universo antimaterial** (Brahmaloka), podendo criar um **CFD próprio**, livre da programação gerada pelo Primeiro Logos. Surgiu no forno de Vishnu (Awaymaion) e depois apareceu na nave Asphezian no Sistema de Capela, dando assessoria a Sophia. **Não é um Ser Criador**: sua função é gerar **cocriadores esclarecidos, independentes e harmonizados** com os princípios nobres da existência. Teve uma única encarnação terrena como **Apolônio de Tiana** (~2.000 anos atrás), contemporâneo de Jesus (B031).
@@ -149,13 +149,21 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[P2025-02-22 — eco] OLM E A FAMÍLIA VAL]** "Sofia tinha alguém próximo a si chamado [OLM]... UM DOS LIVROS QUE EU ESCREVI CHAMADO QUARTO LOGOS É A HISTÓRIA DESSE HOMEM, que foi alguém que JUNTO COM SOFIA FOI CRIANDO OUTROS SERES depois da experiência dos insetoides"; "ESSA FIGURA CHAMADA [OLM], QUE ASSESSORA SOPHIA, QUE VAI FUNCIONAR COMO ESPÉCIE DE QUARTO LOGOS nos termos a que eu descrevi no livro, COM OS HUMANOS QUE CONSEGUIREM SE EMANCIPAR EM RELAÇÃO A ESSE PADRÃO DE ENJAULAMENTO MENTAL e conseguirem ser educados num novo padrão ao longo do que restar do tempo da história universal. E ISSO TÁ SENDO DEFINIDO AO TEMPO DAS NOSSAS VIDAS"; "Sofia e Olm perceberam que os espíritos que estavam vindo animar a família Val eram oriundos do desastre do Ragnarok" [a co-gestão dos biodemos]; "a vinda de Sophia... deixar a parte limpa PARA QUE O QUARTO LOGOS POSSA PRODUZIR AS SEQUÊNCIAS DE MUTAÇÃO NECESSÁRIAS NO GENOMA QUE PRECISA SER ESPECIADO... O DOS HUMANOS ESCLARECIDOS".
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O QUARTO LOGOS DEFINIDO EM UMA LINHA (a 1ª atestação oral da fórmula)]** "A vinda de Sofia tem como objetivo ele assumir o dia da posse dele para acabar com toda essa história e todos convergirem pro comando Sofia, o comando prático e para a coordenação do quarto logos, o programa evolutivo mental e espiritual, porque é a única forma disso aqui ter algum futuro." (U0005)
+- **[P2021-05-15 · A CONDIÇÃO DO FUTURO]** "Hoje a visão que eu tenho na no da minha pequenez é que não há futuro se isso não for coordenado eh em torno dessas duas forças." (U0005)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Quarto Logos" |
 | O Quarto Logus (B016) | a preencher | — | pendente (obra primária) |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 ## Citações-chave
 > "Ele foi o único dos quatro Logos que não mergulhou no universo antimaterial (Brahmaloka), podendo criar um 'DNA' ou CFD (Código Fonte Definidor) próprio, livre da programação existencial gerada pelo primeiro Logos, o que o diferencia dos outros três Logos." — B031, verbete "Quarto Logos"

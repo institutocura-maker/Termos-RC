@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Sábio associado à transmissão do Mahabharata e às tradições védicas; na palestra, seu espírito é identificado como anteriormente encarnado em Heber.
@@ -62,10 +62,18 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 - **[P2023-06-25 · AS VERSÕES]** "**Vyasa teve que compor uma história com cerca de 5-6 MILHÕES de versos** para que etnias que viviam nas locas pudessem entender — outra versão com milhões de versos para outras etnias... **e uma versãozinha, uma short version de 100.000 versos pros humanos, que é o Mahabharata que a gente conhece**" [os Gandharvas, os Rakshasas, os Yakshas, os devas].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · VYASA, O 1º A SISTEMATIZAR (a 2ª atestação, 2 meses depois da P2021-01-23)]** "E segundo ninguém conseguia falar uma linguagem que fosse entendida por todas as partes, por todos os tipos de psiquismo, por todos os tipos de linguagem, cultura, a Há uns dois meses atrás, eu falei que Viaza foi o primeiro a conseguir organizar uma mesma história contada sobre uma ótica de uns quatro, cinco ou seis tipos de modos de contar uma mesma história diferente." (U0003); "Aceitem se quiser isso, mas somente depois de Viaza é que o universo de lá e o de cá aprenderam a sistematizar o conhecimento histórico de modo a que ele pudesse vir a ser útil um dia." (U0003)
+- **[P2021-05-15 · A FINALIDADE DA SISTEMATIZAÇÃO: A BUSCA DA VERDADE]** "O fato de eu discordar não quer dizer que eu esteja certo e ele errado." (U0010) — a fórmula «razão filosófica… sem afetação» aparece no mesmo bloco (U0003) e é o elo com RC-755.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Antes mesmo de Vyasa surgir [...] o espírito que foi Vyasa [...] estava encarnado antes como Heber.”” — P2022-12-17, U0768–U0775; U0793

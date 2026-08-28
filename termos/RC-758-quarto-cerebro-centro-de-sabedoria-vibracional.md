@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -21,12 +21,19 @@
 - ativação ligada à maturidade emocional ("condição da idade adulta espiritual" — O Quarto Logos, cap. introdutório);
 - conexões: Quarto Logos (RC-092), Sophia (RC-009), Tikun (RC-514), Pandora (RC-086), Eu Profundo (RC-553).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O MESMO ANÚNCIO, PELA CHAVE DA COLONIZAÇÃO]** "Quem consome aquele tipo de droga tem desbloqueado esse essa condição de ir criando, eu vou falar sobre isso, uma palestra que eu devo fazer domingo em reserva são os protocolos da mente e o quarto cérebro vão criando, vão colonizando esses neurônios que ainda nem foram ativados ou ficam neutros." (U0003) — Registrar como antecessor de linguagem: a fórmula «centro de sabedoria vibracional» (2026) não é idêntica à de 2021 — não equiparar.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2026-08-18 | caps. 1–10 (conceito central) | artigo de aluna avançada (exegese) |
 | O Quarto Logos (B016) | caps. 6–9 (citado pelo artigo) | obra primária de Ellam |
+
 
 ## Citação-chave
 

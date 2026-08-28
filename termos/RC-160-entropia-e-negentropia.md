@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 A **entropia** é a medida do grau de **desorganização** de um sistema; a **negentropia** (entropia negativa) é a medida do grau de **organização** das partículas — um elemento negentrópico contribui para o equilíbrio e o desenvolvimento organizacional. Segundo a Física, no "momento zero" o universo estava 100% organizado; com o tempo, vai se desorganizando até o seu final (B024, cap. 14). Na Criação "indevida", entropia e negentropia "formam uma das faces do segredo" do que foi implementado pelas Mentes vinculadas ao processo — e a entropia destrói tudo, nem tudo é carma (cap. 3).
@@ -37,11 +37,20 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2025-02-22 — eco] A ONDA E O OCEANO; A ÚLTIMA ESTRELA]** "o ser humano é só, a exemplo de UMA ONDA QUE PENSA QUE É UMA ONDA quando uma onda é só O OCEANO SE MOVIMENTANDO... QUE OCEANO PROMOVE O NOSSO CORPO SENDO UMA ONDA? É O OCEANO DOS ELÉTRONS. TODOS OS ELÉTRONS DESSE UNIVERSO ESTÃO INTERLIGADOS PELO CHAMADO ENTRELAÇAMENTO QUÂNTICO. E É A MESMA QUANTIDADE DE ELÉTRONS QUE NO PRIMEIRO MICROINSTANTE DESSE UNIVERSO EXISTIA, É A MESMA QUE EXISTE HOJE. POR ISSO QUE NENHUM NOVO ELÉTRON SE CRIOU. NENHUM DOS ELÉTRONS QUE JÁ EXISTIAM SE PERDE. NADA SE CRIA, NADA SE PERDE, PORÉM TUDO SE TRANSFORMA. **O QUE É QUE DIABOS SE TRANSFORMA? A MEMÓRIA DOS ELÉTRONS**" [⚠️⚠️⚠️ a resposta de 2025 à tríade lavoisierana]; A ÚLTIMA ESTRELA: "quando acabar o estoque de hidrogênio nesse universo, NENHUMA ESTRELA VAI MAIS SE ACENDER. ENTÃO VAI EXISTIR UM MOMENTO EM QUE A ÚLTIMA ESTRELA VAI APAGAR... nesse ponto o nosso universo acaba. **SOFIA FOI ENGENDEDOR PARA DURAR ATÉ ESSE LIMITE**"; O FIM DO UNIVERSO PLANEJADO: "o nosso universo... foi planejado por um ser chamado Parabrajna ou Prajapati... O CRIADOR IMAGINOU ISSO, CAIU NA PRÓPRIA IDEIA, ELE APENAS NÃO FINALIZOU O PROJETO... quando ele se expandir demais, O TECIDO DO ESPAÇO-TEMPO... VAI SE RASGAR... inclusive o átomo... AGORA TEM UMA FORÇA DA ENTROPIA PARA DESFAZÊ-LO"; OS BURACOS MENTAIS: "do jeito que existem buracos negros no nosso universo... COMEÇOU A SURGIR BURACOS MENTAIS QUE SUGAM OUTRAS COISAS QUE A GENTE NEM IMAGINA. SURGIU PRIMEIRO COM O COLAPSO DO CORPO DE JAVÉ".
 - 0 códigos novos (O-3). Quarentena: científica (a física como chave de leitura).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A ENTROPIA COMO ÚNICA CERTEZA]** "Só a certeza da entropia." (U0016); "Exemplo, como opção, ou isso vai ser feito ou a entropia vai sempre imperar e resolver a situação." (U0016)
+- **[P2021-05-15 · A ENTROPIA COMO POLÍTICA DOS DEUSES (o medo de 49.000 anos atrás)]** "essa coisa de hoje, hoje que eu digo nos últimos tempos, nos últimos 10 anos, eles se perguntarem se o que fez para garantir que com entropia funcionando, o ser humano viva pouco, já que na época ele tinha medo, eles tinham medo de que se isso pode ser revertido ou se algum tipo de CPH, sabe sei lá o quê, a ser adicionado." (U0003)
+- **[P2021-05-15 · ⚠️ «NÃO HÁ PLANO B» (restrito à citação, por decisão do Curador)]** "Então não há plano B." (U0016) — A fórmula permanece como citação de U0016 nesta ficha e na apostila — não vira epígrafe nem síntese de doutrina (Devolutiva O-5).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 14 | pp. 101–104 (aprox.) | capítulo inteiro |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 | p. 37 (aprox.) | "selo de garantia" |
+
 
 ## Citações-chave
 > "Explicando de maneira simples, negentropia é um tipo de entropia negativa, ou seja, deve ser entendida como o contrário de entropia, que representa a medida do grau de desorganização de um sistema. A negentropia seria, portanto, a medida do grau de organização das partículas de um sistema." — B024, cap. 14

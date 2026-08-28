@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.1 Planetas / Sistemas estelares |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Mundo ou astro associado aos Anunnakis e apresentado como origem das sete armas atômicas usadas na Terra.
@@ -29,10 +29,21 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 - **[B089 p. 65 · o ouro]** "**Este ouro, quando transformado num pó fino, é lançado em cima da camada que protege o nosso planeta**... O mais impressionante é que ela absorve este tipo de material de tal maneira que **se regenera com ele**. Portanto, precisamos voltar à Terra, de tempos a tempos."
 - 0 códigos novos (O-3). Quarentena ufológica CRÍTICA (O-7 — cruzar com a linha RC, jamais fundir). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A AUTOCORREÇÃO DO AUTOR SOBRE A ÓRBITA (material raro de história do pensamento)]** "E C falou muito claramente que a rota eh nada peculiar da órbita de de Nibiro, se modificava a cada vez que ele passava próximo ao sistema solar." (U0010)
+- **[P2021-05-15 · O ESTADO DA OBSERVAÇÃO EM 2021 (Q&A)]** "E assim, nós só vamos ter certeza desses fatos quando nós tivermos telescópios que nos mostrem os confins do sistema solar." (U0010); "Pelas pelas previsões de Z City, você deveria observar Nibiro, então, a cada hora que quisesse naquele ponto." (U0010)
+- **[P2021-05-15 · A CRÍTICA À ARROGANÇA CIENTÍFICA (sem elevar Nibiru a fato)]** "Só que alguns cientistas pecam pela arrogância e falam como se soubessem." (U0010); "Então, na obra de de eu já estudei a obra de Zecaria City toda e já discuti, discuti não escutei, assisti a discussão de Zé Cars astrônomos e a briga feia que teve do Zé Carity Não dele, mas Graham Hancock brigou com Zacas City, Robert Bv, muitos desses caras egiptólogos, que eu também li os livros de todos eles e respeito." (U0010) — [REVISAR: «Zé Carity / Zecaria City / Zacas City / Robert Bv / Graham Hancock» — nomes como ouvidos pelo STT; a fonte não os grafou por extenso, não decodificar.]
+- **[P2021-05-15 · O CONTEXTO ASTRONÔMICO CITADO (com [REVISAR] e quarentena científica)]** "Até pouco tempo atrás, Plutão era um planeta considerado assim pelos cientistas." (U0010); "Saturno e Júpiter com as suas 81 e 72 luas, eu acho cada um deles, respectivamente, acho que os números são esses, a última utilização, a atualização que eu fiz, constantemente se descobre e se atualiza o número de de satélites em torno desse plan." (U0010) — [REVISAR: «nuvem de Earth» ≈ nuvem de Oort; «SEDA» ≈ Sedna.] ⚠️ as luas são dadas como cifra viva pelo próprio autor («constantemente se descobre e se atualiza o número»).
+- **[P2021-05-15 · QUARENTENA UFOLÓGICA (a frase que não se amplia)]** "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo." (U0010) — [STT: «a Nunx» ≈ os Anunnaki.] Registro apenas.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0819–U0821 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““As sete armas atômicas que vieram de Nibiru para a Terra.”” — P2022-12-17, U0819–U0821

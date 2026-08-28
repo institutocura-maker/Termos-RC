@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -24,12 +24,20 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 
 - **[P2024-07-13] A especiação canina (U1470–U1500):** "há 10.000 anos atrás não existia cachorrinho na Terra, só três espécies de lobo. Uma delas, a canis lupus, o lobo cinzento, começou a ser levado pelo ser humano... o genoma do canis lupus foi passando por mutações modificativas, adaptativas, e a partir de um certo ponto o genoma do lobo começou a criar subespécies de si mesmo, ou seja, surgiram as espécies dos cachorrinhos. As mais de 2.000 espécies de cachorrinho que hoje nós temos, todas elas vieram de uma única espécie de lobo"; "nós somos um ser humano biológico, mas da nossa espécie vai se especiar inúmeras diversas outras espécies que todas elas terão a natureza psíquica do ser humano, mas não implica dizer que será nesse mesmo tipo de corpo. Isso chama-se especiação de uma espécie".
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A ESPECIAÇÃO COMO FUTURO ABERTO (e a dieta que a permitiria)]** "o tipo de alimentação ou dieta das gerações futuras que vão se especiar, né, não possam ter uma condição mais longa de desenvolver as suas habilidades mentais, porque seria essa parte do cérebro humano que ainda não foi desperta, porque no uso disso aí a natureza humana, com sua razão filosófica ancorada no respeito ao próximo, no amor incondicional, no respeito a questões sofisticadas, como altruísmo, como não sei o quê, que as outras espécies nem imaginam que possa ser, mas também não entendem quando a gente se sacrifica uns pelos outros." (U0003)
+- **[P2021-05-15 · O PROJETO DA NOVA FAMÍLIA BIODEMÔNICA DECLARADO IMPOSSÍVEL]** "Não tem, não há a menor possibilidade de no espaço de tempo que se precisa que certas soluções sejam finalmente eh tidas como reais." (U0015)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B031 | — | obra publicada |
 | P2023-05-13 | seção 9.6; bloco das novas proteínas | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

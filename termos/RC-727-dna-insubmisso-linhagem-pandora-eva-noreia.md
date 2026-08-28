@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.2 Linhagens humanas |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-16 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmissos ao controle dos deuses, associada a Pandora, Eva e Noreia e contraposta a códigos de submissão atribuídos à linhagem de Adão.
@@ -115,10 +115,18 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2025-02-22 — eco] A LIBERDADE COMO A DESORDEM]** "O QUE PARA SOFIA É ORDEM E CAOS, PARA NÓS HUMANOS É LIBERDADE. A NOSSA LIBERDADE AOS OLHOS DELE É ALGO DESORDEIRO, ERA ALGO QUE NÃO DEVERIA EXISTIR. Porque na lógica do genoma dele, O SER HUMANO ERA PARA SER OBEDIENTE A JAVÉ"; "NÓS, OS HUMANOS, QUE SURGIMOS FILHOS DE EVA, SOMOS A PIOR DESORDEM QUE JÁ SURGIU NESSE UNIVERSO. EU NUNCA TINHA FALADO EM TERMOS TÃO CLAROS"; "O ADÃO E EVA QUE JAVÉ E TODO ESSE REINO TRIMURTIANO QUERIA ERA AQUELE OBEDIENTE... Só que EVA ATRAPALHOU ESSE PLANO, PASSOU A [ser] DE DISCERNIR POR ELA MESMA... E INFLUENCIOU O COITADINHO DO ADÃO. OS HOMENS SÃO SEMPRE [ADÃO]" [⚠️ teológica]; a Terra pária: "A TERRA... ERA UM PLANETA PÁRIA, onde os traidores da ordem cósmica... terminaram por se associar aos humanos, FILHOS DO CAOS DA DESOBEDIÊNCIA PROMOVIDA PELA DESCENDÊNCIA DE CADRU. E DAÍ O CARIMBO DE PECADO ORIGINAL TER SIDO ESTABELECIDO COMO SENDO A MARCA DA HUMANIDADE"; a especiação: "daqui a 10.000 anos, várias milhares de humanidades estarão vivendo em vários lugares... VAI VIVER EM MARTE, NA LUA... livres da ditadura estúpida do religiosismo infantilizado".
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A LINHAGEM DE PANDORA COMO A MAIS PRÓXIMA DE SOFIA]** "Então, quando Pandora resolveu fazer uma metamorfose que ela nunca tinha feito, que foi exatamente de assumir como sendo a sua próxima cara, a de um rosto humano, porque ela amava os humanos, os animais de Primeteu, e como Efestos tinha dado paraa Pandora essa transição de fase que só ela tinha, os demos podem ser o que eles quiserem no padrão do que o genoma deles permit." (U0006) — ⚠️ RETIRADA: «os manipulados por Pandora são os seres mais próximos de Sofia» não ocorre nesta fonte; a proximidade com Sofia fica como leitura da camada-3, não como citação.
+- **[P2021-05-15 · A AUSÊNCIA DE ESCÂNDALO NA MISTURA]** "Primeiro que a pamixia ela não Não, não, não existia escândalo com isso." (U0003) — ⚠️ [TEXTO CORROMPIDO no STT: «a Pamixia ela não Não, não, não existia escândalo»] — preservar, não normalizar.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-11-09 | U1218–U1270 | palestra/STT |
+
 
 ## Relações centrais
 

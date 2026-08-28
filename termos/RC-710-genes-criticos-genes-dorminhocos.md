@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Genes com potencial evolutivo latente que, segundo a palestra, seriam acionados por contexto epigenético, necessidade, sonho, mensagens do eu e novas aspirações, produzindo proteínas e transformações.
@@ -29,10 +29,19 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 - **O teclado dos genes (P2025-02-15):** "saber usar os postulados quânticos como forma de tocar o teclado dos seus 25.869 genes [STT — REVISAR], para que você, na condição humana, possa influenciar não só o seu nível de vida, mas todo o ambiente em que está inserido, para além das fronteiras dessa realidade".
 - **O genoma se modifica:** "o que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para exatamente você ser aquilo que você aspira. Quando o seu genoma reescreve o gene com a proteína para que aquilo aconteça em você — seja a cura de uma célula doente, seja capacidades no campo intelectual".
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A RESERVA CORTICAL DITA EM 2021]** "Mas em tese, nós, seres humanos, somos a única espécie que ainda tem um cérebro que por ser mais recente o cérebro com a proteção do crânio do que os cérebros radiatas, tipo de Sofia, nunca foi bilatério, tipo do povo, e em corpos invertebrados, nós aqui precisamos romper essa barreira para usar os 84, 83% restante." (U0003)
+- **[P2021-05-15 · O CRÂNIO COMO INVÓLUCRO DO QUE IMPORTA]** "Muitos, muitas coisas importantes, mas talvez a principal seja o fato de ter crânio, pois que o crânio protege o que fica dentro dele, que é o mais importante." (U0003)
+- **[P2021-05-15 · O DIAGNÓSTICO DO ESTACIONAMENTO]** "Porque os humanos estacionaram." (U0003)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U1646–U1688 | aula/palestra STT |
+
 
 ## Citações-chave
 > “Genes críticos seriam genes dorminhocos com potencial evolutivo.”

@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.4 Escrituras / Objetos documentais |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Livro anunciado por Jan Val Ellam, destinado a tratar do Roseral do Alto e dos primeiros elementos da Nova Espiritualidade.
@@ -22,10 +22,19 @@ Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-l
 
 - **[P2021-12-04 — FONTE ORIGINAL] Inquisição Espiritual (B079) (U0657–U0677):** "tô tentando concluir um livro que vai se chamar Inquisição Espiritual" (U0657); "o nome dos livros que eu já lancei tem três Inquisições: Inquisição Poética, Inquisição Filosófica e Inquisição Trimurtiana" (U0659); "na hora em que eu conseguir publicar esse livro, os primeiros elementos de uma nova espiritualidade, essa coisa que eu tenho falado nesse sentido, é que ali serão tratados pela primeira vez" (U0674–U0675); "eu não sei se eu escrevo isso nessa vida... ainda preciso compor palavras, neologismos, novos contextos" (U0676–U0677) — **confirma B079 (obra anunciada); sem cadastro novo**.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · ANTERIORIDADE EM 7 MESES (a data real do anúncio)]** "Mas eh existe um livro que eu chamo de inquisição espiritual." (U0018)
+- **[P2021-05-15 · A TÉTRADE DAS INQUISIÇÕES]** "Eu já eh inquisição filosófica, inquisição poética, inquisição trimurtiana, mas ainda tem um outro chamado inquisição espiritual que eu nunca tive coragem de falar, de de de publicar, porque é um bunker na espiritualidade que espírito que me anime e outros, alguns de vocês aí do IA, o grupo é pequeno, tá?" (U0018) — ⚠️ manter a ressalva de que o nome é provisório («não sei se vai ser esse o nome, se um dia eu publicar»).
+- **[P2021-05-15 · O DESTINO ANUNCIADO DO LIVRO]** "E esse livro Inquisição Espiritual, não sei se vai ser esse o nome, se um dia eu publicar, conta a história desse troço e do que se passou e do que se passa." (U0018)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0610–U0632 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “Estou tentando concluir um livro que vai se chamar Inquisição Espiritual.” — P2021-12-04, U0610–U0632

@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Evento registrado no **Guia das Eras Universais (Mapa)** (B050): **"Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)"**. O Ragnarok da mitologia nórdica é reinterpretado como um evento real ocorrido **em Marte** (~300 milhões de anos antes do presente), que destruiu a atmosfera marciana e vitimou os deuses nórdicos (Odin, Thor, Jörmungandr) — demos da linhagem Aesir.
@@ -74,11 +74,19 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 - **[P2025-02-22 — eco] O RAGNAROK E O PRIMEIRO PORTAL]** "essa história começou após o Ragnarok, descrito na mitologia nórdica, QUE TEVE LUGAR A CERCA DE 300 MILHÕES DE ANOS, QUE DESTRUIU A VIDA QUE EXISTIA EM MARTE. Quando isso aconteceu, houve um desentendimento entre os descendentes de Brama, PORQUE QUEM DESTRUIU YGGDRASIL, QUE ERA O REINO DE ODIN, QUE TINHA CONSEGUIDO PELA PRIMEIRA VEZ CRIAR UMA PONTE INTERLIGANDO ESSE UNIVERSO E O NOSSO. E ESSA PONTE TERMINOU SE FIXANDO EM MARTE. POR ISSO QUE MARTE ERA O AXISMUNDI DA ÉPOCA"; "O RAGNAROK FOI PRODUZIDO ATRAVÉS DE INTRIGAS E INVEJAS QUE A TRIMURTI CONSEGUIU INOCULAR no [clã] do Ragnarok... essa porção de Odin evoluiu. O resto do universo, principalmente a Trimurti, FICOU COM INVEJA DE ODIN"; "A PONTE QUE OS UNIA CHAMADA BIFROST PASSOU A EXISTIR E DEPOIS FOI DESTRUÍDA. FOI A PRIMEIRA PONTE, O PRIMEIRO PORTAL SEGURO ENTRE OS DOIS UNIVERSOS"; "a Terra tinha recebido O LIXO DO RAGNAROK, que foi a destruição de Marte nesse universo e de Asgard, Vanaheim, várias outras cidades-estados no universo vizinho"; A FAMÍLIA VAL: "os espíritos que estavam vindo animar a família Val ERAM ORIUNDOS DO DESASTRE DO RAGNAROK, OU SEJA, ERAM SERES QUE HAVIAM VIVIDO EM ASGARD, EM MARTE, EM [VANAHEIM]" (RC-470).
 - 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · ⚠️ T-1: A CIFRA DE 400 MILHÕES (a selar, sem correção do canônico)]** "E essa briga havia convergido pra Terra, ou melhor, pros nossos sistema solar muito tempo antes e se fixado de forma definitiva aqui, por volta de 400 milhões de anos e mais ainda quando o Rainarok aconteceu em Marte, aí tudo se transferiu pra Terra." (U0003) — Divergência registrada: a linha canônica fixa o Ragnarok em Marte em 300 milhões de anos (B050); esta fonte dá 400 milhões e usa o mesmo número para a convergência da briga. **Nenhuma alteração no canônico** (Devolutiva O-8).
+- **[P2021-05-15 · O DADO ZOOLÓGICO ASSOCIADO]** "Porque o povo também tem a sua história de como ele há 400 milhões de anos em termos do nosso tempo terreno, foi já apareceu assim." (U0003) — [STT: «o povo» = o polvo.]
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Guia das Eras Universais (B050) | Linha do Tempo (evento datado) | — | evento do mapa |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
 
 ## Citações-chave
 > "Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)" — B050

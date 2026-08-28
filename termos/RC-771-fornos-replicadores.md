@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-21 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Naves ou estações gigantescas de semeadura de vida biológica, construídas pela Trimurti para viabilizar o **Projeto Talm** (RC-091): **Awayen** (de Brahma/Javé), **Awaylengan** (de Shiva) e **Awaymaion** (de Vishnu — RC-499). Também chamados de "laboratórios dimensionais" ou "Centrais de Realidades". Criados para produzir seres capazes de atravessar e viver num universo com leis de Física e Química diferentes, onde antimatéria e matéria não se anulassem.
@@ -38,13 +38,21 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **[P2025-02-22 — eco] AS ATRIBUIÇÕES DOS TRÊS FORNOS]** "cada um desses seres, junto com sua assessoria, criaram TRÊS FORNOS DE REPLICAÇÃO DE VIDA NO NOSSO UNIVERSO, CHAMADOS AWAYEN, AWAYMAION E AWAYLENGAN. E BRAMA FICOU COM A AWAYEN, VISHNU FICOU COM A AWAYMAION E SHIVA COM A AWAYLENGAN. A [FORNALHA] DE BRAMA NUNCA FUNCIONOU DIREITO" [⚠️⚠️ as atribuições explícitas na voz de 2025]; "O FORNO DE SHIVA EXPLODE. COMEÇAM A SURGIR SERES ANIMALIZADOS, PROTORRACIONAIS... CHIVA GEROU AS POLARIDADES SEXUAIS que hoje nós conhecemos e outras tantas que nós nem imaginamos"; "esses seres gerados a partir do forno [Awaylengan] de Chiva, QUE TRAZIA SENSAÇÃO" [os organoides para o cérebro radiato de Sophia].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A FORMULAÇÃO ORAL ANTERIOR AOS DOCUMENTOS DE 2025]** "Se lembra que eu tenho falado que quando os produto de Aáon, que é o forno de replicação de vidro, administrado por Virgno e Morrenç e o forno de Hawaiingan, administrado por Pachu Pathiba." (U0003) — ⚠️ grafias orais: «Aáon» (≈ Aáon/Awaymaion), «Virgno e Morrenç» (≈ Vishnu/Morren So), «Pachu Pathiba» (≈ Pasupati), «Hawaiingan» (≈ Havaingã/Awaylengan). **Não renomear nada na Base.**
+- **[P2021-05-15 · O EFEITO DO ENCONTRO: O CÉREBRO BILATÉRIO E O HUMANO COMO ÚLTIMO]** "É que surgiu a questão do cérebro bilatério, aqueles dois hemisférios, né?" (U0003); "Então isso passou a existir e o ser humano não foi o primeiro a ter, aliás, o ser humano foi o último a surgir com essa característica, porque ele é produto da evolução de tudo que veio desse momento em que se uniram as conquistas evolutivas de Aamaion e Aingã." (U0003) — ⚠️ T-14: a cifra «900, 1 bilhão de anos» nesta fonte qualifica o encontro dos produtos, não o surgimento do Homo sapiens; não confundir com a linha dos 197 mil anos (B061) nem com P2025-07-18. Selar, não fundir.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Partes I–III (integral) | material do curador |
 | P2024-05-04-R — Prabrajna em Perpérion | U1300–U1450 | STT pré-curado |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0619–U0622 (STT 'Alamaior') | STT pré-curado |
 | Fontes anteriores da Base | B061 | apoio/remissão |
+
 
 ## Citações-chave
 > "Para a semeadura da vida biológica, três Fornos Replicadores foram descritos: Awaylengan (de Shiva), Awaymaion (de Vishnu) e Awayen (de Brahma); essas estruturas cósmicas, também chamadas de laboratórios dimensionais ou naves/estações gigantescas, foram responsáveis por projetar e semear diversas espécies." — P2024-05-04-R, U1300–U1450 (via RC-091)

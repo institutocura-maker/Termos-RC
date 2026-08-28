@@ -5,7 +5,7 @@
 | **Categoria Principal** | Seres & Entidades |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-20 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -58,11 +58,18 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 - **[B089 p. 98 · O PRESSENTIMENTO]** "**Talvez o meu tempo já esteja por acabar**, e devo treiná-las a sobreviverem sem a minha ajuda. Eu sinto isso..." (eco do destino trágico do mito — o fecho da trilogia deixa a sombra).
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · AS BEBERAGENS DE EPIMETEU COMO BANCO DE SEQUÊNCIAS]** "E como no organismo de Pandora já tinha várias beberagens repetidas das poções de epimeteu, nos quais existia sequência dos animais humanos que ele trabalhava." (U0006); "Ela trouxe o que os humanos de então tinham conseguido até o momento em que Epimeteu recolheu o DNA deles e os transformou em poção deberagem." (U0006)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
 | P2025-02-16 / P2024-11-09 / P2025-06-14 / B020 / B021 | — | obras/palestras |
+
 
 ## Citação-chave
 > "Prometeu era sábio, Epimeteu era leso... mas é genial para muitas coisas."

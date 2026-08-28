@@ -1,0 +1,49 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""PORTÃO C — verifica o que foi INJETADO NAS FICHAS contra o byte da fonte.
+
+O pacote `_ampliacoes_P2021-05-15.txt` já passou pelo portão A (paridade) e pelo
+portão B (verbatim) do `_verificar_verbatim_P2021-05-15.py`. Este script fecha o
+círculo: relê as 54 fichas de `termos/`, extrai a seção
+`## Ampliação — P2021-05-15` de cada uma e confere, citação por citação, que o
+texto injetado continua sendo o texto da fonte — nem mais, nem menos.
+
+Tokenização igual à do verificador do ciclo: pontuação e marcação markdown fora;
+endereços `(U00xx)` ignorados; `[…]` são comentários meus e saem da aspa.
+"""
+import re, os, glob
+
+AQUI = os.path.dirname(os.path.abspath(__file__))
+RAIZ = os.path.dirname(os.path.dirname(os.path.dirname(AQUI)))
+CICLO = AQUI.rsplit("/analise", 1)[0]
+SECAO = "## Ampliação — P2021-05-15"
+
+
+def tk(s):
+    s = re.sub(r"[*_`]", " ", s)
+    s = re.sub(r"\([^)]*U\d{4}\)", " ", s)          # endereço de fonte não é fala
+    s = re.sub(r"\[[^\]]*\]", " ", s)               # colchetes editoriais
+    return re.sub(r"\s+", " ", re.sub(r"[^0-9a-zA-ZÀ-ÿ]+", " ", s.replace("…", " "))).strip().lower()
+
+
+src = " " + tk(open(os.path.join(CICLO, "original.txt"), encoding="utf-8").read().replace("\r\n", "\n")) + " "
+n_arq = n_cit = n_bad = 0
+for f in sorted(glob.glob(os.path.join(RAIZ, "termos", "*.md"))):
+    t = open(f, encoding="utf-8").read()
+    i = t.find(SECAO)
+    if i < 0:
+        continue
+    n_arq += 1
+    j = t.find("\n## ", i + 10)
+    sec = t[i:j if j > 0 else len(t)]
+    for q in re.findall(r'"([^"]+)"', sec):
+        q = q.replace("«", " ").replace("»", " ")
+        if len(tk(q)) < 40:
+            continue
+        n_cit += 1
+        if tk(q) not in src:
+            n_bad += 1
+            print("✗", os.path.basename(f), q[:80])
+print(f"\nPORTÃO C — fichas com ampliação: {n_arq} · citações verificadas: {n_cit} · divergentes: {n_bad}")
+print("RESULTADO:", "FICHA A FICHA, TUDO FIEL À FONTE ✓" if n_bad == 0 else "REVISAR ⚠️")
+raise SystemExit(0 if n_bad == 0 else 1)

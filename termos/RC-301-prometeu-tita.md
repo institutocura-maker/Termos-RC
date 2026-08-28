@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Prometeu** é o titã criador — da segunda geração de deuses (descendente de Urano), sobrevivente da guerra contra Zeus "por interesse" do Olimpo — que nos livros de Pandora "modela" as **"criaturas de barro"** e planeia o **"marco evolutivo"** das "criaturas de duas pernas" (os futuros *Homo sapiens sapiens*). Provocador de Zeus (as "peças" que humilham o chefe do Olimpo), paga o preço: persegue-o o pressentimento de que "o que está por ocorrer, nem você nem ninguém pode impedir" (o castigo que o mito clássico fixou no Cáucaso).
@@ -38,12 +38,19 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 - **[B089 p. 68 · a missão misteriosa]** Prometeu parte "numa missão" (dada por Enlil?) — "Eu não posso ficar por mais tempo, porque tenho uma missão que preciso rapidamente efetivar."
 - 0 códigos novos (O-3). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O FOGO DE PROMETEU COMO RECICLAGEM DE INFORMAÇÃO (o elo com o filme)]** "É o fogo de Prometeu realmente queimando tudo e reciclando e colocando novas informações que nunca antes haviam sido trabalhadas." (U0016)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 1–15 | pp. 14–86 (PDF): as criaturas de barro; o pacto; o pressentimento | narrativa psicografada (Pandora) |
 | O Sorriso de Pandora (B020) | — | — | obra primária (versão canônica) |
 | Tempos Difíceis no Olimpo (B021) | — | — | obra primária |
+
 
 ## Citações-chave
 > "Observe, Pandora, que em cima dos ombros dessa espécie tão grotesca perduram várias possibilidades de 'marco evolutivo' nunca antes visto, ou sequer pretendido para criaturas tão frágeis e primitivas como essas que aí vemos." — B087, p. 58

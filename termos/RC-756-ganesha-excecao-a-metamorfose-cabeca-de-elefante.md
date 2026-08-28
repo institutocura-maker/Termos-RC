@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-17 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -19,11 +19,18 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 - livro em andamento de Ellam sobre a loca de elefantes racionalizados;
 - relação com o contexto de Krishna (RC-414) e da Trimurti (RC-104).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · GANESHA, A CANETA ESPECIAL E A TRADUÇÃO PARA OS GANDARVAS]** "Para locas, paraas locas dos gandarvas, Gene ajudou adaptando o que Viaza tava contando ao tipo de entendimento que a turma dos Gandarvas, que pertence a quatro locas distintas poderiam obter." (U0003) — ⚠️ A fonte classifica Ganesha como «aquele tipo de ser demobio» — leitura ausente da base: registrar como variante, sem alterar a ficha.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-03-02 | blocos centrais (Ganesha; elefantes racionais; exceção à metamorfose) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

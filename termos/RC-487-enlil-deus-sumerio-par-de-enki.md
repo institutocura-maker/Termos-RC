@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -39,11 +39,19 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **[B089 p. 105 · a fuga]** "**Enlil teve de sair rapidamente**... conseguiu decolar dos ambientes terrenos com a sua nave... **em fuga!**... Atena e outros deuses aguardavam por eles no espaço aéreo! **Não sei o que aconteceu com Enlil e a sua nave.**" (o destino fica ABERTO.)
 - 0 códigos novos (O-3). Quarentena ufológica CRÍTICA (O-7 — cruzar com B060/B061, jamais fundir). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A GRAFIA FUNDIDA NO STT («Enquenil»)]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003) — ⚠️ «Enquenil» = fusão de STT entre Enki e Enlil; a linha canônica separa os dois clãs. Não decodificar o nome do pai nem o do filho.
+- **[P2021-05-15 · O CLÃ NAS BOMBAS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

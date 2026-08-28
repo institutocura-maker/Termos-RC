@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 É a reintegração que a Terra sofrerá **após a vinda de Sophia** (o retorno de Jesus): o planeta será reintegrado ao **Circuito Cósmico**, retomando contato com seres de outros planetas e saindo do exílio imposto pelo próprio Sophia após a Rebelião de Lúcifer. Difere-se da Revelação Cósmica (é **um dos fatos marcantes** dentro dela). Para as gerações futuras, num âmbito maior, integrará também os seres do universo paralelo ao nosso universo (B031).
@@ -92,12 +92,19 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[B005 p. 65]** cap. 6 fecho + cap. 7: Jesus anuncia que «no futuro retornaria para, pessoalmente, presidir a reintegração da Terra à convivência cósmica».
 - **[B005 p. 65]** cap. 7: após o retorno do Mestre, a Terra «continuava a não pertencer a nenhuma das confederações cósmicas»; a cruz na psicosfera como aviso de que «em breve retornarei […] e novamente introduzi-lo na convivência com as outras famílias cósmicas». **Quarentena ufológica / teológica.** Kardec (p. 66–67) = **externa**. Remissão a B003 — **não fundir**. Sem fusão com B009 / B027 / B011. Fonte **B005** já constava na tabela-mestra.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A REINTEGRAÇÃO VISTA PELO LADO DOS QUE PERDEM]** "E porque as outras civilizações que existem aqui nesse nosso universo biológico não tem força representativa nem em mar, nem na lua, nem aqui, nem em lugar algum para fazer nada, estão por aqui como piratas cósmicos, como Figuras que também participaram de hibridagens lá atrás se sentem vinculadas ao progresso humano e estão esperando ver como é que acaba essa zorra aqui do isolamento terrestre para pegar uma fatia disso ou daquilo, mas não são importantes no sentido de terem influenciado." (U0003) — ⚠️ A frase «a espiritualidade humana é a única alavanca» NÃO pertence a esta fonte (é de P2024-11-03) — registrada em RC-003 por aquela fonte apenas.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Reintegração Cósmica" |
 | Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
 
 ## Citações-chave
 > "É a reintegração que a Terra sofrerá após a vinda de Sophia (ou o retorno de Jesus). Nosso planeta será reintegrado ao Circuito Cósmico, tendo contato com seres de outros planetas e saindo do exílio que foi imposto pelo próprio Sophia após a Rebelião de Lúcifer." — B031, verbete "Reintegração Cósmica"

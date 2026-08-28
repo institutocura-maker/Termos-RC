@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 **Hefesto** é o olimpiano "ferreiro dos deuses" — o técnico da "Assembleia dos Eleitos" — que na trilogia psicografada de Pandora executa o **"encerramento"** das "prendas" impostas a Pandora (RC-086) e, com Zeus (RC-145), constrói a **caixa** dos "algoritmos virais". Foi também o seu **benfeitor oculto**: deixou que a própria Pandora decidisse se se tornaria totalmente humana ("quem decidiria isso seria eu e não Zeus") — o "presente" que tornou possível a humanização (RC-285).
@@ -25,13 +25,21 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 - **[B088 p. 63 e 65 · vigiado]** "Hefesto foi pressionado, por Zeus, a revelar o motivo da visita de Prometeu"; "Hefesto está a ser vigiado o tempo todo. **Zeus mandou dois dos seus mais fiéis filhos impedirem que Prometeu e Hefesto tenham contato**."
 - 0 códigos novos (O-3). Quarentena ufológica (O-7). **B088 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · HEFESTO COMO QUEM ABRE O GENOMA DE PANDORA]** "O genoma de Pandora foi aberto por Efestos, deixando ela ser o que quisesse." (U0006)
+- **[P2021-05-15 · O FILHO DE AFRODITE QUE TRANSFORMOU OS SERES]** "Então, quando Pandora resolveu fazer uma metamorfose que ela nunca tinha feito, que foi exatamente de assumir como sendo a sua próxima cara, a de um rosto humano, porque ela amava os humanos, os animais de Primeteu, e como Efestos tinha dado paraa Pandora essa transição de fase que só ela tinha, os demos podem ser o que eles quiserem no padrão do que o genoma deles permit." (U0006) — ⚠️ RETIRADA: «o filho de Afrodite, que é o cara que transformou os seres» NÃO está neste bruto (a palavra «Afrodite» não ocorre); era memória de outra fonte.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 4–5, 9 | pp. 33–36, 55 (PDF): o "encerramento"; o "presente"; a caixa | narrativa psicografada (Pandora) |
 | O Sorriso de Pandora (B020) | — | — | base do termo (versão primária) |
 | Tempos Difíceis no Olimpo (B021) | — | — | base do termo |
 | Personagens e Terminologias (B060) | — | — | relação prévia na malha |
+
 
 ## Citações-chave
 > "Hefesto aproximou-se de mim e 'disse-me', mentalmente, para que eu não tivesse 'medo', pois ele obedeceria à ordem de Zeus, porém deixaria que eu decidisse, em algum momento, se, de facto, gostaria de tornar-me um ser biológico humanoide, e quem decidiria isso seria eu e não Zeus. Esse foi o 'presente' que Hefesto me deu!" — B087, pp. 35–36

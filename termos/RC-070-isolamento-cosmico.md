@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 É o isolamento imposto aos **19 planetas** que participaram da Rebelião de Lúcifer há aproximadamente **750 mil anos**, iniciada no Sistema de Capela. A Terra serviu de refúgio para exilados (que vieram em naves e reencarnaram por afinidade vibracional — os Exilados de Capela). **Atualmente, a Terra é o único planeta que ainda se encontra isolado cosmicamente**, sem "contato oficial" com outras civilizações extraterrenas. O isolamento terminará quando **Sophia, o Cristo Cósmico e Suserano deste universo, aparecer nos céus com suas naves** e fizer o primeiro contato extraterreno oficial — a promessa de Jesus de que voltaria (B031).
@@ -55,11 +55,19 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[B005 p. 20–21]** cap. 2: analogia do exílio na floresta — os descendentes «acharão que estão sós»; a ótica terrena inclina-se a pensar que a Terra é «o único habitado por seres inteligentes».
 - **[B005 p. 24]** ensaio: auto-exílio em «dezenove mundos principais»; as minorias «ainda adoentadas» iam para os mundos que permaneceriam isolados, enquanto os outros «iam sendo reintegrados à convivência». «Doença» / «adoentadas» / «solução clínica» = **quarentena clínica**. Capela / naves = **ufológica** (leitura, não facto). Sem materializar RC-007 / RC-078 / RC-020. Sem fusão com B003 / B033. Fonte **B005** já constava na tabela-mestra.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O ISOLAMENTO COMO VANTAGEM DECLARADA]** "Ou criticando loucamente ou mas de alguma forma nós estamos em em evidência para esses estranhamente era para estarmos também já para terra, mas A permanência do isolamento faz com que nós continuemos desconhecidos e tem as suas vantagens." (U0016)
+- **[P2021-05-15 · OS QUE ESPERAM O FIM DO ISOLAMENTO PARA PEGAR UMA FATIA]** "E porque as outras civilizações que existem aqui nesse nosso universo biológico não tem força representativa nem em mar, nem na lua, nem aqui, nem em lugar algum para fazer nada, estão por aqui como piratas cósmicos, como Figuras que também participaram de hibridagens lá atrás se sentem vinculadas ao progresso humano e estão esperando ver como é que acaba essa zorra aqui do isolamento terrestre para pegar uma fatia disso ou daquilo, mas não são importantes no sentido de terem influenciado." (U0003) — ⚠️ quarentena ufológica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 137 (aprox.) | verbete "Isolamento Cósmico" |
 | Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
+
 
 ## Citações-chave
 > "Esse isolamento cósmico acabará no momento em que Sophia, o Cristo Cósmico e Suserano deste universo, aparecer nos céus com suas naves e fizer o primeiro contato extraterreno oficial com o nosso Planeta. Muitos não entenderão, mas a vinda de Sophia é a promessa que Jesus Cristo nos fez: a de que Ele voltaria." — B031, verbete "Isolamento Cósmico"

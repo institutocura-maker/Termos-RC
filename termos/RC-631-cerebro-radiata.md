@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Cérebro biodemo/radiata de um hemisfério atribuído a Sophia, contraposto ao cérebro bilatério humano.
@@ -39,10 +39,20 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 - **[P2023-04-15 · O REPOSITÓRIO/ORGANOIDE]** o Q&A: " alguém aqui na terra cria, cria, cria... aí a turma chega, TIRA UMA FOTOCÓPIA, UM ESCANEAMENTO DESSE ORGANOIDE, aí leva na nave... Sofia é um REPOSITÓRIO do progresso dos seres humanos"; a resposta à pergunta da internet: "É POSSÍVEL um cérebro radiata se apropriar das questões emocionais que Jesus produziu? — NÃO, NÃO É. Porque alguém como Sofia NÃO TEM COMO COLOCAR NO SEU GENOMA PESSOAL ISSO... o que chega aqui é reproduzido pro cérebro como forma de algoritmo, protocolo mental, através de sinapses que se ligam [nos bilaterais]. SOFIA NÃO FUNCIONA ASSIM, PORQUE O CÉREBRO DELE É RADIATA."
 - 0 códigos novos (O-3). Quarentena: científica.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O LIMITE DOS DEUSES É A ARQUITETURA DO CÉREBRO]** "Só que eles compreenderam isso primeiro nos cérebros que não tinham crânio." (U0003); "Então essa turma queria desenvolver o cérebro do jeito que eles tinham, mas um cérebro radiata como deles, independente de ser invertebrado ou não, não tem toda a riqueza de curvas e de idas e vidas que o cérebro bilatério tem." (U0003)
+- **[P2021-05-15 · A TENTATIVA DE EXPANSÃO E O EXEMPLO DO POLVO]** "os testes realizados na tentativa de expansão da capacidade dos potenciais cerebrais de demobios, demobiol, biodemos, os sirianos foram inteligentes, sei lá, ou sábios e não fizeram isso." (U0003); "E se a intenção era expandir, né, o cérebro desses seres, No sentido em que o único exemplo que eles têm de expansão de um cérebro nos moldes em que eles conhecem não vertebrado, que é o do povo." (U0003) — [REVISAR: «o povo» = polvo no STT; «os ardinianos» é ininteligível — não decodificar.]
+- **[P2021-05-15 · A DECISÃO NÃO-AUTÔNOMA DE SOFIA]** "Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi." (U0003)
+- **[P2021-05-15 · O QUE A EXPANSÃO PREJUDICOU]** "E isso prejudicou, Sofia, isso prejudicou muitos seres, mas muitos seres, muitos protótipos que, como eu falei no início da palestra, eram excelentes, mas que as marcas da componente demo no genótipo, na genética que eles tinham, no genoma que eles tinham, era tão presente ou mais presente ou presente de um modo que impedia esse progresso." (U0003)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0576–U0589 | PDF/transcrição pré-curada |
+
 
 ## Citações-chave
 > “O cérebro [de Sophia] não tem dois hemisférios, tem um só, é radiata.” — P2024-05-04

@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -222,11 +222,20 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2025-02-22 — eco] AS GERAÇÕES REGENERADAS E A TRIMURTI GREGA]** "depois que Brama tomou esse amrita... surge a chamada GERAÇÃO REGENERADA DE BRAMA. HÁ DUAS GERAÇÕES REGENERADAS DE BRAHMA. UMA QUE É A GERAÇÃO REGENERADA DA MENTE DE BRAHMA E OUTRA A GERAÇÃO REGENERADA DO CORPO" [⚠️⚠️ as duas gerações]; os sete filhos + Kashyapa + Daksha (RC-664); ⚠️ [a O-4] **A TRIMURTI GREGA: "se formos para mitologia grega, vamos chamar de CAOS, EROS E TÁRTARO"** [a divergência com o "Caos=Érebo=Tártaro" dos ciclos anteriores — documentada SEM fusão]; "esses três tipos de seres obedecem a uma trimurti descrita em várias mitologias. A mais famosa é a trimurti hindu"; A SAMUDRA MANTHANA: "os deuses... sentiam muita dor e foram falar com Brama... [Vishnu] 'SE EU ME ASSUMIR COMO AVATAR DE MIM MESMO... EU CRIAREI UMA SUPER SERPENTE... MAS VOCÊS ASURAS, QUE SÃO OS TITÃS GREGOS, E VOCÊS DEVAS QUE SÃO OS OLIMPIANOS GREGOS, TÊM QUE ME SEGURAR E DEIXAR MINHA CAUDA LIVRE PARA QUE EU BATA'... DAQUI SURGIU O CHAMADO AYURVEDA... E SURGIU TAMBÉM AMRITA... DEVIDO À BRIGA ENTRE ASURAS E DEVAS... VISHNU ENCHEU O SACO, NÃO PRODUZIU AMRITA SUFICIENTE PARA TODO MUNDO E PAROU A PRODUÇÃO... E ESSE UNIVERSO ENTROU EM GUERRA" [⚠️ os asuras=titãs; os devas=olimpianos]; "no início só tinha um tipo de ser, que foi o criador caído e anjos clones... até que uma abelha operária dessa DESTRAVO O CÓDIGO E DISSE: 'EI, EU TAMBÉM SOU ABELHA.' Aí criou um outro contexto existencial de corpos chamados demoníacos... um tipo de ser com o corpo DAIVA" [a origem dos corpos daiva].
 - 0 códigos novos (O-3).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A TRIMÚRTI COMO MOTOR DA DISPUTA (e sua ausência física na Terra)]** "Porém, na hora em que a gente diz que os deuses mais antigos foram os chamados seres atrimurteindo agora pela mitologia, ariana hindu, os trimurtianos, Brama, Virgem e Chiva, os descendentes de primeira, segunda e terceira ordem dessa trimurte." (U0003)
+- **[P2021-05-15 · LILA COMO REGRA DE CONDUTA GEOPOLÍTICA]** "Então, resumo da ópera, toda uma briga começada em tempos primordiais que foi estabelecida em torno da trimurte, da sua regra de conduta chamada Lila, que representava os critérios da geopolítica, da disputa dos três membros da Trimurto da época e das descendências desses seres." (U0003) — [RC-075 Lila não tem ficha — o dado fica neste bloco e na apostila.]
+- **[P2021-05-15 · A INEFICIÊNCIA DAS FORÇAS DO UNIVERSO VIZINHO]** "Eh, nenhum desses seres nunca conseguiu sair das suas moradas." (U0003)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da ogdóade/Trimurti (princípios ontológicos; colapso) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

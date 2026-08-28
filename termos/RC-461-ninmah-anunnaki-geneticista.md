@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -18,11 +18,19 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 - **Habitat atual (leitura do autor):** "esse pessoal habita águas e mares do planeta e muito provavelmente uma certa base secreta nos Estados Unidos... eles pararam de se meter depois que interferiram fortemente no conflito da Guerra Fria entre Rússia e Estados Unidos e derreteram silos de ambos os países" — **quarentena ufopolítica** (alegação contextual, sem validação);
 - A "turma da irmã" é descrita como "a mais agradável" da história anunnaki (resposta à pergunta de Ricardo Andrade).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A IRMÃ-CO-AUTORA DA CRIAÇÃO RACIONALIZADA]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003)
+- **[P2021-05-15 · OS FILHOS DE ANU A FAVOR DE JAVÉ (a 1ª vez que a fonte diz isso)]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003) — ⚠️ RETIRADA NESTE CICLO (declaração de engano): a frase que o dossiê atribuiu a esta fonte — «os dois filhos de Anu, os dois genéticos que trabalharam a favor de Javé» — NÃO existe no `original.txt` de 15/05/2021. Era contaminação de memória. O T-13 não se aplica e nada foi aplicado em nome dele; a ficha mantém a linha B060 sem essa inflexão.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 10 (geopolítica cósmica); pergunta Ricardo Andrade | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

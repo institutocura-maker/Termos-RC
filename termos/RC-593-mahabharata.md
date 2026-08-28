@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.4 Escrituras / Objetos documentais |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Épico védico associado, na palestra, a Vyasa, aos Rishis e à reorganização de Kshatriyas e Brahmanes.
@@ -34,10 +34,17 @@
 - **[P2023-06-25 · o Q&A]** "esses nossos irmãos que usam o caminho que Krishna amorosamente ofereceu **se valem dos esforços alheios. Nós despendemos os nossos próprios esforços** e ainda temos o privilégio de contar com a ajuda daqueles que nos amam... **é sempre uma festa**" (a resposta sobre os desprendidos).
 - 0 códigos novos (O-3). Quarentena teológica (o Gita como leitura).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O MAHABHARATA NA GRAFIA ORAL E O SEU USO]** "Mas como eu disse no início, quando a gente lê os livros de antiguidade, Ramaiana, Marrabarata, os livros jainistas que desconhecemos, eh, a própria, o os próprios cantos dos Vedas, livros egípcios, livros, tudo que a gente imaginar, fala desse período, fala dessas etnias." (U0003)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Vyasa e uma série de Rishis terminam promovendo a revelação do Mahabharata.”” — P2022-12-17, U0768–U0775; U0793

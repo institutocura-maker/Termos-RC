@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.3 Localidades terrestres |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -18,11 +18,28 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - **Portais do Orum** abriam-se preferencialmente para o norte (RC-454/RC-665) — novas arestas RC-068 ↔ RC-655, RC-068 ↔ RC-454;
 - Cronologia e geografia são **leitura do autor** (cronologia interna).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A PALESTRA INTEIRAMENTE DEDICADA AO TEMA (a fonte mais completa da taxonomia)]** "E se hoje nós somos esses seres humanos, surpreendentemente, somos uma espécie única, seja lá de que tipo de lógica ou ótica ou ângulo a gente observe, a espécie humana é é realmente um ponto fora da curva em relação a tudo que existe, seja em que nível for, do paraíso a esse caos infernal que vivemos e as etnias, as espécies que nos definiram são exatamente essas que a a gente já falou em outras palestras e hoje eu vou novamente me referir ao tema, mas colocando alguns itens, algumas eh alguns painéis em torno dessas etnias, vinculando com o ser humano." (U0003); "Eh, são seis, basicamente, as principais parcelas ou componentes que ao longo dessa história de aproximadamente uns 30.000 anos de muita importância situada entre 40.000 anos e 10.000 anos atrás, esse foi o período mais importante da história dessas cidades." (U0003)
+- **[P2021-05-15 · O CRITÉRIO DO SEXO: demobios assexuados × demobiol sexuados]** "Então, aqui assim, aqueles seres descendentes de Odim, os Aesir e Vanir ou Aesires e Vanires, esses seres Demobio foi eh foram a as equipes que mais trabalharam nesses últimos 50.000 anos, no sentido de formar cidades ou dominar ou criar cidadelas." (U0003); "Então, esses seres notadamente, né, que eu chamo de Demobiol, porque muitos deles, diferentes das descendências de Odim, dos Aesir e dos Vanires, que não eram sexuados, estes Zeus eram sexuados." (U0003) — ⚠️ A fonte distingue DEMOBIO de BIODEMO («um padrão diferente dos biodemos»): não fundir com RC-036/RC-186; a equação demol↔demobio é decisão do Curador.
+- **[P2021-05-15 · A TRIMÚRTI EXCLUÍDA POR NÃO TER PISADO NAS ILHAS]** "Então, eles nunca colocaram o pé deles em nenhuma dessas ilhas hiperbórias, tá?" (U0003)
+- **[P2021-05-15 · AS SEIS COMPONENTES E A JANELA 40.000→10.000]** "A essas duas se associaram o quê?" (U0003); "Eh, são seis, basicamente, as principais parcelas ou componentes que ao longo dessa história de aproximadamente uns 30.000 anos de muita importância situada entre 40.000 anos e 10.000 anos atrás, esse foi o período mais importante da história dessas cidades." (U0003)
+- **[P2021-05-15 · A CAUSA DO POVOAMENTO: A BRIGA QUE NÃO PODIA SE FIXAR]** "E e por isso essa hibridagem, porque nenhuma delas, ou seja, nenhuma dessas antigas estirpes conseguia sozinha eh dominar ou se fazer presente, então tinha que se misturar com alguém para para que a a de uma o de uma vida, vamos assim dizer, acostumada aos aos padrões de universo antimaterial e agora ter que viver no material." (U0003); "Então, a hibridagem, o acordo, o pacto que muitas das estirpes de demo antiga eh foram fazendo ao longo desses 50.000 anos, exatamente para poder ocupar uma cidade, uma ilhota daquela." (U0003)
+- **[P2021-05-15 · THULE: AS GRAFIAS ORAIS DO NORTE]** "E aqui a gente se refere ao norte sagrado, ao norte mítico, que lá atrás, eu já fiz umas duas ou três palestras sobre isso, mas é exatamente onde antes, lá no Polo Norte existia um lendário continente que na língua Escandinávia se chama Tul Thu Alguns outros dizem que não era bem um continente, era um uma grande ilha cercada por outras partes menores de terra, mas pouco importa." (U0003); "Eu provavelmente faria mais referências a grupos étnicos que viviam nas ilhas do Pacífico e nesse grande continente de Lu, cuja descendência tem a ver com o que hoje nós chamamos de nepalenses, tibetanos, eh, birmanenses, eh, Só que nós estamos no ocidente e precisamos ressaltar esse aspecto desconhecido das lendas hiperbórias dos povos que viviam no norte." (U0003) — Grafias preservadas como ouvidas (Tul / Thu / Tool / Tur ≈ Thule). **Thule não vira termo** (Devolutiva O-8).
+- **[P2021-05-15 · O MAPA: 72 ETNIAS → 14 CARAVANAS → ESCANDINÁVIA/GRÃ-BRETANHA/IRLANDA]** "Essas ilhas, elas tinham aproximadamente umas umas 72 etnias importantes e durante esses 30.000 anos e nenhum era igual a outra eram distintas, um grau de mistiçagem eh específico, né?" (U0003); "Na verdade, cada nome desses representa um dos segmentos das 14, eh, vamos assim dizer, os 14 eh, caravanas de seres que em barcos ou em outro tipo de de transporte conseguiram sair das terras que afundaram e aportaram aí." (U0003)
+- **[P2021-05-15 · O CATACLISMO E A CHEGADA DOS TUATHA]** "E assim, e quando essas eh etnias se viram todas em perigo de morte devido ao cataclismo que teve há 14, 13, 12.000 anos atrás e que essas ilhas todas afundaram lá no norte e que a única notícia que se tem dessas figuras é que os tuatas de dano chegaram na atual Irlanda e no atual na atual Escócia." (U0003); "Exatamente aí é que ficava essas 72 civilizações ou culturas ou etnias hiperbóis." (U0003)
+- **[P2021-05-15 · O QUE A HUMANIDADE HERDOU DELAS]** "Os humanos herdaram a porcaria dessa criação." (U0003); "Repito, por incompetência da tribúcia, por incompetência da descendência de Odim, por incompetência da descendência de Zeus e dele próprio, por incompetência da gestão dos anunaques e porque os sirianos nunca foram dominadores e os biodemos terminaram se ferrando também não eram dominadores." (U0003) — ⚠️ RETIRADA: a frase «o que nós vivemos de ruim de espiritualidade hoje é um decalque», citada no dossiê, NÃO existe neste bruto (contaminação de memória do agente). Nada foi aplicado em nome dela.
+- **[P2021-05-15 · OS PROTÓTIPOS «MUITO BONS» E O LIMITE]** "Eu diria com muita tranquilidade, as etnias hiperbórias misturadas a partir dessas seis componentes produziram sim protótipos muito bons, excelentes." (U0003); "O único problema é que todos eles tinham um grande fator de herança do problema da genética demo." (U0003) — ⚠️ quarentena étnica no uso de «tipo ideal» (camada-2 §5).
+- **[P2021-05-15 · O LIVRO IMPOSSÍVEL]** "A questão é que dessa misturada que houve nessas cidades em que não há livro nenhum do mundo e nunca mais, ao longo da eternidade, penso eu, nós teremos a capacidade de de escrever um livro assim." (U0003)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

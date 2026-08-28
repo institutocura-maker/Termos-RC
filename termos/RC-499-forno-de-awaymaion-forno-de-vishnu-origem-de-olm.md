@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.2 Lokas / Mundos interiores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-21 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu** (Terceiro Logos). Descrito como "nave ou estação gigantesca" em formato de **charuto gigante**, localizada na Via Láctea. Responsável pela emergência do gênero existencial **biodemo** (RC-036) — seres **radiata** (RC-093) mais racionalizados, frios e lógicos, com poucas emoções. Dele surgiram **Sophia** (RC-009) e outros avatares de Vishnu; o **Quarto Logos Olm** (RC-092) surgiu "a partir" do forno e depois apareceu na nave **Asphezian** (RC-025) no Sistema de Capela.
@@ -28,12 +28,19 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
   - "a semeadura da vida biológica... não foi um processo aleatório, mas uma tentativa de 'recriar a Colmeia Trimurtiana em moldes biológicos'";
   - Mohen So (RC-081, avatar Keshava de Vishnu) produziu os fenvans (RC-064) e, a partir deles, Sophia, "sua contraparte no universo material".
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A GRAFIA ORAL DO FORNO E O SEU ADMINISTRADOR]** "Se lembra que eu tenho falado que quando os produto de Aáon, que é o forno de replicação de vidro, administrado por Virgno e Morrenç e o forno de Hawaiingan, administrado por Pachu Pathiba." (U0003) — ⚠️ «de vidre» é lido pela linha da base como FORRAGEM (B061). Mantida a grafia da fonte + [TEXTO CORROMPIDO]; a decisão de grafar «forragem» continua pendente.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Parte III (integral) | material do curador |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0621 (STT 'Alamaior') | STT pré-curado |
 | Fontes anteriores da Base | B061 | apoio/remissão |
+
 
 ## Citações-chave
 > "Produzir espécies através do forno de Awaymaion [STT 'Alamaior'], os biodemos." — P2021-12-04, U0621 (resolução confirmada pelo ART-2025-08-01)

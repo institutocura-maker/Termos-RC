@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Intervenção técnica atribuída a taumaturgos como Jesus, Sai Baba e Apolônio de Tiana, combinando leitura do genoma, elementos químicos, enzimas, proteínas, saliva, minerais e intenção para corrigir condições consideradas curáveis.
@@ -35,10 +35,19 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 - **[P2024-11-03 · A MAGIA DEFINIDA — O Q&A]** "A MAGIA É UM ATALHO. A MAGIA É UMA ARTE. A MAGIA É UMA PULSAÇÃO DA SUA MENTE QUE É EXPRESSA COM VISTAS A UM OBJETIVO. EU, ROGÉRIO, NÃO GOSTO DISSO. NADA SAI DE MIM ESPERANDO UM RESULTADO. EU SOU PROFUNDO SEGUIDOR DO QUE KRISHNA ENSINOU, DO QUE JESUS ENSINOU. Jesus disse: 'NÃO SAIBA SUA MÃO DIREITA O QUE A ESQUERDA FAZ'. Krishna ensinou: 'SE VOCÊ CUMPRIR O SEU DHARMA, DESDE QUE VOCÊ NÃO ESPERE RESULTADO, NEM KARMA VOCÊ GERA'... QUANDO VOCÊ PULSA, VOCÊ PODE ATÉ PULSAR ERRADO, MAS SE NÃO HÁ INTENÇÃO E NÃO HÁ ESPERA DE RESULTADO, AINDA QUE VOCÊ ERRE, VOCÊ NÃO ACIONA MECANISMO DE KARMA NEGATIVO. **MAS SE VOCÊ PULSA E ESPERA UM RESULTADO, ISSO AÍ É MAGIA**... E OS MAGOS SÃO ORGULHOSOS PARA CACETE DO QUE ELES PROMOVEM NO BEM... EU NÃO USO MAIS ISSO, MAS NO PASSADO O ESPÍRITO QUE ME ANIMA USOU E MUITO" ⚠️ [quarentena biomediúnica]; A GOÉCIA: "é útil conhecer... A MESMA QUESTÃO DOS ORIXÁS. Houve uma época em que essa história era de um jeito, HOJE ELA ESTÁ ADAPTADA AOS MOMENTOS".
 - 0 códigos novos (O-3). Quarentenas: clínica (a Ressalva Biomédica da ficha aplicada — a "medicina oculta" como concepção RC, jamais terapia) + biomediúnica ("o espírito que me anima usou e muito") + a plateia nominal (Ari o mago — retida).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · CPH4: O QUE É, DE FATO, SEGUNDO O AUTOR]** "E um tem Mas assim, quem tem osso mesmo são os humanos." (U0003); "E esse CPH4 é um tipo de enzima que as grávidas, as humanas grávidas, no seu sexto mês de gravidez soltam, eh, os organismos das mães produzem esse CPH4, exatamente para os seus bebezinhos começarem a ter um Esqueleto ósseo, osso." (U0003)
+- **[P2021-05-15 · A DROGA DO FILME × A ENZIMA REAL]** "O CPH4 é aquela droga sintética, desculpe o Pleonasmo, que no filme aparece como sendo aquela coisa azul dentro de saquinhos plásticos, né?" (U0003) — ⚠️ quarentena científica: a farmacologia é do filme Lucy (B036), não da Base.
+- **[P2021-05-15 · O QUE OS DEUSES FIZERAM COM ESSA DESCOBERTA]** "Os caras eram tão que eles descobriram o CPH4 na condição humana, verificaram em outras espécies da natureza selvagem da Terra, mas eles queriam adequar eles porque eles é que esperavam chegar no fim como os mandatários e como a gente já sabe deu tudo errado." (U0003)
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0737–U0770 | aula/palestra STT |
+
 
 ## Citações-chave
 > “Aqui exige conhecimento taumatúrgico.”

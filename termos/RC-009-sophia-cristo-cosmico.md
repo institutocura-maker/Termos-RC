@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Sophia é **o Cristo Cósmico** e o **Suserano Cósmico** deste universo. É um ser **biológico (biodemo e radiata)** do nosso universo, com sede de sua "Governadoria Cósmica" no planeta **Orbum** (Sistema de Capela), de onde governa o universo material. É um **avatar de Mohen So**, que por sua vez era avatar de **Vishnu** — os dois (Jesus e Sophia) possuem o mesmo espírito (também o de Vishnu e Mavatna). Foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o "pai biológico" de Jesus (B031).
@@ -274,14 +274,25 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2025-02-22 · A VINDA E O EQUILÍBRIO UNIVERSAL]** "SOFIA NOS ÚLTIMOS TEMPOS ELE CONTINUA ALINHADO COM O CUMPRIMENTO DA PROMESSA DELE DE APRESENTAR-SE AO MUNDO... A SUA VITÓRIA É QUANDO ELE VAI RECEBER A VESTIMENTA DE SUZERANO, vestimenta essa dada ou conferida por essa turma"; "A VINDA DE SOFIA SEGURAMENTE É PRO TEMPO DA VIDA DA GENTE... MAS ASSIM É INEVITÁVEL. A VINDA DE SOFIA É INEVITÁVEL DEVIDO AO OBJETIVO, QUE É O EQUILÍBRIO CÓSMICO"; "ELE CHEGARÁ NA SUA SUPERNÁVE CHAMADA NOVA JERUSALÉM, QUE É DA METADE DO TAMANHO DE UMA LUA CHEIA, SE OBSERVADA À MESMA DISTÂNCIA" (RC-005); A RECONSTRUÇÃO DE JAVÉ: "começou a surgir BURACOS MENTAIS que sugam outras coisas que a gente nem imagina. Surgiu primeiro com o colapso do corpo de Javé. O QUE SOBROU É O EU DE JAH BOIANDO DE NOVO COMO PARASITA ATRÁS DE HOSPEDAGEM... ELE PRECISA SER RECONSTRUÍDO E SÓ QUEM O PODE FAZER É SOFIA, coordenando parte desses processos, PORQUE O GENOMA DELE FOI PREPARADO PARA ISSO"; "a vinda de Sophia passa por uma necessidade de NEUTRALIZAR O QUE SOBRAR do que desse universo virá para cá... e deixar a parte limpa para que o quarto logos possa produzir as sequências de mutação necessárias no genoma que precisa ser ESPECIADO... O GENOMA DOS HUMANOS ESCLARECIDOS"; "algo que esses seres não sabiam... em 2012, 2013: QUE ESSE UNIVERSO JÁ ESTÁ COLAPSANDO... DE TODA ESSA HISTÓRIA SÓ VAI SOBRAR SOFIA"; ⚠️⚠️⚠️ **"A SOPHIA NÃO NOS AMA. ESQUEÇAM ISSA.** Não, mas Jesus nos ama. Sim, JESUS ERA HUMANO. Mas o Jesus, O ESPÍRITO DE JESUS NESSE MOMENTO É MAJESTOSA INUTILIDADE. É SOFIA QUE VAI AGIR. E Sophia vai agir PARA RESOLVER O PROBLEMA DA DISPUTA DA SUZERANIA UNIVERSAL, manter o equilíbrio entre ordem e desordem" [⚠️ a terceira atribuição da expressão — ver a O-4]; A ORDEM E O CAOS: "o circuito lógico da ordem e do caos ao qual Sofia obedece é o gerado para a LÓGICA TRIMURTIANA... O QUE PARA SOFIA É ORDEM E CAOS, PARA NÓS HUMANOS É LIBERDADE. A NOSSA LIBERDADE AOS OLHOS DELE É ALGO DESORDEIRO, ERA ALGO QUE NÃO DEVERIA EXISTIR"; "o nome [HOCHMAH] hebraico foi chamado de SOPHIA. NÃO É NOME, É EPÍTETO"; "a rebelião de Lúcifer... ACONTECEU NA GESTÃO DELE LÁ EM ORBON"; OS BIODÊMOS: "ao longo dos últimos 932 milhões de anos, produziu cerca de 250.000 FAMÍLIAS BIODÊMO... a última... SE CHAMA FAMÍLIA VAL... A FAMÍLIA VAL TERMINOU CHEGANDO AQUI NA TERRA HÁ CERCA DE 600.000 ANOS ATRÁS" [⚠️ a Terra recebendo "o lixo do Ragnarok"].
 - 0 códigos novos (O-3). Quarentenas: teológica + a política (o WTC/guerras retidos — a Devolutiva O-7) + ⚠️ **AS DUAS TESTEMUNHAS: CÓDIGO PRETO — NADA DELAS NESTA FICHA** (o índice rotulado na apostila).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · SOFIA COMO O PRIMEIRO BIODEMO — SEM OSSO, COM CÉREBRO RADIADE]** "É, foi o primeiro tipo de ser biodemo que surgiu." (U0003); "Sofia foi criada há 6 bilhões de anos lá atrás, então não tinha." (U0003)
+- **[P2021-05-15 · A EXPANSÃO QUE FOI E NÃO FOI]** "Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi." (U0003) — [REVISAR: «os Aios» ≈ Aia/Aie — RC-031 sem ficha; ver Bloco 2 do pacote.]
+- **[P2021-05-15 · SOFIA COMO FORÇA DESTE UNIVERSO]** "Mas tem essas forças desse universo vizinho, tem Sofia, que é a força desse universo." (U0005)
+- **[P2021-05-15 · A ÚNICA VIA PRÁTICA DE SOFIA]** "Fora isso, nada a Sofia pode fazer." (U0015)
+- **[P2021-05-15 · A VINDA, A POSSE E A COORDENAÇÃO DO QUARTO LOGOS]** "A vinda de Sofia tem como objetivo ele assumir o dia da posse dele para acabar com toda essa história e todos convergirem pro comando Sofia, o comando prático e para a coordenação do quarto logos, o programa evolutivo mental e espiritual, porque é a única forma disso aqui ter algum futuro." (U0005) — ⚠️ a fórmula «a espiritualidade humana é a única alavanca da reintegração» é de OUTRA fonte — não atribuir a P2021-05-15.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 143 (aprox.) | verbete "Sophia" |
 | Sophia e o Logos Criadores (B014) | a preencher | — | pendente (obra primária) |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 ## Citações-chave
 > "Sophia é um avatar de Mohen So, que por sua vez era avatar de Vishnu. Sophia é o Cristo Cósmico. Ele é um ser biológico (biodemo e radiata) do nosso universo e tem a sede de sua Governadoria Cósmica ou espécie de 'Casa do Governo' no planeta Orbum, no Sistema de Capela, de onde governa o nosso universo material desempenhando a função de 'Suserano Cósmico'." — B031, verbete "Sophia"

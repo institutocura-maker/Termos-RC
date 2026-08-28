@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -47,11 +47,24 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **[P2025-02-22 — eco] O FOXP2 PARA OBEDECER]** "os anunaques já havia[m] feito quando introduziram, bem antes do episódio de Adão e Eva, o FOXP2, QUE É UM GENE QUE NO NOSSO CÓRTEX FRONTAL SUPERIOR PERMITE A RACIONALIDADE, MAS ERA UMA RACIONALIDADE PARA OBEDECER, ou seja, para entender a ordem daqueles que mandavam nos seres humanos, ou seja, os deuses. E ESSA RACIONALIDADE ERA SÓ PARA OBEDECER... É COMO SE NÓS CHEGÁSSEMOS NA NOSSA ROÇA... E OS CAVALOS E AS VACAS, AS OVELHAS A GENTE QUISÉSSE PROMOVER UMA MANIPULAÇÃO GENÉTICA NELAS... PARA QUE ELES ENTENDESSEM A NOSSA LÍNGUA E NOS OBEDECESSE. **O QUE ENKI FEZ COM OS HUMANOS FOI SÓ ISSO**" [⚠️ a analogia da fazenda]; "os anunaques... não são teriantrópicos... TINHAM TRAJES DE [ESCAFANDRO]" [a Q&A — o esclarecimento].
 - 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · FOXP2 DADO PARA QUE SE APRENDESSE A LINGUAGEM DOS ANUNAX]** "Então eu só tô querendo chamar a atenção de vocês porque lá atrás quando quis transformar a humanidade numa humanidade que aprendesse a linguagem dos anonax e para isso ele colocou o Fox P2 dele que os Anonax tinham de uma racionalidade que ainda não havia surgido na Terra num corpo de homo que já tinha crânio, coisa que não necessariamente os anonax todos detém em si." (U0003)
+- **[P2021-05-15 · A CRIAÇÃO DO TIPO RACIONALIZADO A PARTIR DO DNA DE ENKI]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003) — [REVISAR: «Ning Ningicida, que é o deus Thor» é quarentena histórica — não decodificar.]
+- **[P2021-05-15 · A ADVERTÊNCIA SOBRE O CÉREBRO DELES]** "E o os que detém não é o mesmo do nosso tipo, muito menos o cérebro dele é sofisticado como o nosso." (U0003)
+- **[P2021-05-15 · ADAPA: A VIDA ENCURLADA POR MEDO]** "Então, em que encurtou mais ainda a genética do ser humano para que ele não vivesse muito." (U0003); "Porque diferente do Adão movido, escolhido por Javé, em que e os Anunacas, eles morriam de medo que os humanos que já eram naturalmente mais espertos que eles em muitas coisas." (U0003)
+- **[P2021-05-15 · A FONTE ERUDITA NOMEDADA (a lenda de Adapa)]** "Mas nas crônicas sumérias, nas tabuletas sumérias acadianas encontradas no século XIX nas bibliotecas da antiga capital de Min Na biblioteca de Nínive, antiga capital do império assírio, existem lá diversas crônicas sumérias e uma delas se chama a lenda de Adapa." (U0003) — [REVISAR: «bibliotecas da antiga capital de Min» = STT provável para Nínive; manter a grafia da fonte na apostila.]
+- **[P2021-05-15 · OS DOIS FOXP2 (Q&A U0006)]** "Eh, o gene da cognição Fox P2 dos descendentes de Anunax é diferente dos descendentes de Pandora?" (U0006); "É um mesmo genoma, porque para pertencer a espécie humana tem que ser o genoma humano, mas áreas desse genoma, a chamada HR1, HR2, HR, são diversas áreas, né?" (U0006)
+- **[P2021-05-15 · O PAR ADÃO/ADAPA COMO DIAGNÓSTICO DO PRESENTE]** "Então, tá se estudando de tudo, mas assim, o que importa pra gente, o objetivo dessa palestra foi só mostrar esse pano de fundo, deixar claro que o adapa em que ano ainda é um padrão de genética que está presente." (U0005) — ⚠️ T-11: a fonte põe Adão e Adapa juntos na janela de ~49.000 anos; a base selou Pandora ~49.000 × Eva/Adão ~22-23.000 [P2025-02-22]. Selar, **não fundir**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

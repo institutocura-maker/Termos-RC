@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | ⚪ Candidato aprovado para integração |
-| **Última atualização** | 2026-08-17 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -56,5 +56,13 @@
 ## Ampliação — P2024-07-13
 
 - **[P2024-07-13] A devoção imbecilizou (U1420–U1430):** "o tipo de ser humano que nós temos sido faliu. Não é que eu, você, alguém falou... o modelo de ser humano que tá indo no lado devocional tá falindo, porque transferiu para outros as possibilidades dela própria evoluir. Então, ela tá esperando que o outro faça com que ela evolua. A devoção é que imbecilizou totalmente o ser humano".
+
+---
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A BANCA ESPIRITUAL DE RESISTÊNCIA (a proposta de 2021)]** "É preciso que mais grupos espirituais mantenham ou construam aquilo que eu tô chamando de banca espiritual, de resistência, né, de de para reter ali os assuntos para serem trabalhados, verificados, porque só aqui na terra não tá, não tem espaço." (U0018)
+- **[P2021-05-15 · POR QUE A ERRATICIDADE NÃO RETÉM]** "A estrutura da operacional é manter em funcionamento novas atitudes e buscas, mas dentro de certos padrões de controle." (U0018) — [STT: «os aliceces magnéticos» = os alicerces magnéticos.]
+- **[P2021-05-15 · A TURMA QUE SE POUPOU DE ENCARNAR]** "Mas já tem uma turma agora que tá defendendo que alguns algumas consciências humanizadas sobre a perspectiva espiritual realmente se poupem de encarnar, de encarnar não, de mergulhar nessa criação até que lá fora, com algum nível de consciência crítica contra solução pro para Javé, para Krishna, para e para ver o que que faz." (U0016) — ⚠️ quarentena biomediúnica — registro, não doutrina.
 
 ---

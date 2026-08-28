@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Patriarca Anunnaki apresentado como pai de Enki e Enlil e autoridade na lógica dinástica Anunnaki.
@@ -29,10 +29,21 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 - **[B089 p. 67 · a linhagem]** "**todos da realeza descendem do mesmo ramo genético do nosso Rei Anu. Veja, ele e a nossa Rainha Ki, que é a sua irmã, são descendentes diretos dos nossos mais antigos governantes.** O rei manteve a pureza da sua linhagem ao procriar com ela, e deles nasceu o nosso Príncipe Enlil."
 - 0 códigos novos (O-3). Quarentena ufológica (O-7). **B089 adicionada às fontes** (Devolutiva O-6).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O PREDOMÍNIO DE ANU NAS ETNIAS HIPERBÓREAS (o dado que faltava à ficha)]** "E então o Deus que mais tinha prestígio, o Deus que mais era reverenciado, vamos assim dizer, não era nenhum dos seres que vive nesse universo aí vizinho, em nenhum das moradas." (U0003)
+- **[P2021-05-15 · A VISITA PERIÓDICA À TERRA]** "Mas essa inana, ela é que ela quando a nu vinha a Terra cada cerca de 3600 anos, que é o tempo da órbita que o planeta Anibiro faz em torno aí do sistema solar." (U0003) — ⚠️ a mesma cifra de 3.600 anos serve aqui para a periodicidade da vinda, não só para a órbita; o autor a relativiza no Q&A (ver RC-589).
+- **[P2021-05-15 · O SENSO CRÍTICO E A LEITURA DA PRÓPRIA VANTAGEM]** "Anu tinha um senso crítico e na época de fato ele dominava a situação, os humanos." (U0003); "Então ele se achava mais ainda que eh Zeus em algum momento não iria competir com os Anunaques, porque algo de estranho parecia estar ocorrendo nas moradas eh na no Olímpio, né, da daqueles seres e eles já estavam diminuindo a saída para esse universo." (U0003)
+- **[P2021-05-15 · A ENDOGAMIA ANUNNAKI ATRIBUÍDA A ANU]** "E foi quando o próprio Zeus começou a transar loucamente com tudo que se movimentava que ele queria ter uma descendência com aquilo para dar continuidade à sua genética no meio daquela história, já que o Zanuna defendiu a tese, por isso Anu, como avô transou com Inana, sua neta, para poder dar uma descendência de um de uma posição genética que eles acham importante." (U0003)
+- **[P2021-05-15 · O PONTO CEGO: A DESCENDÊNCIA DOS DOIS FILHOS]** "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0808–U0820; U0836–U0839 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Anu, que é o pai de Enki e Enlil.”” — P2022-12-17, U0808–U0820; U0836–U0839

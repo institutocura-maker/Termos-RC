@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -101,11 +101,18 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[P2025-02-22 — eco] SHIVA O ANARQUISTA]** "SHIVA É O MAIS PODEROSO DE TODOS OS SERES DESSE UNIVERSO... quando notou que todos os deuses estavam se auto elogiando, se vestindo com ouros... O QUE É QUE SHIVA RESOLVEU FAZER? VESTIR COM UMA PELE DE ANIMAL, ANDAR COM UM CRÂNIO DE UM MACACO ACOMPANHADO DAS PIOR[ES] FIGURAS. OS GANAS ANDAVAM COM SHIVA. OS GANAS FORAM AS PRIMEIRAS FIGURAS A FUMAR CANABIS. Fiquem sabendo, está descrito no Purana. E A ORDA DE SHIVA FOI A PRIMEIRA ORDEM ANARQUISTA QUE SURGIU, porque Shiva, em sendo mais poderoso dos deuses, CURTIA COM A CARA DELES TODOS, dizendo: 'Ó, vocês estão investindo em valores equivocados'. DIONISO REPETIU SHIVA quando Dioniso surgiu" [⚠️⚠️⚠️ Shiva o anarquista]; "SHIVA JÁ ESTÁ DOMINANDO A HUMANIDADE... TRABALHANDO NA TRADIÇÃO COM MARICANDÃ LÁ NA ÍNDIA. Os dravidianos e seus ancestrais foi o povo escolhido por Shiva... OS JAINISTAS É QUE PRODUZIAM OS DRAV[II]DIANOS" [⚠️ a estratégia de Shiva na Terra]; "Shiva disse: 'não, eu confio'" (× Brama sobre Sophia); o forno [Awaylengan] que "explode"; "Chiva e Vishnu começaram a influenciar Sofia para que ele fosse fazendo combinações".
 - 0 códigos novos (O-3). Quarentena: clínica (a canabis — como registro mitológico).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · SIVA COMO ADMINISTRADOR DO SEGUNDO FORNO — E O «JAMAIS» NAS ILHAS]** "Então, eles nunca colocaram o pé deles em nenhuma dessas ilhas hiperbórias, tá?" (U0003) — ⚠️ quarentena religiosa/hinduísta: as grafias orais da Trimúrti nesta fonte («Brama, virgem e chiva») **não** substituem as grafias canônicas da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

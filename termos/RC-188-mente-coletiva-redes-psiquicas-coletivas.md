@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Estruturas coletivas de informação e consciência que organizam famílias, gêneros e espécies espirituais em redes. A palestra distingue implicitamente dois usos: redes psíquicas naturais de cooperação e o modelo de controle coletivo da Colmeia.
@@ -29,11 +29,19 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 - **[B044 p. 127]** o universo, por meio da sua recém-nascida “Mente Coletiva”, assim agiu para poder sobreviver (deslacre do sistema de controle dos agentes da vida).
 - Sheldrake (p. 127) = hipótese citada, **não** ontologizada. Distinguir mente coletiva natural × controle Colmeia (já na ficha). Sem fusão com B041.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · MEMETE — A DEFINIÇÃO EM BOCA DO AUTOR (termo nunca cadastrado)]** "Mas os pensamentos que vêm da movimentação do campo mófico humano, da dos do inconsciente coletivo humano e da corrente da genética que toda santa hora, cada microsegundo, pega tudo que cada cabeça de qualquer ser humano que exista pensou, esteja ele aqui na eh na lua, num planeta abduzido, a sequência da internet humana, que eu chamo Memete, a cada microssegundo distribui e redistribui e pega e redistribui de novo para toda e qualquer cabeça de um ser humano e o produto do que todos pensam." (U0018); "Esse genoma de hoje, hoje os últimos tempos, veja só, o genoma de cada ser humano pula loucamente a cada microssegundo, tá?" (U0006)
+- **[P2021-05-15 · O TECLADO GENÉTICO COMO INTERFACE DA REDE]** "É o uso que a atitude mental de cada ser humano faz do seu teclado genético." (U0006) — ⚠️ **VETO DE CÓDIGO MANTIDO (Devolutiva O-8):** «Memete» permanece termo-observação absorvido aqui e em RC-194; **não** ocupa RC-778.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B044 — A Divina Colmeia | contexto do Modelo Colmeia | fonte publicada |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0067–U0074; U0084–U0096; U0134–U0139 | STT pré-curado |
+
 
 ## Citações-chave
 > “Cada grupamento que foi surgindo nesses níveis operacionais foi se fechando em rede.” — P2021-12-04

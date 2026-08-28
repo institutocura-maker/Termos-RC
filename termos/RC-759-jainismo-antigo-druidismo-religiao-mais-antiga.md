@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -40,11 +40,20 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 - **[P2025-02-22 — eco] OS TIRTHANKARAS E O YOGA]** "há 2700 anos atrás, quando os 24 TIRTHANKARAS estavam encerrando a sua atuação DE LIGAR A ESPIRITUALIDADE SUPERIOR A ESSES DOIS UNIVERSOS APODRECIDOS, ELES FORAM QUEM CRIARAM A PONTE. O último Tirthankara nasceu na Índia. O nome dele é MAHAVIRA, NA MESMA ÉPOPA QUE SIDARTA GAUTAMA. E é contado, a religião desses tirthankaras chama-se JAINISTA. É A RELIGIÃO MAIS ANTIGA QUE EXISTE" [⚠️⚠️ os tirthankaras como os criadores da ponte]; "os próprios tirthankaras, que por meio da doutrina jainista original, ELABORARAM UMA FILOSOFIA QUE NEGAVA A VIDA NOS TERMOS IMPOSTOS PELAS FORÇAS TRIMURTIANAS, representa o exemplo mais próximo dessa TRINCHEIRA DE RESISTÊNCIA cujo legado chegou ao conhecimento da cultura humana... O ASCETISMO, OS VOTOS RÍGIDOS DE PROFUNDA ASCESE, DE ISOLAMENTO QUE OS TIRTHANKARAS SE AUTOIMPUSERAM É UMA LINGUAGEM QUE ESTÁ CRITICANDO ESSA TURMA. ENTÃO, O YOGA TROUXE MUITO DESSE LEGADO [J]AINISTA" [⚠️⚠️ o yoga como o legado jainista]; MUCALINDA: "essa mucalinda, além de árvore, ERA UM PORTAL, dizem os jainistas" (RC-664); "as mais de 15 tabuletas do Jainismo... ninguém consegue traduzir uma linha"; OS DISSIDENTES: "nem todos pensavam assim. Shiva, os Nagas... os Uragas... tipos kinnaras... centauros, sátiros... KIRON, O GRANDE CENTAURO... durante alguns milênios fez o que pôde, MAS MATARAM O CARA. SILENO, UM SÁTIRO QUE SABIA O QUE QUASE NINGUÉM SABIA"; A PERGUNTA DE MIDAS: "'Ó MESTRE SILENO, O QUE DE MAIS UM SER HUMANO PODE E DEVE ALMEJAR?'... 'Ó ESTIRPE MISERÁVEL E EFÊMERA... O QUE DE MAIS UM SER HUMANO DEVERIA ALMEJAR É DE JAMAIS TER NASCIDO. MAS JÁ QUE NASCEU, MORRER LOGO SERIA O QUE ELE MELHOR PODE ALMEJAR. PORQUE ESSA VIDA É ESCRAVIDÃO'" [⚠️⚠️⚠️ o pessimismo de Sileno].
 - 0 códigos novos (O-3). Quarentena: a filosofia como registro.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A 2ª FONTE DO BLOCO TUATHA × MILESIANOS (e a divergência de data)]** "E eram seres humanos livres, de influência maior desse ou daquele personagem, os chamados milesianos, que a gente já falou em outras palestras, que na época viviam ali no norte da Europa, desculpa, norte da Espanha, aonde hoje é o país Vasco, quando os milesianos humanos se encontraram com os seguidores de Inanaistos híbridos, né, estuatas de Danã, o rei deles se chamava noada." (U0003) — ⚠️ **Divergência SEM FUSÃO** (Devolutiva O-8 / T-5): a P2021-01-23 fixa «uns 11.000 anos atrás, quando os milesianos subiram pra Irlanda»; esta fonte não data o contato e ancora o período no cataclismo (14/13/12.000). As duas cronologias ficam lado a lado; nenhuma é corrigida.
+- **[P2021-05-15 · OS NOMES DO BLOCO (com [REVISAR])]** "E eram seres humanos livres, de influência maior desse ou daquele personagem, os chamados milesianos, que a gente já falou em outras palestras, que na época viviam ali no norte da Europa, desculpa, norte da Espanha, aonde hoje é o país Vasco, quando os milesianos humanos se encontraram com os seguidores de Inanaistos híbridos, né, estuatas de Danã, o rei deles se chamava noada." (U0003) — [REVISAR: «noada» = Nuada; «neta de amor» é STT corrompido — não decodificar.]
+- **[P2021-05-15 · A CHEGADA E O RECORTE MITOLÓGICO]** "A gente conhece os toatas de Danã porque afinal de contas foi a base da mitologia celta na Irlanda e um pouco a mitologia nórdica, mas como a gente vai ver daqui a pouco, muitas muitos traços dessas notícias passaram a posteridade, mas é uma posteridade que foi morrendo depois, ao longo dos milênios pós-diluvianos, em que essas etnias já não existiam, mas a descendência delas." (U0003)
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-02-03 | palestra integral (Jainismo/Druidismo) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

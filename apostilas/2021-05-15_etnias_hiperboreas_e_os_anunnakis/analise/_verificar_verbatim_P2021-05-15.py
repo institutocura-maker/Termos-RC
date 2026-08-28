@@ -25,13 +25,14 @@ FONTE = os.path.join(CICLO, "original.txt")
 
 def toks(s):
     s = re.sub(r"\[[^\]]*\]", " ", s).replace("…", " ")
+    s = re.sub(r"[*_`]+", " ", s)   # marcação markdown dentro da citação é nossa, não da fonte
     s = re.sub(r"[^0-9a-zA-ZÀ-ÿ%]+", " ", s)
     return re.sub(r"\s+", " ", s).strip().lower()
 
 def main():
     src = toks(open(FONTE, encoding="utf-8").read().replace("\r\n", "\n"))
     alvos = sorted(p for p in os.listdir(RAIZ)
-                   if p.endswith((".md", ".txt")) and not p.startswith("_"))
+                   if p.endswith((".md", ".txt")) and (not p.startswith("_") or p.startswith("_ampliacoes_")))
     paridade = 0
     verbatim = 0
     testados = 0

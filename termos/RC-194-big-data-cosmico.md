@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório (baseado na amostra B035 — caps. 1–2) |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 É o análogo cósmico do "big data" terreno: o **supercontrole informacional** exercido pelo Criador (Javé) e sua "plêiade" de anjos-clones sobre **todas as sequências genéticas de qualquer ser vivo** da Criação. Esse grupo de seres "monitora e tem acesso privilegiado — de modo vergonhoso frente aos valores humanos no campo da ética — a absolutamente todas as sequências genéticas de qualquer ser vivo, e disso se aproveita para delas retirar o que supõem ser o contributo pessoal de cada 'criatura-ferramenta'" (B035, cap. 2). Não há "big data" terreno que se aproxime da riqueza de informação de que dispõem, apesar de estarem presos em uma dimensão subjacente à nossa.
@@ -25,10 +25,18 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 - **[B035 p. 13]** «Não há “big data” terreno que possa se aproximar da riqueza de informação de que esses seres dispõem», embora presos «em uma dimensão de realidade subjacente»; acompanham «as entradas e as saídas» das sequências de DNA identificadas com «mentes individualizadas»; continuidade de uma «mesma expressão mental» por trás de quem «morreu» e «renasce».
 - **Amostra (18 págs):** esta seção ancora as páginas do PDF arquivado (as fichas de 2026-08-12 nasceram desta amostra, sem âncora de página). Caps. 3–12 + posfácio = só sumário — **fora**. RC-197 / RC-019 permanecem **sem ficha**. RC-200 **não** ampliada (cap. 8 só no sumário). Cap. 1 (Weigend / Heidegger / Pentland / analogia política) = **referências externas + político-geopolítica, fora**. Sem fusão com B001. Fonte **B035** já constava na tabela-mestra.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · QUEM CRIOU O BIG DATA E O MAPA DAS 10 ENCARNAÇÕES]** "Então, Sofia, ele consegue ter relação, não consegue ter acesso a essas informações e retirar daí, desculpem, as sequências genéticas que o interessam e os Aia e Aia são muito, foram eles que criaram esses troços de certa forma eh do chamado big data que eu sempre me referi." (U0015); "Tudo que Sofia pode fazer para evoluir a sua condição de radiata é pegar a organ a partir de a de sequências genéticas novas que os humanos vê tendo, né, e com base no campo móv outra contribuição peculiar de cada ser humano, porque assim, existe um mapa em que cada ser humano, eh, olhando para esse mapa, você pega suas últimas 10 encarnações como ser humano e você vê a mesma assinatura quântica no mapa." (U0015)
+- **[P2021-05-15 · A CONTRIBUIÇÃO INDIVIDUAL MEDIDA NO CAMPO]** "Como também se pode saber a contribuição específica de Zezinho dos Anzóis, como é que ele tá em relação à contribuição dele pro campo mófico." (U0015) — ⚠️ A frase seguinte (o fundador do islamismo e o «campo mófico») é trecho RETIDO em bloco (Devolutiva O-5) — não transcrever.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | O Big Data do Criador (B035) | cap. 2 (O Big Data Cósmico) | amostra (pp. 8–13 do PDF) | conteúdo presente na amostra |
+
 
 ## Citações-chave
 > "Não há 'big data' terreno que possa se aproximar da riqueza de informação de que esses seres dispõem, apesar do fato de se encontrarem presos em uma dimensão de realidade subjacente àquela em que vivem os seres deste universo." — B035, cap. 2

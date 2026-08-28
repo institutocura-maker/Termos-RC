@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-17 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -21,11 +21,20 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 - intransferibilidade: o eu humano é quem precisa resolver ("Jesus não poupa ninguém disso").
 - o espírito como "ator" que apropria as experiências dos "personagens" (eus) que produziu.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · A ANTERIORIDADE (3 ANOS ANTES DA FICHA) — O MECANISMO JÁ DESCRITO]** "Porque tá tendo um problema seríssimo na espiritualidade que começou de uns anos para cá e vai até ninguém sabe quando que está impedindo que os espíritos desencarnados retenham as suas melhores conquistas codificadas sob a forma de certas sequências, que é novidade, eh, paraa manutenção do da bagagem espiritual." (U0003)
+- **[P2021-05-15 · A VISTA GROSSA COMO TÉCNICA DE CONTAMINAÇÃO]** "Poucos são os níveis espirituais que retém as informações que são eh vivenciadas por eles quando assistem as palestras, os bate-papos do IEA, porque fazem mal no atual estado momento." (U0018)
+- **[P2021-05-15 · A ECOLOGIA DA PSICOSFERA (o urubu e o vírus)]** "Passou avião, passou urubu, nada fica ali parado olhando para você, passa." (U0018) — ⚠️ quarentena biomediúnica leve: é descrição de mecanismo espiritual, não técnica prescrita.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-04-14 | palestra integral (eixo central; "bagagem espiritual intransferível") | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

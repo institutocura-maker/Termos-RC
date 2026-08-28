@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Nas Revelações Cósmicas, Javé é o "Deus Bíblico do Antigo Testamento" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador "caído"** deste universo — e por isso chamado de Criador e não de Deus —, o protagonista do "drama cósmico/espiritual de Javé". (Definição preliminar baseada em B031; a refinar com as obras primárias.)
@@ -277,15 +277,25 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[P2025-02-22 — eco] O SONO DE BRAHMA E O KAAGEN]** "esse ser... de vez em quando ele se desliga, entra em coma. Os anjos clones que ele criou mantém esse ser funcionando, ainda que em coma. E ELE PASSA MILHÕES DE ANOS... DESFALECIDO... o famoso sono de Brama... a própria mitologia judaico-cristã... no livro Gênesis... DEUS TRABALHOU UM DIA... NO SÉTIMO ELE DESCANSOU. Ou seja, É O MESMO EUFEMISMO... E 'VIU QUE ERA BOM' — OU SEJA, ELE VÊ SE É BOM DEPOIS QUE ELE CRIA" [⚠️ teológica]; "OS BOSQUÍMANOS SAN... CHAMAM AO CRIADOR CAÍDO DE KAAGEN, QUE NA LINGUAGEM DELES... SIGNIFICA O TRAPACEIRO. NÓS OCIDENTAIS TRANSFORMAMOS ESSE CRIADOR CAÍDO NUM DEUS, QUE É O DEUS BÍBLICO" [⚠️⚠️ o trapaceiro]; A ORDEM: "JAVÉ DISSE: 'RESOLVA'. E ELE NÃO TINHA PADRÕES PRÓPRIOS DEFINIDOS"; AS TRAIÇÕES: "'Javier, não me interessa. VOCÊ ME TRAIU, [ROCKMA] ME TRAIU. VISHNU ME TRAIU'"; O COLAPSO: "o que sobrou é o eu de Jah BOIANDO DE NOVO COMO PARASITA ATRÁS DE HOSPEDAGEM... ele precisa ser reconstruído E SÓ QUEM O PODE FAZER É SOFIA... porque o genoma dele foi preparado para isso"; "AÍ JAVÉ ATÉ HOJE DETESTA O GÊNERO FEMININO... POR ESSA FRAQUEZA DE ADÃO QUE DEVERIA TER SIDO CAVALHEIRO, DEVERIA TER DITO: 'FUI EU, NÃO FOI ELA'"; o carimbo do pecado original; a cobrança de Luzbel: "'QUE OBEDIÊNCIA CEGA É ESSA SUA? A UM DEUS QUE VOCÊ DIZ EXISTIR NESSE UNIVERSO VIZINHO... ESSE DEUS DE LÁ MANDA DESTRUIR TUDO'".
 - 0 códigos novos (O-3). Quarentena: teológica máxima.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · JAVÉ COMO O AGENTE QUE FECHOU A PAMÍXIA]** "Mas Javé foi um dos caras que mais trabalhou para que a ponixia não fosse adiante, né?" (U0003)
+- **[P2021-05-15 · O CONDICIONAMENTO DOS HUMANOS E O ADÃO IMPOSITIVO]** "E os seres humanos continuaram sendo condicionados na disputa maluca que Jahé fez." (U0003) — ⚠️ [STT: «Jahé».] A fórmula do «Adão religioso impositivo» pertence a outro bloco da fonte (U0010) — não fundir os dois.
+- **[P2021-05-15 · A RODA QUE JAVÉ CRIOU FUNCIONA SOZINHA]** "A roda que Javé criou funciona por ela mesma." (U0003)
+- **[P2021-05-15 · JAVÉ × INANA (a aliança invertida)]** "E eu acho, acho não, eu sei que ela ajudou, mas apenas eu acho que ela é uma Uma das figuras que sempre atrapalharam, sempre atrapalhou Javé e usou Eva e Lilif." (U0009) — ⚠️ Reancoragem declarada: o dossiê citava «RC-010 (Javé)»; RC-010 é Atlântida — a âncora correta é RC-001. Nenhuma ficha de Atlântida foi tocada.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 130 (aprox.) | verbete "Javé" (paráfrase/transcrição) |
 | O Drama Cósmico de Javé (B001) | a preencher | — | pendente (obra primária) |
 | O Drama Espiritual de Javé (B002) | a preencher | — | pendente (obra primária) |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
 
 ## Citações-chave
 > "Deus Bíblico do Antigo Testamento, também conhecido como Jeová ou Yahweh (Cristianismo e Judaísmo), Alá (Islamismo), Brahma (Hinduísmo), Caos (Mitologia Grega), Pangu ou Pan' Ku (Mitologia Chinesa), Atom (Mitologia Egípcia), dentre outros." — B031, verbete "Javé"

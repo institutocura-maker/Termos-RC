@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extrafísicos e dementes** (demo = "demente") criados a partir do **DNA ou CFD (Código Fonte Definidor) do Criador**, após a classe dos anjos clones. Apesar da conotação negativa de "demônio", os demos do Brahmaloka (universo antimaterial) são apenas uma **classificação de seres** que se metamorfoseiam devido à condição molecular instável — não sendo nem bons nem maus (ou podendo ser ambos), como os anjos. Alguns são chamados de "deuses" nas mitologias (B031).
@@ -47,11 +47,20 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[B021 p. 18]** ensaio: «todo ser demo tem um quê de "demência"» = **clínica** (construto cosmológico, jamais diagnóstico).
 - **[B021 p. 41]** cap. 6: «diferença de ordem corporal e psíquica existente entre demos e humanos»; «Demônios e humanos também são figuras à parte, que conviviam, mas não se compreendiam». Falas de Zeus **isoladas**. Sem materializar RC-040 / RC-044 / RC-145. Sem fusão com B020 / B052. Fonte **B021** já constava na tabela-mestra.
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · O PROBLEMA DEMO COMO HERANÇA QUE INVIABILIZA]** "O único problema é que todos eles tinham um grande fator de herança do problema da genética demo." (U0003)
+- **[P2021-05-15 · A AUSÊNCIA DE DUALISMO MORAL]** "Eles não tem esse tipo de dualismo na cabeça." (U0003)
+- **[P2021-05-15 · O PACTO DAS ESTIRPES DE DEMO ANTIGA]** "Então, a hibridagem, o acordo, o pacto que muitas das estirpes de demo antiga eh foram fazendo ao longo desses 50.000 anos, exatamente para poder ocupar uma cidade, uma ilhota daquela." (U0003)
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+
 
 ## Citações-chave
 > "Nas obras de Jan Val Ellam, a expressão 'demo' define tão somente os seres que habitam um universo paralelo ao que vivemos, de origem antimaterial, sendo alguns deles, inclusive, chamados de 'deuses', cujos nomes aparecem nas diversas mitologias do passado." — B031, verbete "Demos"

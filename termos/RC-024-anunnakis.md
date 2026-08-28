@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 
@@ -71,11 +71,24 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2024-11-03 — eco] OS DEUSES BIOLÓGICOS]** "a mitologia suméria, acadiana... você tá falando de seres que foram chamados indevidamente de deuses, MAS SÃO SERES BIOLÓGICOS QUE CHEGARAM AQUI NA TERRA EM NAVES"; "aquele ser chamado Enki, Anunak, DOS DEUSES BIOLÓGICOS, ele há uns 20.000 anos atrás fez umas experiências..." (RC-486); "a de Adão era obedecer os Anunaques".
 - 0 códigos novos (O-3). Quarentena: ufológica (rotulada).
 
+
+## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
+
+- **[P2021-05-15 · TIPOLOGIA: «OS ANUNNA NÃO SÃO FARINHA DO MESMO SACO»]** "O ser humano, todos nós somos farinha do mesmo saco, mas os anuna não são." (U0003)
+- **[P2021-05-15 · O EGITO COMO BASE GEOPOLÍTICA PÓS-DILUVIANA]** "Mas nesse segundo ciclo, que eu chamo depois do dilúvio, os anunacos foram obrigados a fazer uma opção de vida geopolítica planetária." (U0003); "Aqui na Terra, os anunques deixaram a sua força maior em torno do Egito." (U0003)
+- **[P2021-05-15 · O RETORNO A NIBIRU HÁ 2.600 ANOS (e o novo aparecimento «daqui a uns 1000 anos»)]** "Não aqui na Terra, alguns voltaram eh para Nibir 2600 anos atrás, mas vão voltar lá na frente." (U0003); "Os anunques também estão ainda presentes, mas vão aparecer aqui de novo os deibir daqui a uns 1000 anos." (U0005) — [REVISAR: «os deibir».] ⚠️ Divergência SEM FUSÃO: a base fixa a retirada «por volta de ~600 a.C.» [P2021-03-27]; 2.600 anos antes de 2021 ≈ 579 a.C. — convergência parcial, **não identidade**.
+- **[P2021-05-15 · A EXPULSÃO POR CONTAMINAÇÃO, NÃO POR DERROTA]** "E basicamente as bombas que eles soltaram para resolver o problema terminou expulsando eles da Terra." (U0003)
+- **[P2021-05-15 · ANU × ZEUS: QUEM TINHA SENSO CRÍTICO]** "O Zeus não tinha a consciência crítica que Anu tinha." (U0003); "Ele olhou tanto para essas questões que esqueceu de olhar pra descendência de seus dois filhos e foi exat também que o grande problema que a eh acabou com a perspectiva dos anunaques dominarem a terra, que foi aquilo que a gente falou numa numas palestras meses atrás, né, quando Nerginta, filho de Enquenil, brigaram tanto que terminaram saltando bombas de uma briga com Mardur e outras figuras aí do clã Hen Lil soltaram bombas atômicas no Vale do Sinai e no Vale do Sidim." (U0003)
+- **[P2021-05-15 · A INEFICIÊNCIA COMO CAUSA DA HERANÇA HUMANA]** "Os humanos herdaram a porcaria dessa criação." (U0003)
+- **[P2021-05-15 · OS ANUNNAKI EM MARTE, NA LUA E NAS NAVES DOS SIRIANOS]** "O fato é que na Terra, desculpa, os sirianos, Júpiter, Saturno e os Anunax terminaram também ocupando Marte e Lua." (U0003) — ⚠️ quarentena ufológica.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da história anunnaki (Nibiru/Anu/Enki/Enlil/Ninmah/Igigi) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 
