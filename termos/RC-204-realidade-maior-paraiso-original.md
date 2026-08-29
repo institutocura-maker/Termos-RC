@@ -31,6 +31,8 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 - **Contexto acrescentado:** O Paraíso Original é descrito como plenitude/êxtase permanente que inibe ímpeto criativo; seus desdobramentos búdico e manásico permitiriam consciência de externalidade e criação.
 - **Status:** live em STT sem áudio anexado; manter divergências abertas.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

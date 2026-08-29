@@ -39,6 +39,8 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - **Contexto acrescentado:** A incapacidade de Javé produzir avatares é reafirmada e explicada, na fala, pela ausência das condições Adhydaiva, Adhybutha e Adhyajna necessárias.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

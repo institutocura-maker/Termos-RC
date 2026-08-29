@@ -42,6 +42,8 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 - **Cruzamento aprovado:** a nota de rito de passagem e a “sincronicidade profetizável” podem ser lidas transversalmente com RC-619 e RC-722, sem gerar novo termo ou relação.
 - **Quarentena:** trata-se de formulação ética/pedagógica do expositor; não é método clínico, garantia de destino ou prescrição religiosa.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

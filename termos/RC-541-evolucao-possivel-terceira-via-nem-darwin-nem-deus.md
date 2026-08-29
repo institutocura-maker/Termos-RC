@@ -33,6 +33,8 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **Evolução vertical:** a Evolução Possível se realiza pela elevação de consciência, respiração (RC-166) e despersonificação — não por seleção natural nem por ação divina;
 - **Humanidade salva-criador:** o desfecho do drama exige a terceira via — ninguém salva o humano; o humano (com a RC) resgata o criador caído (seção 4.2).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

@@ -246,6 +246,8 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **Fome de devoção:** a Trimurti como parte da fome de devoção dos deuses (RC-749; RC-001);
 - **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) no desfecho da disputa.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

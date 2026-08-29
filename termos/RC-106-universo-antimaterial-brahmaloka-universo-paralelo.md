@@ -36,6 +36,8 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 - **Contexto acrescentado:** “Universo vizinho” é usado reiteradamente como forma contextual do universo antimaterial/paralelo e como domínio do conglomerado de realidades da Trimurti.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

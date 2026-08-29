@@ -108,6 +108,8 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 - **"Hainarok" [STT = Ragnarök]:** "eles destruíram isso no Hainarok, porque isso estava fora do controle deles e eles queriam voltar a ter o controle sobre o destino dos seres" — Moros codificou genes e o código foi destruído no Ragnarök (RC-454);
 - "É tipo Ragnarök 2" — a "gestão de escombros" da batalha Islã × Krishna × orixás (leitura do autor; quarentena).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

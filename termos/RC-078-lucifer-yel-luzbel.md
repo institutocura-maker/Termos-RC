@@ -89,6 +89,8 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

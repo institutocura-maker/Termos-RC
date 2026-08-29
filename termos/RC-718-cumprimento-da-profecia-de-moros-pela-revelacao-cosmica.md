@@ -54,6 +54,8 @@ A lista é uma arquitetura da palestra; identidades e cronologias devem permanec
 - **O cumprimento em curso:** a distinção reforça o registro existente — a Revelação Cósmica como a revelação das setas (P2023-12-02) e os 256 caminhos de Orunmilá (RC-767) como o compêndio de leitura do "futuro que já se encontra escrito";
 - **Quarentena:** a profetização é apresentada pelo expositor como hipótese cosmológica ligada à teia do destino; não é afirmação de causalidade científica nem de previsão verificável.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

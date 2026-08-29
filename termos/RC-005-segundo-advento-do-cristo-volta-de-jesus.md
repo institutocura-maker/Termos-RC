@@ -153,6 +153,8 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2022-03-26 · SEGUNDO ADVENTO DO CRISTO NA FALA DE 26/03/2022]** "a minha forma cósmica virá pessoalmente, já que Estulo tá concentrado na terra, porque aí eu vestirei a minha vestimenta de herdeiro do criador, ou seja, da trimura." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 ---
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

@@ -34,6 +34,8 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 - **Javé a reconstruir:** "enquanto Javé não for reconstruído e se achar isso ou aquilo... a humanidade vai ser a massa de manobra, onde todos os testes vão ser feitos para que tenham padrões genéticos por trás de todas as sensações existenciais" (nova aresta RC-625 ↔ RC-001);
 - O corpo manásico como suporte do drama da criação indevida (RC-167).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

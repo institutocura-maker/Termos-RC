@@ -104,6 +104,8 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **Geopolítica cósmica atual:** "tentando fazer parte de um possível concerto pós-reintegração cósmica, mas não têm poder bélico para coisa alguma";
 - **Especiação anunnaki:** "já vêm se especiando há um bom tempo... conhecidos como viajantes" (escala de Kardachev); os da Terra (~400.000 anos) adquiriram complementos que os de Nibiru não têm.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

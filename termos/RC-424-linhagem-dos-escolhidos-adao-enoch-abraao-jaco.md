@@ -66,6 +66,8 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 - **Contexto acrescentado:** A palestra amplia a sequência genealógica do projeto de Javé por Adão, Seth, Enos, Cainã, Mahalalel, Jared e Enoque; registra também o papel de Noreia e a retirada de Enoque para o universo antimaterial.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

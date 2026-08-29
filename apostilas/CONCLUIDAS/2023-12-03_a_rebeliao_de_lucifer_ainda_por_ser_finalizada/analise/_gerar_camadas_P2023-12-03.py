@@ -433,7 +433,7 @@ cab2 += (f"\n**{len(achados)} padrões com batida · {len(zeros)} com zero** —
 # onomástica: para cada nome degradado, as formas efetivamente presentes
 NOMES_GRAF = {
  "o rebelde que vê o defeito": ["Elusbell", "Luzbell", "Luisbell", "eusb", "Elosbel", "Luzbel", "Yos Bell", "aos belia", "a Luis"],
- "o que vira Sataná/Set": ["Lemion", "Lemon", "Leion", "Lemi", "Lemi\b"],
+ "o que vira Sataná/Set": ["Lemion", "Lemon", "Leion", "Lemi", "Lemi\\b"],
  "o canal da Trimúrti": ["Sofia", "Sophia", "Mal", "Malc", "Mauco", "Malco", "Malcuf"],
  "Viṣṇu (Vno)": ["Vno", "VNO", "Virgno", "virgem", "Virgnum", "Viga", "Vio", "vigo"],
  "Shiva": ["Chiva", "Shiva", "chivo", "chivre", "Segon Chalan"],
@@ -554,8 +554,20 @@ antigas deste tema. Busca por {len(BUSCA)} padrões sobre nome+resumo+fontes+rel
 """
 for code, nome, ant, efeito, f_, nr in linhasM:
     mt += f"| {code} | {nome} | `{ant or '—'}` | {efeito} | {f_} |\n"
-mt += (f"\n**{len(linhasM)}** códigos na mira desta palestra; **{len(ganho)}** ganhariam data; os demais ganhariam conteúdo. "
-       "Nenhuma linha desta tabela foi aplicada: **0 escrita na Base até a devolutiva do Curador** (D-14 do ciclo anterior: "
-       "pipeline liberado, mas A e B em commits separados e só depois do despacho).\n")
+# A matriz é reexecutável: ela tem de dizer a verdade no dia em que for rodada, inclusive depois de o
+# BLOCO A ter sido aplicado (rodar o gerador depois da aplicação e ler «0 escrita na Base» seria a
+# apostila mentir por tabela — defeito que a casa já teve com texto estático em rodapé).
+_arq = lambda c: glob.glob(os.path.join(RAIZ, "termos", c + "-*.md"))   # usado no rodapé de estado
+_apl = [t[0] for t in DT.TERMOS if SIG in (t[5] or [])]
+if _apl:
+    _rodape = (f"**Estado no momento desta execução: BLOCO A APLICADO** — {len(_apl)} códigos já carregam "
+               f"`{SIG}` na lista de FONTES do cadastro, {len([c for c in _apl if _arq(c)])} deles com arquivo em "
+               f"`termos/`. Os números da tabela são a mira **anterior** à aplicação; a conta medida "
+               f"e os motivos da diferença estão na seção final deste arquivo.\n")
+else:
+    _rodape = ("Nenhuma linha desta tabela foi aplicada: **0 escrita na Base até a devolutiva do Curador** (D-14 do "
+               "ciclo anterior: pipeline liberado, mas A e B em commits separados e só depois do despacho).\n")
+_verbo = ("ganhariam data se aplicados" if _apl else "ganhariam data")
+mt += f"\n**{len(linhasM)}** códigos na mira desta palestra; **{len(ganho)}** {_verbo}; os demais ganhariam conteúdo. " + _rodape
 open(os.path.join(AQUI, "_matriz-anterioridade.md"), "w", encoding="utf-8").write(mt)
 print("_matriz-anterioridade.md escrito")

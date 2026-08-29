@@ -35,6 +35,8 @@ O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam d
 
 O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA]`.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

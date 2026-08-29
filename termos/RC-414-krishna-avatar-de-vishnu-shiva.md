@@ -148,6 +148,8 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 - **Batalha Islã × Krishna × orixás:** "houve uma batalha do Islã, de Krishna e dos orixás... o que resta hoje é uma gestão de escombros. É tipo Ragnarök 2" — leitura do autor (quarentena histórico-religiosa/geopolítica);
 - Krishna entre os seres que "enlouqueceram a tal ponto que mesmo produzindo figuras maravilhosas... o ato deles se autoafirmarem... não tem importância nenhuma" (P2024-09-28).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

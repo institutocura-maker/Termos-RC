@@ -58,6 +58,8 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 - **Teia e destino:** "o que a Wyrd registrou de cada consciência que passou a existir particularizada" (RC-658) — a teia quântica como o registro que define os 256 caminhos (RC-767);
 - "Só retorna o ser cumprindo um determinado destino" — o que sai volta (reforço da definição do verbete).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

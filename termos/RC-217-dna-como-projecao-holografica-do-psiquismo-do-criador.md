@@ -88,6 +88,8 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 
 A palestra descreve a cadeia Nidana → DNA biológico → reorganização futura da informação do Criador. Afirmações sobre quantidade de genes, DNA não codificante e atualização de gametas exigem ressalva científica.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

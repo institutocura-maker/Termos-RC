@@ -57,6 +57,8 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 - **"Tem seres que preferem destruir a humanidade"** para que "a solução do problema do criador jamais seja viabilizada" — leitura do autor;
 - Contexto: a especiação como via de ressignificação das vrittis (RC-760).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

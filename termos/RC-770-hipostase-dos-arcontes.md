@@ -23,6 +23,8 @@ Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regent
 - **[P2022-03-26 · HIPÓSTASE DOS ARCONTES NA FALA DE 26/03/2022]** "Os arcontes que tomam conta do primeiro céu, do segundo céu, do terceiro céu, do quarto céu, até o 10º céu, aonde Javé está, não querem dar a minha v enta não querem que eu assuma a minha vestimenta." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 ---
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

@@ -82,6 +82,8 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 - **Convergência científica/filosófica:** seção 2.1 — "A Convergência Científica e Filosófica: A Inevitabilidade da Realidade Simulada" (leitura do autor — quarentena tecnológica);
 - A camuflagem é a interface da Criação Indevida: a bolha da Obra problemática (RC-167).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

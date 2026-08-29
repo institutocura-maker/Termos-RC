@@ -368,6 +368,8 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **Não ama:** "Sofia não ama ninguém... não tem essa perspectiva mamífera de amar... O tipo de amor desses seres é: fulaninho tá se lascando, é, que se lasca";
 - **Setianos encomendados:** "segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR]`], [os setianos] teriam sido encomendados por esse rapazinho [a Deidade/Barbelo RC-483]" (nova aresta RC-009 ↔ RC-483).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

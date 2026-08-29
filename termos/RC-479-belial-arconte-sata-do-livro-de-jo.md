@@ -31,6 +31,8 @@ Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé
 - 0 códigos novos (O-3).
 ---
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

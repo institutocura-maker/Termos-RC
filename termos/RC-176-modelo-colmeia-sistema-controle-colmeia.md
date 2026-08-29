@@ -74,6 +74,8 @@ A crítica à colmeia/ditadura e a menção ao imperador japonês como "abelha r
 - **Sofia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico aplicado ao séquito de Sophia (RC-009; RC-175);
 - Contexto: relógio messiânico (RC-765) e padrão de domínio (RC-764).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

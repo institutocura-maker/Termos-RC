@@ -25,6 +25,8 @@ Forma preferida: Intercessão de Enoque pelos Anunnakis.
 - **Thot trabalhou com Enoque:** "conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque" — contexto da intercessão de Enoque pelos anunnaki (RC-673) e da ponte Thot/anunnaki × Javé (RC-001);
 - A palestra de amanhã (03/12/2023 — Rebelião de Lúcifer) retomaria essas relações (registro de contexto).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

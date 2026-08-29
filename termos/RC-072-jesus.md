@@ -332,6 +332,8 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **Nova aresta RC-072 ↔ RC-001** (Jesus ~ Javé — a recusa do reinado);
 - Contexto: a recusa de Jesus como o "chute no pau da barraca" da agenda de Javé (reforço de P2024-09-28).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

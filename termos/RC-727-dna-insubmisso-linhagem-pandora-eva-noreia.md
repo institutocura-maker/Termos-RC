@@ -138,6 +138,8 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.
 - `oró` permanece **[REVISAR]**; não há decodificação ou cadastro derivado desta ocorrência.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

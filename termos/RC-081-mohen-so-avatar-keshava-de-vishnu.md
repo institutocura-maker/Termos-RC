@@ -81,6 +81,8 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - A palestra P2023-12-02 confirma Mohen So = Phanes/Protogonos (orfismo; ovo cósmico; ver RC-282);
 - **Pista do curador:** na documentação confiável dele, **Mohen So = Avatar Keshava** (já canônico no nome deste verbete) e **Krishna = Avatar biodemol Keshava** — reforça a hipótese de que o STT "quachadas/quechada" distorce **"Keshava"** (Colecionar Incertezas; VETO ESTRITO mantido).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

@@ -56,6 +56,8 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **Cruzamento estrutural aprovado:** preservar a leitura em conjunto com RC-454 e RC-091, sem criar fichas para os componentes e sem alterar a malha.
 - **Quarentena:** fornos, plasma, cérebro radiato e transferência interuniversal permanecem em registro ufológico/cosmológico do autor, não em literalidade científica.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

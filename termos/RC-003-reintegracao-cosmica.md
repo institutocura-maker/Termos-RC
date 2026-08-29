@@ -117,6 +117,8 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **Contexto acrescentado:** A Reintegração é ligada à emergência da Superconsciência, ao Quarto Logos, à vinda de Sophia e à construção da Nova Espiritualidade.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

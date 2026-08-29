@@ -63,6 +63,12 @@ GENERO_ARG = re.compile(r"identidade de g|identidades|genero na historia|mudar l
 POLITICA = re.compile(r"direita e esquerda|mediocridade|lideres|monstra|Brasil, Estados Unidos|campanha|voto", re.I)
 PESSOAS = re.compile(r"Chico Xavier|Divaldo|Valdemar|Edgar Ar|Jane Miranda|João Altair|César|Márcia|\bJan\b|Horácio"
                      r"|Emanuel|Rog[ée]rio|Vasconcel|Mo[çc]a\b|Shimon|Gandari|Krishna\??\s*$", re.I)
+# Para o RÓTULO que se injeta na ficha vale outra régua: `Jan Val Ellam` é designação canônica de termo na Base
+# (está no cadastro e em 390 fichas), não nome de plateia introduzido por esta palestra. Sem esta distinção, o
+# rótulo de `RC-071` virava «RC-071 (forma curta…)» e a ficha perdia o próprio nome do termo — troca de instrumento
+# por instrumento. Para o CONTEÚDO das aspas a trava continua sendo `PESSOAS`, inteira.
+PESSOAS_LABEL = re.compile(r"Chico Xavier|Divaldo|Valdemar|Edgar Ar|Jane Miranda|João Altair|Márcia|Horácio"
+                           r"|Emanuel|Rog[ée]rio|Vasconcel|Shimon|Gandari", re.I)
 CALENDARIO = re.compile(r"2049|2050|2051|2052|1989|julho de 9|passaporte", re.I)
 VETO_CALENDARIO_EM = {"RC-200"}
 VETO_GENERO_EM_GRUPO = True                                  # D-1: fichas que nomeiam grupos humanos
@@ -477,6 +483,25 @@ DATA_D13 = {
    "procedimento (redistribuir os doentes e reintegrar o mundo), não o calendário; a janela viaja com endereço."),
 }
 
+ROTULOS_AJUSTADOS = []      # D-12: o NOME do termo às vezes é que carrega o nome civil
+
+
+def rotulo_master(cod):
+    """Rótulo do bullet-mestre: o nome do termo em caixa alta, **sem** nome civil de pessoa.
+
+    `RC-071` chama-se `Jan Val Ellam (Rogério de Almeida Freitas)` no cadastro — é pré-existente na Base e não
+    é nossa decisão mexer nele. Mas o rótulo que este ciclo escreve **dentro** da ficha pode escolher a forma
+    curta, e é isso que D-12 pede: nenhum nome de pessoa sai desta esteira.
+    """
+    nome = CAD[cod][1]
+    if PESSOAS_LABEL.search(nome):
+        limpo = re.sub(r"\s*\([^)]*\)", "", nome).strip()
+        rot = limpo if limpo and not PESSOAS_LABEL.search(limpo) else f"{cod} (forma curta do cadastro, sem nome civil)"
+        ROTULOS_AJUSTADOS.append((cod, nome, rot))
+        return rot
+    return nome
+
+
 AM, retidos, falhas = {}, [], []
 for cod, ini, fim in LIG:
     ini, fim = SUB.get(cod, (ini, fim))
@@ -489,7 +514,7 @@ for cod, ini, fim in LIG:
     if mot:
         retidos.append((cod, "âncora-mestre", mot, txt[:70]))
         continue
-    AM.setdefault(cod, []).append((f"{CAD[cod][1].upper()} NA FALA DE {DATA_FALA:%d/%m/%Y}", [(txt, pos)],
+    AM.setdefault(cod, []).append((f"{rotulo_master(cod).upper()} NA FALA DE {DATA_FALA:%d/%m/%Y}", [(txt, pos)],
                                    "**Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita "
                                    "— grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma "
                                    "divergência harmonizada. · " + efeito(cod)))
@@ -597,6 +622,10 @@ out = [f"# PACOTE DE AMPLIAÇÕES — {SIGLA} · {TITULO_FONTE}", "",
        f"Curador leu e o que foi injetado. As travas D-1 (léxico de gênero), D-2 (quiasma das mulheres), D-3 "
        f"(política), D-4 (máscaras), D-12 (pessoas nomeadas) e D-13 (calendário vedado em RC-200) são executadas "
        f"por este script, e não por promessa — e o BLOCO 5 lista o que foi retido.",
+       "",
+       "**Rótulos ajustados por D-12** (nome do termo no cadastro carrega nome civil de pessoa; o rótulo injetado "
+       "na ficha usa a forma curta, e a Base não é tocada nesse ponto): " +
+       ("; ".join(f"`{c}`: rótulo do cadastro `{a}` → rótulo injetado `{b}`" for c, a, b in ROTULOS_AJUSTADOS) if ROTULOS_AJUSTADOS else "nenhum"),
        "", "### BLOCO 1 — seções a inserir nas fichas", ""]
 n_cit = 0
 for cod in sorted(AM):

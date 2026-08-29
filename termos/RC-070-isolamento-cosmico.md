@@ -79,6 +79,8 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **Contexto acrescentado:** O Isolamento Cósmico é descrito como condição que deverá terminar com a chegada de Sophia e a Reintegração da Terra.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

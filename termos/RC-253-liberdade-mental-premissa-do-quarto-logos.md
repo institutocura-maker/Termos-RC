@@ -38,6 +38,8 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **Contexto acrescentado:** A Liberdade Mental é contraposta aos Protocolos da Perfeição e associada ao Moksha e ao Genoma da Liberdade.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

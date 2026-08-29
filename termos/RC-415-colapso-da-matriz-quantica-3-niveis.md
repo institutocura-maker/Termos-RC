@@ -41,6 +41,8 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 
 O curador determinou que **RC-415 não seja fundido com RC-690 — Colapso do Caos Organizado**. RC-690 é o evento amplo de desestruturação biológica, informacional e cósmica; RC-415 conserva a especificidade do colapso da matriz quântica em três níveis.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

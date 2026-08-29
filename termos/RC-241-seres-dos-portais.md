@@ -41,6 +41,8 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **Contexto acrescentado:** Os Seres dos Portais são relacionados às comunicações entre lokas, à disputa pelo domínio da Terra e à criação/uso dos Rakshasas.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

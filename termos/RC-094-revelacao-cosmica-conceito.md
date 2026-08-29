@@ -84,6 +84,8 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **Chave para a história oculta:** seção 1.4 — "A Revelação Cósmica como Chave para a Compreensão" — da manipulação cósmica e do paradigma do domínio (RC-764);
 - **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

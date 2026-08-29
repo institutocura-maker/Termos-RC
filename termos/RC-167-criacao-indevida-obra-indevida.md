@@ -109,6 +109,8 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **Humanidade salva-criador:** a função humana é reverter a narrativa — "a humanidade como salva-criador" (seção 4.2);
 - **Faixas de realidade:** as faixas definidas × improvisadas (seção 2.5) como expressões da Obra indevida — a física definida "antes da criação"; faixas improvisadas com "demência plena".
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

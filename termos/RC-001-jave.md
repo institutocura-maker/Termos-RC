@@ -364,6 +364,8 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 - **Obatalá = cuscuta:** Javé "um dia assumiu uma vida vegetal... cuscuta" — a fome de devoção em todos os reinos;
 - **Apostila Temática do Buraco Negro:** estas revelações (devoção/Jesus/Islã como manobras cósmicas) adensam o Super-Nó Javé (nota do curador).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

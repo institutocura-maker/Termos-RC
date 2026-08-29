@@ -109,4 +109,23 @@ elas morderem aparece no BLOCO 5 do pacote, não em silêncio.
 
 ## 5. RETIFICAÇÕES MEDIDAS NA APLICAÇÃO (portões do ciclo)
 
-*A preencher ao fim do BLOCO A/B, com os números medidos — nunca com os prometidos.*
+| o que foi medido | valor | onde a correção entrou |
+|---|---|---|
+| vínculos propostos × aplicados na malha | 127 → **126 códigos** (um recebeu dois vínculos-mestre) | `ferramentas/dados_termos.py` (126 linhas +, 126 −) |
+| fichas com `## Ampliação — P2023-12-03` | **107** (105 ampliadas + 2 materializadas) | `termos/` |
+| citações verificadas no pacote | **147**, todas via caça-âncoras, 0 digitadas | `_ampliacoes_P2023-12-03.txt` |
+| spans **retidos** por trava do despacho | **3** (`RC-189` e `RC-760` ×2, todos por máscara do STT no span) | BLOCO 5 do pacote |
+| códigos `ficha=False` sem onde receber a ampliação | **19** | BLOCO 2 do pacote |
+| ordens nomeadas que apontam para ficha **inexistente** | **6**: `RC-093` (D-1/D-7), `RC-189` (D-2), `RC-280` (D-6), `RC-035` (D-7), `RC-375` (D-8), `RC-344` (D-13) | declaradas no relatório e no rodapé da matriz; **não** executadas por iniciativa do aplicador |
+| efeito de anterioridade **medido** | 2 antecipam em 11 meses (`RC-034`, `RC-672`) · 1 estreia (`RC-046`) · 123 de conteúdo | fórmula de meses corrigida no gerador do pacote |
+| aforismo citado na D-3 | **não ocorre** no bruto (0 × `mediocri*`, 0 × `cara dela`); a passagem real é «Qualquer líder que seja, tô falando aqui de direita e esquerda, é toda porcaria junto, é um problema generalizado.» (U0023) | moldura aplicada sobre o texto que existe; nada inventado para fazer o resumo bater |
+| cobertura da apostila | **100,00%** (102.610/102.610 chars) · 79 blocos · 0 bloqueios · 25 notas editoriais · quiasma da D-2 dentro de **um só bloco** | `_cobertura_apostila_P2023-12-03.py` |
+| portões | A 0 · B 0 (473 fragmentos) · C 107 fichas / 104 citações / 0 divergentes · D ok · E 313 endereços / 0 · cobertura ok | scripts do ciclo |
+
+**Correções de instrumento feitas durante a aplicação** (nenhuma no produto): o `ç` do caça-âncoras (mapa `_EXTRA`);
+a contagem de meses da anterioridade; o portão C, que lia só aspas retas e passou a ler `«…»`; o portão D, reescrito
+com os léxicos deste despacho de propósito (portão que importa as regras do gerador é eco); a medição de trânsito,
+que lia a ficha inteira em vez da seção; o rótulo-mestre, que reproduzia o nome civil de `RC-071` (a régua de rótulo
+agora é separada da régua de conteúdo, e o ajuste é **declarado** no cabeçalho do pacote); o modo `--refazer` do
+aplicador; e o byte `0x08` que uma string não-raw (`"Lemi\b"`) tinha enfiado em `camada-2.txt` e derrubava o
+`python-docx` — corrigido no gerador das camadas, com o arquivo regenerado (diff de 1 linha).

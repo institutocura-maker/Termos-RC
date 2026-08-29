@@ -65,6 +65,8 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **Fim do truque:** "isso acabou agora... a entropia tá caindo lá. O truque que eles fizeram acabou e por isso que eles estão todos colapsando loucamente";
 - **Entropia e programas encarnatórios:** "interfere nos programas encarnatórios dos espíritos... tem muitos riscos" — conexão com transumanismo (RC-644/092).
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

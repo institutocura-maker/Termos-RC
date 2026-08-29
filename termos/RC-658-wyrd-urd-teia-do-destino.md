@@ -109,6 +109,8 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 - **Grafia e escopo:** a forma canônica **Wyrd/Urd** permanece. As formas dos componentes são preservadas como variações a revisar e não são automaticamente apagadas ou convertidas em novos seres.
 - **Quarentena:** a relação entre intenção, fóton, matéria e não-localidade é leitura cosmológica do expositor; não é afirmação de física estabelecida.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

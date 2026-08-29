@@ -202,6 +202,8 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **Cocriadores parceiros:** "consciências humanas habilitadas à realização do Tikun e possíveis de serem cocriadoras parceiras do Quarto Logos frente a esse mistério" — os Sethianos Emancipados (RC-766);
 - **Transumanismo:** "fazer uso da consciência de alguns para o transumanismo como maneira de realizar o Tikun deverá ser comum no futuro".
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

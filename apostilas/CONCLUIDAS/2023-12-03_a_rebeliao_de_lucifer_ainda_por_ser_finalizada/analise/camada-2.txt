@@ -163,7 +163,7 @@ varredura devolveu — **inclusive os zeros**, que neste ciclo dizem tanto quant
 | eixo do nome | grafias encontradas no bruto |
 |---|---|
 | o rebelde que vê o defeito | `Elusbell` 3× (U0004@21.121) · `Luzbell` 6× (U0004@21.949) · `Luisbell` 1× (U0004@22.906) · `eusb` 1× (U0004@36.008) · `Elosbel` 2× (U0004@23.441) · `Luzbel` 6× (U0004@21.949) · `Yos Bell` 1× (U0004@30.637) · `aos belia` 1× (U0003@198) · `a Luis` 2× (U0004@33.247) |
-| o que vira Sataná/Set | `Lemion` 7× (U0003@784) · `Lemon` 2× (U0004@30.648) · `Leion` 1× (U0004@50.602) · `Lemi` 9× (U0003@784) · `Lemi` 0× |
+| o que vira Sataná/Set | `Lemion` 7× (U0003@784) · `Lemon` 2× (U0004@30.648) · `Leion` 1× (U0004@50.602) · `Lemi` 9× (U0003@784) · `Lemi\b` 0× |
 | o canal da Trimúrti | `Sofia` 77× (U0003@6.979) · `Sophia` 0× · `Mal` 2× (U0004@72.585) · `Malc` 2× (U0004@72.585) · `Mauco` 1× (U0003@1.721) · `Malco` 0× · `Malcuf` 1× (U0004@72.585) |
 | Viṣṇu (Vno) | `Vno` 1× (U0004@54.931) · `VNO` 1× (U0004@16.310) · `Virgno` 1× (U0004@55.510) · `virgem` 1× (U0004@64.018) · `Virgnum` 0× · `Viga` 0× · `Vio` 0× · `vigo` 0× |
 | Shiva | `Chiva` 10× (U0004@16.837) · `Shiva` 1× (U0004@16.361) · `chivo` 1× (U0004@13.304) · `chivre` 1× (U0004@60.723) · `Segon Chalan` 1× (U0004@72.253) |

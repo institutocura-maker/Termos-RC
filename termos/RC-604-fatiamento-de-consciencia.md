@@ -93,6 +93,8 @@ Na resposta final, Shiva é apresentado como expressão de um espírito, enquant
 - **Espíritos superiores compõem os cérebros:** "o espírito de Jesus já tendo influenciado o cérebro de Sofia" — os padrões dos muitos cérebros são compostos por espíritos (RC-009, RC-072);
 - A consciência fatiada é o que o Modelo Polvo explica: Javé como protoconsciência ancorada em diversos cérebros, "a curtíssimo prazo, porque a coisa não tá funcionando nos moldes em que foi operacionalizada".
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 

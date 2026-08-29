@@ -41,6 +41,8 @@ A fala situa sua repercussão recente e relaciona o processo a Pandora, Enki, FO
 - **Quatro usos do presente:** o discurso menciona quatro possibilidades: trabalhar o problema já existente, permanecer sem nova causação, piorar o acumulado ou produzir algo fora da rota prevista. A formulação fica como nota pedagógica, sem completar o que o STT não torna seguro.
 - **Quarentena:** “genoma” e “programa” são metáforas/teses internas da RC nesta passagem; não são promessa de reprogramação genética, cura ou tratamento.
 ---
+---
+---
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
