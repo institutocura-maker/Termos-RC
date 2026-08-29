@@ -289,7 +289,7 @@ def main():
       "fichas, não sobre a leitura. Aparato curatorial das 14 decisões, glossário e Apêndice do dicionário STT.")
     fala = "\n".join(LINHAS[FALA_INI:])
     n_pal = len(fala.split())
-    n_per = len(re.findall(r"[.?!](?:\s|$)", fala))
+    n_per = len(re.findall(r"[.?!]+", fala))   # a mesma regra do METADADOS-INGRESSO.json (terminais de período)
     n_linhas = len([1 for l in LINHAS if l.strip()])
     n_bytes = os.path.getsize(BRUTO)
     w("@fonte: original.txt do ciclo — " + n_bruto(n_bytes) + " bytes · " + n_bruto(len(RAW)) +
