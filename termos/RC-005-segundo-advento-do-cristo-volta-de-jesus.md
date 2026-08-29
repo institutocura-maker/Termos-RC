@@ -147,13 +147,20 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2023-10-14 · O HEDGE TRIPLO QUE FECHA A PROFECIA]** "Vai acontecer se não matar ele." (U0035); "É conveniente que a gente não espere, ainda que ele venha, mas também não muda nada." (U0036) — ⭐⭐ A fonte **mantém** a promessa e **recomenda não esperá-la**: registrar o par, sem escolher um dos lados.
 - **[P2023-10-14 · A CONDIÇÃO CELESTE DA VOLTA]** "E Jesus marcou o ponto em que esse encontro ou em que a resolução disso seria comunicada como quando ele disse que no futuro ele Jesus voltaria se ele foi crucificado como um b****** humilhado, maltratado, mas ele voltaria no futuro, não nascendo como um simples homem, mas na sua condição celeste, de autoridade celeste, ou seja, como Maulf, como Roque Ma Sofia, cercado por suas hortes angelicais." (U0033)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · SEGUNDO ADVENTO DO CRISTO NA FALA DE 26/03/2022]** "a minha forma cósmica virá pessoalmente, já que Estulo tá concentrado na terra, porque aí eu vestirei a minha vestimenta de herdeiro do criador, ou seja, da trimura." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
+
 
 
 

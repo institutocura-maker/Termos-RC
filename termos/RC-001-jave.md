@@ -304,9 +304,16 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **[P2020-04-25 · O ABISMO RECÍPROCO — a tese-mãe desta fonte]** "Então eu tô tentando dizer para vocês que nós, os seres humanos, somos o abismo paraa Javela." (U0006); "somos a única raça do universo que já nasce com o abismo olhando para gente." (U0006) — A inversão do diagnóstico nietzschiano: não é Javé que olha para o abismo, **somos nós** que o somos para ele. É a razão pela qual esta ficha deixa de ser «a página do deus tirano» e passa a registrar o mecanismo.
 - **[P2020-04-25 · O QUE OS MÉDIUNS PEDIRAM EM 2009-2011 (grau de testemunho)]** "pelo que eu julgo, entre aspas, saber, pelo que o espírito que me anima pensa que sabe há muito tempo, isso é real." (U0006) — D-4 autorizou expressamente **esta** fórmula (e só ela): metadado epistêmico de todo o corpus, obrigatória em qualquer uso da fonte.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · JAVÉ NA FALA DE 26/03/2022]** "Javé carrega nele todas as doenças que foram geradas. pela sua queda, não só atavicamente, todas elas potencialmente ativas. Ele não se sustenta existindo como um ser. Agora tá tendo uma tentativa tecnológica, não tá?" (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · O ESTADO DE JAVÉ EM 2022: O CRIADOR QUE NÃO SUSTENTA A PRÓPRIA EXISTÊNCIA]** "Agora tá tendo uma tentativa tecnológica, não tá? Não, para criar um ambiente mais saudável, mais compatível. Mas não é essa não é essa estratégia que tá sendo engendrado, hein? É, mas não é nessas nesses termos que você tá dizendo, porque o eu dele precisa ser descompensado antes de ser um outro alguém, porque se ele com outro alguém mesmo em âmbito tecnológico, inteligência artificial tá criando esse essa essa predisposição comidação, mas demora muito tempo, então a gente aqui não tem escala, né?" (U0035) — A ficha deixa de ser só «o deus tirano da Gnose»: aqui o tirano está **doente** e a Base ganha a formulação datada do mecanismo. ⚠️ Retenção teológica: entra com rótulo de crença do expositor (O-8).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
@@ -316,6 +323,7 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
+
 
 
 

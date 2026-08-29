@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Seria o **Pai-Mãe Amantíssimo**, o **Ser Supremo** que deu origem a toda a Matriz Divina — o "**Brahman**" (e não Brahma) da tradição hindu. É a **Deidade Suprema**, a **Fonte de tudo o que há**, superior e acima de qualquer Divindade; nas RC também referida como **Deus Incognoscível** (que é "só amor") (B031).
@@ -78,11 +78,18 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 - **[P2020-04-18 · A MENTE UNIVERSAL DE KAPILA]** "vocês têm ideia de QUEM FOI A PRIMEIRA PESSOA QUE FALOU EM MENTE UNIVERSAL NA HISTÓRIA DA HUMANIDADE? Vou dizer para vocês: KAPILA... 2700 anos depois, a gente não sabe bulhufas a respeito do que já foi feito lá atrás. Aí hoje ESSES DOIS CONCEITOS ESTÃO SENDO FINALMENTE RETOMADOS PELA CIÊNCIA através da visão quântica, da percepção quântica, DO EMARANHAMENTO" (a mente universal + o emaranhado quântico; a assinatura quântica em RC-727); **CONFÚCIO**: "'A VOZ DO POVO É A VOZ DE DEUS' — isso é algo que Confúcio diz NO SENTIDO CRÍTICO, ele dizendo que aquilo que a gente chamava de Deus não era Deus, era somente o que nós humanos poderíamos produzir com a nossa voz, com a nossa atitude... Deus só age naquilo que a nossa consciência enquanto povo pode produzir"; "É PRECISO PRIMEIRO ALGUÉM PEDIR DESCULPAS À HUMANIDADE para que a humanidade entenda que não tem Deus cuidando" ⚠️ teológica.
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · DEIDADE (PAI-MÃE AMANTÍSSIMO) NA FALA DE 26/03/2022]** "nós decretamos que esse ser puro ele é amoroso. Mas se pra gente o amor for algo que a gente possa definir com a nossa lógica de que se eu amo alguém, eu vou proteger aquele alguém. E se nós aplicarmos a essa lógica, a esse ser em relação à humanidade, se nós colecionarmos a certeza de que ele nos protege pela fé, como eu falei no início, ninguém vai poder discutir. com você, porque isso é uma certeza sua. Eu sei que Deus toma conta de mim." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 131 (aprox.) | verbete "Deus" (Deus Incognoscível) |
+
 
 ## Citações-chave
 > "Seria o Pai-Mãe Amantíssimo, o Ser Supremo que deu origem a toda a Matriz Divina. Seria o 'Brahman' (e não Brahma) da tradição Hindu." — B031, verbete "Deidade"

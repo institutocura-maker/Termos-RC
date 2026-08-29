@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Prática de dirigir respiração, atitude mental e química corporal para produzir conscientemente a sensação em que o eu deseja existir.
@@ -32,10 +32,17 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 - **[P2024-11-03 · A SENSÇÃO E A LUZ ACESA]** "UM SER QUE MANTÉM A SUA LUZ ACESA ATRAVÉS DAS SUAS SENSÇÕES... **O QUE É A LUZ DE UM SER HUMANO? É QUANDO A SENSÇÃO QUE ELE SENTE EMITE UMA FREQUÊNCIA LUMINOSA.** Mas você não consegue emitir uma frequência luminosa se sua sensação é [negativa]... **A SENSÇÃO É TUDO. POR ISSO QUE NO MENTALMA A GENTE TRABALHA ISSO.** Então essa sensação fará com que se alguém vai mexer com você nessa sensação, VOCÊ NEM SINTA E NÃO HAJA NENHUM PROBLEMA PARA VOCÊ... SE FOR ESPÍRITOS, SERES DEMO DESSE UNIVERSO VIZINHO, QUANDO VOCÊ ATIVA A SUA ENERGIA, ELES NÃO CONSEGUEM SE APROXIMAR" [⚠️⚠️ a ponte com o Mentalma/RC-166].
 - 0 códigos novos (O-3). Quarentena: clínica (a "frequência luminosa" como conceito do Mentalma).
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · GESTÃO DA SENSAÇÃO PESSOAL NA FALA DE 26/03/2022]** "você desperta o seu eu mais oculto, que age no segundo impulso, e aí você sente os impulsos, as vontades, os ímpetos, as inclinações, mas o seu eu vai dando o seu ritmo." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0734–U0771 | PDF/transcrição pré-curada |
+
 
 ## Citações-chave
 > “Quando você se torna mestre das suas próprias sensações, essa é a maior alquimia.” — P2024-05-04

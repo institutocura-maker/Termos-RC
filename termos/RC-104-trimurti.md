@@ -234,13 +234,20 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[P2023-10-14 · A TRIMÚRTI QUE NUNCA VEIO — E OS AVATARES NO LUGAR]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — [REVISAR: «trium virato» é a grafia do bruto.]
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · TRIMURTI NA FALA DE 26/03/2022]** "os níveis de aristocracia em torno da Trimurte. gerações que foram surgindo, que querem ser deles a trimurto e a última que surgiu em termos de de informação que a gente tem é a mitologia grega chamando de Zeus, os Olimpiados." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da ogdóade/Trimurti (princípios ontológicos; colapso) | palestra/STT pré-curada |
+
 
 
 

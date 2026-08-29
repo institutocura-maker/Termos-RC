@@ -37,11 +37,19 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 - **[P2020-04-25 · A CHAVE DE LEITURA CONFESSADA PELO AUTOR (Dante)]** "Divina Commeia para poder entender como é que uma abelha rainha lida com as abelhas operárias, né?" (U0008) — **D-12:** a obra citada entra como **nota externa** — 0 obras novas; a grafia do bruto é «Divina Commeia». · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O MODELO COLMEIA APLICADO À ESPÉCIE]** "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008); "a chamada última espécie do universo, que que eu chamo no livro Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · MODELO COLMEIA NA FALA DE 26/03/2022]** "diferente de Javé, que sempre foi totalmente impositivo e não deixa ninguém sair, Sofia sempre afrouchou, vamos assim dizer, essas rédias ou esse controle porque ele sabia que estava criando ferramentas para resolução de problemas. E se ele não sabia resolver, aquela espécie tinha que evoluir para resolver aquele problema e ele evoluiria junto com aquela espécie." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · RÉDEAS FROUXAS: SOPHIA COMO RAINHA QUE NÃO IMPÕE]** "No livro A Divina Colmeia, a gente analisa hoje isso aí." (U0008) — A fonte remete o desenvolvimento ao livro já catalogado (cross-reference D-11): **B044 A Divina Colmeia**. Nada de obra nova: o vínculo é de conteúdo com endereço.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Divina Colmeia (B044) | caps. 1, 2, 7, 11, 14 | pp. 20–22, 62, 86–87, 104–105 | termo central |
+
 
 
 ## Citações-chave

@@ -30,11 +30,18 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 
 - **[P2023-10-14 · A TRÍADE VARNA–DHARMA–KARMA COMO PEDAGOGIA PARA HÍBRIDOS (anterioridade)]** "Então varma, dma e karma são três conceitos foram criados não para humanidade, mas para educar esses seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «varma, dma» são as grafias do bruto para varna/dharma.]
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FATOR DHARMA NA FALA DE 26/03/2022]** "A trimurte apodreceu, os filhos da Trimurte brigam entre eles." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | O Dharma e as Castas Hindus (B023) | cap. 2 (O Fator Dharma); cap. 9 | pp. 15–30, 100–115 (aprox.) | conceito central |
+
 
 
 ## Citações-chave

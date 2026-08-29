@@ -390,6 +390,10 @@ def q(k):
     return CIT[k][2]
 
 
+def ua(k):
+    return ASP.uaddr(CIT[k][0])
+
+
 def addr(k):
     a, b, _ = CIT[k]
     return f"{ASP.uaddr(a)} · {a:,}–{b:,}".replace(",", ".")
@@ -572,54 +576,55 @@ w("")
 w("## 1. O quadro que a palestra constrói (tudo com aspa medida)")
 w("")
 w("**1.1 A régua.** A fala abre pedindo o contrário de fé: a fonte invoca Kant para dizer que "
-  f"{aspa('kant_regua')} (U0003) e repete a exigência no fim da abertura — {aspa('certezas_que_nao_sao_reais')} "
+  f"{aspa('kant_regua')} ({ua('kant_regua')}) e repete a exigência no fim da abertura — {aspa('certezas_que_nao_sao_reais')} "
   "(U0003). Antes de qualquer tese, ela declara o estatuto do que vai dizer: "
-  f"{aspa('pedaco_quebra_cabeca')} (U0003).")
+  f"{aspa('pedaco_quebra_cabeca')} ({ua('pedaco_quebra_cabeca')}).")
 w("")
 w("**1.2 Por que o paraíso não salva.** A definição que a fonte dá de perfeição é política: "
-  f"{aspa('perfeicao_autoritaria')} (U0005). Daí a pergunta que ela diz nunca ter feito em público "
+  f"{aspa('perfeicao_autoritaria')} ({ua('perfeicao_autoritaria')}). Daí a pergunta que ela diz nunca ter feito em público "
   f"(U0003): {aspa('jacare_pato')} — e a resposta que ela mesma dá aos filósofos: "
-  f"{aspa('filosofos_a_um_lado')} (U0003). O veredito sobre o sistema, não sobre o criador: "
-  f"{aspa('dignidade_decente')} (U0003).")
+  f"{aspa('filosofos_a_um_lado')} ({ua('filosofos_a_um_lado')}). O veredito sobre o sistema, não sobre o criador: "
+  f"{aspa('dignidade_decente')} ({ua('dignidade_decente')}).")
 w("")
 w("**1.3 O acidente, não o ato.** A cosmogonia de 2022 é um erro de artista: "
-  f"{aspa('acidente_artista')} (U0005), e o resíduo disso é o que hoje se chama DNA — "
-  f"{aspa('codigo_podre')} (U0005). A imagem física vem logo: {aspa('ovo_cosmico')} (U0005) e "
-  f"{aspa('corpo_mental_caiu')} (U0005).")
+  f"{aspa('acidente_artista')} ({ua('acidente_artista')}), e o resíduo disso é o que hoje se chama DNA — "
+  f"{aspa('codigo_podre')} ({ua('codigo_podre')}). A imagem física vem logo: {aspa('ovo_cosmico')} ({ua('ovo_cosmico')}) e "
+  f"{aspa('corpo_mental_caiu')} ({ua('corpo_mental_caiu')}).")
 w("")
-w("**1.4 Os dois produtos e o encontro.** Três fornos, um estéril: {a} (U0005). De um lado os biodemos "
+w("**1.4 Os dois produtos e o encontro.** Três fornos, um estéril: {a}. De um lado os biodemos "
   f"(U0005): {aspa('biodemos_frios')}, e {aspa('sem_sexualidade')}. Do outro, o forno velho: "
-  f"{aspa('outro_forno')} (U0005). O encontro dos dois é o cérebro duplo — {aspa('cerebro_bilaterio')} (U0005).")
+  f"{aspa('outro_forno')} ({ua('outro_forno')}). O encontro dos dois é o cérebro duplo — {aspa('cerebro_bilaterio')} ({ua('cerebro_bilaterio')}).")
 w("")
-w("**1.5 A epidemia.** A rebelião é um surto: {b} (U0007). A analogia é trabalhada em detalhe técnico com "
+w("**1.5 A epidemia.** A rebelião é um surto: {b}. A analogia é trabalhada em detalhe técnico com "
   f"Toxoplasma (U0007): {aspa('toxo_plano_gato')}, e o achado que a fonte usa como prova: "
-  f"{aspa('setecentos_setenta')} (U0007). A sequela psíquica é o que importa para o argumento: "
-  f"{aspa('sequelas_leitura')} (U0007).")
+  f"{aspa('setecentos_setenta')} ({ua('setecentos_setenta')}). A sequela psíquica é o que importa para o argumento: "
+  f"{aspa('sequelas_leitura')} ({ua('sequelas_leitura')}).")
 w("")
 w("**1.6 A colmeia e a rede.** O sistema é definido pela fonte em uma frase "
   f"(U0008): {aspa('copiado_da_colmeia')}. Sophia é rainha com rédeas frouxas: {aspa('sofia_rede_frouxa')} "
-  f"(U0008). E a rede tem um órgão: {aspa('processador_de_cada_familia')} (U0008), hospedado em {aspa('orbon_processador')} "
-  f"(U0008), atualizando o {aspa('quarto_escuro')} (U0008).")
+  f"(U0008). E a rede tem um órgão: {aspa('processador_de_cada_familia')} ({ua('processador_de_cada_familia')}), hospedado em {aspa('orbon_processador')} "
+  f"(U0008), atualizando o {aspa('quarto_escuro')} ({ua('quarto_escuro')}).")
 w("")
-w("**1.7 A quarentena.** O isolamento é o ato de governo de Sophia: {c} (U0008), e a fonte traduz a metáfora "
-  f"para um quadro humano: {aspa('analogia_seluva')} (U0008). A reintegração é gradual: "
-  f"{aspa('reintegracao_mundos')} (U0029), até sobrarem dois, e {aspa('terra_ultimo_mundo')} (U0029). O "
-  f"resultado é a frase-título do ciclo: {aspa('nucleo_depressivo')} (U0034).")
+w("**1.7 A quarentena.** O isolamento é o ato de governo de Sophia: {c}, e a fonte traduz a metáfora "
+  f"para um quadro humano: {aspa('analogia_seluva')} ({ua('analogia_seluva')}). A reintegração é gradual: "
+  f"{aspa('reintegracao_mundos')} ({ua('reintegracao_mundos')}), até sobrarem dois, e {aspa('terra_ultimo_mundo')} ({ua('terra_ultimo_mundo')}). O "
+  f"resultado é a frase-título do ciclo: {aspa('nucleo_depressivo')} ({ua('nucleo_depressivo')}).")
 w("")
-w("**1.8 A depressão dos deuses.** {d} (U0029). A depressão aqui não é humor, é falência de função: "
-  f"{aspa('depressao_tira_criatividade')} (U0040), e a fonte é explícita sobre a quem ela atribui o quadro: "
-  f"{aspa('javé_sente_isso')} (U0040). Sophia não tem repertório nem para o gesto mais pequeno: "
-  f"{aspa('sorriso_sofia')} (U0040).")
+w("**1.8 A depressão dos deuses.** {d}. A depressão aqui não é humor, é falência de função: "
+  f"{aspa('depressao_tira_criatividade')} ({ua('depressao_tira_criatividade')}), e a fonte é explícita sobre a quem ela atribui o quadro: "
+  f"{aspa('javé_sente_isso')} ({ua('javé_sente_isso')}). Sophia não tem repertório nem para o gesto mais pequeno: "
+  f"{aspa('sorriso_sofia')} ({ua('sorriso_sofia')}).")
 w("")
-w("**1.9 A chave cristológica.** O bloco U0034 é o mais denso do ciclo: {e} (U0034), donde "
+w(f"**1.9 A chave cristológica.** O bloco em {ua('espirito_unico_jesus')} é o mais denso do ciclo: "
+  f"{aspa('javé_vishnu_chiva')} ({ua('javé_vishnu_chiva')}), donde "
   f"{aspa('duas_faces')} e {aspa('espirito_unico_jesus')}. A recusa no Tabor é narrada como recusa à agenda do "
-  f"próprio espírito: {aspa('anjos_cercaram_tabor')} (U0025), e o advento é lido como investidura "
-  f"{aspa('vestimenta_heredeiro')} (U0048) sob a pressão de {aspa('arcontes_dez_ceus')} (U0048). A consequência "
-  f"especulativa mais ousada: {aspa('virus_sem_hospedagem')} (U0034).")
+  f"próprio espírito: {aspa('anjos_cercaram_tabor')} ({ua('anjos_cercaram_tabor')}), e o advento é lido como investidura "
+  f"{aspa('vestimenta_heredeiro')} ({ua('vestimenta_heredeiro')}) sob a pressão de {aspa('arcontes_dez_ceus')} ({ua('arcontes_dez_ceus')}). A consequência "
+  f"especulativa mais ousada: {aspa('virus_sem_hospedagem')} ({ua('virus_sem_hospedagem')}).")
 w("")
-w("**1.10 A resposta.** A fonte devolve ao humano o que nega ao céu: {f} (U0029), "
-  f"{aspa('favores_consertar')} (U0029), e a definição pela qual o ciclo inteiro poderia ser apelidado: "
-  f"{aspa('astronautas_eternidade')} (U0029). A filosofia entra como específico (U0040): "
+w("**1.10 A resposta.** A fonte devolve ao humano o que nega ao céu: {f}, "
+  f"{aspa('favores_consertar')} ({ua('favores_consertar')}), e a definição pela qual o ciclo inteiro poderia ser apelidado: "
+  f"{aspa('astronautas_eternidade')} ({ua('astronautas_eternidade')}). A filosofia entra como específico (U0040): "
   f"{aspa('filosofia_definicao')}, com o contraexemplo histórico: {aspa('hitler_monstro')}.")
 w("")
 w("**1.11 O fecho e o Sankhia.** Na resposta final (U0049), a fonte diz que o Mentalma foi "
@@ -629,8 +634,8 @@ w("**1.11 O fecho e o Sankhia.** Na resposta final (U0049), a fonte diz que o Me
   f"a escola hindu que não nomeia Deus é a única que conclui: {aspa('pense_por_voce')}.")
 w("")
 w("**1.12 O que ela diz de si.** A fonte registra as próprias restrições e as usa como prova de método: "
-  f"{aspa('preguica_comodidade')} (U0003), {aspa('falta_combustivel')}, {aspa('trilogia_inacabada')}, e no "
-  f"meio do argumento a admissão {aspa('nunca_tinha_falado')} (U0008) seguida de {aspa('nunca_dito_clareza')}.")
+  f"{aspa('preguica_comodidade')} ({ua('preguica_comodidade')}), {aspa('falta_combustivel')}, {aspa('trilogia_inacabada')}, e no "
+  f"meio do argumento a admissão {aspa('nunca_tinha_falado')} ({ua('nunca_tinha_falado')}) seguida de {aspa('nunca_dito_clareza')}.")
 w("")
 w("---")
 w("")
@@ -672,7 +677,7 @@ w("")
 w("| observação | onde a fonte diz | o que é |")
 w("|---|---|---|")
 for nome, k, end, desc in OBS:
-    w(f"| {nome} | {end} | {desc} |")
+    w(f"| {nome} | {ua(k) if k in CIT else end} | {desc} |")
 w("")
 w("Regra: nada aqui vira termo, nem hoje nem *a priori* — ficam listados para que o registro não se perca, "
   "como ficou `Shanai`. A única diferença é que esta palestra tem **mais** nomes novos que a de 2020, e por "
@@ -698,9 +703,9 @@ w("")
 w("Cada item: **fato medido → risco → proposta do agente**. O ciclo não executa nenhuma delas antes da resposta.")
 w("")
 w("**D-1 · A seção do suicídio.** A fonte fecha o argumento sobre depressão com a frase mais dura do corpus: "
-  f"{aspa('vida_vergonhosa')} (U0029), e mais adiante {aspa('fundo_do_poco')}. O trecho nomeia o ato "
+  f"{aspa('vida_vergonhosa')} ({ua('vida_vergonhosa')}), e mais adiante {aspa('fundo_do_poco')}. O trecho nomeia o ato "
   "(*pegar um revólver*, 1× no bruto) e declara que parte da plateia **já se desativou** em vidas passadas "
-  f"(U0029). O quadro é nomeado sem rodeios: {aspa('revolver_alto_engano')} (U0029). Contagem medida: "
+  f"(U0029). O quadro é nomeado sem rodeios: {aspa('revolver_alto_engano')} ({ua('revolver_alto_engano')}). Contagem medida: "
   "3 ocorrências de *suicid* e 1 de *revólver*, todas dentro do argumento, nenhuma em digressão. **Risco:** material de saúde mental sem "
   "moldura, e a Base publica apostilas que circulam fora daqui. **Proposta:** transcrição **integral** na "
   "apostila (cortar aqui seria cortar a tese) + **nota editorial de moldura** na abertura da seção + "
@@ -717,7 +722,7 @@ w("**D-2 · Os dez nomes públicos.** Medido no bruto: `Lula` 4×, `Bolsonar` 3�
 w("")
 w("**D-3 · A clínica como taxonomia do divino.** Medido: `autist` 11×, `idiot` 3×, `esquizo` 1×, "
   f"`demência/demente` 20×, `babac*` 9×. A fonte usa os termos como **categorias ontológicas**: "
-  f"{aspa('autistas_dementes')} (U0005), e reafirma em U0020 ({aspa('rei_dos_transtornos')}). "
+  f"{aspa('autistas_dementes')} ({ua('autistas_dementes')}), e reafirma em U0020 ({aspa('rei_dos_transtornos')}). "
   "**Risco:** a Base publicar, em ficha de termo, uma frase que trata transtorno do espectro autista como "
   "natureza de deuses. **Proposta:** (i) manter na transcrição — é o núcleo do argumento sobre o paraíso; "
   "(ii) nota editorial declarando que a taxonomia é do autor, não clínica, e que a palavra *idiotia* é "
@@ -730,7 +735,7 @@ w("**D-4 · O registro chulo e o censor do STT.** A fala tem `m****`, `porcalhad
   "Base já cometeu e o Curador vetou em 2020. **Proposta:** manter tudo como está, inclusive a máscara; "
   "nada disso vira aspa em ficha; e a máscara é registrada no dicionário como fato do arquivo.")
 w("")
-w(f"**D-5 · A chave cristológica.** A frase-mestra é {aspa('espirito_unico_jesus')} (U0034), e a "
+w(f"**D-5 · A chave cristológica.** A frase-mestra é {aspa('espirito_unico_jesus')} ({ua('espirito_unico_jesus')}), e a "
   f"consequência na Base é tripla — {aspa('desconstituem')} e {aspa('virus_sem_hospedagem')}. "
   "**Risco:** sobrecarregar fichas de termos que nomeiam religiões com uma tese que a fonte apresenta como "
   "releitura datada. **Proposta:** (i) registrar como **tese de 26/03/2022** em `RC-072`, `RC-009`, "
@@ -739,7 +744,7 @@ w(f"**D-5 · A chave cristológica.** A frase-mestra é {aspa('espirito_unico_je
   "da transfiguração) por conteúdo, sem tocar em obra.")
 w("")
 w("**D-6 · A espécie 250 e a espécie 315.** Aparecem em quatro pontos do bruto, e uma delas em linha própria: "
-  f"a primeira delas em linha própria: {aspa('especie_250_nasce')} (U0006). O bruto ainda tem {aspa('cenario_futuro_315')}. **Proposta:** regime de "
+  f"a primeira delas em linha própria: {aspa('especie_250_nasce')} ({ua('especie_250_nasce')}). O bruto ainda tem {aspa('cenario_futuro_315')}. **Proposta:** regime de "
   "termo-observação (§3), 0 código. Se V. Sa. quiser registrar a *promessa* como conteúdo, o lugar é "
   "`RC-056 Especiação`, com endereço, e não um código novo.")
 w("")
@@ -780,7 +785,7 @@ w("**D-12 · Os nomes das pessoas na sala e do amigo espiritual.** Marcelo 5×, 
   "afirma identidade civil.")
 w("")
 w("**D-13 · O estatuto desta fala.** Ela é **pedida** pelo vivo (U0010–U0019, onde a fonte refina o quadro da "
-  f"guerra do Sol), tem **intervalo pedido ao vivo** — {aspa('pedido_intervalo')} (U0020; a palavra *interval* "
+  f"guerra do Sol — as duas definições saem em U0013 e U0014), tem **intervalo pedido ao vivo** — {aspa('pedido_intervalo')} (a palavra *interval* "
   f"aparece 3× no bruto). Logo antes dele a fonte diz que {aspa('titulo_parcial')}. **Proposta:** a apostila transcreve na ordem em que foi dita, com **nota de "
   "abertura** declarando o intervalo e o refinamento em público, e **sem** reorganizar as partes — a "
   "autodeclaração *só para meu estudo* vai no aparato porque limita o estatuto de uma formulação sem a "
@@ -819,10 +824,9 @@ txt = "\n".join(P) + "\n"
 open(OUT, "w", encoding="utf-8").write(txt)
 
 # as três substituições de âncoras longas que a prosa acima poupa de quebrar linhas
-subs = {
- "{a}": aspa("tres_fornos"), "{b}": aspa("lucifer_criou_virus"), "{c}": aspa("isolou_mundos"),
- "{d}": aspa("onda_depressiva"), "{e}": aspa("javé_vishnu_chiva"), "{f}": aspa("diagnostico_humano"),
-}
+SUBS_KEYS = {"{a}": "tres_fornos", "{b}": "lucifer_criou_virus", "{c}": "isolou_mundos",
+             "{d}": "onda_depressiva", "{e}": "javé_vishnu_chiva", "{f}": "diagnostico_humano"}
+subs = {k: aspa(v) + " (" + ua(v) + ")" for k, v in SUBS_KEYS.items()}
 s2 = txt
 for k, v in subs.items():
     s2 = s2.replace(k, v)

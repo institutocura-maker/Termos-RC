@@ -33,13 +33,20 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 
 - **[P2021-05-15 · A GRAFIA ORAL DO FORNO E O SEU ADMINISTRADOR]** "Se lembra que eu tenho falado que quando os produto de Aáon, que é o forno de replicação de vidro, administrado por Virgno e Morrenç e o forno de Hawaiingan, administrado por Pachu Pathiba." (U0003) — ⚠️ «de vidre» é lido pela linha da base como FORRAGEM (B061). Mantida a grafia da fonte + [TEXTO CORROMPIDO]; a decisão de grafar «forragem» continua pendente.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FORNO DE AWAYMAION NA FALA DE 26/03/2022]** "fornos de replicação de vida nesse universo foram criados três Aen, a maon, a Lingan, um nunca funcionou." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Parte III (integral) | material do curador |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0621 (STT 'Alamaior') | STT pré-curado |
 | Fontes anteriores da Base | B061 | apoio/remissão |
+
 
 
 ## Citações-chave

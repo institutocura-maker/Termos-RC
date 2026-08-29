@@ -66,12 +66,19 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[P2020-04-25 · LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS [REVISAR: Len Mion]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 - **[P2020-04-25 · A NOVA RAÇA COMO REPARAÇÃO, NÃO COMO PUNIÇÃO]** "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013); "Pergunta muito interessante que vai ser bilatéria, vai." (U0013)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · LEN MION (SATÃ) NA FALA DE 26/03/2022]** "ele não só compreendeu como decodificou e foi o maior manipulador que já existiu dessas condições." (U0047) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | seção 6.2–6.3; bloco 9 (relógio messiânico) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

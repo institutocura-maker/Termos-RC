@@ -297,9 +297,17 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2020-04-25 · SOFIA: A RAINHA QUE **NÃO QUIS** SER RAINHA — E O ANO 2018]** "Sofia pass Passou o ano 2018, basicamente quase todo em Alto Landrão, ou seja, aqui na Terra com esses seres." (U0006); "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **Fechamento pedido pela devolutiva (D-10):** a decisão de 2018 em Alto Langron é *formulação oral datada*; não se transforma em cronologia canônica da Sophia. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2020-04-25 · A NOVA FAMÍLIA COMO ATO DE DECÊNCIA]** "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · SOPHIA (CRISTO CÓSMICO) NA FALA DE 26/03/2022]** "Sofia se contaminou também." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · SOPHIA CONTAMINADA E DESCONECTADA HÁ 700.000 ANOS]** "o processamento da evolução de Sofia para ali há 700.000 anos que Sofia não acrescenta padrões de evolução ao seu psiquismo devido à rebelião de Lúcifer." (U0008); "Nunca tinha falado isso claramente porque é assunto de outro livro." (U0008) — A automarca *nunca tinha falado isso claramente* incide exatamente sobre esta afirmação: grau de testemunho alto, e por isso ela entra **com** a ressalva, não apesar dela. A ficha recebe a tese, não a ênfase.
+- **[P2022-03-26 · A RECONEXÃO DATADA: 2019]** "no ano 2019, Sofia esteve a Há 700.000 anos que o rapaz tava fora do circuito. Há 3 anos atrás ele teve lá e parece que ele se religou ao processo, coisa que ele não consegue fazer, mas a partir do grandão lá que também não tem mais novidade nenhuma e parou a uns 400.000 anos de ter utilidade." (U0034) — **D-10**: a data é da fala de 2022 e não tem paralelo em outra fonte. Não harmonizar com nenhuma outra cronologia de religação.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
@@ -308,6 +316,7 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 
 

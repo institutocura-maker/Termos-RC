@@ -59,12 +59,20 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 - **[P2020-04-25 · O ASSUNTO MAIS SÉRIO — o peso que a fonte dá ao fatiamento]** "esse fatiamento de consciência é o assunto mais sério de tudo que eu tenho falado até hoje." (U0009); "A Solange Silva pergunta: «O Brama Loca e o Buloca estão vinculados a uma mente coletiva?»" (U0009) — Definição por pergunta (Solange Silva, U0009): o ciclo registra que o conceito foi **provocado**, não exposto em bloco. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O ERRO DE para BRAGINA [REVISAR: hipótese Parabrahman]]** "erro que para Bragina cometeu, que é o ser que caiu na criação e o resto dele que foi reconstruído, é que a gente chama de javé, o erro de para brágina tem a ver com o fatiamento ou o modo do fatiamento que houve no seu próprio espírito, que é o qual a gente já falou, é o mesmo de Virgo, Sofia, Javé e Jesus é o Espírito Santo." (U0009) — **D-7:** hipótese documentada, fusão recusada. O trecho é a ponte entre fatiamento e o eu reconstruído de Javé.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FATIAMENTO DE CONSCIÊNCIA NA FALA DE 26/03/2022]** "É o problema do fateamento da consciência. Quando o Espírito de Jesus tava aqui e a turma decidiu criar isso aqui para ver como era. Ele ficou aqui, mas projetou uma parte dele para ser um avatar de experiência aqui." (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · FATEAMENTO: O MESMO ESPÍRITO MINISTRANDO DUAS CONSCIÊNCIAS]** "Aí ficou o mesmo espírito a ministrando duas consciências aqui. Essas duas consciências vieram para cá porque uma quis vir, outra veio." (U0034); "O homem Jesus morreu." (U0025) — D-5: é o mecanismo que sustenta a tese cristológica desta fala. Entra como **tese datada**, e o parágrafo da recusa no Tabor fica em `RC-072` para que não se leia fateamento como determinismo.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0187–U0201; U0212–U0243; U0361–U0368 | STT pré-curado e validado |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
+
 
 
 ## Citações-chave

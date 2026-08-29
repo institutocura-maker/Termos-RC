@@ -36,14 +36,22 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 - **[P2020-04-25 · ESPECIAÇÃO COMO MOTOR DA VINDA DA CRIATURA UNIVERSAL]** "a chamada última espécie do universo, que que eu chamo no livro Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006); "Pergunta muito interessante que vai ser bilatéria, vai." (U0013) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O QUE A NOVA ESPÉCIE **NÃO** RECEBE: ESPÍRITOS HUMANOS]** "retrogradação espiritual." (U0013) — **D-6:** «retrogradação espiritual» é **termo-observação** (0 código); a linha entra aqui como uso datado.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ESPECIAÇÃO NA FALA DE 26/03/2022]** "A família Vol foi a 249 314. A família V. que foi a última espécie do gênero Biodema ser criado há cerca de 230 milhões de anos atrás. Foi a número 249 314. Antes da Vol já existiam 249 313, ou seja, já existiam 249.313 espécies de seres biodemos." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · A PROMESSA DAS ESPÉCIES 250 E 315 (D-6: dado narrativo, 0 código)]** "Essa espécie de 250 vai nascer. Estão providenciando a 315 para ver se o eu de Jah." (U0006); "nessa nova espécie que vai ser a 315 aí, que tá sendo gerada já com a mistura da componente da genética humana e desses seres biodécos." (U0040); "Esse conselho vai ser criado do avante porque não há senso crítico disponível na radiidade vinculada aos dois mundos e nem no paraíso para entre aspas conselho de fato que produz alguma algumaidade, é, algum diagnóstico que seja útil para alguma coisa, né?" (U0045) — **Ordem expressa da devolutiva:** a promessa entra aqui, como dado narrativo datado, e as duas numerações **não** viram termo — ficam como termo-observação `[REVISAR]` no dicionário da apostila. O bruto ainda grafa a frase de abertura em linha própria (U0006).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B031 | — | obra publicada |
 | P2023-05-13 | seção 9.6; bloco das novas proteínas | palestra/STT pré-curada |
+
 
 
 

@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Analogia usada pelo palestrante para descrever seres quase perfeitos que funcionam plenamente em rede, mas teriam dificuldade para compreender caos, malícia e sofrimento fora dos protocolos originais.
@@ -28,10 +28,18 @@ A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, co
 - **[P2021-09-04 · A FUNDAÇÃO DE 2021 · A FONTE FUNDAMENTAL DO AUTISMO FUNCIONAL — ANTECIPADA EM 4 MESES (a P2021-12-04 é a primeira fonte atual da ficha; ESTA palestra é de 04/09/2021)]** **A DECRETAÇÃO UNIVERSAL**: "até o momento em que o ser humano surgiu à moda pandórica... **TODO MUNDO PARA TRÁS É AUTISTA. PONTO. INCLUSIVE DEUS, O AMANTÍSSIMO**, no sentido de desse senso. **É UMA PUREZA EXTREMA, MAS UMA PUREZA TÃO PERFEITA QUE SÓ SABE SER PURO, NÃO SABE LIDAR COM A IMPUREZA. O autismo é nesse sentido. É um amor, amor, amor, amor, mas que não sabe não ser daquele jeito**" [⚠️⚠️⚠️ o autismo do próprio Deus — a pureza que não sabe lidar com a impureza]; "não foram só essas as famílias... os seres... DEMENTONIRE de um determinado nível de autismo. Você só compreende as coisas até um certo ponto. SÓ A CONDIÇÃO HUMANA DESTRABOU (Pandora, Eva e para trás o que Lúcifer fez no gênero biodêmico)"; **O SAVANT**: "como em outras palavras a gente falou no SAVANT, que é um tipo de autista que é genial em muitas coisas e em questões mais básicas não tem instrumentos cerebrais nele para cuidar daquilo... aquele filme que eu sempre cito quando falo disso é RAIN MAN com Dustin Hoffman, Tom Cruise... ele escutava uma ópera, decorava tudo, decorava milhares de livros lendo uma vez só... UMA INTELIGÊNCIA SUPER, mas não conseguia cuidar do seu próprio corpo... **AUTISMO NESSE PADRÃO AQUI É O QUE ESSES SERES TÊM**"; "SOFIA É UM AUTISTA... e não é fácil conversar com certos graus de autismo"; **OS ACESSOS DE FÚRIA**: "esses seres, ELES TÊM TODOS ACESSOS DE FÚRIA. Eles não têm emoção, mas tem essa coisa chamada parecida com a fúria. E tomam decisões: explode isso, explode aquilo"; **SEM MÉDICO**: "NÃO HÁ MÉDICO PARA ESSAS QUESTÕES, COMO TAMBÉM NÃO HÁ PSICÓLOGO NEM PSIQUIATRA para as questões desses seres. Nós aqui na Terra, humanos, somos meio que privilegiados porque o nosso avanço... vai construindo... a gente tem farmacopeia, medicina, psicólogos, psiquiatras, neurocientistas... ESSES SERES NÃO"; "eles não têm como processar criticamente as coisas"; "COMO É QUE VOCÊ VAI CULPAR ALGUÉM QUE NÃO TEM A LÓGICA DA NATUREZA HUMANA?"; **O ESPELHO HUMANO**: "aquilo que sai da mente humana para eles É O REFLEXO DO ESPELHO"; + a confirmação da lição do cérebro (o réptil sem incômodo; o límbico); "eu olho para essas figuras... eu digo, cara, VOCÊS SÃO SINGULARIDADES, mas... são autistas no sentido complicado do termo".
 - 0 códigos novos (O-3). Quarentena: clínica (o autismo/savant como chave de leitura).
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · AUTISMO FUNCIONAL DOS SERES DA ESPIRITUALIDADE SUPERIOR NA FALA DE 26/03/2022]** "Essa turma que surgiu aqui perverteu-se. Brama, viza. Cronos, Zeus e Companhia Limitada, usando as expressões da mitologia grega." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-09-04`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · O AUTISMO FUNCIONAL: A CATEGORIA QUE A FALA CRIA PARA O PARAÍSO]** "esses seres são tão puros que às vezes a malícia no genoma deles Não tem como entrar. E eles nascem, mas são ingênuos, lentos, babacoides. O mundo engana-os e são espíritos de um estirpe." (U0020); "no meio dos humanos racionais tem o quê?" (U0009) — **Enquadramento de D-3 (obrigatório em todo uso):** o termo é usado pela fonte como categoria cosmológica — ausência de malícia, não diagnóstico. A fala **nega** que isto descreva pessoas; qualquer reemprego em contexto humano está vedado por decisão do Curador.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “Seria o autismo funcional [...] ele desempenha absolutamente a função da sua vida, funcionando em rede.” — P2021-12-04, U0108–U0147; U0296–U0301; U0375–U0415; U0487–U0505

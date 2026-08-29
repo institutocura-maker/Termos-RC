@@ -42,13 +42,21 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 
 - **[P2020-04-25 · O ÚNICO PROCESSADOR QUE SOBREVIVEU ÀS GUERRAS]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B057`, `B058`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · PROCESSADORES FAMILIARES NA FALA DE 26/03/2022]** "lá no sistema de capela, onde órbão é só um dos planetas em torno." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · A REDE INTEIRA E O QUE O VÍRUS FERROU]** "O vírus que surgiu com Lúciferrou esse processo. Ferrou com todos os processos." (U0008); "milhares de novos espermatozoides são produzidos a cada segundo no seu saque escrotal? Para atualizar as últimas informações que giraram nos seus neurônios, porque se ele transar, ele repassa. O que de mais atualizado ele tem em termos de informação colecionada com a mulher é a mesma coisa na progressão do óvulo que poderá ser fecundado ou não." (U0008) — A mecânica de atualização (espermatozoides e óvulo como portadores da mudança) é o detalhe que faltava na Base para ler `RC-089` e `RC-446` como a mesma infraestrutura em duas escalas.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | cada família possuía o seu próprio Processador |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 67 (PDF) | desligar-se do Processador = deixar de ser ser coletivo |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 68 (PDF) | Sophia criou todos os Processadores |
+
 
 
 ## Citações-chave

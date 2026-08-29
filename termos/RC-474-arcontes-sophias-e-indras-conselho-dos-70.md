@@ -52,12 +52,19 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **[P2023-10-14 · ARCONTES = DONOS, E A HONRA DEMODÁRMICA APLICADA A ELES (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "E esses arcontes de lá todos eles vão se ferrar." (U0033)
 - **[P2023-10-14 · QUEM SE SENTIA ARCONTE E O QUE OS PORTAIS FECHARAM]** "Aí os seres Zeus, Apolo, Áes, blá blá blá desse universo visí não podiam passar para cá, o que eliminou de seres que se sentiam arcontes, ou seja, donos." (U0018) — A definição «arcontes, ou seja, donos» é dada **em fala** — material raro, e anterior a quase todas as fichas do tema.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ARCONTES / CONSELHO DOS 70 NA FALA DE 26/03/2022]** "Os arcontes que tomam conta do primeiro céu, do segundo céu, do terceiro céu, do quarto céu, até o 10º céu, aonde Javé está, não querem dar a minha v enta não querem que eu assuma a minha vestimenta." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **6 meses** a atual fonte oral mais antiga da ficha (`P2022-09-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco final (arcontes/intriga; Sofia) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

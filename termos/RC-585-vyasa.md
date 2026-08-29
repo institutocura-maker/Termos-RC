@@ -68,11 +68,18 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 - **[P2021-05-15 · VYASA, O 1º A SISTEMATIZAR (a 2ª atestação, 2 meses depois da P2021-01-23)]** "E segundo ninguém conseguia falar uma linguagem que fosse entendida por todas as partes, por todos os tipos de psiquismo, por todos os tipos de linguagem, cultura, a Há uns dois meses atrás, eu falei que Viaza foi o primeiro a conseguir organizar uma mesma história contada sobre uma ótica de uns quatro, cinco ou seis tipos de modos de contar uma mesma história diferente." (U0003); "Aceitem se quiser isso, mas somente depois de Viaza é que o universo de lá e o de cá aprenderam a sistematizar o conhecimento histórico de modo a que ele pudesse vir a ser útil um dia." (U0003)
 - **[P2021-05-15 · A FINALIDADE DA SISTEMATIZAÇÃO: A BUSCA DA VERDADE]** "O fato de eu discordar não quer dizer que eu esteja certo e ele errado." (U0010) — a fórmula «razão filosófica… sem afetação» aparece no mesmo bloco (U0003) e é o elo com RC-755.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · VYASA NA FALA DE 26/03/2022]** "1.600.000 versos para poder explicar aquilo aos gandarvas. Pros rakas echaças. Rxaças, ele criou 1.400.000 versos prosvas. pros pitres, eh, pros humanos, ele criou 100.000 versos, ou seja, criou uma história com 100.000 versos para explicar aquele mesmo episódio para a lógica dos humanos." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |
+
 
 
 ## Citações-chave

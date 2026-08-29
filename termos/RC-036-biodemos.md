@@ -60,15 +60,23 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[P2020-04-25 · GÊNERO POR FAMÍLIA — O QUE A FONTE DIZ, E ONDE A ASPA FICA]** "A definição de gênero deles é é quase que por família." (U0006) — ⚠️ A fonte tem frase mais dura sobre gênero/sexo; por **D-3** ela **não** entra em ficha (fica na apostila, com nota). Aqui vai só a definição estrutural.
 - **[P2020-04-25 · 15 FORMAS DE biodemo — DADO DE DICIONÁRIO DESTA FONTE]** "os biodemos são seres que foram engendrados em casulos, adoram casulo, adoram ficar em naves, adoram ficar nas suas residências, não gostam de sair por aí nos planetas." (U0006) — Medição integral em `camada-2.txt`: `biodemo` 19×, mais `biodma`, `biodos`, `biodeno`, `bioderno`, `biodêmos`, `biodérêmico`… e **0** da grafia «biodeemo» que a Base prefere.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · BIODEMOS NA FALA DE 26/03/2022]** "Há cerca de 900 milhões de anos atrás, Esse forno de Auaion, depois de ter produzido várias linhagens existenciais, produziu mais uma de seres que nós somos obrigados a chamá-los de biodemo, porque eram parte biológicos e parte a herança demo que veio nessa história." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · O REINO BIODÊMICO EM NÚMEROS, COMO A FALA O DISSE]** "esses seres foram reproduzidos com receita existencial para serem absolutamente frios, sem nenhum tipo de emoção. Mente matemática, mente dedutiva, capacidade de concentração total para ver se uma consciência de um ser biodem se concentrando num problema de matemática, ele esquecia a demência, ele assim ia corrigindo outros padrões do seu psiquismo e de tanto ele poder se dedicar a analisar um problema qualquer, ele ia desenvolvimento desenvolvendo a arte mental, intelectual de resolver aquilo, mas emoção zero." (U0005); "Não havia nesses seres e não há até hoje sexualidade. Não é macho e fêmea, era só um são esse forno nunca produziu nada com sexo, com polaridade." (U0005) — Três datas e três magnitudes de uma só vez (900 milhões de anos, ~250.000 famílias, forno estéril). Cada cifra é reproduzida com o endereço; a contagem de espécies da família Vol está em `RC-056` e em `RC-442`.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | SINTESE (contracapa) | p. 1 (PDF) | narrativa psicografada (Yel Luzbel/Jeane Miranda) |
 | A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
 | O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
 | Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+
 
 
 

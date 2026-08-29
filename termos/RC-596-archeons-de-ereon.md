@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Conjunto dos cinco níveis/subníveis da Espiritualidade Laboratorial reunidos na região de Ereon: Antérion, Danérion, Mermérion, Perpérion e Tempérion.
@@ -25,10 +25,18 @@ A palestra os descreve como padrões dimensionais com grupos de seres e estilos 
 - **A "invasão" de Perpérion (U0311–U0317):** "esse tipo de situação já tem ocorrido lá em Perpérion, só que não houve o isolamento... Perpérion foi meio que invadida, por isso que não houve isolamento, por gente ou por grupos de todos os quadrantes desses níveis que a gente chama espiritualidade superior, à exceção do paraíso".
 - **Pontos focais (U0568–U0571):** "essas mudanças teriam que começar por esses cinco Archeons... são os pontos focais da espiritualidade que mais cedeu espíritos ou consciências particularizadas para funcionarem na tentativa, repito, não de resolver, mas de mergulhar e tentar entender"; "se houver essa coisa de uma precipitação de acontecimentos no âmbito espiritual, é por aí, vai ser nesses cinco Archeons".
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ARCHEONS DE EREON NA FALA DE 26/03/2022]** "tem planetas em Oreon que tem cinco tipos de sexo rolando lá." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · O QUE OS ARCHEONS TÊM DE SEXO E O QUE ISSO FAZ DA REBELIÃO]** "A possibilidade de transmitir doença, porque lá vai surgir essa coisa chamada sexualidade. Aqui não tem, é tudo por clonagem. Seres eram criados aqui. Como não é mais um tirando de si para criar outro, agora são dois unindo suas células para gerar outro. Essa opção aqui permite que a doença do criador seja repassada num grau menor, já que na clonagem ela vai total pro outro." (U0005); "Aqui há 2 bilhões 500 milhões de anos atrás outros seres já eram produzidos. E esses seres eram animalizados, eram sensórios, ou seja, tinham sensação de todo tipo e eram sexualizados, eles eram polarizados." (U0005) — A fala liga a polarização sexual à possibilidade de transmitir doença — a chave para ler `RC-596` sem exotismo: o sexo entra como **via de infecção** no argumento sanitário.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0039–U0051; U0313–U0323; U0355–U0358 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “São cinco Archeons [...] padrões de realidade no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358

@@ -62,14 +62,21 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 
 - **[P2020-04-25 · O PARADEIRO DESCONHECIDO DO PROCESSADOR DA FAMÍLIA]** "O único processador a sobreviver essa história foi a Vol por um motivo bem simples, porque todas essas outras famílias que eu descrevi na Terra Atlântis, Chanlum, Promon, o que seja, essas famílias elas não vieram toda." (U0006); "as grandes guerras da rebelião surgiram no sistema de Antares a cerca de 530 532.000 anos." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3 meses** a atual fonte oral mais antiga da ficha (`P2020-08-08`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FAMÍLIA YEL NA FALA DE 26/03/2022]** "foi chamada de traidora pelas demais e há 620.000 anos ela portou aqui na terra e ficou aqui." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | narrativa psicografada (Yel Luzbel) |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | urdida há ~492 milhões de anos; 5.545 seres |
 | O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | família aguarda resposta de Sophia |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 67–68 (PDF) | desligamento do Processador Yel |
+
 
 
 ## Citações-chave

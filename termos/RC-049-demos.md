@@ -60,13 +60,20 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 - **[P2020-04-25 · A MENTE DEMO COMO O RUÍDO QUE OS BIODAMOS FORAM CRIADOS PARA AMORTECER]** "inquietude da mente demo ancestral." (U0006); "ansiedade, nervosismo, estresse." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A DEMÊNCIA FILOSÓFICA E O PADRÃO DE INQUIETAÇÃO]** "O nome disso é reptiliano." (U0006) — A fonte nega que Javé tenha sido «reptiliano» e usa o termo para ansiedade: registro terminológico **do uso**, não da teoria.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · DEMOS NA FALA DE 26/03/2022]** "os autistas do paraíso e os dementes que caíram e foram surgindo a partir de um código podre do criador que é demente e implica que todo mundo que erde esse código tem padrões e traços de demência e por isso os demos se metamorfoseiam desse universo vizinho, são demência." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+
 
 
 

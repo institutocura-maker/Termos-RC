@@ -39,14 +39,21 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[P2020-04-25 · A ÚLTIMA ESPÉCIE DO UNIVERSO COMO DESTINO DO PROCESSO]** "a chamada última espécie do universo, que que eu chamo no livro Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006); "essa definição vai ter que se dar ao longo dos próximos 18.000 anos." (U0006) — **D-10:** o prazo de 18.000 anos entra como *formulação oral de 2020*; 0 correspondência em livro — não inventar suporte. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.0 anos** a atual fonte oral mais antiga da ficha (`P2023-05-13`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O DRAMA TERRENO DE JAVÉ (nome próprio da fonte)]** "Drama Terreno de Javé que se chama Criatura Universal, já deverá estar existindo, que é produto da especiação da especiação da especiação da espécie Homo Sápiens, dessa espécie Velchamá e outras que estão se dirigindo para essa convergência para poder dar essa característica a esse ser." (U0006)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · CRIATURA UNIVERSAL NA FALA DE 26/03/2022]** "esses seres que antes eram absolutamente babacoides, porque os nossos amigos biodernos não tinham malícia nenhuma, eram babacas, no bom sentido aqui da palavra, eles, devido à influência virótica, se tornaram nervosos, irritados, as diversas etapas que foram acontecendo, como desdobramento do problema de saúde pública, do surgimento da pandemia, eh, foram fazendo com que esses seres criassem novos comportamentos que antes eles jamais haviam tido." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | B031 / B024 / B019 | — | obras publicadas |
 | P2026-04-02 | — | palestra/STT |
 | P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

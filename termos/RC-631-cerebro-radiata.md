@@ -53,12 +53,20 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 - **[P2020-04-25 · A DECISÃO CÓSMICA RADIATA → BILATÉRIO (540 milhões de anos)]** "foi quando eles resolveram juntar esses dois hemisférios, não mais em cérebros radiatas, mas eles criaram o cérebro bilatério que permitia os dois hemisférios." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O FECHO DA PALESTRA: A NOVA ESPÉCIE SERÁ **BILATÉRIA**]** "Pergunta muito interessante que vai ser bilatéria, vai." (U0013) — A estrutura inteira do bloco radiata/bilatério está em **pergunta-final/resposta** (U0012→U0013): é o trecho mais «inédito» da fonte para a malha de cérebro.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · CÉREBRO RADIATA NA FALA DE 26/03/2022]** "é um ser radiata, nem bilatério, cara é tá depressivo, com dores nas costas, dores de lombares, não sei o quê, blá blá blá blá." (U0025) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · RADIATA: O CORPO QUE EXPLICA POR QUE SOPHIA NÃO SORRI]** "Sofia não não tem como ele não consegue sorrir, é um ser biodemo, não tem sorrisos." (U0040); "Nós humanos sabemos rir da nossa própria desgraça. No pior momento da gente, a gente não dá um sorriso. Que que babaquice, mas na hora que a gente dá um sorriso, suaviza dor na gente. Esses seres não sabem sorrir." (U0040) — A anatomia é usada como argumento, não como piada: o cérebro radiata não tem o circuito do riso. Manter as três aspas juntas para que a última não vire escárnio do quadro clínico.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0576–U0589 | PDF/transcrição pré-curada |
+
 
 
 

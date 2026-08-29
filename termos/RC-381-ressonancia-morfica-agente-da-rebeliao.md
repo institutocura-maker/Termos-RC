@@ -38,9 +38,15 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **[P2020-04-25 · O HUMANO NÃO TEM PROCESSADOR: TEM **CAMPO MÓRFICO** DA ESPÉCIE]** "vinculados ao campo mórfico da nossa espécie que faz o mesmíssimo se Isso que um processador faz." (U0008) — ⭐ Equação fundante: `campo mórfico ≡ o que o processador faz para as outras espécies`. **Anterioridade calculada**: a formulação mais antiga da ficha até hoje é de 2023 — esta fala a antecipa em anos (ver contador emitido acima). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · RUPERT SHELLRAKE E O SÉTIMO SENTIDO [REVISAR: grafia]]** "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006) — Grafia do STT preservada; a hipótese *Sheldrake* é **declarada**, não aplicada (D-7).
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · RESSONÂNCIA MÓRFICA (AGENTE DA REBELIÃO) NA FALA DE 26/03/2022]** "e o campo morfagenético da da espécie de toxoplasma Gond? E se tiver uma mente por trás, controlando aquela espécie." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | B041 | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
@@ -50,6 +56,7 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 | P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
 
 
 ## Termos Relacionados

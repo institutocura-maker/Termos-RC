@@ -112,13 +112,20 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[P2023-10-14 · CHIVA E O PRIMEIRO SER ADIDAIVA]** "Aí matou o anjo clone, mas o espírito que estava vinculado a esse clone emergiu no meio do fogo que estava destruindo o corpo do anjo clone e conseguiu levar o código do criador nele e se transformou no primeiro ser adidaiva." (U0033); "Aí toda a descendência de Chiva é a descendência demoníaca." (U0033) — A fonte grafa «adidaiva» aqui e «adaiva» adiante — duas grafias, mesma palavra (ver camada-2).
 - **[P2023-10-14 · O FOGO DE QUE ELES DIZEM TER SURGIDO]** "em chivra, vamos assim dizer, mas eles dizem o que?" (U0033); "A nossa origem é celestial, porque nós surgimos do fogo." (U0033)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · SHIVA (SAVNA) NA FALA DE 26/03/2022]** "ligados à Chiva. ou ligados aos seres avatáricos ou à formas adiágenas geradas pela condição adidaiva de Chiva, tipo Pachupate, tipo a expressão na rata de Chiva que criou o movimento yog entre os demons e depois isso foi legado aos humanos, foi herdado pelos humanos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-11-29 | bloco 2 (Trimurti × Moros; força tamásica) | palestra/STT pré-curada |
+
 
 
 

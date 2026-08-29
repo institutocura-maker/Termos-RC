@@ -39,13 +39,20 @@ Na Revelação Cósmica de Jan Val Ellam, a "Caixa de Pandora" — associada ao 
 
 - **[P2020-04-25 · A HERANÇA QUE RESTOU QUANDO O CONTROLE FALHOU]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B020`, `ART-2026-08-18`, `B087`, `B088`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ENIGMA DA ESPERANÇA (CAIXA DE PANDORA) NA FALA DE 26/03/2022]** "O tempero é o do inconformismo esclarecido, mas não exigindo do outro, exigindo da gente mesmo o processo de reforma íntima que a espiritualidade tanto insiste que não tem caminho B, só tem caminho A, reforma íntima." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | B020 | O Sorriso de Pandora | livro |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+
 
 
 ## Interpretação secundária (ART-2026-08-18)

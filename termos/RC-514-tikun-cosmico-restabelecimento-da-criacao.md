@@ -68,14 +68,21 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[P2023-10-14 · A RELEITURA DO AVISO]** "Só que os judeus transformaram esse aviso num entendimento muito romântico." (U0033)
 - **[P2023-10-14 · O TIKUN COMO PROJETO DE JAVÉ]** "A partir desse ponto, Javé pensava em se apoderar do controle sobre os seres humanos paraa realização do seu ticum." (U0033)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · TIKUN CÓSMICO NA FALA DE 26/03/2022]** "A Cabala diz que o ticum precisa ser expresso. O que é o ticum Cabala? É a reforma da obra e a reforma do criador caído na obra. É o conserto da obra e o conserto do criador que caiu na própria obra." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-09-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | B061, B071, B019, B074, B075 | obras | livros |
 | P2022-12-17, P2021-12-04, P2024-05-04, P2025-10-25, P2025-06-26, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14 | palestras | palestra/STT |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
+
 
 
 ## Interpretação secundária (ART-2026-08-18)

@@ -33,11 +33,18 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 
 - **[P2020-04-25 · A MESMA CENA CONTADA PELO AVESSO: PORTAIS, HERANÇA E O VÍCIO ORACULAR]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006); "travas genéticas de controle que eles haviam colocado." (U0006) — Bloco Pandora lido como **mecanismo de contenção** (travas postas pelos deuses), não como cosmogonia moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · PANDORA COMO SERPENTE DO ÉDEN NA FALA DE 26/03/2022]** "Quando a autoridade entra, o que é que os humanos fazem? Se ajoelho. Ou seja, esse gesto de submissão." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | O Sorriso de Pandora (B020) | cap. 9 (Adão e Eva Bíblicos) | pp. 65–76 (aprox.) | revelação central |
+
 
 
 ## Citações-chave

@@ -23,9 +23,16 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 
 - **[P2020-04-25 · O MÓDULO RETIDO E O SÉTIMO SENTIDO (ampliação datada)]** "eu só vou dar cinco, talvez seis, no máximo, certo, mas nunca oito." (U0006); "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **6.3 anos** a atual fonte oral mais antiga da ficha (`P2026-08-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · SÉRIE MENTALMA (5 LIVROS + CURSO) NA FALA DE 26/03/2022]** "O mentalma é o sanquia atualizado pros tempos modernos e visto pela moda ocidental." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · MENTALMA COMO SANKHIA ATUALIZADO — E FEITO PARA SI]** "O mentalma que eu produzi hoje, ele não era para ser público." (U0049); "a sanquia é a única das seis escolas hindu que diz: «Ó Deus». Por quê? Porque é um tipo de conceito de Deus estúpido." (U0049) — **Retenção (D-3/D-5):** a frase sobre as religiões (*mata em nome de Brama, mata em nome de Alá*) **não** transita — fica na apostila. Aqui entram só a definição da escola e a declaração de destino do material.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Mentalma I (B074) | Introdução | p. 10 (PDF) | lista dos 7 volumes |
 | Mentalma II (B075) | Introdução; cap. 12; Sobre o Autor | pp. 7, 185, 196 (PDF) | "dois primeiros publicados"; 20 maestrias/7 módulos; curso |
@@ -34,6 +41,7 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 | Mentalma V (B078) | — | — | (sem PDF; sinopse Amazon — Publicações Europa América, 2026) |
 | A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção do termo (fonte original) |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | menção |
+
 
 
 ## Citações-chave

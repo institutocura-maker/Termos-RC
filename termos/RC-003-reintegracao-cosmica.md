@@ -97,13 +97,20 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 - **[P2021-05-15 · A REINTEGRAÇÃO VISTA PELO LADO DOS QUE PERDEM]** "E porque as outras civilizações que existem aqui nesse nosso universo biológico não tem força representativa nem em mar, nem na lua, nem aqui, nem em lugar algum para fazer nada, estão por aqui como piratas cósmicos, como Figuras que também participaram de hibridagens lá atrás se sentem vinculadas ao progresso humano e estão esperando ver como é que acaba essa zorra aqui do isolamento terrestre para pegar uma fatia disso ou daquilo, mas não são importantes no sentido de terem influenciado." (U0003) — ⚠️ A frase «a espiritualidade humana é a única alavanca» NÃO pertence a esta fonte (é de P2024-11-03) — registrada em RC-003 por aquela fonte apenas.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · REINTEGRAÇÃO CÓSMICA NA FALA DE 26/03/2022]** "a população de um desses mundos conseguia se recuperar do vírus luciferiano. Aí esse mundo era reintegrado à convivência cósmica e só ficavam 18 mundos inicialmente isolados." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Reintegração Cósmica" |
 | Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
+
 
 
 ## Citações-chave

@@ -38,12 +38,20 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 - **[P2023-10-14 · AS SEFIROT COMO COCONSTRUTORAS DA OBRA (anterioridade)]** "que foram reconstruídas dentro da matrix para resolver o problema da matrix." (U0085) — 🆕 anterioridade: P2024-07-14
 - **[P2023-10-14 · OS QUE FAZEM DA VIDA O QUE SABEM CONSTRUÍ-LA]** "E nós aqui do lado biológico é que podemos fazer da nossa vida o que nós soubermos construir nela." (U0064)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · COCONSTRUTORES DA OBRA (TIKUN) NA FALA DE 26/03/2022]** "evolua no sentido de consertar seus 28.869 genes, que é o favor divino que ele tá fazendo ao dono desse código, que é o criador falido." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2022-03-26 · O FAVOR DIVINO É DO HUMANO PARA O CRIADOR]** "Ele cede a alma que dá a imantação ou que permite a estruturação dos eus transitórios, mas não protege esses eus transitórios. Dá a liberdade de cada um agir como quiser." (U0040); "nós assumimos as culpas de causas que não causamos e sofrimentos que não geramos?" (U0040) — A inversão que dá título à saída prática da palestra: *consertar os 28.869 genes* como favor a um Deus inoperante. Registrar com a ressalva de que a fonte apresenta isso como conselho ao vivo, não como doutrina fechada.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2024-07-14 | U0570–U0590; U0660–U0670 | palestra/STT |
 | B019 / P2025-02-16 / P2024-11-30 / ART-2026-08-18 | — | obras |
+
 
 
 ## Citação-chave

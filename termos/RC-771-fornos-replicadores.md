@@ -44,14 +44,21 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **[P2021-05-15 · A FORMULAÇÃO ORAL ANTERIOR AOS DOCUMENTOS DE 2025]** "Se lembra que eu tenho falado que quando os produto de Aáon, que é o forno de replicação de vidro, administrado por Virgno e Morrenç e o forno de Hawaiingan, administrado por Pachu Pathiba." (U0003) — ⚠️ grafias orais: «Aáon» (≈ Aáon/Awaymaion), «Virgno e Morrenç» (≈ Vishnu/Morren So), «Pachu Pathiba» (≈ Pasupati), «Hawaiingan» (≈ Havaingã/Awaylengan). **Não renomear nada na Base.**
 - **[P2021-05-15 · O EFEITO DO ENCONTRO: O CÉREBRO BILATÉRIO E O HUMANO COMO ÚLTIMO]** "É que surgiu a questão do cérebro bilatério, aqueles dois hemisférios, né?" (U0003); "Então isso passou a existir e o ser humano não foi o primeiro a ter, aliás, o ser humano foi o último a surgir com essa característica, porque ele é produto da evolução de tudo que veio desse momento em que se uniram as conquistas evolutivas de Aamaion e Aingã." (U0003) — ⚠️ T-14: a cifra «900, 1 bilhão de anos» nesta fonte qualifica o encontro dos produtos, não o surgimento do Homo sapiens; não confundir com a linha dos 197 mil anos (B061) nem com P2025-07-18. Selar, não fundir.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FORNOS REPLICADORES NA FALA DE 26/03/2022]** "fornos de replicação de vida nesse universo foram criados três Aen, a maon, a Lingan, um nunca funcionou." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Partes I–III (integral) | material do curador |
 | P2024-05-04-R — Prabrajna em Perpérion | U1300–U1450 | STT pré-curado |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0619–U0622 (STT 'Alamaior') | STT pré-curado |
 | Fontes anteriores da Base | B061 | apoio/remissão |
+
 
 
 ## Citações-chave

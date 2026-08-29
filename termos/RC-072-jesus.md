@@ -307,14 +307,22 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2020-04-25 · A RECUSA DO PODER LIDA COMO PRODUTO DA GENÉTICA INSERIDA]** "Ele entrou em guerra com Jesus até um tempo atrás que ele não aceitava o modelo genético que Jesus criou." (U0006) — ⚠️ Quarentena teológica (retenção): entra com rótulo, e o ciclo **não** a projeta sobre nenhuma tradição viva. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **14 dias** a atual fonte oral mais antiga da ficha (`P2020-05-09`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O QUE A FONTE ESTÁ ESCREVENDO SOBRE JAVÉ (radar, 0 obra)]** "Tô traduzindo uns três ou quatro evangelhos gnósticos para poder explicar isso melhor." (U0006) — **D-11:** «três ou quatro evangelhos gnósticos» e o livro escrito com o próprio Javé vão para o **radar de fila**, sem registro bibliográfico.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · JESUS NA FALA DE 26/03/2022]** "o eu humano de Jesus olhou pro mapa pastoral. Ele, ou seja, leu a escritura judaica, disse: «Putz, bem, ele não disse puts, mas pronto, que podia ter dito, porque ele assim, cara, isso aqui sou eu, esse Messias sou eu.»" (U0021) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · A RECUSA DA AGENDA: JESUS DIZ NÃO AO PRÓPRIO ESPÍRITO]** "O homem Jesus, Renato disse não a a agenda do espírito dele, que era o mesmo de Sofia." (U0021); "os meus super poderes para dominar ninguém, para impor a ninguém, para punir ninguém em nome de Javel, mas não vou, eu vou tentar convidar os seres humanos a, mas eu não vou usar os meus superperes para criar um exército de judeus, para expulsar os romanos, criar um império na terra e obrigar todo ser terrac a voltar a obedecer a Javé, porque era isso que Javé queria desde de Adão e Eva." (U0021); "Nesse livro explica a diferença que Jesus ressuscitado, o homem Jesus e Sofia e o espírito de Jesus são é uma consciência fateada." (U0025) — D-5: tese **datada de 26/03/2022**, não definição canônica. A fonte nega o uso de poder e relee o Segundo Advento como investidura recusada — registrar as três aspas juntas para que a recusa não seja lida como recusa da missão.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | B031 | — | obra publicada |
 | P2023-05-13 | seções 3.2, 4.2, 9.4; bloco do "reinar sobre o processo" | palestra/STT pré-curada |
+
 
 
 

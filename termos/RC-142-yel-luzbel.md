@@ -30,3 +30,10 @@
 - **[P2020-04-25 · O QUE A FONTE **NÃO** DIZ SOBRE YEL]** "hoje é o marco zero que surgiu como produto dos desdob os da rebelião de Lúcifer." (U0006) — **Contagem medida**: «Yel» aparece **1** vez no bruto, e o termo composto «Yel Luzbel», **0**. Esta ficha recebe *ampliação de contexto*, não de nome — ver `camada-2.txt` §2.
 
 ---
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · YEL LUZBEL NA FALA DE 26/03/2022]** "A o centro de comando dessas quase 250.000 famílias, que é Sofia e os anjos Aia e Aie, dessas duas famílias que estão em torno de Sofia, disse: «Ó, esse problema aqui é mais sério»." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · O CENTRO DE COMANDO DAS QUASE 250.000 FAMÍLIAS]** "os anjos aia e a batiam magneticamente nas famílias rebeldes porque havia esse tipo de cobrança e eles não sabiam responder." (U0009) — A família Yel/Luzbel aparece aqui como **polo de comando** e não como mito de origem; os anjos Aia/Aie são ditos *magnéticos*, com mais uma grafia degradada do STT.
+
+---

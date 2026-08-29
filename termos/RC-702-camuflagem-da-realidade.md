@@ -68,12 +68,19 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 
 - **[P2023-10-14 · A CAMUFLAGEM COMO CONDIÇÃO DO AFFETO (uso novo, não anterioridade)]** "Então, o nosso olho é estado para um Zoom para que a camuflagem da realidade nos faça pensar isso." (U0033); "Se a gente abrir o corpo de um ser humano ou de qualquer ser vivo dentro Tudo é podridão, só que bem organizada, funcionando maravilhosamente." (U0033) — As fontes desta ficha já são anteriores a 14/10/2023: entra **uso novo**, sem nota de anterioridade.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · CAMUFLAGEM DA REALIDADE NA FALA DE 26/03/2022]** "A infecção que antes existia aqui hoje está totalmente distribuída em todos os ambientes. espirituais da rato cidade e há pouco tempo furou a blindagem, começou a chegar aqui." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **12 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0001–U0018; U0074–U0200; U1210–U1320; U1689–U1699 | aula/palestra STT |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
+
 
 
 ## Citações-chave

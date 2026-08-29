@@ -155,14 +155,21 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[P2021-05-15 · O QUARTO LOGOS DEFINIDO EM UMA LINHA (a 1ª atestação oral da fórmula)]** "A vinda de Sofia tem como objetivo ele assumir o dia da posse dele para acabar com toda essa história e todos convergirem pro comando Sofia, o comando prático e para a coordenação do quarto logos, o programa evolutivo mental e espiritual, porque é a única forma disso aqui ter algum futuro." (U0005)
 - **[P2021-05-15 · A CONDIÇÃO DO FUTURO]** "Hoje a visão que eu tenho na no da minha pequenez é que não há futuro se isso não for coordenado eh em torno dessas duas forças." (U0005)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · QUARTO LOGOS (OLM) NA FALA DE 26/03/2022]** "tinham detectado cerca de 250.000 problemas que eles precisavam criar seres para resolver esses quase 250.000 problemas." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Quarto Logos" |
 | O Quarto Logus (B016) | a preencher | — | pendente (obra primária) |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 
 ## Citações-chave

@@ -16,12 +16,19 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 - **[P2021-05-15 · ⚠️ T-2: A VARIANTE «28.879» (selo temporal, SEM correção do canônico)]** "Se lembra os nossos 28.879 genes, cada um gene desses tem milhares de cons e a loucura, a troca eletroquímica aqui dentro das bases nitrogenadas tem como objetivo produzir uma receita para cada gene desse, no sentido de que aquele gene vai produzir o quê?" (U0003) — **Reancoragem declarada (ciclo P2021-05-15):** o dossiê apontava RC-055/RC-128/RC-238 — engano meu de âncora; o selo foi aplicado nesta ficha, que é a que carrega o número canônico 28.869. Nenhuma alteração do canônico, nenhum outro número do cadastro foi tocado.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · BARALHO GENÉTICO (28.869 GENES) NA FALA DE 26/03/2022]** "Tudo isso está hoje atualizado nos 28.869 genes de cada ser humano, como há 900 milhões de anos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

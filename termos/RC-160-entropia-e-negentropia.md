@@ -50,13 +50,21 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2020-04-25 · TAMAS = ENTROPIA = ENERGIA ESCURA = SELO DE QUE A CRIAÇÃO NÃO DEVERIA TER COMEÇADO]** "energia tamásica é o selo de garantia de que essa criação dia se acaba porque ela não deveria ter sido começado." (U0009) — Identidade tripla afirmada pela fonte; é a definição operacional de entropia **deste** período. Não harmonizar com a formulação dos livros. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O BIG CRUNCH DO UNIVERSO VIZINHO (a física de borda)]** "a expansão virou uma um big crush, voltou a ir pro seu tempo inicial, que promove um tempo negativo." (U0009); "buraco de minhoca e saber interagir com ele e produzir uma nova matéria um tipo novo Bos de Higs que crie uma matéria que até então não existia com uma certa massa que permita você interagir e trabalhar uma uma transmissão de informação que cria um novo corpo e projeta o seu código genético numa época X." (U0009) — ⚠️ Quarentena científica (retenção): cosmologia especulativa contada como fato; entra como dito, sem virar verbete de física.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ENTROPIA E NEGENTROPIA NA FALA DE 26/03/2022]** "nós somos o retrato de Dorian Grey. Oscar Wild tem um romance em que ele conta que o seu personagem Dorian Grey, era o mago, pintou um retrato dele e transferia pro retrato a dose de entropia que deveria estar envelhecendo o seu corpo. Então, quem no lugar do corpo era o retrato que ele pintou de si mesmo. O que é isso? Num sistema universal, a entropia, que é a força que acaba com tudo, o resultado final dela ninguém muda, mas você pode diminuir a influência dela numa área e aumentar noutra." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · ENTROPIA TRANSFERIDA: O RETRATO DE DORIAN GRAY COMO MECÂNICA]** "Nós, os humanos, morremos rápido. A entropia nos ferra logo para deixar os seres demos do universo vizinho viverem. E os biodemos também. E esses seres foram pagando o pato dessa entropia mais rápida." (U0009) — A fonte usa a literatura como modelo **físico** (a entropia vai para o retrato; o retrato é a humanidade). Registrar a comparação como ela é dita, sem transformá-la em alegoria moral.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 14 | pp. 101–104 (aprox.) | capítulo inteiro |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 | p. 37 (aprox.) | "selo de garantia" |
+
 
 
 

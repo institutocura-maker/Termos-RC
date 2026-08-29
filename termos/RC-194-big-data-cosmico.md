@@ -36,12 +36,19 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 
 - **[P2020-04-25 · A GÊNESE DO BIG DATA: OS ANJOS INFORMAM JAVÉ]** "foi aqui que começou a surgir essa questão de big data." (U0006); "uma vez eu conversando com os anjos dele nas confusões dos anos 2009, 10 e 11, eu disse que é que vocês não faz um rastreamento das formas mentais de janela para trás e ver, mas eles não conseguem." (U0006) — A fonte **data** a ideia («foi aqui que começou a surgir essa questão de big data») e a ancora num procedimento: rastreamento de DNA novo comunicado a Javé. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · BIG DATA CÓSMICO NA FALA DE 26/03/2022]** "quando Sofia se situa no meio daquela coisa que parece um quarto mais escuro, ele ali ele está se atualizando com tudo tudo o que aconteceu de nova informação no circuito dessas quase 250.000 famílias." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | O Big Data do Criador (B035) | cap. 2 (O Big Data Cósmico) | amostra (pp. 8–13 do PDF) | conteúdo presente na amostra |
+
 
 
 

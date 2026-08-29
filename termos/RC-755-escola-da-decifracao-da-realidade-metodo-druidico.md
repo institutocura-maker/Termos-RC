@@ -37,14 +37,21 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 
 - **[P2020-04-25 · A ESCOLA DA DECIFRAÇÃO JÁ OPERANDO EM 2020, COM DATAÇÃO PRÓPRIA]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006); "os anjos chegavam para aparecem no contexto dos livros mais antigos dizendo, mas eles os a nossa criatura superior a nós?" (U0006) — A fórmula do «decifrar» vem com contagem (3–4 milhões de anos, substanciada há ~2 milhões) — selo temporal D-10. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ESCOLA DA DECIFRAÇÃO DA REALIDADE NA FALA DE 26/03/2022]** "Hom mais tarde abriu a escola da decifração da realidade lá em ZAM, que é um dos mundos do sistema de capel, quando esses biodenemos estavam tentando resolver os problemas da realidade já detectados." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-06-14 | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
 
 
 

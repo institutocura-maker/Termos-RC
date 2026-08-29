@@ -35,13 +35,20 @@ Com isso:
 - **[P2020-04-25 · A QUEDA COMO INFECÇÃO, NÃO COMO PUNIÇÃO (o que a ficha passa a dizer)]** "A rebelião de Lúcifer não foi porque I Luzbell olhou muito tempo para um abismo e o abismo olhou para ele e deu broca." (U0006); "O vírus é o eu de Jahrado, desagregado." (U0006) — ⚠️ **D-3 aplicada**: a fonte usa mulheres e homoafetivos como *prova* da falha do criador; essa aspa **não** entra aqui — fica na apostila com nota editorial.
 - **[P2020-04-25 · OS QUE VIRARAM TREVAS E O QUE A FONTE RECUSA DIZER]** "a turma da gnose envzada pro lado da perdição e essa turma vai querer se vingar se todo mundo perdoasse o nosso amigo." (U0006)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ANJOS CAÍDOS NA FALA DE 26/03/2022]** "Os anjos clones são robotizados, eles são tão autistas quanto a turma lá de cima. Eles olharam ser Sofia olhou e mais um problema e continuaram a estudar e em algum momento ficou com um vírus na cabeça de Lúcifer de Elos Bell." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | B031 — Painéis Emergentes | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B003 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B005 | a preencher | — | paráfrase (de onde vem a única aresta do cadastro para este código) |
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

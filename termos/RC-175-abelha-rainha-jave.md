@@ -30,12 +30,20 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 
 - **[P2020-04-25 · A GENÉTICA DAS ABELHAS OPERÁRIAS COMO MODELO DE SERVIDÃO]** "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008) — O modelo colmeia lido pela biologia: Javé como rainha e a servidão como **genética inserida**, não como punição moral. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ABELHA-RAINHA (JAVÉ) NA FALA DE 26/03/2022]** "foi copiado do sistema que existia entre Javé, a abelha rainha, e os anjos clones, que o obedecem como se fossem abelhas operárias." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · O MODELO DA COLMEIA COPIADO DO QUE EXISTIA ENTRE JAVÉ E OS CLONES]** "Que diabos é ser colmeico? A abelha rainha e E as abelhas operárias formam um sistema de comunicação coletiva em que o genoma da abelha rainha da ordem e as abelhas operárias existem apenas para servir a abelha rainha e nem tem noção de individualização." (U0008); "Uma abelha operária não tem conveniência, não tem querer, não tem que achar ruim ou bom. É um circuito fechado." (U0008) — Definição de regime, com a nota de que a operária não tem conveniência — a Base ganha a fórmula explícita, que em 2020 só estava implícita.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

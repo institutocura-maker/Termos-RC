@@ -29,11 +29,18 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 
 - **[P2023-10-14 · O BEM DEFINIDO PELA CLASSE (a formulação mais nua que a Base tem)]** "Então, a maior noção de honra que um ser híbrido tinha era cumprir com o dharma da sua varna, ou seja, da sua casta." (U0020); "Um xátria, ou seja, um guerreiro, tinha que defender o bem e o bem era definido pela caixa dos braes." (U0020) — 🆕 anterioridade: P2024-11-30 —  ⚠️ «caixa dos braes» = grafia do bruto para, provavelmente, «classe dos brâmanes»; nada emendado.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · CASTAS TRIMURTIANAS NA FALA DE 26/03/2022]** "a mitologia grega chamando de Zeus, os Olimpiados. Toda essa organização aqui existe no universo vizinho." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | O Dharma e as Castas Hindus (B023) | caps. 4, 7 | pp. 40–60, 85–100 (aprox.) | capítulo dedicado |
+
 
 
 ## Citações-chave

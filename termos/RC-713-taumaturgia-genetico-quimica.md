@@ -54,13 +54,20 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 - **[P2020-04-25 · OXITOCINA, VIBRAÇÃO E A MONTAGEM DO EU DE JAVÉ]** "mergulhar na condição animal para poder encontrar brecha no psiquismo dele para adequar a produção de hormônios que hoje ele não tem a menor condição, tipo a oxitocina, o hormônio do amor, da confiança." (U0006) — ⚠️ Quarentena clínica (retenção): nada aqui é recomendação de saúde; a aspa documenta a **tese do material psíquico**. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A HOSPEDAGEM SINÁPTICA COMO TÉCNICA]** "sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006); "hospedagem corporal, precisa desenvolver um psiquismo a partir de um cérebro onde ele possa hospedar esse eu dele na sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · TAUMATURGIA GENÉTICO-QUÍMICA NA FALA DE 26/03/2022]** "eu solto uma sonda lá no reino de Marcela e mentalmente aciono a sonda lá paraa sonda esculhambar com os vírus do corpo que estão no corpo de Marcelo. Aí Marcelo solta uma sonda na minha casa, se concentra, essa sonda checa tudo que é vírus e bactéria que tá por ali. E a eram guerras assim tecnentais. A guerra mental você tira som é a mesma coisa." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0737–U0770 | aula/palestra STT |
+
 
 
 

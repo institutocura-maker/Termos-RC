@@ -61,13 +61,21 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 
 - **[P2020-04-25 · A SÉRIE DE 9-10 LIVROS ANUNCIADA — E O QUE O 1º VOLUME DEVE]** "A Rebelião dos Elétrons, ele é só o o primeiro de uma série de 9, 10 livros." (U0006); "anos 96, 97, 98, no ano eh 2002, 3, eu tive contato com Valeno lá na Inglaterra, coisa e tal, veio toda uma chorrada de informações, surgiu 12 anos depois ele, rapaz, escreva aquele livro." (U0008) — **D-11/D-12:** anúncio editorial **não** vira obra nem ciclo; o título dito pela fonte fica como registro datado. (A referência ao 2º volume incidia em vocabulário vedado por **D-3** — fica na apostila, não na ficha.) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.2 anos** a atual fonte oral mais antiga da ficha (`P2023-06-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · A REBELIÃO DOS ELÉTRONS NA FALA DE 26/03/2022]** "Ao longo dos últimos 500.000 anos ocorreram guerras entre essas estirpes aqui tecnomentais, guerras mentais e também as chamadas guerras destrutivas. Esses dois tipos de guerras não matavam ninguém, não destruíam ninguém." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · GUERRAS DE 500.000 ANOS: QUEM SE DESTRÓI E QUEM SÓ SE BATE]** "nos 400.000 anos para cá, 300.000 anos, eles começaram a se destruir uns aos outros, ainda que sem maldade, ainda que sem mais são, é um formigueiro brigando com o outro. Em algum momento formigas começam a morrer, mas não que um formigueiro tenha planejado isso." (U0009); "começou a acontecer o quê? Guerras entre os seres biodemos." (U0008) — Três marcos de duração na mesma linha (500.000 / 400.000 / 300.000 anos) — reproduzidos como ditos, com o intervalo aberto (D-10).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Rebelião dos Elétrons (B041) | caps. 17, 21, 22 | pp. 130–150, 165–184 (aprox.) | tema-título |
 | A Epopeia dos Agentes da Vida (B024) | cap. 13 (Mistério dos Elétrons) | — | apoio |
+
 
 
 

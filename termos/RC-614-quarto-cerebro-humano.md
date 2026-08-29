@@ -44,12 +44,19 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 
 - **[P2020-04-25 · O SEXTO SENTIDO DA COGNIÇÃO, SEGUNDO A FONTE DE 2020]** "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006) · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · QUARTO CÉREBRO HUMANO NA FALA DE 26/03/2022]** "é que surgiu o cérebro bilatério, hemisfério, dois hemisférios que permite a racionalidade humana ter emoções, ter isso e aquilo." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0534–U0538 | STT pré-curado e validado |
+
 
 
 

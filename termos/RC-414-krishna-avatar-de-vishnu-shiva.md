@@ -123,12 +123,19 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **[P2023-10-14 · KRISHNA COMO INTRODUTOR DECLARADO DO DHARMA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020); "Arjuna quando aqui estive comivaco lá atrás eu ensinei o, ensinei o conceito do dharma, ou seja, o conceito do dharma foi o que educou as gerações." (U0020)
 - **[P2023-10-14 · O BEM E O MAL NO CAMPO DE BATALHA (Arjuna)]** "Eles representam o mal e você aqui representa o bem e o bem tem que destruir o mal." (U0020) — ⚠️ registrar **como fala da fonte sobre o Gita**; não confundir com a fórmula canônica da Base sobre o bem que não destrói o mal (ver RC-422/RC-742).
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · KRISHNA NA FALA DE 26/03/2022]** "Viaza não é um nome." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2023-04-30`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco Krishna × Trimurti × Moros | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

@@ -73,12 +73,19 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[P2023-10-14 · A MEMÓRIA QUÂNTICA COMO IMPEDIMENTO DO JUIZ]** "Os próprios fatos da obra de Javé marcado na memória quântica dos elétrons inviabilizaram a conduta de Javé como juiz." (U0033)
 - **[P2023-10-14 · O BURACO NEGRO DE MÃO ÚNICA (a física oral da fonte)]** "Então, buraco negro seria o que leva notícia, notícia daqui para lá, mas não traz notícia de lá para cá." (U0041); "Ao ser atraído pronto de evento de um buraco negro, aquela informação se transforma em 2D, entra no buraco negro e deixa de existir." (U0041) — ⭐⭐⭐ A «cópia da informação aqui se mantém» é o ponto de contato exato com a tese desta ficha; a grafia do bruto é «pronto de evento».
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 26/03/2022]** "diz o nome inclusive do demo que desse universo vizinho tenta manipular todas as espécies biológicas que surgiram e se organizaram a partir do primeiro vírus que foi aqui introjetado." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **15 meses** a atual fonte oral mais antiga da ficha (`P2023-06-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 13 (Mistério dos Elétrons) | pp. 97–100 (aprox.) | capítulo inteiro |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 14 | pp. 101–104 | aprofundamento |
+
 
 
 ## Citações-chave

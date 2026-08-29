@@ -86,15 +86,22 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 - **[P2020-04-25 · O 8º MÓDULO **NÃO** MINISTRADO: EU SÓ VOU DAR CINCO, TALVEZ SEIS]** "eu só vou dar cinco, talvez seis, no máximo, certo, mas nunca oito." (U0006); "Mentalma, eu fui percebendo quão natural é essa coisa de um espírito que tá lá na esfera X, ele pensa em você, as duas mentes entram em sintonia, ainda que o seu psiquismo de Rogério esteja vendo um jogo de futebol." (U0006) — A estrutura 6+1+1 tem antecedente **datado** em 2020. ⚠️ Medição: «Mentalma» = **1** ocorrência no bruto — esta ficha não pode claims maiores que a fonte. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A INTERCOMUNICAÇÃO NÃO LOCAL COMO O MÓDULO RETIDO]** "O budismo diz que além desses cinco sentidos, nós temos um sexto." (U0006); "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · MENTALMA NA FALA DE 26/03/2022]** "O mentalma que eu produzi hoje, ele não era para ser público." (U0049) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | — | — | menção (fonte original) |
 | Mentalma I (B074) | Advertência; Cap. 1–2 | pp. 11–12, 26 (PDF) | definição do método |
 | Mentalma II (B075) | Cap. 1 | — | aprofundamento |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
+
 
 
 ## Citações-chave

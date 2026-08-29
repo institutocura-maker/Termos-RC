@@ -60,6 +60,35 @@ for rel in ARQS:
                         continue
                     err_B.append(f"{rel}: não encontrado no bruto → «{p[:110]}»")
 
+# ---------- portão E: o endereço (Uxxxx) colado depois de cada aspa ----------
+RAWF = open(os.path.join(CICLO, "original.txt"), encoding="utf-8").read().replace("\r\n", "\n")
+OFFS = [0]
+for _l in RAWF.split("\n"):
+    OFFS.append(OFFS[-1] + len(_l) + 1)
+
+
+def uaddr_of(pos):
+    import bisect
+    return f"U{bisect.bisect_right(OFFS, pos):04d}"
+
+
+err_E, n_E = [], 0
+for rel in ARQS:
+    if rel == "apostila.md":
+        continue
+    txt = open(os.path.join(CICLO, rel), encoding="utf-8").read()
+    for m in re.finditer(r"«([^»\n]{15,})»\s*[·]?\s*\((U\d{4})(?:[;,][^)]{0,120})?\)", txt):
+        dentro = " ".join(m.group(1).split())
+        claiming = m.group(2)
+        rx = re.compile(r"\s+".join(re.escape(w) for w in dentro.split() if w))
+        hits = {uaddr_of(x.start()) for x in rx.finditer(RAWF)}
+        n_E += 1
+        if hits and claiming not in hits:
+            err_E.append(f"{rel}: «{dentro[:48]}…» declarado em {claiming}, o bruto diz {sorted(hits)}")
+print(f"portão E (endereços das aspas): {n_E} conferidos · {len(err_E)} divergência(s)")
+for e in err_E[:20]:
+    print("  ⚠️", e)
+
 print(f"arquivos testados: {len(ARQS)} · fragmentos longos testados: {n_frag} · aspas conferidas no 2º corpus (devolutiva): {n_dev}")
 print(f"portão A (paridade de aspas): {len(err_A)} problema(s)")
 for e in err_A[:12]:
@@ -67,6 +96,6 @@ for e in err_A[:12]:
 print(f"portão B (verbatim): {len(err_B)} divergência(s)")
 for e in err_B[:15]:
     print("  ✗", e)
-ok = not err_A and not err_B
+ok = not err_A and not err_B and not err_E
 print("\nRESULTADO:", "CITAÇÕES FIEL À FONTE ✓" if ok else "REVISAR ⚠️")
 sys.exit(0 if ok else 1)

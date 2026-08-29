@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Reconstrução progressiva dos restos fragmentados de Prabrajna/Javé por meio de elétrons, antielétrons, formas microbianas e evolução das espécies.
@@ -39,10 +39,17 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 - **[P2023-04-29 · O EU COLMÉICO — a expansão máxima]** "TODOS OS CLONES CRIADOS POR JAVÉ SE RELACIONAM COM JAVÉ SENDO JAVÉ A ABELHA RAINHA E O RESTO ABELHA OPERÁRIA — ENTÃO SÃO EUS COLMÉICOS... **ESSES ANJOS FORAM DESPERTANDO UM OU OUTRO, MAS CONTINUA A SER UM EU COLMÉICO PORQUE ELES NÃO SABEM VIVER SEM ESTAR SE SENTINDO SERVINDO A JAVÉ. É UMA DOENÇA NELES. Se Javé um dia morrer efetivamente, se não tiver mais nem uma casca de unha de Javé para eles venerarem, ESSES SERES MEIO QUE IMPLODEM porque não tem mais sentido de existência**"; "ESSE EU COLMÉICO FOI O PRIMEIRO TIPO DE EU TRANSFERIDO PARA O MUNDO BIOLÓGICO. Na hora em que nós vemos cupins que tem um C alfa e os cupins obedecem, formiga... abelha... **AS PRIMEIRAS CIVILIZAÇÕES DO NOSSO UNIVERSO FÍSICO SÃO EDIFICADAS A PARTIR DE SERES INSETOIDES**... essas civilizações... TÊM 500 MUNDOS... são as que têm construções mais fantásticas... **SÃO ESCRAVOS INCONSCIENTES**"; "nesse universo, SÓ A CONDIÇÃO HUMANA É TOTALMENTE LIVRE do eu colméico — [falando] desse universo e do universo vizinho"; os anunnakis "são mais ou menos livres"; a China como "um partido [col]méico, 15 pessoas decidem" ⚠️ política; **A DEMÊNCIA DOS DEMOS**: "o demo sem dente ai ai ai... ELES NÃO JUNTAM UMA SEGUNDA-FEIRA COM A TERÇA-FEIRA. Uma causa com efeito. A demência deles não permite... **TÊMIS, UMA TITÃ... FOI A PRIMEIRA QUE COMEÇOU A JUNTAR** [causa e efeito] e a dizer: 'ei, pessoal, ó, ELES ESTÃO EVOLUINDO NESSE MISTÉRIO agora'".
 - 0 códigos novos (O-3). Quarentenas: teológica, política.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · RESSURREIÇÃO DO CADÁVER DO CRIADOR NA FALA DE 26/03/2022]** "aqui surgiu um código podre que foi o resto do poder mental desse ser que criou aqui." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **12 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0983–U1118; U1165–U1195 | PDF/transcrição pré-curada |
+
 
 ## Citações-chave
 > “A ressurreição [...] passa pelos elétrons [...] se reconstruírem nos moldes do antigo corpo.” — P2024-05-04

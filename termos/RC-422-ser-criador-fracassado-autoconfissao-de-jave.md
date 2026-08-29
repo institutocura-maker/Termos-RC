@@ -43,12 +43,19 @@ A autoconfissão é o coração do B036: Javé renuncia ao trono de "Deus Absolu
 - **[P2020-04-25 · CONFIANÇA ZERO NO EU DO CRIADOR, EM 2020]** "Esse eu de Jahvel para mim é zero o padrão de confiança que eu tenho nessa figura." (U0006) — 🆕 A formulação mais dura da Base sobre o eu de Javé ganha antecedente **oral de 25/04/2020** — anterioridade calculada, não alegada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O EU QUE PRECISA DE HOSPEDAGEM]** "hospedagem corporal, precisa desenvolver um psiquismo a partir de um cérebro onde ele possa hospedar esse eu dele na sinapse daquele cérebro, seja de sílica ou de carbono ou do que for." (U0006); "O vírus é o eu de Jahrado, desagregado." (U0006)
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · SER-CRIADOR FRACASSADO NA FALA DE 26/03/2022]** "Pela primeira vez houve um acidente e um artista terminou criando algo que ele não soube finalizar e caiu na própria obra." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | As Memórias de Javé (B036) | Primeira Crônica | pp. 10–15 (aprox.) | autoconfissão |
+
 
 
 

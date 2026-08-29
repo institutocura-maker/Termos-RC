@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.2 Coletivos criadores |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Família/espécie primordial do Paraíso Original, anterior à diferenciação em gêneros e espécies dos níveis Operacional e Laboratorial.
@@ -29,10 +29,17 @@ Seus movimentos de consciência teriam gerado porções da incompletude e, poste
 - **[P2023-04-01b · A OGDOAD DE HERMÓPOLIS — A CONFIRMAÇÃO ESTRUTURAL]** "uma dessas mitologias, A DE HERMÓPOLIS, É A ÚNICA MITOLOGIA QUE FALA EM ALGO CHAMADO OGDOAD. O que é que significa ogdoad? OITO DEUSES PRIMORDIAIS... tudo que existe no âmbito do que se pode observar aqui da Terra, seja esse universo vizinho ou nosso, ESSES OITO SERES OU DEUSES ORIGINAIS PRIMORDIAIS CRIARAM TUDO, criaram todos os processos que estão em curso"; **A ESTRUTURA 6+2**: "a Trimurti [o criador Vno/Brahma, o mantenedor, o destruidor ou reciclador Chiva]... os hindus afirmam que num segundo momento uma outra tríade... TRIDEVE, que corresponderia aos seres [Lakshmi], PARVATI e SARASVATI... MAS ESSES SEIS SERES EXISTEM. E A OGDOAD FALA NUMA OUTRA DUPLA DE SERES PRIMORDIAIS QUE AÍ NINGUÉM CONHECE, NINGUÉM SABE EXPLICAR, MAS QUE SERIAM DOIS SERES QUE... HAVIAM MERGULHADO DENTRO DA OBRA PROBLEMÁTICA PARA AJUDAR A ESSES SEIS"; **O CONTEXTO EGÍPCIO**: "O EGITO FOI O ÚNICO LUGAR DA TERRA EM QUE HOUVE CONFUSÃO entre essas duas componentes [os biológicos deste universo × os metamorfoseáveis do vizinho]. E por isso as histórias contadas no Egito tornaram-se de difícil entendimento... ELA TEM QUATRO MITOLOGIAS [Hermópolis, Heliópolis, Tebas e Mênfis], porque cada uma delas foi gerada num tempo referente a um tipo de poder... OU ERA DOS SUMÉRIOS OU ANUNAKES, OU ERA DE UMA CERTA LOCA OU GÊNO desse universo vizinho, OU ERAM OS DOIS EM COMBATES, OU EM ALIANÇA".
 - 0 códigos novos (O-3). Quarentena: a leitura do Egito/mitologias como registro narrativo da RC.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · SERES ORIGINAIS DO PARAÍSO NA FALA DE 26/03/2022]** "Uma criança que na lógica humana é a pureza que a gente pode vislumbrar, ela não entende os problemas dos adultos." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0022–U0026; U0055–U0063; U0072–U0086 | STT pré-curado e validado |
+
 
 ## Citações-chave
 > “No Paraíso não existiam duas classes de seres. Sempre foi somente uma.” — P2021-12-04, U0022–U0026; U0055–U0063; U0072–U0086

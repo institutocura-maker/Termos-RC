@@ -126,12 +126,19 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[P2020-04-25 · CONTROLE, SERVIDÃO E O QUE A BIODEMIZAÇÃO ALTEROU]** "travas genéticas de controle que eles haviam colocado." (U0006); "a genética das abelhas operárias, ele está, a genética está escrita de uma forma tal que uma abelha operária sirva tão somente para servir a abelha rainha." (U0008) · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · DNA INSUBMISSO NA FALA DE 26/03/2022]** "cujo genoma está bichado, infectado, pela necessidade de sobreviver a qualquer custo, pela necessidade de prevalecer o forte sobre o fraco." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-11-09 | U1218–U1270 | palestra/STT |
+
 
 
 

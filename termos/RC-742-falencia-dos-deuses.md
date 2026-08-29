@@ -76,3 +76,10 @@
 - **[P2020-04-25 · A FÓRMULA DE GRAU DE TESTEMUNHO ACOMPANHA ESTA FICHA]** "pelo que eu julgo, entre aspas, saber, pelo que o espírito que me anima pensa que sabe há muito tempo, isso é real." (U0006) — Obrigatória onde esta fonte sustentar afirmação sobre o estado do criador (D-4).
 
 ---
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · FALÊNCIA DOS DEUSES NA FALA DE 26/03/2022]** "Os caras conseguem fazer nada." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2022-03-26 · A FALÊNCIA DECLARADA: OS DEUSES NÃO SABEM O QUE FAZER]** "Só que fali o sistema. Nós nos corrompemos a tal ponto que não há um que não esteja infectado. Não são os outros, somos nós, cada um de nós." (U0005); "Quem é que vale mais, cara? Quem tem mérito espiritual na história? Alguém que já foi criado perfeito e é perfeito porque é perfeitinho por natureza ou alguém que nasce no caos fazendo favor divino e consegue ainda assim se soerguer e tenta ser útil." (U0029) — A frase de fechamento (*quem medita, quem é espiritual…*) é a que a fonte usa para inverter a hierarquia: o divino precisa do humano. Registrar que a falência é **de função**, não de existência — a mesma fala afirma os deuses o tempo todo.
+
+---

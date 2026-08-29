@@ -67,13 +67,20 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[P2020-04-25 · A TERRA COMO **ÚNICO** PLANETA REBELDE]** "deixou a Terra como o único planeta rebelde." (U0006) — ⚠️ A expressão «isolamento cósmico» tem **0** ocorrências nesta fonte (**medição**, não impressão): a ficha recebe o *conceito com dado próprio*, não a etiqueta. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O QG TELETRANSPORTADO E O PRISIONEIRO ISOLADO (64 mil anos)]** "Há cerca de 64.000 anos, o quartel general da rebelião se teletransportou para alguma dimensão, ficou lá prisioneiro isolado." (U0006) — **Inédito na Base**: nem B057 nem as fichas do tema trazem esse episódio. Entra **datado**, sem harmonizar com os 98 mil da obra.
 
+
+## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
+
+- **[P2022-03-26 · ISOLAMENTO CÓSMICO NA FALA DE 26/03/2022]** "Na época ficaram isolados 19 mundos. A Terra era só um desses mundos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 137 (aprox.) | verbete "Isolamento Cósmico" |
 | Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
+
 
 
 
