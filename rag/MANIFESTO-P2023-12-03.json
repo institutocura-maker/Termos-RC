@@ -1,0 +1,185 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "P2023-12-03",
+ "politica": "ensaio do ciclo zero: exportou candidatas sem carimbo",
+ "fonte": "apostilas/CONCLUIDAS/2023-12-03_a_rebeliao_de_lucifer_ainda_por_ser_finalizada/original.txt",
+ "sha256_fonte": "41b3f914befb00c1269d34db1a6d53076038e8b5b400b39561e8f32efc4e1021",
+ "cards_total": 25,
+ "cards": [
+  {
+   "id": "PER-2023-12-03-001",
+   "arquivo": "rag/perolas/PER-2023-12-03-001.md",
+   "sha256": "8bf673d2b3ae2da4ae21dded885f74cc109dd716e5b7f111f5a165b131ab0434",
+   "termo": "RC-546",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-002",
+   "arquivo": "rag/perolas/PER-2023-12-03-002.md",
+   "sha256": "a455be6c81df463a7be8281f44eba4e52b7d3271371191634f6915228b3f03b4",
+   "termo": "RC-163",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-003",
+   "arquivo": "rag/perolas/PER-2023-12-03-003.md",
+   "sha256": "a511dae35410a1073efeb387d683c7d3a5be9bd82923981f792b84cbbbed6c73",
+   "termo": "RC-306",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-004",
+   "arquivo": "rag/perolas/PER-2023-12-03-004.md",
+   "sha256": "1c96a6fb8ff81cdefa0a411c6d7aa2c556e1a82cf02f9a836e3e71fd38cd3dfb",
+   "termo": "RC-315",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-005",
+   "arquivo": "rag/perolas/PER-2023-12-03-005.md",
+   "sha256": "9a8e34e459416d44bc4cf32a52651e8408e362a1360edeef822461e93e20e024",
+   "termo": "RC-034",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-006",
+   "arquivo": "rag/perolas/PER-2023-12-03-006.md",
+   "sha256": "6b1f8e9785acf9621749735e340acd896e1718b45e3d515e21d5b350f6acf0e0",
+   "termo": "RC-060",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-007",
+   "arquivo": "rag/perolas/PER-2023-12-03-007.md",
+   "sha256": "207817283771fdf0d2d355950b0c24fefed4c65ee24713a94d097ceb19035bdb",
+   "termo": "RC-109",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-008",
+   "arquivo": "rag/perolas/PER-2023-12-03-008.md",
+   "sha256": "f5b215d385d28863a1aeb1f50636e63b3663c85720876576759f8b61e27dd4c6",
+   "termo": "RC-136",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-009",
+   "arquivo": "rag/perolas/PER-2023-12-03-009.md",
+   "sha256": "e102d72709e5da25e214a4cb85e486cea2ddc6d06e0fa921762111ff00a157be",
+   "termo": "RC-186",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-010",
+   "arquivo": "rag/perolas/PER-2023-12-03-010.md",
+   "sha256": "8185533abeef177c155687a9d91add78159708e3a761ac4e219c643cc7a0d33d",
+   "termo": "RC-387",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-011",
+   "arquivo": "rag/perolas/PER-2023-12-03-011.md",
+   "sha256": "cd2bf92baeef5ce4832d91815918a9e3ca8e58c3552300dedb7ee5b99168e774",
+   "termo": "RC-444",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-012",
+   "arquivo": "rag/perolas/PER-2023-12-03-012.md",
+   "sha256": "13f83de359603caa5f15287e3514e010d764670321255f25cf6578942cf7a021",
+   "termo": "RC-508",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-013",
+   "arquivo": "rag/perolas/PER-2023-12-03-013.md",
+   "sha256": "4aa4ef91166c9f74662645ed787fd468b981dec7bb78d42791207f9aadad7709",
+   "termo": "RC-528",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-014",
+   "arquivo": "rag/perolas/PER-2023-12-03-014.md",
+   "sha256": "23a7f05cc75ea2fde18c4916451e5bfa532088c2a698b52446c605769a25fe72",
+   "termo": "RC-002",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-015",
+   "arquivo": "rag/perolas/PER-2023-12-03-015.md",
+   "sha256": "fc6bf18aec2d546d5b413ac1ef79f3287bbd34c0361760a762b7bd88af9773f2",
+   "termo": "RC-018",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-016",
+   "arquivo": "rag/perolas/PER-2023-12-03-016.md",
+   "sha256": "aa454e46f02010259e906f45c3c6b4c9742eaabaec75f4c021a5d6814a3c5fcd",
+   "termo": "RC-024",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-017",
+   "arquivo": "rag/perolas/PER-2023-12-03-017.md",
+   "sha256": "3fe06bc88391abf72b9781f967a34970bbbf5010a3d92ba968f79ec6ad1687dc",
+   "termo": "RC-344",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-018",
+   "arquivo": "rag/perolas/PER-2023-12-03-018.md",
+   "sha256": "92af4191648913431b7e9841d558af2af1efdb281c8ee32f7ba73cf201890626",
+   "termo": "RC-541",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-019",
+   "arquivo": "rag/perolas/PER-2023-12-03-019.md",
+   "sha256": "fef76efef408e0694b3eb5b3cefd2910617c6301b48b1444b6be4480fed03314",
+   "termo": "RC-039",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-020",
+   "arquivo": "rag/perolas/PER-2023-12-03-020.md",
+   "sha256": "aeb048b84e597a0033b6f516ceb51f95c6226e5432dfd266576786bb1e4f35f3",
+   "termo": "RC-040",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-021",
+   "arquivo": "rag/perolas/PER-2023-12-03-021.md",
+   "sha256": "f8e7c0b8c98b13eb4af90cb3ad7df240fdb7c8fc393f820b90ad8327e3619297",
+   "termo": "RC-078",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-022",
+   "arquivo": "rag/perolas/PER-2023-12-03-022.md",
+   "sha256": "d9313a2e4d7f9ba21995a06af6f7c3878bd9230fdbcfe1e571319fab6f9b5656",
+   "termo": "RC-094",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-023",
+   "arquivo": "rag/perolas/PER-2023-12-03-023.md",
+   "sha256": "fa0c3547b3f2daea16fc0c6eab68716e39895ff4315d4ff111a61646bc5b9a7f",
+   "termo": "RC-161",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-024",
+   "arquivo": "rag/perolas/PER-2023-12-03-024.md",
+   "sha256": "b73b9cf8989ac9b5a7bbab025e3c6b2161f077bdc7777c0071f5bb60b9e29997",
+   "termo": "RC-186",
+   "status": "candidata"
+  },
+  {
+   "id": "PER-2023-12-03-025",
+   "arquivo": "rag/perolas/PER-2023-12-03-025.md",
+   "sha256": "a59126aa43758415c0aaae3a21ababc5cc259a860f906bcbbf695a78d492b87a",
+   "termo": "RC-241",
+   "status": "candidata"
+  }
+ ]
+}

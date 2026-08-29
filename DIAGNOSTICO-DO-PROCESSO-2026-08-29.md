@@ -275,6 +275,16 @@ Se ao fim de um ciclo piloto com o processo reformado a linha **cobertura** ou a
 
 ---
 
+## 11. O desfecho, na mesma data: despacho, motor, e o ciclo zero medido
+
+O despacho veio no mesmo dia e autorizou a reforma nos termos do §10, com quatro atos (teto suspenso com cadência · portão de aprovação da pérola · livro-razão de âncoras obrigatório · migração só das 6 ordens órfãs) e a reabertura de `RELACOES`. O registro normativo vigente está em `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md`; o instrumento em `ferramentas/motor.py`; a prova em `ciclos/P2023-12-03/RELATORIO-CICLO-LEVE.md`.
+
+**As três premissas que este documento pôs à prova, agora com número:** (1) *escrever é o gargalo, não ler* — confirmado com folga: o ciclo zero escreveu **140.346 B** contra os **1.133.595 B** do mesmo ciclo no rite pesado, **8,1× menos**, e o ganho cresce a cada ciclo porque o instrumento não é mais reescrito (0 linhas de `.py` por ciclo contra os 13 scripts de `P2023-12-03`); (2) *o portão de verbatim é a única defesa que sobra quando a apostila sai* — confirmado em ambos os sentidos: o motor achou exatamente as 147 citações e, cobrando a mesma régua do pacote, descobriu **uma má-citação real no material engavetado** («coragem nem saco» contra o bruto `nem coragem, nem saco de fazer`) e **uma aspa de glosa que fingia citação** (`RC-189`) — as duas emendadas com carimbo, sem tocar o bruto; (3) *o essencial a preservar cabe em quatro portões* — confirmado, mas com ressalva medida: os portões precisam medir **delta** contra o commit-base, porque o portão D pesado, que fixa estado absoluto, hoje marca `466 ≠ 460` e `465 ≠ 459` em todo ciclo posterior. Um instrumento que apodrece a cada uso vira ruído que o Curador paga.
+
+**O que a reforma custou, declarado:** catorze consertos no instrumento durante o ciclo zero (parser de bloco, fronteira de seção, caminhos não-ASCII do `git`, contagem de `RELACOES` por regex, dois estilos de aspa no cadastro, idempotência da virada, aspa de glosa, motivo de recusa, spans × códigos) — cada um produzindo número plausível e errado se ficasse quieto. O selftest com as cinco anomalias plantadas (âncora inexistente, âncora ambígua, byte de controle de DOCX, paráfrase vestida de citação, cedilha na normalização) ficou em **5/5** em todas as passadas; ele é a razão de o motor poder ser escrito de uma vez e confiado depois.
+
+---
+
 ### Apêndice A — arquivos deste diagnóstico
 
 | arquivo | o que é |
@@ -286,4 +296,4 @@ Se ao fim de um ciclo piloto com o processo reformado a linha **cobertura** ou a
 
 Entre o fechamento do BLOCO B e a escrita deste documento o sandbox **reverteu o clone** (o `HEAD` voltou a `8eef2d9`, o ponto de ramificação, com o reflog mostrando `clone` + `checkout` novo). Os três commits do ciclo estavam salvos na branch remota e foram recuperados com `git fetch` + `git reset --hard FETCH_HEAD`; a branch está de novo em `f0baedc` (BLOCO B) com `932539a` (BLOCO A) e `3d3b8a0` (Etapa 1) por baixo. Depois da recuperação, as verificações reexecutaram verdes: `OK: 777 termos, 1856 relações — dados válidos.`, os quatro portões do ciclo sem divergência, e `original.txt` com o SHA do ingresso. **Nenhum produto foi perdido; os dois arquivos deste diagnóstico foram reescritos** porque o `reset` levou o que ainda estava no índice.
 
-*Escrito por AGENTE 14 em 2026-08-29, ao fechar o ciclo `P2023-12-03`, sob a premissa de que nenhuma linha deste documento autoriza alteração de processo. Alteração de processo sem despacho não é agilidade: é iniciativa própria — e a casa tem nome para isso.*
+*Escrito por AGENTE 14 em 2026-08-29, ao fechar o ciclo `P2023-12-03`, sob a premissa de que nenhuma linha deste documento autoriza alteração de processo. Alteração de processo sem despacho não é agilidade: é iniciativa própria — e a casa tem nome para isso.* **Fecho do mesmo dia:** a premissa foi honrada — o despacho chegou antes de qualquer linha do motor ser escrita, a reforma foi implementada nos termos dele, e o ciclo zero fechou verde (§11).

@@ -1,0 +1,49 @@
+# Radiatas — RC-093
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | Seres & Entidades |
+| **Subcategoria** | 1.7 Híbridos / Seres de transição |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-08-29 |
+
+## Definição Sintética
+
+**Radiatas** é, no cadastro, a classe de seres cuja organização é tomada como radial (Seres & Entidades / 1.7). A Base a mantém como classe, não como diagnóstico. A fonte oral de 03/12/2023 usa o adjetivo numa frase negativa — o efeito dito é que certa função não opera nesse modelo —, e a ficha registra o uso com endereço. O confronto com as fichas de cérebro (`RC-631`, `RC-632`) fica declarado; nenhuma delas foi editada por este ciclo.
+
+## Contexto / Origem
+
+**Materialização (não é criação).** `RC-093` vivia só no cadastro: linha em `ferramentas/dados_termos.py`, `ficha=False`, sem arquivo em `termos/`. A virada foi autorizada pelo despacho do Curador de 29/08/2026, na linha que trata das ordens nomeadas sem arquivo, e executada pelo Motor Único em `ciclos/P2023-12-03/`.
+
+Com isso:
+
+* a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
+- o cadastro lista 5 código(s) em `relacionados`: 1 com aresta correspondente em `RELACOES` e 2 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
+- as fontes já registradas no cadastro são `B031`, `P2024-05-04`, `P2025-02-16`, `P2024-04-13`, `P2021-05-15`, `P2020-04-25`, `P2023-12-03`.
+
+**Origem do conteúdo da ampliação:** palestra `P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada` (03/12/2023, na sala). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
+
+## Observações sobre o Estado da Malha
+
+* **[REVISAR] — adjetivo, não diagnóstico.** A fonte nega o funcionamento de certa função nesse modelo; isso não é lido como afirmação médica da Base. O par com `RC-035` é de oposição de modelos, e a oposição não virou aresta.
+* D-7 sem código novo: a obsolescência anatômica não ganhou verbete próprio, e este não foi reescrito para acomodá-la.
+* **Trava aplicável**: D-7 · D-4 · veto de trânsito por nomear classe de seres.
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · RADIATAS NA FALA DE 03/12/2023]** «no cérebro radiata dele não funciona.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+## Fontes
+| Obra (sigla) | Título | Página | Tipo |
+|---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
+| B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
+
+## Termos Relacionados
+| Termo | Código | Estado na malha |
+|---|---|---|
+| Bilatérios | RC-035 | **sem aresta** em `RELACOES`; arquivo existe |
+| Val (Família Val) | RC-109 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Yel (Família Yel) | RC-136 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
+| Cérebro Radiata | RC-631 | aresta pré-existente; arquivo existe |

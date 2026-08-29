@@ -139,9 +139,10 @@ Onze correções, **todas no instrumento**, nenhuma no produto — que é o modo
 
 **Radar datado (D-11 — 0 obra criada, 0 linha de catálogo).** Quatro promessas da própria fonte, todas de
 03/12/2023: o livro `Projeto Tal` («se tempo de vida eu tiver, ainda vai sair um livro com esse nome»); a palestra
-sobre a gênese da hibridagem, que a fonte diz nunca ter tido «coragem nem saco» de fazer e que exigiria várias
+sobre a gênese da hibridagem, que a fonte diz nunca ter tido «nem coragem, nem saco de fazer», e que exigiria várias
 preliminares; a explicação da diferença *subjacente/adjacente*; e o **terceiro fator** que parou o expurgo, retido
-pela própria fonte. Se alguma dessas peças chegar, os vínculos já estão na malha (`RC-091`, `RC-068`, `RC-613`,
+pela própria fonte. (Emenda declarada pelo ciclo zero da esteira leve, 29/08/2026: a aspa desta seção suprimia o `nem` inicial e a vírgula — reposta byte a byte contra o `original.txt`.)
+Se alguma dessas peças chegar, os vínculos já estão na malha (`RC-091`, `RC-068`, `RC-613`,
 `RC-344`).
 
 **Prazo vencido, sem harmonização (D-13).** A fonte fixou a janela do expurgo em «2049, 50, 51, 52» e o marco em

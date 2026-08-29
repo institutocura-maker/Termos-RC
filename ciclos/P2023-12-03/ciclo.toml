@@ -1,0 +1,97 @@
+# ciclo.toml — CICLO ZERO da esteira leve
+# ────────────────────────────────────────────────────────────────────────────────
+# Configuração declarativa do Motor Único (despacho de 29/08/2026, §4).
+# Este arquivo é o ÚNICO lugar onde a curadoria deste ciclo está escrita: o motor não
+# contém alvo, âncora, rótulo ou juízo. Ciclo zero = reprocessamento de P2023-12-03
+# (fechado pelo rite pesado) pelo formato novo, para que a comparação seja possível:
+# se o garimpo leve deixar passar algo que o pacote tinha, a diferença aparece aqui.
+
+sigla = "P2023-12-03"
+titulo = "A Rebelião de Lúcifer ainda por ser Finalizada"
+data_fonte = "03/12/2023, na sala"
+pasta_fonte = "apostilas/CONCLUIDAS/2023-12-03_a_rebeliao_de_lucifer_ainda_por_ser_finalizada"
+pacote = "apostilas/CONCLUIDAS/2023-12-03_a_rebeliao_de_lucifer_ainda_por_ser_finalizada/analise/_ampliacoes_P2023-12-03.txt"
+sha256_fonte = "41b3f914befb00c1269d34db1a6d53076038e8b5b400b39561e8f32efc4e1021"
+
+# Delta medido contra este commit: o portão D do rite pesado fixava estado absoluto
+# (460 arquivos) e por isso apodreceria no ciclo seguinte. Aqui se mede variação.
+baseline_commit = "f0baedc"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+
+# Ciclo zero EXERCITA o exportador atômico, senão a esteira nasceria com um passo não
+# testado: com esta chave ligada, saem cards com `status: candidata`. Não é licença para
+# indexar — o manifesto em rag/MANIFESTO-*.json declara o ensaio, e o portão real do
+# consumo continua sendo `aprovada`, que é o que V.Sa. marca no dossiê.
+exportar_candidatas = true
+
+# Regra dura preservada do rite pesado: a fonte não é reescrita, e o que não foi
+# transcrito fica declarado como tal — honestidade por registro, não por acidente.
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+
+# Despacho §1 + rulings do Curador em 29/08/2026: teto suspenso COM CADÊNCIA — termo
+# novo só quando uma pérola o exige, e cada materialização listada no §4 do dossiê.
+teto = "suspenso-com-cadencia"
+termos_novos = []
+
+# D-1/D-4/D-12 do despacho que fechou o ciclo pesado: aspas com estes marcadores não
+# transitam para ficha, e ficha que nomeia gente/grupo tem o caderno fechado para elas.
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = ["RC-035", "RC-036", "RC-056", "RC-071", "RC-093", "RC-189", "RC-375"]
+
+[delta_esperado]
+arquivos = 6      # as 6 fichas das ordens nomeadas sem arquivo
+ficha_true = 6   # a virada correspondente no cadastro
+termos = 0       # 777 intocados; nenhum RC-778 da vida foi consumido
+relacoes = 0     # RELACOES não é tocada por este ciclo
+
+[materializar]
+codigos = ["RC-093", "RC-189", "RC-280", "RC-035", "RC-375", "RC-344"]
+
+[tese]
+# Resumo executivo da tese — §2 do formato novo não cita, resume: prosa sem aspas,
+pontos = [
+  "A tese do ciclo é uma vacância: a cerimônia de posse nunca houve, e é o governo não empossado — não uma batalha — que explica o modo indireto da ação na cosmologia da fonte.",
+  "O cargo de Javé é lido como função ocupada sem titulação; a cláusula do despacho manda ler isso como deslocamento do título de Deus do criador da obra, e não como negação de Deus.",
+  "A rebelião não está encerrada: o título da palestra é a própria tese, enunciada pela fonte como fato presente e ainda por finalizar.",
+  "A anatomia comparece como modelo obsoleto (radiata contra bilatério) e não como diagnóstico: a Base registra o uso com endereço e remete as fichas de cérebro.",
+  "O método é apresentado como pedido recebido — colégios de estudo — e por isso entra como método, não como instituição étnica.",
+  "O calendário escatológico (marco de 1989 e janela 2050-2052) entra dito, com endereço; o vencimento da janela é do relatório, não da ficha.",
+]
+
+[definicoes]
+RC-035 = '''A Base cataloga **Bilatérios** como classe de seres em estágio de transição (Seres & Entidades / 1.7), e não como termo anatômico: é o cadastro quem assim o classifica, e a ficha não reinterpreta a classificação. O que a fonte oral de 03/12/2023 acrescenta é um uso — a afirmação, no meio de um raciocínio sobre cérebros, de que o modelo humano seria bilatério. Fica registrado com endereço. A tensão entre o uso da fala (atributo de cérebro) e a categoria do cadastro (classe de seres) é declarada `[REVISAR]`, não resolvida.'''
+
+RC-093 = '''**Radiatas** é, no cadastro, a classe de seres cuja organização é tomada como radial (Seres & Entidades / 1.7). A Base a mantém como classe, não como diagnóstico. A fonte oral de 03/12/2023 usa o adjetivo numa frase negativa — o efeito dito é que certa função não opera nesse modelo —, e a ficha registra o uso com endereço. O confronto com as fichas de cérebro (`RC-631`, `RC-632`) fica declarado; nenhuma delas foi editada por este ciclo.'''
+
+RC-189 = '''**Eva**, no cadastro, é a figura nomeada `Eva (figura)`: o parêntese é do cadastro e declara que o verbete trata da personagem funcionamental, não de uma pessoa histórica. A fonte oral de 03/12/2023 entra nesta ficha por uma única aspa, a que o despacho de 29/08/2026 (D-2) autorizou — a salvação pelo DNA de Maria em Jesus, que a fonte põe na boca de Jesus. A âncora que o dossiê tinha proposto para esta ficha atravessava uma máscara do STT e foi **retida** (BLOCO 5 do pacote): o que ficou retido não foi reescrito nem aproximado por hipótese.'''
+
+RC-280 = '''Verbete que trata a ressurreição como ato **explicado**: Sofia, ressuscitado, expõe por que não age. A fonte oral de 03/12/2023 entra com a frase em que a inação é justificada pela recusa de guerra com os arcontes do universo vizinho e pela não-assunção da vestimenta de herdeiro da trimurte. O despacho revogou a leitura de *posse* neste verbete e nos outros seis do grupo (D-6): a ficha registra a aspa com endereço e **nenhuma relação de fundamento** é aberta; posse segue sendo metáfora, tratada no glossário do ciclo.'''
+
+RC-344 = '''**Transição Planetária** é, no cadastro, o processo que antecede a Reintegração Cósmica (`RC-003`), com obras e fontes orais vinculadas antes deste ciclo. A fonte oral de 03/12/2023 entra com dois dados: o que foi parado no processo de exídio dos espíritos exilados, e o marco com janela que a fala finca — 1989 e os anos 2050-2052, ditos como ditos, com a grafa degradada preservada. O calendário entra aqui por ordem expressa (D-13), que o vetou em `RC-200`. O relatório do ciclo registra que a janela **já estaria vencida** na data desta aplicação: sem harmonização corretiva e sem recálculo da data original.'''
+
+RC-375 = '''Verbete de contexto: o cadastro mantém este termo como grupo humano em moldura doutrinária (Seres & Entidades / 1.6 Figuras humanas), e não como etnografia. A fonte oral de 03/12/2023 entra com dois usos — a origem lendária situada na Irlanda, e os dois colégios arquidruídicos de estudo, comparados ao que Javé faria com Enoque. O despacho (D-8) fixou o modo: os colégios entram como o **método pedido**, não como instituição étnica; a etnicidade fica na transcrição do ciclo pesado, não na ficha.'''
+
+[observacoes]
+RC-035 = ["**[REVISAR] — uso da fala × categoria do cadastro.** A frase de 03/12/2023 trata bilatério como atributo de cérebro; o cadastro o lista como classe de seres. A divergência é registrada, não costurada, e nenhuma ficha de anatomia foi tocada (D-7: obsolescência anatômica mora em `RC-631`/`RC-632`)."]
+RC-093 = ["**[REVISAR] — adjetivo, não diagnóstico.** A fonte nega o funcionamento de certa função nesse modelo; isso não é lido como afirmação médica da Base. O par com `RC-035` é de oposição de modelos, e a oposição não virou aresta.", "D-7 sem código novo: a obsolescência anatômica não ganhou verbete próprio, e este não foi reescrito para acomodá-la."]
+RC-189 = ["**D-2, aspa única.** As duas frases do quiasma aprovado ficam juntas na apostila do ciclo pesado; nesta ficha entra só a do DNA de Maria. É ordem expressa do despacho, não conveniência de formatação.", "**Aspas não autorizadas não transitam.** O que a fonte diz sobre mulheres mora no glossário do ciclo, com nota contextual forte; não em ficha que nomeia figura humana."]
+RC-280 = ["**D-6.** Nenhuma aresta nova com `RC-005` nem com qualquer verbete de governo: as arestas listadas abaixo são todas pré-existentes do cadastro.", "posse é tratada como metáfora no glossário do ciclo, não como evento administrativo desta cosmologia; a ficha não decide a questão."]
+RC-344 = ["**O prazo é da fonte, não da Base.** Nenhuma ficha foi corrigida para que a janela continue válida, e nenhuma foi corrigida para declará-la vencida: o vencimento é registrado no relatório, com data da aplicação.", "D-13: a janela foi colocada aqui e em `RC-003`, e vetada em `RC-200` — a assimetria é deliberada."]
+RC-375 = ["**D-8.** A constatação de que o método da Arca cumpre o pedido feito nesta fonte vive no relatório do ciclo, não nesta ficha.", "A grafia `toatas de Dané` é a do STT e entra como veio; as Túatha têm cinco formas registradas no ciclo, nenhuma unificada."]
+
+[travas]
+RC-035 = "D-7 (anatomia sem código novo) · D-4 (nenhuma máscara transita) · veto de trânsito por nomear classe de seres"
+RC-093 = "D-7 · D-4 · veto de trânsito por nomear classe de seres"
+RC-189 = "D-2 (aspa única) · D-4 (span retido por máscara) · ficha que nomeia figura humana"
+RC-280 = "D-6 (posse revogada, sem relação de fundamento)"
+RC-344 = "D-13 (calendário aqui, vetado em RC-200, vencimento só no relatório)"
+RC-375 = "D-8 (método na ficha, etnicidade fora) · ficha que nomeia grupo humano"
+
+[lacunas]
+RC-035 = "o cadastro nomeava o termo sem arquivo: passa a ter ficha com o uso endereçado"
+RC-093 = "o par `Radiatas` × `cérebro radiata` não tinha onde ser declarado: tem"
+RC-189 = "a aspa autorizada pela D-2 não tinha arquivo para morar"
+RC-280 = "a ressurreição como resposta à inação não estava registrada em ficha"
+RC-344 = "marco e janela como ditos, com o vencimento declarado fora da ficha"
+RC-375 = "os colégios como método pedido, e não como instituição étnica"
