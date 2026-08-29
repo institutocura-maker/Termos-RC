@@ -1,0 +1,18 @@
+# SEGMENTAÇÃO DE LEITURA — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+O bruto tem **uma linha que é 77% da fala** (U0004). Ler isso de uma vez produz leitura fatigada e âncora de memória — os dois males que a esteira combate. Por isso a fala foi cortada em **8 chunks** por fronteira de frase, cada um com `Uxxxx` e o intervalo de caracteres do bruto. A numeração abaixo é o índice do que existe em `analise/leitura/`.
+
+| chunk | endereços | caracteres no bruto | tamanho |
+|---|---|---|---|
+| 01 | U0003 (1 linha(s)) | 62–8.230 | 8.169 |
+| 02 | U0004 (1 linha(s)) | 8.232–22.230 | 13.999 |
+| 03 | U0004 (1 linha(s)) | 22.231–36.202 | 13.972 |
+| 04 | U0004 (1 linha(s)) | 36.203–50.186 | 13.984 |
+| 05 | U0004 (1 linha(s)) | 50.187–64.125 | 13.939 |
+| 06 | U0004 (1 linha(s)) | 64.126–78.070 | 13.945 |
+| 07 | U0004–U0008 (5 linha(s)) | 78.071–90.855 | 12.785 |
+| 08 | U0009–U0038 (30 linha(s)) | 90.857–102.706 | 11.850 |
+
+*Toda aspa dos arquivos de análise e do dossiê sairá do caça-âncoras `_aspas_P2023-12-03.py`, nunca desta segmentação.*
+
+*A prova acima é de igualdade de texto (espaços colapsados) entre a fala útil e a união dos trechos — não de soma de tamanhos: assim um trecho duplicado ou perdido não passa.*

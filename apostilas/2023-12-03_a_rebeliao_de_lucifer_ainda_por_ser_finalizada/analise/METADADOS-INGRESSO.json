@@ -1,0 +1,531 @@
+{
+  "sigla": "P2023-12-03",
+  "titulo_arquivo": "2023-12-03 - A Rebelião de Lúcifer ainda por ser Finalizada.txt",
+  "data_fala": "03/12/2023",
+  "dia_semana": "domingo",
+  "bytes": 105859,
+  "sha256": "41b3f914befb00c1269d34db1a6d53076038e8b5b400b39561e8f32efc4e1021",
+  "chars_normalizados": 102708,
+  "chars_texto": 102669,
+  "terminadores_linha": {
+    "crlf": 39,
+    "lf_soltos": 0
+  },
+  "linhas_lógicas": 40,
+  "linhas_com_texto": 37,
+  "palavras_fala": 18367,
+  "periodos": 1090,
+  "linhas_pesadas": 9,
+  "maior_linha": {
+    "u": "U0004",
+    "chars": 79509,
+    "pct_fala": 77.49
+  },
+  "turnos_curtos": 27,
+  "mapa_linhas": [
+    {
+      "u": "U0001",
+      "chars": 59,
+      "ini": 0,
+      "fim": 59,
+      "palavras": 10,
+      "periodos": 0,
+      "natureza": "TÍTULO DO ARQUIVO"
+    },
+    {
+      "u": "U0003",
+      "chars": 8169,
+      "ini": 61,
+      "fim": 8230,
+      "palavras": 1521,
+      "periodos": 71,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0004",
+      "chars": 79509,
+      "ini": 8231,
+      "fim": 87740,
+      "palavras": 14171,
+      "periodos": 838,
+      "natureza": "MEGABLOCO DE FALA"
+    },
+    {
+      "u": "U0005",
+      "chars": 213,
+      "ini": 87741,
+      "fim": 87954,
+      "palavras": 34,
+      "periodos": 3,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0006",
+      "chars": 248,
+      "ini": 87955,
+      "fim": 88203,
+      "palavras": 43,
+      "periodos": 3,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0007",
+      "chars": 2570,
+      "ini": 88204,
+      "fim": 90774,
+      "palavras": 468,
+      "periodos": 31,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0008",
+      "chars": 80,
+      "ini": 90775,
+      "fim": 90855,
+      "palavras": 12,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0009",
+      "chars": 1842,
+      "ini": 90856,
+      "fim": 92698,
+      "palavras": 326,
+      "periodos": 20,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0010",
+      "chars": 325,
+      "ini": 92699,
+      "fim": 93024,
+      "palavras": 58,
+      "periodos": 3,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0011",
+      "chars": 16,
+      "ini": 93025,
+      "fim": 93041,
+      "palavras": 3,
+      "periodos": 0,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0012",
+      "chars": 43,
+      "ini": 93042,
+      "fim": 93085,
+      "palavras": 8,
+      "periodos": 2,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0013",
+      "chars": 24,
+      "ini": 93086,
+      "fim": 93110,
+      "palavras": 4,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0014",
+      "chars": 10,
+      "ini": 93111,
+      "fim": 93121,
+      "palavras": 1,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0015",
+      "chars": 918,
+      "ini": 93122,
+      "fim": 94040,
+      "palavras": 176,
+      "periodos": 10,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0016",
+      "chars": 3359,
+      "ini": 94041,
+      "fim": 97400,
+      "palavras": 608,
+      "periodos": 29,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0017",
+      "chars": 104,
+      "ini": 97401,
+      "fim": 97505,
+      "palavras": 18,
+      "periodos": 2,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0018",
+      "chars": 92,
+      "ini": 97506,
+      "fim": 97598,
+      "palavras": 21,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0019",
+      "chars": 10,
+      "ini": 97599,
+      "fim": 97609,
+      "palavras": 2,
+      "periodos": 0,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0020",
+      "chars": 10,
+      "ini": 97610,
+      "fim": 97620,
+      "palavras": 2,
+      "periodos": 0,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0021",
+      "chars": 185,
+      "ini": 97621,
+      "fim": 97806,
+      "palavras": 33,
+      "periodos": 4,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0022",
+      "chars": 18,
+      "ini": 97807,
+      "fim": 97825,
+      "palavras": 4,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0023",
+      "chars": 240,
+      "ini": 97826,
+      "fim": 98066,
+      "palavras": 41,
+      "periodos": 4,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0024",
+      "chars": 47,
+      "ini": 98067,
+      "fim": 98114,
+      "palavras": 10,
+      "periodos": 0,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0025",
+      "chars": 190,
+      "ini": 98115,
+      "fim": 98305,
+      "palavras": 33,
+      "periodos": 2,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0026",
+      "chars": 4,
+      "ini": 98306,
+      "fim": 98310,
+      "palavras": 1,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0027",
+      "chars": 4,
+      "ini": 98311,
+      "fim": 98315,
+      "palavras": 1,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0028",
+      "chars": 142,
+      "ini": 98316,
+      "fim": 98458,
+      "palavras": 23,
+      "periodos": 2,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0029",
+      "chars": 4,
+      "ini": 98459,
+      "fim": 98463,
+      "palavras": 1,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0030",
+      "chars": 350,
+      "ini": 98464,
+      "fim": 98814,
+      "palavras": 64,
+      "periodos": 3,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0031",
+      "chars": 8,
+      "ini": 98815,
+      "fim": 98823,
+      "palavras": 1,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0032",
+      "chars": 32,
+      "ini": 98824,
+      "fim": 98856,
+      "palavras": 9,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0033",
+      "chars": 9,
+      "ini": 98857,
+      "fim": 98866,
+      "palavras": 1,
+      "periodos": 0,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0034",
+      "chars": 555,
+      "ini": 98867,
+      "fim": 99422,
+      "palavras": 84,
+      "periodos": 2,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0035",
+      "chars": 692,
+      "ini": 99423,
+      "fim": 100115,
+      "palavras": 127,
+      "periodos": 14,
+      "natureza": "linha de fala"
+    },
+    {
+      "u": "U0036",
+      "chars": 50,
+      "ini": 100116,
+      "fim": 100166,
+      "palavras": 11,
+      "periodos": 0,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0037",
+      "chars": 131,
+      "ini": 100167,
+      "fim": 100298,
+      "palavras": 24,
+      "periodos": 1,
+      "natureza": "turno curto (interlocução)"
+    },
+    {
+      "u": "U0038",
+      "chars": 2407,
+      "ini": 100299,
+      "fim": 102706,
+      "palavras": 413,
+      "periodos": 36,
+      "natureza": "linha de fala"
+    }
+  ],
+  "nomes_e_termos": {
+    "Rogério": {
+      "n": 11,
+      "primeiros": [
+        "U0003",
+        "U0004",
+        "U0007",
+        "U0016",
+        "U0034",
+        "U0038"
+      ]
+    },
+    "Horácio": {
+      "n": 1,
+      "primeiros": [
+        "U0005"
+      ]
+    },
+    "Márcia": {
+      "n": 2,
+      "primeiros": [
+        "U0008",
+        "U0009"
+      ]
+    },
+    "Jan": {
+      "n": 5,
+      "primeiros": [
+        "U0003",
+        "U0010",
+        "U0034"
+      ]
+    },
+    "Thot": {
+      "n": 1,
+      "primeiros": [
+        "U0025"
+      ]
+    },
+    "Luzbell": {
+      "n": 6,
+      "primeiros": [
+        "U0004",
+        "U0025"
+      ]
+    },
+    "Lemion": {
+      "n": 8,
+      "primeiros": [
+        "U0004",
+        "U0016",
+        "U0025"
+      ]
+    },
+    "Sofia": {
+      "n": 77,
+      "primeiros": [
+        "U0003",
+        "U0004",
+        "U0007",
+        "U0016",
+        "U0025",
+        "U0030"
+      ]
+    },
+    "Javé": {
+      "n": 28,
+      "primeiros": [
+        "U0004",
+        "U0016"
+      ]
+    },
+    "Lúcifer": {
+      "n": 41,
+      "primeiros": [
+        "U0001",
+        "U0003",
+        "U0004",
+        "U0034",
+        "U0037"
+      ]
+    },
+    "Apocalipse": {
+      "n": 2,
+      "primeiros": [
+        "U0025",
+        "U0028"
+      ]
+    },
+    "entropia": {
+      "n": 6,
+      "primeiros": [
+        "U0004",
+        "U0037",
+        "U0038"
+      ]
+    },
+    "entrop": {
+      "n": 6,
+      "primeiros": [
+        "U0004",
+        "U0037",
+        "U0038"
+      ]
+    },
+    "algoritmo": {
+      "n": 2,
+      "primeiros": [
+        "U0004",
+        "U0035"
+      ]
+    },
+    "protocolo": {
+      "n": 2,
+      "primeiros": [
+        "U0035"
+      ]
+    },
+    "inteligência artificial": {
+      "n": 2,
+      "primeiros": [
+        "U0005",
+        "U0006"
+      ]
+    },
+    "Danão": {
+      "n": 1,
+      "primeiros": [
+        "U0008"
+      ]
+    },
+    "hibridag": {
+      "n": 6,
+      "primeiros": [
+        "U0009"
+      ]
+    },
+    "2049": {
+      "n": 2,
+      "primeiros": [
+        "U0016"
+      ]
+    },
+    "Jane Miranda": {
+      "n": 1,
+      "primeiros": [
+        "U0034"
+      ]
+    },
+    "testemunh": {
+      "n": 2,
+      "primeiros": [
+        "U0030"
+      ]
+    },
+    "quartel": {
+      "n": 11,
+      "primeiros": [
+        "U0004",
+        "U0037"
+      ]
+    }
+  },
+  "mascaras_stt": 9,
+  "integridade": {
+    "recebido_em": "uploads_recepcao/",
+    "copiado_por": "cp",
+    "conferido_por": "cmp + sha256 (idênticos)",
+    "original_modificado": "NÃO — intocado por todo o ciclo"
+  },
+  "observacao_palestra_preparatoria": "esta é a palestra anunciada por P2023-12-02 (Thot, 02/12/2023): `eu jamais iria fazer esta palestra de hoje se eu não tivesse decidido fazer a palestra de amanhã a pedidos` — o tema prometido era a Rebelião de Lúcifer envolvendo Thot; o autor abriu este TXT dizendo `Hoje nós vamos retomar um assunto` (U0003)"
+}

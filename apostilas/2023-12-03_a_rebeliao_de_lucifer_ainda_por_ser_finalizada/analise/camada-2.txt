@@ -1,0 +1,206 @@
+# CAMADA 2 — O DICIONÁRIO MEDIDO (P2023-12-03)
+
+Tudo que segue é **contagem** do `original.txt` com o regex indicado, e o endereço da primeira batida. Nada aqui foi lembrado: foi o que a
+varredura devolveu — **inclusive os zeros**, que neste ciclo dizem tanto quanto osachados (marcam o que a Base ainda não tem vocabulário para dizer).
+
+## 1. O vocabulário da palestra
+
+| termo / padrão | ocorr. | 1ª batida | observação |
+|---|---|---|---|
+| Lúcifer (todas as grafas do STT) | 8 | U0004 @24.682 | `[Ll]uc[íi]fer` |
+| luciferiano(s) | 3 | U0004 @29.926 | `luciferian` |
+| Luzbel nas 8 formas degradadas | 16 | U0003 @2.071 | `[Ll]uz\s?[bB]el[l]?|Elusbell|Elosbel|Luisbell|eusb|Luz\b` |
+| Lemion/Lemon/Leion (o futuro Sataná) | 13 | U0003 @784 | `[Ll]emion|Lemi\b|Lemon\b|Leion|Lemur` |
+| rebelião/rebelde(s) | 59 | U0003 @809 | `rebeli` |
+| depressão/deprimido | 1 | U0004 @33.268 | `depress` |
+| Sofia/Sophia | 77 | U0003 @6.979 | `[Ss]ofia|[Ss]ophia` |
+| Javé e degradações | 8 | U0003 @5.085 | `[Jj]av[eê]|Jah[eé]?|Javel|Javer|Jave\b` |
+| Brahma em 3 formas | 14 | U0003 @351 | `Brama|Brahma|bran` |
+| Shiva em 3 formas | 12 | U0004 @13.304 | `Chiva|Shiva|chivo` |
+| Viṣṇu — a forma mais instável do bruto | 4 | U0004 @16.163 | `Virgno|Vno|V[íi]gno|vigo|Virgem|Vi\u015bnu` |
+| Trimúrti (e as quedas de grafia) | 13 | U0004 @15.390 | `Trimur|trimurt|Trimúrt` |
+| arcontes | 4 | U0004 @14.567 | `[Aa]rcontes|arc[óo]stos|arcont` |
+| clones (do criador) | 13 | U0004 @13.236 | `clones? do criador|clones?` |
+| fenvan (o `demo moderno`) | 1 | U0004 @13.369 | `fenvan` |
+| biodemo e degradadas | 32 | U0004 @16.109 | `biodemo|bioderma|biodermo|biodena|Biodemo|biod\w{0,4}` |
+| demo / demobio / demobiol | 40 | U0004 @11.676 | `[Dd]emo\b|demos\b|demobi\w*|Demobio|Demo Biol` |
+| fornos de replicação | 4 | U0004 @15.531 | `forno` |
+| Aamon (forno 1) | 1 | U0004 @15.559 | `Aamon` |
+| Wíingan/Vígno (forno 2) | 1 | U0004 @15.632 | `[Ww]i?ingan|Wi\u00f1gan` |
+| `Projeto Tal` (livro anunciado) | 2 | U0004 @15.882 | `projeto tal` |
+| processador | 37 | U0004 @10.992 | `[Pp]rocessador` |
+| campo mórfico | 1 | U0004 @22.569 | `campo m[oó]rfico|morfico` |
+| `WhatsApp` como analogia de rede | 1 | U0004 @22.770 | `WhatsApp` |
+| casulos | 2 | U0004 @17.179 | `casulo` |
+| a contagem das famílias (250.000 · 249.400) | 8 | U0004 @17.207 | `250\.000|249\.400` |
+| 736 (efetivos da Vol) | 1 | U0004 @17.771 | `736` |
+| os 19 mundos de quarentena | 5 | U0004 @24.046 | `19 mundos` |
+| 200 bilhões (contaminados) | 1 | U0004 @23.389 | `200 bilh` |
+| 98.000 anos | 3 | U0004 @29.889 | `98\.000` |
+| 100.000 anos | 2 | U0004 @27.210 | `100\.000` |
+| 70.000 (Toba) | 1 | U0004 @31.692 | `70\.000` |
+| 700.000 (Lúcifer) | 2 | U0003 @5.166 | `700\.000` |
+| 4.380.000 (a soneca do criador) | 1 | U0004 @71.710 | `4\.380\.000` |
+| 13,8 bilhões de anos | 2 | U0004 @8.684 | `13\.8 bilh` |
+| 932 milhões (o forno) | 3 | U0004 @16.019 | `932 milh` |
+| 28.869 genes | 1 | U0004 @9.199 | `28\.869` |
+| 300 milhões (Marte) | 1 | U0004 @56.494 | `300 milh` |
+| as datas da chegada (Vol × Anunnaki) | 6 | U0004 @27.709 | `450\.000|380\.000|350\.000|600\.000|500\.000` |
+| as datas das destruições | 11 | U0004 @34.758 | `14\.000|12\.800|9\.000 anos|20\.000|23\.000|18\.000|17, 18\.000` |
+| as datas do século XX/XXI ditas em voz alta | 7 | U0004 @76.514 | `2049|2050|2051|2052|2018|1989` |
+| `metaverso` | 2 | U0004 @32.399 | `metaverso` |
+| faixas de realidade (simultânea/paralela) | 13 | U0004 @31.831 | `faixas? de realidad` |
+| simultâneo | 3 | U0004 @31.852 | `simult` |
+| quarentena | 1 | U0004 @24.375 | `quarentena` |
+| saúde pública | 1 | U0004 @24.207 | `sa[uú]de p[uú]blica` |
+| entropia | 6 | U0004 @12.981 | `entropia` |
+| força tamásica | 0 | — | `tamasica|tamas` |
+| nirodha | 2 | U0004 @62.126 | `niroda|nirodha` |
+| vṛtti (em 4 grafas) | 4 | U0004 @61.793 | `vits|vrits|vitres|Frits|vrti` |
+| `cita` [chitta] | 2 | U0004 @62.643 | `cita\b` |
+| Patangel (o sistema nomeado) | 3 | U0004 @61.556 | `Patangel|Pantangele|Pantanel` |
+| matrix | 3 | U0004 @61.689 | `matrix|Matrix` |
+| elétrons e antielétrons | 1 | U0004 @61.933 | `el[eé]trons? e antiel` |
+| inconsciente (e a queda) | 5 | U0004 @9.399 | `inconsciente|consente` |
+| Freud | 4 | U0004 @9.372 | `Freud` |
+| epifenomenológico | 1 | U0004 @10.386 | `[Ee]pifenomen` |
+| genoma/genética | 14 | U0004 @9.063 | `[Gg]en[ôo]mica|genom\w*` |
+| DNA | 13 | U0004 @9.167 | `DNA` |
+| algoritmo | 2 | U0004 @26.367 | `algoritmo` |
+| protocolo | 2 | U0003 @63 | `protocolo` |
+| inteligência artificial | 2 | U0003 @165 | `intelig[êe]ncia artificial` |
+| quântico/a | 0 | — | `quantic` |
+| ponte quântica | 0 | — | `ponte quantica` |
+| computador | 3 | U0004 @36.115 | `computador` |
+| sefirot em 5 grafas | 4 | U0004 @60.451 | `[Ss]efir|cefira|cefiral|cefirot|cfirotes` |
+| `árvore da vida` (corrigida pela fonte) | 0 | — | `arvore da vida` |
+| Cabala | 1 | U0004 @60.099 | `Cabala|Cabal` |
+| Shimon bar Yochai [REVISAR] | 1 | U0004 @60.039 | `Shimon|Simei` |
+| Enoque | 66 | U0003 @4.315 | `[Ee]noque|Enoc\b|En[oó]crita` |
+| Matusalém | 0 | — | `Matusalem` |
+| Jared/Jarete | 3 | U0003 @4.709 | `Jarete|Jared` |
+| os 366 livros de Enoque | 1 | U0003 @4.358 | `366` |
+| Satanail (o nome em Enoque) | 1 | U0004 @46.581 | `Satanail` |
+| Adão | 7 | U0004 @34.324 | `Ad[ãa]o` |
+| Eva | 6 | U0004 @34.318 | `Eva` |
+| Maria | 6 | U0003 @2.233 | `Maria` |
+| Jesus | 14 | U0004 @54.085 | `Jesus|Jesus` |
+| Messias | 4 | U0004 @56.018 | `Messias` |
+| Keter | 1 | U0004 @63.613 | `Keter` |
+| Malkut em 4 grafas | 3 | U0004 @72.585 | `Malc|Malco|Mauco|Mal\b` |
+| corpo manásico | 1 | U0003 @1.634 | `[Cc]orpo man[áa]sico|man[áa]sic` |
+| avatar | 11 | U0004 @16.260 | `avatar` |
+| Quarto Logos / `Lópos` | 5 | U0004 @61.003 | `Quarto Logos|quarto logos|L[óo]pos` |
+| Word · orlog · horlogus | 4 | U0004 @50.072 | `Word\b|horlogus|orlog` |
+| Krishna (+ `Chrinda`?) | 11 | U0004 @60.940 | `[Kk]rishna|Chrinda` |
+| Bagavaguita | 1 | U0004 @76.986 | `Bagavaguita|Bhagavad` |
+| Mahābhārata (STT: `Marrabarato`) | 1 | U0004 @77.025 | `Marrabarato|Mah` |
+| Gāndhārī (a maldição) | 1 | U0003 @758 | `Gandari` |
+| Prometeu | 1 | U0004 @53.035 | `Prometeu` |
+| Hesíodo / teogonia | 2 | U0004 @53.221 | `ex[íi]udo|teogonia` |
+| Zeus | 4 | U0004 @61.044 | `Zeus` |
+| Odin em 3 formas | 5 | U0004 @45.312 | `Odin|Odim|Oddi` |
+| Indra (+ `Hidras`?) | 3 | U0004 @61.100 | `Indra|Hidras` |
+| Ares/Apolo | 2 | U0004 @72.274 | `Ares|Apolo` |
+| Hermes (mencionado? — teste de vizinhança) | 0 | — | `[Hh]ermes` |
+| Thot/Tot/Top (3 formas) | 36 | U0004 @43.593 | `Thot|Tot\b|Top\b|Totten` |
+| Anunnaki em 6 degradadas | 17 | U0003 @4.826 | `[Aa]nuna\w*|Anonax|anunx|Anos Marx|anos Marx` |
+| Enlil em 3 formas | 2 | U0003 @4.859 | `Enlio|em Liu|Enlil` |
+| Eridu e Nipur | 2 | U0003 @4.278 | `Eridu|Nipur` |
+| Alexandria e Pérgamo | 2 | U0003 @4.179 | `Alexandria|P[ée]rgamo` |
+| Hiperbórea/Hiperbório | 10 | U0004 @33.574 | `[Hh]iperb[óo]` |
+| Irlanda | 11 | U0004 @42.623 | `Irl` |
+| Túatha Dé Danã em 5 grafas | 14 | U0004 @45.096 | `toatas|tuatas|T[uú]atha|Estata|tutuatas` |
+| de Danã | 8 | U0004 @44.936 | `Dan[ãa]o?n?|Dana` |
+| milesianos | 4 | U0004 @57.633 | `milesian` |
+| colégios arquidrídicos | 0 | — | `arquidruidic|druid` |
+| Alasca · Inuit · `Esquemóis` | 3 | U0004 @44.808 | `Esquem[oó]l|Inuit|Alaska` |
+| finou-ugrianas | 1 | U0004 @45.404 | `finou` |
+| sirianos | 2 | U0004 @74.508 | `sirian` |
+| olimpianos | 1 | U0004 @78.021 | `olimpian` |
+| Capela (o sistema estelar) | 1 | U0003 @2.464 | `Capela` |
+| exílio/expurgo | 4 | U0003 @2.155 | `ex[íi]lio|expug|espiugo|esp[úu]ugo` |
+| transição planetária | 1 | U0004 @51.125 | `transi[cç][ãa]o planet` |
+| passaporte (a metáfora carimbada) | 4 | U0003 @297 | `passaporte` |
+| `tá carimbado` | 5 | U0003 @284 | `carimb` |
+| Apocalipse | 2 | U0003 @180 | `[Aa]pocalipse` |
+| capítulo 11 | 1 | U0003 @105 | `cap[íi]tulo 11` |
+| as duas testemunhas | 2 | U0001 @22 | `testemunh` |
+| a trombeta | 1 | U0003 @126 | `trombeta` |
+| as nuvens | 1 | U0003 @190 | `nuvens` |
+| juízo | 1 | U0003 @1.029 | `ju[íi]z` |
+| satyagraha (STT) | 1 | U0004 @76.279 | `satagrar|satyagraha` |
+| resistência pacífica e amorosa | 0 | — | `resistencia pac[ií]fica` |
+| Pandora | 2 | U0004 @76.009 | `Pandora` |
+| inconformismo | 4 | U0004 @75.948 | `inconformis` |
+| falange (negada) | 1 | U0004 @73.515 | `falange` |
+| escaneadas | 1 | U0003 @211 | `escanead` |
+| criador | 18 | U0003 @1.023 | `[Cc]riador` |
+| Deus | 9 | U0004 @25.536 | `[Dd]eus` |
+| religiões | 0 | — | `religioes` |
+| utopias | 1 | U0004 @75.189 | `utopias` |
+| estresse extremo | 2 | U0004 @75.005 | `estresse` |
+| choques de realidade | 3 | U0004 @65.336 | `choques de realidad` |
+| massa crítica | 0 | — | `massa critica` |
+| Zeitgeist degradado | 1 | U0003 @3.648 | `Z Geist|Zeitgeist|geist` |
+| pílula azul | 1 | U0003 @1.686 | `p[íi]lula azul` |
+| escola iniciática | 0 | — | `escola iniciatic|iniciatica` |
+| animais de estimação | 1 | U0004 @33.721 | `animais de estima` |
+| `monstra`/monstro | 5 | U0004 @50.632 | `monstra|monstr` |
+| direita e esquerda | 1 | U0003 @114 | `[Dd]ireita e esquerda` |
+| mediocridade | 1 | U0001 @7 | `mediocridade` |
+| `as mulheres atrapalham tudo` | 1 | U0004 @67.162 | `mulheres atrapalham` |
+| sexo/sexualidade | 3 | U0004 @16.909 | `[Ss]ex[ou]alidade|sem sexo` |
+| identidade de gênero | 0 | — | `identidade de gener` |
+| dignidade | 1 | U0004 @64.756 | `dignidade` |
+| máscaras do STT (palavra suprimida) | 9 | U0004 @34.362 | `\*{3,}` |
+| marca [REVISAR] (não deveria estar no bruto) | 0 | — | `REVISAR` |
+
+**135 padrões com batida · 13 com zero** — os zeros são: força tamásica; quântico/a; ponte quântica; `árvore da vida` (corrigida pela fonte); Matusalém; Hermes (mencionado? — teste de vizinhança); colégios arquidrídicos; resistência pacífica e amorosa; religiões; massa crítica; escola iniciática; identidade de gênero; marca [REVISAR] (não deveria estar no bruto).
+
+## 2. A onomástica degradada (as formas que o STT deixou, com contagem e primeira batida)
+
+| eixo do nome | grafias encontradas no bruto |
+|---|---|
+| o rebelde que vê o defeito | `Elusbell` 3× (U0004@21.121) · `Luzbell` 6× (U0004@21.949) · `Luisbell` 1× (U0004@22.906) · `eusb` 1× (U0004@36.008) · `Elosbel` 2× (U0004@23.441) · `Luzbel` 6× (U0004@21.949) · `Yos Bell` 1× (U0004@30.637) · `aos belia` 1× (U0003@198) · `a Luis` 2× (U0004@33.247) |
+| o que vira Sataná/Set | `Lemion` 7× (U0003@784) · `Lemon` 2× (U0004@30.648) · `Leion` 1× (U0004@50.602) · `Lemi` 9× (U0003@784) · `Lemi` 0× |
+| o canal da Trimúrti | `Sofia` 77× (U0003@6.979) · `Sophia` 0× · `Mal` 2× (U0004@72.585) · `Malc` 2× (U0004@72.585) · `Mauco` 1× (U0003@1.721) · `Malco` 0× · `Malcuf` 1× (U0004@72.585) |
+| Viṣṇu (Vno) | `Vno` 1× (U0004@54.931) · `VNO` 1× (U0004@16.310) · `Virgno` 1× (U0004@55.510) · `virgem` 1× (U0004@64.018) · `Virgnum` 0× · `Viga` 0× · `Vio` 0× · `vigo` 0× |
+| Shiva | `Chiva` 10× (U0004@16.837) · `Shiva` 1× (U0004@16.361) · `chivo` 1× (U0004@13.304) · `chivre` 1× (U0004@60.723) · `Segon Chalan` 1× (U0004@72.253) |
+| o nome do avatar árabe/grego | `Rockmar` 1× (U0004@16.275) · `Rockma` 2× (U0004@16.275) · `Rockban` 1× (U0004@63.166) |
+| a experiência da nave | `out long` 1× (U0004@38.457) · `auto langron` 1× (U0004@39.798) · `Alto Longró` 1× (U0004@39.889) · `alto langron` 1× (U0004@43.290) · `Alto Langron` 1× (U0004@45.572) · `Alp Longron` 0× |
+| os Túatha | `toatas de Danão` 1× (U0003@64) · `tuatas de Danã` 2× (U0004@57.012) · `Estata de Danã` 2× (U0004@45.096) · `tos toatas de Danan de Serei` 0× · `Enócrita` 1× (U0003@4.588) |
+| o nome do processo mental | `vits` 1× (U0004@61.793) · `vrits` 1× (U0004@62.242) · `vitres` 1× (U0003@544) · `Frits` 1× (U0004@62.700) · `cita` 10× (U0003@5.733) |
+| o sistema nomeado | `Pantangele` 1× (U0004@61.556) · `Patangel` 1× (U0004@61.571) · `Pantanel` 1× (U0004@61.775) |
+| o pai/mãe da Word | `orlog` 2× (U0004@50.072) · `horlogus` 1× (U0004@60.904) · `Orlo` 1× (U0003@127) · `Xet` 1× (U0004@69.399) |
+
+## 3. Os números, com o estado da Base ao lado (nenhum foi harmonizado)
+
+| número dito | o que designa | estado na Base |
+|---|---|---|
+| 932 milhões (3× no bruto) | forno de Vígno | P2022-03-26 diz 936 e P2020-04-25, 984 — três datas para o mesmo forno; a regra da casa é **selo temporal**, não média |
+| 700.000 (2× no bruto) | rebelião de Lúcifer | converge com P2022-03-26 e com a malha (RC-002/RC-078) |
+| 4.380.000 (1× no bruto) | a soneca do eu de Javé | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 300 milhões (1× no bruto) | a vida destruída em Marte | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 250.000 (7× no bruto) | famílias biodêmicas | P2022-03-26 fala em `250 espécies`; aqui o número é de *famílias* e vem com o exato 249.400 |
+| 249.400 (1× no bruto) | famílias, no exato | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 736 (1× no bruto) | efetivos da família Vol | converge com P2020-04-25 **e** P2022-03-26 — é a terceira fonte que diz 736; RC-089 materializado no ciclo anterior |
+| 200 bilhões (1× no bruto) | contaminados pelo vírus | mesmo valor de P2022-03-26 (que o deu junto de 23.000) |
+| 19 (5× no bruto) | mundos de quarentena | P2022-03-26 já falava dos 19 mundos de quarentena (U0009); aqui a lista ganha a Terra como membro |
+| 98.000 (3× no bruto) | a vinda das seis naves / a duração | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 100.000 (2× no bruto) | os 2 mundos ainda isolados | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 70.000 (1× no bruto) | Toba | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 450.000 (1× no bruto) | chegada dos Anunnaki | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 380.000 (2× no bruto) | Anunnaki chegando | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 600.000 (1× no bruto) | a Vol já estabelecida | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 13,8 bilhões (2× no bruto) | a idade da criação | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 28.869 (1× no bruto) | genes do DNA humano | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 938 (2× no bruto) | os que coubaram na nave | P2022-03-26 traz 936 e 900Q; aqui, 938 — divergência selada, não corrigida |
+| 14.000 (3× no bruto) | a destruição das cidades híbridas | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 12.800 (1× no bruto) | a segunda limpeza | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 20.000 (3× no bruto) | a experiência da nave | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 23.000 (1× no bruto) | o máximo glacial | P2022-03-26 opunha 48.000 × 23.000; aqui 23.000 vem como máximo glacial, sem concorrência |
+| 366 (1× no bruto) | os livros de Enoque | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| perto de 2.000 (1× no bruto) | rebeldes sobreviventes (após 1.300 e 1.700) | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 300 (2× no bruto) | os anos de Enoque fora | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |
+| 67 (1× no bruto) | os anos de Enoque antes de ser levado | sem par conhecido nas fontes orais anteriores (fonte inédita deste número) |

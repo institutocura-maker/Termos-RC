@@ -1,0 +1,263 @@
+# CAMADA 0 — O ENDEREÇAMENTO MEDIDO (P2023-12-03)
+
+Fonte: `original.txt` · 102.708 chars · 37 linhas com fala em 40 lógicas ·
+**105.859 bytes** · SHA-256 `41b3f914befb…4e1021` · 18.367 palavras de fala · 1.090 períodos.
+É a **4ª** em extensão do eixo luciferiano — medida nos `original.txt` das vizinhas, não lembrada:
+2020-04-25 = 115.218 chars · 2022-03-26 = 145.408 chars · 2023-12-02 = 102.778 chars · esta = 102.669 chars.
+Tem porém **a maior concentração já registrada na Arca**: uma única linha (U0004) tem 77.49% da fala — o efeito é de leitura, não de relevância: aqui **uma linha é a palestra inteira**, lida em 6 fatias de fronteira de frase (ver `leitura-segmentada.txt`).
+
+Cada seção abaixo é **localizada por âncora** (caça-âncoras `_aspas_P2023-12-03.py`): o offset é do texto decodificado, a linha é Uxxxx.
+Se qualquer âncora batesse ≠ 1 vez, este arquivo não teria sido escrito.
+
+## As linhas pesadas e o que são
+
+| linha | chars | o que é |
+|---|---|---|
+| **U0004** | 79.509 | Megabloco de fala · palavras 14.171 · períodos 838 |
+| **U0003** | 8.169 | Linha de fala · palavras 1.521 · períodos 71 |
+| **U0016** | 3.359 | Linha de fala · palavras 608 · períodos 29 |
+| **U0007** | 2.570 | Linha de fala · palavras 468 · períodos 31 |
+| **U0038** | 2.407 | Linha de fala · palavras 413 · períodos 36 |
+| **U0009** | 1.842 | Linha de fala · palavras 326 · períodos 20 |
+| **U0015** | 918 | Linha de fala · palavras 176 · períodos 10 |
+| **U0035** | 692 | Linha de fala · palavras 127 · períodos 14 |
+| **U0034** | 555 | Linha de fala · palavras 84 · períodos 2 |
+
+Há **27 turnos curtos** (linha de ≤400 chars) que a transcrição não separa como fala de
+outra pessoa: são as réplicas do Q&A final (U0005–U0038). Eles não são ruído — **contêm três respostas que alteram a tese**
+(o processador como computador quântico, o critério de legitimidade dos deuses e a resposta sobre o primeiro questionamento
+de Lúcifer). Ver `notas-leitura.md`, item 3.
+
+| # | U | @ | extensão | seção |
+|---|---|---|---|---|
+| 01 | U0003 | 111 | 213 c | Abertura: retomar o assunto que ele torcia para não retomar |
+| 02 | U0003 | 891 | 53 c | A taxonomia declarada: subtema ⊂ anjos decaídos ⊂ revoltas contra o criador |
+| 03 | U0003 | 1.367 | 52 c | O limite do dizível: as gerações futuras é que vão compreender |
+| 04 | U0003 | 2.393 | 52 c | 1991: os recados sobre os 44 anos (Santa Maria, Rio de Janeiro, Natal) |
+| 05 | U0003 | 4.055 | 139 c | Valdemar Matoso, Aquiles e a obrigação de cuidar de Satã e Lúcifer |
+| 06 | U0003 | 6.178 | 50 c | O episódio de Chico Xavier na fila (e o `Eu sou castro` [REVISAR]) |
+| 07 | U0003 | 7.726 | 167 c | Divaldo explica a dívida de Aquiles com Príamo [REVISAR] |
+| 08 | U0004 | 9.004 | 128 c | A captura de Lemion/Satã na `arapuca amorosa`: onde a coisa começou |
+| 09 | U0004 | 9.227 | 45 c | O verbo da fonte: o conhecimento `se abril` [REVISAR: abriu-se] |
+| 10 | U0004 | 9.898 | 78 c | A resistência do canal: a pílula azul e os painéis mostrados didaticamente |
+| 11 | U0004 | 10.259 | 284 c | O antecedente espírita: A Caminho da Luz e o exílio de Capela |
+| 12 | U0004 | 10.640 | 62 c | Edgar Armon [REVISAR] lido e aprovado (`impecáveis, maravilhosos`) |
+| 13 | U0004 | 11.159 | 20.614 c | O mecanismo da memória: a rebelião que submerge e reemerge como escola iniciática |
+| 14 | U0004 | 12.365 | 307 c | As perdas de arquivo: Pérgamo, Alexandria, Eridu, Nipur, os 366 de Enoque |
+| 15 | U0004 | 13.384 | 19.686 c | As três cronologias: 16-17.000 (Anunnaki) · 700.000 (Lúcifer) · milhões e bilhões (outras) |
+| 16 | U0004 | 13.607 | 38 c | A confissão do vão: `não dá para fazer o link hoje` |
+| 17 | U0004 | 14.776 | 161 c | A estratégia dos livros: nem `acabou`, nem `não acabou` |
+| 18 | U0004 | 15.184 | 48 c | A palavra que virou título: `isso não acabou, isso vai ter que ser finalizado` |
+| 19 | U0004 | 15.344 | 43 c | A data dada pelo autor para A Caminho da Luz (1947) [REVISAR vs 1938] |
+| 20 | U0004 | 15.943 | 85 c | Por que esta palestra existe: a insistência dos seres e Sofia sem assumir o controle |
+| 21 | U0004 | 16.937 | 91 c | 13,8 bilhões de anos: dois universos, matéria e antimatéria |
+| 22 | U0004 | 17.376 | 37 c | O genoma como arquivo das pendências (28.869 genes · 2-3% ativos) |
+| 23 | U0004 | 17.603 | 40 c | O paralelo com Freud: inconsciente = genes desativados; `a gente vira bicho` |
+| 24 | U0004 | 18.609 | 83.759 c | O eu como epifenômeno; o espírito que anima ativou painéis no canal |
+| 25 | U0004 | 19.197 | 42 c | O processador Vol reaparece como mecanismo `além da condição humana` |
+| 26 | U0004 | 19.947 | 74 c | A cosmologia em uma frase: duas bandas e uma blindagem (erraticidade inclusa) |
+| 27 | U0004 | 20.912 | 172 c | Planejado × improvisado: `nenhum dos dois foi finalizado` — o título cosmológico |
+| 28 | U0004 | 21.210 | 61 c | Quem finalizou o que ficou aberto: entropia/força tamásica = Chiva |
+| 29 | U0004 | 21.467 | 74 c | As três classes do universo vizinho: clones · demo · fenvan (`demo moderno`) |
+| 30 | U0004 | 22.779 | 53 c | Arcontes = os donos de cada loca, cuja mente define o que há nela |
+| 31 | U0004 | 23.150 | 63 c | Os dois regimes de duração: o planejado queima hidrogênio; o improvisado já faliu |
+| 32 | U0004 | 23.605 | 62.090 c | A Trimúrti criou três formas de replicação da vida biológica (uma nunca funcionou) |
+| 33 | U0004 | 23.757 | 78 c | Os dois fornos que funcionaram: Aamon e Wiingan/Vígno, cada um sob uma loca |
+| 34 | U0004 | 24.165 | 51 c | Livro anunciado: `Projeto Tal` (radar datado, sem arquivo) |
+| 35 | U0004 | 24.241 | 56 c | Os 932 milhões de anos do forno de Vígno (variante de 984/936/900) |
+| 36 | U0004 | 24.506 | 34 c | O avatar Rockmar [REVISAR]: VNO criou Sofia com a bênção de Javé e Shiva |
+| 37 | U0004 | 24.675 | 35.406 c | Sofia = suzerano/representante da Trimúrti neste universo biológico |
+| 38 | U0004 | 24.963 | 55 c | As levas antigas de Sofia (e os seres de duas/três cabeças de Chiva) |
+| 39 | U0004 | 25.287 | 131 c | Definição dos biodemos: matemática, sem emoção, sem sexo, criados em casulos |
+| 40 | U0004 | 25.446 | 34 c | A contagem das famílias: quase 250.000 · `São 249.400, não sei quantos` [REVISAR] |
+| 41 | U0004 | 25.587 | 83 c | A família Vol como última criada, interrompida pela eclosão da rebelião |
+| 42 | U0004 | 25.977 | 20 c | Os 736 da Vol (a terceira fonte que dá o número: 2020 · 2022 · 2023) |
+| 43 | U0004 | 26.320 | 38 c | A cultura das naves: nenhum biodemo nasceu em planeta; os mundos estabilizaram na 3ª geração de estrelas |
+| 44 | U0004 | 27.383 | 46 c | A etiologia das espécies: cada família é a solução de um problema técnico |
+| 45 | U0004 | 28.347 | 41 c | A provocação antropológica: 250.000 `identidades` sem sexo; na Terra são duas |
+| 46 | U0004 | 29.244 | 386 c | A família Iel e o defeito visto por Elusbell: `Ai, temos um problema` |
+| 47 | U0004 | 29.897 | 112 c | Os anjos-clones como robôs que não conseguiram ler o problema |
+| 48 | U0004 | 30.769 | 253 c | Processador de família = campo mórfico com rede tipo `WhatsApp` |
+| 49 | U0004 | 31.284 | 1.786 c | A validação fatal: o processador achou que `tinha procedência` e instantaneamente infectou a família |
+| 50 | U0004 | 31.624 | 56 c | A escala da contaminação: perto de 200 bilhões |
+| 51 | U0004 | 32.257 | 58 c | A quarentena dos 19 mundos — e a Terra como um deles |
+| 52 | U0004 | 32.316 | 5.353 c | A tese da Terra: o único mundo do Sistema Solar entre os 19 de quarentena |
+| 53 | U0004 | 32.415 | 71 c | Da saúde pública ao nervosismo: o genoma se modifica no isolamento |
+| 54 | U0004 | 33.117 | 60 c | A causa da revolta: a recusa de negociação (`é isso e não há negociação`) |
+| 55 | U0004 | 33.316 | 164 c | Lúcifer como comandante relutante que sabia explicar o problema |
+| 56 | U0004 | 33.689 | 67 c | A pergunta que inaugura `Deus`: `quem é esse ser que você diz que te representa?` |
+| 57 | U0004 | 34.355 | 154 c | O primeiro embate e as famílias mais nervosas (cromon, miom) [REVISAR] |
+| 58 | U0004 | 34.578 | 65 c | A origem dos afetos negativos: não havia algoritmo de raiva, tristeza ou agressão |
+| 59 | U0004 | 35.010 | 43 c | O procedimento de reintegração mundo a mundo — o `jeito de um dia acabar a rebelião` |
+| 60 | U0004 | 35.470 | 28 c | A contagem regressiva: há 100.000 anos restavam 2 mundos; há 200-300.000, uns 8-9 |
+| 61 | U0004 | 35.896 | 117 c | A família Vol acusada de espiã/traidora por sua proximidade com Sofia |
+| 62 | U0004 | 36.027 | 127 c | A prioridade da Vol na Terra e a ausência de `mecanismo psíquico de posse` |
+| 63 | U0004 | 37.439 | 40 c | Outra rebelião, a dos Anunnaki, `que nunca foi explicado à humanidade` |
+| 64 | U0004 | 38.010 | 106 c | Alan, o último mundo isolado, e as seis naves luciferianas há 98.000 anos |
+| 65 | U0004 | 38.594 | 59 c | As cinco famílias que vieram à Terra (e a ressalva: `esses nomes também não tem importância`) |
+| 66 | U0004 | 38.809 | 140 c | Yos Bell e Lemon → Satané/Satan/Set: a cadeia onomástica do rebelde |
+| 67 | U0004 | 39.643 | 153 c | O medo permanente da prisão que nunca veio (`Sofia nunca vem`) |
+| 68 | U0004 | 39.854 | 87 c | Toba há 70.000 anos como gatilho tecnológico da ocultação |
+| 69 | U0004 | 40.564 | 55 c | Faixas de realidade simultânea = `metaverso`: o esconderijo do quartel-general |
+| 70 | U0004 | 40.948 | 52 c | Um vol desencarnado preso à faixa por ressonância; os seres astralizados |
+| 71 | U0004 | 41.489 | 212 c | Lúcifer deprimido: a ponte direta com o ciclo P2022-03-26 |
+| 72 | U0004 | 41.739 | 77 c | Discursos em Atlântida e Hiperbórea: `situações que ainda estão por ser contadas` |
+| 73 | U0004 | 41.936 | 49.035 c | Os humanos como animais de estimação de híbridos e demos |
+| 74 | U0004 | 42.584 | 21 c | Eva e a sagacidade humana (máscara do STT preservada como recebida) |
+| 75 | U0004 | 42.763 | 206 c | A gênese humana como caldeamento: `somos o produto dessas modificações` |
+| 76 | U0004 | 43.076 | 84 c | A autocorreção em direto: 1.300 → 1.700 → perto de 2.000 rebeldes sobreviventes |
+| 77 | U0004 | 47.874 | 67 c | A regra de sobrevivência: proteger o processador `para manter a rebelião viva` |
+| 78 | U0004 | 48.098 | 36.783 c | A experiência Alto Longron (4 grafias no mesmo fôlego) e a astralização da nave |
+| 79 | U0004 | 48.341 | 83 c | O censo da nave: ~1.000 → 938 a bordo → uns 600 e poucos ficaram na Terra |
+| 80 | U0004 | 49.027 | 118 c | A mistura genética como preço para ser acatado pelo processador |
+| 81 | U0004 | 49.153 | 10.224 c | A autobiografia do espírito: Valan → Elã → Enoque → o que anima Rogério |
+| 82 | U0004 | 49.427 | 27 c | Hiperbórea: terras no polo norte, as cidades híbridas, e os 14.000 anos da destruição |
+| 83 | U0004 | 50.489 | 36 c | A escala de desgosto do canal (palestra · escrita · falar do próprio espírito) |
+| 84 | U0004 | 51.331 | 255 c | Elã como único remanescente de uma rebelião já sem ninguém que a soubesse |
+| 85 | U0004 | 51.852 | 245 c | Tot/Top chega: um ser Anunnaki nascido `cento e poucos mil anos atrás` |
+| 86 | U0004 | 52.540 | 88 c | A pergunta de Tot sobre `o criador de todas as things` [REVISAR] e quem é Sofia |
+| 87 | U0004 | 53.089 | 16.351 c | A lenda de Elã entre Inuit e esquimós do Alasca |
+| 88 | U0004 | 53.144 | 107 c | Túatha Dé Danã na Irlanda como base da mitologia celta, vinda de Hiperbórea |
+| 89 | U0004 | 53.521 | 27 c | As quatro correntes hiperbóreas: Irlanda · Escócia (filhos de Odin) · Sibéria (finou-ugrianas) · Alasca |
+| 90 | U0004 | 53.707 | 84 c | A primeira tentativa de encerrar a rebelião, feita por Elan, há 14-18.000 anos |
+| 91 | U0004 | 54.169 | 18 c | A cadeia de encarnações: Elã morre como biodemo e nasce Enoque |
+| 92 | U0004 | 54.241 | 47 c | Javé leva Enoque pelo DNA — a eleição genética como raptura |
+| 93 | U0004 | 54.714 | 107 c | Os 200 chefes de Enoque e o nome Satanail: `a confusão com o nome de Satã só fez piorar` |
+| 94 | U0004 | 55.074 | 45 c | Set, filho de Adão, e o `7` do STT [REVISAR: leria `Set`] na história dos rebeldes |
+| 95 | U0004 | 55.187 | 126 c | A cronologia de Enoque: 67 anos + 300 fora + `do anos` [REVISAR] antes da segunda tomada |
+| 96 | U0004 | 55.713 | 36 c | Tot, rei da genética, reconhece Elã no DNA de Enoque: `Você agora é humano híbrido` |
+| 97 | U0004 | 56.201 | 211 c | O juízo anunciado era para humanos E anjos, inclusive os desobedientes |
+| 98 | U0004 | 56.892 | 160 c | A analogia da conquista para explicar a dificuldade de comunicação entre seres |
+| 99 | U0004 | 57.382 | 36 c | A queima de arquivos como razão do conhecimento fragmentado |
+| 100 | U0004 | 57.861 | 94 c | Tot rastreando as encarnações do espírito de Elã/Enoque — e a amizade com o que anima Rogério |
+| 101 | U0004 | 58.309 | 42.301 c | A Word e o processador V: conexão por vontade própria (a ponte quântica explicada) |
+| 102 | U0004 | 58.576 | 36 c | A frase-recorte do ciclo: `os que morreram podem continuar rebelados` |
+| 103 | U0004 | 58.833 | 38 c | A ressalva teodiceica: Lemion ainda não era monstro naquela conversa |
+| 104 | U0004 | 59.232 | 145 c | Pós-intervalo: a confusão de Lemion parou o exílio/transição planetária |
+| 105 | U0004 | 59.839 | 32 c | As três camadas de codificação: clones robotizados → demo → fenvan (`biologizadas` cá) |
+| 106 | U0004 | 60.545 | 72 c | A autodeclaração do neologismo: biodemo · demobio · demobiol são nomes ACHADOS pelo autor |
+| 107 | U0004 | 61.183 | 154 c | As duas rebeliões paralelas: Lúcifer nos biodemos · Prometeu nos demobiol |
+| 108 | U0004 | 61.483 | 132 c | Hesíodo [STT: exíudo] como testemunha da sexualização dos demos |
+| 109 | U0004 | 61.686 | 75 c | O humano como raça que carrega a atualização de todos os problemas |
+| 110 | U0004 | 62.038 | 60 c | A assimetria da Trimúrti: Brahma sem avatar; Chiva e Vno com avatares |
+| 111 | U0004 | 62.316 | 1.267 c | Jesus (e `saibab` [REVISAR]) contados como avatares produzidos nesse jogo |
+| 112 | U0004 | 62.763 | 215 c | A `caneta de escrita rápida` dada a Enoque, o escriba, para escrever muitos livros |
+| 113 | U0004 | 63.439 | 144 c | Javé obrigado a assinar-se em Adão: a genealogia de Gênesis 5 como plano de substituição |
+| 114 | U0004 | 64.031 | 10.404 c | O que os Anunnaki fizeram ao DNA humano: inteligência E obediência |
+| 115 | U0004 | 64.483 | 33 c | A solidão administrativa de Sofia — e os que vinham de lá `sem o menor respeito` |
+| 116 | U0004 | 64.808 | 44 c | Marte há 300 milhões de anos: a briga que Sofia não impediu |
+| 117 | U0004 | 64.902 | 122 c | Sofia como monarca constitucional: autoridade sem poder de fogo |
+| 118 | U0004 | 65.632 | 25.339 c | As quatro etnias da Irlanda, todas híbridas (partolanos, nemedianos, Morianos, Túatha) |
+| 119 | U0004 | 66.021 | 109 c | Bilbao, Santander, São Sebastián: o assentamento dos milesianos [REVISAR onomástica] |
+| 120 | U0004 | 66.382 | 122 c | O PACTO: os Túatha entregam o saber para que os humanos criem um método de compreendê-lo |
+| 121 | U0004 | 66.784 | 124 c | A coexistência na faixa paralela: `tudo que vocês fizerem a gente vai saber` |
+| 122 | U0004 | 67.069 | 91 c | Os `gnomos` da Irlanda = os Túatha: a etiologia do mito folclórico |
+| 123 | U0004 | 67.272 | 237 c | Os colégios arquidrídicos como o método pedido [REVISAR] |
+| 124 | U0004 | 67.374 | 135 c | A isomorfia: o pacto irlandês e a ditagem enoquiita são o mesmo procedimento |
+| 125 | U0004 | 68.257 | 80 c | A Cabala entregue no século II a Shimon bar Yochai [REVISAR], elaborada `bons milênios antes` |
+| 126 | U0004 | 68.573 | 73 c | A correção terminológica: não há árvore; são as 10 sefirot, nome dos cabalistas |
+| 127 | U0004 | 69.123 | 21 c | `Horlogus`/orlog: o nome que faltava (aparece 2×, degradado) [REVISAR] |
+| 128 | U0004 | 69.145 | 21 c | O rol das sefirot lido por Enoque: Krishna · Quarto Logos · Zeus · Odin/Indra · Adão Cadimão |
+| 129 | U0004 | 69.565 | 195 c | A condição final: ou o código fonte se organiza, ou o criador nunca terá paz |
+| 130 | U0004 | 69.761 | 70 c | Patangel: matrix de duas bandas, o eu em coma e as vṛtti como elétrons sujos |
+| 131 | U0004 | 70.311 | 53 c | Nirodha definido: o processador recolhe e reprocessa as vṛtti doentias |
+| 132 | U0004 | 70.784 | 11.054 c | A tese operacional: os processadores somos NÓS, humanos — reprocessar e devolver |
+| 133 | U0004 | 71.130 | 140 c | A massa crítica necessária à ressurreição do corpo e do eu do criador |
+| 134 | U0004 | 71.361 | 195 c | A 10ª sefira = Sofia/Malkut [REVISAR nas 5 grafias], já existente |
+| 135 | U0004 | 71.605 | 611 c | O motivo da obstrução: o universo vizinho vai acabar e os arcontes querem emigrar |
+| 136 | U0004 | 71.805 | 64 c | Sofia preparou Jesus para servir a Keter/Javé/Brahma — e a recusa do messias violento |
+| 137 | U0004 | 71.872 | 55 c | A recusa como pivô da história: o Messias que não quis subjugar |
+| 138 | U0004 | 72.332 | 87 c | A aposta dos três sobre Enoque e as fórmulas de poder inoculadas no DNA |
+| 139 | U0004 | 72.472 | 82 c | O custo: Enoque não aguentou tanto [máscara] no DNA — e `deu banana pros` |
+| 140 | U0004 | 72.603 | 86 c | Rogério como última opção dos três, no mesmo gesto da recusa de Jesus |
+| 141 | U0004 | 72.953 | 297 c | O protocolo divino do doar-se: dignidade existencial como condição de validade do genoma |
+| 142 | U0004 | 73.685 | 28.577 c | A acusação central: Sofia olha para tudo e não age, como há 700.000 anos |
+| 143 | U0004 | 74.175 | 43 c | A cerimônia de posse que nunca houve — a fórmula do ciclo |
+| 144 | U0004 | 74.848 | 25 c | A encarnação como inseminação do genoma de Sofia em Maria [REVISAR a frase] |
+| 145 | U0004 | 75.077 | 124 c | O DNA de Maria como o que desviou o plano: `eu não consigo fazer isso` |
+| 146 | U0004 | 75.390 | 28 c | A frase de risco, imediatamente revertida pelo próprio canal (`Javé não pensa assim não`) |
+| 147 | U0004 | 75.788 | 188 c | A revogação: os arcontes declaram nulo o engendramento de Malkut |
+| 148 | U0004 | 76.351 | 49 c | Bandidos e heróis: Luzb, `Tênis prometeu`, Eva, Noréia filha de Eva e Lilif [REVISAR] |
+| 149 | U0004 | 76.748 | 36 c | O selo temporal interno (1ª vez) — a datação feita pela própria fala |
+| 150 | U0004 | 76.960 | 35 c | Dez personagens que são trinta: a dilatação do painel |
+| 151 | U0004 | 77.287 | 41 c | A decomposição da Trimúrti: Brahma em coma, Vígno desfeito, Chiva se autodestruindo |
+| 152 | U0004 | 77.605 | 24.657 c | A Word de Set + a gestão de Malkut + a educação do Quarto Logos: a nova administração |
+| 153 | U0004 | 77.956 | 46 c | A pedagogia exportada do genoma humano para as almas perturbadas |
+| 154 | U0004 | 78.234 | 111 c | O vazio de poder como risco: Bel, Lemion, Tod e `outros tantos que a gente nem tem noção` |
+| 155 | U0004 | 78.567 | 48 c | O fim da via violenta: o que foi estruturado pelo caos, a entropia vai destruir |
+| 156 | U0004 | 78.950 | 91 c | O limite duplo: a atmosfera dos Anunnaki e a autodestruição humana |
+| 157 | U0004 | 79.176 | 46 c | Colapso em curso, não iminente: locas já caíram, outras caem, outras inteiras |
+| 158 | U0004 | 79.471 | 68 c | A inversão do conceito: a rebelião agora só continua sendo PROPOSITIVA |
+| 159 | U0004 | 79.638 | 192 c | A nova espécie biodêmica sendo gerada agora para dar guarida ao eu de Jah |
+| 160 | U0004 | 79.956 | 37 c | A soneca de 4.380.000 anos e a leitura do descanso divino [REVISAR o número] |
+| 161 | U0004 | 80.234 | 32 c | A distinção maior do ciclo: `isso não é Deus, é só o criador` |
+| 162 | U0004 | 80.952 | 86 c | A não-adesão do canal: `não tenho opinião formada. Espero nunca ter` |
+| 163 | U0004 | 81.266 | 51 c | A inversão escandalosa: a rebelião talvez financie a festa da posse |
+| 164 | U0004 | 81.318 | 39 c | Lemion no astral planetário, com `momentos lúcidos` |
+| 165 | U0004 | 81.727 | 48 c | O núcleo ético: nenhuma falange representa o bem; o bem é produção humana |
+| 166 | U0004 | 82.122 | 49 c | O resíduo legítimo: a ideia viva de que há algo errado na gestão da vida |
+| 167 | U0004 | 82.318 | 519 c | Elusbell assiste esta palestra — e Lemion a vê como um pesadelo |
+| 168 | U0004 | 82.657 | 180 c | A audiência não-humana classificada: frios (anunx/Tot) · minimamente amorosos (sirianos) · lúcidos |
+| 169 | U0004 | 82.957 | 175 c | A imagem do ciclo: a noiva sem noivo — Sofia sem quem a leve ao altar |
+| 170 | U0004 | 83.295 | 185 c | As quatro falências (religiões · psiquismo · utopias · sonhos) como mecanismo |
+| 171 | U0004 | 83.701 | 85 c | Os choques de realidade como pedagogia: nada de bom vem da fé que se tinha |
+| 172 | U0004 | 84.168 | 37 c | A definição final da rebelião: inconformismo lúcido, associado a Pandora e Eva |
+| 173 | U0004 | 84.281 | 38 c | A frase de risco (gênero), a ser moldurada ao lado da anterior |
+| 174 | U0004 | 84.483 | 125 c | Satyagraha nomeado pelo autor como a forma da resistência |
+| 175 | U0004 | 84.718 | 163 c | O fato datado mais recente: Sofia esteve na nave em 2018-19 [REVISAR: 2018, 19] |
+| 176 | U0004 | 84.882 | 150 c | A proteção do processador contra a própria Trimúrti |
+| 177 | U0004 | 85.084 | 373 c | A crítica ao dharma do Bagavaguita [REVISAR a frase do `matar sem ordem`] |
+| 178 | U0004 | 85.961 | 65 c | A honestidade metodológica: vale para os dois lados, com consequências nos dois |
+| 179 | U0004 | 86.134 | 229 c | As quatro ordens esclarecidas: humanos · anunnakis · sirianos · olimpianos |
+| 180 | U0004 | 86.878 | 322 c | O selo temporal interno (2ª vez): a sala, 3 de dezembro de 2023 |
+| 181 | U0004 | 87.211 | 70 c | A tese-título, enunciada pela fonte, na primeira pessoa do plural |
+| 182 | U0004 | 87.349 | 67 c | O sorriso de Elosbell como o de Pandora: o fim do jugo dos demos |
+| 183 | U0004 | 87.489 | 90 c | `Nós humanos e os biodemos` contra figuras equivocadas que ainda detêm o poder |
+| 184 | U0006 | 87.968 | 77 c | Resposta a João Altair: é computador quântico (ou dois, unidos por ressonância lógica) |
+| 185 | U0007 | 88.244 | 149 c | Pergunta de T César sobre a lacuna: Krishna · Satã · Tot · Lúcifer |
+| 186 | U0007 | 88.466 | 23 c | A defesa de Tot e a `demência demo` atribuída a Krishna |
+| 187 | U0007 | 88.948 | 85 c | A maldição de Gāndhārī aplicada a Krishna: um avatar não deveria sofrer esse escândalo |
+| 188 | U0007 | 89.618 | 86 c | O critério de legitimidade da fonte: resolver sem criar novos problemas |
+| 189 | U0007 | 89.938 | 41 c | A função declarada do Quarto Logos: suprir a deficiência educacional de Sofia |
+| 190 | U0007 | 90.602 | 85 c | A assimetria física: antimaterialidade, portais e a inadaptação dos deuses |
+| 191 | U0009 | 90.911 | 60 c | A palestra que ele nunca teve `coragem nem saco` de fazer: a gênese da hibridagem |
+| 192 | U0009 | 91.418 | 29 c | Gênesis nas entrelinhas: filhos de homens × filhos de deuses |
+| 193 | U0009 | 91.749 | 63 c | A série dos semideuses: Góg, Jesus (pai Rockma), Teseu, Helena e as 50 figuras |
+| 194 | U0009 | 92.336 | 42 c | As três limpezas da Terra: 14.000 · 12.800 · 9.000 anos — e Noé como resto |
+| 195 | U0010 | 92.876 | 69 c | Jan e o exílio: 1989 como marco; o passaporte `já tá carimbado` |
+| 196 | U0016 | 94.054 | 24 c | A janela datada: marco em julho de 1989 → 2050/51/52 |
+| 197 | U0016 | 94.496 | 75 c | Quem sai: os que completaram o currículo da condição humana |
+| 198 | U0016 | 94.708 | 112 c | A saída FOI PARADA — e só dois dos três fatores são conhecidos |
+| 199 | U0016 | 95.126 | 251 c | O juízo final como `grande piada`: o discurso da RC deu atenuante aos exilados |
+| 200 | U0016 | 95.378 | 31 c | A autodefesa dos exilados: `seria um gênio e não um monstro` |
+| 201 | U0016 | 96.107 | 117 c | A espiritualidade terrena sem autoridade para carimbar passaporte — e a força que a anestesiou |
+| 202 | U0016 | 96.667 | 244 c | A autocrítica: entre os revelados há figuras depravadas e perversas |
+| 203 | U0016 | 97.251 | 82 c | A resposta a Jan: quem sai negativo não volta à condição humana |
+| 204 | U0021 | 97.662 | 20 c | A frase política (Brasil/Estados Unidos · `basta dar o poder`): moldura obrigatória |
+| 205 | U0023 | 97.831 | 64 c | O aforismo sobre direita e esquerda, dito como problema generalizado |
+| 206 | U0025 | 98.189 | 244 c | A pergunta sobre Apocalipse: haveria improviso no profetizado? `Não.` |
+| 207 | U0028 | 98.404 | 29 c | A exegese datada: só Apocalipse 11 não está predefinido; o resto, sim |
+| 208 | U0030 | 98.469 | 192 c | As duas testemunhas, o terremoto e a sétima trombeta: definidos; o tempo entre eles, não |
+| 209 | U0032 | 98.825 | 51 c | O fecho da exegese, em sete palavras |
+| 210 | U0034 | 98.899 | 102 c | A pergunta sobre Jane Miranda [REVISAR] e o primeiro questionamento de Lúcifer |
+| 211 | U0035 | 99.457 | 39 c | A resposta: o problema era de algoritmo e de protocolo, não moral |
+| 212 | U0035 | 99.736 | 65 c | Luz(ber) viu o defeito na gênese da genética daquele ser |
+| 213 | U0035 | 99.872 | 26 c | O que Sofia não soube responder — a origem da pendência |
+| 214 | U0035 | 99.924 | 35 c | A fórmula que nomeia o ciclo anterior: a genética podre do criador (= vṛtti de Patangel) |
+| 215 | U0035 | 100.062 | 23 c | A redução deliberada: `era só uma questão científica` [REVISAR `Job Misso`] |
+| 216 | U0037 | 100.171 | 134 c | A pergunta final: entropia destruirá o quartel, o processador e a teia de Orlo? |
+| 217 | U0038 | 100.331 | 102 c | `Tudo. A entropia destrói tudo`: o escopo sem exceção |
+| 218 | U0038 | 100.493 | 117 c | A escatologia da informação: tudo já é escaneado por quem está fora da matrix |
+| 219 | U0038 | 100.712 | 318 c | A função declarada do ERT, do processador V e dos cérebros: custódia de informação |
+| 220 | U0038 | 100.834 | 1.534 c | A transmigração como passagem de dados entre cérebros |
+| 221 | U0038 | 100.972 | 58 c | A limpeza final para que a criação se apague — igual um fogo de artifício |
+| 222 | U0038 | 101.275 | 37 c | A imagem do presente cosmológico: estamos no meio da explosão |
+| 223 | U0038 | 101.545 | 71 c | As condições do fim: estoque de hidrogênio e a erraticidade limpa |
+| 224 | U0038 | 101.833 | 63 c | O novo nível de espiritualidade — inclusive para o eu do criador e seu corpo manásico |
+| 225 | U0038 | 101.994 | 143 c | Só Malkut/Sofia pode engendrar espécie que ressuscite o criador — e já está sendo feito |
+| 226 | U0038 | 102.263 | 33 c | A fórmula do ciclo: Sofia, vanguarda do atraso (engendrado há 6 bilhões de anos) |
+| 227 | U0038 | 102.474 | 20 c | O argumento anátomo: um cérebro radiata contra o bilatério humano — daí a ausência de emoção |
+| 228 | U0038 | 102.495 | 90 c | A prótese emocional de Sofia: `criar um órgãosinho para ele` [REVISAR] |
+| 229 | U0038 | 102.599 | 35 c | Fecho: `tem muita água para rolar. Obrigado. Desculpem qualquer coisa` |
+
+*Cobertura medida: 229 âncoras de abertura de seção, da 1ª no caractere 63 à última terminando em 102.633, dentro de uma fala de 102.610 chars. Maior vão entre o fim de uma âncora e o início da seguinte: 1.984 chars — todos os vãos são corpo de frase dentro de uma seção já aberta, não silêncio não lido: a leitura foi integral e os 8 chunks de `leitura/` cobrem a fala por igualdade de texto (ver `leitura-segmentada.txt`).*
