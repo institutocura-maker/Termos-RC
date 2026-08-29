@@ -63,8 +63,9 @@ divergência numérica é harmonizada para fazer a anterioridade parecer maior.
    separável (diferentemente de P2020-04-25, onde havia 16,5 mil caracteres cortáveis).
 3. **O futebol e o mecão.** *Bahia, Vitória, Flamengo* — mesma lógica: servem para dizer que se pede a Deus
    que torça. Manter; não citar em ficha.
-4. **A seção de suicídio.** U0029 tem o trecho mais delicado do corpus: a vida insuportável, *pegar um
-   revólver é melhor o alto engano*, e a declaração de que alguns ali **já se desativaram em vidas
+4. **A seção de suicídio.** **U0009** (e não U0029, como a leitura 1 havia endereçado) tem o trecho mais
+   delicado do corpus: a vida insuportável, o *alto engano* de preferir o revólver, e a declaração de que alguns
+   ali, na primeira pessoa do plural, **já nos desativamos em vidas
    passadas**. Não é digressão e não é sensacionalismo: é o fecho do argumento sobre a depressão.
    Proposta: **manter na transcrição + nota editorial de moldura**, e **proibir** qualquer aspa dessa
    seção em fichas (precedente: a trava D-3 de 2020, que o Curador confirmou).

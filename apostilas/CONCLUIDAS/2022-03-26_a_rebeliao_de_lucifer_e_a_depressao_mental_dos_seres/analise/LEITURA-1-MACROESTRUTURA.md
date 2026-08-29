@@ -18,7 +18,7 @@
 | **P6** | a epidemia | U0007 | o vírus de Lúcifer; toxoplasma/rato/gato; hiena; COVID no cérebro; *o corintiano trocando de time* |
 | **P7** | a colmeia e a rede de processadores | U0008 | sistema colmeico definido; Sophia rainha com rédeas frouxas; o processador em Órbon; a atualização espermática |
 | **P8** | a quarentena dos 19 mundos | U0008, U0009, U0029 | isolamento, reintegrações sucessivas, e a Terra como o *último* e o *pior* deles |
-| **P9** | a depressão cósmica | U0009, U0029, U0034 | Sophia deprimida e contaminada; a vergonha de viver; os que morreram sem ter céu; o retrato de Dorian Gray e a entropia transferida |
+| **P9** | a depressão cósmica | U0008, U0009, U0029, U0034 | Sophia deprimida e contaminada; a vergonha de viver; os que morreram sem ter céu; o retrato de Dorian Gray e a entropia transferida |
 | **P10** | a chave cristológica | U0020, U0021, U0025, U0034 | o espírito fateado; a recusa no Tabor; os arcontes dos dez céus e a vestimenta retida; o vírus sem hospedagem e a espécie 315 |
 | **P11** | a resposta humana e o Q&A | U0040–U0050 | filosofia como específico; o favor divino ao criador falido; o Mentalma como Sankhia; os nomes da roda ao vivo |
 
@@ -36,7 +36,8 @@ para a transcrição:
 2. **O diálogo sobre a guerra do Sol** (U0010–U0019) é uma **revisão em direto**: alguém pergunta, a fonte
    corrige o próprio quadro e passa a distinguir a guerra do universo biológico da guerra entre os dois
    universos. Isso não é ruído: é a única vez no acervo em que a fonte **refina uma tese em público**.
-3. **As intervenções do baiano** (U0022–U0027, U0030–U0033) e o pedido de intervalo (fim de U0020)
+3. **As intervenções do baiano** (as menções medidas ao sotaque: U0003, U0004, U0022, U0024, U0026, U0028,
+   U0031, U0040) e o pedido de intervalo (fim de U0008)
    pertencem ao mesmo plano: a sala. A apostila **marca** essas falas como interlocução e não as
    reescreve.
 

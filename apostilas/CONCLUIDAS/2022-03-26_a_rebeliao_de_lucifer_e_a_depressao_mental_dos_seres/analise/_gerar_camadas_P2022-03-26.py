@@ -16,7 +16,7 @@ _matriz-anterioridade.md = a tabela calculada contra `ferramentas/dados_termos.p
 O script **não escreve nada** se houver âncora que não bata exatamente uma vez: imprime a lista
 e sai com código 1.
 """
-import os, re, sys, datetime, importlib.util
+import os, re, sys, glob, datetime, importlib.util
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 CICLO = os.path.dirname(AQUI)
@@ -217,7 +217,8 @@ def uaddr(p):
     import bisect
     return f"U{bisect.bisect_right(uoff, p):04d}"
 
-DELTA = n - len(open(os.path.join(os.path.join(os.path.dirname(os.path.dirname(CICLO)), "apostilas/CONCLUIDAS/2020-04-25_os_desdobramentos_da_rebeliao_de_lucifer/original.txt")), encoding="utf-8").read())
+_MODELO = glob.glob(os.path.join(RAIZ, "apostilas", "**", "2020-04-25_os_desdobramentos_da_rebeliao_de_lucifer", "original.txt"), recursive=True)
+DELTA = n - (len(open(_MODELO[0], encoding="utf-8").read()) if _MODELO else 0)
 out = [f"# CAMADA 0 — O ENDEREÇAMENTO MEDIDO (P2022-03-26)",
        "",
        f"Fonte: `original.txt` · {n} chars · 51 linhas lógicas (48 com fala) · o maior bruto de palestra já "

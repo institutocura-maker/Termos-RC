@@ -33,7 +33,7 @@
    (66× + virótico 5×).** Uma apostila que subordine o vocabulário médico ao vocabulário espiritual — por
    higiene ou por hábito — inverte o que a fonte disse. A transcrição mantém as duas camadas separadas.
 
-7. **Três trechos exigem moldura antes de qualquer uso em ficha:** a seção de U0029 sobre a vida
+7. **Três trechos exigem moldura antes de qualquer uso em ficha:** a seção de **U0009** sobre a vida
    insuportável (revólver, *nos desativamos … no sentido de nos suicidar*), o uso de *autista* /
    *esquizofrênico* / *idiotia* como categorias do divino (11 + 1 + 3 ocorrências) e as dez menções a
    pessoas públicas (Lula 4, Bolsonaro 3, Trump 2, Hillary Clinton 1) dentro do argumento sobre

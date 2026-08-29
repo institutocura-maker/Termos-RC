@@ -14,7 +14,10 @@ import os, re, ast, sys, datetime, importlib.util
 
 AQUI = os.path.dirname(os.path.abspath(__file__))
 CICLO = os.path.dirname(AQUI)
-RAIZ = os.path.dirname(os.path.dirname(CICLO))
+_d = os.path.dirname(AQUI)
+while _d != os.path.dirname(_d) and not os.path.isdir(os.path.join(_d, "ferramentas")):
+    _d = os.path.dirname(_d)   # sobe até a raiz: o ciclo funciona em `apostilas/<ciclo>/` e em
+RAIZ = _d                     # `apostilas/CONCLUIDAS/<ciclo>/` sem nada mudar (engavetamento por git mv)
 SIGLA = "P2022-03-26"
 OUT = os.path.join(AQUI, "DOSSIE-PRE-CURADORIA-TERMINOLOGICA-v1.md")
 
