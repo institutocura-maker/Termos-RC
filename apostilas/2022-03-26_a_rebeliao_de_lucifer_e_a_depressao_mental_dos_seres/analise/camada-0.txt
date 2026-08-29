@@ -1,0 +1,220 @@
+# CAMADA 0 — O ENDEREÇAMENTO MEDIDO (P2022-03-26)
+
+Fonte: `original.txt` · 145408 chars · 51 linhas lógicas (48 com fala) · o maior bruto de palestra já entrado na Arca (**+30,190 chars** sobre P2020-04-25). Cada seção abaixo é **localizada por âncora** (caça-âncoras `_aspas_P2022-03-26.py`): o offset é do texto decodificado, a linha é Uxxxx. Se qualquer âncora batesse ≠ 1 vez, este arquivo não teria sido escrito.
+
+## As 5 linhas pesadas (o bruto não separa turnos)
+
+| linha | chars | o que é |
+|---|---|---|
+| **U0005** | 27.614 | a cosmogonia inteira: o protocolo da perfeição. o acidente. o código podre. os dois fornos. os biodemos |
+| **U0009** | 21.763 | a cronoestratigrafia da queda: guerras. 19 mundos. depressão. holografia genética. carma sem tribunal |
+| **U0029** | 17.440 | o fundo do poço: o efeito maior que a causa. os astronautas da eternidade. o favor divino ao criador falido |
+| **U0003** | 15.695 | abertura + a tese contra certezas + o Mahabharata + a pergunta pela perfeição |
+| **U0008** | 13.939 | o sistema colmeico. os processadores. a contaminação de Sophia. o isolamento dos mundos e a bioquímica da emoção |
+| **U0007** | 10.450 | a pandemia: vírus. toxoplasma. SARS-CoV-2 e o momento em que Lúcifer olhou para o problema errado |
+| **U0034** | 6.369 | a chave cristológica: o fateamento da consciência. Javé/Sophia/Jesus como faces. o vírus sem hospedagem e a espécie 315 |
+| **U0040** | 6.352 | a definição de filosofia. Hitler sem valores. a omissão de Deus. o riso que Sophia não tem |
+| **U0048** | 5.677 | a herdeira contestada: a Trimúrti apodrecida. os portais de 2012. os arcontes e a vestimenta de herdeiro |
+| **U0020** | 5.649 | guerra mental como guerra virótica. Francisco de Paula. a oração como espelho. os deuses pobres-coitados |
+| **U0049** | 3.051 | a resposta sobre o Mentalma: Capila. o Sankhia. as três ignorâncias e o primeiro impulso |
+
+## Mapa endereçado das seções
+
+| # | U | @ | extensão | seção |
+|---|---|---|---|---|
+| 01 | U0003 | 176 | 441 c | Abertura: o propósito e o aviso contra certezas |
+| 02 | U0003 | 617 | 1.599 c | Kant como régua do intelecto (colecionar incertezas) |
+| 03 | U0003 | 2216 | 510 c | O espírito não muda de opinião no plano desencarnado |
+| 04 | U0003 | 2726 | 1.797 c | A arquitetura mental dos ambientes espirituais |
+| 05 | U0003 | 4523 | 1.198 c | De onde veio esta palestra (a brincadeira e os temas evitados) |
+| 06 | U0003 | 5721 | 701 c | O Mahabharata como única obra completa de A a Z |
+| 07 | U0003 | 6422 | 833 c | Viaza = o codificador; Krishna do Aapaiana |
+| 08 | U0003 | 7255 | 3.061 c | Os versos por espécie de ouvinte (1.600.000 / 1.400.000 / 100.000) |
+| 09 | U0003 | 10316 | 1.029 c | A pergunta que a fonte diz nunca ter feito em público |
+| 10 | U0003 | 11345 | 1.063 c | A perfeição não é democrática. é autoritária |
+| 11 | U0003 | 12408 | 1.433 c | A pergunta pelo jacaré e pelo pato |
+| 12 | U0003 | 13841 | 1.665 c | Ser e não agir é indigno |
+| 13 | U0003 | 15506 | 255 c | A pureza radiante e a ausência de proteção |
+| 14 | U0004 | 15761 | 113 c | [quebra de linha] o aparte do baiano e do alagoano |
+| 15 | U0005 | 15874 | 1.243 c | O amor como decreto humano. não como atributo aferível |
+| 16 | U0005 | 17117 | 164 c | Abrir mão da racionalidade é idiotizar-se |
+| 17 | U0005 | 17281 | 1.136 c | Kardec e a palavra «idiotia» no Livro dos Espíritos |
+| 18 | U0005 | 18417 | 1.381 c | Pós-verdade (2016): narrativas pós facto |
+| 19 | U0005 | 19798 | 307 c | Reza a lenda: o que a palestra vai usar como método |
+| 20 | U0005 | 20105 | 481 c | O primeiro ato: quebrar o protocolo da perfeição |
+| 21 | U0005 | 20586 | 1.020 c | O nível operacional e a blindagem leve |
+| 22 | U0005 | 21606 | 881 c | Democracia zero e a criança que não entende os adultos |
+| 23 | U0005 | 22487 | 1.213 c | O nível laboratorial e as centenas de milhões de dimensões |
+| 24 | U0005 | 23700 | 440 c | O acidente: o artista que caiu na própria obra |
+| 25 | U0005 | 24140 | 648 c | O ovo cósmico. matéria e antimatéria. 13.8 bilhões de anos |
+| 26 | U0005 | 24788 | 178 c | O código podre e a replicação por clones |
+| 27 | U0005 | 24966 | 1.184 c | O código trabalhado por Shiva. Brahma. Vishnu. até Morençor |
+| 28 | U0005 | 26150 | 4.915 c | A decisão de semear o universo vizinho |
+| 29 | U0005 | 31065 | 321 c | Os dois tipos de seres: autistas do paraíso e dementes |
+| 30 | U0005 | 31386 | 564 c | Os três fornos de replicação (um nunca funcionou) |
+| 31 | U0005 | 31950 | 467 c | Surgimento dos biodemos há 900 milhões de anos |
+| 32 | U0005 | 32417 | 2.441 c | Receita existencial: frios. sem emoção. sem sexualidade |
+| 33 | U0005 | 34858 | 396 c | A família Vol. espécie 249.314. há 230 milhões de anos |
+| 34 | U0005 | 35254 | 1.284 c | Sophia e Olm e os quase 250.000 problemas |
+| 35 | U0005 | 36538 | 351 c | O eu humano como gestor da coleção de códigos |
+| 36 | U0005 | 36889 | 334 c | Ticum: consertar a obra e o criador caído na obra |
+| 37 | U0005 | 37223 | 950 c | O outro forno: sensórios. sexualizados. 2.5 bilhões de anos |
+| 38 | U0005 | 38173 | 427 c | Cinco tipos de sexo em planetas de Ereon |
+| 39 | U0005 | 38600 | 945 c | O cérebro bilatério nasce do encontro dos dois fornos |
+| 40 | U0005 | 39545 | 1.151 c | A falência declarada do sistema |
+| 41 | U0005 | 40696 | 1.114 c | O espírito de Rogério disponível para ajudar |
+| 42 | U0005 | 41810 | 1.013 c | Justiça cármica sem tribunal: as mãos cortadas dos escravos |
+| 43 | U0005 | 42823 | 1.000 c | O céu e as zonas umbralinas; nenhum estar só |
+| 44 | U0007 | 43823 | 397 c | O vírus como forma em que a vida veio do universo vizinho |
+| 45 | U0007 | 44220 | 849 c | O eu caído é um vírus antimaterial |
+| 46 | U0007 | 45069 | 475 c | As 100 trilhões de células e os 85 trilhões de hospedeiros |
+| 47 | U0007 | 45544 | 1.584 c | Lúcifer criou um vírus há 700.000 anos |
+| 48 | U0007 | 47128 | 1.326 c | Toxoplasma gondii: o plano. o rato. o gato |
+| 49 | U0007 | 48454 | 910 c | O cérebro dos ratos e dos filhotes de hiena |
+| 50 | U0007 | 49364 | 2.308 c | O campo morfogenético e a hipótese de uma mente por trás |
+| 51 | U0007 | 51672 | 679 c | Os achados de necropsia: 756 defuntos e o vírus no cérebro |
+| 52 | U0007 | 52351 | 1.294 c | Sequelas psíquicas da COVID e a piada dos torcedores |
+| 53 | U0007 | 53645 | 277 c | A origem do desvio: Lúcifer olhou e viu outro problema |
+| 54 | U0008 | 53922 | 647 c | A incompetência política de Sophia |
+| 55 | U0008 | 54569 | 751 c | Luzbell convoca o centro de comando: Sophia e os anjos Aia e Aie |
+| 56 | U0008 | 55320 | 616 c | Definição do sistema colmeico (abelha rainha e operárias) |
+| 57 | U0008 | 55936 | 64 c | A citação nominal de A Divina Colmeia |
+| 58 | U0008 | 56000 | 697 c | Sophia como rainha; o contraste com a imposição de Javé |
+| 59 | U0008 | 56697 | 514 c | O processador de cada família e o processador de Sophia em Órbon |
+| 60 | U0008 | 57211 | 1.883 c | A atualização espermática como troca de informação |
+| 61 | U0008 | 59094 | 329 c | 200 bilhões de biodemos contaminados; a família Vol em 736 |
+| 62 | U0008 | 59423 | 546 c | Os biodemos como os ETs cabeçudos e suas sondas |
+| 63 | U0008 | 59969 | 730 c | Sophia desconectada há 700.000 anos (nunca dito com clareza) |
+| 64 | U0008 | 60699 | 449 c | Sophia também se contaminou |
+| 65 | U0008 | 61148 | 1.892 c | O isolamento dos mundos doentes e a analogia da selva |
+| 66 | U0008 | 63040 | 472 c | A declaração do assunto: pandemia biodêmica e onda depressiva |
+| 67 | U0008 | 63512 | 954 c | A base bioquímica de toda emoção (hipotálamo. peptídeos) |
+| 68 | U0008 | 64466 | 425 c | O monstro que não existe: o cérebro coleciona certezas ridículas |
+| 69 | U0008 | 64891 | 1.151 c | Deus. Jesus e a infantilidade que falimos por ela |
+| 70 | U0008 | 66042 | 881 c | O indivíduo como perigo no paraíso; Prabragena. o nome antes de Javé |
+| 71 | U0008 | 66923 | 707 c | O que os humanos podem dar aos deuses (humanizá-los) |
+| 72 | U0008 | 67630 | 236 c | O intervalo pedido ao vivo |
+| 73 | U0009 | 67866 | 718 c | Do babacoide ao nervoso: a mudança de comportamento |
+| 74 | U0009 | 68584 | 1.060 c | Guerras mentais e guerras destrutivas (500.000 → 300.000 anos) |
+| 75 | U0009 | 69644 | 1.070 c | O código fonte como DNA: bases. códons. genoma |
+| 76 | U0009 | 70714 | 661 c | Biodemos e demobiol: os dois produtos. 2.5 bilhões de anos |
+| 77 | U0009 | 71375 | 740 c | Pashupati e o movimento yóguico entre os demônios |
+| 78 | U0009 | 72115 | 582 c | O encontro dos códigos e o cérebro bilatério há 450 milhões de anos |
+| 79 | U0009 | 72697 | 508 c | Dezoito… dezenove mundos isolados e a Terra sem habitante natural |
+| 80 | U0009 | 73205 | 442 c | A família Vol chamada de traidora; 620.000 anos no planeta |
+| 81 | U0009 | 73647 | 210 c | A depressão instala-se em Sophia e nas famílias |
+| 82 | U0009 | 73857 | 577 c | A mente coletiva por família (Yel. Ira. Cromon) |
+| 83 | U0009 | 74434 | 1.972 c | O eu de Javé ainda vai se tornar biodêmico |
+| 84 | U0009 | 76406 | 817 c | O conceito holográfico (o fio de cabelo e o assassino) |
+| 85 | U0009 | 77223 | 160 c | A datação humana: 500.000. 50.000. 48.000. 23.000 anos |
+| 86 | U0009 | 77383 | 12.378 c | O autismo como resquício atualizado no genoma |
+| 87 | U0014 | 89761 | 199 c | A guerra do Sol vs. a guerra do universo biológico |
+| 88 | U0018 | 89960 | 537 c | Fronteiras de portal: Túatha Dé Danann. Partolanos. Nemedianos. Milesianos |
+| 89 | U0020 | 90497 | 656 c | Toda guerra mental é guerra virótica |
+| 90 | U0020 | 91153 | 996 c | O jacaré. o pato e o transtorno mental dos dois |
+| 91 | U0020 | 92149 | 1.332 c | O anúncio: Além da Ordenação do Caos. em um mês |
+| 92 | U0020 | 93481 | 632 c | Francisco de Paula. o espírito mais evoluído que ele conhece |
+| 93 | U0020 | 94113 | 1.277 c | A oração como espelho radiante. não como providência |
+| 94 | U0020 | 95390 | 709 c | Sophia. o rei dos transtornos; os deuses. pobres coitados |
+| 95 | U0021 | 96099 | 401 c | Jesus leu a escritura e recusou a agenda do próprio espírito |
+| 96 | U0021 | 96500 | 1.869 c | Jesus não usou superpoderes para fundar império |
+| 97 | U0025 | 98369 | 1.428 c | O espírito fateado: o cancro Javé e o cancro Sophia |
+| 98 | U0028 | 99797 | 1.986 c | A depressão como fim da concentração biodêmica |
+| 99 | U0029 | 101783 | 1.155 c | A avalanche do impulso e o que Meor fez diferente |
+| 100 | U0029 | 102938 | 216 c | A infecção chegou ao paraíso: furou a blindagem |
+| 101 | U0029 | 103154 | 1.712 c | The Wall: os que batem no muro de fora |
+| 102 | U0029 | 104866 | 226 c | A reintegração dos mundos até sobrarem dois. há 100.000 anos |
+| 103 | U0029 | 105092 | 327 c | A Terra. última dos 19; o acúmulo do que não presta |
+| 104 | U0029 | 105419 | 501 c | Consertar os 28.869 genes como favor divino ao criador falido |
+| 105 | U0029 | 105920 | 127 c | A cadeia sem Lúcifer. Pandora. Eva. exildo. Tales. Sidarta |
+| 106 | U0029 | 106047 | 527 c | A genética da obediência: os macacos que se curvam |
+| 107 | U0029 | 106574 | 541 c | Reforma íntima sem caminho B; o inconformismo esclarecido |
+| 108 | U0029 | 107115 | 3.400 c | O efeito maior que a causa: as duas perguntas |
+| 109 | U0029 | 110515 | 914 c | A mãe que mergulha no poço e o Deus que não mergulha |
+| 110 | U0029 | 111429 | 755 c | Os astronautas da eternidade |
+| 111 | U0029 | 112184 | 485 c | O violino desafinado na nuvem |
+| 112 | U0029 | 112669 | 4.279 c | Quem tem mérito espiritual na história |
+| 113 | U0029 | 116948 | 688 c | O que os humanos herdaram: enlouquecer e desativar-se |
+| 114 | U0029 | 117636 | 481 c | O que presta na criação foi gerado pela experiência humana |
+| 115 | U0029 | 118117 | 1.685 c | A transfiguração reescrita: o pedido dos anjos no Tabor |
+| 116 | U0034 | 119802 | 322 c | Os 6.029 nas máchas luciferianas e os Vol 736 |
+| 117 | U0034 | 120124 | 1.081 c | A Terra como núcleo depressivo da criação |
+| 118 | U0034 | 121205 | 230 c | O processador Vol. único sobrevivente. e a mistura genética |
+| 119 | U0034 | 121435 | 600 c | 984 astralizados há 20.000 anos em Alp Longron; a nave Esferon |
+| 120 | U0034 | 122035 | 889 c | Sophia reconectada em 2019 |
+| 121 | U0034 | 122924 | 924 c | O fateamento da consciência explicado por Jesus |
+| 122 | U0034 | 123848 | 671 c | Brama e Vishnu. duas faces; Morençor. Sophia. Jesus |
+| 123 | U0034 | 124519 | 304 c | Vishnu e Morençor se desconstituem para aliviar o espírito |
+| 124 | U0034 | 124823 | 299 c | O espírito de Javé e de Sophia é o mesmo de Jesus |
+| 125 | U0034 | 125122 | 191 c | O vírus sem hospedagem. guardado para a espécie 315 |
+| 126 | U0034 | 125313 | 168 c | Javé carrega todas as doenças da queda e não se sustenta |
+| 127 | U0035 | 125481 | 366 c | A réplica ao vivo sobre tecnologia e ambiente saudável |
+| 128 | U0037 | 125847 | 228 c | Inteligência artificial como predisposição de hospedagem |
+| 129 | U0038 | 126075 | 836 c | Inteligente não é o mesmo que racional (resposta do vivo) |
+| 130 | U0040 | 126911 | 663 c | Definição de filosofia e a hierarquia de conceitos |
+| 131 | U0040 | 127574 | 86 c | A razão filosófica como específico humano |
+| 132 | U0040 | 127660 | 302 c | Hitler. a superinteligência sem valores e os financiadores |
+| 133 | U0040 | 127962 | 557 c | A rainha de volta no genoma humano; obediência e monstros |
+| 134 | U0040 | 128519 | 209 c | A omissão de Deus como problema. não como mistério |
+| 135 | U0040 | 128728 | 917 c | A pérola da coroa: a única raça que pode ser monstruosa ou maravilhosa |
+| 136 | U0040 | 129645 | 1.582 c | Espalhar a carga pela Terra e pelo cosmos |
+| 137 | U0040 | 131227 | 140 c | A depressão tira a criatividade; é Javé quem sente isso |
+| 138 | U0040 | 131367 | 481 c | Os anjos empurram droga em Javé quando ele chega ao limite |
+| 139 | U0040 | 131848 | 180 c | Sophia não sabe sorrir; nós rimos da nossa desgraça |
+| 140 | U0040 | 132028 | 336 c | A síntese nunca antes feita (declaração de método) |
+| 141 | U0040 | 132364 | 1.217 c | A espécie 315 já gerada com genética humana |
+| 142 | U0045 | 133581 | 601 c | O conselho universal ainda não existe; será criado |
+| 143 | U0047 | 134182 | 429 c | B039 citado nominalmente (Era Sapiens) e a omissão decidida |
+| 144 | U0047 | 134611 | 188 c | A realidade simultânea criada pelo quartel-general da rebelião |
+| 145 | U0047 | 134799 | 499 c | B026 citado nominalmente (Carmem Compromisso) e os laboratórios |
+| 146 | U0047 | 135298 | 332 c | Len Mion decodificou e foi o maior manipulador dos vírus |
+| 147 | U0048 | 135630 | 362 c | A entropia e o limite tamásico de Sophia |
+| 148 | U0048 | 135992 | 970 c | A aristocracia em torno da Trimúrti e os Olimpíades |
+| 149 | U0048 | 136962 | 516 c | Os portais abertos em 2012 e fechados pela entropia |
+| 150 | U0048 | 137478 | 524 c | A herança da Trimúrti contestada; os arcontes até o 10º céu |
+| 151 | U0048 | 138002 | 1.117 c | A vestimenta de herdeiro e a forma cósmica que virá |
+| 152 | U0048 | 139119 | 509 c | Os dois cenários cosmológicos (hidrogênio e 50 bilhões de anos) |
+| 153 | U0048 | 139628 | 887 c | O universo vizinho acabando: as locas já estão desabando |
+| 154 | U0048 | 140515 | 170 c | O retrato de Dorian Gray como modelo de entropia transferida |
+| 155 | U0048 | 140685 | 416 c | Nenhuma conveniência humana conta; somos criaturas-ferramenta |
+| 156 | U0048 | 141101 | 144 c | O Mentalma como cura da depressão (pergunta da plateia) |
+| 157 | U0049 | 141245 | 310 c | O Mentalma criado para ele mesmo e forçado a público |
+| 158 | U0049 | 141555 | 504 c | O espírito que o animou foi Capila. 2.700 anos. e criou o Sankia |
+| 159 | U0049 | 142059 | 416 c | As três ignorâncias de Capila |
+| 160 | U0049 | 142475 | 786 c | O primeiro impulso é dos vírus; o erro vem um milésimo depois |
+| 161 | U0049 | 143261 | 248 c | O Mentalma é o Sankhia atualizado. visto pela moda ocidental |
+| 162 | U0049 | 143509 | 292 c | Por que o Sankhia não diz «ó Deus»: matar em nome de Brama ou de Alá |
+| 163 | U0049 | 143801 | 584 c | Pense por você mesmo: se Deus é isso. é pior que qualquer ser humano |
+| 164 | U0050 | 144385 | 968 c | O pedido final sobre a cadência das palestras em São Paulo |
+| 165 | U0050 | 145353 | 55 c | Encerramento: prudência e desculpas |
+
+**Seções endereçadas: 165 · vão coberto: 176 → 145.408 caracteres** (as linhas fora do vão são o cabeçalho-título do arquivo. as quebras de linha do STT e as 21 falas curtas de interlocução ao vivo. listadas adiante).
+
+## As falas curtas (o auditório vivo dentro da linha)
+
+Este bruto é **menos** monolítico que o de 2020: ele tem 24 linhas de 3 a 150 caracteres que são interrupções e respostas do(s) interlocutor(es) ao vivo. Elas são aqui registradas **porque mudam a leitura** — parte delas é o chamado «baiano», sobre quem recai a piada recorrente, e parte é questão de plateia que a fonte responde no mesmo fôlego.
+
+- **U0004** (26 c) — Alagoano. Alagoana é frio.
+- **U0006** (31 c) — Essa espécie de 250 vai nascer.
+- **U0010** (53 c) — Aquela guerra que tava foi mencionada no sol. Essa aí
+- **U0011** (4 c) — não,
+- **U0012** (3 c) — não
+- **U0013** (107 c) — é outro tipo de guerra. Aqui é guerra do universo biológico e antes eu falei de guerra no universo vizinho.
+- **U0014** (60 c) — A guerra do sol é guerra entre os dois universos diferentes.
+- **U0015** (57 c) — Não, eu Mas assim, a fronteirista aqui que eu me refiro e
+- **U0016** (12 c) — é de portal.
+- **U0017** (12 c) — É de portal,
+- **U0019** (8 c) — parcial,
+- **U0022** (19 c) — Eu faço com baiano.
+- **U0023** (11 c) — Fala sério.
+- **U0024** (15 c) — Faz com baiano.
+- **U0027** (35 c) — tira o microfone dele que é melhor.
+- **U0030** (61 c) — Aí, você fez o certo agora. Tá lá de fazer o pacto com Sofia.
+- **U0031** (86 c) — Olha a voz do demônio falando através do baiano. Então assim, nós humanos, nós humanos
+- **U0032** (67 c) — achou quear agora falei vai ter mais uns quatro quatro, mas vai ser
+- **U0033** (32 c) — fica na tua. Nós humanos temos o
+- **U0035** (109 c) — Agora tá tendo uma tentativa tecnológica, não tá? Não, para criar um ambiente mais saudável, mais compatível.
+- **U0036** (67 c) — Mas não é essa não é essa estratégia que tá sendo engendrado, hein?
+- **U0041** (57 c) — os humanos vão ter que ir para cima e para baixo, como é?
+- **U0042** (69 c) — A gente tá aqui para lhe empurrar, para lhe apoiar o que for preciso.
+- **U0043** (132 c) — Jesus me livre. Pessoal, com todo respeito, encerro aqui a palestra, peço desculpas e fico à disposição de perguntas. Diga, Marcelo.

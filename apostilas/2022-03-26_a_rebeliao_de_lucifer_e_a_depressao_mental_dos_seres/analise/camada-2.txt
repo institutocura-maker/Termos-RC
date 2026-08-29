@@ -1,0 +1,152 @@
+# CAMADA 2 — O DICIONÁRIO MEDIDO (P2022-03-26)
+
+Tudo que segue é **contagem** do `original.txt` com o regex indicado, e o endereço da primeira batida. Nada aqui foi lembrado: foi o que a varredura devolveu (inclusive os zeros).
+
+## 1. O vocabulário da palestra
+
+| termo / padrão | ocorr. | 1ª batida | observação |
+|---|---|---|---|
+| Lúcifer | 39 | U0001 @25 | nome canônico da Base (RC-078/RC-142), no título e no corpo |
+| luciferiano(s) | 7 | U0003 @4.670 | adjetivo da rebelião |
+| Luzbell / Luisbell / Elusbell (as grafas do nome) | 4 | U0007 @53.595 | o STT degrada o nome; a Base grafa Luzbel (ver §3) |
+| Lúcio (forma carinhosa/coloquial) | 3 | U0008 @65.943 | a fonte usa o hipocorístico no fecho do bloco |
+| rebelião | 26 | U0003 @8.018 | o título é o único lugar onde a palavra sai com maiúscula |
+| depressão / depressiv[oa]o(s) | 32 | U0001 @37 | o tema do título |
+| Javé (e todas as degradações) | 33 | U0005 @25.316 | a onomástica de Javé está degradada — ver §3 |
+| Brama / Brahma / Brasna / Brágina | 14 | U0003 @6.147 | Brahma em 4 grafias |
+| Chiva / Shiva | 9 | U0005 @25.021 | Shiva, duas formas |
+| Vishnu (Vno / Virgno / Virgum / Vismo / Aivisno) | 8 | U0005 @25.622 | a forma mais instável do bruto |
+| Morrensor (e as variantes: Morençor, Morrem Sor, Moros, Borrensor) | 16 | U0005 @25.627 | a figura que costura a queda; grafia instável |
+| Protogonos / Protoos / Proto Gomos | 4 | U0005 @25.704 | nome do mesmo ponto da série das faces |
+| Sofia / Sophia | 91 | U0005 @33.555 | a palavra-dado deste ciclo |
+| Olm | 1 | U0005 @35.250 | o par de Sophia na coleção dos problemas |
+| biodemo (e variantes) | 57 | U0005 @32.093 | a estirpe central do relato, na forma canônica e nas degradadas |
+| demobiol / demorobiol | 2 | U0009 @70.825 | neologismo da fonte para os híbridos do outro forno |
+| código fonte definidor do criador | 6 | U0005 @24.788 | a fórmula que a fonte repete como tecnicismo |
+| código podre | 4 | U0005 @24.359 | a expressão crua, sem eufemismo |
+| vírus | 66 | U0007 @43.908 | o mecanismo de tudo, neste relato |
+| bactéria | 26 | U0007 @45.186 |  |
+| Toxoplasma (todas as grafias) | 30 | U0007 @45.765 | a analogia central da palestra |
+| COVID / covid | 11 | U0007 @46.750 |  |
+| pandemia | 9 | U0007 @43.617 | 9× — a moldura em que a palestra foi dita |
+| isolamento / isolad[oa] | 13 | U0008 @61.100 | os mundos isolados |
+| colmeia / colmeico / calmeico / coméico | 7 | U0007 @53.176 | o sistema; o bruto tem quatro formas |
+| abelha rainha / operária | 14 | U0008 @55.349 | RC-175/RC-176 |
+| processador | 39 | U0003 @938 | a rede de Sophia — e o STT parte a palavra em duas |
+| cérebro radiata / bilatério | 8 | U0005 @34.298 | RC-631 e a passagem ao cérebro duplo |
+| campo m[óo]rfico / morfogenético | 1 | U0007 @49.310 | RC-381 |
+| emaranhamento quântico | 2 | U0003 @8.696 | RC-161 |
+| elétrons | 3 | U0003 @8.681 | a memória quântica |
+| 28.869 genes | 5 | U0005 @36.466 | o número canônico da Base (RC-562), repetido pelo autor |
+| DNA | 4 | U0005 @31.802 |  |
+| ticum (tikkun) | 2 | U0005 @36.908 | a Cabala como chave da reforma — RC-514/RC-545 |
+| Cabala | 4 | U0005 @33.409 |  |
+| arcontes | 2 | U0048 @137.481 | os que retêm a vestimenta — RC-474/RC-770 |
+| Trimurti (grafas) | 4 | U0048 @136.030 | a aristocracia apodrecida — RC-104 |
+| Zeus / Cronos / Uranos / Olimp | 10 | U0009 @74.962 | a mitologia grega como registro |
+| titãs | 1 | U0009 @88.468 |  |
+| Mahabharata (todas as grafias, e o trocadilho barata) | 22 | U0003 @5.767 | a fonte grafa o título de 9 jeitos; o trocadilho é da própria fonte |
+| Viaza / Vyasa | 4 | U0003 @6.381 | o codificador — RC-585 |
+| Krishna | 2 | U0003 @6.502 | RC-414 |
+| Gandarvas / Rxaças / Pitres | 118 | U0003 @208 | os destinatários dos versos |
+| Kant (Manuel / Emanuel Cant) | 3 | U0003 @679 | a régua do intelecto; 3 grafias |
+| Kardec / espiritismo / Livro dos Espíritos | 6 | U0003 @10.614 |  |
+| espírito(s) | 99 | U0003 @1.539 | a palavra mais frequente do bruto |
+| erraticidade | 1 | U0029 @117.612 | o tecnicismo kardecista |
+| idiotia / idiota | 3 | U0005 @17.175 | a palavra do século XIX que a fonte evoca |
+| autista / espectro autista | 16 | U0005 @17.364 | o uso que a fonte faz do termo — item de dossiê |
+| esquizofrênico | 1 | U0020 @94.797 |  |
+| demente / demência | 20 | U0005 @31.093 | a categoria ontológica da queda |
+| Capila / Sankia / Sanquia | 4 | U0049 @141.626 | RC? a escola de Kapila — grafia única no bruto |
+| Mok (moksha) / sansara | 2 | U0049 @141.805 |  |
+| Pachupate (Pashupati) | 1 | U0009 @71.358 | a forma de Shiva citada uma vez |
+| trimurte apodreceu | 1 | U0048 @137.075 |  |
+| «matar em nome de» (Brama, Alá) | 4 | U0021 @96.599 | a fórmula da crítica às religiões |
+| Mion / Len Mion / Lemion / Limion / Len Mon | 5 | U0034 @121.330 | RC-074 — o nome sai degradado em 4 formas |
+| família Vol / V. / voz | 12 | U0005 @34.845 | a estirpe 249.314; 4 grafias |
+| Iel / IEL / «família I» (a família Yel sem o Y) | 4 | U0008 @54.134 | a família Yel, em três grafas |
+| Chamum / Cromon / Mion (as absorvidas) | 3 | U0034 @121.313 | as famílias absorvidas pelo processador |
+| Aia / Aie (a dupla de anjos em torno de Sophia) | 3 | U0008 @54.645 | nomes novos no corpus: checar o cadastro |
+| Alp Longron (e a grafia de 2020) | 1 | U0034 @121.491 | a cidadela; em P2020-04-25 saiu «Alto Langron» |
+| Esferon (a nave-cidade) | 1 | U0034 @121.610 | a nave da família Vol transformada em cidade flutuante |
+| ZAM / Órbon / Ereon / Oreon | 3 | U0005 @38.185 | as localizações nomeadas |
+| Valho / Chamba | 2 | U0047 @134.908 | onde os da rebelião residem — a localizar |
+| Marcelo / Marcelo? (nome no exemplo e no Q&A) | 5 | U0009 @85.075 | o interlocutor nomeado |
+| nomes da plateia (Solange, Mara, Lila, Elô, Narras) | 10 | U0005 @16.346 | a roda ao vivo |
+| baiano / baiana / Alagoano | 11 | U0003 @15.731 | o interlocutor da piada recorrente |
+| São Paulo (o local da fala) | 1 | U0050 @144.434 | a única âncora de lugar do bruto |
+| Kant: colecionar incertezas | 2 | U0003 @798 |  |
+| pós-verdade | 2 | U0005 @18.471 | o neologismo de 2016 |
+| Trump / Brexit | 4 | U0005 @19.085 |  |
+| Bolsonaro / Lula / Hilaria (os nomes em exemplos) | 8 | U0005 @28.394 | item de dossiê (D-1 de 2020 como precedente) |
+| Bahia / Vitória / Mecão (o exemplo futebolístico) | 5 | U0005 @28.355 |  |
+| Wilde / Dorian Grey | 9 | U0009 @85.930 | a literatura como prova de plausibilidade |
+| Pink Floyd / The Wall / Roger Waters | 4 | U0029 @103.172 | a última música do álbum |
+| Matrix (o filme como analogia) | 1 | U0049 @142.751 |  |
+| inteligência artificial | 1 | U0037 @125.847 | a hipótese de hospedagem nova |
+| Hitler / nazistas / fascista | 5 | U0040 @127.660 | a superinteligência sem valores |
+| suicidar / «nos desativamos» | 4 | U0007 @50.305 | item de dossiê (sensível) |
+| revólver | 1 | U0009 @84.264 |  |
+| venda de si / escravidão como metáfora | 4 | U0005 @41.836 | os 50 escravos do exemplo de carma |
+| Ereon / Milesianos / nemedianos / Partolanos / danã | 15 | U0007 @44.572 | o substrato druídico (RC-755) |
+| Hiperbórea(s)/hiperbórios/perbórias | 2 | U0018 @89.971 | RC-068 |
+| Rezo(s)/macaco que se curva | 3 | U0029 @106.087 | a genética da obediência |
+| anunnaki | 0 | — | AUSÊNCIA CONTADA |
+| Nibiru | 0 | — | AUSÊNCIA CONTADA |
+| Enki / Enlil | 0 | — | AUSÊNCIA CONTADA |
+| Shanlung / Shanai (os nomes de 2020) | 0 | — | AUSÊNCIA CONTADA |
+| Alto Langron (a grafia de 2020, aqui ausente) | 0 | — | AUSÊNCIA CONTADA |
+| capelinos | 0 | — | AUSÊNCIA CONTADA |
+| isolamento cósmico (a expressão exata do código RC-070) | 0 | — | AUSÊNCIA CONTADA |
+| Hiperbórea com a grafia canônica | 0 | — | a grafia canônica da Base, se aparecer |
+| Cromon (grafia canônica de RC-444) | 1 | U0034 @121.321 | medido: a família absorvida pelo processador |
+| ZONT EN DREL | 0 | — | AUSÊNCIA CONTADA |
+| Terceira/Quarta edição dos Estagiários do Kaos | 0 | — | AUSÊNCIA CONTADA |
+| Cristo cósmico | 2 | U0005 @33.570 | a glosa de Sophia — RC-009 |
+| Moiras / Nornes / Parcas | 0 | — | AUSÊNCIA CONTADA |
+| amantíssimo (e as degradações) | 6 | U0003 @4.902 | a forma degradada do epíteto do Criador |
+| 19 mundos | 4 | U0009 @72.723 | a contagem do isolamento |
+| 620.000 / 6.029 / 984 / 736 / 249.314 / 250.000 | 23 | U0005 @34.567 | as cifras-núcleo, contadas juntas |
+| 700.000 anos | 8 | U0003 @5.178 | a data da rebelião — a cifra mais repetida do bruto |
+| 400.000 anos | 9 | U0003 @7.354 | a data da depressão instalada |
+| 900 milhões / 2,5 bilhões / 5-6 bilhões / 13,8 bilhões / 50 bilhões | 12 | U0005 @24.283 | as profundidades de tempo |
+| espécie 250 e espécie 315 | 4 | U0006 @43.408 | as duas espécies fora de catálogo |
+| 2012 / 2016 / 2019 | 4 | U0005 @18.411 | as datas do mundo, todas nomeadas na fala |
+
+## 2. As ausências contadas (11)
+
+Elas importam porque a *cópia* do assunto induz a emendar o tema anterior com este. Não há **um** anunnaki, **nenhum** Nibiru, **nenhum** Enki/Enlil, **nenhuma** das grafas de 2020 (Shanlung, Shanai, «Alto Langron», «isolamento cósmico»), **nenhum** Zont En Drel, **nenhuma** Moiras/Nornes. O teatro é o mesmo da família Yel e do campo colmeico, mas a linguagem técnica desta fala é a da **virologia**, não a da sumerologia.
+
+| ausência | contagem |
+|---|---|
+| anunnaki | 0 |
+| Nibiru | 0 |
+| Enki / Enlil | 0 |
+| Shanlung / Shanai (os nomes de 2020) | 0 |
+| Alto Langron (a grafia de 2020, aqui ausente) | 0 |
+| capelinos | 0 |
+| isolamento cósmico (a expressão exata do código RC-070) | 0 |
+| Hiperbórea com a grafia canônica | 0 |
+| ZONT EN DREL | 0 |
+| Terceira/Quarta edição dos Estagiários do Kaos | 0 |
+| Moiras / Nornes / Parcas | 0 |
+
+## 3. O que o STT fez com os nomes (medido, não corrigido)
+
+A degradação onomástica é **mais severa** que em qualquer palestra anterior: o mesmo ser aparece até cinco vezes com grafias diferentes na mesma linha. A contagem por forma está em §1; a regra do ciclo é **não escolher** — nenhuma dessas grafas vira forma canônica, e a Base continua grafando como grafa. As formas degradadas ficam registradas aqui **em backticks** (não em aspas angulares, que são só de citação verificável do bruto) para que o leitor identifique a fala ao cruzar com o `original.txt`.
+
+- **Javé** → `Javé` 28× · `Jah` 1× · `Javer` 1× · `Javel` 1× · `Javet` 1× · `Jahé` 1×
+- **Vishnu** → `Virgno` 4× · `Vno` 1× · `Virgni` 1× · `Virgen` 1× · `Aivisno` 1× · `Virgum` 1×
+- **Brahma** → `Brama` 11× · `Brana` 1× · `Brasna` 1× · `Brágina` 1×
+- **Shiva** → `Chiva` 9× · `Shiva` 1×
+- **Sophia** → `Sofia` 91×
+- **Morençor/Morrensor** → `Morençou` 5× · `Morrensor` 3× · `Morençor` 2× · `Moros` 1× · `Morrençor` 1× · `Moren` 1× · `Morreensor` 1× · `Morrem Sor` 1×
+- **Len Mion** → `Lemion` 2× · `Mion` 1× · `Len Mon` 1× · `Limion` 1×
+- **Luzbel** → `Luisbell` 2× · `Luzbell` 1× · `IUSB` 1× · `Elusbell` 1×
+- **família Vol** → `Vol` 6× · `vol` 4× · `voz` 2×
+- **processador** → `processador` 8× · `processadores` 3× · `processo ador` 2×
+- **Trimúrti** → `trimura` 2× · `Trimurte` 2× · `trimurto` 1× · `trimurte` 1× · `trime` 1× · `trimestre` 1×
+- **Sankhia/Samkhya** → `sankia` 1×
+- **Mahabharata** → `rabarata` 7× · `barata` 7× · `Marrabarata` 4× · `marrabarata` 2× · `Marabarata` 1× · `Maabbarata` 1×
+- **Kant** → `Kant` 2× · `Cant` 1×
+- **vírus** → `vírus` 66× · `virótic` 5×

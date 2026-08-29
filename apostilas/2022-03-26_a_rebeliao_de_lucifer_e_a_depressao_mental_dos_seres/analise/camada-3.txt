@@ -1,0 +1,107 @@
+# CAMADA 3 — OS MOVIMENTOS, A ANTERIORIDADE, A NAVALHA E O RADAR (P2022-03-26)
+
+## 1. Os 14 movimentos da fala
+
+Endereços **tirados do mapa medido** de `camada-0.txt`: cada movimento vai do início de sua seção-âncora
+até o início da âncora seguinte na ordem da fala (o último fecha no caractere 145.408). Nada aqui é de
+memória — a lição R-1 do ciclo anterior foi justamente uma camada 0 que publicou extensão no lugar de offset.
+
+`natureza`: **T** = tese · **D** = dado · **N** = narrativa/mito · **M** = metadado de testemunho ·
+**Q** = interlocução ao vivo.
+
+| # | movimento | endereço (U · chars) | natureza |
+|---|---|---|---|
+| M1 | A abertura e o aviso contra certezas (Kant como régua) | U0003 · 176–2.216 | T, M |
+| M2 | O espírito não muda de opinião desencarnado; só pega carona no genoma do médium | U0003 · 2.216–4.523 | T |
+| M3 | De onde veio a palestra: a brincadeira, a preguiça e os temas evitados | U0003 · 4.523–5.721 | M |
+| M4 | O Mahabharata como única obra completa de A a Z; Viaza, o codificador | U0003 · 5.721–10.316 | N, D |
+| M5 | A teodicéia invertida: o jacaré, o pato e a pergunta sem resposta | U0003 · 10.316–20.105 | T |
+| M6 | A cosmogonia: protocolo → nível operacional → nível laboratorial → o acidente | U0005 · 20.105–24.788 | T |
+| M7 | O ovo cósmico, o código podre e o código fonte que se replica | U0005 · 24.788–31.065 | T, D |
+| M8 | Autistas do paraíso e dementes caídos: a taxonomia que a fonte inventa | U0005 · 31.065–31.386 | T |
+| M9 | Os três fornos, os 900 milhões de anos e as 250.000 espécies-problema | U0005 · 31.386–45.544 | D |
+| M10 | A pandemia: Lúcifer como autor de um vírus; toxoplasma, rato, hiena, COVID | U0007 · 45.544–55.320 | T, D |
+| M11 | O sistema colmeico, os processadores e a citação nominal de A Divina Colmeia | U0008 · 55.320–61.148 | T, D |
+| M12 | A quarentena dos 19 mundos, a depressão de Sophia e o intervalo pedido ao vivo | U0008 · 61.148–122.924 | T, Q |
+| M13 | A chave cristológica: o fateamento, o Tabor recusado e o vírus guardado para a 315 | U0034 · 122.924–126.911 | T |
+| M14 | O fecho: filosofia, o humano como resposta dos deuses, o Sankhia e a cadência | U0040 · 126.911–145.408 | T, Q |
+
+## 2. Matriz de anterioridade
+
+A tabela **não é digitada aqui**: ela é calculada contra `ferramentas/dados_termos.py` e vive em
+`_matriz-anterioridade.md` (78 códigos auditados · **21 com ganho de data** · 0 que ganham a primeira fonte
+oral · 57 sem ganho de data, que é onde está o ganho de *conteúdo*). Reproduzo só os casos que importam
+para a decisão do Curador, com o cálculo junto:
+
+| código | o que este ciclo muda |
+|---|---|
+| `RC-147 Zont En Drel` | antecipa **16 meses** a fonte oral mais antiga (P2023-07-30) — e a palestra dá o contexto de Ereon, o mesmo que a ficha ainda trata por livro |
+| `RC-161 Memória Quântica dos Elétrons` | antecipa **15 meses** (P2023-06-24); aqui a memória dos elétrons aparece como *segunda ponte* junto dos registros acásicos |
+| `RC-319/320/321 Fator Dharma · Senhores da Lila · Castas Trimurtianas` | **+19 meses** cada, pela genealogia da aristocracia em torno da Trimúrti e pelo apodrecimento dela |
+| `RC-414 Krishna` | **+13 meses** — Viaza é nomeado *codificador*, e a fonte diz que o nome dele é Krishna |
+| `RC-474 Arcontes / Conselho dos 70` | **+6 meses**, e com conteúdo que a ficha não tem: os arcontes dos dez céus que **retêm a vestimenta** |
+| `RC-770 Hipóstase dos Arcontes` | **+19 meses** — a literatura gnóstica é usada como fonte de mecanismo, não como comparação |
+| `RC-545 Coconstrutores da Obra (tikun)` | **+19 meses** — o ticum aparece definido pela boca da fonte como *reforma da obra e do criador caído na obra* |
+| `RC-628…RC-642 (o cluster Prabrajna/Perpérion de P2024-05-04)` | **+25 meses** para 12 códigos — a fala nomeia **Prabragena** como o criador caído, o *vírus antimaterial*, a *face microbiana*, o *nível laboratorial* e a *gestão da sensação pessoal*. É o maior bloco de anterioridade do ciclo e precisa de decisão item a item |
+| `RC-638 Ressurreição do Cadáver do Criador` | **+12 meses** |
+| `RC-682 Malkuth · RC-702 Camuflagem da Realidade · RC-762 As Três Escalas` | +13, +12 e +20 meses |
+| `RC-089 Processador Val` (ficha **inexistente**) e `RC-444 Família Cromon` (idem) | sem ganho de data (já têm P2020-04-25), **mas é aqui que está a origem do processador**: o único sobrevivente, feito por mistura genética para absorver as famílias Yel, Chamum, Cromon e Mion |
+
+Nota de honestidade, antes de qualquer proposta ser aceita: **nenhum destes códigos ganha cronologia
+oficial** — só a *fonte oral mais antiga da ficha*. A datação canônica da Base não se move, e nenhuma
+divergência numérica é harmonizada para fazer a anterioridade parecer maior.
+
+## 3. A navalha (o que fica de fora da apostila e por quê)
+
+1. **A piada do baiano.** Dezenove das 24 falas curtas do bruto (todas entre U0004 e U0036) são o interlocutor gozando o expositor
+   (ingresso mais caro para baiano, Alagoano é frio, *a voz do demônio falando através do baiano*, *tira o
+   microfone dele* — o epíteto *baiano* aparece 8× no bruto, e *Alagoan*, 3×). **Ficam** na transcrição, porque a quebra de linha é o dado: provam que a fala foi
+   feita com plateia na sala e que o STT repartiu o turno. **Não viram** nada em ficha.
+2. **Os nomes políticos.** *Bolsonaro, Lula, Trump, Hillary Clinton* aparecem **três** vezes, e sempre
+   dentro do argumento (a pós-verdade; a lista de hipóteses que levam ao desespero; a mente que não
+   consegue se concentrar). Não é digressão — é premissa retórica. Proposta: **manter**, sem bloco
+   separável (diferentemente de P2020-04-25, onde havia 16,5 mil caracteres cortáveis).
+3. **O futebol e o mecão.** *Bahia, Vitória, Flamengo* — mesma lógica: servem para dizer que se pede a Deus
+   que torça. Manter; não citar em ficha.
+4. **A seção de suicídio.** U0029 tem o trecho mais delicado do corpus: a vida insuportável, *pegar um
+   revólver é melhor o alto engano*, e a declaração de que alguns ali **já se desativaram em vidas
+   passadas**. Não é digressão e não é sensacionalismo: é o fecho do argumento sobre a depressão.
+   Proposta: **manter na transcrição + nota editorial de moldura**, e **proibir** qualquer aspa dessa
+   seção em fichas (precedente: a trava D-3 de 2020, que o Curador confirmou).
+5. **A clínica como metáfora cosmológica.** *Autista, esquizofrênico, idiotia, demente, babaca* — usados
+   pela fonte como categorias do divino. Não é xingamento, é a tese (v. camada-1 §1.3), e apagá-la seria
+   apagar o argumento. Proposta: manter com nota explicando que é **a taxonomia do autor, não a psiquiatria**,
+   e proibir o trânsito dessas palavras para fichas que nomeiam grupos humanos.
+6. **A grosseria do registro.** *m****, porcalhada, joça, putz, cacete*, e o termo que o próprio STT
+   mascarou com asteriscos (*um t***** em sexo não se deprime*). Proposta: **manter como está, inclusive o
+   censor do STT** — a marca de asterisco é fato do arquivo, não escolha nossa.
+7. **Zero obras novas.** Seis títulos são citados pela fonte: **A Divina Colmeia**, **Era Sapiens** e
+   **Carma e Compromisso** já estão catalogados (B044, B039, B026) — viram *cross-reference*, não obra nova.
+   **Além da Ordenação do Caos** e **Jesus, Sophia versus os Arcontes** são **anunciados** (um para dali a um
+   mês); e a trilogia **Terra Atlantis** (B017/B018/B039) é citada como inacabada. Nada disso entra no
+   BIBLIO por este ciclo.
+
+## 4. O radar (o que este ciclo vê e não resolve)
+
+1. **A espécie 315 e a espécie 250**: números sem catálogo em lugar nenhum da Base; em U0006/U0007 eles
+   aparecem cortados (*Essa espécie de 250 vai nascer* / *Estão providenciando a 315*) e voltam inteiros só
+   em U0040 (*o vírus guardado para ser de novo hospedado numa nova espécie biodêmica que vai ser a 315*).
+   Proposta de regime: **termo-observação sem código**, como Shanai em 2020 — o teto de 777 não se move.
+2. **Meor / lemor / Leão**: um ser nomeado três vezes numa única linha (U0029) como o biodemo que *foi
+   levado pela torrente, mas concentrou-se* — o único contraexemplo individual à rebelião, sem ficha e sem
+   aparição em qualquer outro material conhecido. [REVISAR] — sem hipótese filológica honesta para dar.
+3. **Valho e Chamba** (U0047), **Esferon** e **Alp Longron** (U0034), **Órbon** (U0008), **ZAM** (U0007):
+   topônimos da rebelião. *Alp Longron* é a quarta grafa da cidadela que em 2020 saiu como *Alto Langron* e
+   *Alto Landrão*; aqui ela ganha **localização** (os mares perto da Irlanda) e **natureza** (a nave da
+   família Vol transformada em cidade flutuante). Isso é atualização de conteúdo, não de grafia.
+4. **Francisco de Paula**: o nome do amigo espiritual que a fonte chama de *o espírito mais evoluído que eu
+   conheço* e que se declara inútil. Não há registro disso no cadastro. Regime: metadado de testemunho, na
+   apostila; **nenhuma ficha** — nome de entidade/individuação não é termo.
+5. **A reconexão de Sophia em 2019**: data única no corpus e o único anúncio *verificável por calendário*
+   desta fala (três anos antes). Afeta a cronologia interna da Base sobre o fim do isolamento. Fica como
+   dado datado, não como profecia validada.
+6. **O intervalo e a autodeclaração de que a palestra não é para aquela plateia** (*essa palestra não é para
+   vocês, pessoal, é para uma turma aqui*) — metadado raro sobre a destinação do material; merece nota na
+   abertura da apostila, porque muda o estatuto de tudo que vem depois do intervalo.
+7. **A herança por confirmar**: *Hamaiam* (U0009), ao lado de Mahabharata, provavelmente o Bhagavata — uma
+   única ocorrência, ilegível. [REVISAR], sem emenda.
