@@ -192,7 +192,8 @@ class Cfg:
                      f"{', '.join(sobras)} — ou o motor perdeu a regra, ou o .toml tem resíduo")
         # A mesma exigência vale DENTRO das mesas: subchave que o motor não lê é regra
         # perdida, e código que não existe no cadastro é ordem órfã nascendo do .toml.
-        formas = {"tese": {"pontos"}, "materializar": {"codigos"}, "ampliar": {"codigos", "substituir"}}
+        formas = {"tese": {"pontos"}, "materializar": {"codigos"}, "ampliar": {"codigos", "substituir"},
+                  "vitorias": {"provas"}}
         for mesa, permitidas in formas.items():
             residuo = sorted(set(self.tabela(mesa)) - permitidas)
             if residuo:
@@ -200,7 +201,7 @@ class Cfg:
                          f"não lê: {', '.join(residuo)}")
         if cad is None:
             return          # Cfg não conhece caminhos da Base; quem a tem carrega o conjunto
-        for mesa in ("definicoes", "observacoes", "travas", "lacunas"):
+        for mesa in ("definicoes", "observacoes", "travas", "lacunas", "vitorias"):
             for cod in self.tabela(mesa):
                 if cod not in cad:
                     sys.exit(f"[{os.path.basename(self.caminho)}] `[mesa] {mesa}` nomeia {cod}, "
@@ -420,6 +421,10 @@ class Ciclo:
         self.observacoes = c.tabela("observacoes")
         self.travas = c.tabela("travas")
         self.lacunas = c.tabela("lacunas")
+        # `[vitorias]` é mesa com a chave `provas`: cada linha declara O QUE O CICLO CONSEGUIU
+        # e onde está a prova (um trecho literal da `## Ampliação — <SIGLA>` da ficha). O dossiê
+        # nasce do que foi conferido, nunca do que foi narrado.
+        self.vitorias = list(c.tabela("vitorias").get("provas", []))
         # `[tese]` é MESA com a chave `pontos` — ler a mesa como lista dava a lista das
         # chaves, e o §2 do dossiê saiu com um item chamado "pontos". Config lida é config
         # entendida.
@@ -720,6 +725,7 @@ def dossie(c: Ciclo) -> None:
          f"| Caderno | {len(sel)} pérolas de {len(c.candidatas())} candidatas |",
          f"| Teto curatorial | {c.teto} |",
          f"| Livro-razão | `ancorario_{c.sigla}.json` |", "",
+         *vitorias_para_dossie(c),
          "## 2 · Resumo executivo da tese", ""]
     L += ([f"* {t}" for t in c.tese] or ["* (declarações de tese em `ciclo.toml`, seção ausente)"])
     L += ["", "## 3 · O Caderno de Pérolas", "",
@@ -920,6 +926,9 @@ def status(c: Ciclo) -> None:
           f"{len([x for x in c.materializar if x not in c.fichas])} fichas a criar")
     print(f"  caderno: {len(sel)} pérolas de {len(c.candidatas())} candidatas (teto {c.max_perolas})")
     print(f"  portões ativos {''.join(c.portoes_ativos)} · teto {c.teto} · baseline {c.baseline[:7]}")
+    if c.vitorias:
+        for cod, af, prova, ok in vitorias_do_ciclo(c):
+            print(f"  vitória {'conferida' if ok else 'AINDA NÃO CONFERIDA'}: `{cod}` — {af[:60]}")
 
 
 # ────────────────────────────────────── abertura de ciclo e garimpo assistido
@@ -1011,6 +1020,11 @@ def novo(txt: str, sigla: str = "") -> None:
             "[materializar]",
             "codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)",
             "",
+            "[vitorias]",
+            "provas = []         # uma linha por vitória: \"RC-xxx = <afirmativa> | prova: <trecho>\"",
+            "# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a",
+            "# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem",
+            "# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.",
             "[ampliar]",
             "codigos = []      # vazio = todos os códigos do pacote que já têm arquivo",
             "",
@@ -1112,9 +1126,11 @@ def fatias(c: Ciclo, largura: int = 15000) -> None:
 
 
 # ───────────────────────────────────────────────────────────────────────── selftest
-# ───────────────────────────────────────────────────────────────────────── selftest
+CASOS_SELFTEST = 9        # a régua é UMA: o `9/9` impresso e o código de saída vêm daqui
+
+
 def selftest() -> int:
-    """As 8 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
+    """As 9 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
     pegar a sua. Sem isto, 'menos código por ciclo' significa só 'menos freio'."""
     import tempfile
     print("SELFTEST · anomalias plantadas, todas têm de ser detectadas")
@@ -1189,7 +1205,12 @@ def selftest() -> int:
             "`inscreve_fonte` corromperia o cadastro: reexecução mudando o texto, ou aresta "
             "sendo tratada como termo")
         pegou += 1
-    print(f"  selftest: {pegou}/8")
+        chk(_selftest_vitoria(),
+            "9 · a vitória declarada é conferida na seção da ficha (e um caractere reprova)",
+            "`[vitorias]` deixaria o dossiê narrar uma vitória que a ficha não contém — o "
+            "produto passaria a valer mais do que a prova")
+        pegou += 1
+    print(f"  selftest: {pegou}/{CASOS_SELFTEST}")
     return pegou
 
 
@@ -1221,7 +1242,7 @@ def main() -> None:
         except FalhaPortao as e:
             print(f"  SELFTEST FALHOU: {e}")
             sys.exit(3)
-        sys.exit(0 if n == 8 else 3)
+        sys.exit(0 if n == CASOS_SELFTEST else 3)
     if not a.ciclo:
         ap.error("--ciclo <SIGLA> é obrigatório (exceto para selftest)")
     c = Ciclo(a.ciclo)
@@ -1250,6 +1271,8 @@ def main() -> None:
             ampliar(c)
         elif a.passo == "vincular":
             vincular(c)
+        elif a.passo == "vitorias":
+            vistoria(c)
         elif a.passo == "portoes":
             for nome, letra in (("portao_A", "A"), ("portao_B", "B"), ("portao_C", "C"), ("portao_D", "D")):
                 if letra in c.portoes_ativos:
@@ -1261,6 +1284,7 @@ def main() -> None:
             virar_ficha(c)
             vincular(c)
             c = Ciclo(a.ciclo)                                 # relê: a Base mudou de estado
+            vistoria(c)                                        # a vitória é conferida na ficha
             ancorario(c)
             dossie(c)
             rag(c)
@@ -1411,5 +1435,114 @@ def _selftest_vincular(tmp: str) -> bool:
     _, e4 = inscreve_fonte(a, "RC-999", "P2023-12-17")
     return (e1, e2, e3, e4) == ("inseriu", "ja-estava", "inseriu", "sem-linha") and a == b \
         and '("RC-001", "sinônimo", "RC-037", "B031"),' in a
+# ──────────────────────────────────── a vitória do ciclo: declarada, e provada na ficha
+LINHA_VITORIA = re.compile(r"^(RC-\d{3})\s*=\s*(.+)$")
+
+
+def corta_vitoria(linha: str) -> tuple[str, str, str]:
+    """`RC-xxx = <afirmativa> | prova: <trecho literal da seção>` → (código, afirmativa,
+    trecho). Corte puro, sem Base: é o que permite ao selftest exercitar a regra inteira.
+
+    A afirmativa é prosa do aplicador; a prova é o trecho que o motor escreveu na ficha.
+    Sem `| prova:` a linha não é vitória, é narração — e narração não entra em dossiê."""
+    m = LINHA_VITORIA.match(linha.strip())
+    if not m:
+        raise ValueError(f"linha de vitória ilegível (esperado `RC-xxx = … | prova: …`): {linha!r}")
+    cod, corpo = m.group(1), " ".join(m.group(2).split())
+    af, sep, prova = corpo.partition("| prova:")
+    if not sep:
+        raise ValueError(f"{cod}: vitória sem `| prova: <trecho da seção>` — sem testemunha é narrativa")
+    prova = " ".join(prova.strip().split())
+    if len(prova) < 20:
+        raise ValueError(f"{cod}: prova de {len(prova)} c é referência, não trecho; o portão "
+                         f"confronta o trecho com a seção escrita por este ciclo")
+    if not af.strip():
+        raise ValueError(f"{cod}: linha com prova e sem afirmativa")
+    return cod, af.strip(), prova
+
+
+def confere_vitoria(secao: str, trecho: str) -> bool:
+    """A prova só vale se o trecho está DENTRO da `## Ampliação — <SIGLA>` deste ciclo.
+    Espaço colapsado, acento preservado: um caractere a mais ou a menos reprova — é assim
+    que a mesa declara o que a ficha contém, e não o contrário."""
+    if not secao or not trecho:
+        return False
+    return " ".join(trecho.split()) in " ".join(secao.split())
+
+
+def vitorias_do_ciclo(c: Ciclo) -> list[tuple[str, str, str, bool]]:
+    """[(código, afirmativa, prova, conferida)] — a conferência lê a ficha como ela está AGORA
+    no disco, depois de `ampliar`; por isso a vistoria vem depois da ampliação e não antes."""
+    out = []
+    for linha in c.vitorias:
+        cod, af, prova = corta_vitoria(linha)
+        secao = ""
+        if cod in c.fichas:
+            secao = secao_da_ficha(open(c.fichas[cod], encoding="utf-8").read(), c.sigla)
+        out.append((cod, af, prova, confere_vitoria(secao, prova)))
+    return out
+
+
+def vistoria(c: Ciclo) -> None:
+    """Vistoria de vitória: cada linha de `[vitorias]` tem de estar provada na ficha. Mesa
+    vazia é lícita (nem todo ciclo vence algo novo); linha divergente aborta o passo."""
+    if not c.vitorias:
+        print("  vitorias: mesa vazia — o ciclo não declara vitória (lícito)")
+        return
+    ruins = []
+    for cod, af, prova, ok in vitorias_do_ciclo(c):
+        print(f"  {'✓' if ok else '✗'} {cod} · {af}")
+        if not ok:
+            ruins.append(f"{cod}: a afirmativa não está na `## Ampliação — {c.sigla}` da ficha")
+    if ruins:
+        sys.exit("PORTÃO DE VITÓRIA: " + " · ".join(ruins) +
+                 " — ou a ficha ainda não foi ampliada por este ciclo, ou a mesa "
+                 "prometeu mais do que o pacote escreveu")
+    print(f"  vitorias: {len(c.vitorias)} vitória(s) conferida(s) byte a byte na ficha")
+
+
+def vitorias_para_dossie(c: Ciclo) -> list[str]:
+    """§0 do dossiê. A prova sai em `backticks`, nunca em aspas: aspas do dossiê são
+    conferidas contra o `original.txt` pelo portão B, e o trecho da prova é da FICHA."""
+    if not c.vitorias:
+        return []
+    L = ["## 0 · A vitória do ciclo (declarada, e provada na ficha)", "",
+         "Prova = trecho literal da seção `## Ampliação — %s` da ficha, conferido byte a byte "
+         "pelo motor. Nada aqui é promessa de resultado: é o que está no arquivo." % c.sigla, ""]
+    for cod, af, prova, ok in vitorias_do_ciclo(c):
+        L += [f"* **`{cod}`** — {af}",
+              f"  · *prova* ({len(prova)} c, conferida={'sim' if ok else 'NÃO'}): "
+              f"`{' '.join(prova.split())}`", ""]
+    return L
+
+
+def _selftest_vitoria() -> bool:
+    """A vitória tem de ser provada na seção deste ciclo: um caractere de diferença reprova,
+    ficha sem seção reprova, e linha sem prova não é linha de vitória."""
+    secao = ("## Ampliação — P0000-00-00\n\n"
+             "- **[P0000-00-00 · T]** «aspa» (U0002) — glosa que prova o ponto central.\n\n")
+    ok_bom = confere_vitoria(secao, "glosa que prova o ponto central")
+    ok_ruim = confere_vitoria(secao, "glosa que prova o ponto central, e mais o que não está")
+    ok_troca = confere_vitoria(secao, "glosa que prova o ponto central.")   # "central." na seção: o ponto extra não é acréscimo de aspas
+    ok_acento = confere_vitoria(secao, "glosa que prova o ponto central")  # mesma coisa, espaço duplo
+    ok_austrado = confere_vitoria("", "glosa que prova o ponto central")
+    try:
+        cod, af, prova = corta_vitoria("RC-001 = Afirmativa qualquer. | prova: glosa que prova o ponto central")
+        formato = (cod, af, prova) == ("RC-001", "Afirmativa qualquer.", "glosa que prova o ponto central")
+        sem_prova = False
+        try:
+            corta_vitoria("RC-001 = Afirmativa sem testemunha")
+        except ValueError:
+            sem_prova = True
+        curta = False
+        try:
+            corta_vitoria("RC-001 = A. | prova: curto")
+        except ValueError:
+            curta = True
+    except ValueError:
+        formato = sem_prova = curta = False
+    return (ok_bom and ok_troca and ok_acento and not ok_ruim and not ok_austrado
+            and formato and sem_prova and curta)
+
 if __name__ == "__main__":
     main()
