@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Expressão recorrente nas RC para designar o **universo gerado pelo erro do Criador** — a Criação de Prabrajna (Brahma/Javé) que "saiu errada" e que **jamais deveria ter sido iniciada**. A obra é "indevida" porque: (1) o Criador "caiu" dentro dela e tornou-se prisioneiro; (2) não foi finalizada — daí a morte, a entropia e o sofrimento das criaturas; (3) as criaturas-ferramenta têm que passar pela experiência da morte "porque esta Obra não foi finalizada, ou não pôde ser" (B024, cap. 3).
@@ -84,32 +84,6 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 
 - **[B022 p. 4–5]** Introdução (só paratexto): «Criação Universal indevida» / «Criação indevida» procedida por Adhyshprabrajna. O que Ellam percebe «se assemelhava a dois universos paralelos»: um em expansão, «onde a vida biológica impera»; outro «retraído, desagregado», com «entes-clones» e classes de «demônios». A locução «Criação Bipartida» (p. 4) = descrição do paratexto; **RC-312 não** materializada. «Entes-clones» **sem código**.
 - Falas da Trimurti **isoladas**. Sem fusão com B037 / B001 / B024. Fonte **B022** já constava na tabela-mestra.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| A Epopeia dos Agentes da Vida Universal (B024) | cap. 2 (A Criação "Inusitada"); cap. 11 (Autoria e Comando) | pp. 20–31, 78–88 (aprox.) | termo central |
-| Painéis Emergentes... (B031) | Glossário (Revelação Cósmica) | — | apoio (secundária) |
-
-## Citações-chave
-> "O grande problema desta Criação é que as criaturas-ferramentas têm que passar pela experiência da morte, porque esta Obra não foi finalizada, ou não pôde ser. Esse é o drama que enfrentamos por causa da entropia que destrói tudo – nem tudo é carma, como dizem os espíritas." — B024, cap. 3
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Prabrajna | RC-152 | autor |
-| Criador | RC-041 | autor (pós-queda) |
-| Xadrez Cósmico | RC-150 | tabuleiro |
-| Eras da Criação | RC-155 | história da obra |
-| Criaturas-ferramenta | RC-164 | habitantes |
-| Revelação Cósmica (conceito) | RC-094 | tema central |
-
-## Seres Associados
-Brahma/Javé (RC-037/RC-001); Trimurti (RC-104); Agentes da Vida Universal (RC-148).
-
-## Observações
-Ficha baseada em B024 (obra primária) + apoio de B031. Verificar no cap. 11 de B024 ("A Autoria e o Comando da Criação 'Indevida'") a questão da responsabilidade/autoria.
-
 ---
 
 ## Atualização — P2021-12-04
@@ -134,3 +108,10 @@ Ficha baseada em B024 (obra primária) + apoio de B031. Verificar no cap. 11 de 
 - **Podridão inerente:** "a podridão é inerente à criação" e o comportamento de "ladrões e necrófagos" na Matrix — "todo mundo aqui dentro é obrigado a ser deselegante para poder existir, porque essa é a história do criador, esse é o retrato dele";
 - **Humanidade salva-criador:** a função humana é reverter a narrativa — "a humanidade como salva-criador" (seção 4.2);
 - **Faixas de realidade:** as faixas definidas × improvisadas (seção 2.5) como expressões da Obra indevida — a física definida "antes da criação"; faixas improvisadas com "demência plena".
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CRIAÇÃO INDEVIDA (OBRA INDEVIDA) NA FALA DE 03/12/2023]** «esse foi improvisado na hora da queda, mas nenhum dos dois foi finalizado, porque quando ele tava aqui fora, antes dele finalizar esse que ele começou a planejar, ele caiu.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

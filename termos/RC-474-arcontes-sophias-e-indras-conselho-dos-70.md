@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -57,13 +57,19 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - **[P2022-03-26 · ARCONTES / CONSELHO DOS 70 NA FALA DE 26/03/2022]** "Os arcontes que tomam conta do primeiro céu, do segundo céu, do terceiro céu, do quarto céu, até o 10º céu, aonde Javé está, não querem dar a minha v enta não querem que eu assuma a minha vestimenta." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **6 meses** a atual fonte oral mais antiga da ficha (`P2022-09-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ARCONTES (= SOPHIAS E INDRAS; CONSELHO DOS 70) NA FALA DE 03/12/2023]** «esses são chamados arcontes, são os donos disso aqui.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco final (arcontes/intriga; Sofia) | palestra/STT pré-curada |
+
 
 
 

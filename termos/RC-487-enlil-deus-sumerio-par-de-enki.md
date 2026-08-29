@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -51,13 +51,19 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 - **[P2023-10-14 · O LAMENTO DE ENLIL: PRISIONEIROS POR TEREM SE FEITO COMO OS TERRESTRES]** "Eli diz: «Antes os terrestres se estavam fazendo como nós.»" (U0036); "Agora nós nos temos feito como os terrestres para ficar prisioneiros deste planeta." (U0036); "Toda a missão se converteu em um pesadelo." (U0036) — ⭐⭐ A peça retórica mais citável do ciclo; grafia do bruto: «enque» para Enki, «Elio» para Enlil.
 - **[P2023-10-14 · A PROIBIÇÃO DE FALAR COM OS HUMANOS]** "Quando certas desgraças iam ter lugar, Enlisava os deuses, aos anunaques, mas o proibia os deuses de falarem com os humanos." (U0036)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ENLIL (DEUS SUMÉRIO, PAR DE ENKI) NA FALA DE 03/12/2023]** «fizeram a rebelião contra Enlio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (hierarquia/regra de sucessão); bloco 6–8 (disputa/retirada) | palestra/STT pré-curada |
+
 
 
 

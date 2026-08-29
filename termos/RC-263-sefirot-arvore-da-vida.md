@@ -5,7 +5,7 @@
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.2 Hebraico / Cabala |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A **"Árvore da Vida"** é um dos símbolos cabalísticos fundamentais — um "diagrama da emanação do universo a partir do 'Uno', a 'Unidade Deificada' escondida por trás de tudo que existe nesta Criação" (B013, cap. 6). As **dez Sefirot** que compõem a Árvore da Vida representam as **dez "Emanações da Divindade"**, os dez aspectos do universo manifestado — "constituindo a chave para decifrar os mistérios da Cabala, até atingir a 'União com Deus'". Cada Sefirá tem uma quádrupla natureza associada aos quatro universos-mundos da Cabala (Doutrina das Emanações).
@@ -48,11 +48,17 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **[P2023-10-14 · A PONTE COM O TARÔ]** "A relação entre essas 10firais aí aqui dá toda a margem do tarô." (U0085)
 - **[P2023-10-14 · A ENTREGA AOS RABINOS E O MATERIAL PRIMÁRIO]** "Mas quando Javé decidiu apresentar isso aos humanos, foi dois séculos depois de Jesus, foi quando os anjos aí Enoqu Metatron já não mais existiam, mas Gabriel entregou a rabinos Shimon Bariokai esses postulados acaba lá e entre eles estava a árvore da vida." (U0085) — [REVISAR: «fois» é truncamento do STT; o canônico da Base é Shimon bar Yochai. A expressão «ver também» aparece degradada na linha 280 do bruto. [TEXTO CORROMPIDO].
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · SEFIROT / ÁRVORE DA VIDA NA FALA DE 03/12/2023]** «Não tem nada de árvore da vida, mas foi assim que os cabalistas chamaram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Tzimtzum (B013) | cap. 6 (Os Planos de Existência da Cabala) | pp. 75–85 (aprox.) | conceito central |
+
 
 
 ## Citações-chave

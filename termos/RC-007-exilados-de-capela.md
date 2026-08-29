@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 São os seres das **famílias biodemicas exilados do Sistema de Capela para a Terra**. Chegaram de duas formas: **em naves**, fugindo dos confrontos nos mundos de Capela, e **como espíritos desencarnados**, devido à afinidade vibratória — passando a reencarnar no nosso planeta. O termo "Exilados de Capela" só surgiu no Séc. XX, no livro *A Caminho da Luz* (Chico Xavier/Emmanuel). A gênese da história espiritual da Terra teria começado com esses espíritos (B031).
@@ -47,13 +47,19 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 - **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR]) → 900Q]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A ESCOLA DE CAPELA: 3–4 Ma, substanciada há ~2 Ma]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006) — Contagem medida: «Capela» **1** ocorrência no bruto — a ficha não pode inflar esta fonte. ⚠️ «capelinos» = **0** ocorrências.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · O ÚNICO TOQUE DE CAPELA NA PALESTRA]** «a respeito dos exilados de Capela. P p pá pá, impecáveis, maravilhosos.» (U0004) — A palestra menciona Capela **uma vez**, e a menção vem dentro de uma frase em que a fonte nomeia uma pessoa cuja obra ela leu — o nome fica na apostila (D-12) e aqui entra só o fragmento verificável do juízo. É registro de leitura, não de doutrina: nenhuma relação nova com `RC-006` (exilium) é aberta por esta entrada.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 129 (aprox.) | verbete "Exilados de Capela" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 124 (aprox.) | verbete "Anjos caídos" (diferenciação) |
 | Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
+
 
 
 ## Citações-chave

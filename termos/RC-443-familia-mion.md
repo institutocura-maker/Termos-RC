@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.3 Dinastias extraterrestres |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Estirpe capelina à qual pertencem **Len Mion (Satã)** e **Gron Mion**, descrita nos "Livros de Yel Luzbel" (Jeane Miranda) como **mais antiga que a Família Yel** e protagonista no contato com os demais **Biocoletivos** do universo. Sob a liderança do "Primeiro em Comando", a Família Mion convoca conclaves, pressiona por respostas de Sophia e acolhe Yel Luzbel quando este se desliga da própria família — tornando-se o núcleo do movimento que antecedeu a **Revolta Capelina**.
@@ -58,15 +58,21 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 
 - **[P2022-03-26 · FAMÍLIA MION NA FALA DE 26/03/2022]** "foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · FAMÍLIA MION NA FALA DE 03/12/2023]** «principalmente a cromon, miom, mas foi a primeira porrada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | "nascidos coletivamente" (contraste com os Yel) |
 | O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | decide contatar os Biocoletivos |
 | O Início da Revolta Capelina (B058) | Cap. 2 | p. 14–15 (PDF) | conclave da família; confrontar Sophia e Hostes |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 66–68 (PDF) | Primeiro em Comando; processo de desligamento |
+
 
 
 

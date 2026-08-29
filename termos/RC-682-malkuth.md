@@ -3,7 +3,7 @@
 | Campo | Valor |
 |---|---|
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Termo extraído e aprovado na curadoria de P2025-05-31.
@@ -43,9 +43,15 @@ Forma preferida: Malkuth.
 - **[P2023-10-14 · «MALUKUF»: A 10ª SEFIRAH PELA BOCA DA FONTE (D-7)]** "Então, Malukuf é o Messias prometido por aos judeus." (U0085); "quando entre aspas chegar a hora, mas Malukuf já existia, que é Sofia ou Rock, é figura cósmica do Messias." (U0085) — ⚠️ A ficha não funde Malkuth/Sophia/Hochmah: o que se registra é a **equivalência afirmada em 14/10/2023**.
 - **[P2023-10-14 · O ESPERADO QUE JULGA OS PRÓPRIOS DEUSES]** "Os Anunax sabem que se servirá e os Anunax estão esperando serem julgados por esse ser." (U0033); "Estranhamente eles ainda acreditam no julgamento de deuses e humanos." (U0041)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · MALKUTH NA FALA DE 03/12/2023]** «a 10ma sefirado, quem é? É Sofia ou Rockban, que já existe, mas a exceção deste aqui, a exceção deste aqui e deste aqui, o resto não quer que ela seja os continue a ser o suzerano desse universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 P2025-05-31.
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
+
 
 
 ## Citações-chave

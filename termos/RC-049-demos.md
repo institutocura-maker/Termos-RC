@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Também chamados de "demônios" ou "daemon" (cultura grega), são **seres extrafísicos e dementes** (demo = "demente") criados a partir do **DNA ou CFD (Código Fonte Definidor) do Criador**, após a classe dos anjos clones. Apesar da conotação negativa de "demônio", os demos do Brahmaloka (universo antimaterial) são apenas uma **classificação de seres** que se metamorfoseiam devido à condição molecular instável — não sendo nem bons nem maus (ou podendo ser ambos), como os anjos. Alguns são chamados de "deuses" nas mitologias (B031).
@@ -65,14 +65,20 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 
 - **[P2022-03-26 · DEMOS NA FALA DE 26/03/2022]** "os autistas do paraíso e os dementes que caíram e foram surgindo a partir de um código podre do criador que é demente e implica que todo mundo que erde esse código tem padrões e traços de demência e por isso os demos se metamorfoseiam desse universo vizinho, são demência." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DEMOS NA FALA DE 03/12/2023]** «criaram um tipo de condição para eles de ter órgãos sexuais para poder fazer iguais aos mamíferos do universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127-128 (aprox.) | verbete "Demos" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 132 (aprox.) | verbete "Deuses" (os dois tipos) |
+
 
 
 

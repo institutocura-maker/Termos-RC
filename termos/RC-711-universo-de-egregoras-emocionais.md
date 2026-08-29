@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Domínio formado por emoções repetidas associadas a conceitos, no qual egrégoras podem adquirir feição, dinâmica própria e devolver conteúdos às pessoas que as alimentam.
@@ -43,10 +43,16 @@ Formações alimentadas pela repetição de emoções e sentimentos associados a
 - **[P2021-05-08 · A FUNDAÇÃO DE 2021 · OS CAMPOS MÓRFICOS: A DEFINIÇÃO, A GUERRA E ⚠️⚠️ A SOBREPOSIÇÃO]** **A DEFINIÇÃO**: "o que é um campo mórfico? É VOCÊ CRIAR UM JOGO EM QUE ALGORITMOS, PROTOCOLOS E CONVENÇÕES COMPORTAMENTAIS ESTEJAM ALI PRÉ-DEFINIDOS"; "cada nova espécie surgida era motivo de lutas, de guerras infindáveis"; "quando os humanos foram percebidos como aqueles que poderiam mudar suas convenções mentais, A GUERRA ESTABELECEU-SE EM TORNO DO CAMPO MÓRFICO HUMANO E ATÉ HOJE"; "quem tá nesse universo biológico não consegue ver campo mórfico... A EXCEÇÃO DE SOFIA E DOS AIA"; "os campos mórficos quase todos se tornaram meio que independentes"; **A EXTINÇÃO DAS ESPÉCIES IRMÃS** (~25-30 mil anos — "morreu todo mundo, só sobrou [a nossa] espécie"); **AS LOCAS**: "CADA LOCA, CADA GÊNESE DO PASSADO ACOMPANHA AGORA AQUELES QUE ESTÃO NA CONDIÇÃO HUMANA"; "SÓ TEM UM CAMPO MÓRFICO DE ESPÉCIE QUE CONSEGUE SE SOBREPOR A SI MESMO... OS OUTROS NÃO EVOLUEM"; **⚠️⚠️ A SOBREPOSIÇÃO (a joia)**: "O CAMPO MÓRFICO HUMANO TÁ SOBREPOSTO AO CAMPO MÓRFICO INDIVIDUALIZADO DE SOFIA. JESUS FEZ ISSO. O QUARTO LOGOS AJUDOU A QUE FOSSE ASSIM"; "não adianta... liquidar a figura, se é que tal é possível, PORQUE NÃO TEM A OPÇÃO B"; "nem os próprios humanos vão gostar disso no dia que souberem... é uma confusão terrível, mas não tem outro resultado além desses"; "o campo mórfico humano [que] tentou ser absorvido por Javé, MAS JAVÉ NÃO CONSEGUIU"; **O DIA DA POSSE**: "o campo mórfico humano terráqueo é O VIDEOGAME ONDE O JOGO DA VIDA UNIVERSAL VAI TER OS SEUS CRITÉRIOS DE DESTINAÇÃO DEFINIDA"; **TESLA O PRECURSOR**: "Tesla defendia que os seres humanos estavam ligados a UM REINO SOBRENATURAL DE INFORMAÇÕES... não pensem que eu tô falando do inconsciente de Jung... é um reino de informações... ele não chamou de campo mórfico, MAS É O CAMPO MÓRFICO" [o precursor antes de Sheldrake].
 - 0 códigos novos (O-3 — o campo mórfico absorvido aqui e na RC-385). Quarentena: ufológica (os 270 mundos rotulados como registro teológico).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · UNIVERSO DE EGRÉGORAS EMOCIONAIS NA FALA DE 03/12/2023]** «movimento de consciência das chamadas trevas espirituais tem um poder que a gente não imagina de perturbar as coisas nesse universo vizinho e no nosso.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-08`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U1772–U1831 | perguntas e respostas/STT |
+
 
 ## Citações-chave
 > “A egrégora surge quando você repete a emoção.”

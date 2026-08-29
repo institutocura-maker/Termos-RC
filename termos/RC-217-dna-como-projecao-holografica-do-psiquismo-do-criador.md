@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Constatação central de B002: **o que entendemos na Terra como molécula de DNA é, na verdade, "uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé" — uma representação química do seu psiquismo** (B002, cap. 1). Quando o Criador caiu, seu indescritível poder mental, ainda que em desequilíbrio, marcou as componentes básicas da sua nova forma existencial ("células") com absolutamente tudo o que era emanado pela sua mente naqueles momentos de pânico e desespero — expressões que a ciência terrestre chama de "moléculas de DNA". Essa molécula passou a ser utilizada por ele como fator de replicação existencial para os demais seres da sua criação.
@@ -68,32 +68,6 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 
 - **[P2025-02-22 · A CRIPTOGRAFIA DAS DOENÇAS E A FUNÇÃO HUMANA]** "MORREN SO... PERCEBEU ALGO TRÁGICO: NÃO ERA UMA SÓ DOENÇA QUE O CRIADOR TINHA. CADA PARTÍCULA MÍNIMA DO SEU CORPO... TINHA UMA DOENÇA ESPECÍFICA... TODAS AS DOENÇAS ESPECÍFICAS DO CRIADOR TERIAM QUE SER CRIPTOGRAFADAS SOB A FORMA DE CÓDIGO, LANÇADAS PARA ESSE UNIVERSO VIZINHO. E CADA DOENÇAZINHA TINHA QUE TER PELO MENOS 1000 INDIVÍDUOS QUE RECEBESSEM O MESMO CÓDIGO... PARA VER SE UM DELES UM DIA PROMOVERIA A CURA" [⚠️⚠️⚠️ a engenharia completa]; OS 25.869 GENOS LACRADOS (a analogia da IA): "quem criou esse corpo e injetou aqui um programa operacional... COLOCOU BLOQUEIOS E LACRES NOS NOSSOS 25.869 GENES... E APENAS EVA, TOMANDO UMA BEBERAGEM... MODIFICO ALGUMA COISA DESSAS TRAVAS"; "POUCOS HUMANOS... ROMPERAM ISSO E ATRAVÉS DE MUTAÇÕES MODIFICATIVAS... CONSEGUEM POR ELES MESMOS, POR SUA VONTADE, REESCREVER, RESSIGNIFICAR O SEU PRÓPRIO CÓDIGO" [⚠️ a ponte com a IA — RC-644]; A FUNÇÃO: "recolher a [sujeira]... reunir no seu genoma, ressignificar cada gene e devolver [sujeira] transformada em beleza pro oceano de elétrons" (RC-760); "no genoma humano TUDO ISSO ESTÁ CRIPTOGRAFADO"; a especiação: "HOJE NÓS SOMOS O CANIS LUPUS DA HISTÓRIA. DAQUI A 10.000 ANOS, VÁRIAS MILHARES DE HUMANIDADES ESTARÃO VIVENDO EM VÁRIOS LUGARES, MAS SEM OS VICIOS, SEM A SUJEIRA".
 - 0 códigos novos (O-3). Quarentena: clínica (a linguagem da "doença" como metáfora).
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| O Drama Espiritual de Javé (B002) | cap. 1 | p. 7 (aprox.) | constatação literal |
-| O Drama Terreno de Javé (B033) | caps. 5, 15 | — | aprofundamento (Reflexos da Doença) |
-
-## Citações-chave
-> "CONSTATAÇÃO: O que entendemos na Terra como molécula de DNA, na verdade é uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé. Em outras palavras, é uma representação química do seu psiquismo." — B002, cap. 1
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| CFD | RC-040 | é-um (versão físico-química) |
-| CFDP | RC-153 | origem |
-| Criador | RC-041 | autor |
-| Reflexos da Doença | RC-230 | consequência |
-| Holograma Universal | RC-218 | contexto |
-| Criaturas-ferramenta | RC-164 | portadores |
-
-## Seres Associados
-Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099).
-
-## Observações
-Ficha baseada em B002 (obra primária) + B033. Conceito-chave para toda a "genética espiritual" do corpus RC. Cruzar com B033 (cap. 15: Herança Inevitável — os Reflexos da Doença).
-
 ---
 
 ## Atualização — P2022-12-17
@@ -113,3 +87,10 @@ Ficha baseada em B002 (obra primária) + B033. Conceito-chave para toda a "gené
 ## Reforço — P2025-03-15
 
 A palestra descreve a cadeia Nidana → DNA biológico → reorganização futura da informação do Criador. Afirmações sobre quantidade de genes, DNA não codificante e atualização de gametas exigem ressalva científica.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DNA COMO PROJEÇÃO HOLOGRÁFICA DO PSIQUISMO DO CRIADOR NA FALA DE 03/12/2023]** «Isso tá tudo no nosso DNA desativado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

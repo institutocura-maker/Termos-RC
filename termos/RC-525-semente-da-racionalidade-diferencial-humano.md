@@ -5,7 +5,7 @@
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-20 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -25,11 +25,17 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 - **[P2024-08-03] Complexidade e descontinuidade (U0946–U0960; U1005–U1015):** "em cada um dos seis ramos da geração regenerada de Brahma, a busca da complexidade de consciência era tônica, comum em todos os seus segmentos, e sempre foi"; os obstáculos eram "a demência e o estacionamento psíquico"; "nós, os humanos, somos a única descontinuidade que aconteceu ao longo de 13,8 bilhões de anos. Tudo foi uma continuidade com falências e recomeços"; "somos mantidos, isolados, ignorantes, tragicomicamente, como se estivéssemos presos no manicômio chamado Terra".
 - **[P2024-08-03] A falência do código travado (U0970–U0978):** "a falência do código genético que permanecia travado: o segmento específico não mais evoluía... se um dia surgir um obstáculo aqui, tudo isso para. Qual o detalhe? É horrível: tudo continua existindo, mas não serve para mais nada".
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · O QUE FOI COLOCADO NO DNA HUMANO]** «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos livros que sobrou. Mas qual o problema? O problema é que existia vários seres já criados com função de autoridade» (U0004) — A semente da racionalidade recebe a autoria anunnaki segundo a fonte, com o par que a incomoda (inteligência **e obediência**). Entrada datada, sem harmonizar com as formulações das obras.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U0946–U0978; U1005–U1015 | palestra/STT |
 | P2022-12-17 / P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B072 | — | obras/palestras |
+
 
 ## Citação-chave
 > "Nós, os humanos, somos a única descontinuidade que aconteceu ao longo de 13,8 bilhões de anos."

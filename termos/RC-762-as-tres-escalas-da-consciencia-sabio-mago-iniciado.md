@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
 | **Status** | ⚪ Candidato aprovado pelo curador (2026-08-18) |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -26,12 +26,18 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 
 - **[P2022-03-26 · AS TRÊS ESCALAS DA CONSCIÊNCIA NA FALA DE 26/03/2022]** "Se os conceitos supremos da vida são dignidade, descência, compaixão, amor, solidariedade, e o eu age de acordo com estes conceitos, isso implica dizer que além de inteligente, ele é superior, ele é sábio, ele é amoroso, ele é uma superconsciência." (U0040) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **20 meses** a atual fonte oral mais antiga da ficha (`P2023-12-02`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · AS TRÊS ESCALAS DA CONSCIÊNCIA (SÁBIO → MAGO → INICIADO) NA FALA DE 03/12/2023]** «Criando um processador aqui dentro que faça o niroda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | seção 6 do Sumário; bloco dos três mundos/escalas | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

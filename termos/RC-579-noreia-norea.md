@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Figura gnóstica apresentada como filha de Eva e resistente aos Arcontes, integrada na palestra à genealogia ligada a Adão, Eva, Caim e Seth.
@@ -23,10 +23,16 @@ A menção ocorre durante a reconstrução da primeira era equinocial. O curador
 - **Eleleth (STT "Elelf/Elelet"):** anjo (não arconte) que explica a Noreia a origem e o destino do poder dos arcontes — "os arcontes não sabem da história deles e não sabem do destino deles"; o único que sabe é Moros (RC-454); a revelação a uma humana (Noreia) enfureceu os arcontes ("ferraram com a vida de Noréa").
 - **P2026-07-25:** "um ser espiritual vivo que vai começar a nascer na terra agora tentando refazer o papel" — ver quarentena de identidade de gênero.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · NOREIA (NOREA) NA FALA DE 03/12/2023]** «uma filha de Eva e Lilif, bandidos, todos bandidos, mas os bandidos são os heróis e heroínas da história.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0682 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Uma outra filha [...] chamada Noreia.”” — P2022-12-17, U0677–U0682

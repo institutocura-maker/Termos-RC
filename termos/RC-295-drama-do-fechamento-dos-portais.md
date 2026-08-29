@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-12 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 O processo de **fechamento dos portais entre o universo antimaterial e o material** — um dos principais temas ausentes dos estudos humanos, "ao qual a mitologia não se refere" (B021, cap. 21). Quando os portais se fecharam, os deuses do universo vizinho não puderam mais se manifestar diretamente na Terra, e cessaram os registros produzidos por eles para os humanos. **O grande impacto do fechamento total dos portais é que "a partir desse evento se acabou o engodo dos deuses, já que não puderam mais manipular os humanos por meio de 'adivinhação astrológica'"** — o que levou Zeus e Apolo a desenvolverem o controle por meio das **pitonisas e oráculos**.
@@ -23,30 +23,6 @@ O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam d
 - **[B021 p. 9]** portais «foram se fechando, movidos pela "entropia universal"»; «lacre do destino» (bloqueio total) «no ano de 2012». **Quarentena ufológica / científica** (entropia / 2012 = leitura).
 - **[B021 p. 15–16]** quando as passagens se fecharam, os entes do universo paralelo «tiveram que permanecer apenas do lado de lá».
 - **[B021 p. 127–128]** cap. 21: tema «ausente nos estudos humanos»; «a partir desse evento se acabou o engodo dos deuses». Pitonisas/oráculos = descrição do ensaio; RC-296 permanece **sem ficha**. «Dementes» (p. 128) = **clínica — fora da ontologia**. Falas de Zeus **isoladas**. Sem fusão com B024 / B001. Fonte **B021** já constava na tabela-mestra.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| Tempos Difíceis no Olimpo (B021) | cap. 21 (O "Drama do Fechamento dos Portais") | pp. 110–120 (aprox.) | capítulo dedicado |
-
-## Citações-chave
-> "O grande impacto do fechamento total dos portais é que, a partir desse evento se acabou o engodo dos deuses, já que não puderam mais manipular os humanos por meio de 'adivinhação astrológica'." — B021, cap. 21
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Pitonisas e Oráculos | RC-296 | resulta-em |
-| Zeus | RC-145 | envolve |
-| Isolamento Cósmico | RC-070 | contexto |
-| Universo Antimaterial | RC-106 | portais-de |
-| Era dos Humanos | RC-297 | sucede |
-
-## Seres Associados
-Zeus (RC-145); Apolo (RC-306); demos do Olimpo (RC-049).
-
-## Observações
-Ficha baseada em B021 (obra primária). O fechamento dos portais explica o fim do convívio direto deuses-humanos e a origem do controle oracular/religioso. Cruzar com RC-070 (Isolamento Cósmico) e RC-258 (Coreografia Cósmica).
-
 ---
 
 ## Atualização — P2022-12-17
@@ -58,3 +34,10 @@ Ficha baseada em B021 (obra primária). O fechamento dos portais explica o fim d
 ## Reforço — P2025-02-16
 
 O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA]`.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DRAMA DO FECHAMENTO DOS PORTAIS NA FALA DE 03/12/2023]** «nos termos em que lá atrás se vinha através dos portais, porque é um mundo antimaterial.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.2 Coletivos criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Hostes de Sophia** são as forças coletivas a serviço de Sophia (RC-009) na trilogia de Yel Luzbel — o séquito administrativo e bélico do "Comandante deste universo": os "Administradores"/"Assessores" e as "**Hostes bélicas**" que, ao final do Livro 2, o "Exército" dos biodemos rebelados se prepara para combater. No Livro 1, "a Revolta... foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**".
@@ -30,13 +30,19 @@ No Livro 2 (B058), as designações se sucedem: "Sophia e as suas Hostes" (recor
 - **[P2021-05-08 · A FUNDAÇÃO DE 2021 · OS ANJOS QUE SE APROPRIARAM DE SOFIA + A FAMÍLIA AIA MANDA]** "os anjos que Javé pôs para vigiar Sofia SE APAIXONARAM POR SOFIA... E HOJE APROPRIARAM SOFIA E SOFIA APROPIOU-OS NELE PRÓPRIO. Então são muito iguais..."; "AS SEIS MÚMIAS PARALÍTICAS ao redor de Sofia é tudo com face de jaspe, de pedra. ELES NÃO TÊM ESSE TIPO DE CONVENÇÃO MENTAL DO SORRISO"; **A ANEDOTA DE 1994**: "FOI NO ANO DE 1994... esse amigo [de Natal] fez um comentário... NÓS SORRIMOS... E JESUS — o melhor, SOFIA — ESBOÇOU UM SORRISO... E OS OUTROS SEIS QUASE QUE ENTRAVAM EM PÂNICO PORQUE NÃO ENTENDIAM AQUELA MOVIMENTAÇÃO" [⚠️ o pânico das múmias diante do sorriso — biomediúnica/fenomênico]; **A FAMÍLIA AIA MANDA**: "no fundo no fundo eu acho que QUEM MANDAVA NA NOSSA CRIAÇÃO ERA A FAMÍLIA AIA, NÃO ERA [ninguém mais]. E EU PENSO ISSO HOJE... eles nunca foram demo"; "eles são e estão, tá? Tudo preservadinho"; "SE OS ESPÍRITOS QUE ESTÃO POR TRÁS DESSAS FIGURAS QUE FICARAM CONHECIDAS COMO GABRIEL, RAFAEL, MIGUEL... talvez ele seja UM SELO DE GARANTIA que esteja funcionando por trás dessa história, JUNTO COM O QUARTO LOGOS ou outros logos que ainda venham por aí, ou quinto, sexto, sétimo tipo de cérebro" [⚠️⚠️ a supremacia da família Aia + o selo de garantia]; a rede mental niveladora ("uma rede mental entre eles que termina nivelando e o que um tem o resto passa a ter"); "eu só fiz até hoje UMA PALESTRA SOBRE OS ANJOS CLONES, MORRENDO DE MEDO".
 - 0 códigos novos (O-3). Quarentena: biomediúnica (a anedota de 1994 como registro fenomênico).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · HOSTES DE SOPHIA NA FALA DE 03/12/2023]** «Os anjos de Sofia trouidaram todo mundo, acabou todo mundo, morreu mesmo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-08-08`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | O Início da Revolta Capelina (B058) | Cap. 6 | p. 26 (PDF): "enfrentarmos Sophia e as suas Hostes" | narrativa psicografada (Yel Luzbel) |
 | O Início da Revolta Capelina (B058) | Cap. 14 | p. 67 (PDF): "as suas 'Hostes de Comando'" | narrativa psicografada |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 74 (PDF): "combater Sophia e as suas Hostes bélicas!" | narrativa psicografada |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 19 (PDF): a rebelião "contra Sophia e as suas hostes" | narrativa psicografada |
+
 
 ## Citações-chave
 > "Por mais desagradável que seja, preciso informar o leitor que a 'Revolta dos Anjos Decaídos' foi uma rebelião deflagrada há uns 687 mil anos, em Capela, **contra Sophia e as suas hostes**, que resultou na morte de seres de várias espécies desse Sistema Solar e de outros..." — B057, p. 19

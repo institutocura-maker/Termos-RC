@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-16 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Humano que, por vontade, serenidade e decência, produziria um foco de resistência à entropia informacional. Na linguagem da palestra, esse foco é um “ponto de luz” ou uma “ilha de negentropia”.
@@ -72,10 +72,16 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[P2025-02-22 — eco] O PONTO DE LUZ NO OCEANO]** a função: "recolher a [sujeira]... reunir no seu genoma, RESSIGNIFICAR CADA GENE E DEVOLVER TRANSFORMADA EM BELEZA PRO OCEANO DE ELÉTRONS" (RC-760/RC-217); "e o eu humano é aquele que é ou produto disso que ele recolhe, ou seja, [sujeira] pura, OU É UM EU QUE VAI ATUAR SOBRE A [SUJEIRA] QUE ELE RECOLHE, RESSIGNIFICANDO COM A SUA TEMPERATURA INTERIOR, COM O SEU CÓDIGO FILOSÓFICO DE EXISTIR, COM A SUA PREOCUPAÇÃO DE SER DIGNO EM CADA INSTANTE. E ASSIM TUDO QUE SAI DE VOCÊ, AINDA QUE VOCÊ ERRE O TEMPO TODO, MAS SAI COM A SUA BOA INTENÇÃO NO CAMPO DA NOBREZA" [⚠️⚠️ o eu como o agente transformador]; "QUANDO UMA CERTA QUANTIDADE DE MASSA CRÍTICA DE HUMANOS CONSEGUIR FAZER ISSO, O PROBLEMA DOS DOIS UNIVERSOS ESTARÁ RESOLVIDO, MAS NÓS SOMOS MUITO POUCOS E NÃO VAI DAR TEMPO"; a especiação: "hoje nós somos o canis lupus da história... daqui a 10.000 anos, VÁRIAS MILHARES DE HUMANIDADES... sem os vícios, sem a sujeira... para que esses humanos possam investir em senso de dignidade... E NÃO FICAR SENDO SÓ DEVOTO".
 - 0 códigos novos (O-3).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · PONTO DE LUZ HUMANO / ILHA DE NEGENTROPIA NA FALA DE 03/12/2023]** «a gente ainda tá no meio da explosão.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-09-24`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-11-09 | U0715–U0750; U1050–U1070; U1260–U1270 | palestra/STT |
+
 
 ## Blindagem científica
 As afirmações sobre voltagem celular, aura de 18 metros, elétrons e massa crítica não são tratadas como ciência estabelecida. Números conjunturais não integram a definição canônica.

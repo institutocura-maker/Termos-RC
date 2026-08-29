@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Sistema perceptivo, neuronal, cultural e psíquico que faz o humano tomar uma faixa limitada da realidade como totalidade, ocultando níveis quânticos, espirituais e cósmicos.
@@ -72,37 +72,6 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · CAMUFLAGEM DA REALIDADE NA FALA DE 26/03/2022]** "A infecção que antes existia aqui hoje está totalmente distribuída em todos os ambientes. espirituais da rato cidade e há pouco tempo furou a blindagem, começou a chegar aqui." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **12 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2025-02-15 | U0001–U0018; U0074–U0200; U1210–U1320; U1689–U1699 | aula/palestra STT |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — |
-
-
-
-## Citações-chave
-> “Nós somos peixes que só conseguimos ver o aquário em que vivemos, só que o vidro está camuflado.”
-
-## Termos Relacionados
-| Termo | Código | Relação |
-|---|---|---|
-| Pílula Vermelha | RC-192 | relaciona-se-a |
-| Lavagem Cerebral | RC-335 | sustentada-por |
-| Travas e Lacres | RC-563 | sustentada-por |
-| Dehatma Buddhi | RC-551 | relaciona-se-a |
-| Ser Humano Emancipado | RC-372 | rompida-por |
-| Postulados Quânticos | RC-703 | rompida-por |
-| Bhavaṅga | RC-706 | atravessada-por |
-| Liberdade Mental | RC-253 | relaciona-se-a |
-| Verdade Posta × Construída | RC-657 | relaciona-se-a |
-
-## Observações
-- Maya/Maia como ilusão é contexto comparativo; Maya Danava permanece `[REVISAR]`.
-- A camuflagem é conceito RC, não conclusão da física quântica.
-
 ---
 
 ## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica) — ABSORÇÃO DO SIMULACRO/MATRIX (NT-BR02)
@@ -112,3 +81,10 @@ Dentro e fora são posições relativas ao lugar onde o eu está centrado: corpo
 - **Pílula vermelha como deslacre:** "destrava, deslacra o seu cérebro... despolui o modo como o seu cérebro, o seu conectoma funciona" (RC-192);
 - **Convergência científica/filosófica:** seção 2.1 — "A Convergência Científica e Filosófica: A Inevitabilidade da Realidade Simulada" (leitura do autor — quarentena tecnológica);
 - A camuflagem é a interface da Criação Indevida: a bolha da Obra problemática (RC-167).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CAMUFLAGEM DA REALIDADE NA FALA DE 03/12/2023]** «criaram faixa de realidade simultânea para todo o quartel general de Lúcifer ser teletransportado para essa faixa de realidade.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

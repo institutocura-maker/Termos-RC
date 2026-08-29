@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Kether** é o nome pelo qual o **Criador (Javé/Brahma)** é designado na Cabala — a "Coroa" da Árvore da Vida, o Criador referido no subtítulo de B013: "a Criação (Daath), o Criador (Kether/Javé)". Na correspondência cabalística das RC, **Kether = Javé = Brahma**, residente no nível **Yetzirah** da Cabala (o Brahmaloka): "o universo antimaterial, paralelo e vizinho ao que vivemos, no qual reside o Criador 'caído' Kether, também chamado de 'Javé' e de 'Brahma'" (B013, cap. 6).
@@ -44,11 +44,17 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 - **[P2023-10-14 · JAVÉ = KETHER, AFIRMADO EM FALA (anterioridade)]** "Então, Javé é que ter, é, a primeira que foi reconstruída aqui dentro." (U0085); "Então ele foi organizou uma árvore da vida dizendo: «Olha, o principal aqui entre vocês que vocês consideram é keter.»" (U0085) — 🆕 anterioridade: P2024-07-14
 - **[P2023-10-14 · AS NOVE RESTANTES RECONSTRUÍDAS NA MATRIX]** "As outras nove são outras nove personif." (U0085)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · KETHER (JAVÉ NA CABALA) NA FALA DE 03/12/2023]** «preparado o humano Jesus para servir a Keter ou javera ou brama.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Tzimtzum (B013) | caps. 1, 6, 11 | pp. 13, 75–85, 130–140 (aprox.) | termo central |
+
 
 
 ## Citações-chave

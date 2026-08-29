@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É o **modus operandi existencial** implementado por Javé: o modelo da **"mente coletiva" sob o seu controle**, no qual o Criador ("Abelha-Rainha") ocupa o topo e todas as demais criaturas — "operárias" — existem para servir e alimentar a rainha, sem liberdade ou conveniência próprias (B044, caps. 1, 11). Os humanos romperam o "lacre" do sistema de controle — o "modelo colmeia" — para poderem evoluir, mas ainda não o realizaram como deveriam (cap. 7).
@@ -42,38 +42,6 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 
 - **[P2022-03-26 · MODELO COLMEIA NA FALA DE 26/03/2022]** "diferente de Javé, que sempre foi totalmente impositivo e não deixa ninguém sair, Sofia sempre afrouchou, vamos assim dizer, essas rédias ou esse controle porque ele sabia que estava criando ferramentas para resolução de problemas. E se ele não sabia resolver, aquela espécie tinha que evoluir para resolver aquele problema e ele evoluiria junto com aquela espécie." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · RÉDEAS FROUXAS: SOPHIA COMO RAINHA QUE NÃO IMPÕE]** "No livro A Divina Colmeia, a gente analisa hoje isso aí." (U0008) — A fonte remete o desenvolvimento ao livro já catalogado (cross-reference D-11): **B044 A Divina Colmeia**. Nada de obra nova: o vínculo é de conteúdo com endereço.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| A Divina Colmeia (B044) | caps. 1, 2, 7, 11, 14 | pp. 20–22, 62, 86–87, 104–105 | termo central |
-
-
-
-## Citações-chave
-> "O primeiro modelo existencial implementado pela mente de Javé, envolvendo ele próprio e os seus anjos-clones, foi o da 'mente coletiva', só que sob o seu controle." — B044, cap. 11
->
-> "Os humanos romperam o 'lacre' do sistema de controle – o 'modelo colmeia' – para poderem evoluir, mas ainda não o realizaram como deveriam e poderiam porque sempre fizeram mau uso do poder que detêm nos seus psiquismos." — B044, cap. 7
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Colmeia Universal | RC-174 | contexto |
-| Abelha-Rainha (Javé) | RC-175 | agente (topo) |
-| Mente Coletiva | RC-188 | implementa |
-| Anjos clones | RC-019 | primeiros súditos |
-| Trava-demo | RC-184 | correlato (demo) |
-| Pandora | RC-086 | rompeu (parcialmente) |
-| Eva | RC-189 | rompeu (deslacre final) |
-
-## Seres Associados
-Javé (RC-001); anjos-clones (RC-019); demos (RC-049); biodemos (RC-036); seres humanos (RC-099).
-
-## Observações
-Ficha baseada em B044 (obra primária). O "modelo colmeia" é a chave interpretativa da obra: explica o sistema de controle do Criador sobre as criaturas e o "deslacre" progressivo que culmina na liberdade humana.
-
 ---
 
 ## Atualização — P2021-12-04
@@ -105,3 +73,10 @@ A crítica à colmeia/ditadura e a menção ao imperador japonês como "abelha r
 
 - **Sofia como "abelha rainha":** "um monte de civilizações que obedece Sofia, mas obedece porque a Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles" — o modelo colmeico aplicado ao séquito de Sophia (RC-009; RC-175);
 - Contexto: relógio messiânico (RC-765) e padrão de domínio (RC-764).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · MODELO COLMEIA (SISTEMA/CONTROLE COLMEIA) NA FALA DE 03/12/2023]** «igual a formiga que vive lá embaixo e quer tá lá embaixo porque é o lugar bom para eles.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

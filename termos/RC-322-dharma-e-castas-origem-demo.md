@@ -5,7 +5,7 @@
 | **Categoria Principal** | Termos Específicos |
 | **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -35,12 +35,18 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - **[P2023-10-14 · O DEVER DE CASTA COMO SUSPENSÃO DO KARMA]** "Você vai gerar karma negativo se você não for paraa guerra." (U0020) — ⚠️ **Ponto mais delicado do ciclo** (dever de casta justificando violência): entra com rótulo de quarentena e **não** vai para a apostila sem nota editorial.
 - **[P2023-10-14 · O QUE RESTOU QUANDO OS PORTAIS FECHARAM]** "Os humanos apenas herdaram isso agora porque os portais fecharam esses seres sumiram e restou o quê?" (U0020)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DHARMA E CASTAS (ORIGEM DEMO) NA FALA DE 03/12/2023]** «substituir a única regra da erdo que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | B023 — *O Dharma e as Castas Hindus* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
 | P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

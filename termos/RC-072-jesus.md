@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -312,37 +312,6 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 
 - **[P2022-03-26 · JESUS NA FALA DE 26/03/2022]** "o eu humano de Jesus olhou pro mapa pastoral. Ele, ou seja, leu a escritura judaica, disse: «Putz, bem, ele não disse puts, mas pronto, que podia ter dito, porque ele assim, cara, isso aqui sou eu, esse Messias sou eu.»" (U0021) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A RECUSA DA AGENDA: JESUS DIZ NÃO AO PRÓPRIO ESPÍRITO]** "O homem Jesus, Renato disse não a a agenda do espírito dele, que era o mesmo de Sofia." (U0021); "os meus super poderes para dominar ninguém, para impor a ninguém, para punir ninguém em nome de Javel, mas não vou, eu vou tentar convidar os seres humanos a, mas eu não vou usar os meus superperes para criar um exército de judeus, para expulsar os romanos, criar um império na terra e obrigar todo ser terrac a voltar a obedecer a Javé, porque era isso que Javé queria desde de Adão e Eva." (U0021); "Nesse livro explica a diferença que Jesus ressuscitado, o homem Jesus e Sofia e o espírito de Jesus são é uma consciência fateada." (U0025) — D-5: tese **datada de 26/03/2022**, não definição canônica. A fonte nega o uso de poder e relee o Segundo Advento como investidura recusada — registrar as três aspas juntas para que a recusa não seja lida como recusa da missão.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| B031 | — | obra publicada |
-| P2023-05-13 | seções 3.2, 4.2, 9.4; bloco do "reinar sobre o processo" | palestra/STT pré-curada |
-
-
-
-
-## Citação-chave
-
-> "O próprio Jesus disse: 'Ó, quem busca a verdade vai ter o estranho hábito de nunca deixar de procurar a verdade. Mas a cada vez que vai tomar um susto, vai ficar perturbado, depois se ajeita. De tanto susto vai se ajeitando, se acalmando, se equilibrando até que passa a reinar sobre o processo.'" — P2023-05-13
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
-| Pílula vermelha | RC-192 | relaciona-se-a |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a |
-
-## Observações
-
-A "imolação como único acerto da teologia católica" é leitura do autor (Teologia Comparada de Ellam) — registro doutrinário, não afirmação histórica.
-
 ---
 
 ## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
@@ -362,3 +331,10 @@ A "imolação como único acerto da teologia católica" é leitura do autor (Teo
 - **Produzido por Javé (RC-001):** "Brahma produziu Jesus para Jesus cumprir duas funções: libertar os judeus do império romano... e em fazendo isso, resolveria o problema da Índia que Krishna havia tomado dele... Jesus se recusou a fazer isso";
 - **Nova aresta RC-072 ↔ RC-001** (Jesus ~ Javé — a recusa do reinado);
 - Contexto: a recusa de Jesus como o "chute no pau da barraca" da agenda de Javé (reforço de P2024-09-28).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · JESUS NA FALA DE 03/12/2023]** «Jesus se recusou a cumprir o papel de Messias violento.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

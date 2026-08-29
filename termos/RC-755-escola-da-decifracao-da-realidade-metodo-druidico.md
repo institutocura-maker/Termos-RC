@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -42,15 +42,22 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 
 - **[P2022-03-26 · ESCOLA DA DECIFRAÇÃO DA REALIDADE NA FALA DE 26/03/2022]** "Hom mais tarde abriu a escola da decifração da realidade lá em ZAM, que é um dos mundos do sistema de capel, quando esses biodenemos estavam tentando resolver os problemas da realidade já detectados." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ESCOLA DA DECIFRAÇÃO DA REALIDADE (MÉTODO DRUÍDICO) NA FALA DE 03/12/2023]** «criem um método para vocês estudarem.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O CONTRATO DO MÉTODO]** «nós queremos dar para vocês os nossos conhecimentos para que vocês descubram uma maneira de compreendê-los e nos explicar.» (U0004) — D-8: a Escola da Decifração recebe da fonte a sua **justificativa mítica**: discernir o erro e receber a verdade foi pedido expresso, e o isomorfismo com a ditagem enoquiíta é afirmado pela própria fala.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-06-14 | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
 
 
 

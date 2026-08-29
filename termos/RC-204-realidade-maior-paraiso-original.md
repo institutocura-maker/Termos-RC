@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Nível original da perfeição e da unidade, descrito como habitat dos Seres Originais do Paraíso e como matriz anterior à Espiritualidade Operacional e à Espiritualidade Laboratorial.
@@ -23,32 +23,6 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 
 - **[B001 p. 13]** «A Realidade Maior é pré-existente a tudo»; universo espiritual «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo».
 - «afirmam os Espíritos Codificadores» = **referência externa** (Kardec); Ellam relata, não ontologizar a codificação. Sem fusão com P2021-12-04. Fonte **B001** já constava na tabela-mestra.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| B001 — O Drama Cósmico de Javé | contexto da Realidade Maior | obra primária |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0055–U0063; U0082–U0086; U0154–U0178 | STT pré-curado |
-
-## Citações-chave
-> “No Paraíso não existiam duas classes de seres. Sempre foi somente uma.” — P2021-12-04
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Seres Originais do Paraíso | RC-600 | contém |
-| Círculo da Perfeição | RC-603 | relaciona-se-a |
-| Protocolos da Perfeição | RC-606 | rege-se-por |
-| Espiritualidade Superior | RC-059 | relaciona-se-a |
-| Deidade | RC-047 | relaciona-se-a |
-| Pai Supremo | RC-205 | relaciona-se-a |
-
-## Seres Associados
-Seres Originais do Paraíso (RC-600); Deidade (RC-047); Pai Supremo (RC-205).
-
-## Observações
-A fusão NT-E06 → RC-204 foi aprovada para evitar duplicação ontológica. “Paraíso Original” passa a ser variação canônica de Realidade Maior nesta Base.
-
 ---
 
 ## Atualização — P2026-07-30
@@ -56,3 +30,10 @@ A fusão NT-E06 → RC-204 foi aprovada para evitar duplicação ontológica. �
 - **Unidades:** U0042–U0054.
 - **Contexto acrescentado:** O Paraíso Original é descrito como plenitude/êxtase permanente que inibe ímpeto criativo; seus desdobramentos búdico e manásico permitiriam consciência de externalidade e criação.
 - **Status:** live em STT sem áudio anexado; manter divergências abertas.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · REALIDADE MAIOR / PARAÍSO ORIGINAL NA FALA DE 03/12/2023]** «todos esses seres são 100% pacíficos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

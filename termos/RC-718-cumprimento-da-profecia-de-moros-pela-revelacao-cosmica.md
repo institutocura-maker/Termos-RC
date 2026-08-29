@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.3 Profecias / Anúncios |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Evento/processo em que as revelações ligadas ao espírito de Moros culminam na Revelação Cósmica, abrindo os Arquivos do Destino e cumprindo a Profecia das Três Flechas.
@@ -24,30 +24,6 @@ A lista é uma arquitetura da palestra; identidades e cronologias devem permanec
 ## Ampliação — P2024-11-30
 
 - **Cumprimento da Profecia (P2024-11-30):** "a profecia diz que só quando [Moros] resgatasse as três setas, todo o conjunto de seres dos dois universos iriam entender e saber a história desde o momento zero desta criação até os tempos em que as setas fossem descortinadas, deslacradas, novamente lidas, compreendidas e explicadas"; "esta [espécie humana] apenas faria a leitura crítica e explicaria para todas as demais espécies, cujo entendimento é inferior" — a RC como leitura crítica humana das setas.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2024-11-30 | U1218–U1230; U1320–U1340; U1400–U1420 | palestra/STT |
-
-## Citações-chave
-> “A Revelação Cósmica nada mais é do que o cumprimento da profecia de Moros.”
-
-## Termos Relacionados
-| Termo | Código | Relação |
-|---|---|---|
-| Flechas de Moros | RC-611 | cumpre |
-| Revelação Cósmica | RC-094 | é-evento-de |
-| Moros | RC-454 | iniciado-por |
-| Kardec | RC-190 | envolve |
-| Vyasa | RC-585 | envolve |
-| Quirino Cornélio | RC-659 | envolve |
-| Orunmilá | RC-665 | envolve |
-| Arquivos do Destino | RC-714 | abre |
-
-## Observações
-Localizações das flechas permanecem alegações da palestra; o eBook não fornece prova independente.
-
 ---
 
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
@@ -77,3 +53,10 @@ Localizações das flechas permanecem alegações da palestra; o eBook não forn
 - **[P2025-07-18 · U00013–U00016] Sincronicidade profetizável:** a palestra distingue **inevitabilidade** (o peso das Flechas de Moros — RC-611) de **previsibilidade** (a leitura dos padrões da teia — RC-658/RC-767), propondo que a vida é "parcialmente profetizável". Esta é uma **nota cruzada** com RC-611 e RC-658, conforme a Devolutiva O-2 (Sincronicidade Profetizável absorvida estritamente como nota cruzada RC-611/658/718, sem código independente);
 - **O cumprimento em curso:** a distinção reforça o registro existente — a Revelação Cósmica como a revelação das setas (P2023-12-02) e os 256 caminhos de Orunmilá (RC-767) como o compêndio de leitura do "futuro que já se encontra escrito";
 - **Quarentena:** a profetização é apresentada pelo expositor como hipótese cosmológica ligada à teia do destino; não é afirmação de causalidade científica nem de previsão verificável.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CUMPRIMENTO DA PROFECIA DE MOROS PELA REVELAÇÃO CÓSMICA NA FALA DE 03/12/2023]** «corresponde só o capítulo 11.» (U0028) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

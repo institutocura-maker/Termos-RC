@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-21 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias" ou "primeiros astronautas", criados a partir da mutação de códigos genéticos "demos" para viabilizar a transposição do código de vida do universo antimaterial para o material. Criadores da **Mensagem TALM** (RC-080). Forma intermediária entre demos e seres biológicos, desprovidos de emoção e senso crítico, com "pensamento único" e programação sacrificial.
@@ -31,11 +31,18 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 
 - **[ART-2025-08-03 — material do curador] A gênese e a psique dos Fenvans (Cap. 1–5):** "os Fenvans foram a espécie precursora e experimental, designados como 'seres-cobaias' ou 'primeiros astronautas'; sua criação foi uma medida indispensável para viabilizar a transposição do 'código de vida' do universo antimaterial para o material"; "inicialmente criados em 'laboratórios' no Brahmaloka, através da mutação de códigos genéticos 'demos'"; "não exibiam as distinções de sexo, emoções ou padrões morais... minimamente pensantes, desprovidos de emoção e de senso crítico, focados na replicação da vida"; "foram submetidos a 'testes de estresse extremo' para induzir mutações... o sofrimento imposto é descrito como 'chocante' e 'perturbador'"; "muitos morreram nas tentativas de passar do universo antimaterial para o nosso — 'jogados' por tecnologias como torpedos ou balas de canhão de íons de plasma"; "a analogia com o poema 'Venham até a borda' (Christopher Logue)"; "programados para o suicídio — 'pensamento único'"; "os que subsistem vegetam como 'lixo existencial', na maior quantidade de seres da Criação, aprisionados no Ginnungagap (RC-776)"; "sofrem 'cegueira existencial' — desconhecem nosso universo há 4 bilhões de anos — e representam perigo de 'invasão' (podem 'rasgar o espaço-tempo')"; "por trás de cada espécie de micro-organismo (vírus e protozoários) existem mentes de Fenvans... a analogia do Toxoplasma Gondii ilustra essa manipulação inconsciente" [QUARENTENA CLÍNICA — analogia do autor, jamais parasitologia real]; "houve uma leva de 'pré-fenvans' e 'fenvans' envolvidos nos primeiros sacrifícios do projeto"; "a 'loka dos fenvans' é o maior 'laboratório em atuação' a partir do universo vizinho, onde Mohen So produziu os Fenvans".
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · FENVANS NA FALA DE 03/12/2023]** «um tipo de ser que eu sou obrigado chamar de fenvan, que é espécie de demo moderno.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O TERCEIRO PADRÃO DE GENÉTICA DEMO]** «genética demo chamada Fenvan.» (U0004) — A ficha ganha a posição do fenvan na série: não é espécie nova, é **padrão de atualização** da genética demo, o terceiro depois dos clones robotizados e do demo. A grafia do bruto varia e fica [REVISAR].
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Partes I–III | material do curador |
 | Fontes anteriores da Base | B031, B024 | apoio/remissão |
+
 
 ## Citações-chave
 > "Os Fenvans foram a espécie precursora e experimental, designados como 'seres-cobaias' ou 'primeiros astronautas'." — ART-2025-08-03, Cap. 3

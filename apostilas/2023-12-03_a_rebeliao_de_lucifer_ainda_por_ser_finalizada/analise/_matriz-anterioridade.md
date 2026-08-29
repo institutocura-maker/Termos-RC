@@ -375,3 +375,30 @@ antigas deste tema. Busca por 80 padrões sobre nome+resumo+fontes+relações de
 | RC-777 | Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | `P2021-07-24` | sem ganho de data (já tem `P2021-07-24`); ganho de **conteúdo** | sim |
 
 **366** códigos na mira desta palestra; **182** ganhariam data; os demais ganhariam conteúdo. Nenhuma linha desta tabela foi aplicada: **0 escrita na Base até a devolutiva do Curador** (D-14 do ciclo anterior: pipeline liberado, mas A e B em commits separados e só depois do despacho).
+
+
+---
+
+## Medições depois de BLOCO A aplicado (2026-08-29)
+
+Números lidos de arquivo, não da previsão acima — é esta a conta que o portão D confere:
+
+| grandeza | previsto (mira de 366) | **medido nos 126 aprovados** |
+|---|---|---|
+| códigos tocados pela palestra | 366 na mira · 127 vínculos propostos | **126** (um código recebeu dois vínculos-mestre) |
+| ganho de **data** | 182 | **3** — antecipam 11 meses: `RC-034`, `RC-672` · estreiam fonte oral: `RC-046` |
+| ganho de **conteúdo** | 184 | **123** |
+| fichas com `## Ampliação — P2023-12-03` | — | **107** (as existentes ampliadas + as 2 materializadas) |
+| `ficha=False` com vínculo só na malha | — | **19**: `RC-034`, `RC-035`, `RC-060`, `RC-093`, `RC-109`, `RC-136`, `RC-163`, `RC-186`, `RC-189`, `RC-280`, `RC-306`, `RC-315`, `RC-344`, `RC-375`, `RC-387`, `RC-444`, `RC-508`, `RC-528`, `RC-546` |
+
+**Por que a conta de data encolheu tanto (declaração, não correção):** a mira previa 182 ganhos de data porque media
+*toda* ficha tocável. O despacho aprovou vínculo por **conteúdo temático**, e os códigos aprovados são justamente os
+do núcleo do tema — núcleo que `P2020-04-25` e `P2022-03-26` já cobrem desde mais cedo. A Base fica com
+123 entradas de conteúdo, 2 de data e 1 de estreia: a diferença entre 182 e
+3 **é** a curadoria, não uma perda de medição.
+
+**Ordens do despacho que não tinham onde cair (registradas, não executadas):** D-1 → `RC-093`; D-2 → `RC-189`; D-6 → `RC-280`; D-7 → `RC-093`, `RC-035`; D-8 → `RC-375`; D-13 → `RC-344`
+são fichas **sem arquivo**. O conteúdo aprovado está no pacote (BLOCO 1) e vai para a apostila, e o vínculo de malha
+foi feito; nenhum arquivo foi criado por iniciativa do aplicador (D-10 liberou materialização **só** para `RC-018` e
+`RC-040`). Se V.Sa. quiser os arquivos, é ordem nova — o materializador deste ciclo (`_gerar_fichas_RC018_RC040_P2023-12-03.py`)
+é genérico e já está escrito para ser copiado.

@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A "rebelião dos elétrons" é o **movimento inconsciente de rebelião íntima no âmbito dos elétrons** (B041, cap. 17) — e, segundo o cap. 22, **"foi e é o único padrão modificador do Código de Vida Pessoal do Criador (CFDP)"**, daí o título do livro. Para Javé, "o sentido que damos à 'rebelião dos elétrons' significa exatamente a sua rendição psíquica, cuja implicação é a de 'abrir mão' da gestão dos 'pedaços desagregados de si mesmo', ou seja, dos elétrons e dos antielétrons". Em vez de Javé comandar os elétrons (suas partes desagregadas), **eles atuarão sobre ele**, comandados pelas mentes das "criaturas-ferramentas" — "a única maneira possível deles ajudarem o Criador 'caído'".
@@ -67,14 +67,20 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[P2022-03-26 · A REBELIÃO DOS ELÉTRONS NA FALA DE 26/03/2022]** "Ao longo dos últimos 500.000 anos ocorreram guerras entre essas estirpes aqui tecnomentais, guerras mentais e também as chamadas guerras destrutivas. Esses dois tipos de guerras não matavam ninguém, não destruíam ninguém." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · GUERRAS DE 500.000 ANOS: QUEM SE DESTRÓI E QUEM SÓ SE BATE]** "nos 400.000 anos para cá, 300.000 anos, eles começaram a se destruir uns aos outros, ainda que sem maldade, ainda que sem mais são, é um formigueiro brigando com o outro. Em algum momento formigas começam a morrer, mas não que um formigueiro tenha planejado isso." (U0009); "começou a acontecer o quê? Guerras entre os seres biodemos." (U0008) — Três marcos de duração na mesma linha (500.000 / 400.000 / 300.000 anos) — reproduzidos como ditos, com o intervalo aberto (D-10).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · A REBELIÃO DOS ELÉTRONS NA FALA DE 03/12/2023]** «devolver pela sua pulsação para o resto do universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Rebelião dos Elétrons (B041) | caps. 17, 21, 22 | pp. 130–150, 165–184 (aprox.) | tema-título |
 | A Epopeia dos Agentes da Vida (B024) | cap. 13 (Mistério dos Elétrons) | — | apoio |
+
 
 
 

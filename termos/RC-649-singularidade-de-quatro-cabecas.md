@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Ser composto pelas três forças da Trimurti e uma cabeça livre, associado a Mohen So/Phanes/Protogonos.
@@ -28,10 +28,16 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 - **[P2023-09-09]** "quando o nosso amigo [Phanes] olhou o corpo daiva de Brahma, o corpo daiva de Vishnu, corpo daiva de Shiva, que compartilhavam com ele no famoso corpo com quatro cabeças... 'Ó, o criador tá com esse problema e vocês dois também, viu... todos nós aqui estamos ferrados'" — a constatação no corpo de 4 cabeças.
 - 0 códigos novos (O-3).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · SINGULARIDADE DE QUATRO CABEÇAS NA FALA DE 03/12/2023]** «duas cabeças, três cabeças, sexualidade, blá blá blá.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2025-10-25 | ver dossiê e transcrição | live/STT |
+
 
 ## Citações-chave
 > Ver P2025-10-25.

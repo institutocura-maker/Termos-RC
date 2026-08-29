@@ -5,7 +5,7 @@
 | **Categoria Principal** | Seres & Entidades |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -40,14 +40,21 @@ Com isso:
 
 - **[P2022-03-26 · ANJOS CAÍDOS NA FALA DE 26/03/2022]** "Os anjos clones são robotizados, eles são tão autistas quanto a turma lá de cima. Eles olharam ser Sofia olhou e mais um problema e continuaram a estudar e em algum momento ficou com um vírus na cabeça de Lúcifer de Elos Bell." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ANJOS CAÍDOS NA FALA DE 03/12/2023]** «subtema do tema doutrina dos anjos decaídos.» (U0003) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · OS ANJOS QUE NÃO SOUBERAM LER]** «esses anjos são meio assim, são robôs, então eles só servem para E também não fizeram a leitura que a Elusb fez.» (U0004) — A doutrina dos anjos decaídos recebe a variante da fonte: os clones-robôs da Trimúrti examinaram o problema e **não fizeram a leitura que Luzbel fez**. O item ancora a taxonomia declarada no início da própria palestra (rebelião = subtema da doutrina dos anjos decaídos).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | B031 — Painéis Emergentes | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B003 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B005 | a preencher | — | paráfrase (de onde vem a única aresta do cadastro para este código) |
+
 
 
 ## Termos Relacionados

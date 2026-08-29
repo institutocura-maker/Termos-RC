@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Evento registrado no **Guia das Eras Universais (Mapa)** (B050): **"Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)"**. O Ragnarok da mitologia nórdica é reinterpretado como um evento real ocorrido **em Marte** (~300 milhões de anos antes do presente), que destruiu a atmosfera marciana e vitimou os deuses nórdicos (Odin, Thor, Jörmungandr) — demos da linhagem Aesir.
@@ -85,35 +85,6 @@ O B050 situa o Ragnarok no contexto das eras: junto a "Kvasir e Freya em busca d
 
 - **[P2023-10-14 · RAGNAROK: OS 300 MILHÕES DE ANOS DESTA FONTE (três vezes)]** "Quando os anunques souberam do Rainarok ocorrido há 300 milhões de anos e que Sofia também não fez nada e ele já era o suzerano aqui." (U0033); "A mitologia nórdica aponta que há 300 milhões de anos atrás, oito dos níveis de um universo vizinho que existe paralelo ao nosso e mais o nível do nosso universo, ou seja, esses nove níveis de existência." (U0003) — ⚠️ Terceira cifra no acervo para o mesmo evento (a Base tem 300 mi em B050 e 400 mi em P2021-05-15): **selar com a data**, não harmonizar.
 - **[P2023-10-14 · A SOBRE-VIDA COMO «SOBRA DE UM PROBLEMA»]** "Tudo indica, tudo indica que esses seres que nós chamamos hoje anonax, eles sejam uma sobra de um problema ocorrido a cerca de 300 milhões de anos atrás, precisa abrir há 300 milhões de anos atrás, quando aconteceu o chamado nórdico." (U0003)
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Guia das Eras Universais (B050) | Linha do Tempo (evento datado) | — | evento do mapa |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-
-
-
-## Citações-chave
-> "Ragnarok em Marte, uma explosão que acabou com a atmosfera e diversas formas de vida do planeta. Morte de Odin, Thor, Remdel e Jorgamungand (300 milhões a.p.)" — B050
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Kvasir e Freya | RC-396 | mata |
-| Demos | RC-049 | protagonistas |
-| Zeus | RC-145 | relaciona-se-a |
-| Eras da Criação | RC-155 | contexto |
-| Tau Ceti | RC-103 | ocorre-em (Marte) |
-
-## Seres Associados
-Odin, Thor, Jörmungandr (demos nórdicos); Kvasir (RC-396); Freya.
-
-## Observações
-Ficha baseada em B050 (obra complementar — mapa produzido pelo filho de JVE). **Verificar nas obras primárias** se o Ragnarok em Marte é detalhado (ex.: Tempos Difíceis no Olimpo, B021). Evento exclusivo do mapa — merece confirmação cruzada.
-
 ---
 
 ## Atualização — P2022-12-17
@@ -136,3 +107,10 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 
 - **"Hainarok" [STT = Ragnarök]:** "eles destruíram isso no Hainarok, porque isso estava fora do controle deles e eles queriam voltar a ter o controle sobre o destino dos seres" — Moros codificou genes e o código foi destruído no Ragnarök (RC-454);
 - "É tipo Ragnarök 2" — a "gestão de escombros" da batalha Islã × Krishna × orixás (leitura do autor; quarentena).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · RAGNAROK EM MARTE NA FALA DE 03/12/2023]** «a vida em Marte foi destruída devido a isso.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-08-08`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A **entropia** é a medida do grau de **desorganização** de um sistema; a **negentropia** (entropia negativa) é a medida do grau de **organização** das partículas — um elemento negentrópico contribui para o equilíbrio e o desenvolvimento organizacional. Segundo a Física, no "momento zero" o universo estava 100% organizado; com o tempo, vai se desorganizando até o seu final (B024, cap. 14). Na Criação "indevida", entropia e negentropia "formam uma das faces do segredo" do que foi implementado pelas Mentes vinculadas ao processo — e a entropia destrói tudo, nem tudo é carma (cap. 3).
@@ -55,38 +55,6 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 
 - **[P2022-03-26 · ENTROPIA E NEGENTROPIA NA FALA DE 26/03/2022]** "nós somos o retrato de Dorian Grey. Oscar Wild tem um romance em que ele conta que o seu personagem Dorian Grey, era o mago, pintou um retrato dele e transferia pro retrato a dose de entropia que deveria estar envelhecendo o seu corpo. Então, quem no lugar do corpo era o retrato que ele pintou de si mesmo. O que é isso? Num sistema universal, a entropia, que é a força que acaba com tudo, o resultado final dela ninguém muda, mas você pode diminuir a influência dela numa área e aumentar noutra." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · ENTROPIA TRANSFERIDA: O RETRATO DE DORIAN GRAY COMO MECÂNICA]** "Nós, os humanos, morremos rápido. A entropia nos ferra logo para deixar os seres demos do universo vizinho viverem. E os biodemos também. E esses seres foram pagando o pato dessa entropia mais rápida." (U0009) — A fonte usa a literatura como modelo **físico** (a entropia vai para o retrato; o retrato é a humanidade). Registrar a comparação como ela é dita, sem transformá-la em alegoria moral.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| A Epopeia dos Agentes da Vida Universal (B024) | cap. 14 | pp. 101–104 (aprox.) | capítulo inteiro |
-| A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 | p. 37 (aprox.) | "selo de garantia" |
-
-
-
-
-## Citações-chave
-> "Explicando de maneira simples, negentropia é um tipo de entropia negativa, ou seja, deve ser entendida como o contrário de entropia, que representa a medida do grau de desorganização de um sistema. A negentropia seria, portanto, a medida do grau de organização das partículas de um sistema." — B024, cap. 14
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
-| Elétrons | RC-162 | registram o processo |
-| Gunas Criadoras | RC-151 | Tamas (entropia) |
-| Mente Universal | RC-163 | destino final |
-| Criação Indevida | RC-167 | contexto |
-| Criaturas-ferramenta | RC-164 | afetados-por |
-
-## Seres Associados
-Savna/Shiva (RC-102); Agentes da Vida Universal (RC-148).
-
-## Observações
-Ficha baseada em B024 (obra primária). Verificar no cap. 14 os detalhes sobre Charon e a memória quântica dos elétrons em relação à negentropia.
-
 ---
 
 ## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST04 (RETRATO DE JAVÉ)
@@ -96,3 +64,11 @@ Ficha baseada em B024 (obra primária). Verificar no cap. 14 os detalhes sobre C
 - **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação" (nova aresta RC-160 ↔ RC-151 Gunas);
 - **Fim do truque:** "isso acabou agora... a entropia tá caindo lá. O truque que eles fizeram acabou e por isso que eles estão todos colapsando loucamente";
 - **Entropia e programas encarnatórios:** "interfere nos programas encarnatórios dos espíritos... tem muitos riscos" — conexão com transumanismo (RC-644/092).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ENTROPIA E NEGENTROPIA NA FALA DE 03/12/2023]** «A entropia destrói tudo.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O FINALIZADOR QUE NÃO FOI ESCOLHIDO]** «a entropia ou a força tamásica que a gente diz que foi chiva.» (U0004) — A entropia aparece como **ato de fechamento delegado**: como nada foi finalizado por projeto, a força tamásica finaliza. A frase do Q&A («Tudo. A entropia destrói tudo.») é a versão seca, e entra ao lado.
+
+---

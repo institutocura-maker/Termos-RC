@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -43,15 +43,21 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 
 - **[P2022-03-26 · HIBRIDIZAÇÃO GENÉTICA NA FALA DE 26/03/2022]** "Aqui há 2 bilhões 500 milhões de anos atrás outros seres já eram produzidos. E esses seres eram animalizados, eram sensórios, ou seja, tinham sensação de todo tipo e eram sexualizados, eles eram polarizados." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · HIBRIDIZAÇÃO GENÉTICA (NEFILIM REINTERPRETADO) NA FALA DE 03/12/2023]** «dois tipos de seres da terra.» (U0009) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (dinastias — desobediência); bloco 5 (dilúvio) | palestra/STT pré-curada |
+
 
 
 

@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -37,15 +37,21 @@
 - **[P2022-03-26 · QUARTO CÉREBRO (CENTRO DE SABEDORIA VIBRACIONAL) NA FALA DE 26/03/2022]** "A filosofia começou sim um tipo de inteligência que Lúcifer com o vírus começou a promover nele mesmo, mas culmina com a razão que somente os humanos podem emprestar esse tipo de inteligência." (U0040) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · FILOSOFIA COMO ESPECÍFICO HUMANO, E O QUE ELA NÃO É]** "O que diabos é filosofia? É a capacidade de inteligência sobre uma determinada ótica racional, criar conceitos supremos, uma hierarquia de conceitos e agir conforme o que ela própria determinou." (U0040); "Se os conceitos supremos da vida são dignidade, descência, compaixão, amor, solidariedade, e o eu age de acordo com estes conceitos, isso implica dizer que além de inteligente, ele é superior, ele é sábio, ele é amoroso, ele é uma superconsciência." (U0040); "Sofia é um ser inteligente. Todos os seres aí são inteligentes, mas não significa que sejam racionais, que tenham razão. Semelhante o processo Ador Paulo tá tendo o campo de um sistema, mas com inteligência, você sempre falou quântica potencializada, esse exponencial, etc." (U0038) — A definição que a fonte dá de filosofia é a premissa da saída prática; o par *inteligente ≠ racional* é o que impede de ler a fala como elogio da inteligência dos deuses.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · QUARTO CÉREBRO (CENTRO DE SABEDORIA VIBRACIONAL) NA FALA DE 03/12/2023]** «tem dois cérebros ou duas câmaras cerebrais.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2026-08-18 | caps. 1–10 (conceito central) | artigo de aluna avançada (exegese) |
 | O Quarto Logos (B016) | caps. 6–9 (citado pelo artigo) | obra primária de Ellam |
+
 
 
 

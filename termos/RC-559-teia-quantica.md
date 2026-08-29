@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -51,35 +51,17 @@ Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vi
 
 - **[P2023-10-14 · A TESITURA DA TEIA DA VIDA, ESTUDADA PELAS TRÊS FIGURAS]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033)
 - **[P2023-10-14 · O QUE SAI VOLTA — E O CAMPO QUE O GUARDA]** "E nesse campo aqui, Tudo volta a ser energia que pode ser colapsada de acordo com o que o euma, se souber usar o seu próprio cérebro e o seu genoma, mandam nesse espaço." (U0033)
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2023-05-13 | bloco Orlog/nornas/teia | palestra/STT pré-curada |
-| B031 (e demais fontes históricas) | — | obras publicadas |
-
-
-## Citação-chave
-
-> "Surgiu Orlock com a teia do Earth e as nornas geradas para administrar essa teia... Sob essa perspectiva, essa teia quântica, que seria o tear da vida. Todos os fios das linhas da vida de todos os seres fazem parte disso." — P2023-05-13
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Elm (Moros) | RC-454 | relaciona-se-a (Orlog / teia do destino / nornas) |
-| Wyrd/Urd | RC-658 | relaciona-se-a (STT Earth/Eard) |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
-
-## Observações
-
-"Orlock" e "Earth" são **erros de STT** (Orlog; Urd/Wyrd) — grafias canônicas mantidas. O caráter de "inteligência artificial" da teia é leitura do autor (quarentena tecnológica).
-
 ---
 
 ## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
 - **Teia e destino:** "o que a Wyrd registrou de cada consciência que passou a existir particularizada" (RC-658) — a teia quântica como o registro que define os 256 caminhos (RC-767);
 - "Só retorna o ser cumprindo um determinado destino" — o que sai volta (reforço da definição do verbete).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · TEIA QUÂNTICA (O QUE SAI DE UM SER VOLTA PARA ELE) NA FALA DE 03/12/2023]** «o que sai de um ser volta para ele. O motivo pode ser um atenuante, mas para o er isso aqui, a destruição é complicada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A REGRA ÚNICA E O QUE KRISHNA QUERIA TROCAR]** «o que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que se você matar sem ordem, isso não gera karma para você.» (U0004) — A teia quântica é apresentada como única regra e a crítica ao Bagavaguita como tentativa de substituí-la. Atenção: o bruto diz «se você matar sem ordem, isso não gera karma para você», o que contradiz a leitura corrente da fonte externa — **não se emenda**; fica como dito, com [REVISAR].
+
+---

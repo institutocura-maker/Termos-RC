@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.4 Regiões cósmicas / Portais |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Ereon é a região/conjunto da Espiritualidade Laboratorial formado por cinco Archeons: Antérion, Danérion, Mermérion, Perpérion e Tempérion.
@@ -17,11 +17,17 @@ O título da palestra foi adotado como autoridade para a grafia. Os Archeons sã
 - Grafia preferida: Ereon. Variação histórica: Eeron. STT: héreo.
 - **Fonte de decisão:** curadoria estrutural C-01 a C-07, 2026-08-14.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · EREON (REGIÃO DOS CINCO ARCHEONS DA ESPIRITUALIDADE LABORATORIAL) NA FALA DE 03/12/2023]** «as famílias Vol, Iel, Nion, Cromon, Xum vieram paraa terra.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0039–U0051; U0313–U0323; U0355–U0358 | transcrição automatizada; pré-curadoria validada |
 | Fontes anteriores da Base | B061 | apoio/remissão |
+
 
 ## Citações-chave
 > “São cinco Archeons [...] padrões de realidade [...] no âmbito da Espiritualidade Laboratorial.” — P2021-12-04, U0039–U0051; U0313–U0323; U0355–U0358

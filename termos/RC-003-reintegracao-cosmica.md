@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É a reintegração que a Terra sofrerá **após a vinda de Sophia** (o retorno de Jesus): o planeta será reintegrado ao **Circuito Cósmico**, retomando contato com seres de outros planetas e saindo do exílio imposto pelo próprio Sophia após a Rebelião de Lúcifer. Difere-se da Revelação Cósmica (é **um dos fatos marcantes** dentro dela). Para as gerações futuras, num âmbito maior, integrará também os seres do universo paralelo ao nosso universo (B031).
@@ -101,37 +101,6 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · REINTEGRAÇÃO CÓSMICA NA FALA DE 26/03/2022]** "a população de um desses mundos conseguia se recuperar do vírus luciferiano. Aí esse mundo era reintegrado à convivência cósmica e só ficavam 18 mundos inicialmente isolados." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Reintegração Cósmica" |
-| Reintegração Cósmica (B003) | a preencher | — | pendente (obra primária) |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-
-
-
-## Citações-chave
-> "É a reintegração que a Terra sofrerá após a vinda de Sophia (ou o retorno de Jesus). Nosso planeta será reintegrado ao Circuito Cósmico, tendo contato com seres de outros planetas e saindo do exílio que foi imposto pelo próprio Sophia após a Rebelião de Lúcifer." — B031, verbete "Reintegração Cósmica"
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Segundo Advento do Cristo | RC-005 | ocorre-após |
-| Isolamento Cósmico | RC-070 | encerra |
-| Sophia | RC-009 | agente |
-| Exilados de Capela | RC-007 | tema-relacionado |
-| Rebelião de Lúcifer | RC-002 | origem |
-| Revelação Cósmica (conceito) | RC-094 | parte-de |
-
-## Seres Associados
-Sophia (RC-009); Jesus (RC-072); civilizações extraterrestres (categoria 1.3).
-
-## Observações
-Ficha baseada no glossário de B031. Verificar nas obras primárias: etapas do processo de reintegração, condições para o contato oficial e relação com a "cidadania planetária".
-
 ---
 
 ## Atualização — P2022-12-17
@@ -147,3 +116,11 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias: etapas do p
 - **Unidades:** U0535–U0542; U0604–U0609.
 - **Contexto acrescentado:** A Reintegração é ligada à emergência da Superconsciência, ao Quarto Logos, à vinda de Sophia e à construção da Nova Espiritualidade.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · REINTEGRAÇÃO CÓSMICA NA FALA DE 03/12/2023]** «aquele mundo era reintegrado a convivência.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · ATÉ QUANDO, SEGUNDO A FONTE]** «Mas até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer.» (U0016) — D-13: a reintegração world-by-world recebe da fonte um horizonte declarado — «até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer» — que é **o que a fala diz**, não uma previsão da Base. O valor para a ficha é o procedimento (redistribuir os doentes e reintegrar o mundo), não o calendário; a janela viaja com endereço.
+
+---

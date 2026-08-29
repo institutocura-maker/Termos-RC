@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Configuração genômica associada à capacidade humana de formar postura psíquica emancipada e pensar por si.
@@ -33,33 +33,6 @@ A fala situa sua repercussão recente e relaciona o processo a Pandora, Enki, FO
 ## Ampliação — P2021-12-04
 
 - **[P2021-12-04 — FONTE ORIGINAL] O genoma da liberdade (U0633–U0643):** "os seres humanos surgiram há 50.000 anos atrás, quando Pandora fez o movimento de consciência e quando Enki, o ser Anunnaki [STT 'Enk, o ser Anonak'], fez manipulações com outros humanos e surgiu a linguagem através do gene FOXP2 [STT 'Fox P2']" (U0633–U0635); "a racionalidade humana, mesmo tendo nascido aí, foi mantida sob a prisão da voz dos deuses. Aí entra a tese de Julian Jaynes [STT 'Julin Games'] até 2.700 anos atrás, quando Sidarta Gautama e Kapila, lá na Índia, Lao-Tsé com Confúcio, na China, e Tales de Mileto [STT 'Zildo, Tal de Mileto'], na Grécia, nasceram todos no mesmo período histórico, criando um divisor de águas, convidando o ser humano a pensar por si mesmo" (U0636–U0639); "a noção de indivíduo com vontade própria só surgiu a partir disso; poucos são os seres humanos que conseguiram se libertar nesses últimos 2.600, 2.700 anos, porque a maioria ainda tá sendo replicante das questões dos Seres Adhy através das religiões, sistemas políticos inventados até agora" (U0640–U0641); "só muito recentemente esse genoma que produz a liberdade... só nos anos 2017, 18, 19, 20, 21 começou a repercutir" (U0641–U0643) [quarentena — leitura do autor].
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0593–U0601 | STT pré-curado e validado |
-
-## Citações-chave
-> “Esse genoma que produz a liberdade [...] [permite] uma postura psíquica emancipada.” — P2021-12-04, U0593–U0601
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
-| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Fios soltos (improviso humano × robô) | RC-564 | relaciona-se-a |
-| Superconsciência | RC-615 | relaciona-se-a |
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Observações
-Termo candidato; requer cruzamento com palestras sobre FOXP2, Pandora e mente bicameral.
-
-**Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
-
 ---
 
 ## Nota pedagógica — P2025-07-18 — rito, presente e liberdade
@@ -67,3 +40,10 @@ Termo candidato; requer cruzamento com palestras sobre FOXP2, Pandora e mente bi
 - **[P2025-07-18 · U00009–U00016]** A palestra usa o “rito de passagem” como marco pelo qual uma pessoa rompe hábitos, se compara entre ontem e o próximo agora e pode deixar de repetir pendências. A liberdade é apresentada como capacidade humana de tomar resoluções, agir e sustentar uma mudança real — não como mero desejo.
 - **Quatro usos do presente:** o discurso menciona quatro possibilidades: trabalhar o problema já existente, permanecer sem nova causação, piorar o acumulado ou produzir algo fora da rota prevista. A formulação fica como nota pedagógica, sem completar o que o STT não torna seguro.
 - **Quarentena:** “genoma” e “programa” são metáforas/teses internas da RC nesta passagem; não são promessa de reprogramação genética, cura ou tratamento.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · GENOMA DA LIBERDADE NA FALA DE 03/12/2023]** «Se coisas daqui forem despertas e vierem a habitar o nosso consciente, a gente vira bicho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

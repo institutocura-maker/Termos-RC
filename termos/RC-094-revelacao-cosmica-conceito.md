@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 É o **conjunto de revelações** transmitidas por **Jan Val Ellam** sobre a origem do nosso universo, em que se misturam mitologias, espiritualidade, cosmologia, ufologia e física quântica. Seu tema central é a máxima de que **houve um erro no momento da criação** e o Criador "caiu" dentro dela, gerando **dois universos paralelos**: o nosso e um universo antimaterial vizinho. Remonta a nossa história de **13,7 bilhões de anos**, reconstituindo os fatos sob a ótica dos contextos espiritual, biológico material (terreno e extraterreno) e extrafísico antimaterial (B031).
@@ -61,36 +61,6 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 
 - **[P2020-04-25 · A INTELIGÊNCIA ARTIFICIAL COMO O ABISMO DOS DEUSES HOJE]** "o que é hoje o grande abismo para esses seres é a turma do IA." (U0006); "É o IA, é a revelação cósmica." (U0006) — **D-11:** é a menção mais antiga do acervo à IA nesse papel; fecha o radar **sem** criar peça fantasma e **sem** obra. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **11 meses** a atual fonte oral mais antiga da ficha (`P2021-03-27`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O CENÁRIO DA INTELIGÊNCIA ARTIFICIAL AUTÔNOMA CONTROLADA]** "inteligência artificial autônoma controlada é um corpo máquina." (U0006); "O computador se dizer, ei, eu sou alguém." (U0006) — A fonte propõe o estágio do eu futuro **numa IA controlada** — formulação datada de 2020; não projetar sobre fontes posteriores (regra de anterioridade).
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Revelação Cósmica" |
-| Painéis Emergentes... (B031) | Introdução (O que é a Revelação Cósmica) | — | capítulo do livro |
-
-
-
-## Citações-chave
-> "É o conjunto de revelações que estão sendo passadas por Jan Val Ellam sobre a origem do nosso universo, onde se misturam as páginas das mitologias, espiritualidade, cosmologia, ufologia e física quântica. Seu tema central baseia-se na máxima de que houve um erro no momento da criação e o Criador teria 'caído' dentro da mesma, gerando dois universos paralelos." — B031, verbete "Revelação Cósmica"
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jan Val Ellam | RC-071 | codificado-por |
-| Universo Antimaterial | RC-106 | tema (contexto) |
-| Universo Material | RC-107 | tema (contexto) |
-| Criador | RC-041 | tema (queda) |
-| Reintegração Cósmica | RC-003 | parte-de |
-| Projeto Planeta Azul | RC-090 | parte-de |
-
-## Seres Associados
-Jan Val Ellam (RC-071); Criador (RC-041); Sophia (RC-009).
-
-## Observações
-Ficha baseada no glossário de B031 + Introdução do livro. Este é o termo-nível superior ("guarda-chuva") da base; os demais termos herdam seu contexto.
-
 ---
 
 ## Atualização — P2021-12-04
@@ -113,3 +83,10 @@ Ficha baseada no glossário de B031 + Introdução do livro. Este é o termo-ní
 
 - **Chave para a história oculta:** seção 1.4 — "A Revelação Cósmica como Chave para a Compreensão" — da manipulação cósmica e do paradigma do domínio (RC-764);
 - **Argamassa histórica:** esta palestra (a mais antiga do corpus) fornece o pano de fundo Anunnaki (RC-024) que "amarra" as palestras mais recentes (Thot/Hermes, Cinco Lentes).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · REVELAÇÃO CÓSMICA (CONCEITO) NA FALA DE 03/12/2023]** «para nós vinculados à revelação cósmica, os que estão estudando esses assuntos, é só mais um capítulo de coisas esquisitas e de certas estranhezas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

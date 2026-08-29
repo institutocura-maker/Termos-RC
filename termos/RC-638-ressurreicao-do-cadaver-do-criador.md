@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Reconstrução progressiva dos restos fragmentados de Prabrajna/Javé por meio de elétrons, antielétrons, formas microbianas e evolução das espécies.
@@ -44,11 +44,17 @@ A ficha absorve “cadáver triturado” e “bits quânticos”: informações 
 
 - **[P2022-03-26 · RESSURREIÇÃO DO CADÁVER DO CRIADOR NA FALA DE 26/03/2022]** "aqui surgiu um código podre que foi o resto do poder mental desse ser que criou aqui." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **12 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · RESSURREIÇÃO DO CADÁVER DO CRIADOR NA FALA DE 03/12/2023]** «essa operação tem que estar numa massa crítica X para poder dar suporte à recreação do corpo do criador e o eu dele novamente ser instalado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0983–U1118; U1165–U1195 | PDF/transcrição pré-curada |
+
 
 
 ## Citações-chave

@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -41,36 +41,6 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 
 - **[P2022-03-26 · ESPECIAÇÃO NA FALA DE 26/03/2022]** "A família Vol foi a 249 314. A família V. que foi a última espécie do gênero Biodema ser criado há cerca de 230 milhões de anos atrás. Foi a número 249 314. Antes da Vol já existiam 249 313, ou seja, já existiam 249.313 espécies de seres biodemos." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A PROMESSA DAS ESPÉCIES 250 E 315 (D-6: dado narrativo, 0 código)]** "Essa espécie de 250 vai nascer. Estão providenciando a 315 para ver se o eu de Jah." (U0006); "nessa nova espécie que vai ser a 315 aí, que tá sendo gerada já com a mistura da componente da genética humana e desses seres biodécos." (U0040); "Esse conselho vai ser criado do avante porque não há senso crítico disponível na radiidade vinculada aos dois mundos e nem no paraíso para entre aspas conselho de fato que produz alguma algumaidade, é, algum diagnóstico que seja útil para alguma coisa, né?" (U0045) — **Ordem expressa da devolutiva:** a promessa entra aqui, como dado narrativo datado, e as duas numerações **não** viram termo — ficam como termo-observação `[REVISAR]` no dicionário da apostila. O bruto ainda grafa a frase de abertura em linha própria (U0006).
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| B031 | — | obra publicada |
-| P2023-05-13 | seção 9.6; bloco das novas proteínas | palestra/STT pré-curada |
-
-
-
-
-## Citação-chave
-
-> "Que processo é esse? Processo de compreensão e de produção das novas proteínas que são necessárias para o que vem por aí... A nossa consciência está necessariamente atrelada ao cérebro de cada um de nós, cujas conexões neurais são 100 bilhões de neurônios." — P2023-05-13
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Criatura Universal | RC-042 | relaciona-se-a |
-| Evolução Possível | RC-541 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
-
-## Blindagem epistemológica — QUARENTENA CIENTÍFICA
-
-Os dados genéticos citados (28.869 genes, áreas HR1/HR2, produção proteica) são **leitura do autor**, sem validação científica factual — registro doutrinário, não terminologia de genética.
-
 ---
 
 ## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
@@ -86,3 +56,10 @@ Os dados genéticos citados (28.869 genes, áreas HR1/HR2, produção proteica) 
 - **Todos os seres nascerão humanos:** "todas as espécies que já existem, os seus membros um dia terão que nascer na humanidade, ainda que não seja na humanidade aqui na Terra, mas numa humanidade especiada, ou seja, espalhada por muitos mundos" (RC-767 — 256 caminhos);
 - **"Tem seres que preferem destruir a humanidade"** para que "a solução do problema do criador jamais seja viabilizada" — leitura do autor;
 - Contexto: a especiação como via de ressignificação das vrittis (RC-760).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ESPECIAÇÃO NA FALA DE 03/12/2023]** «isso implica dizer que na cabeça de Sofia surgiram 250.000 problemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-17 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -23,13 +23,19 @@ Na leitura de Jan Val Ellam, o conjunto de registros/informações associado ao 
 - **[P2020-09-19 · O IMPASSE — a síntese em 4 camadas; ⚠️ O EMBRIONÁRIO DE 2020]** **A REVELAÇÃO DE JULHO/1989 NA VERSÃO INTEGRAL** [⚠️ registro puramente fenomênico — a Devolutiva O-7]: "Aqui em 1989, os espíritos daqueles que foram um dia BEZERRA DE MENEZES, O LUCAS, O EVANGELISTA, e JOSÉ, O PAI TERRENO DE JESUS... [na greve da Caixa Econômica]... 'A PARTIR DO MÊS QUE VEM [JULHO/1989] SE INICIA AQUILO QUE FOI CHAMADO DE SEPARAÇÃO DO JOIO E DO TRIGO... NA TERRA NINGUÉM VAI NOTAR NADA, mas nós que trabalhamos na espiritualidade e em outros níveis... QUEM FOR DESENCARNANDO A PARTIR DE AGORA VAI SENDO MEDIDO EM TERMOS DE ENERGIA AMOROSA COLECIONADA NA SUA PRÓPRIA CONSCIÊNCIA... E ASSIM SERÁ ATÉ APROXIMADAMENTE DO ANO 2049, 2050... ELES FALARAM: 2049, 2050, 2051, COMO SE ELES PRÓPRIOS ESTIVESSEM ESTABELECENDO NAQUELE MOMENTO ALGO QUE ESTAVAM COM DIFICULDADE EM IMPLOTAR... E SÓ ENTÃO DEPOIS DISSO, ESPÍRITOS MAIS HABILITADOS NA ARTE DO BEM PASSARÃO A ENCARNA NA TERRA... ainda temos quase 60 anos de trabalho... ESSA LIMPEZA... PRECISA DA COMPONENTE EXTRATERRESTRE, PRECISA DE UMA COMPONENTE EXTRAFÍSICA'"; o termômetro: "o nosso corpo espiritual ao se libertar da ligação com o corpo terreno... ALGUÉM CHEGA COM TERMÔMETRO E VERIFICA... A QUANTIDADE DE ENERGIA AMOROSA QUE ELE AMEALHOU NO CORAÇÃO. E SE A EXIGÊNCIA FOSSE DE ENERGIA AMOROSA LIMPA, TALVEZ NÃO FICASSE NINGUÉM PARA ENCARNA NA TERRA"; **O IMPASSE DE 2014**: "HOUVE UM PROCESSO DE IMPASSE DESDE O ANO 2014. O fato de Sofia não ter vindo ainda... o fato de não existir ninguém no comando... NÃO EXISTIA AUTORIDADE MORAL PARA DEFINIR CERTAS COISAS. O FLUXO DE COMBOIO ESPIRITUAL FOI PARANDO POR DEFICIÊNCIA TÉCNICA, POR DEFICIÊNCIA ESPIRITUAL, PORQUE NINGUÉM TINHA MAIS VISLUMBRE DE QUE O QUE ESTAVA SENDO FEITO ESTAVA CORRETO. A PRÓPRIA ESPIRITUALIDADE SUPERIOR MANDOU PARAR... NÃO TEM SUPER-HERÓIS, SUPER-HEROÍNAS ATUANDO NA ERRATICIDADE PLANETÁRIA. SOMOS NÓS"; a alternativa: "tem que se conseguir fazer um percurso de mais um mundo, mais outro. A coisa é tão pesada que não dá mais"; **A DOUTRINA**: "NÃO TEM JULGAMENTO GERAL, NÃO TEM JUÍZO FINAL. TEM RECICLAGEM... é uma constatação do efeito entrópico dessa criação... E ISSO ACONTECERÁ OUTRAS TANTAS MIL VEZES ATÉ QUE TUDO SE ESTEJA CONSUMADO"; "a separação do joio e do trigo SE DÁ EM TODOS OS NÍVEIS, mas nós humanos só compreendemos a que se dá aqui na Terra"; **O PAI QUE ODEIA**: "Um pai viu sua filha ser violentada, aí passa 1000 anos com ódio... ESSE PAI VAI SER EXILADO DA TERRA COMO CULPADO... porque a temperatura amorosa dele não está OK. O FATO DE VOCÊ MEDIR A TEMPERATURA AMOROSA DE ALGUÉM APENAS MOSTRA A TEMPERATURA AMOROSA DE ALGUÉM. AGORA, O PORQUÊ... AÍ VAI ATRÁS. QUEM DIABOS TEM ESTATURA MORAL PARA JULGAR SE TÁ TODO MUNDO AQUI FAZENDO FAVOR?"; "a Terra é o depósito de lixo, onde a podridão da criação é sempre reatualizada"; o fecho: "O JUÍZO FINAL É UMA PIADA QUE JAVÉ INVENTOU LÁ ATRÁS. A PIADA O ENGOLIU, DO JEITO QUE UM DIA ELE INVENTOU UMA CRIAÇÃO QUE TAMBÉM O ENGOLIU, E ELE PRECISA DA NOSSA AJUDA"; "não tem detergente, não tem Deus, não tem Jesus, não tem ninguém. É SÓ QUANDO CADA CONSCIÊNCIA FOR SE ESCLARECENDO A SI MESMA. PONTO".
 - 0 códigos novos (O-3). Quarentenas: biomediúnica (a revelação de 1989 como registro puramente fenomênico — a O-7), teológica.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CUSTÓDIA, NÃO CALENDÁRIO]** «nós existimos para guardar essas informações, mas a cada vez que esse cérebro que morre, o espírito que anima esse corpo, escaneia as informações para passar para um outro cérebro e enquanto esse jogo durar, vai ser assim, mas no final tem que se tirar tudo e o resto tem que tá limpo para esse essa criação se apagar.» (U0038) — D-13: entra a **função** (cérebros e processadores como custódia temporária da informação até a finalização) e **não** a janela de anos que a fonte fixou em outro ponto da fala, nominalmente vetada nesta ficha. A escatologia datada fica na apostila (U0016) e em `RC-003`/`RC-344`, onde o despacho a colocou.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | B035 | O Big Data do Criador | livro |
 | P2025-02-15 | Camuflagem da Realidade | palestra/STT |
 | P2025-06-14 | Decifração Universal (contexto) | palestra/STT |
+
 
 ## Ressalva reflexiva (registrada em 2026-08-17, a pedido do curador)
 

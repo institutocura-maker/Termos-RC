@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -44,15 +44,22 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 
 - **[P2022-03-26 · CRIATURA UNIVERSAL NA FALA DE 26/03/2022]** "esses seres que antes eram absolutamente babacoides, porque os nossos amigos biodernos não tinham malícia nenhuma, eram babacas, no bom sentido aqui da palavra, eles, devido à influência virótica, se tornaram nervosos, irritados, as diversas etapas que foram acontecendo, como desdobramento do problema de saúde pública, do surgimento da pandemia, eh, foram fazendo com que esses seres criassem novos comportamentos que antes eles jamais haviam tido." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CRIATURA UNIVERSAL NA FALA DE 03/12/2023]** «o cara que caiu teve que improvisar modelitos de última hora e foi.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O CRIADOR QUE NÃO PÔDE FAZER AVATAR]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — D-5: a assimetria da Trimúrti (um sem avatares porque a mente não sustenta mais de um ser) entra como tese datada com a cláusula de leitura da D-5 — trata de *cargo e capacidade*, não de inexistência.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | B031 / B024 / B019 | — | obras publicadas |
 | P2026-04-02 | — | palestra/STT |
 | P2023-05-13 | seção 9.6; bloco da especiação | palestra/STT pré-curada |
+
 
 
 

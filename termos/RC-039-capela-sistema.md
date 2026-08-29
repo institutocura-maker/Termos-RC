@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.1 Planetas / Sistemas estelares |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Capela** é o sistema estelar (Alfa Aurigae, constelação do Cocheiro/Auriga — um arranjo de **quatro estrelas: duas gigantes amarelas e duas anãs vermelhas**) de onde procedem os capelinos, os biodemos das famílias criadas por Sophia. Abriga **Dan** (RC-046), o mundo-nave do nascimento de Yel Luzbel, e **Orbum** (RC-085), a sede da governadoria dos Administradores deste universo — "todo o sistema de Capela, com os seus diversos mundos, é, na realidade, a sede governamental da parte da galáxia onde vivemos".
@@ -32,14 +32,20 @@ Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias
 - **[P2023-04-01 · O GOVERNO DE SOFIA SEDEADO EM CAPELA — a voz mais completa do corpus]** "Na nossa galáxia, uma certa estrela aqui perto da Terra, cerca de 40.000 ANOS-LUZ, chamada CAPELA, NA CONSTELAÇÃO DO COCHEIRO, um ser que foi engendrado pelos seres da tríade... PARA SER O REPRESENTANTE DELES NESSE UNIVERSO. Esse ser, cerca de 5, 6 BILHÕES DE ANOS atrás, foi engendrado... ESSE SER ESCOLHEU AO LONGO DOS ÚLTIMOS MILHÕES DE ANOS SEDEAR O SEU GOVERNO, JÁ QUE ELE ERA O SUZERANO DESSE UNIVERSO, NA GALÁXIA REFERENTE AO PROBLEMA DOS TITÃS. E NO SISTEMA DE CAPELA ELE ENTÃO EDIFICOU, VAMOS ASSIM DIZER, O SEU [GOVERNO]" + "vários outros sistemas associados à suzerania desse ser" — a capital do suzerano; "do jeito que a TURMA DE CAPELA um dia veio exilada para a Terra, lá vem turbilhão, JÁ VEIO".
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CAPELA (SISTEMA) NA FALA DE 03/12/2023]** «cuja estrela nós aqui chamamos de capela, mas é um sistema de mundos da nossa galáxia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-01`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Nota da Autora | nota p. 10 (PDF): quatro estrelas; constelação do Cocheiro | identificação astronômica |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | nota p. 14 (PDF): definição de capelino (fonte: Terra Atlantis) | definição |
 | A Revolta do Anjo Decaído (B057) | Caps. 1–3 | pp. 15–19, 26–27 (PDF): nascimento; Revolta; famílias | narrativa psicografada |
 | A Revolta do Anjo Decaído (B057) | Cap. 2 | nota p. 25 (PDF): Orbum = sede governamental (extraída de B026) | definição |
 | Reintegração Cósmica (B003); Caminhos Espirituais (B025); O Início da Revolta Capelina (B058) | — | — | base do termo |
+
 
 ## Citações-chave
 > "Alfa Aurigae ou Capela é, na verdade **um arranjo de quatro estrelas – duas gigantes amarelas e duas anãs vermelhas –**, e pertence à constelação de Auriga ou constelação do Cocheiro." — B057, nota, p. 10

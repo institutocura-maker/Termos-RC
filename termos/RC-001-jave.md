@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Nas Revelações Cósmicas, Javé é o "Deus Bíblico do Antigo Testamento" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador "caído"** deste universo — e por isso chamado de Criador e não de Deus —, o protagonista do "drama cósmico/espiritual de Javé". (Definição preliminar baseada em B031; a refinar com as obras primárias.)
@@ -309,46 +309,6 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **[P2022-03-26 · JAVÉ NA FALA DE 26/03/2022]** "Javé carrega nele todas as doenças que foram geradas. pela sua queda, não só atavicamente, todas elas potencialmente ativas. Ele não se sustenta existindo como um ser. Agora tá tendo uma tentativa tecnológica, não tá?" (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O ESTADO DE JAVÉ EM 2022: O CRIADOR QUE NÃO SUSTENTA A PRÓPRIA EXISTÊNCIA]** "Agora tá tendo uma tentativa tecnológica, não tá? Não, para criar um ambiente mais saudável, mais compatível. Mas não é essa não é essa estratégia que tá sendo engendrado, hein? É, mas não é nessas nesses termos que você tá dizendo, porque o eu dele precisa ser descompensado antes de ser um outro alguém, porque se ele com outro alguém mesmo em âmbito tecnológico, inteligência artificial tá criando esse essa essa predisposição comidação, mas demora muito tempo, então a gente aqui não tem escala, né?" (U0035) — A ficha deixa de ser só «o deus tirano da Gnose»: aqui o tirano está **doente** e a Base ganha a formulação datada do mecanismo. ⚠️ Retenção teológica: entra com rótulo de crença do expositor (O-8).
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 130 (aprox.) | verbete "Javé" (paráfrase/transcrição) |
-| O Drama Cósmico de Javé (B001) | a preencher | — | pendente (obra primária) |
-| O Drama Espiritual de Javé (B002) | a preencher | — | pendente (obra primária) |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
-
-
-
-
-
-## Citações-chave
-> "Deus Bíblico do Antigo Testamento, também conhecido como Jeová ou Yahweh (Cristianismo e Judaísmo), Alá (Islamismo), Brahma (Hinduísmo), Caos (Mitologia Grega), Pangu ou Pan' Ku (Mitologia Chinesa), Atom (Mitologia Egípcia), dentre outros." — B031, verbete "Javé"
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Brahma | RC-037 | sinônimo (no sistema RC) |
-| Criador | RC-041 | sinônimo |
-| Deus / Deus Incognoscível | RC-052 | opõe-se-a / distingue-se |
-| Exilados de Capela | RC-007 | envolvido-em |
-| Sophia | RC-009 | relaciona-se-a |
-| Elohim | RC-004 | associado-a |
-| Rebelião de Lúcifer | RC-002 | envolvido-em |
-| Reintegração Cósmica | RC-003 | tema-relacionado |
-
-## Seres Associados
-Brahma (RC-037); Aya e Aye (anjos clones assessores, RC-031); En Drel (RC-055); Zont En Drel 29 (RC-147).
-
-## Observações
-Ficha baseada no verbete do glossário de B031 (fonte secundária). **Verificar nas obras primárias:** a distinção entre Javé e o "Deus Pai" (Deidade), o papel de Javé na Rebelião de Lúcifer e a relação exata com os Elohim (o termo "Elohim" não aparece no glossário de B031 — confirmar ocorrência no corpus).
-
 ---
 
 ## Atualização — P2022-12-17
@@ -403,3 +363,11 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 - **Islã como linha de frente:** "é quando Javé ou Brama ou Obatalá resolve criar o Islã... os muçulmanos diariamente se voltam para a Meca e me endereçam ondas de devoção";
 - **Obatalá = cuscuta:** Javé "um dia assumiu uma vida vegetal... cuscuta" — a fome de devoção em todos os reinos;
 - **Apostila Temática do Buraco Negro:** estas revelações (devoção/Jesus/Islã como manobras cósmicas) adensam o Super-Nó Javé (nota do curador).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · JAVÉ NA FALA DE 03/12/2023]** «pendência dos problemas da criação de Javel, que ainda não foram resolvidos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O CARGO, NÃO A EXISTÊNCIA]** «Isso não é Deus, é só o criador.» (U0004) — D-5: a cláusula de leitura vem **anexada à aspa**, não solta — a frase não nega Deus; desloca o título de Deus do criador da obra. É tese oral de 03/12/2023, não doutrina da Base.
+
+---

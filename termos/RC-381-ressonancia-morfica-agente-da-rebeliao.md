@@ -5,7 +5,7 @@
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -43,9 +43,14 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 - **[P2022-03-26 · RESSONÂNCIA MÓRFICA (AGENTE DA REBELIÃO) NA FALA DE 26/03/2022]** "e o campo morfagenético da da espécie de toxoplasma Gond? E se tiver uma mente por trás, controlando aquela espécie." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · RESSONÂNCIA MÓRFICA (AGENTE DA REBELIÃO) NA FALA DE 03/12/2023]** «esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
@@ -56,6 +61,7 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 | P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2025-02-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2025-03-15 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
 
 
 

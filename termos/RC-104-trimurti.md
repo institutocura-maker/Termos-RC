@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -238,37 +238,6 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · TRIMURTI NA FALA DE 26/03/2022]** "os níveis de aristocracia em torno da Trimurte. gerações que foram surgindo, que querem ser deles a trimurto e a última que surgiu em termos de de informação que a gente tem é a mitologia grega chamando de Zeus, os Olimpiados." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
-
-## Fontes
-
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2023-12-02 | bloco da ogdóade/Trimurti (princípios ontológicos; colapso) | palestra/STT pré-curada |
-
-
-
-
-## Citação-chave
-
-> "O processo de Brama fracassou. O processo de Vishnu funcionou até um tempo. O processo de Shiva vai funcionar até o final. Mas Sarasvati, Lakshmi, Parvati não mais funcionam no sentido dos processos ontológicos originais." — P2023-12-02
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Krishna | RC-414 | relaciona-se-a |
-| Ogdóade de Hermópolis | RC-609 | relaciona-se-a |
-| Shiva (Savna) | RC-102 | parte-de |
-| Sarasvati | RC-457 | parte-de |
-| As Sete Leis Herméticas | RC-763 | relaciona-se-a |
-
-## Blindagem
-
-Colapso e datas ("20171") são **cronologia interna** — `[REVISAR]` com áudio.
-
 ---
 
 ## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
@@ -276,3 +245,10 @@ Colapso e datas ("20171") são **cronologia interna** — `[REVISAR]` com áudio
 - **Disputa com Moros:** "surgiu uma disputa absurda entre a Trimurti, Brama, Vishnu, Shiva e seus descendentes e um ser chamado Moros, que nunca disputou nada com ninguém" (RC-454);
 - **Fome de devoção:** a Trimurti como parte da fome de devoção dos deuses (RC-749; RC-001);
 - **"Os orixás foi a última fase dessa questão"** — a destinação dos seres (RC-767) no desfecho da disputa.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · TRÊS FORMAS DE REPLICAR, UMA ESTÉRIL]** «Os três Eles da Trimur criaram três formas de replicação de replicação de vida biológica. Um nunca funcionou, mas os outros dois funcionaram. Esse ser, esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN. Esse outro forno chamado a Wiingan, era comandada por outra loca. Chiv era que mandava. e vida que começou a ser semeada nos mundos desse universo através de códigos que surgiam nesses» (U0004) — A Trimúrti deixa de ser só panteão e ganha ato técnico: criou três formas de replicação da vida biológica, uma das quais nunca funcionou — a mesma tríade dos fornos, agora com autor.
+
+---

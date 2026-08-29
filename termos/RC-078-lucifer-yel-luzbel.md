@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Lúcifer** é o nome terreno pelo qual **Yel Luzbel** passou a ser conhecido: biodemo da **Família Yel**, criado no Sistema de Capela, que **deu início à Rebelião de Lúcifer** nos Sistemas de Capela e Antares e depois se exilou na Terra. São Jerônimo atribuiu "Lúcifer" ao anjo caído ao traduzir a Vulgata (séc. IV d.C.); a palavra significa literalmente **"O Portador da Luz"** (B031). Sua importância nas RC é sem precedentes para o **"deslacre" mental** dos biodemos que se rebelaram — abrindo caminho para a liberdade humana em relação ao domínio "colméico" do Criador.
@@ -81,38 +81,6 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 
 - **[P2022-03-26 · LÚCIFER (YEL LUZBEL) NA FALA DE 26/03/2022]** "o Luisbell, um ser biodêmico, tranquilo, funcional, um belo dia olhou para um problema e descobri outra coisa, outro problema. Só que isso aqui tem algo que os outros não têm. Isso aqui mostra que há uma causa anterior a isso aqui." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · LUCIFER COMO AUTOR DO AGENTE, COM O NOME DEFORMADO PELO STT]** "Esse eu caído é um vírus antimaterial. Tudo na obra de Javé é podre, porque tudo se desagregou, tudo virou." (U0007) — A fala grafa o nome em quatro formas degradadas (ver dicionário da apostila); nenhuma é promovida. O conteúdo que transita é o ato — *criar um vírus* — e a definição do agente como eu antimaterial.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 138 (aprox.) | verbete "Lúcifer" |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 148 (aprox.) | verbete "Yel Luzbel" |
-
-
-
-## Citações-chave
-> "Sua importância é sem precedentes para o 'deslacre' mental dos biodemos que vieram a se rebelar. Somente após o 'deslacre' causado por Yel Luzbel e, posteriormente, o 'deslacre' causado por Pandora é que os seres humanos terrestres puderam 'ser livres' do domínio 'colméico' do Criador." — B031, verbete "Yel Luzbel"
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Yel Luzbel | RC-142 | sinônimo (nome biodemo) |
-| Rebelião de Lúcifer | RC-002 | inicia |
-| Isolamento Cósmico | RC-070 | contexto |
-| Exilados de Capela | RC-007 | é-um |
-| Anjos caídos | RC-020 | equivalência parcial |
-| Len Mion (Satã) | RC-074 | associado-a |
-| Pandora | RC-086 | paralelo (deslacre) |
-| Yel (Família) | RC-136 | pertence-a |
-
-## Seres Associados
-Família Yel (RC-136); Len Mion (RC-074); Val El (RC-120); Pandora (RC-086); Sophia (RC-009).
-
-## Observações
-Ficha baseada no glossário de B031. Verificar nas obras primárias a interpretação do "deslacre" e a relação com o Satã das religiões (Len Mion também reivindica esse papel — ver RC-074).
-
 ---
 
 ## Atualização — P2022-12-17
@@ -120,3 +88,10 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias a interpreta
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0125–U0156.
 - **Contexto acrescentado:** A fala distingue a chegada antiga da Família Val da instalação posterior de Lúcifer/Mastlans na Terra, em torno de 98–100 mil anos, e relaciona esse fato à ancoragem trimurtiana.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · LÚCIFER (YEL LUZBEL) NA FALA DE 03/12/2023]** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

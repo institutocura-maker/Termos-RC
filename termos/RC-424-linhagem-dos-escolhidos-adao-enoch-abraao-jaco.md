@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.2 Linhagens humanas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 A **linhagem genética "preparada desde 'seu Adão'"** por Javé — revelada nas *Memórias de Javé* (B036) e sintetizada no resumo (B036R): o "Projeto Humano" visava "cultivar sequências genéticas específicas que pudessem servir de ponte para sua própria cura e estabilização mental". A cadeia dos escolhidos:
@@ -58,35 +58,6 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · A LISTA DOS PATRIARCAS, COM O CORTE PRÓPRIO DA FONTE]** "Aí Adão termina produzindo um terceiro filho chamado Sete, que produz outro chamado Enos, Cainan, Malalarel, Jaré, Deno Matusalém, Lanec, Noé, Sena, Faxado, Salé, blá blá blá blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá." (U0015); "Essa pergunta Adão, sete, Enos, Cainã, Malalar, Jaré, Denoque, Matusalém, Lam, ou seja, todo Os escolhios de Javé se fazem." (U0033) — ⚠️ Duas listas patriarcais na mesma fonte, com cortes diferentes (U0015 × U0033): divergência de STT, **não** de doutrina — registrar sem harmonizar.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| As Memórias de Javé (B036) | crônicas (Adão, Enoch, Abraão, Jacó) | — | tema recorrente |
-| Memórias de Javé - RESUMO (B036R) | seção 3 (A Linhagem dos Escolhidos) | — | síntese estruturada |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
-
-
-## Citações-chave
-> (B036R) "Para Javé, o ser humano é uma ferramenta estratégica. O 'Projeto Humano' visava cultivar sequências genéticas específicas que pudessem servir de ponte para sua própria cura e estabilização mental." — B036R, seção 3
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
-| DNA como Projeção Holográfica | RC-217 | ferramenta |
-| Javé | RC-001 | autor |
-| Favor Divino | RC-332 | contexto |
-| Ser-Criador fracassado | RC-422 | contexto |
-
-## Seres Associados
-Adão; Enoch (RC-412); Abraão; Jacó; José; Moisés; Maomé; Jesus (RC-072).
-
-## Observações
-Ficha baseada em B036 (obra primária) + B036R (resumo). A linhagem dos escolhidos é a "engenharia genética divina" das RC — cruzar com RC-270 (B013) e RC-325 (Genética Totalitária, B023).
-
 ---
 
 ## Atualização — P2022-12-17
@@ -94,3 +65,10 @@ Ficha baseada em B036 (obra primária) + B036R (resumo). A linhagem dos escolhid
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0677–U0726.
 - **Contexto acrescentado:** A palestra amplia a sequência genealógica do projeto de Javé por Adão, Seth, Enos, Cainã, Mahalalel, Jared e Enoque; registra também o papel de Noreia e a retirada de Enoque para o universo antimaterial.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · LINHAGEM DOS ESCOLHIDOS (ADÃO, ENOCH, ABRAÃO, JACÓ) NA FALA DE 03/12/2023]** «Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

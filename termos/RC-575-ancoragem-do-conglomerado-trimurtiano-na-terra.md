@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.5 Missões / Expedições / Encontros |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-14 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Evento de fixação vibratória do conglomerado de realidades da Trimurti sobre o Sistema Solar e, especificamente, a Terra.
@@ -22,10 +22,16 @@ A palestra situa a ancoragem há cerca de 100–104 mil anos, em reação à ins
 
 - **[P2022-12-17 — FONTE ORIGINAL] A ancoragem da Trimurti (U0160–U0170; U0165–U0168):** "há 100.000 aninhos... pela segunda vez essa faixa de realidade vizinha ancorou-se no nosso universo. Só que agora na Terra"; "ancorar-se no nosso universo exatamente sobre o sistema solar e mais especificamente voltado pra Terra"; "essa ancoragem foi muito semelhante à outra ocorrida há 300 milhões de anos, quando a turma... do bairro de [entre]stício desses dois universos chamado Yggdrasil [STT 'Igrazil'] na mitologia nórdica fizeram essa mesma coisa, só que em Marte. Por isso que o Ragnarok aconteceu... como eles tinham uma ponte, a Bifrost [STT 'B Frost'], que unia eles a Marte, a desgraça, as explosões aconteceu em Marte"; "a família Val chegou aqui na Terra há cerca de 600.000 anos atrás no âmbito da rebelião de Lúcifer"; "a ancoragem ocorreu porque Lúcifer estava estabelecendo o seu quartel general na Terra" e Sophia acompanhava o problema luciferiano.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ANCORAGEM DO CONGLOMERADO TRIMURTIANO NA TERRA NA FALA DE 03/12/2023]** «a Trimurte tem que deixar de existir.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0129–U0156 | transcrição automatizada; paráfrase e citação |
+
 
 ## Citações-chave
 > ““Ancorar-se no nosso universo exatamente sobre o sistema solar e mais especificamente voltado para a Terra.”” — P2022-12-17, U0129–U0156

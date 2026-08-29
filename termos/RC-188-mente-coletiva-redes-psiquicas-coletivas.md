@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Estruturas coletivas de informação e consciência que organizam famílias, gêneros e espécies espirituais em redes. A palestra distingue implicitamente dois usos: redes psíquicas naturais de cooperação e o modelo de controle coletivo da Colmeia.
@@ -45,14 +45,20 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 
 - **[P2022-03-26 · MENTE COLETIVA NA FALA DE 26/03/2022]** "Os V era uma mente coletiva, os Ira mente coletiva, o chão um, outro, os cromon outro, cada família dessa era uma espécie de uma colmeia à parte, todas vinculadas à Sofia." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · MENTE COLETIVA / REDES PSÍQUICAS COLETIVAS NA FALA DE 03/12/2023]** «WhatsApp de rede, né?» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B044 — A Divina Colmeia | contexto do Modelo Colmeia | fonte publicada |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0067–U0074; U0084–U0096; U0134–U0139 | STT pré-curado |
+
 
 
 

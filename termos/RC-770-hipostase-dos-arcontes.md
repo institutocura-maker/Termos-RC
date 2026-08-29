@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.4 Escrituras / Objetos documentais |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -21,36 +21,11 @@ Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regent
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · HIPÓSTASE DOS ARCONTES NA FALA DE 26/03/2022]** "Os arcontes que tomam conta do primeiro céu, do segundo céu, do terceiro céu, do quarto céu, até o 10º céu, aonde Javé está, não querem dar a minha v enta não querem que eu assuma a minha vestimenta." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+---
+---
 
-## Fontes
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-
-
-## Citação-chave
-
-> "Os gnósticos cristãos podem e devem ter esperança... No fim, os arcontes perecerão, enquanto os humanos gnósticos [prevalecerão]." — P2026-07-25 (leitura da Hipóstase)
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Arcontes | RC-474 | relaciona-se-a |
-| Ialdabaoth | RC-482 | relaciona-se-a |
-| Pistis Sophia | RC-530 | relaciona-se-a |
-| Noreia | RC-579 | relaciona-se-a |
-| Elm (Moros) | RC-454 | relaciona-se-a |
-| Wyrd/Urd | RC-658 | relaciona-se-a |
-| Prabrajna | RC-152 | relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a |
-
-## Observações
-
-Conteúdo gnóstico sob quarentena teológica (Teologia Comparada/Crítica) — leitura do autor, não fato histórico validado.
+- **[P2023-12-03 · O QUE OS ARCONTES QUEREM]** «esses arcontes querem vir para cá. Aí querendo vir para cá, a velha ideia de que Sofia que ia mandar para eles não faz mais sentido, que eles querem mandar, até porque Sofia foi o responsável por ter preparado o humano Jesus para servir a Keter ou javera ou brama. E Jesus se recusou a cumprir o papel de Messias violento. Então quando Enoque mostrou isso aqui a toque Tot começou a fazer uma leitura disso aqui junto» (U0004) — A hipóstase ganha motivo concreto na fala: a obstrução à posse existe porque o universo deles está acabando. Entrada com aspa; nada de relação nova com RC-474 além da já registrada.
 
 ---

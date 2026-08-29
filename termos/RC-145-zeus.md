@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Zeus** é o "deus do Olimpo" da narrativa RC — chefe da **"Assembleia dos Eleitos"** (os doze), autointitulado **"Senhor de Todos os Seres Viventes"**, quarto gerador da teogonia (Urano → Cronos → Zeus) que venceu e aprisionou os titãs no tártaro. Criador tirânico de **Pandora** (RC-086) e adversário de **Prometeu** (RC-301): a vingança contra o titã — a "caixa" com "algoritmos virais" e a transformação forçada de Pandora — é o motor do Livro 1 da trilogia psicografada de Jeane Miranda. Na malha RC, Zeus é figura da linhagem olimpiana (universo antimaterial) ligada à **Era dos Humanos** (RC-297).
@@ -41,13 +41,19 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 - **[P2020-09-19 · ZEUS NATO EM CRETA + OS TITÃS PRISIONEIROS DA VIA LÁCTEA; ⚠️ O EMBRIONÁRIO DE 2020]** **A ORIGEM TERRESTRE DE ZEUS**: "Aí surge quem? ZEUS. Zeus nasce aonde? NA TERRA, PESSOAL. ZEUS NASCEU DE UM PORTAL ABERTO AQUI NA TERRA, NA ILHA DE CRETA. Então, ZEUS É O ÚNICO DEMO QUE NÃO FOI [engendrado no universo vizinho]... Zeus já é alguém que NASCEU NESSE NOSSO UNIVERSO, ainda que seja demo, E AINDA QUE HOJE MORE NO OLIMPO, QUE É UMA LOCA DO UNIVERSO VIZINHO" [⚠️⚠️ a inversão: o demo nascido AQUI!]; **OS TITÃS**: "a primeira coisa... no sentido de chamar a Terra [ao centro] foi um evento que aconteceu COM A CRIAÇÃO DOS TITÃS. Eu tô usando aqui a mitologia grega... Poderia usar a mitologia hindu, chamando isso de ASURAS — é a mesma coisa. OS TITÃS, quando eles, numa primeira confusão que eles criaram, FORAM ALOJADOS COMO PRISIONEIROS, COMO CASTIGO, NA NOSSA GALÁXIA VIA LÁCTEA... houve uma época aí para trás em que A GERAÇÃO DE URANOS E A GERAÇÃO DE CRONOS FORAM PRO CACETE... e os titãs foram castigados a viver aprisionados em torno da galáxia... eles ficaram LIGADOS À NOSSA GALÁXIA"; "COM OS TITÃS HOUVE O DESDOBRAMENTO DE UMA LINHAGEM QUE SURGIU A PARTIR DO PROJETO TALM... AS GUERRAS QUE FORAM ESTABELECIDAS COM OS TITÃS E OUTRAS FIGURAS FORAM EM TORNO DESSA GALÁXIA"; "a Terra foi se transformando NUM PONTO DE CONFUSÃO DOS TITÃS... espiritualmente A LATA DE LIXO DE TUDO"; o Q&A de Pandora: "mesmo com a DESOBEDIÊNCIA DE PANDORA EM RELAÇÃO AOS CRITÉRIOS DE ZEUS, o tipo de ser humano que dali surgiu produzia coisas que ninguém em nenhum desses dois universos..." [⚠️ "os critérios de Zeus" — o eco de P2020-08-08: "Pandora, filha de Zeus com Têmis"].
 - 0 códigos novos (O-3). Quarentena: teológica (a mitologia como chave).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ZEUS NA FALA DE 03/12/2023]** «Esse aqui já veio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-09-19`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 1–10 | pp. 14–58 (PDF): o criador de Pandora; a Assembleia; a caixa | narrativa psicografada (Pandora) |
 | O Sorriso de Pandora (B020) | — | — | obra primária (versão canônica) |
 | Tempos Difíceis no Olimpo (B021) | — | — | obra primária |
 | Glossário Raquyel (B031) e demais (B044, B050, B060) | — | — | base do termo |
+
 
 ## Citações-chave
 > "Ele se julgava importante o suficiente para se autoproclamar como o 'Senhor de Todos os Seres Viventes' ou o 'Senhor de Toda a Criação', e assim, de título em título, a sua soberba não tinha fim. Era tremenda a pretensão desse deus!" — B087, p. 20

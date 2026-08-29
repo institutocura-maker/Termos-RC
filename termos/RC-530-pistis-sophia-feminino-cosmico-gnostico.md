@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-19 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -26,28 +26,11 @@ Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas ante
 - **[P2023-04-15 · A REPULSA VIBRATÓRIA]** "existe uma história que foi contada depois que JESUS RESSUSCITADO explicou isso pros apóstolos e discípulos, que a P1, ou seja, a pessoa número um, TENTOU SE LIGAR A BRAHMA E NÃO CONSEGUIA PORQUE SENTIA, SEGUNDO O LIVRO PISTIS SOFIA, VERGONHA. MAS NÃO ERA VERGONHA — ERA REPULSA VIBRATÓRIA. E é por isso que... esse ser ficou DESALMADO" — a releitura do Pistis Sophia: a "vergonha" de Brahma traduzida como repulsa vibratória da pessoa um.
 - **[P2023-04-15 · O IRMÃO THAAGO E A VESTIMENTA DE BARBELO]** "quando nos livros gnósticos o Jesus ressuscitado [disse] ao seu irmão THAAGO [STT — [REVISAR]]: 'Ó Thaago, A VESTIMENTA QUE EU DEVERIA JÁ ESTAR VESTINDO AGORA COMO REPRESENTANTE DO MEU PAI E DOS DEMAIS SERES DO PLEROMA DE BARBELO, EU JÁ DEVERIA TER ESSA VESTIMENTA, MAS OS ARCONTES DO SÉTIMO, SEXTO, QUINTO E QUARTO CÉU NÃO DEIXAM'"; "Sofia nesse universo foi engendrado para ser o herdeiro da Trimurti, só que a Trimurti se ferrou, MAS TEM ARCONTES QUE NÃO QUEREM MAIS QUE ELE SEJA O HERDEIRO. ELES QUEREM VIR PARA CÁ PARA TOMAR ESSA BRIGA" [REVISAR: "Thaago" — Tomé? o interlocutor do Pistis Sophia].
 - 0 códigos novos (O-3). Quarentena: teológica.
+---
+---
 
-## Fontes
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> "Antes da queda, o ser que eu chamo de Prabrajna, nesse livro ele aparece com o nome de Pist Sophia." — P2026-07-25
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Prabrajna | RC-152 | relaciona-se-a |
-| Hipóstase dos Arcontes | RC-770 | relaciona-se-a |
-| Ialdabaoth | RC-482 | relaciona-se-a |
-| Sophia | RC-009 | relaciona-se-a |
-
-## Observações
-
-Quarentena teológica (gnosticismo) — leitura do autor.
+- **[P2023-12-03 · PISTIS SOPHIA (FEMININO CÓSMICO GNÓSTICO) NA FALA DE 03/12/2023]** «ele foi quem criou Sofia a partir de um acordo com esses dois.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---

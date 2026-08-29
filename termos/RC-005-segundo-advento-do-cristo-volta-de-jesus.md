@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.3 Profecias / Anúncios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -151,34 +151,12 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · SEGUNDO ADVENTO DO CRISTO NA FALA DE 26/03/2022]** "a minha forma cósmica virá pessoalmente, já que Estulo tá concentrado na terra, porque aí eu vestirei a minha vestimenta de herdeiro do criador, ou seja, da trimura." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+---
+---
 
-## Fontes
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
-
-
-
-
-## Citação-chave
-
-> Todos os olhos da terra verão... Eu, como filho do homem, cercado pelas hostes angelicais.
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Jesus | RC-072 | relaciona-se-a |
-| Hochmah | RC-565 | relaciona-se-a |
-| Sophia | RC-009 | relaciona-se-a |
-| Urdidura de Metatron | RC-674 | relaciona-se-a |
-
-## Observações
-
-Quarentena teológica — leitura do autor; ver B004.
+- **[P2023-12-03 · SEGUNDO ADVENTO DO CRISTO (VOLTA DE JESUS) NA FALA DE 03/12/2023]** «aí ele vem porque não tem outra opção.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A POSSE QUE NÃO HOUVE]** «Sabe aquela cerimônia de posse nunca houve.» (U0004) — D-6: a segunda vinda é lida pela fonte como **cerimônia de posse retida**, não como atraso. «posse» é metáfora de investidura no glossário, nunca rito histórico, e nenhuma relação de fundamento é aberta por esta entrada.
 
 ---

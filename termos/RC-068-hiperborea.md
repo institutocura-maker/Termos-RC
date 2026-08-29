@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.3 Localidades terrestres |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -38,13 +38,19 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 
 - **[P2022-03-26 · HIPERBÓREA NA FALA DE 26/03/2022]** "portal da antiguidade quando estavam abertos eram estirpes e perbórias que brigavam entre si, toatas de danã contra partolanos, contra nemedianos, contra aí os próprios humanos, através dos milesianos também que passaram a ter essas brigas fronteiristas." (U0018) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · HIPERBÓREA NA FALA DE 03/12/2023]** «A turma do Hiperbório foi então construindo essas cidades.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
+
 
 
 

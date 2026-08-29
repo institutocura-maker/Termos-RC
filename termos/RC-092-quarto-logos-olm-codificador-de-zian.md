@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.8 Consciências coletivas / Logos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 O Quarto Logos se chama **"Olm"**, mais conhecido como o **Codificador de Zian (ou Zion)**. "Mergulhou" de Perpérion diretamente para o nosso universo biológico (Bhuloka) — foi o **único dos quatro Logos que não mergulhou no universo antimaterial** (Brahmaloka), podendo criar um **CFD próprio**, livre da programação gerada pelo Primeiro Logos. Surgiu no forno de Vishnu (Awaymaion) e depois apareceu na nave Asphezian no Sistema de Capela, dando assessoria a Sophia. **Não é um Ser Criador**: sua função é gerar **cocriadores esclarecidos, independentes e harmonizados** com os princípios nobres da existência. Teve uma única encarnação terrena como **Apolônio de Tiana** (~2.000 anos atrás), contemporâneo de Jesus (B031).
@@ -159,38 +159,6 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · QUARTO LOGOS (OLM) NA FALA DE 26/03/2022]** "tinham detectado cerca de 250.000 problemas que eles precisavam criar seres para resolver esses quase 250.000 problemas." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Quarto Logos" |
-| O Quarto Logus (B016) | a preencher | — | pendente (obra primária) |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
-
-
-
-## Citações-chave
-> "Ele foi o único dos quatro Logos que não mergulhou no universo antimaterial (Brahmaloka), podendo criar um 'DNA' ou CFD (Código Fonte Definidor) próprio, livre da programação existencial gerada pelo primeiro Logos, o que o diferencia dos outros três Logos." — B031, verbete "Quarto Logos"
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Logos / Logos Criadores | RC-076 | é-um |
-| Perpérion | RC-087 | origem (mergulho) |
-| Asphezian | RC-025 | apareceu-em |
-| Sophia | RC-009 | assessora |
-| Zian | RC-146 | associado-a (nome) |
-| Vishnu | RC-135 | origem (forno Awaymaion) |
-
-## Seres Associados
-Sophia (RC-009); Vishnu (RC-135); Jesus (RC-072, contemporâneo); Apolônio de Tiana (encarnação).
-
-## Observações
-Ficha baseada no glossário de B031. Nota: a grafia "Quarto Logus" aparece no título da obra de Ellam (B016); manter "Quarto Logos" como preferida e registrar a variação.
-
 ---
 
 ## Atualização estrutural — P2021-12-04
@@ -233,3 +201,10 @@ Ficha baseada no glossário de B031. Nota: a grafia "Quarto Logus" aparece no t�
 - **Início do Tikun:** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (RC-514 Tikun — nova aresta RC-514 ↔ RC-092);
 - **Cocriadores parceiros:** "consciências humanas habilitadas à realização do Tikun e possíveis de serem cocriadoras parceiras do Quarto Logos frente a esse mistério" — os Sethianos Emancipados (RC-766);
 - **Transumanismo:** "fazer uso da consciência de alguns para o transumanismo como maneira de realizar o Tikun deverá ser comum no futuro".
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · QUARTO LOGOS (OLM / CODIFICADOR DE ZIAN) NA FALA DE 03/12/2023]** «por isso eu escrevi o livro Quarto Lópos.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

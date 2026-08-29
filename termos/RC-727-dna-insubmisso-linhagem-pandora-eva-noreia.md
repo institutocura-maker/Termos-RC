@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.2 Linhagens humanas |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmissos ao controle dos deuses, associada a Pandora, Eva e Noreia e contraposta a códigos de submissão atribuídos à linhagem de Adão.
@@ -130,32 +130,6 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · DNA INSUBMISSO NA FALA DE 26/03/2022]** "cujo genoma está bichado, infectado, pela necessidade de sobreviver a qualquer custo, pela necessidade de prevalecer o forte sobre o fraco." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2024-11-09 | U1218–U1270 | palestra/STT |
-
-
-
-
-## Relações centrais
-
-- Pandora — RC-086;
-- Eva — RC-189;
-- Noreia — RC-579;
-- Genoma da Liberdade — RC-619;
-- Pandora como Serpente — RC-283;
-- Genética Totalitária — RC-325;
-- Enki — RC-486;
-- Ponto de Luz / Ilha de Negentropia — RC-725.
-
-## Blindagem científica e histórica
-A linhagem é **Teologia Comparada/cosmologia de Ellam**, não uma categoria da genética acadêmica. A associação de Enki ao “gene de submissão”, as datas, os números de genes e a leitura dos 300 espartanos não são evidência genética ou historiografia estabelecida. A Eva mitocondrial da genética populacional é distinta da Eva bíblica/RC.
-
 ---
 
 ## Selo temporal — P2025-07-18 — divergência Pandora / Eva–Adão
@@ -163,3 +137,10 @@ A linhagem é **Teologia Comparada/cosmologia de Ellam**, não uma categoria da 
 - **[P2025-07-18]** A palestra registra **Pandora em aproximadamente 49.000 anos** e **Eva/Adão em aproximadamente 22–23.000 anos**.
 - **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.
 - `oró` permanece **[REVISAR]**; não há decodificação ou cadastro derivado desta ocorrência.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DNA INSUBMISSO / LINHAGEM PANDORA–EVA–NOREIA NA FALA DE 03/12/2023]** «mantendo o inconformismo luciferiano.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

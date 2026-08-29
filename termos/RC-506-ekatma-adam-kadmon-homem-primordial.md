@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -27,11 +27,17 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 - **[P2023-09-09 · O PRIMEIRO ADÃO]** "desse análise de Phanes... emergiu **o primeiro Adão num forno de vida que foi construído por essa turma nesse nosso universo chamado Aingan [⚠ REVISAR — o forno; cross RC-499/RC-771]**... **esse primeiro Adão aqui não é o Adão da Bíblia, não. Esse aqui é um GIGANTE que foi construído na perspectiva de ser o primeiro molde, um modelo corporal que um dia poderia receber a correção de todas as doenças do corpo do criador no sonho de fazer com que um dia esse criador assumisse um eu desse tipo de modelo corporal**" (o Evangelho apócrifo de João; "eu já fiz uma palestra toda sobre isso") — o Primeiro Adão = o Adam Kadmon/Ekatma como o MOLDE de ressureição do criador.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · EKATMA (ADAM KADMON — HOMEM PRIMORDIAL) NA FALA DE 03/12/2023]** «Adão Cadimão ancestral.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-09-28 | pergunta Rogério/Maria Helena (demos hesitantes; Adão Cadmon) | palestra/STT pré-curada |
+
 
 ## Citação-chave
 

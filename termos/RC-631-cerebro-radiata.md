@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Cérebro biodemo/radiata de um hemisfério atribuído a Sophia, contraposto ao cérebro bilatério humano.
@@ -59,13 +59,19 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 - **[P2022-03-26 · CÉREBRO RADIATA NA FALA DE 26/03/2022]** "é um ser radiata, nem bilatério, cara é tá depressivo, com dores nas costas, dores de lombares, não sei o quê, blá blá blá blá." (U0025) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · RADIATA: O CORPO QUE EXPLICA POR QUE SOPHIA NÃO SORRI]** "Sofia não não tem como ele não consegue sorrir, é um ser biodemo, não tem sorrisos." (U0040); "Nós humanos sabemos rir da nossa própria desgraça. No pior momento da gente, a gente não dá um sorriso. Que que babaquice, mas na hora que a gente dá um sorriso, suaviza dor na gente. Esses seres não sabem sorrir." (U0040) — A anatomia é usada como argumento, não como piada: o cérebro radiata não tem o circuito do riso. Manter as três aspas juntas para que a última não vire escárnio do quadro clínico.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CÉREBRO RADIATA NA FALA DE 03/12/2023]** «no cérebro radiata dele não funciona.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0576–U0589 | PDF/transcrição pré-curada |
+
 
 
 

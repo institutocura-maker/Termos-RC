@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Biodemos** é a estirpe extraterrestre de Capela da qual procedem os capelinos — os seres das famílias criadas por Sophia (Yel, Mion, Cromon, Shanlung, Val etc.), caracterizados por corpos longevos "sujeitos a fenecer", mentes coletivas ligadas por **Processadores Familiares** (RC-446) e programação genética predeterminada. É o "gênero" do qual as famílias capelinas são espécies.
@@ -66,9 +66,15 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[P2022-03-26 · BIODEMOS NA FALA DE 26/03/2022]** "Há cerca de 900 milhões de anos atrás, Esse forno de Auaion, depois de ter produzido várias linhagens existenciais, produziu mais uma de seres que nós somos obrigados a chamá-los de biodemo, porque eram parte biológicos e parte a herança demo que veio nessa história." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O REINO BIODÊMICO EM NÚMEROS, COMO A FALA O DISSE]** "esses seres foram reproduzidos com receita existencial para serem absolutamente frios, sem nenhum tipo de emoção. Mente matemática, mente dedutiva, capacidade de concentração total para ver se uma consciência de um ser biodem se concentrando num problema de matemática, ele esquecia a demência, ele assim ia corrigindo outros padrões do seu psiquismo e de tanto ele poder se dedicar a analisar um problema qualquer, ele ia desenvolvimento desenvolvendo a arte mental, intelectual de resolver aquilo, mas emoção zero." (U0005); "Não havia nesses seres e não há até hoje sexualidade. Não é macho e fêmea, era só um são esse forno nunca produziu nada com sexo, com polaridade." (U0005) — Três datas e três magnitudes de uma só vez (900 milhões de anos, ~250.000 famílias, forno estéril). Cada cifra é reproduzida com o endereço; a contagem de espécies da família Vol está em `RC-056` e em `RC-442`.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · BIODEMOS NA FALA DE 03/12/2023]** «seres produtos da matemática, não são seres que t emoção, não são seres que são sexuados, eram seres que sempre foram criados em casulos. Hoje existem quase 250.000 famílias diferentes de seres bion. São 249.400, não sei quantos. A última criada é algo que a gente, que eu chamo nos livros de» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · ASSEXUAÇÃO E CASULO, SÓ O DADO TÉCNICO]** «criados em casulos, em naves.» (U0004) — D-1: entra o dado (seres sem sexo, produzidos em casulos, nenhum nascido em planeta) e **não** o argumento sobre identidades. A frase da fonte sobre a Terra ter «dois» gêneros fica na apostila, com moldura.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
@@ -76,6 +82,7 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 | A Revolta do Anjo Decaído (B057) | Caps. 1–2 | pp. 15–21 (PDF) | estirpe capelina; famílias; programação genética |
 | O Início da Revolta Capelina (B058) | — | — | famílias = coletivos de biodemos |
 | Glossário Raquyel (B031) e obras primárias (B001, B017–B018, B023, B039, B044, B050) | — | — | base do termo |
+
 
 
 

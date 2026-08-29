@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Sophia é **o Cristo Cósmico** e o **Suserano Cósmico** deste universo. É um ser **biológico (biodemo e radiata)** do nosso universo, com sede de sua "Governadoria Cósmica" no planeta **Orbum** (Sistema de Capela), de onde governa o universo material. É um **avatar de Mohen So**, que por sua vez era avatar de **Vishnu** — os dois (Jesus e Sophia) possuem o mesmo espírito (também o de Vishnu e Mavatna). Foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o "pai biológico" de Jesus (B031).
@@ -303,45 +303,6 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **[P2022-03-26 · SOPHIA (CRISTO CÓSMICO) NA FALA DE 26/03/2022]** "Sofia se contaminou também." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · SOPHIA CONTAMINADA E DESCONECTADA HÁ 700.000 ANOS]** "o processamento da evolução de Sofia para ali há 700.000 anos que Sofia não acrescenta padrões de evolução ao seu psiquismo devido à rebelião de Lúcifer." (U0008); "Nunca tinha falado isso claramente porque é assunto de outro livro." (U0008) — A automarca *nunca tinha falado isso claramente* incide exatamente sobre esta afirmação: grau de testemunho alto, e por isso ela entra **com** a ressalva, não apesar dela. A ficha recebe a tese, não a ênfase.
 - **[P2022-03-26 · A RECONEXÃO DATADA: 2019]** "no ano 2019, Sofia esteve a Há 700.000 anos que o rapaz tava fora do circuito. Há 3 anos atrás ele teve lá e parece que ele se religou ao processo, coisa que ele não consegue fazer, mas a partir do grandão lá que também não tem mais novidade nenhuma e parou a uns 400.000 anos de ter utilidade." (U0034) — **D-10**: a data é da fala de 2022 e não tem paralelo em outra fonte. Não harmonizar com nenhuma outra cronologia de religação.
-
-## Fontes
-| Obra (sigla) | Capítulo | Página | Tipo |
-|---|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
-| Painéis Emergentes... (B031) | Glossário de Termos | p. 143 (aprox.) | verbete "Sophia" |
-| Sophia e o Logos Criadores (B014) | a preencher | — | pendente (obra primária) |
-| P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
-| ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | — | — |
-
-
-
-
-
-## Citações-chave
-> "Sophia é um avatar de Mohen So, que por sua vez era avatar de Vishnu. Sophia é o Cristo Cósmico. Ele é um ser biológico (biodemo e radiata) do nosso universo e tem a sede de sua Governadoria Cósmica ou espécie de 'Casa do Governo' no planeta Orbum, no Sistema de Capela, de onde governa o nosso universo material desempenhando a função de 'Suserano Cósmico'." — B031, verbete "Sophia"
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Jesus | RC-072 | é-um (avatar terreno) |
-| Mohen So | RC-081 | é-um (avatar de) |
-| Vishnu | RC-135 | espírito compartilhado |
-| Orbum | RC-085 | ocorre-em (sede) |
-| Isolamento Cósmico | RC-070 | encerra |
-| Reintegração Cósmica | RC-003 | inicia |
-| Aya e Aye | RC-031 | assessores |
-| Quarto Logos | RC-092 | assessor |
-
-## Seres Associados
-Jesus (RC-072); Mohen So (RC-081); Vishnu (RC-135); Famílias Aya e Aye (RC-031); Val El (RC-120).
-
-## Observações
-Ficha baseada no glossário de B031 (fonte secundária). A linha "Sophia e o Logos Criadores" da proposta inicial foi desmembrada: **Sophia** (esta ficha) e **Logos/Logos Criadores** (RC-076) + **Quarto Logos** (RC-092). Verificar nas obras primárias (B014) a governadoria de Sophia e o "pai biológico" de Jesus.
-
 ---
 
 ## Atualização — P2022-12-17
@@ -406,3 +367,10 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **Rockma/Sofia engravidou Maria:** "devolver o corpo de fundo, os elétrons do corpo para Rockma Sofia, que havia engravidado Maria" — contexto da encarnação de Jesus (RC-072);
 - **Não ama:** "Sofia não ama ninguém... não tem essa perspectiva mamífera de amar... O tipo de amor desses seres é: fulaninho tá se lascando, é, que se lasca";
 - **Setianos encomendados:** "segundo o que Sofia disse no hipócase [Hipócrates? `[REVISAR]`], [os setianos] teriam sido encomendados por esse rapazinho [a Deidade/Barbelo RC-483]" (nova aresta RC-009 ↔ RC-483).
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · O SUZERANO COM TESTEIRAS FLOUXAS]** «Sofia é o representante da Trimurte nesse universo biológico. Então esse Sofia começou a espalhar o código de vida dele através de vários gêneros. E o último gênero que ele criou é esse aqui. Sofia atua nesse universo há mais de 6 bilhões de anos. No último 1 bilhão depois de ter criado insetoides, baratoides, dragonoides, uma série de cois. coisas extremamente esquisitas para nós humanos. Chiva também criou uma» (U0004) — A ficha passa a ter a definição de cargo: representante da Trimúrti neste universo biológico, com os seres de lá vindo «sem o menor respeito» por ele. É o par simétrico do que P2022-03-26 registrara como contaminação: aqui, a impotência administrativa.
+
+---

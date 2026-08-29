@@ -5,7 +5,7 @@
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -31,13 +31,19 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 - **[P2023-10-14 · TRAVAS E CONTROLES NO CAMPO DO RETARDAMENTO MENTAL (materialização autorizada)]** "Nenhum no NAC consegue devido à travas e controles que ele tem no campo do retardamento mental, pelas noções de honra que eles está não em questões filosóficas, mas em questões de sangue azul, de descendência." (U0033) — ⚠️ Retificação medida na aplicação: o **bloqueio ético** desta fonte está noutras linhas — as duas frases misóginas de U0015 e U0033 ficam **retidas** (não transcritas aqui, nem para crítica, por determinação expressa do Curador): não entram em ficha, nem no glossário, nem na apostila. Já o uso de «retardados» (U0003/U0005/U0062, 4 ocorrências) **não** se dirige a pessoas com deficiência — recai sobre os próprios anunnaki e sobre os humanos: o rótulo do dossiê O-5 foi retificado. Esta aspa é o enunciado doutrinário sobre «sangue azul» e sustenta a materialização autorizada (Devolutiva item 11).
 - **[P2023-10-14 · A PURANÇA DE SANGUE QUE NÃO EXISTE]** "E isso faz com que eles se enfeem na prática da vida deles em busca dessa pureza de sangue que não existe." (U0033)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · AGRESSIVIDADE CANALIZADA (DNA DOENTIO) NA FALA DE 03/12/2023]** «Ninguém tinha tinha algoritmo de raiva, de tristeza, de agressão.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | B040 — *Homo Sapiens: da Guerra ao Esporte* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
 | B052 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2024-11-30 | palestra | — | paráfrase (vínculo pré-existente do cadastro) |
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

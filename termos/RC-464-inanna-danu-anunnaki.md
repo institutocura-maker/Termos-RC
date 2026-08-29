@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -41,11 +41,17 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 - **[P2021-05-15 · ANU × ZEUS: A GUERRA INTERNA QUE ENFRAQUECE E NÃO MULTIPLICA]** "E foi quando o próprio Zeus começou a transar loucamente com tudo que se movimentava que ele queria ter uma descendência com aquilo para dar continuidade à sua genética no meio daquela história, já que o Zanuna defendiu a tese, por isso Anu, como avô transou com Inana, sua neta, para poder dar uma descendência de um de uma posição genética que eles acham importante." (U0003); "E se enfraqueciam, não se multiplicavam." (U0003)
 - **[P2021-05-15 · A ORIGEM: NETA DE ANU, NASCIDA EM NIBIRU, VINDA À TERRA]** "É neta de Anô." (U0003); "Essa turma toda, o Anon Chic é quem nascia em Nibiro e Nanau na terra." (U0003) — [REVISAR: «Anon Chic» = STT para Anunnaki; «Nanau» ≈ Inana/Anu — grafias da fonte preservadas.]
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · INANNA (= DANU; ANUNNAKI) NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | B060 — (obra primária da linhagem anunnaki) | a preencher | — | paráfrase (registro do cadastro; página a conferir) |
+
 
 
 ## Citações-chave

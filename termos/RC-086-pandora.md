@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -111,10 +111,15 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[P2020-04-25 · PANDORA: O PRIMEIRO SUSTO DE JAVÉ]** "A primeira vez que Jaavé tomou um susto foi quando ele viu surgir uma espécie produzida por um movimento de consciência de uma figura absolutamente comum que ninguém nunca tinha prestado atenção, que foi Pandora." (U0006) — Releitura da caixa: o mito é lido como o choque do criador diante da criatura superior — **não** como castigo. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **13 meses** a atual fonte oral mais antiga da ficha (`P2021-05-15`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O VÍCIO ORACULAR NASCE AÍ]** "criaram o vício oracular para forçar todo mundo a só fazer qualquer coisa na vida dependendo dos deuses." (U0006)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · O SORRISO PEDIDO NO FIM]** «possa sorrir nos termos em que Pandora um dia sorriu quando se viu.» (U0004) — A Pandora da fonte fecha o ciclo com um sorriso *emprestado*: o desejo explícito é que Luzbel sorria «nos termos em que Pandora um dia sorriu quando se viu». O bruto grafa `julgo` e corta ali; remissão a B020, sem fusão.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | B020 | O Sorriso de Pandora | livro |
@@ -122,6 +127,7 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 | P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2024-03-03 | palestras | palestra/STT |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo — Denise F. Silva) | artigo de aluna avançada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+
 
 
 

@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-19 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -29,28 +29,11 @@ Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé
 
 - **[P2023-06-03 · A LITERALIDADE DE BARTOLOMEU — a fonte mais antiga]** "O EVANGELHO DE BARTOLOMEU... Bartolomeu: 'Mestre, quando você estava na cruz, eu fugi... fiquei de longe, atrás de uma árvore... **E TEVE UMA HORA QUE VOCÊ DESAPARECEU DA CRUZ**... Aí Jesus, no livro, diz: **'SIM, EU DESCI AOS INFERNOS. EU DESCI 500 PASSOS na direção do inferno — MAS O INFERNO AQUI É O TÁRTARO... e lá chegando falei com um dono do inferno que é o próprio HEIT [HADES], o irmão de Zeus na literatura grega. E INFERNO E DEMÔNIO ESTAVAM JUNTOS. O demônio aqui é BELIAL — um anjo clone que desobedeceu a Javé ou a Keter.**'" + "**BELIAL E REIDES FIZERAM PACTO para dominar o chamado inferno. Porque TODAS AS ALMAS DESDE O TEMPO DE ADÃO... essa dupla pegava**" [Adão, Sete, Enos, Cainã, Malaleel, Jared, Enoque, Matusalém, Noé — "esses não estavam [presos]"] + "**Jesus ressuscitado desceu ao inferno, APRISIONOU BELIAL, MANDOU O REI [Hades] SAIR DALI E LIBERTOU AS ALMAS HUMANAS** que desde então puderam, ao desencarnar, não mais ser aprisionadas pelos arcontes do primeiro, do segundo e do terceiro céu" + "não aconteceu só UMA rebelião de anjos. São vá[rias]... a história de Belial ninguém conhece."
 - 0 códigos novos (O-3).
+---
+---
 
-## Fontes
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
-
-## Citação-chave
-
-> "Esse ser chamado de Satã na Bíblia era Belial. Belial é um dos arcontes na época... Tinha assento nesse conselho chamado Elohim ou Eloim." — P2026-07-25
-
-## Termos Relacionados
-
-| Termo | Código | Relação |
-|---|---|---|
-| Satã | RC-074 | relaciona-se-a |
-| Tártaro | RC-286 | relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a |
-| Arcontes | RC-474 | relaciona-se-a |
-
-## Observações
-
-Quarentena teológica: leitura da RC sobre o Livro de Jó; a correspondência Belial=Satã é do autor.
+- **[P2023-12-03 · BELIAL (ARCONTE; 'SATÃ' DO LIVRO DE JÓ) NA FALA DE 03/12/2023]** «figuras como Bel, como Lemion, como Tod, como outros tantos que existem e a gente nem tem noção, essas figuras, se a coisa continuar do jeito que tá, eles vão terminar assumindo funções no vazio de poder que a briga de Sofia com essas figuras desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---

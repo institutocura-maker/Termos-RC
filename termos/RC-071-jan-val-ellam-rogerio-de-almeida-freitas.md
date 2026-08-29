@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-26 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 O **codificador e transmissor das Revelações Cósmicas** — o "recebedor" pelo qual as revelações "chegam" (a própria malha é filha da sua obra: 777 termos extraídos do glossário de B031, além das obras B001–B090 e das palestras P-codes). Assinatura autoral; o nome civil é termo separado (**RC-095** Rogério de Almeida Freitas).
@@ -29,15 +29,22 @@ Autor das obras-primária e complementar que fundamentam a base. Na B031 (a obra
 - **[B031 p. 14 · INTRODUÇÃO — quarentena biográfica de terceiros]** o relato de conversão da autora: primeiro contato com as RC em **15/08/2017** (a busca por "mônadas espirituais" no YouTube levou ao vídeo de Ellam; depois "O Livro de Urântia"; e a entrevista no **Programa do Jô, junho de 2004**) + a palestra no Templo da Arte (SP) — o ecossistema de difusão registrado como contexto, não fato ontológico.
 - 0 códigos novos (O-3). **Ficha materializada por ORDEM DO CURADOR em 2026-08-26** (aditamento ao ciclo B031 — resolve a nota de transparência 1 do RELATORIO-DE-CICLO).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · JAN VAL ELLAM (ROGÉRIO DE ALMEIDA FREITAS) NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A CADEIA ELÃ → ENOQUE]** «esse Valan, que foi uma das figuras que o meu espírito personalizou, personificou, lá atrás, ficou vivendo aqui na Terra. E com essas duas questões dos 600 e poucos foram morrendo, mas isso foi na época, exatamente na época em que existiam terras aonde hoje é o polo norte. Foi na época do hiperbório. E lá no Polo Norte, muitas partes de terra que hoje não mais existem Porque todas sucumbiram no problema que iria» (U0004) — D-12: entra **só** a cadeia de encarnações que a fonte atribui ao espírito que a anima (Valan/Elã → Enoque), sem adjetivação confirmatória e sem as frases em que a fonte se coloca como «a última opção» dos três — essas ficam na transcrição, com moldura, e não aqui.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | PREFÁCIO DE JAN VAL ELLAM | pp. 9–10 | citação (paratexto autorizado) |
 | Painéis Emergentes... (B031) | Outros Canais de Jan Val Ellam | pp. 155–158 | citação |
 | Painéis Emergentes... (B031) | Agradecimentos | p. 8 | citação (leitura da autora) |
 | Painéis Emergentes... (B031) | Introdução | p. 14 | paráfrase (biográfica — quarentena) |
 | B016 · B006 · B027 · B034 · B036 · B060 | — | — | obras do autor (ver Base) |
 | P2021-12-04 · P2025-06-26 | — | — | palestras (ver apostilas/) |
+
 
 ## Citações-chave
 > "Trilha cerebral aqui significa o conjunto dos novos elementos agora colecionados no jogo sináptico dos mais de 80 bilhões de neurônios produzindo cerca de 100 trilhões de estradas neurais no cérebro humano." — B031, prefácio de Ellam (p. 9)

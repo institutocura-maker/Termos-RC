@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -73,12 +73,19 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **[P2023-10-14 · A EMBAIXADA E A AGENDA]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033)
 - **[P2023-10-14 · A ÁRVORE CRIADA POR ELE]** "É uma representação que Enoque, um humano, criou." (U0085)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ENOQUE (SÉTIMO PATRIARCA; LEVADO POR JAVÉ) NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A ELEIÇÃO PELA GENÉTICA]** «o DNA de Enoque era muito interessante para Javé.» (U0004) — D-9: a raptura de Enoque ganha motivo segundo a fonte (o DNA interesse de Javé) e suas idades coincidem com o que a ficha já registra — **convergência datada**, que o ciclo destaca como confirmação e não como revisão.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |
+
 
 
 ## Citação-chave

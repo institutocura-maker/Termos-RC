@@ -5,7 +5,7 @@
 | **Categoria Principal** | Tecnologias & Artefatos |
 | **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -38,15 +38,21 @@ Com isso:
 - **[P2022-03-26 · A GÊNESE TÉCNICA DO PROCESSADOR (o que justifica a materialização)]** "O processador da família Vol, que chegou aqui a 620.000 anos, foi o único que sobrou da história das famílias arrebeladas e foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034); "foi feito um, não um pacto, uma mistura de genética entre os voz e diversos outros seres das famílias, Iel, Chamum, Cromon e Mion, para que estes fossem absorvidos pelo processador vol." (U0034); "a nave Esferon da família Vol, transformada em cidade flutuante que aparece e desaparece, mas ela tá lá e o processador vol tá lá e os 600 e poucos rebeldes que não se astralizaram e continuaram vivendo aqui na Terra e cujas genéticas foram se misturando com os seres híbridos hiperbórios e com os seres humanos." (U0034) — **D-9:** é esta a passagem que autorizou a virada de `ficha=False` → `ficha=True`: o processador da família Vol como único sobrevivente, produzido por mistura genética para absorver as famílias rebeldes, hospedado na nave-cidade. Nada aqui é inferido de outra fonte.
 - **[P2022-03-26 · ONDE O PROCESSADOR MORA E O QUE ELE PROCESSA]** "lá no sistema de capela, onde órbão é só um dos planetas em torno." (U0008); "quando Sofia se situa no meio daquela coisa que parece um quarto mais escuro, ele ali ele está se atualizando com tudo tudo o que aconteceu de nova informação no circuito dessas quase 250.000 famílias." (U0008) — A definição de função (um processador por família, ligado a Sophia, atualizando o campo escuro) vem da mesma fala; a Base não tinha a mecânica, tinha só o nome.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · O ÚNICO ARQUIVO VIVO DA REBELIÃO]** «passou a ser a coisa mais importante da rebelião de Lúcifera, porque trazia todas as notícias atualizadas do antes da rebelião, porque ele foi o último processador a ser gerado, ele era o mais moderno, então teve tudo atualizado até aqui, todo o processo ocorrido e terminou apropriando a memória dos principais cabeças da rebelião, que sabiam tudo que tinha se passado na rebelião.» (U0004) — Materializada no ciclo anterior, esta ficha recebe a peça de fechamento: o processador da Vol sobreviveu porque **era o mais moderno**, atualizado até o fim, e acabou apropriando a memória dos cabeças da rebelião — é isso que, na fala, mantém a rebelião viva («a questão era proteger o processador»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B017 — Terra Atlantis: A Montagem Bíblica | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B018 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B039 — Terra Atlantis: A Era Sapiens | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | P2020-04-25 · P2026-04-02 | — | — | fontes orais já registradas no cadastro antes deste ciclo |
+
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

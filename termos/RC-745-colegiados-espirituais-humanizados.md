@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
 | **Status** | ⚪ Candidato aprovado para integração |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -71,5 +71,14 @@
 
 - **[P2023-10-14 · O ADJETIVO «DEMODÁRMICO» GANHA DEFINIÇÃO ORAL (D-1)]** "Que tipo de honra esses seres sentem aqui na Terra não conhece a chamada honra demodármica, mas a honra demodármica é uma honra que foi criada em torno do conceito de dharma." (U0020); "Essa honra demodármica sempre se ancorou nas relações da linhagem, das linhagens genéticas." (U0020) — Decisão D-1 do Curador: nota transversal nesta ficha — o adjetivo já vivia aqui; a **honra** não vira código.
 - **[P2023-10-14 · O LEGADO MAL ENDEREÇADO]** "O conteúdo do legado que eles deixaram e nós humanos ficamos escutando essas palavras sem entender que no princípio isso foi criado para outro tipo de ser." (U0020)
+
+---
+---
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · COLEGIADOS ESPIRITUAIS HUMANIZADOS NA FALA DE 03/12/2023]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O PEDIDO POR TRÁS DOS COLÉGIOS]** «criem um método para vocês estudarem.» (U0004) — D-8: os colegiados ganham origem narrada: os não-humanos pediram que os humanos **inventassem um método**, com a promessa de aprenderem com o nível de compreensão alcançado. A constatação de que a Arca seria esse método fica no relatório — e é vedada como auto-legitimação na ficha.
 
 ---

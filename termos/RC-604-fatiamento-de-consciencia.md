@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Projeção de múltiplos eus ou identidades sustentados por um mesmo espírito ancestral em diferentes níveis, corpos ou avatares.
@@ -64,39 +64,6 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 
 - **[P2022-03-26 · FATIAMENTO DE CONSCIÊNCIA NA FALA DE 26/03/2022]** "É o problema do fateamento da consciência. Quando o Espírito de Jesus tava aqui e a turma decidiu criar isso aqui para ver como era. Ele ficou aqui, mas projetou uma parte dele para ser um avatar de experiência aqui." (U0034) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · FATEAMENTO: O MESMO ESPÍRITO MINISTRANDO DUAS CONSCIÊNCIAS]** "Aí ficou o mesmo espírito a ministrando duas consciências aqui. Essas duas consciências vieram para cá porque uma quis vir, outra veio." (U0034); "O homem Jesus morreu." (U0025) — D-5: é o mecanismo que sustenta a tese cristológica desta fala. Entra como **tese datada**, e o parágrafo da recusa no Tabor fica em `RC-072` para que não se leia fateamento como determinismo.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0187–U0201; U0212–U0243; U0361–U0368 | STT pré-curado e validado |
-| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
-
-
-
-## Citações-chave
-> “O mesmo espírito fica tomando conta dos dois. Aqui surge o fatiamento de consciência.” — P2021-12-04, U0187–U0201; U0212–U0243; U0361–U0368
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | envolve |
-| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | envolve |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
-| Jesus | RC-072 | envolve |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | envolve |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
-
-## Seres Associados
-Consultar as relações tipadas acima.
-
-## Observações
-Não confundir com fragmentação patológica humana; é mecanismo cosmológico da fala.
-
-**Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
-
 ---
 
 ## Atualização — P2026-07-30
@@ -125,3 +92,10 @@ Na resposta final, Shiva é apresentado como expressão de um espírito, enquant
 - **Ciclos de coma de Javé:** a consciência fatiada de Javé entra em ciclos de "coma" (seções 4.4, 9.1) — a urgência da intervenção humana (RC-001);
 - **Espíritos superiores compõem os cérebros:** "o espírito de Jesus já tendo influenciado o cérebro de Sofia" — os padrões dos muitos cérebros são compostos por espíritos (RC-009, RC-072);
 - A consciência fatiada é o que o Modelo Polvo explica: Javé como protoconsciência ancorada em diversos cérebros, "a curtíssimo prazo, porque a coisa não tá funcionando nos moldes em que foi operacionalizada".
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · FATIAMENTO DE CONSCIÊNCIA NA FALA DE 03/12/2023]** «Cada um coloca forma de poder no DNA de Enoque veio de quem ele gosta mais de nós três.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

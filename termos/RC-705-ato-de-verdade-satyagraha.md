@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.6 Ética / Carma / Compromissos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-15 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Ancoragem consciente numa verdade íntima demonstrada pela própria conduta, produzindo força moral e informacional sem depender de recompensa, reconhecimento ou convencimento externo.
@@ -34,28 +34,6 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 - **[P2023-11-19 · cap. 5.2]** "A prática da 'Satyagraha', uma expressão sânscrita que significa **'resistência pacífica e amorosa'**, ensinada por Gandhi, é recomendada como um meio de manter uma 'visão crítica' e uma 'distância prudente' [a síntese se corta]" — a Satyagraha como postura diante do desmonte (quarentena biográfica: Gandhi como referência).
 - **[P2023-11-19 · cap. 5.2 — o contexto]** a dignidade como "conceito supremo mais superlativo", capaz de tornar menores as discussões que dilaceram a humanidade — o par dignidade/Satyagraha.
 - 0 códigos novos (O-3).
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2025-02-15 | U0640–U0736; U1094–U1118; U1638–U1645 | aula/palestra STT |
-
-## Citações-chave
-> “Eu sou insignificante, mas trago em mim essa verdade e posso provar a mim mesma que sou honesta.”
-
-## Termos Relacionados
-| Termo | Código | Relação |
-|---|---|---|
-| Protagonismo Consciencial | RC-509 | realiza |
-| Decência Cósmica | RC-508 | relaciona-se-a |
-| Imperativo Categórico | RC-328 | relaciona-se-a |
-| Ética do Último Homem | RC-566 | relaciona-se-a |
-| Ciência Pessoal | RC-695 | orienta |
-| Postulados Quânticos | RC-703 | usa |
-
-## Observações Históricas
-As anedotas de Ashoka/Ganges e a causalidade da independência indiana são apresentadas como narrativa da palestra, não reconstrução histórica exaustiva.
-
 ---
 
 ## Nota pedagógica — P2025-07-18 — dignidade e resistência não violenta
@@ -63,3 +41,10 @@ As anedotas de Ashoka/Ganges e a causalidade da independência indiana são apre
 - **[P2025-07-18 · U00016–U00017]** No fecho, o expositor chama de resistência pacífica e amorosa o esforço de permanecer ligado à verdade íntima, agir com dignidade a cada segundo e não esperar um resultado externo como condição do ato.
 - **Cruzamento aprovado:** a nota de rito de passagem e a “sincronicidade profetizável” podem ser lidas transversalmente com RC-619 e RC-722, sem gerar novo termo ou relação.
 - **Quarentena:** trata-se de formulação ética/pedagógica do expositor; não é método clínico, garantia de destino ou prescrição religiosa.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · ATO DE VERDADE / SATYAGRAHA NA FALA DE 03/12/2023]** «usando a expressão sâns do satagrar, que a resistência pacífica e amorosa em torno da verdade que se acredita ser reto, real.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-11-19`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

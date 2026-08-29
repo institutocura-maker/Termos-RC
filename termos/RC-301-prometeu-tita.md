@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Prometeu** é o titã criador — da segunda geração de deuses (descendente de Urano), sobrevivente da guerra contra Zeus "por interesse" do Olimpo — que nos livros de Pandora "modela" as **"criaturas de barro"** e planeia o **"marco evolutivo"** das "criaturas de duas pernas" (os futuros *Homo sapiens sapiens*). Provocador de Zeus (as "peças" que humilham o chefe do Olimpo), paga o preço: persegue-o o pressentimento de que "o que está por ocorrer, nem você nem ninguém pode impedir" (o castigo que o mito clássico fixou no Cáucaso).
@@ -43,13 +43,19 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 
 - **[P2021-05-15 · O FOGO DE PROMETEU COMO RECICLAGEM DE INFORMAÇÃO (o elo com o filme)]** "É o fogo de Prometeu realmente queimando tudo e reciclando e colocando novas informações que nunca antes haviam sido trabalhadas." (U0016)
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · PROMETEU (TITÃ) NA FALA DE 03/12/2023]** «como a rebelião de Prometeu, foi algo que aconteceu nos Demobi, ou seja, várias rebeliões.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 1–15 | pp. 14–86 (PDF): as criaturas de barro; o pacto; o pressentimento | narrativa psicografada (Pandora) |
 | O Sorriso de Pandora (B020) | — | — | obra primária (versão canônica) |
 | Tempos Difíceis no Olimpo (B021) | — | — | obra primária |
+
 
 
 ## Citações-chave

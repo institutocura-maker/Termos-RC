@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.3 Dinastias extraterrestres |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Estirpe capelina da qual **Yel Luzbel (Lúcifer)** é integrante — a mais mencionada na narrativa psicografada de Jeane Miranda ("Os Livros de Yel Luzbel"). Segundo B057, a família Yel foi urdida há cerca de **492 milhões de anos** e era composta por **5.545 seres**, todos ligados entre si pelo **"Processador Yel"**. Yel Luzbel exercia o cargo de **Primeiro Pesquisador** da família. (Cronologia e números: narrativa psicografada — a confirmar nas obras primárias de Ellam.)
@@ -67,15 +67,22 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 
 - **[P2022-03-26 · FAMÍLIA YEL NA FALA DE 26/03/2022]** "foi chamada de traidora pelas demais e há 620.000 anos ela portou aqui na terra e ficou aqui." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · FAMÍLIA YEL NA FALA DE 03/12/2023]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A FAMÍLIA QUE VIU E FOI CONTAMINADA]** «A família Iel, que foi uma família criada para resolver um problema específico, um dos seus membros chamado Elusbell olhou, viu que tinha um problema ali, um defeito na criação, um problema no genoma, uma coisa que não funcionava dos termos em que a cultura comum disso aqui imaginava que seria e disse: "Ai, temos um problema." Quando ele disse isso, toda a cultura biodêmica ficou, ó.» (U0004) — A Iel deixa de ser lista de membros e passa a ter função no relato: criada para resolver um problema específico, foi dela o primeiro membro a perceber o defeito na criação — e dela o primeiro processador a dar guarida.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | narrativa psicografada (Yel Luzbel) |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | urdida há ~492 milhões de anos; 5.545 seres |
 | O Início da Revolta Capelina (B058) | — | p. 1 (sinopse) | família aguarda resposta de Sophia |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 67–68 (PDF) | desligamento do Processador Yel |
+
 
 
 

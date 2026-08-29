@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.3 Dispositivos / Instrumentos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Dispositivos psíquico-tecnológicos que **conectam todos os integrantes de cada família capelina** (o "Processador Yel", os "Processadores" da família Mion etc.), criados por **Sophia** junto com os próprios biodemos. Servem para comunicação, armazenamento e coesão do coletivo familiar; desligar-se do Processador equivale a deixar de existir "como ser coletivo" — e, segundo suspeita revelada no Livro 2, Sophia e suas Hostes poderiam acessá-los. (Narrativa psicografada de Jeane Miranda — conceito análogo ao "Processador Val", RC-089, das obras primárias.)
@@ -48,14 +48,20 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 - **[P2022-03-26 · PROCESSADORES FAMILIARES NA FALA DE 26/03/2022]** "lá no sistema de capela, onde órbão é só um dos planetas em torno." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A REDE INTEIRA E O QUE O VÍRUS FERROU]** "O vírus que surgiu com Lúciferrou esse processo. Ferrou com todos os processos." (U0008); "milhares de novos espermatozoides são produzidos a cada segundo no seu saque escrotal? Para atualizar as últimas informações que giraram nos seus neurônios, porque se ele transar, ele repassa. O que de mais atualizado ele tem em termos de informação colecionada com a mulher é a mesma coisa na progressão do óvulo que poderá ser fecundado ou não." (U0008) — A mecânica de atualização (espermatozoides e óvulo como portadores da mudança) é o detalhe que faltava na Base para ler `RC-089` e `RC-446` como a mesma infraestrutura em duas escalas.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · CADA FAMÍLIA, UM PROCESSADOR]** «cada um deles era ligado ao processador da família IEL. E esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — Os processadores familiares ganham definição operacional completa: campo mórfico que registra a atividade de todos, devolve orientação e coesa. A fonte diz também que um biodemo **não pode viver** sem ele — a dependência é lei da espécie, não costume.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF) | cada família possuía o seu próprio Processador |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 67 (PDF) | desligar-se do Processador = deixar de ser ser coletivo |
 | O Início da Revolta Capelina (B058) | Cap. 15 | p. 68 (PDF) | Sophia criou todos os Processadores |
+
 
 
 

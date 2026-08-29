@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Remissão
 
@@ -35,5 +35,14 @@
 
 - **[P2022-03-26 · YEL LUZBEL NA FALA DE 26/03/2022]** "A o centro de comando dessas quase 250.000 famílias, que é Sofia e os anjos Aia e Aie, dessas duas famílias que estão em torno de Sofia, disse: «Ó, esse problema aqui é mais sério»." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O CENTRO DE COMANDO DAS QUASE 250.000 FAMÍLIAS]** "os anjos aia e a batiam magneticamente nas famílias rebeldes porque havia esse tipo de cobrança e eles não sabiam responder." (U0009) — A família Yel/Luzbel aparece aqui como **polo de comando** e não como mito de origem; os anjos Aia/Aie são ditos *magnéticos*, com mais uma grafia degradada do STT.
+
+---
+---
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · YEL LUZBEL NA FALA DE 03/12/2023]** «ia infectar o processador da família Iel e infectou.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O PROCESSADOR VALIDOU]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das famílias Biodemo, quando chegou perto de 200 bilhões de seres com contaminados pelo vírus de Elosbel. Aí Sofia e os clones» (U0004) — O contágio de Lúcio passa a ter órgão e verbo: o processador da família Iel considerou a informação procedente e a família inteira foi contaminada instantaneamente. É a formulação mais compacta do que a Base chama de validação do que se pensa.
 
 ---

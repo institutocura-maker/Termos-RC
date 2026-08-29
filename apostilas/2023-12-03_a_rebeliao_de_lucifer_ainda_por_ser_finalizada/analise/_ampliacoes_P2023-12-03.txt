@@ -1,0 +1,468 @@
+# PACOTE DE AMPLIAÇÕES — P2023-12-03 · A Rebelião de Lúcifer ainda por ser Finalizada
+
+Fonte: `original.txt` do ciclo (03/12/2023, na sala, com selo interno na fala). Cada aspa é span verificado pelo caça-âncoras `_aspas_P2023-12-03.py`; os códigos e as âncoras-mestre são **lidos do dossiê aprovado** (`_gerar_textos_e_dossie_P2023-12-03.py`) por `ast`, para que não exista diferença entre o que o Curador leu e o que foi injetado. As travas D-1 (léxico de gênero), D-2 (quiasma das mulheres), D-3 (política), D-4 (máscaras), D-12 (pessoas nomeadas) e D-13 (calendário vedado em RC-200) são executadas por este script, e não por promessa — e o BLOCO 5 lista o que foi retido.
+
+### BLOCO 1 — seções a inserir nas fichas
+
+### RC-001
+- **[P2023-12-03 · JAVÉ NA FALA DE 03/12/2023]** «pendência dos problemas da criação de Javel, que ainda não foram resolvidos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O CARGO, NÃO A EXISTÊNCIA]** «Isso não é Deus, é só o criador.» (U0004) — D-5: a cláusula de leitura vem **anexada à aspa**, não solta — a frase não nega Deus; desloca o título de Deus do criador da obra. É tese oral de 03/12/2023, não doutrina da Base.
+
+### RC-002
+- **[P2023-12-03 · REBELIÃO DE LÚCIFER NA FALA DE 03/12/2023]** «a rebelião de Lúcifer não terminou, ela está ainda por ser finalizada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O QUE RESTOU E NÃO MORREU]** «o que restou da rebelião de Lúcifer e não morreu.» (U0004) — A definição que a fonte dá do resíduo da rebelião não é culpa, é **inconformismo**: «ideia viva de que algo de errado existe na gestão da vida e que é preciso ser superada». A ficha deixa de poder ser lida como narrativa de queda moral e passa a ter a formulação datada do que a fonte chama de face propositiva.
+
+### RC-003
+- **[P2023-12-03 · REINTEGRAÇÃO CÓSMICA NA FALA DE 03/12/2023]** «aquele mundo era reintegrado a convivência.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · ATÉ QUANDO, SEGUNDO A FONTE]** «Mas até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer.» (U0016) — D-13: a reintegração world-by-world recebe da fonte um horizonte declarado — «até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer» — que é **o que a fala diz**, não uma previsão da Base. O valor para a ficha é o procedimento (redistribuir os doentes e reintegrar o mundo), não o calendário; a janela viaja com endereço.
+
+### RC-005
+- **[P2023-12-03 · SEGUNDO ADVENTO DO CRISTO (VOLTA DE JESUS) NA FALA DE 03/12/2023]** «aí ele vem porque não tem outra opção.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A POSSE QUE NÃO HOUVE]** «Sabe aquela cerimônia de posse nunca houve.» (U0004) — D-6: a segunda vinda é lida pela fonte como **cerimônia de posse retida**, não como atraso. «posse» é metáfora de investidura no glossário, nunca rito histórico, e nenhuma relação de fundamento é aberta por esta entrada.
+
+### RC-007
+- **[P2023-12-03 · O ÚNICO TOQUE DE CAPELA NA PALESTRA]** «a respeito dos exilados de Capela. P p pá pá, impecáveis, maravilhosos.» (U0004) — A palestra menciona Capela **uma vez**, e a menção vem dentro de uma frase em que a fonte nomeia uma pessoa cuja obra ela leu — o nome fica na apostila (D-12) e aqui entra só o fragmento verificável do juízo. É registro de leitura, não de doutrina: nenhuma relação nova com `RC-006` (exilium) é aberta por esta entrada.
+
+### RC-009
+- **[P2023-12-03 · O SUZERANO COM TESTEIRAS FLOUXAS]** «Sofia é o representante da Trimurte nesse universo biológico. Então esse Sofia começou a espalhar o código de vida dele através de vários gêneros. E o último gênero que ele criou é esse aqui. Sofia atua nesse universo há mais de 6 bilhões de anos. No último 1 bilhão depois de ter criado insetoides, baratoides, dragonoides, uma série de cois. coisas extremamente esquisitas para nós humanos. Chiva também criou uma» (U0004) — A ficha passa a ter a definição de cargo: representante da Trimúrti neste universo biológico, com os seres de lá vindo «sem o menor respeito» por ele. É o par simétrico do que P2022-03-26 registrara como contaminação: aqui, a impotência administrativa.
+
+### RC-018
+- **[P2023-12-03 · ALT´LAM GRON NA FALA DE 03/12/2023]** «fizeram a experiência Alto Longró e se astralizaram junto. Se astralizaram, não é? Termina sendo. Passaram a viver dentro dessa nave e essa nave pulou umita para cima e continuou flutuando sobre o Oceano Atlântico Norte. Até hoje ela tá lá. E cerca de 900, quase 1000 seres dentro da nave, que é o» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A NAVE, O CENSO E A VISITA DATADA]** «Sofia esteve aqui nos anos 2018, 19 lá em Alto Longron, ou seja, na tal nave pequenininha dos Wall, onde cerca de 938 figuras aí estão e o processador Vol está lá.» (U0004) — D-10: materialização autorizada. A fonte entrega o que o cadastro não tinha: a grafia em quatro formas, o censo da nave (~1.000 → 938 a bordo, uns 600 e poucos na Terra) e **um evento datado** — a presença de Sofia ali em 2018-19. Nada é harmonizado com os 936/984 de ciclos anteriores: divergência selada (D-9).
+
+### RC-020
+- **[P2023-12-03 · ANJOS CAÍDOS NA FALA DE 03/12/2023]** «subtema do tema doutrina dos anjos decaídos.» (U0003) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · OS ANJOS QUE NÃO SOUBERAM LER]** «esses anjos são meio assim, são robôs, então eles só servem para E também não fizeram a leitura que a Elusb fez.» (U0004) — A doutrina dos anjos decaídos recebe a variante da fonte: os clones-robôs da Trimúrti examinaram o problema e **não fizeram a leitura que Luzbel fez**. O item ancora a taxonomia declarada no início da própria palestra (rebelião = subtema da doutrina dos anjos decaídos).
+
+### RC-024
+- **[P2023-12-03 · ANUNNAKIS NA FALA DE 03/12/2023]** «quando os Anunques chegaram aqui a 450.000 anos, A família Val já estava, as naves da família V já tinham pousado aqui as três.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-034
+- **[P2023-12-03 · BIG BANG NA FALA DE 03/12/2023]** «desde que essa criação teve início com a produção de dois universos, matéria e antimatéria.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · **⭐ antecipa em 11 meses** a fonte oral mais antiga (`P2024-11-09` → `P2023-12-03`); o efeito desta entrada é de **data**, além de conteúdo.
+
+### RC-035
+- **[P2023-12-03 · BILATÉRIOS NA FALA DE 03/12/2023]** «O nosso é bilatério.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-036
+- **[P2023-12-03 · BIODEMOS NA FALA DE 03/12/2023]** «seres produtos da matemática, não são seres que t emoção, não são seres que são sexuados, eram seres que sempre foram criados em casulos. Hoje existem quase 250.000 famílias diferentes de seres bion. São 249.400, não sei quantos. A última criada é algo que a gente, que eu chamo nos livros de» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · ASSEXUAÇÃO E CASULO, SÓ O DADO TÉCNICO]** «criados em casulos, em naves.» (U0004) — D-1: entra o dado (seres sem sexo, produzidos em casulos, nenhum nascido em planeta) e **não** o argumento sobre identidades. A frase da fonte sobre a Terra ter «dois» gêneros fica na apostila, com moldura.
+
+### RC-039
+- **[P2023-12-03 · CAPELA (SISTEMA) NA FALA DE 03/12/2023]** «cuja estrela nós aqui chamamos de capela, mas é um sistema de mundos da nossa galáxia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-01`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-040
+- **[P2023-12-03 · CFD (CÓDIGO FONTE DEFINIDOR) NA FALA DE 03/12/2023]** «padrões arquétipos do código fonte definidor do criador, que ou isso aqui fica organizado ou jamais esse ser aqui terá paz, terá condição psíquica de trazer para si tudo que dele foi fragmentado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-042
+- **[P2023-12-03 · CRIATURA UNIVERSAL NA FALA DE 03/12/2023]** «o cara que caiu teve que improvisar modelitos de última hora e foi.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O CRIADOR QUE NÃO PÔDE FAZER AVATAR]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — D-5: a assimetria da Trimúrti (um sem avatares porque a mente não sustenta mais de um ser) entra como tese datada com a cláusula de leitura da D-5 — trata de *cargo e capacidade*, não de inexistência.
+
+### RC-046
+- **[P2023-12-03 · DAN NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia. Celto. O Elan R tá na base da mitologia, o innoit dos esquimóis no Alasca. Estata de Danã na base da mitologia celta. E todas essas duas vieram das cidades de Hiperbólio. Uma terceira fonte» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · **⭐ ganho de anterioridade**: nenhuma fonte oral estava registrada nesta ficha; `P2023-12-03` passa a ser a mais antiga.
+
+### RC-049
+- **[P2023-12-03 · DEMOS NA FALA DE 03/12/2023]** «criaram um tipo de condição para eles de ter órgãos sexuais para poder fazer iguais aos mamíferos do universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-056
+- **[P2023-12-03 · ESPECIAÇÃO NA FALA DE 03/12/2023]** «isso implica dizer que na cabeça de Sofia surgiram 250.000 problemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-060
+- **[P2023-12-03 · ESPIRITUALIDADE OPERACIONAL NA FALA DE 03/12/2023]** «A espiritualidade teve que ser construída para que espíritos que estruturam esses dois tipos de universo possam existir.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-064
+- **[P2023-12-03 · FENVANS NA FALA DE 03/12/2023]** «um tipo de ser que eu sou obrigado chamar de fenvan, que é espécie de demo moderno.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O TERCEIRO PADRÃO DE GENÉTICA DEMO]** «genética demo chamada Fenvan.» (U0004) — A ficha ganha a posição do fenvan na série: não é espécie nova, é **padrão de atualização** da genética demo, o terceiro depois dos clones robotizados e do demo. A grafia do bruto varia e fica [REVISAR].
+
+### RC-068
+- **[P2023-12-03 · HIPERBÓREA NA FALA DE 03/12/2023]** «A turma do Hiperbório foi então construindo essas cidades.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-070
+- **[P2023-12-03 · ISOLAMENTO CÓSMICO NA FALA DE 03/12/2023]** «distribuíram nesses 19 mundos situados em vários sistemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-071
+- **[P2023-12-03 · JAN VAL ELLAM (ROGÉRIO DE ALMEIDA FREITAS) NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A CADEIA ELÃ → ENOQUE]** «esse Valan, que foi uma das figuras que o meu espírito personalizou, personificou, lá atrás, ficou vivendo aqui na Terra. E com essas duas questões dos 600 e poucos foram morrendo, mas isso foi na época, exatamente na época em que existiam terras aonde hoje é o polo norte. Foi na época do hiperbório. E lá no Polo Norte, muitas partes de terra que hoje não mais existem Porque todas sucumbiram no problema que iria» (U0004) — D-12: entra **só** a cadeia de encarnações que a fonte atribui ao espírito que a anima (Valan/Elã → Enoque), sem adjetivação confirmatória e sem as frases em que a fonte se coloca como «a última opção» dos três — essas ficam na transcrição, com moldura, e não aqui.
+
+### RC-072
+- **[P2023-12-03 · JESUS NA FALA DE 03/12/2023]** «Jesus se recusou a cumprir o papel de Messias violento.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-074
+- **[P2023-12-03 · LEN MION (SATÃ) NA FALA DE 03/12/2023]** «foi quando Lemion Satã invadiu lá as nossas defesas e ele foi, vamos assim dizer, caiu numa num arapuca amorosa e foi capturado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-078
+- **[P2023-12-03 · LÚCIFER (YEL LUZBEL) NA FALA DE 03/12/2023]** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-081
+- **[P2023-12-03 · MOHEN SO (AVATAR KESHAVA DE VISHNU) NA FALA DE 03/12/2023]** «criou um avatar chamado Rockmar em árabe e Sofia em grego.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-086
+- **[P2023-12-03 · O SORRISO PEDIDO NO FIM]** «possa sorrir nos termos em que Pandora um dia sorriu quando se viu.» (U0004) — A Pandora da fonte fecha o ciclo com um sorriso *emprestado*: o desejo explícito é que Luzbel sorria «nos termos em que Pandora um dia sorriu quando se viu». O bruto grafa `julgo` e corta ali; remissão a B020, sem fusão.
+
+### RC-089
+- **[P2023-12-03 · O ÚNICO ARQUIVO VIVO DA REBELIÃO]** «passou a ser a coisa mais importante da rebelião de Lúcifera, porque trazia todas as notícias atualizadas do antes da rebelião, porque ele foi o último processador a ser gerado, ele era o mais moderno, então teve tudo atualizado até aqui, todo o processo ocorrido e terminou apropriando a memória dos principais cabeças da rebelião, que sabiam tudo que tinha se passado na rebelião.» (U0004) — Materializada no ciclo anterior, esta ficha recebe a peça de fechamento: o processador da Vol sobreviveu porque **era o mais moderno**, atualizado até o fim, e acabou apropriando a memória dos cabeças da rebelião — é isso que, na fala, mantém a rebelião viva («a questão era proteger o processador»).
+
+### RC-092
+- **[P2023-12-03 · QUARTO LOGOS (OLM / CODIFICADOR DE ZIAN) NA FALA DE 03/12/2023]** «por isso eu escrevi o livro Quarto Lópos.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-093
+- **[P2023-12-03 · RADIATAS NA FALA DE 03/12/2023]** «no cérebro radiata dele não funciona.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-094
+- **[P2023-12-03 · REVELAÇÃO CÓSMICA (CONCEITO) NA FALA DE 03/12/2023]** «para nós vinculados à revelação cósmica, os que estão estudando esses assuntos, é só mais um capítulo de coisas esquisitas e de certas estranhezas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-104
+- **[P2023-12-03 · TRÊS FORMAS DE REPLICAR, UMA ESTÉRIL]** «Os três Eles da Trimur criaram três formas de replicação de replicação de vida biológica. Um nunca funcionou, mas os outros dois funcionaram. Esse ser, esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN. Esse outro forno chamado a Wiingan, era comandada por outra loca. Chiv era que mandava. e vida que começou a ser semeada nos mundos desse universo através de códigos que surgiam nesses» (U0004) — A Trimúrti deixa de ser só panteão e ganha ato técnico: criou três formas de replicação da vida biológica, uma das quais nunca funcionou — a mesma tríade dos fornos, agora com autor.
+
+### RC-106
+- **[P2023-12-03 · UNIVERSO ANTIMATERIAL (BRAHMALOKA / UNIVERSO PARALELO) NA FALA DE 03/12/2023]** «é um mundo antimaterial.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-109
+- **[P2023-12-03 · VAL (FAMÍLIA VAL) NA FALA DE 03/12/2023]** «não têm sensação de ser dono de nada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-136
+- **[P2023-12-03 · YEL (FAMÍLIA YEL) NA FALA DE 03/12/2023]** «A família Iel, que foi uma família criada para resolver um problema específico, um dos seus membros chamado Elusbell olhou, viu que tinha um problema ali, um defeito na criação, um problema no genoma, uma coisa que não funcionava dos termos em que a cultura comum disso aqui imaginava que seria e» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-142
+- **[P2023-12-03 · YEL LUZBEL NA FALA DE 03/12/2023]** «ia infectar o processador da família Iel e infectou.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O PROCESSADOR VALIDOU]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das famílias Biodemo, quando chegou perto de 200 bilhões de seres com contaminados pelo vírus de Elosbel. Aí Sofia e os clones» (U0004) — O contágio de Lúcio passa a ter órgão e verbo: o processador da família Iel considerou a informação procedente e a família inteira foi contaminada instantaneamente. É a formulação mais compacta do que a Base chama de validação do que se pensa.
+
+### RC-145
+- **[P2023-12-03 · ZEUS NA FALA DE 03/12/2023]** «Esse aqui já veio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-09-19`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-160
+- **[P2023-12-03 · ENTROPIA E NEGENTROPIA NA FALA DE 03/12/2023]** «A entropia destrói tudo.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O FINALIZADOR QUE NÃO FOI ESCOLHIDO]** «a entropia ou a força tamásica que a gente diz que foi chiva.» (U0004) — A entropia aparece como **ato de fechamento delegado**: como nada foi finalizado por projeto, a força tamásica finaliza. A frase do Q&A («Tudo. A entropia destrói tudo.») é a versão seca, e entra ao lado.
+
+### RC-161
+- **[P2023-12-03 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 03/12/2023]** «em elétrons e antielétrons sujos aqui dentro dessa matrix que é composta de duas bandas, um antimaterial, um material.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-163
+- **[P2023-12-03 · MENTE UNIVERSAL (EMERGENTE) NA FALA DE 03/12/2023]** «a mente dele é que define o que tem aqui dentro. Nesse outro nível, outra figura, ou seja, esses são chamados arcontes, são os donos disso aqui. Esse universo se organiza assim, esse aqui não. Esse aqui é sobre a forma de Galáxias. Cada galáxia tem estrelas, planetas. Isso aqui tudo faliu, mas tá» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-11-19`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-167
+- **[P2023-12-03 · CRIAÇÃO INDEVIDA (OBRA INDEVIDA) NA FALA DE 03/12/2023]** «esse foi improvisado na hora da queda, mas nenhum dos dois foi finalizado, porque quando ele tava aqui fora, antes dele finalizar esse que ele começou a planejar, ele caiu.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-176
+- **[P2023-12-03 · MODELO COLMEIA (SISTEMA/CONTROLE COLMEIA) NA FALA DE 03/12/2023]** «igual a formiga que vive lá embaixo e quer tá lá embaixo porque é o lugar bom para eles.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-186
+- **[P2023-12-03 · BIODEMOL NA FALA DE 03/12/2023]** «O demobiol é uma parte demo, mas o que prevalece é o biológico, que é a turma que veio dos fornos de Awaingan, de Chiva com emoção, com sexualidade. Então, essas três últimas vertentes, biodemo, demobio e demobiol, mas principalmente biodemo e demobiol, essas duas últimas, basicamente explicam tudo» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · OS NOMES QUE O AUTOR ENCONTROU]** «são os nomes que eu encontrei para poder chamar esses seres e Demo Biol.» (U0004) — A fonte **declara a invenção** dos termos da tríade (biodemo · demobio · demobiol) e troca a prevalência de um para o outro dentro do mesmo fôlego. Registro com [REVISAR]: a ficha não resolve a contradição, registra a autoria do neologismo.
+
+### RC-188
+- **[P2023-12-03 · MENTE COLETIVA / REDES PSÍQUICAS COLETIVAS NA FALA DE 03/12/2023]** «WhatsApp de rede, né?» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-189
+- **[P2023-12-03 · SÓ A ASPA APROVADA TRANSITA]** «foi o DNAzinho de Maria em Jesus que fez com que Jesus disse.» (U0004) — D-2: a âncora-mestre do dossiê nesta ficha («Depois que Eva disse…») atravessa uma máscara do STT e por isso foi **retida** (BLOCO 5) — o que se aproveita aqui é apenas a aspa da salvação pelo DNA de Maria, que a fonte põe na boca de Jesus. Na apostila as duas frases do quiasma ficam juntas, como ordem expressa; aqui não.
+
+### RC-200
+- **[P2023-12-03 · CUSTÓDIA, NÃO CALENDÁRIO]** «nós existimos para guardar essas informações, mas a cada vez que esse cérebro que morre, o espírito que anima esse corpo, escaneia as informações para passar para um outro cérebro e enquanto esse jogo durar, vai ser assim, mas no final tem que se tirar tudo e o resto tem que tá limpo para esse essa criação se apagar.» (U0038) — D-13: entra a **função** (cérebros e processadores como custódia temporária da informação até a finalização) e **não** a janela de anos que a fonte fixou em outro ponto da fala, nominalmente vetada nesta ficha. A escatologia datada fica na apostila (U0016) e em `RC-003`/`RC-344`, onde o despacho a colocou.
+
+### RC-204
+- **[P2023-12-03 · REALIDADE MAIOR / PARAÍSO ORIGINAL NA FALA DE 03/12/2023]** «todos esses seres são 100% pacíficos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-217
+- **[P2023-12-03 · DNA COMO PROJEÇÃO HOLOGRÁFICA DO PSIQUISMO DO CRIADOR NA FALA DE 03/12/2023]** «Isso tá tudo no nosso DNA desativado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-241
+- **[P2023-12-03 · SERES DOS PORTAIS NA FALA DE 03/12/2023]** «seres dos portais que invadiam a terra vindo desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-253
+- **[P2023-12-03 · LIBERDADE MENTAL (PREMISSA DO QUARTO LOGOS) NA FALA DE 03/12/2023]** «eles são livres, mas eles obedecem o comando.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-261
+- **[P2023-12-03 · KETHER (JAVÉ NA CABALA) NA FALA DE 03/12/2023]** «preparado o humano Jesus para servir a Keter ou javera ou brama.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-263
+- **[P2023-12-03 · SEFIROT / ÁRVORE DA VIDA NA FALA DE 03/12/2023]** «Não tem nada de árvore da vida, mas foi assim que os cabalistas chamaram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-280
+- **[P2023-12-03 · O QUE ELE EXPLICOU DEPOIS]** «ele explicou como Jesus ressuscitado, o porquê de não agir, porque não queria entrar em guerra com os arcontes do universo vizinho, que não queriam deixar que ele, Jesus, o ressuscitado, assumisse a vestimenta de verdadeiro herdeiro da trimurte e seu suzerano desse universo, como ele foi engendrado para ser.» (U0004) — A ressurreição é lida como resposta à inação: Sofia explica, como ressuscitado, por que não assume. Entrada com aspa e endereço; nenhuma relação nova com RC-005 além da que o cadastro já tinha.
+
+### RC-284
+- **[P2023-12-03 · CAOS = BRAHMA = JAVÉ (CORRESPONDÊNCIA) NA FALA DE 03/12/2023]** «foi estruturado pelo caos, a própria entropia vai destruir tudo, tem que se renovar.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-24`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-295
+- **[P2023-12-03 · DRAMA DO FECHAMENTO DOS PORTAIS NA FALA DE 03/12/2023]** «nos termos em que lá atrás se vinha através dos portais, porque é um mundo antimaterial.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-301
+- **[P2023-12-03 · PROMETEU (TITÃ) NA FALA DE 03/12/2023]** «como a rebelião de Prometeu, foi algo que aconteceu nos Demobi, ou seja, várias rebeliões.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-306
+- **[P2023-12-03 · APOLO NA FALA DE 03/12/2023]** «Se for Segon Chalan, se for Ares, Apolo, seja quem for, o próprio Krishna, que é esse aqui, como eu disse, que é o rigor, julgamento geral, bá bá, porque isso que ele pretende em termos de tradução dessa cefirá, se for qualquer um desses seres a assumir, nenhum deles tem o poder de engendrar uma» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-21`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-315
+- **[P2023-12-03 · O FIM DA LILA NA FALA DE 03/12/2023]** «sempre valeu foi a W que Xet criou lá atrás. Associada agora à gestão de Mauro CF como sendo o gestor universal. ancorados na educação que o quarto logos vai ofertar a quem escapar dessa história. Enquanto isso, todas as almas perturbadas do universo vizinho, as que já tem aqui, vão continuar» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-11-19`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-322
+- **[P2023-12-03 · DHARMA E CASTAS (ORIGEM DEMO) NA FALA DE 03/12/2023]** «substituir a única regra da erdo que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-344
+- **[P2023-12-03 · TRANSIÇÃO PLANETÁRIA NA FALA DE 03/12/2023]** «fez parar o processo de exídio dos espíritos que estavam sendo exilados aqui da Terra para mundos inferiores no processo de transição planetária.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O MARCO E A JANELA, COMO A FONTE OS DISSE]** «o ano 2050, ou é 50 ou é 51, 52, é uma dessas três áas, a partir de um certo que foi foi fincado o marco em 1989. Em julho de 9, alguém na espiritualidade fincou um marco, falando em nome das figuras mais altas que esse espírito conhece e disse até 2052, acho que 52 vai existir de tudo por aqui.» (U0016) — D-13: a fonte finca o marco em `1989` («Em julho de 9, alguém na espiritualidade fincou um marco») e a janela `2050, ou é 50 ou é 51, 52`. Entram **como ditos**, com a grafa degradada (`áas`, `foi foi fincado`) e sem cálculo de prazo: o `RELATORIO-DE-CICLO.md` é que registra que a janela **já estaria vencida** na data desta aplicação, sem harmonização corretiva e sem recálculo da data original.
+
+### RC-375
+- **[P2023-12-03 · DRUIDAS CELTAS (CONTEXTO RC) NA FALA DE 03/12/2023]** «início da lenda ou da mitologia celta que diz que faz gnomos passaram a existir na Irlanda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-03`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O QUE OS DRUIDAS RECEBERAM]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — D-8: os colégios entram como o *método pedido*, não como instituição étnica: os Túatha pediram que os humanos criassem um jeito de estudar o que recebiam. A etnicidade fica na transcrição, não na ficha.
+
+### RC-378
+- **[P2023-12-03 · A REBELIÃO DOS ELÉTRONS NA FALA DE 03/12/2023]** «devolver pela sua pulsação para o resto do universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-381
+- **[P2023-12-03 · RESSONÂNCIA MÓRFICA (AGENTE DA REBELIÃO) NA FALA DE 03/12/2023]** «esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-387
+- **[P2023-12-03 · FRAGMENTAÇÃO DO PODER MENTAL DA DIVINDADE NA FALA DE 03/12/2023]** «corpo mental dele foi esfaccelado em pequenas coisas nos dois universos, mas o eu dele caiu aqui porque ele preferiu improvisar esse universo, já que este no sub ente dele estava planejado quando ele ainda tava aqui fora.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-07-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-395
+- **[P2023-12-03 · RAGNAROK EM MARTE NA FALA DE 03/12/2023]** «a vida em Marte foi destruída devido a isso.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-08-08`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-414
+- **[P2023-12-03 · KRISHNA (AVATAR DE VISHNU/SHIVA) NA FALA DE 03/12/2023]** «Krishna tem o problema da demência demo, que faz com que ele se engrandeça além da conta e não perceba os pequenos detalhes da sua vulnerabilidade.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-415
+- **[P2023-12-03 · COLAPSO DA MATRIZ QUÂNTICA (3 NÍVEIS) NA FALA DE 03/12/2023]** «tempo for começar a ser rompido pela entropia, isso satisfaz.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-424
+- **[P2023-12-03 · LINHAGEM DOS ESCOLHIDOS (ADÃO, ENOCH, ABRAÃO, JACÓ) NA FALA DE 03/12/2023]** «Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-425
+- **[P2023-12-03 · KRISHNA COMO 'PRETENSO KESHAVA' NA FALA DE 03/12/2023]** «um avatar da sua categoria não era para sofrer o escândalo de uma maldição.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-426
+- **[P2023-12-03 · JAVÉ SEM AVATARES ('NÃO TENHO ISTO!') NA FALA DE 03/12/2023]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-432
+- **[P2023-12-03 · AGRESSIVIDADE CANALIZADA (DNA DOENTIO) NA FALA DE 03/12/2023]** «Ninguém tinha tinha algoritmo de raiva, de tristeza, de agressão.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-442
+- **[P2023-12-03 · FAMÍLIA YEL NA FALA DE 03/12/2023]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A FAMÍLIA QUE VIU E FOI CONTAMINADA]** «A família Iel, que foi uma família criada para resolver um problema específico, um dos seus membros chamado Elusbell olhou, viu que tinha um problema ali, um defeito na criação, um problema no genoma, uma coisa que não funcionava dos termos em que a cultura comum disso aqui imaginava que seria e disse: "Ai, temos um problema." Quando ele disse isso, toda a cultura biodêmica ficou, ó.» (U0004) — A Iel deixa de ser lista de membros e passa a ter função no relato: criada para resolver um problema específico, foi dela o primeiro membro a perceber o defeito na criação — e dela o primeiro processador a dar guarida.
+
+### RC-443
+- **[P2023-12-03 · FAMÍLIA MION NA FALA DE 03/12/2023]** «principalmente a cromon, miom, mas foi a primeira porrada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-444
+- **[P2023-12-03 · FAMÍLIA CROMON NA FALA DE 03/12/2023]** «principalmente a cromon, miom, mas foi a primeira porrada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-446
+- **[P2023-12-03 · CADA FAMÍLIA, UM PROCESSADOR]** «cada um deles era ligado ao processador da família IEL. E esse processador funciona como campo mórfico, que registra toda a atividade mental de todos os membros da família IEL, devolve para esses membros uma ou outra orientação e os membros, a familiel tem isso que a a gente chama hoje de WhatsApp de rede, né?» (U0004) — Os processadores familiares ganham definição operacional completa: campo mórfico que registra a atividade de todos, devolve orientação e coesa. A fonte diz também que um biodemo **não pode viver** sem ele — a dependência é lei da espécie, não costume.
+
+### RC-453
+- **[P2023-12-03 · HOSTES DE SOPHIA NA FALA DE 03/12/2023]** «Os anjos de Sofia trouidaram todo mundo, acabou todo mundo, morreu mesmo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-08-08`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-464
+- **[P2023-12-03 · INANNA (= DANU; ANUNNAKI) NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-474
+- **[P2023-12-03 · ARCONTES (= SOPHIAS E INDRAS; CONSELHO DOS 70) NA FALA DE 03/12/2023]** «esses são chamados arcontes, são os donos disso aqui.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-479
+- **[P2023-12-03 · BELIAL (ARCONTE; 'SATÃ' DO LIVRO DE JÓ) NA FALA DE 03/12/2023]** «figuras como Bel, como Lemion, como Tod, como outros tantos que existem e a gente nem tem noção, essas figuras, se a coisa continuar do jeito que tá, eles vão terminar assumindo funções no vazio de poder que a briga de Sofia com essas figuras desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-487
+- **[P2023-12-03 · ENLIL (DEUS SUMÉRIO, PAR DE ENKI) NA FALA DE 03/12/2023]** «fizeram a rebelião contra Enlio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-489
+- **[P2023-12-03 · ENOQUE (SÉTIMO PATRIARCA; LEVADO POR JAVÉ) NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A ELEIÇÃO PELA GENÉTICA]** «o DNA de Enoque era muito interessante para Javé.» (U0004) — D-9: a raptura de Enoque ganha motivo segundo a fonte (o DNA interesse de Javé) e suas idades coincidem com o que a ficha já registra — **convergência datada**, que o ciclo destaca como confirmação e não como revisão.
+
+### RC-496
+- **[P2023-12-03 · EREON (REGIÃO DOS CINCO ARCHEONS DA ESPIRITUALIDADE LABORATORIAL) NA FALA DE 03/12/2023]** «as famílias Vol, Iel, Nion, Cromon, Xum vieram paraa terra.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-506
+- **[P2023-12-03 · EKATMA (ADAM KADMON — HOMEM PRIMORDIAL) NA FALA DE 03/12/2023]** «Adão Cadimão ancestral.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-508
+- **[P2023-12-03 · DECÊNCIA CÓSMICA (ÉTICA ELLÂMICA) NA FALA DE 03/12/2023]** «Ou humanos são respeitados na sua dignidade existencial ou o genoma dos humanos que vocês retiram o tempo todo para as experiências não vai servir para porcaria nenhuma, porque vai ser igual aquele tipo de órgão de transplante que cede, mas o organismo que recebe o órgão rejeita e não vai servir.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-09-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-513
+- **[P2023-12-03 · ESPIRITUALIDADE ERRÁTICA (4ª FAIXA MANIFESTADA) NA FALA DE 03/12/2023]** «temos a erraticidade, ou seja, a espiritualidade.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-516
+- **[P2023-12-03 · HIBRIDIZAÇÃO GENÉTICA (NEFILIM REINTERPRETADO) NA FALA DE 03/12/2023]** «dois tipos de seres da terra.» (U0009) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-517
+- **[P2023-12-03 · PROTOCOLO MENTAL (PADRÕES ORGANIZADORES DA MENTE) NA FALA DE 03/12/2023]** «problema a de algoritmo e de protocolo.» (U0035) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-525
+- **[P2023-12-03 · O QUE FOI COLOCADO NO DNA HUMANO]** «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos livros que sobrou. Mas qual o problema? O problema é que existia vários seres já criados com função de autoridade» (U0004) — A semente da racionalidade recebe a autoria anunnaki segundo a fonte, com o par que a incomoda (inteligência **e obediência**). Entrada datada, sem harmonizar com as formulações das obras.
+
+### RC-528
+- **[P2023-12-03 · MERGULHO (DESIGNAÇÃO ELLÂMICA DA QUEDA) NA FALA DE 03/12/2023]** «o eu dele caiu aqui porque ele preferiu improvisar esse universo, já que este no sub ente dele estava planejado quando ele ainda tava aqui fora.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-07-30`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-530
+- **[P2023-12-03 · PISTIS SOPHIA (FEMININO CÓSMICO GNÓSTICO) NA FALA DE 03/12/2023]** «ele foi quem criou Sofia a partir de um acordo com esses dois.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-541
+- **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-546
+- **[P2023-12-03 · PRIMADO DA CONSCIÊNCIA CRIATIVA (GOSWAMI) NA FALA DE 03/12/2023]** «Nós humanos produzimos o bem, mas o bem não existe além dessa produção. Se os humanos não agirem bem, não vai ter bem na vida. Ai Deus bem, se ele produz bem, é para outro lugar, porque aqui não tem. Desculpem falar assim, mas compreendam o que restou da rebelião de Lúcifer e não morreu. A ideia» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-08-08`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O BEM SEM FALANGE]** «Não existe nenhuma falange que represente o bem.» (U0004) — O primado da consciência criativa ganha a negação simétrica: nenhuma hoste representa o bem; ele existe como produção humana. É a frase mais citável da palestra e por isso vai com endereço e sem paráfrase.
+
+### RC-559
+- **[P2023-12-03 · TEIA QUÂNTICA (O QUE SAI DE UM SER VOLTA PARA ELE) NA FALA DE 03/12/2023]** «o que sai de um ser volta para ele. O motivo pode ser um atenuante, mas para o er isso aqui, a destruição é complicada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · A REGRA ÚNICA E O QUE KRISHNA QUERIA TROCAR]** «o que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que se você matar sem ordem, isso não gera karma para você.» (U0004) — A teia quântica é apresentada como única regra e a crítica ao Bagavaguita como tentativa de substituí-la. Atenção: o bruto diz «se você matar sem ordem, isso não gera karma para você», o que contradiz a leitura corrente da fonte externa — **não se emenda**; fica como dito, com [REVISAR].
+
+### RC-575
+- **[P2023-12-03 · ANCORAGEM DO CONGLOMERADO TRIMURTIANO NA TERRA NA FALA DE 03/12/2023]** «a Trimurte tem que deixar de existir.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-579
+- **[P2023-12-03 · NOREIA (NOREA) NA FALA DE 03/12/2023]** «uma filha de Eva e Lilif, bandidos, todos bandidos, mas os bandidos são os heróis e heroínas da história.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-593
+- **[P2023-12-03 · MAHABHARATA NA FALA DE 03/12/2023]** «um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que se você matar sem ordem, isso não gera karma para você.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-602
+- **[P2023-12-03 · BLINDAGENS INTERDIMENSIONAIS (INTRAMUROS VIBRATÓRIOS) NA FALA DE 03/12/2023]** «duas bandas e uma blindagem em que aqui nós temos o universo antimaterial.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-604
+- **[P2023-12-03 · FATIAMENTO DE CONSCIÊNCIA NA FALA DE 03/12/2023]** «Cada um coloca forma de poder no DNA de Enoque veio de quem ele gosta mais de nós três.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-613
+- **[P2023-12-03 · TRINCHEIRA VIBRATÓRIA NO CAMPO INFORMATIVO NA FALA DE 03/12/2023]** «vai vibrar um pouquinho diferente, vai continuar aqui, mas a gente não vê mais a cadeira.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-619
+- **[P2023-12-03 · GENOMA DA LIBERDADE NA FALA DE 03/12/2023]** «Se coisas daqui forem despertas e vierem a habitar o nosso consciente, a gente vira bicho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-625
+- **[P2023-12-03 · CORPO MANÁSICO / CORPO MENTAL NA FALA DE 03/12/2023]** «o eu do criador com o seu corpo manásico que foi despedaçado, totalmente reconstruído.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-12-02`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-631
+- **[P2023-12-03 · CÉREBRO RADIATA NA FALA DE 03/12/2023]** «no cérebro radiata dele não funciona.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-632
+- **[P2023-12-03 · ORGANOIDES GENÉTICOS PARA SOPHIA NA FALA DE 03/12/2023]** «Para ele sentir emoção, a gente tem que criar um organoinho para ele, para ele colocar lá.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-638
+- **[P2023-12-03 · RESSURREIÇÃO DO CADÁVER DO CRIADOR NA FALA DE 03/12/2023]** «essa operação tem que estar numa massa crítica X para poder dar suporte à recreação do corpo do criador e o eu dele novamente ser instalado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-649
+- **[P2023-12-03 · SINGULARIDADE DE QUATRO CABEÇAS NA FALA DE 03/12/2023]** «duas cabeças, três cabeças, sexualidade, blá blá blá.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-09-09`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-658
+- **[P2023-12-03 · WYRD / URD (TEIA DO DESTINO) NA FALA DE 03/12/2023]** «a teia de Orlo.
+Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-20`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-672
+- **[P2023-12-03 · OS 366 MANUSCRITOS DE ENOQUE NA FALA DE 03/12/2023]** «os 366 livros de Enoque do dois pedaços de dois livros e mais coisas avulsas sobraram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · **⭐ antecipa em 11 meses** a fonte oral mais antiga (`P2024-11-03` → `P2023-12-03`); o efeito desta entrada é de **data**, além de conteúdo.
+
+### RC-673
+- **[P2023-12-03 · INTERCESSÃO DE ENOQUE PELOS ANUNNAKIS NA FALA DE 03/12/2023]** «percebe prisões que não eram dele, nem desse universo, nem desse, onde vários anunaques estavam presos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-682
+- **[P2023-12-03 · MALKUTH NA FALA DE 03/12/2023]** «a 10ma sefirado, quem é? É Sofia ou Rockban, que já existe, mas a exceção deste aqui, a exceção deste aqui e deste aqui, o resto não quer que ela seja os continue a ser o suzerano desse universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-702
+- **[P2023-12-03 · CAMUFLAGEM DA REALIDADE NA FALA DE 03/12/2023]** «criaram faixa de realidade simultânea para todo o quartel general de Lúcifer ser teletransportado para essa faixa de realidade.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-705
+- **[P2023-12-03 · ATO DE VERDADE / SATYAGRAHA NA FALA DE 03/12/2023]** «usando a expressão sâns do satagrar, que a resistência pacífica e amorosa em torno da verdade que se acredita ser reto, real.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-11-19`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-711
+- **[P2023-12-03 · UNIVERSO DE EGRÉGORAS EMOCIONAIS NA FALA DE 03/12/2023]** «movimento de consciência das chamadas trevas espirituais tem um poder que a gente não imagina de perturbar as coisas nesse universo vizinho e no nosso.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-08`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-713
+- **[P2023-12-03 · TAUMATURGIA GENÉTICO-QUÍMICA NA FALA DE 03/12/2023]** «várias uniões de DNA foram feitas para convencer o processador V, que é só um computador, a aceitar ser uma espécie de madrinha ou padrinho de todos esses seres o que se conseguiu fazer.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-718
+- **[P2023-12-03 · CUMPRIMENTO DA PROFECIA DE MOROS PELA REVELAÇÃO CÓSMICA NA FALA DE 03/12/2023]** «corresponde só o capítulo 11.» (U0028) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-725
+- **[P2023-12-03 · PONTO DE LUZ HUMANO / ILHA DE NEGENTROPIA NA FALA DE 03/12/2023]** «a gente ainda tá no meio da explosão.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-09-24`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-727
+- **[P2023-12-03 · DNA INSUBMISSO / LINHAGEM PANDORA–EVA–NOREIA NA FALA DE 03/12/2023]** «mantendo o inconformismo luciferiano.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-736
+- **[P2023-12-03 · ARISTOCRACIA OLIMPIANA E MONARQUIAS TERRESTRES NA FALA DE 03/12/2023]** «tipo uma rainha da Inglaterra, um rei da Inglaterra, em que todo mundo faz de tudo e de vez em quando ele mostra lá, cara.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-742
+- **[P2023-12-03 · FALÊNCIA DOS DEUSES NA FALA DE 03/12/2023]** «A somatória dos estresses extremos, da falência das religiões, da falência do psiquismo das pessoas, da falência de todas as utopias, da falência de tudo aquilo que os humanos sonharam.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-745
+- **[P2023-12-03 · COLEGIADOS ESPIRITUAIS HUMANIZADOS NA FALA DE 03/12/2023]** «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O PEDIDO POR TRÁS DOS COLÉGIOS]** «criem um método para vocês estudarem.» (U0004) — D-8: os colegiados ganham origem narrada: os não-humanos pediram que os humanos **inventassem um método**, com a promessa de aprenderem com o nível de compreensão alcançado. A constatação de que a Arca seria esse método fica no relatório — e é vedada como auto-legitimação na ficha.
+
+### RC-755
+- **[P2023-12-03 · ESCOLA DA DECIFRAÇÃO DA REALIDADE (MÉTODO DRUÍDICO) NA FALA DE 03/12/2023]** «criem um método para vocês estudarem.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O CONTRATO DO MÉTODO]** «nós queremos dar para vocês os nossos conhecimentos para que vocês descubram uma maneira de compreendê-los e nos explicar.» (U0004) — D-8: a Escola da Decifração recebe da fonte a sua **justificativa mítica**: discernir o erro e receber a verdade foi pedido expresso, e o isomorfismo com a ditagem enoquiíta é afirmado pela própria fala.
+
+### RC-757
+- **[P2023-12-03 · VAISHNAVISMO (VIXENUÍSMO — TRADIÇÃO HINDU DE ADORAÇÃO A VISHNU/KRISHNA) NA FALA DE 03/12/2023]** «na Índia com a tradição comarandã e se apresentou ali como sendo o criador.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-29`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-758
+- **[P2023-12-03 · QUARTO CÉREBRO (CENTRO DE SABEDORIA VIBRACIONAL) NA FALA DE 03/12/2023]** «tem dois cérebros ou duas câmaras cerebrais.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-762
+- **[P2023-12-03 · AS TRÊS ESCALAS DA CONSCIÊNCIA (SÁBIO → MAGO → INICIADO) NA FALA DE 03/12/2023]** «Criando um processador aqui dentro que faça o niroda.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### RC-770
+- **[P2023-12-03 · O QUE OS ARCONTES QUEREM]** «esses arcontes querem vir para cá. Aí querendo vir para cá, a velha ideia de que Sofia que ia mandar para eles não faz mais sentido, que eles querem mandar, até porque Sofia foi o responsável por ter preparado o humano Jesus para servir a Keter ou javera ou brama. E Jesus se recusou a cumprir o papel de Messias violento. Então quando Enoque mostrou isso aqui a toque Tot começou a fazer uma leitura disso aqui junto» (U0004) — A hipóstase ganha motivo concreto na fala: a obstrução à posse existe porque o universo deles está acabando. Entrada com aspa; nada de relação nova com RC-474 além da já registrada.
+
+### RC-771
+- **[P2023-12-03 · FORNOS REPLICADORES (NAVES/ESTAÇÕES DE SEMEADURA DE VIDA DO PROJETO TALM; AWAYEN, AWAYLENGAN E AWAYMAION) NA FALA DE 03/12/2023]** «esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+### BLOCO 2 — códigos sem arquivo em `termos/` antes deste ciclo (vínculo de malha + o que a fonte disse)
+
+
+Nestes códigos **não há `## Ampliação` para inserir**: o vínculo `P2023-12-03` vive em `ferramentas/dados_termos.py` e o conteúdo fica aqui, à espera de materialização. Dois deles (RC-018 e RC-040) **são materializados** por este ciclo por ordem expressa do despacho (D-10); os demais permanecem `ficha=False`.
+
+
+- `RC-034` — Big Bang: sem materialização autorizada
+- `RC-035` — Bilatérios: sem materialização autorizada
+- `RC-060` — Espiritualidade Operacional: sem materialização autorizada
+- `RC-093` — Radiatas: sem materialização autorizada
+- `RC-109` — Val (Família Val): sem materialização autorizada
+- `RC-136` — Yel (Família Yel): sem materialização autorizada
+- `RC-163` — Mente Universal (Emergente): sem materialização autorizada
+- `RC-186` — Biodemol: sem materialização autorizada
+- `RC-189` — Eva (figura): sem materialização autorizada
+- `RC-280` — Sophia e a Ressurreição de Jesus: sem materialização autorizada
+- `RC-306` — Apolo: sem materialização autorizada
+- `RC-315` — O Fim da Lila: sem materialização autorizada
+- `RC-344` — Transição Planetária: sem materialização autorizada
+- `RC-375` — Druidas Celtas (contexto RC): sem materialização autorizada
+- `RC-387` — Fragmentação do Poder Mental da Divindade: sem materialização autorizada
+- `RC-444` — Família Cromon: sem materialização autorizada
+- `RC-508` — Decência cósmica (ética ellâmica): sem materialização autorizada
+- `RC-528` — Mergulho (designação ellâmica da queda): sem materialização autorizada
+- `RC-546` — Primado da Consciência Criativa (Goswami): sem materialização autorizada
+
+
+### BLOCO 3 — SELO TEMPORAL, DIVERGÊNCIAS E CONVERGÊNCIAS (D-9, por ordem expressa do Curador)
+
+Nenhuma cifra foi arredondada, média ou reconciliada. O que diverge, diverge **datado**:
+
+- `932 milhões` de anos para o forno de Vígno (esta fala, U0004) × `936` (P2022-03-26) × `984` (P2020-04-25): três idades para o mesmo forno, todas com endereço, nenhuma preferida — a ficha `RC-771` carrega as três;
+- `250.000` famílias biodêmicas e, na frase seguinte, `249.400, não sei quantos` × `250 espécies` (2022): a grandeza mudou de unidade (famílias × espécies), e por isso **não se concilia**;
+- `938` a bordo da nave, precedido de `cerca de 900, quase 1000` × `936`/`900Q` (2022) × `13 membros` (cadastro, em `RC-491`): quatro magnitudes para a tripulação; a Base mantém as quatro;
+- rebeldes sobreviventes ditos **em autocorreção ao vivo**: `1300 e pouco, não, 1700 e pouco, perto de 2000` — os três valores entram, porque a correção é o dado;
+- `4.380.000 anos` para a soneca do eu de Javé, sem par na Base (as eras `RC-567`/`RC-569` operam em 25.920 e 2.160 — escala diferente, não divergência a reconciliar);
+- `1947` dado pela fonte como o ano de *A Caminho da Luz* — a data é da fala; nenhuma ficha de obra é criada e nenhuma correção bibliográfica é feita por este ciclo;
+- **três convergências com destaque de confirmação (ordem expressa D-9)**: os `736` efetivos da família Vol (2020 · 2022 · **2023**, pela terceira vez, sem anotação); as idades de Enoque `67 + 300 + os 366` que já estão em `RC-489`/`RC-672`; e os `200 bilhões` de contaminados ditos de novo com o mesmo algarismo de 2022. São confirmações, não revisões — e a Base as registra como tal.
+
+### BLOCO 4 — cruzamentos, radar e metadados de enunciação (D-11, D-12, D-13)
+
+**Remissões a obras já catalogadas** (D-11: só obra existente; 0 obra nova):
+
+- a fonte nomeia a primeira trilogia — `B003`/`B025`/`B026` (*Reintegração Cósmica*, *Caminhos Espirituais*, *Carma e Compromisso*) — como o lugar onde a rebelião foi tratada por alto, e o diz para justificar o título: «nenhuma dessas duas trilogias Eu falei claramente que acabou»; remissão em `RC-002`, `RC-003`, `RC-078`;
+- a trilogia `B017`/`B018`/`B039` (*Terra Atlantis*) é citada como onde «o nome dessas naves» e das famílias está explicado; remissão em `RC-089`, `RC-109`, `RC-142`, `RC-442`;
+- `B016` (*O Quarto Logos*) é citado **pela função** que a fonte lhe dá — suprir a deficiência educacional de Sofia, na fórmula da nota de `RC-092`; remissão em `RC-092`, `RC-253`;
+- `B020` (*O Sorriso de Pandora*) é o intertexto do fecho («o próprio Elosbel possa sorrir nos termos em que Pandora um dia sorriu»); remissão em `RC-086`, `RC-727`;
+- `B044` (*A Divina Colmeia*) cobre o processador-família como campo mórfico; remissão em `RC-176`, `RC-446`, `RC-381`;
+- `B057`/`B058` cobrem a revolta do anjo decaído e o início da revolta capelina, que a fala de 2023 descreve por dentro (a validação do processador da família Iel); remissão em `RC-074`, `RC-078`, `RC-142`;
+- `B021` (*Tempos Difíceis no Olimpo*) é o quadro dos «seres dos portais» que Tot estudava; remissão em `RC-241`, `RC-295`.
+
+**Radar datado (0 obra criada, 0 linha de catálogo — D-11):** `Projeto Tal` é anunciado como livro futuro («se tempo de vida eu tiver, ainda vai sair um livro com esse nome»); a **palestra sobre a gênese da hibridagem** é anunciada como algo que a fonte nunca teve «coragem nem saco» de fazer e que exigiria várias preliminares; a explicação da diferença *subjacente/adjacente* e o **terceiro fator** que parou o expurgo são declarados retidos pela própria fonte. Os quatro ficam aqui, com data, e viram nada.
+
+**Metadados de enunciação (D-12):** plateia nomeada só para responder (Rogério, Jan, Márcia, Horácio, «T César», «João Altair»); dois selos internos de data na fala («nesse dia 3 de dezembro do ano 2023» e «nessa sala hoje, dia 3 de dezembro de 2023»); o intervalo declarado no meio (com o «nível três de desgosto»); três referências ao dia anterior, que fazem deste ciclo a palestra **anunciada** por `P2023-12-02`. Nada disso gera entidade, ficha ou relação: é o quadro em que a fala foi dita, e assim a apostila o transcreve.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+
+- `RC-189` (âncora-mestre) → **D-4 · máscara do STT no span** — span começava em «Depois que Eva disse: "Mas que p**** é essa?…»
+- `RC-760` (âncora-mestre) → **D-4 · máscara do STT no span** — span começava em «com o nosso cita sagrado, que é cita, é o núcleo mental formados por F…»
+- `RC-760` (O NÚCLEO MENTAL E SUAS ATIVIDADES DOENTIAS) → **D-4 · máscara do STT no span** — span começava em «com o nosso cita sagrado, que é cita, é o núcleo mental formados por F…»
+

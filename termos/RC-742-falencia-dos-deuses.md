@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
 | **Status** | ⚪ Candidato aprovado para integração |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 
@@ -81,5 +81,13 @@
 
 - **[P2022-03-26 · FALÊNCIA DOS DEUSES NA FALA DE 26/03/2022]** "Os caras conseguem fazer nada." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A FALÊNCIA DECLARADA: OS DEUSES NÃO SABEM O QUE FAZER]** "Só que fali o sistema. Nós nos corrompemos a tal ponto que não há um que não esteja infectado. Não são os outros, somos nós, cada um de nós." (U0005); "Quem é que vale mais, cara? Quem tem mérito espiritual na história? Alguém que já foi criado perfeito e é perfeito porque é perfeitinho por natureza ou alguém que nasce no caos fazendo favor divino e consegue ainda assim se soerguer e tenta ser útil." (U0029) — A frase de fechamento (*quem medita, quem é espiritual…*) é a que a fonte usa para inverter a hierarquia: o divino precisa do humano. Registrar que a falência é **de função**, não de existência — a mesma fala afirma os deuses o tempo todo.
+
+---
+---
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · FALÊNCIA DOS DEUSES NA FALA DE 03/12/2023]** «A somatória dos estresses extremos, da falência das religiões, da falência do psiquismo das pessoas, da falência de todas as utopias, da falência de tudo aquilo que os humanos sonharam.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---

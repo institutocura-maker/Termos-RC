@@ -5,7 +5,7 @@
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Naves ou estações gigantescas de semeadura de vida biológica, construídas pela Trimurti para viabilizar o **Projeto Talm** (RC-091): **Awayen** (de Brahma/Javé), **Awaylengan** (de Shiva) e **Awaymaion** (de Vishnu — RC-499). Também chamados de "laboratórios dimensionais" ou "Centrais de Realidades". Criados para produzir seres capazes de atravessar e viver num universo com leis de Física e Química diferentes, onde antimatéria e matéria não se anulassem.
@@ -48,45 +48,6 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
 
 - **[P2022-03-26 · FORNOS REPLICADORES NA FALA DE 26/03/2022]** "fornos de replicação de vida nesse universo foram criados três Aen, a maon, a Lingan, um nunca funcionou." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
-
-## Fontes
-| Obra/palestra | Localização | Tipo |
-|---|---|---|
-| P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
-| P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Partes I–III (integral) | material do curador |
-| P2024-05-04-R — Prabrajna em Perpérion | U1300–U1450 | STT pré-curado |
-| P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0619–U0622 (STT 'Alamaior') | STT pré-curado |
-| Fontes anteriores da Base | B061 | apoio/remissão |
-
-
-
-## Citações-chave
-> "Para a semeadura da vida biológica, três Fornos Replicadores foram descritos: Awaylengan (de Shiva), Awaymaion (de Vishnu) e Awayen (de Brahma); essas estruturas cósmicas, também chamadas de laboratórios dimensionais ou naves/estações gigantescas, foram responsáveis por projetar e semear diversas espécies." — P2024-05-04-R, U1300–U1450 (via RC-091)
-
-> "Awaymaion... é o responsável pela emergência do gênero existencial 'biodemo'." — ART-2025-08-01, Parte III
-
-## Termos Relacionados
-| Termo | Código | Tipo de relação |
-|---|---|---|
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | inclui |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Val Tam | RC-132 | relaciona-se-a |
-| Olm (Quarto Logos) | RC-092 | relaciona-se-a |
-| Fenvans | RC-064 | relaciona-se-a |
-| Radiatas | RC-093 | relaciona-se-a |
-| Bilatérios | RC-035 | relaciona-se-a |
-
-## Seres Associados
-Brahma/Javé (RC-001/037), Shiva (RC-102), Vishnu (RC-135), Sophia (RC-009), Mohen So (RC-081), Olm (RC-092), Val Tam (RC-132), biodemos (RC-036).
-
-## Observações
-- Awayen e Awaylengan não possuem códigos próprios: estão descritos nesta ficha como sub-entes do nó RC-771 (o único forno com código próprio é Awaymaion — RC-499);
-- **Natureza da fonte:** ART-2025-08-01 é material de sistematização do curador baseado em Ellam — não é fonte primária do autor; tudo permanece "leitura de Ellam via sistematização do curador";
-- **Quarentenas:** datas (Shiva ~12,17 bi anos; Vishnu ~4,1 bi anos; bilatério ~4 bi anos) [REVISAR — conferir B050]; taxonomia radiata/bilatério = leitura da RC, não neurociência; "CFDP doente"/"zumbi de si mesmo" = leitura teológica de Ellam.
-
-**Regra de status:** 🟡 provisório — criado por autorização excepcional do curador (O-3, Devolutiva ART-2025-08-01); aguarda confirmação em fonte primária (B###/áudio) para promoção a definitivo.
-
 ---
 
 ## Reforço — P2025-07-18 — nomes e atribuições preservados
@@ -94,3 +55,10 @@ Brahma/Javé (RC-001/037), Shiva (RC-102), Vishnu (RC-135), Sophia (RC-009), Moh
 - **[P2025-07-18 · U00014–U00016]** A fala retoma os três fornos como **Awayen, Awaymaion e Awaylengan**, associados respectivamente a Brahma, Vishnu e Shiva, e liga a transferência/organização da vida ao Projeto Talm e a Morren So.
 - **Cruzamento estrutural aprovado:** preservar a leitura em conjunto com RC-454 e RC-091, sem criar fichas para os componentes e sem alterar a malha.
 - **Quarentena:** fornos, plasma, cérebro radiato e transferência interuniversal permanecem em registro ufológico/cosmológico do autor, não em literalidade científica.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · FORNOS REPLICADORES (NAVES/ESTAÇÕES DE SEMEADURA DE VIDA DO PROJETO TALM; AWAYEN, AWAYLENGAN E AWAYMAION) NA FALA DE 03/12/2023]** «esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---

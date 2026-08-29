@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Intervenção técnica atribuída a taumaturgos como Jesus, Sai Baba e Apolônio de Tiana, combinando leitura do genoma, elementos químicos, enzimas, proteínas, saliva, minerais e intenção para corrigir condições consideradas curáveis.
@@ -59,14 +59,20 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 
 - **[P2022-03-26 · TAUMATURGIA GENÉTICO-QUÍMICA NA FALA DE 26/03/2022]** "eu solto uma sonda lá no reino de Marcela e mentalmente aciono a sonda lá paraa sonda esculhambar com os vírus do corpo que estão no corpo de Marcelo. Aí Marcelo solta uma sonda na minha casa, se concentra, essa sonda checa tudo que é vírus e bactéria que tá por ali. E a eram guerras assim tecnentais. A guerra mental você tira som é a mesma coisa." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · TAUMATURGIA GENÉTICO-QUÍMICA NA FALA DE 03/12/2023]** «várias uniões de DNA foram feitas para convencer o processador V, que é só um computador, a aceitar ser uma espécie de madrinha ou padrinho de todos esses seres o que se conseguiu fazer.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-02-15 | U0737–U0770 | aula/palestra STT |
+
 
 
 

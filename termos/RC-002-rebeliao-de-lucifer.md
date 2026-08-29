@@ -5,7 +5,7 @@
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil anos** no Sistema de Capela, que gerou um "vírus" que contaminou mais de **213 bilhões de seres** (pandemia generalizada). Essa pandemia levou a uma rebelião por volta de **687 mil anos**, culminando no **isolamento cósmico** de seres em **19 planetas** há aproximadamente **619 mil anos** (B031). (Definição do glossário de B031; cronologia a confirmar nas obras primárias.)
@@ -117,14 +117,21 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[P2022-03-26 · REBELIÃO DE LÚCIFER NA FALA DE 26/03/2022]** "O nosso amigo Lúcifer criou um vírus há cerca de 700.000 anos. que não existia como COVID-19 que surgiu de 2000 do ano 2000 para cá na família dos coronavírus." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · A REBELIÃO COMO EPIDEMIA, NÃO COMO CULPA]** "aquele primeiro código que entrou no nosso universo, vindo do universo vizinho, é um vírus." (U0007); "Sofia parou de entrar naquela coisa lá. Foi um problema de saúde pública. Ninguém tava chateado, nem triste, nem revoltado." (U0008) — O deslocamento decisivo desta fala em relação a P2020-04-25: o vocabulário da queda é **sanitário** (*problema de saúde pública*, *quarentena*, *sequela*). Registrar que a moral foi substituída por epidemiologia, sem apagar a autoria (Lúcifer é nomeado como quem criou o agente).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · REBELIÃO DE LÚCIFER NA FALA DE 03/12/2023]** «a rebelião de Lúcifer não terminou, ela está ainda por ser finalizada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
+- **[P2023-12-03 · O QUE RESTOU E NÃO MORREU]** «o que restou da rebelião de Lúcifer e não morreu.» (U0004) — A definição que a fonte dá do resíduo da rebelião não é culpa, é **inconformismo**: «ideia viva de que algo de errado existe na gestão da vida e que é preciso ser superada». A ficha deixa de poder ser lida como narrativa de queda moral e passa a ter a formulação datada do que a fonte chama de face propositiva.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 140 (aprox.) | verbete "Rebelião de Lúcifer" |
 | Painéis Emergentes... (B031) | Cronologia Aproximada dos Eventos | — | a conferir |
 | A Sétima Trombeta do Apocalipse (B004) | a preencher | — | pendente (obra primária) |
+
 
 
 

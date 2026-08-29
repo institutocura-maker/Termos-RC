@@ -55,7 +55,12 @@ for rel in ARQS:
             partes = [p.strip(" .,;") for p in re.split(r"[\"“”]", cand) if len(p.strip()) >= 25]
             for p in partes or [cand]:
                 if p not in BRUTO:
-                    if re.sub(r"[*`_]", "", p).strip().casefold() in DEVOL:
+                    if " ".join(re.sub(r"[*`_>#]", " ", p).split()).casefold() in DEVOL:   # 2º corpus: o DEVOL nasce com
+                        #           espaços colapsados e sem > ` _ # (marcação markdown); o candidato
+                        #           vinha colado sem o mesmo tratamento. Assimetria do instrumento, não
+                        #           do texto — o teste contra o bruto, acima, segue byte a byte.   # 2º corpus: o DEVOL nasce sem > ` _ # (é bloco
+                        # markdown); o candidato vinha com eles dentro. Assimetria do instrumento — o teste
+                        # contra o bruto, logo acima, continua byte a byte e case sensitive.
                         n_dev += 1
                         continue
                     err_B.append(f"{rel}: não encontrado no bruto → «{p[:110]}»")

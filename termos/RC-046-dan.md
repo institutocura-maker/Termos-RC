@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.1 Planetas / Sistemas estelares |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-25 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 **Dan** é o "mundo" do sistema de Capela (RC-039) no qual Yel Luzbel (RC-078) nasceu — descrito como uma **grande nave-laboratório** onde os membros das famílias de capelinos eram urdidos ("nascemos 'prontos', ou seja, já habilitados para atuarmos como cientistas e pesquisadores"). Era administrado por seres que, confrontados com as questões de Yel Luzbel, "levaram um grande susto".
@@ -26,13 +26,19 @@ Termo do universo capelino da RC (glossário B031; presente também em B058). No
 - **[B058 p. 63]** o retiro de Yel Luzbel: "**Voltei para o meu planeta Dan, escondi-me de todos** e passei a refletir sobre o rumo que a 'causa' estava a tomar."
 - 0 códigos novos (O-3). Quarentena ufológica (O-7).
 
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · DAN NA FALA DE 03/12/2023]** «a lenda dos Turatas de Danã, que ali chegaram das cidades de Hiperbório, ainda existe na base da mitologia. Celto. O Elan R tá na base da mitologia, o innoit dos esquimóis no Alasca. Estata de Danã na base da mitologia celta. E todas essas duas vieram das cidades de Hiperbólio. Uma terceira fonte» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · **⭐ ganho de anterioridade**: nenhuma fonte oral estava registrada nesta ficha; `P2023-12-03` passa a ser a mais antiga.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | A Revolta do Anjo Decaído (B057) | Cap. 1 | p. 15 (PDF): urdidura na grande nave-laboratório | narrativa psicografada (Yel Luzbel) |
 | A Revolta do Anjo Decaído (B057) | Cap. 3 | p. 27 (PDF): "o mundo chamado 'Dan', no qual eu nasci" | narrativa psicografada |
 | O Início da Revolta Capelina (B058) | — | — | base do termo (ciclo futuro) |
 | Glossário Raquyel (B031) | — | — | base do termo |
+
 
 ## Citações-chave
 > "Nasci no longínquo sistema solar de Capela. **Fui urdido numa grande nave-laboratório, como os demais membros das famílias de capelinos** que também existiam por lá. Nascemos 'prontos', ou seja, já habilitados para atuarmos como cientistas e pesquisadores." — B057, p. 15

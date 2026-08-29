@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
 | **Status** | ⚪ Candidato |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Teia germânico-nórdica de destino, causalidade e retorno das informações, organizada por Moros e atualizada como Ifá.
@@ -83,45 +83,6 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 
 - **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes.]
 - **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
-
-## Fontes
-| Fonte | Localização | Tipo |
-|---|---|---|
-| P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
-| P2025-06-26 | ver dossiê | live/STT |
-| P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
-
-
-## Citações-chave
-> Ver P2025-06-26.
-
-## Termos Relacionados
-| Termo | Código | Relação |
-|---|---|---|
-| RC-467 | — | relaciona-se-a |
-| RC-454 | — | relaciona-se-a |
-| RC-655 | — | relaciona-se-a |
-
-## Seres Associados
-Consultar Base.
-
-## Observações
-Correspondências culturais são atribuídas à leitura de Val Ellam, não a consenso acadêmico.
-
-## Reforço — P2025-03-15
-
-O curador confirmou que as formas deformadas pelo STT — “W”, “WD”, “AD”, “Erde” e “ade”, neste trecho — devem ser lidas como **Wyrd/Urd**. A palestra reforça a função de organizar o fluxo das informações segundo o algoritmo “o que sai de um ser volta para ele”, sem origem primária em punição ou justiça.
-
-Para esta fonte, não atribuir o trecho a RC-560 WD.
-
-**Fonte:** P2025-03-15, U1095–U1096 e U1134–U1147 — fonte incompleta.
-
-## Reforço — processador criado por Moros / P2024-11-30
-
-Wyrd/Urd é detalhada como o “hardware” ou processador quântico criado por Moros para aglutinar códigos-fontes, organizar Informações Vivas e fazer retornar a cada ser a informação que dele sai. A função original é organizacional, não punitiva.
-
-WERD/W/ERD do STT são tratados como provável Wyrd. A equivalência integral com RC-560 WD permanece sem fusão automática.
-
 ---
 
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
@@ -147,3 +108,11 @@ WERD/W/ERD do STT são tratados como provável Wyrd. A equivalência integral co
 - **[P2025-07-18 · U00014–U00016] A teia como organização:** Moros/Orlog é descrito como criador de um processador em que a informação que sai de um ser retorna a ele; o mecanismo é apresentado como organização do fluxo, não como justiça divina. A fala nomeia três processadores/seres com formas STT próximas de `Urdre`, `Vivendre` e `Scud/Schuld`.
 - **Grafia e escopo:** a forma canônica **Wyrd/Urd** permanece. As formas dos componentes são preservadas como variações a revisar e não são automaticamente apagadas ou convertidas em novos seres.
 - **Quarentena:** a relação entre intenção, fóton, matéria e não-localidade é leitura cosmológica do expositor; não é afirmação de física estabelecida.
+---
+
+## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
+
+- **[P2023-12-03 · WYRD / URD (TEIA DO DESTINO) NA FALA DE 03/12/2023]** «a teia de Orlo.
+Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-20`); a entrada desta fonte é de **conteúdo**, não de data.
+
+---
