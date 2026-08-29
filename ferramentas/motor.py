@@ -45,6 +45,7 @@ Regras de construção, obrigadas pelo histórico medido dos 71 ciclos:
 from __future__ import annotations
 
 import argparse
+import subprocess
 import bisect
 import datetime
 import glob
@@ -677,6 +678,9 @@ def ancorario(c: Ciclo) -> None:
     with open(destino, "w", encoding="utf-8") as fh:
         json.dump(reg, fh, ensure_ascii=False, indent=1)
     n_ok = sum(1 for s in reg["spans"] if s["verificada"])
+    if not reg["spans"]:
+        chk(False, "", "o pacote não tem uma aspa sequer: nada foi garimpado ainda — o ciclo não "
+                       "fecha vazio por omissão, e sim por declaração no `.toml`")
     chk(n_ok == len(reg["spans"]) and reg["spans"],
         f"livro-razão {os.path.basename(destino)}: {len(reg['spans'])} spans verificados · "
         f"{len(reg['recusa'])} recusadas com motivo",
@@ -895,9 +899,195 @@ def status(c: Ciclo) -> None:
     print(f"  portões ativos {''.join(c.portoes_ativos)} · teto {c.teto} · baseline {c.baseline[:7]}")
 
 
+# ────────────────────────────────────── abertura de ciclo e garimpo assistido
+RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+HEAD_ATUAL = "?"
+
+
+def _raiz_do_repo() -> str:
+    return os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+
+FRASE = re.compile(r"[.!?…]")
+
+
+def novo(txt: str, sigla: str = "") -> None:
+    """Abre um ciclo leve a partir do TXT que chegou — sem tocar na Base, sem tocar no bruto.
+
+    `novo` é o único passo do ciclo que escreve andaime: copia o TXT byte a byte para
+    `ciclos/<SIGLA>/original.txt`, sela com SHA-256, e escreve `ciclo.toml` + `pacote` com os
+    números já medidos. A curadoria continua sendo de quem escreve o `.toml`: o andaime nasce
+    com os campos vazios, para que a ausência seja visível em vez de um zero disfarçado de
+    resultado. E a fonte não se reescreve — se o `original.txt` do ciclo já existe e difere,
+    o passo aborta; preservação é o que resta da transcrição depois do fim da apostila."""
+    bruto = open(txt, "rb").read()
+    nome = os.path.basename(txt)
+    m = re.search(r"(\d{4})-(\d{2})-(\d{2})", nome)
+    if not m:
+        sys.exit(f"não achei data no nome do arquivo ({nome}) — a sigla do ciclo é a data da fonte")
+    sigla = sigla or "P" + m.group(0)
+    titulo = re.sub(r"^.*?\d{4}-\d{2}-\d{2}\s*[-–—]?\s*", "", nome)[:-4].strip() or sigla
+    pasta = os.path.join(RAIZ, "ciclos", sigla)
+    destino = os.path.join(pasta, "original.txt")
+    os.makedirs(pasta, exist_ok=True)
+    t = bruto.decode("utf-8", errors="surrogateescape").replace("\r\n", "\n")
+    ctrl = sum(1 for b in bruto if b < 32 and b not in (9, 10, 13))
+    if ctrl:
+        sys.exit(f"⛔ o TXT tem {ctrl} byte(s) de controle e NADA foi copiado — a esteira exige "
+                 f"entrada limpa: trate o arquivo antes (o portão A existe para ser lido, "
+                 f"não para ser apagado)")
+    if os.path.exists(destino):
+        if open(destino, "rb").read() == bruto:
+            print("  · `original.txt` já batia byte a byte com o recebido: nenhuma reescrita")
+        else:
+            sys.exit(f"⛔ `ciclos/{sigla}/original.txt` existe e É DIFERENTE do TXT recebido — "
+                     f"fonte preservada não se sobrescreve: traga o arquivo certo ou abra o "
+                     f"ciclo com outra sigla, declarando por quê")
+    else:
+        with open(destino, "wb") as fh:
+            fh.write(bruto)
+    cfg, pac = os.path.join(pasta, "ciclo.toml"), os.path.join(pasta, f"pacote_{sigla}.txt")
+    linhas = t.split("\n")
+    com_fala = [l for l in linhas if len(l.strip()) > 40]
+    if not os.path.exists(cfg):
+        open(cfg, "w", encoding="utf-8").write("\n".join([
+            f"# ciclo.toml — ciclo leve {sigla} · andaime escrito por `motor.py novo`",
+            "# ──────────────────────────────────────────────────────────────────────────────",
+            "# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.",
+            "# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D",
+            "# confere cada número declarado e o livro-razão responde pelo que foi recusado.",
+            "",
+            f'sigla = "{sigla}"',
+            f'titulo = "{titulo}"',
+            f'data_fonte = "{m.group(3)}/{m.group(2)}/{m.group(1)}"',
+            f'pasta_fonte = "ciclos/{sigla}"',
+            'arquivo_fonte = "original.txt"',
+            f'pacote = "pacote_{sigla}.txt"',
+            f'sha256_fonte = "{sha256(destino)}"',
+            "",
+            f'baseline_commit = "{HEAD_ATUAL}"   # HEAD de onde o ciclo partiu; o portão D mede DELTA',
+            'portoes_ativos = ["A", "B", "C", "D"]',
+            "max_perolas = 25",
+            "exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`",
+            "",
+            'cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a '
+            'exigência de apostila integral); fonte integral preservada em original.txt, selada por '
+            'SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"',
+            'teto = "suspenso-com-cadencia"',
+            "termos_novos = []",
+            'veto_lexico = ["p****", "m****", "b******", "e******"]',
+            "fichas_que_nomeiam_grupo = []",
+            "",
+            "[delta_esperado]",
+            "arquivos = 0      # fichas criadas por este ciclo",
+            "ficha_true = 0   # viradas no cadastro",
+            "termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê",
+            "relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada",
+            "",
+            "[materializar]",
+            "codigos = []",
+            "",
+            "[tese]",
+            "pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo",
+            "",
+            "[definicoes]",
+            "",
+            "[observacoes]",
+            "",
+            "[travas]",
+            "",
+            "[lacunas]",
+            "",
+        ]))
+    if not os.path.exists(pac):
+        open(pac, "w", encoding="utf-8").write("\n".join([
+            f"# Pacote de ampliação — {sigla} · andaime por `motor.py novo`",
+            "# Cada item de BLOCO 1 é UMA aspa cortada do bruto por",
+            f'#   motor.py --ciclo {sigla} busca "<âncora>"',
+            "# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de",
+            "# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.",
+            "# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.",
+            "",
+            "### BLOCO 1 — o que entra em ficha",
+            "",
+            "### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)",
+            "",
+            "### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)",
+            "",
+            "### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)",
+            "",
+            "### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)",
+            "",
+        ]))
+    print(f"ciclo {sigla} aberto · {len(bruto):,} B copiados byte a byte".replace(",", "."))
+    print(f"  sha256: {sha256(destino)[:16]}… · bytes de controle: {ctrl}")
+    print(f"  {len(linhas)} linhas · {len(com_fala)} com fala (>40 chars) · "
+          f"{len(t.split()):,} palavras".replace(",", "."))
+    print(f"  maior linha: {max(len(l) for l in linhas):,} chars".replace(",", "."))
+    print(f"  andaime: {os.path.relpath(cfg, RAIZ)} · {os.path.relpath(pac, RAIZ)}")
+    print("  ⚠️ nada da Base foi tocado e nada foi garimpado ainda: edite `ciclo.toml` e o pacote; "
+          "leitura integral com `fatias`, aspas cortadas com `busca`, portões com `tudo`")
+
+
+def busca(c: Ciclo, termo: str, limite: int = 20) -> None:
+    """Corta a aspa em vez de deixá-la digitada: para cada ocorrência do termo, imprime o
+    período verbatim com endereço — o que se cola no pacote é o que o motor acabou de tirar
+    do bruto, e o portão B confere outra vez na saída. Nenhuma aspa digitada à mão significa
+    isto, não «prometo transcrever certo»."""
+    if not termo:
+        sys.exit("busca pede a expressão-âncora: --ciclo <SIGLA> busca \"trecho do bruto\"")
+    f = c.fonte
+    achados = [m.start() for m in re.finditer(re.escape(termo), f.raw, re.I)]
+    if not achados:
+        sys.exit(f"busca: {termo!r} não ocorre no bruto — âncora inventada é o que a casa mais "
+                 f"teme; confira a grafia que o STT escreveu (`fatias` mostra o que existe)")
+    for n, i in enumerate(achados[:limite], 1):
+        a = i
+        while a > 0 and f.raw[a - 1] != "\n" and not FRASE.search(f.raw[a - 1]):
+            a -= 1
+        b = i + len(termo)
+        while b < len(f.raw) and not FRASE.search(f.raw[b - 1]):
+            b += 1
+        span = " ".join(f.raw[a:b].split())
+        ok, _, _ = f.verificar(span)
+        print(f"  [{n}/{len(achados)}] {f.uaddr(a)} · chars {a}-{b} · {len(span)} c · "
+              f"{'✓ verifica' if ok else '✗ NÃO VERIFICA'}")
+        print("      «" + span + "»")
+    if len(achados) > limite:
+        print(f"  … {len(achados) - limite} ocorrência(s) além do limite {limite}: refine a âncora "
+              f"— largo demais é recorte ruim, não falta de aspas")
+
+
+def fatias(c: Ciclo, largura: int = 15000) -> None:
+    """Leitura integral com prova de cobertura, o único pedaço do rite pesado que a esteira
+    leve não pode perder de vista: ela não reescreve a transcrição, mas quem a garimpa tem de
+    tê-la lido inteira. Corte em fronteira de período, endereço em cada fatia, e no fim a
+    asserção de que a concatenação É o arquivo — cobertura é igualdade de texto, não promessa."""
+    t = c.fonte.raw
+    corte, i = [], 0
+    while i < len(t):
+        j = min(len(t), i + largura)
+        if j < len(t):
+            k = max((m.end() for m in re.finditer(r"[.!?…]\s", t[i:j])), default=0)
+            j = i + k if k else j
+        corte.append((i, j))
+        i = j
+    print(f"fonte com {len(t):,} chars em {len(corte)} fatias de até {largura:,} chars "
+          f"(fronteira de período)".replace(",", "."))
+    for n, (a, b) in enumerate(corte, 1):
+        print(f"\n── FATIA {n}/{len(corte)} · {c.fonte.uaddr(a)} · chars {a}-{b} "
+              f"· {b - a:,} c ".replace(",", ".") + "─" * 8)
+        print(t[a:b])
+    recon = "".join(t[a:b] for a, b in corte)
+    chk(recon == t, f"cobertura provada: {len(corte)} fatias reconstituem o bruto byte a byte "
+                    f"({len(t):,} chars)".replace(",", "."),
+        "as fatias NÃO reconstituem o bruto — o cortador é que está errado, consertar aqui")
+
+
+# ───────────────────────────────────────────────────────────────────────── selftest
 # ───────────────────────────────────────────────────────────────────────── selftest
 def selftest() -> int:
-    """As 5 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
+    """As 7 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
     pegar a sua. Sem isto, 'menos código por ciclo' significa só 'menos freio'."""
     import tempfile
     print("SELFTEST · anomalias plantadas, todas têm de ser detectadas")
@@ -937,7 +1127,37 @@ def selftest() -> int:
             "5 · cedilha e acento atravessam a normalização (o defeito herdado do `ç`)",
             "cedilha quebrou o caça-âncoras de novo")
         pegou += 1
-    print(f"  selftest: {pegou}/5")
+        i = re.search(r"O cérebro radiata", f.raw).start()
+        a = i
+        while a > 0 and f.raw[a - 1] != "\n" and not FRASE.search(f.raw[a - 1]):
+            a -= 1
+        b = i
+        while b < len(f.raw) and not FRASE.search(f.raw[b - 1]):
+            b += 1
+        span = " ".join(f.raw[a:b].split())
+        chk(f.verificar(span)[0],
+            f"6 · o cortador de aspas devolve span que verifica ({len(span)} c)",
+            "o recorte por período não confere com o bruto — nada que ele corta é citável")
+        pegou += 1
+        sig = "P0000-00-00"
+        RAIZ_ant, HEAD_ant = globals()["RAIZ"], globals()["HEAD_ATUAL"]
+        globals()["RAIZ"], globals()["HEAD_ATUAL"] = tmp, "selftest"
+        try:
+            os.makedirs(os.path.join(tmp, "ciclos", sig), exist_ok=True)
+            with open(os.path.join(tmp, "ciclos", sig, "original.txt"), "w", encoding="utf-8") as fh:
+                fh.write("outra coisa, que não é o bruto")
+            open(os.path.join(tmp, "2023-12-17 Falsa.txt"), "w", encoding="utf-8").write(texto)
+            recusou = False
+            try:
+                novo(os.path.join(tmp, "2023-12-17 Falsa.txt"), sig)
+            except SystemExit as e:
+                recusou = "DIFERENTE" in str(e)
+        finally:
+            globals()["RAIZ"], globals()["HEAD_ATUAL"] = RAIZ_ant, HEAD_ant
+        chk(recusou, "7 · `novo` recusa sobrescrever uma fonte preservada que difere",
+            "a abertura deixaria o ciclo reescrever um `original.txt` já selado")
+        pegou += 1
+    print(f"  selftest: {pegou}/7")
     return pegou
 
 
@@ -947,18 +1167,37 @@ def main() -> None:
     ap.add_argument("--ciclo", default="")
     ap.add_argument("passo", nargs="?", default="status",
                     choices=["status", "entrada", "ancorario", "dossier", "rag", "materializar",
-                             "virar", "portoes", "tudo", "selftest"])
+                             "virar", "portoes", "tudo", "novo", "busca", "fatias", "selftest"])
+    ap.add_argument("args", nargs="*", default=[],
+                    help="`novo`: o TXT recebido · `busca`: a expressão-âncora [limite] · "
+                         "`fatias`: largura em chars")
     a = ap.parse_args()
+    if a.passo == "novo":
+        if not a.args:
+            ap.error("novo pede o TXT recebido: motor.py novo <arquivo.txt> [SIGLA]")
+        globals()["RAIZ"] = _raiz_do_repo()
+        globals()["HEAD_ATUAL"] = subprocess.run(["git", "-C", globals()["RAIZ"], "rev-parse",
+                                                  "--short", "HEAD"],
+                                                 capture_output=True, text=True).stdout.strip() or "?"
+        txt = a.args[0] if os.path.isabs(a.args[0]) else os.path.join(globals()["RAIZ"], a.args[0])
+        novo(txt, a.ciclo or (os.path.basename(a.args[1]) if len(a.args) > 1 else ""))
+        sys.exit(0)
     if a.passo == "selftest":
         try:
             n = selftest()
         except FalhaPortao as e:
             print(f"  SELFTEST FALHOU: {e}")
             sys.exit(3)
-        sys.exit(0 if n == 5 else 3)
+        sys.exit(0 if n == 7 else 3)
     if not a.ciclo:
         ap.error("--ciclo <SIGLA> é obrigatório (exceto para selftest)")
     c = Ciclo(a.ciclo)
+    if a.passo == "busca":
+        busca(c, a.args[0] if a.args else "", int(a.args[1]) if len(a.args) > 1 else 20)
+        sys.exit(0)
+    if a.passo == "fatias":
+        fatias(c, int(a.args[0]) if a.args else 15000)
+        sys.exit(0)
     try:
         if a.passo == "status":
             status(c)

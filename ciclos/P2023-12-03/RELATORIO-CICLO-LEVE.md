@@ -27,6 +27,7 @@
 | Estado absoluto da Base | 777 · 1.856 · 460 arquivos · 459 `ficha=True` | **777 · 1.856 · 466 · 465** | delta = exatamente o mandado (ver §4) |
 | Bytes escritos pelo ciclo | 1.133.595 (pasta inteira do ciclo) | **140.346** | **8,1× menos**; 7,3× retirado o `original.txt`, que a esteira leve também preserva |
 | Portões | A · B · C · D · E + cobertura | **A · B · C · D** | os três essenciais + o de contadores; ver §5 |
+| `selftest` | (não existia) | **7/7** | 5 casos no ciclo zero + 2 no §8 |
 
 **Nada do garimpo pesado se perdeu.** O caderno leve tem 25 pérolas de 147 candidatas, e o
 livro-razão guarda as **122 recusadas com motivo** — que é a peça que permite responder,
@@ -102,8 +103,9 @@ PORTÃO C ✓ 113 fichas em paridade com o pacote · 0 vazamentos do léxico vet
 PORTÃO D ✓ Δ arquivos = 6 · Δ ficha_true = 6 · Δ termos = 0 · Δ relacoes = 0
          ✓ teto suspenso-com-cadência: 0 termo novo ≤ 0 autorizado
          ✓ cadastro válido: OK: 777 termos, 1856 relações — dados válidos
-SELFTEST ✓ 5/5 anomalias plantadas detectadas (âncora inexistente · âncora ambígua ·
-           byte de controle DOCX · paráfrase vestida de citação · cedilha na normalização)
+SELFTEST ✓ 5/5 anomalias plantadas detectadas na data deste fechamento (âncora inexistente ·
+           âncora ambígua · byte de controle DOCX · paráfrase vestida de citação · cedilha na
+           normalização); o motor está hoje em 7/7 — ver §8
 ```
 
 A paridade do portão C é aferida **depois** da normalização de aspas de glosa, aplicada aos
@@ -195,3 +197,35 @@ DOSSIE-RAG_*.md, RELATORIO-CICLO-LEVE.md}`, `termos/RC-*.md` das materializaçõ
 §4 do dossiê, as linhas `ficha`/`FONTES`/`RELACOES` do cadastro que o `.toml` mandou, e
 `rag/perolas/*.md`. **Nenhuma linha de `.py` é escrita por ciclo** — o instrumento é um só, e
 o que muda entre ciclos é declaração.
+
+---
+
+## 8 · Depois deste fechamento: o motor aprendeu a **abrir** ciclo (não só reproceder)
+
+Este relatório documenta o ciclo zero, que testou a esteira reprocedendo um ciclo **fechado**. Quando o
+Curador nomeou a primeira palestra nova para o formato leve, apareceram três lacunas de autoria que o
+ciclo zero não podia revelar — e o remédio foi no instrumento, não no produto:
+
+1. **`motor.py novo <TXT>`** — a abertura: cópia byte a byte para `ciclos/<SIGLA>/original.txt`, SHA-256
+   selado, e andaime (`ciclo.toml` + `pacote_<SIGLA>.txt`) com os campos de curadoria **vazios**, para que
+   a ausência seja visível em vez de um zero disfarçado de resultado. Recusa sobrescrever um
+   `original.txt` já selado cujo conteúdo difere: fonte preservada não se reescreve.
+2. **`motor.py --ciclo <SIGLA> busca "<âncora>"`** — o cortador: devolve o período verbatim do bruto com
+   `U####` e faixa de caracteres, pronto para colar no pacote. É a materialização da regra *nenhuma aspa
+   digitada à mão*: quem garimpa não transcreve de memória.
+3. **`motor.py --ciclo <SIGLA> fatias [largura]`** — a leitura integral com prova: corta em fronteira de
+   período e fecha asserindo que a concatenação das fatias **é** o arquivo. A esteira leve não reemite a
+   transcrição, mas quem escolhe as pérolas tem de ter lido tudo; cobertura continua sendo igualdade de
+   texto, não promessa.
+
+O `selftest` ganhou os dois casos que essas funções exigem e passou de **5/5 a 7/7**: o recorte devolvido
+tem de verificar no bruto (senão o ciclo nasceria com citação falsa) e a abertura tem de recusar o
+`original.txt` divergente (senão a preservação acabaria ali). Testado de ponta a ponta num andaime
+temporário — `novo` → `entrada` ✓ contra o hash que ele mesmo gravou → `busca` com 22 ocorrências todas
+✓ → `fatias` com cobertura provada — e o caso decisivo: **roda-se `tudo` num andaime vazio e ele aborta
+vermelho** ("o pacote não tem uma aspa sequer"), porque ciclo não fecha por omissão.
+
+Nenhum produto foi escrito nesse teste, a Base continua em 777 · 1.856 · 102 (466 arquivos, 465
+`ficha=True`), e o andaime do ensaio foi apagado. O primeiro ciclo leve de palestra nova está **pronto para
+rodar no minuto em que o TXT chegar** — a palestra nomeada (`2023-12-17 Lúcifer e a Rebelião dos Elétrons`)
+não estava no sandbox quando esta rodada foi fechada.

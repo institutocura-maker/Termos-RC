@@ -74,8 +74,18 @@ tese · `§3` caderno de pérolas (verbatim, com bloco/tempo) · `§4` atualiza�
 `ferramentas/motor.py`; operação por config declarativa `ciclos/<SIGLA>/ciclo.toml`. Os
 portões essenciais permanecem: **A** integridade da fonte · **B** verbatim · **C** paridade
 ficha ↔ pacote e veto de trânsito · **D** contadores como *delta* contra o commit-base, com a
-validação autoritativa do cadastro. `selftest` tem de dar 5/5; se der menos, o motor está
+validação autoritativa do cadastro. `selftest` tem de dar 7/7; se der menos, o motor está
 inapto e nenhum ciclo abre com ele.
+
+**Autoria do ciclo, com o cortador na mão — os três comandos que faltavam para abrir um ciclo
+novo (até aqui o motor só reprocedia ciclo fechado): `novo` copia o TXT byte a byte para
+`ciclos/<SIGLA>/original.txt`, sela com SHA-256 e escreve o andaime (`ciclo.toml` + `pacote` com os
+campos vazios, para que a ausência seja visível, não um zero disfarçado de resultado) — e
+**recusa** sobrescrever fonte já selada cujo conteúdo difere; `busca "<âncora>"` devolve o
+período verbatim com `U####` e faixa de caracteres, pronto para colar, porque *nenhuma aspa
+digitada à mão* quer dizer isto e não *prometo transcrever certo*; `fatias` é a leitura integral
+com prova de cobertura (a concatenação das fatias é o arquivo, asserido) — a esteira leve não
+reemite a transcrição, mas quem escolhe as pérolas tem de ter lido tudo.
 
 ## 5 · O que a leveza NÃO toca (invioláveis, com o motivo)
 
@@ -101,6 +111,8 @@ inapto e nenhum ciclo abre com ele.
 |---|---|
 | Motor Único (o instrumento de todos os ciclos) | `ferramentas/motor.py` |
 | Config declarativa do ciclo | `ciclos/<SIGLA>/ciclo.toml` |
+| Pacote de ampliação (o que entra em ficha, o que fica retido) | `ciclos/<SIGLA>/pacote_<SIGLA>.txt` |
+| Fonte selada do ciclo leve | `ciclos/<SIGLA>/original.txt` |
 | Livro-razão de âncoras | `ciclos/<SIGLA>/ancorario_<SIGLA>.json` |
 | Dossiê RAG (as 4 seções) | `ciclos/<SIGLA>/DOSSIE-RAG_<SIGLA>.md` |
 | Relatório do ciclo | `ciclos/<SIGLA>/RELATORIO-CICLO-LEVE.md` |
