@@ -87,8 +87,8 @@ onde o nome do termo é gente.
 | códigos do pacote sem arquivo | — | **2** listados (RC-089, que o ciclo materializa em seguida, e RC-444, mantida `ficha=False` por ordem expressa) |
 | pacote de ampliações | — | **75 códigos · 100 blocos · 123 citações · 67.001 chars** |
 | anterioridades | — | **18** notas ⭐ calculadas · **59** casos ditos **sem ganho de anterioridade** · 0 primazias fingidas |
-| apostila | — | **211.596 chars · 745 linhas · 105 blocos · 5 partes · 25 notas editoriais · 0 bloqueios** |
-| DOCX | — | **116.243 bytes** (`Apostila - A Rebelião de Lúcifer e a Depressão Mental dos Seres.docx`) |
+| apostila | — | **211.673 chars · 745 linhas · 105 blocos · 5 partes · 25 notas editoriais · 0 bloqueios** |
+| DOCX | — | **116.273 bytes** (`Apostila - A Rebelião de Lúcifer e a Depressão Mental dos Seres.docx`) |
 | portões | — | **A 0 · B 0** (233 fragmentos longos; 2 aspas conferidas no 2º corpus = a devolutiva) · **C 0** (117 aspas em 74 fichas) · **D 13 checagens ✓** · **E 0** (117 endereços `Uxxxx`) |
 | builds | — | `indice-mestre.md` (777) · `base-terminologica.xlsx` · `base-terminologica-leitura.docx` (458 fichas) |
 | apostilas em `CONCLUIDAS/` | 69 | **70** |
