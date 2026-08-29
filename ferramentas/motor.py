@@ -102,7 +102,15 @@ def sha256(caminho: str) -> str:
     return h.hexdigest()
 
 
-def medir_codigo(txt: str) -> dict:
+def n_vinculos(termos: list, sigla: str) -> int:
+    """Quantos termos carregam `sigla` na lista de fontes — o contador que faz o vínculo ser
+    conferível: 'o ciclo disse que tocou 61 códigos' vira número medido, não asserção."""
+    if not sigla:
+        return 0
+    return sum(1 for t in termos if any(str(x) == sigla for x in (t[5] if len(t) > 5 else [])))
+
+
+def medir_codigo(txt: str, sigla: str = "") -> dict:
     """Contagem simétrica de um `dados_termos.py` — hoje e baseline pelo MESMO caminho.
 
     Executar o texto medido é a única régua que não depende de como a linha foi escrita:
@@ -117,9 +125,10 @@ def medir_codigo(txt: str) -> dict:
         relas = list(ns.get("RELACOES", []))
         return dict(termos=len(termos),
                     ficha_true=sum(1 for t in termos if len(t) > 7 and t[7] is True),
-                    relacoes=len(relas), medido_por="exec")
+                    relacoes=len(relas), vinculos=n_vinculos(termos, sigla), medido_por="exec")
     except Exception as e:                                        # pragma: no cover
         m = medir_regex(txt)
+        m["vinculos"] = 0
         m["medido_por"] = f"regex (fallback após {type(e).__name__})"
         return m
 
@@ -183,7 +192,7 @@ class Cfg:
                      f"{', '.join(sobras)} — ou o motor perdeu a regra, ou o .toml tem resíduo")
         # A mesma exigência vale DENTRO das mesas: subchave que o motor não lê é regra
         # perdida, e código que não existe no cadastro é ordem órfã nascendo do .toml.
-        formas = {"tese": {"pontos"}, "materializar": {"codigos"}}
+        formas = {"tese": {"pontos"}, "materializar": {"codigos"}, "ampliar": {"codigos", "substituir"}}
         for mesa, permitidas in formas.items():
             residuo = sorted(set(self.tabela(mesa)) - permitidas)
             if residuo:
@@ -372,7 +381,7 @@ class Ciclo:
         self._ler_config()
         self.fonte = Fonte(os.path.join(self._resolve(self.pasta_fonte), self.arquivo_fonte))
         self.pacote = Pacote(self._resolve(self.pacote_rel), self.fonte)
-        self.base = Base(self.raiz)
+        self.base = Base(self.raiz, sigla)
         self.fichas = self.base.arquivos()
 
     @staticmethod
@@ -405,6 +414,8 @@ class Ciclo:
         self.sha256_esperado = c.get("sha256_fonte", "")
         self.delta_esperado = c.tabela("delta_esperado")
         self.materializar = list(c.tabela("materializar").get("codigos", []))
+        self.ampliar = list(c.tabela("ampliar").get("codigos", []))
+        self.substituir = bool(c.tabela("ampliar").get("substituir", False))
         self.definicoes = c.tabela("definicoes")
         self.observacoes = c.tabela("observacoes")
         self.travas = c.tabela("travas")
@@ -503,8 +514,13 @@ class Base:
     """A Base Terminológica, lida — nunca escrita — pelo motor, exceto onde o ciclo
     manda (materialização de fichas)."""
 
-    def __init__(self, raiz: str):
+    def __init__(self, raiz: str, sigla: str = ""):
+        self.sigla = sigla
         sys.path.insert(0, os.path.join(raiz, "ferramentas"))
+        # Cache de import é a última coisa que se quer depois de virar uma ficha: o módulo
+        # continuaria o de antes da escrita, e o portão D acusaria o ciclo de não ter feito
+        # o que acabou de fazer.
+        sys.modules.pop("dados_termos", None)
         import dados_termos as DT                                           # noqa: E402
         self.DT = DT
         self.termos = {t[0]: t for t in DT.TERMOS}
@@ -536,15 +552,15 @@ class Base:
                              capture_output=True, text=True).stdout
         if not cad.strip():
             sys.exit(f"não consegui ler {commit}:ferramentas/dados_termos.py — o baseline do ciclo está errado?")
-        m = medir_codigo(cad)
+        m = medir_codigo(cad, self.sigla)
         # `git ls-tree` cita caminhos com byte não-ASCII (×, ṅ): sem tolerar a aspa final do
         # nome escapado, três fichas somem da contagem e o delta sai 9 em vez de 6.
         return dict(arquivos=len([l for l in ls.splitlines() if re.search(r"RC-\d{3}.*\.md\"?$", l)]),
                     termos=m["termos"], ficha_true=m["ficha_true"], relacoes=m["relacoes"],
-                    como=m["medido_por"])
+                    vinculos=m["vinculos"], como=m["medido_por"])
 
     def agora(self) -> dict:
-        m = medir_codigo(self.cadastro_txt)
+        m = medir_codigo(self.cadastro_txt, self.sigla)
         ao_vivo = dict(termos=len(self.termos), relacoes=len(self.relas),
                        ficha_true=sum(1 for t in self.termos.values() if t[7] is True))
         for campo in ("termos", "relacoes", "ficha_true"):
@@ -553,7 +569,7 @@ class Base:
                       f"{m[campo]} vs {ao_vivo[campo]} — é o instrumento que tem de ser consertado")
         return dict(arquivos=len(self.arquivos()), termos=ao_vivo["termos"],
                     ficha_true=ao_vivo["ficha_true"], relacoes=ao_vivo["relacoes"],
-                    como=m["medido_por"])
+                    vinculos=n_vinculos(list(self.termos.values()), self.sigla), como=m["medido_por"])
 
 
 # ────────────────────────────────────────────────────────────────────────── portões
@@ -793,6 +809,10 @@ def materializar(c: Ciclo) -> None:
             sys.exit(f"{cod} não tem bloco no pacote — o motor não inventa conteúdo para materializar")
         t = c.base.termos[cod]
         arq = c.fichas.get(cod)
+        if arq and MARCACICLO not in open(arq, encoding="utf-8").read():
+            sys.exit(f"{cod}: a ficha existe e não foi escrita por este motor — `materializar` "
+                     f"reescreveria o arquivo inteiro e apagaria o histórico dela. Para ficha que "
+                     f"já existe o passo é `ampliar` (insere só a seção do ciclo).")
         if not arq:
             slug = re.sub(r"-{2,}", "-", re.sub(r"[^A-Za-z0-9]+", "-", fold(t[1].replace("´", " ")))).strip("-")
             arq = os.path.join(c.raiz, "termos", f"{cod}-{slug.lower()}.md")
@@ -895,6 +915,9 @@ def status(c: Ciclo) -> None:
     print(f"  pacote: {len(c.pacote.blocos)} códigos · {len(c.pacote.pares)} citações · "
           f"{len(c.pacote.retidos_spans)} span(s) retido(s) em {len(c.pacote.retidos)} código(s)")
     print(f"  fichas com arquivo: {len([k for k in c.pacote.blocos if k in c.fichas])} de {len(c.pacote.blocos)}")
+    print(f"  malha: {len(c.pacote.blocos)} codigo(s) a vincular - "
+          f"{len([x for x in c.pacote.blocos if x in c.fichas])} fichas a ampliar - "
+          f"{len([x for x in c.materializar if x not in c.fichas])} fichas a criar")
     print(f"  caderno: {len(sel)} pérolas de {len(c.candidatas())} candidatas (teto {c.max_perolas})")
     print(f"  portões ativos {''.join(c.portoes_ativos)} · teto {c.teto} · baseline {c.baseline[:7]}")
 
@@ -983,9 +1006,13 @@ def novo(txt: str, sigla: str = "") -> None:
             "ficha_true = 0   # viradas no cadastro",
             "termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê",
             "relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada",
+            "vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes",
             "",
             "[materializar]",
-            "codigos = []",
+            "codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)",
+            "",
+            "[ampliar]",
+            "codigos = []      # vazio = todos os códigos do pacote que já têm arquivo",
             "",
             "[tese]",
             "pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo",
@@ -1087,7 +1114,7 @@ def fatias(c: Ciclo, largura: int = 15000) -> None:
 # ───────────────────────────────────────────────────────────────────────── selftest
 # ───────────────────────────────────────────────────────────────────────── selftest
 def selftest() -> int:
-    """As 7 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
+    """As 8 anomalias canônicas da casa, plantadas numa fonte falsa. Cada portão tem de
     pegar a sua. Sem isto, 'menos código por ciclo' significa só 'menos freio'."""
     import tempfile
     print("SELFTEST · anomalias plantadas, todas têm de ser detectadas")
@@ -1157,7 +1184,12 @@ def selftest() -> int:
         chk(recusou, "7 · `novo` recusa sobrescrever uma fonte preservada que difere",
             "a abertura deixaria o ciclo reescrever um `original.txt` já selado")
         pegou += 1
-    print(f"  selftest: {pegou}/7")
+        chk(_selftest_vincular(tmp),
+            "8 · o vínculo na lista de fontes é idempotente e não toca em linha de relação",
+            "`inscreve_fonte` corromperia o cadastro: reexecução mudando o texto, ou aresta "
+            "sendo tratada como termo")
+        pegou += 1
+    print(f"  selftest: {pegou}/8")
     return pegou
 
 
@@ -1167,7 +1199,8 @@ def main() -> None:
     ap.add_argument("--ciclo", default="")
     ap.add_argument("passo", nargs="?", default="status",
                     choices=["status", "entrada", "ancorario", "dossier", "rag", "materializar",
-                             "virar", "portoes", "tudo", "novo", "busca", "fatias", "selftest"])
+                             "virar", "ampliar", "vincular", "portoes", "tudo", "novo", "busca",
+                             "fatias", "selftest"])
     ap.add_argument("args", nargs="*", default=[],
                     help="`novo`: o TXT recebido · `busca`: a expressão-âncora [limite] · "
                          "`fatias`: largura em chars")
@@ -1188,7 +1221,7 @@ def main() -> None:
         except FalhaPortao as e:
             print(f"  SELFTEST FALHOU: {e}")
             sys.exit(3)
-        sys.exit(0 if n == 7 else 3)
+        sys.exit(0 if n == 8 else 3)
     if not a.ciclo:
         ap.error("--ciclo <SIGLA> é obrigatório (exceto para selftest)")
     c = Ciclo(a.ciclo)
@@ -1213,6 +1246,10 @@ def main() -> None:
             materializar(c)
         elif a.passo == "virar":
             virar_ficha(c)
+        elif a.passo == "ampliar":
+            ampliar(c)
+        elif a.passo == "vincular":
+            vincular(c)
         elif a.passo == "portoes":
             for nome, letra in (("portao_A", "A"), ("portao_B", "B"), ("portao_C", "C"), ("portao_D", "D")):
                 if letra in c.portoes_ativos:
@@ -1220,7 +1257,9 @@ def main() -> None:
         elif a.passo == "tudo":
             portao_A(c)
             materializar(c)
+            ampliar(c)
             virar_ficha(c)
+            vincular(c)
             c = Ciclo(a.ciclo)                                 # relê: a Base mudou de estado
             ancorario(c)
             dossie(c)
@@ -1235,5 +1274,142 @@ def main() -> None:
     print("motor: fim")
 
 
+
+# ──────────────────────────── o ciclo leve sobre fichas que já existem, e a malha
+MARCACICLO = "**Materialização (não é criação).**"
+FONTE_LINHA = "| {sigla} | {titulo} (palestra) | — | transcrição automatizada; citação |"
+
+
+def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
+    """Acrescenta `sigla` à lista de fontes do termo `cod` no TEXTO do cadastro, e devolve
+    (texto, estado). Pura de propósito: é o que permite testar a inserção antes de ela
+    tocar no arquivo, e é a razão de o selftest poder garanti-la sem reescrever a Base.
+
+    estado: `inseriu` · `ja-estava` · `sem-linha` · `sem-lista`.
+    `sem-lista` não cria a lista — linha de cadastro sem o sexto campo é anomalia do
+    cadastro, e o ciclo declara, não conserta por cima."""
+    mudou = "sem-linha"
+    linhas = txt.split("\n")
+    for n, l in enumerate(linhas):
+        m = re.match(r"^(\s*)\(\s*[\"']" + cod + "[\"']\s*,", l)
+        if not m:
+            continue
+        abre, fecha = l.find("["), l.rfind("]")
+        if abre < 0 or fecha <= abre:
+            mudou = "sem-lista"
+            break
+        dentro = l[abre:fecha]
+        if re.search(r"[\"']" + sigla + r"[\"']", dentro):
+            mudou = "ja-estava"
+            break
+        novo = dentro.rstrip()
+        novo = novo[:-1] + f', "{sigla}"]' + l[fecha + 1:]          # fecha a lista, reabre o resto
+        linhas[n] = l[:abre] + novo
+        mudou = "inseriu"
+        break
+    return "\n".join(linhas), mudou
+
+
+def vincular(c: Ciclo) -> None:
+    """Catálogo é vínculo: sem a sigla na lista de fontes do cadastro, a ampliação existe na
+    ficha e não existe na malha — quem procura 'que fontes tocam RC-378' não acharia este
+    ciclo. Um código por linha, idempotente, e só para quem tem bloco no pacote (o motor não
+    vincula o que não leu)."""
+    caminho = os.path.join(c.raiz, "ferramentas", "dados_termos.py")
+    txt = open(caminho, encoding="utf-8").read()
+    estados: dict[str, int] = {}
+    for cod in sorted(c.pacote.blocos):
+        txt, est = inscreve_fonte(txt, cod, c.sigla)
+        estados[est] = estados.get(est, 0) + 1
+    if estados.get("inseriu"):
+        open(caminho, "w", encoding="utf-8").write(txt)
+        c.base = Base(c.raiz, c.sigla)                              # relê: a Base mudou de estado
+    c.base = Base(c.raiz, c.sigla)
+    resumo = " · ".join(f"{k}: {v}" for k, v in sorted(estados.items()))
+    chk(not estados.get("sem-linha") and not estados.get("sem-lista"),
+        f"vínculos do ciclo na malha — {resumo}",
+        f"não consegui vincular: " + "; ".join(
+            f"{n} código(s) {k}" for k, n in estados.items() if k in ("sem-linha", "sem-lista")))
+
+
+def ampliar(c: Ciclo) -> None:
+    """Insere ou substitui a seção `## Ampliação — <sigla>` numa ficha que JÁ EXISTE, sem
+    tocar em mais nada do arquivo. É o passo que o ciclo zero não exercitou (ele só criou
+    fichas novas) e sem o qual o ciclo leve não tem como pousar numa palestra nova: a fonte
+    não reescreve a ficha, acrescenta a seção dela."""
+    alvos = list(c.ampliar) or [cod for cod in c.pacote.blocos if cod in c.fichas]
+    criadas, substituídas, novas, divergentes = 0, 0, 0, []
+    for cod in alvos:
+        arq = c.fichas.get(cod)
+        if not arq:
+            novas.append(cod)
+            continue
+        corpo = open(arq, encoding="utf-8").read()
+        secao = (f"## Ampliação — {c.sigla}" + (f" ({c.titulo})" if c.titulo else "") + "\n\n"
+                 + c.secao_limpa(cod) + "\n\n")
+        m = re.search(r"^## Ampliação — " + re.escape(c.sigla) + r".*?(?=^## |^---\s*$|\Z)",
+                      corpo, re.M | re.S)
+        if m:
+            if " ".join(m.group(0).split()) != " ".join(secao.split()) and not c.substituir:
+                divergentes.append(cod)
+                continue
+            corpo = corpo[:m.start()] + secao + corpo[m.end():]
+            substituídas += 1
+        elif MARCACICLO in corpo:
+            # ficha criada por este motor neste ciclo: o corpo inteiro é do motor, reescrever
+            # é neutro; não há texto alheio a preservar
+            criadas += 1
+            continue
+        else:
+            i = corpo.find("\n## Fontes")
+            corpo = (corpo[:i] + "\n" + secao + corpo[i:] if i >= 0
+                     else corpo.rstrip() + "\n\n" + secao)
+            substituídas += 0
+            novas += 0
+        # a tabela de Fontes da ficha também precisa ficar coerente com a seção que entrou
+        secao_fontes = re.search(r"^## Fontes\s*$(.*?)(?=^## |\Z)", corpo, re.M | re.S)
+        if secao_fontes and f"| {c.sigla} |" not in secao_fontes.group(1):
+            j = corpo.index("|---|", corpo.index("## Fontes"))
+            linha = FONTE_LINHA.format(sigla=c.sigla, titulo=c.titulo)
+            k = corpo.index("\n", j)
+            corpo = corpo[:k + 1] + linha + corpo[k:]
+        open(arq, "w", encoding="utf-8").write(corpo)
+        assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção não entrou na ficha"
+        print(f"  · {cod}: seção do ciclo {'substituída (reexecução)' if m else 'inserida'} em "
+              f"{os.path.relpath(arq, c.raiz)}")
+    if criadas:
+        print(f"  · {criadas} ficha(s) criada(s) por este motor: `materializar` cuida delas")
+    if divergentes:
+        print(f"  ⚠️ {len(divergentes)} ficha(s) já tinham seção deste ciclo ESCRITA À MÃO "
+              f"(conteúdo divergente do pacote): " + ", ".join(divergentes[:12]) +
+              " — nada foi sobrescrito. Se a intenção é substituir, declare "
+              "`substituir = true` em [ampliar] e diga por quê no relatório do ciclo.")
+    if novas:
+        print(f"  · {len(novas)} código(s) do pacote sem arquivo de ficha: fila declarada no §4 "
+              f"do dossiê, e criação de ficha é `materializar`, com ordem no `.toml`")
+    tot = [x for v in getattr(c, "log_rebaixado", {}).values() for x in v]
+    if tot:
+        print(f"  ⚠️ {len(tot)} aspa(s) de glosa rebaixada(s) — não eram span verificado na fonte: "
+              + "; ".join(f"{x!r}" for x in tot))
+
+
+def _selftest_vincular(tmp: str) -> bool:
+    """A inserção na lista de fontes, fora do arquivo real: idempotência e forma. Duas
+    execuções têm de dar o mesmo texto, e uma linha de RELACOES não pode ser tocada."""
+    amostra = "\n".join([
+        "TERMOS = [",
+        '    ("RC-001", "Javé", A[0], A[1], P, ["B031", \'P2020-08-08\'], "RC-017", True),',
+        '    (\'RC-002\', "Rebelião", B[0], B[1], P, [\'B031\'], "", False),',
+        "]",
+        'RELACOES = [',
+        '    ("RC-001", "sinônimo", "RC-037", "B031"),',
+        "]",
+    ])
+    a, e1 = inscreve_fonte(amostra, "RC-001", "P2023-12-17")
+    b, e2 = inscreve_fonte(a, "RC-001", "P2023-12-17")
+    _, e3 = inscreve_fonte(a, "RC-002", "P2023-12-17")
+    _, e4 = inscreve_fonte(a, "RC-999", "P2023-12-17")
+    return (e1, e2, e3, e4) == ("inseriu", "ja-estava", "inseriu", "sem-linha") and a == b \
+        and '("RC-001", "sinônimo", "RC-037", "B031"),' in a
 if __name__ == "__main__":
     main()

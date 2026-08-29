@@ -218,7 +218,12 @@ ciclo zero não podia revelar — e o remédio foi no instrumento, não no produ
    transcrição, mas quem escolhe as pérolas tem de ter lido tudo; cobertura continua sendo igualdade de
    texto, não promessa.
 
-O `selftest` ganhou os dois casos que essas funções exigem e passou de **5/5 a 7/7**: o recorte devolvido
+O `selftest` ganhou os casos que essas funções exigem e passou de **5/5 a 8/8** (recorte que
+verifica, abertura que não sobrescreve fonte selada, vínculo idempotente na lista de fontes), e o
+motor ganhou `ampliar` + `vincular` — os dois passos que fazem uma palestra nova pousar em fichas que
+já existem sem reescrever a história delas, mais a guarda que faz `materializar` abortar em ficha
+alheia. A prova da neutralidade é medida, não declarada: reexecutar `tudo` no ciclo zero reescreveu as
+113 seções e não mudou **1 byte** de arquivo nenhum. O texto original da frase acima era: o recorte devolvido
 tem de verificar no bruto (senão o ciclo nasceria com citação falsa) e a abertura tem de recusar o
 `original.txt` divergente (senão a preservação acabaria ali). Testado de ponta a ponta num andaime
 temporário — `novo` → `entrada` ✓ contra o hash que ele mesmo gravou → `busca` com 22 ocorrências todas

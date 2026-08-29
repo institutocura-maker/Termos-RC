@@ -74,7 +74,7 @@ tese · `§3` caderno de pérolas (verbatim, com bloco/tempo) · `§4` atualiza�
 `ferramentas/motor.py`; operação por config declarativa `ciclos/<SIGLA>/ciclo.toml`. Os
 portões essenciais permanecem: **A** integridade da fonte · **B** verbatim · **C** paridade
 ficha ↔ pacote e veto de trânsito · **D** contadores como *delta* contra o commit-base, com a
-validação autoritativa do cadastro. `selftest` tem de dar 7/7; se der menos, o motor está
+validação autoritativa do cadastro. `selftest` tem de dar 8/8; se der menos, o motor está
 inapto e nenhum ciclo abre com ele.
 
 **Autoria do ciclo, com o cortador na mão — os três comandos que faltavam para abrir um ciclo
@@ -86,6 +86,8 @@ período verbatim com `U####` e faixa de caracteres, pronto para colar, porque *
 digitada à mão* quer dizer isto e não *prometo transcrever certo*; `fatias` é a leitura integral
 com prova de cobertura (a concatenação das fatias é o arquivo, asserido) — a esteira leve não
 reemite a transcrição, mas quem escolhe as pérolas tem de ter lido tudo.
+
+**Pousar na Base, sem reescrever história.** Dois passos fecham o ciclo: `ampliar` insere (ou substitui, só quando o conteúdo é o que o motor escreveria) a seção `## Ampliação — <SIGLA>` nas fichas que já existem, sem tocar em mais nada do arquivo — e **recusa** sobrescrever uma seção escrita à mão, declarando quantas; `vincular` acrescenta a sigla do ciclo à lista de fontes do cadastro, idempotente, porque ampliação sem vínculo existe na ficha e não existe na malha. `materializar`, por sua vez, aborta em ficha que existe e não foi escrita por ele — criar ficha é ordem, não conveniência de formatar.
 
 ## 5 · O que a leveza NÃO toca (invioláveis, com o motivo)
 
