@@ -1,0 +1,49 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-3",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 3 — após processamento da palestra 2019-05-11",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "2e62b2e",
+  "motivo": "A palestra 2019-05-11 (Pandora e os Desacertos dos Pactos de Javé) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2019-05-11_pandora_e_os_desacertos_dos_pactos_de_jave/. A pasta uploads_recepcao/ foi limpa novamente para manter apenas arquivos de metadados (auditoria e controle).",
+  "arquivos_processados": [
+    {
+      "nome": "2019-05-11 - Pandora e os Desacertos dos Pactos de Javé.txt",
+      "origem_blob": "8376a878197564b58e8f8bc6898f67e1fe25f33b",
+      "commit_origem": "7140ad59cd37f331846f3e566be71c2296933c35",
+      "sha256_original": "2eee7dc137dddf88c0ad9b8d3f97555fb6dbd0cf0c7057eb645f1ac0d7589bd2",
+      "tamanho_bytes": 129279,
+      "destino_md": "apostilas/CONCLUIDAS/2019-05-11_pandora_e_os_desacertos_dos_pactos_de_jave/apostila.md",
+      "tamanho_md": 21859,
+      "n_rc": 26,
+      "n_spans": 5,
+      "n_vinculos": 11,
+      "n_conceitos_novos": 6,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {
+      "nome": ".gitkeep",
+      "motivo": "manter pasta no git"
+    },
+    {
+      "nome": "README.md",
+      "motivo": "documentação da pasta"
+    },
+    {
+      "nome": "REGISTRO-LIMPEZA-2026-08-30.json",
+      "motivo": "auditoria da limpeza nº 1"
+    },
+    {
+      "nome": "REGISTRO-LIMPEZA-2026-08-30-2.json",
+      "motivo": "auditoria da limpeza nº 2"
+    },
+    {
+      "nome": "REGISTRO-LIMPEZA-2026-08-30-3.json",
+      "motivo": "auditoria da limpeza nº 3 (este arquivo)"
+    }
+  ],
+  "estado_pos_limpeza": "uploads_recepcao/ contém apenas metadados de auditoria. Próxima palestra da Nova Fase (tema Pandora) deve ser adicionada via upload direto na pasta.",
+  "causa_raiz_desencontro": "A palestra 2019-05-11 foi uploadada em 2026-08-30 19:16 BRT (commit 7140ad5) mas só foi capturada pelo `git fetch` local após 22:20 BRT (3+ horas depois). Possíveis causas: (a) propagação DNS/cache do GitHub, (b) cache do objeto no `origin/arena/01a04eee-termos-rc` que só foi atualizado com `git fetch` explícito, (c) ramo `arena/01a04eee-termos-rc` no remoto com refspec atrasada. RECOMENDAÇÃO: rodar `git fetch origin arena/01a04eee-termos-rc` antes de verificar se o commit está presente, em vez de assumir que `git fetch origin` genérico já trouxe tudo."
+}

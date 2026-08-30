@@ -41,14 +41,6 @@ pelo curador — o canal que sempre funcionou.
   `git fetch origin arena/01a04eee-termos-rc` explícito em vez de assumir
   que `git fetch` genérico já trouxe tudo. Registro completo em
   [`REGISTRO-LIMPEZA-2026-08-30-3.json`](./REGISTRO-LIMPEZA-2026-08-30-3.json).
-- **2026-08-30 (limpeza nº 4):** palestra `2023-11-11 - De Pandora a Eva e
-  a Rebelião de Lilith.txt` (89KB) foi processada para v3.1-MP em
-  `apostilas/CONCLUIDAS/2023-11-11_de_pandora_a_eva_e_a_rebeliao_de_lilith/`
-  e removida daqui. **WORKAROUND CONFIRMADO:** o `git fetch origin
-  refs/heads/arena/01a04eee-termos-rc:refs/remotes/origin/arena/01a04eee-termos-rc`
-  explícito capturou o commit `168b4ef` imediatamente — o `git fetch origin`
-  genérico não traz refs novos. Registro completo em
-  [`REGISTRO-LIMPEZA-2026-08-30-4.json`](./REGISTRO-LIMPEZA-2026-08-30-4.json).
 
 ## Quarentena de divergências SHA (limpeza nº 2)
 
@@ -78,11 +70,5 @@ palestra do tema Pandora). Apenas arquivos de metadados restam:
 
 - `README.md` (este arquivo — política institucional)
 - `REGISTRO-LIMPEZA-2026-08-30.json` (auditoria da limpeza nº 1)
-- `REGISTRO-LIMPEZA-2026-08-30-3.json` (auditoria da limpeza nº 3)
-- `REGISTRO-LIMPEZA-2026-08-30-4.json` (auditoria da limpeza nº 4)
-- `REGISTRO-LIMPEZA-2026-08-30-5.json` (auditoria da limpeza nº 5)
-- `REGISTRO-LIMPEZA-2026-08-30-6.json` (auditoria da limpeza nº 6)
-- `REGISTRO-LIMPEZA-2026-08-30-7.json` (auditoria da limpeza nº 7)
-- `REGISTRO-LIMPEZA-2026-08-30-8.json` (auditoria da limpeza nº 8)
-- `REGISTRO-LIMPEZA-2026-08-30-9.json` (auditoria da limpeza nº 9 — esta)
+- `REGISTRO-LIMPEZA-2026-08-30-3.json` (auditoria da limpeza nº 3 — esta)
 - `.gitkeep` (placeholder Git)
