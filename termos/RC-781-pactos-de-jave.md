@@ -1,0 +1,48 @@
+# Pactos de Javé (Brama / Vishnu / Shiva) — RC-781
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | EVENTOS & ERAS |
+| **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
+| **Status** | ⚪ candidato |
+| **Última atualização** | 2026-08-30 |
+
+## Definição Sintética
+Tese (leitura do autor, palestra **P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé**, U0004) de que os **três seres divinos** — **Javé/Brama (RC-001)**, **Vishnu/Krishna (RC-102)**, **Shiva (RC-148)** — fizeram **pactos entre si** por **impossibilidade racional** de prevalecerem uns sobre os outros. Esses pactos (que não são "termos de acordo racionais", mas **a única lógica possível para o comportamento demo**) geraram a humanidade como **resultado incidental**. A humanidade (RC-099) é, portanto, **o subproduto dos pactos desastrosos** entre os três — não o objetivo, mas o efeito colateral. Ver RC-001 (Javé), RC-102 (Krishna), RC-148 (Shiva) para os três seres pactuantes.
+
+## Contexto / Origem
+Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de conflito, os três seres (Brama/Javé com os anjos glores, Shiva com sua descendência, Vishnu com a sua descendência) **nunca conseguiram prevalecer uns sobre os outros**, então fizeram pactos — o único tipo de "lógica" possível para o modo demo. A humanidade é o resultado desastroso desses pactos.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Pactos de Javé (Brama / Vishnu / Shiva)
+- **Variações STT capturadas:** "pacto entre Javé, Vishnu e Shiva", "aliança entre os três", "pactos desastrosos"
+- **Idioma de origem:** Português + sânscrito (Trimurti: Brama, Vishnu, Shiva)
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | U0004 (S4) | — | palestra (fonte primária, STT) |
+| P2018-10-06 — Humanidade em Disputa a Descendência de Pandora | U0004 (S4) | — | palestra (fonte secundária, contexto) |
+
+## Citações-chave
+> «Brama ou Javé com os anjos glores, Chiva com sua descendência, Virgno com a sua descendência, brigaram de todas as maneiras e como nunca um conseguiu prevalecer sobre os outros dois, eles tiveram que fazer um pacto. Por que pacto? Porque pro comportamento demo, esse é o único tipo de lógica possível. Se eles fossem racionais, eles poderiam estabelecer um termo de acordo, poderiam fazer 100 negociações, mas eles não são. Eles são muito curtos de inteligência.» — P2019-05-11, U0004
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé (Brama) | RC-001 | pactuou-com |
+| Krishna / Vishnu | RC-102 | pactuou-com |
+| Shiva | RC-148 | pactuou-com |
+| Homo Sapiens / Seres Terrenos | RC-099 | é-resultado-de |
+| Ser Criador Fracassado | RC-422 | manifesta-se-em |
+| Trimurti | RC-104 | contextualizado-por |
+| Sofia como Protetorado da Humanidade | RC-784 | resposta-a |
+
+## Seres Associados
+- **Javé / Brama** (RC-001) — pactuante 1
+- **Krishna / Vishnu** (RC-102) — pactuante 2
+- **Shiva** (RC-148) — pactuante 3
+
+## Observações
+- [REVISAR]: a tese dos "pactos por impossibilidade racional" é leitura do autor; conecta-se com a Tríade Trimurti (RC-104) mas com **ênfase na desastrosidade** (não é aliança, é rendição mútua).
+- Quarentena: leitura do autor; sem fusão com teologia hindu tradicional (onde os pactos entre Trimurti são harmônicos) ou com teologia cristã (Javé como único).
