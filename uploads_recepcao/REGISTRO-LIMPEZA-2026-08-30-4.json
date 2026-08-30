@@ -1,0 +1,53 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-4",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 4 — após processamento da palestra 2023-11-11",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "c2d838d",
+  "motivo": "A palestra 2023-11-11 (De Pandora a Eva e a Rebelião de Lilith) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2023-11-11_de_pandora_a_eva_e_a_rebeliao_de_lilith/. A pasta uploads_recepcao/ foi limpa novamente para manter apenas arquivos de metadados (auditoria e controle).",
+  "arquivos_processados": [
+    {
+      "nome": "2023-11-11 - De Pandora a Eva e a Rebelião de Lilith.txt",
+      "origem_blob": "bcf7d45179a23917f9b28fd7f5b3c9e010ebf4cf",
+      "commit_origem": "168b4ef",
+      "sha256_original": "7322d782d7bdb69a6ed35756066d21fabeb2128a3dadf1efa6fa1072a3a6ff5c",
+      "tamanho_bytes": 89776,
+      "destino_md": "apostilas/CONCLUIDAS/2023-11-11_de_pandora_a_eva_e_a_rebeliao_de_lilith/apostila.md",
+      "tamanho_md": 25293,
+      "n_rc": 30,
+      "n_spans": 5,
+      "n_vinculos": 14,
+      "n_conceitos_novos": 6,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {
+      "nome": ".gitkeep",
+      "motivo": "manter pasta no git"
+    },
+    {
+      "nome": "README.md",
+      "motivo": "documentação da pasta"
+    },
+    {
+      "nome": "REGISTRO-LIMPEZA-2026-08-30.json",
+      "motivo": "auditoria da limpeza nº 1"
+    },
+    {
+      "nome": "REGISTRO-LIMPEZA-2026-08-30-3.json",
+      "motivo": "auditoria da limpeza nº 3"
+    },
+    {
+      "nome": "REGISTRO-LIMPEZA-2026-08-30-4.json",
+      "motivo": "auditoria da limpeza nº 4 (este arquivo)"
+    }
+  ],
+  "estado_pos_limpeza": "uploads_recepcao/ contém apenas metadados de auditoria. Próxima palestra da Nova Fase (tema Pandora) deve ser adicionada via upload direto na pasta.",
+  "workarounds_confirmados": [
+    "Sintoma: o arquivo é commitado no remoto mas o `git fetch origin` genérico no sandbox não atualiza o ref.",
+    "Causa provável: o sandbox tem cache do ref `origin/arena/01a04eee-termos-rc` que só é atualizado com `git fetch origin refs/heads/<branch>:refs/remotes/origin/<branch>` EXPLÍCITO.",
+    "Workaround definitivo: sempre rodar `git fetch origin refs/heads/arena/01a04eee-termos-rc:refs/remotes/origin/arena/01a04eee-termos-rc` antes de checar se um novo commit está presente."
+  ]
+}
