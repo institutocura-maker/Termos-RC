@@ -1,0 +1,36 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-7",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 7 — após processamento da palestra 2017-05-14",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "8cfc82d",
+  "motivo": "A palestra 2017-05-14 (O Desvio de Rota de Pandora e o Quarto Logos Universal) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2017-05-14_o_desvio_de_rota_de_pandora_e_o_quarto_logos_universal/. A pasta uploads_recepcao/ foi limpa novamente.",
+  "arquivos_processados": [
+    {
+      "nome": "2017-14-05 - O Desvio de Rota de Pandora e o Quarto Logos Universal.txt",
+      "origem_blob": "2221407c2fb83ea9a68319315d6c4d0b71974025",
+      "commit_origem": "78fd3cb",
+      "sha256_original": "ee4a0f710e2968ef5dc8e2276c11fba7402a6ad280f3b331f1e5947309d37834",
+      "tamanho_bytes": 83227,
+      "destino_md": "apostilas/CONCLUIDAS/2017-05-14_o_desvio_de_rota_de_pandora_e_o_quarto_logos_universal/apostila.md",
+      "tamanho_md": 29600,
+      "n_rc": 32,
+      "n_spans": 5,
+      "n_vinculos": 15,
+      "n_conceitos_novos": 9,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "observacao": "O arquivo NÃO estava no working tree local. Foi recuperado via `git cat-file -p 2221407c...` do commit `78fd3cb` no remoto. **DATA STT CORROMPIDA: '2017-14-05'** (mês 14 não existe) — canonizada como **2017-05-14** (formato dd-mm-yyyy mal interpretado pelo STT).",
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {"nome": ".gitkeep", "motivo": "manter pasta no git"},
+    {"nome": "README.md", "motivo": "documentação da pasta"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30.json", "motivo": "auditoria da limpeza nº 1"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-3.json", "motivo": "auditoria da limpeza nº 3"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-4.json", "motivo": "auditoria da limpeza nº 4"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-5.json", "motivo": "auditoria da limpeza nº 5"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-6.json", "motivo": "auditoria da limpeza nº 6"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-7.json", "motivo": "auditoria da limpeza nº 7 (este arquivo)"}
+  ]
+}
