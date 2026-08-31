@@ -38,10 +38,16 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - **[Mensagem Talm — não respondida] (U0015)** «Então, assim, a mensagem tal não, ela não foi respondida e não será respondida tão cedo.» — a resposta depende de um eu de Javé que sucumbiu; ver RC-001.
 - **[Mensagem Talm — a resposta é o pensamento único dos fenvans] (U0015)** «O pensamento único desses seres eh é a resposta à mensagem tal.» — o único pensamento dos fenvans é aguardar a resposta.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Mensagem TALM — "somos nós que nos tornamos vocês"] (U0006)** «Somos nós que nos tornamos vocês.» — o núcleo da mensagem dos Fenvans aos futuros seres biológicos.
+- **[Mensagem TALM — o trecho] (U0006)** «Nós seremos vocês quando tivermos que sê-lo.» — a promessa de Morlens ("o desperto") na mensagem; "de vocês nos nutriremos para podermos vir a ser aquilo que precisamos nos tornar".
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | B031 / B017 | — | obras publicadas |
 | P2023-05-13 | seções 3.4, 2.3; bloco da mensagem talma | palestra/STT pré-curada |

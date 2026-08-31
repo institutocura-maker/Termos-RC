@@ -161,3 +161,7 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 
 - **[Krishna — criando avatares próprios] (U0003)** «E quando esse Krishna tão grande ficou que Krishna passou a criar avatares dele próprio, ou seja, Chrishna Já era um avatar que achava.» — Krishna, avatar de temperamento de Shiva, passa a criar subavatares na condição humana.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Krishna — dono de Vaikuntha] (U0006)** «Mas a cada vez que a Trimurte gerava um novo avatar, esse avatar que era para existir durante um tempo, os avatares passaram a querer ser eternos e também que querem locas eh Krishna hoje. Ele é dono de várias locas aqui e também aqui e inclusive assumiu vaicunta.» — os avatares passaram a querer ser eternos; Krishna assumiu Vaikuntha (STT "vaicunta").
+

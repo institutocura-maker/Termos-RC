@@ -35,9 +35,14 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - **[P2023-04-01b · A POSIÇÃO NA OGLOAD]** a dupla Moros/Ananque como objeto da busca dos deuses: o Livro Perdido é o mapa que "todos os seres desse universo vizinho têm um quê de prejuízo no seu modo de ser" queriam consultar — a razão da perseguição da Trimurti a Moros e do sigilo dele.
 - 0 códigos novos (O-3). Quarentena: a lenda/mitologia comparada como registro narrativo.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Ananque — as necessidades dos códigos podres] (U0003)** «Anc pegou isso que Morus fez, olhou, olhou, olhou, aí começou a estudar a necessidade que cada código podre daquele, segundo a lógica de Anã, que um dia iria sentir.» — Ananque (STT "Anc/Anã") estudou a necessidade que cada código podre sentiria.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 2 | material do curador |
 | P2021-07-24 — Sophia, Ananque e as Necessidades Cósmicas (Jan Val Ellam) | integral | palestra (a fonte primária da grafia) |
 

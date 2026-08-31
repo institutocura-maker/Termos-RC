@@ -52,9 +52,14 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 
 - **[P2023-12-03 · SEFIROT / ÁRVORE DA VIDA NA FALA DE 03/12/2023]** «Não tem nada de árvore da vida, mas foi assim que os cabalistas chamaram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Sefirot — as 10 emanações] (U0006)** «Mas se você pegar as 10firá, o da Cabalá ou da Cabala, você vai ver que nove das personificações ou emanações da divindade existem aqui que Ter, que é brah o primeiro, biná que é shoka, que é visno.» — as 10 Sefirot (STT "10firá"): nove personificações existem aqui; Hochmah = Malkuth (a décima).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Tzimtzum (B013) | cap. 6 (Os Planos de Existência da Cabala) | pp. 75–85 (aprox.) | conceito central |

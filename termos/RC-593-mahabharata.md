@@ -54,9 +54,14 @@
 
 - **[P2023-12-03 · MAHABHARATA NA FALA DE 03/12/2023]** «um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que se você matar sem ordem, isso não gera karma para você.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Mahabharata — as versões] (U0003)** «Só que na hora em que foi confeccionada uma rabarata em termos de organização estrutural, Viaza diz: "É, a história do Marrabarata eu tive que compor em algumas versões distintas, porque para os gandar que moram em determinada morada celeste, eu tive que fazer um compêndio de 3.» — o Mahabharata (STT "Marrabarata/rabarata") em versões distintas: 3,2 mi de versos (gandharvas), 1 mi (Devas), 100 mil (humanos, a versão conhecida).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

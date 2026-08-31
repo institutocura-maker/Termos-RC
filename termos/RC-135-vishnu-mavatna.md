@@ -32,9 +32,14 @@ Com isso:
 
 - **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

@@ -23,9 +23,14 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - "utilizou vastos repositórios genéticos em estruturas como o Éon das Três Esferas... aproveitou as sequências descritas por Moros e Anã, essenciais para a propulsão da vida de plasma e da futura vida biológica";
 - "quando foram estabelecidas as bases do Projeto TALM, tudo se baseou na nanotecnologia já existente e desenvolvida durante bilhões de anos; Morlens foi capaz de idealizar e estabelecer os tipos de formas de vida mais primários a serem transferidos".
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Morlens — criado sem travas] (U0003)** «Esse morrensor foi criado como um descendente de virgino, já que a ideia foi divino, mas era um ser tão estranho.» — Morlens (STT "morrensor/Morrençon/Morrençor"), descendente de Vishnu, criado sem códigos de controle, com quatro cabeças (Brahma/Vishnu/Shiva + a dele livre).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |
 
 ## Citações-chave

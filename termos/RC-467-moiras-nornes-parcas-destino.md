@@ -90,10 +90,15 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 
 - **[Moiras — criadas por Moros antes de sumir] (U0015)** «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — a origem das moiras como seres não-sexuados criados por Moros; ver RC-454.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Nornes — operacionalizaram] (U0003)** «As nornes foram criadas para operacionalizar isso.» — as Nornes criadas para operacionalizar a relação código-podre → necessidade.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |

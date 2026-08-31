@@ -35,9 +35,14 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 - **[P2023-06-17 · O INCÔMODO CONSCIENCIAL — o sinal de grandeza (a absorção da Devolutiva O-3)]** "**SÓ QUEM SENTE INCÔMODO CONSCIENCIAL É QUEM É GRANDE... INCÔMODO CONSCIENCIAL É SINAL DE GRANDEZA**... se no meu coração sofrimento alheio não entra, eu não me incomodo, eu não sou grande" — o critério da superconsciência: o coração que abarca o sofrimento alheio [as cobranças nominais RETIDAS — quarentena O-7].
 - 0 códigos novos (O-3).
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Superconsciência — a evolução via karuna] (U0004)** «Aí mesmo que não deixem o corpo dele morrer com a série de inovações, mas o DNA dele não cria novas proteínas no sentido da evolução via caruna, via superconsciência.» — a evolução do DNA via Karuna/superconsciência, não por abdução/transplante.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0535–U0542 | STT pré-curado e validado |
 
 ## Citações-chave

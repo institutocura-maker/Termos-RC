@@ -17,9 +17,14 @@ São situados na quarta era equinocial, em conexão com Vyasa, Kshatriyas e Brah
 - Grafia preferida: Rishis. STT: riches.
 - **Fonte da grafia neste ciclo:** pré-curadoria da palestra `P2022-12-17`, validada pelo curador em 2026-08-14.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Rishis — o que é um riche] (U0003)** «Ele era um riche. O que é um riche?» — os Rishis (STT "riches/richis"): seres de forma humana com "parcelas de médica demo"; Viaza treinou 19.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0774 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave

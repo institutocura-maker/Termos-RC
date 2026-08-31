@@ -124,10 +124,15 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **[P2023-10-14 · A TESE DATADA DA FUSÃO DE EPÍTETOS (D-7: tese da fonte, não estrutura da ficha)]** "Esse cara é o pai de Jesus, tá pessoal?" (U0033); "É o Rockman em hebraico, Sofia em grego." (U0033) — ⚠️ Item 6 da devolutiva: a fusão **não** entra na estrutura das fichas; vive aqui como **tese datada** (com RC-682) e no aparato da apostila.
 - **[P2023-10-14 · A GRAFIA DO STT PARA A 2ª SEFIRAH]** "Aí tem Shockma e biná." (U0085) — [REVISAR: «Shockma» = Hochmah (canônico da Base); grafia preservada na citação.]
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Hochmah — a personificação da sabedoria] (U0006)** «Esse ser que a gente chama Sofia, mas o nome dele original é Hockma, não é nome, é um epíteto, que significa personificação da sabedoria.» — Hochmah (STT "Hockma/Rockma") é epíteto ("personificação da sabedoria"); os gregos o chamaram Sofia.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 

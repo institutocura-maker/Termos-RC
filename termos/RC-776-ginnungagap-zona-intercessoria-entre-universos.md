@@ -31,9 +31,14 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - **[Ginnungagap — o ovo cósmico chinês] (U0003)** «A mitologia chinesa diz que quando surgiu o ovo cósmico que deu início a esses dois universos, chamado o yang e panku, que é o nome do criador caindo caído, a mitologia chinesa que diz que durante 18.» — Pangu como o criador caído, em paralelo com Ymir.
 - **[Ginnungagap — Pradrag reconstruído como Javé/Inir/Pancu] (U0003)** «Então, e eh os fvães estariam nessa interseção, nesse ginago lugar, onde a queda de Jahor dizendo, a queda de Pradrag, né, que se reconstruiu como Javé ou como Inir ou como Pancu, teria entre aspas dado.» — a queda do criador como origem da intercessão onde os fenvans residem.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Ginnungagap — a interseção entre os universos] (U0006)** «E foi surgindo essa interseção aqui, que na mitologia nórdica é chamada de ginungagap.» — o Ginnungagap (STT "ginungagap/Gimung Gagap") como a interseção entre o universo material e o antimaterial; residência dos Fenvans.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 3 | material do curador |
 

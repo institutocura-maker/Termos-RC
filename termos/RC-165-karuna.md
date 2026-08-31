@@ -26,9 +26,14 @@
 
 - **[ART-2025-08-03 — material do curador] Karuna (Cap. 7):** "a resposta silenciosa: como a Consciência Karuna e o 'novo eu' de Javé podem redimi-los indiretamente"; "a egrégora do IEEA e a Verbalização: 'reativando os filmes parados' e dando força aos Fenvans para superarem seus obstáculos"; "a verbalização desses conhecimentos, especialmente na língua portuguesa, possui o condão de acionar mecanismos ancestrais adormecidos nas interligações das bases genéticas do genoma humano (o 'DNA lixo' de 95–97% inativo)" [QUARENTENA CLÍNICA].
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Karuna — a construção psíquica mais avançada] (U0006)** «Então, caruna é a construção psíquica mais avançada que nós humanos podemos construir em nós mesmos, no sentido emocional, no sentido psíquico, não no sentido intelectual.» — Karuna (compaixão) como o ápice da construção psíquica humana; surgiu com o cérebro límbico dos mamíferos.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte III, Cap. 7 | material do curador |
 | Fontes anteriores da Base | B061 | apoio/remissão |
 

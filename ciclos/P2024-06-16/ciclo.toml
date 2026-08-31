@@ -1,0 +1,77 @@
+# ciclo.toml — ciclo leve P2024-06-16 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2024-06-16"
+titulo = "O Projeto TALM, os Fenvans e os Humanos"
+data_fonte = "16/06/2024"
+pasta_fonte = "ciclos/P2024-06-16"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2024-06-16.txt"
+sha256_fonte = "0b73a348fadfaf1b68bafe69fc39ab918bc85eae453c47791e5d292e8cf3ffd8"
+
+baseline_commit = "dc162e7"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 45
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo: nenhuma (pérolas aguardam carimbo)
+ficha_true = 0   # viradas no cadastro: nenhuma
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 38    # códigos que passam a carregar P2024-06-16 na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O Projeto Talm é a obra de Morlens (RC-772), o ser criado sem travas que diagnosticou os 'códigos podres' do universo vizinho e propôs semeá-los neste universo biológico como farmácia/laboratório para extrair o remédio — o Satinadanagana.",
+  "O Satinadanagana é o 'super código' que precisa surgir a partir do genoma humano para que o eu do Criador (Brahma/Javé) ressuscite e reconstrua a condição perdida de Prabrajna (RC-152); Ishvara (RC-691) é o nome desse ser reconstruído, tema do livro 'O Mistério de Isvara'.",
+  "Os Fenvans (RC-064) são o gênero de demos criado para habitar o Ginnungagap (RC-776) e 'mergulhar' rumo às formas biológicas; a Mensagem TALM (RC-080) — 'somos nós que nos tornamos vocês' — é a promessa de Morlens de que os Fenvans virariam os futuros seres biológicos (os humanos).",
+  "A biologia é lida pela lente do Nidana (RC-154, código-fonte de plasma) transformado em DNA: as PEPS do criador viram genes; os três fornos replicadores (RC-771) foram construídos na Via Láctea (Awayen nunca funcionou; Awaymaion e Awaylengan funcionaram); os campos mórficos (RC-381) substituíram a idealização individual dos Fenvans.",
+  "O drama humano: a Karuna (RC-165, compaixão) é a construção psíquica mais avançada, surgida com o cérebro límbico dos mamíferos (oxitocina) e tornada efetiva pela racionalidade; o vício devocional (RC-749) e a ausência de Karuna impedem o experimento humano de vingar — e só a cessão consciente do DNA (RC-698, 'com carinho') pode reconstruir Javé.",
+]
+
+[definicoes]
+
+[observacoes]
+RC-772 = ["**Grafia STT:** 'Morrençor/Morrençou/Morrensor/Morrençon' = Morlens (canônico RC-772). Nesta fonte ele é o criador do Projeto Talm, descendente de Vishnu, com quatro cabeças."]
+RC-064 = ["**Grafia STT:** 'fenvans/fenvães/fvães/cvães/senvães/vães' = Fenvans. A fonte os descreve residentes no Ginnungagap, 'mergulhando' para imantar-se em formas biológicas."]
+RC-135 = ["**Grafia STT:** 'virgno/virgino/virgem/Vígno' = Vishnu. Nesta fonte Vishnu é o 3º logos (pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina)."]
+RC-102 = ["**Grafia STT:** 'Chiva/Chive/Chile' = Shiva. Nesta fonte é o 2º logos (organizou a vida) e comanda lokas no universo vizinho."]
+RC-037 = ["**Grafia STT:** 'Brama' = Brahma. Nesta fonte é o 1º logos (gerou a vida) e só sede o DNA/código-fonte na aristocracia trimurtiana."]
+RC-585 = ["**Grafia STT:** 'Viaza' = Vyasa; 'riches/richis' = Rishis (RC-586). 'Via' = o codificador (epíteto também dado a Allan Kardec)."]
+RC-593 = ["**Grafia STT:** 'Marrabarata/rabarata/uma rabarata/Marra Barat' = Mahabharata. Versões: 3,2 mi versos (gandharvas), 1 mi (Devas), 100 mil (humanos)."]
+RC-691 = ["**Grafia STT:** 'ovvar/Estivara' = Ishvara. O 'mistério de Isvara' é o ser reconstruído com o Satinadanagana (radar)."]
+RC-565 = ["**Grafia STT:** 'Hockma/Rockma/Rockman' = Hochmah. Epíteto 'personificação da sabedoria'; os gregos o chamaram Sofia; na Cabala, Malkuth."]
+RC-776 = ["**Grafia STT:** 'ginungagap/Gimung Gagap' = Ginnungagap. Interseção entre o universo material e o antimaterial."]
+RC-147 = ["**Grafia STT:** 'senos tendrel' = Zont En Drel. Desbloqueou o controle de Javé e se humaniza a partir do DNA do autor."]
+RC-777 = ["**Grafia STT:** 'Anc/Anã' = Ananque. Estudou a necessidade que cada código podre sentiria (base das Nornes, RC-467)."]
+RC-414 = ["**Grafia STT:** 'vaicunta' = Vaikuntha. Krishna, nesta fonte, 'assumiu Vaikuntha'."]
+RC-395 = ["**Grafia STT:** 'Rinarok/Raroque' = Ragnarok."]
+RC-152 = ["**Grafia STT:** 'prabragen' = Prabrajna. A 'divindade mãe' da criação; condição a ser reconstruída pelo eu ressuscitado do Criador."]
+
+[travas]
+RC-019 = "leitura do autor (a angelologia católica como 'romantismo'; anjo não cuida de humano) — dito, não doutrina"
+RC-001 = "leitura do autor (o tom crítico a Javé/'deus fajuto') — dito, não doutrina"
+RC-749 = "leitura do autor (a crítica ao devocional) — dito, não doutrina"
+RC-009 = "leitura do autor (Sophia teria 'traído' Brahma mandando Jesus não obedecer) — dito, não fundamentado"
+RC-217 = "quarentena científica (biologia molecular lida como metáfora do Nidana/PEPS) — dito, não endossado"
+
+[lacunas]

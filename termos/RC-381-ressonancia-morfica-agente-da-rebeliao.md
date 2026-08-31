@@ -51,9 +51,14 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 - **[Ressonância Mórfica — o campo mórfico] (U0003)** «que a gente não consegue entender desse processo de interação que esses seres têm, é que surgiu isso que a gente chama hoje de campo mórfico.» — o campo mórfico como produto do processo de interação dos Trimurtianos; no Q&A, a fonte distingue campo (registro quântico espiritual) de genoma (mistura biológica).
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Ressonância Mórfica — gerada pelo Projeto Talm] (U0006)** «Aí todos os que pulavam, referentes aquele campo mórfico, pulavam meio que juntos ou não sei o quê dentro de, ou seja, a coisa foi se sofisticando e foi assim que o projeto Talm gerou os famosos campos mórficos, que até hoje ninguém sabe o que diabos isso significa e nem como sugiro.» — os campos mórficos surgiram quando Morlens substituiu a idealização individual fenvã pela geração em série de espécies.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

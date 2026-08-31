@@ -30,9 +30,14 @@ Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial
 - **Cessão consciente do DNA (P2025-02-16):** "esse DNA humano tem que ser cedido de maneira consciente pelos terráqueos, sendo esta a única maneira de preservar sua validade funcional quando transferido para corpos de outras espécies. Não adianta arrancar o DNA humano ou abduzir alguém e levar — é como um transplante que o organismo rejeita. O DNA humano, para funcionar em qualquer outra coisa, tem que ser protegido pelo ato de cessão consciencial do dono daquele DNA. Esses seres descobriram isso agora, entre os anos 2018, 2021."
 - **Desmistifica abduções:** a "abdução" física não basta — a cessão consciente é a chave (ver RC-359 Abduções e Reparo Espiritual).
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Cessão Consciente do DNA — só com carinho] (U0004)** «Se não for com carinho, se não existia a consciência do ser humano, querendo ele mesmo dar algo dele para Javé, ou seja lá para quem for, isso nunca vai funcionar direito.» — só a cessão consciente (com carinho) do DNA humano funciona; tudo que é roubado "pifa".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-02-16 | U0781–U0786 | aula/palestra STT |
 
 ## Citações-chave

@@ -116,3 +116,8 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 - **[P2023-12-03 · RAGNAROK EM MARTE NA FALA DE 03/12/2023]** «a vida em Marte foi destruída devido a isso.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-08-08`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Ragnarok — a destruição temida] (U0004)** «A gente tem que destruir, senão eles vão dominar tudo e destruir o Rinarok.» — o temor de um novo Ragnarok (STT "Rinarok") na disputa pela reconstrução do criador.
+

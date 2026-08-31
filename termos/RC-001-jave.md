@@ -383,3 +383,7 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 - **[Javé — duas faces e uma desfigurada] (U0003)** «8 bilhões de anos, ele tem duas faces principais e uma face desfigurada.» — as três faces de Javé na natureza: a insetóide (abelhas/formigas), a cefalópode (náutilo) e a humana, que faliu.
 - **[Javé — a face do náutilo] (U0003)** «Javé assumiu a face, a natureza de um certo tipo de molusco do Cefalope chamado náutilo.» — a face cefalópode de Javé; ver RC-035 (o cérebro bilatério não veio via polvo).
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Javé — o colapso de 2021] (U0004)** «E no ano 2021, o corpo de Javé colapsou devido a esse problema.» — o corpo de Javé colapsou em 2021 por falta do "embrulho astral de dignidade" dos órgãos roubados.
+

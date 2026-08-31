@@ -82,3 +82,8 @@ A crítica à colmeia/ditadura e a menção ao imperador japonês como "abelha r
 - **[P2023-12-03 · MODELO COLMEIA (SISTEMA/CONTROLE COLMEIA) NA FALA DE 03/12/2023]** «igual a formiga que vive lá embaixo e quer tá lá embaixo porque é o lugar bom para eles.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Modelo Colmeia — o modelo colônia] (U0006)** «Então, o modelo colônia é um subproduto do sistema colmeia.» — o modelo colônia (corais, fungos) como subproduto do sistema colmeia (Calfa/ser alfa + obediência).
+

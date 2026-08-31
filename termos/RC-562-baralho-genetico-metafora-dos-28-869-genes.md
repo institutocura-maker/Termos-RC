@@ -21,10 +21,15 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 - **[P2022-03-26 · BARALHO GENÉTICO (28.869 GENES) NA FALA DE 26/03/2022]** "Tudo isso está hoje atualizado nos 28.869 genes de cada ser humano, como há 900 milhões de anos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Baralho genético — os 28.869 genes] (U0003)** «Nossos 28.869 genes são divididos em várias áreas.» — os 28.869 genes; a área HR1 (com ~1000 genes) é onde o Satinadanagana é trabalhado.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

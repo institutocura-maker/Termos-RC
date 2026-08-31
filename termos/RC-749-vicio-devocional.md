@@ -20,10 +20,15 @@ Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento dev
 - poucos "livres" (ateus e não-fundamentalistas); quem "já descobriu a verdade" estaria preso numa "gaiola de ilusão";
 - desdobramento: criação de califado mundial (âncora sunita) e manutenção da geopolítica.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Vício Devocional — bloqueia o empirismo] (U0003)** «Acreditem se quiser, mas o sentido devocional atrapalha isso aqui, porque faz com que a consciência de um ser humano se torne passiva e pulsante só num determinado padrão e cessa o empirismo da experiência humana que faz com que as mutações adaptativas e modificativas ocorram no genoma de cada ser humano.» — o devocional (inventado por Krishna, via Ananda) trava o empirismo que gera mutações adaptativas.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2024-04-13 | bloco final (vício devocional; 7 bilhões; big data; anjos clones) | palestra/STT pré-curada |
 
 ## Citação-chave

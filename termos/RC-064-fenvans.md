@@ -44,9 +44,14 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 - **[Fenvans — os únicos com genes críticos] (U0015)** «Só os fevães têm esses genes críticos porque quando eles foram criados para se transformar em qualquer coisa do outro lado do portal, eles tiveram pela primeira vez essa Coisa que os demonos nunca tiveram.» — ver RC-710.
 - **[Fenvans — executores do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — ver RC-091 e RC-081.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Fenvans — os que mergulhavam] (U0006)** «Então, os cvães eram figuras malucas que existiam aqui, que ficava o tempo todo olhando pro universo.» — os Fenvans (STT "cvães/fvães/fenvães/senvães"), residentes no Ginnungagap, idealizavam formas biológicas e "mergulhavam" para imantar-se nelas.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Partes I–III | material do curador |

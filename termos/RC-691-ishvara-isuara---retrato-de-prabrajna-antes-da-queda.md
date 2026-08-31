@@ -34,9 +34,14 @@ O curador fixou **Satchidananda** como a correção das formas severamente defor
 
 Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da cadeia Nidana–DNA–reconstrução, **sem código independente**.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Ishvara — o ser com o Satinadanagana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satinadanagana; "o mistério de Isvara" é o tema do livro em produção.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-03-15 | U0282–U0298; U0398–U0419; U0494–U0504; U0577–U0627; U1089–U1093 | palestra/STT — fonte incompleta |
 
 ## Citações-chave

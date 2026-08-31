@@ -394,3 +394,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[Sophia — produto da engenharia de Sophia] (U0009)** «Yalusb é biodeno, é produto da engenharia de Sofia, talvez o quarto logos junto com Sofia, no máximo.» — no Q&A: Yel Luzbel é biodemo, produto da engenharia de Sophia (talvez com o Quarto Logos), não avatar de Shiva.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Sophia — o suzerano] (U0006)** «Então, Rockman ou Sofia é o suzerano que foi criado para cá para representar esses seres aqui.» — Sophia (STT "Sofia/Rockman") como o suzerano criado para representar a Trimurti neste universo.
+

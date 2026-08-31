@@ -1,0 +1,190 @@
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2024-06-16 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-091
+
+- **[Projeto Talm — Morlens o criou] (U0003)** «Nesse contexto, Morençor criou o quê? O tal projeto tal, que a gente vai falar hoje.» — Morlens (STT "Morençor/Morrençou") como o criador do Projeto Talm; ver RC-772.
+- **[Projeto Talm — a data de partida] (U0004)** «O projeto Talm começou a ter lugar por volta de 5.7 bilhões de anos após o surgimento da criação ou observando-se de outro ângulo, cerca de 8.» — o Projeto Talm começou 5,7 bi de anos após a criação (8,1 bi de anos antes do presente); elaboração levou 600 milhões de anos.
+
+### RC-772
+
+- **[Morlens — criado sem travas] (U0003)** «Esse morrensor foi criado como um descendente de virgino, já que a ideia foi divino, mas era um ser tão estranho.» — Morlens (STT "morrensor/Morrençon/Morrençor"), descendente de Vishnu, criado sem códigos de controle, com quatro cabeças (Brahma/Vishnu/Shiva + a dele livre).
+
+### RC-064
+
+- **[Fenvans — os que mergulhavam] (U0006)** «Então, os cvães eram figuras malucas que existiam aqui, que ficava o tempo todo olhando pro universo.» — os Fenvans (STT "cvães/fvães/fenvães/senvães"), residentes no Ginnungagap, idealizavam formas biológicas e "mergulhavam" para imantar-se nelas.
+
+### RC-154
+
+- **[Nidana — do plasma ao DNA] (U0004)** «O projeto T transformou Nidana, que é o código fonte definidor de plasma do Criador, no DNA biológico que chegou no seu ápice de complexidade com a emergência do ser humano.» — o Projeto Talm transformou o Nidana (código-fonte definidor de plasma) em DNA biológico.
+
+### RC-165
+
+- **[Karuna — a construção psíquica mais avançada] (U0006)** «Então, caruna é a construção psíquica mais avançada que nós humanos podemos construir em nós mesmos, no sentido emocional, no sentido psíquico, não no sentido intelectual.» — Karuna (compaixão) como o ápice da construção psíquica humana; surgiu com o cérebro límbico dos mamíferos.
+
+### RC-771
+
+- **[Fornos Replicadores — na Via Láctea] (U0006)** «Só para os três fornos replicadores foram construídos no âmbito desta nossa galáxia.» — os três fornos foram construídos na Via Láctea (que teria engolido ~19 outras galáxias); um (Awayen) nunca funcionou, dois (Awaymaion e Awaylengan) funcionaram.
+
+### RC-585
+
+- **[Vyasa — o codificador] (U0003)** «A única pista que a racionalidade que hoje nós humanos temos dispõe para entender essa questão, É exatamente a história por trás da confecção do marrabarata, que é um dos épicos da literatura hindu, quando Krishna do Apaiana, que depois viria a ser conhecido como Viaza, Viaza não é um nome, é um epíteto.» — Vyasa (STT "Viaza") é epíteto: "via" = o codificador (mesmo termo dado a Allan Kardec).
+
+### RC-593
+
+- **[Mahabharata — as versões] (U0003)** «Só que na hora em que foi confeccionada uma rabarata em termos de organização estrutural, Viaza diz: "É, a história do Marrabarata eu tive que compor em algumas versões distintas, porque para os gandar que moram em determinada morada celeste, eu tive que fazer um compêndio de 3.» — o Mahabharata (STT "Marrabarata/rabarata") em versões distintas: 3,2 mi de versos (gandharvas), 1 mi (Devas), 100 mil (humanos, a versão conhecida).
+
+### RC-586
+
+- **[Rishis — o que é um riche] (U0003)** «Ele era um riche. O que é um riche?» — os Rishis (STT "riches/richis"): seres de forma humana com "parcelas de médica demo"; Viaza treinou 19.
+
+### RC-691
+
+- **[Ishvara — o ser com o Satinadanagana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satinadanagana; "o mistério de Isvara" é o tema do livro em produção.
+
+### RC-749
+
+- **[Vício Devocional — bloqueia o empirismo] (U0003)** «Acreditem se quiser, mas o sentido devocional atrapalha isso aqui, porque faz com que a consciência de um ser humano se torne passiva e pulsante só num determinado padrão e cessa o empirismo da experiência humana que faz com que as mutações adaptativas e modificativas ocorram no genoma de cada ser humano.» — o devocional (inventado por Krishna, via Ananda) trava o empirismo que gera mutações adaptativas.
+
+### RC-466
+
+- **[Bebida dos Deuses — o Satinadanagana como amrita/soma] (U0003)** «Então, o satinadana é o remédio, é o elixir, é a amrita, é o soma, é aquela bebida ou aquele remédio, ou aasca ou a cannabis ou é uma poção, é um remédio que os elétrons precisam tomar, desculpem a metáfora sem futuro, mas é o jeito, para organizar lá a memória deles para que eles possam produzir o Satinada na Gama.» — o Satinadanagana lido como o remédio/elixir/amrita/soma que reorganiza a memória dos elétrons.
+
+### RC-019
+
+- **[Anjos clones — 100% fiéis] (U0006)** «Esses clones eles nunca param de operar e eles são 100, não é 99, são 100% fiéis as ordens que Jahé ou Brama deu para eles.» — os anjos clones (Miguel, Rafael, Uriel, Gabriel) nunca param e são 100% fiéis às ordens de Brahma/Javé.
+
+### RC-092
+
+- **[Quarto Logos — a sequência dos logos] (U0006)** «Porque Brama foi o primeiro logos que gerou a vida.» — a sequência: Brahma (1º logos, gerou a vida), Shiva (2º, organizou), Vishnu (3º, pôs a evoluir via sexualidade/oxitocina), Olm (4º, decifração).
+
+### RC-009
+
+- **[Sophia — o suzerano] (U0006)** «Então, Rockman ou Sofia é o suzerano que foi criado para cá para representar esses seres aqui.» — Sophia (STT "Sofia/Rockman") como o suzerano criado para representar a Trimurti neste universo.
+
+### RC-565
+
+- **[Hochmah — a personificação da sabedoria] (U0006)** «Esse ser que a gente chama Sofia, mas o nome dele original é Hockma, não é nome, é um epíteto, que significa personificação da sabedoria.» — Hochmah (STT "Hockma/Rockma") é epíteto ("personificação da sabedoria"); os gregos o chamaram Sofia.
+
+### RC-776
+
+- **[Ginnungagap — a interseção entre os universos] (U0006)** «E foi surgindo essa interseção aqui, que na mitologia nórdica é chamada de ginungagap.» — o Ginnungagap (STT "ginungagap/Gimung Gagap") como a interseção entre o universo material e o antimaterial; residência dos Fenvans.
+
+### RC-381
+
+- **[Ressonância Mórfica — gerada pelo Projeto Talm] (U0006)** «Aí todos os que pulavam, referentes aquele campo mórfico, pulavam meio que juntos ou não sei o quê dentro de, ou seja, a coisa foi se sofisticando e foi assim que o projeto Talm gerou os famosos campos mórficos, que até hoje ninguém sabe o que diabos isso significa e nem como sugiro.» — os campos mórficos surgiram quando Morlens substituiu a idealização individual fenvã pela geração em série de espécies.
+
+### RC-080
+
+- **[Mensagem TALM — "somos nós que nos tornamos vocês"] (U0006)** «Somos nós que nos tornamos vocês.» — o núcleo da mensagem dos Fenvans aos futuros seres biológicos.
+- **[Mensagem TALM — o trecho] (U0006)** «Nós seremos vocês quando tivermos que sê-lo.» — a promessa de Morlens ("o desperto") na mensagem; "de vocês nos nutriremos para podermos vir a ser aquilo que precisamos nos tornar".
+
+### RC-104
+
+- **[Trimurti — a aristocracia trimurtiana] (U0006)** «Bem, quando Quando o mundo dos demos para de funcionar ou funciona vagarosamente ou não funciona, ainda que eles se movimentem, quando o mundo dos demos não produz nada para trimurte, paraa aristocracia trimurtiana, ou seja, a aristocracia trimurtiana, que eu chamo são os descendentes dos três seres da trimurte, são os tais avatares, são os tais seres de condição adiágen em Chiva.» — a "aristocracia trimurtiana" = os avatares/adiágenos descendentes da Trimurti; Brahma só sede o DNA.
+
+### RC-176
+
+- **[Modelo Colmeia — o modelo colônia] (U0006)** «Então, o modelo colônia é um subproduto do sistema colmeia.» — o modelo colônia (corais, fungos) como subproduto do sistema colmeia (Calfa/ser alfa + obediência).
+
+### RC-147
+
+- **[Zont En Drel — humanizado do DNA do autor] (U0006)** «Um desses seres e alguém que se apresentou a mim como senos tendrel, o livro Guardião do Éden, eu escrevia sobre esse ser.» — Zont En Drel (STT "senos tendrel") desbloqueou o controle de Javé e se humaniza a partir do DNA do autor.
+
+### RC-652
+
+- **[Últimas Ordens de Javé aos Clones — a ressignificação] (U0006)** «Então os anjos clones o criador continuam cumprindo as últimas ordens recebidas de Brama e o novo projeto que o novo projeto é isso aqui que a gente precisa criar, já que o projeto Talm parou, precisa ser ressignificado lá na frente.» — os clones cumprem as últimas ordens de Brahma; o novo projeto precisa harmonizar-se com elas.
+
+### RC-562
+
+- **[Baralho genético — os 28.869 genes] (U0003)** «Nossos 28.869 genes são divididos em várias áreas.» — os 28.869 genes; a área HR1 (com ~1000 genes) é onde o Satinadanagana é trabalhado.
+
+### RC-533
+
+- **[Supercomputador Cósmico — a planilha de Moros] (U0003)** «Moros criou uma planilha, vamos assim dizer, em um computador quântico para ser medido o peso da podridão ancestral em criptografado sob a forma de código fonte definidor que defini o corpo de cada ser individualizado.» — Moros (STT "Moros/Morus") mediu o peso da podridão ancestral no código-fonte definidor.
+
+### RC-777
+
+- **[Ananque — as necessidades dos códigos podres] (U0003)** «Anc pegou isso que Morus fez, olhou, olhou, olhou, aí começou a estudar a necessidade que cada código podre daquele, segundo a lógica de Anã, que um dia iria sentir.» — Ananque (STT "Anc/Anã") estudou a necessidade que cada código podre sentiria.
+
+### RC-467
+
+- **[Nornes — operacionalizaram] (U0003)** «As nornes foram criadas para operacionalizar isso.» — as Nornes criadas para operacionalizar a relação código-podre → necessidade.
+
+### RC-698
+
+- **[Cessão Consciente do DNA — só com carinho] (U0004)** «Se não for com carinho, se não existia a consciência do ser humano, querendo ele mesmo dar algo dele para Javé, ou seja lá para quem for, isso nunca vai funcionar direito.» — só a cessão consciente (com carinho) do DNA humano funciona; tudo que é roubado "pifa".
+
+### RC-217
+
+- **[DNA holográfico — as PEPS do criador] (U0006)** «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — as PEPS (pulsações eletromagnéticas particularizadas) do criador, codificadas como Nidana, viraram genes/DNA.
+
+### RC-615
+
+- **[Superconsciência — a evolução via karuna] (U0004)** «Aí mesmo que não deixem o corpo dele morrer com a série de inovações, mas o DNA dele não cria novas proteínas no sentido da evolução via caruna, via superconsciência.» — a evolução do DNA via Karuna/superconsciência, não por abdução/transplante.
+
+### RC-152
+
+- **[Prabrajna — a divindade mãe] (U0006)** «Feito isso, esse ser ressuscitado mais tarde pode eh deverá deixar o âmbito interno da criação indevida e reconstruir a sua perdida condição de prabragen, a divindade mãe dessa criação.» — o eu ressuscitado do criador reconstruirá a condição perdida de Prabrajna (STT "prabragen").
+
+### RC-263
+
+- **[Sefirot — as 10 emanações] (U0006)** «Mas se você pegar as 10firá, o da Cabalá ou da Cabala, você vai ver que nove das personificações ou emanações da divindade existem aqui que Ter, que é brah o primeiro, biná que é shoka, que é visno.» — as 10 Sefirot (STT "10firá"): nove personificações existem aqui; Hochmah = Malkuth (a décima).
+
+### RC-001
+
+- **[Javé — o colapso de 2021] (U0004)** «E no ano 2021, o corpo de Javé colapsou devido a esse problema.» — o corpo de Javé colapsou em 2021 por falta do "embrulho astral de dignidade" dos órgãos roubados.
+
+### RC-037
+
+- **[Brahma — só sede o DNA] (U0006)** «Brama não participa disso, apenas sede do DNA dele ou o código fonte dele.» — Brahma não participa da aristocracia trimurtiana; só cede o DNA/código-fonte.
+
+### RC-135
+
+- **[Vishnu — o terceiro logos] (U0006)** «Aí tem o terceiro logos que pôs tudo isso para evoluir, que foi virgino quando a força da sexualidade, fazendo com que a oxitocina surgisse.» — Vishnu (STT "virgino/virgno") como o 3º logos: pôs a vida a evoluir pela sexualidade, fazendo surgir a oxitocina.
+
+### RC-102
+
+- **[Shiva — e suas lokas] (U0006)** «Tem uma outra parte que quem manda é chiva, cheia de locas de chive da sua descendência.» — Shiva (STT "chiva/chive") comanda uma parte do universo vizinho, cheia de lokas de sua descendência.
+
+### RC-414
+
+- **[Krishna — dono de Vaikuntha] (U0006)** «Mas a cada vez que a Trimurte gerava um novo avatar, esse avatar que era para existir durante um tempo, os avatares passaram a querer ser eternos e também que querem locas eh Krishna hoje. Ele é dono de várias locas aqui e também aqui e inclusive assumiu vaicunta.» — os avatares passaram a querer ser eternos; Krishna assumiu Vaikuntha (STT "vaicunta").
+
+### RC-395
+
+- **[Ragnarok — a destruição temida] (U0004)** «A gente tem que destruir, senão eles vão dominar tudo e destruir o Rinarok.» — o temor de um novo Ragnarok (STT "Rinarok") na disputa pela reconstrução do criador.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+- **RC-154 Nidana**, **RC-466 Bebida dos Deuses**, **RC-019 Anjos clones**, **RC-533 Supercomputador Cósmico (Moros)** — tocados por esta fonte, com âncora verificada, mas sem arquivo de ficha em `termos/`. O vínculo `P2024-06-16` entra na linha do cadastro; a seção da ficha fica pendente da materialização (decisão curatorial, não automática).
+
+### BLOCO 3 — obras e datas ditas como ditas (sem harmonização)
+
+- **Projeto Talm** (obra futura, "livro que eu nunca termino").
+- **O Mistério de Isvara** (obra futura em produção).
+- **A Divina Colmeia** (publicada; brincadeira com a Divina Comédia de Dante).
+- **Guardião do Éden** (publicada; sobre Zont En Drel).
+- **Trilogia Terra Atlântis** (sobre a rebelião de Lúcifer; a mensagem TALM descoberta na realidade paralela "Val").
+- **Série Mentalma** (5 livros + curso).
+- Datas: Projeto Talm 5,7 bi anos após a criação / 8,1 bi anos antes do presente; elaboração 600 mi anos; ativo até ~2020 (desconstituição de Morlens); colapso de Brahma 2021; "27 humanos" em 2018; genótipo da gentileza ~11.000 anos; Krishna/dharma ~6.000 anos; Nabucodonosor 586 a.C.
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+- **Satinadanagana** (STT "Satinada Gana/Sá Nadagana/Satana Gana") — o "super código" que precisa surgir para o eu do Criador ressuscitar; meta do Projeto Talm. Âncoras: «O Satinadanagana deverá um dia surgir a partir do modelo atual do genoma humano.» (U0004) e «Já existem 27 humanos cujo código genético pessoal está próximo do Satana Gana.» (U0003). [candidato a termo novo; ligado a RC-691 Ishvara, RC-154 Nidana, RC-466]
+- **Oxitocina** (STT "tocina/oxitocina") — o "hormônio do bem", criado pelos mamíferos (não por Deus); base bioquímica da Karuna. [candidato a termo novo]
+- **Kleśas** (STT "clechas") — os cinco kleśas (preferência, aversão, medo da morte, identificação com o corpo) que "ferram o progresso humano"; ligados aos sanskaras. [candidato a termo novo]
+
+### BLOCO 5 — retidos (transcrito no original.txt, fora da ficha/índice)
+
+- **COVID-19 e efeitos tardios** (vírus penetrando o cérebro e mudando DNA; a anedota do colega da Caixa) — quarentena biomédica/política: dito, não endossado.
+- **"Woke mind virus"** — quarentena política: dito como dito, sem termo.
+- **Direita × esquerda** e os líderes mundiais ("discursam feito pavão") — quarentena política.
+- **Hitler/Stalin/Lenin** como exemplos de ausência de Karuna — quarentena histórica/política.
+- **O ataque ao corpo do autor** (março de 2019/2020, "clones enfiando coisa no meu corpo") — quarentena biomediúnica.
+- **Os "27 humanos"** com código próximo do Satinadanagana — não nomeados; a fonte não os identifica publicamente (nenhum nome transita).

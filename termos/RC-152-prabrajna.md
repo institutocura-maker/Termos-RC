@@ -87,9 +87,14 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 - **[P2024-11-03 — eco] A CONTAMINAÇÃO DE PRABRAJNA]** "EU ENTENDI SEMPRE PELO QUE EU ESTUDEI... QUE TUDO QUE CHEGA AQUI DE ALGUMA FORMA É CONTAMINADO PELA CRIAÇÃO DE PRABRAJNA, PELO QUE JAVÉ FEZ. [OLM] NÃO PASSOU POR ISSO NÃO..." (a_RC-092/RC-037).
 - 0 códigos novos (O-3).
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Prabrajna — a divindade mãe] (U0006)** «Feito isso, esse ser ressuscitado mais tarde pode eh deverá deixar o âmbito interno da criação indevida e reconstruir a sua perdida condição de prabragen, a divindade mãe dessa criação.» — o eu ressuscitado do criador reconstruirá a condição perdida de Prabrajna (STT "prabragen").
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 

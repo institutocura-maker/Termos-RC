@@ -215,3 +215,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[Quarto Logos — a grande novidade] (U0003)** «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex especiação, levar essa natureza humana esclarecida para outros rincões do do mundo e do universo, dá exemplo disso.» — o Quarto Logos como o projeto decente, contraposto ao império do mais forte.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Quarto Logos — a sequência dos logos] (U0006)** «Porque Brama foi o primeiro logos que gerou a vida.» — a sequência: Brahma (1º logos, gerou a vida), Shiva (2º, organizou), Vishnu (3º, pôs a evoluir via sexualidade/oxitocina), Olm (4º, decifração).
+

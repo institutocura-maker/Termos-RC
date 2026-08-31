@@ -73,9 +73,14 @@ Aparece na quarta era equinocial junto aos Rishis, Kshatriyas e Brahmanes.
 
 - **[P2022-03-26 · VYASA NA FALA DE 26/03/2022]** "1.600.000 versos para poder explicar aquilo aos gandarvas. Pros rakas echaças. Rxaças, ele criou 1.400.000 versos prosvas. pros pitres, eh, pros humanos, ele criou 100.000 versos, ou seja, criou uma história com 100.000 versos para explicar aquele mesmo episódio para a lógica dos humanos." (U0003) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Vyasa — o codificador] (U0003)** «A única pista que a racionalidade que hoje nós humanos temos dispõe para entender essa questão, É exatamente a história por trás da confecção do marrabarata, que é um dos épicos da literatura hindu, quando Krishna do Apaiana, que depois viria a ser conhecido como Viaza, Viaza não é um nome, é um epíteto.» — Vyasa (STT "Viaza") é epíteto: "via" = o codificador (mesmo termo dado a Allan Kardec).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0768–U0775; U0793 | transcrição automatizada; paráfrase e citação |

@@ -109,9 +109,14 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[Brahma — desalmado] (U0003)** «Aquilo que eu já expliquei em outras palestras, Brama é desalmado.» — o corpo mental de Brahma apartado do espírito; por isso ele não produzia avatares como Vishnu e Shiva.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Brahma — só sede o DNA] (U0006)** «Brama não participa disso, apenas sede do DNA dele ou o código fonte dele.» — Brahma não participa da aristocracia trimurtiana; só cede o DNA/código-fonte.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 5, 16 | pp. 14–17, 32–36, 113–119 | obra primária (fonte principal) |

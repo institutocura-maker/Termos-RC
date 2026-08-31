@@ -269,3 +269,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[Trimurti — antes da carreira solo] (U0003)** «E num certo sentido a Trimurte na época não se desfez, mas até então não existia carreira solo, nem de Brama, nem de Virgem, nem de Chiva.» — a Trimurti antes do Projeto Talm; comparação com os Beatles (George Harrison = Shiva sem espaço).
 - **[Trimurti — as férias do Projeto Talm] (U0003)** «Ela só se desfez há pouco tempo, mas na época do projeto Tal eles deram umas férias porque cada um deles começou a ter carreira solo através desses fornos replicadores.» — a Trimurti só se desfez recentemente; no Projeto Talm, cada um criou via seu forno.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Trimurti — a aristocracia trimurtiana] (U0006)** «Bem, quando Quando o mundo dos demos para de funcionar ou funciona vagarosamente ou não funciona, ainda que eles se movimentem, quando o mundo dos demos não produz nada para trimurte, paraa aristocracia trimurtiana, ou seja, a aristocracia trimurtiana, que eu chamo são os descendentes dos três seres da trimurte, são os tais avatares, são os tais seres de condição adiágen em Chiva.» — a "aristocracia trimurtiana" = os avatares/adiágenos descendentes da Trimurti; Brahma só sede o DNA.
+

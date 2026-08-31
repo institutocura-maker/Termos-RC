@@ -96,3 +96,8 @@ A palestra descreve a cadeia Nidana → DNA biológico → reorganização futur
 - **[P2023-12-03 · DNA COMO PROJEÇÃO HOLOGRÁFICA DO PSIQUISMO DO CRIADOR NA FALA DE 03/12/2023]** «Isso tá tudo no nosso DNA desativado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-12-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[DNA holográfico — as PEPS do criador] (U0006)** «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — as PEPS (pulsações eletromagnéticas particularizadas) do criador, codificadas como Nidana, viraram genes/DNA.
+

@@ -100,9 +100,15 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 - **[Projeto Talm — idealizado por Morren So] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a divisão idealizador × executores.
 
+## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
+
+- **[Projeto Talm — Morlens o criou] (U0003)** «Nesse contexto, Morençor criou o quê? O tal projeto tal, que a gente vai falar hoje.» — Morlens (STT "Morençor/Morrençou") como o criador do Projeto Talm; ver RC-772.
+- **[Projeto Talm — a data de partida] (U0004)** «O projeto Talm começou a ter lugar por volta de 5.7 bilhões de anos após o surgimento da criação ou observando-se de outro ângulo, cerca de 8.» — o Projeto Talm começou 5,7 bi de anos após a criação (8,1 bi de anos antes do presente); elaboração levou 600 milhões de anos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 12, 16, 17 | pp. 85–96, 113–123 | obra primária (fonte principal) |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Projeto Talm" |
