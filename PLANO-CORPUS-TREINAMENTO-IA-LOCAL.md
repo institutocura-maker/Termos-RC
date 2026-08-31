@@ -26,6 +26,14 @@ redirecionou o esforço:
 4. **Destino final:** quando a Base estiver consagrada (termos + relações estabilizadas),
    abre-se um **processo exclusivo** para gerar o conteúdo de treinamento da IA Local —
    derivado da Base, não das apostilas.
+5. **Pausa técnica (conclusão da sessão):** congelar **qualquer criação de scripts,
+   esqueletos de código (como o `gerar_corpus.py`) ou formatação de apostilas** — tudo
+   isso fica para o **Agente exclusivo** que o Curador criará no futuro. O foco atual é
+   **exclusivamente o garimpo bruto de termos e a expansão da malha da KB**; o repositório
+   está **em standby**, aguardando o envio do próximo TXT.
+6. **Sub-decisão das relações (anotada, não resolvida agora):** a questão dos tipos de
+   relação antigos × novos fica **apenas registrada** no plano (§6) — será tratada pelo
+   Agente exclusivo, não nesta fase.
 
 > **Nota do agente:** a decisão é tecnicamente correta. As apostilas e o corpus de
 > treinamento são **dois produtos diferentes** que vinham sendo forçados a conviver num
@@ -100,12 +108,14 @@ rito pesado (**8,1× menos**), sem perder nenhuma das 147 citações.
 
 ## 5 · O pipeline de treinamento futuro (a abrir quando a Base estiver consagrada)
 
-Este é o processo **exclusivo** que o Curador descreveu — ainda **não iniciado**. Fica
-registrado aqui para a próxima fase:
+Este é o processo **exclusivo** que o Curador descreveu — ainda **não iniciado** e
+**atribuído ao Agente exclusivo futuro** (nada aqui será criado nesta fase — ver §1,
+item 5). Fica registrado aqui para a próxima fase:
 
 1. **Congelar a Base** — termos + relações + fichas auditadas (consagração).
-2. **Exportar o corpus** — script determinístico (`ferramentas/gerar_corpus.py`, a criar)
-   que converte `dados_termos.py` + fichas + glossário em `corpus.jsonl` versionável:
+2. **Exportar o corpus** — script determinístico (`ferramentas/gerar_corpus.py`, a criar
+   pelo Agente exclusivo) que converte `dados_termos.py` + fichas + glossário em
+   `corpus.jsonl` versionável:
    - cada termo = 1 registro com código, nome canônico, categoria/subcategoria, status,
      definição, fontes, relações tipadas, grafias rejeitadas;
    - relações expandidas em arestas `(termo_A, tipo, termo_B)` com evidência;
@@ -270,13 +280,14 @@ fechado). A partir daqui, o foco migra para o **garimpo via esteira leve**.
 1. ✅ **Registrar a decisão** no `CONTINUIDADE.md` e no `PROMPT-PROXIMA-SESSAO.md` (feito).
 2. ✅ **Fechar as decisões de formato** (§6) e **especificar o schema** (§7) — feito nesta
    sessão; o caminho do corpus está mapeado de ponta a ponta.
-3. **Retomar o garimpo** assim que o Curador nomear a próxima palestra (fila em
-   `uploads_recepcao/`; os ~150 TXT restantes ainda precisam ser enviados/recuperados).
+3. **Standby:** aguardar o Curador enviar o próximo TXT (`uploads_recepcao/`). Foco
+   exclusivo no **garimpo bruto de termos** e na **expansão da malha da KB** via esteira
+   leve — sem criar scripts, esqueletos ou apostilas (pausa técnica, §1 item 5).
 4. **Aprovar pérolas candidatas** pendentes (25 do ciclo zero P2023-12-03 aguardam o
    carimbo do Curador).
-5. **Quando a Base estiver consagrada**, abrir o processo exclusivo de corpus (§5):
-   criar `gerar_corpus.py` segundo o schema §7, normalizar o vocabulário de relações (§6),
-   validar e exportar `corpus.jsonl`.
+5. **Quando a Base estiver consagrada**, o **Agente exclusivo** abre o processo de corpus
+   (§5): criar `gerar_corpus.py` segundo o schema §7, normalizar o vocabulário de relações
+   (§6), validar e exportar `corpus.jsonl`.
 
 ---
 
