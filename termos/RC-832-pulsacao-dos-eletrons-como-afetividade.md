@@ -1,0 +1,56 @@
+# Pulsação dos Elétrons Como Afetividade Humana — RC-832
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | PROCESSOS & FENÔMENOS |
+| **Subcategoria** | 4.6 Processos sociais / biológicos |
+| **Status** | ⚪ candidato (com quarentena social FORTE) |
+| **Última atualização** | 2026-08-31 |
+
+## Definição Sintética
+Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportamento biológico humano** (afetividade, identidade de gênero, medo de relação sexual, vontade de ficar só, insegurança) é promovido pela **pulsação dos elétrons (RC-378)** — **NÃO é escolha humana livre**, é "comportamento biológico promovido pela pulsação dos elétrons". Os elétrons estão **desincentivando a reprodução humana** para parar com a "máquina de gerar vida" — "Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-378 (Elétron), RC-099 (Homo Sapiens), RC-009 (Sofia), RC-330 (Genoma), RC-826 (Rebelião dos Elétrons).
+
+## Contexto / Origem
+Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétrons estão **reduzindo a reprodução humana** sem matar humanos. "Como no caso humano, masculino e feminino, masculino transa, feminino transa, cria mais seres humanos e mais nós, os elétrons se ferram, porque os humanos inventaram a pior coisa que a gente sente, que é o ódio racionalizado. Então, como é que eu disfaço os humanos? Nós elétrons não podemos matar os humanos, mas como é que a gente pode fazer? É fazer com que a turma no trans mais porque é a única maneira de impedir ou então transcrie. Aí surge como afetividade, surge identidade de gênero, surge, vontade de ficar só, surge, medo de ter relação sexual, surge, aí começa a surgir insegurança, e a humanidade começa a procriar menos."
+
+## Etimologia / Grafias
+- **Grafia preferida:** Pulsação dos Elétrons Como Afetividade Humana
+- **Variações STT capturadas:** "pulsação dos elétrons", "comportamento biológico", "afetividade", "identidade de gênero", "medo de ter relação sexual", "vontade de ficar só", "insegurança"
+- **Idioma de origem:** Português
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0004 (S4) | — | palestra (fonte primária, STT) |
+
+## Citações-chave
+> «Como no caso humano, masculino e feminino, masculino transa, feminino transa, cria mais seres humanos e mais nós, os elétrons se ferram, porque os humanos inventaram a pior coisa que a gente sente, que é o ódio racionalizado. Então, como é que eu disfaço os humanos? Nós elétrons não podemos matar os humanos, mas como é que a gente pode fazer? É fazer com que a turma no trans mais porque é a única maneira de impedir ou então transcrie.» — P2023-12-17, U0004
+
+> «Aí surge como afetividade, surge identidade de gênero, surge, vontade de ficar só, surge, medo de ter relação sexual, surge, aí começa a surgir insegurança, e a humanidade começa a procriar menos. E ninguém tem a menor noção do que está, do por isso está acontecendo. é um comportamento biológico promovido pela pulsação dos elétrons. E isso serve para tudo que é espécie.» — P2023-12-17, U0004
+
+> «Os elétrons estão montaram tribunal da Inquisição e disseram: 'Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito'.» — P2023-12-17, U0004
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Elétron | RC-378 | tem-pulsação |
+| Homo Sapiens | RC-099 | é-alvo-de |
+| Sofia | RC-009 | é-biodemo-com |
+| Genoma | RC-330 | é-alvo-de |
+| Rebelião dos Elétrons | RC-826 | é-mecanismo-de |
+| Memória dos Elétrons | RC-829 | é-contexto-de |
+| Identidade de Gênero | (tema social) | é-expressão-de |
+
+## Seres Associados
+- **Elétrons (RC-378)** — quem pulsa
+- **Humanos (RC-099)** — quem é afetado
+
+## Observações
+- [REVISAR]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica.
+- **🚨 QUARENTENA SOCIAL FORTE (LEITURA POLÊMICA)**: a palestra contém a tese de que **afetividade, identidade de gênero, medo de relação sexual** são **"comportamento biológico promovido pela pulsação dos elétrons"** — e portanto **NÃO é escolha humana livre**. Esta leitura **pode ser interpretada como transfobia** ou como **negação de autonomia humana**. **NÃO FUSIONAR com**:
+  - Teoria queer acadêmica (Judith Butler) — embora paralelos formais existam, o contexto é **demoníaco**, não social.
+  - Teoria feminista da reprodução (pânico populacional) — embora paralelos existam, o contexto é **metafísico**, não demográfico.
+  - Genética comportamental — embora o autor fale em "genoma", a atribuição causal é **demoníaca**, não molecular.
+- **NOTA DO CURADOR**: Esta palestra é de 2023-12-17 — **antes** da repercussão dos ataques do autor em 2024-2026. Quarentena mantida como **FORTE** e revisada se o contexto histórico do autor mudar.
+- **Conexão com RC-335 (Lavagem Cerebral)**: o conceito de "pulsação dos elétrons" é paralelo à RC-335 — ambos descrevem programação externa que afeta a humanidade, mas em escalas diferentes (cultural vs subatômica).
+- **Conexão com RC-008 (Cisão dos Primeiros Logos)**: a "pulsação" pode ser vista como o efeito moderno da cisão — os elétrons (que são mensageiros dos 3 primeiros Logos) estão se rebelando contra a ordem que eles mesmos instalaram.

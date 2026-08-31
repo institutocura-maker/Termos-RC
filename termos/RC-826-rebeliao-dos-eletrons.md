@@ -1,0 +1,55 @@
+# Rebelião dos Elétrons (Além da Entropia) — RC-826
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | PROCESSOS & FENÔMENOS |
+| **Subcategoria** | 4.5 Processos quânticos / subatômicos |
+| **Status** | ⚪ candidato |
+| **Última atualização** | 2026-08-31 |
+
+## Definição Sintética
+Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0004) de que **os elétrons (RC-378) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação). Os elétrons "montaram tribunal da Inquisição" e disseram "a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-378 (Elétron), RC-002 (Lúcifer), RC-009 (Sofia), RC-099 (Homo Sapiens), RC-330 (Genoma), RC-827 (Era do Colapso).
+
+## Contexto / Origem
+Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história da rebelião dos elétrons. O **"Ih"** de Morenu (~9 bilhões de anos atrás, no universo vizinho) e o **"Ih" de Luzbell** (~1 milhão de anos atrás, no nosso universo) são os primeiros momentos da percepção. "O que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima." Os elétrons estão acumulando **informação negativa** em sua "infinitude memorial" e não suportam mais apropriar — então estão "trabalhando as formas arcanas no âmbito do inconsciente dos elétrons" para desfazê-los.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Rebelião dos Elétrons (Além da Entropia)
+- **Variações STT capturadas:** "rebelião dos elétrons", "rebelião dos antielétrons", "tribunal da Inquisição dos elétrons", "Ih dos elétrons"
+- **Idioma de origem:** Português
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0004 (S4) | — | palestra (fonte primária, STT) |
+| P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada | (todas) | — | palestra (fonte secundária, paralelo) |
+
+## Citações-chave
+> «A rebelião dos elétrons, a própria rebelião da das memórias dos elétrons. Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás, nesse diverse vizinho.» — P2023-12-17, U0004
+
+> «Os elétrons estão montaram tribunal da Inquisição e disseram: 'Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito'.» — P2023-12-17, U0004
+
+> «Os elétrons eles estão acumulando informações mais e mais e enquanto isso aqui durar essa criação, eles vão estar acumulando informação. Mas compreendo, eles já acumularam um grau de informação negativa que fez a infinitude memorial deles não suportar mais apropriar.» — P2023-12-17, U0004
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Elétron | RC-378 | protagoniza |
+| Lúcifer | RC-002 | é-vetor-de |
+| Sofia | RC-009 | é-biodemo-de |
+| Homo Sapiens | RC-099 | é-alvo-de |
+| Genoma | RC-330 | é-alvo-de |
+| Era do Colapso do Caos Organizado | RC-827 | contextualiza |
+| Pulsação dos Elétrons | RC-832 | é-mecanismo-de |
+| Memória dos Elétrons | RC-829 | é-contexto-de |
+
+## Seres Associados
+- **Elétrons (RC-378)** — quem se rebela
+- **Lúcifer (RC-002)** — o vetor paralelo
+- **Sofia (RC-009)** — quem tem o "olhar científico" sobre a rebelião
+
+## Observações
+- [REVISAR]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (rebelião dos elétrons como agente).
+- **Quarentena científica FORTE**: o conceito **NÃO FUSIONAR com** física de partículas acadêmica (CERN, LHC) nem com mecânica quântica acadêmica.
+- **Conexão com a P2023-12-03**: é a continuação direta. A P2023-12-03 fala da "rebelião de Lúcifer" (mais teológica); a P2023-12-17 fala da "rebelião dos elétrons" (mais cosmológica). Lúcifer e os elétrons são "dois vetores que nunca se uniram, mas precisa se unir".
+- **Conexão com Charon**: o autor cita o físico nuclear francês Charon (anos 70) como o descobridor da "memória dos elétrons" — parcialmente verificável (mecânica quântica reconhece "decoerência", mas não "vontade").

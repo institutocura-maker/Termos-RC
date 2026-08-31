@@ -1,0 +1,39 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-10",
+  "data": "2026-08-31",
+  "tipo": "limpeza nº 10 — após processamento da palestra 2023-12-17 (REPROCESSAMENTO)",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "d21f0bb",
+  "motivo": "A palestra 2023-12-17 (Lúcifer e a Rebelião dos Elétrons) foi REPROCESSADA para v3.1-MP como apostila CONCLUÍDA, depois de ter sido originalmente processada como CICLO LEVE (ciclos/P2023-12-17/) pelo curador anterior. A pasta uploads_recepcao/ foi limpa novamente.",
+  "arquivos_processados": [
+    {
+      "nome": "2023-12-17 Lúcifer e a Rebelião dos Elétrons.txt",
+      "origem_blob": "8440dded739479a570ed8d14e5dca86fb2ccb76e",
+      "commit_origem": "703714ba",
+      "sha256_original": "00e05fe81057a42fd7dc0c51b10f55b24b8818a20f44767972841a18845d7d6c",
+      "tamanho_bytes": 95468,
+      "destino_md": "apostilas/CONCLUIDAS/2023-12-17_lucifer_e_a_rebeliao_dos_eletrons/apostila.md",
+      "tamanho_md": 40522,
+      "n_rc": 25,
+      "n_spans": 5,
+      "n_vinculos": 21,
+      "n_conceitos_novos": 8,
+      "status": "REPROCESSADO_como_apostila_concluida_V3_1_MP"
+    }
+  ],
+  "observacao": "REPROCESSAMENTO: a palestra já tinha sido processada pelo curador anterior como CICLO LEVE (vide ciclos/P2023-12-17/ciclo.toml e ciclos/P2023-12-17/pacote_P2023-12-17.txt). O usuário pediu para REFAZER como APOSTILA CONCLUÍDA v3.1-MP. **8 conceitos novos materializados como RC-826 a RC-833**: Rebelião dos Elétrons, Era do Colapso do Caos Organizado, Sistema Arcaico Mental (Javé = Abelha Rainha), Memória dos Elétrons e Arcanos, Yosbel Como Aventureiro Isolado, Sofia Como Biodemo da Ordem e Caos, Pulsação dos Elétrons Como Afetividade Humana, 13 Livros de Lúcifer com Humanos. **QUARENTENA FORTE** sobre a leitura da 'pulsação dos elétrons como afetividade humana' (RC-832) — pode ser interpretada como transfobia; quarentenas FORTE científica, social, teológica e metodológica aplicadas.",
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {"nome": ".gitkeep", "motivo": "manter pasta no git"},
+    {"nome": "README.md", "motivo": "documentação da pasta"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30.json", "motivo": "auditoria da limpeza nº 1"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-3.json", "motivo": "auditoria da limpeza nº 3"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-4.json", "motivo": "auditoria da limpeza nº 4"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-5.json", "motivo": "auditoria da limpeza nº 5"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-6.json", "motivo": "auditoria da limpeza nº 6"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-7.json", "motivo": "auditoria da limpeza nº 7"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-8.json", "motivo": "auditoria da limpeza nº 8"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-9.json", "motivo": "auditoria da limpeza nº 9"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-10.json", "motivo": "auditoria da limpeza nº 10 (este arquivo)"}
+  ]
+}
