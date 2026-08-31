@@ -117,25 +117,117 @@ registrado aqui para a próxima fase:
 
 ---
 
-## 6 · Decisões de formato pendentes (para o processo exclusivo futuro)
+## 6 · Decisões de formato FECHADAS (2026-08-31)
 
-Estas decisões **não bloqueiam o garimpo** (que já roda), mas precisam ser fechadas antes
-de abrir o treinamento:
+Fechadas pelo Curador nesta sessão. São as cinco do §6 original + o default técnico de
+chunking, validado em bloco:
 
-- [ ] **Formato do corpus:** JSONL (um registro por termo + um por aresta) vs. pares
-      pergunta-resposta vs. markdown estruturado. Recomendação inicial: JSONL.
-- [ ] **Estratégia de chunking:** como fatiar fichas longas para a janela de contexto do
-      modelo local.
-- [ ] **Tratamento das quarentenas no corpus:** os termos sob quarentena (teológica,
-      ufológica, clínica, política, gênero) entram **rotulados**, nunca como doutrina.
-- [ ] **Separar fato × leitura:** campo explícito de "status epistemológico" (a Base já
-      tem insumo para isso nas apostilas, via `@autoridade_leitura`).
-- [ ] **Camada de grafia:** como ensinar o modelo a corrigir STT → canônico (o
-      `GLOSSARIO-CANONICO` SEÇÃO 1 é o ponto de partida).
+| # | Decisão | Fechada como | Nota |
+|---|---|---|---|
+| 1 | **Estratégia de treino** | **Híbrido** — RAG como fonte de verdade + fine-tuning leve para o estilo curatorial | respostas ancoradas + sotaque de curadoria |
+| 2 | **Formato do corpus-base** | **JSONL** — 1 registro por termo + 1 por relação + 1 por par de grafia | fonte de verdade neutra; transformável em Q&A/RAG/markdown por script |
+| 3 | **Quarentenas no corpus** | **Rotuladas** com campo explícito, **nunca como doutrina** | o termo entra, marcado como leitura/alegação |
+| 4 | **Fato × leitura do autor** | **Campo obrigatório** `epistemologia` por asserção/relação | impede a IA de ensinar cosmologia do autor como ciência |
+| 5 | **Camada de grafia STT→canônico** | **Pares supervisionados** da SEÇÃO 1 do `GLOSSARIO-CANONICO` | determinístico e auditável |
+| 6 | **Chunking** (default técnico) | **Por unidade lógica** (seção da ficha), com metadados — nunca por caractere fixo | valida junto ao fechamento do processo exclusivo |
+
+> **Sub-decisão emergente (anotada, não bloqueante):** as fichas antigas usam **tipos de
+> relação livres** ("é-família-de", "é-paralelo-com", "é-vigiada-por"…), enquanto a esteira
+> leve canoniza **4 tipos** (`fundamenta`/`contradiz`/`antecipa`/`exemplifica`). O corpus
+> precisa de um **vocabulário controlado de relações**: as 4 da esteira são o núcleo; os
+> tipos livres serão **mapeados/normalizados** (ou mantidos como `relaciona` genérico) no
+> momento da exportação. Registrar como item do processo exclusivo, não do garimpo.
 
 ---
 
-## 7 · Lições aprendidas (para não repetir)
+## 7 · Schema do corpus JSONL (especificação v1.0)
+
+O `corpus.jsonl` terá **4 tipos de registro** (um objeto JSON por linha). Campos marcados
+`*` são obrigatórios. Este schema é o contrato que o `gerar_corpus.py` (a criar no processo
+exclusivo) deverá cumprir.
+
+### 7.1 — Registro `meta` (cabeçalho, 1ª linha)
+
+```json
+{
+  "tipo": "meta",
+  "schema_versao": "1.0",
+  "gerado_em": "AAAA-MM-DD",
+  "fontes": ["ferramentas/dados_termos.py", "termos/RC-*.md", "GLOSSARIO-CANONICO-*.md"],
+  "contadores": {"termos": 777, "relacoes": 1856, "fichas": 526, "grafias": "N"}
+}
+```
+
+### 7.2 — Registro `termo` (1 por termo)
+
+```json
+{
+  "tipo": "termo",
+  "codigo": "RC-009",
+  "nome": "Sophia (Cristo Cósmico)",
+  "categoria": "Seres & Entidades",
+  "subcategoria": "1.8 Consciências coletivas / Logos",
+  "status": "verificado",
+  "ficha": true,
+  "definicao": "…(Definição Sintética)…",
+  "etimologia": "…(Etimologia / Grafias)…",
+  "fontes": ["B031", "P2023-12-17"],
+  "grafias": {"canonica": "Sophia", "rejeitadas": ["Sofia"]},
+  "quarentena": [],
+  "epistemologia": "leitura_do_autor",
+  "citacoes_chave": ["…"],
+  "observacoes": ["…"]
+}
+```
+
+### 7.3 — Registro `relacao` (1 por aresta)
+
+```json
+{
+  "tipo": "relacao",
+  "origem": "RC-009",
+  "relacao": "fundamenta",
+  "destino": "RC-072",
+  "evidencia": {"fonte": "P2023-12-17", "unidade": "U0002", "faixa": "1234-1456"},
+  "selo": "P2023-12-17",
+  "epistemologia": "leitura_do_autor"
+}
+```
+
+### 7.4 — Registro `grafia` (1 por par bruto→canônico; decisão §6-5)
+
+```json
+{
+  "tipo": "grafia",
+  "bruto": "Sofia",
+  "canonico": "Sophia",
+  "codigo": "RC-009",
+  "origem": "GLOSSARIO-CANONICO §1"
+}
+```
+
+### 7.5 — Enums (vocabulários controlados do corpus)
+
+| Campo | Valores |
+|---|---|
+| `status` | `candidato` · `provisório` · `em análise` · `verificado` |
+| `epistemologia` | `fato` · `leitura_do_autor` · `alegacao` · `quarentena` |
+| `quarentena` | `teologica` · `ufologica` · `clinica` · `politica` · `genero` · `biomediunica` · `institucional` · `biografica` |
+| `relacao` (núcleo) | `fundamenta` · `contradiz` · `antecipa` · `exemplifica` (+ tipos livres das fichas, a normalizar — ver §6) |
+
+### 7.6 — Mapa de origem dos campos (o que sai de onde)
+
+| Campo do corpus | Vem de |
+|---|---|
+| `codigo`, `nome`, `categoria`, `subcategoria`, `status`, `ficha`, `fontes` | `dados_termos.py` |
+| `definicao`, `etimologia`, `citacoes_chave`, `observacoes`, `relacionados` | `termos/RC-*.md` |
+| `grafias` (canônica × rejeitadas) | `GLOSSARIO-CANONICO` §1 |
+| `relacao`, `evidencia`, `selo`, `epistemologia` | malha de relações + esteira leve |
+| `quarentena` | rótulos das fichas/apostilas (campo novo a preencher na exportação) |
+
+---
+
+## 8 · Lições aprendidas (para não repetir)
 
 1. **Verbatim e canônico são camadas diferentes.** O verbatim bruto mora em
    `original.txt` + `uploads_recepcao/`; o canônico mora na Base. Misturar os dois num
@@ -154,7 +246,7 @@ de abrir o treinamento:
 
 ---
 
-## 8 · Estado atual (fechamento da sessão 2026-08-31)
+## 9 · Estado atual (fechamento da sessão 2026-08-31)
 
 | Métrica | Valor |
 |---|---|
@@ -173,19 +265,22 @@ fechado). A partir daqui, o foco migra para o **garimpo via esteira leve**.
 
 ---
 
-## 9 · Próximos passos
+## 10 · Próximos passos
 
-1. **Registrar a decisão** no `CONTINUIDADE.md` e no `PROMPT-PROXIMA-SESSAO.md` (feito
-   nesta sessão) para a próxima sessão abrir já no foco certo.
-2. **Retomar o garimpo** assim que o Curador nomear a próxima palestra (fila em
+1. ✅ **Registrar a decisão** no `CONTINUIDADE.md` e no `PROMPT-PROXIMA-SESSAO.md` (feito).
+2. ✅ **Fechar as decisões de formato** (§6) e **especificar o schema** (§7) — feito nesta
+   sessão; o caminho do corpus está mapeado de ponta a ponta.
+3. **Retomar o garimpo** assim que o Curador nomear a próxima palestra (fila em
    `uploads_recepcao/`; os ~150 TXT restantes ainda precisam ser enviados/recuperados).
-3. **Aprovar pérolas candidatas** pendentes (25 do ciclo zero P2023-12-03 aguardam o
+4. **Aprovar pérolas candidatas** pendentes (25 do ciclo zero P2023-12-03 aguardam o
    carimbo do Curador).
-4. **Quando a Base estiver consagrada**, abrir o processo exclusivo de corpus (§5–§6).
+5. **Quando a Base estiver consagrada**, abrir o processo exclusivo de corpus (§5):
+   criar `gerar_corpus.py` segundo o schema §7, normalizar o vocabulário de relações (§6),
+   validar e exportar `corpus.jsonl`.
 
 ---
 
-## 10 · Referências
+## 11 · Referências
 
 - `DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md` — norma da esteira leve (rito de garimpo).
 - `ferramentas/motor.py` — Motor Único (selftest 9/9).
