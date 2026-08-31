@@ -75,10 +75,16 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 - **[P2023-12-03 · LEN MION (SATÃ) NA FALA DE 03/12/2023]** «foi quando Lemion Satã invadiu lá as nossas defesas e ele foi, vamos assim dizer, caiu numa num arapuca amorosa e foi capturado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Lemion = Len Mion (Satã)] (U0084)** «E Lemon fixou os olhos em um dos milhões que estavam vivendo aqui.» — 'Lemion/Lemon/Lemior' é grafia STT de Len Mion (Satã, RC-074): Lúcifer cedeu-lhe o comando da rebelião e ele adestrou um dos Mion — o mesmo Len Mion do livro Era Sapiens (RC-238). Redirecionado para RC-074 na devolutiva (não é termo novo).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |

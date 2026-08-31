@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
 teto = "suspenso-com-cadencia"
-termos_novos = ["RC-843 Eru Ilúvatar (criador no Silmarillion)", "RC-844 Melkor (o filho dissonante)", "RC-845 Nada Brahma (tudo é som)", "RC-846 Lemion (comandante rebelde pós-Lúcifer)"]
+termos_novos = ["RC-843 Eru Ilúvatar (criador no Silmarillion)", "RC-844 Melkor (o filho dissonante)", "RC-845 Nada Brahma (tudo é som)"]
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 4       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 20   # códigos que passam a carregar a sigla do ciclo na lista de fontes
+arquivos = 8      # fichas materializadas nesta devolutiva (a fila aberta, ordem do Curador)
+ficha_true = 8   # viradas no cadastro: as mesmas 8 (False → True)
+termos = 3       # RC-843/844/845; RC-846 foi rebaixado (redirect → RC-074) nesta devolutiva
+relacoes = 1     # RC-101 'manifesta-se-em' RC-499 (Shamb-Aha = forno Awaymaion)
+vinculos = 20    # os 20 códigos do pacote carregam P2018-12-15 (RC-074 entra; RC-846 sai)
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-010", "RC-025", "RC-062", "RC-101", "RC-238", "RC-843", "RC-844", "RC-845"]  # ordem do Curador na devolutiva
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -39,15 +39,45 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 # byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
 # todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
 [ampliar]
-codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo (inclui RC-074)
 
 [tese]
-pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+pontos = [
+  "Antes da vida biológica havia o PIA (peso da inevitabilidade ancestral, RC-716), mapeado por Moros (RC-454), que com Ananque engendrou as Moiras (RC-467); o padrão só foi rompido por Morlens (RC-772), o ser sem lacre, e por Sofia (RC-009), o primeiro ser livre do PIA.",
+  "O Silmarillion de Tolkien (Eru Ilúvatar RC-843 / Melkor RC-844) e o sânscrito (Nada Brahma RC-845, 'tudo é som') são leituras paralelas da mesma queda primordial: a criação como vibração, rompida pela dissonância do filho que não alcançou a harmonia.",
+  "O Nidana (RC-154, 'código podre adaptado às circunstâncias biológicas') é a molécula-mãe que mistura o código do criador aos códigos neutros, e a colmeia (RC-176/RC-175) é o regime Javé↔clones que só os biodemos e depois o humano romperam.",
+  "Shamb-Aha (RC-101) é o forno Awaymaion (RC-499) disfarçado de realidade, no mesmo molde em que Alt´Lam (RC-018) é a esfera disfarçada; a Era Sapiens (RC-238) fecha com Lemion/Len Mion (RC-074), a vinda de Jesus e a ascensão do nazismo.",
+]
 
 [definicoes]
+RC-010 = "Terra Atlantis / Atlântida: a única nave esfera que restou das diversas que chegaram à Terra na rebelião de Lúcifer; camuflada como uma ilha — origem dos mitos do paraíso terrestre, da idade de ouro e dos campos elísios."
+RC-025 = "Asphezian (STT 'Aspesian'): a nave-fábrica que aportou no planeta Zian (Capela) há ~270 milhões de anos com um pequeno número de seres — representantes do preposto universal; onde depois os Vol/Val foram engendrados em casulos."
+RC-062 = "Experiência Gron: a operação magnética que alterou a fase vibratória de 983 dos 1.641 biodemos agrupados em torno da esfera; os que mudaram passaram a constituir a cidadela Alt´Lam Gron (RC-018), enquanto os demais permaneceram na Terra."
+RC-101 = "Shamb-Aha (STT 'Shambaá/Chambarrá'): o forno replicador Awaymaion (RC-499) disfarçado de realidade — uma realidade alternativa vinculada ao forno, no mesmo molde em que Alt´Lam é a esfera disfarçada; precursora da astralização (RC-026)."
+RC-238 = "Era Sapiens (STT 'Era Sápens'): o livro (e a era) sobre a interação de Lemion/Len Mion (RC-074) com a vinda de Jesus e a ascensão do nazismo — o desfecho da rebelião no mundo humano."
+RC-843 = "Eru Ilúvatar (STT 'Heru/éu iluvatar'): o criador no Silmarillion de Tolkien — leitura terrena de Prabrajna/Brahma (RC-152) antes da queda; a 'música da criação' (Ainulindalê) ecoa o Nada Brahma (RC-845)."
+RC-844 = "Melkor (STT 'Melcor'): o filho de Eru que não alcançou a harmonia ressonante e introduziu a dissonância na criação — analogia ao vírus primordial / rompimento do lacre de Lúcifer (RC-002)."
+RC-845 = "Nada Brahma (sânscrito, STT 'nada brama'): 'tudo é som' — a cosmogonia como vibração, a 'música da criação' que precede a matéria (teoria das cordas)."
 
 [observacoes]
+RC-010 = ["**Grafia STT:** 'a única nave que sobrou' / 'está camuflada como se fosse uma ilha' = Terra Atlantis. A nave esfera disfarçada de ilha/paraíso terrestre."]
+RC-025 = ["**Grafia STT:** 'Aspesian' = Asphezian. Aportou em 'Zan' (Zian), 'um dos planetas em torno… de Capela'."]
+RC-062 = ["**Grafia STT:** 'experiência cronom' = Experiência Gron. 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera."]
+RC-101 = ["**Grafia STT:** 'Shambaá' / 'Chambarrá' = Shamb-Aha.", "**Decisão do Curador (devolutiva P2018-12-15):** Shamb-Aha = forno Awaymaion (RC-499) disfarçado de realidade — equivalência registrada como aresta 'manifesta-se-em' RC-499."]
+RC-238 = ["**Grafia STT:** 'Era Sápens' = Era Sapiens. O livro sobre Lemion, Jesus e o nazismo."]
+RC-843 = ["**Grafia STT:** 'Heru' / 'éu iluvatar' = Eru Ilúvatar, o criador no Silmarillion."]
+RC-844 = ["**Grafia STT:** 'Melcor' = Melkor, o filho que apresentou dissonância na criação."]
+RC-845 = ["**Grafia STT:** 'nada brama' = Nada Brahma (tudo é som)."]
 
 [travas]
 
 [lacunas]
+RC-010 = "fecha a lacuna da Terra Atlantis como a única nave esfera que restou, camuflada de ilha (paraíso terrestre)"
+RC-025 = "fecha a lacuna da Asphezian como a nave que aportou em Zian/Capela há ~270 milhões de anos"
+RC-062 = "fecha a lacuna da Experiência Gron (983 dos 1.641 biodemos; a cidadela Alt´Lam Gron)"
+RC-101 = "fecha a lacuna de Shamb-Aha como o forno Awaymaion (RC-499) disfarçado de realidade"
+RC-238 = "fecha a lacuna da Era Sapiens (Lemion/Len Mion, Jesus e o nazismo)"
+RC-843 = "fecha a lacuna de Eru Ilúvatar como o criador no Silmarillion (leitura terrena de Prabrajna)"
+RC-844 = "fecha a lacuna de Melkor como o filho dissonante da criação"
+RC-845 = "fecha a lacuna de Nada Brahma ('tudo é som')"
+RC-074 = "fecha a lacuna da grafia STT 'Lemion/Lemon/Lemior' = Len Mion (Satã); RC-846 rebaixado"

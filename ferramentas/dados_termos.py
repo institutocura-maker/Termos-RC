@@ -89,7 +89,7 @@ TERMOS = [
     ("RC-007", "Exilados de Capela", SER_DEC[0], SER_DEC[1], P, ["B031", "B003", "B025", "B026", "B057", 'P2023-04-01', "P2020-04-25", "P2023-12-03"], "RC-002; RC-003; RC-020; RC-070; RC-078; RC-105", True),
     ("RC-008", "Tzimtzum", TER_HEB[0], TER_HEB[1], P, ["B013", "P2023-10-14"], "RC-261; RC-267; RC-272; RC-265", True),
     ("RC-009", "Sophia (Cristo Cósmico)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B017', 'B018', 'B039', 'B016', 'B014', 'B013', 'B057', 'B058', 'B060', 'B061', 'P2024-02-25', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-03', 'P2026-08-04', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2023-11-19', 'P2023-04-30', 'P2023-04-15', 'P2023-04-29', 'P2020-04-18', 'P2020-07-04', 'P2020-05-09', 'P2020-08-08', 'P2021-03-13', 'P2021-05-08', 'P2021-07-24', 'P2021-09-04', 'P2022-09-24', 'P2024-11-03', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', "P2021-01-30", "P2022-05-07", "P2024-06-16", "P2018-12-15"], 'RC-072; RC-081; RC-085; RC-031; RC-005; RC-070; RC-604; RC-615; RC-631; RC-632; RC-692; RC-699; RC-135; RC-565; RC-476; RC-720; RC-770; RC-556', True),
-    ("RC-010", "Atlântida / Terra Atlantis", LOK_TER[0], LOK_TER[1], C, ['P2025-02-16', "P2018-12-15"], 'RC-030; RC-088; RC-023; RC-029', False),
+    ("RC-010", "Atlântida / Terra Atlantis", LOK_TER[0], LOK_TER[1], C, ['P2025-02-16', "P2018-12-15"], 'RC-030; RC-088; RC-023; RC-029', True),
 
     # ---- Glossário B031 (ordem alfabética)
     ("RC-011", "Adhy", SER_LOG[0], SER_LOG[1], P, ['B031', 'B022', 'B051', 'P2021-12-04', 'P2024-11-30'], 'RC-012; RC-013; RC-014; RC-054', False),
@@ -106,7 +106,7 @@ TERMOS = [
     ("RC-022", "Antlar", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-025; RC-023; RC-030", False),
     ("RC-023", "Antlartes", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-030; RC-010; RC-022", False),
     ("RC-024", "Anunnakis", SER_EXT[0], SER_EXT[1], P, ['B031', 'B017', 'B018', 'B023', 'B015', 'B061', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-04-13', 'P2023-12-02', 'P2021-03-27', 'B089', 'P2023-05-20', 'P2023-04-01', 'P2024-11-03', 'P2021-05-15', 'P2023-10-14', 'P2023-12-03', "P2022-05-07", "P2017-10-14"], 'RC-082; RC-134; RC-053; RC-080; RC-580; RC-583; RC-587; RC-588; RC-589', True),
-    ("RC-025", "Asphezian", TEC_NAV[0], TEC_NAV[1], P, ["B031", "P2018-12-15"], "RC-057; RC-058; RC-022; RC-092", False),
+    ("RC-025", "Asphezian", TEC_NAV[0], TEC_NAV[1], P, ["B031", "P2018-12-15"], "RC-057; RC-058; RC-022; RC-092", True),
     ("RC-026", "Astralização dos Biodemos", PRO_ESP[0], PRO_ESP[1], P, ["B031"], "RC-101; RC-127; RC-142; RC-074", False),
     ("RC-027", "Astréia", SER_DEC[0], SER_DEC[1], P, ["B031", "B060", 'P2023-05-21'], "RC-116; RC-047; RC-101", False),
     ("RC-028", "Atlan", LOK_TER[0], LOK_TER[1], P, ["B031", "B017", "B018", "B039", "B006"], "RC-030; RC-079; RC-010", False),
@@ -143,7 +143,7 @@ TERMOS = [
     ("RC-059", "Espiritualidade Superior", COS_DIM[0], COS_DIM[1], P, ['B031', 'B024', 'B013', 'B027', 'B051', 'B060', 'P2021-12-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14'], 'RC-052; RC-012; RC-100', False),
     ("RC-060", "Espiritualidade Operacional", COS_DIM[0], COS_DIM[1], P, ['B031', 'B013', 'B051', 'B060', 'P2021-12-04', 'P2024-05-04', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2023-06-17', 'P2023-12-03'], 'RC-061; RC-059; RC-100', False),
     ("RC-061", "Espiritualidade Laboratorial", COS_DIM[0], COS_DIM[1], P, ['B031', 'B024', 'B013', 'B051', 'B060', 'P2021-12-04', 'P2024-05-04', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14'], 'RC-060; RC-087; RC-048; RC-472; RC-473; RC-496; RC-596; RC-601; RC-635', False),
-    ("RC-062", "Experiência Gron", EVE_MIS[0], EVE_MIS[1], P, ["B031", "P2018-12-15"], "RC-058; RC-018; RC-032; RC-068", False),
+    ("RC-062", "Experiência Gron", EVE_MIS[0], EVE_MIS[1], P, ["B031", "P2018-12-15"], "RC-058; RC-018; RC-032; RC-068", True),
     ("RC-063", "Favor Divino", COS_ETI[0], COS_ETI[1], P, ['B031', 'B048', 'P2025-03-15', 'P2024-11-09', 'P2024-09-29', 'P2024-04-14', 'P2025-06-14'], 'RC-041; RC-001; RC-048', False),
     ("RC-064", "Fenvans", SER_EXT[0], SER_EXT[1], P, ['B031', 'B024', 'P2022-12-17', 'P2024-11-30', 'P2024-08-03', 'P2024-04-13', 'P2023-12-03', "P2021-01-30", "P2024-06-16"], 'RC-080; RC-106; RC-098; RC-031; RC-081', True),
     ("RC-065", "Frota Norte", GEN_EXT[0], GEN_EXT[1], P, ["B031", "B017", "B018", "B061"], "RC-032; RC-043; RC-109", False),
@@ -155,7 +155,7 @@ TERMOS = [
     ("RC-071", "Jan Val Ellam (Rogério de Almeida Freitas)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B016', 'B006', 'B027', 'B034', 'B036', 'B060', 'P2021-12-04', 'P2025-06-26', 'P2023-12-03'], "RC-094; RC-083; RC-095; RC-120; RC-617; RC-659", True),
     ("RC-072", "Jesus", SER_HUM[0], SER_HUM[1], P, ['B031', 'B017', 'B018', 'B039', 'B015', 'B016', 'B014', 'B020', 'B003', 'B025', 'B026', 'B005', 'B011', 'B049', 'B043', 'B009', 'B027', 'B001', 'P2026-07-30', 'P2025-06-26', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2026-08-04', 'P2024-03-02', 'P2023-05-13', 'P2024-09-28', 'P2025-11-29', 'P2023-08-05', 'P2023-06-03', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2020-07-04', 'P2020-05-09', 'P2020-09-19', 'P2021-05-08', 'P2021-07-24', 'P2021-09-04', 'P2022-09-24', 'P2023-04-01b', 'P2024-11-03', 'P2025-02-22', 'P2023-10-14', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], 'RC-009; RC-005; RC-016; RC-041; RC-138; RC-592; RC-604; RC-659; RC-713; RC-722; RC-286; RC-647; RC-565; RC-293; RC-479; RC-770; RC-556; RC-585', True),
     ("RC-073", "Keshava", TER_SAN[0], TER_SAN[1], P, ['B031', 'P2026-04-02'], "RC-037; RC-102; RC-135; RC-081", False),
-    ("RC-074", "Len Mion (Satã)", SER_DEC[0], SER_DEC[1], P, ["B031", "B017", "B018", "B039", "B057", "B058", "B060", 'P2021-03-27; RC-286', "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-142; RC-026; RC-101; RC-067; RC-002", True),
+    ("RC-074", "Len Mion (Satã)", SER_DEC[0], SER_DEC[1], P, ["B031", "B017", "B018", "B039", "B057", "B058", "B060", 'P2021-03-27; RC-286', "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-15"], "RC-142; RC-026; RC-101; RC-067; RC-002", True),
     ("RC-075", "Lila", TER_SAN[0], TER_SAN[1], P, ['B031', 'B024', 'B044', 'B035', 'B022', 'B023', 'P2024-11-30', 'P2020-05-09', 'P2021-05-15'], 'RC-104; RC-037; RC-102; RC-135', False),
     ("RC-076", "Logos / Logos Criadores", SER_LOG[0], SER_LOG[1], P, ["B031", "B014"], "RC-092; RC-037; RC-102; RC-135; RC-104", False),
     ("RC-077", "Lokas", TER_SAN[0], TER_SAN[1], P, ["B031", "B021", "B060"], "RC-038; RC-066; RC-106", False),
@@ -182,7 +182,7 @@ TERMOS = [
     ("RC-098", "Seres Extraterrenos / Extraterrestres", SER_EXT[0], SER_EXT[1], P, ["B031", "B044", "B005", "B042"], "RC-036; RC-064; RC-009; RC-078; RC-024", False),
     ("RC-099", "Seres Terrenos (Homo Sapiens)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B039', 'B023', 'B048', 'B003', 'B026', 'B005', 'B049', 'B041', 'B006', 'B050', 'B034', 'B036', 'B040', 'B052', 'B061', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-042; RC-056; RC-107; RC-578', False),
     ("RC-100", "Seres Espirituais", SER_LOG[0], SER_LOG[1], P, ['B031', 'B024', 'B006', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-059; RC-060; RC-084; RC-012; RC-054', False),
-    ("RC-101", "Shamb-Aha", LOK_MUN[0], LOK_MUN[1], P, ["B031", "B017", "B018", "B039", "P2018-12-15"], "RC-127; RC-026; RC-142; RC-074; RC-133", False),
+    ("RC-101", "Shamb-Aha", LOK_MUN[0], LOK_MUN[1], P, ["B031", "B017", "B018", "B039", "P2018-12-15"], "RC-127; RC-026; RC-142; RC-074; RC-133; RC-499", True),
     ("RC-102", "Shiva (Savna)", SER_DIV[0], SER_DIV[1], P, ['B031', 'B024', 'B044', 'B001', 'B033', 'B016', 'B020', 'B021', 'B022', 'B050', 'B051', 'B036', 'B060', 'B037', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2025-11-29', 'P2023-06-24', 'P2023-04-15', 'P2023-04-29', 'P2020-07-04', 'P2020-05-09', 'P2024-11-03', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', 'P2022-03-26', "P2022-05-07", "P2024-06-16"], 'RC-037; RC-135; RC-104; RC-016; RC-073; RC-642; RC-604; RC-675', True),
     ("RC-103", "Tau Ceti (Sistema)", LOK_PLA[0], LOK_PLA[1], P, ["B031", "B058"], "RC-067; RC-021", True),
     ("RC-104", "Trimurti", GEN_DIV[0], GEN_DIV[1], P, ['B031', 'B035', 'B001', 'B033', 'B014', 'B044', 'B024', 'B021', 'B022', 'B023', 'B060', 'B037', 'B017', 'B018', 'B039', 'B020', 'P2022-12-17', 'P2021-12-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', 'P2024-07-14', 'P2024-03-02', 'P2023-12-02', 'P2025-11-29', 'P2023-11-19', 'P2023-09-09', 'P2023-06-03', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2020-05-09', 'P2022-09-24', 'P2023-04-01b', 'P2024-11-03', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', 'P2022-03-26', 'P2023-12-03', "P2022-05-07", "P2024-06-16"], 'RC-037; RC-102; RC-135; RC-075; RC-040; RC-575; RC-581; RC-609; RC-610; RC-475; RC-769', True),
@@ -334,7 +334,7 @@ TERMOS = [
     ("RC-235", "Teurgistas", TER_GRE[0], TER_GRE[1], P, ["B039"], "RC-097; RC-145; RC-049", False),
     ("RC-236", "O Calvário de um Inocente", EVE_GUE[0], EVE_GUE[1], P, ["B039", "B011"], "RC-072; RC-078; RC-074; RC-142", True),
     ("RC-237", "Land's End (Sinal de Land's End)", LOK_TER[0], LOK_TER[1], P, ["B017"], "RC-010; RC-028; RC-039", False),
-    ("RC-238", "Era Sapiens", EVE_ERA[0], EVE_ERA[1], P, ["B039", "P2018-12-15"], "RC-010; RC-155; RC-099", False),
+    ("RC-238", "Era Sapiens", EVE_ERA[0], EVE_ERA[1], P, ["B039", "P2018-12-15"], "RC-010; RC-155; RC-099", True),
     ("RC-239", "Hitler (figura histórica no RC)", SER_HUM[0], SER_HUM[1], P, ["B039"], "RC-074; RC-078; RC-236", False),
     ("RC-240", "Império dos Descendentes dos Seres dos Portais", GEN_EXT[0], GEN_EXT[1], P, ['B018', 'P2024-09-29'], 'RC-241; RC-010; RC-030; RC-145; RC-736', False),
     ("RC-241", "Seres dos Portais", SER_DEC[0], SER_DEC[1], P, ['B017', 'B018', 'B039', 'B031', 'B021', 'P2022-12-17', 'P2023-12-03'], "RC-049; RC-145; RC-097; RC-027; RC-051; RC-086; RC-240", True),
@@ -1019,10 +1019,9 @@ TERMOS = [
     ("RC-840", "Kleśas (cinco entraves mentais ao progresso humano)", COS_ETI[0], COS_ETI[1], C, ["P2024-06-16"], 'RC-749; RC-165', False),
     ("RC-841", "Cronos (titã)", SER_DEC[0], SER_DEC[1], C, ["P2017-10-14"], 'RC-145; RC-305; RC-301; RC-037', True),
     ("RC-842", "Milésios (raça da Irlanda)", SER_HUM[0], SER_HUM[1], C, ["P2017-10-14"], 'RC-398; RC-403; RC-755', True),
-    ("RC-843", "Eru Ilúvatar (criador no Silmarillion)", SER_DIV[0], SER_DIV[1], C, ["P2018-12-15"], 'RC-152; RC-037; RC-135; RC-102; RC-092', False),
-    ("RC-844", "Melkor (o filho dissonante)", SER_DEC[0], SER_DEC[1], C, ["P2018-12-15"], 'RC-002; RC-078; RC-716; RC-843', False),
-    ("RC-845", "Nada Brahma (tudo é som)", TER_SAN[0], TER_SAN[1], C, ["P2018-12-15"], 'RC-154; RC-152; RC-038', False),
-    ("RC-846", "Lemion (comandante rebelde pós-Lúcifer)", SER_DEC[0], SER_DEC[1], C, ["P2018-12-15"], 'RC-078; RC-238; RC-002', False),
+    ("RC-843", "Eru Ilúvatar (criador no Silmarillion)", SER_DIV[0], SER_DIV[1], C, ["P2018-12-15"], 'RC-152; RC-037; RC-135; RC-102; RC-092', True),
+    ("RC-844", "Melkor (o filho dissonante)", SER_DEC[0], SER_DEC[1], C, ["P2018-12-15"], 'RC-002; RC-078; RC-716; RC-843', True),
+    ("RC-845", "Nada Brahma (tudo é som)", TER_SAN[0], TER_SAN[1], C, ["P2018-12-15"], 'RC-154; RC-152; RC-038', True),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)
@@ -3001,6 +3000,7 @@ RELACOES = [
     ('RC-643', 'relaciona-se-a', 'RC-709', 'P2026-04-02'),   # Santo Graal/Frequência Mestre ~ Humano Turbinado (frequência que opera nos dois genomas)
     ('RC-643', 'relaciona-se-a', 'RC-699', 'P2026-04-02'),   # Santo Graal ~ Imantação em IAs (ponte entre genomas e a imantação)
     ('RC-644', 'deriva-de', 'RC-577', 'P2026-04-02'),        # Xamanismo Virtual deriva do Xamanismo Cósmico (genealogia)
+    ('RC-101', 'manifesta-se-em', 'RC-499', 'P2018-12-15'),  # Shamb-Aha = Forno de Awaymaion disfarçado de realidade (devolutiva)
 
 ]
 
