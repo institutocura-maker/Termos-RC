@@ -123,3 +123,15 @@ Princípio metodológico aprovado pelo curador a partir de `P2021-12-04`:
 - manter equilíbrio crítico enquanto novas evidências são colecionadas.
 
 “Colecionar incertezas” é uma diretriz editorial do projeto, não um termo RC com código próprio.
+
+## 13. Normalização terminológica da apostila (norma 2026-08-31, ordem do curador)
+
+As apostilas v3.1-MP são **produto de treinamento de IA** (a futura especialista em RC). Por isso:
+
+1. **Termos sempre canônicos** — na prosa **e** nas citações, usar exclusivamente as grafias consagradas na Base (Sophia, Morren So, Vishnu, Brahma, Shiva, Moros, fenvans, Nidana, Trimurti, Awayen/Awaylengan/Awaymaion, Aya/Aye…). Não podem restar erros de termo no arquivo.
+2. **O rastro bruto fica em três lugares** (nunca na apostila como erro):
+   - `original.txt` — intocado, byte a byte (o verbatim);
+   - o dicionário STT no fim da apostila (`@quarentena_terminologica`), tabela `bruto → canônico`;
+   - as seções `Etimologia / Grafias` das fichas (documentação das formas orais embrionárias).
+3. **Nenhuma grafia é inventada** — toda substituição é aplicação de uma grafia já consagrada em `termos/RC-XXX-*.md` (ou, para sânscrito, decodificação fonética do próprio bruto, ex.: "brah nanda" → Brahmanda).
+4. **Termos ambíguos** ("aia" que não distingue Aya/Aye; "a maior" que é ora Awaymaion, ora superlativo) são resolvidos por contexto e registrados no dicionário — nunca decididos sem ancoragem.
