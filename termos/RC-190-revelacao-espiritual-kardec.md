@@ -19,7 +19,7 @@ Com isso:
 
 * a Base ganha um **arquivo**; 0 termos novos e **0 relações novas** por este ciclo;
 - o cadastro lista 3 código(s) em `relacionados`: 1 com aresta correspondente em `RELACOES` e 1 sem arquivo de ficha. A ficha **declara** a lacuna em vez de preenchê-la — abrir aresta é decisão curatorial;
-- as fontes já registradas no cadastro são `B044`, `B016`, `B013`, `B048`, `B006`, `B060`, `B061`, `B042`, `P2025-02-15`, `P2024-11-30`, `P2024-11-09`, `P2024-03-03`, `P2024-04-14`, `P2025-06-14`, `P2024-02-03`, `P2020-09-19`, `P2012-02-19`.
+- as fontes já registradas no cadastro são `B044`, `B016`, `B013`, `B048`, `B006`, `B060`, `B061`, `B042`, `P2025-02-15`, `P2024-11-30`, `P2024-11-09`, `P2024-03-03`, `P2024-04-14`, `P2025-06-14b`, `P2024-02-03`, `P2020-09-19`, `P2012-02-19`.
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 

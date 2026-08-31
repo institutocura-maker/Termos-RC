@@ -25,7 +25,7 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 
 | Fonte | Localização | Tipo |
 |---|---|---|
-| P2025-06-14 | abertura e blocos finais (chave; Pitágoras/Protágoras; escola da decifração) | palestra/STT pré-curada |
+| P2025-06-14b | abertura e blocos finais (chave; Pitágoras/Protágoras; escola da decifração) | palestra/STT pré-curada |
 
 ## Citação-chave
 

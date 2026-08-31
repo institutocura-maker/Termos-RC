@@ -2,7 +2,7 @@
 
 **Palestra:** `2025-06-14 - A Consciência Humana e a Chave da Decifração Universal.txt`
 **Tema:** a consciência humana como chave da decifração universal; estrangulamento cognitivo, Orch-OR (causação descendente/ascendente), Patanjali/Kapila, método druídico e ciência pessoal.
-**Status:** GARIMPO concluído (aguardando homologação do curador).
+**Status:** ENCERRADO — devolutiva homologada e executada (garimpo `a382fa1` · devolutiva de reatribuição commitada).
 
 ---
 
@@ -74,8 +74,40 @@ referência registrado no `pacote` (BLOCO 2) e na lacuna do `ciclo.toml`.
 **Secundária:** o "transtorno cognitivo" (fabricar verdade sem prova) é absorvido provisoriamente
 em RC-753, mas pode merecer termo próprio, distinto do estrangulamento (filtro perceptual).
 
-## 5. Próximos passos
+## 5. Devolutiva (homologada e executada)
 
-1. Homologação do curador sobre as 6 pérolas / 4 ampliações.
-2. Decisão do curador sobre o **Princípio Antrópico / Ajustes Finos** (novo termo em quarentena? absorver em ficha existente? descartar?).
-3. Decisão do curador sobre a **reatribuição das fontes** colididas (`P2025-06-14` vs `P2025-06-14b`).
+O curador homologou as 6 pérolas / 4 ampliações e decidiu:
+
+1. **Princípio Antrópico / Ajustes Finos — DESCARTADO.** Teoria externa (cosmologia padrão),
+   não é conceito próprio de Ellam; fica fora da KB. Lacuna fechada por decisão, não por materialização.
+2. **Reatribuição da Consciência Humana para `P2025-06-14b` — EXECUTADA.** A palestra da
+   Consciência Humana (que o passe pesado havia rotulado como `P2025-06-14`) foi reatribuída ao
+   sufixo `-b`, de modo que `P2025-06-14` passa a designar **exclusivamente** a palestra
+   "Queda do Criador".
+
+**Escopo da reatribuição executada:**
+
+| Alvo | Quantidade | O que mudou |
+|---|---|---|
+| `ferramentas/dados_termos.py` — TERMOS | 30 códigos | fonte `P2025-06-14` → `P2025-06-14b` |
+| `ferramentas/dados_termos.py` — RELAÇÕES | 12 (R-DC01–12) | evidência `P2025-06-14` → `P2025-06-14b` |
+| `termos/*.md` — fichas | 8 fichas | referência interna `P2025-06-14` → `P2025-06-14b` |
+| Queda do Criador (mantido) | 12 códigos | `P2025-06-14` preservado |
+
+**Regra de proveniência aplicada:** em `28cb889` a única palestra de 2025-06-14 era a Consciência
+Humana; portanto, toda citação `P2025-06-14` existente naquele commit = Consciência → `-b`. As 12
+citações adicionadas nesta sessão (ciclo da Queda do Criador) permanecem como `P2025-06-14`.
+
+**Correções colaterais (compostos malformados):** RC-691 e RC-712 carregavam fontes coladas com
+códigos de termo (`'P2025-06-14; RC-152; RC-712'`, `'P2025-06-14; RC-618'`); os códigos colados
+foram removidos, deixando apenas a fonte limpa `P2025-06-14b`. RC-753/RC-695 tiveram entradas
+duplicadas de `P2025-06-14b` deduplicadas.
+
+**Delta final conferido pelo portão D:** `arquivos 0 · ficha_true 0 · termos 0 · relacoes 0 · vinculos +31`.
+Cadastro válido (856 termos · 1.857 relações).
+
+## 6. Estado final da KB após o ciclo
+
+- 856 termos · 1.857 relações · 571 arquivos · 570 `ficha=True` (inalterados — reatribuição não cria nem vira ficha).
+- 31 códigos vinculados a `P2025-06-14b`; 12 códigos vinculados a `P2025-06-14` (Queda do Criador).
+- Nenhum termo novo; nenhuma aresta nova; Princípio Antrópico descartado.

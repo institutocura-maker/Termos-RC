@@ -9,7 +9,7 @@
 
 ## Definição Sintética
 
-Na leitura de Jan Val Ellam (P2025-06-14), a mecânica limitadora fundamental que opera no "avatar" humano: de aproximadamente **400 bilhões de bits** de informação que chegam ao cérebro a cada segundo, apenas ~**2.000** são decodificados (inconscientemente) e o eu consciente só consegue lidar com ~**10 bits por segundo**. Ellam a associa à "redução objetiva orquestrada" (Orch-OR, teoria de Penrose/Hameroff — **quarentena científica**) e a uma condição imposta à percepção humana desde a queda, ligando-a ao estrangulamento da mente de Prabrajna após a criação.
+Na leitura de Jan Val Ellam (P2025-06-14b), a mecânica limitadora fundamental que opera no "avatar" humano: de aproximadamente **400 bilhões de bits** de informação que chegam ao cérebro a cada segundo, apenas ~**2.000** são decodificados (inconscientemente) e o eu consciente só consegue lidar com ~**10 bits por segundo**. Ellam a associa à "redução objetiva orquestrada" (Orch-OR, teoria de Penrose/Hameroff — **quarentena científica**) e a uma condição imposta à percepção humana desde a queda, ligando-a ao estrangulamento da mente de Prabrajna após a criação.
 
 ## Estrutura interna
 
@@ -33,7 +33,7 @@ Na leitura de Jan Val Ellam (P2025-06-14), a mecânica limitadora fundamental qu
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
-| P2025-06-14 | blocos centrais (estrangulamento; 400 bi/2.000/10 bits; redução objetiva orquestrada) | palestra/STT pré-curada |
+| P2025-06-14b | blocos centrais (estrangulamento; 400 bi/2.000/10 bits; redução objetiva orquestrada) | palestra/STT pré-curada |
 
 ## Citação-chave
 

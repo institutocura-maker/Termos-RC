@@ -55,7 +55,7 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
-| P2025-06-14 | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
+| P2025-06-14b | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
 
 

@@ -35,7 +35,7 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 |---|---|---|
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-07-14 | U0285–U0354 | palestra/STT |
-| B060 / B071 / P2021-12-04 / P2024-05-04 / P2025-03-15 / P2024-11-09 / P2024-03-03 / P2024-04-14 / P2025-06-14 | — | obras/palestras |
+| B060 / B071 / P2021-12-04 / P2024-05-04 / P2025-03-15 / P2024-11-09 / P2024-03-03 / P2024-04-14 / P2025-06-14b | — | obras/palestras |
 
 
 ## Citação-chave

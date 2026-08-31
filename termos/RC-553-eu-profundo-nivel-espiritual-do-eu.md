@@ -35,7 +35,7 @@ No Mentalma I (B074, cap. 11 — "O 'Eu' que Surge da 'Caixa de Depósitos'"), E
 | Mentalma I (B074) | 3.1; 1º Exercício Mental | pp. 44, 25 (PDF) | citações |
 | Mentalma I (B074) | Cap. 13 (Ramana Maharshi) | p. 152 (PDF) | técnica |
 | Mentalma II (B075) | — | — | aprofundamento (ciclo a vir) |
-| P2026-07-30 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-04-14 / P2025-06-14 | Palestras | — | menções |
+| P2026-07-30 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-04-14 / P2025-06-14b | Palestras | — | menções |
 | ART-2026-08-18 | O Quarto Cérebro de Pandora (artigo) | — | — |
 
 ## Citações-chave

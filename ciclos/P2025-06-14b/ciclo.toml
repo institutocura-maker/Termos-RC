@@ -28,7 +28,7 @@ arquivos = 0      # fichas criadas por este ciclo
 ficha_true = 0   # viradas no cadastro
 termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 4    # RC-753, RC-760, RC-695, RC-691 passam a carregar P2025-06-14b
+vinculos = 31    # reatribuição (devolutiva): 30 códigos da Consciência Humana (P2025-06-14 -> -b) + RC-760
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
@@ -51,13 +51,12 @@ pontos = [
 [definicoes]
 
 [observacoes]
-RC-753 = ["**Colisão de sigla (registrada):** o conteúdo-núcleo desta palestra já vive na KB citado como `P2025-06-14` (passe pesado, commit 28cb889). Este ciclo usa o sufixo `-b` porque `P2025-06-14` foi reutilizado nesta sessão para a palestra 'Queda do Criador' (refatorada). A reatribuição definitiva das fontes é decisão do curador — não é feita por inferência do aplicador.", "**Quarentena científica:** causação descendente/ascendente e Orch-OR (Penrose/Hameroff) são citação de teoria externa, não endossadas pela Base; o transtorno cognitivo é leitura clínico-epistemológica do autor."]
+RC-753 = ["**Colisão de sigla RESOLVIDA (devolutiva):** o conteúdo-núcleo desta palestra vivia na KB citado como `P2025-06-14` (passe pesado, commit 28cb889). Por ordem do curador, a Consciência Humana foi REATRIBUÍDA para `P2025-06-14b` — 30 códigos (TERMOS) + 12 relações (R-DC01–12) + 8 fichas tiveram `P2025-06-14` trocado por `-b`; `P2025-06-14` agora designa exclusivamente a palestra 'Queda do Criador' (12 códigos).", "**Quarentena científica:** causação descendente/ascendente e Orch-OR (Penrose/Hameroff) são citação de teoria externa, não endossadas pela Base; o transtorno cognitivo é leitura clínico-epistemológica do autor."]
 RC-691 = ["**Grafia STT:** 'Brasna'/'para Brasna' = Prabrajna; a distinção Brama-depois / Prabrajna-antes da queda é fixada na Q&A desta palestra."]
 
 [travas]
 
 [lacunas]
 RC-753 = "abre a questão de o 'transtorno cognitivo' (cria verdade sem prova) merecer termo próprio, distinto do estrangulamento (filtro perceptual); por ora, absorvido aqui como contraface."
-# Princípio Antrópico / Ajustes Finos: CANDIDATO A TERMO NOVO — conceito ausente na KB,
-# usado por Ellam como moldura cosmológica (constantes 'ajustadas' que permitem a vida;
-# a 'tartaruga de 100 kg'). Não materializado: decisão do curador (ver pacote BLOCO 2).
+# Princípio Antrópico / Ajustes Finos — DESCARTADO por decisão do curador (devolutiva):
+# teoria externa (cosmologia padrão), não é conceito próprio de Ellam; fica fora da KB.

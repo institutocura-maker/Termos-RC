@@ -68,7 +68,7 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 |---|---|---|
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U1480–U1525; U1662 | palestra/STT |
-| P2025-02-16 / P2024-11-09 / P2025-06-14 / B020 / B021 | — | obras/palestras |
+| P2025-02-16 / P2024-11-09 / P2025-06-14b / B020 / B021 | — | obras/palestras |
 
 
 ## Citação-chave
