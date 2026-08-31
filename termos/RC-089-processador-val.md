@@ -50,7 +50,6 @@ Com isso:
 
 - **[o processador como corpo de Javé] (U0044)** «Com esse processador, praticamente o processador da família Vol hoje é o corpo de J, porque o corpo último que ele tinha apodreceu há 4 milhões de anos atrás.» — o processador da família Val (STT `Vol`) hoje é o corpo de Javé, cujo último corpo apodreceu há 4 milhões de anos.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|

@@ -11,6 +11,11 @@
 > na Terra, da escola que o Codificador fundou em Capela há ~4 milhões de anos. Fonte STT
 > bruta, longa (~22.957 palavras), com forte distorção de áudio nos nomes próprios.
 
+> **DEVOLUTIVA HOMOLOGADA (31/08/2026).** As 17 pérolas foram aprovadas e validadas pelo
+> Curador, assim como as 9 ampliações. Materializada a fila aberta (8 fichas), autorizados
+> os 2 termos novos (RC-841/842), decididas as pendências do §4.3 (Shamba → RC-101;
+> Chamon → RC-444; Beltane/Midas/Uranos/Valel descartados). Ciclo **encerrado**.
+
 ---
 
 ## 1 · Veredicto — medido
@@ -18,17 +23,17 @@
 | Grandeza | Valor |
 |---|---|
 | Citações verificadas byte a byte | **17 / 17** (portão B) |
-| Fichas com `## Ampliação — P2017-10-14` | **9** (portão C em paridade) |
-| Códigos tocados sem arquivo (fila) | **8** |
+| Fichas com `## Ampliação — P2017-10-14` | **17** (9 ampliadas + 8 materializadas; portão C em paridade) |
 | Termos novos | **2** (RC-841 · RC-842) |
 | Relações novas | **0** |
 | Obras novas | **0** |
-| Materializações | **0** (nenhuma ordem do Curador neste ciclo) |
+| Materializações | **8** (fila aberta, ordem do Curador) |
 | Vínculos (códigos carregando a sigla) | **17** |
 | Portões | **A ✓ · B ✓ · C ✓ · D ✓** |
 
-**Delta do portão D:** `arquivos 0 · ficha_true 0 · termos +2 · relacoes 0 · vinculos +17`
-— exatamente o declarado no `.toml`. Base: **842 termos · 1.856 relações**.
+**Delta do portão D:** `arquivos +8 · ficha_true +8 · termos +2 · relacoes 0 · vinculos +17`
+— exatamente o declarado no `.toml`. Base: **842 termos · 1.856 relações · 542 arquivos ·
+541 `ficha=True`**.
 
 ---
 
@@ -37,13 +42,16 @@
 1. **Catálogo sistemático** — entrada selada por SHA-256, 0 caracteres de controle,
    endereço de span em `U####` + faixa de caracteres (livro-razão
    `ancorario_P2017-10-14.json`: 17 spans verificados, 0 recusados).
-2. **Consistência terminológica** — 9 fichas ampliadas com a seção do ciclo; 8 códigos
-   vinculados e deixados em fila declarada (sem arquivo); 2 termos novos no cadastro,
-   todos `status: candidato` (`ficha=False`), aguardando carimbo do Curador.
-3. **Caderno de pérolas** — `DOSSIE-RAG_P2017-10-14.md`, 17 pérolas de 17 candidatas,
-   nas 4 seções do formato leve, cada aspa recortada do bruto pelo índice de âncoras.
+2. **Consistência terminológica** — 9 fichas ampliadas com a seção do ciclo + **8 fichas
+   materializadas** (a fila aberta, ordem do Curador: RC-403, RC-017, RC-228, RC-305,
+   RC-398, RC-109, RC-841, RC-842); 2 termos novos no cadastro (RC-841/842, `status:
+   candidato`), aprovados pelo Curador na devolutiva.
+3. **Caderno de pérolas** — `DOSSIE-RAG_P2017-10-14.md`, 17 pérolas, **aprovadas e
+   validadas pelo Curador**, nas 4 seções do formato leve, cada aspa recortada do bruto
+   pelo índice de âncoras.
 4. **Corpus RAG** — 0 cards (`exportar_candidatas = false`): o portão de consumo é
-   `aprovada`, e o carimbo é do Curador.
+   `aprovada`, e o carimbo é do Curador (registrado na devolutiva, não no motor — o motor
+   não se auto-carimba).
 
 ---
 
@@ -94,34 +102,32 @@ distorcidos dessa história biodêmica.
   conhecimento druídico e "fundou as primeiras origens do colégio". Pérola longa que amarra
   Milésios → Colégio Druídico → Capela. `SER_HUM`.
 
-### 4.3 — Nomes que NÃO viraram termo (registrados para decisão do Curador)
+### 4.3 — Nomes pendentes: decisão do Curador (devolutiva)
 
-- **`Shamba`** (U0010) — "dimensão chamada na época WH, que depois passou a ser conhecida
-  como Shamba": onde os biodemos mortos ficavam presos; precursora da astralização. **Não
-  criado** por ambiguidade de grafia (WH × Shamba × possível Shambhala); fica como candidato
-  a novo termo sob a canônica que o Curador fixar.
-- **`Família Chamon / Shamon / Chamom`** (U0005/U0008) — uma das famílias biodêmicas; **não
-  criado** por não estar claro se é família distinta ou STT de `Shanlung` (RC-491) / `Cromon`
-  (RC-444). Aguarda confirmação.
-- **`Beltane` ("festival do deus Bel"/"veladão")** (U0167) — festival do fogo dos Thuata de
-  Dannan; **não criado** por ser menção breve e sem categoria própria no cadastro.
-- **`Midas`** (U0021) — rei, dentro da história de Sileno (RC-228); **não criado** — coberto
-  pela pérola de RC-228.
-- **`Valel` / `El Bel` / `Bauel`** — a figura biodêmica que anima o autor e nasceu como
-  Enoque; **não criado** por flutuação de grafia; o vínculo Valel→Enoque ficou na pérola de
-  RC-489.
-- **`Uranos`** (U0135) — 1ª geração de deuses; menção breve; **não criado** (poderia ser
-  termo-irmão de Cronos, se o Curador quiser).
+- **`Shamba`** (U0010) — **DECISÃO: STT de Shamb-Aha (RC-101).** A "dimensão chamada na época
+  WH, que depois passou a ser conhecida como Shamba" é a mesma dimensão extrafísica, a
+  precursora da astralização. Registrado em `[observacoes] RC-101`.
+- **`Família Chamon / Shamon / Chamom`** (U0005/U0008) — **DECISÃO: STT de Cromon (RC-444).**
+  A confusão fonética é evidente no contexto genético/biodêmico. Registrado em
+  `[observacoes] RC-444`.
+- **`Beltane` ("festival do deus Bel"/"veladão")** (U0167) — **DESCARTADO** (menção
+  contextual pontual; navalha mantida).
+- **`Midas`** (U0021) — **DESCARTADO** (coberto pela pérola de RC-228).
+- **`Valel` / `El Bel` / `Bauel`** — **DESCARTADO** (flutuação de grafia; o vínculo
+  Valel→Enoque ficou na pérola de RC-489).
+- **`Uranos`** (U0135) — **DESCARTADO** (menção breve; poderia ser termo-irmão de Cronos,
+  se o Curador quiser no futuro).
 
 ---
 
-## 5 · Fila aberta (8 códigos tocados sem arquivo de ficha)
+## 5 · Fila aberta → MATERIALIZADA (8 fichas criadas, ordem do Curador)
 
 `RC-403` (Colegiado Druídico) · `RC-017` (Alt´Lam) · `RC-228` (Sileno) · `RC-305` (Têmis) ·
 `RC-398` (Thuata de Dannan) · `RC-109` (Val) · `RC-841` (Cronos) · `RC-842` (Milésios).
 
-Todos carregam a sigla na lista de fontes (vínculo) e têm bloco no pacote; a criação de ficha
-é `materializar`, por ordem do Curador.
+Cada ficha foi criada pelo `materializar` com `ficha=False → True` no cadastro, definição
+sintética do `[definicoes]`, glosa de STT do `[observacoes]` e a seção `## Ampliação —
+P2017-10-14` em paridade com o pacote (portão C).
 
 ---
 
@@ -131,7 +137,9 @@ Todos carregam a sigla na lista de fontes (vínculo) e têm bloco no pacote; a c
   biodemos e dos "mais habilitados" que levam a tocha da vida, U0149); RC-001 (leitura do
   autor — o tom crítico a Javé e a frase de Sileno).
 - **Lacunas fechadas:** RC-403 (Colégio Druídico como 1ª transferência), RC-842 (Milésios
-  herdeiros do conhecimento druídico), RC-161 (registro cármico = memória dos elétrons).
+  herdeiros do conhecimento druídico), RC-161 (registro cármico = memória dos elétrons),
+  RC-017 (base Atlan), RC-109 (família Val), RC-228 (Sileno/Midas), RC-305 (Têmis),
+  RC-398 (Thuata de Dannan), RC-841 (Cronos).
 - **0 relações novas:** nenhuma aresta tipada com evidência e selo nasceu neste ciclo; a
   malha só cresce por aresta auditável (despacho §3).
 - **Teto:** suspenso-com-cadência; 2 cadências consumidas (RC-841, RC-842), cada uma com

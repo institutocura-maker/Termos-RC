@@ -69,7 +69,6 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[o gene FOXP2 e a racionalidade] (U0135)** «Essa componente responde pela presença do Fox 2, ou seja, da genética que permite a racionalidade, a simbologia mental.» — o FOXP2 (STT `Fox 2`) responde pela racionalidade e pela simbologia mental — a componente genética herdada da turma da base.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

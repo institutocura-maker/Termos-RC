@@ -10,7 +10,7 @@
 | Data da fonte | 14/10/2017 |
 | Hash da fonte | `fb7619e4190287e6…` · 134.307 B
 | Cobertura | não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado |
-| Termos tocados | 17 códigos, 9 com arquivo |
+| Termos tocados | 17 códigos, 17 com arquivo |
 | Citações verificadas | 17 |
 | Caderno | 17 pérolas de 17 candidatas |
 | Teto curatorial | suspenso-com-cadencia |
@@ -27,77 +27,7 @@
 
 Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do Curador (`aprovada`) — o garimpo é do agente, a escolha é do curador.
 
-### PER-2017-10-14-001 · RC-305
-
-* **Endereço**: `P2017-10-14` · U0135 · chars 99397–99465 · 68 c
-* **Termo**: `RC-305` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha; cruza 1 termo(s) da Base
-* **Cruza**: `RC-053`
-
-> «Então ela passou a ser tida como a deusa dos juramentos, dos deuses.»
-
-### PER-2017-10-14-002 · RC-403
-
-* **Endereço**: `P2017-10-14` · U0007 · chars 7897–8290 · 393 c
-* **Termo**: `RC-403` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha; cruza 1 termo(s) da Base
-* **Lacuna que fecha**: fecha a lacuna do Colégio Druídico como 1ª transferência de poder para humanos livres (ficha=False; sem arquivo)
-* **Cruza**: `RC-036`
-
-> «Os biodemos são bons na tentativa de entender o como as coisas são feitas, por seres humanos, nós, seres humanos, vamos então assim, a escola druídica, entre aspas, que nem sei se esse nome vai persistir, se pretende recriar aqui na terra livro de toda a sujeira dos conceitos viciados de religião, de dogmatismo, de ideologia, seja o que for, nada mais é do que a continuidade dessa história.»
-
-### PER-2017-10-14-003 · RC-841
-
-* **Endereço**: `P2017-10-14` · U0135 · chars 95125–95195 · 70 c
-* **Termo**: `RC-841` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha; cruza 1 termo(s) da Base
-* **Cruza**: `RC-841`
-
-> «Depois da geração de Uranus surge a geração de cronos chamada de Titã.»
-
-### PER-2017-10-14-004 · RC-842
-
-* **Endereço**: `P2017-10-14` · U0141 · chars 109259–109624 · 365 c
-* **Termo**: `RC-842` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha; cruza 1 termo(s) da Base
-* **Lacuna que fecha**: fecha a lacuna dos Milésios como herdeiros do conhecimento druídico e fundadores das origens do Colégio Druídico
-* **Cruza**: `RC-039`
-
-> «Então, o conhecimento que eles trouxeram quando os milesanos herdavam o conhecimento deste terreno, eles meio que chamaram isso de conhecimento de inclusezianos lá na Irlanda e depois lá na Escócia e depois descendo da Grantã, que fundaram as primeiras origens do colégio do cuja tese estranhamente foi transplantada lá de Capela paraa Terra através dessa história.»
-
-### PER-2017-10-14-005 · RC-017
-
-* **Endereço**: `P2017-10-14` · U0008 · chars 10449–10602 · 153 c
-* **Termo**: `RC-017` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha
-
-> «Então eles começaram a me mostrar que ali aonde hoje ela tá, mas principalmente no perímetro dos 2 km, existia durante muito tempo uma chamada base Atla.»
-
-### PER-2017-10-14-006 · RC-109
-
-* **Endereço**: `P2017-10-14` · U0008 · chars 11767–11818 · 51 c
-* **Termo**: `RC-109` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha
-
-> «Família V não fez parte da deflagração do processo.»
-
-### PER-2017-10-14-007 · RC-228
-
-* **Endereço**: `P2017-10-14` · U0021 · chars 36939–37313 · 374 c
-* **Termo**: `RC-228` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha
-
-> «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era muito ganancioso, mas ele era um cara que queria saber o porquê das coisas.»
-
-### PER-2017-10-14-008 · RC-398
-
-* **Endereço**: `P2017-10-14` · U0166 · chars 126926–127131 · 205 c
-* **Termo**: `RC-398` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha
-
-> «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.»
-
-### PER-2017-10-14-009 · RC-024
+### PER-2017-10-14-001 · RC-024
 
 * **Endereço**: `P2017-10-14` · U0010 · chars 26159–26298 · 139 c
 * **Termo**: `RC-024`
@@ -106,7 +36,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Essas outras forças eram os anonques, eram os anfíbios sirianos, eram os tais deuses que nessa época saí dos portais ficavam aqui na terra.»
 
-### PER-2017-10-14-010 · RC-161
+### PER-2017-10-14-002 · RC-161
 
 * **Endereço**: `P2017-10-14` · U0034 · chars 45471–45566 · 95 c
 * **Termo**: `RC-161`
@@ -116,7 +46,27 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «O registro cástico é a memória dos elétrons que guardam em si toda a experiência que vivenciam.»
 
-### PER-2017-10-14-011 · RC-489
+### PER-2017-10-14-003 · RC-305
+
+* **Endereço**: `P2017-10-14` · U0135 · chars 99397–99465 · 68 c
+* **Termo**: `RC-305`
+* **Status**: `candidata` · **Por quê**: cruza 1 termo(s) da Base
+* **Lacuna que fecha**: fecha a lacuna de Têmis como deusa dos juramentos e 1ª 'racionalidade limpa'
+* **Cruza**: `RC-053`
+
+> «Então ela passou a ser tida como a deusa dos juramentos, dos deuses.»
+
+### PER-2017-10-14-004 · RC-403
+
+* **Endereço**: `P2017-10-14` · U0007 · chars 7897–8290 · 393 c
+* **Termo**: `RC-403`
+* **Status**: `candidata` · **Por quê**: cruza 1 termo(s) da Base
+* **Lacuna que fecha**: fecha a lacuna do Colégio Druídico como 1ª transferência de poder para humanos livres (ficha=False; sem arquivo)
+* **Cruza**: `RC-036`
+
+> «Os biodemos são bons na tentativa de entender o como as coisas são feitas, por seres humanos, nós, seres humanos, vamos então assim, a escola druídica, entre aspas, que nem sei se esse nome vai persistir, se pretende recriar aqui na terra livro de toda a sujeira dos conceitos viciados de religião, de dogmatismo, de ideologia, seja o que for, nada mais é do que a continuidade dessa história.»
+
+### PER-2017-10-14-005 · RC-489
 
 * **Endereço**: `P2017-10-14` · U0100 · chars 79093–79138 · 45 c
 * **Termo**: `RC-489`
@@ -125,7 +75,27 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «de fixação, e logo depois nasceu como Enoque.»
 
-### PER-2017-10-14-012 · RC-001
+### PER-2017-10-14-006 · RC-841
+
+* **Endereço**: `P2017-10-14` · U0135 · chars 95125–95195 · 70 c
+* **Termo**: `RC-841`
+* **Status**: `candidata` · **Por quê**: cruza 1 termo(s) da Base
+* **Lacuna que fecha**: fecha a lacuna de Cronos como o elo da genealogia titânica
+* **Cruza**: `RC-841`
+
+> «Depois da geração de Uranus surge a geração de cronos chamada de Titã.»
+
+### PER-2017-10-14-007 · RC-842
+
+* **Endereço**: `P2017-10-14` · U0141 · chars 109259–109624 · 365 c
+* **Termo**: `RC-842`
+* **Status**: `candidata` · **Por quê**: cruza 1 termo(s) da Base
+* **Lacuna que fecha**: fecha a lacuna dos Milésios como herdeiros do conhecimento druídico e fundadores das origens do Colégio Druídico
+* **Cruza**: `RC-039`
+
+> «Então, o conhecimento que eles trouxeram quando os milesanos herdavam o conhecimento deste terreno, eles meio que chamaram isso de conhecimento de inclusezianos lá na Irlanda e depois lá na Escócia e depois descendo da Grantã, que fundaram as primeiras origens do colégio do cuja tese estranhamente foi transplantada lá de Capela paraa Terra através dessa história.»
+
+### PER-2017-10-14-008 · RC-001
 
 * **Endereço**: `P2017-10-14` · U0135 · chars 94523–94585 · 62 c
 * **Termo**: `RC-001`
@@ -133,7 +103,16 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Caos aí é o nome de Jahé caído, porque tudo era um caos mesmo.»
 
-### PER-2017-10-14-013 · RC-036
+### PER-2017-10-14-009 · RC-017
+
+* **Endereço**: `P2017-10-14` · U0008 · chars 10449–10602 · 153 c
+* **Termo**: `RC-017`
+* **Status**: `candidata` · **Por quê**: —
+* **Lacuna que fecha**: fecha a lacuna da base Atlan como o ponto do reencontro biodemo na Terra
+
+> «Então eles começaram a me mostrar que ali aonde hoje ela tá, mas principalmente no perímetro dos 2 km, existia durante muito tempo uma chamada base Atla.»
+
+### PER-2017-10-14-010 · RC-036
 
 * **Endereço**: `P2017-10-14` · U0005 · chars 4943–4990 · 47 c
 * **Termo**: `RC-036`
@@ -141,7 +120,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «eram assexuados, só os animais eram assexuados.»
 
-### PER-2017-10-14-014 · RC-089
+### PER-2017-10-14-011 · RC-089
 
 * **Endereço**: `P2017-10-14` · U0044 · chars 53105–53263 · 158 c
 * **Termo**: `RC-089`
@@ -149,13 +128,40 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Com esse processador, praticamente o processador da família Vol hoje é o corpo de J, porque o corpo último que ele tinha apodreceu há 4 milhões de anos atrás.»
 
-### PER-2017-10-14-015 · RC-092
+### PER-2017-10-14-012 · RC-092
 
 * **Endereço**: `P2017-10-14` · U0008 · chars 14616–14684 · 68 c
 * **Termo**: `RC-092`
 * **Status**: `candidata` · **Por quê**: —
 
 > «O quificador de Zé só instituiu a escola há 4 milhões de anos atrás.»
+
+### PER-2017-10-14-013 · RC-109
+
+* **Endereço**: `P2017-10-14` · U0008 · chars 11767–11818 · 51 c
+* **Termo**: `RC-109`
+* **Status**: `candidata` · **Por quê**: —
+* **Lacuna que fecha**: fecha a lacuna da família Val como a mais recente e a não-participante da deflagração da rebelião
+
+> «Família V não fez parte da deflagração do processo.»
+
+### PER-2017-10-14-014 · RC-228
+
+* **Endereço**: `P2017-10-14` · U0021 · chars 36939–37313 · 374 c
+* **Termo**: `RC-228`
+* **Status**: `candidata` · **Por quê**: —
+* **Lacuna que fecha**: fecha a lacuna da Observação de Sileno com o contexto do rei Midas
+
+> «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era muito ganancioso, mas ele era um cara que queria saber o porquê das coisas.»
+
+### PER-2017-10-14-015 · RC-398
+
+* **Endereço**: `P2017-10-14` · U0166 · chars 126926–127131 · 205 c
+* **Termo**: `RC-398`
+* **Status**: `candidata` · **Por quê**: —
+* **Lacuna que fecha**: fecha a lacuna dos Thuata de Dannan como povo astralizado (fadas/gnomos)
+
+> «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.»
 
 ### PER-2017-10-14-016 · RC-486
 
@@ -175,8 +181,9 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 ## 4 · Atualizações para a Base
 
+* **Materializações executadas**: 8 — `RC-403`, `RC-017`, `RC-228`, `RC-305`, `RC-398`, `RC-109`, `RC-841`, `RC-842`. Virada `ficha=False → ficha=True`, com o bloco do pacote copiado byte a byte.
 * **Termos novos**: 2 — cadência do teto suspenso: RC-841 Cronos (titã), RC-842 Milésios (raça da Irlanda). Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
 * **Relações**: nenhuma aresta criada, fechada ou reetiquetada por este ciclo. Aresta só entra tipada, com evidência (span + endereço) e selo datado.
 * **Divergências**: com selo datado, sem média — a Base não harmoniza números por decisão de quem aplica.
-* **Fila aberta**: 8 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.
+* **Fila aberta**: 0 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.
 

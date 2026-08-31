@@ -82,7 +82,6 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[Valel nasceu como Enoque] (U0100)** «de fixação, e logo depois nasceu como Enoque.» — o espírito que animava Valel (família Val) nasceu como Enoque, da linhagem de Adão, e foi transformado em emissário junto à Terra.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

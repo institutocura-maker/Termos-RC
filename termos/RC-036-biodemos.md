@@ -79,7 +79,6 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 
 - **[biodemos assexuados] (U0005)** «eram assexuados, só os animais eram assexuados.» — os biodemos não têm sexo e nascem 'dentro de casos' por receita genética; o sexo veio com a animalidade.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
