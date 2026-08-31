@@ -119,10 +119,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[Pandora sorriu ao se ver livre] (U0003)** «Porque Pandora inclusive sorriu quando se viu livre da obrigatoriedade que ela tinha de ser e de ir pro Olímpo, obedecer.» — Pandora (RC-086) 'sorriu quando se viu livre da obrigatoriedade' de ir ao Olimpo — antes dela ninguém sorria; o sorriso humano atual produz carga peptídica de satisfação.
 
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[Pandora, agente do deslacre] (U0112)** «O mito de Pandora, que foi "expelida" do psiquismo de Zeus como "fezes mentais", mas que se tornou a primeira mulher humana racional e um agente de "deslacre mental", ilustra a complexidade e os desdobramentos inesperados dessa linhagem doentia.» — Pandora (RC-086) foi 'expelida do psiquismo de Zeus como fezes mentais', mas tornou-se a primeira mulher humana racional e um agente de 'deslacre mental'.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |

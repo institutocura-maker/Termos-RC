@@ -32,9 +32,15 @@ Com isso:
 
 - **[Cronos e a geração dos Titãs] (U0135)** «Depois da geração de Uranus surge a geração de cronos chamada de Titã.» — Cronos (STT `cronos`), filho de Uranos, é a geração dos Titãs; Zeus (RC-145) é seu filho e usurpou-lhe o poder.
 
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados

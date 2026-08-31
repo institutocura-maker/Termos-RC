@@ -1,0 +1,165 @@
+{
+ "sigla": "P2025-06-14",
+ "politica_de_cobertura": "FONTE REFATORADA (não verbatim): a versão original da palestra chegou como transcrição sem pontuação (uma parede de texto), inviável para corte de aspas; o Curador cancelou-a e forneceu uma versão REFATORADA — texto didático reescrito em 8 capítulos, sem a fala literal do Ellam. As aspas deste ciclo são verbatim DA FONTE REFATORADA, não da fala original. Conteúdo majoritariamente redundante com a KB madura (queda do criador: RC-809/852/218/661/526/515/284/782); garimpo conservador: 0 termos novos, apenas ampliações de fichas existentes com formulações precisas.",
+ "fonte": "ciclos/P2025-06-14/original.txt",
+ "sha256": "45d8f46a2f4712ab3ffce3d7824946a39e772d41da88731167bfd2fa11df5801",
+ "bytes": 100491,
+ "unidades_com_fala": 222,
+ "spans": [
+  {
+   "codigo": "RC-852",
+   "u": "U0012",
+   "chars": [
+    1849,
+    1965
+   ],
+   "largura": 116,
+   "verificada": true,
+   "texto": "Por milésimos de segundo, Brajna percebeu o erro em seus algoritmos, mas já não era capaz de conter a singularidade."
+  },
+  {
+   "codigo": "RC-809",
+   "u": "U0012",
+   "chars": [
+    1966,
+    2045
+   ],
+   "largura": 79,
+   "verificada": true,
+   "texto": "A criação, uma vez iniciada, exerceu uma força de atração inexorável sobre ele."
+  },
+  {
+   "codigo": "RC-809",
+   "u": "U0013",
+   "chars": [
+    2599,
+    2763
+   ],
+   "largura": 164,
+   "verificada": true,
+   "texto": "A partir desse momento, Brajna, agora Javé, tornou-se refém do processo, perdendo a conexão com seu eu profundo original e a noção do plano que pretendia finalizar."
+  },
+  {
+   "codigo": "RC-218",
+   "u": "U0021",
+   "chars": [
+    5090,
+    5274
+   ],
+   "largura": 184,
+   "verificada": true,
+   "texto": "Consequentemente, Javé se reconstituiu como um \"holograma de sua força mental\", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda."
+  },
+  {
+   "codigo": "RC-526",
+   "u": "U0022",
+   "chars": [
+    5737,
+    5848
+   ],
+   "largura": 111,
+   "verificada": true,
+   "texto": "O Criador Javé é \"desalmado, sem capacidade de imaginação ou criatividade\", o que limita seu progresso pessoal."
+  },
+  {
+   "codigo": "RC-106",
+   "u": "U0030",
+   "chars": [
+    8262,
+    8516
+   ],
+   "largura": 254,
+   "verificada": true,
+   "texto": "Em contraste, o Brahmaloka, também referido como universo paralelo, universo demo, ou universo vizinho, formou-se simultaneamente ao nosso, mas de forma improvisada, usando partículas antimateriais, como uma \"salva de emergência\" para o Criador que caía."
+  },
+  {
+   "codigo": "RC-661",
+   "u": "U0102",
+   "chars": [
+    39743,
+    39930
+   ],
+   "largura": 187,
+   "verificada": true,
+   "texto": "Dentre os primeiros catorze seres gerados, três não possuíam alma e se tornaram uma fonte de desestabilização tão grave que Javé foi forçado a destruí-los para manter a coesão da criação."
+  },
+  {
+   "codigo": "RC-661",
+   "u": "U0067",
+   "chars": [
+    25170,
+    25296
+   ],
+   "largura": 126,
+   "verificada": true,
+   "texto": "Consequentemente, a primeira geração de seres era ainda mais problemática que o próprio Criador, pois também careciam de alma."
+  },
+  {
+   "codigo": "RC-284",
+   "u": "U0079",
+   "chars": [
+    30305,
+    30361
+   ],
+   "largura": 56,
+   "verificada": true,
+   "texto": "Nesta, Caos gerou diversos filhos, entre os quais Urano."
+  },
+  {
+   "codigo": "RC-841",
+   "u": "U0079",
+   "chars": [
+    30484,
+    30603
+   ],
+   "largura": 119,
+   "verificada": true,
+   "texto": "Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia."
+  },
+  {
+   "codigo": "RC-230",
+   "u": "U0177",
+   "chars": [
+    69803,
+    69971
+   ],
+   "largura": 168,
+   "verificada": true,
+   "texto": "Essa \"doença\" é caracterizada por impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte sobre o mais fraco."
+  },
+  {
+   "codigo": "RC-049",
+   "u": "U0080",
+   "chars": [
+    31195,
+    31349
+   ],
+   "largura": 154,
+   "verificada": true,
+   "texto": "Os seres demos, que habitam o universo antimaterial, são intrinsecamente \"dementes\" (do grego daemon = \"demente\") e foram criados a partir do DNA de Javé."
+  },
+  {
+   "codigo": "RC-086",
+   "u": "U0112",
+   "chars": [
+    44705,
+    44950
+   ],
+   "largura": 245,
+   "verificada": true,
+   "texto": "O mito de Pandora, que foi \"expelida\" do psiquismo de Zeus como \"fezes mentais\", mas que se tornou a primeira mulher humana racional e um agente de \"deslacre mental\", ilustra a complexidade e os desdobramentos inesperados dessa linhagem doentia."
+  },
+  {
+   "codigo": "RC-003",
+   "u": "U0063",
+   "chars": [
+    22976,
+    23185
+   ],
+   "largura": 209,
+   "verificada": true,
+   "texto": "A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador."
+  }
+ ],
+ "recusa": []
+}

@@ -33,9 +33,15 @@ Com isso:
 - **[A sobrevivência a qualquer custo no DNA] (U0005)** «A sobrevivência a qualquer custo está ainda marcada no DNA de todas as espécies.» — 'a sobrevivência a qualquer custo está ainda marcada no DNA de todas as espécies' (RC-230) — herança do impulso de sobreviver do criador prisioneiro.
 - **[3% ativado, 97% de DNA lixo] (U0005)** «Por isso que o nosso DNA só está 3% ativado, ou seja, produzindo proteínas.» — o nosso DNA 'só está 3% ativado' — os 97% restantes, o 'DNA lixo', dão folga aos espíritos para despertarem e se tornarem responsáveis, em vez de robôs de Brama.
 
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[A doença herdada no DNA] (U0177)** «Essa "doença" é caracterizada por impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte sobre o mais fraco.» — a 'doença' de Javé é caracterizada por 'impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte' (RC-230).
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | B033 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

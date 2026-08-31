@@ -1,0 +1,57 @@
+# ciclo.toml — ciclo leve P2025-06-14 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2025-06-14"
+titulo = "PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada"
+data_fonte = "14/06/2025"
+pasta_fonte = "ciclos/P2025-06-14"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2025-06-14.txt"
+sha256_fonte = "45d8f46a2f4712ab3ffce3d7824946a39e772d41da88731167bfd2fa11df5801"
+
+baseline_commit = "78670aa"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "FONTE REFATORADA (não verbatim): a versão original da palestra chegou como transcrição sem pontuação (uma parede de texto), inviável para corte de aspas; o Curador cancelou-a e forneceu uma versão REFATORADA — texto didático reescrito em 8 capítulos, sem a fala literal do Ellam. As aspas deste ciclo são verbatim DA FONTE REFATORADA, não da fala original. Conteúdo majoritariamente redundante com a KB madura (queda do criador: RC-809/852/218/661/526/515/284/782); garimpo conservador: 0 termos novos, apenas ampliações de fichas existentes com formulações precisas."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # 0 termos novos — conteúdo já coberto; sem lacunas reais
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 12    # os 12 códigos do pacote carregam P2025-06-14
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A queda do Criador: Brajna/Prajapati (RC-852) gerou da mente uma singularidade e, por milésimos de segundo, hesitou — mas a criação passou a operar como 'buraco negro', exercendo 'uma força de atração inexorável' que tragou seu corpo mental (RC-809).",
+  "Sem alma, o Criador se reconstituiu como um 'holograma de sua força mental' (RC-218), 'desalmado, sem capacidade de imaginação ou criatividade' (RC-526), e improvisou o universo antimaterial Brahmaloka como 'salva de emergência' (RC-106).",
+  "A 'doença do DNA' de Javé (RC-230) traduziu-se na mitologia grega — o ciclo de Caos (RC-284), Urano, Cronos (RC-841) e Zeus — e nos primeiros seres 'sem alma' que ele criou e destruiu (RC-661); a Reintegração Cósmica (RC-003) depende da contribuição dos humanos para recompor a mente do Criador.",
+]
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

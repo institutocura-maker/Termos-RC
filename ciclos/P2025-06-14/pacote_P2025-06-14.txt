@@ -1,0 +1,62 @@
+# Pacote de ampliação — P2025-06-14
+# FONTE REFATORADA (não verbatim): texto didático reescrito pelo curador;
+#   as aspas são da versão refatorada, NÃO da fala literal do Ellam.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2025-06-14 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-852
+
+- **[A hesitação de Brajna na singularidade] (U0012)** «Por milésimos de segundo, Brajna percebeu o erro em seus algoritmos, mas já não era capaz de conter a singularidade.» — Prajapati/Brajna (RC-852) percebeu o erro em seus algoritmos por milésimos de segundo, mas já não conseguia conter a singularidade — o instante que definiu a queda.
+
+### RC-809
+
+- **[A tração irreversível da criação] (U0012)** «A criação, uma vez iniciada, exerceu uma força de atração inexorável sobre ele.» — a criação, uma vez iniciada, exerceu 'uma força de atração inexorável' sobre o Criador — a dinâmica de buraco negro que o tragou (RC-809).
+- **[Brajna/Javé, refém do processo] (U0013)** «A partir desse momento, Brajna, agora Javé, tornou-se refém do processo, perdendo a conexão com seu eu profundo original e a noção do plano que pretendia finalizar.» — tragado pela obra, 'Brajna, agora Javé, tornou-se refém do processo', perdendo a conexão com seu eu profundo e a noção do plano que pretendia finalizar.
+
+### RC-218
+
+- **[Javé, holograma sem alma] (U0021)** «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.» — Javé se reconstituiu como um 'holograma de sua força mental', apoiado na força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda (RC-218).
+
+### RC-526
+
+- **[O Criador desalmado] (U0022)** «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.» — Javé é 'desalmado, sem capacidade de imaginação ou criatividade' — o que limita seu progresso e o torna refém do progresso de suas criaturas (RC-526).
+
+### RC-106
+
+- **[Brahmaloka, improvisação da queda] (U0030)** «Em contraste, o Brahmaloka, também referido como universo paralelo, universo demo, ou universo vizinho, formou-se simultaneamente ao nosso, mas de forma improvisada, usando partículas antimateriais, como uma "salva de emergência" para o Criador que caía.» — o Brahmaloka (RC-106) formou-se de modo improvisado, com partículas antimateriais, 'como uma salva de emergência para o Criador que caía'.
+
+### RC-661
+
+- **[Os três primeiros seres sem alma] (U0102)** «Dentre os primeiros catorze seres gerados, três não possuíam alma e se tornaram uma fonte de desestabilização tão grave que Javé foi forçado a destruí-los para manter a coesão da criação.» — dentre os primeiros catorze seres gerados por clonagem, 'três não possuíam alma' e foram destruídos por Javé por desestabilizarem a criação (RC-661).
+- **[A primeira geração, mais problemática] (U0067)** «Consequentemente, a primeira geração de seres era ainda mais problemática que o próprio Criador, pois também careciam de alma.» — a primeira geração de seres 'era ainda mais problemática que o próprio Criador, pois também careciam de alma' — só a partir da quarta geração a Espiritualidade infundiu almas.
+
+### RC-284
+
+- **[Caos e o ciclo de Urano] (U0079)** «Nesta, Caos gerou diversos filhos, entre os quais Urano.» — na mitologia grega, 'Caos gerou diversos filhos, entre os quais Urano' — a doença do DNA de Javé traduzida no ciclo de geração e destruição (RC-284).
+
+### RC-841
+
+- **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'.
+
+### RC-230
+
+- **[A doença herdada no DNA] (U0177)** «Essa "doença" é caracterizada por impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte sobre o mais fraco.» — a 'doença' de Javé é caracterizada por 'impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte' (RC-230).
+
+### RC-049
+
+- **[Demos: dementes, do DNA de Javé] (U0080)** «Os seres demos, que habitam o universo antimaterial, são intrinsecamente "dementes" (do grego daemon = "demente") e foram criados a partir do DNA de Javé.» — os demos (RC-049) são intrinsecamente 'dementes' (do grego daemon = 'demente') e foram criados a partir do DNA de Javé, herdando a doença do Criador.
+
+### RC-086
+
+- **[Pandora, agente do deslacre] (U0112)** «O mito de Pandora, que foi "expelida" do psiquismo de Zeus como "fezes mentais", mas que se tornou a primeira mulher humana racional e um agente de "deslacre mental", ilustra a complexidade e os desdobramentos inesperados dessa linhagem doentia.» — Pandora (RC-086) foi 'expelida do psiquismo de Zeus como fezes mentais', mas tornou-se a primeira mulher humana racional e um agente de 'deslacre mental'.
+
+### RC-003
+
+- **[A reintegração e o retorno de Sophia] (U0063)** «A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador.» — a Reintegração Cósmica da Terra (RC-003), marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), depende da contribuição consciente dos humanos para a recomposição do Criador.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)

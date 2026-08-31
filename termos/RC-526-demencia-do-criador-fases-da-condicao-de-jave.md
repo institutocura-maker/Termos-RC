@@ -32,9 +32,15 @@ Com isso:
 
 - **[A doença, não o atraso] (U0005)** «Não é porque ele seja atrasado, é porque a sua natureza é doentia.» — Javé (RC-526) não é 'atrasado' — 'a sua natureza é doentia'; não é falta de evolução, é uma condição de doença que o impede de ver o que está além da sua criação.
 
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[O Criador desalmado] (U0022)** «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.» — Javé é 'desalmado, sem capacidade de imaginação ou criatividade' — o que limita seu progresso e o torna refém do progresso de suas criaturas (RC-526).
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

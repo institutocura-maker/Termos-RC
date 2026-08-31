@@ -69,9 +69,15 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 
 - **[P2023-12-03 · DEMOS NA FALA DE 03/12/2023]** «criaram um tipo de condição para eles de ter órgãos sexuais para poder fazer iguais aos mamíferos do universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[Demos: dementes, do DNA de Javé] (U0080)** «Os seres demos, que habitam o universo antimaterial, são intrinsecamente "dementes" (do grego daemon = "demente") e foram criados a partir do DNA de Javé.» — os demos (RC-049) são intrinsecamente 'dementes' (do grego daemon = 'demente') e foram criados a partir do DNA de Javé, herdando a doença do Criador.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |

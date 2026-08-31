@@ -22,9 +22,16 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (
 
 - **[O criador tragado pela própria obra] (U0005)** «O corpo mental seria só um desses sete corps, mas teria sido o corpo mental dessa divindade que foi tragado pela própria obra, a exemplo de um cientista louco, que em criando um campo de energia é engolido por esse campo.» — o corpo mental da divindade 'foi tragado pela própria obra' — como um cientista louco engolido pelo campo de energia que criou; de criador, passou a refém (RC-809).
 
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[A tração irreversível da criação] (U0012)** «A criação, uma vez iniciada, exerceu uma força de atração inexorável sobre ele.» — a criação, uma vez iniciada, exerceu 'uma força de atração inexorável' sobre o Criador — a dinâmica de buraco negro que o tragou (RC-809).
+- **[Brajna/Javé, refém do processo] (U0013)** «A partir desse momento, Brajna, agora Javé, tornou-se refém do processo, perdendo a conexão com seu eu profundo original e a noção do plano que pretendia finalizar.» — tragado pela obra, 'Brajna, agora Javé, tornou-se refém do processo', perdendo a conexão com seu eu profundo e a noção do plano que pretendia finalizar.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0002 (S2) | — | palestra (fonte primária, STT) |
 

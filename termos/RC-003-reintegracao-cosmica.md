@@ -126,3 +126,12 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[P2023-12-03 · ATÉ QUANDO, SEGUNDO A FONTE]** «Mas até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer.» (U0016) — D-13: a reintegração world-by-world recebe da fonte um horizonte declarado — «até o ano 2049, 50, 51, 52, isso aqui vai continuar a acontecer» — que é **o que a fala diz**, não uma previsão da Base. O valor para a ficha é o procedimento (redistribuir os doentes e reintegrar o mundo), não o calendário; a janela viaja com endereço.
 
 ---
+
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[A reintegração e o retorno de Sophia] (U0063)** «A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador.» — a Reintegração Cósmica da Terra (RC-003), marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), depende da contribuição consciente dos humanos para a recomposição do Criador.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)
+

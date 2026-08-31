@@ -44,3 +44,8 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 - **[P2023-12-03 · UNIVERSO ANTIMATERIAL (BRAHMALOKA / UNIVERSO PARALELO) NA FALA DE 03/12/2023]** «é um mundo antimaterial.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada)
+
+- **[Brahmaloka, improvisação da queda] (U0030)** «Em contraste, o Brahmaloka, também referido como universo paralelo, universo demo, ou universo vizinho, formou-se simultaneamente ao nosso, mas de forma improvisada, usando partículas antimateriais, como uma "salva de emergência" para o Criador que caía.» — o Brahmaloka (RC-106) formou-se de modo improvisado, com partículas antimateriais, 'como uma salva de emergência para o Criador que caía'.
+
