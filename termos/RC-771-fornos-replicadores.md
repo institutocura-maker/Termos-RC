@@ -85,3 +85,7 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 
 - **[Fornos Replicadores — na Via Láctea] (U0006)** «Só para os três fornos replicadores foram construídos no âmbito desta nossa galáxia.» — os três fornos foram construídos na Via Láctea (que teria engolido ~19 outras galáxias); um (Awayen) nunca funcionou, dois (Awaymaion e Awaylengan) funcionaram.
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[os três fornos — o de Brahma não funcionou] (U0005)** «A gente diz que um for de Brama chamado a não funcionou.» — os três fornos replicadores: STT `Brama`=Brahma (forno de Awayen RC-836, não funcionou); `China`/`Chiva`=Shiva (forno de Awaylengan RC-837, vida emocional/animalidade); `Virgo`=Vishnu (forno de Awaymaion RC-499, biodemos/sensatez).
+

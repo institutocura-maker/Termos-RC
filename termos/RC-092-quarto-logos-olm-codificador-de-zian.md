@@ -219,3 +219,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[Quarto Logos — a sequência dos logos] (U0006)** «Porque Brama foi o primeiro logos que gerou a vida.» — a sequência: Brahma (1º logos, gerou a vida), Shiva (2º, organizou), Vishnu (3º, pôs a evoluir via sexualidade/oxitocina), Olm (4º, decifração).
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[o Codificador instituiu a escola] (U0008)** «O quificador de Zé só instituiu a escola há 4 milhões de anos atrás.» — STT `quificador`/`cotificador`=Codificador (Olm/Quarto Logos); instituiu a escola há 4 milhões de anos, em Capela.
+

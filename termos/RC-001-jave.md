@@ -387,3 +387,7 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 
 - **[Javé — o colapso de 2021] (U0004)** «E no ano 2021, o corpo de Javé colapsou devido a esse problema.» — o corpo de Javé colapsou em 2021 por falta do "embrulho astral de dignidade" dos órgãos roubados.
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[Caos = Javé] (U0135)** «Caos aí é o nome de Jahé caído, porque tudo era um caos mesmo.» — Caos (mitologia grega) é o nome de Javé caído (STT `Jahé`); tudo era caos porque a obra ficou inacabada.
+

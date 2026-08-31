@@ -1,0 +1,63 @@
+# ciclo.toml — ciclo leve P2017-10-14 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2017-10-14"
+titulo = "Da Base Atlan ao Colégio Druídico"
+data_fonte = "14/10/2017"
+pasta_fonte = "ciclos/P2017-10-14"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2017-10-14.txt"
+sha256_fonte = "fb7619e4190287e6781a95d17f2a457bc148676b63057c7ef60a1670baf5694d"
+
+baseline_commit = "14fb99e"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = ["RC-841 Cronos (titã)", "RC-842 Milésios (raça da Irlanda)"]
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # nenhuma ficha materializada (sem ordem do Curador para este ciclo)
+ficha_true = 0   # nenhuma virada no cadastro
+termos = 2       # RC-841 (Cronos) e RC-842 (Milésios), por pérola aprovada
+relacoes = 0     # nenhuma aresta nova — aresta só tipada + evidência + selo datado
+vinculos = 17    # os 17 códigos tocados pelo ciclo passam a carregar P2017-10-14
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O Colégio Druídico (RC-403) é a recriação, na Terra, da escola fundada em Capela pelo Codificador (RC-092) há ~4 milhões de anos — a 1ª transferência desse conhecimento a humanos livres, transmitida pelos povos celtas/gaélicos até a Grécia (filosofia) e depois distorcida por Roma e pelo cristianismo.",
+  "O ser humano é o 'protótipo que deu certo': a união dos dois fornos replicadores (RC-771) — a banda sensata dos biodemos (forno de Vishnu/RC-499) + a banda emocional da animalidade (forno de Shiva/RC-837) — o que explica os dois hemisférios cerebrais; quem urdiu a união foi o Codificador.",
+  "A rebelião de Lúcifer (RC-002) trouxe o quartel-general a ~97.000 anos; na base Atlan (RC-017) reencontrou a família Val (RC-109), já aqui há 600.000 anos, e dali retomou a tese da escola ('a realidade está doente') e estudou a astralização (RC-026).",
+  "A mitologia grega (Caos = Javé, RC-284; Têmis, RC-305; a genealogia Cronos→Zeus) e a irlandesa (Thuata de Dannan, RC-398; Milésios, RC-842) são ecos distorcidos dessa história biodêmica — e Têmis teria introduzido a 1ª mutação genética de 'racionalidade limpa' (honesta).",
+]
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+RC-109 = "quarentena social — a leitura 'elitista' do percentual de biodemos na humanidade e dos 'mais habilitados' que levam a tocha da vida (linha U0149): dito, não endossado"
+RC-001 = "leitura do autor — o tom crítico a Javé/'deus fajuto' e a frase de Sileno ('o melhor seria jamais ter nascido'): dito, não doutrina"
+
+[lacunas]
+RC-403 = "fecha a lacuna do Colégio Druídico como 1ª transferência de poder para humanos livres (ficha=False; sem arquivo)"
+RC-842 = "fecha a lacuna dos Milésios como herdeiros do conhecimento druídico e fundadores das origens do Colégio Druídico"
+RC-161 = "fecha a lacuna do 'registro cármico' como a memória quântica dos elétrons"

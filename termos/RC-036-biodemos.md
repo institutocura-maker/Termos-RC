@@ -75,9 +75,15 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 
 - **[Biodemos — civilização tipo 2 de Kardashev] (U0015)** «000 espécies espalhadas por aí, já é uma civilização, segundo a escala de Kardachev, tipo dois.» — os biodemos como civilização galáctica, a menos emotiva do universo biológico.
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[biodemos assexuados] (U0005)** «eram assexuados, só os animais eram assexuados.» — os biodemos não têm sexo e nascem 'dentro de casos' por receita genética; o sexo veio com a animalidade.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

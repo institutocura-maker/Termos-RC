@@ -1,0 +1,79 @@
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2017-10-14 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-403
+
+- **[a escola druídica recriada na Terra] (U0007)** «Os biodemos são bons na tentativa de entender o como as coisas são feitas, por seres humanos, nós, seres humanos, vamos então assim, a escola druídica, entre aspas, que nem sei se esse nome vai persistir, se pretende recriar aqui na terra livro de toda a sujeira dos conceitos viciados de religião, de dogmatismo, de ideologia, seja o que for, nada mais é do que a continuidade dessa história.» — a escola druídica (futuro Colégio Druídico) é a continuidade da escola fundada em Capela pelo Codificador; ver RC-755.
+
+### RC-771
+
+- **[os três fornos — o de Brahma não funcionou] (U0005)** «A gente diz que um for de Brama chamado a não funcionou.» — os três fornos replicadores: STT `Brama`=Brahma (forno de Awayen RC-836, não funcionou); `China`/`Chiva`=Shiva (forno de Awaylengan RC-837, vida emocional/animalidade); `Virgo`=Vishnu (forno de Awaymaion RC-499, biodemos/sensatez).
+
+### RC-017
+
+- **[a base Atlan sob Natal] (U0008)** «Então eles começaram a me mostrar que ali aonde hoje ela tá, mas principalmente no perímetro dos 2 km, existia durante muito tempo uma chamada base Atla.» — a base Atlan existiu no perímetro de ~2 km onde hoje é a cidade de Natal (anagrama de Atlan); ver RC-018 Alt´Lam Gron.
+
+### RC-092
+
+- **[o Codificador instituiu a escola] (U0008)** «O quificador de Zé só instituiu a escola há 4 milhões de anos atrás.» — STT `quificador`/`cotificador`=Codificador (Olm/Quarto Logos); instituiu a escola há 4 milhões de anos, em Capela.
+
+### RC-036
+
+- **[biodemos assexuados] (U0005)** «eram assexuados, só os animais eram assexuados.» — os biodemos não têm sexo e nascem 'dentro de casos' por receita genética; o sexo veio com a animalidade.
+
+### RC-089
+
+- **[o processador como corpo de Javé] (U0044)** «Com esse processador, praticamente o processador da família Vol hoje é o corpo de J, porque o corpo último que ele tinha apodreceu há 4 milhões de anos atrás.» — o processador da família Val (STT `Vol`) hoje é o corpo de Javé, cujo último corpo apodreceu há 4 milhões de anos.
+
+### RC-228
+
+- **[Sileno e o rei Midas] (U0021)** «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era muito ganancioso, mas ele era um cara que queria saber o porquê das coisas.» — Sileno (STT `Sileno`/`Silênio`), o demo sábio capturado por Midas; a observação de Sileno sobre jamais ter nascido (ver RC-228).
+
+### RC-305
+
+- **[Têmis, deusa dos juramentos] (U0135)** «Então ela passou a ser tida como a deusa dos juramentos, dos deuses.» — Têmis (STT `Temis`/`Tenes`) criou a primeira mutação genética de racionalidade limpa; é a deusa dos juramentos (não da justiça) e a primeira ligada ao oráculo de Delfos.
+
+### RC-398
+
+- **[a chegada dos Thuata de Dannan] (U0166)** «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.» — STT `toatas de ganã`=Thuata de Dannan; chegaram à Irlanda queimando os próprios navios, em conflito com partolanos, nemedianos e formorianos.
+
+### RC-161
+
+- **[o registro cármico como memória dos elétrons] (U0034)** «O registro cástico é a memória dos elétrons que guardam em si toda a experiência que vivenciam.» — o registro cármico (STT `cástico`) é a memória dos elétrons, que guardam e trocam toda a experiência vivida.
+
+### RC-489
+
+- **[Valel nasceu como Enoque] (U0100)** «de fixação, e logo depois nasceu como Enoque.» — o espírito que animava Valel (família Val) nasceu como Enoque, da linhagem de Adão, e foi transformado em emissário junto à Terra.
+
+### RC-486
+
+- **[o gene FOXP2 e a racionalidade] (U0135)** «Essa componente responde pela presença do Fox 2, ou seja, da genética que permite a racionalidade, a simbologia mental.» — o FOXP2 (STT `Fox 2`) responde pela racionalidade e pela simbologia mental — a componente genética herdada da turma da base.
+
+### RC-001
+
+- **[Caos = Javé] (U0135)** «Caos aí é o nome de Jahé caído, porque tudo era um caos mesmo.» — Caos (mitologia grega) é o nome de Javé caído (STT `Jahé`); tudo era caos porque a obra ficou inacabada.
+
+### RC-109
+
+- **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon.
+
+### RC-024
+
+- **[anunnakis, sirianos e deuses] (U0010)** «Essas outras forças eram os anonques, eram os anfíbios sirianos, eram os tais deuses que nessa época saí dos portais ficavam aqui na terra.» — STT `anonques`=Anunnakis; junto com os anfíbios sirianos e os deuses que saíam dos portais, já estavam na Terra antes dos biodemos.
+
+### RC-841
+
+- **[Cronos e a geração dos Titãs] (U0135)** «Depois da geração de Uranus surge a geração de cronos chamada de Titã.» — Cronos (STT `cronos`), filho de Uranos, é a geração dos Titãs; Zeus (RC-145) é seu filho e usurpou-lhe o poder.
+
+### RC-842
+
+- **[os Milésios herdaram o conhecimento] (U0141)** «Então, o conhecimento que eles trouxeram quando os milesanos herdavam o conhecimento deste terreno, eles meio que chamaram isso de conhecimento de inclusezianos lá na Irlanda e depois lá na Escócia e depois descendo da Grantã, que fundaram as primeiras origens do colégio do cuja tese estranhamente foi transplantada lá de Capela paraa Terra através dessa história.» — STT `milesanos`=Milésios; herdaram o conhecimento druídico na Irlanda e fundaram as primeiras origens do Colégio Druídico, cuja tese foi transplantada de Capela.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)

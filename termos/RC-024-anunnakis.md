@@ -117,3 +117,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 - **[Anunnakis — a ponta final do ramo de Awaylengan] (U0003)** «Os anunac são a ponta final desse dessa história que eu tô falando aqui, desse vírus, tá?» — os anunnakis como o resultado do encontro do ramo de Awaylengan com o vírus de Lúcifer; ver RC-002.
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[anunnakis, sirianos e deuses] (U0010)** «Essas outras forças eram os anonques, eram os anfíbios sirianos, eram os tais deuses que nessa época saí dos portais ficavam aqui na terra.» — STT `anonques`=Anunnakis; junto com os anfíbios sirianos e os deuses que saíam dos portais, já estavam na Terra antes dos biodemos.
+

@@ -46,9 +46,15 @@ Com isso:
 
 - **[Processador Val — a nova espécie biodemo] (U0015)** «uma nova espécie biodel, a partir do processador val de alto long.» — o quarto canal de notícias e a criação de uma nova espécie biodemo a partir do Processador Val.
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[o processador como corpo de Javé] (U0044)** «Com esse processador, praticamente o processador da família Vol hoje é o corpo de J, porque o corpo último que ele tinha apodreceu há 4 milhões de anos atrás.» — o processador da família Val (STT `Vol`) hoje é o corpo de Javé, cujo último corpo apodreceu há 4 milhões de anos.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

@@ -78,10 +78,16 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **[P2023-12-03 · ENOQUE (SÉTIMO PATRIARCA; LEVADO POR JAVÉ) NA FALA DE 03/12/2023]** «nasce como Enoque.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · A ELEIÇÃO PELA GENÉTICA]** «o DNA de Enoque era muito interessante para Javé.» (U0004) — D-9: a raptura de Enoque ganha motivo segundo a fonte (o DNA interesse de Javé) e suas idades coincidem com o que a ficha já registra — **convergência datada**, que o ciclo destaca como confirmação e não como revisão.
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[Valel nasceu como Enoque] (U0100)** «de fixação, e logo depois nasceu como Enoque.» — o espírito que animava Valel (família Val) nasceu como Enoque, da linhagem de Adão, e foi transformado em emissário junto à Terra.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco final (Thot e anjos de Javé/Adão/Enoque) | palestra/STT pré-curada |

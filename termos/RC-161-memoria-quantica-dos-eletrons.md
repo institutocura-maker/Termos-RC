@@ -101,3 +101,8 @@ A palestra atribui aos elétrons memória de sofrimento, preferências e comunic
 - **[P2023-12-03 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 03/12/2023]** «em elétrons e antielétrons sujos aqui dentro dessa matrix que é composta de duas bandas, um antimaterial, um material.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[o registro cármico como memória dos elétrons] (U0034)** «O registro cástico é a memória dos elétrons que guardam em si toda a experiência que vivenciam.» — o registro cármico (STT `cástico`) é a memória dos elétrons, que guardam e trocam toda a experiência vivida.
+

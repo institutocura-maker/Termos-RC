@@ -65,10 +65,16 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **[P2023-10-14 · A DESTINAÇÃO: O DNA DE ENKI, JAMAIS O DE PANDORA]** "O tipo de ser humano a surgir na natureza terrestre era o produzido pela interferência do DNA de Enk, jamais o de Pandora." (U0033)
 - **[P2023-10-14 · O CRITÉRIO DO JULGAMENTO GENÉTICO]** "Quais Os que ele iria reaproveitar, os que estivessem aliados com os padrões do genoma de Enk." (U0033)
 
+## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
+
+- **[o gene FOXP2 e a racionalidade] (U0135)** «Essa componente responde pela presença do Fox 2, ou seja, da genética que permite a racionalidade, a simbologia mental.» — o FOXP2 (STT `Fox 2`) responde pela racionalidade e pela simbologia mental — a componente genética herdada da turma da base.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2023-12-02 | bloco da história anunnaki | palestra/STT pré-curada |
