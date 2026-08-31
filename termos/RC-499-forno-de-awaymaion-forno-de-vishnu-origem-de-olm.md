@@ -77,7 +77,7 @@ Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (
 
 - **[P2019-08-25 · A GRAFIA ORAL FUNDADORA DO FORNO DE VISHNU]** (fonte oral mais antiga — predata P2021-05-15 em 2 anos):
 
-- "Aí surge Sofia é o A maior. Sofia é um ser. parte demo, parte biológico" (STT) — o grau oral "**A maior**" ≈ Awaymaion (canônico), e a associação fundadora Sophia↔Awaymaion;
-- "E o forno de Virgino chamado Aon segundo que veio a funcionar, ainda que nele a mensagem tal estava já codificada há muito tempo" (STT) — a Mensagem Talm codificada no forno de Vishnu.
+- "Aí surge Sophia, no Awaymaion. Sophia é um ser parte demo, parte biológico" (STT) — o grau oral "**A maior**" ≈ Awaymaion (canônico), e a associação fundadora Sophia↔Awaymaion;
+- "E o forno de Vishnu chamado Awaymaion segundo que veio a funcionar, ainda que nele a Mensagem Talm estava já codificada há muito tempo" (STT) — a Mensagem Talm codificada no forno de Vishnu.
 - **Ganho de anterioridade:** a ficha até aqui tinha fonte oral mais antiga `P2021-05-15`; `P2019-08-25` passa a ser a **primeira fala**.
 - **Grafias embrionárias (não renomear):** "Aon/Aô/a maior/Mayon/Mayão/Amaion".

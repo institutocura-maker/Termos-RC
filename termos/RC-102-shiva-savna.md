@@ -150,6 +150,6 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 
 - **[P2019-08-25 · SHIVA COMO SEGUNDO LOGOS E O FORNO AWAYLENGAN]** (fonte oral fundadora):
 
-- "Chiva é o pai dos demos, foi o primeiro demo a surgir"; a "linhagem dele surgiu do fogo" — "o fogo é produto de uma derrota";
+- "Shiva é o pai dos demos, foi o primeiro demo a surgir"; a "linhagem dele surgiu do fogo" — "o fogo é produto de uma derrota";
 - O forno de Shiva (Awaylengan) foi "o primeiro forno a funcionar"; dele a **animalidade** e a **emoção/sensação** (ver RC-837);
 - A morada de Shiva no Himalaia (a "Aingan" / base cósmica) — quarentena ufológica.

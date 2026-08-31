@@ -241,5 +241,5 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 ## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · MOROS COMO O DETENTOR DO PONTO FRACO]** (fonte oral fundadora; grafias embrionárias "Morus/Morre/Morgon"):
-- "a figura que detinha o conhecimento do ponto fraco de todas as três descendências, um ser chamado Morus da mitologia grega" (STT); e "Esse ser sumiu, fez desaparecer o conhecimento que ele tinha" (STT) — a origem da "era do impasse";
-- No Q&A (André): "Moros nunca foi de perpério. Morus, a origem dele é de tempério" (STT) — biomediúnica, só índice rotulado; o deslacre é tratado como história "que por enquanto a gente não pode aprofundar".
+- "a figura que detinha o conhecimento do ponto fraco de todas as três descendências, um ser chamado Moros da mitologia grega" (STT); e "Esse ser sumiu, fez desaparecer o conhecimento que ele tinha" (STT) — a origem da "era do impasse";
+- No Q&A (André): "Moros nunca foi de perpério. Moros, a origem dele é de tempério" (STT) — biomediúnica, só índice rotulado; o deslacre é tratado como história "que por enquanto a gente não pode aprofundar".

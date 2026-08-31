@@ -93,7 +93,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 ## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · MORREN SO COMO ORQUESTRADOR DOS FORNOS]** (fonte oral fundadora; grafias embrionárias "Morrensor/Morrençou/Borrensor/Morenç"):
-- Morren So é o avatar de Vishnu que orquestra o Projeto Talm: "Morrensor chamou alguns fervães de Virgino e disse aí, Tive uma ideia" (STT);
-- a criação do **Nidana**: "criei o novo novo cosmo" e "Brama pegou o Nindana, Virgen, Nindana, Chiv Nindana, passaram seus servões" (STT);
-- engendra Sophia junto com Vishnu (STT: "a virgem junto com borre e sofrios de que engendraram Sofia");
+- Morren So é o avatar de Vishnu que orquestra o Projeto Talm: "Morren So chamou alguns fenvans de Vishnu e disse aí, Tive uma ideia" (STT);
+- a criação do **Nidana**: "criei o novo novo cosmo" e "Brahma pegou o Nidana, Virgen, Nidana, Chiv Nidana, passaram seus fenvans" (STT);
+- engendra Sophia junto com Vishnu (STT: "a virgem junto com borre e sofrios de que engendraram Sophia");
 - ⚠️ [REVISAR — grafia]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.

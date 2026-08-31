@@ -154,7 +154,7 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias: a condiçã
 ## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · BRAHMA COMO O PRIMEIRO LOGOS E O FORNO AWAYEN]** (fonte oral fundadora do tema fornos):
-- "Brama" com a descendência **clonada** (os "anjos clones"); "Brama nasceu com a doença da supremacia" (STT);
-- o ovo cósmico hindu: "o brah nanda, ou seja, o anda de Brama, ou seja, o ovo cósmico de Brama" e "O ovo tinha três partes. Quando esse ovo se desfez, surgiu o brama loca" (STT);
-- a polinomia do criador: "Brama ou javé ou atum vários nomes" (STT);
+- "Brahma" com a descendência **clonada** (os "anjos clones"); "Brahma nasceu com a doença da supremacia" (STT);
+- o ovo cósmico hindu: "o Brahmanda, ou seja, o anda de Brahma, ou seja, o ovo cósmico de Brahma" e "O ovo tinha três partes. Quando esse ovo se desfez, surgiu o Brahmaloka" (STT);
+- a polinomia do criador: "Brahma ou javé ou atum vários nomes" (STT);
 - o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836).

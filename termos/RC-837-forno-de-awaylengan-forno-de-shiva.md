@@ -28,9 +28,9 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Shiva*
 | P2022-03-26 — A Rebelião de Lúcifer e a Depressão Mental dos Seres | U0005 | fonte oral posterior |
 
 ## Citações-chave
-> "esse forno é chamado de Awai Lengan. Esses nomes vocês não se preocupem porque por invenção aí dessa dessas revelações, não sei se esses nomes percevarão perervarão no futuro, perseverão no futuro." — P2019-08-25 (STT bruto)
+> "esse forno é chamado de Awaylengan. Esses nomes vocês não se preocupem porque por invenção aí dessa dessas revelações, não sei se esses nomes percevarão perervarão no futuro, perseverão no futuro." — P2019-08-25 (STT bruto)
 
-> "mas o primeiro forno a funcionar foi o de Shiva. Nós nós aqui que estamos essa sáb esses corpos são produtos do fogo de chivo." — P2019-08-25 (STT bruto)
+> "mas o primeiro forno a funcionar foi o de Shiva. Nós nós aqui que estamos essa sáb esses corpos são produtos do fogo de Shiva." — P2019-08-25 (STT bruto)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

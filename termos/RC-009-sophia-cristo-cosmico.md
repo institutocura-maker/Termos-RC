@@ -380,7 +380,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 ## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · O ENGENDRAMENTO DE SOPHIA — A "BOMBA" DE BRAHMA]** (fonte oral fundadora):
-- "Sofia o Cristo cósmico. A forma cósmica do homem Jesus, o ser do qual foi retirado uma parte do DNA para inserir Maria" (STT);
+- "Sophia o Cristo cósmico. A forma cósmica do homem Jesus, o ser do qual foi retirado uma parte do DNA para inserir Maria" (STT);
 - Sophia nasceu "deslacrado, mas com essa bomba dentro dele" (STT) — a autodestruição comandada por Brahma; Morren So/Vishnu desligaram a bomba (prosa do STT);
 - Sophia como **radiata** sem emoção, que evolui "através de organoides que são postos no cérebro dele" (paráfrase do STT);
 - o Quarto Logos (Olm) como "figura por sombra dos dois", que não dá ordem: "vai continuar sendo seador de escolas" (STT — grafia oral "seador", sem correção silenciosa).

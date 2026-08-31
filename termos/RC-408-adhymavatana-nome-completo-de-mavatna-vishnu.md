@@ -72,5 +72,5 @@ Ficha baseada no B051 (obra complementar de alunos, revisada pelo usuário). O n
 - **[P2019-08-25 · VISHNU COMO TERCEIRO LOGOS E O FORNO AWAYMAION]** (fonte oral fundadora; grafias embrionárias "Virgo/Virgno/Vno/Vdo"):
 
 - Vishnu ("Virgo") propôs a **Trimurti** e a **Lila** (a constituição): "vamos fazer um trimur aqui... vamos criar em torno dessa tríade... algo que depois passou a se chamar na língua sânscrita, Lila";
-- O forno de Vishnu (Awaymaion) = o **segundo** a funcionar; a "mensagem tal" codificada nele (ver RC-499);
-- Vishnu engendrou Sophia **junto com** Morren So: "a virgem junto com borre e sofrios de que engendraram Sofia" (STT).
+- O forno de Vishnu (Awaymaion) = o **segundo** a funcionar; a "Mensagem Talm" codificada nele (ver RC-499);
+- Vishnu engendrou Sophia **junto com** Morren So: "Vishnu, junto com Morren So, engendrou Sophia".

@@ -28,9 +28,9 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Brahma
 | P2022-03-26 — A Rebelião de Lúcifer e a Depressão Mental dos Seres | U0005 | fonte oral posterior |
 
 ## Citações-chave
-> "O forno de brah nunca funcionou chamado aen. E o forno de Virgino chamado Aon segundo que veio a funcionar, ainda que nele a mensagem tal estava já codificada há muito tempo." — P2019-08-25 (STT bruto)
+> "O forno de brah nunca funcionou chamado Awayen. E o forno de Vishnu chamado Awaymaion segundo que veio a funcionar, ainda que nele a Mensagem Talm estava já codificada há muito tempo." — P2019-08-25 (STT bruto)
 
-> "a Ien, que é o forno ou seria o forno de Brama, em vez de ser o forno replicador de vida, ele terminou se tornando uma central de realidades do universo paralelo." — P2019-08-25 (STT bruto)
+> "a Ien, que é o forno ou seria o forno de Brahma, em vez de ser o forno replicador de vida, ele terminou se tornando uma central de realidades do universo paralelo." — P2019-08-25 (STT bruto)
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

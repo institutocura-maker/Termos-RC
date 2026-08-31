@@ -48,7 +48,7 @@ Com isso:
 ## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 
 - **[P2019-08-25 · A FONTE ORAL FUNDADORA DOS BILATÉRIOS — O NIDANA B]** (predata P2023-12-03 em 4 anos):
-- "nesse último bilhão de anos surgiu os primeiros seres milatérios. Até então só tinha radiatos é isso. Radiatas são seres cérebro onde só gira um sistema fechado. Bilatérios são seres que têm um cérebro, mas que tem duas componentes rodando. Chamado hemisfério direito, hemisfério esquerdo" (STT);
+- "nesse último bilhão de anos surgiu os primeiros seres bilatérios. Até então só tinha radiatas é isso. Radiatas são seres cérebro onde só gira um sistema fechado. Bilatérios são seres que têm um cérebro, mas que tem duas componentes rodando. Chamado hemisfério direito, hemisfério esquerdo" (STT);
 - a origem: o **Nidana B** (junção Awaylengan + Awaymaion): "criaram Nidana B, ou seja, o ovo cov" (STT) — nova versão do código que juntou a experiência dos dois fornos;
-- a consequência na Terra: "já eram seres bilaterais, porque a tal molécula mãe" (STT) que foi lançada aqui "já vinha como sendo unidana B" — a explosão cambriana e a evolução até os humanos;
+- a consequência na Terra: "já eram seres bilaterais, porque a tal molécula mãe" (STT) que foi lançada aqui "já vinha como sendo Nidana B" — a explosão cambriana e a evolução até os humanos;
 - **Materialização decidida por Devolutiva O-3** — em vez de criar um código duplicado (RC-838), a fonte fundadora de 2019 amplia a ficha **RC-035 Bilatérios** já existente (correção do dossiê O-2, que por erro de busca não a localizara).
