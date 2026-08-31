@@ -24,14 +24,14 @@ veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo: nenhuma (pérolas aguardam carimbo)
-ficha_true = 0   # viradas no cadastro: nenhuma
+arquivos = 4      # fichas criadas por este ciclo: RC-186, RC-135, RC-459, RC-413 (devolutiva do Curador)
+ficha_true = 4   # viradas no cadastro: as mesmas quatro (ficha=False → ficha=True)
 termos = 0       # termos novos: nenhum código criado sem pérola aprovada
-relacoes = 0     # arestas novas: nenhuma
+relacoes = 0     # arestas novas: nenhuma (materializar não abre aresta)
 vinculos = 25    # códigos que passam a carregar P2022-05-07 na lista de fontes
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-186", "RC-135", "RC-459", "RC-413"]   # fila aberta da devolutiva; âncoras em BLOCO 1
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -49,6 +49,10 @@ pontos = [
 ]
 
 [definicoes]
+RC-186 = "**Biodemol** é o ser híbrido da natureza atual que a palestra descreve como *parte biológico, parte demo, mas sexualizado* — a variante **sexualizada** do biodemo (RC-036)."
+RC-135 = "**Vishnu** é o segundo da Trimurti (RC-104); na RC, **Mavatna** é o nome que assume após o mergulho (variação de Prabrajna, RC-152). Antes do Projeto Talm, Vishnu e Shiva trabalharam \"sempre em cima\" do código de Brahma (RC-037), sem grandes ousadias; o forno de Vishnu é Awaymaion (RC-499)."
+RC-459 = "**Parvathi** é a consorte de Shiva (RC-102/RC-409) e um dos aspectos da Tridevi (RC-610); da espécie Pashvnaj (RC-455). A palestra narra a figura como **Sati**, primeira esposa de Shiva, que se imola na fogueira após a afronta do pai (Daksha, RC-701) e retorna como Parvathi."
+RC-413 = "**Hara** (Rudra) é o avatar de Shiva (RC-102) entendido como o **ser de obscuridade que dissolve o universo**: desconstitui-se no fim das coisas, junto com o forno de Awaylengan (RC-771) e a base do que foi criado e não tem serventia."
 
 [observacoes]
 RC-102 = ["**Grafia STT dominante:** Chiva/Chiv/Xivir = Shiva. As variantes entram como vieram dentro de aspa; a prosa usa o canônico Shiva.", "O elogio 'majestosa inutilidade' de toda a criação de Shiva é do autor no fechamento — leitura, não doutrina."]
@@ -57,6 +61,8 @@ RC-669 = ["**Pashupati como desenhista:** todos os animais terrestres descendem 
 RC-035 = ["**Bilateralidade corporal × cerebral:** a fonte distingue o corpo bilatério (produto de Awaylengan) do cérebro bilatério (que veio via humano, não via polvo)."]
 RC-001 = ["**As três faces de Javé:** insetóide (abelhas/formigas), cefalópode (náutilo) e humana (que faliu). A face 'desfigurada' é a humana — leitura do autor, registrada com endereço.", "**Vírus/bactérias do corpo = parte de Javé:** a fonte lê a microbiota como 'a parte de Javé que nunca morreu'. Leitura do autor (obra 'Além da Ordenação do Caos')."]
 RC-002 = ["**Data da rebelião:** ~700.000 anos, precedida por problema virótico no forno de Awaylengan ~1,6 bi de anos atrás. Datas ditas como ditas, sem harmonização."]
+RC-186 = ["**Biodemol × biodemo:** a fonte distingue o biodemol (sexualizado) do biodemo (RC-036). A sexualização como ruptura criativa de Shiva é leitura do autor — ver trava."]
+RC-135 = ["**Grafia STT:** 'Vído' = Vishnu, 'Chiva' = Shiva. 'Trabalharam sempre em cima' = sobre o código de Brahma, até a 'carreira solo' do Projeto Talm."]
 RC-459 = ["**Sati → Parvati:** a fonte narra a imolação de Sati e o retorno como Parvati (STT 'Paraki'). A grafia canônica Parvathi (RC-459) cobre a figura; Sati é candidata a termo novo (radar)."]
 RC-413 = ["**Hara/Rudra:** o STT grafa 'rara'. O ser de obscuridade que dissolve o universo desconstitui-se junto com o forno de Awaylengan."]
 
