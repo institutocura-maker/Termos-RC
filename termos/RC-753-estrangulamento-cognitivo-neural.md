@@ -21,10 +21,18 @@ Na leitura de Jan Val Ellam (P2025-06-14), a mecânica limitadora fundamental qu
 - ligação com o ser humano não local (RC-708) e com a mente universal emergente (RC-163);
 - a chave para transcender é a Chave da Decifração Universal (RC-754).
 
+## Ampliação — P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
+
+- **[A causação descendente da física de vanguarda] (U0008)** «Os físicos de vanguarda dizem a causação descendente, ou seja, a consciência tá existe.» — na leitura de Ellam, a física de vanguarda adota a causação descendente — a consciência preexiste e informa a matéria — contra a tese materialista da causação ascendente.
+- **[Orch-OR como o elo entre as duas causações] (U0017)** «Esse problema de redução objetiva orquestrada tem a ver com as teses que eu já falei no início da causação ascendente e da causação descendente, que são as duas teses que discutam.» — a redução objetiva orquestrada (Orch-OR, Penrose/Hameroff) é o ponto onde as duas teses concorrentes — causação ascendente (matéria gera consciência) e descendente (consciência informa) — disputam.
+- **[O transtorno cognitivo: criar verdade sem prova] (U0004)** «Mas o transtorno cognitivo humano faz com que você crie o um conceito de que Deus existe.» — distinto do estrangulamento (filtro perceptual), o transtorno cognitivo é a patologia que fabrica verdades sem prova — a contraface epistemológica do funil de bits.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | blocos centrais (estrangulamento; 400 bi/2.000/10 bits; redução objetiva orquestrada) | palestra/STT pré-curada |
 
 ## Citação-chave

@@ -29,9 +29,15 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 - **O espelho:** "você olha para um espelho, quando você sai da frente do espelho sua imagem fica lá. Isso aqui é o eu humano que fica dentro do espelho, mas o espírito dele é o que tá fora. Nós somos imagens refletidas dos nossos espíritos que se movimentam dentro de um espelho — só que esse espelho pra gente é uma faixa de realidade."
 - **Desenraizar:** "você perceber uma nova ideia é fácil. O difícil é desenraizar as velhas ideias... sem o processo da vivência do yoga ou algo parecido, não há possibilidade de renovação do ser humano."
 
+## Ampliação — P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
+
+- **[A ciência pessoal de cada ser único] (U0029)** «O que implica dizer que cada ser humano sob essa perspectiva tem que criar sua ciência pessoal, já que cada um de nós é único.» — o Mentalma é a primeira versão da ciência pessoal do autor; cada ser humano, sendo único, precisa criar a sua própria.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
 | P2025-02-16 | U0878–U0889; U0998–U1006; U1020–U1039 | aula/palestra STT |
 
 ## Citações-chave

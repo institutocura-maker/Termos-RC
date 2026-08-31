@@ -1,0 +1,63 @@
+# ciclo.toml — ciclo leve P2025-06-14b · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2025-06-14b"
+titulo = "A Consciência Humana e a Chave da Decifração Universal"
+data_fonte = "14/06/2025"
+pasta_fonte = "ciclos/P2025-06-14b"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2025-06-14b.txt"
+sha256_fonte = "93e0a5931ad4e91985e59fec1ef27129d62f70e5195057337d5973f55376bd6a"
+
+baseline_commit = "e4092bb"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO CONSERVADOR — a palestra JÁ FOI MINERADA num passe pesado anterior (commit 28cb889): os conceitos-núcleo vivem na KB como RC-753 (Estrangulamento Cognitivo), RC-754 (Chave da Decifração Universal) e RC-755 (Escola da Decifração), todos citados como 'P2025-06-14'. Este ciclo (sufixo -b, colisão de data com a palestra 'Queda do Criador') NÃO refaz o que já está em ficha: recolhe apenas as formulações PRECISAS ainda ausentes (mecânica Orch-OR / causação descendente-ascendente; transtorno cognitivo; Kapila/Sankhya; distinção Brama-depois/Prabrajna-antes). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 4    # RC-753, RC-760, RC-695, RC-691 passam a carregar P2025-06-14b
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A consciência humana guarda a chave da decifração universal (RC-754), herança da mente de Ishvara/Prabrajna (RC-691) e acessível só quando o eu supera o estrangulamento cognitivo (RC-753) — o funil que reduz 400 bilhões de bits a 2.000 decodificados e 10 conscientes por segundo.",
+  "O estrangulamento tem duas faces: o filtro perceptual (Orch-OR, causação descendente vs. ascendente — quarentena científica) e a patologia epistêmica do transtorno cognitivo, que fabrica verdades sem prova ('cria o conceito de que Deus existe').",
+  "O resgate do método druídico (RC-755) passa pelo Nirodha de Patanjali e pelo Sankhya de Kapila (RC-760) — recolher vrittis, dominar cittas e tattvas — para que cada ser humano construa a própria ciência pessoal (RC-695) e recicle o conectoma (RC-557) rumo à decifração adulta da realidade.",
+]
+
+[definicoes]
+
+[observacoes]
+RC-753 = ["**Colisão de sigla (registrada):** o conteúdo-núcleo desta palestra já vive na KB citado como `P2025-06-14` (passe pesado, commit 28cb889). Este ciclo usa o sufixo `-b` porque `P2025-06-14` foi reutilizado nesta sessão para a palestra 'Queda do Criador' (refatorada). A reatribuição definitiva das fontes é decisão do curador — não é feita por inferência do aplicador.", "**Quarentena científica:** causação descendente/ascendente e Orch-OR (Penrose/Hameroff) são citação de teoria externa, não endossadas pela Base; o transtorno cognitivo é leitura clínico-epistemológica do autor."]
+RC-691 = ["**Grafia STT:** 'Brasna'/'para Brasna' = Prabrajna; a distinção Brama-depois / Prabrajna-antes da queda é fixada na Q&A desta palestra."]
+
+[travas]
+
+[lacunas]
+RC-753 = "abre a questão de o 'transtorno cognitivo' (cria verdade sem prova) merecer termo próprio, distinto do estrangulamento (filtro perceptual); por ora, absorvido aqui como contraface."
+# Princípio Antrópico / Ajustes Finos: CANDIDATO A TERMO NOVO — conceito ausente na KB,
+# usado por Ellam como moldura cosmológica (constantes 'ajustadas' que permitem a vida;
+# a 'tartaruga de 100 kg'). Não materializado: decisão do curador (ver pacote BLOCO 2).

@@ -1,0 +1,77 @@
+{
+ "sigla": "P2025-06-14b",
+ "politica_de_cobertura": "GARIMPO CONSERVADOR — a palestra JÁ FOI MINERADA num passe pesado anterior (commit 28cb889): os conceitos-núcleo vivem na KB como RC-753 (Estrangulamento Cognitivo), RC-754 (Chave da Decifração Universal) e RC-755 (Escola da Decifração), todos citados como 'P2025-06-14'. Este ciclo (sufixo -b, colisão de data com a palestra 'Queda do Criador') NÃO refaz o que já está em ficha: recolhe apenas as formulações PRECISAS ainda ausentes (mecânica Orch-OR / causação descendente-ascendente; transtorno cognitivo; Kapila/Sankhya; distinção Brama-depois/Prabrajna-antes). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2025-06-14b/original.txt",
+ "sha256": "93e0a5931ad4e91985e59fec1ef27129d62f70e5195057337d5973f55376bd6a",
+ "bytes": 182412,
+ "unidades_com_fala": 106,
+ "spans": [
+  {
+   "codigo": "RC-753",
+   "u": "U0008",
+   "chars": [
+    35824,
+    35911
+   ],
+   "largura": 87,
+   "verificada": true,
+   "texto": "Os físicos de vanguarda dizem a causação descendente, ou seja, a consciência tá existe."
+  },
+  {
+   "codigo": "RC-753",
+   "u": "U0017",
+   "chars": [
+    62152,
+    62332
+   ],
+   "largura": 180,
+   "verificada": true,
+   "texto": "Esse problema de redução objetiva orquestrada tem a ver com as teses que eu já falei no início da causação ascendente e da causação descendente, que são as duas teses que discutam."
+  },
+  {
+   "codigo": "RC-753",
+   "u": "U0004",
+   "chars": [
+    4666,
+    4755
+   ],
+   "largura": 89,
+   "verificada": true,
+   "texto": "Mas o transtorno cognitivo humano faz com que você crie o um conceito de que Deus existe."
+  },
+  {
+   "codigo": "RC-760",
+   "u": "U0113",
+   "chars": [
+    159544,
+    159642
+   ],
+   "largura": 98,
+   "verificada": true,
+   "texto": "Capila, quando escreveu Sankia, descreveu toda a formação universal como sendo um jogo de tátivas."
+  },
+  {
+   "codigo": "RC-695",
+   "u": "U0029",
+   "chars": [
+    111911,
+    112037
+   ],
+   "largura": 126,
+   "verificada": true,
+   "texto": "O que implica dizer que cada ser humano sob essa perspectiva tem que criar sua ciência pessoal, já que cada um de nós é único."
+  },
+  {
+   "codigo": "RC-691",
+   "u": "U0094",
+   "chars": [
+    156345,
+    156398
+   ],
+   "largura": 53,
+   "verificada": true,
+   "texto": "Brama é depois da queda para Brasna é antes da queda."
+  }
+ ],
+ "recusa": []
+}

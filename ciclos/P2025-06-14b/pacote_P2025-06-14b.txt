@@ -1,0 +1,58 @@
+# Pacote de ampliação — P2025-06-14b
+# NOTA DE COBERTURA (garimpo conservador): esta palestra ("A Consciência Humana e a
+#   Chave da Decifração Universal") JÁ FOI MINERADA num passe pesado anterior — os
+#   conceitos-núcleo vivem na KB como RC-753 (Estrangulamento Cognitivo), RC-754 (Chave
+#   da Decifração Universal) e RC-755 (Escola da Decifração), todos citados como
+#   "P2025-06-14". Este ciclo (sufixo -b) NÃO refaz o que já está em ficha: recolhe
+#   apenas as formulações PRECISAS ainda ausentes — a mecânica Orch-OR (causação
+#   descendente/ascendente), o "transtorno cognitivo" (cria verdade sem prova), o
+#   Kapila/Sankhya do Nirodha, e a distinção Brama-depois / Prabrajna-antes da queda.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2025-06-14b busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-753
+
+- **[A causação descendente da física de vanguarda] (U0008)** «Os físicos de vanguarda dizem a causação descendente, ou seja, a consciência tá existe.» — na leitura de Ellam, a física de vanguarda adota a causação descendente — a consciência preexiste e informa a matéria — contra a tese materialista da causação ascendente.
+- **[Orch-OR como o elo entre as duas causações] (U0017)** «Esse problema de redução objetiva orquestrada tem a ver com as teses que eu já falei no início da causação ascendente e da causação descendente, que são as duas teses que discutam.» — a redução objetiva orquestrada (Orch-OR, Penrose/Hameroff) é o ponto onde as duas teses concorrentes — causação ascendente (matéria gera consciência) e descendente (consciência informa) — disputam.
+- **[O transtorno cognitivo: criar verdade sem prova] (U0004)** «Mas o transtorno cognitivo humano faz com que você crie o um conceito de que Deus existe.» — distinto do estrangulamento (filtro perceptual), o transtorno cognitivo é a patologia que fabrica verdades sem prova — a contraface epistemológica do funil de bits.
+
+### RC-760
+
+- **[Kapila e o Sankhya: o jogo de tattvas] (U0113)** «Capila, quando escreveu Sankia, descreveu toda a formação universal como sendo um jogo de tátivas.» — Kapila/Samkhya descreve a formação universal como jogo de tattvas (algoritmos dos cittas) — a leitura de Ellam que ancora o Nirodha ao método druídico.
+
+### RC-695
+
+- **[A ciência pessoal de cada ser único] (U0029)** «O que implica dizer que cada ser humano sob essa perspectiva tem que criar sua ciência pessoal, já que cada um de nós é único.» — o Mentalma é a primeira versão da ciência pessoal do autor; cada ser humano, sendo único, precisa criar a sua própria.
+
+### RC-691
+
+- **[Brama depois, Prabrajna antes da queda] (U0094)** «Brama é depois da queda para Brasna é antes da queda.» — na Q&A, Ellam fixa a distinção nominal: Brama é o mesmo espírito de Prabrajna, mas apenas DEPOIS da queda; antes dela, é Prabrajna (Prajapati) — o retrato de Ishvara corresponde à condição anterior.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Princípio Antrópico / Ajustes Finos — CANDIDATO A TERMO NOVO (não materializado:
+#   decisão do curador). O garimpo não cria termo por conta própria; a lacuna está
+#   declarada em ciclo.toml [lacunas]. Span de referência (não entra em ficha):
+#   «A questão do ajuste fino do universo está intimamente relacionado com o chamado
+#   princípio antrópico.» (U0006) + «Se você acredita que essas constantes que já
+#   existem prontas no universo, que permitem a vida, foram produzidas pelo acaso, isso
+#   é a mesma coisa que você acreditar que uma tartaruga de 100 kg subiu na árvore,
+#   só que não sobe.» (U0006)
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Nada novo a harmonizar: Kapila/Sankhya (RC-760) já tem anterioridade em P2023-11-19;
+#   causação descendente (RC-753) já tem Orch-OR registrado em P2025-06-14.
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# "Universidade da imaginação" (U0118) — promessa futura de Ellam; não entra em ficha.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+# (nenhum span retido neste ciclo)

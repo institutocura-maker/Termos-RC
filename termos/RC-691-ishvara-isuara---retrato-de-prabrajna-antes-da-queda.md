@@ -38,9 +38,15 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 
 - **[Ishvara — o ser com o Satchidanandaghana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satchidanandaghana; "o mistério de Isvara" é o tema do livro em produção.
 
+## Ampliação — P2025-06-14b (A Consciência Humana e a Chave da Decifração Universal)
+
+- **[Brama depois, Prabrajna antes da queda] (U0094)** «Brama é depois da queda para Brasna é antes da queda.» — na Q&A, Ellam fixa a distinção nominal: Brama é o mesmo espírito de Prabrajna, mas apenas DEPOIS da queda; antes dela, é Prabrajna (Prajapati) — o retrato de Ishvara corresponde à condição anterior.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-03-15 | U0282–U0298; U0398–U0419; U0494–U0504; U0577–U0627; U1089–U1093 | palestra/STT — fonte incompleta |
 
