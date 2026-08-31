@@ -82,10 +82,16 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[Valel nasceu como Enoque] (U0100)** «de fixação, e logo depois nasceu como Enoque.» — o espírito que animava Valel (família Val) nasceu como Enoque, da linhagem de Adão, e foi transformado em emissário junto à Terra.
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Javé quis tirar Enoque] (U0014)** «Aí a história Nem que vocês já sabem, o Javé queria fazer com Enoque não conseguiu fazer com Adão, com S.» — Javé quis fazer com Enoque (RC-489) — DNA 'limpo' da influência de Lemion — o que não conseguira com Adão e Sete; Enoque foi retirado e ditou 300+ livros a Matusalém.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

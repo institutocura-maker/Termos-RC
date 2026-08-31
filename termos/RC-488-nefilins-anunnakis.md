@@ -35,10 +35,16 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 - **[P2023-10-14 · A ETIMOLOGIA FALADA: ANUNA = ACARIANO, NOME SUMÉRIO = NEFELIM]** "Só para esclarecer, o nome Anuna é uma expressão acadiana que foi encontrada nas tábulas sumérias." (U0033); "Mas o nome dos anunaques na linguagem suméria é nefelim." (U0033)
 - **[P2023-10-14 · A TRADUÇÃO QUE CANCELA A PERCEPÇÃO]** "Gigante é uma coisa, o extraterrestre é outra." (U0033); "Então assim, as traduções foram nos emborrecendo, foram nos cegando." (U0033) — ⭐ É também o argumento metodológico desta Base: se a tradução perde, a grafia do STT é dado filológico — ver camada-1 §7.
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[as raças que restaram após o cataclismo] (U0014)** «Atuantes por algum tempo, restaram ainda os Nefel, os sirianos, os Dropa e os gigantes bravos.» — após os cataclismos (~9.000 anos), restaram os Nefilins (STT 'Nefel', = Anunnakis RC-024), os sirianos, os Dropa e os gigantes brancos (RC-488).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (dinastias — anaquins/enacins); bloco 5 (dilúvio) | palestra/STT pré-curada |
 | B061 / P2026-08-04 | — | anteriores |

@@ -42,10 +42,16 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 
 - **[P2023-12-03 · HIPERBÓREA NA FALA DE 03/12/2023]** «A turma do Hiperbório foi então construindo essas cidades.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[os hiperbóreos e o código ariano] (U0014)** «Porque eles esses bolos tinha uma certa cota do código que viria criar os arianos depois.» — os hiperbóreos (RC-068) tinham a cota do código que viria criar os arianos: conheciam a história da rebelião (900 milhões de anos), eram pacíficos e transmitiram essa linhagem via Gomer.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

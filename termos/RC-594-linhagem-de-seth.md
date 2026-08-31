@@ -22,9 +22,15 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 
 - **[P2022-12-17 — FONTE ORIGINAL] A linhagem de Seth (U0730–U0750):** "a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado [REVISAR — STT]; aí Caim, que foi o segundo filho de Adão e Eva, matou Abel"; "depois surge Seth, um terceiro filho, que... não quis seguir o mesmo amor por Javé que Adão tinha"; "Adão viveu 930 anos... Seth 105 [912? — REVISAR]"; "essas figuras não estavam nascendo [em lugares diferentes], era no mesmo lugar... entre o Mar Negro e o Mar Cáspio, porque era dali que Javé iria transformar aquilo tudo num super império"; "somente quando chegou os tempos de Cainã é que finalmente a descendência de Adão, Seth, Enos... começaram a homenagear Javé através de sacrifícios, cultos".
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Sete e a origem do nome Satã] (U0014)** «O nome 7, Satã, derivou desse dessa coisa aqui, desse episódio, desse momento.» — o nome 'Satã' derivou do episódio em que Lemion buscou transformar Sete (Seth, RC-594) em seu representante humano — 'alguém que venerava Set'.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0704; U0716–U0726 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave

@@ -24,9 +24,15 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 - **[B011 p. 81]** na ceia: "Um de vós me há de trair." — o anúncio, na voz de Tiago, sem interpolar o desfecho.
 - Não ontologizar Yel Am/Yel Liam (RC-138 sem ficha).
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Ielan veio a ser Judas Iscariotes] (U0003)** «Mas assim, Lemi ele ele tinha uma versão profunda por Ielan, que veio a ser Judas Iscariotes.» — Judas Iscariotes era a encarnação de Ielan (família Iel), a quem Lemion detestava; o único apóstolo da elite judaica (Judeia), o que explica o papel dele no processo do Sinédrio (RC-365).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |
 | Painéis Emergentes (B031) | Glossário (Yel Liam) | — | apoio (secundária) |
 

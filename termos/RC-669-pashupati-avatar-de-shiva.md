@@ -24,7 +24,13 @@ Forma validada pelo curador.
 - **[Pashupati — o criador das espécies biológicas] (U0003)** «E de lá, um desses seres chamado Pachupat, Pachupat foi quem criou a partir dele todas as ideias de possíveis espécies biológicas a serem semeadas através de ailing no nosso universo a partir da experiência que Pacho Pat já conhecia desses nomes aí.» — Pashupati como o avatar de Shiva que desenhou as espécies a semear pelo forno de Awaylengan.
 - **[Pashupati — pai de todos os animais] (U0003)** «Só pra gente entender, todos os animais que a gente conhece na terra são filhos, não é de Chiva, é de um avatar de Chiva chamado Pacho Pato.» — os animais terrestres descendem de Pashupati; Shiva seria o "avô".
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Pashupati reinava na Índia] (U0014)** «Ele sabia que lá na tradição pro Maricandã na Índia, um outro ser Esse se apresentava chamado Pachipat, que era a expressão de Chico, tava reinando absoluto com os próumanos da época, com os seres humanos da época.» — Pashupati (STT 'Pachipat', RC-669), a expressão de Shiva, reinava absoluto com os 'pró-humanos' da Índia na época de Adão (tradição Maricandã).
+
+
 ## Fontes
+P2018-12-16.
 P2022-05-07.
 P2026-02-28.
 

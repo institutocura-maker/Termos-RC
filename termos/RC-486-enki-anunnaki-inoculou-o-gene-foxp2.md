@@ -69,10 +69,16 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[o gene FOXP2 e a racionalidade] (U0135)** «Essa componente responde pela presença do Fox 2, ou seja, da genética que permite a racionalidade, a simbologia mental.» — o FOXP2 (STT `Fox 2`) responde pela racionalidade e pela simbologia mental — a componente genética herdada da turma da base.
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[FOXP2 colocado no DNA humano] (U0017)** «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — o FOXP2 (RC-486) já existia ~9.000 anos atrás, colocado no DNA humano pelos Anunnaki quando precisavam de 'macacóides inteligentes' para trabalhar o ouro — a ciência data o gene em ~50.000 anos.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

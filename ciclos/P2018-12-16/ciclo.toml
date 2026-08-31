@@ -1,0 +1,53 @@
+# ciclo.toml — ciclo leve P2018-12-16 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2018-12-16"
+titulo = "Terra Atlantis - Era Sapiens"
+data_fonte = "16/12/2018"
+pasta_fonte = "ciclos/P2018-12-16"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2018-12-16.txt"
+sha256_fonte = "6d933bbfd682e87c688d279d1470084f5ee76e7bff171d2be872aa257e257e0d"
+
+baseline_commit = "b892843"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = ["RC-846 Maria Orsic (médium da Sociedade Vril)", "RC-847 Sociedade Vril", "RC-848 Sociedade Thule", "RC-849 Nicola Tesla (recebia mensagens em sânscrito)"]
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 4       # termos novos: RC-846/847/848/849 (Maria Orsic, Vril, Thule, Tesla)
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 17    # os 17 códigos do pacote carregam P2018-12-16
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

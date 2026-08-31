@@ -97,3 +97,8 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **[P2023-12-03 · LÚCIFER (YEL LUZBEL) NA FALA DE 03/12/2023]** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[a implosão de Lúcifer diante de Jesus] (U0046)** «Não houve a situação de Lúcifer da a implosão de Lúcifer diante do Jesus.» — Lúcifer (RC-078) implodiu diante do Jesus crucificado — 'falta de cuidado' que piorou a revolta de Len Mion (RC-074); Lúcifer recusa-se a ser estudado.
+

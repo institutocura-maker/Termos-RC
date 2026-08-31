@@ -80,10 +80,17 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[Lemion = Len Mion (Satã)] (U0084)** «E Lemon fixou os olhos em um dos milhões que estavam vivendo aqui.» — 'Lemion/Lemon/Lemior' é grafia STT de Len Mion (Satã, RC-074): Lúcifer cedeu-lhe o comando da rebelião e ele adestrou um dos Mion — o mesmo Len Mion do livro Era Sapiens (RC-238). Redirecionado para RC-074 na devolutiva (não é termo novo).
 
 
+## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
+
+- **[Lemion assume o comando do QG da rebelião] (U0003)** «E eh em 2004, Valon disse que iria aprofundar o que ele não fez, porque talvez já não tenha colaborado, num assunto que ao nos anos 90, eh, os espíritos que haviam escrito comigo o livro Reintegração Cósmica haviam tocado, que foi a distinção muito forte entre ebel e Lemi que foi o fato deles dizerem que Lenior após a saída de Osbel do contexto terreno, logo após a crucificação de Jesus, fazendo com que Lemi a partir dali assumisse o comando do que restava do quartel general da rebelião.» — Len Mion (Satã, RC-074) assumiu o comando do que restava do quartel-general da rebelião após a saída de Lúcifer (RC-078) do contexto terreno, logo após a crucificação de Jesus.
+- **[Lemion, 'muito pior que Javé'] (U0003)** «Nemon a partir daí se tornou alguém muito pior do que a Javé.» — o palestrante avalia Len Mion (STT 'Nemon') como 'alguém muito pior do que Javé' — não por criar, mas por controlar processos; a mente mais bem aplicada durante ~22.000 anos.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
