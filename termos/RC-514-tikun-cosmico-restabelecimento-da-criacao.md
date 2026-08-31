@@ -73,10 +73,15 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **[P2022-03-26 · TIKUN CÓSMICO NA FALA DE 26/03/2022]** "A Cabala diz que o ticum precisa ser expresso. O que é o ticum Cabala? É a reforma da obra e a reforma do criador caído na obra. É o conserto da obra e o conserto do criador que caiu na própria obra." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-09-04`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Tikun Cósmico — a criatura que resolverá Javé] (U0003)** «Não é para resolver o problema de Javé, é para criar um tipo de criatura que possa aí sim essa criatura resolver o problema de Jaavé através do Ticum.» — o Tikun não é feito por Virgem/Chiva, mas pela criatura humana que resolverá o problema de Javé.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | B061, B071, B019, B074, B075 | obras | livros |

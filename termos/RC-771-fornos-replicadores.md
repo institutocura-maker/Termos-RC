@@ -76,3 +76,8 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **A Mensagem Talm já codificada** no forno de Vishnu "há muito tempo", mesmo antes de funcionar.
 - **Selo da linha do tempo (D-10):** grafias embrionárias registradas como ditas — nenhuma renomeação, nenhuma harmonização.
 - **Materialização derivada (Devolutiva O-3):** Awayen → RC-836 e Awaylengan → RC-837 (simetria com RC-499).
+
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Fornos Replicadores — os três fornos criadores] (U0003)** «Foi quando A e Aá maon, a Lingan, esses três formos criadores foram gerados e durante muitos milhões de anos, a mente de cada um desses três seres, Brama, Virgem e Cho, funcionava a ligado, vinculado a esses fornos de replicação.» — a tríade Awayen (Brahma), Awaymaion (Vishnu) e Awaylengan (Shiva), a mente de cada Trimurtiano vinculada ao seu forno.
+

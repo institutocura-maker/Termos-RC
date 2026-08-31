@@ -263,3 +263,9 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - "Lila seria constituição, a geopolítica da Trimorte" (STT) — a Lila como a *constituição* da Trimurti: "quando dos três um quiser fazer algo que os outros dois não concordem. Isso tem que ser negociado";
 - A Trimurti como os três primordiais **Brahma/Shiva/Vishnu** com suas descendências (anjos-clones de Brahma; demos de Shiva e Vishnu);
 - O sumiço de **Moros** (o ponto fraco das três descendências) → a "era do impasse" (ver RC-454).
+
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Trimurti — antes da carreira solo] (U0003)** «E num certo sentido a Trimurte na época não se desfez, mas até então não existia carreira solo, nem de Brama, nem de Virgem, nem de Chiva.» — a Trimurti antes do Projeto Talm; comparação com os Beatles (George Harrison = Shiva sem espaço).
+- **[Trimurti — as férias do Projeto Talm] (U0003)** «Ela só se desfez há pouco tempo, mas na época do projeto Tal eles deram umas férias porque cada um deles começou a ter carreira solo através desses fornos replicadores.» — a Trimurti só se desfez recentemente; no Projeto Talm, cada um criou via seu forno.
+

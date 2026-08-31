@@ -1,0 +1,73 @@
+# ciclo.toml — ciclo leve P2022-05-07 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-05-07"
+titulo = "Shiva, o Projeto Talm e os Mistérios de Awaylengam"
+data_fonte = "07/05/2022"
+pasta_fonte = "ciclos/P2022-05-07"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-05-07.txt"
+sha256_fonte = "731f90d2c9e3e205d5d26621a5b4e4b87d27544a9a5cb87e73e616287f8f1191"
+
+baseline_commit = "3f61f7d"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 30
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo: nenhuma (pérolas aguardam carimbo)
+ficha_true = 0   # viradas no cadastro: nenhuma
+termos = 0       # termos novos: nenhum código criado sem pérola aprovada
+relacoes = 0     # arestas novas: nenhuma
+vinculos = 25    # códigos que passam a carregar P2022-05-07 na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A palestra lê o ser humano (e todo o biológico) como obra de Shiva, não de Brahma: a energia criadora (rajásica) é de Brahma, mas quem deu polaridade, gênero, estilo e jeito de ser a tudo — os 'painéis' que compõem o humano — foi Shiva.",
+  "Os três fornos replicadores (Awayen, Awaymaion, Awaylengan) foram o instrumento pelo qual a Trimurti 'fez carreira solo' durante o Projeto Talm; Awaylengan (Shiva) foi o primeiro a funcionar e o mais ativo, e é o 'mistério' do título.",
+  "A criatividade de Shiva se desdobra em avatares (1000+ nomes, ~950 protótipos de espécie): os evolutivos (Pashupati, que desenhou as espécies biológicas), os especiais (Narasimha, Sharabha, Nandi, Virabhadra) e os executivos (Rama, Krishna, Shankara, Saibaba).",
+  "A biologia é lida pela lente dos campos mórficos e dos fornos: o DNA semeado há 3,8 bi de anos, a explosão cambriana, os 34 filos, e a transição radiata → bilatério; Javé tem três faces (insetóide, cefalópode/náutilo, humana), e a humana faliu antes de se humanizar.",
+  "O drama final: o vírus de Lúcifer (emocional no ramo de Awaylengan × mental-matemático em Lúcifer) contaminou os anunnakis; sem 'plano B', o Tikun Cósmico depende de uma criatura humana que resolverá o problema de Javé.",
+]
+
+[definicoes]
+
+[observacoes]
+RC-102 = ["**Grafia STT dominante:** Chiva/Chiv/Xivir = Shiva. As variantes entram como vieram dentro de aspa; a prosa usa o canônico Shiva.", "O elogio 'majestosa inutilidade' de toda a criação de Shiva é do autor no fechamento — leitura, não doutrina."]
+RC-771 = ["**A tríade de fornos:** Awayen (Brahma), Awaymaion (Vishnu), Awaylengan (Shiva). As grafias desta fonte ('A e Aá maon, a Lingan') são STT do canônico; ver RC-836/RC-837 (fichas sem linha no cadastro — BLOCO 2)."]
+RC-669 = ["**Pashupati como desenhista:** todos os animais terrestres descendem de Pashupati (Shiva seria o 'avô'). Grafia STT: Pachupat/Pacho Pato/Pupato."]
+RC-035 = ["**Bilateralidade corporal × cerebral:** a fonte distingue o corpo bilatério (produto de Awaylengan) do cérebro bilatério (que veio via humano, não via polvo)."]
+RC-001 = ["**As três faces de Javé:** insetóide (abelhas/formigas), cefalópode (náutilo) e humana (que faliu). A face 'desfigurada' é a humana — leitura do autor, registrada com endereço.", "**Vírus/bactérias do corpo = parte de Javé:** a fonte lê a microbiota como 'a parte de Javé que nunca morreu'. Leitura do autor (obra 'Além da Ordenação do Caos')."]
+RC-002 = ["**Data da rebelião:** ~700.000 anos, precedida por problema virótico no forno de Awaylengan ~1,6 bi de anos atrás. Datas ditas como ditas, sem harmonização."]
+RC-459 = ["**Sati → Parvati:** a fonte narra a imolação de Sati e o retorno como Parvati (STT 'Paraki'). A grafia canônica Parvathi (RC-459) cobre a figura; Sati é candidata a termo novo (radar)."]
+RC-413 = ["**Hara/Rudra:** o STT grafa 'rara'. O ser de obscuridade que dissolve o universo desconstitui-se junto com o forno de Awaylengan."]
+
+[travas]
+RC-186 = "Moldura Rígida (gênero/sexualidade): a sexualização como ruptura criativa de Shiva é leitura do autor"
+RC-001 = "leitura do autor (faces de Javé e a microbiota como 'parte de Javé') — dito, não fundamentado"
+RC-514 = "leitura do autor (o Tikun depende da criatura humana) — dito, não doutrina"
+
+[lacunas]
+RC-102 = "a fonte oral dedicada à criatividade de Shiva (avatares + fornos) não constava do verbete"
+RC-669 = "Pashupati como o desenhista das espécies biológicas não tinha fonte oral registrada"
+RC-771 = "a tríade de fornos com a 'carreira solo' da Trimurti não constava do verbete"
+RC-001 = "as três faces de Javé (insetóide/cefalópode/humana) e o náutilo não eram fonte do verbete"
+RC-035 = "a precedência do corpo bilatério sobre o cérebro bilatério não estava registrada"

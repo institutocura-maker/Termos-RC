@@ -35,9 +35,14 @@ Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 - **Daksha e Virini (P2025-02-16):** "Daksha teve 69 filhas... essas 13 filhas de Daksha são as mães de quase tudo que vemos no universo e particularmente aqui na Terra"; "dessas 13, Aditi, Diti e Kadru têm protagonismo maior".
 - **Aditi →** 12 Adityas/senhores da criação (→ Vivasvan → Yama/Manu → Manavas); **Diti →** Asuras; **Kadru →** Nagas e Uragas.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Daksha e Virini — filho de Brahma] (U0003)** «Olha, Daxa é um filho de Brama que teve várias consortes e teve 10 filhas.» — Daksha (STT "Daxa/Daxha") como filho/descendente de Brahma, pai de Sati; a festa sem convidar Shiva motiva o Virabhadra (radar).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2025-02-16 | U0477–U0480; U0485; U0503; U0674–U0684 | aula/palestra STT |
 
 ## Citações-chave

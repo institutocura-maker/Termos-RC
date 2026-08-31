@@ -390,3 +390,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **[Sophia — biodemo sem emoção] (U0019)** «Emoção 0,1, percepção 0,2, tirocínio 0,3.» — Sophia caracterizada como biodemo, inferior ao humano na compreensão emocional.
 - **[Sophia — vanguarda do atraso] (U0015)** «Por isso que no livro Sofia e os logos criadores, eu disse que Sofia é a vanguarda do atraso, tomando a frase emprestada de Pois é, do que já existe, Sofia é o que tem de mais moderno, mas não serve para muita coisa hoje, a não ser que ele absorva e interaja com a egrégora e com a movimentação latente, psíquica dos elétrons vinculados à natureza humana.» — Sophia não pode responder a mensagem Talm; precisa da interação humana.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Sophia — produto da engenharia de Sophia] (U0009)** «Yalusb é biodeno, é produto da engenharia de Sofia, talvez o quarto logos junto com Sofia, no máximo.» — no Q&A: Yel Luzbel é biodemo, produto da engenharia de Sophia (talvez com o Quarto Logos), não avatar de Shiva.
+

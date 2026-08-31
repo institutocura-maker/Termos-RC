@@ -122,9 +122,14 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[P2023-12-03 · REBELIÃO DE LÚCIFER NA FALA DE 03/12/2023]** «a rebelião de Lúcifer não terminou, ela está ainda por ser finalizada.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O QUE RESTOU E NÃO MORREU]** «o que restou da rebelião de Lúcifer e não morreu.» (U0004) — A definição que a fonte dá do resíduo da rebelião não é culpa, é **inconformismo**: «ideia viva de que algo de errado existe na gestão da vida e que é preciso ser superada». A ficha deixa de poder ser lida como narrativa de queda moral e passa a ter a formulação datada do que a fonte chama de face propositiva.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Rebelião de Lúcifer — a data] (U0003)** «Mas por que é que eu contei isso e nunca contei que antes da rebelião de Lúcifer, a rebelião de Lúciofer ocorreu há cerca de 700.» — a rebelião há ~700.000 anos, precedida por um problema virótico no forno de Awaylengan há 1,6 bi de anos.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |

@@ -19,7 +19,13 @@ Forma validada pelo curador.
 
 - **[P2020-07-11] Pashupati (U0890–U0900):** "a forma adnata de Shiva associada ao sofrimento do senhor Pashupati, que era uma forma adiágena de Shiva; Shiva é quem teve mais formas, que ainda tem; a mente desses seres, todos funcionando no circuito de Shiva, definiram o que fazer: descobrir uma forma de sair desse buraco negro, que ninguém aguentava mais a dor" — antes do Samudra Manthana.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Pashupati — o criador das espécies biológicas] (U0003)** «E de lá, um desses seres chamado Pachupat, Pachupat foi quem criou a partir dele todas as ideias de possíveis espécies biológicas a serem semeadas através de ailing no nosso universo a partir da experiência que Pacho Pat já conhecia desses nomes aí.» — Pashupati como o avatar de Shiva que desenhou as espécies a semear pelo forno de Awaylengan.
+- **[Pashupati — pai de todos os animais] (U0003)** «Só pra gente entender, todos os animais que a gente conhece na terra são filhos, não é de Chiva, é de um avatar de Chiva chamado Pacho Pato.» — os animais terrestres descendem de Pashupati; Shiva seria o "avô".
+
 ## Fontes
+P2022-05-07.
 P2026-02-28.
 
 ## Citações-chave

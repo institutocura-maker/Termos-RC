@@ -21,9 +21,14 @@ A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-
 
 - **[P2022-03-26 · NARASIMHA NA FALA DE 26/03/2022]** "limite da finalização da energia tamásica." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **25 meses** a atual fonte oral mais antiga da ficha (`P2024-05-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Narasimha — avatar de Vishnu, cabeça de leão] (U0003)** «Estranho, mas é parte de baixo humana, cabeça de leão.» — Narasimha (STT "Nara/Naraimsa") como avatar de Vishnu; contraposto ao Sharabha de Shiva (ver radar).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U1144–U1164 | PDF/transcrição pré-curada |
 

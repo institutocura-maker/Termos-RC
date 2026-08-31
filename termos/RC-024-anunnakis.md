@@ -112,3 +112,8 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2023-12-03 · ANUNNAKIS NA FALA DE 03/12/2023]** «quando os Anunques chegaram aqui a 450.000 anos, A família Val já estava, as naves da família V já tinham pousado aqui as três.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-03-27`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Anunnakis — a ponta final do ramo de Awaylengan] (U0003)** «Os anunac são a ponta final desse dessa história que eu tô falando aqui, desse vírus, tá?» — os anunnakis como o resultado do encontro do ramo de Awaylengan com o vírus de Lúcifer; ver RC-002.
+

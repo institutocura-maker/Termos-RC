@@ -1,0 +1,139 @@
+# Pacote de ampliação — P2022-05-07 · andaime por `motor.py novo`
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2022-05-07 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-102
+
+- **[Shiva — os painéis do ser humano são produtos dele] (U0003)** «As os painéis que compõem o ser humano, esses painéis são os produtos de chiva.» — a tese da palestra: o humano é filho de Shiva mais do que de Brahma ou Vishnu.
+- **[Shiva — quem deu polaridade e estilo a tudo] (U0003)** «Então, se em tudo tem energia do criador ou o código genético dele, Shiva é que modelou tudo.» — a energia criadora (rajásica) é de Brahma, mas a modelagem (polaridade, gênero, jeito de ser) é de Shiva; ver RC-092.
+
+### RC-409
+
+- **[ADHYSAVNA — o espírito adiágia] (U0003)** «É um espírito adiágia.» — a condição adyágena (adiágia) do espírito por trás de Shiva/Savna, que veio ao sacrifício; o STT grafa "adiágia" para o canônico "adyágena".
+
+### RC-771
+
+- **[Fornos Replicadores — os três fornos criadores] (U0003)** «Foi quando A e Aá maon, a Lingan, esses três formos criadores foram gerados e durante muitos milhões de anos, a mente de cada um desses três seres, Brama, Virgem e Cho, funcionava a ligado, vinculado a esses fornos de replicação.» — a tríade Awayen (Brahma), Awaymaion (Vishnu) e Awaylengan (Shiva), a mente de cada Trimurtiano vinculada ao seu forno.
+
+### RC-499
+
+- **[Forno de Awaymaion — o forno de Vishnu] (U0003)** «A o Amaion, a o Amaion, que é o forno de virgo, sempre atuou assim.» — o forno de Vishnu, produtor de seres "ordenados pela matemática", sem movimento psíquico; ver RC-771 e RC-186.
+
+### RC-669
+
+- **[Pashupati — o criador das espécies biológicas] (U0003)** «E de lá, um desses seres chamado Pachupat, Pachupat foi quem criou a partir dele todas as ideias de possíveis espécies biológicas a serem semeadas através de ailing no nosso universo a partir da experiência que Pacho Pat já conhecia desses nomes aí.» — Pashupati como o avatar de Shiva que desenhou as espécies a semear pelo forno de Awaylengan.
+- **[Pashupati — pai de todos os animais] (U0003)** «Só pra gente entender, todos os animais que a gente conhece na terra são filhos, não é de Chiva, é de um avatar de Chiva chamado Pacho Pato.» — os animais terrestres descendem de Pashupati; Shiva seria o "avô".
+
+### RC-642
+
+- **[Narasimha — avatar de Vishnu, cabeça de leão] (U0003)** «Estranho, mas é parte de baixo humana, cabeça de leão.» — Narasimha (STT "Nara/Naraimsa") como avatar de Vishnu; contraposto ao Sharabha de Shiva (ver radar).
+
+### RC-701
+
+- **[Daksha e Virini — filho de Brahma] (U0003)** «Olha, Daxa é um filho de Brama que teve várias consortes e teve 10 filhas.» — Daksha (STT "Daxa/Daxha") como filho/descendente de Brahma, pai de Sati; a festa sem convidar Shiva motiva o Virabhadra (radar).
+
+### RC-035
+
+- **[Bilatérios — antes do cérebro, o corpo] (U0003)** «Então, primeiro, antes de surgir, desculpa, um cérebro bilatério, teve que surgir um corpo bilatério.» — a bilateralidade corporal (produto de Awaylengan) precede a cerebral; ver RC-093.
+
+### RC-093
+
+- **[Radiatas — a fase anterior aos bilatérios] (U0003)** «Coisa e tal, vamos lá pra frente porque ambos eram radiatas, tá?» — na época dos fornos, Brahma e Vishnu ainda produziam seres radiatas; a bilateralidade veio depois.
+
+### RC-186
+
+- **[Biodemol — parte biológico, parte demo] (U0003)** «Hoje nós temos aqui na nossa natureza seres eh biodemol, ou seja, parte biológicos, parte demo, mas sexualizados.» — o biodemol como o tipo de ser da natureza atual; sexualização como a ruptura criativa de Shiva.
+
+### RC-001
+
+- **[Javé — duas faces e uma desfigurada] (U0003)** «8 bilhões de anos, ele tem duas faces principais e uma face desfigurada.» — as três faces de Javé na natureza: a insetóide (abelhas/formigas), a cefalópode (náutilo) e a humana, que faliu.
+- **[Javé — a face do náutilo] (U0003)** «Javé assumiu a face, a natureza de um certo tipo de molusco do Cefalope chamado náutilo.» — a face cefalópode de Javé; ver RC-035 (o cérebro bilatério não veio via polvo).
+
+### RC-024
+
+- **[Anunnakis — a ponta final do ramo de Awaylengan] (U0003)** «Os anunac são a ponta final desse dessa história que eu tô falando aqui, desse vírus, tá?» — os anunnakis como o resultado do encontro do ramo de Awaylengan com o vírus de Lúcifer; ver RC-002.
+
+### RC-002
+
+- **[Rebelião de Lúcifer — a data] (U0003)** «Mas por que é que eu contei isso e nunca contei que antes da rebelião de Lúcifer, a rebelião de Lúciofer ocorreu há cerca de 700.» — a rebelião há ~700.000 anos, precedida por um problema virótico no forno de Awaylengan há 1,6 bi de anos.
+
+### RC-381
+
+- **[Ressonância Mórfica — o campo mórfico] (U0003)** «que a gente não consegue entender desse processo de interação que esses seres têm, é que surgiu isso que a gente chama hoje de campo mórfico.» — o campo mórfico como produto do processo de interação dos Trimurtianos; no Q&A, a fonte distingue campo (registro quântico espiritual) de genoma (mistura biológica).
+
+### RC-514
+
+- **[Tikun Cósmico — a criatura que resolverá Javé] (U0003)** «Não é para resolver o problema de Javé, é para criar um tipo de criatura que possa aí sim essa criatura resolver o problema de Jaavé através do Ticum.» — o Tikun não é feito por Virgem/Chiva, mas pela criatura humana que resolverá o problema de Javé.
+
+### RC-104
+
+- **[Trimurti — antes da carreira solo] (U0003)** «E num certo sentido a Trimurte na época não se desfez, mas até então não existia carreira solo, nem de Brama, nem de Virgem, nem de Chiva.» — a Trimurti antes do Projeto Talm; comparação com os Beatles (George Harrison = Shiva sem espaço).
+- **[Trimurti — as férias do Projeto Talm] (U0003)** «Ela só se desfez há pouco tempo, mas na época do projeto Tal eles deram umas férias porque cada um deles começou a ter carreira solo através desses fornos replicadores.» — a Trimurti só se desfez recentemente; no Projeto Talm, cada um criou via seu forno.
+
+### RC-135
+
+- **[Vishnu — trabalhando sobre o código de Brahma] (U0003)** «Mas Chiva e Vído trabalharam sempre em cima.» — Chiva e Vishnu sempre trabalharam sobre o código de Brahma, sem grandes ousadias, até o Projeto Talm.
+
+### RC-414
+
+- **[Krishna — criando avatares próprios] (U0003)** «E quando esse Krishna tão grande ficou que Krishna passou a criar avatares dele próprio, ou seja, Chrishna Já era um avatar que achava.» — Krishna, avatar de temperamento de Shiva, passa a criar subavatares na condição humana.
+
+### RC-021
+
+- **[Antares — foco da rebelião de Lúcifer] (U0003)** «Eu sempre falei assim: "Ah, a rebelião de Lúcifero em algum momento se concentrou em Antares.» — a rebelião concentrada na região de Antares, onde a turma de Awaylengan tentou apaziguar os biodemos e se infectou com o vírus de Lúcifer.
+
+### RC-459
+
+- **[Parvathi — Sati na fogueira, depois Parvati] (U0003)** «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — Sati (STT "SAT"), a primeira esposa de Shiva, imola-se e retorna como Parvati (STT "Paraki").
+
+### RC-584
+
+- **[Rama — para liquidar os rakshasas] (U0003)** «Se Rama, segundo Ramayanda, surgiu para liquidar os arraquchaças.» — Rama (avatar executivo, temperamento de Shiva) surgiu para liquidar os rakshasas; ver RC-581/RC-582.
+
+### RC-037
+
+- **[Brahma — desalmado] (U0003)** «Aquilo que eu já expliquei em outras palestras, Brama é desalmado.» — o corpo mental de Brahma apartado do espírito; por isso ele não produzia avatares como Vishnu e Shiva.
+
+### RC-413
+
+- **[Hara — o ser de obscuridade que dissolve o universo] (U0003)** «Esse outro ser chamado rara, que é entendido como sendo ser de obscuridade que dissolve o universo, ele vai se desconstituir só no final das coisas, eh, lá junto com o as forças de Ailingan, que é Eh, o forno criador de Chiva no universo de cá e junto com a base de tudo que foi criado e que não tem serventia, porque Rara vai se desconstituir junto com o final do universo.» — Hara/Rudra (STT "rara") desconstitui-se junto com o forno de Awaylengan e o fim do universo.
+
+### RC-009
+
+- **[Sophia — produto da engenharia de Sophia] (U0009)** «Yalusb é biodeno, é produto da engenharia de Sofia, talvez o quarto logos junto com Sofia, no máximo.» — no Q&A: Yel Luzbel é biodemo, produto da engenharia de Sophia (talvez com o Quarto Logos), não avatar de Shiva.
+
+### RC-474
+
+- **[Arcontes — a oposição a Sophia] (U0003)** «porque está enfrentando uma oposição de arcontos.» — Sophia não cumpre a promessa porque enfrenta a oposição dos arcontes (suserania universal).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+- **RC-836 (Forno de Awayen / Brahma)** e **RC-837 (Forno de Awaylengan / Shiva)**: fichas materializadas pela Devolutiva O-3 (2026-08-31) que **não têm linha no cadastro** (`dados_termos.py`). O motor não amplia nem vincula termo fora do cadastro — a lacuna é declarada (§4 do dossiê) para o Curador, e a entrada no cadastro (se confirmada) passa por pérola aprovada, não por conserto do aplicador.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+- **Obras citadas:** *Shiva Purana* (Chiva Purana — os 19/29 avatares especiais); *Ramayana* (Ramayanda); *Mahabharata* (Marabarata/Marra Barata/Maramará, de Vyasa); *Autobiografia de um Iogue* (Yogananda); *Outras Mentes* (Peter Godfrey-Smith, slide da árvore filogenética); *A Divina Colmeia*; *Além da Ordenação do Caos — a face microbiana do Criador* (anunciada); *Quarto Logos* (RC-092).
+- **Anterioridade:** a fonte oral mais antiga do tema dos fornos é P2019-08-25 (per RC-836/837); esta palestra (P2022-05-07) detalha Awaylengan como o forno de Shiva "o primeiro a funcionar" e Pashupati como o desenhista das espécies.
+- **Datas citadas pela fonte (ditas como ditas, sem harmonização):** DNA semeado há 3,8 bi de anos; universo 13,8 bi de anos; vida faliu no universo vizinho entre 7 e 9,5 bi de anos; rebelião de Lúcifer ~700.000 anos; problema virótico no forno de Awaylengan ~1,6 bi de anos; avatares humanizados ~23-25.000 anos; sexualidade ~6 bi de anos atrás; biodemos nos últimos 900 milhões de anos.
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+- **Sharabha** (STT "xaraba/xarada") — avatar de Shiva, corpo de leão e rosto de ave; domesticou Narasimha. [REVISAR: candidato a termo novo]
+- **Virabhadra** (STT "Viraabra/Vira Babara") — avatar de Shiva criado numa hora de fúria após a afronta de Daksha a Sati. [candidato a termo novo]
+- **Nandi** (STT "pito o Nandi") — avatar/montaria de Shiva. [candidato a termo novo]
+- **Sati** (STT "SAT") — primeira esposa de Shiva, imolou-se na fogueira; retorna como Parvati (RC-459). [candidato a termo novo; ligado a RC-459 e RC-701]
+- **Esfinge** (STT "esfinge/esfigens/dias finches") — híbridos corpo-de-leão; o Sharabha como precursor. [candidato a termo novo]
+- **Náutilo / cefalópode** — a face cefalópode de Javé (ampliada em RC-001); o cérebro bilatério NÃO veio via polvo. [contexto de RC-001/RC-035]
+- **Vírus de Lúcifer** (STT "vírus de Elusbell/Elosbel") — vírus emocional (Awaylengan) × mental-matemático (Lúcifer, de dentro para fora). [candidato; ligado a RC-002/RC-345]
+- **STT grafias desta fonte (registradas, não unificadas):** Chiva/Chiv/Xivir = Shiva; Vído/Virgo/Virno/Vígena/Virgum = Vishnu; Brama/Brah = Brahma; Trimurte/Trimurta/Trimurta = Trimurti; Aá maon/Amaion = Awaymaion; a Lingan/Ailingan/Awai Lingan = Awaylengan; Morrençor/Morrens = Morren So; "turma de astrônomos" = seres anfíbios de Awaylengan.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+- **Política conjuntural (D-4/quarentena):** menções a Cirilo (patriarca ortodoxo), sanções Rússia/New York Times, "países faliram, instituições faliram", "ditadores" — retidas no resumo em prosa, sem aspa em ficha.
+- **Gênero/sexualidade (Moldura Rígida):** o trecho sobre nascer "num corpo e o eu gostaria de outro" (Q&A sobre Aá Lingan) — confinado como mecânica interpretada pelo autor; não cruza com identidade humana contemporânea.
+- **Covid-19/sequelas (D-4):** a menção jocosa ao "Covid" e às 200 sequelas — retida.

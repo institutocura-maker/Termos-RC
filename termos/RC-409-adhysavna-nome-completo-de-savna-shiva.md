@@ -34,9 +34,14 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti. A cadei
 - **[P2023-06-24 · SAVNA ANTES DO BALÃO]** o registro narrativo mais antigo do corpus de palestras da **pré-existência de Savna** (a condição Adhyatman — RC-013): "reza uma lenda não terrena que Savna... **o nome que o ser chamado CHIVA tinha antes do balão**... quando viu **para BRAJNA** [a grafia da malha na voz — RC-037 ✓] **tentar soltar o track dele, encher o balão**... Savna somente aplicou a sua força tamásica nos termos em que o fez **porque divisou quando seria o ponto de inflexão da derrocada do corpo reconstruído pelo criador**" — o vínculo direto com a cadeia ADHYSAVNA → Shiva (mergulhado) do Diagrama (B051).
 - 0 códigos novos (O-3).
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[ADHYSAVNA — o espírito adiágia] (U0003)** «É um espírito adiágia.» — a condição adyágena (adiágia) do espírito por trás de Shiva/Savna, que veio ao sacrifício; o STT grafa "adiágia" para o canônico "adyágena".
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | Diagrama Geral de Ligações (B051) | diagrama (nó central) | — | ligação visual |
 | A Epopeia dos Agentes da Vida (B024) | caps. 5, 16 | — | apoio (primária) |
 

@@ -38,9 +38,14 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 
 - **[P2022-03-26 · FORNO DE AWAYMAION NA FALA DE 26/03/2022]** "fornos de replicação de vida nesse universo foram criados três Aen, a maon, a Lingan, um nunca funcionou." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Forno de Awaymaion — o forno de Vishnu] (U0003)** «A o Amaion, a o Amaion, que é o forno de virgo, sempre atuou assim.» — o forno de Vishnu, produtor de seres "ordenados pela matemática", sem movimento psíquico; ver RC-771 e RC-186.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-01 — Fornos Replicadores (Edson Cella Mendes) | Parte III (integral) | material do curador |

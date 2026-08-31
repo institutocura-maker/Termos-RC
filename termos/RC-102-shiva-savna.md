@@ -117,10 +117,16 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[P2022-03-26 · SHIVA (SAVNA) NA FALA DE 26/03/2022]** "ligados à Chiva. ou ligados aos seres avatáricos ou à formas adiágenas geradas pela condição adidaiva de Chiva, tipo Pachupate, tipo a expressão na rata de Chiva que criou o movimento yog entre os demons e depois isso foi legado aos humanos, foi herdado pelos humanos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-05-09`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Shiva — os painéis do ser humano são produtos dele] (U0003)** «As os painéis que compõem o ser humano, esses painéis são os produtos de chiva.» — a tese da palestra: o humano é filho de Shiva mais do que de Brahma ou Vishnu.
+- **[Shiva — quem deu polaridade e estilo a tudo] (U0003)** «Então, se em tudo tem energia do criador ou o código genético dele, Shiva é que modelou tudo.» — a energia criadora (rajásica) é de Brahma, mas a modelagem (polaridade, gênero, jeito de ser) é de Shiva; ver RC-092.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

@@ -156,3 +156,8 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 - **[P2023-12-03 · KRISHNA (AVATAR DE VISHNU/SHIVA) NA FALA DE 03/12/2023]** «Krishna tem o problema da demência demo, que faz com que ele se engrandeça além da conta e não perceba os pequenos detalhes da sua vulnerabilidade.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-03-26`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Krishna — criando avatares próprios] (U0003)** «E quando esse Krishna tão grande ficou que Krishna passou a criar avatares dele próprio, ou seja, Chrishna Já era um avatar que achava.» — Krishna, avatar de temperamento de Shiva, passa a criar subavatares na condição humana.
+

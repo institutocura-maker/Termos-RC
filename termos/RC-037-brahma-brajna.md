@@ -105,9 +105,14 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[P2023-10-14 · O ANJO CLONE, A PORRADA E O NASCIMENTO DA DESCENDÊNCIA DEMONÍACA]** "Os demônios quando Shiva, aliás, um anjo clone deu uma porrada em Brama e Brama devolveu a porrada nesse anjo clone." (U0033)
 - **[P2023-10-14 · A AUTODECLARAÇÃO DE PUREZA DOS DEUSES]** "Nós somos limpos." (U0033); "Os humanos surgiam do barro e dos restosos." (U0033)
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Brahma — desalmado] (U0003)** «Aquilo que eu já expliquei em outras palestras, Brama é desalmado.» — o corpo mental de Brahma apartado do espírito; por isso ele não produzia avatares como Vishnu e Shiva.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 5, 16 | pp. 14–17, 32–36, 113–119 | obra primária (fonte principal) |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 126 (aprox.) | verbete "Brahma" (secundária) |

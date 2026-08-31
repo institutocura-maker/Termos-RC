@@ -378,3 +378,8 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 
 - **[Javé — o novo eu numa espécie biodemo] (U0015)** «o novo eu de Javer, que está sendo lentamente estruturado para ser imantado numa nova espécie bio que eh está estará surgindo, já tá surgindo aí.» — a ressurreição do eu de Javé numa nova espécie biodemo como condição para responder a mensagem Talm.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Javé — duas faces e uma desfigurada] (U0003)** «8 bilhões de anos, ele tem duas faces principais e uma face desfigurada.» — as três faces de Javé na natureza: a insetóide (abelhas/formigas), a cefalópode (náutilo) e a humana, que faliu.
+- **[Javé — a face do náutilo] (U0003)** «Javé assumiu a face, a natureza de um certo tipo de molusco do Cefalope chamado náutilo.» — a face cefalópode de Javé; ver RC-035 (o cérebro bilatério não veio via polvo).
+

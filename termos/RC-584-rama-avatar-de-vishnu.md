@@ -48,9 +48,14 @@ A palestra situa Rama na segunda era equinocial e o relaciona à reorganização
 - **[P2023-04-30 · A SINARQUIA]** "O MAIOR HERÓI PLANETÁRIO... QUE DE FATO IMPLEMENTOU A ÚNICA SINARQUIA DECENTE NA HISTÓRIA HUMANA — UM COLEGIADO DE SÁBIOS" (a convergência com P2026-07-25/P2024-08-03).
 - 0 códigos novos (O-3). Quarentena: clínica leve, teológica.
 
+## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
+
+- **[Rama — para liquidar os rakshasas] (U0003)** «Se Rama, segundo Ramayanda, surgiu para liquidar os arraquchaças.» — Rama (avatar executivo, temperamento de Shiva) surgiu para liquidar os rakshasas; ver RC-581/RC-582.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0744–U0747; U0770–U0773 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave
