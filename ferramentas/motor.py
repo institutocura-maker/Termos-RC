@@ -1387,11 +1387,17 @@ def ampliar(c: Ciclo) -> None:
             novas += 0
         # a tabela de Fontes da ficha também precisa ficar coerente com a seção que entrou
         secao_fontes = re.search(r"^## Fontes\s*$(.*?)(?=^## |\Z)", corpo, re.M | re.S)
-        if secao_fontes and f"| {c.sigla} |" not in secao_fontes.group(1):
-            j = corpo.index("|---|", corpo.index("## Fontes"))
-            linha = FONTE_LINHA.format(sigla=c.sigla, titulo=c.titulo)
-            k = corpo.index("\n", j)
-            corpo = corpo[:k + 1] + linha + corpo[k:]
+        if secao_fontes and f"| {c.sigla} |" not in secao_fontes.group(1) and f"{c.sigla}." not in secao_fontes.group(1):
+            i_fontes = corpo.index("## Fontes")
+            j = corpo.find("|---|", i_fontes)
+            if j >= 0:
+                linha = FONTE_LINHA.format(sigla=c.sigla, titulo=c.titulo)
+                k = corpo.index("\n", j)
+                corpo = corpo[:k + 1] + linha + corpo[k:]
+            else:
+                # `## Fontes` sem tabela markdown (prosa): acrescenta a sigla como linha de prosa
+                k = corpo.index("\n", i_fontes)
+                corpo = corpo[:k + 1] + f"{c.sigla}.\n" + corpo[k + 1:]
         open(arq, "w", encoding="utf-8").write(corpo)
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção não entrou na ficha"
         print(f"  · {cod}: seção do ciclo {'substituída (reexecução)' if m else 'inserida'} em "
