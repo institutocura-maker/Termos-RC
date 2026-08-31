@@ -24,14 +24,14 @@ veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 2       # termos novos: RC-850/851 (Alexandre Magno, Qin Shi Huang Di)
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+arquivos = 2      # fichas materializadas nesta devolutiva (RC-850, RC-851)
+ficha_true = 2   # viradas no cadastro: as mesmas 2 (False → True)
+termos = 2       # RC-850/851 (Alexandre Magno, Qin Shi Huang Di)
+relacoes = 0     # nenhuma aresta nova — aresta só tipada + evidência + selo datado
 vinculos = 17    # os 17 códigos do pacote carregam P2023-08-27
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-850", "RC-851"]  # ordem do Curador na devolutiva
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -42,12 +42,22 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
 
 [tese]
-pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+pontos = [
+  "Lemion/Satã (RC-074), já o 'lugar-tenente' de Lúcifer (RC-078) e o 'maior especialista' no ser humano, projeta-se na linha do tempo humana por meio de tiranos: Alexandre Magno (RC-850) e Qin Shi Huang Di (RC-851), os 'Senhores da Terra' do título.",
+  "Alexandre Magno é 'o melhor DNA humano' que Lemion viu — DNA pandórico (RC-727), avesso a Javé — e, sob preceptoria de Aristóteles (RC-406), uniu Ocidente e Oriente; foi barrado no rio Indo por Krishna (RC-414), que protegia seus domínios da cultura helênica.",
+  "Qin Shi Huang Di ('Huang', epíteto dos três primeiros imperadores mitológicos da China) foi investido por Lemion para unificar os seis reinos e reconstruiu a Grande Muralha para isolar a China — ambos buscaram, em vão, as ervas da imortalidade (RC-466), eco de Gilgamesh.",
+]
 
 [definicoes]
+RC-850 = "Alexandre Magno (356–323 a.C., STT 'Alexandre Magno'): tirano sob influência de Lemion (RC-074) — para Lemion, 'o melhor DNA humano' já visto, DNA pandórico (RC-727) avesso a Javé. Uniu a cultura ocidental e a oriental, teve Aristóteles (RC-406) como preceptor e foi barrado no rio Indo por Krishna (RC-414); morreu na Babilônia e buscou, em vão, a ilha dos imortais (RC-466)."
+RC-851 = "Qin Shi Huang Di (STT 'Xinchi Huang/Xinchiranti/Xiranti/Xinxiranti/Xinuanti'): primeiro imperador chinês sob influência de Lemion (RC-074) — 'Huang' é o epíteto dos três primeiros imperadores mitológicos da China; Lemion o investiu para unificar os seis reinos, e ele reconstruiu as muralhas da China para isolar o país do resto do mundo; também buscou as ervas da imortalidade."
 
 [observacoes]
+RC-850 = ["**Grafia STT:** 'Alexandre Magno' (literal). O palestrante também o referencia como 'Alexandre' e 'o rapaz' cujo DNA Lemion analisou antes de conceber o projeto de dominar o mundo."]
+RC-851 = ["**Grafia STT:** 'Xinchi Huang' / 'Xinchiranti' / 'Xiranti' / 'Xinxiranti' / 'Xinuanti' = Qin Shi Huang Di. 'Huang'/'Hang' = epíteto dos três primeiros imperadores mitológicos ('três Hangs')."]
 
 [travas]
 
 [lacunas]
+RC-850 = "fecha a lacuna de Alexandre Magno como o tirano cujo 'melhor DNA humano' (pandórico) atraiu o projeto de Lemion"
+RC-851 = "fecha a lacuna de Qin Shi Huang Di como o imperador investido por Lemion para unificar a China e isolá-la com a muralha"

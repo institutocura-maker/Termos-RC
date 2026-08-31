@@ -1026,8 +1026,8 @@ TERMOS = [
     ("RC-847", "Sociedade Vril", COS_ESP[0], COS_ESP[1], C, ["P2018-12-16"], 'RC-846; RC-848; RC-239; RC-849', True),
     ("RC-848", "Sociedade Thule", COS_ESP[0], COS_ESP[1], C, ["P2018-12-16"], 'RC-847; RC-846; RC-239', True),
     ("RC-849", "Nicola Tesla (recebia mensagens em sânscrito)", SER_HUM[0], SER_HUM[1], C, ["P2018-12-16"], 'RC-847; RC-239; RC-074', True),
-    ("RC-850", "Alexandre Magno (tirano sob influência de Lemion)", SER_HUM[0], SER_HUM[1], C, ["P2023-08-27"], 'RC-074; RC-406; RC-727; RC-414; RC-466', False),
-    ("RC-851", "Qin Shi Huang Di (imperador chinês sob influência de Lemion)", SER_HUM[0], SER_HUM[1], C, ["P2023-08-27"], 'RC-074; RC-486; RC-466', False),
+    ("RC-850", "Alexandre Magno (tirano sob influência de Lemion)", SER_HUM[0], SER_HUM[1], C, ["P2023-08-27"], 'RC-074; RC-406; RC-727; RC-414; RC-466', True),
+    ("RC-851", "Qin Shi Huang Di (imperador chinês sob influência de Lemion)", SER_HUM[0], SER_HUM[1], C, ["P2023-08-27"], 'RC-074; RC-486; RC-466', True),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)

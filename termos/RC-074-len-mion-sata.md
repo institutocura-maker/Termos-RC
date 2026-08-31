@@ -92,7 +92,6 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[A última obra de Lemion foi Hitler] (U0005)** «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — a última obra de Lemion foi Hitler (RC-239), 'nos termos em que descrevo no livro A Era Sapiens': um encosto em Hitler, humano cujo espírito um dia foi da família Mion (RC-443), muito próximo a ele.
 - **[Lemion recolhido nos anos 90] (U0005)** «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — Lemion 'não mais existe nesses termos': foi recolhido pela espiritualidade nos anos 90; já esteve para ser exilado duas ou três vezes, mas o exílio 'para' — teme-se o que faria com a massa de manobra do exílio.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

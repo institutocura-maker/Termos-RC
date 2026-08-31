@@ -41,7 +41,6 @@ Com isso:
 
 - **[Radiatas: um eixo só] (U0003)** «Radiata, quando eu falo radiata, que só tem um eixo.» — a mente radiata (RC-093/RC-631) 'só tem um eixo' — humanos são bilatérios (duas câmaras), os biodemos só têm um; por isso os demos têm poucos talentos.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

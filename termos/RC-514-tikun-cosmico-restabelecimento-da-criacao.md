@@ -81,7 +81,6 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **[O ticum: reparo técnico pelos humanos] (U0003)** «Mas entre os humanos hoje tem o conceito do ticum, que foi o próprio Jahé que reconheceu isso e disse: "Realmente eu e a minha criação precisamos de reparo técnico e só quem pode fazer esse reparo técnico são os humanos".» — o ticum (RC-514): Javé reconheceu que 'eu e a minha criação precisamos de reparo técnico e só quem pode fazer esse reparo técnico são os humanos' — os judeus distorceram em 'povo escolhido'.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

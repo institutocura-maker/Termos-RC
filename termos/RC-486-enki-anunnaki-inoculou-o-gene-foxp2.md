@@ -77,7 +77,6 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[Enki e o DNA obediente] (U0003)** «Então, o DNA mexido por Enk é um DNA obediente que obrigava o ser humano a ser obediente aos seres que lhe controlavam.» — o DNA mexido por Enki (RC-486) 'é um DNA obediente' — obrigava o ser humano a obedecer aos deuses, com faixa de liberdade mental para entender ordens.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

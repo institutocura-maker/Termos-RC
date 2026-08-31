@@ -28,7 +28,6 @@ Forma preferida: Abel.
 
 - **[Abel, o filho afeminado] (U0003)** «Aí nasceu um Abel afeminado.» — Abel (RC-684) nasceu 'afeminado' por interferência de Lemion; Javé não o aceitava e — como o direito de progenitura era de Abel, não de Caim — fez com que Caim o matasse.
 
-
 ## Fontes
 P2025-05-31.
 
@@ -38,6 +37,7 @@ Ver transcrição.
 ## Termos Relacionados
 | Termo | Código | Relação |
 |---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | RC-424 | — | relacionado |
 | RC-490 | — | relacionado |

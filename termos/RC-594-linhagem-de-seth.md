@@ -31,7 +31,6 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 - **[Sete, produzido por Lemion] (U0003)** «Sete produzido por Lemi a genética escolhida toda.» — Sete (RC-594), terceiro filho de Adão e Eva, foi 'produzido por Lemi' — Lemion escolheu o espermatozoide e passou-lhe o entendimento do que os anjos de Javé faziam com a linhagem; Sete recusou obedecer.
 - **[Satã surgiu de Sete] (U0003)** «E o nome de Satã hoje existe, exatamente devido a essa interferência que Lenion fez em Set, terceiro filho de Adão e Eva, e sete passou a ter seguidores, cuja corruptela O nome seria, ou seja, Satã surgiu daqui.» — o nome 'Satã' existe 'exatamente devido a essa interferência que Lenion fez em Set': Sete passou a ter seguidores cuja corruptela gerou o nome Satã — na conta de Elusbell, que era quem se projetava.
 
-
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

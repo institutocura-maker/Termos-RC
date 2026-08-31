@@ -55,7 +55,6 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 
 - **[Conectoma: os álbuns de memória] (U0003)** «Então, é como se em cada vida produzisse um álbum de memória, cada personagem um álbum de memória e esse espírito fosse colecionador desses álbuns num álbum maior, num espécie de um Almanque geral, se assim quisermos entender.» — o conectoma (RC-557) é a 'somatória dos álbuns' que um espírito coleciona das diversas vidas cerebrais transitórias — cada vida um álbum, o espírito o colecionador; a somatória 'ainda não é a verdade'.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

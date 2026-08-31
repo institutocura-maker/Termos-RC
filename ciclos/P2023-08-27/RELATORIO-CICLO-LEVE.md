@@ -2,7 +2,7 @@
 
 **Palestra:** `2023-08-27 - Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di.txt`
 **Tema:** Lemion (RC-074) e a influência sobre Alexandre Magno e Qin Shi Huang Di — dois tiranos que ele instrumentalizou para seus projetos de dominação/isolamento.
-**Status:** GARIMPO concluído — aguardando homologação do curador para a devolutiva.
+**Status:** ENCERRADO — devolutiva homologada e executada (commit `7572a32` garimpo · devolutiva materializada e commitada).
 
 ---
 
@@ -55,3 +55,12 @@ RC-414 (1), RC-514 (1), RC-557 (1), RC-684 (1), RC-086 (1), RC-466 (1), RC-406 (
 - **Gilgamesh** (mito babilônico das ervas da imortalidade) — sem ficha; hoje citado em RC-466.
 - **Grande Muralha** — absorvida em RC-851 (não é agente).
 - **grafia "tikum"** — STT de "tikun" (RC-514); registrada como máscara, não como termo novo.
+
+## 6. Devolutiva (homologada)
+
+- **23 pérolas aprovadas**; ampliações nas 15 fichas validadas; ancoragem de spans perfeita.
+- **RC-850 e RC-851 homologados** como termos; fichas próprias materializadas.
+- **Decisões curatoriais:** Grande Muralha = atributo de RC-851 (sem código isolado); "tikum" = máscara STT de RC-514;
+  **não materializar** Guerra de Troia nem Gilgamesh agora (só se uma pérola forte justificar no futuro).
+- **Delta da devolutiva:** `arquivos +2 · ficha_true +2 · termos +2 · relacoes 0 · vinculos +17`.
+- **KB final:** 851 termos · 1.857 relações · 559 arquivos · 558 `ficha=True`. Ciclo **P2023-08-27 encerrado**.

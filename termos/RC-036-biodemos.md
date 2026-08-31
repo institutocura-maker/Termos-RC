@@ -83,7 +83,6 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 
 - **[Biodemos, criados para resolver problemas técnicos] (U0003)** «E são os biodemos seres que foram criados para resolver problemas técnicos no âmbito operacional, na perspectiva do governo de Sofia.» — os biodemos (RC-036) foram criados 'para resolver problemas técnicos no âmbito operacional', na perspectiva do governo de Sofia; ~250 famílias, não sexuados, nascidos em casulos, com DNA demo reduzido.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

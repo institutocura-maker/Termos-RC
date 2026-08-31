@@ -119,7 +119,6 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[Pandora sorriu ao se ver livre] (U0003)** «Porque Pandora inclusive sorriu quando se viu livre da obrigatoriedade que ela tinha de ser e de ir pro Olímpo, obedecer.» — Pandora (RC-086) 'sorriu quando se viu livre da obrigatoriedade' de ir ao Olimpo — antes dela ninguém sorria; o sorriso humano atual produz carga peptídica de satisfação.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

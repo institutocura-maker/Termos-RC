@@ -35,7 +35,6 @@ Com isso:
 
 - **[A ilha dos imortais e a bebida dos deuses] (U0005)** «E Xintirvanti, então empreendeu uma busca paraa ilha dos imortais para descobrir as tais ervas que em Tumando o fariam imortal.» — Alexandre Magno e Qin Shi Huang Di buscaram a 'ilha dos imortais' e as ervas da imortalidade — tema ligado ao soma/amrita, a bebida dos deuses (RC-466), eco do mito de Gilgamesh.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
