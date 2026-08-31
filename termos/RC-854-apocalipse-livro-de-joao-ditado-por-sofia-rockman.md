@@ -34,9 +34,15 @@ Com isso:
 - **[O Apocalipse, exceção às profecias] (U0003)** «Porém, a pretensão de quem produziu o livro Apocalipse é a de que no Apocalipse do que ali está inexoravelmente vai acontecer.» — o Apocalipse (RC-854) pretende ser a exceção ao pressuposto prudente de que profecia 'predispõe mas não impõe': nele, o que está 'inexoravelmente vai acontecer'.
 - **[Revelação, não fim de mundo] (U0007)** «O significado do apocalipse não é fim de mundo, não é Graça não é isso, é revelação.» — 'o significado do apocalipse não é fim de mundo' — é 'revelação' (julgamento está nos evangelhos).
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[O Apocalipse: a confirmação de Sofia] (U0033)** «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — ~70 anos após a crucificação, Sofia (então chamada assim pelos seguidores de Jesus reunidos em torno de Maria Madalena) ditou, via um anjo, a João — o único apóstolo ainda vivo — os termos do Apocalipse: a ratificação da promessa de retorno feita pelo eu humano de Jesus.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados

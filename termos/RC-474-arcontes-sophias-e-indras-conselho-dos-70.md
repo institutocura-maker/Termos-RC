@@ -69,10 +69,18 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - **[Os arcontes e a vestimenta negada] (U0004)** «Um dos Tais livros produzidos por Maria de Madalena, que o Jesus ressuscitado quando ainda estava aparecendo como ressuscitado, ditou: "É um livro em que ele conversa com seu irmão Tiago, que ainda estava vivo, dizendo: "Tiao, os arcontes, donos dos céus, vizinhos à terra, não querem dar a minha vestimenta de suzerania.» — os arcontes (RC-474), 'donos dos céus vizinhos à terra', não queriam dar a 'vestimenta de suzerania' a Jesus/Sofia — a disputa pela suzerania universal.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[O arconte: dono de uma loca] (U0033)** «Essa mesma expressão em grego pode ser chamada de geno ou e Então, arconte é um dono de um eu, um arconte é um dono de um gêno, um arconte é um dono de uma loca, ou seja, de uma cidade espiritual.» — a definição recolhida: loca (sânscrito, "morada celeste") = geno (grego) = a morada astral de cada arconte no universo vizinho; "os arcontes são as figuras da aristocracia do poder trimurtiano".
+- **[Brahma = Javé = o nome islâmico: o arconte chefe] (U0033)** «Como é o mesmo ser também e é o nome islâmico, então Javé é o arconte chefe.» — o mesmo ser da Trimurti é Brahma na mitologia ariana hindu, Javé na história hebraica e o nome islâmico; Javé é o arconte chefe e todos os descendentes da Trimurti são arcontes.
+- **[O que os arcontes pensam de Jesus hoje: traidor] (U0033)** «E hoje o que é que esses arcontos pensam de Jesus? Traidor.» — a acusação dos arcontes: Jesus teria "jogado sujo para fazer com que o herdeiro da trimurte fosse Sofia e não Zeus" — e os arcontes que pretendiam herdar a vestimenta de suzerano estão com os dias contados.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |

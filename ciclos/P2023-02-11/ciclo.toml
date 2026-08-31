@@ -19,16 +19,16 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (136.349 chars / 52 linhas / 31 com fala / 24.716 palavras). Tese: Jesus, o agente humano inseminado por Sofia em Maria para cumprir a agenda do Messias violento de Javé, recusou o script — a decisão do eu (não do DNA) desfez os pactos, propôs a nova aliança e deixou a promessa de que Sofia estabeleceria a suzerania universal na Terra (o freio que protege a humanidade). Recolhe formulações PRECISAS para 15 códigos JÁ EXISTENTES (RC-072, RC-009, RC-474, RC-854, RC-856, RC-834, RC-692, RC-727, RC-857, RC-858, RC-859, RC-002, RC-074, RC-366, RC-565) + blocos de referência para os 3 códigos em fila aberta (RC-857/858/859, ficha=False). NENHUM termo novo por conta própria: 6 lacunas reais declaradas (proferidor; loca; nova aliança; extísicos; essênios; Graiel/Amael) ficam como candidatas, decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []   # decisão do Curador na devolutiva (candidatos no BLOCO 2 do pacote)
+termos_novos = ["RC-860", "RC-861", "RC-862"]   # Nova Aliança · Extísicos · Essênios (devolutiva do curador, fila aberta)
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (garimpo: nada aplicado; devolutiva decide)
+arquivos = 0      # fichas criadas por este ciclo (os 3 novos códigos ficam em fila aberta, não materializados)
 ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+termos = 3       # termos novos: RC-860/861/862, autorizados pela devolutiva do curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 18    # 12 ampliados + 3 da fila anterior (RC-857/858/859) + 3 códigos novos criados com a fonte (RC-860/861/862)
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
@@ -52,8 +52,13 @@ pontos = [
 ]
 
 [definicoes]
+RC-860 = "A 'nova aliança' é a proposta de Jesus (RC-072) contra a velha aliança dos pactos de Javé (RC-781): um novo modo de interagir com os humanos que 'não previa o fator humano preocupado com a dignidade'. O Messias não é para produzir nova aliança — tinha de cumprir a aliança firmada por Javé com os patriarcas; ao propô-la, Jesus quebrou o script dos desígnios proféticos (RC-858)."
+RC-861 = "Os 'extísicos' são os seres do universo vizinho (o dos arcontes, RC-474): 'se metamorfoseiam, não são biológicos, esses são compostos de plasma e vinham para cá pelos portais quando estes estavam abertos'. Distinguem-se dos extraterrestres deste universo, que viajam em naves por wormholes; desde 2012 os portais estão lacrados (RC-295) e eles criam portais tecnológicos."
+RC-862 = "Os 'essênios' (grafia STT 'enênios') são a seita judaica puritana que criou João Batista: 'tinham prescrito tudo que o Messias quando surgisse deveria fazer' e rejeitaram Jesus — 'ele anda com mulheres, ele anda com publicanos, ele escolheu um publicano'. Até hoje, com os judeus, acham que o Messias anunciado pelos profetas ainda está por vir."
 
 [observacoes]
+RC-860 = "**Decisão curatorial (devolutiva):** as 25 pérolas foram 100% aprovadas; Nova Aliança, Extísicos e Essênios foram AUTORIZADOS como códigos taxonômicos novos (RC-860/861/862), criados no cadastro (ficha=False) e colocados em fila aberta para materialização futura."
+RC-858 = "**Navalha mantida para as lacunas não promovidas:** Proferidor (função ampla), Loca (Brahmaloka/Loka já existem na Base — RC-038/RC-077 — como genérico, sem termo redundante) e Graiel/Amael (personagens de suporte) NÃO promovidos a código; permanecem declarados no BLOCO 2 do pacote."
 RC-072 = "**Grafias STT registradas (sem emenda):** Rockb/Rockman = Hochmah (RC-565); Hman = Hochmah (RC-565); vído/vino/Vígno = Vishnu (RC-135); Chiva/Virgem = Shiva/Vishnu (RC-102/RC-135); Morren/Morençou = Moros (RC-316); galha = Gália; enênios = essênios (candidato BLOCO 2); Nagramade = Nag Hammadi (RC-770); São Paome = São Pacômio; Talking = Tolkien; Road Trade Center = World Trade Center. Nenhuma foi aplicada na fonte — o original.txt permanece byte a byte."
 RC-009 = "**Quarentena teológica/biomediúnica:** a inseminação de uma criança de 15 anos e o termo 'ultraje' são leitura do autor sobre a concepção de Jesus; a versão oficial (Maria 'santa mãe') é confrontada pela fala. A formulação curada entrou em BLOCO 1 sem o xingamento retido no BLOCO 5."
 RC-859 = "**Convergência com o ciclo anterior (P2023-02-12):** esta palestra (11/02) antecede a da 'Desconexão dos Desígnios' (12/02) e dá os blocos de referência adicionais de RC-857/858/859 — a cadeia Adão→Jesus da genética submissa, as placas de sinalização e a promessa cumprida pelo eu cósmico. Materialização continua futura, na ordem do Curador."
@@ -67,6 +72,8 @@ RC-009 = "quarentena ufológica/biomediúnica: relato das abduções (Rogério, 
 RC-474 = "quarentena política: leitura conjuntural do Apocalipse (WTC; Afeganistão/Iraque; Rússia/Ucrânia) — retida; o mecanismo do Apocalipse como confirmação de Sofia entra em RC-854."
 
 [lacunas]
-# As 6 lacunas reais (proferidor; loca; nova aliança; extísicos; essênios; Graiel/Amael)
-# estão declaradas no BLOCO 2 do pacote com seus spans — a seção [lacunas] do toml só
-# aceita códigos do cadastro, e nenhum código existe ainda para elas (decisão do Curador).
+# DEVOLUTIVA (2026-08-31): nova aliança → RC-860, extísicos → RC-861, essênios → RC-862
+# (criados em fila aberta). Mantidas como lacunas declaradas (BLOCO 2 do pacote):
+# proferidor (função ampla), loca (Brahmaloka/Loka genéricos já existem: RC-038/RC-077),
+# Graiel e Amael (personagens de suporte). A seção [lacunas] do toml só aceita códigos
+# do cadastro; o registro formal dos não-promovidos vive no BLOCO 2 do pacote.

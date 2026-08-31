@@ -340,3 +340,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[P2023-12-03 · JESUS NA FALA DE 03/12/2023]** «Jesus se recusou a cumprir o papel de Messias violento.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[O agente humano sem livre-arbítrio] (U0009)** «Ele já veio com o livre arbítrio dele, travado, lacrado para ser somente o o cumprid cumpridor de tudo o que a sua genética já havia recebido.» — Jesus nasceu para executar um mandato missionário: diferentemente dos demais humanos, que podem virar o eu gestor do próprio genoma, Jesus veio "todo colecionado", com o livre-arbítrio travado e lacrado para cumprir o que a genética de Sofia havia recebido.
+- **[O drama inteiro da história] (U0009)** «Como vocês vão ver, ele chegou a um ponto da vida dele que ele olhou e disse: "Eu não vou fazer isso".» — o ponto de virada: o eu humano de Jesus recusa o script do Messias; "esse é o drama inteiro da história, que não terminou".
+- **[A dúvida entre as escrituras e a própria consciência] (U0010)** «e dizer para ele mesmo: "Ou tá errado isso aqui ou tô errado eu.» — o dilema de Jesus diante das escrituras: se elas estão erradas, o Deus do seu povo é que estaria errado; mas ele se sabia o Messias profetizado, e não conseguia cumprir a violência prevista.
+- **[O modo humano de Jesus ser] (U0029)** «O Produto de Sofia em Maria foi o corpo, mas o modo humano de Jesus ser não foi o produto de Jesus e Maria.» — a resposta à pergunta de Horácio: o que Sofia produziu em Maria foi o corpo; o modo humano de Jesus ser foi produto do espírito e da capacidade do próprio eu, influenciado pelo DNA de ambos — o "agente humano" do título.
+

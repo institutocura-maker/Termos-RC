@@ -130,9 +130,15 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 
 - **[A rebelião como pandemia cósmica] (U0003)** «A questão É que quando houve essa contaminação, a coisa foi tão ampla, aquela pandemia cósmica foi algo tão fora do padrão que a tal autoridade chamada Sofia teve que isolar os mundos com a turma, teve que criar um geteto e ali dentro ficou a turma contaminada e fora a turma não contaminada.» — a rebelião de Lúcifer (RC-002) foi uma 'pandemia cósmica' — um vírus surgido em Elusbell pela insistência em observar o problema; Sofia isolou os mundos contaminados e, depois, exilou o 'lixo' na Terra.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[O comandante contra o qual me rebelei] (U0034)** «Foi quando Lúcifer disse: "Uau, é o meu comandante contra o qual me rebelei 700.000 anos antes".» — ao ver Jesus ressuscitado se fazer igual a Sofia, Lúcifer reconhece o comandante contra o qual se rebelou 700.000 anos antes e implode; o espírito de Jesus e outros recolhem o astral de Lúcifer.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

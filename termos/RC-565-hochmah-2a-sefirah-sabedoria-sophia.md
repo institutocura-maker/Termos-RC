@@ -132,10 +132,16 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 
 - **[Rockman = Chochma = Vishnu] (U0003)** «Isso é um ardil que novamente você, o talman e o ser que produziu hockman, que é choquma em termos de cabala, mas que é o mesmo víno da São Ariana.» — Rockman é 'choquma' (Chochma/Hochmah, RC-565) 'em termos de cabala, mas que é o mesmo Vishnu da [linha] ariana'.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[Rockman: o diretor executivo de Deus] (U0009)** «Ele disse: "Não sei, parece que um diretor executivo de Deus.» — a resposta de José de Arimateia à pergunta do jovem Jesus sobre quem era Rockman: segundo o livro da Sabedoria de Salomão, um diretor executivo de Deus — "Deus sem esse diretor executivo não teria feito o que fez"; a mesma pergunta que o menino Jesus fizera aos rabinos do Sinédrio sem resposta.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

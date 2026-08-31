@@ -157,3 +157,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[A herança que precisa ser varrida] (U0018)** «Então, esse bendito DNA submisso é algo que precisa ser varrido da humanidade.» — a leitura de Ellam: o DNA submisso é herança do Criador a ser superada por esclarecimento, não por força.
 - **[O DNA independente] (U0018)** «Esse DNA independente quase não existe, mas é preciso ser criado.» — contraposto ao DNA submisso, o DNA independente é produzido pelo eu, não herdado.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[É o eu que decide, não o DNA] (U0025)** «É o eu que está ou sendo vítima daquela cota do DNA ou que está gerindo.» — a resposta de Ellam: nem o DNA de Maria nem o de ninguém provoca coisa alguma; é o eu que ou é vítima da cota do genoma ou a gere — a decisão de Jesus foi do eu, apoiada no epigenoma humano.
+

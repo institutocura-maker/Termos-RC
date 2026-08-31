@@ -33,9 +33,15 @@ Com isso:
 - **[Paulo criou o 'Jesus Cristo'] (U0003)** «Quem criou esse nome Cristo foi Paulo.» — Saulo de Tarso/Paulo (RC-856) criou a figura de 'Jesus Cristo' — em vida ninguém chamava Jesus assim ('Cristo' = ungido, em grego).
 - **[A salvação que Jesus nunca pregou] (U0003)** «Aí Paulo criou o conceito de salvação.» — Paulo criou a doutrina da justificação pela fé e 'o conceito de salvação' — 'Jesus nunca falou em salvação'.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[Paulo nunca conheceu Jesus] (U0034)** «que conta a versão oficial sobre Jesus, a que Paulo transmitiu, mas Paulo nem conheceu Jesus.» — a Igreja Católica do século 4 escolheu a versão de Paulo (o "Jesus Cristo", herói da Marvel) e destruiu as demais; Paulo, que nunca conheceu Jesus, inventou o Cristo das versões oficiais.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados

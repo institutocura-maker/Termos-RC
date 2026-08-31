@@ -5,8 +5,8 @@
 violento de Javé, recusa o script — a decisão do eu (não do DNA) desfaz os pactos, propõe a
 nova aliança e deixa a promessa de que Sofia estabelecerá a suzerania universal na Terra (o
 freio que protege a humanidade).
-**Status:** GARIMPO CONCLUÍDO — aguarda a devolutiva do curador (25 pérolas candidatas;
-6 lacunas declaradas; nada aplicado à Base).
+**Status:** HOMOLOGADO E ENCERRADO — devolutiva do curador executada (25 pérolas aprovadas;
+RC-860/861/862 criados em fila aberta; navalha mantida para Proferidor, Loca e Graiel/Amael).
 
 ---
 
@@ -74,3 +74,30 @@ fonte externa:
 Quarentenas aplicadas (BLOCO 5 do pacote): veto léxico (r****, i*****) retido; ufológica
 (abduções, naves quadradas) retida; política (leitura do Apocalipse com WTC e guerras atuais)
 retida — o mecanismo curado do Apocalipse entrou em RC-854.
+
+
+## 5. Devolutiva do curador (executada)
+
+Devolutiva recebida do Assistente do Curador (31/08/2026) e aplicada na íntegra:
+
+1. **25 pérolas 100% aprovadas** — ampliação definitiva das 12 fichas autorizada e executada
+   (`## Ampliação — P2023-02-11` em RC-072, RC-009, RC-474, RC-854, RC-856, RC-834, RC-692,
+   RC-727, RC-002, RC-074, RC-366, RC-565), com a injeção dos vínculos no `dados_termos.py`.
+2. **Três códigos taxonômicos novos criados em fila aberta** — *Nova Aliança* (RC-860),
+   *Extísicos* (RC-861) e *Essênios* (RC-862): entram no cadastro (`ficha=False`, status
+   `candidato`, fonte `P2023-02-11`) como entidades que amarram a tese principal.
+   **Materialização futura** — não agora.
+3. **Navalha mantida para três lacunas** — *Proferidor* (função ampla), *Loca* (Brahmaloka/
+   Loka já existem na Base como genérico — RC-038/RC-077; sem termo redundante) e *Graiel e
+   Amael* (personagens de suporte) **não** promovidos a código; permanecem declarados no
+   BLOCO 2 do pacote com seus spans no livro-razão.
+4. **Fila aberta consolidada** — RC-857 (Elo Adâmico), RC-858 (Desígnios Proféticos / Placas
+   de Sinalização) e RC-859 (Suserania Universal), que receberam blocos de referência
+   adicionais nesta palestra, juntam-se aos 3 novos na fila de materialização futura.
+
+**Portões finais:** A ✓ (SHA) · B ✓ (25/25 verbatim byte a byte) · C ✓ (12 fichas em paridade,
+0 vazamentos do léxico vetado) · D ✓ (Δ `arquivos 0 · ficha_true 0 · termos +3 · relacoes 0 ·
+vinculos +18` contra o baseline `58edc7e` — todos exatamente como declarado).
+
+**Estado final da Base:** **862 termos · 1.857 relações · 571 arquivos de ficha · 570
+`ficha=True`** · fila aberta com 6 códigos aguardando materialização (RC-857/858/859/860/861/862).

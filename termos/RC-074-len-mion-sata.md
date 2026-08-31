@@ -92,10 +92,16 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[A última obra de Lemion foi Hitler] (U0005)** «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — a última obra de Lemion foi Hitler (RC-239), 'nos termos em que descrevo no livro A Era Sapiens': um encosto em Hitler, humano cujo espírito um dia foi da família Mion (RC-443), muito próximo a ele.
 - **[Lemion recolhido nos anos 90] (U0005)** «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — Lemion 'não mais existe nesses termos': foi recolhido pela espiritualidade nos anos 90; já esteve para ser exilado duas ou três vezes, mas o exílio 'para' — teme-se o que faria com a massa de manobra do exílio.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[Lemion é conhecido como Satã] (U0034)** «Lemion é conhecido como Satã.» — a identificação: Lemion (grafia STT de Len Mion, RC-074) é o ser conhecido como Satã; "Satã se tornou monstruoso como Hitler se tornou monstruoso. Mas Lúcifer não" — e, achando que Jesus raptava Lúcifer, Satã substituiu Lúcifer no comando da rebelião até o ano 1992.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |

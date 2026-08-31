@@ -407,3 +407,9 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **[Rockman, o ser que cedeu o genoma] (U0003)** «Porém, entra em cena agora o tal ser chamado Rockman.» — Rockman (RC-009/RC-565, 'o tal ser chamado Rockman'): o ser biodemo que cedeu seu genoma para inseminar Maria — o Cristo cósmico de 'A Caminho da Luz'.
 - **[Sofia, o ser não emocional] (U0037)** «Esse ser ele não é emocional, ele é um ser que foi engendrado há 5 se bilhões de anos atrás.» — Sofia (RC-009) 'é um ser que foi engendrado há 5 [bilhões de] anos' — não é emocional, não ama; age entre ordem e desordem.
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[Sofia e Jesus: o mesmo espírito] (U0025)** «Mas lembre-se, no caso que você colocou, Sofia e Jesus tem o mesmo espírito.» — a tese que "contraria o espiritismo frontalmente": o espírito que anima Sofia e o que animou Jesus é o mesmo; e esse espírito não manda em nenhum dos dois — é mandado, carregando a consciência fateada.
+- **[A fatia que não voltou] (U0026)** «A hora que a fatia de Jesus voltou paraa Sofia, ela não voltou.» — o destino do eu de Jesus: quando o corpo ressuscitado devolveu a Sofia o kit de elétrons, a fatia de consciência de Jesus não retornou — permanece no espírito, que não pode fazer uso dela.
+- **[Sofia radiata, sem emoções mamíferas] (U0033)** «Sofia é um ser radiata que não é nem macho nem fêmea, não tem uma emoção, porque no cérebro radiata dele não tem hipocampo nem amídala cerebral que permita sentir emoções mamíferas.» — a constituição de Sofia: cérebro radiata (RC-631), sem gênero e sem a maquinaria límbica das emoções mamíferas; "aquela coisa belíssima de longe, de perto meio rosto duro, como se fosse de pedra".
+

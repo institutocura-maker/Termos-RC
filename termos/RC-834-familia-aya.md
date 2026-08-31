@@ -25,9 +25,15 @@
 - **Variações:** Aia (corruptela frequente em transcrições — corrigida em 2026-08-31)
 - **Idioma de origem:** Hebraico (איה = "falcão" ou "voz de lamento") ou Sânscrito (आय = "mãe" — paralelo com Aye, āye)
 
+## Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)
+
+- **[Os anjos de Sofia inseminaram Maria] (U0009)** «Esse ser retirou dele a sua, entre aspas, assinatura quântica genética e os seus anjos no sentido de auxiliares diretos, inseminaram uma criança de 15 anos, como a gente falou.» — o mecanismo da concepção: Sofia retirou de si a assinatura quântica genética e seus anjos-auxiliares (as famílias Aya/Aye, RC-834/835) inseminaram Maria, então uma criança de 15 anos, sem o concurso de pai humano.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | RC-009 — Sophia (Cristo Cósmico) | — | — | ficha canônica (B031) |
 | P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0002 (S2) | — | palestra (fonte primária, STT — grafia "Aia" corrigida para "Aya") |
 | B031 — livro do autor | — | — | obra canônica (B031) |

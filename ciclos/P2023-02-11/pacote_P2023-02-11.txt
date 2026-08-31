@@ -85,34 +85,26 @@
 
 ### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
 
-# SEIS CANDIDATOS DECLARADOS — decisão do Curador. Nenhum foi criado por conta própria:
-# o garimpo entrega os spans de referência; a devolutiva decide o que promove a código
-# (padrão do ciclo P2023-02-12: RC-857/858/859 nasceram assim, em fila aberta).
+# RESOLVIDO PELA DEVOLUTIVA DO CURADOR (2026-08-31): três lacunas foram PROMOVIDAS a
+#   códigos taxonômicos — Nova Aliança = RC-860, Extísicos = RC-861, Essênios = RC-862
+#   (criados no cadastro com ficha=False, em fila aberta para materialização futura).
+#   Os spans de referência abaixo seguem no livro-razão. Três lacunas SEGUEM DECLARADAS
+#   (navalha mantida): Proferidor (função ampla), Loca (Brahmaloka/Loka já existem na Base
+#   como genérico — RC-038/RC-077; sem termo redundante) e Graiel/Amael (personagens de
+#   suporte). Nenhum código é materializado para elas.
 #
-# 1) PROFERIDOR — conceito próprio de Ellam (profecia que impõe, não predispõe). A KB tem
-#    RC-858 (Desígnios Proféticos) e RC-718, mas nenhum código cobre o "proferidor" como
-#    função/distinção. Span: «E de todo mundo que cerca Javé, só Jesus sabia ser proferidor, ou seja, distinguir de todas as possibilidades proféticas o que é que exatamente aconteceria.» (U0033 · 81925-82082).
+# 1) PROFERIDOR — MANTIDO COMO LACUNA (navalha; função ampla). Span: «E de todo mundo que cerca Javé, só Jesus sabia ser proferidor, ou seja, distinguir de todas as possibilidades proféticas o que é que exatamente aconteceria.» (U0033 · 81925-82082).
 #
-# 2) LOCA — conceito próprio (morada celeste dos arcontes; = geno grego; "cidade espiritual",
-#    "morada astral, uma faixa de realidade desse universo vizinho"). Não existe termo na KB.
+# 2) LOCA — MANTIDA COMO LACUNA (navalha; Brahmaloka/Loka genéricos já existem: RC-038/RC-077).
 #    Spans: «Ou seja, loca é uma expressão sânscrita que quer dizer morada celeste.» (U0033 · 83450-83521) + «Essa mesma expressão em grego pode ser chamada de geno ou e Então, arconte é um dono de um eu, um arconte é um dono de um gêno, um arconte é um dono de uma loca, ou seja, de uma cidade espiritual.» (U0033 · 83521-83718).
 #
-# 3) NOVA ALIANÇA — conceito próprio (a proposta de Jesus, contraposta à velha aliança dos
-#    pactos de Javé; "na velha aliança não previa o fator humano preocupado com a dignidade").
-#    A KB tem RC-781 (Pactos de Javé) mas não a nova aliança como termo. Spans: «Messias não é para produzir nova aliança.» (U0033 · 70557-70599) + «É porque na velha aliança não previa O fator humano preocupado com a dignidade.» (U0033 · 70755-70835).
+# 3) NOVA ALIANÇA — PROMOVIDA: RC-860 (fila aberta). Spans: «Messias não é para produzir nova aliança.» (U0033 · 70557-70599) + «É porque na velha aliança não previa O fator humano preocupado com a dignidade.» (U0033 · 70755-70835).
 #
-# 4) EXTÍSICOS — conceito próprio (seres do universo vizinho: "se metamorfoseiam, não são
-#    biológicos, esses são compostos de plasma e vinham para cá pelos portais quando estes
-#    estavam abertos"). A KB tem RC-241/295 (portais) e RC-630 (corpo de plasma), mas não o
-#    termo "extísico". Span: «Mas tem também os seres extísicos, ou seja, que são desse universo vizinho, que podem ser chamar também de extraterrestres, mas esses aqui se metamorfoseiam, não são biológicos, esses são compostos de plasma e vinham para cá pelos portais quando estos estavam abertos.» (U0034 · 116295-116564).
+# 4) EXTÍSICOS — PROMOVIDO: RC-861 (fila aberta). Span: «Mas tem também os seres extísicos, ou seja, que são desse universo vizinho, que podem ser chamar também de extraterrestres, mas esses aqui se metamorfoseiam, não são biológicos, esses são compostos de plasma e vinham para cá pelos portais quando estos estavam abertos.» (U0034 · 116295-116564).
 #
-# 5) ESSÊNIOS (grafia STT "enênios") — grupo histórico citado por Ellam (João Batista foi
-#    criado por eles; puritanos que rejeitaram Jesus por andar com mulheres e publicanos).
-#    A KB não tem o termo. Spans: «Os essênios eram tão puritanos que os tinham prescrito tudo que o Messias quando surgisse deviveria.» (U0034 · 105213-105314) + «Ele anda com mulheres, ele anda com publicanos, ele escolheu um publicano.» (U0034 · 105314-105389).
+# 5) ESSÊNIOS — PROMOVIDO: RC-862 (fila aberta). Spans: «Os essênios eram tão puritanos que os tinham prescrito tudo que o Messias quando surgisse deviveria.» (U0034 · 105213-105314) + «Ele anda com mulheres, ele anda com publicanos, ele escolheu um publicano.» (U0034 · 105314-105389).
 #
-# 6) GRAIEL E AMAEL — seres que trabalharam a genética de Sofia para a condição humana de
-#    Maria (Graiel = Gabriel; Amael), do livro da RC "A Sétima Trombeta do Apocalipse, a
-#    Volta de Jesus". A KB não tem os dois nomes. Span: «Existe um livro que eu produzi chamado a sétima trombeta do apocalipse, a volta de Jesus, em que os dois seres que trabalharam essa genética de Sofia para ser adequada à condição humana, fêmea de Maria, a Graiel, que é aquele ser chamado Gabriel, a Amael, eles descrevem, eles, ou seja, que foi adaptado.» (U0045 · 133276-133580).
+# 6) GRAIEL E AMAEL — MANTIDOS COMO LACUNA (navalha; personagens de suporte). Span: «Existe um livro que eu produzi chamado a sétima trombeta do apocalipse, a volta de Jesus, em que os dois seres que trabalharam essa genética de Sofia para ser adequada à condição humana, fêmea de Maria, a Graiel, que é aquele ser chamado Gabriel, a Amael, eles descrevem, eles, ou seja, que foi adaptado.» (U0045 · 133276-133580).
 
 ### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
 
