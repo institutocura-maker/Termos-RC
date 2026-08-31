@@ -1,0 +1,38 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-9",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 9 — após processamento da palestra 2019-04-14",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "b4c4559",
+  "motivo": "A palestra 2019-04-14 (Javé versus Pandora A Prole sem Face) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2019-04-14_jave_versus_pandora_a_prole_sem_face/. A pasta uploads_recepcao/ foi limpa novamente.",
+  "arquivos_processados": [
+    {
+      "nome": "2019-04-14 - Javé versus Pandora A Prole sem Face.txt",
+      "origem_blob": "2ac3648e13495206044617da971939235e3da5ff",
+      "commit_origem": "8f35cc2",
+      "sha256_original": "bea09e112b33fe7ff815df1e47ef04439177c61f72be55887f163ba5ed26fc3c",
+      "tamanho_bytes": 135079,
+      "destino_md": "apostilas/CONCLUIDAS/2019-04-14_jave_versus_pandora_a_prole_sem_face/apostila.md",
+      "tamanho_md": 33450,
+      "n_rc": 30,
+      "n_spans": 5,
+      "n_vinculos": 15,
+      "n_conceitos_novos": 7,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "observacao": "A palestra contém o relato autobiográfico do autor de que ele QUASE COMETEU SUICÍDIO para quebrar o código genético demoníaco. Foi salvo pelos 'amigos espirituais'. **7 conceitos novos materializados como RC-819 a RC-825** incluindo: Prole sem Face, Alimentação por Perfume dos Humanos, Soca/Reis/Rit como Receptor Universal, Mahatma Magant como Libertador, Vechame Existencial (conceito ético novo), Greve de Fome Genética, Código Genético como Marca da Herança Demoníaca.",
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {"nome": ".gitkeep", "motivo": "manter pasta no git"},
+    {"nome": "README.md", "motivo": "documentação da pasta"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30.json", "motivo": "auditoria da limpeza nº 1"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-3.json", "motivo": "auditoria da limpeza nº 3"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-4.json", "motivo": "auditoria da limpeza nº 4"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-5.json", "motivo": "auditoria da limpeza nº 5"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-6.json", "motivo": "auditoria da limpeza nº 6"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-7.json", "motivo": "auditoria da limpeza nº 7"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-8.json", "motivo": "auditoria da limpeza nº 8"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-9.json", "motivo": "auditoria da limpeza nº 9 (este arquivo)"}
+  ]
+}
