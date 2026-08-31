@@ -1,0 +1,37 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-8",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 8 — após processamento da palestra 2018-05-20",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "288ee84",
+  "motivo": "A palestra 2018-05-20 (De Pandora a Eva e o Culto a Lilith) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2018-05-20_de_pandora_a_eva_e_o_culto_a_lilith/. A pasta uploads_recepcao/ foi limpa novamente.",
+  "arquivos_processados": [
+    {
+      "nome": "2018-05-20 - De Pandora a Eva e o culto a Lilith.txt",
+      "origem_blob": "66326cb10d24c6a389d6eee46985bb5c4f52e4f3",
+      "commit_origem": "78d6d72",
+      "sha256_original": "05dbad5ff46adda633f7c4a9ce1d1f9760c405c3a800d45fa6a5dd7088913bff",
+      "tamanho_bytes": 148451,
+      "destino_md": "apostilas/CONCLUIDAS/2018-05-20_de_pandora_a_eva_e_o_culto_a_lilith/apostila.md",
+      "tamanho_md": 30874,
+      "n_rc": 30,
+      "n_spans": 5,
+      "n_vinculos": 15,
+      "n_conceitos_novos": 6,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "observacao": "O arquivo foi recuperado via `git cat-file -p 66326cb10...` do commit `78d6d72` no remoto. **A palestra contém Q&A no final** e referências explícitas à mitologia nórdica (Aesir, Vanir, Fria, Kvasir) como origem da ideia de Pandora. **6 conceitos novos materializados como RC-813 a RC-818**.",
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {"nome": ".gitkeep", "motivo": "manter pasta no git"},
+    {"nome": "README.md", "motivo": "documentação da pasta"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30.json", "motivo": "auditoria da limpeza nº 1"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-3.json", "motivo": "auditoria da limpeza nº 3"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-4.json", "motivo": "auditoria da limpeza nº 4"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-5.json", "motivo": "auditoria da limpeza nº 5"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-6.json", "motivo": "auditoria da limpeza nº 6"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-7.json", "motivo": "auditoria da limpeza nº 7"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-8.json", "motivo": "auditoria da limpeza nº 8 (este arquivo)"}
+  ]
+}
