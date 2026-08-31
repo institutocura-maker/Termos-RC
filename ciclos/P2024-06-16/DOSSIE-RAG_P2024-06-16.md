@@ -18,8 +18,8 @@
 
 ## 2 · Resumo executivo da tese
 
-* O Projeto Talm é a obra de Morlens (RC-772), o ser criado sem travas que diagnosticou os 'códigos podres' do universo vizinho e propôs semeá-los neste universo biológico como farmácia/laboratório para extrair o remédio — o Satinadanagana.
-* O Satinadanagana é o 'super código' que precisa surgir a partir do genoma humano para que o eu do Criador (Brahma/Javé) ressuscite e reconstrua a condição perdida de Prabrajna (RC-152); Ishvara (RC-691) é o nome desse ser reconstruído, tema do livro 'O Mistério de Isvara'.
+* O Projeto Talm é a obra de Morlens (RC-772), o ser criado sem travas que diagnosticou os 'códigos podres' do universo vizinho e propôs semeá-los neste universo biológico como farmácia/laboratório para extrair o remédio — o Satchidanandaghana.
+* O Satchidanandaghana (RC-838) é o 'super código' que precisa surgir a partir do genoma humano para que o eu do Criador (Brahma/Javé) ressuscite e reconstrua a condição perdida de Prabrajna (RC-152); Ishvara (RC-691) é o nome desse ser reconstruído, tema do livro 'O Mistério de Isvara'.
 * Os Fenvans (RC-064) são o gênero de demos criado para habitar o Ginnungagap (RC-776) e 'mergulhar' rumo às formas biológicas; a Mensagem TALM (RC-080) — 'somos nós que nos tornamos vocês' — é a promessa de Morlens de que os Fenvans virariam os futuros seres biológicos (os humanos).
 * A biologia é lida pela lente do Nidana (RC-154, código-fonte de plasma) transformado em DNA: as PEPS do criador viram genes; os três fornos replicadores (RC-771) foram construídos na Via Láctea (Awayen nunca funcionou; Awaymaion e Awaylengan funcionaram); os campos mórficos (RC-381) substituíram a idealização individual dos Fenvans.
 * O drama humano: a Karuna (RC-165, compaixão) é a construção psíquica mais avançada, surgida com o cérebro límbico dos mamíferos (oxitocina) e tornada efetiva pela racionalidade; o vício devocional (RC-749) e a ausência de Karuna impedem o experimento humano de vingar — e só a cessão consciente do DNA (RC-698, 'com carinho') pode reconstruir Javé.
@@ -28,16 +28,7 @@
 
 Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do Curador (`aprovada`) — o garimpo é do agente, a escolha é do curador.
 
-### PER-2024-06-16-001 · RC-838
-
-* **Endereço**: `P2024-06-16` · U0004 · chars 23738–23818 · 80 c
-* **Termo**: `RC-838` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha; cruza 1 termo(s) da Base
-* **Cruza**: `RC-838`
-
-> «O Satinadanagana deverá um dia surgir a partir do modelo atual do genoma humano.»
-
-### PER-2024-06-16-002 · RC-839
+### PER-2024-06-16-001 · RC-839
 
 * **Endereço**: `P2024-06-16` · U0004 · chars 46721–46964 · 243 c
 * **Termo**: `RC-839` — sem arquivo de ficha
@@ -46,7 +37,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «E esse primeiro primeiro elemento é um genótipo, é um hormônio, é um peptídeo chamado tocina ou oxitocina, que é o que quando flui no nosso organismo, é o chamado hormônio do bem, que você os mamíferos criaram isso, não foi Deus, os mamíferos.»
 
-### PER-2024-06-16-003 · RC-652
+### PER-2024-06-16-002 · RC-652
 
 * **Endereço**: `P2024-06-16` · U0006 · chars 56694–56927 · 233 c
 * **Termo**: `RC-652`
@@ -54,6 +45,14 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 * **Cruza**: `RC-019`, `RC-041`, `RC-091`
 
 > «Então os anjos clones o criador continuam cumprindo as últimas ordens recebidas de Brama e o novo projeto que o novo projeto é isso aqui que a gente precisa criar, já que o projeto Talm parou, precisa ser ressignificado lá na frente.»
+
+### PER-2024-06-16-003 · RC-838
+
+* **Endereço**: `P2024-06-16` · U0004 · chars 23738–23818 · 80 c
+* **Termo**: `RC-838` — sem arquivo de ficha
+* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha
+
+> «O Satinadanagana deverá um dia surgir a partir do modelo atual do genoma humano.»
 
 ### PER-2024-06-16-004 · RC-840
 
@@ -389,7 +388,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 ## 4 · Atualizações para a Base
 
 * **Materializações executadas**: 4 — `RC-154`, `RC-466`, `RC-019`, `RC-533`. Virada `ficha=False → ficha=True`, com o bloco do pacote copiado byte a byte.
-* **Termos novos**: 3 — cadência do teto suspenso: RC-838 Satinadanagana, RC-839 Oxitocina, RC-840 Kleśas. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
+* **Termos novos**: 3 — cadência do teto suspenso: RC-838 Satchidanandaghana, RC-839 Oxitocina, RC-840 Kleśas. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
 * **Relações**: nenhuma aresta criada, fechada ou reetiquetada por este ciclo. Aresta só entra tipada, com evidência (span + endereço) e selo datado.
 * **Divergências**: com selo datado, sem média — a Base não harmoniza números por decisão de quem aplica.
 * **Fila aberta**: 3 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.

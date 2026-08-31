@@ -19,7 +19,7 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
 teto = "suspenso-com-cadencia"
-termos_novos = ["RC-838 Satinadanagana", "RC-839 Oxitocina", "RC-840 Kleśas"]
+termos_novos = ["RC-838 Satchidanandaghana", "RC-839 Oxitocina", "RC-840 Kleśas"]
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
@@ -38,11 +38,12 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 
 [ampliar]
 codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+substituir = true # devolutiva do Curador: canonicaliza Satinadanagana → Satchidanandaghana nas glosas (RC-691, RC-562)
 
 [tese]
 pontos = [
-  "O Projeto Talm é a obra de Morlens (RC-772), o ser criado sem travas que diagnosticou os 'códigos podres' do universo vizinho e propôs semeá-los neste universo biológico como farmácia/laboratório para extrair o remédio — o Satinadanagana.",
-  "O Satinadanagana é o 'super código' que precisa surgir a partir do genoma humano para que o eu do Criador (Brahma/Javé) ressuscite e reconstrua a condição perdida de Prabrajna (RC-152); Ishvara (RC-691) é o nome desse ser reconstruído, tema do livro 'O Mistério de Isvara'.",
+  "O Projeto Talm é a obra de Morlens (RC-772), o ser criado sem travas que diagnosticou os 'códigos podres' do universo vizinho e propôs semeá-los neste universo biológico como farmácia/laboratório para extrair o remédio — o Satchidanandaghana.",
+  "O Satchidanandaghana (RC-838) é o 'super código' que precisa surgir a partir do genoma humano para que o eu do Criador (Brahma/Javé) ressuscite e reconstrua a condição perdida de Prabrajna (RC-152); Ishvara (RC-691) é o nome desse ser reconstruído, tema do livro 'O Mistério de Isvara'.",
   "Os Fenvans (RC-064) são o gênero de demos criado para habitar o Ginnungagap (RC-776) e 'mergulhar' rumo às formas biológicas; a Mensagem TALM (RC-080) — 'somos nós que nos tornamos vocês' — é a promessa de Morlens de que os Fenvans virariam os futuros seres biológicos (os humanos).",
   "A biologia é lida pela lente do Nidana (RC-154, código-fonte de plasma) transformado em DNA: as PEPS do criador viram genes; os três fornos replicadores (RC-771) foram construídos na Via Láctea (Awayen nunca funcionou; Awaymaion e Awaylengan funcionaram); os campos mórficos (RC-381) substituíram a idealização individual dos Fenvans.",
   "O drama humano: a Karuna (RC-165, compaixão) é a construção psíquica mais avançada, surgida com o cérebro límbico dos mamíferos (oxitocina) e tornada efetiva pela racionalidade; o vício devocional (RC-749) e a ausência de Karuna impedem o experimento humano de vingar — e só a cessão consciente do DNA (RC-698, 'com carinho') pode reconstruir Javé.",
@@ -50,7 +51,7 @@ pontos = [
 
 [definicoes]
 RC-154 = "Código-fonte definidor de plasma do Criador; nesta fonte, o Projeto Talm o transformou no DNA biológico que atingiu o ápice de complexidade com a emergência do ser humano."
-RC-466 = "O Satinadanagana lido como o 'remédio/elixir/ambrosia/amrita/soma' que os elétrons precisam tomar para reorganizar a memória e poder produzir o super código."
+RC-466 = "O Satchidanandaghana lido como o 'remédio/elixir/ambrosia/amrita/soma' que os elétrons precisam tomar para reorganizar a memória e poder produzir o super código."
 RC-019 = "Clones angélicos (Miguel, Rafael, Uriel, Gabriel) que nunca param de operar e são 100% fiéis às ordens de Brahma/Javé."
 RC-533 = "A 'planilha' de Moros num computador quântico, para medir o peso da podridão ancestral criptografada sob a forma de código-fonte definidor de cada ser individualizado."
 
@@ -62,7 +63,7 @@ RC-102 = ["**Grafia STT:** 'Chiva/Chive/Chile' = Shiva. Nesta fonte é o 2º log
 RC-037 = ["**Grafia STT:** 'Brama' = Brahma. Nesta fonte é o 1º logos (gerou a vida) e só sede o DNA/código-fonte na aristocracia trimurtiana."]
 RC-585 = ["**Grafia STT:** 'Viaza' = Vyasa; 'riches/richis' = Rishis (RC-586). 'Via' = o codificador (epíteto também dado a Allan Kardec)."]
 RC-593 = ["**Grafia STT:** 'Marrabarata/rabarata/uma rabarata/Marra Barat' = Mahabharata. Versões: 3,2 mi versos (gandharvas), 1 mi (Devas), 100 mil (humanos)."]
-RC-691 = ["**Grafia STT:** 'ovvar/Estivara' = Ishvara. O 'mistério de Isvara' é o ser reconstruído com o Satinadanagana (radar)."]
+RC-691 = ["**Grafia STT:** 'ovvar/Estivara' = Ishvara. O 'mistério de Isvara' é o ser reconstruído com o Satchidanandaghana (radar)."]
 RC-565 = ["**Grafia STT:** 'Hockma/Rockma/Rockman' = Hochmah. Epíteto 'personificação da sabedoria'; os gregos o chamaram Sofia; na Cabala, Malkuth."]
 RC-776 = ["**Grafia STT:** 'ginungagap/Gimung Gagap' = Ginnungagap. Interseção entre o universo material e o antimaterial."]
 RC-147 = ["**Grafia STT:** 'senos tendrel' = Zont En Drel. Desbloqueou o controle de Javé e se humaniza a partir do DNA do autor."]
@@ -71,6 +72,7 @@ RC-414 = ["**Grafia STT:** 'vaicunta' = Vaikuntha. Krishna, nesta fonte, 'assumi
 RC-395 = ["**Grafia STT:** 'Rinarok/Raroque' = Ragnarok."]
 RC-152 = ["**Grafia STT:** 'prabragen' = Prabrajna. A 'divindade mãe' da criação; condição a ser reconstruída pelo eu ressuscitado do Criador."]
 RC-533 = ["**Grafia STT:** 'Moros/Morus/Moras' = Moros. Nesta fonte é o 'Supercomputador Cósmico' (RC-533), a planilha quântica que mede a podridão ancestral; distinto de Moros como ente (RC-454)."]
+RC-838 = ["**Grafia canônica:** Satchidanandaghana (सच्चिदानन्दघन / Saccidānandaghana) — composto vedântico sat (existência) + chit (consciência) + ananda (bem-aventurança) + ghana (massa/plenitude): 'massa compacta de existência-consciência-bem-aventurança' (a Realidade Suprema/Brahman). **Grafia STT:** 'Satinadanagana / Satinada na Gama / Satana Gana / sati nadana gana' — variações por sandhi/audição rápida."]
 
 [travas]
 RC-019 = "leitura do autor (a angelologia católica como 'romantismo'; anjo não cuida de humano) — dito, não doutrina"

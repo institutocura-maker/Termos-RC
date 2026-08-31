@@ -9,7 +9,7 @@
 
 ## Definição Sintética
 
-O Satinadanagana lido como o 'remédio/elixir/ambrosia/amrita/soma' que os elétrons precisam tomar para reorganizar a memória e poder produzir o super código.
+O Satchidanandaghana lido como o 'remédio/elixir/ambrosia/amrita/soma' que os elétrons precisam tomar para reorganizar a memória e poder produzir o super código.
 
 ## Contexto / Origem
 
@@ -29,7 +29,7 @@ Com isso:
 
 ## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
-- **[Bebida dos Deuses — o Satinadanagana como amrita/soma] (U0003)** «Então, o satinadana é o remédio, é o elixir, é a amrita, é o soma, é aquela bebida ou aquele remédio, ou aasca ou a cannabis ou é uma poção, é um remédio que os elétrons precisam tomar, desculpem a metáfora sem futuro, mas é o jeito, para organizar lá a memória deles para que eles possam produzir o Satinada na Gama.» — o Satinadanagana lido como o remédio/elixir/amrita/soma que reorganiza a memória dos elétrons.
+- **[Bebida dos Deuses — o Satchidanandaghana como amrita/soma] (U0003)** «Então, o satinadana é o remédio, é o elixir, é a amrita, é o soma, é aquela bebida ou aquele remédio, ou aasca ou a cannabis ou é uma poção, é um remédio que os elétrons precisam tomar, desculpem a metáfora sem futuro, mas é o jeito, para organizar lá a memória deles para que eles possam produzir o Satinada na Gama.» — o Satchidanandaghana lido como o remédio/elixir/amrita/soma que reorganiza a memória dos elétrons.
 
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |

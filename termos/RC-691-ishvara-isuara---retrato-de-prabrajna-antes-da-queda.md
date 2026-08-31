@@ -36,7 +36,7 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 
 ## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
-- **[Ishvara — o ser com o Satinadanagana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satinadanagana; "o mistério de Isvara" é o tema do livro em produção.
+- **[Ishvara — o ser com o Satchidanandaghana] (U0004)** «Mas ovvar é o ser com o sati nadana gana se um dia isso existir.» — Ishvara (STT "ovvar/Estivara") = o Javé/Brahma reconstruído com o Satchidanandaghana; "o mistério de Isvara" é o tema do livro em produção.
 
 ## Fontes
 | Fonte | Localização | Tipo |

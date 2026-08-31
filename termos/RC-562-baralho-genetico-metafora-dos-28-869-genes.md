@@ -23,7 +23,7 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 ## Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os Humanos)
 
-- **[Baralho genético — os 28.869 genes] (U0003)** «Nossos 28.869 genes são divididos em várias áreas.» — os 28.869 genes; a área HR1 (com ~1000 genes) é onde o Satinadanagana é trabalhado.
+- **[Baralho genético — os 28.869 genes] (U0003)** «Nossos 28.869 genes são divididos em várias áreas.» — os 28.869 genes; a área HR1 (com ~1000 genes) é onde o Satchidanandaghana é trabalhado.
 
 ## Fontes
 

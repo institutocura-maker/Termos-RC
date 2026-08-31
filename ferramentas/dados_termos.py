@@ -1014,7 +1014,7 @@ TERMOS = [
     ("RC-835", "Família Aye (Clone de Sophia para Inseminação Artificial de Maria)", SER_DEC[0], SER_DEC[1], C, ['P2023-12-17', 'B031'], 'RC-009; RC-834; RC-006; RC-001; RC-104', True),
     ("RC-836", "Forno de Awayen (forno de Brahma/Javé → Central de Realidades)", LOK_MUN[0], LOK_MUN[1], C, ['P2019-08-25', 'ART-2025-08-01', 'P2021-05-15', 'P2022-03-26'], 'RC-771; RC-499; RC-837; RC-091; RC-037; RC-001; RC-132', True),
     ("RC-837", "Forno de Awaylengan (forno de Shiva — o primeiro a funcionar)", LOK_MUN[0], LOK_MUN[1], C, ['P2019-08-25', 'ART-2025-08-01', 'P2021-05-15', 'P2022-03-26'], 'RC-771; RC-499; RC-836; RC-091; RC-102; RC-093; RC-035', True),
-    ("RC-838", "Satinadanagana (super código genômico do Projeto TALM)", PRO_BIO[0], PRO_BIO[1], C, ["P2024-06-16"], 'RC-154; RC-691; RC-217; RC-466; RC-091; RC-562', False),
+    ("RC-838", "Satchidanandaghana (super código genômico do Projeto TALM)", PRO_BIO[0], PRO_BIO[1], C, ["P2024-06-16"], 'RC-154; RC-691; RC-217; RC-466; RC-091; RC-562', False),
     ("RC-839", "Oxitocina (hormônio do bem — base bioquímica da Karuna)", PRO_BIO[0], PRO_BIO[1], C, ["P2024-06-16"], 'RC-165; RC-615; RC-748', False),
     ("RC-840", "Kleśas (cinco entraves mentais ao progresso humano)", COS_ETI[0], COS_ETI[1], C, ["P2024-06-16"], 'RC-749; RC-165', False),
 ]
