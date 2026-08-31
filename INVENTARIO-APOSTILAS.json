@@ -1,9 +1,51 @@
 [
   {
+    "pasta": "2017-05-14_o_desvio_de_rota_de_pandora_e_o_quarto_logos_universal",
+    "md_size": 29713,
+    "orig_size": 83227,
+    "n_rc": 32,
+    "is_v31_mp": true
+  },
+  {
+    "pasta": "2018-02-24_pandora_e_a_estrategia_dos_avatares",
+    "md_size": 29600,
+    "orig_size": 121141,
+    "n_rc": 23,
+    "is_v31_mp": true
+  },
+  {
+    "pasta": "2018-05-20_de_pandora_a_eva_e_o_culto_a_lilith",
+    "md_size": 30874,
+    "orig_size": 148451,
+    "n_rc": 30,
+    "is_v31_mp": true
+  },
+  {
     "pasta": "2018-10-06_humanidade_em_disputa_a_descendencia_de_pandora",
     "md_size": 18288,
     "orig_size": 102869,
     "n_rc": 23,
+    "is_v31_mp": true
+  },
+  {
+    "pasta": "2019-04-14_jave_versus_pandora_a_prole_sem_face",
+    "md_size": 32363,
+    "orig_size": 135079,
+    "n_rc": 30,
+    "is_v31_mp": true
+  },
+  {
+    "pasta": "2019-05-11_pandora_e_os_desacertos_dos_pactos_de_jave",
+    "md_size": 21859,
+    "orig_size": 129279,
+    "n_rc": 26,
+    "is_v31_mp": true
+  },
+  {
+    "pasta": "2019-08-25_os_tres_fornos_replicadores_do_projeto_talm",
+    "md_size": 20655,
+    "orig_size": 100858,
+    "n_rc": 30,
     "is_v31_mp": true
   },
   {
@@ -252,6 +294,13 @@
     "is_v31_mp": true
   },
   {
+    "pasta": "2023-11-11_de_pandora_a_eva_e_a_rebeliao_de_lilith",
+    "md_size": 25293,
+    "orig_size": 89776,
+    "n_rc": 30,
+    "is_v31_mp": true
+  },
+  {
     "pasta": "2023-11-19_maquina_da_criacao_o_desmonte_do_mundo",
     "md_size": 10244,
     "orig_size": 95414,
@@ -270,6 +319,13 @@
     "md_size": 19097,
     "orig_size": 105859,
     "n_rc": 18,
+    "is_v31_mp": true
+  },
+  {
+    "pasta": "2023-12-17_lucifer_e_a_rebeliao_dos_eletrons",
+    "md_size": 42142,
+    "orig_size": 95468,
+    "n_rc": 27,
     "is_v31_mp": true
   },
   {
@@ -413,6 +469,13 @@
     "is_v31_mp": true
   },
   {
+    "pasta": "2025-04-06_a_revolucao_inacabada_de_prometeu_e_pandora",
+    "md_size": 32416,
+    "orig_size": 115372,
+    "n_rc": 35,
+    "is_v31_mp": true
+  },
+  {
     "pasta": "2025-05-31_arvore_da_vida_urdidura_metatron",
     "md_size": 13862,
     "orig_size": 181885,
@@ -501,62 +564,6 @@
     "md_size": 11469,
     "orig_size": 96514,
     "n_rc": 19,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2019-05-11_pandora_e_os_desacertos_dos_pactos_de_jave",
-    "md_size": 21859,
-    "orig_size": 129279,
-    "n_rc": 26,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2023-11-11_de_pandora_a_eva_e_a_rebeliao_de_lilith",
-    "md_size": 25293,
-    "orig_size": 89776,
-    "n_rc": 30,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2017-05-14_o_desvio_de_rota_de_pandora_e_o_quarto_logos_universal",
-    "md_size": 29713,
-    "orig_size": 83227,
-    "n_rc": 32,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2018-02-24_pandora_e_a_estrategia_dos_avatares",
-    "md_size": 29600,
-    "orig_size": 121141,
-    "n_rc": 23,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2018-05-20_de_pandora_a_eva_e_o_culto_a_lilith",
-    "md_size": 30874,
-    "orig_size": 148451,
-    "n_rc": 30,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2019-04-14_jave_versus_pandora_a_prole_sem_face",
-    "md_size": 32363,
-    "orig_size": 135079,
-    "n_rc": 30,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2025-04-06_a_revolucao_inacabada_de_prometeu_e_pandora",
-    "md_size": 32416,
-    "orig_size": 115372,
-    "n_rc": 35,
-    "is_v31_mp": true
-  },
-  {
-    "pasta": "2023-12-17_lucifer_e_a_rebeliao_dos_eletrons",
-    "md_size": 42142,
-    "orig_size": 95468,
-    "n_rc": 27,
     "is_v31_mp": true
   }
 ]
