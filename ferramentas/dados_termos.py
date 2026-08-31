@@ -177,7 +177,7 @@ TERMOS = [
     ("RC-093", "Radiatas", SER_HIB[0], SER_HIB[1], P, ['B031', 'P2024-05-04', 'P2025-02-16', 'P2024-04-13', 'P2021-05-15', 'P2020-04-25', 'P2023-12-03', "P2022-05-07", "P2023-08-27"], 'RC-035; RC-109; RC-136; RC-009; RC-631', True),
     ("RC-094", "Revelação Cósmica (conceito)", COS_COG[0], COS_COG[1], P, ['B031', 'B044', 'B035', 'B013', 'B014', 'B022', 'B023', 'B048', 'B003', 'B005', 'B011', 'B049', 'B043', 'B041', 'B006', 'B050', 'B027', 'B051', 'B034', 'B036', 'B040', 'B052', 'B042', 'B009', 'P2021-12-04', 'P2025-10-25', 'P2025-06-26', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2023-12-02', 'P2021-03-27', 'P2023-10-14', 'P2020-04-25', 'P2023-12-03'], 'RC-071; RC-106; RC-107; RC-003; RC-090; RC-611; RC-656; RC-718', True),
     ("RC-095", "Rogério de Almeida Freitas", SER_HUM[0], SER_HUM[1], P, ["B031"], "RC-071; RC-094", False),
-    ("RC-096", "Septuaginta", TEC_ESC[0], TEC_ESC[1], P, ['B031', 'P2026-08-04', "P2025-05-10"], 'RC-082; RC-106', False),
+    ("RC-096", "Septuaginta", TEC_ESC[0], TEC_ESC[1], P, ['B031', 'P2026-08-04', "P2025-05-10"], 'RC-082; RC-106', True),
     ("RC-097", "Seres Extrafísicos", SER_DEC[0], SER_DEC[1], P, ["B031"], "RC-049; RC-019; RC-024; RC-106; RC-031", False),
     ("RC-098", "Seres Extraterrenos / Extraterrestres", SER_EXT[0], SER_EXT[1], P, ["B031", "B044", "B005", "B042"], "RC-036; RC-064; RC-009; RC-078; RC-024", False),
     ("RC-099", "Seres Terrenos (Homo Sapiens)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B039', 'B023', 'B048', 'B003', 'B026', 'B005', 'B049', 'B041', 'B006', 'B050', 'B034', 'B036', 'B040', 'B052', 'B061', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-042; RC-056; RC-107; RC-578', False),
@@ -358,7 +358,7 @@ TERMOS = [
     ("RC-255", "A Mensagem do Codificador de Zion", TEC_ESC[0], TEC_ESC[1], P, ["B016"], "RC-252; RC-253; RC-071", False),
     ("RC-256", "Escola dos Agentes Esclarecidos da Busca da Verdade", COS_ESP[0], COS_ESP[1], P, ['B016', 'P2021-12-04'], "RC-252; RC-148; RC-253; RC-071", False),
     ("RC-257", "Espiritismo como Expressão do Quarto Logos", COS_ESP[0], COS_ESP[1], P, ["B016"], "RC-190; RC-092; RC-252", True),
-    ("RC-258", "Coreografia Cósmica (vinda de Sophia)", EVE_PRO[0], EVE_PRO[1], P, ['B016', 'P2024-07-13', "P2025-05-10"], 'RC-009; RC-005; RC-003; RC-070', False),
+    ("RC-258", "Coreografia Cósmica (vinda de Sophia)", EVE_PRO[0], EVE_PRO[1], P, ['B016', 'P2024-07-13', "P2025-05-10"], 'RC-009; RC-005; RC-003; RC-070', True),
     ("RC-259", "Apolônio de Tiana (encarnação do Quarto Logos)", SER_HUM[0], SER_HUM[1], P, ['B016', 'B061', 'P2021-12-04', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2023-12-02', 'P2024-11-03'], 'RC-092; RC-252; RC-072; RC-713', True),
     ("RC-260", "Prisioneiros da Brahmaloka", SER_DEC[0], SER_DEC[1], P, ["B016"], "RC-038; RC-041; RC-106; RC-016; RC-014", True),
 
@@ -1030,9 +1030,9 @@ TERMOS = [
     ("RC-851", "Qin Shi Huang Di (imperador chinês sob influência de Lemion)", SER_HUM[0], SER_HUM[1], C, ["P2023-08-27"], 'RC-074; RC-486; RC-466', True),
     ("RC-852", "Prajapati (a divindade antes de virar Brama)", SER_DIV[0], SER_DIV[1], C, ["P2012-02-19"], 'RC-037; RC-001; RC-809; RC-047', True),
     ("RC-853", "Sankalpa (força de vontade e conhecimento que produz milagres)", TER_SAN[0], TER_SAN[1], C, ["P2012-02-19"], 'RC-075; RC-151', True),
-    ("RC-854", "Apocalipse (livro de João, ditado por Sofia/Rockman)", TEC_ESC[0], TEC_ESC[1], C, ["P2025-05-10"], 'RC-855; RC-009; RC-565; RC-005; RC-258', False),
-    ("RC-855", "João Evangelista (apóstolo, o discípulo amado)", SER_HUM[0], SER_HUM[1], C, ["P2025-05-10"], 'RC-854; RC-009; RC-274', False),
-    ("RC-856", "Saulo de Tarso / Paulo (criador do 'Jesus Cristo')", SER_HUM[0], SER_HUM[1], C, ["P2025-05-10"], 'RC-005; RC-009', False),
+    ("RC-854", "Apocalipse (livro de João, ditado por Sofia/Rockman)", TEC_ESC[0], TEC_ESC[1], C, ["P2025-05-10"], 'RC-855; RC-009; RC-565; RC-005; RC-258', True),
+    ("RC-855", "João Evangelista (apóstolo, o discípulo amado)", SER_HUM[0], SER_HUM[1], C, ["P2025-05-10"], 'RC-854; RC-009; RC-274', True),
+    ("RC-856", "Saulo de Tarso / Paulo (criador do 'Jesus Cristo')", SER_HUM[0], SER_HUM[1], C, ["P2025-05-10"], 'RC-005; RC-009', True),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)

@@ -21,7 +21,6 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 
 - **[Nag Hammadi e os livros gnósticos] (U0004)** «Quando em Nagramade, 13 rolos com 52 manuscritos foram descobertos.» — em Nag Hammadi (RC-268), '13 rolos com 52 manuscritos' gnósticos — escondidos pelos monges desde o séc. IV (Atanásio) — foram descobertos em 1945.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -69,7 +69,6 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - **[Os arcontes e a vestimenta negada] (U0004)** «Um dos Tais livros produzidos por Maria de Madalena, que o Jesus ressuscitado quando ainda estava aparecendo como ressuscitado, ditou: "É um livro em que ele conversa com seu irmão Tiago, que ainda estava vivo, dizendo: "Tiao, os arcontes, donos dos céus, vizinhos à terra, não querem dar a minha vestimenta de suzerania.» — os arcontes (RC-474), 'donos dos céus vizinhos à terra', não queriam dar a 'vestimenta de suzerania' a Jesus/Sofia — a disputa pela suzerania universal.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

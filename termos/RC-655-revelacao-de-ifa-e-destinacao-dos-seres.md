@@ -47,7 +47,6 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[Ifá e a destinação dos seres] (U0003)** «Ela tem como base 256 caminhos profetizáveis ou caminhos chamados de odus na linguagem iorubá, que foi produzida em torno dessa visão mais profunda.» — a revelação de Ifá (RC-655) tem '256 caminhos profetizáveis' (odus, em iorubá): a destinação dos seres — distinta do profetismo de obediência judaico-cristão.
 
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

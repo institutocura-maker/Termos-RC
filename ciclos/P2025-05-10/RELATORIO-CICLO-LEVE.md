@@ -2,7 +2,7 @@
 
 **Palestra:** `2025-05-10 - Mistérios do Apocalipse.txt`
 **Tema:** a natureza e a autoria do Apocalipse — livro ditado por Sofia/Rockman ao apóstolo João, e a vinda de Sofia.
-**Status:** GARIMPO concluído — aguardando homologação do curador para a devolutiva.
+**Status:** ENCERRADO — devolutiva homologada e executada (commit `1d3d768` garimpo · devolutiva materializada e commitada).
 
 ---
 
@@ -61,3 +61,14 @@ RC-009 (2), RC-258, RC-280, RC-366, RC-365, RC-268, RC-474, RC-565, RC-261, RC-0
 - **As duas testemunhas** (Rogério + João Paulo I, cap. 11) — não materializada.
 - **Nostradamus** e **Anticristo** (este declarado "invenção teológica") — sem termo.
 - **Ananias/Bezerra de Menezes, Atanásio, Estevão, Lázaro** — figuras pontuais, sem termo.
+
+## 6. Devolutiva (homologada)
+
+- **23 pérolas aprovadas**; 15 ampliações validadas; recorte da tese principal perfeito.
+- **RC-854 (Apocalipse), RC-855 (João Evangelista) e RC-856 (Saulo de Tarso / Paulo) homologados** como candidatos.
+- **Materialização imediata das 5 fichas pendentes:** RC-854, RC-855, RC-856, RC-258 (Coreografia Cósmica),
+  RC-096 (Septuaginta) — agora com arquivo `.md` e `ficha=True`.
+- **Decisões curatoriais:** "Nova Jerusalém" absorvida em RC-258; "Nag Hammadi" em RC-268; descarte avulso de
+  João Batista, Maria Madalena e Nostradamus.
+- **Delta da devolutiva:** `arquivos +5 · ficha_true +5 · termos +3 · relacoes 0 · vinculos +18`.
+- **KB final:** 856 termos · 1.857 relações · 570 arquivos · 569 `ficha=True`. Ciclo **P2025-05-10 encerrado**.

@@ -26,7 +26,6 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 
 # (nenhum span retido neste ciclo)
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

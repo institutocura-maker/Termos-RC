@@ -32,7 +32,6 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 
 - **[Judas, o que não soube lidar] (U0003)** «Não, mas a espiritualidade sabe de Judas não foi um traidor barato ou vagabundo de Jesus.» — Judas (RC-365) 'não foi um traidor barato ou vagabundo de Jesus' — não soube lidar com a recusa de Jesus em cumprir as profecias messiânicas.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

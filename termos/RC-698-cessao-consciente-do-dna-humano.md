@@ -38,7 +38,6 @@ Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial
 
 - **[O óvulo de Maria e o genoma emprestado] (U0003)** «E só aí houve um óvulo de Maria que foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial.» — o óvulo de Maria 'foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial' — o genoma de Rockman (RC-698).
 
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

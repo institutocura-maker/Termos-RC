@@ -132,7 +132,6 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 
 - **[Rockman = Chochma = Vishnu] (U0003)** «Isso é um ardil que novamente você, o talman e o ser que produziu hockman, que é choquma em termos de cabala, mas que é o mesmo víno da São Ariana.» — Rockman é 'choquma' (Chochma/Hochmah, RC-565) 'em termos de cabala, mas que é o mesmo Vishnu da [linha] ariana'.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

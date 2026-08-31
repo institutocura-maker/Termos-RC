@@ -37,7 +37,6 @@ Com isso:
 
 - **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

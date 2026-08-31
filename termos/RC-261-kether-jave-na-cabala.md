@@ -52,7 +52,6 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 
 - **[Getsêmani: velha vs nova aliança] (U0003)** «Você criou essa coisa de velha aliança com os patriarcas, com todos esses que nos que antecederam a história no povo do povo hebreu, judeu.» — no Getsêmani, Jesus opôs a 'nova aliança' (amar) à 'velha aliança' do temor (RC-261); Javé/Kether recusou: 'não tem nada de lhe livrar desse cálice'.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

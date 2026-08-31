@@ -24,14 +24,14 @@ veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 3       # termos novos: RC-854/855/856 (Apocalipse, João Evangelista, Paulo)
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+arquivos = 5      # fichas materializadas nesta devolutiva (RC-854/855/856 + RC-258 + RC-096)
+ficha_true = 5   # viradas no cadastro: as mesmas 5 (False → True)
+termos = 3       # RC-854/855/856 (Apocalipse, João Evangelista, Paulo)
+relacoes = 0     # nenhuma aresta nova — aresta só tipada + evidência + selo datado
 vinculos = 18    # os 18 códigos do pacote carregam P2025-05-10
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-854", "RC-855", "RC-856", "RC-258", "RC-096"]  # ordem do Curador na devolutiva
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -42,12 +42,31 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
 
 [tese]
-pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+pontos = [
+  "O Apocalipse (RC-854) é a exceção ao pressuposto de que profecia 'predispõe mas não impõe': nele, tudo 'inexoravelmente vai acontecer' — e seu significado é 'revelação', não fim de mundo.",
+  "O livro foi ditado por Sofia/Rockman (RC-009/RC-565, o Cristo cósmico = Chochma = Vishnu) ao apóstolo João (RC-855), o 'rapazote de 16 anos' que testemunhou tudo, para esclarecer que a vinda não seria no tempo de sua vida.",
+  "Saulo de Tarso/Paulo (RC-856) criou a figura de 'Jesus Cristo' e a doutrina da salvação — que 'Jesus nunca falou' — enquanto Maria Madalena e o gnosticismo (RC-268) divulgavam 'Jesus, o vivo'; a vinda de Sofia (RC-258) é a 'Nova Jerusalém', a nave de 2.000 km estacionada à distância lunar.",
+]
 
 [definicoes]
+RC-854 = "Apocalipse (livro de João, ditado por Sofia/Rockman): o último livro do Novo Testamento, escrito pelo apóstolo João (RC-855) perto do ano 100, dominado pelos anjos de Sofia (RC-009) — a exceção ao pressuposto de que profecia predispõe sem impor: nele, tudo 'inexoravelmente vai acontecer'; seu significado é 'revelação'."
+RC-855 = "João Evangelista (apóstolo, o discípulo amado): o apóstolo 'rapazote de 16 anos' entre homens de ~30, o único que não fugiu na prisão de Jesus e testemunhou tudo; autor do 4º Evangelho (sem as profecias da vinda) e do Apocalipse (RC-854), escrito aos ~100 anos em Pátmos; seu espírito reencarnaria até Chico Xavier."
+RC-856 = "Saulo de Tarso / Paulo (criador do 'Jesus Cristo'): o oficial do Sinédrio que perseguia cristãos e, após a visão na estrada de Damasco (recolhido por Ananias, depois Bezerra de Menezes), tornou-se Paulo — criou o nome 'Jesus Cristo' ('ungido', em grego) e as doutrinas da justificação pela fé e da salvação, que Jesus nunca pregou."
+RC-258 = "Coreografia Cósmica (vinda de Sophia): a profecia/anúncio do retorno de Sophia (RC-009) 'por sobre as nuvens', estruturada no Apocalipse como sete selos, sete trombetas e sete taças; a 'Nova Jerusalém' é a nave de Sofia, de '12.000 estádios' (≈2.000 km, metade da lua cheia), estacionada à distância lunar fora do alcance de mísseis."
+RC-096 = "Septuaginta: a coletânea grega das escrituras hebraicas que existia no tempo de Jesus — 'composta não de 46 livros como o Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte'; Jesus, falante de aramaico/hebraico, leu as escrituras por ela."
 
 [observacoes]
+RC-854 = ["**Grafia STT:** 'Apocalipse' (literal). Produzido por João, dominado pelos anjos de Sofia, para esclarecer que a vinda não era no tempo da vida de João.", "**Decisão curatorial:** 'Nova Jerusalém' absorvida em RC-258; 'Nag Hammadi' em RC-268; 'Babilônia' (= Nova York/World Trade Center) e 'as duas testemunhas' (Rogério + João Paulo I) não materializadas."]
+RC-855 = ["**Grafia STT:** 'João' (literal). = 'o discípulo amado'; irmão de Tiago; o apóstolo menino que Jesus manteve junto de si."]
+RC-856 = ["**Grafia STT:** 'Saulo de Tarso' / 'Saulo de Társ' / 'Paulo' (literal). Perseguidor convertido; nunca conheceu Jesus em vida — só as 'fofocas' do Sinédrio e o relato de Ananias."]
+RC-258 = ["**Grafia STT:** 'Coreografia Cósmica' (nome do termo, não do bruto). A vinda de Sofia está ancorada em P2025-05-10 (a nave de 2.000 km) e em fontes anteriores (B016, P2024-07-13)."]
+RC-096 = ["**Grafia STT:** 'Septoaginta' = Septuaginta. 47 livros (46 + Enoque); 'vulgata' = Bíblia em latim do séc. da era cristã, 73 livros."]
 
 [travas]
 
 [lacunas]
+RC-854 = "fecha a lacuna do Apocalipse como o livro ditado por Sofia/Rockman, exceção às profecias ('inexoravelmente vai acontecer')"
+RC-855 = "fecha a lacuna de João Evangelista como o discípulo amado, autor do 4º Evangelho e do Apocalipse"
+RC-856 = "fecha a lacuna de Paulo como o criador do 'Jesus Cristo' e da doutrina da salvação"
+RC-258 = "fecha a lacuna da Coreografia Cósmica como a profecia da vinda de Sofia (a 'Nova Jerusalém', nave de 2.000 km)"
+RC-096 = "fecha a lacuna da Septuaginta como a coletânea grega de 47 livros (incluindo Enoque)"

@@ -42,7 +42,6 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 
 - **[A transfiguração e a cobrança do messianato] (U0003)** «Os três vão com eles, sobem o monte Tabor.» — no monte Tabor (RC-366), seres não-humanos cobraram de Jesus que assumisse o messianato; Jesus transfigurou o corpo e falou com eles na língua de Capela.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
