@@ -28,9 +28,15 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 
 - **[Ielan veio a ser Judas Iscariotes] (U0003)** «Mas assim, Lemi ele ele tinha uma versão profunda por Ielan, que veio a ser Judas Iscariotes.» — Judas Iscariotes era a encarnação de Ielan (família Iel), a quem Lemion detestava; o único apóstolo da elite judaica (Judeia), o que explica o papel dele no processo do Sinédrio (RC-365).
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Judas, o que não soube lidar] (U0003)** «Não, mas a espiritualidade sabe de Judas não foi um traidor barato ou vagabundo de Jesus.» — Judas (RC-365) 'não foi um traidor barato ou vagabundo de Jesus' — não soube lidar com a recusa de Jesus em cumprir as profecias messiânicas.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |
 | Painéis Emergentes (B031) | Glossário (Yel Liam) | — | apoio (secundária) |

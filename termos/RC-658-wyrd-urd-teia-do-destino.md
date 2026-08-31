@@ -118,3 +118,9 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-20`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[A teia da vida quântica] (U0003)** «Se nós fôssemos estudar a mitologia nórdica e entender que existe algo chamado teia da vida quântica, teia que mede as informações produzidas por cada ser vivo, fazendo com que o que sai de um ser retorna para ele.» — a 'teia da vida quântica' (RC-658) mede as informações de cada ser vivo: 'o que sai de um ser retorna para ele'.
+- **[Urd, Verdandi e Skuld] (U0003)** «Essa rede é ligada a três centros de processamento que na mitologia nórdica um se chama Urdre, vivendre, sched, aonde Urdre é tudo que aconteceu até o momento em que a foi assim definida.» — a teia liga-se a três centros: 'Urdre' (passado), Verdandi (presente) e Skuld (futuro) — pendências do passado predispõem o futuro.
+

@@ -65,10 +65,16 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 - **[Arcontes — a oposição a Sophia] (U0003)** «porque está enfrentando uma oposição de arcontos.» — Sophia não cumpre a promessa porque enfrenta a oposição dos arcontes (suserania universal).
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Os arcontes e a vestimenta negada] (U0004)** «Um dos Tais livros produzidos por Maria de Madalena, que o Jesus ressuscitado quando ainda estava aparecendo como ressuscitado, ditou: "É um livro em que ele conversa com seu irmão Tiago, que ainda estava vivo, dizendo: "Tiao, os arcontes, donos dos céus, vizinhos à terra, não querem dar a minha vestimenta de suzerania.» — os arcontes (RC-474), 'donos dos céus vizinhos à terra', não queriam dar a 'vestimenta de suzerania' a Jesus/Sofia — a disputa pela suzerania universal.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |

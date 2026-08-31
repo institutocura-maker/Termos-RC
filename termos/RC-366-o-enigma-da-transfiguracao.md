@@ -38,9 +38,15 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 - **[P2023-06-03 · 'QUEM MANDA SOU EU']** "Aí Jesus disse: 'Não interfiram.' — 'Mas Jesus, será que você, na sua condição humana, não tá meio tantã?' — **AÍ JESUS NESSA HORA TRANSFIGURA, ou seja, metamorfoseia o seu corpo dentro de um padrão celestial, E FALA COM OS ANJOS NA LINGUAGEM QUE SE USA NO SISTEMA DE CAPELA, onde esses anjos residem** [RC-039/RC-350]: 'Eu estou mostrando a vocês aqui... que eu estou compreendendo muito bem o que está se passando. SÓ QUE EU ESTOU DECIDINDO QUE EU NÃO VOU FAZER ISSO E VOCÊS NÃO INTERFIRAM. QUEM MANDA SOU EU.' — **NÃO INTERFERIRAM.**' Aí Pedro [acordando]: 'Mestre, você quer que eu construa mais tendas?' — 'Durma, Pedro, durma.' **NO OUTRO DIA, quando Jesus desce do Monte Tabor, começa a anunciar que IRIA MORRER.**" — ⚠️ **A DIVERGÊNCIA com a leitura do B011 (Moisés e Elias; a Assessoria Cósmica RC-368) REGISTRADA SEM FUSÃO** (a decisão de fundir é do curador; a Devolutiva O-2: "mantendo a divergência com o B011 documentada, mas sem forçar fusão estrutural").
 - 0 códigos novos (O-3).
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[A transfiguração e a cobrança do messianato] (U0003)** «Os três vão com eles, sobem o monte Tabor.» — no monte Tabor (RC-366), seres não-humanos cobraram de Jesus que assumisse o messianato; Jesus transfigurou o corpo e falou com eles na língua de Capela.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | Jesus e o Enigma da Transfiguração (B011) | Livro III, cap. 15 (O Enigma da Transfiguração) | pp. 150–165 (aprox.) | capítulo-título |
 
 ## Citações-chave

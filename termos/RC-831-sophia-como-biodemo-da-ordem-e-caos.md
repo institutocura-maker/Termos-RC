@@ -18,9 +18,19 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 - **Variações STT capturadas:** "Sophia", "Sophia biodemo", "comandante Sophia", "Sophia ordem e caos"
 - **Idioma de origem:** Grego (Σοφία Sophia = "sabedoria") + Português
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Sofia e o cérebro radiata] (U0037)** «Então ele tem cérebro radiata, pois não?» — Sofia (RC-831) 'tem cérebro radiata' (um eixo só), não bilatério como o humano — por isso age por ordem/desordem, sem protocolo emocional.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0002 (S2) | — | palestra (fonte primária, STT) |
 | P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada | (todas) | — | palestra (fonte secundária, paralelo) |
 | P2018-10-06 — Humanidade em Disputa | U0002 | — | palestra (fonte secundária, "Jesus é a parte mais bela de Sophia") |

@@ -1,0 +1,87 @@
+# Pacote de ampliação — P2025-05-10
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2025-05-10 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-854
+
+- **[O Apocalipse, exceção às profecias] (U0003)** «Porém, a pretensão de quem produziu o livro Apocalipse é a de que no Apocalipse do que ali está inexoravelmente vai acontecer.» — o Apocalipse (RC-854) pretende ser a exceção ao pressuposto prudente de que profecia 'predispõe mas não impõe': nele, o que está 'inexoravelmente vai acontecer'.
+- **[Revelação, não fim de mundo] (U0007)** «O significado do apocalipse não é fim de mundo, não é Graça não é isso, é revelação.» — 'o significado do apocalipse não é fim de mundo' — é 'revelação' (julgamento está nos evangelhos).
+
+### RC-855
+
+- **[João, o apóstolo menino] (U0003)** «Então, o apóstolo João de Jesus é Era um rapazote de 16 anos no meio de um grupo de coroas, todo mundo com 30 anos, ou seja, no meio de um grupo de velhos.» — João (RC-855) era 'um rapazote de 16 anos' entre apóstolos de ~30; Jesus o manteve junto para que não virasse 'empregado' dos outros.
+- **[O discípulo que testemunhou tudo] (U0003)** «Foi o único Quando Jesus foi preso, o único apóstolo que não fugiu com medo também de ser preso foi ele.» — João foi 'o único apóstolo que não fugiu' na prisão de Jesus — testemunhou tudo, daí ser tratado como o 'discípulo amado'.
+
+### RC-856
+
+- **[Paulo criou o 'Jesus Cristo'] (U0003)** «Quem criou esse nome Cristo foi Paulo.» — Saulo de Tarso/Paulo (RC-856) criou a figura de 'Jesus Cristo' — em vida ninguém chamava Jesus assim ('Cristo' = ungido, em grego).
+- **[A salvação que Jesus nunca pregou] (U0003)** «Aí Paulo criou o conceito de salvação.» — Paulo criou a doutrina da justificação pela fé e 'o conceito de salvação' — 'Jesus nunca falou em salvação'.
+
+### RC-009
+
+- **[Rockman, o ser que cedeu o genoma] (U0003)** «Porém, entra em cena agora o tal ser chamado Rockman.» — Rockman (RC-009/RC-565, 'o tal ser chamado Rockman'): o ser biodemo que cedeu seu genoma para inseminar Maria — o Cristo cósmico de 'A Caminho da Luz'.
+- **[Sofia, o ser não emocional] (U0037)** «Esse ser ele não é emocional, ele é um ser que foi engendrado há 5 se bilhões de anos atrás.» — Sofia (RC-009) 'é um ser que foi engendrado há 5 [bilhões de] anos' — não é emocional, não ama; age entre ordem e desordem.
+
+### RC-258
+
+- **[A Nova Jerusalém, nave de 2.000 km] (U0010)** «O anjo e João mediram então a cidade com a vara e deu 12.000 estádios.» — a 'Nova Jerusalém' (RC-258) é a nave de Sofia: '12.000 estádios' = cerca de 2.000 km, metade da lua cheia — estacionada à distância lunar, fora do alcance de mísseis.
+
+### RC-280
+
+- **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
+
+### RC-366
+
+- **[A transfiguração e a cobrança do messianato] (U0003)** «Os três vão com eles, sobem o monte Tabor.» — no monte Tabor (RC-366), seres não-humanos cobraram de Jesus que assumisse o messianato; Jesus transfigurou o corpo e falou com eles na língua de Capela.
+
+### RC-365
+
+- **[Judas, o que não soube lidar] (U0003)** «Não, mas a espiritualidade sabe de Judas não foi um traidor barato ou vagabundo de Jesus.» — Judas (RC-365) 'não foi um traidor barato ou vagabundo de Jesus' — não soube lidar com a recusa de Jesus em cumprir as profecias messiânicas.
+
+### RC-268
+
+- **[Nag Hammadi e os livros gnósticos] (U0004)** «Quando em Nagramade, 13 rolos com 52 manuscritos foram descobertos.» — em Nag Hammadi (RC-268), '13 rolos com 52 manuscritos' gnósticos — escondidos pelos monges desde o séc. IV (Atanásio) — foram descobertos em 1945.
+
+### RC-474
+
+- **[Os arcontes e a vestimenta negada] (U0004)** «Um dos Tais livros produzidos por Maria de Madalena, que o Jesus ressuscitado quando ainda estava aparecendo como ressuscitado, ditou: "É um livro em que ele conversa com seu irmão Tiago, que ainda estava vivo, dizendo: "Tiao, os arcontes, donos dos céus, vizinhos à terra, não querem dar a minha vestimenta de suzerania.» — os arcontes (RC-474), 'donos dos céus vizinhos à terra', não queriam dar a 'vestimenta de suzerania' a Jesus/Sofia — a disputa pela suzerania universal.
+
+### RC-565
+
+- **[Rockman = Chochma = Vishnu] (U0003)** «Isso é um ardil que novamente você, o talman e o ser que produziu hockman, que é choquma em termos de cabala, mas que é o mesmo víno da São Ariana.» — Rockman é 'choquma' (Chochma/Hochmah, RC-565) 'em termos de cabala, mas que é o mesmo Vishnu da [linha] ariana'.
+
+### RC-261
+
+- **[Getsêmani: velha vs nova aliança] (U0003)** «Você criou essa coisa de velha aliança com os patriarcas, com todos esses que nos que antecederam a história no povo do povo hebreu, judeu.» — no Getsêmani, Jesus opôs a 'nova aliança' (amar) à 'velha aliança' do temor (RC-261); Javé/Kether recusou: 'não tem nada de lhe livrar desse cálice'.
+
+### RC-096
+
+- **[A Septuaginta e o livro de Enoque] (U0003)** «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — a Septuaginta (RC-096) tinha 47 livros — não 46 — 'porque o livro de Enoque fazia parte'; Jesus lia em hebraico/aramaico.
+
+### RC-655
+
+- **[Ifá e a destinação dos seres] (U0003)** «Ela tem como base 256 caminhos profetizáveis ou caminhos chamados de odus na linguagem iorubá, que foi produzida em torno dessa visão mais profunda.» — a revelação de Ifá (RC-655) tem '256 caminhos profetizáveis' (odus, em iorubá): a destinação dos seres — distinta do profetismo de obediência judaico-cristão.
+
+### RC-658
+
+- **[A teia da vida quântica] (U0003)** «Se nós fôssemos estudar a mitologia nórdica e entender que existe algo chamado teia da vida quântica, teia que mede as informações produzidas por cada ser vivo, fazendo com que o que sai de um ser retorna para ele.» — a 'teia da vida quântica' (RC-658) mede as informações de cada ser vivo: 'o que sai de um ser retorna para ele'.
+- **[Urd, Verdandi e Skuld] (U0003)** «Essa rede é ligada a três centros de processamento que na mitologia nórdica um se chama Urdre, vivendre, sched, aonde Urdre é tudo que aconteceu até o momento em que a foi assim definida.» — a teia liga-se a três centros: 'Urdre' (passado), Verdandi (presente) e Skuld (futuro) — pendências do passado predispõem o futuro.
+
+### RC-005
+
+- **[Selos, trombetas e taças] (U0010)** «Ele coloca que entre a sexta e a sétima trombeta, ou seja, isso aqui seria a penúltima trombeta, que é exatamente essa que a gente acabou de ver com os tanques de guerra.» — a estrutura do Apocalipse (RC-005): sete selos, sete trombetas, sete taças — 'entre a sexta e a sétima trombeta' os 'decretos do pequeno livro aberto'; a sétima anuncia a vinda de Sofia.
+
+### RC-698
+
+- **[O óvulo de Maria e o genoma emprestado] (U0003)** «E só aí houve um óvulo de Maria que foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial.» — o óvulo de Maria 'foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial' — o genoma de Rockman (RC-698).
+
+### RC-831
+
+- **[Sofia e o cérebro radiata] (U0037)** «Então ele tem cérebro radiata, pois não?» — Sofia (RC-831) 'tem cérebro radiata' (um eixo só), não bilatério como o humano — por isso age por ordem/desordem, sem protocolo emocional.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)

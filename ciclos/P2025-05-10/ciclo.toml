@@ -1,0 +1,53 @@
+# ciclo.toml — ciclo leve P2025-05-10 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2025-05-10"
+titulo = "Mistérios do Apocalipse"
+data_fonte = "10/05/2025"
+pasta_fonte = "ciclos/P2025-05-10"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2025-05-10.txt"
+sha256_fonte = "3b722743fbd2a09b2cbe82d12539734fb74beeacae7b6a4ff9ce44a946990b81"
+
+baseline_commit = "eb87e39"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = ["RC-854 Apocalipse (livro de João, ditado por Sofia/Rockman)", "RC-855 João Evangelista (apóstolo, o discípulo amado)", "RC-856 Saulo de Tarso / Paulo (criador do 'Jesus Cristo')"]
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 3       # termos novos: RC-854/855/856 (Apocalipse, João Evangelista, Paulo)
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 18    # os 18 códigos do pacote carregam P2025-05-10
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

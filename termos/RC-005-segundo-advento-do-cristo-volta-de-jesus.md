@@ -167,3 +167,7 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 
 - **[Antes e depois da divisão do comando] (U0005)** «Os mentores cósmicos afirmam que a história deste universo, dentro em pouco, será dividida em dois momentos, o antes da divisão do comando e o depois da divisão do comando.» — a história do universo será dividida em 'o antes da divisão do comando e o depois da divisão do comando' — a vinda de Jesus (RC-005) será o divisor de águas.
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Selos, trombetas e taças] (U0010)** «Ele coloca que entre a sexta e a sétima trombeta, ou seja, isso aqui seria a penúltima trombeta, que é exatamente essa que a gente acabou de ver com os tanques de guerra.» — a estrutura do Apocalipse (RC-005): sete selos, sete trombetas, sete taças — 'entre a sexta e a sétima trombeta' os 'decretos do pequeno livro aberto'; a sétima anuncia a vinda de Sofia.
+

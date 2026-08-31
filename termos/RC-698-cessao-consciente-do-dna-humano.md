@@ -34,9 +34,15 @@ Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial
 
 - **[Cessão Consciente do DNA — só com carinho] (U0004)** «Se não for com carinho, se não existia a consciência do ser humano, querendo ele mesmo dar algo dele para Javé, ou seja lá para quem for, isso nunca vai funcionar direito.» — só a cessão consciente (com carinho) do DNA humano funciona; tudo que é roubado "pifa".
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[O óvulo de Maria e o genoma emprestado] (U0003)** «E só aí houve um óvulo de Maria que foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial.» — o óvulo de Maria 'foi fecundado não por um espermatozoide, mas por algo que veio espécie de inseminação artificial' — o genoma de Rockman (RC-698).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-02-16 | U0781–U0786 | aula/palestra STT |
 

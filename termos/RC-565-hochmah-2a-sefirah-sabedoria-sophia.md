@@ -128,10 +128,16 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 
 - **[Hochmah — a personificação da sabedoria] (U0006)** «Esse ser que a gente chama Sofia, mas o nome dele original é Hockma, não é nome, é um epíteto, que significa personificação da sabedoria.» — Hochmah (STT "Hockma/Rockma") é epíteto ("personificação da sabedoria"); os gregos o chamaram Sofia.
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Rockman = Chochma = Vishnu] (U0003)** «Isso é um ardil que novamente você, o talman e o ser que produziu hockman, que é choquma em termos de cabala, mas que é o mesmo víno da São Ariana.» — Rockman é 'choquma' (Chochma/Hochmah, RC-565) 'em termos de cabala, mas que é o mesmo Vishnu da [linha] ariana'.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |

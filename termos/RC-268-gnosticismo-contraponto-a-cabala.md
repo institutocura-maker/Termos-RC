@@ -17,10 +17,16 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 - **Thot por trás:** "se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles";
 - O Gnosticismo é citado como herança do conhecimento codificado por Thot (com os demais focos) — conexão com RC-463 (nova aresta).
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Nag Hammadi e os livros gnósticos] (U0004)** «Quando em Nagramade, 13 rolos com 52 manuscritos foram descobertos.» — em Nag Hammadi (RC-268), '13 rolos com 52 manuscritos' gnósticos — escondidos pelos monges desde o séc. IV (Atanásio) — foram descobertos em 1945.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2023-12-02 | bloco dos focos de revelação | palestra/STT pré-curada |
 
 ## Citação-chave

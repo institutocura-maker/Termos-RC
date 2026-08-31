@@ -33,9 +33,15 @@ Com isso:
 
 - **[P2023-12-03 · O QUE ELE EXPLICOU DEPOIS]** «ele explicou como Jesus ressuscitado, o porquê de não agir, porque não queria entrar em guerra com os arcontes do universo vizinho, que não queriam deixar que ele, Jesus, o ressuscitado, assumisse a vestimenta de verdadeiro herdeiro da trimurte e seu suzerano desse universo, como ele foi engendrado para ser.» (U0004) — A ressurreição é lida como resposta à inação: Sofia explica, como ressuscitado, por que não assume. Entrada com aspa e endereço; nenhuma relação nova com RC-005 além da que o cadastro já tinha.
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B014 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

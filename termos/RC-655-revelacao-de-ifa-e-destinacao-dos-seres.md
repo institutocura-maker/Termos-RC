@@ -43,9 +43,15 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[P2025-10-25 — FONTE ORIGINAL] A Revelação de Ifá e a destinação dos seres (Pergunta 5 — Adilson):** "a revelação de Ifá e a destinação dos seres é o assunto número um da espiritualidade... a revelação de Ifá é a maior revelação que existe, só que nós desconhecemos"; "isso foi meio que perdido também na noite dos tempos: a cultura iorubá surgiu lá na Arábia Saudita, desceu para a África, terminou vindo para cá no Brasil, e isso foi transformado em Umbanda, Candomblé"; palestra "A Revelação de Ifá e a Destinação dos Seres" em 29/11 (Rio de Janeiro) — o autor prevê lançar o livro sobre o tema ("eu não sei se nessa vida eu fico só fazendo palestras").
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Ifá e a destinação dos seres] (U0003)** «Ela tem como base 256 caminhos profetizáveis ou caminhos chamados de odus na linguagem iorubá, que foi produzida em torno dessa visão mais profunda.» — a revelação de Ifá (RC-655) tem '256 caminhos profetizáveis' (odus, em iorubá): a destinação dos seres — distinta do profetismo de obediência judaico-cristão.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2025-10-25 | ver dossiê e transcrição | live/STT |
 
 ## Citações-chave

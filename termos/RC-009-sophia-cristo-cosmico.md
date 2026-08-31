@@ -402,3 +402,8 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[Sofia, o primeiro ser livre do PIA] (U0012)** «E o fato é que surgiu o primeiro ser engendrado além do padrão da inevitabilidade ancestral, ou seja, surgiu primeiro ser livre do peso do padrão da inevitabilidade ancestral.» — Sofia (RC-009): o primeiro ser engendrado livre do peso do padrão de inevitabilidade ancestral; engendrado por Morlens como avatar de Vishnu para comandar o universo biológico.
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Rockman, o ser que cedeu o genoma] (U0003)** «Porém, entra em cena agora o tal ser chamado Rockman.» — Rockman (RC-009/RC-565, 'o tal ser chamado Rockman'): o ser biodemo que cedeu seu genoma para inseminar Maria — o Cristo cósmico de 'A Caminho da Luz'.
+- **[Sofia, o ser não emocional] (U0037)** «Esse ser ele não é emocional, ele é um ser que foi engendrado há 5 se bilhões de anos atrás.» — Sofia (RC-009) 'é um ser que foi engendrado há 5 [bilhões de] anos' — não é emocional, não ama; age entre ordem e desordem.
+

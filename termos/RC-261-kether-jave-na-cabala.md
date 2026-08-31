@@ -48,9 +48,15 @@ B013 demonstra que Javé "há muito tempo tenta explicar e entender a sua 'situa
 
 - **[P2023-12-03 · KETHER (JAVÉ NA CABALA) NA FALA DE 03/12/2023]** «preparado o humano Jesus para servir a Keter ou javera ou brama.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2025-05-10 (Mistérios do Apocalipse)
+
+- **[Getsêmani: velha vs nova aliança] (U0003)** «Você criou essa coisa de velha aliança com os patriarcas, com todos esses que nos que antecederam a história no povo do povo hebreu, judeu.» — no Getsêmani, Jesus opôs a 'nova aliança' (amar) à 'velha aliança' do temor (RC-261); Javé/Kether recusou: 'não tem nada de lhe livrar desse cálice'.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | Tzimtzum (B013) | caps. 1, 6, 11 | pp. 13, 75–85, 130–140 (aprox.) | termo central |
