@@ -43,9 +43,15 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 - **[B048 p. 15]** Constatação: “Somos nós e os demais seres deste universo, quem fazemos cumprir o único e verdadeiro ‘favor divino’… a Deidade fez e ainda faz a uma das suas divindades menores, que gerou uma ‘criação indevida’.”
 - **[B048 p. 65–66]** o termo é “provocação”: “O ‘favor divino’ que aqui utilizo tem como objetivo apenas o de provocar o entendimento do (a) leitor (a)”; o gesto da Deidade “em lugar nenhum é visto como um ‘favor’”. RC-063 permanece **sem ficha**. Sem fusão com B041 / B034 / B036.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[100 trilhões de mônadas para o favor divino] (U0059)** «Olha, a gente vai precisar de 100 trilhõezinhos de mondadas ou 100 trilhõezinhos de espíritos para cada um fazer o favor divino.» — o favor divino quantificado: 100 trilhões de mônadas/espíritos, uma para cada célula apodrecida de Javé, inoculando em si a doença específica.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
 | Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |

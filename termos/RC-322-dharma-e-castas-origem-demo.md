@@ -39,9 +39,16 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 - **[P2023-12-03 · DHARMA E CASTAS (ORIGEM DEMO) NA FALA DE 03/12/2023]** «substituir a única regra da erdo que sai de um ser volta para ele pelo tipo de karma dármico que ele explicou no Bagavaguita, que é um dos capítulos do Marrabarato, quando ele diz para Aruna, Oruna pode matar Já que o mal precisa ter destruído, que eu Cristo, que sou o Senhor supremo, garanto que» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[O dharma de cada varna] (U0047)** «O eu de um alguém pertencente a uma certa varna tem que cumprir o dharma daquela varna.» — a lei do dharma aplicada ao talento único (varna) de cada ser demo: cumprir o dharma da varna gera karma positivo.
+- **[Varna define a posição social (a casta)] (U0047)** «E esse um talento é um tipo de varna que define a posição social. dele no VAR na que ele se encontra, ou seja, naquilo que foi chamado de casta.» — os seres do universo vizinho têm um único talento (varna), que define sua casta; "VAR" é grafia STT para varna.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | B023 — *O Dharma e as Castas Hindus* | a preencher | — | paráfrase (registro do cadastro; página a conferir) |

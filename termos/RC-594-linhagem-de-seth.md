@@ -31,9 +31,15 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 - **[Sete, produzido por Lemion] (U0003)** «Sete produzido por Lemi a genética escolhida toda.» — Sete (RC-594), terceiro filho de Adão e Eva, foi 'produzido por Lemi' — Lemion escolheu o espermatozoide e passou-lhe o entendimento do que os anjos de Javé faziam com a linhagem; Sete recusou obedecer.
 - **[Satã surgiu de Sete] (U0003)** «E o nome de Satã hoje existe, exatamente devido a essa interferência que Lenion fez em Set, terceiro filho de Adão e Eva, e sete passou a ter seguidores, cuja corruptela O nome seria, ou seja, Satã surgiu daqui.» — o nome 'Satã' existe 'exatamente devido a essa interferência que Lenion fez em Set': Sete passou a ter seguidores cuja corruptela gerou o nome Satã — na conta de Elusbell, que era quem se projetava.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[Sete herdou a assinatura quântica] (U0017)** «Então, Set, terceiro filho de Adão e Eva, foi aquele que herdou a genética, a assinatura quântica.» — Sete, terceiro filho de Adão e Eva, herdou a assinatura quântica que Javé retirou de si e deu a Adão.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0704; U0716–U0726 | transcrição automatizada; paráfrase e citação |

@@ -41,9 +41,15 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 
 - **[P2022-03-26 · BIG DATA CÓSMICO NA FALA DE 26/03/2022]** "quando Sofia se situa no meio daquela coisa que parece um quarto mais escuro, ele ali ele está se atualizando com tudo tudo o que aconteceu de nova informação no circuito dessas quase 250.000 famílias." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[O big data do criador (profecias até 2012)] (U0069)** «Javé tem um big data que produziu profecias de 3200 anos até o ano 2012, mas ele nunca soube exatamente quais dessas profecias inexoravelmente seriam cumpridas.» — o big data do criador produziu profecias de 3.200 anos (até 2012), mas Javé nunca soube quais se cumpririam.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra) | — | transcrição automatizada; citação |

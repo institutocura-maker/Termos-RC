@@ -74,3 +74,10 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2023-12-03 · O FINALIZADOR QUE NÃO FOI ESCOLHIDO]** «a entropia ou a força tamásica que a gente diz que foi chiva.» (U0004) — A entropia aparece como **ato de fechamento delegado**: como nada foi finalizado por projeto, a força tamásica finaliza. A frase do Q&A («Tudo. A entropia destrói tudo.») é a versão seca, e entra ao lado.
 
 ---
+
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[A matéria escura (21%)] (U0087)** «Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado.» — a composição do universo: 4% matéria bariônica, 21% matéria escura (mantém as galáxias coesas).
+- **[A energia escura (75%)] (U0087)** «Mas A maior componente do universo é algo que existe chamado energia escura, que corresponde a 75% do universo.» — a energia escura, 75% do universo, é o que rasga as galáxias para fora.
+- **[A mente universal emergente] (U0087)** «Por isso que uma mente biocosmos, eh, um biocosmos emergente, uma mente universal está surgindo da expansão desse universo.» — enquanto o universo se desorganiza, a informação se acumula e uma mente universal (biocosmos emergente) surge.
+

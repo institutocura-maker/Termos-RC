@@ -1,0 +1,231 @@
+{
+ "sigla": "P2023-02-12",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (131.335 chars / 89 unidades / 53 com fala). Recolhe formulações PRECISAS para 10 códigos JÁ EXISTENTES na KB (DNA submisso/independente em RC-727; tikum em RC-514; colapso da Trimurti em RC-174; dharma/varna em RC-322; pactos com povos em RC-781; big data do criador em RC-194; entropia/energia escura em RC-160; buraco branco/metaverso em RC-809; favor divino em RC-332; assinatura quântica de Sete em RC-594). NENHUM termo novo por conta própria: 6 lacunas reais declaradas (elo adâmico; desígnios proféticos; Código de Deus/Braden; Códigos da Bíblia/Drosnin; mente bicameral/Jaynes; suserania universal) ficam como candidatas, decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2023-02-12/original.txt",
+ "sha256": "159264c3d9dfcb9cd14f62ac771c0908315fcfd6322a0da5d8dd1a639f2a350f",
+ "bytes": 135848,
+ "unidades_com_fala": 53,
+ "spans": [
+  {
+   "codigo": "RC-727",
+   "u": "U0018",
+   "chars": [
+    50978,
+    51249
+   ],
+   "largura": 271,
+   "verificada": true,
+   "texto": "O DNA submisso do Adão bíblico presente no mundo inteiro, conforme os desígnios proféticos do Criador, é exatamente o DNA que tá por trás de todas as Essas religiões, quem quer que seja islâmico, bramânico, hinduísta, cristão ou judeu, tem entre aspas, a marca desse DNA."
+  },
+  {
+   "codigo": "RC-727",
+   "u": "U0018",
+   "chars": [
+    53255,
+    53333
+   ],
+   "largura": 78,
+   "verificada": true,
+   "texto": "Então, esse bendito DNA submisso é algo que precisa ser varrido da humanidade."
+  },
+  {
+   "codigo": "RC-727",
+   "u": "U0018",
+   "chars": [
+    56878,
+    56943
+   ],
+   "largura": 65,
+   "verificada": true,
+   "texto": "Esse DNA independente quase não existe, mas é preciso ser criado."
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0059",
+   "chars": [
+    99847,
+    99902
+   ],
+   "largura": 55,
+   "verificada": true,
+   "texto": "Ticum é o reparo tanto na obra quanto no criador caído."
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0074",
+   "chars": [
+    118111,
+    118276
+   ],
+   "largura": 165,
+   "verificada": true,
+   "texto": "O amor suporta muita coisa, o amor, mas o amor não produz esse tipo de mutação específica que cabalística se chama Ticum, tem que ser a racionalidade crítica humana."
+  },
+  {
+   "codigo": "RC-174",
+   "u": "U0018",
+   "chars": [
+    48218,
+    48469
+   ],
+   "largura": 251,
+   "verificada": true,
+   "texto": "2013, 2014, 2015, até o ano 2018, a minha condição humana foi obrigada a ver a colmeia que existe nesse universo vizinho, formado por essas três abelhas rainhas Javé, Virgem e Chiva, em um monte de abelha sem rainha e um monte de abelha demo operária."
+  },
+  {
+   "codigo": "RC-174",
+   "u": "U0018",
+   "chars": [
+    48499,
+    48657
+   ],
+   "largura": 158,
+   "verificada": true,
+   "texto": "Ano 2018, A trimurte colapsou porque a trimurte funcionava igual a uma colmeia de abelhas em que um C alfa da ordem, abelha rainha da ordem e o resto obedece."
+  },
+  {
+   "codigo": "RC-322",
+   "u": "U0047",
+   "chars": [
+    94470,
+    94557
+   ],
+   "largura": 87,
+   "verificada": true,
+   "texto": "O eu de um alguém pertencente a uma certa varna tem que cumprir o dharma daquela varna."
+  },
+  {
+   "codigo": "RC-322",
+   "u": "U0047",
+   "chars": [
+    94215,
+    94359
+   ],
+   "largura": 144,
+   "verificada": true,
+   "texto": "E esse um talento é um tipo de varna que define a posição social. dele no VAR na que ele se encontra, ou seja, naquilo que foi chamado de casta."
+  },
+  {
+   "codigo": "RC-781",
+   "u": "U0017",
+   "chars": [
+    35932,
+    36007
+   ],
+   "largura": 75,
+   "verificada": true,
+   "texto": "Foi pros arianos, assinou contrato de pacto com Gommer e seus descendentes."
+  },
+  {
+   "codigo": "RC-781",
+   "u": "U0017",
+   "chars": [
+    36709,
+    36840
+   ],
+   "largura": 131,
+   "verificada": true,
+   "texto": "Ele agora fez o movimento contrário, jogou fora os arianos, pegou de novo Shem em termos de descendência e fez um pacto com Abraão."
+  },
+  {
+   "codigo": "RC-781",
+   "u": "U0017",
+   "chars": [
+    37007,
+    37132
+   ],
+   "largura": 125,
+   "verificada": true,
+   "texto": "Aí vai na época de Jesus, que era um judeu que deveria ter dado continuar a continuidade ao pacto que ele fez com com Abraão."
+  },
+  {
+   "codigo": "RC-194",
+   "u": "U0069",
+   "chars": [
+    112043,
+    112203
+   ],
+   "largura": 160,
+   "verificada": true,
+   "texto": "Javé tem um big data que produziu profecias de 3200 anos até o ano 2012, mas ele nunca soube exatamente quais dessas profecias inexoravelmente seriam cumpridas."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0087",
+   "chars": [
+    128342,
+    128552
+   ],
+   "largura": 210,
+   "verificada": true,
+   "texto": "Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0087",
+   "chars": [
+    128553,
+    128664
+   ],
+   "largura": 111,
+   "verificada": true,
+   "texto": "Mas A maior componente do universo é algo que existe chamado energia escura, que corresponde a 75% do universo."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0087",
+   "chars": [
+    129749,
+    129872
+   ],
+   "largura": 123,
+   "verificada": true,
+   "texto": "Por isso que uma mente biocosmos, eh, um biocosmos emergente, uma mente universal está surgindo da expansão desse universo."
+  },
+  {
+   "codigo": "RC-809",
+   "u": "U0059",
+   "chars": [
+    97913,
+    98001
+   ],
+   "largura": 88,
+   "verificada": true,
+   "texto": "Essa ideia é um campo quântico, é um chamado buraco branco, como a física quântica defe."
+  },
+  {
+   "codigo": "RC-809",
+   "u": "U0059",
+   "chars": [
+    98946,
+    98986
+   ],
+   "largura": 40,
+   "verificada": true,
+   "texto": "Essa bolha é um metaverso nesse sentido."
+  },
+  {
+   "codigo": "RC-332",
+   "u": "U0059",
+   "chars": [
+    100724,
+    100852
+   ],
+   "largura": 128,
+   "verificada": true,
+   "texto": "Olha, a gente vai precisar de 100 trilhõezinhos de mondadas ou 100 trilhõezinhos de espíritos para cada um fazer o favor divino."
+  },
+  {
+   "codigo": "RC-594",
+   "u": "U0017",
+   "chars": [
+    29641,
+    29739
+   ],
+   "largura": 98,
+   "verificada": true,
+   "texto": "Então, Set, terceiro filho de Adão e Eva, foi aquele que herdou a genética, a assinatura quântica."
+  }
+ ],
+ "recusa": []
+}

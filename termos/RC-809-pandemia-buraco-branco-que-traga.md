@@ -27,9 +27,16 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (
 - **[A tração irreversível da criação] (U0012)** «A criação, uma vez iniciada, exerceu uma força de atração inexorável sobre ele.» — a criação, uma vez iniciada, exerceu 'uma força de atração inexorável' sobre o Criador — a dinâmica de buraco negro que o tragou (RC-809).
 - **[Brajna/Javé, refém do processo] (U0013)** «A partir desse momento, Brajna, agora Javé, tornou-se refém do processo, perdendo a conexão com seu eu profundo original e a noção do plano que pretendia finalizar.» — tragado pela obra, 'Brajna, agora Javé, tornou-se refém do processo', perdendo a conexão com seu eu profundo e a noção do plano que pretendia finalizar.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[O buraco branco: campo quântico de informação] (U0059)** «Essa ideia é um campo quântico, é um chamado buraco branco, como a física quântica defe.» — a ideia do criador caído é um campo quântico, um buraco branco (que, ao contrário do negro, emite informação).
+- **[A bolha como metaverso] (U0059)** «Essa bolha é um metaverso nesse sentido.» — a criação caída é uma bolha-metaverso; os espíritos que animam os humanos estão fora dela, ligados ao avatar.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0002 (S2) | — | palestra (fonte primária, STT) |

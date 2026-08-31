@@ -1,0 +1,107 @@
+# Pacote de ampliação — P2023-02-12
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT, não refatorada) lida na íntegra (131.335 chars). Recolhe formulações
+#   PRECISAS para 10 códigos JÁ EXISTENTES na KB. NENHUM termo novo por conta própria:
+#   6 lacunas reais declaradas em [lacunas] e BLOCO 2, decisão do Curador.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2023-02-12 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-727
+
+- **[O DNA submisso do Adão bíblico] (U0018)** «O DNA submisso do Adão bíblico presente no mundo inteiro, conforme os desígnios proféticos do Criador, é exatamente o DNA que tá por trás de todas as Essas religiões, quem quer que seja islâmico, bramânico, hinduísta, cristão ou judeu, tem entre aspas, a marca desse DNA.» — a contraparte do DNA insubmisso de Pandora–Eva–Noreia: o DNA de submissão que Javé pôs em Adão e que está por trás de todas as religiões impositivas.
+- **[A herança que precisa ser varrida] (U0018)** «Então, esse bendito DNA submisso é algo que precisa ser varrido da humanidade.» — a leitura de Ellam: o DNA submisso é herança do Criador a ser superada por esclarecimento, não por força.
+- **[O DNA independente] (U0018)** «Esse DNA independente quase não existe, mas é preciso ser criado.» — contraposto ao DNA submisso, o DNA independente é produzido pelo eu, não herdado.
+
+### RC-514
+
+- **[O ticum: reparo da obra e do criador] (U0059)** «Ticum é o reparo tanto na obra quanto no criador caído.» — a definição cabalística recolhida por Ellam: o reparo é duplo, na obra e no criador.
+- **[Ticum exige racionalidade crítica, não amor] (U0074)** «O amor suporta muita coisa, o amor, mas o amor não produz esse tipo de mutação específica que cabalística se chama Ticum, tem que ser a racionalidade crítica humana.» — o amor sustenta os eus, mas só a racionalidade crítica humana produz a mutação específica do ticum no genoma do criador.
+
+### RC-174
+
+- **[O colapso da colmeia trimurtiana (2018)] (U0018)** «2013, 2014, 2015, até o ano 2018, a minha condição humana foi obrigada a ver a colmeia que existe nesse universo vizinho, formado por essas três abelhas rainhas Javé, Virgem e Chiva, em um monte de abelha sem rainha e um monte de abelha demo operária.» — a colmeia do universo vizinho, com as três abelhas-rainha (Javé, Vishnu, Shiva), ruiu diante de Ellam entre 2013 e 2018.
+- **[A Trimurti funcionava como colmeia] (U0018)** «Ano 2018, A trimurte colapsou porque a trimurte funcionava igual a uma colmeia de abelhas em que um C alfa da ordem, abelha rainha da ordem e o resto obedece.» — o colapso de 2018 explicado pelo funcionamento colmeia da Trimurti (rainha + operárias obedientes).
+
+### RC-322
+
+- **[O dharma de cada varna] (U0047)** «O eu de um alguém pertencente a uma certa varna tem que cumprir o dharma daquela varna.» — a lei do dharma aplicada ao talento único (varna) de cada ser demo: cumprir o dharma da varna gera karma positivo.
+- **[Varna define a posição social (a casta)] (U0047)** «E esse um talento é um tipo de varna que define a posição social. dele no VAR na que ele se encontra, ou seja, naquilo que foi chamado de casta.» — os seres do universo vizinho têm um único talento (varna), que define sua casta; "VAR" é grafia STT para varna.
+
+### RC-781
+
+- **[O pacto com os arianos (Gomer)] (U0017)** «Foi pros arianos, assinou contrato de pacto com Gommer e seus descendentes.» — depois de largar os hebreus (por Faleque), Javé assina pacto com Gômer (arianos), apresentando-se como Brama.
+- **[O pacto com Abraão] (U0017)** «Ele agora fez o movimento contrário, jogou fora os arianos, pegou de novo Shem em termos de descendência e fez um pacto com Abraão.» — Javé abandona os arianos e volta à linhagem de Sem, pactuando com Abraão.
+- **[A continuidade do pacto via Jesus] (U0017)** «Aí vai na época de Jesus, que era um judeu que deveria ter dado continuar a continuidade ao pacto que ele fez com com Abraão.» — Jesus era o judeu que deveria dar continuidade ao pacto de Abraão, mas o desfaz.
+
+### RC-194
+
+- **[O big data do criador (profecias até 2012)] (U0069)** «Javé tem um big data que produziu profecias de 3200 anos até o ano 2012, mas ele nunca soube exatamente quais dessas profecias inexoravelmente seriam cumpridas.» — o big data do criador produziu profecias de 3.200 anos (até 2012), mas Javé nunca soube quais se cumpririam.
+
+### RC-160
+
+- **[A matéria escura (21%)] (U0087)** «Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado.» — a composição do universo: 4% matéria bariônica, 21% matéria escura (mantém as galáxias coesas).
+- **[A energia escura (75%)] (U0087)** «Mas A maior componente do universo é algo que existe chamado energia escura, que corresponde a 75% do universo.» — a energia escura, 75% do universo, é o que rasga as galáxias para fora.
+- **[A mente universal emergente] (U0087)** «Por isso que uma mente biocosmos, eh, um biocosmos emergente, uma mente universal está surgindo da expansão desse universo.» — enquanto o universo se desorganiza, a informação se acumula e uma mente universal (biocosmos emergente) surge.
+
+### RC-809
+
+- **[O buraco branco: campo quântico de informação] (U0059)** «Essa ideia é um campo quântico, é um chamado buraco branco, como a física quântica defe.» — a ideia do criador caído é um campo quântico, um buraco branco (que, ao contrário do negro, emite informação).
+- **[A bolha como metaverso] (U0059)** «Essa bolha é um metaverso nesse sentido.» — a criação caída é uma bolha-metaverso; os espíritos que animam os humanos estão fora dela, ligados ao avatar.
+
+### RC-332
+
+- **[100 trilhões de mônadas para o favor divino] (U0059)** «Olha, a gente vai precisar de 100 trilhõezinhos de mondadas ou 100 trilhõezinhos de espíritos para cada um fazer o favor divino.» — o favor divino quantificado: 100 trilhões de mônadas/espíritos, uma para cada célula apodrecida de Javé, inoculando em si a doença específica.
+
+### RC-594
+
+- **[Sete herdou a assinatura quântica] (U0017)** «Então, Set, terceiro filho de Adão e Eva, foi aquele que herdou a genética, a assinatura quântica.» — Sete, terceiro filho de Adão e Eva, herdou a assinatura quântica que Javé retirou de si e deu a Adão.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Elo Adâmico — CANDIDATO A TERMO NOVO (não materializado: decisão do curador). O garimpo
+#   não cria termo por conta própria; a lacuna está declarada em ciclo.toml [lacunas].
+#   Span de referência (não entra em ficha): «Toda a questão da Terra passa por esse elo
+#   adâmico, porque foi por meio do eladâmico que o genoma humano foi transformado na
+#   engrenagem do poder dos senhores da Timote.» (U0029) + «Esse elo adâmico terminou
+#   transformando o genoma humano numa engrenagem do poder que esses seres utilizam.» (U0035)
+#   Sobreposição parcial com RC-424 (Linhagem dos Escolhidos) e RC-727 (DNA Insubmisso).
+# Desígnios Proféticos (Desconexão) — CANDIDATO A TERMO NOVO (conceito-título da palestra;
+#   ausente na KB: RC-611/265/718 são sobre Moros/Zohar). Span de referência: «Então, profecia
+#   é uma invenção javeana para tentar fazer medo à pessoas, para que as pessoas obedeçam.»
+#   (U0018) + «Enfim, a desconexão dos desígnios proféticos de Javé é tamanha que árabes e
+#   judeus se detestam e dividem.» (U0067).
+# Código de Deus (Gregg Braden) / YHWH no DNA — FONTE EXTERNA (livro de Braden citado por
+#   Ellam); não materializa termo de fonte externa. Span: «Greg Braden tem um livro chamado
+#   O Código de Deus... quatro bases nitrogenadas...» (U0018).
+# Códigos da Bíblia (Michael Drosnin) — FONTE EXTERNA; idem. Span: «leia os três livros de
+#   Michael Droslin chamado Códigos da Bíblia.» (U0069).
+# Mente Bicameral (Julian Jaynes, 1976) — FONTE EXTERNA; idem. Span: «A questão da mente
+#   bicameral de Julian James continua existindo.» (U0017).
+# Suserania Universal (herança prometida a Rockma/Sofia) — conceito menor, fica como menção.
+#   Span: «a herança da suserania universal que Javé prometeu lá atrás a Rockma.» (U0069).
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras EXTERNAS citadas por Ellam (não são obras da RC; nada a harmonizar na Base):
+#   · Gregg Braden — "O Código de Deus" (o tetragrama YHWH nas quatro bases nitrogenadas);
+#   · Michael Drosnin — "Códigos da Bíblia" (3 livros; códigos na Torá, profecias até 2012);
+#   · Julian Jaynes — "The Origin of Consciousness..." (1976; a mente bicameral);
+#   · Oscar Wilde — "O Retrato de Dorian Gray" (metáfora da entropia transferida).
+#   Obras da RC referidas: "Favor Divino" (B048, o livro "Favor Divino para Cada Espírito"),
+#   "Irém Iron — Universos em Colisão", "Agentes da Vida" ("tocam a vida universal adiante").
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# Agenda de palestras anunciada (1º/04 Mafra-PT; 13–14/05 Clow/Irlanda; Dublin; Buenos Aires
+#   em espanhol) — dado conjuntural, não entra em ficha.
+# "Javé vai encarnar um dia como humano, daqui a milhões de anos" — promessa/profecia de longo
+#   prazo; fica no radar, não em ficha.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+- **RC-727 (veto léxico):** «Esse bendito DNA submisso aqui é uma m****, mas é a grande herança do Criador.» (U0018) — a formulação cai no veto léxico do ciclo (m****); a variante limpa que entrou em BLOCO 1 foi «Então, esse bendito DNA submisso é algo que precisa ser varrido da humanidade.»

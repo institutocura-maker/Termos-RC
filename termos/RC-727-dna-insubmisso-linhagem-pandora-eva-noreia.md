@@ -151,3 +151,9 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[O DNA de Pandora não tinha lacres] (U0003)** «O DNA de Pandora não tinha lacres, travas e bloqueadores.» — o DNA de Pandora (RC-727) não tinha lacres, travas e bloqueadores — ao contrário do DNA mexido por Enki (RC-486), 'obediente'; Eva carregava o DNA pandórico, a jogada de Lemion contra Javé.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[O DNA submisso do Adão bíblico] (U0018)** «O DNA submisso do Adão bíblico presente no mundo inteiro, conforme os desígnios proféticos do Criador, é exatamente o DNA que tá por trás de todas as Essas religiões, quem quer que seja islâmico, bramânico, hinduísta, cristão ou judeu, tem entre aspas, a marca desse DNA.» — a contraparte do DNA insubmisso de Pandora–Eva–Noreia: o DNA de submissão que Javé pôs em Adão e que está por trás de todas as religiões impositivas.
+- **[A herança que precisa ser varrida] (U0018)** «Então, esse bendito DNA submisso é algo que precisa ser varrido da humanidade.» — a leitura de Ellam: o DNA submisso é herança do Criador a ser superada por esclarecimento, não por força.
+- **[O DNA independente] (U0018)** «Esse DNA independente quase não existe, mas é preciso ser criado.» — contraposto ao DNA submisso, o DNA independente é produzido pelo eu, não herdado.
+

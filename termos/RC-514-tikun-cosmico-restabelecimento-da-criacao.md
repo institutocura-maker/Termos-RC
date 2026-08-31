@@ -81,10 +81,17 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **[O ticum: reparo técnico pelos humanos] (U0003)** «Mas entre os humanos hoje tem o conceito do ticum, que foi o próprio Jahé que reconheceu isso e disse: "Realmente eu e a minha criação precisamos de reparo técnico e só quem pode fazer esse reparo técnico são os humanos".» — o ticum (RC-514): Javé reconheceu que 'eu e a minha criação precisamos de reparo técnico e só quem pode fazer esse reparo técnico são os humanos' — os judeus distorceram em 'povo escolhido'.
 
+## Ampliação — P2023-02-12 (A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo)
+
+- **[O ticum: reparo da obra e do criador] (U0059)** «Ticum é o reparo tanto na obra quanto no criador caído.» — a definição cabalística recolhida por Ellam: o reparo é duplo, na obra e no criador.
+- **[Ticum exige racionalidade crítica, não amor] (U0074)** «O amor suporta muita coisa, o amor, mas o amor não produz esse tipo de mutação específica que cabalística se chama Ticum, tem que ser a racionalidade crítica humana.» — o amor sustenta os eus, mas só a racionalidade crítica humana produz a mutação específica do ticum no genoma do criador.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
