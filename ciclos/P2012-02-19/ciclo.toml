@@ -24,14 +24,14 @@ veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 2       # termos novos: RC-852/853 (Prajapati, Sankalpa)
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+arquivos = 6      # fichas materializadas nesta devolutiva (RC-852/853 + 4 centrais)
+ficha_true = 6   # viradas no cadastro: as mesmas 6 (False → True)
+termos = 2       # RC-852/853 (Prajapati, Sankalpa)
+relacoes = 0     # nenhuma aresta nova — aresta só tipada + evidência + selo datado
 vinculos = 20    # os 20 códigos do pacote carregam P2012-02-19
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-852", "RC-853", "RC-075", "RC-526", "RC-230", "RC-190"]  # ordem do Curador na devolutiva
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -42,12 +42,34 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
 
 [tese]
-pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+pontos = [
+  "A Lila (RC-075) é o xadrez cósmico jogado desde antes da criação do universo entre Brama (Javé, força Rajas), Vishnu (Sofia/Jesus/Cristo cósmico, força Sattva) e Shiva (Saibaba, força Tamas) — as três gunas que correspondem aos três pilares de criação, sustentação e dissolução.",
+  "O criador Prajapati (RC-852) hesitou após expelir sua criação singular e foi tragado pela própria obra (RC-809), tornando-se Brama/Javé (RC-001): uma 'projeção holográfica do seu corpo mental' sem alma, cuja natureza doentia (RC-526) distribuiu um DNA marcado pela 'sobrevivência a qualquer custo' (RC-230).",
+  "Vishnu (RC-135), como Sofia/Cristo cósmico, dá o modelo consciencial para libertar os espíritos; Shiva (RC-102) dissolve as formas monstruosas e ensina os yogues; Jesus (RC-005) só retornará com a 'divisão do comando', enquanto a revelação espírita (RC-190, Kardec) e a Falsa Trindade de Niceia (RC-273) marcam o desfecho da Lila.",
+]
 
 [definicoes]
+RC-852 = "Prajapati (STT 'prajapati'/'para Japati'): a divindade criadora na mitologia ariana/hindu — a que, 'também chamada de prajapati', hesitou depois de expelir sua criação singular e, pela hesitação, foi tragada pela própria obra (RC-809); só então passou a chamar-se Brama (RC-037/Javé, RC-001)."
+RC-853 = "Sankalpa (STT 'sancalpa'): palavra sânscrita que condensa em uma só expressão o que o português exige ~30 palavras — a força de vontade e o conhecimento íntimos de quem 'já abriu os compartimentos da alma para produzir aparentes milagres'."
+RC-075 = "Lila: o jogo cósmico jogado 'mesmo antes da criação desse universo' (STT 'lila', L-I-L-A) — as regras do xadrez entre Brama, Vishnu e Shiva que 'atropelam a toda e qualquer noção de dignidade, de essência e ética' humanas; intraduzível nas línguas ocidentais."
+RC-526 = "Demência do Criador (fases da condição de Javé): a condição doentia de Javé/Brama (RC-001) — o 'impulso mental incontrolável' que o levou a criar um universo imperfeito; 'não é porque ele seja atrasado, é porque a sua natureza é doentia'."
+RC-230 = "Reflexos da Doença (Herança do DNA): a marca que a doença do criador deixou na criação — 'a sobrevivência a qualquer custo está ainda marcada no DNA de todas as espécies'; o DNA humano 'só está 3% ativado' (97% 'DNA lixo'), dando folga aos espíritos para despertar."
+RC-190 = "Revelação Espiritual (Kardec): a transmissão, na segunda metade do século XIX, da equipe do Espírito da Verdade 'apoiado nos esforços de Kardec e outros na França' — a revelação espírita que a turma de Javé, sem ver além da criação, tomou como traição."
 
 [observacoes]
+RC-852 = ["**Grafia STT:** 'prajapati' / 'para Japati' = Prajapati. O nome que a divindade tinha antes de se tornar prisioneira da própria criação e passar a ser chamada de Brama."]
+RC-853 = ["**Grafia STT:** 'sancalpa' = Sankalpa. O sânscrito condensa em uma palavra o que exige ~30 palavras em português."]
+RC-075 = ["**Grafia STT:** 'lila' (soletrada 'L I L A'). Intraduzível; = o jogo/leela cósmico entre as três divindades."]
+RC-526 = ["**Grafia STT:** 'doença' / 'natureza é doentia' / 'impulso mental incontrolável'. A condição de Javé é doença, não atraso evolutivo."]
+RC-230 = ["**Grafia STT:** 'DNA lixo' / 'só está 3% ativado'. Os 97% de DNA 'lixo' dão folga aos espíritos para despertarem."]
+RC-190 = ["**Grafia STT:** 'Kardec' (literal). A revelação espírita transmitida pela equipe do Espírito da Verdade."]
 
 [travas]
 
 [lacunas]
+RC-852 = "fecha a lacuna de Prajapati como a divindade criadora que, hesitando, foi tragada pela própria criação antes de virar Brama"
+RC-853 = "fecha a lacuna de Sankalpa como o conceito sânscrito da força de vontade e conhecimento que produz milagres"
+RC-075 = "fecha a lacuna da Lila como o jogo cósmico jogado desde antes da criação do universo"
+RC-526 = "fecha a lacuna da Demência do Criador como a condição doentia (impulso mental incontrolável) de Javé"
+RC-230 = "fecha a lacuna dos Reflexos da Doença como a sobrevivência a qualquer custo marcada no DNA (3% ativado, 97% lixo)"
+RC-190 = "fecha a lacuna da Revelação Espiritual como a transmissão do Espírito da Verdade apoiada em Kardec"

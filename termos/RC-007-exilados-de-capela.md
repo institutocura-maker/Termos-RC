@@ -55,7 +55,6 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 
 - **[Os exilados de Capela resgatados] (U0005)** «E aí Aí começa uma história dos exilados de capela que Chico Xavier e Emmanuel desde 1938 no livro A Caminho da Luz já resgataram para a modernidade.» — a história dos exilados de Capela (RC-007) foi resgatada por Chico Xavier e Emmanuel desde 1938, no livro 'A Caminho da Luz'.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

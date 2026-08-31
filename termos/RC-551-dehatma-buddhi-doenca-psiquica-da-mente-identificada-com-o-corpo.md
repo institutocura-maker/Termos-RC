@@ -42,7 +42,6 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 
 - **[Dehatma Buddhi, o engano com o corpo] (U0004)** «Derratman Bud também uma outra palavra que diz daquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade e pensa que ele é isso que os outros pensam que eles são.» — Dehatma Buddhi (RC-551, STT 'Derratman Bud'): a palavra sânscrita para 'aquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade'.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

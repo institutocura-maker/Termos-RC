@@ -38,7 +38,6 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 
 - **[Os três pilares de criação, sustentação e dissolução] (U0005)** «Esses três gunas corresponde aos três pilares de criação, sustentação e dissolução do universo.» — as três gunas correspondem aos 'três pilares de criação, sustentação e dissolução do universo' — Brama (Rajas), Vishnu (Sattva) e Shiva (Tamas).
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

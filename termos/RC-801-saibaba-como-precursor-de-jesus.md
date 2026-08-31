@@ -23,7 +23,6 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 - **[As três encarnações de Shiva] (U0005)** «Por isso, ele nasceu primeiro como baba de Sird, Sat Saibaba e agora retorna como prima, sai como se dizendo a Brama, ó, eu me estou estou me fazendo ser humano e como ser humano eu não posso lhe enfrentar.» — Shiva programou três encarnações: nasceu 'primeiro como baba de Sird [Shirdi], Sat Saibaba, e agora retorna como prima sai [Prem Sai]' — dizendo a Brama que, humano, já não pode enfrentá-lo.
 - **[A morte adiantada de Saibaba] (U0005)** «Mas ainda assim, como Chiva havia humilhado Brama várias vezes, como Shiva, enquanto já Saibaba disse que só desencarnaria em 2021, Javé fez com que eles encarnasse antes para devolver a humilhação.» — como Saibaba disse que 'só desencarnaria em 2021', Javé fez com que ele desencarnasse antes 'para devolver a humilhação' — resultado da Lila.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

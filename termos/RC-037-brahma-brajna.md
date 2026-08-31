@@ -117,7 +117,6 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[Brama não é Brahman] (U0005)** «E assim o deus Brama não confundir com Brahman, o deus incognocis.» — Brama (RC-037), 'cuja característica mental é rajas', não deve ser confundido com Brahman, 'o deus incognoscível' (RC-047) — Brama é 'uma mera divindade'.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

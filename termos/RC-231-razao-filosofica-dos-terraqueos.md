@@ -43,7 +43,6 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 
 - **[A razão filosófica, dádiva do homo sapiens] (U0005)** «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — somos 'uma das poucas raças no cosmos, com a razão filosófica desperta' (RC-231) — para o bem e para o mal, algo que as civilizações cósmicas valorizam imensamente.
 
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

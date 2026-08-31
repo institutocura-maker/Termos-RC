@@ -49,7 +49,6 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 
 - **[As três gunas compõem tudo] (U0005)** «Segundo a concepção dos nossos irmãos arianos hindus, existem três gunas que formam ou compõem absolutamente tudo que existe.» — as três gunas (RC-151) 'formam ou compõem absolutamente tudo que existe' — e o que podemos perceber é só 4% da matéria e energia do universo.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

@@ -37,7 +37,6 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 
 - **[Niceia 325 e a Santíssima Trindade] (U0005)** «Quando no concílio de Missé em 325 depois de Cristo, Jesus foi igualado a Deus quando surgiu o conceito da Santíssima Trindade, aí é que Javé não aceitou mesmo.» — no Concílio de Niceia (RC-273, STT 'Missé'), em 325 d.C., Jesus foi igualado a Deus e surgiu a Santíssima Trindade — 'aí é que Javé não aceitou mesmo'.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

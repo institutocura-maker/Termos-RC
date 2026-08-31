@@ -40,7 +40,6 @@ Com isso:
 
 - **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

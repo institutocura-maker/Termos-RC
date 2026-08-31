@@ -131,7 +131,6 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[Shiva e a dissolução das formas] (U0005)** «E esse poder dessa terceira deidade hindu chamado Shiva, que tem o poder de Dissolução das formas.» — Shiva (RC-102) tem 'o poder de Dissolução das formas': cabe à sua força Tamas destruir o que atrapalha a obra imperfeita e, no fim, absorver as cinzas do universo.
 - **[Shiva, o Senhor dos Yogues] (U0005)** «Por isso que Shiva é o Senhor dos Yogues.» — Shiva é 'o Senhor dos Yogues': pelos ensinamentos yogues ensina o espírito a se livrar do sansara e retornar à pátria espiritual apesar do corpo doentio.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

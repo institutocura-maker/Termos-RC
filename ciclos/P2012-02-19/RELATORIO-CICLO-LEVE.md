@@ -2,7 +2,7 @@
 
 **Palestra:** `2012-02-19 - Xadrez Cósmico de Brahma, Vishnu e Shiva.txt`
 **Tema:** a *Lila* — o xadrez cósmico entre Brama (Javé), Vishnu (Sofia/Jesus/Cristo cósmico) e Shiva (Saibaba).
-**Status:** GARIMPO concluído — aguardando homologação do curador para a devolutiva.
+**Status:** ENCERRADO — devolutiva homologada e executada (commit `bb78779` garimpo · devolutiva materializada e commitada).
 
 ---
 
@@ -63,3 +63,13 @@ RC-231 (Razão Filosófica), RC-551 (Dehatma Buddhi), RC-230 (Reflexos da Doenç
 - **Nelson Granado** — figura humana real (amigo do palestrante), presente só na abertura anedótica; não é termo da malha.
 - **Baba de Shirdi / Prem Sai** — as três encarnações de Shiva absorvidas em RC-801 (não fragmentadas em termos novos).
 - **Trilogia "Mistério das Índias"** e **"As Chaves do Eu Profundo"** — obras do autor, não termos.
+
+## 6. Devolutiva (homologada)
+
+- **24 pérolas aprovadas**; 18 ampliações validadas; ancoragem cirúrgica (projeção holográfica de Javé, 3% do DNA, encarnações de Saibaba).
+- **RC-852 (Prajapati) e RC-853 (Sankalpa) homologados** como termos; fichas próprias materializadas.
+- **Materialização imediata das 6 fichas pendentes:** RC-852, RC-853, RC-075 (Lila), RC-526 (Demência do Criador),
+  RC-230 (Reflexos da Doença), RC-190 (Revelação Espiritual) — agora com arquivo `.md` e `ficha=True`.
+- **Decisões curatoriais:** descarte de Nelson Granado, Mu e obras do autor; encarnações de Shirdi/Prem Sai absorvidas em RC-801.
+- **Delta da devolutiva:** `arquivos +6 · ficha_true +6 · termos +2 · relacoes 0 · vinculos +20`.
+- **KB final:** 853 termos · 1.857 relações · 565 arquivos · 564 `ficha=True`. Ciclo **P2012-02-19 encerrado**.
