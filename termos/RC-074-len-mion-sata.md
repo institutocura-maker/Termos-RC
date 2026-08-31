@@ -85,7 +85,6 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[Lemion assume o comando do QG da rebelião] (U0003)** «E eh em 2004, Valon disse que iria aprofundar o que ele não fez, porque talvez já não tenha colaborado, num assunto que ao nos anos 90, eh, os espíritos que haviam escrito comigo o livro Reintegração Cósmica haviam tocado, que foi a distinção muito forte entre ebel e Lemi que foi o fato deles dizerem que Lenior após a saída de Osbel do contexto terreno, logo após a crucificação de Jesus, fazendo com que Lemi a partir dali assumisse o comando do que restava do quartel general da rebelião.» — Len Mion (Satã, RC-074) assumiu o comando do que restava do quartel-general da rebelião após a saída de Lúcifer (RC-078) do contexto terreno, logo após a crucificação de Jesus.
 - **[Lemion, 'muito pior que Javé'] (U0003)** «Nemon a partir daí se tornou alguém muito pior do que a Javé.» — o palestrante avalia Len Mion (STT 'Nemon') como 'alguém muito pior do que Javé' — não por criar, mas por controlar processos; a mente mais bem aplicada durante ~22.000 anos.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

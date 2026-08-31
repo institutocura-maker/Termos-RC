@@ -73,7 +73,6 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[FOXP2 colocado no DNA humano] (U0017)** «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — o FOXP2 (RC-486) já existia ~9.000 anos atrás, colocado no DNA humano pelos Anunnaki quando precisavam de 'macacóides inteligentes' para trabalhar o ouro — a ciência data o gene em ~50.000 anos.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

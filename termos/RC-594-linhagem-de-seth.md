@@ -26,7 +26,6 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 
 - **[Sete e a origem do nome Satã] (U0014)** «O nome 7, Satã, derivou desse dessa coisa aqui, desse episódio, desse momento.» — o nome 'Satã' derivou do episódio em que Lemion buscou transformar Sete (Seth, RC-594) em seu representante humano — 'alguém que venerava Set'.
 
-
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

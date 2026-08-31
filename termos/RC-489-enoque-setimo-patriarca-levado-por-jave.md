@@ -86,7 +86,6 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[Javé quis tirar Enoque] (U0014)** «Aí a história Nem que vocês já sabem, o Javé queria fazer com Enoque não conseguiu fazer com Adão, com S.» — Javé quis fazer com Enoque (RC-489) — DNA 'limpo' da influência de Lemion — o que não conseguira com Adão e Sete; Enoque foi retirado e ditou 300+ livros a Matusalém.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

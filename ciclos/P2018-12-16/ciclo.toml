@@ -24,14 +24,14 @@ veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 4       # termos novos: RC-846/847/848/849 (Maria Orsic, Vril, Thule, Tesla)
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+arquivos = 7      # fichas materializadas nesta devolutiva (a fila aberta, ordem do Curador)
+ficha_true = 7   # viradas no cadastro: as mesmas 7 (False → True)
+termos = 4       # RC-846/847/848/849 (Maria Orsic, Vril, Thule, Tesla)
+relacoes = 0     # nenhuma aresta nova — aresta só tipada + evidência + selo datado
 vinculos = 17    # os 17 códigos do pacote carregam P2018-12-16
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-846", "RC-847", "RC-848", "RC-849", "RC-239", "RC-376", "RC-031"]  # ordem do Curador na devolutiva
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -42,12 +42,37 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
 
 [tese]
-pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+pontos = [
+  "Após a implosão de Lúcifer (RC-078) diante do Jesus crucificado, Len Mion/Satã (RC-074) assume o comando do QG da rebelião e torna-se, na avaliação do autor, 'muito pior que Javé' — não por criar, mas por controlar processos, com a mente mais bem aplicada por ~22.000 anos.",
+  "Lemion disputa a linhagem de Adão com os agentes de Sofia (os seres Aia/Aye, RC-031): tenta cooptar Sete (daí o nome 'Satã', RC-594), acompanha Enoque (RC-489), detesta Judas Iscariotes (= Ielan, RC-365) e, vencido por Jesus/Sofia (RC-009), volta-se ao mundo humano pela teurgia e pela Igreja.",
+  "O desfecho é a Era Sapiens (RC-238), fechada no nazismo: Lemion domina Hitler (RC-239) pela 'voz', operando por trás das sociedades Vril (RC-847) e Thule (RC-848), da médium Maria Orsic (RC-846) e do circuito que inclui Nicola Tesla (RC-849).",
+]
 
 [definicoes]
+RC-846 = "Maria Orsic (STT 'Maria Orstic/Rossique'): médium vidente da Sociedade Vril (RC-847) que, com as 'Ringles', recebia mensagens em línguas antigas (sumério-acadiano) repassando a 'ciência perdida' — Lemion (RC-074) operava por trás dessa raça, municiando o salto tecnológico nazista."
+RC-847 = "Sociedade Vril (STT 'sociedade do frio/vila'): fundada em 1902, só de mulheres médiuns ('frioistas'); recebia mensagens de uma raça alienígena que propunha repassar a 'ciência perdida' da época dos deuses para que a Alemanha desenvolvesse armas e dominasse o mundo."
+RC-848 = "Sociedade Thule (STT 'sociedade Turno/Tudo'): a influência esotérica de Rudolf von Sebottendorf (1918), que estudava a 'Turciade' e o governo oculto desde os hiperbóreos; Himmler comandava o castelo de Wewelsburg como laboratório da paranormalidade alemã."
+RC-849 = "Nicola Tesla (figura histórica): recebia mensagens em sânscrito e as reproduzia — no mesmo circuito mediúnico de Maria Orsic (RC-846); morreu em 1943."
+RC-239 = "Hitler (STT 'Rita/Rit'): obedecia a uma voz — Lemion (RC-074) — que o preservava e o conduzia como 'novo Messias' alemão; o palestrante ancora na pesquisa do livro 'A Mente de Hitler' (Langer/CIA)."
+RC-376 = "José de Arimatéia: uma espécie de 'segundo pai' de Jesus; riquíssimo (minas, caravanas, cidadania romana), sustentava a carpintaria de Jesus e Tiago sem se impor."
+RC-031 = "Aya e Aye: os agentes de Sofia que queriam influenciar Sete; Lemion disputou Sete com o Zaia (Aia), cada um em nome de seu lado."
 
 [observacoes]
+RC-846 = ["**Grafia STT:** 'Maria Orstic' / 'Maria Rossique' = Maria Orsic. Médium vidente da Sociedade Vril; com as 'Ringles' recebia mensagens em línguas antigas (sumério-acadiano)."]
+RC-847 = ["**Grafia STT:** 'sociedade do frio' / 'sociedade vila' = Sociedade Vril. Fundada em 1902; só mulheres médiuns ('frioistas')."]
+RC-848 = ["**Grafia STT:** 'sociedade Turno' / 'sociedade Tudo' = Sociedade Thule. Influência esotérica de Rudolf von Sebottendorf (1918); a 'Turciade' e o governo oculto."]
+RC-849 = ["**Grafia STT:** 'Nicola Tesla' (literal). Recebia mensagens em sânscrito e as reproduzia; morreu em 1943."]
+RC-239 = ["**Grafia STT:** 'Rita' / 'Rit' / 'Riti' / 'Rito' = Hitler. Obedecia a uma voz (Lemion) que o conduzia como 'novo Messias' alemão."]
+RC-376 = ["**Grafia STT:** 'José de Arimateia' / 'José deimateia' / 'José deat' = José de Arimatéia. 'Segundo pai' de Jesus; riquíssimo."]
+RC-031 = ["**Grafia STT:** 'seres aia' / 'Zaia' / 'Aia' = Aya e Aye. Agentes de Sofia que disputaram Sete com Lemion."]
 
 [travas]
 
 [lacunas]
+RC-846 = "fecha a lacuna de Maria Orsic como a médium da Sociedade Vril que repassava a 'ciência perdida'"
+RC-847 = "fecha a lacuna da Sociedade Vril ('sociedade do frio'), fundada em 1902"
+RC-848 = "fecha a lacuna da Sociedade Thule ('sociedade Turno') e o laboratório de Wewelsburg"
+RC-849 = "fecha a lacuna de Nicola Tesla no circuito mediúnico (mensagens em sânscrito)"
+RC-239 = "fecha a lacuna de Hitler como o 'novo Messias' dominado pela voz de Lemion"
+RC-376 = "fecha a lacuna de José de Arimatéia como o 'segundo pai' de Jesus"
+RC-031 = "fecha a lacuna dos seres Aia/Aye como agentes de Sofia na disputa por Sete"

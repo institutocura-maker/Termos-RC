@@ -40,7 +40,6 @@ Com isso:
 
 - **[Começa a Era Sapiens] (U0014)** «Começa a era SAS.» — a Era Sapiens (STT 'era SAS') começou depois de dois grandes cataclismos (~9.000 anos) que varreram quase todas as bases de seres extraterrestres atuantes na Terra.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

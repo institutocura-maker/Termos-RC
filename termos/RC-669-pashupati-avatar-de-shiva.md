@@ -28,7 +28,6 @@ Forma validada pelo curador.
 
 - **[Pashupati reinava na Índia] (U0014)** «Ele sabia que lá na tradição pro Maricandã na Índia, um outro ser Esse se apresentava chamado Pachipat, que era a expressão de Chico, tava reinando absoluto com os próumanos da época, com os seres humanos da época.» — Pashupati (STT 'Pachipat', RC-669), a expressão de Shiva, reinava absoluto com os 'pró-humanos' da Índia na época de Adão (tradição Maricandã).
 
-
 ## Fontes
 P2018-12-16.
 P2022-05-07.

@@ -39,7 +39,6 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 
 - **[as raças que restaram após o cataclismo] (U0014)** «Atuantes por algum tempo, restaram ainda os Nefel, os sirianos, os Dropa e os gigantes bravos.» — após os cataclismos (~9.000 anos), restaram os Nefilins (STT 'Nefel', = Anunnakis RC-024), os sirianos, os Dropa e os gigantes brancos (RC-488).
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

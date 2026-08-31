@@ -112,7 +112,7 @@ TERMOS = [
     ("RC-028", "Atlan", LOK_TER[0], LOK_TER[1], P, ["B031", "B017", "B018", "B039", "B006"], "RC-030; RC-079; RC-010", False),
     ("RC-029", "Atlans", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-030; RC-010; RC-028", False),
     ("RC-030", "Atlantes", SER_DEC[0], SER_DEC[1], P, ["B031"], "RC-010; RC-028; RC-029; RC-022; RC-023", False),
-    ("RC-031", "Aya e Aye", SER_ANJ[0], SER_ANJ[1], P, ["B031", "B024", "B044", "B061", "P2021-05-15", "P2018-12-16"], "RC-019; RC-009; RC-001; RC-097", False),
+    ("RC-031", "Aya e Aye", SER_ANJ[0], SER_ANJ[1], P, ["B031", "B024", "B044", "B061", "P2021-05-15", "P2018-12-16"], "RC-019; RC-009; RC-001; RC-097", True),
     ("RC-032", "Benem", LOK_TER[0], LOK_TER[1], P, ["B031", "B017", "B018", "B061"], "RC-057; RC-065; RC-043", False),
     ("RC-033", "Bhuloka", TER_SAN[0], TER_SAN[1], P, ['B031', 'P2025-03-15'], 'RC-107; RC-034; RC-038', False),
     ("RC-034", "Big Bang", COS_COG[0], COS_COG[1], P, ['B031', 'B024', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2023-12-03'], 'RC-033; RC-107; RC-106', False),
@@ -335,7 +335,7 @@ TERMOS = [
     ("RC-236", "O Calvário de um Inocente", EVE_GUE[0], EVE_GUE[1], P, ["B039", "B011"], "RC-072; RC-078; RC-074; RC-142", True),
     ("RC-237", "Land's End (Sinal de Land's End)", LOK_TER[0], LOK_TER[1], P, ["B017"], "RC-010; RC-028; RC-039", False),
     ("RC-238", "Era Sapiens", EVE_ERA[0], EVE_ERA[1], P, ["B039", "P2018-12-15", "P2018-12-16"], "RC-010; RC-155; RC-099", True),
-    ("RC-239", "Hitler (figura histórica no RC)", SER_HUM[0], SER_HUM[1], P, ["B039", "P2018-12-16"], "RC-074; RC-078; RC-236", False),
+    ("RC-239", "Hitler (figura histórica no RC)", SER_HUM[0], SER_HUM[1], P, ["B039", "P2018-12-16"], "RC-074; RC-078; RC-236", True),
     ("RC-240", "Império dos Descendentes dos Seres dos Portais", GEN_EXT[0], GEN_EXT[1], P, ['B018', 'P2024-09-29'], 'RC-241; RC-010; RC-030; RC-145; RC-736', False),
     ("RC-241", "Seres dos Portais", SER_DEC[0], SER_DEC[1], P, ['B017', 'B018', 'B039', 'B031', 'B021', 'P2022-12-17', 'P2023-12-03'], "RC-049; RC-145; RC-097; RC-027; RC-051; RC-086; RC-240", True),
 
@@ -496,7 +496,7 @@ TERMOS = [
     ("RC-373", "Os 20 Anos de Jesus entre os Celtas", EVE_MIS[0], EVE_MIS[1], P, ["B043"], "RC-072; RC-374; RC-375; RC-094", True),
     ("RC-374", "Mordon (o Druida da Montanha)", SER_HUM[0], SER_HUM[1], P, ["B043"], "RC-373; RC-375; RC-072; RC-094", False),
     ("RC-375", "Druidas Celtas (contexto RC)", SER_HUM[0], SER_HUM[1], P, ["B043", 'P2023-06-03', 'P2023-12-03'], "RC-373; RC-374; RC-094", True),
-    ("RC-376", "José de Arimatéia (no corpus RC)", SER_HUM[0], SER_HUM[1], P, ["B043", "B011", 'P2026-08-04', "P2018-12-16"], "RC-373; RC-072; RC-094", False),
+    ("RC-376", "José de Arimatéia (no corpus RC)", SER_HUM[0], SER_HUM[1], P, ["B043", "B011", 'P2026-08-04', "P2018-12-16"], "RC-373; RC-072; RC-094", True),
     ("RC-377", "Brendiver e Dolman (personagens celtas)", SER_HUM[0], SER_HUM[1], P, ["B043"], "RC-373; RC-374; RC-094", False),
 
     # ---- Novos termos de B041 (obra primária: A Rebelião dos Elétrons e o Código de Vida do Criador, 2018)
@@ -1022,10 +1022,10 @@ TERMOS = [
     ("RC-843", "Eru Ilúvatar (criador no Silmarillion)", SER_DIV[0], SER_DIV[1], C, ["P2018-12-15"], 'RC-152; RC-037; RC-135; RC-102; RC-092', True),
     ("RC-844", "Melkor (o filho dissonante)", SER_DEC[0], SER_DEC[1], C, ["P2018-12-15"], 'RC-002; RC-078; RC-716; RC-843', True),
     ("RC-845", "Nada Brahma (tudo é som)", TER_SAN[0], TER_SAN[1], C, ["P2018-12-15"], 'RC-154; RC-152; RC-038', True),
-    ("RC-846", "Maria Orsic (médium da Sociedade Vril)", SER_HUM[0], SER_HUM[1], C, ["P2018-12-16"], 'RC-847; RC-848; RC-239; RC-074', False),
-    ("RC-847", "Sociedade Vril", COS_ESP[0], COS_ESP[1], C, ["P2018-12-16"], 'RC-846; RC-848; RC-239; RC-849', False),
-    ("RC-848", "Sociedade Thule", COS_ESP[0], COS_ESP[1], C, ["P2018-12-16"], 'RC-847; RC-846; RC-239', False),
-    ("RC-849", "Nicola Tesla (recebia mensagens em sânscrito)", SER_HUM[0], SER_HUM[1], C, ["P2018-12-16"], 'RC-847; RC-239; RC-074', False),
+    ("RC-846", "Maria Orsic (médium da Sociedade Vril)", SER_HUM[0], SER_HUM[1], C, ["P2018-12-16"], 'RC-847; RC-848; RC-239; RC-074', True),
+    ("RC-847", "Sociedade Vril", COS_ESP[0], COS_ESP[1], C, ["P2018-12-16"], 'RC-846; RC-848; RC-239; RC-849', True),
+    ("RC-848", "Sociedade Thule", COS_ESP[0], COS_ESP[1], C, ["P2018-12-16"], 'RC-847; RC-846; RC-239', True),
+    ("RC-849", "Nicola Tesla (recebia mensagens em sânscrito)", SER_HUM[0], SER_HUM[1], C, ["P2018-12-16"], 'RC-847; RC-239; RC-074', True),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)

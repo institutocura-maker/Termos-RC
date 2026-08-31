@@ -28,7 +28,6 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 
 - **[Ielan veio a ser Judas Iscariotes] (U0003)** «Mas assim, Lemi ele ele tinha uma versão profunda por Ielan, que veio a ser Judas Iscariotes.» — Judas Iscariotes era a encarnação de Ielan (família Iel), a quem Lemion detestava; o único apóstolo da elite judaica (Judeia), o que explica o papel dele no processo do Sinédrio (RC-365).
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

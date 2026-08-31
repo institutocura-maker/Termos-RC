@@ -46,7 +46,6 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 
 - **[os hiperbóreos e o código ariano] (U0014)** «Porque eles esses bolos tinha uma certa cota do código que viria criar os arianos depois.» — os hiperbóreos (RC-068) tinham a cota do código que viria criar os arianos: conheciam a história da rebelião (900 milhões de anos), eram pacíficos e transmitiram essa linhagem via Gomer.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |
