@@ -1,0 +1,286 @@
+{
+ "sigla": "P2023-02-11",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (136.349 chars / 52 linhas / 31 com fala / 24.716 palavras). Tese: Jesus, o agente humano inseminado por Sofia em Maria para cumprir a agenda do Messias violento de Javé, recusou o script — a decisão do eu (não do DNA) desfez os pactos, propôs a nova aliança e deixou a promessa de que Sofia estabeleceria a suzerania universal na Terra (o freio que protege a humanidade). Recolhe formulações PRECISAS para 15 códigos JÁ EXISTENTES (RC-072, RC-009, RC-474, RC-854, RC-856, RC-834, RC-692, RC-727, RC-857, RC-858, RC-859, RC-002, RC-074, RC-366, RC-565) + blocos de referência para os 3 códigos em fila aberta (RC-857/858/859, ficha=False). NENHUM termo novo por conta própria: 6 lacunas reais declaradas (proferidor; loca; nova aliança; extísicos; essênios; Graiel/Amael) ficam como candidatas, decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2023-02-11/original.txt",
+ "sha256": "f858750aae17a57a479c4954f0e0f8d894e5f344430e65f1827f32a6f458b25a",
+ "bytes": 140821,
+ "unidades_com_fala": 31,
+ "spans": [
+  {
+   "codigo": "RC-072",
+   "u": "U0009",
+   "chars": [
+    16335,
+    16477
+   ],
+   "largura": 142,
+   "verificada": true,
+   "texto": "Ele já veio com o livre arbítrio dele, travado, lacrado para ser somente o o cumprid cumpridor de tudo o que a sua genética já havia recebido."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0009",
+   "chars": [
+    17081,
+    17183
+   ],
+   "largura": 102,
+   "verificada": true,
+   "texto": "Como vocês vão ver, ele chegou a um ponto da vida dele que ele olhou e disse: \"Eu não vou fazer isso\"."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0010",
+   "chars": [
+    42847,
+    42979
+   ],
+   "largura": 132,
+   "verificada": true,
+   "texto": "e dizer para ele mesmo: \"Ou tá errado isso aqui ou tô errado eu."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0029",
+   "chars": [
+    65055,
+    65162
+   ],
+   "largura": 107,
+   "verificada": true,
+   "texto": "O Produto de Sofia em Maria foi o corpo, mas o modo humano de Jesus ser não foi o produto de Jesus e Maria."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0025",
+   "chars": [
+    63995,
+    64071
+   ],
+   "largura": 76,
+   "verificada": true,
+   "texto": "Mas lembre-se, no caso que você colocou, Sofia e Jesus tem o mesmo espírito."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0026",
+   "chars": [
+    64890,
+    64953
+   ],
+   "largura": 63,
+   "verificada": true,
+   "texto": "A hora que a fatia de Jesus voltou paraa Sofia, ela não voltou."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0033",
+   "chars": [
+    88885,
+    89066
+   ],
+   "largura": 181,
+   "verificada": true,
+   "texto": "Sofia é um ser radiata que não é nem macho nem fêmea, não tem uma emoção, porque no cérebro radiata dele não tem hipocampo nem amídala cerebral que permita sentir emoções mamíferas."
+  },
+  {
+   "codigo": "RC-474",
+   "u": "U0033",
+   "chars": [
+    83522,
+    83718
+   ],
+   "largura": 196,
+   "verificada": true,
+   "texto": "Essa mesma expressão em grego pode ser chamada de geno ou e Então, arconte é um dono de um eu, um arconte é um dono de um gêno, um arconte é um dono de uma loca, ou seja, de uma cidade espiritual."
+  },
+  {
+   "codigo": "RC-474",
+   "u": "U0033",
+   "chars": [
+    86036,
+    86112
+   ],
+   "largura": 76,
+   "verificada": true,
+   "texto": "Como é o mesmo ser também e é o nome islâmico, então Javé é o arconte chefe."
+  },
+  {
+   "codigo": "RC-474",
+   "u": "U0033",
+   "chars": [
+    90700,
+    90759
+   ],
+   "largura": 59,
+   "verificada": true,
+   "texto": "E hoje o que é que esses arcontos pensam de Jesus? Traidor."
+  },
+  {
+   "codigo": "RC-854",
+   "u": "U0033",
+   "chars": [
+    77984,
+    78283
+   ],
+   "largura": 299,
+   "verificada": true,
+   "texto": "Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria."
+  },
+  {
+   "codigo": "RC-856",
+   "u": "U0034",
+   "chars": [
+    108289,
+    108382
+   ],
+   "largura": 93,
+   "verificada": true,
+   "texto": "que conta a versão oficial sobre Jesus, a que Paulo transmitiu, mas Paulo nem conheceu Jesus."
+  },
+  {
+   "codigo": "RC-834",
+   "u": "U0009",
+   "chars": [
+    18919,
+    19095
+   ],
+   "largura": 176,
+   "verificada": true,
+   "texto": "Esse ser retirou dele a sua, entre aspas, assinatura quântica genética e os seus anjos no sentido de auxiliares diretos, inseminaram uma criança de 15 anos, como a gente falou."
+  },
+  {
+   "codigo": "RC-692",
+   "u": "U0033",
+   "chars": [
+    76747,
+    76885
+   ],
+   "largura": 138,
+   "verificada": true,
+   "texto": "Ao muito pelo contrário, ele acrescentou uma série de coisas que só a condição humana, a experiência humana pode dar a um uma consciência."
+  },
+  {
+   "codigo": "RC-727",
+   "u": "U0025",
+   "chars": [
+    62701,
+    62773
+   ],
+   "largura": 72,
+   "verificada": true,
+   "texto": "É o eu que está ou sendo vítima daquela cota do DNA ou que está gerindo."
+  },
+  {
+   "codigo": "RC-857",
+   "u": "U0010",
+   "chars": [
+    32386,
+    32720
+   ],
+   "largura": 334,
+   "verificada": true,
+   "texto": "Desde então, toda aquela descendência de Adão, sete Enos, Cainâ, Alalah, Jared, Enoque, Matusalém, Laneque, Noé, Senas, Faxad, Salé, blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá, Ana, Maria, Jesus, essa descendência aqui que tinha uma genética submissa aos eus situados para além da blindagem, melhor dizendo, da camuflagem."
+  },
+  {
+   "codigo": "RC-857",
+   "u": "U0010",
+   "chars": [
+    36594,
+    36675
+   ],
+   "largura": 81,
+   "verificada": true,
+   "texto": "E o DNA de Maria era um DNA meio, vamos dizer, inconformado com certas situações."
+  },
+  {
+   "codigo": "RC-858",
+   "u": "U0008",
+   "chars": [
+    4227,
+    4881
+   ],
+   "largura": 654,
+   "verificada": true,
+   "texto": "E a exemplo de uma estrada que você vai num carro e sempre tem placas de sinalização ao lado, a história da Terra começou a receber placas de sinalização de avisos vindos de outros níveis, cujo era exatamente a sinalização que deveria estar escrito para que quando esse ser fosse produzido, ele pudesse ler nas placas de sinalização da sua vida, se reconhecer como sendo o tal ser humano que foi avisado em tudo que é placa de sinalização e nessas placas de sinalização que a gente pode chamar de profecias que foram feitas ao longo de mais de 1500 anos, sempre cada profeta de cada época dizendo o que é que o grande Messias quando viesse deveria fazer."
+  },
+  {
+   "codigo": "RC-858",
+   "u": "U0010",
+   "chars": [
+    32180,
+    32287
+   ],
+   "largura": 107,
+   "verificada": true,
+   "texto": "O Messias que eu vou enviar irá dominar toda a terra pela força e trará toda a humanidade para o meu julgo."
+  },
+  {
+   "codigo": "RC-859",
+   "u": "U0033",
+   "chars": [
+    77448,
+    77552
+   ],
+   "largura": 104,
+   "verificada": true,
+   "texto": "Essa promessa que eu estou fazendo a vocês será fielmente cumprida pelo meu eu cósmico, que seria Rockb."
+  },
+  {
+   "codigo": "RC-859",
+   "u": "U0038",
+   "chars": [
+    125755,
+    126006
+   ],
+   "largura": 251,
+   "verificada": true,
+   "texto": "Espero que vocês tenham compreendido que a promessa de um ser humano que foi crucificado como mero vagabundo, criminoso, mas é o freio que tem protegido a humanidade até hoje de maiores encrencas foras que a gente já teve, que a gente ainda coleciona."
+  },
+  {
+   "codigo": "RC-002",
+   "u": "U0034",
+   "chars": [
+    101641,
+    101737
+   ],
+   "largura": 96,
+   "verificada": true,
+   "texto": "Foi quando Lúcifer disse: \"Uau, é o meu comandante contra o qual me rebelei 700.000 anos antes\"."
+  },
+  {
+   "codigo": "RC-074",
+   "u": "U0034",
+   "chars": [
+    99662,
+    99691
+   ],
+   "largura": 29,
+   "verificada": true,
+   "texto": "Lemion é conhecido como Satã."
+  },
+  {
+   "codigo": "RC-366",
+   "u": "U0010",
+   "chars": [
+    55240,
+    55368
+   ],
+   "largura": 128,
+   "verificada": true,
+   "texto": "Ele tinha poderes para isso, se fez igual, ou seja, criou um corpo de plasma igual desses seres e disse: \"Bando de carapálidas\"."
+  },
+  {
+   "codigo": "RC-565",
+   "u": "U0009",
+   "chars": [
+    27710,
+    27771
+   ],
+   "largura": 61,
+   "verificada": true,
+   "texto": "Ele disse: \"Não sei, parece que um diretor executivo de Deus."
+  }
+ ],
+ "recusa": []
+}

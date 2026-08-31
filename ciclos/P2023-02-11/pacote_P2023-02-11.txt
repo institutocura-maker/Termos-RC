@@ -1,0 +1,182 @@
+# Pacote de ampliação — P2023-02-11 · Agente Humano Jesus e os Arcontes
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT, não refatorada) lida na íntegra (136.349 chars / 52 linhas / 31 com
+#   fala / 24.716 palavras). Recolhe formulações PRECISAS para 15 códigos JÁ EXISTENTES na
+#   KB + 3 códigos em fila aberta (RC-857/858/859, ficha=False, com blocos de referência).
+#   NENHUM termo novo por conta própria: 6 lacunas reais declaradas em [lacunas] e BLOCO 2
+#   (proferidor; loca; nova aliança; extísicos; essênios; Graiel/Amael), decisão do Curador.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2023-02-11 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-072
+
+- **[O agente humano sem livre-arbítrio] (U0009)** «Ele já veio com o livre arbítrio dele, travado, lacrado para ser somente o o cumprid cumpridor de tudo o que a sua genética já havia recebido.» — Jesus nasceu para executar um mandato missionário: diferentemente dos demais humanos, que podem virar o eu gestor do próprio genoma, Jesus veio "todo colecionado", com o livre-arbítrio travado e lacrado para cumprir o que a genética de Sofia havia recebido.
+- **[O drama inteiro da história] (U0009)** «Como vocês vão ver, ele chegou a um ponto da vida dele que ele olhou e disse: "Eu não vou fazer isso".» — o ponto de virada: o eu humano de Jesus recusa o script do Messias; "esse é o drama inteiro da história, que não terminou".
+- **[A dúvida entre as escrituras e a própria consciência] (U0010)** «e dizer para ele mesmo: "Ou tá errado isso aqui ou tô errado eu.» — o dilema de Jesus diante das escrituras: se elas estão erradas, o Deus do seu povo é que estaria errado; mas ele se sabia o Messias profetizado, e não conseguia cumprir a violência prevista.
+- **[O modo humano de Jesus ser] (U0029)** «O Produto de Sofia em Maria foi o corpo, mas o modo humano de Jesus ser não foi o produto de Jesus e Maria.» — a resposta à pergunta de Horácio: o que Sofia produziu em Maria foi o corpo; o modo humano de Jesus ser foi produto do espírito e da capacidade do próprio eu, influenciado pelo DNA de ambos — o "agente humano" do título.
+
+### RC-009
+
+- **[Sofia e Jesus: o mesmo espírito] (U0025)** «Mas lembre-se, no caso que você colocou, Sofia e Jesus tem o mesmo espírito.» — a tese que "contraria o espiritismo frontalmente": o espírito que anima Sofia e o que animou Jesus é o mesmo; e esse espírito não manda em nenhum dos dois — é mandado, carregando a consciência fateada.
+- **[A fatia que não voltou] (U0026)** «A hora que a fatia de Jesus voltou paraa Sofia, ela não voltou.» — o destino do eu de Jesus: quando o corpo ressuscitado devolveu a Sofia o kit de elétrons, a fatia de consciência de Jesus não retornou — permanece no espírito, que não pode fazer uso dela.
+- **[Sofia radiata, sem emoções mamíferas] (U0033)** «Sofia é um ser radiata que não é nem macho nem fêmea, não tem uma emoção, porque no cérebro radiata dele não tem hipocampo nem amídala cerebral que permita sentir emoções mamíferas.» — a constituição de Sofia: cérebro radiata (RC-631), sem gênero e sem a maquinaria límbica das emoções mamíferas; "aquela coisa belíssima de longe, de perto meio rosto duro, como se fosse de pedra".
+
+### RC-474
+
+- **[O arconte: dono de uma loca] (U0033)** «Essa mesma expressão em grego pode ser chamada de geno ou e Então, arconte é um dono de um eu, um arconte é um dono de um gêno, um arconte é um dono de uma loca, ou seja, de uma cidade espiritual.» — a definição recolhida: loca (sânscrito, "morada celeste") = geno (grego) = a morada astral de cada arconte no universo vizinho; "os arcontes são as figuras da aristocracia do poder trimurtiano".
+- **[Brahma = Javé = o nome islâmico: o arconte chefe] (U0033)** «Como é o mesmo ser também e é o nome islâmico, então Javé é o arconte chefe.» — o mesmo ser da Trimurti é Brahma na mitologia ariana hindu, Javé na história hebraica e o nome islâmico; Javé é o arconte chefe e todos os descendentes da Trimurti são arcontes.
+- **[O que os arcontes pensam de Jesus hoje: traidor] (U0033)** «E hoje o que é que esses arcontos pensam de Jesus? Traidor.» — a acusação dos arcontes: Jesus teria "jogado sujo para fazer com que o herdeiro da trimurte fosse Sofia e não Zeus" — e os arcontes que pretendiam herdar a vestimenta de suzerano estão com os dias contados.
+
+### RC-854
+
+- **[O Apocalipse: a confirmação de Sofia] (U0033)** «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — ~70 anos após a crucificação, Sofia (então chamada assim pelos seguidores de Jesus reunidos em torno de Maria Madalena) ditou, via um anjo, a João — o único apóstolo ainda vivo — os termos do Apocalipse: a ratificação da promessa de retorno feita pelo eu humano de Jesus.
+
+### RC-856
+
+- **[Paulo nunca conheceu Jesus] (U0034)** «que conta a versão oficial sobre Jesus, a que Paulo transmitiu, mas Paulo nem conheceu Jesus.» — a Igreja Católica do século 4 escolheu a versão de Paulo (o "Jesus Cristo", herói da Marvel) e destruiu as demais; Paulo, que nunca conheceu Jesus, inventou o Cristo das versões oficiais.
+
+### RC-834
+
+- **[Os anjos de Sofia inseminaram Maria] (U0009)** «Esse ser retirou dele a sua, entre aspas, assinatura quântica genética e os seus anjos no sentido de auxiliares diretos, inseminaram uma criança de 15 anos, como a gente falou.» — o mecanismo da concepção: Sofia retirou de si a assinatura quântica genética e seus anjos-auxiliares (as famílias Aya/Aye, RC-834/835) inseminaram Maria, então uma criança de 15 anos, sem o concurso de pai humano.
+
+### RC-692
+
+- **[O acréscimo que só a condição humana dá] (U0033)** «Ao muito pelo contrário, ele acrescentou uma série de coisas que só a condição humana, a experiência humana pode dar a um uma consciência.» — Jesus ressuscitou o corpo para devolver a Sofia o kit de elétrons recebido sob a forma de genoma: devolveu-o intacto, "sem nenhuma sujeira", e acrescentado de tudo o que só a experiência humana pode dar a uma consciência.
+
+### RC-727
+
+- **[É o eu que decide, não o DNA] (U0025)** «É o eu que está ou sendo vítima daquela cota do DNA ou que está gerindo.» — a resposta de Ellam: nem o DNA de Maria nem o de ninguém provoca coisa alguma; é o eu que ou é vítima da cota do genoma ou a gere — a decisão de Jesus foi do eu, apoiada no epigenoma humano.
+
+### RC-857
+
+- **[A genética submissa da genealogia] (U0010)** «Desde então, toda aquela descendência de Adão, sete Enos, Cainâ, Alalah, Jared, Enoque, Matusalém, Laneque, Noé, Senas, Faxad, Salé, blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá, Ana, Maria, Jesus, essa descendência aqui que tinha uma genética submissa aos eus situados para além da blindagem, melhor dizendo, da camuflagem.» — a cadeia Adão→Jesus carregou a genética submissa aos eus situados além da camuflagem; o elo adâmico percorre toda a genealogia até o "agente humano" Jesus.
+- **[Maria, da tribo de Benjamin: o DNA inconformado] (U0010)** «E o DNA de Maria era um DNA meio, vamos dizer, inconformado com certas situações.» — Maria era Galileia, da tribo de Benjamin (levada à Gália e de volta ao Oriente Médio, "pequena gália"); seu DNA, mexido por cem situações de luta e sobrevivência, deu a Jesus um palco mental onde ele não foi totalmente escravo do DNA de Sofia.
+
+### RC-858
+
+- **[As placas de sinalização] (U0008)** «E a exemplo de uma estrada que você vai num carro e sempre tem placas de sinalização ao lado, a história da Terra começou a receber placas de sinalização de avisos vindos de outros níveis, cujo era exatamente a sinalização que deveria estar escrito para que quando esse ser fosse produzido, ele pudesse ler nas placas de sinalização da sua vida, se reconhecer como sendo o tal ser humano que foi avisado em tudo que é placa de sinalização e nessas placas de sinalização que a gente pode chamar de profecias que foram feitas ao longo de mais de 1500 anos, sempre cada profeta de cada época dizendo o que é que o grande Messias quando viesse deveria fazer.» — os desígnios proféticos como sinalização: mais de 1.500 anos de profecias (as escrituras do povo judeu, "as placas de sinalização para a vida de todo e qualquer judeu") preparando o reconhecimento do Messias.
+- **[O Messias da força de Javé] (U0010)** «O Messias que eu vou enviar irá dominar toda a terra pela força e trará toda a humanidade para o meu julgo.» — o desígnio de Javé: o Messias deveria derrotar Roma, fazer dos judeus o império mundial e trazer toda a humanidade submissa ao seu jugo — o script que Jesus recusou.
+
+### RC-859
+
+- **[A promessa cumprida pelo eu cósmico] (U0033)** «Essa promessa que eu estou fazendo a vocês será fielmente cumprida pelo meu eu cósmico, que seria Rockb.» — a promessa de retorno de Jesus ("pode passar a terra, os céus, mas minhas palavras não passarão") será cumprida pelo seu eu cósmico — Rockman/Sofia (RC-565); promessa pendente, ratificada pelo Apocalipse.
+- **[O freio que protege a humanidade] (U0038)** «Espero que vocês tenham compreendido que a promessa de um ser humano que foi crucificado como mero vagabundo, criminoso, mas é o freio que tem protegido a humanidade até hoje de maiores encrencas foras que a gente já teve, que a gente ainda coleciona.» — a promessa de Jesus — que Sofia estabeleceria a sede espiritual da sua suzerania universal na Terra — é o freio que impede até hoje o domínio dos arcontes sobre a Terra.
+
+### RC-002
+
+- **[O comandante contra o qual me rebelei] (U0034)** «Foi quando Lúcifer disse: "Uau, é o meu comandante contra o qual me rebelei 700.000 anos antes".» — ao ver Jesus ressuscitado se fazer igual a Sofia, Lúcifer reconhece o comandante contra o qual se rebelou 700.000 anos antes e implode; o espírito de Jesus e outros recolhem o astral de Lúcifer.
+
+### RC-074
+
+- **[Lemion é conhecido como Satã] (U0034)** «Lemion é conhecido como Satã.» — a identificação: Lemion (grafia STT de Len Mion, RC-074) é o ser conhecido como Satã; "Satã se tornou monstruoso como Hitler se tornou monstruoso. Mas Lúcifer não" — e, achando que Jesus raptava Lúcifer, Satã substituiu Lúcifer no comando da rebelião até o ano 1992.
+
+### RC-366
+
+- **[A transfiguração: corpo de plasma e "Não invadam"] (U0010)** «Ele tinha poderes para isso, se fez igual, ou seja, criou um corpo de plasma igual desses seres e disse: "Bando de carapálidas".» — no monte Tabor, diante da nave da aristocracia cósmica (os apóstolos adormecidos, anjos clones presentes), Jesus transfigura o corpo humano em corpo de plasma igual ao dos seres e os enfrenta na linguagem de Capela — sistema onde Rockman/Sofia tem a sede governamental neste universo — com a ordem de não invadirem.
+
+### RC-565
+
+- **[Rockman: o diretor executivo de Deus] (U0009)** «Ele disse: "Não sei, parece que um diretor executivo de Deus.» — a resposta de José de Arimateia à pergunta do jovem Jesus sobre quem era Rockman: segundo o livro da Sabedoria de Salomão, um diretor executivo de Deus — "Deus sem esse diretor executivo não teria feito o que fez"; a mesma pergunta que o menino Jesus fizera aos rabinos do Sinédrio sem resposta.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# SEIS CANDIDATOS DECLARADOS — decisão do Curador. Nenhum foi criado por conta própria:
+# o garimpo entrega os spans de referência; a devolutiva decide o que promove a código
+# (padrão do ciclo P2023-02-12: RC-857/858/859 nasceram assim, em fila aberta).
+#
+# 1) PROFERIDOR — conceito próprio de Ellam (profecia que impõe, não predispõe). A KB tem
+#    RC-858 (Desígnios Proféticos) e RC-718, mas nenhum código cobre o "proferidor" como
+#    função/distinção. Span: «E de todo mundo que cerca Javé, só Jesus sabia ser proferidor, ou seja, distinguir de todas as possibilidades proféticas o que é que exatamente aconteceria.» (U0033 · 81925-82082).
+#
+# 2) LOCA — conceito próprio (morada celeste dos arcontes; = geno grego; "cidade espiritual",
+#    "morada astral, uma faixa de realidade desse universo vizinho"). Não existe termo na KB.
+#    Spans: «Ou seja, loca é uma expressão sânscrita que quer dizer morada celeste.» (U0033 · 83450-83521) + «Essa mesma expressão em grego pode ser chamada de geno ou e Então, arconte é um dono de um eu, um arconte é um dono de um gêno, um arconte é um dono de uma loca, ou seja, de uma cidade espiritual.» (U0033 · 83521-83718).
+#
+# 3) NOVA ALIANÇA — conceito próprio (a proposta de Jesus, contraposta à velha aliança dos
+#    pactos de Javé; "na velha aliança não previa o fator humano preocupado com a dignidade").
+#    A KB tem RC-781 (Pactos de Javé) mas não a nova aliança como termo. Spans: «Messias não é para produzir nova aliança.» (U0033 · 70557-70599) + «É porque na velha aliança não previa O fator humano preocupado com a dignidade.» (U0033 · 70755-70835).
+#
+# 4) EXTÍSICOS — conceito próprio (seres do universo vizinho: "se metamorfoseiam, não são
+#    biológicos, esses são compostos de plasma e vinham para cá pelos portais quando estes
+#    estavam abertos"). A KB tem RC-241/295 (portais) e RC-630 (corpo de plasma), mas não o
+#    termo "extísico". Span: «Mas tem também os seres extísicos, ou seja, que são desse universo vizinho, que podem ser chamar também de extraterrestres, mas esses aqui se metamorfoseiam, não são biológicos, esses são compostos de plasma e vinham para cá pelos portais quando estos estavam abertos.» (U0034 · 116295-116564).
+#
+# 5) ESSÊNIOS (grafia STT "enênios") — grupo histórico citado por Ellam (João Batista foi
+#    criado por eles; puritanos que rejeitaram Jesus por andar com mulheres e publicanos).
+#    A KB não tem o termo. Spans: «Os essênios eram tão puritanos que os tinham prescrito tudo que o Messias quando surgisse deviveria.» (U0034 · 105213-105314) + «Ele anda com mulheres, ele anda com publicanos, ele escolheu um publicano.» (U0034 · 105314-105389).
+#
+# 6) GRAIEL E AMAEL — seres que trabalharam a genética de Sofia para a condição humana de
+#    Maria (Graiel = Gabriel; Amael), do livro da RC "A Sétima Trombeta do Apocalipse, a
+#    Volta de Jesus". A KB não tem os dois nomes. Span: «Existe um livro que eu produzi chamado a sétima trombeta do apocalipse, a volta de Jesus, em que os dois seres que trabalharam essa genética de Sofia para ser adequada à condição humana, fêmea de Maria, a Graiel, que é aquele ser chamado Gabriel, a Amael, eles descrevem, eles, ou seja, que foi adaptado.» (U0045 · 133276-133580).
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras da RC citadas por Ellam nesta fala:
+#   · "Sofia, os Arcontes e a Disputa pela Suzerania Universal" — o livro que a palestra
+#     antecede (palestra do dia anterior anunciada como "Sofia e os arcontes e a disputa pela
+#     suzerania universal, que é um livro"); cf. RC-859.
+#   · "Jesus, o Enigma da Transfiguração" — livro do autor sobre o evento do Tabor (RC-366).
+#   · "A Sétima Trombeta do Apocalipse, a Volta de Jesus" — livro do autor; fonte dos nomes
+#     Graiel e Amael (BLOCO 2).
+#   · Trilogia "Terra Atlantis" + "Carne Compromisso" — obras do autor citadas para a
+#     história de Lúcifer/Len Mion (RC-002/RC-074).
+# Obras EXTERNAS citadas (não são obras da RC; nada a harmonizar):
+#   · Septuaginta (RC-096) — a versão grega dos 70 (47 livros), traduzida em Alexandria dois
+#     séculos antes de Jesus; a "versão oficial principal" das placas de sinalização.
+#   · Vulgata — Jerônimo, nos anos 380, a pedido de quatro bispos de Alexandria, omitiu a
+#     infância de Jesus na tradução para o latim.
+#   · Nag Hammadi — manuscritos gnósticos escondidos por monges do monastério de São Pacômio
+#     (376, quando Dâmaso, bispo de Roma, ordenou destruir os apócrifos) e descobertos em
+#     1945; fonte da expressão "arcontes" e do apócrifo de Tiago (RC-770).
+#   · "O Apocalipse" — capítulos 17-19 citados (queda da Babilônia) e a sétima trombeta
+#     (RC-854).
+# Datas e personagens (registro, sem harmonização):
+#   · Portais lacrados desde 2012 — "Desde o ano 2012, tudo que é portal tá lacrado, eles
+#     tiveram que criar portais tecnológicos" (RC-295).
+#   · Colmeias terrestres colapsando desde 2007; "a Trimurti colapsou em 2018" (RC-174).
+#   · Ananias — "é o mesmo espírito, mais tarde viria ser Bezerra de Menezes" (RC-856).
+#   · Lúcifer: rebelião "700.000 anos antes" de Jesus; Satã no comando da rebelião "até o
+#     ano 1992" (RC-002/RC-074).
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# "no ano 2020, de novo a turma tentou destruir a humanidade, mas aí Sofia, seja lá quem foi,
+#   uma supernave entrou no sistema solar... Deu uma borrifada na terra... O vírus da Covid
+#   ia ser mais complicado ainda" — leitura do autor, quarentena biomediúnica/ufológica;
+#   dado datado, não entra em ficha.
+# "O próprio governo americano pela primeira vez dizer que destruiu um objeto que não pode
+#   explicar o que é" — conjuntura de fevereiro/2023 (objetos derrubados); quarentena
+#   política/ufológica; dado conjuntural.
+# "Ano 2007, Javé chegou para mim, vamos fazer um pacto... Você é o meu novo enviado" —
+#   relato pessoal do autor (recusa do pacto: "eu não tô à venda"); quarentena biomediúnica;
+#   radar datado.
+# "duas a umas 40 locas... seguramente vão invadir o universo. Mas de uma forma muito
+#   elegante, muito organizada, mas isso vai ser um pouco mais à frente" — promessa/profecia
+#   de invasão futura; fica no radar.
+# "Javé e o clã dos Anunnakis e outros seres já acenderam vela várias vezes pensando que os
+#   humanos iam ser destruídos... A última vez foi em 2020" — leitura do autor; quarentena
+#   ufológica; radar datado.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+- **RC-834/RC-072 (veto léxico):** «Só seres, desculpem, tá? Retardados como fazer isso. Só
+  seres profundamente condicionados fazem isso.» (U0009) — a formulação cai em veto léxico
+  (r****) e nomeia grupo humano (os que aceitam a versão oficial sobre Maria); o conteúdo
+  curado (a inseminação como ultraje) entra em BLOCO 1 sem o xingamento.
+- **RC-001 (veto léxico):** «obedecendo a uma voz um de um i***** qualquer» (U0010) — trecho
+  com veto léxico (i*****) sobre a voz que mandou Abraão sacrificar Isaque; retido.
+- **RC-009/RC-295 (quarentena ufológica):** o relato das abduções de "Rogério" (navezinha
+  disfarçada, desmaterialização da parede, "abduções complicadas") e das naves quadradas do
+  universo vizinho (U0034) — leitura do autor; quarentena ufológica/biomediúnica; retido do
+  trânsito para ficha de pessoa ou grupo, registrado no livro-razão.
+- **RC-474 (quarentena política):** «a penúltima está descrita nos capítulos 17, 18 e 19,
+  quando diz que a Babilônia cai a queda da torre da Babilônia, ou seja, as torres do Road
+  Trade Center. Aí o penúltimo fato, os reis da Terra entram em guerra por causa da queda da
+  Babilônia, ou seja, Estados Unidos, Afeganistão, os Estados Unidos, Iraque, agora Rússia e
+  Ucrânia» (U0033) — leitura conjuntural do Apocalipse; quarentena política; retido (o
+  mecanismo do Apocalipse como confirmação de Sofia entra em RC-854 no BLOCO 1).
