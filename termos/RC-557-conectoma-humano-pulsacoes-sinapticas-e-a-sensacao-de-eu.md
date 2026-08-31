@@ -51,10 +51,16 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 - **[P2023-04-01b · O CÉREBRO DO CORAÇÃO — a convergência dos dois cérebros]** "a ciência descobriu que a gente tem UM CÉREBRO NO CORAÇÃO FORMADO POR 40.000 CÉLULAS. Com esse [o da cabeça] eu posso mentir... MAS ESSE CÉREBRO DAQUI NÃO TEM JEITO DE EU ENGANÁ-LO... A ÁGUA MARCA O QUE SAI DA PULSAÇÃO MAGNÉTICA DO MEU CORAÇÃO" [⚠️⚠️⚠️⚠️ ⚠️ QUARENTENA CLÍNICA/CIENTÍFICA (a Devolutiva O-7): a formulação entra na base EXCLUSIVAMENTE COMO CONCEITO METAFÍSICO DO MENTALMA — a linguagem dos dois focos: "os pensamentos, as palavras são a linguagem do cérebro. AS EMOÇÕES E OS SENTIMENTOS SÃO A LINGUAGEM DO CORAÇÃO. Nós temos que alinhar isso"; os experimentos de Emoto (os cristais da água) e a lagosta/oxitocina como CHAVES DE LEITURA PEDAGÓGICAS, não dogmas científicos (a Devolutiva O-4)]; **A SUPERCONSCIÊNCIA**: "ESSA CONVERGÊNCIA [cérebro + cérebro do coração] PRODUZ UMA SUPERCONSCIÊNCIA E PROMOVERÁ A EMERGÊNCIA DO QUARTO CÉREBRO".
 - 0 códigos novos (O-3). Quarentena: clínica/científica (a retenção das formulações literais — a Devolutiva O-7).
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Conectoma: os álbuns de memória] (U0003)** «Então, é como se em cada vida produzisse um álbum de memória, cada personagem um álbum de memória e esse espírito fosse colecionador desses álbuns num álbum maior, num espécie de um Almanque geral, se assim quisermos entender.» — o conectoma (RC-557) é a 'somatória dos álbuns' que um espírito coleciona das diversas vidas cerebrais transitórias — cada vida um álbum, o espírito o colecionador; a somatória 'ainda não é a verdade'.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 
 ## Citação-chave

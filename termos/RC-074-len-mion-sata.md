@@ -85,10 +85,19 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 - **[Lemion assume o comando do QG da rebelião] (U0003)** «E eh em 2004, Valon disse que iria aprofundar o que ele não fez, porque talvez já não tenha colaborado, num assunto que ao nos anos 90, eh, os espíritos que haviam escrito comigo o livro Reintegração Cósmica haviam tocado, que foi a distinção muito forte entre ebel e Lemi que foi o fato deles dizerem que Lenior após a saída de Osbel do contexto terreno, logo após a crucificação de Jesus, fazendo com que Lemi a partir dali assumisse o comando do que restava do quartel general da rebelião.» — Len Mion (Satã, RC-074) assumiu o comando do que restava do quartel-general da rebelião após a saída de Lúcifer (RC-078) do contexto terreno, logo após a crucificação de Jesus.
 - **[Lemion, 'muito pior que Javé'] (U0003)** «Nemon a partir daí se tornou alguém muito pior do que a Javé.» — o palestrante avalia Len Mion (STT 'Nemon') como 'alguém muito pior do que Javé' — não por criar, mas por controlar processos; a mente mais bem aplicada durante ~22.000 anos.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Lemion, lugar-tenente de Elusbell] (U0003)** «Então, Lemion foi alguém que terminou sendo espécie de lugar tenente de Elusbell, quando a família IS tornou realmente a mais eh líder dessa história.» — Lemion (RC-074) foi 'espécie de lugar-tenente de Elusbell' (Lúcifer, RC-078), o grande comandante; Lemion usava força mental o tempo todo, enquanto Lúcifer jamais fez mal a uma barata.
+- **[Lemion, o maior especialista no ser humano] (U0003)** «Ele Lemion é o maior especialista tem ser humano, só que é alguém que terminou sendo do mal na perspectiva dos conceitos que a gente hoje possui.» — Lemion 'é o maior especialista' no ser humano — estudou a fundo o genoma humano a partir da dimensão onde vivia, mas terminou 'sendo do mal'.
+- **[A última obra de Lemion foi Hitler] (U0005)** «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — a última obra de Lemion foi Hitler (RC-239), 'nos termos em que descrevo no livro A Era Sapiens': um encosto em Hitler, humano cujo espírito um dia foi da família Mion (RC-443), muito próximo a ele.
+- **[Lemion recolhido nos anos 90] (U0005)** «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — Lemion 'não mais existe nesses termos': foi recolhido pela espiritualidade nos anos 90; já esteve para ser exilado duas ou três vezes, mas o exílio 'para' — teme-se o que faria com a massa de manobra do exílio.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |

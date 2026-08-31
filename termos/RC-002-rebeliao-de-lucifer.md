@@ -126,9 +126,15 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 
 - **[Rebelião de Lúcifer — a data] (U0003)** «Mas por que é que eu contei isso e nunca contei que antes da rebelião de Lúcifer, a rebelião de Lúciofer ocorreu há cerca de 700.» — a rebelião há ~700.000 anos, precedida por um problema virótico no forno de Awaylengan há 1,6 bi de anos.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[A rebelião como pandemia cósmica] (U0003)** «A questão É que quando houve essa contaminação, a coisa foi tão ampla, aquela pandemia cósmica foi algo tão fora do padrão que a tal autoridade chamada Sofia teve que isolar os mundos com a turma, teve que criar um geteto e ali dentro ficou a turma contaminada e fora a turma não contaminada.» — a rebelião de Lúcifer (RC-002) foi uma 'pandemia cósmica' — um vírus surgido em Elusbell pela insistência em observar o problema; Sofia isolou os mundos contaminados e, depois, exilou o 'lixo' na Terra.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

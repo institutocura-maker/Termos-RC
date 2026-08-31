@@ -31,9 +31,15 @@ Com isso:
 
 - **[Bebida dos Deuses — o Satchidanandaghana como amrita/soma] (U0003)** «Então, o satinadana é o remédio, é o elixir, é a amrita, é o soma, é aquela bebida ou aquele remédio, ou aasca ou a cannabis ou é uma poção, é um remédio que os elétrons precisam tomar, desculpem a metáfora sem futuro, mas é o jeito, para organizar lá a memória deles para que eles possam produzir o Satinada na Gama.» — o Satchidanandaghana lido como o remédio/elixir/amrita/soma que reorganiza a memória dos elétrons.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[A ilha dos imortais e a bebida dos deuses] (U0005)** «E Xintirvanti, então empreendeu uma busca paraa ilha dos imortais para descobrir as tais ervas que em Tumando o fariam imortal.» — Alexandre Magno e Qin Shi Huang Di buscaram a 'ilha dos imortais' e as ervas da imortalidade — tema ligado ao soma/amrita, a bebida dos deuses (RC-466), eco do mito de Gilgamesh.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

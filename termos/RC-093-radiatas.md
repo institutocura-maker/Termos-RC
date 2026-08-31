@@ -37,9 +37,15 @@ Com isso:
 
 - **[Radiatas — a fase anterior aos bilatérios] (U0003)** «Coisa e tal, vamos lá pra frente porque ambos eram radiatas, tá?» — na época dos fornos, Brahma e Vishnu ainda produziam seres radiatas; a bilateralidade veio depois.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Radiatas: um eixo só] (U0003)** «Radiata, quando eu falo radiata, que só tem um eixo.» — a mente radiata (RC-093/RC-631) 'só tem um eixo' — humanos são bilatérios (duas câmaras), os biodemos só têm um; por isso os demos têm poucos talentos.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

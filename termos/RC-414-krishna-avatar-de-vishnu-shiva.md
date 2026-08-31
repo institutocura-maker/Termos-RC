@@ -165,3 +165,7 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 
 - **[Krishna — dono de Vaikuntha] (U0006)** «Mas a cada vez que a Trimurte gerava um novo avatar, esse avatar que era para existir durante um tempo, os avatares passaram a querer ser eternos e também que querem locas eh Krishna hoje. Ele é dono de várias locas aqui e também aqui e inclusive assumiu vaicunta.» — os avatares passaram a querer ser eternos; Krishna assumiu Vaikuntha (STT "vaicunta").
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Krishna barrou Alexandre no Indo] (U0004)** «Quem é que barrou Alexandre no rio Indo?» — quem barrou Alexandre Magno no rio Indo foi Krishna (RC-414), que não queria a cultura helênica nos seus domínios; Lemion aceitou, pois os planos de Krishna atrapalhavam Enki (RC-486) na China.
+

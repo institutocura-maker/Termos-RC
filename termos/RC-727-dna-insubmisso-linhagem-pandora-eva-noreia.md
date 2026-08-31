@@ -146,3 +146,8 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 - **[P2023-12-03 · DNA INSUBMISSO / LINHAGEM PANDORA–EVA–NOREIA NA FALA DE 03/12/2023]** «mantendo o inconformismo luciferiano.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[O DNA de Pandora não tinha lacres] (U0003)** «O DNA de Pandora não tinha lacres, travas e bloqueadores.» — o DNA de Pandora (RC-727) não tinha lacres, travas e bloqueadores — ao contrário do DNA mexido por Enki (RC-486), 'obediente'; Eva carregava o DNA pandórico, a jogada de Lemion contra Javé.
+

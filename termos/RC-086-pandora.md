@@ -115,10 +115,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[P2023-12-03 · O SORRISO PEDIDO NO FIM]** «possa sorrir nos termos em que Pandora um dia sorriu quando se viu.» (U0004) — A Pandora da fonte fecha o ciclo com um sorriso *emprestado*: o desejo explícito é que Luzbel sorria «nos termos em que Pandora um dia sorriu quando se viu». O bruto grafa `julgo` e corta ali; remissão a B020, sem fusão.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Pandora sorriu ao se ver livre] (U0003)** «Porque Pandora inclusive sorriu quando se viu livre da obrigatoriedade que ela tinha de ser e de ir pro Olímpo, obedecer.» — Pandora (RC-086) 'sorriu quando se viu livre da obrigatoriedade' de ir ao Olimpo — antes dela ninguém sorria; o sorriso humano atual produz carga peptídica de satisfação.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

@@ -77,10 +77,16 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **[Tikun Cósmico — a criatura que resolverá Javé] (U0003)** «Não é para resolver o problema de Javé, é para criar um tipo de criatura que possa aí sim essa criatura resolver o problema de Jaavé através do Ticum.» — o Tikun não é feito por Virgem/Chiva, mas pela criatura humana que resolverá o problema de Javé.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[O ticum: reparo técnico pelos humanos] (U0003)** «Mas entre os humanos hoje tem o conceito do ticum, que foi o próprio Jahé que reconheceu isso e disse: "Realmente eu e a minha criação precisamos de reparo técnico e só quem pode fazer esse reparo técnico são os humanos".» — o ticum (RC-514): Javé reconheceu que 'eu e a minha criação precisamos de reparo técnico e só quem pode fazer esse reparo técnico são os humanos' — os judeus distorceram em 'povo escolhido'.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

@@ -79,9 +79,15 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 
 - **[biodemos assexuados] (U0005)** «eram assexuados, só os animais eram assexuados.» — os biodemos não têm sexo e nascem 'dentro de casos' por receita genética; o sexo veio com a animalidade.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Biodemos, criados para resolver problemas técnicos] (U0003)** «E são os biodemos seres que foram criados para resolver problemas técnicos no âmbito operacional, na perspectiva do governo de Sofia.» — os biodemos (RC-036) foram criados 'para resolver problemas técnicos no âmbito operacional', na perspectiva do governo de Sofia; ~250 famílias, não sexuados, nascidos em casulos, com DNA demo reduzido.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

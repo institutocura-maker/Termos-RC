@@ -73,10 +73,16 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 - **[FOXP2 colocado no DNA humano] (U0017)** «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — o FOXP2 (RC-486) já existia ~9.000 anos atrás, colocado no DNA humano pelos Anunnaki quando precisavam de 'macacóides inteligentes' para trabalhar o ouro — a ciência data o gene em ~50.000 anos.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Enki e o DNA obediente] (U0003)** «Então, o DNA mexido por Enk é um DNA obediente que obrigava o ser humano a ser obediente aos seres que lhe controlavam.» — o DNA mexido por Enki (RC-486) 'é um DNA obediente' — obrigava o ser humano a obedecer aos deuses, com faixa de liberdade mental para entender ordens.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

@@ -102,3 +102,7 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 
 - **[a implosão de Lúcifer diante de Jesus] (U0046)** «Não houve a situação de Lúcifer da a implosão de Lúcifer diante do Jesus.» — Lúcifer (RC-078) implodiu diante do Jesus crucificado — 'falta de cuidado' que piorou a revolta de Len Mion (RC-074); Lúcifer recusa-se a ser estudado.
 
+## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
+
+- **[Lúcifer reconstituído no corpo físico] (U0006)** «Então, ele foi reconstituído no corpo físico que ele tinha antes como biodemo.» — após a crucificação, o espírito de Jesus recolheu Elusbell (Lúcifer, RC-078), que foi 'reconstituído no corpo físico que ele tinha antes como biodemo' — algo parecido com o que foi feito com Enoque (RC-489), numa forma 'metatrônica' (RC-671).
+
