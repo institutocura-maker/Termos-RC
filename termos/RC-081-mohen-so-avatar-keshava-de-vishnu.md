@@ -89,3 +89,11 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - **[P2023-12-03 · MOHEN SO (AVATAR KESHAVA DE VISHNU) NA FALA DE 03/12/2023]** «criou um avatar chamado Rockmar em árabe e Sofia em grego.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · MORREN SO COMO ORQUESTRADOR DOS FORNOS]** (fonte oral fundadora; grafias embrionárias "Morrensor/Morrençou/Borrensor/Morenç"):
+- Morren So é o avatar de Vishnu que orquestra o Projeto Talm: "Morrensor chamou alguns fervães de Virgino e disse aí, Tive uma ideia" (STT);
+- a criação do **Nidana**: "criei o novo novo cosmo" e "Brama pegou o Nindana, Virgen, Nindana, Chiv Nindana, passaram seus servões" (STT);
+- engendra Sophia junto com Vishnu (STT: "a virgem junto com borre e sofrios de que engendraram Sofia");
+- ⚠️ [REVISAR — grafia]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.

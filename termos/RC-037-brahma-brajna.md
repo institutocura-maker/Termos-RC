@@ -150,3 +150,11 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias: a condiçã
 - **Brama caído e os Vedas:** "ele já tinha produzido os Vedas, que é o manual de como os humanos podem cantar hinos aos deuses, fazer sacrifícios e ofertar oferendas aos deuses";
 - **Templos:** "quando Krishna surgiu na Índia, existiam mais de 5.000 templos que adoravam Brama. Hoje tem um templo só para Brahma na Índia e o resto Krishna" (RC-414);
 - **Brama = Javé = Obatalá (RC-001/RC-666):** a fome de devoção; o Islã como linha de frente.
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · BRAHMA COMO O PRIMEIRO LOGOS E O FORNO AWAYEN]** (fonte oral fundadora do tema fornos):
+- "Brama" com a descendência **clonada** (os "anjos clones"); "Brama nasceu com a doença da supremacia" (STT);
+- o ovo cósmico hindu: "o brah nanda, ou seja, o anda de Brama, ou seja, o ovo cósmico de Brama" e "O ovo tinha três partes. Quando esse ovo se desfez, surgiu o brama loca" (STT);
+- a polinomia do criador: "Brama ou javé ou atum vários nomes" (STT);
+- o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836).

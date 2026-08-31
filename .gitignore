@@ -55,3 +55,6 @@ desktop.ini
 # *.xlsx
 # *.pdf
 # *.svg
+
+# ===== Saída regenerável (pacotes de reconstrução) =====
+reconstrucao/

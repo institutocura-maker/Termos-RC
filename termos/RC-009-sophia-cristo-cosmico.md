@@ -376,3 +376,11 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **[P2023-12-03 · O SUZERANO COM TESTEIRAS FLOUXAS]** «Sofia é o representante da Trimurte nesse universo biológico. Então esse Sofia começou a espalhar o código de vida dele através de vários gêneros. E o último gênero que ele criou é esse aqui. Sofia atua nesse universo há mais de 6 bilhões de anos. No último 1 bilhão depois de ter criado insetoides, baratoides, dragonoides, uma série de cois. coisas extremamente esquisitas para nós humanos. Chiva também criou uma» (U0004) — A ficha passa a ter a definição de cargo: representante da Trimúrti neste universo biológico, com os seres de lá vindo «sem o menor respeito» por ele. É o par simétrico do que P2022-03-26 registrara como contaminação: aqui, a impotência administrativa.
 
 ---
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · O ENGENDRAMENTO DE SOPHIA — A "BOMBA" DE BRAHMA]** (fonte oral fundadora):
+- "Sofia o Cristo cósmico. A forma cósmica do homem Jesus, o ser do qual foi retirado uma parte do DNA para inserir Maria" (STT);
+- Sophia nasceu "deslacrado, mas com essa bomba dentro dele" (STT) — a autodestruição comandada por Brahma; Morren So/Vishnu desligaram a bomba (prosa do STT);
+- Sophia como **radiata** sem emoção, que evolui "através de organoides que são postos no cérebro dele" (paráfrase do STT);
+- o Quarto Logos (Olm) como "figura por sombra dos dois", que não dá ordem: "vai continuar sendo seador de escolas" (STT — grafia oral "seador", sem correção silenciosa).

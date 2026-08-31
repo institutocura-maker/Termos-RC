@@ -64,3 +64,15 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 - **[P2023-12-03 · FORNOS REPLICADORES (NAVES/ESTAÇÕES DE SEMEADURA DE VIDA DO PROJETO TALM; AWAYEN, AWAYLENGAN E AWAYMAION) NA FALA DE 03/12/2023]** «esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2021-05-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · FONTE ORAL FUNDADORA — a fonte mais antiga dos três fornos]** (predata P2021-05-15 em 2 anos e o ART-2025-08-01 em 6 anos):
+
+- **O mecanismo do forno (1ª vez):** "O forno aqui é exatamente o casul vibratório aonde a informação que se pretendia passar de lá para cá" (STT) — o forno como *casulo vibratório* onde a informação do universo vizinho se hospeda e replica "feito lego";
+- **As grafias orais fundadoras:** "esse forno é chamado de Awai Lengan" (≈ Awaylengan — a ocorrência oral mais próxima do canônico); "O forno de brah nunca funcionou chamado aen" (≈ Awayen); "E o forno de Virgino chamado Aon segundo que veio a funcionar" (≈ Awaymaion);
+- **Os três fornos na ordem de surgimento:** Shiva primeiro (Awaylengan), Vishnu segundo (Awaymaion), Brahma nunca (Awayen).
+- **A Mensagem Talm já codificada** no forno de Vishnu "há muito tempo", mesmo antes de funcionar.
+- **Selo da linha do tempo (D-10):** grafias embrionárias registradas como ditas — nenhuma renomeação, nenhuma harmonização.
+- **Materialização derivada (Devolutiva O-3):** Awayen → RC-836 e Awaylengan → RC-837 (simetria com RC-499).

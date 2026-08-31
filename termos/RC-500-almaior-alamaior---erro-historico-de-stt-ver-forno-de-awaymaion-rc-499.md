@@ -45,3 +45,12 @@ Ver RC-499 (Vishnu, Sophia, Olm, Mohen So, biodemos).
 
 ## Observações
 Código imutável e nunca reutilizável. Não usar "Alamaior" como entidade válida em novos textos; manter somente como erro STT histórico.
+
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · O BERÇO PROVÁVEL DO ERRO "ALMAIOR"]** (nota de origem):
+
+- As formas orais de 2019 "**a maior**" / "**A maior**" / "**Aa maior**" (= Awaymaion) são o substrato fonético do erro STT posterior "Almaior"/"Alamaior".
+- O STT de 2019 já oscila entre a referência ao forno ("A maior") e o superlativo comum ("a maior quantidade de seres") — a ambiguidade que provavelmente gerou a corrupção capturada depois.
+- **Sem fusão:** RC-500 permanece remissão a RC-499; esta nota só documenta a origem.

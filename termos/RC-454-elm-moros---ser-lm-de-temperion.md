@@ -237,3 +237,9 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 - **Grafia STT:** `Morençou`, `Morrensor`, `Morençor` e formas próximas; aplicar **Morren So**, a grafia vigente já registrada nesta ficha, sem abrir ficha autônoma.
 - **Cruzamento estrutural aprovado:** relacionar a narrativa às notas de RC-091 (Projeto Talm) e RC-771 (Fornos Replicadores). A palestra também vincula a samudra manthana, o amrita e a participação de Vishnu; estes elementos permanecem notas narrativas e não novos nós.
 - **Quarentena:** “avatar do código dos três”, “legista” e gênese cosmológica são alegações do expositor e devem permanecer rotulados como leitura RC.
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · MOROS COMO O DETENTOR DO PONTO FRACO]** (fonte oral fundadora; grafias embrionárias "Morus/Morre/Morgon"):
+- "a figura que detinha o conhecimento do ponto fraco de todas as três descendências, um ser chamado Morus da mitologia grega" (STT); e "Esse ser sumiu, fez desaparecer o conhecimento que ele tinha" (STT) — a origem da "era do impasse";
+- No Q&A (André): "Moros nunca foi de perpério. Morus, a origem dele é de tempério" (STT) — biomediúnica, só índice rotulado; o deslacre é tratado como história "que por enquanto a gente não pode aprofundar".

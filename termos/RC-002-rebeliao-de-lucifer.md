@@ -154,3 +154,12 @@ Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-
 
 ## Observações
 A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **precisa ser confirmada** na Cronologia Aproximada do próprio livro e nas obras primárias de Ellam. Verificar também o papel de Jesus na narrativa.
+
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · A REBELIÃO DE LÚCIFER E O LACRE DA FAMÍLIA YEL]** (fonte oral fundadora):
+
+- "Só que a coisa foi Lúcifer quando rompeu, destravou o lacre da família Yel, ele acabou com essa história toda" (STT) — o destrave do lacre da família Yel (RC-834/RC-835);
+- O sistema "Javé = abelha rainha / anjos-clones = operárias" (livro *Divina Colmeia*) é o modelo que Lúcifer quebrou (ver RC-828);
+- "bilhões de anos acumulados de experiência existencial lúcifer com movimento de consciência" — o modo de pensar que deu origem ao humano.

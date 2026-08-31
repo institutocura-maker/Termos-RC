@@ -254,3 +254,12 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[P2023-12-03 · TRÊS FORMAS DE REPLICAR, UMA ESTÉRIL]** «Os três Eles da Trimur criaram três formas de replicação de replicação de vida biológica. Um nunca funcionou, mas os outros dois funcionaram. Esse ser, esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN. Esse outro forno chamado a Wiingan, era comandada por outra loca. Chiv era que mandava. e vida que começou a ser semeada nos mundos desse universo através de códigos que surgiam nesses» (U0004) — A Trimúrti deixa de ser só panteão e ganha ato técnico: criou três formas de replicação da vida biológica, uma das quais nunca funcionou — a mesma tríade dos fornos, agora com autor.
 
 ---
+
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · A TRIMURTI E A LILA NA FONTE MAIS ANTIGA]** (fonte oral fundadora):
+
+- "Lila seria constituição, a geopolítica da Trimorte" (STT) — a Lila como a *constituição* da Trimurti: "quando dos três um quiser fazer algo que os outros dois não concordem. Isso tem que ser negociado";
+- A Trimurti como os três primordiais **Brahma/Shiva/Vishnu** com suas descendências (anjos-clones de Brahma; demos de Shiva e Vishnu);
+- O sumiço de **Moros** (o ponto fraco das três descendências) → a "era do impasse" (ver RC-454).

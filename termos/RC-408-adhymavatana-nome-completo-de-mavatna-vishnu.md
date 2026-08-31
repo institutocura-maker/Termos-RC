@@ -65,3 +65,12 @@ Ficha baseada no B051 (obra complementar de alunos, revisada pelo usuário). O n
 - **Unidades:** U0212–U0243.
 - **Contexto acrescentado:** Adhymavatana/Mavatna é aprofundado como face do mesmo espírito ligado a Adhyprabrajna, mais tarde manifestado como Vishnu.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · VISHNU COMO TERCEIRO LOGOS E O FORNO AWAYMAION]** (fonte oral fundadora; grafias embrionárias "Virgo/Virgno/Vno/Vdo"):
+
+- Vishnu ("Virgo") propôs a **Trimurti** e a **Lila** (a constituição): "vamos fazer um trimur aqui... vamos criar em torno dessa tríade... algo que depois passou a se chamar na língua sânscrita, Lila";
+- O forno de Vishnu (Awaymaion) = o **segundo** a funcionar; a "mensagem tal" codificada nele (ver RC-499);
+- Vishnu engendrou Sophia **junto com** Morren So: "a virgem junto com borre e sofrios de que engendraram Sofia" (STT).

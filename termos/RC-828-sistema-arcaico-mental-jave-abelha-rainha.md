@@ -63,3 +63,10 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 - **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
 
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
+
+## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
+
+- **[P2019-08-25 · A FONTE ORAL FUNDADORA DO SISTEMA "JAVÉ = ABELHA RAINHA"]** (predata P2023-12-17 em 4 anos):
+- "Esse livro a Divina Colmeia" (STT) e "Mostra o que abelha rainha convive com abelhas criaturas ferramentas com abelhas operárias. O DNA dessas abelhas operárias é somente para servir abelha" (STT);
+- "Javé e os anjos clones funcionam do mesmo modo" (STT) — o paralelo: os anjos-clones são "robôs cujo DNA não tem liberdade", existem para servir Javé, como as operárias servem a abelha-rainha;
+- **Ganho de anterioridade:** a metáfora já estava plenamente formulada em 2019 — a ficha ganha a primeira fala.
