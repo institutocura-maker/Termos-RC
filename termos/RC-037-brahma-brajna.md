@@ -113,9 +113,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[Brahma — só sede o DNA] (U0006)** «Brama não participa disso, apenas sede do DNA dele ou o código fonte dele.» — Brahma não participa da aristocracia trimurtiana; só cede o DNA/código-fonte.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Brama não é Brahman] (U0005)** «E assim o deus Brama não confundir com Brahman, o deus incognocis.» — Brama (RC-037), 'cuja característica mental é rajas', não deve ser confundido com Brahman, 'o deus incognoscível' (RC-047) — Brama é 'uma mera divindade'.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |

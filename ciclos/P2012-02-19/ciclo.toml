@@ -1,0 +1,53 @@
+# ciclo.toml — ciclo leve P2012-02-19 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2012-02-19"
+titulo = "Xadrez Cósmico de Brahma, Vishnu e Shiva"
+data_fonte = "19/02/2012"
+pasta_fonte = "ciclos/P2012-02-19"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2012-02-19.txt"
+sha256_fonte = "df3b69dd0395916c26ea8107dae9f60eeebb76b96aacebdf166d81e37fa0de8c"
+
+baseline_commit = "e8206d2"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = ["RC-852 Prajapati (a divindade antes de virar Brama)", "RC-853 Sankalpa (força de vontade e conhecimento que produz milagres)"]
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 2       # termos novos: RC-852/853 (Prajapati, Sankalpa)
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 20    # os 20 códigos do pacote carregam P2012-02-19
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

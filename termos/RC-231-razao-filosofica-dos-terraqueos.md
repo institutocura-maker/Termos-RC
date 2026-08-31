@@ -39,9 +39,15 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **[B033 p. 192]** CONSTATAÇÃO: os terráqueos podem ser «um protótipo melhorado»; a «maior surpresa» foi a «razão filosófica» que os humanos passaram a apresentar.
 - Anunnakis / Enki / Ningishzida = **ufológica — fora**. *Carma e Compromisso* = remissão a **B026**, **não fusão**. Nietzsche / Píndaro = **externas**. Sem fusão com B049. Fonte **B033** já constava na tabela-mestra.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[A razão filosófica, dádiva do homo sapiens] (U0005)** «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — somos 'uma das poucas raças no cosmos, com a razão filosófica desperta' (RC-231) — para o bem e para o mal, algo que as civilizações cósmicas valorizam imensamente.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-07-14 | U0495–U0539 | palestra/STT |
 | B033 / B005 / B049 / P2025-03-15 / P2024-11-30 / P2024-11-09 | — | obras/palestras |
 

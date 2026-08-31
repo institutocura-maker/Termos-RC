@@ -45,9 +45,15 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 - **[P2024-11-03 · AS GUNAS NA TERCEIRA HORA DO NUCTEMERON]** "as serpentes do caduceu de Hermes entrelaçam-se três vezes. Cérbero escancara a sua tríplice goela e o fogo entoa louvores a Deus pelas três línguas do relâmpago... AS TRÊS COMPONENTES NECESSÁRIAS À EVOLUÇÃO DO PSIQUISMO UNIVERSAL SÃO FINALMENTE DECODIFICADAS A PARTIR DO USO DA KUNDALINI, SENDO ESSE O ÚNICO MODO DE CORRIGIR E DE REDIMENSIONAR O DNA DO CRIADOR... AS SERPENTES ENTRELAÇADAS TRÊS VEZES SIGNIFICA A PERCEPÇÃO DAS TRÊS GUNAS RAJAS, [SATTVA] E [TAMAS], que a mitologia ariana hindu explica como sendo OS TRÊS PADRÕES DE ENERGIA QUE MOVEM ABSOLUTAMENTE TUDO QUE EXISTE dentro dessa criação... AS TRÊS LÍNGUAS DO RELÂMPAGO SIGNIFICAM QUE ATRAVÉS DAS FORÇAS RAJAS, [SATTVA] E TAMAS... OS RELÂMPAGOS AJEITAM O PROBLEMA DO CRIADOR. FOI ENTÃO QUE FOI VISLUMBRADA A SOLUÇÃO PARA O SEU ENIGMA, PARA SUA DOENÇA"; A 12ª HORA: "com os três fatores... o fim da criação vai ser carimbado pela força de um ser chamado Chiva" [RC-102].
 - 0 códigos novos (O-3).
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[As três gunas compõem tudo] (U0005)** «Segundo a concepção dos nossos irmãos arianos hindus, existem três gunas que formam ou compõem absolutamente tudo que existe.» — as três gunas (RC-151) 'formam ou compõem absolutamente tudo que existe' — e o que podemos perceber é só 4% da matéria e energia do universo.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 (As Gunas Criadoras) | pp. 32–36 (aprox.) | capítulo inteiro dedicado |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |
 

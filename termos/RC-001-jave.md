@@ -391,3 +391,7 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 
 - **[Caos = Javé] (U0135)** «Caos aí é o nome de Jahé caído, porque tudo era um caos mesmo.» — Caos (mitologia grega) é o nome de Javé caído (STT `Jahé`); tudo era caos porque a obra ficou inacabada.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Javé, projeção holográfica sem alma] (U0005)** «No livro Drama Cósmico de Jahé e o drama espiritual de Jahé, ou seja, de Brama, eu passei por todo tipo de crise consciencial, porque ali fui obrigado a afirmar que esses seres estão com câncer, que as suas formas nas quais eles existem há bilhões de anos, tem essa doença e em especial Jahé é só uma projeção holográfica do seu corpo mental, pois que a sua alma não penetrou na criação.» — Javé (RC-001) 'é só uma projeção holográfica do seu corpo mental, pois que a sua alma não penetrou na criação' — por isso Brama/Javé nunca encarnou: não tem alma.
+

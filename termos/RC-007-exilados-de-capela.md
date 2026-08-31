@@ -51,9 +51,15 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 
 - **[P2023-12-03 · O ÚNICO TOQUE DE CAPELA NA PALESTRA]** «a respeito dos exilados de Capela. P p pá pá, impecáveis, maravilhosos.» (U0004) — A palestra menciona Capela **uma vez**, e a menção vem dentro de uma frase em que a fonte nomeia uma pessoa cuja obra ela leu — o nome fica na apostila (D-12) e aqui entra só o fragmento verificável do juízo. É registro de leitura, não de doutrina: nenhuma relação nova com `RC-006` (exilium) é aberta por esta entrada.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Os exilados de Capela resgatados] (U0005)** «E aí Aí começa uma história dos exilados de capela que Chico Xavier e Emmanuel desde 1938 no livro A Caminho da Luz já resgataram para a modernidade.» — a história dos exilados de Capela (RC-007) foi resgatada por Chico Xavier e Emmanuel desde 1938, no livro 'A Caminho da Luz'.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 129 (aprox.) | verbete "Exilados de Capela" |

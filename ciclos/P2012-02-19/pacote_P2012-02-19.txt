@@ -1,0 +1,94 @@
+# Pacote de ampliação — P2012-02-19
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2012-02-19 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-852
+
+- **[Prajapati, a divindade antes da queda] (U0005)** «Mas como essa divindade também chamada de prajapati, hesitou depois que expeliu a sua criação singular.» — Prajapati: a divindade que, 'também chamada de prajapati', hesitou depois de expelir sua criação — e, pela hesitação, foi tragada pela própria obra, tornando-se Brama (RC-037/Javé).
+- **[Brama, o nome após a prisão] (U0005)** «E assim, o ser chamado de Brama é o nome que a divindade para Japati começou a ter depois que se tornou prisioneira da sua própria criação.» — o ser chamado Brama (RC-037) é 'o nome que a divindade Prajapati começou a ter depois que se tornou prisioneira da sua própria criação'.
+
+### RC-853
+
+- **[Sankalpa, a palavra de trinta significados] (U0004)** «Aquele que tem a força de vontade e o conhecimento íntimos e já abriu os compartimentos da alma para produzir aparentes milagres, toda essa frase, o sânscrito tem só uma palavra que significa sancalpa e essa palavra significa umas 30 palavras em português para dar o significado.» — Sankalpa (STT 'sancalpa'): a palavra sânscrita que condensa a força de vontade e o conhecimento íntimos de quem 'já abriu os compartimentos da alma para produzir aparentes milagres'.
+
+### RC-075
+
+- **[Lila, o jogo cósmico em sânscrito] (U0004)** «Para nós portugueses brasileiros, a palavra parece ser lila.» — Lila (RC-075): o jogo cósmico 'sendo jogado mesmo antes da criação desse universo'; 'a palavra parece ser lila' (L-I-L-A), intraduzível em português.
+
+### RC-151
+
+- **[As três gunas compõem tudo] (U0005)** «Segundo a concepção dos nossos irmãos arianos hindus, existem três gunas que formam ou compõem absolutamente tudo que existe.» — as três gunas (RC-151) 'formam ou compõem absolutamente tudo que existe' — e o que podemos perceber é só 4% da matéria e energia do universo.
+
+### RC-320
+
+- **[Os três pilares de criação, sustentação e dissolução] (U0005)** «Esses três gunas corresponde aos três pilares de criação, sustentação e dissolução do universo.» — as três gunas correspondem aos 'três pilares de criação, sustentação e dissolução do universo' — Brama (Rajas), Vishnu (Sattva) e Shiva (Tamas).
+
+### RC-037
+
+- **[Brama não é Brahman] (U0005)** «E assim o deus Brama não confundir com Brahman, o deus incognocis.» — Brama (RC-037), 'cuja característica mental é rajas', não deve ser confundido com Brahman, 'o deus incognoscível' (RC-047) — Brama é 'uma mera divindade'.
+
+### RC-135
+
+- **[Vishnu, o preservador] (U0005)** «E é por isso que Vno é conhecido na tradição hindu como o preservador.» — Vishnu (RC-135, STT 'Vno/Virgno/Virgino') é conhecido na tradição hindu como 'o preservador': cabe a ele o modelo de criação possível no caos primeiro.
+
+### RC-102
+
+- **[Shiva e a dissolução das formas] (U0005)** «E esse poder dessa terceira deidade hindu chamado Shiva, que tem o poder de Dissolução das formas.» — Shiva (RC-102) tem 'o poder de Dissolução das formas': cabe à sua força Tamas destruir o que atrapalha a obra imperfeita e, no fim, absorver as cinzas do universo.
+- **[Shiva, o Senhor dos Yogues] (U0005)** «Por isso que Shiva é o Senhor dos Yogues.» — Shiva é 'o Senhor dos Yogues': pelos ensinamentos yogues ensina o espírito a se livrar do sansara e retornar à pátria espiritual apesar do corpo doentio.
+
+### RC-001
+
+- **[Javé, projeção holográfica sem alma] (U0005)** «No livro Drama Cósmico de Jahé e o drama espiritual de Jahé, ou seja, de Brama, eu passei por todo tipo de crise consciencial, porque ali fui obrigado a afirmar que esses seres estão com câncer, que as suas formas nas quais eles existem há bilhões de anos, tem essa doença e em especial Jahé é só uma projeção holográfica do seu corpo mental, pois que a sua alma não penetrou na criação.» — Javé (RC-001) 'é só uma projeção holográfica do seu corpo mental, pois que a sua alma não penetrou na criação' — por isso Brama/Javé nunca encarnou: não tem alma.
+
+### RC-809
+
+- **[O criador tragado pela própria obra] (U0005)** «O corpo mental seria só um desses sete corps, mas teria sido o corpo mental dessa divindade que foi tragado pela própria obra, a exemplo de um cientista louco, que em criando um campo de energia é engolido por esse campo.» — o corpo mental da divindade 'foi tragado pela própria obra' — como um cientista louco engolido pelo campo de energia que criou; de criador, passou a refém (RC-809).
+
+### RC-526
+
+- **[A doença, não o atraso] (U0005)** «Não é porque ele seja atrasado, é porque a sua natureza é doentia.» — Javé (RC-526) não é 'atrasado' — 'a sua natureza é doentia'; não é falta de evolução, é uma condição de doença que o impede de ver o que está além da sua criação.
+
+### RC-273
+
+- **[Niceia 325 e a Santíssima Trindade] (U0005)** «Quando no concílio de Missé em 325 depois de Cristo, Jesus foi igualado a Deus quando surgiu o conceito da Santíssima Trindade, aí é que Javé não aceitou mesmo.» — no Concílio de Niceia (RC-273, STT 'Missé'), em 325 d.C., Jesus foi igualado a Deus e surgiu a Santíssima Trindade — 'aí é que Javé não aceitou mesmo'.
+
+### RC-801
+
+- **[As três encarnações de Shiva] (U0005)** «Por isso, ele nasceu primeiro como baba de Sird, Sat Saibaba e agora retorna como prima, sai como se dizendo a Brama, ó, eu me estou estou me fazendo ser humano e como ser humano eu não posso lhe enfrentar.» — Shiva programou três encarnações: nasceu 'primeiro como baba de Sird [Shirdi], Sat Saibaba, e agora retorna como prima sai [Prem Sai]' — dizendo a Brama que, humano, já não pode enfrentá-lo.
+- **[A morte adiantada de Saibaba] (U0005)** «Mas ainda assim, como Chiva havia humilhado Brama várias vezes, como Shiva, enquanto já Saibaba disse que só desencarnaria em 2021, Javé fez com que eles encarnasse antes para devolver a humilhação.» — como Saibaba disse que 'só desencarnaria em 2021', Javé fez com que ele desencarnasse antes 'para devolver a humilhação' — resultado da Lila.
+
+### RC-007
+
+- **[Os exilados de Capela resgatados] (U0005)** «E aí Aí começa uma história dos exilados de capela que Chico Xavier e Emmanuel desde 1938 no livro A Caminho da Luz já resgataram para a modernidade.» — a história dos exilados de Capela (RC-007) foi resgatada por Chico Xavier e Emmanuel desde 1938, no livro 'A Caminho da Luz'.
+
+### RC-190
+
+- **[A revelação espiritual e o espanto de Javé] (U0005)** «E já concluindo, quando do advento da revelação espiritual, quando A equipe do Espírito da verdade, na segunda metade do século XIX, apoiado nos esforços de Kardec e outros na França, transmitem ao mundo a revelação espiritual e a turma de Javé que não consegue perceber o que se encontra além das fronteiras da sua criação.» — na segunda metade do século XIX, a equipe do Espírito da Verdade, 'apoiado nos esforços de Kardec' (RC-190), transmitiu a revelação espiritual — e a turma de Javé, que não vê além da criação, não entendeu.
+
+### RC-005
+
+- **[Antes e depois da divisão do comando] (U0005)** «Os mentores cósmicos afirmam que a história deste universo, dentro em pouco, será dividida em dois momentos, o antes da divisão do comando e o depois da divisão do comando.» — a história do universo será dividida em 'o antes da divisão do comando e o depois da divisão do comando' — a vinda de Jesus (RC-005) será o divisor de águas.
+
+### RC-231
+
+- **[A razão filosófica, dádiva do homo sapiens] (U0005)** «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — somos 'uma das poucas raças no cosmos, com a razão filosófica desperta' (RC-231) — para o bem e para o mal, algo que as civilizações cósmicas valorizam imensamente.
+
+### RC-551
+
+- **[Dehatma Buddhi, o engano com o corpo] (U0004)** «Derratman Bud também uma outra palavra que diz daquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade e pensa que ele é isso que os outros pensam que eles são.» — Dehatma Buddhi (RC-551, STT 'Derratman Bud'): a palavra sânscrita para 'aquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade'.
+
+### RC-230
+
+- **[A sobrevivência a qualquer custo no DNA] (U0005)** «A sobrevivência a qualquer custo está ainda marcada no DNA de todas as espécies.» — 'a sobrevivência a qualquer custo está ainda marcada no DNA de todas as espécies' (RC-230) — herança do impulso de sobreviver do criador prisioneiro.
+- **[3% ativado, 97% de DNA lixo] (U0005)** «Por isso que o nosso DNA só está 3% ativado, ou seja, produzindo proteínas.» — o nosso DNA 'só está 3% ativado' — os 97% restantes, o 'DNA lixo', dão folga aos espíritos para despertarem e se tornarem responsáveis, em vez de robôs de Brama.
+
+### RC-047
+
+- **[Um universo para homenagear a Deidade] (U0004)** «Então eu estou só metaforicamente dizendo, na ausência de outra ideia que na periferia do paraíso, ou seja, da espiritualidade superior, alguém resolveu, por uma questão de doença, que chamei no livro de impulso mental incontrolável, ir na sua mente uma singularidade e desta surgiria mais um universo criado para homenagear a deidade amantíssima.» — o universo surgiu de um 'impulso mental incontrolável' para 'homenagear a deidade amantíssima' (RC-047) — 'esse sim, o Deus verdadeiro' — mas a obra ficou imperfeita.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)

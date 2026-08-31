@@ -83,9 +83,19 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 
 - **[P2022-03-26 · DEIDADE (PAI-MÃE AMANTÍSSIMO) NA FALA DE 26/03/2022]** "nós decretamos que esse ser puro ele é amoroso. Mas se pra gente o amor for algo que a gente possa definir com a nossa lógica de que se eu amo alguém, eu vou proteger aquele alguém. E se nós aplicarmos a essa lógica, a esse ser em relação à humanidade, se nós colecionarmos a certeza de que ele nos protege pela fé, como eu falei no início, ninguém vai poder discutir. com você, porque isso é uma certeza sua. Eu sei que Deus toma conta de mim." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Um universo para homenagear a Deidade] (U0004)** «Então eu estou só metaforicamente dizendo, na ausência de outra ideia que na periferia do paraíso, ou seja, da espiritualidade superior, alguém resolveu, por uma questão de doença, que chamei no livro de impulso mental incontrolável, ir na sua mente uma singularidade e desta surgiria mais um universo criado para homenagear a deidade amantíssima.» — o universo surgiu de um 'impulso mental incontrolável' para 'homenagear a deidade amantíssima' (RC-047) — 'esse sim, o Deus verdadeiro' — mas a obra ficou imperfeita.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 127 (aprox.) | verbete "Deidade" |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 131 (aprox.) | verbete "Deus" (Deus Incognoscível) |

@@ -18,9 +18,15 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (
 - **Variações STT capturadas:** "buraco branco", "buraco negro", "tragado", "criação tragou"
 - **Idioma de origem:** Português (com termos astrofísicos: buraco negro, buraco branco)
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[O criador tragado pela própria obra] (U0005)** «O corpo mental seria só um desses sete corps, mas teria sido o corpo mental dessa divindade que foi tragado pela própria obra, a exemplo de um cientista louco, que em criando um campo de energia é engolido por esse campo.» — o corpo mental da divindade 'foi tragado pela própria obra' — como um cientista louco engolido pelo campo de energia que criou; de criador, passou a refém (RC-809).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal | U0002 (S2) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave

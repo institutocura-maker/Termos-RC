@@ -38,9 +38,15 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 - **[B075 p. 127]** "O pior automatismo que um ser humano pode ostentar é o de 'colecionar' arquivos mentais ruins. O automatismo é subproduto da 'doença' do Criador deste universo, mas as pessoas não precisam aplicá-lo ou fazer como Javé, pois elas têm a condição — que ele não possui — de serem **criativas e ousadas**."
 - 0 códigos novos.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Dehatma Buddhi, o engano com o corpo] (U0004)** «Derratman Bud também uma outra palavra que diz daquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade e pensa que ele é isso que os outros pensam que eles são.» — Dehatma Buddhi (RC-551, STT 'Derratman Bud'): a palavra sânscrita para 'aquele ser humano que se confunde com o seu próprio corpo ou com sua própria personalidade'.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | Mentalma I (B074) | Caps. 7.2, 13.1 | — | definição da doença |
 | Mentalma II (B075) | Cap. 1.1 "A educação humana e a 'doença do dehatma buddhi'" | — | aprofundamento |
 

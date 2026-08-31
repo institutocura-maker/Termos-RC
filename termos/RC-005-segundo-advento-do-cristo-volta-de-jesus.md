@@ -162,3 +162,8 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[P2023-12-03 · A POSSE QUE NÃO HOUVE]** «Sabe aquela cerimônia de posse nunca houve.» (U0004) — D-6: a segunda vinda é lida pela fonte como **cerimônia de posse retida**, não como atraso. «posse» é metáfora de investidura no glossário, nunca rito histórico, e nenhuma relação de fundamento é aberta por esta entrada.
 
 ---
+
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Antes e depois da divisão do comando] (U0005)** «Os mentores cósmicos afirmam que a história deste universo, dentro em pouco, será dividida em dois momentos, o antes da divisão do comando e o depois da divisão do comando.» — a história do universo será dividida em 'o antes da divisão do comando e o depois da divisão do comando' — a vinda de Jesus (RC-005) será o divisor de águas.
+

@@ -1,0 +1,9 @@
+{
+ "motor": "ferramentas/motor.py",
+ "ciclo": "P2012-02-19",
+ "politica": "apenas `status: aprovada` entra no corpus",
+ "fonte": "ciclos/P2012-02-19/original.txt",
+ "sha256_fonte": "df3b69dd0395916c26ea8107dae9f60eeebb76b96aacebdf166d81e37fa0de8c",
+ "cards_total": 0,
+ "cards": []
+}

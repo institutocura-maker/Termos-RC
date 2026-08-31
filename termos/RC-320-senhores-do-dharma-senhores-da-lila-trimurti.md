@@ -34,9 +34,15 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 
 - **[P2022-03-26 · SENHORES DA LILA NA FALA DE 26/03/2022]** "os níveis de aristocracia em torno da Trimurte. gerações que foram surgindo, que querem ser deles a trimurto e a última que surgiu em termos de de informação que a gente tem é a mitologia grega chamando de Zeus, os Olimpiados." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Os três pilares de criação, sustentação e dissolução] (U0005)** «Esses três gunas corresponde aos três pilares de criação, sustentação e dissolução do universo.» — as três gunas correspondem aos 'três pilares de criação, sustentação e dissolução do universo' — Brama (Rajas), Vishnu (Sattva) e Shiva (Tamas).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | O Dharma e as Castas Hindus (B023) | caps. 2, 7 | pp. 15–30, 85–100 (aprox.) | equivalência central |

@@ -33,9 +33,15 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 
 - **[B049 p. 12]** «jamais o credo do “Concílio de Niceia” será respeitado, exatamente aquele que criou o mito da “Santíssima Trindade” e igualou Jesus a Deus»; o sistema desde 325 «foi “destruindo” a parte humana de Jesus». **Quarentena histórico-religiosa e político-geopolítica** (leitura do autor, não fato validado). Sem fusão com B014. Fonte **B049** acrescentada na tabela-mestra.
 
+## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
+
+- **[Niceia 325 e a Santíssima Trindade] (U0005)** «Quando no concílio de Missé em 325 depois de Cristo, Jesus foi igualado a Deus quando surgiu o conceito da Santíssima Trindade, aí é que Javé não aceitou mesmo.» — no Concílio de Niceia (RC-273, STT 'Missé'), em 325 d.C., Jesus foi igualado a Deus e surgiu a Santíssima Trindade — 'aí é que Javé não aceitou mesmo'.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | Sophia e o Logos Criadores (B014) | cap. 17 (A Falsa Trindade) | pp. 190–205 (aprox.) | capítulo dedicado |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |
 
