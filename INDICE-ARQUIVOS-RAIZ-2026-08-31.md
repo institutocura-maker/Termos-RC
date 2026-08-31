@@ -29,9 +29,10 @@ Estes arquivos são a **fonte de verdade operacional** em 2026-08-31.
 
 | # | Arquivo | Tam | Última atualização | Quando ler |
 |---|---|---|---|---|
-| 1 | **`PROMPT-PROXIMA-SESSAO.md`** | 57.2 KB · 264 linhas | 2026-08-28 (AGENTE 13/14) | **SEMPRE primeiro** — define a persona, o rito (esteira leve), os 7 capacidades, o Despacho vigente |
-| 2 | **`STATUS-HANDOFF-2026-08-31.md`** | 10.6 KB · 277 linhas | 2026-08-31 (T+0:04) | Quando o agente novo precisa saber ONDE ESTAMOS e QUAIS REGRAS seguir |
-| 3 | **`GLOSSARIO-CANONICO-2026-08-31.md`** | 51.1 KB · 702 linhas | 2026-08-31 (T+0:08) | Quando o agente precisa listar 524 RC canônicas + 80 pastas CONCLUIDAS |
+| 1 | **`PROMPT-COMPLETO-2026-08-31.md`** | ~12 KB | 2026-08-31 (T+0:25) | **NOVO** — Prompt consolidado para colar no início da próxima sessão (compila STATUS + PROXIMA-SESSAO + GLOSSARIO + workflow) |
+| 2 | **`PROMPT-PROXIMA-SESSAO.md`** | 57.2 KB · 264 linhas | 2026-08-28 (AGENTE 13/14) | **SEMPRE primeiro** — define a persona, o rito (esteira leve), os 7 capacidades, o Despacho vigente |
+| 3 | **`STATUS-HANDOFF-2026-08-31.md`** | 10.6 KB · 277 linhas | 2026-08-31 (T+0:04) | Quando o agente novo precisa saber ONDE ESTAMOS e QUAIS REGRAS seguir |
+| 4 | **`GLOSSARIO-CANONICO-2026-08-31.md`** | 51.1 KB · 702 linhas | 2026-08-31 (T+0:08) | Quando o agente precisa listar 524 RC canônicas + 80 pastas CONCLUIDAS |
 | 4 | **`indice-mestre.md`** | 181.0 KB · 793 linhas | **(gerado automaticamente)** | Quando precisa da TABELA MESTRA de todos os 777 termos da Base (NÃO cabe em 1 chat; ler por chunk) |
 | 5 | **`CONTINUIDADE.md`** | 343.6 KB · 1613 linhas | 2026-08-29 (AGENTE 14) | Log histórico das 14 sessões (NÃO cabe em 1 chat; ler por chunk) |
 | 6 | **`GUIA-MESTRE-RC-APOSTILA-v1.1.md`** | 29.4 KB · 502 linhas | v1.1 (2026) | Quando precisa do DNA/fundamento/pipeline do projeto |
@@ -143,13 +144,7 @@ A raiz também tem:
 | `2026-08-04 - O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA.txt` | 96.5 KB | TXT de palestra avulsa na raiz (verificar se deve ir para `uploads_recepcao/`) |
 | `.gitignore` | 765 B | Padrões de ignore do Git |
 
----
-
-## ⚠️ Observação sobre o arquivo solto na raiz
-
-O arquivo `2026-08-04 - O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA.txt` (96.5 KB) está **fora de `uploads_recepcao/`** e **fora de `apostilas/CONCLUIDAS/`**. Não foi processado (não está no INDICE-PALESTRAS). Sugestão: **mover para `uploads_recepcao/`** se for fonte bruta OU **mencionar ao curador** se for lixo.
-
-> **Ação recomendada**: perguntar ao curador antes de mover.
+> **Nota (2026-08-31, T+0:25)**: O TXT `2026-08-04 - O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA.txt` (96.5 KB) que estava solto na raiz foi **movido para `uploads_recepcao/`** via `git mv` (rename preservado). A raiz agora tem 27 arquivos, sem arquivos avulsos.
 
 ---
 
