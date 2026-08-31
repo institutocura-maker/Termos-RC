@@ -1,0 +1,54 @@
+# Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) — RC-790
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.7 Híbridos / Seres de transição |
+| **Status** | ⚪ candidato |
+| **Última atualização** | 2026-08-30 |
+
+## Definição Sintética
+Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que os **"Quinaras"** — termo sânscrito para o que a mitologia grega chama de **"centauros"** (meio-humanos, meio-cavalos/bodes/bois) — são **seres reais**, não fictícios. Eles existem no **universo vizinho** como **"meio retardados"** que praticam alquimia; e hoje estão **nascendo como humanos** porque o universo vizinho está colapsando. Os centauros têm **protorracionalidade** que aparece como "linguagem mental" em animais irracionais da Terra (cachorros, elefantes, cavalos). Ver RC-696 (Geração Regenerada de Brahma), RC-577 (Xamanismo Cósmico).
+
+## Contexto / Origem
+Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca de centauros" e descreve a experiência: "locas de centauros, que eles próprios chamam de meio retardados. Ou seja, os centauros que já padecem de um certo retardamento, são distribuídos em várias locas e tem uma loca em especial onde centauros que lá estão são mais retardados que o resto, mas que era a única genética dos centauros possível de ser trabalhada para um dia ser transferida para a condição humana."
+
+## Etimologia / Grafias
+- **Grafia preferida:** Quinaras / Centauros (seres reais)
+- **Variações STT capturadas:** "Quináas", "Quinaras", "centauros", "onocentauros", "centauros esclarecidos", "centauros retardados"
+- **Idioma de origem:** Sânscrito (Quinara) + Grego (Κένταυρος "Kentauros" = "matador de touros")
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora | U0004 (S4) | — | palestra (fonte primária, STT) |
+| Mitologia grega — Centauros (Quirón, Folo, Nesso) | — | — | obra clássica (referência cultural) |
+
+## Citações-chave
+> «Quem diabo são as quináas? É a forma que o sânscrito chama aquilo que na mitologia grega chamada de centauros [...] São E essa turma, todos os animais criados nesse universo vizinho tinham uma própria inteligência, nenhum era irracional, porque foram criados por esses seres.» — P2025-04-06, U0004
+
+> «uma dessas locas seria locas de centauros [...] hoje estão nascendo como humanos [...] E se isso explodir, o ser humano vai se sentir aquilo que o espírito foi lá atrás.» — P2025-04-06, U0004
+
+> «Kiron, num famoso centauro que era esse, sim, ele conseguiu deixar de ser demente, ainda que fosse um pouco retardado no sentido de ingenuidade. Kiron se transformou num gênio filósofo.» — P2025-04-06, U0004
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Geração Regenerada de Brahma | RC-696 | contextualizado-por |
+| Xamanismo Cósmico | RC-577 | opõe-se-a |
+| Prometeu | RC-270 | recebeu-visitas-de |
+| Epimeteu | RC-271 | recebeu-visitas-de |
+| Sileno | (sem ficha) | mestre-de |
+| Quirón (centauro) | (sem ficha; pode haver RC) | paralelo-com |
+| Sátiros | (sem ficha) | variante-de |
+| Dioniso | (sem ficha; verificar RC-149 = Zeus?) | associado-a |
+
+## Seres Associados
+- **Quirón** (centauro filósofo, mitologia grega)
+- **Sileno** (mestre dos sátiros, mitologia greco-romana)
+- **Sátiros** (metade bode, metade humano)
+- **Nesso, Folo** (outros centauros)
+
+## Observações
+- **Quarentena ufológica FORTE**: o autor afirma que centauros são **seres reais** que hoje nascem como humanos — **NÃO FUSIONAR com ufológicos modernos** (greys, reptilianos, etc.). A leitura é especificamente sobre "centauros" como categoria de híbrido metade-animal/metade-humano.
+- [REVISAR]: pode haver outras RC para Quirón/Sileno/Sátiros; verificar antes de criar fichas.

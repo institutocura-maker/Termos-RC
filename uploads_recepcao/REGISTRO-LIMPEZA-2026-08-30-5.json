@@ -1,0 +1,35 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-5",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 5 — após processamento da palestra 2025-04-06",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "66ed5b2",
+  "motivo": "A palestra 2025-04-06 (A Revolução Inacabada de Prometeu e Pandora) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2025-04-06_a_revolucao_inacabada_de_prometeu_e_pandora/. A pasta uploads_recepcao/ foi limpa novamente.",
+  "arquivos_processados": [
+    {
+      "nome": "2025-04-06 - A Revolução Inacabada de Prometeu e Pandora.txt",
+      "origem_blob": "086b706f606a4eb6e577076c03a485636a04681d",
+      "commit_origem": "9a5f68e",
+      "sha256_original": "be51e5250372f1605afb3f851c4a6a928d898180c1c83608ebf0805213bf1d4b",
+      "tamanho_bytes": 115372,
+      "destino_md": "apostilas/CONCLUIDAS/2025-04-06_a_revolucao_inacabada_de_prometeu_e_pandora/apostila.md",
+      "tamanho_md": 32416,
+      "n_rc": 35,
+      "n_spans": 6,
+      "n_vinculos": 19,
+      "n_conceitos_novos": 10,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "observacao": "Diferente das limpezas anteriores, este arquivo NÃO foi removido do working tree local porque o upload do curador já não estava mais presente (já tinha sido limpo do working tree automaticamente pelo `git pull` ou workflow do GitHub). O arquivo foi recuperado via `git cat-file -p 086b706f...` do commit `9a5f68e` no remoto.",
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {"nome": ".gitkeep", "motivo": "manter pasta no git"},
+    {"nome": "README.md", "motivo": "documentação da pasta"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30.json", "motivo": "auditoria da limpeza nº 1"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-3.json", "motivo": "auditoria da limpeza nº 3"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-4.json", "motivo": "auditoria da limpeza nº 4"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-5.json", "motivo": "auditoria da limpeza nº 5 (este arquivo)"}
+  ],
+  "estado_pos_limpeza": "uploads_recepcao/ contém apenas metadados de auditoria + 2 palestras antigas (2019, 2023) ainda no working tree mas que foram processadas. A próxima palestra da Nova Fase (tema Pandora) deve ser adicionada via upload direto na pasta."
+}
