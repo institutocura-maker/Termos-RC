@@ -8,10 +8,10 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0004) de que **os elétrons (RC-378) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação). Os elétrons "montaram tribunal da Inquisição" e disseram "a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-378 (Elétron), RC-002 (Lúcifer), RC-009 (Sofia), RC-099 (Homo Sapiens), RC-330 (Genoma), RC-827 (Era do Colapso).
+Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0004) de que **os elétrons (RC-378) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação). Os elétrons "montaram tribunal da Inquisição" e disseram "a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-378 (Elétron), RC-002 (Lúcifer), RC-009 (Sophia), RC-099 (Homo Sapiens), RC-330 (Genoma), RC-827 (Era do Colapso).
 
 ## Contexto / Origem
-Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história da rebelião dos elétrons. O **"Ih"** de Morenu (~9 bilhões de anos atrás, no universo vizinho) e o **"Ih" de Luzbell** (~1 milhão de anos atrás, no nosso universo) são os primeiros momentos da percepção. "O que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima." Os elétrons estão acumulando **informação negativa** em sua "infinitude memorial" e não suportam mais apropriar — então estão "trabalhando as formas arcanas no âmbito do inconsciente dos elétrons" para desfazê-los.
+Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história da rebelião dos elétrons. O **"Ih"** de Morenu (~9 bilhões de anos atrás, no universo vizinho) e o **"Ih" de Yel Luzbel** (~1 milhão de anos atrás, no nosso universo) são os primeiros momentos da percepção. "O que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima." Os elétrons estão acumulando **informação negativa** em sua "infinitude memorial" e não suportam mais apropriar — então estão "trabalhando as formas arcanas no âmbito do inconsciente dos elétrons" para desfazê-los.
 
 ## Etimologia / Grafias
 - **Grafia preferida:** Rebelião dos Elétrons (Além da Entropia)
@@ -36,7 +36,7 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 |---|---|---|
 | Elétron | RC-378 | protagoniza |
 | Lúcifer | RC-002 | é-vetor-de |
-| Sofia | RC-009 | é-biodemo-de |
+| Sophia | RC-009 | é-biodemo-de |
 | Homo Sapiens | RC-099 | é-alvo-de |
 | Genoma | RC-330 | é-alvo-de |
 | Era do Colapso do Caos Organizado | RC-827 | contextualiza |
@@ -46,10 +46,21 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 ## Seres Associados
 - **Elétrons (RC-378)** — quem se rebela
 - **Lúcifer (RC-002)** — o vetor paralelo
-- **Sofia (RC-009)** — quem tem o "olhar científico" sobre a rebelião
+- **Sophia (RC-009)** — quem tem o "olhar científico" sobre a rebelião
 
 ## Observações
 - [REVISAR]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (rebelião dos elétrons como agente).
 - **Quarentena científica FORTE**: o conceito **NÃO FUSIONAR com** física de partículas acadêmica (CERN, LHC) nem com mecânica quântica acadêmica.
 - **Conexão com a P2023-12-03**: é a continuação direta. A P2023-12-03 fala da "rebelião de Lúcifer" (mais teológica); a P2023-12-17 fala da "rebelião dos elétrons" (mais cosmológica). Lúcifer e os elétrons são "dois vetores que nunca se uniram, mas precisa se unir".
 - **Conexão com Charon**: o autor cita o físico nuclear francês Charon (anos 70) como o descobridor da "memória dos elétrons" — parcialmente verificável (mecânica quântica reconhece "decoerência", mas não "vontade").
+
+## Quarentena Terminológica
+
+Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
+
+- **Sophia** (RC-009) — NUNCA "Sofia"
+- **Yel Luzbel** (RC-078/RC-142) — NUNCA "Luzbel" sozinho, NUNCA "Yosbel" (STT corruptela)
+- **Brahma** (RC-037) — NUNCA "Brama"
+- **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
+
+Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.

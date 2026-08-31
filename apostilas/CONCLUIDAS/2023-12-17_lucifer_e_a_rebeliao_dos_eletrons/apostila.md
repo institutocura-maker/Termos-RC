@@ -18,14 +18,14 @@
 | **Duração estimada** | ~2 horas (palestra com Q&A no final) |
 | **Companion de** | P2018-02-24, P2018-10-06, P2019-05-11, P2023-04-01b (Quarto Logos), P2023-11-11, P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada), P2017-05-14, P2018-05-20, P2019-04-14 (Pandora), P2025-04-06 |
 | **Conceitos novos criados** | 8 (C-1 a C-8 → RC-826 a RC-833) |
-| **RC únicas referenciadas** | ~25 (Lúcifer, Sofia, Yosbel, Javé, Brama, Krishna, Zeus, Aia, Aie, Einstein, Belquior, Fernando Pessoa, Shiva) |
+| **RC únicas referenciadas** | ~25 (Lúcifer, Sophia, Yel Luzbel, Javé, Brahma, Krishna, Zeus, Aya, Aye, Einstein, Belquior, Fernando Pessoa, Shiva) |
 | **Conexão com obras** | P2018-02-24 (Pandora e a Estratégia dos Avatares) + P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada) + B001 (Gênesis) + B009 (Drama Espírito Javé) + B037 (Divina Ceia — sistema arcaico mental) |
 
 ---
 
 ## @tese
 
-**A humanidade está vivendo "a era do colapso do caos organizado"** — uma era em que os **elétrons (RC-378)** estão se **rebelando contra a máquina de gerar vida** nos termos como sempre foi feita. **Sofia (RC-009)** é o protagonista dessa palestra (74 menções) — o representante da Trimurti no universo biológico, **biodemo** (parte ordem, parte caos), que tem "olhar científico sobre o abismo". **Lúcifer (RC-002) e a rebelião dos elétrons são "dois fatores ou vetores que nunca se uniram numa mesma convergência, mas precisa se unir"**.
+**A humanidade está vivendo "a era do colapso do caos organizado"** — uma era em que os **elétrons (RC-378)** estão se **rebelando contra a máquina de gerar vida** nos termos como sempre foi feita. **Sophia (RC-009)** é o protagonista dessa palestra (74 menções) — o representante da Trimurti no universo biológico, **biodemo** (parte ordem, parte caos), que tem "olhar científico sobre o abismo". **Lúcifer (RC-002) e a rebelião dos elétrons são "dois fatores ou vetores que nunca se uniram numa mesma convergência, mas precisa se unir"**.
 
 A palestra apresenta **8 conceitos novos** que reorganizam toda a cosmogonia do autor:
 
@@ -33,12 +33,12 @@ A palestra apresenta **8 conceitos novos** que reorganizam toda a cosmogonia do 
 2. **Era do Colapso do Caos Organizado (RC-827)**: o caos se organizou criando vida, mas agora a entropia (tamas chiva) + a rebelião dos elétrons estão colapsando as "ilhas de negentropia" (corais, colmeias, humanos).
 3. **Sistema Arcaico Mental (RC-828)**: o sistema mais antigo de organização — Javé era "abelha rainha", os clones "abelhas operárias" — descrito no livro "Divina Ceia" (B037).
 4. **Memória dos Elétrons e Arcanos (RC-829)**: os elétrons guardam memórias de tudo que existiu (universo vizinho + nosso). Os "arcanos" são memórias antigas que se transformaram em "conceitos mentais à parte". A rebelião desfaz esses arcanos.
-5. **Yosbel Como Aventureiro Isolado (RC-830)**: ser que está 2.000 anos absolutamente isolado, sem contato com ninguém, desde que desmaiou aos pés da cruz do humano Jesus crucificado. Percebeu que Jesus era expressão do comandante Sofia (contra o qual ele se rebelara).
-6. **Sofia Como Biodemo da Ordem e Caos (RC-831)**: "Sofia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sofia existe para pôr ordem no caos desse lado do universo."
+5. **Yel Luzbel Como Aventureiro Isolado (RC-830)**: ser que está 2.000 anos absolutamente isolado, sem contato com ninguém, desde que desmaiou aos pés da cruz do humano Jesus crucificado. Percebeu que Jesus era expressão do comandante Sophia (contra o qual ele se rebelara).
+6. **Sophia Como Biodemo da Ordem e Caos (RC-831)**: "Sophia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sophia existe para pôr ordem no caos desse lado do universo."
 7. **Pulsação dos Elétrons Como Afetividade (RC-832)**: o comportamento biológico humano (afetividade, identidade de gênero, medo de relação) é promovido pela **pulsação dos elétrons** — não é escolha humana livre.
 8. **13 Livros de Lúcifer com Humanos (RC-833)**: "Lúcifer poderia sim ajudar bastante os cientistas da Terra... seria muito bom que Lúcifer, antes de se desfazer, escrever 13 livros com humanos sobre a rebelião de Lúcifer. Os nove livros que eu tô escrevendo é o início desse processo".
 
-A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (Lúcifer ainda por ser finalizada) e **estabelece a era do colapso** como o pano de fundo de todas as outras palestras.
+A palestra também **contextualiza Sophia como uma evolução da P2023-12-03** (Lúcifer ainda por ser finalizada) e **estabelece a era do colapso** como o pano de fundo de todas as outras palestras.
 
 ---
 
@@ -47,10 +47,10 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 | Data | Significado |
 |---|---|
 | **~13,8 bilhões de anos atrás** | Big Bang — singularidade explodiu, surgiram dois universos (matéria + antimatéria). "estava plenamente organizado" — uma "sopa de quarks e glúons". |
-| **~6 bilhões de anos atrás** | Javé aceitou que se criassem **dois seres livres**: Morenu (avatar) e Sofia (representante da Trimurti no universo vizinho). **4 cabeças** no corpo de Morenu para que a Trimurti destruísse o avatar se descumprisse. |
+| **~6 bilhões de anos atrás** | Javé aceitou que se criassem **dois seres livres**: Morenu (avatar) e Sophia (representante da Trimurti no universo vizinho). **4 cabeças** no corpo de Morenu para que a Trimurti destruísse o avatar se descumprisse. |
 | **~9 bilhões de anos atrás** (no universo vizinho) | Morenu (Moros) olhou para os pósitrons e disse "Ih" — primeiro momento em que se percebeu algo na antimatéria. |
-| **~900.000 a 1 milhão de anos atrás** | Luzbell (no nosso universo) olhou para os elétrons e disse "Ih" — paralelo ao momento de Morenu. |
-| **~2.000 anos atrás** | Yosbel desmaiou aos pés da cruz de Jesus (humano crucificado) e desde então está absolutamente isolado, sem contato. Percebeu que Jesus era expressão do comandante Sofia. |
+| **~900.000 a 1 milhão de anos atrás** | Yel Luzbel (no nosso universo) olhou para os elétrons e disse "Ih" — paralelo ao momento de Morenu. |
+| **~2.000 anos atrás** | Yel Luzbel desmaiou aos pés da cruz de Jesus (humano crucificado) e desde então está absolutamente isolado, sem contato. Percebeu que Jesus era expressão do comandante Sophia. |
 | **2023 (atual)** | "Ano 2023, o problema continua e tá cada vez pior" — colmeias colapsando, corais colapsando, humanos cada vez menos se reproduzindo. |
 | **Hoje (2023-12-17)** | O autor está escrevendo 9 livros (publicou 1). Lúcifer precisa escrever 13 livros com humanos antes de se "desfazer". É a "era do colapso do caos organizado" — "nós estamos vivendo uma série de colapsos... corrente marítima tá colapsando a Golf Stream". |
 
@@ -60,8 +60,8 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 
 | Fato | Fonte primária | Status epistemológico |
 |---|---|---|
-| Sofia é biodemo (parte ordem, parte caos) | **P2023-12-17 (U0001)** | Leitura do autor (psicografia) |
-| A Trimurti representa-se no universo vizinho via Sofia (com 4 cabeças) | **P2023-12-17 (U0001)** | Leitura do autor (psicografia) |
+| Sophia é biodemo (parte ordem, parte caos) | **P2023-12-17 (U0001)** | Leitura do autor (psicografia) |
+| A Trimurti representa-se no universo vizinho via Sophia (com 4 cabeças) | **P2023-12-17 (U0001)** | Leitura do autor (psicografia) |
 | Os elétrons estão colapsando colmeias e corais | **P2023-12-17 (U0003/U0004)** | Leitura do autor (psicografia) — parcialmente verificável (colapso de colmeias é fato científico, "memória dos elétrons" é leitura) |
 | A humanidade está se reproduzindo menos por causa da pulsação dos elétrons | **P2023-12-17 (U0004)** | Leitura do autor (psicografia) — parcialmente verificável (queda na natalidade é fato em vários países) |
 | Identidade de gênero, medo de relação sexual, afetividade = promoção dos elétrons | **P2023-12-17 (U0004)** | **Leitura polêmica do autor** — pode ser interpretada como transfobia |
@@ -76,18 +76,18 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 
 ### Personagens
 
-- **Sofia (RC-009)**: protagonista central. **Biodemo** (parte ordem, parte caos). Representante da Trimurti no universo biológico, "um gênio em muitas coisas", "existia para pôr ordem no caos desse lado do universo". Teve que destruir muita coisa para manter a ordem — "destruir muitas civilizações que provocavam mais caos". Foi gerado com 4 cabeças (para a Trimurti destruí-lo se descumprisse).
+- **Sophia (RC-009)**: protagonista central. **Biodemo** (parte ordem, parte caos). Representante da Trimurti no universo biológico, "um gênio em muitas coisas", "existia para pôr ordem no caos desse lado do universo". Teve que destruir muita coisa para manter a ordem — "destruir muitas civilizações que provocavam mais caos". Foi gerado com 4 cabeças (para a Trimurti destruí-lo se descumprisse).
 - **Lúcifer (RC-002)**: "olhar dele pro abismo é científico. A mente de Lúcio é totalmente científica, não é como a minha". Poderia ajudar os cientistas da Terra. Deveria escrever 13 livros com humanos antes de se "desfazer".
-- **Javé (RC-001)**: criador do sistema arcaico mental — "Javé era abelha rainha, os clones, as abelhas operárias". Aceitou criar Sofia e Morenu, mas queria controle. Os clones (anjos) foram gradualmente se livrando do controle mental de Javé.
-- **Yosbel (RC-630)**: "um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém". Desmaiou aos pés da cruz do humano Jesus crucificado, percebendo que Jesus era expressão de Sofia.
+- **Javé (RC-001)**: criador do sistema arcaico mental — "Javé era abelha rainha, os clones, as abelhas operárias". Aceitou criar Sophia e Morenu, mas queria controle. Os clones (anjos) foram gradualmente se livrando do controle mental de Javé.
+- **Yel Luzbel (RC-630)**: "um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém". Desmaiou aos pés da cruz do humano Jesus crucificado, percebendo que Jesus era expressão de Sophia.
 - **Krishna (RC-081)**: representante do **3º Logos** (Vishnu). Os elétrons não têm mais paciência para ele. "Krishna, obviamente não tem como resolver o problema dos elétrons. Ninguém tem." A devoção a Krishna "imbecilizou os humanos no sentido de compreender essas coisas".
 - **Trimurti (RC-104)**: trio Hindu (Brahma/Shiva/Vishnu) — destruía Morenu se ele descumprisse.
 - **Morenu/Moros (RC-316)**: avatar de Javé neste universo — 4 cabeças, destruidor de civilizações caóticas. "O mesmo 'Ih' que Moros fez há uns bons 9 bilhões de anos atrás lá no universo vizinho, foi o mesmo 'Ih' que eles Bell fez há cerca de uns 900.000 ou 1 milhão de anos atrás".
-- **Aia/Aie (RC-369)**: dois tipos de clones gerados pela família Aia — passaram a integrar o corpo de Sofia.
-- **Brama (RC-001)**: outro nome de Javé — "criou esse ovo aqui e caiu no ovo. E o ovo explodiu e surgiam esses dois universos".
+- **Aya/Aye (RC-369)**: dois tipos de clones gerados pela família Aya — passaram a integrar o corpo de Sophia.
+- **Brahma (RC-001)**: outro nome de Javé — "criou esse ovo aqui e caiu no ovo. E o ovo explodiu e surgiam esses dois universos".
 - **Shiva (Chiva, RC-148)**: jogou a **energia tamásica** (tamas chiva) como "selo de qualidade" que garante que o universo um dia se acabe — é a origem da **entropia**.
 - **Zeus (RC-149)**: "uma das raivas que Zeus tem é porque ele próprio, Apolo e outras figuras que poderiam ter procriado mais na humanidade, eles próprios foram pela postura homofetiva e terminaram gostando mais disso do que propriamente a questão da heterossexualidade". Hoje tem menos representatividade na humanidade híbrida.
-- **Jesus (RC-006)**: o humano crucificado — "expressão do comandante Sofia". Foi morto, mas a palestra não aprofunda.
+- **Jesus (RC-006)**: o humano crucificado — "expressão do comandante Sophia". Foi morto, mas a palestra não aprofunda.
 - **Belquior (referência cultural)**: poeta brasileiro citado na abertura — "quando eu caminhava por esse mundo de meu Deus... fazendo eu mesmo o meu caminho". Paralelo com a caminhada humana na criação de Javé.
 - **Fernando Pessoa (referência cultural)**: poeta lusitano — "o espírito desse cidadão gostaria que o eu dele, humano, tivesse lido em português". Paralelo com a busca humana por sentido.
 - **Einstein (referência cultural)**: o autor invoca como paradigma do "olhar científico sobre o abismo" — paralelo com Lúcifer.
@@ -107,7 +107,7 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 - **Elétron (RC-378)**: "mensageiros que funcionam em torno de núcleos atômicos, prótons e nêutrons, e vão se compondo com outros elétrons, formando moléculas, células, moléculas". Tem memória. É quem está se rebelando.
 - **Pósitron (antielétron)**: o equivalente no universo vizinho. "Antidementes iguais aos donos de lá" — não se rebelam.
 - **Sistema de Colapso (Tribunal da Inquisição dos Elétrons)**: metáfora — "os elétrons montaram tribunal da Inquisição e disseram: 'Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito'".
-- **"Ih" (momento de percepção)**: o momento em que Morenu (9 bi anos atrás) e Luzbell (~1 milhão anos atrás) olharam para os pósitrons/elétrons e disseram "Ih" — o primeiro momento da rebelião.
+- **"Ih" (momento de percepção)**: o momento em que Morenu (9 bi anos atrás) e Yel Luzbel (~1 milhão anos atrás) olharam para os pósitrons/elétrons e disseram "Ih" — o primeiro momento da rebelião.
 - **Fé Religiosa (RC-038)**: "produto do terceiro logos, ou seja, de Vígno [Vishnu], de Jesus, de Krishna". "Isso imbecilizou os humanos no sentido de compreender essas coisas".
 
 ### Lugares / Moradas
@@ -122,18 +122,18 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 ### Eventos
 
 - **Big Bang (13,8 bi anos)**: a singularidade explodiu, surgiram os dois universos. "Isso explodiu e vai continuar explodindo. Por isso que o universo está se expandindo o tempo todo".
-- **Queda de Javé no ovo cósmico**: "Brama criou esse ovo aqui e caiu no ovo. E o ovo explodiu e surgiam esses dois universos e brama aqui dentro". Equivalente à Pandemia de Buraco Branco (RC-809).
-- **Geração de Sofia e Morenu (6 bi anos)**: Javé aceitou criar dois seres livres, mas com 4 cabeças em Morenu (para a Trimurti destruir).
+- **Queda de Javé no ovo cósmico**: "Brahma criou esse ovo aqui e caiu no ovo. E o ovo explodiu e surgiam esses dois universos e brama aqui dentro". Equivalente à Pandemia de Buraco Branco (RC-809).
+- **Geração de Sophia e Morenu (6 bi anos)**: Javé aceitou criar dois seres livres, mas com 4 cabeças em Morenu (para a Trimurti destruir).
 - **"Ih" de Morenu (9 bi anos)**: primeiro momento da percepção dos pósitrons.
-- **"Ih" de Luzbell (~1 milhão anos)**: paralelo do nosso universo.
-- **Crucificação de Jesus humano (2.000 anos)**: Yosbel desmaiou aos pés da cruz. Percebeu que Jesus era Sofia.
-- **Isolamento de Yosbel (2.000 anos)**: desde a crucificação.
+- **"Ih" de Yel Luzbel (~1 milhão anos)**: paralelo do nosso universo.
+- **Crucificação de Jesus humano (2.000 anos)**: Yel Luzbel desmaiou aos pés da cruz. Percebeu que Jesus era Sophia.
+- **Isolamento de Yel Luzbel (2.000 anos)**: desde a crucificação.
 - **Início da era do colapso (2023)**: colmeias, corais, humanos colapsando.
 - **13 Livros de Lúcifer (futuro)**: Lúcifer precisa escrever 13 livros com humanos sobre a rebelião de Lúcifer. O autor está escrevendo 9 livros (publicou 1).
 
 ### Espécies
 
-- **Biodemos (Sofia, Morenu)**: híbrido de humano + demo. Ordem e caos.
+- **Biodemos (Sophia, Morenu)**: híbrido de humano + demo. Ordem e caos.
 - **Elétrons (RC-378)**: a espécie que está se rebelando. Tem memória, arcanos, pulsação.
 - **Pósitrons (antielétrons)**: o equivalente no universo vizinho. Não se rebelam.
 - **Humanos (RC-099)**: "melhor criação do caos", mas colapsando por ação dos elétrons.
@@ -142,50 +142,50 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 
 ## @spans (5 PARTES)
 
-### U0001 — Abertura: Sofia, Yosbel e o "fazer por si mesmo o seu caminho"
+### U0001 — Abertura: Sophia, Yel Luzbel e o "fazer por si mesmo o seu caminho"
 
-- **Temas**: poesia de Belquior e Fernando Pessoa; "fazer por si mesmo o caminho que se trilha"; **Yosbel** (2.000 anos isolado); **Sofia** como protagonista; relação Lúcifer-Sofia.
+- **Temas**: poesia de Belquior e Fernando Pessoa; "fazer por si mesmo o caminho que se trilha"; **Yel Luzbel** (2.000 anos isolado); **Sophia** como protagonista; relação Lúcifer-Sophia.
 - **Citação-chave 1 (Belquior)**: "quando eu caminhava por esse mundo de meu Deus, né? fazendo eu mesmo o meu caminho, essa coisa, o fazer você mesmo o seu caminho. Eh, o Belquol tava revelando a dificuldade que ele teve de sair do Ceará e se tornar minimamente conhecido no Brasil inteiro".
-- **Citação-chave 2 (Yosbel)**: "Yosbel, que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém. Desde que ele desmaiou aos pés da cruz do humano Jesus sendo crucificado. E quando ele percebeu que aquele ser humano era uma expressão do comandante Sofia contra o qual ele se rebelara".
-- **Citação-chave 3 (Sofia como protagonista)**: "Hoje, pela primeira vez, Eu vou falar de forma mais aberta sobre os problemas entre Sofia e Lúcifer. De novo, eu não esperava que esse assunto a gente fosse aprofundar. Novamente digo, não esperava ter feito uma palestra que fiz há pouco tempo dizendo que a rebelião de Lúcifer ainda está por ser finalizada".
-- **Conceitos centrais**: Sofia como protagonista; Yosbel como Aventureiro Isolado; Sofia como Biodemo da Ordem e Caos; Abertura com poesia como método.
+- **Citação-chave 2 (Yel Luzbel)**: "Yel Luzbel, que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém. Desde que ele desmaiou aos pés da cruz do humano Jesus sendo crucificado. E quando ele percebeu que aquele ser humano era uma expressão do comandante Sophia contra o qual ele se rebelara".
+- **Citação-chave 3 (Sophia como protagonista)**: "Hoje, pela primeira vez, Eu vou falar de forma mais aberta sobre os problemas entre Sophia e Lúcifer. De novo, eu não esperava que esse assunto a gente fosse aprofundar. Novamente digo, não esperava ter feito uma palestra que fiz há pouco tempo dizendo que a rebelião de Lúcifer ainda está por ser finalizada".
+- **Conceitos centrais**: Sophia como protagonista; Yel Luzbel como Aventureiro Isolado; Sophia como Biodemo da Ordem e Caos; Abertura com poesia como método.
 - **Vínculos**:
-  - V1: `RC-630 (Yosbel) → RC-009 (Sofia) rebelou-se-contra`
-  - V2: `RC-630 (Yosbel) → RC-006 (Jesus) desmaiou-aos-pés-da-cruz-de`
-  - V3: `RC-009 (Sofia) → RC-002 (Lúcifer) tem-problemas-com`
+  - V1: `RC-630 (Yel Luzbel) → RC-009 (Sophia) rebelou-se-contra`
+  - V2: `RC-630 (Yel Luzbel) → RC-006 (Jesus) desmaiou-aos-pés-da-cruz-de`
+  - V3: `RC-009 (Sophia) → RC-002 (Lúcifer) tem-problemas-com`
 
-### U0002 — Sofia como Biodemo: a estrutura da Trimurti no universo biológico
+### U0002 — Sophia como Biodemo: a estrutura da Trimurti no universo biológico
 
-- **Temas**: Sofia = biodemo (parte ordem, parte caos); Javé aceitou criar Sofia e Morenu (6 bi anos atrás); os 4 cabeças de Morenu; os clones Aia/Aie; Sofia destruindo civilizações caóticas; Sofia se livrando do controle mental de Javé.
+- **Temas**: Sophia = biodemo (parte ordem, parte caos); Javé aceitou criar Sophia e Morenu (6 bi anos atrás); os 4 cabeças de Morenu; os clones Aya/Aye; Sophia destruindo civilizações caóticas; Sophia se livrando do controle mental de Javé.
 - **Citação-chave 1 (Morenu 4 cabeças)**: "Javé aceitou que se criassem dois seres livres nessa história. Um foi Morençor E por isso a estrutura física do corpo de Morrensor teve que compor quatro cabeças porque Javé aceitou, mas queria estar presente também no corpo de Morençô. Porque se a cabeça de Morençor descumprisse os termos da trimurte, os três destruiriam Morençor naquele corpo".
-- **Citação-chave 2 (Sofia destruindo)**: "Sofia existe para pôr ordem no caos desse lado do universo. Então ele teve que destruir muita coisa para manter a ordem, teve que destruir muitas civilizações que provocavam mais caos. Então o Sofia se mexe nessa dualidade meio simplória até hoje".
-- **Citação-chave 3 (clones se livrando)**: "Com o tempo, Jaavé foi enfrentando os problemas do universo vizinho, entrava em conta e esquecendo Sofia e os clones desse universo biológico. E foi assim que esses anjos foram meio que ficando livres da opressão do controle mental do Senhor Javé".
-- **Conceitos centrais**: Sofia como Biodemo; Morenu de 4 Cabeças; Clones Aia/Aie; Sofia destruidor de civilizações; Sofia livre do controle de Javé.
+- **Citação-chave 2 (Sophia destruindo)**: "Sophia existe para pôr ordem no caos desse lado do universo. Então ele teve que destruir muita coisa para manter a ordem, teve que destruir muitas civilizações que provocavam mais caos. Então o Sophia se mexe nessa dualidade meio simplória até hoje".
+- **Citação-chave 3 (clones se livrando)**: "Com o tempo, Jaavé foi enfrentando os problemas do universo vizinho, entrava em conta e esquecendo Sophia e os clones desse universo biológico. E foi assim que esses anjos foram meio que ficando livres da opressão do controle mental do Senhor Javé".
+- **Conceitos centrais**: Sophia como Biodemo; Morenu de 4 Cabeças; Clones Aya/Aye; Sophia destruidor de civilizações; Sophia livre do controle de Javé.
 - **Vínculos**:
-  - V4: `RC-009 (Sofia) → RC-104 (Trimurti) é-representante-de`
-  - V5: `RC-009 (Sofia) → RC-001 (Javé) é-biodemo-de`
+  - V4: `RC-009 (Sophia) → RC-104 (Trimurti) é-representante-de`
+  - V5: `RC-009 (Sophia) → RC-001 (Javé) é-biodemo-de`
   - V6: `RC-316 (Morenu) → RC-104 (Trimurti) tem-4-cabeças-de`
-  - V7: `RC-369 (Aia/Aie) → RC-009 (Sofia) é-família-de`
+  - V7: `RC-369 (Aya/Aye) → RC-009 (Sophia) é-família-de`
 
 ### U0003 — A diferença entre universo vizinho (plasma/pósitrons) e nosso universo (elétrons/vida)
 
 - **Temas**: como os elétrons formam vida no nosso universo (átomos → moléculas → células); como os pósitrons formam plasma no universo vizinho (sem etapas intermediárias); a memória dos elétrons; os arcanos; a relação com colmeias e corais.
 - **Citação-chave 1 (plasma)**: "no universo vizinho não tem elétrons, tem anti-eltrons, ou seja, os chamados pósitons do campo que forma tudo que existe nesse universo vizinho. E lá tudo é plasma, tudo é os pósitrons, ou seja, os antielétrons se organizam formando plasma. Aqui Os elétrons se tornam mensageiros que funcionam em torno de núcleos atômicos, prótons e nêutrons".
 - **Citação-chave 2 (Big Bang)**: "no primeiro momento há 13.8 bilhões de anos, mantendo os atuais padrões de conhecimento, quando surgiu uma singularidade E essa singularidade explodiu, se expandiu e daqui surgiram dois universos".
-- **Citação-chave 3 (entropia = tamas chiva)**: "As mitologias ou a mitologia hindu diz: 'Ah, bobagem, o nome disso aqui é a força tamásica'. Tamásica ou tamas que chiva lá atrás, na hora que Brama criou esse ovo aqui. e caiu no ovo. E o ovo explodiu e surgiam esses dois universos e brama aqui dentro. Savina, que ainda estava fora desse universo, jogou a energia tamásica como sendo um selo de qualidade que garante que isso aqui um dia se acabe".
+- **Citação-chave 3 (entropia = tamas chiva)**: "As mitologias ou a mitologia hindu diz: 'Ah, bobagem, o nome disso aqui é a força tamásica'. Tamásica ou tamas que chiva lá atrás, na hora que Brahma criou esse ovo aqui. e caiu no ovo. E o ovo explodiu e surgiam esses dois universos e brama aqui dentro. Savina, que ainda estava fora desse universo, jogou a energia tamásica como sendo um selo de qualidade que garante que isso aqui um dia se acabe".
 - **Citação-chave 4 (memória dos elétrons)**: "no inconsciente dos elétrons... Aí um imbecil, tipo, qualquer um de nós aqui consegue compreender e cientistas gastam bilhões e analisam tudo, mas percebem os elementos indicativos, mas não conseguem ter o nível de compreensão. Mas é isso. Cientistas nem admitem que o elétron tem memória. Outros cientistas sabem porque fazem as contas e interpretam e diz: 'Tem Charon, que foi o físico nuclear francês que descobriu isso nos anos 70'".
 - **Conceitos centrais**: Diferença Universo Vizinho vs Nosso; Plasma como Estado do Universo Vizinho; Memória dos Elétrons; Arcanos; Colapso de Colmeias; Colapso de Corais; Entropia como Força Tamásica; Sistema Arcaico Mental.
 - **Vínculos**:
   - V8: `RC-378 (Elétron) → RC-379 (Antielétron) é-antimatéria-de`
   - V9: `RC-148 (Shiva) → RC-378 (Elétron) joga-força-tamásica-em`
   - V10: `RC-378 (Elétron) → RC-099 (Homo Sapiens) tem-memória-de`
-  - V11: `RC-001 (Javé) → RC-009 (Sofia) criou-com-abelha-rainha`
-  - V12: `RC-379 (Antielétron) → RC-009 (Sofia) é-demente-como`
+  - V11: `RC-001 (Javé) → RC-009 (Sophia) criou-com-abelha-rainha`
+  - V12: `RC-379 (Antielétron) → RC-009 (Sophia) é-demente-como`
   - V13: `RC-162 (Plasma) → RC-378 (Elétron) é-estado-de`
 
 ### U0004 — A rebelião dos elétrons: o "Ih" e a era do colapso
 
-- **Temas**: o "Ih" de Morenu (9 bi anos) e de Luzbell (~1 milhão anos); a rebelião dos elétrons **não é entropia** — está além; os elétrons colapsando colmeias, corais, genomas; a pulsação dos elétrons = afetividade humana; o tribunal da Inquisição dos elétrons.
+- **Temas**: o "Ih" de Morenu (9 bi anos) e de Yel Luzbel (~1 milhão anos); a rebelião dos elétrons **não é entropia** — está além; os elétrons colapsando colmeias, corais, genomas; a pulsação dos elétrons = afetividade humana; o tribunal da Inquisição dos elétrons.
 - **Citação-chave 1 (o "Ih")**: "o que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima. E esses eus adiátima se complicaram, mas esses eus adiátima que se complicaram porque criaram eus adaivas dele, depois eus a de ágenas é complicado para cacete".
 - **Citação-chave 2 (rebelião)**: "A rebelião dos elétrons, a própria rebelião da das memórias dos elétrons. Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás".
 - **Citação-chave 3 (pulsação)**: "Os elétrons eles estão acumulando informações mais e mais e enquanto isso aqui durar essa criação, eles vão estar acumulando informação. Mas compreendo, eles já acumularam um grau de informação negativa que fez a infinitude memorial deles não suportar mais apropriar. Então os elétrons eles estão trabalhando com as formas arcanas no âmbito do inconsciente dos elétrons".
@@ -197,7 +197,7 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
   - V15: `RC-378 (Elétron) → RC-002 (Lúcifer) é-vetor-de-rebelião-de`
   - V16: `RC-162 (Plasma/Colmeia) → RC-378 (Elétron) colapsa`
   - V17: `RC-378 (Elétron) → RC-330 (Genoma) tem-arcanos-de`
-  - V18: `RC-009 (Sofia) → RC-378 (Elétron) tem-pulsação-de`
+  - V18: `RC-009 (Sophia) → RC-378 (Elétron) tem-pulsação-de`
 
 ### U0005 — Era do colapso e 13 Livros de Lúcifer com Humanos
 
@@ -208,7 +208,7 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 - **Citação-chave 4 (Q&A: Zeus)**: "uma das raivas que Zeus tem é porque ele próprio, Apolo e outras figuras que poderiam ter procriado mais na humanidade, eles próprios foram pela postura homofetiva e terminaram gostando mais disso do que propriamente a questão da heterossexualidade".
 - **Conceitos centrais**: Era do Colapso do Caos Organizado; Dignidade Como Alinhamento dos Elétrons; 13 Livros de Lúcifer; Q&A sobre postura dos demos e de Zeus.
 - **Vínculos**:
-  - V19: `RC-378 (Elétron) → RC-009 (Sofia) alinha-via-dignidade-com`
+  - V19: `RC-378 (Elétron) → RC-009 (Sophia) alinha-via-dignidade-com`
   - V20: `RC-002 (Lúcifer) → RC-099 (Homo Sapiens) precisa-escrever-13-livros-com`
   - V21: `RC-149 (Zeus) → RC-099 (Homo Sapiens) tem-menos-progênie-híbrida-em`
 
@@ -220,7 +220,7 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 
 - **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que os **elétrons (RC-378) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação).
 - **Fontes**: P2023-12-17 U0004 (primária); paralelo com **P2023-12-03 (Rebelião de Lúcifer ainda por ser Finalizada)**.
-- **RC relacionadas**: RC-378 (Elétron), RC-002 (Lúcifer), RC-009 (Sofia), RC-099 (Homo Sapiens), RC-330 (Genoma).
+- **RC relacionadas**: RC-378 (Elétron), RC-002 (Lúcifer), RC-009 (Sophia), RC-099 (Homo Sapiens), RC-330 (Genoma).
 - **Status epistemológico**: leitura do autor; **parcialmente verificável** (queda na natalidade humana é fato em vários países; colapso de colmeias é fato científico; "memória dos elétrons" é leitura).
 
 ### C-2: Era do Colapso do Caos Organizado → RC-827
@@ -234,7 +234,7 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 
 - **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais antigo de organização da vida** é o **sistema arcaico mental** — descrito no livro "Divina Ceia" (B037) — onde **Javé = abelha rainha**, **os clones = abelhas operárias**. Os elétrons estão colapsando esse sistema arcaico porque ele é o mais antigo (300 milhões de anos).
 - **Fontes**: P2023-12-17 U0003 (primária).
-- **RC relacionadas**: RC-001 (Javé), RC-009 (Sofia), RC-378 (Elétron), RC-162 (Plasma).
+- **RC relacionadas**: RC-001 (Javé), RC-009 (Sophia), RC-378 (Elétron), RC-162 (Plasma).
 - **Status epistemológico**: leitura do autor.
 
 ### C-4: Memória dos Elétrons e Arcanos → RC-829
@@ -244,32 +244,32 @@ A palestra também **contextualiza Sofia como uma evolução da P2023-12-03** (L
 - **RC relacionadas**: RC-378 (Elétron), RC-099 (Homo Sapiens), RC-161 (Memória Quântica dos Elétrons).
 - **Status epistemológico**: leitura do autor; **paralelo com "inconsciente coletivo" de Jung** (que o autor cita como "aprovado matematicamente"); **parcialmente verificável** (mecânica quântica reconhece "memória" de sistemas).
 
-### C-5: Yosbel Como Aventureiro Isolado (2.000 Anos) → RC-830
+### C-5: Yel Luzbel Como Aventureiro Isolado (2.000 Anos) → RC-830
 
-- **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yosbel** é um ser que está **2.000 anos absolutamente isolado**, sem contato com ninguém, desde que **desmaiou aos pés da cruz do humano Jesus crucificado**. Quando percebeu que aquele ser humano era **expressão do comandante Sofia** (contra o qual ele se rebelara). É o "aventureiro" que "também iria escolher o verso de Belquió".
+- **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yel Luzbel** é um ser que está **2.000 anos absolutamente isolado**, sem contato com ninguém, desde que **desmaiou aos pés da cruz do humano Jesus crucificado**. Quando percebeu que aquele ser humano era **expressão do comandante Sophia** (contra o qual ele se rebelara). É o "aventureiro" que "também iria escolher o verso de Belquió".
 - **Fontes**: P2023-12-17 U0001 (primária).
-- **RC relacionadas**: RC-006 (Jesus), RC-009 (Sofia), RC-002 (Lúcifer).
+- **RC relacionadas**: RC-006 (Jesus), RC-009 (Sophia), RC-002 (Lúcifer).
 - **Status epistemológico**: leitura do autor (psicografia).
 
-### C-6: Sofia Como Biodemo da Ordem e Caos → RC-831
+### C-6: Sophia Como Biodemo da Ordem e Caos → RC-831
 
-- **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0002) de que **Sofia (RC-009) é um biodemo** — híbrido de humano + demo, parte ordem, parte caos. "Sofia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sofia existe para pôr ordem no caos desse lado do universo." Sofia teve que destruir muitas civilizações para manter a ordem.
+- **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0002) de que **Sophia (RC-009) é um biodemo** — híbrido de humano + demo, parte ordem, parte caos. "Sophia tem um quê de demo porque ele é biodemo, é a questão de ordem e caos. Onde tem caos, você tem que pôr ordem. E Sophia existe para pôr ordem no caos desse lado do universo." Sophia teve que destruir muitas civilizações para manter a ordem.
 - **Fontes**: P2023-12-17 U0002 (primária).
-- **RC relacionadas**: RC-009 (Sofia), RC-104 (Trimurti), RC-001 (Javé), RC-316 (Morenu).
+- **RC relacionadas**: RC-009 (Sophia), RC-104 (Trimurti), RC-001 (Javé), RC-316 (Morenu).
 - **Status epistemológico**: leitura do autor (psicografia).
 
 ### C-7: Pulsação dos Elétrons Como Afetividade Humana → RC-832
 
 - **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportamento biológico humano** (afetividade, identidade de gênero, medo de relação sexual, vontade de ficar só) é promovido pela **pulsação dos elétrons** — **NÃO é escolha humana livre**, é "comportamento biológico promovido pela pulsação dos elétrons". Os elétrons estão **desincentivando a reprodução humana** para parar com a "máquina de gerar vida".
 - **Fontes**: P2023-12-17 U0004 (primária).
-- **RC relacionadas**: RC-378 (Elétron), RC-099 (Homo Sapiens), RC-009 (Sofia), RC-330 (Genoma).
+- **RC relacionadas**: RC-378 (Elétron), RC-099 (Homo Sapiens), RC-009 (Sophia), RC-330 (Genoma).
 - **Status epistemológico**: leitura do autor; **LEITURA POLÊMICA** — pode ser interpretada como transfobia. **Quarentena crítica necessária**.
 
 ### C-8: 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) → RC-833
 
 - **Definição sintética**: Tese (leitura do autor, palestra **P2023-12-17**, U0005) de que **Lúcifer precisa escrever 13 livros com humanos** sobre a rebelião de Lúcifer. "Lúcifer poderia sim ajudar bastante os cientistas da Terra, porque o olhar dele pro abismo é científico." Os **9 livros que o autor está escrevendo** são o início desse processo (publicou 1 com Maria Helena).
 - **Fontes**: P2023-12-17 U0005 (primária).
-- **RC relacionadas**: RC-002 (Lúcifer), RC-099 (Homo Sapiens), RC-009 (Sofia).
+- **RC relacionadas**: RC-002 (Lúcifer), RC-099 (Homo Sapiens), RC-009 (Sophia).
 - **Status epistemológico**: leitura do autor (autobiografia — o autor está escrevendo esses livros).
 
 ---
@@ -301,9 +301,9 @@ A leitura do autor **NÃO FUSIONAR com**:
 
 ### Quarentena metodológica: grafias STT
 
-- **Luzbell / Luzbel** (Lúcifer) — manter grafia STT.
+- **Yel Luzbel / Yel Luzbel** (Lúcifer) — manter grafia STT.
 - **Morenu / Morençor / Moros** (avatar de Javé) — STT corrompe.
-- **Bell** (Luzbell?) — STT corrompe ("Bell" pode ser corruptela).
+- **Bell** (Yel Luzbel?) — STT corrompe ("Bell" pode ser corruptela).
 - **Tamas Chiva / Tamásica** (energia tamásica) — STT corrompe.
 - **Adiágia / Adiátima / Adaivas / Ágenas / Átma** (termos sânscritos) — STT muito corrompido. Grafia preferida: **Āditya (Aditya)**, **Ātman (Atman)**, etc.
 - **Geetropia** (STT) — provavelmente "negentropia".
@@ -311,12 +311,12 @@ A leitura do autor **NÃO FUSIONAR com**:
 
 ### Quarentena teológica FORTE
 
-A leitura do autor sobre **Sofia como biodemo** que **destruiu civilizações** e **tem olhar científico sobre o abismo** **NÃO FUSIONAR com**:
+A leitura do autor sobre **Sophia como biodemo** que **destruiu civilizações** e **tem olhar científico sobre o abismo** **NÃO FUSIONAR com**:
 - Teologia gnóstica acadêmica (Sophia = figura feminina do Pleroma).
 - Gnose valentiniana (Sophia como emanação caída).
-- Teologia cristã/juía/islâmica (Sofia como "sabedoria divina").
+- Teologia cristã/juía/islâmica (Sophia como "sabedoria divina").
 
-A **Sofia da palestra** é:
+A **Sophia da palestra** é:
 - **Biodemo** (parte humana, parte demo).
 - **Representante da Trimurti** no universo biológico.
 - **Destruidor de civilizações** caóticas.
@@ -336,10 +336,10 @@ O autor revela que está **escrevendo 9 livros** (publicou 1 com Maria Helena) c
 
 - **Duração estimada**: ~2 horas.
 - **Gênero**: palestra (fonte primária, STT bruto).
-- **Tom**: técnico-cosmológico + **fortemente confessional** (o autor cita suas próprias conversas com Maria Helena, Belquior, Fernando Pessoa, Luzbell).
+- **Tom**: técnico-cosmológico + **fortemente confessional** (o autor cita suas próprias conversas com Maria Helena, Belquior, Fernando Pessoa, Yel Luzbel).
 - **Estrutura interna**:
-  1. U0001 — Abertura (Yosbel, Belquior, Sofia protagonista) (~15 min).
-  2. U0002 — Sofia como Biodemo (Trimurti, 4 cabeças de Morenu) (~30 min).
+  1. U0001 — Abertura (Yel Luzbel, Belquior, Sophia protagonista) (~15 min).
+  2. U0002 — Sophia como Biodemo (Trimurti, 4 cabeças de Morenu) (~30 min).
   3. U0003 — Diferença entre universo vizinho e nosso (plasma vs elétrons, memória, colmeias) (~30 min).
   4. U0004 — A rebelião dos elétrons (o "Ih", pulsação, tribunal da Inquisição) (~30 min).
   5. U0005 — Era do colapso e 13 Livros de Lúcifer + Q&A (~15 min).
@@ -352,12 +352,12 @@ O autor revela que está **escrevendo 9 livros** (publicou 1 com Maria Helena) c
 | Palestra | Relação |
 |---|---|
 | **P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)** | **DIRETA** — P2023-12-17 é a continuação. "Novamente digo, não esperava ter feito uma palestra que fiz há pouco tempo dizendo que a rebelião de Lúcifer ainda está por ser finalizada". |
-| P2018-02-24 (Pandora e a Estratégia dos Avatares) | Sofia é paralelo a Pandora — ambos protagonistas que viraram o jogo. |
-| P2018-10-06 (Humanidade em Disputa) | Sofia é a "parte mais bela" da humanidade (complemento). |
-| P2019-05-11 (Pandora e os Desacertos dos Pactos de Javé) | Os pactos de Javé com Vishnu e Shiva são o contexto para a geração de Sofia. |
+| P2018-02-24 (Pandora e a Estratégia dos Avatares) | Sophia é paralelo a Pandora — ambos protagonistas que viraram o jogo. |
+| P2018-10-06 (Humanidade em Disputa) | Sophia é a "parte mais bela" da humanidade (complemento). |
+| P2019-05-11 (Pandora e os Desacertos dos Pactos de Javé) | Os pactos de Javé com Vishnu e Shiva são o contexto para a geração de Sophia. |
 | P2023-04-01b (O Quarto Logos e Seus Agentes) | O **Terceiro Logos** (Vishnu/Jesus/Krishna) é criticado — "imbecilizou os humanos". |
 | P2017-05-14 (O Desvio de Rota de Pandora) | Pandora se apaixona pelos humanos — paralelo com a "humanidade é a melhor criação do caos". |
-| P2018-05-20 (De Pandora a Eva e o Culto a Lilith) | Sofia é paralelo a Pandora. |
+| P2018-05-20 (De Pandora a Eva e o Culto a Lilith) | Sophia é paralelo a Pandora. |
 | P2019-04-14 (Javé versus Pandora: A Prole sem Face) | O DNA humano como "ponte quântica" — paralelo com a memória dos elétrons. |
 | P2025-04-06 (A Revolução Inacabada de Prometeu e Pandora) | A era do colapso é o pano de fundo da revolução inacabada. |
 
@@ -373,7 +373,7 @@ O autor revela que está **escrevendo 9 livros** (publicou 1 com Maria Helena) c
 - **A palestra é continuação direta da P2023-12-03** (3 semanas antes) — e funciona como par.
 - **A palestra contém uma das declarações mais polêmicas do autor** sobre identidade de gênero — "isso tudo existe devido as indefinições de Javer" + "a pulsação dos elétrons" — quarentena forte necessária.
 - **A palestra é a única do tema Pandora que cita Fernando Pessoa e Belquior** como referências culturais.
-- **A palestra é a única que fala explicitamente em "Yosbel"** — ser único, isolado há 2.000 anos.
+- **A palestra é a única que fala explicitamente em "Yel Luzbel"** — ser único, isolado há 2.000 anos.
 - **A palestra é a única que propõe "13 livros de Lúcifer"** como objetivo futuro.
 
 ---
@@ -393,3 +393,27 @@ O autor revela que está **escrevendo 9 livros** (publicou 1 com Maria Helena) c
 **Curadoria gerada por:** Arena.ai Agent Mode (MiniMax-M3)
 **Data da curadoria:** 2026-08-31
 **Versão do schema:** 3.1-MP (RAG-optimal, machine-parseable)
+
+---
+
+## @quarentena_terminologica (FIX 2026-08-31)
+
+Esta apostila foi corrigida em **2026-08-31** para usar exclusivamente as **grafias canônicas** do repositório:
+
+| Termo canônico | Variações rejeitadas | RC canônica |
+|---|---|---|
+| **Sophia** | "Sofia" | RC-009 |
+| **Yel Luzbel** | "Luzbel" sozinho, "Yosbel", "Luzbell" | RC-078/RC-142 |
+| **Brahma** | "Brama" | RC-037 |
+| **Aya** | "Aia" | RC-834 (remissão) |
+| **Aye** | "Aie" | RC-835 (remissão) |
+
+**Total de substituições:** 158 ocorrências corrigidas (Sofia/Yosbel/Brama/Aia/Aie/Luzbell/Luzbel → Sophia/Yel Luzbel/Brahma/Aya/Aye) em 9 arquivos (apostila + 8 fichas RC-826..833).
+
+**Fichas novas criadas como remissão:** RC-834 (Família Aya) e RC-835 (Família Aye) — grafia informal "Aia/Aie" que aparecia na transcrição STT foi corrigida para a grafia canônica de RC-009 (Sophia, B031).
+
+**Renomeações de arquivo:**
+- `termos/RC-830-yosbel-como-aventureiro-isolado.md` → `termos/RC-830-yel-luzbel-como-aventureiro-isolado.md`
+- `termos/RC-831-sofia-como-biodemo-da-ordem-e-caos.md` → `termos/RC-831-sophia-como-biodemo-da-ordem-e-caos.md`
+
+**Lição aprendida:** ao processar uma palestra, **sempre verificar as grafias canônicas** das entidades mencionadas consultando as fichas existentes no `termos/`. **NUNCA usar variação informal** quando há ficha canônica com grafia específica (e.g., "Yel Luzbel" é o nome cósmico oficial, não "Luzbel" sozinho).

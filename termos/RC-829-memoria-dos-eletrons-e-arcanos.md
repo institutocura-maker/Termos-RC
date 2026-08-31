@@ -11,7 +11,7 @@
 Tese (leitura do autor, palestra **P2023-12-17**, U0003/U0004) de que os **elétrons (RC-378) guardam memórias de tudo que existiu** (universo vizinho + nosso). **"Arcanos"** são memórias antigas que se transformaram em "conceitos mentais à parte" — entidades autônomas no psiquismo dos elétrons. A **rebelião dos elétrons (RC-826)** desfaz esses arcanos. **Experimento de Charon** (físico nuclear francês dos anos 70) confirma matematicamente. Ver RC-378 (Elétron), RC-099 (Homo Sapiens), RC-161 (Memória Quântica dos Elétrons), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons), RC-829-154 (Inconsciente Coletivo de Jung — paralelo formal).
 
 ## Contexto / Origem
-Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **memória dos elétrons** como o **arquivo mais antigo da criação** — mais antigo que qualquer ser, mais antigo que Javé, mais antigo que Sofia. "Os elétrons eles estão trabalhando com as formas arcanas no âmbito do inconsciente dos elétrons." O autor cita **Charon** (físico nuclear francês) como o descobridor da memória dos elétrons nos anos 70. Cita também **Jung** ("inconsciente coletivo aprovado matematicamente") como paralelo acadêmico.
+Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **memória dos elétrons** como o **arquivo mais antigo da criação** — mais antigo que qualquer ser, mais antigo que Javé, mais antigo que Sophia. "Os elétrons eles estão trabalhando com as formas arcanas no âmbito do inconsciente dos elétrons." O autor cita **Charon** (físico nuclear francês) como o descobridor da memória dos elétrons nos anos 70. Cita também **Jung** ("inconsciente coletivo aprovado matematicamente") como paralelo acadêmico.
 
 ## Etimologia / Grafias
 - **Grafia preferida:** Memória dos Elétrons e Arcanos
@@ -55,3 +55,14 @@ Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **me
   - Teoria da informação de Shannon — embora o autor fale em "informação negativa", o sentido é **demoníaco**, não técnico.
 - **Conexão com a P2023-12-03**: a "memória dos elétrons" é paralela à "memória quântica" de Lúcifer — ambas acumulam informação ao longo de 13,8 bilhões de anos.
 - **Conexão com Charon**: o físico nuclear francês Alain Charon (nascido 1925) — autor de "La connaissance et l'âme" e pesquisador de física teórica nos anos 70 — é a referência acadêmica do autor.
+
+## Quarentena Terminológica
+
+Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
+
+- **Sophia** (RC-009) — NUNCA "Sofia"
+- **Yel Luzbel** (RC-078/RC-142) — NUNCA "Luzbel" sozinho, NUNCA "Yosbel" (STT corruptela)
+- **Brahma** (RC-037) — NUNCA "Brama"
+- **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
+
+Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
