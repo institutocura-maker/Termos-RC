@@ -61,20 +61,26 @@
 
 - **[Sete herdou a assinatura quântica] (U0017)** «Então, Set, terceiro filho de Adão e Eva, foi aquele que herdou a genética, a assinatura quântica.» — Sete, terceiro filho de Adão e Eva, herdou a assinatura quântica que Javé retirou de si e deu a Adão.
 
+### RC-857
+
+- **[O elo adâmico: a engrenagem do poder] (U0029)** «Então, continuando, Toda a questão da Terra passa por esse elo adâmico, porque foi por meio do eladâmico que o genoma humano foi transformado na engrenagem do poder dos senhores da Timote.» — o elo adâmico é o gene que Javé pôs em Adão e que transformou o genoma humano na engrenagem de poder dos senhores da Trimurti.
+
+### RC-858
+
+- **[A profecia como invenção javeana] (U0018)** «Então, profecia é uma invenção javeana para tentar fazer medo à pessoas, para que as pessoas obedeçam.» — os desígnios proféticos são o plano de domínio de Javé; a profecia é o instrumento de medo e obediência, e todos os desígnios falharam (a desconexão é total).
+
+### RC-859
+
+- **[A herança da suserania universal] (U0069)** «Enfim, a principal profecia desse sistema todo aí era a herança da suserania universal que Javé prometeu lá atrás a Rockma.» — a suserania universal é a herança de governo cósmico prometida a Rockma/Sofia; Ellam refuta que Sofia seja herdeiro — herda só um fardo, os herdeiros são os humanos.
+
 ### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
 
-# Elo Adâmico — CANDIDATO A TERMO NOVO (não materializado: decisão do curador). O garimpo
-#   não cria termo por conta própria; a lacuna está declarada em ciclo.toml [lacunas].
-#   Span de referência (não entra em ficha): «Toda a questão da Terra passa por esse elo
-#   adâmico, porque foi por meio do eladâmico que o genoma humano foi transformado na
-#   engrenagem do poder dos senhores da Timote.» (U0029) + «Esse elo adâmico terminou
-#   transformando o genoma humano numa engrenagem do poder que esses seres utilizam.» (U0035)
-#   Sobreposição parcial com RC-424 (Linhagem dos Escolhidos) e RC-727 (DNA Insubmisso).
-# Desígnios Proféticos (Desconexão) — CANDIDATO A TERMO NOVO (conceito-título da palestra;
-#   ausente na KB: RC-611/265/718 são sobre Moros/Zohar). Span de referência: «Então, profecia
-#   é uma invenção javeana para tentar fazer medo à pessoas, para que as pessoas obedeçam.»
-#   (U0018) + «Enfim, a desconexão dos desígnios proféticos de Javé é tamanha que árabes e
-#   judeus se detestam e dividem.» (U0067).
+# RESOLVIDO PELA DEVOLUTIVA DO CURADOR (2026-08-31): as três lacunas de conceitos estruturais
+#   internos foram PROMOVIDAS a códigos taxonômicos — Elo Adâmico = RC-857, Desígnios
+#   Proféticos = RC-858, Suserania Universal = RC-859. Criados no cadastro (ficha=False) e em
+#   fila aberta para materialização futura; seus spans de referência subiram para BLOCO 1.
+#   As três referências externas abaixo SEGUEM RETIDAS (navalha mantida): obras/teorias de
+#   terceiros, não conceitos ontológicos do sistema — nenhum código é materializado para elas.
 # Código de Deus (Gregg Braden) / YHWH no DNA — FONTE EXTERNA (livro de Braden citado por
 #   Ellam); não materializa termo de fonte externa. Span: «Greg Braden tem um livro chamado
 #   O Código de Deus... quatro bases nitrogenadas...» (U0018).
@@ -82,8 +88,6 @@
 #   Michael Droslin chamado Códigos da Bíblia.» (U0069).
 # Mente Bicameral (Julian Jaynes, 1976) — FONTE EXTERNA; idem. Span: «A questão da mente
 #   bicameral de Julian James continua existindo.» (U0017).
-# Suserania Universal (herança prometida a Rockma/Sofia) — conceito menor, fica como menção.
-#   Span: «a herança da suserania universal que Javé prometeu lá atrás a Rockma.» (U0069).
 
 ### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
 

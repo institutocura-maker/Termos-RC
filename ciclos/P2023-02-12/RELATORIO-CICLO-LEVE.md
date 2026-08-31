@@ -2,7 +2,7 @@
 
 **Palestra:** `2023-02-12 - A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo.txt`
 **Tema:** o fracasso dos desígnios proféticos de Javé — o elo adâmico como engrenagem de poder, os povos escolhidos sucessivos, o colapso da Trimurti (2018) e o tikum como tarefa da racionalidade crítica humana.
-**Status:** GARIMPO CONCLUÍDO — aguardando homologação do curador (nenhuma pérola aprovada até aqui; o carimbo é do Curador, não do motor).
+**Status:** HOMOLOGADO E ENCERRADO — devolutiva do curador executada (20 pérolas aprovadas; RC-857/858/859 criados em fila aberta; navalha mantida para as 3 fontes externas).
 
 ---
 
@@ -68,8 +68,27 @@ conforme a praxe registrada: `remote.origin.fetch` ampliado para todas as branch
 estado acumulado) e religado o upstream. O `baseline_commit` `3d176fe` voltou a resolver no
 portão D.
 
-## 5. Estado da KB após o ciclo
+## 5. Devolutiva do curador (executada)
 
-- 856 termos · 1.857 relações · 571 arquivos · 570 `ficha=True` (inalterados — este ciclo não cria nem vira ficha).
-- +10 códigos vinculados a `P2023-02-12`; 0 termos novos; 0 arestas novas.
+O curador homologou e encerrou o ciclo, com as seguintes decisões aplicadas:
+
+1. **20 pérolas 100% aprovadas** — ampliação definitiva das 10 fichas (RC-727, RC-514,
+   RC-174, RC-322, RC-781, RC-194, RC-160, RC-809, RC-332, RC-594) autorizada e executada.
+2. **Três códigos taxonômicos novos criados em fila aberta** — *Elo Adâmico* (RC-857),
+   *Desígnios Proféticos* (RC-858) e *Suserania Universal* (RC-859): entram no cadastro
+   (`ficha=False`) como entidades, por descreverem a mecânica exata da tentativa de domínio
+   de Javé e sua falha. **Materialização futura** — não agora.
+3. **Navalha mantida para as 3 fontes externas** — *Código de Deus/Braden*, *Códigos da
+   Bíblia/Drosnin* e *Mente Bicameral/Jaynes*: obras e teorias de terceiros, não conceitos
+   ontológicos do sistema; nenhum código materializado para elas.
+4. **Incidente Git homologado** — o diagnóstico do re-clone e o `reset --mixed` para salvar
+   a working tree foram validados.
+
+**Delta final conferido pelo portão D:** `arquivos 0 · ficha_true 0 · termos +3 · relacoes 0 · vinculos +13`.
+Cadastro válido: 859 termos · 1.857 relações.
+
+## 6. Estado da KB após o ciclo
+
+- 859 termos (+3) · 1.857 relações · 571 arquivos · 570 `ficha=True` (inalterados — os 3 novos códigos ficam em fila aberta, sem ficha).
+- +13 códigos vinculados a `P2023-02-12` (10 ampliados + 3 novos); 0 arestas novas.
 - Selftest do motor: 9/9. Portões A–D: todos verdes.

@@ -44,7 +44,6 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - **[O dharma de cada varna] (U0047)** «O eu de um alguém pertencente a uma certa varna tem que cumprir o dharma daquela varna.» — a lei do dharma aplicada ao talento único (varna) de cada ser demo: cumprir o dharma da varna gera karma positivo.
 - **[Varna define a posição social (a casta)] (U0047)** «E esse um talento é um tipo de varna que define a posição social. dele no VAR na que ele se encontra, ou seja, naquilo que foi chamado de casta.» — os seres do universo vizinho têm um único talento (varna), que define sua casta; "VAR" é grafia STT para varna.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|

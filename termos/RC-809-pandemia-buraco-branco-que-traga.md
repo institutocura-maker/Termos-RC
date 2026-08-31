@@ -32,7 +32,6 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (
 - **[O buraco branco: campo quântico de informação] (U0059)** «Essa ideia é um campo quântico, é um chamado buraco branco, como a física quântica defe.» — a ideia do criador caído é um campo quântico, um buraco branco (que, ao contrário do negro, emite informação).
 - **[A bolha como metaverso] (U0059)** «Essa bolha é um metaverso nesse sentido.» — a criação caída é uma bolha-metaverso; os espíritos que animam os humanos estão fora dela, ligados ao avatar.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

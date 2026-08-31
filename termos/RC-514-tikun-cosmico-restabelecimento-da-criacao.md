@@ -86,7 +86,6 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[O ticum: reparo da obra e do criador] (U0059)** «Ticum é o reparo tanto na obra quanto no criador caído.» — a definição cabalística recolhida por Ellam: o reparo é duplo, na obra e no criador.
 - **[Ticum exige racionalidade crítica, não amor] (U0074)** «O amor suporta muita coisa, o amor, mas o amor não produz esse tipo de mutação específica que cabalística se chama Ticum, tem que ser a racionalidade crítica humana.» — o amor sustenta os eus, mas só a racionalidade crítica humana produz a mutação específica do ticum no genoma do criador.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

@@ -24,7 +24,6 @@ Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de confl
 - **[O pacto com Abraão] (U0017)** «Ele agora fez o movimento contrário, jogou fora os arianos, pegou de novo Shem em termos de descendência e fez um pacto com Abraão.» — Javé abandona os arianos e volta à linhagem de Sem, pactuando com Abraão.
 - **[A continuidade do pacto via Jesus] (U0017)** «Aí vai na época de Jesus, que era um judeu que deveria ter dado continuar a continuidade ao pacto que ele fez com com Abraão.» — Jesus era o judeu que deveria dar continuidade ao pacto de Abraão, mas o desfaz.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

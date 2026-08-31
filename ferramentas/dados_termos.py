@@ -1033,6 +1033,9 @@ TERMOS = [
     ("RC-854", "Apocalipse (livro de João, ditado por Sofia/Rockman)", TEC_ESC[0], TEC_ESC[1], C, ["P2025-05-10"], 'RC-855; RC-009; RC-565; RC-005; RC-258', True),
     ("RC-855", "João Evangelista (apóstolo, o discípulo amado)", SER_HUM[0], SER_HUM[1], C, ["P2025-05-10"], 'RC-854; RC-009; RC-274', True),
     ("RC-856", "Saulo de Tarso / Paulo (criador do 'Jesus Cristo')", SER_HUM[0], SER_HUM[1], C, ["P2025-05-10"], 'RC-005; RC-009', True),
+    ("RC-857", "Elo Adâmico (o gene que Javé pôs em Adão)", GEN_HUM[0], GEN_HUM[1], C, ["P2023-02-12"], 'RC-001; RC-727; RC-424; RC-594; RC-104', False),
+    ("RC-858", "Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão)", EVE_PRO[0], EVE_PRO[1], C, ["P2023-02-12"], 'RC-001; RC-194; RC-611; RC-265; RC-797; RC-326', False),
+    ("RC-859", "Suserania Universal (herança prometida a Rockma/Sofia)", COS_PRO[0], COS_PRO[1], C, ["P2023-02-12"], 'RC-009; RC-001; RC-474; RC-784', False),
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)

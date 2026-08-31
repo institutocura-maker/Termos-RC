@@ -45,7 +45,6 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 
 - **[O big data do criador (profecias até 2012)] (U0069)** «Javé tem um big data que produziu profecias de 3200 anos até o ano 2012, mas ele nunca soube exatamente quais dessas profecias inexoravelmente seriam cumpridas.» — o big data do criador produziu profecias de 3.200 anos (até 2012), mas Javé nunca soube quais se cumpririam.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

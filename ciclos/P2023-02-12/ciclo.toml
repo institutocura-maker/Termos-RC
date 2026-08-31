@@ -19,19 +19,21 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (131.335 chars / 89 unidades / 53 com fala). Recolhe formulações PRECISAS para 10 códigos JÁ EXISTENTES na KB (DNA submisso/independente em RC-727; tikum em RC-514; colapso da Trimurti em RC-174; dharma/varna em RC-322; pactos com povos em RC-781; big data do criador em RC-194; entropia/energia escura em RC-160; buraco branco/metaverso em RC-809; favor divino em RC-332; assinatura quântica de Sete em RC-594). NENHUM termo novo por conta própria: 6 lacunas reais declaradas (elo adâmico; desígnios proféticos; Código de Deus/Braden; Códigos da Bíblia/Drosnin; mente bicameral/Jaynes; suserania universal) ficam como candidatas, decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-857", "RC-858", "RC-859"]   # Elo Adâmico · Desígnios Proféticos · Suserania Universal (devolutiva do curador)
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
+arquivos = 0      # fichas criadas por este ciclo (os 3 novos códigos ficam em fila aberta, não materializados)
 ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+termos = 3       # termos novos: RC-857/858/859, autorizados pela devolutiva do curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 10    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 13    # códigos que passam a carregar a sigla do ciclo na lista de fontes (10 ampliados + 3 novos)
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote).
+# RC-857/858/859 ficam em FILA ABERTA (cadastro com ficha=False + bloco no pacote),
+# para materialização FUTURA — conforme a devolutiva, que pediu a fila, não a ficha agora.
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -49,24 +51,15 @@ pontos = [
 ]
 
 [definicoes]
+RC-857 = "O 'elo adâmico' é o gene que Javé pôs em Adão — a assinatura quântica herdada por Sete (RC-594) — e que transformou o genoma humano na 'engrenagem do poder' dos senhores da Trimurti (RC-104). É a via pela qual o DNA submisso (RC-727) se propagou e a contraparte mecânica do DNA insubmisso de Pandora–Eva–Noreia."
+RC-858 = "Os 'desígnios proféticos' são o plano de Javé (RC-001) de dominar a humanidade por meio de povos escolhidos sucessivos (hebreus, arianos, Abraão, Jesus, Maomé). A profecia é a ferramenta desse plano — 'invenção javeana para tentar fazer medo à pessoas, para que as pessoas obedeçam' — e todos os desígnios falharam: a desconexão é total."
+RC-859 = "A 'suserania universal' é a herança de governo cósmico que Javé prometeu a Rockma/Sofia (RC-009) — a vestimenta do suzerano final da disputa entre Brama, Vishnu e Shiva. Ellam refuta que Sofia seja herdeiro dessa suserania: Sofia herda 'só um fardo gigantesco'; os herdeiros são os seres humanos."
 
 [observacoes]
+RC-857 = "**Decisão curatorial (devolutiva):** as 20 pérolas foram 100% aprovadas; Elo Adâmico, Desígnios Proféticos e Suserania Universal foram AUTORIZADOS como códigos taxonômicos novos (RC-857/858/859), criados no cadastro e colocados em fila aberta para materialização futura — descrevem a mecânica exata da tentativa de domínio de Javé e sua falha."
+RC-858 = "**Navalha mantida para fontes externas:** Código de Deus (Braden), Códigos da Bíblia (Drosnin) e Mente Bicameral (Jaynes) NÃO materializam códigos — obras/teorias de terceiros, não conceitos ontológicos do sistema."
+RC-859 = "**Span de referência (U0069):** «a principal profecia desse sistema todo aí era a herança da suserania universal que Javé prometeu lá atrás a Rockma» + «Sofia é herdeiro só de um fardo gigantesco»."
 
 [travas]
 
 [lacunas]
-# Elo Adâmico (o gene que Javé pôs em Adão) — CANDIDATO A TERMO NOVO (não materializado:
-#   decisão do curador). Span de referência: U0029 «foi por meio do eladâmico que o genoma
-#   humano foi transformado na engrenagem do poder dos senhores da Timote». Sobreposição
-#   parcial com RC-424 (Linhagem dos Escolhidos) e RC-727 (DNA Insubmisso), mas o termo
-#   exato "elo adâmico" não tem código próprio.
-# Desígnios Proféticos (profecia como instrumento de medo/obediência e sua desconexão total)
-#   — CANDIDATO A TERMO NOVO (conceito-título da palestra; ausente na KB: RC-611/265/718 são
-#   sobre Moros/Zohar, não sobre os desígnios de Javé). Span: U0018 «profecia é uma invenção
-#   javeana para tentar fazer medo à pessoas».
-# Código de Deus (Gregg Braden) / tetragrama YHWH no DNA — FONTE EXTERNA (livro de Braden
-#   citado por Ellam); o garimpo não materializa termo de fonte externa. Span: U0018.
-# Códigos da Bíblia (Michael Drosnin) — FONTE EXTERNA; idem. Span: U0069.
-# Mente Bicameral (Julian Jaynes, 1976) — FONTE EXTERNA; idem. Span: U0017.
-# Suserania Universal (herança prometida a Rockma/Sofia) — conceito menor, sem código; fica
-#   como menção. Span: U0069.

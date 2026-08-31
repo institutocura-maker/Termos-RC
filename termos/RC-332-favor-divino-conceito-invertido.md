@@ -47,7 +47,6 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 
 - **[100 trilhões de mônadas para o favor divino] (U0059)** «Olha, a gente vai precisar de 100 trilhõezinhos de mondadas ou 100 trilhõezinhos de espíritos para cada um fazer o favor divino.» — o favor divino quantificado: 100 trilhões de mônadas/espíritos, uma para cada célula apodrecida de Javé, inoculando em si a doença específica.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
