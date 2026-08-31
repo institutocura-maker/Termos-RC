@@ -1,0 +1,36 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-30-6",
+  "data": "2026-08-30",
+  "tipo": "limpeza nº 6 — após processamento da palestra 2018-02-24",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a04eee-termos-rc",
+  "commit_anterior": "ecaff80",
+  "motivo": "A palestra 2018-02-24 (Pandora e a Estratégia dos Avatares) foi processada para v3.1-MP e movida para apostilas/CONCLUIDAS/2018-02-24_pandora_e_a_estrategia_dos_avatares/. A pasta uploads_recepcao/ foi limpa novamente.",
+  "arquivos_processados": [
+    {
+      "nome": "2018-02-24 - Pandora e a Estratégia dos Avatares.txt",
+      "origem_blob": "d52149648fa3c85cd09ae1816963d7be092cb7dd",
+      "commit_origem": "73a93a5",
+      "sha256_original": "85dbfe59bc102f6d632447d289faf61708fa17be506625911ffc45f84f66b437",
+      "tamanho_bytes": 121141,
+      "destino_md": "apostilas/CONCLUIDAS/2018-02-24_pandora_e_a_estrategia_dos_avatares/apostila.md",
+      "tamanho_md": 29600,
+      "n_rc": 23,
+      "n_spans": 5,
+      "n_vinculos": 14,
+      "n_conceitos_novos": 9,
+      "status": "processado_em_v3_1_MP"
+    }
+  ],
+  "observacao": "O arquivo NÃO estava no working tree local (já tinha sido limpo automaticamente pelo workflow do GitHub). Foi recuperado via `git cat-file -p d52149648...` do commit `73a93a5` no remoto.",
+  "arquivos_mantidos_em_uploads_recepcao": [
+    {"nome": ".gitkeep", "motivo": "manter pasta no git"},
+    {"nome": "README.md", "motivo": "documentação da pasta"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30.json", "motivo": "auditoria da limpeza nº 1"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-3.json", "motivo": "auditoria da limpeza nº 3"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-4.json", "motivo": "auditoria da limpeza nº 4"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-5.json", "motivo": "auditoria da limpeza nº 5"},
+    {"nome": "REGISTRO-LIMPEZA-2026-08-30-6.json", "motivo": "auditoria da limpeza nº 6 (este arquivo)"}
+  ],
+  "estado_pos_limpeza": "uploads_recepcao/ contém apenas metadados de auditoria. Próxima palestra da Nova Fase (tema Pandora) deve ser adicionada via upload direto na pasta."
+}

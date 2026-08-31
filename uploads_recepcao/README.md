@@ -80,5 +80,6 @@ palestra do tema Pandora). Apenas arquivos de metadados restam:
 - `REGISTRO-LIMPEZA-2026-08-30.json` (auditoria da limpeza nº 1)
 - `REGISTRO-LIMPEZA-2026-08-30-3.json` (auditoria da limpeza nº 3)
 - `REGISTRO-LIMPEZA-2026-08-30-4.json` (auditoria da limpeza nº 4)
-- `REGISTRO-LIMPEZA-2026-08-30-5.json` (auditoria da limpeza nº 5 — esta)
+- `REGISTRO-LIMPEZA-2026-08-30-5.json` (auditoria da limpeza nº 5)
+- `REGISTRO-LIMPEZA-2026-08-30-6.json` (auditoria da limpeza nº 6 — esta)
 - `.gitkeep` (placeholder Git)
