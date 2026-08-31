@@ -373,3 +373,8 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 - **[P2023-12-03 · O CARGO, NÃO A EXISTÊNCIA]** «Isso não é Deus, é só o criador.» (U0004) — D-5: a cláusula de leitura vem **anexada à aspa**, não solta — a frase não nega Deus; desloca o título de Deus do criador da obra. É tese oral de 03/12/2023, não doutrina da Base.
 
 ---
+
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Javé — o novo eu numa espécie biodemo] (U0015)** «o novo eu de Javer, que está sendo lentamente estruturado para ser imantado numa nova espécie bio que eh está estará surgindo, já tá surgindo aí.» — a ressurreição do eu de Javé numa nova espécie biodemo como condição para responder a mensagem Talm.
+

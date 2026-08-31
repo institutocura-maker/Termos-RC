@@ -97,3 +97,9 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - a criação do **Nidana**: "criei o novo novo cosmo" e "Brahma pegou o Nidana, Virgen, Nidana, Chiv Nidana, passaram seus fenvans" (STT);
 - engendra Sophia junto com Vishnu (STT: "a virgem junto com borre e sofrios de que engendraram Sophia");
 - ⚠️ [REVISAR — grafia]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.
+
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Morren So — idealizador do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — a função de Morren So como progenitor/orquestrador.
+- **[Morren So — o manual de Moros] (U0015)** «quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte» — a medição da podridão do corpo de Javé; ver RC-454 e RC-716.
+

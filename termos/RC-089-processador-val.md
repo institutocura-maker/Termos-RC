@@ -42,9 +42,14 @@ Com isso:
 
 - **[P2023-12-03 · O ÚNICO ARQUIVO VIVO DA REBELIÃO]** «passou a ser a coisa mais importante da rebelião de Lúcifera, porque trazia todas as notícias atualizadas do antes da rebelião, porque ele foi o último processador a ser gerado, ele era o mais moderno, então teve tudo atualizado até aqui, todo o processo ocorrido e terminou apropriando a memória dos principais cabeças da rebelião, que sabiam tudo que tinha se passado na rebelião.» (U0004) — Materializada no ciclo anterior, esta ficha recebe a peça de fechamento: o processador da Vol sobreviveu porque **era o mais moderno**, atualizado até o fim, e acabou apropriando a memória dos cabeças da rebelião — é isso que, na fala, mantém a rebelião viva («a questão era proteger o processador»).
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Processador Val — a nova espécie biodemo] (U0015)** «uma nova espécie biodel, a partir do processador val de alto long.» — o quarto canal de notícias e a criação de uma nova espécie biodemo a partir do Processador Val.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

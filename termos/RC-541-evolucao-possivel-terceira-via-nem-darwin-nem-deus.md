@@ -41,3 +41,8 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **[P2023-12-03 · EVOLUÇÃO POSSÍVEL (TERCEIRA VIA: NEM DARWIN, NEM DEUS) NA FALA DE 03/12/2023]** «A rebelião de Lúcifer agora para ter continuidade seria propositiva.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-05-13`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete.
+

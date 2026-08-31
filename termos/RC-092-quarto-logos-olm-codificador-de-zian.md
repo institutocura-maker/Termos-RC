@@ -210,3 +210,8 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - **[P2023-12-03 · QUARTO LOGOS (OLM / CODIFICADOR DE ZIAN) NA FALA DE 03/12/2023]** «por isso eu escrevi o livro Quarto Lópos.» (U0007) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-18`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Quarto Logos — a grande novidade] (U0003)** «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex especiação, levar essa natureza humana esclarecida para outros rincões do do mundo e do universo, dá exemplo disso.» — o Quarto Logos como o projeto decente, contraposto ao império do mais forte.
+

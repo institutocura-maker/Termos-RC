@@ -30,10 +30,19 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 
 - **[ART-2025-08-02/03 — material do curador] A Mensagem TALM em detalhe (ART-02 Cap. 4/Gloss.; ART-03 Cap. 6):** "'carta' de cinco partes criada pelos fenvans e enviada ao oceano vibratório deste universo, esperando ser decodificada caso o Projeto Talm obtivesse sucesso"; "frequentemente comparada a uma 'mensagem dentro de uma garrafa solta no mar'"; "continha a 'promessa de Mohen So' — seu papel em projetar e 'lançar' os fornos, enviando as 'medidas escolhidas' que forjariam a primeira expressão da vida"; "revelava informações cruciais sobre 'o início da rebelião, a causa da rebelião', conectando-a à Rebelião de Lúcifer (Yel Luzbel)"; "encontrada por Yel Lupon (biodemo da Família Yel), repassada aos biodemos de Alt' Lam Gron e guardada no Processador Val"; "decifrada plenamente pela humanidade terrestre — 'a razão filosófica e o senso crítico, o que se aproxima do Dasein de Heidegger'" [referência externa]; "a frase 'Seremos nós recebendo, de nós mesmos, o que agora transmitimos' sugere que os humanos são, metaforicamente, os próprios Fenvans que evoluíram"; "a resposta é restrita por uma ordem ancestral de Javé: os Fenvans só podem receber uma resposta mental de seu 'eu', e um 'novo eu' de Javé está sendo estruturado a partir de informações geradas pelos humanos".
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Mensagem Talm — a palestra dedicada] (U0004)** «Valeno chamou de mensagem tal, por isso que eu reproduzi isso no livro.» — a fonte oral mais antiga do verbete (antes de P2023-05-13); a primeira palestra inteiramente dedicada à mensagem.
+- **[Mensagem Talm — os três fornos anunciados] (U0008)** «Pretendemos que sejam três os fornos formadores que surgirão entre a nossa realidade e aquela qual vocês receberão esta mensagem.» — o conteúdo da mensagem, lido verbatim na fala; os três fornos formadores como o meio da transferência de vida.
+- **[Mensagem Talm — a recepção como posteridade] (U0008)** «Deles, ou seja, dos fornos, emergirá a vida e em havendo posteridade ocorrerá a recepção e o entendimento da mensagem.» — a mensagem só é entendida por quem os fornos gerarem.
+- **[Mensagem Talm — não respondida] (U0015)** «Então, assim, a mensagem tal não, ela não foi respondida e não será respondida tão cedo.» — a resposta depende de um eu de Javé que sucumbiu; ver RC-001.
+- **[Mensagem Talm — a resposta é o pensamento único dos fenvans] (U0015)** «O pensamento único desses seres eh é a resposta à mensagem tal.» — o único pensamento dos fenvans é aguardar a resposta.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | B031 / B017 | — | obras publicadas |
 | P2023-05-13 | seções 3.4, 2.3; bloco da mensagem talma | palestra/STT pré-curada |
 

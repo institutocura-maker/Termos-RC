@@ -36,9 +36,18 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 - **[P2023-12-03 · FENVANS NA FALA DE 03/12/2023]** «um tipo de ser que eu sou obrigado chamar de fenvan, que é espécie de demo moderno.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O TERCEIRO PADRÃO DE GENÉTICA DEMO]** «genética demo chamada Fenvan.» (U0004) — A ficha ganha a posição do fenvan na série: não é espécie nova, é **padrão de atualização** da genética demo, o terceiro depois dos clones robotizados e do demo. A grafia do bruto varia e fica [REVISAR].
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Fenvans — a gênese há 7 bilhões de anos] (U0003)** «eh, os FVAN surgiram cerca desses cerca de 7 bilhões de anos atrás, ou seja, quando mais ou menos cerca de 5 6 bilhões de anos após o início do universo, Brh, Virgem e Chiva se sentem falidos.» — fonte oral mais antiga do verbete (antes de P2022-12-17).
+- **[Fenvans — suicidas programados] (U0003)** «Então os cvães eram suicidas.» — o gatilho de se lançar no portal como condição de existência.
+- **[Fenvans — pensamento único] (U0003)** «Os fvães, eles têm um pensamento único.» — o pensamento único herdado de Javé, que cristalizou o genoma.
+- **[Fenvans — os únicos com genes críticos] (U0015)** «Só os fevães têm esses genes críticos porque quando eles foram criados para se transformar em qualquer coisa do outro lado do portal, eles tiveram pela primeira vez essa Coisa que os demonos nunca tiveram.» — ver RC-710.
+- **[Fenvans — executores do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — ver RC-091 e RC-081.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Partes I–III | material do curador |
 | Fontes anteriores da Base | B031, B024 | apoio/remissão |

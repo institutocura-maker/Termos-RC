@@ -1,0 +1,101 @@
+# ciclo.toml — ciclo leve P2021-01-30 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2021-01-30"
+titulo = "A Mensagem TALM e os Fios Soltos do Destino"
+data_fonte = "30/01/2021"
+pasta_fonte = "ciclos/P2021-01-30"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2021-01-30.txt"
+sha256_fonte = "6f530e230e6cb385a99e56302590736092a42b5801faf30f26b60f10cc545cf5"
+
+baseline_commit = "52d5b66"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 28
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "não-transcrita neste formato (deliberado: despacho de 29/08/2026 encerra a exigência de apostila integral); fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado"
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo: nenhuma (pérolas aguardam carimbo)
+ficha_true = 0   # viradas no cadastro: nenhuma
+termos = 0       # termos novos: nenhum código criado sem pérola aprovada
+relacoes = 0     # arestas novas: nenhuma (as propostas esperam o Curador; ver relatório)
+vinculos = 15    # códigos que passam a carregar P2021-01-30 na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A palestra é a primeira dedicada à Mensagem Talm: a mensagem lida integralmente, e o drama de que ela não foi respondida — porque a resposta depende de um eu de Javé que sucumbiu e está sendo reestruturado numa nova espécie biodemo.",
+  "Os fenvans são os executores do Projeto Talm: idealizado por Morren So, executado pelos fenvans — suicidas programados, de pensamento único, os únicos portadores de genes críticos.",
+  "A intercessão entre os dois universos (Ginnungagap) é lida através de dois mitos em paralelo: o nórdico (Ymir, 18.000 anos) e o chinês (Pangu, o criador caído); a queda de Pradrag reconstruído como Javé/Inir/Pancu é a origem do lugar.",
+  "Os humanos são os fios soltos do destino: o fio desencapado que dá choque é Javé, e o trabalho humano é recapeá-lo — o Quarto Logos é o único projeto decente que se oferece a esse fim.",
+  "Sophia é caracterizada como biodemo (emoção 0,1; percepção 0,2; tirocínio 0,3), a vanguarda do atraso que não pode responder a mensagem e precisa da interação humana para recolher as quálias.",
+]
+
+[definicoes]
+RC-080 = '''**Mensagem Talm** é, no cadastro, o artefato documental do Projeto Talm (Tecnologias & Artefatos / Escrituras). Esta fonte oral de 30/01/2021 é a primeira dedicada ao termo e a mais antiga do verbete: a mensagem é lida integralmente, e o drama central — ela não foi respondida e não será tão cedo — é enunciado pela fonte como fato presente. A resposta depende de um eu de Javé que sucumbiu (RC-001), e o único pensamento dos fenvans (RC-064) é aguardá-la.'''
+
+RC-064 = '''**Fenvans** é a classe de seres que mora na intercessão entre os dois universos (Seres & Entidades / Extraterrestres). Esta fonte oral de 30/01/2021 é a mais antiga do verbete e a mais densa sobre a gênese: os fenvans surgiram há cerca de 7 bilhões de anos, gerados por Morren So (RC-081) como suicidas programados — de pensamento único, e os únicos portadores de genes críticos (RC-710). Executaram o Projeto Talm à maneira deles.'''
+
+RC-776 = '''**Ginnungagap** é, no cadastro, a zona intercessória entre os universos (Lokas & Geografias / Regiões cósmicas). Esta fonte oral de 30/01/2021 é a mais antiga do verbete: a fonte lê a intercessão por dois mitos em paralelo — o nórdico (Ymir, o gigante que lá permaneceu 18.000 anos) e o chinês (Pangu, o criador caído) — e situa nela a queda de Pradrag, reconstruído como Javé/Inir/Pancu. Nada é harmonizado: os três nomes entram como a fonte os diz.'''
+
+RC-564 = '''**Fios soltos** é, no cadastro, o termo que nomeia a condição humana como improviso (Conceitos Cosmológicos / Propósitos). Esta fonte oral de 30/01/2021 é a mais antiga do verbete e a que dá o título da palestra: cada humano é um fio solto ainda por alinhar; o fio desencapado que dá choque é Javé (RC-001), e o trabalho humano é recapeá-lo.'''
+
+RC-081 = '''**Mohen So (Morren So)** é o avatar de Vishnu que idealizou o Projeto Talm. A fonte oral de 30/01/2021 fixa a divisão: o projeto foi idealizado por Morren So, mas executado pelos fenvans (RC-064) à maneira deles; e Morren So pegou o manual de Moros (RC-454) para medir a podridão do corpo de Javé (o PIA, RC-716). A grafia STT da fonte é "Morençou/Morrensor/Morrençor" — registrada, não unificada (a unificação Mohen So × Morren So segue pendente).'''
+
+RC-089 = '''**Processador Val** é, no cadastro, a tecnologia/nave do Projeto Talm. A fonte oral de 30/01/2021 acrescenta o quarto canal de notícias (os e-mails/whatsapps do processador) e a criação de uma nova espécie biodemo a partir do Processador Val de Alto Longron — o veículo para o novo eu de Javé.'''
+
+RC-091 = '''**Projeto Talm** é o projeto de semeadura de vida. A fonte oral de 30/01/2021 é a mais antiga do verbete e fixa a divisão de papéis: idealizado por Morren So (RC-081), executado pelos fenvans (RC-064) — "à maneira deles", que determinou o ritmo da coisa.'''
+
+RC-036 = '''**Biodemos** é a classe de seres biológicos do universo vizinho. A fonte oral de 30/01/2021 acrescenta a escala de Kardashev: os biodemos, com quase 250.000 espécies espalhadas na galáxia, já são uma civilização tipo 2 — a menos emotiva do universo biológico, e por isso o destino escolhido para o novo eu de Javé.'''
+
+RC-541 = '''**Evolução Possível** é, no cadastro, a terceira via (nem Darwin, nem deus). A fonte oral de 30/01/2021 é a mais antiga do verbete: anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído, e o tema do "império do mais forte" como tocado superficialmente nele.'''
+
+RC-467 = '''**Moiras / Nornes / Parcas** é, no cadastro, o destino. A fonte oral de 30/01/2021 fixa a origem: Moros (RC-454), antes de sumir, criou três seres não-sexuados que a mitologia grega leu como três mulheres — as moiras teciam o fio solto dos deuses, mas só mediam o tamanho da possibilidade de cada demo; nada mais.'''
+
+RC-710 = '''**Genes Críticos** é, no cadastro, a classe de genes que permite a uma espécie criar outra. A fonte oral de 30/01/2021 é a mais antiga do verbete (anterior a P2021-05-15): só os fenvans têm esses genes críticos, porque foram criados para se transformar em qualquer coisa do outro lado do portal — o que os demos nunca tiveram.'''
+
+RC-716 = '''**PIA — Peso da Inevitabilidade Ancestral** é, no cadastro, o peso medido por Moros. A fonte oral de 30/01/2021 é a mais antiga do verbete (antes de P2024-11-30): Morren So (RC-081) pegou o manual de Moros (RC-454) e mediu o peso da infecção ancestral de cada microparte do corpo de Javé — o PIA como a medição que definiu o destino de servilismo dos fenvans.'''
+
+RC-009 = '''**Sophia** é, no cadastro, o Cristo Cósmico. A fonte oral de 30/01/2021 acrescenta a caracterização como biodemo (emoção 0,1; percepção 0,2; tirocínio 0,3) — inferior ao humano na compreensão — e a "vanguarda do atraso": Sophia não pode responder a mensagem Talm e precisa da interação humana para recolher as quálias.'''
+
+RC-092 = '''**Quarto Logos (Olm)** é, no cadastro, o Codificador de Zian. A fonte oral de 30/01/2021 contrapõe o Quarto Logos ao "império do mais forte" dos três primeiros logos: é a grande novidade que convida os humanos não a exercer o império da força mental estupidificada, mas a promover a própria evolução pela especiação.'''
+
+RC-001 = '''**Javé** é, no cadastro, o Senhor Javé. A fonte oral de 30/01/2021 acrescenta o drama do novo eu: o eu de Javé sucumbiu (foi ceifado pelas próprias circunstâncias que impôs) e está sendo lentamente estruturado para ser imantado numa nova espécie biodemo — condição para que a mensagem Talm seja respondida. O corpo de Javé tem uma cópia na intercessão (RC-776), levada pelos fenvans.'''
+
+[observacoes]
+RC-080 = ["**Anterioridade:** primeira fonte oral do verbete (antes de P2023-05-13); primeira palestra dedicada. A mensagem é lida integralmente na fala.", "A resposta da mensagem é o pensamento único dos fenvans (RC-064) — nenhuma aresta foi aberta sem o carimbo do Curador."]
+RC-064 = ["**Anterioridade:** fonte oral mais antiga (antes de P2022-12-17). Grafias STT da fonte: fvães/fevães/sevães/cevães/sem vães — todas registradas como variações do canônico Fenvans, sem unificação.", "A aresta Fenvans→criados-por Morren So (RC-081) fica proposta no relatório, não materializada."]
+RC-776 = ["**Anterioridade:** fonte oral mais antiga (antes de P2023-04-30). Os três nomes do criador caído (Javé/Inir/Pancu) entram como a fonte os diz; nenhum foi harmonizado.", "Ymir e Pangu são candidatos sem código — ver radar (BLOCO 4)."]
+RC-564 = ["**Anterioridade:** fonte oral mais antiga (antes de P2021-12-04). A palestra é intitulada 'os fios soltos do destino'.", "A aresta Fios soltos→simbolizam Javé (RC-001) fica proposta, não materializada."]
+RC-081 = ["**Grafia:** a fonte usa 'Morençou/Morrensor/Morrençor'. A unificação Mohen So × Morren So segue pendente — registrada, não fundida."]
+RC-716 = ["**Anterioridade:** fonte oral mais antiga (antes de P2024-11-30). O STT grafa 'morre somido' para 'Moros medido' — a aspa entra como veio, a glosa esclarece."]
+RC-009 = ["**Quarentena de gênero/sexualidade (Moldura Rígida):** o trecho sobre nascer em corpo masculino/feminino não entra em ficha; fica retido no BLOCO 5.", "Sophia biodemo (0,1/0,2/0,3) é leitura do autor, não dado da Base."]
+RC-001 = ["**O novo eu de Javé** é leitura do autor (biomediúnica); entra dito, com endereço, sem relação de fundamento."]
+
+[travas]
+RC-009 = "D-4 (quarentena gênero) · leitura do autor sobre Sophia biodemo"
+RC-001 = "leitura biomediúnica do novo eu de Javé — dito, não fundamentado"
+
+[lacunas]
+RC-080 = "a palestra dedicada à mensagem não estava registrada no verbete como fonte oral mais antiga"
+RC-064 = "a gênese (7 bi anos, suicidas programados, pensamento único) não tinha fonte oral registrada"
+RC-776 = "a leitura mítica (Ymir/Pangu/Pradrag) da intercessão não estava registrada"
+RC-564 = "a palestra-título dos fios soltos do destino não era fonte do verbete"
+RC-716 = "o PIA não tinha a medição de Morren So registrada como fonte oral"

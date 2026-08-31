@@ -71,9 +71,14 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[P2023-12-03 · BIODEMOS NA FALA DE 03/12/2023]** «seres produtos da matemática, não são seres que t emoção, não são seres que são sexuados, eram seres que sempre foram criados em casulos. Hoje existem quase 250.000 famílias diferentes de seres bion. São 249.400, não sei quantos. A última criada é algo que a gente, que eu chamo nos livros de» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · ASSEXUAÇÃO E CASULO, SÓ O DADO TÉCNICO]** «criados em casulos, em naves.» (U0004) — D-1: entra o dado (seres sem sexo, produzidos em casulos, nenhum nascido em planeta) e **não** o argumento sobre identidades. A frase da fonte sobre a Terra ter «dois» gêneros fica na apostila, com moldura.
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Biodemos — civilização tipo 2 de Kardashev] (U0015)** «000 espécies espalhadas por aí, já é uma civilização, segundo a escala de Kardachev, tipo dois.» — os biodemos como civilização galáctica, a menos emotiva do universo biológico.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |

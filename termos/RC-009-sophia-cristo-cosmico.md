@@ -384,3 +384,9 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - Sophia nasceu "deslacrado, mas com essa bomba dentro dele" (STT) — a autodestruição comandada por Brahma; Morren So/Vishnu desligaram a bomba (prosa do STT);
 - Sophia como **radiata** sem emoção, que evolui "através de organoides que são postos no cérebro dele" (paráfrase do STT);
 - o Quarto Logos (Olm) como "figura por sombra dos dois", que não dá ordem: "vai continuar sendo seador de escolas" (STT — grafia oral "seador", sem correção silenciosa).
+
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Sophia — biodemo sem emoção] (U0019)** «Emoção 0,1, percepção 0,2, tirocínio 0,3.» — Sophia caracterizada como biodemo, inferior ao humano na compreensão emocional.
+- **[Sophia — vanguarda do atraso] (U0015)** «Por isso que no livro Sofia e os logos criadores, eu disse que Sofia é a vanguarda do atraso, tomando a frase emprestada de Pois é, do que já existe, Sofia é o que tem de mais moderno, mas não serve para muita coisa hoje, a não ser que ele absorva e interaja com a egrégora e com a movimentação latente, psíquica dos elétrons vinculados à natureza humana.» — Sophia não pode responder a mensagem Talm; precisa da interação humana.
+

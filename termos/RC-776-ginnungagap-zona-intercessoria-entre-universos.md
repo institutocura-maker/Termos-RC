@@ -25,9 +25,16 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - **[P2023-04-30 · OS RESTOS DOS DEUSES — o bloco contextual de absorção (a Devolutiva O-4)]** "esses deuses não morreram, ELES FORAM DESMEMBRADOS... os seres eram DECEPADOS PARA VER SE ELES MORRIAM — E AINDA ASSIM NÃO MORRIAM. POR ISSO A CABEÇA DE UM SER É TIRADA E ELA CONTINUA FALANDO" — o Dr. Frankenstein ("o Frankenstein de Shelley era isso: um ser construído com RESTOS de deuses mais antigos"); a série Ragnarok da Netflix (a família Jötunn; "vocês foram construídos com restos de deuses mais antigos") — a convergência com os Fenvans de ART-2025-08-03 (os "heróis frustrados" aprisionados na intersecção).
 - 0 códigos novos (O-3). Quarentena: teológica, cultural (a série Netflix como referência de bastidor).
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Ginnungagap — Ymir e os 18.000 anos] (U0003)** «Como também a mitologia nórdica diz que o gigante Imir permaneceu no Ginungag, que seria o nome dessa intercessão entre os dois universos, durante também os enigmáticos 18.» — fonte oral mais antiga do verbete (antes de P2023-04-30); o mito nórdico como leitura da intercessão.
+- **[Ginnungagap — o ovo cósmico chinês] (U0003)** «A mitologia chinesa diz que quando surgiu o ovo cósmico que deu início a esses dois universos, chamado o yang e panku, que é o nome do criador caindo caído, a mitologia chinesa que diz que durante 18.» — Pangu como o criador caído, em paralelo com Ymir.
+- **[Ginnungagap — Pradrag reconstruído como Javé/Inir/Pancu] (U0003)** «Então, e eh os fvães estariam nessa interseção, nesse ginago lugar, onde a queda de Jahor dizendo, a queda de Pradrag, né, que se reconstruiu como Javé ou como Inir ou como Pancu, teria entre aspas dado.» — a queda do criador como origem da intercessão onde os fenvans residem.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 3 | material do curador |
 
 ## Citações-chave

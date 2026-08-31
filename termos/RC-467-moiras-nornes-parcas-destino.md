@@ -86,10 +86,15 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 - **[P2023-10-14 · A DISTINÇÃO TÉCNICA QUE A FONTE ATRIBUI AOS ANUNNAKIS]** "Os os anunques, portanto, como eu disse a vocês, o pensamento deles, tudo na vida deles é ou acontece por fado ou sorte ou acontece por destino." (U0033); "Os anunac sempre se preocupam em diferenciar o que era a decisão deles, que eles chamam de fato ou sorte, e o que era o inevitável destino." (U0033) — ⭐⭐ A fonte não usa as Moiras/Nornes como metáfora: usa a distinção como **categoria de decisão** de outro povo.
 - **[P2023-10-14 · A PERGUNTA QUE ABRE O BLOCO FILOSÓFICO]** "Os os anunques, portanto, como eu disse a vocês, o pensamento deles, tudo na vida deles é ou acontece por fado ou sorte ou acontece por destino." (U0033)
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Moiras — criadas por Moros antes de sumir] (U0015)** «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — a origem das moiras como seres não-sexuados criados por Moros; ver RC-454.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2025-05-31 | O Mistério da Árvore da Vida e a Urdidura de Metatron (re-curadoria; devolutiva M-2/M-4 aprovada 19/08/2026) | palestra/STT pré-curada |
 

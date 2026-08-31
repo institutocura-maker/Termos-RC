@@ -1,0 +1,116 @@
+# Pacote de ampliação — P2021-01-30 · andaime por `motor.py novo`
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2021-01-30 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-080
+
+- **[Mensagem Talm — a palestra dedicada] (U0004)** «Valeno chamou de mensagem tal, por isso que eu reproduzi isso no livro.» — a fonte oral mais antiga do verbete (antes de P2023-05-13); a primeira palestra inteiramente dedicada à mensagem.
+- **[Mensagem Talm — os três fornos anunciados] (U0008)** «Pretendemos que sejam três os fornos formadores que surgirão entre a nossa realidade e aquela qual vocês receberão esta mensagem.» — o conteúdo da mensagem, lido verbatim na fala; os três fornos formadores como o meio da transferência de vida.
+- **[Mensagem Talm — a recepção como posteridade] (U0008)** «Deles, ou seja, dos fornos, emergirá a vida e em havendo posteridade ocorrerá a recepção e o entendimento da mensagem.» — a mensagem só é entendida por quem os fornos gerarem.
+- **[Mensagem Talm — não respondida] (U0015)** «Então, assim, a mensagem tal não, ela não foi respondida e não será respondida tão cedo.» — a resposta depende de um eu de Javé que sucumbiu; ver RC-001.
+- **[Mensagem Talm — a resposta é o pensamento único dos fenvans] (U0015)** «O pensamento único desses seres eh é a resposta à mensagem tal.» — o único pensamento dos fenvans é aguardar a resposta.
+
+### RC-064
+
+- **[Fenvans — a gênese há 7 bilhões de anos] (U0003)** «eh, os FVAN surgiram cerca desses cerca de 7 bilhões de anos atrás, ou seja, quando mais ou menos cerca de 5 6 bilhões de anos após o início do universo, Brh, Virgem e Chiva se sentem falidos.» — fonte oral mais antiga do verbete (antes de P2022-12-17).
+- **[Fenvans — suicidas programados] (U0003)** «Então os cvães eram suicidas.» — o gatilho de se lançar no portal como condição de existência.
+- **[Fenvans — pensamento único] (U0003)** «Os fvães, eles têm um pensamento único.» — o pensamento único herdado de Javé, que cristalizou o genoma.
+- **[Fenvans — os únicos com genes críticos] (U0015)** «Só os fevães têm esses genes críticos porque quando eles foram criados para se transformar em qualquer coisa do outro lado do portal, eles tiveram pela primeira vez essa Coisa que os demonos nunca tiveram.» — ver RC-710.
+- **[Fenvans — executores do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — ver RC-091 e RC-081.
+
+### RC-776
+
+- **[Ginnungagap — Ymir e os 18.000 anos] (U0003)** «Como também a mitologia nórdica diz que o gigante Imir permaneceu no Ginungag, que seria o nome dessa intercessão entre os dois universos, durante também os enigmáticos 18.» — fonte oral mais antiga do verbete (antes de P2023-04-30); o mito nórdico como leitura da intercessão.
+- **[Ginnungagap — o ovo cósmico chinês] (U0003)** «A mitologia chinesa diz que quando surgiu o ovo cósmico que deu início a esses dois universos, chamado o yang e panku, que é o nome do criador caindo caído, a mitologia chinesa que diz que durante 18.» — Pangu como o criador caído, em paralelo com Ymir.
+- **[Ginnungagap — Pradrag reconstruído como Javé/Inir/Pancu] (U0003)** «Então, e eh os fvães estariam nessa interseção, nesse ginago lugar, onde a queda de Jahor dizendo, a queda de Pradrag, né, que se reconstruiu como Javé ou como Inir ou como Pancu, teria entre aspas dado.» — a queda do criador como origem da intercessão onde os fenvans residem.
+
+### RC-564
+
+- **[Fios soltos — a condição humana] (U0015)** «Cada um de nós hoje é uma espécie de um fio solto ainda por realizar a o alinhamento desse fio com algum propósito.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a palestra é intitulada "os fios soltos do destino".
+- **[Fios soltos — recapear o fio desencapado que é Javé] (U0015)** «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — Javé como o fio desencapado; ver RC-001.
+
+### RC-081
+
+- **[Morren So — idealizador do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — a função de Morren So como progenitor/orquestrador.
+- **[Morren So — o manual de Moros] (U0015)** «quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte» — a medição da podridão do corpo de Javé; ver RC-454 e RC-716.
+
+### RC-089
+
+- **[Processador Val — a nova espécie biodemo] (U0015)** «uma nova espécie biodel, a partir do processador val de alto long.» — o quarto canal de notícias e a criação de uma nova espécie biodemo a partir do Processador Val.
+
+### RC-091
+
+- **[Projeto Talm — idealizado por Morren So] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a divisão idealizador × executores.
+
+### RC-036
+
+- **[Biodemos — civilização tipo 2 de Kardashev] (U0015)** «000 espécies espalhadas por aí, já é uma civilização, segundo a escala de Kardachev, tipo dois.» — os biodemos como civilização galáctica, a menos emotiva do universo biológico.
+
+### RC-541
+
+- **[Evolução Possível — o livro concluído] (U0003)** «Eu ia inclusive desenvolver esse tema num livro que concluí agora chamado Nem Deus, nem Jahé, nem Darwin.» — a palestra anuncia o livro "Nem Deus, nem Javé, nem Darwin — a evolução possível" como concluído; fonte oral mais antiga do verbete.
+
+### RC-467
+
+- **[Moiras — criadas por Moros antes de sumir] (U0015)** «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — a origem das moiras como seres não-sexuados criados por Moros; ver RC-454.
+
+### RC-710
+
+- **[Genes críticos — exclusivos dos fenvans] (U0015)** «Só os fevães têm esses genes críticos porque quando eles foram criados para se transformar em qualquer coisa do outro lado do portal, eles tiveram pela primeira vez essa Coisa que os demonos nunca tiveram.» — fonte oral mais antiga do verbete (anterior a P2021-05-15); os fenvans como únicos portadores.
+
+### RC-716
+
+- **[PIA — o peso da infecção ancestral] (U0015)** «Então quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte, a condição podre de cada microparte daquele corpo de Javer, quando se eh morrem só e entender o peso da infecção ancestral, da podridão ancestral que morre somido, todos os fvães, o destino de um servilismo a a necessidade de Jah, de recompor Javé, né?» — fonte oral mais antiga do verbete (antes de P2024-11-30); o peso da infecção ancestral medido por Moros.
+
+### RC-009
+
+- **[Sophia — biodemo sem emoção] (U0019)** «Emoção 0,1, percepção 0,2, tirocínio 0,3.» — Sophia caracterizada como biodemo, inferior ao humano na compreensão emocional.
+- **[Sophia — vanguarda do atraso] (U0015)** «Por isso que no livro Sofia e os logos criadores, eu disse que Sofia é a vanguarda do atraso, tomando a frase emprestada de Pois é, do que já existe, Sofia é o que tem de mais moderno, mas não serve para muita coisa hoje, a não ser que ele absorva e interaja com a egrégora e com a movimentação latente, psíquica dos elétrons vinculados à natureza humana.» — Sophia não pode responder a mensagem Talm; precisa da interação humana.
+
+### RC-092
+
+- **[Quarto Logos — a grande novidade] (U0003)** «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex especiação, levar essa natureza humana esclarecida para outros rincões do do mundo e do universo, dá exemplo disso.» — o Quarto Logos como o projeto decente, contraposto ao império do mais forte.
+
+### RC-001
+
+- **[Javé — o novo eu numa espécie biodemo] (U0015)** «o novo eu de Javer, que está sendo lentamente estruturado para ser imantado numa nova espécie bio que eh está estará surgindo, já tá surgindo aí.» — a ressurreição do eu de Javé numa nova espécie biodemo como condição para responder a mensagem Talm.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+- **Sinal de Landz** (STT: "Sinal de Landz", "sinal de Landzen", "Sinal do lanzo", "livro do Lzel") — primeiro livro da trilogia Terra Atlântida, onde a mensagem Talm aparece pela primeira vez. Obra citada, sem ficha BIBLIO confirmada neste ciclo.
+- **Porta Norte** (STT: "Prota Norte") e **Era Sapiens** (STT: "era Sapiens") — os outros dois livros da trilogia Terra Atlântida.
+- **Nem Deus, nem Javé, nem Darwin — a evolução possível** — anunciado como concluído (ver RC-541).
+- **O Império do Mais Forte** — livro anunciado, ainda não terminado ("um dos livros que eu não sei se eu termino nessa vida").
+- **Anterioridade medida (todas por conferência de fontes no cadastro, sem harmonização):**
+  - RC-080: P2021-01-30 = primeira fonte oral (antes de P2023-05-13).
+  - RC-064: primeira fonte oral (antes de P2022-12-17).
+  - RC-776: primeira fonte oral (antes de P2023-04-30).
+  - RC-564: primeira fonte oral (antes de P2021-12-04).
+  - RC-091: primeira fonte oral (antes de P2021-12-04).
+  - RC-541: primeira fonte oral (antes de P2025-03-15 e P2025-02-16).
+  - RC-716: primeira fonte oral (antes de P2024-11-30).
+  - RC-710: anterior a P2021-05-15 (~3,5 meses).
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+- **Alto Longron** (STT: "Longron", "alto longr", "Alto Longron") — base onde Valeno astralizou-se; grafia canônica a confirmar ([REVISAR]: "Alto Logron"?).
+- **Valeno** (STT: "Valeno", "Vaueno") — a entidade que apareceu a Rogério em Landzel (Inglaterra, 2001–2003) e insistiu na trilogia; canal da mensagem Talm.
+- **Chambarrá** (STT: "Chamba", "Chambarrá"; antes "Vá") — realidade alternativa onde a mensagem Talm foi descoberta.
+- **Yel Lupon / Lupon** (STT: "Lut", "I Lupon", "El Lupon") — o ser da família Yel Luzbel que descortilou a mensagem; grafia a confirmar.
+- **Pangu (Panku)** — mitologia chinesa, o criador caído (= Javé); paralelo com Ymir.
+- **Ymir (Imir)** — mitologia nórdica, o gigante que permaneceu no Ginnungagap 18.000 anos.
+- **Quália** (STT: "Qualha") — impressão psíquica matematicamente escrita no DNA.
+- **O Império do Mais Forte** — livro anunciado (não concluído).
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+- **Política (D-4 / quarentena):** menções a COVID-19, bolsonarismo, trumpismo, revolução francesa (Tocqueville), Winston Churchill, Hitler — retidas no resumo em prosa, sem aspa em ficha.
+- **Institucional/biográfica:** o trecho sobre Chico Xavier e o "espírito que me anima" — quarentena biomediúnica/institucional; só índice rotulado.
+- **Gênero/sexualidade (Moldura Rígida):** o trecho sobre nascer "bem num corpo masculino ou feminino" e "a se sentir estrangeiro" — confinado como mecânica interpretada pelo autor; não cruza com identidade humana contemporânea.

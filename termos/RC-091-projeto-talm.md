@@ -96,9 +96,14 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 - **[P2025-02-22 · O COORDENADOR REVELADO]** "esse ser que a gente chama de Sofia, ele surgiu a partir de Vishnu no forno de replicação de Vishnu... E SURGE A CERCA DE 5,7 BILHÕES DE ANOS ATRÁS NO ÂMBITO DE UM PROJETO QUE MORREN SO COORDENOU, QUE SE CHAMA PROJETO TALM NA LINGUAGEM DELES, QUE TROUXE A VIDA, O CÓDIGO DA VIDA DO UNIVERSO ANTIMATERIAL PARA O MATERIAL" [⚠️⚠️⚠️ Morren So como o coordenador do Talm — a atribuição explícita]; o contexto dos fornos: "cada um desses seres, junto com sua assessoria criaram três fornos de replicação de vida no nosso universo... Brama ficou com a [Awayen], VISHNU FICOU COM A [AWAYMAION] E SHIVA COM A [AWAYLENGAN]. A [fornalha] de Brama nunca funcionou direito" (RC-771); OS MICROINSTANTES: "tudo se desmaterializa e volta a se materializar bilhões de vezes em um segundo... dentro de 1 segundo existe 10 elevado a -44 microinstantes... É NESSE ESPAÇO QUE EXISTE ENTRE A MATERIALIZAÇÃO E A DESMATERIALIZAÇÃO... QUE ESSES SERES APRENDERAM A TRABALHAR PARA INCUTIR, INOCULAR IDEIAS tidas no âmbito antimaterial, no universo material".
 - 0 códigos novos (O-3).
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[Projeto Talm — idealizado por Morren So] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — fonte oral mais antiga do verbete (antes de P2021-12-04); a divisão idealizador × executores.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 12, 16, 17 | pp. 85–96, 113–123 | obra primária (fonte principal) |
 | Painéis Emergentes... (B031) | Glossário de Termos | p. 141 (aprox.) | verbete "Projeto Talm" |
 | Painéis Emergentes... (B031) | Parte II (A Falência da Vida no Universo Paralelo e o Projeto Talm) | — | capítulo do livro |

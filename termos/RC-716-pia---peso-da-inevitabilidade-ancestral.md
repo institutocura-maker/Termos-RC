@@ -25,9 +25,14 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR]` teria relaci
 
 - **PIA (P2024-11-30):** "Ananké, depois de milhões de anos, conseguiu criar a relação das necessidades típicas daquele tipo de peso inevitável, de podridão ancestral, que cada ser sentia"; a última Moira (Skuld) "iria trabalhar na confecção das possíveis soluções para a necessidade daquele tipo de código podre, o que implicava dizer que o dono desse código, se soubesse do que essa moira sabia, saberia do futuro, já que inevitavelmente aquele eu particularizado seria levado por uma força que o obrigaria a percorrer um caminho existencial de maneira a resolver ou neutralizar as informações vivas que pulsavam dentro dele".
 
+## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
+
+- **[PIA — o peso da infecção ancestral] (U0015)** «Então quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte, a condição podre de cada microparte daquele corpo de Javer, quando se eh morrem só e entender o peso da infecção ancestral, da podridão ancestral que morre somido, todos os fvães, o destino de um servilismo a a necessidade de Jah, de recompor Javé, né?» — fonte oral mais antiga do verbete (antes de P2024-11-30); o peso da infecção ancestral medido por Moros.
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2024-11-30 | U0470–U0492; U0640–U0688; U0730–U0765; U1400–U1420 | palestra/STT |
 
 ## Citações-chave
