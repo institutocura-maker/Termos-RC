@@ -1,0 +1,90 @@
+# Pacote de ampliação — P2018-12-15
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2018-12-15 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-843
+
+- **[Eru Ilúvatar, o criador no Silmarillion] (U0004)** «Mar e ele apresenta nesse livro a estranha figura de Heru, o criador, que na linguagem élfica se chamava iluvatar, então o nome éu iluvatar.» — Eru Ilúvatar (STT 'Heru/éu iluvatar'), o criador na obra de Tolkien, = Prabrajna (RC-152)/Brahma antes da queda; a Ainulindalê (música da criação) = Nada Brahma.
+
+### RC-844
+
+- **[Melkor, o filho dissonante] (U0004)** «Aí ele notou que um dos filhos chamado Melcor não conseguia chegar na mesma harmonia ressonante e ele apresentou uma dissonância.» — Melkor (STT 'Melcor'), o filho de Eru que não alcançou a harmonia ressonante e introduziu a dissonância na criação — analogia ao vírus/rompimento do lacre de Lúcifer (RC-002).
+
+### RC-845
+
+- **[Nada Brahma: tudo é som] (U0004)** «Nada brama em sânscrito quer dizer tudo é só.» — Nada Brahma (sânscrito 'tudo é som'): a cosmogonia como vibração (teoria das cordas) — a 'música da criação' que precede a matéria.
+
+### RC-846
+
+- **[Lemion, o comandante após Lúcifer] (U0084)** «E Lemon fixou os olhos em um dos milhões que estavam vivendo aqui.» — Lemion (STT 'Lemon/Lemior/Lemião'), o rebelde que sucedeu Lúcifer no comando (RC-078); adestrou um dos Mion e fez frente aos planos de Sofia/Javé — tema do livro Era Sapiens (RC-238).
+
+### RC-010
+
+- **[a nave esfera camuflada de ilha] (U0003)** «Porque hoje a única nave que sobrou das diversas que chegaram aqui na Terra vindas do Advento da rebelião de Lúcia.» — Terra Atlantis (RC-010): a única nave que sobrou da rebelião de Lúcifer camuflada como ilha — origem dos mitos do paraíso, da idade de ouro e dos campos elísios.
+
+### RC-018
+
+- **[Alt Lam Gron, a alteração de 19.700 anos] (U0003)** «Essa ilha foi vista durante milênos como essa essa mudança, essa camuflagem que a nave esfer aplicou a ela mesmo numa alteração chamada Al Langron lá na antiguidade.» — Alt Lam Gron (RC-018): a camuflagem 'Al Langron' que a nave esfera aplicou a si mesma há 19.700 anos, entre Inglaterra e Irlanda.
+
+### RC-176
+
+- **[o fator Colmeia] (U0012)** «O fator Colmeia, portanto, existe, tá na cara da gente.» — o fator/modelo colmeia (RC-176) persiste na Terra: as abelhas (1ª vida complexa, ~480 M anos) carregam o mesmo código Javé↔clones; só os biodemos e depois o humano romperam o lacre.
+
+### RC-175
+
+- **[Javé e os clones = abelha rainha] (U0012)** «Quando a gente olha para Javé e CLS, é a mesma coisa que você olhar para uma abelha rainha e as abelhas.» — Javé e os clones (RC-175) reproduzem a lógica abelha-rainha↔abelhas: os clones só existem para servir o criador.
+
+### RC-716
+
+- **[Moros mapeia o padrão de inevitabilidade] (U0012)** «Moros, então, ao perceber o padrão da inevitabilidade ancestral, Ele fez um mapeamento do inquietante padrão da da inevitabilidade dessa estrada.» — Moros percebe o padrão de inevitabilidade ancestral (PIA, RC-716) e faz seu mapeamento sem se deixar enganar pela aparência (o deus cego).
+
+### RC-772
+
+- **[Morlens, o ser sem lacre] (U0012)** «Foi quando virgem disse: "Nós precisamos produzir um ser sem lacre para que este ser, tendo olhos para ver, perceba qual é o nosso problema e nos diga: E foi criado aquele ser chamado morre.» — Morlens (STT 'morre/morrensor', RC-772): o ser criado sem lacre de controle, com o código podre dos três criadores, para perceber e dizer qual é o problema.
+
+### RC-467
+
+- **[Moros e Ananque criaram as Moiras] (U0012)** «Moros e Aneque ou Aneca criaram as três moedidas e O que é que diabos as moes significam na mitologia grega?» — as Moiras (RC-467) vêm de Moros: Moros e Ananque (STT 'Aneque/Aneca') criaram as três, que mapeavam os fios da teia da inevitabilidade.
+
+### RC-454
+
+- **[Moros constata a inevitabilidade] (U0003)** «Aí diz que de N surge um ser chamado Morus, que constatou algo fundamental.» — Moros (STT 'Morus', RC-454): de Nix surge o ser que constatou 'a inevitabilidade do problema ocorrido' — o pai das Moiras.
+
+### RC-009
+
+- **[Sofia, o primeiro ser livre do PIA] (U0012)** «E o fato é que surgiu o primeiro ser engendrado além do padrão da inevitabilidade ancestral, ou seja, surgiu primeiro ser livre do peso do padrão da inevitabilidade ancestral.» — Sofia (RC-009): o primeiro ser engendrado livre do peso do padrão de inevitabilidade ancestral; engendrado por Morlens como avatar de Vishnu para comandar o universo biológico.
+
+### RC-154
+
+- **[o Nidana, código podre adaptado] (U0012)** «Com isso, ele criou esse código Midana, que é o código podre do criador, mas adaptado às circunstâncias biológicas para se misturar com esses códigos neutros.» — o Nidana (STT 'Midana', RC-154): o código podre do criador, adaptado às circunstâncias biológicas para se misturar com códigos neutros — a 'molécula-mãe' da vida.
+
+### RC-101
+
+- **[Shamb-Aha = forno Awaymaion] (U0146)** «Mas Shambaá é uma vibra, é uma realidade alternativa.» — refina RC-101: Shamb-Aha é o forno replicador Awaymaion (RC-499/RC-771) disfarçado de realidade, no mesmo molde em que Alt'Lam (RC-018) é a esfera disfarçada — especificação (não contradição) do que 'Shamba' é na P2017-10-14.
+
+### RC-025
+
+- **[Aspesian aportou em Zian/Capela] (U0023)** «Essa na Tuto, ou seja, Aspesian, havia portado no planeta Zan, que é um dos planetas em torno que se chama de Capela, h cerca de 270 milhões de anos, trazendo um pequeno número de seres que se representantes do preposto universal que edificaram aquela nave com vistas a objetivos que não poderiam ser naquela época compreendidos.» — Asphezian (STT 'Aspesian', RC-025): a nave que aportou no planeta Zan (Capela) há ~270 M anos, onde depois os Vol foram engendrados em casulos.
+
+### RC-109
+
+- **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025).
+
+### RC-089
+
+- **[a dimensão dos Val mortos (Valhala)] (U0052)** «A dimensão ou realidade paralela nessa época chamada Val, que foi o modo como os nove vol começaram a chamar o lugar que está Ou seja, a casa dos v, mas isso na linguagem começou a ser conhecida com mais profundidade pelos vul lá residentes.» — o processador Val (RC-089) como ponte para a dimensão 'Val' onde os 9 Val mortos passaram a viver — associada à Valhala nórdica.
+
+### RC-062
+
+- **[a experiência Gron] (U0081)** «Então, aconteceu a experiência cronom envolvendo os biodemos do norte.» — a experiência Gron (RC-062): a operação magnética em que 983 dos 1.641 biodemos alteraram a fase vibratória junto com a esfera, criando Alt'Lam.
+
+### RC-238
+
+- **[Era Sapiens: Lemion, Jesus e o nazismo] (U0084)** «Então, amanhã a gente vai ver a interação de Lemion com a vinda de Jesus terra e com a ascensão do nazismo, que é basicamente o livro Era Sápens que a gente ainda vai publicar.» — Era Sapiens (RC-238): o livro que contará a interação de Lemion com a vinda de Jesus e a ascensão do nazismo.
+
+### BLOCO 5 — spans retidos pelo caça-âncoras (máscara do STT)
+
+# (nenhum span retido neste ciclo)

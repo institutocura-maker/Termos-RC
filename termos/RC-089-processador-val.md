@@ -50,9 +50,14 @@ Com isso:
 
 - **[o processador como corpo de Javé] (U0044)** «Com esse processador, praticamente o processador da família Vol hoje é o corpo de J, porque o corpo último que ele tinha apodreceu há 4 milhões de anos atrás.» — o processador da família Val (STT `Vol`) hoje é o corpo de Javé, cujo último corpo apodreceu há 4 milhões de anos.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[a dimensão dos Val mortos (Valhala)] (U0052)** «A dimensão ou realidade paralela nessa época chamada Val, que foi o modo como os nove vol começaram a chamar o lugar que está Ou seja, a casa dos v, mas isso na linguagem começou a ser conhecida com mais profundidade pelos vul lá residentes.» — o processador Val (RC-089) como ponte para a dimensão 'Val' onde os 9 Val mortos passaram a viver — associada à Valhala nórdica.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

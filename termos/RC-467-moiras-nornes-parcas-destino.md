@@ -94,10 +94,15 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 
 - **[Nornes — operacionalizaram] (U0003)** «As nornes foram criadas para operacionalizar isso.» — as Nornes criadas para operacionalizar a relação código-podre → necessidade.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Moros e Ananque criaram as Moiras] (U0012)** «Moros e Aneque ou Aneca criaram as três moedidas e O que é que diabos as moes significam na mitologia grega?» — as Moiras (RC-467) vêm de Moros: Moros e Ananque (STT 'Aneque/Aneca') criaram as três, que mapeavam os fios da teia da inevitabilidade.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |

@@ -29,9 +29,14 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR]` teria relaci
 
 - **[PIA — o peso da infecção ancestral] (U0015)** «Então quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte, a condição podre de cada microparte daquele corpo de Javer, quando se eh morrem só e entender o peso da infecção ancestral, da podridão ancestral que morre somido, todos os fvães, o destino de um servilismo a a necessidade de Jah, de recompor Javé, né?» — fonte oral mais antiga do verbete (antes de P2024-11-30); o peso da infecção ancestral medido por Moros.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Moros mapeia o padrão de inevitabilidade] (U0012)** «Moros, então, ao perceber o padrão da inevitabilidade ancestral, Ele fez um mapeamento do inquietante padrão da da inevitabilidade dessa estrada.» — Moros percebe o padrão de inevitabilidade ancestral (PIA, RC-716) e faz seu mapeamento sem se deixar enganar pela aparência (o deus cego).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | P2024-11-30 | U0470–U0492; U0640–U0688; U0730–U0765; U1400–U1420 | palestra/STT |
 

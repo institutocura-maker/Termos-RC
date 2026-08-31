@@ -36,10 +36,15 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 - **[P2022-03-26 · ABELHA-RAINHA (JAVÉ) NA FALA DE 26/03/2022]** "foi copiado do sistema que existia entre Javé, a abelha rainha, e os anjos clones, que o obedecem como se fossem abelhas operárias." (U0008) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2022-03-26 · O MODELO DA COLMEIA COPIADO DO QUE EXISTIA ENTRE JAVÉ E OS CLONES]** "Que diabos é ser colmeico? A abelha rainha e E as abelhas operárias formam um sistema de comunicação coletiva em que o genoma da abelha rainha da ordem e as abelhas operárias existem apenas para servir a abelha rainha e nem tem noção de individualização." (U0008); "Uma abelha operária não tem conveniência, não tem querer, não tem que achar ruim ou bom. É um circuito fechado." (U0008) — Definição de regime, com a nota de que a operária não tem conveniência — a Base ganha a fórmula explícita, que em 2020 só estava implícita.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Javé e os clones = abelha rainha] (U0012)** «Quando a gente olha para Javé e CLS, é a mesma coisa que você olhar para uma abelha rainha e as abelhas.» — Javé e os clones (RC-175) reproduzem a lógica abelha-rainha↔abelhas: os clones só existem para servir o criador.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 9 (relógio messiânico — Sofia abelha rainha) | palestra/STT pré-curada |

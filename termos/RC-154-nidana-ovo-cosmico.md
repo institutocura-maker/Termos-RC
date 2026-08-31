@@ -31,9 +31,14 @@ Com isso:
 
 - **[Nidana — do plasma ao DNA] (U0004)** «O projeto T transformou Nidana, que é o código fonte definidor de plasma do Criador, no DNA biológico que chegou no seu ápice de complexidade com a emergência do ser humano.» — o Projeto Talm transformou o Nidana (código-fonte definidor de plasma) em DNA biológico.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[o Nidana, código podre adaptado] (U0012)** «Com isso, ele criou esse código Midana, que é o código podre do criador, mas adaptado às circunstâncias biológicas para se misturar com esses códigos neutros.» — o Nidana (STT 'Midana', RC-154): o código podre do criador, adaptado às circunstâncias biológicas para se misturar com códigos neutros — a 'molécula-mãe' da vida.
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

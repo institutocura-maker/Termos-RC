@@ -32,9 +32,14 @@ Com isso:
 
 - **[a família Val e a rebelião] (U0008)** «Família V não fez parte da deflagração do processo.» — a família Val (STT `Vol`/`V`) não participou da deflagração da rebelião; as quatro famílias envolvidas foram Iel, Cromon, Mion e Chamon.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Val, a última família biodêmica] (U0023)** «A última foi a Vol que foi criada h cerca de 230 milhões de anos.» — a família Val (RC-109): a última das ~250.000 espécies biodêmicas, criada há ~230 M anos na nave Asphezian (RC-025).
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

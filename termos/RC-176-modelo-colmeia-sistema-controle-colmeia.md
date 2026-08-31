@@ -87,3 +87,7 @@ A crítica à colmeia/ditadura e a menção ao imperador japonês como "abelha r
 
 - **[Modelo Colmeia — o modelo colônia] (U0006)** «Então, o modelo colônia é um subproduto do sistema colmeia.» — o modelo colônia (corais, fungos) como subproduto do sistema colmeia (Calfa/ser alfa + obediência).
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[o fator Colmeia] (U0012)** «O fator Colmeia, portanto, existe, tá na cara da gente.» — o fator/modelo colmeia (RC-176) persiste na Terra: as abelhas (1ª vida complexa, ~480 M anos) carregam o mesmo código Javé↔clones; só os biodemos e depois o humano romperam o lacre.
+

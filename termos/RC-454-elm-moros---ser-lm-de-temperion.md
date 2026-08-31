@@ -123,9 +123,14 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **[P2025-02-22 · O COORDENADOR DO PROJETO TALM E A SAMUDRA MANTHANA]** "E SURGE A CERCA DE 5,7 BILHÕES DE ANOS ATRÁS NO ÂMBITO DE UM PROJETO QUE MORREN SO COORDENOU, QUE SE CHAMA PROJETO TALM NA LINGUAGEM DELES" [⚠️⚠️ o coordenador revelado — RC-091]; A SAMUDRA MANTHANA: "quando Morrenço JUNTO COM OUTRAS FIGURAS CONSEGUIRAM CRIAR UM REMÉDIO para que eles se sentissem bem. E esse remédio surgiu naquilo que a mitologia hindu chama de SAMUDRA MANTHANA, que foi quando os deuses desse universo... sentiam muita dor e foram falar com Brama... [Vishnu:] 'SE EU ME ASSUMIR COMO AVATAR DE MIM MESMO... EU CRIAREI UMA SUPER SERPENTE... a cauda da serpente... bateria esse oceano de leite para sair novas substâncias'... DAQUI SURGIU O CHAMADO AYURVEDA... E SURGIU TAMBÉM AMRITA... devido à briga entre Asuras e Devas... VISHNU ENCHEU O SACO, NÃO PRODUZIU AMRITA SUFICIENTE... E ESSE UNIVERSO ENTROU EM GUERRA" [⚠️⚠️ a samudra manthana como a obra de Morrenso]; "AS TRÊS SETAS DE MOROS AGORA ESTÃO NA TERRA. CADRU SE ESCONDEU NA TERRA" [as setas na Terra]; + a grafia confirmada na voz ("Morenço/Morrensor" — o STT desta fonte).
 - 0 códigos novos (O-3 — a Devolutiva: "a biografia de Morren So já tem casa na RC-454"). Quarentena: a mitologia comparada como registro narrativo.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Moros constata a inevitabilidade] (U0003)** «Aí diz que de N surge um ser chamado Morus, que constatou algo fundamental.» — Moros (STT 'Morus', RC-454): de Nix surge o ser que constatou 'a inevitabilidade do problema ocorrido' — o pai das Moiras.
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |

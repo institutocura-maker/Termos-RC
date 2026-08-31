@@ -27,9 +27,14 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 
 - **[Morlens — criado sem travas] (U0003)** «Esse morrensor foi criado como um descendente de virgino, já que a ideia foi divino, mas era um ser tão estranho.» — Morlens (STT "morrensor/Morrençon/Morrençor"), descendente de Vishnu, criado sem códigos de controle, com quatro cabeças (Brahma/Vishnu/Shiva + a dele livre).
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Morlens, o ser sem lacre] (U0012)** «Foi quando virgem disse: "Nós precisamos produzir um ser sem lacre para que este ser, tendo olhos para ver, perceba qual é o nosso problema e nos diga: E foi criado aquele ser chamado morre.» — Morlens (STT 'morre/morrensor', RC-772): o ser criado sem lacre de controle, com o código podre dos três criadores, para perceber e dizer qual é o problema.
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 1 | material do curador |
 

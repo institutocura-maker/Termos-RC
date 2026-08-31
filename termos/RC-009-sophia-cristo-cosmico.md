@@ -398,3 +398,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[Sophia — o suzerano] (U0006)** «Então, Rockman ou Sofia é o suzerano que foi criado para cá para representar esses seres aqui.» — Sophia (STT "Sofia/Rockman") como o suzerano criado para representar a Trimurti neste universo.
 
+## Ampliação — P2018-12-15 (Terra Atlantis – Aprofundamento)
+
+- **[Sofia, o primeiro ser livre do PIA] (U0012)** «E o fato é que surgiu o primeiro ser engendrado além do padrão da inevitabilidade ancestral, ou seja, surgiu primeiro ser livre do peso do padrão da inevitabilidade ancestral.» — Sofia (RC-009): o primeiro ser engendrado livre do peso do padrão de inevitabilidade ancestral; engendrado por Morlens como avatar de Vishnu para comandar o universo biológico.
+
