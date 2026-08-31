@@ -267,8 +267,9 @@ b4c4559 feat(P2018-05-20): De Pandora a Eva e o Culto a Lilith — 6 RC-813 a RC
 
 1. **`GLOSSARIO-CANONICO-2026-08-31.md`** — Lista de TODAS as 524 RC + 80 pastas com grafias canônicas (~30KB)
 2. **`INVENTARIO-COMPACTO-2026-08-31.md`** — Versão compacta do INVENTARIO-APOSTILAS.json (~12KB)
+3. **`INDICE-ARQUIVOS-RAIZ-2026-08-31.md`** — Ponteiro "qual arquivo usar pra quê" (~10KB) — resolve a pergunta sobre CONTINUIDADE.md (343KB) e PROMPT-INICIAL-DO-AGENTE.md (4.6KB, histórico)
 
-Ambos estão commitados no branch `arena/01a04eee-termos-rc` na raiz do repositório.
+Todos estão commitados no branch `arena/01a04eee-termos-rc` na raiz do repositório.
 
 ---
 
