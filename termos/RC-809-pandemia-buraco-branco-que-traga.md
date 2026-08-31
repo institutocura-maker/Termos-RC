@@ -27,7 +27,6 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (
 - **[A tração irreversível da criação] (U0012)** «A criação, uma vez iniciada, exerceu uma força de atração inexorável sobre ele.» — a criação, uma vez iniciada, exerceu 'uma força de atração inexorável' sobre o Criador — a dinâmica de buraco negro que o tragou (RC-809).
 - **[Brajna/Javé, refém do processo] (U0013)** «A partir desse momento, Brajna, agora Javé, tornou-se refém do processo, perdendo a conexão com seu eu profundo original e a noção do plano que pretendia finalizar.» — tragado pela obra, 'Brajna, agora Javé, tornou-se refém do processo', perdendo a conexão com seu eu profundo e a noção do plano que pretendia finalizar.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

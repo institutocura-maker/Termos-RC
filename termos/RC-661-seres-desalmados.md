@@ -26,7 +26,6 @@ Forma preferida: **Seres Desalmados**.
 - **[Os três primeiros seres sem alma] (U0102)** «Dentre os primeiros catorze seres gerados, três não possuíam alma e se tornaram uma fonte de desestabilização tão grave que Javé foi forçado a destruí-los para manter a coesão da criação.» — dentre os primeiros catorze seres gerados por clonagem, 'três não possuíam alma' e foram destruídos por Javé por desestabilizarem a criação (RC-661).
 - **[A primeira geração, mais problemática] (U0067)** «Consequentemente, a primeira geração de seres era ainda mais problemática que o próprio Criador, pois também careciam de alma.» — a primeira geração de seres 'era ainda mais problemática que o próprio Criador, pois também careciam de alma' — só a partir da quarta geração a Espiritualidade infundiu almas.
 
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

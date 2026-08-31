@@ -36,7 +36,6 @@ Com isso:
 
 - **[O Criador desalmado] (U0022)** «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.» — Javé é 'desalmado, sem capacidade de imaginação ou criatividade' — o que limita seu progresso e o torna refém do progresso de suas criaturas (RC-526).
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

@@ -32,7 +32,6 @@ Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Ja
 
 - **[Caos e o ciclo de Urano] (U0079)** «Nesta, Caos gerou diversos filhos, entre os quais Urano.» — na mitologia grega, 'Caos gerou diversos filhos, entre os quais Urano' — a doença do DNA de Javé traduzida no ciclo de geração e destruição (RC-284).
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

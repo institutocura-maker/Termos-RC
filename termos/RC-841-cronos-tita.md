@@ -36,7 +36,6 @@ Com isso:
 
 - **[Cronos castra Urano] (U0079)** «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.» — Cronos (RC-841), um dos filhos de Urano, 'castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia'.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

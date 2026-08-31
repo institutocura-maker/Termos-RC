@@ -73,7 +73,6 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 
 - **[Demos: dementes, do DNA de Javé] (U0080)** «Os seres demos, que habitam o universo antimaterial, são intrinsecamente "dementes" (do grego daemon = "demente") e foram criados a partir do DNA de Javé.» — os demos (RC-049) são intrinsecamente 'dementes' (do grego daemon = 'demente') e foram criados a partir do DNA de Javé, herdando a doença do Criador.
 
-
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

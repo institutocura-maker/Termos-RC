@@ -10,7 +10,7 @@
 | Data da fonte | 14/06/2025 |
 | Hash da fonte | `45d8f46a2f4712ab…` · 100.491 B
 | Cobertura | FONTE REFATORADA (não verbatim): a versão original da palestra chegou como transcrição sem pontuação (uma parede de texto), inviável para corte de aspas; o Curador cancelou-a e forneceu uma versão REFATORADA — texto didático reescrito em 8 capítulos, sem a fala literal do Ellam. As aspas deste ciclo são verbatim DA FONTE REFATORADA, não da fala original. Conteúdo majoritariamente redundante com a KB madura (queda do criador: RC-809/852/218/661/526/515/284/782); garimpo conservador: 0 termos novos, apenas ampliações de fichas existentes com formulações precisas. |
-| Termos tocados | 12 códigos, 11 com arquivo |
+| Termos tocados | 12 códigos, 12 com arquivo |
 | Citações verificadas | 14 |
 | Caderno | 14 pérolas de 14 candidatas |
 | Teto curatorial | suspenso-com-cadencia |
@@ -44,15 +44,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Em contraste, o Brahmaloka, também referido como universo paralelo, universo demo, ou universo vizinho, formou-se simultaneamente ao nosso, mas de forma improvisada, usando partículas antimateriais, como uma "salva de emergência" para o Criador que caía.»
 
-### PER-2025-06-14-003 · RC-218
-
-* **Endereço**: `P2025-06-14` · U0021 · chars 5090–5274 · 184 c
-* **Termo**: `RC-218` — sem arquivo de ficha
-* **Status**: `candidata` · **Por quê**: código tocado sem arquivo de ficha
-
-> «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.»
-
-### PER-2025-06-14-004 · RC-049
+### PER-2025-06-14-003 · RC-049
 
 * **Endereço**: `P2025-06-14` · U0080 · chars 31195–31349 · 154 c
 * **Termo**: `RC-049`
@@ -61,7 +53,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Os seres demos, que habitam o universo antimaterial, são intrinsecamente "dementes" (do grego daemon = "demente") e foram criados a partir do DNA de Javé.»
 
-### PER-2025-06-14-005 · RC-086
+### PER-2025-06-14-004 · RC-086
 
 * **Endereço**: `P2025-06-14` · U0112 · chars 44705–44950 · 245 c
 * **Termo**: `RC-086`
@@ -70,7 +62,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «O mito de Pandora, que foi "expelida" do psiquismo de Zeus como "fezes mentais", mas que se tornou a primeira mulher humana racional e um agente de "deslacre mental", ilustra a complexidade e os desdobramentos inesperados dessa linhagem doentia.»
 
-### PER-2025-06-14-006 · RC-526
+### PER-2025-06-14-005 · RC-526
 
 * **Endereço**: `P2025-06-14` · U0022 · chars 5737–5848 · 111 c
 * **Termo**: `RC-526`
@@ -79,7 +71,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «O Criador Javé é "desalmado, sem capacidade de imaginação ou criatividade", o que limita seu progresso pessoal.»
 
-### PER-2025-06-14-007 · RC-661
+### PER-2025-06-14-006 · RC-661
 
 * **Endereço**: `P2025-06-14` · U0067 · chars 25170–25296 · 126 c
 * **Termo**: `RC-661`
@@ -88,7 +80,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Consequentemente, a primeira geração de seres era ainda mais problemática que o próprio Criador, pois também careciam de alma.»
 
-### PER-2025-06-14-008 · RC-809
+### PER-2025-06-14-007 · RC-809
 
 * **Endereço**: `P2025-06-14` · U0013 · chars 2599–2763 · 164 c
 * **Termo**: `RC-809`
@@ -97,7 +89,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «A partir desse momento, Brajna, agora Javé, tornou-se refém do processo, perdendo a conexão com seu eu profundo original e a noção do plano que pretendia finalizar.»
 
-### PER-2025-06-14-009 · RC-841
+### PER-2025-06-14-008 · RC-841
 
 * **Endereço**: `P2025-06-14` · U0079 · chars 30484–30603 · 119 c
 * **Termo**: `RC-841`
@@ -105,6 +97,15 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 * **Cruza**: `RC-841`
 
 > «Cronos, um dos filhos de Urano, castrou-o para cessar sua prole e, ele próprio, começou a devorar seus filhos com Reia.»
+
+### PER-2025-06-14-009 · RC-218
+
+* **Endereço**: `P2025-06-14` · U0021 · chars 5090–5274 · 184 c
+* **Termo**: `RC-218`
+* **Status**: `candidata` · **Por quê**: —
+* **Lacuna que fecha**: fecha a lacuna do Holograma Universal como a condição pós-queda de Javé: reconstituído sem alma, como projeção holográfica de sua força mental
+
+> «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.»
 
 ### PER-2025-06-14-010 · RC-230
 
@@ -148,8 +149,9 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 ## 4 · Atualizações para a Base
 
+* **Materializações executadas**: 1 — `RC-218`. Virada `ficha=False → ficha=True`, com o bloco do pacote copiado byte a byte.
 * **Termos novos**: 0. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
 * **Relações**: nenhuma aresta criada, fechada ou reetiquetada por este ciclo. Aresta só entra tipada, com evidência (span + endereço) e selo datado.
 * **Divergências**: com selo datado, sem média — a Base não harmoniza números por decisão de quem aplica.
-* **Fila aberta**: 1 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.
+* **Fila aberta**: 0 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.
 

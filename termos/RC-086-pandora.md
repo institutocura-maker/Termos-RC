@@ -123,7 +123,6 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[Pandora, agente do deslacre] (U0112)** «O mito de Pandora, que foi "expelida" do psiquismo de Zeus como "fezes mentais", mas que se tornou a primeira mulher humana racional e um agente de "deslacre mental", ilustra a complexidade e os desdobramentos inesperados dessa linhagem doentia.» — Pandora (RC-086) foi 'expelida do psiquismo de Zeus como fezes mentais', mas tornou-se a primeira mulher humana racional e um agente de 'deslacre mental'.
 
-
 ## Fontes
 
 | Fonte | Localização | Tipo |

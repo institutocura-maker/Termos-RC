@@ -37,7 +37,6 @@ Com isso:
 
 - **[A hesitação de Brajna na singularidade] (U0012)** «Por milésimos de segundo, Brajna percebeu o erro em seus algoritmos, mas já não era capaz de conter a singularidade.» — Prajapati/Brajna (RC-852) percebeu o erro em seus algoritmos por milésimos de segundo, mas já não conseguia conter a singularidade — o instante que definiu a queda.
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

@@ -2,7 +2,7 @@
 
 **Palestra:** `2025-06-14 - PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada.txt`
 **Tema:** a queda do Criador (Brajna/Prajapati → Javé), a criação problemática e seus reflexos mitológicos.
-**Status:** GARIMPO concluído — aguardando homologação do curador.
+**Status:** ENCERRADO — devolutiva homologada e executada (commit `852dce7` garimpo · devolutiva materializada e commitada).
 
 ---
 
@@ -69,3 +69,14 @@ RC-661 (2), RC-284 (1), RC-841 (1), RC-230 (1), RC-049 (1), RC-086 (1), RC-003 (
 - **Avaliação do experimento (fonte refatorada):** o material refatorado é útil para *confirmar* a
   cobertura e *refinar* formulações, mas **não substitui** a fala verbatim para o garimpo de pérolas
   novas — por definição, uma refatoração é paráfrase, não registro literal da fala do Ellam.
+
+## 6. Devolutiva (homologada)
+
+- **14 pérolas aprovadas**; ampliações nas 12 fichas validadas; formulações precisas (hesitação de
+  Brajna, tração de buraco negro, holograma sem alma) agregaram valor semântico real.
+- **Decisão editorial homologada:** fonte refatorada = consolidação conceitual e refinamento de
+  fórmulas; **não** é via primária para instanciar novos códigos taxonômicos, salvo necessidade extrema.
+- **Urano/Geia/Reia** mantidas como ilustração, sem materialização — navalha correta.
+- **Materialização da única ficha pendente:** RC-218 (Holograma Universal) → arquivo `.md` + `ficha=True`.
+- **Delta da devolutiva:** `arquivos +1 · ficha_true +1 · termos 0 · relacoes 0 · vinculos +12`.
+- **KB final:** 856 termos · 1.857 relações · 571 arquivos · 570 `ficha=True`. Ciclo **P2025-06-14 encerrado**.

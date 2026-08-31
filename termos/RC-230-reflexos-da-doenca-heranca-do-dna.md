@@ -37,7 +37,6 @@ Com isso:
 
 - **[A doença herdada no DNA] (U0177)** «Essa "doença" é caracterizada por impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte sobre o mais fraco.» — a 'doença' de Javé é caracterizada por 'impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte' (RC-230).
 
-
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|

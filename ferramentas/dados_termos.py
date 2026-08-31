@@ -311,7 +311,7 @@ TERMOS = [
     # ---- B002 — O Drama Espiritual de Javé (2011)
     ("RC-216", "Queda do Arquiteto Universal", EVE_CAT[0], EVE_CAT[1], P, ["B002", "B019"], "RC-207; RC-167; RC-041", False),
     ("RC-217", "DNA como Projeção Holográfica do Psiquismo do Criador", COS_LEI[0], COS_LEI[1], P, ['B002', 'B034', 'B040', 'B052', 'B019', 'B074', 'B075', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-07-13', 'P2024-11-03', 'P2025-02-22', 'P2023-12-03', "P2024-06-16"], 'RC-040; RC-041; RC-218; RC-619; RC-632; RC-646; RC-696; RC-698; RC-704; RC-710; RC-713; RC-715; RC-716; RC-719', True),
-    ("RC-218", "Holograma Universal", COS_LEI[0], COS_LEI[1], P, ['B002', 'P2025-02-15', 'P2024-11-30', 'P2023-07-30', "P2025-06-14"], 'RC-217; RC-219; RC-106; RC-707; RC-708', False),
+    ("RC-218", "Holograma Universal", COS_LEI[0], COS_LEI[1], P, ['B002', 'P2025-02-15', 'P2024-11-30', 'P2023-07-30', "P2025-06-14"], 'RC-217; RC-219; RC-106; RC-707; RC-708', True),
     ("RC-219", "Agente Secreto do Bem", SER_HUM[0], SER_HUM[1], P, ["B002"], "RC-072; RC-218; RC-214", False),
     ("RC-220", "Conspiração do Desespero", EVE_GUE[0], EVE_GUE[1], P, ["B002"], "RC-001; RC-102; RC-216", False),
     ("RC-221", "Sustentação Espiritual do Universo", COS_LEI[0], COS_LEI[1], P, ["B002"], "RC-106; RC-107; RC-041", False),
