@@ -201,7 +201,7 @@ class Cfg:
                          f"não lê: {', '.join(residuo)}")
         if cad is None:
             return          # Cfg não conhece caminhos da Base; quem a tem carrega o conjunto
-        for mesa in ("definicoes", "observacoes", "travas", "lacunas", "vitorias"):
+        for mesa in ("definicoes", "observacoes", "travas", "lacunas"):
             for cod in self.tabela(mesa):
                 if cod not in cad:
                     sys.exit(f"[{os.path.basename(self.caminho)}] `[mesa] {mesa}` nomeia {cod}, "
@@ -737,8 +737,8 @@ def dossie(c: Ciclo) -> None:
               f"* **Endereço**: `{c.sigla}` · {p['u']} · chars {i}–{f} · {f - i} c",
               f"* **Termo**: `{p['codigo']}`" + ("" if p["codigo"] in c.fichas else " — sem arquivo de ficha"),
               f"* **Status**: `{p['status']}` · **Por quê**: {'; '.join(p['porque']) or '—'}",
-              *(f"* **Lacuna que fecha**: {p['lacuna']}" if p["lacuna"] else []),
-              *(f"* **Cruza**: " + ", ".join(f"`{m}`" for m in p["menacoes"]) if p.get("menacoes") else []),
+              *([f"* **Lacuna que fecha**: {p['lacuna']}"] if p["lacuna"] else []),
+              *([f"* **Cruza**: " + ", ".join(f"`{m}`" for m in p["menacoes"])] if p.get("menacoes") else []),
               "", f"> «{p['aspa']}»", ""]
     fila = [k for k in c.pacote.blocos if k not in c.fichas and k not in c.materializar]
     L += ["## 4 · Atualizações para a Base", ""]
@@ -1318,7 +1318,7 @@ def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
         m = re.match(r"^(\s*)\(\s*[\"']" + cod + "[\"']\s*,", l)
         if not m:
             continue
-        abre, fecha = l.find("["), l.rfind("]")
+        abre, fecha = l.rfind("["), l.rfind("]")
         if abre < 0 or fecha <= abre:
             mudou = "sem-lista"
             break
@@ -1327,7 +1327,7 @@ def inscreve_fonte(txt: str, cod: str, sigla: str) -> tuple[str, str]:
             mudou = "ja-estava"
             break
         novo = dentro.rstrip()
-        novo = novo[:-1] + f', "{sigla}"]' + l[fecha + 1:]          # fecha a lista, reabre o resto
+        novo = novo + f', "{sigla}"]' + l[fecha + 1:]               # fecha a lista, reabre o resto
         linhas[n] = l[:abre] + novo
         mudou = "inseriu"
         break
@@ -1362,7 +1362,7 @@ def ampliar(c: Ciclo) -> None:
     fichas novas) e sem o qual o ciclo leve não tem como pousar numa palestra nova: a fonte
     não reescreve a ficha, acrescenta a seção dela."""
     alvos = list(c.ampliar) or [cod for cod in c.pacote.blocos if cod in c.fichas]
-    criadas, substituídas, novas, divergentes = 0, 0, 0, []
+    substituídas, novas, divergentes = 0, 0, []
     for cod in alvos:
         arq = c.fichas.get(cod)
         if not arq:
@@ -1379,11 +1379,6 @@ def ampliar(c: Ciclo) -> None:
                 continue
             corpo = corpo[:m.start()] + secao + corpo[m.end():]
             substituídas += 1
-        elif MARCACICLO in corpo:
-            # ficha criada por este motor neste ciclo: o corpo inteiro é do motor, reescrever
-            # é neutro; não há texto alheio a preservar
-            criadas += 1
-            continue
         else:
             i = corpo.find("\n## Fontes")
             corpo = (corpo[:i] + "\n" + secao + corpo[i:] if i >= 0
@@ -1401,8 +1396,6 @@ def ampliar(c: Ciclo) -> None:
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção não entrou na ficha"
         print(f"  · {cod}: seção do ciclo {'substituída (reexecução)' if m else 'inserida'} em "
               f"{os.path.relpath(arq, c.raiz)}")
-    if criadas:
-        print(f"  · {criadas} ficha(s) criada(s) por este motor: `materializar` cuida delas")
     if divergentes:
         print(f"  ⚠️ {len(divergentes)} ficha(s) já tinham seção deste ciclo ESCRITA À MÃO "
               f"(conteúdo divergente do pacote): " + ", ".join(divergentes[:12]) +
