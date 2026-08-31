@@ -445,6 +445,39 @@
    "largura": 75,
    "verificada": true,
    "texto": "A gente tem que destruir, senão eles vão dominar tudo e destruir o Rinarok."
+  },
+  {
+   "codigo": "RC-838",
+   "u": "U0004",
+   "chars": [
+    23738,
+    23818
+   ],
+   "largura": 80,
+   "verificada": true,
+   "texto": "O Satinadanagana deverá um dia surgir a partir do modelo atual do genoma humano."
+  },
+  {
+   "codigo": "RC-839",
+   "u": "U0004",
+   "chars": [
+    46721,
+    46964
+   ],
+   "largura": 243,
+   "verificada": true,
+   "texto": "E esse primeiro primeiro elemento é um genótipo, é um hormônio, é um peptídeo chamado tocina ou oxitocina, que é o que quando flui no nosso organismo, é o chamado hormônio do bem, que você os mamíferos criaram isso, não foi Deus, os mamíferos."
+  },
+  {
+   "codigo": "RC-840",
+   "u": "U0004",
+   "chars": [
+    50244,
+    50287
+   ],
+   "largura": 43,
+   "verificada": true,
+   "texto": "Os hindus tm uma expressão chamado clechas."
   }
  ],
  "recusa": []

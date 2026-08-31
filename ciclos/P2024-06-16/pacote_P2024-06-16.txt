@@ -160,9 +160,21 @@
 
 - **[Ragnarok — a destruição temida] (U0004)** «A gente tem que destruir, senão eles vão dominar tudo e destruir o Rinarok.» — o temor de um novo Ragnarok (STT "Rinarok") na disputa pela reconstrução do criador.
 
+### RC-838
+
+- **[Satinadanagana — o super código a surgir do genoma humano] (U0004)** «O Satinadanagana deverá um dia surgir a partir do modelo atual do genoma humano.» — o "super código" que precisa surgir da área HR1 do genoma para o eu do Criador ressuscitar; a meta final do Projeto Talm (ver RC-691 Ishvara).
+
+### RC-839
+
+- **[Oxitocina — o hormônio do bem, criado pelos mamíferos] (U0004)** «E esse primeiro primeiro elemento é um genótipo, é um hormônio, é um peptídeo chamado tocina ou oxitocina, que é o que quando flui no nosso organismo, é o chamado hormônio do bem, que você os mamíferos criaram isso, não foi Deus, os mamíferos.» — a oxitocina (STT "tocina") como o primeiro elemento da consciência carúne; base bioquímica da Karuna (RC-165).
+
+### RC-840
+
+- **[Kleśas — os cinco entraves mentais] (U0004)** «Os hindus tm uma expressão chamado clechas.» — os kleśas (STT "clechas"): preferência, aversão, medo da morte, identificação com o corpo; enraizados nos sanskaras, "ferram o progresso humano".
+
 ### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
 
-- **RC-154 Nidana**, **RC-466 Bebida dos Deuses**, **RC-019 Anjos clones**, **RC-533 Supercomputador Cósmico (Moros)** — tocados por esta fonte, com âncora verificada, mas sem arquivo de ficha em `termos/`. O vínculo `P2024-06-16` entra na linha do cadastro; a seção da ficha fica pendente da materialização (decisão curatorial, não automática).
+- **RC-154 Nidana**, **RC-466 Bebida dos Deuses**, **RC-019 Anjos clones**, **RC-533 Supercomputador Cósmico (Moros)** — tocados por esta fonte e materializados nesta mesma devolutiva (decisão do Curador): saem da fila ao ganhar arquivo de ficha.
 
 ### BLOCO 3 — obras e datas ditas como ditas (sem harmonização)
 
@@ -176,9 +188,9 @@
 
 ### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
 
-- **Satinadanagana** (STT "Satinada Gana/Sá Nadagana/Satana Gana") — o "super código" que precisa surgir para o eu do Criador ressuscitar; meta do Projeto Talm. Âncoras: «O Satinadanagana deverá um dia surgir a partir do modelo atual do genoma humano.» (U0004) e «Já existem 27 humanos cujo código genético pessoal está próximo do Satana Gana.» (U0003). [candidato a termo novo; ligado a RC-691 Ishvara, RC-154 Nidana, RC-466]
-- **Oxitocina** (STT "tocina/oxitocina") — o "hormônio do bem", criado pelos mamíferos (não por Deus); base bioquímica da Karuna. [candidato a termo novo]
-- **Kleśas** (STT "clechas") — os cinco kleśas (preferência, aversão, medo da morte, identificação com o corpo) que "ferram o progresso humano"; ligados aos sanskaras. [candidato a termo novo]
+- **Satinadanagana** → **PROMOVIDO a termo (RC-838)** nesta devolutiva.
+- **Oxitocina** → **PROMOVIDO a termo (RC-839)** nesta devolutiva.
+- **Kleśas** → **PROMOVIDO a termo (RC-840)** nesta devolutiva.
 
 ### BLOCO 5 — retidos (transcrito no original.txt, fora da ficha/índice)
 
