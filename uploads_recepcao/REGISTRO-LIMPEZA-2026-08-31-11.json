@@ -1,0 +1,355 @@
+{
+  "limpeza_id": "LIMPEZA-2026-08-31-11",
+  "data": "2026-08-31",
+  "tipo": "limpeza nº 11 — esvaziamento integral da caixa de entrada (43 .txt), todos com cópia byte-idêntica em CONCLUIDAS",
+  "operador": "Arena.ai Agent Mode (MiniMax-M3)",
+  "branch": "arena/01a05591-termos-rc",
+  "motivo": "Por ordem do curador (2026-08-31): limpeza total de uploads_recepcao/ antes de receber a próxima palestra. Verificação prévia: os 43 .txt têm, cada um, uma pasta correspondente em apostilas/CONCLUIDAS/ com original.txt SHA-256 idêntico (0 órfãos, 0 divergências). Inclui o 2026-08-04 (O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA), que chegou à pasta por engano (ficou solto na raiz e foi movido por git mv no commit anterior) — já estava processado na pasta 2026-08-04_irmaos-dias-podcast_aliens_biblia.",
+  "arquivos_processados": [
+    {
+      "nome": "2017-14-05 - O Desvio de Rota de Pandora e o Quarto Logos Universal.txt",
+      "sha256_upload": "ee4a0f710e2968ef5dc8e2276c11fba7402a6ad280f3b331f1e5947309d37834",
+      "tamanho_bytes": 83227,
+      "destino_pasta": "2017-05-14_o_desvio_de_rota_de_pandora_e_o_quarto_logos_universal",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2018-02-24 - Pandora e a Estratégia dos Avatares.txt",
+      "sha256_upload": "85dbfe59bc102f6d632447d289faf61708fa17be506625911ffc45f84f66b437",
+      "tamanho_bytes": 121141,
+      "destino_pasta": "2018-02-24_pandora_e_a_estrategia_dos_avatares",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2018-05-20 - De Pandora a Eva e o culto a Lilith.txt",
+      "sha256_upload": "05dbad5ff46adda633f7c4a9ce1d1f9760c405c3a800d45fa6a5dd7088913bff",
+      "tamanho_bytes": 148451,
+      "destino_pasta": "2018-05-20_de_pandora_a_eva_e_o_culto_a_lilith",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2018-10-06 - Humanidade em Disputa a Descendência de Pandora.txt",
+      "sha256_upload": "34c9d5cdaeb302a287afcf1698b7be6a60d0f23bfc62c07a376227689f108b7f",
+      "tamanho_bytes": 102869,
+      "destino_pasta": "2018-10-06_humanidade_em_disputa_a_descendencia_de_pandora",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2019-04-14 - Javé versus Pandora A Prole sem Face.txt",
+      "sha256_upload": "bea09e112b33fe7ff815df1e47ef04439177c61f72be55887f163ba5ed26fc3c",
+      "tamanho_bytes": 135079,
+      "destino_pasta": "2019-04-14_jave_versus_pandora_a_prole_sem_face",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2019-05-11 - Pandora e os Desacertos dos Pactos de Javé.txt",
+      "sha256_upload": "2eee7dc137dddf88c0ad9b8d3f97555fb6dbd0cf0c7057eb645f1ac0d7589bd2",
+      "tamanho_bytes": 129279,
+      "destino_pasta": "2019-05-11_pandora_e_os_desacertos_dos_pactos_de_jave",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2020-04-18 - Terra em Disputa o marco zero de Sophia.txt",
+      "sha256_upload": "352b58856d73d73b426a94bf92ae67304f27b7b89ab908c198e3c193bb4286a2",
+      "tamanho_bytes": 125963,
+      "destino_pasta": "2020-04-18_terra_em_disputa_o_marco_zero_de_sophia",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2020-04-25 - Os Desdobramentos da Rebelião de Lúcifer.txt",
+      "sha256_upload": "1e8091e1c964cf0fbe334283b35c513c57f4bc17046c6be023e71dde986a7b3a",
+      "tamanho_bytes": 119175,
+      "destino_pasta": "2020-04-25_os_desdobramentos_da_rebeliao_de_lucifer",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2020-05-09 - Sophia e o Juizo Final.txt",
+      "sha256_upload": "1e44dbbab41910747a8afa8279e7e5f8a11b62291b4515f12851feca7ae3879a",
+      "tamanho_bytes": 106761,
+      "destino_pasta": "2020-05-09_sophia_e_o_juizo_final",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2020-07-04 – A Hierarquia Fraturada dos Anjos do Criador, as Hostes de Sophia.txt",
+      "sha256_upload": "1d467e8413b653e044af54f1839311c65b30a14afc6595d78221689aa9011770",
+      "tamanho_bytes": 141073,
+      "destino_pasta": "2020-07-04_a_hierarquia_fraturada_dos_anjos_do_criador_as_hostes_de_sophia",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2020-08-08 - Sophia e o Alinhamento Interdimensional do Moscoviano Tempos anteriores ao de Capela.txt",
+      "sha256_upload": "317fc1bb30f67c48d9e466ac4868d42dc061d87504781f9e41d3425c7265b73a",
+      "tamanho_bytes": 121341,
+      "destino_pasta": "2020-08-08_sophia_e_o_alinhamento_interdimensional_do_moscoviano_tempos_anteriores_ao_de_capela",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2020-09-19 - Sophia e o Impasse do Juízo Final.txt",
+      "sha256_upload": "069823b021d5b069e69ba2e05c12fe48708d9605b1da5d80c7a36624fbd50174",
+      "tamanho_bytes": 123922,
+      "destino_pasta": "2020-09-19_sophia_e_o_impasse_do_juizo_final",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2021-03-13 - Sophia e o Ragnarok.txt",
+      "sha256_upload": "a94627db1015f7de52928a674438ba2688bb9358ad9f5590af701eddd566099e",
+      "tamanho_bytes": 96055,
+      "destino_pasta": "2021-03-13_sophia_e_o_ragnarok",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2021-05-08 - As Convenções Mentais de Sophia.txt",
+      "sha256_upload": "f137949e25a530d9b6ea08b0232f200d2cfc2561664c321d8c49e69b76190937",
+      "tamanho_bytes": 103038,
+      "destino_pasta": "2021-05-08_as_convencoes_mentais_de_sophia",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2021-05-15 - As Etnias Hiperboreas e os Anunnakis.txt",
+      "sha256_upload": "57f8e002f830a9226d8b557c642dd6a1e1c475e0c10738e62aa888825417bec4",
+      "tamanho_bytes": 110198,
+      "destino_pasta": "2021-05-15_etnias_hiperboreas_e_os_anunnakis",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2021-07-24 - Sophia, Ananque e as Necessidades Cósmicas.txt",
+      "sha256_upload": "7af9b53fc2040be5948b9397cd47342f223e9c010f78f9320a9f06ed31dc6c82",
+      "tamanho_bytes": 98240,
+      "destino_pasta": "2021-07-24_sophia_ananque_e_as_necessidades_cosmicas",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2021-09-04 - Sophia e as Demais Singularidades da Criação.txt",
+      "sha256_upload": "8a3480ca6114aadb435c7cf4416d47e191bd337ca15bdd8bfd869e8059a72834",
+      "tamanho_bytes": 113869,
+      "destino_pasta": "2021-09-04_sophia_e_as_demais_singularidades_da_criacao",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2022-03-26 A Rebelião de Lúcifer e a Depressão Mental dos Seres.txt",
+      "sha256_upload": "1cc8a8c0777af896a0d96a160d535cabf008cb5bd5c76e9bd8c529f6b99253b9",
+      "tamanho_bytes": 150335,
+      "destino_pasta": "2022-03-26_a_rebeliao_de_lucifer_e_a_depressao_mental_dos_seres",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2022-09-24 - Sophia, os Arcontes e a Disputa pela Suzerania Universal.txt",
+      "sha256_upload": "a66660cfd83242b4a897659f939dbcd0ad832207721ffea3edefdb5633d73635",
+      "tamanho_bytes": 115824,
+      "destino_pasta": "2022-09-24_sophia_os_arcontes_e_a_disputa_pela_suzerania_universal",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-04-01 - O Quarto Logos e seus agentes.txt",
+      "sha256_upload": "422d8099f1118720ef7e14d257f508c813e32b0cdc026995dd6e6799af0d2c40",
+      "tamanho_bytes": 119454,
+      "destino_pasta": "2023-04-01b_o_quarto_logos_e_seus_agentes",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-04-01 - Reintegração Cósmica Tempo de Ruptura.txt",
+      "sha256_upload": "b400e1b89f6cddfabd44d543818a949bac505244cb41ec7bd2ce62d371463cee",
+      "tamanho_bytes": 93337,
+      "destino_pasta": "2023-04-01_reintegracao_cosmica_tempo_de_ruptura",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-04-15 - Desafio Crucial O Alinhamento do Espírito de Jesus.txt",
+      "sha256_upload": "731f1bd1bd1b544841e476d0257e4d161892d211d3ed540d1b9549f1e670b459",
+      "tamanho_bytes": 123933,
+      "destino_pasta": "2023-04-15_desafio_crucial_o_alinhamento_do_espirito_de_jesus",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-04-29 - Jesus Sophia e Javé as Responsabilidades de um mesmo Ser.txt",
+      "sha256_upload": "2b1668506406d1b4d7220251762dca94ac2f6e5e5392485a22c32243849a5095",
+      "tamanho_bytes": 138267,
+      "destino_pasta": "2023-04-29_jesus_sophia_e_jave_as_responsabilidades_de_um_mesmo_ser",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-04-30 - O Senhor Krishna e as Expressões do Ser.txt",
+      "sha256_upload": "dedd972e93f31df13d180e31bf2b4dc60f5e95a6612f51e50a88280249e141f3",
+      "tamanho_bytes": 112616,
+      "destino_pasta": "2023-04-30_o_senhor_krishna_e_as_expressoes_do_ser",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-05-20 - As Batalhas do Final dos Tempos.txt",
+      "sha256_upload": "59c99ae8d55a285213d75a349c09612cd58eaf10c768122c346f861289619c1b",
+      "tamanho_bytes": 130326,
+      "destino_pasta": "2023-05-20_as_batalhas_do_final_dos_tempos",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-05-21 - A Hebdômoda de Apolo_O Ultraje Humano.txt",
+      "sha256_upload": "43f1c9e0cff49e566d09b0f37b9514e6d9228f71ece8f45c996be03f736dae5b",
+      "tamanho_bytes": 107819,
+      "destino_pasta": "2023-05-21_a_hebdomada_de_apolo_o_ultraje_humano",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-06-03 - Os Bastidores da Ressureição de Jesus.txt",
+      "sha256_upload": "dbe45210102234d9376381897c90343a93b0602ccb3653d85ae06ba8036e0b5c",
+      "tamanho_bytes": 114360,
+      "destino_pasta": "2023-06-03_os_bastidores_da_ressurreicao_de_jesus",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-06-17 - O Paradoxo Divino.txt",
+      "sha256_upload": "e64ca89c8ac631c7c59b59c193c497195fcf5972d99e375d001c55e3ed5e4f6c",
+      "tamanho_bytes": 95865,
+      "destino_pasta": "2023-06-17_o_paradoxo_divino",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-06-24 - O Buraco Negro Mental e o Estacionamento Coletivo.txt",
+      "sha256_upload": "3eb0fbda77c704b335f29743b836a992f9dd1dbc8eed384ece171b9ce11a018d",
+      "tamanho_bytes": 138199,
+      "destino_pasta": "2023-06-24_o_buraco_negro_mental_e_o_estacionamento_coletivo",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-06-25 - A Proposta de Salvação do Senhor Krishna.txt",
+      "sha256_upload": "166690c1efe0b103d54104034e1b71f5021e1c3dffa1fdc998dc24d0a06c8c6b",
+      "tamanho_bytes": 123992,
+      "destino_pasta": "2023-06-25_a_proposta_de_salvacao_do_senhor_krishna",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-07-05 - O Despertar dos Potenciais da Consciência Pessoal.txt",
+      "sha256_upload": "44886654ce01e834a8d22a913913b980cd3269345c3d7e49e0145636e716cd70",
+      "tamanho_bytes": 102960,
+      "destino_pasta": "2023-07-05_o_despertar_dos_potenciais_da_consciencia_pessoal",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-07-30 - A Leitura Adulta da Realidade.txt",
+      "sha256_upload": "3caacc44131d2c243d66a3730af9109603aff1bbc69ac03fbcbba7b59c433f9f",
+      "tamanho_bytes": 104865,
+      "destino_pasta": "2023-07-30_a_leitura_adulta_da_realidade",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-08-05 - O Velho Sonho de Ares.txt",
+      "sha256_upload": "d583a2c12d7ccc7dc85372d7e97ad8293de70b4cfc7b0f6ec77a356a6c51585f",
+      "tamanho_bytes": 155133,
+      "destino_pasta": "2023-08-05_o_velho_sonho_de_ares",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-09-09 -O Colapso da Trimurte e Suas Consequências.txt",
+      "sha256_upload": "1c40eb9d97e1954ea48ec807b63eb2c47bc49e63c4d35fe971273541ee38a0b5",
+      "tamanho_bytes": 142667,
+      "destino_pasta": "2023-09-09_o_colapso_da_trimurte_e_suas_consequencias",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-10-14 - A Esquecida Honra dos Anunnaki.txt",
+      "sha256_upload": "09f7a76d42759351b883ef4f2a71de4e795784b6e2893f0668196368ccb18644",
+      "tamanho_bytes": 146039,
+      "destino_pasta": "2023-10-14_a_esquecida_honra_dos_anunnaki",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-11-11 - De Pandora a Eva e a Rebelião de Lilith.txt",
+      "sha256_upload": "7322d782d7bdb69a6ed35756066d21fabeb2128a3dadf1efa6fa1072a3a6ff5c",
+      "tamanho_bytes": 89776,
+      "destino_pasta": "2023-11-11_de_pandora_a_eva_e_a_rebeliao_de_lilith",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-11-19 - A Máquina da Criação O Desmonte do Mundo.txt",
+      "sha256_upload": "a4b722efe5c9705ec8589d505de7a9438a8f0f71cbae5f0fc32cb5b2fc74a622",
+      "tamanho_bytes": 95414,
+      "destino_pasta": "2023-11-19_maquina_da_criacao_o_desmonte_do_mundo",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-12-03 - A Rebelião de Lúcifer ainda por ser Finalizada.txt",
+      "sha256_upload": "41b3f914befb00c1269d34db1a6d53076038e8b5b400b39561e8f32efc4e1021",
+      "tamanho_bytes": 105859,
+      "destino_pasta": "2023-12-03_a_rebeliao_de_lucifer_ainda_por_ser_finalizada",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2023-12-17 Lúcifer e a Rebelião dos Elétrons.txt",
+      "sha256_upload": "00e05fe81057a42fd7dc0c51b10f55b24b8818a20f44767972841a18845d7d6c",
+      "tamanho_bytes": 95468,
+      "destino_pasta": "2023-12-17_lucifer_e_a_rebeliao_dos_eletrons",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2024-11-03 - Apolônio de Tiana e o Quarto Logos.txt",
+      "sha256_upload": "5d67c9693a52c41652a38b3fa4b96483da7dd78dd03382de73bded79adafa0ad",
+      "tamanho_bytes": 123938,
+      "destino_pasta": "2024-11-03_apolonio_de_tiana_e_o_quarto_logos",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2025-02-22 - A Vinda de Sophia e o Equilíbrio Universal.txt",
+      "sha256_upload": "84ff85a614ae6b4c8878dcd1470425b402776baa37183785e4de2554b349c8a3",
+      "tamanho_bytes": 127093,
+      "destino_pasta": "2025-02-22_a_vinda_de_sophia_e_o_equilibrio_universal",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2025-07-18 - Javé, Sophia e as Sincronicidades Profetizáveis.txt",
+      "sha256_upload": "2d4627f2db6224358dc834f52e41206ae54e7799a2d6304d60f34f0596ff3644",
+      "tamanho_bytes": 179050,
+      "destino_pasta": "2025-07-18_jave_sophia_sincronicidades_profetizaveis",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    },
+    {
+      "nome": "2026-08-04 - O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA.txt",
+      "sha256_upload": "bf54fba139f0c493ae528b2afecddd7a5b54254cbd27ab4b8b40b42092bed52a",
+      "tamanho_bytes": 96514,
+      "destino_pasta": "2026-08-04_irmaos-dias-podcast_aliens_biblia",
+      "copia_identica": true,
+      "status": "removido_com_copia_byte_identica_em_CONCLUIDAS"
+    }
+  ],
+  "observacao": "Nada se perde irreversivelmente: cada arquivo tem cópia byte-idêntica versionada em apostilas/CONCLUIDAS/<pasta>/original.txt e permanece recuperável no histórico Git (git rm + commit). Mantidos: README.md e REGISTRO-LIMPEZA-*.json (auditoria)."
+}

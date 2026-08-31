@@ -107,5 +107,18 @@ Por instrução do usuário em 2026-08-31, foi escolhida a **Opção C**: **apen
 
 ---
 
+---
+
+## ⚠️ SUPERAÇÃO (2026-08-31, AGENTE 15)
+
+A **"Opção C"** (documentar e manter os 42 .txt) foi **superada por ordem do curador** na sessão seguinte (AGENTE 15, branch `arena/01a05591-termos-rc`):
+
+- O curador pediu **limpeza total** de `uploads_recepcao/` antes de subir a próxima palestra.
+- Verificação prévia: os **43 .txt** presentes tinham, **cada um**, uma pasta correspondente em `apostilas/CONCLUIDAS/` com `original.txt` **SHA-256 idêntico** (0 órfãos, 0 divergências).
+- Inclui o `2026-08-04 - O QUE NÃO TE CONTARAM SOBRE ALIENÍGENAS E A BÍBLIA.txt`, que chegou à pasta por engano (ficou solto na raiz e foi movido por `git mv` no commit anterior) — já estava processado na pasta `2026-08-04_irmaos-dias-podcast_aliens_biblia`.
+- O ciclo leve `P2023-12-17` **não é afetado**: a fonte permanece preservada em `ciclos/P2023-12-17/original.txt` (e a cópia da apostila em `apostilas/CONCLUIDAS/2023-12-17_lucifer_e_a_rebeliao_dos_eletrons/original.txt` é SHA-idêntica).
+- Resultado: **43/43 removidos** via `git rm` + commit; nada se perde irreversivelmente (cópias versionadas + histórico Git).
+- Registro da operação: `uploads_recepcao/REGISTRO-LIMPEZA-2026-08-31-11.json` (SHA-256 e bytes computados, 43/43 com `copia_identica: true`).
+
 **Curadoria:** Arena.ai Agent Mode (MiniMax-M3)
 **Versão:** 1.0

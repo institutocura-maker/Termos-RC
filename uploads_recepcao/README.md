@@ -79,5 +79,15 @@ palestra do tema Pandora). Apenas arquivos de metadados restam:
 - `README.md` (este arquivo — política institucional)
 - `REGISTRO-LIMPEZA-2026-08-30.json` (auditoria da limpeza nº 1)
 - `REGISTRO-LIMPEZA-2026-08-30-3.json` (auditoria da limpeza nº 3)
-- `REGISTRO-LIMPEZA-2026-08-30-4.json` (auditoria da limpeza nº 4 — esta)
-- `.gitkeep` (placeholder Git)
+- `REGISTRO-LIMPEZA-2026-08-30-4.json` (auditoria da limpeza nº 4)
+- `REGISTRO-LIMPEZA-2026-08-30-5.json` … `-9.json` (auditoria das limpezas nº 5 a 9)
+- `REGISTRO-LIMPEZA-2026-08-30-10.json` (auditoria da limpeza nº 10)
+- `REGISTRO-LIMPEZA-2026-08-31-11.json` (auditoria da limpeza nº 11 — esvaziamento integral)
+
+## Limpeza nº 11 (2026-08-31 — esvaziamento integral)
+
+Por ordem do curador, os **43 .txt** restantes foram removidos — todos com
+cópia **byte-idêntica (SHA-256)** em `apostilas/CONCLUIDAS/<pasta>/original.txt`
+e recuperáveis no histórico Git. Registro completo (SHA, bytes, destino) em
+[`REGISTRO-LIMPEZA-2026-08-31-11.json`](./REGISTRO-LIMPEZA-2026-08-31-11.json).
+A caixa de entrada está **zerada** e pronta para a próxima palestra.
