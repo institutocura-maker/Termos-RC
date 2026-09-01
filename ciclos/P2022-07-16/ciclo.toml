@@ -1,0 +1,57 @@
+# ciclo.toml — ciclo leve P2022-07-16 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-07-16"
+titulo = "Do Ramayana ao Mahabharata"
+data_fonte = "16/07/2022"
+pasta_fonte = "ciclos/P2022-07-16"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-07-16.txt"
+sha256_fonte = "e3cdfda9e019b61c0fbce72ff66bc732c97757075992668997aba3c4f13baf64"
+
+baseline_commit = "ab0a71d"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (135.337 B / 38 linhas / 28 com fala / 23.496 palavras / 131.146 chars; cobertura 9/9 fatias provada; maior linha ~31.880 chars). Tese: o contexto por trás do Ramayana e do Mahabharata — a história de Rama (avatar de corpo de plasma engendrado por Vishnu, que liquidou Ravana e instaurou a sinarquia cósmica, governando os dois universos por milênios) e a de Krishna (a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida; na época do Mahabharata o deus mais forte já era Indra/Zeus, não mais a Trimurti). O que estava em jogo era o fluxo do eu tipo demo de Javé para uma condição de hibridagem: os Rakchasas (estirpe programada no DNA para sugar o sangue dos mamíferos — a ressonância límbica como matéria de estudo dos seres do universo vizinho, percebida há ~70.000 anos), Ravana (criado do DNA de Chiva, que absorveu o DNA de Brama por meditação e 10.000 anos arrancando as próprias cabeças, tornando-se o ser mais poderoso dos dois universos), os 30.000 xátrias liquidados por Rama e a origem da casta dos riches (da união dos bramanes com as viúvas dos xátrias), a linhagem de Barata e Mandavi (a 'Bíblia dos hindus', os Pândavas × Kurus em Kurukshetra, o Bhagavad Gita), o DNA do criador atualizado na forma humana (28.869 genes, 2-3% ativos; as pelps/beberagens), e o fechamento dos portais (descoberto por um sacerdote tolteca há ~17.000 anos; precessão de 26.000 anos; 2012; 'os portais se fecharam, ninguém estava preparado') até o fim do hidrogênio do nosso universo (a energia escura = energia tamásica de Chiva; 'as almas da gente são depósitos de lixo' que só o eu humano pode limpar — embelezar o próprio código genômico). Recolhe 25 formulações PRECISAS em 21 códigos (todos com ficha: RC-414, RC-104, RC-037, RC-102, RC-001, RC-562, RC-322, RC-295, RC-783, RC-094, RC-092, RC-727, RC-009, RC-513, RC-636, RC-086, RC-282, RC-160, RC-489, RC-378, RC-725). NENHUM termo novo por conta própria: 3 candidatos declarados no BLOCO 2 (Rakchasas; sinarquia cósmica; riches), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["c******", "e*****", "m****"]   # máscaras do próprio bruto: c****** ×2, e***** ×1, m**** ×1 — 4 ocorrências
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O Ramayana e o Mahabharata não contam o que parecem contar: a história de Rama e a de Krishna são narrativas em torno do fluxo do eu tipo demo de Javé para uma condição de hibridagem. Rama (avatar de corpo de plasma, engendrado por Vishnu, 'eu vou engendrar alguém') foi programado para destruir Ravana — o demo criado do DNA de Chiva (Shiva produziu a animalidade no forno de Awaylengam) que absorveu o DNA de Brama por meditação, tornando-se o mais poderoso dos dois universos e desafiando o próprio Indra/Zeus. Liquidado Ravana, Rama instaurou a sinarquia cósmica (o governo de um grupo de sábios incorruptíveis) e foi durante milênios quem mandou nos dois universos. Mas o problema do mundo eram os xátrias: Rama liquidou perto de 30.000 deles e, para manter a descendência do DNA do criador, os bramanes se uniram às viúvas — daí nasceu a casta dos riches, mais poderosa que bramanes e xátrias, e foi pela ótica dos riches humanizados que a história do mundo passou a ser contada.",
+  "O Mahabharata é a narrativa em torno de Krishna e a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida alghumanizadas: na época do Marabarata o deus mais forte já não era nenhum dos três — era Indra, que na mitologia grega é Zeus. A linhagem escolhida foi a de Barata e Mandavi (os quatro casais de filhos de Desarata: Rama/Sita, Laxman/Urmila, Barata/Mandavi, Satrunha/Srutakirti); os conflitos entre os primos Pândavas e Kurus/cauravas em Kurukshetra; Krishna veio para reinstaurar a sinarquia de Rama (o Bhagavad Gita orientando Arjuna), para que a terra não ficasse dominada pelo adharma; os Pândavas derrotam os cauravas, 'mas não há vencedores na guerra no sentido de que todos se sentiram perdidos'. A cidade de Ayodhya (Iódia), fundada por Manu, com portais ligando ao outro universo; a região do rio Sarayu/Yamuna como centro do mundo; os cofres/portais automáticos (a 'senha' esquecida, os prisões de 20.000-40.000 anos).",
+  "A biologia e o fim: a ressonância límbica — a linguagem silenciosa entre os mamíferos (hipocampo e amígdala; o terceiro cérebro, o primata, com o gene FoxP2 na área HR1) — foi percebida pelos seres do universo vizinho há ~70.000 anos e o sangue humano tornou-se matéria de estudo (os Rakchasas sugadores de sangue); o DNA do criador atualizado na forma humana (28.869 genes, só 2-3% ativos, o resto é 'lixo' que pode ser desperto); as pelps/beberagens (Eva também tomou pelps; as poções de Epimeteu na era de Pandora); a reforma íntima como modo de se tornar superconsciência; os portais entre os dois universos — descobertos por um sacerdote tolteca há ~17.000 anos, o giro da precessão equinocial (26.000 anos) correspondendo a 2012, 'os portais se fecharam, ninguém estava preparado'; o fim do hidrogênio do nosso universo (a energia escura = energia tamásica de Chiva; o universo sendo rasgado como um tecido); 'as almas da gente são depósitos de lixo dos arquivos emprestáveis experiências desses seres' que só o eu humano pode limpar; a esperança: 'que a humanidade não se extingua agora' e que os humanos 'embelezem o seu próprio código genômico' — o futuro da criação é a natureza humana ser usada por todas essas consciências (a humanidade especiada).",
+]
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

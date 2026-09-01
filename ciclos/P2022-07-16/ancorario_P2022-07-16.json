@@ -1,0 +1,286 @@
+{
+ "sigla": "P2022-07-16",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (135.337 B / 38 linhas / 28 com fala / 23.496 palavras / 131.146 chars; cobertura 9/9 fatias provada; maior linha ~31.880 chars). Tese: o contexto por trás do Ramayana e do Mahabharata — a história de Rama (avatar de corpo de plasma engendrado por Vishnu, que liquidou Ravana e instaurou a sinarquia cósmica, governando os dois universos por milênios) e a de Krishna (a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida; na época do Mahabharata o deus mais forte já era Indra/Zeus, não mais a Trimurti). O que estava em jogo era o fluxo do eu tipo demo de Javé para uma condição de hibridagem: os Rakchasas (estirpe programada no DNA para sugar o sangue dos mamíferos — a ressonância límbica como matéria de estudo dos seres do universo vizinho, percebida há ~70.000 anos), Ravana (criado do DNA de Chiva, que absorveu o DNA de Brama por meditação e 10.000 anos arrancando as próprias cabeças, tornando-se o ser mais poderoso dos dois universos), os 30.000 xátrias liquidados por Rama e a origem da casta dos riches (da união dos bramanes com as viúvas dos xátrias), a linhagem de Barata e Mandavi (a 'Bíblia dos hindus', os Pândavas × Kurus em Kurukshetra, o Bhagavad Gita), o DNA do criador atualizado na forma humana (28.869 genes, 2-3% ativos; as pelps/beberagens), e o fechamento dos portais (descoberto por um sacerdote tolteca há ~17.000 anos; precessão de 26.000 anos; 2012; 'os portais se fecharam, ninguém estava preparado') até o fim do hidrogênio do nosso universo (a energia escura = energia tamásica de Chiva; 'as almas da gente são depósitos de lixo' que só o eu humano pode limpar — embelezar o próprio código genômico). Recolhe 25 formulações PRECISAS em 21 códigos (todos com ficha: RC-414, RC-104, RC-037, RC-102, RC-001, RC-562, RC-322, RC-295, RC-783, RC-094, RC-092, RC-727, RC-009, RC-513, RC-636, RC-086, RC-282, RC-160, RC-489, RC-378, RC-725). NENHUM termo novo por conta própria: 3 candidatos declarados no BLOCO 2 (Rakchasas; sinarquia cósmica; riches), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-07-16/original.txt",
+ "sha256": "e3cdfda9e019b61c0fbce72ff66bc732c97757075992668997aba3c4f13baf64",
+ "bytes": 135337,
+ "unidades_com_fala": 28,
+ "spans": [
+  {
+   "codigo": "RC-414",
+   "u": "U0006",
+   "chars": [
+    23388,
+    23484
+   ],
+   "largura": 96,
+   "verificada": true,
+   "texto": "O Ramaiana é uma narrativa produzida em torno de Rama e a sinarquia cósmica por ele constituída."
+  },
+  {
+   "codigo": "RC-414",
+   "u": "U0006",
+   "chars": [
+    24989,
+    25145
+   ],
+   "largura": 156,
+   "verificada": true,
+   "texto": "Rama era um ser de corpo de plasma feito à moda humana, a forma humanoide que transitava entre os dois universos e que passou a residir aqui nesse universo."
+  },
+  {
+   "codigo": "RC-414",
+   "u": "U0006",
+   "chars": [
+    25318,
+    25426
+   ],
+   "largura": 108,
+   "verificada": true,
+   "texto": "Sinarquia é o governo aonde você estabelece um grupo de sábios e esse grupo de sábios é quem exerce o poder."
+  },
+  {
+   "codigo": "RC-414",
+   "u": "U0008",
+   "chars": [
+    37292,
+    37387
+   ],
+   "largura": 95,
+   "verificada": true,
+   "texto": "Ravana começou a meditar em cima de Rama para Rama dar todos os formas de poder que ele queria."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0006",
+   "chars": [
+    23698,
+    23889
+   ],
+   "largura": 191,
+   "verificada": true,
+   "texto": "E é uma narrativa produzida em torno de Krishna e a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida alghumanizadas que surgiram mais recentemente."
+  },
+  {
+   "codigo": "RC-037",
+   "u": "U0012",
+   "chars": [
+    69712,
+    69781
+   ],
+   "largura": 69,
+   "verificada": true,
+   "texto": "Então, A opção de Brahma foi acompanhar Barata e a sua esposa Mundav."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0007",
+   "chars": [
+    35905,
+    36080
+   ],
+   "largura": 175,
+   "verificada": true,
+   "texto": "Ravana como um bom racassa, foi criado a partir do DNA de Chiva, porque Shiva no seu forno de Awailing foi quem produziu a animalidade tanto no universo de lá quanto no de cá."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0006",
+   "chars": [
+    22339,
+    22520
+   ],
+   "largura": 181,
+   "verificada": true,
+   "texto": "Na verdade, fala dos desses dois heróis, mas o que estava em jogo era o fluxo do eu tipo demo de Javé, para uma condição de hibridagem, ou seja, misturada com da condição biológica."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0014",
+   "chars": [
+    78966,
+    79032
+   ],
+   "largura": 66,
+   "verificada": true,
+   "texto": "Entendam, isso aqui é o DNA do criador atualizado da forma humana."
+  },
+  {
+   "codigo": "RC-322",
+   "u": "U0010",
+   "chars": [
+    39337,
+    39548
+   ],
+   "largura": 211,
+   "verificada": true,
+   "texto": "Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento."
+  },
+  {
+   "codigo": "RC-295",
+   "u": "U0036",
+   "chars": [
+    126086,
+    126174
+   ],
+   "largura": 88,
+   "verificada": true,
+   "texto": "Os portais entre os dois universos começaram a se fechar ao longo dos últimos 5000 anos."
+  },
+  {
+   "codigo": "RC-295",
+   "u": "U0036",
+   "chars": [
+    122690,
+    122753
+   ],
+   "largura": 63,
+   "verificada": true,
+   "texto": "Esses portais os primeiros 5 se bilhões de anos não se abriram."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0036",
+   "chars": [
+    130921,
+    131021
+   ],
+   "largura": 100,
+   "verificada": true,
+   "texto": "Os humanos espalhados por aí conseguem viver de uma forma a embelezar o seu próprio código genômico."
+  },
+  {
+   "codigo": "RC-094",
+   "u": "U0003",
+   "chars": [
+    1843,
+    2019
+   ],
+   "largura": 176,
+   "verificada": true,
+   "texto": "Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas."
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0004",
+   "chars": [
+    7866,
+    7981
+   ],
+   "largura": 115,
+   "verificada": true,
+   "texto": "Nós não somos homo sapiens, apesar do que os paleoantropólogos dizem, nós somos ainda homoenss e homo inteligentes."
+  },
+  {
+   "codigo": "RC-727",
+   "u": "U0004",
+   "chars": [
+    9680,
+    9897
+   ],
+   "largura": 217,
+   "verificada": true,
+   "texto": "Do jeito que cachorrinho e gato hoje são nossos animais de estimação, nesse passado, os humanos funcionavam mais assim, como inocentes úteis, usados por forças mais poderosas, mais espertas, que tinham seus objetivos."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0036",
+   "chars": [
+    128412,
+    128580
+   ],
+   "largura": 168,
+   "verificada": true,
+   "texto": "Primeiro, a não aceitação de muita gente lá que Sofia assuma essa tal de vestimenta nos termos dos evangelhos e as outras não tem nada a ver com Sofia, é sobrevivência."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0030",
+   "chars": [
+    121491,
+    121552
+   ],
+   "largura": 61,
+   "verificada": true,
+   "texto": "os espíritos que flu nesse processo pertence a essa condição."
+  },
+  {
+   "codigo": "RC-636",
+   "u": "U0036",
+   "chars": [
+    129013,
+    129419
+   ],
+   "largura": 406,
+   "verificada": true,
+   "texto": "E todo esse lixo tem que ser limpo antes do final do hidrogênio que tem no nosso universo, que é quando ainda enquanto tiver estrela nacenta, tudo bem, mas quando não tiver mais hidrogênio para gerar novas estrelas e quanto mais a expansão da aceleração cósmica fizer com que a energia escura prevaleça, que é a energia tamásica de Chiva, fazendo com que o nosso universo, tipo um tecido, seja rasgado, né?"
+  },
+  {
+   "codigo": "RC-086",
+   "u": "U0014",
+   "chars": [
+    77344,
+    77367
+   ],
+   "largura": 23,
+   "verificada": true,
+   "texto": "Eva também tomou pelps."
+  },
+  {
+   "codigo": "RC-282",
+   "u": "U0036",
+   "chars": [
+    123294,
+    123390
+   ],
+   "largura": 96,
+   "verificada": true,
+   "texto": "Aí eles mandaram o código de lá para cá, é o que eu chamo do projeto Talm, como eles explicaram."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0036",
+   "chars": [
+    129712,
+    129776
+   ],
+   "largura": 64,
+   "verificada": true,
+   "texto": "Agora o universo tá fazendo ao contrário, tá rasgando tudo isso."
+  },
+  {
+   "codigo": "RC-489",
+   "u": "U0012",
+   "chars": [
+    69919,
+    70089
+   ],
+   "largura": 170,
+   "verificada": true,
+   "texto": "Como eu já disse, o marra barata é a Bíblia dos hinduistas também nesse sentido, como eu falei, a Bíblia dos judeus, a história de Adão e Eva, a Bíblia dos hindav, irmão."
+  },
+  {
+   "codigo": "RC-378",
+   "u": "U0014",
+   "chars": [
+    78844,
+    78965
+   ],
+   "largura": 121,
+   "verificada": true,
+   "texto": "se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa."
+  },
+  {
+   "codigo": "RC-725",
+   "u": "U0036",
+   "chars": [
+    130380,
+    130472
+   ],
+   "largura": 92,
+   "verificada": true,
+   "texto": "As almas da gente são depósitos de lixo dos arquivos emprestáveis experiências desses seres."
+  }
+ ],
+ "recusa": []
+}
