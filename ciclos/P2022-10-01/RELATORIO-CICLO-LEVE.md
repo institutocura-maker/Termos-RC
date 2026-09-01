@@ -1,14 +1,74 @@
-# Relatório do Ciclo Leve — P2022-10-01
+# Relatório do Ciclo Leve — P2022-10-01 (devolutiva aplicada)
+
+**Palestra:** `2022-10-01 - A Wyrd e a Espiritualidade.txt`
+**Status:** DEVOLUTIVA APLICADA — commit de aplicação separado do garimpo (Rito da Esteira Leve).
+
+---
+
+## 0 · Devolutiva do curador (2026-09-01)
+
+1. **25 pérolas 100% aprovadas** — autorizado `ampliar` nas 18 fichas (RC-658, RC-467,
+   RC-454, RC-777, RC-282, RC-104, RC-636, RC-513, RC-295, RC-489, RC-001, RC-072, RC-009,
+   RC-036, RC-322, RC-068, RC-381, RC-783).
+2. **Midana promovido a código (RC-871)** — na **fila aberta** (`ficha=False`), materialização
+   futura; "o detalhamento do germe original da vida biológica... merece sua própria taxonomia".
+3. **Cidades Espirituais ABSORVIDAS na RC-513** — sem código novo (mesmo fenômeno de
+   agrupamento desencarnado; a construção ~19.000 anos enriquece o verbete).
+4. **Nomes flutuantes validados como jargão STT resolvido** — Orlog→RC-454 (Moros/Olog) e
+   Frigga/Ananke→RC-777 (Ananque); nenhum vira código.
+5. **Quarentenas homologadas** — política global, conflitos religiosos institucionais e
+   marcadores biográficos rigorosamente fora dos verbetes.
+6. **Próximo passo:** fechar o commit e avançar para o garimpo da próxima fonte do backlog.
+
+## 1 · O que foi aplicado
+
+| Item | Resultado |
+|---|---|
+| **Ampliações** | 18 fichas com a seção P2022-10-01 (todas do BLOCO 1, todas com ficha pré-existente) |
+| **Termo novo** | RC-871 Midana (PRO_BIO, "Processos biológicos / genéticos") — criado no cadastro com `ficha=False` (FILA ABERTA), fonte `P2022-10-01`, relacionados RC-282/RC-658/RC-783/RC-562/RC-454/RC-104 |
+| **Materializações** | 0 — nenhuma ordenada nesta devolutiva (RC-871 fica em fila aberta, como RC-867/868/869 no P2022-11-26) |
+| **Vínculos** | 19 códigos carregam `P2022-10-01` (18 ampliados + RC-871) |
+| **Relações** | 0 arestas novas (nenhuma autorizada) |
+| **Absorções** | Cidades Espirituais → RC-513 (observação curatorial no `ciclo.toml`); Orlog → RC-454; Frigga/Ananke → RC-777 |
+| **RAG** | exporta 0 cards (nada `aprovada` — sem carimbo) |
+
+**Estado da Base:** 871 termos · 1.857 relações · 577 arquivos · 576 `ficha=True` ·
+fila aberta com **10 códigos** (RC-857/861/862/863/864/866/867/868/869 + **RC-871 Midana**).
+
+## 2 · Portões
+
+- **A** ✓ SHA-256 `2f32aa6f…` · 0 caracteres de controle
+- **B** ✓ 25/25 citações do pacote · 10/10 aspas de glosa (todas spans verificados; 0 rebaixadas)
+- **C** ✓ 18 fichas em paridade com o pacote · 0 vazamentos do léxico vetado (7 marcas)
+- **D** ✓ Δ contra `561b721`: `arquivos 0 · termos +1 · ficha_true 0 · relacoes 0 · vinculos +19` — exatamente o declarado
+- **selftest 9/9** · espelhos xlsx/docx regenerados (871 termos)
+
+## 3 · Anotações de aplicação (transparência)
+
+- RC-871 entrou no cadastro com a fonte `P2022-10-01` já na linha (como RC-867/868/869 no
+  P2022-11-26) — o `vincular` cobre os 18 do pacote; o vínculo do novo termo nasce da própria
+  criação. Δ vinculos = 19 = 18 + 1, exatamente o declarado.
+- `[materializar]` vazio: nenhuma ficha criada (Δ arquivos 0) — RC-871 aguarda materialização
+  futura por ordem do curador.
+- Quarentenas não tocaram nenhuma pérola aprovada (as retidas vivem no BLOCO 5 do pacote);
+  `[travas]` permanece vazio, como no rito.
+
+## 4 · Fila aberta após o ciclo
+
+`RC-857` Elo Adâmico · `RC-861` Extísicos · `RC-862` Essênios · `RC-863` Ocaso do Criador ·
+`RC-864` DNA Neutralizado · `RC-866` Guardadores de Lixo Memorial · `RC-867` Choque de
+Realidade · `RC-868` Genoma da Dignidade · `RC-869` Mentalidade Comum · `RC-871` Midana —
+10 códigos em fila (sem arquivo).
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Garimpo original (referência histórica — o que foi aprovado)
 
 **Palestra:** `2022-10-01 - A Wyrd e a Espiritualidade.txt`
 **Tema:** a Wyrd (teia quântica de Orlog/Moros) como "mãe e pai de tudo que é campo mórfico",
 vinculada à história de como a espiritualidade errática foi criada — dos primeiros
 racionalizados (~48.000 anos) ao colapso atual ("nem 20% construído"; exílio espiritual
 interrompido em 1989).
-**Status:** GARIMPO CONCLUÍDO — aguardando devolutiva do curador (25 pérolas candidatas,
-nenhuma carimbada; nada aplicado à Base).
-
----
+**Status:** GARIMPO CONCLUÍDO — 25 pérolas candidatas, aprovadas na devolutiva acima.
 
 ## 0. Nota editorial — palestra VERBATIM (fala original de Ellam)
 
@@ -30,7 +90,7 @@ veto léxico (BLOCO 5).
 A palestra é **nova na esteira leve**: o garimpo é integral (7/7 fatias, megabloco U0002 de
 ~93.172 chars lido em fatias). Resultado: **25 pérolas em 18 códigos** (todos com ficha).
 **0 termos novos por conta própria**: 2 candidatos declarados no BLOCO 2 (Midana; cidades
-espirituais) para decisão do curador.
+espirituais) — ambos decididos na devolutiva acima.
 
 ## 1. Fonte
 
@@ -73,20 +133,20 @@ Alzheimer" (U0011); "Pode, mas por quem? Como? Estando aqui na terra, a gente n�
 conseguir fazer isso" (RC-658, glosa).
 
 **Delta conferido pelo portão D (garimpo):** `arquivos 0 · ficha_true 0 · termos 0 · relacoes 0 · vinculos 0`.
-Nada foi aplicado à Base neste commit — a aplicação (ampliar/vincular) é da devolutiva.
+Nada foi aplicado à Base no commit do garimpo — a aplicação (ampliar/vincular) foi da devolutiva.
 
-## 3. Lacunas reais sinalizadas (decisão do curador)
+## 3. Lacunas (decididas na devolutiva)
 
-| Candidato | Natureza | Nota |
+| Candidato | Natureza | Decisão do curador |
 |---|---|---|
-| **Midana** | conceito próprio | expressão sânscrita do autor: "ele automatizou naquilo que eu chamo de Midana, que é uma expressão sânscrita, que falava de algo muito semelhante ao código original primordial que veio do universo de lá para cá" (U0002) — o código automatizado por Morren/Mohen So ao preparar os códigos jogados no universo vizinho. Decisão: código novo (RC-871?) ou registro na RC-282. |
-| **Cidades espirituais** | conceito transversal | a construção da erraticidade humana (protoaglomerados, "império do mais forte", ~19.000 anos, Nosso Lar séc. XVII-XVIII, "nem 20% construído"). Decisão: código novo ou absorção na RC-513. |
-| Orlog | registro sem código | grafia STT do criador da teia = Moros/Olog (RC-454/RC-658); sem termo autônomo. |
-| Frigga/Ananke | registro sem código | já ancorada na RC-777 (Ananque). |
-| Reinos de AOD | sem candidato | grafia STT degradada [REVISAR — Asgard?]. |
+| **Midana** | conceito próprio | **RC-871** — código novo em fila aberta (ficha=False), materialização futura |
+| **Cidades espirituais** | conceito transversal | **absorvido na RC-513** (Espiritualidade Errática), sem código |
+| Orlog | registro sem código | jargão STT resolvido → RC-454 (Moros/Olog) |
+| Frigga/Ananke | registro sem código | jargão STT resolvido → RC-777 (Ananque) |
+| Reinos de AOD | sem candidato | grafia STT degradada [REVISAR — Asgard?]; registro apenas |
 
-Todos os 18 códigos do pacote têm ficha — **nenhuma fila aberta tocada** (RC-857/861/862/
-863/864/866/867/868/869 permanecem em fila, intocadas por esta fonte).
+Todos os 18 códigos do pacote têm ficha — nenhuma fila aberta pré-existente tocada (além do
+novo RC-871).
 
 Quarentenas aplicadas (BLOCO 5): política (Trump/Hillary/QAnon; "cidade de Trump, de Putin,
 de Bolsonaro, de Lula"; "vórtice de estupidez"; política espiritual "nojenta"), religião
@@ -109,6 +169,3 @@ máscara do próprio bruto).
 **Portões (fase garimpo):** A ✓ (SHA) · B ✓ (25/25 verbatim byte a byte; glosas 10/10 spans
 verificados) · C ✗ VERMELHO esperado (fichas ainda sem a seção do ciclo — a ampliação é da
 devolutiva) · D ✓ (Δ `0 0 0 0 0` contra o baseline `561b721` — nada aplicado).
-
-**Estado da Base (inalterado neste commit):** 870 termos · 1.857 relações · 577 arquivos ·
-576 `ficha=True` · fila aberta com 9 códigos (RC-857/861/862/863/864/866/867/868/869).

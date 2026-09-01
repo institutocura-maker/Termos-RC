@@ -36,9 +36,15 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 - **[Os posits: os elétrons do universo vizinho] (U0004)** «É que os elétrons aqui dentro e os posits, que são os elétrons desse universo vizinho, os antielétrons, a turma aqui de fora quando começou a pegar achava que sempre deu ordem o elétron e os elétrons organizados sobre a forma de algoritmos ou genomas.» — os posits/antielétrons são os elétrons do universo vizinho; a entropia e o desgaste memorial dos elétrons passaram a atrapalhar todos os sistemas (organismo universal, biológico, qualquer).
 
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[O ímã de Orlog e os pósitrons] (U0002)** «Orlog gerou, vamos aí para para ponderação três, então uma espécie de ímã, um centro magnético, como eu já falei, que atraía e apropriava nele todos os elementos informativos existentes nos pósitrons, que são os elétrons antimateriais do universo vizinho, né?» — a 1ª fase da teia: Orlog gerou um ímã/centro magnético que "atraía e apropriava... os elementos informativos existentes nos pósitrons, que são os elétrons antimateriais do universo vizinho" — "como se estivesse roubando os elementos informativos que existiam... na cabeça dos demos, nas cabeças dos clones... mas acima de tudo na memória dos elétrons chamado positrons" — ressonância com a RC-636 (Duas Pulsações da Criação).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0913–U0947 | PDF/transcrição pré-curada |
 

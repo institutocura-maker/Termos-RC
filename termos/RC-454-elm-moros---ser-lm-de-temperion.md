@@ -127,9 +127,15 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 
 - **[Moros constata a inevitabilidade] (U0003)** «Aí diz que de N surge um ser chamado Morus, que constatou algo fundamental.» — Moros (STT 'Morus', RC-454): de Nix surge o ser que constatou 'a inevitabilidade do problema ocorrido' — o pai das Moiras.
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[Orlog cria as normas para proteger a teia] (U0002)** «Aí nesse ponto, Orlog resolveu criar as normas.» — Orlog (o Moros/Olog da Base; grafia STT "Orlog" preservada) criou as nornes — "Orlog criou alguns seres para exatamente poder criar uma teia de proteção em relação a em relação à aquela loca, aquele geno com essa coisa viva que passou a existir lá dentro"; "as próprias nornes que surgiriam de Pois, né, que foram criadas antes de de horlog se se exilar, elas sentem... elas não tinham acesso à teia porque a teia tornou-se meio que um fantasma" (U0002: «Em outras palavras, Orlog escondeu a loca.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |

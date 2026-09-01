@@ -39,9 +39,15 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 
 - **[Ananque — as necessidades dos códigos podres] (U0003)** «Anc pegou isso que Morus fez, olhou, olhou, olhou, aí começou a estudar a necessidade que cada código podre daquele, segundo a lógica de Anã, que um dia iria sentir.» — Ananque (STT "Anc/Anã") estudou a necessidade que cada código podre sentiria.
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[Friga complementa o trabalho de Orlog] (U0002)** «Friga surgiu como sendo uma figura que complementou o trabalho de Orlog.» — Frigga (nórdica) = Ananke (grega, STT "Ank") na leitura do autor: "Na mitologia grega, a gente estaria falando aqui de Ank, só que na mitologia grega o aspecto an fica mais impessoal. Na mitologia Friga já é necessariamente um ser de polaridade feminino, né, associado a Odim"; Friga estudou "cada código, cada pia, ou seja, peso da infecção ancestral em cada ser" — "o tipo de necessidade que fatalmente aquele tipo de código de infecção ancestral iria apresentar no temperamento do ser. E Friga e as normes estudaram bastante isso" — ressonância com a RC-777 (Ananque, base das Nornes).
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Parte I, Cap. 2 | material do curador |
 | P2021-07-24 — Sophia, Ananque e as Necessidades Cósmicas (Jan Val Ellam) | integral | palestra (a fonte primária da grafia) |

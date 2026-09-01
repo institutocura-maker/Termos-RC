@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.478 B / 15 linhas / 7 com fala / 18.449 palavras / 106.096 chars; cobertura 7/7 fatias provada; megabloco U0002 de ~93.172 chars lido em fatias). Tese: a Wyrd — a teia quântica criada por Orlog (Moros/Olog da Base; grafia STT) com a ajuda de Vdo/Vishnu via Nix, uma loca/geno que virou um computador quântico vivo, complementada por Frigga/Ananke e pelas normes — é 'a mãe e o pai de tudo que é campo mórfico'; o autor vincula a história da teia à história de como a espiritualidade errática foi criada: os primeiros humanos racionalizados (~48.000 anos), os ambientes astrais (~40.000 anos), as primeiras cidades espirituais (~19.000 anos; Nosso Lar só no séc. XVII-XVIII), os híbridos do hiperbório e do Mahabharata, e o colapso atual — 'nem cerca de 20% do que precisava ser construído foi', o exílio espiritual interrompido em 1989, fantasmas sobrando no nível terreno; 'tudo que a teia WD fez está agora automatizado na consciência humana' — o karma, o sansara e as leis morais como herança demo; 'o erd vai se acabar junto com esse universo', mas 'o seu mecanismo já foi apropriado pela consciência humana'. Recolhe formulações PRECISAS para 18 códigos (todos com ficha: RC-658, RC-467, RC-454, RC-777, RC-282, RC-104, RC-636, RC-513, RC-295, RC-489, RC-001, RC-072, RC-009, RC-036, RC-322, RC-068, RC-381, RC-783). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (Midana; cidades espirituais), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-871"]   # Midana — código novo em FILA ABERTA (devolutiva do curador)
 veto_lexico = ["p****", "m****", "b******", "e******", "i*****", "f**", "t*****"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (fase GARIMPO: nada materializado)
-ficha_true = 0   # viradas no cadastro (decisão só na devolutiva)
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 0      # fichas criadas por este ciclo (RC-871 fica em FILA ABERTA, ficha=False — materialização futura)
+ficha_true = 0   # viradas no cadastro (nenhuma materialização ordenada)
+termos = 1       # termos novos: RC-871 (Midana), autorizado pela devolutiva do curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # vínculos só na devolutiva (ampliar/vincular autorizados pelo Curador)
+vinculos = 19   # 18 códigos do BLOCO 1 ampliados + RC-871 criado com a fonte P2022-10-01
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = []      # nenhuma materialização ordenada nesta devolutiva (RC-871 em fila aberta)
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -49,9 +49,20 @@ pontos = [
 ]
 
 [definicoes]
+RC-871 = "O 'Midana' é a expressão sânscrita usada pelo autor para o código original primordial que veio do universo de lá para cá: o que Protogonos/Morrens automatizou quando da preparação dos códigos que iriam ser jogados no universo vizinho — 'algo muito semelhante ao código original primordial'. Esse código foi semeado em diversos mundos, inclusive na Terra, e a amarração Orlog↔Wyrd↔retorno foi a base da transferência de código de vida do universo vizinho para o universo biológico (P2022-10-01)."
 
 [observacoes]
+RC-871 = ["**Código novo em fila aberta (devolutiva):** Midana promovido a código (RC-871) — conceito estrutural (o germe original da vida biológica jogado no universo vizinho por Protogonos/Morrens, que 'merece sua própria taxonomia'); criado no cadastro (ficha=False), materialização FUTURA (fila aberta)."]
+RC-513 = ["**Absorção sem código (devolutiva):** 'Cidades Espirituais' NÃO ganha código próprio por ordem do curador — é o mesmo fenômeno de agrupamento desencarnado da Espiritualidade Errática; a explicação de que a construção das cidades começou há apenas ~19.000 anos enriquece o verbete RC-513 (seções deste ciclo)."]
+RC-454 = ["**Jargão STT resolvido (devolutiva):** 'Orlog' (grafia STT) mapeado para Moros/Olog (RC-454) — permanece como jargão STT resolvido, NÃO vira código."]
+RC-777 = ["**Jargão STT resolvido (devolutiva):** 'Frigga/Ananke' (STT 'Friga'/'Ank') mapeado para a RC-777 (Ananque) — permanece como jargão STT resolvido, NÃO vira código."]
 
 [travas]
 
 [lacunas]
+# DEVOLUTIVA (2026-09-01): Midana → RC-871 (código novo, FILA ABERTA, ficha=False — materialização
+# futura). Cidades Espirituais → ABSORVIDO na ampliação da RC-513 sem código próprio. Orlog → jargão
+# STT resolvido (Moros/Olog, RC-454). Frigga/Ananke → jargão STT resolvido (RC-777). Reinos de AOD →
+# grafia STT degradada [REVISAR — Asgard?], registro apenas no BLOCO 3 do pacote. Quarentenas
+# (política global, conflitos religiosos institucionais, marcadores biográficos) homologadas e
+# mantidas fora dos verbetes. O registro formal vive no BLOCO 2/3/5 do pacote.

@@ -282,3 +282,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[A herança da Trimurti decidida] (U0039)** «Significa só o fato de que a herança da trimurte está finalmente decidida.» — a vinda de Sofia significa só a vitória dela sobre a oposição dos arcontes: "a herança da trimurte está finalmente decidida. É dele" — a disputa de quem manda (Lila) encerrada na herança; "a própria Trimurte colapsou no universo vizinho" (contexto 2007, ver RC-174); grafia STT "trimurte" sem emenda.
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[A Trimurti tentou capturar as informações da teia] (U0002)** «Brama Virgem e Chiva, como eu já contei outras palestras, tentaram inúmeras vezes eh capturar essas informações.» — os três senhores tentaram capturar as informações da Wyrd: "Algumas vezes capturavam mesmo, mas não sabiam fazer uso, não sabia eh eh compreender"; "Brama não sabia o que fazer com aquilo e agia de modo truculento em termos de atitude mental. E aquilo até atrapalhava... a limpidez dos registros" — "foi quando Shiva e Vno ajudaram Orlog a manter Brama meio que sob controle".
+

@@ -46,10 +46,16 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 
 - **[os hiperbóreos e o código ariano] (U0014)** «Porque eles esses bolos tinha uma certa cota do código que viria criar os arianos depois.» — os hiperbóreos (RC-068) tinham a cota do código que viria criar os arianos: conheciam a história da rebelião (900 milhões de anos), eram pacíficos e transmitiram essa linhagem via Gomer.
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[Os híbridos surgiram no hiperbório] (U0002)** «No tempo em que os seres híbridos surgiram no hiperbório.» — o ponto de partida da espiritualidade errática: "No tempo em que os seres híbridos surgiram no hiperbório. No tempo em que o conceito de dharma surgiu entre aqueles seres como sendo um conceito pedagógico que em eles cumprindo faziam com que eles sentissem a nova, entre aspas, sensação de honra pessoal"; "Só que isso os bramenes elevaram a um nível de orgulho"; "a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios" (U0002: «Ainda que onde os humanos estavam tinham algumas almas desencarnadas de corpos híbridos hiperbóis, mas torno a dizer alguns ou a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |

@@ -98,10 +98,16 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 
 - **[Moros e Ananque criaram as Moiras] (U0012)** «Moros e Aneque ou Aneca criaram as três moedidas e O que é que diabos as moes significam na mitologia grega?» — as Moiras (RC-467) vêm de Moros: Moros e Ananque (STT 'Aneque/Aneca') criaram as três, que mapeavam os fios da teia da inevitabilidade.
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[As normes não são figuras femininas] (U0002)** «As próprias normes terminaram eh as normes não são figuras femininas, não é isso?» — as nornes/moiras (RC-467) como o autor as vê: "não são figuras femininas, não é isso? Não é? Pro nosso modo de entender as coisas, as nornes é como se fossem as as moiras. Então a gente acha que é mulher... Mas Não é bem assim não"; elas lidam com as informações captadas pela Wyrd — "E quando Orlog desapareceu, as normes deram continuidade ao que já existia, mas a coisa não andou no sentido de se desenvolver" (U0002: «E quando Orlog desapareceu, as normes deram continuidade ao que já existia, mas a coisa não andou no sentido de se desenvolver.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |

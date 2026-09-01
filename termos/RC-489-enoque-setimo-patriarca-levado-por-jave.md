@@ -90,10 +90,16 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[Enoque: o maior responsável pela velha aliança] (U0007)** «Vamos então O maior responsável pela pelos termos da velha aliança chama-se Enoque.» — Enoque, o maior responsável pelos termos da velha aliança — "usado dentro de um cronograma maluco desses seres... meio que obrigado a produzir uma agenda que ele não queria, mas fez de boa fé"; "Enoque foi o primeiro e único a falar de que existia um reino vizinho, que existiam vários céus e que ele havia sido levado para cada um desses céus" (U0007: «Enoque foi o primeiro e único a falar de que existia um reino vizinho, que existiam vários céus e que ele havia sido levado para cada um desses céus.»); "a vinda do Messias, o julgamento geral dos vivos e dos mortos, tudo isso tá foi anunciado por Enoque. Tudo é Enoque" (U0007: «Tudo é Enoque.»).
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[Jesus reafirmava a agenda de Enoque] (U0009)** «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — o julgamento geral como agenda antiga: "o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos. Agenda essa que lhe foi ditada por Javé"; o autor "na leitura de todas as promessas feitas pelo ser humano Jesus constante nos seus evangelhos e pelo que eu escutava dos espíritos sobre a perspectiva da vinda de Jesus" — "depois eu compreendi o equívoco dos próprios espíritos".
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |

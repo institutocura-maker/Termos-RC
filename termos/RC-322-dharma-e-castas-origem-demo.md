@@ -48,9 +48,15 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 - **[O karma derivado do dharma várnico] (U0003)** «O karma é um conceito sânscrito derivado da noção de dharma que, por sua vez, é ancorado na questão dos critérios várnicos.» — a genealogia do karma: sânscrito, derivado do dharma, ancorado nos critérios várnicos — "Não foi o espiritismo que inventou o karma" (U0003: «Não foi o espiritismo que inventou o karma.»); "Varna em sânscrito significa talento. Depois passou a significar casta" (U0003: «Varna em sânscrito significa talento.»); o jogo dármico/várnico/cármico "era da cultura demodármica... não era humano, mas foi imposto aos humanos"; "a doença deles começa nessa questão várnica" (U0003: «E a doença deles começa nessa questão várnica.»); "Se eu não fizer, estarei descumprindo o dharma e serei punido. Como? Pelo karma" (prosa).
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[O karma foi gerado pros demos] (U0002)** «Do jeito que o conceito de karma foi gerado pros demos de acordo com o Varna, relativo ao Dharma e os humanos herdaram.» — a genealogia demo do karma: "do jeito que o yoga também foi algo criado pros demos e que os humanos ardaram do jeito que o conceito de dharma foi criado pros demos e para quem pertence à casta e os humanos herdaram e dão 100 interpretações" — "e isso é que mexe a teia o erdo para fazer com que fulaninho depois de morto... o seu espírito vá para ali ou para lá"; ressonância com o P2022-11-20 (karma derivado do dharma ancorado nos critérios várnicos).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

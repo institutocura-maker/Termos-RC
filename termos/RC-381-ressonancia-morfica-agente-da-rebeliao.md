@@ -60,9 +60,15 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **[O campo mórfico humano: o computador quântico mais precioso] (U0020)** «Sob essa perspectiva, o campo mórfico da espécie humana e o seu respectivo painel de controle é o campo quântico ou computador quântico mais precioso de tudo que existe.» — o campo mórfico da espécie humana é o computador quântico mais precioso que existe; quem o controla são seres do outro lado, e "a única coisa que tá enfrentando esse campo quântico" é a pulsação dos biodemos feitos humanos (processador Vril).
 
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[A teia tenta distribuir; os campos mórficos redistribuem] (U0002)** «O jogo da vida que a teia quântica da tenta distribuir e os campos mórficos de cada espécie tentam redistribuir, é exatamente O quê?» — o mecanismo dos campos mórficos: "Quando surge um bom comportamento, um novo comportamento, essa teia quântica, ela tenta devolver para que esse novo comportamento seja imantado, passa a existir em um membro daquela espécie que ainda não aprendeu esse comportamento"; "Essa teia, ela, entre aspas, se pudesse rezar, ela rezaria para que os seus os membros fossem ousados e criassem. É o tal insight criativo quântico" (U0002: «É o tal insight criativo quântico.») — "criassem o inusitado para que novas mutações surgissem no DNA"; os demos "estão tentando apropriar no ser deles comportamentos de outras espécies" — "a ressonância que existe entre um mamífero e outro, essa ressonância não existe entre um demo e outro".
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |

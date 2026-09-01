@@ -49,9 +49,15 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 - **[P2023-09-09 · OS FENVANS]** "Quando esse ser chamado Phanes criou uma classe de seres que eu tô sendo obrigado a chamar de **Fenvan, porque é assim que eles se chamam** — espécie de demos daiva mais modernos — aí a aventura de trazer o Código do Criador de lá para cá começou a ser perseguida" (cross RC-064 ✓).
 - 0 códigos novos (O-3).
 
+## Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)
+
+- **[Protogonos/Fanes: criado pelos três senhores da Trimurte] (U0002)** «Foi quando vio, Chiva e Brama criaram Morrens, criaram um ser chamado Protogonos ou Fanis, é o mesmo nome visto sobre diversas formas.» — a 3ª fase da construção da teia: Vio (Vishnu), Chiva (Shiva) e Brama (Brahma) criaram Morrens (Mohen So = Phanes/Protogonos, RC-282; STT "Morrens" sem emenda) — "Ele foi feito a partir do temperamento de Vígeno, do temperamento genético de Vígeno, mas com a essência genética dos três senhores da Trimurte" (U0002: «Ele foi feito a partir do temperamento de Vígeno, do temperamento genético de Vígeno, mas com a essência genética dos três senhores da Trimurte, mas ele poôde ter uma essência genética pessoal para poder compreender criticamente, vamos assim dizer, o problema das outras três cabeças ou das outras três personalidades que está no seu ser, já que ele era alguém composto por quatro faces ou quatro cabeças e por aí vai.»); "O detalhe é que V repassou para Moren tudo que ele sabia sobre a teia quântica de Moros" (U0002: «O detalhe é que V repassou para Moren tudo que ele sabia sobre a teia quântica de Moros.») — e Moren concluiu: "nada de bom aqui vai ser criado. A gente tem que pegar o código da gente, jogar no universo vizinho para ver se esse código lá com um novo tipo de vida que lá poderá emergir" — o germe da vida biológica.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | B014/B060/B061 | correspondências | fontes anteriores |
 | P2026-04-02 | U0045–U0054 | live/STT pré-curado |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — |
