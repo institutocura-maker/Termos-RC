@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (104.466 B / 59 linhas / 36 com fala / 18.273 palavras / 101.014 chars; cobertura 7/7 fatias provada; maior linha ~17.927 chars). Tese: o estresse extremo dos elétrons — o esgotamento da memória quântica que a rebelião dos elétrons anuncia — como causa básica do colapso generalizado: o corpo do criador pifou (o código fonte definidor colapsou de forma dramática entre os anos de 2009, 2020 — STT; o eu de Javé ancorado no DNA humano), o sistema colmeico entre Jahé e os anjos sucumbiu de vez (as abelhas foram as primeiras a somatizar, desde 2007; 'quando as abelhas ferraram, Jaé começou a se...'), a trimurti colapsou com a desconstituição de Vígeno (entrando 2017), Jesus é apontado como o maior responsável (recusou o Messias violento previsto nas profecias), Sofia tem que assumir a suzerania (a vestimenta de suserano devida desde 2006; o fatiamento: o mesmo espírito de Jahé, Jesus e Sofia — três em um), o colapso de Javé é a única forma de tornar possível o Ticum, a energia tamásica de Chiva é o selo de garantia de que o que Brama fez não foi bom, os campos mórficos (dos demos, frágeis; o biológico, mais forte) estão em perigo e colapsam quando a espécie é extinta, o eu humano é o único capaz de limpar a memória dos elétrons ('pulsar com dignidade' — assunto para frente), o quarto logos introduzirá os temas às gerações futuras, a espiritualidade não tem planos — tem sonhos (grau de consecução 0,1; o mundo regenerado previsto para 2047/2048/2049 furou), e o ser humano regenerado terá que se espalhar pelo cosmos. Recolhe formulações PRECISAS para 17 códigos (16 com ficha: RC-636, RC-001, RC-513, RC-009, RC-174, RC-381, RC-037, RC-104, RC-072, RC-859, RC-514, RC-160, RC-562, RC-092, RC-865, RC-783; 1 em fila aberta: RC-863 Ocaso do Criador). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (estresse extremo dos elétrons; fatiamento da consciência), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = []   # nenhum termo novo na devolutiva: estresse extremo e fatiamento ABSORVIDOS sem código
 veto_lexico = ["m****", "p****", "e******"]   # máscaras do próprio bruto: m**** ×10, p**** ×1, p*** ×1 (substring), e****** ×1 — 13 ocorrências, 53 asteriscos
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 1      # RC-863 Ocaso do Criador MATERIALIZADO nesta devolutiva (ordem do Curador)
+ficha_true = 1   # viradas no cadastro: RC-863 (ficha=False → True)
+termos = 0       # termos novos: nenhum (candidatos absorvidos sem código)
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 17   # 16 fichas do BLOCO 1 ampliadas + RC-863 materializada (todas com bloco no pacote)
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-863"]   # sai da fila aberta (devolutiva de 01/09/2026); só com bloco no pacote
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -40,6 +40,10 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 # todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
 [ampliar]
 codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+substituir = true # REexecução de aplicação autorizada pelo portão C: o pacote foi corrigido na
+                  # fase de devolutiva (veto de trânsito de máscara em glosa de RC-636/RC-001);
+                  # as seções das 17 fichas são reescritas com o pacote corrigido (justificativa
+                  # registrada no relatório do ciclo, §3)
 
 [tese]
 pontos = [
@@ -49,9 +53,26 @@ pontos = [
 ]
 
 [definicoes]
+RC-863 = "O Ocaso do Criador é a segunda derrocada do criador reconstruído (conceito do código registrado em P2022-12-03). Esta fonte traz o relato em primeira pessoa do desfecho: o corpo de Javé pifou e deixou de existir (colapso de forma e de campo), o código fonte definidor colapsou de forma dramática 'entre os anos de 2009, 2020' (grafia STT, sem emenda), o eu dele foi totalmente desativado e o que restou foi ancorado no DNA humano de algumas pessoas, enquanto os anjos clones esperam esse eu ressurgir numa provável espécie biodema já produzida; o ocaso foi acompanhado, como testemunha e aviso, pela colônia das abelhas (o sistema colmeico somatizando desde 2007 e sucumbindo de vez entre 2019 e 2020). 'Simplesmente deu errado' — a tentativa de Jahé de se reconstruir a partir da própria podridão não logrou redenção; o corpo do ser humano apodrece e colapsa, mas o eu do ser humano jamais é desativado (P2022-09-18)."
 
 [observacoes]
+RC-636 = ["**Absorção sem código (devolutiva):** o estresse extremo dos elétrons — a exaustão da memória quântica e a afetação por memórias de predatismo como mecanismo central da rebelião da partícula — entra na ficha das Duas Pulsações; o candidato a código novo foi indeferido pelo Curador (navalha mantida)."]
+RC-009 = ["**Absorção sem código (devolutiva):** o fatiamento da consciência — Javé, Jesus e Sophia como o mesmo espírito, três em um, nenhum funcionando adequadamente porque o próprio espírito está sob estresse extremo — entra na ficha de Sophia; pertence à anatomia do conceito, sem código novo."]
+RC-863 = ["**Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: o relato em primeira pessoa do ocaso de Javé acompanhado pela colônia das abelhas, o colapso do código fonte definidor e o eu ancorado no DNA humano."]
 
 [travas]
 
 [lacunas]
+# DEVOLUTIVA (2026-09-01): 25 pérolas 100% aprovadas — ampliar 16 fichas + vínculos 17.
+# Estresse extremo dos elétrons → ABSORVIDO na RC-636 (mecanismo central da rebelião da
+# partícula; RC-874 não criado). Fatiamento da consciência → ABSORVIDO na RC-009 (Javé,
+# Jesus e Sophia como o mesmo espírito, três em um; sem código novo).
+# Registros sem código — navalha mantida: Pedra de Scone, colmeia real, Zontendrel e o
+# panteão grego NÃO materializam códigos (ordem do Curador); registros vivem no BLOCO 2/4
+# do pacote.
+# RC-863 Ocaso do Criador MATERIALIZADO (ficha=False → True) por ordem do Curador — o
+# relato em primeira pessoa do colapso do código definidor e do eu ancorado no DNA humano.
+# Quarentenas homologadas (clínicos, políticos, biomediúnicos, institucionais) e vetos
+# léxicos mantidos (13 ocorrências de máscara no original: m**** ×10, p**** ×1, p*** ×1,
+# e****** ×1 — 53 asteriscos).
+# O registro formal vive no BLOCO 2/3/5 do pacote.

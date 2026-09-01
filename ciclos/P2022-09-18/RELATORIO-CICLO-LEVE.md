@@ -1,4 +1,93 @@
-# Relatório do Ciclo Leve — P2022-09-18
+# Relatório do Ciclo Leve — P2022-09-18 (devolutiva aplicada)
+
+**Palestra:** `2022-09-18 - Os Níveis de Estresse Extremo da Criação.txt`
+**Status:** DEVOLUTIVA APLICADA — commit de aplicação separado do garimpo (Rito da Esteira Leve).
+
+---
+
+## 0 · Devolutiva do curador (2026-09-01)
+
+1. **25 pérolas 100% aprovadas** — autorizado `ampliar` nas 16 fichas existentes (RC-636,
+   RC-001, RC-513, RC-009, RC-174, RC-381, RC-037, RC-104, RC-072, RC-859, RC-514, RC-160,
+   RC-562, RC-092, RC-865, RC-783), consolidando a cronologia do colapso colmeico (RC-174),
+   a queda da Trimurti (RC-104) e a vulnerabilidade dos campos mórficos (RC-381).
+2. **Estresse extremo dos elétrons ABSORVIDO na RC-636** — a exaustão da memória quântica e
+   a "afetação" por memórias de predatismo são o mecanismo central da rebelião da
+   partícula; não exige código apartado (RC-874 não criado).
+3. **Fatiamento da consciência ABSORVIDO na RC-009 (Sophia)** — Javé, Jesus e Sophia como
+   o mesmo espírito ("três em um") pertence à anatomia do conceito; sem código novo.
+4. **Registros sem código — navalha mantida** — nenhum código novo para Pedra de Scone,
+   colmeia real, Zontendrel ou o panteão grego.
+5. **Fila aberta: MATERIALIZAÇÃO imediata de RC-863 (Ocaso do Criador)** — a fonte traz o
+   relato em primeira pessoa de como o código definidor do criador colapsou e o seu "eu"
+   foi ancorado no DNA humano; vire `ficha=False` para `True` e ancore as pérolas no
+   arquivo.
+6. **Quarentenas 100% homologadas** — temas clínicos, políticos, biomediúnicos e
+   institucionais isolados; 13 vetos léxicos (palavrões mascarados no original) mantidos.
+7. **Próximo passo:** fechar o commit deste ciclo e avançar para a próxima fonte da
+   esteira.
+
+## 1 · O que foi aplicado
+
+| Item | Resultado |
+|---|---|
+| **Ampliações** | 16 fichas com a seção P2022-09-18 (todas do BLOCO 1, todas com ficha pré-existente) |
+| **Termo novo** | 0 — estresse extremo dos elétrons e fatiamento da consciência ABSORVIDOS sem código (ordem do Curador) |
+| **Materializações** | 1 — RC-863 Ocaso do Criador saiu da fila aberta, ganhou ficha (`ficha=False → True`) com a pérola validada deste ciclo |
+| **Vínculos** | 17 códigos carregam `P2022-09-18` (16 ampliados + RC-863) |
+| **Relações** | 0 arestas novas (nenhuma autorizada) |
+| **Absorções** | estresse extremo dos elétrons → RC-636 (mecanismo central da rebelião da partícula); fatiamento da consciência (três em um) → RC-009 (Sophia) |
+| **Navalha** | Pedra de Scone, colmeia real, Zontendrel e panteão grego NÃO materializam códigos (registros no BLOCO 2/4 do pacote) |
+| **RAG** | exporta 0 cards (nada `aprovada` — sem carimbo) |
+
+**Estado da Base:** 871 termos · 1.857 relações · 580 arquivos · 579 `ficha=True` ·
+fila aberta com **8 códigos** (RC-857/861/862/864/866/867/868/869) + 6 ordens órfãs do
+despacho (RC-093, RC-189, RC-280, RC-035, RC-375, RC-344) — RC-863 saiu da fila neste
+ciclo.
+
+## 2 · Portões
+
+- **A** ✓ SHA-256 `bd4dc9a6ecaa…` · 0 caracteres de controle
+- **B** ✓ 25/25 citações do pacote · aspas de glosa 54/54 verificadas (0 rebaixadas)
+- **C** ✓ 17 fichas em paridade com o pacote · 0 vazamentos do léxico vetado (3 marcas)
+- **D** ✓ Δ contra `3050aa1`: `arquivos +1 · termos 0 · ficha_true +1 · relacoes 0 · vinculos +17` — exatamente o declarado
+- **selftest 9/9** · espelhos xlsx/docx regenerados (871 termos · 580 fichas no docx)
+
+## 3 · Anotações de aplicação (transparência)
+
+- **Reexecução autorizada pelo portão C (`substituir = true`):** na 1ª execução do `tudo`,
+  o portão C pegou veto de trânsito — a glosa da RC-636 citava a máscara do bruto no meio
+  de um span e a da RC-001 grafava a máscara na prosa do parêntese. O pacote (fonte da
+  verdade) foi corrigido: a RC-636 passou a reformular a prosa ("o que os elétrons
+  registram é sofrimento, terror e angústia") e a RC-001 passou a cortar a aspa antes da
+  palavra mascarada («...uma nova forma de viver»). Declarado `substituir = true` em
+  `[ampliar]` do `ciclo.toml` (justificativa registrada aqui) e as 17 seções foram
+  reescritas com o pacote corrigido — idempotente, cadastro não reescrito (RC-863 "já
+  virada"), vínculos "já-estava".
+- **RC-863 materializada** com o bloco do pacote copiado byte a byte; a virada no cadastro
+  toca só a coluna `ficha` (False → True) e `RELACOES` permanece intocada (0 arestas
+  novas — os 5 `relacionados` declarados ficam **sem aresta**, lacuna declarada na própria
+  ficha, como manda o motor). A ficha registra a definição do código (P2022-12-03) e o
+  relato do desfecho (P2022-09-18) na Definição Sintética.
+- 0 aspas de glosa rebaixadas: todas as 54 citações internas são spans verificados no
+  `original.txt`.
+- Divergências datadas (D-9) mantidas com selo, sem média: «entre os anos de 2009, 2020»
+  (STT; provável "2019, 2020") vs P2022-12-03; "13 vs 14 bilhões" na mesma fala;
+  2047/48/49 (mundo regenerado) vs a janela de séculos do P2022-09-25; "entrando 2017"
+  (desconstituição de Vishnu) vs outras janelas do acervo.
+- Quarentenas não tocaram nenhuma pérola aprovada (as retidas vivem no BLOCO 5 do
+  pacote); `[travas]` permanece vazio, como no rito.
+
+## 4 · Fila aberta após o ciclo
+
+`RC-857` Elo Adâmico · `RC-861` Extísicos · `RC-862` Essênios · `RC-864` DNA Neutralizado ·
+`RC-866` Guardadores de Lixo Memorial · `RC-867` Choque de Realidade · `RC-868` Genoma da
+Dignidade · `RC-869` Mentalidade Comum — 8 códigos em fila (sem arquivo) + as 6 ordens
+órfãs do despacho (RC-093, RC-189, RC-280, RC-035, RC-375, RC-344). **RC-863 Ocaso do
+Criador saiu da fila neste ciclo (materializada).**
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Garimpo original (referência histórica — o que foi aprovado)
 
 **Palestra:** `2022-09-18 - Os Níveis de Estresse Extremo da Criação.txt`
 **Tema:** o estresse extremo dos elétrons como causa básica do colapso generalizado — o
@@ -7,10 +96,7 @@ trimurti colapsou com a desconstituição de Vígeno, Jesus apontado como o maio
 responsável, Sofia convocada a assumir a suzerania, o colapso de Javé como condição do
 Ticum, a força tamásica como selo de garantia do fim e o eu humano — jamais desativado —
 como único capaz de limpar a memória dos elétrons.
-**Status:** GARIMPO CONCLUÍDO — aguardando devolutiva do curador (25 pérolas candidatas,
-nenhuma carimbada; nada aplicado à Base).
-
----
+**Status:** GARIMPO CONCLUÍDO — 25 pérolas candidatas, aprovadas na devolutiva acima.
 
 ## 0. Nota editorial — palestra VERBATIM (fala original de Ellam)
 
@@ -72,24 +158,24 @@ o arauto; Zontendrel e o ser indecifrável; a releitura do Gênesis; a crítica 
 dominação financeira; o dado do Ministério da Saúde sobre suicídios (quarentena clínica).
 
 **Delta conferido pelo portão D (garimpo):** `arquivos 0 · ficha_true 0 · termos 0 · relacoes 0 · vinculos 0`.
-Nada foi aplicado à Base neste commit — a aplicação (ampliar/vincular/materializar) é da
-devolutiva.
+Nada foi aplicado à Base no commit do garimpo — a aplicação (ampliar/vincular/materializar)
+foi a da devolutiva acima.
 
 ## 3. Lacunas reais sinalizadas (decisão do curador)
 
-| Candidato | Natureza | Nota |
+| Candidato | Natureza | Decisão (devolutiva 01/09/2026) |
 |---|---|---|
-| **Estresse extremo dos elétrons** | conceito próprio | o título da palestra e o mecanismo do colapso: esgotamento da memória quântica + afetação. Decisão: código novo (RC-874?) ou absorção na RC-636. |
-| **Fatiamento da consciência** | conceito próprio | "três em um" — o mesmo espírito de Jahé, Jesus e Sofia, nenhum funcionando adequadamente. Decisão: código novo ou absorção na RC-009. |
-| **Fila aberta tocada** | vínculo pedido | RC-863 Ocaso do Criador (1 pérola — o relato em primeira pessoa do ocaso; ficha=False desde o P2022-12-03) — pedido de materialização na devolutiva. |
-| Registros sem código | personagens/mitologia | pedra de Scone + 4 objetos dos Tuatha de Danann → RC-018; Zontendrel + ser indecifrável → RC-019; colmeia real → RC-174; panteão grego (entre titãs e Zeus) → RC-104; centésimo macaco → RC-381; Charon [REVISAR]; Bezerra de Menezes/José/Lucas (1989); Sandman/vórtice (fonte externa). |
+| **Estresse extremo dos elétrons** | conceito próprio | **ABSORVIDO na RC-636** — a exaustão da memória quântica e a afetação por memórias de predatismo são o mecanismo central da rebelião da partícula; RC-874 não criado |
+| **Fatiamento da consciência** | conceito próprio | **ABSORVIDO na RC-009 (Sophia)** — Javé, Jesus e Sophia como o mesmo espírito ("três em um"); sem código novo |
+| **Fila aberta tocada** | vínculo pedido | **MATERIALIZADO** — RC-863 Ocaso do Criador (ficha=False → True) |
+| Registros sem código | personagens/mitologia | Pedra de Scone, colmeia real, Zontendrel e panteão grego — **navalha mantida**, nenhum código |
 
 Quarentenas aplicadas (BLOCO 5): política/social (1% × 99%, bancos, "pão em circo",
 "a Globo nunca vai dar", bilionários, dominação), religião institucional (a releitura do
 Gênesis, o vínculo com islâmicos/judaico-cristãos desconstituído), biomediúnica/biográfica
 (infartos, Mecão, Palmeiras/corintianos, "as velhas poções" de Epimeteu), clínica
 (suicídios, Covid/Toxoplasma), vetos léxicos (m****, p****/p***, e****** — máscaras do
-próprio bruto, 13 ocorrências/53 asteriscos).
+próprio bruto, 13 ocorrências/53 asteriscos). **Homologadas** na devolutiva.
 
 ## 4. Radar datado (BLOCO 4 do pacote — promessa só lá, nunca em ficha)
 
@@ -106,6 +192,7 @@ próprio bruto, 13 ocorrências/53 asteriscos).
 C ✗ VERMELHO esperado (fichas ainda sem a seção do ciclo — a ampliação é da devolutiva) ·
 D ✓ (Δ `0 0 0 0 0` contra o baseline `3050aa1` — nada aplicado).
 
-**Estado da Base (inalterado neste commit):** 871 termos · 1.857 relações · 579 arquivos ·
-578 `ficha=True` · fila aberta com 9 códigos (RC-857/861/862/863/864/866/867/868/869)
-+ 6 ordens órfãs do despacho — RC-863 Ocaso do Criador é a fila tocada por esta fonte.
+**Estado da Base (inalterado no commit do garimpo):** 871 termos · 1.857 relações · 579
+arquivos · 578 `ficha=True` · fila aberta com 9 códigos (RC-857/861/862/863/864/866/867/
+868/869) + 6 ordens órfãs do despacho — RC-863 Ocaso do Criador é a fila tocada por esta
+fonte.

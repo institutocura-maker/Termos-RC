@@ -231,3 +231,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[A locomotiva já partiu] (U0014)** «Metaforicamente falando, Jesus ainda não chegou, Sofia ainda não chegou, mas a locomotiva já partiu.» — a resposta do autor ao "não vai dar tempo": "o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada" (U0014: «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.»); "as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais" (U0014: «E o que está posto é as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais.»); desde 2007 as colmeias colapsam e "não deu para esperar pro Sofia".
 
+## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+
+- **[O quarto logos e as gerações futuras] (U0031)** «O quarto logos é que vai introduzir esses temas que eu tô falando aqui paraas gerações futuras.» — "é preciso criar na Terra escolas que tratem desse assunto"; "se os nossos tataranetos nos repetirem... Porque nós não sabemos estruturar nada. A gente só sabe ser estruturado pelo que vem na nossa direção"; "nós somos condicionados a não fazer isso. Esse é um problema" (U0031: «nós somos condicionados a não fazer isso. Esse é um problema»).
+

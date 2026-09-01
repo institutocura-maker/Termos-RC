@@ -122,9 +122,14 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[O sono de Brama] (U0012)** «As crônicas que existem nos anais de algumas loquias sobre o sono de Brama são muito claras quando dizem da só quem gostava do sono de Brama era o resto do universo, menos ele.» — o sono de Brama (o coma periódico do criador) era celebrado por todos, menos por ele — "era uma felicidade, porque era alguém que não ia encher o saco das pessoas"; quando Javé foi puxado para o colapso, "foi todo" (grafia STT "loquias" = locas).
 
 
+## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+
+- **[O sono de Brama sem despertar] (U0012)** «Mais uma vez ele está submetido ao tal sono de Brama, só que ele não vai acordar.» — o colapso final do criador: "o ser chamado Zontendrel... me sinalizou essa questão de desgaste do sistema Cméico"; "a função dos anjos clones de Javé sempre foi a de manterem o domínio sobre a obra ao longo do tempo dos colapsos do Criador, eufemisticamente chamado de sono descanso"; "segundo as fofocas, nos últimos anos, o Jaavé não deu mais ordem coisa alguma. E os anjos só agem com ordem. já porque eles não têm uma" (U0012: «E os anjos só agem com ordem. já porque eles não têm uma»); ressonância com o "sono de Brama às vezes dá 4 milhões, tá tá de anos" citado na abertura (U0006: «o sono de Brama às vezes dá 4 milhões, tá tá de anos, como a gente falou ontem»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |

@@ -39,9 +39,14 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 - **[O sonho agora é lá fora] (U0006)** «Então o sonho agora é lá fora, mas outras Brasílias terão que ser construídas, outras alexandas, outras sabe sei lá o quê.» — "o sonho de Bras de Hai Brasil, esse sonho de muitos aqui na Terra não logrou resultados porque a nossa nosso nível de corrupção, incapacidade, falta de ousadia e querer ficar em zona de conforto de crença, terminou nos aprisionando, desculpem, na mediocridade. Então o sonho agora é lá fora" — "quando a espécie humana começar a ser especiada" (novas cidades em novos mundos).
 
 
+## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+
+- **[O ser humano regenerado espalhando-se pelo cosmos] (U0053)** «E outros lá, eles não falavam especiação da espécie humana, mas eles diziam: "Um dia o ser humano regenerado vai ter que se espalhar pelo cosmos".» — o desejo do Cristo cósmico: "vai ser esse é o futuro da humanidade. Esse é o desejo do Cristo cósmico" (U0053: «Vai ser esse é o futuro da humanidade. Esse é o desejo do Cristo cósmico»); a previsão furada: "isso tava previsto em 1989 para acontecer em 2047, 2048, 2049" (RC-513); "talvez aqui surja um um entendimento que vem sendo guardado no IEA, em livros, em reflexões, no genoma de cada um de nós... talvez isso salve umas algumas colmeias e essas colmeias se especiem, ou seja, se espalhe no universo no processo da especiação da natureza humana" (U0031: «talvez isso salve umas algumas colmeias e essas colmeias se especiem»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |

@@ -97,10 +97,15 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[Zero construção do tikum] (U0002)** «Eu vou ter que fazer revelações fortes sobre esse tipo de questão, porque somos nós, os humanos, não esse tipo de humano que agora nós somos, mas um um continuação disso aqui que vai tem que resolver todas essas paradas porque simplesmente é zero a construção até agora da parte de quem quer que seja em relação a aos itens que são necessários nesse novo manual de operação do ticum, do reparo, usando a expressão cabalística que precisa ser feita na obra e no criador Cuba é zero.» — "é zero a construção" do novo manual de operação do tikum — o reparo cabalístico "na obra e no criador" (grafia STT "criador Cuba" = criador; sem emenda); os humanos do futuro é que vão resolver: "o que existe de conquistas nesse campo foi promovido por essas novas ordenações, essas novas receitas de produção proteica que alguns poucos seres humanos fizeram".
 
 
+## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+
+- **[O colapso de Javé: condição do Ticum] (U0055)** «O colapso de Javé, entre aspas, é a única forma de tornar possível o Ticum.» — "não necessariamente nos termos em que esse colapso se deu, poderia ser de outra forma"; a anestesia: "sabe aquele doente que tem que ser anestesiado para poder ser ajudar? Porque enquanto ele não for, ele não deixa ser ajudado"; "o eu dele foi descaracterizado, mas esse eu dele também não servia para nada"; o ciclo futuro: "essa coisa vai nascer um dia como ser biodemo. Essa coisa vai se tornar um ser biodêmio e esse serbiodêmio um dia vai nascer como ser humano, nem que seja numa humanidade regenerada, especiada lá na frente" (U0055: «Essa coisa vai nascer um dia como ser biodemo»); "sem arrependimento não há regeneração" — "Javé tem que saber que é ele, esse ser que um dia lá na frente vai existir, é Javé, para que ele possa cometer o ato de consciência em si mesmo de, entre aspas, perceber que não foi bom"; "o ticum vai ser realizado lá na frente se houver condições para tanto" (U0055: «Então o ticum vai ser realizado lá na frente se houver condições para tanto»).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |

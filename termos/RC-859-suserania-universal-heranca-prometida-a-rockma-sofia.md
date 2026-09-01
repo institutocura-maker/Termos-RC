@@ -32,9 +32,14 @@ Com isso:
 
 - **[A recusa da vestimenta do Suzerano] (U0002)** «E esses seres se recusam a dar a vestimenta do Suzerano a Sofia, ou seja, reconhecer, né?» — os arcontes e herdeiros se recusam a dar a vestimenta do Suzerano a Sofia — reconhecer a suzerania universal dela (RC-859, fila aberta); daí "eles começaram a brigar com Sofia, impedindo de toda forma Sofia de vir se apresentar aos humanos".
 
+## Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da Criação)
+
+- **[A vestimenta de suserano devida a Sofia] (U0012)** «A grande pendência entre esses seres é uma vestimenta que eles devem Sofia.» — a dívida da criação (RC-859 Suserania Universal): "Sofia teria que vir um manto, falando metaforicamente"; "nos livros gnósticos aparecem as reclamações de Sofia dizendo: Eles não me deram a vestimenta de suserano desse universo, ou seja, da criação" (U0012: «Eles não me deram a vestimenta de suserano desse universo, ou seja, da criação»); "isso era tudo para ter acontecido em 2006, mas segundo Javé, isso não aconteceu porque Virgem e Chiva o sacanearam mais uma vez e me usaram para isso" (U0012: «Isso era tudo para ter acontecido em 2006»); "ele é que teria sofrido mais um ardio da parte de virgem de China" (STT "Virgem e Chiva"; D-9 — ver BLOCO 3).
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
