@@ -9,10 +9,10 @@
 | Sigla | `P2021-04-10` |
 | Data da fonte | 10/04/2021 |
 | Hash da fonte | `657dff70552dc8b0…` · 109.422 B
-| Cobertura | GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.422 B / 12 linhas / 11 com fala / 19.097 palavras / 106.045 chars; cobertura 7/7 fatias provada). Tese: a força guna tamásica (criada por Sávna a partir de Perfério no microinstante da criação) impera desde os 9 bilhões de anos e desestruturou os planos de exílio — o fechamento dos portais entre os dois universos (compreendido só nos últimos 3.000 anos; sentido científico em 2012) travou o exílio de Len Mion e sua turma: a nave (cheia de macas flutuantes, 'cabe algumas cidades de São Paulo dentro') não pode mais fazer a interseção entre os níveis espirituais da erraticidade inferior e o universo biológico; a turma de Len Mion se pôs de pé ('estão entrincheirados novamente'). O impasse: seres como Lemi nunca foram humanos, mas Chiva os viu 'na forma humana' (um 'eu' criado por ciência própria — 'espaço egóico'), não podem ser julgados pela ótica humana e não podem ser descartados porque 'os que sujar é que tem que limpar': os memes/qualias mentais marcados nos elétrons por Lemi nos últimos 20.000 anos precisam ser desfeitos por ele mesmo; só a personalidade humana efêmera (o 'eu da gente') é a única parte limpa capaz de atuar no caos. O autor desconstrói o romantismo espírita: Capela foi uma pandemia ('nunca houve exílio planetário' na história do universo), o juízo final foi desmascarado (agenda de Enoque a pedido de Javé), o joio e o trigo de Jesus é exequível mas está paralisado, e o quarto logos ('espírito da verdade') é o tempo novo: superar obstáculos sem gerar problemas colaterais, sem pretensão de verdade. Recolhe 25 formulações PRECISAS em 11 códigos (todos com ficha: RC-295, RC-074, RC-007, RC-200, RC-151, RC-102, RC-161, RC-520, RC-001, RC-567, RC-092). NENHUM termo novo criado no garimpo: 2 candidatos declarados no BLOCO 2 (O Tal/Tao; Fator Javé) e 1 conceito (Eu efêmero — possivelmente absorção em RC-870/RC-161) aguardando devolutiva; RC-348/RC-478/RC-063/RC-568 (ficha=False) registrados sem pérola. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado. |
-| Termos tocados | 11 códigos, 11 com arquivo |
-| Citações verificadas | 25 |
-| Caderno | 25 pérolas de 25 candidatas |
+| Cobertura | GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.422 B / 12 linhas / 11 com fala / 19.097 palavras / 106.045 chars; cobertura 7/7 fatias provada). Tese: a força guna tamásica (criada por Sávna a partir de Perfério no microinstante da criação) impera desde os 9 bilhões de anos e desestruturou os planos de exílio — o fechamento dos portais entre os dois universos (compreendido só nos últimos 3.000 anos; sentido científico em 2012) travou o exílio de Len Mion e sua turma: a nave (cheia de macas flutuantes, 'cabe algumas cidades de São Paulo dentro') não pode mais fazer a interseção entre os níveis espirituais da erraticidade inferior e o universo biológico; a turma de Len Mion se pôs de pé ('estão entrincheirados novamente'). O impasse: seres como Lemi nunca foram humanos, mas Chiva os viu 'na forma humana' (um 'eu' criado por ciência própria — 'espaço egóico'), não podem ser julgados pela ótica humana e não podem ser descartados porque 'os que sujar é que tem que limpar': os memes/qualias mentais marcados nos elétrons por Lemi nos últimos 20.000 anos precisam ser desfeitos por ele mesmo; só a personalidade humana efêmera (o 'eu da gente') é a única parte limpa capaz de atuar no caos. O autor desconstrói o romantismo espírita: Capela foi uma pandemia ('nunca houve exílio planetário' na história do universo), o juízo final foi desmascarado (agenda de Enoque a pedido de Javé), o joio e o trigo de Jesus é exequível mas está paralisado, e o quarto logos ('espírito da verdade') é o tempo novo: superar obstáculos sem gerar problemas colaterais, sem pretensão de verdade. Recolhe 25 formulações PRECISAS em 11 códigos (todos com ficha: RC-295, RC-074, RC-007, RC-200, RC-151, RC-102, RC-161, RC-520, RC-001, RC-567, RC-092) + 1 item de ABSORÇÃO (Eu efêmero) autorizado pela devolutiva de 01/09/2026 em RC-870 — total 26 itens no pacote, 12 fichas ampliadas. APLICAÇÃO: RC-881 (O Tal/Tao, COS_ESP) e RC-882 (Fator Javé, PRO_ESP) PROMOVIDOS a código novo na fila aberta (ficha=False, fonte P2021-04-10); Eu efêmero absorvido em RC-161 + RC-870 (SEM código novo). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado. |
+| Termos tocados | 12 códigos, 12 com arquivo |
+| Citações verificadas | 26 |
+| Caderno | 26 pérolas de 26 candidatas |
 | Teto curatorial | suspenso-com-cadencia |
 | Livro-razão | `ancorario_P2021-04-10.json` |
 
@@ -232,9 +232,17 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Porque nesse período eles estavam nessa shamba nessa coisa, nessa realidade simultânea nossa, meio que paralela, mas mesmo de lá os memes, esses essas infecções mentais que esses caras criaram tão profundamente marcado nesse no entrelaçamento quântico do nosso universo e um pouco até no de lá, porque esses seres não dominaram só seres humanos.»
 
+### PER-2021-04-10-026 · RC-870
+
+* **Endereço**: `P2021-04-10` · U0006 · chars 68416–68665 · 249 c
+* **Termo**: `RC-870`
+* **Status**: `candidata` · **Por quê**: —
+
+> «E a Aqui eu vou dizer a a coisa mais maluca que eu já fui obrigado a concluir de mim para mim mesmo, nesse caos podre que a gente vive, só aquilo que é efêmero consegue atuar nele e sobre ele, ou seja, sobre o caos, de modo a produzir algo positivo.»
+
 ## 4 · Atualizações para a Base
 
-* **Termos novos**: 0. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
+* **Termos novos**: 2 — cadência do teto suspenso: RC-881, RC-882. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
 * **Relações**: nenhuma aresta criada, fechada ou reetiquetada por este ciclo. Aresta só entra tipada, com evidência (span + endereço) e selo datado.
 * **Divergências**: com selo datado, sem média — a Base não harmoniza números por decisão de quem aplica.
 * **Fila aberta**: 0 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.

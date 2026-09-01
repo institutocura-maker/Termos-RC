@@ -42,9 +42,14 @@ Com isso:
 - **[A plasticidade humana: pior que o leão, pior que o demo, melhor que Deus] (U0030)** «Nós humanos podemos ser pior que o leão, pior que o demo, melhor que Deus.» — "A sabedoria consiste na gestão de todos os talentos e das inclinações que nos são ainda desagradáveis." (U0008: «A sabedoria consiste na gestão de todos os talentos e das inclinações que nos são ainda desagradáveis.»); o demo não tem essa opção — nasce com varna ou fica lerdo (paráfrase U0030; RC-321); RC-870.
 
 
+## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+
+- **[O eu efêmero: a única parte limpa capaz de atuar no caos] (U0006)** «E a Aqui eu vou dizer a a coisa mais maluca que eu já fui obrigado a concluir de mim para mim mesmo, nesse caos podre que a gente vive, só aquilo que é efêmero consegue atuar nele e sobre ele, ou seja, sobre o caos, de modo a produzir algo positivo.» — absorção da devolutiva (Eu efêmero, SEM código novo): o espírito é eterno, o corpo é transitório e "mais efêmero ainda é o eu que surge a partir da tentativa dessa consciência espiritual vibrar através desse cérebro" (glosa sem aspa); "sendo um eu que é efêmero, que pode evoluir, que entre aspas é a única parte limpa dessa história, já que os nossos espíritos não é esse corpo... é tão puro que não sabe lidar com isso" (glosa sem aspa); as mentes formidáveis poderão vir "se utilizando dessa lógica, desse algoritmo criado pelo jeito humano produtivo de ser" (glosa sem aspa).
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 

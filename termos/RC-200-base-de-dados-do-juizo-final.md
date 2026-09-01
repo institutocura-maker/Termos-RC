@@ -27,10 +27,16 @@ Na leitura de Jan Val Ellam, o conjunto de registros/informações associado ao 
 
 - **[P2023-12-03 · CUSTÓDIA, NÃO CALENDÁRIO]** «nós existimos para guardar essas informações, mas a cada vez que esse cérebro que morre, o espírito que anima esse corpo, escaneia as informações para passar para um outro cérebro e enquanto esse jogo durar, vai ser assim, mas no final tem que se tirar tudo e o resto tem que tá limpo para esse essa criação se apagar.» (U0038) — D-13: entra a **função** (cérebros e processadores como custódia temporária da informação até a finalização) e **não** a janela de anos que a fonte fixou em outro ponto da fala, nominalmente vetada nesta ficha. A escatologia datada fica na apostila (U0016) e em `RC-003`/`RC-344`, onde o despacho a colocou.
 
+## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+
+- **[O juízo final desmascarado: a agenda de Enoque] (U0006)** «Porque o desmascaramento que já foi feito em torno do juízo final simplesmente impediu esse processo maluco que foi vacinado lá atrás por Enoque a pedido de Javé.» — "Enoque foi quem comunicou o mundo dos 18.000 anos antes de Jesus que o ser, que se dizia Deus dessa criação estava marcando um juízo final" (U0006: «Pois que Enoque foi quem comunicou o mundo dos 18.000 anos antes de Jesus que o ser, que se dizia Deus dessa criação estava marcando um juízo final.»); "Aí não tem juízo. Final coisa alguma"; o processo do exílio começou em 1989 por decisão do espírito de Jesus: "esse momento aqui na terra de exílios espiritual, de separação do joio do trigo, eh, teria iniciado em 1989" (U0006: «esse momento aqui na terra de exílios espiritual, de separação do joio do trigo, eh, teria iniciado em 1989.») e "só se concluiria lá perto do ano 2048, 49,50" (U0006: «E esse processo iniciado em 1989 só se concluiria lá perto do ano 2048, 49,50 e esse processo iria demorar p pa pá p pa p p pá.») — mas "não tá funcionando mais".
+- **[O joio e o trigo de Jesus: exequível, paralisado] (U0006)** «A separação do joio e do trigo que o homem Jesus, o humano Jesus sobrepôs ao conceito de juízo final.» — "Esse sim é exequível, mas tá paralisado devido a essa loucura toda"; a aferição de mérito e demérito é "a única forma justa que a gente tem aqui" — mas "não é julgamento, é uma ferição pontual, circunstancial" (a turma de 50 alunos: "35 e 15 só quer atrapalhar"); "nenhum julgamento agora é honesto, não existe isso. Tá todo mundo fazendo favor divino" (glosa sem aspa).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | B035 | O Big Data do Criador | livro |
 | P2025-02-15 | Camuflagem da Realidade | palestra/STT |

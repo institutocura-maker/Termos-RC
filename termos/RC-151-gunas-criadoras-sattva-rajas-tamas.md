@@ -49,9 +49,15 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 
 - **[As três gunas compõem tudo] (U0005)** «Segundo a concepção dos nossos irmãos arianos hindus, existem três gunas que formam ou compõem absolutamente tudo que existe.» — as três gunas (RC-151) 'formam ou compõem absolutamente tudo que existe' — e o que podemos perceber é só 4% da matéria e energia do universo.
 
+## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+
+- **[A tamásica impera desde os 9 bilhões de anos] (U0006)** «Então, nos primeiros 9 bilhões de anos da criação do universo, o Big Bang manteve uma velocidade, vamos assim dizer, de expansão.» + «Mas de 9 bilhões de anos para cá começou a ter uma um aumento na velocidade da acelerou, a expansão acelerou e tá tudo se destruindo mais rapidamente.» — "Isso quer dizer que o império da energia básica começou a ser exercido depois de 9 bilhões de anos após o início do universo e nós já estamos a 13.7 13.8"; "das três forças essa é a mais forte"; o carimbo que garante que aquilo acaba é de Sávna (que mergulhou antes de Mavatma, ainda no tempo em que Prabrágina caído se reconstruíra como Brama).
+- **[A força tamásica: a força escura que desagrega] (U0006)** «Ou seja, ela mexe desse nível aí até a força gravitacional mais forte no sentido de ser algo anti gravitacional, ou seja, a força tamática é aquela força escura que faz com que tudo se desagregue.» — mexe nas forças nuclear forte e fraca, nos três quarks que formam prótons e nêutrons; "é uma coisa que você vai ter que lidar com ela até o fim da história desse universo"; ninguém sabe "o que é que essa força vai fazer daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias do tempo terreno" (U0006: «e dizer com precisão o que é que essa força vai fazer daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias do tempo terreno.»); "Não há ninguém no paraíso" que compreenda todas as implicações dela (U0006: «Não há ninguém no paraíso.»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | cap. 3 (As Gunas Criadoras) | pp. 32–36 (aprox.) | capítulo inteiro dedicado |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — | — |

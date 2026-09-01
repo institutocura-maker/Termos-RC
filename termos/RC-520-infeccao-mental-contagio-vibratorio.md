@@ -34,9 +34,14 @@ Com isso:
 - **[Estamos todos doentes] (U0002)** «Estamos todos doentes.» — o anúncio único do choque: a criação inteira está doente — "se essa pureza não fosse minimamente deficitária em algum padrão, a tese, apesar de perfeita, não teria chegado até esse ponto"; o espanto é para todos, mas vai chegando em doses.
 - **[Sem imunidade de rebanho] (U0002)** «Mas assim, essa infecção que está saindo uma espécie de choque de realidade para diversos níveis aí fora, não tem imunidade de rebanho.» — o contágio da doença do criador não tem imunidade de rebanho — "na lógica biológica ficou feio, mas tá correto" (U0002: «Mas assim, a tal imunidade de rebanho que na lógica biológica ficou feio, mas tá correto.»); a infecção sai como choque de realidade para todos os níveis, inclusive o paraíso.
 
+## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+
+- **[Os memes de Lemi: infecções mentais no entrelaçamento quântico] (U0006)** «Porque nesse período eles estavam nessa shamba nessa coisa, nessa realidade simultânea nossa, meio que paralela, mas mesmo de lá os memes, esses essas infecções mentais que esses caras criaram tão profundamente marcado nesse no entrelaçamento quântico do nosso universo e um pouco até no de lá, porque esses seres não dominaram só seres humanos.» — "Lemi e a turma terminaram dominando também alguns demos da geração de Zeus, alguns seres idiotizados da geração dos titães" (glosa sem aspa); "eles vão ter que desfazer. Eles que eu digo pessoalmente, se eles forem exilados, isso não tem como ser feito" (glosa sem aspa).
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 

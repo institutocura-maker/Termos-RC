@@ -55,9 +55,16 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 
 - **[Os exilados de Capela resgatados] (U0005)** «E aí Aí começa uma história dos exilados de capela que Chico Xavier e Emmanuel desde 1938 no livro A Caminho da Luz já resgataram para a modernidade.» — a história dos exilados de Capela (RC-007) foi resgatada por Chico Xavier e Emmanuel desde 1938, no livro 'A Caminho da Luz'.
 
+## Ampliação — P2021-04-10 (O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento)
+
+- **[Capela foi uma pandemia, não uma reciclagem organizada] (U0006)** «O que houve em Capela foi uma pandemia, uma pandemia criada a partir de um vírus que surgiu.» — "o que houve em Capela foi um problema de saúde pública. A turma lá foi mais incompetente do que tá sendo o governo brasileiro no trato dessa pandemia" (glosa sem aspa — quarentena política não transita); "não é do jeito romântico que todos nós terminamos colecionando na nossa mente"; ainda não acabou: as quase 250.000 famílias biodem e o processador VOL seguem se adaptando; o exílio de Capela era um comboio organizado? "Não foi. Foi tudo improvisado."
+- **[Nunca houve exílio planetário na história do universo] (U0006)** «Sabe qual é a resposta? Nunca. Nunca houve isso.» — "o que ocorreu no nosso universo são problemas parecidos com o que aconteceu em Capela, mas eh subproduto de pandemia, confusões, de destruição"; "jamais algum mundo no nosso universo biológico passou por exílio espiritual, nos termos em que Nós ingenuamente pensávamos"; a separação do joio e do trigo na Terra seria o primeiro tipo de atitude nesse sentido desde que a criação começou.
+- **[A Caminho da Luz: a primeira notícia de exílio planetário] (U0006)** «Porque quando em 1000 eh 96, o livro tá da luz de Chico Xavier e Emanuel foi produzido ali naquele livro maravilhoso, pela primeira vez aparece em termos de literatura espiritual espírita, a notícia de um exílio planetária.» — [REVISAR: STT grafa "em 1000 eh 96" = 1996]; capítulo 4 de A Caminho da Luz: o exílio de Capela (mundo que girava em torno da estrela de Capela, na constelação do Cocheiro, norte astronômico); Kardec já tinha dado a base em A Gênese, capítulo 11 (queda dos anjos); Edgard Armond escreveu "Exilados e Capela" em homenagem ao capítulo (STT "Edgarmon" — grafia canônica: Edgard Armond).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
