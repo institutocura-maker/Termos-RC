@@ -1,0 +1,220 @@
+{
+ "sigla": "P2022-09-25",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (98.333 B / 39 linhas / 25 com fala / 17.134 palavras / 95.444 chars; cobertura 6/6 fatias provada; megabloco U0003 de ~37.833 chars lido em fatias). Tese: o contexto espiritual por trás da criação de Brasília e do próprio nome Brasil — do biodemo Iel Brasil (Deus Bres, primeiro rei dos Tuatha de Danann, 'ancestral das estrelas', que distribuía bênçãos — daí o inglês Bless) e da ilha Rai Brasil/high Brasil a oeste da Irlanda (a nave Esferon/Alto Langron dos 983 membros, a terra de Br), ao espírito que reencarnou como Alexandre Magno (educado por Aristóteles, a cultura helênica da liberdade, o sonho das novas cidades — Alexandrópolis, Alexandria) e depois como o general Ptolomeu e, por fim, Juscelino Kubitschek — 'outras Brasílias terão que ser construídas', agora em novos mundos com a especiação humana (o lobo que se especiou em 2.000 raças de cachorrinho). Brasília no chão mais antigo e estável do planeta (Planalto Central, 3,2 bi anos — a decisão dos seres da base Atlan, onde Lúcifer pousou há 98.000 anos); o fluxo cármico das velhas terras para o Novo Mundo (a turma menos habilitada veio parar no Brasil); a escola de Sagres e o sonho templário de Portugal; 'a espiritualidade brasileira foi invadida por espíritos revoltados'. Recolhe formulações PRECISAS para 15 códigos (13 com ficha: RC-018, RC-036, RC-068, RC-086, RC-282, RC-454, RC-513, RC-658, RC-727, RC-783, RC-850, RC-104, RC-295; 2 em fila aberta: RC-028 Atlan, RC-871 Midana). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (Brasil — origem do nome; Brasília — contexto espiritual da construção), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-09-25/original.txt",
+ "sha256": "cadfc8356b153a1959a449b4d7b28fd7637d3ea76fd8b6a726abd5937fca92ad",
+ "bytes": 98333,
+ "unidades_com_fala": 25,
+ "spans": [
+  {
+   "codigo": "RC-018",
+   "u": "U0003",
+   "chars": [
+    15973,
+    16102
+   ],
+   "largura": 129,
+   "verificada": true,
+   "texto": "Na verdade é a nave Esferon com cerca de 900 e pou seres lá dentro que até hoje existe, como eu disse, e fica a oeste da Irlanda."
+  },
+  {
+   "codigo": "RC-036",
+   "u": "U0003",
+   "chars": [
+    18460,
+    18771
+   ],
+   "largura": 311,
+   "verificada": true,
+   "texto": "Mas os partol os nemedianos, os cruz, os pândavas, ou seja, aquelas figuras que aparece nas mitologia hindu, na no Marrabarata, na no Ramaiana, tudo aquilo, a tribo hiperbólica, o povo hiperbólio, eram dezenas de todos os biodemos, ou seja, biodemo é exatamente a característica dessas raças que foram rebeldes."
+  },
+  {
+   "codigo": "RC-036",
+   "u": "U0003",
+   "chars": [
+    12057,
+    12151
+   ],
+   "largura": 94,
+   "verificada": true,
+   "texto": "E esse ser chamado I Brasil terminou sendo com o tempo, tido como um Deus pelos seres humanos."
+  },
+  {
+   "codigo": "RC-068",
+   "u": "U0003",
+   "chars": [
+    16738,
+    16857
+   ],
+   "largura": 119,
+   "verificada": true,
+   "texto": "E essas terras estavam entre as terras que hoje pode ser considerado pelos terráqueos como sendo a lendária hiperbória."
+  },
+  {
+   "codigo": "RC-086",
+   "u": "U0003",
+   "chars": [
+    19642,
+    19879
+   ],
+   "largura": 237,
+   "verificada": true,
+   "texto": "Foi aonde começou a surgir um pensamento racionalizado, equilibrado, que já vinha sendo trabalhado aqui na Terra desde a rebelião de Pandora lá atrás, desde a rebelião de Eva, desde a rebelião de Noria, filha de Eva, que ninguém conhece."
+  },
+  {
+   "codigo": "RC-282",
+   "u": "U0003",
+   "chars": [
+    34069,
+    34375
+   ],
+   "largura": 306,
+   "verificada": true,
+   "texto": "Esse essa primeira molécula mãe, que é uma gotinha de DNA de ácido que surgiu numa poça da água aqui na Terra com alguma fonte de calor pró seja um vulcão, alguma coisa assim, transformou essa gotinha em um pedaço de carne, ou seja, é quando a vida sai do código químico para sua expressão físicobiológica."
+  },
+  {
+   "codigo": "RC-454",
+   "u": "U0006",
+   "chars": [
+    66221,
+    66280
+   ],
+   "largura": 59,
+   "verificada": true,
+   "texto": "O fluxo cármico das velhas terras ou nações da antiguidade."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0006",
+   "chars": [
+    65664,
+    65890
+   ],
+   "largura": 226,
+   "verificada": true,
+   "texto": "E foi assim que espíritos velhos foram se congregando em torno de uma possível cultura angloicana que veio a surgir na América do Norte, de uma expansão da cultura espanhola que se fixou na América Central e na América Latina."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0006",
+   "chars": [
+    70098,
+    70331
+   ],
+   "largura": 233,
+   "verificada": true,
+   "texto": "Então vamos lá para cidades espirituais em cima do Brasil para pressionar, para pressionar, porque o ódio tá, então a espiritualidade brasileira foi invadida por espíritos revoltados, mas também muitos preguiçosos e um fluxo cármico."
+  },
+  {
+   "codigo": "RC-658",
+   "u": "U0006",
+   "chars": [
+    64359,
+    64624
+   ],
+   "largura": 265,
+   "verificada": true,
+   "texto": "Ou a única coisa que parece ter vingado nessa história, o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30."
+  },
+  {
+   "codigo": "RC-727",
+   "u": "U0006",
+   "chars": [
+    72997,
+    73040
+   ],
+   "largura": 43,
+   "verificada": true,
+   "texto": "O sangue brasileiro é o único sangue a ter."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0006",
+   "chars": [
+    74603,
+    74830
+   ],
+   "largura": 227,
+   "verificada": true,
+   "texto": "000 espécies de cachorrinho que tem na Terra, todas elas se originaram dessa espécie de lou O que implica dizer que a espécie canes lupos, o lobo cinzento, se especiou em milhares de subespécies e terminou surgindo cachorrinho."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0006",
+   "chars": [
+    75301,
+    75423
+   ],
+   "largura": 122,
+   "verificada": true,
+   "texto": "Então o sonho agora é lá fora, mas outras Brasílias terão que ser construídas, outras alexandas, outras sabe sei lá o quê."
+  },
+  {
+   "codigo": "RC-850",
+   "u": "U0003",
+   "chars": [
+    34745,
+    34940
+   ],
+   "largura": 195,
+   "verificada": true,
+   "texto": "Aí agora vamos entrar no processo histórico, porque o espírito do nosso amigo e é Yell Br, seja lá como for, um belo dia nasce como Alexandre o Grande a cerca de 2400 anos atrás, lá na Macedônia."
+  },
+  {
+   "codigo": "RC-850",
+   "u": "U0005",
+   "chars": [
+    48444,
+    48537
+   ],
+   "largura": 93,
+   "verificada": true,
+   "texto": "Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0003",
+   "chars": [
+    19343,
+    19641
+   ],
+   "largura": 298,
+   "verificada": true,
+   "texto": "Entendam, esses seres que vieram de capela como rebeldes para os que já existiam aqui na terra e pros que existiam no universo vizinho e que pelos portais vinham lá no hiperbódio, porque nesses últimos 20."
+  },
+  {
+   "codigo": "RC-295",
+   "u": "U0003",
+   "chars": [
+    33488,
+    33668
+   ],
+   "largura": 180,
+   "verificada": true,
+   "texto": "E eles estudaram todo o solo da Terra e descobriram que no Planal Central O solo mais antigo da Terra, que se fundiu há 3.2 bilhões de anos e permanece estável sem nenhum problema."
+  },
+  {
+   "codigo": "RC-028",
+   "u": "U0003",
+   "chars": [
+    14892,
+    15082
+   ],
+   "largura": 190,
+   "verificada": true,
+   "texto": "E houve um ensaio de se começar a estudar esse problema na base Atlan, quando tudo meio que foi a pique, quando houve a necessidade da turma do norte de se astralizar nessa cidadela chamada."
+  },
+  {
+   "codigo": "RC-871",
+   "u": "U0003",
+   "chars": [
+    33689,
+    33826
+   ],
+   "largura": 137,
+   "verificada": true,
+   "texto": "A Terra tem 4 bilhões 600 milhões de anos, mas durante os seus primeiros 800 milhões de anos, a Terra era uma bola encandescente de lava."
+  }
+ ],
+ "recusa": []
+}

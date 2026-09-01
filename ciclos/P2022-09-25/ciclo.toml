@@ -1,0 +1,57 @@
+# ciclo.toml — ciclo leve P2022-09-25 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-09-25"
+titulo = "O Contexto Espiritual da Construção de Brasília"
+data_fonte = "25/09/2022"
+pasta_fonte = "ciclos/P2022-09-25"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-09-25.txt"
+sha256_fonte = "cadfc8356b153a1959a449b4d7b28fd7637d3ea76fd8b6a726abd5937fca92ad"
+
+baseline_commit = "fd76ce5"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (98.333 B / 39 linhas / 25 com fala / 17.134 palavras / 95.444 chars; cobertura 6/6 fatias provada; megabloco U0003 de ~37.833 chars lido em fatias). Tese: o contexto espiritual por trás da criação de Brasília e do próprio nome Brasil — do biodemo Iel Brasil (Deus Bres, primeiro rei dos Tuatha de Danann, 'ancestral das estrelas', que distribuía bênçãos — daí o inglês Bless) e da ilha Rai Brasil/high Brasil a oeste da Irlanda (a nave Esferon/Alto Langron dos 983 membros, a terra de Br), ao espírito que reencarnou como Alexandre Magno (educado por Aristóteles, a cultura helênica da liberdade, o sonho das novas cidades — Alexandrópolis, Alexandria) e depois como o general Ptolomeu e, por fim, Juscelino Kubitschek — 'outras Brasílias terão que ser construídas', agora em novos mundos com a especiação humana (o lobo que se especiou em 2.000 raças de cachorrinho). Brasília no chão mais antigo e estável do planeta (Planalto Central, 3,2 bi anos — a decisão dos seres da base Atlan, onde Lúcifer pousou há 98.000 anos); o fluxo cármico das velhas terras para o Novo Mundo (a turma menos habilitada veio parar no Brasil); a escola de Sagres e o sonho templário de Portugal; 'a espiritualidade brasileira foi invadida por espíritos revoltados'. Recolhe formulações PRECISAS para 15 códigos (13 com ficha: RC-018, RC-036, RC-068, RC-086, RC-282, RC-454, RC-513, RC-658, RC-727, RC-783, RC-850, RC-104, RC-295; 2 em fila aberta: RC-028 Atlan, RC-871 Midana). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (Brasil — origem do nome; Brasília — contexto espiritual da construção), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******", "i*****", "f**", "t*****"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo (fase GARIMPO: nada materializado)
+ficha_true = 0   # viradas no cadastro (decisão só na devolutiva)
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # vínculos só na devolutiva (ampliar/vincular autorizados pelo Curador)
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A origem do nome Brasil é espiritual, não botânica: começou com o biodemo Iel Brasil, que veio de Capela como rebelde e ficou na Terra quando a nave Esferon/Alto Langron (RC-018) se astralizou há 22.000 anos com 983 membros. Iel Brasil foi o mais sábio dos rebeldes do hiperbório — 'o ancestral das estrelas', que distribuía bênçãos para a mente e para o coração; seu nome virou epíteto: Deus Bres, o primeiro rei dos Tuatha de Danann (com os quatro talismãs: a pedra do poder, a lança do deus, a espada do rei, o caldeirão). A ilha voadora a oeste da Irlanda onde ele morava virou a terra de Br, Rai Brasil/high Brasil, a ilha dos abençoados — e o inglês Bless vem de Br/Brasil. Os mapas antigos a registravam; São Brandão navegou atrás dela; a escola de Sagres estudou os mapas e os contos; quando a América foi descoberta, 'todas as terras encontradas, o pessoal dizia: É Brasil, é R Brasil' — e o nome ficou. 'Só que não foi Cabral que descobriu.' O pau-brasil é 'arrumação histórica'.",
+  "O mesmo espírito seguiu reencarnando com o mesmo sonho: foi Alexandre Magno (nascido ~356 a.C., educado por Aristóteles, com 4 dos 12 generais da família Iel reencarnados) — o sonho da cultura helênica da liberdade e das novas cidades (Alexandrópolis, Alexandria); 'aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras' — o processo passou pelos Templários, pela formação de Portugal e pela escola de Sagres, até o Brasil. Juscelino Kubitschek é o mesmo espírito do general Ptolomeu de Alexandre (não o de Iel Brasil): 'a agenda espiritual de um certo segmento da família Iel terminou fazendo com que Jcelino, um ex-general de Alexandre, que vislumbrou lá atrás, Alexandrópolis, Alexandria... sonhou em fundar uma nova capital para o Brasil, para um novo reinício'. ⚠️ Divergência datada vs ficha RC-850 (P2023-02-11: 'tirano sob influência de Lemion') — registrada sem harmonização (D-9).",
+  "O chão e o futuro: os seres da base Atlan (RC-028 — onde Lúcifer pousou há 98.000 anos; hoje submersa do Ceará à Bahia) estudaram a geologia planetária e escolheram o chão mais antigo e estável — o Planalto Central, fundido há 3,2 bilhões de anos; é lá que Brasília foi construída, e os vetores da base apontam para lá. O fluxo cármico das velhas terras veio para o Novo Mundo ('a turma menos habilitada veio parar no Brasil'); 'a espiritualidade brasileira foi invadida por espíritos revoltados' após a tardia libertação dos escravos. O sangue brasileiro é o único a concentrar Sam, Cam, Jafé e Caim — 'um povo cujo DNA é de uma riqueza sem tamanho'. E o sonho agora é outro: 'quando a espécie humana começar a ser especiada' (o lobo que virou 2.000 raças de cachorro), 'outras Brasílias terão que ser construídas' — em Marte, na Lua, em novos mundos.",
+]
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

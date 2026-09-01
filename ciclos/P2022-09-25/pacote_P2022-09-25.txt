@@ -1,0 +1,182 @@
+# Pacote de ampliação — P2022-09-25 · O Contexto Espiritual da Construção de Brasília
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT, não refatorada) lida na íntegra (98.333 B / 39 linhas / 25 com fala /
+#   17.134 palavras / 95.444 chars; cobertura 6/6 fatias provada). Tese: a origem espiritual
+#   do nome e da capital do Brasil — do biodemo Iel Brasil / Deus Bres (rei dos Tuatha de
+#   Danann, ancestral das estrelas, a ilha Rai Brasil/high Brasil a oeste da Irlanda) ao
+#   espírito que reencarnou como Alexandre Magno (educado por Aristóteles; o general Ptolomeu)
+#   e, por fim, como Juscelino Kubitschek — que construiu Brasília no chão mais antigo e
+#   estável do planeta (Planalto Central, 3,2 bi anos), como uma nova Alexandria; o sonho
+#   templário de Portugal e a escola de Sagres; o fluxo cármico das velhas terras para o Novo
+#   Mundo; "outras Brasílias terão que ser construídas" — agora em novos mundos, com a
+#   especiação humana. 25 pérolas em 15 códigos (13 com ficha: RC-018, RC-036, RC-068, RC-086,
+#   RC-282, RC-454, RC-513, RC-658, RC-727, RC-783, RC-850, RC-104, RC-295; 2 em fila aberta:
+#   RC-028 Atlan, RC-871 Midana). NENHUM termo novo por conta própria: 2 candidatos declarados
+#   no BLOCO 2 (Brasil — origem do nome; Brasília — contexto espiritual da construção),
+#   decisão do Curador.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2022-09-25 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rito: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-018
+
+- **[A cidadela de Alt'Lam Gron e a nave Esferon] (U0003)** «Na verdade é a nave Esferon com cerca de 900 e pou seres lá dentro que até hoje existe, como eu disse, e fica a oeste da Irlanda.» — a nave Esferon/Alto Langron (RC-018 Alt'Lam Gron): "essa cidadela de Alangron, que a nave esfer dos V, passou a existir então com 983 membros, sendo 115 da família V, 617 L e por aí vai" (U0003: «000 anos, essa cidadela de Alangron, que a nave esfer dos V, passou a existir então com 983 membros, sendo 115 da família V, 617 L e por aí vai.»); Ielreasil e Iel Breasiel (STT "Iel Breasiel/El Breziel/Yel Brasil") "não se astralizaram, também não se submeteram a tal experiência gr" — "Desde 22.000 anos, essa cidadela de Alangron... passou a existir"; "a ilha que os rebeldes viviam nela... passou a ser conhecida como a terra de Brass, o lugar de Br" (U0003: «Aquela ilha voadora que mudava de lugar e que da Irlanda se enxergava, passou a ser conhecida como a terra de Brass, o lugar de Br, para onde Br ia quando ele não tava na Irlanda.»).
+
+### RC-036
+
+- **[Os biodemos rebeldes e não sexuados] (U0003)** «Mas os partol os nemedianos, os cruz, os pândavas, ou seja, aquelas figuras que aparece nas mitologia hindu, na no Marrabarata, na no Ramaiana, tudo aquilo, a tribo hiperbólica, o povo hiperbólio, eram dezenas de todos os biodemos, ou seja, biodemo é exatamente a característica dessas raças que foram rebeldes.» — os rebeldes de Capela e seus descendentes como biodemos: "esses seres, eles não eram sexuados, não eram macho e fêmea... Os biodemos não são sexuados. É um estágio anterior de evolução àquilo que mais tarde aconteceria aqui na Terra" (U0003: «Os biodemos não são sexuados.»); "os nemedianos, os cruz, os pândavas... a tribo hiperbólica" — "dezenas de todos os biodemos".
+- **[O ancestral das estrelas] (U0003)** «E esse ser chamado I Brasil terminou sendo com o tempo, tido como um Deus pelos seres humanos.» — Iel Brasil: "foi um dos poucos que foi tido como sendo digno de ser louvado pelos demais como um ancestral das estrelas, pois esse era um dos seus epítetos" — "uma espécie de semideus"; "ele passou a ser conhecido também como ser ancestral que distribuía benesso, benéces para a mente e benéces para o coração, ou seja, para o espírito. Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres" (U0003: «Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres.»).
+
+### RC-068
+
+- **[A lendária Hiperbórea e as cidades do Polo Norte] (U0003)** «E essas terras estavam entre as terras que hoje pode ser considerado pelos terráqueos como sendo a lendária hiperbória.» — "O que é a hiperbória? Ou o continente tule. Seja na mitologia escandinava, seja na mitologia nórdica, seja na mitologia celta... Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás. Falhas fírias, górias, múrias, eloxia ou exiloia" (U0003: «Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás.») — "há cerca de 14.000 anos, devido um cataclisma, simplesmente foram engolidas pelo oceano. Só que os sobreviventes desceram do Polo Norte, foram para onde hoje é o Alas. foram paraa Sibéria, na Rússia, foram pro norte da Escócia, foram pro norte da Irlanda"; "nos últimos 20.000 anos o hiperbório terreno era o lugar mais chique de toda a criação de Brama ou de Javer... Apolo adorava sair do Olimpo e e conviver com os hiperbórios, porque os pessoal do Olímpio era tudo um bando de demente".
+
+### RC-086
+
+- **[As rebeliões que forjaram o hiperbório] (U0003)** «Foi aonde começou a surgir um pensamento racionalizado, equilibrado, que já vinha sendo trabalhado aqui na Terra desde a rebelião de Pandora lá atrás, desde a rebelião de Eva, desde a rebelião de Noria, filha de Eva, que ninguém conhece.» — "a cerca de 20, 19, 18, 17, 16.000 anos, esses povos do hiperbólio eram os mais evoluídos" — o pensamento racionalizado nasce das rebeliões (Pandora RC-086/RC-727, Eva, Noreia "filha de Eva, que ninguém conhece" — RC-727 linhagem Pandora–Eva–Noreia).
+
+### RC-282
+
+- **[Protogonos e a primeira molécula mãe] (U0003)** «Esse essa primeira molécula mãe, que é uma gotinha de DNA de ácido que surgiu numa poça da água aqui na Terra com alguma fonte de calor pró seja um vulcão, alguma coisa assim, transformou essa gotinha em um pedaço de carne, ou seja, é quando a vida sai do código químico para sua expressão físicobiológica.» — "há 3.8 bilhões de anos atrás, surgiu água e nessa água surgiu uma gota de ácido com o DNA de todos os corpos de seres vivos que hoje existem na Terra" — a vida que "sai do código químico para sua expressão físicobiológica"; ressonância com a RC-282/Midana (RC-871: o código original primordial semeado no universo biológico).
+
+### RC-454
+
+- **[Moros/Orlog: a teia que amarra os seres] (U0003)** «O fluxo cármico das velhas terras ou nações da antiguidade.» — a Wyrd/Moros (RC-658/RC-454) como pano de fundo do fluxo cármico: "Esse fluxo cármico veio dessas velhas terras para as novas terras entendidas como sendo ilhas paradisíacas num primeiro momento que foi a Austrália, a América, com um plano específico pros Estados Unidos, um plano específico pro México, um plano específico pro Brasil. Foi assim que a espiritualidade foi traçando os planos"; "Foi um grupo para os Austrália, um grupo paraa América do Norte, um grupo para América Central e a turma menos habilitada veio parar no Brasil. Pense num país sortudo. A terra de Brass virou" (U0006: «Foi um grupo para os Austrália, um grupo paraa América do Norte, um grupo para América Central e a turma menos habilitada veio parar no Brasil.»).
+
+### RC-513
+
+- **[Espíritos velhos para o continente novo] (U0006)** «E foi assim que espíritos velhos foram se congregando em torno de uma possível cultura angloicana que veio a surgir na América do Norte, de uma expansão da cultura espanhola que se fixou na América Central e na América Latina.» — a espiritualidade e o Novo Mundo: "esse continente americano tinha ficado meio que esquecido durante milênios. Então a espiritualidade disse: 'Pô, vamos pegar os espíritos que t muita experiência nas histórias fracassadas da Europa, da Ásia e vamos jogar essa turma para através de novas encarnações nascerem nesse continente novo'"; "E a exceção disso tudo ficou o Brasil, que ficou vinculado à escola de Sagres, ao sonho templário de Portugal" (U0006: «E a exceção disso tudo ficou o Brasil, que ficou vinculado à escola de Sagres, ao sonho templário de Portugal.»).
+- **[A espiritualidade brasileira invadida] (U0006)** «Então vamos lá para cidades espirituais em cima do Brasil para pressionar, para pressionar, porque o ódio tá, então a espiritualidade brasileira foi invadida por espíritos revoltados, mas também muitos preguiçosos e um fluxo cármico.» — "quando em 1865 acabou a escravidão nos Estados Unidos, aí espíritos encarnados lá nos Estados Unidos... 'E lá no Brasil nossos irmãos ainda estão escravizados... Então vamos lá para cidades espirituais em cima do Brasil para pressionar'" — "a pior parte, desculpem fala assim, terminou se concentrando no Brasil devido a sua tardia libertação dos escravos. A pressão de espíritos de ex-escravos em cima dos escravos brasileiros para causar rebelião... Mas terminou a princesa Isabel sendo pressionada" (U0006: «Mas terminou a princesa Isabel sendo pressionada.»).
+
+### RC-658
+
+- **[A teia e o sonho: o novelo do nome Brasil] (U0006)** «Ou a única coisa que parece ter vingado nessa história, o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30.» — a Wyrd como fio condutor: "o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30.000 anos é exatamente o nome Brasil" (span truncado no bruto em "20, 30."; sem emenda) — "mesmo com todos os desacertos, Cabral descobriu isso aqui, pôs o nome do Brasil. Só que não foi Cabral que descobriu. Antes de Cabral, uma porrada de gente já tinha estado aqui" (U0006: «Só que não foi Cabral que descobriu.»).
+
+### RC-727
+
+- **[O sangue brasileiro: DNA de todas as perspectivas] (U0006)** «O sangue brasileiro é o único sangue a ter.» — "os espíritos mais velhos do planeta estavam trabalhando na única raça cujo DNA é totalmente mistiço... Sangue dos três filhos de Noé, Sam, Cam, Jafé, e também do de Caim, via os nativos da do continente americano" (U0006: «Sangue dos três filhos de Noé, Sam, Cam, Jafé, e também do de Caim, via os nativos da do continente americano.») — "Nós brasileiros, somos os únicos a ter um sangue em que todas as perspectivas evolutivas que marcadas no DNA estão concentradas. Nós somos um povo cujo DNA é de uma riqueza sem tamanho, só que a gente não sabe usar" — ressonância com a RC-727 (linhagem Pandora–Eva–Noreia; DNA insubmisso).
+
+### RC-783
+
+- **[A especiação: o lobo e os cachorrinhos] (U0006)** «000 espécies de cachorrinho que tem na Terra, todas elas se originaram dessa espécie de lou O que implica dizer que a espécie canes lupos, o lobo cinzento, se especiou em milhares de subespécies e terminou surgindo cachorrinho.» — o exemplo da especiação: "Há 10.000 anos atrás não existia cachorrinho na terra, só três espécies de lobo. Uma dessas espécies de lobo começou a ser levada pelos seres humanos para diversos lugares. Então essa espécie de lobo foi se adaptando aos lugares, foi promovendo mutações no seu DNA adaptativas e também modificativas. E hoje, 10.000 anos depois, as mais de 2.000 espécies de cachorrinho que tem na Terra" — "nós humanos, quando formos morar em Marte, Lua, Júpiter... esses novos humanos vão se adaptando aos locais e novas cidades serão construídas" — a especiação humana (RC-783) como base do sonho de "outras Brasílias".
+- **[O sonho agora é lá fora] (U0006)** «Então o sonho agora é lá fora, mas outras Brasílias terão que ser construídas, outras alexandas, outras sabe sei lá o quê.» — "o sonho de Bras de Hai Brasil, esse sonho de muitos aqui na Terra não logrou resultados porque a nossa nosso nível de corrupção, incapacidade, falta de ousadia e querer ficar em zona de conforto de crença, terminou nos aprisionando, desculpem, na mediocridade. Então o sonho agora é lá fora" — "quando a espécie humana começar a ser especiada" (novas cidades em novos mundos).
+
+### RC-850
+
+- **[Alexandre Magno: o mesmo espírito de Iel Brasil] (U0003)** «Aí agora vamos entrar no processo histórico, porque o espírito do nosso amigo e é Yell Br, seja lá como for, um belo dia nasce como Alexandre o Grande a cerca de 2400 anos atrás, lá na Macedônia.» — "E o famoso Alexandre Magno é o ser cujo espírito era o mesmo espírito queva ou que alimentava ou que dava vida ao ser biodemo chamado Iel Brasil" (U0003: «E o famoso Alexandre Magno é o ser cujo espírito era o mesmo espírito queva ou que alimentava ou que dava vida ao ser biodemo chamado Iel Brasil.»); "Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles" (U0003: «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.»); "Dos 12 principais generais de Alexandre, quatro eram da família Iel, seus amigos I, que também estavam reencarnados" (U0003: «Dos 12 principais generais de Alexandre, quatro eram da família Iel, seus amigos I, que também estavam reencarnados.»); "a tese da mente bicameral de Julian James, que diz que a voz dos deuses incide no hemisfério" (U0003: «Que o velho estabelecido na Terra... a tese da mente bicameral de Julian James, que diz que a voz dos deuses incide no hemisfério.»); ⚠️ DIVERGÊNCIA datada vs ficha RC-850 ("tirano sob influência de Lemion", P2023-02-11): aqui Alexandre é o espírito de Iel Brasil/Deus Bres tentando implantar a cultura helênica da liberdade — sem harmonização (D-9).
+- **[O sonho de Alexandre: novas cidades] (U0005)** «Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras.» — "foi daqui que Alexandre Magno e seus generais saíram para, entre aspas, dominar o mundo no sentido de fincar nesse mundo a cultura helênica, ou seja, que veio de Heleno, a cultura da liberdade, que cada cultura tivesse o que quisesse como Deus"; "Alexandre, seus generais queriam construir o quê? Novas cidades. Para que nessas novas cidades, novas possibilidades e pessoas que estavam cansada da vida viciada dos grandes centros fossem para essas novas cidades... E foi por isso que Alexandre e seus generais criaram a Alexandrópolis, a Alexandria" — "Aí Alexandre morreu, mas ficou faltando outras cidades a serem criadas no sonho desses caras" (o processo segue pelos Templários, Portugal, até Brasília).
+
+### RC-104
+
+- **[O hiperbório, o lugar mais chique da criação] (U0003)** «Entendam, esses seres que vieram de capela como rebeldes para os que já existiam aqui na terra e pros que existiam no universo vizinho e que pelos portais vinham lá no hiperbódio, porque nesses últimos 20.» — o hiperbório como joia da criação de Brama/Javé: "nos últimos 20.000 anos o hiperbório terreno era o lugar mais chique de toda a criação de Brama ou de Javer. Foi aonde começou a surgir um pensamento racionalizado, equilibrado" (span truncado no bruto em "últimos 20."; sem emenda) — "os povos do hiperbólio eram os mais evoluídos. Tanto é que o próprio Apolo assim reza na mitologia grega, Apolo adorava sair do Olimpo e e conviver com os hiperbórios".
+
+### RC-295
+
+- **[O Planalto Central: o chão mais estável] (U0003)** «E eles estudaram todo o solo da Terra e descobriram que no Planal Central O solo mais antigo da Terra, que se fundiu há 3.2 bilhões de anos e permanece estável sem nenhum problema.» — a decisão geológica: "os seres na base morrendo de medo dos problemas que aqui a Terra... 'Esse planeta é louco'. Toda hora vinha problemas. Aí esse seres estudaram toda a geologia planetária... 'Se a gente quiser se sentir seguro, aonde é que a gente precisa construir a nossa morada? Resposta: No chão mais antigo do planeta, mais estável, para que lá não tenha terremoto'" (U0003: «Resposta: No chão mais antigo do planeta, mais estável, para que lá não tenha terremoto.») — "A Terra tem 4 bilhões 600 milhões de anos, mas durante os seus primeiros 800 milhões de anos, a Terra era uma bola encandescente de lava... A primeira parte que se esfriou é o Planalto Central, onde hoje a gente tá. Por isso que se tornou o chão mais estável" — "em tese, isso tá nos anisato, só que a base está embaixo d'água".
+
+### RC-028
+
+- **[A base Atlan e os vetores para Brasília] (U0003)** «E houve um ensaio de se começar a estudar esse problema na base Atlan, quando tudo meio que foi a pique, quando houve a necessidade da turma do norte de se astralizar nessa cidadela chamada.» — a base Atlan (RC-028, fila aberta): "Essa base hoje tá coberta pelo mar. E essa base ela não é uma construção só. Elas são várias construções que envolvem desde o Ceará até o início da Bahia... Isso foi construído ao longo de 100.000 anos. Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas" (U0003: «Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas.»); "há 23.000 anos que a terra começou a esquentar... o mar era uns 20, 30, 40 km lá. Ou seja, tudo aquilo era terra e era nesse lugar aonde a base foi construída. Mas o mar hoje cobriu tudo isso, mas tá tudo lá"; a foto de 1996 de Margarete Elias da Silva no museu de Machu Picchu ("base Atlon" no Nordeste) e os vetores que "chegam exatamente aonde foi construído Brasília, porque tem a ver com uma certa ligação de quem ia pousar e vinha de nave, pegava esse sentido até chegar nos mistérios de Macho Picho".
+
+### RC-871
+
+- **[O chão mais antigo e a molécula mãe] (U0003)** «A Terra tem 4 bilhões 600 milhões de anos, mas durante os seus primeiros 800 milhões de anos, a Terra era uma bola encandescente de lava.» — o cenário da semeadura: "há 3.8 bilhões de anos atrás, surgiu água e nessa água surgiu uma gota de ácido com o DNA de todos os corpos de seres vivos que hoje existem na Terra" — "essa primeira molécula mãe... é quando a vida sai do código químico para sua expressão físicobiológica"; ressonância com a RC-871 (Midana — o código original primordial semeado no universo biológico) e com a RC-282 (Protogonos/Morrens).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos declarados para decisão do Curador (nenhum termo novo criado por conta
+# própria nesta fase). Spans conferidos byte a byte pelo motor.
+#
+# 1) BRASIL — ORIGEM DO NOME — candidato a código novo? A palestra é a fonte mais completa
+#    do acervo sobre o nome: «Vamos falar então de uma história que começou com um ser
+#    chamado El Brasil, até que surgiu a lenda de Rai Brasil.» (U0003) + «Rai Brasil em
+#    irlandês significa a história de uma ilha aonde os abençoados do deus high Brasil
+#    existia.» (U0003) + «O nome em inglês Bless, que significa bênção, vem de Brass, vem de
+#    Brasil porque ele distribuía bênçãos.» (U0003) + «Não porque tinha pau o Brasil, é
+#    porque quando a América foi descoberta... todas as terras encontradas, o pessoal dizia:
+#    "É Brasil, é R Brasil".» (U0003) + «Só que não foi Cabral que descobriu.» (U0006) —
+#    a etimologia: Iel Brasil → Deus Bres → terra de Br → Rai Brasil/high Brasil → Bless →
+#    Brasil (≠ pau-brasil, "arrumação histórica"). Decisão: código novo (RC-872?) ou registro
+#    na ficha de um código existente (RC-850 Alexandre Magno? RC-018?).
+#
+# 2) BRASÍLIA — CONTEXTO ESPIRITUAL DA CONSTRUÇÃO — candidato a código novo? O núcleo da
+#    palestra: o chão mais antigo (Planalto Central, 3,2 bi anos), a "agenda espiritual de um
+#    certo segmento da família Iel", Juscelino = general Ptolomeu de Alexandre ("o espírito
+#    de Jelcelino não é o de I Brasil, é do general Ptolomeu, é de El Brasil" — U0006),
+#    "outras Brasílias terão que ser construídas" (U0006). Decisão: código novo (RC-873?) ou
+#    absorção na RC-850 (Alexandre Magno — o mesmo espírito) / RC-783 (especiação)?
+#
+# 3) FILA ABERTA TOCADA: RC-028 Atlan (base Atlan no Nordeste — «Foi aqui que Luúcifer pousou
+#    há 98.000 anos atrás uma de suas marchlans luciferianas»; foto Margarete Elias da Silva
+#    em Machu Picchu) e RC-871 Midana (a molécula mãe/3,8 bi anos — a semeadura do código).
+#    Os dois vivem no cadastro com ficha=False — pedido de vínculo/materialização na devolutiva.
+#
+# 4) REGISTROS SEM CÓDIGO: Tuatha de Danann (STT "toatas de Danã") + os 4 talismãs (pedra do
+#    poder; lança do deus "no Ada" [REVISAR — Nuada?]; espada do rei Luke [REVISAR — Lugh?];
+#    caldeirão do deus d'Água [REVISAR — Dagda?]) — registro proposto na ficha RC-018 (nave
+#    Esferon) sem código; os milesianos e o colégio arc druida; São Brandão (o monge
+#    navegador); a escola de Sagres e o sonho templário de Portugal; a mente bicameral de
+#    Julian Jaynes (STT "Julian James") — fonte externa, sem código.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras citadas: NAVEGACIÓN DE SAN BRENDÁN (o livro de São Brandão — STT "São Brandão", monge
+# irlandês do final do séc. V/início do VI; "ele escreveu um livro contando as aventuras dele
+# e dos demais que iam com ele no barco, tentar encontrar a ilha"); MAHABHARATA e RAMAYANA
+# (STT "Marrabarata"/"Ramaiana" — os pândavas como biodemos rebeldes); a mitologia celta
+# (Tuatha de Danann, Hy-Brasil — STT "Rai Brasil/high Brasil"); a lenda do rei Artur (a
+# espada na pedra — STT "rei Artur").
+# Datas e grandezas (D-9 — com selo datado, sem média): 22.000 anos (cidadela de Alt'Lam
+# Gron com 983 membros — 115 família V, 617 L); ~14.000 anos (cidades hiperbóreas engolidas);
+# 13.000 anos (os milesianos no "país básico" = país basco, norte da Espanha — STT sem
+# emenda); 98.000 anos (Lúcifer pousou na base Atlan — «Foi aqui que Luúcifer pousou há
+# 98.000 anos atrás»); 100.000 anos (a base Atlan construída ao longo de — "ao longo de
+# 100.000 anos" — STT); 23.000 anos (o gelo começou a descongelar); 3,2 bilhões de anos
+# (Planalto Central); 3,8 bilhões (a água/a molécula mãe); 4,6 bilhões (a Terra); 2.400 anos
+# (Alexandre); 356 a.C. (nascimento de Alexandre); 33 anos (vida de Alexandre); ~1.400 anos
+# (São Brandão viu a ilha); 1776/1821/1822 (independências EUA/México/Brasil); 1850 (PIB
+# Brasil = PIB EUA — "o PIB do Brasil era igual ao PIB dos Estados Unidos"); 1865 (fim da
+# escravidão nos EUA); 1888 (fim da escravidão no Brasil); 1889 (Proclamação da República);
+# 1996 (foto de Margarete Elias da Silva em Machu Picchu).
+# Divergências STT vs histórico (D-9, sem emenda): "século X, 17, 18" não ocorre aqui; a
+# Revolução Francesa não é citada; "no século X" não ocorre — mas há "final do século XVI"
+# para a Revolução Francesa em outra fonte; aqui: São Brandão "final do século V, início do
+# século VI era cristã" (correto); "século XI, 15, 16, 17, 18" (Trento) não ocorre aqui.
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# - "outras Brasílias terão que ser construídas, outras alexandas" — a especiação humana em
+#   novos mundos (Marte, Lua) como o novo sonho de Br (U0006).
+# - "quando a espécie humana começar a ser especiada" — o exemplo do lobo/cachorrinho como
+#   modelo do que virá (U0006).
+# - "a agenda espiritual de um certo segmento da família Iel" continua operando (U0006).
+# - A base Atlan "tá tudo lá" sob o mar do Nordeste — "eu tô só dando as dicas e as pistas
+#   paraas gerações futuras" (U0003).
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+# QUARENTENA POLÍTICA/BIOGRÁFICA (homologada): a comparação PIB Brasil × EUA ("aqui é coroa
+# vai mandar meu salário"; "a gente gasta 200 pro outro não ganhar 20"; "nós não apoiamos a
+# meritocracia"); a anedota do "baianão" (estereótipo regional — retida integralmente); "os
+# últimos são os piores" (presidentes, "de Sarnei para cá é um Deus nos acuda"); "é igual o
+# baiano" (estereótipo); a crítica ao funcionalismo público ("empresa do governo... dar
+# salário para todos os funcionários da aristocracia"); "toda a geração de políticos, desde
+# oro até hoje" (STT truncado).
+# QUARENTENA RELIGIÃO INSTITUCIONAL (homologada): o jesuitismo "um dos braços que seguiam
+# toda e qualquer navegação para checar pro Vaticano"; a maçonaria nas navegações (buscando
+# "H Brasil, a nova terra onde o novo poderia acontecer"); o catolicismo traduzindo a lenda
+# ("os monges católicos, morando na Irlanda, traduziram pro irlandês toda essa história").
+# QUARENTENA BIOMEDIÚNICA/BIOGRÁFICA: "as mulheres sempre foram estupidamente maltratad pelo
+# machismo de todas as épocas" (leitura de época, retida); "eu tô só dando as dicas e as
+# pistas paraas gerações futuras"; "não quero convencer ninguém de nada. Então também Também
+# não preciso comprovar nada".
+# VETO LÉXICO (máscaras do próprio bruto): p****, e******, f**, m**** (28 asteriscos no
+# bruto) — todos retidos; veto registrado no ciclo.toml.
+# OUTRAS RETIDAS: a resposta sobre Aquenaton/José do Egito (U0022 — "o espírito que foi
+# Jcelino também estava encarnado nessa época, mas não era Quenato" — quarentena biográfica/
+# religiosa; registrada no BLOCO 3 como divergência); a Noite de São Bartolomeu (o autor
+# desvia do tema — "não tem nada a ver").
