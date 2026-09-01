@@ -1,0 +1,110 @@
+# ciclo.toml — ciclo leve P2021-02-28 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2021-02-28"
+titulo = "Tragédia Anunciada - As Fórmulas Mentais do Poder Demo"
+data_fonte = "28/02/2021"
+pasta_fonte = "ciclos/P2021-02-28"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2021-02-28.txt"
+sha256_fonte = "8f6ec32107f6155bf3cf70c55bf476584dd5226a11b7c434d13f83605c55ac51"
+
+baseline_commit = "0463fb8"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (113.308 B / 81 linhas / 43 com fala / 19.662 palavras / 109.430 chars; cobertura 7/7 fatias provada; maior linha 33.954 chars). Tese: a tragédia anunciada de Javé e da linhagem demo — as fórmulas mentais do poder. O psiquismo funciona por arquivos (coleção), algoritmos (arquivos organizados) e fórmulas mentais (programas cerebrais que viram talentos); o demo é prisioneiro das fórmulas que colecionou ou recebeu (uma fórmula mental manda num demo; duas mandam num demo), enquanto o humano tem plasticidade e livre-arbítrio para gerir o próprio eu (Nós humanos podemos ser pior que o leão, pior que o demo, melhor que Deus). As fórmulas de poder demo se ancoram em egrégoras que adquiriram vida própria — e Javé morreu sufocado pelas próprias egrégoras, morto pelos próprios elétrons (a rebelião dos elétrons; livro 1 de 11 já lançado); nunca houve rebelião de Lúcifer no universo vizinho — só no biológico e na classe biodia (Odim, Luisbell). A história demo: Ravana como maior colecionador de fórmulas mentais (de Chiva e Brama; humilhou Zeus/Indra; Chiva se fez Rama para destruí-lo), Zeus que dá ordens que nem ele entende, Brama que aceitou o marra samadi (maha samadhi) e se desconstituiu. O tempo como modo como o psiquismo se movimenta (surgiu como decorrência do projeto mental deteriorado). O roteiro do absurdo: carga virótica um (protoceres viróticos antimateriais — vírus como face do criador caído; todas as doenças) e carga virótica dois (vírus biológicos; COVID-19 o mais novo membro); o projeto Talm mandou o Nidana para semear o universo biológico; holografia (28.869 genes em cada célula); 226 genes da central de defesa (sistema imunológico; 3.600 espécies de vírus por segundo); 86 bi neurônios e 100 tri teias quânticas; a criatura universal e a mente biocosmos emergente para ressuscitar o eu de Javé; os atos performativos (as palavras que fazem coisas; as religiões vivem deles; Jesus curando com saliva e argila); a disforia de gênio (confiança ilimitada na pretensa capacidade; Bolsonaro/Trump/Lula); a maestria existencial (o valor está no modo como se vive, não no que se é); constelação familiar e campos mórficos como desentrelaçamento quântico; o favor divino do qual ninguém se desvincula. Recolhe 25 formulações PRECISAS em 17 códigos (todos com ficha: RC-870, RC-001, RC-636, RC-002, RC-582, RC-037, RC-145, RC-634, RC-562, RC-217, RC-557, RC-080, RC-086, RC-042, RC-381, RC-321, RC-617). NENHUM termo novo criado no garimpo: 5 candidatos declarados no BLOCO 2 com pedido de AUTORIZAÇÃO para a devolutiva (Atos performativos; Carga virótica; Disforia de gênio; Biocosmos emergente; Maestria existencial — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["m****", "f****", "l****", "i*****", "c*******"]   # máscaras do próprio bruto: 5 padrões · 13 ocorrências (m**** ×8, f**** ×2, l**** ×1, i***** ×1, c******* ×1)
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A tragédia anunciada de Javé: o demo é prisioneiro das próprias fórmulas mentais. O psiquismo progride de arquivos (coleção de registros) para algoritmos (arquivos organizados sobre uma emoção, um sentimento, um desejo) e daí para fórmulas mentais ou programas cerebrais que, consolidados, viram talento nato que congela na alma quando o corpo morre. No demo a fórmula é viva e parasitária: uma fórmula mental manda num demo, duas mandam num demo — quanto maior o acúmulo, maior o peso, e o psiquismo demo não consegue dar conta (a demência). O humano, não: o talento não habita nele, sou eu que mando, e a sabedoria consiste na gestão de todos os talentos e inclinações. As fórmulas de poder demo se transformam em egrégoras que adquirem vida própria e enlouquecem os que têm mais formas de poder — a maior vítima foi o próprio Javé: morreu sufocado pelas egrégoras das fórmulas de poder que colecionou e não queria abrir mão de nenhuma. Quem o matou, quem impediu o corpo dele continuar a existir foram os próprios elétrons — sem conversa, do jeito do Toxoplasma gondi com o rato — porque os vírus estão ligados a um campo morfogenético. A estupidez é a segurança maluca na própria capacidade (a disforia de gênio); o demo nunca lidou com o contraditório; Zeus dava ordens que nem ele entendia. E a tragédia se repete em escala: Nenhum demo jamais falou em Deus — os humanos terminaram criando esse conceito.",
+  "A história demo e o tempo: Ravana foi o ser que nos últimos milênios colecionou a maior quantidade de fórmulas mentais que um serdemo já teve — recebidas de Chiva (estirpe dos rakchaças) e extorquidas de Brama —, para humilhar Zeus, o Indra da mitologia ariana; Zeus invadiu o Bramaloca furioso e Chiva, ainda que os vaishnavas digam que foi Vishnu, se fez Rama para destruir Ravana. Brama, no livro Inquisição Trimurtiana, aceitou o conselho de fazer um maha samadhi e se desconstituiu: as fórmulas de poder que colecionava estavam ferrando o espírito dele. O tempo não foi criado por Deus: surgiu como decorrência do projeto mental do criador que se deteriorou; o tempo é o modo como o psiquismo se movimenta e se transforma ao longo da existência, sofrendo a entropia e os registros das informações colecionadas. Nunca houve rebelião de Lúcifer no universo vizinho — só existiu no universo biológico e na classe biodia, e não é gratuito: é para provocar a evolução de Sofia; Odim nasceu predestinado (Morrensor preparou a genética de Buri, B e Odim), Luisbell foi no sabor da aventura.",
+  "O roteiro do absurdo: a carga virótica um (protoceres viróticos antimateriais — a primeira carga mental do criador; cada vírus é holograficamente a face do criador caído, com todas as doenças) e a carga virótica dois (os vírus biológicos; o COVID-19 é o mais novo membro). O projeto Talm mandou o Nidana de lá para cá para semear o universo vizinho — o corpo humano tem 86 bilhões de neurônios, mais de 100 trilhões de teias quânticas, 100 trilhões de células (10 trilhões próprias e 90 trilhões de vírus), 28.869 genes (23 pares de cromossomos; holografia: em cada célula está o código todo), 226 genes especializados como central de defesa (o sistema imunológico; 3.600 espécies de vírus por segundo tentando invadir). A humanidade é o agente da limpeza: a criatura universal e a mente biocosmos emergente (nova mente biológica global ancorada nos campos mórficos e no entrelaçamento dos elétrons) vão criar a mente para o eu de Javé ser acordado e imantado no corpo ressurgido. Os atos performativos — frases que fazem coisas com palavras quando a autoridade que as enuncia é reconhecida — foram usados pelos demos (maldições) e as religiões vivem deles; os humanos foram criados para não saber usá-los, mas podem aplicá-los nos demos (a faixa de Miss Universo em Javé); Jesus curava com saliva e argila como ato performativo silencioso. E a resposta do favor divino: ninguém se desvincula dele — é possível se rebelar e sofrer, mas não sair, porque isso foi decidido lá atrás, no plano da inevitabilidade ancestral de Moros.",
+]
+
+[definicoes]
+
+[observacoes]
+# GARIMPO SUBMETIDO — aguardando devolutiva. 25 pérolas em 17 códigos (todos ficha=True):
+# RC-870, RC-001, RC-636, RC-002, RC-582, RC-037, RC-145, RC-634, RC-562, RC-217,
+# RC-557, RC-080, RC-086, RC-042, RC-381, RC-321, RC-617, RC-810. NENHUM termo novo
+# criado. PEDIDO DE AUTORIZAÇÃO (5 candidatos a termo novo em fila aberta, ficha=False,
+# na APLICAÇÃO): Atos performativos; Carga virótica; Disforia de gênio; Biocosmos
+# emergente; Maestria existencial — spans conferidos no BLOCO 2 do pacote.
+# REGISTROS SEM CÓDIGO PRÓPRIO (decisão de absorção na devolutiva): RAMA → RC-582/RC-810
+# (avatar de Chiva, não de Vishnu — correção do autor; STT «vaisinabas»/«virgem»);
+# VARNA → RC-321/RC-322 (em ficha via BLOCO 1); RAKCHASAS → RC-872 (fila aberta,
+# ficha=False — sem pérola neste ciclo; evidência «rakchaças»/«rchaças» alocada a
+# RC-582); RETROGRADAR → RC-617 (em ficha via BLOCO 1); NIDANA → RC-154 + RC-871;
+# CÓDIGO FONTE DEFINIDOR → RC-040/RC-153; ARQUIVOS → RC-521 (ficha=False);
+# EGREGORA → RC-385 (ficha=False); SÓCRATES → RC-406 (ficha=False — sem pérola);
+# FAVOR DIVINO → RC-063 (ficha=False); MÔNADA → RC-149; LUISBELL → RC-078/RC-002;
+# TOXOPLASMA GONDI → RC-001 (glosa); 147 SERES ADIÁTICOS → RC-093; GUERRA DE TROIA/
+# AFRODITE/ATENA/POSEIDÃO → RC-145 (menção; navalha do panteão); URANO/CRONOS/TITÃS →
+# RC-841; HESÍODO (STT «Exíldo») e a TEOGONIA («amor solta membros») → obra citada;
+# PKMZ [REVISAR] e SORIGÊNO [REVISAR] e «série de Talking» [REVISAR] → quarentena
+# clínica/referência (ver BLOCO 5); CONSTELAÇÃO FAMILIAR → RC-381 (em ficha via BLOCO 1).
+
+[travas]
+# VETO LÉXICO: 5 padrões · 13 ocorrências — m**** ×8, f**** ×2, l**** ×1, i***** ×1,
+# c******* ×1 (máscaras do próprio bruto; nenhuma transita, nem em glosa).
+# QUARENTENAS HOMOLOGADAS: política/social (Trump e o estudo do instituto dos EUA —
+# 40% das ~500.000 mortes evitáveis ≈ 200.000; Bolsonaro/Lula; Hitler/Mussolini/Stalin
+# comparativos; Xuxa/sarampo; cota do Atlético); biomediúnica/biográfica (nomes
+# próprios — Rogério, Franklin, Marcos, Isabel, Cleady, Maria Helena, Solange Matilde,
+# Bezerra de Menezes, Gisele Bündchen «Bitchen», Paul McCartney, João do Pulo/Ademar;
+# plateia espiritual; vício de fumar aos 14; escolha do espírito ao ego; Olimpíada de
+# Rels); clínica (PKMZ [REVISAR]; disforia de gênero clínica e os ~50 tipos de
+# sexualidade; vícios; autismo clínico); religião institucional (avaliação das
+# religiões; Papa/imames/rabinos; relato do catolicismo). RC-521/RC-385/RC-406/RC-063/
+# RC-153/RC-872 com ficha=False — sem pérola neste ciclo (registros no BLOCO 2).
+
+[lacunas]
+# STT com trechos truncados/ilegíveis, mantidos como veio, sem emenda: «10 trilõ dos 90
+# trilhões» (truncado no bruto); «tá o meu código de 28.» (número cortado no STT);
+# «projeto tal, projeto tal» (projeto Talm); «marra samadi» (maha samadhi); «daiva»
+# (deidade); «antídlopos» (anticorpos); «fórmunos de replicação» (prov. "fornos de
+# replicação"); «vaisinabas» (vaishnavas); «Ramaiana» (Ramayana); «Efestos» (Hefesto);
+# «Bert Heringer» (Bert Hellinger); «Rubert Sheldrake» (Rupert Sheldrake); «Exíldo»
+# (Hesíodo); «Gisele Bitchen» (Gisele Bündchen); «chupã» (Chopin); «Tem foi quem disse»
+# (Têmis); «Rama nasceu para destruir a banana»; «a moda biodempo» (prov. "à moda
+# biodemo"); «Anunque» (Anunnaki); «sorigêno» [REVISAR]; «série de Talking» [REVISAR];
+# «cachava total» (prov. "cabala"?); «Desejo de Menezes» (Bezerra de Menezes).
+# Números (D-9 — com selo datado, sem média): universo 13,7 bi anos; modo demo ~11 bi
+# anos sem sair do lugar; Javé estúpido por 11-12 bi anos; projeto Talm/Morrençor ~7 bi
+# anos; 86 bi neurônios; 100 tri teias quânticas; 100 tri células (10 tri + 90 tri);
+# 28.869 genes; 226 genes da central de defesa; 3.600 espécies de vírus por segundo;
+# 23 pares de cromossomos; ~50 tipos de sexualidade; 147 figuras adiáticas; 2015
+# (Virgem/Chiva perceberam; Moros antes); 2006-2020 (convívio de Rogério com Javé;
+# 2018-2020 silêncio); 11 livros (1 lançado, faltam 10); 500.000 mortes EUA / 40%
+# evitáveis (quarentena política); >50% dos compradores de quadros de Hitler eram
+# judeus (quarentena). Divergências D-9 (sem emenda): células 10 tri+90 tri (vs 15 tri+
+# 85 tri do P2022-09-17); Big Bang 13,7 bi (vs 13,8 bi do P2022-09-17/P2021-06-26);
+# projeto Talm ~7 bi (vs outras janelas do acervo); maha samadhi de Brama em «menos de
+# um mês» (vs outras narrativas).
