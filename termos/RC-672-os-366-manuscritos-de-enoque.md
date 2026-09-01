@@ -30,6 +30,10 @@ Forma preferida: Os 366 Manuscritos de Enoque.
 
 - **[P2023-12-03 · OS 366 MANUSCRITOS DE ENOQUE NA FALA DE 03/12/2023]** «os 366 livros de Enoque do dois pedaços de dois livros e mais coisas avulsas sobraram.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · **⭐ antecipa em 11 meses** a fonte oral mais antiga (`P2024-11-03` → `P2023-12-03`); o efeito desta entrada é de **data**, além de conteúdo.
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[Os 363 livros ditados a Matusalém] (U0007)** «Enoque saiu, voltou, ditou 363 livros pro filho dele.» — Enoque ditou 363 livros a Matusalém (grafia STT "363"; a KB registra RC-672 como "Os 366 Manuscritos de Enoque" — divergência numérica registrada, nada harmonizado: D-9); "os livros que Enoque ditou a Matusalém passaram a ser pra humanidade de então os termos da velha aliança"; "Só que quase todos os livros de Enoque foram destruídos. Hoje a gente só tem parte de dois desses livros" (U0007: «Só que quase todos os livros de Enoque foram destruídos.»); "70 sábios traduziram então todas as agendas enoquianas, como eram chamadas" (U0007: «70 sábios traduziram então todas as agendas enoquianas, como eram chamadas.») — a Septuaginta (grafia STT "Apoaginta") constava os livros de Enoque.
+
 ## Fontes
 P2025-05-31.
 P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
@@ -42,6 +46,12 @@ Ver transcrição.
 ## Termos Relacionados
 | Termo | Código | Relação |
 |---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | RC-489 | — | relacionado |
 | RC-671 | — | relacionado |
 

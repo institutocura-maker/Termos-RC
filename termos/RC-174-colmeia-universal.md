@@ -41,9 +41,14 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 - **[As colmeias colapsando desde 2007] (U0002)** «E o essa história só acabou no ano 2012, porque logo depois a Trimurto se desconstituiu, tipo as os as colmeias que já começaram a colapsar no ano 2007 aqui no na realidade biológica.» — o fim da história da disputa (2012) ecoou o colapso das colmeias iniciado em 2007 na realidade biológica — "uma coisa está profundamente ligada com a outra" (grafias STT "Trimurto" = Trimurti; sem emenda).
 
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[Colmeias e Trimurti: o colapso de 2007] (U0014)** «Como Sofia ainda não chegou, mas não deu para esperar Sofia porque os problemas dos microrganismos, o problema da infecção na blindagem que cerca essa criação, o Uma série de problemas já fizeram com que desde o ano 2007, quando as próprias colmeias começaram a colapsar no mundo biológico sem causa aparente, a própria Trimurte colapsou no mundo, no universo vizinho, as coisas estão colapsando e não deu para esperar pro Sofia porque já tinha que se organizar alguma coisa.» — o colapso de 2007 como o gatilho que não permitiu esperar Sofia: colmeias biológicas sem causa aparente e Trimurti no universo vizinho — "o problema da infecção na blindagem que cerca essa criação" (RC-520); "as colônias de abelhas estão se colapsando... as faixas de realidade estão colapsando... os DNAs estão colapsando... os conectomas pessoais estão colapsando, as sinapses estão colapsando" (U0019: «O problema é que as colônias de abelhas estão se colapsando.» + prosa).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |

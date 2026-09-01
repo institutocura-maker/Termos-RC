@@ -32,9 +32,14 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 
 - **[Judas, o que não soube lidar] (U0003)** «Não, mas a espiritualidade sabe de Judas não foi um traidor barato ou vagabundo de Jesus.» — Judas (RC-365) 'não foi um traidor barato ou vagabundo de Jesus' — não soube lidar com a recusa de Jesus em cumprir as profecias messiânicas.
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[O sinal verde de Judas] (U0005)** «disse: "Cara, já que você vai ter que fazer, faça logo.» — na última ceia, Jesus anuncia a traição e olha para Judas: "já que você vai ter que fazer, faça logo" — "Judas se levantou crente que tinha recebido um sinal verde de Jesus para criar tal situação em que na hora H"; a leitura do autor: Judas não traiu por maldade — "Judas só enxergava o que ele queria enxergar... ele tá dizendo que não é, que não vai fazer isso"; "Judas se suicidou porque viu que Jesus não ia fazer nada" (U0006: «Judas se suicidou porque viu que Jesus não ia fazer nada.»); o Messias recusado: "Judas, eu sou o Messias" (U0005: «Judas, eu sou o Messias.») — "mas eu não serei o tipo de Messias que vocês esperam" (prosa).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | Jesus e o Enigma da Transfiguração (B011) | Livro I, cap. 2 (O Fator Judas) | pp. 15–25 (aprox.) | capítulo dedicado |

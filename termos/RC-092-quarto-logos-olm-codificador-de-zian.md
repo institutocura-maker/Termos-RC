@@ -227,3 +227,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[O Quarto Logos não é refém] (U0014)** «Quarto logos não, mas os alunos, os agentes do quarto logos, estão todos reféns do problema da podridão dos elétrons do universo.» — de todas as 1.000 coisas tentadas pelas consciências hesitantes, só o processo do Quarto Logos está em curso; os agentes dele são reféns da podridão dos elétrons, "Ele não" — e é ele que "precisa começar a atuar sobre essas linhagens humanas especiadas".
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[A locomotiva já partiu] (U0014)** «Metaforicamente falando, Jesus ainda não chegou, Sofia ainda não chegou, mas a locomotiva já partiu.» — a resposta do autor ao "não vai dar tempo": "o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada" (U0014: «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.»); "as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais" (U0014: «E o que está posto é as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais.»); desde 2007 as colmeias colapsam e "não deu para esperar pro Sofia".
+

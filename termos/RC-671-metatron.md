@@ -65,6 +65,10 @@ Forma preferida: Metatron.
 - **[P2023-10-14 · METATRON = FORMA ANTIMATERIAL DE ENOQUE, **COM PRAZO**]** "Enoque morreu, ficou a figura de Metatron, que é a forma antimaterial de Enoque, mas que funcionou só durante um tempo." (U0085) — ⭐⭐⭐ A limitação temporal da função não consta das fontes anteriores da Base → ampliação de conteúdo.
 - **[P2023-10-14 · A PREPARAÇÃO DOS POUCOS DESPERTOS]** "E ele foi quem terminou de fazer essa preparação aqui em termos de explicar os anjos de Jaavé, os poucos despertos que tinham aquela situação." (U0085)
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[Metatron: a cópia travada de Enoque] (U0007)** «Foi feito uma cópia dele chamada Metatron.» — levado para o universo vizinho, Enoque virou cópia: "A condição de Enoque humana morreu. Metatron também travou. Tá travado até hoje, mas isso é uma outra história" (U0007: «A condição de Enoque humana morreu.» + prosa do autor); ressonância com RC-674 (Urdidura de Metatron).
+
 ## Fontes
 P2025-05-31.
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
@@ -76,6 +80,12 @@ Ver transcrição.
 ## Termos Relacionados
 | Termo | Código | Relação |
 |---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | RC-489 | — | relacionado |
 | RC-001 | — | relacionado |
 | RC-263 | — | relacionado |

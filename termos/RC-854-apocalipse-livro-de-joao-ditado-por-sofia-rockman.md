@@ -39,9 +39,15 @@ Com isso:
 - **[O Apocalipse: a confirmação de Sofia] (U0033)** «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — ~70 anos após a crucificação, Sofia (então chamada assim pelos seguidores de Jesus reunidos em torno de Maria Madalena) ditou, via um anjo, a João — o único apóstolo ainda vivo — os termos do Apocalipse: a ratificação da promessa de retorno feita pelo eu humano de Jesus.
 
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[Javé no trono sem saber tirar os selos] (U0007)** «E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?» — Sofia escreveu o Apocalipse "através de um anjo através de João, o apóstolo" (U0007: «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.») — e botou Javé no trono com os sete livros selados "dizendo o quê? Que nem sabia tirar os selos dos livros e dizer de todas as profecias ali descritas, quais as que de fato iriam acontecer" (prosa); a carimbada final da nova aliança: "com o desastre que Javé fez com Jesus, Sofia rompeu com Javé" (veto léxico — formulação retida no BLOCO 5, registrada em prosa).
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 

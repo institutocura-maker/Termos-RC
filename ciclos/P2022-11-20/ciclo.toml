@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (136.580 chars / 53 linhas / 35 com fala / 24.818 palavras; cobertura 9/9 fatias provada). Tese: '2000 anos depois, ninguém entendeu buiufas do que Jesus fez ou tentou fazer' — a nova aliança proposta por Jesus como questão de LIMITE HUMANO: o homem Jesus leu as escrituras, soube que era o Messias e disse 'não vou fazer isso' — recusou-se a cumprir os termos da velha aliança (várnica, de Enoque a Javé — 'Eu não mudo uma vírgula de nada do que eu prometo'), estragou milênios de história e se deixou crucificar como penalidade por sua impossibilidade ('ele podia ter bifurcado a história, mas ele não bifurcou'). Sofia rompeu com Javé e carimbou a nova aliança no Apocalipse ('botou Javé sentado num trono, os sete livros selados... nem sabia tirar os selos'); a revelação do ressuscitado virou o gnosticismo judaico-cristão cancelado pela Igreja (Nag Hammadi, 1945); 'a nova aliança primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite' — e 'a locomotiva já partiu'. Recolhe formulações PRECISAS para 20 códigos (17 com ficha: RC-072, RC-009, RC-001, RC-479, RC-489, RC-671, RC-672, RC-322, RC-092, RC-725, RC-657, RC-104, RC-366, RC-365, RC-854, RC-193, RC-174; 3 em fila aberta: RC-860, RC-858, RC-865). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (fórmulas mentais; Sagon Chalão — registro sem código), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-870"]   # Fórmulas Mentais — código novo em FILA ABERTA (devolutiva do curador)
 veto_lexico = ["p****", "m****", "b******", "e******", "i*****", "f**"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (fase GARIMPO: nada materializado)
-ficha_true = 0   # viradas no cadastro (decisão só na devolutiva)
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 4      # fichas NOVAS criadas por este ciclo (RC-860, RC-858, RC-865, RC-870 — RC-474 já tinha arquivo; só ganhou a seção)
+ficha_true = 4   # viradas no cadastro (RC-860/858/865 saem da fila; RC-870 criado em fila e materializado)
+termos = 1       # termos novos: RC-870, autorizado pela devolutiva do curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # vínculos só na devolutiva (ampliar/vincular autorizados pelo Curador)
+vinculos = 22   # 22 códigos carregam a sigla (17 ampliados + RC-860/858/865/870 materializados + RC-474 registro)
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-860", "RC-858", "RC-865", "RC-870"]      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -49,9 +49,30 @@ pontos = [
 ]
 
 [definicoes]
+RC-860 = "A 'nova aliança' é a proposta de Jesus contra a velha aliança dos pactos de Javé: 'a nova aliança que Jesus propôs não é uma ideia de um gênio, foi uma questão de limite humano' — o homem Jesus leu as escrituras, soube que era o Messias e recusou-se a cumprir os termos imutáveis de Javé ('Eu não mudo uma vírgula de nada do que eu prometo'), estragando milênios de história e se deixando crucificar como penalidade. 'Primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite' — Javé jamais a aceitou e foi desativado sem aceitar (P2022-11-20)."
+RC-858 = "Os 'desígnios proféticos' são a profecia como instrumento de domínio e sua desconexão: 'a frase ressurreição na época em que Isaías viveu, ela não foi efetivamente colocada nesses termos' — 'Isso foi uma manipulação feita posteriormente'. O mesmo critério vale para os livros de Enoque: o catolicismo interpolou São Miguel e São Rafael numa tradução posterior aos fatos — 'essa é a interpolação posterior', o drama desses livros (P2022-11-20)."
+RC-865 = "A 'pulsação digna' é a pulsação alinhada a conceitos supremos: 'Esses seres, eles têm que receber a onda da pulsação digna de um ser humano ou de vários seres humanos para que eles essa pulsação os inibe e eles não podem fazer nada' — quando o humano cansa de pulsar, eles podem chegar e bater; a pulsação contundente funciona como o fogo de uma fogueira que dói em quem dela se aproxima (P2022-11-20)."
+RC-870 = "As 'fórmulas mentais' são o código dos seres do universo vizinho (demos/extísicos), contraposto ao DNA humano: 'na condição demo os seres têm fórmulas mentais. Nós temos DNA' — os demos não têm DNA; 'deposito o que resta de suas fórmulas mentais' (Vishnu a Brama sobre a linhagem humana); 'para que Javé gastasse as últimas fórmulas mentais dele' (Shiva). O DNA humano, em sendo trabalhado, produz sequências genéticas e genótipos — e provoca mutações adaptativas; os demos dependem do temperamento (critérios várnicos). O humano pode introduzir '1000 novos conhecimentos e 1000 coisas por dia' (P2022-11-20)."
 
 [observacoes]
+RC-860 = ["**Materialização imediata (devolutiva):** RC-860 (Nova Aliança) sai da fila aberta e ganha ficha (ficha=False → True) com as 3 pérolas validadas neste ciclo — esta é a palestra-título do termo."]
+RC-858 = ["**Materialização imediata (devolutiva):** RC-858 (Desígnios Proféticos / Placas de Sinalização) sai da fila aberta e ganha ficha (ficha=False → True) com a pérola validada neste ciclo (a interpolação posterior como método)."]
+RC-865 = ["**Materialização imediata (devolutiva):** RC-865 (Pulsação Digna) sai da fila aberta e ganha ficha (ficha=False → True) com a pérola validada neste ciclo (a onda que inibe os seres)."]
+RC-870 = ["**Código novo em fila aberta (devolutiva):** Fórmulas Mentais promovido a código (RC-870) — conceito estrutural (código dos demos vs DNA destravado); criado no cadastro (ficha=False) e MATERIALIZADO neste ciclo (ficha=False → True) com as formulações validadas da fonte."]
+RC-474 = ["**Registro sem código (devolutiva):** Sagon Chalão permanece apenas como registro na ficha RC-474 (Arcontes / Conselho de Antiandel), sem código próprio — a fala de U0047 (span conferido no pacote) fica na seção Ampliação; o ser fora de controle que pode tentar fazer algo grave (veto léxico; formulação retida no BLOCO 5)."]
+RC-365 = ["**Quarentena teológica (homologada):** 'judas se suicidou porque viu que Jesus não ia fazer nada' entra na ficha sem a formulação de sangue/salvação retida no BLOCO 5."]
+RC-072 = ["**Quarentena teológica (homologada):** a formulação 'sangue de Jesus nos salvou... é fake news' fica retida (BLOCO 5); a ficha recebe só as pérolas aprovadas (o X da história; a crucificação como escolha)."]
+RC-001 = ["**Quarentena política/biográfica (homologada):** retidas no BLOCO 5 — anjos de Javé em 2004 (divergência datada D-9 vs 2007-2018 do P2022-11-26, sem harmonização), loca 2497, 'meus defeitos me salvaram'; Javé não muda 'uma vírgula' entra (cláusula pétrea) sem as falas institucionais."]
 
 [travas]
+RC-072 = "quarentena teológica: 'sangue de Jesus nos salvou... é fake news' retido (BLOCO 5); a ficha RC-072 recebe só as pérolas aprovadas da nova aliança."
+RC-001 = "quarentena política (Macedo/Rede Globo/Deep State; pastores determinando eleição; Lula/Bolsonaro [frase truncada]), biomediúnica/biográfica (anjos de Javé em 2004 — D-9 sem harmonizar; loca 2497 e o filho amado; 'meus defeitos me salvaram') e teológica ('a Igreja Católica não sabe porcaria nenhuma') retidas (BLOCO 5)."
+RC-193 = "quarentena do rebanho sob 'ótica nitiana' (nietzschiana) — formulação retida; a pérola aprovada entra sem a leitura da multidão."
+RC-365 = "quarentena teológica: formulação sobre sangue/judeus retida (BLOCO 5); 'faça logo' e 'Judas se suicidou porque viu que Jesus não ia fazer nada' entram."
 
 [lacunas]
+# DEVOLUTIVA (2026-09-01): RC-860/858/865 MATERIALIZADAS neste ciclo (ficha=True) por ordem do
+# Curador. Fórmulas Mentais → RC-870 (código novo, fila aberta, materializado neste ciclo).
+# Sagon Chalão → registro sem código na ficha RC-474. RC-871/872/873 NÃO criados: a autorização
+# genérica de "próximo passo" não é decisão curatorial de código (padrão P2022-11-26 — os
+# pedidos RC-861/862/863 permaneceram em fila). O registro formal vive no BLOCO 2 do pacote.

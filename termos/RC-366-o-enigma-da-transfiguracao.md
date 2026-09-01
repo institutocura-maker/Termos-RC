@@ -47,9 +47,14 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 - **[A transfiguração: corpo de plasma e "Não invadam"] (U0010)** «Ele tinha poderes para isso, se fez igual, ou seja, criou um corpo de plasma igual desses seres e disse: "Bando de carapálidas".» — no monte Tabor, diante da nave da aristocracia cósmica (os apóstolos adormecidos, anjos clones presentes), Jesus transfigura o corpo humano em corpo de plasma igual ao dos seres e os enfrenta na linguagem de Capela — sistema onde Rockman/Sofia tem a sede governamental neste universo — com a ordem de não invadirem.
 
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[O não-interferir da Transfiguração] (U0005)** «Não interfiram. É comigo até o final.» — no monte da Transfiguração (a nave; "uma nuvem já tinha dominado, ou seja, uma nave"), anjos de Sofia e do criador cobram o cumprimento da agenda milenar; Jesus transfigura o corpo, "se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava" (U0005: «Aí Jesus transfigurou o corpo humano dele, se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava.») e responde "Eu estou entendendo muito bem. Eu sei o que estou fazendo. Sei também o que não estou fazendo. Não interfiram. É comigo até o final." — episódio "que eu descrevo no livro o enigma da transfiguração de Jesus" (U0005: «de Jesus que eu descrevo no livro o enigma da transfiguração de Jesus.»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | Jesus e o Enigma da Transfiguração (B011) | Livro III, cap. 15 (O Enigma da Transfiguração) | pp. 150–165 (aprox.) | capítulo-título |

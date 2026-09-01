@@ -39,3 +39,8 @@ Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé
 - **[P2023-12-03 · BELIAL (ARCONTE; 'SATÃ' DO LIVRO DE JÓ) NA FALA DE 03/12/2023]** «figuras como Bel, como Lemion, como Tod, como outros tantos que existem e a gente nem tem noção, essas figuras, se a coisa continuar do jeito que tá, eles vão terminar assumindo funções no vazio de poder que a briga de Sofia com essas figuras desse universo vizinho.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[O Satã do livro de Jó é Belial] (U0003)** «Só que não é Satanás, é Belial.» — no livro de Jó, o "Satanás" da linguagem bíblica é Belial: "Aí entre eles, Estava Satanás, segundo a linguagem da Bíblia, mas o nome correto seria Belial" (U0003: «Aí entre eles, Estava Satanás, segundo a linguagem da Bíblia, mas o nome correto seria Belial.»); Javé reunia os ministros e Belial era um deles; "Do jeito que Javé fez com Belial ou Satã no livro de Jó, ele fez com Caim" (U0007: «Do jeito que Javé fez com Belial ou Satã no livro de Jó, ele fez com Caim.») — a aposta sobre Jó como padrão repetido com Caim; "fez com um coitado de um ser humano o que nem o diabo faria se existisse" (prosa).
+

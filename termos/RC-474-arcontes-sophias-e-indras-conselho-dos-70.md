@@ -81,10 +81,15 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **[O Conselho de Antiandel] (U0002)** «E esse conselho de Antiandel é o único lugar aonde alguns desses arcontes, ou todo eles eventualmente participam, não para resolver alguma algum Esse conselho não funciona, tipo a ONU.» — o Conselho de Antiandel é o único fórum em que alguns arcontes participam — "não funciona, tipo a ONU" (grafia STT "alguma algum" sem emenda); grafia "Antiandel" confirmada nesta palestra (a ficha RC-005 registrava "Antiondel [STT — REVISAR]"); candidato a código novo — ver BLOCO 2.
 
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[Sagon Chalão: o registro sem código] (U0047)** «Rapaz, ninguém conhece não, mas ele é chamado no conselho de Antiandel como Sagon. Sagon Chalão, ninguém conhece.» — o ser fora de controle mencionado no Conselho de Antiandel (RC-005/RC-474); registro SEM código próprio por decisão da devolutiva — pode tentar fazer algo grave (veto léxico; formulação retida no BLOCO 5).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |

@@ -86,10 +86,15 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[Javé quis tirar Enoque] (U0014)** «Aí a história Nem que vocês já sabem, o Javé queria fazer com Enoque não conseguiu fazer com Adão, com S.» — Javé quis fazer com Enoque (RC-489) — DNA 'limpo' da influência de Lemion — o que não conseguira com Adão e Sete; Enoque foi retirado e ditou 300+ livros a Matusalém.
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[Enoque: o maior responsável pela velha aliança] (U0007)** «Vamos então O maior responsável pela pelos termos da velha aliança chama-se Enoque.» — Enoque, o maior responsável pelos termos da velha aliança — "usado dentro de um cronograma maluco desses seres... meio que obrigado a produzir uma agenda que ele não queria, mas fez de boa fé"; "Enoque foi o primeiro e único a falar de que existia um reino vizinho, que existiam vários céus e que ele havia sido levado para cada um desses céus" (U0007: «Enoque foi o primeiro e único a falar de que existia um reino vizinho, que existiam vários céus e que ele havia sido levado para cada um desses céus.»); "a vinda do Messias, o julgamento geral dos vivos e dos mortos, tudo isso tá foi anunciado por Enoque. Tudo é Enoque" (U0007: «Tudo é Enoque.»).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |

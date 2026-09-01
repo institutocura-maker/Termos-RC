@@ -86,9 +86,14 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[O corpo humano como ilha de negentropia] (U0009)** «E aos poucos, quem puder criar negropias, que são ilhas de entropia positiva no meio do caos negativo para durante o tempo, o corpo da gente é uma ilha de gentropia, ou seja, de entropia positiva, porque durante o tempo em que esse corpo tá vivo, O eu da gente produz informações para o espírito que nos anima, pro campo mórfico, pro genoma, pro elétron e por aí vai.» — o corpo humano é uma ilha de negentropia (grafia STT "gentropia"): enquanto vivo, o eu produz informações para o espírito, o campo mórfico, o genoma e o elétron — "enquanto a energia tamásica de Chiva permitir, a entropia vai matando aos poucos" (grafia STT "negropias" = negentropias).
 
 
+## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
+
+- **[A ilha de produção no meio do caos] (U0002)** «Nas negentropias, que são ilhas de produção ativa no meio do caos, no meio da da entropia, alguns seres humanos conseguem ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali.» — as negentropias como ilhas de produção ativa no meio do caos — "alguns poucos seres humanos podem funcionar por si mesmos... ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali. Mas a correnteza levou a humanidade" (grafia STT "da da" sem emenda).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
