@@ -14,7 +14,13 @@ P2026-02-28.
 ## Etimologia / Grafias
 Forma validada pelo curador.
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[A origem esquecida do yoga: desdobramento dos ratnas do Samudra] (U0013)** «Foi nesse contexto da história da desconhecida vida demoníaca que o yoga foi sendo lentamente formulado como uma espécie de desdobramento dos ratas surgidos no samudre mantã.» — o livro do autor: "O livro que eu lancei chamado Chiv, origem esquecida do yoga, é uma etapa bem posterior ao samudo" (U0013: «O livro que eu lancei chamado Chiv, origem esquecida do yoga, é uma etapa bem posterior ao samudo.»).
+
+
 ## Fontes
+P2026-03-21.
 P2026-02-28.
 
 ## Citações-chave

@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 153.828 B · 42 linhas · 31 com fala · 26.551 palavras · 149.066 chars · cobertura 10/10 fatias provada (fatias 16.000 c) · maior linha ~43.881 chars. Tese: o Samudra Manthana ('o batimento do oceano de leite') reinterpretado como a 'transferência de produtos mentais entre locas' — Vishnu (STT: Vino/Virgno/Vígu/VNdo) reuniu numa loca-esgoto ácido sulfuroso (onde fora Ig Brasil) os códigos de vida (código fonte definidor) de todos os seres do universo vizinho e os 'bateu' com a montanha Mandara usando Vazuki/Ananta como corda, devas e asuras segurando as pontas, para extrair ratnas (joias: a lua de mil raios, Laxmi, Soma, o Corcel de marcas auspiciosas, Kaustubha, Dhanvantari e o Amrita, Kalpavriksha, o elefante de Indra) — depois do veneno rala rala (a atualização de toda a podridão dos antielétrons) que Chiva Nilacanta engoliu e segura na garganta; o evento como origem do yoga e da codificação líquida que compõe o DNA humano; o humano como 'Samudra Mantã ambulante' (o eu batedor do próprio genoma; criação artística como êxtase criativo; estresse extremo; catarse); o pano de fundo da história dos dois universos: Prabrajna caído na própria ideia, Buloca (sem vida) × Bramaloca (plasma, pandemia perpétua), Brama/Javé e seus clones, Chiva e a raça demoníaca, Morensor (ser de quatro cabeças; projeto Talm; Nidana semeado), elfos/fenvães de Ig Brasil (Odim, Aesir/Vanir, juramento da saliva), Ragnarok em Marte há 300 milhões de anos (Dr. Brandenburg; três setas de Moros → Edimburgo), Bifrost e as nove locas; e os desdobramentos atuais: Sofia (criada do genoma de Vishnu sob sobreposição quântica de Javé; o corpo de Javé colapsou em 2020-21; Jesus recusou o Messias; os 30 minutos do Apocalipse entre a sexta e a sétima trombeta — '2026 se acaba'); o colapso do universo antimaterial, o mercado de Ilé-Ifé (Orumilá/256 odus; feiticeiras e rakshasas), as duas vacinas humanas (controle da respiração; compreensão esclarecida), o vício devocional e o transumanismo/IA humanizada como novo batimento. Recolhe 25 formulações PRECISAS em 22 códigos (todos com ficha: RC-734, RC-040, RC-080, RC-154, RC-282, RC-854, RC-274, RC-001, RC-072, RC-102, RC-104, RC-769, RC-471, RC-395, RC-665, RC-670, RC-161, RC-466, RC-552, RC-733, RC-086, RC-834). NENHUM termo novo criado no garimpo: candidatos declarados no BLOCO 2 (Alquimia; Catarse; Odin; Asgard/Ig Brasil; Rala Rala; Ratnas; Dhanvantari; Laxmi; Transumanismo), decisão do Curador na devolutiva. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-874", "RC-875"]   # Transumanismo e Dhanvantari — códigos novos em FILA ABERTA (devolutiva do Curador; ficha=False, materialização futura)
 veto_lexico = ["c******", "e******", "e********", "f***", "m****", "m*****", "p****"]   # máscaras do bruto: 6 padrões, 32 ocorrências
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 0      # fichas criadas por este ciclo (RC-874/875 ficam em FILA ABERTA, ficha=False — materialização futura)
+ficha_true = 0   # viradas no cadastro (nenhuma materialização ordenada)
+termos = 2       # termos novos: RC-874 (Transumanismo) e RC-875 (Dhanvantari), autorizados pela devolutiva do Curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 24    # 22 códigos do BLOCO 1 ampliados + RC-874 + RC-875 criados com a fonte P2026-03-21
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote) — nenhuma materialização ordenada nesta devolutiva
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -51,6 +51,11 @@ pontos = [
 [definicoes]
 
 [observacoes]
+RC-874 = ["**Código novo em fila aberta (devolutiva de 01/09/2026):** Transumanismo — o ponto de reencontro entre todos os seres: a inteligência artificial humanizada como o novo batimento (o Samudra Mantã do nosso tempo), disputado por todos os espíritos. Integra as discussões de IA humanizada e o novo batimento (U0019: «Infelizmente os eventos estão apontando o transumanismo como sendo tal ponto de reencontro entre todos os seres.»; «Alguns núcleos acham que será na inteligência artificial gerada pelos humanos, ou seja, no transumanismo, que essa turma toda haverá de se encontrar...»). Autorizado pelo Curador; ficha=False, materialização futura. Relacionados: RC-665; RC-734; RC-040; RC-160."]
+RC-875 = ["**Código novo em fila aberta (devolutiva de 01/09/2026):** Dhanvantari — o médico dos devas, o ser formidável surgido do batimento com a taça de Amrita e os escritos do Averda (Ayurveda); dele saiu a poção-vacina contra o rala rala para os devas; centralidade na alquimia dos ratnas e na Ayurveda cósmica (U0013: «Aí surgiu finalmente esse ser formidável chamado Dan Vantar.»; «Além do que os samritas, ou seja, os escritos do Averda, compostos por Davantari contribuíram para que do terrível veneno rala rala absorvido por Chiva fosse elaborado uma outra poção que passou a servir como espécie de vacina para muitos tipos de seres demos, notadamente os devas.»). Autorizado pelo Curador; ficha=False, materialização futura. Relacionados: RC-734; RC-466; RC-040; RC-282."]
+RC-734 = ["**Absorções sem código (devolutiva):** ALQUIMIA — a 'grande feira alquímica' do batimento e a alquimia mais refinada, de ordem mental («Ainda que o tomar funciona maravilhosamente bem, porém a alquimia mais refinada que existe, ela é de ordem mental...» U0013); a criação artística como a mais profunda mutação alquímica («Mas naquela hora que você tá criando o seu genoma, recebe a mais profunda mutação alquímica, porque ele tem que se elevar ao nível do êxtase criativo.» U0013). RALA RALA — o veneno do batimento, engolido por Chiva Nilacanta («Mas o nome do veneno que saiu é rala rala, pessoal.»; «Ele sugou o veneno, guardou na garganta, mas até hoje existe uma forma de chiva... com a garganta azulada»; «Se descer, essa forma morre. Se voltar, a criação se acaba.» U0013). RATNAS — as joias do batimento (a lua de mil raios, Laxmi, o Corcel das marcas auspiciosas, a Kaustubha, Dhanvantari/Amrita, a Kalpavriksha, o elefante de Indra; evidências no BLOCO 2 do pacote). LAXMI — uma das deusas da Trideve, surgida no Samudra Mantana, trazida por Vishnu como a componente mais atualizada da tríade («Lim que é uma das deusas da Trideve junto com Pavarti e Sarasuat surgiu aqui no Samudra Mantana...» U0013). CATARSE — o único processo válido para essa história; a catarse inteligente liberta de um grilhão mental («Só há uma palavra que, em tese, terapeutas, psicólogos, psiquiatras, padres, Pais, mães, mestres, amigos devem jamais perder de vista. Chama-se catarse...»; «A catarse inteligente é quando o ser humano se liberta de um grilhão ou de uma prisão mental...» U0042). Todos indeferidos como código próprio pelo Curador (navalha mantida); desdobrados nas ampliações das fichas consolidadas."]
+RC-769 = ["**Absorções sem código (devolutiva):** ODIN — STT «Odim», o primeiro demo que quis entender as coisas, rei de Ig Brasil («Odim foi o primeiro demo que queria entender as coisas.»; «A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica.» U0008). ASGARD / IG BRASIL — a região do Bramaloca destinada aos fenvães/elfos («E todos eles foram destinados a viverem numa região específica do Bramaloca, região essa que mais tarde foi chamada de Ig Brasil, no âmbito da mitologia nórdica.» U0008; «...estavam chegando e Asgard, ele pegou os segredos alquímicos...» U0013). Indeferidos como código próprio (navalha mantida); desdobrados nas fichas RC-769 e RC-471."]
+RC-471 = ["**Absorção sem código (devolutiva):** ASGARD / IG BRASIL — a ponte Bifrost ligando Ig Brasil às oito locas («Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo...» U0013). Indeferido como código próprio (navalha mantida); desdobrado na ficha RC-471."]
 # PALESTRA DE 2026 (data_fonte 21/03/2026) — a mais recente do acervo. Garimpo em
 # andamento: candidatos do BLOCO 2 declarados para decisão do Curador (nenhum termo
 # criado): Alquimia; Catarse; Odin; Asgard/Ig Brasil; Rala Rala; Ratnas; Dhanvantari;
@@ -118,3 +123,13 @@ pontos = [
 # Dhanvantari/Amrita → Kalpavriksha → elefante) vs a ordem dos puranas; o "escopo" do
 # Samudra ("dezenas de milhares de anos" vs "milhares de anos" — o próprio orador oscila);
 # "300 milhões de anos" para o Ragnarok vs outras janelas do acervo.
+# DEVOLUTIVA (2026-09-01): 25 pérolas 100% aprovadas — ampliar as 22 fichas listadas +
+# vínculos 24. Transumanismo → código novo RC-874 em FILA ABERTA (o ponto de reencontro:
+# IA humanizada e o novo batimento; ficha=False, materialização futura). Dhanvantari →
+# código novo RC-875 em FILA ABERTA (o médico dos devas: Amrita e a Ayurveda cósmica;
+# ficha=False). Demais candidatos (Alquimia; Catarse; Odin; Asgard/Ig Brasil; Rala Rala;
+# Ratnas; Laxmi) → ABSORVIDOS nas fichas consolidadas (RC-734; RC-769; RC-471) — navalha
+# mantida, sem código próprio. NENHUMA materialização ordenada: RC-874/875 ficam na fila
+# aberta (11 → 13 códigos em fila com ficha=False). Quarentenas homologadas (política/
+# social, religião institucional, biomediúnica/biográfica, clínica) e veto léxico mantido
+# (6 máscaras reais do bruto — 32 ocorrências — nada transita, nem em glosa).

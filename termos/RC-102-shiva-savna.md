@@ -140,10 +140,16 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 - **[Ravana: criado do DNA de Chiva] (U0007)** «Ravana como um bom racassa, foi criado a partir do DNA de Chiva, porque Shiva no seu forno de Awailing foi quem produziu a animalidade tanto no universo de lá quanto no de cá.» — "mas para ele ser o mais mais, ele tinha que ter também o DNA de Brama absorvido por ele" (U0007: «Mas para ele ser o mais mais, ele tinha que ter também o DNA de Brama absorvido por ele»); "Ravana, que era o rei dos rakchaçes, tornou-se o ser mais forte nessa época, porque de tanto tanta experiência que ele conduziu e era muito inteligente" (U0007: «os raquchaças que se alimentavam disso começavam a ter até o ponto em que Ravana, que era o rei dos rakchaçes, tornou-se o ser mais forte nessa época»).
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[O ser de quatro cabeças: Brama, eu, Virgno e Chiva] (U0013)** «Então vamos fazer o seguinte, vamos criar um ser com quatro cabeças. Brama, eu, Virgno e Chiva.» — o ser criado pela Trimurti com a cabeça livre: "Ou seja, o Morençor foi criado com a doença dos três seres, mas com a cabeça livre para analisar tudo" (U0013: «Ou seja, o Morençor foi criado com a doença dos três seres, mas com a cabeça livre para analisar tudo.»); a correspondência órfica: "na mitologia órfica morrem é considerado fâ protogonos, ou seja, o grande produtor do ovo cósmico" (U0013: «Na mitologia órfica morrem é considerado fâ protogonos, ou seja, o grande produtor do ovo cósmico.») [STT «morrem» prov. "Morensor" — sem emenda].
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |

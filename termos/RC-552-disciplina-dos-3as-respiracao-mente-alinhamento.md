@@ -37,9 +37,15 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 - **[B075 p. 23]** respiração dirigida a arquivos específicos (exemplo da claustrofobia — **clínica, exemplo**): "a respiração pode ser **direcionada, com uma precisão cirúrgica**, para arquivos mentais de problemas específicos, no sentido de atacar a causa e as consequências desses".
 - 0 códigos novos (PAC/"DBD" = programa clínico, O-7).
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[A soberania espiritual: controle das emoções e da respiração] (U0019)** «A soberania espiritual de um ser humano passa necessariamente pelo controle das suas emoções.» — a respiração como via: "E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração" (U0019: «E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração.»); as duas vacinas de autoimunidade: "Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem" (U0019: «Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | Mentalma I (B074) | Cap. 10 "A Disciplina dos 3As" | p. 131 (PDF) | definição |
 | Mentalma II (B075) | Cap. 1.4 "A disciplina dos '3As' e a 'vivência interior'" | — | aprofundamento |
 

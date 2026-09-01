@@ -110,3 +110,7 @@ A palestra atribui aos elétrons memória de sofrimento, preferências e comunic
 
 - **[O ponto de memorização deletéria] (U0013)** «Os elétrons do nosso universo chegaram a um ponto tal de memorização em si mesmo.» — a carga memorial dos elétrons atingiu o limite: memorizaram tantos elementos deletérios que "começaram a não funcionar direito" — a causa direta do colapso sistêmico (a memória apodrecida dos pósitrons compunha o cérebro do corpo javeano).
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Os registros acásicos: a memória quântica dos elétrons] (U0013)** «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — o puzzle da mente do criador: "Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi" (U0012: «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.»).
+

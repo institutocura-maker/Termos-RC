@@ -11,10 +11,16 @@
 
 Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígneos de plasma (anjos clones); 2ª) corpos daiva primitivos; 3ª) **corpos Fenvã** — "daivas modernos com menos problemas" (STT: "menos problemas de Fose" [REVISAR]). Corpos de plasma metamorfoseáveis do universo antimaterial, associados ao segundo conselho (Deusa Dev/Aurora e Cama/Kama) e à geração regenerada de Brahma (Brahma tetracéfalo em versão Fenvã).
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Os fenvães/elfos de Ig Brasil: corpos de plasma e o padrão emocional] (U0008)** «Mais tarde, perto de 6 bilhões de anos após o início do universo da criação, foi engendrada uma outra espécie de seres demoníacos, só que mais modernos, também com corpos de plasma chamados de fenvães ou de elfos na mitologia nórdica ou na mitologia celta, na quem assistiu Senhor dos Anéis tem uma noção da coisa.» — Odim, o primeiro demo curioso: "Odim foi o primeiro demo que queria entender as coisas" (U0008: «Odim foi o primeiro demo que queria entender as coisas.»); "A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica" (U0008: «A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica.»); a novidade do padrão emocional: "Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional" (U0008: «Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 
 ## Citação-chave

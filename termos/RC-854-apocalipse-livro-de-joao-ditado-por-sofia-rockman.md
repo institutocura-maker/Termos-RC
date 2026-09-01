@@ -44,9 +44,16 @@ Com isso:
 - **[Javé no trono sem saber tirar os selos] (U0007)** «E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?» — Sofia escreveu o Apocalipse "através de um anjo através de João, o apóstolo" (U0007: «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.») — e botou Javé no trono com os sete livros selados "dizendo o quê? Que nem sabia tirar os selos dos livros e dizer de todas as profecias ali descritas, quais as que de fato iriam acontecer" (prosa); a carimbada final da nova aliança: "com o desastre que Javé fez com Jesus, Sofia rompeu com Javé" (veto léxico — formulação retida no BLOCO 5, registrada em prosa).
 
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Os 30 minutos entre a sexta e a sétima trombeta: a angústia de Sofia] (U0032)** «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — o tempo se organizou e se esgotou: "E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram" (U0032: «E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram.»); "2026 se acaba isso é o que eles dizem" (U0032: «2026 se acaba isso é o que eles dizem.»).
+- **[O Apocalipse encomendado no meio da confusão] (U0032)** «Então, Apocalipse é esse livro encomendado no meio dessa confusão.» — a queda das torres no capítulo 18: "João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center" (U0032: «João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center.») [STT «Road Trade Center» = World Trade Center — sem emenda].
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |

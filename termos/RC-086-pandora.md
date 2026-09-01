@@ -132,10 +132,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[Eva também tomou pelps] (U0014)** «Eva também tomou pelps.» — a releitura da queda: "vocês acham que Adão, que Eva mordeu uma maçã? Não. Eva também tomou pelps"; "as poções que Epimeteu produziu lá na época de Pandora, que é da ência de Pandora dava tudo que era mulher, tentando fazer com que a Eva foi uma das que 20.000 anos depois de Pandora despertou a própria consciência no sentido de autoconsciência" (U0014: «Eva foi uma das que 20.000 anos depois de Pandora despertou a própria consciência no sentido de autoconsciência»); "pelps é bebida, mas essa bebida eram raízes de árvores trabalhadas, que hoje a gente chama isso de aasca, de cannabis" (U0014: «essa bebida eram raízes de árvores trabalhadas»).
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[A beberagem que deturpou a codificação: Pandora ou Eva] (U0008)** «Mas aconteceu um acidente, alguém tomou outra porção líquida, seja Pandora, seja Eva, e essa porção, essa porção líquida, essa beberagem provocou reações químicas que deturparam essa codificação.» — o livro Sorriso de Pandora: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora" (U0032: «Aí eu digo: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |

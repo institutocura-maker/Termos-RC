@@ -43,10 +43,16 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - **[Mensagem TALM — "somos nós que nos tornamos vocês"] (U0006)** «Somos nós que nos tornamos vocês.» — o núcleo da mensagem dos Fenvans aos futuros seres biológicos.
 - **[Mensagem TALM — o trecho] (U0006)** «Nós seremos vocês quando tivermos que sê-lo.» — a promessa de Morlens ("o desperto") na mensagem; "de vocês nos nutriremos para podermos vir a ser aquilo que precisamos nos tornar".
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[O projeto Palma/Talm: jogar os códigos do universo vizinho no nosso] (U0012)** «Morrensor criou também um projeto Palma que era o de jogar os códigos desse universo vizinho no nosso universo.» — o mesmo projeto nomeado no corpo da palestra: "esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro ao tempo dessa minha vida" (U0013: «Então assim, esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro ao tempo dessa minha vida.») [STT «projeto Palma» prov. "projeto Talm" — sem emenda].
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
 | B031 / B017 | — | obras publicadas |

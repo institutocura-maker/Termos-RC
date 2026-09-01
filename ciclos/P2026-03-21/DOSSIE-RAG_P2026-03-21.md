@@ -232,7 +232,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 ## 4 · Atualizações para a Base
 
-* **Termos novos**: 0. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
+* **Termos novos**: 2 — cadência do teto suspenso: RC-874, RC-875. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
 * **Relações**: nenhuma aresta criada, fechada ou reetiquetada por este ciclo. Aresta só entra tipada, com evidência (span + endereço) e selo datado.
 * **Divergências**: com selo datado, sem média — a Base não harmoniza números por decisão de quem aplica.
 * **Fila aberta**: 0 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.

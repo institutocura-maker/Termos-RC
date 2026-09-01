@@ -63,9 +63,15 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 
 - **[O projeto Talm: o código de lá para cá] (U0036)** «Aí eles mandaram o código de lá para cá, é o que eu chamo do projeto Talm, como eles explicaram.» — "quando a turma do universo vizinho percebeu que a vida lá havia fracassado, porque lá só tem anjo clone robotizado ou demo maluco"; "nesse ponto, eles criaram três formas de replicação de vida biológica" (U0036: «Nesse ponto, eles criaram três formas de replicação de vida biológica»); "os portais naturais entre os dois universos de repente estavam surgindo e ninguém sabia de onde... era da própria movimentação de matéria e antimatéria" (U0036: «era da própria movimentação de matéria e antimatéria»).
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Mandara como bastão, Vazuk como corda: a mecânica do batimento] (U0013)** «O Samudra Mantã, portanto, foi um evento onde os Vedas e os assuras pegaram uma montanha chamada Mandara, transformaram Mandara num bastão para baterem o fundo do oceano atrás de Amrita.» — asuras pela cabeça, devas pela cauda, Ananta forçando o capelo: "Depois disso, os assuras passaram a seguravam Vazuk, que é o rei das cobras e dosagões pela cabeça" (U0013: «Depois disso, os assuras passaram a seguravam Vazuk, que é o rei das cobras e dosagões pela cabeça.»); e os devas pela cauda, enquanto um outro ser cobra chamado Ananta, príncipe das cobras, forçava o capelo, ou seja, a cabeça de vasoqui a soltar pela boca e nariz, vapores e outras emulações com alta temperatura" (U0013: «e os devas pela cauda, enquanto um outro ser cobra chamado Ananta, príncipe das cobras, forçava o capelo, ou seja, a cabeça de vasoqui a soltar pela boca e nariz, vapores e outras emulações com alta temperatura.»).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |

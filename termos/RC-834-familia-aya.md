@@ -30,9 +30,15 @@
 - **[Os anjos de Sofia inseminaram Maria] (U0009)** «Esse ser retirou dele a sua, entre aspas, assinatura quântica genética e os seus anjos no sentido de auxiliares diretos, inseminaram uma criança de 15 anos, como a gente falou.» — o mecanismo da concepção: Sofia retirou de si a assinatura quântica genética e seus anjos-auxiliares (as famílias Aya/Aye, RC-834/835) inseminaram Maria, então uma criança de 15 anos, sem o concurso de pai humano.
 
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Sofia: criada do genoma de Virgno, mente radiata, anjos incorruptíveis] (U0032)** «Então Sofia foi um ser criado a partir do genoma de Virgno.» — o cérebro radiato: "Como virem, não, desculpa, de Sofia, o genoma dele, porque como Sofia ia viver nesse universo daqui e Javé é uma um ser que vive no universo de lá, quando Sofia fosse fazer qualquer coisa, ou seja, movimentar a mente dele e a mente de Sofia é associada não a um cérebro bilatério, mas a um cérebro radiato" (U0032: «Como virem, não, desculpa, de Sofia, o genoma dele, porque como Sofia ia viver nesse universo daqui e Javé é uma um ser que vive no universo de lá, quando Sofia fosse fazer qualquer coisa, ou seja, movimentar a mente dele e a mente de Sofia é associada não a um cérebro bilatério, mas a um cérebro radiato.»); os anjos: "E os anjos são incorruptíveis" (U0032: «E os anjos são incorruptíveis.»); a chegada à cultura grega: "Quando essa história da existência desse ser chegou na cultura grega, Rockman foi chamado de Sofia" (U0013: «Quando essa história da existência desse ser chegou na cultura grega, Rockman foi chamado de Sofia.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | RC-009 — Sophia (Cristo Cósmico) | — | — | ficha canônica (B031) |
 | P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0002 (S2) | — | palestra (fonte primária, STT — grafia "Aia" corrigida para "Aya") |

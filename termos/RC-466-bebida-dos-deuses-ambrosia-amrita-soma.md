@@ -35,9 +35,15 @@ Com isso:
 
 - **[A ilha dos imortais e a bebida dos deuses] (U0005)** «E Xintirvanti, então empreendeu uma busca paraa ilha dos imortais para descobrir as tais ervas que em Tumando o fariam imortal.» — Alexandre Magno e Qin Shi Huang Di buscaram a 'ilha dos imortais' e as ervas da imortalidade — tema ligado ao soma/amrita, a bebida dos deuses (RC-466), eco do mito de Gilgamesh.
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Soma: a primeira beberagem e a loucura de Deus] (U0013)** «Quando Soma surgiu, aí a loucura de Deus atrás de Soma para beber.» — a origem no batimento: "Lim que é uma das deusas da Trideve junto com Pavarti e Sarasuat surgiu aqui no Samudra Mantana Lim seria mais tarde cita, a esposa de Ham no contexto da história do Ramaian, surgiu uma primeira beberagem chamado Soma" (U0013: «Lim que é uma das deusas da Trideve junto com Pavarti e Sarasuat surgiu aqui no Samudra Mantana Lim seria mais tarde cita, a esposa de Ham no contexto da história do Ramaian, surgiu uma primeira beberagem chamado Soma.»); o mistério que ninguém sabe: "Então o próprio Maarata diz: \"Surgiu, mas também ninguém sabe muita coisa\"" (U0013: «Então o próprio Maarata diz: "Surgiu, mas também ninguém sabe muita coisa".»).
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

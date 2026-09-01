@@ -37,9 +37,15 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 - **[B042 p. 56]** crônica *O Discreto Avatar do Ocidente*: missionários que trabalham “com discrição elegante”. Gandhi, Teresa, Sai Baba, Divaldo, Chico = **referências externas** (não ontologizar).
 - **[B042 p. 58–61]** o espírito que personificou João Evangelista — único apóstolo a sobreviver às perseguições; com o desencarne de Chico Xavier, a leitura do autor é que Jesus quis dizer que esse espírito “ficaria reencarnado na Terra até o seu retorno”; depois, Francisco de Assis. **Quarentena teológica.** Sem fusão com B014. RC-214 / RC-215 permanecem **sem ficha**.
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[João e o escorpião-avião: 1900 anos de antecedência] (U0032)** «Há 1900 anos atrás, João descreveu genialmente um escorpião com ovinhos embaixo da soltando ovinhos, ou seja, desenhando um avião.» — o mesmo ditado de Sofia que registrou o livro: "Então, Apocalipse é esse livro encomendado no meio dessa confusão" (U0032: «Então, Apocalipse é esse livro encomendado no meio dessa confusão.») [STT truncado no meio da frase — sem emenda].
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | Sophia e o Logos Criadores (B014) | cap. 13 (João e a "Cápsula do Tempo" de Sophia) | pp. 140–160 (aprox.) | capítulo dedicado |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |
 

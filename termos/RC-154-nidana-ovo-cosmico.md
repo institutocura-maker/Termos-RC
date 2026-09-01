@@ -35,9 +35,15 @@ Com isso:
 
 - **[o Nidana, código podre adaptado] (U0012)** «Com isso, ele criou esse código Midana, que é o código podre do criador, mas adaptado às circunstâncias biológicas para se misturar com esses códigos neutros.» — o Nidana (STT 'Midana', RC-154): o código podre do criador, adaptado às circunstâncias biológicas para se misturar com códigos neutros — a 'molécula-mãe' da vida.
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[O código de Dana (Nidana): semeado, deu origem à vida biológica] (U0013)** «Então esse código de Dana é o que veio do Bramaloca e foi semeado no nosso universo, dando origem à vida biológica.» — o código holográfico registrado em cada um: "Devido a questão holográfica, tá lá registrado o código, fonte, definidor, ou seja, o DNA de cada um deles" (U0008: «Devido a questão holográfica, tá lá registrado o código, fonte, definidor, ou seja, o DNA de cada um deles.»); a disputa pela célula: "Em termos de vida biológica, cada célula do nosso corpo, cada célula do nosso corpo tem ao redor dela cerca de 36 espécies de vírus protozoários, bactérias, tentando disputar aquela célula para ser a sua casa" (U0012: «Em termos de vida biológica, cada célula do nosso corpo, cada célula do nosso corpo tem ao redor dela cerca de 36 espécies de vírus protozoários, bactérias, tentando disputar aquela célula para ser a sua casa.»).
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

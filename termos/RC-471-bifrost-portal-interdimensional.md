@@ -22,10 +22,16 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 
 - **Bifrost (P2025-02-16):** "a famosa ponte Bifrost, que o deus Heimdall acionava quando era chegada a época de se abrir um caminho entre os nove mundos do conglomerado de Ig Brasil"; "só quando essa Bifrost era estabelecida, seres dessas comunidades podiam viajar de uma para outra, inclusive vir para a Terra (na época, Marte)".
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[A ponte Bifrost: ligando as oito locas ao nosso universo] (U0013)** «Essa ponte na mitologia nórdica chamada B Frost, quando havia um alinhamento entre elas, os seres Thor, se lembram de Thor?» — a primeira ponte construída pelos cientistas de Odin: "Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca" (U0013: «Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca.»); Midgard e o axis mund: "Uma delas era Midgard, que seria o nosso universo" (U0013: «Uma delas era Midgard, que seria o nosso universo.»); "Axismund é o lugar onde o universo de lá se une ao nosso universo, que Marte era o axis mund da época" (U0013: «Axismund é o lugar onde o universo de lá se une ao nosso universo, que Marte era o axis mund da época.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | B060 | correspondência anterior | fonte publicada |
 | P2022-12-17 | ancoragem/Ragnarok | palestra/STT |
 | P2025-02-16 | Axis Mundi | palestra/STT |

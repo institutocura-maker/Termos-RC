@@ -21,10 +21,16 @@ Estado de estabilização ou anestesia devocional atribuído, na palestra, a pr�
 
 Espíritos bem-intencionados que manteriam modelos devocionais por considerá-los proteção contra condutas destrutivas. O qualificador não gera código autônomo.
 
+## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[O contentamento permanente é uma doença] (U0022)** «O contentamento permanente é uma doença.» — a humanidade enlouquecida no vício devocional: "Tudo isso porque a humanidade enlouqueceu no seu vício devocional" (U0008: «Tudo isso porque a humanidade enlouqueceu no seu vício devocional.»); "Só que hoje, com a falência da humanidade, devido ao vício devocional, de quase a totalidade dos humanos" (U0019: «Só que hoje, com a falência da humanidade, devido ao vício devocional, de quase a totalidade dos humanos.»); a devoção como droga: "Isso é droga, é a mesma fuga das drogas" (U0022: «Isso é droga, é a mesma fuga das drogas.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2024-11-02 | U0466–U0560; U0567–U0617 | palestra/STT pré-curada |
 
 ## Termos Relacionados
