@@ -44,10 +44,17 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 - **[O DNA do criador atualizado na forma humana] (U0014)** «Entendam, isso aqui é o DNA do criador atualizado da forma humana.» — "se for 100% desse na ativo, é o mesmo já caído lá no início. Da doença dele, a gente só tem ativa 2 a 3%. O resto tá inativo pra gente poder ser um alguém"; "no DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo, ou seja, não produz proteína" (U0014: «No DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo, ou seja, não produz proteína»); "se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa" (U0014: «Se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa»).
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Os 226 genes da central de defesa] (U0070)** «E ao longo desse processo, 226 desses 28.869 genes foram se especializando em criar uma central de inteligência no seu código genético para perceber cada um dos vírus dos 10 trilõ dos 90 trilhões que estão vivendo junto com os meus 10 trilhões de células.» — o sistema imunológico como central de 226 genes: "E quando aparece um diferente, COVID-19 pegou pegou essa central de defesa de 226 genes, produz os antídlopos ou arranja namorada para enganar aquele vírus, faz alguma coisa para que ele não oculte células do corpo ou então o destrói." (U0070: «E quando aparece um diferente, COVID-19 pegou pegou essa central de defesa de 226 genes, produz os antídlopos ou arranja namorada para enganar aquele vírus, faz alguma coisa para que ele não oculte células do corpo ou então o destrói.»); STT «antídlopos» (anticorpos); RC-562.
+- **[3.600 espécies de vírus por segundo] (U0070)** «A cada 1 segundo são mais de 3.600 espécies de vírus diferente que existe no nosso corpo tentando invadir as células do nosso corpo.» — a clínica humana "sabe muito, mas ainda conhece pouco"; "É atitude mental que define esse processo." (U0070: «É atitude mental que define esse processo.»); "a gente precisa de apoio, precisa de remédio, precisa de vacina, porque ninguém consegue dar conta" (paráfrase U0070); RC-562.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |

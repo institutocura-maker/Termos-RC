@@ -49,10 +49,16 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[P2023-12-03 · CRIATURA UNIVERSAL NA FALA DE 03/12/2023]** «o cara que caiu teve que improvisar modelitos de última hora e foi.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O CRIADOR QUE NÃO PÔDE FAZER AVATAR]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — D-5: a assimetria da Trimúrti (um sem avatares porque a mente não sustenta mais de um ser) entra como tese datada com a cláusula de leitura da D-5 — trata de *cargo e capacidade*, não de inexistência.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[A criatura universal e o eu perene] (U0070)** «É isso que eu chamo criatura universal.» — a especiação futura que finalizará o trabalho: "Em algum momento o eu que funcionar tem que ficar trabalhando perenemente aqui dentro, porque é muito risco você abrir mão de um corpo em que seu eu tava hospedado." (U0070: «Em algum momento o eu que funcionar tem que ficar trabalhando perenemente aqui dentro, porque é muito risco você abrir mão de um corpo em que seu eu tava hospedado.»); a ressurreição do eu de Javé exige massa crítica e a mente biocosmos emergente (paráfrase U0070; BLOCO 2 — Biocosmos); RC-042.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |

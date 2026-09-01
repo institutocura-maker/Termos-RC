@@ -19,16 +19,16 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (113.308 B / 81 linhas / 43 com fala / 19.662 palavras / 109.430 chars; cobertura 7/7 fatias provada; maior linha 33.954 chars). Tese: a tragédia anunciada de Javé e da linhagem demo — as fórmulas mentais do poder. O psiquismo funciona por arquivos (coleção), algoritmos (arquivos organizados) e fórmulas mentais (programas cerebrais que viram talentos); o demo é prisioneiro das fórmulas que colecionou ou recebeu (uma fórmula mental manda num demo; duas mandam num demo), enquanto o humano tem plasticidade e livre-arbítrio para gerir o próprio eu (Nós humanos podemos ser pior que o leão, pior que o demo, melhor que Deus). As fórmulas de poder demo se ancoram em egrégoras que adquiriram vida própria — e Javé morreu sufocado pelas próprias egrégoras, morto pelos próprios elétrons (a rebelião dos elétrons; livro 1 de 11 já lançado); nunca houve rebelião de Lúcifer no universo vizinho — só no biológico e na classe biodia (Odim, Luisbell). A história demo: Ravana como maior colecionador de fórmulas mentais (de Chiva e Brama; humilhou Zeus/Indra; Chiva se fez Rama para destruí-lo), Zeus que dá ordens que nem ele entende, Brama que aceitou o marra samadi (maha samadhi) e se desconstituiu. O tempo como modo como o psiquismo se movimenta (surgiu como decorrência do projeto mental deteriorado). O roteiro do absurdo: carga virótica um (protoceres viróticos antimateriais — vírus como face do criador caído; todas as doenças) e carga virótica dois (vírus biológicos; COVID-19 o mais novo membro); o projeto Talm mandou o Nidana para semear o universo biológico; holografia (28.869 genes em cada célula); 226 genes da central de defesa (sistema imunológico; 3.600 espécies de vírus por segundo); 86 bi neurônios e 100 tri teias quânticas; a criatura universal e a mente biocosmos emergente para ressuscitar o eu de Javé; os atos performativos (as palavras que fazem coisas; as religiões vivem deles; Jesus curando com saliva e argila); a disforia de gênio (confiança ilimitada na pretensa capacidade; Bolsonaro/Trump/Lula); a maestria existencial (o valor está no modo como se vive, não no que se é); constelação familiar e campos mórficos como desentrelaçamento quântico; o favor divino do qual ninguém se desvincula. Recolhe 25 formulações PRECISAS em 17 códigos (todos com ficha: RC-870, RC-001, RC-636, RC-002, RC-582, RC-037, RC-145, RC-634, RC-562, RC-217, RC-557, RC-080, RC-086, RC-042, RC-381, RC-321, RC-617). NENHUM termo novo criado no garimpo: 5 candidatos declarados no BLOCO 2 com pedido de AUTORIZAÇÃO para a devolutiva (Atos performativos; Carga virótica; Disforia de gênio; Biocosmos emergente; Maestria existencial — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-876", "RC-877", "RC-878", "RC-879", "RC-880"]   # devolutiva de 01/09/2026: fila aberta, ficha=False
 veto_lexico = ["m****", "f****", "l****", "i*****", "c*******"]   # máscaras do próprio bruto: 5 padrões · 13 ocorrências (m**** ×8, f**** ×2, l**** ×1, i***** ×1, c******* ×1)
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+arquivos = 0      # fichas criadas por este ciclo (nenhuma materialização autorizada)
+ficha_true = 0   # viradas no cadastro (fila aberta permanece ficha=False)
+termos = 5       # termos novos aprovados na devolutiva: RC-876..RC-880
+relacoes = 0     # arestas novas: nenhuma autorizada
+vinculos = 22   # 17 fichas ampliadas + 5 termos novos passam a carregar P2021-02-28 na lista de fontes
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
@@ -51,7 +51,29 @@ pontos = [
 [definicoes]
 
 [observacoes]
-# GARIMPO SUBMETIDO — aguardando devolutiva. 25 pérolas em 17 códigos (todos ficha=True):
+# DEVOLUTIVA DE 01/09/2026 (VERBATIM): "O garimpo de «Tragédia Anunciada — As Fórmulas
+# Mentais do Poder Demo» mapeou corretamente o peso parasitário das fórmulas mentais
+# sobre o psiquismo demo e as armadilhas da criação. DEVOLUTIVA AO AGENTE: (1) Aprovação
+# das Pérolas: Valido as 25 pérolas e autorizo o ampliar para as 17 fichas indicadas
+# (RC-870, RC-001, RC-636, RC-002, RC-582, RC-037, RC-145, RC-634, RC-562, RC-217,
+# RC-557, RC-080, RC-086, RC-042, RC-381, RC-321, RC-617). (2) Promoção à Fila Aberta
+# (BLOCO 2): Autorizo a criação de novos códigos para os cinco candidatos propostos,
+# pois representam chaves conceituais essenciais desta tese. Adicione-os à fila aberta
+# com ficha=False: Atos performativos (RC-876); Carga virótica (RC-877); Disforia de
+# gênio (RC-878); Biocosmos emergente (RC-879); Maestria existencial (RC-880).
+# (3) Absorções Homologadas: manter Rama, Rakchasas, Retrogradar e Favor Divino como
+# registros sem código novo — absorvidos e desdobrados em suas fichas de destino
+# (RC-582, RC-872, RC-617 e RC-063, respectivamente). (4) Quarentenas e Vetos: o
+# isolamento imposto pelas quarentenas e o bloqueio das 13 ocorrências léxicas
+# mascaradas (incluindo as 8 instâncias de m**** e as 2 de f****) estão 100%
+# homologados. Essa sujeira não transita de forma alguma na Base. (5) Próximos Passos:
+# Aplique as ampliações e crie as 5 novas chaves no dados_termos.py. Realize o commit
+# da devolutiva e avance para o próximo ciclo da esteira."
+# APLICAÇÃO: ampliadas as 17 fichas do BLOCO 1 (25 pérolas); criados RC-876..RC-880
+# (fila aberta, ficha=False, fonte P2021-02-28). Absorções: Rama → RC-582/RC-810
+# (glosa de RC-582), Rakchasas → RC-872 (fila; evidência alocada a RC-582), Retrogradar
+# → RC-617 (glosa de RC-617), Favor Divino → RC-063 (registro; ficha=False — sem
+# pérola).
 # RC-870, RC-001, RC-636, RC-002, RC-582, RC-037, RC-145, RC-634, RC-562, RC-217,
 # RC-557, RC-080, RC-086, RC-042, RC-381, RC-321, RC-617, RC-810. NENHUM termo novo
 # criado. PEDIDO DE AUTORIZAÇÃO (5 candidatos a termo novo em fila aberta, ficha=False,

@@ -135,9 +135,15 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 - **[O comandante contra o qual me rebelei] (U0034)** «Foi quando Lúcifer disse: "Uau, é o meu comandante contra o qual me rebelei 700.000 anos antes".» — ao ver Jesus ressuscitado se fazer igual a Sofia, Lúcifer reconhece o comandante contra o qual se rebelou 700.000 anos antes e implode; o espírito de Jesus e outros recolhem o astral de Lúcifer.
 
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Nunca houve rebelião de Lúcifer no universo vizinho] (U0030)** «Nunca houve uma rebelião de Lúcifer no universo vizinho de destravar, de deslacrar as teias da consciência, as teias da mente.» — "Só existiu no universo biológico e na classe biodia." (U0030: «Só existiu no universo biológico e na classe biodia.»); isso não é gratuito — "é para provocar a evolução do Sofia" (paráfrase U0030); Odim nasceu predestinado (Morrensor preparou a genética de Buri/B/Odim) enquanto Luisbell foi "no sabor da aventura" (paráfrase U0030; RC-769; RC-282); RC-002.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |

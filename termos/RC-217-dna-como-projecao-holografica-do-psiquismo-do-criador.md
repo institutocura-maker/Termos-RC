@@ -101,3 +101,7 @@ A palestra descreve a cadeia Nidana → DNA biológico → reorganização futur
 
 - **[DNA holográfico — as PEPS do criador] (U0006)** «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — as PEPS (pulsações eletromagnéticas particularizadas) do criador, codificadas como Nidana, viraram genes/DNA.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Holografia: cada parte contém a fórmula do todo] (U0070)** «O que é que significa holografia?» — a definição: o todo traduzido em cada parte (paráfrase U0070); o DNA em cada célula: "Em cada célula, em cada cromossomo, tá o meu código de 28." (U0070: «Em cada célula, em cada cromossomo, tá o meu código de 28.» — STT corta o número; sem emenda); cada vírus é holograficamente a face do criador — "o que acontece com um acontece com todos" (paráfrase U0070); RC-217 DNA como Projeção Holográfica.
+

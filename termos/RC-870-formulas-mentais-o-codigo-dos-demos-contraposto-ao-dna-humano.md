@@ -34,9 +34,18 @@ Com isso:
 - **[As últimas fórmulas de Javé, gastas por Shiva] (U0007)** «Quando Shiva escolheu certas linhagens asiáticas de seres humanos para nelas começar a provocar Javé, porque tudo isso que Shiva fez, Shiva jamais pretendeu dominar a humanidade.» — Shiva gastando as últimas fórmulas mentais de Javé via linhagens asiáticas (U0007: «Era só provocação para que Javé gastasse as últimas fórmulas mentais dele.»).
 - **[O depósito de Vishnu na linhagem humana] (U0002)** «Aí Virgem disse: "Escolha uma linhagem humana, deposito o que resta de suas fórmulas mentais e escolha humanos para enfrentarem os avatares de chiva que se fazem humanos.» — Vishnu (STT "Virgem") depositando o que resta das fórmulas mentais numa linhagem humana para enfrentar os avatares de Shiva (STT "chiva") — grafias STT sem emenda.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Arquivos, algoritmos e fórmulas mentais: a progressão do psiquismo] (U0008)** «O modo como esses algoritmos vão sendo operacionalizados criam formas e fórmulas, formas de agir e fórmulas mentais desse agir.» — a cadeia completa: arquivos (coleção) → algoritmos (arquivos organizados sobre uma emoção/sentimento/desejo) → fórmulas mentais/programas cerebrais (talento): "Programas cerebrais ou fórmulas mentais." (U0008: «Programas cerebrais ou fórmulas mentais.»); o exemplo do piano (Zézinho/Mariazinha) e o talento que congela na alma quando o corpo morre (paráfrase U0008); RC-870.
+- **[A fórmula mental manda no demo — e quanto mais fórmulas, maior o peso] (U0070)** «Uma fórmula mental manda num dela.» — "Quanto maior é o acúmulo de formas mentais, maior é o peso dessas formas mentais." (U0070: «Quanto maior é o acúmulo de formas mentais, maior é o peso dessas formas mentais.»); o talento do violão não habita no humano (sou eu que mando) mas a fórmula habita no demo como ser vivo parasitário — `formas mentais parasitárias, tipo um vírus` (paráfrase U0070); a feijoada e a diarreia psíquica (paráfrase); RC-870.
+- **[As fórmulas de poder se transformam em egrégoras] (U0063)** «E o que é que essas formas de poder se transformaram paraa realidade?» — a resposta no contexto: em egrégoras terríveis vinculadas ao uso das formas de poder; "E aí enlouquece mais ainda as figuras." (U0063: «E aí enlouquece mais ainda as figuras.»); as egrégoras pegam os que têm mais formas de poder (paráfrase U0063; RC-385 Egrégora — fila); RC-870.
+- **[A plasticidade humana: pior que o leão, pior que o demo, melhor que Deus] (U0030)** «Nós humanos podemos ser pior que o leão, pior que o demo, melhor que Deus.» — "A sabedoria consiste na gestão de todos os talentos e das inclinações que nos são ainda desagradáveis." (U0008: «A sabedoria consiste na gestão de todos os talentos e das inclinações que nos são ainda desagradáveis.»); o demo não tem essa opção — nasce com varna ou fica lerdo (paráfrase U0030; RC-321); RC-870.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados

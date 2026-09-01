@@ -48,10 +48,16 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - **[O projeto Palma/Talm: jogar os códigos do universo vizinho no nosso] (U0012)** «Morrensor criou também um projeto Palma que era o de jogar os códigos desse universo vizinho no nosso universo.» — o mesmo projeto nomeado no corpo da palestra: "esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro ao tempo dessa minha vida" (U0013: «Então assim, esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro ao tempo dessa minha vida.») [STT «projeto Palma» prov. "projeto Talm" — sem emenda].
 
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[O projeto Talm: semear o universo com o vírus escolhido] (U0070)** «Esse é o projeto tal, projeto tal.» — o plano de Morrençor (7 bilhões de anos atrás): "E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de doença aqui." (U0070: «E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de doença aqui.»); STT «projeto tal» (projeto Talm); o vírus mandado é o Nidana (paráfrase U0070; RC-154; RC-871); RC-080.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |

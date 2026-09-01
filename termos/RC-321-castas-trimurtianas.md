@@ -34,9 +34,15 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 
 - **[P2022-03-26 · CASTAS TRIMURTIANAS NA FALA DE 26/03/2022]** "a mitologia grega chamando de Zeus, os Olimpiados. Toda essa organização aqui existe no universo vizinho." (U0048) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Varna: talento e casta, palavra sânscrita] (U0051)** «Varna é um tipo de talento. É uma palavra sânscrita que serve para definir talento e casta.» — os demos nascem "totalmente lerdos e não evoluem, ou com um varna, um talento determinado" (paráfrase U0030); o guerreiro demo "tem que ser programado" — xatria (paráfrase U0030); "as fórmulas mentais que pontuaram tais quais modelos de consumo a esquisita evolução demo" (paráfrase U0063); RC-321 Castas Trimurtianas; RC-322 Dharma e Castas.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra) | — | transcrição automatizada; citação |
 | O Dharma e as Castas Hindus (B023) | caps. 4, 7 | pp. 40–60, 85–100 (aprox.) | capítulo dedicado |

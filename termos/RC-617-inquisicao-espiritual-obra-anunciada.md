@@ -29,9 +29,15 @@ Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-l
 - **[P2021-05-15 · A TÉTRADE DAS INQUISIÇÕES]** "Eu já eh inquisição filosófica, inquisição poética, inquisição trimurtiana, mas ainda tem um outro chamado inquisição espiritual que eu nunca tive coragem de falar, de de de publicar, porque é um bunker na espiritualidade que espírito que me anime e outros, alguns de vocês aí do IA, o grupo é pequeno, tá?" (U0018) — ⚠️ manter a ressalva de que o nome é provisório («não sei se vai ser esse o nome, se um dia eu publicar»).
 - **[P2021-05-15 · O DESTINO ANUNCIADO DO LIVRO]** "E esse livro Inquisição Espiritual, não sei se vai ser esse o nome, se um dia eu publicar, conta a história desse troço e do que se passou e do que se passa." (U0018)
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[O livro Inquisição Trimurtiana e o retrogradar] (U0063)** «Eu nunca contei isso no livro Inquisição Trimurtiana, porque eu não tinha como contar na época e nem tenho como contar hoje falando um pouco nessa pal para ficar paraa posteridade e lá na frente a gente poder entender melhor.» — STT «Triburtiano» no corpo da palestra (sem emenda); o contexto: a conclusão do grupo espiritual de que é necessário retrogradar: "Vocês precisam, alguns de vocês, retrogradar, ou seja, voltar a condição dela, a gente isso tá sendo verificado." (U0063: «Vocês precisam, alguns de vocês, retrogradar, ou seja, voltar a condição dela, a gente isso tá sendo verificado.»); RC-617 Inquisição Espiritual (obra anunciada).
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2021-12-04 — Os Archeons de Ereon e os Seres Adhy | U0610–U0632 | STT pré-curado e validado |
 

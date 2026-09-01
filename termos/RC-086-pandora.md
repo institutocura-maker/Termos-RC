@@ -137,10 +137,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[A beberagem que deturpou a codificação: Pandora ou Eva] (U0008)** «Mas aconteceu um acidente, alguém tomou outra porção líquida, seja Pandora, seja Eva, e essa porção, essa porção líquida, essa beberagem provocou reações químicas que deturparam essa codificação.» — o livro Sorriso de Pandora: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora" (U0032: «Aí eu digo: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora.»).
 
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Pandora e o algoritmo de Efesto] (U0008)** «E porque Efestos deu a ela um um algoritmo que permitia ela se metamorfosear, se estabelecer como quisesse.» — a saída da condição demo pela borboleta: "Agora deu larga, largar larga paraa borboleta." (U0008: «Agora deu larga, largar larga paraa borboleta.»); Pandora invadida por marcações dos demos do Olimpo de Zeus (paráfrase U0008); STT «Efestos» (Hefesto); RC-086 Pandora.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |

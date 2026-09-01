@@ -51,9 +51,16 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 
 - **[O fim do hidrogênio e a energia tamásica] (U0036)** «E todo esse lixo tem que ser limpo antes do final do hidrogênio que tem no nosso universo, que é quando ainda enquanto tiver estrela nacenta, tudo bem, mas quando não tiver mais hidrogênio para gerar novas estrelas e quanto mais a expansão da aceleração cósmica fizer com que a energia escura prevaleça, que é a energia tamásica de Chiva, fazendo com que o nosso universo, tipo um tecido, seja rasgado, né?» — o universo fazendo ao contrário: "na hora em que os elétrons foram forem puxados e não mais conseguirem orbitar em torno de um núcleo atômico, na hora que os prótons e os neutros se rasgarem, o núcleo atômico se acaba. Isso significa dizer que o nosso universo finalmente está chegando ao fim" (U0036: «Isso significa dizer que o nosso universo finalmente está chegando ao fim»); "o nosso universo já fez b, já fez o bum e agora ele começa a queimar o resto de hidrogênio" (U0036: «O nosso universo já fez b, já fez o bum e agora ele começa a queimar o resto de hidrogênio»).
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[«Rebelião» dos elétrons: um nome que o autor mesmo relativiza] (U0081)** «Eu coloquei o nome rebelião, mas esse nome não é adequado.» — "Eu poderia ter colocado a insatisfação dos elétrons, a inquietação dos elétrons." (U0081: «Eu poderia ter colocado a insatisfação dos elétrons, a inquietação dos elétrons.»); o nome foi escolhido "porque achei educativamente o mais próximo do que tá acontecendo" (paráfrase U0081); os elétrons começaram a se rebelar contra as regras da evolução biológica (paráfrase); RC-636.
+- **[O livro Rebelião dos Elétrons: 1 de 11] (U0070)** «E foi aqui que começou a surgir a rebelião dos elétrons.» — a obra: "Um já tá lançado, faltam 10." (U0072: «Um já tá lançado, faltam 10.»); o quarto logos e amigos espirituais marcaram junto com o autor enquanto as palestras eram produzidas (paráfrase U0072); "não tem ninguém por trás" — nenhuma mente deletéria controla os elétrons; a pureza de uma criança ou de um bezerro mexe mais neles que a intelectualidade (paráfrase U0081); RC-636.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |

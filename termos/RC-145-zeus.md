@@ -45,9 +45,15 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 
 - **[P2023-12-03 · ZEUS NA FALA DE 03/12/2023]** «Esse aqui já veio.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-09-19`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Zeus: o imperador que ninguém entendia] (U0030)** «Zeus da ordens, a turma sai para cumprir, mas ninguém entendeu nada.» — a estupidez como "segurança maluca em você mesmo" (paráfrase U0030; ver Disforia de gênio — BLOCO 2); Têmis (STT «Tem»/«Tênis») tentando ensinar Zeus a compreender o que diz: "Tem foi quem disse: \"Ei, compreenda o que você diz." (U0030: «Tem foi quem disse: "Ei, compreenda o que você diz.»); a raiva de Zeus com Prometeu que "curtia com a cara dele" (paráfrase U0030; RC-301); RC-145.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | Os Livros da Vida de Pandora 1 (B087) | Caps. 1–10 | pp. 14–58 (PDF): o criador de Pandora; a Assembleia; a caixa | narrativa psicografada (Pandora) |
 | O Sorriso de Pandora (B020) | — | — | obra primária (versão canônica) |

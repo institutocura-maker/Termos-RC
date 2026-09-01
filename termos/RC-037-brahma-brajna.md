@@ -130,9 +130,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[Brama e a escolha da linhagem de Barata] (U0012)** «Então, A opção de Brahma foi acompanhar Barata e a sua esposa Mundav.» — "a importância que o criador, apresentando-se como Javé, deu a descendência de Adão e Eva, como Brah, ele deu a descendência dos baratas" (U0012: «A importância que o criador, apresentando-se como Javé, deu a descendência de Adão e Eva»); "o marra barata é a Bíblia dos hinduistas também nesse sentido, como eu falei, a Bíblia dos judeus, a história de Adão e Eva, a Bíblia dos hindav, irmão" (U0012: «Como eu já disse, o marra barata é a Bíblia dos hinduistas também nesse sentido»); "Ravana queria o DNA de Brama e ficou meditando como se fosse orando o tempo todo para Brama" (U0008: «Ravana queria o DNA de Brama e ficou meditando como se fosse orando o tempo todo para Brama»).
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[O maha samadhi de Brama] (U0063)** «Faça você mesmo um marra samadi e se desconstitua dessa forma de daiva sua porte.» — o diálogo do livro Inquisição Trimurtiana: Rogério a Brama, quando Shiva disse "Ele venceu" (paráfrase U0063); "A resposta dele não demorou um segundo." (U0063: «A resposta dele não demorou um segundo.»); Brama se desconstituiu em menos de um mês — as fórmulas de poder que colecionava estavam ferrando o espírito dele (paráfrase U0063); STT «marra samadi» (maha samadhi), «daiva» (deidade); RC-037 Brahma.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

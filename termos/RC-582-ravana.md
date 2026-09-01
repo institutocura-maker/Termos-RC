@@ -51,9 +51,16 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 - **[P2023-04-30 · O SEQUESTRO DE SITA COMO ARMAÇÃO]** "a turma forçou a barra: 'vamos fazer com que Ravana rapte Sita... E ENTÃO RAVANA RAPTA SITA E POR ISSO RAMA TERMINA MATANDO RAVANA E TODOS OS RAKSHASAS'" — o rapto como operação armada pelos próprios deuses.
 - 0 códigos novos (O-3). Quarentena: teológica.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[Ravana: o maior colecionador de fórmulas mentais] (U0063)** «Ravana foi o ser que nos últimos milênios conseguiu conquistar ou colecionar a maior quantidade de fórmulas mentais que um serdemo já teve.» — recebidas de Chiva (estirpe dos rakchaças) e extorquidas de Brama ("Brama chegou um ponto que não aguentou mais" — paráfrase U0063); o motivo: "Para humilhar Zeus, humilhar Indra, o nome de Zeus na mitologia do é Indra." (U0063: «Para humilhar Zeus, humilhar Indra, o nome de Zeus na mitologia do é Indra.»); a surra em Zeus e a invasão do Bramaloca (paráfrase U0063; RC-038); RC-582; RC-872 Rakchasas (fila — BLOCO 2).
+- **[Chiva se fez Rama para destruir Ravana] (U0063)** «Aí por isso que Chiva, ainda que os vaisinabas dizem que foi virgem, Chiva se fez rama para destruir Ravânia, porque senão o equilíbrio do universo que só Zeus conseguia dar, Indra conseguia dar, ia se ferrar.» — o registro de correção do autor: Rama é avatar de Chiva, não de Vishnu — "Isso é tipo de Chiva, não é de Rama nasceu para destruir a banana." (U0066: «Isso é tipo de Chiva, não é de Rama nasceu para destruir a banana.»); STT «vaisinabas» (vaishnavas); «Ramaiana» (Ramayana) como fonte do episódio (paráfrase); RC-582; RC-810.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0740–U0746; U0770 | transcrição automatizada; paráfrase e citação |
 
 ## Citações-chave

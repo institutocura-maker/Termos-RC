@@ -55,10 +55,16 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 
 - **[Conectoma: os álbuns de memória] (U0003)** «Então, é como se em cada vida produzisse um álbum de memória, cada personagem um álbum de memória e esse espírito fosse colecionador desses álbuns num álbum maior, num espécie de um Almanque geral, se assim quisermos entender.» — o conectoma (RC-557) é a 'somatória dos álbuns' que um espírito coleciona das diversas vidas cerebrais transitórias — cada vida um álbum, o espírito o colecionador; a somatória 'ainda não é a verdade'.
 
+## Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas Mentais do Poder Demo)
+
+- **[86 bilhões de neurônios e 100 trilhões de teias quânticas] (U0008)** «O nosso corpo são 86 bilhões de neurônios aqui no cérebro cada neurônio tem um axônio, tem dendritos que se unem, formam camadas ou caminhos neurais.» — "São mais de 100 trilhões de teias quânticas entre esses neurônios e que as runas eh no sentido mais profundo do termo eh registram tudo que se passa de consciências de fora que tentam mexer aqui e o eu da gente surge como consequência disso, mas o eu da gente quando tá no comando faz o cérebro pensar e devolve para quem tiver ligado." (U0008: «São mais de 100 trilhões de teias quânticas entre esses neurônios e que as runas eh no sentido mais profundo do termo eh registram tudo que se passa de consciências de fora que tentam mexer aqui e o eu da gente surge como consequência disso, mas o eu da gente quando tá no comando faz o cérebro pensar e devolve para quem tiver ligado.»); o processo de duas mãos (paráfrase U0008); RC-557 Conectoma.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2024-02-25 | As Faces de Javé — O Senhor Parameshthi (re-curadoria; dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 
