@@ -1,0 +1,286 @@
+{
+ "sigla": "P2022-10-01",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.478 B / 15 linhas / 7 com fala / 18.449 palavras / 106.096 chars; cobertura 7/7 fatias provada; megabloco U0002 de ~93.172 chars lido em fatias). Tese: a Wyrd — a teia quântica criada por Orlog (Moros/Olog da Base; grafia STT) com a ajuda de Vdo/Vishnu via Nix, uma loca/geno que virou um computador quântico vivo, complementada por Frigga/Ananke e pelas normes — é 'a mãe e o pai de tudo que é campo mórfico'; o autor vincula a história da teia à história de como a espiritualidade errática foi criada: os primeiros humanos racionalizados (~48.000 anos), os ambientes astrais (~40.000 anos), as primeiras cidades espirituais (~19.000 anos; Nosso Lar só no séc. XVII-XVIII), os híbridos do hiperbório e do Mahabharata, e o colapso atual — 'nem cerca de 20% do que precisava ser construído foi', o exílio espiritual interrompido em 1989, fantasmas sobrando no nível terreno; 'tudo que a teia WD fez está agora automatizado na consciência humana' — o karma, o sansara e as leis morais como herança demo; 'o erd vai se acabar junto com esse universo', mas 'o seu mecanismo já foi apropriado pela consciência humana'. Recolhe formulações PRECISAS para 18 códigos (todos com ficha: RC-658, RC-467, RC-454, RC-777, RC-282, RC-104, RC-636, RC-513, RC-295, RC-489, RC-001, RC-072, RC-009, RC-036, RC-322, RC-068, RC-381, RC-783). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (Midana; cidades espirituais), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-10-01/original.txt",
+ "sha256": "2f32aa6fded68609132c36879963ec1792ada2765250369a2edce0918947db5e",
+ "bytes": 109478,
+ "unidades_com_fala": 7,
+ "spans": [
+  {
+   "codigo": "RC-658",
+   "u": "U0002",
+   "chars": [
+    16210,
+    16986
+   ],
+   "largura": 776,
+   "verificada": true,
+   "texto": "Ele junto com a ajuda de Vdo, pois sua descendência via Nix era via eles então criaram uma um genuo, uma loca específica para, entre aspas reter esse mecanismo, esse campo quântico, virou uma espécie de uma loca de muito especial, diferente das outras, porque ali não existiam seres, era uma loca eh cujo mag era totalmente eh influenciado pelo que ela recebia de todas as demais locas, de todos os seres das demais locas, virou um computador quântico vivo, não sei que palavra desusar, e log por ter sido o germe iniciador daquele processo, o seu próprio código fonte definidor, como eu disse, o seu código fonte definidor foi o germe que ele colocou para dar um parâmetro para que as outras marcações fossem então estabelecendo padrões em comparação com o parâmetro inicial."
+  },
+  {
+   "codigo": "RC-658",
+   "u": "U0002",
+   "chars": [
+    26175,
+    26665
+   ],
+   "largura": 490,
+   "verificada": true,
+   "texto": "A partir desse ponto em que houve essa organização, todos os seres ficaram associados aos campos de registro comportamental das estirps e o sistema automatizou-se, como eu disse antes, saindo do controle mental operacional de horlog, ainda que os demais seres jamais souberam que a interface então existente entre Orlog e essa teia, né, ela foi desfeita e foi desfeita pela sua própria opção de gerar um tipo muito especial de loca e nela permanecer por muito tempo até se autodesconstruir."
+  },
+  {
+   "codigo": "RC-658",
+   "u": "U0002",
+   "chars": [
+    79701,
+    79853
+   ],
+   "largura": 152,
+   "verificada": true,
+   "texto": "Tudo que a teia WD fez está agora automatizado na consciência humana, nos protocolos mentais do chamado karma, das leis morais, da racionalidade humana."
+  },
+  {
+   "codigo": "RC-658",
+   "u": "U0002",
+   "chars": [
+    78600,
+    78793
+   ],
+   "largura": 193,
+   "verificada": true,
+   "texto": "O problema é que é o erd vai se acabar junto com esse universo, porque é o é uma coisa que existe lá dentro, ainda que ninguém veja de lá, mas é ela existe e ela foi algo organizado pros demos."
+  },
+  {
+   "codigo": "RC-467",
+   "u": "U0002",
+   "chars": [
+    18484,
+    18565
+   ],
+   "largura": 81,
+   "verificada": true,
+   "texto": "As próprias normes terminaram eh as normes não são figuras femininas, não é isso?"
+  },
+  {
+   "codigo": "RC-454",
+   "u": "U0002",
+   "chars": [
+    17817,
+    17864
+   ],
+   "largura": 47,
+   "verificada": true,
+   "texto": "Aí nesse ponto, Orlog resolveu criar as normas."
+  },
+  {
+   "codigo": "RC-777",
+   "u": "U0002",
+   "chars": [
+    28201,
+    28273
+   ],
+   "largura": 72,
+   "verificada": true,
+   "texto": "Friga surgiu como sendo uma figura que complementou o trabalho de Orlog."
+  },
+  {
+   "codigo": "RC-282",
+   "u": "U0002",
+   "chars": [
+    29124,
+    29258
+   ],
+   "largura": 134,
+   "verificada": true,
+   "texto": "Foi quando vio, Chiva e Brama criaram Morrens, criaram um ser chamado Protogonos ou Fanis, é o mesmo nome visto sobre diversas formas."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0002",
+   "chars": [
+    17150,
+    17262
+   ],
+   "largura": 112,
+   "verificada": true,
+   "texto": "Brama Virgem e Chiva, como eu já contei outras palestras, tentaram inúmeras vezes eh capturar essas informações."
+  },
+  {
+   "codigo": "RC-636",
+   "u": "U0002",
+   "chars": [
+    22952,
+    23211
+   ],
+   "largura": 259,
+   "verificada": true,
+   "texto": "Orlog gerou, vamos aí para para ponderação três, então uma espécie de ímã, um centro magnético, como eu já falei, que atraía e apropriava nele todos os elementos informativos existentes nos pósitrons, que são os elétrons antimateriais do universo vizinho, né?"
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0002",
+   "chars": [
+    61264,
+    61392
+   ],
+   "largura": 128,
+   "verificada": true,
+   "texto": "Só há cerca de 19.000 anos é que as primeiras cidades espirituais na erraticidade vinculada à Terra começaram a ser construídas."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0002",
+   "chars": [
+    60390,
+    60565
+   ],
+   "largura": 175,
+   "verificada": true,
+   "texto": "Lembrem-se, nosso lar, a cidade que Chico Xavier descreve com André Luiz no livro cujo título é nosso lar, só foi construída século X, 17, 18, ou seja, cerca de 200, 300 anos."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0002",
+   "chars": [
+    83610,
+    83709
+   ],
+   "largura": 99,
+   "verificada": true,
+   "texto": "Nem cerca de 20% do que precisava ser construído na erra de cidade vinculada à condição humana foi."
+  },
+  {
+   "codigo": "RC-295",
+   "u": "U0002",
+   "chars": [
+    64057,
+    64456
+   ],
+   "largura": 399,
+   "verificada": true,
+   "texto": "E os tempos eram estranhos porque os portais não estavam fechados, só se lacraram em 2012, mas desde os últimos 10."
+  },
+  {
+   "codigo": "RC-489",
+   "u": "U0009",
+   "chars": [
+    96032,
+    96229
+   ],
+   "largura": 197,
+   "verificada": true,
+   "texto": "Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0009",
+   "chars": [
+    96271,
+    96522
+   ],
+   "largura": 251,
+   "verificada": true,
+   "texto": "Então, Javé foi que inventou essa história de que lá no final haveria um julgamento geral dos humanos, dos anjos e dos deuses, porque ele iria definir quem era dele, quem era de Chiva, quem era de Virgo, aquela velha loucura lá que a gente tem falado."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0009",
+   "chars": [
+    97521,
+    97582
+   ],
+   "largura": 61,
+   "verificada": true,
+   "texto": "O espírito de Jesus trabalha, entre aspas, sim, nessa gestão."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0009",
+   "chars": [
+    97069,
+    97259
+   ],
+   "largura": 190,
+   "verificada": true,
+   "texto": "Isso apenas não acontecerá nos termos em que Sofia, como a forma cósmica de Jesus vai se meter com esse tipo de coisa, porque Sofia não sabe avaliar nem ele mesmo, quanto mais um ser humano."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0010",
+   "chars": [
+    100158,
+    100547
+   ],
+   "largura": 389,
+   "verificada": true,
+   "texto": "Então, eh essas coisas são meio malucas em termos de fuso horário cósmico, mas a vinda de Sofia vai criar um novo marco zero, se não em nada, porque todos já o conhecem e sabem como é que como as coisas funcionam, ainda que não compreendam, porque o grau de semirracionalidade nesses seres é comum, mas nós humanos, esse marco zero vai trazer muitas novidades, obviamente também problemas."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0010",
+   "chars": [
+    100548,
+    100951
+   ],
+   "largura": 403,
+   "verificada": true,
+   "texto": "E assim, a vinda de Sofia põe uma p de cal em 100% das cidades espirituais que existem, que estão ainda todas afiliadas a sentimentos, eh a a sensações eh ridículas, ultrapassadas, mas todas elas subproduto da ignorância nos últimos 3."
+  },
+  {
+   "codigo": "RC-036",
+   "u": "U0010",
+   "chars": [
+    100035,
+    100111
+   ],
+   "largura": 76,
+   "verificada": true,
+   "texto": "Eh, os biodemos há uns bons 600.000 anos aguardavam algum contato com Sofia."
+  },
+  {
+   "codigo": "RC-322",
+   "u": "U0002",
+   "chars": [
+    79006,
+    79125
+   ],
+   "largura": 119,
+   "verificada": true,
+   "texto": "Do jeito que o conceito de karma foi gerado pros demos de acordo com o Varna, relativo ao Dharma e os humanos herdaram."
+  },
+  {
+   "codigo": "RC-068",
+   "u": "U0002",
+   "chars": [
+    55474,
+    55531
+   ],
+   "largura": 57,
+   "verificada": true,
+   "texto": "No tempo em que os seres híbridos surgiram no hiperbório."
+  },
+  {
+   "codigo": "RC-381",
+   "u": "U0002",
+   "chars": [
+    54340,
+    54472
+   ],
+   "largura": 132,
+   "verificada": true,
+   "texto": "O jogo da vida que a teia quântica da tenta distribuir e os campos mórficos de cada espécie tentam redistribuir, é exatamente O quê?"
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0009",
+   "chars": [
+    98331,
+    98612
+   ],
+   "largura": 281,
+   "verificada": true,
+   "texto": "E por isso é necessário novas formas de expressão da vida humana ou novos ambientes para que a vida humana possa se expressar de uma forma nova e diferente para que sim as suespécies humanas possam produzir novos campos mórficos e daí o biocosmos emergente possa também se ancorar."
+  }
+ ],
+ "recusa": []
+}

@@ -1,0 +1,57 @@
+# ciclo.toml — ciclo leve P2022-10-01 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-10-01"
+titulo = "A Wyrd e a Espiritualidade"
+data_fonte = "01/10/2022"
+pasta_fonte = "ciclos/P2022-10-01"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-10-01.txt"
+sha256_fonte = "2f32aa6fded68609132c36879963ec1792ada2765250369a2edce0918947db5e"
+
+baseline_commit = "561b721"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.478 B / 15 linhas / 7 com fala / 18.449 palavras / 106.096 chars; cobertura 7/7 fatias provada; megabloco U0002 de ~93.172 chars lido em fatias). Tese: a Wyrd — a teia quântica criada por Orlog (Moros/Olog da Base; grafia STT) com a ajuda de Vdo/Vishnu via Nix, uma loca/geno que virou um computador quântico vivo, complementada por Frigga/Ananke e pelas normes — é 'a mãe e o pai de tudo que é campo mórfico'; o autor vincula a história da teia à história de como a espiritualidade errática foi criada: os primeiros humanos racionalizados (~48.000 anos), os ambientes astrais (~40.000 anos), as primeiras cidades espirituais (~19.000 anos; Nosso Lar só no séc. XVII-XVIII), os híbridos do hiperbório e do Mahabharata, e o colapso atual — 'nem cerca de 20% do que precisava ser construído foi', o exílio espiritual interrompido em 1989, fantasmas sobrando no nível terreno; 'tudo que a teia WD fez está agora automatizado na consciência humana' — o karma, o sansara e as leis morais como herança demo; 'o erd vai se acabar junto com esse universo', mas 'o seu mecanismo já foi apropriado pela consciência humana'. Recolhe formulações PRECISAS para 18 códigos (todos com ficha: RC-658, RC-467, RC-454, RC-777, RC-282, RC-104, RC-636, RC-513, RC-295, RC-489, RC-001, RC-072, RC-009, RC-036, RC-322, RC-068, RC-381, RC-783). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (Midana; cidades espirituais), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["p****", "m****", "b******", "e******", "i*****", "f**", "t*****"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo (fase GARIMPO: nada materializado)
+ficha_true = 0   # viradas no cadastro (decisão só na devolutiva)
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # vínculos só na devolutiva (ampliar/vincular autorizados pelo Curador)
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A Wyrd é a teia quântica do destino: criada por Orlog (Moros/Olog da Base) com a ajuda de Vdo/Vishnu via Nix, foi concebida como uma loca/geno especial — um campo quântico com vida própria que ninguém conseguiria desligar, 'um computador quântico vivo' cujo código-fonte definidor serviu de parâmetro para todas as outras marcações. Três fases: o ímã que atraía os elementos informativos dos pósitrons (elétrons antimateriais do universo vizinho) e das memórias dos demos e clones; a separação por estirpe que tipificou as atitudes mentais e fez o sistema automatizar-se, saindo do controle de Orlog (que se autoexilou e se autodesconstruiu, escondendo a loca); e a terceira fase, quando Vio, Chiva e Brama criaram Morrens (Protogonos/Fanes) para compreender criticamente o problema dos três senhores — e ele automatizou naquilo que o autor chama de Midana o código original primordial jogado no universo vizinho, o germe da vida biológica. Frigga/Ananke complementou o trabalho de Orlog estudando os códigos e as pias (peso da infecção ancestral); as normes, que não são figuras femininas, deram continuidade ao que existia, mas a coisa estacionou e 'até hoje está estacionado'.",
+  "A espiritualidade errática é construção recente e humana: os primeiros humanos racionalizados surgiram há cerca de 48.000 anos; há ~40.000 anos os desencarnados começaram a se ajuntar em ambientes astrais (que não são faixas de realidade espiritual edificadas — a mente do espírito pinta o ambiente como uma gota azul numa bacia d'água); há cerca de 19.000 anos começaram a ser construídas as primeiras cidades espirituais; Nosso Lar (Chico Xavier/André Luiz) só foi construído no séc. XVII-XVIII, quando europeus começaram a morrer no Brasil. O ponto de partida foi o hiperbório: no tempo em que os seres híbridos surgiram, o dharma apareceu como conceito pedagógico — e os bramenes o elevaram a orgulho. A confusão dos híbridos do Mahabharata (Yudhisthira, Arjuna, os Pândavas) sobre para onde ir quando morriam forçou a existência do espírito guia. As cidades espirituais não são democráticas: 'continua sendo a espiritualidade um império de mais forte'; 'nem cerca de 20% do que precisava ser construído foi'; o exílio espiritual foi interrompido em 1989 e 'não tem mais nem para onde mandar fantasma'.",
+  "A herança e o fim: 'tudo que a teia WD fez está agora automatizado na consciência humana' — o sansara, o karma, as leis morais e a racionalidade humana são herança demo (o karma foi gerado pros demos de acordo com o Varna, relativo ao Dharma); 'o erd vai se acabar junto com esse universo', mas o mecanismo já foi apropriado pela consciência humana. O julgamento geral é invenção de Javé ('ele iria definir quem era dele, quem era de Chiva, quem era de Virgo') — Jesus só reafirmava a velha agenda que Enoque apresentou; o espírito de Jesus trabalha nessa gestão, mas Sofia não: 'Sofia não sabe avaliar nem ele mesmo, quanto mais um ser humano' — 'é a mesma coisa pedir uma formiga que explique o comportamento de um cachorrinho'. A vinda de Sofia vai criar um novo marco zero e 'põe uma p de cal em 100% das cidades espirituais'; os biodemos aguardavam contato com ela há uns 600.000 anos. A saída é a especiação: novas subespécies humanas produzirão novos campos mórficos para o biocosmos emergente se ancorar — 'nós somos a podridão se pondo de pé, evoluindo de alguma forma'.",
+]
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

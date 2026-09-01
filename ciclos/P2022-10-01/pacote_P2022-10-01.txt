@@ -1,0 +1,212 @@
+# Pacote de ampliação — P2022-10-01 · A Wyrd e a Espiritualidade
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT, não refatorada) lida na íntegra (109.478 B / 15 linhas / 7 com fala /
+#   18.449 palavras / 106.096 chars; cobertura 7/7 fatias provada). Tese: a Wyrd (teia
+#   quântica criada por Orlog/Moros, com Vdo/Vishnu, e complementada por Frigga/Ananke e
+#   pelas normes) é a mãe e o pai de tudo que é campo mórfico; o autor a vincula à história
+#   de como a espiritualidade errática foi criada — os primeiros humanos racionalizados
+#   (~48.000 anos), os ambientes astrais (~40.000), as primeiras cidades espirituais
+#   (~19.000 anos, Nosso Lar só no séc. XVII-XVIII), os híbridos do hiperbório e do
+#   Mahabharata, e o colapso atual: 'nem cerca de 20% do que precisava ser construído foi',
+#   o exílio espiritual interrompido em 1989, fantasmas sobrando no nível terreno. 25 pérolas
+#   em 18 códigos (todos com ficha). NENHUM termo novo por conta própria: 2 candidatos
+#   declarados no BLOCO 2 (Midana; cidades espirituais), decisão do Curador.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2022-10-01 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rito: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-658
+
+- **[A criação da teia: a loca que virou computador quântico vivo] (U0002)** «Ele junto com a ajuda de Vdo, pois sua descendência via Nix era via eles então criaram uma um genuo, uma loca específica para, entre aspas reter esse mecanismo, esse campo quântico, virou uma espécie de uma loca de muito especial, diferente das outras, porque ali não existiam seres, era uma loca eh cujo mag era totalmente eh influenciado pelo que ela recebia de todas as demais locas, de todos os seres das demais locas, virou um computador quântico vivo, não sei que palavra desusar, e log por ter sido o germe iniciador daquele processo, o seu próprio código fonte definidor, como eu disse, o seu código fonte definidor foi o germe que ele colocou para dar um parâmetro para que as outras marcações fossem então estabelecendo padrões em comparação com o parâmetro inicial.» — a origem da Wyrd: Orlog (STT "e log" — o Olog/Moros da RC-454) criou com a ajuda de Vdo (Vishnu), via Nix, uma loca/geno específica para reter o mecanismo — um campo quântico com vida própria, influenciado por todas as demais locas; "o seu próprio código fonte definidor foi o germe... para que as outras marcações fossem estabelecendo padrões"; ressonância com RC-533 (Supercomputador Cósmico) e RC-467 (Moiras/Nornes).
+- **[O sistema automatizado fora do controle de Orlog] (U0002)** «A partir desse ponto em que houve essa organização, todos os seres ficaram associados aos campos de registro comportamental das estirps e o sistema automatizou-se, como eu disse antes, saindo do controle mental operacional de horlog, ainda que os demais seres jamais souberam que a interface então existente entre Orlog e essa teia, né, ela foi desfeita e foi desfeita pela sua própria opção de gerar um tipo muito especial de loca e nela permanecer por muito tempo até se autodesconstruir.» — a 2ª fase da construção: a teia automatizou-se e saiu do controle de Orlog (STT "horlog"), que se autoexilou numa loca especial até se autodesconstruir — "Orlog escondeu a loca. para que ninguém mexesse nela" (U0002: «Em outras palavras, Orlog escondeu a loca.»); "isso hoje são vários campos mórficos distintos que existem funcionando... os campos mórficos que existiam eram ainda protocampos mórficos".
+- **[A Wyrd automatizada na consciência humana] (U0002)** «Tudo que a teia WD fez está agora automatizado na consciência humana, nos protocolos mentais do chamado karma, das leis morais, da racionalidade humana.» — a herança: tudo que a teia fez está automatizado na consciência humana — o sansara "também não é humano, mas que nós humanos apropriamos"; "os seres humanos foram obrigados a cumprir a rota cármica, ou seja, o sansara"; "Pode, mas por quem? Como? Estando aqui na terra, a gente não vai conseguir fazer isso." (U0002: «Pode, mas por quem? Como? Estando aqui na terra, a gente não vai conseguir fazer isso.»).
+- **[A Wyrd vai se acabar junto com o universo] (U0002)** «O problema é que é o erd vai se acabar junto com esse universo, porque é o é uma coisa que existe lá dentro, ainda que ninguém veja de lá, mas é ela existe e ela foi algo organizado pros demos.» — o fim da teia: "o erd vai se acabar junto com esse universo" (STT "erd/erto/o erro" = Wyrd, sem emenda) — "Ela vai deixar desistir em algum momento a dos próximos milhões de anos. Mas o seu mecanismo já foi apropriado pela consciência humana" (U0002: «Mas o seu mecanismo já foi apropriado pela consciência humana.»); a teia "foi algo organizado pros demos", como o yoga, o dharma e o karma — "e isso é que mexe a teia o erdo para fazer com que fulaninho depois de morto corporalmente falando o seu espírito vá para ali ou para lá".
+
+### RC-467
+
+- **[As normes não são figuras femininas] (U0002)** «As próprias normes terminaram eh as normes não são figuras femininas, não é isso?» — as nornes/moiras (RC-467) como o autor as vê: "não são figuras femininas, não é isso? Não é? Pro nosso modo de entender as coisas, as nornes é como se fossem as as moiras. Então a gente acha que é mulher... Mas Não é bem assim não"; elas lidam com as informações captadas pela Wyrd — "E quando Orlog desapareceu, as normes deram continuidade ao que já existia, mas a coisa não andou no sentido de se desenvolver" (U0002: «E quando Orlog desapareceu, as normes deram continuidade ao que já existia, mas a coisa não andou no sentido de se desenvolver.»).
+
+### RC-454
+
+- **[Orlog cria as normas para proteger a teia] (U0002)** «Aí nesse ponto, Orlog resolveu criar as normas.» — Orlog (o Moros/Olog da Base; grafia STT "Orlog" preservada) criou as nornes — "Orlog criou alguns seres para exatamente poder criar uma teia de proteção em relação a em relação à aquela loca, aquele geno com essa coisa viva que passou a existir lá dentro"; "as próprias nornes que surgiriam de Pois, né, que foram criadas antes de de horlog se se exilar, elas sentem... elas não tinham acesso à teia porque a teia tornou-se meio que um fantasma" (U0002: «Em outras palavras, Orlog escondeu a loca.»).
+
+### RC-777
+
+- **[Friga complementa o trabalho de Orlog] (U0002)** «Friga surgiu como sendo uma figura que complementou o trabalho de Orlog.» — Frigga (nórdica) = Ananke (grega, STT "Ank") na leitura do autor: "Na mitologia grega, a gente estaria falando aqui de Ank, só que na mitologia grega o aspecto an fica mais impessoal. Na mitologia Friga já é necessariamente um ser de polaridade feminino, né, associado a Odim"; Friga estudou "cada código, cada pia, ou seja, peso da infecção ancestral em cada ser" — "o tipo de necessidade que fatalmente aquele tipo de código de infecção ancestral iria apresentar no temperamento do ser. E Friga e as normes estudaram bastante isso" — ressonância com a RC-777 (Ananque, base das Nornes).
+
+### RC-282
+
+- **[Protogonos/Fanes: criado pelos três senhores da Trimurte] (U0002)** «Foi quando vio, Chiva e Brama criaram Morrens, criaram um ser chamado Protogonos ou Fanis, é o mesmo nome visto sobre diversas formas.» — a 3ª fase da construção da teia: Vio (Vishnu), Chiva (Shiva) e Brama (Brahma) criaram Morrens (Mohen So = Phanes/Protogonos, RC-282; STT "Morrens" sem emenda) — "Ele foi feito a partir do temperamento de Vígeno, do temperamento genético de Vígeno, mas com a essência genética dos três senhores da Trimurte" (U0002: «Ele foi feito a partir do temperamento de Vígeno, do temperamento genético de Vígeno, mas com a essência genética dos três senhores da Trimurte, mas ele poôde ter uma essência genética pessoal para poder compreender criticamente, vamos assim dizer, o problema das outras três cabeças ou das outras três personalidades que está no seu ser, já que ele era alguém composto por quatro faces ou quatro cabeças e por aí vai.»); "O detalhe é que V repassou para Moren tudo que ele sabia sobre a teia quântica de Moros" (U0002: «O detalhe é que V repassou para Moren tudo que ele sabia sobre a teia quântica de Moros.») — e Moren concluiu: "nada de bom aqui vai ser criado. A gente tem que pegar o código da gente, jogar no universo vizinho para ver se esse código lá com um novo tipo de vida que lá poderá emergir" — o germe da vida biológica.
+
+### RC-104
+
+- **[A Trimurti tentou capturar as informações da teia] (U0002)** «Brama Virgem e Chiva, como eu já contei outras palestras, tentaram inúmeras vezes eh capturar essas informações.» — os três senhores tentaram capturar as informações da Wyrd: "Algumas vezes capturavam mesmo, mas não sabiam fazer uso, não sabia eh eh compreender"; "Brama não sabia o que fazer com aquilo e agia de modo truculento em termos de atitude mental. E aquilo até atrapalhava... a limpidez dos registros" — "foi quando Shiva e Vno ajudaram Orlog a manter Brama meio que sob controle".
+
+### RC-636
+
+- **[O ímã de Orlog e os pósitrons] (U0002)** «Orlog gerou, vamos aí para para ponderação três, então uma espécie de ímã, um centro magnético, como eu já falei, que atraía e apropriava nele todos os elementos informativos existentes nos pósitrons, que são os elétrons antimateriais do universo vizinho, né?» — a 1ª fase da teia: Orlog gerou um ímã/centro magnético que "atraía e apropriava... os elementos informativos existentes nos pósitrons, que são os elétrons antimateriais do universo vizinho" — "como se estivesse roubando os elementos informativos que existiam... na cabeça dos demos, nas cabeças dos clones... mas acima de tudo na memória dos elétrons chamado positrons" — ressonância com a RC-636 (Duas Pulsações da Criação).
+
+### RC-513
+
+- **[As primeiras cidades espirituais: há cerca de 19.000 anos] (U0002)** «Só há cerca de 19.000 anos é que as primeiras cidades espirituais na erraticidade vinculada à Terra começaram a ser construídas.» — a erraticidade humana é construção recente: "há cerca de 40.000 anos aproximadamente, os humanos desencarnados racionalizados, que os primeiros humanos racionalizados começaram a surgir há cerca de 48.000 anos... suas almas começavam a se ajuntar... em ambientes astrais"; "num trabalho de milênios que começou de forma mais efetiva a cerca de 19.000 anos, começaram a surgir os primeiros pequenos núcleos espituais"; "A espiritualidade errática começa então a ser edificada nesse ponto" (U0002: «A espiritualidade errática começa então a ser edificada nesse ponto.») — no tempo em que os seres híbridos surgiram no hiperbório; o movimento espírita "acredita que tá tudo lá construído, mas não tá".
+- **[Nosso Lar: uma cidade do séc. XVII-XVIII] (U0002)** «Lembrem-se, nosso lar, a cidade que Chico Xavier descreve com André Luiz no livro cujo título é nosso lar, só foi construída século X, 17, 18, ou seja, cerca de 200, 300 anos.» — a cidade espiritual de Nosso Lar é recente: "Quando europeus vieram morar no Brasil, começaram a morrer no Brasil e suas almas... começaram a transformar ambientes astrais vinculados à vida primitiva dos habitantes primordiais dos nossos povos originais da América"; "os índios espiritualmente viviam também em ocas"; "só há cerca de 19.000 anos é que as primeiras cidades espirituais na erraticidade vinculada à Terra começaram a ser construídas" — ambiente astral ≠ faixa de realidade espiritual: "É como se numa bacia d'água uma gota azul caísse e essa gota azul eh pintasse de azul, todas as demais moléculas".
+- **[Nem 20% do que precisava ser construído] (U0002)** «Nem cerca de 20% do que precisava ser construído na erra de cidade vinculada à condição humana foi.» — a construção espiritual está muito aquém: "Esse número é impreciso, mas eu eu situo nessa faixa de acordo com as fofocas dos amigos espirituais"; "o drama é que não vai ser construído, não dá. Falta trabalhador, é muita necessidade cármica"; "a espiritualidade um império de mais forte... os habitantes de ansiedade espiritual não são esclarecidos, eles Não deixa ninguém entrar na cidade espiritual deles, porque cada um novo que entra pode trazer... novidades desagradáveis"; "Deus não cria. Um super engenheiro que a gente acha, como eu disse, não existe super engenheiro criando".
+
+### RC-295
+
+- **[Os portais só se lacraram em 2012] (U0002)** «E os tempos eram estranhos porque os portais não estavam fechados, só se lacraram em 2012, mas desde os últimos 10.» — no tempo do Mahabharata os portais ainda não estavam fechados: "só se lacraram em 2012, mas desde os últimos 10.000 anos os efeitos que esses portais já provocavam, quem os atravessava era bem diferente do que aconteceu ao longo dos últimos milhões de anos" (span truncado no bruto em "últimos 10."; sem emenda) — a entropia começou a provocar a diferença "porque tem o jogo da antimatéria e da matéria"; ressonância com a RC-295 (Drama do Fechamento dos Portais) e com o P2022-11-26 (o primeiro choque de realidade = fechamento total dos portais em 2012).
+
+### RC-489
+
+- **[Jesus reafirmava a agenda de Enoque] (U0009)** «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — o julgamento geral como agenda antiga: "o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos. Agenda essa que lhe foi ditada por Javé"; o autor "na leitura de todas as promessas feitas pelo ser humano Jesus constante nos seus evangelhos e pelo que eu escutava dos espíritos sobre a perspectiva da vinda de Jesus" — "depois eu compreendi o equívoco dos próprios espíritos".
+
+### RC-001
+
+- **[Javé inventou o julgamento geral] (U0009)** «Então, Javé foi que inventou essa história de que lá no final haveria um julgamento geral dos humanos, dos anjos e dos deuses, porque ele iria definir quem era dele, quem era de Chiva, quem era de Virgo, aquela velha loucura lá que a gente tem falado.» — a origem da doutrina do juízo final: "Javé foi que inventou essa história de que lá no final haveria um julgamento geral dos humanos, dos anjos e dos deuses" — "porque ele iria definir quem era dele, quem era de Chiva, quem era de Virgo"; "a agenda do julgamento foi ditada por Javé a Enoque" (RC-489) — a mesma "velha agenda" que Jesus só reafirmava.
+
+### RC-072
+
+- **[O espírito de Jesus trabalha nessa gestão] (U0009)** «O espírito de Jesus trabalha, entre aspas, sim, nessa gestão.» — a distinção espírito de Jesus × Sofia: "o espírito de Sofia, que já foi Jesus, sim, este sabe, mas não Sofia. O espírito de Jesus trabalha, entre aspas, sim, nessa gestão. Só que isso tudo tá prejudicado pelas circunstâncias todas que a gente tem apontado"; "Isso está acontecendo na espiritualidade. Isso apenas não acontecerá nos termos em que Sofia, como a forma cósmica de Jesus vai se meter com esse tipo de coisa".
+
+### RC-009
+
+- **[Sofia não sabe avaliar nem a si mesmo] (U0009)** «Isso apenas não acontecerá nos termos em que Sofia, como a forma cósmica de Jesus vai se meter com esse tipo de coisa, porque Sofia não sabe avaliar nem ele mesmo, quanto mais um ser humano.» — o limite de Sofia: "Sofia não sabe avaliar nem ele mesmo, quanto mais um ser humano. Ele ele é menos complexo que um ser humano. Ele não tem como a ar o ser humano. É a mesma coisa pedir uma formiga que explique o comportamento de um cachorrinho, de um gato, de Não tem como"; "O espírito de Sofia, que já foi Jesus, sim, este sabe, mas não Sofia".
+- **[A vinda de Sofia: um novo marco zero] (U0010)** «Então, eh essas coisas são meio malucas em termos de fuso horário cósmico, mas a vinda de Sofia vai criar um novo marco zero, se não em nada, porque todos já o conhecem e sabem como é que como as coisas funcionam, ainda que não compreendam, porque o grau de semirracionalidade nesses seres é comum, mas nós humanos, esse marco zero vai trazer muitas novidades, obviamente também problemas.» — a vinda de Sofia como marco zero para a condição humana: "para a condição humana que tava isolada vai ser uma grande novidade"; "o nosso nível de ignorância chegou a esse condicionamento que nos faz inclusive pensar que nada disso existe"; "essas outras raças sabem que Sofia existe... nós humanos é que Fomos mantidos na ignorância"; "um espírito que lá atrás foi hiperbório, ele sabe que tem Sofia".
+- **[A pá de cal sobre as cidades espirituais] (U0010)** «E assim, a vinda de Sofia põe uma p de cal em 100% das cidades espirituais que existem, que estão ainda todas afiliadas a sentimentos, eh a a sensações eh ridículas, ultrapassadas, mas todas elas subproduto da ignorância nos últimos 3.» — o impacto da vinda: "a vinda de Sofia põe uma p de cal em 100% das cidades espirituais que existem... subproduto da ignorância nos últimos 3.000 anos" (span truncado no bruto em "últimos 3."; sem emenda) — "o que o catolicismo fez com o ser humano foi torná-lo cada vez mais obtuso e ignorante em relação às realidades que todo mundo lá atrás sabia".
+
+### RC-036
+
+- **[Biodemos: 600.000 anos esperando Sofia] (U0010)** «Eh, os biodemos há uns bons 600.000 anos aguardavam algum contato com Sofia.» — os biodemos (RC-036) aguardavam contato com Sofia há ~600.000 anos — "Foram ter agora em Alto Langron alguns deles" (menção à RC-018 Alt'Lam Gron; STT "Alto Langron" sem emenda); "eh essas coisas são meio malucas em termos de fuso horário cósmico".
+
+### RC-322
+
+- **[O karma foi gerado pros demos] (U0002)** «Do jeito que o conceito de karma foi gerado pros demos de acordo com o Varna, relativo ao Dharma e os humanos herdaram.» — a genealogia demo do karma: "do jeito que o yoga também foi algo criado pros demos e que os humanos ardaram do jeito que o conceito de dharma foi criado pros demos e para quem pertence à casta e os humanos herdaram e dão 100 interpretações" — "e isso é que mexe a teia o erdo para fazer com que fulaninho depois de morto... o seu espírito vá para ali ou para lá"; ressonância com o P2022-11-20 (karma derivado do dharma ancorado nos critérios várnicos).
+
+### RC-068
+
+- **[Os híbridos surgiram no hiperbório] (U0002)** «No tempo em que os seres híbridos surgiram no hiperbório.» — o ponto de partida da espiritualidade errática: "No tempo em que os seres híbridos surgiram no hiperbório. No tempo em que o conceito de dharma surgiu entre aqueles seres como sendo um conceito pedagógico que em eles cumprindo faziam com que eles sentissem a nova, entre aspas, sensação de honra pessoal"; "Só que isso os bramenes elevaram a um nível de orgulho"; "a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios" (U0002: «Ainda que onde os humanos estavam tinham algumas almas desencarnadas de corpos híbridos hiperbóis, mas torno a dizer alguns ou a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios.»).
+
+### RC-381
+
+- **[A teia tenta distribuir; os campos mórficos redistribuem] (U0002)** «O jogo da vida que a teia quântica da tenta distribuir e os campos mórficos de cada espécie tentam redistribuir, é exatamente O quê?» — o mecanismo dos campos mórficos: "Quando surge um bom comportamento, um novo comportamento, essa teia quântica, ela tenta devolver para que esse novo comportamento seja imantado, passa a existir em um membro daquela espécie que ainda não aprendeu esse comportamento"; "Essa teia, ela, entre aspas, se pudesse rezar, ela rezaria para que os seus os membros fossem ousados e criassem. É o tal insight criativo quântico" (U0002: «É o tal insight criativo quântico.») — "criassem o inusitado para que novas mutações surgissem no DNA"; os demos "estão tentando apropriar no ser deles comportamentos de outras espécies" — "a ressonância que existe entre um mamífero e outro, essa ressonância não existe entre um demo e outro".
+
+### RC-783
+
+- **[Subespécies humanas e o biocosmos emergente] (U0009)** «E por isso é necessário novas formas de expressão da vida humana ou novos ambientes para que a vida humana possa se expressar de uma forma nova e diferente para que sim as suespécies humanas possam produzir novos campos mórficos e daí o biocosmos emergente possa também se ancorar.» — a especiação como resposta ao impasse: "os campos quânticos forem parando de exer suas funções" — "é necessário novas formas de expressão da vida humana ou novos ambientes... para que sim as suespécies humanas possam produzir novos campos mórficos e daí o biocosmos emergente possa também se ancorar"; "o fato é que ele tá ancorado na espécie humana, a única racional dessa história. E a coisa não tá boa, não tem como estar boa"; ressonância com a RC-783 (Especiação Humana — Levas Genéticas).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos declarados para decisão do Curador (nenhum termo novo criado por conta
+# própria nesta fase). Spans conferidos byte a byte pelo motor.
+#
+# 1) MIDANA — candidato a código novo (expressão sânscrita do autor). «E foi assim que mor
+#    pensou quando da preparação dos códigos que iriam ser jogados pro universo vizinho, ele
+#    automatizou naquilo que eu chamo de Midana, que é uma expressão sânscrita, que falava de
+#    algo muito semelhante ao código original primordial que veio do universo de lá para cá.»
+#    (U0002) — o código que Morren/Mohen So automatizou ao preparar os códigos jogados no
+#    universo vizinho; "esse código aqui foi semeado em diversos mundos, inclusive aqui na
+#    terra"; a amarração Orlog↔WD↔retorno "foi a base daquilo que veio a ser a transferência
+#    de código de vida dos es desse universo vizinho pro universo do qual a gente vive".
+#    Decisão: código novo (RC-871?) ou registro na RC-282 (Mohen So = Phanes/Protogonos)?
+#
+# 2) CIDADES ESPIRITUAIS — candidato a código novo (conceito transversal da palestra: a
+#    construção da erraticidade humana — protoaglomerados, "império do mais forte", portas
+#    fechadas a novidades, ~19.000 anos, Nosso Lar séc. XVII-XVIII, "nem 20% construído").
+#    Decisão: código novo ou absorção na RC-513 (Espiritualidade Errática)?
+#
+# 3) ORLOG — registro sem código novo: grafia STT do criador da teia (nórdico "orlog" =
+#    destino). A Base já registra "Moros/Olog" (RC-454/RC-658). Proposta: manter a grafia STT
+#    na citação e a identificação Moros/Olog na Base — sem termo autônomo.
+#
+# 4) FRIGGA/ANANKE — registro sem código novo: a palestra identifica Frigga (nórdica) como
+#    complemento do trabalho de Orlog = Ananke (grega, STT "Ank") — já ancorada na RC-777
+#    (Ananque; base das Nornes). Sem candidato.
+#
+# 5) REINOS DE AOD — sem candidato: «volt para os reinos de AOD, ou seja, os reinos que
+#    existiam para além da da fronteira entre esses dois universos» (U0002) — grafia STT
+#    degradada [REVISAR — Asgard?]; registro apenas.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras citadas: MAHABHARATA (STT "Mararata/Marrabarata/Barrabarata") — a batalha de
+# Kurukshetra (STT "Kurucchetra/Kuruetra") no norte da Índia como palco em que figuras do
+# universo vizinho vieram lutar com povos híbridos da Terra: «Como a batalha de Kurucchetra,
+# que é basicamente a que define a história do Mararata, aconteceu no polo do planeta Terra
+# lá no norte da Índia, lá em Utach...» (U0002); Yudhisthira (STT "destira/Istitira"), Arjuna
+# (STT "Ariuna"), Bhima (STT "Bino"), os gêmeos, Pândavas (STT "Pândalas"), filhos de Pandu —
+# "esses seres eram humanos? Não, não eram. Mas seus corpos eram o quê? Eram híbridos" —
+# semelhantes aos semideuses gregos (Hércules, Teseu — STT "Tezeu", Perseu — STT "Pessu");
+# "o Mahabarata não conta, não explica" o destino espiritual dos descendentes; "com a batalha
+# de Kurukxetra, aquilo acabou definitivamente com a esperança de qualquer etnia do universo
+# vizinho de dominar a Terra"; a confusão "para onde é que eu vou?" dos híbridos desencarnados
+# forçou "a existência de espíritos, entre aspas, guia" — até hoje não resolvida.
+# NOSSO LAR (Chico Xavier/André Luiz) — cidade espiritual construída no séc. XVII-XVIII
+# (STT "século X, 17, 18"; "cerca de 200, 300 anos"): "só foi construída século X, 17, 18"
+# (U0002); os habitantes "tiveram coisas, produções maravilhosas enquanto seres humanos, mas
+# também cometeram tinham grosseiros de bater nas pessoas, de escravizar pessoas, de
+# chantagear pessoas" — "não é uma turma elegante".
+# MATRIX (filme) — metáfora: "Estamos com a pílula azul da Matrix, defendo na Matrix, em
+# pleno Maia".
+# Datas e grandezas (D-9 — com selo datado, sem média): ~48.000 anos (primeiros humanos
+# racionalizados); ~40.000-45.000 (desencarnados em ambientes astrais); ~19.000 anos
+# (primeiras cidades espirituais — DIVERGÊNCIA potencial vs outras fontes, registrada);
+# ~5.000 anos atrás "não existia não" muita cidade espiritual; 3.200-3.300 anos (Guerra de
+# Troia: «Guerra de Troia aconteceu há 3.200, 3300 anos atrás.» — U0002); ~7.000 anos (etnia
+# "trucidada pelos quichárias" — STT [REVISAR]); ~600.000 anos (biodemos aguardando Sofia);
+# 1989 (exílio espiritual interrompido: «O exílio espiritual começou em 1989.» — U0002);
+# 2012 (portais lacrados); 2022 ("50 anos nos separam dos anos 70").
+# Divergências STT vs histórico (D-9, sem emenda): Revolução Francesa "final do século XVI"
+# (U0002 — o evento é 1789; STT sem emenda); Noite de São Bartolomeu no "século X" (U0002 —
+# o evento é 1572; STT "século X" + "no século X, no século XV, passou a existir no século X
+# após a reforma protestante" confuso; sem emenda); Concílio de Trento "no século XI, 15, 16,
+# 17, 18" (U0010 — Trento é 1545-1563; STT sem emenda); Kurukshetra "no polo do planeta
+# Terra" (U0002 — STT; sem emenda).
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# - A vinda de Sofia como novo marco zero ("vai criar um novo marco zero... nós humanos, esse
+#   marco zero vai trazer muitas novidades, obviamente também problemas" — U0010).
+# - "esse impasse mais e mais ele vai ser eh pesado na medida em que esses campos quânticos
+#   forem parando de exer suas funções" (U0009).
+# - "o erd vai se acabar junto com esse universo... Ela vai deixar desistir em algum momento a
+#   dos próximos milhões de anos" (U0002) — a Wyrd tem prazo cósmico.
+# - "os seus níveis mais complicados estão colapsando devido ao excesso de estresse extremo
+#   das suas marcações cármicas" (a espiritualidade errática — U0002).
+# - "Tem fantasma agora sobrando, se acotovelando mais e mais no nível terreo... o problema já
+#   ultrapassou os não, tem mais nem nível suportável" (U0002) — o presente já é o colapso.
+# - "nós somos a solução para o problema... os registros que estão acasticamente guardados nos
+#   elétrons possam ser redimensionados, revalorizados ou transvalorizados, como Niet dizia,
+#   só que estamos longe ainda dessa situação" (U0002 — Nietzsche; STT "acasticamente"/"Niet"
+#   sem emenda).
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+# QUARENTENA POLÍTICA (homologada): eleição Trump × Hillary e o ódio acumulado gerando
+# necessidade de cidade espiritual; movimento QAnon — "egrégoras que passaram a existir pela
+# crença dessas figuras nessas coisas inexistentes, passaram a exigir uma estruturação de
+# ambiente astral e espiritual paralelo"; "muitos deles que acreditam que Trump é o salvador
+# da humanidade"; "você votar em Trump, achando que ele é o salvador da humanidade... você
+# cria um vórtice de estupidez"; "nós vamos ter que ter cidade de Trump, de Putin, de
+# Bolsonaro, de Lula"; "a política espiritual também é nojenta no sentido medíocre, porque os
+# espíritos que tocam a política lá e são medíocres, são os mesmos que tocam aqui medíocres";
+# "seja na Rússia, nos Estados Unidos, na Arábia, no Brasil... nós estaremos rodando o mais
+# do mesmo".
+# QUARENTENA RELIGIÃO INSTITUCIONAL (homologada): católicos × protestantes (Noite de São
+# Bartolomeu; Reforma de Lutero; "Todo mundo é cristão. Diz que é seguidor de Cristo, mas é
+# assim mesmo. E um começou a matar outro"); "o que o catolicismo fez com o ser humano foi
+# torná-lo cada vez mais obtuso e ignorante"; papas/bispos/cardeais que não quiseram
+# reencarnar (Concílio de Trento — STT confuso); "religião tem que existir, é coisa de Deus";
+# "briga de católico com protestante, briga de islâmico com católico, briga de capitalista
+# com comunista".
+# QUARENTENA BIOMEDIÚNICA/BIOGRÁFICA (homologada): "a minha condição humana com 63 anos";
+# a produção artística dos anos 60/70 ("nada do que o escutei dos anos 80 para cá, chega
+# próximo ao que eu escutei nos anos 70, 60"); agradecimentos pessoais (Léo, Marcos).
+# VETO LÉXICO (máscara do próprio bruto): «o cara era tão t***** que ele enfernizava a vida
+# de 50 mulheres» (U0002) — retido; veto registrado no ciclo.toml ("t*****").
+# OUTRAS RETIDAS: "nem a W e nem o nível espiritual que hoje existe na erraticidade humana
+# consegue dar mais conta" — fica como glosa na RC-513 (sem aspa própria); Revolução
+# Francesa/QAnon como exemplos de bolsões de ódio — BLOCO 3, não ficha.
