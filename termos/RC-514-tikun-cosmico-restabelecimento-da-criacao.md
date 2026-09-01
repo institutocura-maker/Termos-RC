@@ -101,10 +101,17 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 
 - **[O colapso de Javé: condição do Ticum] (U0055)** «O colapso de Javé, entre aspas, é a única forma de tornar possível o Ticum.» — "não necessariamente nos termos em que esse colapso se deu, poderia ser de outra forma"; a anestesia: "sabe aquele doente que tem que ser anestesiado para poder ser ajudar? Porque enquanto ele não for, ele não deixa ser ajudado"; "o eu dele foi descaracterizado, mas esse eu dele também não servia para nada"; o ciclo futuro: "essa coisa vai nascer um dia como ser biodemo. Essa coisa vai se tornar um ser biodêmio e esse serbiodêmio um dia vai nascer como ser humano, nem que seja numa humanidade regenerada, especiada lá na frente" (U0055: «Essa coisa vai nascer um dia como ser biodemo»); "sem arrependimento não há regeneração" — "Javé tem que saber que é ele, esse ser que um dia lá na frente vai existir, é Javé, para que ele possa cometer o ato de consciência em si mesmo de, entre aspas, perceber que não foi bom"; "o ticum vai ser realizado lá na frente se houver condições para tanto" (U0055: «Então o ticum vai ser realizado lá na frente se houver condições para tanto»).
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[O tikum: o conceito que a cabala nunca entendeu] (U0009)** «E essa coisa ficou até hoje ninguém sabe o que é isso, mas o ticum é lá fora que tem que ser realizado.» — o conceito cabalista (séculos 2-4 d.C.) deformado pelas reversões do "orador de Javé": "os próprios cabalistas engrandeceram Keter, que é a primeira sefirá da árvore da vida" (U0009: «Porque mesmo esse ser dizendo ou tentando dizer o que houve com ele, mas a turma que recebia era do orador de Javé, então fazia essas reversões e os próprios cabalistas engrandeceram Keter, que é a primeira sefirá da árvore da vida.»); o "abismo de luz" como eufemismo do deus caído: "Ou seja, nenhum abismo tem luz" (U0009: «Ou seja, nenhum abismo tem luz.»).
+- **[O tikum se realiza lá fora, promovido pelas mentes de dentro] (U0009)** «O Ticum ele é realizado lá fora, mas ele é promovido a promoção da sua realização pelas mentes que estão dentro da do abismo de DAF, o abismo de luz.» — o tikum é levar esse ser à condição que ele tinha antes, mas "esse ser faliu, ele não consegue fazer nada" (U0009: «Então o ticum é esse ser para uma condição que ele tinha antes, que seria a resolução, mas esse ser faliu, ele não consegue fazer nada.»); o problema só foi percebido "mais acentuadamente depois dos anos 2005, 6 e 7 aqui do nosso calendário" (U0009: «E só se percebeu esse tipo de problema mais acentuadamente depois dos anos 2005, 6 e 7 aqui do nosso calendário.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

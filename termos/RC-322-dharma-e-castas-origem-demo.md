@@ -57,9 +57,15 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 - **[O varna: a base do dharma] (U0007)** «Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento.» — "o Varna é a base do conceito do dharma. que é o dever sagrado de cada um, cujo dma era fazer uso do sangue humano e de outros animais" (U0007: «O Varna é a base do conceito do dharma»); "as quatro principais castas que Ixivaco lá atrás começou a implementar... Os sudras são também chamados de dálides" (U0015: «Os sudras são também chamados de dálides»); "Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores" (U0015: «Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores.»).
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[O problema pendente das castas] (U0021)** «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — a dupla face da ahimsa (STT "arima"): "o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?" (U0013: «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?»); "a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim" (U0013: «É uma face, mas a outra face é o controle terrível, que quem quer controlar bilhões de seres humanos condiciona que eles ajam assim.»); "Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado" (U0013: «Eles vão morrer de fome, mas não matam a vaca para comer, porque eles foram condicionados a agir assim: uma vaca é animal sagrado, um macaco é animal sagrado, tudo é sagrado.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |

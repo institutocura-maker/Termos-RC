@@ -50,10 +50,16 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 - **[3.600 espécies de vírus por segundo] (U0070)** «A cada 1 segundo são mais de 3.600 espécies de vírus diferente que existe no nosso corpo tentando invadir as células do nosso corpo.» — a clínica humana "sabe muito, mas ainda conhece pouco"; "É atitude mental que define esse processo." (U0070: «É atitude mental que define esse processo.»); "a gente precisa de apoio, precisa de remédio, precisa de vacina, porque ninguém consegue dar conta" (paráfrase U0070); RC-562.
 
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[O DNA quase todo "morto": 98,8% inativo] (U0012)** «Um dia a gente entenderá que o nosso DNA tem 97, 91, aliás, a última edição feita, o nosso DNA tem 98 ponto oito de DNA, entre aspas, morto, e só 1.2 ativo.» — a medição varia e o percentual cai (D-9 vs 2-3% do P2022-07-16; o autor cita 3,5/4,2/2,5 noutras fontes): "Quanto menos o nosso DNA ativo nessa história ele aparenta ser implica dizer que menos Javé controla a gente" (U0012: «Quanto menos o nosso DNA ativo nessa história ele aparenta ser implica dizer que menos Javé controla a gente e como eu dele há um tempo atrás.»); "o objetivo é ficar 0,1 só" (U0012: «Então isso tudo faz com que porque o objetivo é ficar 0,1 só.»); "esse DNA lixo não é lixo coisa alguma" (U0012: «a gente precisa ver o que é que presta pra gente reacender e aquilo que de fato é lixo, porque esse DNA lixo não é lixo coisa alguma.»); "Tem 100 funções que que que são feitas, coordenadas a partir do jogo químico que lá acontece" (U0012: «Tem 100 funções que que que são feitas, coordenadas a partir do jogo químico que lá acontece.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |

@@ -57,9 +57,15 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 - **[O livro Rebelião dos Elétrons: 1 de 11] (U0070)** «E foi aqui que começou a surgir a rebelião dos elétrons.» — a obra: "Um já tá lançado, faltam 10." (U0072: «Um já tá lançado, faltam 10.»); o quarto logos e amigos espirituais marcaram junto com o autor enquanto as palestras eram produzidas (paráfrase U0072); "não tem ninguém por trás" — nenhuma mente deletéria controla os elétrons; a pureza de uma criança ou de um bezerro mexe mais neles que a intelectualidade (paráfrase U0081); RC-636.
 
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[O campo de higumig: Mavatma freou as partículas superluminais] (U0012)** «Aí esse sermavatma aplicou um campo de força mental que hoje a gente chama como campo de higumig Foi o campo que pegou essas energias superluminaismente pra brágne e diminuiu a velocidade delas.» — a física da criação: "a energia sátiva foi que organizou os quarks para que baterem um no outro com os bosons gluon colando três quarques um prótono, três quarqu nêutron" (U0012: «Então Mavatma foi que fez esse movimento, a energia sátiva foi que organizou os quarks para que baterem um no outro com os bosons gluon colando três quarques um prótono, três quarqu nêutron.»); "A força eletro a fraca que traz um elétron, um lepton para se juntar o núcleo atômico" (U0012: «A força eletro a fraca que traz um elétron, um lepton para se juntar o núcleo atômico.»); "o limite do nosso espaço tempo é a velocidade da luz e acima disso aqui são a as partículas hiper" (U0012: «Por isso que o limite do nosso espaço tempo é a velocidade da luz e acima disso aqui são a as partículas hiper, né?»); "essa mente mavat mesmo lá de fora e meio combalida fez isso tudo" (U0012: «Ou seja, essa mente mavat mesmo lá de fora e meio combalida fez isso tudo.»).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |

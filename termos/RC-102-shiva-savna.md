@@ -152,10 +152,17 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[Chiva criou Krishna e Saibaba por causa do olhar de amor] (U0006)** «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?» — "realmente, né? E é meio o Chiva número dois" (glosa); um avatar híbrido e outro humano; "o Chiva real, o Chiva que tem função nessa história é o um e o três e principalmente o três" (glosa sem aspa): "se eu não destruir, ninguém destruirá do noso, permitindo a reciclagem, permitindo o ressurgimento" (glosa sem aspa).
 - **[O opúsculo de Chiva: o Chiva Samita] (U0006)** «E ele uma vez me disse que quando ele me fez chegar nas minhas mãos um pequeno opúsculo que ele escreveu através de seguidor dele da antiguidade que se chama Chiva Samita, seus escritos de Chiva e que ele soltou lá uma frase dizendo: "Nessa criação todos sofrem o tempo todo, tudo é sofrimento".» — "E ainda assim os chivaistas enaltecem isso como maravilha" (glosa sem aspa); o segundo Chiva como o que entende a parceria no azar; o livro Shiva Samhita (grafia canônica) como um dos escritos de Chiva.
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[As três fases do trabalho de Chiva] (U0012)** «Então, a primeira fase é a ferição dos elementos comprometedores que existiam na criação.» — a segunda fase: "ele teve que destruir tudo que não prestava para poder dar espaço para que as coisas que prestavam pudessem ocupar" (U0012: «A Segunda, ele teve que destruir tudo que não prestava para poder dar espaço para que as coisas que prestavam pudessem ocupar.»); as sete primeiras eras correspondem às duas primeiras fases do planejamento de Chiva — "mas a terceira ele não vai conseguir fazer" (U0012: «Então, é importante que a gente compreenda só isso, que essas sete primeiras eras correspondem a as duas primeiras fases da do planejamento de Chiva, mas a terceira ele não vai conseguir fazer.»); para as três fases, "Shivan gerou então avatares" (U0012: «Shivan gerou então avatares para as três fases da sua operação.»).
+- **[A falência de Chiva] (U0012)** «Do jeito que Virgem se desintegrou, do jeito que Brama implodu, Chiva vai embora junto comigo por questões outras.» — "Ele fez 100 planos. Desses 100 não sobrou nenhum plano porque deu tudo errado" (U0012: «Ele fez 100 planos. Desses 100 não sobrou nenhum plano porque deu tudo errado.»); a rede de avatares: "O espírito de Chiva toma conta mais de 1000" (U0013: «O espírito de Chiva toma conta mais de 1000.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |

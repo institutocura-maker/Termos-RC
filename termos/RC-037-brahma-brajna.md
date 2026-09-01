@@ -135,9 +135,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[O maha samadhi de Brama] (U0063)** «Faça você mesmo um marra samadi e se desconstitua dessa forma de daiva sua porte.» — o diálogo do livro Inquisição Trimurtiana: Rogério a Brama, quando Shiva disse "Ele venceu" (paráfrase U0063); "A resposta dele não demorou um segundo." (U0063: «A resposta dele não demorou um segundo.»); Brama se desconstituiu em menos de um mês — as fórmulas de poder que colecionava estavam ferrando o espírito dele (paráfrase U0063); STT «marra samadi» (maha samadhi), «daiva» (deidade); RC-037 Brahma.
 
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[Brama: o segundo problema, a face local do ser caído] (U0009)** «O segundo problema é que no que foi gerado e esse ser caiu, essa figura que se reconstruiu como brama, desde que ele existe como brama, ele só fez coisas erradas aqui dentro.» — "E Brama é só uma face desse espírito caído lá em perpétua" (U0012: «E Brama é só uma face desse espírito caído lá em perpétua.»); a queda desintegrada em seres unicelulares: "quando esse ser caiu, ele caiu desintegrado do que a gente chama de vírus" (U0009: «Se reconstruiu lá com Bom, quando esse ser caiu, ele caiu desintegrado do que a gente chama de vírus.»); "Aqui a gente chama de bactérias, protozoários, cianobactérias e algumas canoalgas, desculpa, e algumas espécies de fungos" (U0009: «Aqui a gente chama de bactérias, protozoários, cianobactérias e algumas canoalgas, desculpa, e algumas espécies de fungos.»); "tem partes podres de Javer que não tem jeito" (U0091: «Entenda, tem partes podres de Javer que não tem jeito.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |

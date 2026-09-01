@@ -91,9 +91,15 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 - **[Prabrajna — a divindade mãe] (U0006)** «Feito isso, esse ser ressuscitado mais tarde pode eh deverá deixar o âmbito interno da criação indevida e reconstruir a sua perdida condição de prabragen, a divindade mãe dessa criação.» — o eu ressuscitado do criador reconstruirá a condição perdida de Prabrajna (STT "prabragen").
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[O erro original de Prabrajna: o primeiro dos dois problemas] (U0009)** «Um é o erro original de um ser chamado para Brag.» — os dois problemas da criação como as duas causas de tudo: "Esses dois problemas são as duas causas mais de tudo que existe, que a gente conhece nesse drama" (U0009: «Esses dois problemas são as duas causas mais de tudo que existe, que a gente conhece nesse drama.»); o erro está lá fora, fora da blindagem, ocorrido antes da revolução do buraco branco: "o espírito dele que ficou no nível da espiritualidade laboratorial de perpério, está lá e o problema está instalado nele" (U0009: «Um fora, tô dizendo fora da blindagem, porque ocorreu antes da revolução do buraco branco que surgiu da mente de Probrágina ou tragar, mas o espírito dele que ficou no nível da espiritualidade laboratorial de perpério, está lá e o problema está instalado nele.»); neutralizado, mas "ainda assim é tremendamente atuante" (U0009: «Mas ainda assim é tremendamente atuante.»); "Surgiram dois universos, ele caiu no de lá" (U0009: «Surgiram dois universos, ele caiu no de lá.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | A Epopeia dos Agentes da Vida Universal (B024) | caps. 1, 3, 15, 16 | pp. 14–17, 32–36, 109–114 | ocorrências centrais |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | — |

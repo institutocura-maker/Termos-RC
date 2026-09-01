@@ -68,9 +68,16 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 - **[Mandara como bastão, Vazuk como corda: a mecânica do batimento] (U0013)** «O Samudra Mantã, portanto, foi um evento onde os Vedas e os assuras pegaram uma montanha chamada Mandara, transformaram Mandara num bastão para baterem o fundo do oceano atrás de Amrita.» — asuras pela cabeça, devas pela cauda, Ananta forçando o capelo: "Depois disso, os assuras passaram a seguravam Vazuk, que é o rei das cobras e dosagões pela cabeça" (U0013: «Depois disso, os assuras passaram a seguravam Vazuk, que é o rei das cobras e dosagões pela cabeça.»); e os devas pela cauda, enquanto um outro ser cobra chamado Ananta, príncipe das cobras, forçava o capelo, ou seja, a cabeça de vasoqui a soltar pela boca e nariz, vapores e outras emulações com alta temperatura" (U0013: «e os devas pela cauda, enquanto um outro ser cobra chamado Ananta, príncipe das cobras, forçava o capelo, ou seja, a cabeça de vasoqui a soltar pela boca e nariz, vapores e outras emulações com alta temperatura.»).
 
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[Morensor não planejou a raça humana] (U0021)** «Não é que Morençou tenha planejado a futura raça humana.» — "De fato, Morençou não planejou a emergência da raça humana" (U0021: «De fato, Morençou não planejou a emergência da raça humana.»); "Não estava, mas a raça humana emergiu a partir desses elementos" (U0021: «Não estava, mas a raça humana emergiu a partir desses elementos.»); a hipótese da ancestralidade: "Talvez a ancestralidade de Olm e Elm, que são as duas figuras que da mergulhar junto com os seis da da condição AD" (U0021: «Talvez a ancestralidade de Olm e Elm, que são as duas figuras que da mergulhar junto com os seis da da condição AD.»).
+- **[Moros, Ananke e o Nidana jogado] (U0021)** «Porém, ele usou as relações de Moros e de Anque.» — "E morren pegou isso aí, fez um trabalho de elementos, juntou ao código das três cabeças que tinha no corpo dele, fez fez uma misturela e esse Nidana foi o que foi jogado de lá para cá" (U0021: «E morren pegou isso aí, fez um trabalho de elementos, juntou ao código das três cabeças que tinha no corpo dele, fez fez uma misturela e esse Nidana foi o que foi jogado de lá para cá.»); a codificação da podridão ancestral: "8 bilhões de anos, mor ou bava ou outros nomes que tem, foi quem olhou assim pros três e só começou a codificar o peso da podridão ancestral em cada um" (U0021: «8 bilhões de anos, mor ou bava ou outros nomes que tem, foi quem olhou assim pros três e só começou a codificar o peso da podridão ancestral em cada um.»).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |

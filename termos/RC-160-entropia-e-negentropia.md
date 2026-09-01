@@ -94,3 +94,7 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 
 - **[A energia tamásica e o universo rasgado] (U0036)** «Agora o universo tá fazendo ao contrário, tá rasgando tudo isso.» — o mesmo selo do P2022-09-18: a energia tamásica como garantia do fim (RC-160): "no início que foi energia fazendo quarques se juntarem, criar um próton... Agora o universo tá fazendo ao contrário, tá rasgando tudo isso" (U0036: «Agora o universo tá fazendo ao contrário, tá rasgando tudo isso»).
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[A entropia: a energia tamásica crescendo até 100%] (U0012)** «Quando ela chegar 100% você acaba tudo. Isso chama-se entropia.» — "eu vou aplicar a minha energia tamásica aqui leve, mas ela vai crescendo, crescendo, crescendo" (U0012: «Ela, então vamos dar um tempo, eu vou aplicar a minha energia tamásica aqui leve, mas ela vai crescendo, crescendo, crescendo.»); "É uma face da opia que garante que tudo aqui vai acabar tudo o quê?" (U0012: «É uma face da opia que garante que tudo aqui vai acabar tudo o quê?» — STT; sem emenda).
+

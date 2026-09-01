@@ -12,23 +12,23 @@ arquivo_fonte = "original.txt"
 pacote = "pacote_P2021-06-26.txt"
 sha256_fonte = "c77379a9ba0ac7fd7cb49a246eef0f6ad8e84304b95b617980dfad94b9f3cb5a"
 
-baseline_commit = "f93416f"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+baseline_commit = "e95a2ec"   # aplicação após ciclos intermediários (P2021-02-28/P2021-04-10); delta medido do estado pré-aplicação
 portoes_ativos = ["A", "B", "C", "D"]
 max_perolas = 25
 exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (106.740 B / 94 linhas / 62 com fala / 18.413 palavras / 103.103 chars; cobertura 7/7 fatias provada; maior linha ~23.344 chars). Tese: o erro de Brahma e o tikum — dois problemas originais da criação (o erro do ser caído lá fora da blindagem, Prabrajna, na espiritualidade laboratorial de Perpério, e os erros de Brama aqui dentro desde que se reconstruiu); as 10 eras da história do universo (solidão, gestação, punição, impasse, aceitação, semeadura universal, refino, divisão do comando com a chegada de Sofia, assunção do conectoma e supercivilizações — o livro Drama Terreno de Isabel), que correspondem às duas primeiras fases do trabalho de Chiva (ferição dos elementos comprometedores e destruição criativa) — a terceira, a reconstrução, ele não vai conseguir fazer: Chiva faliu (100 planos, nenhum sobrou; rede de +1000 avatares; Krishna como avatar; Sai Baba e os avatares humanos prisioneiros das castas), a Trimurti criou o ser de quatro cabeças e Morrensor (Phanes/Protogonos) reviveu-a usando Moros e Ananke; o quarto logos (não gerado por Om e Elm — patrocinado pela condição adi de Chiva) com a humanidade e a especiação; a biologia do ponto fora da curva: a Bemisia tabaci (a mosca branca que incorporou o gene vegetal há 35 milhões de anos) como metáfora do humano que domou o gene de Javé ('a gente manda em Jaavé'), o DNA 98,8% 'morto' e só 1,2% ativo, a criatura universal (CFDMO + DNA bio + DNA de Pandora + DNA de Chiva/Vishnu = a chave genética para desligar a criação), a entropia como energia tamásica de Chiva crescendo até 100%, o campo de higumig de Mavatma (a física da criação: quarks, bósons, força forte/fraca), e o problema pendente das castas (ou a Terra fica inviabilizada). Recolhe 25 formulações PRECISAS em 19 códigos (todos com ficha: RC-155, RC-514, RC-152, RC-037, RC-102, RC-104, RC-282, RC-042, RC-092, RC-783, RC-562, RC-001, RC-636, RC-160, RC-725, RC-481, RC-322, RC-009, RC-094). NENHUM termo novo criado no garimpo: 4 candidatos declarados no BLOCO 2 com AUTORIZAÇÃO da devolutiva de 01/09/2026 (Rara; Bemisia tabaci/mosca branca; Savant; Campo de Higgs — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2); yoga do sono e do sonho → absorção em RC-557 + RC-725 (sem código), conforme devolutiva. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-883", "RC-884", "RC-885", "RC-886"]
 veto_lexico = ["m****"]   # máscaras do próprio bruto: m**** ×5 — 5 ocorrências
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
 arquivos = 0      # fichas criadas por este ciclo
 ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+termos = 4       # termos novos: RC-883 Rara, RC-884 Bemisia tabaci, RC-885 Savant, RC-886 Campo de Higgs (fila aberta)
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 23    # 19 fichas ampliadas + 4 termos novos
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)

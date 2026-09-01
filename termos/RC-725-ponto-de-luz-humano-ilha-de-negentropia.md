@@ -94,9 +94,15 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 
 - **[As almas como depósito de lixo; a limpeza possível] (U0036)** «As almas da gente são depósitos de lixo dos arquivos emprestáveis experiências desses seres.» — "aí nós humanos é que podemos limpar esses arquivos emprestar dignidade, decência, sentimento de amor, carinho" (U0036: «Aí nós humanos é que podemos limpar esses arquivos emprestar dignidade, decência, sentimento de amor, carinho»); "toda e qualquer vida que exista por aí é um sistema estruturado pulsando" (eco do P2022-09-18; U0036: «A única solução que tem» — span truncado).
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[A yoga do sono e do sonho: a mesma consciência nos três estados] (U0012)** «É, nós temos uma consciência, segundo o budismo que transita, a gente vai ver isso amanhã, da consciência de vigília para consciência do sonho, paraa consciência do sono.» — "Mas é a mesma consciência trabalhando o tempo inteiro" (U0012: «Mas é a mesma consciência trabalhando o tempo inteiro.»); a antiguidade do conhecimento: "há 17.000 anos que esse conhecimento tá disponível pros ancestrais e os tibetanos, que é a chamada yoga do sono e do sonho" (U0038: «Voltando pro caso A, há 17.000 anos que esse conhecimento tá disponível pros ancestrais e os tibetanos, que é a chamada yoga do sono e do sonho.»); "a yoga do sono e do sonho da vigília dos tibetanos é a melhor forma de você compreender as sequências do seu eu" (U0038: «Mas é assim, a yoga do sono e do sonho da vigília dos tibetanos é a melhor forma de você compreender as sequências do seu eu.»).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |

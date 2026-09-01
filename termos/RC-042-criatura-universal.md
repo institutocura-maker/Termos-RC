@@ -54,10 +54,17 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 - **[A criatura universal e o eu perene] (U0070)** «É isso que eu chamo criatura universal.» — a especiação futura que finalizará o trabalho: "Em algum momento o eu que funcionar tem que ficar trabalhando perenemente aqui dentro, porque é muito risco você abrir mão de um corpo em que seu eu tava hospedado." (U0070: «Em algum momento o eu que funcionar tem que ficar trabalhando perenemente aqui dentro, porque é muito risco você abrir mão de um corpo em que seu eu tava hospedado.»); a ressurreição do eu de Javé exige massa crítica e a mente biocosmos emergente (paráfrase U0070; BLOCO 2 — Biocosmos); RC-042.
 
 
+## Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro de Brahma e o Tikum)
+
+- **[A criatura universal e o tikum] (U0021)** «Ou seja, a criatura universal que vai surgir lá na 10ª era ou na nona era ou já a partir da oitava era, que é a era da divisão do comando, após a vinda de Sofia e o comando fica todo a partir daqui, quando a turma mergulhar esse universo vizinho, pouco importa, mas a turma que vai fazer o ticum no final, o DNA dessas figuras que são serão produzidos a partir da especiação da espécie humana e de outras espécies também, tá?» — quem fará o tikum precisa do código no genoma, mas "esse código é podre, porque ele é produto da queda da mente de Probrágo" (U0021: «Então, quem vai fazer o ticum tem que ter esse código no seu no seu genoma para poder atuar nele lá fora, mas só que esse código é podre, porque ele é produto da queda da mente de Probrágo.»); o ser reestruturado "não precisa estar 100% recomposto, ele precisa estar 100% limpo" (U0091: «Então, o ser reestruturado lá na frente, ele não precisa estar 100% recomposto, ele precisa estar 100% limpo.»).
+- **[A fórmula da chave genética] (U0021)** «CFDMO com DNA bio mais o DNA humano com expressão de Pandora mais o DNA humano com expressão de chiva de vigo.» — a equação da criatura universal: "universal dotada chave genética para desligar a criação" (U0021: «universal dotada chave genética para desligar a criação.»); "Se não tiver esses componentes aqui, não desliga, não reconstrói o DNA de Brama" (U0021: «Se não tiver esses componentes aqui, não desliga, não reconstrói o DNA de Brama.»); o código fonte definidor demo como requisito do concerto final: "o concerto final de tudo lá fora requer a participação de um código fonte definidor demo misturado com o DNA biológico como sendo uma molécula" (U0021: «E hoje isso já mais ou menos existe como o ticum, ou seja, o concerto final de tudo lá fora requer a participação de um código fonte definidor demo misturado com o DNA biológico como sendo uma molécula, mas outra molécula de um DNA consciado a espíritos 100% libertos e esclarecidos.»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
