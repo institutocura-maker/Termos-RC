@@ -1,0 +1,72 @@
+# ciclo.toml — ciclo leve P2022-12-03 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-12-03"
+titulo = "O Ocaso do Criador e a Rebelião dos Elétrons"
+data_fonte = "03/12/2022"
+pasta_fonte = "ciclos/P2022-12-03"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-12-03.txt"
+sha256_fonte = "254fce682940f9f016d0b8a129f0aeb68d5f34238dfe5f0e3c5cdc4b16a92b29"
+
+baseline_commit = "b6fe7f1"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (121.752 chars / 24 linhas / 15 com fala / 21.828 palavras). Tese: a causa sistêmica da derrocada do criador reconstruído (Javé) — os elétrons, saturados de memorização deletéria, não puderam mais pulsar para manter a podridão organizada (a rebelião como percepção matemática quântica); o eu do criador ficou desalojado; tudo se concentra no lado A como tikum cabalístico — tarefa dos humanos, que produzem as proteínas novas pela pulsação digna. Recolhe formulações PRECISAS para 21 códigos JÁ EXISTENTES (RC-001, RC-037, RC-378, RC-161, RC-636, RC-160, RC-174, RC-514, RC-332, RC-102, RC-092, RC-691, RC-565, RC-562, RC-783, RC-727, RC-265, RC-573, RC-395, RC-381, RC-725). NENHUM termo novo por conta própria: 7 candidatos declarados no BLOCO 2 (ocaso do criador; DNA neutralizado; pulsação digna; proteínas como último fator estruturado; guardadores de lixo memorial; táquions — fonte externa; ajuste fino — navalha do curador), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []   # decisão do Curador na devolutiva (candidatos no BLOCO 2 do pacote)
+veto_lexico = ["p****", "m****", "b******", "e******"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo (garimpo: nada aplicado; devolutiva decide)
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O ocaso do criador: o criador número um caiu há ~13 bilhões de anos e se reconstruiu dentro da criação como Javé/Brama (RC-001/RC-037). Agora o criador reconstruído também apodreceu — os sistemas operacionais que o mantinham vivo colapsaram, o eu perdeu o corpo e ficou desalojado, 'é um eu novamente parasitário'. A causa sistêmica é a rebelião dos elétrons (RC-378): saturados de memorização deletéria (RC-161), não puderam mais pulsar para manter a podridão organizada.",
+  "A rebelião não é indignação: 'é uma simples percepção, vamos dizer, matemática quântica, de que o que eles estão sendo obrigados a fazer não vai funcionar' — os elétrons leem pelos táquions o que já está escrito. A entropia (RC-160) está zerando tudo; o colapso colmeico de Javé e dos anjos (RC-174) foi presenciado pelo autor; o ponto de inflexão foi 1998–2019.",
+  "O tikum (RC-514): com o fim do universo vizinho, todos os problemas foram concentrados no lado A para serem consertados pelos humanos — o plano virou 'o único projeto desesperador' dos seres. A tarefa é a pulsação digna: só ela cria ilhas de negentropia (RC-725) e produz proteínas novas (RC-562) — o último fator estruturado, que o DNA neutralizado de uma minoria exportará para as descendências especiadas (RC-783).",
+]
+
+[definicoes]
+
+[observacoes]
+RC-001 = "**Grafias STT registradas (sem emenda):** Sáveina/Savna = Shiva (RC-102); para Bragna = Para Brajna (RC-691); Viaza/Viasa = Vyasa; Zorrar = Zohar (RC-611/RC-265); El Musk = Elon Musk; loquias = locas (RC-474); Vátimma/Mavatma = Mahavatma (RC-135); 'o vereador' = o criador (STT: 'a ressurreição do vereador'); 'gênio da gentileza' [REVISAR] e 'rebelião 327 do Tara Neto de Lúcifer' [REVISAR] — trechos do bruto de leitura incerta, não citados. Nenhuma foi aplicada na fonte — original.txt permanece byte a byte."
+RC-378 = "**Quarentena clínica estrita:** a redução da reprodução pela afetividade/homoafetividade é leitura do autor (a ficha RC-378 já a registra assim); a formulação crua desta palestra ficou retida no BLOCO 5."
+RC-160 = "**Ajuste fino:** o curador descartou 'Princípio Antrópico/Ajustes Finos' como termo no ciclo P2025-06-14b (teoria externa) — navalha mantida; a fala ('a entropia está destruindo todos esses processos dos ajustes finos'; o ajuste fino do corpo humano com 3 componentes) entra em RC-160 sem criar termo."
+RC-514 = "**Convergência com P2023-02-12:** o tikum como 'reparo na obra e no criador caído' pela racionalidade crítica humana (ciclo anterior) é reforçado aqui como 'os humanos é que teriam que fazer isso' — o plano desesperado dos seres."
+RC-395 = "**Convergência com P2025-06-14b:** a supernave de Sofia em 2020 (borrifada) é citada — dado já registrado na KB; sem harmonização (D-9)."
+RC-102 = "**Convergência com P2012-02-19:** as encarnações Shirdi/Prem Sai (absorvidas em RC-801 naquele ciclo) aparecem aqui como 'as últimas três produções avatáricas humanas' de Shiva — o desarme mental para provar a Brama que não disputaria mais nada; registrado sem fusão."
+
+[travas]
+RC-378 = "quarentena clínica estrita: formulação crua da redução da reprodução retida no BLOCO 5; quarentena política (Lula/Bolsonaro/Trump/Biden) retida; dado histórico sensível (Hitler/espermatozoides) retido."
+RC-001 = "veto léxico m**** retido (BLOCO 5); quarentena teológica (crítica institucional ao Vaticano) retida."
+RC-727 = "veto léxico p**** retido (grafia STT 'pidsaram', BLOCO 5)."
+RC-160 = "veto léxico c******* retido (BLOCO 5)."
+
+[lacunas]
+# SETE candidatos declarados no BLOCO 2 do pacote (com spans): ocaso do criador; DNA
+# neutralizado; pulsação digna; proteínas como último fator estruturado; guardadores de
+# lixo memorial; táquions (FONTE EXTERNA — navalha); ajuste fino (navalha do curador,
+# P2025-06-14b). A seção [lacunas] do toml só aceita códigos do cadastro; nenhum código
+# existe ainda para eles (decisão do Curador na devolutiva).

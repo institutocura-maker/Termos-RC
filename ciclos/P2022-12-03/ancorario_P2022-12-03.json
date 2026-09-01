@@ -1,0 +1,286 @@
+{
+ "sigla": "P2022-12-03",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (121.752 chars / 24 linhas / 15 com fala / 21.828 palavras). Tese: a causa sistêmica da derrocada do criador reconstruído (Javé) — os elétrons, saturados de memorização deletéria, não puderam mais pulsar para manter a podridão organizada (a rebelião como percepção matemática quântica); o eu do criador ficou desalojado; tudo se concentra no lado A como tikum cabalístico — tarefa dos humanos, que produzem as proteínas novas pela pulsação digna. Recolhe formulações PRECISAS para 25 códigos JÁ EXISTENTES (RC-001, RC-037, RC-378, RC-161, RC-636, RC-160, RC-174, RC-514, RC-332, RC-102, RC-092, RC-691, RC-565, RC-562, RC-783, RC-727, RC-265, RC-573, RC-395, RC-381, RC-725). NENHUM termo novo por conta própria: 7 candidatos declarados no BLOCO 2 (ocaso do criador; DNA neutralizado; pulsação digna; proteínas como último fator estruturado; guardadores de lixo memorial; táquions — fonte externa; ajuste fino — navalha do curador), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-12-03/original.txt",
+ "sha256": "254fce682940f9f016d0b8a129f0aeb68d5f34238dfe5f0e3c5cdc4b16a92b29",
+ "bytes": 126006,
+ "unidades_com_fala": 15,
+ "spans": [
+  {
+   "codigo": "RC-001",
+   "u": "U0004",
+   "chars": [
+    3573,
+    3614
+   ],
+   "largura": 41,
+   "verificada": true,
+   "texto": "Ele perdeu esse corpo e ficou desalojado."
+  },
+  {
+   "codigo": "RC-037",
+   "u": "U0012",
+   "chars": [
+    38991,
+    39167
+   ],
+   "largura": 176,
+   "verificada": true,
+   "texto": "As crônicas que existem nos anais de algumas loquias sobre o sono de Brama são muito claras quando dizem da só quem gostava do sono de Brama era o resto do universo, menos ele."
+  },
+  {
+   "codigo": "RC-378",
+   "u": "U0013",
+   "chars": [
+    51996,
+    52163
+   ],
+   "largura": 167,
+   "verificada": true,
+   "texto": "É uma simples percepção, vamos dizer, matemática quântica, de que o que eles estão sendo obrigados a fazer não vai funcionar no sentido de receber as Notícias de quem?"
+  },
+  {
+   "codigo": "RC-161",
+   "u": "U0013",
+   "chars": [
+    43529,
+    43610
+   ],
+   "largura": 81,
+   "verificada": true,
+   "texto": "Os elétrons do nosso universo chegaram a um ponto tal de memorização em si mesmo."
+  },
+  {
+   "codigo": "RC-636",
+   "u": "U0004",
+   "chars": [
+    9732,
+    9983
+   ],
+   "largura": 251,
+   "verificada": true,
+   "texto": "É que os elétrons aqui dentro e os posits, que são os elétrons desse universo vizinho, os antielétrons, a turma aqui de fora quando começou a pegar achava que sempre deu ordem o elétron e os elétrons organizados sobre a forma de algoritmos ou genomas."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0012",
+   "chars": [
+    37242,
+    37269
+   ],
+   "largura": 27,
+   "verificada": true,
+   "texto": "A entropia tá zerando tudo."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0020",
+   "chars": [
+    91287,
+    91455
+   ],
+   "largura": 168,
+   "verificada": true,
+   "texto": "Isso começou há cerca de 4 bilhões de anos atrás, quando o universo começou a se expandir até uma aceleração, a sua expansão se acelerou como forma de acabar mais cedo."
+  },
+  {
+   "codigo": "RC-174",
+   "u": "U0013",
+   "chars": [
+    42059,
+    42186
+   ],
+   "largura": 127,
+   "verificada": true,
+   "texto": "Então, assim, como eu já falei em outras palestras, eu assisti pessoalmente ao colapso do sistema colmeico de Javé e dos Anjos."
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0021",
+   "chars": [
+    107969,
+    108005
+   ],
+   "largura": 36,
+   "verificada": true,
+   "texto": "Isso aqui é o ticum cabalístico, né?"
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0022",
+   "chars": [
+    120098,
+    120243
+   ],
+   "largura": 145,
+   "verificada": true,
+   "texto": "Agora, mais ainda, esse plano virou, como eu usei a expressão aí, o único projeto desesperador, desesperado que esses seres estão pondo em curso."
+  },
+  {
+   "codigo": "RC-332",
+   "u": "U0004",
+   "chars": [
+    6719,
+    6907
+   ],
+   "largura": 188,
+   "verificada": true,
+   "texto": "que o espírito que anima hoje Rogério já animou vários outros eus entre Rogério e o primeiro momento em que ele pegou uma um código apodrecido do Criador para tomar conta é o favor divino."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0021",
+   "chars": [
+    105394,
+    105565
+   ],
+   "largura": 171,
+   "verificada": true,
+   "texto": "Reza uma lenda não terrena que Sáveina somente aplicou a sua força tamásica nos termos em que o fez, porque divisou quando seria o ponto de inflexão da derrocada do corpo."
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0014",
+   "chars": [
+    58642,
+    58771
+   ],
+   "largura": 129,
+   "verificada": true,
+   "texto": "Quarto logos não, mas os alunos, os agentes do quarto logos, estão todos reféns do problema da podridão dos elétrons do universo."
+  },
+  {
+   "codigo": "RC-691",
+   "u": "U0014",
+   "chars": [
+    59649,
+    59733
+   ],
+   "largura": 84,
+   "verificada": true,
+   "texto": "A energia Rajas apenas produziu os tijolos podres da construção da vida aqui dentro."
+  },
+  {
+   "codigo": "RC-691",
+   "u": "U0016",
+   "chars": [
+    67113,
+    67156
+   ],
+   "largura": 43,
+   "verificada": true,
+   "texto": "Desde que para Bragna fez isso, parou tudo."
+  },
+  {
+   "codigo": "RC-565",
+   "u": "U0014",
+   "chars": [
+    60956,
+    61103
+   ],
+   "largura": 147,
+   "verificada": true,
+   "texto": "Que o ser humano ou que qualquer ser tem que retrabalhar essas três energias ou códigos para poder resolver a situação dos elétrons desse universo."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0020",
+   "chars": [
+    82633,
+    82743
+   ],
+   "largura": 110,
+   "verificada": true,
+   "texto": "Todos os seres humanos, com esses 1000 e poucos gênos, só conseguem produzir cerca de 20.000 tipos de proteín."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0020",
+   "chars": [
+    84104,
+    84424
+   ],
+   "largura": 320,
+   "verificada": true,
+   "texto": "Aí esse RNA retira do DNA, procura em ribossoma, mitocôndria, os cambal aliás, lá dentro da célula, até conseguir recriar um novo cdon, um novo gene, para que a partir dali no genoma daquele cara tem o circuito bioquímico do de uma receita que vai produzir uma nova proteína que surgiu e não existia antes na humanidade."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0020",
+   "chars": [
+    99588,
+    99635
+   ],
+   "largura": 47,
+   "verificada": true,
+   "texto": "El Musk com dinheiro dele vai levar 500 casais."
+  },
+  {
+   "codigo": "RC-727",
+   "u": "U0020",
+   "chars": [
+    100901,
+    100927
+   ],
+   "largura": 26,
+   "verificada": true,
+   "texto": "Sabe quem atrapalhou isso?"
+  },
+  {
+   "codigo": "RC-265",
+   "u": "U0021",
+   "chars": [
+    113181,
+    113474
+   ],
+   "largura": 293,
+   "verificada": true,
+   "texto": "Falando claro e francamente a revelação cósmica, em uma de suas faces é um mero complemento do que Enoque Viaza fizeram lá atrás, de anunciar aos tais 270 mundos desse universo vizinho vinculados essa confusão aqui, que é o que foi dito no Zorrar, essa palestra para eles num primeiro momento."
+  },
+  {
+   "codigo": "RC-573",
+   "u": "U0021",
+   "chars": [
+    118002,
+    118291
+   ],
+   "largura": 289,
+   "verificada": true,
+   "texto": "Como nós estamos sendo atacados e como nós estamos desde 1988, 1989, entrando nessa parte desse cinturão de foto, A convergência disso tudo aponta pro mês de dezembro do ano 2022 o momento em que mais intensamente essa entrada nesse campo foi sentido um atrito, mas o atritão começa agora."
+  },
+  {
+   "codigo": "RC-395",
+   "u": "U0020",
+   "chars": [
+    93021,
+    93199
+   ],
+   "largura": 178,
+   "verificada": true,
+   "texto": "Até hoje o planeta Marte tem uma cicatriz de uns 700 e poucos quilômetros no fço profundo e a vida toda que tinha lá, atmosfera, mas tudo se acabou, tudo tem custo aqui na terra."
+  },
+  {
+   "codigo": "RC-381",
+   "u": "U0020",
+   "chars": [
+    101717,
+    101886
+   ],
+   "largura": 169,
+   "verificada": true,
+   "texto": "Sob essa perspectiva, o campo mórfico da espécie humana e o seu respectivo painel de controle é o campo quântico ou computador quântico mais precioso de tudo que existe."
+  },
+  {
+   "codigo": "RC-725",
+   "u": "U0014",
+   "chars": [
+    61445,
+    61731
+   ],
+   "largura": 286,
+   "verificada": true,
+   "texto": "Aí nós vamos explicar que só um determinado tipo de pulsação consegue anular em ilhas de negent, ou seja, ilhas de produção no meio do caos que impedem a entropia de, melhor dizendo, que impedem a entropia de atrapalhar a produção de coisas boas no meio da sujeira, no meio da podridão."
+  }
+ ],
+ "recusa": []
+}
