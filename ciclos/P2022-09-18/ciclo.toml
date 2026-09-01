@@ -1,0 +1,57 @@
+# ciclo.toml — ciclo leve P2022-09-18 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-09-18"
+titulo = "Os Níveis de Estresse Extremo da Criação"
+data_fonte = "18/09/2022"
+pasta_fonte = "ciclos/P2022-09-18"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-09-18.txt"
+sha256_fonte = "bd4dc9a6ecaa0321d03d4b40fa29c85b455e671bee53a575359a65badef25570"
+
+baseline_commit = "3050aa1"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (104.466 B / 59 linhas / 36 com fala / 18.273 palavras / 101.014 chars; cobertura 7/7 fatias provada; maior linha ~17.927 chars). Tese: o estresse extremo dos elétrons — o esgotamento da memória quântica que a rebelião dos elétrons anuncia — como causa básica do colapso generalizado: o corpo do criador pifou (o código fonte definidor colapsou de forma dramática entre os anos de 2009, 2020 — STT; o eu de Javé ancorado no DNA humano), o sistema colmeico entre Jahé e os anjos sucumbiu de vez (as abelhas foram as primeiras a somatizar, desde 2007; 'quando as abelhas ferraram, Jaé começou a se...'), a trimurti colapsou com a desconstituição de Vígeno (entrando 2017), Jesus é apontado como o maior responsável (recusou o Messias violento previsto nas profecias), Sofia tem que assumir a suzerania (a vestimenta de suserano devida desde 2006; o fatiamento: o mesmo espírito de Jahé, Jesus e Sofia — três em um), o colapso de Javé é a única forma de tornar possível o Ticum, a energia tamásica de Chiva é o selo de garantia de que o que Brama fez não foi bom, os campos mórficos (dos demos, frágeis; o biológico, mais forte) estão em perigo e colapsam quando a espécie é extinta, o eu humano é o único capaz de limpar a memória dos elétrons ('pulsar com dignidade' — assunto para frente), o quarto logos introduzirá os temas às gerações futuras, a espiritualidade não tem planos — tem sonhos (grau de consecução 0,1; o mundo regenerado previsto para 2047/2048/2049 furou), e o ser humano regenerado terá que se espalhar pelo cosmos. Recolhe formulações PRECISAS para 17 códigos (16 com ficha: RC-636, RC-001, RC-513, RC-009, RC-174, RC-381, RC-037, RC-104, RC-072, RC-859, RC-514, RC-160, RC-562, RC-092, RC-865, RC-783; 1 em fila aberta: RC-863 Ocaso do Criador). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (estresse extremo dos elétrons; fatiamento da consciência), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["m****", "p****", "e******"]   # máscaras do próprio bruto: m**** ×10, p**** ×1, p*** ×1 (substring), e****** ×1 — 13 ocorrências, 53 asteriscos
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O estresse extremo dos elétrons é a causa básica de tudo: a rebelião dos elétrons nada mais é do que o estresse e esgotamento da memória quântica dos elétrons — os elétrons são fofoqueiros (o entrelaçamento quântico faz um saber o que o outro viveu) e o que os deixa em estresse extremo é o que o autor chama de afetação: as memórias emocionais/sensórias acumuladas desde a vida pluricelular com predador e presa, passando pelos mamíferos e pela crueldade humana. Quando a capacidade dos elétrons se esgota, colapsa o sistema em que residem — por isso as estruturas coletivas e depois os organismos individuais começaram a colapsar de 2007 em diante; a teia da vida universal parece ter começado a sua decomposição de maneira prematura. A rebelião é não-reprodução: ninguém vai produzir mais p**** nenhuma (esterilidade, vontade de não ter filho).",
+  "O criador colapsou: o corpo de Javé pifou, o eu dele foi ancorado no DNA humano de algumas pessoas e dessa vez o eu dele ia ser totalmente desativado — o código fonte definidor do criador colapsou de forma dramática entre os anos de 2009, 2020 ou coisa que o vale (STT; D-9), e o sistema colméico entre Jahé e os anjos foi se degradando entre os anos 2019 e 2020 sucumbiu de vez, com as abelhas como primeiras a somatizar (2007; a natureza terrestre avisou, aquilo era um aviso para Jé). O maior responsável é Jesus, que se recusou a cumprir a função de Messias violento prevista nas profecias. Com a desconstituição de Vígeno, a trimur colapsou (entrando 2017); Chiva, daqui a pouco, também já não existirá. A energia tamásica de Chiva é o selo de garantia de que o que Brama fez não foi bom — ninguém a controla; as forças rajas, satva e tamas foram expelidas pelas mentes de Prabrajna, Mavatma e Savna.",
+  "A saída e a fila: o colapso de Javé é a única forma de tornar possível o Ticum; Sofia tem que assumir a suzerania (a vestimenta de suserano devida desde 2006; é a questão do fatiamento, consciência. São três em um — o mesmo espírito de Jahé, Jesus e Sofia, todos sob estresse extremo). Os campos mórficos estão em perigo (o dos demos é frágil; o biológico é mais forte) e colapsam quando a espécie é extinta; o eu humano — jamais desativado — é o único capaz de limpar a memória dos elétrons e edificar padrões conceituais supremos: como é que se pulsa com dignidade? É um assunto paraa frente (massa crítica; poucos humanos, não a raça). A espiritualidade não tem necessariamente planos. Ela tem sonhos — o grau de consecução é basicamente 0,1; o mundo regenerado previsto em 1989 para 2047/2048/2049 furou (o exílio não andou na velocidade necessária); um dia o ser humano regenerado vai ter que se espalhar pelo cosmos — o desejo do Cristo cósmico — e o quarto logos introduzirá esses temas às gerações futuras.",
+]
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

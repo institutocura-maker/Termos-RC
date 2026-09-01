@@ -1,0 +1,286 @@
+{
+ "sigla": "P2022-09-18",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (104.466 B / 59 linhas / 36 com fala / 18.273 palavras / 101.014 chars; cobertura 7/7 fatias provada; maior linha ~17.927 chars). Tese: o estresse extremo dos elétrons — o esgotamento da memória quântica que a rebelião dos elétrons anuncia — como causa básica do colapso generalizado: o corpo do criador pifou (o código fonte definidor colapsou de forma dramática entre os anos de 2009, 2020 — STT; o eu de Javé ancorado no DNA humano), o sistema colmeico entre Jahé e os anjos sucumbiu de vez (as abelhas foram as primeiras a somatizar, desde 2007; 'quando as abelhas ferraram, Jaé começou a se...'), a trimurti colapsou com a desconstituição de Vígeno (entrando 2017), Jesus é apontado como o maior responsável (recusou o Messias violento previsto nas profecias), Sofia tem que assumir a suzerania (a vestimenta de suserano devida desde 2006; o fatiamento: o mesmo espírito de Jahé, Jesus e Sofia — três em um), o colapso de Javé é a única forma de tornar possível o Ticum, a energia tamásica de Chiva é o selo de garantia de que o que Brama fez não foi bom, os campos mórficos (dos demos, frágeis; o biológico, mais forte) estão em perigo e colapsam quando a espécie é extinta, o eu humano é o único capaz de limpar a memória dos elétrons ('pulsar com dignidade' — assunto para frente), o quarto logos introduzirá os temas às gerações futuras, a espiritualidade não tem planos — tem sonhos (grau de consecução 0,1; o mundo regenerado previsto para 2047/2048/2049 furou), e o ser humano regenerado terá que se espalhar pelo cosmos. Recolhe formulações PRECISAS para 17 códigos (16 com ficha: RC-636, RC-001, RC-513, RC-009, RC-174, RC-381, RC-037, RC-104, RC-072, RC-859, RC-514, RC-160, RC-562, RC-092, RC-865, RC-783; 1 em fila aberta: RC-863 Ocaso do Criador). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (estresse extremo dos elétrons; fatiamento da consciência), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-09-18/original.txt",
+ "sha256": "bd4dc9a6ecaa0321d03d4b40fa29c85b455e671bee53a575359a65badef25570",
+ "bytes": 104466,
+ "unidades_com_fala": 36,
+ "spans": [
+  {
+   "codigo": "RC-636",
+   "u": "U0006",
+   "chars": [
+    15918,
+    16029
+   ],
+   "largura": 111,
+   "verificada": true,
+   "texto": "Então, a rebelião do dos elétrons nada mais é do que o estresse e esgotamento da memória quântica dos elétrons."
+  },
+  {
+   "codigo": "RC-636",
+   "u": "U0006",
+   "chars": [
+    17575,
+    17671
+   ],
+   "largura": 96,
+   "verificada": true,
+   "texto": "Só que os elétrons são fofoqueiros porque eles são a sua família, tem o entrelaçamento quântico."
+  },
+  {
+   "codigo": "RC-636",
+   "u": "U0010",
+   "chars": [
+    26808,
+    26838
+   ],
+   "largura": 30,
+   "verificada": true,
+   "texto": "É o que nós chamamos afetação."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0012",
+   "chars": [
+    38481,
+    38593
+   ],
+   "largura": 112,
+   "verificada": true,
+   "texto": "O código fonte definidor do criador colapsou de forma dramática entre os anos de 2009, 2020 ou coisa que o vale."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0006",
+   "chars": [
+    8275,
+    8327
+   ],
+   "largura": 52,
+   "verificada": true,
+   "texto": "E então o corpo de Javé tinha pifado e o eu de Jaho."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0032",
+   "chars": [
+    72108,
+    72144
+   ],
+   "largura": 36,
+   "verificada": true,
+   "texto": "A questão é, o que Javé fez foi bom?"
+  },
+  {
+   "codigo": "RC-037",
+   "u": "U0012",
+   "chars": [
+    37363,
+    37444
+   ],
+   "largura": 81,
+   "verificada": true,
+   "texto": "Mais uma vez ele está submetido ao tal sono de Brama, só que ele não vai acordar."
+  },
+  {
+   "codigo": "RC-174",
+   "u": "U0006",
+   "chars": [
+    22945,
+    23110
+   ],
+   "largura": 165,
+   "verificada": true,
+   "texto": "Só que no nosso universo, de vez em quando, algo vai começar a colapsar e as abelhas foram as primeiras a dizer: \"Ei, tá russo, os elétrons que nos dão suporte, não."
+  },
+  {
+   "codigo": "RC-174",
+   "u": "U0012",
+   "chars": [
+    38750,
+    38851
+   ],
+   "largura": 101,
+   "verificada": true,
+   "texto": "O sistema colméico entre Jahé e os anjos foi se degradando entre os anos 2019 e 2020 sucumbiu de vez."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0048",
+   "chars": [
+    80420,
+    80471
+   ],
+   "largura": 51,
+   "verificada": true,
+   "texto": "Com a desconstituição de Vígeno, a trimur colapsou."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0012",
+   "chars": [
+    40167,
+    40325
+   ],
+   "largura": 158,
+   "verificada": true,
+   "texto": "O estresse que Jesus causou em Javé por se recusar a cumprir a sua função de Messias violento, previsto nas profecias das Sagradas Escrituras do povo judaico."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0028",
+   "chars": [
+    55670,
+    55762
+   ],
+   "largura": 92,
+   "verificada": true,
+   "texto": "Sofia tem que assumir a porcaria dessa dessa suzerania, porque a resolve esse problema aqui."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0028",
+   "chars": [
+    56119,
+    56158
+   ],
+   "largura": 39,
+   "verificada": true,
+   "texto": "É a questão do fatiamento, consciência."
+  },
+  {
+   "codigo": "RC-859",
+   "u": "U0012",
+   "chars": [
+    31279,
+    31354
+   ],
+   "largura": 75,
+   "verificada": true,
+   "texto": "A grande pendência entre esses seres é uma vestimenta que eles devem Sofia."
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0055",
+   "chars": [
+    97279,
+    97354
+   ],
+   "largura": 75,
+   "verificada": true,
+   "texto": "O colapso de Javé, entre aspas, é a única forma de tornar possível o Ticum."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0048",
+   "chars": [
+    78016,
+    78097
+   ],
+   "largura": 81,
+   "verificada": true,
+   "texto": "A energia tamas de Chiva é o selo de garantia de que o que Brama fez não foi bom."
+  },
+  {
+   "codigo": "RC-381",
+   "u": "U0031",
+   "chars": [
+    61017,
+    61061
+   ],
+   "largura": 44,
+   "verificada": true,
+   "texto": "Ei, o campo mórfico dos demons tá em perigo."
+  },
+  {
+   "codigo": "RC-381",
+   "u": "U0031",
+   "chars": [
+    62071,
+    62361
+   ],
+   "largura": 290,
+   "verificada": true,
+   "texto": "o tempo inteiro, enquanto a espécie esteja existindo, quando a espécie é extinta e não tem mais nenhum membro enviando via ponte quântica do seu DNA com o campo quântico o seu comportamento, porque esse corpo morreu, o campo mórfico daquela espécie tende a também colapsar e deixa desistir."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0031",
+   "chars": [
+    65080,
+    65132
+   ],
+   "largura": 52,
+   "verificada": true,
+   "texto": "Criando novas receitas no genoma da condição humana."
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0031",
+   "chars": [
+    67364,
+    67459
+   ],
+   "largura": 95,
+   "verificada": true,
+   "texto": "O quarto logos é que vai introduzir esses temas que eu tô falando aqui paraas gerações futuras."
+  },
+  {
+   "codigo": "RC-865",
+   "u": "U0048",
+   "chars": [
+    85157,
+    85191
+   ],
+   "largura": 34,
+   "verificada": true,
+   "texto": "Como é que se pulsa com dignidade?"
+  },
+  {
+   "codigo": "RC-863",
+   "u": "U0012",
+   "chars": [
+    36228,
+    36300
+   ],
+   "largura": 72,
+   "verificada": true,
+   "texto": "Mas eu pude acompanhar o ocaso de Javer junto com a colônia das abelhas."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0053",
+   "chars": [
+    93560,
+    93706
+   ],
+   "largura": 146,
+   "verificada": true,
+   "texto": "E outros lá, eles não falavam especiação da espécie humana, mas eles diziam: \"Um dia o ser humano regenerado vai ter que se espalhar pelo cosmos\"."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0053",
+   "chars": [
+    92040,
+    92097
+   ],
+   "largura": 57,
+   "verificada": true,
+   "texto": "Olhe, o a espiritualidade não tem necessariamente planos."
+  },
+  {
+   "codigo": "RC-513",
+   "u": "U0053",
+   "chars": [
+    92856,
+    92920
+   ],
+   "largura": 64,
+   "verificada": true,
+   "texto": "E isso tava previsto em 1989 para acontecer em 2047, 2048, 2049."
+  }
+ ],
+ "recusa": []
+}
