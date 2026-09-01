@@ -19,16 +19,16 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (121.752 chars / 24 linhas / 15 com fala / 21.828 palavras). Tese: a causa sistêmica da derrocada do criador reconstruído (Javé) — os elétrons, saturados de memorização deletéria, não puderam mais pulsar para manter a podridão organizada (a rebelião como percepção matemática quântica); o eu do criador ficou desalojado; tudo se concentra no lado A como tikum cabalístico — tarefa dos humanos, que produzem as proteínas novas pela pulsação digna. Recolhe formulações PRECISAS para 21 códigos JÁ EXISTENTES (RC-001, RC-037, RC-378, RC-161, RC-636, RC-160, RC-174, RC-514, RC-332, RC-102, RC-092, RC-691, RC-565, RC-562, RC-783, RC-727, RC-265, RC-573, RC-395, RC-381, RC-725). NENHUM termo novo por conta própria: 7 candidatos declarados no BLOCO 2 (ocaso do criador; DNA neutralizado; pulsação digna; proteínas como último fator estruturado; guardadores de lixo memorial; táquions — fonte externa; ajuste fino — navalha do curador), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []   # decisão do Curador na devolutiva (candidatos no BLOCO 2 do pacote)
+termos_novos = ["RC-863", "RC-864", "RC-865", "RC-866"]   # Ocaso do Criador · DNA Neutralizado · Pulsação Digna · Guardadores de Lixo Memorial (devolutiva do curador, fila aberta)
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (garimpo: nada aplicado; devolutiva decide)
+arquivos = 0      # fichas criadas por este ciclo (os 4 novos códigos ficam em fila aberta, não materializados)
 ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+termos = 4       # termos novos: RC-863/864/865/866, autorizados pela devolutiva do curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 25    # 21 ampliados + 4 códigos novos criados com a fonte (RC-863/864/865/866)
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
@@ -49,10 +49,16 @@ pontos = [
 ]
 
 [definicoes]
+RC-863 = "O 'ocaso do criador' é a segunda derrocada do criador reconstruído (Javé, RC-001): os sistemas operacionais que o mantinham vivo (sustentados pela pulsação dos elétrons) colapsaram, o eu perdeu o corpo apodrecido reconstruído na queda e ficou desalojado — 'é um eu novamente parasitário', precisa ser de novo colocado num corpo. A causa sistêmica é a rebelião dos elétrons (RC-378) e a saturação de memorização deletéria (RC-161)."
+RC-864 = "O 'DNA neutralizado' é o código em que a podridão do criador foi neutralizada: 'somente os humanos que têm o código neutralizado de podridão do criador conseguem fazer isso' — a pulsação digna e a produção de proteínas novas. 'Alguns poucos milhares de pessoas já o possuem na atualidade'; dessa minoria o DNA neutralizado 'será exportado para as descendências especiadas' (RC-783)."
+RC-865 = "A 'pulsação digna' é a pulsação humana alinhada a conceitos supremos — a única que a espiritualidade percebe 'que em sendo vibrante consegue tudo': cria ilhas de negentropia (RC-725), produz proteínas novas (RC-562) e pode 'substituir temporariamente... os aliceces de sustentabilidade da erraticidade do próprio paraíso'. É o agir local (John Lennon) que substitui as atitudes globalizantes impossíveis."
+RC-866 = "'Guardadores de lixo memorial' é a expressão de Ellam para os humanos: 'quase que a totalidade dos humanos serve de guarida e de hospedagem para essa sujeira... somos vistos como guardadores de lixo memorial do criador' — os arquivos deletérios dos primeiros 14 bilhões de anos guardados no conectoma (RC-557) e nos parasitas unicelulares; o título que os seres dão aos vitimados do processo."
 
 [observacoes]
+RC-863 = "**Decisão curatorial (devolutiva):** as 25 pérolas foram 100% aprovadas; Ocaso do Criador, DNA Neutralizado, Pulsação Digna e Guardadores de Lixo Memorial foram AUTORIZADOS como códigos taxonômicos novos (RC-863/864/865/866), criados no cadastro (ficha=False) e colocados em fila aberta para materialização futura — 'conceitos estruturais novos que descrevem a mecânica da salvação do sistema'."
+RC-562 = "**Absorção sem código:** 'Proteínas (último fator estruturado)' NÃO ganha código próprio por ordem do curador — a expressão é absorvida nas ampliações da ficha RC-562 (baralho genético / 20.000 proteínas / RNA mensageiro)."
 RC-001 = "**Grafias STT registradas (sem emenda):** Sáveina/Savna = Shiva (RC-102); para Bragna = Para Brajna (RC-691); Viaza/Viasa = Vyasa; Zorrar = Zohar (RC-611/RC-265); El Musk = Elon Musk; loquias = locas (RC-474); Vátimma/Mavatma = Mahavatma (RC-135); 'o vereador' = o criador (STT: 'a ressurreição do vereador'); 'gênio da gentileza' [REVISAR] e 'rebelião 327 do Tara Neto de Lúcifer' [REVISAR] — trechos do bruto de leitura incerta, não citados. Nenhuma foi aplicada na fonte — original.txt permanece byte a byte."
-RC-378 = "**Quarentena clínica estrita:** a redução da reprodução pela afetividade/homoafetividade é leitura do autor (a ficha RC-378 já a registra assim); a formulação crua desta palestra ficou retida no BLOCO 5."
+RC-378 = "**Quarentena clínica estrita:** a redução da reprodução pela afetividade/homoafetividade é leitura do autor (a ficha RC-378 já a registra assim); a formulação crua desta palestra ficou retida no BLOCO 5. **Navalha mantida (devolutiva):** Táquions (Fred Alan Wolf — fonte externa) e Ajuste Fino (descartado no P2025-06-14b) NÃO materializam código; as formulações entram nas fichas RC-160/RC-378 sem termo novo."
 RC-160 = "**Ajuste fino:** o curador descartou 'Princípio Antrópico/Ajustes Finos' como termo no ciclo P2025-06-14b (teoria externa) — navalha mantida; a fala ('a entropia está destruindo todos esses processos dos ajustes finos'; o ajuste fino do corpo humano com 3 componentes) entra em RC-160 sem criar termo."
 RC-514 = "**Convergência com P2023-02-12:** o tikum como 'reparo na obra e no criador caído' pela racionalidade crítica humana (ciclo anterior) é reforçado aqui como 'os humanos é que teriam que fazer isso' — o plano desesperado dos seres."
 RC-395 = "**Convergência com P2025-06-14b:** a supernave de Sofia em 2020 (borrifada) é citada — dado já registrado na KB; sem harmonização (D-9)."
@@ -65,8 +71,8 @@ RC-727 = "veto léxico p**** retido (grafia STT 'pidsaram', BLOCO 5)."
 RC-160 = "veto léxico c******* retido (BLOCO 5)."
 
 [lacunas]
-# SETE candidatos declarados no BLOCO 2 do pacote (com spans): ocaso do criador; DNA
-# neutralizado; pulsação digna; proteínas como último fator estruturado; guardadores de
-# lixo memorial; táquions (FONTE EXTERNA — navalha); ajuste fino (navalha do curador,
-# P2025-06-14b). A seção [lacunas] do toml só aceita códigos do cadastro; nenhum código
-# existe ainda para eles (decisão do Curador na devolutiva).
+# DEVOLUTIVA (2026-08-31): ocaso do criador → RC-863, DNA neutralizado → RC-864, pulsação
+# digna → RC-865, guardadores de lixo memorial → RC-866 (criados em fila aberta).
+# Proteínas (último fator estruturado) → absorvida em RC-562 sem código próprio.
+# Táquions (Fred Alan Wolf) e Ajuste Fino → navalha mantida (fontes externas). O registro
+# formal vive no BLOCO 2 do pacote.

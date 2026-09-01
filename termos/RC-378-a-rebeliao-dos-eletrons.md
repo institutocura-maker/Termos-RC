@@ -71,9 +71,15 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 
 - **[P2023-12-03 · A REBELIÃO DOS ELÉTRONS NA FALA DE 03/12/2023]** «devolver pela sua pulsação para o resto do universo.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[A rebelião como percepção matemática quântica] (U0013)** «É uma simples percepção, vamos dizer, matemática quântica, de que o que eles estão sendo obrigados a fazer não vai funcionar no sentido de receber as Notícias de quem?» — a natureza da rebelião dos elétrons: não é indignação nem escolha moral — "a rebelião dos elétrons não é nada de dignidade, porque os elétrons não lidam com essas questões" — é a percepção, via táquions, de que o que são obrigados a fazer não vai funcionar segundo o que já está escrito.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |

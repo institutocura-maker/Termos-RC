@@ -47,9 +47,15 @@ A sinopse de B048 pergunta: "Afinal, existem favores divinos? E se tudo for ao c
 
 - **[100 trilhões de mônadas para o favor divino] (U0059)** «Olha, a gente vai precisar de 100 trilhõezinhos de mondadas ou 100 trilhõezinhos de espíritos para cada um fazer o favor divino.» — o favor divino quantificado: 100 trilhões de mônadas/espíritos, uma para cada célula apodrecida de Javé, inoculando em si a doença específica.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O espírito que tomou conta de uma parte podre] (U0004)** «que o espírito que anima hoje Rogério já animou vários outros eus entre Rogério e o primeiro momento em que ele pegou uma um código apodrecido do Criador para tomar conta é o favor divino.» — cada espírito, há bilhões de anos, pegou uma partezinha podre do criador e ficou responsável por ela "como se fosse uma célula das trilhões de células do corpo" — "é uma das faces do favor divino", o favor que esses espíritos fazem ao ser que não entende o próprio "câncer espiritual".
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | Favor Divino (B048) | caps. 8, 10 | pp. 60–75, 85–100 (aprox.) | tese central |
 | Painéis Emergentes (B031) | Glossário (Favor Divino) | — | apoio (secundária) |

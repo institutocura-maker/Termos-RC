@@ -106,3 +106,7 @@ A palestra atribui aos elétrons memória de sofrimento, preferências e comunic
 
 - **[o registro cármico como memória dos elétrons] (U0034)** «O registro cástico é a memória dos elétrons que guardam em si toda a experiência que vivenciam.» — o registro cármico (STT `cástico`) é a memória dos elétrons, que guardam e trocam toda a experiência vivida.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O ponto de memorização deletéria] (U0013)** «Os elétrons do nosso universo chegaram a um ponto tal de memorização em si mesmo.» — a carga memorial dos elétrons atingiu o limite: memorizaram tantos elementos deletérios que "começaram a não funcionar direito" — a causa direta do colapso sistêmico (a memória apodrecida dos pósitrons compunha o cérebro do corpo javeano).
+

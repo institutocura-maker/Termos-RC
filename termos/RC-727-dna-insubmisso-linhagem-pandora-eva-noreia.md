@@ -161,3 +161,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[É o eu que decide, não o DNA] (U0025)** «É o eu que está ou sendo vítima daquela cota do DNA ou que está gerindo.» — a resposta de Ellam: nem o DNA de Maria nem o de ninguém provoca coisa alguma; é o eu que ou é vítima da cota do genoma ou a gere — a decisão de Jesus foi do eu, apoiada no epigenoma humano.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[A bifurcação: Eva, Pandora e Lilith] (U0020)** «Sabe quem atrapalhou isso?» — os arcontes queriam a vida humana numa direção; "Sabe quem atrapalhou isso? Eva, Pandora, Lilif" — a pulsação rebelde de porções de elétrons vinculada a assinaturas quânticas de espíritos específicos provocou a bifurcação que deu novo rumo ao processo, "sempre atrelada ao ponto de inflexão da decadência do código do criador" (grafia STT "Lilif" = Lilith).
+

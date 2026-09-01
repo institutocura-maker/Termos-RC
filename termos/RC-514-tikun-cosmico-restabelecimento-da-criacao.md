@@ -86,10 +86,17 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[O ticum: reparo da obra e do criador] (U0059)** «Ticum é o reparo tanto na obra quanto no criador caído.» — a definição cabalística recolhida por Ellam: o reparo é duplo, na obra e no criador.
 - **[Ticum exige racionalidade crítica, não amor] (U0074)** «O amor suporta muita coisa, o amor, mas o amor não produz esse tipo de mutação específica que cabalística se chama Ticum, tem que ser a racionalidade crítica humana.» — o amor sustenta os eus, mas só a racionalidade crítica humana produz a mutação específica do ticum no genoma do criador.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O tikum: tudo concentrado no lado A] (U0021)** «Isso aqui é o ticum cabalístico, né?» — com o fim do universo vizinho, todos os problemas foram concentrados no lado A para serem consertados — "Os humanos é que teriam que fazer isso. Por isso que todos os problemas têm que vir para cá, já que a coisa ela falu."
+- **[O plano desesperado] (U0022)** «Agora, mais ainda, esse plano virou, como eu usei a expressão aí, o único projeto desesperador, desesperado que esses seres estão pondo em curso.» — o plano de usar os humanos como realizadores do tikum já era a única alternativa; agora é "o único projeto desesperador" — os seres passaram a "procurar migalhas das sobras" do que cada humano faz no campo de esclarecimento.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |

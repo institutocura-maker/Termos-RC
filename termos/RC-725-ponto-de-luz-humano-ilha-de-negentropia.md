@@ -76,9 +76,15 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 
 - **[P2023-12-03 · PONTO DE LUZ HUMANO / ILHA DE NEGENTROPIA NA FALA DE 03/12/2023]** «a gente ainda tá no meio da explosão.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-09-24`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[As ilhas de negentropia] (U0014)** «Aí nós vamos explicar que só um determinado tipo de pulsação consegue anular em ilhas de negent, ou seja, ilhas de produção no meio do caos que impedem a entropia de, melhor dizendo, que impedem a entropia de atrapalhar a produção de coisas boas no meio da sujeira, no meio da podridão.» — a pulsação digna cria ilhas de negentropia no campo consciencial do ovo cósmico de cada ser — a única pulsação que "a espiritualidade percebe que em sendo vibrante consegue tudo".
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-11-09 | U0715–U0750; U1050–U1070; U1260–U1270 | palestra/STT |
 

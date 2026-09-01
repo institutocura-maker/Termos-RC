@@ -121,3 +121,7 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 
 - **[Ragnarok — a destruição temida] (U0004)** «A gente tem que destruir, senão eles vão dominar tudo e destruir o Rinarok.» — o temor de um novo Ragnarok (STT "Rinarok") na disputa pela reconstrução do criador.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[A cicatriz de Marte] (U0020)** «Até hoje o planeta Marte tem uma cicatriz de uns 700 e poucos quilômetros no fço profundo e a vida toda que tinha lá, atmosfera, mas tudo se acabou, tudo tem custo aqui na terra.» — o Ragnarök (uso do sol como wormhole para passar a nave do universo vizinho) "acontecia há 300 milhões de anos": a cicatriz de ~700 km no fosso profundo de Marte é o custo; "uma porcaria dessa quase acontecendo aqui na terra no ano 2020" exigiu a supernave de Sofia (grafia STT "fço" = fosso).
+

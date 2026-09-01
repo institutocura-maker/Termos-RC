@@ -137,10 +137,16 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **[Rockman: o diretor executivo de Deus] (U0009)** «Ele disse: "Não sei, parece que um diretor executivo de Deus.» — a resposta de José de Arimateia à pergunta do jovem Jesus sobre quem era Rockman: segundo o livro da Sabedoria de Salomão, um diretor executivo de Deus — "Deus sem esse diretor executivo não teria feito o que fez"; a mesma pergunta que o menino Jesus fizera aos rabinos do Sinédrio sem resposta.
 
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O erro de retrabalhar as gunas] (U0014)** «Que o ser humano ou que qualquer ser tem que retrabalhar essas três energias ou códigos para poder resolver a situação dos elétrons desse universo.» — o erro: os Vedas e Upanishads acertam que as gunas (rajas, sattva, tamas) estão em cada um, mas erram ao ensinar que o ser deve retrabalhar as três energias para resolver a situação dos elétrons — os seres do outro lado se ferraram tentando isso; os yogis foram "vítimas desse mal-entendido".
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |

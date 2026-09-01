@@ -25,10 +25,17 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 - **[Baralho genético — os 28.869 genes] (U0003)** «Nossos 28.869 genes são divididos em várias áreas.» — os 28.869 genes; a área HR1 (com ~1000 genes) é onde o Satchidanandaghana é trabalhado.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[Os 1.000 genes que produzem as 20.000 proteínas] (U0020)** «Todos os seres humanos, com esses 1000 e poucos gênos, só conseguem produzir cerca de 20.000 tipos de proteín.» — dos 28.869 genes, ~27.000 estão "bichados" (DNA lixo, anestesiado); só ~1.000 produzem proteína — e produzem sempre os mesmos ~20.000 tipos, porque o ser humano faz a mesma coisa o tempo todo.
+- **[A mutação pela ideia nova (RNA mensageiro)] (U0020)** «Aí esse RNA retira do DNA, procura em ribossoma, mitocôndria, os cambal aliás, lá dentro da célula, até conseguir recriar um novo cdon, um novo gene, para que a partir dali no genoma daquele cara tem o circuito bioquímico do de uma receita que vai produzir uma nova proteína que surgiu e não existia antes na humanidade.» — o mecanismo: a ideia nova produz um mensageiro químico (RNA) que procura no DNA a receita; se não há, cria-se um novo códon/gene — a mutação que produz proteína nova, o que os seres do outro lado precisam ("é só da busca, não é encontrar a verdade").
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |

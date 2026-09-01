@@ -131,10 +131,16 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[Shiva e a dissolução das formas] (U0005)** «E esse poder dessa terceira deidade hindu chamado Shiva, que tem o poder de Dissolução das formas.» — Shiva (RC-102) tem 'o poder de Dissolução das formas': cabe à sua força Tamas destruir o que atrapalha a obra imperfeita e, no fim, absorver as cinzas do universo.
 - **[Shiva, o Senhor dos Yogues] (U0005)** «Por isso que Shiva é o Senhor dos Yogues.» — Shiva é 'o Senhor dos Yogues': pelos ensinamentos yogues ensina o espírito a se livrar do sansara e retornar à pátria espiritual apesar do corpo doentio.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[A lenda da força tamásica] (U0021)** «Reza uma lenda não terrena que Sáveina somente aplicou a sua força tamásica nos termos em que o fez, porque divisou quando seria o ponto de inflexão da derrocada do corpo.» — a lenda: Savna/Shiva aplicou a força tamásica porque leu no rastro da consciência do criador caído o ponto de inflexão da derrocada — "Eu acho que é aqui... vou concentrar tudo que é energia pesada aqui para ver se ele morre mesmo" (grafia STT "Sáveina" = Savna).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |

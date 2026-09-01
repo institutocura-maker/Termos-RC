@@ -223,3 +223,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[o Codificador instituiu a escola] (U0008)** «O quificador de Zé só instituiu a escola há 4 milhões de anos atrás.» — STT `quificador`/`cotificador`=Codificador (Olm/Quarto Logos); instituiu a escola há 4 milhões de anos, em Capela.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O Quarto Logos não é refém] (U0014)** «Quarto logos não, mas os alunos, os agentes do quarto logos, estão todos reféns do problema da podridão dos elétrons do universo.» — de todas as 1.000 coisas tentadas pelas consciências hesitantes, só o processo do Quarto Logos está em curso; os agentes dele são reféns da podridão dos elétrons, "Ele não" — e é ele que "precisa começar a atuar sobre essas linhagens humanas especiadas".
+

@@ -395,3 +395,7 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 
 - **[Javé, projeção holográfica sem alma] (U0005)** «No livro Drama Cósmico de Jahé e o drama espiritual de Jahé, ou seja, de Brama, eu passei por todo tipo de crise consciencial, porque ali fui obrigado a afirmar que esses seres estão com câncer, que as suas formas nas quais eles existem há bilhões de anos, tem essa doença e em especial Jahé é só uma projeção holográfica do seu corpo mental, pois que a sua alma não penetrou na criação.» — Javé (RC-001) 'é só uma projeção holográfica do seu corpo mental, pois que a sua alma não penetrou na criação' — por isso Brama/Javé nunca encarnou: não tem alma.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O eu desalojado do criador] (U0004)** «Ele perdeu esse corpo e ficou desalojado.» — o desfecho do ocaso: ao colapsarem os sistemas operacionais que sustentavam o criador reconstruído (Javé), o eu perdeu o corpo apodrecido reconstruído na queda e ficou desalojado — "é um eu novamente parasitário", precisa ser de novo colocado num corpo.
+

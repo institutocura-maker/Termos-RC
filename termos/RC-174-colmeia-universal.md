@@ -31,9 +31,15 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 - **[O colapso da colmeia trimurtiana (2018)] (U0018)** «2013, 2014, 2015, até o ano 2018, a minha condição humana foi obrigada a ver a colmeia que existe nesse universo vizinho, formado por essas três abelhas rainhas Javé, Virgem e Chiva, em um monte de abelha sem rainha e um monte de abelha demo operária.» — a colmeia do universo vizinho, com as três abelhas-rainha (Javé, Vishnu, Shiva), ruiu diante de Ellam entre 2013 e 2018.
 - **[A Trimurti funcionava como colmeia] (U0018)** «Ano 2018, A trimurte colapsou porque a trimurte funcionava igual a uma colmeia de abelhas em que um C alfa da ordem, abelha rainha da ordem e o resto obedece.» — o colapso de 2018 explicado pelo funcionamento colmeia da Trimurti (rainha + operárias obedientes).
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O colapso colmeico presenciado] (U0013)** «Então, assim, como eu já falei em outras palestras, eu assisti pessoalmente ao colapso do sistema colmeico de Javé e dos Anjos.» — Ellam assistiu ao colapso do sistema colmeico de Javé e dos anjos por ter sido "obrigado a fazer o ocaso do ser chamado Javé": os seres se ligaram a ele como decifrador da realidade deles; a chave de leitura veio do colapso das colmeias de abelhas (2004/2007).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | A Divina Colmeia (B044) | Sinopse; caps. 3, 13, 14, 15 | pp. 5, 30–42, 96–110 | conceito central da obra |
 

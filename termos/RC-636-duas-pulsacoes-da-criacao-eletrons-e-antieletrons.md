@@ -31,9 +31,15 @@ A palestra compara a qualidade moral/psíquica das pulsações de seres biológi
 
 - **Pósitrons (P2024-11-09):** "os seres que vivem lá fazem a leitura dessas informações a partir do jogo de pósitrons [STT 'positelétron'], ou seja, o tipo de elétron que existe nesse universo vizinho".
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[Os posits: os elétrons do universo vizinho] (U0004)** «É que os elétrons aqui dentro e os posits, que são os elétrons desse universo vizinho, os antielétrons, a turma aqui de fora quando começou a pegar achava que sempre deu ordem o elétron e os elétrons organizados sobre a forma de algoritmos ou genomas.» — os posits/antielétrons são os elétrons do universo vizinho; a entropia e o desgaste memorial dos elétrons passaram a atrapalhar todos os sistemas (organismo universal, biológico, qualquer).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa | U0913–U0947 | PDF/transcrição pré-curada |
 
 ## Citações-chave

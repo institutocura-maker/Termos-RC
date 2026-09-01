@@ -81,3 +81,8 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[A energia escura (75%)] (U0087)** «Mas A maior componente do universo é algo que existe chamado energia escura, que corresponde a 75% do universo.» — a energia escura, 75% do universo, é o que rasga as galáxias para fora.
 - **[A mente universal emergente] (U0087)** «Por isso que uma mente biocosmos, eh, um biocosmos emergente, uma mente universal está surgindo da expansão desse universo.» — enquanto o universo se desorganiza, a informação se acumula e uma mente universal (biocosmos emergente) surge.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[A entropia zerando tudo] (U0012)** «A entropia tá zerando tudo.» — as atmosferas dos centros espíritas, de umbanda e das casas de recuperação "promoviam verdadeiros milagres... A entropia tá zerando tudo. A mediunidade vai passar dias muito difíceis" — nem a chegada de Sofia produzirá ajuda para quem segue ligado às egrégoras.
+- **[A expansão acelerada como fim (4 bilhões de anos)] (U0020)** «Isso começou há cerca de 4 bilhões de anos atrás, quando o universo começou a se expandir até uma aceleração, a sua expansão se acelerou como forma de acabar mais cedo.» — a prevalência da energia tamásica sobre a rajásica decidida por Savna lá no início: o universo acelerou a expansão (energia escura) como forma de acabar mais cedo — "a energia tamásica é a garantia de qualidade que esta porcaria... um dia vai acabar".
+

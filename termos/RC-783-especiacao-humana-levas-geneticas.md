@@ -18,9 +18,15 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 - **Variações STT capturadas:** "levas genéticas", "1, 2, 3 levas", "padrão genético humano"
 - **Idioma de origem:** Português + latim científico
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[Os 500 casais de Elon Musk] (U0020)** «El Musk com dinheiro dele vai levar 500 casais.» — o projeto de especiação: Elon Musk levará 500 casais; "no meio desses 500 casais devem sair uma ou duas pessoas com esse DNA [neutralizado]" — se não houver ao menos uma, "não vai para esse grupo ser possível", porque é preciso um padrão específico de proteínas (espermatozoide/óvulo com condições de pulsação determinadas).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | U0005 (S5) | — | palestra (fonte primária, STT) |
 
 ## Citações-chave

@@ -43,9 +43,16 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 - **[Brama depois, Prabrajna antes da queda] (U0094)** «Brama é depois da queda para Brasna é antes da queda.» — na Q&A, Ellam fixa a distinção nominal: Brama é o mesmo espírito de Prabrajna, mas apenas DEPOIS da queda; antes dela, é Prabrajna (Prajapati) — o retrato de Ishvara corresponde à condição anterior.
 
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[Os tijolos podres do primeiro logos] (U0014)** «A energia Rajas apenas produziu os tijolos podres da construção da vida aqui dentro.» — "Esse foi o trabalho do primeiro logos": a energia rajásica de Prabrajna produziu os tijolos podres; Savna polarizou as partes podres e Mahavatma criou a rota evolutiva, mas nada pôde ser executado — as hesitações ferraram a possibilidade de reordenar a criação pelas gunas.
+- **[O paraíso que parou de criar] (U0016)** «Desde que para Bragna fez isso, parou tudo.» — "O fim das criações no universo... o que era normalíssimo... Desde que Para Brajna fez isso, parou tudo. Ninguém cria mais nada" — o paraíso "já era chato, agora está"; a pulsação digna dos humanos pode substituir temporariamente os alicerces de sustentabilidade da erraticidade do paraíso (grafia STT "para Bragna" = Para Brajna).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14b | A Consciência Humana e a Chave da Decifração Universal (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2025-03-15 | U0282–U0298; U0398–U0419; U0494–U0504; U0577–U0627; U1089–U1093 | palestra/STT — fonte incompleta |

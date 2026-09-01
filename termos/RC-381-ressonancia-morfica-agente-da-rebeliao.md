@@ -55,9 +55,15 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 - **[Ressonância Mórfica — gerada pelo Projeto Talm] (U0006)** «Aí todos os que pulavam, referentes aquele campo mórfico, pulavam meio que juntos ou não sei o quê dentro de, ou seja, a coisa foi se sofisticando e foi assim que o projeto Talm gerou os famosos campos mórficos, que até hoje ninguém sabe o que diabos isso significa e nem como sugiro.» — os campos mórficos surgiram quando Morlens substituiu a idealização individual fenvã pela geração em série de espécies.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O campo mórfico humano: o computador quântico mais precioso] (U0020)** «Sob essa perspectiva, o campo mórfico da espécie humana e o seu respectivo painel de controle é o campo quântico ou computador quântico mais precioso de tudo que existe.» — o campo mórfico da espécie humana é o computador quântico mais precioso que existe; quem o controla são seres do outro lado, e "a única coisa que tá enfrentando esse campo quântico" é a pulsação dos biodemos feitos humanos (processador Vril).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |

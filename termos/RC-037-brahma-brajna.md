@@ -117,9 +117,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[Brama não é Brahman] (U0005)** «E assim o deus Brama não confundir com Brahman, o deus incognocis.» — Brama (RC-037), 'cuja característica mental é rajas', não deve ser confundido com Brahman, 'o deus incognoscível' (RC-047) — Brama é 'uma mera divindade'.
 
+## Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião dos Elétrons)
+
+- **[O sono de Brama] (U0012)** «As crônicas que existem nos anais de algumas loquias sobre o sono de Brama são muito claras quando dizem da só quem gostava do sono de Brama era o resto do universo, menos ele.» — o sono de Brama (o coma periódico do criador) era celebrado por todos, menos por ele — "era uma felicidade, porque era alguém que não ia encher o saco das pessoas"; quando Javé foi puxado para o colapso, "foi todo" (grafia STT "loquias" = locas).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-05-07 | Shiva, o Projeto Talm e os Mistérios de Awaylengam (palestra) | — | transcrição automatizada; citação |

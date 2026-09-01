@@ -4,8 +4,9 @@
 **Tema:** a causa sistêmica da derrocada do criador reconstruído (Javé) — a rebelião dos
 elétrons como percepção matemática quântica, o eu do criador desalojado, e o tikum como
 tarefa humana (a pulsação digna que produz proteínas novas).
-**Status:** GARIMPO CONCLUÍDO — aguarda a devolutiva do curador (25 pérolas candidatas;
-7 lacunas declaradas; nada aplicado à Base).
+**Status:** HOMOLOGADO E ENCERRADO — devolutiva do curador executada (25 pérolas aprovadas;
+RC-863/864/865/866 criados em fila aberta; Proteínas absorvida em RC-562; navalha mantida
+para Táquions e Ajuste Fino).
 
 ---
 
@@ -80,3 +81,33 @@ Quarentenas aplicadas (BLOCO 5 do pacote): clínica estrita (redução da reprod
 afetividade), veto léxico (m****, p****, c*******), teológica (crítica institucional ao
 Vaticano), política (Lula/Bolsonaro/Trump/Biden), biomediúnica (biografia pessoal do autor),
 histórico sensível (Hitler/espermatozoides).
+
+
+## 5. Devolutiva do curador (executada)
+
+Devolutiva recebida do Assistente do Curador (31/08/2026) e aplicada na íntegra:
+
+1. **25 pérolas 100% aprovadas** — ampliação definitiva das 21 fichas autorizada e executada
+   (`## Ampliação — P2022-12-03` em RC-001, RC-037, RC-378, RC-161, RC-636, RC-160, RC-174,
+   RC-514, RC-332, RC-102, RC-092, RC-691, RC-565, RC-562, RC-783, RC-727, RC-265, RC-573,
+   RC-395, RC-381, RC-725), com a injeção dos vínculos no `dados_termos.py`.
+2. **Quatro códigos taxonômicos novos criados em fila aberta** — *Ocaso do Criador* (RC-863),
+   *DNA Neutralizado* (RC-864), *Pulsação Digna* (RC-865) e *Guardadores de Lixo Memorial*
+   (RC-866): entram no cadastro (`ficha=False`, status `candidato`, fonte `P2022-12-03`) —
+   "conceitos estruturais novos que descrevem a mecânica da salvação do sistema".
+   **Materialização futura** — não agora.
+3. **Absorção sem código** — *Proteínas (último fator estruturado)* NÃO ganha código próprio
+   por ordem do curador; a expressão é absorvida nas ampliações da ficha RC-562.
+4. **Navalha mantida** — *Táquions* (Fred Alan Wolf — fonte externa) e *Ajuste Fino*
+   (descartado no P2025-06-14b) não materializam código; as formulações entram nas fichas
+   RC-160/RC-378 sem termo novo.
+5. **Incidente Git homologado** — a praxe adotada (refspec ampliada + fetch + `reset --mixed`
+   para recuperar a working tree) foi homologada pelo curador; nenhum dado foi perdido.
+
+**Portões finais:** A ✓ (SHA) · B ✓ (25/25 verbatim byte a byte) · C ✓ (21 fichas em paridade,
+0 vazamentos do léxico vetado) · D ✓ (Δ `arquivos 0 · ficha_true 0 · termos +4 · relacoes 0 ·
+vinculos +25` contra o baseline `b6fe7f1` — todos exatamente como declarado).
+
+**Estado final da Base:** **866 termos · 1.857 relações · 571 arquivos de ficha · 570
+`ficha=True`** · fila aberta com 10 códigos aguardando materialização (RC-857/858/859/860/861/862
++ RC-863/864/865/866) + as 6 ordens órfãs do despacho.
