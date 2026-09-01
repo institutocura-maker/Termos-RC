@@ -64,9 +64,15 @@ editada por este ciclo.
 
 - **[Alt Lam Gron, a alteração de 19.700 anos] (U0003)** «Essa ilha foi vista durante milênos como essa essa mudança, essa camuflagem que a nave esfer aplicou a ela mesmo numa alteração chamada Al Langron lá na antiguidade.» — Alt Lam Gron (RC-018): a camuflagem 'Al Langron' que a nave esfera aplicou a si mesma há 19.700 anos, entre Inglaterra e Irlanda.
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[A cidadela de Alt'Lam Gron e a nave Esferon] (U0003)** «Na verdade é a nave Esferon com cerca de 900 e pou seres lá dentro que até hoje existe, como eu disse, e fica a oeste da Irlanda.» — a nave Esferon/Alto Langron (RC-018 Alt'Lam Gron): "essa cidadela de Alangron, que a nave esfer dos V, passou a existir então com 983 membros, sendo 115 da família V, 617 L e por aí vai" (U0003: «000 anos, essa cidadela de Alangron, que a nave esfer dos V, passou a existir então com 983 membros, sendo 115 da família V, 617 L e por aí vai.»); Ielreasil e Iel Breasiel (STT "Iel Breasiel/El Breziel/Yel Brasil") "não se astralizaram, também não se submeteram a tal experiência gr" — "Desde 22.000 anos, essa cidadela de Alangron... passou a existir"; "a ilha que os rebeldes viviam nela... passou a ser conhecida como a terra de Brass, o lugar de Br" (U0003: «Aquela ilha voadora que mudava de lugar e que da Irlanda se enxergava, passou a ser conhecida como a terra de Brass, o lugar de Br, para onde Br ia quando ele não tava na Irlanda.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

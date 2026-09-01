@@ -88,9 +88,16 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 - **[Biodemos: 600.000 anos esperando Sofia] (U0010)** «Eh, os biodemos há uns bons 600.000 anos aguardavam algum contato com Sofia.» — os biodemos (RC-036) aguardavam contato com Sofia há ~600.000 anos — "Foram ter agora em Alto Langron alguns deles" (menção à RC-018 Alt'Lam Gron; STT "Alto Langron" sem emenda); "eh essas coisas são meio malucas em termos de fuso horário cósmico".
 
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[Os biodemos rebeldes e não sexuados] (U0003)** «Mas os partol os nemedianos, os cruz, os pândavas, ou seja, aquelas figuras que aparece nas mitologia hindu, na no Marrabarata, na no Ramaiana, tudo aquilo, a tribo hiperbólica, o povo hiperbólio, eram dezenas de todos os biodemos, ou seja, biodemo é exatamente a característica dessas raças que foram rebeldes.» — os rebeldes de Capela e seus descendentes como biodemos: "esses seres, eles não eram sexuados, não eram macho e fêmea... Os biodemos não são sexuados. É um estágio anterior de evolução àquilo que mais tarde aconteceria aqui na Terra" (U0003: «Os biodemos não são sexuados.»); "os nemedianos, os cruz, os pândavas... a tribo hiperbólica" — "dezenas de todos os biodemos".
+- **[O ancestral das estrelas] (U0003)** «E esse ser chamado I Brasil terminou sendo com o tempo, tido como um Deus pelos seres humanos.» — Iel Brasil: "foi um dos poucos que foi tido como sendo digno de ser louvado pelos demais como um ancestral das estrelas, pois esse era um dos seus epítetos" — "uma espécie de semideus"; "ele passou a ser conhecido também como ser ancestral que distribuía benesso, benéces para a mente e benéces para o coração, ou seja, para o espírito. Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres" (U0003: «Seu nome mesclou-se com o próprio epíteto e mais tarde ele foi chamado de Deus Bres.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |

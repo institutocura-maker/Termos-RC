@@ -165,3 +165,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[A bifurcação: Eva, Pandora e Lilith] (U0020)** «Sabe quem atrapalhou isso?» — os arcontes queriam a vida humana numa direção; "Sabe quem atrapalhou isso? Eva, Pandora, Lilif" — a pulsação rebelde de porções de elétrons vinculada a assinaturas quânticas de espíritos específicos provocou a bifurcação que deu novo rumo ao processo, "sempre atrelada ao ponto de inflexão da decadência do código do criador" (grafia STT "Lilif" = Lilith).
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[O sangue brasileiro: DNA de todas as perspectivas] (U0006)** «O sangue brasileiro é o único sangue a ter.» — "os espíritos mais velhos do planeta estavam trabalhando na única raça cujo DNA é totalmente mistiço... Sangue dos três filhos de Noé, Sam, Cam, Jafé, e também do de Caim, via os nativos da do continente americano" (U0006: «Sangue dos três filhos de Noé, Sam, Cam, Jafé, e também do de Caim, via os nativos da do continente americano.») — "Nós brasileiros, somos os únicos a ter um sangue em que todas as perspectivas evolutivas que marcadas no DNA estão concentradas. Nós somos um povo cujo DNA é de uma riqueza sem tamanho, só que a gente não sabe usar" — ressonância com a RC-727 (linhagem Pandora–Eva–Noreia; DNA insubmisso).
+

@@ -37,9 +37,16 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 - **[Nem 20% do que precisava ser construído] (U0002)** «Nem cerca de 20% do que precisava ser construído na erra de cidade vinculada à condição humana foi.» — a construção espiritual está muito aquém: "Esse número é impreciso, mas eu eu situo nessa faixa de acordo com as fofocas dos amigos espirituais"; "o drama é que não vai ser construído, não dá. Falta trabalhador, é muita necessidade cármica"; "a espiritualidade um império de mais forte... os habitantes de ansiedade espiritual não são esclarecidos, eles Não deixa ninguém entrar na cidade espiritual deles, porque cada um novo que entra pode trazer... novidades desagradáveis"; "Deus não cria. Um super engenheiro que a gente acha, como eu disse, não existe super engenheiro criando".
 
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[Espíritos velhos para o continente novo] (U0006)** «E foi assim que espíritos velhos foram se congregando em torno de uma possível cultura angloicana que veio a surgir na América do Norte, de uma expansão da cultura espanhola que se fixou na América Central e na América Latina.» — a espiritualidade e o Novo Mundo: "esse continente americano tinha ficado meio que esquecido durante milênios. Então a espiritualidade disse: 'Pô, vamos pegar os espíritos que t muita experiência nas histórias fracassadas da Europa, da Ásia e vamos jogar essa turma para através de novas encarnações nascerem nesse continente novo'"; "E a exceção disso tudo ficou o Brasil, que ficou vinculado à escola de Sagres, ao sonho templário de Portugal" (U0006: «E a exceção disso tudo ficou o Brasil, que ficou vinculado à escola de Sagres, ao sonho templário de Portugal.»).
+- **[A espiritualidade brasileira invadida] (U0006)** «Então vamos lá para cidades espirituais em cima do Brasil para pressionar, para pressionar, porque o ódio tá, então a espiritualidade brasileira foi invadida por espíritos revoltados, mas também muitos preguiçosos e um fluxo cármico.» — "quando em 1865 acabou a escravidão nos Estados Unidos, aí espíritos encarnados lá nos Estados Unidos... 'E lá no Brasil nossos irmãos ainda estão escravizados... Então vamos lá para cidades espirituais em cima do Brasil para pressionar'" — "a pior parte, desculpem fala assim, terminou se concentrando no Brasil devido a sua tardia libertação dos escravos. A pressão de espíritos de ex-escravos em cima dos escravos brasileiros para causar rebelião... Mas terminou a princesa Isabel sendo pressionada" (U0006: «Mas terminou a princesa Isabel sendo pressionada.»).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-07-14 | U0285–U0354 | palestra/STT |

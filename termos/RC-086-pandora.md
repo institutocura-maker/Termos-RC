@@ -123,10 +123,16 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 
 - **[Pandora, agente do deslacre] (U0112)** «O mito de Pandora, que foi "expelida" do psiquismo de Zeus como "fezes mentais", mas que se tornou a primeira mulher humana racional e um agente de "deslacre mental", ilustra a complexidade e os desdobramentos inesperados dessa linhagem doentia.» — Pandora (RC-086) foi 'expelida do psiquismo de Zeus como fezes mentais', mas tornou-se a primeira mulher humana racional e um agente de 'deslacre mental'.
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[As rebeliões que forjaram o hiperbório] (U0003)** «Foi aonde começou a surgir um pensamento racionalizado, equilibrado, que já vinha sendo trabalhado aqui na Terra desde a rebelião de Pandora lá atrás, desde a rebelião de Eva, desde a rebelião de Noria, filha de Eva, que ninguém conhece.» — "a cerca de 20, 19, 18, 17, 16.000 anos, esses povos do hiperbólio eram os mais evoluídos" — o pensamento racionalizado nasce das rebeliões (Pandora RC-086/RC-727, Eva, Noreia "filha de Eva, que ninguém conhece" — RC-727 linhagem Pandora–Eva–Noreia).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |

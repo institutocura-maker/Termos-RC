@@ -1,14 +1,95 @@
-# Relatório do Ciclo Leve — P2022-09-25
+# Relatório do Ciclo Leve — P2022-09-25 (devolutiva aplicada)
+
+**Palestra:** `2022-09-25 - O Contexto Espiritual da Construção de Brasília.txt`
+**Status:** DEVOLUTIVA APLICADA — commit de aplicação separado do garimpo (Rito da Esteira Leve).
+
+---
+
+## 0 · Devolutiva do curador (2026-09-01)
+
+1. **19 pérolas 100% aprovadas** — autorizado `ampliar` nas 13 fichas (RC-018, RC-036,
+   RC-068, RC-086, RC-282, RC-454, RC-513, RC-658, RC-727, RC-783, RC-850, RC-104,
+   RC-295), consolidando informações vitais como o fluxo cármico direcionado ao Brasil
+   (RC-513, RC-454) e a estabilidade geológica de 3,2 bilhões de anos do Planalto Central
+   (RC-295).
+2. **Brasil e Brasília NÃO materializados (navalha mantida)** — a etimologia espiritual de
+   "Brasil" (Iel Brasil, Rai Brasil, Deus Bres) é **absorvida** nas fichas **RC-018** (Alto
+   Langron/Esferon) e **RC-036** (Biodemos); o contexto espiritual da construção de
+   Brasília (a linhagem do sonho arquitetônico de Alexandre Magno e do general Ptolomeu
+   até Juscelino) é **absorvido** nas fichas **RC-850** (Alexandre Magno) e **RC-783**.
+3. **Registros sem código confirmados** — Tuatha de Danann + 4 talismãs → ficha RC-018;
+   **veto** de código para São Brandão, Sagres e Julian Jaynes (contextos históricos e
+   fontes externas não exigem materialização taxonômica).
+4. **Divergência RC-850 validada** — selo datado mantido, sem harmonização (o espírito de
+   Alexandre/Juscelino na palestra vs "tirano sob influência de Lemion" na ficha
+   P2023-02-11).
+5. **Fila aberta tocada: MATERIALIZAÇÃO imediata** — RC-028 (Base Atlan) e RC-871
+   (Midana): geração dos arquivos `.md`, virando `ficha=False` para `True`.
+6. **Quarentenas 100% homologadas** — política (PIB, meritocracia, críticas presidenciais),
+   religião institucional (maçonaria, Vaticano) e vetos léxicos (palavrões mascarados).
+7. **Próximo passo:** fechar o commit deste ciclo e avançar para o garimpo da próxima fonte.
+
+## 1 · O que foi aplicado
+
+| Item | Resultado |
+|---|---|
+| **Ampliações** | 13 fichas com a seção P2022-09-25 (todas do BLOCO 1, todas com ficha pré-existente) |
+| **Termo novo** | 0 — Brasil e Brasília ABSORVIDOS sem código (RC-872/873 não criados; ordem do Curador) |
+| **Materializações** | 2 — RC-028 Atlan e RC-871 Midana saíram da fila aberta, ganharam ficha (`ficha=False → True`) com as pérolas validadas deste ciclo |
+| **Vínculos** | 15 códigos carregam `P2022-09-25` (13 ampliados + RC-028 + RC-871) |
+| **Relações** | 0 arestas novas (nenhuma autorizada) |
+| **Absorções** | etimologia do nome Brasil → RC-018 (Alto Langron/Esferon) e RC-036 (Biodemos); contexto da construção de Brasília → RC-850 (Alexandre Magno) e RC-783 (especiação); Tuatha de Danann + 4 talismãs → RC-018 |
+| **Divergência** | D-9 RC-850 mantida com selo datado, sem harmonização (ficha P2023-02-11: "tirano sob influência de Lemion" convive com a palestra: espírito de Iel Brasil/Deus Bres) |
+| **RAG** | exporta 0 cards (nada `aprovada` — sem carimbo) |
+
+**Estado da Base:** 871 termos · 1.857 relações · 579 arquivos · 578 `ficha=True` ·
+fila aberta com **9 códigos** (RC-857/861/862/863/864/866/867/868/869) + 6 ordens órfãs
+do despacho (RC-093, RC-189, RC-280, RC-035, RC-375, RC-344) — RC-028 e RC-871 saíram
+da fila neste ciclo.
+
+## 2 · Portões
+
+- **A** ✓ SHA-256 `cadfc8356b15…` · 0 caracteres de controle
+- **B** ✓ 19/19 citações do pacote · aspas de glosa 15/16 verificadas; 1 rebaixada para
+  `backticks` (referência na RC-850 — não era span verificado; regra da casa)
+- **C** ✓ 15 fichas em paridade com o pacote · 0 vazamentos do léxico vetado (7 marcas)
+- **D** ✓ Δ contra `fd76ce5`: `arquivos +2 · termos 0 · ficha_true +2 · relacoes 0 · vinculos +15` — exatamente o declarado
+- **selftest 9/9** · espelhos xlsx/docx regenerados (871 termos · 579 fichas no docx)
+
+## 3 · Anotações de aplicação (transparência)
+
+- RC-028 e RC-871 materializadas com o bloco do pacote copiado byte a byte; a virada no
+  cadastro toca só a coluna `ficha` (False → True) e `RELACOES` permanece intocada
+  (0 arestas novas — as 9 relações declaradas nos `relacionados` ficam **sem aresta**,
+  lacuna declarada na própria ficha, como manda o motor).
+- 1 aspa de glosa rebaixada na RC-850 (a referência «Que o velho estabelecido na Terra…
+  a tese da mente bicameral de Julian James» não é span verificado no bruto) — aspa só
+  para citação conferível; a paridade com o pacote é aferida já com a normalização.
+- `[materializar] = ["RC-028", "RC-871"]`: Δ arquivos +2 e ficha_true +2, exatamente o
+  declarado — a materialização foi ordem da devolutiva, não conveniência do aplicador.
+- Divergência D-9 (RC-850): a ficha passa a conviver com as duas formulações datadas
+  (P2023-02-11 e P2022-09-25), sem média e sem harmonização — selo datado em
+  `ciclo.toml`/BLOCO 3 do pacote.
+- Quarentenas não tocaram nenhuma pérola aprovada (as retidas vivem no BLOCO 5 do
+  pacote); `[travas]` permanece vazio, como no rito.
+
+## 4 · Fila aberta após o ciclo
+
+`RC-857` Elo Adâmico · `RC-861` Extísicos · `RC-862` Essênios · `RC-863` Ocaso do Criador ·
+`RC-864` DNA Neutralizado · `RC-866` Guardadores de Lixo Memorial · `RC-867` Choque de
+Realidade · `RC-868` Genoma da Dignidade · `RC-869` Mentalidade Comum — 9 códigos em fila
+(sem arquivo) + as 6 ordens órfãs do despacho (RC-093, RC-189, RC-280, RC-035, RC-375,
+RC-344). **RC-028 Atlan e RC-871 Midana saíram da fila neste ciclo (materializadas).**
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Garimpo original (referência histórica — o que foi aprovado)
 
 **Palestra:** `2022-09-25 - O Contexto Espiritual da Construção de Brasília.txt`
 **Tema:** a origem espiritual do nome e da capital do Brasil — do biodemo Iel Brasil/Deus
 Bres (Tuatha de Danann; a ilha Rai Brasil a oeste da Irlanda) ao espírito que reencarnou
 como Alexandre Magno (o general Ptolomeu) e Juscelino Kubitschek; Brasília no chão mais
 antigo do planeta; "outras Brasílias terão que ser construídas".
-**Status:** GARIMPO CONCLUÍDO — aguardando devolutiva do curador (19 pérolas candidatas,
-nenhuma carimbada; nada aplicado à Base).
-
----
+**Status:** GARIMPO CONCLUÍDO — 19 pérolas candidatas, aprovadas na devolutiva acima.
 
 ## 0. Nota editorial — palestra VERBATIM (fala original de Ellam)
 
@@ -69,21 +150,23 @@ funcionalismo (quarentena política); o jesuitismo e a maçonaria nas navegaçõ
 religiosa); Aquenaton/José do Egito (divergência biográfica, U0022).
 
 **Delta conferido pelo portão D (garimpo):** `arquivos 0 · ficha_true 0 · termos 0 · relacoes 0 · vinculos 0`.
-Nada foi aplicado à Base neste commit — a aplicação (ampliar/vincular) é da devolutiva.
+Nada foi aplicado à Base no commit do garimpo — a aplicação (ampliar/vincular/materializar)
+foi a da devolutiva acima.
 
 ## 3. Lacunas reais sinalizadas (decisão do curador)
 
-| Candidato | Natureza | Nota |
+| Candidato | Natureza | Decisão (devolutiva 01/09/2026) |
 |---|---|---|
-| **Brasil — origem do nome** | conceito próprio | a etimologia espiritual: Iel Brasil → Deus Bres → terra de Br → Rai Brasil/high Brasil → Bless → Brasil (≠ pau-brasil). Decisão: código novo (RC-872?) ou registro na RC-850/RC-018. |
-| **Brasília — contexto espiritual da construção** | conceito próprio | o chão mais antigo (Planalto Central 3,2 bi), a agenda da família Iel, JK = general Ptolomeu, "outras Brasílias". Decisão: código novo (RC-873?) ou absorção na RC-850/RC-783. |
-| **Fila aberta tocada** | vínculo pedido | RC-028 Atlan (1 pérola — a base, Lúcifer 98.000 anos, os vetores) e RC-871 Midana (1 pérola — a molécula mãe) — pedido de vínculo na devolutiva. |
-| Registros sem código | personagens/mitologia | Tuatha de Danann + os 4 talismãs → registro na RC-018; os milesianos e o colégio arc druida; São Brandão; Sagres; a mente bicameral de Julian Jaynes (fonte externa). |
+| **Brasil — origem do nome** | conceito próprio | **ABSORVIDO sem código** — RC-018 (Alto Langron/Esferon) e RC-036 (Biodemos); RC-872 não criado |
+| **Brasília — contexto espiritual da construção** | conceito próprio | **ABSORVIDO sem código** — RC-850 (Alexandre Magno) e RC-783 (especiação); RC-873 não criado |
+| **Fila aberta tocada** | vínculo pedido | **MATERIALIZADOS** — RC-028 Atlan e RC-871 Midana (ficha=False → True) |
+| Registros sem código | personagens/mitologia | Tuatha de Danann + os 4 talismãs → registro na RC-018; veto de código para São Brandão, Sagres e Julian Jaynes |
 
 Quarentenas aplicadas (BLOCO 5): política/biográfica (PIB, meritocracia, anedota do
 "baianão", "de Sarnei para cá é um Deus nos acuda"), religião institucional (jesuitismo/
 Vaticano, maçonaria nas navegações), biomediúnica ("não quero convencer ninguém de nada"),
-vetos léxicos (p****, e******, f**, m**** — máscaras do próprio bruto).
+vetos léxicos (p****, e******, f**, m**** — máscaras do próprio bruto). **Homologadas** na
+devolutiva.
 
 ## 4. Radar datado (BLOCO 4 do pacote — promessa só lá, nunca em ficha)
 
@@ -97,7 +180,3 @@ vetos léxicos (p****, e******, f**, m**** — máscaras do próprio bruto).
 **Portões (fase garimpo):** A ✓ (SHA) · B ✓ (19/19 verbatim byte a byte) · C ✗ VERMELHO
 esperado (fichas ainda sem a seção do ciclo — a ampliação é da devolutiva) · D ✓ (Δ
 `0 0 0 0 0` contra o baseline `fd76ce5` — nada aplicado).
-
-**Estado da Base (inalterado neste commit):** 871 termos · 1.857 relações · 577 arquivos ·
-576 `ficha=True` · fila aberta com 10 códigos (RC-857/861/862/863/864/866/867/868/869/871)
-+ RC-028 Atlan (fila histórica) tocada por esta fonte.

@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (98.333 B / 39 linhas / 25 com fala / 17.134 palavras / 95.444 chars; cobertura 6/6 fatias provada; megabloco U0003 de ~37.833 chars lido em fatias). Tese: o contexto espiritual por trás da criação de Brasília e do próprio nome Brasil — do biodemo Iel Brasil (Deus Bres, primeiro rei dos Tuatha de Danann, 'ancestral das estrelas', que distribuía bênçãos — daí o inglês Bless) e da ilha Rai Brasil/high Brasil a oeste da Irlanda (a nave Esferon/Alto Langron dos 983 membros, a terra de Br), ao espírito que reencarnou como Alexandre Magno (educado por Aristóteles, a cultura helênica da liberdade, o sonho das novas cidades — Alexandrópolis, Alexandria) e depois como o general Ptolomeu e, por fim, Juscelino Kubitschek — 'outras Brasílias terão que ser construídas', agora em novos mundos com a especiação humana (o lobo que se especiou em 2.000 raças de cachorrinho). Brasília no chão mais antigo e estável do planeta (Planalto Central, 3,2 bi anos — a decisão dos seres da base Atlan, onde Lúcifer pousou há 98.000 anos); o fluxo cármico das velhas terras para o Novo Mundo (a turma menos habilitada veio parar no Brasil); a escola de Sagres e o sonho templário de Portugal; 'a espiritualidade brasileira foi invadida por espíritos revoltados'. Recolhe formulações PRECISAS para 15 códigos (13 com ficha: RC-018, RC-036, RC-068, RC-086, RC-282, RC-454, RC-513, RC-658, RC-727, RC-783, RC-850, RC-104, RC-295; 2 em fila aberta: RC-028 Atlan, RC-871 Midana). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (Brasil — origem do nome; Brasília — contexto espiritual da construção), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = []   # nenhum termo novo na devolutiva: Brasil e Brasília ABSORVIDOS sem código
 veto_lexico = ["p****", "m****", "b******", "e******", "i*****", "f**", "t*****"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (fase GARIMPO: nada materializado)
-ficha_true = 0   # viradas no cadastro (decisão só na devolutiva)
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 2      # RC-028 Atlan e RC-871 Midana MATERIALIZADAS nesta devolutiva (ordem do Curador)
+ficha_true = 2   # viradas no cadastro: RC-028 e RC-871 (ficha=False → True)
+termos = 0       # termos novos: nenhum (candidatos Brasil/Brasília absorvidos sem código)
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # vínculos só na devolutiva (ampliar/vincular autorizados pelo Curador)
+vinculos = 15   # 13 fichas do BLOCO 1 ampliadas + RC-028 + RC-871 materializadas (todas com bloco no pacote)
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-028", "RC-871"]   # saem da fila aberta (devolutiva de 01/09/2026); só com bloco no pacote
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -49,9 +49,29 @@ pontos = [
 ]
 
 [definicoes]
+RC-028 = "A Base Atlan (grafia STT base Atlon; o Grupo Atlan da Base) é a construção da família de Lúcifer no Nordeste brasileiro: não uma construção só, mas várias construções que se estendem do Ceará até o início da Bahia, erguidas ao longo de 100.000 anos e hoje cobertas pelo mar (a terra começou a esquentar há cerca de 23.000 anos e o gelo foi descongelando). Foi ali que Lúcifer pousou há 98.000 anos com uma de suas marchlans luciferianas (grafia STT, sem emenda). Seus seres estudaram toda a geologia planetária e escolheram o chão mais antigo e estável da Terra — o Planalto Central, fundido há 3,2 bilhões de anos — para construir a morada segura; os vetores da base chegam exatamente onde foi construída Brasília (P2022-09-25)."
+RC-871 = "Midana é a expressão sânscrita usada pelo autor para o código original primordial que veio do universo de lá para cá: o que Protogonos/Morrens automatizou quando da preparação dos códigos que seriam jogados no universo vizinho, o germe original da vida biológica (conceito do código registrado em P2022-10-01). Nesta fonte, o cenário da semeadura: a Terra tem 4 bilhões 600 milhões de anos e durante os primeiros 800 milhões foi uma bola incandescente de lava; a primeira parte que se esfriou foi o Planalto Central; há 3,8 bilhões de anos surgiu água e nela uma gota de ácido com o DNA de todos os corpos de seres vivos que hoje existem na Terra — a primeira molécula mãe, quando a vida sai do código químico para sua expressão físicobiológica (P2022-09-25)."
 
 [observacoes]
+RC-018 = ["**Absorção sem código (devolutiva):** a etimologia espiritual do nome Brasil (Iel Brasil → Deus Bres → terra de Br → Rai Brasil/high Brasil → Bless, o inglês bênção) e os registros sem código (Tuatha de Danann, grafia STT toatas de Danã, com os 4 talismãs: a pedra do poder, a lança do deus, a espada do rei e o caldeirão) entram na ficha da nave Esferon/Alto Langron — o candidato a código novo foi indeferido pelo Curador."]
+RC-036 = ["**Absorção sem código (devolutiva):** Deus Bres, primeiro rei dos Tuatha de Danann, e o epíteto de Iel Brasil — o ancestral das estrelas, que distribuía bênçãos para a mente e para o coração — entram na ficha dos biodemos: o candidato Brasil (origem do nome) foi absorvido, nenhum código novo."]
+RC-850 = ["**Absorção sem código (devolutiva):** o contexto espiritual da construção de Brasília (o mesmo espírito — Alexandre Magno, educado por Aristóteles, 4 dos 12 generais da família Iel → o general Ptolomeu → Juscelino Kubitschek — e o sonho da cultura helênica da liberdade e das novas cidades) entra na ficha de Alexandre Magno; o candidato Brasília foi indeferido, nenhum código novo. ⚠️ Divergência datada D-9 mantida com selo datado, sem harmonização: ficha P2023-02-11 (tirano sob influência de Lemion) vs palestra (espírito de Iel Brasil/Deus Bres implantando a cultura helênica da liberdade)."]
+RC-783 = ["**Absorção sem código (devolutiva):** outras Brasílias terão que ser construídas — o sonho de Br agora em novos mundos, quando a espécie humana começar a ser especiada (o lobo que se especiou em mais de 2.000 raças de cachorrinho) — entra na ficha da especiação humana; nenhum código novo."]
+RC-028 = ["**Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: a base Atlan, onde Lúcifer pousou há 98.000 anos, submersa do Ceará à Bahia, e os vetores que apontam para onde Brasília foi construída."]
+RC-871 = ["**Materializada (devolutiva):** saiu da fila aberta — ficha criada nesta devolutiva (ficha=False → True) com a pérola validada deste ciclo: o chão mais antigo (Planalto Central, 3,2 bi anos) e a molécula mãe (3,8 bi anos) — o cenário da semeadura do código original primordial no universo biológico."]
 
 [travas]
 
 [lacunas]
+# DEVOLUTIVA (2026-09-01): 19 pérolas 100% aprovadas — ampliar 13 fichas + vínculos 15.
+# Brasil — origem do nome → ABSORVIDO sem código (RC-018 nave Esferon/Alto Langron + RC-036
+# biodemos); nenhum código novo. Brasília — contexto espiritual da construção → ABSORVIDO sem
+# código (RC-850 Alexandre Magno + RC-783 especiação); nenhum código novo.
+# Registros sem código: Tuatha de Danann + 4 talismãs → ficha RC-018; veto de código para São
+# Brandão, Sagres e Julian Jaynes (contextos históricos e fontes externas — ordem do Curador).
+# Divergência datada D-9 mantida com selo datado, sem harmonização: RC-850 (espírito de Iel
+# Brasil/Deus Bres) vs ficha P2023-02-11 (tirano sob influência de Lemion).
+# RC-028 Atlan e RC-871 Midana MATERIALIZADAS (ficha=False → True) por ordem do Curador.
+# Quarentenas homologadas (política — PIB/meritocracia/baianão; religião institucional —
+# jesuitismo/Vaticano/maçonaria; biomediúnica/biográfica; veto léxico p****/e******/f**/m****).
+# O registro formal vive no BLOCO 2/3/5 do pacote.

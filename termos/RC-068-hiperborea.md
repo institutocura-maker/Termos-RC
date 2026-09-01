@@ -51,10 +51,16 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - **[Os híbridos surgiram no hiperbório] (U0002)** «No tempo em que os seres híbridos surgiram no hiperbório.» — o ponto de partida da espiritualidade errática: "No tempo em que os seres híbridos surgiram no hiperbório. No tempo em que o conceito de dharma surgiu entre aqueles seres como sendo um conceito pedagógico que em eles cumprindo faziam com que eles sentissem a nova, entre aspas, sensação de honra pessoal"; "Só que isso os bramenes elevaram a um nível de orgulho"; "a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios" (U0002: «Ainda que onde os humanos estavam tinham algumas almas desencarnadas de corpos híbridos hiperbóis, mas torno a dizer alguns ou a maioria dos seres hiperbórios queriam ir para onde os corpos, os ancestrais hiperbórios estavam, ou seja, os céus dos ancestrais hiperbórios.»).
 
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[A lendária Hiperbórea e as cidades do Polo Norte] (U0003)** «E essas terras estavam entre as terras que hoje pode ser considerado pelos terráqueos como sendo a lendária hiperbória.» — "O que é a hiperbória? Ou o continente tule. Seja na mitologia escandinava, seja na mitologia nórdica, seja na mitologia celta... Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás. Falhas fírias, górias, múrias, eloxia ou exiloia" (U0003: «Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás.») — "há cerca de 14.000 anos, devido um cataclisma, simplesmente foram engolidas pelo oceano. Só que os sobreviventes desceram do Polo Norte, foram para onde hoje é o Alas. foram paraa Sibéria, na Rússia, foram pro norte da Escócia, foram pro norte da Irlanda"; "nos últimos 20.000 anos o hiperbório terreno era o lugar mais chique de toda a criação de Brama ou de Javer... Apolo adorava sair do Olimpo e e conviver com os hiperbórios, porque os pessoal do Olímpio era tudo um bando de demente".
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |

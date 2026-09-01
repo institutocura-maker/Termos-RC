@@ -286,3 +286,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[A Trimurti tentou capturar as informações da teia] (U0002)** «Brama Virgem e Chiva, como eu já contei outras palestras, tentaram inúmeras vezes eh capturar essas informações.» — os três senhores tentaram capturar as informações da Wyrd: "Algumas vezes capturavam mesmo, mas não sabiam fazer uso, não sabia eh eh compreender"; "Brama não sabia o que fazer com aquilo e agia de modo truculento em termos de atitude mental. E aquilo até atrapalhava... a limpidez dos registros" — "foi quando Shiva e Vno ajudaram Orlog a manter Brama meio que sob controle".
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[O hiperbório, o lugar mais chique da criação] (U0003)** «Entendam, esses seres que vieram de capela como rebeldes para os que já existiam aqui na terra e pros que existiam no universo vizinho e que pelos portais vinham lá no hiperbódio, porque nesses últimos 20.» — o hiperbório como joia da criação de Brama/Javé: "nos últimos 20.000 anos o hiperbório terreno era o lugar mais chique de toda a criação de Brama ou de Javer. Foi aonde começou a surgir um pensamento racionalizado, equilibrado" (span truncado no bruto em "últimos 20."; sem emenda) — "os povos do hiperbólio eram os mais evoluídos. Tanto é que o próprio Apolo assim reza na mitologia grega, Apolo adorava sair do Olimpo e e conviver com os hiperbórios".
+

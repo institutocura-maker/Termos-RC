@@ -54,9 +54,15 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 - **[Protogonos/Fanes: criado pelos três senhores da Trimurte] (U0002)** «Foi quando vio, Chiva e Brama criaram Morrens, criaram um ser chamado Protogonos ou Fanis, é o mesmo nome visto sobre diversas formas.» — a 3ª fase da construção da teia: Vio (Vishnu), Chiva (Shiva) e Brama (Brahma) criaram Morrens (Mohen So = Phanes/Protogonos, RC-282; STT "Morrens" sem emenda) — "Ele foi feito a partir do temperamento de Vígeno, do temperamento genético de Vígeno, mas com a essência genética dos três senhores da Trimurte" (U0002: «Ele foi feito a partir do temperamento de Vígeno, do temperamento genético de Vígeno, mas com a essência genética dos três senhores da Trimurte, mas ele poôde ter uma essência genética pessoal para poder compreender criticamente, vamos assim dizer, o problema das outras três cabeças ou das outras três personalidades que está no seu ser, já que ele era alguém composto por quatro faces ou quatro cabeças e por aí vai.»); "O detalhe é que V repassou para Moren tudo que ele sabia sobre a teia quântica de Moros" (U0002: «O detalhe é que V repassou para Moren tudo que ele sabia sobre a teia quântica de Moros.») — e Moren concluiu: "nada de bom aqui vai ser criado. A gente tem que pegar o código da gente, jogar no universo vizinho para ver se esse código lá com um novo tipo de vida que lá poderá emergir" — o germe da vida biológica.
 
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[Protogonos e a primeira molécula mãe] (U0003)** «Esse essa primeira molécula mãe, que é uma gotinha de DNA de ácido que surgiu numa poça da água aqui na Terra com alguma fonte de calor pró seja um vulcão, alguma coisa assim, transformou essa gotinha em um pedaço de carne, ou seja, é quando a vida sai do código químico para sua expressão físicobiológica.» — "há 3.8 bilhões de anos atrás, surgiu água e nessa água surgiu uma gota de ácido com o DNA de todos os corpos de seres vivos que hoje existem na Terra" — a vida que "sai do código químico para sua expressão físicobiológica"; ressonância com a RC-282/Midana (RC-871: o código original primordial semeado no universo biológico).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | B014/B060/B061 | correspondências | fontes anteriores |
 | P2026-04-02 | U0045–U0054 | live/STT pré-curado |

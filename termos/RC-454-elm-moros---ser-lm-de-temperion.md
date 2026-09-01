@@ -132,9 +132,15 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 - **[Orlog cria as normas para proteger a teia] (U0002)** «Aí nesse ponto, Orlog resolveu criar as normas.» — Orlog (o Moros/Olog da Base; grafia STT "Orlog" preservada) criou as nornes — "Orlog criou alguns seres para exatamente poder criar uma teia de proteção em relação a em relação à aquela loca, aquele geno com essa coisa viva que passou a existir lá dentro"; "as próprias nornes que surgiriam de Pois, né, que foram criadas antes de de horlog se se exilar, elas sentem... elas não tinham acesso à teia porque a teia tornou-se meio que um fantasma" (U0002: «Em outras palavras, Orlog escondeu a loca.»).
 
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[Moros/Orlog: a teia que amarra os seres] (U0003)** «O fluxo cármico das velhas terras ou nações da antiguidade.» — a Wyrd/Moros (RC-658/RC-454) como pano de fundo do fluxo cármico: "Esse fluxo cármico veio dessas velhas terras para as novas terras entendidas como sendo ilhas paradisíacas num primeiro momento que foi a Austrália, a América, com um plano específico pros Estados Unidos, um plano específico pro México, um plano específico pro Brasil. Foi assim que a espiritualidade foi traçando os planos"; "Foi um grupo para os Austrália, um grupo paraa América do Norte, um grupo para América Central e a turma menos habilitada veio parar no Brasil. Pense num país sortudo. A terra de Brass virou" (U0006: «Foi um grupo para os Austrália, um grupo paraa América do Norte, um grupo para América Central e a turma menos habilitada veio parar no Brasil.»).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | Personagens e Terminologias da RC (B060) | verbete "Moros" | p. 4 (PDF) | equivalências + avatares |

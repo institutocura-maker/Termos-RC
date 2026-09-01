@@ -33,9 +33,16 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 - **[Subespécies humanas e o biocosmos emergente] (U0009)** «E por isso é necessário novas formas de expressão da vida humana ou novos ambientes para que a vida humana possa se expressar de uma forma nova e diferente para que sim as suespécies humanas possam produzir novos campos mórficos e daí o biocosmos emergente possa também se ancorar.» — a especiação como resposta ao impasse: "os campos quânticos forem parando de exer suas funções" — "é necessário novas formas de expressão da vida humana ou novos ambientes... para que sim as suespécies humanas possam produzir novos campos mórficos e daí o biocosmos emergente possa também se ancorar"; "o fato é que ele tá ancorado na espécie humana, a única racional dessa história. E a coisa não tá boa, não tem como estar boa"; ressonância com a RC-783 (Especiação Humana — Levas Genéticas).
 
 
+## Ampliação — P2022-09-25 (O Contexto Espiritual da Construção de Brasília)
+
+- **[A especiação: o lobo e os cachorrinhos] (U0006)** «000 espécies de cachorrinho que tem na Terra, todas elas se originaram dessa espécie de lou O que implica dizer que a espécie canes lupos, o lobo cinzento, se especiou em milhares de subespécies e terminou surgindo cachorrinho.» — o exemplo da especiação: "Há 10.000 anos atrás não existia cachorrinho na terra, só três espécies de lobo. Uma dessas espécies de lobo começou a ser levada pelos seres humanos para diversos lugares. Então essa espécie de lobo foi se adaptando aos lugares, foi promovendo mutações no seu DNA adaptativas e também modificativas. E hoje, 10.000 anos depois, as mais de 2.000 espécies de cachorrinho que tem na Terra" — "nós humanos, quando formos morar em Marte, Lua, Júpiter... esses novos humanos vão se adaptando aos locais e novas cidades serão construídas" — a especiação humana (RC-783) como base do sonho de "outras Brasílias".
+- **[O sonho agora é lá fora] (U0006)** «Então o sonho agora é lá fora, mas outras Brasílias terão que ser construídas, outras alexandas, outras sabe sei lá o quê.» — "o sonho de Bras de Hai Brasil, esse sonho de muitos aqui na Terra não logrou resultados porque a nossa nosso nível de corrupção, incapacidade, falta de ousadia e querer ficar em zona de conforto de crença, terminou nos aprisionando, desculpem, na mediocridade. Então o sonho agora é lá fora" — "quando a espécie humana começar a ser especiada" (novas cidades em novos mundos).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
