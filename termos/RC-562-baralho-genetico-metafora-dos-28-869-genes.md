@@ -40,10 +40,15 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 
 - **[O eu humano estruturante: novas receitas no genoma] (U0031)** «Criando novas receitas no genoma da condição humana.» — "como é que diabo se cria novas proteínas? Criando novas receitas no genoma da condição humana. Ah, modificando aqui o campo mórfico humano, é criando novidades"; "o que é ser estruturante? É você ser criativo, é você, entre aspas produzir novas receitas no seus genes. E isso se dá através de mutações. E mutações vem através de novas atitudes mentais e aí vem novas proteínas" (U0031: «mutações vem através de novas atitudes mentais e aí vem novas proteínas»); "nós humanos podemos criar vida em laboratório. E na hora que a gente criar vida em laboratório, ainda que a gente não perceba, mas vai surgir um campo quântico, campo mórfico daquele tipo de sezinho que você tá criando ali" (U0031: «vai surgir um campo quântico, campo mórfico daquele tipo de sezinho que você tá criando ali»); "as novidades que os seres humanos estão inventando? Infelizmente todas elas no campo da dominação" (U0031: «Infelizmente todas elas no campo da dominação»).
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[O DNA do criador atualizado na forma humana] (U0014)** «Entendam, isso aqui é o DNA do criador atualizado da forma humana.» — "se for 100% desse na ativo, é o mesmo já caído lá no início. Da doença dele, a gente só tem ativa 2 a 3%. O resto tá inativo pra gente poder ser um alguém"; "no DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo, ou seja, não produz proteína" (U0014: «No DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo, ou seja, não produz proteína»); "se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa" (U0014: «Se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa»).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

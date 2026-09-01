@@ -76,9 +76,14 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[A rebelião como percepção matemática quântica] (U0013)** «É uma simples percepção, vamos dizer, matemática quântica, de que o que eles estão sendo obrigados a fazer não vai funcionar no sentido de receber as Notícias de quem?» — a natureza da rebelião dos elétrons: não é indignação nem escolha moral — "a rebelião dos elétrons não é nada de dignidade, porque os elétrons não lidam com essas questões" — é a percepção, via táquions, de que o que são obrigados a fazer não vai funcionar segundo o que já está escrito.
 
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[A rebelião dos elétrons e o DNA] (U0014)** «se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa.» — o despertar do DNA lixo (a rebelião como recusa de reproduzir o que está marcado): "no DNA, nos 28.869 genes humanos, só 2, 3% tá ativo, o resto é lixo" (U0014: «No DNA, nos 28.869 genes humanos, só 2, 3% tá ativo»); "tudo que veio dele, de todos esses seres que não presta, tá no DNA da gente. Só que fechado" (U0014: «Mas tudo que veio dele, de todos esses seres que não presta, tá no DNA da gente. Só que fechado»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

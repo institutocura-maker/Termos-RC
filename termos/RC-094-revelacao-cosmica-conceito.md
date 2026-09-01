@@ -92,3 +92,8 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **[P2023-12-03 · REVELAÇÃO CÓSMICA (CONCEITO) NA FALA DE 03/12/2023]** «para nós vinculados à revelação cósmica, os que estão estudando esses assuntos, é só mais um capítulo de coisas esquisitas e de certas estranhezas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[Kant e as incertezas; as mitologias como notícias] (U0003)** «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — a chave epistemológica: "nós humanos, fomos condicionados a colecionar inúmeras certezas"; "quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra, mas essas mitologias são as mais antigas, são as primeiras notícias que o ser humano organizou" (U0004: «E assim, quando você estuda, e eu fiz isso, 75 mitologias, tem mais de 100 aqui na Terra»); "em todas elas é dito que essa criação é problemática e que o ser que criou nada tem a ver com nenhum Deus maravilhoso" (U0004: «em todas elas é dito que essa criação é problemática»).
+

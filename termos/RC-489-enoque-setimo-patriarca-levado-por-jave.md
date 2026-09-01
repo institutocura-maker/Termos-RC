@@ -95,10 +95,15 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - **[Jesus reafirmava a agenda de Enoque] (U0009)** «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — o julgamento geral como agenda antiga: "o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos. Agenda essa que lhe foi ditada por Javé"; o autor "na leitura de todas as promessas feitas pelo ser humano Jesus constante nos seus evangelhos e pelo que eu escutava dos espíritos sobre a perspectiva da vinda de Jesus" — "depois eu compreendi o equívoco dos próprios espíritos".
 
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[A Bíblia dos hindus e a linhagem] (U0012)** «Como eu já disse, o marra barata é a Bíblia dos hinduistas também nesse sentido, como eu falei, a Bíblia dos judeus, a história de Adão e Eva, a Bíblia dos hindav, irmão.» — a equivalência estrutural: "a descendência escolhida que passou a ser a história do Marabarata foi Barata e Mandarf" (U0014: «a descendência escolhida que passou a ser a história do Marabarata foi Barata e Mandarf»); "por isso que o nome é Marata, a história do grande barata que foi o progenitor de toda a descendência da linhagem que deu origem a arianos, hindus e por aí vai" (U0014: «a história do grande barata que foi o progenitor de toda a descendência da linhagem que deu origem a arianos, hindus e por aí vai»).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |

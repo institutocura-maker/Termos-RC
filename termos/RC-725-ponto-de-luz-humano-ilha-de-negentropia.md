@@ -90,9 +90,14 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 
 - **[A ilha de produção no meio do caos] (U0002)** «Nas negentropias, que são ilhas de produção ativa no meio do caos, no meio da da entropia, alguns seres humanos conseguem ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali.» — as negentropias como ilhas de produção ativa no meio do caos — "alguns poucos seres humanos podem funcionar por si mesmos... ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali. Mas a correnteza levou a humanidade" (grafia STT "da da" sem emenda).
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[As almas como depósito de lixo; a limpeza possível] (U0036)** «As almas da gente são depósitos de lixo dos arquivos emprestáveis experiências desses seres.» — "aí nós humanos é que podemos limpar esses arquivos emprestar dignidade, decência, sentimento de amor, carinho" (U0036: «Aí nós humanos é que podemos limpar esses arquivos emprestar dignidade, decência, sentimento de amor, carinho»); "toda e qualquer vida que exista por aí é um sistema estruturado pulsando" (eco do P2022-09-18; U0036: «A única solução que tem» — span truncado).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

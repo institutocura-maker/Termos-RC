@@ -126,9 +126,14 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 
 - **[O sono de Brama sem despertar] (U0012)** «Mais uma vez ele está submetido ao tal sono de Brama, só que ele não vai acordar.» — o colapso final do criador: "o ser chamado Zontendrel... me sinalizou essa questão de desgaste do sistema Cméico"; "a função dos anjos clones de Javé sempre foi a de manterem o domínio sobre a obra ao longo do tempo dos colapsos do Criador, eufemisticamente chamado de sono descanso"; "segundo as fofocas, nos últimos anos, o Jaavé não deu mais ordem coisa alguma. E os anjos só agem com ordem. já porque eles não têm uma" (U0012: «E os anjos só agem com ordem. já porque eles não têm uma»); ressonância com o "sono de Brama às vezes dá 4 milhões, tá tá de anos" citado na abertura (U0006: «o sono de Brama às vezes dá 4 milhões, tá tá de anos, como a gente falou ontem»).
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[Brama e a escolha da linhagem de Barata] (U0012)** «Então, A opção de Brahma foi acompanhar Barata e a sua esposa Mundav.» — "a importância que o criador, apresentando-se como Javé, deu a descendência de Adão e Eva, como Brah, ele deu a descendência dos baratas" (U0012: «A importância que o criador, apresentando-se como Javé, deu a descendência de Adão e Eva»); "o marra barata é a Bíblia dos hinduistas também nesse sentido, como eu falei, a Bíblia dos judeus, a história de Adão e Eva, a Bíblia dos hindav, irmão" (U0012: «Como eu já disse, o marra barata é a Bíblia dos hinduistas também nesse sentido»); "Ravana queria o DNA de Brama e ficou meditando como se fosse orando o tempo todo para Brama" (U0008: «Ravana queria o DNA de Brama e ficou meditando como se fosse orando o tempo todo para Brama»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |

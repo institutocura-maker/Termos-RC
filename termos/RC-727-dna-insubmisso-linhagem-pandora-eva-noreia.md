@@ -169,3 +169,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[O sangue brasileiro: DNA de todas as perspectivas] (U0006)** «O sangue brasileiro é o único sangue a ter.» — "os espíritos mais velhos do planeta estavam trabalhando na única raça cujo DNA é totalmente mistiço... Sangue dos três filhos de Noé, Sam, Cam, Jafé, e também do de Caim, via os nativos da do continente americano" (U0006: «Sangue dos três filhos de Noé, Sam, Cam, Jafé, e também do de Caim, via os nativos da do continente americano.») — "Nós brasileiros, somos os únicos a ter um sangue em que todas as perspectivas evolutivas que marcadas no DNA estão concentradas. Nós somos um povo cujo DNA é de uma riqueza sem tamanho, só que a gente não sabe usar" — ressonância com a RC-727 (linhagem Pandora–Eva–Noreia; DNA insubmisso).
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[Os humanos: inocentes úteis] (U0004)** «Do jeito que cachorrinho e gato hoje são nossos animais de estimação, nesse passado, os humanos funcionavam mais assim, como inocentes úteis, usados por forças mais poderosas, mais espertas, que tinham seus objetivos.» — "o mal existia no sentido de que nós, os humanos, nessa época éramos mais animais de estimação de outros seres" (U0004: «os humanos, nessa época éramos mais animais de estimação de outros seres»).
+

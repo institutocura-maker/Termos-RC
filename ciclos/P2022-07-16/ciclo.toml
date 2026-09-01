@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (135.337 B / 38 linhas / 28 com fala / 23.496 palavras / 131.146 chars; cobertura 9/9 fatias provada; maior linha ~31.880 chars). Tese: o contexto por trás do Ramayana e do Mahabharata — a história de Rama (avatar de corpo de plasma engendrado por Vishnu, que liquidou Ravana e instaurou a sinarquia cósmica, governando os dois universos por milênios) e a de Krishna (a definitiva transferência do poder trimurtiano ancestral para as novas classes demo e híbrida; na época do Mahabharata o deus mais forte já era Indra/Zeus, não mais a Trimurti). O que estava em jogo era o fluxo do eu tipo demo de Javé para uma condição de hibridagem: os Rakchasas (estirpe programada no DNA para sugar o sangue dos mamíferos — a ressonância límbica como matéria de estudo dos seres do universo vizinho, percebida há ~70.000 anos), Ravana (criado do DNA de Chiva, que absorveu o DNA de Brama por meditação e 10.000 anos arrancando as próprias cabeças, tornando-se o ser mais poderoso dos dois universos), os 30.000 xátrias liquidados por Rama e a origem da casta dos riches (da união dos bramanes com as viúvas dos xátrias), a linhagem de Barata e Mandavi (a 'Bíblia dos hindus', os Pândavas × Kurus em Kurukshetra, o Bhagavad Gita), o DNA do criador atualizado na forma humana (28.869 genes, 2-3% ativos; as pelps/beberagens), e o fechamento dos portais (descoberto por um sacerdote tolteca há ~17.000 anos; precessão de 26.000 anos; 2012; 'os portais se fecharam, ninguém estava preparado') até o fim do hidrogênio do nosso universo (a energia escura = energia tamásica de Chiva; 'as almas da gente são depósitos de lixo' que só o eu humano pode limpar — embelezar o próprio código genômico). Recolhe 25 formulações PRECISAS em 21 códigos (todos com ficha: RC-414, RC-104, RC-037, RC-102, RC-001, RC-562, RC-322, RC-295, RC-783, RC-094, RC-092, RC-727, RC-009, RC-513, RC-636, RC-086, RC-282, RC-160, RC-489, RC-378, RC-725). NENHUM termo novo por conta própria: 3 candidatos declarados no BLOCO 2 (Rakchasas; sinarquia cósmica; riches), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-872", "RC-873"]   # Rakchasas e Sinarquia Cósmica — códigos novos em FILA ABERTA (devolutiva do Curador; ficha=False, materialização futura)
 veto_lexico = ["c******", "e*****", "m****"]   # máscaras do próprio bruto: c****** ×2, e***** ×1, m**** ×1 — 4 ocorrências
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo
-ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 0      # fichas criadas por este ciclo (RC-872/873 ficam em FILA ABERTA, ficha=False — materialização futura)
+ficha_true = 0   # viradas no cadastro (nenhuma materialização ordenada)
+termos = 2       # termos novos: RC-872 (Rakchasas) e RC-873 (Sinarquia Cósmica), autorizados pela devolutiva do Curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+vinculos = 23   # 21 códigos do BLOCO 1 ampliados + RC-872 + RC-873 criados com a fonte P2022-07-16
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = []      # nenhuma materialização ordenada nesta devolutiva (RC-872/873 em fila aberta)
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -39,7 +39,12 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 # byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
 # todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
 [ampliar]
-codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo (21 fichas)
+substituir = true # REexecução autorizada pelo portão C: o pacote foi corrigido na fase de
+                  # devolutiva (2 aspas de glosa rebaixadas: RC-322 grafava "brames" onde o
+                  # STT escreveu "braes"; RC-783 citava eco do P2022-09-18 que NÃO ocorre
+                  # nesta fonte — removido); as 21 seções são reescritas com o pacote
+                  # corrigido (justificativa registrada no relatório do ciclo, §3)
 
 [tese]
 pontos = [
@@ -51,7 +56,21 @@ pontos = [
 [definicoes]
 
 [observacoes]
+RC-872 = ["**Código novo em fila aberta (devolutiva):** Rakchasas — a estirpe programada no DNA para sugar o sangue dos mamíferos, criada pela Trimurti como cobaia da ressonância límbica; a família que se desdobrou em muitas estirpes; Ravana como o rei. Autorizado pelo Curador (devolutiva de 01/09/2026); ficha=False, materialização futura."]
+RC-873 = ["**Código novo em fila aberta (devolutiva):** Sinarquia Cósmica — o governo de um grupo de sábios incorruptíveis («Sinarquia é o governo aonde você estabelece um grupo de sábios e esse grupo de sábios é quem exerce o poder»), instaurado por Rama nos dois universos a partir da Terra. Autorizado pelo Curador (devolutiva de 01/09/2026); ficha=False, materialização futura."]
+RC-322 = ["**Absorção sem código (devolutiva):** a casta dos riches — nascida da união dos bramanes com as viúvas dos xátrias, mais poderosa que ambas as castas; Vyasa, o autor do Mahabharata, é um riche — entra na ficha de Dharma e Castas como extensão conceitual; o candidato a código próprio foi indeferido pelo Curador (navalha mantida)."]
 
 [travas]
 
 [lacunas]
+# DEVOLUTIVA (2026-09-01): 25 pérolas 100% aprovadas — ampliar 21 fichas + vínculos 23.
+# Rakchasas → código novo RC-872 em FILA ABERTA (estirpe programada no DNA, cobaia da
+# ressonância límbica; ficha=False, materialização futura). Sinarquia Cósmica → código
+# novo RC-873 em FILA ABERTA (o governo dos sábios instaurado por Rama; ficha=False).
+# Riches → ABSORVIDOS na RC-322 (extensão conceitual das castas; sem código próprio —
+# navalha mantida).
+# NENHUMA materialização ordenada nesta devolutiva: RC-872/873 ficam na fila aberta
+# (9 → 11 códigos em fila com ficha=False).
+# Quarentenas homologadas (clínicos, políticos, biomediúnicos, institucionais) e vetos
+# léxicos mantidos (4 ocorrências de máscara no original: c****** ×2, e***** ×1, m**** ×1).
+# O registro formal vive no BLOCO 2/3/5 do pacote.

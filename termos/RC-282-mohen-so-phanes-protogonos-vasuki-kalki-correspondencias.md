@@ -59,9 +59,14 @@ P2026-04-02 confirma que a forma transcrita Morren So corresponde a Mohen So e n
 - **[Protogonos e a primeira molécula mãe] (U0003)** «Esse essa primeira molécula mãe, que é uma gotinha de DNA de ácido que surgiu numa poça da água aqui na Terra com alguma fonte de calor pró seja um vulcão, alguma coisa assim, transformou essa gotinha em um pedaço de carne, ou seja, é quando a vida sai do código químico para sua expressão físicobiológica.» — "há 3.8 bilhões de anos atrás, surgiu água e nessa água surgiu uma gota de ácido com o DNA de todos os corpos de seres vivos que hoje existem na Terra" — a vida que "sai do código químico para sua expressão físicobiológica"; ressonância com a RC-282/Midana (RC-871: o código original primordial semeado no universo biológico).
 
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[O projeto Talm: o código de lá para cá] (U0036)** «Aí eles mandaram o código de lá para cá, é o que eu chamo do projeto Talm, como eles explicaram.» — "quando a turma do universo vizinho percebeu que a vida lá havia fracassado, porque lá só tem anjo clone robotizado ou demo maluco"; "nesse ponto, eles criaram três formas de replicação de vida biológica" (U0036: «Nesse ponto, eles criaram três formas de replicação de vida biológica»); "os portais naturais entre os dois universos de repente estavam surgindo e ninguém sabia de onde... era da própria movimentação de matéria e antimatéria" (U0036: «era da própria movimentação de matéria e antimatéria»).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | B014/B060/B061 | correspondências | fontes anteriores |

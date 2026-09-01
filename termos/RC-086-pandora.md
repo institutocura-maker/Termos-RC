@@ -128,10 +128,15 @@ Na Revelação Cósmica de Jan Val Ellam, Pandora é a figura que "destravou lac
 - **[As rebeliões que forjaram o hiperbório] (U0003)** «Foi aonde começou a surgir um pensamento racionalizado, equilibrado, que já vinha sendo trabalhado aqui na Terra desde a rebelião de Pandora lá atrás, desde a rebelião de Eva, desde a rebelião de Noria, filha de Eva, que ninguém conhece.» — "a cerca de 20, 19, 18, 17, 16.000 anos, esses povos do hiperbólio eram os mais evoluídos" — o pensamento racionalizado nasce das rebeliões (Pandora RC-086/RC-727, Eva, Noreia "filha de Eva, que ninguém conhece" — RC-727 linhagem Pandora–Eva–Noreia).
 
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[Eva também tomou pelps] (U0014)** «Eva também tomou pelps.» — a releitura da queda: "vocês acham que Adão, que Eva mordeu uma maçã? Não. Eva também tomou pelps"; "as poções que Epimeteu produziu lá na época de Pandora, que é da ência de Pandora dava tudo que era mulher, tentando fazer com que a Eva foi uma das que 20.000 anos depois de Pandora despertou a própria consciência no sentido de autoconsciência" (U0014: «Eva foi uma das que 20.000 anos depois de Pandora despertou a própria consciência no sentido de autoconsciência»); "pelps é bebida, mas essa bebida eram raízes de árvores trabalhadas, que hoje a gente chama isso de aasca, de cannabis" (U0014: «essa bebida eram raízes de árvores trabalhadas»).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |

@@ -64,6 +64,15 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 ### PER-2022-07-16-005 · RC-414
 
+* **Endereço**: `P2022-07-16` · U0006 · chars 23388–23484 · 96 c
+* **Termo**: `RC-414`
+* **Status**: `candidata` · **Por quê**: cruza 1 termo(s) da Base
+* **Cruza**: `RC-873`
+
+> «O Ramaiana é uma narrativa produzida em torno de Rama e a sinarquia cósmica por ele constituída.»
+
+### PER-2022-07-16-006 · RC-414
+
 * **Endereço**: `P2022-07-16` · U0008 · chars 37292–37387 · 95 c
 * **Termo**: `RC-414`
 * **Status**: `candidata` · **Por quê**: cruza 1 termo(s) da Base
@@ -71,7 +80,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Ravana começou a meditar em cima de Rama para Rama dar todos os formas de poder que ele queria.»
 
-### PER-2022-07-16-006 · RC-562
+### PER-2022-07-16-007 · RC-562
 
 * **Endereço**: `P2022-07-16` · U0014 · chars 78966–79032 · 66 c
 * **Termo**: `RC-562`
@@ -80,7 +89,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Entendam, isso aqui é o DNA do criador atualizado da forma humana.»
 
-### PER-2022-07-16-007 · RC-001
+### PER-2022-07-16-008 · RC-001
 
 * **Endereço**: `P2022-07-16` · U0006 · chars 22339–22520 · 181 c
 * **Termo**: `RC-001`
@@ -88,7 +97,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Na verdade, fala dos desses dois heróis, mas o que estava em jogo era o fluxo do eu tipo demo de Javé, para uma condição de hibridagem, ou seja, misturada com da condição biológica.»
 
-### PER-2022-07-16-008 · RC-009
+### PER-2022-07-16-009 · RC-009
 
 * **Endereço**: `P2022-07-16` · U0036 · chars 128412–128580 · 168 c
 * **Termo**: `RC-009`
@@ -96,7 +105,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Primeiro, a não aceitação de muita gente lá que Sofia assuma essa tal de vestimenta nos termos dos evangelhos e as outras não tem nada a ver com Sofia, é sobrevivência.»
 
-### PER-2022-07-16-009 · RC-086
+### PER-2022-07-16-010 · RC-086
 
 * **Endereço**: `P2022-07-16` · U0014 · chars 77344–77367 · 23 c
 * **Termo**: `RC-086`
@@ -104,7 +113,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Eva também tomou pelps.»
 
-### PER-2022-07-16-010 · RC-092
+### PER-2022-07-16-011 · RC-092
 
 * **Endereço**: `P2022-07-16` · U0004 · chars 7866–7981 · 115 c
 * **Termo**: `RC-092`
@@ -112,7 +121,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Nós não somos homo sapiens, apesar do que os paleoantropólogos dizem, nós somos ainda homoenss e homo inteligentes.»
 
-### PER-2022-07-16-011 · RC-094
+### PER-2022-07-16-012 · RC-094
 
 * **Endereço**: `P2022-07-16` · U0003 · chars 1843–2019 · 176 c
 * **Termo**: `RC-094`
@@ -120,7 +129,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.»
 
-### PER-2022-07-16-012 · RC-160
+### PER-2022-07-16-013 · RC-160
 
 * **Endereço**: `P2022-07-16` · U0036 · chars 129712–129776 · 64 c
 * **Termo**: `RC-160`
@@ -128,7 +137,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Agora o universo tá fazendo ao contrário, tá rasgando tudo isso.»
 
-### PER-2022-07-16-013 · RC-295
+### PER-2022-07-16-014 · RC-295
 
 * **Endereço**: `P2022-07-16` · U0036 · chars 126086–126174 · 88 c
 * **Termo**: `RC-295`
@@ -136,7 +145,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Os portais entre os dois universos começaram a se fechar ao longo dos últimos 5000 anos.»
 
-### PER-2022-07-16-014 · RC-295
+### PER-2022-07-16-015 · RC-295
 
 * **Endereço**: `P2022-07-16` · U0036 · chars 122690–122753 · 63 c
 * **Termo**: `RC-295`
@@ -144,7 +153,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Esses portais os primeiros 5 se bilhões de anos não se abriram.»
 
-### PER-2022-07-16-015 · RC-322
+### PER-2022-07-16-016 · RC-322
 
 * **Endereço**: `P2022-07-16` · U0007 · chars 39337–39548 · 211 c
 * **Termo**: `RC-322`
@@ -152,21 +161,13 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 > «Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento.»
 
-### PER-2022-07-16-016 · RC-378
+### PER-2022-07-16-017 · RC-378
 
 * **Endereço**: `P2022-07-16` · U0014 · chars 78844–78965 · 121 c
 * **Termo**: `RC-378`
 * **Status**: `candidata` · **Por quê**: —
 
 > «se você age feito um Reptil, porque você já tem cérebro reptiliano lá dentro, você termina despertando aqui alguma coisa.»
-
-### PER-2022-07-16-017 · RC-414
-
-* **Endereço**: `P2022-07-16` · U0006 · chars 23388–23484 · 96 c
-* **Termo**: `RC-414`
-* **Status**: `candidata` · **Por quê**: —
-
-> «O Ramaiana é uma narrativa produzida em torno de Rama e a sinarquia cósmica por ele constituída.»
 
 ### PER-2022-07-16-018 · RC-414
 
@@ -234,7 +235,7 @@ Toda pérola nasce `candidata`. O corpus RAG só recebe a que tiver carimbo do C
 
 ## 4 · Atualizações para a Base
 
-* **Termos novos**: 0. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
+* **Termos novos**: 2 — cadência do teto suspenso: RC-872, RC-873. Cada um existe porque uma pérola o exigiu, não porque a fonte o nomeou.
 * **Relações**: nenhuma aresta criada, fechada ou reetiquetada por este ciclo. Aresta só entra tipada, com evidência (span + endereço) e selo datado.
 * **Divergências**: com selo datado, sem média — a Base não harmoniza números por decisão de quem aplica.
 * **Fila aberta**: 0 código(s) tocado(s) por esta fonte e ainda sem arquivo — a fila nasce deste produto, e não de memória.

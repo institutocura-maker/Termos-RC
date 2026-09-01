@@ -53,9 +53,14 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - **[O karma foi gerado pros demos] (U0002)** «Do jeito que o conceito de karma foi gerado pros demos de acordo com o Varna, relativo ao Dharma e os humanos herdaram.» — a genealogia demo do karma: "do jeito que o yoga também foi algo criado pros demos e que os humanos ardaram do jeito que o conceito de dharma foi criado pros demos e para quem pertence à casta e os humanos herdaram e dão 100 interpretações" — "e isso é que mexe a teia o erdo para fazer com que fulaninho depois de morto... o seu espírito vá para ali ou para lá"; ressonância com o P2022-11-20 (karma derivado do dharma ancorado nos critérios várnicos).
 
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[O varna: a base do dharma] (U0007)** «Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento.» — "o Varna é a base do conceito do dharma. que é o dever sagrado de cada um, cujo dma era fazer uso do sangue humano e de outros animais" (U0007: «O Varna é a base do conceito do dharma»); "as quatro principais castas que Ixivaco lá atrás começou a implementar... Os sudras são também chamados de dálides" (U0015: «Os sudras são também chamados de dálides»); "Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores" (U0015: «Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores.»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |

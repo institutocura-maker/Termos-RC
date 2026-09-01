@@ -136,10 +136,15 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[A lenda da força tamásica] (U0021)** «Reza uma lenda não terrena que Sáveina somente aplicou a sua força tamásica nos termos em que o fez, porque divisou quando seria o ponto de inflexão da derrocada do corpo.» — a lenda: Savna/Shiva aplicou a força tamásica porque leu no rastro da consciência do criador caído o ponto de inflexão da derrocada — "Eu acho que é aqui... vou concentrar tudo que é energia pesada aqui para ver se ele morre mesmo" (grafia STT "Sáveina" = Savna).
 
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[Ravana: criado do DNA de Chiva] (U0007)** «Ravana como um bom racassa, foi criado a partir do DNA de Chiva, porque Shiva no seu forno de Awailing foi quem produziu a animalidade tanto no universo de lá quanto no de cá.» — "mas para ele ser o mais mais, ele tinha que ter também o DNA de Brama absorvido por ele" (U0007: «Mas para ele ser o mais mais, ele tinha que ter também o DNA de Brama absorvido por ele»); "Ravana, que era o rei dos rakchaçes, tornou-se o ser mais forte nessa época, porque de tanto tanta experiência que ele conduziu e era muito inteligente" (U0007: «os raquchaças que se alimentavam disso começavam a ter até o ponto em que Ravana, que era o rei dos rakchaçes, tornou-se o ser mais forte nessa época»).
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |

@@ -43,9 +43,14 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 
 - **[O ser humano regenerado espalhando-se pelo cosmos] (U0053)** «E outros lá, eles não falavam especiação da espécie humana, mas eles diziam: "Um dia o ser humano regenerado vai ter que se espalhar pelo cosmos".» — o desejo do Cristo cósmico: "vai ser esse é o futuro da humanidade. Esse é o desejo do Cristo cósmico" (U0053: «Vai ser esse é o futuro da humanidade. Esse é o desejo do Cristo cósmico»); a previsão furada: "isso tava previsto em 1989 para acontecer em 2047, 2048, 2049" (RC-513); "talvez aqui surja um um entendimento que vem sendo guardado no IEA, em livros, em reflexões, no genoma de cada um de nós... talvez isso salve umas algumas colmeias e essas colmeias se especiem, ou seja, se espalhe no universo no processo da especiação da natureza humana" (U0031: «talvez isso salve umas algumas colmeias e essas colmeias se especiem»).
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[O futuro: a humanidade especiada e os humanos espalhados] (U0036)** «Os humanos espalhados por aí conseguem viver de uma forma a embelezar o seu próprio código genômico.» — "a esperança de todo mundo, ainda que muita gente não compreende, é que a humanidade não se extingua agora que nós estamos correndo risco" (U0036: «E a esse a pra gente acabar, a esperança de todo mundo, ainda que muita gente não compreende, é que a humanidade não se extingua agora que nós estamos correndo risco»); "o futuro da criação é a natureza humana ser usada por todas essas consciências. Então, quando esse universo aí acabar, eles vão ter que nascer tudo aqui nesse universo, na humanidade especiada e em outras" (U0014: «quando esse universo aí acabar, eles vão ter que nascer tudo aqui nesse universo, na humanidade especiada e em outras»).
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-09-18 | Os Níveis de Estresse Extremo da Criação (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |

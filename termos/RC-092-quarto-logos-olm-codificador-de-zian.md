@@ -235,3 +235,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[O quarto logos e as gerações futuras] (U0031)** «O quarto logos é que vai introduzir esses temas que eu tô falando aqui paraas gerações futuras.» — "é preciso criar na Terra escolas que tratem desse assunto"; "se os nossos tataranetos nos repetirem... Porque nós não sabemos estruturar nada. A gente só sabe ser estruturado pelo que vem na nossa direção"; "nós somos condicionados a não fazer isso. Esse é um problema" (U0031: «nós somos condicionados a não fazer isso. Esse é um problema»).
 
+## Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)
+
+- **[O homo sapiens que ainda não somos] (U0004)** «Nós não somos homo sapiens, apesar do que os paleoantropólogos dizem, nós somos ainda homoenss e homo inteligentes.» — "o Homo sapiens é aquele que vai pro novo estágio, critica a concepção que ele criou para ver se tá certa"; "a condição humana, ela naturalmente é decifradora" (U0004: «A condição humana, ela naturalmente é decifradora»); "a arte da decifração... surgiu de modo tão inopinado que nem os tais deuses mitológicos e nem o próprio criador universal, também tido como um ser mitológico, gostou da história" (U0004: «nem os tais deuses mitológicos e nem o próprio criador universal, também tido como um ser mitológico, gostou da história»).
+

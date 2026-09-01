@@ -52,7 +52,7 @@
 
 ### RC-322
 
-- **[O varna: a base do dharma] (U0007)** «Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento.» — "o Varna é a base do conceito do dharma. que é o dever sagrado de cada um, cujo dma era fazer uso do sangue humano e de outros animais" (U0007: «O Varna é a base do conceito do dharma»); "as quatro principais castas que Ixivaco lá atrás começou a implementar... Os sudras são também chamados de dálides" (U0015: «Os sudras são também chamados de dálides»); "os brames, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores" (U0015: «Os brames, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores»).
+- **[O varna: a base do dharma] (U0007)** «Foi engendrada uma estirpe que se desdobrou em outras muitas e todas elas passaram a ser conhecidas como a família dos rakchaças, cujo varna, varna em sânscrito significa talento e dever de acordo com o talento.» — "o Varna é a base do conceito do dharma. que é o dever sagrado de cada um, cujo dma era fazer uso do sangue humano e de outros animais" (U0007: «O Varna é a base do conceito do dharma»); "as quatro principais castas que Ixivaco lá atrás começou a implementar... Os sudras são também chamados de dálides" (U0015: «Os sudras são também chamados de dálides»); "Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores" (U0015: «Tem os braes, que são os sacerdotes, os que cháatras, os guerreiros, os vaixais governantes, os sudras são os trabalhadores.»).
 
 ### RC-295
 
@@ -61,7 +61,7 @@
 
 ### RC-783
 
-- **[O futuro: a humanidade especiada e os humanos espalhados] (U0036)** «Os humanos espalhados por aí conseguem viver de uma forma a embelezar o seu próprio código genômico.» — "a esperança de todo mundo, ainda que muita gente não compreende, é que a humanidade não se extingua agora que nós estamos correndo risco" (U0036: «E a esse a pra gente acabar, a esperança de todo mundo, ainda que muita gente não compreende, é que a humanidade não se extingua agora que nós estamos correndo risco»); "o futuro da criação é a natureza humana ser usada por todas essas consciências. Então, quando esse universo aí acabar, eles vão ter que nascer tudo aqui nesse universo, na humanidade especiada e em outras" (U0014: «quando esse universo aí acabar, eles vão ter que nascer tudo aqui nesse universo, na humanidade especiada e em outras»); "o ser humano regenerado vai ter que se espalhar pelo cosmos" (U0036: «Um dia o ser humano regenerado vai ter que se espalhar pelo cosmos» — eco do P2022-09-18).
+- **[O futuro: a humanidade especiada e os humanos espalhados] (U0036)** «Os humanos espalhados por aí conseguem viver de uma forma a embelezar o seu próprio código genômico.» — "a esperança de todo mundo, ainda que muita gente não compreende, é que a humanidade não se extingua agora que nós estamos correndo risco" (U0036: «E a esse a pra gente acabar, a esperança de todo mundo, ainda que muita gente não compreende, é que a humanidade não se extingua agora que nós estamos correndo risco»); "o futuro da criação é a natureza humana ser usada por todas essas consciências. Então, quando esse universo aí acabar, eles vão ter que nascer tudo aqui nesse universo, na humanidade especiada e em outras" (U0014: «quando esse universo aí acabar, eles vão ter que nascer tudo aqui nesse universo, na humanidade especiada e em outras»).
 
 ### RC-094
 
@@ -170,8 +170,6 @@
 
 # - "Nós estamos falando aqui dos tempos hiperbórios, que a gente vai falar também amanhã
 #   ao falar da mitologia lava" — a promessa da palestra seguinte (U0014).
-# - "o ser humano regenerado vai ter que se espalhar pelo cosmos" — o futuro da
-#   humanidade (U0036; eco do P2022-09-18).
 # - "as gerações futuras humanas mesmo depois da reintegração cósmica, mesmo depois da
 #   vinda de Sofia, esses problemas vão ainda começar a perturbar" (U0036).
 # - "algumas dessas raças estão mandando sondas para cá... que ainda estão dormindo, mas
