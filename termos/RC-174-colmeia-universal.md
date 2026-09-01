@@ -36,9 +36,15 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 - **[O colapso colmeico presenciado] (U0013)** «Então, assim, como eu já falei em outras palestras, eu assisti pessoalmente ao colapso do sistema colmeico de Javé e dos Anjos.» — Ellam assistiu ao colapso do sistema colmeico de Javé e dos anjos por ter sido "obrigado a fazer o ocaso do ser chamado Javé": os seres se ligaram a ele como decifrador da realidade deles; a chave de leitura veio do colapso das colmeias de abelhas (2004/2007).
 
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[As colmeias colapsando desde 2007] (U0002)** «E o essa história só acabou no ano 2012, porque logo depois a Trimurto se desconstituiu, tipo as os as colmeias que já começaram a colapsar no ano 2007 aqui no na realidade biológica.» — o fim da história da disputa (2012) ecoou o colapso das colmeias iniciado em 2007 na realidade biológica — "uma coisa está profundamente ligada com a outra" (grafias STT "Trimurto" = Trimurti; sem emenda).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | A Divina Colmeia (B044) | Sinopse; caps. 3, 13, 14, 15 | pp. 5, 30–42, 96–110 | conceito central da obra |

@@ -92,10 +92,16 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 - **[O plano desesperado] (U0022)** «Agora, mais ainda, esse plano virou, como eu usei a expressão aí, o único projeto desesperador, desesperado que esses seres estão pondo em curso.» — o plano de usar os humanos como realizadores do tikum já era a única alternativa; agora é "o único projeto desesperador" — os seres passaram a "procurar migalhas das sobras" do que cada humano faz no campo de esclarecimento.
 
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[Zero construção do tikum] (U0002)** «Eu vou ter que fazer revelações fortes sobre esse tipo de questão, porque somos nós, os humanos, não esse tipo de humano que agora nós somos, mas um um continuação disso aqui que vai tem que resolver todas essas paradas porque simplesmente é zero a construção até agora da parte de quem quer que seja em relação a aos itens que são necessários nesse novo manual de operação do ticum, do reparo, usando a expressão cabalística que precisa ser feita na obra e no criador Cuba é zero.» — "é zero a construção" do novo manual de operação do tikum — o reparo cabalístico "na obra e no criador" (grafia STT "criador Cuba" = criador; sem emenda); os humanos do futuro é que vão resolver: "o que existe de conquistas nesse campo foi promovido por essas novas ordenações, essas novas receitas de produção proteica que alguns poucos seres humanos fizeram".
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-12 | A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |

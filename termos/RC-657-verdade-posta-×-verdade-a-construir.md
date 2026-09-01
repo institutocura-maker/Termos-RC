@@ -21,9 +21,17 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 - **[P2025-10-25 — FONTE ORIGINAL] Verdade posta × verdade a construir (Pergunta 1):** "as informações de outros níveis elas não são, entre aspas, a verdade que a gente tanto busca... isso é mera fofoca cósmica, é um circuito permanente em que a troca de informações entre diversos rincões acontece de forma perene, porém não quer dizer que uns rincões saibam mais do que outros"; "nós humanos somos formidáveis em termos de capacidades mentais e psíquicas... o nosso problema é que nós continuamos sendo sacaneados por todo um contexto de uma geopolítica cósmica"; "tudo isso foi transformado em questão de fé, em questão de crença, e não de apreço pela verdade ou de busca decente pela verdade"; "a revelação cósmica, quando vai apresentar alguma coisa nova, diz: 'a gente não sabe se isso é verdade, tem que ser colecionado como incerteza'... os fatos é que vão falar por si mesmos"; "não é questão de fé ou de crença, é de interpretar os fatos, os eventos"; "a gente tá só descortinando o tamanho da merda... ainda não é a verdade, é o tamanho do engodo que nós vivemos".
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[Donos da verdade = donos de tudo] (U0002)** «Porque os donos da verdade significa os donos de tudo.» — a tese-título da palestra: ser dono da verdade é ser dono de tudo — e os donos da verdade "sempre, sempre se confrontam com os tais-choques da realidade"; "o espanto é inevitável".
+- **[Os cinco níveis de posse] (U0002)** «Eu estabeleci para nossa, para sistematizar aqui a nossa conversa, eu estabeleci esses cinco níveis de posse, né?» — a sistematização dos cinco níveis de posse: donos de seres, donos de realidades, donos de verdades impositivas, donos de realidades introjetadas e donos de si mesmos — "esses três aqui para cima são complicados, esses dois aqui são menos", mas todos geram apego; nem o deus amantíssimo escapa do problema de ser dono (U0002: «O fato é que ser dono de seres, de faixas de realidade, de contextos, de verdades introjetadas ou de si mesmo, é uma babaquice sema infelizmente esse problema de ser dono, nem o deus amantíssimo escapa.») — grafia STT "para nossa" = para nós.
+- **[O bumerangue quântico da posse] (U0002)** «Porque, infelizmente, aonde houver o vínculo de posse, aonde houver o vínculo mental ou no campo de conceito consciencial de posses, a regra que foi gerada quando da quebra dos protocolos da perfeição, obriga a que tudo que vai volte.» — a regra gerada na quebra dos protocolos da perfeição: tudo que vai volta — "alguém criou o bumerangue bem antes dos australianos" (U0002: «Alguém criou o bumerangue bem antes dos australianos.»); sentir-se dono é um circuito fechado entre o dono e o objeto da pretensa posse; "isso não é justiça, isso é só um fato quântico" (U0002: «que essa teórica volta daquilo que foi a inevitável, mas isso não é justiça, isso é só um fato quântico.»).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2025-10-25 | ver dossiê e transcrição | live/STT |
 
 ## Citações-chave

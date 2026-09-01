@@ -273,3 +273,8 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[Trimurti — a aristocracia trimurtiana] (U0006)** «Bem, quando Quando o mundo dos demos para de funcionar ou funciona vagarosamente ou não funciona, ainda que eles se movimentem, quando o mundo dos demos não produz nada para trimurte, paraa aristocracia trimurtiana, ou seja, a aristocracia trimurtiana, que eu chamo são os descendentes dos três seres da trimurte, são os tais avatares, são os tais seres de condição adiágen em Chiva.» — a "aristocracia trimurtiana" = os avatares/adiágenos descendentes da Trimurti; Brahma só sede o DNA.
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[O fim da hipótese da Trimurti] (U0002)** «Acabou a hipótese de que isso seria conquista de um dos três seres da Trimorte.» — o que acabou em 2012 foi a hipótese de que a conquista do controle universal seria de um dos três seres da Trimurti (grafia STT "Trimorte"); a disputa em si não acabou — continua valendo entre os herdeiros: Sofia do lado de cá, Zeus e outros do lado de lá.
+- **[O colapso da Trimurti e o problema real] (U0002)** «Mas quando virgino resolveu se desconstituir, quando a trimurt colapsou, aí apareceu o problema real desses seres, que era a disputa entre eles desse universo vizinho e a disputa entre eles e Sofia nesse lado do nosso universo.» — com a desconstituição e o colapso da Trimurti apareceu o problema real: a disputa interna do universo vizinho e a disputa entre eles e Sofia no nosso universo (grafias STT "virgino" = provável referência a Vishnu, RC-135; "trimurt" = Trimurti — sem emenda).
+

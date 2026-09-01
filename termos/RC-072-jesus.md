@@ -348,3 +348,7 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[A dúvida entre as escrituras e a própria consciência] (U0010)** «e dizer para ele mesmo: "Ou tá errado isso aqui ou tô errado eu.» — o dilema de Jesus diante das escrituras: se elas estão erradas, o Deus do seu povo é que estaria errado; mas ele se sabia o Messias profetizado, e não conseguia cumprir a violência prevista.
 - **[O modo humano de Jesus ser] (U0029)** «O Produto de Sofia em Maria foi o corpo, mas o modo humano de Jesus ser não foi o produto de Jesus e Maria.» — a resposta à pergunta de Horácio: o que Sofia produziu em Maria foi o corpo; o modo humano de Jesus ser foi produto do espírito e da capacidade do próprio eu, influenciado pelo DNA de ambos — o "agente humano" do título.
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[A nova aliança: o não de Jesus] (U0002)** «Inventou uma nova aliança para poder tentar negociar com Javé o descumprimento da velha aliança, mas se ferrou, foi crucificado.» — o humano Jesus viu que a personalidade dele não conseguiria cumprir a agenda "absolutamente violenta, indigna" anunciada pelos profetas (genoma fecundado em Maria vindo de Sofia) e disse não: inventou uma nova aliança para negociar com Javé o descumprimento da velha — "mas se ferrou, foi crucificado"; ressonância direta com RC-860 (Nova Aliança, fila aberta — pedido de vínculo na devolutiva).
+

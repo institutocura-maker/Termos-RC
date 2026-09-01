@@ -23,9 +23,15 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 - **[Os 500 casais de Elon Musk] (U0020)** «El Musk com dinheiro dele vai levar 500 casais.» — o projeto de especiação: Elon Musk levará 500 casais; "no meio desses 500 casais devem sair uma ou duas pessoas com esse DNA [neutralizado]" — se não houver ao menos uma, "não vai para esse grupo ser possível", porque é preciso um padrão específico de proteínas (espermatozoide/óvulo com condições de pulsação determinadas).
 
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[O espanto: tudo passa pelo DNA humano] (U0002)** «Mas assim, o espanto que esses seres sentem ou sentiram com esses choques de realidade, o espanto que esses seres sentiam e estão sentindo, né, com o fato de que tudo passa pelo DN a humano.» — o espanto dos seres com os choques de realidade passa pelo fato de que tudo depende do DNA humano — ninguém sabe quem foi o "babaca" que criou esse caminho, mas "foi um babaca que premeditou, que basicamente deixou refém todo esse contexto existencial" (U0002: «Mas seja lá quem foi o babaca, foi um babaca que premeditou, que basicamente deixou refém todo esse contexto existencial.») — grafia STT "DN a humano" = DNA humano.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2019-05-11 — Pandora e os Desacertos dos Pactos de Javé | U0005 (S5) | — | palestra (fonte primária, STT) |
 

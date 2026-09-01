@@ -6,8 +6,9 @@ criados, parte da erraticidade) e o perpétuo espanto que lhes impõe a realidad
 níveis de posse, o primeiro choque de realidade (fechamento dos portais em 2012), a doença do
 criador ("estamos todos doentes"), o espírito de Jesus perdido (Sofia radiata × Javé), o
 Conselho de Antiandel e a equação final das proteínas para reconstruir o corpo do criador.
-**Status:** GARIMPO CONCLUÍDO — aguardando devolutiva do curador (25 pérolas candidatas,
-nenhuma carimbada; nada aplicado à Base).
+**Status:** HOMOLOGADO E ENCERRADO — devolutiva do curador executada (25 pérolas aprovadas;
+RC-520/859 materializadas; RC-867/868/869 criados em fila aberta; Donos da Verdade absorvido
+na RC-657; Antiandel sem código; navalha mantida para Kardachev e Saga Irém).
 
 ---
 
@@ -105,6 +106,45 @@ aqui já é o próprio inferno").
 **Portões (fase garimpo):** A ✓ (SHA) · B ✓ (25/25 verbatim byte a byte; glosas 12/12 spans
 verificados) · C ✗ VERMELHO esperado (fichas ainda sem a seção do ciclo — a ampliação é da
 devolutiva) · D ✓ (Δ `0 0 0 0 0` contra o baseline `a7450c7` — nada aplicado).
+
+## 5. Devolutiva do curador (executada)
+
+Devolutiva recebida do Assistente do Curador (31/08/2026) e aplicada na íntegra:
+
+1. **25 pérolas 100% aprovadas** — ampliação autorizada e executada para as 14 fichas apontadas
+   (`## Ampliação — P2022-11-26` em RC-295, RC-104, RC-174, RC-657, RC-783, RC-414, RC-072,
+   RC-009, RC-631, RC-001, RC-474, RC-514, RC-725, RC-562) — "a inserção dessas formulações
+   precisas reforça a base ontológica" — mais as seções das duas fichas materializadas
+   (RC-520 e RC-859), num total de **16 fichas em paridade**.
+2. **Dois códigos em fila aberta MATERIALIZADOS (ordem do curador)** — RC-520 *Infecção
+   mental / contágio vibratório* (o curador refere o termo como "Doença do Criador"; o nome
+   do cadastro permanece o canônico, com a formulação registrada na definição) e RC-859
+   *Suserania Universal*: fichas criadas pelo `materializar` a partir dos blocos do pacote,
+   com as pérolas validadas deste ciclo; `ficha=False → True` no cadastro (viradas: 2).
+3. **Três códigos taxonômicos novos criados em fila aberta** — *Choque de Realidade* (RC-867),
+   *Genoma da Dignidade* (RC-868) e *Mentalidade Comum* (RC-869): entram no cadastro
+   (`ficha=False`, status `candidato`, fonte `P2022-11-26`) — "desdobramentos lógicos
+   cruciais na tese de Jan Val Ellam". **Materialização futura** — não agora.
+4. **Absorção sem código** — *Donos da Verdade / cinco níveis de posse* NÃO ganha código
+   próprio por ordem do curador: "já está bem ancorada na ampliação da ficha RC-657".
+5. **Conselho de Antiandel sem código** — o curador homologa a manutenção da grafia STT da
+   RC-005 ("Antiondel [STT — REVISAR]"); revisão futura se necessária.
+6. **Navalha mantida** — *Escala de Kardachev* (fonte externa — ciência) e *Saga Irém —
+   Universo em Colisão* (obra) não materializam código; formulações registradas no BLOCO 2/3
+   do pacote.
+7. **Quarentenas 100% homologadas** — teológica, política, ambiental/climática,
+   biomediúnica/biográfica e pessoal/ego, conforme BLOCO 5; isolamento estrito mantido.
+8. **Próximo passo ordenado** — após as materializações (RC-520 e RC-859), avançar para a
+   próxima fonte do backlog.
+
+**Portões finais:** A ✓ (SHA) · B ✓ (25/25 verbatim byte a byte; aspas das 16 fichas
+conferidas) · C ✓ (16 fichas em paridade, 0 vazamentos do léxico vetado) · D ✓ (Δ
+`arquivos +2 · ficha_true +2 · termos +3 · relacoes 0 · vinculos +19` contra o baseline
+`a7450c7` — todos exatamente como declarado).
+
+**Estado final da Base:** **869 termos · 1.857 relações · 573 arquivos de ficha · 572
+`ficha=True`** · fila aberta com 11 códigos aguardando materialização (RC-857/858 + RC-860/861/862
++ RC-863/864/865/866 + RC-867/868/869) + as 6 ordens órfãs do despacho.
 
 **Estado da Base (inalterado neste commit):** 866 termos · 1.857 relações · 571 arquivos ·
 570 `ficha=True` · fila aberta com 10 códigos (RC-857/858/859/860/861/862 + RC-863/864/865/866)

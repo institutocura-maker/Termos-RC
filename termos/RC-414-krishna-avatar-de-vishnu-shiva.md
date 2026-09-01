@@ -169,3 +169,7 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 
 - **[Krishna barrou Alexandre no Indo] (U0004)** «Quem é que barrou Alexandre no rio Indo?» — quem barrou Alexandre Magno no rio Indo foi Krishna (RC-414), que não queria a cultura helênica nos seus domínios; Lemion aceitou, pois os planos de Krishna atrapalhavam Enki (RC-486) na China.
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[Krishna Murti: a figura mais admirada] (U0002)** «Krishna murte é uma das figuras que eu mais admiro em termos de condição humana.» — revelação de opinião pessoal do autor: Krishna Murti é uma das figuras que mais admira em condição humana — "não sei se a sua condição humana sabe o quanto ele brigou em silêncio com a agenda do espírito que o animava"; "Krishnam nasceu para ser uma coisa e se recusou a ser" (grafias STT "Krishna murte"/"Krishnam" = Krishna Murti).
+

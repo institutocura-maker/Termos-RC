@@ -63,9 +63,16 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
 - **[P2023-12-03 · CÉREBRO RADIATA NA FALA DE 03/12/2023]** «no cérebro radiata dele não funciona.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[Sofia radiata: engendrado há ~5 bilhões de anos] (U0002)** «O fato de Sofia ter sido engendrado há 5, se bilhões de anos lá atrás, quando ele foi engendrado, era a maior novidade que existia no progresso ou no processo de evolução dessa turma vizinha.» — Sofia foi engendrado há cerca de 5 bilhões de anos (grafia STT "5, se bilhões") como a maior novidade evolutiva da turma vizinha — "ele foi feito para... foi engendrado para levar isso até o final" (U0002: «E ele foi feito para sem ele foi engendrado para levar isso até o final.»).
+- **[O radiato superado pelos bilatérios] (U0002)** «movimentar devido ao cérebro radiata de Sofia.» — fragmento STT (frase quebrada no bruto: "E ele não consegue colocar Sofia para cima. movimentar devido ao cérebro radiata de Sofia.") — o cérebro radiata impede o espírito de movê-lo: "Mas hoje é algo que foi superado pela existência de seres bilatérios, ele é radiato" (U0002: «Mas hoje é algo que foi superado pela existência de seres bilatérios, ele é radiato.»); o espírito funciona "à moda de Jesus" mas não consegue influenciar aquele DNA que foi o mesmo que semeou Maria.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra/STT) | citação verbatim; paráfrase |

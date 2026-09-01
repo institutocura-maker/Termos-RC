@@ -81,9 +81,15 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[As ilhas de negentropia] (U0014)** «Aí nós vamos explicar que só um determinado tipo de pulsação consegue anular em ilhas de negent, ou seja, ilhas de produção no meio do caos que impedem a entropia de, melhor dizendo, que impedem a entropia de atrapalhar a produção de coisas boas no meio da sujeira, no meio da podridão.» — a pulsação digna cria ilhas de negentropia no campo consciencial do ovo cósmico de cada ser — a única pulsação que "a espiritualidade percebe que em sendo vibrante consegue tudo".
 
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[O corpo humano como ilha de negentropia] (U0009)** «E aos poucos, quem puder criar negropias, que são ilhas de entropia positiva no meio do caos negativo para durante o tempo, o corpo da gente é uma ilha de gentropia, ou seja, de entropia positiva, porque durante o tempo em que esse corpo tá vivo, O eu da gente produz informações para o espírito que nos anima, pro campo mórfico, pro genoma, pro elétron e por aí vai.» — o corpo humano é uma ilha de negentropia (grafia STT "gentropia"): enquanto vivo, o eu produz informações para o espírito, o campo mórfico, o genoma e o elétron — "enquanto a energia tamásica de Chiva permitir, a entropia vai matando aos poucos" (grafia STT "negropias" = negentropias).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2024-11-09 | U0715–U0750; U1050–U1070; U1260–U1270 | palestra/STT |

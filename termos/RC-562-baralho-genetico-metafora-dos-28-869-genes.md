@@ -31,10 +31,16 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 - **[A mutação pela ideia nova (RNA mensageiro)] (U0020)** «Aí esse RNA retira do DNA, procura em ribossoma, mitocôndria, os cambal aliás, lá dentro da célula, até conseguir recriar um novo cdon, um novo gene, para que a partir dali no genoma daquele cara tem o circuito bioquímico do de uma receita que vai produzir uma nova proteína que surgiu e não existia antes na humanidade.» — o mecanismo: a ideia nova produz um mensageiro químico (RNA) que procura no DNA a receita; se não há, cria-se um novo códon/gene — a mutação que produz proteína nova, o que os seres do outro lado precisam ("é só da busca, não é encontrar a verdade").
 
 
+## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
+
+- **[Tudo se resume à proteína que reconstruirá o corpo do criador] (U0009)** «Então, espera-se que antes do universo ter terminado toda a informação que precisava surgir para que as novas configurações proteicas no âmbito desse universo biológico, já que o outro vai terminar, então tudo no final vai se resumir ao tipo de proteína que as raças que existem nesse universo biológico conseguirão produzir para que o corpo do criador seja reconstruído.» — a equação final: tudo se resume ao tipo de proteína que as raças do universo biológico conseguirão produzir para reconstruir o corpo do criador — ressonância com RC-864 (DNA Neutralizado, fila aberta — pedido de vínculo na devolutiva) e com a mesmice humana: "a ciência só consegue criar um catálogo com cerca de 20.000 proteínas... o ser humano é de uma mesmice tal que só produz as mesmas proteínas".
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |

@@ -19,19 +19,19 @@ exportar_candidatas = false       # true só em ensaio declarado: o portão real
 
 cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (104.545 chars / 15 linhas / 11 com fala / 18.769 palavras; cobertura 7/7 fatias provada). Tese: os 'donos da verdade' (espiritualidade superior, universo vizinho, outros universos criados e parte da erraticidade) são os que se sentem donos — de seres, de realidades, de verdades impositivas, de realidades introjetadas ou de si mesmos; sentir-se dono é circuito fechado: a regra gerada na quebra dos protocolos da perfeição obriga que tudo que vai volte (bumerangue quântico, não justiça). O primeiro choque de realidade começou com o fechamento total dos portais em 2012 — acabou a hipótese de conquista da Trimurti, as colmeias colapsavam desde 2007; a notícia: 'estamos todos doentes' — a doença do criador infectou não só para dentro, mas também para fora, sem imunidade de rebanho. O espírito de Jesus está perdido: restam só duas expressões (Sofia, radiata — cérebro radiata, engendrado há ~5 bilhões de anos — e Javé, 'o cancro'); os arcontes se recusam a dar a vestimenta do Suzerano a Sofia; o Conselho de Antiandel 'não funciona, tipo a ONU'; é zero a construção do tikum; tudo se resume ao tipo de proteína que as raças do universo biológico produzirão para reconstruir o corpo do criador — o corpo humano como ilha de negentropia (RC-725). Recolhe formulações PRECISAS para 16 códigos (14 com ficha: RC-295, RC-104, RC-174, RC-657, RC-783, RC-414, RC-072, RC-009, RC-631, RC-001, RC-474, RC-514, RC-725, RC-562; 2 em fila aberta: RC-520, RC-859). NENHUM termo novo por conta própria: 7 candidatos declarados no BLOCO 2 (choque de realidade; donos da verdade/cinco níveis de posse; genoma da dignidade; conselho de Antiandel; mentalidade comum; escala de Kardachev — fonte externa, navalha a decidir; saga Irém — Universo em Colisão — obra), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-867", "RC-868", "RC-869"]   # Choque de Realidade · Genoma da Dignidade · Mentalidade Comum (devolutiva do curador, fila aberta)
 veto_lexico = ["p****", "m****", "b******", "e******"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (fase GARIMPO: nada materializado)
-ficha_true = 0   # viradas no cadastro (decisão só na devolutiva)
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+arquivos = 2      # fichas criadas por este ciclo (RC-520 e RC-859 materializadas)
+ficha_true = 2   # viradas no cadastro (RC-520 e RC-859: ficha False → True)
+termos = 3       # termos novos: RC-867/868/869, autorizados pela devolutiva do curador
 relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0    # vínculos só na devolutiva (ampliar/vincular autorizados pelo Curador)
+vinculos = 19    # 16 códigos do BLOCO 1 (14 ampliados + RC-520/859 materializadas) + 3 novos criados com a fonte
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-520", "RC-859"]      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -49,17 +49,28 @@ pontos = [
 ]
 
 [definicoes]
+RC-520 = "A 'infecção mental / contágio vibratório' é a doença do criador propagada à criação: 'estamos todos doentes' — a doença do criador infectou não só para dentro, mas também para fora. A infecção que já existia no universo vizinho foi jogada para o biológico e voltou furando a blindagem; 'não tem imunidade de rebanho'. A ausência de dignidade (genoma da dignidade, RC-868) fez a concentração de energia deletéria explodir sob essa forma de infecção (P2022-11-26)."
+RC-859 = "A 'suserania universal' é a herança prometida a Rockma/Sofia: a posse de tudo que foi feito até agora. Os arcontes e herdeiros 'se recusam a dar a vestimenta do Suzerano a Sofia' — reconhecer a suzerania dela; cumprir a promessa da volta é assumir a suzerania, e é essa a disputa narrada no livro 'Sofia e os Arcontes — a disputa pela Suzerania Universal' (P2022-11-26)."
+RC-867 = "O 'choque de realidade' é o perpétuo espanto dos donos da verdade: 'essa matéria chamada choque de realidade, ela é muito nova' na eternidade; o primeiro choque aconteceu com o fechamento total dos portais em 2012. Para os seres do paraíso o choque tem três fases: o espanto (tudo que existe está doente), a constatação de que não há nada de bom que disso possa resultar (descozinhar o ovo) e a perturbação do imperturbável (P2022-11-26)."
+RC-868 = "O 'genoma da dignidade' é o código que a 'babaquice' original da criação esqueceu: 'alguém esqueceu do genoma da dignidade' — e a ausência de dignidade fez a concentração de energia deletéria nos elétrons explodir sob a forma de infecção (RC-520). Contraponto do Genoma da Liberdade (RC-619) (P2022-11-26)."
+RC-869 = "A 'mentalidade comum' é o contágio do rebanho — a produção das mesmas proteínas, das mesmas crenças, das mesmas certezas colecionadas: 'esquivar-se ao contágio com a mentalidade comum é a postura que os sábios e os buscadores, os iniciados de todos os tempos sempre tiveram'; é necessário formar seres humanos que não estejam prisioneiros dessa mentalidade, para diminuir o grau de susto e de espanto (P2022-11-26)."
 
 [observacoes]
-RC-657 = "**Candidatos do ciclo (BLOCO 2, decisão do Curador):** choque de realidade; donos da verdade/cinco níveis de posse; genoma da dignidade (contraponto de RC-619); conselho de Antiandel (confirma grafia da RC-005 [STT — REVISAR]); mentalidade comum; escala de Kardachev (fonte externa — navalha a decidir); saga Irém — Universo em Colisão (obra; B085 da RC-005). NENHUM termo novo criado nesta fase."
-RC-520 = "**Fila aberta tocada (pedido de vínculo):** RC-520 Infecção mental (3 pérolas), RC-859 Suserania Universal, RC-860 Nova Aliança, RC-864 DNA Neutralizado, RC-865 Pulsação Digna — códigos em fila aberta que passam a carregar esta fonte se a devolutiva autorizar."
+RC-867 = ["**Decisão curatorial (devolutiva):** as 25 pérolas foram 100% aprovadas; Choque de Realidade, Genoma da Dignidade e Mentalidade Comum foram AUTORIZADOS como códigos taxonômicos novos (RC-867/868/869), criados no cadastro (ficha=False) e colocados em fila aberta para materialização futura — 'desdobramentos lógicos cruciais na tese de Jan Val Ellam'."]
+RC-657 = ["**Absorção sem código:** 'Donos da Verdade / cinco níveis de posse' NÃO ganha código próprio por ordem do curador — a expressão está bem ancorada na ampliação da ficha RC-657 deste ciclo."]
+RC-474 = ["**Grafia mantida (devolutiva):** 'Conselho de Antiandel' não vira código; o curador homologa a manutenção da grafia STT da RC-005 ('Antiondel [STT — REVISAR]'), a revisar futuramente se necessário."]
+RC-562 = ["**Navalha mantida (devolutiva):** Escala de Kardachev (fonte externa — ciência) e Saga Irém — Universo em Colisão (obra) não materializam código; as formulações ficam registradas no BLOCO 2/3 do pacote."]
+RC-520 = ["**Materialização imediata (devolutiva):** RC-520 (Infecção mental / contágio vibratório) sai da fila e ganha ficha (ficha=False → True) com as pérolas validadas neste ciclo; o curador refere o termo como 'Doença do Criador' — o nome do cadastro permanece o canônico (Infecção mental / contágio vibratório), com a formulação registrada na definição."]
+RC-859 = ["**Materialização imediata (devolutiva):** RC-859 (Suserania Universal) sai da fila e ganha ficha (ficha=False → True) com as pérolas validadas neste ciclo."]
 
 [travas]
 RC-072 = "quarentena teológica: 'sangue de Jesus nos salvou... é fake news' retido (BLOCO 5); a ficha RC-072 recebe só a pérola da nova aliança."
 RC-001 = "quarentena política (Lula/Bolsonaro; Deus como cabo eleitoral), ambiental/climática (2035; permafrost; 13 vírus), biomediúnica/biográfica (infarto 2011; anjos clones 2007–2018) e pessoal (ego) retidas (BLOCO 5)."
 
 [lacunas]
-# Candidatos do ciclo → BLOCO 2 do pacote (choque de realidade; donos da verdade/cinco
-# níveis de posse; genoma da dignidade; conselho de Antiandel; mentalidade comum; escala
-# de Kardachev — navalha a decidir; saga Irém — Universo em Colisão — obra). Códigos em
-# fila aberta tocados: RC-520, RC-859, RC-860, RC-864, RC-865, RC-256. Decisão do Curador.
+# DEVOLUTIVA (2026-08-31): choque de realidade → RC-867, genoma da dignidade → RC-868,
+# mentalidade comum → RC-869 (criados em fila aberta). Donos da Verdade/cinco níveis de
+# posse → ABSORVIDO na ampliação da RC-657 sem código próprio. Conselho de Antiandel →
+# grafia STT da RC-005 mantida (sem código). Escala de Kardachev e Saga Irém — Universo em
+# Colisão → navalha mantida (fonte externa / obra). O registro formal vive no BLOCO 2 do
+# pacote. RC-520 e RC-859 MATERIALIZADAS neste ciclo (ficha=True).
