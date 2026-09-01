@@ -1,0 +1,286 @@
+{
+ "sigla": "P2022-11-20",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (136.580 chars / 53 linhas / 35 com fala / 24.818 palavras; cobertura 9/9 fatias provada). Tese: '2000 anos depois, ninguém entendeu buiufas do que Jesus fez ou tentou fazer' — a nova aliança proposta por Jesus como questão de LIMITE HUMANO: o homem Jesus leu as escrituras, soube que era o Messias e disse 'não vou fazer isso' — recusou-se a cumprir os termos da velha aliança (várnica, de Enoque a Javé — 'Eu não mudo uma vírgula de nada do que eu prometo'), estragou milênios de história e se deixou crucificar como penalidade por sua impossibilidade ('ele podia ter bifurcado a história, mas ele não bifurcou'). Sofia rompeu com Javé e carimbou a nova aliança no Apocalipse ('botou Javé sentado num trono, os sete livros selados... nem sabia tirar os selos'); a revelação do ressuscitado virou o gnosticismo judaico-cristão cancelado pela Igreja (Nag Hammadi, 1945); 'a nova aliança primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite' — e 'a locomotiva já partiu'. Recolhe formulações PRECISAS para 20 códigos (17 com ficha: RC-072, RC-009, RC-001, RC-479, RC-489, RC-671, RC-672, RC-322, RC-092, RC-725, RC-657, RC-104, RC-366, RC-365, RC-854, RC-193, RC-174; 3 em fila aberta: RC-860, RC-858, RC-865). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2 (fórmulas mentais; Sagon Chalão — registro sem código), decisão do Curador. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-11-20/original.txt",
+ "sha256": "1f065bd7d7dc4281231035ccec457f7f707afa1614af990424542b284c7ffca4",
+ "bytes": 141322,
+ "unidades_com_fala": 35,
+ "spans": [
+  {
+   "codigo": "RC-860",
+   "u": "U0002",
+   "chars": [
+    180,
+    608
+   ],
+   "largura": 428,
+   "verificada": true,
+   "texto": "está ligado mesmo e hoje nós vamos falar de um tema em que com certa dose de suavidade, ao longo desses 20 anos aí ou mais, a gente já se referiu um pouco a alguns aspectos do que aqui a gente vai abordar, mas Hoje nós vamos ter que abordá-lo de forma completa, porque esse tema ele, se houvesse uma tradução honesta para esse tema, a tradução seria: \"2000 anos depois, ninguém entendeu buiufas do que Jesus fez ou tentou fazer."
+  },
+  {
+   "codigo": "RC-860",
+   "u": "U0007",
+   "chars": [
+    109727,
+    109821
+   ],
+   "largura": 94,
+   "verificada": true,
+   "texto": "A nova aliança que Jesus propôs não é uma ideia de um gênio, foi uma questão de limite humano."
+  },
+  {
+   "codigo": "RC-860",
+   "u": "U0007",
+   "chars": [
+    105246,
+    105400
+   ],
+   "largura": 154,
+   "verificada": true,
+   "texto": "A nova aliança de Jesus que Jesus propôs entre os seres humanos e Javé, primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0002",
+   "chars": [
+    19845,
+    19904
+   ],
+   "largura": 59,
+   "verificada": true,
+   "texto": "Esse é o X da história de Jesus que ninguém nunca entendeu."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0006",
+   "chars": [
+    77478,
+    77548
+   ],
+   "largura": 70,
+   "verificada": true,
+   "texto": "Aí Jesus ali ele podia ter bifurcado a história, mas ele não bifurcou."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0035",
+   "chars": [
+    126814,
+    126961
+   ],
+   "largura": 147,
+   "verificada": true,
+   "texto": "Sofia só sabe que Jesus fez a nova aliança, mas Sofia não sabe nem ele mesmo aplicar a nova aliança de Jesus na relação de ele para com os humanos."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0039",
+   "chars": [
+    128404,
+    128449
+   ],
+   "largura": 45,
+   "verificada": true,
+   "texto": "Nós somos usados, sem vergonhosamente usados."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0002",
+   "chars": [
+    32806,
+    33221
+   ],
+   "largura": 415,
+   "verificada": true,
+   "texto": "Então, a velha aliança são os termos que Javé dizia sempre a todos eles: \"Eu não mudo uma vírgula de nada do que eu prometo."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0007",
+   "chars": [
+    105444,
+    105501
+   ],
+   "largura": 57,
+   "verificada": true,
+   "texto": "Jahé jamais se aceitou isso e foi desativado sem aceitar."
+  },
+  {
+   "codigo": "RC-479",
+   "u": "U0003",
+   "chars": [
+    54011,
+    54042
+   ],
+   "largura": 31,
+   "verificada": true,
+   "texto": "Só que não é Satanás, é Belial."
+  },
+  {
+   "codigo": "RC-489",
+   "u": "U0007",
+   "chars": [
+    80860,
+    80943
+   ],
+   "largura": 83,
+   "verificada": true,
+   "texto": "Vamos então O maior responsável pela pelos termos da velha aliança chama-se Enoque."
+  },
+  {
+   "codigo": "RC-671",
+   "u": "U0007",
+   "chars": [
+    85418,
+    85460
+   ],
+   "largura": 42,
+   "verificada": true,
+   "texto": "Foi feito uma cópia dele chamada Metatron."
+  },
+  {
+   "codigo": "RC-672",
+   "u": "U0007",
+   "chars": [
+    85268,
+    85321
+   ],
+   "largura": 53,
+   "verificada": true,
+   "texto": "Enoque saiu, voltou, ditou 363 livros pro filho dele."
+  },
+  {
+   "codigo": "RC-322",
+   "u": "U0003",
+   "chars": [
+    48297,
+    48420
+   ],
+   "largura": 123,
+   "verificada": true,
+   "texto": "O karma é um conceito sânscrito derivado da noção de dharma que, por sua vez, é ancorado na questão dos critérios várnicos."
+  },
+  {
+   "codigo": "RC-858",
+   "u": "U0040",
+   "chars": [
+    129780,
+    129863
+   ],
+   "largura": 83,
+   "verificada": true,
+   "texto": "Isso foi uma manipulação feita posteriormente, porque esse é o drama desses livros."
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0014",
+   "chars": [
+    115960,
+    116060
+   ],
+   "largura": 100,
+   "verificada": true,
+   "texto": "Metaforicamente falando, Jesus ainda não chegou, Sofia ainda não chegou, mas a locomotiva já partiu."
+  },
+  {
+   "codigo": "RC-865",
+   "u": "U0003",
+   "chars": [
+    43821,
+    43989
+   ],
+   "largura": 168,
+   "verificada": true,
+   "texto": "Esses seres, eles têm que receber a onda da pulsação digna de um ser humano ou de vários seres humanos para que eles essa pulsação os inibe e eles não podem fazer nada."
+  },
+  {
+   "codigo": "RC-725",
+   "u": "U0002",
+   "chars": [
+    23431,
+    23640
+   ],
+   "largura": 209,
+   "verificada": true,
+   "texto": "Nas negentropias, que são ilhas de produção ativa no meio do caos, no meio da da entropia, alguns seres humanos conseguem ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali."
+  },
+  {
+   "codigo": "RC-657",
+   "u": "U0002",
+   "chars": [
+    8823,
+    8869
+   ],
+   "largura": 46,
+   "verificada": true,
+   "texto": "O ser humano ele é um decifrador da realidade."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0039",
+   "chars": [
+    127936,
+    128010
+   ],
+   "largura": 74,
+   "verificada": true,
+   "texto": "Significa só o fato de que a herança da trimurte está finalmente decidida."
+  },
+  {
+   "codigo": "RC-366",
+   "u": "U0005",
+   "chars": [
+    72343,
+    72407
+   ],
+   "largura": 64,
+   "verificada": true,
+   "texto": "Não interfiram. É comigo até o final."
+  },
+  {
+   "codigo": "RC-365",
+   "u": "U0005",
+   "chars": [
+    76331,
+    76408
+   ],
+   "largura": 77,
+   "verificada": true,
+   "texto": "disse: \"Cara, já que você vai ter que fazer, faça logo."
+  },
+  {
+   "codigo": "RC-854",
+   "u": "U0007",
+   "chars": [
+    89225,
+    89335
+   ],
+   "largura": 110,
+   "verificada": true,
+   "texto": "E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?"
+  },
+  {
+   "codigo": "RC-193",
+   "u": "U0007",
+   "chars": [
+    106982,
+    107049
+   ],
+   "largura": 67,
+   "verificada": true,
+   "texto": "Pergunto então: como se comporta o membro típico do rebanho humano?"
+  },
+  {
+   "codigo": "RC-174",
+   "u": "U0014",
+   "chars": [
+    117210,
+    117685
+   ],
+   "largura": 475,
+   "verificada": true,
+   "texto": "Como Sofia ainda não chegou, mas não deu para esperar Sofia porque os problemas dos microrganismos, o problema da infecção na blindagem que cerca essa criação, o Uma série de problemas já fizeram com que desde o ano 2007, quando as próprias colmeias começaram a colapsar no mundo biológico sem causa aparente, a própria Trimurte colapsou no mundo, no universo vizinho, as coisas estão colapsando e não deu para esperar pro Sofia porque já tinha que se organizar alguma coisa."
+  }
+ ],
+ "recusa": []
+}

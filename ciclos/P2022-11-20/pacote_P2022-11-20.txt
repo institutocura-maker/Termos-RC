@@ -1,0 +1,264 @@
+# Pacote de ampliação — P2022-11-20 · A Incompreendida Nova Aliança proposta por Jesus
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT, não refatorada) lida na íntegra (136.580 chars / 53 linhas / 35 com
+#   fala / 24.818 palavras; cobertura 9/9 fatias provada). Tese: "2000 anos depois,
+#   ninguém entendeu buiufas do que Jesus fez ou tentou fazer" — a nova aliança proposta
+#   por Jesus como questão de LIMITE HUMANO: ele se recusou a cumprir a velha aliança
+#   (várnica, de Enoque a Javé), disse "não vou fazer isso" e se deixou crucificar como
+#   penalidade; Sofia rompeu com Javé e carimbou a nova aliança no Apocalipse; a revelação
+#   do ressuscitado (gnosticismo/Nag Hammadi) foi cancelada pela Igreja; "a locomotiva já
+#   partiu". 25 pérolas em 20 códigos (17 com ficha + RC-860, RC-858 e RC-865 em fila
+#   aberta). NENHUM termo novo por conta própria: 2 candidatos declarados no BLOCO 2
+#   (fórmulas mentais; Sagon Chalão — registro sem código), decisão do Curador.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2022-11-20 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rite: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-860
+
+- **[A tradução honesta do tema] (U0002)** «está ligado mesmo e hoje nós vamos falar de um tema em que com certa dose de suavidade, ao longo desses 20 anos aí ou mais, a gente já se referiu um pouco a alguns aspectos do que aqui a gente vai abordar, mas Hoje nós vamos ter que abordá-lo de forma completa, porque esse tema ele, se houvesse uma tradução honesta para esse tema, a tradução seria: "2000 anos depois, ninguém entendeu buiufas do que Jesus fez ou tentou fazer.» — a tradução honesta do tema: 2.000 anos depois ninguém entendeu o que Jesus fez ou tentou fazer — nem os espíritos explicaram convenientemente, nem a doutrina espírita; "a vida de Jesus ninguém entendeu... nem nós, os humanos, nem os seus familiares, nem a turma desse universo vizinho, nem os espíritos" (grafias STT "buiufas"/"bulhufas" sem emenda).
+- **[A nova aliança como questão de limite] (U0007)** «A nova aliança que Jesus propôs não é uma ideia de um gênio, foi uma questão de limite humano.» — a tese central da palestra: a nova aliança não nasceu de genialidade — "foi uma questão de limite humano": "isso aqui não dá certo. Então vamos propor uma coisa nova"; "a repetição da velha fórmula da velha aliança... Jesus tentou obedecer, mas também não deu".
+- **[A compreensão antes da aceitação] (U0007)** «A nova aliança de Jesus que Jesus propôs entre os seres humanos e Javé, primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite.» — a ordem da nova aliança: primeiro os humanos compreendem, depois Javé aceita — "ele tentou o contrário e não deu. Jahé jamais se aceitou isso e foi desativado sem aceitar"; ressonância direta com a fila aberta RC-860 (esta é a palestra-título do termo).
+
+### RC-072
+
+- **[O X da história de Jesus] (U0002)** «Esse é o X da história de Jesus que ninguém nunca entendeu.» — o homem Jesus leu as escrituras, soube que era o Messias e disse "eu não vou fazer isso" — o plano de Jahé de dominar os humanos via o emissário foi desativado e Javé enlouqueceu; "Jesus estragou milênios de história, milhões de anos de história, estragou todas as revelações que foram feitas antes dele, anunciando todo esse processo" (U0002: «Jesus estragou milênios de história, milhões de anos de história, estragou todas as revelações que foram feitas antes dele, anunciando todo esse processo.»); a Igreja Católica passa "a milênios de distância" disso; "o espiritismo falhou flagrosamente" na hora de os espíritos falarem disso pelos médiuns.
+- **[A crucificação como escolha] (U0006)** «Aí Jesus ali ele podia ter bifurcado a história, mas ele não bifurcou.» — no Getsêmani, com poderes para não ser crucificado, Jesus "resolveu se deixar crucificar, se sentindo responsável por certas coisas"; o desfecho lido como penalidade moral: "o susto que ele, Jesus tomou nos últimos meses e no momento da cruz até o limite. Ao descobrir que Javé não iria abrir mão de nenhum dos termos da velha aliança em relação à função de Messias, o que o obrigou moralmente a se deixar crucificar" (U0007: «Para tanto, o susto que ele tomou, ou seja, o susto que ele, Jesus tomou nos últimos meses e no momento da cruz até o limite.» + U0007: «Ao descobrir que Javé não iria abrir mão de nenhum dos termos da velha aliança em relação à função de Messias, o que o obrigou moralmente a se deixar crucificar.»); "o eu humano de Jesus hoje em dia morre de vergonha de nunca ter esclarecido isso, porque isso tudo é um jogo nojento" (U0003: «E o eu humano de Jesus hoje em dia morre de vergonha de nunca ter esclarecido isso, porque isso tudo é um jogo nojento.»).
+
+### RC-009
+
+- **[Sofia e o limite da nova aliança] (U0035)** «Sofia só sabe que Jesus fez a nova aliança, mas Sofia não sabe nem ele mesmo aplicar a nova aliança de Jesus na relação de ele para com os humanos.» — Sofia sabe que Jesus fez a nova aliança, mas não sabe aplicá-la na relação com os humanos — "ele é um gênio para muitas coisas, mas no lidar com os seres humanos, assim é isso aqui" (U0037: «ele é um gênio para muitas coisas, mas no lidar com os seres humanos, assim é isso aqui.»); "ele é do bem, só que é um bem dele. Não é o modo bem como nós, humanos, nós se amamos".
+- **[Os usados e os que precisam] (U0039)** «Nós somos usados, sem vergonhosamente usados.» — a vinda de Sofia "não significa coisa alguma para nós humanos de forma peremptória" (U0039: «Não significa coisa alguma para nós humanos de forma peremptória.») — significa só a vitória dela sobre os arcontes e a herança decidida da Trimurti; "Sofia não tem muita coisa a dizer pra gente. Ele tá aprendendo com a gente" — "nós somos levados a achar que a gente precisa desses seres, mas de fato a gente não precisa, é o contrário, eles é que precisam da gente" (U0039: «Como eu disse, nós somos levados a achar que a gente precisa desses seres, mas de fato a gente não precisa, é o contrário, eles é que precisam da gente.»).
+
+### RC-001
+
+- **[A cláusula pétrea da velha aliança] (U0002)** «Então, a velha aliança são os termos que Javé dizia sempre a todos eles: "Eu não mudo uma vírgula de nada do que eu prometo.» — a imutabilidade como marca da velha aliança — os termos firmados por Javé com os patriarcas eram "imutáveis" e anunciados pelos profetas; "a velha aliança é tudo que existiu até aqui" (U0002: «Então a velha aliança é tudo que existiu até aqui.»); "a cabeça de Javé sempre rodou a partir da velha aliança"; Davi e Salomão encantados, "anjos de Jahé que apareciam no meio do povo com espada flamejante matando todo mundo" — "é o que tá descrito na Bíblia e isso é tremendamente real".
+- **[Desativado sem aceitar] (U0007)** «Jahé jamais se aceitou isso e foi desativado sem aceitar.» — Javé jamais aceitou a nova aliança: "foi desativado sem aceitar" — a nova aliança "destrói totalmente todos esses 13.8 bilhões de anos de estupidez" (U0007: «Então assim, pessoal, a boa nova de Jesus, a nova aliança de Jesus destrói totalmente todos esses 13.» — span truncado no bruto; sem emenda); "convida Javé e todos esses seres a aceitarem o fato de que os humanos gerados por acidente são quem de fato conseguem rodar a cabeça" (prosa do autor; grafia STT "13." sem emenda).
+
+### RC-479
+
+- **[O Satã do livro de Jó é Belial] (U0003)** «Só que não é Satanás, é Belial.» — no livro de Jó, o "Satanás" da linguagem bíblica é Belial: "Aí entre eles, Estava Satanás, segundo a linguagem da Bíblia, mas o nome correto seria Belial" (U0003: «Aí entre eles, Estava Satanás, segundo a linguagem da Bíblia, mas o nome correto seria Belial.»); Javé reunia os ministros e Belial era um deles; "Do jeito que Javé fez com Belial ou Satã no livro de Jó, ele fez com Caim" (U0007: «Do jeito que Javé fez com Belial ou Satã no livro de Jó, ele fez com Caim.») — a aposta sobre Jó como padrão repetido com Caim; "fez com um coitado de um ser humano o que nem o diabo faria se existisse" (prosa).
+
+### RC-489
+
+- **[Enoque: o maior responsável pela velha aliança] (U0007)** «Vamos então O maior responsável pela pelos termos da velha aliança chama-se Enoque.» — Enoque, o maior responsável pelos termos da velha aliança — "usado dentro de um cronograma maluco desses seres... meio que obrigado a produzir uma agenda que ele não queria, mas fez de boa fé"; "Enoque foi o primeiro e único a falar de que existia um reino vizinho, que existiam vários céus e que ele havia sido levado para cada um desses céus" (U0007: «Enoque foi o primeiro e único a falar de que existia um reino vizinho, que existiam vários céus e que ele havia sido levado para cada um desses céus.»); "a vinda do Messias, o julgamento geral dos vivos e dos mortos, tudo isso tá foi anunciado por Enoque. Tudo é Enoque" (U0007: «Tudo é Enoque.»).
+
+### RC-671
+
+- **[Metatron: a cópia travada de Enoque] (U0007)** «Foi feito uma cópia dele chamada Metatron.» — levado para o universo vizinho, Enoque virou cópia: "A condição de Enoque humana morreu. Metatron também travou. Tá travado até hoje, mas isso é uma outra história" (U0007: «A condição de Enoque humana morreu.» + prosa do autor); ressonância com RC-674 (Urdidura de Metatron).
+
+### RC-672
+
+- **[Os 363 livros ditados a Matusalém] (U0007)** «Enoque saiu, voltou, ditou 363 livros pro filho dele.» — Enoque ditou 363 livros a Matusalém (grafia STT "363"; a KB registra RC-672 como "Os 366 Manuscritos de Enoque" — divergência numérica registrada, nada harmonizado: D-9); "os livros que Enoque ditou a Matusalém passaram a ser pra humanidade de então os termos da velha aliança"; "Só que quase todos os livros de Enoque foram destruídos. Hoje a gente só tem parte de dois desses livros" (U0007: «Só que quase todos os livros de Enoque foram destruídos.»); "70 sábios traduziram então todas as agendas enoquianas, como eram chamadas" (U0007: «70 sábios traduziram então todas as agendas enoquianas, como eram chamadas.») — a Septuaginta (grafia STT "Apoaginta") constava os livros de Enoque.
+
+### RC-322
+
+- **[O karma derivado do dharma várnico] (U0003)** «O karma é um conceito sânscrito derivado da noção de dharma que, por sua vez, é ancorado na questão dos critérios várnicos.» — a genealogia do karma: sânscrito, derivado do dharma, ancorado nos critérios várnicos — "Não foi o espiritismo que inventou o karma" (U0003: «Não foi o espiritismo que inventou o karma.»); "Varna em sânscrito significa talento. Depois passou a significar casta" (U0003: «Varna em sânscrito significa talento.»); o jogo dármico/várnico/cármico "era da cultura demodármica... não era humano, mas foi imposto aos humanos"; "a doença deles começa nessa questão várnica" (U0003: «E a doença deles começa nessa questão várnica.»); "Se eu não fizer, estarei descumprindo o dharma e serei punido. Como? Pelo karma" (prosa).
+
+### RC-858
+
+- **[A interpolação posterior nas escrituras] (U0040)** «Isso foi uma manipulação feita posteriormente, porque esse é o drama desses livros.» — sobre a profecia de Isaías quanto à ressurreição: "a frase ressurreição na época em que Isaías viveu, ela não foi efetivamente colocada nesses termos" — "Isaías não sabia da ressurreição, não sabia da crucificação. Mas de fato tá lá escrito"; o mesmo critério para os livros de Enoque: "O Enoque nunca escreveu, nunca chamou esse pessoal de santo, mas na tradução que foi feita depois que o catolicismo surgiu, a turma vai e coloca São Miguel, São Rafael. Então isso é uma interpolação posterior aos fatos" (U0040: «O Enoque nunca escreveu, nunca chamou esse pessoal de santo, mas na tradução que foi feita depois que o catolicismo surgiu, a turma vai e coloca São Miguel, São Rafael.»); "Javé não conseguia prever isso no big data, mas outras entidades sim" (U0039: «Então, podemos imaginar que Javé não conseguia prever isso no big data, mas outras entidades sim.»).
+
+### RC-092
+
+- **[A locomotiva já partiu] (U0014)** «Metaforicamente falando, Jesus ainda não chegou, Sofia ainda não chegou, mas a locomotiva já partiu.» — a resposta do autor ao "não vai dar tempo": "o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada" (U0014: «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.»); "as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais" (U0014: «E o que está posto é as matrículas para certas coisas já foram encerradas e isso não tem como mudar mais.»); desde 2007 as colmeias colapsam e "não deu para esperar pro Sofia".
+
+### RC-865
+
+- **[A onda da pulsação digna que inibe] (U0003)** «Esses seres, eles têm que receber a onda da pulsação digna de um ser humano ou de vários seres humanos para que eles essa pulsação os inibe e eles não podem fazer nada.» — os seres do outro lado precisam receber a onda da pulsação digna humana para serem inibidos — "Quando você cansa de pulsar, eles podem chegar e bater" (U0003: «Quando você cansa de pulsar, eles podem chegar e bater.»); "é preciso uma certa contundência na pulsação que sai de um ser humano para que eles respeitem" (prosa); o efeito-fogueira: "Na hora em que a gente faz isso, nada de negativo consegue chegar perto da gente, porque é como se fosse um fogo saindo de uma fogueira que dói em quem dela se aproxima e uma pessoa estaciona alguns metros de uma fogueira porque o fogo dói nela" (U0007: «Na hora em que a gente faz isso, nada de negativo consegue chegar perto da gente, porque é como se fosse um fogo saindo de uma fogueira que dói em quem dela se aproxima e uma pessoa estaciona alguns metros de uma fogueira porque o fogo dói nela.»).
+
+### RC-725
+
+- **[A ilha de produção no meio do caos] (U0002)** «Nas negentropias, que são ilhas de produção ativa no meio do caos, no meio da da entropia, alguns seres humanos conseguem ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali.» — as negentropias como ilhas de produção ativa no meio do caos — "alguns poucos seres humanos podem funcionar por si mesmos... ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali. Mas a correnteza levou a humanidade" (grafia STT "da da" sem emenda).
+
+### RC-657
+
+- **[O ser humano decifrador, não colecionador] (U0002)** «O ser humano ele é um decifrador da realidade.» — "o ser humano nunca deveria concluir nada, porque o ser humano ele não é um colecionador de verdades" (U0002: «Mas o ser humano nunca deveria concluir nada, porque o ser humano ele não é um colecionador de verdades.»); "nós nunca vamos saber 100% de verdade de coisa alguma, porque nós não temos a capacidade de fazer essa leitura e ninguém tem" (U0002: «O que melhor nós humanos de viríamos com incluir é que a gente nunca vai saber a verdade de coisíssima nenhuma, porque nós estamos vivendo um tipo de vida que é uma vergonha, que é uma excentricidade do caos, que é uma escrescência, que é algo que não devia acontecer, mas está acontecendo, vem acontecendo, vai acontecer e nós nunca vamos saber 100% de verdade de coisa alguma, porque nós Nós não temos a capacidade de fazer essa leitura e ninguém tem.»); "todas as verdades apodrecidas terão que de fato apodrecer e só apodrecem em sendo distópicamente desativadas, ou seja, não acontecendo, para que aqueles que colecionam as verdades de putz, tava enganado" (U0007: «E como eu disse a vocês no início da palestra, todas as verdades apodrecidas terão que de fato apodrecer e só apodrecem em sendo distópicamente desativadas, ou seja, não acontecendo, para que aqueles que colecionam as verdades de putz, tava enganado.»).
+
+### RC-104
+
+- **[A herança da Trimurti decidida] (U0039)** «Significa só o fato de que a herança da trimurte está finalmente decidida.» — a vinda de Sofia significa só a vitória dela sobre a oposição dos arcontes: "a herança da trimurte está finalmente decidida. É dele" — a disputa de quem manda (Lila) encerrada na herança; "a própria Trimurte colapsou no universo vizinho" (contexto 2007, ver RC-174); grafia STT "trimurte" sem emenda.
+
+### RC-366
+
+- **[O não-interferir da Transfiguração] (U0005)** «Não interfiram. É comigo até o final.» — no monte da Transfiguração (a nave; "uma nuvem já tinha dominado, ou seja, uma nave"), anjos de Sofia e do criador cobram o cumprimento da agenda milenar; Jesus transfigura o corpo, "se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava" (U0005: «Aí Jesus transfigurou o corpo humano dele, se fez igual aos anjos, falou com eles na linguagem de capela que Sofia falava.») e responde "Eu estou entendendo muito bem. Eu sei o que estou fazendo. Sei também o que não estou fazendo. Não interfiram. É comigo até o final." — episódio "que eu descrevo no livro o enigma da transfiguração de Jesus" (U0005: «de Jesus que eu descrevo no livro o enigma da transfiguração de Jesus.»).
+
+### RC-365
+
+- **[O sinal verde de Judas] (U0005)** «disse: "Cara, já que você vai ter que fazer, faça logo.» — na última ceia, Jesus anuncia a traição e olha para Judas: "já que você vai ter que fazer, faça logo" — "Judas se levantou crente que tinha recebido um sinal verde de Jesus para criar tal situação em que na hora H"; a leitura do autor: Judas não traiu por maldade — "Judas só enxergava o que ele queria enxergar... ele tá dizendo que não é, que não vai fazer isso"; "Judas se suicidou porque viu que Jesus não ia fazer nada" (U0006: «Judas se suicidou porque viu que Jesus não ia fazer nada.»); o Messias recusado: "Judas, eu sou o Messias" (U0005: «Judas, eu sou o Messias.») — "mas eu não serei o tipo de Messias que vocês esperam" (prosa).
+
+### RC-854
+
+- **[Javé no trono sem saber tirar os selos] (U0007)** «E quando ele escreveu Apocalipse, ele botou Javé sentado num trono, os sete livros selados, mas dizendo o que?» — Sofia escreveu o Apocalipse "através de um anjo através de João, o apóstolo" (U0007: «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.») — e botou Javé no trono com os sete livros selados "dizendo o quê? Que nem sabia tirar os selos dos livros e dizer de todas as profecias ali descritas, quais as que de fato iriam acontecer" (prosa); a carimbada final da nova aliança: "com a m**** que Javé fez com Jesus, Sofia rompeu com Javé" (veto léxico m**** — formulação retida, registrada em prosa).
+
+### RC-193
+
+- **[O membro típico do rebanho] (U0007)** «Pergunto então: como se comporta o membro típico do rebanho humano?» — a pergunta do autor "sob a ótica nitiana" (STT = nietzschiana; grafia sem emenda): "a resposta seria o modo com que os cristãos islâmicos se comporta terrivelmente simplório, sem ousadia, sem criatividade" (STT "cristãos islâmicos" = cristãos e islâmicos; sem emenda); "É um modo que vicia o ser humano a pedir sempre. É um modo medroso e é um modo covarde, submisso, porque a gente tem medo de ser independente" (U0007: «É um modo que vicia o ser humano a pedir sempre.»); na atualidade, "uma parte da humanidade totalmente arrebanhada à moda cristã... Outra parte totalmente arrebanhada à moda islâmica".
+
+### RC-174
+
+- **[Colmeias e Trimurti: o colapso de 2007] (U0014)** «Como Sofia ainda não chegou, mas não deu para esperar Sofia porque os problemas dos microrganismos, o problema da infecção na blindagem que cerca essa criação, o Uma série de problemas já fizeram com que desde o ano 2007, quando as próprias colmeias começaram a colapsar no mundo biológico sem causa aparente, a própria Trimurte colapsou no mundo, no universo vizinho, as coisas estão colapsando e não deu para esperar pro Sofia porque já tinha que se organizar alguma coisa.» — o colapso de 2007 como o gatilho que não permitiu esperar Sofia: colmeias biológicas sem causa aparente e Trimurti no universo vizinho — "o problema da infecção na blindagem que cerca essa criação" (RC-520); "as colônias de abelhas estão se colapsando... as faixas de realidade estão colapsando... os DNAs estão colapsando... os conectomas pessoais estão colapsando, as sinapses estão colapsando" (U0019: «O problema é que as colônias de abelhas estão se colapsando.» + prosa).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos declarados para decisão do Curador (nenhum termo novo criado por conta
+# própria nesta fase). Spans conferidos byte a byte pelo motor.
+#
+# 1) FÓRMULAS MENTAIS — candidato a código novo (conceito próprio). Expressão recorrente
+#    do autor para o código dos seres do universo vizinho, contraposto ao DNA humano:
+#    «Quando Shiva escolheu certas linhagens asiáticas de seres humanos para nelas começar
+#    a provocar Javé, porque tudo isso que Shiva fez, Shiva jamais pretendeu dominar a
+#    humanidade. Era só provocação para que Javé gastasse as últimas fórmulas mentais
+#    dele.» (U0007) + «Aí Virgem disse: "Escolha uma linhagem humana, deposito o que resta
+#    de suas fórmulas mentais e escolha humanos para enfrentarem os avatares de chiva que
+#    se fazem humanos."» (U0002) + «Porque na condição demo os seres têm fórmulas mentais.
+#    Nós temos DNA que em sendo trabalhado desse daquele modo produz sequências genéticas
+#    ou genótipos que terminam produzindo certos fenótipos ou certos modos de agir. Esses
+#    seres eles não têm isso.» (U0007) — "o nosso [DNA] provoca mutações adaptativas"; os
+#    seres "dependem do temperamento" (várnicos); "nós humanos podemos introduzir 1000
+#    novos conhecimentos e 1000 coisas por dia".
+#
+# 2) SAGON CHALÃO — registro sem código novo (personagem mencionado; decisão do Curador):
+#    «Rapaz, ninguém conhece não, mas ele é chamado no conselho de Antiandel como Sagon.
+#    Sagon Chalão, ninguém conhece.» (U0047) — o ser fora de controle que "pode tentar
+#    fazer uma m**** dessa" (veto léxico; formulação retida); registro proposto na ficha
+#    RC-474 (Arcontes / Conselho de Antiandel) sem criar termo.
+#
+# 3) FILA ABERTA TOCADA (pedido de vínculo na devolutiva): RC-860 Nova Aliança (3 pérolas —
+#    esta é a palestra-título do termo); RC-858 Desígnios Proféticos (1 pérola — a
+#    interpolação posterior como método); RC-865 Pulsação Digna (1 pérola — a onda que
+#    inibe os seres). Os três códigos vivem no cadastro com ficha=False desde os ciclos
+#    P2023-02-11/P2023-02-12/P2022-12-03.
+#
+# 4) Registro sem código (observações da devolutiva): "interpolação posterior" como
+#    hermenêutica (absorvida na RC-858); "demodármicos" (absorvido na RC-322); "velha
+#    aliança" já ancorada em RC-781 (Pactos de Javé) + RC-858/RC-860 — sem candidato.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras da RC citadas:
+#   · "O Enigma da Transfiguração de Jesus" — livro do autor (pérola RC-366);
+#   · "Sofia e os Arcontes — a disputa pela suzerania universal" — livro lançado; "os
+#     arcontes não querem que a boa nova, a nova aliança de Jesus, seja compreendida
+#     pelos humanos" (contexto da pérola RC-009);
+#   · "Apocalipse" — produzido "através de um anjo através de João" (pérola RC-854);
+#   · livros de Enoque — ditados a Matusalém (pérola RC-672); "os livros que Enoque ditou
+#     a Matusalém passaram a ser pra humanidade de então os termos da velha aliança";
+#   · Bíblia — os 46 livros (agenda enoquiana/velha aliança) + os 27 do Novo Testamento
+#     (nova aliança); "380 anos depois de Jesus nascer, quando a Igreja Católica escreve
+#     essa Bíblia que a gente conhece, eles pegam a sépt, tiram o livro de Enoque, diminui
+#     de 47 para 46"; o livro de Jó como "um dos termos principais da velha aliança";
+#   · Septuaginta — "200 anos antes de Cristo, quando os judeus foram aprisionados no
+#     âmbito de Alexandria pelo poder macedônio de Alexandre Magno. 70 sábios traduziram
+#     então todas as agendas enoquianas" (grafia STT "Apoaginta");
+#   · Nag Hammadi — "os monges do monastério de São Paô, no Egito... esconderam 13 rolos
+#     com 52 manuscritos numa certa caverna lá em Nagramad no Egito. E isso foi descoberto
+#     em 1945"; "partes os beduínos que descobriram queimaram os manuscritos para passar o
+#     frio da noite" (U0007: «Os monges do monastério de São Paô, no Egito, quando
+#     souberam que a Igreja Católica tava mandando destruir tudo, esconderam 13 rolos com
+#     52.» — span truncado no bruto; grafia STT "Nagramad" = Nag Hammadi).
+# Obras EXTERNAS citadas (não são obras da RC; nada a harmonizar):
+#   · Platão — "o drama do demiurgo, como Platão chamou, ou seja, do drama de Jahé";
+#   · Nietzsche — "a ótica nitiana" (STT = nietzschiana; pérola RC-193);
+#   · Heidegger — "o ser humano nunca devia querer saber nada. Ele apenas coleciona
+#     versões" (contexto da pérola RC-657);
+#   · Nelson Rodrigues — "os idiotas vão dominar o mundo, não porque eles sejam
+#     competentes, é porque eles são muitos" (contexto da quarentena política);
+#   · Luiz Gonzaga Scortet — "A peça já acabou, mas o cenário ainda tá de pé";
+#   · Bhagavad Gita / Krishna — "Nunca houve um tempo em que os nossos eus mais profundos
+#     não existiram, como jamais existirá um tempo em que deixaremos de existir";
+#   · livro de Jó (Bíblia) — a história contada em detalhe (pérola RC-479).
+# Datas e grandezas (registro, sem harmonização):
+#   · ~48.000 anos: a interferência dos Anunaques (Enki e Enlil, "dois filhos de Anu");
+#     "cerca de 48.000 anos atrás em Liu e Enk" (grafia STT "Liu e Enk" = Enki e Enlil? —
+#     [REVISAR]); manipulação genética de homo sapiens, neandertais e homo erectus;
+#   · ~20.000 anos: "Javé sempre pensou nesses últimos 20.000 anos em termos da velha
+#     aliança"; "uns 20.000 anos antes desses 23.000 anos atrás" (STT confuso; sem emenda);
+#   · ~15.000 anos: "Jesus nasceu uns bons 15.000 anos depois de Enoque";
+#   · ~3.000 anos: Jó, "o homem mais rico do Oriente Médio";
+#   · 930 anos: a vida de Adão ("Adão é um cara que viveu 930 anos. Os humanos viviam 100
+#     anos o máximo");
+#   · 200 a.C.: a Septuaginta em Alexandria; 380 anos depois de Jesus: a Bíblia católica
+#     (47 → 46 livros); século II: "mais de 4.000 livros, 4.000 manuscritos sobre Jesus";
+#     século IV: "quando o cristianismo foi transformado em catolicismo"; 1945: Nag
+#     Hammadi;
+#   · 2004: anjos de Javé tentam o autor por 3 anos (BLOCO 5) — DIVERGÊNCIA DATADA vs
+#     P2022-11-26 (que registra "2018, 2019" e o período 2007–2018): registrada, nada
+#     harmonizado (D-9);
+#   · 2007: colmeias colapsando; Trimurti colapsou (pérola RC-174);
+#   · 28.869 genes: o genoma humano composto; "milhões de estradas nitrogenadas"; "um ser
+#     humano tenha 1000 talentos, 100 talentos, 30 talentos";
+#   · 13,8 bilhões de anos: "a boa nova de Jesus destrói totalmente todos esses 13.8
+#     bilhões de anos e estupidez" (pérola RC-001, span truncado "13.");
+#   · 363 vs 366: livros de Enoque (pérola RC-672; a KB registra 366 — D-9);
+#   · 7 filhos/2 filhas: a família de Jó no livro (STT "sete filhos, dois filhos"; a
+#     tradição bíblica registra 7 filhos e 3 filhas — D-9, sem emenda).
+# Formulações fortes fora do teto de 25 pérolas (registro para a devolutiva — nada é
+# silenciado; spans conferidos):
+#   · RC-490 (Caim): «A Bíblia diz o contrário, mas Abel nasceu com traços andrógenos,
+#     meio afeminado.» (U0007) — a leitura do autor sobre a ordem Caim/Abel e a recusa de
+#     Javé ("Javé não queria que o primogênito de Adão fosse aquele a receber a sequência
+#     do genótipo divino"); "Sete... foi filho de Eva e******** pelos arcotes" (máscara do
+#     bruto; sem emenda) — "Sete voltou-se contra Jahé";
+#   · RC-801 (Saibaba): «2000 anos depois, Saibaba ainda quer cumprir.» (U0003) — o avatar
+#     purna "era a favor das castas hindus... Cumprindo a porcaria da velha aliança";
+#     "Nem mesmo Prem Sai tem essa garantia dele mesmo de que vai conseguir algo nesse
+#     sentido" (U0039);
+#   · RC-268 (Gnosticismo): «Esse mesmo susto a humanidade também tomaria com os
+#     postulados do gnosticismo judaico e cristão, porque ele estava ali como ressuscitado,
+#     produzindo revelação que terminou se transformando em gnosticismo judaico cristão.»
+#     (U0007) — "Só que a igreja cancelou, destruiu esses livros. A revelação cósmica que
+#     vocês estão vendo agora... é que tá resgatando isso aí"; "Nem mesmo o espiritismo
+#     pôde renovar os termos da velha aliança quando Kardec codificou as mensagens dos
+#     espíritos. Porque os espíritos não falaram disso";
+#   · RC-770 (Hipóstase dos Arcontes / Nag Hammadi): o achado de 1945 (ver Obras acima);
+#   · RC-562 (DNA destravado): "Nós temos DNA que... provoca mutações adaptativas"; "nós
+#     humanos podemos introduzir 1000 novos conhecimentos e 1000 coisas por dia. Essa é a
+#     diferença" (contexto da candidatura Fórmulas Mentais, BLOCO 2);
+#   · RC-001: «Por isso que eu não carimbo nada, porque eu tenho que desconfiar até da
+#     sombra de Deus.» (U0003) — o método de desconfiança do autor;
+#   · RC-322: «Nenhum de nós é responsável porcaria nenhum de carma dos espíritos da
+#     gente. A gente já nasce de um jeito, uma família que a gente não escolheu» (U0003) —
+#     a irresponsabilidade cármica dos eus (leitura do autor; o espírito é quem "se
+#     submete de acordo com a agenda... em torno do big data que move essa coisa de velha
+#     aliança");
+#   · "O trabalho das trevas é tão mal feito, tão mal feito, que termina ficando bem
+#     feito. Ele é tão massificado, termina, entre aspas, idiotizando todo mundo" (U0002) —
+#     a massificação; "deuses hoje são... é de Macedo, é fulano de tal, é Rede Globo, é
+#     Deep State" (quarentena política, BLOCO 5).
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# «Não, veja bem, eles já invadiram, já era. Não todos, alguns. Mas para você invadir,
+#   entre aspas, o universo, é fácil. Agora, você conseguir trazer 100 milhões de seres de
+#   lá para cá para travar uma guerra, aí é difícil» (U0039) — as invasões já ocorrem;
+#   guerra em massa é radar de longo prazo ("não é o Ragnarok como foi feito com Marte.
+#   Poderá ser no futuro, mas por enquanto ainda não é").
+# «Lá no futuro, se tudo continuar com mal entendido, se a porcaria do termos da velha
+#   aliança ainda for o que movem esses seres e Sofia se perder e ir por esses eh aí
+#   ninguém sabe» (U0039) — o futuro condicional da velha aliança; radar.
+# «aquela parcela do espírito de Jesus que viveu na terra não vai se manifestar nunca
+#   através de Sofia aqui para os humanos. Para essa geração de humanos agora, eu não
+#   penso que dê tempo, mas o espírito de Jesus pode manifestar Jesus sem servir a Sofia»
+#   (U0039) — as próximas décadas: "eu acho difícil"; a manifestação do espírito de Jesus
+#   independente de Sofia é radar.
+# «E a volta dele será o Marco Zero ou já era» (U0039) — a volta de Sofia como marco zero
+#   ou "já era"; radar datado.
+# «isso lá no futuro a gente vai entender, viu?» (U0014) — promessa de compreensão futura.
+# "a gente não vai ter como passar pela adolescência e juventude. A gente vai já caiu de
+#   paraquedas na idade adulta" (U0014) — a queda na idade adulta sem transição; radar.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+- **RC-001 (quarentena política):** «E os deuses hoje são, é de Macedo, é fulano de tal, é Rede Globo, é Deep State, é não sei quem, é blá blá blá, somos todos nós.» (U0002) — conjuntura política/midiática; retido.
+- **RC-001 (quarentena política):** «Vaticano, tardas, pastores, os pastores agora determinam eleição.» (U0002) — conjuntura eleitoral (pastores determinando eleição; "o mundo esforçou-se para separar estado de igreja... e aqui no Brasil a religião fundamentalizada... Lá nos Estados Unidos... o cristianismo faliu feio"); retido.
+- **RC-001 (quarentena política; frase truncada):** «Tá ele Bolsonaro e Lula no sala para ver se sobre João Batista, eh, a prisão e a ameaça iminente à morte de João Batista foi uma tentativa de Javé obrigar Jesus a assumir seus poderes?» (U0047) — menção conjuntural truncada no bruto ([frase truncada]); retido.
+- **RC-860 (quarentena teológica):** «O cristianismo é É uma traição grande, terrível, a real intenção, seja do homem Jesus, seja do Jesus ressuscitado no seu estado espiritual, seja os próprios interesses de Sofia.» (U0007) — crítica institucional religiosa (a tese estrutural da palestra entra na RC-860 pelas pérolas aprovadas; a formulação crua fica retida); também «A Igreja Católica não sabe porcaria nenhuma sobre isso.» (U0007) — retido.
+- **RC-001 (quarentena biomediúnica/biográfica):** «No ano 2004, anjos de Javé, que eu pensei que era de Sofia, tentaram me convencer dos termos da velha aliança.» (U0002) — experiência pessoal do autor (3 anos de assédio; "eu teria que criar uma religião"; "esses seres enfernizaram minha vida") — DIVERGÊNCIA DATADA vs P2022-11-26 (2007–2018), registrada no BLOCO 3; retido da ficha (a RC-019 já registra o fenômeno dos anjos clones).
+- **RC-001 (quarentena biomediúnica/biográfica):** «Tem uma figura que está, foi meu filho muito amado, mas tá lá num nível espiritual.» (U0019) — a loca 2497 do setor sul, o filho amado nos umbrais, "dois ex-meus amigos demo que estão lá no Olimpo olhando assim e dizendo: 'Ele não vai fazer o que a gente precisa'" — biografia pessoal do autor; retido.
+- **RC-001 (quarentena pessoal):** «Aí meus defeitos me salvaram.» (U0003) — "meu orgulho pessoal me salvou... foram meus defeitos que me fizeram olhar para aquilo ali e dizer: 'Putz, eu não vou ser corrompido'" — fala de si; retido (não transita para ficha de pessoa/paciente/grupo humano).
+- **RC-001 (veto léxico):** «É uma m****.» (U0002) — veto léxico (m****); retido. Outros spans com máscara do bruto, retidos por veto: «p****, saibada fazia milagre, ressuscitava morto» (U0003 — p****); «Me matar, qualquer i***** pode, não precisa ser um» (U0003 — i*****); «Sete... foi filho de Eva e******** pelos arcotes» (U0007 — e*******); «se já vê o f** que por uma mera questão de discussão entre ele e Satanás» (U0004 — f**); «p****, Judas vai estragar a Páscoa» (U0005 — p****).
