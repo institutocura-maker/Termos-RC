@@ -1,0 +1,99 @@
+# ciclo.toml — ciclo P2021-04-10 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2021-04-10"
+titulo = "O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento"
+data_fonte = "10/04/2021"
+pasta_fonte = "ciclos/P2021-04-10"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2021-04-10.txt"
+sha256_fonte = "657dff70552dc8b0314aaed070fb0159492267015a89f58c3c0e25b37a5074c8"
+
+baseline_commit = "63bf4d2"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.422 B / 12 linhas / 11 com fala / 19.097 palavras / 106.045 chars; cobertura 7/7 fatias provada). Tese: a força guna tamásica (criada por Sávna a partir de Perfério no microinstante da criação) impera desde os 9 bilhões de anos e desestruturou os planos de exílio — o fechamento dos portais entre os dois universos (compreendido só nos últimos 3.000 anos; sentido científico em 2012) travou o exílio de Len Mion e sua turma: a nave (cheia de macas flutuantes, 'cabe algumas cidades de São Paulo dentro') não pode mais fazer a interseção entre os níveis espirituais da erraticidade inferior e o universo biológico; a turma de Len Mion se pôs de pé ('estão entrincheirados novamente'). O impasse: seres como Lemi nunca foram humanos, mas Chiva os viu 'na forma humana' (um 'eu' criado por ciência própria — 'espaço egóico'), não podem ser julgados pela ótica humana e não podem ser descartados porque 'os que sujar é que tem que limpar': os memes/qualias mentais marcados nos elétrons por Lemi nos últimos 20.000 anos precisam ser desfeitos por ele mesmo; só a personalidade humana efêmera (o 'eu da gente') é a única parte limpa capaz de atuar no caos. O autor desconstrói o romantismo espírita: Capela foi uma pandemia ('nunca houve exílio planetário' na história do universo), o juízo final foi desmascarado (agenda de Enoque a pedido de Javé), o joio e o trigo de Jesus é exequível mas está paralisado, e o quarto logos ('espírito da verdade') é o tempo novo: superar obstáculos sem gerar problemas colaterais, sem pretensão de verdade. Recolhe 25 formulações PRECISAS em 11 códigos (todos com ficha: RC-295, RC-074, RC-007, RC-200, RC-151, RC-102, RC-161, RC-520, RC-001, RC-567, RC-092). NENHUM termo novo criado no garimpo: 2 candidatos declarados no BLOCO 2 (O Tal/Tao; Fator Javé) e 1 conceito (Eu efêmero — possivelmente absorção em RC-870/RC-161) aguardando devolutiva; RC-348/RC-478/RC-063/RC-568 (ficha=False) registrados sem pérola. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["b******", "c******", "m****", "p****"]   # máscaras do próprio bruto: 4 padrões · 5 ocorrências
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A força tamásica e o fechamento dos portais: a energia guna tamásica que saiu da mente de Sávna (a partir de Perfério, no microinstante em que Prabrágina caiu) é a força escura antigravitacional que desagrega tudo — impera na criação desde os 9 bilhões de anos (antes, o Big Bang mantinha velocidade de expansão; depois, a expansão acelerou e 'tá tudo se destruindo mais rapidamente'; 'nós já estamos a 13.7 13.8'). Ninguém a compreende ('não há ninguém no paraíso') nem prevê o que fará ('daqui a 297 milhões de minutos do tempo terreno ou 243 milhões de dias'). Ela desarrumou todos os círculos da espiritualidade atuante e provocou o fechamento dos portais entre os dois universos — um mecanismo que não é 'a simples porta que se fecha', mas um troço que funciona entre os dois universos e as moradas do universo de lá; percebido nos últimos 3.000 anos e compreendido cientificamente só em 2012; 'compreender o fechamento dos portais é uma etapa para você aprender a como tentar abri-los'. O último grande portal aberto foi em 2004, na Ásia (espíritos perturbados e perturbadores); o exílio iniciado em 1989 (conclusão prevista 2048-2050) não está mais funcionando.",
+  "O impasse do exílio de Len Mion: a figura chamada Lemio estava a ponto de ser colocada numa nave (preso numa maca, com outros tantos; a nave 'cabe algumas cidades de São Paulo dentro', cheia de macas flutuantes) quando a expansão universal não permitiu mais que ela pegasse — a nave foi embora e não pode descarregar nos mundos; a turma de Len Mion, poucos, 'terminou se agigantando' e se pôs de pé ('estão entrincheirados novamente, estão sendo alojados'). Chiva olhou os antigos companheiros e disse 'Eu preciso deles. Não é hora ainda de destruí-los' — mas o autor estranhou a forma humana: Lemi nunca encarnou; o 'eu' que Lemi criou é um 'espaço egóico' apropriado por ciência própria (como os espíritos que encarnaram como mamíferos para apropriar o sistema límbico). O impasse é 'inexplicavelmente complexo': não podem ser exilados (nunca foram humanos; não deveriam ser julgados pela ótica humana) nem descartados (quem sujou tem que limpar — os qualias mentais marcados nos elétrons nos últimos 20.000 anos). Rezar por Len Mion adianta: 'a oração é sempre uma fonte quântica', uma vacina que cede forças; dar voz a ele, não: 'não é ainda para ouvidos humanos'.",
+  "A desconstrução do romantismo espírita e o quarto logos: o que houve em Capela foi uma pandemia, não uma reciclagem organizada — 'nunca houve exílio planetário' na história do universo; a primeira notícia de exílio planetário na literatura espírita foi em A Caminho da Luz (1996, cap. 4, exílio de Capela; base em A Gênese de Kardec, cap. 11; Edgard Armond, Exilados de Capela). O juízo final foi desmascarado: era a agenda de Enoque comunicada 18.000 anos antes de Jesus a pedido de Javé; a separação do joio e do trigo (sobreposta por Jesus ao juízo final) é exequível mas está paralisada — a aferição de mérito e demérito é 'uma ferição pontual, circunstancial', não julgamento ('ninguém tem estatura moral para isso'). O tempo novo é o quarto logos: superar obstáculos sem gerar problemas colaterais, sem a pretensão de levar verdade — 'o próprio espiritismo surgiu com essa mania de achar que aquilo lá é tremendamente verdadeiro'. E o eu efêmero da gente é 'a única parte limpa dessa história': só o que é efêmero consegue atuar no caos de modo a produzir algo positivo ('Capila disse isso há 2700 anos').",
+]
+
+[definicoes]
+
+[observacoes]
+# GARIMPO SUBMETIDO em 01/09/2026 — aguardando devolutiva do Curador.
+# 25 pérolas em 11 códigos (todos com ficha=True). NENHUM termo novo criado:
+# candidatos para a devolutiva — (1) O Tal (Tao): a "doutrina do tal" como caminho de
+# ressignificação (a força que "consegue fazer da podridão da criação de Jahé Luiz"),
+# a linhagem sacerdotal da China perdida, o livro de Lau Tsé (STT «tal tal tal Pequim» =
+# Tao Te Ching?), spans U0011 96993-97196 / 100574-100685 / 100685-100895; (2) Fator
+# Javé: o marco em que o autor deixou de atuar como médium passivo ("Devido ao fator
+# Javé, foi impossível para mim continuar a subir em lugares para fazer palestras"),
+# span U0006 1930-2130; (3) conceito Eu efêmero (a personalidade humana como única
+# parte limpa capaz de atuar no caos) — possivelmente absorção em RC-870/RC-161,
+# spans U0006 68415-68665 / 68857-68958. Registros sem pérola (ficha=False): RC-348
+# Roteiro do Exílio ("Estão entrincheirados novamente"), RC-478 Chequinhá (a nave de
+# exílio), RC-063 Favor Divino ("Tá todo mundo fazendo favor divino"), RC-568 Eras
+# Equinociais (span 41304-41692 registrado na pérola de RC-567). VETO LÉXICO 4 padrões
+# · 5 ocorrências (b******, c******, m****, p****) — não transitam nem em glosa.
+# Quarentenas: política/social, religião institucional, biomediúnica/biográfica
+# (julgamento pessoal de Len Mion), clínica — ver BLOCO 5 do pacote.
+
+[travas]
+# QUARENTENAS (submetidas à homologação): política/social (governo brasileiro e
+# pandemia, candidatos a presidente, Ucrânia/Rússia/Crimeia); religião institucional
+# (Vaticano; a crítica ao espiritismo institucional entra só como reflexão de RC-092,
+# sem ficha); biomediúnica/biográfica (julgamento pessoal de Len Mion — "não é ainda
+# para ouvidos humanos"; o autor pede "muita prudência"); clínica (nada neste ciclo).
+# VETO LÉXICO: b****** ×1, c****** ×1, m**** ×1, p**** ×2 (4 padrões · 5 ocorrências)
+# — máscaras do próprio bruto não transitam nem em glosa.
+# RC-348/RC-478/RC-063/RC-568 estão com ficha=False — não recebem pérola neste ciclo
+# (registros no BLOCO 2 do pacote).
+
+[lacunas]
+# D-9 — números datados (verbatim STT, selo datado; divergências coexistem, sem média):
+# - criação do universo: 13.7/13.8 bilhões de anos (U0006 13029-13310)
+# - império da energia tamásica: a partir de 9 bilhões de anos (U0006 13159-13310)
+# - fechamento dos portais percebido: últimos 3.000 anos; compreensão científica: 2012 (U0006 49376-49667)
+# - precessão equinocial: 26.000 anos; eras de 5.200 anos; 21/12/2012 (U0006 39221-39311; 41304-41692)
+# - exílio iniciado em 1989; conclusão prevista 2048-2050 (U0006 44739-45094; 45395-45523)
+# - último grande portal aberto: 2004, Ásia (U0006 50323-50500)
+# - trombada com Javé: 2006 (U0006 54343-54798)
+# - A Caminho da Luz: 1996 (STT "1000 eh 96" — U0006 42558-42782)
+# - Enoque comunicou o juízo final 18.000 anos antes de Jesus (U0006 53283-53432)
+# - Len Mion marcou os elétrons nos últimos 20.000 anos (STT trunca — U0006 77450-77550)
+# - hinduísmo dividido há 5.000 anos (U0006 19565-19727); Capila há 2.700 anos (U0006 70404-70436)
+# - Eulos Bell quase 2.000 anos sozinho refletindo (glosa sem aspa)
+# - 297 milhões de minutos / 243 milhões de dias (U0006 17100-17243)
+# - mais de 1.000 expressões adiágenas de Chiva (U0006 24243-24746)
+# - quase 250.000 famílias biodem; 200 bilhões de seres contaminados (glosa sem aspa)

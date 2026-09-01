@@ -1,0 +1,286 @@
+{
+ "sigla": "P2021-04-10",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (109.422 B / 12 linhas / 11 com fala / 19.097 palavras / 106.045 chars; cobertura 7/7 fatias provada). Tese: a força guna tamásica (criada por Sávna a partir de Perfério no microinstante da criação) impera desde os 9 bilhões de anos e desestruturou os planos de exílio — o fechamento dos portais entre os dois universos (compreendido só nos últimos 3.000 anos; sentido científico em 2012) travou o exílio de Len Mion e sua turma: a nave (cheia de macas flutuantes, 'cabe algumas cidades de São Paulo dentro') não pode mais fazer a interseção entre os níveis espirituais da erraticidade inferior e o universo biológico; a turma de Len Mion se pôs de pé ('estão entrincheirados novamente'). O impasse: seres como Lemi nunca foram humanos, mas Chiva os viu 'na forma humana' (um 'eu' criado por ciência própria — 'espaço egóico'), não podem ser julgados pela ótica humana e não podem ser descartados porque 'os que sujar é que tem que limpar': os memes/qualias mentais marcados nos elétrons por Lemi nos últimos 20.000 anos precisam ser desfeitos por ele mesmo; só a personalidade humana efêmera (o 'eu da gente') é a única parte limpa capaz de atuar no caos. O autor desconstrói o romantismo espírita: Capela foi uma pandemia ('nunca houve exílio planetário' na história do universo), o juízo final foi desmascarado (agenda de Enoque a pedido de Javé), o joio e o trigo de Jesus é exequível mas está paralisado, e o quarto logos ('espírito da verdade') é o tempo novo: superar obstáculos sem gerar problemas colaterais, sem pretensão de verdade. Recolhe 25 formulações PRECISAS em 11 códigos (todos com ficha: RC-295, RC-074, RC-007, RC-200, RC-151, RC-102, RC-161, RC-520, RC-001, RC-567, RC-092). NENHUM termo novo criado no garimpo: 2 candidatos declarados no BLOCO 2 (O Tal/Tao; Fator Javé) e 1 conceito (Eu efêmero — possivelmente absorção em RC-870/RC-161) aguardando devolutiva; RC-348/RC-478/RC-063/RC-568 (ficha=False) registrados sem pérola. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2021-04-10/original.txt",
+ "sha256": "657dff70552dc8b0314aaed070fb0159492267015a89f58c3c0e25b37a5074c8",
+ "bytes": 109422,
+ "unidades_com_fala": 11,
+ "spans": [
+  {
+   "codigo": "RC-295",
+   "u": "U0006",
+   "chars": [
+    38307,
+    38441
+   ],
+   "largura": 134,
+   "verificada": true,
+   "texto": "O pouco que foi organizado, a entropia atrapalhou e o que pior aconteceu foi o fechamento dos portais provocado pela energia tamásica."
+  },
+  {
+   "codigo": "RC-295",
+   "u": "U0006",
+   "chars": [
+    38568,
+    38847
+   ],
+   "largura": 279,
+   "verificada": true,
+   "texto": "O fechamento de portal aí não é a simples porta que se fecha, é, não é um troço que funciona entre os dois universos e entre as moradas desse universo de lá, que a todo momento há uma expectativa de que vai continuar a se abrir porque o dia esteve aberto, mas fecha e eles mexem."
+  },
+  {
+   "codigo": "RC-295",
+   "u": "U0006",
+   "chars": [
+    50324,
+    50500
+   ],
+   "largura": 176,
+   "verificada": true,
+   "texto": "Só que a entropia, essa força tamgica desde o ano 2004, quando foi aberto o último grande portal de espíritos perturbados e perturbadores em termos geografia humana lá na Ásia."
+  },
+  {
+   "codigo": "RC-074",
+   "u": "U0006",
+   "chars": [
+    55652,
+    55792
+   ],
+   "largura": 140,
+   "verificada": true,
+   "texto": "Nessa situação confusa, a figura chamada Lemio estava a ponto de ser colocado dentro de uma nave, preso lá uma maca, ele mais outros tantos."
+  },
+  {
+   "codigo": "RC-074",
+   "u": "U0006",
+   "chars": [
+    61652,
+    61804
+   ],
+   "largura": 152,
+   "verificada": true,
+   "texto": "E ele disse: \"Eu olhei para os seus antigos companheiros, né, e quando ele me disse todos que estavam na forma humana\", e ele disse, E eu preciso deles."
+  },
+  {
+   "codigo": "RC-074",
+   "u": "U0006",
+   "chars": [
+    72346,
+    72456
+   ],
+   "largura": 110,
+   "verificada": true,
+   "texto": "E esse eu que Lemi criou no meio de todos os crimes que ele cometeu, no meio de todas as loucuras que fez, né?"
+  },
+  {
+   "codigo": "RC-074",
+   "u": "U0006",
+   "chars": [
+    82001,
+    82177
+   ],
+   "largura": 176,
+   "verificada": true,
+   "texto": "Tão sem sentido, tão sem valor, tão sem Então, eh, uma vez alguém me perguntou: \"Adianta rezar por Lei Mion?\""
+  },
+  {
+   "codigo": "RC-074",
+   "u": "U0011",
+   "chars": [
+    101298,
+    101423
+   ],
+   "largura": 125,
+   "verificada": true,
+   "texto": "Elan Lenon tem condições de dar seu parecer, assim como Bels expressou em livros, não seria interessante dar voz a ele, cara?"
+  },
+  {
+   "codigo": "RC-007",
+   "u": "U0006",
+   "chars": [
+    45792,
+    45884
+   ],
+   "largura": 92,
+   "verificada": true,
+   "texto": "O que houve em Capela foi uma pandemia, uma pandemia criada a partir de um vírus que surgiu."
+  },
+  {
+   "codigo": "RC-007",
+   "u": "U0006",
+   "chars": [
+    52488,
+    52536
+   ],
+   "largura": 48,
+   "verificada": true,
+   "texto": "Sabe qual é a resposta? Nunca. Nunca houve isso."
+  },
+  {
+   "codigo": "RC-007",
+   "u": "U0006",
+   "chars": [
+    42559,
+    42782
+   ],
+   "largura": 223,
+   "verificada": true,
+   "texto": "Porque quando em 1000 eh 96, o livro tá da luz de Chico Xavier e Emanuel foi produzido ali naquele livro maravilhoso, pela primeira vez aparece em termos de literatura espiritual espírita, a notícia de um exílio planetária."
+  },
+  {
+   "codigo": "RC-200",
+   "u": "U0006",
+   "chars": [
+    73532,
+    73694
+   ],
+   "largura": 162,
+   "verificada": true,
+   "texto": "Porque o desmascaramento que já foi feito em torno do juízo final simplesmente impediu esse processo maluco que foi vacinado lá atrás por Enoque a pedido de Javé."
+  },
+  {
+   "codigo": "RC-200",
+   "u": "U0006",
+   "chars": [
+    73813,
+    73914
+   ],
+   "largura": 101,
+   "verificada": true,
+   "texto": "A separação do joio e do trigo que o homem Jesus, o humano Jesus sobrepôs ao conceito de juízo final."
+  },
+  {
+   "codigo": "RC-151",
+   "u": "U0006",
+   "chars": [
+    13030,
+    13159
+   ],
+   "largura": 129,
+   "verificada": true,
+   "texto": "Então, nos primeiros 9 bilhões de anos da criação do universo, o Big Bang manteve uma velocidade, vamos assim dizer, de expansão."
+  },
+  {
+   "codigo": "RC-151",
+   "u": "U0006",
+   "chars": [
+    16471,
+    16667
+   ],
+   "largura": 196,
+   "verificada": true,
+   "texto": "Ou seja, ela mexe desse nível aí até a força gravitacional mais forte no sentido de ser algo anti gravitacional, ou seja, a força tamática é aquela força escura que faz com que tudo se desagregue."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0006",
+   "chars": [
+    21784,
+    21874
+   ],
+   "largura": 90,
+   "verificada": true,
+   "texto": "E ninguém melhor do que ele produziu, isso é a opinião dele, essa expressão de Chiva Chak."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0006",
+   "chars": [
+    26960,
+    27039
+   ],
+   "largura": 79,
+   "verificada": true,
+   "texto": "Eu percebi que ao longo desses anos Shiva se aproximou de mim de três maneiras."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0006",
+   "chars": [
+    30662,
+    30883
+   ],
+   "largura": 221,
+   "verificada": true,
+   "texto": "Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?"
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0006",
+   "chars": [
+    27950,
+    28245
+   ],
+   "largura": 295,
+   "verificada": true,
+   "texto": "E ele uma vez me disse que quando ele me fez chegar nas minhas mãos um pequeno opúsculo que ele escreveu através de seguidor dele da antiguidade que se chama Chiva Samita, seus escritos de Chiva e que ele soltou lá uma frase dizendo: \"Nessa criação todos sofrem o tempo todo, tudo é sofrimento\"."
+  },
+  {
+   "codigo": "RC-161",
+   "u": "U0006",
+   "chars": [
+    77451,
+    77612
+   ],
+   "largura": 161,
+   "verificada": true,
+   "texto": "Nunca ninguém marcou ou tanta coisa nos elétrons desse universo como Lemi e os seus nos últimos 20."
+  },
+  {
+   "codigo": "RC-161",
+   "u": "U0006",
+   "chars": [
+    78979,
+    79124
+   ],
+   "largura": 145,
+   "verificada": true,
+   "texto": "Se Roger Maravilha ou Tragédia infectou, marcou um elétron, é Rogerinho, a mesma assinatura quântica dele que no futuro tem que não é outro, não."
+  },
+  {
+   "codigo": "RC-520",
+   "u": "U0006",
+   "chars": [
+    77613,
+    77958
+   ],
+   "largura": 345,
+   "verificada": true,
+   "texto": "Porque nesse período eles estavam nessa shamba nessa coisa, nessa realidade simultânea nossa, meio que paralela, mas mesmo de lá os memes, esses essas infecções mentais que esses caras criaram tão profundamente marcado nesse no entrelaçamento quântico do nosso universo e um pouco até no de lá, porque esses seres não dominaram só seres humanos."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0006",
+   "chars": [
+    79244,
+    79559
+   ],
+   "largura": 315,
+   "verificada": true,
+   "texto": "O que eu tô querendo dizer é que Lemor e essas figuras precisam o mais rapidamente possível, ainda que se demore milhões de anos ou milhares, sei lá, vai voltar a trabalhar nisso, porque no final quem vai ter que refazer toda configuração dos eletros é o próprio Javé, que é o grande criminoso e ele que sujou tudo."
+  },
+  {
+   "codigo": "RC-567",
+   "u": "U0006",
+   "chars": [
+    39222,
+    39311
+   ],
+   "largura": 89,
+   "verificada": true,
+   "texto": "Eh, eh, É algo que se assenta no fato de que a Terra ela demora cerca de 26.000 anos, né?"
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0012",
+   "chars": [
+    102777,
+    102952
+   ],
+   "largura": 175,
+   "verificada": true,
+   "texto": "E esse tempo a gente pode chamar quarto logos ou tal ou que seja, alguma coisa em que a gente na pretensão de superar um obstáculo, a gente supera, mas cria mais 20 problemas."
+  }
+ ],
+ "recusa": []
+}
