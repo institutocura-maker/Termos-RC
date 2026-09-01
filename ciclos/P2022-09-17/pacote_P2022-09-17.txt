@@ -1,0 +1,264 @@
+# Pacote de ampliação — P2022-09-17 · A Hipóstase dos Arcontes
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT não refatorada) lida na íntegra: original.txt 122.186 B · 92 linhas ·
+#   53 com fala · 20.789 palavras · 118.267 chars · cobertura 8/8 fatias provada
+#   (fatias 16.000 c) · maior linha 32.018 chars.
+#   Tese: a Hipóstase dos Arcontes (cópia do séc. III, encontrada em 1945 na biblioteca
+#   de Nag Hammadi — STT «Naghama», versão «Cópta») como exegese gnóstica dos seis
+#   primeiros capítulos do Gênesis, revelação recebida no séc. I/II pelo grupo de Maria
+#   Madalena — o «anjo» do livro é o próprio Sofia; os arcontes são os regentes de cada
+#   loca/gêno; Samael/Javé (soberano cego; Sacla o ignorante; Aldabaof o blasfemador;
+#   Sabaof/Sabaov Senhor das Forças) é o criador caído, parido pela nuvem como feto
+#   abortado, besta andrógina com sete filhos andrógenos, o «Eu é que sou Deus, não há
+#   outro além de mim»; a imagem refletida nas águas (que os arcontes se apaixonaram por
+#   apropriar e não puderam — só têm alma) somos nós, os humanos; a águia instrutora no
+#   lugar da cobra; a árvore do bem e do mal nunca foi uma árvore; a linhagem humana:
+#   Abel primogênito afeminado (Eva estuprada por arcontes com DNA de Javé), Noreia
+#   gerada «no lugar de Abel», o dilúvio decidido pelos regentes com Noé avisado por
+#   Javé, Pandora/Car Cadmon há 48.000 anos na fazenda de Epimeteu, os Anunax (Enenk,
+#   Ningizida=Tot; Igigi; monte Horb) e a disputa submissos × linhagem livre (~4.000
+#   consciências livres; 99,99999% submissos; gregos/filósofos de Tales a Espinosa);
+#   rakchaças (Ravana) vs Indra/Zeus; e o desfecho: o espírito da verdade como quarto
+#   logos (verdade não codificável, ≠ espiritismo), Jesus o vivo (terceira face gnóstica
+#   cancelada pela Igreja com a versão de Paulo), Niceia 325 (o mito da Santíssima
+#   Trindade), Helena e Boécio (os resgates fracassados), a biologia do ponto fora da
+#   curva (ressonância límbica; gene Fox P2; 28.869 genes/900 proteicos; 15 tri + 85 tri
+#   células) e o sétimo céu (Maloca; Zou→Chiva/Shiva; oitavo céu = Bramaloca).
+#   Recolhe 25 formulações PRECISAS em 18 códigos (todos com ficha: RC-770, RC-482,
+#   RC-530, RC-474, RC-684, RC-579, RC-299, RC-562, RC-529, RC-273, RC-400, RC-092,
+#   RC-102, RC-286, RC-567, RC-488, RC-463, RC-582). NENHUM termo novo criado no
+#   garimpo: 7 candidatos declarados no BLOCO 2 com pedido de AUTORIZAÇÃO para a
+#   devolutiva (Maria Madalena; Zou; Jesus, o Vivo; Elelev/Eleleth; Pitágoras; Boécio;
+#   Nag Hammadi — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2).
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2022-09-17 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rito: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-770
+
+- **[A Hipóstase dos Arcontes: exegese gnóstica dos seis primeiros capítulos do Gênesis] (U0004)** «A hipóstese dos arcontes ou a realidade dos regentes cósmicos é considerada por estudiosos uma exegese, ou seja, uma análise dos seis primeiros capítulos do livro do Gênesis, que expressam a mitologia gnóstica da criação do cosmos e da humanidade.» — a definição do livro que dá título à palestra (RC-770, «realidade dos regentes»); cópia do séc. III encontrada em 1945 em Nag Hammadi em versão copta (STT «Cópta») — ver BLOCO 2; a revelação recebida pelo grupo de Maria Madalena no séc. I/II: "No início do século e eu vou revelar hoje aqui uma coisa pela primeira vez pra gente poder compreender melhor esses livros todos que Maria Madalena no século havia produzido" (U0004: «No início do século e eu vou revelar hoje aqui uma coisa pela primeira vez pra gente poder compreender melhor esses livros todos que Maria Madalena no século havia produzido e que eh Mani e outras figuras, Valentiniano, outras figuras chamadas gnósticas ao longo desses séculos foram produzindo.»).
+- **[O "anjo" do livro é o próprio Sofia] (U0004)** «Só que esse anjo, assim chamado no livro, é o próprio Sofia, explicando a um dos membros do grupo toda essa história.» — a figura que narra a revelação a Noreia/ao grupo é Sofia, não um anjo celeste: a leitura gnóstica do Gênesis é dada pelo próprio ser criador (RC-784; RC-530); o grupo é o de Maria Madalena (BLOCO 2).
+- **[A imagem refletida nas águas somos nós, os humanos] (U0012)** «A imagem que apareceu nas águas somos nós, os humanos.» — o mito da criação "à imagem e semelhança": a incorruptibilidade olhou para a região das águas, sua imagem apareceu e as autoridades da escuridão se apaixonaram por ela sem conseguir apropriá-la — "Mas eles, apesar de apaixonados, não puderam apropriar, mentalizar aquela imagem que havia aparecido para ele nas águas por causa da fraqueza deles, da demência deles, já que seres que meramente possuem uma alma" (U0012: «Mas eles, apesar de apaixonados, não puderam apropriar, mentalizar aquela imagem que havia aparecido para ele nas águas por causa da fraqueza deles, da demência deles, já que seres que meramente possuem uma alma.»); os arcontes tentaram então criar o humano do solo: "Os regentes cósmicos, quando viram a tal imagem, não puderam apropriar, disseram que venham, venham, vamos criar um humano com o solo da terra" (U0022: «Os regentes cósmicos, quando viram a tal imagem, não puderam apropriar, disseram que venham, venham, vamos criar um humano com o solo da terra.»).
+- **[A árvore do bem e do mal nunca foi uma árvore] (U0035)** «A árvore do bem e do mal nunca foi uma árvore.» — a leitura não literal do Éden: o "fruto proibido" e a "árvore" como figura (ver a águia instrutora em RC-286; a serpente substituída); sem emenda do bruto — o span é a frase completa no STT.
+
+### RC-482
+
+- **[Samael: o soberano cego e seus quatro epítetos] (U0004)** «É o soberano cego, que também é chamado de Sacla, o ignorante, também de Aldabaof, o blasfemador contra o divino, também de Sabaof, mas Mas esse é o mesmo ser conhecido como Javé Brab.» — o primeiro personagem da Hipóstase: Samael é Javé, o «soberano cego»; a cadeia de epítetos do mesmo ser caído (RC-482 Ialdabaoth = Javé/Samael/Saklas/Sabaoth); STT «Javé Brab» (= Brahma) — grafia canônica Brahma na glosa; Sabaov (variante STT de Sabaoth, "Senhor das Forças") aparece no episódio Caim/Abel.
+- **[«Eu é que sou Deus, não há outro além de mim»] (U0012)** «Devido ao poder dele e sua ignorância e sua arrogância, ele disse com o poder dele: "Eu é que sou Deus, não há outro além de mim".» — a blasfêmia fundadora do criador caído: a voz da incorruptibilidade responde que ele está enganado, "Deus dos cegos" (paráfrase do contexto; sem aspa adicional); Samael pecou contra a totalidade ao se declarar o único Deus (RC-482).
+- **[O criador caído: parido pela nuvem como feto abortado] (U0046)** «E o que ela havia criado foi parido pela nuvem como um feto abortado, ou seja, o criador reconstruído, ou seja, Javé reconstruído, Samael reconstruído, é um feto.» — a origem do ser caído segundo o livro: o que Piste Sofia criou sem o tutor saiu como feto abortado — "E aquilo assumiu uma forma plástica modelada através da matéria e se tornou uma besta arrogante" (U0046: «E aquilo assumiu uma forma plástica modelada através da matéria e se tornou uma besta arrogante.»); andrógino, criou para si "sete filhos andrógenos" (paráfrase; U0046 — sem aspa adicional); RC-482.
+
+### RC-530
+
+- **[Pistofia: o epíteto do ser criador na condição anterior] (U0009)** «Pistofia, que é o epíteto do ser criador, quando ele existia na sua condição anterior de divindade cocriadora.» — «Pistofia»/«Pisto Sofia»/«Piste Sofia» (STT) = Pistis Sophia; a sabedoria orgulhosa que tentou criar sem o tutor: "Pistes Sofia é uma sabedoria orgulhosa, metida besta" (U0009: «Pistes Sofia é uma sabedoria orgulhosa, metida besta.»); dela saiu o caos e o próprio Samael (RC-530).
+- **[Sofia é epíteto, não nome próprio] (U0009)** «Então, Sofia não é um nome próprio, é um epíteto.» — "Sofia significa sabedoria" (U0009: «Sofia significa sabedoria.»); o mesmo epíteto cobre o tutor (que mais tarde assumiu a feição de Virgo/Vishnu) e o ser do nosso universo — dois Sofias distintos no bruto (RC-530; RC-784; canônica Sophia na glosa).
+
+### RC-474
+
+- **[Arcontes: o nome grego para os regentes de cada loca/gêno] (U0004)** «Então, Sofia foi engendrado durante 1 2 bilhões de anos e ao longo dos últimos 6 bilhões de anos esse ser existe como Sofia, um ser desse nosso universo, seja biológico ou bio, alguma coisa, para, entre aspas, representar toda essa hierarquia que existia e existe no universo vizinho, composta por arcontes, é o nome grego que se dá, que são os regentes de cada loca, de cada ou de cada gêno em grego ou de cada loca em sânscrito.» — o núcleo do conceito (RC-474 Arcontes = Sophias e Indras; Conselho dos 70): regentes de loca (sânscrito) / gêno (grego); a hierarquia do universo vizinho que Sofia representa; o projeto Talm como pano de fundo da semeadura: "Esses seres no tempo do projeto Talm, que é uma outra história, quando o código do Criador ia ser semeado no contexto biológico, então aquela molécula que caiu aqui na Terra ou alguém colocou aqui há cerca de 3" (U0004: «Esses seres no tempo do projeto Talm, que é uma outra história, quando o código do Criador ia ser semeado no contexto biológico, então aquela molécula que caiu aqui na Terra ou alguém colocou aqui há cerca de 3.» — STT truncado no número; sem emenda).
+
+### RC-684
+
+- **[Abel nasceu primeiro — e nasceu afeminado] (U0045)** «Em algumas palestras eu tenho dito que quem nasceu primeiro não foi Caim, foi Abel.» — a inversão da linhagem: "Eva havia sido esturpada por uma série de arconos." (U0045: «Eva havia sido esturpada por uma série de arconos.»); "Todos eles tinham DNA de Javé." (U0045: «Todos eles tinham DNA de Javé.»); Abel era o primogênito pela regra da sucessão sacerdotal dos patriarcas, mas nasceu afeminado — e Javé (Sabaov, Senhor das Forças) recusou as oferendas de Caim para provocá-lo a matar Abel e apagar o registro da linhagem afeminada (paráfrase do contexto U0045; RC-684 Abel; RC-490 Caim; livro «Homofatividade, segredo perdido» citado — BLOCO 3).
+
+### RC-579
+
+- **[Noreia: «Eu gerei um homem através de Deus no lugar de Abel»] (U0045)** «E ela disse: "Eu gerei um homem através de Deus no lugar de Abel novamente ela engravidou e ela gerou Noreia.» — Eva, após o assassinato de Abel, gera Noreia — a filha virgem que ninguém menciona: "Aparece a figura de Noréa, a filha de Eva, uma virgem de caráter pura, uma virgem pura de caráter, sempre exaltado pelo conhecimento" (U0004: «Aparece a figura de Noréa, a filha de Eva, uma virgem de caráter pura, uma virgem pura de caráter, sempre exaltado pelo conhecimento.»); STT grafa «Noreia», «Noréia», «Noria» (RC-579 Noreia; RC-787 Egrégora de Lilith/Noreia).
+
+### RC-299
+
+- **[Car Cadmon: a metamorfose que originou Pandora] (U0035)** «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — há cerca de 48.000 anos (número no BLOCO 3; o span inicia em "000 anos" porque o STT retoma a contagem); «Car Cadmon»/«Caliil Cadmon» = Kalil Kadmon, o nome demo de Pandora (RC-299): a inoculação dos vírus encomendada por Zeus para se vingar de Prometeu, com Pandora levando o "presente funesto" (paráfrase do contexto U0035; RC-086 Pandora; RC-301 Prometeu).
+
+### RC-562
+
+- **[28.869 genes, dos quais 900 produzem proteína] (U0026)** «869 genes, os quais são os 900 produz proteína porque o resto tá desligado, funciona no outro.» — o restante do genoma desligado "funciona no outro sentido" (RC-562 Baralho genético): cada célula produz cerca de 2.000 proteínas como capacidade máxima; até hoje os humanos produziram ~20.000 tipos de proteínas, com novas descobertas a cada dia (paráfrase U0041 — números no BLOCO 3).
+
+### RC-529
+
+- **[Ressonância límbica: sentir o que o outro mamífero sente] (U0041)** «Um Os temas mais importantes da humanidade, discretamente a ciência vem falando dele nos últimos tempos, que é algo que se chama ressonância límbica.» — a definição: "É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo" (U0041: «É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo.»); o canal emocional como tecnologia cósmica (RC-529).
+
+### RC-273
+
+- **[Concílio de Niceia 325: o mito da Santíssima Trindade] (U0004)** «E Constantino se converteu ao cristianismo, mas Mas quando Constantino se converteu ao cristianismo, qual a primeira confusão que surgiu no Concílio de Niceia em 325, Constantino trouxe todos os bispos de igrejas cristãs.» — "E ali surgiu o mito da Santíssima Trindade Eniceia." (U0004: «E ali surgiu o mito da Santíssima Trindade Eniceia.»); a datação do mito trinitário no Concílio (RC-273 A Falsa Trindade); "Não existia a figura do Papa ainda" (paráfrase do contexto U0004).
+- **[Helena: as relíquias para a conversão de Constantino] (U0004)** «As pessoas não sabem o que Helena, a mãe de Constantino, foi atrás em Jerusalém.» — a busca dos textos gnósticos pela mãe de Constantino: "A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo" (U0004: «A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo.»); o resgate fracassado que Boécio retomaria no séc. V (RC-273; BLOCO 2 — Boécio).
+
+### RC-400
+
+- **[O gene Fox P2: o da linguagem e da racionalidade] (U0041)** «Pô, sobre o cérebro límbico mamífero, surgiu o cérebro primata e no topo do cérebro primata um córtex cerebral, no qual o gene Fox P2, que é o da linguagem, o da racionalidade surgiu.» — a cronologia fóssil do gene: fósseis de homo sapiens com 50-60.000 anos não têm o gene no genoma; a partir de ~40.000/37.000 anos ele aparece (paráfrase U0054): "000 anos, você não vai encontrar o GN Fox P2 no genoma deles" (U0054: «000 anos, você não vai encontrar o GN Fox P2 no genoma deles.»); STT «GN Fox P2» (RC-400 Foz Côa/FOXP2).
+
+### RC-092
+
+- **[O espírito da verdade: o ser a quem chamo de quarto logos] (U0046)** «" Aí ele disse: "Até o momento em que o humano verdadeiro dentro de uma forma modelada revele a existência do espírito da verdade, que é o ser a quem eu tenho chamado de quarto logos, que o pai enviou.» — o fecho da revelação: o espírito da verdade é o quarto logos, o enviado do pai; "E todos que se instruíram sobre essas coisas existem como imortais no meio da humanidade mortal" (U0046: «E todos que se instruíram sobre essas coisas existem como imortais no meio da humanidade mortal.»); o livro «Quarto Logos» citado no bruto (BLOCO 3); verdade não codificável, distinta do espiritismo/consolador (paráfrase do contexto; RC-092; RC-257).
+
+### RC-102
+
+- **[O sétimo céu: Maloca, comando dado a Chiva] (U0046)** «E Sofia e Zou o ergueram e lhe deram o comando do sétimo céu, que é o Maloca, Sofia e Zou, estamos falando aqui de VNO e Shiva, para que ele pudesse regerno e o caos.» — o anjo-clone (Zou, BLOCO 2) bate no anjo, transforma-se em Chiva e recebe o sétimo céu — "E ele é chamado Senhor das forças ou sabaof, já que ele está acima das forças do caos" (U0046: «E ele é chamado Senhor das forças ou sabaof, já que ele está acima das forças do caos.»); o oitavo céu, acima do sétimo, é o Bramaloca (paráfrase U0046; RC-102 Shiva/Savna; RC-038 Brahmaloka; STT «Maloca»).
+
+### RC-286
+
+- **[A águia instrutora: a cobra do mito, contada do jeito grego] (U0004)** «O terceiro personagem, uma águia que é instrutora, mentora, que aconselha os humanos a comer a tal maçã proibida pelos arcontes.» — "Essa águia substitui a cobra do mito judaico cristão." (U0004: «Essa águia substitui a cobra do mito judaico cristão.»); na versão grega do mito a águia aparece como Eros (STT «vígo. ou eros» — sem aspas; RC-286 Eros = Vishnu / Tártaro = Shiva; RC-283 Pandora como Serpente do Éden).
+
+### RC-567
+
+- **[A precessão de 26.000 anos e o Tzalkin de 5.200] (U0041)** «Como os sacerdotes astecas não sabiam em que época exatamente eles estavam vivendo, eles começaram a fazer sacrifício de seres humanos pros deuses retardarem o passar do tempo para os dias não chegarem tão rápido em termos da prceção ecial da Terra, que é um giro de 26.000 anos que, entre aspas, a Terra ao redor de si mesmo.» — STT «prceção ecial» (precessão equinocial; RC-567); o calendário herdado: "Mas os astecas, como os maias, tinham o Tzalkin, que é um calendário que mostrava que a cada cerca de 5200 anos, de uma passagem de uma era para outro, o mundo às vezes quase acabava por g Uma vez, outra vez terra morte, outra vez fogo e a última foi o dilúvio, água" (U0041: «Mas os astecas, como os maias, tinham o Tzalkin, que é um calendário que mostrava que a cada cerca de 5200 anos, de uma passagem de uma era para outro, o mundo às vezes quase acabava por g Uma vez, outra vez terra morte, outra vez fogo e a última foi o dilúvio, água.»); STT «Tzalkin» (Tzolkin), «taltecas» (toltecas) — BLOCO 3.
+
+### RC-488
+
+- **[Os Anunax, os Igigi e o monte Horb] (U0068)** «Os Anunax transaram com as mulheres, os Igis, que é um tipo de anunque, desceram no monte Horb e desobedecendo a lei de Enk, de Enlil, eles transaram com as humanas aqui.» — "Quando Jared, pai de Enoque, existiu, o que é que houve?" (U0068: «Quando Jared, pai de Enoque, existiu, o que é que houve?»); STT «Anunax» (Anunnakis; RC-024), «Igis» (Igigi; RC-580), «monte Horb» (Horeb), «lei de Enk, de Enlil» (RC-487 Enlil); RC-488 Nefilins (= Anunnakis).
+
+### RC-463
+
+- **[Ningizida, o futuro Tot] (U0056)** «Tô falando dos nefelin bíblicos na linguagem sumeriana ou os Anunax na linguagem acadiana.» — os três seres do criatório: "E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot" (U0056: «E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot.»); STT «Enenk» (= Enki; RC-460 Marduk = Ra, filho de Enki) e «Ningizida» (= Ningishzidda/Thoth; RC-463 Hermes Trismegisto); RC-488.
+
+### RC-582
+
+- **[Rakchaças: o chefe deles, Ravana, desafia Zeus/Indra] (U0041)** «" E apareceu um chefe deles, dos rakchaças, um tal de Ravana, e o cara tem poder para a Zeus disse: "Vou desafiá-lo".» — STT «rakchaças» (Rakchasas; RC-872 em fila aberta — ver BLOCO 2): "Aí Zeus, chamado na mitologia ariana de de Indra, desafiou Ravana" (U0041: «Aí Zeus, chamado na mitologia ariana de de Indra, desafiou Ravana.»); a surra de Ravana em Indra está descrita no Ramaian (STT «Ramaian»; Ramayana) — paráfrase U0041; RC-582 Ravana.
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos NOVOS para AUTORIZAÇÃO da devolutiva (promoção a termo novo em fila
+# aberta na APLICAÇÃO, nunca no garimpo — o portão real é `aprovada`). Spans
+# conferidos byte a byte pelo motor. Nenhum destes consta da malha (875 termos).
+#
+# 1) MARIA MADALENA — o grupo gnóstico que recebeu a revelação da Hipóstase no séc.
+#    I/II; produtora de livros perseguidos pelo bispo Irineu de Lyon; via Madalena
+#    surgiu a terceira face de Jesus («Jesus, o vivo»). Evidências (U0004): «No
+#    início do século e eu vou revelar hoje aqui uma coisa pela primeira vez pra
+#    gente poder compreender melhor esses livros todos que Maria Madalena no século
+#    havia produzido e que eh Mani e outras figuras, Valentiniano, outras figuras
+#    chamadas gnósticas ao longo desses séculos foram produzindo.»; «Aí através de
+#    Madalena, foi surgindo um terceiro grupo de informação, uma terceira face de
+#    Jesus, que é conhecida na época como Jesus, o vivo.»
+#
+# 2) ZOU — o epíteto do ser gerado da condição genética do criador caído, que atuou
+#    primeiro como clone (brigando com o Samael cego) e depois se assumiu como
+#    Chiva; com Sofia, ergueu o anjo e lhe deu o comando do sétimo céu (Maloca; VNO
+#    e Shiva). Evidências (U0009): «E finalmente Zou, que é um epíteto, de um ser
+#    gerado a partir da condição genética do criador caído, que atuou primeiro como
+#    um clone, brigando com o Samael, cego e depois se assumiu como Chiva.»;
+#    (U0046): «E Sofia e Zou o ergueram e lhe deram o comando do sétimo céu, que é o
+#    Maloca, Sofia e Zou, estamos falando aqui de VNO e Shiva, para que ele pudesse
+#    regerno e o caos.»
+#
+# 3) JESUS, O VIVO — a terceira face de Jesus conhecida pelos gnósticos (com Jesus,
+#    o Nazareno, dos apóstolos); a face que a Igreja Católica cancelou ao assumir a
+#    versão de Paulo. Evidências (U0004): «Aí através de Madalena, foi surgindo um
+#    terceiro grupo de informação, uma terceira face de Jesus, que é conhecida na
+#    época como Jesus, o vivo.»; (U0046): «Então, o Hipóstase dos Arcontes é um
+#    livro, eu não reproduzi o livro todo, só algumas partes, mas eu espero ter
+#    passado para vocês o o conceito a temática profunda de alguns manuscritos que
+#    foram produzidos h cerca de 19 e poucos anos atrás, falando desses temas com
+#    essa profundidade e assim parece que essa era a verdadeira revelação que Jesus
+#    ressuscitado pretendia esclarecer as pessoas, já que ele havia tentado com
+#    Paulo, com os apóstolos, ele não conseguia, mas Isso tudo aqui foi cancelado
+#    pela Igreja Católica, que assumiu a versão de Paulo, Jesus, o Cristo, como
+#    sendo a face verdadeira de Jesus, quando as outras duas, Jesus, o Nazareno, que
+#    os apóstolos conheciam, e Jesus o vivo que os gnósticos conheciam, essas duas
+#    faces foram esquecidas.» [REVISAR: «19 e poucos anos» = ~1900 anos; STT trai a
+#    data — não literalizar na ficha]
+#
+# 4) ELELEV (grafia canônica: ELELETH) — o grande anjo da revelação, que responde à
+#    busca de Noreia: dentro de domínios ilimitados habita a incorruptibilidade
+#    Sofia, chamada Pistes. Evidência (U0046): «Aí o anjo explicou: "E o grande anjo
+#    Elelev, compreendendo a minha busca, falou então para mim: Dentro de domínios
+#    ilimitados habita a incorruptibilidade Sofia, que é chamada Pistes, quis criar
+#    algo sozinha, sem o tutor dela, que também se chama Sofia.»
+#
+# 5) PITÁGORAS — a citação do filósofo sobre a origem divina do humano, que sabe
+#    discernir o erro e distinguir a verdade — coisa que nenhuma outra estirpe da
+#    criação sabe fazer; o humano como única espécie com a imagem (a "imagem
+#    refletida nas águas"). Evidência (U0012): «Por isso que Pitágoras disse: "Os
+#    humanos, cuja origem é divina, conseguem discernir o erro, sabem distinguir a
+#    verdade, coisa que nenhuma outra estirpe dessa criação, seja do universo
+#    vizinho ou do nosso universo biológico, sabe fazer.»
+#
+# 6) BOÉCIO — o filósofo do séc. V que tentou resgatar o que Helena não conseguiu
+#    (os textos da revelação gnóstica) e foi morto aos 44 anos para não fazê-lo; o
+#    elo da cadeia de resgate Helena → Boécio → Nag Hammadi (1945). Evidência
+#    (U0004): «Mas esse temas que nós vamos ver aqui desde o século V, quando Boécio
+#    tentou resgatar aquilo que Helena havia tentado resgatar e também não
+#    conseguiu, morreu, foi morto com 44 anos para não fazer isso.»
+#
+# 7) NAG HAMMADI (STT «Naghama») — a biblioteca onde em 1945 foi encontrada a cópia
+#    copta da Hipóstase dos Arcontes; o acervo perseguido desde o bispo Irineu de
+#    Lyon. Evidências (U0004): «Em 1945, como eu disse, foi encontrado uma cópia na
+#    biblioteca de Naghama de uma versão em Cópta, que é a linguagem egípcia da
+#    época.»; «No início do século havia já um movimento que começou no século
+#    passado com o bispo Irineu de Lon de perseguir esses livros, porque esses
+#    livros contradiziam muita coisa do que os evangelhos que Irineu havia
+#    selecionado como sendo os verdadeiros sobre Jesus falavam.»
+#
+# REGISTROS SEM CÓDIGO PRÓPRIO (não são candidatos): RC-872 Rakchasas (fila aberta,
+# ficha=False — regra: não recebe pérola neste ciclo): a evidência «rakchaças»
+# (U0041, «E apareceu um chefe deles, dos rakchaças, um tal de Ravana...») foi
+# alocada a RC-582 (Ravana, ficha=True); ampliação de RC-872 fica reservada para a
+# materialização. RC-063 Favor Divino (ficha=False): menção «agenda do espírito na
+# questão do favor divino» e o gene doente inoculado como «entre aspas o favor
+# divino» (U0026) — sem pérola neste ciclo; registrar na aplicação. Tema «projeto
+# Talm» → RC-080 (menção U0004, sem ampliação neste ciclo). «VNO» (consciência de
+# VNO = Vishnu) → RC-504/RC-104; «Trimurte» → RC-104.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras citadas: «Sofia os Arcontes e a disputa pela suzerania universal» (a
+# apostila correlata 2022-09-24 já consta do acervo em apostilas/CONCLUIDAS/);
+# «Humanidade em Disputa»; «Jesus e o enigma da transfiguração»; «Sorriso de
+# Pandora» (a fazenda de Epimeteu e a inoculação de Pandora); «Quarto Logos»
+# («Quando eu escrevi o livro Quarto Logos, o sentido era faz...»); «Homofatividade,
+# segredo perdido» (Abel primogênito); o GÊNESIS (os seis primeiros capítulos);
+# o RAMAIAN (STT «Ramaian» — Ramayana; a surra de Ravana em Indra); o TZALKIN (STT;
+# Tzolkin — calendário das eras).
+# Datas e grandezas (D-9 — com selo datado, sem média): universo 13,8 bi («nesse
+# contexto de 13.8 bilhões de anos»); código semeado no nosso universo há ~8 bi;
+# Sofia gerada há ~5 bi (STT «5 se b de bola, bilhões de anos» — truncado, sem
+# emenda), engendrada durante 1-2 bi; Pandora/Car Cadmon há 48.000 anos; Eva há 22,
+# 23.000 anos; Chiva (maricandã, sul da Índia/Sri Lanka — STT «Sriilan», «Seilhão»)
+# começou há ~23.000 anos; precessão 26.000 anos; Tzalkin ~5.200 anos por era;
+# 28.869 genes, dos quais ~900 produzem proteína; ~2.000 proteínas por célula
+# (capacidade máxima); ~20.000 tipos de proteínas produzidos até hoje; 15 tri
+# células próprias + 85 tri microrganismos; 99,99999% da humanidade submissa — não
+# chega a ~4.000 consciências livres; Concílio de Niceia em 325; Nag Hammadi 1945;
+# Boécio no séc. V, morto aos 44 anos; gene Fox P2 ausente em fósseis de 50-60.000
+# anos e presente a partir de ~40.000/37.000; João escreve o apocalipse com 90 e
+# poucos anos.
+# Divergências com outras fontes (D-9, sem emenda): Eva 22-23.000 anos (vs outras
+# janelas do acervo); Sofia gerada há ~5 bi (vs «Savna mergulha há 1,6 bi» do
+# P2021-06-26); a semeadura do código em ~8 bi (vs «molécula mãe há 3,8 bi» do
+# P2021-06-26); «1 2 bilhões de anos» de gestação de Sofia (STT, sem pontuação).
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# - "Aí eu dizia naquela oportunidade, eu não sei se nessa vida vai ser possível eu
+#   me dedicar a isso" (U0002) — a promessa condicional de se dedicar a revelar a
+#   "outra face da história, principalmente da história de Jesus" (abertura da
+#   palestra).
+# - "isso eu descrevo em outros livros, mas não vou aqui falar" — a aposta entre
+#   Brama e Virgno (Javé e Vishnu) que exigiu um chefe de Javé na Terra (U0004;
+#   paráfrase — sem aspa).
+# - "Em algumas palestras eu tenho dito que quem nasceu primeiro não foi Caim, foi
+#   Abel" (U0045) — retomada de tema já anunciado em palestras anteriores.
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+# VETO LÉXICO (máscaras do próprio bruto): 5 padrões · 13 ocorrências — m**** ×5,
+# p**** ×4, e******** ×2, b****** ×1, e****** ×1; todos retidos (lista em
+# `veto_lexico` do ciclo.toml); nenhuma máscara transita, nem em glosa.
+# QUARENTENA POLÍTICA/SOCIAL (homologada): a OPERAÇÃO PRATO — menção curta, sem
+# desenvolvimento: «Na operação prato tinha uma forma de pegar esse sangue.»
+# (U0042) — retida integralmente (fenômeno ufológico militar; não vira termo).
+# QUARENTENA BIOMEDIÚNICA/BIOGRÁFICA (homologada): nomes próprios e mediação —
+# «Pergunta aqui com Alexandre» (U0012); «Na hora que Rogério Marcelo se abraça»
+# (U0069); ruído de microfone no STT («o microfone para ligou, ligou. Perfeito. Eh…»
+# U0004) — retidos.
+# QUARENTENA RELIGIÃO INSTITUCIONAL (homologada): o julgamento das religiões
+# institucionais que "criaram novos condicionamentos" após as épocas de liberdade
+# (Pandora, Eva, Noreia) — paráfrase U0045; retido como trava; o mito da Santíssima
+# Trindade em Niceia transita apenas como conteúdo do acervo (RC-273), sem
+# julgamento religioso.
+# OUTRAS RETIDAS: «o cara tem poder para a Zeus disse» (STT truncado dentro do span
+# de RC-582 — mantido como veio, sem emenda); «Saiu arcanos aqui, mas tá errado»
+# (correção de fala do próprio autor, U0004); «desabalada carreira pro caos» (STT;
+# prov. "em desabalada carreira para o caos" — sem emenda).

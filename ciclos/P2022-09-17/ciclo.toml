@@ -1,0 +1,103 @@
+# ciclo.toml — ciclo leve P2022-09-17 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-09-17"
+titulo = "A Hipóstase dos Arcontes"
+data_fonte = "17/09/2022"
+pasta_fonte = "ciclos/P2022-09-17"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-09-17.txt"
+sha256_fonte = "0120f9df4de33430bc322b511eda5b25c7c99c812edf695125ca92bc93d4ab44"
+
+baseline_commit = "6633903"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 122.186 B · 92 linhas · 53 com fala · 20.789 palavras · 118.267 chars · cobertura 8/8 fatias provada (fatias 16.000 c) · maior linha 32.018 chars. Tese: a Hipóstase dos Arcontes (cópia do séc. III, encontrada em 1945 na biblioteca de Nag Hammadi — STT «Naghama», versão «Cópta») como exegese gnóstica dos seis primeiros capítulos do Gênesis, revelação recebida no séc. I/II pelo grupo de Maria Madalena — o «anjo» do livro é o próprio Sofia; os arcontes são os regentes de cada loca/gêno; Samael/Javé (soberano cego; Sacla o ignorante; Aldabaof o blasfemador; Sabaof/Sabaov Senhor das Forças) é o criador caído, parido pela nuvem como feto abortado, besta andrógina com sete filhos andrógenos, o «Eu é que sou Deus, não há outro além de mim»; a imagem refletida nas águas (que os arcontes se apaixonaram por apropriar e não puderam — só têm alma) somos nós, os humanos; a águia instrutora no lugar da cobra; a árvore do bem e do mal nunca foi uma árvore; a linhagem humana: Abel primogênito afeminado (Eva estuprada por arcontes com DNA de Javé), Noreia gerada «no lugar de Abel», o dilúvio decidido pelos regentes com Noé avisado por Javé, Pandora/Car Cadmon há 48.000 anos na fazenda de Epimeteu, os Anunax (Enenk, Ningizida=Tot; Igigi; monte Horb) e a disputa submissos × linhagem livre (~4.000 consciências livres; 99,99999% submissos; gregos/filósofos de Tales a Espinosa); rakchaças (Ravana) vs Indra/Zeus; e o desfecho: o espírito da verdade como quarto logos (verdade não codificável, ≠ espiritismo), Jesus o vivo (terceira face gnóstica cancelada pela Igreja com a versão de Paulo), Niceia 325 (o mito da Santíssima Trindade), Helena e Boécio (os resgates fracassados), a biologia do ponto fora da curva (ressonância límbica; gene Fox P2; 28.869 genes/900 proteicos; 15 tri + 85 tri células) e o sétimo céu (Maloca; Zou→Chiva/Shiva; oitavo céu = Bramaloca). Recolhe 25 formulações PRECISAS em 18 códigos (todos com ficha: RC-770, RC-482, RC-530, RC-474, RC-684, RC-579, RC-299, RC-562, RC-529, RC-273, RC-400, RC-092, RC-102, RC-286, RC-567, RC-488, RC-463, RC-582). NENHUM termo novo criado no garimpo: 7 candidatos declarados no BLOCO 2 com pedido de AUTORIZAÇÃO para a devolutiva (Maria Madalena; Zou; Jesus, o Vivo; Elelev/Eleleth; Pitágoras; Boécio; Nag Hammadi — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["b******", "e******", "e********", "m****", "p****"]   # máscaras do próprio bruto: 5 padrões · 13 ocorrências
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo (garimpo: nenhuma; candidatos do BLOCO 2 aguardam devolutiva)
+ficha_true = 0   # viradas no cadastro (nenhuma materialização ordenada)
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0     # códigos que passam a carregar a sigla do ciclo na lista de fontes (só na APLICAÇÃO)
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "A Hipóstase dos Arcontes e o mito da criação: o livro gnóstico (cópia do séc. III em copta, achada em 1945 na biblioteca de Nag Hammadi — STT «Naghama» —, revelação do séc. I/II ao grupo de Maria Madalena, perseguida desde o bispo Irineu de Lyon) é uma exegese dos seis primeiros capítulos do Gênesis: o «anjo» que narra é o próprio Sofia; os arcontes, o nome grego dos regentes de cada loca/gêno, viram a imagem da incorruptibilidade refletida nas águas, se apaixonaram por ela e não puderam apropriá-la (só têm alma, não espírito) — 'a imagem que apareceu nas águas somos nós, os humanos'; o criador caído é Samael/Javé: soberano cego, Sacla o ignorante, Aldabaof o blasfemador, Sabaof/Sabaov o Senhor das Forças, o ser da Trimurte que não podia criar avatar, parido pela nuvem como feto abortado e tornado besta andrógina com sete filhos andrógenos, o que disse «Eu é que sou Deus, não há outro além de mim»; no mito contado do jeito grego, a águia instrutora (Eros) substitui a cobra, e a árvore do bem e do mal nunca foi uma árvore.",
+  "A linhagem humana e a história dos patriarcas: Eva foi estuprada por uma série de arcontes com DNA de Javé; Abel nasceu primeiro — e nasceu afeminado; Javé (Sabaov) recusou as oferendas de Caim para provocá-lo a matar Abel e apagar o registro da linhagem afeminada; Eva gerou então Noreia «no lugar de Abel», a filha virgem exaltada pelo conhecimento; os regentes decidiram o dilúvio e Javé avisou Noé para construir a arca; a história longa da humanidade: Pandora/Car Cadmon (Caliil Cadmon, o nome demo) há 48.000 anos na fazenda de Epimeteu com a inoculação dos vírus de Zeus, Eva há 22-23.000 anos, a rebelião de Noreia assistida por Pandora e Eva, o mito de Lilif; os Anunax (Enenk, Ningizida que viraria Tot; os Igigi no monte Horb desobedecendo a lei de Enlil) com o criatório e a domesticação da linhagem submissa contra a linhagem livre (os gregos/filósofos — Tales, Anaximandro, Parmênides, Pitágoras, Sócrates, Platão, Aristóteles, Espinosa, Schopenhauer, Nietzsche); os rakchaças com o chefe Ravana desafiando Zeus/Indra; hoje, 99,99999% da humanidade submissa — não chega a ~4.000 consciências livres.",
+  "A revelação, a biologia e o desfecho: o espírito da verdade é o ser a quem o autor chama de quarto logos, o enviado do pai — verdade não codificável, distinta do espiritismo (o consolador), tema do livro «Quarto Logos»; a terceira face de Jesus, «Jesus, o vivo» que os gnósticos conheciam, foi cancelada pela Igreja Católica, que assumiu a versão de Paulo; Niceia 325 criou o mito da Santíssima Trindade, e a cadeia de resgate dos textos (Helena, Boécio — morto aos 44 —, até 1945) fracassou por séculos; a biologia do ponto fora da curva: a ressonância límbica (o mamífero sente o que o outro mamífero sente), o gene Fox P2 da linguagem surgindo no topo do cérebro primata (ausente em fósseis de 50-60.000 anos, presente a partir de ~40.000), os 28.869 genes com apenas ~900 produzindo proteína, ~20.000 tipos de proteínas, 15 tri células próprias + 85 tri microrganismos; e o sétimo céu (Maloca), cujo comando Sofia e Zou deram ao anjo transformado em Chiva (VNO e Shiva; o oitavo céu é o Bramaloca), com o anjo chamado Senhor das Forças ou sabaof, acima do caos.",
+]
+
+[definicoes]
+
+[observacoes]
+# GARIMPO P2022-09-17 (ciclo novo, submetido): 25 pérolas em 18 códigos (todos com
+# ficha=True: RC-770 ×4, RC-482 ×3, RC-530 ×2, e uma cada para RC-474, RC-684, RC-579,
+# RC-299, RC-562, RC-529, RC-273 ×2, RC-400, RC-092, RC-102, RC-286, RC-567, RC-488,
+# RC-463, RC-582). NENHUM termo novo criado: 7 candidatos no BLOCO 2 do pacote para
+# AUTORIZAÇÃO da devolutiva (Maria Madalena; Zou; Jesus, o Vivo; Elelev/Eleleth;
+# Pitágoras; Boécio; Nag Hammadi — STT «Naghama»). RC-872 (Rakchasas, fila aberta,
+# ficha=False): evidência «rakchaças» alocada a RC-582 (Ravana, ficha=True); ampliação
+# reservada para a materialização. RC-063 (Favor Divino, ficha=False): menção sem
+# pérola. «projeto Talm» → RC-080 (menção U0004; sem ampliação). VETO LÉXICO: 5
+# padrões · 13 ocorrências (m**** ×5, p**** ×4, e******** ×2, b****** ×1, e****** ×1)
+# — nenhuma máscara transita, nem em glosa. Quarentenas homologadas vigentes (ver
+# [travas]). Livro-razão de âncoras: 34 buscas, 0 recusas (10 âncoras do lote 1 + 1 de
+# «Maria Madalena» no lote 2 + 23 sub-âncoras; 9 manuscritas rejeitadas pelo motor —
+# grafias do STT divergem; conferir sempre no bruto).
+
+[travas]
+# QUARENTENAS HOMOLOGADAS (devolutivas anteriores, vigentes): política/social;
+# religião institucional; biomediúnica/biográfica (nomes próprios, máscaras); clínica
+# (síndromes) — nada transita para ficha. NESTE CICLO: OPERAÇÃO PRATO retida por
+# trava político-social («Na operação prato tinha uma forma de pegar esse sangue.»
+# U0042 — menção sem desenvolvimento; não vira termo). VETO LÉXICO: 5 padrões · 13
+# ocorrências — m**** ×5, p**** ×4, e******** ×2, b****** ×1, e****** ×1 (máscaras do
+# próprio bruto; lista em `veto_lexico`). RC-872 (fila aberta, ficha=False) e RC-063
+# (ficha=False) não recebem pérola neste ciclo (registros no BLOCO 2).
+
+[lacunas]
+# STT com trechos ilegíveis/truncados, mantidos como veio, sem emenda: «Naghama»
+# (Nag Hammadi); «Cópta» (copta); «5 se b de bola, bilhões de anos» (Sofia gerada há
+# ~5 bi — truncado); «1 2 bilhões de anos» (gestação de Sofia; sem pontuação);
+# «cerca de 19 e poucos anos atrás» (prov. ~1900 anos — STT trai a data, não
+# literalizar); «Javé Brab» (Brahma); «Anunax»/«anunque» (Anunnaki); «Enenk»/«Enkil»
+# (Enki); «Igis» (Igigi); «monte Horb» (Horeb); «lei de Enk, de Enlil» (Enki/Enlil);
+# «Ningizida» (Ningishzidda); «Tzalkin» (Tzolkin); «taltecas»/«tatecas» (toltecas);
+# «prceção ecial» (precessão equinocial); «esturpada» (estuprada); «Car Cadmon»/
+# «Caliil Cadmon» (Kalil Kadmon); «Leva» (Eva); «Lilif» (Lilith); «Sáclas»/«Sacla»
+# (Saklas); «Aldabaof»/«Dalbaof» (Yaldabaoth); «Sabaov»/«Sabaof» (Sabaoth); «Trimurte»
+# (Trimurti); «Chiva»/«Virgo»/«Virgno»/«vígo»/«VNO» (Shiva/Vishnu); «Ramaian»
+# (Ramayana); «Sriilan»/«Seilhão» (Ceilão); «maricandã» (Murugan); «GN Fox P2»
+# (gene FoxP2); «Maloca» (nome STT do sétimo céu; prov. Brahmaloka); «Samarel»
+# (Samael); «os arcotes»/«arconos» (arcontes); «Pistofia»/«Pisto Sofia»/«Piste Sofia»
+# (Pistis Sophia); «Noreia»/«Noréia»/«Noria» (Noreia); «Javé Brab»; «homofatividade»
+# (título citado pelo autor); «Rogério Marcelo» (nome próprio, quarentena).
+# Números (D-9 — com selo datado, sem média): universo 13,8 bi; semeadura do código
+# há ~8 bi; Sofia gerada há ~5 bi (engendrada durante 1-2 bi); Pandora/Car Cadmon há
+# 48.000 anos; Eva há 22-23.000 anos; Chiva (Índia/Sri Lanka) há ~23.000 anos;
+# precessão 26.000 anos; Tzalkin ~5.200 anos por era; 28.869 genes / ~900 proteicos;
+# ~2.000 proteínas por célula; ~20.000 tipos de proteínas; 15 tri + 85 tri células;
+# 99,99999% submissos (~4.000 consciências livres); Niceia 325; Nag Hammadi 1945;
+# Boécio séc. V (morto aos 44); Fox P2: fósseis 50-60.000 sem / ~40.000-37.000 com;
+# João com 90 e poucos anos (apocalipse).

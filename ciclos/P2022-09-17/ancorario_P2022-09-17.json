@@ -1,0 +1,286 @@
+{
+ "sigla": "P2022-09-17",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 122.186 B · 92 linhas · 53 com fala · 20.789 palavras · 118.267 chars · cobertura 8/8 fatias provada (fatias 16.000 c) · maior linha 32.018 chars. Tese: a Hipóstase dos Arcontes (cópia do séc. III, encontrada em 1945 na biblioteca de Nag Hammadi — STT «Naghama», versão «Cópta») como exegese gnóstica dos seis primeiros capítulos do Gênesis, revelação recebida no séc. I/II pelo grupo de Maria Madalena — o «anjo» do livro é o próprio Sofia; os arcontes são os regentes de cada loca/gêno; Samael/Javé (soberano cego; Sacla o ignorante; Aldabaof o blasfemador; Sabaof/Sabaov Senhor das Forças) é o criador caído, parido pela nuvem como feto abortado, besta andrógina com sete filhos andrógenos, o «Eu é que sou Deus, não há outro além de mim»; a imagem refletida nas águas (que os arcontes se apaixonaram por apropriar e não puderam — só têm alma) somos nós, os humanos; a águia instrutora no lugar da cobra; a árvore do bem e do mal nunca foi uma árvore; a linhagem humana: Abel primogênito afeminado (Eva estuprada por arcontes com DNA de Javé), Noreia gerada «no lugar de Abel», o dilúvio decidido pelos regentes com Noé avisado por Javé, Pandora/Car Cadmon há 48.000 anos na fazenda de Epimeteu, os Anunax (Enenk, Ningizida=Tot; Igigi; monte Horb) e a disputa submissos × linhagem livre (~4.000 consciências livres; 99,99999% submissos; gregos/filósofos de Tales a Espinosa); rakchaças (Ravana) vs Indra/Zeus; e o desfecho: o espírito da verdade como quarto logos (verdade não codificável, ≠ espiritismo), Jesus o vivo (terceira face gnóstica cancelada pela Igreja com a versão de Paulo), Niceia 325 (o mito da Santíssima Trindade), Helena e Boécio (os resgates fracassados), a biologia do ponto fora da curva (ressonância límbica; gene Fox P2; 28.869 genes/900 proteicos; 15 tri + 85 tri células) e o sétimo céu (Maloca; Zou→Chiva/Shiva; oitavo céu = Bramaloca). Recolhe 25 formulações PRECISAS em 18 códigos (todos com ficha: RC-770, RC-482, RC-530, RC-474, RC-684, RC-579, RC-299, RC-562, RC-529, RC-273, RC-400, RC-092, RC-102, RC-286, RC-567, RC-488, RC-463, RC-582). NENHUM termo novo criado no garimpo: 7 candidatos declarados no BLOCO 2 com pedido de AUTORIZAÇÃO para a devolutiva (Maria Madalena; Zou; Jesus, o Vivo; Elelev/Eleleth; Pitágoras; Boécio; Nag Hammadi — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2). Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-09-17/original.txt",
+ "sha256": "0120f9df4de33430bc322b511eda5b25c7c99c812edf695125ca92bc93d4ab44",
+ "bytes": 122186,
+ "unidades_com_fala": 53,
+ "spans": [
+  {
+   "codigo": "RC-770",
+   "u": "U0004",
+   "chars": [
+    26894,
+    27141
+   ],
+   "largura": 247,
+   "verificada": true,
+   "texto": "A hipóstese dos arcontes ou a realidade dos regentes cósmicos é considerada por estudiosos uma exegese, ou seja, uma análise dos seis primeiros capítulos do livro do Gênesis, que expressam a mitologia gnóstica da criação do cosmos e da humanidade."
+  },
+  {
+   "codigo": "RC-770",
+   "u": "U0004",
+   "chars": [
+    21544,
+    21661
+   ],
+   "largura": 117,
+   "verificada": true,
+   "texto": "Só que esse anjo, assim chamado no livro, é o próprio Sofia, explicando a um dos membros do grupo toda essa história."
+  },
+  {
+   "codigo": "RC-770",
+   "u": "U0012",
+   "chars": [
+    43075,
+    43129
+   ],
+   "largura": 54,
+   "verificada": true,
+   "texto": "A imagem que apareceu nas águas somos nós, os humanos."
+  },
+  {
+   "codigo": "RC-770",
+   "u": "U0035",
+   "chars": [
+    70996,
+    71042
+   ],
+   "largura": 46,
+   "verificada": true,
+   "texto": "A árvore do bem e do mal nunca foi uma árvore."
+  },
+  {
+   "codigo": "RC-482",
+   "u": "U0004",
+   "chars": [
+    30529,
+    30713
+   ],
+   "largura": 184,
+   "verificada": true,
+   "texto": "É o soberano cego, que também é chamado de Sacla, o ignorante, também de Aldabaof, o blasfemador contra o divino, também de Sabaof, mas Mas esse é o mesmo ser conhecido como Javé Brab."
+  },
+  {
+   "codigo": "RC-482",
+   "u": "U0012",
+   "chars": [
+    36992,
+    37037
+   ],
+   "largura": 45,
+   "verificada": true,
+   "texto": "Eu é que sou Deus, não há outro além de mim"
+  },
+  {
+   "codigo": "RC-482",
+   "u": "U0046",
+   "chars": [
+    95332,
+    95494
+   ],
+   "largura": 162,
+   "verificada": true,
+   "texto": "E o que ela havia criado foi parido pela nuvem como um feto abortado, ou seja, o criador reconstruído, ou seja, Javé reconstruído, Samael reconstruído, é um feto."
+  },
+  {
+   "codigo": "RC-530",
+   "u": "U0009",
+   "chars": [
+    34314,
+    34424
+   ],
+   "largura": 110,
+   "verificada": true,
+   "texto": "Pistofia, que é o epíteto do ser criador, quando ele existia na sua condição anterior de divindade cocriadora."
+  },
+  {
+   "codigo": "RC-530",
+   "u": "U0009",
+   "chars": [
+    34631,
+    34680
+   ],
+   "largura": 49,
+   "verificada": true,
+   "texto": "Então, Sofia não é um nome próprio, é um epíteto."
+  },
+  {
+   "codigo": "RC-474",
+   "u": "U0004",
+   "chars": [
+    7272,
+    7702
+   ],
+   "largura": 430,
+   "verificada": true,
+   "texto": "Então, Sofia foi engendrado durante 1 2 bilhões de anos e ao longo dos últimos 6 bilhões de anos esse ser existe como Sofia, um ser desse nosso universo, seja biológico ou bio, alguma coisa, para, entre aspas, representar toda essa hierarquia que existia e existe no universo vizinho, composta por arcontes, é o nome grego que se dá, que são os regentes de cada loca, de cada ou de cada gêno em grego ou de cada loca em sânscrito."
+  },
+  {
+   "codigo": "RC-684",
+   "u": "U0045",
+   "chars": [
+    88362,
+    88445
+   ],
+   "largura": 83,
+   "verificada": true,
+   "texto": "Em algumas palestras eu tenho dito que quem nasceu primeiro não foi Caim, foi Abel."
+  },
+  {
+   "codigo": "RC-579",
+   "u": "U0045",
+   "chars": [
+    90404,
+    90499
+   ],
+   "largura": 95,
+   "verificada": true,
+   "texto": "Eu gerei um homem através de Deus no lugar de Abel"
+  },
+  {
+   "codigo": "RC-299",
+   "u": "U0035",
+   "chars": [
+    64604,
+    64853
+   ],
+   "largura": 249,
+   "verificada": true,
+   "texto": "000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0026",
+   "chars": [
+    56258,
+    56352
+   ],
+   "largura": 94,
+   "verificada": true,
+   "texto": "869 genes, os quais são os 900 produz proteína porque o resto tá desligado, funciona no outro."
+  },
+  {
+   "codigo": "RC-529",
+   "u": "U0041",
+   "chars": [
+    73184,
+    73333
+   ],
+   "largura": 149,
+   "verificada": true,
+   "texto": "Um Os temas mais importantes da humanidade, discretamente a ciência vem falando dele nos últimos tempos, que é algo que se chama ressonância límbica."
+  },
+  {
+   "codigo": "RC-273",
+   "u": "U0004",
+   "chars": [
+    23525,
+    23746
+   ],
+   "largura": 221,
+   "verificada": true,
+   "texto": "E Constantino se converteu ao cristianismo, mas Mas quando Constantino se converteu ao cristianismo, qual a primeira confusão que surgiu no Concílio de Niceia em 325, Constantino trouxe todos os bispos de igrejas cristãs."
+  },
+  {
+   "codigo": "RC-273",
+   "u": "U0004",
+   "chars": [
+    22765,
+    22845
+   ],
+   "largura": 80,
+   "verificada": true,
+   "texto": "As pessoas não sabem o que Helena, a mãe de Constantino, foi atrás em Jerusalém."
+  },
+  {
+   "codigo": "RC-400",
+   "u": "U0041",
+   "chars": [
+    73612,
+    73795
+   ],
+   "largura": 183,
+   "verificada": true,
+   "texto": "Pô, sobre o cérebro límbico mamífero, surgiu o cérebro primata e no topo do cérebro primata um córtex cerebral, no qual o gene Fox P2, que é o da linguagem, o da racionalidade surgiu."
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0046",
+   "chars": [
+    100836,
+    101037
+   ],
+   "largura": 201,
+   "verificada": true,
+   "texto": "\" Aí ele disse: \"Até o momento em que o humano verdadeiro dentro de uma forma modelada revele a existência do espírito da verdade, que é o ser a quem eu tenho chamado de quarto logos, que o pai enviou."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0046",
+   "chars": [
+    97461,
+    97627
+   ],
+   "largura": 166,
+   "verificada": true,
+   "texto": "E Sofia e Zou o ergueram e lhe deram o comando do sétimo céu, que é o Maloca, Sofia e Zou, estamos falando aqui de VNO e Shiva, para que ele pudesse regerno e o caos."
+  },
+  {
+   "codigo": "RC-286",
+   "u": "U0004",
+   "chars": [
+    31044,
+    31172
+   ],
+   "largura": 128,
+   "verificada": true,
+   "texto": "O terceiro personagem, uma águia que é instrutora, mentora, que aconselha os humanos a comer a tal maçã proibida pelos arcontes."
+  },
+  {
+   "codigo": "RC-567",
+   "u": "U0041",
+   "chars": [
+    78240,
+    78566
+   ],
+   "largura": 326,
+   "verificada": true,
+   "texto": "Como os sacerdotes astecas não sabiam em que época exatamente eles estavam vivendo, eles começaram a fazer sacrifício de seres humanos pros deuses retardarem o passar do tempo para os dias não chegarem tão rápido em termos da prceção ecial da Terra, que é um giro de 26.000 anos que, entre aspas, a Terra ao redor de si mesmo."
+  },
+  {
+   "codigo": "RC-488",
+   "u": "U0068",
+   "chars": [
+    111462,
+    111632
+   ],
+   "largura": 170,
+   "verificada": true,
+   "texto": "Os Anunax transaram com as mulheres, os Igis, que é um tipo de anunque, desceram no monte Horb e desobedecendo a lei de Enk, de Enlil, eles transaram com as humanas aqui."
+  },
+  {
+   "codigo": "RC-463",
+   "u": "U0056",
+   "chars": [
+    107474,
+    107564
+   ],
+   "largura": 90,
+   "verificada": true,
+   "texto": "Tô falando dos nefelin bíblicos na linguagem sumeriana ou os Anunax na linguagem acadiana."
+  },
+  {
+   "codigo": "RC-582",
+   "u": "U0041",
+   "chars": [
+    75968,
+    76085
+   ],
+   "largura": 117,
+   "verificada": true,
+   "texto": "\" E apareceu um chefe deles, dos rakchaças, um tal de Ravana, e o cara tem poder para a Zeus disse: \"Vou desafiá-lo\"."
+  }
+ ],
+ "recusa": []
+}
