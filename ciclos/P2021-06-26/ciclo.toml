@@ -1,0 +1,91 @@
+# ciclo.toml — ciclo leve P2021-06-26 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2021-06-26"
+titulo = "Shiva - A Reconstrução do Erro de Brahma e o Tikum"
+data_fonte = "26/06/2021"
+pasta_fonte = "ciclos/P2021-06-26"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2021-06-26.txt"
+sha256_fonte = "c77379a9ba0ac7fd7cb49a246eef0f6ad8e84304b95b617980dfad94b9f3cb5a"
+
+baseline_commit = "f93416f"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (106.740 B / 94 linhas / 62 com fala / 18.413 palavras / 103.103 chars; cobertura 7/7 fatias provada; maior linha ~23.344 chars). Tese: o erro de Brahma e o tikum — dois problemas originais da criação (o erro do ser caído lá fora da blindagem, Prabrajna, na espiritualidade laboratorial de Perpério, e os erros de Brama aqui dentro desde que se reconstruiu); as 10 eras da história do universo (solidão, gestação, punição, impasse, aceitação, semeadura universal, refino, divisão do comando com a chegada de Sofia, assunção do conectoma e supercivilizações — o livro Drama Terreno de Isabel), que correspondem às duas primeiras fases do trabalho de Chiva (ferição dos elementos comprometedores e destruição criativa) — a terceira, a reconstrução, ele não vai conseguir fazer: Chiva faliu (100 planos, nenhum sobrou; rede de +1000 avatares; Krishna como avatar; Sai Baba e os avatares humanos prisioneiros das castas), a Trimurti criou o ser de quatro cabeças e Morrensor (Phanes/Protogonos) reviveu-a usando Moros e Ananke; o quarto logos (não gerado por Om e Elm — patrocinado pela condição adi de Chiva) com a humanidade e a especiação; a biologia do ponto fora da curva: a Bemisia tabaci (a mosca branca que incorporou o gene vegetal há 35 milhões de anos) como metáfora do humano que domou o gene de Javé ('a gente manda em Jaavé'), o DNA 98,8% 'morto' e só 1,2% ativo, a criatura universal (CFDMO + DNA bio + DNA de Pandora + DNA de Chiva/Vishnu = a chave genética para desligar a criação), a entropia como energia tamásica de Chiva crescendo até 100%, o campo de higumig de Mavatma (a física da criação: quarks, bósons, força forte/fraca), e o problema pendente das castas (ou a Terra fica inviabilizada). Recolhe 25 formulações PRECISAS em 19 códigos (todos com ficha: RC-155, RC-514, RC-152, RC-037, RC-102, RC-104, RC-282, RC-042, RC-092, RC-783, RC-562, RC-001, RC-636, RC-160, RC-725, RC-481, RC-322, RC-009, RC-094). NENHUM termo novo criado no garimpo: 4 candidatos declarados no BLOCO 2 com AUTORIZAÇÃO da devolutiva de 01/09/2026 (Rara; Bemisia tabaci/mosca branca; Savant; Campo de Higgs — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2); yoga do sono e do sonho → absorção em RC-557 + RC-725 (sem código), conforme devolutiva. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["m****"]   # máscaras do próprio bruto: m**** ×5 — 5 ocorrências
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O erro de Brahma e o tikum: a criação tem dois problemas originais — o erro do ser caído lá fora (Prabrajna, o 'erro original de um ser chamado para Brag', fora da blindagem, que ficou na espiritualidade laboratorial de Perpério com o problema instalado nele) e os erros de Brama aqui dentro, que desde que se reconstruiu 'só fez coisas erradas'. Esses dois problemas são as duas causas de tudo. O tikum, o conceito que os cabalistas formularam nos séculos 2-4 d.C. (Keter engrandecido, o 'abismo de luz' como eufemismo — nenhum abismo tem luz), nunca foi entendido: 'o ticum é lá fora que tem que ser realizado', promovido pelas mentes que estão dentro. As 10 eras da história do universo (o livro Drama Terreno de Isabel): solidão, gestação, punição, impasse, aceitação, semeadura universal, refino da semeadura — 'nós estamos no final da sete' —, divisão do comando (com a chegada de Sofia), assunção do conectoma novo do criador falido e supercivilizações (quando surgirá a criatura universal capacitada a realizar o tikum, fechar o universo e recompor o ser lá fora da blindagem).",
+  "Chiva, seus avatares e o quarto logos: as sete primeiras eras correspondem às duas primeiras fases do trabalho de Chiva (a ferição dos elementos comprometedores e a destruição do que não prestava para dar espaço ao que presta) — a terceira, a reconstrução, ele não vai conseguir fazer: Chiva faliu ('ele fez 100 planos. Desses 100 não sobrou nenhum'), vai embora como Virgem se desintegrou e Brama implodiu; criou uma rede de mais de 1000 avatares (Krishna é um deles; os avatares humanos — Baba de Sirdi, Sai Baba, Sátia Sai, Prima Sai — conduzidos pelo espírito de Chiva com o temperamento e o código genético de Krishna; Sai Baba, o máximo avatar, permanece prisioneiro do apoio ao sistema de castas). A Trimurti falida criou um ser com quatro cabeças (uma livre e os três no mesmo corpo) e Morrensor, o funis protogonos, reviveu a Trimurte usando as relações de Moros e Ananke — mas não planejou a emergência da raça humana: o Nidana foi jogado de lá para cá e a raça humana emergiu dos elementos sem que ninguém soubesse como. O quarto logos não veio de um plano de Om e Elm: patrocinado pela condição adi de Chiva, 'é o quarto logos com a humanidade e a especiação que surgia a partir da humanidade' — a retaguarda (Krishna e os demais) administra a vinda de seres do universo vizinho e a turma humana livre trabalha a reconstrução do erro de Brahma em termos de DNA.",
+  "A biologia do ponto fora da curva: nós somos a Bemisia tabaci da história — a mosca branca incorporou um gene vegetal há 35 milhões de anos (o primeiro caso registrado de transferência de genes entre plantas e animais) e nós somos a primeira transferência de gene entre demos e uma outra espécie que funcionou: pegamos o gene de Javé, o domamos e 'hoje a gente manda em Jaavé' (o Deus amantíssimo não faz nada — 'ele tem que ter o agente. E o agente somos nós'). O DNA humano tem 98,8% 'morto' e só 1,2% ativo na última medição (varia: 3,5/4,2/2,5 — D-9 vs 2-3% do P2022-07-16; o objetivo é ficar 0,1), e 'esse DNA lixo não é lixo coisa alguma' — são as primeiras fórmulas de poder de Javé que terão que ser mexidas. A criatura universal é a equação CFDMO (código fonte definidor demo ancestral) + DNA bio + DNA humano com expressão de Pandora + DNA humano com expressão de Chiva/Vishnu = a chave genética para desligar a criação e reconstruir o DNA de Brama; quem vai fazer o tikum tem que ter esse código no genoma para atuar nele lá fora. A entropia é a energia tamásica de Chiva aplicada leve, crescendo até 100% ('quando ela chegar 100% você acaba tudo'); Mavatma, lá de fora e meio combalido, aplicou o campo de higumig que diminuiu a velocidade das partículas superluminais e a energia sátiva organizou os quarks (bósons gluon, prótons, nêutrons; força forte e força eletrofraca; o limite do nosso espaço-tempo é a velocidade da luz). E o problema pendente das castas é responsabilidade de Krishna e Chiva — 'ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal'.",
+]
+
+[definicoes]
+
+[observacoes]
+# DEVOLUTIVA DE 01/09/2026 (recebida antes do commit do garimpo): homologado o fechamento
+# do P2022-07-16 (873 termos · 1.857 relações · 580 arquivos · 579 ficha=True; RC-872/873
+# em fila aberta; espelhos regenerados). Autorizada a promoção para fila aberta (na
+# APLICAÇÃO) de: Rara; Bemisia tabaci/mosca branca; Savant (STT grafa «savã»/«Savães» —
+# termo canônico, evidência em U0093); Campo de Higgs (STT «campo de higumig»; amarrado
+# ao termo fonético; relacionado a RC-160/RC-106). YOGA DO SONO E DO SONHO: absorção em
+# RC-557 (Conectoma) + RC-725 (Ponto de Luz) — SEM código novo. Veto léxico `m****` ×5
+# homologado — não transita nem em glosa. Quarentenas (política/social, religião
+# institucional, biomediúnica/biográfica, clínica) homologadas — ver BLOCO 5 do pacote.
+
+[travas]
+# QUARENTENAS HOMOLOGADAS (devolutiva 01/09/2026): política/social; religião institucional;
+# biomediúnica/biográfica (nomes próprios, máscara m****); clínica (síndromes e o
+# "controle de qualidade" dos espíritos) — nada transita para ficha. VETO LÉXICO:
+# m**** ×5 (máscara única do bruto). RC-504/RC-153/RC-873/RC-063/RC-341 estão com
+# ficha=False — não recebem pérola neste ciclo (registros no BLOCO 2).
+
+[lacunas]
+# STT com trechos ilegíveis/truncados, mantidos como veio, sem emenda: «cerca de se
+# milhões» (a porrada em Brama — número truncado no bruto); «projetos por íveis»
+# (Morrensor); «pra brágne» (campo de higumig); «essa música branca» (prov. "mosca
+# branca"); «sermavatma» / «mente mavat» (prov. "ser Mavatma"); «benésia tabate» /
+# «benisia bate» (Bemisia tabaci); «higumig» (prov. "Higgs"); «Aopeia» (Epopeia);
+# «saibava» / «saibar» (Sai Baba); «senor» (senhor); «Brag» (Brahma); «Probrágina» /
+# «Probrágo» (Prabrajna); «morren» / «Morençou» / «Morensor» (Moros/Morrensor);
+# «Anque» (Ananke); «chiva de vigo» (prov. "Shiva/Vishnu"); «opia» (entropia — RC-160);
+# «arima» (prov. ahimsa); «Tokalking» / «Tolalking» (prov. Tzolkin); «talteca»
+# (tolteca); «samudria mantã» (Samudra Manthana); «bagavaguita» (Bhagavad Gita);
+# «Dustim Hoffman» / «Din Hoffman» (Dustin Hoffman); «Mike Pence» [REVISAR: Kim Peek?];
+# «os savais aveva» (grafia francesa do STT). Números: universo 13,8 bi; criador se
+# reconstruiu há 500 mi; Savna mergulha há 1,6 bi; devolução da porrada há 300 mi;
+# Mavatma há 4,1 bi; Trimurti há 4,3 bi; Morensor criado há 5,4 bi (Chiva apodreceu);
+# molécula mãe há 3,8 bi; 7ª era há 7,4 bi; universo vizinho morre em 50-100 bi;
+# Bemisia há 35 mi; humanos forçados a existir há 50.000 anos; yoga do sono há 17.000
+# anos; savant decorou 12.000 livros; problema percebido em 2005/6/7; DNA 98,8% morto /
+# 1,2% ativo (última medição; objetivo 0,1); 100 planos; +1000 avatares; 600 espécies de
+# plantas e 100 vírus (Bemisia); ser de 4 cabeças; 12 bi de clones robôs até hoje;
+# 168 pessoas na festa (quarentena); 507 casos UFO do Pentágono (140 sem explicação).

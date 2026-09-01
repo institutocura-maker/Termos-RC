@@ -1,0 +1,286 @@
+{
+ "sigla": "P2021-06-26",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT, não refatorada) lida na íntegra (106.740 B / 94 linhas / 62 com fala / 18.413 palavras / 103.103 chars; cobertura 7/7 fatias provada; maior linha ~23.344 chars). Tese: o erro de Brahma e o tikum — dois problemas originais da criação (o erro do ser caído lá fora da blindagem, Prabrajna, na espiritualidade laboratorial de Perpério, e os erros de Brama aqui dentro desde que se reconstruiu); as 10 eras da história do universo (solidão, gestação, punição, impasse, aceitação, semeadura universal, refino, divisão do comando com a chegada de Sofia, assunção do conectoma e supercivilizações — o livro Drama Terreno de Isabel), que correspondem às duas primeiras fases do trabalho de Chiva (ferição dos elementos comprometedores e destruição criativa) — a terceira, a reconstrução, ele não vai conseguir fazer: Chiva faliu (100 planos, nenhum sobrou; rede de +1000 avatares; Krishna como avatar; Sai Baba e os avatares humanos prisioneiros das castas), a Trimurti criou o ser de quatro cabeças e Morrensor (Phanes/Protogonos) reviveu-a usando Moros e Ananke; o quarto logos (não gerado por Om e Elm — patrocinado pela condição adi de Chiva) com a humanidade e a especiação; a biologia do ponto fora da curva: a Bemisia tabaci (a mosca branca que incorporou o gene vegetal há 35 milhões de anos) como metáfora do humano que domou o gene de Javé ('a gente manda em Jaavé'), o DNA 98,8% 'morto' e só 1,2% ativo, a criatura universal (CFDMO + DNA bio + DNA de Pandora + DNA de Chiva/Vishnu = a chave genética para desligar a criação), a entropia como energia tamásica de Chiva crescendo até 100%, o campo de higumig de Mavatma (a física da criação: quarks, bósons, força forte/fraca), e o problema pendente das castas (ou a Terra fica inviabilizada). Recolhe 25 formulações PRECISAS em 19 códigos (todos com ficha: RC-155, RC-514, RC-152, RC-037, RC-102, RC-104, RC-282, RC-042, RC-092, RC-783, RC-562, RC-001, RC-636, RC-160, RC-725, RC-481, RC-322, RC-009, RC-094). NENHUM termo novo criado no garimpo: 4 candidatos declarados no BLOCO 2 com AUTORIZAÇÃO da devolutiva de 01/09/2026 (Rara; Bemisia tabaci/mosca branca; Savant; Campo de Higgs — promoção para fila aberta na APLICAÇÃO, com spans no BLOCO 2); yoga do sono e do sonho → absorção em RC-557 + RC-725 (sem código), conforme devolutiva. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2021-06-26/original.txt",
+ "sha256": "c77379a9ba0ac7fd7cb49a246eef0f6ad8e84304b95b617980dfad94b9f3cb5a",
+ "bytes": 106740,
+ "unidades_com_fala": 62,
+ "spans": [
+  {
+   "codigo": "RC-155",
+   "u": "U0009",
+   "chars": [
+    19339,
+    19569
+   ],
+   "largura": 230,
+   "verificada": true,
+   "texto": "Depois que ele se reconstruiu, essa primeira eh era da que eu chamo era da solidão, a segunda era chama era da gestação, ele começou a gestar outros seres replicando o modelo de organização mental que ele usou para se reconstruir."
+  },
+  {
+   "codigo": "RC-155",
+   "u": "U0009",
+   "chars": [
+    23796,
+    23878
+   ],
+   "largura": 82,
+   "verificada": true,
+   "texto": "A oitava etapa eu chamo a era da divisão do comando, que é com a chegada de Sofia."
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0009",
+   "chars": [
+    16378,
+    16481
+   ],
+   "largura": 103,
+   "verificada": true,
+   "texto": "E essa coisa ficou até hoje ninguém sabe o que é isso, mas o ticum é lá fora que tem que ser realizado."
+  },
+  {
+   "codigo": "RC-514",
+   "u": "U0009",
+   "chars": [
+    16525,
+    16674
+   ],
+   "largura": 149,
+   "verificada": true,
+   "texto": "O Ticum ele é realizado lá fora, mas ele é promovido a promoção da sua realização pelas mentes que estão dentro da do abismo de DAF, o abismo de luz."
+  },
+  {
+   "codigo": "RC-152",
+   "u": "U0009",
+   "chars": [
+    12454,
+    12503
+   ],
+   "largura": 49,
+   "verificada": true,
+   "texto": "Um é o erro original de um ser chamado para Brag."
+  },
+  {
+   "codigo": "RC-037",
+   "u": "U0009",
+   "chars": [
+    12619,
+    12793
+   ],
+   "largura": 174,
+   "verificada": true,
+   "texto": "O segundo problema é que no que foi gerado e esse ser caiu, essa figura que se reconstruiu como brama, desde que ele existe como brama, ele só fez coisas erradas aqui dentro."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0012",
+   "chars": [
+    29479,
+    29568
+   ],
+   "largura": 89,
+   "verificada": true,
+   "texto": "Então, a primeira fase é a ferição dos elementos comprometedores que existiam na criação."
+  },
+  {
+   "codigo": "RC-102",
+   "u": "U0012",
+   "chars": [
+    30462,
+    30576
+   ],
+   "largura": 114,
+   "verificada": true,
+   "texto": "Do jeito que Virgem se desintegrou, do jeito que Brama implodu, Chiva vai embora junto comigo por questões outras."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0012",
+   "chars": [
+    42500,
+    42588
+   ],
+   "largura": 88,
+   "verificada": true,
+   "texto": "Mas como eles tinham medo de criar um ser livre, eles criaram um ser com quatro cabeças."
+  },
+  {
+   "codigo": "RC-282",
+   "u": "U0021",
+   "chars": [
+    66633,
+    66689
+   ],
+   "largura": 56,
+   "verificada": true,
+   "texto": "Não é que Morençou tenha planejado a futura raça humana."
+  },
+  {
+   "codigo": "RC-282",
+   "u": "U0021",
+   "chars": [
+    66750,
+    66798
+   ],
+   "largura": 48,
+   "verificada": true,
+   "texto": "Porém, ele usou as relações de Moros e de Anque."
+  },
+  {
+   "codigo": "RC-042",
+   "u": "U0021",
+   "chars": [
+    70974,
+    71399
+   ],
+   "largura": 425,
+   "verificada": true,
+   "texto": "Ou seja, a criatura universal que vai surgir lá na 10ª era ou na nona era ou já a partir da oitava era, que é a era da divisão do comando, após a vinda de Sofia e o comando fica todo a partir daqui, quando a turma mergulhar esse universo vizinho, pouco importa, mas a turma que vai fazer o ticum no final, o DNA dessas figuras que são serão produzidos a partir da especiação da espécie humana e de outras espécies também, tá?"
+  },
+  {
+   "codigo": "RC-042",
+   "u": "U0021",
+   "chars": [
+    72851,
+    72961
+   ],
+   "largura": 110,
+   "verificada": true,
+   "texto": "CFDMO com DNA bio mais o DNA humano com expressão de Pandora mais o DNA humano com expressão de chiva de vigo."
+  },
+  {
+   "codigo": "RC-092",
+   "u": "U0020",
+   "chars": [
+    57950,
+    58147
+   ],
+   "largura": 197,
+   "verificada": true,
+   "texto": "Então o quarto logos surgiu nessa história, não como um plano lá atrás gerado por Om e Elm, que foram os dois que vieram da condição de Tempérium para ajudar a turma de Perpério, vamos assim falar."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0021",
+   "chars": [
+    68980,
+    69019
+   ],
+   "largura": 39,
+   "verificada": true,
+   "texto": "Então nós somos um ponto fora da curva."
+  },
+  {
+   "codigo": "RC-783",
+   "u": "U0021",
+   "chars": [
+    74307,
+    74355
+   ],
+   "largura": 48,
+   "verificada": true,
+   "texto": "Nós humanos somos os benésia tabate da história."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0012",
+   "chars": [
+    26585,
+    26741
+   ],
+   "largura": 156,
+   "verificada": true,
+   "texto": "Um dia a gente entenderá que o nosso DNA tem 97, 91, aliás, a última edição feita, o nosso DNA tem 98 ponto oito de DNA, entre aspas, morto, e só 1.2 ativo."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0021",
+   "chars": [
+    77024,
+    77270
+   ],
+   "largura": 246,
+   "verificada": true,
+   "texto": "Nós, se a mosca branca foi a única espécie biológica a tirar das árvores um gene para ela, para poder comê-las ou tomar contas ou imperar sobre elas, nós somos a única espécie que pegamos o gênio de Jaavé, o domamos e hoje a gente manda em Jaavé."
+  },
+  {
+   "codigo": "RC-636",
+   "u": "U0012",
+   "chars": [
+    36282,
+    36476
+   ],
+   "largura": 194,
+   "verificada": true,
+   "texto": "Aí esse sermavatma aplicou um campo de força mental que hoje a gente chama como campo de higumig Foi o campo que pegou essas energias superluminaismente pra brágne e diminuiu a velocidade delas."
+  },
+  {
+   "codigo": "RC-160",
+   "u": "U0012",
+   "chars": [
+    37905,
+    37968
+   ],
+   "largura": 63,
+   "verificada": true,
+   "texto": "Quando ela chegar 100% você acaba tudo. Isso chama-se entropia."
+  },
+  {
+   "codigo": "RC-725",
+   "u": "U0012",
+   "chars": [
+    41731,
+    41901
+   ],
+   "largura": 170,
+   "verificada": true,
+   "texto": "É, nós temos uma consciência, segundo o budismo que transita, a gente vai ver isso amanhã, da consciência de vigília para consciência do sonho, paraa consciência do sono."
+  },
+  {
+   "codigo": "RC-481",
+   "u": "U0013",
+   "chars": [
+    46001,
+    46048
+   ],
+   "largura": 47,
+   "verificada": true,
+   "texto": "Baba de Sird, sai Baba, Sátia sai, o Prima sai."
+  },
+  {
+   "codigo": "RC-322",
+   "u": "U0021",
+   "chars": [
+    65643,
+    65908
+   ],
+   "largura": 265,
+   "verificada": true,
+   "texto": "Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0012",
+   "chars": [
+    34834,
+    34884
+   ],
+   "largura": 50,
+   "verificada": true,
+   "texto": "Sofia, José e Jesus são três faces desse espírito."
+  },
+  {
+   "codigo": "RC-094",
+   "u": "U0009",
+   "chars": [
+    14701,
+    14895
+   ],
+   "largura": 194,
+   "verificada": true,
+   "texto": "O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo."
+  }
+ ],
+ "recusa": []
+}
