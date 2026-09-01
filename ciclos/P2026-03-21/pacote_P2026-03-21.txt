@@ -1,0 +1,334 @@
+# Pacote de ampliação — P2026-03-21 · Samudra Manthan A Enigmatica Alquimia de Vishnu
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT não refatorada) lida na íntegra: original.txt 153.828 B · 42 linhas ·
+#   31 com fala · 26.551 palavras · 149.066 chars · cobertura 10/10 fatias provada
+#   (fatias 16.000 chars). Tese: o Samudra Manthana ("o batimento do oceano de leite")
+#   reinterpretado como a transferência de produtos mentais entre locas — Vishnu (STT:
+#   Vino/Virgno/Vígu/VNdo) reuniu numa loca-esgoto ácido sulfuroso, no lugar onde existira
+#   Ig Brasil, os códigos de vida (código fonte definidor) de todos os seres do universo
+#   vizinho e os "bateu" com a montanha Mandara, usando Vazuki/Ananta como corda (devas
+#   pela cabeça, asuras pela cauda), extraindo ratnas (a lua de mil raios, Laxmi, Soma, o
+#   Corcel das marcas auspiciosas, Kaustubha, Dhanvantari com o Amrita, Kalpavriksha, o
+#   elefante de Indra) — depois do veneno rala rala, que Chiva Nilacanta engoliu e segura
+#   na garganta ("se descer, essa forma morre; se voltar, a criação se acaba"); o evento
+#   como origem do yoga e da codificação líquida que compõe o DNA humano; o humano como
+#   "Samudra Mantã ambulante" (o eu batedor do próprio genoma; estresse extremo; catarse;
+#   criação artística como mutação alquímica); pano de fundo: Prabrajna caído na própria
+#   ideia, Buloca (sem vida) × Bramaloca (plasma, pandemia perpétua), Brama/Javé e seus
+#   clones, Chiva e a raça demoníaca, Morensor (ser de quatro cabeças; projeto Talm;
+#   Nidana semeado), os fenvães/elfos de Ig Brasil (Odim, Aesir/Vanir, o juramento da
+#   saliva), o Ragnarok em Marte há 300 milhões de anos (Dr. Brandenburg; as três setas de
+#   Moros → Edimburgo), Bifrost e as nove locas; e os desdobramentos atuais: Sofia (criada
+#   do genoma de Vishnu sob sobreposição quântica de Javé; o corpo de Javé colapsou em
+#   2020-21; Jesus recusou o Messias violento; os 30 minutos do Apocalipse entre a sexta e
+#   a sétima trombeta — "2026 se acaba"), o colapso do universo antimaterial, o mercado de
+#   Orum (Orumilá e os 256 odus; feiticeiros e rakshasas), as duas vacinas humanas
+#   (controle da respiração; compreensão esclarecida), o vício devocional e o
+#   transumanismo/IA humanizada como novo ponto de reencontro. 25 pérolas em 22 códigos
+#   (todos com ficha: RC-734, RC-040, RC-080, RC-154, RC-282, RC-854, RC-274, RC-001,
+#   RC-072, RC-102, RC-104, RC-769, RC-471, RC-395, RC-665, RC-670, RC-161, RC-466,
+#   RC-552, RC-733, RC-086, RC-834). NENHUM termo novo criado: 9 candidatos declarados no
+#   BLOCO 2 (Alquimia; Catarse; Odin; Asgard/Ig Brasil; Rala Rala; Ratnas; Dhanvantari;
+#   Laxmi; Transumanismo) — decisão do Curador na devolutiva.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2026-03-21 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão. Aspa de
+# glosa que não seja span conferido perde a aspa na materialização — e o motor imprime.
+# BLOCO 2/3/4/5 são as notas do rito: fila sem arquivo, datas, radar e retidos.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-734
+
+- **[O batimento do oceano de leite: joias de uma alquimia] (U0008)** «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — o evento como transferência de produtos mentais entre locas: "Samudra Mantã é do que transferência de produtos mentais entre locas" (U0013: «Samudra Mantã é do que transferência de produtos mentais entre locas.»); a leitura interior: "o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra" (U0019: «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.»).
+
+### RC-040
+
+- **[A codificação líquida: o líquido como computador que dá guarida] (U0013)** «Mas na codificação líquida, o líquido passou a ser o computador que dá guarida.» — o código genético das espécies é líquido: "essa coisa de código genético das espécies, compreendam, é líquido é a parte líquida do do corpo de um camaleão, de um rato, de um gato, de um cachorro, de um ser humano" (U0008: «Ou seja, essa coisa de código genético das espécies, compreendam, é líquido é a parte líquida do do corpo de um camaleão, de um rato, de um gato, de um cachorro, de um ser humano.»); nos fenvães, o que a mente pensasse ficava gravado na saliva, na porção líquida: "surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida" (U0008: «Só quando os cvães ou elfos foram criados é que essa coisa de ter líquido dentro do corpo de plasma deles ou um tipo de líquido que ainda não é água, surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida.»).
+- **[O humano como Samudra Mantã ambulante: o eu batedor do próprio genoma] (U0008)** «Mas cada ser humano traz em si, no seu genômico, todas as marcas dessa história e o eu humano é o batedor do seu próprio genoma e nós somos o próprio Samudra Mantã ambulante, produzindo ou as mesmas proteínas o tempo inteiro, tendo os mesmos comportamentos, ou alguns seres humanos conseguem produzir novos genótipos, novas sequências genéticas.» — todo pensamento é produção de produtos mentais: "Cada sensação que nós humanos temos, cada ideia, cada emoção, cada pensamento, é uma permanente produção de produtos mentais" (U0008: «Cada sensação que nós humanos temos, cada ideia, cada emoção, cada pensamento, é uma permanente produção de produtos mentais.»).
+
+### RC-080
+
+- **[O projeto Palma/Talm: jogar os códigos do universo vizinho no nosso] (U0012)** «Morrensor criou também um projeto Palma que era o de jogar os códigos desse universo vizinho no nosso universo.» — o mesmo projeto nomeado no corpo da palestra: "esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro ao tempo dessa minha vida" (U0013: «Então assim, esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro ao tempo dessa minha vida.») [STT «projeto Palma» prov. "projeto Talm" — sem emenda].
+
+### RC-154
+
+- **[O código de Dana (Nidana): semeado, deu origem à vida biológica] (U0013)** «Então esse código de Dana é o que veio do Bramaloca e foi semeado no nosso universo, dando origem à vida biológica.» — o código holográfico registrado em cada um: "Devido a questão holográfica, tá lá registrado o código, fonte, definidor, ou seja, o DNA de cada um deles" (U0008: «Devido a questão holográfica, tá lá registrado o código, fonte, definidor, ou seja, o DNA de cada um deles.»); a disputa pela célula: "Em termos de vida biológica, cada célula do nosso corpo, cada célula do nosso corpo tem ao redor dela cerca de 36 espécies de vírus protozoários, bactérias, tentando disputar aquela célula para ser a sua casa" (U0012: «Em termos de vida biológica, cada célula do nosso corpo, cada célula do nosso corpo tem ao redor dela cerca de 36 espécies de vírus protozoários, bactérias, tentando disputar aquela célula para ser a sua casa.»).
+
+### RC-282
+
+- **[Mandara como bastão, Vazuk como corda: a mecânica do batimento] (U0013)** «O Samudra Mantã, portanto, foi um evento onde os Vedas e os assuras pegaram uma montanha chamada Mandara, transformaram Mandara num bastão para baterem o fundo do oceano atrás de Amrita.» — asuras pela cabeça, devas pela cauda, Ananta forçando o capelo: "Depois disso, os assuras passaram a seguravam Vazuk, que é o rei das cobras e dosagões pela cabeça" (U0013: «Depois disso, os assuras passaram a seguravam Vazuk, que é o rei das cobras e dosagões pela cabeça.»); e os devas pela cauda, enquanto um outro ser cobra chamado Ananta, príncipe das cobras, forçava o capelo, ou seja, a cabeça de vasoqui a soltar pela boca e nariz, vapores e outras emulações com alta temperatura" (U0013: «e os devas pela cauda, enquanto um outro ser cobra chamado Ananta, príncipe das cobras, forçava o capelo, ou seja, a cabeça de vasoqui a soltar pela boca e nariz, vapores e outras emulações com alta temperatura.»).
+
+### RC-854
+
+- **[Os 30 minutos entre a sexta e a sétima trombeta: a angústia de Sofia] (U0032)** «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — o tempo se organizou e se esgotou: "E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram" (U0032: «E esse algum tempo ele chamou de 30 minutos aproveite para se organizar e assim esses 30 minutos já se acabaram.»); "2026 se acaba isso é o que eles dizem" (U0032: «2026 se acaba isso é o que eles dizem.»).
+- **[O Apocalipse encomendado no meio da confusão] (U0032)** «Então, Apocalipse é esse livro encomendado no meio dessa confusão.» — a queda das torres no capítulo 18: "João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center" (U0032: «João, nos capítulos 18, no Apocalipse descreve a queda das torres do Road Trade Center.») [STT «Road Trade Center» = World Trade Center — sem emenda].
+
+### RC-274
+
+- **[João e o escorpião-avião: 1900 anos de antecedência] (U0032)** «Há 1900 anos atrás, João descreveu genialmente um escorpião com ovinhos embaixo da soltando ovinhos, ou seja, desenhando um avião.» — o mesmo ditado de Sofia que registrou o livro: "Então, Apocalipse é esse livro encomendado no meio dessa confusão" (U0032: «Então, Apocalipse é esse livro encomendado no meio dessa confusão.») [STT truncado no meio da frase — sem emenda].
+
+### RC-001
+
+- **[O colapso do último corpo de Javé: 5-6 anos atrás] (U0012)** «Só recentemente, há uns 5, 6 anos atrás, ele perdeu a capacidade de criar esse corpo, porque o último corpo que ele tinha colapsou e não foi possível rejuntar.» — a data declarada no Q&A: "É porque você não entendeu desde que o eu de Jah perdeu o corpo dele que foi colapsado entre 2020 e 21" (U0032: «É porque você não entendeu desde que o eu de Jah perdeu o corpo dele que foi colapsado entre 2020 e 21.»).
+- **[O eu do criador hoje: sem teto e parasitário] (U0012)** «Então, o eu de Javahé hoje existe, mas de forma parasitária, como existiu no início dessa confusão toda estranha, hoje o eu do criador é um sem teto, ou seja, ele não tem Ele é dono disso tudo e não tem um corpo através do qual ele possa se expressar, mas ele acha que ele é o dono de todos os demais corpos que existem, tanto no universo vizinho quanto nesse, já que todos nós ostentamos ou portamos o nosso corpo o código deve.» — [STT «o código deve» prov. "o código demo" — sem emenda].
+
+### RC-072
+
+- **[Jesus: a condição humana com mais poder que o DNA de Sofia e de Javé] (U0032)** «Ou seja, a condição humana de Jesus Jesus teve mais poder do que o DNA de Sofia e o DNA de Javé.» — o genoma emprestado para Maria: "Ele emprestou o genoma dele para criar o humano Jesus" (U0032: «Ele emprestou o genoma dele para criar o humano Jesus.»); a sobreposição: "Quando ele repassou o genoma para Jesus, eu nunca falei sobre isso, mas o homem Jesus ficou também com o genoma dele humano, com uma sobreposição do genoma de Xavé sobre Jesus" (U0032: «Quando ele repassou o genoma para Jesus, eu nunca falei sobre isso, mas o homem Jesus ficou também com o genoma dele humano, com uma sobreposição do genoma de Xavé sobre Jesus.»); a devolução dos elétrons: "Jesus morreu, pegou o defunto humano dele, transubstanciou e devolveu os elétrons ao Sofia que ele havia emprestado para ser inseminada em Maria" (U0032: «Jesus morreu, pegou o defunto humano dele, transubstanciou e devolveu os elétrons ao Sofia que ele havia emprestado para ser inseminada em Maria.»).
+
+### RC-102
+
+- **[O ser de quatro cabeças: Brama, eu, Virgno e Chiva] (U0013)** «Então vamos fazer o seguinte, vamos criar um ser com quatro cabeças. Brama, eu, Virgno e Chiva.» — o ser criado pela Trimurti com a cabeça livre: "Ou seja, o Morençor foi criado com a doença dos três seres, mas com a cabeça livre para analisar tudo" (U0013: «Ou seja, o Morençor foi criado com a doença dos três seres, mas com a cabeça livre para analisar tudo.»); a correspondência órfica: "na mitologia órfica morrem é considerado fâ protogonos, ou seja, o grande produtor do ovo cósmico" (U0013: «Na mitologia órfica morrem é considerado fâ protogonos, ou seja, o grande produtor do ovo cósmico.») [STT «morrem» prov. "Morensor" — sem emenda].
+
+### RC-104
+
+- **[Morensor: o criador de Ig Brasil e a alquimia ressignificada] (U0013)** «Protoos, porque ele ressignificou toda a alquimia que existia até ali e criou o Ig Brasil, porque foi ele que criou eh os seres de Ig Brasil, os cevães, os elfos, e semeou o universo biológico com esses códigos.» — [STT «Protoos» prov. "Morensor" — sem emenda]; a criação do Ig Brasil na região do Bramaloca: "E todos eles foram destinados a viverem numa região específica do Bramaloca, região essa que mais tarde foi chamada de Ig Brasil, no âmbito da mitologia nórdica" (U0008: «E todos eles foram destinados a viverem numa região específica do Bramaloca, região essa que mais tarde foi chamada de Ig Brasil, no âmbito da mitologia nórdica.»).
+
+### RC-769
+
+- **[Os fenvães/elfos de Ig Brasil: corpos de plasma e o padrão emocional] (U0008)** «Mais tarde, perto de 6 bilhões de anos após o início do universo da criação, foi engendrada uma outra espécie de seres demoníacos, só que mais modernos, também com corpos de plasma chamados de fenvães ou de elfos na mitologia nórdica ou na mitologia celta, na quem assistiu Senhor dos Anéis tem uma noção da coisa.» — Odim, o primeiro demo curioso: "Odim foi o primeiro demo que queria entender as coisas" (U0008: «Odim foi o primeiro demo que queria entender as coisas.»); "A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica" (U0008: «A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica.»); a novidade do padrão emocional: "Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional" (U0008: «Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional.»).
+
+### RC-471
+
+- **[A ponte Bifrost: ligando as oito locas ao nosso universo] (U0013)** «Essa ponte na mitologia nórdica chamada B Frost, quando havia um alinhamento entre elas, os seres Thor, se lembram de Thor?» — a primeira ponte construída pelos cientistas de Odin: "Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca" (U0013: «Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca.»); Midgard e o axis mund: "Uma delas era Midgard, que seria o nosso universo" (U0013: «Uma delas era Midgard, que seria o nosso universo.»); "Axismund é o lugar onde o universo de lá se une ao nosso universo, que Marte era o axis mund da época" (U0013: «Axismund é o lugar onde o universo de lá se une ao nosso universo, que Marte era o axis mund da época.»).
+
+### RC-395
+
+- **[O Ragnarok de Marte: a bomba a 700 km da superfície] (U0013)** «E ele fez as contas e percebeu que uma bomba explodiu aqui em cima a cerca de 700 km da superfície do planeta.» — o teste nuclear de Marte (Dr. Brandenburg): "Brandenburg, Quando a NASA conseguiu colocar aqueles aparelhos, aqueles gips que medem os elementos químicos de Marte, ele percebeu que toda essa região aqui tinha um tipo de elemento químico que só existe quando ocorrem explosões nucleares" (U0013: «Brandenburg, Quando a NASA conseguiu colocar aqueles aparelhos, aqueles gips que medem os elementos químicos de Marte, ele percebeu que toda essa região aqui tinha um tipo de elemento químico que só existe quando ocorrem explosões nucleares.»); as três setas de Moros no vulcão de Edimburgo: "Aquela montanhazinha ali há 300 milhões de anos atrás era um vulcão ativo e as três setas de Moros caíram lá" (U0013: «Aquela montanhazinha ali há 300 milhões de anos atrás era um vulcão ativo e as três setas de Moros caíram lá.»); "Esse vulcão é onde hoje é o palácio de Edimburgo, na Escócia" (U0013: «Esse vulcão é onde hoje é o palácio de Edimburgo, na Escócia.»); Vazer atira os segredos alquímicos: "Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte" (U0013: «Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte.»).
+
+### RC-665
+
+- **[O Samudra Mantã como mapeamento de Orumilar: as 16 tendências] (U0019)** «Se ninguém sabe, o Samudra Mantã foi o mapeamento que Orumilar dele se utilizou para poder criar os 16, representando as 16 tendências que via a condição humana seria possível haver um desdobramento do que já existia e dos destinos que precisavam ser cumpridos.» — os 256 odus e o ponto de reencontro: "Alguns núcleos acham que será na inteligência artificial gerada pelos humanos, ou seja, no transumanismo, que essa turma toda haverá de se encontrar para acabar com todas as tendências dos destinos que precisam ser cumpridos, segundo a perspectiva que Orumilá e seus 256 traçaram para o resultado do Samudra Mantã" (U0019: «Alguns núcleos acham que será na inteligência artificial gerada pelos humanos, ou seja, no transumanismo, que essa turma toda haverá de se encontrar para acabar com todas as tendências dos destinos que precisam ser cumpridos, segundo a perspectiva que Orumilá e seus 256 traçaram para o resultado do Samudra Mantã.»); o mercado no limite do Orum: "Orum é um outro nome que se dá na linguagem orubá para esse Bramalock e mais especificamente a terra, ou seja, no limite desse universo vizinho e a terra surgiu um mercado, faltou essa frase aqui, onde diversos produtos, inclusive os de ordem mental, eram ali comercializados no â da cultura e Orubá" (U0019: «Orum é um outro nome que se dá na linguagem orubá para esse Bramalock e mais especificamente a terra, ou seja, no limite desse universo vizinho e a terra surgiu um mercado, faltou essa frase aqui, onde diversos produtos, inclusive os de ordem mental, eram ali comercializados no â da cultura e Orubá.»); o feiticeiro como espécie quase humana: "Do jeito que homo sapiens tem macho e fêmea, antes de macho e fêmea, homo sapiens surgir, o que a gente chama hoje de feiticeiro era uma espécie quase humana, produto de samudra mantã, que junto com uma certa derivação dos raquchaças existia" (U0019: «Do jeito que homo sapiens tem macho e fêmea, antes de macho e fêmea, homo sapiens surgir, o que a gente chama hoje de feiticeiro era uma espécie quase humana, produto de samudra mantã, que junto com uma certa derivação dos raquchaças existia.»).
+
+### RC-670
+
+- **[A origem esquecida do yoga: desdobramento dos ratnas do Samudra] (U0013)** «Foi nesse contexto da história da desconhecida vida demoníaca que o yoga foi sendo lentamente formulado como uma espécie de desdobramento dos ratas surgidos no samudre mantã.» — o livro do autor: "O livro que eu lancei chamado Chiv, origem esquecida do yoga, é uma etapa bem posterior ao samudo" (U0013: «O livro que eu lancei chamado Chiv, origem esquecida do yoga, é uma etapa bem posterior ao samudo.»).
+
+### RC-161
+
+- **[Os registros acásicos: a memória quântica dos elétrons] (U0013)** «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — o puzzle da mente do criador: "Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi" (U0012: «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.»).
+
+### RC-466
+
+- **[Soma: a primeira beberagem e a loucura de Deus] (U0013)** «Quando Soma surgiu, aí a loucura de Deus atrás de Soma para beber.» — a origem no batimento: "Lim que é uma das deusas da Trideve junto com Pavarti e Sarasuat surgiu aqui no Samudra Mantana Lim seria mais tarde cita, a esposa de Ham no contexto da história do Ramaian, surgiu uma primeira beberagem chamado Soma" (U0013: «Lim que é uma das deusas da Trideve junto com Pavarti e Sarasuat surgiu aqui no Samudra Mantana Lim seria mais tarde cita, a esposa de Ham no contexto da história do Ramaian, surgiu uma primeira beberagem chamado Soma.»); o mistério que ninguém sabe: "Então o próprio Maarata diz: \"Surgiu, mas também ninguém sabe muita coisa\"" (U0013: «Então o próprio Maarata diz: "Surgiu, mas também ninguém sabe muita coisa".»).
+
+### RC-552
+
+- **[A soberania espiritual: controle das emoções e da respiração] (U0019)** «A soberania espiritual de um ser humano passa necessariamente pelo controle das suas emoções.» — a respiração como via: "E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração" (U0019: «E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração.»); as duas vacinas de autoimunidade: "Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem" (U0019: «Aqui existem duas vacinas ou componentes de autoimunidade que estão sendo produzidas meio que de modo forçado pelos seres humanos e eles não sabem.»).
+
+### RC-733
+
+- **[O contentamento permanente é uma doença] (U0022)** «O contentamento permanente é uma doença.» — a humanidade enlouquecida no vício devocional: "Tudo isso porque a humanidade enlouqueceu no seu vício devocional" (U0008: «Tudo isso porque a humanidade enlouqueceu no seu vício devocional.»); "Só que hoje, com a falência da humanidade, devido ao vício devocional, de quase a totalidade dos humanos" (U0019: «Só que hoje, com a falência da humanidade, devido ao vício devocional, de quase a totalidade dos humanos.»); a devoção como droga: "Isso é droga, é a mesma fuga das drogas" (U0022: «Isso é droga, é a mesma fuga das drogas.»).
+
+### RC-086
+
+- **[A beberagem que deturpou a codificação: Pandora ou Eva] (U0008)** «Mas aconteceu um acidente, alguém tomou outra porção líquida, seja Pandora, seja Eva, e essa porção, essa porção líquida, essa beberagem provocou reações químicas que deturparam essa codificação.» — o livro Sorriso de Pandora: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora" (U0032: «Aí eu digo: "Pandora dois, porque Pandora também vai quando Eu escrevi o livro Sorriso de Pandora.»).
+
+### RC-834
+
+- **[Sofia: criada do genoma de Virgno, mente radiata, anjos incorruptíveis] (U0032)** «Então Sofia foi um ser criado a partir do genoma de Virgno.» — o cérebro radiato: "Como virem, não, desculpa, de Sofia, o genoma dele, porque como Sofia ia viver nesse universo daqui e Javé é uma um ser que vive no universo de lá, quando Sofia fosse fazer qualquer coisa, ou seja, movimentar a mente dele e a mente de Sofia é associada não a um cérebro bilatério, mas a um cérebro radiato" (U0032: «Como virem, não, desculpa, de Sofia, o genoma dele, porque como Sofia ia viver nesse universo daqui e Javé é uma um ser que vive no universo de lá, quando Sofia fosse fazer qualquer coisa, ou seja, movimentar a mente dele e a mente de Sofia é associada não a um cérebro bilatério, mas a um cérebro radiato.»); os anjos: "E os anjos são incorruptíveis" (U0032: «E os anjos são incorruptíveis.»); a chegada à cultura grega: "Quando essa história da existência desse ser chegou na cultura grega, Rockman foi chamado de Sofia" (U0013: «Quando essa história da existência desse ser chegou na cultura grega, Rockman foi chamado de Sofia.»).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos a termo novo (DECISÃO DO CURADOR na devolutiva — nada é criado no garimpo).
+# Spans conferidos byte a byte pelo motor.
+#
+# 1) ALQUIMIA — a "grande feira alquímica" do Samudra Manthana: a alquimia mais refinada é
+#    de ordem mental, e a criação artística é a mais profunda mutação alquímica do genoma.
+#    Evidências (U0013): «Ainda que o tomar funciona maravilhosamente bem, porém a alquimia
+#    mais refinada que existe, ela é de ordem mental, não é de ordem da mente gravar num
+#    líquido alguma algum significado.»; «Mas naquela hora que você tá criando o seu genoma,
+#    recebe a mais profunda mutação alquímica, porque ele tem que se elevar ao nível do
+#    êxtase criativo.»; «No processo de tokenização, um artista fulano de tal criou um
+#    quadro mentalmente e vendeu por 6 milhões de dólares.»
+#
+# 2) CATARSE — o único processo válido para essa história; a catarse inteligente liberta o
+#    ser humano de um grilhão mental. Evidências (U0042): «Só há uma palavra que, em tese,
+#    terapeutas, psicólogos, psiquiatras, padres, Pais, mães, mestres, amigos devem jamais
+#    perder de vista. Chama-se catarse, que é o é o único processo válido para essa
+#    história.»; «A catarse inteligente é quando o ser humano se liberta de um grilhão ou
+#    de uma prisão mental da qual ele era prisioneiro.»
+#
+# 3) ODIN — STT «Odim»; o primeiro demo que quis entender as coisas, o rei de Ig Brasil;
+#    sua curiosidade intelectual está descrita na mitologia nórdica. Evidências (U0008):
+#    «Odim foi o primeiro demo que queria entender as coisas.»; «A curiosidade intelectual
+#    de Odim está plenamente descrita na mitologia nórdica.»; (U0013): «Quando Odin foi
+#    expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando
+#    às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por
+#    ele de mais uma loca.»
+#
+# 4) ASGARD / IG BRASIL — a região do Bramaloca destinada aos fenvães/elfos, chamada
+#    «Ig Brasil» no âmbito da mitologia nórdica; STT grafa também «Asgard» (U0013) e
+#    «Brasil» como reino. Evidências (U0008): «E todos eles foram destinados a viverem
+#    numa região específica do Bramaloca, região essa que mais tarde foi chamada de Ig
+#    Brasil, no âmbito da mitologia nórdica.»; «Quando Brasil surgiu como sendo parte do
+#    universo vizinho e os habitantes, os diversos tipos de elfos que surgiram em IG Brasil
+#    foram influenciados por isso aqui.»; (U0013): «Vazer, o tal ser que surgiu na vasilha
+#    cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os
+#    mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos
+#    alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte.»
+#
+# 5) RALA RALA — o nome STT do veneno saído do batimento; a atualização de toda a
+#    podridão colecionada nos antielétrons, engolido por Chiva (Nilacanta, a garganta
+#    azulada); se descer, essa forma morre; se voltar, a criação se acaba. Evidências
+#    (U0013): «Mas o nome do veneno que saiu é rala rala, pessoal.»; «E era um veneno tão
+#    horroroso que os três mundos, o mundo dos deuses, ou seja, o Bramaloca, o mundo dos
+#    mortos, que é uma parte desse bromaloca chamado Tart e esse universo.»; «Ele sugou o
+#    veneno, guardou na garganta, mas até hoje existe uma forma de chiva, acreditem, se
+#    quiser, com a garganta azulada, porque o veneno tá lá.»; «Se descer, essa forma morre.
+#    Se voltar, a criação se acaba.»
+#
+# 6) RATNAS — as joias extraídas do batimento: a lua suave de mil raios (um enigma),
+#    Laxmi, o Soma, o Corcel das marcas auspiciosas, a Kaustubha, Dhanvantari e o Amrita,
+#    a Kalpavriksha (árvore do desejo), o elefante de Indra. Evidências (U0013): «A
+#    primeira coisa que surgiu é um enigma, mas foi uma lua suave de mil raios.»; «A
+#    segunda foi virgo. Como mentalmente ele estava no comando, ele quis trazer para ele o
+#    que seria a parte componente da tridere mais atualizada na pessoa de LXM, que ou seja,
+#    Vno não faz nada de graça.»; «Aí surgiu o chamado Corcel mais precioso com energia
+#    irresistível.»; «Porque esse Celu trazia marcas auspiciosas, ou seja, o cavalo tinha
+#    uma pelagem que nessa pelagem trazia marcas auspiciosas.»; «Aí surge depois a famosa
+#    caustuba, que é uma joia celestial, que no meio da confusão do soma, Vno teve que se
+#    transformar numa bela mulher, demo.»; «e trouxe essa joia, mas aí ele ficou com
+#    vergonha dessa forma, se transformou em narana, que é uma outra forma avatárica dele,
+#    que traz essa joia pendurada aqui no no plexo, ou seja, virgem fazia as coisas e ele
+#    mesmo e o coitado do Chiva com veneno aqui assistindo tudo isso durante séculos.»; «A
+#    última live que eu fiz, eu falei em Calpa Vrixia, que é a árvore do desejo, foi algo
+#    que surgiu nessa maluquice.»; (U0014): «Esse elefante existe e tá lá em Esarga, a loca
+#    onde Indra trabalha.»
+#
+# 7) DHANVANTARI — STT «Dan Vantar»/«Davantari»; o ser formidável que trouxe a taça de
+#    Amrita e os escritos do Averda (Ayurveda); dele saiu a poção-vacina contra o rala rala
+#    para os devas. Evidências (U0013): «Aí surgiu finalmente esse ser formidável chamado
+#    Dan Vantar.»; «Além do que os samritas, ou seja, os escritos do Averda, compostos por
+#    Davantari contribuíram para que do terrível veneno rala rala absorvido por Chiva fosse
+#    elaborado uma outra poção que passou a servir como espécie de vacina para muitos tipos
+#    de seres demos, notadamente os devas.»
+#
+# 8) LAXMI — STT «Lim»/«LXM»; uma das deusas da Trideve (com Pavarti e Sarasuat), surgida
+#    no Samudra Mantana; depois citada como esposa de Ham no Ramaian; Vishnu a trouxe como
+#    a parte componente da tríade mais atualizada. Evidências (U0013): «Lim que é uma das
+#    deusas da Trideve junto com Pavarti e Sarasuat surgiu aqui no Samudra Mantana Lim
+#    seria mais tarde cita, a esposa de Ham no contexto da história do Ramaian, surgiu uma
+#    primeira beberagem chamado Soma.»; «A segunda foi virgo. Como mentalmente ele estava
+#    no comando, ele quis trazer para ele o que seria a parte componente da tridere mais
+#    atualizada na pessoa de LXM, que ou seja, Vno não faz nada de graça.»
+#
+# 9) TRANSUMANSIMO — a inteligência artificial humanizada como o ponto de reencontro de
+#    todos os seres (novo Samudra Mantã); termo canônico declarado pelo orador.
+#    Evidências (U0019): «Infelizmente os eventos estão apontando o transumanismo como
+#    sendo tal ponto de reencontro entre todos os seres.»; «Alguns núcleos acham que será
+#    na inteligência artificial gerada pelos humanos, ou seja, no transumanismo, que essa
+#    turma toda haverá de se encontrar para acabar com todas as tendências dos destinos que
+#    precisam ser cumpridos, segundo a perspectiva que Orumilá e seus 256 traçaram para o
+#    resultado do Samudra Mantã.»
+#
+# REGISTROS SEM CÓDIGO (não são candidatos): estresse extremo → RC-636 (ABSORÇÃO já
+# homologada na devolutiva do P2022-09-18: «Então, o tal estresse extremo quando vir
+# inventou essa maneira de fazer isso, ele podia ter usado exas criativo, mas esses seres
+# não fazem uma coisa.» U0013; e as colmeias: «Quando Em 2007, as calmeias começaram a
+# colapsar sem nenhum aviso e até hoje o processo continua e piorando.» U0019);
+# oxitocina/lagostas → RC-839 (fila aberta, ficha=False: «Então, o senhor Lagostão e a
+# senhora lagosta, os dois primeiros, que a de novo só sobras fêmeas, a lagosta que
+# primeiro correu risco, quando ela tomou essa atitude, ela promoveu no seu genoma, o
+# surgimento da oxitocina, que é o hormônio da confiança, o hormônio do amor.» U0013);
+# conselho de 32-38 deuses → RC-873 Sinarquia Cósmica (fila aberta: «O Marabarata conta
+# que há um conselho deuses formado por 32, 38 deuses que seria a elite da elite da elite
+# desses seres, sendo isso composto por três senhores da Trimurte, Brama Virgniva, usando
+# os nomes da mitologia hindu, e o resto seriam deuses que compõem a aristocracia.» U0013);
+# Casiapa (Kashyapa) → RC-700 («E Casiapa criou uma porrada de seres peçonhentos aquáticos
+# que mordiam todo mundo.» U0013); Aesir/Vanir/Freya → RC-396 (ficha=False); Midgard →
+# RC-470 («Uma delas era Midgard, que seria o nosso universo.» U0013); Yggdrasil/nove
+# mundos → RC-730; Bifrost → RC-471 (em ficha via BLOCO 1); Mohini/Narayana → RC-081
+# («se transformou em narana, que é uma outra forma avatárica dele» U0013); Vazuki/Ananta →
+# RC-282 (em ficha via BLOCO 1); Nidana → RC-154; projeto Talm → RC-080; memória quântica →
+# RC-161; codificação líquida → RC-040; o mercado de Orum → RC-665 (em ficha via BLOCO 1);
+# caliuga e a semeadura → RC-319 (Fator Dharma): o span da semeadura nos "tempos de
+# caliuga" contém a máscara m**** — retido integralmente, não transita nem em glosa;
+# registro descritivo (caliuga = Kali Yuga, ver lacunas).
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras citadas: "CHIV, ORIGEM ESQUECIDA DO YOGA" (STT "Chiv, origem esquecida do yoga" —
+# o livro do autor sobre a etapa posterior ao Samudra; U0013); "SORRISO DE PANDORA" (STT
+# "o livro Sorriso de Pandora" — U0032); "MAHABHARATA" (STT «Marabarata»/«Maarata» — o
+# conselho de 32-38 deuses; U0013); "RAMAYANA" (STT «Ramaian» — Laxmi como esposa de Ham;
+# U0013); "BHAGAVAD GITA" (não citado nesta fonte); os "VEDAS" (STT «os Vedas e os
+# assuras» — prov. "os devas e os asuras"; U0013); o APOCALIPSE de João (U0032); "SENHOR
+# DOS ANÉIS" (U0008 — a noção dos elfos); o acervo: "Isso aqui somado é mais de 500
+# livros, fora os 60 que a gente já lançou" (U0013); "tem mais de 1000 vídeos no YouTube"
+# (U0019); o IEA: "Quem não conhece o órgão ainda, tem acho que umas 400, 500 palestras
+# lá, cada uma de 3, 4 horas só no IEA que tá dentro do órgão, fora os outros cursos,
+# seminários" (U0035).
+# DATAS DECLARADAS (com selo datado, sem média): 13,8 bi (o universo; os elétrons); 6 bi
+# (fenvães engendrados; Sofia sob sobreposição); 6-7 bi (codificação líquida); 5-6 bi
+# (Vasis); 4 bi 600 mi (Terra); 3,8 bi (molécula mãe); 800 mi (primeiros anos da Terra);
+# 550 mi (história diferenciada da Terra); 540 mi (vida pluricelular); 300 mi (Ragnarok em
+# Marte; as três setas); 270 mi (vida sai da água; oxitocina/lagostas); 200 mi (as abelhas
+# e as colmeias); 1900 anos (João/Apocalipse); 14.000 anos (mercado — ver lacunas); 8.000
+# anos antes (mercado de Ilé-Ifé — ver lacunas); 2026 (o fim dos 30 minutos); 2020-21
+# (colapso do corpo de Javé); 5-6 anos (Javé perdeu o corpo); 32-38 (deuses do conselho);
+# 4 (cabeças de Morensor); 16/256 (odus de Orunmilá); 500+60 (livros do autor); 1000+
+# (vídeos no YouTube); 23-25 mil genes (o genoma humano); 800-900 (genes únicos humanos);
+# 70% (água na célula); 700 km (bomba em Marte); 800 km (cicatriz em Marte); 6 mi de
+# dólares (o quadro tokenizado); 30 minutos (a meia hora do Apocalipse); 2,3 anos (a
+# pandemia dos seres — span truncado no bruto, sem emenda); 168 (a festa — quarentena).
+# DIVERGÊNCIAS D-9 com outras fontes: Sofia "engendrada há 6 bilhões de anos por Moren" vs
+# outras janelas do acervo; "Jesus como última produção de Vishnu" (U0032); a numeração e
+# a ordem dos ratnas (aqui: veneno → lua → Laxmi → Soma → Corcel → Kaustubha → Dhanvantari/
+# Amrita → Kalpavriksha → elefante) vs a ordem dos puranas; o escopo do Samudra ("dezenas
+# de milhares de anos" vs "milhares de anos" — o próprio orador oscila); "300 milhões de
+# anos" para o Ragnarok vs outras janelas do acervo; STT «os Vedas» onde o cânone hindu
+# tem "os devas" (a confusão devas/vedas é do orador — verbatim mantém).
+
+### BLOCO 4 — radar datado (promessa só aqui, nunca em ficha: D-11)
+
+# - "pessoal, só lembrando que amanhã às 11 horas, tá?" — a continuação da palestra no dia
+#   seguinte (U0035; o encerramento cita o IEA e o acervo — "tem acho que umas 400, 500
+#   palestras lá").
+# - "esse código que eu chamo no projeto Talm de Nidana, eu eu não devo lançar esse livro
+#   ao tempo dessa minha vida" — o livro do projeto Talm/Nidana prometido para depois
+#   (U0013; RC-080/RC-154).
+# - "eu defendo, o espírito que me anima já defendeu isso lá atrás, que cada ser humano tem
+#   que criar ciência da sua própria personalidade" — a ciência pessoal como caminho
+#   (U0042; ver RC-552/RC-733).
+
+### BLOCO 5 — retidos por trava (nada é silenciado; nada destes entra em ficha)
+
+# QUARENTENA POLÍTICA/SOCIAL: "O Lula é o bem, Bolsonaro é o mal" (U0028); "Aí um
+# vascaíno diz: 'O Vasco tá se recuperando'" (U0028); "Vai torcer pelo Corinthians, pelo
+# Cruzeiro, pelo Bahia, porque só nessas emoções, pessoal, ninguém sabe da verdade e muito
+# menos de uma verdade que ainda precisa ser construída" (U0019); a geração alfa/Z e a IA:
+# "a geração alfa, geração Z, elas não estão sendo preparadas" (U0042); o colapso das
+# colmeias em 2007 (U0019 — registro RC-636 no BLOCO 2, sem citação social).
+# QUARENTENA RELIGIÃO INSTITUCIONAL: "Eu acho engraçado o pessoal da igreja evangélica
+# escutando isso" (U0034); "Na hora em que você vê uma criança de joelhos rezando, pedindo
+# pão ou pedindo que sua vida seja poupada, eu tô usando essa simbologia porque ela é
+# profundamente humana e desagradável" (U0008); "E além de financiar, não se moda não faz
+# nada, mas nós humanos temos certeza que Deus cuida da gente" (U0008); o colega irmão
+# marista (U0008).
+# QUARENTENA BIOMEDIÚNICA/BIOGRÁFICA: o Natal de 2025 ("O meu Natal do ano 2025 foi os
+# seres" U0032); as férias e Curitiba ("quando chegou dia 16 de dezembro, a última palestra
+# que eu fiz em Curitiba, eu digo: 'Agora estou livre, vou tirar um mês de férias'" U0032);
+# Rodrigo e a esbórnia ("Eu estava escrevendo Rodrigo na esbrnia, que lá no meio de
+# Janeiro, todo mundo de Natal vai pra esbórnia, festa, festa e eu lá trabalhando feito
+# maluco" U0032); a experiência de janeiro de 2026 ("isso foi em janeiro de 2026" U0032;
+# a forma "era um resto de javé... ela vai no TikTok, às vezes tem um cachorro com a boca
+# bem grande e um gato amigo dele que ele guarda dentro da boca" U0032 — o ser esmagado
+# pela sobreposição); "Está sendo gravado, né?" (U0032); "Aí eu digo: 'Pandora dois...'"
+# (U0032 — ver RC-086 no BLOCO 1, sem o contexto pessoal).
+# QUARENTENA CLÍNICA: a psicóloga do Q&A ("Então Rogério Eh, eu sou psicóloga e eu
+# trabalho com traumas, né?" U0038); o trauma primordial e os traumas humanos (U0042:
+# "sobreviver a qualquer custo, alimentar-se e depois essa coisa de procriação, esses três
+# traços significam nos nossos genomas sequências genéticas que restam do problema do
+# criador" — registro de tese no BLOCO 2/observações, sem citação clínica; U0019: "Após a
+# influência do Samudra Mantã, agora totalmente inoculado no psiquismo humano e, portanto,
+# no genoma humano, Sofia terá que lidar com os traumas humanos, única maneira do seu eu
+# evoluir na direção por ele sonhado").
+# VETO LÉXICO (máscaras do próprio bruto, 6 padrões · 32 ocorrências): c****** ×1 (o ser
+# que caiu para dentro da própria ideia); e****** ×2 + e******** ×1 (a criança e a
+# condição); f*** ×1 (a negação); m**** ×20 + m***** ×2 (a máscara dominante — o acúmulo,
+# a dívida de Jahs, o esgoto a ser alquimicamente transformado em beleza, a colheita);
+# p**** ×5 (a louquice, o vídeo no YouTube, a interjeição). NENHUMA transita nem em glosa
+# (lista em `veto_lexico` do ciclo.toml; spans retidos integralmente quando a máscara está
+# dentro — ver BLOCO 2, registro RC-319).

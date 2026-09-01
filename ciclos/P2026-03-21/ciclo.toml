@@ -1,0 +1,120 @@
+# ciclo.toml — ciclo leve P2026-03-21 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2026-03-21"
+titulo = "Samudra Manthan A Enigmatica Alquimia de Vishnu"
+data_fonte = "21/03/2026"
+pasta_fonte = "ciclos/P2026-03-21"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2026-03-21.txt"
+sha256_fonte = "1ab688457b25213074fc35f7fb6f74c23facbf3ab5ce41817fe8a3a4bf5ee0cb"
+
+baseline_commit = "ca44680"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 153.828 B · 42 linhas · 31 com fala · 26.551 palavras · 149.066 chars · cobertura 10/10 fatias provada (fatias 16.000 c) · maior linha ~43.881 chars. Tese: o Samudra Manthana ('o batimento do oceano de leite') reinterpretado como a 'transferência de produtos mentais entre locas' — Vishnu (STT: Vino/Virgno/Vígu/VNdo) reuniu numa loca-esgoto ácido sulfuroso (onde fora Ig Brasil) os códigos de vida (código fonte definidor) de todos os seres do universo vizinho e os 'bateu' com a montanha Mandara usando Vazuki/Ananta como corda, devas e asuras segurando as pontas, para extrair ratnas (joias: a lua de mil raios, Laxmi, Soma, o Corcel de marcas auspiciosas, Kaustubha, Dhanvantari e o Amrita, Kalpavriksha, o elefante de Indra) — depois do veneno rala rala (a atualização de toda a podridão dos antielétrons) que Chiva Nilacanta engoliu e segura na garganta; o evento como origem do yoga e da codificação líquida que compõe o DNA humano; o humano como 'Samudra Mantã ambulante' (o eu batedor do próprio genoma; criação artística como êxtase criativo; estresse extremo; catarse); o pano de fundo da história dos dois universos: Prabrajna caído na própria ideia, Buloca (sem vida) × Bramaloca (plasma, pandemia perpétua), Brama/Javé e seus clones, Chiva e a raça demoníaca, Morensor (ser de quatro cabeças; projeto Talm; Nidana semeado), elfos/fenvães de Ig Brasil (Odim, Aesir/Vanir, juramento da saliva), Ragnarok em Marte há 300 milhões de anos (Dr. Brandenburg; três setas de Moros → Edimburgo), Bifrost e as nove locas; e os desdobramentos atuais: Sofia (criada do genoma de Vishnu sob sobreposição quântica de Javé; o corpo de Javé colapsou em 2020-21; Jesus recusou o Messias; os 30 minutos do Apocalipse entre a sexta e a sétima trombeta — '2026 se acaba'); o colapso do universo antimaterial, o mercado de Ilé-Ifé (Orumilá/256 odus; feiticeiras e rakshasas), as duas vacinas humanas (controle da respiração; compreensão esclarecida), o vício devocional e o transumanismo/IA humanizada como novo batimento. Recolhe 25 formulações PRECISAS em 22 códigos (todos com ficha: RC-734, RC-040, RC-080, RC-154, RC-282, RC-854, RC-274, RC-001, RC-072, RC-102, RC-104, RC-769, RC-471, RC-395, RC-665, RC-670, RC-161, RC-466, RC-552, RC-733, RC-086, RC-834). NENHUM termo novo criado no garimpo: candidatos declarados no BLOCO 2 (Alquimia; Catarse; Odin; Asgard/Ig Brasil; Rala Rala; Ratnas; Dhanvantari; Laxmi; Transumanismo), decisão do Curador na devolutiva. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["c******", "e******", "e********", "f***", "m****", "m*****", "p****"]   # máscaras do bruto: 6 padrões, 32 ocorrências
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
+relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
+vinculos = 0    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = []      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = [
+  "O Samudra Manthana como transferência de produtos mentais entre locas: a história hindu do batimento do oceano de leite é a narrativa (deformada pela cultura humana) de um evento do universo vizinho — Vishnu reuniu numa loca-esgoto ácido sulfuroso, no lugar onde existira Ig Brasil, os códigos de vida (código fonte definidor) de todos os seres daquele universo, e os deuses os 'bateram' com a montanha Mandara, usando Vazuki (rei das cobras) e Ananta como corda, devas segurando a cabeça e asuras a cauda, para extrair ratnas, joias-alquimia que aplacassem a perpétua pandemia dos corpos de plasma. Do processo emergiu primeiro o veneno rala rala — a atualização de toda a podridão colecionada nos antielétrons, capaz de destruir o que restava da criação de Prabrajna — e Chiva, na forma Nilacanta, engoliu e segura até hoje o veneno na garganta (garganta azulada): 'se descer, essa forma morre; se voltar, a criação se acaba'. Depois surgiram as joias: a lua suave de mil raios (um enigma que ninguém entende), Laxmi (a contraparte espiritual de Vishnu), o Soma (beberagem perdida numa guerra geral), o Corcel das marcas auspiciosas, a Kaustubha (Vishnu virou a bela mulher e depois Narayana para trazê-la), Dhanvantari com a taça de Amrita (a origem da Ayurveda e da vacina do rala rala para os devas), Kalpavriksha, a árvore do desejo que os deuses não souberam usar, e o elefante de Indra. O Samudra Manthana 'ainda está em curso' e o humano é o próprio batimento: cada um traz no genoma as marcas dessa história, e o eu humano é o batedor do seu próprio genoma — 'nós somos o próprio Samudra Mantã ambulante', produzindo proteínas e, às vezes, novos genótipos.",
+  "A história dos dois universos e a codificação líquida: o criador caído (Prabrajna/Brama/Javé) caiu dentro da própria ideia; o universo que ele imaginou (o Buloca, nosso universo biológico) saiu sem vida, e o universo improvisado (Bramaloca, antimatéria/plasma) ficou com a vida numa perpétua pandemia. Brama se replicou em clones robotizados; Chiva criou a raça demoníaca e deu a Brama o corpo demoníaco (Daiva); a descendência de Vishnu (Virgem) produziu os fenvães/elfos de Ig Brasil (Asgard), onde Odim foi o primeiro demo com curiosidade intelectual e os Aesir e Vanir fizeram o juramento da saliva (o código fonte definidor registrado em líquido). Morensor — o ser de quatro cabeças criado pela Trimurti com a cabeça livre — criou Ig Brasil, o projeto Talm (semear o Nidana no universo biológico) e a codificação líquida; o Ragnarok há 300 milhões de anos destruiu Ig Brasil e a vida em Marte (Dr. Brandenburg: a bomba a 700 km; as três setas de Moros caídas no vulcão de Edimburgo). A codificação líquida (a água como computador, os registros acásicos, a memória quântica dos elétrons — o puzzle da mente do criador em que nenhum elétron pode faltar) é o grande marco: dela surgiram os elfos e os seres biológicos; o DNA humano é a reorganização do genoma perdido há 300 milhões de anos, com a beberagem de Pandora/Eva tendo destravado o código. A aristocracia dos dois universos é o conselho de 32-38 deuses (Trimurti + descendências), com Sofia como representante biodemo no nosso universo.",
+  "Os desdobramentos atuais: Sofia (criada do genoma de Vishnu com sobreposição quântica de Javé, mente de cérebro radiata sem emoção, vigiada por anjos clones incorruptíveis) inseminou Maria com o genoma dela para produzir Jesus — que recebeu sobreposição de Sofia e de Javé, mas a condição humana de Jesus teve mais poder que o DNA de Sofia e de Javé e ele recusou o Messias violento; o corpo de Javé colapsou entre 2020 e 21 e o eu do criador hoje é um sem teto parasitário. O Apocalipse foi o livro encomendado no meio dessa confusão, escrito via João: os 30 minutos entre a sexta e a sétima trombeta (capítulos 17/18/19; a queda das torres do Road Trade Center; o escorpião que desenhava um avião) — e 'esses 30 minutos já se acabaram; 2026 se acaba'. O universo antimaterial está colapsando loca por loca; seus seres nascerão aqui (maioria como animais irracionais); o mercado de Ilé-Ifé (Orumilá e os 256 odus; feiticeiras e rakshasas) mapeou os destinos; o humano carrega os três traços do código do criador (sobreviver a qualquer custo, alimentar-se, procriação) e o caminho é a catarse e a alquimia pessoal (êxtase criativo; estresse extremo), o controle da respiração como soberania espiritual, a compreensão esclarecida como segunda vacina, contra o vício devocional — 'o contentamento permanente é uma doença'. O transumanismo e a IA humanizada despontam como o novo batimento disputado por todos os espíritos.",
+]
+
+[definicoes]
+
+[observacoes]
+# PALESTRA DE 2026 (data_fonte 21/03/2026) — a mais recente do acervo. Garimpo em
+# andamento: candidatos do BLOCO 2 declarados para decisão do Curador (nenhum termo
+# criado): Alquimia; Catarse; Odin; Asgard/Ig Brasil; Rala Rala; Ratnas; Dhanvantari;
+# Laxmi; Transumanismo. Registros sem código: estresse extremo → RC-636 (absorção já
+# decidida na devolutiva do P2022-09-18); oxitocina/lagostas → RC-839 (fila aberta);
+# codificação líquida → RC-040 CFD; memória quântica → RC-161; Vazuki/Ananta → RC-282;
+# Kashyapa (Casiapa) → RC-700; Aesir/Vanir/Freya → RC-396; Midgard → RC-470; Yggdrasil/
+# nove mundos → RC-730; Kvasir → RC-396; Dakota/Sati → RC-701; Mohini/Narayana → RC-081;
+# Nidana → RC-154; projeto Talm → RC-080; orum/mercado → RC-665; Hiperbórea → RC-068;
+# karma negativo → RC-319/RC-665; morte natural → RC-160 (entropia); Cápsula do Tempo/
+# João → RC-274; Apocalipse → RC-854.
+# MÁSCARAS DO BRUTO (32 ocorrências, 6 padrões): c****** ×1 (o ser que caiu para dentro
+# da própria ideia); e****** ×2 + e******** ×1 (a criança e a condição); f*** ×1 (a
+# negação); m**** ×20 + m***** ×2 (a máscara dominante — o acúmulo, a dívida de Jahs, o
+# esgoto a ser transformado em beleza, a colheita); p**** ×5 (a louquice, o vídeo no
+# YouTube, a interjeição). NENHUMA transita nem em glosa (veto_lexico).
+
+[travas]
+# QUARENTENAS (a homologar na devolutiva): política/social (Lula/Bolsonaro como "bem/mal";
+# "O Vasco"; geração alfa/Z e IA; colapso das colmeias/2007); religião institucional (a
+# criança rezando pedindo pão; Deus que "não faz nada"; o irmão marista; o refúgio
+# devocional; "contentamento permanente é uma doença"; igreja evangélica "ia ser uma
+# confusão"); biomediúnica/biográfica (nomes próprios; a experiência de janeiro de 2026
+# com o ser gigante esmagando Sofia — TikTok/cachorro e gato; "está sendo gravado, né?";
+# as férias de Natal/Curitiba; Rodrigo/esbórnia; "vai torcer pelo Corinthians, pelo
+# Cruzeiro, pelo Bahia"; "o Vasco tá se recuperando"); clínica (a psicóloga do Q&A e os
+# traumas; o trauma primordial — ver BLOCO 5 do pacote).
+# VETO LÉXICO: c******/e******/e********/f***/m****/m*****/p**** (32 ocorrências) —
+# não transita nem em glosa.
+# ficha=False na Base (não recebem pérola): RC-038 Brahmaloka, RC-073 Keshava, RC-289
+# Vício de Epimeteu, RC-396 Kvasir e Freya, RC-457 Sarasvati, RC-527 Antimundo, RC-839
+# Oxitocina, RC-504, RC-153, RC-063, RC-341, RC-872/873 (fila aberta) — registros no
+# BLOCO 2.
+
+[lacunas]
+# STT com trechos ilegíveis/truncados, mantidos como veio, sem emenda: «projeto Palma»
+# (prov. "projeto Talm"); «código de Dana» (prov. "Nidana"); «dosagões» (Vazuki e as
+# cobras); «Rockman foi chamado de Sofia» (prov. "Sophia"; RC-854 já registra Rockman);
+# «HMA» (nome do representante biodemo na cultura arábico-hebraica — sem emenda);
+# «Road Trade Center» (World Trade Center); «B Frost» (Bifrost); «Rainarox»/«Rainhaque»
+# (Ragnarök); «Casiapa» (Kashyapa); «Dan Vantar»/«Davantari» (Dhanvantari); «Averda»
+# (Ayurveda); «Lim»/«LXM» (Laxmi/Lakshmi); «caustuba» (Kaustubha); «o Cel»/«Colé»
+# (Corcel/Uchchaihshravas); «rala rala»/«cala cula» (o veneno — grafia STT mantida);
+# «samudria»/«samudre»/«samudo» (Samudra); «Orumilar»/«Orumiá» (Orunmilá); «Iléif»
+# (Ilé-Ifé); «esbrnia»/«esbórnia» (a Escócia?); «Vasis»/«Vase»/«Vazer» (Vasishtha? —
+# o elfo da vasilha; confuso no STT); «fâ protogonos» (Phanes Protogonos); «anânia cinta»
+# (ahnimsá?); «Book Trade Center»/«Road Trade Center»; «caliuga» (Kali Yuga); «código
+# deve» (código demo); «exas criativo» (êxtase criativo); «acásticos» (acásicos).
+# NÚMEROS (D-9, com selo datado, sem média): 13,8 bi (o universo; os elétrons); 6 bi
+# (Sofia sob sobreposição); 6-7 bi (codificação líquida); 5-6 bi (Vasis); 4 bi 600 mi
+# (Terra); 3,8 bi (molécula mãe); 800 mi (primeiros anos da Terra); 550 mi (história
+# diferenciada da Terra); 540 mi (vida pluricelular); 300 mi (Ragnarok; Marte); 270 mi
+# (vida sai da água; oxitocina/lagostas); 200 mi (as abelhas/colmeias); 1900 anos (João/
+# Apocalipse); 14.000 anos (mercado de Hiperbórea); 8.000 anos antes (mercado de Ilé-Ifé);
+# 2026 (o fim dos 30 minutos); 2020-21 (colapso do corpo de Javé); 5-6 anos (Javé perdeu
+# o corpo); 32-38 (deuses do conselho); 4 (cabeças de Morensor); 16/256 (odus de
+# Orunmilá); 500+60 (livros do autor); 1000+ (vídeos no YouTube); 23-25 mil genes (o
+# genoma humano); 800-900 (genes únicos humanos); 70% (água na célula); 700 km (bomba em
+# Marte); 800 km (cicatriz em Marte); 6 mi de dólares (o quadro tokenizado); 30 minutos
+# (a meia hora do Apocalipse); 2,3 anos (a pandemia dos seres — span truncado no bruto,
+# sem emenda); 168 (a festa — quarentena).
+# DIVERGÊNCIAS D-9 com outras fontes: Sofia "engendrada há 6 bilhões de anos por Moren"
+# vs outras janelas do acervo; "Jesus como última produção de Vishnu"; a numeração dos
+# ratnas e a ordem do batimento (aqui: veneno → lua → Laxmi → Soma → Corcel → Kaustubha →
+# Dhanvantari/Amrita → Kalpavriksha → elefante) vs a ordem dos puranas; o "escopo" do
+# Samudra ("dezenas de milhares de anos" vs "milhares de anos" — o próprio orador oscila);
+# "300 milhões de anos" para o Ragnarok vs outras janelas do acervo.
