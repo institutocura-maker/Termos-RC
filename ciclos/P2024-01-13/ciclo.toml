@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2024-01-13 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2024-01-13"
+titulo = "A Teia da Vida e o Circuito Oculto dos Deuses"
+data_fonte = "13/01/2024"
+pasta_fonte = "ciclos/P2024-01-13"
+arquivo_fonte = "original.txt"
+sha256_fonte = "d09dfbddaa6a15727ddaa5960a9ba90c8570d26c693a09d7a69f1fec757ec90f"
+
+baseline_commit = "1be6879"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 115 KB · 74 linhas. Conteúdo central: Teia da Vida como computador quântico ancestral que organiza o destino das espécies; Realidade simulada com bolhas psíquicas e realidades paralelas simultâneas; Simultaneidade de vidas paralelas (Jesus chamava de vida eterna); Conectomas personalizados escaneados pelo espírito; Einstein e a imbecilidade humana (bomba atômica vs ratoeira); O germe da morte em tudo que nasce; Domínios do circuito oculto (Morfeu, Tânus, Tártaro, Reides, Belial, Umbrais); Evangelho apócrifo de Bartolomeu (Jesus libertando almas do circuito oculto); Sonhos como atuação em realidades paralelas; Tions como partículas superluminais; Yoga tibetana dos sonhos; Tonteltã (espírito supervisor com asas); Caim e os toltecas (Maia, Inca, Asteca)."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
