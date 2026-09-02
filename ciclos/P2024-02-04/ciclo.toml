@@ -15,12 +15,12 @@ exportar_candidatas = false
 
 cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 97 KB · 59 linhas. Conteúdo central: Fatos vs narrativas (pós-verdade oficializada em 2016-2018); A invenção do pecado original e da queda como narrativa cruel para instaurar temor e submissão; A religião como peso da prestação de contas de certezas colecionadas; A verdadeira sabedoria como aprender todo dia e jogar fora todo dia; A dignidade como inconformismo sábio e código filosófico pessoal; O ser humano como processador único de qualia (experiência biológica); A Terra como point interdimensional e DNA humano como o mais moderno; A bondade humana como algo que foge ao controle do big data dos arcontes; Javé e seu corpo de plasma/antimatéria colapsado em 2021; Os arcontes e a tentativa de destruir a bondade humana; Nibiru e asteroides só causam catástrofes gravitacionais (romantismo desmistificado); Só humanos podem fazer o bem (arcontes não sabem, só não fazem o mal)."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-892", "RC-893", "RC-894", "RC-895", "RC-896", "RC-897", "RC-898"]
 veto_lexico = []
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0
-ficha_true = 0
-termos = 0
+arquivos = 7
+ficha_true = 7
+termos = 7
 relacoes = 0
