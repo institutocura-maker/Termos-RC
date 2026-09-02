@@ -7,6 +7,7 @@
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
@@ -19,3 +20,9 @@
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Qual foi a maior mistura de gene já ocorrida na história dessa criação? É essa que eu acabei de contar. Ela foi a base de todos os principais acontecimentos que vieram a ter lugar em certas faixas habitáveis dos dois universos ao longo dos últimos 600 milhões de anos. E o que foi isso? Essa mistura de Gênes surgiu devido ao pacto ocorrido entre o Zair e o Zuaniir em Asgar.»

@@ -89,3 +89,9 @@ Naves ou estações gigantescas de semeadura de vida biológica, construídas pe
 
 - **[os três fornos — o de Brahma não funcionou] (U0005)** «A gente diz que um for de Brama chamado a não funcionou.» — os três fornos replicadores: STT `Brama`=Brahma (forno de Awayen RC-836, não funcionou); `China`/`Chiva`=Shiva (forno de Awaylengan RC-837, vida emocional/animalidade); `Virgo`=Vishnu (forno de Awaymaion RC-499, biodemos/sensatez).
 
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Aí eles disseram: 'A gente também que é isso pra gente'. Mas eles não podiam fazer isso. Isso o quê? Se alimentar diretamente, eles tinham que se adaptar à aquilo. Foi quando os sacrifícios foram gerados para que a turma que vivia do lado de cá queimasse em churrasco os animais e os efluvios e bá iam sendo passados para lá.»

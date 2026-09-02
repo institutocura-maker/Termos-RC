@@ -66,3 +66,9 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 - **Devoção = alimento:** "o que é devoção para esses seres? É alimento. Isso aplaca a fome deles" — a fome de devoção de Javé/Brama/Obatalá (RC-001/RC-666; nova aresta RC-666 ↔ RC-749);
 - **O Islã como linha de devoção:** "os muçulmanos diariamente se voltam para a Meca e me endereçam ondas de devoção";
 - Reforça a crítica à devoção (P2023-12-02 — Krishna/Chaitanya) e o contraste com os Sethianos Emancipados (RC-766).
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «E a emoção mais estranha que esses seres inocularam na gente é a expectativa de receber bênçãos, milagres, favores divinos a cada momento. E por isso a gente vive rezando, vive. Aí com isso, você não é mais aquele observador, você é aquele que usufrui o tempo inteiro de uma emoção. O mundo ao seu redor continua existindo. Você tá totalmente em êxtase com Deus. Seus filhos se ferrando, os vizinhos se ferrando, o mundo em que você vive ferrado.»

@@ -67,6 +67,7 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
@@ -76,6 +77,13 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 
 ## Citação-chave
 > "O que é o eu humano, senão a coleção de memórias, cada uma delas associada à emoção que se sentiu quando aquela memória foi produzida?"
+
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma tentativa de solidariedade ou de providenciar um solução para aquele desceego. Quando os seres desse universo vizinho que viviam brigando, perceberam isso? Disseram: 'Ué, de onde é que isso surgiu?'»
 
 ## Relações centrais
 

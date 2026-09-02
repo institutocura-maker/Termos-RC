@@ -121,3 +121,9 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 - **[anunnakis, sirianos e deuses] (U0010)** «Essas outras forças eram os anonques, eram os anfíbios sirianos, eram os tais deuses que nessa época saí dos portais ficavam aqui na terra.» — STT `anonques`=Anunnakis; junto com os anfíbios sirianos e os deuses que saíam dos portais, já estavam na Terra antes dos biodemos.
 
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»

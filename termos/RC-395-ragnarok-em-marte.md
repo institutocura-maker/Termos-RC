@@ -138,6 +138,7 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
@@ -149,3 +150,9 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra. Mas quando a gente fala Marte e Terra, a gente tem que entender duas coisas por trás de Marte. Antes de 500.000 anos, os seres élficos de Asgar e de outros níveis. De 500.000 anos para cá, esses seres e os anunax.»

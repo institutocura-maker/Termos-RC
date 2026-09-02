@@ -48,3 +48,9 @@ Com isso:
 | Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Noreia (Norea) | RC-579 | **sem aresta** em `RELACOES`; arquivo existe |
 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | aresta pré-existente; arquivo existe |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa humana num mulher.»

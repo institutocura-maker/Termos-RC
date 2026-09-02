@@ -185,3 +185,9 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 | Serpente do Éden | RC-283 | é-um |
 | Eva (figura) | RC-189 | relaciona-se-a |
 | Quarto Cérebro | RC-758 | relaciona-se-a |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E como esse ser vivia na fazenda de Epimeteu e lá tinha animais humanos irracionais, do jeito que a gente é apaixonado por cachorro, gato, papagaio, animais de estimação, na época o humanos irracionais eram os animais de estimação dos deuses de Pandora. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa humana num mulher.»

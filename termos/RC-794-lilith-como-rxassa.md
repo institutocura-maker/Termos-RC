@@ -47,3 +47,9 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 - **Quarentena demonológica FORTE**: a tese afasta Lilith da demonologia judaica-cristã tradicional (1ª esposa de Adão, mãe de demônios) — **NÃO FUSIONAR**.
 - [REVISAR]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
 - O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «A mais desagradável é que ela era uma raxchaça. O que é uma rachaça? Um vampiro. Um ser criado nesse universo vizinho que passava pelos portais para cá. Mas o vampiro não tem culpa de ser vampiro. Ele já foi criado desse jeito. Só que Lili era uma rachaça esclarecida e que Vendo o que Pandora havia feito, revoltou-se contra o controle dos deuses sobre os humanos e sobre os próprios raquchas.»

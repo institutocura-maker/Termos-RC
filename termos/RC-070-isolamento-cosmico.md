@@ -87,3 +87,9 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[P2023-12-03 · ISOLAMENTO CÓSMICO NA FALA DE 03/12/2023]** «distribuíram nesses 19 mundos situados em vários sistemas.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Agora, a invasão extraterrestre de fato está vendo é terrível, ainda nem começou e isso pode se dar em dias futuros de forma amigável ou de uma forma muito desagradável. Tudo isso porque Sofia não cumpre o que se chama palavra que ele mesmo deu devido às confusões que rola com Krishna, com Zeus, aí é palhaçada que não tem fim.»

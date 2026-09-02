@@ -62,4 +62,11 @@ A **definição factual** do vaishnavismo (tradição hindu de adoração a Vish
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Ah, não, mas a Índia não é porcaria, não. É isso aqui. É o quê também? O que é que as igrejas que dizem ter Jesus no coração estão fazendo do coração dos seus fiéis, colocando Lula, Bolsonaro, blá, blá, blá. Ou seja, nós nos ferramos a tal ponto que nós quem, a humanidade inteira, tá certo? Que destruímos e distorcemos tudo, mas os hindus eles não distorceram nada. É hoje do jeito que era, 4000.»

@@ -466,4 +466,11 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «E o curioso, no ano 2021, Javé colapsou. Ele que disse que ele era o juiz que ia julgar todo mundo. Ele mesmo foi julgado pelos padrões da e por isso o corpo dele colapsou, porque os padrões da diz que o que sai de um ser volta para ele.»

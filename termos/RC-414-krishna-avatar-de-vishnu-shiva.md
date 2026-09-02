@@ -191,4 +191,11 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o devocional que é a lei do submisso, foi Krishna que produziu.»

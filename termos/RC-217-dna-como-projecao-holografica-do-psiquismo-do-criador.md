@@ -105,3 +105,9 @@ A palestra descreve a cadeia Nidana → DNA biológico → reorganização futur
 
 - **[Holografia: cada parte contém a fórmula do todo] (U0070)** «O que é que significa holografia?» — a definição: o todo traduzido em cada parte (paráfrase U0070); o DNA em cada célula: "Em cada célula, em cada cromossomo, tá o meu código de 28." (U0070: «Em cada célula, em cada cromossomo, tá o meu código de 28.» — STT corta o número; sem emenda); cada vírus é holograficamente a face do criador — "o que acontece com um acontece com todos" (paráfrase U0070); RC-217 DNA como Projeção Holográfica.
 
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA ele descobre o dono daquele cabelo. É porque o todo daquela pessoa está representado em uma célulazinha de um cabelo que caiu da cabeça dele lá na hora do assassinato.»

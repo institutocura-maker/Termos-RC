@@ -61,4 +61,11 @@ Com isso:
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «A militarização do ser humano veio dos elfos. E os gregos, quando perceberam que eles colocavam pelotão para ir pra guerra, na hora da guerra a turma fugia. O que é que os gregos fizeram? Colocavam no mesmo pelotão os membros da mesma família para assim evitar de um filho fugir deixando o pai lá ou ao contrário.»

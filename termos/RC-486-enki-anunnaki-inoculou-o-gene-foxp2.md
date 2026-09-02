@@ -111,3 +111,9 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **Torre de Babel como projeto de Enki:** seção 4.4 do Sumário — "A Torre de Babel: Um Projeto Cultural e de Poder de Enki";
 - **Objetivos:** os de Enlil/Anu eram "mais parecidos com os de Javé" do que os de Enki (nova aresta RC-486 ↔ RC-487);
 - **Guerras atômicas (contexto da disputa):** a pontaria de Ninurta/Nergal, no âmbito dos clãs, atingiu Sinai/vale de Sidim (Sodoma e Gomorra) e a radioatividade dizimou a Suméria — **contexto, não ontologia** (quarentena histórica).
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»

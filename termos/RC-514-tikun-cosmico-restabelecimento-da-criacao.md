@@ -155,3 +155,9 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 - **Só a raça humana, e não toda:** "a raça humana tem a habilidade de fazer isso, mas não é todo ser humano. Tem que ser alguém emancipado e que tenha um padrão genético X na sua assinatura quântica" — os **Sethianos Emancipados (RC-766)**;
 - **Início com o Quarto Logos (RC-092):** "só se começa esse trabalho de Tikun na hora que o Quarto Logos começar a atuar" (nova aresta RC-514 ↔ RC-092);
 - **Sem o tempero da dignidade (RC-722):** "esse sistema genômico não funciona para o Tikun. Por isso que tem que ser a raça inabalável dos Sethianos Emancipados, que esses pode faltar tudo no genoma deles, menos a sensação de dignidade".
+
+## Ampliação — P2024-03-17
+
+**Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
+
+**Trecho verbatim:** «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.»
