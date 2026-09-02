@@ -57,9 +57,15 @@ Na cronologia da palestra, Ravana pertence à segunda era equinocial e sua forç
 - **[Chiva se fez Rama para destruir Ravana] (U0063)** «Aí por isso que Chiva, ainda que os vaisinabas dizem que foi virgem, Chiva se fez rama para destruir Ravânia, porque senão o equilíbrio do universo que só Zeus conseguia dar, Indra conseguia dar, ia se ferrar.» — o registro de correção do autor: Rama é avatar de Chiva, não de Vishnu — "Isso é tipo de Chiva, não é de Rama nasceu para destruir a banana." (U0066: «Isso é tipo de Chiva, não é de Rama nasceu para destruir a banana.»); STT «vaisinabas» (vaishnavas); «Ramaiana» (Ramayana) como fonte do episódio (paráfrase); RC-582; RC-810.
 
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Rakchaças: o chefe deles, Ravana, desafia Zeus/Indra] (U0041)** «" E apareceu um chefe deles, dos rakchaças, um tal de Ravana, e o cara tem poder para a Zeus disse: "Vou desafiá-lo".» — STT «rakchaças» (Rakchasas; RC-872 em fila aberta — ver BLOCO 2): "Aí Zeus, chamado na mitologia ariana de de Indra, desafiou Ravana" (U0041: «Aí Zeus, chamado na mitologia ariana de de Indra, desafiou Ravana.»); a surra de Ravana em Indra está descrita no Ramaian (STT «Ramaian»; Ramayana) — paráfrase U0041; RC-582 Ravana.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0740–U0746; U0770 | transcrição automatizada; paráfrase e citação |
 

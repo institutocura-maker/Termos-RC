@@ -55,10 +55,16 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 - **[O DNA quase todo "morto": 98,8% inativo] (U0012)** «Um dia a gente entenderá que o nosso DNA tem 97, 91, aliás, a última edição feita, o nosso DNA tem 98 ponto oito de DNA, entre aspas, morto, e só 1.2 ativo.» — a medição varia e o percentual cai (D-9 vs 2-3% do P2022-07-16; o autor cita 3,5/4,2/2,5 noutras fontes): "Quanto menos o nosso DNA ativo nessa história ele aparenta ser implica dizer que menos Javé controla a gente" (U0012: «Quanto menos o nosso DNA ativo nessa história ele aparenta ser implica dizer que menos Javé controla a gente e como eu dele há um tempo atrás.»); "o objetivo é ficar 0,1 só" (U0012: «Então isso tudo faz com que porque o objetivo é ficar 0,1 só.»); "esse DNA lixo não é lixo coisa alguma" (U0012: «a gente precisa ver o que é que presta pra gente reacender e aquilo que de fato é lixo, porque esse DNA lixo não é lixo coisa alguma.»); "Tem 100 funções que que que são feitas, coordenadas a partir do jogo químico que lá acontece" (U0012: «Tem 100 funções que que que são feitas, coordenadas a partir do jogo químico que lá acontece.»).
 
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[28.869 genes, dos quais 900 produzem proteína] (U0026)** «869 genes, os quais são os 900 produz proteína porque o resto tá desligado, funciona no outro.» — o restante do genoma desligado "funciona no outro sentido" (RC-562 Baralho genético): cada célula produz cerca de 2.000 proteínas como capacidade máxima; até hoje os humanos produziram ~20.000 tipos de proteínas, com novas descobertas a cada dia (paráfrase U0041 — números no BLOCO 3).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |

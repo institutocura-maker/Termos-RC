@@ -24,14 +24,14 @@ veto_lexico = ["b******", "e******", "e********", "m****", "p****"]   # máscara
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (garimpo: nenhuma; candidatos do BLOCO 2 aguardam devolutiva)
-ficha_true = 0   # viradas no cadastro (nenhuma materialização ordenada)
-termos = 0       # termos novos: só por pérola aprovada, com linha no §4 do dossiê
-relacoes = 0     # arestas novas: tipada + evidência + selo datado, ou nada
-vinculos = 0     # códigos que passam a carregar a sigla do ciclo na lista de fontes (só na APLICAÇÃO)
+arquivos = 0      # fichas criadas por este ciclo (ampliações em fichas existentes; 2 códigos novos em fila aberta com ficha=False)
+ficha_true = 0   # viradas no cadastro (RC-887 e RC-888 cadastrados com ficha=False)
+termos = 2       # termos novos: RC-887 Nag Hammadi, RC-888 Elelev/Eleleth (devolutiva aplicada)
+relacoes = 12    # arestas novas: 6 bidirecionais para RC-887 e RC-888 (devolutiva aplicada)
+vinculos = 19    # códigos que passam a carregar a sigla do ciclo na lista de fontes: 18 ampliadas + RC-072 (absorção Jesus o Vivo)
 
 [materializar]
-codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+codigos = ["RC-887", "RC-888"]      # Nag Hammadi (RC-887) e Elelev/Eleleth (RC-888) — ficha=False, fila aberta (devolutiva aplicada)
 
 [vitorias]
 provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
@@ -51,20 +51,19 @@ pontos = [
 [definicoes]
 
 [observacoes]
-# GARIMPO P2022-09-17 (ciclo novo, submetido): 25 pérolas em 18 códigos (todos com
-# ficha=True: RC-770 ×4, RC-482 ×3, RC-530 ×2, e uma cada para RC-474, RC-684, RC-579,
-# RC-299, RC-562, RC-529, RC-273 ×2, RC-400, RC-092, RC-102, RC-286, RC-567, RC-488,
-# RC-463, RC-582). NENHUM termo novo criado: 7 candidatos no BLOCO 2 do pacote para
-# AUTORIZAÇÃO da devolutiva (Maria Madalena; Zou; Jesus, o Vivo; Elelev/Eleleth;
-# Pitágoras; Boécio; Nag Hammadi — STT «Naghama»). RC-872 (Rakchasas, fila aberta,
-# ficha=False): evidência «rakchaças» alocada a RC-582 (Ravana, ficha=True); ampliação
-# reservada para a materialização. RC-063 (Favor Divino, ficha=False): menção sem
-# pérola. «projeto Talm» → RC-080 (menção U0004; sem ampliação). VETO LÉXICO: 5
-# padrões · 13 ocorrências (m**** ×5, p**** ×4, e******** ×2, b****** ×1, e****** ×1)
-# — nenhuma máscara transita, nem em glosa. Quarentenas homologadas vigentes (ver
-# [travas]). Livro-razão de âncoras: 34 buscas, 0 recusas (10 âncoras do lote 1 + 1 de
-# «Maria Madalena» no lote 2 + 23 sub-âncoras; 9 manuscritas rejeitadas pelo motor —
-# grafias do STT divergem; conferir sempre no bruto).
+# DEVOLUTIVA APLICADA (02/09/2026): 25 pérolas aprovadas; 18 fichas ampliadas (RC-770,
+# RC-482, RC-530, RC-474, RC-684, RC-579, RC-299, RC-562, RC-529, RC-273, RC-400,
+# RC-092, RC-102, RC-286, RC-567, RC-488, RC-463, RC-582); 2 códigos novos cadastrados
+# com ficha=False: RC-887 Nag Hammadi (STT «Naghama»; marco da recuperação gnóstica) e
+# RC-888 Elelev/Eleleth (o grande anjo da revelação); absorções autorizadas: Jesus o Vivo
+# → RC-072 (terceira face gnóstica cancelada pela Igreja); Zou → RC-102 (comando do
+# sétimo céu com Sofia); Maria Madalena, Pitágoras e Boécio → contexto em RC-770 (figuras
+# históricas, sem código próprio); quarentenas homologadas (religião institucional não
+# contamina verbetes); veto léxico mantido (5 padrões, 13 ocorrências). RC-883 e RC-884
+# preservados (Rara e Bemisia tabaci do P2021-06-26); códigos alternativos RC-887/RC-888
+# usados para evitar conflito. RC-872 (Rakchasas, fila aberta): evidência «rakchaças»
+# alocada a RC-582 (Ravana); ampliação reservada para materialização. RC-063 (Favor
+# Divino): menção sem pérola. «projeto Talm» → RC-080 (menção sem ampliação).
 
 [travas]
 # QUARENTENAS HOMOLOGADAS (devolutivas anteriores, vigentes): política/social;

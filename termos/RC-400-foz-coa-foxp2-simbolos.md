@@ -24,9 +24,15 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 
 - **[P2024-08-03 — destaque O-2] Enki e o FOXP2 (U1554–U1568):** "Enki foi quem introduziu [o gene FOXP2]"; "esse gene FOXP2 surgiu 47–48.000 anos atrás no nosso genoma"; "se você pegar fósseis de 100.000 anos de Homo sapiens, não tem desse gene... só tem de 40 e poucos mil anos para cá"; a história científica do gene com milhões de anos (herdado dos australopitecos) é distinta — "algo no mar fez isso" [leitura do autor; quarentena científico-genética].
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[O gene Fox P2: o da linguagem e da racionalidade] (U0041)** «Pô, sobre o cérebro límbico mamífero, surgiu o cérebro primata e no topo do cérebro primata um córtex cerebral, no qual o gene Fox P2, que é o da linguagem, o da racionalidade surgiu.» — a cronologia fóssil do gene: fósseis de homo sapiens com 50-60.000 anos não têm o gene no genoma; a partir de ~40.000/37.000 anos ele aparece (paráfrase U0054): "000 anos, você não vai encontrar o GN Fox P2 no genoma deles" (U0054: «000 anos, você não vai encontrar o GN Fox P2 no genoma deles.»); STT «GN Fox P2» (RC-400 Foz Côa/FOXP2).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2024-08-03 | U1554–U1568 | palestra/STT |
 | P2022-12-17 / P2021-12-04 / P2024-05-04 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B050 / B061 | — | obras/palestras |
 

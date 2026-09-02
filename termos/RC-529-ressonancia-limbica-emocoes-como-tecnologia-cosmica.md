@@ -49,9 +49,15 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **[P2023-04-29 · A EMOÇÃO COMO ANTÍDOTO E O FOXP2 — os 177 bilhões]** "PARA ELES [do universo vizinho] É MAIS FÁCIL CONTROLAR [os aparelhos] DO QUE ALGUÉM QUE TEM EMOÇÕES... **O QUE TIRA A GENTE DO CONTROLE DELES É A EMOÇÃO**" [ver RC-644]; "CADA NEURÔNIO É UM SER VIVO... ISSO AQUI É A MEMBRANA, QUE É A PARTE MAIS INTELIGENTE DELE... CADA NEURÔNIO TEM MILHARES DE DENDRITAS E UM AXÔNIO. POR QUE É QUE CADA NEURÔNIO TEM MILHARES DE DENDRITAS E SÓ UM AXÔNIO? **PORQUE QUEM CRIOU ESSA COISA CRIOU DESSE JEITO**"; "desde que o GEN FOXP2 começou a funcionar... O CÓDIGO DE JAVÉ JÁ RODOU CERCA DE **177 BILHÕES DE VEZES**" [ver RC-727]; "o espírito de Jesus, inclusive... é uma pureza, um excesso de pureza — **A GENTE CHAMA TRANSTORNO DE ESPECTRO AUTISTA AQUI, NÉ?**" ⚠️ quarentena clínica CRÍTICA (a metáfora/rótulo comportamental exclusivamente — jamais diagnóstico).
 - 0 códigos novos (O-3). Quarentenas: científica, clínica.
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Ressonância límbica: sentir o que o outro mamífero sente] (U0041)** «Um Os temas mais importantes da humanidade, discretamente a ciência vem falando dele nos últimos tempos, que é algo que se chama ressonância límbica.» — a definição: "É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo" (U0041: «É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo.»); o canal emocional como tecnologia cósmica (RC-529).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2024-08-03 | U0660–U0700 | palestra/STT |
 | P2024-07-14 | U0880–U0900 | palestra/STT |
 | P2025-03-15 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / P2024-09-29 / P2024-03-03 / P2024-04-13 / B072 | — | obras/palestras |

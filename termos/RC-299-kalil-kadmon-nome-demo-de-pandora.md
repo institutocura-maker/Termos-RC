@@ -52,9 +52,15 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 
 - **[P2021-05-15 · PANDORA NA MITOLOGIA DESTE CICLO (sem o nome demo)]** "Pandora, que terminou se tornando uma fêmea humana e procri e já descendentes racionalizados nasceram disso." (U0003) — ⚠️ KALIL KADMON NÃO É CITADO nesta fonte; o vínculo é nominal. Registrar a ausência (para não inflar a ficha).
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Car Cadmon: a metamorfose que originou Pandora] (U0035)** «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — há cerca de 48.000 anos (número no BLOCO 3; o span inicia em "000 anos" porque o STT retoma a contagem); «Car Cadmon»/«Caliil Cadmon» = Kalil Kadmon, o nome demo de Pandora (RC-299): a inoculação dos vírus encomendada por Zeus para se vingar de Prometeu, com Pandora levando o "presente funesto" (paráfrase do contexto U0035; RC-086 Pandora; RC-301 Prometeu).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2024-08-03 | U1414–U1419 | palestra/STT |
 | B021 | — | obra |

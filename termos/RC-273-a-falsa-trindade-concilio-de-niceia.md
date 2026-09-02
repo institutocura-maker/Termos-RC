@@ -37,9 +37,16 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 
 - **[Niceia 325 e a Santíssima Trindade] (U0005)** «Quando no concílio de Missé em 325 depois de Cristo, Jesus foi igualado a Deus quando surgiu o conceito da Santíssima Trindade, aí é que Javé não aceitou mesmo.» — no Concílio de Niceia (RC-273, STT 'Missé'), em 325 d.C., Jesus foi igualado a Deus e surgiu a Santíssima Trindade — 'aí é que Javé não aceitou mesmo'.
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Concílio de Niceia 325: o mito da Santíssima Trindade] (U0004)** «E Constantino se converteu ao cristianismo, mas Mas quando Constantino se converteu ao cristianismo, qual a primeira confusão que surgiu no Concílio de Niceia em 325, Constantino trouxe todos os bispos de igrejas cristãs.» — "E ali surgiu o mito da Santíssima Trindade Eniceia." (U0004: «E ali surgiu o mito da Santíssima Trindade Eniceia.»); a datação do mito trinitário no Concílio (RC-273 A Falsa Trindade); "Não existia a figura do Papa ainda" (paráfrase do contexto U0004).
+- **[Helena: as relíquias para a conversão de Constantino] (U0004)** «As pessoas não sabem o que Helena, a mãe de Constantino, foi atrás em Jerusalém.» — a busca dos textos gnósticos pela mãe de Constantino: "A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo" (U0004: «A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo.»); o resgate fracassado que Boécio retomaria no séc. V (RC-273; BLOCO 2 — Boécio).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | Sophia e o Logos Criadores (B014) | cap. 17 (A Falsa Trindade) | pp. 190–205 (aprox.) | capítulo dedicado |
 | P2026-08-04 | Podcast Irmãos Dias #272 (aliens e a Bíblia) | — | — |

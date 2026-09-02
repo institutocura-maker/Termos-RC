@@ -36,3 +36,9 @@ Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas ante
 - **[P2023-12-03 · PISTIS SOPHIA (FEMININO CÓSMICO GNÓSTICO) NA FALA DE 03/12/2023]** «ele foi quem criou Sofia a partir de um acordo com esses dois.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Pistofia: o epíteto do ser criador na condição anterior] (U0009)** «Pistofia, que é o epíteto do ser criador, quando ele existia na sua condição anterior de divindade cocriadora.» — «Pistofia»/«Pisto Sofia»/«Piste Sofia» (STT) = Pistis Sophia; a sabedoria orgulhosa que tentou criar sem o tutor: "Pistes Sofia é uma sabedoria orgulhosa, metida besta" (U0009: «Pistes Sofia é uma sabedoria orgulhosa, metida besta.»); dela saiu o caos e o próprio Samael (RC-530).
+- **[Sofia é epíteto, não nome próprio] (U0009)** «Então, Sofia não é um nome próprio, é um epíteto.» — "Sofia significa sabedoria" (U0009: «Sofia significa sabedoria.»); o mesmo epíteto cobre o tutor (que mais tarde assumiu a feição de Virgo/Vishnu) e o ser do nosso universo — dois Sofias distintos no bruto (RC-530; RC-784; canônica Sophia na glosa).
+

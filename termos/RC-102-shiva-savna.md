@@ -158,10 +158,16 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[A falência de Chiva] (U0012)** «Do jeito que Virgem se desintegrou, do jeito que Brama implodu, Chiva vai embora junto comigo por questões outras.» — "Ele fez 100 planos. Desses 100 não sobrou nenhum plano porque deu tudo errado" (U0012: «Ele fez 100 planos. Desses 100 não sobrou nenhum plano porque deu tudo errado.»); a rede de avatares: "O espírito de Chiva toma conta mais de 1000" (U0013: «O espírito de Chiva toma conta mais de 1000.»).
 
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[O sétimo céu: Maloca, comando dado a Chiva] (U0046)** «E Sofia e Zou o ergueram e lhe deram o comando do sétimo céu, que é o Maloca, Sofia e Zou, estamos falando aqui de VNO e Shiva, para que ele pudesse regerno e o caos.» — o anjo-clone (Zou, BLOCO 2) bate no anjo, transforma-se em Chiva e recebe o sétimo céu — "E ele é chamado Senhor das forças ou sabaof, já que ele está acima das forças do caos" (U0046: «E ele é chamado Senhor das forças ou sabaof, já que ele está acima das forças do caos.»); o oitavo céu, acima do sétimo, é o Bramaloca (paráfrase U0046; RC-102 Shiva/Savna; RC-038 Brahmaloka; STT «Maloca»).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |

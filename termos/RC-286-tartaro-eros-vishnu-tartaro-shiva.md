@@ -22,10 +22,16 @@ Devolutiva do curador (19/08/2026): o candidato **Hades/Reides** foi absorvido n
 - **[P2023-05-21 · PITON E A ORIGEM REMOTA DA MEDIUNIDADE]** "Piton... era dado a ser profeta — UM DRAGÃO MÉDIUM FALANTE... **capacidade esta que a mitologia grega diz que ele HERDOU DA SUA MÃE GAIA**. Se aí a origem mais remota da mediunidade [não estaria cravada]... seria um ser que nem titã é — DE UMA GERAÇÃO ANTERIOR, NA GERAÇÃO DE URANOS OU TALVEZ DOS ENTES PRIMORDIAIS.**" [o 'Chico Xavier da época era Pitô' — a piada; APOLO DERROTA PITON e se torna proprietário de Delfos.]
 - 0 códigos novos (O-3).
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[A águia instrutora: a cobra do mito, contada do jeito grego] (U0004)** «O terceiro personagem, uma águia que é instrutora, mentora, que aconselha os humanos a comer a tal maçã proibida pelos arcontes.» — "Essa águia substitui a cobra do mito judaico cristão." (U0004: «Essa águia substitui a cobra do mito judaico cristão.»); na versão grega do mito a águia aparece como Eros (STT «vígo. ou eros» — sem aspas; RC-286 Eros = Vishnu / Tártaro = Shiva; RC-283 Pandora como Serpente do Éden).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2026-07-25 | Jesus e a Dinastia das Sophias (Dossiê aprovado 19/08/2026) | palestra/STT pré-curada |
 
 ## Citação-chave

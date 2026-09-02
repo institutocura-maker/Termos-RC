@@ -27,9 +27,15 @@ A menção ocorre durante a reconstrução da primeira era equinocial. O curador
 
 - **[P2023-12-03 · NOREIA (NOREA) NA FALA DE 03/12/2023]** «uma filha de Eva e Lilif, bandidos, todos bandidos, mas os bandidos são os heróis e heroínas da história.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Noreia: «Eu gerei um homem através de Deus no lugar de Abel»] (U0045)** «E ela disse: "Eu gerei um homem através de Deus no lugar de Abel novamente ela engravidou e ela gerou Noreia.» — Eva, após o assassinato de Abel, gera Noreia — a filha virgem que ninguém menciona: "Aparece a figura de Noréa, a filha de Eva, uma virgem de caráter pura, uma virgem pura de caráter, sempre exaltado pelo conhecimento" (U0004: «Aparece a figura de Noréa, a filha de Eva, uma virgem de caráter pura, uma virgem pura de caráter, sempre exaltado pelo conhecimento.»); STT grafa «Noreia», «Noréia», «Noria» (RC-579 Noreia; RC-787 Egrégora de Lilith/Noreia).
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0677–U0682 | transcrição automatizada; paráfrase e citação |
 

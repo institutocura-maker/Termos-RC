@@ -18,9 +18,15 @@ No verbete de B060, Hermes Trismegisto é listado como um personagem com múltip
 - **Variações:** Hermes Trismegistus (Latim); Mercúrio Trismegisto
 - **Equivalências (B060):** Ningishzidda (Anunnaki, filho de Enki); Tehuti ou Thoth (Egípcia); Quetzalcóatl (Asteca); Viracocha (Inca)
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Ningizida, o futuro Tot] (U0056)** «Tô falando dos nefelin bíblicos na linguagem sumeriana ou os Anunax na linguagem acadiana.» — os três seres do criatório: "E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot" (U0056: «E Enenk e a irmã dele e Ningizida, que viria a ser conhecido mais tarde na cultura egípcia como Tot.»); STT «Enenk» (= Enki; RC-460 Marduk = Ra, filho de Enki) e «Ningizida» (= Ningishzidda/Thoth; RC-463 Hermes Trismegisto); RC-488.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | Personagens e Terminologias da RC (B060) | verbete "Hermes Trismegisto" | p. 2 (PDF) | equivalências |
 
 ## Citações-chave

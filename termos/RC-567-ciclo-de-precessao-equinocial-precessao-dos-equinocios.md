@@ -26,9 +26,15 @@ Ciclo astronômico de aproximadamente 25.920 anos usado, na palestra, como métr
 
 - **[Os 26.000 anos da precessão] (U0006)** «Eh, eh, É algo que se assenta no fato de que a Terra ela demora cerca de 26.000 anos, né?» — o eixo da Terra "bamboleia" como um peão e completa um ciclo a cada 26.000 anos (glosa sem aspa); "um ciclo de pressionão ecial de 26.000 anos eh é basicamente dividida em cinco eras de 5200 anos" (glosa sem aspa); "os toaltecas sabiam que quando completasse esses 5200 anos no dia 21 de dezembro do nosso calendário do ano 2012, aquilo os taaltecas sabiam que corresponderia ao fim de uma era" (U0006: «000 anos, o medo dos maias, por exemplo, que não era dos maias, eram dos toltecas, mas os maias herdaram, é porque os toaltecas sabiam que quando completasse esses 5200 anos no dia 21 de dezembro do nosso calendário do ano 2012, aquilo os taaltecas sabiam que corresponderia ao fim de uma era e eles achavam que era o fim de um ciclo pré de pressionão equinocial, ou seja, um ciclo de 26.000 anos.»); "não se repete nada porque a entropia, a força tamásica não deixa" (glosa sem aspa) — cada era é destruída pela entropia; as iúgas hindus e as profecias maia/inca/asteca herdadas dos toltecas.
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[A precessão de 26.000 anos e o Tzalkin de 5.200] (U0041)** «Como os sacerdotes astecas não sabiam em que época exatamente eles estavam vivendo, eles começaram a fazer sacrifício de seres humanos pros deuses retardarem o passar do tempo para os dias não chegarem tão rápido em termos da prceção ecial da Terra, que é um giro de 26.000 anos que, entre aspas, a Terra ao redor de si mesmo.» — STT «prceção ecial» (precessão equinocial; RC-567); o calendário herdado: "Mas os astecas, como os maias, tinham o Tzalkin, que é um calendário que mostrava que a cada cerca de 5200 anos, de uma passagem de uma era para outro, o mundo às vezes quase acabava por g Uma vez, outra vez terra morte, outra vez fogo e a última foi o dilúvio, água" (U0041: «Mas os astecas, como os maias, tinham o Tzalkin, que é um calendário que mostrava que a cada cerca de 5200 anos, de uma passagem de uma era para outro, o mundo às vezes quase acabava por g Uma vez, outra vez terra morte, outra vez fogo e a última foi o dilúvio, água.»); STT «Tzalkin» (Tzolkin), «taltecas» (toltecas) — BLOCO 3.
+
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-04-10 | O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion — Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2022-12-17 — O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo | U0102–U0107; U0175; U0260–U0262 | transcrição automatizada; paráfrase e citação |
 

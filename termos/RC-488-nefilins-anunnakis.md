@@ -39,10 +39,16 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 
 - **[as raças que restaram após o cataclismo] (U0014)** «Atuantes por algum tempo, restaram ainda os Nefel, os sirianos, os Dropa e os gigantes bravos.» — após os cataclismos (~9.000 anos), restaram os Nefilins (STT 'Nefel', = Anunnakis RC-024), os sirianos, os Dropa e os gigantes brancos (RC-488).
 
+## Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)
+
+- **[Os Anunax, os Igigi e o monte Horb] (U0068)** «Os Anunax transaram com as mulheres, os Igis, que é um tipo de anunque, desceram no monte Horb e desobedecendo a lei de Enk, de Enlil, eles transaram com as humanas aqui.» — "Quando Jared, pai de Enoque, existiu, o que é que houve?" (U0068: «Quando Jared, pai de Enoque, existiu, o que é que houve?»); STT «Anunax» (Anunnakis; RC-024), «Igis» (Igigi; RC-580), «monte Horb» (Horeb), «lei de Enk, de Enlil» (RC-487 Enlil); RC-488 Nefilins (= Anunnakis).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
 | P2021-03-27 | bloco 3 (dinastias — anaquins/enacins); bloco 5 (dilúvio) | palestra/STT pré-curada |
