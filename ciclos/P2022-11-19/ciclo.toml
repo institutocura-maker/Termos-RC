@@ -1,0 +1,82 @@
+# ciclo.toml — ciclo leve P2022-11-19 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2022-11-19"
+titulo = "No Princípio era o Bem! Será"
+data_fonte = "19/11/2022"
+pasta_fonte = "ciclos/P2022-11-19"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2022-11-19.txt"
+sha256_fonte = "06867098d9164537af296e4587f0b73cf2b45e8c88dcb225890b5c3fbb945fcd"
+
+baseline_commit = "f88ee9f"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 144.387 B · 97 linhas · 68 com fala · 25.449 palavras · 139.234 chars · cobertura 10/10 fatias provada (fatias 15.000 c). Tese: questionamento das certezas infantis da humanidade sobre o princípio de tudo (título da palestra: no princípio era o bem? será?) — o bem não existia, foi criado pela humanidade (genótipo GG da gentileza só surgiu há ~12.000 anos); Deus (o ser puro/imanente) não é bondoso, é puro; a bondade e a ética são construções biopsíquicas; o humano pode modificar seu epigenoma; a estatura moral dos que mergulharam no caos é superior à dos seres criados perfeitos; João: no princípio era o Verbo (não Deus); Agostinho e a imposição dogmática; Nietzsche e a humanidade infantiloide; realidade simulada / mito da caverna; Capila e Buda (2.700 anos); Mirdad e a semente da perfeição; Mentalma; genoma de Javé em diversos meios. Recolhe 24 formulações PRECISAS em 14 códigos (RC-400, RC-748, RC-001, RC-072, RC-562, RC-529, RC-104, RC-369, RC-406, RC-063, RC-273, RC-009, RC-037, RC-770, RC-530). NENHUM termo novo criado no garimpo. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["m****", "p****"]   # máscaras do próprio bruto: 2 padrões
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo (garimpo: nenhuma; sem candidatos novos)
+ficha_true = 0   # viradas no cadastro (todas as 15 fichas já existem com ficha=True, exceto RC-063/RC-406 ficha=False)
+termos = 0       # termos novos: nenhum criado no garimpo
+relacoes = 0     # arestas novas: só na aplicação (se autorizada)
+vinculos = 0     # códigos que passam a carregar a sigla do ciclo na lista de fontes (só na APLICAÇÃO)
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = ["RC-400", "RC-748", "RC-001", "RC-072", "RC-562", "RC-529", "RC-104", "RC-369", "RC-406", "RC-063", "RC-273", "RC-009", "RC-037", "RC-770", "RC-530"]      # 15 códigos com pérolas no BLOCO 1
+
+[tese]
+pontos = [
+  "O questionamento central (título da palestra): no princípio era o bem? será? — o bem não existia, foi criado pela humanidade; o genótipo GG (gentileza) só surgiu há ~12.000 anos; Deus (o ser puro/imanente) não é bondoso, é puro; a bondade e a ética são construções biopsíquicas desenvolvidas pela evolução dos mamíferos e pela racionalidade humana (gene Fox P2, ~48.000 anos).",
+  "A estatura moral dos que mergulharam no caos é superior à dos seres criados perfeitos: os humanos que se sujaram, se ferraram e ainda são dignos têm mais mérito que os seres do paraíso criados perfeitos sem esforço; o livro Favor Divino registra essa tese; nós mamíferos amamos quem nos agride — coisa que os seres perfeitos não conseguem.",
+  "O evangelho de João e a humilhação do Criador: no princípio era o Verbo (não Deus) — Jesus como o Verbo sem o qual nada do que o Criador fez teria sido feito; João (16 anos, o mais jovem, o único que não fugiu) foi o único apóstolo que soube de tudo e escreveu aos 90 anos para humilhar publicamente o Deus dos judeus; o mesmo processo de Brama/Vishnu na mitologia hindu — Brama é o criador, mas quem ajeitou tudo foi Vishnu.",
+  "A epigenética e a responsabilidade individual: o humano pode modificar seu epigenoma (substituição de DNA bichado por DNA chique); cada vez que desaprende uma grosseria, substitui genes grosseiros (herança do criador caído) por genes sofisticados; o Mentalma como ferramenta de auto-observação; o genoma de Javé existe em diversos tipos de meio (não só biológico); a vida pode existir à base de sílica (circuitos/chips como células).",
+  "O divisor de águas de 2.700 anos: Capila (Samkhya) e Siddhartha Gautama (Buda) na Índia, Confúcio na China, Zoroastro na Pérsia, Tales de Mileto na Grécia — introduziram o raciocínio crítico; Agostinho de Hipona (séc. IV-V) impôs o dogma da perfeição divina (paráfrase: quem desconfia da bondade divina vai pro inferno); Nietzsche e a humanidade infantiloide condicionada a achar que no princípio só existia coisa legal; a transição da infância espiritual para a maturidade filosófica.",
+]
+
+[definicoes]
+
+[observacoes]
+# GARIMPO P2022-11-19 (ciclo submetido): 25 pérolas em 15 códigos (todos com ficha:
+# RC-400 ×2, RC-748 ×3, RC-001 ×2, RC-072 ×3, RC-562 ×2, RC-529 ×1, RC-104 ×1,
+# RC-369 ×2, RC-406 ×1, RC-063 ×1, RC-273 ×1, RC-009 ×1, RC-037 ×1, RC-770 ×1,
+# RC-530 ×1). NENHUM termo novo criado: 5 candidatos no BLOCO 2 com navalha mantida
+# (Agostinho de Hipona; Mirdad/livro; Capila/Samkhya; Realidade simulada/Caverna;
+# Regra de Ouro — todos como contexto em fichas existentes). RC-063 Favor Divino
+# (ficha=False): livro citado como contexto. RC-406 Platão (ficha=False): mito da
+# caverna como contexto. VETO LÉXICO: 2 padrões (m**** ×1, p**** ×1 no bruto) —
+# nenhuma máscara transita, nem em glosa. Quarentenas homologadas vigentes. Livro-razão
+# de âncoras: ~25 buscas executadas, spans conferidos byte a byte pelo motor.
+
+[travas]
+# QUARENTENAS HOMOLOGADAS (devolutivas anteriores, vigentes): política/social;
+# religião institucional (Agostinho como pano de fundo); biomediúnica/biográfica
+# (nomes próprios como exemplo didático); clínica. VETO LÉXICO: 2 padrões · ~2
+# ocorrências — m**** ×1, p**** ×1 (máscaras do próprio bruto; lista em `veto_lexico`).
+# RC-063 (ficha=False) e RC-406 (ficha=False) não recebem pérola com ampliação neste
+# ciclo (registros no BLOCO 2 como contexto).
+
+[lacunas]
+# STT com trechos truncados/degradados, mantidos como veio, sem emenda:
+# «Squia e o ismo» (Samkhya e Budismo), «oroastos» (Zoroastro), «exildo» (Hesíodo),
+# «Capilas» (Capila), «Sidart Gautama» (Siddhartha Gautama/Buda), «Niet»/«Nietzs»
+# (Nietzsche), «Agostinho Dipona»/«de Pon» (de Hipona), «Virgo» (Vishnu),
+# «GN Fox P2» (gene Fox P2), «genópio» (genótipo), «gênios» (genes),
+# «Homo Sáps» (Homo sapiens), «Mirdade» (Mirdad), «AASCA» (cannabis/beberagem).
+# Datas STT: «13 bilhões 759 milhões 9» (13.8 bilhões), «48 49 50 60 70.000» (~48.000).

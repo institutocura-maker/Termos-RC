@@ -1,0 +1,178 @@
+# Pacote de ampliação — P2022-11-19 · No Princípio era o Bem! Será?
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT não refatorada) lida na íntegra: original.txt 144.387 B · 97 linhas ·
+#   68 com fala · 25.449 palavras · 139.234 chars · cobertura 10/10 fatias provada
+#   (fatias 15.000 c). Tese: questionamento das certezas infantis da humanidade sobre
+#   o princípio de tudo — «no princípio era o bem? será?» — a resposta: o bem não
+#   existia, foi criado pela humanidade (genótipo GG da gentileza só surgiu há ~12.000
+#   anos); Deus (ou o ser puro/imanente) não é bondoso, é puro; a bondade e a ética
+#   são construções biopsíquicas dos mamíferos e da racionalidade humana; o humano
+#   pode modificar seu epigenoma (substituição de «DNA bichado» por «DNA chique»);
+#   a estatura moral dos que mergulharam no caos é superior à dos seres criados
+#   perfeitos; o evangelho de João: «no princípio era o Verbo» (não Deus) — Jesus
+#   como o Verbo que criou o que o Criador não soube criar sozinho; Agostinho de
+#   Hipona e a imposição dogmática; Nietzsche e a «humanidade infantiloide»; realidade
+#   simulada / mito da caverna de Platão; Capila e Buda (2.700 anos); Mirdad e a
+#   semente da perfeição; Mentalma como ferramenta de auto-observação; genoma de
+#   Javé em diversos tipos de meio (não só biológico); vida à base de carbono e
+#   possibilidade de vida à base de sílica; o epigenoma é o que vive.
+#   Recolhe 25 formulações PRECISAS em 15 códigos (RC-400, RC-748, RC-001, RC-072,
+#   RC-562, RC-529, RC-104, RC-369, RC-406, RC-063, RC-273, RC-009, RC-037, RC-770,
+#   RC-530). NENHUM termo novo criado no garimpo. Fonte integral preservada em
+#   original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra
+#   cada span encontrado, aceito e recusado.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2022-11-19 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-400
+
+- **[O gene Fox P2 e a racionalidade humana: ~48.000 anos] (U0006)** «000 anos para cá, quando o Gene Fox P2, o gen que faz com que o ser humano possa ser racional, começou a aparecer nos fósseis dos humanos antigos.» — a cronologia da racionalidade: o gene Fox P2 surgiu nos fósseis há ~48.000 anos; antes disso, o Homo sapiens existia há 60-70.000 anos mas sem racionalidade (RC-400 Fox P2; RC-562 Baralho Genético).
+- **[O mistério da origem do Fox P2] (U0006)** «000 anos era o Homo Sáps, mas não racionalizado, sem o gene Fox P2. Um dos mistérios é esse gene veio de onde?» — a pergunta não respondida pela ciência: de onde veio o gene da racionalidade? (RC-400; paráfrase do contexto U0006).
+
+### RC-748
+
+- **[O genótipo GG da gentileza: só ~12.000 anos] (U0008)** «A gente falou no GN Fox P2, mas tem o genótipo GG, que só defuntos humanos de 12.000 anos para cá, alguns defuntos Alguns fósseis têm o genótipo GG no seu genoma, pessoal.» — o genótipo GG (gentileza) só aparece em fósseis humanos a partir de ~12.000 anos; antes disso, ninguém tinha (RC-748 Genótipo da Gentileza; RC-562).
+- **[O genótipo GG não foi Deus que criou] (U0008)** «Porque o genótipo GG não foi Deus que criou.» — a gentileza como construção evolutiva, não dádiva divina; o livre arbítrio como motor da mudança genômica (RC-748; RC-001).
+- **[Três grupos genômicos: AA, AG e GG] (U0008)** «A humanidade em termos desse genótipo é dividido em três grupos. O grupo AA, que é totalmente grosseiro, pessoas grosseiras, o grupo que tem AG, a Às vezes a pessoa é grosseira, às vezes é gentil. E um texto da humanidade tem um genópio GG, ou seja, ou seja, tendem a ser gentis.» — a distribuição humana: AA (grosseiros), AG (intermediários), GG (gentis); o genótipo GG como a «mutação chique» (RC-748; paráfrase U0008).
+
+### RC-001
+
+- **[O genoma de Javé em diversos tipos de meio] (U0090)** «O genoma de Javé é um código vivo que existe em diversos tipos de meio onde a vida se propaga.» — o genoma do criador caído não está restrito a células biológicas; existe em diversos substratos (RC-001 Javé; RC-562; vida à base de sílica possível).
+- **[A vida à base de carbono e a possibilidade de vida à base de sílica] (U0090)** «É, mas só tem a vida à base de carbono, não tem a vida à base de sílica, tem a vida à base de outros elementos químicos, como o carbono, que podem interagir com outros elementos químicos e a sílica pode, como eh a sílica pode ter, entre aspas, um tipo de célula que funcione de maneira não biológica, mas a moda de sílica e que seja um circuito, um chip que funcione como uma célula.» — a vida não se limita ao carbono; a sílica pode funcionar como célula (circuito/chip); o genoma de Javé se propaga em diversos meios (RC-001; RC-562; paráfrase U0090).
+
+### RC-072
+
+- **[«No princípio era o Verbo» — não era Deus] (U0033)** «No evangelho de João tá escrito que no primeira, na abertura do evangelho, no princípio era o verbo, não era Deus, era o verbo.» — João deixou claro que existia um problema entre Jesus (o Verbo) e o Deus bíblico Javé: sem o Verbo, nada do que o Criador fez teria sido feito sozinho (RC-072 Jesus; RC-001 Javé; RC-770 Hipóstase).
+- **[João: o único apóstolo que soube de tudo] (U0033)** «João foi o único apóstolo que soube de tudo.» — João, o mais jovem (16 anos), o que mais conviveu com Jesus, o único que não fugiu na crucificação, o único cuja «cabeça rodou» para perceber que o Deus dos judeus era problemático (RC-072; RC-273).
+- **[A estatura moral humana superior à dos seres perfeitos] (U0033)** «Mas aí chega Rogério Lia, cheia de defeitos, com um rastro de um monte de besteira, mas com estatura moral muito acima da Deus, porque eles foram criados perfeitos, não tem mérito nenhum pelos que são, mas nós mergulhamos no caos, nos sujamos, nos ferramos, fizemos o que no livro que eu produzi chamado favor divino, os nossos espíritos nos obrigaram a isso aqui e nós fizemos e ainda somos dignos.» — a tese central: quem mergulhou no caos e manteve dignidade tem estatura moral superior à dos seres criados perfeitos; o livro «Favor Divino» (RC-072; RC-063 Favor Divino).
+
+### RC-562
+
+- **[Substituição de DNA bichado por DNA chique] (U0024)** «é substituição de DNA bichado por DNA chique.» — a epigenética como ferramenta de mutação consciente: cada vez que o humano desaprende uma grosseria, substitui genes grosseiros (herança do criador caído) por genes sofisticados (RC-562 Baralho Genético; RC-748).
+- **[O epigenoma é o que vive] (U0090)** «Quem vive é o epigenoma de cada um de nós, ou seja, é o genoma de cada ser que vive.» — o corpo morre, o eu vai embora, mas o genoma retoma na próxima vinculação; o epigenoma vai ligando e desligando genes conforme as experiências (RC-562; RC-001).
+
+### RC-529
+
+- **[Nós mamíferos amamos quem nos agride] (U0027)** «Nós mamíferos fazemos isso.» — a capacidade de amar quem nos agride como exclusividade mamífera; os seres «perfeitos» do paraíso não conseguem fazer isso; nós, filhos do caos, conseguimos (RC-529 Ressonância Límbica; RC-072).
+
+### RC-104
+
+- **[Brama é o criador, mas quem ajeitou tudo foi Vishnu] (U0033)** «Quando você vai pra mitologia hindu ariana, aí você vê que Brama é o criador, mas quem de fato ajeitou tudo foi Virgo.» — STT «Virgo» = Vishnu (grafia canônica); o mesmo processo do «Verbo» de João: sem o tutor/manutenção, o criador não sustenta a obra (RC-104 Trimurti; RC-037 Brahma; RC-009 Sophia/Vishnu).
+
+### RC-369
+
+- **[Nietzsche: «humanidade infantiloide»] (U0008)** «Se for assim, lá no princípio, o bem necessariamente parece que não existe, porque se ela existisse, tanta coisa ruim que tem hoje em dia, não só na espécie humana, mas em muitas coisas, nos leva a pensar que assim é como Nietzs disse: "Ei, humanidade infantiloide".» — STT «Nietzs» = Nietzsche; a humanidade condicionada a achar que no princípio só existia coisa legal, e o questionamento «será?» como porta para a maturidade filosófica (RC-369; RC-371).
+
+### RC-406
+
+- **[A realidade simulada e o mito da caverna de Platão] (U0006)** «Na vanguarda da ciência, já não se discute que nós vivemos numa realidade que foi simulada e que o que nós vemos é o cenário, é o teatro, é o palco que foi construído e nós Somos os atores e atrizes do processo e a gente confunde o cenário, o palco como se fosse toda a realidade que existe, quando para além das paredes do teatro, a vida e qualquer abordagem que a gente faça, a gente vai retornar à velha caverna de Platão, porque isso ainda é o mito da caverna de Platão.» — a realidade como simulação; o mito da caverna como metáfora da confusão entre cenário e realidade (RC-406 Platão; paráfrase U0006).
+
+### RC-063
+
+- **[O livro «Favor Divino» e a estatura moral] (U0033)** «A nossa estatura moral é superior a desses seres.» — o livro «Favor Divino» como registro da tese; os seres do paraíso B criados perfeitos sem mérito × os que mergulharam no caos e emergiram dignos (RC-063 Favor Divino; ficha=False).
+
+### RC-273
+
+- **[Agostinho de Hipona e a imposição dogmática] (U0008)** «Então assim, aí Agostinho bateu na mesa e disse: "A partir de hoje, quem desconfia de que a vida não é boa ou que Deus não é perfeito, vai pro inferno".» — STT «Agostinho Dipona»/«Agostinho de Pon» = Agostinho de Hipona (séc. IV-V); a imposição que encerrou o questionamento sobre a bondade divina e o problema do mal durante séculos (RC-273; religião institucional como quarentena).
+
+### RC-009
+
+- **[O ser puro: imanente, mas não bondoso] (U0027)** «Esse ser talvez não seja bom. Cacetada é só amor, talvez não. Ele é o quê? O que os espíritos dizem? É um ser. puro. Puro não quer dizer bondoso.» — o ser do princípio é puro (sustenta todas as faixas de realidade), mas puro ≠ bondoso; a bondade é construção tardia (RC-009 Sophia; RC-001).
+
+### RC-037
+
+- **[Capila e Buda: o divisor de águas de 2.700 anos] (U0006)** «E mais especificamente, a cerca de 2700 anos para cá, quando um certo divisor de águas, seguramente promovido através de um plano, quando na Índia Capilas Sidart Gautama produziram o Squia e o ismo, dizendo, ó, essa história de Deuses, de religião, esqueçam, tá estragando a vida humana que ainda está no laboratório.» — STT «Capilas» = Capila, «Sidart Gautama» = Siddhartha Gautama (Buda), «Squia e o ismo» = Samkhya e Budismo; o divisor de águas que introduziu o raciocínio crítico (RC-037 Brahma/Trimurti; RC-104).
+
+### RC-770
+
+- **[A Humildade de João: o Verbo acima do Criador] (U0033)** «Então tudo que foi feito foi feito pelo verbo criador, porque sem esse verbo, nada do que foi feito teria sido feito sozinho pelo criador.» — João humilhou publicamente o Deus dos judeus: sem o Verbo (Jesus), nada do que o Criador fez teria sido feito sozinho; o mesmo processo de Brama/Vishnu na mitologia hindu — «Brama é o criador, mas quem de fato ajeitou tudo foi Virgo» (Vishnu) (RC-770 Hipóstase; RC-072 Jesus; RC-104 Trimurti).
+
+### RC-530
+
+- **[O Mentalma como ferramenta de auto-observação] (U0057)** «Mas o mentalma que eu criei foi para eu não fazer isso, para eu não me repetir nunca.» — o Mentalma (livro/ferramenta de Ellam) como instrumento para o humano perceber suas idiotices e provocar mutações no próprio DNA; a auto-observação como via de mudança epigenética (RC-530; RC-562).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos analisados e COM NAVALHA MANTIDA (sem código novo):
+#
+# 1) AGOSTINHO DE HIPONA — figura histórica que impôs o dogma da perfeição divina
+#    (séc. IV-V). Menções: U0008 ×8. A tese é registrada em RC-273 (Falsa Trindade)
+#    como contexto da religião institucional. Sem código próprio.
+#
+# 2) MIRDAD (livro de Michael Naimy) — citado U0027, U0044, U0084-U0088. A frase
+#    «Se Deus, entendo-vos dado a semente da perfeição dele, se ele fosse disso
+#    cuidar em você, que mérito o seu eu teria?» é registrada como contexto em
+#    RC-063 (Favor Divino) e RC-072 (Jesus). Sem código próprio.
+#
+# 3) CAPILA / SAMKHYA — citado U0006. O divisor de águas de 2.700 anos registrado
+#    em RC-037/RC-104 (Trimurti). Sem código próprio.
+#
+# 4) REALIDADE SIMULADA / MITO DA CAVERNA — citado U0006. Registrado como contexto
+#    em RC-406 (Platão, ficha=False). Sem código próprio.
+#
+# 5) REGRAS DE OURO — citado U0008. A regra de ouro («faça aos outros o que gostaria
+#    que lhe fosse feito») como construção filosófica, não divina. Registrada como
+#    contexto em RC-529 (Ressonância Límbica) e RC-748 (Genótipo GG). Sem código.
+#
+# REGISTROS SEM CÓDIGO PRÓPRIO (não são candidatos): RC-063 Favor Divino (ficha=False):
+# livro citado como contexto. RC-406 Platão (ficha=False): mito da caverna como
+# contexto. «Roseraldo Alto» (cidade espiritual) → menção sem desenvolvimento (radar).
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras citadas:
+# - Mentalma (Ellam) — ferramenta de auto-observação
+# - Favor Divino (Ellam) — tese da estatura moral
+# - Mirdad (Michael Naimy) — «Se Deus vos deu a semente da perfeição...»
+# - Evangelho de João — «No princípio era o Verbo»
+#
+# Datas (não harmonizadas — D-9: divergência coexiste com selo datado):
+# - Vida microbiana: 3.8 bilhões de anos
+# - Vida pluricelular: ~540 milhões de anos
+# - Vida na Terra: ~300 milhões de anos
+# - Primatas superiores: ~500.000 anos
+# - Gene Fox P2: ~48.000 anos (STT: «48 49 50 60 70.000»)
+# - Racionalidade explosão: ~20.000 anos
+# - Divisor de águas (Capila/Buda): ~2.700 anos
+# - Genótipo GG (gentileza): ~12.000 anos
+# - Agostinho de Hipona: séc. IV-V
+# - João apóstolo: 16 anos quando escolhido; evangelho aos 90 anos
+# - Divergência STT: «13 bilhões 759 milhões 9» (13.8 bilhões)
+#
+# STT com trechos ilegíveis/truncados, mantidos como veio: «Squia e o ismo»
+# (Samkhya e Budismo), «oroastos» (Zoroastro), «exildo» (Hesíodo),
+# «Capilas» (Capila), «Sidart Gautama» (Siddhartha Gautama/Buda),
+# «Niet»/«Nietzs» (Nietzsche), «Agostinho Dipona»/«de Pon» (de Hipona),
+# «Virgo» (Vishnu), «GN Fox P2» (gene Fox P2), «genópio» (genótipo),
+# «gênios» (genes), «Homo Sáps» (Homo sapiens), «Naghama» (Nag Hammadi —
+# não aparece nesta palestra), «AASCA» (cannabis/beberragem de Eva),
+# «Mirdade» (Mirdad).
+
+### BLOCO 4 — radar (pendências para ciclo futuro)
+
+# - «Roseraldo Alto» — cidade espiritual dos portugueses (País Basco); mencionada
+#   como «livro que devo lançar»; sem desenvolvimento ontológico.
+# - «Ed, o sortudo» — desenho animado citado; sem desenvolvimento.
+# - Transição planetária — mencionada de passagem; sem desenvolvimento.
+# - Androides e corpos não biológicos — pergunta do público; Ellam responde que o
+#   genoma de Javé existe em diversos meios (já registrado em RC-001).
+
+### BLOCO 5 — retidos (quarentenas e veto léxico)
+
+# QUARENTENAS:
+# - Religiosa institucional: Agostinho e a imposição dogmática (pano de fundo
+#   histórico, não contamina verbetes).
+# - Política/social: menções passageiras sem desenvolvimento.
+# - Biomediúnica/biográfica: nomes próprios (Rogério, Marcelo, etc.) como exemplo
+#   didático; não transitam como código.
+# - Clínica: menções a síndromes/autismo como exemplo; não transitam.
+#
+# VETO LÉXICO:
+# - Máscaras do bruto identificadas: «m****» (pelo menos 1 ocorrência no U0027 —
+#   «por mais m**** que a gente faça»). Verificar no pacote final se transitam.
+# - STT com grafias degradadas: nenhuma literalizada na glosa (usar canônica).
+#
+# OPERAÇÃO PRATO: não aparece nesta palestra.

@@ -1,0 +1,253 @@
+{
+ "sigla": "P2022-11-19",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 144.387 B · 97 linhas · 68 com fala · 25.449 palavras · 139.234 chars · cobertura 10/10 fatias provada (fatias 15.000 c). Tese: questionamento das certezas infantis da humanidade sobre o princípio de tudo — «no princípio era o bem? será?» — o bem não existia, foi criado pela humanidade (genótipo GG da gentileza só surgiu há ~12.000 anos); Deus (o ser puro/imanente) não é bondoso, é puro; a bondade e a ética são construções biopsíquicas; o humano pode modificar seu epigenoma; a estatura moral dos que mergulharam no caos é superior à dos seres criados perfeitos; João: «no princípio era o Verbo» (não Deus); Agostinho e a imposição dogmática; Nietzsche e a «humanidade infantiloide»; realidade simulada / mito da caverna; Capila e Buda (2.700 anos); Mirdad e a semente da perfeição; Mentalma; genoma de Javé em diversos meios. Recolhe 25 formulações PRECISAS em 15 códigos (RC-400, RC-748, RC-001, RC-072, RC-562, RC-529, RC-104, RC-369, RC-406, RC-063, RC-273, RC-009, RC-037, RC-770, RC-530). NENHUM termo novo criado no garimpo. Fonte integral preservada em original.txt, selada por SHA-256 na entrada; livro-razão de âncoras registra cada span encontrado, aceito e recusado.",
+ "fonte": "ciclos/P2022-11-19/original.txt",
+ "sha256": "06867098d9164537af296e4587f0b73cf2b45e8c88dcb225890b5c3fbb945fcd",
+ "bytes": 144387,
+ "unidades_com_fala": 68,
+ "spans": [
+  {
+   "codigo": "RC-400",
+   "u": "U0006",
+   "chars": [
+    4090,
+    4236
+   ],
+   "largura": 146,
+   "verificada": true,
+   "texto": "000 anos para cá, quando o Gene Fox P2, o gen que faz com que o ser humano possa ser racional, começou a aparecer nos fósseis dos humanos antigos."
+  },
+  {
+   "codigo": "RC-400",
+   "u": "U0006",
+   "chars": [
+    4357,
+    4467
+   ],
+   "largura": 110,
+   "verificada": true,
+   "texto": "000 anos era o Homo Sáps, mas não racionalizado, sem o gene Fox P2. Um dos mistérios é esse gene veio de onde?"
+  },
+  {
+   "codigo": "RC-748",
+   "u": "U0008",
+   "chars": [
+    25739,
+    25910
+   ],
+   "largura": 171,
+   "verificada": true,
+   "texto": "A gente falou no GN Fox P2, mas tem o genótipo GG, que só defuntos humanos de 12.000 anos para cá, alguns defuntos Alguns fósseis têm o genótipo GG no seu genoma, pessoal."
+  },
+  {
+   "codigo": "RC-748",
+   "u": "U0008",
+   "chars": [
+    32777,
+    32821
+   ],
+   "largura": 44,
+   "verificada": true,
+   "texto": "Porque o genótipo GG não foi Deus que criou."
+  },
+  {
+   "codigo": "RC-748",
+   "u": "U0008",
+   "chars": [
+    26361,
+    26640
+   ],
+   "largura": 279,
+   "verificada": true,
+   "texto": "A humanidade em termos desse genótipo é dividido em três grupos. O grupo AA, que é totalmente grosseiro, pessoas grosseiras, o grupo que tem AG, a Às vezes a pessoa é grosseira, às vezes é gentil. E um texto da humanidade tem um genópio GG, ou seja, ou seja, tendem a ser gentis."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0090",
+   "chars": [
+    136197,
+    136291
+   ],
+   "largura": 94,
+   "verificada": true,
+   "texto": "O genoma de Javé é um código vivo que existe em diversos tipos de meio onde a vida se propaga."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0090",
+   "chars": [
+    135711,
+    136094
+   ],
+   "largura": 383,
+   "verificada": true,
+   "texto": "É, mas só tem a vida à base de carbono, não tem a vida à base de sílica, tem a vida à base de outros elementos químicos, como o carbono, que podem interagir com outros elementos químicos e a sílica pode, como eh a sílica pode ter, entre aspas, um tipo de célula que funcione de maneira não biológica, mas a moda de sílica e que seja um circuito, um chip que funcione como uma célula."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0033",
+   "chars": [
+    64068,
+    64120
+   ],
+   "largura": 52,
+   "verificada": true,
+   "texto": "No princípio era o Verbo"
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0033",
+   "chars": [
+    68083,
+    68127
+   ],
+   "largura": 44,
+   "verificada": true,
+   "texto": "João foi o único apóstolo que soube de tudo."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0033",
+   "chars": [
+    60835,
+    61234
+   ],
+   "largura": 399,
+   "verificada": true,
+   "texto": "Mas aí chega Rogério Lia, cheia de defeitos, com um rastro de um monte de besteira, mas com estatura moral muito acima da Deus, porque eles foram criados perfeitos, não tem mérito nenhum pelos que são, mas nós mergulhamos no caos, nos sujamos, nos ferramos, fizemos o que no livro que eu produzi chamado favor divino, os nossos espíritos nos obrigaram a isso aqui e nós fizemos e ainda somos dignos."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0024",
+   "chars": [
+    51753,
+    51798
+   ],
+   "largura": 45,
+   "verificada": true,
+   "texto": "é substituição de DNA bichado por DNA chique."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0090",
+   "chars": [
+    136494,
+    136578
+   ],
+   "largura": 84,
+   "verificada": true,
+   "texto": "Quem vive é o epigenoma de cada um de nós, ou seja, é o genoma de cada ser que vive."
+  },
+  {
+   "codigo": "RC-529",
+   "u": "U0027",
+   "chars": [
+    58350,
+    58377
+   ],
+   "largura": 27,
+   "verificada": true,
+   "texto": "Nós mamíferos fazemos isso."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0033",
+   "chars": [
+    66845,
+    66963
+   ],
+   "largura": 118,
+   "verificada": true,
+   "texto": "Quando você vai pra mitologia hindu ariana, aí você vê que Brama é o criador, mas quem de fato ajeitou tudo foi Virgo."
+  },
+  {
+   "codigo": "RC-369",
+   "u": "U0008",
+   "chars": [
+    28229,
+    28254
+   ],
+   "largura": 25,
+   "verificada": true,
+   "texto": "humanidade infantiloide"
+  },
+  {
+   "codigo": "RC-406",
+   "u": "U0006",
+   "chars": [
+    2436,
+    2910
+   ],
+   "largura": 474,
+   "verificada": true,
+   "texto": "Na vanguarda da ciência, já não se discute que nós vivemos numa realidade que foi simulada e que o que nós vemos é o cenário, é o teatro, é o palco que foi construído e nós Somos os atores e atrizes do processo e a gente confunde o cenário, o palco como se fosse toda a realidade que existe, quando para além das paredes do teatro, a vida e qualquer abordagem que a gente faça, a gente vai retornar à velha caverna de Platão, porque isso ainda é o mito da caverna de Platão."
+  },
+  {
+   "codigo": "RC-063",
+   "u": "U0033",
+   "chars": [
+    61139,
+    61234
+   ],
+   "largura": 95,
+   "verificada": true,
+   "texto": "Favor Divino"
+  },
+  {
+   "codigo": "RC-273",
+   "u": "U0008",
+   "chars": [
+    19065,
+    19217
+   ],
+   "largura": 152,
+   "verificada": true,
+   "texto": "Então assim, aí Agostinho bateu na mesa e disse: \"A partir de hoje, quem desconfia de que a vida não é boa ou que Deus não é perfeito, vai pro inferno\"."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0026",
+   "chars": [
+    55725,
+    55870
+   ],
+   "largura": 145,
+   "verificada": true,
+   "texto": "Esse ser talvez não seja bom. Cacetada é só amor, talvez não. Ele é o quê? O que os espíritos dizem? É um ser. puro. Puro não quer dizer bondoso."
+  },
+  {
+   "codigo": "RC-037",
+   "u": "U0006",
+   "chars": [
+    5032,
+    5349
+   ],
+   "largura": 317,
+   "verificada": true,
+   "texto": "E mais especificamente, a cerca de 2700 anos para cá, quando um certo divisor de águas, seguramente promovido através de um plano, quando na Índia Capilas Sidart Gautama produziram o Squia e o ismo, dizendo, ó, essa história de Deuses, de religião, esqueçam, tá estragando a vida humana que ainda está no laboratório."
+  },
+  {
+   "codigo": "RC-770",
+   "u": "U0033",
+   "chars": [
+    64745,
+    64883
+   ],
+   "largura": 138,
+   "verificada": true,
+   "texto": "Então tudo que foi feito foi feito pelo verbo criador, porque sem esse verbo, nada do que foi feito teria sido feito sozinho pelo criador."
+  },
+  {
+   "codigo": "RC-530",
+   "u": "U0057",
+   "chars": [
+    121032,
+    121117
+   ],
+   "largura": 85,
+   "verificada": true,
+   "texto": "Mas o mentalma que eu criei foi para eu não fazer isso, para eu não me repetir nunca."
+  }
+ ],
+ "recusa": []
+}
