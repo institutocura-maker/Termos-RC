@@ -122,3 +122,39 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 ---
 
 **Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `f4aa78c`
+
+---
+
+## 🔧 ADENDO — sessão leve (02/09/2026, branch `arena/01a06429-termos-rc`)
+
+Após o handoff acima, executou-se uma **sessão leve de fechamento de pontas** (sem novo
+garimpo). Alterações:
+
+### 1. Correção de consistência `ficha ↔ termos/` (auditoria da fila de materialização)
+A fila de materialização (`ficha=False`) tinha **3 códigos cuja ficha já existia em disco**
+(termos/RC-*.md), violando a regra da tabela-mestra (`ficha: True se existe ficha detalhada`):
+
+| Código | Ficha em disco | Correção |
+|---|---|---|
+| RC-004 | `termos/RC-004-elohim.md` | `ficha=False → True` |
+| RC-396 | `termos/RC-396-kvaser-e-freya.md` | `ficha=False → True` |
+| RC-503 | `termos/RC-503-mavatna.md` | `ficha=False → True` |
+
+**Resultado:** base 100% consistente — **620 `ficha=True` = 620 arquivos em `termos/`**;
+fila de materialização real = **306** (antes 309). `Validator: OK: 926 termos, 1869 relações`.
+
+### 2. Espelhos regenerados
+- `base-terminologica.xlsx` (7 abas) e `base-terminologica-leitura.docx` regenerados com
+  `python3 ferramentas/build_xlsx.py` e `python3 ferramentas/build_word.py`.
+  Contagem: **926 termos · 620 fichas · 1869 relações · 102 obras**.
+
+### 3. CONTINUIDADE.md atualizado
+- Adicionada seção registrando os **5 ciclos Esteva Leve** fechados nesta data
+  (P2024-03-17, P2024-02-04, P2024-01-13, P2023-10-15, P2023-11-18) — que ainda não
+  constavam do histórico, mais o registro da correção pós-ciclo.
+
+### Estado final da sessão
+- **926 termos · 620 fichas · 306 na fila de materialização · 1.869 relações · 102 obras**
+- Working tree limpo após commit; nada inventado; sem novos códigos nem novas fichas nesta sessão.
+
+---

@@ -1642,3 +1642,40 @@ Com o working tree limpo antes do `cp`, o `git add -A` detecta corretamente remo
 - Índices sincronizados.
 
 **Estado:** 770 termos · 1.830 relações · RC-771 livre · 407 fichas · 80 obras · **22 apostilas concluídas**.
+
+---
+
+## Esteira Leve — 5 ciclos processados em 02/09/2026 (sessão 01a0614c)
+
+Fluxo "esteira leve" (Garimpo → Devolutiva → Aplicação → Códigos novos), 125 pérolas
+extraídas no total, +38 códigos novos (RC-889 a RC-926), 40 fichas ampliadas. Base
+passou de 888 para **926 termos**. Todos os ciclos FECHADOS (devolutiva aprovada).
+
+### P2024-03-17 «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo»
+- 25 pérolas · 19 fichas ampliadas · +3 códigos: RC-889 (Biblioteca Genômica Humana), RC-890 (Eu Observador), RC-891 (Ismos como Limitação Genômica).
+- SHA256 `a64980e…765756e` · arquivo 113 KB.
+
+### P2024-02-04 «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião»
+- 25 pérolas · 6 fichas ampliadas · +7 códigos: RC-892 a RC-898 (Pós-Verdade; Pecado Original como Narrativa Cruel; Qualia; Bondade Humana; Point Interdimensional; Código Filosófico Pessoal; Choque de Realidade).
+- SHA256 `ff55b65…4472708` · arquivo 97 KB.
+
+### P2024-01-13 «A Teia da Vida e o Circuito Oculto dos Deuses»
+- 25 pérolas · 6 fichas ampliadas · +10 códigos: RC-899 a RC-908 (Bolhas Psíquicas; Germe da Morte; Domínios de Morfeu; Tártaro/Reides; Umbrais; Evangelho de Bartolomeu; Tions; Yoga Tibetana dos Sonhos; Tonteltã; Sonhos como Realidades Paralelas).
+- SHA256 `d09dfbd…757ec90f` · arquivo 115 KB.
+
+### P2023-10-15 «Delírio Humano a Insensatez Espiritual da Busca Religiosa»
+- 25 pérolas · 5 fichas ampliadas · +8 códigos: RC-909 a RC-916 (Deus Não Se Incomoda com o Sofrimento; O Bem Feito Apenas por Humanos; DNA com 2 Hélices Ligadas; Aparições Marianas; Delírio Coletivo; Frodo e Sam; Westworld como Metáfora; O Banquete Metafórico).
+- SHA256 `3e3ccc1…a4898e4` · arquivo 137 KB.
+
+### P2023-11-18 «O Reciclador das Informações Universais a Limpeza da Criação»
+- 25 pérolas · 4 fichas ampliadas · +10 códigos: RC-917 a RC-926 (Reciclador das Informações Universais; Entropia e Sujeira Original; Vrites; Tátivas; Niroda; Egrégora e Campo Quântico; Programas Encarnatórios; Loop Mental; Espírito como Ator; Lixo de Informações Apodrecidas).
+- SHA256 `ac40a2f…d0c61bc` · arquivo 100 KB.
+
+### Pós-ciclo (02/09/2026, sessão 01a06429 — pontas fechadas)
+- Auditoria de consistência `ficha ↔ termos/`: 3 fichas materializadas no disco estavam marcadas
+  `ficha=False` na tabela-mestra → corrigido para `True`: **RC-004 (Elohim), RC-396 (Kvasir e Freya),
+  RC-503 (Mavátma/Mavatna/Mavat)**. Base agora 100% consistente (620 fichas em disco = 620 `ficha=True`;
+  fila de materialização = 306). Validator: `OK: 926 termos, 1869 relações`.
+- Espelhos regenerados: `base-terminologica.xlsx` (7 abas) e `base-terminologica-leitura.docx` — **926 termos · 620 fichas · 1869 relações · 102 obras**.
+
+**Estado:** 926 termos · 1.869 relações · 620 fichas · 102 obras.
