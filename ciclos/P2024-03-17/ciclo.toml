@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2024-03-17 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2024-03-17"
+titulo = "A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo"
+data_fonte = "17/03/2024"
+pasta_fonte = "ciclos/P2024-03-17"
+arquivo_fonte = "original.txt"
+sha256_fonte = "a64980e326e2b2ab12065ba043a1c7864e57af6d3a3f71c298877eaf6365756e"
+
+baseline_commit = "74fd89b"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 113 KB · 18 linhas. Conteúdo central: Biblioteca genômica humana como laboratório cósmico; DNA como única coisa viva desde a queda do criador; Influências de Asgard/Igdrasil nos humanos via elfos sobreviventes do Ragnarok; Kvaser e a mistura genética da tigela; Transferência de genes de Marte para a Terra; Anunnakis e manipulação genética (FOXP2); Pandora e Eva como vertentes genéticas; Aspecto devocional como controle da biblioteca genômica; Tikum cabalístico como reparo do DNA do criador; Eu observador vs eu usufruidor; Índia como biblioteca genômica estacionada; Lilit e os rakchasas."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
