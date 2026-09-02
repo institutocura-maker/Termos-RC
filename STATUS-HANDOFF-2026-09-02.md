@@ -1,6 +1,6 @@
 # STATUS-HANDOFF — 02/09/2026 (continuação da sessão)
 
-**Branch:** `arena/01a0614c-termos-rc` · **HEAD:** `e280bbd` (P2024-02-04 FASE 4 concluído) · remoto sincronizado.
+**Branch:** `arena/01a0614c-termos-rc` · **HEAD:** `9b75827` (P2024-01-13 FASES 2-4 concluído) · remoto sincronizado.
 
 ---
 
@@ -22,8 +22,8 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 ## Estado da Base (atualizado em 02/09/2026)
 
-- **898 termos · 1.869 relações · 589 arquivos · 586 `ficha=True`**
-- **7 códigos novos criados nesta sessão:** RC-889 a RC-898 (exceto RC-899, que não existe)
+- **908 termos · 1.869 relações · 599 arquivos · 596 `ficha=True`**
+- **17 códigos novos criados nesta sessão:** RC-889 a RC-908
   - RC-889 — Biblioteca Genômica Humana (P2024-03-17)
   - RC-890 — Eu Observador (P2024-03-17)
   - RC-891 — Ismos como Limitação Genômica (P2024-03-17)
@@ -34,10 +34,29 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
   - RC-896 — Point Interdimensional (P2024-02-04)
   - RC-897 — Código Filosófico Pessoal (P2024-02-04)
   - RC-898 — Choque de Realidade (P2024-02-04)
+  - RC-899 — Bolhas Psíquicas (P2024-01-13)
+  - RC-900 — Germe da Morte (P2024-01-13)
+  - RC-901 — Domínios de Morfeu (P2024-01-13)
+  - RC-902 — Tártaro/Reides (P2024-01-13)
+  - RC-903 — Umbrais (P2024-01-13)
+  - RC-904 — Evangelho de Bartolomeu (P2024-01-13)
+  - RC-905 — Tions (P2024-01-13)
+  - RC-906 — Yoga Tibetana dos Sonhos (P2024-01-13)
+  - RC-907 — Tonteltã (P2024-01-13)
+  - RC-908 — Sonhos como Realidades Paralelas (P2024-01-13)
 
 ---
 
 ## Ciclos Processados Nesta Sessão (02/09/2026)
+
+### ✅ P2024-01-13 «A Teia da Vida e o Circuito Oculto dos Deuses» — FECHADO
+- **Arquivo:** `uploads_recepcao/2024-01-13 - A Teia da Vida e o Circuito Oculto dos Deuses.txt` (115 KB, 74 linhas)
+- **SHA256:** `d09dfbddaa6a15727ddaa5960a9ba90c8570d26c693a09d7a69f1fec757ec90f`
+- **Garimpo:** 25 pérolas identificadas em `ciclos/P2024-01-13/pacote_P2024-01-13.txt`
+- **Ampliações:** 6 fichas ampliadas (RC-072, RC-479, RC-490, RC-557, RC-559, RC-628)
+- **Códigos novos:** 10 (RC-899 a RC-908)
+- **Δ realizado:** `arquivos +10 · ficha_true +10 · termos +10 · relacoes 0 · vinculos +6`
+- **Commits:** `ff69eaa` → `9b75827` (push OK)
 
 ### ✅ P2024-02-04 «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» — FECHADO
 - **Arquivo:** `uploads_recepcao/2024-02-04 - A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião.txt` (97 KB, 59 linhas)
@@ -100,4 +119,4 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 ---
 
-**Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `e280bbd`
+**Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `9b75827`
