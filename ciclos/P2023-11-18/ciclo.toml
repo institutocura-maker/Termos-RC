@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2023-11-18 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2023-11-18"
+titulo = "O Reciclador das Informações Universais a Limpeza da Criação"
+data_fonte = "18/11/2023"
+pasta_fonte = "ciclos/P2023-11-18"
+arquivo_fonte = "original.txt"
+sha256_fonte = "ac40a2f0717648a2b7c5dafd7460676e4399f234f0f7cb02e2262d0dfc0d61bc"
+
+baseline_commit = "984231b"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 100 KB · 111 linhas. Conteúdo central: O ser humano como reciclador das informações universais; Entropia e sujeira original de origem mental; Vrites (bits de informação apodrecidos); Tátivas (algoritmos mentais básicos); Citas (núcleos de memória); Niroda (recolhimento e ressignificação via disciplina respiratória); Egrégora e campo quântico; O universo como processador de dados; A vida como captadora de informação; Eva e as pelpes que embassaram a comunicação; Lilif, Pandora, Noreia como figuras que mudaram a história; Morfeu e os sonhos; Programas encarnatórios; Karma e resgate; Espírito como ator que usa o eu humano como personagem."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
