@@ -15,12 +15,12 @@ exportar_candidatas = false
 
 cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 113 KB · 18 linhas. Conteúdo central: Biblioteca genômica humana como laboratório cósmico; DNA como única coisa viva desde a queda do criador; Influências de Asgard/Igdrasil nos humanos via elfos sobreviventes do Ragnarok; Kvaser e a mistura genética da tigela; Transferência de genes de Marte para a Terra; Anunnakis e manipulação genética (FOXP2); Pandora e Eva como vertentes genéticas; Aspecto devocional como controle da biblioteca genômica; Tikum cabalístico como reparo do DNA do criador; Eu observador vs eu usufruidor; Índia como biblioteca genômica estacionada; Lilit e os rakchasas."
 teto = "suspenso-com-cadencia"
-termos_novos = []
+termos_novos = ["RC-889", "RC-890", "RC-891"]
 veto_lexico = []
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0
-ficha_true = 0
-termos = 0
+arquivos = 3
+ficha_true = 3
+termos = 3
 relacoes = 0
