@@ -91,3 +91,22 @@ cópia **byte-idêntica (SHA-256)** em `apostilas/CONCLUIDAS/<pasta>/original.tx
 e recuperáveis no histórico Git. Registro completo (SHA, bytes, destino) em
 [`REGISTRO-LIMPEZA-2026-08-31-11.json`](./REGISTRO-LIMPEZA-2026-08-31-11.json).
 A caixa de entrada está **zerada** e pronta para a próxima palestra.
+
+## Limpeza nº 12 (2026-09-02 — esvaziamento dos .txt de palestras já processadas)
+
+Auditoria **SHA-256 byte-a-byte** de todos os `.txt` desta pasta contra os `original.txt`
+versionados em `ciclos/*/`, `apostilas/CONCLUIDAS/*/` e `livros/**/`. Resultado:
+
+- **34 .txt removidos** — cada um com cópia **byte-idêntica (SHA-256)** já versionada no
+  repositório (destinos registrados um a um). Total de **4.033.557 bytes** liberados.
+  Registro completo em [`backups/REGISTRO-LIMPEZA-2026-09-02.json`](../backups/REGISTRO-LIMPEZA-2026-09-02.json).
+- **2 .txt RETIDOS** (sem cópia byte-idêntica no repositório → não removidos, conforme política):
+  1. `2024-03-02 - O Drama Espiritual de Jesus.txt` (109.709 B) — **versão divergente** do
+     `original.txt` de `ciclos/P2024-03-02` (111.154 B). Requer decisão do curador
+     (qual é a versão canônica / se a versão desta pasta deve ser versionada antes de remover).
+  2. `2025-06-14 - PALESTRA SOBRE A QUEDA DO CRIADOR.txt` (13.180 B) — **fragmento cru** (título +
+     um trecho) do conteúdo já processado na versão "-Refatorada" (`ciclos/P2025-06-14`).
+     Conteúdo não-idêntico à versão versionada; requer decisão do curador.
+
+**Estado atual da pasta:** apenas arquivos de metadados + **2 .txt retidos** (acima), à espera
+de decisão do curador.

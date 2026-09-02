@@ -1,0 +1,280 @@
+{
+  "data": "2026-09-02",
+  "contexto": "limpeza uploads_recepcao — copia byte-idêntica verificada SHA-a-SHA",
+  "removidos": 34,
+  "total_bytes": 4033557,
+  "arquivos": [
+    {
+      "arquivo": "2012-02-19 - Xadrez Cósmico de Brahma, Vishnu e Shiva.txt",
+      "sha256": "df3b69dd0395916c26ea8107dae9f60eeebb76b96aacebdf166d81e37fa0de8c",
+      "bytes": 44452,
+      "destino": [
+        "ciclos/P2012-02-19/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2017-10-14 Da Base Atlan ao Colégio Druídico.txt",
+      "sha256": "fb7619e4190287e6781a95d17f2a457bc148676b63057c7ef60a1670baf5694d",
+      "bytes": 134307,
+      "destino": [
+        "ciclos/P2017-10-14/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2018-12-15 - Terra Atlantis – Aprofundamento.txt",
+      "sha256": "5d26edf6650dd3451539e2ea32ed3e413eab59b654345d38d2281dbf6602a0fe",
+      "bytes": 137332,
+      "destino": [
+        "ciclos/P2018-12-15/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2018-12-16 Terra Atlantis - Era Sapiens.txt",
+      "sha256": "6d933bbfd682e87c688d279d1470084f5ee76e7bff171d2be872aa257e257e0d",
+      "bytes": 125958,
+      "destino": [
+        "ciclos/P2018-12-16/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2019-08-25 - Os Três Fornos Replicadores do Projeto Talm.txt",
+      "sha256": "590d3da9849fbb2669ea72a8b516e8c458191f74e45af4d996a6fc362e8a87fd",
+      "bytes": 100858,
+      "destino": [
+        "apostilas/CONCLUIDAS/2019-08-25_os_tres_fornos_replicadores_do_projeto_talm/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2021-01-30 - A Mensagem TALM e os Fios Soltos do Destino.txt",
+      "sha256": "6f530e230e6cb385a99e56302590736092a42b5801faf30f26b60f10cc545cf5",
+      "bytes": 111548,
+      "destino": [
+        "ciclos/P2021-01-30/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2021-02-28 - Tragédia Anunciada - As Fórmulas Mentais do Poder Demo.txt",
+      "sha256": "8f6ec32107f6155bf3cf70c55bf476584dd5226a11b7c434d13f83605c55ac51",
+      "bytes": 113308,
+      "destino": [
+        "ciclos/P2021-02-28/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2021-04-10 - O Fechamento dos Portais e o Impasse no Exílio Espiritual de Len Mion - Aprofundamento.txt",
+      "sha256": "657dff70552dc8b0314aaed070fb0159492267015a89f58c3c0e25b37a5074c8",
+      "bytes": 109422,
+      "destino": [
+        "ciclos/P2021-04-10/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2021-06-26 - Shiva - A Reconstrução do Erro de Brahma e o Tikum.txt",
+      "sha256": "c77379a9ba0ac7fd7cb49a246eef0f6ad8e84304b95b617980dfad94b9f3cb5a",
+      "bytes": 106740,
+      "destino": [
+        "ciclos/P2021-06-26/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-05-07 - Shiva, o Projeto Talm e os Mistérios de Awaylengam.txt",
+      "sha256": "731f90d2c9e3e205d5d26621a5b4e4b87d27544a9a5cb87e73e616287f8f1191",
+      "bytes": 126422,
+      "destino": [
+        "ciclos/P2022-05-07/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-07-16 - Do Ramayana ao Mahabharata.txt",
+      "sha256": "e3cdfda9e019b61c0fbce72ff66bc732c97757075992668997aba3c4f13baf64",
+      "bytes": 135337,
+      "destino": [
+        "ciclos/P2022-07-16/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-09-17 - A Hipóstase dos Arcontes.txt",
+      "sha256": "0120f9df4de33430bc322b511eda5b25c7c99c812edf695125ca92bc93d4ab44",
+      "bytes": 122186,
+      "destino": [
+        "ciclos/P2022-09-17/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-09-18 - Os Níveis de Estresse Extremo da Criação.txt",
+      "sha256": "bd4dc9a6ecaa0321d03d4b40fa29c85b455e671bee53a575359a65badef25570",
+      "bytes": 104466,
+      "destino": [
+        "ciclos/P2022-09-18/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-09-25 - O Contexto Espiritual da Construção de Brasília.txt",
+      "sha256": "cadfc8356b153a1959a449b4d7b28fd7637d3ea76fd8b6a726abd5937fca92ad",
+      "bytes": 98333,
+      "destino": [
+        "ciclos/P2022-09-25/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-10-01 - A Wyrd e a Espiritualidade.txt",
+      "sha256": "2f32aa6fded68609132c36879963ec1792ada2765250369a2edce0918947db5e",
+      "bytes": 109478,
+      "destino": [
+        "ciclos/P2022-10-01/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-11-19 - No Princípio era o Bem! Será.txt",
+      "sha256": "06867098d9164537af296e4587f0b73cf2b45e8c88dcb225890b5c3fbb945fcd",
+      "bytes": 144387,
+      "destino": [
+        "ciclos/P2022-11-19/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-11-20 - A Incompreendida Nova Aliança proposta por Jesus.txt",
+      "sha256": "1f065bd7d7dc4281231035ccec457f7f707afa1614af990424542b284c7ffca4",
+      "bytes": 141322,
+      "destino": [
+        "ciclos/P2022-11-20/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-11-26 - Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade.txt",
+      "sha256": "230f01b681b6dda16955739fc87afe5481284527ad14eda3f35617d4c5b23aae",
+      "bytes": 107893,
+      "destino": [
+        "ciclos/P2022-11-26/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2022-12-03 - O Ocaso do Criador e a Rebelião dos Elétrons.txt",
+      "sha256": "254fce682940f9f016d0b8a129f0aeb68d5f34238dfe5f0e3c5cdc4b16a92b29",
+      "bytes": 126006,
+      "destino": [
+        "ciclos/P2022-12-03/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2023 -11-18 - O Reciclador das Informações Universais a Limpeza da Criação.txt",
+      "sha256": "ac40a2f0717648a2b7c5dafd7460676e4399f234f0f7cb02e2262d0dfc0d61bc",
+      "bytes": 101383,
+      "destino": [
+        "ciclos/P2023-11-18/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2023-02-11 - Agente Humano Jesus e os Arcontes.txt",
+      "sha256": "f858750aae17a57a479c4954f0e0f8d894e5f344430e65f1827f32a6f458b25a",
+      "bytes": 140821,
+      "destino": [
+        "ciclos/P2023-02-11/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2023-02-12 - A Desconexão dos Desígnios Proféticos do Judaísmo, do Cristianismo e do Islamismo.txt",
+      "sha256": "159264c3d9dfcb9cd14f62ac771c0908315fcfd6322a0da5d8dd1a639f2a350f",
+      "bytes": 135848,
+      "destino": [
+        "ciclos/P2023-02-12/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2023-07-09 - A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons.txt",
+      "sha256": "1bd857c9321726975dd0bc3c1ae762f36817f23bf98c9074664a1f33f4929354",
+      "bytes": 106248,
+      "destino": [
+        "ciclos/P2023-07-09/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2023-08-27 - Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di.txt",
+      "sha256": "22e64eb093cee5a662be74c87f7bab808c31248ad866c45ed7f8c67667fd4fc8",
+      "bytes": 96228,
+      "destino": [
+        "ciclos/P2023-08-27/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2023-10-15 - Delírio Humano a Insensatez Espiritual da Busca Religiosa.txt",
+      "sha256": "3e3ccc184271c9610f52dea0d2bc1230c0d1c508fea6e96cd24c71c93a4898e4",
+      "bytes": 139301,
+      "destino": [
+        "ciclos/P2023-10-15/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2024-01-13 - A Teia da Vida e o Circuito Oculto dos Deuses.txt",
+      "sha256": "d09dfbddaa6a15727ddaa5960a9ba90c8570d26c693a09d7a69f1fec757ec90f",
+      "bytes": 117551,
+      "destino": [
+        "ciclos/P2024-01-13/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2024-02-04 - A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião.txt",
+      "sha256": "ff55b65dae3ad5ae24610fcefa151d3261f81164e76bd07895cc425bc4472708",
+      "bytes": 97103,
+      "destino": [
+        "ciclos/P2024-02-04/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2024-03-17 - A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo.txt",
+      "sha256": "a64980e326e2b2ab12065ba043a1c7864e57af6d3a3f71c298877eaf6365756e",
+      "bytes": 115222,
+      "destino": [
+        "ciclos/P2024-03-17/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2024-06-16 - O Projeto TALM, os Fenvans e os Humanos.txt",
+      "sha256": "0b73a348fadfaf1b68bafe69fc39ab918bc85eae453c47791e5d292e8cf3ffd8",
+      "bytes": 92198,
+      "destino": [
+        "ciclos/P2024-06-16/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2025-05-10 - Mistérios do Apocalipse.txt",
+      "sha256": "3b722743fbd2a09b2cbe82d12539734fb74beeacae7b6a4ff9ce44a946990b81",
+      "bytes": 111019,
+      "destino": [
+        "ciclos/P2025-05-10/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2025-06-14 - A Consciência Humana e a Chave da Decifração Universal.txt",
+      "sha256": "93e0a5931ad4e91985e59fec1ef27129d62f70e5195057337d5973f55376bd6a",
+      "bytes": 182412,
+      "destino": [
+        "ciclos/P2025-06-14b/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2025-06-14 - PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada.txt",
+      "sha256": "45d8f46a2f4712ab3ffce3d7824946a39e772d41da88731167bfd2fa11df5801",
+      "bytes": 100491,
+      "destino": [
+        "ciclos/P2025-06-14/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2025-12-14 - Os Fundamentos da Revelação Cósmica.txt",
+      "sha256": "ad646718063f817e300255eb02cf85bda8efe56692fb0d222554ac5d2024be54",
+      "bytes": 144149,
+      "destino": [
+        "ciclos/P2025-12-14/original.txt"
+      ]
+    },
+    {
+      "arquivo": "2026-03-21 - Samudra Manthan A Enigmatica Alquimia de Vishnu.txt",
+      "sha256": "1ab688457b25213074fc35f7fb6f74c23facbf3ab5ce41817fe8a3a4bf5ee0cb",
+      "bytes": 153828,
+      "destino": [
+        "ciclos/P2026-03-21/original.txt"
+      ]
+    }
+  ]
+}
