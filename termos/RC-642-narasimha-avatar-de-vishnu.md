@@ -50,3 +50,19 @@ Consultar relações acima.
 Candidato mitológico; cruzar com obras sobre Vishnu/Shiva.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Hiranyaksha — demônio filho de Shiva+Brama, morto por Varaha]:** «Existia um ser chamado Iran [Hiranyaksha] e um irmão chamado Irani Akashipu [Hiranyakashipu]. E esse ser chamado Iranea era um demônio [...] Hirani Akaxa aprendeu a importunar Vno, Chiva e Brama se concentrando neles o tempo inteiro, pedindo o quê? Poderes, fórmulas de poder [...] Brama chegou diante de Iraniak e disse: 'O que que você quer, cara?' Ah, eu quero que você me dê poderes para que eu não seja morto nunca por nenhum assura, nenhum deva e nenhum dos animais que existem [...] A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-135 (Vishnu).
+
+- **[Hiranyakashipu — irmão de Hiranyaksha, morto por Narasimha]:** «Aí o irmão de Irane Aa fica pé da vida com VN porque matou o irmão dele, ou seja, Irane Akashipu. Fica p da vida com Virgem e passou a adorar todos os deuses menos Virgem [...] Para ele também é dado [...] o poder que este tinha sobre os três mundos [...] E eu não posso ser morto nem de manhã, nem de tarde, nem de noite, e em lugar algum.» — «Aí na hora em que a tarde começou a ser substituída pela noite [...] nessa hora, Iranian Cashipu sobe o joelho dele [...] e com a unha abre o corpo de Irani Cachipu e o mata sobre o joelho dele.» — ver RC-135 (Vishnu).
+
+- **[Sharabha — avatar de Shiva mais forte que Narasimha]:** «A fúria que ele usou para destruir Hiranyakashipu foi tal que ele não conseguia deixar de ser Narasimha e saiu matando todo mundo. Aí os devas enlouquecidos pediram ajuda a Shiva, e Shiva criou um avatar chamado Sharabha, mais forte que Narasimha, para enfrentá-lo.» — «Mas na hora da briga ele dizia: 'Virno, acorde, acorde. É você, assim, irmã? Aqui sou eu. Chiva em xaraba. Eu só criei xaraba para impedir você de continuar matando todo mundo e para ver se eu consigo lhe acordar.'» — ver RC-102 (Shiva), RC-135 (Vishnu).
+
+- **[Narasimha e o início dos problemas de Jesus]:** «Jesus nem existia, mas começou a se ferrar na época em que Vishnu foi Narasimha. Ou seja, o espírito que viria a ser de Jesus, quando esse espírito foi Narasimha, ferrou com tudo para frente [...] O tempo que o espírito que viria ser Jesus ficou sendo Narasimha, ferrou nesse espírito, mais ainda a condição búdica e manásica dele.» — ver RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

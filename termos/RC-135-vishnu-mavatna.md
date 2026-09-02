@@ -72,3 +72,17 @@ Com isso:
 | Kama (personificação do desejo) | RC-622 | aresta pré-existente; arquivo existe |
 | Narasimha (avatar de Vishnu) | RC-642 | aresta pré-existente; arquivo existe |
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | aresta pré-existente; arquivo existe |
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Matsya (peixe) — primeira "encarnação" de Vishnu para salvar informações do dilúvio]:** «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo fez isso: criar alguém, um peixe, devido ao dilúvio.» — ver RC-757 (Vaishnavismo).
+
+- **[Kurma (tartaruga) — segunda "encarnação", recebeu deuses na loca Vaikuntha]:** «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — «Tem uma loca X composta por algo parecido com o que hoje a gente chama de leite. E se esse leite fosse batido [...] da efervescência dos elementos químicos surgiria algo.» — ver RC-734 (Samudra Manthana).
+
+- **[Varaha (javali) — matou Hiranyaksha]:** «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — ver RC-642 (Narasimha).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
