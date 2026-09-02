@@ -1,6 +1,6 @@
 # STATUS-HANDOFF — 02/09/2026 (continuação da sessão)
 
-**Branch:** `arena/01a0614c-termos-rc` · **HEAD:** `0007bde` (P2023-10-15 FASES 2-4 concluído) · remoto sincronizado.
+**Branch:** `arena/01a0614c-termos-rc` · **HEAD:** `f4aa78c` (P2023-11-18 FASES 2-4 concluído) · remoto sincronizado.
 
 ---
 
@@ -22,40 +22,25 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 ## Estado da Base (atualizado em 02/09/2026)
 
-- **916 termos · 1.869 relações · 607 arquivos · 604 `ficha=True`**
-- **25 códigos novos criados nesta sessão:** RC-889 a RC-916
-  - RC-889 — Biblioteca Genômica Humana (P2024-03-17)
-  - RC-890 — Eu Observador (P2024-03-17)
-  - RC-891 — Ismos como Limitação Genômica (P2024-03-17)
-  - RC-892 — Pós-Verdade (P2024-02-04)
-  - RC-893 — Pecado Original como Narrativa Cruel (P2024-02-04)
-  - RC-894 — Qualia como Processamento Humano (P2024-02-04)
-  - RC-895 — Bondade Humana (P2024-02-04)
-  - RC-896 — Point Interdimensional (P2024-02-04)
-  - RC-897 — Código Filosófico Pessoal (P2024-02-04)
-  - RC-898 — Choque de Realidade (P2024-02-04)
-  - RC-899 — Bolhas Psíquicas (P2024-01-13)
-  - RC-900 — Germe da Morte (P2024-01-13)
-  - RC-901 — Domínios de Morfeu (P2024-01-13)
-  - RC-902 — Tártaro/Reides (P2024-01-13)
-  - RC-903 — Umbrais (P2024-01-13)
-  - RC-904 — Evangelho de Bartolomeu (P2024-01-13)
-  - RC-905 — Tions (P2024-01-13)
-  - RC-906 — Yoga Tibetana dos Sonhos (P2024-01-13)
-  - RC-907 — Tonteltã (P2024-01-13)
-  - RC-908 — Sonhos como Realidades Paralelas (P2024-01-13)
-  - RC-909 — Deus Não Se Incomoda com o Sofrimento (P2023-10-15)
-  - RC-910 — O Bem Feito Apenas por Humanos (P2023-10-15)
-  - RC-911 — DNA com 2 Hélices Ligadas (P2023-10-15)
-  - RC-912 — Aparições Marianas (P2023-10-15)
-  - RC-913 — Delírio Coletivo (P2023-10-15)
-  - RC-914 — Frodo e Sam (P2023-10-15)
-  - RC-915 — Westworld como Metáfora (P2023-10-15)
-  - RC-916 — O Banquete Metafórico (P2023-10-15)
+- **926 termos · 1.869 relações · 617 arquivos · 614 `ficha=True`**
+- **35 códigos novos criados nesta sessão:** RC-889 a RC-926
+  - RC-889 a RC-898 (P2024-03-17 + P2024-02-04)
+  - RC-899 a RC-908 (P2024-01-13)
+  - RC-909 a RC-916 (P2023-10-15)
+  - RC-917 a RC-926 (P2023-11-18)
 
 ---
 
 ## Ciclos Processados Nesta Sessão (02/09/2026)
+
+### ✅ P2023-11-18 «O Reciclador das Informações Universais a Limpeza da Criação» — FECHADO
+- **Arquivo:** `uploads_recepcao/2023-11-18 - O Reciclador das Informações Universais a Limpeza da Criação.txt` (100 KB, 111 linhas)
+- **SHA256:** `ac40a2f0717648a2b7c5dafd7460676e4399f234f0f7cb02e2262d0dfc0d61bc`
+- **Garimpo:** 25 pérolas identificadas em `ciclos/P2023-11-18/pacote_P2023-11-18.txt`
+- **Ampliações:** 4 fichas ampliadas (RC-086, RC-189, RC-794, RC-901)
+- **Códigos novos:** 10 (RC-917 a RC-926)
+- **Δ realizado:** `arquivos +10 · ficha_true +10 · termos +10 · relacoes 0 · vinculos +4`
+- **Commits:** `0e2b346` → `f4aa78c` (push OK)
 
 ### ✅ P2023-10-15 «Delírio Humano a Insensatez Espiritual da Busca Religiosa» — FECHADO
 - **Arquivo:** `uploads_recepcao/2023-10-15 - Delírio Humano a Insensatez Espiritual da Busca Religiosa.txt` (137 KB, 43 linhas)
@@ -136,4 +121,4 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 ---
 
-**Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `0007bde`
+**Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `f4aa78c`
