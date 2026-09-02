@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2023-10-15 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2023-10-15"
+titulo = "Delírio Humano a Insensatez Espiritual da Busca Religiosa"
+data_fonte = "15/10/2023"
+pasta_fonte = "ciclos/P2023-10-15"
+arquivo_fonte = "original.txt"
+sha256_fonte = "3e3ccc184271c9610f52dea0d2bc1230c0d1c508fea6e96cd24c71c93a4898e4"
+
+baseline_commit = "6509ea4"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 137 KB · 43 linhas. Conteúdo central: Falência do psiquismo humano e infantilismo psicológico; Crença em Deus benevolente que não se incomoda com o sofrimento; Religiões usadas para anular a racionalidade e apagar memórias ancestrais; Westworld como metáfora de condicionamento por algoritmos biológicos; Livre-arbítrio vs impulsos programados; O bem feito apenas por humanos (não por Deus); Por que Deus não se incomoda com o sofrimento?; DNA com apenas 2 hélices ligadas (escravidão genômica); Krishna como avatar que se fez maior que a Trimurti; Buda nunca se disse Deus; Aparições marianas como reforço de crença religiosa; Dignidade pessoal e prática do bem como único sentido filosófico."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
