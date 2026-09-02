@@ -107,6 +107,7 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
@@ -135,8 +136,7 @@ Quarentena mitológica — leitura do autor.
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Nornes — criadas por Orlog, receberam parte do conhecimento]:** «Foi quando Orlog decidiu criar o que na mitologia nórdica se chama as nornes [...] E esses ou essas nornes recebem parte do conhecimento de Orlog, ainda que Orlog tenha ficado com maior parte do conhecimento para ele mesmo. E por que que Orlog fez isso? Porque ele próprio tinha dúvida se o que ele havia descoortinado era melhor que ele jamais tivesse descortinado. Ou já que descortinou tinha que ser organizado.» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
-
+- **[Nornes — criadas por Orlog, receberam parte do conhecimento]** «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do conhecimento de Orlog, ainda que Orlog tenha ficado com maior parte do conhecimento para ele mesmo» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
 
 ## Fontes
 | Fonte | Localização | Tipo |

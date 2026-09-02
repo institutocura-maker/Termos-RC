@@ -21,6 +21,7 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-12-17 — Lúcifer e a Rebelião dos Elétrons | U0004 (S4) | — | palestra (fonte primária, STT) |
 | P2023-12-03 — A Rebelião de Lúcifer ainda por ser Finalizada | (todas) | — | palestra (fonte secundária, paralelo) |
 
@@ -67,12 +68,9 @@ Correção aplicada em **2026-08-31** via fix de terminologia canônica — subs
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Pre-história da rebelião — dores dos mamíferos acumuladas nos elétrons]:** «Quando a vida biológica no nosso universo evoluiu para outras raças [...] aqui houve no lado biológico o que corresponde ao que Shiva fez no lado antimaterial, quando os demos, diferente dos clones, se achavam um alguém. Aqui, quando anfíbios, répteis reptilianos surgiram minimamente racionalizados [...] eles começaram a sentir a sensação psíquica da dor. E com evolução, quando surgiu mamífero, primata e humanoides [...] essa sensação ficou ainda mais forte na percepção cerebral [...] ao longo dos últimos 200 milhões de anos e mais especificamente ao longo dos últimos 100 milhões de anos, os elétrons começaram a receber a marcação das dores.» — ver RC-378 (Elétron).
-
-- **[Colapso atual — universo vizinho desde 2014, nosso universo desde 2007]:** «Nós chegamos a um ponto tal de infecção da memória dos elétrons nos tempos atuais que nós estamos vivendo, em que simplesmente tudo começou a colapsar. Só que o tudo aí é o universo vizinho já tava colapsando desde 2014. O nosso aqui começou a colapsar sistemas biológicos em 2007.» — ver RC-827 (Era do Colapso).
-
-- **[Família Iel — primeira a descobrir o problema dos elétrons]:** «A família Iel descobriu isso [...] E Lúcifer descobriu isso da pior maneira para ele e para todo mundo, porque terminou nessa percepção descortinando um painel virótico complicado que terminou surgindo e contagiou todo mundo.» — ver RC-109 (Família Val), RC-002 (Lúcifer).
-
+- **[Pre-história da rebelião — dores dos mamíferos acumuladas nos elétrons]** «os elétrons começaram a receber a marcação das dores num grau de pulsação psíquica que começou a acontecer algo muito estranho que os adores famílias Biodeco, não digo todas, mas as últimas começavam a notar, mas ninguém tentava, atentava com o que seria» — ver RC-378 (Elétron).
+- **[Colapso atual — universo vizinho desde 2014, nosso universo desde 2007]** «nós chegamos a um ponto tal de infecção da memória dos elétrons nos tempos atuais que nós estamos vivendo, em que simplesmente tudo começou a colapsar. Só que o tudo aí é o universo vizinho já tava colapsando desde 2014. O nosso aqui começou a colapsar sistemas bi Lógicos em 2007» — ver RC-827 (Era do Colapso).
+- **[Família Iel — primeira a descobrir o problema dos elétrons]** «a família Iel descobri isso e E Lucifer descobriu isso da pior maneira para ele e para todo mundo, porque terminou nessa percepção descortinando um painel virótico complicado que terminou surgindo e contagiou todo mundo» — ver RC-109 (Família Val), RC-002 (Lúcifer).
 
 ## Fontes
 | Fonte | Localização | Tipo |

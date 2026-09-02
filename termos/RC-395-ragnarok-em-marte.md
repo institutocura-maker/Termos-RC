@@ -138,12 +138,12 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Ragnarok — motivado pela Trimurti querendo destruir as flechas de Orlog/Moros]:** «O Ragnarok aconteceu [...] é porque a Trimurti queria destruir aquilo tudo para destruir as joias ou as setas de Moros/Orlog que Odin achou [...] a Trimurti queria destruir aquilo tudo para destruir as flechas.» — ver RC-730 (Yggdrasil), RC-454 (Moros), RC-396 (Kvaser).
-
+- **[Ragnarok — motivado pela Trimurti querendo destruir as flechas de Orlog/Moros]** «O rainarok aconteceu não é porque A brigou com B, brigou com C, brigou com D, é porque a trimurte queria destruir aquilo tudo para destruir, foi um momento de loucura da Trimurto, destruir as joias ou as setas de moros de ordem que acabar com aquela história, porque era todo mundo atrás daquilo» — ver RC-730 (Yggdrasil), RC-454 (Moros), RC-396 (Kvaser).
 
 ## Fontes
 | Fonte | Localização | Tipo |

@@ -43,6 +43,7 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | O Quarto Logos (B016) | caps. 5, 8, 9 | pp. 30–40, 60–75 (aprox.) | tema central da obra |
 | Painéis Emergentes (B031) | Glossário (Quarto Logos) | — | apoio (secundária) |
 
@@ -75,8 +76,7 @@ Ficha baseada em B016 (obra primária) + B031. Olm é o protagonista do B016 —
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Codificador de Zian — escola de decifração]:** «O codificador de Zian [...] criou chamada escola de decifração de Zian e alguns membros de cada família envolvidas com aquela sensação de que algo de errado tava existindo.» — a escola reuniu membros de várias famílias biodêmicas para investigar as "feridas na realidade" detectadas pelos processadores familiares. Ver RC-092 (Quarto Logos), RC-826 (Rebelião dos Elétrons).
-
+- **[Codificador de Zian — escola de decifração]** «E ele então criou chamada escola de decifração de Zel e alguns membros de cada família envolvidas com aquela sensação de de que algo de errado tava existindo» — a escola reuniu membros de várias famílias biodêmicas para investigar as feridas na realidade. Ver RC-092 (Quarto Logos), RC-826 (Rebelião dos Elétrons).
 
 ## Fontes
 | Fonte | Localização | Tipo |

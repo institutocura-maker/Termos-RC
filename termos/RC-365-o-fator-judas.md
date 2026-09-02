@@ -39,6 +39,7 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
@@ -68,8 +69,7 @@ Ficha baseada em B011 (obra primária) + B031. O Fator Judas conecta a trilogia 
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Eulian — espírito que encarnou como Judas Iscariotes]:** «Esse [Eulian] [...] o espírito de Eulian encarnaria depois como apóstolo de Jesus, Judas, aquele, exatamente aquele que o traiu.» — Eulian era membro da família Val; o mix genético Valel+Eulian deu origem ao nome "Val"; seu espírito encarnou posteriormente como Judas. Ver RC-109 (Família Val), RC-072 (Jesus).
-
+- **[Eulian — espírito que encarnou como Judas Iscariotes]** «Esse o espírito de Eulian encarnaria depois como apóstolo de Jesus, Judas, aquele, exatamente aquele que o traiu» — Eulian era membro da família Val; seu espírito encarnou posteriormente como Judas. Ver RC-109 (Família Val), RC-072 (Jesus).
 
 ## Fontes
 | Fonte | Localização | Tipo |

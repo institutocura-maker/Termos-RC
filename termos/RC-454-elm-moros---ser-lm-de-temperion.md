@@ -140,6 +140,7 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
@@ -273,12 +274,9 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Orlog = Moros — mesmo ser, mitologias diferentes]:** «A mitologia nórdica [...] surgiu com essa característica singular. Qual? [...] A de presumivelmente e presumidamente ser um compêndio de informações cujo objetivo era tentar deixar no entendimento da racionalidade humana, que havia sim em curso, que continuava em curso e que não havia acabado esse processo que se encontrava em curso. E que processo era esse? De enaltecer o conhecimento, a busca do conhecimento, a arquitetura de níveis de compreensão, sem dominação de quem quer que fosse, porque nunca quis ser coisa nenhuma, diferente de todos os demais, entre aspas, deuses.» — ver RC-730 (Yggdrasil), RC-658 (Wyrd).
-
-- **[Orlog percebeu a podritão ancestral — família de Tempério e decifração]:** «Orlog percebeu lá atrás. Por que que ele percebeu isso? Porque a família de Tempério trabalhava com essa arte que hoje a gente chama de decifração. Se não fosse isso, ele jamais teria tido olhos para ver. E Orlog só aproveitou a oportunidade de perceber a podritão nele próprio e em tudo mais ao seu redor. Qualquer ser vivo aqui dentro era composto por podritão.» — ver RC-496 (Ereon), RC-497 (Imperial).
-
-- **[Orlog sumiu, jogou flechas/arquivos quânticos para o futuro]:** «Orlog ele olhou e antes de sumir ele disparou essas [flechas] para uma nova situação em que ele mesmo entraria de novo no jogo para criar tal situação [...] Ele criou as nornes, dividiu o conhecimento, ficou com a parte do conhecimento. Antes de sumir, ele pegou o conhecimento dele, arrancou, extraiu dos seus protocolos mentais esses conhecimentos e criou arquivos quânticos, semelhantes ao Wyrd e jogou para a frente. Que frete? [...] Por mais estranho que possa parecer, só nós humanos nessa história chamamos de tempo.» — ver RC-611 (Flechas de Moros), RC-730 (Yggdrasil).
-
+- **[Mitologia nórdica — sem interesse de epifania/dominação]** «Mitologia nórdica também não fugiu a esse tipo de esquema, mas fugiu num certo sentido. Porque não havia nenhum nenhum interesse de epifania, ou seja, de revelar poder, ou seja, de revelar alguém que quisesse se impor como Deus, deuzinho, deusão, o que diabo fosse. Não, nunca houve isso» — ver RC-730 (Yggdrasil), RC-658 (Wyrd).
+- **[Orlog percebeu a podridão ancestral]** «Orlog percebeu lá atrás. Por que que ele percebeu isso? Porque a família do Tempério trabalhava com essa arte que hoje a gente chama de decifração. Se não fosse isso, ele jamais teria tido olhos para ver. E aqui de novo, a gente lembra que quando a mente da gente é secra para as possibilidades, nossos olhos também são cegos para as oportunidades. E Orlog só aproveitou a oportunidade de perceber a podridão nele próprio e em tudo mais ao seu redor. Qualquer ser vivo aqui dentro era composto por podridão» — ver RC-496 (Ereon).
+- **[Orlog jogou flechas/arquivos quânticos para o futuro]** «Antes de sumir, ele pegou o conhecimento dele, olha bem o que eu vou dizer, arrancou, extraiu dos seus protocolos mentais esses conhecimentos e criou a arquivos quânticos, semelhantes ao erro e jogou paraa frente» — ver RC-611 (Flechas de Moros), RC-730 (Yggdrasil).
 
 ## Fontes
 | Fonte | Localização | Tipo |

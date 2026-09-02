@@ -57,6 +57,7 @@ Com isso:
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 | P2021-01-30 | A Mensagem TALM e os Fios Soltos do Destino (palestra) | — | transcrição automatizada; citação |
@@ -82,12 +83,9 @@ A pergunta que `RC-446` deixava aberta — *"verificar nas obras primárias (ex.
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Valel = cápsula temporal biológica de Orlog]:** «Valel [...] se percebeu como sendo uma cápsula temporal biológica de Orlog.» — o espírito de Orlog/Tempério reencarnou num membro da família Val, transformando o processador numa extensão de sua antiga obra decifradora.
-
-- **[Conexão Processador Val ↔ Wyrd via espírito de Orlog]:** «Quando o espírito de Orlog pegou o corpo de Valel [...] ligou-se, criou uma espécie de Bifrost particular, uma ponte quântica com o processador Val e a Wyrd.» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
-
-- **[Processador Val astralizado — existe até hoje]:** «O processador Val fez parte do processo de astralização de Alto Langron [...] o processador existe até hoje, protegido dentro de um sistema de astralização.» — ver RC-109 (Família Val).
-
+- **[Valel = cápsula temporal biológica de Orlog]** «ele se percebeu como sendo um um qu uma cápsula temporal biológica de base de Diorlog» — o espírito de Orlog/Tempério reencarnou num membro da família Val.
+- **[Conexão Processador Val ↔ Wyrd via espírito de Orlog]** «a mesma mente de Kivas, mesma mente de Orlot ao do universo de Z, ligou-se, criou um tran tran tran aí qualquer uma espécie de Frost particular, uma ponte quântica» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
+- **[Processador Val astralizado — existe até hoje]** «isso foi astralizado, ficou esse processador existe até hoje, protegido dentro de um sistema de astralização» — ver RC-109 (Família Val).
 
 ## Fontes
 | Fonte | Localização | Tipo |
