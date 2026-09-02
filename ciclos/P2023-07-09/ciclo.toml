@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2023-07-09 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2023-07-09"
+titulo = "A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons"
+data_fonte = "09/07/2023"
+pasta_fonte = "ciclos/P2023-07-09"
+arquivo_fonte = "original.txt"
+sha256_fonte = "1bd857c9321726975dd0bc3c1ae762f36817f23bf98c9074664a1f33f4929354"
+
+baseline_commit = "17620c3"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 104 KB · 12 linhas. Conteúdo central: Wyrd Quântica (teia quântica da vida criada por Orlog); Processador Val (processador da família Val); Rebelião dos Elétrons (elétrons não suportam mais guardar dores); Orlog/Moros (ser de Tempério, decifrador); Mitologia nórdica (Odin, Aesir, Vanir, Yggdrasil, Ragnarok); Kvaser/Vaser (ser criado da saliva unida); Flechas de Moros (arquivos quânticos jogados para o futuro); Codificador de Zian (escola de decifração); Famílias biodêmicas (Iel, Val); Judas Iscariotes como espírito de Eulian; Dissonância cognitiva humana; Ausência de justiça cósmica."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
