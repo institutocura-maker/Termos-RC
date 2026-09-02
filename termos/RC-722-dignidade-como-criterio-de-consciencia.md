@@ -55,6 +55,7 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-11-09 | U0060–U0075; U0145–U0250; U0715–U0750; U1010–U1070 | palestra/STT |
 
@@ -67,6 +68,13 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou qualquer ser ou espírito que seja e mexer no que de mais entre aspas importante existe naquele corpo que é o código genético.»
+
+
+## Ampliação — P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.»
 
 ## Relações centrais
 

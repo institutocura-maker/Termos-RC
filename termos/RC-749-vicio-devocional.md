@@ -72,3 +72,9 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «E a emoção mais estranha que esses seres inocularam na gente é a expectativa de receber bênçãos, milagres, favores divinos a cada momento. E por isso a gente vive rezando, vive. Aí com isso, você não é mais aquele observador, você é aquele que usufrui o tempo inteiro de uma emoção. O mundo ao seu redor continua existindo. Você tá totalmente em êxtase com Deus. Seus filhos se ferrando, os vizinhos se ferrando, o mundo em que você vive ferrado.»
+
+## Ampliação — P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Mas se você um fardo de certezas e verdades e presta contas a esses fardos, a essas bagagens de conceitos terríveis que cada um de nós coleciona. O peso dessa prestação de contas chama-se religião nos termos em que nós conhecemos. E a coisa mais falsa que já foi inventada como narrativa ou de um ser maluco, ou de um ser maldoso, ou de um ser que inventou isso em cima de fatos que efetivamente aconteceram, mas foram por ele distorcidos.»

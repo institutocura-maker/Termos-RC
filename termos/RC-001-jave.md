@@ -466,6 +466,7 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
@@ -474,3 +475,9 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «E o curioso, no ano 2021, Javé colapsou. Ele que disse que ele era o juiz que ia julgar todo mundo. Ele mesmo foi julgado pelos padrões da e por isso o corpo dele colapsou, porque os padrões da diz que o que sai de um ser volta para ele.»
+
+## Ampliação — P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Uma curiosidade, você falou que o Javé em 2021 implodiu o corpo dele, né, que nem os anjos sabem como é que ressuscita o corpo e o eu dele. O eu dele implodiu, mas não deixou desistir. O corpo deixou o corpo. Eu queria saber de que que esse corpo foi formado. Plasma. Plasma é esse tipo de coisa que a gente vê nas estrelas. Plasma é um estado da matéria comum ao universo paralelo ao nosso, formado por antimatéria.»

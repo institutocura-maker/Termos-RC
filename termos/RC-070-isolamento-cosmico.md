@@ -93,3 +93,9 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Agora, a invasão extraterrestre de fato está vendo é terrível, ainda nem começou e isso pode se dar em dias futuros de forma amigável ou de uma forma muito desagradável. Tudo isso porque Sofia não cumpre o que se chama palavra que ele mesmo deu devido às confusões que rola com Krishna, com Zeus, aí é palhaçada que não tem fim.»
+
+## Ampliação — P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Por quê? Porque todas as forças que convergem pra disputa da Suzirania Universal disputam agora o que se passa na Terra, já que a Terra terminou sendo Point, o centro de convergência, de encontro de toda essa porcalhada. Jesus, Maomé, Cristo, blá blá blá. Não foram para outros mundos, só nasceram aqui na Terra, porque a Terra foi transformada num espécie de point interdimensional e os DNA dos humanos é o mais novo DNA surgido no âmbito dessa obra de 13.8 bilhões.»

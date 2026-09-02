@@ -128,3 +128,9 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 ## Observações
 
 Trecho truncado na transcrição — `[frase truncada]`. Contexto geopolítico arconte é leitura do autor (quarentena geopolítica).
+
+## Ampliação — P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»

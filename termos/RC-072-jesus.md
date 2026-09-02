@@ -411,4 +411,11 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2024-02-04
+
+**Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
+
+**Trecho verbatim:** «Na época de Jesus, os judeus da Judeia os demais judeus das outras partes da Palestina. Os galileus, os samaritanos, os enênios, eram vistos pelos judeus da Judeia como judeuzinhos de quinta categoria. Aí Jesus dizia:»
