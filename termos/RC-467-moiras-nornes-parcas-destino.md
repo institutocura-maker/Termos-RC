@@ -132,3 +132,13 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 Quarentena mitológica — leitura do autor.
 
 ---
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Nornes — criadas por Orlog, receberam parte do conhecimento]:** «Foi quando Orlog decidiu criar o que na mitologia nórdica se chama as nornes [...] E esses ou essas nornes recebem parte do conhecimento de Orlog, ainda que Orlog tenha ficado com maior parte do conhecimento para ele mesmo. E por que que Orlog fez isso? Porque ele próprio tinha dúvida se o que ele havia descoortinado era melhor que ele jamais tivesse descortinado. Ou já que descortinou tinha que ser organizado.» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

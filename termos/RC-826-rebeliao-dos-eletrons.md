@@ -64,3 +64,17 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 - **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
 
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Pre-história da rebelião — dores dos mamíferos acumuladas nos elétrons]:** «Quando a vida biológica no nosso universo evoluiu para outras raças [...] aqui houve no lado biológico o que corresponde ao que Shiva fez no lado antimaterial, quando os demos, diferente dos clones, se achavam um alguém. Aqui, quando anfíbios, répteis reptilianos surgiram minimamente racionalizados [...] eles começaram a sentir a sensação psíquica da dor. E com evolução, quando surgiu mamífero, primata e humanoides [...] essa sensação ficou ainda mais forte na percepção cerebral [...] ao longo dos últimos 200 milhões de anos e mais especificamente ao longo dos últimos 100 milhões de anos, os elétrons começaram a receber a marcação das dores.» — ver RC-378 (Elétron).
+
+- **[Colapso atual — universo vizinho desde 2014, nosso universo desde 2007]:** «Nós chegamos a um ponto tal de infecção da memória dos elétrons nos tempos atuais que nós estamos vivendo, em que simplesmente tudo começou a colapsar. Só que o tudo aí é o universo vizinho já tava colapsando desde 2014. O nosso aqui começou a colapsar sistemas biológicos em 2007.» — ver RC-827 (Era do Colapso).
+
+- **[Família Iel — primeira a descobrir o problema dos elétrons]:** «A família Iel descobriu isso [...] E Lúcifer descobriu isso da pior maneira para ele e para todo mundo, porque terminou nessa percepção descortinando um painel virótico complicado que terminou surgindo e contagiou todo mundo.» — ver RC-109 (Família Val), RC-002 (Lúcifer).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

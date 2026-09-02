@@ -79,3 +79,17 @@ Com isso:
 ## Observações
 
 A pergunta que `RC-446` deixava aberta — *"verificar nas obras primárias (ex.: B017/B018) a correspondência exata com os Processadores Familiares"* — **não** é respondida por esta ficha: a fala de 2022 não descreve um dispositivo capelino de coesão familiar neutra, e sim um **órgão de absorção** criado depois da revolta. Registrar a diferença é o serviço desta ficha; responder à pergunta de `RC-446` continua pendente e é decisão curatorial.
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Valel = cápsula temporal biológica de Orlog]:** «Valel [...] se percebeu como sendo uma cápsula temporal biológica de Orlog.» — o espírito de Orlog/Tempério reencarnou num membro da família Val, transformando o processador numa extensão de sua antiga obra decifradora.
+
+- **[Conexão Processador Val ↔ Wyrd via espírito de Orlog]:** «Quando o espírito de Orlog pegou o corpo de Valel [...] ligou-se, criou uma espécie de Bifrost particular, uma ponte quântica com o processador Val e a Wyrd.» — ver RC-658 (Wyrd), RC-454 (Moros/Orlog).
+
+- **[Processador Val astralizado — existe até hoje]:** «O processador Val fez parte do processo de astralização de Alto Langron [...] o processador existe até hoje, protegido dentro de um sistema de astralização.» — ver RC-109 (Família Val).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

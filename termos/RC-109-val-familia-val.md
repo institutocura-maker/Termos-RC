@@ -51,3 +51,15 @@ Com isso:
 | Processador Val | RC-089 | **sem aresta** em `RELACOES`; arquivo existe |
 | Val El / Val Ellam | RC-120 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Biodemos | RC-036 | aresta pré-existente; arquivo existe |
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Valel + Eulian = mix genético — origem do nome Val]:** «Valel e Outros [...] terminaram fazendo um mix do código genético dos dois [...] e o nome de Val ficou Val, porque Valel pegou de Eulian na parte final e o nome de Eulian.» — ver RC-089 (Processador Val), RC-365 (Fator Judas).
+
+- **[Família Val — criados um por um, cada um como cobaia]:** «Quando a família Val foi criada [...] os Val foram criados um por um, porque cada um trazia em si uma receita de cobaia que possivelmente poderia ser usada em padrões de humanoides futuros sexuais.» — ver RC-089 (Processador Val).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

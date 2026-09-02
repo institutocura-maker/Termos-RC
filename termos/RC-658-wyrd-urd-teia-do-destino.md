@@ -135,3 +135,19 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 
 - **[A teia e o sonho: o novelo do nome Brasil] (U0006)** «Ou a única coisa que parece ter vingado nessa história, o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30.» — a Wyrd como fio condutor: "o único novelo que se a gente puxar o nome aqui Brasil chega a um história de 20, 30.000 anos é exatamente o nome Brasil" (span truncado no bruto em "20, 30."; sem emenda) — "mesmo com todos os desacertos, Cabral descobriu isso aqui, pôs o nome do Brasil. Só que não foi Cabral que descobriu. Antes de Cabral, uma porrada de gente já tinha estado aqui" (U0006: «Só que não foi Cabral que descobriu.»).
 
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Wyrd — origem por Orlog, fator de organização universal]:** «Orlog, ele pôde criar esse vórtice e foi aqui que começou essa loucura de registrar a cada micro instante em que a improvisação do universo vizinho obriga que as informações lá sejam o tempo inteiro, se transforme em energia, depois em antimatéria, energia e antimatéria. Essa coisa ficou acontecendo em torno da Wyrd e a Wyrd se tornou num fator de organização de absolutamente todos os fatos de tudo.» — ver RC-454 (Moros/Orlog).
+
+- **[Elétrons e antielétrons como partes vivas da mente do criador caído]:** «Os elétrons do nosso universo e antielétrons desse universo vizinho corresponderiam as partes vivas da mente do criador que se despedaçou quando da sua queda. E como todos esses elementos um dia estiveram reunidos na mente desse criador caído, ainda que agora para esses elementos estivessem aparentemente dispersos e despedaçados num universo e no outro universo, mas cada um deles está indelévelmente ligado aos outros.» — ver RC-378 (Elétron), RC-636 (Duas Pulsações).
+
+- **[Wyrd — não é karma, não é justiça]:** «A Wyrd [...] não tem nada a ver com essa questão de karma. Não tem nada a ver no sentido de que Orlog jamais criou aquilo com vistas a algum sentido de karma. Porque o sentido de karma veio surgir muito, muito, muito mais recentemente, ancorado nos mecanismos de ação e reação que são produzidos pela teia.» — ver RC-467 (Nornes/Parcas).
+
+- **[Dois oceanos de elétrons/antielétrons interligados]:** «O éter que tem no nosso universo [...] na verdade são duas camadas, são dois oceanos de elétron de antielétron, mas cada um ligado e os dois interligados porque pertencem à mesma fonte e memorizam tudo que o que vivenciam.» — ver RC-637 (Transferência da Memória dos Antielétrons).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

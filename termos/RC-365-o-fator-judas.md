@@ -65,3 +65,13 @@ A live amplia o Fator Judas com uma reabilitação histórica de Judas e referê
 
 ## Observações
 Ficha baseada em B011 (obra primária) + B031. O Fator Judas conecta a trilogia Terra Atlantis (B039) ao drama da crucificação. Transcrição literal pendente na revisão.
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Eulian — espírito que encarnou como Judas Iscariotes]:** «Esse [Eulian] [...] o espírito de Eulian encarnaria depois como apóstolo de Jesus, Judas, aquele, exatamente aquele que o traiu.» — Eulian era membro da família Val; o mix genético Valel+Eulian deu origem ao nome "Val"; seu espírito encarnou posteriormente como Judas. Ver RC-109 (Família Val), RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

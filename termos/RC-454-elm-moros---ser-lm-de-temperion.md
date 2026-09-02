@@ -270,3 +270,17 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Orlog = Moros — mesmo ser, mitologias diferentes]:** «A mitologia nórdica [...] surgiu com essa característica singular. Qual? [...] A de presumivelmente e presumidamente ser um compêndio de informações cujo objetivo era tentar deixar no entendimento da racionalidade humana, que havia sim em curso, que continuava em curso e que não havia acabado esse processo que se encontrava em curso. E que processo era esse? De enaltecer o conhecimento, a busca do conhecimento, a arquitetura de níveis de compreensão, sem dominação de quem quer que fosse, porque nunca quis ser coisa nenhuma, diferente de todos os demais, entre aspas, deuses.» — ver RC-730 (Yggdrasil), RC-658 (Wyrd).
+
+- **[Orlog percebeu a podritão ancestral — família de Tempério e decifração]:** «Orlog percebeu lá atrás. Por que que ele percebeu isso? Porque a família de Tempério trabalhava com essa arte que hoje a gente chama de decifração. Se não fosse isso, ele jamais teria tido olhos para ver. E Orlog só aproveitou a oportunidade de perceber a podritão nele próprio e em tudo mais ao seu redor. Qualquer ser vivo aqui dentro era composto por podritão.» — ver RC-496 (Ereon), RC-497 (Imperial).
+
+- **[Orlog sumiu, jogou flechas/arquivos quânticos para o futuro]:** «Orlog ele olhou e antes de sumir ele disparou essas [flechas] para uma nova situação em que ele mesmo entraria de novo no jogo para criar tal situação [...] Ele criou as nornes, dividiu o conhecimento, ficou com a parte do conhecimento. Antes de sumir, ele pegou o conhecimento dele, arrancou, extraiu dos seus protocolos mentais esses conhecimentos e criou arquivos quânticos, semelhantes ao Wyrd e jogou para a frente. Que frete? [...] Por mais estranho que possa parecer, só nós humanos nessa história chamamos de tempo.» — ver RC-611 (Flechas de Moros), RC-730 (Yggdrasil).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

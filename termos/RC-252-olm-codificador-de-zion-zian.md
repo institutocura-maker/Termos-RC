@@ -72,3 +72,13 @@ Ficha baseada em B016 (obra primária) + B031. Olm é o protagonista do B016 —
 - **Unidades:** U0327–U0385; U0443–U0450; U0572–U0583.
 - **Contexto acrescentado:** Olm é confirmado como um dos seres LM de Tempérion, integrante da Ogdóade e encarnado como Apolônio de Tiana.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Codificador de Zian — escola de decifração]:** «O codificador de Zian [...] criou chamada escola de decifração de Zian e alguns membros de cada família envolvidas com aquela sensação de que algo de errado tava existindo.» — a escola reuniu membros de várias famílias biodêmicas para investigar as "feridas na realidade" detectadas pelos processadores familiares. Ver RC-092 (Quarto Logos), RC-826 (Rebelião dos Elétrons).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |

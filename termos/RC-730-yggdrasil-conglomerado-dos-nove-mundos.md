@@ -65,3 +65,13 @@ A identificação de Yggdrasil com um sistema interdimensional centrado em Marte
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
+
+- **[Odin — buscava as flechas de Orlog/Moros]:** «Odin surgiu com um senso único. Qual senso? Tentar descobrir a verdade, coisa que não existia em nenhum outro ser desse, a não ser em Orlog.» — «A manchete da vida de Odin [...] Sabem porque Odin nas páginas da mitologia nórdica faz de tudo para encontrar conhecimento? Porque Odin queria descobrir, encontrar as flechas de Orlog [...] as tais flechas de Orlog/Moros.» — ver RC-454 (Moros/Orlog), RC-396 (Kvaser).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
