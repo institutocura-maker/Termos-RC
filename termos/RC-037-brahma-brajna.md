@@ -145,9 +145,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[Capila e Buda: o divisor de águas de 2.700 anos] (U0006)** «E mais especificamente, a cerca de 2700 anos para cá, quando um certo divisor de águas, seguramente promovido através de um plano, quando na Índia Capilas Sidart Gautama produziram o Squia e o ismo, dizendo, ó, essa história de Deuses, de religião, esqueçam, tá estragando a vida humana que ainda está no laboratório.» — STT «Capilas» = Capila, «Sidart Gautama» = Siddhartha Gautama (Buda), «Squia e o ismo» = Samkhya e Budismo; o divisor de águas que introduziu o raciocínio crítico (RC-037 Brahma/Trimurti; RC-104).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[O ovo cósmico: mito transversal da criação] (U0014)** «Mitologia ariana hindu, surgiram um dia surgiu um ovo chamado anda em sânscrito.» — STT «anda» = Anda (Hiranyagarbha, o ovo dourado); o ovo cósmico como mito transversal: China (Yang/Pancu), Índia (Anda/Brama), ciência (sopa de quarks e gluons); «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang» (U0014: «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang.»); RC-037 Brahma; RC-104 Trimurti.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |

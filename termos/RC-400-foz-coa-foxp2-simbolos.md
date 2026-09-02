@@ -35,9 +35,16 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 - **[O mistério da origem do Fox P2] (U0006)** «000 anos era o Homo Sáps, mas não racionalizado, sem o gene Fox P2. Um dos mistérios é esse gene veio de onde?» — a pergunta não respondida pela ciência: de onde veio o gene da racionalidade? (RC-400; paráfrase do contexto U0006).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[400 bilhões de bits por segundo: a flutuação quântica da realidade] (U0088)** «A cada 1 segundo, 400 bilhões de bits de informação tentam penetrar no cérebro humano através das dendrites dos neurônios.» — a cada segundo, 400 bilhões de bits de informação tentam penetrar no cérebro; mas o cérebro só processa 2.000: «000 das 400 bilhões de informações, o cérebro da gente processa e com isso surge a faixa de realidade que a gente vive» (U0088: «000 das 400 bilhões de informações, o cérebro da gente processa e com isso surge a faixa de realidade que a gente vive.»); a realidade como faixa limitada de processamento (RC-400 Fox P2; RC-562).
+- **[Os microtúbulos como porta de entrada da informação quântica] (U0088)** «E mais especificamente através dos microtúbulos, que são os citoesqueletos desses neurônios.» — os microtúbulos (citoesqueletos dos neurônios) como a porta específica pela qual a flutuação quântica penetra o cérebro; a realidade composta das 2.000 informações processadas (RC-400; paráfrase do contexto U0088).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2024-08-03 | U1554–U1568 | palestra/STT |

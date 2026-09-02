@@ -445,3 +445,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[O ser puro: imanente, mas não bondoso] (U0027)** «Esse ser talvez não seja bom. Cacetada é só amor, talvez não. Ele é o quê? O que os espíritos dizem? É um ser. puro. Puro não quer dizer bondoso.» — o ser do princípio é puro (sustenta todas as faixas de realidade), mas puro ≠ bondoso; a bondade é construção tardia (RC-009 Sophia; RC-001).
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[Algo perfeito e incriado: o paraíso anterior ao universo] (U0014)** «Já existi uma coisa e essa coisa é perfeita e é incriada.» — o pressuposto fundamental: antes do universo, existia algo perfeito e incriado; o Paraíso como o estado anterior à quebra de protocolo; se sempre existiu algo maravilhoso e perfeito e nós vivemos na podridão, houve algo nesse algo perfeito que originou esta criação problemática; a quebra de protocolos que alguém no paraíso fez é «complicado, complicado, vírgula» (U0014: «E a tal quebra de protocolos que alguém no paraíso fez e gerou essa criação problemática aqui é complicado, complicado, vírgula.»); RC-009 Sophia; RC-001.
+

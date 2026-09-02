@@ -34,6 +34,11 @@ Forma preferida: Os 366 Manuscritos de Enoque.
 
 - **[Os 363 livros ditados a Matusalém] (U0007)** «Enoque saiu, voltou, ditou 363 livros pro filho dele.» — Enoque ditou 363 livros a Matusalém (grafia STT "363"; a KB registra RC-672 como "Os 366 Manuscritos de Enoque" — divergência numérica registrada, nada harmonizado: D-9); "os livros que Enoque ditou a Matusalém passaram a ser pra humanidade de então os termos da velha aliança"; "Só que quase todos os livros de Enoque foram destruídos. Hoje a gente só tem parte de dois desses livros" (U0007: «Só que quase todos os livros de Enoque foram destruídos.»); "70 sábios traduziram então todas as agendas enoquianas, como eram chamadas" (U0007: «70 sábios traduziram então todas as agendas enoquianas, como eram chamadas.») — a Septuaginta (grafia STT "Apoaginta") constava os livros de Enoque.
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[O professor Scolov e os restos do livro de Enoque em 1846] (U0070)** «Então, hoje nós humanos temos o livro de Enoque, o livro dos segredos de Enoque.» — o que restou: o livro de Enoque e o livro dos segredos de Enoque; a descoberta de 1846 em Belgrado pelo professor Scolov (RC-672 Manuscritos de Enoque; RC-489).
+
+
 ## Fontes
 P2025-05-31.
 P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
@@ -46,6 +51,7 @@ Ver transcrição.
 ## Termos Relacionados
 | Termo | Código | Relação |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |

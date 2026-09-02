@@ -21,10 +21,16 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 - **[Os avatares humanos de Chiva: Sai Baba e os demais] (U0013)** «Baba de Sird, sai Baba, Sátia sai, o Prima sai.» — "São três avatares de Cristo, na verdade conduzidos pelo espírito de Chiva, mas pelo temperamento e o código genético de Cristo que está vivíssimo" (U0013: «São três avatares de Cristo, na verdade conduzidos pelo espírito de Chiva, mas pelo temperamento e o código genético de Cristo que está vivíssimo.»); o limite do avatar: "Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes" (U0013: «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.»); "Krishna que é um avatar de Chiva" (U0013: «Krishna que é um avatar de Chiva.»); "os avatares de Krishna e não de Chiva para a fase final do mesmo jeito" (U0020: «Então, eh, como eu como eu disse, só pra gente concluir isso aqui, os avatares de Krishna e não de Chiva para a fase final do mesmo jeito.»); "Ele tem um dharma particular e ele segue isso aí" (U0013: «Ele tem um dharma particular e ele segue isso aí.»).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[A vinda de Madiim: o anúncio de todos os avatares] (U0070)** «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — STT «Madiim» = Maitreya; «Calque»/«Caico» = Maitreya/Messias nas diferentes tradições; o anúncio unânime de todos os avatares: `algo de fora viria à terra para encerrar esse período maluco` (RC-481 Maitreya; RC-072 segunda vinda).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-03-27 | bloco 9 (relógio messiânico) | palestra/STT pré-curada |
 

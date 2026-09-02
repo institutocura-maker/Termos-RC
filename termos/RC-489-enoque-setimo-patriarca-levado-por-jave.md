@@ -99,10 +99,17 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 
 - **[A Bíblia dos hindus e a linhagem] (U0012)** «Como eu já disse, o marra barata é a Bíblia dos hinduistas também nesse sentido, como eu falei, a Bíblia dos judeus, a história de Adão e Eva, a Bíblia dos hindav, irmão.» — a equivalência estrutural: "a descendência escolhida que passou a ser a história do Marabarata foi Barata e Mandarf" (U0014: «a descendência escolhida que passou a ser a história do Marabarata foi Barata e Mandarf»); "por isso que o nome é Marata, a história do grande barata que foi o progenitor de toda a descendência da linhagem que deu origem a arianos, hindus e por aí vai" (U0014: «a história do grande barata que foi o progenitor de toda a descendência da linhagem que deu origem a arianos, hindus e por aí vai»).
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[Enoque: o primeiro a apresentar a agenda geopolítica de Javé] (U0069)** «Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé.» — Enoque como pioneiro da geopolítica cósmica: a agenda de Javé e a sucessão de avatares na Terra; a figura de Metatron como desdobramento (RC-671); RC-489 Enoque; RC-001.
+- **[Jerônimo e a remoção do livro de Enoque] (U0070)** «Esse grupo comandado por Jerônimo, eles tiram o livro de Enoque.» — a queima de arquivo: Jerônimo e o grupo que removeu o livro de Enoque do cânone; «O livro de Enoque sumiu» (U0070: «O livro de Enoque sumiu.»); em 1846 em Belgrado o professor Scolov descobriu restos de outro livro de Enoque (U0070: «E em 1846, na em Belgrad, O professor Scolov descobriu restos de um outro livro de Enoque.»); STT «Belgrad» = Belgrado; RC-489; RC-672 Manuscritos de Enoque; RC-273 religião institucional.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |

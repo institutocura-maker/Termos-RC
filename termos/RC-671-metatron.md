@@ -69,6 +69,11 @@ Forma preferida: Metatron.
 
 - **[Metatron: a cópia travada de Enoque] (U0007)** «Foi feito uma cópia dele chamada Metatron.» — levado para o universo vizinho, Enoque virou cópia: "A condição de Enoque humana morreu. Metatron também travou. Tá travado até hoje, mas isso é uma outra história" (U0007: «A condição de Enoque humana morreu.» + prosa do autor); ressonância com RC-674 (Urdidura de Metatron).
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[Enoque/Metatron no universo vizinho] (U0069)** «Viveu aqui 60 e poucos anos, mas viveu mais uns bões, bota 500, 600 anos no mínimo, mas dizem que foi inclusive alguns milênios como metatron nesse universo vizinho, ainda que ele fosse Enoque dentro de um e ficou conhecido como um tipo de mercado, como sendo um anjo de Javé.» — Enoque que viveu milênios como Metatron no universo vizinho; STT «mercado» = Metatron (degeneração do STT); «anjo de Javé» (RC-671 Metatron; RC-489 Enoque; RC-001).
+
+
 ## Fontes
 P2025-05-31.
 | P2023-10-14 | A Esquecida Honra dos Anunnaki (palestra/STT) | citação verbatim; paráfrase |
@@ -80,6 +85,7 @@ Ver transcrição.
 ## Termos Relacionados
 | Termo | Código | Relação |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |

@@ -24,11 +24,11 @@ veto_lexico = ["m****"]
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (garimpo: nenhuma)
-ficha_true = 0   # viradas no cadastro
-termos = 0       # termos novos: nenhum criado no garimpo
-relacoes = 0     # arestas novas: só na aplicação
-vinculos = 0     # só na APLICAÇÃO    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+arquivos = 0      # fichas criadas por este ciclo (14 ampliadas; nenhuma criada)
+ficha_true = 0   # viradas no cadastro (nenhuma)
+termos = 0       # termos novos: nenhum (navalha mantida em 5 candidatos)
+relacoes = 0     # arestas novas: nenhuma
+vinculos = 14    # códigos que passam a carregar a sigla do ciclo na lista de fontes    # códigos que passam a carregar a sigla do ciclo na lista de fontes
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)

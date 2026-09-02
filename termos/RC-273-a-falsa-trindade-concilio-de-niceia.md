@@ -48,9 +48,15 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **[Agostinho de Hipona e a imposição dogmática] (U0008)** «Então assim, aí Agostinho bateu na mesa e disse: "A partir de hoje, quem desconfia de que a vida não é boa ou que Deus não é perfeito, vai pro inferno".» — STT «Agostinho Dipona»/«Agostinho de Pon» = Agostinho de Hipona (séc. IV-V); a imposição que encerrou o questionamento sobre a bondade divina e o problema do mal durante séculos (RC-273; religião institucional como quarentena).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[A remoção do livro de Enoque pelo grupo de Jerônimo] (U0070)** «O livro de Enoque sumiu.» — a queima de arquivo institucional: o grupo comandado por Jerônimo removeu o livro de Enoque do cânone bíblico; «menos o livro de Enoque» (U0070: «menos o livro de Enoque.»); o mesmo padrão de Niceia 325 (o que seria verdade definido pelo Império Romano); STT «século» (sem número — o STT trai); RC-273 religião institucional; RC-672.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |

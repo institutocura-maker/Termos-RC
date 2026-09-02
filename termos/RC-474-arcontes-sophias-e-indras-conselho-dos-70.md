@@ -90,10 +90,16 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 - **[Arcontes: o nome grego para os regentes de cada loca/gêno] (U0004)** «Então, Sofia foi engendrado durante 1 2 bilhões de anos e ao longo dos últimos 6 bilhões de anos esse ser existe como Sofia, um ser desse nosso universo, seja biológico ou bio, alguma coisa, para, entre aspas, representar toda essa hierarquia que existia e existe no universo vizinho, composta por arcontes, é o nome grego que se dá, que são os regentes de cada loca, de cada ou de cada gêno em grego ou de cada loca em sânscrito.» — o núcleo do conceito (RC-474 Arcontes = Sophias e Indras; Conselho dos 70): regentes de loca (sânscrito) / gêno (grego); a hierarquia do universo vizinho que Sofia representa; o projeto Talm como pano de fundo da semeadura: "Esses seres no tempo do projeto Talm, que é uma outra história, quando o código do Criador ia ser semeado no contexto biológico, então aquela molécula que caiu aqui na Terra ou alguém colocou aqui há cerca de 3" (U0004: «Esses seres no tempo do projeto Talm, que é uma outra história, quando o código do Criador ia ser semeado no contexto biológico, então aquela molécula que caiu aqui na Terra ou alguém colocou aqui há cerca de 3.» — STT truncado no número; sem emenda).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[A geopolítica cósmica e a sucessão de avatares] (U0069)** «Então assim, o segundo ponto da revelação cósmica Não em importância, mas que se um ser humano quiser compreender os próximos acontecimentos da geopolítica que envolve a Terra, fatalmente vai ter que estudar bastante sobre Enoque, sobre a figura de Metatron, sobre a geopolítica cósmica e sobre essa história de que ao longo das páginas da evolução humana sempre tem anúncio de avatares vindo à Terra e esses avatares chegam aqui e produzem revelações.» — a geopolítica cósmica como segundo ponto da revelação cósmica: Enoque, Metatron, a sucessão de avatares na Terra cumprindo a agenda de Javé; RC-474 Arcontes; RC-001.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |

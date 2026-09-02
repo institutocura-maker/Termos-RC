@@ -66,10 +66,16 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 - **[O epigenoma é o que vive] (U0090)** «Quem vive é o epigenoma de cada um de nós, ou seja, é o genoma de cada ser que vive.» — o corpo morre, o eu vai embora, mas o genoma retoma na próxima vinculação; o epigenoma vai ligando e desligando genes conforme as experiências (RC-562; RC-001).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[A flutuação quântica como partículas informadas] (U0088)** «pululam em torno da cabeça de um ser humano como sendo flutuação quântica sobre a forma de energia se transformando em partículas informadas.» — a flutuação quântica como energia que se transforma em partículas informadas ao redor da cabeça humana; a interface entre o universo quântico e a consciência biológica (RC-562 Baralho Genético; RC-400).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |

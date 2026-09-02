@@ -59,9 +59,15 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **[Nós mamíferos amamos quem nos agride] (U0027)** «Nós mamíferos fazemos isso.» — a capacidade de amar quem nos agride como exclusividade mamífera; os seres «perfeitos» do paraíso não conseguem fazer isso; nós, filhos do caos, conseguimos (RC-529 Ressonância Límbica; RC-072).
 
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[A dor como veículo de consciência] (U0052)** «A dor como veículo de consciência talvez seja o principal mecanismo a ser ser modificado para a total emancipação dos seres desse universo.» — a dor/sofrimento como veículo da consciência e principal mecanismo a ser modificado para a emancipação dos seres; a chave para sair da submissão ao sistema (RC-529 Ressonância Límbica; RC-001).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2024-08-03 | U0660–U0700 | palestra/STT |

@@ -310,3 +310,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[Brama é o criador, mas quem ajeitou tudo foi Vishnu] (U0033)** «Quando você vai pra mitologia hindu ariana, aí você vê que Brama é o criador, mas quem de fato ajeitou tudo foi Virgo.» — STT «Virgo» = Vishnu (grafia canônica); o mesmo processo do «Verbo» de João: sem o tutor/manutenção, o criador não sustenta a obra (RC-104 Trimurti; RC-037 Brahma; RC-009 Sophia/Vishnu).
 
+## Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósmica)
+
+- **[Yang e Pancu: o criador caído na mitologia chinesa] (U0014)** «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang.» — STT «Pancu» = Pangu (o primeiro ser da mitologia chinesa, que quebrou o ovo cósmico); o criador caído que emerge da cisão Yin-Yang; o mesmo padrão de Brama na mitologia hindu (RC-104 Trimurti; RC-037 Brahma).
+
