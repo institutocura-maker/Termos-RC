@@ -138,3 +138,15 @@ Ficha baseada em B024 (obra primária). Distinguir com cuidado: **Prabrajna/Praj
 
 - Prabrajna é situado em Perpérion como Pashvnaj cujo corpo manásico/eu cai e se fragmenta nos dois universos.
 - Divergências e alegações científicas permanecem abertas/atribuídas à palestra.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Prabrajna — o eu projetado, inferior ao eu mergulhado (Mavatna)]:** «Aqui temos, portanto, prestem bem atenção, a parcela átmica, mas abúdica de um ser projetado, que terminou criando um eu ancorado em corpos búdicos e manásicos projetados, personagem chamado Prabrajna no laboratorial.» — «Vishnu é muito mais poderoso do que Prabrajna, e por isso que o eu caído de Prabrajna, que a gente chama de Brama, é muito inferior ao eu caído de Mavatna, que se chama Vishnu, porque aqui houve mergulho, aqui houve uma queda.» — ver RC-503 (Mavatna), RC-001 (Javé).
+
+- **[Prajna — faixa de 0,2% de liberdade criativa na espiritualidade laboratorial]:** «Na espiritualidade laboratorial, a que surgiu uma espécie chamada Pashvnaj, com 43 membros, e o eu desses 43 membros começou a apresentar algo que hoje existe expressão sânscrita chamada prajna, que se for interpretada literalmente diz 'aquele da intuição' [...] Prajna seria aquele da intuição criativa, porque essa brecha, essa faixa de 0,2% estimulava, fazia com que esse eu sentisse vontade de criar.» — ver RC-455 (Pashvnaj).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

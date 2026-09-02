@@ -260,3 +260,13 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 - **[P2019-08-25 · MOROS COMO O DETENTOR DO PONTO FRACO]** (fonte oral fundadora; grafias embrionárias "Morus/Morre/Morgon"):
 - "a figura que detinha o conhecimento do ponto fraco de todas as três descendências, um ser chamado Moros da mitologia grega" (STT); e "Esse ser sumiu, fez desaparecer o conhecimento que ele tinha" (STT) — a origem da "era do impasse";
 - No Q&A (André): "Moros nunca foi de perpério. Moros, a origem dele é de tempério" (STT) — biomediúnica, só índice rotulado; o deslacre é tratado como história "que por enquanto a gente não pode aprofundar".
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Moros — filho de Vishnu, renasceu como Kvaser em Yggdrasil]:** «Vishnu conseguiu fazer com que alguns dos seus ex-avatares, dentre os quais Moros, que é um filho de Vishnu, renascesse aqui dentro como Kvaser, um ser múltiplo formado por padrões genéticos dos Aesir e dos Vanir [...] Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-396 (Kvaser), RC-730 (Yggdrasil), RC-395 (Ragnarok).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

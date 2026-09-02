@@ -83,3 +83,13 @@ Ficha baseada em B048 (obra primária) + B031. O Favor Divino é o conceito éti
 ## Reforço — PIA / P2024-11-30
 
 O Favor Divino é ligado ao PIA: espíritos assumem cotas da condição informacional do Criador e os eus encarnados trabalham mutações/ressignificações que repercutiriam no todo.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Favor Divino — a humanidade como "salva-criador"]:** «A estatura moral humana superior à dos seres perfeitos» — «Mas aí chega Rogério Lia, cheia de defeitos, com um rastro de um monte de besteira, mas com estatura moral muito acima da Deus, porque eles foram criados perfeitos, não tem mérito nenhum pelos que são, mas nós mergulhamos no caos, nos sujamos, nos ferramos, fizemos o que no livro que eu produzi chamado favor divino, os nossos espíritos nos obrigaram a isso aqui e nós fizemos e ainda somos dignos.» — ver RC-063 (Favor Divino), RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

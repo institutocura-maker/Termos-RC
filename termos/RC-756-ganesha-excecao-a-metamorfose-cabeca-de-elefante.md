@@ -48,3 +48,13 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 ## Blindagem epistemológica
 
 A história de Ganesha, a loca de elefantes racionais e o livro de Ellam sobre o tema são **leitura do autor / mitologia hindu reinterpretada**, não fato histórico-científico. A distinção "exceção à metamorfose" pertence à cosmologia interna da RC. O verbete registra a interpretação de Ellam sem endossar a historicidade do mito.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Ganesha — exceção à metamorfose, cabeça de elefante]:** «Ganesha não é metamorfose, não. Outra história. O fato dele ter a cabeça de elefante não é devido à metamorfose, é uma outra história.» — «Quando coloca a cabeça de elefante no filho morto, é o próprio filho que volta à vida ou o novo ser?» — «Outro ser.» — «Os elefantes eram racionais assim como os seres humanos?» — «São diferentes.» — ver RC-102 (Shiva), RC-459 (Parvathi), RC-604 (Fatiamento).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

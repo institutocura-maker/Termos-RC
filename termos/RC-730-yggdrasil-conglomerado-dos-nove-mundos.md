@@ -55,3 +55,13 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 ## Blindagem histórica e comparativa
 
 A identificação de Yggdrasil com um sistema interdimensional centrado em Marte é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica, da história das religiões, da astronomia ou da arqueologia. A fala pode sobrepor tradições nórdicas, célticas, hindus e a literatura de Tolkien; identidades duvidosas permanecem `[REVISAR]` e não geram equivalência canônica.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Buri — ser andrógino criado por Mohen So, progenitor de Odin]:** «Quando Mohen So começou a criar um novo tipo de demo nesse universo chamado Fenvam, ele criou um ser chamado Buri. Esse ser nasceu com duas coisas que não existiam: os órgãos sexuais masculino e feminino. Um ser andrógino [...] Buri e sua descendência, Bor e depois Odin, organizaram um conglomerado de oito realidades desse universo e mais uma realidade do nosso universo físico. Essas nove realidades passaram a formar o reino de Yggdrasil.» — ver RC-064 (Fenvans), RC-282 (Mohen So).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

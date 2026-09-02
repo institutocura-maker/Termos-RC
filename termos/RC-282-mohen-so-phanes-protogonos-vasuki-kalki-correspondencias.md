@@ -121,3 +121,13 @@ O eBook *Moros — O Livro* lista `Phanis/Phanes` como manifestação de Moros. 
 
 - **Avatar Kalki profetizado:** "a vinda do Avatar Kalki" entre os retornos profetizados pelas religiões — "essa história toda é continuação da confusão que Marduk fez há 4.000 anos" (RC-765);
 - Mohen So = Phanes/Protogonos = Kalki (correspondências) no rol do relógio messiânico (nova aresta RC-765 ↔ RC-282).
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Mohen So — "legista" criado pela Trimurti para analisar o genoma]:** «Quando os três seres que compõem a Trimurti nesse universo faliram no extremo de suas forças, eles criaram pela primeira vez um ser livre da opressão do controle genético, chamado Protogonos ou Phanes ou Mohen So, para que esse ser analisasse o genoma de todo mundo aqui e dissesse qual o problema.» — ver RC-081 (Mohen So — Avatar Keshava), RC-64 (Fenvans).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

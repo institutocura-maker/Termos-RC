@@ -53,3 +53,13 @@ O **vaishnavismo** (ou vixenuísmo) é uma das principais tradições do hinduí
 ## Blindagem epistemológica
 
 A **definição factual** do vaishnavismo (tradição hindu de adoração a Vishnu/Krishna) é conhecimento histórico-religioso consensual. A **leitura de Ellam** sobre a "distorção dos puranas" pelos vaishnavas é atribuição do autor, não consenso acadêmico — registrada como leitura própria da RC.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Vaxinavas — distorção dos puranas para engrandecer Vishnu]:** «Quando a gente estuda as 10 principais encarnações avatáricas de Vishnu, eu tenho que dizer: isso é furado. Isso não é verdadeiro. Isso não é realmente produzido por Vishnu. Todas, algumas são Shiva e outras são outros espíritos. Mas por que essa desonestidade? Porque quem produziu esse purana é o que a gente chama de vaxinavas, ou seja, seguidores de Vishnu [...] começaram a distorcer os fatos sempre para aumentar a grandeza do deus de preferência deles.» — ver RC-135 (Vishnu), RC-104 (Trimurti).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

@@ -48,3 +48,13 @@ Consultar as relações tipadas acima.
 Relacionar a Liberdade Mental como contraponto, sem simplificar a cosmologia.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Protocolos da Completude/Perfeição — eu imutável do paraíso]:** «Lá só existem almas e o eu dessa alma é um eu diferente do nosso. O eu dessa alma é um eu extremamente doce, extremamente puro, belo [...] a gente pode chamar de perfeito, de completo. São chamados protocolos da completude que funcionam aí, ou os protocolos da perfeição.» — «Esse eu aqui é imutável. Ele não sabe ser um eu diferente desse. Nós humanos temos sensações de raiva, de medo, de felicidade, de desgosto, de orgasmo, de alegria, de terror [...] O eu do paraíso, ele é operado pela perfeição do paraíso. Ele não pode ser diferente. Ele é imutável.» — ver RC-204 (Realidade Maior/Paraíso Original).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

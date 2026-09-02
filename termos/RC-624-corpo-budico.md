@@ -55,3 +55,13 @@ Termo candidato de origem também presente em doutrinas orientais; a ficha regis
 ## Reforço — P2025-02-15
 
 O Corpo Búdico integra a Tríade Imortal e participa da arquitetura usada para explicar o Bhavaṅga e a sintonia com o eu espiritual.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Corpo búdico — projeção vs mergulho integral]:** «Aqui temos, portanto, prestem bem atenção, a parcela átmica, mas abúdica de um ser projetado, que terminou criando um eu ancorado em corpos búdicos e manásicos projetados, personagem chamado Prabrajna no laboratorial.» — «Detalhe, como eu disse para vocês, búdico projetado é bem diferente de búdico integralmente mergulhado.» — «O corpo búdico tá em coma.» — ver RC-152 (Prabrajna), RC-623 (Corpo Átmico), RC-625 (Corpo Manásico).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

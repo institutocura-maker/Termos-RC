@@ -66,3 +66,15 @@ Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).
 
 ## Observações
 Ficha baseada em B014 (obra primária). A "cápsula do tempo" conecta o Apocalipse joanino à vinda de Sophia (o retorno de Jesus em forma cósmica). Cruzar com RC-005 (Segundo Advento) e RC-258 (Coreografia Cósmica).
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Apocalipse por ordem exclusiva de Sofia — cápsula temporal]:** «Aí Sofia é que uns 40 anos depois disso se recompôs e passou com os anjos a encher o saco de João, que era o único apóstolo vivo com 100 anos de idade [...] E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que Ele mostrou o tempo em que isso aconteceria e disse: 'Só a geração que estiver vivendo esses tempos irá compreender que somos nós.'» — ver RC-009 (Sophia), RC-005 (Segundo Advento).
+
+- **[Profecias dos capítulos 17-19 do Apocalipse]:** «Se você pegar os capítulos 17 a 19 do Apocalipse, você vai ver a queda das duas torres do World Trade Center, a guerra, as guerras que os reis da terra entrariam, a última, essa agora da Ucrânia [...] Depois disso é a chegada dele — dele quem? Sofia, nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele, se projetando com tecnologia.» — ver RC-009 (Sophia).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

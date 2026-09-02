@@ -70,3 +70,13 @@ O Corpo Átmico integra a Tríade Imortal e é relacionado ao Corpo Sutil Reenca
 - **Presente em cada ser:** "o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão, namastê: o sagrado em mim saúda o sagrado que está em você";
 - **Semente da deidade (RC-047):** "ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada" — Barbelo (RC-483) e o corpo átmico;
 - Contexto: a base da "assinatura algorítmica da insubmissão" dos setianos (RC-766).
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Corpo átmico — projeção vs mergulho]:** «Ele criou uma projeção dele mesmo. O corpo átmico continua aqui, o corpo búdico aqui, mas aí ele cria uma cópia desse corpo búdico, cria uma projeção do que seria o corpo manásico dele aqui [...] Assim surgiu um ser chamado Prabrajna, com a vontade louca de criar.» — ver RC-152 (Prabrajna), RC-624 (Corpo Búdico), RC-625 (Corpo Manásico).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
