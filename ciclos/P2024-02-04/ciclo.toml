@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2024-02-04 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2024-02-04"
+titulo = "A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião"
+data_fonte = "04/02/2024"
+pasta_fonte = "ciclos/P2024-02-04"
+arquivo_fonte = "original.txt"
+sha256_fonte = "ff55b65dae3ad5ae24610fcefa151d3261f81164e76bd07895cc425bc4472708"
+
+baseline_commit = "9628420"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO — palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 97 KB · 59 linhas. Conteúdo central: Fatos vs narrativas (pós-verdade oficializada em 2016-2018); A invenção do pecado original e da queda como narrativa cruel para instaurar temor e submissão; A religião como peso da prestação de contas de certezas colecionadas; A verdadeira sabedoria como aprender todo dia e jogar fora todo dia; A dignidade como inconformismo sábio e código filosófico pessoal; O ser humano como processador único de qualia (experiência biológica); A Terra como point interdimensional e DNA humano como o mais moderno; A bondade humana como algo que foge ao controle do big data dos arcontes; Javé e seu corpo de plasma/antimatéria colapsado em 2021; Os arcontes e a tentativa de destruir a bondade humana; Nibiru e asteroides só causam catástrofes gravitacionais (romantismo desmistificado); Só humanos podem fazer o bem (arcontes não sabem, só não fazem o mal)."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
