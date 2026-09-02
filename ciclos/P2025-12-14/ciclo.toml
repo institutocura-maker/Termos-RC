@@ -1,0 +1,53 @@
+# ciclo.toml — ciclo leve P2025-12-14 · andaime escrito por `motor.py novo`
+# ──────────────────────────────────────────────────────────────────────────────
+# Toda curadoria mora AQUI. Regras vigentes: DESPACHO-DA-ESTEIRA-LEVE-2026-08-29.md.
+# O que está vazio abaixo é pendência do aplicador, não estado da Base: o portão D
+# confere cada número declarado e o livro-razão responde pelo que foi recusado.
+
+sigla = "P2025-12-14"
+titulo = "Os Fundamentos da Revelação Cósmica"
+data_fonte = "14/12/2025"
+pasta_fonte = "ciclos/P2025-12-14"
+arquivo_fonte = "original.txt"
+pacote = "pacote_P2025-12-14.txt"
+sha256_fonte = "ad646718063f817e300255eb02cf85bda8efe56692fb0d222554ac5d2024be54"
+
+baseline_commit = "19b1a40"   # HEAD de onde o ciclo partiu; o portão D mede DELTA
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false       # true só em ensaio declarado: o portão real é `aprovada`
+
+cobertura = "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 144.149 B · 152 linhas · 101 com fala · 24.993 palavras · 139.190 chars · cobertura 10/10 fatias provada (fatias 15.000 c). Tese: palestra fundacional — quatro pilares da revelação cósmica (Deus, Paraíso, Quebra de Protocolo, Queda de Seres); ovo cósmico transversal (China/Índia/ciência); submissão doentia (Goethe/Fausto); pedi e vos será dado como prisão; logion percebam o que está à vista; Enoque/Metatron e geopolítica cósmica; vinda de Maitreya/Madiim; dor como veículo de consciência; 400 bilhões de bits/segundo; microtúbulos; Jerônimo e remoção do livro de Enoque. Recolhe 25 formulações em 14 códigos. NENHUM termo novo. Fonte preservada em original.txt, SHA-256 na entrada."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["m****"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0      # fichas criadas por este ciclo (garimpo: nenhuma)
+ficha_true = 0   # viradas no cadastro
+termos = 0       # termos novos: nenhum criado no garimpo
+relacoes = 0     # arestas novas: só na aplicação
+vinculos = 0     # só na APLICAÇÃO    # códigos que passam a carregar a sigla do ciclo na lista de fontes
+
+[materializar]
+codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
+
+[vitorias]
+provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <trecho>"
+# A prova é um trecho LITERAL da `## Ampliação — <SIGLA>` da ficha: o motor confere byte a
+# byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
+# todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
+[ampliar]
+codigos = ["RC-001", "RC-072", "RC-489", "RC-671", "RC-481", "RC-037", "RC-104", "RC-400", "RC-529", "RC-273", "RC-009", "RC-672", "RC-474", "RC-562"]      # vazio = todos os códigos do pacote que já têm arquivo
+
+[tese]
+pontos = []      # prosa SEM «…»: sem apostila, o verbatim não cobre o resumo
+
+[definicoes]
+
+[observacoes]
+
+[travas]
+
+[lacunas]

@@ -1,0 +1,209 @@
+{
+ "sigla": "P2025-12-14",
+ "politica_de_cobertura": "GARIMPO INTEGRAL — palestra VERBATIM (fala original de Ellam, transcrição STT não refatorada) lida na íntegra: original.txt 144.149 B · 152 linhas · 101 com fala · 24.993 palavras · 139.190 chars · cobertura 10/10 fatias provada (fatias 15.000 c). Tese: palestra fundacional — quatro pilares da revelação cósmica (Deus, Paraíso, Quebra de Protocolo, Queda de Seres); ovo cósmico transversal (China/Índia/ciência); submissão doentia (Goethe/Fausto); pedi e vos será dado como prisão; logion percebam o que está à vista; Enoque/Metatron e geopolítica cósmica; vinda de Maitreya/Madiim; dor como veículo de consciência; 400 bilhões de bits/segundo; microtúbulos; Jerônimo e remoção do livro de Enoque. Recolhe 25 formulações em 14 códigos. NENHUM termo novo. Fonte preservada em original.txt, SHA-256 na entrada.",
+ "fonte": "ciclos/P2025-12-14/original.txt",
+ "sha256": "ad646718063f817e300255eb02cf85bda8efe56692fb0d222554ac5d2024be54",
+ "bytes": 144149,
+ "unidades_com_fala": 101,
+ "spans": [
+  {
+   "codigo": "RC-001",
+   "u": "U0014",
+   "chars": [
+    23127,
+    23285
+   ],
+   "largura": 158,
+   "verificada": true,
+   "texto": "Então assim, o que é que eu, Rogério, fiz e Esses quatro pontos cardeais, Deus, paraíso, quebra de protocolo de perfeição e seres do paraíso que de lá saíram."
+  },
+  {
+   "codigo": "RC-001",
+   "u": "U0014",
+   "chars": [
+    27759,
+    27855
+   ],
+   "largura": 96,
+   "verificada": true,
+   "texto": "Esse universo veio a existir porque surgiu uma sopa de quarques e gluons, diz a ciência oficial."
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0007",
+   "chars": [
+    4284,
+    4740
+   ],
+   "largura": 456,
+   "verificada": true,
+   "texto": "Pedi e vos será dado"
+  },
+  {
+   "codigo": "RC-072",
+   "u": "U0007",
+   "chars": [
+    8149,
+    8409
+   ],
+   "largura": 260,
+   "verificada": true,
+   "texto": "percebam o que está à vista"
+  },
+  {
+   "codigo": "RC-489",
+   "u": "U0069",
+   "chars": [
+    52918,
+    53101
+   ],
+   "largura": 183,
+   "verificada": true,
+   "texto": "Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé."
+  },
+  {
+   "codigo": "RC-489",
+   "u": "U0070",
+   "chars": [
+    57673,
+    57737
+   ],
+   "largura": 64,
+   "verificada": true,
+   "texto": "Esse grupo comandado por Jerônimo, eles tiram o livro de Enoque."
+  },
+  {
+   "codigo": "RC-671",
+   "u": "U0069",
+   "chars": [
+    54072,
+    54348
+   ],
+   "largura": 276,
+   "verificada": true,
+   "texto": "Viveu aqui 60 e poucos anos, mas viveu mais uns bões, bota 500, 600 anos no mínimo, mas dizem que foi inclusive alguns milênios como metatron nesse universo vizinho, ainda que ele fosse Enoque dentro de um e ficou conhecido como um tipo de mercado, como sendo um anjo de Javé."
+  },
+  {
+   "codigo": "RC-481",
+   "u": "U0070",
+   "chars": [
+    60226,
+    60393
+   ],
+   "largura": 167,
+   "verificada": true,
+   "texto": "E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas."
+  },
+  {
+   "codigo": "RC-037",
+   "u": "U0014",
+   "chars": [
+    28146,
+    28226
+   ],
+   "largura": 80,
+   "verificada": true,
+   "texto": "Mitologia ariana hindu, surgiram um dia surgiu um ovo chamado anda em sânscrito."
+  },
+  {
+   "codigo": "RC-104",
+   "u": "U0014",
+   "chars": [
+    28043,
+    28145
+   ],
+   "largura": 102,
+   "verificada": true,
+   "texto": "E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang."
+  },
+  {
+   "codigo": "RC-400",
+   "u": "U0088",
+   "chars": [
+    89902,
+    90024
+   ],
+   "largura": 122,
+   "verificada": true,
+   "texto": "A cada 1 segundo, 400 bilhões de bits de informação tentam penetrar no cérebro humano através das dendrites dos neurônios."
+  },
+  {
+   "codigo": "RC-400",
+   "u": "U0088",
+   "chars": [
+    90025,
+    90117
+   ],
+   "largura": 92,
+   "verificada": true,
+   "texto": "E mais especificamente através dos microtúbulos, que são os citoesqueletos desses neurônios."
+  },
+  {
+   "codigo": "RC-529",
+   "u": "U0052",
+   "chars": [
+    44521,
+    44660
+   ],
+   "largura": 139,
+   "verificada": true,
+   "texto": "A dor como veículo de consciência talvez seja o principal mecanismo a ser ser modificado para a total emancipação dos seres desse universo."
+  },
+  {
+   "codigo": "RC-273",
+   "u": "U0070",
+   "chars": [
+    58130,
+    58154
+   ],
+   "largura": 24,
+   "verificada": true,
+   "texto": "O livro de Enoque sumiu."
+  },
+  {
+   "codigo": "RC-009",
+   "u": "U0014",
+   "chars": [
+    29619,
+    29676
+   ],
+   "largura": 57,
+   "verificada": true,
+   "texto": "Já existi uma coisa e essa coisa é perfeita e é incriada."
+  },
+  {
+   "codigo": "RC-672",
+   "u": "U0070",
+   "chars": [
+    58768,
+    58848
+   ],
+   "largura": 80,
+   "verificada": true,
+   "texto": "Então, hoje nós humanos temos o livro de Enoque, o livro dos segredos de Enoque."
+  },
+  {
+   "codigo": "RC-474",
+   "u": "U0069",
+   "chars": [
+    52153,
+    52605
+   ],
+   "largura": 452,
+   "verificada": true,
+   "texto": "Então assim, o segundo ponto da revelação cósmica Não em importância, mas que se um ser humano quiser compreender os próximos acontecimentos da geopolítica que envolve a Terra, fatalmente vai ter que estudar bastante sobre Enoque, sobre a figura de Metatron, sobre a geopolítica cósmica e sobre essa história de que ao longo das páginas da evolução humana sempre tem anúncio de avatares vindo à Terra e esses avatares chegam aqui e produzem revelações."
+  },
+  {
+   "codigo": "RC-562",
+   "u": "U0088",
+   "chars": [
+    89760,
+    89901
+   ],
+   "largura": 141,
+   "verificada": true,
+   "texto": "pululam em torno da cabeça de um ser humano como sendo flutuação quântica sobre a forma de energia se transformando em partículas informadas."
+  }
+ ],
+ "recusa": []
+}

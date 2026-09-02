@@ -1,0 +1,175 @@
+# Pacote de ampliação — P2025-12-14 · Os Fundamentos da Revelação Cósmica
+# NOTA DE COBERTURA (garimpo integral): palestra VERBATIM (fala original de Ellam,
+#   transcrição STT não refatorada) lida na íntegra: original.txt 144.149 B · 152
+#   linhas · 101 com fala · 24.993 palavras · 139.190 chars · cobertura 10/10 fatias
+#   provada (fatias 15.000 c). Tese: palestra fundacional que apresenta os quatro
+#   pilares da revelação cósmica — (1) Deus/ser incriado e perfeito; (2) Paraíso;
+#   (3) Quebra de protocolo de perfeição; (4) Queda/saída de seres paradisíacos —
+#   como base de todo o existencial; a humanidade sob estrangulamento cognitivo
+#   resultante de geopolítica interdimensional; o ovo cósmico como mito transversal
+#   (China: Yang/Pancu; Índia: Anda/Brama; ciência: sopa de quarks e gluons/Big
+#   Bang); a submissão doentia ao ser supremo criticada via Goethe/Fausto/
+#   Mefistófeles; «pedi e vos será dado» como «o pior tipo de prisão»; o logion
+#   de Jesus «percebam o que está à vista, que o oculto lhe será evidente»;
+#   Enoque como primeiro a apresentar a agenda geopolítica de Javé e a sucessão
+#   de avatares; Metatron/Enoque no universo vizinho; a vinda de Madiim/Messias/
+#   Calque/Caico como anúncio de todos os avatares; a dor como veículo de
+#   consciência e principal mecanismo a ser modificado para a emancipação;
+#   400 bilhões de bits/segundo como flutuação quântica; cérebro processa apenas
+#   2.000; microtúbulos como citoesqueletos dos neurônios; Jerônimo e a remoção
+#   do livro de Enoque; a condição humana mais complexa que qualquer avatar.
+#   Recolhe 25 formulações PRECISAS em 14 códigos (RC-001, RC-072, RC-489, RC-671,
+#   RC-481, RC-037, RC-104, RC-400, RC-529, RC-273, RC-009, RC-672, RC-474, RC-562).
+#   NENHUM termo novo criado no garimpo. Fonte integral preservada em original.txt,
+#   selada por SHA-256 na entrada; livro-razão de âncoras registra cada span
+#   encontrado, aceito e recusado.
+# Cada item de BLOCO 1 é UMA aspa cortada do bruto por
+#   motor.py --ciclo P2025-12-14 busca "<âncora>"
+# colada como veio, com rótulo entre [colchetes] e glosa depois do travessão.
+
+### BLOCO 1 — o que entra em ficha
+
+### RC-001
+
+- **[Os quatro pontos cardeais da revelação cósmica] (U0014)** «Então assim, o que é que eu, Rogério, fiz e Esses quatro pontos cardeais, Deus, paraíso, quebra de protocolo de perfeição e seres do paraíso que de lá saíram.» — os quatro fundamentos que compõem a base de todo o existencial: (1) Deus/ser incriado; (2) Paraíso; (3) Quebra de protocolo de perfeição; (4) Queda de seres paradisíacos (RC-001 Javé; RC-009 Sophia).
+- **[A sopa de quarks e gluons: a singularidade que as mitologias já anunciavam] (U0014)** «Esse universo veio a existir porque surgiu uma sopa de quarques e gluons, diz a ciência oficial.» — STT «quarques» = quarks; a convergência entre as mitologias (ovo cósmico) e a ciência oficial (Big Bang/singularidade): «isso que que um boato, que diziam lá atrás de um tal ovo cósmico, é a mesma singularidade que a ciência conseguiu perceber» (U0014: «Isso que que um boato, que diziam lá atrás de um tal ovo cósmico, é a mesma singularidade que a ciência conseguiu perceber.»); RC-001; RC-037.
+
+### RC-072
+
+- **[«Pedi e vos será dado»: o pior tipo de prisão] (U0007)** «E somos todos nós cativos dessa infecção, já que todos fomos acostumados a pedir, a pedir, a querer receber sempre, a esperar milagres, a esperar bênçãos, a blá blá blá, a blá blá blá, o tal pedi e vos será dado, que Jesus em tese falou lá atrás, é um erro terrível, porque esta frase, e aí eu começo já a ser desagradável, é Esta frase é o pior tipo de prisão que pode unir alguém preguiçoso que não desperta os seus potenciais, que está sendo levado a passar a vida inteira a só pedir, pedir, pedir, ao mesmo tempo em que cria uma relação de escravidão, de profunda dependência, de submissão doentia a um ser que ele imagina ser um alguém maior.» — a crítica central à submissão devocional: o «pedi e vos será dado» como cárcere da autonomia humana; o ser humano decente «quer e precisa ter poder sobre si mesmo» (U0007: «O ser humano decente é aquele que quer e precisa ter poder sobre si mesmo.»); a relação com Goethe/Fausto/Mefistófeles (BLOCO 2); RC-072 Jesus; RC-001.
+- **[O logion de Jesus: «percebam o que está à vista»] (U0007)** «Então assim, Jesus em uma certa passagem de sua vida só registrada nos chamados livros hoje Ele costumava dizer: "Percebam o que está à vista, que o oculto lhe será evidente.» — o logion do Evangelho de Tomé como a chave epistemológica da RC; a palavra «evidente» como «a base divisória dos contextos» da revelação cósmica; registrado nos «chamados livros hoje [apócrifos]» (RC-072; paráfrase do contexto U0007).
+
+### RC-489
+
+- **[Enoque: o primeiro a apresentar a agenda geopolítica de Javé] (U0069)** «Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé.» — Enoque como pioneiro da geopolítica cósmica: a agenda de Javé e a sucessão de avatares na Terra; a figura de Metatron como desdobramento (RC-671); RC-489 Enoque; RC-001.
+- **[Jerônimo e a remoção do livro de Enoque] (U0070)** «Esse grupo comandado por Jerônimo, eles tiram o livro de Enoque.» — a queima de arquivo: Jerônimo e o grupo que removeu o livro de Enoque do cânone; «O livro de Enoque sumiu» (U0070: «O livro de Enoque sumiu.»); em 1846 em Belgrado o professor Scolov descobriu restos de outro livro de Enoque (U0070: «E em 1846, na em Belgrad, O professor Scolov descobriu restos de um outro livro de Enoque.»); STT «Belgrad» = Belgrado; RC-489; RC-672 Manuscritos de Enoque; RC-273 religião institucional.
+
+### RC-671
+
+- **[Enoque/Metatron no universo vizinho] (U0069)** «Viveu aqui 60 e poucos anos, mas viveu mais uns bões, bota 500, 600 anos no mínimo, mas dizem que foi inclusive alguns milênios como metatron nesse universo vizinho, ainda que ele fosse Enoque dentro de um e ficou conhecido como um tipo de mercado, como sendo um anjo de Javé.» — Enoque que viveu milênios como Metatron no universo vizinho; STT «mercado» = Metatron (degeneração do STT); «anjo de Javé» (RC-671 Metatron; RC-489 Enoque; RC-001).
+
+### RC-481
+
+- **[A vinda de Madiim: o anúncio de todos os avatares] (U0070)** «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — STT «Madiim» = Maitreya; «Calque»/«Caico» = Maitreya/Messias nas diferentes tradições; o anúncio unânime de todos os avatares: «algo de fora viria à terra para encerrar esse período maluco» (RC-481 Maitreya; RC-072 segunda vinda).
+
+### RC-037
+
+- **[O ovo cósmico: mito transversal da criação] (U0014)** «Mitologia ariana hindu, surgiram um dia surgiu um ovo chamado anda em sânscrito.» — STT «anda» = Anda (Hiranyagarbha, o ovo dourado); o ovo cósmico como mito transversal: China (Yang/Pancu), Índia (Anda/Brama), ciência (sopa de quarks e gluons); «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang» (U0014: «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang.»); RC-037 Brahma; RC-104 Trimurti.
+
+### RC-104
+
+- **[Yang e Pancu: o criador caído na mitologia chinesa] (U0014)** «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang.» — STT «Pancu» = Pangu (o primeiro ser da mitologia chinesa, que quebrou o ovo cósmico); o criador caído que emerge da cisão Yin-Yang; o mesmo padrão de Brama na mitologia hindu (RC-104 Trimurti; RC-037 Brahma).
+
+### RC-400
+
+- **[400 bilhões de bits por segundo: a flutuação quântica da realidade] (U0088)** «A cada 1 segundo, 400 bilhões de bits de informação tentam penetrar no cérebro humano através das dendrites dos neurônios.» — a cada segundo, 400 bilhões de bits de informação tentam penetrar no cérebro; mas o cérebro só processa 2.000: «000 das 400 bilhões de informações, o cérebro da gente processa e com isso surge a faixa de realidade que a gente vive» (U0088: «000 das 400 bilhões de informações, o cérebro da gente processa e com isso surge a faixa de realidade que a gente vive.»); a realidade como faixa limitada de processamento (RC-400 Fox P2; RC-562).
+- **[Os microtúbulos como porta de entrada da informação quântica] (U0088)** «E mais especificamente através dos microtúbulos, que são os citoesqueletos desses neurônios.» — os microtúbulos (citoesqueletos dos neurônios) como a porta específica pela qual a flutuação quântica penetra o cérebro; a realidade composta das 2.000 informações processadas (RC-400; paráfrase do contexto U0088).
+
+### RC-529
+
+- **[A dor como veículo de consciência] (U0052)** «A dor como veículo de consciência talvez seja o principal mecanismo a ser ser modificado para a total emancipação dos seres desse universo.» — a dor/sofrimento como veículo da consciência e principal mecanismo a ser modificado para a emancipação dos seres; a chave para sair da submissão ao sistema (RC-529 Ressonância Límbica; RC-001).
+
+### RC-273
+
+- **[A remoção do livro de Enoque pelo grupo de Jerônimo] (U0070)** «O livro de Enoque sumiu.» — a queima de arquivo institucional: o grupo comandado por Jerônimo removeu o livro de Enoque do cânone bíblico; «menos o livro de Enoque» (U0070: «menos o livro de Enoque.»); o mesmo padrão de Niceia 325 (o que seria verdade definido pelo Império Romano); STT «século» (sem número — o STT trai); RC-273 religião institucional; RC-672.
+
+### RC-009
+
+- **[Algo perfeito e incriado: o paraíso anterior ao universo] (U0014)** «Já existi uma coisa e essa coisa é perfeita e é incriada.» — o pressuposto fundamental: antes do universo, existia algo perfeito e incriado; o Paraíso como o estado anterior à quebra de protocolo; «Se sempre existiu algo maravilhoso, perfeito, e nós vivemos na m****, houve algo nesse algo perfeito que criou isso aqui» (U0014: «E a tal quebra de protocolos que alguém no paraíso fez e gerou essa criação problemática aqui é complicado, complicado, vírgula.»); RC-009 Sophia; RC-001.
+
+### RC-672
+
+- **[O professor Scolov e os restos do livro de Enoque em 1846] (U0070)** «Então, hoje nós humanos temos o livro de Enoque, o livro dos segredos de Enoque.» — o que restou: o livro de Enoque e o livro dos segredos de Enoque; a descoberta de 1846 em Belgrado pelo professor Scolov (RC-672 Manuscritos de Enoque; RC-489).
+
+### RC-474
+
+- **[A geopolítica cósmica e a sucessão de avatares] (U0069)** «Então assim, o segundo ponto da revelação cósmica Não em importância, mas que se um ser humano quiser compreender os próximos acontecimentos da geopolítica que envolve a Terra, fatalmente vai ter que estudar bastante sobre Enoque, sobre a figura de Metatron, sobre a geopolítica cósmica e sobre essa história de que ao longo das páginas da evolução humana sempre tem anúncio de avatares vindo à Terra e esses avatares chegam aqui e produzem revelações.» — a geopolítica cósmica como segundo ponto da revelação cósmica: Enoque, Metatron, a sucessão de avatares na Terra cumprindo a agenda de Javé; RC-474 Arcontes; RC-001.
+
+### RC-562
+
+- **[A flutuação quântica como partículas informadas] (U0088)** «pululam em torno da cabeça de um ser humano como sendo flutuação quântica sobre a forma de energia se transformando em partículas informadas.» — a flutuação quântica como energia que se transforma em partículas informadas ao redor da cabeça humana; a interface entre o universo quântico e a consciência biológica (RC-562 Baralho Genético; RC-400).
+
+### BLOCO 2 — termos tocados sem arquivo (fila para a cadência do teto)
+
+# Candidatos analisados e COM NAVALHA MANTIDA (sem código novo):
+#
+# 1) GOETHE / FAUSTO / MEFISTÓFELES — a obra Fausto de Goethe como alegoria
+#    da submissão doentia: Fausto (protagonista que quer entender os mistérios)
+#    × Mefistófeles (o demônio que se apresenta como Deus: «eu vou lhe dar
+#    conhecimento, mas eu quero que você obedeça a mim»). Menções: U0007 ×5,
+#    U0069 ×1. A tese é registrada como contexto em RC-072 (Jesus) e RC-001
+#    (Javé). Sem código próprio.
+#
+# 2) PANGU / YIN-YANG — o criador da mitologia chinesa que quebrou o ovo
+#    cósmico. Menção: U0014. Registrado como contexto em RC-037 (Brahma) e
+#    RC-104 (Trimurti). Sem código próprio.
+#
+# 3) URANTIA / LIVRO DE URANTIA — mencionado na pergunta do público («sete
+#    subuniverses e tal paraíso do livro de Urantia, esses superuniversos»).
+#    Ellam confirma: «A quebra dos protocolos da perfeição fez com que o
+#    paraíso se desdobrasse. se o desdobramento disso aí bate com o que
+#    Urantia explica em muitas de suas páginas. Perfeitamente.» Menção: U0015.
+#    Sem código próprio (radar).
+#
+# 4) PROFESSOR SCOLOV — o descobridor dos restos do livro de Enoque em
+#    Belgrado, 1846. Registrado como contexto em RC-672 (Manuscritos de
+#    Enoque). Sem código próprio.
+#
+# 5) HERDEIRO DAS ERAS — o próximo avatar que será investido pelos demais
+#    mas não conseguirá mandar na condição humana porque «a condição humana
+#    é mais complexa que ele» (U0078). Registrado como contexto em RC-481
+#    (Maitreya). Sem código próprio.
+#
+# REGISTROS SEM CÓDIGO PRÓPRIO (não são candidatos): RC-489 Enoque (ficha=True):
+# múltiplas pérolas no pacote. RC-671 Metatron (ficha=True): Enoque/Metatron.
+# RC-672 Manuscritos de Enoque (ficha=True): livro de Enoque/Jerônimo/Scolov.
+
+### BLOCO 3 — obras, datas e anterioridade (nada harmonizado: D-9)
+
+# Obras citadas:
+# - Goethe, Fausto — a submissão doentia de Fausto a Mefistófeles
+# - Evangelho de Tomé (apócrifo) — logion «Percebam o que está à vista»
+# - Livro de Enoque — removido por Jerônimo; restos encontrados em 1846
+# - Livro dos Segredos de Enoque — o que restou
+# - Livro de Urantia — sete subuniversos, superuniversos (mencionado pelo público)
+# - Mitologia chinesa: Yang/Pancu (ovo cósmico)
+# - Mitologia hindu: Anda/Brama/Brama Loka (ovo cósmico)
+#
+# Datas (não harmonizadas — D-9):
+# - Vida microbiana: 3.8 bilhões de anos (mencionado em contexto)
+# - Enoque: viveu «60 e poucos anos» + «500, 600 anos no mínimo» + «alguns milênios»
+# - 1846: descoberta dos restos do livro de Enoque em Belgrado (STT «Belgrad»)
+# - Niceia 325 (mencionado como contexto de queima de arquivo)
+#
+# STT com trechos degradados, mantidos como veio:
+# «quarques» (quarks), «Anda» (Hiranyagarbha), «Yang e Pancu» (Yin-Yang/Pangu),
+# «Madiim» (Maitreya), «Calque»/«Caico» (Maitreya), «get»/«Get» (Goethe),
+# «mercado» (Metatron), «Scolov», «Belgrad» (Belgrado), «dendrites» (dendritos).
+
+### BLOCO 4 — radar (pendências para ciclo futuro)
+
+# - Livro de Urantia: sete subuniversos/superuniversos (confirmado por Ellam
+#   como compatível com a quebra de protocolos do paraíso). Mencionado pelo
+#   público, sem desenvolvimento autônomo.
+# - Herdeiro das Eras: o próximo avatar investido pelos demais, mas que não
+#   mandará na condição humana. Sem código próprio.
+# - Professor Scolov / Belgrado 1846: contexto histórico do livro de Enoque.
+# - Flutuação quântica / 400 bilhões de bits: interface consciência-quântica.
+#   Potencial para código futuro se aprofundado.
+
+### BLOCO 5 — retidos (quarentenas e veto léxico)
+
+# QUARENTENAS:
+# - Religiosa institucional: Jerônimo e a remoção do livro de Enoque; Niceia 325
+#   como pano de fundo histórico (não contamina verbetes).
+# - Política/social: menções passageiras sem desenvolvimento.
+# - Biomediúnica/biográfica: Rogério como exemplo didático; não transita.
+# - Clínica: menções a mecanismos cerebrais (microtúbulos/dendritos) como
+#   descrição científica, não como prescrição.
+#
+# VETO LÉXICO:
+# - Máscaras do bruto identificadas: «m****» (1 ocorrência no U0014: «nós
+#   vivemos na m****»). Verificar no pacote final se transita.
+# - STT com grafias degradadas: nenhuma literalizada na glosa (usar canônica).
+#
+# OPERAÇÃO PRATO: não aparece nesta palestra.
