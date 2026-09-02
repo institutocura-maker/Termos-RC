@@ -1,6 +1,6 @@
 # STATUS-HANDOFF — 02/09/2026 (continuação da sessão)
 
-**Branch:** `arena/01a0614c-termos-rc` · **HEAD:** `9b75827` (P2024-01-13 FASES 2-4 concluído) · remoto sincronizado.
+**Branch:** `arena/01a0614c-termos-rc` · **HEAD:** `0007bde` (P2023-10-15 FASES 2-4 concluído) · remoto sincronizado.
 
 ---
 
@@ -22,8 +22,8 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 ## Estado da Base (atualizado em 02/09/2026)
 
-- **908 termos · 1.869 relações · 599 arquivos · 596 `ficha=True`**
-- **17 códigos novos criados nesta sessão:** RC-889 a RC-908
+- **916 termos · 1.869 relações · 607 arquivos · 604 `ficha=True`**
+- **25 códigos novos criados nesta sessão:** RC-889 a RC-916
   - RC-889 — Biblioteca Genômica Humana (P2024-03-17)
   - RC-890 — Eu Observador (P2024-03-17)
   - RC-891 — Ismos como Limitação Genômica (P2024-03-17)
@@ -44,10 +44,27 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
   - RC-906 — Yoga Tibetana dos Sonhos (P2024-01-13)
   - RC-907 — Tonteltã (P2024-01-13)
   - RC-908 — Sonhos como Realidades Paralelas (P2024-01-13)
+  - RC-909 — Deus Não Se Incomoda com o Sofrimento (P2023-10-15)
+  - RC-910 — O Bem Feito Apenas por Humanos (P2023-10-15)
+  - RC-911 — DNA com 2 Hélices Ligadas (P2023-10-15)
+  - RC-912 — Aparições Marianas (P2023-10-15)
+  - RC-913 — Delírio Coletivo (P2023-10-15)
+  - RC-914 — Frodo e Sam (P2023-10-15)
+  - RC-915 — Westworld como Metáfora (P2023-10-15)
+  - RC-916 — O Banquete Metafórico (P2023-10-15)
 
 ---
 
 ## Ciclos Processados Nesta Sessão (02/09/2026)
+
+### ✅ P2023-10-15 «Delírio Humano a Insensatez Espiritual da Busca Religiosa» — FECHADO
+- **Arquivo:** `uploads_recepcao/2023-10-15 - Delírio Humano a Insensatez Espiritual da Busca Religiosa.txt` (137 KB, 43 linhas)
+- **SHA256:** `3e3ccc184271c9610f52dea0d2bc1230c0d1c508fea6e96cd24c71c93a4898e4`
+- **Garimpo:** 25 pérolas identificadas em `ciclos/P2023-10-15/pacote_P2023-10-15.txt`
+- **Ampliações:** 5 fichas ampliadas (RC-070, RC-414, RC-712, RC-722, RC-749)
+- **Códigos novos:** 8 (RC-909 a RC-916)
+- **Δ realizado:** `arquivos +8 · ficha_true +8 · termos +8 · relacoes 0 · vinculos +5`
+- **Commits:** `c51bb15` → `0007bde` (push OK)
 
 ### ✅ P2024-01-13 «A Teia da Vida e o Circuito Oculto dos Deuses» — FECHADO
 - **Arquivo:** `uploads_recepcao/2024-01-13 - A Teia da Vida e o Circuito Oculto dos Deuses.txt` (115 KB, 74 linhas)
@@ -119,4 +136,4 @@ Após isso: `git status` limpo, HEAD = remoto = `e280bbd`.
 
 ---
 
-**Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `9b75827`
+**Última atualização:** 02/09/2026 — sessão em `arena/01a0614c-termos-rc` — HEAD `0007bde`
