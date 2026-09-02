@@ -140,9 +140,15 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[Brama: o segundo problema, a face local do ser caído] (U0009)** «O segundo problema é que no que foi gerado e esse ser caiu, essa figura que se reconstruiu como brama, desde que ele existe como brama, ele só fez coisas erradas aqui dentro.» — "E Brama é só uma face desse espírito caído lá em perpétua" (U0012: «E Brama é só uma face desse espírito caído lá em perpétua.»); a queda desintegrada em seres unicelulares: "quando esse ser caiu, ele caiu desintegrado do que a gente chama de vírus" (U0009: «Se reconstruiu lá com Bom, quando esse ser caiu, ele caiu desintegrado do que a gente chama de vírus.»); "Aqui a gente chama de bactérias, protozoários, cianobactérias e algumas canoalgas, desculpa, e algumas espécies de fungos" (U0009: «Aqui a gente chama de bactérias, protozoários, cianobactérias e algumas canoalgas, desculpa, e algumas espécies de fungos.»); "tem partes podres de Javer que não tem jeito" (U0091: «Entenda, tem partes podres de Javer que não tem jeito.»).
 
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[Capila e Buda: o divisor de águas de 2.700 anos] (U0006)** «E mais especificamente, a cerca de 2700 anos para cá, quando um certo divisor de águas, seguramente promovido através de um plano, quando na Índia Capilas Sidart Gautama produziram o Squia e o ismo, dizendo, ó, essa história de Deuses, de religião, esqueçam, tá estragando a vida humana que ainda está no laboratório.» — STT «Capilas» = Capila, «Sidart Gautama» = Siddhartha Gautama (Buda), «Squia e o ismo» = Samkhya e Budismo; o divisor de águas que introduziu o raciocínio crítico (RC-037 Brahma/Trimurti; RC-104).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |
 | P2022-07-16 | Do Ramayana ao Mahabharata (palestra) | — | transcrição automatizada; citação |

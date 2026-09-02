@@ -31,10 +31,18 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 - **[B040 p. 34–35]** “Quando um ‘primeiro humano’ teve… a ideia de ser gentil, o seu DNA pessoal instantaneamente reprogramou o seu código”; evolução vertical (dionisíaca) × horizontal (apolínea / massa crítica).
 - **Quarentena científica + clínica:** genótipos GG/AG/AA e o mecanismo “ideia → DNA” = cronologia interna do autor, jamais diagnóstico nem fato genético validado. Sheldrake (p. 29) = **referência externa**. Sem fusão com P2024-03-03. Fonte **B040** acrescentada na tabela-mestra.
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[O genótipo GG da gentileza: só ~12.000 anos] (U0008)** «A gente falou no GN Fox P2, mas tem o genótipo GG, que só defuntos humanos de 12.000 anos para cá, alguns defuntos Alguns fósseis têm o genótipo GG no seu genoma, pessoal.» — o genótipo GG (gentileza) só aparece em fósseis humanos a partir de ~12.000 anos; antes disso, ninguém tinha (RC-748 Genótipo da Gentileza; RC-562).
+- **[O genótipo GG não foi Deus que criou] (U0008)** «Porque o genótipo GG não foi Deus que criou.» — a gentileza como construção evolutiva, não dádiva divina; o livre arbítrio como motor da mudança genômica (RC-748; RC-001).
+- **[Três grupos genômicos: AA, AG e GG] (U0008)** «A humanidade em termos desse genótipo é dividido em três grupos. O grupo AA, que é totalmente grosseiro, pessoas grosseiras, o grupo que tem AG, a Às vezes a pessoa é grosseira, às vezes é gentil. E um texto da humanidade tem um genópio GG, ou seja, ou seja, tendem a ser gentis.» — a distribuição humana: AA (grosseiros), AG (intermediários), GG (gentis); o genótipo GG como a `mutação chique` (RC-748; paráfrase U0008).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2024-03-03 | bloco pós-intervalo (fósseis, HR1/HR2, gentileza) | palestra/STT pré-curada |
 
 ## Citação-chave

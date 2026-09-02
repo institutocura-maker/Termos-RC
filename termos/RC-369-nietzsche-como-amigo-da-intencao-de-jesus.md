@@ -34,9 +34,15 @@ O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jes
 
 - **[P2022-03-26 · NIETZSCHE COMO AMIGO DA INTENÇÃO DE JESUS NA FALA DE 26/03/2022]** "tentativa adulta de se olhar à moda de humanos emancipados que em analisando um problema, pois é, isso aqui a gente não tem como concluir, vamos guardar, vamos colecionar com uma possibilidade de estudo, não, mas não vamos assumir isso como certeza." (U0005) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[Nietzsche: «humanidade infantiloide»] (U0008)** «Se for assim, lá no princípio, o bem necessariamente parece que não existe, porque se ela existisse, tanta coisa ruim que tem hoje em dia, não só na espécie humana, mas em muitas coisas, nos leva a pensar que assim é como Nietzs disse: "Ei, humanidade infantiloide".» — STT «Nietzs» = Nietzsche; a humanidade condicionada a achar que no princípio só existia coisa legal, e o questionamento «será?» como porta para a maturidade filosófica (RC-369; RC-371).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |
 | P2020-04-25 | Os Desdobramentos da Rebelião de Lúcifer (palestra) | — | transcrição automatizada; citação |
 | Jesus e Nietzsche (B049) | caps. 10–14 | pp. 150–220 (aprox.) | tese central |

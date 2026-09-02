@@ -42,3 +42,7 @@ Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas ante
 - **[Pistofia: o epíteto do ser criador na condição anterior] (U0009)** «Pistofia, que é o epíteto do ser criador, quando ele existia na sua condição anterior de divindade cocriadora.» — «Pistofia»/«Pisto Sofia»/«Piste Sofia» (STT) = Pistis Sophia; a sabedoria orgulhosa que tentou criar sem o tutor: "Pistes Sofia é uma sabedoria orgulhosa, metida besta" (U0009: «Pistes Sofia é uma sabedoria orgulhosa, metida besta.»); dela saiu o caos e o próprio Samael (RC-530).
 - **[Sofia é epíteto, não nome próprio] (U0009)** «Então, Sofia não é um nome próprio, é um epíteto.» — "Sofia significa sabedoria" (U0009: «Sofia significa sabedoria.»); o mesmo epíteto cobre o tutor (que mais tarde assumiu a feição de Virgo/Vishnu) e o ser do nosso universo — dois Sofias distintos no bruto (RC-530; RC-784; canônica Sophia na glosa).
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[O Mentalma como ferramenta de auto-observação] (U0057)** «Mas o mentalma que eu criei foi para eu não fazer isso, para eu não me repetir nunca.» — o Mentalma (livro/ferramenta de Ellam) como instrumento para o humano perceber suas idiotices e provocar mutações no próprio DNA; a auto-observação como via de mudança epigenética (RC-530; RC-562).
+

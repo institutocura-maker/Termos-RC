@@ -441,3 +441,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[Sofia, José e Jesus: três faces de um só espírito] (U0012)** «Sofia, José e Jesus são três faces desse espírito.» — as três personalidades do ser lá fora: "a esse ser estão vinculados essas três personalidades, só que uma está inativa, a outra virou um logos espiritual na mente desse ser" (U0009: «E um dia eu devo fazer uma palestra chamada Javé, Sofia e Jesus, o impasse na reversibilidade genética ou coisa parecida, o que vai explicar a situação desse ser fora do da blindagem, mas a esse ser estão vinculados essas três personalidades, só que uma está inativa, a outra virou um logos espiritual na mente desse ser.»); a era de Sofia: "Sofia chegou, se inicia no outro dia essa era" (U0009: «Sofia chegou, se inicia no outro dia essa era.»).
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[O ser puro: imanente, mas não bondoso] (U0027)** «Esse ser talvez não seja bom. Cacetada é só amor, talvez não. Ele é o quê? O que os espíritos dizem? É um ser. puro. Puro não quer dizer bondoso.» — o ser do princípio é puro (sustenta todas as faixas de realidade), mas puro ≠ bondoso; a bondade é construção tardia (RC-009 Sophia; RC-001).
+

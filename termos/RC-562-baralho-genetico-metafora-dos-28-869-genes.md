@@ -60,10 +60,17 @@ Metáfora do crupier/cassino aplicada ao genoma: assim como um baralho tem 52 ca
 - **[28.869 genes, dos quais 900 produzem proteína] (U0026)** «869 genes, os quais são os 900 produz proteína porque o resto tá desligado, funciona no outro.» — o restante do genoma desligado "funciona no outro sentido" (RC-562 Baralho genético): cada célula produz cerca de 2.000 proteínas como capacidade máxima; até hoje os humanos produziram ~20.000 tipos de proteínas, com novas descobertas a cada dia (paráfrase U0041 — números no BLOCO 3).
 
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[Substituição de DNA bichado por DNA chique] (U0024)** «é substituição de DNA bichado por DNA chique.» — a epigenética como ferramenta de mutação consciente: cada vez que o humano desaprende uma grosseria, substitui genes grosseiros (herança do criador caído) por genes sofisticados (RC-562 Baralho Genético; RC-748).
+- **[O epigenoma é o que vive] (U0090)** «Quem vive é o epigenoma de cada um de nós, ou seja, é o genoma de cada ser que vive.» — o corpo morre, o eu vai embora, mas o genoma retoma na próxima vinculação; o epigenoma vai ligando e desligando genes conforme as experiências (RC-562; RC-001).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2021-06-26 | Shiva - A Reconstrução do Erro de Brahma e o Tikum (palestra) | — | transcrição automatizada; citação |
 | P2021-02-28 | Tragédia Anunciada - As Fórmulas Mentais do Poder Demo (palestra) | — | transcrição automatizada; citação |

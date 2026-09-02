@@ -43,9 +43,15 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **[Helena: as relíquias para a conversão de Constantino] (U0004)** «As pessoas não sabem o que Helena, a mãe de Constantino, foi atrás em Jerusalém.» — a busca dos textos gnósticos pela mãe de Constantino: "A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo" (U0004: «A história do cristianismo diz que Helena foi quem levou para Constantino as relíquias de fé suficientes para que Constantino se convertesse ao cristianismo no início do século 4 e parasse de perseguir o cristianismo.»); o resgate fracassado que Boécio retomaria no séc. V (RC-273; BLOCO 2 — Boécio).
 
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[Agostinho de Hipona e a imposição dogmática] (U0008)** «Então assim, aí Agostinho bateu na mesa e disse: "A partir de hoje, quem desconfia de que a vida não é boa ou que Deus não é perfeito, vai pro inferno".» — STT «Agostinho Dipona»/«Agostinho de Pon» = Agostinho de Hipona (séc. IV-V); a imposição que encerrou o questionamento sobre a bondade divina e o problema do mal durante séculos (RC-273; religião institucional como quarentena).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 | Sophia e o Logos Criadores (B014) | cap. 17 (A Falsa Trindade) | pp. 190–205 (aprox.) | capítulo dedicado |

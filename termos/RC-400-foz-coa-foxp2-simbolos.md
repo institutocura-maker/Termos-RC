@@ -29,9 +29,16 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 - **[O gene Fox P2: o da linguagem e da racionalidade] (U0041)** «Pô, sobre o cérebro límbico mamífero, surgiu o cérebro primata e no topo do cérebro primata um córtex cerebral, no qual o gene Fox P2, que é o da linguagem, o da racionalidade surgiu.» — a cronologia fóssil do gene: fósseis de homo sapiens com 50-60.000 anos não têm o gene no genoma; a partir de ~40.000/37.000 anos ele aparece (paráfrase U0054): "000 anos, você não vai encontrar o GN Fox P2 no genoma deles" (U0054: «000 anos, você não vai encontrar o GN Fox P2 no genoma deles.»); STT «GN Fox P2» (RC-400 Foz Côa/FOXP2).
 
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[O gene Fox P2 e a racionalidade humana: ~48.000 anos] (U0006)** «000 anos para cá, quando o Gene Fox P2, o gen que faz com que o ser humano possa ser racional, começou a aparecer nos fósseis dos humanos antigos.» — a cronologia da racionalidade: o gene Fox P2 surgiu nos fósseis há ~48.000 anos; antes disso, o Homo sapiens existia há 60-70.000 anos mas sem racionalidade (RC-400 Fox P2; RC-562 Baralho Genético).
+- **[O mistério da origem do Fox P2] (U0006)** «000 anos era o Homo Sáps, mas não racionalizado, sem o gene Fox P2. Um dos mistérios é esse gene veio de onde?» — a pergunta não respondida pela ciência: de onde veio o gene da racionalidade? (RC-400; paráfrase do contexto U0006).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2024-08-03 | U1554–U1568 | palestra/STT |
 | P2022-12-17 / P2021-12-04 / P2024-05-04 / P2025-02-16 / P2025-02-15 / P2024-11-30 / P2024-11-09 / B050 / B061 | — | obras/palestras |

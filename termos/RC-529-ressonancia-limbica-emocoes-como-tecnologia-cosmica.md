@@ -54,9 +54,15 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 - **[Ressonância límbica: sentir o que o outro mamífero sente] (U0041)** «Um Os temas mais importantes da humanidade, discretamente a ciência vem falando dele nos últimos tempos, que é algo que se chama ressonância límbica.» — a definição: "É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo" (U0041: «É o fato que permite um mamífero reconhecer o que tá acontecendo com outro mamífero, ou seja, ele sentir o que o outro mamífero tá sentindo.»); o canal emocional como tecnologia cósmica (RC-529).
 
 
+## Ampliação — P2022-11-19 (No Princípio era o Bem! Será)
+
+- **[Nós mamíferos amamos quem nos agride] (U0027)** «Nós mamíferos fazemos isso.» — a capacidade de amar quem nos agride como exclusividade mamífera; os seres «perfeitos» do paraíso não conseguem fazer isso; nós, filhos do caos, conseguimos (RC-529 Ressonância Límbica; RC-072).
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2024-08-03 | U0660–U0700 | palestra/STT |
 | P2024-07-14 | U0880–U0900 | palestra/STT |

@@ -24,11 +24,11 @@ veto_lexico = ["m****", "p****"]   # máscaras do próprio bruto: 2 padrões
 fichas_que_nomeiam_grupo = []
 
 [delta_esperado]
-arquivos = 0      # fichas criadas por este ciclo (garimpo: nenhuma; sem candidatos novos)
-ficha_true = 0   # viradas no cadastro (todas as 15 fichas já existem com ficha=True, exceto RC-063/RC-406 ficha=False)
-termos = 0       # termos novos: nenhum criado no garimpo
-relacoes = 0     # arestas novas: só na aplicação (se autorizada)
-vinculos = 0     # códigos que passam a carregar a sigla do ciclo na lista de fontes (só na APLICAÇÃO)
+arquivos = 0      # fichas criadas por este ciclo (13 ampliadas; RC-406/RC-063 ficha=False sem arquivo)
+ficha_true = 0   # viradas no cadastro (nenhuma)
+termos = 0       # termos novos: nenhum (navalha mantida em 5 candidatos)
+relacoes = 0     # arestas novas: nenhuma
+vinculos = 15    # códigos que passam a carregar a sigla do ciclo na lista de fontes (13 com ficha + RC-406/RC-063 ficha=False)
 
 [materializar]
 codigos = []      # fichas a CRIAR (ordem do Curador; só com bloco no pacote)
@@ -39,7 +39,7 @@ provas = []         # uma linha por vitória: "RC-xxx = <afirmativa> | prova: <t
 # byte depois de ampliar e o §0 do dossiê só imprime o que passou. Mesa vazia é lícita (nem
 # todo ciclo vence algo novo); linha sem `| prova:` aborta — vitória narrada não é vitória.
 [ampliar]
-codigos = ["RC-400", "RC-748", "RC-001", "RC-072", "RC-562", "RC-529", "RC-104", "RC-369", "RC-406", "RC-063", "RC-273", "RC-009", "RC-037", "RC-770", "RC-530"]      # 15 códigos com pérolas no BLOCO 1
+codigos = ["RC-400", "RC-748", "RC-001", "RC-072", "RC-562", "RC-529", "RC-104", "RC-369", "RC-273", "RC-009", "RC-037", "RC-770", "RC-530"]      # 13 códigos com ficha=True ampliados (RC-406/RC-063 ficha=False sem arquivo)
 
 [tese]
 pontos = [
@@ -53,16 +53,14 @@ pontos = [
 [definicoes]
 
 [observacoes]
-# GARIMPO P2022-11-19 (ciclo submetido): 25 pérolas em 15 códigos (todos com ficha:
-# RC-400 ×2, RC-748 ×3, RC-001 ×2, RC-072 ×3, RC-562 ×2, RC-529 ×1, RC-104 ×1,
-# RC-369 ×2, RC-406 ×1, RC-063 ×1, RC-273 ×1, RC-009 ×1, RC-037 ×1, RC-770 ×1,
-# RC-530 ×1). NENHUM termo novo criado: 5 candidatos no BLOCO 2 com navalha mantida
-# (Agostinho de Hipona; Mirdad/livro; Capila/Samkhya; Realidade simulada/Caverna;
-# Regra de Ouro — todos como contexto em fichas existentes). RC-063 Favor Divino
-# (ficha=False): livro citado como contexto. RC-406 Platão (ficha=False): mito da
-# caverna como contexto. VETO LÉXICO: 2 padrões (m**** ×1, p**** ×1 no bruto) —
-# nenhuma máscara transita, nem em glosa. Quarentenas homologadas vigentes. Livro-razão
-# de âncoras: ~25 buscas executadas, spans conferidos byte a byte pelo motor.
+# DEVOLUTIVA APLICADA (02/09/2026): 24 pérolas aprovadas; 13 fichas ampliadas (RC-400,
+# RC-748, RC-001, RC-072, RC-562, RC-529, RC-104, RC-369, RC-273, RC-009, RC-037,
+# RC-770, RC-530); navalha homologada em 5 candidatos do BLOCO 2 (Agostinho→RC-273;
+# Mirdad→RC-063/RC-072; Capila→RC-037/RC-104; Caverna→RC-406; Regra de Ouro→RC-529/
+# RC-748 — absorções orgânicas como contexto nas glosas das pérolas existentes);
+# quarentenas homologadas (religião institucional como pano de fundo); veto léxico
+# mantido (m**** ×1, p**** ×1 — 0 vazamentos). RC-406 e RC-063 (ficha=False) sem
+# arquivo — contexto registrado no pacote/dossiê. 15 vínculos inseridos na malha.
 
 [travas]
 # QUARENTENAS HOMOLOGADAS (devolutivas anteriores, vigentes): política/social;
