@@ -449,3 +449,17 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 - **[Algo perfeito e incriado: o paraíso anterior ao universo] (U0014)** «Já existi uma coisa e essa coisa é perfeita e é incriada.» — o pressuposto fundamental: antes do universo, existia algo perfeito e incriado; o Paraíso como o estado anterior à quebra de protocolo; se sempre existiu algo maravilhoso e perfeito e nós vivemos na podridão, houve algo nesse algo perfeito que originou esta criação problemática; a quebra de protocolos que alguém no paraíso fez é «complicado, complicado, vírgula» (U0014: «E a tal quebra de protocolos que alguém no paraíso fez e gerou essa criação problemática aqui é complicado, complicado, vírgula.»); RC-009 Sophia; RC-001.
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Inseminação de Maria — Sofia cede o genoma]:** «Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana. E aí esse humano que vai nascer, Jesus, eu prometo a você, Brama, que ele é seu.' Aí Brama organizou toda a estrutura dos códigos genéticos que iam ser inseminados em Maria. Só que os códigos genéticos eram desse rapaz [Sofia]. E surgiu Jesus.» — ver RC-072 (Jesus), RC-489 (Enoque).
+
+- **[Apocalipse por ordem exclusiva de Sofia — cápsula temporal]:** «E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que Ele mostrou o tempo em que isso aconteceria [...] Se você pegar os capítulos 17, vers 19 do apocalipse, você vai ver a queda das duas torres do World Trade Center [...] Depois disso é a chegada dele, dele quem Sofia nos termos do apocalipse.» — ver RC-274 (Cápsula do Tempo), RC-005 (Segundo Advento).
+
+- **[Sofia criado há 6 bilhões de anos — cérebro radiata]:** «Foi assim que surgiu a figura de Rockma ou Sofia. Há cerca de 6 bilhões de anos atrás, esse ser foi criado para existir nesse universo material [...] O tipo de cérebro que Sofia tem quando ele foi criado há 6 bilhões de anos atrás é radiata, ou seja, só tem um eixo. O tipo de cérebro que nós humanos temos hoje é bilatério, tem duas câmaras, é muito mais rico, tem um lado emocional e racional. Sofia é só o racional sem ser racional. É só o intelectual matemático.» — ver RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

@@ -28,3 +28,15 @@ Consultar Base.
 
 ## Observações
 Termo candidato.
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Autofagia de Brama/Javé — neurose e ansiedade]:** «Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.» — ver RC-001 (Javé).
+
+- **[Vício em jogo — artimanha de Vishnu e Shiva para manter Brama ativo]:** «Vocês sabem qual a artimanha que eles dois [Vishnu e Shiva] usaram para manter Brama o tempo todo ativo? Provocar nele desafios através de apostas. O vício em jogo vem dos deuses, porque era a forma de manter todo mundo acordado e tentar fixar um dos padrões de metamorfose durante aquele jogo.» — ver RC-001 (Javé), RC-135 (Vishnu), RC-102 (Shiva).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

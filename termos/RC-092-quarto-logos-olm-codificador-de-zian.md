@@ -251,3 +251,13 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 - **[O espírito da verdade: o ser a quem chamo de quarto logos] (U0046)** «" Aí ele disse: "Até o momento em que o humano verdadeiro dentro de uma forma modelada revele a existência do espírito da verdade, que é o ser a quem eu tenho chamado de quarto logos, que o pai enviou.» — o fecho da revelação: o espírito da verdade é o quarto logos, o enviado do pai; "E todos que se instruíram sobre essas coisas existem como imortais no meio da humanidade mortal" (U0046: «E todos que se instruíram sobre essas coisas existem como imortais no meio da humanidade mortal.»); o livro «Quarto Logos» citado no bruto (BLOCO 3); verdade não codificável, distinta do espiritismo/consolador (paráfrase do contexto; RC-092; RC-257).
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Quarto Logos — Reintegração Cósmica]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-003 (Reintegração Cósmica), RC-070 (Isolamento Cósmico).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

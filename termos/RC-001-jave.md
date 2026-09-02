@@ -453,3 +453,17 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 - **[Os quatro pontos cardeais da revelação cósmica] (U0014)** «Então assim, o que é que eu, Rogério, fiz e Esses quatro pontos cardeais, Deus, paraíso, quebra de protocolo de perfeição e seres do paraíso que de lá saíram.» — os quatro fundamentos que compõem a base de todo o existencial: (1) Deus/ser incriado; (2) Paraíso; (3) Quebra de protocolo de perfeição; (4) Queda de seres paradisíacos (RC-001 Javé; RC-009 Sophia).
 - **[A sopa de quarks e gluons: a singularidade que as mitologias já anunciavam] (U0014)** «Esse universo veio a existir porque surgiu uma sopa de quarques e gluons, diz a ciência oficial.» — STT «quarques» = quarks; a convergência entre as mitologias (ovo cósmico) e a ciência oficial (Big Bang/singularidade): «isso que que um boato, que diziam lá atrás de um tal ovo cósmico, é a mesma singularidade que a ciência conseguiu perceber» (U0014: «Isso que que um boato, que diziam lá atrás de um tal ovo cósmico, é a mesma singularidade que a ciência conseguiu perceber.»); RC-001; RC-037.
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Colapso de Javé em 2021]:** «No ano 2021 esse corpo colapsou porque não aguentou mais, ainda que o eu dele tenha boiado, tenha escapado.» — consistente com P2024-02-25, P2024-03-03, P2024-04-13.
+
+- **[Javé não se sente vinculado à alma]:** «Javé não se sente em um ser vinculado a essa alma. Javé briga com Brama e Vishnu, com Shiva e Vishnu e esquecido que Vishnu é um ser fatiado do mesmo espírito que ele também foi.» — ver RC-604 (Fatiamento).
+
+- **[Autofagia de Brama/Javé]:** «Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.» — ver RC-667 (Autofagia do Criador).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

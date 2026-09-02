@@ -314,3 +314,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 - **[Yang e Pancu: o criador caído na mitologia chinesa] (U0014)** «E esse ovo um dia quebrou, aí surgiu mitologia chinesa, o o Yang e Pancu, o tal criador caído no Yang.» — STT «Pancu» = Pangu (o primeiro ser da mitologia chinesa, que quebrou o ovo cósmico); o criador caído que emerge da cisão Yin-Yang; o mesmo padrão de Brama na mitologia hindu (RC-104 Trimurti; RC-037 Brahma).
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Trimurti — três faces fatiadas do mesmo espírito]:** «A Trimurti nesse universo faliram no extremo de suas forças» — «Sofia, Javé e Jesus [...] três eus que se sentem particularizados. Esses três eus estão vinculados ao mesmo espírito e esse espírito não consegue movimentar os três eus.» — ver RC-604 (Fatiamento), RC-009 (Sophia), RC-001 (Javé), RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

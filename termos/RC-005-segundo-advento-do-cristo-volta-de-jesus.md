@@ -171,3 +171,13 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 
 - **[Selos, trombetas e taças] (U0010)** «Ele coloca que entre a sexta e a sétima trombeta, ou seja, isso aqui seria a penúltima trombeta, que é exatamente essa que a gente acabou de ver com os tanques de guerra.» — a estrutura do Apocalipse (RC-005): sete selos, sete trombetas, sete taças — 'entre a sexta e a sétima trombeta' os 'decretos do pequeno livro aberto'; a sétima anuncia a vinda de Sofia.
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Segundo Advento — Sofia, não o espírito de Jesus]:** «Depois disso é a chegada dele, dele quem? Sofia nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele se projetando com tecnologia e seus anjos aparecendo para alguns humanos.» — ver RC-274 (Cápsula do Tempo), RC-009 (Sophia).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

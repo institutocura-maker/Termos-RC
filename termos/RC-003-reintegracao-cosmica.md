@@ -135,3 +135,13 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 
 # (nenhum span retido neste ciclo)
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Reintegração Cósmica — rumo a uma nova convivência]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-092 (Quarto Logos), RC-070 (Isolamento Cósmico).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

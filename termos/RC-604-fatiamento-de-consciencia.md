@@ -101,3 +101,13 @@ Na resposta final, Shiva é apresentado como expressão de um espírito, enquant
 - **[P2023-12-03 · FATIAMENTO DE CONSCIÊNCIA NA FALA DE 03/12/2023]** «Cada um coloca forma de poder no DNA de Enoque veio de quem ele gosta mais de nós três.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[As três faces da consciência fatiada — Sofia, Javé e Jesus]:** «Quais são hoje as três faces dessa consciência aqui que lutam entre si ou que não conseguem? Se nós chamamos os nomes de Sofia, Javé e Jesus [...] o que Jesus quis fazer, Sofia não conseguiu cumprir, e Javé sempre atrapalhou. O pouco que Sofia quis fazer do que Jesus prometeu, Javé não deixou. Por quê? Porque Javé não se sente em um ser vinculado a essa alma. Javé briga com Brama e Vishnu, com Shiva e Vishnu e esquecido que Vishnu é um ser fatiado do mesmo espírito que ele também foi.» — «Sofia ou Rockma, Javé e Jesus, ou seja, três eus que se sentem particularizados. Esses três eus estão vinculados ao mesmo espírito e esse espírito não consegue movimentar os três eus.» — ver RC-009 (Sophia), RC-001 (Javé), RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

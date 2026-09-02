@@ -129,3 +129,13 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 
 - **[O Ragnarok de Marte: a bomba a 700 km da superfície] (U0013)** «E ele fez as contas e percebeu que uma bomba explodiu aqui em cima a cerca de 700 km da superfície do planeta.» — o teste nuclear de Marte (Dr. Brandenburg): "Brandenburg, Quando a NASA conseguiu colocar aqueles aparelhos, aqueles gips que medem os elementos químicos de Marte, ele percebeu que toda essa região aqui tinha um tipo de elemento químico que só existe quando ocorrem explosões nucleares" (U0013: «Brandenburg, Quando a NASA conseguiu colocar aqueles aparelhos, aqueles gips que medem os elementos químicos de Marte, ele percebeu que toda essa região aqui tinha um tipo de elemento químico que só existe quando ocorrem explosões nucleares.»); as três setas de Moros no vulcão de Edimburgo: "Aquela montanhazinha ali há 300 milhões de anos atrás era um vulcão ativo e as três setas de Moros caíram lá" (U0013: «Aquela montanhazinha ali há 300 milhões de anos atrás era um vulcão ativo e as três setas de Moros caíram lá.»); "Esse vulcão é onde hoje é o palácio de Edimburgo, na Escócia" (U0013: «Esse vulcão é onde hoje é o palácio de Edimburgo, na Escócia.»); Vazer atira os segredos alquímicos: "Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte" (U0013: «Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte.»).
 
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Ragnarok — destruição de Yggdrasil há ~300 milhões de anos]:** «Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-730 (Yggdrasil), RC-396 (Kvaser), RC-454 (Moros).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

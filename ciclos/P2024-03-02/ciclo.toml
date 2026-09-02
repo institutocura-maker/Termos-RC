@@ -1,0 +1,26 @@
+# ciclo.toml — ciclo leve P2024-03-02 · REVISÃO (recuperação de ampliações perdidas)
+# ──────────────────────────────────────────────────────────────────────────────
+
+sigla = "P2024-03-02"
+titulo = "O Drama Espiritual de Jesus"
+data_fonte = "02/03/2024"
+pasta_fonte = "ciclos/P2024-03-02"
+arquivo_fonte = "original.txt"
+sha256_fonte = "fd1f08a18bbdda42ee60cdf100b313983211685b1615c0b7488e75140159c28b"
+
+baseline_commit = "e58001e"
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "REVISÃO — recuperação de 16 ampliações perdidas do processamento original de 2026-08-17. Palestra VERBATIM (transcrição STT) lida na íntegra: original.txt 111 KB · 120 linhas. Conteúdo central: trilogia inédita do Drama de Jesus; encontro Edimburgo 2019; componente humana 7-8%; inseminação de Maria; recusa de Jesus ao legado violento; fatiamento de consciência (Sophia/Javé/Jesus); avatares da Trimurti (Matsya/Kurma/Varaha/Narasimha/Sharabha); Buri/Bor/Odin/Yggdrasil; Krishna adhybuta; transferência dos discípulos de João Batista; Apocalipse por ordem de Sofia; colapso de Javé 2021."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = ["m****"]
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0

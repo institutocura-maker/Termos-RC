@@ -47,3 +47,13 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 Conceito central também em P2024-11-09 (Abismo da Consciência) e P2025-02-15.
 
 ---
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Componente humana 7-8% — dignidade, não equilíbrio]:** «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — ver RC-722 (Dignidade), RC-072 (Jesus).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

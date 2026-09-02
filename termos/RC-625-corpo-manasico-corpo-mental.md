@@ -42,3 +42,13 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 - **[P2023-12-03 · CORPO MANÁSICO / CORPO MENTAL NA FALA DE 03/12/2023]** «o eu do criador com o seu corpo manásico que foi despedaçado, totalmente reconstruído.» (U0038) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-12-02`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Corpo manásico despedaçado — queda de Prabrajna]:** «Quando esse rapaz criou algo que não devia, duas coisas desse eu aqui caíram na criação. Esse corpo manásico projetado se espatifou aqui dentro e a sensação desse eu também caiu aqui dentro. O corpo búdico tá em coma.» — ver RC-152 (Prabrajna), RC-623 (Corpo Átmico), RC-624 (Corpo Búdico).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

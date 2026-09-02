@@ -131,3 +131,13 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 |---|---|---|
 | Hermes Trismegisto (Thot) | RC-463 | relaciona-se-a |
 | Intercessão de Enoque pelos Anunnakis | RC-673 | relaciona-se-a |
+
+## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
+
+- **[Enoque — usado por Brama na inseminação de Maria]:** «Quando tudo deu errado, Brama usou Enoque [...] Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana.'» — ver RC-072 (Jesus), RC-009 (Sophia).
+
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
