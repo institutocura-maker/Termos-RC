@@ -1,0 +1,32 @@
+# ciclo.toml — consolidacao F022 · 22-GLOSSÁRIO (esteira de consolidação)
+# ──────────────────────────────────────────────────────────────────────────────
+# Tipo: CONSOLIDAÇÃO (não é garimpo Esteva Leve). Fonte refatorada/revisada.
+
+sigla_fonte = "F022"
+titulo = "22-GLOSSÁRIO (Glossário de Termos-Chave da Revelação Cósmica — compilação refatorada)"
+arquivo_fonte = "fonte.txt"
+sha256_fonte = "8968eab30fe5c68c4dfc434ab4ec5860174355da387464c379b03d05a1ca792a"
+bytes_fonte = 76695
+linhas_fonte = 579
+data_levantamento = "2026-09-03"
+branch = "arena/01a06429-termos-rc"
+
+# Caracterização
+natureza = "Compilação refatorada do corpus Ellam (livros/palestras), em 5 partes."
+partes = [
+  "PARTE 1 — Glossário de Termos-Chave (137 verbetes A-Z)",
+  "PARTE 2 — Glossário hierárquico estruturado (seções 1.0-8.0)",
+  "PARTE 3 — Guia Abrangente (prosa, seções I-VIII)",
+  "PARTE 4 — Linha do tempo detalhada",
+  "PARTE 5 — Elenco de personagens",
+]
+origem_primaria_presumida = "corpus Revelação Cósmica (Jan Val Ellam); sem citações byte-exatas no arquivo"
+
+# Regras
+tipo_processo = "CONSOLIDACAO"
+regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao", "cotejo-com-fonte-primaria"]
+
+# Estado do piloto
+fase = "LEVANTAMENTO"           # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
+altera_base = false             # levantamento NÃO altera dados_termos.py
+status = "em_andamento"
