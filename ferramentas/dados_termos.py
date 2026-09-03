@@ -1103,6 +1103,9 @@ TERMOS = [
     ("RC-924", "Loop Mental", PRO_FIS[0], PRO_FIS[1], P, ['P2023-10-15', 'P2023-11-18', 'P2024-01-13', 'P2024-02-04', 'P2024-03-17'], 'RC-722; RC-901', True),
     ("RC-925", "Espírito como Ator", PRO_FIS[0], PRO_FIS[1], P, ['P2023-10-15', 'P2023-11-18', 'P2024-01-13', 'P2024-02-04', 'P2024-03-17'], 'RC-722; RC-901', True),
     ("RC-926", "Lixo de Informações Apodrecidas", PRO_FIS[0], PRO_FIS[1], P, ['P2023-10-15', 'P2023-11-18', 'P2024-01-13', 'P2024-02-04', 'P2024-03-17'], 'RC-722; RC-901', True),
+    ("RC-927", "Sai Baba de Shirdi (Shirdi Sai Baba)", SER_HUM[0], SER_HUM[1], P, ['B060', 'P2012-02-19'], 'RC-102; RC-801; RC-928', True),  # F022/esteira consolidação 03-09 — personagem da linhagem Sai
+    ("RC-928", "Sathya Sai Baba", SER_HUM[0], SER_HUM[1], P, ['B060', 'B031', 'P2012-02-19'], 'RC-102; RC-801; RC-927; RC-929', True),  # F022/esteira consolidação 03-09 — personagem da linhagem Sai
+    ("RC-929", "Prema Sai (Prima Sai / Prem Sai)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B060', 'P2012-02-19'], 'RC-102; RC-801; RC-927; RC-928', True),  # F022/esteira consolidação 03-09 — 3a/última da linhagem Sai (grafia canônica definida 03-09)
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)
@@ -3105,6 +3108,15 @@ RELACOES = [
     ('RC-449', 'variação', 'RC-164', 'B019'),  # Criaturas-ferramenta = sinônimo funcional de RC-164 — merge D7 (conteúdo B057/B058 preservado em RC-449)
     ('RC-203', 'variação', 'RC-314', 'B035'),  # Fenômenos Denunciadores do Fim (título B035) = variação de RC-314 (materializado B022) — merge D8
     ('RC-493', 'variação', 'RC-133', 'B061'),  # Os 9 Val dos Corpos Perdidos = variação de RC-133 (Val dos Corpos Perdidos) — merge D9
+    # RC-927/928/929 — linhagem Sai de Shiva (esteira de consolidação 03/09/2026)
+    ('RC-927', 'encarnação-de', 'RC-102', 'B060'),
+    ('RC-928', 'encarnação-de', 'RC-102', 'B060'),
+    ('RC-929', 'encarnação-de', 'RC-102', 'B031'),
+    ('RC-927', 'parte-de', 'RC-801', 'P2012-02-19'),
+    ('RC-928', 'parte-de', 'RC-801', 'P2012-02-19'),
+    ('RC-929', 'parte-de', 'RC-801', 'P2012-02-19'),
+    ('RC-928', 'encarnação-posterior-de', 'RC-927', 'B060'),
+    ('RC-929', 'encarnação-posterior-de', 'RC-928', 'B031'),
 
 ]
 

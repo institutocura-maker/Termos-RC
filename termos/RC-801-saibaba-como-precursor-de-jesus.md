@@ -15,8 +15,8 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 
 ## Etimologia / Grafias
 - **Grafia preferida:** Saibaba como Precursor de Jesus
-- **Variações STT capturadas:** "Caibá", "Caibá", "Saibaba", "Saibá", "saibá", "prima sai" (STT fonética) → **Prem Sai**
-- **Linhagem encarnatória (absorvida nesta ficha — não fragmentada em códigos novos):** Baba de Shirdi → Sathya Sai Baba → **Prem Sai** ("Prima Sai" em STT), a terceira manifestação da sequência.
+- **Variações STT capturadas:** "Caibá", "Caibá", "Saibaba", "Saibá", "saibá", "prima sai" (STT fonética)
+- **Linhagem encarnatória de Shiva na era moderna:** **Sai Baba de Shirdi** (RC-927) → **Sathya Sai Baba** (RC-928) → **Prema Sai** (RC-929; grafia canônica; "Prima Sai"/"Prem Sai" em STT). A partir de 03/09/2026, cada figura tem **ficha própria** (RC-927/928/929); esta ficha (RC-801) é a umbrella conceitual da linhagem.
 - **Idioma de origem:** Sânscrito/Hindi (साईं बाबा "Sai Baba" = "pai/mestre santo") + Português
 
 ## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
@@ -45,6 +45,9 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 | Mudança de Estratégia das Trevas | RC-798 | primeira-resposta-a |
 | Krishna | RC-102 | paralelo-com (avatar hindu) |
 | Jesus | RC-072 | paralelo-com (avatar cristão) |
+| Sai Baba de Shirdi | RC-927 | inclui (1ª encarnação da linhagem) |
+| Sathya Sai Baba | RC-928 | inclui (2ª encarnação da linhagem) |
+| Prema Sai | RC-929 | inclui (3ª/última encarnação da linhagem) |
 
 ## Seres Associados
 - **Saibaba** (avatar hindu, ~séc. XIX-XX)
@@ -55,4 +58,4 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 - **Quarentena sobre o hinduísmo**: a leitura do autor de Saibaba como precursor de Jesus é **leitura própria**, não tradição hindu oficial.
 - [REVISAR]: a palestra de 2018-02-24 é a única fonte primária dessa formulação específica.
 - A cronologia "2000 anos antes" sugere Saibaba de Shirdi (~séc. XIX-XX), mas a palestra não especifica qual Saibaba.
-- **"Prima Sai" = "Prem Sai"** (variação STT): terceira manifestação da linhagem encarnatória de Shiva (Shirdi → Sathya Sai Baba → Prem Sai), registrada em P2012-02-19 e já absorvida nesta ficha (RC-801). Não gera código novo. Cotejo: B031 (referência máxima).
+- **"Prima Sai" (STT) → grafia canônica "Prema Sai"** (decisão curador 03/09/2026): terceira/última encarnação da linhagem Sai de Shiva. Em 03/09/2026 a linhagem passou a ter **fichas próprias: RC-927 (Sai Baba de Shirdi), RC-928 (Sathya Sai Baba), RC-929 (Prema Sai)**. Esta ficha RC-801 permanece como umbrella conceitual. Cotejo: B031/B060.
