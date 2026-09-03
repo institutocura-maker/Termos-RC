@@ -3097,6 +3097,11 @@ RELACOES = [
     ('RC-888', 'relaciona-se-a', 'RC-474', 'P2022-09-17'),  # Elelev ~ Arcontes (contexto gnóstico da revelação)
     ('RC-474', 'relaciona-se-a', 'RC-888', 'P2022-09-17'),  # Arcontes ~ Elelev (anjo da revelação contra os regentes)
 
+    # F022 — Esteira de Consolidação (03/09/2026): canonização de duplicatas de nome-base (alias documentado; códigos imutáveis)
+    ('RC-501', 'variação', 'RC-043', 'B061'),  # Conselho dos Cinco (B061) = variação de RC-043 (canônico, B031) — merge D1
+    ('RC-502', 'variação', 'RC-115', 'B061'),  # Val Aten (B061) = variação de RC-115 (canônico, B031) — merge D2
+    ('RC-140', 'variação', 'RC-138', 'B031'),  # Yel Liam = variação/redundante de RC-138 (Yel Am/Yel Liam) — merge D3
+
 ]
 
 # Validação

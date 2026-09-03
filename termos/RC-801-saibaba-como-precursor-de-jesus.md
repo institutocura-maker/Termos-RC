@@ -15,7 +15,8 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 
 ## Etimologia / Grafias
 - **Grafia preferida:** Saibaba como Precursor de Jesus
-- **Variações STT capturadas:** "Caibá", "Caibá", "Saibaba", "Saibá", "saibá"
+- **Variações STT capturadas:** "Caibá", "Caibá", "Saibaba", "Saibá", "saibá", "prima sai" (STT fonética) → **Prem Sai**
+- **Linhagem encarnatória (absorvida nesta ficha — não fragmentada em códigos novos):** Baba de Shirdi → Sathya Sai Baba → **Prem Sai** ("Prima Sai" em STT), a terceira manifestação da sequência.
 - **Idioma de origem:** Sânscrito/Hindi (साईं बाबा "Sai Baba" = "pai/mestre santo") + Português
 
 ## Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu e Shiva)
@@ -54,3 +55,4 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 - **Quarentena sobre o hinduísmo**: a leitura do autor de Saibaba como precursor de Jesus é **leitura própria**, não tradição hindu oficial.
 - [REVISAR]: a palestra de 2018-02-24 é a única fonte primária dessa formulação específica.
 - A cronologia "2000 anos antes" sugere Saibaba de Shirdi (~séc. XIX-XX), mas a palestra não especifica qual Saibaba.
+- **"Prima Sai" = "Prem Sai"** (variação STT): terceira manifestação da linhagem encarnatória de Shiva (Shirdi → Sathya Sai Baba → Prem Sai), registrada em P2012-02-19 e já absorvida nesta ficha (RC-801). Não gera código novo. Cotejo: B031 (referência máxima).

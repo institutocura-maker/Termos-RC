@@ -8,7 +8,7 @@ fonte primária** ou decisão do curador.
 |---|---|---|---|---|---|---|---|
 | V1 | Brajna (nome pré-queda de Brahma) | Parte 2 (L160), Parte 5 | Base usa **Prabrajna** (RC-152); tríade canônica Prabrajna/Savna/Mavatna (RC-152/RC-102/RC-135); ver RC-037 Brahma(Brajna), RC-310/RC-410 | obra B031 e diagramas | Grafia divergente de mesmo referente; provável simplificação do refatorado | registrar como `variação`/`sinônimo` (Brajna→Prabrajna), não termo novo | aberto |
 | V2 | Cronologia: unidade temporal | Parte 4 (vários) | "Mil Milhões de Anos" e contradição mil×milhões (599 mil vs 599 milhões; Zeus 300 "mil milhões" vs 300 "mil") | corpus primário (B/P) | Erro de refatoração/edição; cronologia numérica não-confiável | **rejeitar** adoção de datas; usar só ordem relativa; conferir número a número | aberto |
-| V3 | "Prima Sai" | Parte 4, Parte 5 | Sem correspondente na base; base tem Sai Baba (RC-797, RC-801); Shiva encerra avatares | P (Shiva/Sai Baba) | Provável erro/variação de STT de "Sai Baba" | registrar como variação duvidosa; não criar termo | aberto |
+| V3 | "Prima Sai" | Parte 4, Parte 5 | Sem correspondente na base; base tem Sai Baba (RC-797, RC-801) | P2012-02-19 (P), B031 (ref.) | **RESOLVIDA (03/09):** "Prima Sai" = **Prem Sai** (STT fonético), 3ª manifestação da linhagem de Shiva (Shirdi → Sathya Sai Baba → Prem Sai); já **absorvida em RC-801** (seção Ampliação P2012-02-19); não gera código novo; grafia registrada na ficha RC-801 | **resolvida** — nenhum termo novo; enriquecida ficha RC-801 | resolvida |
 | V4 | Enquadramento Universo Antimaterial | Parte 1 verbete "Universo Antimaterial" | ≈ Brahmaloka (RC-038) e/ou Universo Paralelo (RC-108); base RC-107 = Universo Material(Bhuloka) | B031 etc. | Terminologia ambígua entre antimaterial/paralelo | padronizar sinônimos/variação entre RC-038/RC-108 | aberto |
 | V5 | Sophia — vínculo com Jesus | Parte 5 | Glossário: Sophia=avatar de Mohen So/Vishnu; "pai biológico" de Jesus por inseminação (RC-009, RC-072) | B016/B042/B014 | Conferir genealogia Sophia→Mohen So→Vishnu→Jesus | cotejo primário; possivelmente só reforça RC-009 | aberto |
 | V6 | Trimurti "triunvirato demo" | Parte 5 | RC-104 Trimurti (Brahma/Vishnu/Shiva) | B031/B060 | Termo "triunvirato demo" atípico | cotejar; manter como nota, não alterar definição sem fonte | aberto |
@@ -28,3 +28,22 @@ fonte primária** ou decisão do curador.
   de RC existentes → **não recomendamos criar código novo a partir do F022** (princípio anti-duplicação + anti-pseudoconfirmação).
 
 *Aguardando devolutiva do curador para avançar à fase de APLICAÇÃO (elevações seguras + merges D1–D4, mediante cotejo primário).*
+
+---
+
+## REGISTRO DE APLICAÇÃO — merges D1–D4 (03/09/2026, após aprovação do curador)
+
+Referências máximas confirmadas pelo curador: **B031** (maioria dos termos), **B060** (personagens), **B050** (períodos/datas/eras).
+
+| Merge | Ação | Estado |
+|---|---|---|
+| D1 Conselho dos Cinco | `RC-501 --variação--> RC-043` (canônico RC-043/B031) | ✅ aplicado |
+| D2 Val Aten | `RC-502 --variação--> RC-115` (canônico RC-115/B031) | ✅ aplicado |
+| D3 Yel Liam | `RC-140 --variação--> RC-138` (Yel Am/Yel Liam) | ✅ aplicado |
+| D4 Jan Val Ellam/Rogério | relação `RC-071 --variação--> RC-095` **já existia** | ✅ já resolvido na base |
+
+- Nenhum código foi apagado (imutáveis); duplicatas canonizadas por relação de `variação` (padrão casa, cf. RC-071/095 e RC-503/408).
+- D5–D9 (Favor Divino, Choque de Realidade, Criaturas-ferramenta, Fenômenos Denunciadores, Val dos Corpos Perdidos) → **adiadas** para etapa de cotejo (Q2 do curador).
+- **ELEVAÇÃO DE STATUS: nenhuma aplicada nesta rodada** (Q3) — fica para a fase de cotejo com fontes primárias B031/B060/B050.
+
+**Validação pós-aplicação:** `OK: 926 termos, 1872 relações — dados válidos.`
