@@ -1,0 +1,26 @@
+{
+  "data": "2026-09-02",
+  "contexto": "descarte de 2 .txt retidos em uploads_recepcao por decisão do curador",
+  "removidos": 2,
+  "total_bytes": 122889,
+  "arquivos": [
+    {
+      "arquivo": "2024-03-02 - O Drama Espiritual de Jesus.txt",
+      "sha256": "69d2ed36fce6d52654f55c724fb00ab68fc83271d2afd9a99558fe0035dfb569",
+      "bytes": 109709,
+      "motivo_descarte": "versão divergente do original.txt de ciclos/P2024-03-02; palestra já processada no ciclo P2024-03-02 (fechado)",
+      "copia_byte_identica": "NAO (por isso fora da limpeza n.12)",
+      "decisao": "curador — descartar (conteúdo já processado)",
+      "recuperavel": "sim — versionado no histórico git (uploads_recepcao)"
+    },
+    {
+      "arquivo": "2025-06-14 - PALESTRA SOBRE A QUEDA DO CRIADOR.txt",
+      "sha256": "f104d882209105f09522c5934fce72f7f338e2227156a303ca79be276802ad0b",
+      "bytes": 13180,
+      "motivo_descarte": "fragmento cru; conteúdo já processado na versão '-Refatorada' (ciclos/P2025-06-14)",
+      "copia_byte_identica": "NAO (por isso fora da limpeza n.12)",
+      "decisao": "curador — descartar (conteúdo já processado)",
+      "recuperavel": "sim — versionado no histórico git (uploads_recepcao)"
+    }
+  ]
+}

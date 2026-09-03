@@ -108,5 +108,11 @@ versionados em `ciclos/*/`, `apostilas/CONCLUIDAS/*/` e `livros/**/`. Resultado:
      um trecho) do conteúdo já processado na versão "-Refatorada" (`ciclos/P2025-06-14`).
      Conteúdo não-idêntico à versão versionada; requer decisão do curador.
 
-**Estado atual da pasta:** apenas arquivos de metadados + **2 .txt retidos** (acima), à espera
-de decisão do curador.
+- **2 .txt retidos na limpeza nº 12** foram, em 02/09/2026, **descartados por decisão do
+  curador** (conteúdo já processado; versões divergentes/fragmentos sem valor de preservação):
+  `2024-03-02 - O Drama Espiritual de Jesus.txt` e
+  `2025-06-14 - PALESTRA SOBRE A QUEDA DO CRIADOR.txt`. Ambos **recuperáveis no histórico git**
+  (estavam versionados em `uploads_recepcao/`). Registro em
+  [`backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json`](../backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json).
+
+**Estado atual da pasta:** ZERADA — apenas arquivos de metadados (README + registros de limpeza).
