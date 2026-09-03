@@ -47,3 +47,27 @@ Referências máximas confirmadas pelo curador: **B031** (maioria dos termos), *
 - **ELEVAÇÃO DE STATUS: nenhuma aplicada nesta rodada** (Q3) — fica para a fase de cotejo com fontes primárias B031/B060/B050.
 
 **Validação pós-aplicação:** `OK: 926 termos, 1872 relações — dados válidos.`
+
+---
+
+## REGISTRO DE APLICAÇÃO — cotejo B031/B060/B050 (03/09/2026, aprovado pelo curador)
+
+**Referências validadas por equipe avançada da RC + Ellam:** B031 (termos), B060 (personagens), B050 (eras/datas).
+
+### Merges D5–D9
+| Merge | Ação | Estado |
+|---|---|---|
+| D5 Favor Divino (RC-063 × RC-332) | par deliberado obra-título × conceito (documentado na ficha RC-332) | ✅ **sem merge** |
+| D6 Choque de Realidade | `RC-867 --variação--> RC-898` | ✅ aplicado |
+| D7 Criaturas-ferramenta | `RC-449 --variação--> RC-164` (conteúdo B057/B058 preservado em RC-449) | ✅ aplicado |
+| D8 Fenômenos Denunciadores do Fim | `RC-203 --variação--> RC-314` | ✅ aplicado |
+| D9 Val dos Corpos Perdidos | `RC-493 --variação--> RC-133` | ✅ aplicado |
+
+### Elevação de STATUS (Opção B)
+Conjunto elegível = `provisório + ficha=True + cita ≥1 obra revisada (B031/B060/B050)` = **97 termos**.
+- **22 → `verificado`** (🟢): citam **≥2** obras revisadas (corroboração cruzada entre volumes curados).
+  Lista: RC-001, 009, 036, 037, 049, 071, 074, 078, 087, 092, 094, 102, 104, 106, 107, 135, 142, 145, 299, 395, 396, 398.
+- **75 → `em análise`** (🟠): citam 1 obra revisada.
+- Tabela-mestra + 96 fichas atualizadas (RC-396 é ficha-stub sem cabeçalho de Status — atualizada só na tabela-mestra).
+- Fichas sem alteração de conteúdo; apenas campo **Status** promovido.
+- **Validator pós:** `OK: 926 termos, 1876 relações`. Distribuição: verificado 22 · em análise 75 · provisório 433 · candidato 396.

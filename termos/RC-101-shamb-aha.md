@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Lokas & Geografias |
 | **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

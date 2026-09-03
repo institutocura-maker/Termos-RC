@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-29 |
 
 ## Remissão

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Tecnologias & Artefatos |
 | **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
