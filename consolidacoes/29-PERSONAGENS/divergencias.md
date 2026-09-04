@@ -21,29 +21,34 @@
 
 ---
 
-## DIVERGÊNCIA D-1_krishna — Enquadramento de Krishna (INVESTIGAÇÃO 04/09/2026)
+## DIVERGÊNCIA D-1_krishna — Reancoragem de Krishna: aresta estrutural Shiva + aresta teológica Vishnu (RESOLVIDA pelo curador 04/09/2026)
 
-**Status:** 🔍 **EM INVESTIGAÇÃO** (levantamento feito; decisão pendente de curadoria).
+**Status:** ✅ **RESOLVIDA (decisão) — aplicação à base PENDENTE (aguarda fase APLICACAO). Base NÃO alterada nesta fase (LEVANTAMENTO / `altera_base=false`).**
 
-**O que o 29 diz:** "Krishna — Avatar Keshava Biodemo com predominância de Shiva"; "Avatares (único avatar que produziu avatares)" → lista Baba de Shirdi, Prema Sai, Sai Baba, Prabhupada, Shankaracharya, Caitanya, Kapila Deva.
+**Decisão do curador (04/09/2026):** bifurcar a ancoragem de Krishna (RC-414) em **dois planos**, separando a **linhagem estrutural** (origem/criação) da **atribuição teológico-mitológica** (registro hindu):
 
-**O que a base tem:**
-- **RC-414** "Krishna (avatar de Vishnu/Shiva)" — `é-um Vishnu (RC-135)` [B051]; `variação` com RC-425; múltiplas ampliações (P2023-12-02: "avatar quechada", gerado da junção de DNA de Brahma/Vishnu/Shiva, "se proclamou superior à Trimurti", "único avatar que começou a produzir avatares dele mesmo").
-- **RC-425** "Krishna como 'pretenso Keshava'" — ficha de contestação do par, `variação` RC-414.
-- **RC-073** Keshava; **RC-081** Mohen So "Avatar Keshava de Vishnu".
-- Rama RC-584 avatar de Vishnu.
+1. **ARESTA ESTRUTURAL — NOVA (criação):** `RC-414 --criado-por--> RC-102 (Shiva)` · fonte **P2021-04-10**.
+2. **ARESTA TEOLÓGICA — RE-TIPADA:** `RC-414 --atribuído-em-teologia-comparada-a--> RC-135 (Vishnu)` · fonte **B051** (mantém a fonte primária que registra a atribuição de Krishna como avatar de Vishnu **no plano do mito/teologia**).
+3. **Sem fusão com RC-425** (pretenso Keshava) e sem criar rótulo/código novo: reusa-se o predicado já existente na base `atribuído-em-teologia-comparada-a` (usado p.ex. `RC-486 --atribuído-em-teologia-comparada-a--> RC-325` [P2024-11-09]).
+4. **Fontes:** incluir `P2021-04-10` na lista de fontes de RC-414 (a ficha RC-102 já o possui). Ficha RC-414 deve receber ampliação com a citação byte-exata abaixo.
 
-**Ponto de tensão a decidir:**
-1. RC-414 diz Krishna = avatar de **Vishnu** (é-um RC-135) mas o corpo fala em DNA misturado da Trimurti e "predominância Shiva" (29). Qual a aresta canônica de Krishna — Vishnu, ou entidade própria (somatória)? Há RC-414 → RC-135 (`é-um`) já gravado.
-2. O 29 descreve Krishna como **"Avatar Keshava"**; porém "Keshava" já é rótulo de Mohen So (RC-081). Colisão de rótulo.
-3. A linhagem Sai: se Krishna "produz avatares" (Sathya), como coexiste com a ancoragem Sai→Shiva (D-1)?
+**Fundamento — evidência byte-exata (verificada):**
+- **Pérola `PER-2021-04-10-005`** (dossiê `ciclos/P2021-04-10/DOSSIE-RAG_P2021-04-10.md`, U0006, chars 30662–30883, status `candidata`, cruza RC-414), fala de Shiva:
+  > «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?»
+- Corrobora a tese de linhagem por Shiva o próprio corpo das fichas RC: P2024-03-02 (Krishna "pendeu pro lado de Shiva"), P2022-07-16 (Mahâbhârata = "definitiva transferência do poder trimurtiano ancestral" — já fonte de RC-414), P2021-04-10-005 acima.
+- O vínculo com **Vishnu** permanece registrado (B051, RC-135) — como atribuição **teológica/comparativa do mito**, não como origem estrutural.
 
-**Próximo passo proposto:** apresentar à curadoria uma pergunta objetiva sobre a aresta canônica de Krishna (Vishnu vs entidade de DNA-trimurti) e sobre o tratamento do rótulo "Keshava", usando as ampliações já existentes em RC-414/RC-425. Nenhuma alteração de base nesta fase.
+**Motivo de re-tipar (não apenas adicionar):** a aresta atual `RC-414 --é-um--> RC-135` (Vishnu) codifica o vínculo de Vishnu como *linhagem real*; com a decisão, Vishnu deixa de ser a origem estrutural de Krishna e passa a ser leitura teológica. Re-tipar para `atribuído-em-teologia-comparada-a` preserva o registro e isola o plano, permitindo que o filtro RAG separe "linhagem real" (criado-por Shiva) de "embalagem cultural" (Vishnu).
+
+**PATCH DE APLICACAO (pronto, NÃO aplicado):** quando o ciclo transitar para **APLICACAO** (`altera_base=true`):
+- `ferramentas/dados_termos.py` `RELACOES`: linha 1453 `("RC-414","é-um","RC-135","B051")` → `("RC-414","atribuído-em-teologia-comparada-a","RC-135","B051")`; adicionar `("RC-414","criado-por","RC-102","P2021-04-10")`.
+- `ferramentas/dados_termos.py` `TERMOS` (RC-414, linha 547): acrescentar `'P2021-04-10'` à lista de fontes.
+- `termos/RC-414-*.md`: adicionar seção `## Ampliação — P2021-04-10` com a citação byte-exata acima e a referência a RC-102.
 
 ---
 
 ## DIVERGÊNCIA D-2 — Krishna "predominância Shiva" vs RC-414 "avatar de Vishnu/Shiva"
-**Status:** aberta (subsume-se à D-1_krishna). Não propagar leitura do 29 sem curadoria.
+**Status:** ✅ **RESOLVIDA** — subsumida à **D-1_krishna** (decisão 04/09/2026): a "predominância Shiva" / DNA-trimurti vira **aresta estrutural `criado-por Shiva`**; o vínculo "avatar de Vishnu" vira **atribuição teológico-mitológica** (`atribuído-em-teologia-comparada-a Vishnu`). Leitura do 29 não é propagada como autoridade; o patch (acima) aguarda fase APLICACAO.
 
 ## DIVERGÊNCIA D-3 — Kalil Kadmon (enriquecimento, não contradição)
 **Status:** aberta (baixa). 29: Kalil Kadmon = "Olimpiano filho de Zeus e Têmis, genética da liberdade encomendada por Moros através das Moiras" + "ver Pandora". Base RC-299 já consolida "Kalil Kadmon = nome demo de Pandora"; RC-815 Têmis co-clonadora; Moros/Moiras presentes. Verificar se RC-299 cita Moros/Moiras/Têmis; se não, ampliar com citação (pós-cotejo).

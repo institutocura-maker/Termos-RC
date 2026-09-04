@@ -8,7 +8,7 @@
 - Registrada a fonte (`fonte.txt`, SHA `e8274acc`, 793 linhas) e a avaliação comparativa (`avaliacao-2026-09-04.md`).
 - Aberto o **ciclo formal F029** com `ciclo.toml`, `mapeamento.md` (verbete-a-verbete) e `divergencias.md` (ledger D-1..D-6).
 - **D-1 (linhagem Sai) RESOLVIDA pelo curador** → mantida em Shiva (RC-102); leitura do 29 não propagada.
-- **D-1_krishna (investigação)** levantada e descrita; aguarda decisão de curadoria.
+- **D-1_krishna (reancoragem) RESOLVIDA pelo curador (04/09/2026)** → bifurcação em 2 planos (aresta estrutural `criado-por Shiva` + re-tipagem teológica `atribuído-em-teologia-comparada-a Vishnu`). **Aplicação à base PENDENTE** — ciclo permanece em LEVANTAMENTO (`altera_base=false`); patch especificado em `divergencias.md` D-1_krishna, a aplicar na fase APLICACAO.
 
 ## 2. Principais achados do levantamento
 1. **Documento é uma concordância de terceiros** (aluno; equivalências "prováveis") → **não é autoridade** para atribuição; a base (B031/B060 + fontes P/livros primários) prevalece.
@@ -32,6 +32,6 @@ Não criar ficha nova de Akhenaton/Chico Xavier/Blavatsky/etc. sem você indicar
 | # | Pergunta | Opções |
 |---|---|---|
 | Q-F029-A | Aprovo a **fase de cotejo dirigido (ampliar variações/aliases confirmados)** em vez de criar termos em massa a partir do 29? | Sim / não / só os que eu indicar |
-| Q-F029-B | **Krishna (D-1_krishna):** mantemos a aresta `RC-414 é-um Vishnu (RC-135)`, ou a representação de DNA-trimurti/predominância Shiva merece reancoragem? (Investigar ampliações RC-414/RC-425 antes) | manter Vishnu / investigar reancoragem |
+| Q-F029-B | **Krishna (D-1_krishna) — RESOLVIDA 04/09/2026:** reancorar bifurcando em 2 planos — aresta estrutural `criado-por Shiva` (P2021-04-10) e re-tipagem `é-um Vishnu` → `atribuído-em-teologia-comparada-a Vishnu` (B051). Aplicação pendente (APLICACAO). | ✅ **RESOLVIDA (reancoragem)** |
 | Q-F029-C | Figuras históricas da Parte D entram **só com fonte primária indicada** por você? | Sim / lista candidatas |
 | Q-F029-D | Como tratar **Afrodite/Ártemis/Poseidon** etc. (panteões sem RC atual)? Criar só se houver fonte, ou deixar como variação mítica não-codificada? | criar só c/ fonte / não codificar |

@@ -26,7 +26,7 @@ regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
 # Decisões do curador (04/09/2026)
 decisoes = {
   "D-1_Sai": "MANTER linhagem Sai (Shirdi/Sathya/Prema) ancorada em RC-102 Shiva (B060/B031; RC-927/928/929). Leitura do 29 doc (Sai sob Krishna; omite Sathya) = divergência de terceiros, registrada, NAO propagada.",
-  "D-1_krishna": "INVESTIGAR Krishna (RC-414/RC-425): o 29 doc o descreve 'Avatar Keshava Biodemo com predominância de Shiva, único avatar que produziu avatares'. Checar coexistência com RC-414 (avatar de Vishnu/Shiva) e nota 'produziu avatares (Sathya Sai como continuação)'.",
+  "D-1_krishna": "RESOLVIDA 04/09/2026 (decisão de reancoragem; base NÃO alterada nesta fase — ver divergencias.md D-1_krishna/D-2): bifurcar em 2 planos — (1) NOVA aresta estrutural RC-414 --criado-por--> RC-102 Shiva [P2021-04-10, pérola PER-2021-04-10-005]; (2) RE-TIPAR RC-414 --é-um--> RC-135 Vishnu para RC-414 --atribuído-em-teologia-comparada-a--> RC-135 [B051]. Aplicação (dados_termos.py + ficha RC-414) PENDENTE — reservada para fase APLICACAO (altera_base=true).",
 }
 
 # Estado do ciclo
