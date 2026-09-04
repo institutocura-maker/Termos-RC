@@ -1,0 +1,35 @@
+# ciclo.toml — consolidacao F029 · 29-PERSONAGENS DA REVELAÇÃO CÓSMICA
+# ──────────────────────────────────────────────────────────────────────────────
+# Tipo: CONSOLIDAÇÃO (concordância de personagens refatorada — evolução do B060).
+
+sigla_fonte = "F029"
+titulo = "29-PERSONAGENS DA REVELAÇÃO CÓSMICA (Personagens da RC — concordância de nomes × culturas e encarnações/imantações; v1.4)"
+arquivo_fonte = "fonte.txt"
+sha256_fonte = "e8274acc91ee1bbb89222b273389d82c00e4905ce0ffc2e0b125f1bf20db3476"
+bytes_fonte = 36866
+linhas_fonte = 793
+data_levantamento = "2026-09-04"
+branch = "arena/01a06429-termos-rc"
+
+# Caracterização
+natureza = "Concordância de personagens da RC (Eugênio Mendonça, v1.4, 2022-09-27; rev. 2023-01-11 e 2023-09-27). Evolução/expansão do B060."
+origem_primaria_presumida = "corpus Revelação Cósmica (palestras IEEEA + livros). Documento de apoio de aluno (terceiros); equivalências marcadas como 'prováveis'."
+parente_documental = "B060 (Personagens e Terminologias da RC) — mesma linhagem, versão anterior"
+avaliacao_vinculada = "avaliacao-2026-09-04.md (D1..D5)"
+
+# Regras (decisões curador G1/G3 herdadas + desta rodada)
+tipo_processo = "CONSOLIDACAO"
+regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
+          "cotejo-com-fonte-primaria", "grafia-canonicas-na-base",
+          "fonte-de-terceiros-nao-propaga-atribuicao-sem-curadoria"]
+
+# Decisões do curador (04/09/2026)
+decisoes = {
+  "D-1_Sai": "MANTER linhagem Sai (Shirdi/Sathya/Prema) ancorada em RC-102 Shiva (B060/B031; RC-927/928/929). Leitura do 29 doc (Sai sob Krishna; omite Sathya) = divergência de terceiros, registrada, NAO propagada.",
+  "D-1_krishna": "INVESTIGAR Krishna (RC-414/RC-425): o 29 doc o descreve 'Avatar Keshava Biodemo com predominância de Shiva, único avatar que produziu avatares'. Checar coexistência com RC-414 (avatar de Vishnu/Shiva) e nota 'produziu avatares (Sathya Sai como continuação)'.",
+}
+
+# Estado do ciclo
+fase = "LEVANTAMENTO"           # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
+altera_base = false             # levantamento NÃO altera dados_termos.py
+status = "em_andamento"
