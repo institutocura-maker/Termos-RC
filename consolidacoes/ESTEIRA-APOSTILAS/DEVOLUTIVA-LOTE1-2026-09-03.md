@@ -54,3 +54,12 @@ afetividade/identidade de gênero — leitura possível de transfobia; teológic
 | Q-L1-A | Como o Lote 1 está **já integrado** e **sem termos novos**, aprovo marcar a rodada como **auditoria confirmada (sem alteração na base)**? | Sim / não |
 | Q-L1-B | Aprovo **regularizar V-1**: acrescentar `P2019-08-25` à fonte do cadastro de RC-035/RC-499/RC-828 (que já a citam em ficha)? | Sim / não / caso a caso |
 | Q-L1-C | Confirmo avançar ao **Lote 2** (tema central 2023–2026) na mesma esteira? | Sim / revisar antes |
+
+---
+
+## 5. RESOLUÇÃO DO CURADOR (03/09/2026)
+| # | Decisão |
+|---|---|
+| **Q-L1-A** | **Aprovado.** Lote 1 marcado como **AUDITORIA CONFIRMADA** — conceitos já integrados; nenhuma alteração de conteúdo/status na base decorrente do Lote 1. |
+| **Q-L1-B** | **Aprovado.** **V-1 regularizada**: `P2019-08-25` acrescentado à fonte do cadastro de **RC-035, RC-499, RC-828** (que já o citavam em ampliação de ficha) → consistência ficha↔cadastro restaurada. Validador OK (929 termos / 1884 relações). Espelhos regenerados. |
+| **Q-L1-C** | **SUSPENSO (pausa estratégica).** O avanço ao Lote 2 foi **pausado a pedido do curador**, para reavaliar a prioridade da esteira de apostilas frente a outros arquivos não processados de maior potencial de consolidação da KB. Ver `AVALIACAO-PRIORIDADE-ESTEIRA-2026-09-03.md`. |
