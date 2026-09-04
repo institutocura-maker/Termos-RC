@@ -13,6 +13,8 @@
 
 **Registro de autorização do curador (04/09/2026):** quando o ciclo F029 transitar para `fase = APLICACAO` (`altera_base = true`), aplicar integralmente o patch da reancoragem de Krishna especificado em `divergencias.md` D-1_krishna (retipagem da aresta teológica + aresta estrutural `criado-por Shiva` + inclusão de `P2021-04-10` nas fontes de RC-414 + ampliação da ficha RC-414).
 
+**Política transversal derivada (04/09/2026):** a decisão Q-F029-D foi generalizada em `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md` (raiz) — quarentena absoluta entre a base RC e tradições correlacionais externas (Jyotish/Ifá/mitologias), elevando a precedente "Nota de confinamento O-4" (RC-092) a política recorrente.
+
 ## 2. Principais achados do levantamento
 1. **Documento é uma concordância de terceiros** (aluno; equivalências "prováveis") → **não é autoridade** para atribuição; a base (B031/B060 + fontes P/livros primários) prevalece.
 2. **A maior parte dos ~90 verbetes já casa com RC existentes** (Partes A, B parcial, C parcial, E) → valor principal é **correspondência/confirmação e expansão de variações**, não criação de termos.
