@@ -3,7 +3,7 @@
 > **Documento de handoff — Tabela de ponteiros.** Este é o **"mapa do mapa"**: para cada arquivo `.md`/`.json` da raiz, diz **o que é, quando foi atualizado, e quando o agente novo precisa lê-lo**. Use Ctrl+F no nome do arquivo.
 >
 > **Curado por:** Arena.ai Agent Mode (MiniMax-M3) em 2026-08-31.
-> **Branch:** `arena/01a04eee-termos-rc` · **HEAD:** `895caa2` · **Working tree:** LIMPO.
+> **Branch:** `arena/01a06429-termos-rc` · **HEAD:** `22eaeef` · **Working tree:** LIMPO (atualizado 2026-09-04).
 > **Cabe em qualquer janela de contexto** (~10KB).
 
 ---
@@ -49,6 +49,7 @@ Estes arquivos são a **fonte de verdade operacional** em 2026-08-31.
 | 17 | **`VERIFICACAO-DE-COBERTURA-2026-08-26.md`** | 5.2 KB | 2026-08-26 | Como auditar cobertura de uma apostila (portão D) |
 | 18 | **`PLANO-MIGRACAO-DE-CHAT.md`** | 6.9 KB | 2026-08-18 | Como migrar entre chats (pré-esteira-leve) |
 | 19 | **`PACOTE-MIGRACAO-CHAT-2026-08-18.md`** | 9.0 KB | 2026-08-18 | Pacote de migração (estado pré-esteira-leve) |
+| 20 | **`POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`** | 6.7 KB · 111 linhas | 2026-09-04 | **Política transversal** — quarentena absoluta entre a Base RC e tradições correlacionais externas (Jyotish/Ifá/mitologias); eleva a "Nota de confinamento O-4" (RC-092) a política recorrente. Ler quando qualquer proposta tocar fronteira com ecossistema externo |
 
 ---
 
@@ -58,10 +59,10 @@ Estes arquivos se **declaram** desatualizados. Não usar para tomar decisão, ap
 
 | # | Arquivo | Tam | Status oficial |
 |---|---|---|---|
-| 20 | **`PROMPT-INICIAL-DO-AGENTE.md`** | 4.6 KB | **DECLARA-SE HISTÓRICO** (linha 3): "⚠️ não usar — prevalece `PROMPT-PROXIMA-SESSAO.md`" |
-| 21 | **`CHECKPOINT-SESSAO-2026-08-21.md`** | 12.3 KB | **DECLARA-SE VELHO** (linha 3): "Contagens 1849 relações / HEAD e91552d estão **velhas**. Vigente em 2026-08-25: 777 termos / 1.852 relações · HEAD `3fa96c1`" |
-| 22 | **`STATUS-RESTAURACAO.md`** | 5.4 KB | Status de uma restauração antiga (provavelmente 2026-08-17) |
-| 23 | **`PREPARACAO-DE-TEMA-2020-04-25-YEL-LUZBEL.md`** | 9.3 KB | Preparação específica de uma palestra antiga (não usar como template) |
+| 21 | **`PROMPT-INICIAL-DO-AGENTE.md`** | 4.6 KB | **DECLARA-SE HISTÓRICO** (linha 3): "⚠️ não usar — prevalece `PROMPT-PROXIMA-SESSAO.md`" |
+| 22 | **`CHECKPOINT-SESSAO-2026-08-21.md`** | 12.3 KB | **DECLARA-SE VELHO** (linha 3): "Contagens 1849 relações / HEAD e91552d estão **velhas**. Vigente em 2026-08-25: 777 termos / 1.852 relações · HEAD `3fa96c1`" |
+| 23 | **`STATUS-RESTAURACAO.md`** | 5.4 KB | Status de uma restauração antiga (provavelmente 2026-08-17) |
+| 24 | **`PREPARACAO-DE-TEMA-2020-04-25-YEL-LUZBEL.md`** | 9.3 KB | Preparação específica de uma palestra antiga (não usar como template) |
 
 ---
 
@@ -82,10 +83,10 @@ Estes arquivos **estouram qualquer janela de contexto razoável** e devem ser li
 
 | Categoria | Qtd | Soma (KB) | % da raiz |
 |---|---|---|---|
-| GRUPO 1 — VIGENTES | 19 arquivos | ~825 KB | ~63% |
+| GRUPO 1 — VIGENTES | 20 arquivos | ~832 KB | ~63% |
 | GRUPO 2 — HISTÓRICOS | 4 arquivos | ~32 KB | ~2% |
 | GRUPO 3 — GRANDES | 2 arquivos | ~525 KB | ~40% (mas NÃO cabem em 1 chat) |
-| **TOTAL MD/JSON** | **25 arquivos** | **~1.3 MB** | **100%** |
+| **TOTAL MD/JSON** | **26 arquivos** | **~1.31 MB** | **100%** |
 
 > **Nota**: Os 2 arquivos grandes (indice-mestre + CONTINUIDADE) sozinhos somam **525 KB** = 40% da raiz.
 
@@ -151,6 +152,7 @@ A raiz também tem:
 ## 📜 Histórico deste índice
 
 - **2026-08-31 (T+0:21)**: Criado em resposta à pergunta do curador sobre `CONTINUIDADE.md` e `PROMPT-INICIAL-DO-AGENTE.md`. Decideuse criar 1 doc de ponteiros (em vez de mini-resumo de cada um) para preservar o conteúdo original intacto.
+- **2026-09-04**: Registrado `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md` como item 20 do GRUPO 1 (VIGENTES); GRUPO 2 renumerado (20–23 → 21–24); total MD/JSON 25 → 26. Branch `arena/01a06429-termos-rc` · HEAD `22eaeef`.
 - Commit: (ver `git log` — a fazer)
 
 ---
