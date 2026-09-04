@@ -3,7 +3,7 @@
 > **Documento de handoff — Tabela de ponteiros.** Este é o **"mapa do mapa"**: para cada arquivo `.md`/`.json` da raiz, diz **o que é, quando foi atualizado, e quando o agente novo precisa lê-lo**. Use Ctrl+F no nome do arquivo.
 >
 > **Curado por:** Arena.ai Agent Mode (MiniMax-M3) em 2026-08-31.
-> **Branch:** `arena/01a06429-termos-rc` · **HEAD:** `22eaeef` · **Working tree:** LIMPO (atualizado 2026-09-04).
+> **Branch:** `arena/01a06429-termos-rc` · **HEAD:** `5ba7d54` · **Working tree:** LIMPO (atualizado 2026-09-04).
 > **Cabe em qualquer janela de contexto** (~10KB).
 
 ---
@@ -50,6 +50,11 @@ Estes arquivos são a **fonte de verdade operacional** em 2026-08-31.
 | 18 | **`PLANO-MIGRACAO-DE-CHAT.md`** | 6.9 KB | 2026-08-18 | Como migrar entre chats (pré-esteira-leve) |
 | 19 | **`PACOTE-MIGRACAO-CHAT-2026-08-18.md`** | 9.0 KB | 2026-08-18 | Pacote de migração (estado pré-esteira-leve) |
 | 20 | **`POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md`** | 6.7 KB · 111 linhas | 2026-09-04 | **Política transversal** — quarentena absoluta entre a Base RC e tradições correlacionais externas (Jyotish/Ifá/mitologias); eleva a "Nota de confinamento O-4" (RC-092) a política recorrente. Ler quando qualquer proposta tocar fronteira com ecossistema externo |
+| 21 | **`DESPACHO-ESTEIRA-CONSOLIDACAO-2026-09-03.md`** | 5.9 KB | 2026-09-03 | **A NORMA (rascunho)** da Esteira de Consolidação da Base (nova categoria de fonte: material refatorado/revisado). Ler para conduzir ciclos de consolidação (F022/F029) |
+| 22 | **`DIAGNOSTICO-BASELINE-KB-2026-09-03.md`** | 5.4 KB | 2026-09-03 | Linha de base mensurável da KB antes da Esteira de Consolidação (números reprodutíveis via `dados_termos.py`). Ler para dimensionar/monitorar progresso |
+| 23 | **`ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO-2026-09-03.md`** | 13.9 KB | 2026-09-03 | Análise da proposta de consolidação da KB + confronto com o `22-GLOSSÁRIO.txt`. Ler para entender o método da esteira de consolidação |
+
+> **Nota (2026-09-04):** o diretório **`consolidacoes/`** é o working folder da Esteira de Consolidação (ciclos F022 `22-glossario` e **F029 `29-PERSONAGENS`** — este em andamento no branch `arena/01a06429-termos-rc`; também guarda `ESTEIRA-APOSTILAS/`, `AVALIACAO-PRIORIDADE-ESTEIRA-APOSTILAS-2026-09-03.md`, `FILA-CONSOLIDACAO-APOSTILAS-2026-09-03.md`). Cada ciclo tem `ciclo.toml` (fase/`altera_base`), `mapeamento.md`, `divergencias.md`, `devolutiva.md`, `fonte.txt`.
 
 ---
 
@@ -59,10 +64,10 @@ Estes arquivos se **declaram** desatualizados. Não usar para tomar decisão, ap
 
 | # | Arquivo | Tam | Status oficial |
 |---|---|---|---|
-| 21 | **`PROMPT-INICIAL-DO-AGENTE.md`** | 4.6 KB | **DECLARA-SE HISTÓRICO** (linha 3): "⚠️ não usar — prevalece `PROMPT-PROXIMA-SESSAO.md`" |
-| 22 | **`CHECKPOINT-SESSAO-2026-08-21.md`** | 12.3 KB | **DECLARA-SE VELHO** (linha 3): "Contagens 1849 relações / HEAD e91552d estão **velhas**. Vigente em 2026-08-25: 777 termos / 1.852 relações · HEAD `3fa96c1`" |
-| 23 | **`STATUS-RESTAURACAO.md`** | 5.4 KB | Status de uma restauração antiga (provavelmente 2026-08-17) |
-| 24 | **`PREPARACAO-DE-TEMA-2020-04-25-YEL-LUZBEL.md`** | 9.3 KB | Preparação específica de uma palestra antiga (não usar como template) |
+| 24 | **`PROMPT-INICIAL-DO-AGENTE.md`** | 4.6 KB | **DECLARA-SE HISTÓRICO** (linha 3): "⚠️ não usar — prevalece `PROMPT-PROXIMA-SESSAO.md`" |
+| 25 | **`CHECKPOINT-SESSAO-2026-08-21.md`** | 12.3 KB | **DECLARA-SE VELHO** (linha 3): "Contagens 1849 relações / HEAD e91552d estão **velhas**. Vigente em 2026-08-25: 777 termos / 1.852 relações · HEAD `3fa96c1`" |
+| 26 | **`STATUS-RESTAURACAO.md`** | 5.4 KB | Status de uma restauração antiga (provavelmente 2026-08-17) |
+| 27 | **`PREPARACAO-DE-TEMA-2020-04-25-YEL-LUZBEL.md`** | 9.3 KB | Preparação específica de uma palestra antiga (não usar como template) |
 
 ---
 
@@ -83,10 +88,10 @@ Estes arquivos **estouram qualquer janela de contexto razoável** e devem ser li
 
 | Categoria | Qtd | Soma (KB) | % da raiz |
 |---|---|---|---|
-| GRUPO 1 — VIGENTES | 20 arquivos | ~832 KB | ~63% |
+| GRUPO 1 — VIGENTES | 23 arquivos | ~859 KB | ~63% |
 | GRUPO 2 — HISTÓRICOS | 4 arquivos | ~32 KB | ~2% |
 | GRUPO 3 — GRANDES | 2 arquivos | ~525 KB | ~40% (mas NÃO cabem em 1 chat) |
-| **TOTAL MD/JSON** | **26 arquivos** | **~1.31 MB** | **100%** |
+| **TOTAL MD/JSON** | **29 arquivos** | **~1.34 MB** | **100%** |
 
 > **Nota**: Os 2 arquivos grandes (indice-mestre + CONTINUIDADE) sozinhos somam **525 KB** = 40% da raiz.
 
@@ -152,7 +157,8 @@ A raiz também tem:
 ## 📜 Histórico deste índice
 
 - **2026-08-31 (T+0:21)**: Criado em resposta à pergunta do curador sobre `CONTINUIDADE.md` e `PROMPT-INICIAL-DO-AGENTE.md`. Decideuse criar 1 doc de ponteiros (em vez de mini-resumo de cada um) para preservar o conteúdo original intacto.
-- **2026-09-04**: Registrado `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md` como item 20 do GRUPO 1 (VIGENTES); GRUPO 2 renumerado (20–23 → 21–24); total MD/JSON 25 → 26. Branch `arena/01a06429-termos-rc` · HEAD `22eaeef`.
+- **2026-09-04 (1)**: Registrado `POLITICA-QUARENTENA-ENTRE-ECOSSISTEMAS.md` como item 20 do GRUPO 1 (VIGENTES); GRUPO 2 renumerado (20–23 → 21–24); total MD/JSON 25 → 26. Branch `arena/01a06429-termos-rc` · HEAD `22eaeef`.
+- **2026-09-04 (2)**: Registrados itens 21–23 do GRUPO 1 (governança da Esteira de Consolidação de 09-03: `DESPACHO-ESTEIRA-CONSOLIDACAO`, `DIAGNOSTICO-BASELINE-KB`, `ANALISE-PROPOSTA-CONSOLIDACAO-E-22-GLOSSARIO`) + nota sobre `consolidacoes/` (F022/F029). GRUPO 2 renumerado (21–24 → 24–27); total MD/JSON 26 → 29. HEAD `5ba7d54`.
 - Commit: (ver `git log` — a fazer)
 
 ---
