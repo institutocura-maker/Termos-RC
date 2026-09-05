@@ -7,8 +7,10 @@ fonte_canonica = "consolidacoes/TL01_lista-simples-rc/fonte.txt"
 sha256 = "7166a7b6ff06b242af4fda0e53d84422ae24ebeb030a0a316cc54b4e8e342820"
 bytes = 4945
 linhas = 224
-fase = "DEVOLUTIVA"
+fase = "ARQUIVADO"
+status = "concluido"
 altera_base = false
+despacho = "Aprovo G1 (05/09/2026) — arquivamento + registro nº 20; lacunas: (ii-adiado) até a dívida interna extinguir"
 data_abertura = "2026-09-05"
 autorizado_por = "despacho Q-F037-F (05/09/2026): abrir TL-01 assim que o commit do Lote 1 for validado"
 

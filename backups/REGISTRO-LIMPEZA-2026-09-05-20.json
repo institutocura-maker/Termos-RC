@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-05",
+  "numero": 20,
+  "tipo": "EXECUÇÃO — ARQUIVAMENTO TRILHA LEVE (despacho 2026-09-05: «Aprovo G1. Arquive o documento com o relatório da Trilha Leve e emita o respectivo registro de caixa.»)",
+  "contexto": "TL-01 = primeiro paciente do portão TRILHA LEVE (PROTOCOLO-TRILHA-LEVE.md, homologado no Despacho de Pausa 05/09/2026). A LISTA SIMPLES jazia na caixa como 'não-apta' desde o registro nº 13 por ausência de cópia canônica — a Trilha Leve sanou a pendência em um ciclo de 1 página: canonização + varredura de derivação (195 itens: 181 por slug + 13 com par nas fichas + 2 órfãos desfeitos pela âncora B002 ll. 8223-8227) + grau G1 (sem invenção de identidades/datas; sem quarentena; sem escala ao rito cheio).",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte), re-conferida imediatamente antes do rm — conferência TRIPLA (sha256sum do bruto · hashlib da cópia · stream em blocos do bruto), modelo dos registros 17–19",
+  "arquivos": [
+    {
+      "arquivo": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt",
+      "sha256": "7166a7b6ff06b242af4fda0e53d84422ae24ebeb030a0a316cc54b4e8e342820",
+      "bytes": 4945,
+      "nota_ciclo": "TL-01 — G1 homologado; lacunas mapeadas (cluster Cabala, tipologias homo…, expressões soltas — cf. VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md) decididas como (ii-adiado) por ordem expressa: 'O foco absoluto e exclusivo da esteira é reduzir as 206 flags vivas. Não criaremos novos códigos nem abriremos ciclos de expansão até que a dívida interna esteja liquidada.'",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/TL01_lista-simples-rc/fonte.txt",
+          "sha256": "7166a7b6ff06b242af4fda0e53d84422ae24ebeb030a0a316cc54b4e8e342820",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 1,
+  "aptos_para_ordem_de_remocao": 1,
+  "observacao": "Caixa de recepção agora VAZIA de brutos (só README.md + REGISTRO-LIMPEZA-*.json). Regime de entrada: Trilha Leve por padrão; alerta apenas para invenção de identidades/datas (quarentena) ou conteúdo inédito ancorável (escala ao rito cheio)."
+}
