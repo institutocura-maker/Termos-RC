@@ -1,11 +1,11 @@
-# Notas de sessão (arena/01a071c8-termos-rc) — F036 FECHADO
+# Notas de sessão (arena/01a071c8-termos-rc) — era pós-PAUSA
 
-## Estado (2026-09-05, fim da aplicação F036)
-- F036 CONCLUÍDO (`9724dbd` push+remote = HEAD): despacho Q-F036-A…F aplicado na íntegra, nada além do assinado. Base 933/1898 validada OK (dados_termos + auditoria verde); espelhos consolidados (indice-mestre 933 · xlsx · docx).
-- Ficha tocada: RC-091 somente — nota «terceiro ponto cronológico em B050» (l. 82 verbatim com assert byte a byte; [REVISAR] da l. 65 MANTIDO aberto, por decisão expressa). RC-092 intocada (flag Olm l. 51 permanece).
-- Ledger F036: 0 abertas; fechadas biodemos ~900 mi (P2022-03-26/P2020-04-25/B057) e datas EC 2012/2015–2018/2017–2018; as 47 supressões = formato (não censura); TALM 7,7 bi homologado; Mohen So 7,8 e Nidana 3,8 revalidados.
-- Caixa: Registro nº 19 (backups/REGISTRO-LIMPEZA-2026-09-05-19.json, JSON validado) — F036 = 9º apto Família F; conferência tripla do SHA b9ad623e… (121.388 B) antes do git rm; bruto «14 - Projeto TALM – O Livro.txt» REMOVIDO (nome com TRAVESSÃO, grafado EXATO); README com linha F036 + seção Limpeza nº 19; caixa de volta ao regime de entrada bruta (LISTA SIMPLES permanece não-apta; alerta «nome ??» vigente).
-- Convenção confirmada: arquivos pedagogico/ de auditoria NÃO entram nos commits de ciclo (foram revertidos quando regenerados por engano — só commit de ferramenta/fase-0); indice-mestre regenera mas fica inalterado quando a mudança é nota de ficha.
+## Estado (2026-09-05, fim do turno de reconfiguração)
+- F036 FECHADO (`9724dbd`): RC-091 nota B050 l. 82; [REVISAR] l. 65 mantido; RC-092 intocada; Registro nº 19; bruto 14 removido; caixa limpa (só LISTA SIMPLES, não-apta).
+- DESPACHO DE PAUSA 05/09/2026 codificado (`4788ccd`): INGESTÃO ENCERRADA (saturação reconhecida; Δ 0 termos por rito cheio = fim da era de acúmulo). Esteira dividida em: (1) TRILHA LEVE p/ caixa — consolidacoes/PROTOCOLO-TRILHA-LEVE.md + seção no uploads_recepcao/README.md (graus G0/G1/G2; despacho 1 linha Aprovo/Quarentena/Escala; LISTA SIMPLES = paciente TL-01 a despachoar); (2) MUTIRÃO REVISAR = novo core — F037…
+- F037 (MUTIRÃO L1 Cronologia) EM DEVOLUTIVA, aguarda despacho Q-F037-A…F. Censo: 286 linhas-âncora · 283 vivas · 187 fichas (CSV no dossiê). Roster L1: 35 reais = 6 FECHÁVEIS (âncoras B050 já achadas) + 6 CHANCELÁVEIS + 23 RECLASSIFICÁVEIS + 1 PROTEGIDA (RC-091 l. 65).
+- DESCOBERTA-CHAVE: B050 tem TRILHA D (datas EC): l. 203 «2012 d.C. portais» · l. 204 «Fim da Lila/Trimurti 2015 d.C.» · ll. 46/64 Era da Solidão 13,8–13,3 bi (≡ 500 mi RC-808) · l. 87 «Surge Sophia, primeiro biodemo, 5 bi a.p.» (âncora nova RC-009, Q-C). Isso CORRIGE a alçada «datas EC sem jurisdição» lavrada em F036 V-4 (ledger do F037 averba; F036-D pede despacho p/ tocar o arquivo do F036).
+- Máquina de estados p/ flags: ENCERRADO-F037-Ln (verbatim+assert) · TENSÃO-INSOLÚVEL (chancela na ficha, molduras arroladas, «conferido» visível) · RECLASSIFICADO · PROTEGIDA · AGUARDA-ÁUDIO (L3). Um lote = um ciclo; espelhos 1× ao fim do lote; base 933/1898 imutável em termos/relações (mutirão só anota fichas).
 
-## Para o próximo ciclo
-- Família F com 9 aptos. Próximos candidatos conhecidos: nenhum bruto na caixa além da LISTA SIMPLES (aguardar nova entrega do curador). Se vier «refatorado»-irmão de P2025-08-03: rito F034→F035→F036 aplicável (fonte? reciclagem? cotejar pendências REVISAR do cluster — p.ex. a tensão Olm já certificada não-encerrável; STT «projeto Town» l. 28 da RC-091 aguarda áudio — não encerrável na esteira).
+## Imediato
+AGUARDAR despacho Q-F037-A…F. Execução L1 = aplicar adjudicações do roster com verbatim-recheck linha a linha (as preliminares da tabela A são âncoras JÁ vistas, mas o grep do censo não substituía leitura completa da Trilha D). Depois: L2/L3/L5 rosters; TL-01 quando autorizado.
