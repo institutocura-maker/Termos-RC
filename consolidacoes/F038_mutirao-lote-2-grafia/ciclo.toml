@@ -1,0 +1,23 @@
+# ciclo.toml — F038 «MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia»
+id = "F038"
+titulo = "Mutirão REVISAR — Lote 2: Grafia & Taxonomia"
+fase = "DEVOLUTIVA"
+status = "aguarda_despacho"
+altera_base = false
+data_abertura = "2026-09-05"
+decisoes_pendentes = ["Q-F038-A", "Q-F038-B", "Q-F038-C", "Q-F038-D", "Q-F038-E"]
+
+[roster]
+reais = 17
+fechar = 10
+chancelar_casos = 4
+chancelar_flags = 6
+aguarda_decisao = 1
+migra_para_L4 = "RC-593 sub-caso Braba (Javé × Brahma)"
+expurgados = "5 linhas já adjudicadas (RC-036 l.54; RC-777 l.11/19/68; RC-486 l.64) + sobrecenso RC-064 resolvido a favor do FECHAR"
+
+[metodos]
+a = "FECHAR com contagens e títulos de catálogo provados (B026 via BIBLIO; Mohen So 84x/0x; Morus 31x/3x; marra barat 26 arq.; rxaça 5 arq.)"
+b = "CHANCELA nova admitida no roster: 'fonte ausente da Arca' (B083 Awayem x3) — análoga à AGUARDA-ÁUDIO, batizada pelo lote"
+c = "AGUARDA-DECISÃO (RC-464 ISAR=ISHTAR) apresentada com as duas opções prontas para carimbo no mesmo despacho"
+d = "espelhos uma vez ao fim do lote (constituição L1); métrica token-a-token"
