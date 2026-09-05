@@ -1,0 +1,39 @@
+# ciclo.toml — F036 «Projeto TALM – O Livro» (bruto nº 14)
+id = "F036"
+titulo = "Projeto TALM – O Livro"
+arquivo_bruto = "uploads_recepcao/14 - Projeto TALM – O Livro.txt"
+fonte_canonica = "consolidacoes/F036_projeto-talm-livro/fonte.txt"
+sha256 = "b9ad623e3b6fd27e9057c1cf04c63a4f085b9fb802b12fae1c4193eae8f7857e"
+bytes = 121388
+linhas = 338
+famiglia = "F"
+fase = "DEVOLUTIVA"
+data_abertura = "2026-09-05"
+altera_base = false
+decisoes_pendentes = ["Q-A", "Q-B", "Q-C", "Q-D", "Q-E", "Q-F"]
+
+[auditoria]
+linhas_ge80c = 250
+verbatim_vs_original_02 = "250/250 (100%)"
+verbatim_vs_apostila_02 = "203/250 (81%) — as 47 ausentes são o andaime pedagógico dos capítulos (supressão de formato; ver mapeamento §5)"
+citacoes_intra_linha = "393/393 (100%) — melhor índice da série"
+numeros_sem_par = "somente numeração de capítulos (1–11; 9.1–9.3); nada doutrinário"
+termos_novos = 0
+relacoes_novas = 0
+relacao_com_corpus = "documento-FONTE do cluster P2025-08-02: corpo byte-a-byte igual ao original.txt (diff = 6 linhas de cabeçalho)"
+
+[cotejo_b050]
+talm = "CONFERIDO — B050 original.txt l. 82: «[ 7,700,000,000 a.p.] “Início” do projeto Talm. (7,7 bilhões a.p.)»; converge com a faixa 7,5–7,7 da curadoria 2025"
+corolarios = "B050 l. 81 Mohen So/Fenvans 7,8 bi (revalida âncora RC-064 do F034) · l. 94 Nidana «molécula-mãe» 3,8 bi (compatível com ~4 bi da refatorada)"
+olm = "NÃO ENCERRÁVEL — B050 silente; tensão curadoria 2025 («6–7 bi») vs P2020-07-11 («ficou fora 5–6 bi; mergulhou com o TALM»); flag RC-092 l. 51 mantida"
+datas_ec = "2012/2015–2018/2017–2018 conferidas por inadstrição de alçada do mapa + âncora ART/B022; item fechado no ledger"
+biodemos = "~900 mi fechável: P2022-03-26 + P2020-04-25 + B057 p. 21 (já lavrado RC-009/RC-442)"
+sophia_autor_apocalipse = "fora de jurisdição — segue sob despacho F034-Q-C (REVISAR mantido)"
+
+[propostas]
+q_a = "homologar F036 como documento-FONTE da série (ciclo de VERIFICAÇÃO; saldo doutrinário zero)"
+q_b = "única ficha candidata: nota sem blindagem em RC-091 l. 65 averbando o terceiro ponto B050 (7,7 bi) na discrepância interna do B024 (8,1 × 7,5); encerrar ou manter o REVISAR é decisão do curador"
+q_c = "RC-092 (Olm): manter flag; nada na ficha (recomendação do executor)"
+q_d = "encerramentos de ledger: TALM, biodemos, datas EC (itens da lista DOSSIE l. 86)"
+q_e = "47 supressões = formato, averbado; nenhuma equação nova a rejeitar"
+q_f = "pós-despacho: Registro nº 19 + re-conferência do SHA antes do git rm + linha F036 no README; nome do bruto usa TRAVESSÃO (TALM – O Livro)"
