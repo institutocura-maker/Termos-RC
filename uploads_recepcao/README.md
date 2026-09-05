@@ -115,4 +115,12 @@ versionados em `ciclos/*/`, `apostilas/CONCLUIDAS/*/` e `livros/**/`. Resultado:
   (estavam versionados em `uploads_recepcao/`). Registro em
   [`backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json`](../backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json).
 
-**Estado atual da pasta:** ZERADA — apenas arquivos de metadados (README + registros de limpeza).
+**Estado da pasta (atualizado em 05/09/2026):** material da **Esteira de Consolidação (Família F)** em processo,
+com cópia byte a byte já versionada no destino — **não removidos daqui por falta de ordem expressa do curador**:
+
+| Arquivo | Situação |
+|---|---|
+| `22-GLOSSÁRIO.txt` | processado como **F022** (`consolidacoes/F022_22-glossario/`, levantamento 03/09/2026) |
+| `29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt` | processado como **F029** (`consolidacoes/29-PERSONAGENS/`, levantamento 04/09/2026) |
+| `LISTA SIMPLES DE TERMOS CHAVE DA RC.txt` | auditoria de cobertura em `VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md` — aguarda decisão |
+| `Colégio Druídico — Estudo Continuad.txt` (Daniela D. Ferro) | recebido e aberto o ciclo **F030** em `consolidacoes/F030_colegio-druidico/` (levantamento 05/09/2026; SHA `36b35d46…` conferido `cmp`-limpo; bruto preservado) |
