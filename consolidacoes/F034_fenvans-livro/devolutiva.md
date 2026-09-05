@@ -3,6 +3,10 @@
 Documento: «Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico» (série «— O Livro», 4º título) · SHA-256 `b7d084bd8ba185f155f0c043e797b100168909d7c4a823abb11ba4449cc08b17` · 141.502 B · 386 linhas · cópia canônica `consolidacoes/F034_fenvans-livro/fonte.txt` (byte-idêntica ao bruto nº 12 da caixa de recepção).
 Base **NÃO tocada nesta fase** (933 termos · 1898 relações · validação OK).
 
+## §0 · Despacho do curador (05/09/2026) — APLICAÇÃO EXECUTADA
+
+> Q-F034-A ✅ homologado (documento-espelho, saldo doutrinário zero, validação de leitura) · Q-B ✅ retificação D-5 do ledger F032 lavrada + averbação sem blindagem **só na RC-658**: «teia ~9 bi (P2025-08-03, apostila ll. 826/882)» · Q-C manter REVISAR (RC-854 intacta, «ditado por sofia rockman»/B014) · Q-D averbada no ledger F034, fichas canônicas intocadas (RC-454 mantém «Elm»; RC-642 mantém AYA/AYE) · Q-E ✅ Registro nº 17 emitido e bruto nº 12 removido após re-conferência tripla do SHA-256. «Com este movimento, a malha permanece intacta e blindada.» — **ciclo CONCLUÍDO; nenhum próximo passo.**
+
 ## Balanço da investigação
 
 **Veredicto: documento-espelho — 100% de fidelidade ao corpus.** Das 299 linhas com ≥80 caracteres, **299/299 estão verbatim no corpus** e **292 (98%) na própria apostila-mãe `P2025-08-03_dossie_fenvans`**; as 7 restantes pertencem às irmãs do cluster (P2025-08-01/02), e ao menos dois parágrafos do corpo são **byte-idênticos** ao `analise/camada-3.txt` do dossiê (ll. 56/86 ↔ doc ll. 109/141). O arquivo fecha com o «Briefing Documento» do compilador (l. 357: «Fonte: Excertos de "Fenvans… – O Livro.pdf"») — confissão de origem que dispensa exegese.

@@ -2,9 +2,9 @@
 id = "F034"
 titulo = "Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico"
 recebido = "2026-09-05 (commit do curador 31bf41c na branch arena/01a071c8-termos-rc · bruto uploads_recepcao/12)"
-fase = "DEVOLUTIVA"
-status = "aguardando_despacho"
-altera_base = false
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
 
 [fonte]
 arquivo = "uploads_recepcao/12 - Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico.txt"
@@ -36,3 +36,10 @@ f = "TOML validado por tomllib ANTES da gravacao — chaves ASCII (licao F032/F0
 termos = 933
 relacoes = 1898
 validacao = "OK (python3 ferramentas/dados_termos.py) — inalterada nesta fase"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F034-A…E aplicado na íntegra; nada além do assinado; nenhuma aspa do doc propagada"
+delta = "TERMOS 933 (inalterado) · RELACOES 1898 (inalterado) · fichas: RC-658 (1 nota, sem blindagem — a única da esteira F034) · ledger: retificação F032 D-5 + 3 averbacoes no ledger F034 (Q-B/C/D)"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relacoes; zero orfas novas; espelhos regenerados (indice-mestre · xlsx · docx)"
+ledger = "Q-B: RC-454 INTACTA (despacho); nota so no RC-658. Q-C: manter REVISAR (dossie l.1139); RC-854 intacta. Q-D: variantes no ledger F034, fichas canonicas intocadas"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-17.json: 1 removido (12 - Fenvans - A Genese Nanotecnologica e o Sacrificio Cosmico.txt) apos reconferencia tripla do SHA-256; copia canonica em consolidacoes/F034_fenvans-livro/fonte.txt"

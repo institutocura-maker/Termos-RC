@@ -147,3 +147,10 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Nota — teia ~9 bi — F034 aplicação (05/09/2026)
+
+- teia ~9 bi (P2025-08-03, apostila ll. 826/882) — averbação sem blindagem, por despacho Q-F034-B; retifica o veto D-5 do ciclo F032 (a cifra tem âncora de curadoria, na camada-apostila do dossiê; o original.txt do dossiê não a contém, e a frase de B016 continua referente à entropia pós-início).
+- **[P2025-08-03 · apostila, l.826 — verbete Moros]** «Criou a "teia quântica" (Wyrd) há cerca de 9 bilhões de anos, uma fonte de registros factuais que controla um fluxo de informações ao qual até os deuses estavam submetidos.»
+- **[P2025-08-03 · apostila, l.882 — verbete Wyrd]** «Wyrd: "Teia quântica" ou "fonte de registros factuais" engendrada por Moros há cerca de 9 bilhões de anos.»
+- **[P2023-08-05 · DOSSIE-PRE-CURADORIA, l.21 — antecedente]** «RC-658 [F] (opcional): "Moros/Orlog engendrou a Wyrd há 9 bilhões — a teia quântica que associa grau de podridão codificado com necessidade/capacidade de resiliência".» — a cifra já fora proposta à curadoria em 2023.
