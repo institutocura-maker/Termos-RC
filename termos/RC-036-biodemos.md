@@ -136,3 +136,8 @@ Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das fam�
 
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (fontes B031 e demais obras) sem ficha física. **Quarentena ufológica (O-7):** estirpe extraterrestre de Capela — cruzar com as obras primárias de Ellam, não materializar como fato; a narrativa de B057 é psicografia (voz isolada de Yel Luzbel). 0 códigos novos (O-3).
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **Variante numérica documentada (l. 33; despacho Q-F037-B, texto da palestra intocado).** O «SÓ A CERCA DE NOVE MILHÕES DE ANOS ATRÁS» da fala é artefato de STT para «novecentos milhões», com cadeia de corroboração: RC-771 l. 33 («os biodemos surgiram muito mais tarde (últimos 900 milhões de anos)», ART-2025-08-03), B057 original.txt l. 753: «(900 milhões a 230 milhões de anos, aproximadamente) de existência das famílias de» e l. 816: «900 milhões a 230 milhões de anos antes do presente, aproximadamente, cada qual com», e o encerramento F036-V-5 (P2022-03-26 · P2020-04-25).
+- **Nota de censo:** o `[REVISAR]` grafo na própria l. 33 tem por alvo o nome «'Olga'» (matéria de áudio — lote L3), não a cifra; essa flag permanece aberta e sai do roster do L1. O encerramento assinado «RC-036 l. 33» incidiu sobre a variante numérica, que é o que a linha documentava como pendência de cronologia.

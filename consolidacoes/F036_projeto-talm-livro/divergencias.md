@@ -18,6 +18,8 @@ A flag da ficha RC-092 l. 51 («surgiu do forno de Awaymaion há aproximadamente
 
 Datas da era comum: o mapa das eras (tempo profundo, escala de bilhões a.p.) não é o tribunal delas; estão ancoradas no próprio material de curadoria (apostila-02 l. 50 e dossiê l. 708/976 — cadeia F033/F034) e em B022 («data fenomenal de 2016 dita ao vivo» — Vishnu). Item encerrado no ledger; fichas não têm flag correspondente. O sub-item «Sophia autor do Apocalipse» segue sob o despacho F034-Q-C (REVISAR mantido) — não reaberto aqui.
 
+> **REVISÃO (F037-L1, 05/09/2026 · despacho Q-F037-D):** a alçada de V-4 está superada pela descoberta da TRILHA D do B050, que crava datas da era comum — l. 203: «[            14 a.p.] (trilha D, y=1055) Fim do fechamento dos / portais. ( 2012 d.C.)» e l. 204: «[            11 a.p.] (trilha D, y=1193) 2.000 A.P / 2.000 D.C. / Fim da Lila/Trimurti. (2015 d.C.)». O que este ciclo encerrara «por fora da alçada do mapa» passou a encerrado POR âncora primária no mapa (fichas RC-104/RC-775, F037-L1). Correção exclusivamente histórica: nenhuma decisão assinada do F036 foi alterada e nenhuma ficha movida por esta revisão.
+
 ## V-5 · «biodemos ~900 mi» — fechável por fonte diversa do mapa
 
 B050 silente, mas a cifra é de palestra: P2022-03-26 («essa historia comecou ha cerca de 900 milhoes de anos atras») + P2020-04-25 (DOSSIE-PRE: «a natureza dos biodemos: casulos, assexuacao por familia, 900 milhoes de anos») + B057 p. 21 JÁ lavrado nas fichas RC-009/RC-442 («900 milhões a 230 milhões»). Nenhuma ficha carrega flag deste item; encerramento é de ledger.

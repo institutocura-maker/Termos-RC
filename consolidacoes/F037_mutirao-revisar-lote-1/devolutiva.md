@@ -1,5 +1,9 @@
 # DEVOLUTIVA AO CURADOR — CICLO F037 · MUTIRÃO REVISAR, LOTE 1 (Cronologia) — 05/09/2026 · fase DEVOLUTIVA
 
+## §0 · Despacho do curador (05/09/2026) — APLICAÇÃO EXECUTADA
+
+Q-A a E aprovados na íntegra (PLANO-MUTIRAO = Constituição do esforço; sintaxe de lavreta assinada; âncora da RC-009 aplicada; averbo de superação do V-4 no ledger F036; espelho único ao fim do lote). Roster L1 executado: 6 ENCERRADO + 5 CHANCELA + variante RC-036 + reforço RC-009; três correções de evidência averbadas na execução (RC-036: flag mira o nome «Olga», não a cifra — cifra documentada, nome segue em L3 · RC-771 l. 33: flag mira a data dos biodemos, não as esferas — fechada com B057 · RC-092: «silêncio» do B050 retificado para corroboração parcial da l. 87, chancela mantida). Métrica oficial: 206 vivas · 11 adjudicadas no L1. Q-F: TL-01 aberto em commit próprio na sequência. Ver `DECISAO-DO-CURADOR.md`.
+
 Ponto de partida: teu despacho de pausa — «Ambos: Trilha Leve na porta + Mutirão REVISAR como core». Ambiente preparado (protocolos lavrados em `consolidacoes/PROTOCOLO-TRILHA-LEVE.md` e `consolidacoes/F037_mutirao-revisar-lote-1/PLANO-MUTIRAO.md`) e censo completo arquivado (`inventario-flags.csv`: 286 linhas · 283 vivas · 187 fichas). **Base intocada nesta fase.**
 
 ## Escopo de ataque — Lote 1 (35 flags reais)

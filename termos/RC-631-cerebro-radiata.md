@@ -30,7 +30,7 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
 ## Ampliação — P2025-08-01
 
-- **[ART-2025-08-01] Radiata e a banda cerebral (Partes II–III):** "seres 'radiata' (com uma única banda cerebral) foram produzidos [pelos fornos], caracterizados por serem mais animalizados e voltados para o ímpeto das emoções [Awaylengan/Shiva]... mais racionalizados, frios e lógicos, com poucas emoções [Awaymaion/Vishnu]"; "quando os protótipos dos fornos de Vishnu e de Shiva se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050] — ver nó RC-771.
+- **[ART-2025-08-01] Radiata e a banda cerebral (Partes II–III):** "seres 'radiata' (com uma única banda cerebral) foram produzidos [pelos fornos], caracterizados por serem mais animalizados e voltados para o ímpeto das emoções [Awaylengan/Shiva]... mais racionalizados, frios e lógicos, com poucas emoções [Awaymaion/Vishnu]"; "quando os protótipos dos fornos de Vishnu e de Shiva se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL — ver nota ao fim da ficha] — ver nó RC-771.
 
 
 ## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
@@ -101,3 +101,7 @@ Consultar relações acima.
 Informação sensível e especulativa da palestra.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **CHANCELA — TENSÃO INSOLÚVEL (l. 33): radiata sem registro no mapa.** Nenhuma linha «radiata» no B050. A cifra 12,17 do mapa pertence a outro evento, l. 67 verbatim: «[12,170,000,000 a.p.] (trilha A, y=201) Savna mergulha na singularidade imperfeita e imanta-se a um anjo-clone. / Passa a procurar uma forma de ajudar Brahma. (Aproximadamente 12,17 bilhões a.p.)» — coincidência de número, não de tese. Ver nós RC-771/RC-499 (bilatério, mesma chancela).

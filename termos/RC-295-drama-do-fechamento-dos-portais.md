@@ -33,7 +33,7 @@ O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam d
 
 ## Reforço — P2025-02-16
 
-O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA]`.
+O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerramento de ciclo da precessão equinocial. A fala menciona portais tecnológicos posteriores; o STT oscila entre 2002 e 2012, devendo permanecer `[REVISAR DATA → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha]`.
 ---
 ---
 ---
@@ -68,3 +68,6 @@ O fechamento dos portais naturais em 2012 é atribuído à entropia e ao encerra
 - **[O portal não é uma porta que se fecha] (U0006)** «O fechamento de portal aí não é a simples porta que se fecha, é, não é um troço que funciona entre os dois universos e entre as moradas desse universo de lá, que a todo momento há uma expectativa de que vai continuar a se abrir porque o dia esteve aberto, mas fecha e eles mexem.» — o mecanismo entre os dois universos e as moradas do universo de lá; afeta os níveis espirituais vinculados aos dois universos e o orb terreno.
 - **[O último grande portal aberto: Ásia, 2004] (U0006)** «Só que a entropia, essa força tamgica desde o ano 2004, quando foi aberto o último grande portal de espíritos perturbados e perturbadores em termos geografia humana lá na Ásia.» — o fechamento dos portais impediu a abertura desses bolsões de espíritos colecionados para a teórica hora do exílio (iniciado em 1989).
 
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **Data dos portais: encerrada com âncora no mapa (trilha D, recém-mapeada pelo Mutirão).** B050 original.txt l. 203, verbatim: «[            14 a.p.] (trilha D, y=1055) Fim do fechamento dos / portais. ( 2012 d.C.)» — o mapa crava 2012 d.C.; a variante «2002» do STT fica registrada como artefato de transcrição (texto da palestra intocado).

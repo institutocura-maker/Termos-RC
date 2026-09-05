@@ -56,7 +56,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 ## Ampliação — P2025-08-02
 
-- **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
+- **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050 → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
 
 
 ## Ampliação — P2022-12-17
@@ -324,3 +324,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **Datas da presa e do fim da Trimúrti: conferidas no mapa.** B050 original.txt l. 203: «[            14 a.p.] (trilha D, y=1055) Fim do fechamento dos / portais. ( 2012 d.C.)» (presa desde 2012 ✓) e l. 204: «[            11 a.p.] (trilha D, y=1193) 2.000 A.P / 2.000 D.C. / Fim da Lila/Trimurti. (2015 d.C.)» (início do fim: 2015 d.C. ✓). A janela «2015–2018» permanece como registro da curadoria 2025 — o mapa crava o marco inicial, não desmente o desdobro; nenhuma discordância a chancelar. Flag encerrada com o achado da TRILHA D (o F036 treatara as datas EC como fora da alçada do mapa — correção averbada no ledger F037/F036).

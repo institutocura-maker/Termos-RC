@@ -33,3 +33,11 @@ L1-CRONO-OUTRA que o classificador puxou por presença de número/data na linha,
 ## Descoberta estrutural do lote
 
 A **Trilha D** do B050 (datas EC) estava fora do raio de todos os cotejos anteriores — F035 e F036 conferiram só as trilhas A/B. Ela reabre como FECHÁVEL um lote de flags EC que a esteira vinha tratando como «sem jurisdição» (a chancela F036 de «inadstrição» fica formalmente corrigida no ledger, e as fichas afetadas recebem a âncora no L1). A l. 87 («Surge Sophia, o primeiro biodemo» — 5 bi a.p.) é âncora nova para RC-009.
+
+## Adenda de execução (05/09/2026) — correções de roster que o censo automático não via
+
+1. **RC-036 l. 33** — o token `[REVISAR]` da linha grafa o nome «'Olga'» (matéria de áudio); a pendência de CRONOLOGIA na linha é a cifra «NOVE MILHÕES» — adjudicada como variante de STT documentada (despacho assinado), com o nome mantido aberto e migrado ao roster L3.
+2. **RC-771 l. 33** — o censo a registrara como «esferas coloridas»; a flag da linha mira «biodemos (últimos 900 milhões)» — ENCERRADO com B057 ll. 753/816 verbatim; as esferas, sem flag, não foram tocadas.
+3. **RC-092 l. 51** — o «silêncio total do B050 sobre Olm» (certidão F036) é impreciso: l. 87 crava «Surge também o Codificador de Zion (6 bilhões a.p.)». A chancela de tensão insolúvel foi aplicada como assinada, com a evidência retificada na nota (corrobora o piso 6 bi; não reconcilia as molduras).
+
+Métrica pós-L1 (régua token): 206 vivas em 140 fichas · 11 adjudicadas (baseline equivalente na abertura: 217).

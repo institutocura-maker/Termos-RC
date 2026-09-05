@@ -463,3 +463,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Nota — reforço cronológico do MUTIRÃO · Lote 1 (05/09/2026 · despacho Q-F037-C)
+
+- **B050 crava Sophia como primeiro biodemo — âncora nova, lavrada a pedido.** Verbatim l. 87: «[ 5,000,000,000 a.p.] (trilha A, y=545) Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)». As demais flags vivas desta ficha (9 no censo) seguem nos lotos próprios; esta nota não encerra nem chancela nada.
