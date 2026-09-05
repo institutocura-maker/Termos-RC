@@ -18,9 +18,11 @@ origem_primaria_presumida = "substrato: apostilas/CONCLUIDAS 2024-11-30 (morus a
 parente_documental = "mesma oficina do F031 (1-EDR); herda e repete os vícios da linhagem: aspas de ênfase sobre paráfrase (2,3% verbatim em aspas longas), cifras coladas de outros referentes, e — NOVO PADRÃO — preenchimento de lacunas «nome ??» de B060 com erudição externa (D-1)"
 
 # Estado do ciclo
-fase = "DEVOLUTIVA"            # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
-altera_base = false            # levantamento/devolutiva NÃO alteram dados_termos.py nem fichas
-status = "aguardando-despacho"
+fase = "APLICACAO"             # LEVANTAMENTO → DEVOLUTIVA → APLICACAO (despacho 05/09/2026)
+altera_base = true             # aplicação assinada: +1 termo fila, +3 relações, 2 fichas, RC-467 renomeado, RC-930 enriquecido, F031 retificado
+data_despacho = "2026-09-05"
+data_aplicacao = "2026-09-05"
+status = "concluido"
 
 # Cotejo executado nesta rodada (2026-09-05, só-leitura)
 [cotejo_primario]
@@ -51,10 +53,23 @@ regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
 
 # Decisões do curador (a registrar)
 [decisoes-curador]
-pendentes = "Q-F032-A…F (ver devolutiva.md §4)"
+resumo = "despacho de 05/09/2026: Q-A homologada · Q-B RC-933 na fila com ponte às irmãs · Q-C todas (aresta Ananque×PIA; Súdices no RC-467; blindagem estrita na RC-454; RC-930 enriquecido) · Q-D retificação do F031 · Q-E ficha+README (alerta «validar toda lista contra B060») · Q-F registro nº 15 + exclusão do bruto"
+[decisoes-curador.itens]
+a = "homologada (F032; caracterização «auditoria-pura»)"
+b = "sim — RC-933 na fila, ficha=False, fontes estritas (P2024-11-30 · P2023-06-25 · P2024-08-03), ponte RC-190/RC-094"
+c = "todas — C-i aresta; C-ii Súdices+truncagem; C-iii blindagem nominal RC-454 + moldura 5-6 bi; C-iv RC-930 += P2024-11-30 + nota assembleias hiperbóreas"
+d = "sim — C-v aplicada no mapeamento/ledger do F031 (19 âncoras «mensagem numa garrafa»)"
+e = "ficha+README — alerta expresso na esteira contra preenchimento de «nome ??»"
+f = "registrar-e-remover — nº 15 emitido; bruto excluído (SHA re-conferido); LISTA SIMPLES preservada"
+
+[aplicacao]
+execucao = "2026-09-05 — só o assinado; nenhuma aspa/cifra/identidade do doc propagada"
+delta = "TERMOS 932→933 · RELACOES 1894→1897 · fichas: RC-454 (blindagem D-1/D-5/D-6/D-7) · RC-467 (título+Súdices, verbatim 2024-11-30, truncagem registrada) · RC-930 fontes+=P2024-11-30 · F031 retificado (C-v) · README da esteira com alerta · espelhos regenerados"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1897 relações; zero órfãs; RC-933 sem .md (fila); STATUS inalterados"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-15.json: 1 removido (10 - Moros – O Livro.txt), cópia byte-idêntica em consolidacoes/F032_moros-livro/fonte.txt"
 
 # Recebimento (política uploads_recepcao)
 [ingresso]
 canal = "uploads_recepcao/10 - Moros – O Livro.txt (upload do curador c3db936 «Add files via upload», 05/09/2026 — empurrado direto na branch do ciclo)"
-bruto_preservado = true        # NÃO removido da caixa — aguarda despacho (Q-F032-F)
+bruto_preservado = false       # REMOVIDO da caixa em 05/09/2026 pela limpeza nº 15 (Q-F assinado) — versão canônica viva: consolidacoes/F032_moros-livro/fonte.txt (SHA idêntico)
 historico_recuperavel = "git show c3db936:uploads_recepcao/10 - Moros – O Livro.txt"

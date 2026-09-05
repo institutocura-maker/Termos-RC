@@ -115,14 +115,18 @@ versionados em `ciclos/*/`, `apostilas/CONCLUIDAS/*/` e `livros/**/`. Resultado:
   (estavam versionados em `uploads_recepcao/`). Registro em
   [`backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json`](../backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json).
 
-**Estado da pasta (atualizado em 05/09/2026 — limpeza nº 14 EXECUTADA):** a caixa voltou ao regime de **entrada bruta**: os quatro brutos da Família F com ciclo concluído foram **removidos** por comando final do curador (Q-F031-G), cada um previamente auditado SHA-a-SHA contra sua cópia versionada.
+## ⚠️ Regras da esteira (Família F — vigentes desde o F032, 05/09/2026)
+
+> **Alerta: docs-síntese preenchem deliberadamente lacunas «nome ??» das fontes primárias com erudição externa. Validar toda lista contra B060.**
+> (precedente F032 D-1: «Amenophis» sobre o sacerdote de Mernephta de B060; «Quirinius» onde o corpus grafa Longino; Ellam Yua/Yup'ik, Jan Huss, Tróia, Krsnavapalyana — todos 0 hits). A regra-mãe segue: nenhum compilador substitui a fonte primária; docs-síntese nunca são âncora de aspa, data, identidade ou STATUS.
+
+**Estado da pasta (atualizado em 05/09/2026 — limpezas nº 14 e nº 15 EXECUTADAS):** a caixa voltou ao regime de **entrada bruta**: os quatro brutos da Família F com ciclo concluído foram **removidos** por comando final do curador (Q-F031-G), cada um previamente auditado SHA-a-SHA contra sua cópia versionada.
 
 | Arquivo | Situação |
 |---|---|
-| `10 - Moros – O Livro.txt` | recebido (upload c3db936, 05/09/2026) e aberto o ciclo **F032** em `consolidacoes/F032_moros-livro/` (levantamento+devolutiva 05/09/2026; SHA `ea856120…` conferido `cmp`-limpo; compilação de IA sobre material JÁ processado — apostila 2024-11-30 + B060; auditoria: 40/63 alegações já codificadas; risco novo D-1 = avatares inventados sobre os «nome ??» de B060; **aguarda despacho Q-F032-A…F**) |
 | `LISTA SIMPLES DE TERMOS CHAVE DA RC.txt` | **permanece na caixa** — auditoria de cobertura em `VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md`, mas **sem cópia byte a byte versionada**: não-apta à remoção sob a política vigente |
 
-**Brutos removidos no registro nº 14** (cópias canônicas vivem em `consolidacoes/*/fonte.txt`; histórico byte-a-byte recuperável no git — p.ex. `git show d8bb396:"uploads_recepcao/22-GLOSSÁRIO.txt"`):
+**Brutos removidos nos registros nº 14–15** (cópias canônicas vivem em `consolidacoes/*/fonte.txt`; histórico byte-a-byte recuperável no git — p.ex. `git show d8bb396:"uploads_recepcao/22-GLOSSÁRIO.txt"`):
 
 | Bruto removido | Ciclo | Cópia canônica |
 |---|---|---|
@@ -130,6 +134,7 @@ versionados em `ciclos/*/`, `apostilas/CONCLUIDAS/*/` e `livros/**/`. Resultado:
 | `29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt` | **F029** (concluído) | `consolidacoes/29-PERSONAGENS/fonte.txt` · SHA `e8274acc…` |
 | `Colégio Druídico — Estudo Continuad.txt` | **F030** (CONCLUÍDO 05/09/2026 — aplicação: RC-032 Benem arestado via B018; fichas RC-398/RC-068/RC-403/RC-437 ampliadas) | `consolidacoes/F030_colegio-druidico/fonte.txt` · SHA `36b35d46…` |
 | `1-EDR-O Livro.txt` | **F031** (CONCLUÍDO 05/09/2026 — aplicação do despacho Q-F031-A…G: RC-930/931/932 na fila, 7 arestas, bloco QUATRO MÉTODOS na ficha RC-755, blindagem D-1 em RC-142/RC-074) | `consolidacoes/F031_edr-livro/fonte.txt` · SHA `d629befd…` |
+| `10 - Moros – O Livro.txt` | **F032** (CONCLUÍDO 05/09/2026 — auditoria-pura da Rede Moros; aplicação: RC-933 «Revelação Psíquica (Kapila — Samkhya)» na fila, aresta RC-777→RC-716, Súdices no RC-467, blindagem de identidades na RC-454, RC-930 += P2024-11-30, retificação do ledger F031; **removido no registro nº 15**) | `consolidacoes/F032_moros-livro/fonte.txt` · SHA `ea856120…` |
 
 - **Limpeza nº 13 PREPARATORADA (despacho F030/Q-F030-F, 05/09/2026):** auditoria SHA-a-SHA da Família F em [`backups/REGISTRO-LIMPEZA-2026-09-05-13.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-13.json) — nenhum arquivo removido na época; 3 aptos + 1 não-apto.
-- **Limpeza nº 14 EXECUTADA (despacho F031/Q-F031-G, 05/09/2026):** [`backups/REGISTRO-LIMPEZA-2026-09-05-14.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-14.json) — SHA-256 re-conferido imediatamente antes do `rm`; **4 removidos · 0 divergências**; `LISTA SIMPLES` preservada. A política segue: **nenhum bruto sai daqui sem cópia versionada byte-idêntica + comando final do curador.** Se o Q-F032-F for assinado com exclusão, emito o **registro nº 15** (F032 = 1º apto da nova leva) e removo o bruto na mesma aplicação.
+- **Limpeza nº 14 EXECUTADA (despacho F031/Q-F031-G, 05/09/2026):** [`backups/REGISTRO-LIMPEZA-2026-09-05-14.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-14.json) — SHA-256 re-conferido imediatamente antes do `rm`; **4 removidos · 0 divergências**; `LISTA SIMPLES` preservada. A política segue: **nenhum bruto sai daqui sem cópia versionada byte-idêntica + comando final do curador.** Executada em 05/09/2026 pelo Q-F032-F (registro nº 15: 1 removido, SHA re-conferido byte a byte antes do `rm`).

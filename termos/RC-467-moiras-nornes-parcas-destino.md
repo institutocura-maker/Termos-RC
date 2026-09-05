@@ -1,11 +1,11 @@
-# Moiras / Nornes / Parcas (destino) — RC-467
+# Moiras / Nornes / Súdices / Parcas (destino) — RC-467
 
 | Campo | Valor |
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.8 Consciências coletivas / Logos |
 | **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-28 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 
@@ -108,6 +108,7 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+| apostila 2024-11-30 (= aula P2024-11-30) | Morus/Moros — arquivos do destino universal, seções 4.x | apostila CONCLUIDA | bloco Súdices/25% (F032 C-ii) |
 | P2022-10-01 | A Wyrd e a Espiritualidade (palestra) | — | transcrição automatizada; citação |
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 | P2024-06-16 | O Projeto TALM, os Fenvans e os Humanos (palestra) | — | transcrição automatizada; citação |
@@ -142,3 +143,8 @@ Quarentena mitológica — leitura do autor.
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Súdices — F032 aplicação (05/09/2026, C-ii)
+
+- **[P2024-11-30 · A TERCEIRA DENOMINAÇÃO, NA FONTE]** «Moros pegou 25% das informações vivas da sua inteligência, criou um ser. 25% criou outro, 25% criou outro e ficou com ele só com 25%. Esses três seres na mitologia grega são chamados de moiras. Na mitologia nórdica são chamadas de nornas ou nornes. Na mitologia são chamado de Súdices.» — a tríade de nomes entra no lema e na ficha; **a própria fonte trunca o idioma** («Na mitologia são chamado de…» — o qualificador caiu no STT): o «sânscrita» que o doc F032 completou **não é adotado como fato**, registrado apenas como leitura provável do compilador (ledger D-10). O mecanismo do 25%×4 (três seres + as três cápsulas/setas retidas) nasce da mesma sentença — ver RC-454, RC-611, RC-658.
+- **[P2024-11-30 · FUNÇÃO]** as três «recebem parte do conhecimento de Orlog» (passado/presente/futuro pendente) — consistente com a seção Urd/Verdandi/Skuld acima.

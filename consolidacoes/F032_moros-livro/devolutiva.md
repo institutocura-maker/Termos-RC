@@ -1,10 +1,18 @@
 # Devolutiva — F032 «10 - Moros – O Livro»
 
-**Data:** 05/09/2026 · **Fase:** LEVANTAMENTO → DEVOLUTIVA (nada altera a base até despacho — padrão da esteira)
+**Data:** 05/09/2026 · **Fase:** LEVANTAMENTO → DEVOLUTIVA → **APLICACAO (despacho do curador executado em 05/09/2026 — mesmo dia; ver §0 e `DECISAO-DO-CURADOR.md`)**
 **Bruto:** `uploads_recepcao/10 - Moros – O Livro.txt` · 144.990 B · 581 linhas · SHA-256 `ea8561204fa393f4…5c7e0ea2` · cópia `consolidacoes/F032_moros-livro/fonte.txt` byte-idêntica (`cmp` limpo)
 **Companheiros deste ciclo:** [`mapeamento.md`](mapeamento.md) (63 itens) · [`divergencias.md`](divergencias.md) (D-1…D-13)
 
 ---
+
+---
+
+## 0. Despacho e aplicação (05/09/2026)
+
+**Q-A** ✅ — sigla e caracterização «auditoria-pura» homologadas; o despacho consagra a leitura: *F032 é espelho retrovisor da Rede Moros; risco crítico é importar identidades fabricadas (D-1); nenhum compilador substitui a fonte primária*. **Q-B** Sim — **RC-933 «Revelação Psíquica (Kapila — escola Samkhya)»** materializado na fila (`ficha=False`; fontes estritas P2024-11-30 · P2023-06-25 · P2024-08-03) com ponte de arestas para as irmãs RC-190/RC-094. **Q-C** todas — C-i `RC-777→relaciona-se-a→RC-716` cravada; C-ii RC-467 renomeado com «Súdices» + registro da truncagem de idioma; C-iii **blindagem estrita na RC-454** (veto nominal dos 6 acréscimos + moldura «5-6 bi depois da criação» verbatim); C-iv RC-930 += P2024-11-30 + nota assembleias hiperbóreas. **Q-D** Sim — retificação C-v aplicada ao ledger e mapeamento do F031 (19 âncoras). **Q-E** ficha+README — alerta gravado no README da esteira, com o texto exigido: *«docs-síntese preenchem deliberadamente lacunas «nome ??» das fontes primárias com erudição externa. Validar toda lista contra B060.»* **Q-F** registrar-e-remover — registro nº 15 emitido (5º apto da Família F) e bruto excluído após re-conferência SHA byte a byte.
+
+**Δ aplicado (medido):** TERMOS 932→**933** · RELACOES 1894→**1897** (+2 ponte Q-B, +1 C-i) · fichas tocadas: **2** (RC-454 blindagem · RC-467 Súdices) · cadastro: RC-467 renomeado, RC-930 +fonte, 4 related espelhadas · F031 corrigido (C-v) · README da esteira atualizado (Q-E) · espelhos regenerados · **nenhum STATUS alterado; nenhuma aspa/cifra/identidade do doc propagada**; ledger D-1…D-13 todos fechados. Ciclo **CONCLUÍDO** em `fase=APLICACAO`.
 
 ## 1. O que é o documento (e por que este ciclo é diferente)
 
@@ -46,4 +54,4 @@
 
 **Contadores do ciclo (medidos):** 63 itens mapeados (40✓ + 5✓-nota + 9⚠ + 2⊘ + 4⬚ + 3◇) · 718 aspas curtas (33 verbatim) / 488 longas (11 verbatim) · 1 gap com âncora (G1) · 4 arestas/enriquecimentos + 1 retificação (C-i…C-v) · ledger D-1…D-13 (1 fechada-registro, 12 não-propagadas/abertas p/ despacho) · Δ na base: **0** (levantamento) · fontes cotejadas: 162 `original.txt` completos + fichas RC-454/467/609/611/658/716/718/777/080/064/665/671/081/282/930.
 
-**Próximo passo:** despacho Q-F032-A…F; aprovados B/C, o ciclo transita para `fase=APLICACAO` e executa **só o assinado** — aqui, mais do que nunca, a aplicação é transcrição de âncoras já conferidas.
+**Próximo passo:** nenhum — ciclo CONCLUÍDO. Reabridores futuros registrados: volumes «2-/3-» da série EDR (regra Q-F031) e a guerra Saibaba×Cristo da aula 2024-11-30, que casa no ciclo da linhagem Sai (D-11).

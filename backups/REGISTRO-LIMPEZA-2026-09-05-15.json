@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-05",
+  "numero": 15,
+  "tipo": "EXECUÇÃO — EXCLUSÃO FÍSICA AUTORIZADA (despacho F032/Q-F032-F, 05/09/2026: «Registrar-e-remover. Emita o Registro nº 15 declarando F032 como o 5º arquivo apto e execute o comando de exclusão do bruto»)",
+  "contexto": "Família F: caixa retornada ao regime de entrada bruta após a limpeza nº 14; F032 é o primeiro ciclo da nova leva e o 5º apto da contagem Família F (F022/F029/F030/F031 já removidos no nº 14)",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte), re-conferida imediatamente antes do rm — política uploads_recepcao/README.md",
+  "arquivos": [
+    {
+      "arquivo": "10 - Moros – O Livro.txt",
+      "sha256": "ea8561204fa393f4abdde933a1132586d84c831791703ac63b56fe475c7e0ea2",
+      "bytes": 144990,
+      "nota_ciclo": "F032 — levantamento+devolutiva+aplicação 05/09/2026 (despacho Q-A…F: RC-933 na fila, aresta Ananque×PIA, Súdices no RC-467, blindagem RC-454, RC-930 += P2024-11-30, retificação do ledger F031; alertas D-1/D-2 cravados no README da esteira)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F032_moros-livro/fonte.txt",
+          "sha256": "ea8561204fa393f4abdde933a1132586d84c831791703ac63b56fe475c7e0ea2",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 1,
+  "aptos_para_ordem_de_remocao": 1,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt permanece na caixa — sem cópia byte a byte versionada; não-apta (estado inalterado desde o registro nº 13)."
+}

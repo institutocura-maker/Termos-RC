@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.8 Consciências coletivas / Logos |
 | **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 **Elm** é, segundo o material de apoio de aluno de Ellam (B060), um **ser LM de Tempérion**, um dos **5 eons da Espiritualidade Laboratorial** — equivalente grego **Moros** (personificação do destino/sorte). É descrito como um eon cujos **avatares** incluem **Val El (Jan Val Ellam)**, **Kardec** (codificador do Espiritismo), **Heber** (patriarca bíblico), **Kvasir** (nórdico), Enoch, Jacó, Kapila, Boécio e Vyasa, entre outros. (Fonte secundária — a confirmar nas obras primárias de Ellam.)
@@ -282,3 +282,8 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Blindagem — F032 aplicação (05/09/2026): a lista preside de B060; identidades do compilador ficam de fora
+
+- **Regra para listas de nomes/avatares deste verbete: preside B060** (p. 4, verbete «# moros», reproduzido acima na íntegra, com os «nome ??» originais preservados). O doc F032 («10 - Moros – O Livro», compilação de IA sobre B060 + apostila P2024-11-30) acrescentou à lista seis identidades **sem nenhuma ocorrência no corpus**: «Amenophis (sacerdote em Tebas)» — B060 grafa «sacerdote do faraó **Mernephta** (nome ??)», faraós distintos; «Quirinius Cornélius, centurião da crucificação» — o corpus nomeia o centurião **Longino** (2020-07-04; 2022-12-17), «Quirinius» 0 hits; «Jan Huss»; «Cidade de Tróia»; «Krsnavapalyana (Vyasa)»; «Ellam Yua (mitologia Yup'ik)» — erudição externa, 0 hits. **Nenhum deles entra** (ledger F032 D-1). O mesmo vale para a lista egípcia dos oito nomes «Nun…Qerhet», que B060 só traz distribuída em aliases de outros verbetes (D-2).
+- **Antiguidade, COM a moldura da fonte** (apostila 2024-11-30 / aula P2024-11-30, verbatim): «isso é no tempo em que eles viveram a 5, 6 bilhões de anos **depois da criação do universo**, ou seja, indo de trás para frente para uns 8 bilhões de anos atrás» — «5–6 bilhões» é contagem **a partir do marco zero da criação**, não idade «há 5–6 bi atrás»; o doc suprimiu a moldura (D-6). Cifras que o doc anexou a Moros sem âncora — «Wyrd engendrada há 9 bilhões» (o «nove bilhões» de B016 é da entropia pós-início) e «Trimúrti faliu há 7 bilhões» (na apostila, 7–8 bi é o período em que a vida existiu só no universo vizinho) — **não pertencem à Base** (D-5/D-7).
