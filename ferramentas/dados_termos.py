@@ -162,7 +162,7 @@ TERMOS = [
     ("RC-078", "Lúcifer (Yel Luzbel)", SER_DEC[0], SER_DEC[1], 'verificado', ['B031', 'B017', 'B018', 'B039', 'B015', 'B003', 'B025', 'B026', 'B057', 'B058', 'B060', 'B061', 'P2022-12-17', 'P2024-03-03', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', "P2018-12-16", "P2023-08-27"], "RC-142; RC-002; RC-070; RC-020; RC-007", True),
     ("RC-079", "Mastlans Phisosferas / Luciferianas", TEC_NAV[0], TEC_NAV[1], P, ['B031', 'B061', 'P2022-12-17'], "RC-017; RC-028; RC-046; RC-002", False),
     ("RC-080", "Mensagem Talm", TEC_ESC[0], TEC_ESC[1], 'em análise', ["B031", "B017", "P2023-05-13", "P2021-01-30", "P2024-06-16", "P2026-03-21", "P2021-02-28"], "RC-064; RC-141; RC-091; RC-089; RC-078; RC-761", True),
-    ("RC-081", "Mohen So (Avatar Keshava de Vishnu)", SER_EXT[0], SER_EXT[1], 'em análise', ['B031', 'B017', 'B014', 'B061', 'P2026-04-02', 'P2025-10-25', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2023-12-02', 'P2023-06-25', 'P2023-12-03', "P2021-01-30"], 'RC-135; RC-009; RC-073; RC-091; RC-040; RC-454; RC-282', True),
+    ("RC-081", "Mohen So (Avatar Keshava de Vishnu)", SER_EXT[0], SER_EXT[1], 'em análise', ['B031', 'B017', 'B014', 'B061', 'P2026-04-02', 'P2025-10-25', 'P2025-08-03', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2023-12-02', 'P2023-06-25', 'P2023-12-03', "P2021-01-30"], 'RC-135; RC-009; RC-073; RC-091; RC-040; RC-454; RC-282', True),
     ("RC-082", "Nephilins", SER_EXT[0], SER_EXT[1], P, ["B031", "B017", "B018", "B023"], "RC-024; RC-096; RC-134", False),
     ("RC-083", "Norte Divino", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-068; RC-120", False),
     ("RC-084", "Orbe", COS_DIM[0], COS_DIM[1], P, ['B031', 'P2024-11-09'], 'RC-107; RC-100; RC-726', False),
@@ -1934,6 +1934,7 @@ RELACOES = [
     ("RC-081", "vinculado-ao-espírito", "RC-454", "P2026-04-02"),
     ("RC-081", "é-um", "RC-135", "P2026-04-02"),
     ("RC-081", "é-um", "RC-073", "P2026-04-02"),
+    ("RC-081", "gera", "RC-064", "P2025-08-02"),            # F033 Q-C: «Mohen So, em sua atuação no Projeto TALM, produziu esses fenvans» (apostila, l.271)
     ("RC-643", "relaciona-se-a", "RC-217", "P2026-04-02"),
     ("RC-643", "relaciona-se-a", "RC-619", "P2026-04-02"),
     ("RC-643", "relaciona-se-a", "RC-514", "P2026-04-02"),

@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 Mohen So é Avatar Keshava de Vishnu, identificado nas correspondências RC como Phanes/Protogonos e vinculado ao espírito de Elm/Moros.
@@ -103,3 +103,8 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - **[Morren So — idealizador do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — a função de Morren So como progenitor/orquestrador.
 - **[Morren So — o manual de Moros] (U0015)** «quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte» — a medição da podridão do corpo de Javé; ver RC-454 e RC-716.
 
+## Ampliação — F033 aplicação (05/09/2026): a desconstituição e as quatro cabeças
+
+- **[P2025-08-03 · DOSSIE Fenvans, verbete Mohen So]** «Possuía "menos lacres" em sua genética, dando-lhe senso crítico superior. Desconstituiu-se em 2017 para "fortalecer" Sophia.» — ano e verbo da fonte; a extensão que o doc F033 fez ao próprio Vishnu (2016) só existe no corpus via a falência da Trimúrti «entre 2015 e 2017» (P2024-05-04) — a ficha grava o que ancora.
+- **[P2024-11-30 · apostila, l.194]** Caos: «Eu concordo, desde que a gente crie um ser com quatro cabeças: uma, você, Eros; outra, você, Tártara; e a outra, para ser sem lacre. Mas tem que ser no mesmo corpo, porque, se ele tiver a besta [solta], nós três a gente ataca e mata.» + (l.200) «Foi assim que surgiu um ser chamado Moron [STT — Phanes/Protogonos]. Moron surgiu com a somatória da genética dos três, mas sem lacres, sem travas.» — a cabeça «sem lacre» (a livre) é a razão de Mohen So. A reformulação do doc («uma livre e cada uma das três outras obedecia a um dos Senhores») fica de fora: vale a formulação da apostila (ledger F033 D-4).
+- Fontes: **P2025-08-03** acrescentada ao cadastro; o alíás «Moron» está espelhado na ficha RC-282.

@@ -2,9 +2,9 @@
 id = "F033"
 titulo = "Mohen So – O Livro"
 recebido = "2026-09-05 (commit do curador ddcf3e4 na branch arena/01a071c8-termos-rc)"
-fase = "DEVOLUTIVA"
-status = "aguardando_despacho"
-altera_base = false
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
 
 [fonte]
 arquivo = "uploads_recepcao/11 - Mohen So – O Livro.txt"
@@ -36,3 +36,10 @@ f = "TOML validado por tomllib ANTES da gravacao em disco — licao da aplicaç�
 termos = 933
 relacoes = 1897
 validacao = "OK (python3 ferramentas/dados_termos.py) — inalterada nesta fase"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F033-A…F aplicado na íntegra; nenhum além do assinado; nenhuma aspa do doc propagada"
+delta = "TERMOS 933 (inalterado) · RELACOES 1897→1898 (+1: RC-081 -gera-> RC-064, P2025-08-02) · fichas: RC-081 (2017/fortalecer + quatro cabeças pela apostila) · RC-092 (Ohm ou Olm + Holos [fecha F031-G7] + pílula vermelha) · RC-154 (nidana→saccidanandhagana) · RC-454 (tese de Morus, B014) · RC-535 (Manifesto p.166–174) · RC-282 (alíás Moron) · RC-081 fontes += P2025-08-03"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relações; zero órfãs novas; STATUS inalterados; espelhos regenerados"
+ledger = "Q-D: 6 averbadas · 0 abertas · 7 resolvidas de ofício; sem blindagens"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-16.json: 1 removido (11 - Mohen So – O Livro.txt), cópia byte-idêntica em consolidacoes/F033_mohen-so-livro/fonte.txt"

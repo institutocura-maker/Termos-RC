@@ -2,7 +2,7 @@
 
 > Convenção: itens **Abertos** aguardam despacho do curador; «baixo» = não contamina a base se nada for feito (nada entrou).
 
-## Abertos
+## Averbadas por despacho (Q-F033-D, 05/09/2026) — registro neste ledger; sem blindagem de fichas
 
 - **D-1 (baixo · método)** Estilete de scare-quotes: 727 pares de aspas, apenas 12/400 (3%) citações verbatim. O documento NÃO é fonte de transcrição; é fonte de ROTEIRO de notas (âncora P###/B### manda). Reafirma a regra do F032: «nenhum compilador substitui a fonte primária». — *Nenhuma aspa do doc entra na base.*
 - **D-2 (baixo)** *«Javé chegou a se apresentar a Moisés como "aquele que é", referindo-se à "eternidade" dos 13,7 bilhões de anos… período durante o qual ele se fez e aparenta ser»* — a cifra 13,7 bi + eternidade ancoram (B001); a frase «se fez e aparenta ser» não ancora em lugar nenhum (0 hits) e a costura Moisés↔13,7bi é do compilador. Se um dia quiser âncora, reescrever desde B001/P2024-05-04.
@@ -21,4 +21,4 @@
 - **R-6** 3,8 bi com fronteira `(^|[^,0-9])` — âncora confirmada sem artefato de «13,8» (lição F031/F032 C-v aplicada).
 - **R-7** «[42 Note 3, 13 Note 4]» — resíduo de apparatus de notas dos original.txt (P2020-07-11), não alucinação; documenta que o compilador operou sobre manuscritos.
 
-**Estado: 0 fechadas por despacho · 6 abertas · 7 resolvidas de ofício.**
+**Estado final (F033 CONCLUÍDO): 6 averbadas por despacho · 0 abertas · 7 resolvidas de ofício. Nenhuma aspa/cifra do doc entrou na base; as fichas Q-B grafam pelas âncoras.**

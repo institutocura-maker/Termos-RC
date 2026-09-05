@@ -5,7 +5,7 @@
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-31 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 
@@ -55,3 +55,6 @@ Com isso:
 | Projeto Talm | RC-091 | aresta pré-existente; arquivo existe |
 | Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | aresta pré-existente; arquivo existe |
 | Evolução da Informação, não das Espécies | RC-693 | **sem aresta** em `RELACOES`; arquivo existe |
+## Nota — o objetivo do Projeto Talm — F033 aplicação (05/09/2026)
+
+- **[P2025-08-02 · apostila, l.55; repetição l.112/l.135]** «O objetivo final do "Projeto Talm" é a transformação do antigo "nidana" em "saccidanandhagana" – uma "equipe de agentes da vida, conscientes e perceptivos, que obtiveram a bem-aventurança, o êxtase ou o regozijo". Isso, contudo, só será plenamente alcançado quando o "problema da podridão de Brahma" for resolvido.» — o termo corre o corpus (225 ocorrências) e faltava a esta ficha; a aresta RC-154→produzido-por→RC-091 já existia em `RELACOES`.
