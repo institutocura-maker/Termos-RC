@@ -2,9 +2,9 @@
 id = "F035"
 titulo = "Fornos Replicadores-Refatorado"
 recebido = "2026-09-05 (commit do curador 5ed4e37 na branch arena/01a071c8-termos-rc · bruto uploads_recepcao/13)"
-fase = "DEVOLUTIVA"
-status = "aguardando_despacho"
-altera_base = false
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
 
 [fonte]
 arquivo = "uploads_recepcao/13 - Fornos Replicadores-Refatorado.txt"
@@ -36,3 +36,10 @@ f = "TOML validado por tomllib ANTES da gravacao; chaves ASCII"
 termos = 933
 relacoes = 1898
 validacao = "OK (python3 ferramentas/dados_termos.py) — inalterada nesta fase"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F035-A…F aplicado na íntegra; nada além do assinado; base inviolada exceto as duas notas de ficha"
+delta = "TERMOS 933 (inalterado) · RELACOES 1898 (inalterado) · fichas: RC-102 (nota B050 ll. 67/69 + [REVISAR] encerrado na l. 30) e RC-408 (Eros + Terceiro Logos + período 9,7–9,5 bi a.p.)"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relacoes; zero orfas novas; STATUS inalterados; espelhos consolidados (indice-mestre · xlsx · docx)"
+ledger = "Q-D/Q-E: apenas averbações (supressão Talm=Nidana mantida; grafia Awayem não canonicizada); F035 encerrado com 0 abertas · 5 averbações"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-18.json: 1 removido (13 - Fornos Replicadores-Refatorado.txt) após conferência tripla do SHA; cópia canônica em consolidacoes/F035_fornos-replicadores-refatorado/fonte.txt"

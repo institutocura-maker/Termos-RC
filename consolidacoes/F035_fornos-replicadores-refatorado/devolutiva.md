@@ -3,6 +3,10 @@
 Documento: «Fornos Replicadores-Refatorado» · SHA-256 `f1c9926ce023cd9ac77b7cea111fa6b4afd50cd907d97b08971ec8e02e823b06` · 25.845 B · 104 linhas · cópia canônica `consolidacoes/F035_fornos-replicadores-refatorado/fonte.txt` (byte-idêntica ao bruto nº 13).
 Base **NÃO tocada nesta fase** (933 termos · 1898 relações · validação OK).
 
+## §0 · Despacho do curador (05/09/2026) — APLICAÇÃO EXECUTADA
+
+> Q-F035-A ✅ homologado (documento-fonte da série refatorada; ciclo de VERIFICAÇÃO; saldo doutrinário zero) · Q-B ✅ **a joia do ciclo**: nota de fechamento na RC-102 com B050 ll. 67/69 verbatim — [REVISAR] oficialmente encerrado (linha do corte corrigida de 68 para 69 na execução) · Q-C ✅ nota no RC-408 (Eros · Terceiro Logos · período 9,7–9,5 bi a.p.) · Q-D manter a supressão «Talm=Nidana» · Q-E averbado (B083 segue anunciada) · Q-F ✅ Registro nº 18 + conferência tripla + remoção do bruto 13. «Realize os preenchimentos nas duas fichas indicadas e consolide o espelho, preservando a inviolabilidade do restante da base.» — **nenhum outro movimento: ciclo CONCLUÍDO.**
+
 ## Balanço da investigação
 
 **O documento não é espelho de terceiro grau (F034) — é o próprio material-fonte do cluster P2025-08-01**: 63/63 linhas (100%) verbatim contra o `original.txt` daquela apostila, o qual é byte-derivado deste texto; a `apostila.md` curada cobre 61/63 — as 2 omissões são a equação «Projeto Talm (ou Nidana, em sânscrito)» e um parágrafo-resumo condensado, ambas decisões editoriais de 2025 que a repassada reconfirmou como corretas. O ART-2025-08-01 já havia lavrado o pacote completo (nó RC-771 «baseado estritamente» neste material + RC-772…777 + B083 + ampliações RC-102/091/092/154/499).

@@ -31,3 +31,13 @@ Todo o conteúdo evocado já tem sede em fichas físicas: RC-771 (nó), RC-772/7
 ## Encerramento (aguarda despacho — Q-A…Q-F na devolutiva)
 
 Proposta de saldo: **0 termos · 0 relações · 1 ficha tocada (RC-102, nota V-1) · ledger com 5 averbações**. Se o despacho negar Q-B, o ciclo encerra com Δ zero — primeira dupla-zero da série.
+
+## Encerramento por despacho (Q-F035-A…F, 05/09/2026)
+
+- **Q-A** homologado: *documento-fonte da série refatorada · ciclo de VERIFICAÇÃO · saldo doutrinário zero*.
+- **Q-B EXECUTADO** — nota de fechamento aplicada em `termos/RC-102-shiva-savna.md` (fim da ficha), com B050 l. 67 (mergulho ~12,17 bi a.p.) e l. 69 (corte da cabeça, 11,6 bi a.p.) verbatim; a flag da l. 30 recebeu o marcador «ENCERRADO 05/09/2026, repassada F035». Correção de execução lavrada na própria nota: o corte está na **l. 69** (a proposta citava 67/68; l. 68 = «Anjo clone "especial" de Javé engendrado (12 bi a.p.)», averbada como contexto corroborante).
+- **Q-C EXECUTADO** — nota aplicada em `termos/RC-408-…md`: Eros (DOSSIE-UTILIDADE l. 50), Terceiro Logos (P2019-08-25 l. 86) e período B050 «9,7 a 9,5 bi a.p.» (ll. 50/76), com a demonstração de compatibilidade V-2 (13,8 − 4,1 ≈ 9,7).
+- **Q-D MANTIDA a supressão**: «Talm (ou Nidana, em sânscrito)» não entra em RC-154/RC-091; a curadoria de 2025 confirmada.
+- **Q-E AVERBADO**: grafia «Awayem» atestada no texto-fonte; B083 segue obra anunciada com a nota de grafia vigente; nada canonicizado.
+- **Q-F EXECUTADO**: Registro nº 18 + conferência tripla do SHA `f1c9926c…` + remoção do bruto 13 + linha F035 no README da caixa.
+- **Ledger F035 encerrado: 0 D · 5 averbações (V-1…V-5) · 2 fichas tocadas (RC-102, RC-408) · 0 termos · 0 relações.** Espelhos consolidados (indice-mestre · xlsx · docx) com as duas notas.
