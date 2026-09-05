@@ -5,7 +5,9 @@
 - MÉTRICA OFICIAL do mutirão (régua token-a-token, sem seta, fora de backticks/meta): 206 vivas em 140 fichas ao fim do L1 (baseline equivalente na abertura: 217; 11 adjudicadas). Contagem-linha do censo (283) aposentada (inflava com meta-menções nas notas).
 - TL-01 ABERTO e em despacho (`0d30fc3`): LISTA SIMPLES canonizada (SHA 7166a7b6…, cmp OK); 195 itens: 181 slug + 13 par textual + 2 órfãos (Klippoth/Shevirah) ANCORADOS em B002 ll. 8223–8227; GRAU G1 (sem quarentena/sem escala); relatório em consolidacoes/TL01_lista-simples-rc/propõe despacho de 1 linha + opção F038-Cabala-ou-adiamento p/ as ~20 lacunas da VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md (auditoria prévia do curador, na raiz do repo — lê-la antes de F038).
 - Base 933/1898 validada OK; espelhos pós-L1 reconstruídos (indice-mestre 933 · xlsx · docx).
-- AGUARDAM: despacho TL-01 (1 linha) e ordem de abertura do Lote 2 (Grafia & Taxonomia, ~21 flags).
+- TL-01 ENCERRADO (ca758a2): G1 arquivado, Registro nº 20, LISTA SIMPLES removida (tripla conferência 7166a7b6…), CAIXA VAZIA; lacunas ~20 congeladas (ii-adiado) por ordem expressa — «nenhum código novo/ ciclo de expansão até a dívida interna extinguir».
+- F038 (L2 Grafia&Taxonomia) EM DEVOLUTIVA (roster 17 reais: 10 FECHAR com provas contadas, 6 CHANCELAR em 4 casos, 1 AGUARDA-DECISÃO ISAR≈ISHTAR com D1/D2 prontas, Braba→L4; sanção pedida: estado «FONTE AUSENTE DA ARCA»). Projeção pós-lote: 206→189.
+- AGUARDAM: despacho Q-F038-A…E. Lote 3 (STT 111 flags) planejado em bloco com chancelas AGUARDA-ÁUDIO padronizadas por sub-roster temático.
 
 ## Operacional p/ Lote 2 (quando vier a ordem)
 - Roster L2: censo em consolidacoes/F037_mutirao-revisar-lote-1/inventario-flags.csv (coluna lote=L2) + recontar tokens vivos por ficha; grafia de palestra NÃO se corrige — chancela de variante; STT de nome «Olga» (RC-036) e «Atziluth»? verificar migração L3↔L2 por linha.
