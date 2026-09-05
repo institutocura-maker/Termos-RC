@@ -1,0 +1,56 @@
+# ciclo.toml — consolidacao F031 · «1-EDR-O Livro» (Dossiê: A Escola da Decifração)
+# ──────────────────────────────────────────────────────────────────────────────
+# Tipo: CONSOLIDAÇÃO (refatorado de terceiros — série "Família F", após F022/F029/F030).
+
+sigla_fonte = "F031"
+titulo = "1-EDR-O Livro — Dossiê: A Escola da Decifração - Da Gênese em Zian ao Colégio Druídico e a Consciência Adulta"
+arquivo_fonte = "fonte.txt"
+sha256_fonte = "d629befd690156685845efd51cec4b5e0eaa024e8470c19a93c05a2b198a2008"
+bytes_fonte = 93149
+linhas_fonte = 305
+data_levantamento = "2026-09-05"
+branch = "arena/01a071c8-termos-rc"
+
+# Caracterização
+natureza = "Livro-síntese em prosa compilado por IA a partir de excertos do acervo RC (o texto auto-confessa «os excertos fornecidos»): índice + preácio + 5 capítulos + conclusão + linha do tempo + elenco + dossiê de briefing (3 recaps redundantes). Tema = continuação direta do F030: a EDR (Escola da Decifração da Realidade) na cadeia Zian → Hiperbóreo → Colégio Druídico → IEEA/Mentalma. Documento autocontido (sem [TEXTO INCOMPLETO], sem slides/imagens)."
+origem_primaria_presumida = "substrato verbatim-identificado: ciclos/P2025-06-14 + P2025-06-14b (espinha dorsal; em si já versão refatorada homologada — RELATORIO-CICLO-LEVE §0), apostilas/CONCLUIDAS 2024-02-03 · 2024-11-03 · 2023-04-01b · 2024-05-04 · 2025-08-02 · 2025-08-03 · 2023-05-13 · 2025-02-16 · 2025-03-15 · 2023-11-19 · 2024-11-30, livros B016 · B014 · B019 · B031 · B041 · B044 · B058 · B074 · B075 e falas P2017-10-14 · P2020-04-25 · P2021-05-15 · P2022-03-26 · P2023-12-03 · P2024-03-17 · P2022-09-17 · P2024-11-03 · P2021-06-26 · P2024-02-04 · P2022-09-25"
+parente_documental = "linhagem F (F022 glossário · F029 personagens · F030 colégio druídico — o mesmo compilador/linhagem de slides: herda 'legado de Bohr', 'Técnica Mental Druuid', 'ser o que quiser desde que se eduque', '9 mil anos')"
+
+# Estado do ciclo
+fase = "DEVOLUTIVA"            # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
+altera_base = false            # levantamento/devolutiva NÃO alteram dados_termos.py nem fichas
+status = "aguardando-despacho"
+
+# Cotejo executado nesta rodada (2026-09-05, só-leitura)
+[cotejo_primario]
+metodo = "varredura completa dos 162 original.txt do acervo (ciclos+apostilas+livros) com normalização case/acento/nbsp; 373 aspas únicas do doc testadas uma a uma; varredura de NOMES contra os 929 códigos de dados_termos.py (lição RC-032 do F030 aplicada antes de propor qualquer código)"
+resultados = [
+  "Fidelidade: 140/373 aspas verbatim no acervo; 233 paráfrases entre aspas (D-5), incl. emendas sobre aspas reais («discernir o erro, perceber a verdade e decifrá-la» ← P2024-02-04 sem o final; «distorções cognitivas» ← 2024-11-03 «TRANSTORNO COGNITIVO»)",
+  "ERRO-GRAVE D-1: doc funde Yel Luzbel (=Lúcifer, família Yel) com Len Mion (=Satã, família Mion/Tau Ceti) — a própria fonte-mãe P2025-06-14 separa as duas figuras; cadastro RC-142/RC-078 × RC-074 resiste",
+  "D-2: «legado de Bohr» (herança do F030/slides) — única ocorrência de Bohr no acervo = Niels Bohr/física quântica em B044; nada codificável",
+  "D-3: fundação do Colégio «há 9 mil anos» ×3 + LT: zero âncora nos 162 arquivos (varridos 9 mil/nove mil/nove milênios)",
+  "D-4: doc usa 13,7 bi para o colapso E 13,8 bi para a capacidade humana — a base distingue os dois números com sentidos próprios (P2025-06-14 × B014)",
+  "Convergências positivas registradas: tríptico 4 mi ✓ · 19 planetas c/ breakdown omitido ✓ · 3%–5% ✓ · os QUATRO MÉTODOS na ordem exata de B016 ✓ · glosa do Nuctemeron ✓ · citações de P2025-06-14 em bloco (sobra apodrecida/cobaia consciente/deslacre/maior presente) ✓",
+  "Gaps legítimos com âncora interna (proposta G1–G6): IEEA · Nuctemeron · Tikkun · Abaiuan · Cidades Sagradas do Hiperbóreo · Dasein — e só; todo o resto do doc já é código ou é fórmula do compilador",
+]
+
+# Regras (G1/G3 herdadas + desta rodada)
+tipo_processo = "CONSOLIDACAO"
+regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
+          "cotejo-com-fonte-primaria", "grafia-canonicas-na-base",
+          "fonte-de-terceiros-nao-propaga-atribuicao-sem-curadoria",
+          "cifras-do-refatorado-nao-sao-adotadas-sem-ancora (padrão F022-V2)",
+          "aspas-de-refatorado-nunca-sao-citacoes-de-ficha (F030 §1 + F031 D-5)",
+          "varredura-de-NOMES-antes-de-propor-codigo (lição F030/RC-032 — executada)",
+          "quarentena-entre-ecossistemas (Magia Gnóstica/Eusébio/blount-externo: precedente Q-F029-D)",
+          "decisoes-homologadas-nao-sao-reabertas (navalha relíquias P2022-09-18 vale p/ Lia Fáil)"]
+
+# Decisões do curador (a registrar)
+[decisoes-curador]
+pendentes = "Q-F031-A…G (ver devolutiva.md §4)"
+
+# Recebimento (política uploads_recepcao)
+[ingresso]
+canal = "uploads_recepcao/1-EDR-O Livro.txt (upload do curador ac1d7a7, 05/09/2026)"
+bruto_preservado = true        # NÃO removido da caixa — aguarda comando (limpeza nº 13 preparatória vigente; F031 entra no nº 14 se Q-G aprovado)
+historico_recuperavel = "git show ac1d7a7:uploads_recepcao/1-EDR-O Livro.txt"

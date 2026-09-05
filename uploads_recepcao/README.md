@@ -124,9 +124,12 @@ com cópia byte a byte já versionada no destino — **não removidos daqui por 
 | `29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt` | processado como **F029** (`consolidacoes/29-PERSONAGENS/`, levantamento 04/09/2026) |
 | `LISTA SIMPLES DE TERMOS CHAVE DA RC.txt` | auditoria de cobertura em `VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md` — aguarda decisão |
 | `Colégio Druídico — Estudo Continuad.txt` (Daniela D. Ferro) | recebido e aberto o ciclo **F030** em `consolidacoes/F030_colegio-druidico/` (levantamento 05/09/2026; SHA `36b35d46…` conferido `cmp`-limpo; **ciclo CONCLUÍDO — aplicação do despacho do curador em 05/09/2026**: RC-032 Benem arestado via B018 (anti-duplicação; ver retificação D-5), fichas RC-398/RC-068/RC-403/RC-437 ampliadas) |
+| `1-EDR-O Livro.txt` (Dossiê EDR — série «1-») | recebido e aberto o ciclo **F031** em `consolidacoes/F031_edr-livro/` (levantamento 05/09/2026; SHA `d629befd…` conferido `cmp`-limpo; livro-síntese de IA sobre a Escola da Decifração — substrato P2025-06-14 + apostilas + B016/B041; **aguarda despacho Q-F031-A…G**) |
 
 - **Limpeza nº 13 PREPARATORADA (despacho F030/Q-F030-F, 05/09/2026):** auditoria SHA-a-SHA da
   Família F registrada em [`backups/REGISTRO-LIMPEZA-2026-09-05-13.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-13.json) —
   **nenhum arquivo removido**; 3 brutos aptos à remoção (SHA idêntico à cópia em `consolidacoes/*/fonte.txt`:
   22-GLOSSÁRIO, 29-PERSONAGENS, Colégio Druídico) e 1 **não apto** (`LISTA SIMPLES` — sem cópia byte a byte
-  versionada). **A exclusão física aguarda comando final do curador.**
+  versionada). **A exclusão física aguarda comando final do curador.** Em 05/09 (mesma tarde) o bruto
+  `1-EDR-O Livro.txt` passou a ter cópia byte-idêntica versionada (`consolidacoes/F031_edr-livro/fonte.txt`,
+  Q-F031-G) — se aprovado, vira **registro nº 14** com **4 aptos** antes de qualquer `rm`.
