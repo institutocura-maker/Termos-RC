@@ -1,0 +1,31 @@
+# ciclo.toml — F037 «MUTIRÃO REVISAR · Lote 1 (Cronologia)»
+id = "F037"
+titulo = "Mutirão REVISAR — Lote 1: Cronologia (B050 e datas EC)"
+origem = "DESPACHO DE PAUSA E REDIRECIONAMENTO DE ESTEIRA, 05/09/2026 («Ambos: Trilha Leve para a caixa + Mutirão REVISAR»)"
+fase = "DEVOLUTIVA"
+status = "aguarda_despacho"
+altera_base = false
+data_abertura = "2026-09-05"
+decisoes_pendentes = ["Q-F037-A", "Q-F037-B", "Q-F037-C", "Q-F037-D", "Q-F037-E", "Q-F037-F"]
+
+[alvo]
+bandeira = "liquidar o maximo das flags REVISAR vivas: fechar com fonte primaria o que for resolvivel; chancelar 'tensoes insolveis' e 'aguarda-audio'"
+censo_2026_09_05 = "286 linhas-ancora · 283 vivas · 187 fichas"
+inventario = "consolidacoes/F037_mutirao-revisar-lote-1/inventario-flags.csv"
+
+[lote1]
+tema = "cronologia (flags com B050 explicito ou datas/bilhoes na linha)"
+reais = 35
+fechaveis_ancoras_achadas = 6
+chancelaveis = 6
+reclassificaveis = 23
+protegida = "RC-091 l. 65 (mantida aberta por despacho F036-Q-B — excluida do roster, nao tocada)"
+descoberta = "B050 tem TRILHA D com datas EC: l. 203 (2012 d.C. portais) · l. 204 (2015 d.C. Fim da Lila/Trimurti) · ll. 46/64 (Era da Solidao 13,8-13,3 bi) · l. 87 (Sophia primeiro biodemo 5 bi a.p.) — reabre fechaveis que F035/F036 tratavam como sem jurisdicao"
+
+[regras]
+a = "FECHAR so com ancora primaria verbatim byte a byte + assert programatico (F033-QB); inline '[REVISAR -> ENCERRADO data · F037-L1: ver nota]' + nota ao fim da ficha (modelo RC-102)"
+b = "CHANCELAR registra a conferencia negativa na ficha ('B050 silente', molduras) — poupa o proximo pesquisador e liquida a contagem"
+c = "flag protegida por despacho anterior nao e encerrada nem chancelada; sai do roster"
+d = "classificador automatico e agnostico: reclassificacao linha a linha e parte da execucao, nao anomalia"
+e = "espelhos e commit UNICOS ao fim do lote; base 933/1898 imutavel em termos/relacoes"
+f = "TOML validado por tomllib ANTES da gravacao; chaves ASCII"
