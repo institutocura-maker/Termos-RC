@@ -57,3 +57,8 @@ Com isso:
 - a origem: o **Nidana B** (junção Awaylengan + Awaymaion): "criaram Nidana B, ou seja, o ovo cov" (STT) — nova versão do código que juntou a experiência dos dois fornos;
 - a consequência na Terra: "já eram seres bilaterais, porque a tal molécula mãe" (STT) que foi lançada aqui "já vinha como sendo Nidana B" — a explosão cambriana e a evolução até os humanos;
 - **Materialização decidida por Devolutiva O-3** — em vez de criar um código duplicado (RC-838), a fonte fundadora de 2019 amplia a ficha **RC-035 Bilatérios** já existente (correção do dossiê O-2, que por erro de busca não a localizara).
+
+
+## Nota — Dasein — F031 aplicação (05/09/2026)
+
+- **[P2025-06-14 · DASEIN NA FONTE-MÃE]** a fala já traz a referência embutida: «essa capacidade ímpar de indagar, buscar respostas e decifrar a realidade ao seu redor ("Dasein de Heidegger")» — G6/Q-B: **sem código novo**; o uso heideggeriano é apropriação de Ellam (contexto), não admissão da filosofia de Heidegger como fonte.

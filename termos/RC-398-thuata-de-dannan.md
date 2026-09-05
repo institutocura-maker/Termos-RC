@@ -53,3 +53,4 @@ Com isso:
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
 | Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
 | Hiperbórea | RC-068 | **sem aresta** em `RELACOES`; arquivo existe |
+| Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) — Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17) |

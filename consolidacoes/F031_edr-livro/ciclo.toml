@@ -17,9 +17,11 @@ origem_primaria_presumida = "substrato verbatim-identificado: ciclos/P2025-06-14
 parente_documental = "linhagem F (F022 glossário · F029 personagens · F030 colégio druídico — o mesmo compilador/linhagem de slides: herda 'legado de Bohr', 'Técnica Mental Druuid', 'ser o que quiser desde que se eduque', '9 mil anos')"
 
 # Estado do ciclo
-fase = "DEVOLUTIVA"            # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
-altera_base = false            # levantamento/devolutiva NÃO alteram dados_termos.py nem fichas
-status = "aguardando-despacho"
+fase = "APLICACAO"             # LEVANTAMENTO → DEVOLUTIVA → APLICACAO (despacho 05/09/2026)
+altera_base = true             # aplicação assinada: +3 termos fila, +7 arestas, 9 fichas, RC-153 renomeado
+data_aplicacao = "2026-09-05"
+data_despacho = "2026-09-05"
+status = "concluido"
 
 # Cotejo executado nesta rodada (2026-09-05, só-leitura)
 [cotejo_primario]
@@ -47,10 +49,26 @@ regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
 
 # Decisões do curador (a registrar)
 [decisoes-curador]
-pendentes = "Q-F031-A…G (ver devolutiva.md §4)"
+resumo = "despacho de 05/09/2026: Q-A homologada · Q-B G1+G2+G5 na fila / G3+G4+G6 notas · Q-C todas as arestas + bloco B016 · Q-D alinhar RC-153 · Q-E ficha+ledger p/ D-1 · Q-F volumes 2-/3- no MESMO ciclo · Q-G registro nº 14 + exclusão dos 4 brutos aptos"
+[decisoes-curador.itens]
+a = "homologada"
+b = "G1 RC-930 · G2 RC-931 · G5 RC-932 (fila, ficha=False, fontes estritas); G3/G4/G6 = notas em fichas, sem código"
+c = "todas (C-i…C-vi em RELACOES; C-vii em fontes RC-755; bloco QUATRO MÉTODOS na ficha RC-755)"
+d = "alinhar (duas expansões canônicas no nome de RC-153)"
+e = "ficha+ledger (blindagem em RC-142 e RC-074)"
+f = "se houver 2-/3-, processar no mesmo ciclo F031"
+g = "emitir nº 14; excluir os 4 brutos aptos; LISTA SIMPLES permanece (não-apta)"
+
+[aplicacao]
+execucao = "2026-09-05 — só o assinado; âncoras já conferidas byte a byte no levantamento"
+delta = "TERMOS 929→932 · RELACOES 1887→1894 · fichas: RC-755 (bloco B016, fontes, relacionados) · RC-142 (blindagem+Tikum) · RC-074 (espelho) · RC-092 (Abaiuan) · RC-035 (Dasein) · RC-754 (Tikkun) · RC-068/RC-398 (linha RC-932) · RC-153 renomeado · 6 related-strings espelhadas"
+validacao = "python3 ferramentas/dados_termos.py → OK: 932 termos, 1894 relações; zero arestas órfãs; STATUS inalterados"
+espelhos = "build_indice.py · build_xlsx.py · build_word.py regenerados"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-14.json: 4 removidos (22-GLOSSÁRIO · 29-PERSONAGENS · Colégio Druídico · 1-EDR-O Livro), todos com cópia byte-idêntica em consolidacoes/*/fonte.txt; LISTA SIMPLES preservada"
+reabertura = "somente volumes «2-/3-» da série (Q-F)"
 
 # Recebimento (política uploads_recepcao)
 [ingresso]
 canal = "uploads_recepcao/1-EDR-O Livro.txt (upload do curador ac1d7a7, 05/09/2026)"
-bruto_preservado = true        # NÃO removido da caixa — aguarda comando (limpeza nº 13 preparatória vigente; F031 entra no nº 14 se Q-G aprovado)
+bruto_preservado = false       # REMOVIDO da caixa em 05/09/2026 pela limpeza nº 14 (Q-G assinado) — a versão canônica viva é consolidacoes/F031_edr-livro/fonte.txt (SHA idêntico)
 historico_recuperavel = "git show ac1d7a7:uploads_recepcao/1-EDR-O Livro.txt"

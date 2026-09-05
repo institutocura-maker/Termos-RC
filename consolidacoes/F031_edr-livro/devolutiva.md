@@ -1,10 +1,18 @@
 # Devolutiva — F031 «1-EDR-O Livro» (Dossiê: A Escola da Decifração)
 
-**Data:** 05/09/2026 · **Fase:** LEVANTAMENTO → DEVOLUTIVA (nada altera a base até despacho — padrão da esteira)
+**Data:** 05/09/2026 · **Fase:** LEVANTAMENTO → DEVOLUTIVA → **APLICACAO (despacho do curador executado em 05/09/2026 — mesmo dia; ver §0 e `DECISAO-DO-CURADOR.md`)**
 **Bruto:** `uploads_recepcao/1-EDR-O Livro.txt` · 93.149 B · 305 linhas · SHA-256 `d629befd69015668…8a2008` · cópia `consolidacoes/F031_edr-livro/fonte.txt` byte-idêntica (`cmp` limpo)
 **Companheiros deste ciclo:** [`mapeamento.md`](mapeamento.md) (111 itens) · [`divergencias.md`](divergencias.md) (D-1…D-12)
 
 ---
+
+---
+
+## 0. Despacho e aplicação (05/09/2026)
+
+**Q-A** ✅ homologada (sigla F031; caracterização «livro-síntese de terceiros, IA-compiled, terceira mão»). **Q-B** aprovada em corte: **G1 (IEEA), G2 (Nuctemeron), G5 (Cidades Sagradas do Hiperbóreo) materializados na fila** como RC-930/RC-931/RC-932 (`ficha=False`, fontes estritas às âncoras internas — política de fila F030); **G3 (Tikkun), G4 (Abaiuan), G6 (Dasein) como notas** nas fichas relacionadas (RC-142/RC-754 · RC-092 · RC-035) — sem código novo. **Q-C** «todas»: as 7 arestas C-i…C-vi entraram em `RELACOES` + C-vii (fontes RC-755 += P2021-06-26) + bloco «QUATRO MÉTODOS (B016)» na ficha RC-755 (ordem e epígrafes verbatim, transcrição da aplicação = cópia do bloco B016 já conferido). **Q-D** «alinhar»: RC-153 renomeado com as duas expansões canônicas. **Q-E** «ficha+ledger»: blindagem D-1 escrita em RC-142 **e** RC-074. **Q-F** série: se existirem volumes «2-», «3-», vêm **processados no mesmo ciclo** (F031 reabre para eles antes de qualquer nova numeração). **Q-G** ✅: registro nº 14 emitido, 4 brutos aptos removidos da caixa (F022/F029/F030/F031), `LISTA SIMPLES` segue **não-apta** (sem cópia byte a byte).
+
+**Δ aplicado (medido após validação):** TERMOS 929→**932** (+3 fila) · RELACOES 1887→**1894** (+7 arestas) · fichas tocadas: **9** (RC-755 bloco+fontes+relacionados · RC-142 · RC-074 · RC-092 · RC-035 · RC-754 · RC-068 · RC-398 linhas/notas) · cadastro: RC-153 renomeado, RC-755 fontes/relacionados ampliados, 6 related-strings espelhadas · espelhos regenerados (`build_indice/xlsx/word`). Nenhum STATUS alterado; nenhuma aspa/data/mitologia do doc propagada (D-1…D-12 como no ledger, todos fechados).
 
 ## 1. O que é o documento (e o que ele não é)
 
@@ -65,6 +73,6 @@ O grafo da EDR é denso **em volta** de RC-755 (754/166/695/094/759/760/397/398 
 | **Q-F031-F** | O doc é o «1-» de uma série. Há **2-, 3-…** a caminho (mesmo compilador)? Se sim, abro ciclo único para a série ou ciclo por volume? | enviar-juntos / por-volume / acabou |
 | **Q-F031-G** | Limpeza: F031 agora tem cópia byte-idêntica versionada (`consolidacoes/F031_edr-livro/fonte.txt`) — emito o **registro nº 14** acrescentando-o aos aptos (4 aptos: F022, F029, F030, F031; LISTA SIMPLES segue não-apta)? | sim-emitir / aguardar série |
 
-**Contadores do ciclo (medidos):** 111 itens mapeados em 6 seções · 373 aspas únicas no doc (140 verbatim / 233 paráfrase) · 6 gaps com âncora (G1–G6) · 7 arestas + 2 enriquecimentos propostos (C-i…C-vii) · ledger D-1…D-12 (1 fechada-registro · 1 proposta · 10 abertas/não-propagadas) · Δ na base: **0** (levantamento) · fontes cotejadas: 162 original.txt do acervo (varredura completa) + ficha-by-ficha (RC-755/403/398/068/259/153/163/879/070/074/142).
+**Contadores do ciclo (medidos):** 111 itens mapeados em 6 seções · 373 aspas únicas no doc (140 verbatim / 233 paráfrase) · 6 gaps com âncora (G1–G6) · 7 arestas + 2 enriquecimentos propostos (C-i…C-vii) · ledger D-1…D-12 (1 fechada-registro · 1 proposta · 10 abertas/não-propagadas) · Δ na base (após aplicação): **+3 termos · +7 relações · 9 fichas** · fontes cotejadas: 162 original.txt do acervo (varredura completa) + ficha-by-ficha (RC-755/403/398/068/259/153/163/879/070/074/142).
 
-**Próximo passo:** despacho Q-F031-A…G; aprovados B/C, o ciclo transita para `fase=APLICACAO` e executa **só** o assinado (as âncoras já estão conferidas byte a byte neste levantamento — a aplicação seria transcrição, não garimpo).
+**Ciclo CONCLUÍDO** em `fase=APLICACAO` (05/09/2026). Único reabridor futuro: a chegada de volumes «2-/3-» da série (regra Q-F).

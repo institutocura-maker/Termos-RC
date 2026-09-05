@@ -137,3 +137,7 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 ## Blindagem
 
 Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comparada) — sem validação histórica.
+
+## Nota de blindagem — F031 aplicação (05/09/2026)
+
+- Espelho da nota em RC-142: o doc-fonte «1-EDR-O Livro» propunha fundir Satã/Len Mion (família Mion, Tau Ceti) com Yel Luzbel (família Yel); a fonte-mãe mantém os dois papéis distintos — contágio × agente. Separação **RC-074 × RC-142** reafirmada; nenhuma afirmação do doc foi incorporada (ledger D-1).

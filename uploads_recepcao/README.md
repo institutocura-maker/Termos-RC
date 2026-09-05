@@ -115,21 +115,20 @@ versionados em `ciclos/*/`, `apostilas/CONCLUIDAS/*/` e `livros/**/`. Resultado:
   (estavam versionados em `uploads_recepcao/`). Registro em
   [`backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json`](../backups/REGISTRO-LIMPEZA-2026-09-02-DESCARTE-CURADOR.json).
 
-**Estado da pasta (atualizado em 05/09/2026):** material da **Esteira de Consolidação (Família F)** em processo,
-com cópia byte a byte já versionada no destino — **não removidos daqui por falta de ordem expressa do curador**:
+**Estado da pasta (atualizado em 05/09/2026 — limpeza nº 14 EXECUTADA):** a caixa voltou ao regime de **entrada bruta**: os quatro brutos da Família F com ciclo concluído foram **removidos** por comando final do curador (Q-F031-G), cada um previamente auditado SHA-a-SHA contra sua cópia versionada.
 
 | Arquivo | Situação |
 |---|---|
-| `22-GLOSSÁRIO.txt` | processado como **F022** (`consolidacoes/F022_22-glossario/`, levantamento 03/09/2026) |
-| `29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt` | processado como **F029** (`consolidacoes/29-PERSONAGENS/`, levantamento 04/09/2026) |
-| `LISTA SIMPLES DE TERMOS CHAVE DA RC.txt` | auditoria de cobertura em `VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md` — aguarda decisão |
-| `Colégio Druídico — Estudo Continuad.txt` (Daniela D. Ferro) | recebido e aberto o ciclo **F030** em `consolidacoes/F030_colegio-druidico/` (levantamento 05/09/2026; SHA `36b35d46…` conferido `cmp`-limpo; **ciclo CONCLUÍDO — aplicação do despacho do curador em 05/09/2026**: RC-032 Benem arestado via B018 (anti-duplicação; ver retificação D-5), fichas RC-398/RC-068/RC-403/RC-437 ampliadas) |
-| `1-EDR-O Livro.txt` (Dossiê EDR — série «1-») | recebido e aberto o ciclo **F031** em `consolidacoes/F031_edr-livro/` (levantamento 05/09/2026; SHA `d629befd…` conferido `cmp`-limpo; livro-síntese de IA sobre a Escola da Decifração — substrato P2025-06-14 + apostilas + B016/B041; **aguarda despacho Q-F031-A…G**) |
+| `LISTA SIMPLES DE TERMOS CHAVE DA RC.txt` | **permanece na caixa** — auditoria de cobertura em `VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md`, mas **sem cópia byte a byte versionada**: não-apta à remoção sob a política vigente |
 
-- **Limpeza nº 13 PREPARATORADA (despacho F030/Q-F030-F, 05/09/2026):** auditoria SHA-a-SHA da
-  Família F registrada em [`backups/REGISTRO-LIMPEZA-2026-09-05-13.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-13.json) —
-  **nenhum arquivo removido**; 3 brutos aptos à remoção (SHA idêntico à cópia em `consolidacoes/*/fonte.txt`:
-  22-GLOSSÁRIO, 29-PERSONAGENS, Colégio Druídico) e 1 **não apto** (`LISTA SIMPLES` — sem cópia byte a byte
-  versionada). **A exclusão física aguarda comando final do curador.** Em 05/09 (mesma tarde) o bruto
-  `1-EDR-O Livro.txt` passou a ter cópia byte-idêntica versionada (`consolidacoes/F031_edr-livro/fonte.txt`,
-  Q-F031-G) — se aprovado, vira **registro nº 14** com **4 aptos** antes de qualquer `rm`.
+**Brutos removidos no registro nº 14** (cópias canônicas vivem em `consolidacoes/*/fonte.txt`; histórico byte-a-byte recuperável no git — p.ex. `git show d8bb396:"uploads_recepcao/22-GLOSSÁRIO.txt"`):
+
+| Bruto removido | Ciclo | Cópia canônica |
+|---|---|---|
+| `22-GLOSSÁRIO.txt` | **F022** (concluído 04/09/2026) | `consolidacoes/F022_22-glossario/fonte.txt` · SHA `8968eab3…` |
+| `29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt` | **F029** (concluído) | `consolidacoes/29-PERSONAGENS/fonte.txt` · SHA `e8274acc…` |
+| `Colégio Druídico — Estudo Continuad.txt` | **F030** (CONCLUÍDO 05/09/2026 — aplicação: RC-032 Benem arestado via B018; fichas RC-398/RC-068/RC-403/RC-437 ampliadas) | `consolidacoes/F030_colegio-druidico/fonte.txt` · SHA `36b35d46…` |
+| `1-EDR-O Livro.txt` | **F031** (CONCLUÍDO 05/09/2026 — aplicação do despacho Q-F031-A…G: RC-930/931/932 na fila, 7 arestas, bloco QUATRO MÉTODOS na ficha RC-755, blindagem D-1 em RC-142/RC-074) | `consolidacoes/F031_edr-livro/fonte.txt` · SHA `d629befd…` |
+
+- **Limpeza nº 13 PREPARATORADA (despacho F030/Q-F030-F, 05/09/2026):** auditoria SHA-a-SHA da Família F em [`backups/REGISTRO-LIMPEZA-2026-09-05-13.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-13.json) — nenhum arquivo removido na época; 3 aptos + 1 não-apto.
+- **Limpeza nº 14 EXECUTADA (despacho F031/Q-F031-G, 05/09/2026):** [`backups/REGISTRO-LIMPEZA-2026-09-05-14.json`](../backups/REGISTRO-LIMPEZA-2026-09-05-14.json) — SHA-256 re-conferido imediatamente antes do `rm`; **4 removidos · 0 divergências**; `LISTA SIMPLES` preservada. A política segue: **nenhum bruto sai daqui sem cópia versionada byte-idêntica + comando final do curador.**

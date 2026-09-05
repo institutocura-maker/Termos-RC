@@ -173,7 +173,7 @@ TERMOS = [
     ("RC-089", "Processador Val", TEC_NAV[0], TEC_NAV[1], 'em análise', ['B031', 'B017', 'B018', 'B039', 'P2026-04-02', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', "P2021-01-30", "P2017-10-14", "P2018-12-15"], "RC-109; RC-018; RC-080; RC-141", True),
     ("RC-090", "Projeto Planeta Azul", EVE_MIS[0], EVE_MIS[1], P, ["B031", "B003", "B026"], "RC-107; RC-106; RC-094", False),
     ("RC-091", "Projeto Talm", EVE_MIS[0], EVE_MIS[1], 'em análise', ['B031', 'B024', 'B044', 'B001', 'P2021-12-04', 'P2025-03-15', 'P2024-11-02', 'P2024-08-03', 'P2023-11-19', 'P2023-04-15', 'P2023-04-01', 'P2024-11-03', 'P2025-02-22', 'P2025-07-18', "P2021-01-30", "P2024-06-16"], 'RC-080; RC-104; RC-037; RC-102; RC-135; RC-081; RC-040; RC-154; RC-282', True),
-    ("RC-092", "Quarto Logos (Olm / Codificador de Zian)", SER_LOG[0], SER_LOG[1], 'verificado', ['B031', 'B016', 'B014', 'B057', 'B060', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-10-25', 'P2025-02-16', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2024-08-03', 'P2023-11-19', 'P2023-04-30', 'P2020-04-18', 'P2020-07-04', 'P2021-03-13', 'P2023-04-01b', 'P2024-11-03', 'P2025-02-22', 'P2021-05-15', 'P2022-03-26', 'P2023-12-03', "P2021-01-30", "P2024-06-16", "P2017-10-14", "P2022-12-03", "P2022-11-20", "P2022-09-18", "P2022-07-16", "P2021-04-10", "P2021-06-26", "P2022-09-17"], 'RC-076; RC-087; RC-085; RC-025; RC-072; RC-456; RC-472; RC-604; RC-607; RC-609; RC-611; RC-612; RC-615; RC-608; RC-167; RC-649; RC-697', True),
+    ("RC-092", "Quarto Logos (Olm / Codificador de Zian)", SER_LOG[0], SER_LOG[1], 'verificado', ['B031', 'B016', 'B014', 'B057', 'B060', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-10-25', 'P2025-02-16', 'P2024-03-02', 'ART-2026-08-18', 'P2023-05-13', 'P2023-12-02', 'P2021-03-27', 'P2024-09-28', 'P2024-08-03', 'P2023-11-19', 'P2023-04-30', 'P2020-04-18', 'P2020-07-04', 'P2021-03-13', 'P2023-04-01b', 'P2024-11-03', 'P2025-02-22', 'P2021-05-15', 'P2022-03-26', 'P2023-12-03', "P2021-01-30", "P2024-06-16", "P2017-10-14", "P2022-12-03", "P2022-11-20", "P2022-09-18", "P2022-07-16", "P2021-04-10", "P2021-06-26", "P2022-09-17"], 'RC-076; RC-087; RC-085; RC-025; RC-072; RC-456; RC-472; RC-604; RC-607; RC-609; RC-611; RC-612; RC-615; RC-608; RC-167; RC-649; RC-697; RC-755', True),
     ("RC-093", "Radiatas", SER_HIB[0], SER_HIB[1], 'em análise', ['B031', 'P2024-05-04', 'P2025-02-16', 'P2024-04-13', 'P2021-05-15', 'P2020-04-25', 'P2023-12-03', "P2022-05-07", "P2023-08-27"], 'RC-035; RC-109; RC-136; RC-009; RC-631', True),
     ("RC-094", "Revelação Cósmica (conceito)", COS_COG[0], COS_COG[1], 'verificado', ['B031', 'B044', 'B035', 'B013', 'B014', 'B022', 'B023', 'B048', 'B003', 'B005', 'B011', 'B049', 'B043', 'B041', 'B006', 'B050', 'B027', 'B051', 'B034', 'B036', 'B040', 'B052', 'B042', 'B009', 'P2021-12-04', 'P2025-10-25', 'P2025-06-26', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2023-12-02', 'P2021-03-27', 'P2023-10-14', 'P2020-04-25', 'P2023-12-03', "P2022-07-16", "P2021-06-26"], 'RC-071; RC-106; RC-107; RC-003; RC-090; RC-611; RC-656; RC-718', True),
     ("RC-095", "Rogério de Almeida Freitas", SER_HUM[0], SER_HUM[1], P, ["B031"], "RC-071; RC-094", False),
@@ -227,7 +227,7 @@ TERMOS = [
     ("RC-143", "Yel Luziel", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-136; RC-043; RC-065", False),
     ("RC-144", "Zeitgeist", TER_OUT[0], TER_OUT[1], P, ["B031"], "RC-094", False),
     ("RC-145", "Zeus", SER_DEC[0], SER_DEC[1], 'verificado', ['B031', 'B020', 'B021', 'B050', 'B060', 'P2022-12-17', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'B087', 'B088', 'B089', 'P2020-09-19', 'P2023-12-03', "P2021-02-28"], 'RC-047; RC-066; RC-077; RC-097; RC-480', True),
-    ("RC-146", "Zian (Zion)", LOK_PLA[0], LOK_PLA[1], 'em análise', ["B031", "B057", "B061"], "RC-109; RC-039; RC-092", True),
+    ("RC-146", "Zian (Zion)", LOK_PLA[0], LOK_PLA[1], 'em análise', ["B031", "B057", "B061"], "RC-109; RC-039; RC-092; RC-755", True),
     ("RC-147", "Zont En Drel 29", SER_ANJ[0], SER_ANJ[1], 'em análise', ['B031', 'B015', 'P2025-10-25', 'P2025-06-26', 'P2023-07-30', 'P2022-03-26', "P2024-06-16"], "RC-055; RC-019; RC-001; RC-006; RC-651; RC-652", True),
 
     # ---- Novos termos de B024 (obra primária: A Epopeia dos Agentes da Vida Universal, 2019)
@@ -236,7 +236,7 @@ TERMOS = [
     ("RC-150", "Xadrez Cósmico", COS_COG[0], "2.1 Cosmogonia / Criação", P, ["B024"], "RC-104; RC-075; RC-148; RC-152", True),
     ("RC-151", "Gunas Criadoras (Sattva, Rajas, Tamas)", TER_SAN[0], TER_SAN[1], P, ['B024', 'P2024-09-29', 'P2024-02-03', 'P2024-09-28', 'P2024-11-03', "P2012-02-19", "P2021-04-10"], 'RC-102; RC-135; RC-152; RC-037', True),
     ("RC-152", "Prabrajna", SER_DIV[0], SER_DIV[1], 'em análise', ['B024', 'B044', 'B001', 'B016', 'B013', 'B022', 'B060', 'B061', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'P2024-03-02', 'B089', 'P2024-11-03', "P2024-06-16", "P2021-06-26"], 'RC-151; RC-150; RC-037; RC-094; RC-087; RC-628; RC-629; RC-638; RC-691; RC-604; RC-167; RC-530; RC-559', True),
-    ("RC-153", "CFDP (Código-fonte Definidor Pessoal)", COS_LEI[0], COS_LEI[1], P, ['B024', 'B041', 'B019', 'P2025-03-15'], 'RC-040; RC-091; RC-154', False),
+    ("RC-153", "CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador)", COS_LEI[0], COS_LEI[1], P, ['B024', 'B041', 'B019', 'P2025-03-15'], 'RC-040; RC-091; RC-154', False),
     ("RC-154", "Nidana (ovo cósmico)", COS_COG[0], COS_COG[1], P, ['B024', 'P2024-05-04', 'P2025-03-15', 'P2024-11-30', 'P2024-04-13', 'P2023-09-09', 'P2023-04-15', 'P2020-04-25', "P2024-06-16", "P2018-12-15", "P2026-03-21"], 'RC-153; RC-091; RC-691; RC-693', True),
     ("RC-155", "Eras da Criação (10 eras)", EVE_ERA[0], EVE_ERA[1], 'em análise', ["B024", "B033", "B050", "P2021-06-26"], "RC-156; RC-157; RC-158; RC-159; RC-567; RC-568", True),
     ("RC-156", "Era da Solidão", EVE_ERA[0], EVE_ERA[1], P, ["B024"], "RC-155; RC-152; RC-037", False),
@@ -246,7 +246,7 @@ TERMOS = [
     ("RC-160", "Entropia e Negentropia", COS_LEI[0], COS_LEI[1], P, ['B024', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-09-28', 'P2022-09-24', 'P2023-04-01b', 'P2025-02-22', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', "P2023-02-12", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-06-26"], 'RC-161; RC-148; RC-634; RC-725; RC-727', True),
     ("RC-161", "Memória Quântica dos Elétrons", COS_LEI[0], COS_LEI[1], P, ['B024', 'B041', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2025-06-14b', 'P2023-11-19', 'P2023-06-24', 'P2023-10-14', 'P2022-03-26', 'P2023-12-03', "P2017-10-14", "P2022-12-03", "P2026-03-21", "P2021-04-10"], 'RC-160; RC-162; RC-163; RC-636; RC-637; RC-638; RC-690; RC-691; RC-692; RC-693; RC-707; RC-708; RC-715; RC-378', True),
     ("RC-162", "Elétrons (agente básico da vida universal)", PRO_FIS[0], PRO_FIS[1], P, ['B024', 'B041', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-03-03', 'P2024-04-14', 'P2025-06-14b', 'P2023-11-19'], 'RC-161; RC-148; RC-636; RC-690; RC-692; RC-693; RC-715', False),
-    ("RC-163", "Mente Universal (Emergente)", COS_PRO[0], COS_PRO[1], P, ['B024', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'P2023-11-19', 'P2023-12-03'], 'RC-161; RC-042; RC-164; RC-694; RC-707; RC-725', False),
+    ("RC-163", "Mente Universal (Emergente)", COS_PRO[0], COS_PRO[1], P, ['B024', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'P2023-11-19', 'P2023-12-03'], 'RC-161; RC-042; RC-164; RC-694; RC-707; RC-725; RC-879', False),
     ("RC-164", "Criaturas-ferramenta", COS_ETI[0], COS_ETI[1], P, ['B024', 'B035', 'B019', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-04-13', 'P2024-04-14', 'P2021-03-27', 'P2025-11-29'], 'RC-163; RC-099; RC-160', True),
     ("RC-165", "Karuna", TER_SAN[0], TER_SAN[1], P, ["B024", "P2024-06-16"], "RC-148; RC-075", True),
     ("RC-166", "Mentalma", TER_OUT[0], TER_OUT[1], P, ['B024', 'B074', 'B075', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-06-26', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'P2026-08-04', 'ART-2026-08-18', 'P2023-05-13', 'P2023-07-30', 'P2023-07-05', 'P2023-04-01', 'P2020-04-25', 'P2022-03-26'], 'RC-071; RC-618; RC-633; RC-655', True),
@@ -359,7 +359,7 @@ TERMOS = [
     ("RC-256", "Escola dos Agentes Esclarecidos da Busca da Verdade", COS_ESP[0], COS_ESP[1], P, ['B016', 'P2021-12-04'], "RC-252; RC-148; RC-253; RC-071", False),
     ("RC-257", "Espiritismo como Expressão do Quarto Logos", COS_ESP[0], COS_ESP[1], P, ["B016"], "RC-190; RC-092; RC-252", True),
     ("RC-258", "Coreografia Cósmica (vinda de Sophia)", EVE_PRO[0], EVE_PRO[1], P, ['B016', 'P2024-07-13', "P2025-05-10"], 'RC-009; RC-005; RC-003; RC-070', True),
-    ("RC-259", "Apolônio de Tiana (encarnação do Quarto Logos)", SER_HUM[0], SER_HUM[1], P, ['B016', 'B061', 'P2021-12-04', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2023-12-02', 'P2024-11-03'], 'RC-092; RC-252; RC-072; RC-713', True),
+    ("RC-259", "Apolônio de Tiana (encarnação do Quarto Logos)", SER_HUM[0], SER_HUM[1], P, ['B016', 'B061', 'P2021-12-04', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2023-12-02', 'P2024-11-03'], 'RC-092; RC-252; RC-072; RC-713; RC-755', True),
     ("RC-260", "Prisioneiros da Brahmaloka", SER_DEC[0], SER_DEC[1], P, ["B016"], "RC-038; RC-041; RC-106; RC-016; RC-014", True),
 
     # ---- Novos termos de B013 (obra primária: Tzimtzum — O Exílio Forçado de uma Divindade, 2020)
@@ -529,7 +529,7 @@ TERMOS = [
     ("RC-400", "Foz Côa / FOXP2 (símbolos)", PRO_BIO[0], PRO_BIO[1], 'em análise', ['B050', 'B061', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', "P2022-09-17", "P2022-11-19", "P2025-12-14"], 'RC-099; RC-094; RC-577; RC-614; RC-619; RC-710', True),
     ("RC-401", "Família Demolle (biodemos)", GEN_EXT[0], GEN_EXT[1], P, ["B050", "P2021-05-15"], "RC-036; RC-094", False),
     ("RC-402", "Halos de Poder (demos)", TEC_DIS[0], TEC_DIS[1], P, ["B050"], "RC-049; RC-094", False),
-    ("RC-403", "Colegiado Druídico", GEN_EXT[0], GEN_EXT[1], 'em análise', ["B050", "B052", "P2017-10-14"], "RC-375; RC-373; RC-094", True),
+    ("RC-403", "Colegiado Druídico", GEN_EXT[0], GEN_EXT[1], 'em análise', ["B050", "B052", "P2017-10-14"], "RC-375; RC-373; RC-094; RC-755", True),
 
     # ---- Novos termos de B027 (obra primária: Nos Céus da Grécia — AMOSTRA PARCIAL)
     ("RC-404", "Sentido Gradualístico das Leis da Evolução Cósmica", COS_LEI[0], COS_LEI[1], P, ['B027', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-094; RC-003; RC-059; RC-693; RC-720', True),
@@ -931,7 +931,7 @@ TERMOS = [
     ("RC-752", "Agenda Espiritual", COS_PRO[0], COS_PRO[1], C, ['P2024-04-14'], 'RC-751; RC-164; RC-332; RC-704; RC-695', True),
     ("RC-753", "Estrangulamento Cognitivo / Neural", COS_LEI[0], COS_LEI[1], C, ['P2025-06-14b'], 'RC-754; RC-166; RC-708; RC-163; RC-558', True),
     ("RC-754", "Chave da Decifração Universal", COS_PRO[0], COS_PRO[1], C, ['P2025-06-14b'], 'RC-753; RC-755; RC-695; RC-316; RC-094', True),
-    ("RC-755", "Escola da Decifração da Realidade (Método Druídico)", COS_ESP[0], COS_ESP[1], C, ['P2025-06-14b', 'P2024-02-03', 'P2024-11-03', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], 'RC-754; RC-166; RC-695; RC-094', True),
+    ("RC-755", "Escola da Decifração da Realidade (Método Druídico)", COS_ESP[0], COS_ESP[1], C, ['P2025-06-14b', 'P2024-02-03', 'P2024-11-03', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', 'P2021-06-26', 'B016'], 'RC-754; RC-166; RC-695; RC-094; RC-403; RC-879; RC-930; RC-931', True),
     ("RC-756", "Ganesha (exceção à metamorfose; cabeça de elefante)", SER_DIV[0], SER_DIV[1], C, ['P2024-03-02', 'P2021-05-15'], 'RC-102; RC-459; RC-604; RC-414', True),
     ("RC-757", "Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna)", TER_SAN[0], TER_SAN[1], C, ['P2024-03-02', 'P2023-04-29', 'P2023-12-03'], 'RC-135; RC-414; RC-104; RC-503', True),
     ("RC-758", "Quarto Cérebro (centro de sabedoria vibracional)", COS_PRO[0], COS_PRO[1], C, ['ART-2026-08-18', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], 'RC-092; RC-009; RC-514; RC-086; RC-553', True),
@@ -1055,7 +1055,7 @@ TERMOS = [
     ("RC-876", "Atos performativos (as frases que fazem coisas com palavras)", PRO_ESP[0], PRO_ESP[1], C, ["P2021-02-28"], 'RC-870; RC-636; RC-217; RC-001', False),
     ("RC-877", "Carga virótica (a materialização da primeira carga mental do criador)", PRO_BIO[0], PRO_BIO[1], C, ["P2021-02-28"], 'RC-001; RC-562; RC-217; RC-080; RC-154; RC-871', False),
     ("RC-878", "Disforia de gênio (a confiança ilimitada na pretensa capacidade)", PRO_ESP[0], PRO_ESP[1], C, ["P2021-02-28"], 'RC-870; RC-001; RC-145; RC-321; RC-605', False),
-    ("RC-879", "Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos)", COS_PRO[0], COS_PRO[1], C, ["P2021-02-28"], 'RC-042; RC-381; RC-636; RC-001; RC-161', False),
+    ("RC-879", "Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos)", COS_PRO[0], COS_PRO[1], C, ["P2021-02-28"], 'RC-042; RC-381; RC-636; RC-001; RC-161; RC-163', False),
     ("RC-880", "Maestria existencial (o valor repousado no modo como se vive)", COS_ETI[0], COS_ETI[1], C, ["P2021-02-28"], 'RC-870; RC-392; RC-557; RC-001', False),
     ("RC-881", "O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento)", COS_ESP[0], COS_ESP[1], C, ["P2021-04-10"], 'RC-092; RC-870; RC-586; RC-001', False),
     ("RC-882", "Fator Javé (o marco operacional do fim da atuação como médium passivo)", PRO_ESP[0], PRO_ESP[1], C, ["P2021-04-10"], 'RC-001; RC-257; RC-190', False),
@@ -1106,6 +1106,10 @@ TERMOS = [
     ("RC-927", "Sai Baba de Shirdi (Shirdi Sai Baba)", SER_HUM[0], SER_HUM[1], P, ['B060', 'P2012-02-19'], 'RC-102; RC-801; RC-928', True),  # F022/esteira consolidação 03-09 — personagem da linhagem Sai
     ("RC-928", "Sathya Sai Baba", SER_HUM[0], SER_HUM[1], P, ['B060', 'B031', 'P2012-02-19'], 'RC-102; RC-801; RC-927; RC-929', True),  # F022/esteira consolidação 03-09 — personagem da linhagem Sai
     ("RC-929", "Prema Sai (Prima Sai / Prem Sai)", SER_HUM[0], SER_HUM[1], P, ['B031', 'B060', 'P2012-02-19'], 'RC-102; RC-801; RC-927; RC-928', True),  # F022/esteira consolidação 03-09 — 3a/última da linhagem Sai (grafia canônica definida 03-09)
+    # --- F031 aplicação (05/09/2026): gaps G1/G2/G5 materializados por despacho (Q-B); fila: ficha=False, fontes estritas ---
+    ("RC-930", "IEEA (Instituto de Estudos Estratégicos e Alternativos)", LOK_TER[0], LOK_TER[1], C, ['P2025-06-14', 'B016'], 'RC-092; RC-094; RC-755', False),  # G1: plataforma de disseminação criada por Jan Val Ellam — em 10+ fichas sem verbete; sem ficha até revisão
+    ("RC-931", "Nuctemeron", TEC_ESC[0], TEC_ESC[1], C, ['B016', 'P2024-11-03'], 'RC-092; RC-259; RC-755', False),  # G2: obra atribuída a Apolônio de Tiana; B016 reproduz as "doze horas" e a glosa "O Dia de Deus que Resplandece nas Trevas" (interpretação do autor, não o texto apolônio)
+    ("RC-932", "Cidades Sagradas do Hiperbóreo", LOK_TER[0], LOK_TER[1], C, ['P2024-03-17', 'P2018-12-15'], 'RC-068; RC-398', False),  # G5: Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17; variante STT degradada em P2018-12-15); contagem canônica NÃO vem do "4" do doc-fonte
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)
@@ -2618,6 +2622,14 @@ RELACOES = [
     ("RC-755", "relaciona-se-a", "RC-166", "P2025-06-14b"),  # R-DC10 mentalma (método)
     ("RC-755", "relaciona-se-a", "RC-695", "P2025-06-14b"),  # R-DC11 ciência pessoal
     ("RC-755", "relaciona-se-a", "RC-094", "P2025-06-14b"),  # R-DC12 revelação cósmica
+    # --- F031 aplicação (05/09/2026): arestas C-i…C-vi assinadas no despacho ---
+    ("RC-092", "relaciona-se-a", "RC-755", "B016"),  # C-i: os QUATRO MÉTODOS de B016 = o currículo da escola no sistema de Capela (bloco na ficha RC-755)
+    ("RC-755", "ocorre-em", "RC-146", "P2022-03-26"),  # C-ii: «abriu a escola da decifração da realidade lá em ZAM»
+    ("RC-403", "relaciona-se-a", "RC-755", "P2021-05-15"),  # C-iii: «foi daqui que surgiu um colégio druídico» ↔ EDR (a ficha RC-403 já remetia «ver RC-755»)
+    ("RC-842", "relaciona-se-a", "RC-403", "P2021-05-15"),  # C-iv: milesianos → colégio
+    ("RC-398", "relaciona-se-a", "RC-842", "P2021-05-15"),  # C-iv: «Quando os toatas de Nanã entregaram isso pros milesianos»
+    ("RC-163", "variação", "RC-879", "P2025-06-14"),  # C-v: par sinônimo declarado pela fonte-mãe — lacuna DA BASE, zero custo de verificação
+    ("RC-259", "relaciona-se-a", "RC-755", "B016"),  # C-vi: Apolônio → Nuctemeron/taumaturgia, a 4ª via da escola
     ("RC-072", "relaciona-se-a", "RC-565", "P2026-08-04"),  # R-PC01
     ("RC-072", "relaciona-se-a", "RC-474", "P2026-08-04"),  # R-PC02
     ("RC-009", "relaciona-se-a", "RC-005", "P2026-08-04"),  # R-PC03

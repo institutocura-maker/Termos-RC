@@ -88,6 +88,7 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 | Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
 | Elm (Moros) | RC-454 | relaciona-se-a |
 | Norte Divino | RC-083 | sinônimo |
+| Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) |
 
 ## Blindagem
 

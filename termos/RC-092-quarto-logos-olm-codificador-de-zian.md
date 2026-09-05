@@ -261,3 +261,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Nota — Abaiuan (o destemor) — F031 aplicação (05/09/2026)
+
+- **[P2023-04-01b · A PONTE PARA O CONTRATO DA ESCOLA]** «na linguagem sânscrita, tem uma expressão chamada Abaiuan, que significa o destemor, não no sentido de medo disso ou daquilo, mas é o medo de ter ou não ter um resultado. Quando você age em Abaiuan, Jesus chamava isso de outra forma, dizendo: "Quando a mão direita não sabe o que a esquerda [faz]"» — grafia canônica da Base: **Abaiuan**. O doc-fonte F031 retransliterou «Abhaiyam»; sem código novo (Q-B/G4: nota nesta ficha).

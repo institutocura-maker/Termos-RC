@@ -48,3 +48,8 @@
 - **[P2023-12-03 · O PROCESSADOR VALIDOU]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das famílias Biodemo, quando chegou perto de 200 bilhões de seres com contaminados pelo vírus de Elosbel. Aí Sofia e os clones» (U0004) — O contágio de Lúcio passa a ter órgão e verbo: o processador da família Iel considerou a informação procedente e a família inteira foi contaminada instantaneamente. É a formulação mais compacta do que a Base chama de validação do que se pensa.
 
 ---
+
+## Nota de blindagem — F031 aplicação (05/09/2026): Yel Luzbel ≠ Len Mion
+
+- O doc-fonte F031 («1-EDR-O Livro», compilação terciária) afirmava **fusão** entre Yel Luzbel (Lúcifer, família Yel) e Len Mion (Satã, família Mion / Tau Ceti). A **própria fonte-mãe desmente**: «ia infectar o processador da família Iel e infectou» / «toda a família IEL se contaminou pelo vírus» — Yel é o **receptor contaminado** da infecção Luciferana, não o agente Satã. A Base mantém as fichas separadas (**RC-142** × **RC-074**); nada do doc foi propagado (ledger D-1).
+- **[P2021-06-26 · TIKUM]** o título da palestra-fonte desta ficha é «Shiva — A Reconstrução do Erro de Brahma e o **Tikum**» — grafia oral de **Tikkun** (conceito cabalístico do reparo; glossário 2025-08-03: «capacidade humana de "consertar" o DNA herdado de Javé e de reparar o próprio Criador e sua criação»). G6/Q-B: **sem código novo**; a nota vive nesta ficha e na RC-754.
