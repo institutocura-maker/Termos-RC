@@ -1,0 +1,62 @@
+{
+  "data": "2026-09-05",
+  "numero": 13,
+  "tipo": "PREPARATÓRIA — NENHUM ARQUIVO REMOVIDO NESTA ETAPA (despacho F030/Q-F030-F: 'preparar auditoria SHA-a-SHA'; exclusão física só com comando final do curador)",
+  "contexto": "Família F da Esteira de Consolidação: brutos em uploads_recepcao/ × cópias versionadas em consolidacoes/*/fonte.txt",
+  "regra": "um bruto só é APTO à remoção se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte) — política uploads_recepcao/README.md",
+  "arquivos": [
+    {
+      "arquivo": "22-GLOSSÁRIO.txt",
+      "sha256": "8968eab30fe5c68c4dfc434ab4ec5860174355da387464c379b03d05a1ca792a",
+      "bytes": 76695,
+      "nota_ciclo": "F022 — levantamento 03/09/2026 (base alterada pelo despacho 04/09: V2/V6/V9/V12 + 7 relações)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F022_22-glossario/fonte.txt",
+          "sha256": "8968eab30fe5c68c4dfc434ab4ec5860174355da387464c379b03d05a1ca792a",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true
+    },
+    {
+      "arquivo": "29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt",
+      "sha256": "e8274acc91ee1bbb89222b273389d82c00e4905ce0ffc2e0b125f1bf20db3476",
+      "bytes": 36866,
+      "nota_ciclo": "F029 — levantamento 04/09/2026 (ciclo DEVOLUTIVA; sem aplicação até este registro)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/29-PERSONAGENS/fonte.txt",
+          "sha256": "e8274acc91ee1bbb89222b273389d82c00e4905ce0ffc2e0b125f1bf20db3476",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true
+    },
+    {
+      "arquivo": "Colégio Druídico — Estudo Continuad.txt",
+      "sha256": "36b35d463cc41187a78f7c81fd2871278e1d201db4f7c63d84dfe08e4405c6ea",
+      "bytes": 41358,
+      "nota_ciclo": "F030 — ciclo CONCLUÍDO em APLICACAO 05/09/2026 (commit do levantamento 9006f8a + aplicação deste despacho)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F030_colegio-druidico/fonte.txt",
+          "sha256": "36b35d463cc41187a78f7c81fd2871278e1d201db4f7c63d84dfe08e4405c6ea",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true
+    },
+    {
+      "arquivo": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt",
+      "sha256": "7166a7b6ff06b242af4fda0e53d84422ae24ebeb030a0a316cc54b4e8e342820",
+      "bytes": 4945,
+      "nota_ciclo": "cobertura auditada em consolidacoes/…/VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md; SEM cópia byte a byte versionada",
+      "copias_versionadas": [],
+      "apto_para_remocao": false
+    }
+  ],
+  "removidos": 0,
+  "aptos_para_ordem_de_remocao": 3,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt permanece na caixa: auditoria de cobertura existe, mas não há cópia byte a byte versionada — não é apta à remoção sob a política vigente; curador pode ordenar arquivamento em consolidacoes/ como passo prévio."
+}

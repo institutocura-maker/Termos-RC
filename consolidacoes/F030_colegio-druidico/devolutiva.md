@@ -48,3 +48,28 @@
 **Contadores do ciclo (medidos, não lembrados):** 89 itens mapeados · 12 seções · ledger D-1…D-12 (7 abertas · 3 resolvidas-por-cotejo/não-propagadas · 2 por precedente/quarentena · 1 [incompleto]) · **Δ na base: 0** · fontes cotejadas byte a byte: B017 · B018 · B052 ( + B016/B031/B057/B060 via fichas).
 
 **Próximo passo:** despacho do curador sobre Q-F030-A…F; com B/C aprovados, o ciclo transita para `fase = DEVOLUTIVA→APLICACAO` (`altera_base=true`) e executa só o que estiver assinado aqui.
+
+---
+
+## 5. DEVOLUTIVA EXECUTADA — despacho do curador de 05/09/2026 e aplicação
+
+**Despacho:** Q-A ✅ · **Q-B = opção C** · **Q-C = sim-fila** · Q-D = radar apenas · **Q-E = fechar-assim** · Q-F = preparar auditoria (sem exclusão) · D-12 = navalha mantida + enriquecimento RC-398/RC-068 citando P2022-09-18. Vedações terminantes: F030 nunca ancora aspa, datação nova ou mitologia externa. **Registro lavrado:** [`DECISAO-DO-CURADOR.md`](DECISAO-DO-CURADOR.md).
+
+**O que foi aplicado (Δ medido, 05/09/2026):**
+
+| Peça | Δ |
+|---|---|
+| `ferramentas/dados_termos.py` | **RETIFICAÇÃO DA APLICAÇÃO:** o levantamento propusera fila nova (`RC-930 Benem`); o scan **nominal** na aplicação revelou **RC-032 «Benem»** (e RC-065 «Frota Norte») já cadastrados — criar RC-930 seria duplicação. Aplicado sobre o existente: **+0 termos · +3 relações** `relaciona-se-a` RC-032→RC-022/RC-058/RC-109 (cada comentário cita o trecho verbatim de B018, conferido) + relacionados da linha `RC-057; RC-065; RC-043; RC-022; RC-058; RC-109`; **fontes** de RC-398 e RC-068 += `P2022-09-18`. Verificação: `python3 ferramentas/dados_termos.py` → `OK: 929 termos, 1887 relações — dados válidos.` |
+| `termos/RC-398-thuata-de-dannan.md` | **B2** — seção «Ampliação — P2022-09-18 (as quatro relíquias…)»: aspa verbatim (U0002 · chars 876–1423), precisão mitográfica Dagda/Lugh/Nuada/Fál lida pela bússola F030, trava da navalha, datação «há 14.000 anos atrás» («20 mil/15 mil» não adotadas); linha `P2022-09-18` na tabela Fontes; data → 05/09/2026 |
+| `termos/RC-068-hiperborea.md` | **B2** — seção «Ampliação — P2022-09-18 (as relíquias da cultura dos hiperbórios…)»: ângulo geográfico (Norte afundando), consonância com as datas já registradas na ficha (P2017-10-14 e P2025-11-29), mesma trava; linha `P2022-09-18` na tabela Fontes; data → 05/09/2026 |
+| `termos/RC-403-colegiado-druidico.md` | **B1** — «Nota de convergência — cotejo F030»: tríptico 270M/230M/4M fecha ao pé da letra nos anchors RC-025/RC-109/RC-092; registrada como auditoria de leitura com a trava anti-pseudoconfirmação; **zero dados novos**; data → 05/09/2026 |
+| `termos/RC-437-joctan-e-faleg-filhos-de-heber.md` | **B3** — bullet na seção B052: aspa byte-exata da cena do mensageiro (p. 111; quebras da extração colapsadas) + registro da distorção do doc («neto de ___» vs **filho**; mensageiro como portador) + nota do versalete/capítulo «Os Magos do Norte»; data → 05/09/2026 |
+| `termos/RC-062-experiencia-gron.md` | linha do espelho "Benem" atualizada: de «**sem aresta** em RELACOES; **sem arquivo**» para as 3 arestas B018 aplicadas (ficha continua sem arquivo — fila); data → 05/09/2026 |
+| Espelhos | `indice-mestre.md` (929 linhas) · `base-terminologica.xlsx` (7 abas) · `base-terminologica-leitura.docx` (929/1887/102/623) regenerados pelos `ferramentas/build_*.py` |
+| `backups/REGISTRO-LIMPEZA-2026-09-05-13.json` | **Q-F030-F** — auditoria SHA-a-SHA PREPARATÓRIA da Família F (4 brutos × cópias versionadas); **nenhum arquivo removido**; exclusão física aguarda comando final do curador |
+
+**Portão verbatim (aspas novas):** 5/5 PASS — cada aspa conferida byte a byte contra o original correspondente (P2022-09-18, B052, e o trecho F030 citado como distorção conferido contra `fonte.txt`). Nenhuma aspa do F030 entrou em ficha como citação de fonte: aspas novas = fontes originais apenas.
+
+**O que o despacho MANDOU NÃO FAZER e não foi feito:** nenhuma ficha/código para as relíquias ou a Pedra de Scone; nenhuma data F030 (1976/3194/20 mil/15 mil/4 bi) no cadastro; nada de "Liguriano"/"Bohr"/"52 mitologias"; nenhuma peça fantasma para as Palestras 22/44; nenhum `rm` em `uploads_recepcao/`; **nenhum código duplicado** (a fila RC-930 projetada no levantamento foi abortada na aplicação ao encontrar RC-032 — regra anti-duplicação cumprida, com retificação registrada em D-5/mapeamento/DECISAO §4.1).
+
+**Contadores finais do ciclo:** 89 itens mapeados · ledger D-1…D-12 → **4 resolvidas pelo despacho (D-5*, D-6b, D-9, D-12)**, demais mantidas como não-propagadas/radar · **Δ na base: +0 termos, +3 relações, 5 fichas tocadas (4 ampliadas + RC-062 corrigida), 3 espelhos regenerados** · *D-5 fechada COM RETIFICAÇÃO do próprio levantamento · ciclo **CONCLUÍDO** em `fase = APLICACAO`.

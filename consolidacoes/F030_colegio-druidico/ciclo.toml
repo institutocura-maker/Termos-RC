@@ -16,6 +16,21 @@ natureza = "Compilação de 'itens de live' por aluna avançada (Daniela D. Ferr
 origem_primaria_presumida = "corpus Revelação Cósmica: B016 (O Quarto Logos), B026, B031, B057, B060, B017/B018/B039 (trilogia Terra Atlantis), B052 + palestras já processadas na Arca (P2017-10-14, P2021-05-15, P2022-03-26, P2021-12-04, P2022-09-18, P2024-11-03, P2020-04-25, P2023-12-03). As 'Referências da Palestra' dos slides apontam para séries do Grupo 4 IEEA ('Palestra 22 — O Codificador De Zion E A Escolas Dos Mistérios'; 'Palestra 44 — O Advento Da Superconsciência E A Técnica Mental Druuid') NÃO localizadas no acervo (radar R-1)."
 parente_documental = "linhagem das consolidações F022 (22-GLOSSÁRIO) e F029 (29-PERSONAGENS) — documento de terceiros refatorando o corpus Ellam; aqui com a particularidade de citar livros primários (B017/B018/B052) passíveis de cotejo byte a byte"
 
+# Regras (G1/G3 herdadas + desta rodada)
+tipo_processo = "CONSOLIDACAO"
+regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
+          "cotejo-com-fonte-primaria", "grafia-canonicas-na-base",
+          "fonte-de-terceiros-nao-propaga-atribuicao-sem-curadoria",
+          "cifras-do-refatorado-nao-sao-adotadas-sem-ancora (padrão F022-V2)",
+          "decisoes-homologadas-nao-sao-reabertas (navalha P2022-09-18: relíquias/Pedra de Scone sem código)",
+          "politica-quarentena-entre-ecossistemas (Bohr/pai de Odin: mitologia externa não-codificada, precedente Q-F029-D)"]
+
+# Estado do ciclo
+fase = "APLICACAO"             # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
+altera_base = true             # despacho 05/09/2026 autorizou: dados_termos.py + 4 fichas + espelhos
+status = "concluído"
+data_aplicacao = "2026-09-05"
+
 # Cotejo primário executado nesta rodada (2026-09-05, só-leitura)
 [cotejo_primario]
 metodo = "busca normalizada (case/acento-insensível) dos trechos citados nos original.txt versionados em livros/CONCLUIDOS/ + verificação das cifras contra fichas em termos/ e trechos de ciclos em ciclos/"
@@ -28,22 +43,26 @@ resultados = [
   "Citação de abertura do Codificador («Conhecido na espiritualidade como o Quarto Logos...») — NÃO ocorre verbatim no corpus; os termos são ancorados (B060: 'ser Pashvnaj do gênero Adhy de Perperion'; B014: 'gênero Adhy'; RC-087/RC-011), mas a formulação não é localizável (D-8)",
 ]
 
-# Regras (G1/G3 herdadas + desta rodada)
-tipo_processo = "CONSOLIDACAO"
-regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
-          "cotejo-com-fonte-primaria", "grafia-canonicas-na-base",
-          "fonte-de-terceiros-nao-propaga-atribuicao-sem-curadoria",
-          "cifras-do-refatorado-nao-sao-adotadas-sem-ancora (padrão F022-V2)",
-          "decisoes-homologadas-nao-sao-reabertas (navalha P2022-09-18: relíquias/Pedra de Scone sem código)",
-          "politica-quarentena-entre-ecossistemas (Bohr/pai de Odin: mitologia externa não-codificada, precedente Q-F029-D)"]
+# Decisões do curador (despacho de 05/09/2026 — registro lavrado em DECISAO-DO-CURADOR.md)
+[decisoes-curador]
+"Q-F030-A" = "sigla F030 homologada; ciclo registrado na caixa da Família F"
+"Q-F030-B" = "opção C: enriquecimentos B1-B3 ancorados EXCLUSIVAMENTE em fontes originais (P2022-09-18/B017/B052); F030 só como contexto de convergência"
+"Q-F030-C" = "Benem na fila, ficha=False, fonte estrita B018 — executado sobre o RC-032 EXISTENTE (retificação anti-duplicação; RC-930 nunca criado)"
+"Q-F030-D" = "radar apenas (Palestras 22/44 Grupo 4 IEEA); nenhuma peça fantasma"
+"Q-F030-E" = "fechar-assim: lacuna [TEXTO INCOMPLETO] declarada formalmente"
+"Q-F030-F" = "auditoria SHA-a-SHA preparatória em backups/; exclusão física aguarda comando final"
+"D-12"     = "navalha P2022-09-18 mantida; enriquecer RC-398/RC-068 citando P2022-09-18; nenhuma ficha nova para artefatos"
+"veda_o"   = "TERMINANTE: F030 não ancora aspa, datação nova nem mitologia externa (1976/3194/Liguriano/Bohr/52)"
 
-# Decisões do curador (a registrar)
-decisoes = {}
 
-# Estado do ciclo
-fase = "LEVANTAMENTO"           # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
-altera_base = false             # levantamento NÃO altera dados_termos.py nem fichas
-status = "em_andamento"
+[aplicacao]
+delta = "+0 termos (fila RC-930 descartada por anti-duplicação — Benem já era RC-032) · +3 relações 'relaciona-se-a' (RC-032→RC-022/RC-058/RC-109, B018 verbatim) · relacionados de RC-032 atualizados · fontes de RC-398 e RC-068 += P2022-09-18"
+fichas_alteradas = ["termos/RC-398-thuata-de-dannan.md", "termos/RC-068-hiperborea.md", "termos/RC-403-colegiado-druidico.md", "termos/RC-437-joctan-e-faleg-filhos-de-heber.md", "termos/RC-062-experiencia-gron.md"]
+retificacao = "levantamento propusera código novo p/ Benem (D-5); scan nominal na aplicação achou RC-032/RC-065 já cadastrados — aplicação reforça o existente; D-5 e mapeamento corrigidos no lugar; ver DECISAO-DO-CURADOR.md §4.1"
+aspas_ancoradas = ["P2022-09-18 U0002 chars 876-1423 (RC-398/RC-068)", "B052 p.111 cena do mensageiro (RC-437)"]
+portao_verbatim = "5/5 PASS (2026-09-05)"
+espelhos = "indice-mestre.md (929) · base-terminologica.xlsx (7 abas) · base-terminologica-leitura.docx (929/1887/102/623) reconstituídos por ferramentas/build_*.py"
+auditoria_f030f = "backups/REGISTRO-LIMPEZA-2026-09-05-13.json (preparatória — nenhum bruto removido)"
 
 # Recebimento (política uploads_recepcao)
 [ingresso]

@@ -5,7 +5,7 @@
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.3 Localidades terrestres |
 | **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 
@@ -56,6 +56,11 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 - **[A lendária Hiperbórea e as cidades do Polo Norte] (U0003)** «E essas terras estavam entre as terras que hoje pode ser considerado pelos terráqueos como sendo a lendária hiperbória.» — "O que é a hiperbória? Ou o continente tule. Seja na mitologia escandinava, seja na mitologia nórdica, seja na mitologia celta... Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás. Falhas fírias, górias, múrias, eloxia ou exiloia" (U0003: «Aonde hoje ao Polo Norte existiam terras e ali as cidades adas dos hiperbórios existiam há cerca de 14.000 anos atrás.») — "há cerca de 14.000 anos, devido um cataclisma, simplesmente foram engolidas pelo oceano. Só que os sobreviventes desceram do Polo Norte, foram para onde hoje é o Alas. foram paraa Sibéria, na Rússia, foram pro norte da Escócia, foram pro norte da Irlanda"; "nos últimos 20.000 anos o hiperbório terreno era o lugar mais chique de toda a criação de Brama ou de Javer... Apolo adorava sair do Olimpo e e conviver com os hiperbórios, porque os pessoal do Olímpio era tudo um bando de demente".
 
 
+## Ampliação — P2022-09-18 (as relíquias da cultura dos hiperbórios; cotejo F030, 2026-09-05)
+
+- **[os quatro objetos sagrados levados do hiperbório] (U0002 · chars 876–1113)** «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei Lug, a espada do rei doado e o pedra falante.» — o espólio é **hiperbóreo por origem**: as quatro relíquias (Caldeirão de Dagda · Lança de Lugh · Espada de Nuada · Pedra do Destino/Fál, com a precisão mitográfica lida pela bússola F030 — detalhe na ficha RC-398) partem com os Tuatha quando o Norte afunda e fundam a "tradição que deu origem à mitologia céltica". A datação do episódio — **«há 14.000 anos atrás»** — casa com a entrada já registrada nesta ficha («a ida da Irlanda foi quando as terras hiperbolianas se ferraram 14.000 anos atrás», P2017-10-14) e com «~11–14 mil anos» (P2025-11-29); as datas "20 mil" (corpo) e "15 mil" (slide) do refatorado F030 **não foram adotadas** (ledger D-9).
+- **Trava (navalha mantida — decisão homologada em 05/09/2026):** nenhum código novo para as relíquias/Pedra de Scone; F030 não é fonte de citação.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -67,6 +72,7 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra/STT) | citação verbatim; paráfrase |
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-11-29 | bloco 5 (6 etapas); pergunta portais (norte sagrado) | palestra/STT pré-curada |
+| P2022-09-18 | bloco das relíquias hiperbóreas (U0002) | U0002 | transcrição automatizada; citação (vínculo aberto no cotejo F030, 05/09/2026) |
 
 
 

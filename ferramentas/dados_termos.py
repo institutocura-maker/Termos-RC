@@ -113,7 +113,7 @@ TERMOS = [
     ("RC-029", "Atlans", LOK_TER[0], LOK_TER[1], P, ["B031"], "RC-030; RC-010; RC-028", False),
     ("RC-030", "Atlantes", SER_DEC[0], SER_DEC[1], P, ["B031"], "RC-010; RC-028; RC-029; RC-022; RC-023", False),
     ("RC-031", "Aya e Aye", SER_ANJ[0], SER_ANJ[1], 'em análise', ["B031", "B024", "B044", "B061", "P2021-05-15", "P2018-12-16"], "RC-019; RC-009; RC-001; RC-097", True),
-    ("RC-032", "Benem", LOK_TER[0], LOK_TER[1], P, ["B031", "B017", "B018", "B061"], "RC-057; RC-065; RC-043", False),
+    ("RC-032", "Benem", LOK_TER[0], LOK_TER[1], P, ["B031", "B017", "B018", "B061"], "RC-057; RC-065; RC-043; RC-022; RC-058; RC-109", False),  # F030/aplicação 05-09: arestas B018 acrescentadas (era "sem aresta" — ficha RC-062); anti-duplicação: LEVANTAMENTO propusera código novo (RC-930) — varrido pelo scan de nomes em 05/09, retificado no ledger D-5
     ("RC-033", "Bhuloka", TER_SAN[0], TER_SAN[1], P, ['B031', 'P2025-03-15'], 'RC-107; RC-034; RC-038', False),
     ("RC-034", "Big Bang", COS_COG[0], COS_COG[1], P, ['B031', 'B024', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2023-12-03'], 'RC-033; RC-107; RC-106', False),
     ("RC-035", "Bilatérios", SER_HIB[0], SER_HIB[1], 'em análise', ['B031', 'P2019-08-25', 'P2024-05-04', 'P2025-02-16', 'P2024-04-13', 'P2021-05-15', 'P2020-04-25', 'P2023-12-03', "P2022-05-07"], 'RC-093; RC-036; RC-631', True),
@@ -149,7 +149,7 @@ TERMOS = [
     ("RC-065", "Frota Norte", GEN_EXT[0], GEN_EXT[1], P, ["B031", "B017", "B018", "B061"], "RC-032; RC-043; RC-109", False),
     ("RC-066", "Genos", TER_SAN[0], TER_SAN[1], P, ["B031"], "RC-077; RC-038; RC-064; RC-065", False),
     ("RC-067", "Gron Mion", LOK_PLA[0], LOK_PLA[1], P, ["B031"], "RC-103; RC-074; RC-136", False),
-    ("RC-068", "Hiperbórea", LOK_TER[0], LOK_TER[1], 'em análise', ["B031", "B023", "B052", "B061", 'P2024-04-13', 'P2025-11-29', "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2022-10-01", "P2022-09-25"], "RC-083; RC-062; RC-120; RC-071", True),
+    ("RC-068", "Hiperbórea", LOK_TER[0], LOK_TER[1], 'em análise', ["B031", "B023", "B052", "B061", 'P2024-04-13', 'P2025-11-29', "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2022-10-01", "P2022-09-25", "P2022-09-18"], "RC-083; RC-062; RC-120; RC-071", True),
     ("RC-069", "Ion Crom", SER_EXT[0], SER_EXT[1], P, ["B031"], "RC-136; RC-018", False),
     ("RC-070", "Isolamento Cósmico", EVE_GUE[0], EVE_GUE[1], 'em análise', ['B031', 'B033', 'B003', 'B025', 'B026', 'B005', 'P2022-12-17', 'P2024-11-30', 'P2024-07-13', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], 'RC-002; RC-005; RC-009; RC-003; RC-007; RC-105', True),
     ("RC-071", "Jan Val Ellam (Rogério de Almeida Freitas)", SER_HUM[0], SER_HUM[1], 'verificado', ['B031', 'B016', 'B006', 'B027', 'B034', 'B036', 'B060', 'P2021-12-04', 'P2025-06-26', 'P2023-12-03'], "RC-094; RC-083; RC-095; RC-120; RC-617; RC-659", True),
@@ -524,7 +524,7 @@ TERMOS = [
     ("RC-395", "Ragnarok em Marte", EVE_CAT[0], EVE_CAT[1], 'verificado', ['B050', 'B060', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-03-02', 'P2025-11-29', 'P2023-08-05', 'P2023-05-20', 'P2023-04-01', 'P2020-08-08', 'P2021-03-13', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', 'P2023-12-03', "P2024-06-16", "P2022-12-03", "P2026-03-21"], 'RC-145; RC-102; RC-300; RC-094; RC-471; RC-694; RC-611; RC-470; RC-730; RC-742; RC-454; RC-467', True),
     ("RC-396", "Kvasir e Freya (Vanir/Aesir)", SER_DEC[0], SER_DEC[1], 'verificado', ['B050', 'B060', 'P2024-11-30', 'P2024-03-02', 'P2020-08-08'], 'RC-395; RC-094; RC-049; RC-454; RC-611', True),  # ficha materializada em termos/
     ("RC-397", "Tirthankaras (Rishabh Dev, Jina Mahavira)", SER_HUM[0], SER_HUM[1], P, ['B050', 'P2025-10-25', 'P2025-02-16', 'P2024-02-03'], 'RC-094; RC-099; RC-655; RC-697', False),
-    ("RC-398", "Thuata de Dannan", SER_DEC[0], SER_DEC[1], 'verificado', ["B050", "B060", 'P2024-04-13', 'P2024-02-03', "P2017-10-14"], "RC-094; RC-373; RC-068", True),
+    ("RC-398", "Thuata de Dannan", SER_DEC[0], SER_DEC[1], 'verificado', ["B050", "B060", 'P2024-04-13', 'P2024-02-03', "P2017-10-14", "P2022-09-18"], "RC-094; RC-373; RC-068", True),
     ("RC-399", "Dwarka (submersa)", LOK_TER[0], LOK_TER[1], P, ["B050"], "RC-094; RC-010", False),
     ("RC-400", "Foz Côa / FOXP2 (símbolos)", PRO_BIO[0], PRO_BIO[1], 'em análise', ['B050', 'B061', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-08-03', "P2022-09-17", "P2022-11-19", "P2025-12-14"], 'RC-099; RC-094; RC-577; RC-614; RC-619; RC-710', True),
     ("RC-401", "Família Demolle (biodemos)", GEN_EXT[0], GEN_EXT[1], P, ["B050", "P2021-05-15"], "RC-036; RC-094", False),
@@ -3117,6 +3117,9 @@ RELACOES = [
     ('RC-929', 'parte-de', 'RC-801', 'P2012-02-19'),
     ('RC-928', 'encarnação-posterior-de', 'RC-927', 'B060'),
     ('RC-929', 'encarnação-posterior-de', 'RC-928', 'B031'),
+    ('RC-032', 'relaciona-se-a', 'RC-022', 'B018'),  # F030/Q-C retificado 05/09/2026 (era proposto RC-930 — duplicaria RC-032): "As duas bases — Benem e Antlar —, em torno das quais os 'biodemos rebelados' se congregaram" (B018)
+    ('RC-032', 'relaciona-se-a', 'RC-058', 'B018'),  # F030/Q-C: "força-tarefa ... denominada como sendo a Frota Norte, em torno da nave 'espheron'" (B018)
+    ('RC-032', 'relaciona-se-a', 'RC-109', 'B018'),  # F030/Q-C: "os 126 Val despertos de Benem" (B018)
 
 ]
 
