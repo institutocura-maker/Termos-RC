@@ -1,0 +1,38 @@
+# Ciclo F033 — «Mohen So – O Livro» (rede RC · esteira Family F)
+id = "F033"
+titulo = "Mohen So – O Livro"
+recebido = "2026-09-05 (commit do curador ddcf3e4 na branch arena/01a071c8-termos-rc)"
+fase = "DEVOLUTIVA"
+status = "aguardando_despacho"
+altera_base = false
+
+[fonte]
+arquivo = "uploads_recepcao/11 - Mohen So – O Livro.txt"
+copia_canonica = "consolidacoes/F033_mohen-so-livro/fonte.txt"
+sha256 = "5e1c599c1a1ec463a96bd1ec6eb49b88c7ef7c61ac10daf0bcc7e8fedb2eabe4"
+bytes = 96559
+linhas = 302
+formato = "texto CRLF · série-espelho «— O Livro» (v.3; após EDR=F031 e Moros=F032)"
+
+[cotejo_primario]
+metodo = "corpus normalizado 1.767 arquivos (apostilas+livros+materiais_externos, minusculo sem acentos) · sondas com fronteira numerica · auditoria das 727 pares de aspas"
+resultado = "36/36 alegacoes-nucleo ancoradas · 12/400 citacoes >=8 palavras verbatim (3%) — scare-quotes, nao citacao · zero identidades fabricadas · guarda B060 «nome ??» APROVADA (diferenca decisiva vs F032)"
+ancoras = "P2025-08-02 · P2025-08-03 · P2024-11-30 · P2024-05-04 · P2025-08-01 · P2021-01-23 · P2019-08-25 · P2021-12-04 · B001 · B011 · B013 · B014 · B016 · B019 · B022 · B024 · B031 · B036 · B039 · B041 · B042 · B057"
+
+[documentos]
+mapeamento = "consolidacoes/F033_mohen-so-livro/mapeamento.md (36 itens ancorados + auditoria de aspas + anti-dup + tensoes internas do corpus)"
+divergencias = "consolidacoes/F033_mohen-so-livro/divergencias.md (6 abertas · 7 resolvidas de oficio · 0 fechadas por despacho)"
+devolutiva = "consolidacoes/F033_mohen-so-livro/devolutiva.md (Q-A homologacao · Q-B seis notas de ficha RC-081/092/154/454/535/282 · Q-C aresta RC-081 gera RC-064 · Q-D ledger · Q-E regime · Q-F limpeza n.16)"
+
+[regras]
+a = "nenhum compilador substitui a fonte primaria (precedente F032 Q-D; as notas Q-B grafam pelas apostilas, nao pelo doc)"
+b = "alerta da esteira vigente: validar listas contra B060 — desta vez APROVADO de saida"
+c = "exclusao fisica so com registro JSON previo + SHA re-conferido imediatamente antes do rm"
+d = "fichas de fila sem .md — por isso a nota de Holos vai no RC-092 e nao no RC-163 (fila)"
+e = "sondas numericas com fronteira (^|[^,0-9]) — licao C-v aplicada (3,8 bi sem artefato de 13,8)"
+f = "TOML validado por tomllib ANTES da gravacao em disco — licao da aplicação do F032 (chave ANCORA renomeada de «âncoras» para ASCII)"
+
+[estado_base]
+termos = 933
+relacoes = 1897
+validacao = "OK (python3 ferramentas/dados_termos.py) — inalterada nesta fase"
