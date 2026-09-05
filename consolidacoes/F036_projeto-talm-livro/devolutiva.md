@@ -2,6 +2,9 @@
 
 Documento: «Projeto TALM – O Livro» · SHA-256 `b9ad623e3b6fd27e9057c1cf04c63a4f085b9fb802b12fae1c4193eae8f7857e` · 121.388 B · 338 linhas · cópia canônica `consolidacoes/F036_projeto-talm-livro/fonte.txt` (byte-idêntica ao bruto nº 14).
 Base **NÃO tocada nesta fase** (933 termos · 1898 relações · validação OK).
+## §0 · Despacho do curador (05/09/2026) — APLICAÇÃO EXECUTADA
+
+Despacho Q-F036-A…F recebido e aplicado na íntegra: F036 homologado **documento-FONTE do cluster P2025-08-02**; nota única (sem blindagem) na **RC-091** com B050 l. 82 verbatim e `[REVISAR]` da l. 65 **mantido aberto por decisão expressa**; **RC-092 intocada** (Olm não-encerrável); ledger fechou biodemos ~900 mi e datas EC; supressões do andaime averbadas como formato; **Registro nº 19** com conferência tripla do SHA (travessão no nome EXATO) e `git rm` do bruto nº 14. Ver `DECISAO-DO-CURADOR.md` neste dossiê.
 
 ## Balanço da investigação
 

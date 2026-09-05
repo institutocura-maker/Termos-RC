@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-05",
+  "numero": 19,
+  "tipo": "EXECUÇÃO — EXCLUSÃO FÍSICA AUTORIZADA (despacho F036/Q-F036-F, 05/09/2026: «Emita o Registro nº 19 declarando o F036 como o 9º apto da Família F. Realize a conferência tripla do SHA, assegurando-se de utilizar o travessão no nome («TALM – O Livro»), e execute o git rm do bruto nº 14 da caixa de recepção.»)",
+  "contexto": "Família F: F036 é o 9º apto (F022/F029/F030/F031 no nº 14; F032 no nº 15; F033 no nº 16; F034 no nº 17; F035 no nº 18); homologado como «documento-FONTE do cluster P2025-08-02» — corpo byte-a-byte igual ao original.txt da apostila (diff = só o wrapper de cabeçalho, 6 linhas); ciclo de VERIFICAÇÃO com saldo doutrinário zero (lucros: cotejo B050 homologando TALM 7,7 bi, revalidando Mohen So 7,8 bi e Nidana 3,8 bi; Olm 6–7 bi certificado como não-encerrável)",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte), re-conferida imediatamente antes do rm — política uploads_recepcao/README.md; conferência TRIPLA (sha256sum do bruto · hashlib da cópia · stream em blocos do bruto); nome do bruto grafado EXATO, com travessão: «14 - Projeto TALM – O Livro.txt» (distinção filológica averbada na devolutiva: o F035 usava hífen, este usa travessão)",
+  "arquivos": [
+    {
+      "arquivo": "14 - Projeto TALM – O Livro.txt",
+      "sha256": "b9ad623e3b6fd27e9057c1cf04c63a4f085b9fb802b12fae1c4193eae8f7857e",
+      "bytes": 121388,
+      "nota_ciclo": "F036 — levantamento+devolutiva+aplicação 05/09/2026 (despacho Q-F036-A…F: homologado documento-FONTE; nota única em RC-091 com B050 l. 82 verbatim — terceiro ponto cronológico (7,7 bi) averbado SEM encerrar o [REVISAR] da l. 65, cuja discrepância interna do B024 (8,1 × 7,5) segue evidente por decisão expressa; RC-092 intocada, flag Olm mantida; ledger fecha biodemos ~900 mi (P2022-03-26/B057/RC-009-RC-442) e datas EC 2012/2015–2018/2017–2018; as 47 supressões do andaime pedagógico averbadas como decisão de formato; auditoria: 250/250 linhas ≥80c e 393/393 citações verbatim — recorde da série)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F036_projeto-talm-livro/fonte.txt",
+          "sha256": "b9ad623e3b6fd27e9057c1cf04c63a4f085b9fb802b12fae1c4193eae8f7857e",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 1,
+  "aptos_para_ordem_de_remocao": 1,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt permanece na caixa — sem cópia byte a byte versionada; não-apta (estado inalterado desde o registro nº 13)."
+}

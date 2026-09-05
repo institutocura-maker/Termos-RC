@@ -1,39 +1,60 @@
-# ciclo.toml — F036 «Projeto TALM – O Livro» (bruto nº 14)
+# ciclo.toml — F036 «Projeto TALM – O Livro» (bruto nº 14 · Família F · documento-FONTE do cluster P2025-08-02)
 id = "F036"
 titulo = "Projeto TALM – O Livro"
-arquivo_bruto = "uploads_recepcao/14 - Projeto TALM – O Livro.txt"
-fonte_canonica = "consolidacoes/F036_projeto-talm-livro/fonte.txt"
+recebido = "2026-09-05 (commit do curador f88f554 na branch arena/01a071c8-termos-rc · bruto uploads_recepcao/14)"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+
+[fonte]
+arquivo = "uploads_recepcao/14 - Projeto TALM – O Livro.txt"
+copia_canonica = "consolidacoes/F036_projeto-talm-livro/fonte.txt"
 sha256 = "b9ad623e3b6fd27e9057c1cf04c63a4f085b9fb802b12fae1c4193eae8f7857e"
 bytes = 121388
 linhas = 338
-famiglia = "F"
-fase = "DEVOLUTIVA"
-data_abertura = "2026-09-05"
-altera_base = false
-decisoes_pendentes = ["Q-A", "Q-B", "Q-C", "Q-D", "Q-E", "Q-F"]
+formato = "texto · documento-FONTE do cluster P2025-08-02 (corpo byte-a-byte igual ao original.txt da apostila; diff = 6 linhas do wrapper de cabeçalho)"
 
 [auditoria]
 linhas_ge80c = 250
 verbatim_vs_original_02 = "250/250 (100%)"
-verbatim_vs_apostila_02 = "203/250 (81%) — as 47 ausentes são o andaime pedagógico dos capítulos (supressão de formato; ver mapeamento §5)"
-citacoes_intra_linha = "393/393 (100%) — melhor índice da série"
+verbatim_vs_apostila_02 = "203/250 (81%) — as 47 ausentes são o andaime pedagógico dos capítulos (supressão de formato; mapeamento §5 / despacho Q-E)"
+citacoes_intra_linha = "393/393 (100%) — recorde da série"
 numeros_sem_par = "somente numeração de capítulos (1–11; 9.1–9.3); nada doutrinário"
 termos_novos = 0
 relacoes_novas = 0
-relacao_com_corpus = "documento-FONTE do cluster P2025-08-02: corpo byte-a-byte igual ao original.txt (diff = 6 linhas de cabeçalho)"
 
 [cotejo_b050]
-talm = "CONFERIDO — B050 original.txt l. 82: «[ 7,700,000,000 a.p.] “Início” do projeto Talm. (7,7 bilhões a.p.)»; converge com a faixa 7,5–7,7 da curadoria 2025"
+talm = "CONFERIDO — B050 original.txt l. 82: «[ 7,700,000,000 a.p.] (trilha A, y=1724) “Início” do projeto Talm. (7,7 bilhões a.p.)»; converge com a faixa 7,5–7,7 da curadoria 2025"
 corolarios = "B050 l. 81 Mohen So/Fenvans 7,8 bi (revalida âncora RC-064 do F034) · l. 94 Nidana «molécula-mãe» 3,8 bi (compatível com ~4 bi da refatorada)"
-olm = "NÃO ENCERRÁVEL — B050 silente; tensão curadoria 2025 («6–7 bi») vs P2020-07-11 («ficou fora 5–6 bi; mergulhou com o TALM»); flag RC-092 l. 51 mantida"
-datas_ec = "2012/2015–2018/2017–2018 conferidas por inadstrição de alçada do mapa + âncora ART/B022; item fechado no ledger"
-biodemos = "~900 mi fechável: P2022-03-26 + P2020-04-25 + B057 p. 21 (já lavrado RC-009/RC-442)"
+olm = "NÃO ENCERRÁVEL — B050 silente; tensão curadoria 2025 («6–7 bi») vs P2020-07-11 («ficou fora 5–6 bi; mergulhou com o TALM»); flag RC-092 l. 51 mantida (despacho Q-C)"
+datas_ec = "2012/2015–2018/2017–2018 fechadas por inadstrição de alçada do mapa + âncora ART/B022 (despacho Q-D)"
+biodemos = "~900 mi fechada: P2022-03-26 + P2020-04-25 + B057 p. 21 (RC-009/RC-442) (despacho Q-D)"
 sophia_autor_apocalipse = "fora de jurisdição — segue sob despacho F034-Q-C (REVISAR mantido)"
 
-[propostas]
-q_a = "homologar F036 como documento-FONTE da série (ciclo de VERIFICAÇÃO; saldo doutrinário zero)"
-q_b = "única ficha candidata: nota sem blindagem em RC-091 l. 65 averbando o terceiro ponto B050 (7,7 bi) na discrepância interna do B024 (8,1 × 7,5); encerrar ou manter o REVISAR é decisão do curador"
-q_c = "RC-092 (Olm): manter flag; nada na ficha (recomendação do executor)"
-q_d = "encerramentos de ledger: TALM, biodemos, datas EC (itens da lista DOSSIE l. 86)"
-q_e = "47 supressões = formato, averbado; nenhuma equação nova a rejeitar"
-q_f = "pós-despacho: Registro nº 19 + re-conferência do SHA antes do git rm + linha F036 no README; nome do bruto usa TRAVESSÃO (TALM – O Livro)"
+[regras]
+a = "documento-fonte também passa pelo rito: a repassada confere o que o ciclo de 2025 lavrou, inclusive a lista de incertezas do próprio DOSSIE"
+b = "notas de ficha grafam EXATAMENTE a âncora primária (F033-QB) — a nota Q-F036-B cita B050 l. 82 byte a byte (assert verificado em execução)"
+c = "REVISAR que o despacho manda manter fica aberto e assim anotado na própria nota (Q-F036-B: «discrepância interna dos capítulos do B024 continua evidente») — averbação sem blindagem, nenhuma outra ficha movida"
+d = "exclusão física do bruto só com Registro nº 19 + SHA re-conferido em três vias imediatamente antes do rm (modelo nº 17/18); nome do bruto grafado com travessão: «14 - Projeto TALM – O Livro.txt»"
+e = "conferências negativas também lavram: B050 silente para Olm é resultado, não vacilo (evita nova caça ao mapa)"
+f = "TOML validado por tomllib ANTES da gravacao; chaves ASCII"
+
+[estado_base]
+termos = 933
+relacoes = 1898
+validacao = "OK (python3 ferramentas/dados_termos.py) — única alteração: nota RC-091; nenhum termo/relação/status movido"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F036-A…F aplicado na íntegra; nada além do assinado; base inviolada exceto a nota de RC-091"
+delta = "TERMOS 933 (inalterado) · RELACOES 1898 (inalterado) · fichas: RC-091 somente (nota «terceiro ponto cronológico em B050», l. 82 verbatim, [REVISAR] da l. 65 MANTIDO)"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relacoes; zero orfas novas; STATUS inalterados; espelhos consolidados (indice-mestre · xlsx · docx)"
+ledger = "Q-D: biodemos ~900 mi e datas EC 2012/2015–2018/2017–2018 fechadas; Q-E: as 47 supressões = decisão de formato da curadoria 2025 (não censura doutrinária), averbado para auditorias futuras; Q-C: RC-092 intocada; F036 encerra com 0 abertas e as averbações de V-1…V-7"
+limpeza = "backups/REGISTRO-LIMPEZA-2026-09-05-19.json: 1 removido (14 - Projeto TALM – O Livro.txt) após conferência tripla do SHA b9ad623e…; cópia canônica em consolidacoes/F036_projeto-talm-livro/fonte.txt"
+
+[decisoes]
+q_a = "APROVADO — F036 homologado documento-FONTE (ciclo de VERIFICAÇÃO; citabilidade do material = ART-2025-08-02)"
+q_b = "APROVADO — nota sem blindagem em RC-091 com B050 l. 82 verbatim; [REVISAR] da l. 65 mantido aberto por decisão expressa"
+q_c = "RC-092 intocada; flag da l. 51 permanece (B050 silente sobre Olm)"
+q_d = "AVERBADO — ledger fecha biodemos ~900 mi e datas EC (fontes diversas do mapa); nenhuma ficha movida"
+q_e = "AVERBADO — supressões das 47 linhas = formato; taxonomia Nidana ≠ TALM permanece"
+q_f = "EXECUTADO — Registro nº 19 (9º apto da Família F); conferência tripla do SHA; git rm do bruto 14; README atualizado"

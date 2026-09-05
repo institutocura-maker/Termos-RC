@@ -30,6 +30,13 @@ Todas são o andaime «Capítulo N: Descreveremos…» (ver mapeamento §5). Cad
 
 ART-2025-08-02 já lavrara tudo (RC-091 + ~15 ampliações + RC-771…777 + glossários espelhados nos F034/F035). Nenhum verbete do glossário do doc exige ficha nova; «Codificador de Zion» é a variante sinônima assentada (Zian↔Zion, F030-era). **0 termos · 0 relações.**
 
-## Encerramento (aguarda despacho — Q-A…Q-F na devolutiva)
+## Encerramento (DESPACHADO Q-F036-A…F, 05/09/2026 — ver DECISAO-DO-CURADOR.md)
 
-Proposta de saldo: 0 termos · 0 relações · no máximo 1 nota de ficha (RC-091, V-2, sem blindagem) · ledger com 7 averbações. Se o despacho negar V-2, o F036 encerra com Δ zero absoluto.
+- **Q-A** homologado: F036 = documento-FONTE (ciclo de VERIFICAÇÃO, saldo doutrinário zero; citabilidade = ART-2025-08-02).
+- **Q-B** aplicado: nota sem blindagem em RC-091 (B050 l. 82 verbatim, âncora conferida byte a byte em execução); o `[REVISAR]` da l. 65 fica **oficialmente mantido aberto** — a discrepância interna dos capítulos do B024 permanece evidente para futuros pesquisadores.
+- **Q-C** RC-092 intocada: nenhuma nota aplicada; a flag da l. 51 permanece (B050 silente sobre Olm; a tensão temporal persiste no corpus).
+- **Q-D** fechadas no ledger: biodemos ~900 mi (P2022-03-26/P2020-04-25/B057-RC-009/RC-442) e datas EC 2012/2015–2018/2017–2018 (material curado; fora da alçada do mapa). Nenhuma ficha movida por estes itens.
+- **Q-E** averbado: a exclusão das 47 linhas pedagógicas pela curadoria de 2025 foi **decisão de formato, não censura doutrinária** — registro para orientar futuras auditorias; a taxonomia (Nidana ≠ TALM) mantém-se rigorosamente como está.
+- **Q-F** executado: Registro nº 19 (`backups/REGISTRO-LIMPEZA-2026-09-05-19.json`), F036 = **9º apto da Família F**; conferência tripla do SHA `b9ad623e…`; `git rm` do bruto nº 14 (nome com travessão, grafado EXATO); README da caixa atualizado.
+
+Saldo final: **0 termos · 0 relações · 1 ficha tocada (RC-091, nota de averbação) · ledger F036 com 0 abertas e 7 averbações (V-1…V-7)** · espelhos consolidados · base 933/1898 validada OK.

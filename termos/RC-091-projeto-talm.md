@@ -155,3 +155,7 @@ O Projeto Talm é apresentado como transferência do código plasmático Nidana 
 - **[P2025-07-18 · U00012–U00016]** O Projeto Talm é explicitamente mencionado como o programa que trouxe “o código da vida do universo antimaterial para o material”. No arco narrativo, a coordenação é atribuída a **Morren So**.
 - **Cruzamento estrutural:** esta nota deve ser lida junto da ampliação de RC-454 e da descrição dos três Fornos Replicadores em RC-771. Não altera a definição, o status ou a contagem de códigos.
 - **Quarentena:** transferência de código, universo antimaterial/material e microinstantes são linguagem cosmológica do expositor; não são biologia, física ou engenharia demonstradas.
+## Nota — terceiro ponto cronológico em B050: `[REVISAR]` da l. 65 MANTIDO — F036 aplicação (05/09/2026)
+
+- **[B050 · original.txt, l. 82 — cotejo F036, por despacho Q-F036-B de 05/09/2026]** «[ 7,700,000,000 a.p.] (trilha A, y=1724) "Início" do projeto Talm. (7,7 bilhões a.p.)» — o mapa das eras crava 7,7 bi entre as duas marcações do B024 («~8,1 bi» cap. 16 × «~7,5 bi» cap. 12, l. 65 desta ficha) e converge com a faixa da curadoria 2025 (l. 50 desta ficha: «elaborado há aproximadamente 7,5 a 7,7 bilhões de anos»).
+- **Estado do `[REVISAR]` (l. 65): MANTIDO ABERTO, por decisão expressa do despacho** — a discrepância interna dos capítulos do B024 continua evidente para futuros pesquisadores; o B050 é marco convergente, não árbitro da contagem interna do livro.
