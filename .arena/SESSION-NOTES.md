@@ -1,11 +1,13 @@
-# Notas de sessão (arena/01a071c8-termos-rc) — era pós-PAUSA
+# Notas de sessão (arena/01a071c8-termos-rc) — MUTIRÃO em andamento
 
-## Estado (2026-09-05, fim do turno de reconfiguração)
-- F036 FECHADO (`9724dbd`): RC-091 nota B050 l. 82; [REVISAR] l. 65 mantido; RC-092 intocada; Registro nº 19; bruto 14 removido; caixa limpa (só LISTA SIMPLES, não-apta).
-- DESPACHO DE PAUSA 05/09/2026 codificado (`4788ccd`): INGESTÃO ENCERRADA (saturação reconhecida; Δ 0 termos por rito cheio = fim da era de acúmulo). Esteira dividida em: (1) TRILHA LEVE p/ caixa — consolidacoes/PROTOCOLO-TRILHA-LEVE.md + seção no uploads_recepcao/README.md (graus G0/G1/G2; despacho 1 linha Aprovo/Quarentena/Escala; LISTA SIMPLES = paciente TL-01 a despachoar); (2) MUTIRÃO REVISAR = novo core — F037…
-- F037 (MUTIRÃO L1 Cronologia) EM DEVOLUTIVA, aguarda despacho Q-F037-A…F. Censo: 286 linhas-âncora · 283 vivas · 187 fichas (CSV no dossiê). Roster L1: 35 reais = 6 FECHÁVEIS (âncoras B050 já achadas) + 6 CHANCELÁVEIS + 23 RECLASSIFICÁVEIS + 1 PROTEGIDA (RC-091 l. 65).
-- DESCOBERTA-CHAVE: B050 tem TRILHA D (datas EC): l. 203 «2012 d.C. portais» · l. 204 «Fim da Lila/Trimurti 2015 d.C.» · ll. 46/64 Era da Solidão 13,8–13,3 bi (≡ 500 mi RC-808) · l. 87 «Surge Sophia, primeiro biodemo, 5 bi a.p.» (âncora nova RC-009, Q-C). Isso CORRIGE a alçada «datas EC sem jurisdição» lavrada em F036 V-4 (ledger do F037 averba; F036-D pede despacho p/ tocar o arquivo do F036).
-- Máquina de estados p/ flags: ENCERRADO-F037-Ln (verbatim+assert) · TENSÃO-INSOLÚVEL (chancela na ficha, molduras arroladas, «conferido» visível) · RECLASSIFICADO · PROTEGIDA · AGUARDA-ÁUDIO (L3). Um lote = um ciclo; espelhos 1× ao fim do lote; base 933/1898 imutável em termos/relações (mutirão só anota fichas).
+## Estado (2026-09-05, fim do turno)
+- F037 LOTE 1 EXECUTADO (`eff36fd` push): 11 flags liquidadas (6 ENCERRADO com âncora verbatim — RC-295/104/775/808 via Trilha D do B050; RC-091 l.50; RC-771 l.33 via B057 ll.753/816 — 5 CHANCELA tensão-insolúvel — RC-092 c/ evidência retificada pela l.87; RC-499×2; RC-631; RC-771 l.28) + RC-036 variante numérica (nome «Olga» fica aberto → L3) + reforço RC-009 (Q-C) + averbo de superação V-4 no ledger F036 (Q-D; ficha F036 intocada). PLANO-MUTIRAO homologado CONSTITUIÇÃO (máquina de estados FECHAR/CHANCELAR/RECLASSIFICAR/PROTEGER/AGUARDA-ÁUDIO; um lote = um ciclo; espelho único ao fim; métrica stop/go <15%).
+- MÉTRICA OFICIAL do mutirão (régua token-a-token, sem seta, fora de backticks/meta): 206 vivas em 140 fichas ao fim do L1 (baseline equivalente na abertura: 217; 11 adjudicadas). Contagem-linha do censo (283) aposentada (inflava com meta-menções nas notas).
+- TL-01 ABERTO e em despacho (`0d30fc3`): LISTA SIMPLES canonizada (SHA 7166a7b6…, cmp OK); 195 itens: 181 slug + 13 par textual + 2 órfãos (Klippoth/Shevirah) ANCORADOS em B002 ll. 8223–8227; GRAU G1 (sem quarentena/sem escala); relatório em consolidacoes/TL01_lista-simples-rc/propõe despacho de 1 linha + opção F038-Cabala-ou-adiamento p/ as ~20 lacunas da VERIFICACAO-DE-COBERTURA-LISTA-SIMPLES-2026-09-04.md (auditoria prévia do curador, na raiz do repo — lê-la antes de F038).
+- Base 933/1898 validada OK; espelhos pós-L1 reconstruídos (indice-mestre 933 · xlsx · docx).
+- AGUARDAM: despacho TL-01 (1 linha) e ordem de abertura do Lote 2 (Grafia & Taxonomia, ~21 flags).
 
-## Imediato
-AGUARDAR despacho Q-F037-A…F. Execução L1 = aplicar adjudicações do roster com verbatim-recheck linha a linha (as preliminares da tabela A são âncoras JÁ vistas, mas o grep do censo não substituía leitura completa da Trilha D). Depois: L2/L3/L5 rosters; TL-01 quando autorizado.
+## Operacional p/ Lote 2 (quando vier a ordem)
+- Roster L2: censo em consolidacoes/F037_mutirao-revisar-lote-1/inventario-flags.csv (coluna lote=L2) + recontar tokens vivos por ficha; grafia de palestra NÃO se corrige — chancela de variante; STT de nome «Olga» (RC-036) e «Atziluth»? verificar migração L3↔L2 por linha.
+- Âncoras prováveis: B051/B064/B083 (F035-era), dicionário interno = as próprias fichas RC-777/84/93 (grafias documentadas), DOSSIES de curadoria.
+- Lembretes: todo comando encadeado abre com cd /home/user/Termos-RC; tomllib em /tmp antes do cp; NFD COM espaços nas sondas; citações só intra-linha; numerais 1–2 dígitos = falsos positivos; pedagogico/ fora dos commits de ciclo.
