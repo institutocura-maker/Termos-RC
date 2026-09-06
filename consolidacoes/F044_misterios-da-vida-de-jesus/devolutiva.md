@@ -74,3 +74,44 @@
 1. **Códigos novos** (só com despacho editorial): Messias (73), Maria Madalena (62), João Batista (26), Pedro (38), **Dâmaso (23) · Jerônimo (20) · Agostinho (19) · Irineu (9)** (canonização), Pôncio Pilatos/Caifás (paixão), Sinédrio.
 2. **Materializações** (já existem, `ficha=False` — fila aberta): **RC-887 Nag Hammadi** · **RC-862 Essênios**.
 3. **🐞 Flag anti-duplicação `RC-193` × `RC-941` «Rebanho humano»** — recomendo merge/alias (imutável; não mexi).
+
+---
+
+## ⚡ EXECUÇÃO — ANEL C (despacho do Curador 06/09/2026)
+
+**Despacho cumprido integralmente.** Homologado **`P2023-12-25-0N`** como canônico/backfill (nada a reaplicar). Anel C criou os 5 códigos homologados, materializou RC-887/RC-862 e fez o **merge de duplicidade RC-941 → RC-193**. `relacoes/` permanece **blindado (0 arestas novas)**.
+
+### O que foi aplicado
+
+| Item | Detalhe |
+|---|---|
+| **Códigos novos (5)** | **RC-942 Messias** · **RC-943 Maria Madalena** · **RC-944 João Batista** · **RC-945 Pedro** · **RC-946 Pôncio Pilatos / Caifás / Sinédrio** (clúster em 1 verbete) — todos `ficha=True`, status `provisório` 🟡 |
+| **Materializações (2)** | **RC-887 Nag Hammadi** (`ficha=False→True`) e **RC-862 Essênios** (`ficha=False→True`) — fichas criadas |
+| **Merge duplicidade** | **RC-941 «Rebanho humano» DELETADO**; conteúdo GKA absorbido na **RC-193** (âncora); nota de merge + fonte F043 adicionadas à ficha RC-193; exclusão registrada nas notas de sistema |
+| **Renumeração (gap do validador)** | **RC-942 «Hipocampo» → RC-941** (ambos sem referências; renumeração segura p/ manter sequência RC-001..RC-0NN) |
+| **Padres da Igreja** | **Dâmaso · Jerônimo · Agostinho · Irineu NÃO viram código** — permanecem como literatura nas notas (quarentena acadêmica) |
+
+### Verbatim-chave das fichas novas (extraído do traslado)
+
+- **Messias (Aula 01):** «o homem Jesus não seria o avatar de Javé, seria o Messias, seria o enviado, seria aquele que viria super poderoso em nome de Javé, resolver o tema principal...»
+- **Maria Madalena (Aula 03):** «agora Jesus iniciava uma terceira fase, quando ele chamou Maria Madalena... ele, Jesus, iria ditar uma nova revelação...»
+- **João Batista (Aula 01):** «Depois de 400 anos de silêncio profético, João Batista começou a dizer que o Messias iria aparecer no tempo da vida dele...»
+- **Pedro (Aula 03):** «No dia em que Jesus foi preso pela turma do Sinédrio... Pedro negou várias vezes.»
+- **Pilatos/Caifás/Sinédrio (Aula 03):** «Jesus foi crucificado porque... o Sinédrio judaico... Foi Pôncio Pilatos.»
+
+### Verificação
+
+- `python3 ferramentas/dados_termos.py` → **OK: 946 termos, 1898 relações** ✅
+- Sequência estrita **RC-001..RC-0NN** confirmada (validador OK, sem gap). ✅
+- **Censo de código = `ferramentas/dados_termos.py`** (registro-mestre) — não `ls termos/`. ✅
+- `build_indice.py` → **indice-mestre.md 946 linhas** ✅
+- `build_xlsx.py` → **xlsx 7 abas (946/638/1898/102)** ✅
+- `build_word.py` → **docx 946/638/1898/102** ✅
+- Matcher fichas ↔ registro: **0 fichas `True` sem arquivo · 0 arquivos sem registro**. ✅
+- `relacoes/` blindado: **0 arestas novas** (RELACOES permanece 1898). ✅
+
+### Consolidação
+
+F044 **CONSOLIDADO (Anéis A/B/C)** em 06/09/2026. Base final: **946 termos · 638 fichas · 1898 relações · 102 obras**.
+
+**Nota de sistema — exclusão RC-941:** código imutável porém excluído por despacho (duplicidade com RC-193, que permanece âncora). RC-941 original era da F043-Anel C (expansão condicionada). A definição GKA «Grupo de pessoas facilmente manipuláveis, acostumadas a serem conduzidas.» foi absorvida como nota na RC-193.

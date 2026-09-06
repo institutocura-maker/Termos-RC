@@ -1038,7 +1038,7 @@ TERMOS = [
     ("RC-859", "Suserania Universal (herança prometida a Rockma/Sofia)", COS_PRO[0], COS_PRO[1], C, ["P2023-02-12", "P2023-02-11", "P2022-11-26", "P2022-09-18"], 'RC-009; RC-001; RC-474; RC-784', True),
     ("RC-860", "Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé)", COS_ESP[0], COS_ESP[1], C, ["P2023-02-11", "P2022-11-20"], 'RC-072; RC-781; RC-001; RC-858', True),
     ("RC-861", "Extísicos (seres do universo vizinho, não biológicos, compostos de plasma)", SER_EXT[0], SER_EXT[1], C, ["P2023-02-11"], 'RC-474; RC-295; RC-241; RC-630', False),
-    ("RC-862", "Essênios (seita judaica puritana; criadores de João Batista)", SER_HUM[0], SER_HUM[1], C, ["P2023-02-11"], 'RC-072', False),
+    ("RC-862", "Essênios (seita judaica puritana; criadores de João Batista)", SER_HUM[0], SER_HUM[1], C, ["P2023-02-11", "P2023-12-25-01"], 'RC-072', True),
     ("RC-863", "Ocaso do Criador (a segunda derrocada do criador reconstruído)", EVE_CAT[0], EVE_CAT[1], C, ["P2022-12-03", "P2022-09-18"], 'RC-001; RC-809; RC-174; RC-378; RC-514', True),
     ("RC-864", "DNA Neutralizado (código neutralizado de podridão do criador)", PRO_BIO[0], PRO_BIO[1], C, ["P2022-12-03"], 'RC-562; RC-727; RC-783; RC-056', False),
     ("RC-865", "Pulsação Digna (a pulsação alinhada a conceitos supremos)", COS_ETI[0], COS_ETI[1], C, ["P2022-12-03", "P2022-11-20", "P2022-09-18"], 'RC-725; RC-832; RC-160; RC-562', True),
@@ -1063,7 +1063,7 @@ TERMOS = [
     ("RC-884", "Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo)", PRO_BIO[0], PRO_BIO[1], C, ["P2021-06-26"], 'RC-562; RC-217; RC-001', False),
     ("RC-885", "Savant (a genialidade preservada além do autismo num grau; figura útil no final)", PRO_BIO[0], PRO_BIO[1], C, ["P2021-06-26"], 'RC-321; RC-562; RC-870', False),
     ("RC-886", "Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz)", PRO_FIS[0], PRO_FIS[1], C, ["P2021-06-26"], 'RC-160; RC-106; RC-152', False),
-    ("RC-887", "Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original)", TEC_ESC[0], TEC_ESC[1], C, ["P2022-09-17"], 'RC-770; RC-474; RC-530', False),
+    ("RC-887", "Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original)", TEC_ESC[0], TEC_ESC[1], C, ["P2022-09-17", "P2023-12-25-04"], 'RC-770; RC-474; RC-530', True),
     ("RC-888", "Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados)", SER_ANJ[0], SER_ANJ[1], C, ["P2022-09-17"], 'RC-579; RC-530; RC-474', False),
     ("RC-889", "Biblioteca Genômica Humana", PRO_FIS[0], PRO_FIS[1], P, ['P2023-10-15', 'P2023-11-18', 'P2024-01-13', 'P2024-02-04', 'P2024-03-17'], 'RC-001; RC-217; RC-070; RC-722', True),
     ("RC-890", "Eu Observador", PRO_FIS[0], PRO_FIS[1], P, ['P2023-10-15', 'P2023-11-18', 'P2024-01-13', 'P2024-02-04', 'P2024-03-17'], 'RC-749; RC-529; RC-722', True),
@@ -1118,8 +1118,14 @@ TERMOS = [
     ("RC-938", "Livre-arbítrio", COS_LEI[0], COS_LEI[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
     ("RC-939", "Samkhya", COS_ESP[0], COS_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
     ("RC-940", "Samsara", COS_ESP[0], COS_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
-    ("RC-941", "Rebanho humano", SER_COL[0], SER_COL[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
-    ("RC-942", "Hipocampo", PRO_BIO[0], PRO_BIO[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    # [F044-MERGE 06-09-2026] RC-941 "Rebanho humano" (F043) DELETADO — duplicidade com RC-193; conteúdo absorvido na RC-193. Código imutável porém excluso por despacho; ver sistema de notas.
+    ("RC-941", "Hipocampo", PRO_BIO[0], PRO_BIO[1], P, [], '', True),  # [F044-MERGE] renumeração RC-942->941 (vaga aberta pelo delete RC-941); F043-T3 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-942", "Messias", TER_GRE[0], TER_GRE[1], "provisório", ["P2023-12-25-01", "P2023-12-25-02", "P2023-12-25-03"], "RC-072; RC-005; RC-752", True),
+    ("RC-943", "Maria Madalena", SER_HUM[0], SER_HUM[1], "provisório", ["P2023-12-25-03", "P2023-12-25-05"], "RC-072; RC-280; RC-904", True),
+    ("RC-944", "João Batista", SER_HUM[0], SER_HUM[1], "provisório", ["P2023-12-25-01", "P2023-12-25-02"], "RC-072; RC-862; RC-752", True),
+    ("RC-945", "Pedro (apóstolo)", SER_HUM[0], SER_HUM[1], "provisório", ["P2023-12-25-03"], "RC-072; RC-904", True),
+    ("RC-946", "Pôncio Pilatos / Caifás / Sinédrio", SER_HUM[0], SER_HUM[1], "provisório", ["P2023-12-25-03", "P2023-12-25-04"], "RC-072; RC-280; RC-273", True),
+
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)

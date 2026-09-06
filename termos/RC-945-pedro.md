@@ -1,0 +1,36 @@
+# PEDRO (APÓSTOLO) — RC-945
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
+| **Status** | 🟡 provisório |
+| **Última atualização** | 2026-09-06 |
+
+## Definição Sintética
+Um dos doze apóstolos escolhidos por Jesus na Galileia; no F044, é lembrado sobretudo pelo episódio da **negação** durante a prisão de Jesus pela «turma do Sinédrio». A cena serve ao curso para mostrar o raio de alcance da condenação — a ordem era prender toda a «turma de Jesus», não só o mestre.
+
+## Contexto / Origem
+Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
+
+> «No dia em que Jesus foi preso pela turma do Sinédrio, era para prender toda a turma de Jesus. Pedro negou várias vezes. Foi quando Jesus percebeu que aqueles 11 apóstolos que ele havia escolhido lá da Galileia, porque o 12º, era Judas da Judeia...»
+
+## Etimologia / Grafias
+- **Grafia preferida:** Pedro
+- **Variações / grafias alternativas:** Pedro (apóstolo)
+- **Idioma de origem:** — (pessoa; grego «Petros» = pedra)
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição | transcrição; citação |
+
+## Relações centrais
+- Jesus — RC-072;
+- Apóstolos — RC-904.
+
+## Observação
+**Quarentena teológica** — a leitura da negação e do raio da perseguição é de Ellam. `relacoes/` blindado (0 arestas novas).
+
+## Nota de governança
+F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraído do translado; nenhuma aresta nova.

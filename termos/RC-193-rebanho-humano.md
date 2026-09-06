@@ -31,12 +31,21 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 ## Ampliação — P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
 
 - **«rebanho humano»** — «esse é o pior retrato do rebanho humano da atualidade».
-- Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193. Ver flag de duplicidade RC-193 × RC-941 (não resolvida aqui).
+- Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193.
+
+## Nota — F044-MERGE (RC-941 → RC-193) · 06/09/2026
+
+O código provisório **RC-941 «Rebanho humano»** (criado pelo F043-T3 como expansão condicionada) foi **excluído por despacho do Curador** por tratar-se de duplicidade com esta RC-193, que permanece **âncora**. A definição dicionarizada do parceiro (obra de apoio, fonte **secundária**) foi absorvida aqui como nota, sem criar aresta em `relacoes/`:
+
+- **Definição GKA (EXT-2024-01-04), verbatim:** «Grupo de pessoas facilmente manipuláveis, acostumadas a serem conduzidas.»
+
+**«rebanho humano» no F044 (fonte primária) — Aula 04:** este é o pior retrato do rebanho humano da atualidade.» Em contraste com a acepção GKA (manipulação), o curso de Ellam opera sobre a noção elâmica de massa horizontalizada (ver Definição Sintética acima); não há pretensão de canonicidade doutrinária.
 
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (palestra) | — | transcrição automatizada; citação |
+| EXT-2024-01-04 | Glossário Krys Amon (obra de apoio) | — | fonte secundária; paráfrase/definição |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-07-14 | U0025–U0050 | palestra/STT |
 | B044 | — | obra |

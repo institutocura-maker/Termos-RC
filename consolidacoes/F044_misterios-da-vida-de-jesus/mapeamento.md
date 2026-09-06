@@ -2,7 +2,7 @@
 
 **Ciclo:** F044 · **Dossiê em** `consolidacoes/F044_misterios-da-vida-de-jesus/`
 **Corpus:** `ciclos/F044_misterios-da-vida-de-jesus/translado/*.txt` (5 aulas · ~56.423 palavras)
-**Registro-mestre:** `ferramentas/dados_termos.py` (942 termos · 632 fichas · 1898 relações)
+**Registro-mestre:** `ferramentas/dados_termos.py` (final: **946 termos · 638 fichas · 1898 relações**; A/B: 942 termos · 632 fichas)
 **Censo de código:** executado em Python contra o **registro-mestre** (NUNCA contra nomes de `termos/` — lição IEEA). Relatório numérico: `censo.md`.
 **Datas:** **DESPACHADAS (06/09/2026)** — **`P2023-12-25`** (curso online lançado no Natal de 2023), sufixo **`-01`…`-05`** por aula. Só a data real do evento despachada pelo Curador gera código P (nada de dado narrativo).
 
@@ -14,10 +14,10 @@
 |---|---|---|
 | **A** | Já existe ficha (`ficha=True`) e o curso apenas a **corrobora** | Marcar **fonte F044 + nota de corroboração** na ficha (sem elevar status sem cotejo primário) |
 | **B** | Já existe ficha e o curso **expande** o verbete | Inserir **`## Ampliação — F044`** com citação **verbatim byte-exata** + fonte |
-| **C** | **Merece código novo** (conceito central sem correspondente fiel) | **AGUARDA NOVO DESPACHO** do Curador (não criar agora) |
+| **C** | **Merece código novo** (conceito central sem correspondente fiel) | **EXECUTADO 06/09/2026** — 5 códigos homologados criados; 2 materializações; 0 p/ Padres da Igreja |
 | **D** | Menção / radar / genealogia / contexto sem valor de verbete autônomo | **Guardado** — fica na fonte, sem código |
 
-> Decisão do Curador (09/2026): executar **apenas A e B** nesta passagem; **C e D** apenas com **novo despacho**.
+> Decisão do Curador (09/2026): executar **apenas A e B** nesta passagem; **C e D** apenas com **novo despacho**. Em 06/09/2026, novo despacho autorizou **Anel C** (5 códigos + 2 materializações + merge de duplicidade RC-941→RC-193); Anel D permanece guardado.
 
 ---
 
@@ -73,35 +73,37 @@
 
 ---
 
-## 3. ANEL C — **merece código novo** (AGUARDA NOVO DESPACHO)
+## 3. ANEL C — **APLICADO (despacho 06/09/2026)** — códigos homologados criados
 
-> Conceitos centrais → que o curso nomeia repetidamente e **não têm correspondente fiel** no registro-mestre. Não criar agora.
+> Conceitos centrais nomeados repetidamente pelo curso **sem** correspondente fiel; criação autorizada pelo despacho do Curador em 06/09/2026 (só os 5 homologados).
 
-| Candidato | ocorr. | Observação |
+| Candidato | ocorr. | Código criado (Anel C) |
 |---|---|---|
-| **Messias** | 73 | o Messias judeu (violento) × Jesus; verbo central da aula 01 |
-| **Maria Madalena** | 62 | face mística; aula 05 é dedicada a ela; **sem código** |
-| **João Batista** | 26 | primo; batismo evitado por Jesus; **sem código** (RC-862 = Essênios, criadores dele) |
-| **Paulo / Saulo de Tarso** | 45/22 | RC-856 já existe («Saulo de Tarso / Paulo»); **conferir enquadramento** (apóstolo que constrói o «Jesus Cristo») |
-| **Dâmaso** | 23 | papa; canonização da Bíblia; **sem código** |
-| **Jerônimo** | 20 | tradutor da Vulgata; remove Enoque; **sem código** |
-| **Agostinho** | 19 | teologia; **sem código** |
-| **Irineu** | 9 | heresias; **sem código** |
-| **Sinédrio** | 42 | tribunal de Jerusalém; **sem código** |
-| **Caifás** | 11 | sumo-sacerdote; **sem código** |
-| **Pôncio Pilatos** | 21 | governador romano; **sem código** |
-| **Herodes** | 1 | **sem código** (menção) |
+| **Messias** | 73 | ⭐ **RC-942 Messias** |
+| **Maria Madalena** | 62 | ⭐ **RC-943 Maria Madalena** |
+| **João Batista** | 26 | ⭐ **RC-944 João Batista** |
+| **Pedro (apóstolo)** | 38 | ⭐ **RC-945 Pedro** |
+| **Pôncio Pilatos / Caifás / Sinédrio** | 21/11/42 | ⭐ **RC-946 Pôncio Pilatos / Caifás / Sinédrio** (clúster em 1 verbete) |
+| **Paulo / Saulo de Tarso** | 45/22 | RC-856 já existe («Saulo de Tarso / Paulo»); **não** criado (conferir enquadramento) |
+| **Dâmaso** | 23 | ❌ **Não** vira código (quarentena acadêmica) — literatura nas notas |
+| **Jerônimo** | 20 | ❌ **Não** vira código — literatura nas notas |
+| **Agostinho** | 19 | ❌ **Não** vira código — literatura nas notas |
+| **Irineu** | 9 | ❌ **Não** vira código — literatura nas notas |
+| **Herodes** | 1 | sem código (menção) |
 | **Maria (mãe de Jesus)** | 125 | não confundir com RC-846 Maria Orsic; coberto só indiretamente (RC-834/835) |
-| **Bíblia / Evangelho(s)** | ~30 | cânone; **sem código** autônomo |
-| **Antigo / Novo Testamento** | ~33 | corpus as escrituras; **sem código** |
-| **Apóstolo(s)** (Pedro/Tiago/Tomé/Filipe/Mateus/Marcos) | ~89 | figuras do Novo Testamento; só RC-855 (João Evangelista) existe |
-| **Nag Hammadi (materializar)** | 6 | RC-887 existe, **ficha=False** (fila aberta) → **materializar** aguarda despacho |
-| **Essênios (materializar)** | 39 | RC-862 existe, **ficha=False** (fila aberta) → **materializar** aguarda despacho |
+| **Bíblia / Evangelho(s)** | ~30 | cânone; sem código autônomo |
+| **Antigo / Novo Testamento** | ~33 | corpus as escrituras; sem código |
+| **Apóstolo(s)** (Tiago/Tomé/Filipe/Mateus/Marcos) | ~89 | Pedro criado (RC-945); demais sem código autônomo |
+| **Nag Hammadi (materializar)** | 6 | ✅ **RC-887 materializado** (`ficha=False→True`; ficha criada) |
+| **Essênios (materializar)** | 39 | ✅ **RC-862 materializado** (`ficha=False→True`; ficha criada) |
 | **Espiritismo (Kardec/Rivail/Pestalozzi)** | 42 | RC-190/RC-257 existem; Rivail/Pestalozzi sem código; contexto da era cristã |
-| **Moros** | 10 | RC-718 (Cumprimento da Profecia) plausível; **verificar contexto** antes de alocar |
-| **Ayahuasca / beberagem** | 8 | mito da queda; **sem código** |
+| **Moros** | 10 | RC-718 plausível; verificar contexto antes de alocar |
+| **Ayahuasca / beberagem** | 8 | mito da queda; sem código |
 
-**Decisão C:** nenhuma destas é criada nesta passagem. As de maior densidade conceitual (Messias, Maria Madalena, Dâmaso/Jerônimo/Agostinho/orientação da canonização) ficam **prontas para despacho** do Curador.
+**Decisão C (executada):** 5 códigos novos criados (RC-942..946), 2 materializações (RC-887/862), 0 para os Padres da Igreja. `relacoes/` blindado (0 arestas novas).
+
+### Merge de duplicidade (executado)
+**RC-941 «Rebanho humano» (`ficha=False`, da F043-Anel C) foi DELETADO** — duplicidade com **RC-193 «Rebanho humano»** (que permanece **âncora**). A definição GKA foi absorvida como nota na ficha RC-193. **Renumeração do gap:** RC-942 «Hipocampo» → **RC-941** (ambos sem referências; renumeração segura para manter a sequência RC-001..RC-0NN do validador).
 
 ---
 
@@ -125,7 +127,7 @@
    - «Hohkmah» = **Hochmah (RC-565)**; corpus não padronizado.
    - «Novo Testamento»/«Antigo Testamento» **não** são RC-544 (Novo Homo sapiens).
    - «João» majoritário = **João Batista / João Evangelista** (RC-855); não há código de João Batista (→ Anel C).
-2. **DUPLICIDADE DETECTADA — FLAG ao Curador:** **RC-193 «Rebanho humano»** (ficha=True) e **RC-941 «Rebanho humano»** (ficha=False, da F043-Anel C) **são o mesmo nome** no registro-mestre. Isso é uma **violação de anti-duplicação** pré-existente (F043). **Não mexi** (códigos imutáveis); **recomendo merge/alias documentado** via despacho.
+2. **DUPLICIDADE RESOLVIDA (despacho 06/09/2026):** **RC-193 «Rebanho humano»** (ficha=True) e **RC-941 «Rebanho humano»** (ficha=False, da F043-Anel C) eram o mesmo nome no registro-mestre. **Merge executado:** RC-941 **DELETADO**; conteúdo GKA absorbido na **RC-193** (âncora); nota de merge + fonte F043 adicionadas à ficha RC-193; exclusão registrada nas notas de sistema. Gap do validador fechado por **renumeração RC-942 «Hipocampo» → RC-941** (ambos sem referências).
 3. **«São/ead» não é flag:** o curso não usa o vocabulário das palestras 2023 (Reb. Elétrons 0, conectoma 0, Perpérion 0) — confirma o cluster RC-072/005/280 como **eixo a expandir**, não a substituir.
 4. **Fonte F044:** a referência está **provisória**. Como os P‑códigos estão pendentes, a notação sugerida na ficha é **`P2023-12-25-0N`** (deixando `P20XX-XX-XX` para backfill assim que o Curador despachar as datas reais). **Nada de código de data por dado narrativo.**
 5. **`relacoes/` BLINDADO:** nenhuma aresta atribuída neste mapa. Zero arestas novas.

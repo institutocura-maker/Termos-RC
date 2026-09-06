@@ -867,7 +867,7 @@
 | RC-859 | Suserania Universal (herança prometida a Rockma/Sofia) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | ⚪ | P2023-02-12, P2023-02-11, P2022-11-26, P2022-09-18 | RC-009; RC-001; RC-474; RC-784 | [✔](termos/RC-859-suserania-universal-heranca-prometida-a-rockma-sofia.md) |
 | RC-860 | Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | ⚪ | P2023-02-11, P2022-11-20 | RC-072; RC-781; RC-001; RC-858 | [✔](termos/RC-860-nova-alianca-a-proposta-de-jesus-contra-a-velha-alianca-dos-pactos-de-jave.md) |
 | RC-861 | Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | ⚪ | P2023-02-11 | RC-474; RC-295; RC-241; RC-630 | — |
-| RC-862 | Essênios (seita judaica puritana; criadores de João Batista) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | ⚪ | P2023-02-11 | RC-072 | — |
+| RC-862 | Essênios (seita judaica puritana; criadores de João Batista) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | ⚪ | P2023-02-11, P2023-12-25-01 | RC-072 | [✔](termos/RC-862-essenios-seita-judaica-puritana-criadores-de-joao-batista.md) |
 | RC-863 | Ocaso do Criador (a segunda derrocada do criador reconstruído) | Eventos & Eras | 7.4 Catástrofes / Dilúvios / Quedas | ⚪ | P2022-12-03, P2022-09-18 | RC-001; RC-809; RC-174; RC-378; RC-514 | [✔](termos/RC-863-ocaso-do-criador-a-segunda-derrocada-do-criador-reconstruido.md) |
 | RC-864 | DNA Neutralizado (código neutralizado de podridão do criador) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | ⚪ | P2022-12-03 | RC-562; RC-727; RC-783; RC-056 | — |
 | RC-865 | Pulsação Digna (a pulsação alinhada a conceitos supremos) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | ⚪ | P2022-12-03, P2022-11-20, P2022-09-18 | RC-725; RC-832; RC-160; RC-562 | [✔](termos/RC-865-pulsacao-digna-a-pulsacao-alinhada-a-conceitos-supremos.md) |
@@ -892,7 +892,7 @@
 | RC-884 | Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | ⚪ | P2021-06-26 | RC-562; RC-217; RC-001 | — |
 | RC-885 | Savant (a genialidade preservada além do autismo num grau; figura útil no final) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | ⚪ | P2021-06-26 | RC-321; RC-562; RC-870 | — |
 | RC-886 | Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | ⚪ | P2021-06-26 | RC-160; RC-106; RC-152 | — |
-| RC-887 | Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | ⚪ | P2022-09-17 | RC-770; RC-474; RC-530 | — |
+| RC-887 | Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | ⚪ | P2022-09-17, P2023-12-25-04 | RC-770; RC-474; RC-530 | [✔](termos/RC-887-nag-hammadi-a-biblioteca-egipcia-onde-em-1945-foi-encontrada-a-copia-copta-da-hipostase-dos-arcontes---stt-«naghama»-marco-fisico-e-historico-da-recuperacao-da-revelacao-gnostica-original.md) |
 | RC-888 | Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | ⚪ | P2022-09-17 | RC-579; RC-530; RC-474 | — |
 | RC-889 | Biblioteca Genômica Humana | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟡 | P2023-10-15, P2023-11-18, P2024-01-13, P2024-02-04, P2024-03-17 | RC-001; RC-217; RC-070; RC-722 | [✔](termos/RC-889-biblioteca-genomica-humana.md) |
 | RC-890 | Eu Observador | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟡 | P2023-10-15, P2023-11-18, P2024-01-13, P2024-02-04, P2024-03-17 | RC-749; RC-529; RC-722 | [✔](termos/RC-890-eu-observador.md) |
@@ -946,8 +946,12 @@
 | RC-938 | Livre-arbítrio | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | — |  | [✔](termos/RC-938-livre-arbitrio.md) |
 | RC-939 | Samkhya | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | — |  | [✔](termos/RC-939-samkhya.md) |
 | RC-940 | Samsara | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | — |  | [✔](termos/RC-940-samsara.md) |
-| RC-941 | Rebanho humano | Seres & Entidades | 1.2 Coletivos criadores | 🟡 | — |  | [✔](termos/RC-941-rebanho-humano.md) |
-| RC-942 | Hipocampo | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | — |  | [✔](termos/RC-942-hipocampo.md) |
+| RC-941 | Hipocampo | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | — |  | [✔](termos/RC-941-hipocampo.md) |
+| RC-942 | Messias | Termos Específicos | 8.4 Grego / Latim | 🟡 | P2023-12-25-01, P2023-12-25-02, P2023-12-25-03 | RC-072; RC-005; RC-752 | [✔](termos/RC-942-messias.md) |
+| RC-943 | Maria Madalena | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | P2023-12-25-03, P2023-12-25-05 | RC-072; RC-280; RC-904 | [✔](termos/RC-943-maria-madalena.md) |
+| RC-944 | João Batista | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | P2023-12-25-01, P2023-12-25-02 | RC-072; RC-862; RC-752 | [✔](termos/RC-944-joao-batista.md) |
+| RC-945 | Pedro (apóstolo) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | P2023-12-25-03 | RC-072; RC-904 | [✔](termos/RC-945-pedro-apostolo.md) |
+| RC-946 | Pôncio Pilatos / Caifás / Sinédrio | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | P2023-12-25-03, P2023-12-25-04 | RC-072; RC-280; RC-273 | [✔](termos/RC-946-poncio-pilatos-caifas-sinedrio.md) |
 
 ---
 

@@ -1,8 +1,8 @@
-# Dossiê de consolidação — F044 · «Os Mistérios da Vida de Jesus» (curso Ellam, 5 aulas)
+# Dossie de consolidacao - F044 - "Os Misterios da Vida de Jesus" (curso Ellam, 5 aulas)
 [fase]
 id = "F044"
-nome = "Curso: Os Mistérios da Vida de Jesus (5 aulas · 57.179 palavras)"
-fase = "APLICACAO_ANEIS_A_B"
+nome = "Curso: Os Misterios da Vida de Jesus (5 aulas - 57.179 palavras)"
+fase = "APLICACAO_ANEIS_A_B_C"
 status = "aplicacao_concluida_fecho_espelhos"
 
 [corpus]
@@ -11,19 +11,19 @@ palavras = 56423
 registro_limpeza = 22
 
 [fontes_p2023_12_25]
-decisao_curator = "2026-09-06 - P2023-12-25 (curso online lançado no Natal de 2023); sufixo -01..-05 por aula"
+decisao_curator = "2026-09-06 - P2023-12-25 (curso online lancado no Natal de 2023); sufixo -01..-05 por aula"
 codigos = ["P2023-12-25-01","P2023-12-25-02","P2023-12-25-03","P2023-12-25-04","P2023-12-25-05"]
-distribuicao = {
-  "P2023-12-25-01": "Aula 01 - Adolescência e a Juventude de Jesus",
-  "P2023-12-25-02": "Aula 02 - Os Anos de Pregação e a Promessa do Retorno",
-  "P2023-12-25-03": "Aula 03 - Dias Difíceis: Crucificação e Ressurreição",
-  "P2023-12-25-04": "Aula 04 - O Nascimento do Cristianismo",
-  "P2023-12-25-05": "Aula 05 - A Verdadeira Face de Maria Madalena",
-}
+
+[fontes_p2023_12_25.distribuicao]
+"P2023-12-25-01" = "Aula 01 - Adolescencia e a Juventude de Jesus"
+"P2023-12-25-02" = "Aula 02 - Os Anos de Pregacao e a Promessa do Retorno"
+"P2023-12-25-03" = "Aula 03 - Dias Dificeis: Crucificacao e Ressurreicao"
+"P2023-12-25-04" = "Aula 04 - O Nascimento do Cristianismo"
+"P2023-12-25-05" = "Aula 05 - A Verdadeira Face de Maria Madalena"
 
 [escopo]
 datas = "RESOLVIDO 2026-09-06 pelo Curador (P2023-12-25-0N)"
-alcance = "Camada 2 - Anéis A/B; sem criação de código novo; relacoes/ blindado (0 arestas)"
+alcance = "Camada 2 - Aneis A/B executados; Anel C executado em 06/09/2026; relacoes/ blindado (0 arestas)"
 
 [execucao_aplicacao_a_b]
 registro_fontes_inserted = 27
@@ -32,22 +32,29 @@ sessoes_ampliacao = 11
 anel_A_codes = 17
 anel_B_codes = 10
 verbatim_confirmado = true
-base_final = "942 termos / 632 fichas / 1898 relações / 102 obras"
+base_final_ab = "942 termos / 632 fichas / 1898 relacoes / 102 obras"
 relacoes_arestas_novas = 0
 
-[aneis_C_pendente_despacho]
-messias_ocorrencias = 73
-maria_madalena = 62
-joao_batista = 26
-padres_igreja = "Dâmaso 23 · Jerônimo 20 · Agostinho 19 · Irineu 9"
-materializar = "RC-887 Nag Hammadi (6x) · RC-862 Essênios (39x) - fila aberta, aguardando despacho"
-flag_duplicidade = "RC-193 x RC-941 Rebanho humano (mesmo nome; merge/alias recomendado)"
+[execucao_anel_c]
+codigo_novos = 5
+codigos_criados = ["RC-942 Messias","RC-943 Maria Madalena","RC-944 Joao Batista","RC-945 Pedro","RC-946 Poncio Pilatos / Caifas / Sinedrio"]
+materializados = ["RC-887 Nag Hammadi","RC-862 Essenios"]
+merge_executado = "RC-941 (Rebanho humano, duplicidade) DELETADO -> conteudo absorvido na RC-193 (ancora)"
+renumeracao = "RC-942 'Hipocampo' -> RC-941 (vaga aberta pelo delete; validador sequencial)"
+padres_igreja = "NAO viram codigo (Damaso 23 - Jeronimo 20 - Agostinho 19 - Irineu 9) - ficam como literatura nas notas"
+base_final = "946 termos / 638 fichas / 1898 relacoes / 102 obras"
+relacoes_arestas_novas = 0
 
 [relacoes]
 blindado = true
 arestas_novas = 0
 
 [estado]
-validador_base = "OK: 942 termos, 1898 relacoes"
-espelhos = "indice-mestre.md 942 linhas · xlsx (7 abas) · docx (942/632/1898/102) - todos OK"
+validador_base = "OK: 946 termos, 1898 relacoes"
+espelhos = "indice-mestre.md 946 linhas - xlsx (7 abas) - docx (946/638/1898/102) - todos OK"
 base_intocada = false
+
+[consolidacao]
+fase_final = "F044 CONSOLIDADO (A/B/C)" 
+estado = "concluida" 
+data = "2026-09-06" 

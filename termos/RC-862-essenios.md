@@ -1,0 +1,35 @@
+# ESSÊNIOS — RC-862
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | SERES & ENTIDADES |
+| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
+| **Status** | ⚪ candidato |
+| **Última atualização** | 2026-09-06 |
+
+## Definição Sintética
+Seita judaica puritana do século I (ambiente do deserto, Qumran), descrita no acervo como **criadores/lar de João Batista** (RC-944). É o meio ascético-profético que, no F044, transmite a Jesus o conhecimento das escrituras do povo judeu e a expectativa messiânica — o contexto do anúncio «o Messias já está entre nós».
+
+## Contexto / Origem
+Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já constava do registro como `ficha=False` (fontes P2023-02-11; P2023-12-25-01), sem ficha própria; agora passa a `ficha=True`. Verbatim-chave (Aula 01, P2023-12-25-01) — a criação de João Batista:
+
+> «José casou com Maria, Isabel e Zacarias tiveram um filho e se filho foi criado pelos Essênios, conhecia todas as escrituras do povo judeu, o nome dele era João, tornou se um profeta todo poderoso...»
+
+É o meio ascético-profético que, no F044, transmite a João Batista o conhecimento das escrituras e a expectativa messiânica. Relação direta com **RC-944 João Batista** (criado neste Anel C) e com **RC-072 Jesus**.
+
+## Escopo e evidência
+- **[P2023-02-11]** (obra/palestra sobre a seita e João Batista).
+- **[P2023-12-25-01]** Aula 01 — Adolescência e a Juventude de Jesus: contato de Jesus com a expectativa messiânica e o papel de Batista.
+
+## Fontes
+| Fonte | Localização | Tipo |
+|---|---|---|
+| P2023-02-11 | (obra/palestra) | — |
+| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus | transcrição |
+
+## Relações centrais
+- João Batista — RC-944;
+- Jesus — RC-072.
+
+## Nota de governança
+F044 (Anel C, materialização 06/09/2026); `ficha=False→True`; `relacoes/` blindado (0 arestas novas).
