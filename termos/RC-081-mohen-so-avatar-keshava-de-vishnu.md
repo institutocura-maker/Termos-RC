@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
 | **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 Mohen So é Avatar Keshava de Vishnu, identificado nas correspondências RC como Phanes/Protogonos e vinculado ao espírito de Elm/Moros.
@@ -29,7 +29,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 
 ## Ampliação — P2021-01-23
 
-- **[P2021-01-23] Mohen So e os fios soltos (U0776; U0800–U0810):** "olhando para o que 'morre em s' [STT], que era o avatar que eles haviam criado com liberdade, que pudesse entender os fios soltos de Brahma e de Shiva" (U0776) — Mohen So como o avatar criado para entender os fios soltos de Brahma e Shiva [REVISAR — STT 'morre em s'].
+- **[P2021-01-23] Mohen So e os fios soltos (U0776; U0800–U0810):** "olhando para o que 'morre em s' [STT], que era o avatar que eles haviam criado com liberdade, que pudesse entender os fios soltos de Brahma e de Shiva" (U0776) — Mohen So como o avatar criado para entender os fios soltos de Brahma e Shiva [REVISAR — STT 'morre em s' → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 
 ## Ampliação — P2025-08-01
@@ -96,10 +96,24 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - Morren So é o avatar de Vishnu que orquestra o Projeto Talm: "Morren So chamou alguns fenvans de Vishnu e disse aí, Tive uma ideia" (STT);
 - a criação do **Nidana**: "criei o novo novo cosmo" e "Brahma pegou o Nidana, Virgen, Nidana, Chiv Nidana, passaram seus fenvans" (STT);
 - engendra Sophia junto com Vishnu (STT: "a virgem junto com borre e sofrios de que engendraram Sophia");
-- ⚠️ [REVISAR — grafia]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.
+- ⚠️ [REVISAR — grafia → ENCERRADO 2026-09-05 · F038-L2: ver nota]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.
 
 ## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
 - **[Morren So — idealizador do Projeto Talm] (U0003)** «o projeto Tal foi idealizado por Morençou, mas foi executado pelos Fenvães e a maneira deles.» — a função de Morren So como progenitor/orquestrador.
 - **[Morren So — o manual de Moros] (U0015)** «quando o nosso amigo Morrensor lá atrás pegou o manual de Moros e começou a estudar cada parte podre de cada microparte» — a medição da podridão do corpo de Javé; ver RC-454 e RC-716.
 
+## Ampliação — F033 aplicação (05/09/2026): a desconstituição e as quatro cabeças
+
+- **[P2025-08-03 · DOSSIE Fenvans, verbete Mohen So]** «Possuía "menos lacres" em sua genética, dando-lhe senso crítico superior. Desconstituiu-se em 2017 para "fortalecer" Sophia.» — ano e verbo da fonte; a extensão que o doc F033 fez ao próprio Vishnu (2016) só existe no corpus via a falência da Trimúrti «entre 2015 e 2017» (P2024-05-04) — a ficha grava o que ancora.
+- **[P2024-11-30 · apostila, l.194]** Caos: «Eu concordo, desde que a gente crie um ser com quatro cabeças: uma, você, Eros; outra, você, Tártara; e a outra, para ser sem lacre. Mas tem que ser no mesmo corpo, porque, se ele tiver a besta [solta], nós três a gente ataca e mata.» + (l.200) «Foi assim que surgiu um ser chamado Moron [STT — Phanes/Protogonos]. Moron surgiu com a somatória da genética dos três, mas sem lacres, sem travas.» — a cabeça «sem lacre» (a livre) é a razão de Mohen So. A reformulação do doc («uma livre e cada uma das três outras obedecia a um dos Senhores») fica de fora: vale a formulação da apostila (ledger F033 D-4).
+- Fontes: **P2025-08-03** acrescentada ao cadastro; o alíás «Moron» está espelhado na ficha RC-282.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Morren So × Mohen So (l. 99): ENCERRADA com consagração de Mohen So.** Livros do acervo: «Mohen So» **84×**, «Morren So» **0×**; apostilas: 255× × 81× (as variantes «Morren/Moren So» são exclusivamente de transcrições orais). Canônimo grafado: **Mohen So**; variante oral registrada na própria ficha (sem fusão de identidade — a questão da fusão esvazia-se: tratam-se, univocamente, da mesma entidade).
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 32 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

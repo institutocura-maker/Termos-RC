@@ -1,0 +1,13 @@
+id = "F042"
+tipo = "MICRO-CICLO - Varredura do Residuo Bruto (pos-extincao do Mutirao)"
+abertura = "2026-09-06"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+
+[execucao]
+selos = "22 selos em 18 fichas (AG 14 · RA 4 · FA 3 · IS 2 — conforme Q-A: predominantemente AGUARDA-AUDIO/ISOLAMENTO, com os precedentes FA e RA dos Lotes 3-5)"
+idempotencia = "crash de nomes (RC-543/RC-636) no meio da execuacao; repasse com salto de fichas ja seladas - contagem global verificada por grep = 22 exatos"
+guarda_rc091 = "Q-B cumprida: l.65 (ABERTA, intocavel) preservada byte a byte com assert sha antes/depois (80ec9a033914); selo da ficha incidiu so na l.84 (normalizacao de grafia da fonte)"
+nao_seladas = "5 de 27: RC-102 l.30 ja estava adjudicada em formato alternativo ('ENCERRADO 05/09/2026' com data invertida - vocabulario de adjudicacao ampliado no medidor, texto intocado); RC-036 l.54 (menciona literal no titulo 'RESOLUCAO DO [REVISAR]'), RC-777 ll.11/19/68 (mencoes de nota de correcao e riscado ~~..~~) - mencoes, nao flags; documentadas como residuo estrutural toleravel"
+regua = "bruta pos-varredura: 4 (as quatro mencoes literais); oficial consolidada: 47 residuos chancelados (25 do F041 + 22 da varredura, incl. 2 de fronteira e 1 de formato alternativo); nenhum codigo renomeado; nada em relacoes/, cadastros ou BIBLIO"

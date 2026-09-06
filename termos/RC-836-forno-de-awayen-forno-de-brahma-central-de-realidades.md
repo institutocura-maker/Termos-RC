@@ -17,7 +17,7 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Brahma
 ## Etimologia / Grafias
 - **Grafia preferida (canônica):** Awayen (consagrada por RC-771/ART-2025-08-01).
 - **Grau oral fundador (P2019-08-25):** "aen" / "a Aen" / "Hawaien" / "Hawai" / "a UAI" / "Oaen" — STT embrionário do canônico.
-- **Variações STT posteriores:** "Awayem" (ART-2025-08-01) — [REVISAR — grafia no material do curador].
+- **Variações STT posteriores:** "Awayem" (ART-2025-08-01) — [REVISAR — grafia no material do curador → ENCERRADO 2026-09-06 · F039-L3 (D-b): precedente L2, Awayem sob FONTE AUSENTE DA ARCA — ver nota].
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -53,3 +53,9 @@ Brahma/Javé (RC-037/RC-001), os Aya/Aye (RC-834/RC-835 — assessores), Val Tam
 
 ## Quarentena Terminológica
 Grafias canônicas usadas: **Awayen**, **Brahma**, **Javé**, **Vishnu** (RC-408), **Shiva** (RC-102), **Projeto Talm** (RC-091), **Val Tam** (RC-132). Grau oral STT "aen/a Aen/Hawaien" registrado como embrionário — **não renomear**.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 20 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+- **D-b · ENCERRADO por referência cruzada (Q-F039-D):** âncora verbatim: «Awayem». A querência é a mesma chancelada no Lote 2 (RC-132/RC-771: Awayem sob FONTE AUSENTE DA ARCA, despacho Q-F038-C) — o precedente alcança esta ficha por ato do curador neste despacho.

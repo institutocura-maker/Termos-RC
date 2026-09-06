@@ -23,7 +23,7 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 ## Etimologia / Grafias
 
 - **Canônico da Base:** *fofocas cósmicas*.
-- **Na fonte oral (P2023-10-14):** «rede de **fofota** grande na espiritualidade» [REVISAR: «fofota» é o que o STT entregou para *fofoca*; preservar], «fofocas do circuito ao qual o espírito que me anima pertence».
+- **Na fonte oral (P2023-10-14):** «rede de **fofota** grande na espiritualidade» [REVISAR: «fofota» é o que o STT entregou para *fofoca*; preservar → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «fofocas do circuito ao qual o espírito que me anima pertence».
 
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
@@ -63,3 +63,8 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 4. **Bloco político não usado:** a fonte contém um bloco sobre governos, orçamento secreto e chefes de Estado — e nesse bloco o próprio expositor **nega** a premissa de um governo mundial uno. O bloco é o item 10 da devolutiva: fica **retido** (não se transcreve, nem para crítica) e não vira conteúdo desta ficha. A referência acima, que reproduzia a fórmula da fonte entre «», foi retirada na auditoria do portão D.
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fonte publicada (B044) e em fontes orais do acervo; nenhuma citação foi conferida com o áudio. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 26 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

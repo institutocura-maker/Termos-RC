@@ -1,0 +1,45 @@
+# Ciclo F034 — «Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico» (esteira Family F · série «— O Livro»)
+id = "F034"
+titulo = "Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico"
+recebido = "2026-09-05 (commit do curador 31bf41c na branch arena/01a071c8-termos-rc · bruto uploads_recepcao/12)"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+
+[fonte]
+arquivo = "uploads_recepcao/12 - Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico.txt"
+copia_canonica = "consolidacoes/F034_fenvans-livro/fonte.txt"
+sha256 = "b7d084bd8ba185f155f0c043e797b100168909d7c4a823abb11ba4449cc08b17"
+bytes = 141502
+linhas = 386
+formato = "texto CRLF · série-espelho «— O Livro» (v.4; após EDR=F030, Mohen So=F033; Moros=F032 na série RC)"
+
+[cotejo_primario]
+metodo = "corpus normalizado 1.767 arquivos · auditoria linha a linha (>=80c, alvo 120c normalizados) + 52 sondas nominativas com fronteira numérica + auditoria das 647 citações >=45 palavras"
+resultado = "299/299 linhas verbatim no corpus (100%) · 292/299 (98%) na apostila-mãe P2025-08-03 · parágrafos do corpo byte-idênticos ao analise/camada-3.txt do dossiê · 52/52 alegações ancoradas · zero termos novos exigidos · zero relações novas · guarda B060 «nome ??» inatacável · resíduo confesso do compilador (ll. 356-357 «Fonte: Excertos de …pdf»)"
+ancoras = "P2025-08-01 · P2025-08-02 · P2025-08-03 · P2024-05-04 · P2024-03-03 · P2024-02-25 · P2021-12-04 · P2021-01-23 · P2020-07-11 · P2023-08-05 · P2024-11-09 · P2019-08-25 · B011 · B013 · B014 · B016 · B024 · B031 · B042 · B050 · B060 · B083"
+
+[documentos]
+mapeamento = "consolidacoes/F034_fenvans-livro/mapeamento.md (estrutura + estatística de espelho + 52 sondas com âncora + anti-duplicação)"
+divergencias = "consolidacoes/F034_fenvans-livro/divergencias.md (0 D imputáveis ao doc · 3 abertas Q-B/C/D de gabinete · 7 resolvidas na investigação)"
+devolutiva = "consolidacoes/F034_fenvans-livro/devolutiva.md (Q-A regime espelho · Q-B correção F032 D-5 «Wyrd ~9 bi» · Q-C REVISAR «autora do Apocalipse» · Q-D grafias-variante · Q-E caixa/registro nº 17)"
+
+[regras]
+a = "nenhum compilador substitui a fonte primária (F032 Q-D; reafirmado: o doc é espelho — citável é a apostila, não o doc)"
+b = "notas de ficha grafam EXATAMENTE a âncora primária (F033-QB) — vale para a eventual nota Q-B no RC-658"
+c = "exclusão física do bruto só com registro JSON nº 17 + SHA re-conferido imediatamente antes do rm (precedente nº 16)"
+d = "ledger alheio só se retifica com despacho, nunca de ofício (Q-B)"
+e = "sondas numéricas com fronteira (^|[^,0-9]) e grep -i sobre índice NFD sem acentos — licao C-v"
+f = "TOML validado por tomllib ANTES da gravacao — chaves ASCII (licao F032/F033)"
+
+[estado_base]
+termos = 933
+relacoes = 1898
+validacao = "OK (python3 ferramentas/dados_termos.py) — inalterada nesta fase"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F034-A…E aplicado na íntegra; nada além do assinado; nenhuma aspa do doc propagada"
+delta = "TERMOS 933 (inalterado) · RELACOES 1898 (inalterado) · fichas: RC-658 (1 nota, sem blindagem — a única da esteira F034) · ledger: retificação F032 D-5 + 3 averbacoes no ledger F034 (Q-B/C/D)"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relacoes; zero orfas novas; espelhos regenerados (indice-mestre · xlsx · docx)"
+ledger = "Q-B: RC-454 INTACTA (despacho); nota so no RC-658. Q-C: manter REVISAR (dossie l.1139); RC-854 intacta. Q-D: variantes no ledger F034, fichas canonicas intocadas"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-17.json: 1 removido (12 - Fenvans - A Genese Nanotecnologica e o Sacrificio Cosmico.txt) apos reconferencia tripla do SHA-256; copia canonica em consolidacoes/F034_fenvans-livro/fonte.txt"

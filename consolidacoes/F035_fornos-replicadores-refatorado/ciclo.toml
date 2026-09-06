@@ -1,0 +1,45 @@
+# Ciclo F035 — «Fornos Replicadores-Refatorado» (esteira Family F · linhagem «refatorada» de P2024-05-04-R)
+id = "F035"
+titulo = "Fornos Replicadores-Refatorado"
+recebido = "2026-09-05 (commit do curador 5ed4e37 na branch arena/01a071c8-termos-rc · bruto uploads_recepcao/13)"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+
+[fonte]
+arquivo = "uploads_recepcao/13 - Fornos Replicadores-Refatorado.txt"
+copia_canonica = "consolidacoes/F035_fornos-replicadores-refatorado/fonte.txt"
+sha256 = "f1c9926ce023cd9ac77b7cea111fa6b4afd50cd907d97b08971ec8e02e823b06"
+bytes = 25845
+linhas = 104
+formato = "texto · documento-FONTE do cluster P2025-08-01 (não reciclagem — 63/63 linhas vs original.txt da apostila-mãe)"
+
+[cotejo_primario]
+metodo = "corpus normalizado 1.767 arquivos · auditoria linha a linha (>=80c, alvo 120c) vs apostila/original do cluster + sondas nominativas (ordem dos Logos · datas 12,17/4,1/11,6/4 bi · genealogia grega · linhagens · Awayem) · cotejo com B050 (Guia das Eras)"
+resultado = "63/63 (100%) verbatim no original.txt do cluster 2025-08-01 · 61/63 na apostila.md (as 2 omissões são supressões curatoriais de 2025: equação «Talm= Nidana» e resumo Awaylengan) · suspeitas de transposição LOGOS e TARTARO/EROS caíram a favor do doc · 12,17 bi CONFERIDO em B050 l.67 (fecha REVISAR pendente na RC-102) · 4,1 bi «após o início» ≡ 9,7–9,5 bi a.p. de B050 l.76 · 0 termos novos · 0 relações novas · guarda B060 inatacável"
+ancoras = "P2025-08-01 · P2019-08-25 · P2024-05-04-R · P2022-09-24 · P2020-07-11 · P2021-09-04 · P2021-12-04 · P2018-05-20 · P2021-05-15 · P2023-04-30 · P2025-06-26 · B050 · B051 · B083 · B022"
+
+[documentos]
+mapeamento = "consolidacoes/F035_fornos-replicadores-refatorado/mapeamento.md (estrutura tripartite · estatística de fonte · sondas · anti-dup · as 2 supressões da apostila)"
+divergencias = "consolidacoes/F035_fornos-replicadores-refatorado/divergencias.md (V-1 12,17 conferido · V-2 4,1 compatível · V-3 Nidana rejeitada mantém · V-4 Awayem · V-5 anti-dup · 0 D do doc)"
+devolutiva = "consolidacoes/F035_fornos-replicadores-refatorado/devolutiva.md (Q-A homologação documento-fonte · Q-B nota RC-102 fecha [REVISAR B050] · Q-C RC-408 opcional · Q-D manter supressão Talm=Nidana · Q-E Awayem · Q-F caixa/registro 18)"
+
+[regras]
+a = "documento-fonte também passa pelo rito: repassada de 2026 confere o que o ciclo de 2025 lavrou (ninguém é isento, nem a própria fonte)"
+b = "notas de ficha grafam EXATAMENTE a âncora primária (F033-QB) — a nota Q-B cita B050 ll. 67/68 verbatim"
+c = "REVISAR de apostila só se encerra com verificação em livro/STT primário + despacho (V-1: conferido em B050; executar só se aprovado)"
+d = "exclusão física do bruto só com registro nº 18 + SHA re-conferido imediatamente antes do rm (modelo nº 17: conferência tripla)"
+e = "suspeitas de transposição testam-se contra o CADASTRO (ordem dos Logos veio da própria ficha-mãe P2019-08-25 — o «erro» era a nossa leitura)"
+f = "TOML validado por tomllib ANTES da gravacao; chaves ASCII"
+
+[estado_base]
+termos = 933
+relacoes = 1898
+validacao = "OK (python3 ferramentas/dados_termos.py) — inalterada nesta fase"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F035-A…F aplicado na íntegra; nada além do assinado; base inviolada exceto as duas notas de ficha"
+delta = "TERMOS 933 (inalterado) · RELACOES 1898 (inalterado) · fichas: RC-102 (nota B050 ll. 67/69 + [REVISAR] encerrado na l. 30) e RC-408 (Eros + Terceiro Logos + período 9,7–9,5 bi a.p.)"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relacoes; zero orfas novas; STATUS inalterados; espelhos consolidados (indice-mestre · xlsx · docx)"
+ledger = "Q-D/Q-E: apenas averbações (supressão Talm=Nidana mantida; grafia Awayem não canonicizada); F035 encerrado com 0 abertas · 5 averbações"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-18.json: 1 removido (13 - Fornos Replicadores-Refatorado.txt) após conferência tripla do SHA; cópia canônica em consolidacoes/F035_fornos-replicadores-refatorado/fonte.txt"

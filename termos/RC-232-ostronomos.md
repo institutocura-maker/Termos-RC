@@ -20,7 +20,7 @@ Os Ostronomos são uma das "espécies de fora" que monitoravam a Terra nos tempo
 
 ## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
-- **[P2021-05-15 · O PRESTÍGIO DOS «ASTRONOMOS» JUNTO ÀS ETNIAS HIPERBÓREAS]** "Eh, e astronomos, esses dois seres tinham muito mais prestígio junto às ilhas, desculpa, junto às etinias hiperbórias híbridas do que a turma do universo vizinho, como astronomos e seus descendentes, suas linhagens e uma um modo muito particular de viver e tinha suas limitações." (U0003) — [REVISAR: «Apólogo» ≈ Apolo.]
+- **[P2021-05-15 · O PRESTÍGIO DOS «ASTRONOMOS» JUNTO ÀS ETNIAS HIPERBÓREAS]** "Eh, e astronomos, esses dois seres tinham muito mais prestígio junto às ilhas, desculpa, junto às etinias hiperbórias híbridas do que a turma do universo vizinho, como astronomos e seus descendentes, suas linhagens e uma um modo muito particular de viver e tinha suas limitações." (U0003) — [REVISAR: «Apólogo» ≈ Apolo. → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]
 - **[P2021-05-15 · ⚠️ A AMBIGUIDADE QUE O CURADOR DETERMINOU PRESERVAR (Devolutiva O-8 / T-9)]** "O governo dos Estados Unidos é engraçado, tem a astrônomos aí dizendo que Nibiro não existe e tem grupos de cientistas conversando com a Nunx escondido e que sabe de tudo." (U0010) — Na mesma fonte a palavra designa também os astrônomos profissionais humanos (Q&A U0009–U0010). Vinculado à RC-232 **com ressalva**: os dois sentidos não se fundem; a ambiguidade fica registrada aqui e na apostila.
 
 ## Fontes
@@ -51,3 +51,7 @@ Sophia (RC-009); Família Val (RC-109); Val Geon (RC-126); Val Pen (RC-129); Val
 
 ## Observações
 Ficha baseada em B017/B018 (obras primárias) + B031. A equivalência exata Ostronomos = Sirianos precisa de verificação: B031 descreve os Sirianos como anfíbios inteligentes; B017 não usa a palavra "Siriano" explicitamente no trecho lido. Verificar no cap. 4 completo.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 23 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

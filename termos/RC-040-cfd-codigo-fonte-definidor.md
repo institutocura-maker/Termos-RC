@@ -92,10 +92,15 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 
 ## Observações
 
-* **[REVISAR] — estado das arestas.** Dos cinco códigos listados em `relacionados`, só 5
+* **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] — estado das arestas.** Dos cinco códigos listados em `relacionados`, só 5
   tem aresta correspondente em `RELACOES`. A desproporção (muita obra, pouco grafo) é o motivo pelo qual este
   código era candidato a materialização **sem** ser candidato a relação nova: a Base ganha o arquivo, não ganha
   rede.
 * Esta ficha **não** converte o CFD em termo operacional de nada: não há código de procedimento, não há uso
   computacional, não há paralelo com «código-fonte» em engenharia de software. O sentido é o das obras vinculadas
   (definição escrita da vida biológica) mais o que a fala de 2023 acrescenta sobre organização e paz.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 95 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

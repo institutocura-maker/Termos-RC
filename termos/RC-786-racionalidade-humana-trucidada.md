@@ -51,6 +51,10 @@ Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (R
 - **Goethe** (séc. XVIII-XIX) — quem alegorizou a submissão em Fausto
 
 ## Observações
-- [REVISAR]: a palestra de 2023-11-11 mistura história factual (Concílio de Niceia 325 DC, Boécio executado em 524 DC, proibição de leitura pelo catolicismo medieval) com **leitura do autor** (a racionalidade foi "trucidada" como projeto deliberado). A separação fato/leitura é fundamental.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-11-11 mistura história factual (Concílio de Niceia 325 DC, Boécio executado em 524 DC, proibição de leitura pelo catolicismo medieval) com **leitura do autor** (a racionalidade foi "trucidada" como projeto deliberado). A separação fato/leitura é fundamental.
 - Quarentena: leitura do autor; sem fusão com historiografia acadêmica (onde o analfabetismo medieval é multifatorial) ou com teologia cristã (onde o catolicismo é visto como preservador do conhecimento).
 - Quarentena sobre **Fausto de Goethe**: a leitura do autor é que Fausto simboliza a tentativa de submeter o eu humano; não é a leitura acadêmica padrão.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

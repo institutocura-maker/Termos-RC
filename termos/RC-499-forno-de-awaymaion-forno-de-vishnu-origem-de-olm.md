@@ -24,7 +24,7 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
   - produção de seres radiatas "mais racionalizados, frios e lógicos, com poucas emoções"; responsável pela emergência do gênero existencial "biodemo";
   - "figuras cruciais como Sophia e outros avatares de Vishnu foram produzidos a partir de suas instalações";
   - "o próprio Quarto Logos (Olm/Codificador de Zian), um ser que não é criador e que não mergulhou no universo antimaterial, surgiu 'a partir' do forno de Vishnu, Awaymaion, e depois apareceu na nave Asphezian no Sistema de Capela";
-  - "quando os protótipos dos fornos de Vishnu (Awaymaion) e de Shiva (Awaylengan) se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050] — origem das espécies mais complexas, incluindo os humanos ("subproduto" da última criação do Projeto Talm);
+  - "quando os protótipos dos fornos de Vishnu (Awaymaion) e de Shiva (Awaylengan) se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL — ver nota ao fim da ficha] — origem das espécies mais complexas, incluindo os humanos ("subproduto" da última criação do Projeto Talm);
   - "a semeadura da vida biológica... não foi um processo aleatório, mas uma tentativa de 'recriar a Colmeia Trimurtiana em moldes biológicos'";
   - Mohen So (RC-081, avatar Keshava de Vishnu) produziu os fenvans (RC-064) e, a partir deles, Sophia, "sua contraparte no universo material".
 
@@ -73,7 +73,7 @@ Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (
 
 ## Observações
 - **Natureza da fonte:** ART-2025-08-01 é material do curador baseado em Ellam (não primário); confirmado por 2 fontes independentes (B061/P2021-12-04 + ART);
-- **Quarentenas:** taxonomia radiata/bilatério = leitura da RC; data do cérebro bilatério [REVISAR — B050].
+- **Quarentenas:** taxonomia radiata/bilatério = leitura da RC; data do cérebro bilatério [REVISAR — B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL —].
 
 **Regra de status:** 🟡 provisório — promovido por Devolutiva ART-2025-08-01; aguarda confirmação em fonte primária para definitivo.
 
@@ -86,3 +86,7 @@ Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (
 - "E o forno de Vishnu chamado Awaymaion segundo que veio a funcionar, ainda que nele a Mensagem Talm estava já codificada há muito tempo" (STT) — a Mensagem Talm codificada no forno de Vishnu.
 - **Ganho de anterioridade:** a ficha até aqui tinha fonte oral mais antiga `P2021-05-15`; `P2019-08-25` passa a ser a **primeira fala**.
 - **Grafias embrionárias (não renomear):** "Aon/Aô/a maior/Mayon/Mayão/Amaion".
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **CHANCELA — TENSÃO INSOLÚVEL (l. 27 e l. 76): o mapa não trata do cérebro bilatério.** Varredura integral do B050 original.txt: nenhuma linha «bilatério»/«cérebro»/«hemisfério». A linha semanticamente mais próxima, l. 94, verbatim: «[ 3,800,000,000 a.p.] (trilha A, y=1342) Surge a água no planeta Terra. / Surge o Nidana ("molécula-mãe). / Primeiras moléculas que já / possuiam câncer. (3,8 bilhões a.p.)», trata de outro evento (água/Nidana/moléculas). A data «~4 bilhões» do encontro dos protótipos segue ancorada só na moldura da fonte (P2019-08-25 e irmãos); chancela nos termos do despacho — ver nó RC-771, mesma conclusão.

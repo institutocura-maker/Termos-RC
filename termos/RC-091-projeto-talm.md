@@ -25,7 +25,7 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 ## Ampliação — P2024-11-09
 
-- **Projeto Talm (P2024-11-09):** o projeto que trouxe a vida do universo vizinho para o universo biológico (via Moren/Phanes); STT "projeto Town" [REVISAR].
+- **Projeto Talm (P2024-11-09):** o projeto que trouxe a vida do universo vizinho para o universo biológico (via Moren/Phanes); STT "projeto Town" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 
 ## Ampliação — P2024-08-03
@@ -47,7 +47,7 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 ## Ampliação — P2025-08-02
 
-- **[ART-2025-08-02/03 — material do curador] O acrônimo expandido e a epopeia (ART-02; ART-03):** "o Projeto TALM, acrônimo para 'Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material', é o epicentro desta cosmovisão; ele foi elaborado há aproximadamente 7,5 a 7,7 bilhões de anos, como uma tentativa desesperada da Trimúrti de salvar a vida e o próprio Criador de uma iminente 'falência' no universo antimaterial"; "o objetivo supremo era transformar o 'nidana' — o código-fonte primordial da vida que carregava as marcas psíquicas dos seres 'doentes' — em 'saccidanandhagana', um estado de êxtase e bem-aventurança"; "a essência dessa transmutação residia na manipulação do 'nidana'... visava 'aniquilar certas ordens algorítmicas' do código 'doentio' original de Brahma e 'amortecer' o problema da 'podridão original'"; "recriar a 'Colmeia Trimurtina' em moldes biológicos"; "a primeira replicação do 'nidana' no universo material ocorreu dentro de um 'casulo', um pequeno 'artefato autorreplicador' construído com os elementos químicos disponíveis"; "é nesse ponto que, conforme Allan Kardec, no 'Livro dos Espíritos', surgem os 'espíritos simples e ignorantes'" [referência externa]; **acrônimo expandido registrado pela 1ª vez na base**; datas [REVISAR — conferir B050].
+- **[ART-2025-08-02/03 — material do curador] O acrônimo expandido e a epopeia (ART-02; ART-03):** "o Projeto TALM, acrônimo para 'Transferência do Código-fonte Definidor Pessoal do Criador para o Universo Material', é o epicentro desta cosmovisão; ele foi elaborado há aproximadamente 7,5 a 7,7 bilhões de anos, como uma tentativa desesperada da Trimúrti de salvar a vida e o próprio Criador de uma iminente 'falência' no universo antimaterial"; "o objetivo supremo era transformar o 'nidana' — o código-fonte primordial da vida que carregava as marcas psíquicas dos seres 'doentes' — em 'saccidanandhagana', um estado de êxtase e bem-aventurança"; "a essência dessa transmutação residia na manipulação do 'nidana'... visava 'aniquilar certas ordens algorítmicas' do código 'doentio' original de Brahma e 'amortecer' o problema da 'podridão original'"; "recriar a 'Colmeia Trimurtina' em moldes biológicos"; "a primeira replicação do 'nidana' no universo material ocorreu dentro de um 'casulo', um pequeno 'artefato autorreplicador' construído com os elementos químicos disponíveis"; "é nesse ponto que, conforme Allan Kardec, no 'Livro dos Espíritos', surgem os 'espíritos simples e ignorantes'" [referência externa]; **acrônimo expandido registrado pela 1ª vez na base**; datas [REVISAR — conferir B050 → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha]
 
 
 ## Ampliação — B044 (A Divina Colmeia)
@@ -81,7 +81,7 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 ## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
 
-- **[P2023-04-01 · O CÓDIGO MICROBIANO E OS TRÊS FORNOS — a grafia normalizada]** "Quando a gente fala em vírus, protozoários, bactérias, a gente tá falando na forma mais minúscula de vida... ISSO AQUI É O CÓDIGO DO CRIADOR QUE VEIO DE LÁ PARA CÁ. Em um dos livros últimos que eu lancei chamado ALÉM DA ORDENAÇÃO DO CAOS, A FACE MICROBIANA DO CRIADOR [B064 — a variação documentada], é exatamente isso que eu tenho a explicar"; **OS TRÊS FORNOS REPLICADORES (a grafia fonética da raiz)**: "a vida biológica foi replicada através de TRÊS FORNOS REPLICADORES... **de AWAAIEN, AON E AINGAN** [a grafia desta fonte — NORMALIZANDO o [REVISAR] 'Aaion/Aá Maayon/awailingan' da P2023-04-15; fonética a confirmar], PORQUE ERA UM FORNO PARA CADA UM DOS TRÊS SENHORES da trimúrti ou da tríade"; o transfer: "o código de vida do criador foi transferido do universo vizinho pro daqui" — "a vida primeiro aconteceu lá, nos primeiros 7 bilhões de anos desse universo vizinho... não existia vida no nosso universo" [RC-280 no pacote].
+- **[P2023-04-01 · O CÓDIGO MICROBIANO E OS TRÊS FORNOS — a grafia normalizada]** "Quando a gente fala em vírus, protozoários, bactérias, a gente tá falando na forma mais minúscula de vida... ISSO AQUI É O CÓDIGO DO CRIADOR QUE VEIO DE LÁ PARA CÁ. Em um dos livros últimos que eu lancei chamado ALÉM DA ORDENAÇÃO DO CAOS, A FACE MICROBIANA DO CRIADOR [B064 — a variação documentada], é exatamente isso que eu tenho a explicar"; **OS TRÊS FORNOS REPLICADORES (a grafia fonética da raiz)**: "a vida biológica foi replicada através de TRÊS FORNOS REPLICADORES... **de AWAAIEN, AON E AINGAN** [a grafia desta fonte — NORMALIZANDO o [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota] 'Aaion/Aá Maayon/awailingan' da P2023-04-15; fonética a confirmar], PORQUE ERA UM FORNO PARA CADA UM DOS TRÊS SENHORES da trimúrti ou da tríade"; o transfer: "o código de vida do criador foi transferido do universo vizinho pro daqui" — "a vida primeiro aconteceu lá, nos primeiros 7 bilhões de anos desse universo vizinho... não existia vida no nosso universo" [RC-280 no pacote].
 - 0 códigos novos (O-3). Quarentena: científica.
 
 
@@ -155,3 +155,22 @@ O Projeto Talm é apresentado como transferência do código plasmático Nidana 
 - **[P2025-07-18 · U00012–U00016]** O Projeto Talm é explicitamente mencionado como o programa que trouxe “o código da vida do universo antimaterial para o material”. No arco narrativo, a coordenação é atribuída a **Morren So**.
 - **Cruzamento estrutural:** esta nota deve ser lida junto da ampliação de RC-454 e da descrição dos três Fornos Replicadores em RC-771. Não altera a definição, o status ou a contagem de códigos.
 - **Quarentena:** transferência de código, universo antimaterial/material e microinstantes são linguagem cosmológica do expositor; não são biologia, física ou engenharia demonstradas.
+## Nota — terceiro ponto cronológico em B050: `[REVISAR]` da l. 65 MANTIDO — F036 aplicação (05/09/2026)
+
+- **[B050 · original.txt, l. 82 — cotejo F036, por despacho Q-F036-B de 05/09/2026]** «[ 7,700,000,000 a.p.] (trilha A, y=1724) "Início" do projeto Talm. (7,7 bilhões a.p.)» — o mapa das eras crava 7,7 bi entre as duas marcações do B024 («~8,1 bi» cap. 16 × «~7,5 bi» cap. 12, l. 65 desta ficha) e converge com a faixa da curadoria 2025 (l. 50 desta ficha: «elaborado há aproximadamente 7,5 a 7,7 bilhões de anos»).
+- **Estado do `[REVISAR]` (l. 65): MANTIDO ABERTO, por decisão expressa do despacho** — a discrepância interna dos capítulos do B024 continua evidente para futuros pesquisadores; o B050 é marco convergente, não árbitro da contagem interna do livro.
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **Flag da l. 50 («datas [REVISAR — conferir B050]») encerrada.** B050 original.txt l. 82, verbatim: «[ 7,700,000,000 a.p.] (trilha A, y=1724) "Início" do projeto Talm. (7,7 bilhões a.p.)» — o mapa crava 7,7 bi, o termo superior da faixa grafada pela curadoria 2025 («7,5 a 7,7 bilhões»); a nota F036 desta ficha (l. 158–161) já registrara o par, e este encerramento a referenda.
+- **A flag da l. 65 (discrepância interna do B024, ~8,1 × ~7,5 bi) segue ABERTA por decisão expressa do despacho F036-Q-B — o Mutirão não a toca.**
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 28 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 84 (AG).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+- **Blindagem Q-F042-B cumprida:** a l. 65 (flag ABERTA, intocável) foi preservada byte a byte — assert explícito na execução; o selo incidiu apenas na l. 84 (normalização de grafia da fonte, sem relação com a protegida).

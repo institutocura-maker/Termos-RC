@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-13 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 **Projeto Orbum** é o movimento de **cidadania planetária** idealizado por Jan Val Ellam (com base no conceito do planeta **Orbum**, RC-085) e apresentado no Manifesto anexo às *Crônicas de um Novo Tempo* (B042): a declaração dos princípios da **cidadania planetária** — "exerça plenamente a sua nacionalidade, mas não esqueça: somos todos cidadãos planetários". Difunde a ideia de que formamos "uma só família ante o cosmos" e que o exercício pleno da **cidadania cósmica** (RC-226) é o maior ensinamento legado por Jesus.
@@ -54,3 +54,6 @@ Jan Val Ellam (RC-071, idealizador); Jesus (ensinamento da cidadania cósmica, s
 
 ## Observações
 Movimento real do Ellam (site www.orbum.org; citado em outras obras da Etapa II). Registrar o Projeto Orbum como expressão prática da RC — o elo entre a doutrina e a cidadania planetária.
+## Nota — o Manifesto Orbum como apêndice — F033 aplicação (05/09/2026)
+
+- **[B011 · DOSSIE-PRE-CURADORIA-TERMINOLÓGICA-v1, l.54]** «Institucional: IEEA, Manifesto Orbum (p. 166–174).» — o Manifesto é apêndice do livro, com paginação do dossiê; a tradição «presente no fim de cada um dos livros publicados pelo autor» provém do anexo do doc F033 e fica averbada só no ledger, sem aspa própria.

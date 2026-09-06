@@ -40,7 +40,7 @@ Aparece em **P2019-04-14**, U0004. Contexto: a palestra denuncia que **"a mão q
 - **Humanos (RC-099)** — quem pratica o vechame
 
 ## Observações
-- [REVISAR]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica.
 - **Quarentena filosófica**: o conceito **NÃO FUSIONAR com**:
   - Estoicismo acadêmico (amor fati — amor ao destino — é diferente: é aceitação passiva, não indiferença amorosa ativa).
   - Budismo acadêmico (upekkha — equanimidade — é diferente: é desapego, não amor ativo).
@@ -48,3 +48,7 @@ Aparece em **P2019-04-14**, U0004. Contexto: a palestra denuncia que **"a mão q
   - Ética do cuidado (Carol Gilligan) — embora haja paralelo, é diferente: o vechame é **amor sem submissão**, não cuidado relacional.
 - **É um conceito novo na história do pensamento** — sem paralelo acadêmico direto. É a contribuição ética mais original do autor.
 - **Conexão com o "sangue de barata"**: barata é um inseto que **sobrevive a tudo** — até radioatividade. O "sangue de barata" é a **resistência radical sem hostilidade**.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 43 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

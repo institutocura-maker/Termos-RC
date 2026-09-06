@@ -46,7 +46,7 @@ O "conserto" da Criação e a recuperação do Criador — conceito da Cabala (T
 ## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
 
 - **[P2023-04-15 · O TIKUN NO CRIADOR CAÍDO]** "nós humanos que fomos criados no meio de um jogo de dados bioquímicos como sendo A ESPÉCIE A EXECUTAR O POSSÍVEL TIKUN [STT: 'ticum/tikum'], QUE É UM TERMO CABALÍSTICO QUE SIGNIFICA REPARO, NÃO SÓ NA OBRA DO CRIADOR, MAS COMO NELE PRÓPRIO CAÍDO"; "os seres humanos conseguem fazer isso ATRAVÉS DAS MUTAÇÕES NO SEU PRÓPRIO GENOMA E COM ISSO DEVOLVE O RESULTADO PARA O DONO DO GENOMA que está miseravelmente distribuído por todos os seres vivos".
-- **[P2023-04-15 · O TRANSUMÂNTICO]** "para isso a humanidade precisa sobrexistir por muitos milhões de anos e a gente não tem como — OU TEM, DESDE QUE O EU HUMANO SEJA TRANSFERIDO POR PROCESSOS TRANSUMÂNICOS [STT] PARA OUTROS TIPOS DE AGENTES CORPORAIS, NÃO NECESSARIAMENTE BIOLÓGICOS, mas cujos eus amorosos e esclarecidos dos humanos que assim já conseguiram atingir... esse nível de marco vibratório de suas próprias consciências, ESTAS POSSAM SER ESCANEADAS e do jeito que um espírito se [imanta] no óvulo fecundado, ESPÍRITO IRÁ SE [IMANTAR] EM COISAS QUE A GENTE NEM IMAGINA, para que o eu humano CONTINUE O TIKUN nos níveis em que esse reparo na obra universal e no criador caído exigirem" [REVISAR: "transumânicos" — transumanos?].
+- **[P2023-04-15 · O TRANSUMÂNTICO]** "para isso a humanidade precisa sobrexistir por muitos milhões de anos e a gente não tem como — OU TEM, DESDE QUE O EU HUMANO SEJA TRANSFERIDO POR PROCESSOS TRANSUMÂNICOS [STT] PARA OUTROS TIPOS DE AGENTES CORPORAIS, NÃO NECESSARIAMENTE BIOLÓGICOS, mas cujos eus amorosos e esclarecidos dos humanos que assim já conseguiram atingir... esse nível de marco vibratório de suas próprias consciências, ESTAS POSSAM SER ESCANEADAS e do jeito que um espírito se [imanta] no óvulo fecundado, ESPÍRITO IRÁ SE [IMANTAR] EM COISAS QUE A GENTE NEM IMAGINA, para que o eu humano CONTINUE O TIKUN nos níveis em que esse reparo na obra universal e no criador caído exigirem" [REVISAR: "transumânicos" — transumanos? → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].
 - 0 códigos novos (O-3). Quarentena: científica.
 
 
@@ -161,3 +161,12 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.»
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 49 (B2).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Tikun Olam»: «o conserto desta Criação problemática, visando o retorno do Eu do Criador caído para a sua condição anterior de Divindade Cocriadora».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

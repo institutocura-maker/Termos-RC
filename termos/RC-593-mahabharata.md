@@ -42,7 +42,7 @@
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · «MARRA BARAT»: A OBRA CITADA COM A GRAFIA DA FONTE]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020); "Mas isso não quer dizer que a gente não tenha honra, porque o próprio Marrabarata diz que em certas situações a mentira é mais aplic que é a verdade sob pena do que você vai provocar de repercussão no outro lado da história." (U0020) — [REVISAR: «Marra Barat»/«Marrabarata» = Mahabharata; «Braba» = Brahma. A mentira «mais aplicável» que a verdade é juízo da fonte sobre o próprio épico.]
+- **[P2023-10-14 · «MARRA BARAT»: A OBRA CITADA COM A GRAFIA DA FONTE]** "Existe uma outra obra chamada Marra Barat, que do começo ao fim fala de uma linhagem regenerada de Braba, ou seja, de Javé." (U0020); "Mas isso não quer dizer que a gente não tenha honra, porque o próprio Marrabarata diz que em certas situações a mentira é mais aplic que é a verdade sob pena do que você vai provocar de repercussão no outro lado da história." (U0020) — [REVISAR: «Marra Barat»/«Marrabarata» = Mahabharata; «Braba» = Brahma. A mentira «mais aplicável» que a verdade é juízo da fonte sobre o próprio épico. → ENCERRADO 2026-09-05 · F038-L2: ver nota para a equivalência do título; sub-caso Braba migra ao L4]
 - **[P2023-10-14 · O DIÁLOGO DE KRISHNA NO BAGAVAGUITA]** "Então, Krishna no Bagavaguita, que é um dos capítulos do Marabarata, ele explica com outras palavras, porque ele se diz o introdutor do conceito de dharma." (U0020)
 
 
@@ -90,3 +90,11 @@ Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)
 Grafia e relevância no núcleo védico foram validadas pelo curador.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Marra Barat ≡ Mahabharata (l. 45): ENCERRADA a equivalência.** «marra barat/marrabarata» em **26 arquivos** do corpus (uso corrente consolidado; amostra: 2024-08-03 ×6, 2024-11-02 ×5, 2024-02-25 ×4) — equivalência cravada por soberania estatística. O juízo da fonte («a mentira mais aplicável que a verdade») permanece como asserção da fala, não como pendência.
+- **Sub-caso Braba (migração ao L4):** a fala grafa «linhagem regenerada de Braba, **ou seja, de Javé**» enquanto a anotação da mesma linha resolve «Braba = **Brahma**» (4 arquivos com «braba», incl. DOSSIE 2025-08-03 ×2) — tensão intra-corpus, sai do L2 e entra no roster L4 sem adjudicar aqui.
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-B · BRABA ENCERRADO (nota de lavratura — a flag-mãe da l. 45 já fora selada no Lote 2; o sub-caso vivia nesta ficha só como migração averbada):** fica lavrado que «Braba» é mera grafia de fala de BRAHMA, com gloss auto-consistente da própria fonte («de Braba, ou seja, de Javé» — U0020). Prova intra-corpus: RC-696 titula «A LINHAGEM REGENERADA DE BRAHMA, DITA COMO «DE JAVÉ»» e define «corpo reconstruído de Brahma/Javé»; a identidade Brahma ≡ Javé é doutrina do corpus (RC-041, «Ser Trimurtiano»). Nenhum código de anatomia divina renomeado (D1 modelar).

@@ -45,6 +45,11 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. 
 - **Yel Luzbel** (RC-142) — paralelo/companheiro de Pandora
 
 ## Observações
-- [REVISAR]: a grafia STT "Y Luzb" deve ser canonizada para "Yel Luzbel" (RC-142) — apóstrofo que aparece na fala do autor é provável corrupção do STT.
+- [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]: a grafia STT "Y Luzb" deve ser canonizada para "Yel Luzbel" (RC-142) — apóstrofo que aparece na fala do autor é provável corrupção do STT.
 - Quarentena: leitura do autor; sem fusionar com a genealogia grega clássica (Nyx como personificação da Noite, mãe de Hemera, Éter, Dia, etc.).
 - A genealogia é **complexa** e envolve múltiplos saltos (Nyx → Moros → brecha → Quarto Logos → Pandora). Pode haver paralelos em outras palestras mais recentes.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 48 (B5b).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

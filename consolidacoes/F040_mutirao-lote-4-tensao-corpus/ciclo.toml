@@ -1,0 +1,32 @@
+id = "F040"
+tipo = "MUTIRAO REVISAR - Lote 4 (Tensao Intra-Corpus) - ultimo lote de decicao antes do L5"
+abertura = "2026-09-06"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+baseline_vivas = 113
+roster = 9
+selaveis = 8
+fichas = 8
+projecao_pos_lote = 105
+
+[metodo]
+origem = "8 linhas do censo F037 (lote L4-TENSAO-CORPUS) + Braba, herdado do roster do L2 por decisao do curador (despacho 05/09, item D)"
+regra = "tensao intra-corpus se resolve com o proprio corpus: quando uma fonte do acervo ja harmoniza a divergencia (RC-696 'Brahma/Jave'), a tensao e morfologica, nao de fato - e morre chancelada com referencia cruzada"
+guardas = "as mesmas da era F039 (corte antes de ## Nota, backticks/aspetos, adjudicacao ampla, M2: so livros/ vale como prova impressa)"
+carimbo = "sintaxe consolidada: inline '... -> ESTADO 2026-09-06 - F040-L4: ver nota' + nota unica por ficha ao fim; assert byte-a-byte antes de gravar"
+
+[grupos]
+a_ratificacao = "RC-035 ll.12/28 (bilaterios: cadastro x uso da fala - 'divergencia registrada, nao costurada' ja e a politica da ficha; ratificar e encerrar) | RC-658 l.78 (IREM = IRON: auto-declaracao na fala; modelo Wyrd/Nornes do L2, mesma ficha) | RC-782 l.46 (Jave como caos: leitura do autor x Hesiodo academico - Arca nao e tribunal filologico, precedente Senequeribe) | RC-787 l.47 (egregora: uso especifico do autor vs literatura esoterica - idem)"
+b_braba = "RC-593 l.45: 'linhagem regenerada de Braba, ou seja, de Jave' - RC-696 ja titula a materia 'BRAHMA, DITA COMO DE JAVE' e define 'Brahma/Jave'; a identidade Brahma = Jave e doutrina do corpus (RC-041). Proposta: encerrar lavrando Braba = grafia de fala de Brahma, sem renomear nada"
+c_dados = "RC-378 l.24 ('acabou em fevereiro desse ano [2025]': dado narrativo com data interna ja registrada entre colchetes - chancelar DADO-NARRATIVO, codigo de data nenhum) | RC-536 l.25 (B042: colofon Atlan 04/08/2011 x BIBLIO Etapa II ~1999-2002 - nao ha erro: um e origem dos textos, outro e o volume; chancelar e averbar a nota, BIBLIO intocado ate despacho em contrario)"
+d_orfandade = "RC-024 l.79: 'os deibir daqui a uns 1000 anos' - 'deibir' 1x no corpus inteiro (orfandade de STT; sem audio na esteira da P2021-05-15). Proposta: chancela de ISOLAMENTO no modelo Olga (L2/Q-C)"
+
+[perguntas]
+q = ["Q-F040-A: ratificacao em bloco dos 4 registros de tensao (ENCERRADO-PRECEDENTE/RATIFICACAO) aprovada?", "Q-F040-B: Braba = grafia de fala de Brahma com gloss auto-consistente (de Jave); encerrar lavrando a equivalencia?", "Q-F040-C: os 2 casos de dado (RC-378 DADO-NARRATIVO; RC-536 dualidade colofon/BIBLIO averbada sem mexer no cadastro)", "Q-F040-D: deibir sob ISOLAMENTO (modelo Olga) OK?", "Q-F040-E: forma e fila - nota unica por ficha, 9 flags, saldo 113 -> 104, e em seguida L5 (105 linhas + 3 diferidas do L3 = 108 reivindicacoes)"]
+
+[aplicacao]
+execucao = "2026-09-06 - despacho Q-F040-A...E aplicado: 7 selos em 7 fichas + nota de lavratura do Braba na RC-593 (a flag-mae ja estava selada no Lote 2; o sub-caso era averbacao, nao token vivo - projetivo de 8 selos corrigido em censo)"
+metrica = "saldo oficial 113 - 7 = 106 vivas (regua estrita 108: +2 de fronteiras da familia RC-080/RC-536, anotadas); o 105 projetado nao existia porque Braba nunca teve token proprio"
+espelhos = "unica ao fim do lote; validador OK 933/1898; relacoes/ e cadastros intocados; BIBLIO intocada (Q-C)"
+fila = "L5 revalidado e protocolado no F041 (81 tokens vivos de 107 reivindicados; bloco unico de tres carimbos)"

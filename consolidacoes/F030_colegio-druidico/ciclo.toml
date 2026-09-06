@@ -1,0 +1,71 @@
+# ciclo.toml — consolidacao F030 · Colégio Druídico — Estudo Continuado (Daniela D. Ferro)
+# ──────────────────────────────────────────────────────────────────────────────
+# Tipo: CONSOLIDAÇÃO (fonte refatorada de aluna — "itens de live"; não é garimpo Esteira Leve).
+
+sigla_fonte = "F030"
+titulo = "Colégio Druídico — Estudo Continuado — Itens da Live por Daniela D. Ferro (Youtube canal Oficial Jan Val Ellam)"
+arquivo_fonte = "fonte.txt"
+sha256_fonte = "36b35d463cc41187a78f7c81fd2871278e1d201db4f7c63d84dfe08e4405c6ea"
+bytes_fonte = 41358
+linhas_fonte = 198
+data_levantamento = "2026-09-05"
+branch = "arena/01a071c8-termos-rc"
+
+# Caracterização
+natureza = "Compilação de 'itens de live' por aluna avançada (Daniela D. Ferro): prosa de estudo + trechos citados de livros primários (B017/B018 da trilogia Terra Atlantis; B052 Homoafetividade) + transcrição das 5 imagens/slides da apresentação. Texto final incompleto: a seção de imagens declara 'continua com a transcrição do restante do documento...' e encerra (ver D-10)."
+origem_primaria_presumida = "corpus Revelação Cósmica: B016 (O Quarto Logos), B026, B031, B057, B060, B017/B018/B039 (trilogia Terra Atlantis), B052 + palestras já processadas na Arca (P2017-10-14, P2021-05-15, P2022-03-26, P2021-12-04, P2022-09-18, P2024-11-03, P2020-04-25, P2023-12-03). As 'Referências da Palestra' dos slides apontam para séries do Grupo 4 IEEA ('Palestra 22 — O Codificador De Zion E A Escolas Dos Mistérios'; 'Palestra 44 — O Advento Da Superconsciência E A Técnica Mental Druuid') NÃO localizadas no acervo (radar R-1)."
+parente_documental = "linhagem das consolidações F022 (22-GLOSSÁRIO) e F029 (29-PERSONAGENS) — documento de terceiros refatorando o corpus Ellam; aqui com a particularidade de citar livros primários (B017/B018/B052) passíveis de cotejo byte a byte"
+
+# Regras (G1/G3 herdadas + desta rodada)
+tipo_processo = "CONSOLIDACAO"
+regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
+          "cotejo-com-fonte-primaria", "grafia-canonicas-na-base",
+          "fonte-de-terceiros-nao-propaga-atribuicao-sem-curadoria",
+          "cifras-do-refatorado-nao-sao-adotadas-sem-ancora (padrão F022-V2)",
+          "decisoes-homologadas-nao-sao-reabertas (navalha P2022-09-18: relíquias/Pedra de Scone sem código)",
+          "politica-quarentena-entre-ecossistemas (Bohr/pai de Odin: mitologia externa não-codificada, precedente Q-F029-D)"]
+
+# Estado do ciclo
+fase = "APLICACAO"             # LEVANTAMENTO | DEVOLUTIVA | APLICACAO
+altera_base = true             # despacho 05/09/2026 autorizou: dados_termos.py + 4 fichas + espelhos
+status = "concluído"
+data_aplicacao = "2026-09-05"
+
+# Cotejo primário executado nesta rodada (2026-09-05, só-leitura)
+[cotejo_primario]
+metodo = "busca normalizada (case/acento-insensível) dos trechos citados nos original.txt versionados em livros/CONCLUIDOS/ + verificação das cifras contra fichas em termos/ e trechos de ciclos em ciclos/"
+resultados = [
+  "B017 ✓ verbatim: 'Éramos 489 despertos, com quatro ainda hibernando sem perspetiva de despertar, e 243 fenecidos' (a grafia do doc 'perspectiva' é adaptação ortográfica)",
+  "B017 ✓ verbatim: Veneto/norte + 'Primeiro pousou espherian, a maior das três; depois asphezian...' — MAS o doc recorta e emenda ('por cerca de quase seis milênios' ← original: 'cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão, seja de proximidade como nas superfícies dos mundos. Esta permaneceu em órbita...')",
+  "B017 ✓ verbatim: 'exatas 28 bases, sendo as principais as de Antlar, no Sul...'; 'conflito ocorrido há cerca de 93 mil anos'; era glacial 25.000/21.000-17.000/-100m",
+  "B018 divergência: o doc escreve 'Benen'; B018 canoniza 'Benem'; contagem B018: '1677 não Val + 126 Val ativos + 38 em hibernação ... 1970 seres' (doc: 1.976) e '1218 alojados no sul, em Antlar' (soma 3.188 vs. '3.194' do doc — '3.194' sem ocorrência em B017/B018/B039) (D-4/D-5)",
+  "B052 ✓ os trechos do Colégio dos Magos existem no cap. 'Os Magos do Norte' (parte II); MAS a frase 'Joctan, neto de recebe a instrução dada por Heber' é truncada/colada: B052 diz 'O mensageiro levou também a instrução dada por Heber de que ele, desde que possível, fosse em direção ao norte...' e a base (RC-437) registra Joctan como FILHO de Heber (D-6)",
+  "Citação de abertura do Codificador («Conhecido na espiritualidade como o Quarto Logos...») — NÃO ocorre verbatim no corpus; os termos são ancorados (B060: 'ser Pashvnaj do gênero Adhy de Perperion'; B014: 'gênero Adhy'; RC-087/RC-011), mas a formulação não é localizável (D-8)",
+]
+
+# Decisões do curador (despacho de 05/09/2026 — registro lavrado em DECISAO-DO-CURADOR.md)
+[decisoes-curador]
+"Q-F030-A" = "sigla F030 homologada; ciclo registrado na caixa da Família F"
+"Q-F030-B" = "opção C: enriquecimentos B1-B3 ancorados EXCLUSIVAMENTE em fontes originais (P2022-09-18/B017/B052); F030 só como contexto de convergência"
+"Q-F030-C" = "Benem na fila, ficha=False, fonte estrita B018 — executado sobre o RC-032 EXISTENTE (retificação anti-duplicação; RC-930 nunca criado)"
+"Q-F030-D" = "radar apenas (Palestras 22/44 Grupo 4 IEEA); nenhuma peça fantasma"
+"Q-F030-E" = "fechar-assim: lacuna [TEXTO INCOMPLETO] declarada formalmente"
+"Q-F030-F" = "auditoria SHA-a-SHA preparatória em backups/; exclusão física aguarda comando final"
+"D-12"     = "navalha P2022-09-18 mantida; enriquecer RC-398/RC-068 citando P2022-09-18; nenhuma ficha nova para artefatos"
+"veda_o"   = "TERMINANTE: F030 não ancora aspa, datação nova nem mitologia externa (1976/3194/Liguriano/Bohr/52)"
+
+
+[aplicacao]
+delta = "+0 termos (fila RC-930 descartada por anti-duplicação — Benem já era RC-032) · +3 relações 'relaciona-se-a' (RC-032→RC-022/RC-058/RC-109, B018 verbatim) · relacionados de RC-032 atualizados · fontes de RC-398 e RC-068 += P2022-09-18"
+fichas_alteradas = ["termos/RC-398-thuata-de-dannan.md", "termos/RC-068-hiperborea.md", "termos/RC-403-colegiado-druidico.md", "termos/RC-437-joctan-e-faleg-filhos-de-heber.md", "termos/RC-062-experiencia-gron.md"]
+retificacao = "levantamento propusera código novo p/ Benem (D-5); scan nominal na aplicação achou RC-032/RC-065 já cadastrados — aplicação reforça o existente; D-5 e mapeamento corrigidos no lugar; ver DECISAO-DO-CURADOR.md §4.1"
+aspas_ancoradas = ["P2022-09-18 U0002 chars 876-1423 (RC-398/RC-068)", "B052 p.111 cena do mensageiro (RC-437)"]
+portao_verbatim = "5/5 PASS (2026-09-05)"
+espelhos = "indice-mestre.md (929) · base-terminologica.xlsx (7 abas) · base-terminologica-leitura.docx (929/1887/102/623) reconstituídos por ferramentas/build_*.py"
+auditoria_f030f = "backups/REGISTRO-LIMPEZA-2026-09-05-13.json (preparatória — nenhum bruto removido)"
+
+# Recebimento (política uploads_recepcao)
+[ingresso]
+canal = "uploads_recepcao/Colégio Druídico — Estudo Continuad.txt (commit d8bb396, 05/09/2026)"
+bruto_preservado = true         # NÃO removido da caixa de entrada — aguarda ordem do curador (padrão das limpezas)
+historico_recuperavel = "git show d8bb396:uploads_recepcao/..."

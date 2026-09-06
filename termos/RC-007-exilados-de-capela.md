@@ -44,7 +44,7 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR]) → 900Q]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota]) → 900Q]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A ESCOLA DE CAPELA: 3–4 Ma, substanciada há ~2 Ma]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006) — Contagem medida: «Capela» **1** ocorrência no bruto — a ficha não pode inflar esta fonte. ⚠️ «capelinos» = **0** ocorrências.
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
@@ -59,7 +59,7 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 
 - **[Capela foi uma pandemia, não uma reciclagem organizada] (U0006)** «O que houve em Capela foi uma pandemia, uma pandemia criada a partir de um vírus que surgiu.» — "o que houve em Capela foi um problema de saúde pública. A turma lá foi mais incompetente do que tá sendo o governo brasileiro no trato dessa pandemia" (glosa sem aspa — quarentena política não transita); "não é do jeito romântico que todos nós terminamos colecionando na nossa mente"; ainda não acabou: as quase 250.000 famílias biodem e o processador VOL seguem se adaptando; o exílio de Capela era um comboio organizado? "Não foi. Foi tudo improvisado."
 - **[Nunca houve exílio planetário na história do universo] (U0006)** «Sabe qual é a resposta? Nunca. Nunca houve isso.» — "o que ocorreu no nosso universo são problemas parecidos com o que aconteceu em Capela, mas eh subproduto de pandemia, confusões, de destruição"; "jamais algum mundo no nosso universo biológico passou por exílio espiritual, nos termos em que Nós ingenuamente pensávamos"; a separação do joio e do trigo na Terra seria o primeiro tipo de atitude nesse sentido desde que a criação começou.
-- **[A Caminho da Luz: a primeira notícia de exílio planetário] (U0006)** «Porque quando em 1000 eh 96, o livro tá da luz de Chico Xavier e Emanuel foi produzido ali naquele livro maravilhoso, pela primeira vez aparece em termos de literatura espiritual espírita, a notícia de um exílio planetária.» — [REVISAR: STT grafa "em 1000 eh 96" = 1996]; capítulo 4 de A Caminho da Luz: o exílio de Capela (mundo que girava em torno da estrela de Capela, na constelação do Cocheiro, norte astronômico); Kardec já tinha dado a base em A Gênese, capítulo 11 (queda dos anjos); Edgard Armond escreveu "Exilados e Capela" em homenagem ao capítulo (STT "Edgarmon" — grafia canônica: Edgard Armond).
+- **[A Caminho da Luz: a primeira notícia de exílio planetário] (U0006)** «Porque quando em 1000 eh 96, o livro tá da luz de Chico Xavier e Emanuel foi produzido ali naquele livro maravilhoso, pela primeira vez aparece em termos de literatura espiritual espírita, a notícia de um exílio planetária.» — [REVISAR: STT grafa "em 1000 eh 96" = 1996 → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota]; capítulo 4 de A Caminho da Luz: o exílio de Capela (mundo que girava em torno da estrela de Capela, na constelação do Cocheiro, norte astronômico); Kardec já tinha dado a base em A Gênese, capítulo 11 (queda dos anjos); Edgard Armond escreveu "Exilados e Capela" em homenagem ao capítulo (STT "Edgarmon" — grafia canônica: Edgard Armond).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -93,3 +93,12 @@ Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mi
 
 ## Observações
 Verificar nas obras primárias: a relação com a doutrina espírita dos "exilados de Capela" e a lista completa das famílias envolvidas.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 62 (B2).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 47 (AG/AG).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

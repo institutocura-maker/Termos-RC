@@ -26,7 +26,7 @@ Com isso:
 ## Etimologia / Grafias
 
 - **Canônico da Base:** *anjos caídos* (classe funcional), com o bloco de nomes próprio em RC-078/RC-142.
-- **Na fonte oral (P2020-04-25):** os anjos são citados como **interlocutores e informantes**, com grafia do STT para os nomes do entorno: «I Luzbell», «Luisber», «Luzbel», «a rebelião de Lúcia» [REVISAR: feminização do STT]. A expressão «anjos caídos» **não** é pronunciada como sintagma nesta fala: o que a fonte entrega é o **mecanismo**, e é por isso que a materialização se apoia no verbo dela, não em um rótulo dela.
+- **Na fonte oral (P2020-04-25):** os anjos são citados como **interlocutores e informantes**, com grafia do STT para os nomes do entorno: «I Luzbell», «Luisber», «Luzbel», «a rebelião de Lúcia» [REVISAR: feminização do STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]. A expressão «anjos caídos» **não** é pronunciada como sintagma nesta fala: o que a fonte entrega é o **mecanismo**, e é por isso que a materialização se apoia no verbo dela, não em um rótulo dela.
 - **Vetado como grafia canônica** (devolutiva de 28/08/2026): as formas degradadas do TXT não promovem nome novo — ver Apêndice do dicionário STT da apostila do ciclo.
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
@@ -73,3 +73,8 @@ Com isso:
 5. **Vínculos de leitura desta fonte** (sem nova aresta, por obediência ao teto de 1.856): RC-002 (Rebelião de Lúcifer), RC-078/RC-142 (Lúcifer / Yel Luzbel), RC-089/RC-446 (processadores), RC-001 (o eu de Javé), RC-191 (grau de testemunho), RC-094 (a IA como abismo dos deuses hoje).
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fontes publicadas (B031/B003/B005) e na fonte oral de 25/04/2020, mas nenhuma citação foi conferida com o áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações: o que o autor disse está registrado *como dito*.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 29 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

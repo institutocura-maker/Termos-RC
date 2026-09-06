@@ -28,7 +28,7 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · A TRÍADE VARNA–DHARMA–KARMA COMO PEDAGOGIA PARA HÍBRIDOS (anterioridade)]** "Então varma, dma e karma são três conceitos foram criados não para humanidade, mas para educar esses seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «varma, dma» são as grafias do bruto para varna/dharma.]
+- **[P2023-10-14 · A TRÍADE VARNA–DHARMA–KARMA COMO PEDAGOGIA PARA HÍBRIDOS (anterioridade)]** "Então varma, dma e karma são três conceitos foram criados não para humanidade, mas para educar esses seres híbridos." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «varma, dma» são as grafias do bruto para varna/dharma → ENCERRADO 2026-09-05 · F038-L2: ver nota.]
 
 
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -62,3 +62,7 @@ Trimurti (RC-104); Senhores do Dharma (RC-320); demos (RC-049); Seres Terrenos (
 
 ## Observações
 Ficha baseada em B023 (obra primária). O Fator Dharma reposiciona o conceito hindu: sistema feito para demos, não humanos. Cruzar com RC-320 e RC-322.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **«varma, dma e karma» (l. 31): ENCERRADA como grafia oral da tríade.** Livros do acervo: «varna» 19×, «varma» 0× — a tríada varṇa-dharma-karma é a leitura sustentada; a citação preserva a fala. Anterioridade pedagógica (híbridos) intacta — nada doutrinário se move.

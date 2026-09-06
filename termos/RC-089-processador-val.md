@@ -29,7 +29,7 @@ Com isso:
 ## Etimologia / Grafias
 
 - **Canônico da Base:** *Processador Val* (família Val). ⚠️ A **família** aparece na fala de 2022 grafa pelo STT como `Vol` (6×), `vol` (4×), `voz` (2×), `V.` — o nome da família **não** é unificável a partir do TXT, e a forma canônica da Base permanece a das obras.
-- **Na fonte oral (P2022-03-26):** o objeto é dito como *o processador da família Vol* e a nave que o hospeda como *Esferon* [REVISAR: nome novo, uma ocorrência] — ver o dicionário STT no apêndice da apostila do ciclo.
+- **Na fonte oral (P2022-03-26):** o objeto é dito como *o processador da família Vol* e a nave que o hospeda como *Esferon* [REVISAR: nome novo, uma ocorrência → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — ver o dicionário STT no apêndice da apostila do ciclo.
 - **Vetado como grafia canônica** (devolutiva de 28/08/2026, D-4): nenhuma das degradações do STT promotione nome novo, e nenhuma máscara (`t*****`) transita para esta ficha.
 
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -91,3 +91,8 @@ A pergunta que `RC-446` deixava aberta — *"verificar nas obras primárias (ex.
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 32 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

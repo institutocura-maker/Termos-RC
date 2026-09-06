@@ -28,7 +28,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 ## Ampliação — P2024-07-13
 
-- **[P2024-07-13] O destrave de Pandora e Eva (U0570–U0600):** "desde que Pandora e Eva tomaram certas raízes, o controle genético que fazia com que os humanos fossem retardados foi rompido, e os humanos deixaram de ser dementes. Surgiu a racionalidade plena, que foi sendo desenvolvida, mas esses seres todos tentaram atrapalhar essa racionalidade e conseguiram, porque hoje nós temos transtornos psíquicos e cognitivos ao invés de travas e lacres do nosso genoma que nos imbecilizavam na época"; "Eva escolhambou com tudo"; "Abel, Caim, os primeiros filhos de Adão e Eva não se viram projeto" [REVISAR — STT].
+- **[P2024-07-13] O destrave de Pandora e Eva (U0570–U0600):** "desde que Pandora e Eva tomaram certas raízes, o controle genético que fazia com que os humanos fossem retardados foi rompido, e os humanos deixaram de ser dementes. Surgiu a racionalidade plena, que foi sendo desenvolvida, mas esses seres todos tentaram atrapalhar essa racionalidade e conseguiram, porque hoje nós temos transtornos psíquicos e cognitivos ao invés de travas e lacres do nosso genoma que nos imbecilizavam na época"; "Eva escolhambou com tudo"; "Abel, Caim, os primeiros filhos de Adão e Eva não se viram projeto" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 - **[P2024-07-13] Os filhos de deuses × filhos de humanos (U0575–U0600):** "na época de Jared... existiam na Terra filhos de humanos e filhos de Deus. Filhos de humanos eram aqueles que um ser humano transava com outro e os filhos eram iguais aos pais. Só que tinha humanas que eram roubadas por seres de fora, e aqui nasciam filhos dos deuses que transavam com humanos... esses filhos herdavam as características humanas da mãe, mas também as características genéticas do pai que não era humano"; "o que foi escolhido para ser o número um de uma escala evolutiva... foi esse ser chamado Adão".
 
 
@@ -136,7 +136,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[P2025-07-18]** A palestra registra **Pandora em aproximadamente 49.000 anos** e **Eva/Adão em aproximadamente 22–23.000 anos**.
 - **Regra de preservação:** esta é uma marca temporal da fonte P2025-07-18. Não se faz média, correção ou fusão retroativa com os registros anteriores da linhagem. As cronologias permanecem divergentes até nova decisão curatorial.
-- `oró` permanece **[REVISAR]**; não há decodificação ou cadastro derivado desta ocorrência.
+- `oró` permanece **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]**; não há decodificação ou cadastro derivado desta ocorrência.
 ---
 ---
 ---
@@ -173,3 +173,12 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[Os humanos: inocentes úteis] (U0004)** «Do jeito que cachorrinho e gato hoje são nossos animais de estimação, nesse passado, os humanos funcionavam mais assim, como inocentes úteis, usados por forças mais poderosas, mais espertas, que tinham seus objetivos.» — "o mal existia no sentido de que nós, os humanos, nessa época éramos mais animais de estimação de outros seres" (U0004: «os humanos, nessa época éramos mais animais de estimação de outros seres»).
 
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 31 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 139 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

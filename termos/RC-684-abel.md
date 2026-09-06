@@ -17,12 +17,12 @@ Forma preferida: Abel.
 
 ## Ampliação — P2024-02-25
 
-- **Abel como primeiro filho (P2024-02-25):** 'quando Adão e Eva transaram e Abel nasceu, Abel foi o primeiro. Não, mas a Bíblia diz que foi Caim. É porque depois Javé fez essa armação' — Abel 'nasceu com três jeitos afeminados' [REVISAR — quarentena clínica]; Javé fez Caim matar Abel para anular a primogenitura; Sete, o terceiro, tornou-se o patriarca dos escolhidos.
+- **Abel como primeiro filho (P2024-02-25):** 'quando Adão e Eva transaram e Abel nasceu, Abel foi o primeiro. Não, mas a Bíblia diz que foi Caim. É porque depois Javé fez essa armação' — Abel 'nasceu com três jeitos afeminados' [REVISAR — quarentena clínica → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]; Javé fez Caim matar Abel para anular a primogenitura; Sete, o terceiro, tornou-se o patriarca dos escolhidos.
 
 
 ## Ampliação — P2025-05-31
 
-- **Abel (P2025-05-31):** primogênito real; "Abel nasce afeminado" [REVISAR — quarentena clínica]; Javé "não aceitava" e armou o fratricídio; "os 10 primeiros patriarcas... viveram 900, 800, 700 anos" (genética herdada de Adão/Javé).
+- **Abel (P2025-05-31):** primogênito real; "Abel nasce afeminado" [REVISAR — quarentena clínica → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]; Javé "não aceitava" e armou o fratricídio; "os 10 primeiros patriarcas... viveram 900, 800, 700 anos" (genética herdada de Adão/Javé).
 
 ## Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di)
 
@@ -54,3 +54,8 @@ Consultar Base.
 
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 20 → ENCERRADO-RATIFICADO · ll. 25 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

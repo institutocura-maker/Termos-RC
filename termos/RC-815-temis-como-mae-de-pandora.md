@@ -51,5 +51,9 @@ A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de
 
 ## Observações
 - **Quarentena mitológica FORTE**: a Temis da palestra **NÃO É a Titã grega clássica**. A Têmis da mitologia grega é **filha de Urano e Gaia, personificação da justiça divina, mãe das Horas e das Moiras** (cf. Hesíodo, *Teogonia*). Aqui Temis é "uma certa" Temis da geração de Zeus.
-- [REVISAR]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (Temis como co-clonadora de Pandora).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (Temis como co-clonadora de Pandora).
 - **Paralelo com Kvasir**: a "tigela" de saliva do pacto Aesir-Vanir (origem de Kvasir) é paralela à "tigela" de Têmis (origem de Pandora). É a **mesma estrutura mítica** em duas mitologias.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

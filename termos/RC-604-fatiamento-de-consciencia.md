@@ -57,7 +57,7 @@ A palestra usa o conceito para conectar Adhyprabrajna, Adhymavatana, Brahma, Vis
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · O ASSUNTO MAIS SÉRIO — o peso que a fonte dá ao fatiamento]** "esse fatiamento de consciência é o assunto mais sério de tudo que eu tenho falado até hoje." (U0009); "A Solange Silva pergunta: «O Brama Loca e o Buloca estão vinculados a uma mente coletiva?»" (U0009) — Definição por pergunta (Solange Silva, U0009): o ciclo registra que o conceito foi **provocado**, não exposto em bloco. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2021-12-04`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-- **[P2020-04-25 · O ERRO DE para BRAGINA [REVISAR: hipótese Parabrahman]]** "erro que para Bragina cometeu, que é o ser que caiu na criação e o resto dele que foi reconstruído, é que a gente chama de javé, o erro de para brágina tem a ver com o fatiamento ou o modo do fatiamento que houve no seu próprio espírito, que é o qual a gente já falou, é o mesmo de Virgo, Sofia, Javé e Jesus é o Espírito Santo." (U0009) — **D-7:** hipótese documentada, fusão recusada. O trecho é a ponte entre fatiamento e o eu reconstruído de Javé.
+- **[P2020-04-25 · O ERRO DE para BRAGINA [REVISAR: hipótese Parabrahman → CHANCELA 2026-09-06 · F041-L5: ISOLAMENTO (orfandade 1× no corpus — precedentes Olga/deibir) — ver nota]]** "erro que para Bragina cometeu, que é o ser que caiu na criação e o resto dele que foi reconstruído, é que a gente chama de javé, o erro de para brágina tem a ver com o fatiamento ou o modo do fatiamento que houve no seu próprio espírito, que é o qual a gente já falou, é o mesmo de Virgo, Sofia, Javé e Jesus é o Espírito Santo." (U0009) — **D-7:** hipótese documentada, fusão recusada. O trecho é a ponte entre fatiamento e o eu reconstruído de Javé.
 
 
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -111,3 +111,7 @@ Na resposta final, Shiva é apresentado como expressão de um espírito, enquant
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 60 → ISOLAMENTO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

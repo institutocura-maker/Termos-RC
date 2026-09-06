@@ -1,0 +1,31 @@
+# ciclo.toml — F038 «MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia»
+id = "F038"
+titulo = "Mutirão REVISAR — Lote 2: Grafia & Taxonomia"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+data_abertura = "2026-09-05"
+
+[roster]
+reais = 17
+fechar = 10
+chancelar_casos = 4
+chancelar_flags = 6
+aguarda_decisao = 1
+migra_para_L4 = "RC-593 sub-caso Braba (Javé × Brahma)"
+expurgados = "5 linhas já adjudicadas (RC-036 l.54; RC-777 l.11/19/68; RC-486 l.64) + sobrecenso RC-064 resolvido a favor do FECHAR"
+
+[metodos]
+a = "FECHAR com contagens e títulos de catálogo provados (B026 via BIBLIO; Mohen So 84x/0x; Morus 31x/3x; marra barat 26 arq.; rxaça 5 arq.)"
+b = "CHANCELA nova admitida no roster: 'fonte ausente da Arca' (B083 Awayem x3) — análoga à AGUARDA-ÁUDIO, batizada pelo lote"
+c = "AGUARDA-DECISÃO (RC-464 ISAR=ISHTAR) apresentada com as duas opções prontas para carimbo no mesmo despacho"
+d = "espelhos uma vez ao fim do lote (constituição L1); métrica token-a-token"
+
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F038-A…E aplicado na íntegra (15 fichas, 17 tokens liquidados: 11 ENCERRADO + 6 CHANCELA; assert de unicidade por linha; RC-036 com substituição posicional do token de 'Olga' entre os 3 da linha)"
+estados = "sancionado FONTE AUSENTE DA ARCA (Q-A) e aplicado ×3 (RC-132 ll. 19/24; RC-771 l. 25); chancela de ISOLAMENTO aplicada em Olga; D1 cravada em RC-464 l. 29 (Isar = STT de Ishtar; nenhum código renomeado)"
+fechaveis = "B026=Compromisso (240×6); Mohen So consagrado (84×0); triumvirato; Morus 31××3 averbado sem rename; varna 19×; Marduk 8× (Hen Lil orfão 1× averbado); Wyrd/Nornes por anotação; Marra Barat 26 arq. (Braba migra p/ L4); rxaça em 4 palestras (autocorreção P2022-03-26); RC-064 variação inexistente"
+metrica = "vivas na régua token: 206 → 192 no re-censo bruto (−17 adjudicadas, +3 de fronteira: duas flags de 2026-08 estavam fora do baseline por guardas de backtick do censo; contagem oficial do lote para governança: 17 liquidadas, saldo oficial 189)"
+espelhos = "uma vez ao fim do lote (constituição L1); validação OK 933/1898; termos/relações: zero mutação"
+governanca_l3 = "PLANO-LOTE-3-BLOCOS.md lavrado (Q-E): 5 blocos temáticos, chancela-padrão AGUARDA-ÁUDIO, exceções fecháveis listadas por bloco ANTES da chancela em massa; L4 herdou Braba (9 flags)"

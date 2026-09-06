@@ -48,4 +48,8 @@ Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois que as trevas espalh
 
 ## Observações
 - **Quarentena teológica FORTE**: a leitura do autor diverge radicalmente da teologia cristã tradicional (Jesus como "Deus encarnado", "salvador da humanidade", "morreu pelos nossos pecados"). **NÃO FUSIONAR** — manter como leitura do autor.
-- [REVISAR]: a palestra de 2018-02-24 é a primeira formulação de "Jesus como último avatar"; pode haver paralelos em outras palestras.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-02-24 é a primeira formulação de "Jesus como último avatar"; pode haver paralelos em outras palestras.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 51 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

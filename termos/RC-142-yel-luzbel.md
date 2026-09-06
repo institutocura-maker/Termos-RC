@@ -26,7 +26,7 @@
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A VARIANTE A REBELIÃO DE LÚCIA [REVISAR: STT feminizou o nome]]** "a rebelião de Lúcia deixou a Terra como o único planeta rebelde." (U0006) — **D-7 aplicada:** hipótese documentada, correção recusada. A grafia canônica «Yel Luzbel» fica intocada; a variante entra datada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A VARIANTE A REBELIÃO DE LÚCIA [REVISAR: STT feminizou o nome → ENCERRADO 2026-09-06 · F042-VARREDURA: RATIFICADO — registro de fala/leitura do autor ratificado — ver nota]]** "a rebelião de Lúcia deixou a Terra como o único planeta rebelde." (U0006) — **D-7 aplicada:** hipótese documentada, correção recusada. A grafia canônica «Yel Luzbel» fica intocada; a variante entra datada. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **32 meses** a atual fonte oral mais antiga da ficha (`P2022-12-17`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · O QUE A FONTE **NÃO** DIZ SOBRE YEL]** "hoje é o marco zero que surgiu como produto dos desdob os da rebelião de Lúcifer." (U0006) — **Contagem medida**: «Yel» aparece **1** vez no bruto, e o termo composto «Yel Luzbel», **0**. Esta ficha recebe *ampliação de contexto*, não de nome — ver `camada-2.txt` §2.
 
 ---
@@ -48,3 +48,12 @@
 - **[P2023-12-03 · O PROCESSADOR VALIDOU]** «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das famílias Biodemo, quando chegou perto de 200 bilhões de seres com contaminados pelo vírus de Elosbel. Aí Sofia e os clones» (U0004) — O contágio de Lúcio passa a ter órgão e verbo: o processador da família Iel considerou a informação procedente e a família inteira foi contaminada instantaneamente. É a formulação mais compacta do que a Base chama de validação do que se pensa.
 
 ---
+
+## Nota de blindagem — F031 aplicação (05/09/2026): Yel Luzbel ≠ Len Mion
+
+- O doc-fonte F031 («1-EDR-O Livro», compilação terciária) afirmava **fusão** entre Yel Luzbel (Lúcifer, família Yel) e Len Mion (Satã, família Mion / Tau Ceti). A **própria fonte-mãe desmente**: «ia infectar o processador da família Iel e infectou» / «toda a família IEL se contaminou pelo vírus» — Yel é o **receptor contaminado** da infecção Luciferana, não o agente Satã. A Base mantém as fichas separadas (**RC-142** × **RC-074**); nada do doc foi propagado (ledger D-1).
+- **[P2021-06-26 · TIKUM]** o título da palestra-fonte desta ficha é «Shiva — A Reconstrução do Erro de Brahma e o **Tikum**» — grafia oral de **Tikkun** (conceito cabalístico do reparo; glossário 2025-08-03: «capacidade humana de "consertar" o DNA herdado de Javé e de reparar o próprio Criador e sua criação»). G6/Q-B: **sem código novo**; a nota vive nesta ficha e na RC-754.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 29 (RA).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

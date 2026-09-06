@@ -1,0 +1,40 @@
+# ciclo.toml — F037 «MUTIRÃO REVISAR · Lote 1 (Cronologia)»
+id = "F037"
+titulo = "Mutirão REVISAR — Lote 1: Cronologia (B050 e datas EC)"
+origem = "DESPACHO DE PAUSA E REDIRECIONAMENTO DE ESTEIRA, 05/09/2026 («Ambos: Trilha Leve para a caixa + Mutirão REVISAR»)"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+data_abertura = "2026-09-05"
+decisoes_pendentes = ["Q-F037-A", "Q-F037-B", "Q-F037-C", "Q-F037-D", "Q-F037-E", "Q-F037-F"]
+
+[alvo]
+bandeira = "liquidar o maximo das flags REVISAR vivas: fechar com fonte primaria o que for resolvivel; chancelar 'tensoes insolveis' e 'aguarda-audio'"
+censo_2026_09_05 = "286 linhas-ancora · 283 vivas · 187 fichas"
+inventario = "consolidacoes/F037_mutirao-revisar-lote-1/inventario-flags.csv"
+
+[lote1]
+tema = "cronologia (flags com B050 explicito ou datas/bilhoes na linha)"
+reais = 35
+fechaveis_ancoras_achadas = 6
+chancelaveis = 6
+reclassificaveis = 23
+protegida = "RC-091 l. 65 (mantida aberta por despacho F036-Q-B — excluida do roster, nao tocada)"
+descoberta = "B050 tem TRILHA D com datas EC: l. 203 (2012 d.C. portais) · l. 204 (2015 d.C. Fim da Lila/Trimurti) · ll. 46/64 (Era da Solidao 13,8-13,3 bi) · l. 87 (Sophia primeiro biodemo 5 bi a.p.) — reabre fechaveis que F035/F036 tratavam como sem jurisdicao"
+
+[regras]
+a = "FECHAR so com ancora primaria verbatim byte a byte + assert programatico (F033-QB); inline '[REVISAR -> ENCERRADO data · F037-L1: ver nota]' + nota ao fim da ficha (modelo RC-102)"
+b = "CHANCELAR registra a conferencia negativa na ficha ('B050 silente', molduras) — poupa o proximo pesquisador e liquida a contagem"
+c = "flag protegida por despacho anterior nao e encerrada nem chancelada; sai do roster"
+d = "classificador automatico e agnostico: reclassificacao linha a linha e parte da execucao, nao anomalia"
+e = "espelhos e commit UNICOS ao fim do lote; base 933/1898 imutavel em termos/relacoes"
+f = "TOML validado por tomllib ANTES da gravacao; chaves ASCII"
+
+[aplicacao]
+execucao = "2026-09-05 — despacho Q-F037-A…F aplicado na íntegra; espelhos únicos ao fim do lote (Q-E)"
+delta_fichas = "12 tocadas: 6 ENCERRADO (RC-295, RC-104, RC-775, RC-808, RC-091 l.50, RC-771 l.33) · 5 CHANCELA (RC-092, RC-499 l.27+l.76, RC-631, RC-771 l.28) · 1 nota de variante numérica (RC-036 l.33) + 1 reforço de âncora (RC-009, Q-C)"
+correcoes_de_roster = "RC-036 l.33: o [REVISAR] da linha grafa o nome 'Olga' (matéria de áudio → L3; flag fica aberta) — o encerramento assinado incidiu sobre a cifra NOVE MILHÕES↔900 milhões, documentada como variante de STT · RC-771 l.33: a flag mira a DATA dos biodemos, não as esferas coloridas — fechada com B057 ll. 753/816 · RC-092: o 'silêncio do B050' corrigido para corroboração parcial (l. 87 crava Codificador de Zion 6 bi a.p.) — chancela mantida por molduras inconciliáveis, com a evidência retificada na nota"
+correcao_f036 = "V-4 do ledger F036 recebeu averbo de superação (Trilha D); nenhuma ficha do F036 tocada pela revisão (Q-D)"
+metrica_vivas = "baseline token-a-token (sem backticks, sem setas): 206 flags vivas em 140 fichas ao fim do L1 · 11 adjudicadas neste lote · método substitui a contagem linha-a-linha do censo de abertura (inflada por meta-menções)"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1898 relacoes · espelhos (indice-mestre · xlsx · docx) reconstruídos uma vez ao fim do lote · termos/relações: zero mutação (mutirão só anota fichas)"
+proximo = "TL-01 aberto na sequência (autorizado no despacho Q-F037-F, condicionado à validação deste commit); Lote 2 (Grafia & Taxonomia, 21 flags) na esteira do L1"

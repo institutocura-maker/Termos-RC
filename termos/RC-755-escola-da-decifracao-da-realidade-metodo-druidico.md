@@ -5,7 +5,7 @@
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
 | **Status** | ⚪ Candidato aprovado pelo curador |
-| **Última atualização** | 2026-08-29 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 
@@ -47,6 +47,16 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 - **[P2023-12-03 · ESCOLA DA DECIFRAÇÃO DA REALIDADE (MÉTODO DRUÍDICO) NA FALA DE 03/12/2023]** «criem um método para vocês estudarem.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 - **[P2023-12-03 · O CONTRATO DO MÉTODO]** «nós queremos dar para vocês os nossos conhecimentos para que vocês descubram uma maneira de compreendê-los e nos explicar.» (U0004) — D-8: a Escola da Decifração recebe da fonte a sua **justificativa mítica**: discernir o erro e receber a verdade foi pedido expresso, e o isomorfismo com a ditagem enoquiíta é afirmado pela própria fala.
 
+## Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODOS (B016), o Nuctemeron e a «quinta»
+
+> Bloco inserido por despacho do curador (Q-C/Q-D do ciclo F031). Fonte: B016 (*O Quarto Logos*) — livro publicado, obra primária da Base; ordem e epígrafes **verbatim**, sem reformulação.
+
+- **[B016 · OS QUATRO MÉTODOS NO SISTEMA DE CAPELA]** «Explicando melhor, em outras palavras, eram esses os quatro métodos que, com o desenrolar dos acontecimentos inerentes à chamada "Rebelião de Lúcifer", o "Codificador de Zion" foi desenvolvendo com os seus alunos, no sistema de Capela: 1º) A arte da decifração/codificação; 2º) O progresso pela força da fé esclarecida; 3º) A prática da filosofia, como forma de buscar a verdade; e, 4º) A arte da taumaturgia» — a pedagogia da escola **antes** da versão druídica terrestre; a 4ª via (taumaturgia) é a que B016 associa a Jesus e Apolônio («introduzir a taumaturgia no seio do pensamento grego antes mesmo da sua personificação como Apolônio»).
+- **[B016 · NUCTEMERON]** «do seu legado restou uma estranha obra, cujo título é "Nuctemeron", que foi apresentada como se a cada uma das "doze horas" da passagem do tempo da Criação, um anúncio ou uma constatação específica se fazia regist[rado]» — com a glosa do próprio B016: «Nuctemeron — O Dia de Deus que Resplandece nas Trevas». **É a interpretação de Ellam para os tempos atuais, não o texto de Apolônio**; verbete na fila: **RC-931** (sem ficha).
+- **[P2021-06-26 · A QUINTA]** «a quinta, que é a escola da decifração em algum dia do ano que vem deve sair.» — a EDR contada como **quinta** via no ciclo das palestras de 2021; a ficha RC-879 (Biocosmos emergente) já cita a mesma fala. ⚠️ A datação «ano que vem» **não** entra como cronologia da Base (regra F022/F030: doc-fonte não data).
+- **[P2025-06-14 · IEEA COMO VEÍCULO]** «Para a eficiente disseminação da Revelação Cósmica, Jan Val Ellam criou o Instituto de Estudos Estratégicos e Alternativos (IEEA)» — a sigla em 10+ fichas sem verbete ganha código próprio na fila: **RC-930** (sem ficha; G1 homologado).
+- **[P2025-06-14 · ABHAIYAM, RETRADUÇÃO]** o doc-fonte F031 retransliterou «Abhaiyam» a partir da fala que a Base grafou «Abaiuan» (2023-04-01b, nota na ficha RC-092) — a grafia canônica da Base permanece **Abaiuan**.
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -57,6 +67,8 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 | P2021-05-15 | As Etnias Hiperbóreas e os Anunnakis (palestra/STT) | citação verbatim; paráfrase |
 | P2025-06-14b | abertura ("estamos lançando... escola da decifração da realidade") e blocos finais (método druídico; Pitágoras) | palestra/STT pré-curada |
 | P2024-02-03 | O Jainismo e o Druidismo Ancestrais (palestra) | — |
+| B016 | O Quarto Logos — bloco «QUATRO MÉTODOS» e Nuctemeron | livro publicado (obra primária) |
+| P2021-06-26 | Shiva — A Reconstrução do Erro de Brahma e o Tikum (palestra/STT) | citação da «quinta» |
 
 
 
@@ -74,6 +86,13 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 | Mentalma | RC-166 | relaciona-se-a (método) |
 | Ciência Pessoal | RC-695 | relaciona-se-a |
 | Revelação Cósmica | RC-094 | relaciona-se-a |
+| Olm / Codificador de Zian | RC-092 | relaciona-se-a (os QUATRO MÉTODOS) |
+| Apolônio de Tiana | RC-259 | relaciona-se-a (Nuctemeron/taumaturgia) |
+| Zian (Zion) | RC-146 | ocorre-em («abriu a escola… lá em ZAM») |
+| Colegiado Druídico | RC-403 | relaciona-se-a |
+| IEEA | RC-930 | veículo de disseminação (fila, sem ficha) |
+| Nuctemeron | RC-931 | repertório (fila, sem ficha) |
+| Biocosmos emergente | RC-879 | variação («a quinta… escola da decifração») |
 
 ## Blindagem epistemológica
 

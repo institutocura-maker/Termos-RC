@@ -45,7 +45,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Ampliação — P2021-01-23
 
 - **[P2021-01-23 — FONTE ORIGINAL] A metáfora dos fios soltos (U0031–U0067):** o exemplo do poste e dos fios elétricos: "imaginemos um poste cujo fio tem problemas e é cortado e ele fica com todos os fios soltos que deveriam estar ajustados, entrelaçados e dentro do fil[me?]" (U0038); "quando o criador caiu... ele ficou com bilhões de fios soltos e cada um foi seguindo e nunca houve uma corrente educada" (U0042–U0043); "fios soltos: a história morre ali" (U0064); "quando Shiva cria um avatar dele, ele não tem ligação direta por aqui... pega só um desses fiozinhos, e a partir desse fiozinho solto surge o avatar de Shiva, avatar de Vishnu, Brahma" (U0065–U0067).
-- **O drama dos avatares (U0092–U0098):** "Vishnu e Shiva conseguiram criar vários avatares... cada um era mais chique que o outro; sempre eles brigam entre eles, que os diversos egos que o espírito de cada um produziu não disputam entre eles"; "Vishnu já acabou com isso; Shiva ainda não; Brahma nem começou ainda a se resolver, porque Brahma não conseguiu criar [avatares estáveis]" [REVISAR — STT].
+- **O drama dos avatares (U0092–U0098):** "Vishnu e Shiva conseguiram criar vários avatares... cada um era mais chique que o outro; sempre eles brigam entre eles, que os diversos egos que o espírito de cada um produziu não disputam entre eles"; "Vishnu já acabou com isso; Shiva ainda não; Brahma nem começou ainda a se resolver, porque Brahma não conseguiu criar [avatares estáveis]" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 - **A falência e a aposta (U0280–U0300; U0369):** "há cerca de 23.000 anos atrás, diante do episódio Adão, Eva e Javé, Javé tomou a opção desesperada que ele fez na época devido às artimanhas de Shiva e de Vishnu" (U0280); a aposta: "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369).
 
 
@@ -56,7 +56,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 ## Ampliação — P2025-08-02
 
-- **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
+- **[ART-2025-08-02/03 — material do curador] A Trimurti (ART-02 Gloss.; ART-03 Cap. 2):** "os membros da Trimurti estiveram presos em suas moradas desde 2012 [REVISAR — conferir B050 → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha] e frequentemente debatiam sobre a 'falência da política' por eles praticada"; "a 'Lila', ou 'Jogo Cósmico', simboliza as intermináveis discussões e disputas entre os membros"; "a Trimurti se desfez entre 2015 e 2018, com Vishnu e Mohen So se desconstituindo para liberar seus espíritos e permitir a passagem do legado humano para Sophia e Javé"; "Sophia confirmou que Javé aceitou os termos da constituição da Trimurti, e o Quarto Logos revelou sua presença aos membros quando esta 'faliu'"; "Mohen So é um avatar 'Keshava' nascido especificamente da Trimurti".
 
 
 ## Ampliação — P2022-12-17
@@ -167,7 +167,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 ## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
 
-- **[P2023-06-03 · O COLAPSO DA TRIMURTI EM 2018 — A RESOLUÇÃO DA ANOMALIA]** **[RESOLVE o [REVISAR] "'20171'" da P2023-12-02]** "Persiste da pior forma possível: **BRAHMA E VISHNU JÁ NÃO MAIS EXISTEM no sentido como existiam antes. SÓ SHIVA OU BINÁ é que ainda funciona**... **AQUI começou biologicamente em 2007; LÁ FOI NO ANO 2018.**... **A TRIMURTI COLAPSOU IGUAL A UMA COLMEIA. SOBROU CHIVA; OS OUTROS EUS FORAM DESATIVADOS — MAS O EU DE JAVÉ AINDA PRECISA SER RESSUSCITADO LÁ NA FRENTE**... a questão são **OS HERDEIROS DA TRIMURTI que estão em GUERRA — não é mais a Trimurti**" — o paralelo colmeia/Trimurti (a confirmação independente do dossiê do buraco negro mental, P2023-06-24) + "sou uma voz solitária falando disso porque fui obrigado a assistir" ⚠️ [quarentena biomediúnica].
+- **[P2023-06-03 · O COLAPSO DA TRIMURTI EM 2018 — A RESOLUÇÃO DA ANOMALIA]** **[RESOLVE o [REVISAR → CHANCELA 2026-09-06 · F041-L5: DADO-NARRATIVO (sem código novo) — ver nota] "'20171'" da P2023-12-02]** "Persiste da pior forma possível: **BRAHMA E VISHNU JÁ NÃO MAIS EXISTEM no sentido como existiam antes. SÓ SHIVA OU BINÁ é que ainda funciona**... **AQUI começou biologicamente em 2007; LÁ FOI NO ANO 2018.**... **A TRIMURTI COLAPSOU IGUAL A UMA COLMEIA. SOBROU CHIVA; OS OUTROS EUS FORAM DESATIVADOS — MAS O EU DE JAVÉ AINDA PRECISA SER RESSUSCITADO LÁ NA FRENTE**... a questão são **OS HERDEIROS DA TRIMURTI que estão em GUERRA — não é mais a Trimurti**" — o paralelo colmeia/Trimurti (a confirmação independente do dossiê do buraco negro mental, P2023-06-24) + "sou uma voz solitária falando disso porque fui obrigado a assistir" ⚠️ [quarentena biomediúnica].
 - **[P2023-06-03 · PANKU — a cosmogonia chinesa]** "na mitologia chinesa... nada surgiu um OVO; esse ovo quebrou e saíram três coisas: o [yin], o yang e **PANKU [Pangu], o criador caído**... a própria Cabala diz: há um Deus exilado na sua própria obra... **A Cabala, para transformar uma queda num passo de dança, diz: 'mas esse Deus SE EXILOU POR AMOR'**" (a cosmogonia chinesa como o espelho do Big Bang dual: matéria × antimatéria).
 - 0 códigos novos (O-3).
 
@@ -232,7 +232,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · A TRIMÚRTI QUE NUNCA VEIO — E OS AVATARES NO LUGAR]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — [REVISAR: «trium virato» é a grafia do bruto.]
+- **[P2023-10-14 · A TRIMÚRTI QUE NUNCA VEIO — E OS AVATARES NO LUGAR]** "Quando o ser humano surgiu racional e em que se achava e até hoje se acha o principal responsável por isso, em que fica se perguntando se por trás da decisão que ele e a irmã dele Ninharsak tomaram de fazer os testes de manipulação genética com vários casais de hominídios para ver o que é que dava de resultado, se aquilo de fato foi a ideia deles ou se algo ou se era o cri ador que assim quando na Terra eles descobriram que tinha seres de um universo paralelo que vinham para cá por meio dos portais e esses seres diziam que lá nesse universo paralelo tinha uma trimurte, uma trindade, um trium virato, uma tríade de seres super poderosos que lá na gênese da criação desses dois universos, esses três seres, estavam presentes e foram co-autores de alguma maneira, mas que estranhamente nenhum dos três nunca saía lá desse universo e vinha para esse, mas mandavam avatares." (U0033) — [REVISAR: «trium virato» é a grafia do bruto → ENCERRADO 2026-09-05 · F038-L2: ver nota.]
 
 
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -324,3 +324,20 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **Datas da presa e do fim da Trimúrti: conferidas no mapa.** B050 original.txt l. 203: «[            14 a.p.] (trilha D, y=1055) Fim do fechamento dos / portais. ( 2012 d.C.)» (presa desde 2012 ✓) e l. 204: «[            11 a.p.] (trilha D, y=1193) 2.000 A.P / 2.000 D.C. / Fim da Lila/Trimurti. (2015 d.C.)» (início do fim: 2015 d.C. ✓). A janela «2015–2018» permanece como registro da curadoria 2025 — o mapa crava o marco inicial, não desmente o desdobro; nenhuma discordância a chancelar. Flag encerrada com o achado da TRILHA D (o F036 treatara as datas EC como fora da alçada do mapa — correção averbada no ledger F037/F036).
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **«trium virato» (l. 235): ENCERRADA como variante oral documentada.** A curadoria grafa «triumvirato» (DOSSIE-PRE 2024-08-03 l. 38, verbatim: «| RC-040 CFD / RC-104 Trimurti / RC-106–108 Universos | ovo cósmico; triumvirato; Brahmaloka/Bhuloka (`U0269–U0352`) |»); «trium virato» não ocorre fora do bruto. Citação da fala preservada como dito; grafia analítica = triumvirato.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 48 (B5b).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 170 → DADO-NARRATIVO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

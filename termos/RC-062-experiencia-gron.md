@@ -5,7 +5,7 @@
 | **Categoria Principal** | Eventos & Eras |
 | **Subcategoria** | 7.5 Missões / Expedições / Encontros |
 | **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-31 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 
@@ -43,5 +43,5 @@ Com isso:
 |---|---|---|
 | Espheron | RC-058 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Alt´Lam Gron | RC-018 | **sem aresta** em `RELACOES`; arquivo existe |
-| Benem | RC-032 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Benem | RC-032 | arestas `relaciona-se-a` →RC-022/→RC-058/→RC-109 acrescentadas via B018 na aplicação F030 (05/09/2026); **ainda sem arquivo** (fila) |
 | Hiperbórea | RC-068 | **sem aresta** em `RELACOES`; arquivo existe |

@@ -36,7 +36,7 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
 - **[P2020-04-25 · O HUMANO NÃO TEM PROCESSADOR: TEM **CAMPO MÓRFICO** DA ESPÉCIE]** "vinculados ao campo mórfico da nossa espécie que faz o mesmíssimo se Isso que um processador faz." (U0008) — ⭐ Equação fundante: `campo mórfico ≡ o que o processador faz para as outras espécies`. **Anterioridade calculada**: a formulação mais antiga da ficha até hoje é de 2023 — esta fala a antecipa em anos (ver contador emitido acima). · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **3.5 anos** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
-- **[P2020-04-25 · RUPERT SHELLRAKE E O SÉTIMO SENTIDO [REVISAR: grafia]]** "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006) — Grafia do STT preservada; a hipótese *Sheldrake* é **declarada**, não aplicada (D-7).
+- **[P2020-04-25 · RUPERT SHELLRAKE E O SÉTIMO SENTIDO [REVISAR: grafia → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]]** "Rupert Shellrake e Shellake é um dos papas desse assunto que eu estou falando, ele diz que desde que a física quântica produziu o postulado da compreensão do conceito de que a comunicação é não local, a intercomunicabilidade não local, ele nos seus postulados referentes aos campos mórficos de cada espécie, para simplificar, ele propõe que nós, seres humanos, além de termos os cinco sentidos daagem do corpo, sexto da cognição, da Temos um sétimo sentido que é o da, entre aspas, comunicação à distância, a intercomunicação, a intercomunicabilidade não local, ou seja, a telepatia, troca de informações." (U0006) — Grafia do STT preservada; a hipótese *Sheldrake* é **declarada**, não aplicada (D-7).
 
 
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -119,3 +119,8 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 5. **Vínculos de leitura desta fonte** (sem nova aresta): RC-106, RC-378, RC-024, RC-745, RC-742, RC-529.
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fonte publicada (B041) e em fontes orais do acervo; nenhuma citação foi conferida com o áudio. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 39 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

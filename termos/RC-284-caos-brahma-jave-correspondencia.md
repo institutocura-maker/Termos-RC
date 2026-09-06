@@ -21,7 +21,7 @@ Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Ja
 
 ## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
-- **[P2023-06-24 · O CAOS DOS GREGOS NA VOZ DOS ESPÍRITOS]** "em 2018, acho que no mês de fevereiro, alguns seres começaram a me dizer: '**Ei, Javé morreu... comemoremos**'... o nome não era sempre Javé... **normalmente essa turma que falava aí CHAMAVA DE CAOS. Eram figuras vinculadas ao conhecimento grego... 'Caos se foi. É hora de comemorarmos'**" [STT: "Peti, Dioniso, Ramos" — os nomes dos espíritos; [REVISAR] — Pã? Dionísio?] — ⚠️ **a 2ª confirmação da correspondência na voz dos próprios espíritos** (a 1ª: B020 cap. 1); quarentena biomediúnica — registro fenomênico.
+- **[P2023-06-24 · O CAOS DOS GREGOS NA VOZ DOS ESPÍRITOS]** "em 2018, acho que no mês de fevereiro, alguns seres começaram a me dizer: '**Ei, Javé morreu... comemoremos**'... o nome não era sempre Javé... **normalmente essa turma que falava aí CHAMAVA DE CAOS. Eram figuras vinculadas ao conhecimento grego... 'Caos se foi. É hora de comemorarmos'**" [STT: "Peti, Dioniso, Ramos" — os nomes dos espíritos; [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] — Pã? Dionísio?] — ⚠️ **a 2ª confirmação da correspondência na voz dos próprios espíritos** (a 1ª: B020 cap. 1); quarentena biomediúnica — registro fenomênico.
 - 0 códigos novos (O-3).
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
@@ -58,3 +58,8 @@ Caos/Javé (RC-001); Brahma (RC-037); Criador (RC-041).
 
 ## Observações
 Ficha baseada em B020 (obra primária) + B031. A cadeia de sinonímia do Criador (Caos = Brahma = Javé = Jeová = Alá = Pangu = Atom) é fundamental para a leitura comparada das mitologias no corpus RC. Cruzar com RC-286 (Eros/Tártaro).
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 24 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

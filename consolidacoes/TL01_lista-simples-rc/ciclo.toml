@@ -1,0 +1,25 @@
+# ciclo.toml — TL-01 (TRILHA LEVE, primeiro paciente do novo portão)
+id = "TL-01"
+protocolo = "TRILHA LEVE"
+titulo = "LISTA SIMPLES DE TERMOS CHAVE DA RC"
+arquivo_bruto = "uploads_recepcao/LISTA SIMPLES DE TERMOS CHAVE DA RC.txt"
+fonte_canonica = "consolidacoes/TL01_lista-simples-rc/fonte.txt"
+sha256 = "7166a7b6ff06b242af4fda0e53d84422ae24ebeb030a0a316cc54b4e8e342820"
+bytes = 4945
+linhas = 224
+fase = "ARQUIVADO"
+status = "concluido"
+altera_base = false
+despacho = "Aprovo G1 (05/09/2026) — arquivamento + registro nº 20; lacunas: (ii-adiado) até a dívida interna extinguir"
+data_abertura = "2026-09-05"
+autorizado_por = "despacho Q-F037-F (05/09/2026): abrir TL-01 assim que o commit do Lote 1 for validado"
+
+[grau]
+classificacao = "G1 — derivação fiel, sem invenção de identidades/datas"
+itens_lista = 195
+casam_por_slug = 181
+par_textual_nas_fichas = 13
+orfaos_no_indice = 2
+desfecho_orfaos = "Klippoth e Shevirah ancorados em B002 original.txt ll. 8223-8227 — não são invenção"
+alerta_quarentena = false
+escala_rito_cheio = false

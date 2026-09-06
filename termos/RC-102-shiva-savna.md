@@ -20,14 +20,14 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 ## Ampliação — P2021-01-23
 
-- **[P2021-01-23] Shiva no sul da Índia (U0280–U0300; U0885):** "há 23.000 anos atrás, quando Shiva começou a se apresentar lá no sul da Índia através de seus avatares, dizendo: 'Eu sou o Deus'" (U0885); "Pashupati foi lá, o senhor Narada foi lá, vários avatares de Shiva" (U0297); "hoje a gente chama isso de tradição [STT 'com mar e candão' — [REVISAR]]" (U0296).
+- **[P2021-01-23] Shiva no sul da Índia (U0280–U0300; U0885):** "há 23.000 anos atrás, quando Shiva começou a se apresentar lá no sul da Índia através de seus avatares, dizendo: 'Eu sou o Deus'" (U0885); "Pashupati foi lá, o senhor Narada foi lá, vários avatares de Shiva" (U0297); "hoje a gente chama isso de tradição [STT 'com mar e candão' — [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]]" (U0296).
 - **A sexualização dos demos (U0601–U0606):** "os demos nos últimos 7.000 anos estavam iniciando a exploração dessa atividade [sexual]; os demos sempre se procriaram por clonagem assexuada" (U0603–U0604).
-- **"Shiva é quem tem mais poder" (U1188–U1190):** "ele criou monstro para poder derrotar os monstros que outras figuras criaram... tá tendo que desativar os caras" (U1190) [REVISAR — STT].
+- **"Shiva é quem tem mais poder" (U1188–U1190):** "ele criou monstro para poder derrotar os monstros que outras figuras criaram... tá tendo que desativar os caras" (U1190) [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 
 ## Ampliação — P2025-08-01
 
-- **[ART-2025-08-01] Shiva e Awaylengan (Parte II):** "Shiva, conhecido também como Tártaro na mitologia grega, surgiu como um 'anjo-clone rebelde' de Brahma, um dos oito Seres Adhyatman que tentaram impedir e, depois, consertar a Criação de Brahma. Seu 'mergulho' na Criação ocorreu há cerca de 12,17 bilhões de anos" [REVISAR — conferir B050]; "a 'rebelião' de Shiva culminou em um ato de 'agressão' a Brahma, cortando uma de suas cabeças — esse ato simbolizou o impedimento da capacidade de Brahma de gerar mais anjos-clones"; "Shiva é o 'Segundo Logos', o iniciador da diversidade e o 'Pai dos Demos'; sua energia é a Tamas, uma força desagregadora e destruidora, mas com propósito: aniquilar o 'irreversivelmente problemático' gerado por Javé"; "Awaylengan, o forno de Shiva, foi o primeiro forno replicador do Projeto Talm a surgir e o mais atuante; emergiram os gêneros 'demol' e 'demobiol'; avatares de Shiva foram produzidos a partir de suas instalações — ex.: Sai Baba, edificado a partir do que veio de Krishna".
+- **[ART-2025-08-01] Shiva e Awaylengan (Parte II):** "Shiva, conhecido também como Tártaro na mitologia grega, surgiu como um 'anjo-clone rebelde' de Brahma, um dos oito Seres Adhyatman que tentaram impedir e, depois, consertar a Criação de Brahma. Seu 'mergulho' na Criação ocorreu há cerca de 12,17 bilhões de anos" [REVISAR — conferir B050 → **ENCERRADO 05/09/2026, repassada F035 — conferido e confirmado em B050 l. 67; ver nota ao fim da ficha**]; "a 'rebelião' de Shiva culminou em um ato de 'agressão' a Brahma, cortando uma de suas cabeças — esse ato simbolizou o impedimento da capacidade de Brahma de gerar mais anjos-clones"; "Shiva é o 'Segundo Logos', o iniciador da diversidade e o 'Pai dos Demos'; sua energia é a Tamas, uma força desagregadora e destruidora, mas com propósito: aniquilar o 'irreversivelmente problemático' gerado por Javé"; "Awaylengan, o forno de Shiva, foi o primeiro forno replicador do Projeto Talm a surgir e o mais atuante; emergiram os gêneros 'demol' e 'demobiol'; avatares de Shiva foram produzidos a partir de suas instalações — ex.: Sai Baba, edificado a partir do que veio de Krishna".
 
 
 ## Ampliação — P2022-12-17
@@ -58,7 +58,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 ## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · A LENDA NÃO TERRENA DE SAVNA — a revelação cosmogônica]** "reza uma lenda não terrena que **SAVNA** [STT: 'Sávina', 'Sáven', 'sábana', 'Sávna', 'Sávenna' — a grafia da malha confirmada 5× na mesma fala] — **o nome que o ser dentro dessa roda, dessa bola chamado CHIVA tinha ANTES DO BALÃO** — somente aplicou a sua **FORÇA TAMÁSICA** nos termos em que o fez, **PORQUE DIVISOU QUANDO SERIA O PONTO DE INFLEXÃO da derrocada do corpo reconstruído pelo criador**... lá no início, quando o amigo dele caiu na criação, **Savna disse: 'Ih, vai ser até ali. A partir dali é que as coisas se modificam'**" — e o ajuste fino: "a força tamásica que esse ser aplicou foi quem fez Javé implodir. **Mas ele fez porque JAVÉ IMPLODIU A SI MESMO**, colecionando as piores marcações no interior dos próprios elétrons" [a confirmação da P2025-11-29: a força tamásica = a entropia dessa criação].
-- **[P2023-06-24 · A FÍSICA DE SAVNA — a resposta a Cristiane]** "**Sávenna... criou AS LEIS que fizeram com que prótons e nêutrons se unessem NO NÚCLEO ATÔMICO** para atrair o elétron — e todos os elementos químicos da tabela periódica... um próton de um núcleo não salta pro outro, **mas um elétron de um elemento químico SALTA para outro elemento químico** [levando consigo as informações]" ["uma vátima que veio a ser vígena" — [REVISAR]].
+- **[P2023-06-24 · A FÍSICA DE SAVNA — a resposta a Cristiane]** "**Sávenna... criou AS LEIS que fizeram com que prótons e nêutrons se unessem NO NÚCLEO ATÔMICO** para atrair o elétron — e todos os elementos químicos da tabela periódica... um próton de um núcleo não salta pro outro, **mas um elétron de um elemento químico SALTA para outro elemento químico** [levando consigo as informações]" ["uma vátima que veio a ser vígena" — [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]].
 - 0 códigos novos (O-3). Quarentena: biomediúnica (a lenda como relato de origem não terrena).
 
 
@@ -68,7 +68,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[P2023-04-15 · A OFERTA DO CÓDIGO]** "Shiva meio que [disse] para Javé: 'Ó, EU TENHO TODO O PODER QUE VOCÊ TEM REGISTRADO EM MIM, porque peguei o poder, código de um dos seus clones, mas eu não vim aqui realmente para [brigar]. Vamos fazer juntos. EU VOU LHE DAR O MEU CÓDIGO, QUE É O SEU CÓDIGO MUDADO POR MIM, para que você possa ser também igual a mim, que é uma forma da gente se relacionar.' E FOI ASSIM QUE BRAHMA ASSUMIU A CONDIÇÃO [adidaiva] DEFINITIVAMENTE GERADA POR SHIVA a partir do código podre de Brahma" — a metamorfose como "a principal característica" dos dois.
 - **[P2023-04-15 · OS 1.000 AVATARES]** "Shiva tinha MAIS DE 1.000 [penduricalhos]... podem pegar OS PURANAS, os Upanishads e outros livros, PRINCIPALMENTE OS REFERENTES À ASTROLOGIA VÉDICA, PRODUZIDA POR PARASHARA [STT: 'Parachara'], que tem lá OS 1.000 NOMES de 1.000 avatares ou formas [adhyágenas — STT 'adiágenas'] da forma [adidaiva] do senhor Shiva — E NENHUM QUER MORRER"; "SHIVA PODE SER UM RECICLADOR. Ele pode destruir devido à GUNA TAMÁSICA que ele tem. Vishnu não pode matar as partes dele porque ele não [tem]" ⚠️ a astrologia védica confinada à mecânica da RC (a nota O-4 da P2023-04-30 — sem cruzamento com Jyotish).
 - **[P2023-04-15 · A OPÇÃO METAVERSO]** "existe uma loucura aí que a gente tá vendo na espiritualidade, que é o fato de que SE ESSAS OITO PESSOAS FALHAREM, SHIVA COLOCAR TODA ESSA M*** NO METAVERSO, MANTER PARA BRAJNA DO JEITO QUE TÁ, RECOMEÇAR TUDO NUM OUTRO UNIVERSO. MAS ISSO AINDA TEM BILHÕES DE ANOS PARA A FRENTE"; "eu penso que essa é a única solução, caso um Sofia deixe de existir".
-- **[P2023-04-15 · OS DRAVIDIANOS]** "isso poderia sair via A HERANÇA DE SHIVA apropriada por Krishna... porque SHIVA INTRODUZIU ISSO HÁ 23.000 ANOS lá na tradição com [Marici? — STT 'Marik Candã' [REVISAR]] NO SUL DA ÍNDIA ATRAVÉS DOS DRAVIDIANOS [STT: 'gravidianos'], QUE SÃO OS HINDUS ATUAIS".
+- **[P2023-04-15 · OS DRAVIDIANOS]** "isso poderia sair via A HERANÇA DE SHIVA apropriada por Krishna... porque SHIVA INTRODUZIU ISSO HÁ 23.000 ANOS lá na tradição com [Marici? — STT 'Marik Candã' [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]] NO SUL DA ÍNDIA ATRAVÉS DOS DRAVIDIANOS [STT: 'gravidianos'], QUE SÃO OS HINDUS ATUAIS".
 - 0 códigos novos (O-3). Quarentenas: teológica, científica, cultural.
 
 
@@ -92,7 +92,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 ## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
 
-- **[P2024-11-03 — eco] MARICANDÃ E A 12ª HORA]** "há 20.000 anos atrás, CHIVA APRESENTOU-SE NA TRADIÇÃO COM MARICANDÃ [REVISAR — Murugan?], NO SUL DA ÍNDIA, para os dravidianos e outras figuras que por lá existiam e disse: 'EU SOU O DEUS PRINCIPAL dessa história'"; A 12ª HORA DO NUCTEMERON: "O FIM DA CRIAÇÃO VAI SER CARIMBADO PELA FORÇA DE UM SER CHAMADO CHIVA, QUE JÁ CRIOU UMA EXPRESSÃO DELE CHAMADA [RARA — REVISAR: RUDRA?], QUE VAI ENGOLIR A SUJEIRA QUE RESTAR DESSA CRIAÇÃO PARA VER SE ISSO SE ACABA" [⚠️⚠️ a expressão devoradora de Shiva na 12ª hora].
+- **[P2024-11-03 — eco] MARICANDÃ E A 12ª HORA]** "há 20.000 anos atrás, CHIVA APRESENTOU-SE NA TRADIÇÃO COM MARICANDÃ [REVISAR — Murugan? → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota], NO SUL DA ÍNDIA, para os dravidianos e outras figuras que por lá existiam e disse: 'EU SOU O DEUS PRINCIPAL dessa história'"; A 12ª HORA DO NUCTEMERON: "O FIM DA CRIAÇÃO VAI SER CARIMBADO PELA FORÇA DE UM SER CHAMADO CHIVA, QUE JÁ CRIOU UMA EXPRESSÃO DELE CHAMADA [RARA — REVISAR: RUDRA?], QUE VAI ENGOLIR A SUJEIRA QUE RESTAR DESSA CRIAÇÃO PARA VER SE ISSO SE ACABA" [⚠️⚠️ a expressão devoradora de Shiva na 12ª hora].
 - 0 códigos novos (O-3). Quarentena: a mitologia comparada como registro narrativo.
 
 
@@ -208,3 +208,23 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - "Shiva é o pai dos demos, foi o primeiro demo a surgir"; a "linhagem dele surgiu do fogo" — "o fogo é produto de uma derrota";
 - O forno de Shiva (Awaylengan) foi "o primeiro forno a funcionar"; dele a **animalidade** e a **emoção/sensação** (ver RC-837);
 - A morada de Shiva no Himalaia (a "Aingan" / base cósmica) — quarentena ufológica.
+
+## Nota — cronologia conferida em B050: [REVISAR] encerrado — F035 aplicação (05/09/2026)
+
+- **[B050 · original.txt, l. 67]** «Savna mergulha na singularidade imperfeita e imanta-se a um anjo-clone. / Passa a procurar uma forma de ajudar Brahma. (Aproximadamente 12,17 bilhões a.p.)» — a data do mergulho (~12,17 bi a.p.), tal como a grafava a Parte II da refatorada (doc F035 l. 50), BATE EXATA no mapa das eras;
+- **[B050 · original.txt, l. 69]** «Brahma passa a mexer no algorítmo mestre para replicar / partes diferenciadas. Shiva corta uma das cinco cabeças / de Brahma. (11,6 bilhões de anos a.p.)» — o ato do corte da cabeça, que a ficha trazia sem marco, ganha a data da fonte;
+- Despacho Q-F035-B (05/09/2026): a flag «[REVISAR — conferir B050]» da seção ART-2025-08-01 (l. 30) considera-se **oficialmente encerrada**. *(Nota de execução: a proposta citava «ll. 67/68»; o corte está na l. 69 — linha corrigida contra a fonte, sendo a l. 68 o «Anjo clone "especial" de Javé engendrado (12 bilhões de anos a.p.)», que por si corrobora o quadro.)*
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 23 (B5a) · ll. 25 (B5b) · ll. 71 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 61 → AGUARDA-ÁUDIO · ll. 95 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Savna (via verbete Entropia)»: «Ser Adhyatman, de Perpérion… que mergulhou na Criação, constituindo-se como Shiva».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

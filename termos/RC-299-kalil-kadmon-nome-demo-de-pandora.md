@@ -77,8 +77,13 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 
 ## Observação
 
-Grafia "Cali Calon" [REVISAR — STT]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
+Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
 
 ## Nota de governança
 
 [P2024-08-03] As formulações mitológicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 80 (B5b).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

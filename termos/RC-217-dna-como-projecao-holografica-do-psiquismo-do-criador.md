@@ -111,3 +111,7 @@ A palestra descreve a cadeia Nidana → DNA biológico → reorganização futur
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA ele descobre o dono daquele cabelo. É porque o todo daquela pessoa está representado em uma célulazinha de um cabelo que caiu da cabeça dele lá na hora do assassinato.»
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «DNA»: «contém as instruções genéticas, na sequência de suas bases nitrogenadas, dos seres vivos da Terra e de alguns outros mundos».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

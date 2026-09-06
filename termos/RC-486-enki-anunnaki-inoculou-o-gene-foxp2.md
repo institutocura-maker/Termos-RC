@@ -51,17 +51,17 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 ## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · FOXP2 DADO PARA QUE SE APRENDESSE A LINGUAGEM DOS ANUNAX]** "Então eu só tô querendo chamar a atenção de vocês porque lá atrás quando quis transformar a humanidade numa humanidade que aprendesse a linguagem dos anonax e para isso ele colocou o Fox P2 dele que os Anonax tinham de uma racionalidade que ainda não havia surgido na Terra num corpo de homo que já tinha crânio, coisa que não necessariamente os anonax todos detém em si." (U0003)
-- **[P2021-05-15 · A CRIAÇÃO DO TIPO RACIONALIZADO A PARTIR DO DNA DE ENKI]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003) — [REVISAR: «Ning Ningicida, que é o deus Thor» é quarentena histórica — não decodificar.]
+- **[P2021-05-15 · A CRIAÇÃO DO TIPO RACIONALIZADO A PARTIR DO DNA DE ENKI]** "Quando enk junto com essa sua irmã e com Ning Ningicida, que é o deus Thor, quando eles criaram um outro tipo de ser humano também racionalizado, né?" (U0003) — [REVISAR: «Ning Ningicida, que é o deus Thor» é quarentena histórica — não decodificar. → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]
 - **[P2021-05-15 · A ADVERTÊNCIA SOBRE O CÉREBRO DELES]** "E o os que detém não é o mesmo do nosso tipo, muito menos o cérebro dele é sofisticado como o nosso." (U0003)
 - **[P2021-05-15 · ADAPA: A VIDA ENCURLADA POR MEDO]** "Então, em que encurtou mais ainda a genética do ser humano para que ele não vivesse muito." (U0003); "Porque diferente do Adão movido, escolhido por Javé, em que e os Anunacas, eles morriam de medo que os humanos que já eram naturalmente mais espertos que eles em muitas coisas." (U0003)
-- **[P2021-05-15 · A FONTE ERUDITA NOMEDADA (a lenda de Adapa)]** "Mas nas crônicas sumérias, nas tabuletas sumérias acadianas encontradas no século XIX nas bibliotecas da antiga capital de Min Na biblioteca de Nínive, antiga capital do império assírio, existem lá diversas crônicas sumérias e uma delas se chama a lenda de Adapa." (U0003) — [REVISAR: «bibliotecas da antiga capital de Min» = STT provável para Nínive; manter a grafia da fonte na apostila.]
+- **[P2021-05-15 · A FONTE ERUDITA NOMEDADA (a lenda de Adapa)]** "Mas nas crônicas sumérias, nas tabuletas sumérias acadianas encontradas no século XIX nas bibliotecas da antiga capital de Min Na biblioteca de Nínive, antiga capital do império assírio, existem lá diversas crônicas sumérias e uma delas se chama a lenda de Adapa." (U0003) — [REVISAR: «bibliotecas da antiga capital de Min» = STT provável para Nínive; manter a grafia da fonte na apostila. → CHANCELA 2026-09-06 · F039-L3: TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA — ver nota]
 - **[P2021-05-15 · OS DOIS FOXP2 (Q&A U0006)]** "Eh, o gene da cognição Fox P2 dos descendentes de Anunax é diferente dos descendentes de Pandora?" (U0006); "É um mesmo genoma, porque para pertencer a espécie humana tem que ser o genoma humano, mas áreas desse genoma, a chamada HR1, HR2, HR, são diversas áreas, né?" (U0006)
 - **[P2021-05-15 · O PAR ADÃO/ADAPA COMO DIAGNÓSTICO DO PRESENTE]** "Então, tá se estudando de tudo, mas assim, o que importa pra gente, o objetivo dessa palestra foi só mostrar esse pano de fundo, deixar claro que o adapa em que ano ainda é um padrão de genética que está presente." (U0005) — ⚠️ T-11: a fonte põe Adão e Adapa juntos na janela de ~49.000 anos; a base selou Pandora ~49.000 × Eva/Adão ~22-23.000 [P2025-02-22]. Selar, **não fundir**.
 
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · O MARCADOR GENÉTICO UNIFORMIZADO DA CONDIÇÃO HUMANA]** "Se qualquer exame de sangue for feito em qualquer ser humano, há um marcador genético, antiquís, que corresponde a um a uma marca uniformizada na condição humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolutiva]:** o bruto grafa «Enk» e «Henk»; **a mesma grafia «Henk» designa também o chefe da nave dos 50**. O Curador **recusou a unificação** a RC-486: manter a leitura dupla (livro de Enki × livro do emissário Henk).
+- **[P2023-10-14 · O MARCADOR GENÉTICO UNIFORMIZADO DA CONDIÇÃO HUMANA]** "Se qualquer exame de sangue for feito em qualquer ser humano, há um marcador genético, antiquís, que corresponde a um a uma marca uniformizada na condição humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolutiva → ENCERRADO 2026-09-06 · F042-VARREDURA: RATIFICADO — registro de fala/leitura do autor ratificado — ver nota]:** o bruto grafa «Enk» e «Henk»; **a mesma grafia «Henk» designa também o chefe da nave dos 50**. O Curador **recusou a unificação** a RC-486: manter a leitura dupla (livro de Enki × livro do emissário Henk).
 - **[P2023-10-14 · A DESTINAÇÃO: O DNA DE ENKI, JAMAIS O DE PANDORA]** "O tipo de ser humano a surgir na natureza terrestre era o produzido pela interferência do DNA de Enk, jamais o de Pandora." (U0033)
 - **[P2023-10-14 · O CRITÉRIO DO JULGAMENTO GENÉTICO]** "Quais Os que ele iria reaproveitar, os que estivessem aliados com os padrões do genoma de Enk." (U0033)
 
@@ -117,3 +117,16 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 57 (B4).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B4:** TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA (precedente Senequeribe) — a Arca documenta a Revelação Cósmica, não julga anacronismos seculares.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 64 (RA).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

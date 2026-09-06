@@ -21,7 +21,7 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 ## Ampliação — P2026-07-25
 
 - **Bipartição:** sob o desejo criado por Cama (RC-622) via Aurora (RC-475), Brahma se divide em dois: o "Brahma podre de sempre" + "Braminha Júnior tetracéfalo" (4 faces) — versão Fenvã (RC-769).
-- **Geração regenerada (RC-696):** da mente: Atri, Marichi, Pulastya, Pulaha, Kratu; do corpo tetracéfalo: Bhrigu e Daksha (RC-701) — Daksha gerou 69 filhas (13 últimas; Olímpicos e Titãs; "Ira" [REVISAR] produziu as plantas, inclusive a cuscuta).
+- **Geração regenerada (RC-696):** da mente: Atri, Marichi, Pulastya, Pulaha, Kratu; do corpo tetracéfalo: Bhrigu e Daksha (RC-701) — Daksha gerou 69 filhas (13 últimas; Olímpicos e Titãs; "Ira" [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] produziu as plantas, inclusive a cuscuta).
 - **Formas:** cuscuta (1ª vegetal), cefalópodes (3 corações, 9 cérebros — "investimento nos invertebrados"), dragonoide, tentativa humana.
 - **Senhor Brahma Parameshthi:** a face humana de Brahma, descrita por Vyasa (STT "Viaza") no Mahabharata (STT "Marrabarata") — "cerca de 270 mundos que observam o que se passa na Terra" (RC-265).
 - **Comas:** Javé/Brahma ficava milhões de anos apagado, mantido pelos anjos clones; colapso atual "ano 2020 e alguma coisa" (RC-001).
@@ -213,3 +213,12 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias: a condiçã
 - o ovo cósmico hindu: "o Brahmanda, ou seja, o anda de Brahma, ou seja, o ovo cósmico de Brahma" e "O ovo tinha três partes. Quando esse ovo se desfez, surgiu o Brahmaloka" (STT);
 - a polinomia do criador: "Brahma ou javé ou atum vários nomes" (STT);
 - o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 24 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Criador caído / condição Adhyatman»: «a fórmula mental precisa evoluir para que as necessidades do Criador caído possam ser atendidas» — a condição anterior à queda grafada como o cadastro a grafa (Brajna/Adhyatman).
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

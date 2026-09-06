@@ -1,0 +1,28 @@
+id = "F041"
+tipo = "MUTIRAO REVISAR - Lote 5 (Outros) - trincheira final"
+abertura = "2026-09-06"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+baseline_vivas = 106
+roster = 81
+fichas = 78
+
+[metodo]
+expurgo = "censo L5 de F037 (105 linhas) + 2 diferidas do L3 (RC-489 l.35, RC-589 l.38): 107 reivindicacoes -> 81 tokens vivos em 78 fichas; 26 linhas mortas por L1-L4 ou guarda de meta"
+guardas = "constitucionais (corte antes de ## Nota; backticks/aspetos; adjudicacao ampla) + M2 (so livros/ vale como par impresso)"
+reclassificacao = "os 15 'casos duros' do auto-classificador provaram-se 13 artefatos de STT em citacao ('anunx', 'eergal e no lurtte', 'Henk'=Enki...) + 2 autorrecomposicoes da fala (RC-684 l.20 'Abel foi o primeiro. Nao, mas a Biblia...' = fala se corregindo ao vivo) - nenhum exige vontade nova do curador alem dos carimbos existentes"
+
+[grupos]
+aguarda_audio = 59
+encerrado_ratificado = 16
+isolamento_fonte = 6
+
+[perguntas]
+q = ["Q-F041-A: carimbo AGUARDA-ÁUDIO em bloco p/ 59 flags (G1 46 + 13 duros reclassificados como STT de citacao)", "Q-F041-B: ENCERRADO-RATIFICADO em bloco p/ 16 (G3 cadastro 3 + G5a ratificacao cruzada 11 + 2 autorrecomposicoes de fala: RC-684 l.20 e RC-102 l.95)", "Q-F041-C: ISOLAMENTO/FONTE p/ 6 (G5b orfandade 3 + G4 tensao externa 1 + G2 dados 2 no modelo DADO-NARRATIVO/AGUARDA)", "Q-F041-D: forma - nota unica por ficha (78), assert por linha, espelhos uma vez ao fim", "Q-F041-E: saldo projetado 106 - 81 = 25 (oficial; regua bruta +2 de fronteiras ja cravadas) - com isso o MUTIRAO encerra: nenhuma flag ficara sem chancela; as 25 restantes serao o censo-residuo a reabrir so se a Arca ganhar audios/obras novas"]
+
+[aplicacao]
+execucao = "2026-09-06 - despacho Q-F041-A...E aplicado: 81 selos em 78 fichas de um só fôlego, roster-l5.tsv como fonte canônica dos grupos (AG 59 / RA 16 / IS 3 / TE 1 / DA 2), asserts por linha (contagem = nº de tokens vivos da linha) e substituição da direita para a esquerda; pós-estado: zero flag viva em toda linha carimbada"
+regua = "oficial 25 vivas; régua estrita 27 (+2 da família de fronteira RC-080/RC-536, já cravadas nos espelhos dos lotes anteriores — não são dívida nova)"
+espelhos = "reconstrução ÚNICA ao fim do lote (Q-D): indice 933 · xlsx · docx; validador OK 933/1898; relacoes/, cadastros e BIBLIO blindados e intactos"
+encerramento = "PLANO-MUTIRAO.md carimbado com a declaração de extinção do curador; ENCERRAMENTO-DO-MUTIRAO.md lavrado como memória oficial da régua 206→25 (Q-E)"

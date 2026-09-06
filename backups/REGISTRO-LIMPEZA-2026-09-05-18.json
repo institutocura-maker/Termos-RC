@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-05",
+  "numero": 18,
+  "tipo": "EXECUÇÃO — EXCLUSÃO FÍSICA AUTORIZADA (despacho F035/Q-F035-F, 05/09/2026: «Emita o Registro nº 18, efetue a conferência tripla do SHA, insira a linha do F035 no README da caixa e proceda com a exclusão do bruto nº 13»)",
+  "contexto": "Família F: F035 é o 8º apto (F022/F029/F030/F031 no nº 14; F032 no nº 15; F033 no nº 16; F034 no nº 17); homologado como «documento-fonte da série refatorada» — 63/63 linhas verbatim no original.txt do cluster P2025-08-01; ciclo de VERIFICAÇÃO com saldo doutrinário zero (lucros: auditoria fina das cronologias)",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte), re-conferida imediatamente antes do rm — política uploads_recepcao/README.md; conferência TRIPLA (sha256sum do bruto · hashlib da cópia · stream em blocos do bruto)",
+  "arquivos": [
+    {
+      "arquivo": "13 - Fornos Replicadores-Refatorado.txt",
+      "sha256": "f1c9926ce023cd9ac77b7cea111fa6b4afd50cd907d97b08971ec8e02e823b06",
+      "bytes": 25845,
+      "nota_ciclo": "F035 — levantamento+devolutiva+aplicação 05/09/2026 (despacho Q-F035-A…F: nota de fechamento na RC-102 com B050 ll. 67/69 verbatim — [REVISAR] sobre o mergulho ~12,17 bi oficialmente encerrado (linha do corte corrigida de 68 para 69 na execução); nota de amarração no RC-408 (Eros · Terceiro Logos · período 9,7–9,5 bi a.p.; compatibilidade 13,8−4,1≈9,7 demonstrada); supressão «Talm=Nidana» mantida; grafia «Awayem» só averbada — B083 segue anunciada)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F035_fornos-replicadores-refatorado/fonte.txt",
+          "sha256": "f1c9926ce023cd9ac77b7cea111fa6b4afd50cd907d97b08971ec8e02e823b06",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 1,
+  "aptos_para_ordem_de_remocao": 1,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt permanece na caixa — sem cópia byte a byte versionada; não-apta (estado inalterado desde o registro nº 13)."
+}

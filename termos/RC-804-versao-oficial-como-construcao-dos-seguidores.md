@@ -44,5 +44,9 @@ Aparece em **P2018-02-24**, U0001 (abertura) e U0005 (encerramento). Contexto: o
 - **Jesus, Moisés, Krishna, Saibaba, Maomé** — alvos das versões oficiais
 
 ## Observações
-- [REVISAR]: a palestra de 2018-02-24 é a primeira formulação específica; pode haver paralelos em outras palestras sobre "o que os seguidores fizeram com a mensagem original".
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-02-24 é a primeira formulação específica; pode haver paralelos em outras palestras sobre "o que os seguidores fizeram com a mensagem original".
 - Quarentena: leitura do autor; sem fusionar com crítica acadêmica às religiões ou com sociologia da religião (Peter Berger, etc.).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 47 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

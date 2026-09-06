@@ -56,3 +56,7 @@ Consultar as relações tipadas acima.
 Samkhya permanece no glossário local neste ciclo.
 
 **Regra de status:** permanece candidato por depender de transcrição automatizada sem áudio anexado.
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Moksha»: «estado em que o praticante do Samkhya se livra dos sofrimentos e da dor, liberando-se da Samsara… autoemancipação».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

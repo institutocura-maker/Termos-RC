@@ -48,6 +48,10 @@ Aparece em **P2018-05-20**, U0004. Contexto: a palestra reconstrói a história 
 - **Eva** — quem teve a racionalidade "sufocada"
 
 ## Observações
-- [REVISAR]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (patriarcado **desde Pandora**).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (patriarcado **desde Pandora**).
 - **Quarentena feminista**: a leitura do autor **PARALELA mas NÃO IDÊNTICA** à teologia feminista acadêmica (Mary Daly, Carol P. Christ, Rita Nakashima Brock). Onde Daly vê o patriarcado como invenção judaico-cristã, o autor vê o patriarcado como **mais antigo** — começa com Pandora, antes de Javé.
 - **Conexão com P2017-05-14**: a P2017-05-14 menciona que "Javé é d emente e desagregado" — o patriarcado é uma das consequências dessa "doença do criador".
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 51 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

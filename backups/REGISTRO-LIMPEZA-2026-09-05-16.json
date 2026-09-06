@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-05",
+  "numero": 16,
+  "tipo": "EXECUÇÃO — EXCLUSÃO FÍSICA AUTORIZADA (despacho F033/Q-F033-F, 05/09/2026: «Emita o Registro nº 16 declarando F033 como o 6º arquivo apto da Família F. Após a re-conferência estrita do SHA-256 do bruto, execute a exclusão da caixa de entrada»)",
+  "contexto": "Família F: F033 é o 6º apto (F022/F029/F030/F031 removidos no nº 14; F032 no nº 15); caixa retorna ao regime de entrada bruta",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte), re-conferida imediatamente antes do rm — política uploads_recepcao/README.md",
+  "arquivos": [
+    {
+      "arquivo": "11 - Mohen So – O Livro.txt",
+      "sha256": "5e1c599c1a1ec463a96bd1ec6eb49b88c7ef7c61ac10daf0bcc7e8fedb2eabe4",
+      "bytes": 96559,
+      "nota_ciclo": "F033 — levantamento+devolutiva+aplicação 05/09/2026 (despacho Q-A…F: seis notas de ficha RC-081/092/154/454/535/282 estritas às âncoras, aresta RC-081→gera→RC-064, ledger 0 abertas; 36/36 núcleo-alegações ancoradas; guarda B060 «nome ??» aprovada — nenhum documento da série preencheu lacuna de identidade)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F033_mohen-so-livro/fonte.txt",
+          "sha256": "5e1c599c1a1ec463a96bd1ec6eb49b88c7ef7c61ac10daf0bcc7e8fedb2eabe4",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 1,
+  "aptos_para_ordem_de_remocao": 1,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt permanece na caixa — sem cópia byte a byte versionada; não-apta (estado inalterado desde o registro nº 13)."
+}

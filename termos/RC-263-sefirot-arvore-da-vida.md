@@ -46,7 +46,7 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 - **[P2023-10-14 · A ÁRVORE DA VIDA COMO INVENÇÃO DE UM HUMANO]** "É uma representação que Enoque, um humano, criou." (U0085); "É um joguinho que Enoque humano criou pros seres demos jogarem, para eles entenderem direito o que estão fazendo." (U0085) — ⭐⭐⭐ A inversão da direção da revelação (humano → deuses) está aqui, em fala.
 - **[P2023-10-14 · AS DEZ PERSONIFICAÇÕES E OS DESÍGNIOS]** "Ou seja, a árvore da vida mostra as 10 principais personificações do que esses seres consideram como entes divinos que têm missão ou que tem um processo em curso que tem a ver com o cumprimento dos desígnios de Keper, de Javel." (U0085); "São encarnações as que movem os principais 10 processos que acontecem dentro da matrix que Javé terminou criando sem querer, ou melhor dizendo, né?" (U0085)
 - **[P2023-10-14 · A PONTE COM O TARÔ]** "A relação entre essas 10firais aí aqui dá toda a margem do tarô." (U0085)
-- **[P2023-10-14 · A ENTREGA AOS RABINOS E O MATERIAL PRIMÁRIO]** "Mas quando Javé decidiu apresentar isso aos humanos, foi dois séculos depois de Jesus, foi quando os anjos aí Enoqu Metatron já não mais existiam, mas Gabriel entregou a rabinos Shimon Bariokai esses postulados acaba lá e entre eles estava a árvore da vida." (U0085) — [REVISAR: «fois» é truncamento do STT; o canônico da Base é Shimon bar Yochai. A expressão «ver também» aparece degradada na linha 280 do bruto. [TEXTO CORROMPIDO].
+- **[P2023-10-14 · A ENTREGA AOS RABINOS E O MATERIAL PRIMÁRIO]** "Mas quando Javé decidiu apresentar isso aos humanos, foi dois séculos depois de Jesus, foi quando os anjos aí Enoqu Metatron já não mais existiam, mas Gabriel entregou a rabinos Shimon Bariokai esses postulados acaba lá e entre eles estava a árvore da vida." (U0085) — [REVISAR: «fois» é truncamento do STT; o canônico da Base é Shimon bar Yochai. A expressão «ver também» aparece degradada na linha 280 do bruto. [TEXTO CORROMPIDO → CHANCELA 2026-09-06 · F039-L3: TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA — ver nota].
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -83,3 +83,8 @@ Kether/Javé (RC-261); Deidade (RC-047).
 
 ## Observações
 Ficha baseada em B013 (obra primária). As Sefirot conectam a Cabala à cosmologia RC: são o "mapa" do império além-mundo de Javé. Cruzar com RC-264 (os quatro universos associados às Sefirot).
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 49 (B4).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B4:** TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA (precedente Senequeribe) — a Arca documenta a Revelação Cósmica, não julga anacronismos seculares.

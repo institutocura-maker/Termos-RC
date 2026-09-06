@@ -1,0 +1,27 @@
+{
+  "data": "2026-09-05",
+  "numero": 17,
+  "tipo": "EXECUÇÃO — EXCLUSÃO FÍSICA AUTORIZADA (despacho F034/Q-F034-E, 05/09/2026: «Emita o Registro nº 17 declarando a homologação final. Após a re-conferência tripla do SHA-256 do bruto contra a cópia canônica, execute o git rm para remover o arquivo nº 12 da caixa de recepção»)",
+  "contexto": "Família F: F034 é o 7º apto (F022/F029/F030/F031 removidos no nº 14; F032 no nº 15; F033 no nº 16); homologado como «documento-espelho» — reciclagem editorial 100% verbatim do cluster 2025-08 (299/299 linhas no corpus; 292/299 na apostila-mãe P2025-08-03); saldo doutrinário zero",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO (byte a byte), re-conferida imediatamente antes do rm — política uploads_recepcao/README.md; este registro exigiu conferência TRIPLA (sha256sum do bruto · hashlib da cópia · stream de blocos do bruto)",
+  "arquivos": [
+    {
+      "arquivo": "12 - Fenvans - A Gênese Nanotecnológica e o Sacrifício Cósmico.txt",
+      "sha256": "b7d084bd8ba185f155f0c043e797b100168909d7c4a823abb11ba4449cc08b17",
+      "bytes": 141502,
+      "nota_ciclo": "F034 — levantamento integral+devolutiva+aplicação 05/09/2026 (despacho Q-F034-A…E: homologação documento-espelho; retificação D-5 do ledger F032 com averbação sem blindagem só na RC-658 «teia ~9 bi (P2025-08-03, apostila ll. 826/882)»; REVISAR «autora do Apocalipse» mantido — RC-854 intacta; grafias-variante Ealm/Aia/Anã restritas ao ledger F034; 52/52 sondas nominativas ancoradas; 0 termos/0 relações novos)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F034_fenvans-livro/fonte.txt",
+          "sha256": "b7d084bd8ba185f155f0c043e797b100168909d7c4a823abb11ba4449cc08b17",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 1,
+  "aptos_para_ordem_de_remocao": 1,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt permanece na caixa — sem cópia byte a byte versionada; não-apta (estado inalterado desde o registro nº 13)."
+}

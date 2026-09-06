@@ -1,0 +1,75 @@
+# ciclo.toml — consolidacao F032 · «10 - Moros – O Livro»
+# ──────────────────────────────────────────────────────────────────────────────
+# Tipo: CONSOLIDAÇÃO (refatorado de terceiros — série "Família F", após F022/F029/F030/F031).
+# ATENÇÃO (lição F031): toda chave solta vive ANTES da primeira [secao]; validar com tomllib.
+
+sigla_fonte = "F032"
+titulo = "10 - Moros – O Livro — Dossiê: O Enigmático Arquiteto do Destino Universal"
+arquivo_fonte = "fonte.txt"
+sha256_fonte = "ea8561204fa393f4abdde933a1132586d84c831791703ac63b56fe475c7e0ea2"
+bytes_fonte = 144990
+linhas_fonte = 581
+data_levantamento = "2026-09-05"
+branch = "arena/01a071c8-termos-rc"
+
+# Caracterização
+natureza = "Livro-síntese em prosa compilado por IA (mesma oficina do «1-EDR»/F031): índice-balaio + preácio + 8 capítulos (Cap.1 com «Versão 2» — eco de rascunho) + posfácio + 2 anexos (avatares; glossário) + resumo. CRLF no original. Tema: MOROS (Elm) — Rede completa da apostila-mãe."
+origem_primaria_presumida = "substrato: apostilas/CONCLUIDAS 2024-11-30 (morus arquivos destino universal — espinha dorsal; a aula P2024-11-30 JÁ é fonte cadastrada da Rede Moros) + B060_personagens_e_terminologias (verbete moros: 9 nomes + 17 avatares) + apostilas 2020-07-11 (ogdoade) · 2025-08-03 (dossie fenvans — glossário IEEA/assembleias hiperbóreas) · 2023-04-01b · 2017-05-14 · 2021-07-24 · 2020-09-19 · 2021-03-13 · 2024-05-04 + livros B016/B013/B014/B019/B021/B023/B060 e falas P2022-10-01 · P2023-07-09 · P2024-01-13 · P2024-02-04 · P2021-12-04 · P2023-10-14 (oraculares)"
+parente_documental = "mesma oficina do F031 (1-EDR); herda e repete os vícios da linhagem: aspas de ênfase sobre paráfrase (2,3% verbatim em aspas longas), cifras coladas de outros referentes, e — NOVO PADRÃO — preenchimento de lacunas «nome ??» de B060 com erudição externa (D-1)"
+
+# Estado do ciclo
+fase = "APLICACAO"             # LEVANTAMENTO → DEVOLUTIVA → APLICACAO (despacho 05/09/2026)
+altera_base = true             # aplicação assinada: +1 termo fila, +3 relações, 2 fichas, RC-467 renomeado, RC-930 enriquecido, F031 retificado
+data_despacho = "2026-09-05"
+data_aplicacao = "2026-09-05"
+status = "concluido"
+
+# Cotejo executado nesta rodada (2026-09-05, só-leitura)
+[cotejo_primario]
+metodo = "varredura completa dos 162 original.txt (normalizada) + grade de 63 alegações do doc contra o cadastro (932 códigos) e fichas da Rede Moros (RC-454/467/609/611/658/716/718/777/080/064/665/671/081/282/930); auditoria de aspas em duas camadas (curtas ≥25c: 718; longas ≥60c: 488); scan anti-duplicação por NOME antes de qualquer proposta"
+resultados = [
+  "COBERTURA: 40/63 alegações já têm código na base + 5 cobertas-com-nota — o doc é o MAIS derivado da Família F (substrato = material já processado, não material virgem)",
+  "FIDELIDADE: aspas longas 11/488 verbatim (2,3%) — todas as 11 já vivem nas âncoras próprias; vedação de aspas cumpre-se sozinha (nada do doc precisa entrar)",
+  "D-1 (novo padrão de risco): doc INVENTA identidades onde B060 deixou «nome ??»: Amenophis (corpus: sacerdote do faraó MERNEPHTA), Quirinius Cornélius (corpus: Longino), Jan Huss, Ellam Yua (Yup'ik — 0 hits), Cidade de Tróia, Krsnavapalyana — nenhum entra; blindagem C-iii proposta na ficha RC-454",
+  "CIFRAS SEM ÂNCORA: «9 bilhões» da Wyrd (B016: os 9 bi são da ENTROPIA pós-início — colagem, D-5); «Trimúrti faliu há 7 bilhões» (a apostila usa 7-8 bi para o período da vida no universo vizinho — D-7); «5-6 bilhões» existe na fonte mas COM moldura «depois da criação» (D-6)",
+  "AUTOCONTRADIÇÃO: «duas das três flechas resgatadas» (6.2) vs as três localizadas/acionadas na aula (Edimburgo/Split/Índia — D-4); 2015–2017 vs 2018 (ambos ancorados; não é erro, é justaposição do compilador)",
+  "NAG HAMMADI: doc o lista entre «destruições»; RC-887 o cadastra como ACHADO de 1945 — inversão de sinal (D-8)",
+  "SURTOS DE FIDELIDADE: Schwarzschild É da apostila 2024-11-30 (não externo); Mohen So=Phanes/Protogonos bate com RC-282; Orunmilá com RC-665; «ser LM» com RC-456; PIA com RC-716; o pacto dos elevadores com 2020-07-11 verbatim («funciona redondinho»)",
+  "GAP ÚNICO (G1): «Revelação Psíquica (Kapila — Samkhya)» — irmãs codificadas (RC-190/RC-094), a psíquica ausente do cadastro; âncora 2024-11-30 + 10 arquivos",
+  "LACUNA DE ARESTA (C-i): RC-777×RC-716 sem aresta apesar da sentença única em 2023-04-01b («Ank… estudou cada peso da podridão…»); C-ii: «Súdices» falta no nome/ficha de RC-467 (está na fonte); C-iv: RC-930 (IEEA, criado no F031 ontem) ganha fonte P2024-11-30 + nota assembleias hiperbóreas (glossário 2025-08-03)",
+  "RETIFICAÇÃO (C-v/D-13): «mensagem numa garrafa» tem 19 âncoras no corpus — F031 a listara entre fórmulas sem âncora por probe com preposição errada; corrigir anotação do mapeamento F031",
+]
+
+# Regras (G1/G3 herdadas + desta rodada)
+tipo_processo = "CONSOLIDACAO"
+regras = ["anti-fabricacao", "anti-pseudoconfirmacao", "anti-duplicacao",
+          "cotejo-com-fonte-primaria", "grafia-canonicas-na-base",
+          "fonte-de-terceiros-nao-propaga-atribuicao-sem-curadoria",
+          "aspas-de-refatorado-nunca-sao-citacoes-de-ficha (F030 §1 + F031 D-5 + F032 §1.3)",
+          "varredura-de-NOMES-antes-de-propor-codigo (executada; zero colisões)",
+          "docs-sintese-nao-preenchem-lacunas-nome-??-das-fontes (NOVO — D-1 F032)",
+          "sondas-normalizam-preposicoes (NOVO — lição da garrafa, D-13)",
+          "decisoes-homologadas-nao-sao-reabertas (navinha relíquias; ficha RC-454 blindada em F030/F031 vale)"]
+
+# Decisões do curador (a registrar)
+[decisoes-curador]
+resumo = "despacho de 05/09/2026: Q-A homologada · Q-B RC-933 na fila com ponte às irmãs · Q-C todas (aresta Ananque×PIA; Súdices no RC-467; blindagem estrita na RC-454; RC-930 enriquecido) · Q-D retificação do F031 · Q-E ficha+README (alerta «validar toda lista contra B060») · Q-F registro nº 15 + exclusão do bruto"
+[decisoes-curador.itens]
+a = "homologada (F032; caracterização «auditoria-pura»)"
+b = "sim — RC-933 na fila, ficha=False, fontes estritas (P2024-11-30 · P2023-06-25 · P2024-08-03), ponte RC-190/RC-094"
+c = "todas — C-i aresta; C-ii Súdices+truncagem; C-iii blindagem nominal RC-454 + moldura 5-6 bi; C-iv RC-930 += P2024-11-30 + nota assembleias hiperbóreas"
+d = "sim — C-v aplicada no mapeamento/ledger do F031 (19 âncoras «mensagem numa garrafa»)"
+e = "ficha+README — alerta expresso na esteira contra preenchimento de «nome ??»"
+f = "registrar-e-remover — nº 15 emitido; bruto excluído (SHA re-conferido); LISTA SIMPLES preservada"
+
+[aplicacao]
+execucao = "2026-09-05 — só o assinado; nenhuma aspa/cifra/identidade do doc propagada"
+delta = "TERMOS 932→933 · RELACOES 1894→1897 · fichas: RC-454 (blindagem D-1/D-5/D-6/D-7) · RC-467 (título+Súdices, verbatim 2024-11-30, truncagem registrada) · RC-930 fontes+=P2024-11-30 · F031 retificado (C-v) · README da esteira com alerta · espelhos regenerados"
+validacao = "python3 ferramentas/dados_termos.py → OK: 933 termos, 1897 relações; zero órfãs; RC-933 sem .md (fila); STATUS inalterados"
+limpeza = "REGISTRO-LIMPEZA-2026-09-05-15.json: 1 removido (10 - Moros – O Livro.txt), cópia byte-idêntica em consolidacoes/F032_moros-livro/fonte.txt"
+
+# Recebimento (política uploads_recepcao)
+[ingresso]
+canal = "uploads_recepcao/10 - Moros – O Livro.txt (upload do curador c3db936 «Add files via upload», 05/09/2026 — empurrado direto na branch do ciclo)"
+bruto_preservado = false       # REMOVIDO da caixa em 05/09/2026 pela limpeza nº 15 (Q-F assinado) — versão canônica viva: consolidacoes/F032_moros-livro/fonte.txt (SHA idêntico)
+historico_recuperavel = "git show c3db936:uploads_recepcao/10 - Moros – O Livro.txt"

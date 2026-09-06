@@ -51,5 +51,10 @@ Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de confl
 - **Shiva** (RC-148) — pactuante 3
 
 ## Observações
-- [REVISAR]: a tese dos "pactos por impossibilidade racional" é leitura do autor; conecta-se com a Tríade Trimurti (RC-104) mas com **ênfase na desastrosidade** (não é aliança, é rendição mútua).
+- [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: a tese dos "pactos por impossibilidade racional" é leitura do autor; conecta-se com a Tríade Trimurti (RC-104) mas com **ênfase na desastrosidade** (não é aliança, é rendição mútua).
 - Quarentena: leitura do autor; sem fusão com teologia hindu tradicional (onde os pactos entre Trimurti são harmônicos) ou com teologia cristã (Javé como único).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 54 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

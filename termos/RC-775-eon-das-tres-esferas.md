@@ -42,5 +42,9 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 | Fenvans | RC-064 | relaciona-se-a |
 
 ## Observações
-- Datas [REVISAR — conferir B050]: Trimurti desfeita 2015–2018;
+- Datas [REVISAR — conferir B050 → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha] Trimurti desfeita 2015–2018;
 - Fonte: material do curador (não primário).
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **Flag de datas do Éon: encerrada pela trilha D.** B050 original.txt l. 204, verbatim: «[            11 a.p.] (trilha D, y=1193) 2.000 A.P / 2.000 D.C. / Fim da Lila/Trimurti. (2015 d.C.)» — «Fim da Lila/Trimurti (2015 d.C.)» crava o marco inicial da janela 2015–2018 grafada pela curadoria.

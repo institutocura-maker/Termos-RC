@@ -25,7 +25,7 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
-* **[REVISAR] — uso da fala × categoria do cadastro.** A frase de 03/12/2023 trata bilatério como atributo de cérebro; o cadastro o lista como classe de seres. A divergência é registrada, não costurada, e nenhuma ficha de anatomia foi tocada (D-7: obsolescência anatômica mora em `RC-631`/`RC-632`).
+* **[REVISAR → ENCERRADO 2026-09-06 · F040-L4: RATIFICADO — divergência registrada, não costurada — ver nota] — uso da fala × categoria do cadastro.** A frase de 03/12/2023 trata bilatério como atributo de cérebro; o cadastro o lista como classe de seres. A divergência é registrada, não costurada, e nenhuma ficha de anatomia foi tocada (D-7: obsolescência anatômica mora em `RC-631`/`RC-632`).
 * **Trava aplicável**: D-7 (anatomia sem código novo) · D-4 (nenhuma máscara transita) · veto de trânsito por nomear classe de seres.
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
@@ -57,3 +57,11 @@ Com isso:
 - a origem: o **Nidana B** (junção Awaylengan + Awaymaion): "criaram Nidana B, ou seja, o ovo cov" (STT) — nova versão do código que juntou a experiência dos dois fornos;
 - a consequência na Terra: "já eram seres bilaterais, porque a tal molécula mãe" (STT) que foi lançada aqui "já vinha como sendo Nidana B" — a explosão cambriana e a evolução até os humanos;
 - **Materialização decidida por Devolutiva O-3** — em vez de criar um código duplicado (RC-838), a fonte fundadora de 2019 amplia a ficha **RC-035 Bilatérios** já existente (correção do dossiê O-2, que por erro de busca não a localizara).
+
+
+## Nota — Dasein — F031 aplicação (05/09/2026)
+
+- **[P2025-06-14 · DASEIN NA FONTE-MÃE]** a fala já traz a referência embutida: «essa capacidade ímpar de indagar, buscar respostas e decifrar a realidade ao seu redor ("Dasein de Heidegger")» — G6/Q-B: **sem código novo**; o uso heideggeriano é apropriação de Ellam (contexto), não admissão da filosofia de Heidegger como fonte.
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-A · ENCERRADO-RATIFICADO:** a política da ficha — «A divergência é registrada, não costurada» — fica ratificada por ato do curador (06/09/2026). Bilatérios permanecem classe de seres no cadastro; o uso cerebral da fala de 03/12/2023 vive como registro de fonte. Obsolescência anatômica continua endereçada a RC-631/RC-632 (D-7). A flag de l. 12 era menção entreaspas e não entrou no censo vivo.

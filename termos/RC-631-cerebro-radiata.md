@@ -30,7 +30,7 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 
 ## Ampliação — P2025-08-01
 
-- **[ART-2025-08-01] Radiata e a banda cerebral (Partes II–III):** "seres 'radiata' (com uma única banda cerebral) foram produzidos [pelos fornos], caracterizados por serem mais animalizados e voltados para o ímpeto das emoções [Awaylengan/Shiva]... mais racionalizados, frios e lógicos, com poucas emoções [Awaymaion/Vishnu]"; "quando os protótipos dos fornos de Vishnu e de Shiva se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050] — ver nó RC-771.
+- **[ART-2025-08-01] Radiata e a banda cerebral (Partes II–III):** "seres 'radiata' (com uma única banda cerebral) foram produzidos [pelos fornos], caracterizados por serem mais animalizados e voltados para o ímpeto das emoções [Awaylengan/Shiva]... mais racionalizados, frios e lógicos, com poucas emoções [Awaymaion/Vishnu]"; "quando os protótipos dos fornos de Vishnu e de Shiva se encontraram, há aproximadamente 4 bilhões de anos, surgiu o cérebro bilatério (com dois hemisférios) neste universo" [REVISAR — conferir B050 → CHANCELA 2026-09-05 · F037-L1: TENSÃO INSOLÚVEL — ver nota ao fim da ficha] — ver nó RC-771.
 
 
 ## Ampliação — P2023-04-15 (Desafio Crucial: O Alinhamento do Espírito de Jesus)
@@ -43,7 +43,7 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 ## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · O LIMITE DOS DEUSES É A ARQUITETURA DO CÉREBRO]** "Só que eles compreenderam isso primeiro nos cérebros que não tinham crânio." (U0003); "Então essa turma queria desenvolver o cérebro do jeito que eles tinham, mas um cérebro radiata como deles, independente de ser invertebrado ou não, não tem toda a riqueza de curvas e de idas e vidas que o cérebro bilatério tem." (U0003)
-- **[P2021-05-15 · A TENTATIVA DE EXPANSÃO E O EXEMPLO DO POLVO]** "os testes realizados na tentativa de expansão da capacidade dos potenciais cerebrais de demobios, demobiol, biodemos, os sirianos foram inteligentes, sei lá, ou sábios e não fizeram isso." (U0003); "E se a intenção era expandir, né, o cérebro desses seres, No sentido em que o único exemplo que eles têm de expansão de um cérebro nos moldes em que eles conhecem não vertebrado, que é o do povo." (U0003) — [REVISAR: «o povo» = polvo no STT; «os ardinianos» é ininteligível — não decodificar.]
+- **[P2021-05-15 · A TENTATIVA DE EXPANSÃO E O EXEMPLO DO POLVO]** "os testes realizados na tentativa de expansão da capacidade dos potenciais cerebrais de demobios, demobiol, biodemos, os sirianos foram inteligentes, sei lá, ou sábios e não fizeram isso." (U0003); "E se a intenção era expandir, né, o cérebro desses seres, No sentido em que o único exemplo que eles têm de expansão de um cérebro nos moldes em que eles conhecem não vertebrado, que é o do povo." (U0003) — [REVISAR: «o povo» = polvo no STT; «os ardinianos» é ininteligível — não decodificar. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 - **[P2021-05-15 · A DECISÃO NÃO-AUTÔNOMA DE SOFIA]** "Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi." (U0003)
 - **[P2021-05-15 · O QUE A EXPANSÃO PREJUDICOU]** "E isso prejudicou, Sofia, isso prejudicou muitos seres, mas muitos seres, muitos protótipos que, como eu falei no início da palestra, eram excelentes, mas que as marcas da componente demo no genótipo, na genética que eles tinham, no genoma que eles tinham, era tão presente ou mais presente ou presente de um modo que impedia esse progresso." (U0003)
 
@@ -101,3 +101,12 @@ Consultar relações acima.
 Informação sensível e especulativa da palestra.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
+
+## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
+
+- **CHANCELA — TENSÃO INSOLÚVEL (l. 33): radiata sem registro no mapa.** Nenhuma linha «radiata» no B050. A cifra 12,17 do mapa pertence a outro evento, l. 67 verbatim: «[12,170,000,000 a.p.] (trilha A, y=201) Savna mergulha na singularidade imperfeita e imanta-se a um anjo-clone. / Passa a procurar uma forma de ajudar Brahma. (Aproximadamente 12,17 bilhões a.p.)» — coincidência de número, não de tese. Ver nós RC-771/RC-499 (bilatério, mesma chancela).
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 46 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

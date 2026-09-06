@@ -23,7 +23,7 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 ## Etimologia / Grafias
 
 - **Canônico da Base:** *agressividade canalizada*; *DNA doentio* (expressão do cadastro — mantida como está, sem «suavização»).
-- **Na fonte oral (P2023-10-14):** «NAC» [REVISAR: sigla não decifrada na fonte — hipoteticamente *nível de avanço consciência*? **não conjeturar**, a Base não fixa], «se enfeem» (= *se empenham/efem*, STT), «purança/pureza de sangue».
+- **Na fonte oral (P2023-10-14):** «NAC» [REVISAR: sigla não decifrada na fonte — hipoteticamente *nível de avanço consciência*? **não conjeturar**, a Base não fixa → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], «se enfeem» (= *se empenham/efem*, STT), «purança/pureza de sangue».
 
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
@@ -60,3 +60,8 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 3. **Vínculos de leitura desta fonte** (sem nova aresta): RC-322, RC-319, RC-024, RC-217, RC-430, RC-422.
 
 **Regra de status:** 🟡 provisório — definição documentada em fonte publicada (B040/B052) e em fonte oral do acervo; citações não conferidas com áudio nem com página. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 26 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

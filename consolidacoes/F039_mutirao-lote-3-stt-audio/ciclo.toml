@@ -1,0 +1,25 @@
+id = "F039"
+tipo = "MUTIRAO REVISAR · Lote 3 (STT & Áudio) — ataque em blocos temáticos"
+abertura = "2026-09-06"
+fase = "APLICACAO"
+status = "concluido"
+altera_base = true
+baseline_vivas = 189
+roster = 79
+projecao_pos_lote = 113
+
+[metodo]
+guardas = "censo revalidado com as guardas constitucionais: corte antes de '## Nota' (menções meta fora), exclusão de tokens entre backticks/aspetos («`[REVISAR]`» ≠ flag), adjudicação ampla (ENCERRADO/CHANCELA/FONTE/→) — métrica do re-censo bateu EXATAMENTE 189 no audit e 190 no runner (1 divergência de fronteira, fichas RC-080: mesma classe ±3 do Lote 2; oficial mantido 189)"
+expurgo = "censo L3 de F037: 111 linhas → 86 vivas por linha → 79 tokens após guardas de meta/backtick; 25 linhas mortas (resolvidas em L1/L2 ou meta); hóspedes novos: 0"
+blocos = "B1 nomes 1 · B2 títulos 9 · B3 termos orais 4 (+hóspede de precedente) · B4 historicidade 3 · B5a números cósmicos 48 · B5b quantidades locais 14"
+sondagem = "contagem só-vale-livros (impresso vence oral; transcrições STT de apostilas NÃO contam como par — vício do auto-censo inicial, corrigido em tabela)"
+
+[perguntas]
+q = ["Q-F039-A aprovar chancela AGUARDA-ÁUDIO em bloco p/ B1+B3+B5b", "Q-F039-B idem p/ B2 (títulos)", "Q-F039-C B4: TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA em bloco", "Q-F039-D B5a: AGUARDA-ÁUDIO com exceção lavrável por D1 (quechava≡Keshava 0× impresso ×31×; Awayem RC-836 por precedente L2)", "Q-F039-E carimbo único por ficha ('## Nota — MUTIRÃO · Lote 3') cobrindo as linhas do lote, sem despachos individuais", "Q-F039-F saldo projetado 189→110; L4 (9) fica para depois"]
+
+[aplicacao]
+execucao = "2026-09-06 - despacho Q-F039-A...F aplicado: 76 carimbos em 55 fichas (asserts por linha, substituicao da direita para a esquerda; 3 tokens migrados ao L5 por overlap de reivindicacao exata: RC-489 l.35, RC-589 l.38 x2)"
+selos = "B1+B3+B5a+B5b -> CHANCELA AGUARDA-AUDIO (62); B2 -> CHANCELA FONTE AUSENTE DA ARCA (9); B4 -> CHANCELA TENSao NAO-RESOLVEL INTRA-ARCA (3, caso Scolov incluso); D-a (RC-425 l.26) e D-b (RC-836 l.20) -> ENCERRADO-PRECEDENTE com ancora verbatim na nota"
+metrica = "saldo oficial 189 - 76 = 113 vivas (audit bruto 114: 1 token de fronteira RC-080, mesma familia do +/-3 do Lote 2). O 110 da projecao Q-F realiza-se quando o L5 absorver as 3 diferidas"
+emenda_M2 = "sancionada de fato pelo despacho: a transcricao STT das apostilas NAO vale como par impresso (e a mesma fala); so livros/ decide"
+espelhos = "reconstrucao unica ao fim do lote: indice/xlsx/docx + validador OK 933/1898; termos e relacoes sem mutacao"

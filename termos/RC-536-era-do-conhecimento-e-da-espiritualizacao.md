@@ -22,7 +22,7 @@ A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da 
 ## Ampliação — B042 (Crônicas de um Novo Tempo)
 
 - **[B042 p. 5]** Esclarecimento: “Estamos nos primeiros tempos de uma nova era a qual, particularmente, denomino como sendo a do conhecimento e da espiritualização.”
-- **[B042 p. 6]** Atlan, 04/08/2011. Textos em maioria inéditos; alguns já em jornais, “novo tratamento editorial”; “sem nenhuma ligação com fé ou dogma.” BIBLIO Etapa II ~1999–2002 × 2011/2012 = **`[REVISAR]`** de recorte.
+- **[B042 p. 6]** Atlan, 04/08/2011. Textos em maioria inéditos; alguns já em jornais, “novo tratamento editorial”; “sem nenhuma ligação com fé ou dogma.” BIBLIO Etapa II ~1999–2002 × 2011/2012 = **`[REVISAR → CHANCELA 2026-09-06 · F040-L4: AVERBADA — origem dos textos × colofon do volume — ver nota]`** de recorte.
 - As frases sobre fundamentalismos EUA/Islã (p. 5) = **quarentena político-geopolítica** — **não** ontologizadas.
 
 ## Fontes
@@ -52,3 +52,6 @@ Denominação da fase histórica do ponto de vista do Ellam (Etapa II do pensame
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0915–U0921; U0948–U0955.
 - **Contexto acrescentado:** A transição é associada à passagem da crença para o conhecimento e à necessidade de intencionalidade espiritual, embora a fala afirme que seus efeitos ainda não se concretizaram plenamente.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-C · CHANCELA AVERBADA:** B042 não tem conflito — a BIBLIO data a ORIGEM DOS TEXTOS (Etapa II ~1999–2002, «alguns já em jornais»), o colofon data o VOLUME (Atlan, 04/08/2011). Grandezas diferentes; BIBLIO intocado.

@@ -44,6 +44,9 @@ Aparece em **P2023-11-11**, U0004 e U0005 (Q&A). Contexto: o autor foi perguntad
 - **Cornélia Funke** (autora de Coração de Tinta) — referência cultural
 
 ## Observações
-- [REVISAR]: o conceito de "egrégora" é bem estabelecido na teosofia e na magia cerimonial; o autor dá um uso **específico** (loop mental preso, cópias de consciência), que pode divergir da literatura esotérica.
+- [REVISAR → ENCERRADO 2026-09-06 · F040-L4: uso específico do autor registrado — ver nota]: o conceito de "egrégora" é bem estabelecido na teosofia e na magia cerimonial; o autor dá um uso **específico** (loop mental preso, cópias de consciência), que pode divergir da literatura esotérica.
 - **Quarentena forte**: o autor **se esquiva** de aprofundar Lilith e Noreia por proteção — esta ficha documenta a existência do loop, mas **NÃO tenta descrevê-lo em detalhe**. Para a IA, isso significa: **não inventar detalhes sobre o que o loop "faz" ou "contém"**.
 - Quarentena: leitura do autor; sem fusão com demonologia judaica-cristã (Lilith como primeira esposa de Adão) ou com literatura esotérica sobre egrégoras.
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-A · ENCERRADO-RATIFICADO:** o uso específico do corpus («loop mental preso, cópias de consciência») diverge da literatura esotérica — registrado como domínio próprio do léxico arcano; a academia não arbitra.

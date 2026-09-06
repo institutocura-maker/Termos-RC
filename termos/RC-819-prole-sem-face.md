@@ -49,6 +49,10 @@ Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **ass
 - **Epimeteu (RC-271)** — envolvido
 
 ## Observações
-- [REVISAR]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica (assimetria modificabilidade/face).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica (assimetria modificabilidade/face).
 - **Quarentena acadêmica**: o conceito **NÃO FUSIONAR com** "Dasein" (Heidegger) ou "vir-a-ser" (Nietzsche) — embora haja paralelo formal, o contexto é **cosmológico-demoníaco**, não filosófico.
 - **Conexão com a palestra anterior (P2018-05-20)**: a P2018-05-20 apresenta as 3 tentativas de fêmea para Adão (Lilith, Agar, Eva) — a P2019-04-14 aprofunda o porquê de a humanidade ter essa característica única: a **progênie da briga** carrega tanto a **racionalidade modificável** (de Pandora) quanto a **instabilidade** (sem face).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 52 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

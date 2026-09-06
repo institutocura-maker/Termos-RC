@@ -23,7 +23,7 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 ## Ampliação — P2024-07-14
 
 - **[P2024-07-14] O problema de fundamentação (U0506–U0525):** "desde que a filosofia se organizou como ciência, que foi nos tempos de Aristóteles, existe um problema na fundamentação da filosofia que nunca foi resolvido... há quase 2.200 anos os filósofos fingem, fazem vista grossa"; "terminaram transformando a filosofia em fé-filosofia: ao invés de buscar a verdade, estão fazendo com que os argumentos filosóficos justifiquem a fé pessoal que eles têm enquanto filósofo"; "filósofo não devia ter fé. Filósofo deve ser ateu e buscar a verdade livremente"; "a maioria dos filósofos do mundo teve que se render à Igreja Católica... se não se rendesse, era morto".
-- **[P2024-07-14] O curso "Reflexões quase filosóficas" (U0495–U0505):** "estou lançando no âmbito do projeto na plataforma [REVISAR — STT 'Orbon'] um novo curso cujo título é 'Reflexões quase filosóficas'. O 'quase' aí é uma provocação aos filósofos"; "vão ser entre 5 a 10 cursos. O primeiro chama-se Schopenhauer e o sofrimento do mundo... deve sair um livro depois".
+- **[P2024-07-14] O curso "Reflexões quase filosóficas" (U0495–U0505):** "estou lançando no âmbito do projeto na plataforma [REVISAR — STT 'Orbon' → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota] um novo curso cujo título é 'Reflexões quase filosóficas'. O 'quase' aí é uma provocação aos filósofos"; "vão ser entre 5 a 10 cursos. O primeiro chama-se Schopenhauer e o sofrimento do mundo... deve sair um livro depois".
 - **[P2024-07-14] A divisão da filosofia (U0520–U0535):** "a filosofia se divide em quatro áreas: a metafísica, a epistemologia, a lógica e a ética. A metafísica se divide em geral e específica: geral é ontologia, específica é teologia"; "a filosofia via metafísica está capenga, porque padece de um problema de fundamentação na sua origem... lá atrás tomaram um equívoco de Aristóteles como sendo correto".
 
 
@@ -61,8 +61,13 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 
 ## Observação
 
-**Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT].
+**Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 ## Nota de governança
 
 [P2024-07-14] As formulações filosóficas ou históricas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 26 (B2) · ll. 64 (B3).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.

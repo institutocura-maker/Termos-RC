@@ -5,7 +5,7 @@
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.2 Linhagens humanas |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 
@@ -34,6 +34,7 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 - **[B052 p. 108]** Faleg: "Não quero mais ser o elo da linhagem... Sempre achei Joctan mais habilitado para isso"; Joctan: "quanto mais faço as coisas encomendadas pelo Senhor, mas me sinto como você."
 - **[B052 p. 109]** "Faleg veio a falecer de morte natural, pela altura dos seus duzentos anos de idade"; "pela primeira vez, um elo da linhagem da quinta geração após Noé havia morrido antes do próprio"; "Faleg sequer dera a benção ao seu primogênito, com vistas à manutenção da linhagem."
 - **[B052 p. 111]** após a morte do irmão, Joctan é enviado ao norte (Magos) com a bolsa das folhas — RC-439 permanece **sem ficha**.
+- **[B052 p. 111 · a cena do mensageiro — aspa byte-exata obtida no cotejo F030 (05/09/2026); quebras de linha da extração colapsadas em espaço]** «O mensageiro levou também a instrução dada por Heber de que ele, desde que possível, fosse em direção ao norte, para verificar as notícias recebidas pelo Conselho dos Anciãos sobre a vida que lá se desenvolvia.» — a instrução chega **por mensageiro**, não diretamente de Heber. Contexto da mesma página (não é aspa verbatim — o versalete inicial sai quebrado da extração): *J OCTAN SE ENCONTRAVA JÁ INSTALADO entre os descentes de Asquenez, filho de Gomer, quando recebeu a notícia da morte do irmão* — «descentes» é a grafia do livro; o cabeçalho da p. 111 grafa o nome do capítulo em versais espaçadas ('O S M A G O S D O N O R T E' = *Os Magos do Norte*, âncora de RC-439, ainda sem ficha — materialização continua na fila do Motor). A compilação de terceiros (F030) deforma a passagem: grafa 'Joctan, neto de recebe a instrução dada por Heber' — lacuna no nome e **"neto" onde a base canônica mantém Joctan filho de Heber** (definição desta ficha); divergência registrada no ledger D-6, **não propagada**.
 - **Quarentena teológica:** `n.e.` p. 109 ("o Senhor estava começando a se apresentar aos futuros arianos como sendo Brahma") é leitura do autor, não história validada. Heber (RC-436) **não** materializado.
 
 ## Fontes

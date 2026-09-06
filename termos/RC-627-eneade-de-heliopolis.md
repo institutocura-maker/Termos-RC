@@ -20,7 +20,7 @@ A comparação mostra que os oito da Ogdóade não representam contagem exaustiv
 
 ## Ampliação — P2020-07-11
 
-- **[P2020-07-11] A Enéade em contraponto (U0380–U0400):** a Ogdóade de Hermópolis (oito) em contraste com a Enéade de Heliópolis (nove); a palestra usa a Ogdóade como base dos oito entes primordiais [REVISAR — correlação a validar].
+- **[P2020-07-11] A Enéade em contraponto (U0380–U0400):** a Ogdóade de Hermópolis (oito) em contraste com a Enéade de Heliópolis (nove); a palestra usa a Ogdóade como base dos oito entes primordiais [REVISAR — correlação a validar → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota].
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -53,3 +53,7 @@ Ogdóade e Enéade são esquemas distintos e não devem ser fundidos.
 - **Ogdóade × Enéade:** "se havia o Díog em Hermópolis [ogdóade], o de Enéade são nove seres" — segunda geração de seres, "ontologicamente posteriores aos oito inengendrados";
 - Memphis e Tebas: "muito ligadas ao culto da morte... não tem muita importância" (na avaliação do autor);
 - Thot "não pôde fugir a isso porque eram os irmãos dele e os primos que basicamente o obrigaram a construir isso".
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 23 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

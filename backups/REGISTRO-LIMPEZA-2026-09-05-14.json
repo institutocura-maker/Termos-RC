@@ -1,0 +1,72 @@
+{
+  "data": "2026-09-05",
+  "numero": 14,
+  "tipo": "EXECUÇÃO — EXCLUSÃO FÍSICA AUTORIZADA (despacho F031/Q-F031-G, 05/09/2026: 'emito o registro nº 14 acrescentando F031 aos aptos e excluo os 4 brutos')",
+  "contexto": "Família F: cada bruto removido tem cópia versionada byte-idêntica em consolidacoes/*/fonte.txt (SHA-256 conferido imediatamente antes do rm); histórico integral preservado no git",
+  "regra": "um bruto só é REMOVIDO se existir cópia versionada com SHA-256 IDÊNTICO — política uploads_recepcao/README.md; precedentes: nº 13 preparatória (F030/Q-F), comando final dado agora",
+  "arquivos": [
+    {
+      "arquivo": "22-GLOSSÁRIO.txt",
+      "sha256": "8968eab30fe5c68c4dfc434ab4ec5860174355da387464c379b03d05a1ca792a",
+      "bytes": 76695,
+      "nota_ciclo": "F022 — bruto REMOVIDO por comando final do curador (Q-F031-G, despacho de 05/09/2026)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F022_22-glossario/fonte.txt",
+          "sha256": "8968eab30fe5c68c4dfc434ab4ec5860174355da387464c379b03d05a1ca792a",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    },
+    {
+      "arquivo": "29-PERSONAGENS DA REVELAÇÃO CÓSMICA.txt",
+      "sha256": "e8274acc91ee1bbb89222b273389d82c00e4905ce0ffc2e0b125f1bf20db3476",
+      "bytes": 36866,
+      "nota_ciclo": "F029 — bruto REMOVIDO por comando final do curador (Q-F031-G, despacho de 05/09/2026)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/29-PERSONAGENS/fonte.txt",
+          "sha256": "e8274acc91ee1bbb89222b273389d82c00e4905ce0ffc2e0b125f1bf20db3476",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    },
+    {
+      "arquivo": "Colégio Druídico — Estudo Continuad.txt",
+      "sha256": "36b35d463cc41187a78f7c81fd2871278e1d201db4f7c63d84dfe08e4405c6ea",
+      "bytes": 41358,
+      "nota_ciclo": "F030 — bruto REMOVIDO por comando final do curador (Q-F031-G, despacho de 05/09/2026)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F030_colegio-druidico/fonte.txt",
+          "sha256": "36b35d463cc41187a78f7c81fd2871278e1d201db4f7c63d84dfe08e4405c6ea",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    },
+    {
+      "arquivo": "1-EDR-O Livro.txt",
+      "sha256": "d629befd690156685845efd51cec4b5e0eaa024e8470c19a93c05a2b198a2008",
+      "bytes": 93149,
+      "nota_ciclo": "F031 — bruto REMOVIDO por comando final do curador (Q-F031-G, despacho de 05/09/2026)",
+      "copias_versionadas": [
+        {
+          "caminho": "consolidacoes/F031_edr-livro/fonte.txt",
+          "sha256": "d629befd690156685845efd51cec4b5e0eaa024e8470c19a93c05a2b198a2008",
+          "identico_byte_a_byte": true
+        }
+      ],
+      "apto_para_remocao": true,
+      "removido_em": "2026-09-05"
+    }
+  ],
+  "removidos": 4,
+  "aptos_para_ordem_de_remocao": 4,
+  "observacao_LISTA_SIMPLES": "LISTA SIMPLES DE TERMOS CHAVE DA RC.txt PERMANECE na caixa — ainda sem cópia byte a byte versionada; não-apta (estado inalterado desde o registro nº 13)."
+}

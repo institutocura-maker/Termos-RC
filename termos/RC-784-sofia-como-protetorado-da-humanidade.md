@@ -43,5 +43,9 @@ Aparece em **P2019-05-11**, U0005 (Q&A). Contexto: das 900 milhões de civiliza�
 - **Piratas cósmicos** (sem ficha; ver RC-638) — quem é expulso
 
 ## Observações
-- [REVISAR]: a declaração de "protetorado" pode ter paralelos em outras palestras (especialmente P2021-07-24 sobre Sophia); verificar.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a declaração de "protetorado" pode ter paralelos em outras palestras (especialmente P2021-07-24 sobre Sophia); verificar.
 - Quarentena: leitura do autor; sem fusão com doutrina de "protetorado celestial" tradicional (angélico ou mariano).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 46 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

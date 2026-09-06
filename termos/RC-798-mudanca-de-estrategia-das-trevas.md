@@ -46,5 +46,9 @@ Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas e
 - **Jesus** (segundo a responder à nova estratégia)
 
 ## Observações
-- [REVISAR]: a palestra de 2018-02-24 é a única fonte primária da formulação específica "centralizar → espalhar"; pode haver paralelos em outras palestras.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-02-24 é a única fonte primária da formulação específica "centralizar → espalhar"; pode haver paralelos em outras palestras.
 - Quarentena: leitura do autor; sem fusionar com teorias conspiratórias modernas sobre "novas estratégias do mal".
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 49 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

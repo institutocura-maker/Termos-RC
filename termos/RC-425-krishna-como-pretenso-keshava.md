@@ -23,7 +23,7 @@
 ## Etimologia / Grafias
 
 - **Canônico da Base:** *Keshava* (epíteto de Vishnu/Krishna).
-- **Na fonte oral (P2023-10-14):** «**quechava**» — fusão de STT do pronome com o nome («porque era um avatar quechava»); na fonte de 02/12/2023 (RC-414), «quechada». [REVISAR: as duas grafias são do bruto; **não** se unificam nem se corrigem em silêncio.]
+- **Na fonte oral (P2023-10-14):** «**quechava**» — fusão de STT do pronome com o nome («porque era um avatar quechava»); na fonte de 02/12/2023 (RC-414), «quechada». [REVISAR: as duas grafias são do bruto; **não** se unificam nem se corrigem em silêncio. → ENCERRADO 2026-09-06 · F039-L3 (D-a): quechava/quechada = STT de Keshava — ver nota]
 - **Outras formas da mesma linha de leitura:** «Krishno», «Krisno» (variantes de *Krishna* no bloco de U0020). A ficha materializada **não renomeia nada**: o canônico do cadastro é preservado e as formas entram como variantes datadas.
 
 
@@ -64,3 +64,9 @@
 4. **Vínculos de leitura desta fonte** (sem nova aresta): RC-322, RC-024, RC-104, RC-037, RC-422.
 
 **Regra de status:** 🟡 provisório — definição documentada em fonte do acervo, citações não conferidas com áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 26 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+- **D-a · ENCERRADO-PRECEDENTE (Q-F039-D):** âncora verbatim: «ra um avatar quechava»); na fonte de 02/12/2023 (RC-414), «quechada». [REVISAR: as duas grafias são do bruto; **não** se unificam nem se corrigem em silêncio.]». Prova contada: «quechav» 0× em livros/ × «keshava» 31× impresso — artefato de fusão do pronome com o nome. Equivalência lavrada nos termos da D1 (Isar≡Ishtar): grafia de fala registrada, código não renomeado.

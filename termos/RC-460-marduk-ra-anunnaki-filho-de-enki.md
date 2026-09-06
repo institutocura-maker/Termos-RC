@@ -31,7 +31,7 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
 - **[P2023-10-14 · MARDUK, A VEZ DELE E AS CIDADES SIMPÁTICAS]** "Quando chegou a vez de Marduque assumir, 2200 anos antes de Cristo, a chefia ou comando Anuna aqui na terra, Ninurta, filho de Eli, disse: «Não, os dois foram pro pau.»" (U0018); "Tem lá o vale do Sidim, um pouco mais abaixo, onde existia cidade de Sodoma e Gomorra e essas cidades eram simpáticas a Marduk." (U0018)
-- **[P2023-10-14 · O REI QUE NÃO CHEGOU A REINAR: NERGAL E NINURTA]** "eergal e no lurtte." (U0018); "Isso tá descrito nos livros animais." (U0018) — [TEXTO CORROMPIDO: «eergal e no lurtte» ≈ Nergal e Ninurta; «livros animais» ≈ livros annunaki — [REVISAR], não decodificar.]
+- **[P2023-10-14 · O REI QUE NÃO CHEGOU A REINAR: NERGAL E NINURTA]** "eergal e no lurtte." (U0018); "Isso tá descrito nos livros animais." (U0018) — [TEXTO CORROMPIDO: «eergal e no lurtte» ≈ Nergal e Ninurta; «livros animais» ≈ livros annunaki — [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota], não decodificar.]
 
 ## Fontes
 
@@ -63,3 +63,7 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 - **Influência de Len Mion (RC-074):** seção 6.2 — "a atuação de Len Mion e sua influência em Marduk";
 - **A "confusão de Marduk":** "todas as religiões... falam no retorno dos deuses... essa história toda é continuação da confusão que Marduk fez há 4.000 anos";
 - **Guerras atômicas (contexto):** a disputa dos clãs (Enki/Enlil) e a busca de supremacia contra Marduk — "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk" — **quarentena histórica** (contexto, não ontologia).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 34 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

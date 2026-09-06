@@ -71,3 +71,7 @@ Ficha baseada no B051 (obra complementar revisada). O nome completo confirma a c
 - **Unidades:** U0237–U0243.
 - **Contexto acrescentado:** Shiva/Savna aparece como clone rebelde na cadeia de desdobramentos Adhy; o trecho exige futura conferência com áudio/obra.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Adhyatman (família Adhy-)»: «Ser Adhyatman» como título de Savna antes da constituição como Shiva — o GKA usa o prefixo Adhy- exatamente como o registro RC o canonizou.
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

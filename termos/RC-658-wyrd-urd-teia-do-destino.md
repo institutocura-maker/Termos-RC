@@ -75,20 +75,20 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 ## Ampliação — P2023-05-20 (As Batalhas do Final dos Tempos)
 
 - **[P2023-05-20 · A TEIA QUE REGISTRA E MOVE TUDO]** "essa coisa que vem rolando há muito tempo — **A TEIA QUÂNTICA CHAMADA WYRD, QUE FOI CRIADA LÁ ATRÁS, QUE É O QUE REGISTRA TUDO E É O QUE MOVE TUDO NO ÂMBITO DESSA CRIAÇÃO**" + "**NÓS SOMOS TAMBÉM MENTE LABORATÓRIO PARA ELES: cada um de nós é um laboratório, um processador onde essas notícias entram... sai uma opinião, um registro — E ELES PEGAM**" + "UMA MATRIX DIVIDIDA EM TRÊS PARTES, em que duas estão colapsando [o universo vizinho e o meio]... tem que SAIR TODO MUNDO... o sair é o espírito SE LIVRAR DO CÓDIGO DELE que tá sendo utilizado e reutilizado várias vezes ali dentro por vários corpos... **ESSA É A NOÇÃO DO FAVOR DIVINO que cada espírito faz**" + MAIA ("a síndrome de [Dunning-Kruger], MAS SENSORIAL").
-- **[P2023-05-20 · IRÉM × IRON — A CONSOLIDAÇÃO]** "**A GUERRA INTERDIMENSIONAL ENTRE AS FORÇAS DE IRÉM, QUE É O UNIVERSO DE LÁ, E AS FORÇAS DE IRON, QUE É O UNIVERSO DE CÁ. ESSE É O RESUMO DA HISTÓRIA. E A TURMA DE IRÉM TÁ QUERENDO VIR PARA CÁ. EU TÔ USANDO IRÉM/IRON PORQUE É A EXPRESSÃO MAIS ANTIGA QUE EU CONHEÇO, ARCA DRUÍDICA — isso aí ninguém conhece, MAS É ASSIM QUE A GENTE TÁ USANDO NO LIVRO, NA SAGA QUE A GENTE LANÇOU SOBRE UNIVERSOS EM COLISÃO** [B085 — a confirmação do uso druídico na saga]" — **[RESOLVE o [REVISAR] "Iron/Irém" da P2023-05-21: os nomes druídicos arcaicos dos dois universos]** + a batalha em torno do Sol ⚠️ [quarentena ufológica]: "um dia desses HOUVE UMA BATALHA ENVOLVENDO CENTENAS DE MILHARES DE NAVES. E a Terra sabe, os governos sabem, PORQUE FOI TUDO FILMADO... entre quem? AS FORÇAS DE IRÉM E AS FORÇAS DE IRON" + o que a mente humana não percebe ("o que tá oculto por trás de um Putin, de um Biden, a gente não percebe... são realidades simultâneas").
+- **[P2023-05-20 · IRÉM × IRON — A CONSOLIDAÇÃO]** "**A GUERRA INTERDIMENSIONAL ENTRE AS FORÇAS DE IRÉM, QUE É O UNIVERSO DE LÁ, E AS FORÇAS DE IRON, QUE É O UNIVERSO DE CÁ. ESSE É O RESUMO DA HISTÓRIA. E A TURMA DE IRÉM TÁ QUERENDO VIR PARA CÁ. EU TÔ USANDO IRÉM/IRON PORQUE É A EXPRESSÃO MAIS ANTIGA QUE EU CONHEÇO, ARCA DRUÍDICA — isso aí ninguém conhece, MAS É ASSIM QUE A GENTE TÁ USANDO NO LIVRO, NA SAGA QUE A GENTE LANÇOU SOBRE UNIVERSOS EM COLISÃO** [B085 — a confirmação do uso druídico na saga]" — **[RESOLVE o [REVISAR → ENCERRADO 2026-09-06 · F040-L4: IRÉM ≡ IRON por autodeclaração da fala — ver nota] "Iron/Irém" da P2023-05-21: os nomes druídicos arcaicos dos dois universos]** + a batalha em torno do Sol ⚠️ [quarentena ufológica]: "um dia desses HOUVE UMA BATALHA ENVOLVENDO CENTENAS DE MILHARES DE NAVES. E a Terra sabe, os governos sabem, PORQUE FOI TUDO FILMADO... entre quem? AS FORÇAS DE IRÉM E AS FORÇAS DE IRON" + o que a mente humana não percebe ("o que tá oculto por trás de um Putin, de um Biden, a gente não percebe... são realidades simultâneas").
 - 0 códigos novos (O-3).
 
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes.]
+- **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes → ENCERRADO 2026-09-05 · F038-L2: ver nota (equivalências já lavradas na anotação da linha).]
 - **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
 ---
 
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Contexto Orlog/nornas (P2023-05-13) e Sete Leis (P2023-12-02):** a teia do destino (Wyrd/Urd) ecoa nas **leis de ritmo e causa e efeito** das Sete Leis Herméticas (RC-763) — "o que você pensa, você cria; o que você sente, você atrai" (nova aresta RC-763 ↔ RC-658);
-- **"Hen-Orl" [REVISAR]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas);
+- **"Hen-Orl" [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas);
 - Não há alteração da grafia canônica (Wyrd/Urd; RC-560 permanece remissão histórica).
 
 ---
@@ -147,3 +147,22 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
+
+## Nota — teia ~9 bi — F034 aplicação (05/09/2026)
+
+- teia ~9 bi (P2025-08-03, apostila ll. 826/882) — averbação sem blindagem, por despacho Q-F034-B; retifica o veto D-5 do ciclo F032 (a cifra tem âncora de curadoria, na camada-apostila do dossiê; o original.txt do dossiê não a contém, e a frase de B016 continua referente à entropia pós-início).
+- **[P2025-08-03 · apostila, l.826 — verbete Moros]** «Criou a "teia quântica" (Wyrd) há cerca de 9 bilhões de anos, uma fonte de registros factuais que controla um fluxo de informações ao qual até os deuses estavam submetidos.»
+- **[P2025-08-03 · apostila, l.882 — verbete Wyrd]** «Wyrd: "Teia quântica" ou "fonte de registros factuais" engendrada por Moros há cerca de 9 bilhões de anos.»
+- **[P2023-08-05 · DOSSIE-PRE-CURADORIA, l.21 — antecedente]** «RC-658 [F] (opcional): "Moros/Orlog engendrou a Wyrd há 9 bilhões — a teia quântica que associa grau de podridão codificado com necessidade/capacidade de resiliência".» — a cifra já fora proposta à curadoria em 2023.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **«Word» = Wyrd; «normes» = Nornes (l. 84): ENCERRADA.** A equivalência que a flag pedia já está lavrada na própria anotação da ficha (linha U0033) — a flag esvaziou-se por anotação prévia; nada mais a pendenciar.
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-A · ENCERRADO-RATIFICADO:** a própria fala resolve a grafia — «EU TÔ USANDO IRÉM/IRON PORQUE É A EXPRESSÃO MAIS ANTIGA QUE EU CONHEÇO, ARCA DRUÍDICA» (P2023-05-20). Equivalência IRÉM ≡ IRON lavrada por anotação, no mesmo modelo Wyrd/Nornes chancelado no Lote 2 para esta ficha.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 91 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
