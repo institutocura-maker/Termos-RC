@@ -1,6 +1,6 @@
 # PARECER — GLOSSÁRIO KRYS AMON (análise de utilidade para a KB)
 
-**Material:** `uploads_recepcao/GLOSSÁRIO KRYS AMON.txt` — 14.752 bytes · 102 linhas · 47 verbetes · cabeçalho de exportação WhatsApp «Krysamon NEAD, [04/01/2024 16:53]».
+**Material:** `uploads_recepcao/GLOSSÁRIO KRYS AMON.txt` — 14.752 bytes · 102 linhas · 35 linhas de verbete (≈31 vocábulos distintos; 2 duplicações internas) · cabeçalho de exportação WhatsApp «Krysamon NEAD, [04/01/2024 16:53]».
 **Proveniência (palavra do curador, 06/09/2026):** «glossário elaborado pelo Kris Amon, parceiro do Ellam, muito próximo dele; penso ser material de grande confiabilidade.» — o atestado de proveniência fica lavrado aqui como dado do ecossistema (no mesmo espírito em que a querência da fonte foi respeitada em Senequeribe/abaiano).
 **Estado da base:** intocado. Nada nesta análise selou, renomeou ou abriu código — parecer puro, pré-ciclo.
 
@@ -8,7 +8,7 @@
 
 ## 1. O que o material É, medido
 
-Cruzei os 47 verbetes com as 623 fichas (`termos/`) — três anéis de valor:
+Cruzei os 35 linhas de verbete (≈31 vocábulos distintos; 2 duplicações internas) com as 623 fichas (`termos/`) — três anéis de valor:
 
 **Anel A — verbetes com código próprio na KB (corroboração direta: 10):**
 Conectoma (**RC-557**), DNA (RC-217/RC-698…), Algoritmo (RC-606), Entropia (**RC-160**), Moksha (**RC-618**), Psiquismo (RC-217/RC-548), Savna (**RC-102**), Tamas/gunas (**RC-151**), Fios soltos (**RC-564**), Tikun (**RC-514**). Para todos, o GKA acrescenta *definição de dicionário* ao que hoje são ocorrências de fala/livro — matéria-prima pronta de verbete.
