@@ -459,9 +459,18 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **[Sofia criado há 6 bilhões de anos — cérebro radiata]:** «Foi assim que surgiu a figura de Rockma ou Sofia. Há cerca de 6 bilhões de anos atrás, esse ser foi criado para existir nesse universo material [...] O tipo de cérebro que Sofia tem quando ele foi criado há 6 bilhões de anos atrás é radiata, ou seja, só tem um eixo. O tipo de cérebro que nós humanos temos hoje é bilatério, tem duas câmaras, é muito mais rico, tem um lado emocional e racional. Sofia é só o racional sem ser racional. É só o intelectual matemático.» — ver RC-072 (Jesus).
 
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«Javé, Sofia e Jesus representam a trindade que a turma nunca percebeu»**
+- **«é muito melhor para Javé que seja Sofia conduzir esse processo»**
+- **«Sofia vai herdar tudo»**
+- **Sophia (RC-009)** é o terceiro vértice da "trindade jamais percebida" (Javé · Sofia · Jesus), a face viva do espírito alfa que herdará o universo vizinho e conduzirá a "vinda". O título ironiza a Santíssima Trindade católica — a que "não existe" — em favor da trindade cósmica de Ellam.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Nota — reforço cronológico do MUTIRÃO · Lote 1 (05/09/2026 · despacho Q-F037-C)

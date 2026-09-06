@@ -107,9 +107,16 @@ Na resposta final, Shiva é apresentado como expressão de um espírito, enquant
 - **[As três faces da consciência fatiada — Sofia, Javé e Jesus]:** «Quais são hoje as três faces dessa consciência aqui que lutam entre si ou que não conseguem? Se nós chamamos os nomes de Sofia, Javé e Jesus [...] o que Jesus quis fazer, Sofia não conseguiu cumprir, e Javé sempre atrapalhou. O pouco que Sofia quis fazer do que Jesus prometeu, Javé não deixou. Por quê? Porque Javé não se sente em um ser vinculado a essa alma. Javé briga com Brama e Vishnu, com Shiva e Vishnu e esquecido que Vishnu é um ser fatiado do mesmo espírito que ele também foi.» — «Sofia ou Rockma, Javé e Jesus, ou seja, três eus que se sentem particularizados. Esses três eus estão vinculados ao mesmo espírito e esse espírito não consegue movimentar os três eus.» — ver RC-009 (Sophia), RC-001 (Javé), RC-072 (Jesus).
 
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«Fateamento de consciência»**
+- Fia o conceito de **Fateamento de Consciência** à queda da Trimurti e ao drama de Javé/Sofia/Jesus — três seres fateados de um só espírito alfa.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)

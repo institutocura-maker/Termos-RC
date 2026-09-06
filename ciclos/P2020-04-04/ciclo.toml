@@ -1,0 +1,67 @@
+# ciclo.toml - ciclo de palestra P2020-04-04 - "Jave, Sophia e Jesus: a Trindade Jamais Percebida"
+# ---
+# Executado na sequencia do F044 (mesma constelacao Jave - Sophia - Jesus).
+# Regras vigentes: nada alem do assinado por lote; relacoes/ BLINDADO (0 arestas).
+
+sigla = "P2020-04-04"
+titulo = "Jave, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A)"
+data_fonte = "04/04/2020"
+pasta_fonte = "ciclos/P2020-04-04"
+arquivo_fonte = "original.txt"
+sha256_fonte = "32e654135ada74f20dc3ab9fc19f7d35f55346616b480c861383e262970d0702"
+
+baseline_commit = ""     # ciclo novo; o portao D mede DELTA a partir da HEAD no momento da aplicacao
+portoes_ativos = ["A", "B", "C", "D"]
+max_perolas = 25
+exportar_candidatas = false
+
+cobertura = "GARIMPO - palestra Q&A (fala de Ellam, transcricao do .docx, 20.850 palavras / 116.122 chars / 11 paragrafos). Tese: Jave, Sofia e Jesus sao a 'trindade jamais percebida' - tres figuras fateadas de um so espirito alfa da criacao (Jave o eu desalmado e apartado; Sofia a face viva que herdara o universo; Jesus o eu que nao assumiu o Messias violento). Recolhe fonte (Anel A) para 25 codigos e ampliacao verbatim (Anel B) para 7 fichas: RC-001 (Jave desalmado; duas faces com Jesus), RC-009 (Sofia terceiro vertice; vinda/herdeiro), RC-072 (Messias violento nao assumido), RC-003 (reintegracao refem da vinda), RC-049 (demos nos campos morficos), RC-692 (revolta dos eletrons = autoprotecao de Jave), RC-604 (fateamento de consciencia). NENHUM termo novo; relacoes/ blindado (0 arestas)."
+teto = "suspenso-com-cadencia"
+termos_novos = []
+veto_lexico = []
+fichas_que_nomeiam_grupo = []
+
+[delta_esperado]
+arquivos = 0
+ficha_true = 0
+termos = 0
+relacoes = 0
+vinculos = 25       # 25 codigos com a fonte P2020-04-04 registrada; 7 com ampliacao verbatim
+
+[materializar]
+codigos = []
+
+[vitorias]
+provas = [
+  "RC-001 = Jave e Jesus sao duas faces da mesma moeda (mesmo espirito, Jave apartado/desalmado) | prova: Jave e Jesus sao duas faces de uma mesma moeda",
+  "RC-009 = Sofia e o terceiro vertice da trindade; herdara o universo e conduzira a vinda | prova: Jave, Sofia e Jesus representam a trindade que a turma nunca percebeu",
+  "RC-072 = Jesus nao assumiu o Messias violento | prova: a destinacao terrivel de ser aquele Messias violento",
+  "RC-003 = a reintegracao cosmica e refem da vinda de Sofia | prova: A reintegracao cosmica meio que e refem da vinda de Sofia",
+  "RC-692 = a revolta dos eletrons e autoprotecao de Jave | prova: a revolta dos eletrons e uma autoprotecao de Javer",
+]
+
+[ampliar]
+codigos = ["RC-001","RC-009","RC-072","RC-003","RC-049","RC-692","RC-604"]
+
+[tese]
+pontos = [
+  "A 'trindade jamais percebida' de Ellam: Jave (RC-001) - Sofia (RC-009) - Jesus (RC-072) sao tres figuras fateadas de um so espirito alfa da criacao. Jave e o eu desalmado e apartado; Sofia a face viva que herdara o universo vizinho; Jesus a face humana que nao assumiu o Messias violento.",
+  "O mecanismo interno e o fateamento de consciencia (RC-604): da queda de Bragma (Jave) e dos mergulhos de Savna (Shiva, RC-102) e Mavatma (Vishnu, RC-135) nasce o drama da Trimurti em dissolucao.",
+  "A 'revolta dos eletrons' (RC-692) e uma autoprotecao de Jave: os eletrons recusam as marcacoes viciadas para permitir a reconstrucao de uma mente universal emergente que hospedara o eu perdido de Jave.",
+  "A Reintegracao Cosmica (RC-003) e 'refem da vinda de Sofia': o intercambio clasico so comeca oficialmente apos a vinda; o extraterrestre limitado ja ocorre.",
+  "Nao ha terminologia nova proposta: a palestra corrobora e expande o cluster ja existente, inclusive o previamente consolidado no F044 (Messias, RC-942 - a destinacao terrivel de ser aquele Messias violento).",
+]
+
+[definicoes]
+
+[observacoes]
+RC-001 = "**Tese central do titulo:** Jave e um 'ser desalmado' (eu apartado do proprio espirito), e 'Jave e Jesus sao duas faces de uma mesma moeda' sustentadas pelo mesmo espirito alfa. O espirito usa Sofia e Jesus para 'juntar tres em um' e recompor o eu desalmado de Jave."
+RC-009 = "**A trindade:** 'Jave, Sofia e Jesus representam a trindade que a turma nunca percebeu'. Ironicamente, a Santissima Trindade catolica 'nao existe' - a trindade verdadeira e esta, cosmica. Sofia herdara o universo ('Sofia vai herdar tudo') e conduzira a vinda."
+RC-072 = "**Continuidade com o F044:** o mesmo nucleo do curso - Jesus 'a destinacao terrivel de ser aquele Messias violento', que 'nunca quis assumir aquilo' e nao cumpriu as profecias das escrituras judaicas. Corrobora o RC-942 Messias (consolidado no Anel C do F044)."
+RC-003 = "**Qualificacao:** 'A reintegracao cosmica meio que e refem da vinda de Sofia' - a fase clasica so comeca apos a vinda; a extraterrestre limitada ja ocorre, mediada pela familia Aia."
+
+[travas]
+RC-009 = "quarentena ufologica/biomediunica: a vinda de Sofia e as naves ('as naves todas ja darao', os governos que sabem) - restam no contexto de palestra; o conteudo curado entra sem detalhe tecnologico especulativo."
+
+[lacunas]
+# Nenhuma terminologia nova proposta. A palestra e corroboracao/expansao do cluster existente.

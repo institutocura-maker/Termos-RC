@@ -463,9 +463,18 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 - **[Autofagia de Brama/Javé]:** «Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.» — ver RC-667 (Autofagia do Criador).
 
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«Javé e Jesus são duas faces de uma mesma moeda»**
+- **«que Javé e Jesus são dois seres sustentados pelo mesmo espírito, só que um deles está apartado»**
+- **«Ele é um ser desalmado»**
+- A palestra trava a tese do título no eixo Javé: **Javé é um ser desalmado** (eu apartado do próprio espírito) e **Javé e Jesus são duas faces da mesma moeda** — o mesmo espírito alfa da criação, só que Javé está apartado. Jesus teria sido a via de recompor esse eu desalmado ("o espírito dele que está tentando juntar três em um só").
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
 | P2024-03-17 | A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

@@ -46,3 +46,12 @@
 - **Dossiê atualizado**: `ciclo.toml` (fase APLICACAO_ANEIS_A_B_C, base final 946/638/1898/102, seção anel_c + consolidacao), `mapeamento.md` (§3 Anel C APLICADO, merge executado, §5 duplicidade RESOLVIDA, base), `devolutiva.md` (seção ⚡ Anel C). `STATE-MIRROR.md` e `SESSION-NOTES.md` atualizados.
 - **Backup**: `/tmp/bkp_F044/dados_termos.py.bak2` (pré-Anel C). **F044 CONSOLIDADO (A/B/C)**.
 - ANEL D permanece guardado (genealogias, Gólgota, Bodas de Canaã, Zoroastro, Cabala, druida, geografias — sem código, dado narrativo).
+
+## Sessão Agente 21 — P2020-04-04 RECEPCIONADO (palestra na sequência do F044) (06/09/2026)
+- Despacho do Curador: tratar como palestra (padrão de ciclo), na sequência do curso F044, tema afim (Javé · Sophia · Jesus). Container `ciclos/P2020-04-04/`; alcance recepção + censo + aplicação de anéis; data `P2020-04-04` confirmada.
+- **Recepção:** `.docx` original byte a byte (`brutos/original.docx`, SHA `0ddb19ee…`) + `original.txt` (SHA `32e65413…`, 20.850 palavras / 116.122 chars / 11 parágrafos — palestra Q&A: monólogo + perguntas do Paulo Tavares, Melissa, Carlos H, Marcelo L, Ed Vacari, Gustavo Lima). `ciclo.toml` ASCII puro validado com `tomllib.load`; `RELATORIO-CICLO.md`.
+- **Censo (aliás-aware):** Javé (RC-001) 222× · Jesus (RC-072) 123× · Sofia (RC-009) 111× · Demos (RC-049) 56× · Elétrons (RC-692) 30× · Shiva (RC-102) 22× · Reintegração (RC-003) 16× · Fateamento (RC-604) 10× · Messias (RC-942) 9×, etc.
+- **Aplicação (via `inscreve_fonte` idempotente + `## Ampliação`):** Anel A fonte `P2020-04-04` em **25 códigos**; Anel B **7 ampliações verbatim byte-exato** (RC-001, RC-009, RC-072, RC-003, RC-049, RC-692, RC-604). **0 códigos novos · 0 arestas novas** — `relacoes/` blindado (RELACOES 1898).
+- **Tese central:** a "trindade jamais percebida" = **Javé** (ser desalmado/apartado) · **Sofia** (face viva que herdará o universo) · **Jesus** (não assumiu o Messias violento); todos fateados de um só espírito alfa. Fortalece o cluster F044 (RC-001/009/072) e o **RC-942 Messias** consolidado no Anel C.
+- **Verificação:** validador **OK: 946 termos, 1898 relações** ✅ · fonte no registro 25× ✅ · espelhos regenerados (indice 946 · xlsx 7 abas · docx 946/638/1898/102) ✅ · ciclo.toml ASCII puro ✅.
+- **Backup:** `/tmp/bkp_F044/dados_termos.py.bak2` ainda válido (pré-F044 Anel C); palestra não altera contagem (946/638). **F045 NÃO aberto** — permanece palestra autônoma P2020-04-04, na sequência temática do F044.

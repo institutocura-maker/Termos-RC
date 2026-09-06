@@ -421,9 +421,17 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - Aula 02 descreve a **hesitação** de Jesus e a pressão familiar/disciplular (João Batista) que o arrasta ao batismo — reforça a recusa da agenda messiânica já registrada na ficha.
 
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«a destinação terrível de ser aquele Messias violento»**
+- **«Ele nunca quis assumir aquilo»**
+- Reafirma o núcleo do F044: Jesus **não assumiu** a "destinação terrível de ser aquele Messias violento" e não cumpriu as profecias das escrituras judaicas. A palestra expande o mecanismo interno (o eu que recusa o script) já ancorado na ficha.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
 | P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |

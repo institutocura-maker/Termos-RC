@@ -40,9 +40,16 @@ A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita edito
 - **[O acréscimo que só a condição humana dá] (U0033)** «Ao muito pelo contrário, ele acrescentou uma série de coisas que só a condição humana, a experiência humana pode dar a um uma consciência.» — Jesus ressuscitou o corpo para devolver a Sofia o kit de elétrons recebido sob a forma de genoma: devolveu-o intacto, "sem nenhuma sujeira", e acrescentado de tudo o que só a experiência humana pode dar a uma consciência.
 
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«a revolta dos elétrons é uma autoproteção de Javer»**
+- Amplia a mecânica dos **elétrons**: a "revolta dos elétrons" (rejeição das marcações viciadas) é uma **autoproteção de Javé** para permitir a reconstrução de uma mente universal emergente.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-03-15 | U0704–U0723 | palestra/STT — fonte incompleta |
 

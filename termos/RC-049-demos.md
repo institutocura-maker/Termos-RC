@@ -73,9 +73,16 @@ Os Demos habitam o universo antimaterial (Brahmaloka) e são a matéria-prima da
 
 - **[Demos: dementes, do DNA de Javé] (U0080)** «Os seres demos, que habitam o universo antimaterial, são intrinsecamente "dementes" (do grego daemon = "demente") e foram criados a partir do DNA de Javé.» — os demos (RC-049) são intrinsecamente 'dementes' (do grego daemon = 'demente') e foram criados a partir do DNA de Javé, herdando a doença do Criador.
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«disputa dos seres demo pelos campos mórficos»**
+- Situa os **Demos** na tese: a "história do universo" é a disputa dos seres demo pelos campos mórficos das espécies; os demos são especialistas em criar campos mórficos e novas classes de vírus.
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | citação |
 | P2025-06-14 | PALESTRA SOBRE A QUEDA DO CRIADOR-Refatorada (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | P2022-03-26 | A Rebelião de Lúcifer e a Depressão Mental dos Seres (palestra) | — | transcrição automatizada; citação |

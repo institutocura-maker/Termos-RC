@@ -141,9 +141,16 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 - **[Reintegração Cósmica — rumo a uma nova convivência]:** «O fechamento dos portais e o fim da era da Trimúrti [...] A Reintegração Cósmica: rumo a uma nova convivência.» — ver RC-092 (Quarto Logos), RC-070 (Isolamento Cósmico).
 
 
+## Ampliação — P2020-04-04 (Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A))
+
+- **«A reintegração cósmica meio que é refém da vinda de Sofia»**
+- Qualifica a **Reintegração Cósmica** como "meio refém da vinda de Sofia" — a fase clássica (intercâmbio cósmico) só começa oficialmente após a vinda; a extraterrestre já ocorre de forma limitada.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2020-04-04 | Javé, Sophia e Jesus: a Trindade Jamais Percebida (palestra Q&A) (palestra) | — | transcrição; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
