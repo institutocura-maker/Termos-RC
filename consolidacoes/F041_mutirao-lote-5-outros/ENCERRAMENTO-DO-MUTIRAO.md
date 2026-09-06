@@ -27,4 +27,40 @@
 5. **Censo vivo antes de edital**: todo lote revalida o censo do anterior (as 26 linhas mortas do L5 e as 25 do L3 teriam gerado dívidas fantasmas).
 6. **O registro do processo do autor não é erro** (Q-F040-A): divergência com a academia fica lavrada como leitura, sem harmonização artificial; o cadastro tem primazia.
 
+## Acerto de contas do resíduo (régua bruta 27 — inventário de fechamento)
+
+A régua bruta token-a-token fecha em **27**, não 25: além das duas fronteiras de backtick (RC-080/RC-536, cravadas), o inventário final revelou que o censo de F037 tinha furos — ~14 tokens espalhados nunca foram reivindicados por linha de lote algum e sobreviveram a todos os expurgos por esse motivo (não por decisão). O acerto fica lavrado aqui, ficha a ficha, como último ato contábil do mutirão — **sem carimbo**, porque «nada além do assinado por lote» e o Mutirão está extinto:
+
+| Ficha | l. | Contexto do token |
+|---|---|---|
+| RC-002-rebeliao-de-lucifer | 86 | `lestras anteriores; o contexto exato em [REVISAR]]; **A DESCONFIANÇA` |
+| RC-007-exilados-de-capela | 47 | `MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR]) → 900Q]** "22.000` |
+| RC-007-exilados-de-capela | 47 | `me «Gron» é hipotético (Gron/Cronos?) — [REVISAR] obrigatório. · ⭐ *` |
+| RC-009-sophia-cristo-cosmico | 45 | `o por anjos clones da família Aia e Aie [REVISAR — STT]"; "a Terra e` |
+| RC-009-sophia-cristo-cosmico | 45 | `ulos na bolsa de valores lá da Vaikunta [REVISAR — fora da base]".` |
+| RC-009-sophia-cristo-cosmico | 78 | `o como o autor do livro do 'Apocalipse' [REVISAR — leitura], orquest` |
+| RC-009-sophia-cristo-cosmico | 78 | `; "Sophia visitou Alt' Lam Gron em 2018 [REVISAR — conferir B050]; L` |
+| RC-009-sophia-cristo-cosmico | 228 | `a em tese é o coordenador do Aáô [STT — [REVISAR]], mas também do Oi` |
+| RC-018-alt-lam-gron | 99 | `* **[REVISAR] — evento datado.**` |
+| RC-036-biodemos | 33 | ` foi criando outros seres em Aáô [STT — [REVISAR]], quando o senhor ` |
+| RC-036-biodemos | 33 | `. como A TURMA DE 'ALTA LANGRON' [STT — [REVISAR]] É O PROTÓTIPO MAI` |
+| RC-036-biodemos | 54 | `- **[P2021-05-15 · ✅ RESOLUÇÃO DO [REVISAR] DA FICHA (Devoluti` |
+| RC-074-len-mion-sata | 66 | `MUITOS COM ELE AINDA NÃO FORAM EXILADOS [REVISAR: Len Mion]]** "Lemi` |
+| RC-091-projeto-talm | 84 | ` [a grafia desta fonte — NORMALIZANDO o [REVISAR] 'Aaion/Aá Maayon/a` |
+| RC-102-shiva-savna | 30 | `rreu há cerca de 12,17 bilhões de anos" [REVISAR — conferir B050 → *` |
+| RC-142-yel-luzbel | 29 | `-04-25 · A VARIANTE A REBELIÃO DE LÚCIA [REVISAR: STT feminizou o no` |
+| RC-395-ragnarok-em-marte | 62 | ` "quando alguém soltava um TRACH [STT — [REVISAR]]... numa loca era ` |
+| RC-414-krishna-avatar-de-vishnu-shiva | 28 | `abu"):** revitalizou o culto a Krishna ([REVISAR] "século X" — crono` |
+| RC-454-elm-moros---ser-lm-de-temperion | 65 | ` escondeu as setas, ninguém sabia onde" [REVISAR — "setas de Moros" ` |
+| RC-486-enki-anunnaki-inoculou-o-gene-foxp2 | 64 | `ção humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolut` |
+| RC-543-espelho-da-heranca-espiritual-no-epigenoma | 30 | `ocê... vem da 'MENTE-NET' HUMANA [STT — [REVISAR]]... passa pelo CAM` |
+| RC-565-hochmah-2a-sefirah-sabedoria-sophia | 81 | ` filme [STT: 'Salvo Engano Até o Fim' — [REVISAR]] sobre Lindon John` |
+| RC-611-flechas-profecias-de-moros | 28 | `QUILO CHAMOU A ATENÇÃO DE 'HEIN' [STT — [REVISAR]] E OUTRAS FIGURAS ` |
+| RC-636-duas-pulsacoes-da-criacao-eletrons-e-antieletrons | 47 | `século passado, Charon ou Charon" (STT, [REVISAR]).` |
+| RC-777-ananque-estudou-as-necessidades-dos-codigos-podres | 11 | `** (a Devolutiva O-4 da P2021-07-24 — o [REVISAR] "Anã" resolvido pe` |
+| RC-777-ananque-estudou-as-necessidades-dos-codigos-podres | 19 | `- Grafia antiga superada: "Anã" (o [REVISAR] da criação da fich` |
+| RC-777-ananque-estudou-as-necessidades-dos-codigos-podres | 68 | `- ~~[REVISAR — grafia/fonética]:` |
+
+Duas notas de guarda: (i) a linha da RC-091 incluída no inventário **não é necessariamente a l. 65** (ABERTA, intocável por ordem permanente) — qualquer F042 de fecho há de reler byte a byte; (ii) a liquidação desses 27 seria um carimbo só (AGUARDA-ÁUDIO/resíduo, sem decisões de vontade) — **um despacho mínimo do curador**, se quiser o zero absoluto na régua bruta; ou ficam como «resíduo documentado» sob esta certidão. O mutirão não avança sozinho.
+
 A Arca do Conhecimento está purificada. Vigília com a Trilha Leve retomada.
