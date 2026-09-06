@@ -21,7 +21,7 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 ## Ampliação — P2025-03-15
 
 - **"Cansaço da matéria" (P2025-03-15):** "os elétrons estão vivendo uma crise e estão desfazendo, colapsando o que até agora foi construído"; "começou há milhões de anos, mas hoje, ano 2025"; "não aguentam mais memorizar porcaria"; "é a revolução dos elétrons" (nem de direita, nem de esquerda).
-- **"Acabou em fevereiro desse ano [2025]"** [REVISAR — Colecionar Incertezas]: "essa confusão [WD × Trimurti] acabou em fevereiro desse ano, mas os efeitos ainda vão demorar".
+- **"Acabou em fevereiro desse ano [2025]"** [REVISAR — Colecionar Incertezas → CHANCELA 2026-09-06 · F040-L4: DADO-NARRATIVO (data referida [2025]; nenhum código criado) — ver nota]: "essa confusão [WD × Trimurti] acabou em fevereiro desse ano, mas os efeitos ainda vão demorar".
 - **Redução da reprodução (quarentena clínica estrita):** "os elétrons estão criando mecanismos no psiquismo" — homoafetividade e fluidez de gênero como mecanismos para reduzir a reprodução = **leitura do autor; jamais fato sociológico/biomédico**.
 - **B063:** o autor cita o livro "Reflexões Quase Filosóficas — Schopenhauer e o Sofrimento do Mundo" (a dor da presa é sempre superior ao prazer do predador — os elétrons registram o sofrimento e "encheram o saco").
 
@@ -122,3 +122,6 @@ A rebelião é aprofundada como **saturação memorial e desobediência dos elé
 A hipótese sobre reprodução, orientação sexual e identidade de gênero permanece isolada como divergência não consensual; não altera silenciosamente RC-434.
 
 **Fonte:** P2025-03-15, U0116–U0120, U0311–U0384, U0723–U0789 e U1148–U1155 — fonte incompleta.
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-C · CHANCELA DADO-NARRATIVO:** «acabou em fevereiro desse ano [2025]» — a âncora [2025] da própria linha é o registro; nenhum código de data novo é criado, a cronologia oficial não é tocada.

@@ -1,5 +1,9 @@
 # F040 · Devolutiva — Lote 4 (Tensão Intra-Corpus)
 
+## §0 · Despacho do curador (06/09/2026) — APLICAÇÃO EXECUTADA
+
+Q-A…E todas aprovadas. 7 selos em 7 fichas + nota de lavratura do Braba na RC-593 (corrigindo o censo: Braba nunca teve token vivo próprio). Saldo oficial 106. Verbatim em `DECISAO-DO-CURADOR.md`.
+
 Curador, o lote pequeno é o dos casos que *só tu* fechas — mas o próprio corpus já fez metade do trabalho: dos 9 casos censados, 8 são seláveis e **nenhum deles pede invenção**, só ratificação do que as fichas irmãs já lavraram (detalhes com prova lida em `mapeamento.md`). Uma flag do censo (RC-035 l. 12) morreu na guarda de meta — o caso dela vive e morre pela linha-irmã l. 28.
 
 **Q-F040-A — Ratificação em bloco (4 flags, 3 fichas):** RC-035 l. 28 (bilatérios: «divergência registrada, não costurada» é a política da ficha; ratifico e encerro, cadastro intocado); RC-658 l. 78 (IRÉM ≡ IRON decidido pela própria fala — «EXPRESSÃO MAIS ANTIGA… ARCA DRUÍDICA»; é o modelo Wyrd/Nornes que chancelaste no L2, na mesma ficha); RC-782 l. 46 e RC-787 l. 47 (leitura do autor × academia: Hesíodo e a egrégora teosófica ficam como literatura, a interpretação do corpus fica registrada). Proponho **ENCERRADO-RATIFICADO** nos quatro, com a referência cruzada lavrada na nota.

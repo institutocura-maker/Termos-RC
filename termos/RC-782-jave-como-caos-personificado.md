@@ -43,6 +43,9 @@ Aparece em **P2019-05-11**, U0003, no contexto do **ovo cósmico de Brahman** qu
 - **Hesíodo** (poeta grego, séc. VIII-VII a.C.) — quem cunhou o termo
 
 ## Observações
-- [REVISAR]: a leitura do autor diverge da academia. Em **Hesíodo original**, "Χάος" (Caos) é o **primeiro princípio** a surgir (antes de Gaia, Tártaro, Eros), e não é exatamente um epíteto pejorativo. A leitura do autor faz de "caos" um **palavrão**, o que é uma **interpretação** (provavelmente baseada em leitura do autor de Hesíodo em chave esotérica).
+- [REVISAR → ENCERRADO 2026-09-06 · F040-L4: interpretação do autor registrada — ver nota]: a leitura do autor diverge da academia. Em **Hesíodo original**, "Χάος" (Caos) é o **primeiro princípio** a surgir (antes de Gaia, Tártaro, Eros), e não é exatamente um epíteto pejorativo. A leitura do autor faz de "caos" um **palavrão**, o que é uma **interpretação** (provavelmente baseada em leitura do autor de Hesíodo em chave esotérica).
 - Quarentena: leitura do autor; sem fusão com a Teogonia acadêmica ou com mitologia comparada.
 - A grafia STT "Exildo" deve ser canonizada para "Hesíodo" (a apostila já documentou).
+
+## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
+- **Q-F040-A · ENCERRADO-RATIFICADO:** χ άος hesiódico × «caos» do autor = divergência com a academia, que não é pauta da Arca (precedente Senequeribe, Q-F038-C, estendido neste despacho). A interpretação do autor fica registrada como leitura, não como erro.
