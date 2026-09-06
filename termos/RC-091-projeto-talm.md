@@ -25,7 +25,7 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 ## Ampliação — P2024-11-09
 
-- **Projeto Talm (P2024-11-09):** o projeto que trouxe a vida do universo vizinho para o universo biológico (via Moren/Phanes); STT "projeto Town" [REVISAR].
+- **Projeto Talm (P2024-11-09):** o projeto que trouxe a vida do universo vizinho para o universo biológico (via Moren/Phanes); STT "projeto Town" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 
 ## Ampliação — P2024-08-03
@@ -164,3 +164,8 @@ O Projeto Talm é apresentado como transferência do código plasmático Nidana 
 
 - **Flag da l. 50 («datas [REVISAR — conferir B050]») encerrada.** B050 original.txt l. 82, verbatim: «[ 7,700,000,000 a.p.] (trilha A, y=1724) "Início" do projeto Talm. (7,7 bilhões a.p.)» — o mapa crava 7,7 bi, o termo superior da faixa grafada pela curadoria 2025 («7,5 a 7,7 bilhões»); a nota F036 desta ficha (l. 158–161) já registrara o par, e este encerramento a referenda.
 - **A flag da l. 65 (discrepância interna do B024, ~8,1 × ~7,5 bi) segue ABERTA por decisão expressa do despacho F036-Q-B — o Mutirão não a toca.**
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 28 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

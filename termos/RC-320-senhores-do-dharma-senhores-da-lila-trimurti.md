@@ -27,7 +27,7 @@ A equivalência Senhores do Dharma = Senhores da Lila = Trimurti consolida a lei
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · OS «TRÊS SENHORES ATRIBUT» E O AVATAR QUE CARREGAVA GENÉTICA]** "E então Krishna, não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama, porque era um avatar quechava, trazia na sua um pouco da genética dos três senhores atribut desse universo vizinho." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «quechava» = Keshava, fusão de STT.]
+- **[P2023-10-14 · OS «TRÊS SENHORES ATRIBUT» E O AVATAR QUE CARREGAVA GENÉTICA]** "E então Krishna, não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama, porque era um avatar quechava, trazia na sua um pouco da genética dos três senhores atribut desse universo vizinho." (U0020) — 🆕 anterioridade: P2024-11-30 —  [REVISAR: «quechava» = Keshava, fusão de STT. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 
 
 ## Ampliação — P2022-03-26 (A Rebelião de Lúcifer e a Depressão Mental dos Seres)
@@ -65,3 +65,8 @@ Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).
 
 ## Observações
 Ficha baseada em B023 (obra primária). A equivalência Senhores do Dharma = Senhores da Lila = Trimurti é chave para a leitura comparada hindu/RC.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 30 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

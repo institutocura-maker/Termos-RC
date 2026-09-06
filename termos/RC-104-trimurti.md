@@ -45,7 +45,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Ampliação — P2021-01-23
 
 - **[P2021-01-23 — FONTE ORIGINAL] A metáfora dos fios soltos (U0031–U0067):** o exemplo do poste e dos fios elétricos: "imaginemos um poste cujo fio tem problemas e é cortado e ele fica com todos os fios soltos que deveriam estar ajustados, entrelaçados e dentro do fil[me?]" (U0038); "quando o criador caiu... ele ficou com bilhões de fios soltos e cada um foi seguindo e nunca houve uma corrente educada" (U0042–U0043); "fios soltos: a história morre ali" (U0064); "quando Shiva cria um avatar dele, ele não tem ligação direta por aqui... pega só um desses fiozinhos, e a partir desse fiozinho solto surge o avatar de Shiva, avatar de Vishnu, Brahma" (U0065–U0067).
-- **O drama dos avatares (U0092–U0098):** "Vishnu e Shiva conseguiram criar vários avatares... cada um era mais chique que o outro; sempre eles brigam entre eles, que os diversos egos que o espírito de cada um produziu não disputam entre eles"; "Vishnu já acabou com isso; Shiva ainda não; Brahma nem começou ainda a se resolver, porque Brahma não conseguiu criar [avatares estáveis]" [REVISAR — STT].
+- **O drama dos avatares (U0092–U0098):** "Vishnu e Shiva conseguiram criar vários avatares... cada um era mais chique que o outro; sempre eles brigam entre eles, que os diversos egos que o espírito de cada um produziu não disputam entre eles"; "Vishnu já acabou com isso; Shiva ainda não; Brahma nem começou ainda a se resolver, porque Brahma não conseguiu criar [avatares estáveis]" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 - **A falência e a aposta (U0280–U0300; U0369):** "há cerca de 23.000 anos atrás, diante do episódio Adão, Eva e Javé, Javé tomou a opção desesperada que ele fez na época devido às artimanhas de Shiva e de Vishnu" (U0280); a aposta: "eu aposto meu poder contra esses seres... eles têm um código de honra que quando um desafia o outro, o outro tem que aceitar" (U0369).
 
 
@@ -332,3 +332,8 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 ## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
 - **«trium virato» (l. 235): ENCERRADA como variante oral documentada.** A curadoria grafa «triumvirato» (DOSSIE-PRE 2024-08-03 l. 38, verbatim: «| RC-040 CFD / RC-104 Trimurti / RC-106–108 Universos | ovo cósmico; triumvirato; Brahmaloka/Bhuloka (`U0269–U0352`) |»); «trium virato» não ocorre fora do bruto. Citação da fala preservada como dito; grafia analítica = triumvirato.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 48 (B5b).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

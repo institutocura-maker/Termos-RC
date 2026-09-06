@@ -39,7 +39,7 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 - **[P2021-05-15 · ONTOLOGIA: nem demo, nem extrafísica — e a recusa do panteão nórdico]** "Então, foi uma figura que deu o show dela no sentido de ter mais e mais humanos dev votos a ela e repito, era uma extraterrestre, não era um ser extrafísico como a descendência de Zeus." (U0007); "Na nórdica isso não é muito claro e penso que não." (U0007)
 - **[P2021-05-15 · A VIRADA POLÍTICA A FAVOR DA HUMANIDADE]** "Ela participou, eh, e Nana, ela tomou partido pela E Nana chegou a uma conclusão que os seres humanos viveram bem melhor se não fossem dominados por eles próprios." (U0009); "E eu acho, acho não, eu sei que ela ajudou, mas apenas eu acho que ela é uma Uma das figuras que sempre atrapalharam, sempre atrapalhou Javé e usou Eva e Lilif." (U0009) — ⚠️ quarentena religiosa na menção a Eva/Lilif; não equiparar «Lilif» a Lilith sem decisão do Curador.
 - **[P2021-05-15 · ANU × ZEUS: A GUERRA INTERNA QUE ENFRAQUECE E NÃO MULTIPLICA]** "E foi quando o próprio Zeus começou a transar loucamente com tudo que se movimentava que ele queria ter uma descendência com aquilo para dar continuidade à sua genética no meio daquela história, já que o Zanuna defendiu a tese, por isso Anu, como avô transou com Inana, sua neta, para poder dar uma descendência de um de uma posição genética que eles acham importante." (U0003); "E se enfraqueciam, não se multiplicavam." (U0003)
-- **[P2021-05-15 · A ORIGEM: NETA DE ANU, NASCIDA EM NIBIRU, VINDA À TERRA]** "É neta de Anô." (U0003); "Essa turma toda, o Anon Chic é quem nascia em Nibiro e Nanau na terra." (U0003) — [REVISAR: «Anon Chic» = STT para Anunnaki; «Nanau» ≈ Inana/Anu — grafias da fonte preservadas.]
+- **[P2021-05-15 · A ORIGEM: NETA DE ANU, NASCIDA EM NIBIRU, VINDA À TERRA]** "É neta de Anô." (U0003); "Essa turma toda, o Anon Chic é quem nascia em Nibiro e Nanau na terra." (U0003) — [REVISAR: «Anon Chic» = STT para Anunnaki; «Nanau» ≈ Inana/Anu — grafias da fonte preservadas. → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -84,3 +84,8 @@ Anu (RC-587 — avô e, nesta fonte, amante); Enki (RC-486) e Enlil (RC-487) —
 
 - **ISAR ≈ ISHTAR (l. 29): ENCERRADA — EQUIVALÊNCIA CRAVADA (despacho Q-F038-D, opção D1).** Fica grafado: «Isar» = **grafia de fala (STT) de Ishtar** na fonte; códigos do cluster Inana/Danu mantêm seus títulos (nenhum renomeado) e a variante fica registrada como tal.
 - **Senequiribe/Senequaribe (l. 38): CHANCELA — querência oral da própria fonte.** O expositor autodeclara a incerteza («acho que o nome é esse, Senequaribe, alguma coisa»); assiriologia não tem tribunal na Arca; a oscilação de grafia fica registrada como traço da fala (a equivalência Isar=Ishtar da mesma linha morre pelo carimbo D1 acima).
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 42 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

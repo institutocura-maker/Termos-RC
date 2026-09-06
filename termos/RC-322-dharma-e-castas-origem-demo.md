@@ -24,7 +24,7 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 ## Etimologia / Grafias
 
 - **Canônico da Base:** *dharma*, *varna* (casta), *karma*, *adharma*.
-- **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda].
+- **Na fonte oral (P2023-10-14):** «Darma», «dharma», «adharma»; a casta aparece grafada «varna» e, numa linha, **«varma, dma»** — [REVISAR: degradação de STT para *varna* / *dharma*, preservada como está, sem emenda → CHANCELA 2026-09-06 · F039-L3: FONTE AUSENTE DA ARCA — ver nota].
 - **Nome próprio envolvido:** a fonte atribui a introdução do conceito a **Krishna conversando com Arjuna** no *Bagavaguita*, «um dos capítulos do Marabarata» (grafia do bruto para *Mahābhārata*) — ver RC-425 e RC-414.
 
 
@@ -92,3 +92,8 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 4. **Cifras e datas seladas com a fonte:** nenhuma cronologia do bloco do dharma foi harmonizada com outras fichas; cada afirmação vale **na data de 14/10/2023**.
 
 **Regra de status:** 🟡 provisório — a ficha existe, está fundamentada em fonte publicada (B023) e em fonte oral do acervo, mas nenhuma das citações foi conferida com o áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações: o que o autor disse está registrado *como dito*.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 27 (B2).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.

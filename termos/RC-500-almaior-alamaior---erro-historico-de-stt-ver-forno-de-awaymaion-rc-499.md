@@ -11,7 +11,7 @@
 "Almaior" / "Alamaior" é uma leitura defeituosa de STT, preservada apenas para rastreabilidade. O termo correto no contexto é o forno **Awaymaion** (RC-499), o forno replicador de Vishnu responsável pela emergência dos **biodemos** (RC-036).
 
 ## Contexto / Origem
-- A entrada nasceu da mineração de B061 e do STT da P2021-12-04 ("produzir espécies através do forno de Alamaior [REVISAR], os biodemos");
+- A entrada nasceu da mineração de B061 e do STT da P2021-12-04 ("produzir espécies através do forno de Alamaior [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota], os biodemos");
 - **correção aprovada pela Devolutiva ART-2025-08-01 (O-4):** o material do curador "Fornos Replicadores" confirmou que o STT "Alamaior" = **Awaymaion** — o contexto da fala (biodemos) bate exatamente com a função do forno de Vishnu. Transformada em ficha de remissão direta para RC-499.
 
 ## Etimologia / Grafias
@@ -54,3 +54,8 @@ Código imutável e nunca reutilizável. Não usar "Alamaior" como entidade vál
 - As formas orais de 2019 "**a maior**" / "**A maior**" / "**Aa maior**" (= Awaymaion) são o substrato fonético do erro STT posterior "Almaior"/"Alamaior".
 - O STT de 2019 já oscila entre a referência ao forno ("A maior") e o superlativo comum ("a maior quantidade de seres") — a ambiguidade que provavelmente gerou a corrupção capturada depois.
 - **Sem fusão:** RC-500 permanece remissão a RC-499; esta nota só documenta a origem.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 14 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

@@ -28,7 +28,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 ## Ampliação — P2024-07-13
 
-- **[P2024-07-13] O destrave de Pandora e Eva (U0570–U0600):** "desde que Pandora e Eva tomaram certas raízes, o controle genético que fazia com que os humanos fossem retardados foi rompido, e os humanos deixaram de ser dementes. Surgiu a racionalidade plena, que foi sendo desenvolvida, mas esses seres todos tentaram atrapalhar essa racionalidade e conseguiram, porque hoje nós temos transtornos psíquicos e cognitivos ao invés de travas e lacres do nosso genoma que nos imbecilizavam na época"; "Eva escolhambou com tudo"; "Abel, Caim, os primeiros filhos de Adão e Eva não se viram projeto" [REVISAR — STT].
+- **[P2024-07-13] O destrave de Pandora e Eva (U0570–U0600):** "desde que Pandora e Eva tomaram certas raízes, o controle genético que fazia com que os humanos fossem retardados foi rompido, e os humanos deixaram de ser dementes. Surgiu a racionalidade plena, que foi sendo desenvolvida, mas esses seres todos tentaram atrapalhar essa racionalidade e conseguiram, porque hoje nós temos transtornos psíquicos e cognitivos ao invés de travas e lacres do nosso genoma que nos imbecilizavam na época"; "Eva escolhambou com tudo"; "Abel, Caim, os primeiros filhos de Adão e Eva não se viram projeto" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 - **[P2024-07-13] Os filhos de deuses × filhos de humanos (U0575–U0600):** "na época de Jared... existiam na Terra filhos de humanos e filhos de Deus. Filhos de humanos eram aqueles que um ser humano transava com outro e os filhos eram iguais aos pais. Só que tinha humanas que eram roubadas por seres de fora, e aqui nasciam filhos dos deuses que transavam com humanos... esses filhos herdavam as características humanas da mãe, mas também as características genéticas do pai que não era humano"; "o que foi escolhido para ser o número um de uma escala evolutiva... foi esse ser chamado Adão".
 
 
@@ -173,3 +173,7 @@ Na genealogia comparada de Jan Val Ellam, linhagem de códigos humanos insubmiss
 
 - **[Os humanos: inocentes úteis] (U0004)** «Do jeito que cachorrinho e gato hoje são nossos animais de estimação, nesse passado, os humanos funcionavam mais assim, como inocentes úteis, usados por forças mais poderosas, mais espertas, que tinham seus objetivos.» — "o mal existia no sentido de que nós, os humanos, nessa época éramos mais animais de estimação de outros seres" (U0004: «os humanos, nessa época éramos mais animais de estimação de outros seres»).
 
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 31 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

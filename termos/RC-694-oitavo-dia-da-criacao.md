@@ -38,7 +38,7 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 
 ## Ampliação — P2023-06-17 (O Paradoxo Divino)
 
-- **[P2023-06-17 · O OITAVO DIA — A FONTE ANTECIPADA (jun/2023, ~2 anos antes da P2025-02-16)]** **ANTONINE MEER** [STT — [REVISAR]; a escritora canadense], a quem um repórter fez uma pergunta irônica: "**É, meus livros até podem não ser conhecidos, mas eu escrevo porque EU ME CONSIDERO A ARTESÃ DO OITAVO DIA DA CRIAÇÃO** — as religiões dizem que Deus trabalhou um dia, dois, três, no sétimo ele descansou. **EU ACHO QUE ELE NÃO FEZ TUDO. Então eu trabalho nesse oitavo dia.** Antes, até o sétimo dia, **esse pássaro que tá cantando ali na árvore — ESSE CANTO NÃO EXISTIA, não foi Deus que [fez]. Esse pássaro É UM ARTESÃO TAMBÉM DO OITAVO DIA. COMO EU SOU. TODOS NÓS SOMOS ARTESÃOS DESSE OITAVO DIA DA CRIAÇÃO. ESSA CRIAÇÃO É INCOMPLETA**" — o oitavo dia como a cocriação contínua (RC-545): "nós somos recriadores, nós somos cocriadores... há um princípio sempre renovador em cada processo de pulsação".
+- **[P2023-06-17 · O OITAVO DIA — A FONTE ANTECIPADA (jun/2023, ~2 anos antes da P2025-02-16)]** **ANTONINE MEER** [STT — [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a escritora canadense], a quem um repórter fez uma pergunta irônica: "**É, meus livros até podem não ser conhecidos, mas eu escrevo porque EU ME CONSIDERO A ARTESÃ DO OITAVO DIA DA CRIAÇÃO** — as religiões dizem que Deus trabalhou um dia, dois, três, no sétimo ele descansou. **EU ACHO QUE ELE NÃO FEZ TUDO. Então eu trabalho nesse oitavo dia.** Antes, até o sétimo dia, **esse pássaro que tá cantando ali na árvore — ESSE CANTO NÃO EXISTIA, não foi Deus que [fez]. Esse pássaro É UM ARTESÃO TAMBÉM DO OITAVO DIA. COMO EU SOU. TODOS NÓS SOMOS ARTESÃOS DESSE OITAVO DIA DA CRIAÇÃO. ESSA CRIAÇÃO É INCOMPLETA**" — o oitavo dia como a cocriação contínua (RC-545): "nós somos recriadores, nós somos cocriadores... há um princípio sempre renovador em cada processo de pulsação".
 - 0 códigos novos (O-3). A antecipação: o conceito lavrado na P2025-02-16 já pulsava em jun/2023.
 
 ## Fontes
@@ -68,3 +68,8 @@ Apenas a terceira possibilidade é descrita como auspiciosa. Ela requer ciência
 - Não é apresentado como oitavo dia cronológico de 24 horas.
 - As três possibilidades são prognósticos cosmológicos da palestra.
 - Não usar tópicos da camada 2 ausentes da fala para completar sua definição.
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 41 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

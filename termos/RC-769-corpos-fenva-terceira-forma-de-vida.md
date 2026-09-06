@@ -9,7 +9,7 @@
 
 ## Definição Sintética
 
-Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígneos de plasma (anjos clones); 2ª) corpos daiva primitivos; 3ª) **corpos Fenvã** — "daivas modernos com menos problemas" (STT: "menos problemas de Fose" [REVISAR]). Corpos de plasma metamorfoseáveis do universo antimaterial, associados ao segundo conselho (Deusa Dev/Aurora e Cama/Kama) e à geração regenerada de Brahma (Brahma tetracéfalo em versão Fenvã).
+Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígneos de plasma (anjos clones); 2ª) corpos daiva primitivos; 3ª) **corpos Fenvã** — "daivas modernos com menos problemas" (STT: "menos problemas de Fose" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]). Corpos de plasma metamorfoseáveis do universo antimaterial, associados ao segundo conselho (Deusa Dev/Aurora e Cama/Kama) e à geração regenerada de Brahma (Brahma tetracéfalo em versão Fenvã).
 
 ## Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alquimia de Vishnu)
 
@@ -40,6 +40,11 @@ Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígne
 
 ## Observações
 
-Grafia "Fenvã" provém de STT da palestra P2026-07-25; manter [REVISAR] até confirmação em fonte publicada (provável termo do autor em B068).
+Grafia "Fenvã" provém de STT da palestra P2026-07-25; manter [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] até confirmação em fonte publicada (provável termo do autor em B068).
 
 ---
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 12 (B5b) · ll. 43 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

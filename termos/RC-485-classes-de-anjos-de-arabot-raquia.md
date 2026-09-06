@@ -17,7 +17,7 @@ As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495):
 - **Anjos ministradores:** Uzza, Azza e Azael (STT "Usá, Azá e Aziel") — anjos com poder de não ser robotizados e de criar processos; acusaram Javé de ter criado a humanidade; resposta de Javé: "Eu fiz e eu carrego, e eu carrego e eu livro" (frase reproduzida pelo profeta Isaías).
 - **Anafiel e Raziel:** anjos que levaram Enoque em sua primeira ida a Arabot-Ráquia ("todos os habitantes perceberam o cheiro dele mesmo à distância").
 - **Rabino Ismael:** levado aos céus (época de Enoque/Metatron); descreve os seis salões + sétimo onde acampa a Shekinah; príncipes da Merkabah, serafins, águias da Merkabah, ofanins, galgalim, chayot, chananiim.
-- **Anjo "Português" [REVISAR]:** anjo responsável pela "Ofiúsa" (terra das serpentes, Galícia/norte da Espanha; rainha e rei serpentes — seres teriantrópicos); questionou a presença de Enoque-Metatron; STT provavelmente deformou o nome original. Desafiado por Javé ("Quem é você para entrar e falar na minha presença?").
+- **Anjo "Português" [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]:** anjo responsável pela "Ofiúsa" (terra das serpentes, Galícia/norte da Espanha; rainha e rei serpentes — seres teriantrópicos); questionou a presença de Enoque-Metatron; STT provavelmente deformou o nome original. Desafiado por Javé ("Quem é você para entrar e falar na minha presença?").
 
 ## Fontes
 
@@ -43,3 +43,7 @@ As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495):
 STT a normalizar com nota: Usá/Azá/Aziel (Uzza/Azza/Azael), mercabá (Merkabah), Rquia (Ráquia), chequar (Shekinah).
 
 ---
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 20 (B1).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).

@@ -9,7 +9,7 @@
 
 ## Definição Sintética
 
-Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais: 'o jogo preparado foi esse, com travas e lacres para que o ser humano nunca despertasse os seus potenciais, porque assim é mais fácil manipular'. A religião (temor religioso) é apontada como a ferramenta criada para inocular a sensação de dominação; Eva, ao tomar a bebida (STT 'Telps' [REVISAR]), teria deslacrado os códigos bloqueadores.
+Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais: 'o jogo preparado foi esse, com travas e lacres para que o ser humano nunca despertasse os seus potenciais, porque assim é mais fácil manipular'. A religião (temor religioso) é apontada como a ferramenta criada para inocular a sensação de dominação; Eva, ao tomar a bebida (STT 'Telps' [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]), teria deslacrado os códigos bloqueadores.
 
 
 ## Ampliação — P2025-03-15
@@ -39,3 +39,7 @@ Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais:
 Leitura do autor; já registrado também em P2022-12-17 e P2025-03-15.
 
 ---
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 12 (B3).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).

@@ -29,7 +29,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 
 ## Ampliação — P2021-01-23
 
-- **[P2021-01-23] Mohen So e os fios soltos (U0776; U0800–U0810):** "olhando para o que 'morre em s' [STT], que era o avatar que eles haviam criado com liberdade, que pudesse entender os fios soltos de Brahma e de Shiva" (U0776) — Mohen So como o avatar criado para entender os fios soltos de Brahma e Shiva [REVISAR — STT 'morre em s'].
+- **[P2021-01-23] Mohen So e os fios soltos (U0776; U0800–U0810):** "olhando para o que 'morre em s' [STT], que era o avatar que eles haviam criado com liberdade, que pudesse entender os fios soltos de Brahma e de Shiva" (U0776) — Mohen So como o avatar criado para entender os fios soltos de Brahma e Shiva [REVISAR — STT 'morre em s' → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 
 ## Ampliação — P2025-08-01
@@ -112,3 +112,8 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 ## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
 - **Morren So × Mohen So (l. 99): ENCERRADA com consagração de Mohen So.** Livros do acervo: «Mohen So» **84×**, «Morren So» **0×**; apostilas: 255× × 81× (as variantes «Morren/Moren So» são exclusivamente de transcrições orais). Canônimo grafado: **Mohen So**; variante oral registrada na própria ficha (sem fusão de identidade — a questão da fusão esvazia-se: tratam-se, univocamente, da mesma entidade).
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 32 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).

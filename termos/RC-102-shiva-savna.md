@@ -20,9 +20,9 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 ## Ampliação — P2021-01-23
 
-- **[P2021-01-23] Shiva no sul da Índia (U0280–U0300; U0885):** "há 23.000 anos atrás, quando Shiva começou a se apresentar lá no sul da Índia através de seus avatares, dizendo: 'Eu sou o Deus'" (U0885); "Pashupati foi lá, o senhor Narada foi lá, vários avatares de Shiva" (U0297); "hoje a gente chama isso de tradição [STT 'com mar e candão' — [REVISAR]]" (U0296).
+- **[P2021-01-23] Shiva no sul da Índia (U0280–U0300; U0885):** "há 23.000 anos atrás, quando Shiva começou a se apresentar lá no sul da Índia através de seus avatares, dizendo: 'Eu sou o Deus'" (U0885); "Pashupati foi lá, o senhor Narada foi lá, vários avatares de Shiva" (U0297); "hoje a gente chama isso de tradição [STT 'com mar e candão' — [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]]" (U0296).
 - **A sexualização dos demos (U0601–U0606):** "os demos nos últimos 7.000 anos estavam iniciando a exploração dessa atividade [sexual]; os demos sempre se procriaram por clonagem assexuada" (U0603–U0604).
-- **"Shiva é quem tem mais poder" (U1188–U1190):** "ele criou monstro para poder derrotar os monstros que outras figuras criaram... tá tendo que desativar os caras" (U1190) [REVISAR — STT].
+- **"Shiva é quem tem mais poder" (U1188–U1190):** "ele criou monstro para poder derrotar os monstros que outras figuras criaram... tá tendo que desativar os caras" (U1190) [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
 
 ## Ampliação — P2025-08-01
@@ -68,7 +68,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 - **[P2023-04-15 · A OFERTA DO CÓDIGO]** "Shiva meio que [disse] para Javé: 'Ó, EU TENHO TODO O PODER QUE VOCÊ TEM REGISTRADO EM MIM, porque peguei o poder, código de um dos seus clones, mas eu não vim aqui realmente para [brigar]. Vamos fazer juntos. EU VOU LHE DAR O MEU CÓDIGO, QUE É O SEU CÓDIGO MUDADO POR MIM, para que você possa ser também igual a mim, que é uma forma da gente se relacionar.' E FOI ASSIM QUE BRAHMA ASSUMIU A CONDIÇÃO [adidaiva] DEFINITIVAMENTE GERADA POR SHIVA a partir do código podre de Brahma" — a metamorfose como "a principal característica" dos dois.
 - **[P2023-04-15 · OS 1.000 AVATARES]** "Shiva tinha MAIS DE 1.000 [penduricalhos]... podem pegar OS PURANAS, os Upanishads e outros livros, PRINCIPALMENTE OS REFERENTES À ASTROLOGIA VÉDICA, PRODUZIDA POR PARASHARA [STT: 'Parachara'], que tem lá OS 1.000 NOMES de 1.000 avatares ou formas [adhyágenas — STT 'adiágenas'] da forma [adidaiva] do senhor Shiva — E NENHUM QUER MORRER"; "SHIVA PODE SER UM RECICLADOR. Ele pode destruir devido à GUNA TAMÁSICA que ele tem. Vishnu não pode matar as partes dele porque ele não [tem]" ⚠️ a astrologia védica confinada à mecânica da RC (a nota O-4 da P2023-04-30 — sem cruzamento com Jyotish).
 - **[P2023-04-15 · A OPÇÃO METAVERSO]** "existe uma loucura aí que a gente tá vendo na espiritualidade, que é o fato de que SE ESSAS OITO PESSOAS FALHAREM, SHIVA COLOCAR TODA ESSA M*** NO METAVERSO, MANTER PARA BRAJNA DO JEITO QUE TÁ, RECOMEÇAR TUDO NUM OUTRO UNIVERSO. MAS ISSO AINDA TEM BILHÕES DE ANOS PARA A FRENTE"; "eu penso que essa é a única solução, caso um Sofia deixe de existir".
-- **[P2023-04-15 · OS DRAVIDIANOS]** "isso poderia sair via A HERANÇA DE SHIVA apropriada por Krishna... porque SHIVA INTRODUZIU ISSO HÁ 23.000 ANOS lá na tradição com [Marici? — STT 'Marik Candã' [REVISAR]] NO SUL DA ÍNDIA ATRAVÉS DOS DRAVIDIANOS [STT: 'gravidianos'], QUE SÃO OS HINDUS ATUAIS".
+- **[P2023-04-15 · OS DRAVIDIANOS]** "isso poderia sair via A HERANÇA DE SHIVA apropriada por Krishna... porque SHIVA INTRODUZIU ISSO HÁ 23.000 ANOS lá na tradição com [Marici? — STT 'Marik Candã' [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]] NO SUL DA ÍNDIA ATRAVÉS DOS DRAVIDIANOS [STT: 'gravidianos'], QUE SÃO OS HINDUS ATUAIS".
 - 0 códigos novos (O-3). Quarentenas: teológica, científica, cultural.
 
 
@@ -214,3 +214,8 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - **[B050 · original.txt, l. 67]** «Savna mergulha na singularidade imperfeita e imanta-se a um anjo-clone. / Passa a procurar uma forma de ajudar Brahma. (Aproximadamente 12,17 bilhões a.p.)» — a data do mergulho (~12,17 bi a.p.), tal como a grafava a Parte II da refatorada (doc F035 l. 50), BATE EXATA no mapa das eras;
 - **[B050 · original.txt, l. 69]** «Brahma passa a mexer no algorítmo mestre para replicar / partes diferenciadas. Shiva corta uma das cinco cabeças / de Brahma. (11,6 bilhões de anos a.p.)» — o ato do corte da cabeça, que a ficha trazia sem marco, ganha a data da fonte;
 - Despacho Q-F035-B (05/09/2026): a flag «[REVISAR — conferir B050]» da seção ART-2025-08-01 (l. 30) considera-se **oficialmente encerrada**. *(Nota de execução: a proposta citava «ll. 67/68»; o corte está na l. 69 — linha corrigida contra a fonte, sendo a l. 68 o «Anjo clone "especial" de Javé engendrado (12 bilhões de anos a.p.)», que por si corrobora o quadro.)*
+
+## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
+- **Linhas carimbadas do lote:** ll. 23 (B5a) · ll. 25 (B5b) · ll. 71 (B5a).
+- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
