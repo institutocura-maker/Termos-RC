@@ -42,6 +42,10 @@ Aparece em **P2025-04-06**, U0005, no encerramento da palestra. Contexto: depois
 - **Seres humanos inconformados** (RC-099) — quem pratica o Conceito Abaiano
 
 ## Observações
-- [REVISAR]: a origem exata do termo "abaiano" não é clara — pode ser (a) sânscrito adaptado, (b) gíria baiana, (c) ambos. O autor não esclarece.
+- [REVISAR → CHANCELA 2026-09-05 · F038-L2 (fonte não esclarece — ver nota)]: a origem exata do termo "abaiano" não é clara — pode ser (a) sânscrito adaptado, (b) gíria baiana, (c) ambos. O autor não esclarece.
 - Quarentena: leitura do autor; sem fusionar com ética utilitarista ou com estoicismo acadêmico.
 - O conceito tem **paralelos com o "inconformismo inteligente, criativo"** da P2023-11-11.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Etimologia de «abaiano» (l. 45): CHANCELA — TENSÃO NÃO RESOLVÍVEL INTRA-ARCA.** As hipóteses (sânscrito adaptado / gíria baiana / ambas) são do próprio texto, que registra: «O autor não esclarece.» — a dúvida é constitutiva da fonte; nenhum livro, mapa ou palestra do acervo se pronuncia sobre o termo. Tese viva documentada; não encerrável, não renomeável, não fusível.

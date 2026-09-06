@@ -16,12 +16,12 @@ Ser vinculado à Frota Norte e ao Conselho dos Cinco (RC-501); na leitura da RC,
 
 ## Ampliação — ART-2025-08-01
 
-- **[ART-2025-08-01 — material do curador] Val Tam e Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título: 'Awayem' no ART; obra anunciada B083].
+- **[ART-2025-08-01 — material do curador] Val Tam e Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título: 'Awayem' no ART; obra anunciada B083 → CHANCELA 2026-09-05 · F038-L2: FONTE AUSENTE DA ARCA — ver nota].
 
 
 ## Ampliação — P2025-08-01
 
-- **[ART-2025-08-01] Val Tam acoplada a Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen, a Central de Realidades de Brahma]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título 'Awayem' no ART; obra anunciada B083] — conexão inédita na base (ficha física materializada por Devolutiva O-2).
+- **[ART-2025-08-01] Val Tam acoplada a Awayen (Parte I):** "as fontes revelam um detalhe intrigante: a 'consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira' a esta 'estação cósmica' [Awayen, a Central de Realidades de Brahma]. Este é um ponto que as fontes prometem aprofundar em futuras obras, como o livro 'Awayen – A Central de Realidades'" [REVISAR — grafia do título 'Awayem' no ART; obra anunciada B083 → CHANCELA 2026-09-05 · F038-L2: FONTE AUSENTE DA ARCA — ver nota] — conexão inédita na base (ficha física materializada por Devolutiva O-2).
 
 
 ## Ampliação — P2025-08-02
@@ -52,3 +52,7 @@ Val Aten (RC-502), Frota Norte (RC-065), Val-Ha (RC-109), Fornos Replicadores (R
 - Conexão Val Tam ↔ Awayen é **inédita na base** (não constava em B031); aguarda confirmação em fonte primária (obra anunciada B083).
 
 **Regra de status:** 🟡 provisório — materializado por Devolutiva ART-2025-08-01; aguarda confirmação em fonte primária.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Awayen × Awayem (ll. 19 e 24): CHANCELA — FONTE AUSENTE DA ARCA (estado sancionado no despacho Q-A).** A dúvida incide sobre o TÍTULO IMPRESSO de B083 («Awayen/Awayem – A Central de Realidades»), obra anunciada e não possessa pela Arca (certificado F035-V4); nem livro, nem mapa, nem palestra dirimem. As flags deixam de ser pendência e viram averiguação registrada — só a posse da obra a levanta.

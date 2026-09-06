@@ -96,7 +96,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - Morren So é o avatar de Vishnu que orquestra o Projeto Talm: "Morren So chamou alguns fenvans de Vishnu e disse aí, Tive uma ideia" (STT);
 - a criação do **Nidana**: "criei o novo novo cosmo" e "Brahma pegou o Nidana, Virgen, Nidana, Chiv Nidana, passaram seus fenvans" (STT);
 - engendra Sophia junto com Vishnu (STT: "a virgem junto com borre e sofrios de que engendraram Sophia");
-- ⚠️ [REVISAR — grafia]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.
+- ⚠️ [REVISAR — grafia → ENCERRADO 2026-09-05 · F038-L2: ver nota]: "Morren So" × "Mohen So" (RC-081) — a unificação canônica segue pendente; registrado o grau oral, sem fusão.
 
 ## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
@@ -108,3 +108,7 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - **[P2025-08-03 · DOSSIE Fenvans, verbete Mohen So]** «Possuía "menos lacres" em sua genética, dando-lhe senso crítico superior. Desconstituiu-se em 2017 para "fortalecer" Sophia.» — ano e verbo da fonte; a extensão que o doc F033 fez ao próprio Vishnu (2016) só existe no corpus via a falência da Trimúrti «entre 2015 e 2017» (P2024-05-04) — a ficha grava o que ancora.
 - **[P2024-11-30 · apostila, l.194]** Caos: «Eu concordo, desde que a gente crie um ser com quatro cabeças: uma, você, Eros; outra, você, Tártara; e a outra, para ser sem lacre. Mas tem que ser no mesmo corpo, porque, se ele tiver a besta [solta], nós três a gente ataca e mata.» + (l.200) «Foi assim que surgiu um ser chamado Moron [STT — Phanes/Protogonos]. Moron surgiu com a somatória da genética dos três, mas sem lacres, sem travas.» — a cabeça «sem lacre» (a livre) é a razão de Mohen So. A reformulação do doc («uma livre e cada uma das três outras obedecia a um dos Senhores») fica de fora: vale a formulação da apostila (ledger F033 D-4).
 - Fontes: **P2025-08-03** acrescentada ao cadastro; o alíás «Moron» está espelhado na ficha RC-282.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Morren So × Mohen So (l. 99): ENCERRADA com consagração de Mohen So.** Livros do acervo: «Mohen So» **84×**, «Morren So» **0×**; apostilas: 255× × 81× (as variantes «Morren/Moren So» são exclusivamente de transcrições orais). Canônimo grafado: **Mohen So**; variante oral registrada na própria ficha (sem fusão de identidade — a questão da fusão esvazia-se: tratam-se, univocamente, da mesma entidade).

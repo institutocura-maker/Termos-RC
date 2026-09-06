@@ -68,7 +68,7 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 ## Ampliação — B003 (Reintegração Cósmica)
 
 - **[B003 p. 3]** Ellam: a reintegração de uma coletividade «à sociedade cósmica», após «longuíssima e dolorosa penalidade», exige esclarecimento; «este livro — como outros a serem lançados — foi produzido» para quem «seremos em breve reintegrados à convivência cósmica».
-- **[B003 p. 6]** a trilogia = «recados amorosos» / «notícias místicas do passado»; «Reintegrar-se a uma situação existencial antes vivida é o que está prestes a ocorrer com boa parcela da população terrestre». Grafia **Carma e Compreensão** × Compromisso = `[REVISAR]` — remissão a B026, **não fundir**.
+- **[B003 p. 6]** a trilogia = «recados amorosos» / «notícias místicas do passado»; «Reintegrar-se a uma situação existencial antes vivida é o que está prestes a ocorrer com boa parcela da população terrestre». Grafia **Carma e Compreensão** × Compromisso = `[REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota]` — remissão a B026, **não fundir**.
 - **[B003 p. 8–9]** Introdução: analogia do cárcere; «ilha cósmica»; retorno à convivência cósmica «por força de uma lei maior». «Pobre e frágil psicologia humana» = **clínica** (leitura, jamais diagnóstico).
 - **[B003 p. 10]** Esclarecimento (Atlan, 21/09/1991): «Não é nossa opinião pessoal»; informações «ditadas […] por diversos irmãos espirituais» anónimos. **Quarentena mediúnica.** Partes I–III, *Passado e Presente* e Cronologia **isolados**. Sem fusão com B025 / B026 / B017 / B042. Fonte **B003** já constava na tabela-mestra.
 
@@ -145,3 +145,7 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Carma e Compromisso × Compreensão (l. 71): ENCERRADA por soberania estatística (Q-B).** O acervo em `livros/CONCLUIDOS/B026_carma_e_compromisso/` traz o título «Carma e Compromisso»; o fragmento do livro na Arca imprime «compromisso» **240×** contra «compreensão» 6× (este em outros contextos). Equivalência «Compreensão» = título de B026 não sustentada; **não fundir** mantido — a semântica de RC-003 não se move.

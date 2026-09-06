@@ -81,7 +81,7 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes.]
+- **[P2023-10-14 · ORLOG CRIA A WYRD E AS TRÊS NORMES]** "Porque o ser chamado Orlog, ao criar a Word, criou três normes e as três, cada um estudava parte da tesitura da teia da vida, ou seja, da teia da existência dos deuses." (U0033) — [REVISAR: «Word» = Wyrd (grafia do bruto); «normes» = Nornes → ENCERRADO 2026-09-05 · F038-L2: ver nota (equivalências já lavradas na anotação da linha).]
 - **[P2023-10-14 · O ESTUDO DA WER COMO ÚNICO ACESSO À QUESTÃO DO DESTINO]** "Só o estudo da WER, que é uma teia quântica da mitologia nórdica, no âmbito do entendimento das runas, como elas eram empregadas lá atrás, permitem uma visão profunda sobre essa questão." (U0033)
 ---
 
@@ -154,3 +154,7 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 - **[P2025-08-03 · apostila, l.826 — verbete Moros]** «Criou a "teia quântica" (Wyrd) há cerca de 9 bilhões de anos, uma fonte de registros factuais que controla um fluxo de informações ao qual até os deuses estavam submetidos.»
 - **[P2025-08-03 · apostila, l.882 — verbete Wyrd]** «Wyrd: "Teia quântica" ou "fonte de registros factuais" engendrada por Moros há cerca de 9 bilhões de anos.»
 - **[P2023-08-05 · DOSSIE-PRE-CURADORIA, l.21 — antecedente]** «RC-658 [F] (opcional): "Moros/Orlog engendrou a Wyrd há 9 bilhões — a teia quântica que associa grau de podridão codificado com necessidade/capacidade de resiliência".» — a cifra já fora proposta à curadoria em 2023.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **«Word» = Wyrd; «normes» = Nornes (l. 84): ENCERRADA.** A equivalência que a flag pedia já está lavrada na própria anotação da ficha (linha U0033) — a flag esvaziou-se por anotação prévia; nada mais a pendenciar.

@@ -22,7 +22,7 @@ O conceito de telos é central para compreender a psicologia dos deuses demo nas
 ## Ampliação — B021 (Tempos Difíceis no Olimpo)
 
 - **[B021 p. 8]** Abertura da Parte I (voz de Ellam): telos = «propósito ou finalidade de existir»; «doravante algo pitoresco, talvez seja o de se sentir governando um contexto que escapa à sua compreensão».
-- **[B021 p. 35–37]** ensaio: telos = «finalidade da inevitabilidade» gerada pela correção da «doença» do Criador «caído». Grafia do livro **Morus** = variação; canônico **Moros** = `[REVISAR]`. «Dramático é, portanto, o telos de cada um de nós!» «Doença» / «apodrecido» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Kardec (p. 36) = **referência externa**.
+- **[B021 p. 35–37]** ensaio: telos = «finalidade da inevitabilidade» gerada pela correção da «doença» do Criador «caído». Grafia do livro **Morus** = variação; canônico **Moros** = `[REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota]`. «Dramático é, portanto, o telos de cada um de nós!» «Doença» / «apodrecido» = **quarentena clínica** (leitura cosmologica, jamais diagnóstico). Kardec (p. 36) = **referência externa**.
 - **[B021 p. 157–158]** Notas: telos do destino; telos e tikun — o telos habilita o «conserto» (tikun) da Obra e do «Eu recriado doente». Grafia canônica **Tikun**. Falas de Zeus (corpo + Diálogo p. 146–149) **isoladas**. RC-145 **não** materializada. Sem fusão com B020 / B001 / B003. Fonte **B021** já constava na tabela-mestra.
 
 
@@ -52,3 +52,7 @@ Zeus (RC-145); demos do Olimpo (RC-049).
 
 ## Observações
 Ficha baseada em B021 (obra primária). Telos e timé são conceitos-gêmeos da "psicologia divina" das RC — cruzar com RC-293.
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **Morus × Moros (l. 25): ENCERRADA a verificação — preferência impressa é «Morus» (31× × 3× nos livros do acervo; B050 original.txt l. 87, verbatim: «[ 5,000,000,000 a.p.] (trilha A, y=545) Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)»). O cadastro mantém o canônimo «Moros» — renomear é ato de despacho futuro, se o curador quiser; averbado aqui como dado, não como pendência.**

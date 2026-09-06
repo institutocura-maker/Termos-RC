@@ -45,7 +45,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 
 ## Observações
 - **Quarentena demonológica FORTE**: a tese afasta Lilith da demonologia judaica-cristã tradicional (1ª esposa de Adão, mãe de demônios) — **NÃO FUSIONAR**.
-- [REVISAR]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
+- [REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota — paralelos confirmados em 4 palestras]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
 - O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.
 
 ## Ampliação — P2024-03-17
@@ -53,3 +53,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «A mais desagradável é que ela era uma raxchaça. O que é uma rachaça? Um vampiro. Um ser criado nesse universo vizinho que passava pelos portais para cá. Mas o vampiro não tem culpa de ser vampiro. Ele já foi criado desse jeito. Só que Lili era uma rachaça esclarecida e que Vendo o que Pandora havia feito, revoltou-se contra o controle dos deuses sobre os humanos e sobre os próprios raquchas.»
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **«Rxaça» tem paralelo? (l. 48): ENCERRADA — SIM, confirmado em 4 palestras.** P2023-05-13 («os rxaças começam a fazer sacrifício»), P2025-02-16 («comandada pelos rxaças e pelos olimpianos»), P2025-11-29 («Ravana, rei dos rxaças») e — a mais forte — P2022-03-26, onde o expositor se autodecorre: «Pros rakas echaças. Rxaças, ele criou 1.400.000 versos...» (a busca oral pela grafia cravando «Rxaças»). O termo é uso coerente do corpus, não incidente único.

@@ -34,7 +34,7 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · FENVANS NA FALA DE 03/12/2023]** «um tipo de ser que eu sou obrigado chamar de fenvan, que é espécie de demo moderno.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
-- **[P2023-12-03 · O TERCEIRO PADRÃO DE GENÉTICA DEMO]** «genética demo chamada Fenvan.» (U0004) — A ficha ganha a posição do fenvan na série: não é espécie nova, é **padrão de atualização** da genética demo, o terceiro depois dos clones robotizados e do demo. A grafia do bruto varia e fica [REVISAR].
+- **[P2023-12-03 · O TERCEIRO PADRÃO DE GENÉTICA DEMO]** «genética demo chamada Fenvan.» (U0004) — A ficha ganha a posição do fenvan na série: não é espécie nova, é **padrão de atualização** da genética demo, o terceiro depois dos clones robotizados e do demo. A grafia do bruto varia e fica [REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota — variação não existe no bruto].
 
 ## Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos do Destino)
 
@@ -74,3 +74,7 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 ## Observações
 - QUARENTENA CLÍNICA: Toxoplasma Gondii, "DNA lixo", vírus como "nanorrobôs" — leitura do autor, jamais dado biomédico;
 - Ficha materializada por Devolutiva O-2 (Trilogia TALM).
+
+## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
+
+- **«A grafia do bruto varia» (l. 37): ENCERRADA por inexistência da variação.** Varredura do bruto P2023-12-03 (original.txt): «fenvan» 2×; variantes «femban/fenban/fenvam/femvan» **0×**. O receio do levantamento não se confirmou no arquivo — flag liquidada com a contagem provando.

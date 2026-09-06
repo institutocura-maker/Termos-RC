@@ -1,5 +1,9 @@
 # DEVOLUTIVA AO CURADOR — CICLO F038 · MUTIRÃO LOTE 2 (Grafia & Taxonomia) — 05/09/2026 · fase DEVOLUTIVA
 
+## §0 · Despacho do curador (05/09/2026) — APLICAÇÃO EXECUTADA
+
+Q-A sanciona o estado FONTE AUSENTE DA ARCA (aplicado ×3); Q-B liquida as 10 fecháveis pela soberania estatística; Q-C chancela Olga (isolamento), Senequeribe e abaiano; Q-D crava D1 (Isar = STT de Ishtar, sem renomear códigos); Q-E manda lavar o plano de blocos do L3 (PLANO-LOTE-3-BLOCOS.md). 17 tokens liquidados em 15 fichas; saldo oficial pós-lote: 189 vivas; Braba migra ao L4 (9 flags). Detalhes e verbatim em `DECISAO-DO-CURADOR.md`.
+
 Aberta por tua ordem de serviço («Autorizo a abertura imediata do Lote 2. Apresente o roster detalhado»). Roster completo com a evidência de cada linha em `mapeamento.md`; base intocada nesta fase. TL-01 encerrado no ato precedente (G1 arquivado, Registro nº 20, caixa vazia).
 
 O lote amadureceu bem na sondagem: **17 flags reais** (16 do censo + a hóspede «Olga»), das quais **10 FECHÁVEIS com os livros falando** (nenhuma exigirá decisão tua), **6 CHANCELÁVEIS em 4 casos** e **1 AGUARDA-DECISÃO que proponho liquidar neste próprio despacho**. 5 linhas do censo foram expurgadas por já estarem adjudicadas — a régua token-a-token do L1 já previne essa contaminação.
