@@ -1,5 +1,10 @@
 # F039 · Devolutiva — Lote 3 (STT & Áudio) em blocos temáticos
 
+## §0 · Despacho do curador (06/09/2026) — APLICAÇÃO EXECUTADA
+
+Q-A…F todas aprovadas («Avance o ciclo F039 para APLICACAO e aplique os carimbos em massa»). 76 selos em 55 fichas (3 tokens diferidos ao L5 por overlap de reivindicação exata — averbados na ficha e no roster); D-a e D-b encerradas com âncora verbatim; saldo oficial 113 vivas (o 110 projetado fecha no L5). Verbatim completo e execução em `DECISAO-DO-CURADOR.md`.
+
+
 Curador, o lote foi constituído exatamente no formato que aprovaste (Q-F038-E): nada de 111 despachos — **6 perguntas, uma por decisão de bloco**. Antes delas, os dois fatos de método que mudaram o lote:
 
 **M1 — expurgo obrigatório cumprido.** O censo de 111 linhas do L3 estava podre como previsto: 25 linhas já morreram em L1/L2 ou eram menções meta entre backticks em notas de ciclos. Roster real: **79 flags · 55 fichas**. Hóspedes: zero. E a auditoria bateu a métrica oficial na mosca: 189 vivas no repo = saldo declarado do L2.
