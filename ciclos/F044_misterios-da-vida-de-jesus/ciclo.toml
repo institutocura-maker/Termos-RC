@@ -1,0 +1,19 @@
+# Dossiê de ciclo F044 — «Os Mistérios da Vida de Jesus» (curso Ellam, 5 aulas)
+[fase]
+id = "F044"
+nome = "Curso: Os Mistérios da Vida de Jesus (5 aulas · 57.179 palavras)"
+fase = "RECEPCAO"
+status = "recepcao_concluida_aguardando_despacho"
+abertura = "2026-09-06"
+agente = "Agente 20 (receção); execução designada a sessão nova"
+
+[recepcao]
+entrada = "5 .docx via upload web na branch (commit d4d6e056), 2026-09-06"
+canone = "ciclos/F044_misterios-da-vida-de-jesus/brutos/ (byte a byte) + translado/ (texto fiel)"
+registro_limpeza = 22
+qualidade = "transcrição revisada linha a linha pelo Curador contra o áudio; terminologia por padronizar (trabalho do ciclo)"
+
+[pendencias_despacho]
+codigos_p = "datas reais das 5 aulas (metadatas do docx NÃO valem: datas de salvação da revisão)"
+anéis = "mapeamento integral contra dados_termos.py antes de qualquer ficha nova"
+receita = "executar em sessão nova; relacoes/ blindado; cluster RC-072/005/280 para EXPANDIR, não substituir"
