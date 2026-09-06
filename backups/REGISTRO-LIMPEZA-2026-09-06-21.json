@@ -1,0 +1,22 @@
+{
+ "data": "2026-09-06",
+ "numero": 21,
+ "tipo": "EXECUÇÃO — F043 T1 (CODIFICAÇÃO DA FONTE, despacho 2026-09-06: «catadela do bruto… transfira o texto limpo… emita o Registro de Limpeza nº 21»)",
+ "contexto": "GLOSSÁRIO KRYS AMON: primeira obra de apoio de parceiro humano cadastrada (EXT-2024-01-04). O bruto saiu da caixa porque foi canonizado em materiais_externos/2024-01-04_glossario-krys-amon/ (original byte a byte + traslado limpo + ficha de ingresso com SHA duplo + parecer anexo) e ganhou ficha-pessoa RC-934 (IEEA ocupa RC-930 no registro-mestre; anti-duplicação reteve e código foi recolhido).",
+ "regra": "EXPURGAR-SÓ-CANONIZADO (perpetuada): zero conteúdo deletado sem cópia fiel canônica com checksum.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/GLOSSÁRIO KRYS AMON.txt",
+   "bytes": 14752,
+   "sha256": "c9efbd49a39166650a25a29bd00f8ce15089476e9276b6ccb8f5a0891d79f2bb",
+   "destino": "materiais_externos/2024-01-04_glossario-krys-amon/original.txt (byte a byte)"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/GLOSSÁRIO KRYS AMON.txt"
+ ],
+ "aptos_para_ordem_de_remocao": [
+  "uploads_recepcao/GLOSSÁRIO KRYS AMON.txt — SIM (canão verificado: sha256 do original é idêntico ao registrado)"
+ ],
+ "observacao": "Catadela autorizada aplicada APENAS ao traslado (glossario-limpo.txt, sha256 b34be1986be1819f…): 2 duplicações de verbete removidas (linhas removidas: [57, 59]) e «Ssão»→«São»; o original.txt permanece fiel byte a byte. Caixa: zero brutos (nº 1–20 + este 21)."
+}

@@ -1,0 +1,16 @@
+id = "F043"
+tipo = "CICLO DE FONTE EXTERNA - GLOSSARIO KRYS AMON (obra de apoio) - T1/T2/T3"
+abertura = "2026-09-06"
+fase = "APLICACAO"
+status = "T1_concluido_T2_T3_autorizados_na_fila"
+altera_base = true
+
+[t1]
+execucao = "2026-09-06 - canonização: original.txt byte a byte (sha c9efbd49a39166650a25a29bd00f8ce15089476e9276b6ccb8f5a0891d79f2bb) + glossario-limpo.txt (2 duplicações de chat removidas, Ssão→São; sha registrado) + ficha de ingresso EXT-2024-01-04 com enquadramento oficial §1 + Parecer anexado em analise/ + ficha-pessoa RC-934 Kris Amon cadastrada + Registro de Limpeza nº 21 e caixa zerada de brutos"
+colisao_evitada = "proposta RC-930 colidia com IEEA (registro-mestre); guarda anti-duplicação reteve a inserção; código recolhido: RC-934. Lição lavrada: censo de código = dados_termos.py, não nomes de arquivo"
+
+[fila]
+t2_averbacao = "notas «GKA corrobora» autorizadas (§3) p/ 10+6 clusters: RC-557 Conectoma, RC-160 Entropia (com a costura Anel B: Tamas RC-151, Savna RC-102/RC-409, Adhy- family, queda RC-037, Tikun RC-514), RC-618 Moksha, RC-564 Fios soltos, RC-102, RC-151, RC-514, RC-217, RC-606, RC-548 - uma nota por ficha; relacoes/ BLINDADO (arestas só por despacho taxonômico posterior)"
+t3_expansao = "novos códigos só p/ Anel C >=5 menções elâmicas: Cognição (35), Choque de realidade (18), Mônada (10), Livre-arbítrio (9), Samkhya (8), Samsara (6), Rebanho humano (5), Hipocampo (5) - definição GKA como fonte SECUNDÁRIA, corpus primária; fila de códigos: RC-935..RC-942 (re-censo obrigatório antes de gravar)"
+reabertura = "RC-047 l.70: chancela AGUARDA-ÁUDIO convertida em averbação definitiva (fonte escrita do parceiro grafa Perpérion; fala preservada) - autorizada §4; executar no T3 com assert byte a byte"
+

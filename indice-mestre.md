@@ -939,6 +939,7 @@
 | RC-931 | Nuctemeron | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | ⚪ | B016, P2024-11-03 | RC-092; RC-259; RC-755 | — |
 | RC-932 | Cidades Sagradas do Hiperbóreo | Lokas & Geografias | 3.3 Localidades terrestres | ⚪ | P2024-03-17, P2018-12-15 | RC-068; RC-398 | — |
 | RC-933 | Revelação Psíquica (Kapila — escola Samkhya) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | ⚪ | P2024-11-30, P2023-06-25, P2024-08-03 | RC-190; RC-094; RC-454; RC-092 | — |
+| RC-934 | Kris Amon (Krysamon NEAD) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | — | RC-047; RC-160; RC-102 | [✔](termos/RC-934-kris-amon-krysamon-nead.md) |
 
 ---
 
