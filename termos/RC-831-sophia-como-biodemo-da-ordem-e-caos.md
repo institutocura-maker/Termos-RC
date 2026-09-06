@@ -66,7 +66,7 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 - **Anjos Glores** — os clones que se livraram do controle
 
 ## Observações
-- [REVISAR]: a palestra de 2023-12-17 é a principal fonte primária dessa formulação específica (Sophia como biodemo).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a principal fonte primária dessa formulação específica (Sophia como biodemo).
 - **Quarentena teológica FORTE**: a leitura do autor **NÃO FUSIONAR com**:
   - Teologia gnóstica acadêmica (Sophia = figura feminina do Pleroma, e.g., Pistis Sophia).
   - Gnose valentiniana (Sophia como emanação caída que causa o demiurgo).
@@ -85,3 +85,7 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 - **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
 
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 69 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

@@ -54,5 +54,9 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 
 ## Observações
 - **Quarentena mitológica FORTE**: a leitura do autor **NÃO FUSIONAR com** mitologia nórdica acadêmica. Na mitologia nórdica clássica (Edda Poética, Edda em Prosa), Kvasir é **uma pessoa** (a mais sábia de todas), **não um princípio**. O autor usa Kvasir como **analogia mítica** para Pandora.
-- [REVISAR]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (Kvasir como origem da ideia de Pandora).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (Kvasir como origem da ideia de Pandora).
 - **Conexão com a P2017-05-14**: o autor já tinha apresentado Kvasir como "o primeiro demo da história" (que se tornou Chiva). Aqui em P2018-05-20 ele reinterpreta Kvasir como **origem da ideia de Pandora** — duas leituras paralelas do mesmo mito.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 57 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

@@ -278,7 +278,7 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 ## Ampliação — P2021-05-15 (As Etnias Hiperbóreas e os Anunnakis)
 
 - **[P2021-05-15 · SOFIA COMO O PRIMEIRO BIODEMO — SEM OSSO, COM CÉREBRO RADIADE]** "É, foi o primeiro tipo de ser biodemo que surgiu." (U0003); "Sofia foi criada há 6 bilhões de anos lá atrás, então não tinha." (U0003)
-- **[P2021-05-15 · A EXPANSÃO QUE FOI E NÃO FOI]** "Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi." (U0003) — [REVISAR: «os Aios» ≈ Aia/Aie — RC-031 sem ficha; ver Bloco 2 do pacote.]
+- **[P2021-05-15 · A EXPANSÃO QUE FOI E NÃO FOI]** "Nessa época ainda havia ordens de tribur em cima de Sofia e os Aios meio que determinaram e Sofia foi e não foi." (U0003) — [REVISAR: «os Aios» ≈ Aia/Aie — RC-031 sem ficha; ver Bloco 2 do pacote. → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]
 - **[P2021-05-15 · SOFIA COMO FORÇA DESTE UNIVERSO]** "Mas tem essas forças desse universo vizinho, tem Sofia, que é a força desse universo." (U0005)
 - **[P2021-05-15 · A ÚNICA VIA PRÁTICA DE SOFIA]** "Fora isso, nada a Sofia pode fazer." (U0015)
 - **[P2021-05-15 · A VINDA, A POSSE E A COORDENAÇÃO DO QUARTO LOGOS]** "A vinda de Sofia tem como objetivo ele assumir o dia da posse dele para acabar com toda essa história e todos convergirem pro comando Sofia, o comando prático e para a coordenação do quarto logos, o programa evolutivo mental e espiritual, porque é a única forma disso aqui ter algum futuro." (U0005) — ⚠️ a fórmula «a espiritualidade humana é a única alavanca da reintegração» é de OUTRA fonte — não atribuir a P2021-05-15.
@@ -472,3 +472,7 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 - **Linhas carimbadas do lote:** ll. 68 (B5a) · ll. 73 (B5a) · ll. 191 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 281 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

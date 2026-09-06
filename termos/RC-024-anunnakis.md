@@ -92,7 +92,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 - **[P2023-10-14 · A CONVERSABILIDADE COMO CRITÉRIO DE PARCERIA]** "Os anunacos, pelo menos conversam com os humanos." (U0030)
 - **[P2023-10-14 · A GENÉTICA DE OBEDIÊNCIA: O MODELO DA DOMESTICAÇÃO (linha que a leitura inicial tinha «lembrado» ao contrário)]** "Ou seja, como se a gente pegasse vaca, cachorro, gato, cavalo e mexesse na genética deles para que eles aprendessem a obedecer as nossas ordens." (U0005) — ⭐ A fórmula real da fonte é a da **genética de obediência como método aplicado a animais**, e não uma sentença sobre «escravidão de filhos» — a formulação lembrada na leitura inicial **não existe** no bruto e foi substituída por esta aspa (U0005).
 - **[P2023-10-14 · O POVO ESPÉCIE E O REACENDIMENTO (o título explicado pela fonte)]** "Nós precisamos reacender a honra dos anunax." (U0072); "Por isso que eu coloquei o nome da palestra de da esquecida honra dos anunac." (U0072) — ⚠️ Fato de catálogo: a fonte registra **três** títulos (o do arquivo, «a honra esquecida dos anunx» e «a honra perdida dos anunx» nos arquivos do autor).
-- **[P2023-10-14 · O DOMÍNIO QUE NÃO SE CONQUISTOU, SE PERDEU]** "Então, compreendam que os anunx também se acham don dos humanos." (U0005); "E eles não têm a opção D." (U0020) — [REVISAR: «a opção D» — sigla não decifrada na fonte; não conjeturar.]
+- **[P2023-10-14 · O DOMÍNIO QUE NÃO SE CONQUISTOU, SE PERDEU]** "Então, compreendam que os anunx também se acham don dos humanos." (U0005); "E eles não têm a opção D." (U0020) — [REVISAR: «a opção D» — sigla não decifrada na fonte; não conjeturar. → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]
 ---
 
 ## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
@@ -136,3 +136,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 ## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
 - **Q-F040-D · CHANCELA DE ISOLAMENTO (precedente Olga, Q-F038-C):** «os deibir daqui a uns 1000 anos» (U0005) — «deibir» 1× no corpus inteiro; orfandade é fato textual e a esteira não possui o áudio da P2021-05-15. Não se gera dívida de áudio inexistente.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 95 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

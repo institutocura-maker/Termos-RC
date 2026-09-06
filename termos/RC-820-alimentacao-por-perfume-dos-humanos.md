@@ -51,6 +51,10 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica **por que os hum
 - **Humanos (RC-099)** — quem é a fonte
 
 ## Observações
-- [REVISAR]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica (alimentação por perfume humano).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica (alimentação por perfume humano).
 - **Quarentena demonológica FORTE**: o conceito **NÃO FUSIONAR com** "vampirismo energético" da literatura esotérica nem com "vampiros astrais" do kardecismo — embora haja paralelo formal, o contexto é **cosmológico-demoníaco** com mecanismo triplo (Trimurti → Soca → humanos).
 - **Conexão com o "Código Genético"**: a alimentação por perfume é o **mecanismo**; o "código genético como marca" (RC-825) é o **resultado** no DNA humano.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

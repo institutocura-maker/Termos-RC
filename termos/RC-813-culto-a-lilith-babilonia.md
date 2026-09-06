@@ -44,6 +44,10 @@ Aparece em **P2018-05-20**, U0004. Contexto: depois que Lilith foge do "curral c
 - **Anjos do Senhor** — quem tentou subjugar Lilith
 
 ## Observações
-- [REVISAR]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica.
 - **Quarentena demonológica FORTE**: a leitura do autor **NÃO FUSIONAR com** demonologia judaico-cristã acadêmica (onde Lilith é demônio) nem com mitologia sumério-babilônica acadêmica (onde Lilitu é espírito noturno).
 - **Verificável**: a existência de "Lil" como divindade babilônica é tema de acadêmicos como Raphael Patai (The Hebrew Goddess).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 47 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

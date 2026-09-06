@@ -25,7 +25,7 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
-* **[REVISAR] — adjetivo, não diagnóstico.** A fonte nega o funcionamento de certa função nesse modelo; isso não é lido como afirmação médica da Base. O par com `RC-035` é de oposição de modelos, e a oposição não virou aresta.
+* **[REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota] — adjetivo, não diagnóstico.** A fonte nega o funcionamento de certa função nesse modelo; isso não é lido como afirmação médica da Base. O par com `RC-035` é de oposição de modelos, e a oposição não virou aresta.
 * D-7 sem código novo: a obsolescência anatômica não ganhou verbete próprio, e este não foi reescrito para acomodá-la.
 * **Trava aplicável**: D-7 · D-4 · veto de trânsito por nomear classe de seres.
 
@@ -57,3 +57,8 @@ Com isso:
 | Yel (Família Yel) | RC-136 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Cérebro Radiata | RC-631 | aresta pré-existente; arquivo existe |
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 28 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

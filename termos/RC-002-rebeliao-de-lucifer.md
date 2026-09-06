@@ -28,7 +28,7 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 
 ## Ampliação — P2020-07-11
 
-- **[P2020-07-11] O entorno da rebelião (U0600–U0650):** "essa coisa do par de Tempérium (Moros/Olm) veio a recomeçar nos contornos da rebelião de Lúcifer, nas famílias biodemo, lidando com aquele contexto de Sofia, alguns com o codificador de Zian"; "a escola do codificador trabalhou alguns poucos milhões de anos; a rebelião de Lúcifer correu durante o curso: parte da turma ficou e a outra parte se rebelou"; referência aos livros "Compromisso", "Terra Atlantis" e "Testamento de Jesus" [REVISAR — obra] sobre a visita dos colegas da escola à Terra no bojo da rebelião.
+- **[P2020-07-11] O entorno da rebelião (U0600–U0650):** "essa coisa do par de Tempérium (Moros/Olm) veio a recomeçar nos contornos da rebelião de Lúcifer, nas famílias biodemo, lidando com aquele contexto de Sofia, alguns com o codificador de Zian"; "a escola do codificador trabalhou alguns poucos milhões de anos; a rebelião de Lúcifer correu durante o curso: parte da turma ficou e a outra parte se rebelou"; referência aos livros "Compromisso", "Terra Atlantis" e "Testamento de Jesus" [REVISAR — obra → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota] sobre a visita dos colegas da escola à Terra no bojo da rebelião.
 
 
 ## Ampliação — B017 (Terra Atlantis I: O Sinal de Land's End)
@@ -190,3 +190,7 @@ A cronologia (742 mil / 687 mil / 619 mil anos) vem do glossário de B031 e **pr
 - **Linhas carimbadas do lote:** ll. 80 (B2).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 31 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

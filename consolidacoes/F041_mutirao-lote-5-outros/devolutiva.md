@@ -1,5 +1,9 @@
 # F041 · Devolutiva — Lote 5 (Outros): a trincheira que não tinha inimigo
 
+## §0 · Despacho do curador (06/09/2026) — APLICAÇÃO + EXTINÇÃO DO MUTIRÃO
+
+Q-A…E todas aprovadas; 81 selos em 78 fichas; saldo oficial 25 vivas; PLANO-MUTIRAO.md carimbado; ENCERRAMENTO-DO-MUTIRAO.md lavrado. Verbatim em `DECISAO-DO-CURADOR.md`.
+
 Curador, expurguei o censo velho (105 linhas de F037 + 2 diferidas do Lote 3 = 107 reivindicações), passei as guardas constitucionais e o M2, e reli um a um os casos que o classificador chamou de «duros». Resultado: **81 flags vivas em 78 fichas**, e **zero casos que peçam decisão nova** — 13 dos supostos duros são artefatos de STT em citação (a mesma matéria que carimbatas em bloco no Lote 3), 2 são a fala se recompondo ao vivo (Abel «o primeiro. Não, mas a Bíblia...»; Maricandã já chancelado na boca do L2), e o resto cabe nos três carimbos consagrados. Proponho liquidar o lote inteiro num despacho só:
 
 **Q-F041-A (59 flags — AGUARDA-ÁUDIO em bloco):** G1 de STT/oralidade (46) + os 13 «duros» reclassificados. Selo e nota nos exatos termos da Q-F039-A que aprovaste: grafia/valor preservados como falados, zero renomeio, a flag deixa de ser dívida do mutirão.

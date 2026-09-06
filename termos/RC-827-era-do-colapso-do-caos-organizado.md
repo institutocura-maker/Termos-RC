@@ -48,7 +48,7 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de 
 - **Humanos (RC-099)** — "melhor criação do caos", também colapsando
 
 ## Observações
-- [REVISAR]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica ("era do colapso do caos organizado").
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica ("era do colapso do caos organizado").
 - **Conexão com o autor**: a palestra cita **Belquior** ("fazendo eu mesmo o meu caminho") e **Fernando Pessoa** ("o espírito desse cidadão gostaria que o eu dele tivesse lido em português") como paralelo à era do colapso — é uma era em que cada um precisa trilhar seu próprio caminho.
 - **Paralelo com física**: a "ilha de negentropia" é o conceito de **Schrödinger** ("O que é vida?") — o organismo vivo é uma "ilha de entropia negativa" no meio do caos.
 - **Conexão com P2023-12-03**: é o pano de fundo da "rebelião de Lúcifer" — a era do colapso é a era em que Lúcifer precisa se unir aos elétrons (RC-833 — 13 Livros de Lúcifer).
@@ -63,3 +63,7 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 - **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
 
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 51 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

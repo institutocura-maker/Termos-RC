@@ -34,7 +34,7 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 ## Ampliação — P2024-02-25
 
 - **Criado para a sinarquia (P2024-02-25):** 'a Trimurti havia gerado Krishna para continuar a sinarquia de Rama sobre a terra... para fazer com que um certo segmento dos Bharata devesse ganhar uma guerra em Kurukshetra para herdar o domínio da terra.'
-- **Senhor supremo:** 'se afirmou o senhor supremo, mas deixou espaço imperial para todos. Nesse ponto ele foi democrático' [REVISAR — frase do autor].
+- **Senhor supremo:** 'se afirmou o senhor supremo, mas deixou espaço imperial para todos. Nesse ponto ele foi democrático' [REVISAR — frase do autor → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota].
 - **Bhagavad Gita e o karma do devoto:** 'se você for o meu devoto e agir em nome do dharma, você não terá karma negativo' — interferência da Trimurti (Krishna/Narada) contra a teia quântica; com a morte de Krishna, 'prevalece a velha questão da teia: o que sai de um ser volta para ele'.
 - **4.000 anos de engrandecimento:** 'o eu do Senhor Parameshthi se torna bem menor e simplório do que o eu de Krishna ao longo dos 4.000 anos'; todos os templos de Brahma sumiram; Krishna criou avatares de si mesmo para engrandecê-lo.
 
@@ -204,3 +204,7 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 - **Linhas carimbadas do lote:** ll. 67 (B5a) · ll. 68 (B3) · ll. 181 (B5b).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 37 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

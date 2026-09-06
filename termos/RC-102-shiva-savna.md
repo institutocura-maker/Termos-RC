@@ -58,7 +58,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 ## Ampliação — P2023-06-24 (O Buraco Negro Mental e o Estacionamento Coletivo)
 
 - **[P2023-06-24 · A LENDA NÃO TERRENA DE SAVNA — a revelação cosmogônica]** "reza uma lenda não terrena que **SAVNA** [STT: 'Sávina', 'Sáven', 'sábana', 'Sávna', 'Sávenna' — a grafia da malha confirmada 5× na mesma fala] — **o nome que o ser dentro dessa roda, dessa bola chamado CHIVA tinha ANTES DO BALÃO** — somente aplicou a sua **FORÇA TAMÁSICA** nos termos em que o fez, **PORQUE DIVISOU QUANDO SERIA O PONTO DE INFLEXÃO da derrocada do corpo reconstruído pelo criador**... lá no início, quando o amigo dele caiu na criação, **Savna disse: 'Ih, vai ser até ali. A partir dali é que as coisas se modificam'**" — e o ajuste fino: "a força tamásica que esse ser aplicou foi quem fez Javé implodir. **Mas ele fez porque JAVÉ IMPLODIU A SI MESMO**, colecionando as piores marcações no interior dos próprios elétrons" [a confirmação da P2025-11-29: a força tamásica = a entropia dessa criação].
-- **[P2023-06-24 · A FÍSICA DE SAVNA — a resposta a Cristiane]** "**Sávenna... criou AS LEIS que fizeram com que prótons e nêutrons se unessem NO NÚCLEO ATÔMICO** para atrair o elétron — e todos os elementos químicos da tabela periódica... um próton de um núcleo não salta pro outro, **mas um elétron de um elemento químico SALTA para outro elemento químico** [levando consigo as informações]" ["uma vátima que veio a ser vígena" — [REVISAR]].
+- **[P2023-06-24 · A FÍSICA DE SAVNA — a resposta a Cristiane]** "**Sávenna... criou AS LEIS que fizeram com que prótons e nêutrons se unessem NO NÚCLEO ATÔMICO** para atrair o elétron — e todos os elementos químicos da tabela periódica... um próton de um núcleo não salta pro outro, **mas um elétron de um elemento químico SALTA para outro elemento químico** [levando consigo as informações]" ["uma vátima que veio a ser vígena" — [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]].
 - 0 códigos novos (O-3). Quarentena: biomediúnica (a lenda como relato de origem não terrena).
 
 
@@ -92,7 +92,7 @@ Um dos três da Trimurti (RC-104) — na RC, **Savna** (RC-409 ADHYSAVNA); princ
 
 ## Ampliação — P2024-11-03 (Apolônio de Tiana e o Quarto Logos)
 
-- **[P2024-11-03 — eco] MARICANDÃ E A 12ª HORA]** "há 20.000 anos atrás, CHIVA APRESENTOU-SE NA TRADIÇÃO COM MARICANDÃ [REVISAR — Murugan?], NO SUL DA ÍNDIA, para os dravidianos e outras figuras que por lá existiam e disse: 'EU SOU O DEUS PRINCIPAL dessa história'"; A 12ª HORA DO NUCTEMERON: "O FIM DA CRIAÇÃO VAI SER CARIMBADO PELA FORÇA DE UM SER CHAMADO CHIVA, QUE JÁ CRIOU UMA EXPRESSÃO DELE CHAMADA [RARA — REVISAR: RUDRA?], QUE VAI ENGOLIR A SUJEIRA QUE RESTAR DESSA CRIAÇÃO PARA VER SE ISSO SE ACABA" [⚠️⚠️ a expressão devoradora de Shiva na 12ª hora].
+- **[P2024-11-03 — eco] MARICANDÃ E A 12ª HORA]** "há 20.000 anos atrás, CHIVA APRESENTOU-SE NA TRADIÇÃO COM MARICANDÃ [REVISAR — Murugan? → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota], NO SUL DA ÍNDIA, para os dravidianos e outras figuras que por lá existiam e disse: 'EU SOU O DEUS PRINCIPAL dessa história'"; A 12ª HORA DO NUCTEMERON: "O FIM DA CRIAÇÃO VAI SER CARIMBADO PELA FORÇA DE UM SER CHAMADO CHIVA, QUE JÁ CRIOU UMA EXPRESSÃO DELE CHAMADA [RARA — REVISAR: RUDRA?], QUE VAI ENGOLIR A SUJEIRA QUE RESTAR DESSA CRIAÇÃO PARA VER SE ISSO SE ACABA" [⚠️⚠️ a expressão devoradora de Shiva na 12ª hora].
 - 0 códigos novos (O-3). Quarentena: a mitologia comparada como registro narrativo.
 
 
@@ -219,3 +219,8 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - **Linhas carimbadas do lote:** ll. 23 (B5a) · ll. 25 (B5b) · ll. 71 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 61 → AGUARDA-ÁUDIO · ll. 95 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

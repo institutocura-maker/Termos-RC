@@ -88,7 +88,7 @@ Após conferência com o vídeo da palestra, o curador confirmou que a forma cor
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Contexto Orlog/nornas (P2023-05-13) e Sete Leis (P2023-12-02):** a teia do destino (Wyrd/Urd) ecoa nas **leis de ritmo e causa e efeito** das Sete Leis Herméticas (RC-763) — "o que você pensa, você cria; o que você sente, você atrai" (nova aresta RC-763 ↔ RC-658);
-- **"Hen-Orl" [REVISAR]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas);
+- **"Hen-Orl" [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]:** noção citada junto a Moros (RC-454) — possível fonema relacionado a Orlog (registrar em Colecionar Incertezas);
 - Não há alteração da grafia canônica (Wyrd/Urd; RC-560 permanece remissão histórica).
 
 ---
@@ -161,3 +161,8 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 
 ## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
 - **Q-F040-A · ENCERRADO-RATIFICADO:** a própria fala resolve a grafia — «EU TÔ USANDO IRÉM/IRON PORQUE É A EXPRESSÃO MAIS ANTIGA QUE EU CONHEÇO, ARCA DRUÍDICA» (P2023-05-20). Equivalência IRÉM ≡ IRON lavrada por anotação, no mesmo modelo Wyrd/Nornes chancelado no Lote 2 para esta ficha.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 91 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

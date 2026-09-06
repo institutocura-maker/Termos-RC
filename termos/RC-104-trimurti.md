@@ -167,7 +167,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 
 ## Ampliação — P2023-06-03 (Os Bastidores da Ressurreição de Jesus)
 
-- **[P2023-06-03 · O COLAPSO DA TRIMURTI EM 2018 — A RESOLUÇÃO DA ANOMALIA]** **[RESOLVE o [REVISAR] "'20171'" da P2023-12-02]** "Persiste da pior forma possível: **BRAHMA E VISHNU JÁ NÃO MAIS EXISTEM no sentido como existiam antes. SÓ SHIVA OU BINÁ é que ainda funciona**... **AQUI começou biologicamente em 2007; LÁ FOI NO ANO 2018.**... **A TRIMURTI COLAPSOU IGUAL A UMA COLMEIA. SOBROU CHIVA; OS OUTROS EUS FORAM DESATIVADOS — MAS O EU DE JAVÉ AINDA PRECISA SER RESSUSCITADO LÁ NA FRENTE**... a questão são **OS HERDEIROS DA TRIMURTI que estão em GUERRA — não é mais a Trimurti**" — o paralelo colmeia/Trimurti (a confirmação independente do dossiê do buraco negro mental, P2023-06-24) + "sou uma voz solitária falando disso porque fui obrigado a assistir" ⚠️ [quarentena biomediúnica].
+- **[P2023-06-03 · O COLAPSO DA TRIMURTI EM 2018 — A RESOLUÇÃO DA ANOMALIA]** **[RESOLVE o [REVISAR → CHANCELA 2026-09-06 · F041-L5: DADO-NARRATIVO (sem código novo) — ver nota] "'20171'" da P2023-12-02]** "Persiste da pior forma possível: **BRAHMA E VISHNU JÁ NÃO MAIS EXISTEM no sentido como existiam antes. SÓ SHIVA OU BINÁ é que ainda funciona**... **AQUI começou biologicamente em 2007; LÁ FOI NO ANO 2018.**... **A TRIMURTI COLAPSOU IGUAL A UMA COLMEIA. SOBROU CHIVA; OS OUTROS EUS FORAM DESATIVADOS — MAS O EU DE JAVÉ AINDA PRECISA SER RESSUSCITADO LÁ NA FRENTE**... a questão são **OS HERDEIROS DA TRIMURTI que estão em GUERRA — não é mais a Trimurti**" — o paralelo colmeia/Trimurti (a confirmação independente do dossiê do buraco negro mental, P2023-06-24) + "sou uma voz solitária falando disso porque fui obrigado a assistir" ⚠️ [quarentena biomediúnica].
 - **[P2023-06-03 · PANKU — a cosmogonia chinesa]** "na mitologia chinesa... nada surgiu um OVO; esse ovo quebrou e saíram três coisas: o [yin], o yang e **PANKU [Pangu], o criador caído**... a própria Cabala diz: há um Deus exilado na sua própria obra... **A Cabala, para transformar uma queda num passo de dança, diz: 'mas esse Deus SE EXILOU POR AMOR'**" (a cosmogonia chinesa como o espelho do Big Bang dual: matéria × antimatéria).
 - 0 códigos novos (O-3).
 
@@ -337,3 +337,7 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **Linhas carimbadas do lote:** ll. 48 (B5b).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 170 → DADO-NARRATIVO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

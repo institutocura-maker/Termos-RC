@@ -44,5 +44,10 @@ Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pe
 - **Prometeu** (RC-270) e **Epimeteu** (RC-271) — operadores do segundo centro
 
 ## Observações
-- [REVISAR]: o conceito de "centro alquímico" tem paralelo em RC-713 (Taumaturgia Genético-Química) — são **relacionados mas distintos**: RC-713 é a técnica em si; RC-789 é o **lugar/criatório** onde ela operava.
+- [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: o conceito de "centro alquímico" tem paralelo em RC-713 (Taumaturgia Genético-Química) — são **relacionados mas distintos**: RC-713 é a técnica em si; RC-789 é o **lugar/criatório** onde ela operava.
 - Quarentena: leitura do autor; sem fusionar com alquimia hermética tradicional ou com homeopatia acadêmica.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 47 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

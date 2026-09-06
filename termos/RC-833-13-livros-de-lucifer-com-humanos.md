@@ -49,7 +49,7 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta d
 - **Humanos (RC-099)** — coautores dos 13 livros
 
 ## Observações
-- [REVISAR]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (13 livros de Lúcifer com humanos).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (13 livros de Lúcifer com humanos).
 - **Quarentena autobiográfica FORTE**: o autor revela que está **escrevendo 9 livros** (publicou 1 com Maria Helena) como parte dos **13 livros de Lúcifer com humanos**. **NÃO FUSIONAR com** plano editorial comercial ou lançamento de produto. É um **gesto simbólico e político** dentro da cosmogonia do autor.
 - **Conexão com a P2023-12-03**: a P2023-12-03 trata da "rebelião de Lúcifer ainda por ser finalizada" — os 13 livros são a forma de **finalizar a rebelião** (pelo menos parcialmente).
 - **Conexão com a P2025-04-06 (Revolução Inacabada)**: o **"fogo pode ser reacendido"** da P2025-04-06 é o mesmo gesto dos 13 livros — a revolução inacabada de Prometeu e Pandora se completa via os 13 livros de Lúcifer.
@@ -65,3 +65,7 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 - **Aya** (RC-834) e **Aye** (RC-835) — NUNCA "Aia/Aie" (STT corruptela)
 
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 52 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

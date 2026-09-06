@@ -25,7 +25,7 @@ Forma preferida: Metatron.
 ## Ampliação — P2025-05-31
 
 - **"Inteligência artificial sem autonomia" (P2025-05-31):** após a morte de Enoque, Metatron fica como um computador usado pelos anjos clones: "a lógica de Enoque ficou lá disponibilizada como sendo uma inteligência artificial na época autônoma... quando Enoque morreu, ficou inteligência artificial sem autonomia. Então qualquer um chega e usa como computador. Metatron existe ainda hoje, feito uma estátua."
-- **O "suicídio" de Enoque [REVISAR — interpretativo]:** "a urdidura do nosso amigo Enoque, sendo obrigado a se transformar em Metatron e, em algum momento da história, ele lá dentro meio que se suicidou... não suportou, o espírito dele se liberou, esse espírito voltou a nascer" — ligado às revelações progressivas (Kardec → RC).
+- **O "suicídio" de Enoque [REVISAR — interpretativo → CHANCELA 2026-09-06 · F041-L5: ISOLAMENTO (orfandade 1× no corpus — precedentes Olga/deibir) — ver nota]:** "a urdidura do nosso amigo Enoque, sendo obrigado a se transformar em Metatron e, em algum momento da história, ele lá dentro meio que se suicidou... não suportou, o espírito dele se liberou, esse espírito voltou a nascer" — ligado às revelações progressivas (Kardec → RC).
 
 
 ## Ampliação — P2024-07-14
@@ -104,3 +104,7 @@ Consultar Base.
 
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 28 → ISOLAMENTO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

@@ -48,7 +48,7 @@ Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elét
 - **As abelhas/corais (colmeias)** — quem está colapsando (biológico)
 
 ## Observações
-- [REVISAR]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (sistema arcaico mental com Javé = abelha rainha).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (sistema arcaico mental com Javé = abelha rainha).
 - **Conexão com B037 (Divina Ceia)**: o autor descreve o sistema arcaico em detalhes no livro **Divina Ceia** — a palestra cita a obra explicitamente.
 - **Paralelo com biologia**: as **colmeias** são realmente uma das formas de vida mais antigas (300 milhões de anos). Os **corais** são ainda mais antigos (500+ milhões de anos). O autor está re-inscrevendo esses fatos biológicos dentro de sua cosmogonia.
 - **Conexão com a "doença do criador" (P2017-05-14)**: a hierarquia Javé-abelhas-operárias é a manifestação mais antiga do **controle mental** de Javé — paralelo à RC-002 (Rebelião de Lúcifer) e à RC-001 (Javé como ser criador fracassado).
@@ -70,3 +70,7 @@ Correção aplicada em **2026-08-31** via fix de terminologia canônica — subs
 - "Esse livro a Divina Colmeia" (STT) e "Mostra o que abelha rainha convive com abelhas criaturas ferramentas com abelhas operárias. O DNA dessas abelhas operárias é somente para servir abelha" (STT);
 - "Javé e os anjos clones funcionam do mesmo modo" (STT) — o paralelo: os anjos-clones são "robôs cujo DNA não tem liberdade", existem para servir Javé, como as operárias servem a abelha-rainha;
 - **Ganho de anterioridade:** a metáfora já estava plenamente formulada em 2019 — a ficha ganha a primeira fala.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 51 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

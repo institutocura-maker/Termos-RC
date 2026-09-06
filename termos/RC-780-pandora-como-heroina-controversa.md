@@ -43,5 +43,9 @@ Aparece em **P2019-05-11**, U0001 (abertura — Pandora escreve livros), U0002 (
 - **Sophia / Sofia** (RC-009) — quem vai resolver a situação
 
 ## Observações
-- [REVISAR]: a palestra de 2023-11-11 reforça a tese (Pandora como "super ser humano" que extrapolou); esta ficha é a primeira fonte primária da formulação.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-11-11 reforça a tese (Pandora como "super ser humano" que extrapolou); esta ficha é a primeira fonte primária da formulação.
 - Quarentena: leitura do autor; sem fusão com hagiografia cristã (Pandora como "santa" ou "mártir") ou com mitologia grega (Pandora como "castigo de Zeus").
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 46 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

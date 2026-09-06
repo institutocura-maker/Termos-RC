@@ -42,5 +42,9 @@ Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Jav
 - **Os dois universos** (matéria + antimatéria) — o que foi criado
 
 ## Observações
-- [REVISAR]: a palestra de 2017-05-14 é a única fonte primária dessa formulação específica (ligação com a física moderna).
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2017-05-14 é a única fonte primária dessa formulação específica (ligação com a física moderna).
 - Quarentena: leitura do autor; sem fusionar com física de partículas acadêmica (CERN/LHC) ou com teologia da criação cristã.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 45 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

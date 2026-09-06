@@ -32,3 +32,10 @@ Um lote = um ciclo: DEVOLUTIVA com adjudicação linha a linha (âncora verbatim
 ## Correção de alçada descoberta na abertura (integridade)
 
 O cotejo F036/V-4 negara jurisdição do B050 sobre datas da era comum. O censo do mutirão provou o contrário: o mapa tem **Trilha D** — l. 203: «[14 a.p.] Fim do fechamento dos portais. (2012 d.C.)» e l. 204: «[11 a.p.] 2.000 A.P / 2.000 D.C. / Fim da Lila/Trimurti. (2015 d.C.)» — além de l. 87 («Surge Sophia, o primeiro biodemo», 5 bi a.p.) e ll. 46/64 (Era da Solidão = 13,8–13,3 bi ≡ os «500 milhões» do RC-808). Averbação lavrada no mapeamento do F037; as fichas afetadas serão adjudicadas pelo L1 com esses versos.
+
+
+## Carimbo de ENCERRAMENTO — 06/09/2026 (despacho Q-F041-E, curador)
+
+> «Cravado o saldo de 25 vivas oficiais (resíduo chancelado estrutural), eu declaro oficialmente extinto o MUTIRÃO REVISAR.» — despacho F041
+
+**O Mutirão REVISAR está EXTINTO.** Fila L1→L5 integralmente liquidada (F037→F041), régua histórica da dívida: **206 → 25 vivas** (as 25 são resíduo chancelado — AGUARDA-ÁUDIO/FONTE AUSENTE/afins — e reabrem apenas por portão de novas evidências, nunca por mutirão). Ledger, memórias e dossiês: F037 (L1, −11), F038 (L2, −17), F039 (L3, −76), F040 (L4, −7), F041 (L5, −81). A esteira volta ao modo vigília com a Trilha Leve.

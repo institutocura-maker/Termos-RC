@@ -40,5 +40,9 @@ Aparece em **P2018-10-06 — Humanidade em Disputa a Descendência de Pandora**,
 - **Sophia / Sofia** (RC-009) — quem vai gerenciar a transição
 
 ## Observações
-- [REVISAR]: a palestra de 2018-10-06 é a única fonte primária desta formulação exata; pode haver sobreposição conceitual com a RC-056 (Especiação em sentido amplo) — proposta: **RC-778 = especiação cósmica a partir do DNA humano especificamente**; **RC-056 = especiação em sentido amplo biológico/espiritual**.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-10-06 é a única fonte primária desta formulação exata; pode haver sobreposição conceitual com a RC-056 (Especiação em sentido amplo) — proposta: **RC-778 = especiação cósmica a partir do DNA humano especificamente**; **RC-056 = especiação em sentido amplo biológico/espiritual**.
 - Quarentena: leitura do autor; sem fusão com teorias de panspermia dirigida ou exogenética acadêmica.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 43 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

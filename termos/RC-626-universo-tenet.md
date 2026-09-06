@@ -20,7 +20,7 @@ A live apenas anuncia o tema; não fornece definição suficiente do universo.
 
 ## Ampliação — P2020-07-11
 
-- **[P2020-07-11] A ligação egípcia (U0380–U0400):** os nomes da Ogdóade (Tenemu, Tenemut, Num, Numet, Kek, Keket, Heh, Hehet) — correlacionar com o Universo TÊNET (RC-626) e a tradição de Hermópolis; a ogdóade egípcia como a fonte dos oito entes primordiais [REVISAR — correlação a validar].
+- **[P2020-07-11] A ligação egípcia (U0380–U0400):** os nomes da Ogdóade (Tenemu, Tenemut, Num, Numet, Kek, Keket, Heh, Hehet) — correlacionar com o Universo TÊNET (RC-626) e a tradição de Hermópolis; a ogdóade egípcia como a fonte dos oito entes primordiais [REVISAR — correlação a validar → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota].
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -43,3 +43,8 @@ Consultar relações acima.
 Ficha deliberadamente mínima; aguarda o evento/palestra específica.
 
 **Regra de status:** fonte recente em STT sem áudio anexado; manter candidato salvo status prévio do termo mesclado.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 23 → ENCERRADO-RATIFICADO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).

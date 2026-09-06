@@ -43,7 +43,7 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 
 - **[P2023-10-14 · O SELO DE ANU NA CARTA DE GAUZU (material inédito para a ficha)]** "E Gauzu entrega a Enque e a Enlil uma carta de recomendação com o selo de Anu." (U0005); "É, mas eu não conheço nemum o Gauzu." (U0005) — ⭐⭐ A cena do emissor desconhecido — o selo autêntico e a assinatura não reconhecida — não consta das fontes atuais da Base.
 - **[P2023-10-14 · ANU E O CONSELHO DOS SETE DIANTE DA INVASÃO]** "E Anu e o conselho dos sete ainda valiam os efeitos colaterais que a invasão na parte das forças do universo vizinho poderá provocar." (U0046)
-- **[P2023-10-14 · A EXPECTATIVA DE UMA DECISÃO QUE NÃO CHEGA]** "Então, quem vive lá em Nibiro, e tem gente viva, eles estão esperando uma decisão de Anu, que por sua vez está vinculada de Henk, em Lu, Narsag e de seus filhos que ainda estão vivos." (U0020) — [REVISAR: «Henk» — item 2 da devolutiva (leitura dupla documentada; não unificar a Enki).]
+- **[P2023-10-14 · A EXPECTATIVA DE UMA DECISÃO QUE NÃO CHEGA]** "Então, quem vive lá em Nibiro, e tem gente viva, eles estão esperando uma decisão de Anu, que por sua vez está vinculada de Henk, em Lu, Narsag e de seus filhos que ainda estão vivos." (U0020) — [REVISAR: «Henk» — item 2 da devolutiva (leitura dupla documentada; não unificar a Enki). → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -81,3 +81,7 @@ A Base já individualiza outros Anunnakis; este cadastro preserva a mesma granul
 - **Governo central de Nibiru:** "obedece basicamente a dois critérios: um, descendência genética; e dois, em caso de dúvida, os que querem o poder entram numa arena sem nenhuma arma e se resolvem sem matar ninguém" (leitura do autor);
 - **Disputa e chegada de Alalu:** Alalu, o que perdeu, veio para a Terra e descobriu o ouro (RC-589);
 - Pai de Enki (RC-486) e Enlil (RC-487) — dinastia anunnaki.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 46 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.

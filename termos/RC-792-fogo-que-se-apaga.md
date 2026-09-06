@@ -51,4 +51,8 @@ Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita um
 ## Observações
 - **Quarentena mediúnica**: a citação "Eu sou Pandora..." é literalmente o que Pandora disse via o autor — **fonte mediúnica primária**.
 - Quarentena teológica: o "fogo" é metáfora da racionalidade filosófica, **NÃO** o fogo literal do mito grego de Prometeu (que roubou o fogo dos deuses para dar aos humanos).
-- [REVISAR]: a palestra de 2023-11-11 também menciona o "fogo que se apaga" — verificar paralelos.
+- [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-11-11 também menciona o "fogo que se apaga" — verificar paralelos.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
+- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
+- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
