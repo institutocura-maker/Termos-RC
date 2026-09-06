@@ -8,7 +8,7 @@
 
 ## 1. O que o material É, medido
 
-Cruzei os 35 linhas de verbete (≈31 vocábulos distintos; 2 duplicações internas) com as 623 fichas (`termos/`) — três anéis de valor:
+Cruzei as 35 linhas de verbete (≈31 vocábulos distintos; 2 duplicações internas) com as 623 fichas (`termos/`) — três anéis de valor:
 
 **Anel A — verbetes com código próprio na KB (corroboração direta: 10):**
 Conectoma (**RC-557**), DNA (RC-217/RC-698…), Algoritmo (RC-606), Entropia (**RC-160**), Moksha (**RC-618**), Psiquismo (RC-217/RC-548), Savna (**RC-102**), Tamas/gunas (**RC-151**), Fios soltos (**RC-564**), Tikun (**RC-514**). Para todos, o GKA acrescenta *definição de dicionário* ao que hoje são ocorrências de fala/livro — matéria-prima pronta de verbete.
