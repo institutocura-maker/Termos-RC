@@ -74,3 +74,7 @@ Conceito-fio da série Mentalma. A gestão dos arquivos (abrir/fechar/eliminar) 
 - **Nirodha = recolhimento das vrittis:** "cada ser humano pratica o Nirodha, o recolhimento das vrittis no seu cérebro" (RC-760);
 - **Álbum memorial das vidas:** 3º elemento dos 256 caminhos (RC-767) — "o álbum memorial das vidas sucessivas desenvolvidas na natureza humana";
 - **Ressignificação:** "a gente educa todas as cittas, pacifica as vrittis" — os arquivos mentais como base do destino.
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Mente / caixa de depósitos»: «fluxo contínuo de símbolos, sensações e de memórias emocionais que passam pelo cérebro, mas que se ancora sempre no Eu Espiritual».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

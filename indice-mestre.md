@@ -940,6 +940,14 @@
 | RC-932 | Cidades Sagradas do Hiperbóreo | Lokas & Geografias | 3.3 Localidades terrestres | ⚪ | P2024-03-17, P2018-12-15 | RC-068; RC-398 | — |
 | RC-933 | Revelação Psíquica (Kapila — escola Samkhya) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | ⚪ | P2024-11-30, P2023-06-25, P2024-08-03 | RC-190; RC-094; RC-454; RC-092 | — |
 | RC-934 | Kris Amon (Krysamon NEAD) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | — | RC-047; RC-160; RC-102 | [✔](termos/RC-934-kris-amon-krysamon-nead.md) |
+| RC-935 | Cognição | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | — |  | [✔](termos/RC-935-cognicao.md) |
+| RC-936 | Choque de realidade | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟡 | — |  | [✔](termos/RC-936-choque-de-realidade.md) |
+| RC-937 | Mônada | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | — |  | [✔](termos/RC-937-monada.md) |
+| RC-938 | Livre-arbítrio | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | — |  | [✔](termos/RC-938-livre-arbitrio.md) |
+| RC-939 | Samkhya | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | — |  | [✔](termos/RC-939-samkhya.md) |
+| RC-940 | Samsara | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | — |  | [✔](termos/RC-940-samsara.md) |
+| RC-941 | Rebanho humano | Seres & Entidades | 1.2 Coletivos criadores | 🟡 | — |  | [✔](termos/RC-941-rebanho-humano.md) |
+| RC-942 | Hipocampo | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | — |  | [✔](termos/RC-942-hipocampo.md) |
 
 ---
 

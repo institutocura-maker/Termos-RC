@@ -224,3 +224,7 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - **Selos do lote:** ll. 61 → AGUARDA-ÁUDIO · ll. 95 → ENCERRADO-RATIFICADO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
 - **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Savna (via verbete Entropia)»: «Ser Adhyatman, de Perpérion… que mergulhou na Criação, constituindo-se como Shiva».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).

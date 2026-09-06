@@ -19,3 +19,10 @@
 ## Execução do T1 (neste ato)
 
 Canificação completa em `materiais_externos/2024-01-04_glossario-krys-amon/` (original byte a byte + traslado limpo com sha duplo + ficha de ingresso EXT-2024-01-04 + Parecer anexado); ficha-pessoa **RC-934 Kris Amon** cadastrada (após colisão evitada: RC-930 já era IEEA no registro-mestre — a guarda anti-duplicação reteve a inserção, lição lavrada no ciclo); Registro de Limpeza nº 21 emitido; caixa sem brutos; base 934 termos / 1898 relações / 0 arestas novas; T2 e T3 autorizados e na fila com alvos cravados no ciclo.
+
+
+## Execução de T2 e T3 (despacho de 06/09/2026, §1–§2 do complemento)
+
+**§1 — T2:** 16 notas «GKA corrobora» lavradas nos Anéis A+B, com a costura-mestra do verbete Entropia destacada na RC-160 e replicada nominalmente nas conexas (Tamas, Savna/Adhy-Savna, família Adhy-, queda, Tikun, Perpérion). `relacoes/` permaneceu blindado — 1898 arestas, zero nascidas do GKA.
+
+**§2 — T3:** re-censo de código executado estritamente em `dados_termos.py` ANTES de qualquer gravação (a lição da colisão IEEA virou procedimento: «livres confirmados = 935–942»); 8 fichas novas do Anel C, cada uma com o GKA declarado na tabela Fontes como **fonte secundária** e a nota «ficha nascida da expansão condicionada»; reabertura averbatória da RC-047 l. 70 com duplo assert de hash nas linhas 65 protegidas (RC-047 e RC-091). Base: **942 termos · 632 fichas · 1898 relações** — validador OK. Régua bruta: 4 menções literais (inalteradas). O F043 encerra com os três tempos executados; o restante do Anel D segue guardado na fonte, esperando Ellam.

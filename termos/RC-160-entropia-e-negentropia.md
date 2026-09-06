@@ -102,3 +102,8 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **Linhas carimbadas do lote:** ll. 29 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
+- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Entropia — COSTURA-MESTRA»: «ação desagregadora advinda da energia Tamas, de Savna (Ser Adhyatman, de Perpérion, localizado na Espiritualidade Laboratorial, e que mergulhou na Criação, constituindo-se como Shiva)… selo de garantia da finalização de uma Obra que sequer deveria ter sido iniciada».
+- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+- **COSTURA (Anel B, despacho §1):** o verbete é a única fonte escrita da Arca que encadeia nominalmente RC-160 + RC-151 (Tamas) + RC-102/RC-409 (Savna/Adhy-Savna) + família Adhy- (RC-037/310/311/411) + RC-514 (Tikun) + Perpérion (RC-047, averbada no T3). Lavrada aqui por ordem expressa; nenhuma aresta em `relacoes/`.

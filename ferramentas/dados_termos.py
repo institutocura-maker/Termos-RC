@@ -1112,6 +1112,14 @@ TERMOS = [
     ("RC-932", "Cidades Sagradas do Hiperbóreo", LOK_TER[0], LOK_TER[1], C, ['P2024-03-17', 'P2018-12-15'], 'RC-068; RC-398', False),  # G5: Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17; variante STT degradada em P2018-12-15); contagem canônica NÃO vem do "4" do doc-fonte
     ("RC-933", "Revelação Psíquica (Kapila — escola Samkhya)", COS_ESP[0], COS_ESP[1], C, ['P2024-11-30', 'P2023-06-25', 'P2024-08-03'], 'RC-190; RC-094; RC-454; RC-092', False),  # F032 Q-B: irmã estrutural de RC-190/RC-094 (lacuna DA BASE); âncora 2024-11-30 «a de kapila, foi a primeira revelacao psiquica… como kardec, ele fez a revelacao espiritual»; sem ficha até revisão
     ("RC-934", "Kris Amon (Krysamon NEAD)", SER_HUM[0], SER_HUM[1], P, [], 'RC-047; RC-160; RC-102', True),  # F043 06-09-2026 — parceiro-autor do GKA EXT-2024-01-04 (OBRA DE APOIO, não co-autoria; cadastro de proveniência lavrado por despacho; ficha RC-934)
+    ("RC-935", "Cognição", PRO_BIO[0], PRO_BIO[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-936", "Choque de realidade", PRO_ESP[0], PRO_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-937", "Mônada", SER_LOG[0], SER_LOG[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-938", "Livre-arbítrio", COS_LEI[0], COS_LEI[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-939", "Samkhya", COS_ESP[0], COS_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-940", "Samsara", COS_ESP[0], COS_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-941", "Rebanho humano", SER_COL[0], SER_COL[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-942", "Hipocampo", PRO_BIO[0], PRO_BIO[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
 ]
 
 # Relações tipadas (grafo) — (termoA, tipo, termoB, obra)

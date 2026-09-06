@@ -1,8 +1,8 @@
 id = "F043"
 tipo = "CICLO DE FONTE EXTERNA - GLOSSARIO KRYS AMON (obra de apoio) - T1/T2/T3"
 abertura = "2026-09-06"
-fase = "APLICACAO"
-status = "T1_concluido_T2_T3_autorizados_na_fila"
+fase = "APLICACAO_T2_T3"
+status = "concluido"
 altera_base = true
 
 [t1]
@@ -14,3 +14,10 @@ t2_averbacao = "notas «GKA corrobora» autorizadas (§3) p/ 10+6 clusters: RC-5
 t3_expansao = "novos códigos só p/ Anel C >=5 menções elâmicas: Cognição (35), Choque de realidade (18), Mônada (10), Livre-arbítrio (9), Samkhya (8), Samsara (6), Rebanho humano (5), Hipocampo (5) - definição GKA como fonte SECUNDÁRIA, corpus primária; fila de códigos: RC-935..RC-942 (re-censo obrigatório antes de gravar)"
 reabertura = "RC-047 l.70: chancela AGUARDA-ÁUDIO convertida em averbação definitiva (fonte escrita do parceiro grafa Perpérion; fala preservada) - autorizada §4; executar no T3 com assert byte a byte"
 
+
+[t2]
+execucao = "06/09/2026 - 16 notas GKA corrobora lavradas: 10 fichas do Anel A + 6 conexas do Anel B (RC-557, RC-217, RC-606, RC-160 COM A COSTURA-MESTRA, RC-618, RC-548, RC-102, RC-151, RC-564, RC-514, RC-409, RC-037, RC-310, RC-311, RC-411, RC-928); relacoes/ blindado e intacto; nenhuma hierarquia de fonte primária subvertida"
+
+[t3]
+execucao = "06/09/2026 - re-censo estrito em dados_termos.py ANTES de gravar (lição IEEA aplicada: livres confirmados RC-935..942); 8 fichas novas do Anel C >=5 menções (Cognição RC-935, Choque de realidade RC-936, Mônada RC-937, Livre-arbítrio RC-938, Samkhya RC-939, Samsara RC-940, Rebanho humano RC-941, Hipocampo RC-942), todas com GKA como fonte secundária declarada na tabela Fontes e nota de abertura do próprio ciclo; reabertura RC-047 l.70 convertida de AGUARDA-ÁUDIO em averbação definitiva Perpérion (asserts de hash: RC-047 l.65 95cf6f5f5f, RC-091 l.65 80ec9a033914, ambos intactos)"
+base = "942 termos / 632 fichas / 1898 relações / 102 obras - validador OK; régua bruta pós-T2/T3 = 4 menções literais (inalterada); ledger 47 resíduos chancelados (RC-047 permanece selada, agora averbada)"
