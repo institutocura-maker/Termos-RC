@@ -1,0 +1,50 @@
+{
+ "data": "2026-09-06",
+ "numero": 22,
+ "tipo": "EXECUÇÃO — F044 RECEPÇÃO do curso «Os Mistérios da Vida de Jesus» (5 .docx, revisão Curador↔áudio)",
+ "contexto": "Material depositado pelo Curador via upload web na branch (commit d4d6e056) e conciliado com a caixa. Canonizado em ciclos/F044_misterios-da-vida-de-jesus/ (brutos byte a byte + translado txt fiel + ficha de ingresso + ciclo.toml fase RECEPCAO). Datas dos eventos NÃO deduzidas de metadatas (dado narrativo não gera código de data): códigos P aguardam despacho.",
+ "regra": "EXPURGAR-SÓ-CANONIZADO (perpetuada): zero conteúdo deletado sem cópia fiel canônica com checksum.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/01-Adolescência e a Juventude de Jesus.docx",
+   "bytes": 31704,
+   "sha256": "ed4e4c496fcc9148b76a812e98459146f6fa4440e7e3f0a7f82e97a97b193312",
+   "destino": "ciclos/F044_misterios-da-vida-de-jesus/brutos/01-Adolescência e a Juventude de Jesus.docx"
+  },
+  {
+   "nome": "uploads_recepcao/02-Os Anos de Pregação e a Promessa do Retorno.docx",
+   "bytes": 36540,
+   "sha256": "cf80fde6b73dee22e2fa880ebf97ac60a85fc09f353fb1ef6e2e1e97b12d9b13",
+   "destino": "ciclos/F044_misterios-da-vida-de-jesus/brutos/02-Os Anos de Pregação e a Promessa do Retorno.docx"
+  },
+  {
+   "nome": "uploads_recepcao/03-Dias Difíceis- Crucificação e Ressureição.docx",
+   "bytes": 53071,
+   "sha256": "a61f6cceb6a47c7279702769993e328721400d473be76cc31efd05fc54698d98",
+   "destino": "ciclos/F044_misterios-da-vida-de-jesus/brutos/03-Dias Difíceis- Crucificação e Ressureição.docx"
+  },
+  {
+   "nome": "uploads_recepcao/04-O Nascimento do Cristianismo.docx",
+   "bytes": 57301,
+   "sha256": "106e19654b72dd70f70d3045eda953e3a8c2b52b66f62b078069420fe05951d3",
+   "destino": "ciclos/F044_misterios-da-vida-de-jesus/brutos/04-O Nascimento do Cristianismo.docx"
+  },
+  {
+   "nome": "uploads_recepcao/05-A Verdadeira Face de Maria Madalena.docx",
+   "bytes": 38752,
+   "sha256": "e2896e5f3496b05d7d3d57649355fae871e3ad2700cc08f4561b7d28c230ec45",
+   "destino": "ciclos/F044_misterios-da-vida-de-jesus/brutos/05-A Verdadeira Face de Maria Madalena.docx"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/01-Adolescência e a Juventude de Jesus.docx",
+  "uploads_recepcao/02-Os Anos de Pregação e a Promessa do Retorno.docx",
+  "uploads_recepcao/03-Dias Difíceis- Crucificação e Ressureição.docx",
+  "uploads_recepcao/04-O Nascimento do Cristianismo.docx",
+  "uploads_recepcao/05-A Verdadeira Face de Maria Madalena.docx"
+ ],
+ "aptos_para_ordem_de_remocao": [
+  "todos os 5 — SIM (sha256 da cópia canônica idêntico ao do bruto recebido, verificado antes do expurgo)"
+ ],
+ "observacao": "Complementa o commit 700ba03e2 (chamada quebrada por TOML não-ASCII — lição «TOML só ASCII» relavrada): a ficha de ingresso já estava lavrada; este registro fecha o rito (verificação canônica + expurgo + contabilidade). Zero mutação na base (942/632/1898/102); relacoes/ intocado; caixa volta a zero brutos."
+}

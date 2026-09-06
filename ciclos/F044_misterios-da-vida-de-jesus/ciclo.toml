@@ -15,5 +15,5 @@ qualidade = "transcrição revisada linha a linha pelo Curador contra o áudio; 
 
 [pendencias_despacho]
 codigos_p = "datas reais das 5 aulas (metadatas do docx NÃO valem: datas de salvação da revisão)"
-anéis = "mapeamento integral contra dados_termos.py antes de qualquer ficha nova"
+aneis = "mapeamento integral contra dados_termos.py antes de qualquer ficha nova"
 receita = "executar em sessão nova; relacoes/ blindado; cluster RC-072/005/280 para EXPANDIR, não substituir"
