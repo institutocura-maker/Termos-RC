@@ -1,0 +1,35 @@
+# Dossiê de consolidação — F044 · «Os Mistérios da Vida de Jesus» (curso Ellam, 5 aulas)
+[fase]
+id = "F044"
+nome = "Curso: Os Mistérios da Vida de Jesus (5 aulas · 57.179 palavras)"
+fase = "CENSO_E_DOSSIE"
+status = "censo_integral_e_aneis_prontos_aguardando_despacho_ab"
+
+[corpus]
+recepcao = "ciclos/F044_misterios-da-vida-de-jesus/ (brutos byte a byte + translado fiel)"
+palavras = 56423
+registro_limpeza = 22
+fontes_pendencias = "datas reais das 5 aulas (metadados dos docx NAO valem)"
+
+[escopo_despacho_2026_09_06]
+datas = "pendentes - sem codigo P (dado narrativo nao gera codigo de data)"
+alcance = "censo integral + dossie com aneis; executar apenas aneis A/B"
+aneis_c_d = "codigos novos (C) e guardados (D) apenas com novo despacho"
+
+[dossie]
+censo = "censo.md"
+mapeamento = "mapeamento.md"
+devolutiva = "devolutiva.md"
+aneis_A = "20 fichas (corroboracao/somente fonte)"
+aneis_B = "10 fichas (ampliacao + verbatim)"
+aneis_C = "~20 conceitos sem codigo fiel (aguardando despacho)"
+aneis_D = "genealogias/lugares/contexto (guardado)"
+flag_duplicidade = "RC-193 x RC-941 Rebanho humano (mesmo nome; merge/alias recomendado)"
+
+[relacoes]
+blindado = true
+arestas_novas = 0
+
+[estado]
+validador_base = "OK: 942 termos, 1898 relacoes"
+base_intocada = true
