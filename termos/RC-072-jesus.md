@@ -408,9 +408,24 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 - **[Sofia/Rockma criado há 6 bilhões de anos — único avatar biológico da turma fatiada]:** «Devido aos problemas de Narasimha, a criação de um avatar na condição biológica nesse universo era a única opção para a condição daiva de Vishnu. Foi assim que surgiu a figura de Rockma ou Sofia. Há cerca de 6 bilhões de anos atrás, esse ser foi criado para existir nesse universo material [...] E ele é o único avatar criado pela turma fatiada daqui no universo biológico.» — ver RC-009 (Sophia).
 
 
+## Ampliação — P2023-12-25-01 (Aula 01 — Adolescência e a Juventude de Jesus)
+
+- **«Jesus não era um avatar de Javé ou Brahma, era um avatar de Vishnu, emprestado a Brahma»**
+- **«Jesus foi amplamente noticiado. Nenhum outro avatar foi tão noticiado quanto Jesus.»**
+- Aula 01 fixa com precisão o enquadramento de Jesus no panteão: **não** é avatar de Javé/Brahma, mas **avatar de Vishnu emprestado a Brahma**, e sublinha a **notoriedade** ímpar entre os avatares. Corrobora o vínculo RC-072 ↔ RC-135 (Vishnu).
+
+
+## Ampliação — P2023-12-25-02 (Aula 02 — Os Anos de Pregação e a Promessa do Retorno)
+
+- **«Jesus, depois de muita hesitação, depois de muita cobrança da parte dos seus familiares»**
+- Aula 02 descreve a **hesitação** de Jesus e a pressão familiar/disciplular (João Batista) que o arrasta ao batismo — reforça a recusa da agenda messiânica já registrada na ficha.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
+| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 

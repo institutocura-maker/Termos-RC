@@ -28,9 +28,15 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 
 - **[O membro típico do rebanho] (U0007)** «Pergunto então: como se comporta o membro típico do rebanho humano?» — a pergunta do autor "sob a ótica nitiana" (STT = nietzschiana; grafia sem emenda): "a resposta seria o modo com que os cristãos islâmicos se comporta terrivelmente simplório, sem ousadia, sem criatividade" (STT "cristãos islâmicos" = cristãos e islâmicos; sem emenda); "É um modo que vicia o ser humano a pedir sempre. É um modo medroso e é um modo covarde, submisso, porque a gente tem medo de ser independente" (U0007: «É um modo que vicia o ser humano a pedir sempre.»); na atualidade, "uma parte da humanidade totalmente arrebanhada à moda cristã... Outra parte totalmente arrebanhada à moda islâmica".
 
+## Ampliação — P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
+
+- **«rebanho humano»** — «esse é o pior retrato do rebanho humano da atualidade».
+- Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193. Ver flag de duplicidade RC-193 × RC-941 (não resolvida aqui).
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-07-14 | U0025–U0050 | palestra/STT |
 | B044 | — | obra |

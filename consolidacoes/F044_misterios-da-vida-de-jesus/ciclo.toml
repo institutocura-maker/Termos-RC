@@ -2,28 +2,45 @@
 [fase]
 id = "F044"
 nome = "Curso: Os Mistérios da Vida de Jesus (5 aulas · 57.179 palavras)"
-fase = "CENSO_E_DOSSIE"
-status = "censo_integral_e_aneis_prontos_aguardando_despacho_ab"
+fase = "APLICACAO_ANEIS_A_B"
+status = "aplicacao_concluida_fecho_espelhos"
 
 [corpus]
 recepcao = "ciclos/F044_misterios-da-vida-de-jesus/ (brutos byte a byte + translado fiel)"
 palavras = 56423
 registro_limpeza = 22
-fontes_pendencias = "datas reais das 5 aulas (metadados dos docx NAO valem)"
 
-[escopo_despacho_2026_09_06]
-datas = "pendentes - sem codigo P (dado narrativo nao gera codigo de data)"
-alcance = "censo integral + dossie com aneis; executar apenas aneis A/B"
-aneis_c_d = "codigos novos (C) e guardados (D) apenas com novo despacho"
+[fontes_p2023_12_25]
+decisao_curator = "2026-09-06 - P2023-12-25 (curso online lançado no Natal de 2023); sufixo -01..-05 por aula"
+codigos = ["P2023-12-25-01","P2023-12-25-02","P2023-12-25-03","P2023-12-25-04","P2023-12-25-05"]
+distribuicao = {
+  "P2023-12-25-01": "Aula 01 - Adolescência e a Juventude de Jesus",
+  "P2023-12-25-02": "Aula 02 - Os Anos de Pregação e a Promessa do Retorno",
+  "P2023-12-25-03": "Aula 03 - Dias Difíceis: Crucificação e Ressurreição",
+  "P2023-12-25-04": "Aula 04 - O Nascimento do Cristianismo",
+  "P2023-12-25-05": "Aula 05 - A Verdadeira Face de Maria Madalena",
+}
 
-[dossie]
-censo = "censo.md"
-mapeamento = "mapeamento.md"
-devolutiva = "devolutiva.md"
-aneis_A = "20 fichas (corroboracao/somente fonte)"
-aneis_B = "10 fichas (ampliacao + verbatim)"
-aneis_C = "~20 conceitos sem codigo fiel (aguardando despacho)"
-aneis_D = "genealogias/lugares/contexto (guardado)"
+[escopo]
+datas = "RESOLVIDO 2026-09-06 pelo Curador (P2023-12-25-0N)"
+alcance = "Camada 2 - Anéis A/B; sem criação de código novo; relacoes/ blindado (0 arestas)"
+
+[execucao_aplicacao_a_b]
+registro_fontes_inserted = 27
+fichas_ampliadas = 10
+sessoes_ampliacao = 11
+anel_A_codes = 17
+anel_B_codes = 10
+verbatim_confirmado = true
+base_final = "942 termos / 632 fichas / 1898 relações / 102 obras"
+relacoes_arestas_novas = 0
+
+[aneis_C_pendente_despacho]
+messias_ocorrencias = 73
+maria_madalena = 62
+joao_batista = 26
+padres_igreja = "Dâmaso 23 · Jerônimo 20 · Agostinho 19 · Irineu 9"
+materializar = "RC-887 Nag Hammadi (6x) · RC-862 Essênios (39x) - fila aberta, aguardando despacho"
 flag_duplicidade = "RC-193 x RC-941 Rebanho humano (mesmo nome; merge/alias recomendado)"
 
 [relacoes]
@@ -32,4 +49,5 @@ arestas_novas = 0
 
 [estado]
 validador_base = "OK: 942 termos, 1898 relacoes"
-base_intocada = true
+espelhos = "indice-mestre.md 942 linhas · xlsx (7 abas) · docx (942/632/1898/102) - todos OK"
+base_intocada = false

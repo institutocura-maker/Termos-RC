@@ -142,10 +142,17 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 - **[O erro de retrabalhar as gunas] (U0014)** «Que o ser humano ou que qualquer ser tem que retrabalhar essas três energias ou códigos para poder resolver a situação dos elétrons desse universo.» — o erro: os Vedas e Upanishads acertam que as gunas (rajas, sattva, tamas) estão em cada um, mas erram ao ensinar que o ser deve retrabalhar as três energias para resolver a situação dos elétrons — os seres do outro lado se ferraram tentando isso; os yogis foram "vítimas desse mal-entendido".
 
 
+## Ampliação — P2023-12-25-02 (Aula 02 — Os Anos de Pregação e a Promessa do Retorno)
+
+- **«o modus operandi que o seu genoma trazia do ser chamado rockmah ou Sophia»**
+- Aula 02 usa a grafia **«rockmah»** (= Hochmah) e o liga explicitamente a **Sophia**; a aula 01 introduz **«em hebraico esse ser se chama Hohkmah»**. Confirma o par Hochmah=Sophia.
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
 | P2022-12-03 | O Ocaso do Criador e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 | P2023-02-11 | Agente Humano Jesus e os Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |

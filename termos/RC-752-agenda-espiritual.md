@@ -21,10 +21,17 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 - superação: o eu humano pode **dar conta da agenda do espírito e criar uma nova agenda** com a própria vontade;
 - relação com o favor divino (RC-332) e com o papel de criatura-ferramenta (RC-164).
 
+## Ampliação — P2023-12-25-01 (Aula 01 — Adolescência e a Juventude de Jesus)
+
+- **«O homem Jesus estava se recusando a cumprir a agenda de seu próprio espírito»**
+- Aula 01 cunha a expressão **«agenda do seu próprio espírito»** e o messianato hesitado — núcleo da AGENDA ESPIRITUAL (RC-752).
+
+
 ## Fontes
 
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-25-01 | Aula 01 — Adolescência e a Juventude de Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-04-14 | blocos centrais ("Existir é ter uma agenda espiritual para cumprir"; encomenda; nova agenda) | palestra/STT pré-curada |
 
 ## Citação-chave

@@ -4,7 +4,7 @@
 **Corpus:** `ciclos/F044_misterios-da-vida-de-jesus/translado/*.txt` (5 aulas · ~56.423 palavras)
 **Registro-mestre:** `ferramentas/dados_termos.py` (942 termos · 632 fichas · 1898 relações)
 **Censo de código:** executado em Python contra o **registro-mestre** (NUNCA contra nomes de `termos/` — lição IEEA). Relatório numérico: `censo.md`.
-**Datas:** **PENDENTES** — este mapeamento **não cria código de data** (metadatas dos docx = datas de salvação, não do evento).
+**Datas:** **DESPACHADAS (06/09/2026)** — **`P2023-12-25`** (curso online lançado no Natal de 2023), sufixo **`-01`…`-05`** por aula. Só a data real do evento despachada pelo Curador gera código P (nada de dado narrativo).
 
 ---
 
@@ -127,5 +127,5 @@
    - «João» majoritário = **João Batista / João Evangelista** (RC-855); não há código de João Batista (→ Anel C).
 2. **DUPLICIDADE DETECTADA — FLAG ao Curador:** **RC-193 «Rebanho humano»** (ficha=True) e **RC-941 «Rebanho humano»** (ficha=False, da F043-Anel C) **são o mesmo nome** no registro-mestre. Isso é uma **violação de anti-duplicação** pré-existente (F043). **Não mexi** (códigos imutáveis); **recomendo merge/alias documentado** via despacho.
 3. **«São/ead» não é flag:** o curso não usa o vocabulário das palestras 2023 (Reb. Elétrons 0, conectoma 0, Perpérion 0) — confirma o cluster RC-072/005/280 como **eixo a expandir**, não a substituir.
-4. **Fonte F044:** a referência está **provisória**. Como os P‑códigos estão pendentes, a notação sugerida na ficha é **`F044-aula-0N`** (deixando `P20XX-XX-XX` para backfill assim que o Curador despachar as datas reais). **Nada de código de data por dado narrativo.**
+4. **Fonte F044:** a referência está **provisória**. Como os P‑códigos estão pendentes, a notação sugerida na ficha é **`P2023-12-25-0N`** (deixando `P20XX-XX-XX` para backfill assim que o Curador despachar as datas reais). **Nada de código de data por dado narrativo.**
 5. **`relacoes/` BLINDADO:** nenhuma aresta atribuída neste mapa. Zero arestas novas.

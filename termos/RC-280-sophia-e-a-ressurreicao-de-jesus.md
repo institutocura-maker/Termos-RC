@@ -37,9 +37,17 @@ Com isso:
 
 - **[Ressurreição: termo inadequado] (U0003)** «Porque ele precisava sumir com o corpo defunto para devolver os elétrons na forma do código para Rockman, que havia emprestado esse geno.» — 'ressuscitar' é termo inadequado (RC-280): o corpo defunto sumiu para 'devolver os elétrons na forma do código para Rockman', que havia emprestado o genoma.
 
+## Ampliação — P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
+
+- **«Pôncio Pilatos queria logo produzir para ninguém acreditar que Jesus ressuscitou»**
+- **«Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente»**
+- Aula 03 dá a **versão político-jurídica da ressurreição** (suborno do centurião por José de Arimatéia; Pilatos pressionado por Caifás/Anás) e a **revelação pós-ressurreição** intermediada por **Madalena** — expande o eixo Sophia/Ressurreição.
+
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição (curso) | — | citação verbatim |
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra) | — | transcrição automatizada; citação |
 | B014 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

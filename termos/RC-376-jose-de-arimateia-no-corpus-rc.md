@@ -32,9 +32,15 @@ Com isso:
 
 - **[José de Arimatéia, 'segundo pai' de Jesus] (U0043)** «José de Arimateia foi um espécie de segundo pai de Jesus.» — José de Arimatéia (RC-376) foi uma espécie de 'segundo pai' de Jesus: riquíssimo (minas, caravanas, cidadania romana), sustentava a carpintaria de Jesus e Tiago sem se impor.
 
+## Ampliação — P2023-12-25-03 (Aula 03 — Dias Difíceis: Crucificação e Ressurreição)
+
+- **«José de Arimateia»** — «A Europa é uma viagem dos tempos em que José de Arimateia financiava. As caravanas...»
+- Aula 03 confirma o papel de **José de Arimateia** como financiador/tutor do Jesus jovem (as caravanas e as viagens) — já registrado na ficha (RC-376).
+
 ## Fontes
 | Obra (sigla) | Título | Página | Tipo |
 |---|---|---|---|
+| P2023-12-25-03 | Aula 03 — Dias Difíceis: Crucificação e Ressurreição (curso) | — | citação verbatim |
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 | B043 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B011 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |

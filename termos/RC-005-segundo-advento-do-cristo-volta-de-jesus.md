@@ -177,7 +177,14 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 - **[Segundo Advento — Sofia, não o espírito de Jesus]:** «Depois disso é a chegada dele, dele quem? Sofia nos termos do Apocalipse. Mas aí já não era o espírito de Jesus aparecendo ressuscitado. Era Sofia, que é um ser biológico da nave dele se projetando com tecnologia e seus anjos aparecendo para alguns humanos.» — ver RC-274 (Cápsula do Tempo), RC-009 (Sophia).
 
 
+## Ampliação — P2023-12-25-02 (Aula 02 — Os Anos de Pregação e a Promessa do Retorno)
+
+- **«Retorno»**
+- O título da própria aula 02 («…e a Promessa do Retorno») e o verbatim da apostila ecoam o **Segundo Advento** — o prometido retorno na condição do Cristo Cósmico.
+
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
+| P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |

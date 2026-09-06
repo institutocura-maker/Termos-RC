@@ -53,9 +53,16 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 - **[A remoção do livro de Enoque pelo grupo de Jerônimo] (U0070)** «O livro de Enoque sumiu.» — a queima de arquivo institucional: o grupo comandado por Jerônimo removeu o livro de Enoque do cânone bíblico; «menos o livro de Enoque» (U0070: «menos o livro de Enoque.»); o mesmo padrão de Niceia 325 (o que seria verdade definido pelo Império Romano); STT «século» (sem número — o STT trai); RC-273 religião institucional; RC-672.
 
 
+## Ampliação — P2023-12-25-04 (Aula 04 — O Nascimento do Cristianismo)
+
+- **«O Concílio de Nicéia, ferou com Ário, ferrou com o Arianismo e surgiu então o que? Os trinitaristas.»**
+- Aula 04 narra o **Concílio de Niceia** e a imposição do trinitarismo (Ário derrotado) — corrobora e amplia a Falsa Trindade (RC-273).
+
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|
+| P2023-12-25-04 | Aula 04 — O Nascimento do Cristianismo (curso) | — | citação verbatim |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-19 | No Princípio era o Bem! Será (palestra) | — | transcrição automatizada; citação |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
