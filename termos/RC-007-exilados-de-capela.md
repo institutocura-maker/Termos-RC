@@ -44,7 +44,7 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR]) → 900Q]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
+- **[P2020-04-25 · A TRANS MIGRAÇÃO: 1.641 → 936 (experiência Gron [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota]) → 900Q]** "22.000 anos. Dos 1641 seres que tinham biodemos aqui, cerca de 936 fizeram a opção de se eh alinhar com a experiência Gron." (U0006) — **D-10:** os três números ficam **listados**, com o endereço de cada; não se escolhe um. O nome «Gron» é hipotético (Gron/Cronos?) — [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota] obrigatório. · ⭐ **NOTA DE ANTERIORIDADE — P2020-04-25:** antecipa **35 meses** a atual fonte oral mais antiga da ficha (`P2023-04-01`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2020-04-25 · A ESCOLA DE CAPELA: 3–4 Ma, substanciada há ~2 Ma]** "a escola que surgiu não entre aspas, recentemente lá nos mundos de capela, três, 4 milhões de anos atrás, essa escola se substanciou mesmo dois dois 1 milhão de anos no sentido de as tarefas eram existem feridas na realidade, precisamos descobri-las." (U0006) — Contagem medida: «Capela» **1** ocorrência no bruto — a ficha não pode inflar esta fonte. ⚠️ «capelinos» = **0** ocorrências.
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
@@ -98,3 +98,7 @@ Verificar nas obras primárias: a relação com a doutrina espírita dos "exilad
 - **Linhas carimbadas do lote:** ll. 62 (B2).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 47 (AG/AG).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

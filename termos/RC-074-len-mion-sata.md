@@ -63,7 +63,7 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 ## Ampliação — P2020-04-25 (Os Desdobramentos da Rebelião de Lúcifer)
 
-- **[P2020-04-25 · LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS [REVISAR: Len Mion]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
+- **[P2020-04-25 · LEMION E MUITOS COM ELE AINDA NÃO FORAM EXILADOS [REVISAR: Len Mion → CHANCELA 2026-09-06 · F042-VARREDURA: ISOLAMENTO (orfandade 1× no corpus — precedente Olga/deibir) — ver nota]]** "Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013) — **D-7:** grafia preservada, hipótese declarada. Afirmação **contra** o estado da ficha: o ciclo a registra como divergência datada, não como correção. · 🆕 **primeira fonte oral desta ficha** — o cadastro só tinha `B031`, `B017`, `B018`, `B039`, `B057`, `B058`, `B060`, `P2021-03-27; RC-286`, `P2020-04-25`; `P2020-04-25` entra como a primeira fala registrada, **com a data de 25/04/2020**.
 - **[P2020-04-25 · A NOVA RAÇA COMO REPARAÇÃO, NÃO COMO PUNIÇÃO]** "única coisa decente que Sofia podia ter feito em relação a Lemion, porque eh Lemion e muitos com ele ainda não foram exilados uma pane maluca nesse negócio aí de exílio espiritual." (U0013); "Pergunta muito interessante que vai ser bilatéria, vai." (U0013)
 
 
@@ -141,3 +141,7 @@ Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comp
 ## Nota de blindagem — F031 aplicação (05/09/2026)
 
 - Espelho da nota em RC-142: o doc-fonte «1-EDR-O Livro» propunha fundir Satã/Len Mion (família Mion, Tau Ceti) com Yel Luzbel (família Yel); a fonte-mãe mantém os dois papéis distintos — contágio × agente. Separação **RC-074 × RC-142** reafirmada; nenhuma afirmação do doc foi incorporada (ledger D-1).
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 66 (IS).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

@@ -63,4 +63,8 @@ A régua bruta token-a-token fecha em **27**, não 25: além das duas fronteiras
 
 Duas notas de guarda: (i) a linha da RC-091 incluída no inventário **não é necessariamente a l. 65** (ABERTA, intocável por ordem permanente) — qualquer F042 de fecho há de reler byte a byte; (ii) a liquidação desses 27 seria um carimbo só (AGUARDA-ÁUDIO/resíduo, sem decisões de vontade) — **um despacho mínimo do curador**, se quiser o zero absoluto na régua bruta; ou ficam como «resíduo documentado» sob esta certidão. O mutirão não avança sozinho.
 
+## Pós-escrito — F042 EXECUTADO (06/09/2026, microdespacho Q-F042-A…C)
+
+A varredura liquidou as 22 flags reais do inventário (AG 14 · RATIFICADO 4 · FONTE AUSENTE 3 · ISOLAMENTO 2) em 18 fichas; das 27 contagens brutas, 5 ficaram sem selo por direito próprio: 1 já adjudicada em formato alternativo (RC-102) e 4 menções literais ao marcador (RC-036 l. 54; RC-777 ll. 11/19/68), que texto assinado não apaga. A RC-091 l. 65 permanece ABERTA e intocada (assert de hash lavrado). **Régua final do repositório: 22+ selados, bruta em 4 menções estruturais, oficial em 47 resíduos chancelados.** Detalhe em `consolidacoes/F042_varredura-residuo/`.
+
 A Arca do Conhecimento está purificada. Vigília com a Trilha Leve retomada.

@@ -81,7 +81,7 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 
 ## Ampliação — P2023-04-01 (Reintegração Cósmica: Tempo de Ruptura)
 
-- **[P2023-04-01 · O CÓDIGO MICROBIANO E OS TRÊS FORNOS — a grafia normalizada]** "Quando a gente fala em vírus, protozoários, bactérias, a gente tá falando na forma mais minúscula de vida... ISSO AQUI É O CÓDIGO DO CRIADOR QUE VEIO DE LÁ PARA CÁ. Em um dos livros últimos que eu lancei chamado ALÉM DA ORDENAÇÃO DO CAOS, A FACE MICROBIANA DO CRIADOR [B064 — a variação documentada], é exatamente isso que eu tenho a explicar"; **OS TRÊS FORNOS REPLICADORES (a grafia fonética da raiz)**: "a vida biológica foi replicada através de TRÊS FORNOS REPLICADORES... **de AWAAIEN, AON E AINGAN** [a grafia desta fonte — NORMALIZANDO o [REVISAR] 'Aaion/Aá Maayon/awailingan' da P2023-04-15; fonética a confirmar], PORQUE ERA UM FORNO PARA CADA UM DOS TRÊS SENHORES da trimúrti ou da tríade"; o transfer: "o código de vida do criador foi transferido do universo vizinho pro daqui" — "a vida primeiro aconteceu lá, nos primeiros 7 bilhões de anos desse universo vizinho... não existia vida no nosso universo" [RC-280 no pacote].
+- **[P2023-04-01 · O CÓDIGO MICROBIANO E OS TRÊS FORNOS — a grafia normalizada]** "Quando a gente fala em vírus, protozoários, bactérias, a gente tá falando na forma mais minúscula de vida... ISSO AQUI É O CÓDIGO DO CRIADOR QUE VEIO DE LÁ PARA CÁ. Em um dos livros últimos que eu lancei chamado ALÉM DA ORDENAÇÃO DO CAOS, A FACE MICROBIANA DO CRIADOR [B064 — a variação documentada], é exatamente isso que eu tenho a explicar"; **OS TRÊS FORNOS REPLICADORES (a grafia fonética da raiz)**: "a vida biológica foi replicada através de TRÊS FORNOS REPLICADORES... **de AWAAIEN, AON E AINGAN** [a grafia desta fonte — NORMALIZANDO o [REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota] 'Aaion/Aá Maayon/awailingan' da P2023-04-15; fonética a confirmar], PORQUE ERA UM FORNO PARA CADA UM DOS TRÊS SENHORES da trimúrti ou da tríade"; o transfer: "o código de vida do criador foi transferido do universo vizinho pro daqui" — "a vida primeiro aconteceu lá, nos primeiros 7 bilhões de anos desse universo vizinho... não existia vida no nosso universo" [RC-280 no pacote].
 - 0 códigos novos (O-3). Quarentena: científica.
 
 
@@ -169,3 +169,8 @@ O Projeto Talm é apresentado como transferência do código plasmático Nidana 
 - **Linhas carimbadas do lote:** ll. 28 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 84 (AG).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+- **Blindagem Q-F042-B cumprida:** a l. 65 (flag ABERTA, intocável) foi preservada byte a byte — assert explícito na execução; o selo incidiu apenas na l. 84 (normalização de grafia da fonte, sem relação com a protegida).

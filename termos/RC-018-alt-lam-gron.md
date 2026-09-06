@@ -96,7 +96,7 @@ editada por este ciclo.
 * **[REVISAR → CHANCELA 2026-09-06 · F041-L5: ISOLAMENTO (orfandade 1× no corpus — precedentes Olga/deibir) — ver nota] — o censo é da fala, não da Base.** «938 figuras» e «uns 600 e poucos» na Terra pertencem a um só
   fôlego de 03/12/2023 e não foram reconciliados com os 936/900Q dos ciclos anteriores nem com os 13 membros de
   `RC-491`. Registrar a divergência datada é o serviço desta ficha; resolvê-la é decisão curatorial.
-* **[REVISAR] — evento datado.** A visita («Sofia esteve aqui nos anos 2018, 19») é a única data *recente* que esta
+* **[REVISAR → ENCERRADO 2026-09-06 · F042-VARREDURA: RATIFICADO — registro de fala/leitura do autor ratificado — ver nota] — evento datado.** A visita («Sofia esteve aqui nos anos 2018, 19») é a única data *recente* que esta
   fonte aplica a um objeto da malha; não virou relação, não virou cronologia da ficha e não foi confrontada com as
   datas de aparição já registradas em outras fichas.
 * Esta ficha **não** afirma que a nave exista fisicamente no Atlântico Norte: transcreve, com endereço, a afirmação
@@ -105,3 +105,7 @@ editada por este ciclo.
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
 - **Selos do lote:** ll. 96 → ISOLAMENTO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 99 (RA).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

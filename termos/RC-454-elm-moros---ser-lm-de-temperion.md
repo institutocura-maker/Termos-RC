@@ -62,7 +62,7 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 
 ## Ampliação — P2024-07-13
 
-- **[P2024-07-13] As setas de Moros (U0450–U0460):** "a Terra já era famosa por esconder as setas de Moros, por terce um problema que surgiu quando esses dois universos surgiram: 5 bilhões de anos depois, houve o problema de Moros com os três seres da Trimurti, Brahma, Vishnu e Shiva. E ele escondeu as setas, ninguém sabia onde" [REVISAR — "setas de Moros" fora da base].
+- **[P2024-07-13] As setas de Moros (U0450–U0460):** "a Terra já era famosa por esconder as setas de Moros, por terce um problema que surgiu quando esses dois universos surgiram: 5 bilhões de anos depois, houve o problema de Moros com os três seres da Trimurti, Brahma, Vishnu e Shiva. E ele escondeu as setas, ninguém sabia onde" [REVISAR — "setas de Moros" fora da base → CHANCELA 2026-09-06 · F042-VARREDURA: FONTE AUSENTE DA ARCA (matéria fora da base) — ver nota].
 
 
 ## Ampliação — P2020-07-11
@@ -295,3 +295,7 @@ O eBook *Moros — O Livro* não é fonte canônica. Não incorporar: `Ealm`, Ph
 - **Linhas carimbadas do lote:** ll. 99 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 65 (FA).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

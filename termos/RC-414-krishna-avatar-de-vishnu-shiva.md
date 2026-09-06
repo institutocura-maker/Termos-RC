@@ -25,7 +25,7 @@ Avatar hindu — na RC, avatar de Vishnu (e correlacionado a Shiva), "pretenso K
 - **Rama e a sinarquia (RC-584):** ordem de reinar na Terra respeitada pelos arcontes; destruída pela guerra de Kurukshetra entre as famílias que mantinham a dinastia.
 - **Criação de Krishna:** CFD dos três senhores da Trimurti para servi-los; "se achou maior que os três e de fato era" — obrigou a Trimurti a venerá-lo; crise geral no conselho (últimos ~5.000 anos).
 - **Perda do corpo Adhyajna (RC-016):** maldição da rainha Gandhari (STT "Gandares"; esposa de Dhritarashtra — STT "Diriarastra") no Mahabharata → Krishna perde a forma de arconte clássico (ser astralizado).
-- **Caitanya Mahaprabhu (STT "Caetânia Mahaprabu"):** revitalizou o culto a Krishna ([REVISAR] "século X" — cronologia interna; Caitanya é tradicionalmente séc. XV/XVI).
+- **Caitanya Mahaprabhu (STT "Caetânia Mahaprabu"):** revitalizou o culto a Krishna ([REVISAR → CHANCELA 2026-09-06 · F042-VARREDURA: AGUARDA-ÁUDIO (órfã de censo; grafia preservada como falada) — ver nota] "século X" — cronologia interna; Caitanya é tradicionalmente séc. XV/XVI).
 - **Zoroastro:** a disputa Ahura Mazda × Arimã (STT "Urazda") = brigas Brahma×Krishna e Jesus×Krishna (leitura do autor).
 - **Geopolítica da devoção:** manipula a epifania; Índia como reino terrestre (18h diárias de adoração); templos bramânicos → vaishnavas.
 - **Decisão recente:** teria conversado com Shiva e "baixado as armas mentais", alinhando-se ao inevitável — abertura para a vinda de Sophia; o autor declara confiança "muito modesta" (informação recebida por canais que não pode pôr em dúvida; "Krishna desde a semana passada").
@@ -208,3 +208,7 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
 - **Selos do lote:** ll. 37 → AGUARDA-ÁUDIO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 28 (AG).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.

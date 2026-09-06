@@ -61,7 +61,7 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
 
-- **[P2023-10-14 · O MARCADOR GENÉTICO UNIFORMIZADO DA CONDIÇÃO HUMANA]** "Se qualquer exame de sangue for feito em qualquer ser humano, há um marcador genético, antiquís, que corresponde a um a uma marca uniformizada na condição humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolutiva]:** o bruto grafa «Enk» e «Henk»; **a mesma grafia «Henk» designa também o chefe da nave dos 50**. O Curador **recusou a unificação** a RC-486: manter a leitura dupla (livro de Enki × livro do emissário Henk).
+- **[P2023-10-14 · O MARCADOR GENÉTICO UNIFORMIZADO DA CONDIÇÃO HUMANA]** "Se qualquer exame de sangue for feito em qualquer ser humano, há um marcador genético, antiquís, que corresponde a um a uma marca uniformizada na condição humana, é o geroma." (U0005) — ⚠️ **[REVISAR — item 2 da devolutiva → ENCERRADO 2026-09-06 · F042-VARREDURA: RATIFICADO — registro de fala/leitura do autor ratificado — ver nota]:** o bruto grafa «Enk» e «Henk»; **a mesma grafia «Henk» designa também o chefe da nave dos 50**. O Curador **recusou a unificação** a RC-486: manter a leitura dupla (livro de Enki × livro do emissário Henk).
 - **[P2023-10-14 · A DESTINAÇÃO: O DNA DE ENKI, JAMAIS O DE PANDORA]** "O tipo de ser humano a surgir na natureza terrestre era o produzido pela interferência do DNA de Enk, jamais o de Pandora." (U0033)
 - **[P2023-10-14 · O CRITÉRIO DO JULGAMENTO GENÉTICO]** "Quais Os que ele iria reaproveitar, os que estivessem aliados com os padrões do genoma de Enk." (U0033)
 
@@ -126,3 +126,7 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
 - **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
+- **Selos da varredura:** ll. 64 (RA).
+- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
