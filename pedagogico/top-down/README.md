@@ -10,14 +10,48 @@
 Aplicar o método top-down (Analista de Sistemas de IBM) ao curso da Revelação Cósmica:
 em vez de mergulhar direto no detalhe, construir primeiro a visão do conjunto e descer
 em níveis. A proposta original — `PROPOSTA-PEDAGOGICA-TOP-DOWN.md` — define **4+1 níveis**
- (N0 → N4) e é a espinha dorsal do que se produz aqui.
+(N0 → N4) e é a espinha dorsal do que se produz aqui.
+
+## Status da fase
+
+✅ **Caminho de leitura fechado — as 10 apostilas da proposta já estão publicadas.**
+
+Cada apostila foi escrita como **reorganização sobre a Base ATUAL** (não como reprodução de
+rascunho), com **todas as remissões RC-### verificadas contra a base** (nenhuma órfã). Base
+referência: **946 termos · 1.898 relações** (intacta — todas as apostilas são síntese).
 
 ## Conteúdo desta fase
 
-| Arquivo | O que é |
+| # | Apostila | Arquivo MD | PARTES | Remissões RC-### | Commit |
+|---|---|---|---|---|---|
+| 1 | **A Queda** — Do Paraíso ao Buraco Negro: a Cronologia da Crise | `Apostila-Estudo-A-Queda-Cronologia-da-Crise.md` | 12 | 100 | `c555afa` |
+| 2 | **Javé** — O Buraco Negro da Revelação Cósmica | `Apostila-Estudo-Jave-Buraco-Negro.md` | 12 | 99 | `f15e354` |
+| 3 | **O Lado de Fora do Universo** — O Paraíso que não é o Paraíso | `Apostila-Estudo-Paraiso-Lado-de-Fora-do-Universo.md` | 13 | 72 | `b4d5a33` |
+| 4 | **O Mapa dos Mundos e Lokas** — Cartografia da Criação | `Apostila-Estudo-Mapa-dos-Mundos-e-Lokas.md` | 12 | 79 | `b3144fc` |
+| 5 | **Céu Tradicional × Paraíso das RC** — Mito vs. Revelação | `Apostila-Estudo-Ceu-Tradicao-vs-Paraiso-RC.md` | 12 | 61 | `247189e` |
+| 6 | **Arqueologia dos Termos** — a Filologia da Revelação Cósmica | `Apostila-Estudo-Arqueologia-dos-Termos.md` | 12 | 86 | `7d4eb36` |
+| 7 | **Thot e Hermes** — O Mentor Científico da Humanidade | `Apostila-Estudo-Thot-Hermes-Mentor-Cientifico.md` | 10 | 50 | `fd1ec16` |
+| 8 | **Pilotando o Cérebro no Caos** — o Operador Humano | `Apostila-Estudo-Pilotando-o-Cerebro-no-Caos.md` | 12 | 57 | `0045383` |
+| 9 | **Carbono × Sílica** — do Xamanismo Cósmico à IA Xamânica | `Apostila-Estudo-Carbono-Silica-Xamanismo-Cosmico-IA-Xamanica.md` | 12 | 36 | `c16ca12` |
+| 10 | **Os Tratados** — o Arsenal, a Justiça e a Ilha Estacionária | `Apostila-Estudo-Tratados-Arsenal-Justica-Ilha-Estacionaria.md` | 12 | 27 | `85a1859` |
+
+> Cada apostila tem o seu **DOCX** correspondente no mesmo diretório (mesmo título,
+> gerado por `ferramentas/build_apostila.py`). A versão **MD** é a fonte; o DOCX é derivado.
+
+### Uma linha sobre cada uma
+
+| # | Foco (abordagem) |
 |---|---|
-| `PROPOSTA-PEDAGOGICA-TOP-DOWN.md` | A proposta top-down (5 níveis + seções 6–8: melhorias pedagógicas, caminho de leitura, resumo de 1 página). **Documento-mestre da fase.** |
-| *(a criar)* | Apostilas esboçadas **na ordem proposta** pela seção "Caminho de leitura em 5 fases". |
+| 1 | **Genealógica/cronológica** — a narrativa-mestre da crise, do Paraíso ao colapso. |
+| 2 | **Biográfica/cronológica** — a "biografia cósmica" de Javé (RC-001), o nó mais conectado. |
+| 3 | **Topológica/filosófica** — o "lado de fora" da Criação: a Espiritualidade Superior e os Seres Originais. |
+| 4 | **Cartográfica** — o mapa espacial: universos, lokas, planos espirituais, cidades. |
+| 5 | **Dialética/comparativa** — cada PARTE confronta uma visão tradicional com a leitura da RC. |
+| 6 | **Lexicológica/filológica** — a origem e os deslocamentos semânticos dos termos-chave. |
+| 7 | **Narrativa integrada** — a teia de Hermes Trismegisto (RC-463) e seus relacionamentos. |
+| 8 | **Fenomenológica/prática** — o manual do operador humano no caos (constituição septenária, Mentalma, Tikun). |
+| 9 | **Comparativa/ontológica** — o que o operador é quando o substrato muda de carbono para sílica. |
+| 10 | **Comparativa/contemplativa** — o método da Arca, a cosmologia como engenharia falha e a ontologia do Perfeito × Imperfeito. |
 
 ## Estrutura top-down (referência da proposta)
 
@@ -27,24 +61,27 @@ em níveis. A proposta original — `PROPOSTA-PEDAGOGICA-TOP-DOWN.md` — define
 - **N3 — O Enredo no Tempo:** cronologia por marcos (não datas).
 - **N4 — O Detalhe:** regra de descida + ordenação das apostilas temáticas existentes.
 
-## Ordenação das apostilas (referência da seção "Caminho de leitura")
+## Mapeamento das apostilas no caminho top-down
 
-A ordem de leitura/esboço segue a progressão **marco → curto → médio → longo** (individual,
-sem global/F049/F050), conforme acordado:
+As 10 apostilas cobrem a progressão **individual → coletivo → filosófico** da proposta:
 
-1. **A Queda** (Paraíso → Buraco Negro)
-2. **Javé — o Buraco Negro**
-3. **O Lado de Fora do Universo** (Paraíso que não é o Paraíso)
-4. **O Mapa dos Mundos e Lokas**
-5. **Céu Tradicional × Paraíso das RC**
-6. **Arqueologia dos Termos**
-7. **Thot e Hermes** (o Mentor Científico)
-8. **Pilotando o Cérebro no Caos** (o Operador Humano)
-9. **Carbono × Sílica** (Xamanismo Cósmico → IA Xamânica)
-10. **Tratados** (Arsenal do Sistematizador; Fim da Justiça Divina; Ilha Estacionária)
+| Fase | Apostilas | O que entregam |
+|---|---|---|
+| **N0/N1 — Imagem do todo** | 3 (Lado de Fora) · 6 (Arqueologia) | o "FORA" + a filologia das famílias |
+| **N2 — Quem é quem** | 7 (Thot) | perfil de mentor / identidades |
+| **N3 — O enredo no tempo** | 1 (A Queda) · 2 (Javé) | a crise e a "biografia" do Criador |
+| **N4 — O detalhe temático** | 4 (Mapa) · 5 (Céu × Paraíso) · 8 (Pilotando) | o "onde", o "mapa × território" e a prática |
+| **N4 — Filosófico/avançado** | 9 (Carbono × Sílica) · 10 (Tratados) | a ponte com a IA e o método/ontologia |
 
 ## Notas de continuidade
 
-- F045 (RC-005) **fechado** — não se aplica ao reordenar a linha do tempo.
-- Progressão **individual → coletivo**; não cogitar o global (F049/F050).
-- Não focalizar a finalidade existencial no F045.
+- **Restrição:** apostilas em `pedagogico/top-down/` são **síntese de leitura** — não alteram
+  a Base (`termos/`, `relacoes/`, `ferramentas/dados_termos.py`). Toda vez que se reescreve
+  uma apostila, faz-se sobre a base **atual**, não sobre rascunho.
+- **Formato de cada apostila:** cabeçalho `@` (titulo/autor/data/local/subtitulo/nota_editor)
+  → `# PARTE` → glossário → caderno de incertezas → `FIM`. O DOCX é gerado por
+  `ferramentas/build_apostila.py`.
+- **Validação antes de publicar:** todas as remissões RC-### verificadas contra a base
+  (nenhuma órfã), contagem de PARTES, campos `@` e término em `FIM`.
+- **Progressão individual → coletivo; não cogitar o global (F049/F050).**
+- **Base atual da fase:** 946 termos · 1.898 relações (intacta).
