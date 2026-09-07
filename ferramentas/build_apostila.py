@@ -229,15 +229,98 @@ def gerar(md_path, saida=None):
         s = l.strip()
         if re.match(r"^@", s):
             i += 1; continue
+        # ---------------- FIGURA: ![alt](caminho/relativo/ao/md)
+        m_img = re.match(r"^!\[(.*?)\]\((.+?)\)\s*$", s)
+        if m_img:
+            alt, caminho = m_img.group(1).strip(), m_img.group(2).strip()
+            img = os.path.join(os.path.dirname(md_path), caminho)
+            if os.path.exists(img):
+                sec = doc.sections[0]
+                disp = sec.page_width - sec.left_margin - sec.right_margin
+                p = doc.add_paragraph(); p.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                p.add_run().add_picture(img, width=disp)
+                if alt:
+                    c = doc.add_paragraph(); c.alignment = WD_ALIGN_PARAGRAPH.CENTER
+                    rc = c.add_run(alt)
+                    rc.font.size = Pt(9); rc.italic = True; rc.font.color.rgb = CINZA
+            else:
+                add_bloco_nota(doc, f"[figura nao encontrada: {caminho}]")
+            i += 1; continue
+        # ---------------- BLOCO DE CÓDIGO / ASCII (monoespaçado, alinhamento preservado)
+        if s.startswith("```"):
+            i += 1
+            bloco = []
+            while i < len(linhas) and not linhas[i].strip().startswith("```"):
+                bloco.append(linhas[i].rstrip()); i += 1
+            i += 1  # consome a cerca de fechamento
+            if bloco:
+                p = doc.add_paragraph()
+                p.paragraph_format.space_before = Pt(6)
+                p.paragraph_format.space_after = Pt(8)
+                r = p.add_run("\n".join(bloco))
+                r.font.name = "Consolas"; r.font.size = Pt(8)
+                r._element.rPr.rFonts.set(qn("w:eastAsia"), "Consolas")
+            continue
+        # ---------------- TABELA (pipe table do Markdown -> tabela do Word)
+        if s.startswith("|"):
+            bloco = []
+            while i < len(linhas) and linhas[i].strip().startswith("|"):
+                bloco.append(linhas[i].strip()); i += 1
+            eh_tabela = (len(bloco) >= 2 and "-" in bloco[1]
+                         and re.match(r"^\|[\s:|-]+\|$", bloco[1]))
+            if eh_tabela:
+                def celulas(linha):
+                    return [c.strip() for c in linha.strip().strip("|").split("|")]
+                cab = celulas(bloco[0])
+                corpo = [celulas(l) for l in bloco[2:]]
+                ncols = len(cab)
+                tb = doc.add_table(rows=1, cols=ncols)
+                try:
+                    tb.style = "Table Grid"
+                except KeyError:
+                    pass
+                tb.autofit = True
+
+                def preencher(cel, texto, negrito=False):
+                    cel.text = ""
+                    p = cel.paragraphs[0]
+                    p.paragraph_format.space_after = Pt(2)
+                    for parte in re.split(r"(\*\*.+?\*\*)", texto):
+                        if not parte:
+                            continue
+                        if parte.startswith("**") and parte.endswith("**"):
+                            r = p.add_run(parte[2:-2]); r.bold = True
+                        else:
+                            r = p.add_run(parte)
+                        r.font.size = Pt(9.5)
+                        if negrito:
+                            r.bold = True
+
+                for j, txt in enumerate(cab):
+                    preencher(tb.rows[0].cells[j], txt, negrito=True)
+                for linha in corpo:
+                    cells = tb.add_row().cells
+                    for j in range(ncols):
+                        preencher(cells[j], linha[j] if j < len(linha) else "")
+                doc.add_paragraph().paragraph_format.space_after = Pt(2)
+            else:
+                for l in bloco:
+                    add_par(doc, l, size=9.5)
+            continue
         if re.match(r"^# PARTE", s):
             add_heading_cor(doc, s.lstrip("# ").strip(), 1, ROXO_H1); i += 1; continue
         if re.match(r"^##\s+GLOSS[ÁA]RIO", s, re.IGNORECASE) or s.upper().startswith("## GLOSS"):
-            em_glossario = True; i += 1; continue
+            em_glossario = True
+            add_heading_cor(doc, s[3:].strip(), 1, ROXO_H1)   # título do glossário (antes era descartado)
+            i += 1; continue
         if em_glossario:
             if s.startswith("#") and not s.startswith("###"):
                 em_glossario = False
             else:
-                gloss_linhas.append(s); i += 1; continue
+                # linhas em branco nao entram: evita o "Glossario local" vazio no fim
+                if s:
+                    gloss_linhas.append(s)
+                i += 1; continue
         if s.startswith("## "):
             add_heading_cor(doc, s[3:].strip(), 2, ROXO_H2); i += 1; continue
         if s.startswith("### "):

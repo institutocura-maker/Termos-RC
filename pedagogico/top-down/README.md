@@ -22,6 +22,23 @@ referência: **946 termos · 1.898 relações** (intacta — todas as apostilas 
 
 ## Conteúdo desta fase
 
+### Material N0 — a figura fixa (o Mapa de Abstração)
+
+| Peça | Arquivo | Observação |
+|---|---|---|
+| **Apostila N0** | `Apostila-Estudo-Mapa-de-Abstracao-N0.md` (+ DOCX) | 7 PARTES · 43 remissões RC-### verificadas (0 órfãs) |
+| **Figura vetorial** | `Mapa-de-Abstracao-N0.svg` | fonte em *path* — abre igual em qualquer máquina |
+| **Figura para impressão** | `Mapa-de-Abstracao-N0.pdf` | A4/Letter, gerado junto com o SVG |
+| **Figura bitmap** | `Mapa-de-Abstracao-N0.png` | preview e inserção no DOCX (150 dpi) |
+| **Gerador** | `ferramentas/build_mapa_abstracao.py` | desenha SVG+PDF+PNG e **confere as remissões** antes de gravar |
+
+O diagrama tem as **4 caixas** do Nível 0 (FORA · ACIDENTE · TRIMURTI · AQUI), as **7 narrativas como setas**
+(① Criador e Criação · ② Queda e Drama · ③ Rebelião e Exílio · ④ Seres do Cosmos · ⑤ Humanidade e Terra ·
+⑥ Mundos e Cosmo · ⑦ Caminho de Volta) e a **seta de retorno** que fecha o laço AQUI → FORA. É a materialização
+da melhoria pedagógica nº 1 da proposta — a figura a que o aluno volta em todos os níveis.
+
+### As 10 apostilas do percurso
+
 | # | Apostila | Arquivo MD | PARTES | Remissões RC-### | Commit |
 |---|---|---|---|---|---|
 | 1 | **A Queda** — Do Paraíso ao Buraco Negro: a Cronologia da Crise | `Apostila-Estudo-A-Queda-Cronologia-da-Crise.md` | 12 | 100 | `c555afa` |
@@ -63,7 +80,8 @@ referência: **946 termos · 1.898 relações** (intacta — todas as apostilas 
 
 ## Mapeamento das apostilas no caminho top-down
 
-As 10 apostilas cobrem a progressão **individual → coletivo → filosófico** da proposta:
+**Antes de tudo:** o **N0** (Mapa de Abstração) — a imagem do conjunto em uma figura. Depois, as 10 apostilas
+cobrem a progressão **individual → coletivo → filosófico** da proposta:
 
 | Fase | Apostilas | O que entregam |
 |---|---|---|
@@ -84,4 +102,11 @@ As 10 apostilas cobrem a progressão **individual → coletivo → filosófico**
 - **Validação antes de publicar:** todas as remissões RC-### verificadas contra a base
   (nenhuma órfã), contagem de PARTES, campos `@` e término em `FIM`.
 - **Progressão individual → coletivo; não cogitar o global (F049/F050).**
+- **Figura N0:** qualquer ajuste no diagrama se faz em `ferramentas/build_mapa_abstracao.py` (os textos e as
+  coordenadas estão em constantes no topo) e se regenera com `python3 ferramentas/build_mapa_abstracao.py` —
+  o script **falha se alguma remissão RC-### ficar órfã**.
+- **Validação de layout:** conferência geométrica (transbordo de linha, rótulo fora da página, sobreposição de
+  textos) feita por medição dos `Text` do matplotlib — 0 problemas na versão publicada.
+- **Formato do DOCX:** `ferramentas/build_apostila.py` passou a suportar **imagem** (`![alt](arquivo)`),
+  **tabela pipe** do Markdown e **bloco de código ASCII** monoespaçado (a 4ª apostila ganha com isso ao ser regerada).
 - **Base atual da fase:** 946 termos · 1.898 relações (intacta).
