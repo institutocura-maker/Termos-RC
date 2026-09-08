@@ -49,6 +49,13 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 - **[O paraíso que parou de criar] (U0016)** «Desde que para Bragna fez isso, parou tudo.» — "O fim das criações no universo... o que era normalíssimo... Desde que Para Brajna fez isso, parou tudo. Ninguém cria mais nada" — o paraíso "já era chato, agora está"; a pulsação digna dos humanos pode substituir temporariamente os alicerces de sustentabilidade da erraticidade do paraíso (grafia STT "para Bragna" = Para Brajna).
 
 
+## Ampliação — P2025-03-15 (A Rebelião dos Elétrons e a era do Colapso do Caos Organizado)
+
+- **"O retrato de Prabrajna" (P2025-03-15):** "dizem que o último retrato dele foi tirado... o último retrato de Prabrajna que alguém tirou chama-se Ishvara"; "o limite de modulação pré-estabelecido desde a queda do seu criador. Que limite? É o retrato de Ishvara".
+- **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu".
+- **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR]).
+- **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade".
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

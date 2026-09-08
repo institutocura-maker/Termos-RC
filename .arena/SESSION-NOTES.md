@@ -67,3 +67,13 @@
 **A regra do lastro pelo lado oposto:** Kashyapa (ficha 358 p.) e Sócios do Destino (384 p.) são hubs de grau 12 → verbetes de 715 e 750 palavras. Krishna, ao contrário: ficha de 5.109 palavras e 30 ampliações → verbete de 2.071, acima do teto da camada Pilar. Nada foi cortado nem enchido; o caso de Krishna fica sujeito a despacho (pode ser desdobrado em subverbetes).
 
 **ANOMALIA DE AMBIENTE (corrigida nesta sessão):** o clone veio com `HEAD` em `708a402` (base) enquanto `origin/arena/01a07d99-termos-rc` já estava em `b14914e` (lote 2). Isso fez aparecer como "alterações não commitadas" trabalho que já estava commitado no remoto (fusão F045 RC-449→RC-164, absorção RC-203→RC-314, fichas RC-898/RC-936 etc.). Correção: `git fetch origin '+refs/heads/*:refs/remotes/origin/*'` + `git reset --mixed origin/arena/01a07d99-termos-rc` — a árvore de trabalho não foi tocada, e `git status` passou a mostrar **apenas** o lote 3. **Regra que se repete: conferir `git log origin/<branch>` antes de commitar.**
+
+---
+
+## 08/09/2026 — Despacho do Curador: limpeza da ficha RC-690 (bloco RC-691)
+
+**Executado:** o bloco `"RC-691": '''...` (quatro verbetes sobre Ishvara: retrato de Prabrajna, epítetos, fala em Milen Brumana, verificabilidade) foi **removido** de `termos/RC-690-colapso-do-caos-organizado.md` e **transplantado** para `termos/RC-691-ishvara-isuara---retrato-de-prabrajna-antes-da-queda.md` como secção «Ampliação — P2025-03-15 — A Rebelião dos Elétrons e a era do Colapso do Caos Organizado», antes de «Fontes». A cauda corrompida da última linha legítima de RC-690 (`...códigos podres"."",`) foi restaurada para `...códigos podres".`
+
+**Causa-raiz:** `ferramentas/_ampliar_fichas_2025-03-15.py` — a entrada `RC-690` do dicionário `AMP` tinha o terminador da string malformado, o que fez a entrada seguinte (`RC-691`) ser gravada dentro da ficha de RC-690. O script recebeu aviso de «já aplicado, não reexecutar sem revisão» (edição só de comentário).
+
+**Verificação pós-limpeza:** 18 verbetes · 509 verbatim · 212 códigos · 0 falhas · Base intacta (946/650/1898). A Tensão 8 do verbete de RC-690 foi reescrita: de «achado a corrigir por despacho» para «corrigido por despacho em 08/09/2026».

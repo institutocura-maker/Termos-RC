@@ -2,6 +2,12 @@
 # -*- coding: utf-8 -*-
 '''Amplia fichas existentes com a seção '## Ampliação — P2025-03-15'
 (Devolutiva R-2/R-4 aprovada em 19/08/2026).'''
+
+# [AVISO 08/09/2026] JA APLICADO — nao reexecutar sem revisao.
+# A entrada RC-690 tinha o terminador da string malformado, o que fez a
+# entrada RC-691 (Ishvara) ser gravada DENTRO da ficha de RC-690. O bloco foi
+# removido a mao de termos/RC-690-*.md e transplantado para a secao
+# '## Ampliacao — P2025-03-15' de termos/RC-691-*.md. Conferir antes de rodar.
 from pathlib import Path
 P = Path(__file__).resolve().parent.parent / "termos"
 

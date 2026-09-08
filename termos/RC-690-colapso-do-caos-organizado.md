@@ -33,13 +33,7 @@ Forma preferida: **Colapso do Caos Organizado**.
 
 - **O colapso em curso (P2025-03-15):** "nós estamos vivendo no limite em que esse colapso do caos organizado vai ter que destruir a maneira como esse caos se organizou até hoje em muitas das suas arquiteturas"; "o que estiver impedindo o progresso da vida, ou é ressignificado, ou é dimensionado de forma diferente, ou a vida não vai adiante".
 - **O experimento humano em perigo:** "se os humanos saírem de cena da vida universal, ferrou, porque não tem plano B — na verdade não existia nem plano A" (humanos surgiram "num acidente" — Eva e a beberagem do chamanismo).
-- **Humanos como "caos organizado da melhor maneira":** "nós somos o ápice, a melhor face, a última versão que a podridão conseguiu produzir"; "o genoma humano é a melhor formatação desses códigos podres"."",
-
-"RC-691": '''- **"O retrato de Prabrajna" (P2025-03-15):** "dizem que o último retrato dele foi tirado... o último retrato de Prabrajna que alguém tirou chama-se Ishvara"; "o limite de modulação pré-estabelecido desde a queda do seu criador. Que limite? É o retrato de Ishvara".
-- **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu".
-- **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR]).
-- **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade".
-
+- **Humanos como "caos organizado da melhor maneira":** "nós somos o ápice, a melhor face, a última versão que a podridão conseguiu produzir"; "o genoma humano é a melhor formatação desses códigos podres".
 
 ## Ampliação — P2024-11-09
 
