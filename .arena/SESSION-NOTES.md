@@ -229,3 +229,22 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 6. **Três renomeações:** `V2.08.03-RC604-…`, `V2.07.02-RC472-…`; `V4.20.01` e `V4.21.01` passam a ter três verbetes cada.
 
 **Próximos seis:** RC-041 (13) · RC-061 (13) · RC-282 (13) · RC-456 (13) · RC-612 (13) · RC-614 (13).
+
+---
+
+## 08/09/2026 — Lote 13: o vocabulário da casa (6 verbetes, 5.802 palavras)
+
+`RC-282` Mohen So (correspondências, III.11.1, 1.064 p.) · `RC-614` Quarto Cérebro Humano (IV.18.2, 1.037) · `RC-041` Criador (III.9.1, 1.005) · `RC-612` Nova Espiritualidade / Novo Paraíso (V.22.3, 974) · `RC-456` Ser LM (III.13.5, 877) · `RC-061` Espiritualidade Laboratorial (II.7.2, 845).
+
+**Acumulado: 78 verbetes · 1.945 verbatim · 876 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **O lote fecha o vocabulário que os próximos vão usar** — Criador, Espiritualidade Laboratorial, Ser LM, Mohen So, Quarto Cérebro e Nova Espiritualidade são as seis palavras com que a RC descreve o seu próprio mundo.
+2. **Segunda ficha materializada por exigência estrutural: `RC-061`** (a primeira foi `RC-099`). A própria ficha declara: «materializado por exigência da estrutura da Enciclopédia». Nenhuma aresta criada.
+3. **`RC-041` Criador = maior quarentena teológica do lote:** Criador = Brahma = Javé = Demiurgo ≠ Deidade. Para as três religiões, Criador e Deus são o mesmo.
+4. **Instrução de curadoria mais curta e mais útil do projeto** (`RC-456`): «O significado expandido da sigla não é fornecido; não interpolar». LM não se expande em lugar nenhum.
+5. **Termo «autistas» preservado e cercado** (`RC-456`, P2021-12-04): da fala, aplicado a seres não-humanos; declarado que não é diagnóstico nem uso clínico.
+6. **Falhas 39 → 18 → 0.** Das 18 restantes, **13 eram nossas**: backticks e `**negrito**` inseridos dentro de citações, elisões com «...» sobre texto contínuo, `[STT]` suprimido, colchete inventado (`c[onsciência]`), conjugação nossa («a maioria confunde» ≠ «confundi-los»), 2 paráfrases como se fossem fala.
+7. **ARMADILHA NOVA — ASPAS ANINHADAS:** a ficha de `RC-061` traz «a região da «Experiência Laboratorial» onde…». O verificador captura só até o primeiro fechamento; **o certo é recortar o trecho interno, nunca aninhar**.
+8. **Renomeações:** `V3.11.01-RC081-…`, `V4.18.02-RC166-…`. III.13.5 passa a ter 4 verbetes; II.7.2, 3.
+
+**Próximos seis:** RC-646 (13) · RC-691 (13) · RC-707 (13) · RC-711 (13) · RC-719 (13) · RC-725 (13).

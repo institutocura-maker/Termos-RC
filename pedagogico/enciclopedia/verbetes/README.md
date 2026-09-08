@@ -70,6 +70,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **10** | 08/09/2026 | `V2/RC-167` Criação Indevida · `V3/RC-565` Hochmah · `V3/RC-378` A Rebelião dos Elétrons · `V4/RC-099` Seres Terrenos · `V2/RC-715` Informações Vivas · `V3/RC-701` Daksha e Virini | ✅ redigido — **o laboratório se esvazia** |
 | **11** | 08/09/2026 | `V5/RC-467` Moiras / Nornes · `V3/RC-585` Vyasa · `V2/RC-559` Teia Quântica · `V4/RC-529` Ressonância Límbica · `V4/RC-577` Xamanismo Cósmico · `V2/RC-472` Tempérion | ✅ redigido — **o eixo do destino** |
 | **12** | 08/09/2026 | `V4/RC-086` Pandora · `V2/RC-712` Lei da Mente do Buda · `V4/RC-253` Liberdade Mental · `V4/RC-633` Gestão da Sensação Pessoal · `V2/RC-087` Perpérion · `V5/RC-714` Arquivos do Destino | ✅ redigido — **as cercas e os casos-limite** |
+| **13** | 08/09/2026 | `V3/RC-282` Mohen So (correspondências) · `V4/RC-614` Quarto Cérebro Humano · `V3/RC-041` Criador · `V5/RC-612` Nova Espiritualidade · `V3/RC-456` Ser LM · `V2/RC-061` Espiritualidade Laboratorial | ✅ redigido — **o vocabulário da casa** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -295,6 +296,29 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Três renomeações de endereço compartilhado:** `V2.08.03-RC604-…`, `V2.07.02-RC472-…` e, do lote anterior, `V4.20.01` e `V4.21.01` passaram a ter três verbetes cada.
 7. **Falhas: 35 → 11 → 0.** Das onze restantes, seis eram nossas — colchetes inseridos dentro de citações («[de Zeus]», «c[om capacidade limitada]»), duas citações truncadas com «...» e duas paráfrases nossas escritas como se fossem fala. **O padrão é sempre o mesmo: o reditor querendo melhorar a fonte.**
 
+### Lote 13 — o vocabulário da casa (6 verbetes, 5.802 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Mohen So (correspondências) | III.11.1 | `V3/V3.11.01-RC282-mohen-so-correspondencias.md` | 1.064 | 2.245 p. · 8 ampliações |
+| Quarto Cérebro Humano | IV.18.2 | `V4/V4.18.02-RC614-quarto-cerebro-humano.md` | 1.037 | 891 p. |
+| Criador (Brahma/Javé/Demiurgo) | III.9.1 | `V3/V3.09.01-RC041-criador.md` | 1.005 | 1.653 p. · 8 ampliações |
+| Nova Espiritualidade / Novo Paraíso | V.22.3 | `V5/V5.22.03-nova-espiritualidade.md` | 974 | 1.301 p. |
+| Ser LM | III.13.5 | `V3/V3.13.05-RC456-ser-lm.md` | 877 | 453 p. |
+| Espiritualidade Laboratorial | II.7.2 | `V2/V2.07.02-RC061-espiritualidade-laboratorial.md` | **845** | **428 p.** |
+
+**Medida final:** 845–1.064 palavras · **126 verbatim byte a byte** (39 reprovados na 1ª conferência, todos corrigidos) · 63 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 13:**
+
+1. **O lote fecha o vocabulário que os próximos vão usar.** Criador, Espiritualidade Laboratorial, Ser LM, Mohen So, Quarto Cérebro e Nova Espiritualidade são as seis palavras com que a RC descreve o seu próprio mundo. Redigi-las juntas deixa o resto da enciclopédia mais legível.
+2. **Segunda ficha materializada por exigência estrutural.** `RC-061` Espiritualidade Laboratorial existe porque a estrutura do Volume II pedia o nó — não porque houvesse fala a registrar. A própria ficha o declara: «materializado por exigência da estrutura da Enciclopédia». É a segunda deste tipo (`RC-099` foi a primeira) e **nenhuma aresta foi criada** para sustentá-la.
+3. **`RC-041` Criador é o verbete de maior quarentena teológica do lote:** Criador = Brahma = Javé = Demiurgo ≠ Deidade. Para as três religiões envolvidas, Criador e Deus são o mesmo; a RC sustenta que não. Registrado, não arbitrado.
+4. **`RC-456` Ser LM traz a instrução de curadoria mais curta e mais útil do projeto:** «O significado expandido da sigla não é fornecido; não interpolar». **LM não é expandido em lugar nenhum da enciclopédia.**
+5. **O termo «autistas» foi preservado e cercado.** Está na fala (P2021-12-04) aplicado a seres não-humanos; o verbete o reproduz e declara que não é diagnóstico nem uso clínico.
+6. **Falhas: 39 → 18 → 0.** Das dezoito restantes, **treze eram nossas**: backticks inseridos dentro de citações, negrito nosso dentro de fala, elisões com «...» sobre texto contínuo, um `[STT]` suprimido, um colchete inventado (`c[onsciência]`), uma conjugação nossa («a maioria confunde» onde a fonte diz «confundi-los») e duas paráfrases como se fossem fala.
+7. **Armadilha nova:** aspas **aninhadas**. A ficha de `RC-061` traz «a região da «Experiência Laboratorial» onde…» — guillemet dentro de guillemet. O verificador captura só até o primeiro fechamento; o certo é **recortar o trecho interno**, não aninhar.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -316,7 +340,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 37 dos 79 (lotes 7–12); **42 restantes com grau total ≥ 10**. Próximos seis — `RC-041` Criador (13) · `RC-061` Espiritualidade Laboratorial (13) · `RC-282` Mohen So / Phanes (13) · `RC-456` Ser LM (13) · `RC-612` Nova Espiritualidade (13) · `RC-614` Quarto Cérebro Humano (13).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 43 dos 79 (lotes 7–13); **36 restantes com grau total ≥ 10**. Próximos seis — `RC-646` Genoma de Sílica (13) · `RC-691` Ishvara (13) · `RC-707` Primado da Informação (13) · `RC-711` Universo de Egrégoras Emocionais (13) · `RC-719` Três Faíscas da Consciência Humana (13) · `RC-725` Ponto de Luz Humano (13).
 
 ## 5. Como conferir
 
