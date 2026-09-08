@@ -1,0 +1,89 @@
+# CRIAÇÃO INDEVIDA
+
+**Enciclopédia de Referência das Revelações Cósmicas · edição 2026.1** (fechada em 07/09/2026)
+
+| | |
+|---|---|
+| **Código** | `RC-167` |
+| **Endereço** | **II.6.4** — O CFD, os dois universos e o Khaos (Volume II · *A Criação Indevida — a projeção, o colapso e a queda*) |
+| **Classificação da Base** | CONCEITOS COSMOLÓGICOS › 2.1 Cosmogonia / Criação |
+| **Status na Base** | 🟡 provisório |
+| **Ficha canônica** | `termos/RC-167-criacao-indevida-obra-indevida.md` |
+
+> **Este verbete não substitui a ficha.** A ficha é a fonte de verdade (definição sintética, contexto, etimologia, ampliações por obra, tabela de fontes). O verbete é a **porta de entrada**: interpreta, costura e aponta. Toda citação abaixo é verbatim da ficha ou da obra indicada — nenhuma aspa foi composta por nós.
+
+---
+
+## Definição
+
+Criação Indevida — também *Obra indevida*, *Criação problemática*, *Criação inusitada* — é a expressão com que a Revelação Cósmica designa **o universo gerado pelo erro do Criador**. Não é a criação «imperfeita» no sentido corrente (um trabalho mal-acabado): é uma obra que, nas palavras da fonte, **jamais deveria ter sido iniciada**. Três notas definem o adjetivo: o Criador **caiu dentro dela** e tornou-se prisioneiro; ela **não foi finalizada** — e é dessa incompletude que derivam a morte, a entropia e o sofrimento das criaturas; e as criaturas passam pela morte «porque esta Obra não foi finalizada, ou não pôde ser».
+
+O termo é o eixo de gravidade de toda a cosmologia da RC: é o problema do qual o Tikun (`RC-514`) é o reparo, o Criador refém (`RC-196`) é a condição e a Reintegração Cósmica (`RC-003`) é a saída.
+
+## Desenvolvimento
+
+### 1. O erro e o nome
+
+A palavra-chave do corpus não é «pecado»: é **erro**. Houve «um erro no momento da criação», e o Criador «caiu» dentro dela, gerando dois universos paralelos (B031). A Obra é chamada de *indevida* porque não estava no roteiro: «os problemas gerados com a criação indevida da divindade adoentada – e o repito, jamais planejada» (B001 p. 103). Essa formulação desloca o eixo teológico inteiro: não há queda da criatura, e sim **queda do criador**; a criatura não é culpada, é **vítima da obra e herdeira do acidente**.
+
+A precisão cronológica importa: a criação «já havia sido acionada mesmo antes da queda de Brahma», de modo que o que veio depois é «mero desdobramento» (B035 p. 17); e a origem do problema é localizada — **Perpérion**, Archeon do Gênero Adhy/Pashvnaj e de Prabrajna (P2021-12-04; `RC-087`).
+
+### 2. A anatomia do acidente
+
+A descrição mais nítida do mecanismo é oral e datada: um dos dois universos «foi improvisado na hora da queda», e nenhum dos dois foi finalizado, «porque quando ele tava aqui fora, antes dele finalizar esse que ele começou a planejar, ele caiu» (P2023-12-03). O resultado é uma estrutura bipartida: de um lado, um universo em expansão, «onde a vida biológica impera»; do outro, um universo «retraído, desagregado», de entes-clones e classes de demônios (B022 p. 4–5). Ninguém ficou no comando: o ser que criou tudo isso «desmaiou, ele caiu», e «o processo está solto» (P2025-02-15).
+
+A consequência cósmica é descrita como tragédia, não como decadência moral: «o modo de existir nesta Criação indevida é trágico e vexatório» (B041 p. 145). E a singularidade do caso é afirmada sem atenuantes — em nenhum outro universo existe nada parecido: «Nos outros universos que existem, não tem coisa alguma parecida com o fato de um Criador ter sido ‘sugado’ pela própria Obra.» (B041 p. 40).
+
+### 3. O que a obra produz: morte, entropia, podridão
+
+Da incompletude seguem os traços que a experiência humana conhece por outros nomes. A morte das criaturas-ferramenta é a consequência direta de a Obra não ter sido finalizada (B024 p. 36). A **podridão** é descrita como inerente — «a podridão é inerente à criação» — e a existência dentro dela como uma constrição moral objetiva: «todo mundo aqui dentro é obrigado a ser deselegante para poder existir, porque essa é a história do criador, esse é o retrato dele» (P2023-05-13). Tudo o que existe de vivo «se originou, direta ou indiretamente, a partir do DNA do próprio criador» (B033 p. 125) — o que faz de cada criatura, simultaneamente, pedaço do acidente e portadora do material do conserto.
+
+Duas imagens complementares ajudam a fixar o conceito: a criação comparada a um «fogo de artifício» que fenecerá, enquanto a pulsação pessoal de um ser humano «movimenta toda a base estrutural de tudo que existe» (P2025-02-16); e a apresentação da Obra como **simulacro** — a «matrix» em que todos estão inseridos, a bolha de realidade gerada pelo erro (P2023-05-13; `RC-702`).
+
+### 4. A saída não é a fuga
+
+A RC é explícita quanto ao que **não** funciona: as vias religiosas «já foram tentadas e somente fizeram piorar a condição do Criador» (B041 p. 145). A saída é interna à obra e executada de dentro pelo único agente que a fonte reconhece capaz: a condição humana. O reparo é o **Tikun** (`RC-514`); o agente é o humano emancipado; o instrumento é o próprio genoma, entendido como a cota da doença do Criador que cada criatura porta. A tradição hindu fornece a figura do fecho — Hara, avatar «que Shiva, há muito tempo, já deixou engendrado para finalizar esta Criação indevida» (B041 p. 158; `RC-413`).
+
+## Na voz do autor
+
+> «Nos outros universos que existem, não tem coisa alguma parecida com o fato de um Criador ter sido ‘sugado’ pela própria Obra.»
+> — B041, *A Rebelião dos Elétrons*, p. 40
+
+> «o modo de existir nesta Criação indevida é trágico e vexatório»
+> — B041, *A Rebelião dos Elétrons*, p. 145
+
+> «porque esta Obra não foi finalizada, ou não pôde ser»
+> — B024, *A Epopeia dos Agentes da Vida Universal*, p. 36
+
+> «Apesar do roteiro pré-estabelecido, surgem algoritmos que não foram produzidos pela sua mente»
+> — B035, *O Big Data do Criador*, p. 4
+
+> «nada disto precisava mesmo de existir»
+> — B037, *Inquisição Filosófica*, pp. 71–72 (na voz de Shiva)
+
+> «a história anterior ao evento da criação indevida não é tão simplória»
+> — B002, *O Drama Espiritual de Javé*, p. 108
+
+> «todo mundo aqui dentro é obrigado a ser deselegante para poder existir, porque essa é a história do criador, esse é o retrato dele»
+> — P2023-05-13, *Bastidores da Revelação Cósmica*
+
+> «esse foi improvisado na hora da queda, mas nenhum dos dois foi finalizado, porque quando ele tava aqui fora, antes dele finalizar esse que ele começou a planejar, ele caiu.»
+> — P2023-12-03, *A Rebelião de Lúcifer ainda por ser Finalizada* (selo temporal D-9/D-10)
+
+## Tensões
+
+1. **Erro × pecado.** A Obra é indevida porque não foi finalizada, não porque as criaturas a corromperam. A RC desloca a queda do lado da criatura para o lado do Criador — e por isso a palavra «pecado» é, no corpus, quase sempre uma leitura imposta de fora (`RC-893` Pecado Original).
+2. **Indevida × necessária.** Se a Obra jamais deveria existir, por que as demais mentes divinas tentaram «formatar melhor» o que seria gerado, em vez de apenas impedi-lo (B002 p. 190)? A fonte registra a tentativa de impedir e a decisão de mitigar; não resolve a contradição.
+3. **Incompletude × improviso.** Duas causas convivem: a obra não terminada (B024) e o universo antimaterial improvisado na queda (B037 p. 32, «universo-mãe» jamais finalizado). A ficha conserva as duas sem as fundir.
+4. **O simulacro.** A leitura da Obra como «matrix» foi absorvida por decisão do curador (P2023-05-13) e remete a `RC-702`; é imagem pedagógica, não tese ontológica primária.
+5. **Quarentena científica.** A origem de tudo a partir do DNA do criador (B033 p. 125) e a «opção quântica do elétron» (B002 p. 150) pertencem ao regime cosmológico da obra — não são hipóteses testáveis.
+6. **Quarentena clínica.** «divindade adoentada» (B001 p. 103) e «doença» são leituras do autor sobre um ser; jamais diagnóstico.
+7. **Lacuna de lemma.** Em B035 a locução «criação indevida» não ocorre na amostra censada: a ficha registra o bloco temático autorizado e **não interpola o lemma** — honestidade que o verbete herda.
+
+## Remissivas
+
+`RC-001` Javé · `RC-196` Criador refém das próprias criaturas · `RC-087` Perpérion · `RC-152` Prabrajna · `RC-167`→`RC-514` Tikun Cósmico · `RC-164` Criaturas-ferramenta · `RC-003` Reintegração Cósmica · `RC-075` Lila · `RC-702` Camuflagem da Realidade · `RC-413` Hara · `RC-312` Criação Bipartida *(sem ficha)* · `RC-893` Pecado Original · `RC-037` Brahma · `RC-102` Shiva
+
+---
+
+*Verbete-modelo redigido em 07/09/2026 (F045, item 3). Edição datada: **2026.1**. Base de referência: 946 termos · 650 fichas · 1.898 relações. Para citar: Enciclopédia de Referência das Revelações Cósmicas, ed. 2026.1, verbete **Criação Indevida** (`RC-167`), endereço II.6.4.*
