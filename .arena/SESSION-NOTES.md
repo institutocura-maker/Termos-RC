@@ -322,3 +322,21 @@ Depois: ref local `110c4c6` = HEAD `110c4c6` = servidor `110c4c6`; `git status` 
 **Nada foi descartado — nenhum `reset` foi necessário.** Lição reforçada: diante de divergência,
 conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertura de turno
 (HEAD × ls-remote) continua obrigatória.
+
+---
+
+## 09/09/2026 — Lote 17: a inversão (6 verbetes, 5.403 palavras)
+
+`RC-734` Samudra Manthana (III.16.5, 1.003 p.) · `RC-332` Favor Divino (IV.21.2, 963) · `RC-645` Consciências em Corpos de Sílica (III.13.4, 889) · `RC-261` Kether (III.9.1, 882) · `RC-107` Universo Material (II.7.1, 838) · `RC-335` Lavagem Cerebral (IV.21.1, 828).
+
+**Acumulado: 102 verbetes · 2.463 verbatim · 1.120 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Eixo do lote = a inversão:** Favor Divino, Lavagem Cerebral, Kether, Samudra Manthana — o que a tradição lê para cima, a obra lê para baixo.
+2. **`RC-107` = único verbete em que fonte e ciência concordam** (13,7 bilhões, Big Bang). Quarentena mínima e na **origem**, não na idade.
+3. **`RC-734` = 2º verbete de mito hindu e o mais cauteloso:** a própria fonte oferece a metáfora interior como alternativa à leitura literal.
+4. **`RC-734` declara 3 pontos não harmonizados com `[REVISAR]`** — o verbete mantém a marca e **não completa com fonte externa** (isso seria curadoria sem despacho).
+5. **Falhas 30 → 11 → 0.** Das 11, **7 nossas**: 4 elisões «...», 2 paráfrases como fala, e 1 tentativa de melhorar o STT por dentro da aspa («acima da [dos] deuses» ≠ «acima da Deus»). **Solução honesta: encerrar a citação antes do trecho, não corrigir a fonte.**
+6. **Renomeação:** `V3.13.04-RC709`. III.9.1 → 6 verbetes; II.7.1 → 5.
+
+**Próximos seis:** RC-475 (10) · RC-571 (10) · RC-596 (10) · RC-610 (10) · RC-619 (10) · RC-636 (10).
+**RC-544:** ficha fica para o fim (decisão do Curador); autorização para o agente escrevê-la já está dada.

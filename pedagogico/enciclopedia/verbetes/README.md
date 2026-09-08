@@ -74,6 +74,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **14** | 09/09/2026 | `V5/RC-725` Ponto de Luz Humano · `V2/RC-711` Universo de Egrégoras · `V2/RC-719` Três Faíscas · `V4/RC-646` Genoma de Sílica · `V1/RC-691` Ishvara · `V2/RC-707` Primado da Informação | ✅ redigido — **a antropologia da RC** |
 | **15** | 09/09/2026 | `V5/RC-770` Hipóstase dos Arcontes · `V3/RC-455` Pashvnaj · `V3/RC-036` Biodemos · `V4/RC-755` Escola da Decifração · `V4/RC-091` Projeto Talm · `V3/RC-638` Ressurreição do Cadáver do Criador | ✅ redigido — **as fontes externas e o enxerto** |
 | **16** | 09/09/2026 | `V3/RC-611` Flechas de Moros · `V3/RC-486` Enki · `V4/RC-623` Corpo Átmico · `V3/RC-530` Pistis Sophia · `V3/RC-586` Rishis · `V3/RC-556` Senhor Parameshthi | ✅ redigido — **os nomes de um só nó** |
+| **17** | 09/09/2026 | `V3/RC-734` Samudra Manthana · `V4/RC-332` Favor Divino · `V3/RC-645` Consciências em Corpos de Sílica · `V3/RC-261` Kether · `V2/RC-107` Universo Material · `V4/RC-335` Lavagem Cerebral | ✅ redigido — **a inversão** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -391,6 +392,28 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Duas renomeações:** `V3.16.04-RC718-…` e `V4.18.01-RC704-…`. III.9.1 passa a cinco verbetes; III.11.2 e III.13.2, a quatro cada.
 7. **`RC-544` Novo Homo sapiens foi pulado neste lote**, por decisão do Curador — e o material para a sua ficha existe: `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` mais as palestras listadas no registro-mestre.
 
+### Lote 17 — a inversão (6 verbetes, 5.403 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Samudra Manthana | III.16.5 | `V3/V3.16.05-samudra-manthana.md` | 1.003 | 862 p. |
+| Favor Divino (invertido) | IV.21.2 | `V4/V4.21.02-favor-divino.md` | 963 | 1.286 p. |
+| Consciências em Corpos de Sílica | III.13.4 | `V3/V3.13.04-RC645-consciencias-em-corpos-de-silica.md` | 889 | 772 p. |
+| Kether (Javé na Cabala) | III.9.1 | `V3/V3.09.01-RC261-kether.md` | 882 | 954 p. |
+| Universo Material (Bhuloka) | II.7.1 | `V2/V2.07.01-RC107-universo-material.md` | 838 | **409 p.** |
+| Lavagem Cerebral | IV.21.1 | `V4/V4.21.01-RC335-lavagem-cerebral.md` | **828** | 584 p. |
+
+**Medida final:** 828–1.003 palavras · **114 verbatim byte a byte** (30 reprovados na 1ª conferência, todos corrigidos) · 60 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 17:**
+
+1. **A inversão é o eixo.** Favor Divino (o humano favorece o Criador), Lavagem Cerebral (as revelações condicionam em vez de libertar), Kether (a Coroa da Cabala é o Criador caído) e Samudra Manthana (a cooperação entre Devas e Asuras é cooperação forçada): em todos, **o que a tradição lê para cima, a obra lê para baixo**.
+2. **`RC-107` Universo Material é o único verbete em que a fonte e a ciência concordam.** 13,7 bilhões de anos e Big Bang conferem com a cosmologia corrente. A quarentena aqui é mínima e está **na origem** («resultante da queda do Criador»), não na idade.
+3. **`RC-734` é o segundo verbete sobre mito hindu** (o primeiro foi `RC-282`) e o mais cauteloso: a própria fonte oferece a metáfora interior como alternativa à leitura literal — «o nosso interior é o oceano que precisa ser batido pelo Eu da gente».
+4. **A ficha de `RC-734` declara três pontos não harmonizados** (a serpente, Kurma/Vishnu, os produtos do batimento) com `[REVISAR]`. **O verbete mantém a marca e não completa com fonte externa** — completar seria curadoria sem despacho.
+5. **Falhas: 30 → 11 → 0.** Das onze restantes, **sete eram nossas** — quatro elisões com «...» sobre texto contínuo, duas paráfrases como se fossem fala, e uma tentativa de «melhorar» o STT por dentro da aspa: escrevemos «acima da [dos] deuses» onde a fala diz «acima da Deus». **A solução honesta não é corrigir a fonte: é encerrar a citação antes do trecho.**
+6. **Renomeação:** `V3.13.04-RC709-…`. III.9.1 passa a seis verbetes e II.7.1 a cinco — os dois maiores blocos da enciclopédia.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -412,9 +435,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 61 dos 79 (lotes 7–16); **18 restantes com grau total ≥ 10**. Próximos seis — `RC-645` Consciências em Corpos de Sílica (11) · `RC-734` Samudra Manthana (11) · `RC-107` Universo Material (10) · `RC-261` Kether (10) · `RC-332` Favor Divino (10) · `RC-335` Lavagem Cerebral (10).
-
-> **Lacuna em aberto (09/09/2026):** `RC-544` Novo Homo sapiens tem grau total 11, está no registro-mestre e em 11 relações — mas **não possui ficha** em `termos/`. O material para escrevê-la existe: `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` e as palestras arroladas no registro-mestre. Pendente de despacho do Curador.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 67 dos 79 (lotes 7–17); **11 restantes com grau total ≥ 10** (`RC-544` fora da fila, por decisão do Curador — a sua ficha fica para o fim, com autorização já dada para o agente escrevê-la a partir de B019 e das palestras do registro-mestre). Próximos seis — `RC-475` Deva / Aurora (10) · `RC-571` Ano de 2012 (10) · `RC-596` Archeons de Ereon (10) · `RC-610` Tridevi (10) · `RC-619` Genoma da Liberdade (10) · `RC-636` Duas Pulsações da Criação (10).
 
 ## 5. Como conferir
 
