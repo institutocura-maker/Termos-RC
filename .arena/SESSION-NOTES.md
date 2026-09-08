@@ -212,3 +212,20 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 5. **Três renomeações de uma vez** (regra do endereço compartilhado): `V4.19.01-RC699-…`, `V4.20.01-RC695-…`, `V3.14.01-RC700-…`.
 
 **Próximos seis:** RC-633 (15) · RC-712 (15) · RC-714 (15) · RC-086 (14) · RC-087 (14) · RC-253 (14).
+
+---
+
+## 08/09/2026 — Lote 12: as cercas e os casos-limite (6 verbetes, 5.711 palavras)
+
+`RC-086` Pandora (IV.17.4, 1.063 p.) · `RC-712` Lei da Mente do Buda (II.8.3, 1.049) · `RC-253` Liberdade Mental (IV.21.1, 974) · `RC-633` Gestão da Sensação Pessoal (IV.20.1, 918) · `RC-087` Perpérion (II.7.2, 894) · `RC-714` Arquivos do Destino (V.23.1, 813).
+
+**Acumulado: 72 verbetes · 1.819 verbatim · 813 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Novo menor lastro: `RC-714` Arquivos do Destino, 281 palavras** (uma palestra, uma citação) — nó de grau 15 chamado por seis relações. O verbete só existe porque a rede o procura.
+2. **`RC-712` tem a cerca mais explícita da enciclopédia, e ela é da Base:** «não é lei científica», «não é citação textual do Buda validada neste projeto», «não comprova cura genética, levitação ou caminhada sobre água». O verbete reproduz o escopo rigoroso antes de interpretar.
+3. **`RC-086` Pandora exigiu duas quarentenas simultâneas:** mediúnica (B020/B087 = escritos recebidos, canal e não ontologia do médium) e mitológica (Hesíodo = referência externa, não ontologia).
+4. **Falhas 35 → 11 → 0.** Das 11 restantes, 6 eram nossas: colchetes inseridos dentro de citações («[de Zeus]», «c[om capacidade limitada]»), 2 citações truncadas com «...» e 2 paráfrases nossas como se fossem fala. **Padrão recorrente: o redator querendo melhorar a fonte.**
+5. **Armadilha nova (evitar):** `sub()` com `qtd=1` quebrou num prefixo que aparecia 2× (corpo + «Na voz do autor»). Rotina agora imprime a contagem e substitui todas as ocorrências do prefixo.
+6. **Três renomeações:** `V2.08.03-RC604-…`, `V2.07.02-RC472-…`; `V4.20.01` e `V4.21.01` passam a ter três verbetes cada.
+
+**Próximos seis:** RC-041 (13) · RC-061 (13) · RC-282 (13) · RC-456 (13) · RC-612 (13) · RC-614 (13).

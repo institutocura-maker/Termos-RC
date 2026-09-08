@@ -69,6 +69,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **9** | 08/09/2026 | `V2/RC-094` Revelação Cósmica · `V4/RC-166` Mentalma · `V1/RC-263` Sefirot / Árvore da Vida · `V4/RC-695` Ciência Pessoal · `V3/RC-024` Anunnakis · `V2/RC-716` PIA | ✅ redigido — **as fontes e as chaves** |
 | **10** | 08/09/2026 | `V2/RC-167` Criação Indevida · `V3/RC-565` Hochmah · `V3/RC-378` A Rebelião dos Elétrons · `V4/RC-099` Seres Terrenos · `V2/RC-715` Informações Vivas · `V3/RC-701` Daksha e Virini | ✅ redigido — **o laboratório se esvazia** |
 | **11** | 08/09/2026 | `V5/RC-467` Moiras / Nornes · `V3/RC-585` Vyasa · `V2/RC-559` Teia Quântica · `V4/RC-529` Ressonância Límbica · `V4/RC-577` Xamanismo Cósmico · `V2/RC-472` Tempérion | ✅ redigido — **o eixo do destino** |
+| **12** | 08/09/2026 | `V4/RC-086` Pandora · `V2/RC-712` Lei da Mente do Buda · `V4/RC-253` Liberdade Mental · `V4/RC-633` Gestão da Sensação Pessoal · `V2/RC-087` Perpérion · `V5/RC-714` Arquivos do Destino | ✅ redigido — **as cercas e os casos-limite** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -271,6 +272,29 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 5. **Três novas renomeações de endereço compartilhado** — as mais de uma só vez: `V4.19.01-RC699-…` (IV.19.1), `V4.20.01-RC695-…` (IV.20.1) e `V3.14.01-RC700-…` (III.14.1). Conteúdo intocado; a regra de que **todos** os arquivos do endereço levam o código agora vale para 14 verbetes.
 6. **O eixo do destino se fecha.** Moiras (`RC-467`), Teia (`RC-559`), Wyrd (`RC-658`), PIA (`RC-716`), Informações Vivas (`RC-715`) e Arquivos do Destino (`RC-714`) formam o subsistema mais coeso da enciclopédia — o que explica por que todos esses nós têm grau 15 ou mais.
 
+### Lote 12 — as cercas e os casos-limite (6 verbetes, 5.711 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Pandora | IV.17.4 | `V4/V4.17.04-pandora.md` | 1.063 | 4.008 p. · 9 ampliações |
+| Lei da Mente do Buda | II.8.3 | `V2/V2.08.03-RC712-lei-da-mente-do-buda.md` | 1.049 | 581 p. |
+| Liberdade Mental | IV.21.1 | `V4/V4.21.01-RC253-liberdade-mental.md` | 974 | 568 p. |
+| Gestão da Sensação Pessoal | IV.20.1 | `V4/V4.20.01-RC633-gestao-da-sensacao-pessoal.md` | 918 | 754 p. |
+| Perpérion | II.7.2 | `V2/V2.07.02-RC087-perperion.md` | 894 | 805 p. |
+| Arquivos do Destino Universal | V.23.1 | `V5/V5.23.01-arquivos-do-destino-universal.md` | **813** | **281 p.** |
+
+**Medida final:** 813–1.063 palavras · **108 verbatim byte a byte** (35 reprovados na 1ª conferência, todos corrigidos) · 59 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 12:**
+
+1. **A ficha de menor lastro da enciclopédia mudou de dono.** `RC-714` Arquivos do Destino tem **281 palavras** — menos que `RC-472` Tempérion (351) e muito menos que `RC-099` (508). Uma palestra, uma citação. E é um nó de grau 15, chamado por seis relações. O verbete só existe porque a rede o procura.
+2. **`RC-712` traz a cerca mais explícita da enciclopédia — e a cerca é da Base.** A ficha declara que a lei «não é lei científica», «não é citação textual do Buda validada neste projeto» e «não comprova cura genética, levitação ou caminhada sobre água». O verbete reproduz o escopo rigoroso **antes** de interpretar, e não suaviza uma palavra.
+3. **`RC-087` Perpérion é o único verbete 🟢 verificado deste lote** — e continua sendo tratado como os outros: verificado descreve a ficha, não o verbete.
+4. **O par Perpérion/Tempérion se completou.** Os dois archeons dividem o endereço II.7.2 com as duas fichas mais magras do conjunto (805 e 351 p.) e funções opostas: o experimento que falhou e a observação que se manteve.
+5. **`RC-086` Pandora exigiu duas quarentenas simultâneas:** a mediúnica (B020/B087 são escritos recebidos — «atitude unilateral da sua parte», «este aflito escrevente»: canal, não ontologia do médium) e a mitológica (Hesíodo é **referência externa**, não ontologia).
+6. **Três renomeações de endereço compartilhado:** `V2.08.03-RC604-…`, `V2.07.02-RC472-…` e, do lote anterior, `V4.20.01` e `V4.21.01` passaram a ter três verbetes cada.
+7. **Falhas: 35 → 11 → 0.** Das onze restantes, seis eram nossas — colchetes inseridos dentro de citações («[de Zeus]», «c[om capacidade limitada]»), duas citações truncadas com «...» e duas paráfrases nossas escritas como se fossem fala. **O padrão é sempre o mesmo: o reditor querendo melhorar a fonte.**
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -292,7 +316,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 31 dos 79 (lotes 7–11); **48 restantes com grau total ≥ 10**. Próximos seis — `RC-633` Gestão da Sensação Pessoal (15) · `RC-712` Lei da Mente do Buda (15) · `RC-714` Arquivos do Destino Universal (15) · `RC-086` Pandora (14) · `RC-087` Perpérion (14) · `RC-253` Liberdade Mental (14).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 37 dos 79 (lotes 7–12); **42 restantes com grau total ≥ 10**. Próximos seis — `RC-041` Criador (13) · `RC-061` Espiritualidade Laboratorial (13) · `RC-282` Mohen So / Phanes (13) · `RC-456` Ser LM (13) · `RC-612` Nova Espiritualidade (13) · `RC-614` Quarto Cérebro Humano (13).
 
 ## 5. Como conferir
 
