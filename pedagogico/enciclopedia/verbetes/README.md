@@ -83,6 +83,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **23** | 09/09/2026 | `V3/RC-005` Segundo Advento (**longo**) · `V1/RC-293` Timé · `V2/RC-176` Modelo Colmeia · `V3/RC-286` Tártaro · `V2/RC-040` CFD · `V2/RC-415` Colapso da Matriz · `V2/RC-194` Big Data | ✅ redigido — **abertura do 4º anel (grau 8)** |
 | **24** | 09/09/2026 | `V4/RC-543` Espelho da Herança (**longo**) · `V3/RC-579` Noreia · `V3/RC-583` Guerra Nuclear Anunnaki · `V2/RC-600` Seres Originais · `V1/RC-618` Moksha · `V4/RC-624` Corpo Búdico · `V2/RC-471` Bifrost | ✅ redigido — **o humano como máquina de ler o invisível** |
 | **25** | 09/09/2026 | `V5/RC-771` Fornos Replicadores (**longo**) · `V3/RC-766` Sethianos Emancipados · `V4/RC-518` Genoma Derivado · `V3/RC-769` Corpos Fenvã · `V2/RC-628` Simultaneidade Reversa · `V4/RC-724` Formas-Pensamento | ✅ redigido — **FECHO DO 4º ANEL (grau 8)** |
+| **26** | 09/09/2026 | `V3/RC-078` Lúcifer (**longo**) · `V1/RC-071` Jan Val Ellam · `V3/RC-147` Zont En Drel 29 · `V3/RC-411` Gênero Adhy · `V3/RC-408` ADHYMAVATANA · `V3/RC-342` Quarentena Sideral · `V3/RC-049` Demos | ✅ redigido — **abertura do 5º anel (grau 7)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -637,6 +638,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 12. **As outras três:** negrito da Base atravessado na aspa (`RC-766`, `RC-771`) e recorte que perde palavra da fonte (`RC-724`: «memória **básica** atribuída aos elétrons»).
 13. **Renomeação:** `V3/V3.14.03-RC586` (Rishis). Endereço novo: **V.23.2**.
 
+### Lote 26 — abertura do 5º anel, grau 7 (7 verbetes, 5.789 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Lúcifer (Yel Luzbel) (**longo**) | III.12.1 | `V3/V3.12.01-RC078-lucifer.md` | **1.349** | **2.220 p.** |
+| Jan Val Ellam | I.1.1 | `V1/V1.01.01-jan-val-ellam.md` | 778 | 1.319 p. |
+| Zont En Drel 29 | III.13.3 | `V3/V3.13.03-zont-en-drel.md` | 756 | 1.011 p. |
+| Gênero Adhy (147 seres, 5 espécies) | III.13.5 | `V3/V3.13.05-RC411-genero-adhy.md` | 734 | 839 p. |
+| ADHYMAVATANA | III.10.3 | `V3/V3.10.03-RC408-adhymavatana.md` | 734 | 1.063 p. |
+| Quarentena Sideral / Cósmica | III.12.4 | `V3/V3.12.04-quarentena-sideral.md` | 729 | 864 p. |
+| Demos | III.12.1 | `V3/V3.12.01-RC049-demos.md` | **709** | 1.494 p. |
+
+**Medida final:** 709–1.349 palavras · **181 verbatim byte a byte** (25 reprovados na 1ª conferência, todos corrigidos) · 59 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 26:**
+
+1. **`RC-078` é o primeiro verbete 🟢 verificado deste ciclo de lotes** — ficha de **2.220 palavras** e 13 ampliações, posta em formato longo. `RC-049` (Demos) também é 🟢.
+2. **A frase mais humana da enciclopédia está em `RC-078`:** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema». **A duplicação «o o» é do STT e ficou.**
+3. **A tese de `RC-078` inverte a leitura cristã:** ele não é o «diabo» do cristianismo — «é um biodemo rebelde exilado, cuja ação possibilitou o despertar mental». A identificação com o adversário bíblico é **tradição** (Is 14,12 + Vulgata de Jerônimo); a obra a **desfaz**.
+4. **O arco do personagem, na voz da própria fonte:** pesquisador → as três constatações → a negação → a mutação («'pequena' mutação genética») → o contágio → a **renúncia** («Agora, sou um ser independente!») → a nomeação que não quis → a **corresponsabilidade** («somos ambos corresponsáveis») → a redenção («redimir-me diante de mim mesmo»).
+5. **`RC-071` traz a regra mais rigorosa da enciclopédia em matéria de pessoa viva: QUARENTENA BIOGRÁFICA ATIVA.** A ficha registra a persona doutrinária, «jamais a vida pessoal»; relatos biográficos «entram como leitura/registro, nunca como fato ontológico». **O verbete descreve uma função, não uma biografia.**
+6. **`RC-049` faz uma escolha filológica que o verbete explicita:** «demo = "demente"». *Daímon* (δαίμων) significa divindade menor ou gênio em grego — **não** «demente». A obra **escolhe** a leitura.
+7. **`RC-147` é o anjo que sente:** «os En Drel não foram programados para sentir, e eu havia sentido algo». O detalhe mais forte da ficha: **o indivíduo é um índice** — Zont En Drel **29**, o 29º da linhagem.
+8. **`RC-411` declara o próprio empréstimo:** «olhando de acordo com a taxonomia que a gente aplica na biologia aqui na Terra, reino, filo, gênero, espécie, eles são gênero». **O verbete a apresenta como analogia, não como biologia.** Os números variam dentro da fonte (147 seres, 5 espécies, uma espécie de 43; 10→5 e 8→7 ou 6) e **não foram harmonizados**.
+9. **`RC-408` é composto da obra — e a própria ficha o diz** («composto RC (Adhy + Mavatna)»). Onde a fonte ajuda: *adhyātman*, *adhibhūta*, *adhidaiva* e *adhiyajña* **são** categorias reais do pensamento indiano; a reorganização é que é da obra.
+10. **`RC-342` é termo da 1ª fase do pensamento do autor (1999–2000)**, equivalente ao Isolamento Cósmico (`RC-070`) das obras posteriores. **Os dois códigos não foram fundidos** — preserva-se a cronologia do pensamento.
+11. **Falhas: 25 → 0 — o maior número já registrado, e quase todas do mesmo tipo.** **`RC-078` concentrou 11 porque sua ficha é densamente negritada** (B057/B058 têm ênfase em quase toda fala longa): o **negrito da Base atravessado na aspa** voltou a ser o erro dominante, com o remédio canônico de partir em duas.
+12. **Duas elisões nossas dentro da aspa** (uma delas no bloco «Na voz do autor» de `RC-078`) e **dois colchetes inventados** sobre texto da Base (`RC-411` «prevale[cer]», `RC-071` «neu[ronais]»), além de uma **palavra trocada** («estradas neuronais» onde a fonte diz **neurais**).
+13. **Instrumento novo que mudou o ritmo da correção:** um diagnóstico que localiza, para cada aspa reprovada, **o trecho-fonte ao redor da maior correspondência**. Em vez de adivinhar onde o negrito cortava, passamos a ver a fonte. **As 25 falhas foram resolvidas em três rodadas.**
+14. **Dois rótulos de código corrigidos à mão:** `RC-031` **não** é o glossário fundador — é «Aya e Aye» (a obra fundadora é o livro **B031**, sem código); e `RC-011` é «Adhy», não «Gênero Adhy» (o gênero é `RC-411`).
+15. **Renomeação:** `V3.10.03-RC135` (Vishnu/Mavatna). Três endereços novos: **I.1.1**, **III.13.3** e **III.12.4**.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -658,7 +691,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7)**, aberto no lote 26 — **351 nós redigíveis**, dos quais **33 com grau 7**. Próximos seis: `RC-078` Lúcifer (ficha de **2.220 p.**) · `RC-049` Demos (1.494) · `RC-071` Jan Val Ellam (1.319) · `RC-408` ADHYMAVATANA (1.063) · `RC-147` Zont En Drel 29 (1.011) · `RC-411` Gênero Adhy (839).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7)**, aberto no lote 26 — **344 nós redigíveis**, dos quais **26 com grau 7**. Próximos oito: `RC-553` Eu Profundo (952 p.) · `RC-488` Nefilins (914) · `RC-264` Planos de Existência da Cabala (757) · `RC-541` Evolução Possível (595) · `RC-470` Midgard (523) · `RC-465` Asuras (458) · `RC-496` Ereon (433) · `RC-480` Indra (278).
 
 ## 5. Como conferir
 
