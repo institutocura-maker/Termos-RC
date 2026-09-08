@@ -5,7 +5,7 @@
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 
@@ -57,7 +57,7 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 |---|---|---|
 | Javé | RC-001 | relaciona-se-a |
 | Ao Vencedor as Batatas | RC-764 | relaciona-se-a |
-| Criaturas-ferramenta | RC-449 | sinônimo |
+| Criaturas-ferramenta | RC-449 | remissiva — duplicata absorvida por este verbete ([F045-MERGE 07-09-2026]) |
 
 ---
 
@@ -65,3 +65,43 @@ Na RC, os seres gerados pela Criação Indevida (RC-167) como **instrumentos do 
 
 - **Nós como manipulação de códigos:** "eles foram manipulando códigos e nós somos a manipulação de códigos que lá atrás um ser chamado Moros... conseguiram codificar sobre a forma de gene no tempo em que a vida veio pro universo biológico" (RC-454);
 - A humanidade como "cobaia" de experiências: "o espírito é um instrumento, é um agente também, é uma cobaia de experiências que ele vai reunindo na sua mente eterna" (contexto RC-767).
+
+
+---
+
+## Absorção de RC-449 — F045 · 07/09/2026
+
+O código **RC-449** («Criaturas-ferramenta», SERES & ENTIDADES / 1.7, com lastro
+em B057-B058) era duplicata homônima deste verbete e foi absorvido aqui pelo
+despacho F045; a ficha RC-449 passa a remissiva. O material exclusivo daquele
+verbete fica preservado abaixo.
+
+### B058 (A Revolta do Anjo Decaído) — a metafísica do reflexo
+
+- **[B058 p. 6 · nota «Imagem e Reflexo» — a definição filosófica do conceito]**
+  «apenas uma **criatura-ferramenta**, e passa a constituir **o "deus verdadeiro de
+  si mesmo"!**»; «A "Forma Imagem-pensamento" foi subjugada por algumas das suas
+  "réplicas" que se libertaram e se autotransformaram em "reflexos de si mesmas",
+  independentes do seu Criador.»
+- **[B058 p. 8]** «Que culpa têm as **criaturas-ferramentas — como os capelinos e os
+  humanos**, por exemplo — que surgiram para a vida nesta Criação "imperfeita", de
+  simplesmente pensarem e procederem de acordo com o que foram condicionados?»
+  (nota da autora terrena.)
+- **[B058 p. 9]** a tríade: «o "Espelho" (o Espírito) modificar o "reflexo" (o ego da
+  criatura-ferramenta que ele anima) e a "Imagem" (o próprio Criador que se
+  "reconstituiu"...).»
+- 0 códigos novos (O-3). «Deus verdadeiro de si mesmo» e a metafísica do reflexo =
+  **leitura teológica/filosófica do ser** (O-7 — jamais fato ontológico primário).
+
+### P2025-05-31 — o contexto dos clones
+
+- «todos os seres... são clones de Javé... os tais anjos clones ou seres de condição
+  adhyajna que se metamorfoseiam, são seres demoníacos, não no sentido ruim da
+  palavra» — o contexto da criação como «criaturas-ferramenta» de Javé.
+
+### P2025-03-15 — o diferencial humano
+
+- «o pior dos 8 bilhões de seres humanos é capaz de agir como um herói em um dado
+  instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8
+  bilhões de anos consegue fazer isso no paraíso» — o diferencial humano como
+  ferramenta de ressignificação.

@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 5.1 Epistemologia / Cognição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-09-02 |
+| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 O Choque de Realidade é a forma pela qual a estupidez humana colecionada ao longo da história será confrontada — a única maneira de "bater na cara da estupidez humana" para que os humanos acordem (os que sobreviverem). Esses choques acontecerão como eventos inevitáveis resultantes de processos que a humanidade já engatilhou e que estão no nível máximo de represamento, prestes a explodir. Não são promovidos por seres de fora (que estão apenas assistindo), mas são consequência da própria ação humana.
@@ -35,3 +35,26 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-02-04 | A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião (palestra) | transcrição automatizada; citação |
+
+
+---
+
+## Absorção de RC-936 — F045 · 07/09/2026
+
+O código **RC-936** («Choque de realidade», aberto por F043-T3 em 06/09/2026) era
+duplicata homônima deste verbete e foi absorvido aqui pelo despacho F045; a ficha
+RC-936 passa a remissiva. O material exclusivo daquela ficha — a definição
+dicionarizada do *Glossário Krys Amon* — fica preservado abaixo como **sentido
+registrado pelo grupo**.
+
+**Sentido 2 — registro do grupo (fonte secundária):** «Situação inesperada e que
+causa desilusão, interferindo drasticamente no modo de viver.»
+— EXT-2024-01-04 (Glossário Krys Amon), verbete «Choque de realidade»;
+paráfrase/definição, **fonte secundária** (a hierarquia das fontes primárias —
+obras e falas de Jan Val Ellam — permanece intacta).
+
+**Nota de método (por que os dois verbetes não conflitam):** a definição do grupo
+descreve o *efeito* do choque sobre o indivíduo — a desilusão que rompe a zona de
+conforto teórico; a definição canônica (acima) descreve a *causa* coletiva — os
+processos já represados que a humanidade mesma engatilhou. Efeito e causa: o
+despertar forçado é o outro nome da explosão.

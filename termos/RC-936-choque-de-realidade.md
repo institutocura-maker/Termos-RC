@@ -1,11 +1,17 @@
 # CHOQUE DE REALIDADE — RC-936
 
+> **REMISSIVA — [F045-MERGE 07-09-2026]** Este código é **duplicata absorvida por RC-898
+> («Choque de Realidade»)**. O verbete canônico é **RC-898** — é ele que deve ser
+> citado. O conteúdo abaixo fica preservado como registro histórico da abertura
+> F043-T3 (Anel C, definição do Glossário Krys Amon como fonte secundária).
+
+
 | Campo | Valor |
 |---|---|
 | **Categoria Principal** | Processos & Fenômenos |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
 | **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-06 |
+| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 Situação inesperada que causa desilusão e interfere drasticamente no modo de viver; no corpus, o mecanismo pelo qual a «zona de teórico conforto» se rompe e a atenção desperta (familial às «tijoladas»).

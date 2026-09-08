@@ -1,11 +1,17 @@
 # Criaturas-ferramenta — RC-449
 
+> **REMISSIVA — [F045-MERGE 07-09-2026]** Este código é **duplicata absorvida por RC-164
+> («Criaturas-ferramenta»)**. O verbete canônico é **RC-164** — é ele que deve ser
+> citado. O conteúdo abaixo fica preservado como registro histórico, notadamente o
+> lastro B057/B058 (a metafísica do reflexo), migrado para o verbete canônico.
+
+
 | Campo | Valor |
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
 | **Status** | 🟡 Provisório |
-| **Última atualização** | 2026-08-18 |
+| **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética
 
@@ -50,6 +56,6 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 
 | Termo | Código | Relação |
 |---|---|---|
-| Criaturas-ferramenta | RC-164 | sinônimo |
+| Criaturas-ferramenta | RC-164 | verbete canônico — este código é remissiva ([F045-MERGE 07-09-2026]) |
 | Javé | RC-001 | relaciona-se-a |
 | Ao Vencedor as Batatas | RC-764 | relaciona-se-a |
