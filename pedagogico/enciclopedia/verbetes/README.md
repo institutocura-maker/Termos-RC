@@ -79,6 +79,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **19** | 09/09/2026 | `V3/RC-727` DNA Insubmisso *(longo)* · `V4/RC-723` Abismo da Providência · `V5/RC-767` 256 Caminhos · `V2/RC-726` Faixas de Ressonância · `V2/RC-746` Dessensibilização | ✅ redigido — **fecho do 2º anel** |
 | **20** | 09/09/2026 | `V3/RC-145` Zeus · `V3/RC-489` Enoque · `V4/RC-548` Arquivos Mentais · `V1/RC-192` Pílula vermelha · `V4/RC-190` Revelação Espiritual · `V3/RC-463` Hermes Trismegisto | ✅ redigido — **abertura do 3º anel** |
 | **21** | 09/09/2026 | `V5/RC-558` Sensação de eu · `V5/RC-654` Últimos e Primeiros · `V5/RC-615` Superconsciência · `V4/RC-625` Corpo Manásico · `V3/RC-582` Ravana · `V4/RC-637` Transferência da Memória | ✅ redigido — **o humano como chegada** |
+| **22** | 09/09/2026 | `V3/RC-737` Projeto Amaterasu · `V2/RC-730` Yggdrasil · `V4/RC-732` Invasão Ancestral · `V4/RC-713` Taumaturgia · `V3/RC-665` Orunmilá · `V2/RC-674` Urdidura · `V5/RC-687` Farmacopeia | ✅ redigido — **fecho do 3º anel (7 verbetes)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -515,6 +516,32 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 8. **A mais instrutiva:** tentamos citar o **nosso próprio erro** do lote 14 («corpos búdico e átmico») como se estivesse na Base. **Ele não está.** O erro foi nosso, não da fonte — e **não se cita o que não existe na fonte**.
 9. **Renomeação:** `V3.12.01-RC145-…`. Dois endereços novos: IV.19.3 e III.12.1 (este agora com dois verbetes).
 
+### Lote 22 — fecho do 3º anel (7 verbetes, 5.659 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Projeto Amaterasu–Kami no Japão | III.16.5 | `V3/V3.16.05-RC737-projeto-amaterasu.md` | 898 | 635 p. |
+| Yggdrasil / Conglomerado dos Nove Mundos | II.7.6 | `V2/V2.07.06-yggdrasil.md` | 852 | 934 p. |
+| Taumaturgia Genético-Química | IV.19.1 | `V4/V4.19.01-RC713-taumaturgia-genetico-quimica.md` | 865 | **2.005 p.** |
+| Invasão Ancestral do Genoma | IV.18.3 | `V4/V4.18.03-RC732-invasao-ancestral.md` | 845 | 601 p. |
+| Urdidura de Metatron | II.8.1 | `V2/V2.08.01-rc674-urdidura-de-metatron.md` | 726 | **287 p.** |
+| Orunmilá (Moros de Irém / Orum) | III.14.1 | `V3/V3.14.01-RC665-orunmila.md` | 790 | 1.199 p. |
+| Farmacopeia Ancestral Extraterrestre | V.23.3 | `V5/V5.23.03-farmacopeia-ancestral.md` | **683** | **233 p.** |
+
+**Medida final:** 683–898 palavras · **116 verbatim byte a byte** (41 reprovados na 1ª conferência, todos corrigidos) · 74 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 22:**
+
+1. **O 3º anel está fechado.** Todos os nós de grau 9 com ficha foram redigidos — 23 lotes, do 7 ao 22. Restam **371 nós redigíveis**, agora no grau 8.
+2. **`RC-687` é o primeiro verbete da enciclopédia sem bloco «Na voz do autor».** A ficha tem **233 palavras** (a menor de toda a Base) e **não contém uma única fala do autor**: é inteiramente feita de escopo, ressalvas e remissivas. **Não havia o que citar — e inventar uma fala seria a pior das falsificações.**
+3. **`RC-687` é também o verbete em que a Base mais ressalva, e o verbete menos arrisca:** «A hipótese não constitui comprovação botânica, farmacológica ou antropológica de origem extraterrestre»; as imagens serpentinas «devem permanecer fenomenologicamente registradas, sem serem promovidas a contato físico comprovado».
+4. **`RC-732` traz a ficha com as fronteiras mais explícitas da Base:** escopo autorizado, **exclusão clínica vinculante** (NT-FP21 bloqueado — nada sobre crianças, famílias, autismo ou diagnósticos) e blindagem clínica e científica máxima. **O verbete não ultrapassa nenhuma das três.**
+5. **`RC-713` traz a ressalva biomédica mais forte já registrada:** «não deve orientar tratamento de saúde». O verbete a reproduz na íntegra, com as aspas curvas da fonte.
+6. **Três verbetes em terreno historicamente firme:** Yggdrasil e os Nove Mundos são corpo real da mitologia nórdica (Eddas); o **Kojiki** (712) e o **Nihon Shoki** (720) existem e organizam a genealogia imperial por descendência de Amaterasu; os 16 odus de Ifá existem. **Em todos, a quarentena recua para a identificação proposta pela obra** — Marte como nono mundo, Amaterasu como Atena, Orunmilá como Moros.
+7. **Falhas: 41 → 11 → 0.** Das 11, **nove eram nossas**: cinco composições como citação, duas elisões e **dois usos de guillemet que não são citação** — pusemos um título de seção («Na voz do autor») entre aspas e inventamos um colchete de complemento sobre um texto truncado da ficha.
+8. **Seis rótulos de código corrigidos à mão** (o verificador não pega nome errado): `RC-217` = «DNA como Projeção Holográfica do Psiquismo do Criador»; `RC-454` = «Elm (Moros — ser LM de Tempérion)»; `RC-686` = «Plantas de Moléculas Complexas»; `RC-359` = «Abduções e Reparo Espiritual»; e, o mais grave, `RC-269` e `RC-531`, que havíamos rotulado «Atena» e «Poseidon» — **não são**.
+9. **Renomeação:** `V3.16.05-RC734-…`. Dois endereços novos: II.7.6 e V.23.3.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -536,7 +563,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9):** aberto no lote 20. Dos 576 códigos ainda não redigidos, **186 não têm ficha** — a fila real é de **378 nós redigíveis**. Restam **7 com grau 9**: `RC-665` Orunmilá (1.199 p.) · `RC-674` Urdidura de Metatron (287) · `RC-687` Farmacopeia Ancestral (233) · `RC-713` Taumaturgia Genético-Química (2.005) · `RC-730` Yggdrasil (934) · `RC-732` Invasão Ancestral do Genoma (601) · `RC-737` Projeto Amaterasu–Kami (635). A seguir, grau 8, a partir de `RC-005` Segundo Advento do Cristo (ficha de **5.526 p.**).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8)**, aberto no lote 23 — **371 nós redigíveis**. Próximos seis: `RC-005` Segundo Advento do Cristo (ficha de **5.526 p.**) · `RC-040` CFD — Código Fonte Definidor (1.565) · `RC-176` Modelo Colmeia (1.433) · `RC-194` Big Data Cósmico (1.365) · `RC-293` Timé (1.113) · `RC-286` Eros = Vishnu / Tártaro = Shiva (737).
 
 ## 5. Como conferir
 

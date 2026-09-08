@@ -419,3 +419,23 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 9. **Renomeação:** `V3.12.01-RC145`. Endereços novos: IV.19.3, III.12.1.
 
 **Restam 7 nós com grau 9:** RC-665 (1.199) · RC-674 (287) · RC-687 (233) · RC-713 (2.005) · RC-730 (934) · RC-732 (601) · RC-737 (635). Depois, grau 8, a partir de RC-005 (ficha de 5.526 p.).
+
+---
+
+## 09/09/2026 — Lote 22: FECHO DO 3º ANEL (7 verbetes, 5.659 palavras)
+
+`RC-737` Projeto Amaterasu–Kami (III.16.5, 898 p.) · `RC-730` Yggdrasil (II.7.6, 852) · `RC-713` Taumaturgia Genético-Química (IV.19.1, 865) · `RC-732` Invasão Ancestral (IV.18.3, 845) · `RC-665` Orunmilá (III.14.1, 790) · `RC-674` Urdidura de Metatron (II.8.1, 726) · `RC-687` Farmacopeia Ancestral (V.23.3, 683).
+
+**Acumulado: 132 verbetes · 3.174 verbatim · 1.440 códigos · 0 falhas** · Base intacta · 0 código criado. **Grau 9 = 0 restantes.**
+
+1. **3º anel FECHADO.** Todos os nós de grau 9 com ficha redigidos (lotes 7–22). Restam **371 nós redigíveis**, agora no grau 8.
+2. **RC-687 = primeiro verbete SEM bloco «Na voz do autor».** Ficha de 233 p. (menor da Base) **sem uma única fala do autor**. Não havia o que citar — inventar seria a pior falsificação.
+3. **RC-687 = o que a Base mais ressalva e o que o verbete menos arrisca:** «não constitui comprovação botânica, farmacológica ou antropológica»; imagens serpentinas «sem serem promovidas a contato físico comprovado».
+4. **RC-732 = ficha com as fronteiras mais explícitas da Base:** escopo autorizado + exclusão clínica vinculante (NT-FP21 bloqueado) + blindagem máxima. O verbete não ultrapassa nenhuma.
+5. **RC-713 = ressalva biomédica mais forte já registrada:** «não deve orientar tratamento de saúde», com aspas curvas da fonte.
+6. **3 verbetes em terreno firme:** Yggdrasil/Nove Mundos (Eddas); Kojiki (712) e Nihon Shoki (720); 16 odus de Ifá. Quarentena recua para a identificação proposta (Marte = nono mundo; Amaterasu = Atena; Orunmilá = Moros).
+7. **Falhas 41 → 11 → 0.** Das 11, **9 nossas**: 5 composições como citação, 2 elisões, **2 usos de guillemet que não são citação** (título de seção + colchete inventado sobre texto truncado).
+8. **6 rótulos de código corrigidos à mão**, o mais grave: `RC-269` e `RC-531` rotulados «Atena» e «Poseidon» — **não são** (Linhagens Humanas / Laboratório Genético Terra).
+9. **Renomeação:** `V3.16.05-RC734`. Endereços novos: II.7.6, V.23.3.
+
+**4º anel (grau 8), lote 23:** RC-005 (ficha de 5.526 p.) · RC-040 (1.565) · RC-176 (1.433) · RC-194 (1.365) · RC-293 (1.113) · RC-286 (737).
