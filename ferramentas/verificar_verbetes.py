@@ -23,6 +23,17 @@ sys.path.insert(0, AQUI)
 import dados_termos as d  # noqa: E402
 
 
+def carregar_documento(caminho):
+    """Le um caminho relativo a raiz, aceitando glob (ex.: termos/RC-600-*.md)."""
+    alvo = os.path.join(RAIZ, caminho)
+    if any(ch in alvo for ch in "*?["):
+        achou = sorted(glob.glob(alvo))
+        assert achou, f"glob sem resultado: {caminho}"
+        return "".join(open(p, encoding="utf-8").read() for p in achou)
+    assert os.path.exists(alvo), f"documento-fonte declarado inexistente: {caminho}"
+    return open(alvo, encoding="utf-8").read()
+
+
 def main(pasta=None):
     pasta = pasta or os.path.join(RAIZ, "pedagogico", "enciclopedia", "verbetes-modelo")
     corpus = ""
@@ -36,9 +47,17 @@ def main(pasta=None):
 
     for arq in arquivos:
         txt = open(arq, encoding="utf-8").read()
+        # secoes de redacao (sem ficha na Base) declaram os seus documentos-fonte:
+        # todo caminho .md entre crases entra no corpus de conferencia.
+        declarados = re.findall(r"`([^`\n]+\.(?:md|txt))`", txt)
+        extra = ""
+        for cam in sorted(set(declarados)):
+            if "verbetes-modelo" in cam or "verbetes-secao-24" in cam:
+                continue
+            extra += carregar_documento(cam)
         for cit in re.findall(r"«([^»]+)»", txt):
             total_q += 1
-            if cit not in corpus:
+            if cit not in corpus and cit not in extra:
                 falhas_q.append((os.path.basename(arq), cit))
         for c in sorted(set(re.findall(r"RC-\d{3}", txt))):
             n_cod += 1
