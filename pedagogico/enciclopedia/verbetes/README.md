@@ -87,6 +87,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **27** | 09/09/2026 | `V1/RC-760` Vrittis e Cittas · `V3/RC-671` Metatron · `V5/RC-605` Autismo Funcional · `V3/RC-553` Eu Profundo · `V3/RC-594` Linhagem de Seth · `V3/RC-609` Ogdóade de Hermópolis · `V4/RC-749` Vício Devocional · `V3/RC-488` Nefilins · `V3/RC-580` Igigi · `V3/RC-581` Rakshasas · `V3/RC-465` Asuras · `V3/RC-480` Indra · `V2/RC-496` Ereon · `V5/RC-541` Evolução Possível · `V4/RC-563` Travas e lacres · `V1/RC-666` Obatalá · `V4/RC-670` Yoga Ancestral · `V5/RC-728` Fantasmas do Passado Mitológico · `V2/RC-731` Axis Mundi · `V4/RC-733` Dominação Psíquica pela Devoção · `V4/RC-762` Três Escalas da Consciência · `V2/RC-264` Planos de Existência da Cabala · `V2/RC-470` Midgard · `V4/RC-764` Ao Vencedor as Batatas · `V3/RC-765` Relógio Messiânico · `V4/RC-768` Princípio da Externalização | ✅ redigido — **fecho do 5º anel, grau 7 — 26 verbetes de uma vez** |
 | **28** | 09/09/2026 | `V5/RC-758` Quarto Cérebro · `V1/RC-682` Malkuth · `V4/RC-735` Abraço aos Fantasmas · `V5/RC-738` Amaterasu · `V5/RC-754` Chave da Decifração Universal · `V5/RC-887` Nag Hammadi | ✅ redigido — **abertura do 6º anel (grau 6)** |
 | **29** | 09/09/2026 | `V2/RC-657` Verdade Posta × Verdade a Construir · `V4/RC-620` Eu Coalescente · `V3/RC-592` Era de Peixes · `V4/RC-630` Corpo Daiva · `V2/RC-643` Santo Graal · `V2/RC-602` Blindagens Interdimensionais | ✅ redigido |
+| **30** | 09/09/2026 | `V4/RC-557` Conectoma humano · `V4/RC-552` Disciplina dos 3As · `V3/RC-567` Ciclo de Precessão Equinocial · `V3/RC-584` Rama · `V3/RC-487` Enlil · `V4/RC-566` Protocolo da Busca | ✅ redigido |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -792,6 +793,40 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 14. **Falhas 4 → 0 — e o perfil delas mudou:** nenhuma elisão, nenhuma grafia trocada. **3 de 4 são expressão nossa aspirada em Tensões** (reincidência do erro estrutural dos lotes 25–28) e 1 é **elisão nossa dentro de aspa longa** (`RC-657`). Itálico resolveu as nossas; aspa cheia resolveu a elisão.
 15. **Endereço novo: II.5.4** (Blindagens Interdimensionais).
 
+### Lote 30 — 6º anel, grau 6 (6 verbetes, 6.272 palavras)
+
+**Despacho do Curador:** «Beleza ! Em frente com os próximos seis do grau 6». Restam **12 nós** no grau 6.
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | IV.18.3 | `V4/V4.18.03-RC557-conectoma-humano.md` | **1.379** | **1.855 p.** |
+| Disciplina dos 3As (respiração, mente, alinhamento) | IV.20.2 | `V4/V4.20.02-disciplina-dos-3as.md` | **1.124** | 1.151 p. |
+| Ciclo de Precessão Equinocial | III.16.2 | `V3/V3.16.02-RC567-ciclo-de-precessao-equinocial.md` | **1.053** | 930 p. |
+| Rama (avatar de Vishnu) | III.10.3 | `V3/V3.10.03-RC584-rama.md` | 1.015 | 889 p. |
+| Enlil (deus sumério, par de Enki) | III.13.2 | `V3/V3.13.02-RC487-enlil.md` | 1.006 | **1.287 p.** |
+| Protocolo da Busca | IV.20.1 | `V4/V4.20.01-RC566-protocolo-da-busca.md` | **695** | 305 p. |
+
+**Medida final:** 695–1.379 palavras (média 1.045) · **187 verbatim byte a byte** (**16 reprovados** na 1ª conferência, todos corrigidos) · 56 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 30:**
+
+1. **O 6º anel segue aberto:** 203 verbetes · **447 nós redigíveis** · **12 com grau 6**. Foi o lote de maior média do 6º anel (1.045) e o de maior ficha (`RC-557`, 1.855 p.).
+2. **`RC-552` (Disciplina dos 3As) é o melhor lastro bibliográfico do lote e o único 🟡:** B074 com **página** (131, 135, 136, 172, 174, 181, 184) e B075 (23, 94, 168, 169). **Prática com fonte impressa, não só oral.**
+3. **A cadeia dos 3As é mecânica, não devocional:** respiração → emoção → soberania. «E o controle das emoções de um ser humano passa inevitavelmente pelo controle da respiração.»
+4. **Os números são pessoais, e a própria fonte o diz:** 4–5 respirações por minuto, retenção de 16–20 s — «cada um deve criar o seu próprio ritmo respiratório, atentando para que não haja esforço». **O verbete os dá como prática de Ellam, não como prescrição.**
+5. **A dívida com o pranayama é declarada pela própria obra** («pranayama» «— as práticas milenares que consistem em exercícios de controle respiratório»).
+6. **`RC-557` (Conectoma) tem a maior ficha do lote e a quarentena mais severa:** a formulação dos dois cérebros entra «EXCLUSIVAMENTE COMO CONCEITO METAFÍSICO DO MENTALMA» (Devolutiva O-7). **Emoto e a lagosta/oxitocina são chaves pedagógicas, não dogmas científicos** (O-4).
+7. **A tese de `RC-557` é a mais forte do lote:** «o eu humano nem é desse espírito, o eu humano nem é desse corpo» — o eu é o conectoma, «UM PROGRAMA QUE PENSA QUE EXISTE».
+8. **O caso-limite de Jesus em `RC-557` é o melhor uso da regra do lastro:** o espírito de Jesus «não consegue acionar nele a memória do conectoma talvez mais belo já produzido na condição humana». **Ter o álbum não é poder revivê-lo.**
+9. **A ponte `RC-557` → `RC-758` está na própria ficha:** a convergência dos dois cérebros «PROMOVERÁ A EMERGÊNCIA DO QUARTO CÉREBRO». **Dois verbetes de lotes consecutivos que se completam.**
+10. **`RC-567` (Precessão) registra o maior conflito com dado externo do lote:** o período real da precessão é da ordem de 25.700–25.800 anos; **25.920 vem da tradição dos doze signos × 2.160**. E o «Tzalkin» da fonte **é o Tzolk'in, calendário de 260 dias** — o ciclo de ~5.200 anos é a **Conta Longa** (13 baktuns). **A ficha registra o uso do autor; o verbete não o corrige na voz do autor.**
+11. **`RC-567` preserva a divergência numérica inteira:** 25.920 / 25.980 / 26.000 / 104.000 — «Preservar a divergência numérica» é instrução da própria ficha.
+12. **`RC-584` (Rama) inverte a simpatia do Ramaiana pela segunda vez no acervo** (a primeira foi `RC-581`, Ravana): o mérito é a sinarquia, o problema é o massacre — «DEIXOU CERCA DE 20.000 VIÚVAS». **Quarentena clínica leve** no bloco da «INSEMINAÇÃO MENTAL».
+13. **`RC-487` (Enlil) traz a hipótese de leitura do curador registrada como hipótese:** «hipótese de leitura histórica» «sem fusão ontológica» «— Enlil e Javé permanecem entidades distintas na Base». **Não fundidas.** E a **quarentena ufológica crítica (O-7)** é a mais severa do lote.
+14. **Três dos seis verbetes vêm da mesma palestra** — P2022-12-17: `RC-566` (a postura), `RC-567` (a métrica) e `RC-592` (a era). **Leem-se como um único argumento.**
+15. **16 falhas → 0, o pior índice do 6º anel.** Composição: **8 negrito da Base atravessado na aspa** (`RC-557` ×3, `RC-552` ×4, `RC-487` ×1) · **4 expressão nossa aspirada** (`RC-557`, `RC-552` ×2, `RC-584`) · **1 elisão nossa dentro da aspa** (`RC-557`) · **2 grafia/transcrição** («espície» × «espécie», «retardarem» × «retardar») · **1 recorte truncado com `...`** (`RC-567`). **Remédios: aspa contígua para o negrito, itálico para o que é nosso, aspa cheia para a elisão.**
+16. **Endereço novo: IV.20.2** (Disciplina dos 3As). Sem renomeações neste lote.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -817,7 +852,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 e em curso — **453 nós redigíveis**, dos quais **18 com grau 6**. Próximos seis: `RC-584` Rama · `RC-567` Ciclo de Precessão Equinocial · `RC-566` Protocolo da Busca · `RC-557` Conectoma humano · `RC-552` Disciplina dos 3As · `RC-487` Enlil.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 e em curso — **447 nós redigíveis**, dos quais **12 com grau 6**. Próximos seis: `RC-460` Marduk · `RC-424` Linhagem dos Escolhidos · `RC-400` Foz Côa / FOXP2 · `RC-295` Drama do Fechamento dos Portais · `RC-283` Pandora como Serpente do Éden · `RC-188` Mente Coletiva.
 
 ## 5. Como conferir
 

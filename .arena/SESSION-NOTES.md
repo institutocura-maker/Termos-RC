@@ -611,3 +611,32 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 15. **Endereço novo: II.5.4.** Sem renomeações neste lote.
 
 **Próximos (grau 6):** RC-584 Rama · RC-567 Ciclo de Precessão Equinocial · RC-566 Protocolo da Busca · RC-557 Conectoma humano · RC-552 Disciplina dos 3As · RC-487 Enlil — 18 no total.
+
+---
+
+## 09/09/2026 — Lote 30: 6º ANEL, GRAU 6 (6 verbetes, 6.272 palavras)
+
+**Despacho do Curador: «Beleza ! Em frente com os próximos seis do grau 6»** — RC-557, RC-552, RC-487, RC-567, RC-584, RC-566.
+
+`RC-557` Conectoma humano (IV.18.3, **1.379**) · `RC-552` Disciplina dos 3As (IV.20.2, **1.124**) · `RC-567` Ciclo de Precessão Equinocial (III.16.2, **1.053**) · `RC-584` Rama (III.10.3, 1.015) · `RC-487` Enlil (III.13.2, 1.006) · `RC-566` Protocolo da Busca (IV.20.1, **695**).
+
+**Acumulado: 203 verbetes · 4.741 verbatim · 2.088 códigos · 0 falhas** · Base intacta (946/650/1898) · 0 código criado. **Grau 6: 12 restantes** de 447 redigíveis.
+
+1. **Ambiente estável:** HEAD = remoto = `b149a03` na abertura.
+2. **Maior média do 6º anel (1.045) e maior ficha do lote** (`RC-557`, 1.855 p.).
+3. **RC-552 = melhor lastro bibliográfico e único 🟡:** B074 com página (131/135/136/172/174/181/184) + B075 (23/94/168/169). Cadeia mecânica: respiração → emoção → soberania.
+4. **Os números dos 3As são pessoais** e a própria fonte manda criar o ritmo próprio, sem esforço. **Não são prescrição do verbete.**
+5. **Dívida com o pranayama declarada pela obra** — o verbete não a disfarça.
+6. **RC-557 = quarentena mais severa do lote:** os dois cérebros entram «EXCLUSIVAMENTE COMO CONCEITO METAFÍSICO DO MENTALMA» (O-7); Emoto/lagosta-oxitocina = chaves pedagógicas (O-4), não dogmas.
+7. **Tese mais forte do lote:** «o eu humano nem é desse espírito, o eu humano nem é desse corpo» — o eu é o conectoma, «UM PROGRAMA QUE PENSA QUE EXISTE».
+8. **Caso-limite de Jesus (RC-557):** o espírito não consegue reviver o conectoma mais belo já produzido. **Ter o álbum não é poder revivê-lo.**
+9. **Ponte RC-557 → RC-758:** a convergência dos dois cérebros «PROMOVERÁ A EMERGÊNCIA DO QUARTO CÉREBRO».
+10. **RC-567 = maior conflito com dado externo do lote:** precessão real ~25.700–25.800 anos; 25.920 vem de 12 signos × 2.160. E o «Tzalkin» da fonte é o **Tzolk'in (260 dias)** — o ciclo de ~5.200 anos é a **Conta Longa (13 baktuns)**. **Registrado como uso do autor, sem correção na voz dele.**
+11. **RC-567 preserva 25.920 / 25.980 / 26.000 / 104.000** — instrução da própria ficha.
+12. **RC-584: segunda inversão de simpatia do Ramaiana** (1ª foi RC-581/Ravana). Mérito = sinarquia; problema = massacre (20.000 viúvas). Quarentena clínica leve na «INSEMINAÇÃO MENTAL».
+13. **RC-487: hipótese do curador registrada como hipótese** («sem fusão ontológica» — Enlil ≠ Javé). Quarentena ufológica CRÍTICA (O-7). Divergência Base ⚪ × ficha 🟡.
+14. **Três dos seis vêm de P2022-12-17** — RC-566 (postura), RC-567 (métrica), RC-592 (era).
+15. **16 falhas → 0, pior índice do 6º anel:** 8 negrito da Base atravessado (RC-557 ×3, RC-552 ×4, RC-487 ×1) · 4 expressão nossa aspirada · 1 elisão nossa · 2 grafia/transcrição · 1 recorte truncado com `...`. Remédios: aspa contígua, itálico, aspa cheia.
+16. **Endereço novo: IV.20.2.** Sem renomeações.
+
+**Próximos (grau 6):** RC-460 Marduk · RC-424 Linhagem dos Escolhidos · RC-400 Foz Côa / FOXP2 · RC-295 Drama do Fechamento dos Portais · RC-283 Pandora como Serpente do Éden · RC-188 Mente Coletiva — 12 no total.
