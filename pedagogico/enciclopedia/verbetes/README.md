@@ -84,6 +84,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **24** | 09/09/2026 | `V4/RC-543` Espelho da Herança (**longo**) · `V3/RC-579` Noreia · `V3/RC-583` Guerra Nuclear Anunnaki · `V2/RC-600` Seres Originais · `V1/RC-618` Moksha · `V4/RC-624` Corpo Búdico · `V2/RC-471` Bifrost | ✅ redigido — **o humano como máquina de ler o invisível** |
 | **25** | 09/09/2026 | `V5/RC-771` Fornos Replicadores (**longo**) · `V3/RC-766` Sethianos Emancipados · `V4/RC-518` Genoma Derivado · `V3/RC-769` Corpos Fenvã · `V2/RC-628` Simultaneidade Reversa · `V4/RC-724` Formas-Pensamento | ✅ redigido — **FECHO DO 4º ANEL (grau 8)** |
 | **26** | 09/09/2026 | `V3/RC-078` Lúcifer (**longo**) · `V1/RC-071` Jan Val Ellam · `V3/RC-147` Zont En Drel 29 · `V3/RC-411` Gênero Adhy · `V3/RC-408` ADHYMAVATANA · `V3/RC-342` Quarentena Sideral · `V3/RC-049` Demos | ✅ redigido — **abertura do 5º anel (grau 7)** |
+| **27** | 09/09/2026 | `V1/RC-760` Vrittis e Cittas · `V3/RC-671` Metatron · `V5/RC-605` Autismo Funcional · `V3/RC-553` Eu Profundo · `V3/RC-594` Linhagem de Seth · `V3/RC-609` Ogdóade de Hermópolis · `V4/RC-749` Vício Devocional · `V3/RC-488` Nefilins · `V3/RC-580` Igigi · `V3/RC-581` Rakshasas · `V3/RC-465` Asuras · `V3/RC-480` Indra · `V2/RC-496` Ereon · `V5/RC-541` Evolução Possível · `V4/RC-563` Travas e lacres · `V1/RC-666` Obatalá · `V4/RC-670` Yoga Ancestral · `V5/RC-728` Fantasmas do Passado Mitológico · `V2/RC-731` Axis Mundi · `V4/RC-733` Dominação Psíquica pela Devoção · `V4/RC-762` Três Escalas da Consciência · `V2/RC-264` Planos de Existência da Cabala · `V2/RC-470` Midgard · `V4/RC-764` Ao Vencedor as Batatas · `V3/RC-765` Relógio Messiânico · `V4/RC-768` Princípio da Externalização | ✅ redigido — **fecho do 5º anel, grau 7 — 26 verbetes de uma vez** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -478,7 +479,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Zeus | III.12.1 | `V3/V3.12.01-zeus.md` | 1.081 | 1.662 p. |
 | Enoque | III.14.1 | `V3/V3.14.01-RC489-enoque.md` | 998 | **3.892 p.** |
 | Arquivos Mentais | IV.19.1 | `V4/V4.19.01-RC548-arquivos-mentais.md` | **979** | 1.225 p. · **60 verbatim** |
-| Pílula vermelha | I.3.4 | `V1/V1.03.04-pilula-vermelha.md` | 909 | 1.125 p. |
+| Pílula vermelha | I.3.4 | `V1/V1.03.04-RC192-pilula-vermelha.md` | 909 | 1.125 p. |
 | Revelação Espiritual (Kardec) | IV.20.1 | `V4/V4.20.01-RC190-revelacao-espiritual-kardec.md` | 810 | 603 p. |
 | Hermes Trismegisto | III.14.1 | `V3/V3.14.01-RC463-hermes-trismegisto.md` | **770** | 890 p. |
 
@@ -504,7 +505,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Superconsciência | V.22.1 | `V5/V5.22.01-RC615-superconsciencia.md` | 835 | 795 p. |
 | Ravana | III.12.1 | `V3/V3.12.01-RC582-ravana.md` | 806 | 1.150 p. |
 | Corpo Manásico | IV.18.1 | `V4/V4.18.01-RC625-corpo-manasico.md` | 821 | 561 p. |
-| Transferência da Memória dos Antielétrons | IV.19.3 | `V4/V4.19.03-transferencia-da-memoria-dos-antieletrons.md` | **701** | **351 p.** |
+| Transferência da Memória dos Antielétrons | IV.19.3 | `V4/V4.19.03-RC637-transferencia-da-memoria-dos-antieletrons.md` | **701** | **351 p.** |
 
 **Medida final:** 701–980 palavras · **123 verbatim byte a byte** (42 reprovados na 1ª conferência, todos corrigidos) · 60 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -644,7 +645,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 |---|---|---|---|---|
 | Lúcifer (Yel Luzbel) (**longo**) | III.12.1 | `V3/V3.12.01-RC078-lucifer.md` | **1.349** | **2.220 p.** |
 | Jan Val Ellam | I.1.1 | `V1/V1.01.01-jan-val-ellam.md` | 778 | 1.319 p. |
-| Zont En Drel 29 | III.13.3 | `V3/V3.13.03-zont-en-drel.md` | 756 | 1.011 p. |
+| Zont En Drel 29 | III.13.3 | `V3/V3.13.03-RC147-zont-en-drel.md` | 756 | 1.011 p. |
 | Gênero Adhy (147 seres, 5 espécies) | III.13.5 | `V3/V3.13.05-RC411-genero-adhy.md` | 734 | 839 p. |
 | ADHYMAVATANA | III.10.3 | `V3/V3.10.03-RC408-adhymavatana.md` | 734 | 1.063 p. |
 | Quarentena Sideral / Cósmica | III.12.4 | `V3/V3.12.04-quarentena-sideral.md` | 729 | 864 p. |
@@ -670,6 +671,60 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 14. **Dois rótulos de código corrigidos à mão:** `RC-031` **não** é o glossário fundador — é «Aya e Aye» (a obra fundadora é o livro **B031**, sem código); e `RC-011` é «Adhy», não «Gênero Adhy» (o gênero é `RC-411`).
 15. **Renomeação:** `V3.10.03-RC135` (Vishnu/Mavatna). Três endereços novos: **I.1.1**, **III.13.3** e **III.12.4**.
 
+### Lote 27 — fecho do 5º anel, grau 7 (26 verbetes, 24.507 palavras)
+
+**Despacho do Curador:** «Vamos para o grau 7 de uma vez.» — os 26 nós de grau 7 com ficha foram redigidos num único lote, em quatro commits, sem formato longo: **nenhuma ficha do anel passava de 1.900 palavras**.
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Vrittis e Cittas (atividades e núcleos mentais) | I.3.1 | `V1/V1.03.01-RC760-vrittis-e-cittas.md` | **1.463** | **1.906 p.** |
+| Autismo Funcional dos Seres da Espiritualidade Superior | V.22.1 | `V5/V5.22.01-RC605-autismo-funcional.md` | 1.196 | 1.209 p. |
+| Metatron | III.13.3 | `V3/V3.13.03-RC671-metatron.md` | 1.189 | 1.256 p. |
+| Vício Devocional | IV.21.1 | `V4/V4.21.01-RC749-vicio-devocional.md` | 1.181 | 925 p. |
+| Eu Profundo (nível espiritual do Eu) | III.13.5 | `V3/V3.13.05-RC553-eu-profundo.md` | 1.181 | 952 p. |
+| Ogdóade de Hermópolis | III.15.1 | `V3/V3.15.01-RC609-ogdoade-de-hermopolis.md` | 1.157 | 949 p. |
+| Linhagem de Seth | III.15.2 | `V3/V3.15.02-RC594-linhagem-de-seth.md` | 1.090 | 972 p. |
+| Nefilins (= Anunnakis) | III.13.2 | `V3/V3.13.02-RC488-nefilins.md` | 1.080 | 914 p. |
+| Rakshasas | III.12.1 | `V3/V3.12.01-RC581-rakshasas.md` | 1.061 | 907 p. |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | IV.20.1 | `V4/V4.20.01-RC762-tres-escalas-da-consciencia.md` | 1.024 | 814 p. |
+| Dominação Psíquica pela Devoção | IV.19.1 | `V4/V4.19.01-RC733-dominacao-psiquica-pela-devocao.md` | 966 | 679 p. |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | II.7.1 | `V2/V2.07.01-RC264-planos-de-existencia-da-cabala.md` | 960 | 757 p. |
+| Igigi | III.13.2 | `V3/V3.13.02-RC580-igigi.md` | 948 | 632 p. |
+| Relógio Messiânico | III.16.4 | `V3/V3.16.04-RC765-relogio-messianico.md` | 922 | 545 p. |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | V.22.1 | `V5/V5.22.01-RC541-evolucao-possivel.md` | 911 | 595 p. |
+| Ao Vencedor as Batatas (paradigma do domínio) | IV.21.1 | `V4/V4.21.01-RC764-ao-vencedor-as-batatas.md` | 849 | 460 p. |
+| Asuras (= Titãs) | III.12.5 | `V3/V3.12.05-asuras.md` | 822 | 458 p. |
+| Obatalá (correspondência de Javé em Ifá) | I.3.4 | `V1/V1.03.04-RC666-obatala.md` | 807 | 472 p. |
+| Midgard (Marte + Terra) | II.7.3 | `V2/V2.07.03-midgard.md` | 794 | 523 p. |
+| Indra (título de arconte) | III.13.5 | `V3/V3.13.05-RC480-indra.md` | 790 | 278 p. |
+| Princípio da Externalização (criação divina sem sexualidade) | IV.19.3 | `V4/V4.19.03-RC768-principio-da-externalizacao.md` | 724 | 283 p. |
+| Travas e lacres (mecanismos de controle do despertar) | IV.21.1 | `V4/V4.21.01-RC563-travas-e-lacres.md` | 716 | 346 p. |
+| Yoga Ancestral (Origem Cósmica) | IV.20.1 | `V4/V4.20.01-RC670-yoga-ancestral.md` | 703 | 210 p. |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | II.7.6 | `V2/V2.07.06-RC496-ereon.md` | 678 | 433 p. |
+| Fantasmas do Passado Mitológico | V.22.1 | `V5/V5.22.01-RC728-fantasmas-do-passado-mitologico.md` | 663 | 293 p. |
+| Axis Mundi / Axismund | II.7.6 | `V2/V2.07.06-RC731-axis-mundi.md` | **632** | 300 p. |
+
+**Medida final:** 632–1.463 palavras (média 942) · **509 verbatim byte a byte** (14 reprovados na 1ª conferência, todos corrigidos) · 154 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 27:**
+
+1. **O 5º anel (grau 7) está fechado** — e foi fechado inteiro num só lote, como pedido. Nenhum nó de grau 7 ou superior com ficha ficou por redigir. A Base passa a ter **185 verbetes**.
+2. **`RC-760` (Vrittis e Cittas) é o maior verbete do lote — 1.463 palavras para uma ficha de 1.906.** É também o que tem o melhor lastro cruzado: Patanjali, Kapila/Samkhya, Ramana Maharshi e a memória dos elétrons (`RC-160`) numa única cadeia. O **Nirodha** é a síntese: recolher, ressignificar, devolver.
+3. **O tattva não tem código e o verbete explica por quê:** foi absorvido estruturado em `RC-760` por O-3. É o elo do meio da tríade vrittis → tattvas → cittas — e é definido em termos físicos pela fonte: «partículas que em tese devem existir mas que funcionam para além do espaço-tempo da nossa matrix».
+4. **`RC-671` (Metatron) tem a melhor definição do lote:** «só forma antimaterial de um humano chamado Enoque». O estado atual da função é descrito com uma imagem técnica — «inteligência artificial sem autonomia... Metatron existe ainda hoje, feito uma estátua» — que é analogia do autor de 2025 sobre um ser pré-diluviano.
+5. **O «suicídio» de Enoque está isolado no corpus** e a ficha o marcou com chancela. O verbete o preserva como dito e **não o promove a tese**.
+6. **`RC-605` carrega a quarentena clínica mais rigorosa da enciclopédia.** A ficha é explícita duas vezes e o verbete repete as duas: «figura de linguagem filosófica do autor; jamais diagnóstico ou afirmação médica sobre indivíduos terrestres»; e qualquer reemprego em contexto humano «está vedado por decisão do Curador».
+7. **A universalização do autismo funcional chega ao próprio Deus:** «TODO MUNDO PARA TRÁS É AUTISTA. PONTO. INCLUSIVE DEUS, O AMANTÍSSIMO». A ficha anota que **P2021-09-04 antecipa em quatro meses** a fonte que ela registrava — ganho de **conteúdo**, não de anterioridade.
+8. **`RC-553` (Eu Profundo) é o único nó do lote com 🟡 provisório na Base e o único com lastro de obra publicada** (B074/B075, com capítulo e página). A técnica vem de Ramana Maharshi **por declaração da própria obra**.
+9. **`RC-594` traz a etimologia mais consequente do lote:** Satã viria de **Set**. A filologia corrente deriva o termo do hebraico *śāṭān*, «adversário». **As duas leituras não se fundem** — o verbete registra a da obra e declara a outra.
+10. **`RC-609` é o caso-modelo de divergência não harmonizada:** 8 / 7 / 6 são três contagens de três perspectivas diferentes (adiátima, adiágia e o fatiamento Saraswati-Lakshmi). A ficha mantém as três; fundi-las seria inventar.
+11. **`RC-581` (Rakshasas) inverte a simpatia do Ramaiana:** o contraste é entre Ravana, que «não deixava nenhum rakshasa para atrás», e Rama, que «deixou tudo para trás em nome do governo sinárquico». O verbete registra a inversão sem endossá-la.
+12. **`RC-733` tem a concessão mais honesta da enciclopédia:** a própria obra reconhece que a educação dármica de Krishna «não é ruim» — o alvo é a degradação em vício, não a prática original. E a ficha declara que o vocabulário psiquiátrico da fala «é retórico, não diagnóstico».
+13. **Duas divergências Base × ficha foram registradas sem arbitragem:** `RC-480` (Base: ⚪ candidato; ficha: 🟡 provisório) e `RC-563` (Base: 2.6 Ética/Carma; ficha: 2.4 Espiritualidade/Doutrina). **Nenhuma foi harmonizada.**
+14. **`RC-264` registra uma nota desatualizada da própria ficha:** ela declara `RC-038`, `RC-059`, `RC-060` e `RC-061` sem ficha, mas três dos quatro já a têm — falta apenas `RC-038` (Brahmaloka).
+15. **Falhas: 14 → 0, e a maioria voltou a ser do mesmo tipo — nossas composições em «Tensões» postas como citação** (7 casos: «forma validada pelo curador», «senhor dos animais», «não ruim», «Retardamento», «vocabulário psiquiátrico...», «mecânica profética interna do autor», «registro doutrinário»). Somam-se 3 elisões nossas dentro da aspa, 1 capitalização indevida, 1 **palavra trocada** (**Nefelim** por «Nefel»), 1 citação com aspas curvas da fonte digitadas como retas (`RC-264`) e 1 trecho com negrito da Base atravessado (`RC-465`).
+16. **Três renomeações por endereço compartilhado:** `V1.03.04-RC192`, `V4.19.03-RC637` e `V3.13.03-RC147`. Um endereço novo: **II.7.3** (Midgard).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -691,7 +746,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7)**, aberto no lote 26 — **344 nós redigíveis**, dos quais **26 com grau 7**. Próximos oito: `RC-553` Eu Profundo (952 p.) · `RC-488` Nefilins (914) · `RC-264` Planos de Existência da Cabala (757) · `RC-541` Evolução Possível (595) · `RC-470` Midgard (523) · `RC-465` Asuras (458) · `RC-496` Ereon (433) · `RC-480` Indra (278).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — os 26 nós foram redigidos de uma vez.** Restam **465 nós redigíveis**, dos quais **30 com grau 6** — o 6º anel está aberto. Próximos seis: `RC-887` Nag Hammadi · `RC-758` Quarto Cérebro · `RC-754` Chave da Decifração Universal · `RC-738` Amaterasu · `RC-735` Abraço aos Fantasmas · `RC-682` Malkuth.
 
 ## 5. Como conferir
 

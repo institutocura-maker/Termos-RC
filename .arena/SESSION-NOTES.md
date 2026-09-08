@@ -529,3 +529,30 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 14. **Renomeação:** `V3.10.03-RC135`. Endereços novos: I.1.1, III.13.3, III.12.4.
 
 **Próximos (grau 7):** RC-553 (952) · RC-488 (914) · RC-264 (757) · RC-541 (595) · RC-470 (523) · RC-465 (458) · RC-496 (433) · RC-480 (278) — 26 no total.
+
+---
+
+## 09/09/2026 — Lote 27: FECHO DO 5º ANEL, GRAU 7 (26 verbetes, 24.507 palavras — de uma vez)
+
+**Despacho do Curador: «Vamos para o grau 7 de uma vez.»** Os 26 nós de grau 7 com ficha foram redigidos num único lote, em quatro commits (27 1/4 a 4/4), sem formato longo.
+
+`RC-760` Vrittis e Cittas (I.3.1, **1.463**) · `RC-605` Autismo Funcional (V.22.1, 1.196) · `RC-671` Metatron (III.13.3, 1.189) · `RC-749` Vício Devocional (IV.21.1, 1.181) · `RC-553` Eu Profundo (III.13.5, 1.181) · `RC-609` Ogdóade (III.15.1, 1.157) · `RC-594` Linhagem de Seth (III.15.2, 1.090) · `RC-488` Nefilins (III.13.2, 1.080) · `RC-581` Rakshasas (III.12.1, 1.061) · `RC-762` Três Escalas (IV.20.1, 1.024) · `RC-733` Dominação Psíquica (IV.19.1, 966) · `RC-264` Planos da Cabala (II.7.1, 960) · `RC-580` Igigi (III.13.2, 948) · `RC-765` Relógio Messiânico (III.16.4, 922) · `RC-541` Evolução Possível (V.22.1, 911) · `RC-764` Ao Vencedor as Batatas (IV.21.1, 849) · `RC-465` Asuras (III.12.5, 822) · `RC-666` Obatalá (I.3.4, 807) · `RC-470` Midgard (II.7.3, 794) · `RC-480` Indra (III.13.5, 790) · `RC-768` Externalização (IV.19.3, 724) · `RC-563` Travas e lacres (IV.21.1, 716) · `RC-670` Yoga Ancestral (IV.20.1, 703) · `RC-496` Ereon (II.7.6, 678) · `RC-728` Fantasmas do Passado (V.22.1, 663) · `RC-731` Axis Mundi (II.7.6, **632**).
+
+**Acumulado: 185 verbetes · 4.340 verbatim · 1.918 códigos · 0 falhas** · Base intacta (946/650/1898) · 0 código criado. **Grau 7 = 0. 6º anel (grau 6) = 30 nós** de 465 redigíveis.
+
+1. **5º anel FECHADO num só lote**, como pedido. Nenhuma ficha do anel passava de 1.906 palavras → nenhum formato longo necessário. Média do lote: 942 palavras.
+2. **RC-760 = maior verbete do lote (1.463 p.)** e melhor lastro cruzado: Patanjali + Kapila/Samkhya + Ramana Maharshi + memória dos elétrons. **O tattva não tem código** — absorvido em RC-760 por O-3; é o elo do meio vrittis→tattvas→cittas.
+3. **RC-671:** «Metatron é só forma antimaterial de um humano chamado Enoque». Estado atual: «inteligência artificial sem autonomia... existe ainda hoje, feito uma estátua». **O «suicídio» de Enoque está isolado no corpus** — preservado como dito, não promovido a tese.
+4. **RC-605 = quarentena clínica mais rigorosa da enciclopédia** (dupla, e o verbete repete as duas). **P2021-09-04 antecipa 4 meses a fonte da ficha** — ganho de conteúdo, não de anterioridade. Universalização: «INCLUSIVE DEUS, O AMANTÍSSIMO».
+5. **RC-553 = único 🟡 provisório do lote e único com lastro de obra publicada** (B074/B075 com página). Ramana Maharshi é citado **pela própria obra**.
+6. **RC-594:** etimologia Satã ← Set. A filologia corrente deriva de *śāṭān* («adversário»). **Não fundidas.**
+7. **RC-609 = caso-modelo de divergência não harmonizada:** 8/7/6 (adiátima, adiágia, fatiamento Saraswati-Lakshmi).
+8. **RC-581 inverte a simpatia do Ramaiana:** Ravana «não deixava nenhum rakshasa para atrás» × Rama «deixou tudo para trás em nome do governo sinárquico».
+9. **RC-733 = concessão mais honesta da enciclopédia:** a educação dármica de Krishna «não é ruim»; o alvo é o vício, não a prática. Vocabulário psiquiátrico da fala «é retórico, não diagnóstico».
+10. **2 divergências Base × ficha registradas sem arbitragem:** RC-480 (⚪ candidato × 🟡 provisório) · RC-563 (2.6 Ética/Carma × 2.4 Espiritualidade/Doutrina).
+11. **RC-264:** a nota da ficha sobre RC-038/059/060/061 está **parcialmente desatualizada** — só RC-038 não tem ficha.
+12. **Falhas 14 → 0.** **7 eram nossas composições em «Tensões» postas como citação** («forma validada pelo curador», «senhor dos animais», «não ruim», «Retardamento», «vocabulário psiquiátrico…», «mecânica profética interna do autor», «registro doutrinário») — **reincidência do erro mais persistente do projeto**. Mais: 3 elisões nossas, 1 capitalização indevida («Esse contentamento…»), **1 palavra trocada (Nefelim × Nefel)**, 1 citação com aspas curvas da fonte digitadas como retas (RC-264), 1 negrito atravessado (RC-465).
+13. **Renomeações (3):** `V1.03.04-RC192` · `V4.19.03-RC637` · `V3.13.03-RC147`. **Endereço novo: II.7.3** (Midgard).
+14. **Blindagem de processo aplicada:** README e notas escritos por script com `set -e` e asserts — nenhum commit saiu sem a atualização do índice (repetição do incidente do lote 26 evitada).
+
+**Próximos (grau 6, 6º anel):** RC-887 Nag Hammadi · RC-758 Quarto Cérebro · RC-754 Chave da Decifração Universal · RC-738 Amaterasu · RC-735 Abraço aos Fantasmas · RC-682 Malkuth — 30 no total.
