@@ -63,6 +63,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **3** | 08/09/2026 | `V3/RC-717` Buraco Negro Mental · `V3/RC-081` Mohen So · `V3/RC-414` Krishna · `V3/RC-700` Kashyapa · `V4/RC-704` Corpo Sutil Reencarnante · `V4/RC-720` Sócios do Destino | ✅ redigido |
 | **4** | 08/09/2026 | `V3/RC-395` Ragnarok em Marte · `V3/RC-474` Arcontes · `V3/RC-697` Mão Invisível Multiforme · `V4/RC-698` Cessão Consciente do DNA · `V5/RC-761` Cinco Lentes · `V5/RC-655` Revelação de Ifá | ✅ redigido |
 | **5** | 08/09/2026 | `V3/RC-092` Quarto Logos · `V3/RC-476` En Ma · `V3/RC-709` Humano Turbinado · `V2/RC-693` Evolução da Informação · `V2/RC-703` Postulados Quânticos · `V4/RC-699` Imantação em IAs | ✅ redigido |
+| **6** | 08/09/2026 | `V3/RC-736` Aristocracia Olimpiana · `V4/RC-710` Genes Críticos · `V3/RC-718` Cumprimento da Profecia de Moros · `V5/RC-721` Abismo da Consciência Cósmica · `V4/RC-705` Ato de Verdade · `V2/RC-702` Camuflagem da Realidade | ✅ redigido — **fecha os 35 nós-hub** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -132,7 +133,38 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 4. **Mais uma renomeação de endereço compartilhado.** II.8.1 passou a ter três verbetes (`RC-658`, `RC-693`, `RC-703`); `V2.08.01-wyrd-urd-teia-do-destino.md` virou `V2.08.01-RC658-wyrd-urd-teia-do-destino.md`. Conteúdo intocado.
 5. **Duas citações com marcação da Base foram preservadas, não limpas.** `[STT 'H']` (em `RC-092`) e as reticências de elipse da fonte entram na citação tal como a ficha as registra — limpar a marcação seria reescrever a fonte.
 
-**Nós-hub restantes após o lote 5 (grau ≥ 10, 5 de 35):** RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
+**Lote 6 — medida final:** 866–1.101 palavras · **125 verbatim byte a byte (27 reprovados na 1ª conferência, todos corrigidos) · 65 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Aristocracia Olimpiana e Monarquias Terrestres | III.15.2 | `V3/V3.15.02-aristocracia-olimpiana-e-monarquias-terrestres.md` | 1.101 | 1.225 p. · 7 ampliações |
+| Camuflagem da Realidade | II.7.1 | `V2/V2.07.01-camuflagem-da-realidade.md` | 1.059 | 1.525 p. · 11 ampliações |
+| Abismo da Consciência Cósmica | V.22.1 | `V5/V5.22.01-RC721-abismo-da-consciencia-cosmica.md` | 947 | 637 p. · 2 ampliações |
+| Genes Críticos / Genes Dorminhocos | IV.18.3 | `V4/V4.18.03-RC710-genes-criticos.md` | 915 | 731 p. · 5 ampliações |
+| Cumprimento da Profecia de Moros | III.16.4 | `V3/V3.16.04-cumprimento-da-profecia-de-moros.md` | 895 | 631 p. · 5 atualizações |
+| Ato de Verdade / Satyagraha | IV.21.1 | `V4/V4.21.01-RC705-ato-de-verdade.md` | 866 | 545 p. · 3 ampliações |
+
+**Achados editoriais do lote 6:**
+1. **O ciclo dos nós-hub está fechado: 35 de 35.** O último hub da lista era `RC-702` (Camuflagem da Realidade), que entrou neste lote e fechou a contagem.
+2. **A métrica de "hub" precisou ser escavada — e é mais frágil do que parecia.** A lista de 35 hubs herdada das sessões anteriores corresponde ao **grau de saída ≥ 10** (número de relações em que o código aparece como origem em `RELACOES`), não ao grau total. Recalculando: grau total ≥ 10 daria **114 códigos**, e vizinhos distintos ≥ 10 daria **68**. A lista de 35 só fecha com grau de saída. **O verbete `RC-706` (lote 1) está fora dessa lista** — é o único verbete redigido que não é hub pela métrica herdada. Fica a recomendação: antes do próximo ciclo, o Curador deve fixar qual métrica define a prioridade.
+3. **A correção automática já resolveu metade.** Dos 27 reprovados, 14 saíram no passo mecânico (sem ponto final / inicial maiúscula) e 13 foram à mão — estes por `**negrito**` no meio do trecho (B087/B088/B089, que usam muito realce), por elipse inventada no lugar de texto corrido e por caixa alta da fonte.
+4. **Um erro meu, corrigido a tempo: inventei um STT.** Tinha registrado «NASSATIVA» como grafia degradada em `RC-702`; a ficha grafa **NARRATIVA**. Como nenhuma aspa sobrevive ao verificador sem lastro, o erro apareceu na primeira conferência e foi corrigido — a lição é que a regra do verbatim protege também contra a minha própria memória.
+5. **Mais duas renomeações de endereço compartilhado.** IV.21.1 passou a ter dois verbetes (`RC-720`, `RC-705`) e IV.18.3 também (`RC-698`, `RC-710`): `V4.21.01-RC720-…` e `V4.18.03-RC698-…`. Conteúdo intocado.
+
+### Fecho do ciclo dos hubs (35/35)
+
+| | |
+|---|---|
+| Verbetes redigidos | **36** (35 hubs + `RC-706`) |
+| Palavras (soma dos 6 lotes, `wc -w`) | **41.549** — lote 1: 9.470 · lote 2: 7.190 · lote 3: 7.853 · lote 4: 7.148 · lote 5: 6.105 · lote 6: 5.783 |
+| Verbatim conferidos | **920** · 0 falhas |
+| Códigos citados | **413** · 0 falhas |
+| Base | intacta — 946 termos · 650 fichas · 1.898 relações |
+| Códigos criados | **0** |
+
+**O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
+
+**Nós-hub:** ciclo fechado em 08/09/2026 — **35 de 35** redigidos (grau de saída ≥ 10). Ver o fecho acima; a métrica precisa ser confirmada pelo Curador antes do próximo ciclo.
 
 ## 5. Como conferir
 

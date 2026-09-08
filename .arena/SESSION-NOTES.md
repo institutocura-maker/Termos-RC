@@ -103,3 +103,19 @@
 **Caso-limite do lastro:** `RC-092` tem ficha de 8.302 palavras e 40 ampliações → verbete de 1.736; é o mais comprimido do conjunto e o candidato número um a desdobramento. No extremo oposto, `RC-703` (ficha de 396 p.) e `RC-709` (424 p.) sustentaram verbetes de 743 e 733.
 
 **Renomeação:** II.8.1 passou a ter três verbetes → `V2.08.01-RC658-wyrd-urd-teia-do-destino.md` (conteúdo intocado).
+
+---
+
+## 08/09/2026 — Lote 6: fecho do ciclo dos nós-hub (35/35)
+
+**Redigidos e conferidos:** RC-736 Aristocracia Olimpiana (III.15.2, 1.101 p.) · RC-702 Camuflagem da Realidade (II.7.1, 1.059) · RC-721 Abismo da Consciência Cósmica (V.22.1, 947) · RC-710 Genes Críticos (IV.18.3, 915) · RC-718 Cumprimento da Profecia de Moros (III.16.4, 895) · RC-705 Ato de Verdade / Satyagraha (IV.21.1, 866). Acumulado: **36 verbetes · 920 verbatim · 413 códigos · 0 falhas** · 41.549 palavras (`wc -w`).
+
+**CICLO DOS HUBS FECHADO: 35 de 35.** O último era `RC-702`.
+
+**A métrica de "hub" era frágil e foi escavada agora.** A lista de 35 hubs herdada corresponde ao **grau de saída ≥ 10** (código como origem em `RELACOES`), não ao grau total. Recalculado: grau total ≥ 10 = **114 códigos**; vizinhos distintos ≥ 10 = **68**. Só o grau de saída dá 35. Consequência: **`RC-706` (lote 1) é o único verbete redigido fora dessa lista**. Recomendação registrada no README: o Curador precisa fixar a métrica antes do próximo ciclo.
+
+**Erro meu corrigido pelo verificador:** registrei «NASSATIVA» como STT em `RC-702`; a ficha grafa **NARRATIVA**. A regra do verbatim protege também contra a minha memória.
+
+**Renomeações:** `V4.21.01-RC720-…` e `V4.18.03-RC698-…` (endereços IV.21.1 e IV.18.3 passaram a ter dois verbetes).
+
+**Aberto para despacho:** (a) métrica de prioridade; (b) desdobramento de `RC-092` (ficha 8.302 → verbete 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) regeneração dos espelhos após a limpeza das fichas RC-690/RC-691.
