@@ -82,6 +82,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **22** | 09/09/2026 | `V3/RC-737` Projeto Amaterasu · `V2/RC-730` Yggdrasil · `V4/RC-732` Invasão Ancestral · `V4/RC-713` Taumaturgia · `V3/RC-665` Orunmilá · `V2/RC-674` Urdidura · `V5/RC-687` Farmacopeia | ✅ redigido — **fecho do 3º anel (7 verbetes)** |
 | **23** | 09/09/2026 | `V3/RC-005` Segundo Advento (**longo**) · `V1/RC-293` Timé · `V2/RC-176` Modelo Colmeia · `V3/RC-286` Tártaro · `V2/RC-040` CFD · `V2/RC-415` Colapso da Matriz · `V2/RC-194` Big Data | ✅ redigido — **abertura do 4º anel (grau 8)** |
 | **24** | 09/09/2026 | `V4/RC-543` Espelho da Herança (**longo**) · `V3/RC-579` Noreia · `V3/RC-583` Guerra Nuclear Anunnaki · `V2/RC-600` Seres Originais · `V1/RC-618` Moksha · `V4/RC-624` Corpo Búdico · `V2/RC-471` Bifrost | ✅ redigido — **o humano como máquina de ler o invisível** |
+| **25** | 09/09/2026 | `V5/RC-771` Fornos Replicadores (**longo**) · `V3/RC-766` Sethianos Emancipados · `V4/RC-518` Genoma Derivado · `V3/RC-769` Corpos Fenvã · `V2/RC-628` Simultaneidade Reversa · `V4/RC-724` Formas-Pensamento | ✅ redigido — **FECHO DO 4º ANEL (grau 8)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -605,6 +606,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 13. **Trinta e seis pontos finais nossos estavam dentro da aspa** e foram postos para fora.
 14. **Renomeações:** `V2.07.06-RC730` (Yggdrasil) e `V3.16.01-RC378` (A Rebelião dos Elétrons). Dois endereços novos: **II.5.2** e **III.14.4**.
 
+### Lote 25 — fecho do 4º anel, grau 8 (6 verbetes, 5.275 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Fornos Replicadores (**longo**) | V.23.2 | `V5/V5.23.02-fornos-replicadores.md` | **1.394** | **1.995 p.** |
+| Genoma Derivado | IV.18.3 | `V4/V4.18.03-RC518-genoma-derivado.md` | 864 | **413 p.** |
+| A Raça Inabalável dos Sethianos Emancipados | III.14.3 | `V3/V3.14.03-RC766-sethianos-emancipados.md` | 847 | 497 p. |
+| Corpos Fenvã | III.13.2 | `V3/V3.13.02-RC769-corpos-fenva.md` | 754 | 519 p. |
+| Simultaneidade Reversa | II.8.1 | `V2/V2.08.01-RC628-simultaneidade-reversa.md` | 736 | 492 p. |
+| Formas-Pensamento e Formas-Sentimento | IV.20.1 | `V4/V4.20.01-RC724-formas-pensamento.md` | **680** | **249 p.** |
+
+**Medida final:** 680–1.394 palavras · **136 verbatim byte a byte** (8 reprovados na 1ª conferência, todos corrigidos) · 57 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 4º anel (grau 8) está fechado.** Nenhum nó de grau 8 ou superior com ficha ficou por redigir. Restam **351 nós redigíveis**, dos quais **33 com grau 7**.
+
+**Achados do lote 25:**
+
+1. **`RC-771` é o único nó-guarda-chuva da Base criado por exceção à Navalha de Ockham** — por decisão curatorial (ART-2025-08-01, O-3), «por tratar-se de nó estrutural vital, agrupando os três fornos sob um mesmo eixo sistêmico».
+2. **O detalhe mais forte de `RC-771`: o forno que falhou é o que virou ponte.** «se tivesse sido bem-sucedido, a exportação de uma doença com padrões incuráveis do Brahmaloka teria impedido a vida biológica» — e Awayen, que nunca funcionou, tornou-se a **Central de Realidades** e possível **Portal entre as Realidades**.
+3. **A fonte oral mais antiga dos três fornos é de 2019** (P2019-08-25) e traz o mecanismo pela primeira vez: «O forno aqui é exatamente o casul vibratório aonde a informação que se pretencia passar de lá para cá». As grafias orais fundadoras («Awai Lengan», «aen», «Aon») entram **como ditas** — a ficha proíbe renomear.
+4. **Uma tensão que a Base declarou INSOLÚVEL e o verbete não resolveu:** a chancela F037-L1 registra que o B050 não documenta o cérebro bilatério, com «mesma evidência e idêntico veredito de RC-499» — e a ressalva de que «a moldura ART-2025 não é desmentida por nada».
+5. **Duas cifras que não se fundem (T-14):** a cifra «900, 1 bilhão de anos» em P2021-05-15 qualifica o **encontro dos produtos**, não o surgimento do Homo sapiens. **Selar, não fundir.**
+6. **`RC-766` tem o melhor lastro histórico do lote.** Os **setianos** existem: são corrente gnóstica documentada em Nag Hammadi (*Apócrifo de João*, *Hipóstase dos Arcontes*, *Evangelho dos Egípcios*). A blindagem é da própria ficha: «não é genealogia histórica validada».
+7. **A nota bíblica da ficha está correta:** em Gn 4,26 é **Enos** — não Adão, não Seth — quem começa a invocar o nome do Senhor. **Isso é dado, e a obra o registra.**
+8. **A segunda frase de `RC-766` é tão importante quanto a primeira:** «Os demais precisam apenas não atrapalhar o processo» — **os demais não são condenados.**
+9. **`RC-724` é a segunda menor ficha da enciclopédia (249 p.)**, atrás apenas de `RC-687` (233 p.), e traz uma **expressão retida**: «Rede Neural de Consciência Planetária» ficou marcada `[REVISAR ST/ESCOPO]` e não foi absorvida.
+10. **`RC-518` traz a divergência numérica pela terceira vez no projeto**: a ficha traz **25.869 genes** com marcação `[STT — REVISAR]`. O verbete registra e não harmoniza.
+11. **Falhas: 8 → 0, e cinco delas eram nossas composições em «Tensões».** Este é o padrão de erro mais persistente do projeto: **a seção de Tensões é nossa e aspira como se fosse da fonte.** Desafetadas: «vínculo energético-vibratório de retroalimentação», «seis bilhões de anos após o início da criação», «reescrita pelo eu esclarecido», «genoma como joia disputada por conselhos», «O B050 não registra o cérebro bilatério».
+12. **As outras três:** negrito da Base atravessado na aspa (`RC-766`, `RC-771`) e recorte que perde palavra da fonte (`RC-724`: «memória **básica** atribuída aos elétrons»).
+13. **Renomeação:** `V3/V3.14.03-RC586` (Rishis). Endereço novo: **V.23.2**.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -626,7 +658,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8):** aberto no lote 23. **357 nós redigíveis.** Restam **6 com grau 8**: `RC-771` Fornos Replicadores (**1.995 p.**) · `RC-769` Corpos Fenvã (519) · `RC-766` A Raça Inabalável dos Sethianos Emancipados (497) · `RC-628` Simultaneidade Reversa (492) · `RC-518` Genoma Derivado (413) · `RC-724` Formas-Pensamento e Formas-Sentimento (249). Fechado o grau 8, segue o grau 7, a partir de `RC-078` Lúcifer (ficha de **2.220 p.**).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7)**, aberto no lote 26 — **351 nós redigíveis**, dos quais **33 com grau 7**. Próximos seis: `RC-078` Lúcifer (ficha de **2.220 p.**) · `RC-049` Demos (1.494) · `RC-071` Jan Val Ellam (1.319) · `RC-408` ADHYMAVATANA (1.063) · `RC-147` Zont En Drel 29 (1.011) · `RC-411` Gênero Adhy (839).
 
 ## 5. Como conferir
 

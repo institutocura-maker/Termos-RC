@@ -483,3 +483,24 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 12. **Renomeações:** `V2.07.06-RC730`, `V3.16.01-RC378`. Endereços novos: II.5.2, III.14.4.
 
 **Próximos (fecho do grau 8):** RC-771 (1.995 p.) · RC-769 (519) · RC-766 (497) · RC-628 (492) · RC-518 (413) · RC-724 (249). Depois, grau 7 a partir de RC-078 Lúcifer (2.220 p.).
+
+---
+
+## 09/09/2026 — Lote 25: FECHO DO 4º ANEL, GRAU 8 (6 verbetes, 5.275 palavras)
+
+`RC-771` Fornos Replicadores (V.23.2, **1.394 p. — longo**) · `RC-518` Genoma Derivado (IV.18.3, 864) · `RC-766` Sethianos Emancipados (III.14.3, 847) · `RC-769` Corpos Fenvã (III.13.2, 754) · `RC-628` Simultaneidade Reversa (II.8.1, 736) · `RC-724` Formas-Pensamento (IV.20.1, 680).
+
+**Acumulado: 152 verbetes · 3.654 verbatim · 1.606 códigos · 0 falhas** · Base intacta · 0 código criado. **GRAU 8 FECHADO — 0 nós restantes com grau ≥ 8.** 351 redigíveis, **33 com grau 7**.
+
+1. **RC-771 = único nó-guarda-chuva criado por exceção à Navalha de Ockham** (ART-2025-08-01, O-3), «por tratar-se de nó estrutural vital».
+2. **O detalhe mais forte: o forno que falhou é o que virou ponte.** Awayen nunca funcionou e tornou-se a Central de Realidades / possível Portal entre as Realidades.
+3. **Fonte oral mais antiga dos três fornos: P2019-08-25**, com o mecanismo («casul vibratório») e as grafias fundadoras («Awai Lengan», «aen», «Aon»).
+4. **Tensão INSOLÚVEL declarada (F037-L1)** — o B050 não documenta o cérebro bilatério; «a moldura ART-2025 não é desmentida por nada». **O verbete não resolveu o que a Base declarou insolúvel.**
+5. **T-14:** «900, 1 bilhão de anos» qualifica o encontro dos produtos, não o Homo sapiens. Selar, não fundir.
+6. **RC-766 = melhor lastro histórico do lote:** os setianos existem em Nag Hammadi. Blindagem da própria ficha: «não é genealogia histórica validada». Nota bíblica correta: é **Enos** (Gn 4,26), não Adão nem Seth.
+7. **RC-724 = 2ª menor ficha da enciclopédia (249 p.)**, com expressão retida («Rede Neural de Consciência Planetária», `[REVISAR STT/ESCOPO]`).
+8. **RC-518:** 25.869 genes com `[STT — REVISAR]` — 3ª vez que a divergência numérica aparece; registrada, não harmonizada.
+9. **Falhas 8 → 0, e 5 eram nossas composições em «Tensões»** — **o padrão de erro mais persistente do projeto: a seção de Tensões é nossa e aspira como se fosse da fonte.** Mais 2 negritos atravessados e 1 recorte que perde palavra («memória **básica** atribuída aos elétrons»).
+10. **Renomeação:** `V3.14.03-RC586`. Endereço novo: V.23.2.
+
+**5º anel (grau 7), lote 26:** RC-078 Lúcifer (2.220 p.) · RC-049 Demos (1.494) · RC-071 Jan Val Ellam (1.319) · RC-408 ADHYMAVATANA (1.063) · RC-147 Zont En Drel 29 (1.011) · RC-411 Gênero Adhy (839).
