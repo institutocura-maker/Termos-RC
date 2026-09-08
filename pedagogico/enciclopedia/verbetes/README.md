@@ -71,6 +71,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **11** | 08/09/2026 | `V5/RC-467` Moiras / Nornes · `V3/RC-585` Vyasa · `V2/RC-559` Teia Quântica · `V4/RC-529` Ressonância Límbica · `V4/RC-577` Xamanismo Cósmico · `V2/RC-472` Tempérion | ✅ redigido — **o eixo do destino** |
 | **12** | 08/09/2026 | `V4/RC-086` Pandora · `V2/RC-712` Lei da Mente do Buda · `V4/RC-253` Liberdade Mental · `V4/RC-633` Gestão da Sensação Pessoal · `V2/RC-087` Perpérion · `V5/RC-714` Arquivos do Destino | ✅ redigido — **as cercas e os casos-limite** |
 | **13** | 08/09/2026 | `V3/RC-282` Mohen So (correspondências) · `V4/RC-614` Quarto Cérebro Humano · `V3/RC-041` Criador · `V5/RC-612` Nova Espiritualidade · `V3/RC-456` Ser LM · `V2/RC-061` Espiritualidade Laboratorial | ✅ redigido — **o vocabulário da casa** |
+| **14** | 09/09/2026 | `V5/RC-725` Ponto de Luz Humano · `V2/RC-711` Universo de Egrégoras · `V2/RC-719` Três Faíscas · `V4/RC-646` Genoma de Sílica · `V1/RC-691` Ishvara · `V2/RC-707` Primado da Informação | ✅ redigido — **a antropologia da RC** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -319,6 +320,29 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Falhas: 39 → 18 → 0.** Das dezoito restantes, **treze eram nossas**: backticks inseridos dentro de citações, negrito nosso dentro de fala, elisões com «...» sobre texto contínuo, um `[STT]` suprimido, um colchete inventado (`c[onsciência]`), uma conjugação nossa («a maioria confunde» onde a fonte diz «confundi-los») e duas paráfrases como se fossem fala.
 7. **Armadilha nova:** aspas **aninhadas**. A ficha de `RC-061` traz «a região da «Experiência Laboratorial» onde…» — guillemet dentro de guillemet. O verificador captura só até o primeiro fechamento; o certo é **recortar o trecho interno**, não aninhar.
 
+### Lote 14 — a antropologia da RC (6 verbetes, 5.933 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Ponto de Luz Humano | V.22.1 | `V5/V5.22.01-RC725-ponto-de-luz-humano.md` | 1.027 | 3.053 p. · 7 ampliações |
+| Universo de Egrégoras Emocionais | II.7.1 | `V2/V2.07.01-RC711-universo-de-egregoras-emocionais.md` | 1.020 | 933 p. |
+| Três Faíscas da Consciência Humana | II.7.1 | `V2/V2.07.01-RC719-tres-faiscas-da-consciencia-humana.md` | 1.010 | 590 p. |
+| Genoma de Sílica | IV.18.3 | `V4/V4.18.03-RC646-genoma-de-silica.md` | 981 | 873 p. |
+| Ishvara (Isuara) | I.3.1 | `V1/V1.03.01-RC691-ishvara.md` | 969 | 906 p. |
+| Primado da Informação | II.8.1 | `V2/V2.08.01-RC707-primado-da-informacao.md` | **926** | **388 p.** |
+
+**Medida final:** 926–1.027 palavras · **130 verbatim byte a byte** (26 reprovados na 1ª conferência, todos corrigidos) · 62 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 14:**
+
+1. **O lote mais uniforme de todos:** 926 a 1.027 palavras, amplitude de 101. Nenhum planejamento — foi o lastro das seis fichas (388 a 3.053 p.) que produziu a medida.
+2. **O lote responde «o que é o humano» em quatro registros:** as Três Faíscas (arquitetura), o Ponto de Luz (destino), o Genoma de Sílica (suporte futuro) e o Universo de Egrégoras (meio em que circula). É a antropologia da RC, fechada em seis verbetes.
+3. **`RC-725` traz a afirmação mais forte da enciclopédia:** «Um ser humano mantém essa coisa toda funcionando, se ele for um ponto de luz no meio desse oceano de merda de elétrons». A expressão é da fala e **entrou byte a byte** — o verbete não a substitui por eufemismo, porque substituir seria editar a fonte.
+4. **`RC-707` é o terceiro menor lastro** (388 p., atrás de `RC-714` e `RC-472`) — e traz a sua própria cerca científica, que o verbete reproduz: «"Informação" possui sentidos distintos na física, computação e filosofia. A síntese apresentada é cosmologia da palestra, não consenso unificado dessas áreas».
+5. **Duas cercas vindas da Base neste lote** (`RC-707` científica; `RC-711` científica e editorial), além da quarentena antropológica sobre a passagem da Umbanda — fala do autor sobre uma religião específica, registrada como tal, sem endosso nem suavização.
+6. **Falhas: 26 → 9 → 0.** Das nove restantes, **sete eram nossas**, e uma delas é a mais grave do projeto até aqui: escrevi «corpos búdico e **átmico**» onde a fonte diz «corpos búdico e **manásico**». Inventar uma palavra dentro de uma aspa é o erro que o verificador existe para pegar — e ele pegou.
+7. **Renomeações:** `V1.03.01-RC706-…`. V.22.1 passa a sete verbetes e II.8.1 a oito — os dois maiores blocos da enciclopédia.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -340,7 +364,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 43 dos 79 (lotes 7–13); **36 restantes com grau total ≥ 10**. Próximos seis — `RC-646` Genoma de Sílica (13) · `RC-691` Ishvara (13) · `RC-707` Primado da Informação (13) · `RC-711` Universo de Egrégoras Emocionais (13) · `RC-719` Três Faíscas da Consciência Humana (13) · `RC-725` Ponto de Luz Humano (13).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 49 dos 79 (lotes 7–14); **30 restantes com grau total ≥ 10**. Próximos seis — `RC-755` Escola da Decifração da Realidade (13) · `RC-091` Projeto Talm (12) · `RC-638` Ressurreição do Cadáver do Criador (12) · `RC-770` Hipóstase dos Arcontes (12) · `RC-036` Biodemos (11) · `RC-455` Pashvnaj (11).
 
 ## 5. Como conferir
 

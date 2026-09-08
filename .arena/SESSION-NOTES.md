@@ -248,3 +248,21 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 8. **Renomeações:** `V3.11.01-RC081-…`, `V4.18.02-RC166-…`. III.13.5 passa a ter 4 verbetes; II.7.2, 3.
 
 **Próximos seis:** RC-646 (13) · RC-691 (13) · RC-707 (13) · RC-711 (13) · RC-719 (13) · RC-725 (13).
+
+---
+
+## 09/09/2026 — Lote 14: a antropologia da RC (6 verbetes, 5.933 palavras)
+
+`RC-725` Ponto de Luz Humano (V.22.1, 1.027 p.) · `RC-711` Universo de Egrégoras (II.7.1, 1.020) · `RC-719` Três Faíscas (II.7.1, 1.010) · `RC-646` Genoma de Sílica (IV.18.3, 981) · `RC-691` Ishvara (I.3.1, 969) · `RC-707` Primado da Informação (II.8.1, 926).
+
+**Acumulado: 84 verbetes · 2.075 verbatim · 938 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Lote mais uniforme de todos:** 926–1.027 p., amplitude de 101 palavras. Sem planejamento — foi o lastro.
+2. **O lote fecha a antropologia:** Três Faíscas (arquitetura), Ponto de Luz (destino), Genoma de Sílica (suporte futuro), Egrégoras (meio em que o humano circula).
+3. **`RC-725` = afirmação mais forte da enciclopédia:** «Um ser humano mantém essa coisa toda funcionando, se ele for um ponto de luz no meio desse oceano de merda de elétrons». Expressão da fala preservada byte a byte, sem eufemismo.
+4. **`RC-707` = 3º menor lastro** (388 p.) e traz cerca científica própria, reproduzida pelo verbete.
+5. **Duas cercas da Base neste lote** (RC-707, RC-711) + quarentena antropológica sobre a Umbanda.
+6. **Falhas 26 → 9 → 0.** Das 9 restantes, **7 eram nossas** — e a mais grave do projeto até aqui: escrevi «corpos búdico e **átmico**» onde a fonte diz «corpos búdico e **manásico**». **Inventar uma palavra dentro de uma aspa** é exatamente o erro que o verificador existe para pegar.
+7. **Renomeação:** `V1.03.01-RC706-…`. V.22.1 passa a 7 verbetes; II.8.1, a 8.
+
+**Próximos seis:** RC-755 (13) · RC-091 (12) · RC-638 (12) · RC-770 (12) · RC-036 (11) · RC-455 (11).
