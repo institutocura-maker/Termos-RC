@@ -61,6 +61,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 **Achado editorial do lote 1:** em 3 dos 6 nós-hub, a **centralidade** (grau) e o **lastro** (tamanho da ficha) divergem — o nó é central porque as remissivas convergem nele, não porque haja documento abundante. Nesses casos o verbete fica no tamanho que a fonte sustenta, e a divergência é registrada na seção Tensões em vez de ser resolvida com paráfrase.
 | **2** | 08/09/2026 | `V2/RC-604` Fatiamento de Consciência · `V3/RC-072` Jesus · `V3/RC-696` Geração Regenerada de Brahma · `V3/RC-664` Descendência de Kadru · `V3/RC-694` Oitavo Dia · `V3/RC-690` Colapso do Caos Organizado | ✅ redigido |
 | **3** | 08/09/2026 | `V3/RC-717` Buraco Negro Mental · `V3/RC-081` Mohen So · `V3/RC-414` Krishna · `V3/RC-700` Kashyapa · `V4/RC-704` Corpo Sutil Reencarnante · `V4/RC-720` Sócios do Destino | ✅ redigido |
+| **4** | 08/09/2026 | `V3/RC-395` Ragnarok em Marte · `V3/RC-474` Arcontes · `V3/RC-697` Mão Invisível Multiforme · `V4/RC-698` Cessão Consciente do DNA · `V5/RC-761` Cinco Lentes · `V5/RC-655` Revelação de Ifá | ✅ redigido |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -73,7 +74,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Oitavo Dia da Criação | III.16.2 | `V3/V3.16.02-oitavo-dia-da-criacao.md` | 1.137 |
 | Colapso do Caos Organizado | III.16.3 | `V3/V3.16.03-colapso-do-caos-organizado.md` | 1.260 |
 
-**Regra de nomenclatura — endereço repetido.** Um endereço pode abrigar mais de um termo (III.15.1 reúne `RC-664`, `RC-696`, `RC-701`, `RC-627` e `RC-795`). Quando dois verbetes caem no mesmo endereço, o nome do arquivo recebe o **código como desambiguação**: `V3.15.01-RC664-…`, `V3.15.01-RC696-…`. Enquanto o endereço for único, o nome continua sendo só endereço + slug.
+**Regra de nomenclatura — endereço repetido (revista no lote 4).** Um endereço pode abrigar vários termos (V.22.1 reúne `RC-708`, `RC-761` e `RC-655`; III.16.3 reúne `RC-690` e `RC-395`). Quando um endereço abriga mais de um verbete, **todos** os arquivos desse endereço levam o **código como desambiguação**: `V3.11.02-RC009-…`, `V3.11.02-RC474-…`. Enquanto o endereço for único, o nome continua sendo só endereço + slug. (Até o lote 3 valeu a regra antiga — só o segundo arquivo levava o código; os quatro arquivos afetados foram renomeados no lote 4, sem mudança de conteúdo.)
 
 **Achados editoriais do lote 2:**
 1. **59 verbatim reprovados na 1ª conferência** — as causas se repetem e viraram checklist: ponto final **acrescentado** ao fim da citação (a ficha não tem, o verbete não põe) · caixa alta da fonte rebaixada para minúscula («ABSOLUTAMENTE CULPADO…» não é grito nosso, é a fonte) · elipse `[...]` dentro de citação, onde a ficha tem texto corrido · paráfrase travestida de citação. A regra que resolve: **recortar o verbatim da ficha, nunca reescrevê-lo**.
@@ -95,7 +96,24 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 2. **A regra do lastro apareceu pelo lado oposto.** Em Kashyapa e Sócios do Destino o nó é hub (grau 12) mas a ficha tem 358 e 384 palavras: os verbetes ficaram em 715 e 750 palavras — camada Médio/Notícia na prática. Em Krishna, o inverso: a ficha tem 5.109 palavras e 30 ampliações, e o verbete passou do teto da camada Pilar (2.071). **Nenhum dos dois casos foi resolvido por corte nem por enchimento**; os três estão declarados na tabela acima, e o de Krishna fica sujeito a despacho (pode ser desdobrado em subverbetes se o Curador preferir).
 3. **Nenhuma colisão de endereço neste lote** — os seis endereços eram únicos, e valeu a regra do lote 2 (só se desambigua o nome com o código quando dois verbetes caem no mesmo endereço).
 
-**Nós-hub restantes após o lote 3 (grau ≥ 10, 17 de 35):** RC-761 · RC-395 · RC-474 · RC-655 · RC-697 · RC-698 · RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
+**Lote 4 — medida final:** 904–1.594 palavras · **155 verbatim byte a byte (24 reprovados na 1ª conferência, todos corrigidos) · 70 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Arcontes (Conselho dos 70) | III.11.2 | `V3/V3.11.02-RC474-arcontes.md` | 1.594 | 3.684 p. · 12 ampliações |
+| Ragnarok em Marte | III.16.3 | `V3/V3.16.03-RC395-ragnarok-em-marte.md` | 1.451 | 4.699 p. · 20 ampliações |
+| Revelação de Ifá e Destinação dos Seres | V.22.1 | `V5/V5.22.01-RC655-revelacao-de-ifa.md` | 1.346 | 1.226 p. · 8 ampliações |
+| As Cinco Lentes da Realidade | V.22.1 | `V5/V5.22.01-RC761-as-cinco-lentes-da-realidade.md` | 935 | 794 p. · 1 fonte |
+| Mão Invisível Multiforme | III.13.5 | `V3/V3.13.05-RC697-mao-invisivel-multiforme.md` | 918 | 588 p. · 2 ampliações |
+| Cessão Consciente do DNA Humano | IV.18.3 | `V4/V4.18.03-cessao-consciente-do-dna-humano.md` | 904 | 608 p. · 3 ampliações |
+
+**Achados editoriais do lote 4:**
+1. **A colisão de endereços era mais frequente do que parecia.** Cinco dos seis verbetes caíram em endereços já ocupados (III.11.2, III.13.5, III.16.3 e V.22.1 — que passou a ter três). A regra do lote 2 foi **revista e uniformizada**: quando um endereço abriga mais de um verbete, **todos** os arquivos desse endereço levam o código — não apenas o segundo. Por isso quatro arquivos dos lotes 1 e 2 foram renomeados (`V3.11.02-RC009-…`, `V3.13.05-RC454-…`, `V3.16.03-RC690-…`, `V5.22.01-RC708-…`). Renomeação pura: nenhum conteúdo foi alterado.
+2. **A causa de reprovação de verbatim continua sendo a mesma, e é nossa.** Dos 24 reprovados, 17 foram **ponto final acrescentado dentro da citação** — quase todos nos blocos «Na voz do autor», onde o hábito de escrever falou mais alto. Fica a regra: **o ponto final vai fora do «»**.
+3. **Duas citações eram formulação da Base, não fala da fonte** (a proposição das cinco lentes, em `RC-761`, e a nota de anterioridade, em `RC-474`). Ambas saíram das aspas e passaram a ser marcadas como formulação da Base — o lugar de «» é o verbatim, e só ele.
+4. **O único verbete acima do teto da camada Pilar é Arcontes (1.594)**, por lastro de 3.684 palavras. Como no caso de Krishna, nada foi cortado; o excesso está declarado.
+
+**Nós-hub restantes após o lote 4 (grau ≥ 10, 11 de 35):** RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
 
 ## 5. Como conferir
 

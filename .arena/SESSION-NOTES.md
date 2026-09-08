@@ -77,3 +77,17 @@
 **Causa-raiz:** `ferramentas/_ampliar_fichas_2025-03-15.py` — a entrada `RC-690` do dicionário `AMP` tinha o terminador da string malformado, o que fez a entrada seguinte (`RC-691`) ser gravada dentro da ficha de RC-690. O script recebeu aviso de «já aplicado, não reexecutar sem revisão» (edição só de comentário).
 
 **Verificação pós-limpeza:** 18 verbetes · 509 verbatim · 212 códigos · 0 falhas · Base intacta (946/650/1898). A Tensão 8 do verbete de RC-690 foi reescrita: de «achado a corrigir por despacho» para «corrigido por despacho em 08/09/2026».
+
+---
+
+## 08/09/2026 — Lote 4 dos nós-hub (6 verbetes) · verificação 664/0
+
+**Redigidos e conferidos:** RC-474 Arcontes (III.11.2, 1.594 p.) · RC-395 Ragnarok em Marte (III.16.3, 1.451) · RC-655 Revelação de Ifá (V.22.1, 1.346) · RC-761 As Cinco Lentes (V.22.1, 935) · RC-697 Mão Invisível Multiforme (III.13.5, 918) · RC-698 Cessão Consciente do DNA (IV.18.3, 904). Acumulado da enciclopédia: **24 verbetes · 664 verbatim · 282 códigos · 0 falhas**.
+
+**Regra de nomenclatura REVISTA (efeito retroativo):** endereço compartilhado → **todos** os arquivos desse endereço levam o código. Quatro renomeações sem mudança de conteúdo: `V3.11.02-RC009-…`, `V3.13.05-RC454-…`, `V3.16.03-RC690-…`, `V5.22.01-RC708-…`. Motivo: cinco dos seis verbetes do lote 4 caíram em endereços já ocupados (V.22.1 passou a ter três verbetes).
+
+**Causa dominante de reprovação de verbatim, de novo:** 17 dos 24 reprovados foram ponto final acrescentado dentro da citação, quase todos nos blocos «Na voz do autor». Regra reiterada: o ponto final vai fora do «».
+
+**Duas citações que não eram citações:** a proposição das cinco lentes (`RC-761`) e a nota de anterioridade (`RC-474`) são formulação da Base, não fala da fonte — saíram das aspas e passaram a ser marcadas como tal.
+
+**Pendência registrada, não executada:** os espelhos (`indice-mestre.md`, xlsx, docx) não foram regenerados após a limpeza das fichas RC-690/RC-691 (despacho anterior); depende de autorização.
