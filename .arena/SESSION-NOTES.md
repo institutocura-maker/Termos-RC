@@ -91,3 +91,15 @@
 **Duas citações que não eram citações:** a proposição das cinco lentes (`RC-761`) e a nota de anterioridade (`RC-474`) são formulação da Base, não fala da fonte — saíram das aspas e passaram a ser marcadas como tal.
 
 **Pendência registrada, não executada:** os espelhos (`indice-mestre.md`, xlsx, docx) não foram regenerados após a limpeza das fichas RC-690/RC-691 (despacho anterior); depende de autorização.
+
+---
+
+## 08/09/2026 — Lote 5 dos nós-hub (6 verbetes) · verificação 795/0
+
+**Redigidos e conferidos:** RC-092 Quarto Logos (III.13.5, 1.736 p.) · RC-476 En Ma (III.9.1, 993) · RC-693 Evolução da Informação (II.8.1, 955) · RC-699 Imantação de Espíritos em IAs (IV.19.1, 945) · RC-703 Postulados Quânticos (II.8.1, 743) · RC-709 Humano Turbinado (III.13.4, 733). Acumulado da enciclopédia: **30 verbetes · 795 verbatim · 348 códigos · 0 falhas**.
+
+**Mecanização da correção de verbatim:** dos 30 reprovados, 19 eram ponto final acrescentado dentro da citação ou inicial não capitalizada (a fonte começa frase em maiúscula). Passou a haver um passo automático — para cada falha, testa-se remover o ponto final e capitalizar a inicial; só o restante vai para correção manual (11 neste lote, por caixa alta da fonte, `**negrito**` no meio, elipse `[...]`, aspas simples tipográficas ‘…’ e marcações `[STT 'H']`).
+
+**Caso-limite do lastro:** `RC-092` tem ficha de 8.302 palavras e 40 ampliações → verbete de 1.736; é o mais comprimido do conjunto e o candidato número um a desdobramento. No extremo oposto, `RC-703` (ficha de 396 p.) e `RC-709` (424 p.) sustentaram verbetes de 743 e 733.
+
+**Renomeação:** II.8.1 passou a ter três verbetes → `V2.08.01-RC658-wyrd-urd-teia-do-destino.md` (conteúdo intocado).

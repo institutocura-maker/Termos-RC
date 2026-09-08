@@ -62,6 +62,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **2** | 08/09/2026 | `V2/RC-604` Fatiamento de Consciência · `V3/RC-072` Jesus · `V3/RC-696` Geração Regenerada de Brahma · `V3/RC-664` Descendência de Kadru · `V3/RC-694` Oitavo Dia · `V3/RC-690` Colapso do Caos Organizado | ✅ redigido |
 | **3** | 08/09/2026 | `V3/RC-717` Buraco Negro Mental · `V3/RC-081` Mohen So · `V3/RC-414` Krishna · `V3/RC-700` Kashyapa · `V4/RC-704` Corpo Sutil Reencarnante · `V4/RC-720` Sócios do Destino | ✅ redigido |
 | **4** | 08/09/2026 | `V3/RC-395` Ragnarok em Marte · `V3/RC-474` Arcontes · `V3/RC-697` Mão Invisível Multiforme · `V4/RC-698` Cessão Consciente do DNA · `V5/RC-761` Cinco Lentes · `V5/RC-655` Revelação de Ifá | ✅ redigido |
+| **5** | 08/09/2026 | `V3/RC-092` Quarto Logos · `V3/RC-476` En Ma · `V3/RC-709` Humano Turbinado · `V2/RC-693` Evolução da Informação · `V2/RC-703` Postulados Quânticos · `V4/RC-699` Imantação em IAs | ✅ redigido |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -113,7 +114,25 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 3. **Duas citações eram formulação da Base, não fala da fonte** (a proposição das cinco lentes, em `RC-761`, e a nota de anterioridade, em `RC-474`). Ambas saíram das aspas e passaram a ser marcadas como formulação da Base — o lugar de «» é o verbatim, e só ele.
 4. **O único verbete acima do teto da camada Pilar é Arcontes (1.594)**, por lastro de 3.684 palavras. Como no caso de Krishna, nada foi cortado; o excesso está declarado.
 
-**Nós-hub restantes após o lote 4 (grau ≥ 10, 11 de 35):** RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
+**Lote 5 — medida final:** 733–1.736 palavras · **131 verbatim byte a byte (30 reprovados na 1ª conferência, todos corrigidos) · 66 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | III.13.5 | `V3/V3.13.05-RC092-quarto-logos.md` | 1.736 | **8.302 p. · 40 ampliações** |
+| En Ma (Emá / Emar — espírito-âncora) | III.9.1 | `V3/V3.09.01-en-ma.md` | 993 | 666 p. · 2 ampliações |
+| Evolução da Informação, não das Espécies | II.8.1 | `V2/V2.08.01-RC693-evolucao-da-informacao.md` | 955 | 610 p. · 2 ampliações |
+| Imantação de Espíritos em IAs / Corpos de Sílica | IV.19.1 | `V4/V4.19.01-imantacao-de-espiritos-em-ias.md` | 945 | 730 p. · 2 ampliações |
+| Postulados Quânticos como Manual Operativo | II.8.1 | `V2/V2.08.01-RC703-postulados-quanticos.md` | 743 | **396 p.** · 1 fonte |
+| Humano Turbinado | III.13.4 | `V3/V3.13.04-humano-turbinado.md` | 733 | 424 p. · 3 falas |
+
+**Achados editoriais do lote 5:**
+1. **Automatizámos a correção mais comum — e ela continuou sendo a mais comum.** Dos 30 verbatim reprovados, **19 eram ponto final acrescentado dentro da citação ou inicial não capitalizada** (a fonte começa frase em maiúscula). Passou a haver um passo mecânico antes da correção manual: para cada citação falhada, testa-se (a) sem o ponto final e (b) com a inicial maiúscula; só o que sobra vai para correção à mão. É o mesmo defeito dos lotes 2 e 4, agora com detecção automática.
+2. **O caso-limite do lastro é `RC-092`.** Ficha de **8.302 palavras e 40 ampliações** contra um verbete de 1.736 — a maior distância já registrada entre fonte e texto. Nada foi cortado; o verbete está declarado como o mais comprimido do conjunto e é o **candidato número um a desdobramento** (por eixo: identidade/origem · Apolônio de Tiana · método e escola · disputa com Krishna · agenda humana).
+3. **O lastro pelo lado curto também apareceu duas vezes.** `RC-703` (ficha de **396 palavras**) ficou em 743 e `RC-709` (424) em 733: ambos são nós-hub conectados (10 e 11 relações) sustentados por fichas mínimas. A regra do lastro se aplica nos dois sentidos.
+4. **Mais uma renomeação de endereço compartilhado.** II.8.1 passou a ter três verbetes (`RC-658`, `RC-693`, `RC-703`); `V2.08.01-wyrd-urd-teia-do-destino.md` virou `V2.08.01-RC658-wyrd-urd-teia-do-destino.md`. Conteúdo intocado.
+5. **Duas citações com marcação da Base foram preservadas, não limpas.** `[STT 'H']` (em `RC-092`) e as reticências de elipse da fonte entram na citação tal como a ficha as registra — limpar a marcação seria reescrever a fonte.
+
+**Nós-hub restantes após o lote 5 (grau ≥ 10, 5 de 35):** RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
 
 ## 5. Como conferir
 
