@@ -556,3 +556,30 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 14. **Blindagem de processo aplicada:** README e notas escritos por script com `set -e` e asserts — nenhum commit saiu sem a atualização do índice (repetição do incidente do lote 26 evitada).
 
 **Próximos (grau 6, 6º anel):** RC-887 Nag Hammadi · RC-758 Quarto Cérebro · RC-754 Chave da Decifração Universal · RC-738 Amaterasu · RC-735 Abraço aos Fantasmas · RC-682 Malkuth — 30 no total.
+
+---
+
+## 09/09/2026 — Lote 28: ABERTURA DO 6º ANEL, GRAU 6 (6 verbetes, 5.157 palavras)
+
+**Despacho do Curador: «Ok, em frente com os próximos >>>»** — RC-887, RC-758, RC-754, RC-738, RC-735, RC-682.
+
+`RC-758` Quarto Cérebro (V.22.1, **1.064**) · `RC-682` Malkuth (I.3.2, 919) · `RC-735` Abraço aos Fantasmas (IV.21.1, 835) · `RC-738` Amaterasu (V.27.1, 822) · `RC-754` Chave da Decifração Universal (V.22.1, 766) · `RC-887` Nag Hammadi (V.23.1, **751**).
+
+**Acumulado: 191 verbetes · 4.453 verbatim · 1.972 códigos · 0 falhas** · Base intacta (946/650/1898) · 0 código criado. **Grau 6: 24 restantes** de 459 redigíveis.
+
+1. **6º anel ABERTO.** Nenhuma ficha do lote passa de 1.163 palavras → sem formato longo. Média: 860.
+2. **RC-887 = melhor lastro histórico do lote e quase todo externo à obra:** Nag Hammadi existe, 1945, códices coptas, Hipóstase dos Arcontes entre eles. **Isso é dado.** «Legiões de tropas romanas» e «ano de 374» = fala do autor (a datação acadêmica é século IV, sem ano fixo).
+3. **RC-887 = único verbete criado por materialização:** F044 (Anel C, 06/09/2026), `ficha=False→True`, relacoes blindado, 0 arestas. Ficha mais recente do acervo (2026-09-06).
+4. **RC-758 = única AUTORIA SECUNDÁRIA do lote:** artigo de Denise Ferreira da Silva (ART-2026-08-18), «não é cânon primário direto»; sustenta-se por estar «enraizado na obra primária» (B016, caps. 6–9).
+5. **RC-758: duas fórmulas, proibidas de se equivaler** — 2021 (colonização neural) × 2026 (sabedoria vibracional). **Não fundidas.**
+6. **RC-758: fonte mais antiga (P2020-04-25, 13 meses antes) NÃO usa a expressão** — fala do «sétimo sentido». Ganho de anterioridade, não de termo.
+7. **RC-682: divergência interna da Base** — RC-565 tem Hochmah como 2ª sefirah; RC-682 tem Malkuth como a décima. **Convivem; não fundidas.** Dado histórico: Malkuth = 10ª (Reino), Hochmah = 2ª (Sabedoria).
+8. **RC-735 = nó ético dos sete fantasmas**, o que enfrenta sem combate RC-733. 5º princípio: **qualquer ser que manifeste linguagem** recebe resposta antes de violência preventiva. Blindagem: «não substitui limites, avaliação profissional, proteção ou emergência».
+9. **RC-738: a própria fonte chama de «fofoca»** a notícia de que Atena deixou de existir em abril → Colecionar Incertezas, não previsão.
+10. **RC-754 = par prático de RC-753** (estrangulamento fecha, chave abre).
+11. **Falhas 4 → 0, todas de recorte nosso, nenhuma de composição em Tensões:** 1 elisão com `...` nossa (RC-758), 1 palavra acrescentada («não **é** protocolo» × «não protocolo», RC-735), 1 grafia trocada («sefirah» × «sefirá», RC-682, 2×). **Lição dos lotes 25–27 assimilada.**
+12. **Renomeação:** `V1.03.02-RC263`. **Endereço novo: V.27.1** (RC × religiões e cristianismo histórico).
+
+**2º INCIDENTE DE AMBIENTE (abertura deste turno), resolvido:** HEAD apareceu em `708a402` (partida da branch) e o ref `origin/arena/01a07d99-termos-rc` havia desaparecido do clone; os 185 verbetes seguiam em disco como não rastreados. `git fetch origin refs/heads/arena/01a07d99-termos-rc` → `FETCH_HEAD = 858e5f2` (íntegro no GitHub); `git diff --numstat FETCH_HEAD` → **0 inserções / 31.810 remoções aparentes**. Confirmado que nada no disco era mais novo que o remoto → `git reset --hard FETCH_HEAD` → HEAD = remoto = 858e5f2, árvore limpa, 185 verbetes, verificador OK. **Nada se perdeu.** Nova blindagem: se o ref remoto sumir do clone, usar `git fetch origin refs/heads/<branch>` e comparar contra FETCH_HEAD.
+
+**Próximos (grau 6):** RC-657 Verdade Posta × Verdade a Construir · RC-643 Santo Graal · RC-630 Corpo Daiva · RC-620 Eu Coalescente · RC-602 Blindagens Interdimensionais · RC-592 Era de Peixes — 24 no total.

@@ -85,6 +85,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **25** | 09/09/2026 | `V5/RC-771` Fornos Replicadores (**longo**) · `V3/RC-766` Sethianos Emancipados · `V4/RC-518` Genoma Derivado · `V3/RC-769` Corpos Fenvã · `V2/RC-628` Simultaneidade Reversa · `V4/RC-724` Formas-Pensamento | ✅ redigido — **FECHO DO 4º ANEL (grau 8)** |
 | **26** | 09/09/2026 | `V3/RC-078` Lúcifer (**longo**) · `V1/RC-071` Jan Val Ellam · `V3/RC-147` Zont En Drel 29 · `V3/RC-411` Gênero Adhy · `V3/RC-408` ADHYMAVATANA · `V3/RC-342` Quarentena Sideral · `V3/RC-049` Demos | ✅ redigido — **abertura do 5º anel (grau 7)** |
 | **27** | 09/09/2026 | `V1/RC-760` Vrittis e Cittas · `V3/RC-671` Metatron · `V5/RC-605` Autismo Funcional · `V3/RC-553` Eu Profundo · `V3/RC-594` Linhagem de Seth · `V3/RC-609` Ogdóade de Hermópolis · `V4/RC-749` Vício Devocional · `V3/RC-488` Nefilins · `V3/RC-580` Igigi · `V3/RC-581` Rakshasas · `V3/RC-465` Asuras · `V3/RC-480` Indra · `V2/RC-496` Ereon · `V5/RC-541` Evolução Possível · `V4/RC-563` Travas e lacres · `V1/RC-666` Obatalá · `V4/RC-670` Yoga Ancestral · `V5/RC-728` Fantasmas do Passado Mitológico · `V2/RC-731` Axis Mundi · `V4/RC-733` Dominação Psíquica pela Devoção · `V4/RC-762` Três Escalas da Consciência · `V2/RC-264` Planos de Existência da Cabala · `V2/RC-470` Midgard · `V4/RC-764` Ao Vencedor as Batatas · `V3/RC-765` Relógio Messiânico · `V4/RC-768` Princípio da Externalização | ✅ redigido — **fecho do 5º anel, grau 7 — 26 verbetes de uma vez** |
+| **28** | 09/09/2026 | `V5/RC-758` Quarto Cérebro · `V1/RC-682` Malkuth · `V4/RC-735` Abraço aos Fantasmas · `V5/RC-738` Amaterasu · `V5/RC-754` Chave da Decifração Universal · `V5/RC-887` Nag Hammadi | ✅ redigido — **abertura do 6º anel (grau 6)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -226,7 +227,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 |---|---|---|---|---|
 | Revelação Cósmica (conceito) | II.6.1 | `V2/V2.06.01-RC094-revelacao-cosmica.md` | 1.265 | 1.995 p. · 9 ampliações |
 | Mentalma | IV.18.2 | `V4/V4.18.02-mentalma.md` | 1.161 | 3.100 p. · 12 ampliações |
-| Sefirot / Árvore da Vida | I.3.2 | `V1/V1.03.02-sefirot-arvore-da-vida.md` | 1.112 | **1.386 p.** |
+| Sefirot / Árvore da Vida | I.3.2 | `V1/V1.03.02-RC263-sefirot-arvore-da-vida.md` | 1.112 | **1.386 p.** |
 | Ciência Pessoal | IV.20.1 | `V4/V4.20.01-ciencia-pessoal.md` | 1.048 | **678 p.** |
 | PIA — Peso da Inevitabilidade Ancestral | II.8.1 | `V2/V2.08.01-RC716-peso-da-inevitabilidade-ancestral.md` | 1.014 | **572 p.** |
 | Anunnakis | III.13.2 | `V3/V3.13.02-anunnakis.md` | 989 | 3.285 p. · 8 ampliações |
@@ -725,6 +726,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 15. **Falhas: 14 → 0, e a maioria voltou a ser do mesmo tipo — nossas composições em «Tensões» postas como citação** (7 casos: «forma validada pelo curador», «senhor dos animais», «não ruim», «Retardamento», «vocabulário psiquiátrico...», «mecânica profética interna do autor», «registro doutrinário»). Somam-se 3 elisões nossas dentro da aspa, 1 capitalização indevida, 1 **palavra trocada** (**Nefelim** por «Nefel»), 1 citação com aspas curvas da fonte digitadas como retas (`RC-264`) e 1 trecho com negrito da Base atravessado (`RC-465`).
 16. **Três renomeações por endereço compartilhado:** `V1.03.04-RC192`, `V4.19.03-RC637` e `V3.13.03-RC147`. Um endereço novo: **II.7.3** (Midgard).
 
+### Lote 28 — abertura do 6º anel, grau 6 (6 verbetes, 5.157 palavras)
+
+**Despacho do Curador:** «Ok, em frente com os próximos >>>». Fechado o 5º anel, a fila desce ao grau 6 — **24 nós restantes** nesta faixa.
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Quarto Cérebro (centro de sabedoria vibracional) | V.22.1 | `V5/V5.22.01-RC758-quarto-cerebro.md` | **1.064** | **1.163 p.** |
+| Malkuth | I.3.2 | `V1/V1.03.02-RC682-malkuth.md` | 919 | 801 p. |
+| Abraço aos Fantasmas / Integridade sem Combate | IV.21.1 | `V4/V4.21.01-RC735-abraco-aos-fantasmas.md` | 835 | 301 p. |
+| Amaterasu (Teologia Comparada de Ellam) | V.27.1 | `V5/V5.27.01-amaterasu.md` | 822 | 379 p. |
+| Chave da Decifração Universal | V.22.1 | `V5/V5.22.01-RC754-chave-da-decifracao-universal.md` | 766 | 466 p. |
+| Nag Hammadi | V.23.1 | `V5/V5.23.01-RC887-nag-hammadi.md` | **751** | 335 p. |
+
+**Medida final:** 751–1.064 palavras (média 860) · **113 verbatim byte a byte** (4 reprovados na 1ª conferência, todos corrigidos) · 47 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 28:**
+
+1. **O 6º anel (grau 6) está aberto.** Restam **459 nós redigíveis**, dos quais **24 com grau 6**. A Base passa a ter **191 verbetes**.
+2. **`RC-887` (Nag Hammadi) tem o melhor lastro histórico do lote — e é quase todo externo à obra.** A biblioteca existe, foi descoberta em 1945, os códices são coptas e a *Hipóstase dos Arcontes* está entre eles. **Isso é dado.** A cena das «legiões de tropas romanas» e a datação «provavelmente no ano de 374» é **fala do autor** — a datação acadêmica situa os códices no século IV sem fixar o ano.
+3. **`RC-887` é o único verbete do lote criado por materialização:** F044 (Anel C, 06/09/2026), `ficha=False → True`, `relacoes/` blindado, **0 arestas novas**. Ficha mais recente do acervo (2026-09-06).
+4. **`RC-758` (Quarto Cérebro) carrega a única blindagem de AUTORIA SECUNDÁRIA do lote:** o conceito vem do «artigo de Denise Ferreira da Silva (ART-2026-08-18)», «interpretação avançada», «não é cânon primário direto». O que o sustenta na Base é estar «enraizado na obra primária» — B016, caps. 6–9.
+5. **Duas fórmulas do mesmo termo, e a ficha proíbe equipará-las:** a de 2021 (protocolos da mente e quarto cérebro «colonizando esses neurônios») e a de 2026 («centro de sabedoria vibracional»). **Não foram fundidas.**
+6. **A fonte mais antiga de `RC-758` não usa a expressão:** P2020-04-25 antecipa treze meses e fala do «sétimo sentido». **Ganho de anterioridade, não de termo.**
+7. **`RC-682` (Malkuth) registra uma divergência interna da própria Base:** `RC-565` tem **Hochmah como a 2ª sefirah**; `RC-682` tem Malkuth como **a décima**. As duas contagens convivem, e o verbete não as funde.
+8. **O que é dado em `RC-682`:** na cabala histórica, Malkuth é a décima sefirah (o Reino) e Hochmah é a segunda (a Sabedoria). **A obra as identifica**, e essa identificação é tese.
+9. **`RC-735` (Abraço aos Fantasmas) é o nó ético do conjunto dos sete fantasmas** — o que **enfrenta sem combate** a Dominação Psíquica pela Devoção (`RC-733`). O quinto princípio é o mais exigente: **qualquer ser que manifeste linguagem** deve receber resposta antes de violência preventiva.
+10. **E o verbete carrega a blindagem que o princípio exige:** o abraço «não substitui limites, avaliação profissional, proteção ou emergência quando necessários». **Não é uma ética sem limites.**
+11. **`RC-738` (Amaterasu) entrega a profecia à categoria certa:** a própria fonte chama de «fofoca» a notícia de que Atena «deixou de existir para esse universo» em abril. O verbete a registra no **Colecionar Incertezas**, não como previsão da enciclopédia.
+12. **`RC-754` (Chave da Decifração Universal) é o par prático de `RC-753`:** o estrangulamento cognitivo é o que fecha, a chave é o que abre. **Os dois verbetes se leem juntos.**
+13. **Falhas: 4 → 0, todas de recorte nosso, nenhuma de composição em Tensões** — uma elisão com `...` dentro da aspa (`RC-758`), uma palavra acrescentada («não **é** protocolo» onde a fonte diz «não protocolo», `RC-735`) e uma **grafia trocada** («sefirah» × «sefirá», `RC-682`, duas vezes). **A lição dos lotes 25–27 foi assimilada.**
+14. **Renomeação:** `V1.03.02-RC263` (Sefirot / Árvore da Vida). Endereço novo: **V.27.1** (RC × religiões e cristianismo histórico).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -732,6 +765,10 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 **Nada se perdeu**, por dois motivos verificados: (1) `git ls-remote` confirmou `63e3fcb` no GitHub; (2) `git diff` contra o remoto não mostrou **nenhuma** linha nova na árvore — só ausências. O reparo foi `git fetch` + `git reset --hard origin/arena/01a07d99-termos-rc`, seguido de recontagem: 650 fichas, 42 verbetes, `git status` limpo, verificador OK.
 
 **Regra que fica:** no início de cada turno, conferir `git rev-parse HEAD` contra `git ls-remote origin <branch>`. Se divergirem, **o remoto é a fonte de verdade** — e só se deve descartar a árvore depois de confirmar que o diff não traz inserções.
+
+**2ª ocorrência — abertura do lote 28 (09/09/2026), mesma regra, mesmo resultado.** Ao iniciar o turno, `HEAD` apareceu em `708a402` (o commit de partida da branch) e o ref `origin/arena/01a07d99-termos-rc` **havia desaparecido** do repositório local; os 185 verbetes do lote 27 continuavam em disco, agora como arquivos não rastreados. Diagnóstico: `git fetch origin refs/heads/arena/01a07d99-termos-rc` → `FETCH_HEAD = 858e5f2` (o commit do lote 27, íntegro no GitHub); `git diff --numstat FETCH_HEAD` → **0 inserções e 31.810 remoções aparentes** (só ausências de rastreamento, nenhuma linha nova). Confirmado que **nada no disco era mais novo que o remoto**, aplicou-se `git reset --hard FETCH_HEAD`: HEAD = remoto = `858e5f2`, `git status` limpo, 185 verbetes, verificador OK. **Nada se perdeu.**
+
+**Regra que fica (reiterada):** no início de cada turno, conferir `git rev-parse HEAD` contra `git ls-remote origin <branch>`. Se divergirem, **o remoto é a fonte de verdade** — e só se deve descartar a árvore depois de confirmar que o diff não traz inserções. **Se o ref remoto tiver desaparecido do clone, usar `git fetch origin refs/heads/<branch>` e comparar contra `FETCH_HEAD`.**
 
 ### Fecho do ciclo dos hubs (35/35)
 
@@ -746,7 +783,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — os 26 nós foram redigidos de uma vez.** Restam **465 nós redigíveis**, dos quais **30 com grau 6** — o 6º anel está aberto. Próximos seis: `RC-887` Nag Hammadi · `RC-758` Quarto Cérebro · `RC-754` Chave da Decifração Universal · `RC-738` Amaterasu · `RC-735` Abraço aos Fantasmas · `RC-682` Malkuth.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 — **459 nós redigíveis**, dos quais **24 com grau 6**. Próximos seis: `RC-657` Verdade Posta × Verdade a Construir · `RC-643` Santo Graal · `RC-630` Corpo Daiva · `RC-620` Eu Coalescente · `RC-602` Blindagens Interdimensionais · `RC-592` Era de Peixes.
 
 ## 5. Como conferir
 
