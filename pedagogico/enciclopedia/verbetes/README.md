@@ -72,6 +72,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **12** | 08/09/2026 | `V4/RC-086` Pandora · `V2/RC-712` Lei da Mente do Buda · `V4/RC-253` Liberdade Mental · `V4/RC-633` Gestão da Sensação Pessoal · `V2/RC-087` Perpérion · `V5/RC-714` Arquivos do Destino | ✅ redigido — **as cercas e os casos-limite** |
 | **13** | 08/09/2026 | `V3/RC-282` Mohen So (correspondências) · `V4/RC-614` Quarto Cérebro Humano · `V3/RC-041` Criador · `V5/RC-612` Nova Espiritualidade · `V3/RC-456` Ser LM · `V2/RC-061` Espiritualidade Laboratorial | ✅ redigido — **o vocabulário da casa** |
 | **14** | 09/09/2026 | `V5/RC-725` Ponto de Luz Humano · `V2/RC-711` Universo de Egrégoras · `V2/RC-719` Três Faíscas · `V4/RC-646` Genoma de Sílica · `V1/RC-691` Ishvara · `V2/RC-707` Primado da Informação | ✅ redigido — **a antropologia da RC** |
+| **15** | 09/09/2026 | `V5/RC-770` Hipóstase dos Arcontes · `V3/RC-455` Pashvnaj · `V3/RC-036` Biodemos · `V4/RC-755` Escola da Decifração · `V4/RC-091` Projeto Talm · `V3/RC-638` Ressurreição do Cadáver do Criador | ✅ redigido — **as fontes externas e o enxerto** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -343,6 +344,29 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Falhas: 26 → 9 → 0.** Das nove restantes, **sete eram nossas**, e uma delas é a mais grave do projeto até aqui: escrevi «corpos búdico e **átmico**» onde a fonte diz «corpos búdico e **manásico**». Inventar uma palavra dentro de uma aspa é o erro que o verificador existe para pegar — e ele pegou.
 7. **Renomeações:** `V1.03.01-RC706-…`. V.22.1 passa a sete verbetes e II.8.1 a oito — os dois maiores blocos da enciclopédia.
 
+### Lote 15 — as fontes externas e o enxerto (6 verbetes, 5.772 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Hipóstase dos Arcontes | V.23.1 | `V5/V5.23.01-RC770-hipostase-dos-arcontes.md` | 1.084 | 1.360 p. |
+| Pashvnaj | III.13.1 | `V3/V3.13.01-pashvnaj.md` | 979 | 896 p. |
+| Biodemos | III.13.2 | `V3/V3.13.02-RC036-biodemos.md` | 961 | **4.341 p.** |
+| Escola da Decifração da Realidade | IV.20.1 | `V4/V4.20.01-RC755-escola-da-decifracao-da-realidade.md` | 956 | 1.684 p. |
+| Projeto Talm | IV.17.1 | `V4/V4.17.01-RC091-projeto-talm.md` | 923 | **3.275 p.** · 10 ampliações |
+| Ressurreição do Cadáver do Criador | III.9.4 | `V3/V3.09.04-ressurreicao-do-cadaver-do-criador.md` | **869** | 1.138 p. |
+
+**Medida final:** 869–1.084 palavras · **154 verbatim byte a byte** (32 reprovados na 1ª conferência, todos corrigidos) · 60 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 15:**
+
+1. **A enciclopédia ganhou o seu primeiro verbete sobre um documento histórico verificável.** `RC-770` *Hipóstase dos Arcontes* é códice II de Nag Hammadi, encontrado em 1945, lido pelos estudiosos como exegese de Gênesis 1–6 — **isso não é quarentena, é dado**. O que é quarentena é a identificação que a obra faz das personagens (Samael = Javé, Pistis Sophia = Prabrajna etc.). Por isso a seção sobre os estudiosos vem **antes** da leitura da obra.
+2. **O eixo do lote é o enxerto.** Projeto Talm (código transferido entre universos), Ressurreição do Cadáver do Criador (reconstrução pelos marcados), Biodemos (estirpe de Capela) e Pashvnaj (a espécie de onde sai o acidente): nos quatro, **algo de fora é enxertado em algo daqui** — e nos quatro a reconstrução depende de quem está dentro.
+3. **`RC-036` e `RC-091` são os dois inversos dos casos-limite.** Fichas de 4.341 e 3.275 palavras contra grau 11 e 12: aqui sobra material e falta procura — o oposto de `RC-714` (281 p., grau 15).
+4. **`RC-455` Pashvnaj traz uma autocrítica da fonte:** «esses 43 Pashvnaj não correspondiam a 43 espíritos, mas sim a cerca de vinte e poucas almas, pois muitos eram projeções de si mesmos». O verbete sustenta os dois números sem escolher.
+5. **`RC-091` Projeto Talm carrega uma pendência de chancela de áudio** (F039-L3, 2026-09-06) e datas marcadas como «[REVISAR — conferir B050]». O verbete registra as três marcações conflitantes («5.7 bilhões», «7,5 a 7,7 bilhões», «cerca de 8») e **não escolhe nenhuma**.
+6. **Falhas: 32 → 10 → 0.** Das dez restantes, **cinco eram nossas** — um termo de STT inventado («probiu», que não consta na ficha), duas elisões com «...» sobre texto contínuo e duas paráfrases como se fossem fala. As outras cinco eram **negrito da Base atravessado no meio da citação**: a ficha escreve «nunca **sentida pela estirpe dos biodemos**», e o recorte tem de começar depois do asterisco.
+7. **Quatro renomeações de endereço compartilhado** — as mais de uma só vez até aqui: `V4.17.01-RC099`, `V5.23.01-RC714`, `V3.13.02-RC024` e, do lote anterior, `V1.03.01-RC706`.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -364,7 +388,9 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 49 dos 79 (lotes 7–14); **30 restantes com grau total ≥ 10**. Próximos seis — `RC-755` Escola da Decifração da Realidade (13) · `RC-091` Projeto Talm (12) · `RC-638` Ressurreição do Cadáver do Criador (12) · `RC-770` Hipóstase dos Arcontes (12) · `RC-036` Biodemos (11) · `RC-455` Pashvnaj (11).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 55 dos 79 (lotes 7–15); **24 restantes com grau total ≥ 10**. Próximos seis — `RC-486` Enki (11) · `RC-530` Pistis Sophia (11) · `RC-556` Senhor Parameshthi (11) · `RC-586` Rishis (11) · `RC-611` Flechas / Profecias de Moros (11) · `RC-623` Corpo Átmico (11).
+
+> **Lacuna encontrada (09/09/2026):** `RC-544` Novo Homo sapiens tem grau total 11, está no registro-mestre e em 11 relações — mas **não possui ficha** em `termos/`. Sem ficha não há verbatim, e sem verbatim não há verbete. Fica pendente de decisão do Curador (escrever a ficha ou registrar a remissiva).
 
 ## 5. Como conferir
 

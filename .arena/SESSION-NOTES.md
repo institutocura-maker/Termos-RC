@@ -266,3 +266,22 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 7. **Renomeação:** `V1.03.01-RC706-…`. V.22.1 passa a 7 verbetes; II.8.1, a 8.
 
 **Próximos seis:** RC-755 (13) · RC-091 (12) · RC-638 (12) · RC-770 (12) · RC-036 (11) · RC-455 (11).
+
+---
+
+## 09/09/2026 — Lote 15: as fontes externas e o enxerto (6 verbetes, 5.772 palavras)
+
+`RC-770` Hipóstase dos Arcontes (V.23.1, 1.084 p.) · `RC-455` Pashvnaj (III.13.1, 979) · `RC-036` Biodemos (III.13.2, 961) · `RC-755` Escola da Decifração (IV.20.1, 956) · `RC-091` Projeto Talm (IV.17.1, 923) · `RC-638` Ressurreição do Cadáver do Criador (III.9.4, 869).
+
+**Acumulado: 90 verbetes · 2.229 verbatim · 998 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Primeiro verbete sobre documento histórico verificável:** `RC-770` = códice II de Nag Hammadi (1945), exegese de Gênesis 1–6. Isso **não** é quarentena, é dado. Quarentena é só a identificação das personagens.
+2. **Eixo do lote = o enxerto:** Talm, Ressurreição, Biodemos, Pashvnaj — em todos, algo de fora é enxertado aqui, e a reconstrução depende de quem está dentro.
+3. **`RC-036` (4.341 p.) e `RC-091` (3.275 p.) são o inverso dos casos-limite:** sobra material, falta procura.
+4. **Autocrítica da fonte em `RC-455`:** «43 Pashvnaj não correspondiam a 43 espíritos, mas a cerca de vinte e poucas almas». Verbete sustenta os dois números.
+5. **`RC-091` tem pendência F039-L3 (chancela de áudio) e datas [REVISAR — conferir B050]** — três marcações conflitantes, nenhuma escolhida.
+6. **Falhas 32 → 10 → 0.** Das 10, **5 nossas** (1 termo STT inventado «probiu», 2 elisões «...», 2 paráfrases como fala) e **5 por negrito da Base atravessado na citação** — recorte tem de começar depois do `**`.
+7. **Quatro renomeações:** `V4.17.01-RC099`, `V5.23.01-RC714`, `V3.13.02-RC024`, `V1.03.01-RC706`.
+8. **LACUNA: `RC-544` Novo Homo sapiens** tem grau 11 e 11 relações, mas **não tem ficha** em `termos/`. Sem ficha não há verbatim. Pendente de decisão do Curador.
+
+**Próximos seis:** RC-486 (11) · RC-530 (11) · RC-556 (11) · RC-586 (11) · RC-611 (11) · RC-623 (11).
