@@ -439,3 +439,24 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 9. **Renomeação:** `V3.16.05-RC734`. Endereços novos: II.7.6, V.23.3.
 
 **4º anel (grau 8), lote 23:** RC-005 (ficha de 5.526 p.) · RC-040 (1.565) · RC-176 (1.433) · RC-194 (1.365) · RC-293 (1.113) · RC-286 (737).
+
+---
+
+## 09/09/2026 — Lote 23: ABERTURA DO 4º ANEL, GRAU 8 (7 verbetes, 6.857 palavras)
+
+`RC-005` Segundo Advento (III.11.3, **1.668 p. — formato longo**) · `RC-293` Timé (I.3.3, 944) · `RC-176` Modelo Colmeia (II.8.1, 900) · `RC-286` Tártaro (III.10.3, 878) · `RC-040` CFD (II.6.4, 869) · `RC-415` Colapso da Matriz Quântica (II.7.1, 805) · `RC-194` Big Data Cósmico (II.8.1, 793).
+
+**Acumulado: 139 verbetes · 3.361 verbatim · 1.497 códigos · 0 falhas** · Base intacta · 0 código criado. **Grau 8: 13 restantes** de 364 nós redigíveis.
+
+1. **RC-005 = maior verbete já redigido e maior lastro:** ficha de **5.526 p.** e **30 ampliações**; a que acumula **mais quarentenas simultâneas** (teológica, ufológica, mediúnica, biomediúnica, política).
+2. **A tese numa frase:** a promessa não se cumpre pelo Jesus humano, mas por Sophia — «por Sophia, que nada tem de humano».
+3. **Código preto declarado na própria ficha de RC-005** (as duas testemunhas) — **totalmente retido; o verbete não o toca.**
+4. **RC-293 = melhor lastro filológico do lote:** *timé* (τιμή) é a honra/prerrogativa homérica. Quarentena só na extensão cosmológica.
+5. **RC-286 tem lastro mitológico real** (Tártaro hesiodico, Tifão, Piton). A obra fica com «Tártaro = Shiva» e com Hades aprisionando eus mentais desde Adão.
+6. **Falhas 10 → 1 → 0.** Reincidências: elisão nossa (×3) e negrito da Base atravessado (×4) — remédio: partir em duas. Novidades: 1 composição nossa, 1 caixa alta não respeitada, 2 fórmulas nossas.
+7. **31 pontos finais nossos dentro da aspa** — regra cravada: ponto FORA do « ». Corrigidos automaticamente.
+8. **ARMADILHA NOVA DE AMBIENTE — o verificador QUEBROU:** `AssertionError: documento-fonte declarado inexistente: original.txt`. **Todo caminho .md/.txt entre CRASES é lido como declaração de documento-fonte.** Nome de arquivo citado vai em *itálico*, não em crase. **A 1ª conferência que pareceu «0 falhas» era falsa — o programa morreu antes de imprimir.**
+9. **8 rótulos de código corrigidos à mão** (RC-042, RC-180, RC-542, RC-197, RC-019, RC-200, RC-060 «Operacional», RC-274).
+10. **Endereços novos: I.3.3 e II.6.4.**
+
+**Próximos (grau 8):** RC-543 (2.757 p.) · RC-583 (1.466) · RC-600 (832) · RC-579 (633) · RC-471 (569) · RC-624 (513) · RC-618 (509) · RC-518 (413) — 13 no total.

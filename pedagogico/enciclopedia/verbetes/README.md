@@ -80,6 +80,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **20** | 09/09/2026 | `V3/RC-145` Zeus · `V3/RC-489` Enoque · `V4/RC-548` Arquivos Mentais · `V1/RC-192` Pílula vermelha · `V4/RC-190` Revelação Espiritual · `V3/RC-463` Hermes Trismegisto | ✅ redigido — **abertura do 3º anel** |
 | **21** | 09/09/2026 | `V5/RC-558` Sensação de eu · `V5/RC-654` Últimos e Primeiros · `V5/RC-615` Superconsciência · `V4/RC-625` Corpo Manásico · `V3/RC-582` Ravana · `V4/RC-637` Transferência da Memória | ✅ redigido — **o humano como chegada** |
 | **22** | 09/09/2026 | `V3/RC-737` Projeto Amaterasu · `V2/RC-730` Yggdrasil · `V4/RC-732` Invasão Ancestral · `V4/RC-713` Taumaturgia · `V3/RC-665` Orunmilá · `V2/RC-674` Urdidura · `V5/RC-687` Farmacopeia | ✅ redigido — **fecho do 3º anel (7 verbetes)** |
+| **23** | 09/09/2026 | `V3/RC-005` Segundo Advento (**longo**) · `V1/RC-293` Timé · `V2/RC-176` Modelo Colmeia · `V3/RC-286` Tártaro · `V2/RC-040` CFD · `V2/RC-415` Colapso da Matriz · `V2/RC-194` Big Data | ✅ redigido — **abertura do 4º anel (grau 8)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -542,6 +543,36 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 8. **Seis rótulos de código corrigidos à mão** (o verificador não pega nome errado): `RC-217` = «DNA como Projeção Holográfica do Psiquismo do Criador»; `RC-454` = «Elm (Moros — ser LM de Tempérion)»; `RC-686` = «Plantas de Moléculas Complexas»; `RC-359` = «Abduções e Reparo Espiritual»; e, o mais grave, `RC-269` e `RC-531`, que havíamos rotulado «Atena» e «Poseidon» — **não são**.
 9. **Renomeação:** `V3.16.05-RC734-…`. Dois endereços novos: II.7.6 e V.23.3.
 
+### Lote 23 — abertura do 4º anel, grau 8 (7 verbetes, 6.857 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Segundo Advento do Cristo (**longo**) | III.11.3 | `V3/V3.11.03-RC005-segundo-advento.md` | **1.668** | **5.526 p.** |
+| Timé (de um deus) | I.3.3 | `V1/V1.03.03-RC293-time.md` | 944 | 1.113 p. |
+| Modelo Colmeia | II.8.1 | `V2/V2.08.01-RC176-modelo-colmeia.md` | 900 | 1.433 p. |
+| Tártaro (Eros = Vishnu / Tártaro = Shiva) | III.10.3 | `V3/V3.10.03-RC286-tartaro.md` | 878 | 737 p. |
+| CFD (Código Fonte Definidor) | II.6.4 | `V2/V2.06.04-cfd-codigo-fonte-definidor.md` | 869 | 1.565 p. |
+| Colapso da Matriz Quântica (3 níveis) | II.7.1 | `V2/V2.07.01-RC415-colapso-da-matriz-quantica.md` | 805 | 467 p. |
+| Big Data Cósmico | II.8.1 | `V2/V2.08.01-RC194-big-data-cosmico.md` | 793 | 1.365 p. |
+
+**Medida final:** 685–1.668 palavras · **184 verbatim byte a byte** (10 reprovados na 1ª conferência real, todos corrigidos) · 57 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 23:**
+
+1. **`RC-005` é o maior verbete já redigido e o de maior lastro:** ficha de **5.526 palavras** e **30 ampliações**, posta em 1.668 palavras de verbete em **formato longo**. É também **o que acumula mais quarentenas simultâneas na Base** — teológica, ufológica, mediúnica, biomediúnica e política.
+2. **A tese de `RC-005` numa frase:** a promessa não se cumpre pelo mesmo Jesus humano, mas por Sophia — «serão cumpridas não por alguém com a sua natureza humana de então, mas sim, por Sophia, que nada tem de humano».
+3. **Há um código preto declarado na própria ficha de `RC-005`** — a revelação das duas testemunhas está **totalmente retida**. **O verbete não o toca.**
+4. **`RC-293` (Timé) é o verbete de melhor lastro filológico do lote:** *timé* (τιμή) é de fato a honra/prerrogativa no grego homérico. A quarentena está na extensão cosmológica — que a timé seja moeda mensurável e motivo de guerras é tese da obra.
+5. **`RC-286` tem lastro mitológico real:** o Tártaro hesiodico, Tifão e a Piton de Delfos existem. O que é da obra é a correspondência «Tártaro = Shiva» e a função nova (Hades aprisionando **eus mentais** desde Adão).
+6. **`RC-176` registra o juízo ético que é da fonte e não nosso:** acesso «de modo vergonhoso frente aos valores humanos no campo da ética».
+7. **`RC-194` é o único verbete cuja ficha declara o próprio recorte:** status provisório **«baseado na amostra B035 — caps. 1–2»**; caps. 3–12 e posfácio ficam fora, e há um `[TEXTO INCOMPLETO]` registrado, **sem interpolação**.
+8. **`RC-415` traz uma distinção ratificada pelo curador:** não se funde com `RC-690` (Colapso do Caos Organizado). «RC-690 é o evento amplo de desestruturação biológica, informacional e cósmica; RC-415 conserva a especificidade do colapso da matriz quântica em três níveis.»
+9. **Falhas: 10 → 1 → 0, e uma armadilha nova de ambiente.** Duas reincidências: **elisão nossa dentro da aspa** (`RC-176`, `RC-293`, `RC-005`) e **negrito da Base atravessado na aspa** (`RC-293` ×2, `RC-005` ×2) — ambas com o remédio canônico de partir em duas. Uma **composição nossa** («robô sem individuação»), uma **caixa alta não respeitada** («ISSO ESTÁ PARA BREVES DIAS») e duas **fórmulas nossas postas como citação** («Não há calendário», «projeção com tecnologia»).
+10. **31 pontos finais nossos estavam dentro da aspa** — a regra cravada é «ponto final FORA do « »». Corrigidos automaticamente onde a versão sem ponto existe na Base.
+11. **O verificador QUEBROU na primeira conferência** (`AssertionError: documento-fonte declarado inexistente: original.txt`): **todo caminho `.md`/`.txt` entre crases é lido como declaração de documento-fonte.** Em `RC-040` o nome do arquivo da transcrição estava entre crases e virou declaração. **Remédio: nome de arquivo citado vai em itálico, não em crase.**
+12. **Seis rótulos de código corrigidos à mão:** `RC-042` = Criatura Universal · `RC-180` = Fator Colmeia · `RC-542` = Ex-DNA-lixo · `RC-197` = Big Data da Terra · `RC-019` = Anjos clones · `RC-200` = Base de Dados do Juízo Final · `RC-060` = Espiritualidade **Operacional** (não «Operativa») · `RC-274` = Cápsula do Tempo de Sophia (João).
+13. **Dois endereços novos: I.3.3 e II.6.4.** `RC-005` chega ao III.11.3 ainda vazio e o abre.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -563,7 +594,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8)**, aberto no lote 23 — **371 nós redigíveis**. Próximos seis: `RC-005` Segundo Advento do Cristo (ficha de **5.526 p.**) · `RC-040` CFD — Código Fonte Definidor (1.565) · `RC-176` Modelo Colmeia (1.433) · `RC-194` Big Data Cósmico (1.365) · `RC-293` Timé (1.113) · `RC-286` Eros = Vishnu / Tártaro = Shiva (737).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8):** aberto no lote 23. **364 nós redigíveis.** Restam **13 com grau 8**: `RC-471` Bifrost (569 p.) · `RC-518` Genoma Derivado (413) · `RC-543` Espelho da Herança Espiritual no Epigenoma (**2.757**) · `RC-579` Noreia (633) · `RC-583` Guerra Nuclear Anunnaki (1.466) · `RC-600` Seres Originais do Paraíso (832) · `RC-618` Moksha (509) · `RC-624` Corpo Búdico (513) · e mais cinco. A seguir, grau 7.
 
 ## 5. Como conferir
 
