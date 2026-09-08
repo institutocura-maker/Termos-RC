@@ -88,6 +88,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **28** | 09/09/2026 | `V5/RC-758` Quarto Cérebro · `V1/RC-682` Malkuth · `V4/RC-735` Abraço aos Fantasmas · `V5/RC-738` Amaterasu · `V5/RC-754` Chave da Decifração Universal · `V5/RC-887` Nag Hammadi | ✅ redigido — **abertura do 6º anel (grau 6)** |
 | **29** | 09/09/2026 | `V2/RC-657` Verdade Posta × Verdade a Construir · `V4/RC-620` Eu Coalescente · `V3/RC-592` Era de Peixes · `V4/RC-630` Corpo Daiva · `V2/RC-643` Santo Graal · `V2/RC-602` Blindagens Interdimensionais | ✅ redigido |
 | **30** | 09/09/2026 | `V4/RC-557` Conectoma humano · `V4/RC-552` Disciplina dos 3As · `V3/RC-567` Ciclo de Precessão Equinocial · `V3/RC-584` Rama · `V3/RC-487` Enlil · `V4/RC-566` Protocolo da Busca | ✅ redigido |
+| **31** | 09/09/2026 | `V3/RC-424` Linhagem dos Escolhidos · `V3/RC-295` Drama do Fechamento dos Portais · `V3/RC-460` Marduk · `V4/RC-283` Pandora como Serpente do Éden · `V4/RC-400` Foz Côa / FOXP2 · `V2/RC-188` Mente Coletiva | ✅ redigido |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -294,7 +295,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 | Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
 |---|---|---|---|---|
-| Pandora | IV.17.4 | `V4/V4.17.04-pandora.md` | 1.063 | 4.008 p. · 9 ampliações |
+| Pandora | IV.17.4 | `V4/V4.17.04-RC086-pandora.md` | 1.063 | 4.008 p. · 9 ampliações |
 | Lei da Mente do Buda | II.8.3 | `V2/V2.08.03-RC712-lei-da-mente-do-buda.md` | 1.049 | 581 p. |
 | Liberdade Mental | IV.21.1 | `V4/V4.21.01-RC253-liberdade-mental.md` | 974 | 568 p. |
 | Gestão da Sensação Pessoal | IV.20.1 | `V4/V4.20.01-RC633-gestao-da-sensacao-pessoal.md` | 918 | 754 p. |
@@ -651,7 +652,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Zont En Drel 29 | III.13.3 | `V3/V3.13.03-RC147-zont-en-drel.md` | 756 | 1.011 p. |
 | Gênero Adhy (147 seres, 5 espécies) | III.13.5 | `V3/V3.13.05-RC411-genero-adhy.md` | 734 | 839 p. |
 | ADHYMAVATANA | III.10.3 | `V3/V3.10.03-RC408-adhymavatana.md` | 734 | 1.063 p. |
-| Quarentena Sideral / Cósmica | III.12.4 | `V3/V3.12.04-quarentena-sideral.md` | 729 | 864 p. |
+| Quarentena Sideral / Cósmica | III.12.4 | `V3/V3.12.04-RC342-quarentena-sideral.md` | 729 | 864 p. |
 | Demos | III.12.1 | `V3/V3.12.01-RC049-demos.md` | **709** | 1.494 p. |
 
 **Medida final:** 709–1.349 palavras · **181 verbatim byte a byte** (25 reprovados na 1ª conferência, todos corrigidos) · 59 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
@@ -827,6 +828,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 15. **16 falhas → 0, o pior índice do 6º anel.** Composição: **8 negrito da Base atravessado na aspa** (`RC-557` ×3, `RC-552` ×4, `RC-487` ×1) · **4 expressão nossa aspirada** (`RC-557`, `RC-552` ×2, `RC-584`) · **1 elisão nossa dentro da aspa** (`RC-557`) · **2 grafia/transcrição** («espície» × «espécie», «retardarem» × «retardar») · **1 recorte truncado com `...`** (`RC-567`). **Remédios: aspa contígua para o negrito, itálico para o que é nosso, aspa cheia para a elisão.**
 16. **Endereço novo: IV.20.2** (Disciplina dos 3As). Sem renomeações neste lote.
 
+### Lote 31 — 6º anel, grau 6 (6 verbetes, 5.871 palavras)
+
+**Despacho do Curador:** «Ok, em frente com os próximos seis do grau 6». Restam **6 nós** no grau 6 — **o fecho do anel está à vista**.
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | III.15.2 | `V3/V3.15.02-RC424-linhagem-dos-escolhidos.md` | **1.129** | **1.562 p.** |
+| Drama do Fechamento dos Portais | III.12.4 | `V3/V3.12.04-RC295-drama-do-fechamento-dos-portais.md` | **1.051** | **1.879 p.** |
+| Marduk (= Ra; Anunnaki filho de Enki) | III.13.2 | `V3/V3.13.02-RC460-marduk.md` | 1.039 | 951 p. |
+| Pandora como Serpente do Éden | IV.17.4 | `V4/V4.17.04-RC283-pandora-como-serpente-do-eden.md` | 963 | 1.006 p. |
+| Foz Côa / FOXP2 (símbolos) | IV.18.3 | `V4/V4.18.03-RC400-foz-coa-foxp2.md` | 869 | 825 p. |
+| Mente Coletiva / Redes Psíquicas Coletivas | II.8.3 | `V2/V2.08.03-RC188-mente-coletiva.md` | **820** | 946 p. |
+
+**Medida final:** 820–1.129 palavras (média 978) · **179 verbatim byte a byte** (2 reprovados na 1ª conferência, corrigidos) · 61 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 31:**
+
+1. **Falta só um lote para fechar o 6º anel:** 209 verbetes · **441 nós redigíveis** · **6 com grau 6** (`RC-164`, `RC-163`, `RC-154`, `RC-148`, `RC-074`, `RC-002`).
+2. **`RC-295` tem a maior ficha do 6º anel inteiro (1.879 p.)** — à frente de `RC-557` (1.855). O verbete ficou em 1.051 palavras porque boa parte da ficha é excurso de palestra: o bloco de Brasília ficou **fora** da ontologia do termo, como manda a regra do lastro.
+3. **`RC-424` é o único com obra publicada e página** neste lote (B036, p. 17, 18, 19, 75) — e ainda assim 🟠 em análise, o status mais conservador do lote.
+4. **A melhor peça de `RC-424` é a que desequilibra o «predileto»:** Enoch foi o «primeiro humano que construiu uma opinião própria a meu respeito, num certo sentido crítico, mas sem me criticar» — e viu que Javé «atormentava» os eleitos.
+5. **`RC-424` registra duas listas patriarcais com cortes diferentes na mesma palestra** — divergência de STT, «de doutrina — registrar sem harmonizar».
+6. **`RC-460` (Marduk) é o caso-modelo de divergência selada:** a guerra aparece como **briga de clãs** numa fonte e como **disputa por terras raras** na Base. A ficha manda selar as duas leituras — **o verbete não escolheu**.
+7. **`RC-460` preserva três datas incompatíveis** (3.000 e poucos a.C. / 2200 a.C. / 4.000 anos atrás) e **um STT corrompido não decodificado** («eergal e no lurtte», «livros animais»), com chancela F041-L5 de AGUARDA-ÁUDIO.
+8. **`RC-283` (Pandora como Serpente) tem a melhor nota de anterioridade do lote:** P2020-04-25 antecipa **32 meses** a fonte oral mais antiga então registrada.
+9. **`RC-400` (FOXP2) confirma uma convergência rara:** a conta das «2.000 informações por segundo» aparece tanto em `RC-400` quanto em `RC-557` (Conectoma) — **dois verbetes do mesmo endereço, mesma cifra, fontes distintas**.
+10. **`RC-188` (Mente Coletiva) carrega o VETO DE CÓDIGO da Devolutiva O-8:** «Memete» permanece termo-observação absorvido em `RC-188` e `RC-194`; **não** ocupa `RC-778`.
+11. **`RC-188` recusa a fusão com Kapila/Sāṃkhya (D-7)** — e a própria ficha registra as duas grafias: «mente uma» na citação oral e «mente una» na nota. **Ambas preservadas.**
+12. **Falhas 2 → 0, todas de grafia nossa:** «mente una» × «mente uma» (2×). **Depois das 16 do lote 30, a blindagem funcionou** — nenhum negrito atravessado, nenhuma expressão nossa aspirada, nenhuma elisão.
+13. **Renomeações:** `V3.12.04-RC342` (Quarentena Sideral) e `V4.17.04-RC086` (Pandora).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -852,7 +884,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 e em curso — **447 nós redigíveis**, dos quais **12 com grau 6**. Próximos seis: `RC-460` Marduk · `RC-424` Linhagem dos Escolhidos · `RC-400` Foz Côa / FOXP2 · `RC-295` Drama do Fechamento dos Portais · `RC-283` Pandora como Serpente do Éden · `RC-188` Mente Coletiva.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 e em curso — **441 nós redigíveis**, dos quais **6 com grau 6**. **O fecho do anel depende de um único lote:** `RC-164` Criaturas-ferramenta · `RC-163` Mente Universal (Emergente) · `RC-154` Nidana (ovo cósmico) · `RC-148` Agentes da Vida Universal · `RC-074` Len Mion (Satã) · `RC-002` Rebelião de Lúcifer.
 
 ## 5. Como conferir
 

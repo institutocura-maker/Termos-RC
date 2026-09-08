@@ -640,3 +640,29 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 16. **Endereço novo: IV.20.2.** Sem renomeações.
 
 **Próximos (grau 6):** RC-460 Marduk · RC-424 Linhagem dos Escolhidos · RC-400 Foz Côa / FOXP2 · RC-295 Drama do Fechamento dos Portais · RC-283 Pandora como Serpente do Éden · RC-188 Mente Coletiva — 12 no total.
+
+---
+
+## 09/09/2026 — Lote 31: 6º ANEL, GRAU 6 (6 verbetes, 5.871 palavras)
+
+**Despacho do Curador: «Ok, em frente com os próximos seis do grau 6»** — RC-424, RC-295, RC-283, RC-460, RC-188, RC-400.
+
+`RC-424` Linhagem dos Escolhidos (III.15.2, **1.129**) · `RC-295` Drama do Fechamento dos Portais (III.12.4, **1.051**) · `RC-460` Marduk (III.13.2, 1.039) · `RC-283` Pandora como Serpente do Éden (IV.17.4, 963) · `RC-400` Foz Côa / FOXP2 (IV.18.3, 869) · `RC-188` Mente Coletiva (II.8.3, **820**).
+
+**Acumulado: 209 verbetes · 4.920 verbatim · 2.151 códigos · 0 falhas** · Base intacta (946/650/1898) · 0 código criado. **Grau 6: 6 restantes** de 441 redigíveis — **o fecho do anel está a um lote**.
+
+1. **Ambiente estável:** HEAD = remoto = `7ba0ab1` na abertura.
+2. **RC-295 = maior ficha do 6º anel inteiro (1.879 p.)**, à frente de RC-557 (1.855). Verbete em 1.051 palavras: boa parte da ficha é excurso (bloco de Brasília ficou fora da ontologia).
+3. **RC-424 = único com obra publicada e página do lote** (B036 p. 17/18/19/75) e ainda 🟠 em análise.
+4. **Melhor peça de RC-424:** Enoch = «primeiro humano que construiu uma opinião própria a meu respeito, num certo sentido crítico, mas sem me criticar»; viu que Javé «atormentava» os eleitos.
+5. **RC-424: duas listas patriarcais com cortes diferentes na mesma palestra** — «de doutrina — registrar sem harmonizar».
+6. **RC-460 = caso-modelo de divergência selada:** briga de clãs × disputa por terras raras. **O verbete não escolheu.**
+7. **RC-460: três datas incompatíveis preservadas** (3.000 e poucos a.C. / 2200 a.C. / 4.000 anos atrás) + **STT corrompido não decodificado** («eergal e no lurtte», «livros animais»), chancela F041-L5 AGUARDA-ÁUDIO.
+8. **RC-283: melhor nota de anterioridade do lote** — P2020-04-25 antecipa 32 meses.
+9. **RC-400 × RC-557: convergência rara** — a conta das «2.000 informações por segundo» aparece nos dois, em fontes distintas, no mesmo endereço IV.18.3.
+10. **RC-188: VETO DE CÓDIGO (Devolutiva O-8)** — «Memete» é termo-observação em RC-188 e RC-194; **não** ocupa RC-778.
+11. **RC-188: recusa de fusão D-7 com Kapila/Sāṃkhya**; a própria ficha tem as duas grafias («mente uma» na citação, «mente una» na nota) — ambas preservadas.
+12. **Falhas 2 → 0 (contra 16 do lote 30):** só grafia nossa («mente una» × «mente uma»). **A blindagem do lote 30 funcionou** — zero negrito atravessado, zero expressão nossa aspirada, zero elisão.
+13. **Renomeações:** `V3.12.04-RC342`, `V4.17.04-RC086`.
+
+**Próximos (fecho do 6º anel):** RC-164 Criaturas-ferramenta · RC-163 Mente Universal (Emergente) · RC-154 Nidana (ovo cósmico) · RC-148 Agentes da Vida Universal · RC-074 Len Mion (Satã) · RC-002 Rebelião de Lúcifer — os 6 últimos do grau 6.
