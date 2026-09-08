@@ -399,3 +399,23 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 8. **3 endereços novos:** III.12.1, I.3.4, IV.19.1.
 
 **Próximos seis (lote 21):** RC-558 (9, 538) · RC-582 (9, 1.150) · RC-615 (9, 795) · RC-625 (9, 561) · RC-637 (9, 351) · RC-654 (9, 490).
+
+---
+
+## 09/09/2026 — Lote 21: o humano como chegada (6 verbetes, 5.069 palavras)
+
+`RC-558` Sensação de eu (V.22.1, 980 p.) · `RC-654` Humanos: Últimos e Primeiros (V.22.1, 926) · `RC-625` Corpo Manásico (IV.18.1, 821) · `RC-615` Superconsciência (V.22.1, 835) · `RC-582` Ravana (III.12.1, 806) · `RC-637` Transferência da Memória dos Antielétrons (IV.19.3, 701).
+
+**Acumulado: 125 verbetes · 3.058 verbatim · 1.366 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Quatro dos seis são sobre o humano como ponto de chegada** (RC-558, RC-615, RC-654 + RC-625).
+2. **RC-654 dialoga com duas fontes reais:** «os últimos serão primeiros» (Mt 19,30; 20,16) e o **Tikun** da cabala luriana. A releitura é que é da obra.
+3. **RC-558 é o verbete mais direto em ética:** «Se a sensação for uma merda, o eu adentra uma nova situação existencial se sentindo um merda». Palavrão preservado — é o termo da fonte e carrega o argumento.
+4. **RC-625 aplica de antemão a lição do lote 14:** em RC-719 erramos «átmico» por «manásico». Aqui a fonte diz manásico, e manásico ficou.
+5. **RC-637 = menor lastro do 3º anel (351 p.) e ressalva científica mais forte já feita por uma ficha**, pela própria Base: «explicitamente reconhecida como não científica pelo próprio palestrante».
+6. **RC-582 em terreno firme:** Ravana é antagonista do Ramayana (Valmiki). Quarentena recua para a cronologia e para Zeus = Indra.
+7. **Falhas 42 → 14 → 0.** Das 14, **11 nossas**: 3 elisões, 4 composições como citação, 3 recortes que alteraram o STT («ser demo» ≠ «serdemo») ou suprimiram palavras.
+8. **A mais instrutiva: tentamos citar o NOSSO erro do lote 14** («corpos búdico e átmico») como se estivesse na Base. **Ele não está.** Não se cita o que não existe na fonte.
+9. **Renomeação:** `V3.12.01-RC145`. Endereços novos: IV.19.3, III.12.1.
+
+**Restam 7 nós com grau 9:** RC-665 (1.199) · RC-674 (287) · RC-687 (233) · RC-713 (2.005) · RC-730 (934) · RC-732 (601) · RC-737 (635). Depois, grau 8, a partir de RC-005 (ficha de 5.526 p.).

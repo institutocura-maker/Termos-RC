@@ -78,6 +78,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **18** | 09/09/2026 | `V4/RC-619` Genoma da Liberdade · `V2/RC-636` Duas Pulsações · `V2/RC-596` Archeons de Ereon · `V3/RC-610` Tridevi · `V3/RC-571` Ano de 2012 · `V3/RC-475` Deva / Aurora | ✅ redigido — **o que a fonte recusa** |
 | **19** | 09/09/2026 | `V3/RC-727` DNA Insubmisso *(longo)* · `V4/RC-723` Abismo da Providência · `V5/RC-767` 256 Caminhos · `V2/RC-726` Faixas de Ressonância · `V2/RC-746` Dessensibilização | ✅ redigido — **fecho do 2º anel** |
 | **20** | 09/09/2026 | `V3/RC-145` Zeus · `V3/RC-489` Enoque · `V4/RC-548` Arquivos Mentais · `V1/RC-192` Pílula vermelha · `V4/RC-190` Revelação Espiritual · `V3/RC-463` Hermes Trismegisto | ✅ redigido — **abertura do 3º anel** |
+| **21** | 09/09/2026 | `V5/RC-558` Sensação de eu · `V5/RC-654` Últimos e Primeiros · `V5/RC-615` Superconsciência · `V4/RC-625` Corpo Manásico · `V3/RC-582` Ravana · `V4/RC-637` Transferência da Memória | ✅ redigido — **o humano como chegada** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -489,6 +490,31 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Três rótulos de código corrigidos à mão** (o verificador não pega nome errado): `RC-762` = «As Três Escalas da Consciência»; `RC-273` = «A Falsa Trindade (Concílio de Niceia)»; e uma auto-remissiva indevida a `RC-489`, removida.
 8. **Três endereços novos:** III.12.1, I.3.4 e IV.19.1 (este último já com dois verbetes).
 
+### Lote 21 — o humano como chegada (6 verbetes, 5.069 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Sensação de eu | V.22.1 | `V5/V5.22.01-RC558-sensacao-de-eu.md` | 980 | 538 p. |
+| Humanos: Últimos e Primeiros | V.22.1 | `V5/V5.22.01-RC654-humanos-ultimos-e-primeiros.md` | 926 | 490 p. |
+| Superconsciência | V.22.1 | `V5/V5.22.01-RC615-superconsciencia.md` | 835 | 795 p. |
+| Ravana | III.12.1 | `V3/V3.12.01-RC582-ravana.md` | 806 | 1.150 p. |
+| Corpo Manásico | IV.18.1 | `V4/V4.18.01-RC625-corpo-manasico.md` | 821 | 561 p. |
+| Transferência da Memória dos Antielétrons | IV.19.3 | `V4/V4.19.03-transferencia-da-memoria-dos-antieletrons.md` | **701** | **351 p.** |
+
+**Medida final:** 701–980 palavras · **123 verbatim byte a byte** (42 reprovados na 1ª conferência, todos corrigidos) · 60 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 21:**
+
+1. **Quatro dos seis verbetes são sobre o humano como ponto de chegada.** Sensação de eu (`RC-558`), Superconsciência (`RC-615`) e Últimos e Primeiros (`RC-654`) fecham o Volume V.22.1 como um bloco: **o eu é a sensação que se leva; a espécie é a última e a primeira; o modo novo de consciência é o que vem.**
+2. **`RC-654` é a formulação mais curta e mais forte da antropologia da RC**, e dialoga com duas fontes reais: «os últimos serão primeiros» (Mateus 19,30 e 20,16) e o **Tikun** da cabala luriana. **As duas referências existem** — a releitura é que é da obra.
+3. **`RC-558` é onde a enciclopédia é mais direta sobre ética:** «Se a sensação for uma merda, o eu adentra uma nova situação existencial se sentindo um merda». O palavrão é o termo exato da fonte e carrega o argumento — **não foi suavizado**.
+4. **`RC-625` aplica, de antemão, a lição do lote 14.** Em `RC-719` havíamos escrito «corpos búdico e átmico» onde a fonte dizia **manásico** — o pior erro do projeto. Aqui a fonte diz manásico, e manásico ficou.
+5. **`RC-637` tem o menor lastro do 3º anel** (351 p.) e **a ressalva científica mais forte já registrada por uma ficha**, feita pela própria Base: «explicitamente reconhecida como não científica pelo próprio palestrante». O verbete a mantém no mesmo grau.
+6. **`RC-582` está em terreno historicamente firme:** Ravana é o antagonista do *Ramayana* (Valmiki) — dez cabeças, rapto de Sita, morte por Rama. **Isso é épica real.** A quarentena recua para a cronologia e para a equivalência Zeus = Indra.
+7. **Falhas: 42 → 14 → 0.** Das 14, **onze eram nossas**: três elisões com «...», quatro composições como citação, três recortes que alteraram o STT («ser demo» onde a fonte diz «serdemo») ou suprimiram palavras da fala.
+8. **A mais instrutiva:** tentamos citar o **nosso próprio erro** do lote 14 («corpos búdico e átmico») como se estivesse na Base. **Ele não está.** O erro foi nosso, não da fonte — e **não se cita o que não existe na fonte**.
+9. **Renomeação:** `V3.12.01-RC145-…`. Dois endereços novos: IV.19.3 e III.12.1 (este agora com dois verbetes).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -510,7 +536,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9):** aberto no lote 20. Dos 576 códigos ainda não redigidos, **186 não têm ficha** — a fila real é de **384 nós redigíveis**. Próximos seis — `RC-558` Sensação de eu (9, 538 p.) · `RC-582` Ravana (9, 1.150) · `RC-615` Superconsciência (9, 795) · `RC-625` Corpo Manásico (9, 561) · `RC-637` Transferência da Memória dos Antielétrons (9, 351) · `RC-654` Humanos: Últimos e Primeiros (9, 490).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9):** aberto no lote 20. Dos 576 códigos ainda não redigidos, **186 não têm ficha** — a fila real é de **378 nós redigíveis**. Restam **7 com grau 9**: `RC-665` Orunmilá (1.199 p.) · `RC-674` Urdidura de Metatron (287) · `RC-687` Farmacopeia Ancestral (233) · `RC-713` Taumaturgia Genético-Química (2.005) · `RC-730` Yggdrasil (934) · `RC-732` Invasão Ancestral do Genoma (601) · `RC-737` Projeto Amaterasu–Kami (635). A seguir, grau 8, a partir de `RC-005` Segundo Advento do Cristo (ficha de **5.526 p.**).
 
 ## 5. Como conferir
 
