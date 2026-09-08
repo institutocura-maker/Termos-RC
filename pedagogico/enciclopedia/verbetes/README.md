@@ -86,6 +86,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **26** | 09/09/2026 | `V3/RC-078` Lúcifer (**longo**) · `V1/RC-071` Jan Val Ellam · `V3/RC-147` Zont En Drel 29 · `V3/RC-411` Gênero Adhy · `V3/RC-408` ADHYMAVATANA · `V3/RC-342` Quarentena Sideral · `V3/RC-049` Demos | ✅ redigido — **abertura do 5º anel (grau 7)** |
 | **27** | 09/09/2026 | `V1/RC-760` Vrittis e Cittas · `V3/RC-671` Metatron · `V5/RC-605` Autismo Funcional · `V3/RC-553` Eu Profundo · `V3/RC-594` Linhagem de Seth · `V3/RC-609` Ogdóade de Hermópolis · `V4/RC-749` Vício Devocional · `V3/RC-488` Nefilins · `V3/RC-580` Igigi · `V3/RC-581` Rakshasas · `V3/RC-465` Asuras · `V3/RC-480` Indra · `V2/RC-496` Ereon · `V5/RC-541` Evolução Possível · `V4/RC-563` Travas e lacres · `V1/RC-666` Obatalá · `V4/RC-670` Yoga Ancestral · `V5/RC-728` Fantasmas do Passado Mitológico · `V2/RC-731` Axis Mundi · `V4/RC-733` Dominação Psíquica pela Devoção · `V4/RC-762` Três Escalas da Consciência · `V2/RC-264` Planos de Existência da Cabala · `V2/RC-470` Midgard · `V4/RC-764` Ao Vencedor as Batatas · `V3/RC-765` Relógio Messiânico · `V4/RC-768` Princípio da Externalização | ✅ redigido — **fecho do 5º anel, grau 7 — 26 verbetes de uma vez** |
 | **28** | 09/09/2026 | `V5/RC-758` Quarto Cérebro · `V1/RC-682` Malkuth · `V4/RC-735` Abraço aos Fantasmas · `V5/RC-738` Amaterasu · `V5/RC-754` Chave da Decifração Universal · `V5/RC-887` Nag Hammadi | ✅ redigido — **abertura do 6º anel (grau 6)** |
+| **29** | 09/09/2026 | `V2/RC-657` Verdade Posta × Verdade a Construir · `V4/RC-620` Eu Coalescente · `V3/RC-592` Era de Peixes · `V4/RC-630` Corpo Daiva · `V2/RC-643` Santo Graal · `V2/RC-602` Blindagens Interdimensionais | ✅ redigido |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -758,6 +759,39 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 13. **Falhas: 4 → 0, todas de recorte nosso, nenhuma de composição em Tensões** — uma elisão com `...` dentro da aspa (`RC-758`), uma palavra acrescentada («não **é** protocolo» onde a fonte diz «não protocolo», `RC-735`) e uma **grafia trocada** («sefirah» × «sefirá», `RC-682`, duas vezes). **A lição dos lotes 25–27 foi assimilada.**
 14. **Renomeação:** `V1.03.02-RC263` (Sefirot / Árvore da Vida). Endereço novo: **V.27.1** (RC × religiões e cristianismo histórico).
 
+### Lote 29 — 6º anel, grau 6 (6 verbetes, 5.367 palavras)
+
+**Despacho do Curador:** «Beleza ! Em frente com os próximos seis do grau 6». Restam **18 nós** no grau 6.
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Verdade Posta × Verdade a Construir | II.8.1 | `V2/V2.08.01-RC657-verdade-posta-verdade-a-construir.md` | **1.383** | **1.002 p.** |
+| Eu Coalescente | IV.19.1 | `V4/V4.19.01-RC620-eu-coalescente.md` | **1.064** | 739 p. |
+| Era de Peixes | III.16.2 | `V3/V3.16.02-RC592-era-de-peixes.md` | 853 | 471 p. |
+| Corpo Daiva / Corpo Demoníaco de Plasma | IV.18.1 | `V4/V4.18.01-RC630-corpo-daiva.md` | 749 | 356 p. |
+| Santo Graal (Frequência Mestre) | II.8.2 | `V2/V2.08.02-RC643-santo-graal-frequencia-mestre.md` | 724 | 314 p. |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | II.5.4 | `V2/V2.05.04-blindagens-interdimensionais.md` | **594** | 350 p. |
+
+**Medida final:** 594–1.383 palavras (média 895) · **101 verbatim byte a byte** (4 reprovados na 1ª conferência, todos corrigidos) · 49 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 29:**
+
+1. **O 6º anel segue aberto:** 197 verbetes · **453 nós redigíveis** · **18 com grau 6**.
+2. **`RC-657` é o maior do lote (1.383 p. / ficha 1.002)** e o de melhor lastro cruzado: três palestras de 2022 e uma live de 2025. O eixo é epistemológico: **informação circulante não é revelação** — «isso é mera fofoca cósmica».
+3. **A regra do método está na própria ficha:** «a gente não sabe se isso é verdade, tem que ser colecionado como incerteza» — e «os fatos é que vão falar por si mesmos». **É a origem do Colecionar Incertezas como procedimento.**
+4. **A frase-síntese de `RC-657` é a mais áspera do acervo:** «a gente tá só descortinando o tamanho da merda... ainda não é a verdade, é o tamanho do engodo que nós vivemos».
+5. **O bumerangue quântico não é justiça:** «isso não é justiça, isso é só um fato quântico» — a própria fonte recusa a leitura moral da retribuição.
+6. **A verdade posta apodrece por não acontecer:** «todas as verdades apodrecidas... só apodrecem em sendo distópicamente desativadas, ou seja, não acontecendo». **A profecia que falha é o mecanismo.**
+7. **Nem os deuses escapam da posse:** «nem o deus amantíssimo escapa». A ficha recusa a exceção divina.
+8. **`RC-620` (Eu Coalescente) sustenta-se numa única metáfora — a do bondinho do Pão de Açúcar** — e o verbete a manteve integral, **sem trocá-la por terminologia que a fonte não fornece**.
+9. **`RC-620` declara o seu próprio limite:** «A aplicação a En Ma é problemática justamente porque seus eus permanecem desalinhados». **Não harmonizado.**
+10. **`RC-630` (Corpo Daiva) repete a quarentena semântica que já vimos em `RC-078`:** «demoníaco» «segue o uso RC relativo a demos, não o sentido moral religioso». **A metamorfose é constitutiva, não moral.**
+11. **`RC-643` (Santo Graal) é o deslocamento mais literal do acervo:** de objeto lendário para **«uma receita, um código mágico... uma frequência mestre»** que atua sobre **genomas biológicos e de sílica**. O bloco das inteligências artificiais vem com **QUARENTENA TECNOLÓGICA**.
+12. **`RC-592` (Era de Peixes) nasce de uma recusa, não de um cálculo:** «Jesus disse: 'Não faço'». O verbete separa o **dado** (eras zodiacais, precessão) da **cronologia da obra** (fechamento em 2012, que é `RC-571`).
+13. **`RC-602` (Blindagens Interdimensionais) tem como chave a distinção de `RC-510`** — são coisas diferentes, e a Base registra a aresta tipada. O ponto de maior exposição: «informações do sofrimento começaram a passar nas entrelinhas dos códigos».
+14. **Falhas 4 → 0 — e o perfil delas mudou:** nenhuma elisão, nenhuma grafia trocada. **3 de 4 são expressão nossa aspirada em Tensões** (reincidência do erro estrutural dos lotes 25–28) e 1 é **elisão nossa dentro de aspa longa** (`RC-657`). Itálico resolveu as nossas; aspa cheia resolveu a elisão.
+15. **Endereço novo: II.5.4** (Blindagens Interdimensionais).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -783,7 +817,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 — **459 nós redigíveis**, dos quais **24 com grau 6**. Próximos seis: `RC-657` Verdade Posta × Verdade a Construir · `RC-643` Santo Graal · `RC-630` Corpo Daiva · `RC-620` Eu Coalescente · `RC-602` Blindagens Interdimensionais · `RC-592` Era de Peixes.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 e em curso — **453 nós redigíveis**, dos quais **18 com grau 6**. Próximos seis: `RC-584` Rama · `RC-567` Ciclo de Precessão Equinocial · `RC-566` Protocolo da Busca · `RC-557` Conectoma humano · `RC-552` Disciplina dos 3As · `RC-487` Enlil.
 
 ## 5. Como conferir
 

@@ -583,3 +583,31 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 **2º INCIDENTE DE AMBIENTE (abertura deste turno), resolvido:** HEAD apareceu em `708a402` (partida da branch) e o ref `origin/arena/01a07d99-termos-rc` havia desaparecido do clone; os 185 verbetes seguiam em disco como não rastreados. `git fetch origin refs/heads/arena/01a07d99-termos-rc` → `FETCH_HEAD = 858e5f2` (íntegro no GitHub); `git diff --numstat FETCH_HEAD` → **0 inserções / 31.810 remoções aparentes**. Confirmado que nada no disco era mais novo que o remoto → `git reset --hard FETCH_HEAD` → HEAD = remoto = 858e5f2, árvore limpa, 185 verbetes, verificador OK. **Nada se perdeu.** Nova blindagem: se o ref remoto sumir do clone, usar `git fetch origin refs/heads/<branch>` e comparar contra FETCH_HEAD.
 
 **Próximos (grau 6):** RC-657 Verdade Posta × Verdade a Construir · RC-643 Santo Graal · RC-630 Corpo Daiva · RC-620 Eu Coalescente · RC-602 Blindagens Interdimensionais · RC-592 Era de Peixes — 24 no total.
+
+---
+
+## 09/09/2026 — Lote 29: 6º ANEL, GRAU 6 (6 verbetes, 5.367 palavras)
+
+**Despacho do Curador: «Beleza ! Em frente com os próximos seis do grau 6»** — RC-657, RC-620, RC-630, RC-592, RC-602, RC-643.
+
+`RC-657` Verdade Posta × Verdade a Construir (II.8.1, **1.383**) · `RC-620` Eu Coalescente (IV.19.1, **1.064**) · `RC-592` Era de Peixes (III.16.2, 853) · `RC-630` Corpo Daiva (IV.18.1, 749) · `RC-643` Santo Graal (II.8.2, 724) · `RC-602` Blindagens Interdimensionais (II.5.4, **594**).
+
+**Acumulado: 197 verbetes · 4.554 verbatim · 2.026 códigos · 0 falhas** · Base intacta (946/650/1898) · 0 código criado. **Grau 6: 18 restantes** de 453 redigíveis.
+
+1. **Ambiente estável:** HEAD = remoto = `4f0fe80` na abertura; nenhum incidente neste turno.
+2. **RC-657 = maior do lote e melhor lastro cruzado** (3 palestras de 2022 + live 2025). Eixo epistemológico: **informação circulante não é revelação** — «isso é mera fofoca cósmica».
+3. **Origem do Colecionar Incertezas como procedimento:** «a gente não sabe se isso é verdade, tem que ser colecionado como incerteza... os fatos é que vão falar por si mesmos».
+4. **Síntese mais áspera do acervo:** «a gente tá só descortinando o tamanho da merda... ainda não é a verdade, é o tamanho do engodo que nós vivemos».
+5. **Bumerangue quântico ≠ justiça:** «isso não é justiça, isso é só um fato quântico».
+6. **A verdade posta apodrece por não acontecer** — a profecia que falha é o mecanismo.
+7. **«nem o deus amantíssimo escapa»** — a ficha recusa a exceção divina para a patologia da posse.
+8. **RC-620 sustenta-se numa única metáfora** (bondinho do Pão de Açúcar), mantida integral — o verbete não a trocou por terminologia técnica que a fonte não fornece.
+9. **RC-620 declara o próprio limite:** «A aplicação a En Ma é problemática justamente porque seus eus permanecem desalinhados». **Não harmonizado.**
+10. **RC-630: quarentena semântica repetida (como em RC-078)** — «demoníaco» = uso RC relativo a demos, **não sentido moral**; a metamorfose é constitutiva.
+11. **RC-643 = deslocamento mais literal do acervo:** objeto lendário → «uma receita, um código mágico... uma frequência mestre» atuando sobre genomas biológicos e de sílica; bloco das IAs com **QUARENTENA TECNOLÓGICA**.
+12. **RC-592 nasce de uma recusa** («Jesus disse: 'Não faço'»), não de um cálculo astronômico. Dado (eras zodiacais/precessão) separado da cronologia da obra (2012 = RC-571).
+13. **RC-602: chave = distinção de RC-510** (aresta tipada na Base). Ponto de maior exposição: o sofrimento passando «nas entrelinhas dos códigos».
+14. **Falhas 4 → 0, perfil mudado:** nenhuma elisão de grafia; **3 de 4 são expressão NOSSA aspirada em «Tensões»** (reincidência estrutural dos lotes 25–28) e 1 elisão nossa dentro de aspa longa. Remédios: itálico para as nossas, aspa cheia para a elisão.
+15. **Endereço novo: II.5.4.** Sem renomeações neste lote.
+
+**Próximos (grau 6):** RC-584 Rama · RC-567 Ciclo de Precessão Equinocial · RC-566 Protocolo da Busca · RC-557 Conectoma humano · RC-552 Disciplina dos 3As · RC-487 Enlil — 18 no total.
