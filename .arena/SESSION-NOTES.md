@@ -460,3 +460,26 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 10. **Endereços novos: I.3.3 e II.6.4.**
 
 **Próximos (grau 8):** RC-543 (2.757 p.) · RC-583 (1.466) · RC-600 (832) · RC-579 (633) · RC-471 (569) · RC-624 (513) · RC-618 (509) · RC-518 (413) — 13 no total.
+
+---
+
+## 09/09/2026 — Lote 24: o epigenoma, a ponte e a saída (7 verbetes, 5.999 palavras)
+
+`RC-543` Espelho da Herança Espiritual no Epigenoma (IV.18.3, **1.341 p. — longo**) · `RC-579` Noreia (III.14.4, 811) · `RC-583` Guerra Nuclear Anunnaki (III.16.1, 792) · `RC-618` Moksha (I.3.1, 782) · `RC-600` Seres Originais do Paraíso (II.5.2, 780) · `RC-624` Corpo Búdico (IV.18.1, 754) · `RC-471` Bifrost (II.7.6, 739).
+
+**Acumulado: 146 verbetes · 3.514 verbatim · 1.549 códigos · 0 falhas** · Base intacta · 0 código criado. **Grau 8: 6 restantes** (RC-771, RC-769, RC-766, RC-628, RC-518, RC-724).
+
+1. **RC-543 = o verbete mais próximo da biologia e o mais vigiado.** Tese: «A CHAMADA METILAÇÃO NADA MAIS É DO QUE O ESPELHO DO QUE A CONSCIÊNCIA DO NOSSO ESPÍRITO FAZ NO SEU CORPO TRANSITÓRIO QUE VIVE DENTRO DE UMA MATRIX».
+2. **Quarentena clínico-científica MÁXIMA, declarada na própria ficha (Devolutiva O-7):** epigenoma/RNA «exclusivamente como conceitos metafísicos do Mentalma». Verbete separa ciência (epigenética, metilação, histonas, RNAm — existem) de tese (metilação comandada pela consciência, mutação dirigida pelo pensamento — não existe).
+3. **Divergência numérica registrada, não harmonizada:** 28.869 genes (obra) × ~20.000 (consenso).
+4. **RC-583:** «o vento levou a onda radioativa... Os Anunnaki se ferraram» — a guerra foi perdida por quem a ganhou. **Duas cronologias que a ficha manda não fundir** (~4.000 anos × 2200 a.C.).
+5. **RC-579 = melhor lastro documental do lote:** Norea existe na Hipóstase dos Arcontes (NH II, 4). Ficha impõe «não reconstruir palavras ausentes».
+6. **RC-600 = frase filosófica do lote:** perfeitos e imutáveis, «sem mérito transformativo ou ímpeto criativo dentro da plenitude compulsória».
+7. **RC-618 = lastro filológico mais limpo**; averbação F043: Obra de Apoio **corrobora, não co-autora**.
+8. **RC-624 e RC-471: mitologia/doutrina ajudam** (Bifrost e Heimdall na Edda; búdico/manásico na teosofia). Quarentena recua para a versão da obra.
+9. **Falhas 29 → 5 → 0.** 24 por caixa/pontuação (auto). Das 5 manuais, **3 eram doutrina do verbete**: colchete inventado (RC-471) e RC-624 citando «espatifado», «corpos búdico e átmico» e «gravação».
+10. **REINCIDÊNCIA DA LIÇÃO DO LOTE 14, BARRADA:** RC-624 voltou a aspirar «corpos búdico e átmico» — expressão do NOSSO erro antigo. Reescrito como regra: «a fonte é quem decide o corpo».
+11. **36 pontos finais postos para fora da aspa.**
+12. **Renomeações:** `V2.07.06-RC730`, `V3.16.01-RC378`. Endereços novos: II.5.2, III.14.4.
+
+**Próximos (fecho do grau 8):** RC-771 (1.995 p.) · RC-769 (519) · RC-766 (497) · RC-628 (492) · RC-518 (413) · RC-724 (249). Depois, grau 7 a partir de RC-078 Lúcifer (2.220 p.).

@@ -81,6 +81,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **21** | 09/09/2026 | `V5/RC-558` Sensação de eu · `V5/RC-654` Últimos e Primeiros · `V5/RC-615` Superconsciência · `V4/RC-625` Corpo Manásico · `V3/RC-582` Ravana · `V4/RC-637` Transferência da Memória | ✅ redigido — **o humano como chegada** |
 | **22** | 09/09/2026 | `V3/RC-737` Projeto Amaterasu · `V2/RC-730` Yggdrasil · `V4/RC-732` Invasão Ancestral · `V4/RC-713` Taumaturgia · `V3/RC-665` Orunmilá · `V2/RC-674` Urdidura · `V5/RC-687` Farmacopeia | ✅ redigido — **fecho do 3º anel (7 verbetes)** |
 | **23** | 09/09/2026 | `V3/RC-005` Segundo Advento (**longo**) · `V1/RC-293` Timé · `V2/RC-176` Modelo Colmeia · `V3/RC-286` Tártaro · `V2/RC-040` CFD · `V2/RC-415` Colapso da Matriz · `V2/RC-194` Big Data | ✅ redigido — **abertura do 4º anel (grau 8)** |
+| **24** | 09/09/2026 | `V4/RC-543` Espelho da Herança (**longo**) · `V3/RC-579` Noreia · `V3/RC-583` Guerra Nuclear Anunnaki · `V2/RC-600` Seres Originais · `V1/RC-618` Moksha · `V4/RC-624` Corpo Búdico · `V2/RC-471` Bifrost | ✅ redigido — **o humano como máquina de ler o invisível** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -573,6 +574,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 12. **Seis rótulos de código corrigidos à mão:** `RC-042` = Criatura Universal · `RC-180` = Fator Colmeia · `RC-542` = Ex-DNA-lixo · `RC-197` = Big Data da Terra · `RC-019` = Anjos clones · `RC-200` = Base de Dados do Juízo Final · `RC-060` = Espiritualidade **Operacional** (não «Operativa») · `RC-274` = Cápsula do Tempo de Sophia (João).
 13. **Dois endereços novos: I.3.3 e II.6.4.** `RC-005` chega ao III.11.3 ainda vazio e o abre.
 
+### Lote 24 — o epigenoma, a ponte e a saída (7 verbetes, 5.999 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Espelho da Herança Espiritual no Epigenoma (**longo**) | IV.18.3 | `V4/V4.18.03-RC543-espelho-da-heranca-espiritual.md` | **1.341** | **2.757 p.** |
+| Noreia (Norea) | III.14.4 | `V3/V3.14.04-noreia.md` | 811 | 633 p. |
+| Guerra Nuclear Anunnaki | III.16.1 | `V3/V3.16.01-RC583-guerra-nuclear-anunnaki.md` | 792 | 1.466 p. |
+| Moksha | I.3.1 | `V1/V1.03.01-RC618-moksha.md` | 782 | 509 p. |
+| Seres Originais do Paraíso | II.5.2 | `V2/V2.05.02-seres-originais-do-paraiso.md` | 780 | 832 p. |
+| Corpo Búdico | IV.18.1 | `V4/V4.18.01-RC624-corpo-budico.md` | 754 | 513 p. |
+| Bifrost (Portal interdimensional) | II.7.6 | `V2/V2.07.06-RC471-bifrost.md` | 739 | 569 p. |
+
+**Medida final:** 739–1.341 palavras · **153 verbatim byte a byte** (29 reprovados na 1ª conferência, todos corrigidos) · 52 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 24:**
+
+1. **`RC-543` é o verbete em que a enciclopédia mais se aproxima da biologia — e por isso o mais vigiado.** A tese cabe numa frase da fonte: «A CHAMADA METILAÇÃO NADA MAIS É DO QUE O ESPELHO DO QUE A CONSCIÊNCIA DO NOSSO ESPÍRITO FAZ NO SEU CORPO TRANSITÓRIO QUE VIVE DENTRO DE UMA MATRIX».
+2. **A quarentena de `RC-543` é clínico-científica MÁXIMA e está declarada na própria ficha (Devolutiva O-7):** epigenoma e RNA entram «exclusivamente como conceitos metafísicos do Mentalma» — **chave de leitura pedagógica, jamais biologia médica literal.**
+3. **O verbete separa o que é ciência do que é tese:** epigenética, metilação, histonas, 220 tipos celulares e RNA mensageiro **existem**; metilação comandada pela consciência e mutação dirigida pelo pensamento **não**.
+4. **A divergência numérica foi registrada, não harmonizada:** a obra repete **28.869 genes**; o consenso corrente está em torno de **20.000**.
+5. **`RC-583` traz o detalhe que decide a guerra:** «o vento levou a onda radioativa das explosões para cima das cidades sumérias. Os Anunnaki se ferraram» — **a guerra foi perdida por quem a ganhou.**
+6. **Duas cronologias que a ficha manda não fundir (e o verbete não funde):** as bombas datam de **~4.000 anos** nesta fonte; os «2200 anos antes de Cristo» pertencem a **outro evento** (a vez de Marduque).
+7. **`RC-579` tem o melhor lastro documental do lote:** Norea **existe** na *Hipóstase dos Arcontes* (NH II, 4) — filha de Eva, socorrida por Eleleth. A quarentena fica com a releitura. A ficha impõe: **«não reconstruir palavras ausentes»** do trecho mascarado.
+8. **`RC-600` traz a frase filosófica mais forte do lote:** os Seres Originais são «perfeitos e imutáveis, mas sem mérito transformativo ou ímpeto criativo dentro da plenitude compulsória» — **a perfeição do Paraíso é compulsória, e por isso não produz mérito.**
+9. **`RC-618` tem o lastro filológico mais limpo:** *moksha*, *samsara*, Kapila e o Samkhya são dados; e a averbação F043 fixa o regime — **a Obra de Apoio corrobora, não co-autora.**
+10. **`RC-624` e `RC-471` são os dois casos em que a mitologia e a doutrina ajudam:** Bifrost e Heimdall são corpo real da Edda; corpo búdico e manásico são sequência real dos invólucros na teosofia. **A quarentena recua para a versão da obra** (a ponte construída por cientistas de Odin; o búdico «em coma»).
+11. **Falhas: 29 → 5 → 0.** Predominaram **caixa e pontuação** (24 corrigidas automaticamente) — e, entre as cinco manuais, três eram erros de doutrina do verbete, não de transcrição: um **colchete inventado** sobre texto da Base (`RC-471`), e **`RC-624` citando «espatifado», «corpos búdico e átmico» e «gravação» como se fossem da fonte.**
+12. **A lição do lote 14 foi reincidente e foi barrada:** `RC-624` voltou a pôr entre aspas «corpos búdico e átmico» — a expressão do **nosso erro antigo**. **Não se cita o que não existe na fonte, nem para confessar erro nosso.** O item foi reescrito como regra geral: «a fonte é quem decide o corpo».
+13. **Trinta e seis pontos finais nossos estavam dentro da aspa** e foram postos para fora.
+14. **Renomeações:** `V2.07.06-RC730` (Yggdrasil) e `V3.16.01-RC378` (A Rebelião dos Elétrons). Dois endereços novos: **II.5.2** e **III.14.4**.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -594,7 +626,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8):** aberto no lote 23. **364 nós redigíveis.** Restam **13 com grau 8**: `RC-471` Bifrost (569 p.) · `RC-518` Genoma Derivado (413) · `RC-543` Espelho da Herança Espiritual no Epigenoma (**2.757**) · `RC-579` Noreia (633) · `RC-583` Guerra Nuclear Anunnaki (1.466) · `RC-600` Seres Originais do Paraíso (832) · `RC-618` Moksha (509) · `RC-624` Corpo Búdico (513) · e mais cinco. A seguir, grau 7.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **4º anel (grau 8):** aberto no lote 23. **357 nós redigíveis.** Restam **6 com grau 8**: `RC-771` Fornos Replicadores (**1.995 p.**) · `RC-769` Corpos Fenvã (519) · `RC-766` A Raça Inabalável dos Sethianos Emancipados (497) · `RC-628` Simultaneidade Reversa (492) · `RC-518` Genoma Derivado (413) · `RC-724` Formas-Pensamento e Formas-Sentimento (249). Fechado o grau 8, segue o grau 7, a partir de `RC-078` Lúcifer (ficha de **2.220 p.**).
 
 ## 5. Como conferir
 
