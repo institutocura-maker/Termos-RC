@@ -88,3 +88,17 @@
 - **Verificador estendido:** varredura recursiva (`**/*.md`), READMEs de laboratório fora da conferência, e caminhos declarados resolvidos relativos ao verbete ou à raiz.
 - **Achado editorial:** em 3 dos 6 hubs a **centralidade** (grau) diverge do **lastro** (tamanho da ficha) — Bhavaṅga (434 p.), Não Local (528 p.) e Kit (711 p.) não sustentam 1.300 palavras com fonte. Decisão aplicada: verbete fica no tamanho que a fonte sustenta, com a divergência registrada em **Tensões** (nunca resolvida com paráfrase).
 - **Base intacta:** 946 · 650 · 1898. Nenhum código criado.
+
+---
+
+## 08/09/2026 — Lote 2 dos nós-hub (6 verbetes) · verificação 291/0
+
+**Redigidos e conferidos:** RC-604 Fatiamento de Consciência (II.8.3, 1.270 p.) · RC-072 Jesus (III.11.3, 1.383) · RC-696 Geração Regenerada de Brahma (III.15.1, 1.009) · RC-664 Descendência de Kadru (III.15.1, 1.131) · RC-694 Oitavo Dia da Criação (III.16.2, 1.137) · RC-690 Colapso do Caos Organizado (III.16.3, 1.260). Acumulado da enciclopédia: **12 verbetes · 291 verbatim · 143 códigos · 0 falhas**.
+
+**Regra de nomenclatura nova:** endereço não é único (III.15.1 abriga RC-664, RC-696, RC-701, RC-627, RC-795). Quando dois verbetes colidem no endereço, o arquivo recebe o **código** como desambiguação: `V3.15.01-RC664-…`, `V3.15.01-RC696-…`.
+
+**59 verbatim reprovados na 1ª conferência, causas recorrentes (checklist para os próximos lotes):** ponto final acrescentado ao fim da citação · caixa alta da fonte rebaixada para minúscula · elipse `[...]` no lugar de texto corrido · fragmento com marcação `**` da ficha no meio · paráfrase travestida de citação. Correção: recortar da ficha, nunca reescrever.
+
+**ACHADO DE BASE (sem alteração — depende de despacho):** `termos/RC-690-colapso-do-caos-organizado.md` contém, entre o bloco da P2025-03-15 e a «Ampliação — P2024-11-09», um trecho de código de aplicação (`"RC-691": '''`) seguido de quatro verbetes sobre **Ishvara** (RC-691) — conteúdo de outra ficha incorporado por acidente. Registrado na Tensão 8 do verbete de RC-690; **a Base não foi tocada** (946/650/1898).
+
+**Armadilha do verificador:** todo caminho `.md` entre crases é tratado como documento-fonte declarado; se não existir, o verificador aborta. Menções a arquivos que não são fonte vão sem crases.

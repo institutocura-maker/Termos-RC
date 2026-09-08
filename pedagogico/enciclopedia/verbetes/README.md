@@ -59,9 +59,26 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Ser Humano Não Local | V.22.1 | 1.112 | Pilar de lastro curto (ficha 528 p.) |
 
 **Achado editorial do lote 1:** em 3 dos 6 nós-hub, a **centralidade** (grau) e o **lastro** (tamanho da ficha) divergem — o nó é central porque as remissivas convergem nele, não porque haja documento abundante. Nesses casos o verbete fica no tamanho que a fonte sustenta, e a divergência é registrada na seção Tensões em vez de ser resolvida com paráfrase.
-| 2 | — | próximos 6 nós-hub (RC-696 · RC-072 Jesus · RC-604 Fatiamento · RC-690 · RC-694 · RC-664) | ⏳ aguardando |
+| **2** | 08/09/2026 | `V2/RC-604` Fatiamento de Consciência · `V3/RC-072` Jesus · `V3/RC-696` Geração Regenerada de Brahma · `V3/RC-664` Descendência de Kadru · `V3/RC-694` Oitavo Dia · `V3/RC-690` Colapso do Caos Organizado | ✅ redigido |
 
-**Nós-hub restantes após o lote 1 (grau ≥ 10, 29 de 35):** RC-696 · RC-072 · RC-604 · RC-690 · RC-694 · RC-664 · RC-717 · RC-081 · RC-414 · RC-700 · RC-704 · RC-720 · RC-761 · RC-395 · RC-474 · RC-655 · RC-697 · RC-698 · RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
+**Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+| Verbete | Endereço | Arquivo | Palavras |
+|---|---|---|---|
+| Fatiamento de Consciência | II.8.3 | `V2/V2.08.03-fatiamento-de-consciencia.md` | 1.270 |
+| Jesus | III.11.3 | `V3/V3.11.03-jesus.md` | 1.383 |
+| Geração Regenerada de Brahma | III.15.1 | `V3/V3.15.01-RC696-geracao-regenerada-de-brahma.md` | 1.009 |
+| Descendência de Kadru | III.15.1 | `V3/V3.15.01-RC664-descendencia-de-kadru.md` | 1.131 |
+| Oitavo Dia da Criação | III.16.2 | `V3/V3.16.02-oitavo-dia-da-criacao.md` | 1.137 |
+| Colapso do Caos Organizado | III.16.3 | `V3/V3.16.03-colapso-do-caos-organizado.md` | 1.260 |
+
+**Regra de nomenclatura — endereço repetido.** Um endereço pode abrigar mais de um termo (III.15.1 reúne `RC-664`, `RC-696`, `RC-701`, `RC-627` e `RC-795`). Quando dois verbetes caem no mesmo endereço, o nome do arquivo recebe o **código como desambiguação**: `V3.15.01-RC664-…`, `V3.15.01-RC696-…`. Enquanto o endereço for único, o nome continua sendo só endereço + slug.
+
+**Achados editoriais do lote 2:**
+1. **59 verbatim reprovados na 1ª conferência** — as causas se repetem e viraram checklist: ponto final **acrescentado** ao fim da citação (a ficha não tem, o verbete não põe) · caixa alta da fonte rebaixada para minúscula («ABSOLUTAMENTE CULPADO…» não é grito nosso, é a fonte) · elipse `[...]` dentro de citação, onde a ficha tem texto corrido · paráfrase travestida de citação. A regra que resolve: **recortar o verbatim da ficha, nunca reescrevê-lo**.
+2. **Ficha contaminada (achado de Base, sem alteração).** `termos/RC-690-colapso-do-caos-organizado.md` contém, entre o bloco da P2025-03-15 e a «Ampliação — P2024-11-09», um trecho de código de aplicação (`"RC-691": '''`) seguido de quatro verbetes sobre **Ishvara** (`RC-691`) — material de outra ficha. Registrado na Tensão 8 do verbete de `RC-690` e em `.arena/SESSION-NOTES.md`; **a Base não foi tocada**: correção depende de despacho.
+
+**Nós-hub restantes após o lote 2 (grau ≥ 10, 23 de 35):** RC-717 · RC-081 · RC-414 · RC-700 · RC-704 · RC-720 · RC-761 · RC-395 · RC-474 · RC-655 · RC-697 · RC-698 · RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
 
 ## 5. Como conferir
 
@@ -70,3 +87,5 @@ python3 ferramentas/verificar_verbetes.py pedagogico/enciclopedia/verbetes
 ```
 
 Varredura recursiva: todo trecho entre «» tem de ocorrer byte a byte em `termos/` (ou no documento-fonte declarado, para verbetes de redação); todo `RC-NNN` citado tem de existir no registro-mestre. Censo de código = `ferramentas/dados_termos.py`, nunca `ls termos/`.
+
+**Armadilha conhecida:** o verificador trata **todo caminho `.md` entre crases** como documento-fonte declarado e tenta carregá-lo — se o caminho não existir (relativo ao verbete ou à raiz), ele aborta. Menções a arquivos que não são fonte do verbete (ex.: notas de sistema) devem ser escritas **sem crases**.
