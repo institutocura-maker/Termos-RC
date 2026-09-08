@@ -68,6 +68,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **8** | 08/09/2026 | `V5/RC-514` Tikun Cósmico · `V5/RC-003` Reintegração Cósmica · `V3/RC-102` Shiva (Savna) · `V3/RC-104` Trimurti · `V3/RC-037` Brahma (Brajna) · `V3/RC-135` Vishnu (Mavatna) | ✅ redigido — **a tríade fecha** |
 | **9** | 08/09/2026 | `V2/RC-094` Revelação Cósmica · `V4/RC-166` Mentalma · `V1/RC-263` Sefirot / Árvore da Vida · `V4/RC-695` Ciência Pessoal · `V3/RC-024` Anunnakis · `V2/RC-716` PIA | ✅ redigido — **as fontes e as chaves** |
 | **10** | 08/09/2026 | `V2/RC-167` Criação Indevida · `V3/RC-565` Hochmah · `V3/RC-378` A Rebelião dos Elétrons · `V4/RC-099` Seres Terrenos · `V2/RC-715` Informações Vivas · `V3/RC-701` Daksha e Virini | ✅ redigido — **o laboratório se esvazia** |
+| **11** | 08/09/2026 | `V5/RC-467` Moiras / Nornes · `V3/RC-585` Vyasa · `V2/RC-559` Teia Quântica · `V4/RC-529` Ressonância Límbica · `V4/RC-577` Xamanismo Cósmico · `V2/RC-472` Tempérion | ✅ redigido — **o eixo do destino** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -248,6 +249,28 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 5. **Os dois verbetes mais curtos do lote (`RC-715` e `RC-701`) ficaram abaixo de 800 palavras** — são os primeiros a entrar, na prática, na faixa do Verbete-Médio. Não foi escolha de camada: foi o lastro.
 6. **A incidência de falhas caiu pela metade** em relação ao lote 9 (33 → 19), e o passo automático resolveu 14 delas. O que restou foi o de sempre: período dentro da aspa, elipse nossa no lugar do texto corrido e expressão do redator entre «».
 
+### Lote 11 — o eixo do destino (6 verbetes, 5.393 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Moiras / Nornes / Parcas | V.22.1 | `V5/V5.22.01-RC467-moiras-nornes.md` | 983 | 3.484 p. · 8 ampliações |
+| Teia Quântica | II.8.1 | `V2/V2.08.01-RC559-teia-quantica.md` | 935 | 1.070 p. |
+| Ressonância Límbica | IV.19.1 | `V4/V4.19.01-RC529-ressonancia-limbica.md` | 934 | 1.691 p. |
+| Vyasa | III.14.1 | `V3/V3.14.01-RC585-vyasa.md` | 927 | 1.841 p. |
+| Xamanismo Cósmico | IV.20.1 | `V4/V4.20.01-RC577-xamanismo-cosmico.md` | 900 | 751 p. |
+| Tempérion | II.7.2 | `V2/V2.07.02-temperion.md` | **714** | **351 p.** |
+
+**Medida final:** 714–983 palavras · **127 verbatim byte a byte** (28 reprovados na 1ª conferência, todos corrigidos) · 60 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 11:**
+
+1. **O lote mais homogêneo até aqui** — seis verbetes entre 714 e 983 palavras, todos na faixa do Verbete-Médio. Não foi decisão de camada: os seis nós têm fichas entre 351 e 3.484 palavras, e o lastro de cada um produziu essa medida.
+2. **`RC-472` Tempérion é o menor lastro da enciclopédia** (351 palavras, uma palestra, uma única citação-chave) e o de pior razão procura/lastro: grau total 15 contra 351 palavras. Fica registrado como o caso-limite de baixo, espelho de `RC-001` Javé no alto.
+3. **Um verbatim com palavra duplicada foi preservado.** «a ser **ser** modificado» é da fonte (STT) e entrou byte a byte no verbete de `RC-529`, com nota. O verificador não aceita que se «corrija» a fala — e é assim que deve ser.
+4. **O erro mais instrutivo do lote:** escrevi «na mitologia grega seriam três senhoras...» quando a fonte diz «na **compreensão da** mitologia grega». Uma preposição inventada no meio de uma citação de 110 caracteres, perfeitamente plausível — e o verificador pegou. **Nenhuma aspa sobrevive à leitura por aproximação.**
+5. **Três novas renomeações de endereço compartilhado** — as mais de uma só vez: `V4.19.01-RC699-…` (IV.19.1), `V4.20.01-RC695-…` (IV.20.1) e `V3.14.01-RC700-…` (III.14.1). Conteúdo intocado; a regra de que **todos** os arquivos do endereço levam o código agora vale para 14 verbetes.
+6. **O eixo do destino se fecha.** Moiras (`RC-467`), Teia (`RC-559`), Wyrd (`RC-658`), PIA (`RC-716`), Informações Vivas (`RC-715`) e Arquivos do Destino (`RC-714`) formam o subsistema mais coeso da enciclopédia — o que explica por que todos esses nós têm grau 15 ou mais.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -269,7 +292,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 25 dos 79 (lotes 7–10); **54 restantes com grau total ≥ 10**. Próximos seis — `RC-467` Moiras / Nornes (15) · `RC-472` Tempérion (15) · `RC-529` Ressonância Límbica (15) · `RC-559` Teia Quântica (15) · `RC-577` Xamanismo Cósmico (15) · `RC-585` Vyasa (15).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 31 dos 79 (lotes 7–11); **48 restantes com grau total ≥ 10**. Próximos seis — `RC-633` Gestão da Sensação Pessoal (15) · `RC-712` Lei da Mente do Buda (15) · `RC-714` Arquivos do Destino Universal (15) · `RC-086` Pandora (14) · `RC-087` Perpérion (14) · `RC-253` Liberdade Mental (14).
 
 ## 5. Como conferir
 

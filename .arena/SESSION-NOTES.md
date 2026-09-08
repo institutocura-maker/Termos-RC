@@ -196,3 +196,19 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 5. **Falhas de verbatim caíram de 33 para 19** (passo automático resolveu 14).
 
 **Próximos seis:** RC-467 (15) · RC-472 (15) · RC-529 (15) · RC-559 (15) · RC-577 (15) · RC-585 (15).
+
+---
+
+## 08/09/2026 — Lote 11: o eixo do destino (6 verbetes, 5.393 palavras)
+
+`RC-467` Moiras/Nornes (V.22.1, 983 p.) · `RC-559` Teia Quântica (II.8.1, 935) · `RC-529` Ressonância Límbica (IV.19.1, 934) · `RC-585` Vyasa (III.14.1, 927) · `RC-577` Xamanismo Cósmico (IV.20.1, 900) · `RC-472` Tempérion (II.7.2, 714).
+
+**Acumulado: 66 verbetes · 1.711 verbatim · 753 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Lote mais homogêneo:** 714–983 p., todos na faixa Médio, sem decisão de camada — foi o lastro.
+2. **`RC-472` Tempérion = menor lastro da enciclopédia** (351 p., 1 palestra, 1 citação-chave) e pior razão procura/lastro (grau 15 × 351 p.). Espelho de `RC-001` no alto.
+3. **Verbatim com palavra duplicada preservado:** «a ser **ser** modificado» (`RC-529`) entrou byte a byte, com nota. O verificador não aceita «correção» da fala.
+4. **Erro mais instrutivo:** escrevi «na mitologia grega…» onde a fonte diz «na **compreensão da** mitologia grega». Uma preposição inventada dentro de uma aspa de 110 caracteres — o verificador pegou.
+5. **Três renomeações de uma vez** (regra do endereço compartilhado): `V4.19.01-RC699-…`, `V4.20.01-RC695-…`, `V3.14.01-RC700-…`.
+
+**Próximos seis:** RC-633 (15) · RC-712 (15) · RC-714 (15) · RC-086 (14) · RC-087 (14) · RC-253 (14).
