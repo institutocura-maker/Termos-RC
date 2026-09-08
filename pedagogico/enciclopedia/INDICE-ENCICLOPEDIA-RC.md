@@ -2396,18 +2396,22 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-143` | Yel Luziel | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-144` | Zeitgeist | Termos Específicos › 8.5 Outros idiomas / jargão técnico | 🟡 |
 
-## Apêndice E — Duplicatas detectadas (3 nomes repetidos)
+## Apêndice E — Duplicatas detectadas (3 nomes repetidos · 3 resolvidos por remissiva)
 
 Detecção automática: nomes idênticos (desconsiderando caixa, acentos e 
-pontuação) em códigos diferentes. São **pendências de desduplicação da Base** — 
-o precedente é o merge RC-941 → RC-193 (F044, Anel C). **Nenhuma alteração foi 
-feita aqui**: a decisão é do Curador e depende de despacho.
+pontuação) em códigos diferentes. **Nenhuma alteração é feita aqui**: a decisão 
+é do Curador e depende de despacho — o precedente é o merge RC-941 → RC-193 
+(F044, Anel C). **O despacho F045 (07/09/2026) resolveu os três pares** pelo 
+mecanismo da remissiva: o código mais antigo (ou o que já detinha o conteúdo, 
+no caso RC-203×RC-314) permanece como verbete canônico e o outro aponta para ele 
+— a contiguidade estrita dos códigos (requisito do validador) impede deletar 
+entradas do meio da sequência.
 
 | Nome | Códigos | Fichas | Situação |
 |---|---|---|---|
-| Choque de Realidade | `RC-898` · `RC-936` | 2/2 | duplicata de fichas — merge a avaliar |
-| Criaturas-ferramenta | `RC-164` · `RC-449` | 2/2 | duplicata de fichas — merge a avaliar |
-| Fenômenos Denunciadores do Fim | `RC-203` · `RC-314` | 1/2 | código sem ficha — alias a avaliar |
+| Choque de Realidade | `RC-898` · `RC-936` | 2/2 | **RESOLVIDA (F045)** — `RC-936` é **remissiva** de `RC-898` (verbete canônico) |
+| Criaturas-ferramenta | `RC-164` · `RC-449` | 2/2 | **RESOLVIDA (F045)** — `RC-449` é **remissiva** de `RC-164` (verbete canônico) |
+| Fenômenos Denunciadores do Fim | `RC-203` · `RC-314` | 1/2 | **RESOLVIDA (F045)** — `RC-203` é **remissiva** de `RC-314` (verbete canônico) |
 
 ---
 

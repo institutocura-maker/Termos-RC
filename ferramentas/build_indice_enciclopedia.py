@@ -581,9 +581,20 @@ def detectar_duplicatas():
     for t in BASE.TERMOS:
         k = re.sub(r"[^a-z0-9 ]", "", chave_ordem(t[1])).strip()
         if k:
-            visto[k].append((t[0], t[7], t[1]))
-    return [(itens[0][2], [(c, f) for c, f, _n in itens])
+            visto[k].append((t[0], t[7], t[1], t[6]))
+    return [(itens[0][2], [(c, f, n, r) for c, f, n, r in itens])
             for _k, itens in sorted(visto.items()) if len(itens) > 1]
+
+
+def remissiva_entre(itens):
+    """Detecta o padrao de remissiva: o campo de relacoes de um codigo aponta
+    (unicamente) para o outro codigo do par — mecanismo do merge F045."""
+    for c, _f, _n, r in itens:
+        alvos = {x.strip() for x in (r or "").split(";") if x.strip()}
+        for c2, _f2, _n2, _r2 in itens:
+            if c2 != c and alvos == {c2}:
+                return (c, c2)
+    return None
 
 
 def gerar_md(enderecos, distribuido, fichas, ancoras_sem_ficha, duplicatas):
@@ -757,21 +768,34 @@ def gerar_md(enderecos, distribuido, fichas, ancoras_sem_ficha, duplicatas):
         cod, nome, area, subcat, status, _f, _r, _fi = t
         A(f"| `{cod}` | {nome} | {area} › {subcat} | {selo(status)} |")
     A("")
-    A(f"## Apêndice E — Duplicatas detectadas ({len(duplicatas)} nomes repetidos)")
+    resolvidas = [d for d in duplicatas if remissiva_entre(d[1])]
+    titulo = (f"## Apêndice E — Duplicatas detectadas ({len(duplicatas)} nomes repetidos"
+              + (f" · {len(resolvidas)} resolvidos por remissiva)" if resolvidas else ")"))
+    A(titulo)
     A("")
     A("Detecção automática: nomes idênticos (desconsiderando caixa, acentos e ")
-    A("pontuação) em códigos diferentes. São **pendências de desduplicação da Base** — ")
-    A("o precedente é o merge RC-941 → RC-193 (F044, Anel C). **Nenhuma alteração foi ")
-    A("feita aqui**: a decisão é do Curador e depende de despacho.")
+    A("pontuação) em códigos diferentes. **Nenhuma alteração é feita aqui**: a decisão ")
+    A("é do Curador e depende de despacho — o precedente é o merge RC-941 → RC-193 ")
+    A("(F044, Anel C). **O despacho F045 (07/09/2026) resolveu os três pares** pelo ")
+    A("mecanismo da remissiva: o código mais antigo (ou o que já detinha o conteúdo, ")
+    A("no caso RC-203×RC-314) permanece como verbete canônico e o outro aponta para ele ")
+    A("— a contiguidade estrita dos códigos (requisito do validador) impede deletar ")
+    A("entradas do meio da sequência.")
     A("")
     if duplicatas:
         A("| Nome | Códigos | Fichas | Situação |")
         A("|---|---|---|---|")
         for nome, itens in duplicatas:
-            cods = " · ".join(f"`{c}`" for c, _f in itens)
-            nf = sum(1 for _c, f in itens if f)
-            sit = ("duplicata de fichas — merge a avaliar" if nf >= 2
-                   else "código sem ficha — alias a avaliar")
+            cods = " · ".join(f"`{c}`" for c, _f, _n, _r in itens)
+            nf = sum(1 for _c, f, _n, _r in itens if f)
+            rem = remissiva_entre(itens)
+            if rem:
+                sit = (f"**RESOLVIDA (F045)** — `{rem[0]}` é **remissiva** de "
+                       f"`{rem[1]}` (verbete canônico)")
+            elif nf >= 2:
+                sit = "duplicata de fichas — merge a avaliar"
+            else:
+                sit = "código sem ficha — alias a avaliar"
             A(f"| {nome} | {cods} | {nf}/{len(itens)} | {sit} |")
     else:
         A("- *(nenhuma duplicata detectada)*")
