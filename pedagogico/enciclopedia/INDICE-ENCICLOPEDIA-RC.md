@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 638 fichas · 1898 relações
+- **Base de referência:** 946 termos · 650 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -49,29 +49,30 @@
 
 | Vol. | Título | Seções | Verbetes (fichas) |
 |---|---|---|---|
-| **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 32 |
-| **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 115 |
-| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 261 |
-| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 155 |
-| **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 75 |
+| **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 33 |
+| **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
+| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 263 |
+| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 157 |
+| **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 76 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **638** |
+| | **TOTAL** | 37 | **650** |
 
 ---
 
 # VOLUME I — FUNDAMENTOS — o território e as regras do jogo
 
-*Verbetes ancorados neste volume: **32***
+*Verbetes ancorados neste volume: **33***
 
 ## I.1 — A Obra e o Autor: corpus, gênero e método
 
 *Quem escreveu, o que foi escrito e com que autoridade — o aparato que sustenta a obra inteira.*
 
-**Verbetes:** 1
+**Verbetes:** 2
 
 ### I.1.1 — Jan Val Ellam: trajetória e voz autoral
 
 - **Jan Val Ellam (Rogério de Almeida Freitas)** — `RC-071` 🟢 · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 10 fonte(s)
+- **Val El / Val Ellam** — `RC-120` 🟡 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 1 fonte(s)
 
 ### I.1.2 — O corpus: livros (B###), palestras (P###) e artigos *(seção de redação — sem fichas próprias na Base)*
 
@@ -186,7 +187,7 @@
 
 # VOLUME II — COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde
 
-*Verbetes ancorados neste volume: **115***
+*Verbetes ancorados neste volume: **121***
 
 ## II.5 — A Espiritualidade Superior e os Protocolos da Perfeição
 
@@ -216,10 +217,11 @@
 
 *O evento fundador: um ser projeta, colapsa e cai dentro da própria criação.*
 
-**Verbetes:** 18
+**Verbetes:** 21
 
 ### II.6.1 — Prabrajna e a projeção
 
+- **ADHYPRABRAJNA (grafia do diagrama)** — `RC-410` 🟡 · Seres & Entidades › 1.1 Divindades / Criadores · 7 fonte(s)
 - **Adhyshprabrajna (Adhy que caiu)** — `RC-310` 🟡 · Seres & Entidades › 1.1 Divindades / Criadores · 3 fonte(s)
 - **Autofagia do Criador** — `RC-667` ⚪ · Conceitos Cosmológicos › 2.1 Cosmogonia / Criação · 3 fonte(s)
 - **Daath (a Criação na Cabala)** — `RC-262` 🟡 · Conceitos Cosmológicos › 2.1 Cosmogonia / Criação · 2 fonte(s)
@@ -239,9 +241,10 @@
 
 - **Demência do Criador (fases da condição de Javé)** — `RC-526` ⚪ · Conceitos Cosmológicos › 2.5 Propósitos / Destinos · 5 fonte(s)
 
-### II.6.3 — O Mergulho e o criador refém *(a preencher — nenhuma ficha ancorada)*
+### II.6.3 — O Mergulho e o criador refém
 
-- *(nenhuma ficha ancorada — subseção a preencher ou alimentada por outra seção)*
+- **Criador refém das próprias criaturas** — `RC-196` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 2 fonte(s)
+- **Mergulho (designação ellâmica da queda)** — `RC-528` ⚪ · Conceitos Cosmológicos › 2.1 Cosmogonia / Criação · 3 fonte(s)
 
 ### II.6.4 — O CFD, os dois universos e o Khaos
 
@@ -253,7 +256,7 @@
 
 *Onde tudo acontece: os dois universos, os três níveis de espiritualidade, as lokas e os portais.*
 
-**Verbetes:** 45
+**Verbetes:** 48
 
 ### II.7.1 — Universo Material e Universo Antimaterial
 
@@ -274,6 +277,9 @@
 - **Archeons de Ereon** — `RC-596` ⚪ · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 3 fonte(s)
 - **Danérion** — `RC-598` ⚪ · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 1 fonte(s)
 - **Espiritualidade Errática (4ª faixa manifestada)** — `RC-513` ⚪ · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 15 fonte(s)
+- **Espiritualidade Laboratorial** — `RC-061` 🟡 · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 12 fonte(s)
+- **Espiritualidade Operacional** — `RC-060` 🟡 · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 13 fonte(s)
+- **Espiritualidade Superior** — `RC-059` 🟡 · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 13 fonte(s)
 - **Mermérion** — `RC-599` ⚪ · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 1 fonte(s)
 - **Perpérion** — `RC-087` 🟢 · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 7 fonte(s)
 - **Tempérion (Archeon de Ereon; setor dos seres LM)** — `RC-472` 🟠 · Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência · 5 fonte(s)
@@ -385,13 +391,13 @@
 
 # VOLUME III — ATORES E ACONTECIMENTOS — o quem e o quando
 
-*Verbetes ancorados neste volume: **261***
+*Verbetes ancorados neste volume: **263***
 
 ## III.9 — O Criador e a sua condição
 
 *O personagem central e a sua patologia: o deus que adoeceu e ficou refém da própria obra.*
 
-**Verbetes:** 25
+**Verbetes:** 26
 
 ### III.9.1 — Javé / Brahma / Alá e os nomes do Criador
 
@@ -417,6 +423,7 @@
 - **Kether (Javé na Cabala)** — `RC-261` 🟠 · Seres & Entidades › 1.1 Divindades / Criadores · 6 fonte(s)
 - **Nyx** — `RC-621` ⚪ · Seres & Entidades › 1.1 Divindades / Criadores · 2 fonte(s)
 - **Prajapati (a divindade antes de virar Brama)** — `RC-852` ⚪ · Seres & Entidades › 1.1 Divindades / Criadores · 2 fonte(s)
+- **Ra-Atom / Og-mi (nomes do Criador)** — `RC-331` 🟡 · Termos Específicos › 8.5 Outros idiomas / jargão técnico · 2 fonte(s)
 - **Senhor Parameshthi / Brahma Parameshthi (face atual de Javé)** — `RC-556` ⚪ · Seres & Entidades › 1.1 Divindades / Criadores · 2 fonte(s)
 
 ### III.9.2 — O buraco negro mental / consciencial
@@ -582,7 +589,7 @@
 
 *A população da criação: raças, anjos, coletivos, logoi e híbridos.*
 
-**Verbetes:** 53
+**Verbetes:** 54
 
 ### III.13.1 — Coletivos criadores
 
@@ -639,6 +646,7 @@
 
 - **Adhyagya (formas espirituais Adhy)** — `RC-311` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
 - **Adhytia (nível hierárquico)** — `RC-308` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
+- **Agentes do Quarto Logos** — `RC-281` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
 - **Biocoletivos** — `RC-445` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 2 fonte(s)
 - **Elm (Moros — ser LM de Tempérion)** — `RC-454` 🟠 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 24 fonte(s)
 - **Eu Profundo (nível espiritual do Eu)** — `RC-553` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 9 fonte(s)
@@ -787,7 +795,7 @@
 
 - **Cumprimento da Profecia de Moros pela Revelação Cósmica** — `RC-718` ⚪ · Eventos & Eras › 7.3 Profecias / Anúncios · 6 fonte(s)
 - **Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão)** — `RC-858` ⚪ · Eventos & Eras › 7.3 Profecias / Anúncios · 3 fonte(s)
-- **Fenômenos Denunciadores do Fim** — `RC-314` 🟡 · Eventos & Eras › 7.3 Profecias / Anúncios · 2 fonte(s)
+- **Fenômenos Denunciadores do Fim** — `RC-314` 🟡 · Eventos & Eras › 7.3 Profecias / Anúncios · 3 fonte(s)
 - **Fim do Experimento Humano** — `RC-578` ⚪ · Eventos & Eras › 7.3 Profecias / Anúncios · 2 fonte(s)
 - **Fim dos Tempos / Final de Ciclo × Fim do Mundo** — `RC-572` ⚪ · Eventos & Eras › 7.3 Profecias / Anúncios · 2 fonte(s)
 - **Flechas / Profecias de Moros** — `RC-611` ⚪ · Eventos & Eras › 7.3 Profecias / Anúncios · 9 fonte(s)
@@ -815,17 +823,18 @@
 
 # VOLUME IV — A HUMANIDADE E O OPERADOR — o nós
 
-*Verbetes ancorados neste volume: **155***
+*Verbetes ancorados neste volume: **157***
 
 ## IV.17 — Antropogênese
 
 *Como a vida chegou aqui e o que foi feito com ela.*
 
-**Verbetes:** 7
+**Verbetes:** 9
 
 ### IV.17.1 — O Projeto Talm e o transporte da vida
 
 - **Projeto Talm** — `RC-091` 🟠 · Eventos & Eras › 7.5 Missões / Expedições / Encontros · 17 fonte(s)
+- **Seres Terrenos (Homo Sapiens)** — `RC-099` 🟡 · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 21 fonte(s)
 
 ### IV.17.2 — A semeadura e os Agentes da Vida
 
@@ -841,6 +850,7 @@
 - **Kalil Kadmon (nome demo de Pandora)** — `RC-299` 🟢 · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 8 fonte(s)
 - **Pandora** — `RC-086` 🟠 · Seres & Entidades › 1.7 Híbridos / Seres de transição · 27 fonte(s)
 - **Pandora como Serpente do Éden** — `RC-283` 🟡 · Eventos & Eras › 7.5 Missões / Expedições / Encontros · 8 fonte(s)
+- **Val Dimon** — `RC-118` 🟡 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 3 fonte(s)
 
 ## IV.18 — A constituição do ser humano
 
@@ -1022,7 +1032,7 @@
 - **Bondade Humana** — `RC-895` 🟡 · Processos & Fenômenos › 4.4 Fenômenos físicos / energéticos · 5 fonte(s)
 - **Código Filosófico Pessoal** — `RC-897` 🟡 · Processos & Fenômenos › 4.4 Fenômenos físicos / energéticos · 5 fonte(s)
 - **Conceito Abaiano (Fazer Sem Esperar Receber)** — `RC-793` ⚪ · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 1 fonte(s)
-- **Criaturas-ferramenta** — `RC-164` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 10 fonte(s)
+- **Criaturas-ferramenta** — `RC-164` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 12 fonte(s)
 - **Dehatma Buddhi (doença psíquica da mente identificada com o corpo)** — `RC-551` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 4 fonte(s)
 - **Democracia do Amor da Deidade** — `RC-333` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 1 fonte(s)
 - **Dignidade como Critério de Consciência** — `RC-722` ⚪ · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 7 fonte(s)
@@ -1050,13 +1060,13 @@
 
 # VOLUME V — PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa
 
-*Verbetes ancorados neste volume: **75***
+*Verbetes ancorados neste volume: **76***
 
 ## V.22 — Propósitos e destinos
 
 *Para onde tudo vai: a reintegração, o conserto e o destino final.*
 
-**Verbetes:** 39
+**Verbetes:** 40
 
 ### V.22.1 — A Reintegração Cósmica
 
@@ -1110,6 +1120,7 @@
 ### V.22.4 — A Mente Universal emergente
 
 - **Criatura Universal** — `RC-042` 🟠 · Seres & Entidades › 1.7 Híbridos / Seres de transição · 11 fonte(s)
+- **Mente Universal (Emergente)** — `RC-163` 🟡 · Conceitos Cosmológicos › 2.5 Propósitos / Destinos · 10 fonte(s)
 
 ## V.23 — Escrituras, objetos e tecnologias
 
@@ -1366,7 +1377,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (638 verbetes)
+## Apêndice A — Índice alfabético remissivo (650 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1385,6 +1396,7 @@
 | Abraço aos Fantasmas / Integridade sem Combate | `RC-735` | IV.21.1 | ⚪ |
 | Adhyagya (formas espirituais Adhy) | `RC-311` | III.13.5 | 🟡 |
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | `RC-408` | III.10.3 | 🟠 |
+| ADHYPRABRAJNA (grafia do diagrama) | `RC-410` | II.6.1 | 🟡 |
 | ADHYSAVNA (nome completo de Savna/Shiva) | `RC-409` | III.10.4 | 🟠 |
 | Adhyshprabrajna (Adhy que caiu) | `RC-310` | II.6.1 | 🟡 |
 | Adhytia (nível hierárquico) | `RC-308` | III.13.5 | 🟡 |
@@ -1392,6 +1404,7 @@
 | Agenda do Desespero dos Espíritos | `RC-662` | IV.21.1 | ⚪ |
 | Agenda Espiritual | `RC-752` | V.22.1 | ⚪ |
 | Agentes da Vida Universal | `RC-148` | IV.17.2 | 🟠 |
+| Agentes do Quarto Logos | `RC-281` | III.13.5 | 🟡 |
 | Agressividade canalizada (DNA doentio) | `RC-432` | II.8.1 | 🟡 |
 | Alcíone (Sistema) | `RC-574` | II.7.3 | ⚪ |
 | Alexandre Magno (tirano sob influência de Lemion) | `RC-850` | III.14.4 | ⚪ |
@@ -1506,6 +1519,7 @@
 | Corpos Fenvã (terceira forma de vida do universo vizinho) | `RC-769` | III.13.2 | ⚪ |
 | Criação Indevida (Obra indevida) | `RC-167` | II.6.4 | 🟡 |
 | Criador (Brahma/Javé/Demiurgo) | `RC-041` | III.9.1 | 🟠 |
+| Criador refém das próprias criaturas | `RC-196` | II.6.3 | 🟡 |
 | Criatura Universal | `RC-042` | V.22.4 | 🟠 |
 | Criaturas-ferramenta | `RC-164` | IV.21.1 | 🟡 |
 | Criaturas-ferramenta | `RC-449` | V.22.1 | 🟡 |
@@ -1588,6 +1602,9 @@
 | Espiritismo como Expressão do Quarto Logos | `RC-257` | V.27.1 | 🟡 |
 | Espírito como Ator | `RC-925` | IV.19.3 | 🟡 |
 | Espiritualidade Errática (4ª faixa manifestada) | `RC-513` | II.7.2 | ⚪ |
+| Espiritualidade Laboratorial | `RC-061` | II.7.2 | 🟡 |
+| Espiritualidade Operacional | `RC-060` | II.7.2 | 🟡 |
+| Espiritualidade Superior | `RC-059` | II.7.2 | 🟡 |
 | Esporte como evolução da Guerra | `RC-430` | V.22.1 | 🟡 |
 | Essênios (seita judaica puritana; criadores de João Batista) | `RC-862` | III.14.3 | ⚪ |
 | Estrangulamento Cognitivo / Neural | `RC-753` | II.8.1 | ⚪ |
@@ -1749,6 +1766,8 @@
 | Mensagem Talm | `RC-080` | V.23.1 | 🟠 |
 | Mentalma | `RC-166` | IV.18.2 | 🟡 |
 | Mente Coletiva / Redes Psíquicas Coletivas | `RC-188` | II.8.3 | 🟡 |
+| Mente Universal (Emergente) | `RC-163` | V.22.4 | 🟡 |
+| Mergulho (designação ellâmica da queda) | `RC-528` | II.6.3 | ⚪ |
 | Mermérion | `RC-599` | II.7.2 | ⚪ |
 | Messias | `RC-942` | III.11.4 | 🟡 |
 | Metatron | `RC-671` | III.13.3 | ⚪ |
@@ -1866,6 +1885,7 @@
 | Quarto Logos (Olm / Codificador de Zian) | `RC-092` | III.13.5 | 🟢 |
 | Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | `RC-790` | III.13.4 | ⚪ |
 | Quirino Cornélio (Centurião da Crucificação) | `RC-659` | III.14.2 | ⚪ |
+| Ra-Atom / Og-mi (nomes do Criador) | `RC-331` | III.9.1 | 🟡 |
 | Racionalidade Humana Trucidada | `RC-786` | III.16.3 | ⚪ |
 | Radiatas | `RC-093` | III.13.4 | 🟠 |
 | Ragnarok em Marte | `RC-395` | III.16.3 | 🟢 |
@@ -1919,6 +1939,7 @@
 | Seres Desalmados | `RC-661` | III.12.1 | ⚪ |
 | Seres dos Portais | `RC-241` | III.12.1 | 🟠 |
 | Seres Originais do Paraíso | `RC-600` | II.5.2 | ⚪ |
+| Seres Terrenos (Homo Sapiens) | `RC-099` | IV.17.1 | 🟡 |
 | Série Mentalma (5 livros + curso) | `RC-555` | V.23.1 | 🟡 |
 | Shamb-Aha | `RC-101` | II.7.4 | 🟠 |
 | Shiva (Savna) | `RC-102` | III.10.4 | 🟢 |
@@ -1980,6 +2001,8 @@
 | Usinas geodésicas de Gizé (engenharia de Thoth) | `RC-534` | V.23.2 | ⚪ |
 | Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | `RC-757` | III.10.3 | ⚪ |
 | Val (Família Val) | `RC-109` | III.15.3 | 🟠 |
+| Val Dimon | `RC-118` | IV.17.4 | 🟡 |
+| Val El / Val Ellam | `RC-120` | I.1.1 | 🟡 |
 | Val Tam | `RC-132` | III.13.2 | 🟠 |
 | Vechame Existencial (Sangue de Barata = Amor sem Submissão) | `RC-823` | IV.21.1 | ⚪ |
 | Verdade Posta × Verdade a Construir | `RC-657` | II.8.1 | ⚪ |
@@ -2015,7 +2038,6 @@ Subseções com **6 fichas ou menos** — lacunas declaradas da obra.
 
 | Endereço | Subseção | Fichas | Tipo |
 |---|---|---|---|
-| II.6.3 | O Mergulho e o criador refém | 0 | lacuna |
 | III.10.2 | Brahma (Brajna) | 0 | lacuna |
 | III.10.6 | A desconstituição da Trimurti | 0 | lacuna |
 | III.9.3 | A Demência do Criador e as suas fases | 0 | lacuna |
@@ -2025,19 +2047,20 @@ Subseções com **6 fichas ou menos** — lacunas declaradas da obra.
 | III.11.4 | O Messias não assumido | 1 | lacuna |
 | III.9.2 | O buraco negro mental / consciencial | 1 | lacuna |
 | III.9.4 | O criador refém e a Ressurreição do Cadáver | 1 | lacuna |
-| IV.17.1 | O Projeto Talm e o transporte da vida | 1 | lacuna |
 | IV.17.2 | A semeadura e os Agentes da Vida | 1 | lacuna |
 | IV.17.3 | O DNA como projeção holográfica | 1 | lacuna |
 | IV.19.2 | Transmigração e reencarnação | 1 | lacuna |
 | IV.21.2 | O Favor Divino e as inversões de conceito | 1 | lacuna |
-| V.22.4 | A Mente Universal emergente | 1 | lacuna |
 | I.3.3 | Grego e latim | 2 | lacuna |
 | II.5.3 | Os Protocolos / Algoritmos da Perfeição | 2 | lacuna |
 | II.5.4 | A condição adiátma e o espírito alfa fateado | 2 | lacuna |
+| II.6.3 | O Mergulho e o criador refém | 2 | lacuna |
 | III.10.5 | Avatares e emanações (Hara, Krishna, Keshava, Sai Baba) | 2 | lacuna |
 | III.11.1 | Mohen So e a face viva da criação | 2 | lacuna |
 | III.12.2 | Satã / Len Mion — a face monstruosa | 2 | lacuna |
+| IV.17.1 | O Projeto Talm e o transporte da vida | 2 | lacuna |
 | V.22.3 | O Cidadão Cósmico e o Paraíso B | 2 | lacuna |
+| V.22.4 | A Mente Universal emergente | 2 | lacuna |
 | II.6.4 | O CFD, os dois universos e o Khaos | 3 | baixa densidade |
 | II.8.3 | Leis de consciência (projeção holográfica, fatiamento, campos mórficos) | 3 | baixa densidade |
 | III.12.3 | Capela, os exilados e a Revolta Capelina | 3 | baixa densidade |
@@ -2048,18 +2071,18 @@ Subseções com **6 fichas ou menos** — lacunas declaradas da obra.
 | II.7.5 | Localidades terrestres | 4 | baixa densidade |
 | II.8.2 | Leis de estrutura (entropia × negentropia, duas pulsações) | 4 | baixa densidade |
 | III.12.5 | Titãs, asuras e os primeiros demos | 4 | baixa densidade |
-| IV.17.4 | Pandora, o Éden e as hibridações | 4 | baixa densidade |
 | III.10.1 | A Trimurti como sistema | 5 | baixa densidade |
 | III.10.4 | Shiva / Savna / Adhysavna | 5 | baixa densidade |
 | III.13.1 | Coletivos criadores | 5 | baixa densidade |
 | III.14.3 | Ordens, povos e coletivos humanos | 5 | baixa densidade |
+| IV.17.4 | Pandora, o Éden e as hibridações | 5 | baixa densidade |
 | IV.18.1 | Corpos e vestimentas espirituais | 5 | baixa densidade |
 | I.3.4 | Outros idiomas e jargão técnico | 6 | baixa densidade |
 | III.15.2 | Linhagens humanas | 6 | baixa densidade |
 | III.16.1 | Guerras, rebeliões e conflitos | 6 | baixa densidade |
 | III.16.3 | Catástrofes, dilúvios e quedas | 6 | baixa densidade |
 
-## Apêndice D — Âncoras estruturais SEM ficha (12) — materialização prioritária
+## Apêndice D — Âncoras estruturais SEM ficha (0) — materialização prioritária
 
 Achado editorial deste índice: são códigos **exigidos pela estrutura da Enciclopédia** 
 (foram escolhidos como verbete-âncora de uma subseção) que a Base ainda **não materializou** 
@@ -2068,20 +2091,8 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
-| `RC-059` | **Espiritualidade Superior** | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | II.7.2 |
-| `RC-060` | **Espiritualidade Operacional** | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | II.7.2 |
-| `RC-061` | **Espiritualidade Laboratorial** | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | II.7.2 |
-| `RC-099` | **Seres Terrenos (Homo Sapiens)** | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | IV.17.1 |
-| `RC-118` | **Val Dimon** | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | IV.17.4 |
-| `RC-120` | **Val El / Val Ellam** | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | I.1.1 |
-| `RC-163` | **Mente Universal (Emergente)** | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | V.22.4 |
-| `RC-196` | **Criador refém das próprias criaturas** | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | II.6.3 |
-| `RC-281` | **Agentes do Quarto Logos** | Seres & Entidades › 1.8 Consciências coletivas / Logos | III.13.5 |
-| `RC-331` | **Ra-Atom / Og-mi (nomes do Criador)** | Termos Específicos › 8.5 Outros idiomas / jargão técnico | III.9.1 |
-| `RC-410` | **ADHYPRABRAJNA (grafia do diagrama)** | Seres & Entidades › 1.1 Divindades / Criadores | II.6.1 |
-| `RC-528` | **Mergulho (designação ellâmica da queda)** | Conceitos Cosmológicos › 2.1 Cosmogonia / Criação | II.6.3 |
 
-## Apêndice C — Termos sem ficha (308 códigos)
+## Apêndice C — Termos sem ficha (296 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2104,13 +2115,11 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-013` | Adhyatman | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-015` | Adhybutha | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-014` | Adhydaiva | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
-| `RC-410` | ADHYPRABRAJNA (grafia do diagrama) | Seres & Entidades › 1.1 Divindades / Criadores | 🟡 |
 | `RC-423` | Advogado de Acusação (Ellam × Javé) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-505` | Adyabradagna / Adabradagna (= Brahma/Javé) | Seres & Entidades › 1.1 Divindades / Criadores | ⚪ |
 | `RC-504` | Adyadvaivatma / Adimavatma (= Vishnu) | Seres & Entidades › 1.1 Divindades / Criadores | ⚪ |
 | `RC-214` | Agente do Mais Alto | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-219` | Agente Secreto do Bem | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
-| `RC-281` | Agentes do Quarto Logos | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-367` | Alteração Vibratória (Transfiguração) | Processos & Fenômenos › 4.4 Fenômenos físicos / energéticos | 🟡 |
 | `RC-405` | Alvorecer de Aquário | Eventos & Eras › 7.3 Profecias / Anúncios | 🟡 |
 | `RC-512` | Amnésia espiritual (esquecimento das origens) | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | ⚪ |
@@ -2159,7 +2168,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-220` | Conspiração do Desespero | Eventos & Eras › 7.1 Guerras / Rebeliões / Conflitos | 🟡 |
 | `RC-312` | Criação Bipartida | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | 🟡 |
 | `RC-208` | Criador de Padrões Dependentes | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
-| `RC-196` | Criador refém das próprias criaturas | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-427` | Criatura-teste (estágio avançado) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
 | `RC-290` | Cuidado com o 'Ide e Pregai' | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-044` | Cultura Demo | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
@@ -2207,9 +2215,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-057` | Espherian | Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre | 🟡 |
 | `RC-058` | Espheron | Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre | 🟡 |
 | `RC-390` | Espíritos comunicantes do Grupo Atlan | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
-| `RC-061` | Espiritualidade Laboratorial | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | 🟡 |
-| `RC-060` | Espiritualidade Operacional | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | 🟡 |
-| `RC-059` | Espiritualidade Superior | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | 🟡 |
 | `RC-336` | Ética da Sobrevivência de Javé | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-547` | Evolução Criativa (hipótese consciencial) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
 | `RC-542` | Ex-DNA-lixo (DNA não codificante reinterpretado) | Processos & Fenômenos › 4.1 Processos biológicos / genéticos | 🟡 |
@@ -2275,9 +2280,7 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-492` | Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | Genealogias & Linhagens › 6.3 Dinastias extraterrestres | ⚪ |
 | `RC-386` | Memórias para Javé | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
 | `RC-869` | Mentalidade Comum (o contágio do rebanho) | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | ⚪ |
-| `RC-163` | Mente Universal (Emergente) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
 | `RC-511` | Mêntion (estruturas da mente extrafísica) | Processos & Fenômenos › 4.2 Fenômenos espirituais / mediúnicos | ⚪ |
-| `RC-528` | Mergulho (designação ellâmica da queda) | Conceitos Cosmológicos › 2.1 Cosmogonia / Criação | ⚪ |
 | `RC-391` | Mesmice Espiritual | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-351` | Mestres de Capela | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-441` | Mistérios Dionisíacos | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | 🟡 |
@@ -2324,7 +2327,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-384` | Proposta de um Humano Terrestre aos Elétrons | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-509` | Protagonismo consciencial | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | ⚪ |
 | `RC-216` | Queda do Arquiteto Universal | Eventos & Eras › 7.4 Catástrofes / Dilúvios / Quedas | 🟡 |
-| `RC-331` | Ra-Atom / Og-mi (nomes do Criador) | Termos Específicos › 8.5 Outros idiomas / jargão técnico | 🟡 |
 | `RC-872` | Rakchasas (estirpe dos sugadores de sangue) | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | ⚪ |
 | `RC-883` | Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | Seres & Entidades › 1.7 Híbridos / Seres de transição | ⚪ |
 | `RC-198` | Rédeas Genéticas | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | ⚪ |
@@ -2342,7 +2344,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-100` | Seres Espirituais | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-097` | Seres Extrafísicos | Seres & Entidades › 1.5 Decaídos / Exilados / Demônios | 🟡 |
 | `RC-098` | Seres Extraterrenos / Extraterrestres | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
-| `RC-099` | Seres Terrenos (Homo Sapiens) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-873` | Sinarquia Cósmica (o governo dos sábios) | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | ⚪ |
 | `RC-419` | Sou eu que vivo em vocês (Javé) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
 | `RC-221` | Sustentação Espiritual do Universo | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
@@ -2369,10 +2370,8 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-502` | Val Aten (último Val de Val-Ha) | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | ⚪ |
 | `RC-116` | Val Bon | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-117` | Val Den | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
-| `RC-118` | Val Dimon | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-133` | Val dos Corpos Perdidos / Dimensionados | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-119` | Val Ean | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
-| `RC-120` | Val El / Val Ellam | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-121` | Val Elliah | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-122` | Val Ellieh | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-123` | Val Eno | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
@@ -2413,4 +2412,4 @@ feita aqui**: a decisão é do Curador e depende de despacho.
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 638 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 650 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
