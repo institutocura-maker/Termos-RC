@@ -64,6 +64,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **4** | 08/09/2026 | `V3/RC-395` Ragnarok em Marte · `V3/RC-474` Arcontes · `V3/RC-697` Mão Invisível Multiforme · `V4/RC-698` Cessão Consciente do DNA · `V5/RC-761` Cinco Lentes · `V5/RC-655` Revelação de Ifá | ✅ redigido |
 | **5** | 08/09/2026 | `V3/RC-092` Quarto Logos · `V3/RC-476` En Ma · `V3/RC-709` Humano Turbinado · `V2/RC-693` Evolução da Informação · `V2/RC-703` Postulados Quânticos · `V4/RC-699` Imantação em IAs | ✅ redigido |
 | **6** | 08/09/2026 | `V3/RC-736` Aristocracia Olimpiana · `V4/RC-710` Genes Críticos · `V3/RC-718` Cumprimento da Profecia de Moros · `V5/RC-721` Abismo da Consciência Cósmica · `V4/RC-705` Ato de Verdade · `V2/RC-702` Camuflagem da Realidade | ✅ redigido — **fecha os 35 nós-hub** |
+| **7** | 08/09/2026 | `V3/RC-001` Javé · `V2/RC-152` Prabrajna · `V2/RC-161` Memória Quântica dos Elétrons · `V4/RC-217` DNA como Projeção Holográfica · `V4/RC-722` Dignidade como Critério · `V2/RC-106` Universo Antimaterial | ✅ redigido — **abre o 2º anel** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -151,6 +152,32 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 4. **Um erro meu, corrigido a tempo: inventei um STT.** Tinha registrado «NASSATIVA» como grafia degradada em `RC-702`; a ficha grafa **NARRATIVA**. Como nenhuma aspa sobrevive ao verificador sem lastro, o erro apareceu na primeira conferência e foi corrigido — a lição é que a regra do verbatim protege também contra a minha própria memória.
 5. **Mais duas renomeações de endereço compartilhado.** IV.21.1 passou a ter dois verbetes (`RC-720`, `RC-705`) e IV.18.3 também (`RC-698`, `RC-710`): `V4.21.01-RC720-…` e `V4.18.03-RC698-…`. Conteúdo intocado.
 
+### Lote 7 — abertura do 2º anel (decisão de métrica)
+
+**Despacho recebido em 08/09/2026:** «te dou liberdade […] sigas as tuas próprias recomendações». Em consequência, **fixo a métrica**, que era a recomendação pendente do fecho dos hubs:
+
+> **Métrica canônica de prioridade = grau total** (nº de vezes que o código aparece em `RELACOES`, como origem **ou** como destino). Os 35 nós-hub fechados nos lotes 1–6 eram o **1º anel** (grau de saída ≥ 10). O **2º anel** é a lista dos códigos não redigidos ordenada por grau total, em lotes de seis.
+
+Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o grau total mede quantas vezes o termo é *procurado* por outras fichas — é a medida de centralidade que interessa a uma enciclopédia, porque é o que determina para onde as remissivas apontam.
+
+**Lote 7 — medida final:** 718–1.475 palavras · **173 verbatim byte a byte (39 reprovados na 1ª conferência, todos corrigidos) · 76 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Javé | III.9.1 | `V3/V3.09.01-RC001-jave.md` | 1.475 | **14.079 p. · 80 fontes** |
+| Dignidade como Critério de Consciência | IV.21.1 | `V4/V4.21.01-RC722-dignidade-como-criterio.md` | 1.084 | 1.653 p. · 8 ampliações |
+| Prabrajna | II.6.1 | `V2/V2.06.01-prabrajna.md` | 1.065 | 2.456 p. · 13 ampliações |
+| Memória Quântica dos Elétrons | II.8.1 | `V2/V2.08.01-RC161-memoria-quantica-dos-eletrons.md` | 1.031 | 2.525 p. · 12 ampliações |
+| DNA como Projeção Holográfica do Psiquismo do Criador | IV.17.3 | `V4/V4.17.03-dna-como-projecao-holografica.md` | 1.002 | 2.014 p. · 5 obras |
+| Universo Antimaterial (Brahmaloka) | II.7.1 | `V2/V2.07.01-RC106-universo-antimaterial.md` | 718 | **535 p.** · 🟢 verificado |
+
+**Achados editoriais do lote 7:**
+1. **`RC-001` Javé é o caso-limite definitivo do lastro.** Ficha de **14.079 palavras** e cerca de 80 fontes contra um verbete de 1.475 — a maior compressão da enciclopédia, e o nó mais central de todos (grau total 51, 42 vizinhos). Nada foi cortado; a tensão está declarada no próprio verbete. Junto com `RC-092` (8.302 p.) e `RC-414` Krishna (2.071 p.), forma a tripla que espera decisão de desdobramento.
+2. **O verbete-modelo de Javé foi promovido a verbete da enciclopédia** (`verbetes-modelo/VERBETE-MODELO-01-JAVE.md`, 07/09/2026), revisto e ampliado com o material da aposta Javé × Vishnu, do colapso de 2021 e da cláusula «Isso não é Deus, é só o criador». O modelo **permanece no laboratório**, intacto, como referência de método.
+3. **O passo automático de correção já pegou 18 das 39 falhas**; as 21 restantes se concentraram em três causas: `**negrito**` no meio do trecho (o padrão das fichas de palestra de 2023, que realçam muito), **aspas simples tipográficas ‘…’** da ficha (quatro casos) e **elipse inventada** no lugar de texto corrido.
+4. **Um achado que vira regra: aspas duplas também podem ser tipográficas.** Em `RC-722` e `RC-106`, a ficha usa “…” (não "…") dentro da citação. O checklist de verbatim agora inclui os dois pares.
+5. **Mais duas renomeações de endereço compartilhado:** `V3.09.01-RC476-…` (III.9.1 passou a ter Javé e En Ma) e `V2.07.01-RC702-…` (II.7.1 passou a ter Camuflagem e Universo Antimaterial). Conteúdo intocado.
+
 ### Fecho do ciclo dos hubs (35/35)
 
 | | |
@@ -164,7 +191,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**Nós-hub:** ciclo fechado em 08/09/2026 — **35 de 35** redigidos (grau de saída ≥ 10). Ver o fecho acima; a métrica precisa ser confirmada pelo Curador antes do próximo ciclo.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7; próximos seis — `RC-514` Tikun (21) · `RC-003` Reintegração Cósmica (20) · `RC-102` Shiva (20) · `RC-104` Trimurti (20) · `RC-037` Brahma (19) · `RC-135` Vishnu (19).
 
 ## 5. Como conferir
 

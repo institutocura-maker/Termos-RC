@@ -119,3 +119,21 @@
 **Renomeações:** `V4.21.01-RC720-…` e `V4.18.03-RC698-…` (endereços IV.21.1 e IV.18.3 passaram a ter dois verbetes).
 
 **Aberto para despacho:** (a) métrica de prioridade; (b) desdobramento de `RC-092` (ficha 8.302 → verbete 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) regeneração dos espelhos após a limpeza das fichas RC-690/RC-691.
+
+---
+
+## 08/09/2026 — Lote 7: abertura do 2º anel · decisão de métrica
+
+**Despacho do Curador:** «te dou liberdade […] sigas as tuas próprias recomendações».
+
+**DECISÃO (minha, por delegação): métrica canônica de prioridade = GRAU TOTAL** (nº de aparições do código em `RELACOES`, como origem ou destino). Os 35 nós-hub dos lotes 1–6 = **1º anel** (grau de saída ≥ 10). O **2º anel** = códigos não redigidos ordenados por grau total, em lotes de seis. Justificativa: o grau de saída mede o que a ficha declarou; o grau total mede o que as outras fichas procuram — é a centralidade que governa as remissivas.
+
+**Redigidos e conferidos:** RC-001 Javé (III.9.1, 1.475 p.) · RC-722 Dignidade como Critério (IV.21.1, 1.084) · RC-152 Prabrajna (II.6.1, 1.065) · RC-161 Memória Quântica dos Elétrons (II.8.1, 1.031) · RC-217 DNA como Projeção Holográfica (IV.17.3, 1.002) · RC-106 Universo Antimaterial (II.7.1, 718). Acumulado: **42 verbetes · 1.093 verbatim · 489 códigos · 0 falhas**.
+
+**`RC-001` Javé é o caso-limite definitivo do lastro:** ficha de 14.079 palavras e ~80 fontes → verbete de 1.475; nó mais central da Base (grau total 51, 42 vizinhos). O verbete deriva do verbete-modelo de 07/09/2026, revisto e ampliado; o modelo permanece no laboratório.
+
+**Regra nova de verbatim:** aspas duplas também podem ser tipográficas (“…”) — dois casos neste lote (`RC-722`, `RC-106`). O checklist agora cobre os dois pares.
+
+**Renomeações:** `V3.09.01-RC476-…` e `V2.07.01-RC702-…`.
+
+**Próximos seis do 2º anel:** RC-514 Tikun (21) · RC-003 Reintegração Cósmica (20) · RC-102 Shiva (20) · RC-104 Trimurti (20) · RC-037 Brahma (19) · RC-135 Vishnu (19).
