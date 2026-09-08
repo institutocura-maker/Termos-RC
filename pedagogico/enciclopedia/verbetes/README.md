@@ -77,6 +77,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **17** | 09/09/2026 | `V3/RC-734` Samudra Manthana · `V4/RC-332` Favor Divino · `V3/RC-645` Consciências em Corpos de Sílica · `V3/RC-261` Kether · `V2/RC-107` Universo Material · `V4/RC-335` Lavagem Cerebral | ✅ redigido — **a inversão** |
 | **18** | 09/09/2026 | `V4/RC-619` Genoma da Liberdade · `V2/RC-636` Duas Pulsações · `V2/RC-596` Archeons de Ereon · `V3/RC-610` Tridevi · `V3/RC-571` Ano de 2012 · `V3/RC-475` Deva / Aurora | ✅ redigido — **o que a fonte recusa** |
 | **19** | 09/09/2026 | `V3/RC-727` DNA Insubmisso *(longo)* · `V4/RC-723` Abismo da Providência · `V5/RC-767` 256 Caminhos · `V2/RC-726` Faixas de Ressonância · `V2/RC-746` Dessensibilização | ✅ redigido — **fecho do 2º anel** |
+| **20** | 09/09/2026 | `V3/RC-145` Zeus · `V3/RC-489` Enoque · `V4/RC-548` Arquivos Mentais · `V1/RC-192` Pílula vermelha · `V4/RC-190` Revelação Espiritual · `V3/RC-463` Hermes Trismegisto | ✅ redigido — **abertura do 3º anel** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -464,6 +465,30 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 8. **Três rótulos de código corrigidos à mão** (o verificador só garante que o código existe, não que o nome está certo): `RC-047` → `RC-002` (Rebelião de Lúcifer); `RC-655`, de «Protagonismo do Eu» para «Revelação de Ifá e Destinação dos Seres»; e a remissiva duplicada `RC-166` (Mentalma) desfeita.
 9. **Renomeação:** `V3.15.02-RC736-…`.
 
+### Lote 20 — abertura do 3º anel (6 verbetes, 5.547 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Zeus | III.12.1 | `V3/V3.12.01-zeus.md` | 1.081 | 1.662 p. |
+| Enoque | III.14.1 | `V3/V3.14.01-RC489-enoque.md` | 998 | **3.892 p.** |
+| Arquivos Mentais | IV.19.1 | `V4/V4.19.01-RC548-arquivos-mentais.md` | **979** | 1.225 p. · **60 verbatim** |
+| Pílula vermelha | I.3.4 | `V1/V1.03.04-pilula-vermelha.md` | 909 | 1.125 p. |
+| Revelação Espiritual (Kardec) | IV.20.1 | `V4/V4.20.01-RC190-revelacao-espiritual-kardec.md` | 810 | 603 p. |
+| Hermes Trismegisto | III.14.1 | `V3/V3.14.01-RC463-hermes-trismegisto.md` | **770** | 890 p. |
+
+**Medida final:** 770–1.081 palavras · **175 verbatim byte a byte** (39 reprovados na 1ª conferência, todos corrigidos) · 59 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 20:**
+
+1. **Abre o 3º anel (grau 9)** — com um detalhe que muda o planejamento: dos 576 códigos ainda não redigidos, **186 não têm ficha** e, portanto, **não podem ser redigidos agora**. A fila real é de **384 nós com ficha**.
+2. **O lote é o das fontes favoráveis.** Em `RC-463`, `RC-489` e `RC-145`, a história ajuda a obra em vez de atrapalhar: Hermes Trismegisto é **comprovadamente** sincrético (Hermes + Thoth, desde o Egito ptolemaico); o **Livro de Enoque existe**, sobrevive em ge'ez e é canônico na Igreja Ortodoxa Etíope; Zeus é figura real da teogonia hesódica. **A quarentena recua para o que a obra acrescenta** — as equivalências, não a base documental.
+3. **`RC-489` traz a quarentena de atribuição mais instrutiva:** a ficha atribui a um «grupo comandado por Jerônimo» a remoção do livro de Enoque. Historicamente, a exclusão do cânone é processo conciliar longo, não ato de um grupo. **O verbete registra a leitura da fonte e não a endossa.**
+4. **`RC-190` é o caso mais extremo de ficha mínima da enciclopédia:** 603 palavras e **uma única citação**. Metade do corpo da ficha é **estado da malha** — o código que passou de linha-de-cadastro a arquivo por despacho do Curador (29/08/2026). **O verbete registrou isso como conteúdo, porque é o que há.**
+5. **`RC-145` dá a Zeus o traço que a mitologia não lhe dá:** o segredo de B088 é que **Zeus é mortal** — e a paranoia, os espiões e o decreto de morte derivam disso.
+6. **Falhas: 39 → 17 → 0.** Das 17, **oito eram nossas** (três composições como citação, duas elisões, três atravessias de `**negrito**` da Base) e **nove eram travessias de negrito** — o erro mais frequente do lote, concentrado em `RC-548`.
+7. **Três rótulos de código corrigidos à mão** (o verificador não pega nome errado): `RC-762` = «As Três Escalas da Consciência»; `RC-273` = «A Falsa Trindade (Concílio de Niceia)»; e uma auto-remissiva indevida a `RC-489`, removida.
+8. **Três endereços novos:** III.12.1, I.3.4 e IV.19.1 (este último já com dois verbetes).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -485,7 +510,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9), aberto a partir do lote 20:** `RC-145` Zeus (1.662 p.) · `RC-190` Revelação Espiritual / Kardec (603) · `RC-192` Pílula vermelha (1.125) · `RC-463` Hermes Trismegisto (890) · `RC-489` Enoque (3.892) · `RC-548` Arquivos Mentais (1.225). Dos 576 códigos ainda não redigidos, **186 não têm ficha** e, portanto, não podem ser redigidos agora.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9):** aberto no lote 20. Dos 576 códigos ainda não redigidos, **186 não têm ficha** — a fila real é de **384 nós redigíveis**. Próximos seis — `RC-558` Sensação de eu (9, 538 p.) · `RC-582` Ravana (9, 1.150) · `RC-615` Superconsciência (9, 795) · `RC-625` Corpo Manásico (9, 561) · `RC-637` Transferência da Memória dos Antielétrons (9, 351) · `RC-654` Humanos: Últimos e Primeiros (9, 490).
 
 ## 5. Como conferir
 

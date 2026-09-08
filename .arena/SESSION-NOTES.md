@@ -380,3 +380,22 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 
 **3º anel (grau 9), próximo lote 20:** RC-145 Zeus (1.662) · RC-190 Revelação Espiritual/Kardec (603) · RC-192 Pílula vermelha (1.125) · RC-463 Hermes Trismegisto (890) · RC-489 Enoque (3.892) · RC-548 Arquivos Mentais (1.225).
 **Dos 576 códigos não redigidos, 186 não têm ficha** — não redigíveis agora.
+
+---
+
+## 09/09/2026 — Lote 20: abertura do 3º anel (6 verbetes, 5.547 palavras)
+
+`RC-145` Zeus (III.12.1, 1.081 p.) · `RC-489` Enoque (III.14.1, 998) · `RC-548` Arquivos Mentais (IV.19.1, 979) · `RC-192` Pílula vermelha (I.3.4, 909) · `RC-190` Revelação Espiritual/Kardec (IV.20.1, 810) · `RC-463` Hermes Trismegisto (III.14.1, 770).
+
+**Acumulado: 119 verbetes · 2.935 verbatim · 1.306 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Abre o 3º anel (grau 9).** Dos 576 códigos não redigidos, **186 não têm ficha** → a fila real é de **384 nós redigíveis**.
+2. **Lote das fontes favoráveis:** Hermes Trismegisto é comprovadamente sincrético; o Livro de Enoque existe (ge'ez, canônico na Igreja Ortodoxa Etíope); Zeus é figura real da teogonia hesódica. **A quarentena recua para o que a obra acrescenta.**
+3. **Quarentena de atribuição (RC-489):** a ficha atribui a um «grupo comandado por Jerônimo» a remoção do livro — a exclusão do cânone é processo conciliar longo. **O verbete registra a leitura da fonte e não a endossa.**
+4. **RC-190 = caso mais extremo de ficha mínima:** 603 p., **uma única citação**, metade do corpo = estado da malha (linha-de-cadastro → arquivo, despacho 29/08/2026). O verbete registrou isso como conteúdo.
+5. **RC-145:** o segredo de B088 é que **Zeus é mortal** — paranoia, espiões e decreto de morte derivam disso.
+6. **Falhas 39 → 17 → 0.** Das 17, **8 nossas** (3 composições como citação, 2 elisões, 3 atravessias de negrito) e **9 travessias de `**negrito**`** — erro mais frequente do lote, concentrado em RC-548.
+7. **3 rótulos corrigidos à mão:** RC-762 = «As Três Escalas da Consciência»; RC-273 = «A Falsa Trindade (Concílio de Niceia)»; auto-remissiva indevida a RC-489 removida.
+8. **3 endereços novos:** III.12.1, I.3.4, IV.19.1.
+
+**Próximos seis (lote 21):** RC-558 (9, 538) · RC-582 (9, 1.150) · RC-615 (9, 795) · RC-625 (9, 561) · RC-637 (9, 351) · RC-654 (9, 490).
