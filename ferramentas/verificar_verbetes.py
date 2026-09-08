@@ -42,7 +42,9 @@ def main(pasta=None):
     codigos = {t[0] for t in d.TERMOS}
 
     falhas_q, falhas_c, total_q, n_cod = [], [], 0, 0
-    arquivos = sorted(glob.glob(os.path.join(pasta, "*.md")))
+    # READMEs de laboratorio nao sao verbetes: ficam fora da conferencia
+    arquivos = sorted(g for g in glob.glob(os.path.join(pasta, "**", "*.md"), recursive=True)
+                      if os.path.basename(g).lower() != "readme.md")
     assert arquivos, f"nenhum verbete em {pasta}"
 
     for arq in arquivos:
@@ -54,7 +56,10 @@ def main(pasta=None):
         for cam in sorted(set(declarados)):
             if "verbetes-modelo" in cam or "verbetes-secao-24" in cam:
                 continue
-            extra += carregar_documento(cam)
+            # caminho relativo ao verbete (../algo.md) ou a raiz do repositorio
+            alvo = (os.path.normpath(os.path.join(os.path.dirname(arq), cam))
+                    if cam.startswith(".") else os.path.join(RAIZ, cam))
+            extra += carregar_documento(alvo)
         for cit in re.findall(r"«([^»]+)»", txt):
             total_q += 1
             if cit not in corpus and cit not in extra:
