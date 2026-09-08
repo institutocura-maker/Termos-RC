@@ -180,3 +180,19 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 **Renomeação:** `V2.06.01-RC152-prabrajna.md` (II.6.1 compartilhado com `RC-094`).
 
 **Próximos seis:** `RC-715` (17) · `RC-099` (16) · `RC-167` (16) · `RC-565` (16) · `RC-701` (16) · `RC-378` (15).
+
+---
+
+## 08/09/2026 — Lote 10: o laboratório se esvazia (6 verbetes, 6.077 palavras)
+
+`RC-167` Criação Indevida (II.6.4, 1.537 p.) · `RC-565` Hochmah (III.11.2, 1.109) · `RC-378` A Rebelião dos Elétrons (III.16.1, 1.022) · `RC-099` Seres Terrenos (IV.17.1, 900) · `RC-715` Informações Vivas (II.8.1, 777) · `RC-701` Daksha e Virini (III.15.1, 732).
+
+**Acumulado: 60 verbetes · 1.583 verbatim · 693 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Terceiro e último modelo promovido** (`VERBETE-MODELO-02-CRIACAO-INDEVIDA.md`, 40/40 aspas conferidas). Os três modelos de 07/09/2026 — Javé, Criação Indevida, Tikun — estão agora todos na enciclopédia. `verbetes-modelo/` passa a valer como referência de método.
+2. **`RC-099` é o primeiro verbete sem nenhuma fala citável:** ficha de 508 p., materialização de âncora estrutural (F045), 21 fontes censadas, zero recortes. Sobraram 4 verbatim curtíssimos da própria definição da Base (inclusive o «nós»). **A regra do lastro se provou no extremo oposto ao de Javé.**
+3. **`RC-565` Hochmah é o 4º caso-limite do lastro** (6.326 p. de ficha / 1.109 de verbete). Lista: RC-001 (14.079) · RC-092 (8.302) · RC-104 (8.291) · RC-565 (6.326).
+4. **Amplitude recorde no mesmo lote:** de 358 p. de ficha (RC-715) a 6.326 (RC-565) — razão ~18:1.
+5. **Falhas de verbatim caíram de 33 para 19** (passo automático resolveu 14).
+
+**Próximos seis:** RC-467 (15) · RC-472 (15) · RC-529 (15) · RC-559 (15) · RC-577 (15) · RC-585 (15).

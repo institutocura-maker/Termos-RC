@@ -67,6 +67,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **7** | 08/09/2026 | `V3/RC-001` Javé · `V2/RC-152` Prabrajna · `V2/RC-161` Memória Quântica dos Elétrons · `V4/RC-217` DNA como Projeção Holográfica · `V4/RC-722` Dignidade como Critério · `V2/RC-106` Universo Antimaterial | ✅ redigido — **abre o 2º anel** |
 | **8** | 08/09/2026 | `V5/RC-514` Tikun Cósmico · `V5/RC-003` Reintegração Cósmica · `V3/RC-102` Shiva (Savna) · `V3/RC-104` Trimurti · `V3/RC-037` Brahma (Brajna) · `V3/RC-135` Vishnu (Mavatna) | ✅ redigido — **a tríade fecha** |
 | **9** | 08/09/2026 | `V2/RC-094` Revelação Cósmica · `V4/RC-166` Mentalma · `V1/RC-263` Sefirot / Árvore da Vida · `V4/RC-695` Ciência Pessoal · `V3/RC-024` Anunnakis · `V2/RC-716` PIA | ✅ redigido — **as fontes e as chaves** |
+| **10** | 08/09/2026 | `V2/RC-167` Criação Indevida · `V3/RC-565` Hochmah · `V3/RC-378` A Rebelião dos Elétrons · `V4/RC-099` Seres Terrenos · `V2/RC-715` Informações Vivas · `V3/RC-701` Daksha e Virini | ✅ redigido — **o laboratório se esvazia** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -225,6 +226,28 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Mais uma renomeação de endereço compartilhado:** `V2.06.01-RC152-prabrajna.md` (II.6.1 passou a abrigar Prabrajna e Revelação Cósmica).
 7. **Conta-gotas de ocorrências.** O padrão que mais quebrou asserts neste lote: a mesma aspa aparece **2×** (no corpo e em «Na voz do autor»). A rotina `sub()` por prefixo agora exige declarar a contagem antes de substituir.
 
+### Lote 10 — o laboratório se esvazia (6 verbetes, 6.077 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Criação Indevida | II.6.4 | `V2/V2.06.04-criacao-indevida.md` | 1.537 | 1.490 p. — **verbete e ficha do mesmo porte** |
+| Hochmah (2ª Sefirah) | III.11.2 | `V3/V3.11.02-RC565-hochmah.md` | 1.109 | **6.326 p.** · 12 ampliações |
+| A Rebelião dos Elétrons | III.16.1 | `V3/V3.16.01-a-rebeliao-dos-eletrons.md` | 1.022 | 2.412 p. |
+| Seres Terrenos (Homo Sapiens) | IV.17.1 | `V4/V4.17.01-seres-terrenos.md` | 900 | **508 p. · nenhuma fala citável** |
+| Informações Vivas | II.8.1 | `V2/V2.08.01-RC715-informacoes-vivas.md` | **777** | **358 p.** — o menor lastro da enciclopédia |
+| Daksha e Virini | III.15.1 | `V3/V3.15.01-RC701-daksha-e-virini.md` | **732** | 666 p. |
+
+**Medida final:** 732–1.537 palavras · **122 verbatim byte a byte** (19 reprovados na 1ª conferência, todos corrigidos) · 70 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 10:**
+
+1. **O terceiro e último modelo foi promovido.** `VERBETE-MODELO-02-CRIACAO-INDEVIDA.md` entrou na enciclopédia revisto. Com ele, os três modelos homologados em 07/09/2026 (Javé, Criação Indevida, Tikun) estão todos publicados — **o laboratório `verbetes-modelo/` se esvazia de modelos** e passa a valer como referência de método.
+2. **`RC-099` Seres Terrenos é o primeiro verbete sem uma única fala citável.** A ficha é uma materialização de âncora estrutural (F045): 508 palavras, 21 fontes censadas, nenhum recorte de palestra ou obra. Os quatro verbatim que restam são fragmentos da própria definição da Base — inclusive o «nós» com que a ficha designa a espécie. **A regra do lastro se provou no caso-limite oposto ao de Javé: ficha sem fala, verbete sem fala.**
+3. **A amplitude do lote é a maior da enciclopédia:** vai de 358 palavras de ficha (`RC-715`) a 6.326 (`RC-565`) — uma razão de quase 18 para 1 entre dois nós do mesmo lote. Os dois extremos receberam tratamento explícito nas suas «Tensões».
+4. **`RC-565` Hochmah passa a ser o quarto caso-limite do lastro.** A lista agora é: `RC-001` Javé (14.079) · `RC-092` Quarto Logos (8.302) · `RC-104` Trimurti (8.291) · `RC-565` Hochmah (6.326). Quatro nós, quatro decisões pendentes sobre desdobramento.
+5. **Os dois verbetes mais curtos do lote (`RC-715` e `RC-701`) ficaram abaixo de 800 palavras** — são os primeiros a entrar, na prática, na faixa do Verbete-Médio. Não foi escolha de camada: foi o lastro.
+6. **A incidência de falhas caiu pela metade** em relação ao lote 9 (33 → 19), e o passo automático resolveu 14 delas. O que restou foi o de sempre: período dentro da aspa, elipse nossa no lugar do texto corrido e expressão do redator entre «».
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -246,7 +269,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 19 dos 79 (lotes 7–9); **60 restantes com grau total ≥ 10**. Próximos seis — `RC-715` Informações Vivas (17) · `RC-099` Seres Terrenos (16) · `RC-167` Criação Indevida (16) · `RC-565` Hochmah (16) · `RC-701` Daksha e Virini (16) · `RC-378` A Rebelião dos Elétrons (15).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 25 dos 79 (lotes 7–10); **54 restantes com grau total ≥ 10**. Próximos seis — `RC-467` Moiras / Nornes (15) · `RC-472` Tempérion (15) · `RC-529` Ressonância Límbica (15) · `RC-559` Teia Quântica (15) · `RC-577` Xamanismo Cósmico (15) · `RC-585` Vyasa (15).
 
 ## 5. Como conferir
 
