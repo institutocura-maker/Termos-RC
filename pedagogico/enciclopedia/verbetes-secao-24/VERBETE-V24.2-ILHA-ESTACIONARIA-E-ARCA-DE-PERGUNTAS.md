@@ -13,7 +13,7 @@
 | **Autoria do tratado** | dois amigos ao redor de uma fogueira digital (o curador e o agente) — leitura de Jan Val Ellam, não obra do Ellam |
 | **Fontes primárias** | P2021-12-04 (Os Archeons de Ereon e os Seres Adhy) · P2021-01-23 (Vyasa e o Descortinar de um Novo Paraíso) · P2020-07-11 (Ogdóade) |
 
-> **Este verbete não substitui o tratado** — o tratado é a fonte de verdade deste endereço, e este verbete é a porta de entrada. **Nenhum código foi criado** para ele: a Base não tem entrada para os Tratados, e criar uma é matéria de despacho (Navalha de Ockham). Toda citação abaixo é verbatim do tratado ou das palestras indicadas — nenhuma aspa foi composta por nós.
+> **Este verbete não substitui o tratado** — o tratado é a fonte de verdade deste endereço. **Nenhum código foi criado** para ele: a Base não tem entrada para os Tratados, e criar uma é matéria de despacho (Navalha de Ockham). Toda citação abaixo é verbatim do tratado ou das palestras indicadas — nenhuma aspa foi composta por nós.
 
 ---
 
@@ -27,13 +27,13 @@ A consequência é a tese do tratado: **o Perfeito não conhece o Imperfeito**. 
 
 ### 1. O diagnóstico — «estacionária» não é elogio
 
-A imagem que abre o tratado é a do **peixinho dourado no aquário perfeito**: água na temperatura ideal, ração na hora, cascalho colorido. Nada falta — e é por isso que a girafa não cabe ali. Não é burrice do peixe: é que o aquário é perfeito demais para comportar a ideia de uma girafa. O Paraíso, na leitura do Ellam, é esse aquário em escala cósmica: seres perfeitos, amorosos, incapazes de maldade — e, por isso mesmo, **inabilitados para compreender tudo o que foge ao padrão da perfeição**. O que foge ao padrão é o universo inteiro que eles criaram.
+A imagem que abre o tratado é a do **peixinho dourado no aquário perfeito**: água na temperatura ideal, ração na hora, cascalho colorido. Nada falta — e é por isso que a girafa não cabe ali. Não é burrice do peixe: é que o aquário é perfeito demais para comportar a ideia de uma girafa. O Paraíso, na leitura do Ellam, é esse aquário em escala cósmica: seres perfeitos e incapazes de maldade — e, por isso mesmo, **inabilitados para compreender tudo o que foge ao padrão da perfeição**. O que foge ao padrão é o universo inteiro que eles criaram.
 
 ### 2. A ignorância mais elegante do universo
 
 A tese central não é uma acusação, é uma anatomia: o perfeito é onipotente em tese, mas **não compreende o que criou**; o imperfeito é limitado, mas é o único que **enxerga o conjunto**, porque está dentro dele. A formulação mais forte do tratado inverte a direção tradicional da iluminação: «não é o alto iluminando o baixo — é o baixo traduzindo o alto para si mesmo». Daí a frase do autor sobre as palestras: «finalmente a gente tá explicando para eles com a nossa visão». É a Torre de Babel às avessas — em vez de subirmos para falar a língua deles, descemos e lhes ensinamos a ler a nossa.
 
-A consequência é incômoda e igualitária: se o perfeito não conhece o imperfeito, **ninguém está no comando do entendimento**. Uns na ignorância da luz, outros na ignorância da lama — «A diferença é que a lama, pelo menos, ensina.».
+A consequência é incômoda e igualitária: se o perfeito não conhece o imperfeito, **ninguém está no comando do entendimento**. Uns na ignorância da luz, outros na da lama — «A diferença é que a lama, pelo menos, ensina».
 
 ### 3. O mapa do lado de fora que sustenta a tese
 
@@ -73,13 +73,13 @@ Se ninguém detém o entendimento, a única conduta honesta é a auditoria perma
 
 ## Tensões
 
-1. **Sem código na Base.** Nenhum dos três Tratados tem entrada no registro-mestre, e `termos/` não tem sequer uma ficha que cite a palavra «Tratado». Este verbete **não cria** código: a decisão é do curador e depende de despacho.
-2. **Camada interpretativa, não fonte primária.** Os Tratados são **leitura de dois amigos sobre a fala de Ellam** — autorizada e registrada, mas não obra do autor. Onde o tratado interpreta, o verbete marca que se trata de interpretação.
+1. **Sem código na Base.** Nenhum dos Tratados tem entrada no registro-mestre, e `termos/` não tem ficha que cite a palavra «Tratado». Este verbete **não cria** código: a decisão depende de despacho.
+2. **Camada interpretativa, não fonte primária.** Os Tratados são **leitura de dois amigos sobre a fala de Ellam** — autorizada e registrada, mas não obra do autor. Onde o tratado interpreta, o verbete o marca.
 3. **Urântia.** «ilha estacionária» é epíteto emprestado do *Livro de Urântia*, com ressalva expressa do próprio autor. É **referência externa**: não entra no catálogo primário da obra.
 4. **Quarentena clínica.** O «autismo funcional da perfeição» (`RC-605`) é **figura de linguagem filosófica**, aplicada aos seres da Espiritualidade Superior — não é, em nenhuma hipótese, diagnóstico ou afirmação médica sobre indivíduos terrestres.
-5. **Quarentena temporal.** 18.000 anos, 21/12/2012 (o fechamento dos portais), 48.000 e 23.000 anos (Pandora e Eva/Adão) são marcos **da narrativa**, com selo temporal de cada fala — não datas do calendário acadêmico.
-6. **Defasagem de censo dentro do próprio tratado.** O texto cita «os 770 termos, as 1.830 relações, as 416 fichas, as quarentenas, as 29 apostilas». A Base de hoje tem **946 termos · 650 fichas · 1.898 relações**. O verbete registra a defasagem **sem alterar o documento-fonte** — retratar o estado de uma edição é função do verbete; reescrever o tratado, não.
-7. **O tripé incompleto nesta edição.** V.24.1 e V.24.3 seguem como seção de redação: o sistema só fecha com os três redigidos.
+5. **Quarentena temporal.** 18.000 anos, 21/12/2012 (o fechamento dos portais), 48.000 e 23.000 anos (Pandora e Eva/Adão) são marcos **da narrativa**, com selo de cada fala — não do calendário acadêmico.
+6. **Defasagem de censo dentro do próprio tratado.** O texto cita «os 770 termos, as 1.830 relações, as 416 fichas, as quarentenas, as 29 apostilas». A Base de hoje tem **946 termos · 650 fichas · 1.898 relações**. O verbete registra a defasagem **sem alterar o documento-fonte**: retratar o estado de uma edição é função do verbete, não reescrevê-lo.
+7. **O tripé fechado nesta edição.** V.24.1 (o método) e V.24.3 (o sistema) foram redigidos em 08/09/2026: os três tratados têm verbete, e nenhum código foi criado.
 
 ## Remissivas
 
