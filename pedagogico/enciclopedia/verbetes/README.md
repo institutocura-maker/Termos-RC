@@ -60,6 +60,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 
 **Achado editorial do lote 1:** em 3 dos 6 nós-hub, a **centralidade** (grau) e o **lastro** (tamanho da ficha) divergem — o nó é central porque as remissivas convergem nele, não porque haja documento abundante. Nesses casos o verbete fica no tamanho que a fonte sustenta, e a divergência é registrada na seção Tensões em vez de ser resolvida com paráfrase.
 | **2** | 08/09/2026 | `V2/RC-604` Fatiamento de Consciência · `V3/RC-072` Jesus · `V3/RC-696` Geração Regenerada de Brahma · `V3/RC-664` Descendência de Kadru · `V3/RC-694` Oitavo Dia · `V3/RC-690` Colapso do Caos Organizado | ✅ redigido |
+| **3** | 08/09/2026 | `V3/RC-717` Buraco Negro Mental · `V3/RC-081` Mohen So · `V3/RC-414` Krishna · `V3/RC-700` Kashyapa · `V4/RC-704` Corpo Sutil Reencarnante · `V4/RC-720` Sócios do Destino | ✅ redigido |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -78,7 +79,23 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 1. **59 verbatim reprovados na 1ª conferência** — as causas se repetem e viraram checklist: ponto final **acrescentado** ao fim da citação (a ficha não tem, o verbete não põe) · caixa alta da fonte rebaixada para minúscula («ABSOLUTAMENTE CULPADO…» não é grito nosso, é a fonte) · elipse `[...]` dentro de citação, onde a ficha tem texto corrido · paráfrase travestida de citação. A regra que resolve: **recortar o verbatim da ficha, nunca reescrevê-lo**.
 2. **Ficha contaminada (achado de Base, sem alteração).** `termos/RC-690-colapso-do-caos-organizado.md` contém, entre o bloco da P2025-03-15 e a «Ampliação — P2024-11-09», um trecho de código de aplicação (`"RC-691": '''`) seguido de quatro verbetes sobre **Ishvara** (`RC-691`) — material de outra ficha. Registrado na Tensão 8 do verbete de `RC-690` e em `.arena/SESSION-NOTES.md`; **a Base não foi tocada**: correção depende de despacho.
 
-**Nós-hub restantes após o lote 2 (grau ≥ 10, 23 de 35):** RC-717 · RC-081 · RC-414 · RC-700 · RC-704 · RC-720 · RC-761 · RC-395 · RC-474 · RC-655 · RC-697 · RC-698 · RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
+**Lote 3 — medida final:** 715–2.071 palavras · **217 verbatim byte a byte (52 reprovados na 1ª conferência, todos corrigidos) · 69 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Buraco Negro Mental / Consciencial | III.9.2 | `V3/V3.09.02-buraco-negro-mental-consciencial.md` | 1.730 | 1.784 p. · 8 ampliações |
+| Krishna (avatar de Vishnu/Shiva) | III.10.5 | `V3/V3.10.05-krishna.md` | 2.071 | **5.109 p. · 30 ampliações** |
+| Mohen So (Avatar Keshava) | III.11.1 | `V3/V3.11.01-mohen-so-avatar-keshava.md` | 1.482 | 2.180 p. · 10 ampliações |
+| Corpo Sutil Reencarnante | IV.18.1 | `V4/V4.18.01-corpo-sutil-reencarnante.md` | 1.105 | 652 p. · 2 ampliações |
+| Sócios do Destino | IV.21.1 | `V4/V4.21.01-socios-do-destino.md` | 750 | **384 p.** · 2 ampliações |
+| Kashyapa | III.14.1 | `V3/V3.14.01-kashyapa.md` | 715 | **358 p.** · 1 fonte |
+
+**Achados editoriais do lote 3:**
+1. **52 verbatim reprovados na 1ª conferência.** As causas do lote 2 se repetiram (ponto final acrescentado · caixa alta rebaixada · elipse no lugar de texto corrido) e apareceu uma nova, que virou regra: **a ficha enfatiza com `**negrito**` no meio do trecho citado**. O verbete não transporta esse negrito — o realce é do curador, não do falante —, e por isso a citação é recortada em fragmentos limpos em vez de ser colada com a marcação. A marcação `**` só entra na citação se for inseparável do sentido.
+2. **A regra do lastro apareceu pelo lado oposto.** Em Kashyapa e Sócios do Destino o nó é hub (grau 12) mas a ficha tem 358 e 384 palavras: os verbetes ficaram em 715 e 750 palavras — camada Médio/Notícia na prática. Em Krishna, o inverso: a ficha tem 5.109 palavras e 30 ampliações, e o verbete passou do teto da camada Pilar (2.071). **Nenhum dos dois casos foi resolvido por corte nem por enchimento**; os três estão declarados na tabela acima, e o de Krishna fica sujeito a despacho (pode ser desdobrado em subverbetes se o Curador preferir).
+3. **Nenhuma colisão de endereço neste lote** — os seis endereços eram únicos, e valeu a regra do lote 2 (só se desambigua o nome com o código quando dois verbetes caem no mesmo endereço).
+
+**Nós-hub restantes após o lote 3 (grau ≥ 10, 17 de 35):** RC-761 · RC-395 · RC-474 · RC-655 · RC-697 · RC-698 · RC-709 · RC-092 · RC-476 · RC-693 · RC-699 · RC-703 · RC-705 · RC-710 · RC-718 · RC-721 · RC-736.
 
 ## 5. Como conferir
 
