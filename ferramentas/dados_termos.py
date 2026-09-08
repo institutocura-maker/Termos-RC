@@ -292,7 +292,7 @@ TERMOS = [
     ("RC-200", "Base de Dados do Juízo Final", COS_LEI[0], COS_LEI[1], C, ['B035', 'P2025-02-15', 'P2025-06-14b', 'P2020-05-09', 'P2020-09-19', 'P2023-12-03', "P2021-04-10"], 'RC-194; RC-201', True),
     ("RC-201", "O Livro do Criador", COS_LEI[0], COS_LEI[1], C, ["B035"], "RC-194; RC-200; RC-094", False),
     ("RC-202", "Linhagens Preferenciais do Criador", GEN_HUM[0], GEN_HUM[1], C, ['B035', 'P2024-09-29'], 'RC-001; RC-194; RC-189', False),
-    ("RC-203", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], C, ['B035', 'P2025-03-15'], 'RC-155; RC-070; RC-690', False),
+    ("RC-203", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], C, ['B035', 'P2025-03-15'], 'RC-314', False),  # [F045-MERGE 07-09-2026] DUPLICATA ABSORVIDA por RC-314 (despacho do Curador 07/09/2026 — revogada a flag "nao fundir" deste par). Sem ficha materializada; permanece na sequencia como REMISSIVA — ver RC-314.
 
     # ---- Novos termos da TRILOGIA DOS DRAMAS DE JAVÉ (B001 Cósmico, B002 Espiritual, B033 Terreno)
     # ---- B001 — O Drama Cósmico de Javé (2010)
@@ -424,7 +424,7 @@ TERMOS = [
     ("RC-311", "Adhyagya (formas espirituais Adhy)", SER_LOG[0], SER_LOG[1], P, ["B022"], "RC-012; RC-308; RC-309; RC-102; RC-135", True),
     ("RC-312", "Criação Bipartida", COS_DIM[0], COS_DIM[1], P, ['B022', 'P2024-11-30'], 'RC-106; RC-107; RC-167; RC-094', False),
     ("RC-313", "Tempo de Apostasia", EVE_ERA[0], EVE_ERA[1], P, ["B022"], "RC-104; RC-300; RC-314; RC-094", False),
-    ("RC-314", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], P, ['B022', 'P2025-03-15'], 'RC-313; RC-300; RC-104; RC-094; RC-572; RC-578; RC-690', True),
+    ("RC-314", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], P, ['B022', 'B035', 'P2025-03-15'], 'RC-313; RC-300; RC-104; RC-094; RC-572; RC-578; RC-690; RC-155; RC-070; RC-203', True),  # [F045-MERGE 07-09-2026] absorveu RC-203 (homonimo de B035, candidato sem ficha): fontes e referencias unificadas aqui. Remissiva em RC-203.
     ("RC-315", "O Fim da Lila", EVE_GUE[0], EVE_GUE[1], P, ['B022', 'P2024-11-30', 'P2023-11-19', 'P2023-12-03'], 'RC-075; RC-104; RC-300; RC-313', False),
     ("RC-316", "Decifra-me ou Devoro (hábito demo)", COS_ETI[0], COS_ETI[1], P, ["B022", 'P2025-06-14b'], "RC-049; RC-104; RC-075", False),
     ("RC-317", "Esgotamento e Solidão (dos Trimurtianos)", COS_PRO[0], COS_PRO[1], P, ["B022"], "RC-104; RC-313; RC-300", False),
