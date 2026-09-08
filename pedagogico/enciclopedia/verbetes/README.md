@@ -73,6 +73,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **13** | 08/09/2026 | `V3/RC-282` Mohen So (correspondências) · `V4/RC-614` Quarto Cérebro Humano · `V3/RC-041` Criador · `V5/RC-612` Nova Espiritualidade · `V3/RC-456` Ser LM · `V2/RC-061` Espiritualidade Laboratorial | ✅ redigido — **o vocabulário da casa** |
 | **14** | 09/09/2026 | `V5/RC-725` Ponto de Luz Humano · `V2/RC-711` Universo de Egrégoras · `V2/RC-719` Três Faíscas · `V4/RC-646` Genoma de Sílica · `V1/RC-691` Ishvara · `V2/RC-707` Primado da Informação | ✅ redigido — **a antropologia da RC** |
 | **15** | 09/09/2026 | `V5/RC-770` Hipóstase dos Arcontes · `V3/RC-455` Pashvnaj · `V3/RC-036` Biodemos · `V4/RC-755` Escola da Decifração · `V4/RC-091` Projeto Talm · `V3/RC-638` Ressurreição do Cadáver do Criador | ✅ redigido — **as fontes externas e o enxerto** |
+| **16** | 09/09/2026 | `V3/RC-611` Flechas de Moros · `V3/RC-486` Enki · `V4/RC-623` Corpo Átmico · `V3/RC-530` Pistis Sophia · `V3/RC-586` Rishis · `V3/RC-556` Senhor Parameshthi | ✅ redigido — **os nomes de um só nó** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -367,6 +368,29 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Falhas: 32 → 10 → 0.** Das dez restantes, **cinco eram nossas** — um termo de STT inventado («probiu», que não consta na ficha), duas elisões com «...» sobre texto contínuo e duas paráfrases como se fossem fala. As outras cinco eram **negrito da Base atravessado no meio da citação**: a ficha escreve «nunca **sentida pela estirpe dos biodemos**», e o recorte tem de começar depois do asterisco.
 7. **Quatro renomeações de endereço compartilhado** — as mais de uma só vez até aqui: `V4.17.01-RC099`, `V5.23.01-RC714`, `V3.13.02-RC024` e, do lote anterior, `V1.03.01-RC706`.
 
+### Lote 16 — os nomes de um só nó (6 verbetes, 5.297 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Flechas / Profecias de Moros | III.16.4 | `V3/V3.16.04-RC611-flechas-de-moros.md` | 960 | 1.435 p. |
+| Enki | III.13.2 | `V3/V3.13.02-RC486-enki.md` | 928 | 2.131 p. |
+| Corpo Átmico | IV.18.1 | `V4/V4.18.01-RC623-corpo-atmico.md` | 879 | 671 p. |
+| Pistis Sophia | III.11.2 | `V3/V3.11.02-RC530-pistis-sophia.md` | 865 | 816 p. |
+| Rishis | III.14.3 | `V3/V3.14.03-rishis.md` | 846 | 512 p. |
+| Senhor Parameshthi | III.9.1 | `V3/V3.09.01-RC556-senhor-parameshthi.md` | **819** | **440 p.** |
+
+**Medida final:** 819–960 palavras · **120 verbatim byte a byte** (32 reprovados na 1ª conferência, todos corrigidos) · 62 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 16:**
+
+1. **Cinco dos seis verbetes são nomes do mesmo nó.** Pistis Sophia (o criador antes da queda), Senhor Parameshthi (a sua face mais recente), Rishis (os seus filhos regenerados), Flechas de Moros (o aviso lançado sobre o seu colapso) e Corpo Átmico (a peça que não se corrompe): são cinco faces de um único drama. Só Enki vem de fora.
+2. **`RC-611` carrega o ponto mais frágil da enciclopédia até aqui.** A geografia de Edimburgo, com datas de 280/300/310 milhões de anos, está marcada na própria ficha com **⚠️⚠️⚠️** e com a instrução «registrar como está, sem fusão». O verbete obedece: **não funde, não escolhe, não suaviza.**
+3. **`RC-556` é o verbete mais datado da enciclopédia:** «o corpo colapsou em 2021». É uma afirmação sobre um acontecimento contemporâneo, registrada como tese da obra.
+4. **O erro mais instrutivo do lote é um colchete que não existia.** Escrevi «toda essa confu[são]» onde a ficha diz «toda essa confusão: humilhou Jesus, humilhou Saibaba...». **Inventei um corte que a fonte não fez** — e ainda escrevi uma tensão inteira explicando o colchete como se fosse do curador. O verificador pegou a aspa; a honestidade teve de consertar a tensão.
+5. **Duas paráfrases nossas viraram definição alheia:** «parcela demo» (a ficha diz «parcelas de médica demo») e «ouviram» (não consta). Ambas corrigidas.
+6. **Duas renomeações:** `V3.16.04-RC718-…` e `V4.18.01-RC704-…`. III.9.1 passa a cinco verbetes; III.11.2 e III.13.2, a quatro cada.
+7. **`RC-544` Novo Homo sapiens foi pulado neste lote**, por decisão do Curador — e o material para a sua ficha existe: `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` mais as palestras listadas no registro-mestre.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -388,9 +412,9 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 55 dos 79 (lotes 7–15); **24 restantes com grau total ≥ 10**. Próximos seis — `RC-486` Enki (11) · `RC-530` Pistis Sophia (11) · `RC-556` Senhor Parameshthi (11) · `RC-586` Rishis (11) · `RC-611` Flechas / Profecias de Moros (11) · `RC-623` Corpo Átmico (11).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 61 dos 79 (lotes 7–16); **18 restantes com grau total ≥ 10**. Próximos seis — `RC-645` Consciências em Corpos de Sílica (11) · `RC-734` Samudra Manthana (11) · `RC-107` Universo Material (10) · `RC-261` Kether (10) · `RC-332` Favor Divino (10) · `RC-335` Lavagem Cerebral (10).
 
-> **Lacuna encontrada (09/09/2026):** `RC-544` Novo Homo sapiens tem grau total 11, está no registro-mestre e em 11 relações — mas **não possui ficha** em `termos/`. Sem ficha não há verbatim, e sem verbatim não há verbete. Fica pendente de decisão do Curador (escrever a ficha ou registrar a remissiva).
+> **Lacuna em aberto (09/09/2026):** `RC-544` Novo Homo sapiens tem grau total 11, está no registro-mestre e em 11 relações — mas **não possui ficha** em `termos/`. O material para escrevê-la existe: `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` e as palestras arroladas no registro-mestre. Pendente de despacho do Curador.
 
 ## 5. Como conferir
 

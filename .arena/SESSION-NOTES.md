@@ -285,3 +285,21 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 8. **LACUNA: `RC-544` Novo Homo sapiens** tem grau 11 e 11 relações, mas **não tem ficha** em `termos/`. Sem ficha não há verbatim. Pendente de decisão do Curador.
 
 **Próximos seis:** RC-486 (11) · RC-530 (11) · RC-556 (11) · RC-586 (11) · RC-611 (11) · RC-623 (11).
+
+---
+
+## 09/09/2026 — Lote 16: os nomes de um só nó (6 verbetes, 5.297 palavras)
+
+`RC-611` Flechas de Moros (III.16.4, 960 p.) · `RC-486` Enki (III.13.2, 928) · `RC-623` Corpo Átmico (IV.18.1, 879) · `RC-530` Pistis Sophia (III.11.2, 865) · `RC-586` Rishis (III.14.3, 846) · `RC-556` Senhor Parameshthi (III.9.1, 819).
+
+**Acumulado: 96 verbetes · 2.349 verbatim · 1.060 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Cinco dos seis são nomes do mesmo nó:** Pistis Sophia (pré-queda), Parameshthi (face atual), Rishis (filhos regenerados), Flechas de Moros (o aviso), Corpo Átmico (a peça inviolável). Só Enki vem de fora.
+2. **`RC-611` = ponto mais frágil da enciclopédia:** Edimburgo, 280/300/310 Ma, marcado na ficha com ⚠️⚠️⚠️ e «registrar como está, sem fusão». Verbete não funde nem escolhe.
+3. **`RC-556` = verbete mais datado:** «o corpo colapsou em 2021». Tese da obra.
+4. **ERRO MAIS INSTRUTIVO — colchete inventado:** escrevi «toda essa confu[são]» onde a ficha diz «toda essa confusão: humilhou Jesus, humilhou Saibaba...». E ainda redigi uma tensão inteira explicando o colchete como se fosse do curador. **O verificador pegou a aspa; a honestidade teve de consertar a tensão.**
+5. **Duas paráfrases nossas viraram definição alheia:** «parcela demo» (fonte: «parcelas de médica demo») e «ouviram» (não consta).
+6. **Duas renomeações:** `V3.16.04-RC718`, `V4.18.01-RC704`.
+7. **`RC-544` pulado por decisão do Curador.** Material para a ficha existe: `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` + palestras do registro-mestre.
+
+**Próximos seis:** RC-645 (11) · RC-734 (11) · RC-107 (10) · RC-261 (10) · RC-332 (10) · RC-335 (10).
