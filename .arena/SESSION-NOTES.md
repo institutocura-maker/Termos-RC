@@ -303,3 +303,22 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 7. **`RC-544` pulado por decisão do Curador.** Material para a ficha existe: `livros/CONCLUIDOS/B019_nem_deus_nem_jave_nem_darwin/` + palestras do registro-mestre.
 
 **Próximos seis:** RC-645 (11) · RC-734 (11) · RC-107 (10) · RC-261 (10) · RC-332 (10) · RC-335 (10).
+
+---
+
+## 09/09/2026 — Incidente de ambiente #2: ref remota obsoleta (sem perda)
+
+**Sintoma:** mensagens de erro da Plataforma; ao checar, `refs/remotes/origin/arena/01a07d99-termos-rc`
+apontava para `63e3fcb` (lote 7), enquanto `git ls-remote origin arena/01a07d99-termos-rc` (autoritativo)
+informava `110c4c6` (lote 16).
+
+**Diagnóstico:** *ref remota em cache desatualizada* — a mesma assinatura do incidente de 08/09/2026,
+mas benigna: o servidor tinha todo o histórico; só o ponteiro local estava atrasado.
+
+**Remédio (não destrutivo):** `git fetch origin '+refs/heads/*:refs/remotes/origin/*'`.
+Depois: ref local `110c4c6` = HEAD `110c4c6` = servidor `110c4c6`; `git status` limpo;
+650 fichas · 96 verbetes · Base intacta · verificador 0 falhas.
+
+**Nada foi descartado — nenhum `reset` foi necessário.** Lição reforçada: diante de divergência,
+conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertura de turno
+(HEAD × ls-remote) continua obrigatória.
