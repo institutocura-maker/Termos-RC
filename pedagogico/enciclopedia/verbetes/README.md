@@ -66,6 +66,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **6** | 08/09/2026 | `V3/RC-736` Aristocracia Olimpiana · `V4/RC-710` Genes Críticos · `V3/RC-718` Cumprimento da Profecia de Moros · `V5/RC-721` Abismo da Consciência Cósmica · `V4/RC-705` Ato de Verdade · `V2/RC-702` Camuflagem da Realidade | ✅ redigido — **fecha os 35 nós-hub** |
 | **7** | 08/09/2026 | `V3/RC-001` Javé · `V2/RC-152` Prabrajna · `V2/RC-161` Memória Quântica dos Elétrons · `V4/RC-217` DNA como Projeção Holográfica · `V4/RC-722` Dignidade como Critério · `V2/RC-106` Universo Antimaterial | ✅ redigido — **abre o 2º anel** |
 | **8** | 08/09/2026 | `V5/RC-514` Tikun Cósmico · `V5/RC-003` Reintegração Cósmica · `V3/RC-102` Shiva (Savna) · `V3/RC-104` Trimurti · `V3/RC-037` Brahma (Brajna) · `V3/RC-135` Vishnu (Mavatna) | ✅ redigido — **a tríade fecha** |
+| **9** | 08/09/2026 | `V2/RC-094` Revelação Cósmica · `V4/RC-166` Mentalma · `V1/RC-263` Sefirot / Árvore da Vida · `V4/RC-695` Ciência Pessoal · `V3/RC-024` Anunnakis · `V2/RC-716` PIA | ✅ redigido — **as fontes e as chaves** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -201,6 +202,29 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 5. **STT de deidade obriga a grafia da fonte:** «Vno», «Virgino», «Chiva», «Brama», «Sáveina», «Trimurte», «Trimorte», «Marrabarata», «incognocis», «loquias». Nenhuma harmonizada.
 6. **Duas elipses nossas foram desfeitas** em `RC-003` («…planeta regenerado [...] quando…» e «em 1986... tinha 27 anos») — o verificador as rejeitou e o texto corrido da ficha as substituiu.
 
+### Lote 9 — as fontes e as chaves (6 verbetes, 6.589 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Revelação Cósmica (conceito) | II.6.1 | `V2/V2.06.01-RC094-revelacao-cosmica.md` | 1.265 | 1.995 p. · 9 ampliações |
+| Mentalma | IV.18.2 | `V4/V4.18.02-mentalma.md` | 1.161 | 3.100 p. · 12 ampliações |
+| Sefirot / Árvore da Vida | I.3.2 | `V1/V1.03.02-sefirot-arvore-da-vida.md` | 1.112 | **1.386 p.** |
+| Ciência Pessoal | IV.20.1 | `V4/V4.20.01-ciencia-pessoal.md` | 1.048 | **678 p.** |
+| PIA — Peso da Inevitabilidade Ancestral | II.8.1 | `V2/V2.08.01-RC716-peso-da-inevitabilidade-ancestral.md` | 1.014 | **572 p.** |
+| Anunnakis | III.13.2 | `V3/V3.13.02-anunnakis.md` | 989 | 3.285 p. · 8 ampliações |
+
+**Medida final:** 989–1.265 palavras · **166 verbatim byte a byte** (33 reprovados na 1ª conferência, todos corrigidos) · 65 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 9:**
+
+1. **O lote das fichas curtas.** Quatro dos seis nós têm ficha de 358 a 1.995 palavras — `RC-716` (572 p.) e `RC-695` (678 p.) são os menores lastros já trabalhados na enciclopédia. Em todos, o verbete ficou **maior que a ficha** em número de palavras, sem nunca ultrapassar o que a fonte sustenta: foi a rede (as remissivas e a costura entre fontes) que deu o corpo, não a invenção.
+2. **`RC-094` é o verbete-continente.** Escrever sobre a Revelação Cósmica dentro da Enciclopédia das Revelações Cósmicas é escrever sobre o todo dentro do todo. A definição que resolveu o problema: a RC é o macroconceito que engloba os outros 945 termos, e este verbete é **a definição do continente**.
+3. **O achado de `RC-263` Sefirot é uma inversão.** A fonte sustenta que a Árvore da Vida **não desceu dos deuses aos homens**: «É uma representação que Enoque, um humano, criou» — «um joguinho que Enoque humano criou pros seres demos jogarem». É a maior reviravolta deste lote e está registrada como tese oral, com selo temporal.
+4. **`RC-166` Mentalma trouxe a maior concentração de `**negrito**` em citações** de toda a enciclopédia até aqui: o padrão das falas de 2023 é grafar em caixa alta e realçar. A solução foi quebrar em aspas contíguas — uma técnica que agora é rotina.
+5. **Dez aspas nossas tiveram de ser desafetadas.** Ao escrever «Tensões», redatorei como se fossem citações expressões que são minhas («crença passiva», «Espelho como faixa de realidade», «paralelo mas intimamente ligado»…). O verificador rejeitou e o texto passou a correr sem aspas. **É o verificador protegendo o leitor de mim.**
+6. **Mais uma renomeação de endereço compartilhado:** `V2.06.01-RC152-prabrajna.md` (II.6.1 passou a abrigar Prabrajna e Revelação Cósmica).
+7. **Conta-gotas de ocorrências.** O padrão que mais quebrou asserts neste lote: a mesma aspa aparece **2×** (no corpo e em «Na voz do autor»). A rotina `sub()` por prefixo agora exige declarar a contagem antes de substituir.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -222,7 +246,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 13 dos 79 (lotes 7 e 8); **66 restantes com grau total ≥ 10**. Próximos seis — `RC-716` PIA (19) · `RC-094` Revelação Cósmica (18) · `RC-695` Ciência Pessoal (18) · `RC-024` Anunnakis (17) · `RC-166` Mentalma (17) · `RC-263` Sefirot (17).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 19 dos 79 (lotes 7–9); **60 restantes com grau total ≥ 10**. Próximos seis — `RC-715` Informações Vivas (17) · `RC-099` Seres Terrenos (16) · `RC-167` Criação Indevida (16) · `RC-565` Hochmah (16) · `RC-701` Daksha e Virini (16) · `RC-378` A Rebelião dos Elétrons (15).
 
 ## 5. Como conferir
 

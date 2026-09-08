@@ -160,3 +160,23 @@ O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `o
 3. **ARMADILHA DO VERIFICADOR (nova):** todo caminho `.md`/`.txt` **entre crases** vira documento-fonte declarado — escrever `V3.10.05-krishna.md` ou `original.txt` assim **aborta** a verificação. Citar remissão interna sem extensão e sem crases.
 4. **36 falhas de verbatim**, a maioria período **dentro** da aspa quando a ficha o traz **fora** (`…colapsou";`). O passo automático não pega — é manual.
 5. **`sub()` por prefixo, não por string inteira:** vários verbetes repetem a mesma aspa no corpo e em «Na voz do autor»; localizar com regex `«([^»]*)»` e contar ocorrências antes de substituir (evita os asserts quebrados desta sessão).
+
+---
+
+## 08/09/2026 — Lote 9: as fontes e as chaves (6 verbetes, 6.589 palavras)
+
+`RC-094` Revelação Cósmica (II.6.1, 1.265 p.) · `RC-166` Mentalma (IV.18.2, 1.161) · `RC-263` Sefirot (I.3.2, 1.112) · `RC-695` Ciência Pessoal (IV.20.1, 1.048) · `RC-716` PIA (II.8.1, 1.014) · `RC-024` Anunnakis (III.13.2, 989).
+
+**Acumulado: 54 verbetes · 1.461 verbatim · 623 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+**O lote das fichas curtas:** quatro de seis nós têm ficha entre 358 e 1.995 palavras; `RC-716` (572) e `RC-695` (678) são os menores lastros já trabalhados. Nesses casos **o verbete ficou maior que a ficha**, sustentado pela rede (remissivas + costura entre fontes), nunca por invenção.
+
+**Achado de `RC-263`:** a Árvore da Vida, na fonte, **sobe** — «É uma representação que Enoque, um humano, criou»; «um joguinho que Enoque humano criou pros seres demos jogarem».
+
+**Dez aspas nossas foram desafetadas** («crença passiva», «Espelho como faixa de realidade», «paralelo mas intimamente ligado», «copiado de onde podia», «por conteúdo, não por data»…). Regra que se confirma a cada lote: em «Tensões», expressão do redator **não** vai entre «».
+
+**Rotina de correção estabilizada:** `sub(arquivo, prefixo, novo, qtd)` localiza por regex `«([^»]*)»` e exige a contagem — porque a mesma aspa costuma aparecer 2× (corpo + «Na voz do autor»). Foi o que quebrou os asserts deste lote (3×).
+
+**Renomeação:** `V2.06.01-RC152-prabrajna.md` (II.6.1 compartilhado com `RC-094`).
+
+**Próximos seis:** `RC-715` (17) · `RC-099` (16) · `RC-167` (16) · `RC-565` (16) · `RC-701` (16) · `RC-378` (15).
