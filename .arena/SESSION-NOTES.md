@@ -504,3 +504,28 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 10. **Renomeação:** `V3.14.03-RC586`. Endereço novo: V.23.2.
 
 **5º anel (grau 7), lote 26:** RC-078 Lúcifer (2.220 p.) · RC-049 Demos (1.494) · RC-071 Jan Val Ellam (1.319) · RC-408 ADHYMAVATANA (1.063) · RC-147 Zont En Drel 29 (1.011) · RC-411 Gênero Adhy (839).
+
+---
+
+## 09/09/2026 — Lote 26: ABERTURA DO 5º ANEL, GRAU 7 (7 verbetes, 5.789 palavras)
+
+`RC-078` Lúcifer (III.12.1, **1.349 p. — longo**) · `RC-071` Jan Val Ellam (I.1.1, 778) · `RC-147` Zont En Drel 29 (III.13.3, 756) · `RC-411` Gênero Adhy (III.13.5, 734) · `RC-408` ADHYMAVATANA (III.10.3, 734) · `RC-342` Quarentena Sideral (III.12.4, 729) · `RC-049` Demos (III.12.1, 709).
+
+**Acumulado: 159 verbetes · 3.835 verbatim · 1.665 códigos · 0 falhas** · Base intacta · 0 código criado. **Grau 7: 26 restantes** de 344 nós redigíveis.
+
+1. **RC-078 = 1º verbete 🟢 verificado deste ciclo** (2.220 p., 13 ampliações). RC-049 também 🟢.
+2. **Frase mais humana da enciclopédia:** «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante» (o «o o» é do STT).
+3. **RC-078 inverte a leitura cristã:** ele não é o «diabo» — é um biodemo rebelde cuja ação possibilitou o despertar mental.
+4. **RC-071 = QUARENTENA BIOGRÁFICA ATIVA**, a regra mais rigorosa da enciclopédia sobre pessoa viva: «jamais a vida pessoal»; relatos «como leitura/registro, nunca como fato ontológico». **O verbete descreve uma função, não uma biografia.**
+5. **RC-049 escolhe «demo = demente»** — *daímon* não significa isso em grego; a escolha é da obra e o verbete a explicita.
+6. **RC-147 = o anjo que sente**; **o indivíduo é um índice** (29º da linhagem).
+7. **RC-411 declara o empréstimo da taxonomia biológica**; números instáveis não harmonizados.
+8. **RC-408 = composto RC** (a ficha o diz); *adhyātman/adhibhūta/adhidaiva/adhiyajña* são categorias reais indianas.
+9. **RC-342 = termo da 1ª fase (1999)** ≠ Isolamento Cósmico (RC-070) — **não fundidos**.
+10. **Falhas 25 → 0 (maior nº já registrado), quase todas do mesmo tipo: negrito da Base atravessado na aspa** (RC-078 concentrou 11 — ficha densamente negritada). Remédio canônico: partir em duas.
+11. **Novidades:** elisão nossa no bloco «Na voz do autor» (RC-078); **colchetes inventados** (RC-411 «prevale[cer]», RC-071 «neu[ronais]»); palavra trocada («neuronais» × «neurais»).
+12. **Instrumento novo:** diagnóstico que localiza o trecho-fonte ao redor da maior correspondência de cada aspa reprovada. **25 falhas resolvidas em 3 rodadas.**
+13. **2 rótulos corrigidos:** RC-031 = Aya e Aye (o glossário é o LIVRO B031, sem código) · RC-011 = Adhy (o gênero é RC-411).
+14. **Renomeação:** `V3.10.03-RC135`. Endereços novos: I.1.1, III.13.3, III.12.4.
+
+**Próximos (grau 7):** RC-553 (952) · RC-488 (914) · RC-264 (757) · RC-541 (595) · RC-470 (523) · RC-465 (458) · RC-496 (433) · RC-480 (278) — 26 no total.
