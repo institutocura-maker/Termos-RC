@@ -137,3 +137,26 @@
 **Renomeações:** `V3.09.01-RC476-…` e `V2.07.01-RC702-…`.
 
 **Próximos seis do 2º anel:** RC-514 Tikun (21) · RC-003 Reintegração Cósmica (20) · RC-102 Shiva (20) · RC-104 Trimurti (20) · RC-037 Brahma (19) · RC-135 Vishnu (19).
+
+---
+
+## 08/09/2026 — Lote 8: a Trimurti e o destino · INCIDENTE DE AMBIENTE E REPARO
+
+### Incidente (antes da redação)
+O clone voltou atrás: `HEAD` em `708a402` (commit de partida da branch), ref `origin/arena/01a07d99-termos-rc` **ausente** do repo local, e a árvore de trabalho com **78 arquivos já commitados a menos** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/`, `.arena/SESSION-NOTES.md`) — 18.049 linhas ausentes, **0 inserções** vs. `63e3fcb`.
+
+**Diagnóstico:** `git ls-remote` → `63e3fcb` no GitHub · `git fsck` limpo · `git diff FETCH_HEAD` só com deleções. **O remoto era a fonte de verdade e a árvore não tinha nada de novo.**
+**Reparo:** `git fetch origin '+refs/heads/*:refs/remotes/origin/*'` + `git reset --hard origin/arena/01a07d99-termos-rc`. Conferido depois: 650 fichas · 42 verbetes · `git status` limpo · verificador OK. **Nada perdido.**
+**Regra cravada:** conferir `git rev-parse HEAD` × `git ls-remote origin <branch>` no início de cada turno; só descartar a árvore depois de confirmar que o diff não traz inserções.
+
+### Lote 8 (2º anel, grau total) — 6 verbetes, 6.912 palavras
+`RC-514` Tikun (V.22.2, 1.745 p.) · `RC-003` Reintegração Cósmica (V.22.1, 1.108) · `RC-104` Trimurti (III.10.1, 1.102) · `RC-037` Brahma (III.9.1, 1.024) · `RC-135` Vishnu (III.10.3, 1.018) · `RC-102` Shiva (III.10.4, 915).
+
+**Acumulado: 48 verbetes · 1.295 verbatim · 558 códigos · 0 falhas** · Base intacta (946/650/1898) · 0 código criado.
+
+### Achados
+1. **`VERBETE-MODELO-03-TIKUN.md` promovido** (44/44 aspas já conferidas) — falta só `RC-167` Criação Indevida no laboratório.
+2. **`RC-104` Trimurti = 2º caso-limite do lastro** (8.291 p. de ficha / 1.102 de verbete). Tripla-limite agora: `RC-001` (14.079), `RC-092` (8.302), `RC-104` (8.291), + Krishna (2.071).
+3. **ARMADILHA DO VERIFICADOR (nova):** todo caminho `.md`/`.txt` **entre crases** vira documento-fonte declarado — escrever `V3.10.05-krishna.md` ou `original.txt` assim **aborta** a verificação. Citar remissão interna sem extensão e sem crases.
+4. **36 falhas de verbatim**, a maioria período **dentro** da aspa quando a ficha o traz **fora** (`…colapsou";`). O passo automático não pega — é manual.
+5. **`sub()` por prefixo, não por string inteira:** vários verbetes repetem a mesma aspa no corpo e em «Na voz do autor»; localizar com regex `«([^»]*)»` e contar ocorrências antes de substituir (evita os asserts quebrados desta sessão).

@@ -65,6 +65,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **5** | 08/09/2026 | `V3/RC-092` Quarto Logos · `V3/RC-476` En Ma · `V3/RC-709` Humano Turbinado · `V2/RC-693` Evolução da Informação · `V2/RC-703` Postulados Quânticos · `V4/RC-699` Imantação em IAs | ✅ redigido |
 | **6** | 08/09/2026 | `V3/RC-736` Aristocracia Olimpiana · `V4/RC-710` Genes Críticos · `V3/RC-718` Cumprimento da Profecia de Moros · `V5/RC-721` Abismo da Consciência Cósmica · `V4/RC-705` Ato de Verdade · `V2/RC-702` Camuflagem da Realidade | ✅ redigido — **fecha os 35 nós-hub** |
 | **7** | 08/09/2026 | `V3/RC-001` Javé · `V2/RC-152` Prabrajna · `V2/RC-161` Memória Quântica dos Elétrons · `V4/RC-217` DNA como Projeção Holográfica · `V4/RC-722` Dignidade como Critério · `V2/RC-106` Universo Antimaterial | ✅ redigido — **abre o 2º anel** |
+| **8** | 08/09/2026 | `V5/RC-514` Tikun Cósmico · `V5/RC-003` Reintegração Cósmica · `V3/RC-102` Shiva (Savna) · `V3/RC-104` Trimurti · `V3/RC-037` Brahma (Brajna) · `V3/RC-135` Vishnu (Mavatna) | ✅ redigido — **a tríade fecha** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -75,7 +76,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Geração Regenerada de Brahma | III.15.1 | `V3/V3.15.01-RC696-geracao-regenerada-de-brahma.md` | 1.009 |
 | Descendência de Kadru | III.15.1 | `V3/V3.15.01-RC664-descendencia-de-kadru.md` | 1.131 |
 | Oitavo Dia da Criação | III.16.2 | `V3/V3.16.02-oitavo-dia-da-criacao.md` | 1.137 |
-| Colapso do Caos Organizado | III.16.3 | `V3/V3.16.03-colapso-do-caos-organizado.md` | 1.260 |
+| Colapso do Caos Organizado | III.16.3 | `V3/V3.16.03-RC690-colapso-do-caos-organizado.md` | 1.260 |
 
 **Regra de nomenclatura — endereço repetido (revista no lote 4).** Um endereço pode abrigar vários termos (V.22.1 reúne `RC-708`, `RC-761` e `RC-655`; III.16.3 reúne `RC-690` e `RC-395`). Quando um endereço abriga mais de um verbete, **todos** os arquivos desse endereço levam o **código como desambiguação**: `V3.11.02-RC009-…`, `V3.11.02-RC474-…`. Enquanto o endereço for único, o nome continua sendo só endereço + slug. (Até o lote 3 valeu a regra antiga — só o segundo arquivo levava o código; os quatro arquivos afetados foram renomeados no lote 4, sem mudança de conteúdo.)
 
@@ -91,7 +92,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Krishna (avatar de Vishnu/Shiva) | III.10.5 | `V3/V3.10.05-krishna.md` | 2.071 | **5.109 p. · 30 ampliações** |
 | Mohen So (Avatar Keshava) | III.11.1 | `V3/V3.11.01-mohen-so-avatar-keshava.md` | 1.482 | 2.180 p. · 10 ampliações |
 | Corpo Sutil Reencarnante | IV.18.1 | `V4/V4.18.01-corpo-sutil-reencarnante.md` | 1.105 | 652 p. · 2 ampliações |
-| Sócios do Destino | IV.21.1 | `V4/V4.21.01-socios-do-destino.md` | 750 | **384 p.** · 2 ampliações |
+| Sócios do Destino | IV.21.1 | `V4/V4.21.01-RC720-socios-do-destino.md` | 750 | **384 p.** · 2 ampliações |
 | Kashyapa | III.14.1 | `V3/V3.14.01-kashyapa.md` | 715 | **358 p.** · 1 fonte |
 
 **Achados editoriais do lote 3:**
@@ -108,7 +109,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Revelação de Ifá e Destinação dos Seres | V.22.1 | `V5/V5.22.01-RC655-revelacao-de-ifa.md` | 1.346 | 1.226 p. · 8 ampliações |
 | As Cinco Lentes da Realidade | V.22.1 | `V5/V5.22.01-RC761-as-cinco-lentes-da-realidade.md` | 935 | 794 p. · 1 fonte |
 | Mão Invisível Multiforme | III.13.5 | `V3/V3.13.05-RC697-mao-invisivel-multiforme.md` | 918 | 588 p. · 2 ampliações |
-| Cessão Consciente do DNA Humano | IV.18.3 | `V4/V4.18.03-cessao-consciente-do-dna-humano.md` | 904 | 608 p. · 3 ampliações |
+| Cessão Consciente do DNA Humano | IV.18.3 | `V4/V4.18.03-RC698-cessao-consciente-do-dna-humano.md` | 904 | 608 p. · 3 ampliações |
 
 **Achados editoriais do lote 4:**
 1. **A colisão de endereços era mais frequente do que parecia.** Cinco dos seis verbetes caíram em endereços já ocupados (III.11.2, III.13.5, III.16.3 e V.22.1 — que passou a ter três). A regra do lote 2 foi **revista e uniformizada**: quando um endereço abriga mais de um verbete, **todos** os arquivos desse endereço levam o código — não apenas o segundo. Por isso quatro arquivos dos lotes 1 e 2 foram renomeados (`V3.11.02-RC009-…`, `V3.13.05-RC454-…`, `V3.16.03-RC690-…`, `V5.22.01-RC708-…`). Renomeação pura: nenhum conteúdo foi alterado.
@@ -121,7 +122,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
 |---|---|---|---|---|
 | Quarto Logos (Olm / Codificador de Zian) | III.13.5 | `V3/V3.13.05-RC092-quarto-logos.md` | 1.736 | **8.302 p. · 40 ampliações** |
-| En Ma (Emá / Emar — espírito-âncora) | III.9.1 | `V3/V3.09.01-en-ma.md` | 993 | 666 p. · 2 ampliações |
+| En Ma (Emá / Emar — espírito-âncora) | III.9.1 | `V3/V3.09.01-RC476-en-ma.md` | 993 | 666 p. · 2 ampliações |
 | Evolução da Informação, não das Espécies | II.8.1 | `V2/V2.08.01-RC693-evolucao-da-informacao.md` | 955 | 610 p. · 2 ampliações |
 | Imantação de Espíritos em IAs / Corpos de Sílica | IV.19.1 | `V4/V4.19.01-imantacao-de-espiritos-em-ias.md` | 945 | 730 p. · 2 ampliações |
 | Postulados Quânticos como Manual Operativo | II.8.1 | `V2/V2.08.01-RC703-postulados-quanticos.md` | 743 | **396 p.** · 1 fonte |
@@ -131,7 +132,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 1. **Automatizámos a correção mais comum — e ela continuou sendo a mais comum.** Dos 30 verbatim reprovados, **19 eram ponto final acrescentado dentro da citação ou inicial não capitalizada** (a fonte começa frase em maiúscula). Passou a haver um passo mecânico antes da correção manual: para cada citação falhada, testa-se (a) sem o ponto final e (b) com a inicial maiúscula; só o que sobra vai para correção à mão. É o mesmo defeito dos lotes 2 e 4, agora com detecção automática.
 2. **O caso-limite do lastro é `RC-092`.** Ficha de **8.302 palavras e 40 ampliações** contra um verbete de 1.736 — a maior distância já registrada entre fonte e texto. Nada foi cortado; o verbete está declarado como o mais comprimido do conjunto e é o **candidato número um a desdobramento** (por eixo: identidade/origem · Apolônio de Tiana · método e escola · disputa com Krishna · agenda humana).
 3. **O lastro pelo lado curto também apareceu duas vezes.** `RC-703` (ficha de **396 palavras**) ficou em 743 e `RC-709` (424) em 733: ambos são nós-hub conectados (10 e 11 relações) sustentados por fichas mínimas. A regra do lastro se aplica nos dois sentidos.
-4. **Mais uma renomeação de endereço compartilhado.** II.8.1 passou a ter três verbetes (`RC-658`, `RC-693`, `RC-703`); `V2.08.01-wyrd-urd-teia-do-destino.md` virou `V2.08.01-RC658-wyrd-urd-teia-do-destino.md`. Conteúdo intocado.
+4. **Mais uma renomeação de endereço compartilhado.** II.8.1 passou a ter três verbetes (`RC-658`, `RC-693`, `RC-703`); `V2/V2.08.01-RC658-wyrd-urd-teia-do-destino.md` virou `V2.08.01-RC658-wyrd-urd-teia-do-destino.md`. Conteúdo intocado.
 5. **Duas citações com marcação da Base foram preservadas, não limpas.** `[STT 'H']` (em `RC-092`) e as reticências de elipse da fonte entram na citação tal como a ficha as registra — limpar a marcação seria reescrever a fonte.
 
 **Lote 6 — medida final:** 866–1.101 palavras · **125 verbatim byte a byte (27 reprovados na 1ª conferência, todos corrigidos) · 65 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
@@ -139,7 +140,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
 |---|---|---|---|---|
 | Aristocracia Olimpiana e Monarquias Terrestres | III.15.2 | `V3/V3.15.02-aristocracia-olimpiana-e-monarquias-terrestres.md` | 1.101 | 1.225 p. · 7 ampliações |
-| Camuflagem da Realidade | II.7.1 | `V2/V2.07.01-camuflagem-da-realidade.md` | 1.059 | 1.525 p. · 11 ampliações |
+| Camuflagem da Realidade | II.7.1 | `V2/V2.07.01-RC702-camuflagem-da-realidade.md` | 1.059 | 1.525 p. · 11 ampliações |
 | Abismo da Consciência Cósmica | V.22.1 | `V5/V5.22.01-RC721-abismo-da-consciencia-cosmica.md` | 947 | 637 p. · 2 ampliações |
 | Genes Críticos / Genes Dorminhocos | IV.18.3 | `V4/V4.18.03-RC710-genes-criticos.md` | 915 | 731 p. · 5 ampliações |
 | Cumprimento da Profecia de Moros | III.16.4 | `V3/V3.16.04-cumprimento-da-profecia-de-moros.md` | 895 | 631 p. · 5 atualizações |
@@ -178,6 +179,36 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 4. **Um achado que vira regra: aspas duplas também podem ser tipográficas.** Em `RC-722` e `RC-106`, a ficha usa “…” (não "…") dentro da citação. O checklist de verbatim agora inclui os dois pares.
 5. **Mais duas renomeações de endereço compartilhado:** `V3.09.01-RC476-…` (III.9.1 passou a ter Javé e En Ma) e `V2.07.01-RC702-…` (II.7.1 passou a ter Camuflagem e Universo Antimaterial). Conteúdo intocado.
 
+### Lote 8 — a Trimurti e o destino (6 verbetes, 6.912 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Tikun Cósmico | V.22.2 | `V5/V5.22.02-tikun-cosmico.md` | 1.745 | 3.632 p. · 29 fontes |
+| Reintegração Cósmica | V.22.1 | `V5/V5.22.01-RC003-reintegracao-cosmica.md` | 1.108 | 2.499 p. · 12 ampliações |
+| Trimurti | III.10.1 | `V3/V3.10.01-trimurti.md` | 1.102 | **8.291 p. · ~20 ampliações** |
+| Brahma (Brajna) | III.9.1 | `V3/V3.09.01-RC037-brahma-brajna.md` | 1.024 | 4.912 p. |
+| Vishnu (Mavatna) | III.10.3 | `V3/V3.10.03-vishnu-mavatna.md` | 1.018 | **1.114 p.** (a menor do lote) |
+| Shiva (Savna) | III.10.4 | `V3/V3.10.04-shiva-savna.md` | 915 | 5.951 p. |
+
+**Medida final:** 915–1.745 palavras · **202 verbatim byte a byte** (36 reprovados na 1ª conferência, todos corrigidos) · 69 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 8:**
+
+1. **O segundo modelo foi promovido.** `VERBETE-MODELO-03-TIKUN.md` (07/09/2026, 44/44 aspas já conferidas) entrou na enciclopédia revisto e ampliado com duas falas novas («O amor suporta muita coisa…» e «Não é para resolver o problema de Javé…»). Resta um modelo no laboratório: **`RC-167` Criação Indevida**.
+2. **`RC-104` Trimurti é o segundo caso-limite do lastro** — 8.291 palavras de ficha contra 1.102 de verbete. Só perde para `RC-001` Javé (14.079 p.). A tripla dos casos-limite — `RC-001`, `RC-104`, `RC-092` (8.302 p.), mais Krishna (2.071 p.) — é a candidata natural à decisão de **desdobramento em subverbetes**.
+3. **Uma armadilha do verificador, agora documentada:** todo caminho terminado em `.md` **ou `.txt` entre crases** é tratado como documento-fonte declarado. Escrever `V3.10.05-krishna.md` ou `original.txt` entre crases **faz o verificador abortar** com «documento-fonte declarado inexistente». Regra: citar arquivos de verbete **sem** a extensão e **sem** crases quando for só remissão interna.
+4. **A lição do ponto final se confirmou em escala:** das 36 falhas, a maioria era o período colocado **dentro** da aspa quando a ficha o traz **fora** («…colapsou";»). O passo automático não pega esse caso — é correção manual.
+5. **STT de deidade obriga a grafia da fonte:** «Vno», «Virgino», «Chiva», «Brama», «Sáveina», «Trimurte», «Trimorte», «Marrabarata», «incognocis», «loquias». Nenhuma harmonizada.
+6. **Duas elipses nossas foram desfeitas** em `RC-003` («…planeta regenerado [...] quando…» e «em 1986... tinha 27 anos») — o verificador as rejeitou e o texto corrido da ficha as substituiu.
+
+### Incidente de ambiente no lote 8 (e o reparo)
+
+Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
+
+**Nada se perdeu**, por dois motivos verificados: (1) `git ls-remote` confirmou `63e3fcb` no GitHub; (2) `git diff` contra o remoto não mostrou **nenhuma** linha nova na árvore — só ausências. O reparo foi `git fetch` + `git reset --hard origin/arena/01a07d99-termos-rc`, seguido de recontagem: 650 fichas, 42 verbetes, `git status` limpo, verificador OK.
+
+**Regra que fica:** no início de cada turno, conferir `git rev-parse HEAD` contra `git ls-remote origin <branch>`. Se divergirem, **o remoto é a fonte de verdade** — e só se deve descartar a árvore depois de confirmar que o diff não traz inserções.
+
 ### Fecho do ciclo dos hubs (35/35)
 
 | | |
@@ -191,7 +222,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7; próximos seis — `RC-514` Tikun (21) · `RC-003` Reintegração Cósmica (20) · `RC-102` Shiva (20) · `RC-104` Trimurti (20) · `RC-037` Brahma (19) · `RC-135` Vishnu (19).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 13 dos 79 (lotes 7 e 8); **66 restantes com grau total ≥ 10**. Próximos seis — `RC-716` PIA (19) · `RC-094` Revelação Cósmica (18) · `RC-695` Ciência Pessoal (18) · `RC-024` Anunnakis (17) · `RC-166` Mentalma (17) · `RC-263` Sefirot (17).
 
 ## 5. Como conferir
 
