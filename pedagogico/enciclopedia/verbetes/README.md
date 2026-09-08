@@ -75,6 +75,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **15** | 09/09/2026 | `V5/RC-770` Hipóstase dos Arcontes · `V3/RC-455` Pashvnaj · `V3/RC-036` Biodemos · `V4/RC-755` Escola da Decifração · `V4/RC-091` Projeto Talm · `V3/RC-638` Ressurreição do Cadáver do Criador | ✅ redigido — **as fontes externas e o enxerto** |
 | **16** | 09/09/2026 | `V3/RC-611` Flechas de Moros · `V3/RC-486` Enki · `V4/RC-623` Corpo Átmico · `V3/RC-530` Pistis Sophia · `V3/RC-586` Rishis · `V3/RC-556` Senhor Parameshthi | ✅ redigido — **os nomes de um só nó** |
 | **17** | 09/09/2026 | `V3/RC-734` Samudra Manthana · `V4/RC-332` Favor Divino · `V3/RC-645` Consciências em Corpos de Sílica · `V3/RC-261` Kether · `V2/RC-107` Universo Material · `V4/RC-335` Lavagem Cerebral | ✅ redigido — **a inversão** |
+| **18** | 09/09/2026 | `V4/RC-619` Genoma da Liberdade · `V2/RC-636` Duas Pulsações · `V2/RC-596` Archeons de Ereon · `V3/RC-610` Tridevi · `V3/RC-571` Ano de 2012 · `V3/RC-475` Deva / Aurora | ✅ redigido — **o que a fonte recusa** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -414,6 +415,30 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 5. **Falhas: 30 → 11 → 0.** Das onze restantes, **sete eram nossas** — quatro elisões com «...» sobre texto contínuo, duas paráfrases como se fossem fala, e uma tentativa de «melhorar» o STT por dentro da aspa: escrevemos «acima da [dos] deuses» onde a fala diz «acima da Deus». **A solução honesta não é corrigir a fonte: é encerrar a citação antes do trecho.**
 6. **Renomeação:** `V3.13.04-RC709-…`. III.9.1 passa a seis verbetes e II.7.1 a cinco — os dois maiores blocos da enciclopédia.
 
+### Lote 18 — o que a fonte recusa (6 verbetes, 6.108 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| Genoma da Liberdade | IV.18.3 | `V4/V4.18.03-RC619-genoma-da-liberdade.md` | **1.278** | 1.109 p. |
+| Archeons de Ereon | II.7.2 | `V2/V2.07.02-RC596-archeons-de-ereon.md` | 1.106 | 839 p. |
+| Duas Pulsações da Criação | II.8.2 | `V2/V2.08.02-RC636-duas-pulsacoes.md` | 996 | **1.823 p.** |
+| Ano de 2012 como Divisor | III.16.2 | `V3/V3.16.02-RC571-ano-de-2012.md` | 913 | 514 p. |
+| Deva / Aurora | III.9.1 | `V3/V3.09.01-RC475-deva-aurora.md` | 919 | **481 p.** |
+| Tridevi | III.15.1 | `V3/V3.15.01-RC610-tridevi.md` | **896** | 595 p. |
+
+**Medida final:** 896–1.278 palavras · **155 verbatim byte a byte** (44 reprovados na 1ª conferência, todos corrigidos) · 61 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 18:**
+
+1. **O eixo é a recusa — e ela vem da fonte, não de nós.** «Eu coloquei o nome rebelião, mas esse nome não é adequado» (`RC-636`); «eu não tenho orientação ética para me referir a essa questão... eu não posso falar feito um fofoqueiro espiritual» (`RC-610`); «esses caras estão nem aí pro calendário da gente» (`RC-571`). **A enciclopédia registra o limite ético e nominal que a própria obra se impõe.**
+2. **`RC-619` Genoma da Liberdade é o melhor verbete do lote** e traz o único lastro acadêmico do grupo: a **tese de Julian Jaynes** (a mente bicameral), usada como divisor histórico de 2.700 anos — ao lado de Pandora, Enki e do gene **FOXP2** (que é real).
+3. **A quarentena mais explícita de toda a enciclopédia está em `RC-619`, e é da ficha:** «"genoma" e "programa" são metáforas/teses internas da RC nesta passagem; não são promessa de reprogramação genética, cura ou tratamento». O verbete a reproduz na íntegra, com as aspas curvas da fonte.
+4. **`RC-636` é onde física e tese mais se encostam:** elétrons, antielétrons e entrelaçamento quântico são física real; **memória e dor de elétrons, não são**. O verbete não funde as duas camadas.
+5. **`RC-596` mapeia cinco nomes que não existem fora da obra** (Antérion, Danérion, Mermérion, Perpérion, Tempérion) — e a própria ficha dá a chave para não ler o trecho sexual como exotismo: o sexo entra como **via de infecção num argumento sanitário**.
+6. **Falhas: 44 → 7 → 0.** Das sete, **cinco eram nossas**: uma elisão, duas paráfrases como fala, um recorte que perdeu o marcador `[STT 'arquelos']` do curador, e uma composição nossa posta como citação.
+7. **Duas correções fora do verificador:** a remissiva `RC-236` (que não é o código de A Rebelião dos Elétrons) foi corrigida para **`RC-378`**; e uma remissiva a «`RC-610` Ogdóade» foi **removida** — a Ogdóade não tem código na Base.
+8. **Renomeação:** `V3.16.02-RC694-…`. III.9.1 passa a **sete** verbetes — o maior bloco da enciclopédia.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -435,7 +460,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 67 dos 79 (lotes 7–17); **11 restantes com grau total ≥ 10** (`RC-544` fora da fila, por decisão do Curador — a sua ficha fica para o fim, com autorização já dada para o agente escrevê-la a partir de B019 e das palestras do registro-mestre). Próximos seis — `RC-475` Deva / Aurora (10) · `RC-571` Ano de 2012 (10) · `RC-596` Archeons de Ereon (10) · `RC-610` Tridevi (10) · `RC-619` Genoma da Liberdade (10) · `RC-636` Duas Pulsações da Criação (10).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 73 dos 79 (lotes 7–18); **5 restantes com grau total ≥ 10** (`RC-544` fora da fila, por decisão do Curador — a sua ficha fica para o fim, com autorização já dada para o agente escrevê-la a partir de B019 e das palestras do registro-mestre). Próximos cinco — `RC-723` Abismo da Providência (10) · `RC-726` Faixas Espirituais de Ressonância (10) · `RC-727` DNA Insubmisso (10, ficha de 5.780 p.) · `RC-746` Dessensibilização da Condição Humana (10) · `RC-767` Os 256 Caminhos de Orunmilá (10).
 
 ## 5. Como conferir
 

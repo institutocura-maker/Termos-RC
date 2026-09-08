@@ -340,3 +340,22 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 
 **Próximos seis:** RC-475 (10) · RC-571 (10) · RC-596 (10) · RC-610 (10) · RC-619 (10) · RC-636 (10).
 **RC-544:** ficha fica para o fim (decisão do Curador); autorização para o agente escrevê-la já está dada.
+
+---
+
+## 09/09/2026 — Lote 18: o que a fonte recusa (6 verbetes, 6.108 palavras)
+
+`RC-619` Genoma da Liberdade (IV.18.3, 1.278 p.) · `RC-596` Archeons de Ereon (II.7.2, 1.106) · `RC-636` Duas Pulsações da Criação (II.8.2, 996) · `RC-571` Ano de 2012 (III.16.2, 913) · `RC-475` Deva / Aurora (III.9.1, 919) · `RC-610` Tridevi (III.15.1, 896).
+
+**Acumulado: 108 verbetes · 2.618 verbatim · 1.181 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **Eixo = a recusa, e ela vem da fonte:** «Eu coloquei o nome rebelião, mas esse nome não é adequado» (RC-636); «eu não posso falar feito um fofoqueiro espiritual» (RC-610); «esses caras estão nem aí pro calendário da gente» (RC-571).
+2. **`RC-619` = melhor verbete do lote e único lastro acadêmico do grupo:** Julian Jaynes (mente bicameral) como divisor de 2.700 anos, com Pandora, Enki e FOXP2 (gene real).
+3. **Quarentena mais explícita da enciclopédia, da própria ficha de RC-619:** «"genoma" e "programa" são metáforas/teses internas da RC... não são promessa de reprogramação genética, cura ou tratamento». Aspas **curvas**, da fonte.
+4. **`RC-636`: física e tese encostadas** — elétrons e entrelaçamento são reais; memória e dor de elétrons, não. O verbete não funde.
+5. **`RC-596`: cinco nomes que só existem na obra.** A ficha dá a chave: o sexo entra como **via de infecção num argumento sanitário**, não como exotismo.
+6. **Falhas 44 → 7 → 0.** Das 7, **5 nossas**: 1 elisão, 2 paráfrases como fala, 1 recorte que perdeu o `[STT 'arquelos']` do curador, 1 composição nossa como citação.
+7. **Duas correções que o verificador não pega:** remissiva `RC-236` → **`RC-378`** (A Rebelião dos Elétrons); remissiva «`RC-610` Ogdóade» **removida** (a Ogdóade não tem código na Base).
+8. **Renomeação:** `V3.16.02-RC694`. III.9.1 → 7 verbetes.
+
+**Próximos cinco (fecho do 2º anel):** RC-723 (10) · RC-726 (10) · RC-727 (10, ficha de 5.780 p.) · RC-746 (10) · RC-767 (10).
