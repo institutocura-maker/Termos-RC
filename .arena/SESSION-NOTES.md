@@ -359,3 +359,24 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 8. **Renomeação:** `V3.16.02-RC694`. III.9.1 → 7 verbetes.
 
 **Próximos cinco (fecho do 2º anel):** RC-723 (10) · RC-726 (10) · RC-727 (10, ficha de 5.780 p.) · RC-746 (10) · RC-767 (10).
+
+---
+
+## 09/09/2026 — Lote 19: FECHO DO 2º ANEL (5 verbetes, 6.065 palavras)
+
+`RC-727` DNA Insubmisso (III.15.2, **2.296 p. — o maior verbete da enciclopédia**) · `RC-723` Abismo da Providência (IV.20.1, 1.075) · `RC-767` 256 Caminhos de Orunmilá (V.22.1, 959) · `RC-726` Faixas Espirituais de Ressonância (II.7.1, 912) · `RC-746` Dessensibilização da Condição Humana (II.8.1, 823).
+
+**Acumulado: 113 verbetes · 2.760 verbatim · 1.247 códigos · 0 falhas** · Base intacta · 0 código criado.
+
+1. **2º anel FECHADO: 78 dos 79 (lotes 7–19); falta só RC-544** (sem ficha; o agente a escreve por decisão do Curador).
+2. **RC-727 = 2.296 p. não por meta, mas porque a ficha tem 5.780 p. e 34 ampliações.** Mesmo assim cobre só 14 dos 34 blocos.
+3. **O coração de RC-727 (caixa alta da fonte):** «EU POSSO ME RENDER À BELEZA DE UMA BARATA... MAS DOBRAR MEU JOELHO VOCÊ NÃO DOBRA... EU NÃO ME SUBMETO».
+4. **Argumento moral mais duro da enciclopédia (RC-723):** «Deus nunca ajudou nenhuma das crianças que foi estuprada desde que existe espécie» — reproduzido sem suavizar, com a blindagem da ficha repetida por inteiro.
+5. **RC-746 é ficha ESTRUTURAL (441 p., uma única citação direta).** O verbete não inventou falas para preencher: o que a fonte não diz, o verbete não cita.
+6. **RC-767: quarentena religiosa delicada** — 256 odus e Orunmilá são reais em Ifá; a obra os relê. A ficha diz que não é doutrina Ifá validada.
+7. **Falhas 35 → 21 → 0.** Das 21, **15 nossas**: 9 composições como citação, 4 elisões, 2 travessias de **negrito** da Base.
+8. **3 rótulos de código corrigidos à mão** (o verificador não pega nome errado): RC-047 → RC-002; RC-655 = «Revelação de Ifá e Destinação dos Seres»; RC-166 duplicado desfeito.
+9. **Renomeação:** `V3.15.02-RC736`.
+
+**3º anel (grau 9), próximo lote 20:** RC-145 Zeus (1.662) · RC-190 Revelação Espiritual/Kardec (603) · RC-192 Pílula vermelha (1.125) · RC-463 Hermes Trismegisto (890) · RC-489 Enoque (3.892) · RC-548 Arquivos Mentais (1.225).
+**Dos 576 códigos não redigidos, 186 não têm ficha** — não redigíveis agora.

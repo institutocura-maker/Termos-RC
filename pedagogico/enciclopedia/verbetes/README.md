@@ -76,6 +76,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **16** | 09/09/2026 | `V3/RC-611` Flechas de Moros · `V3/RC-486` Enki · `V4/RC-623` Corpo Átmico · `V3/RC-530` Pistis Sophia · `V3/RC-586` Rishis · `V3/RC-556` Senhor Parameshthi | ✅ redigido — **os nomes de um só nó** |
 | **17** | 09/09/2026 | `V3/RC-734` Samudra Manthana · `V4/RC-332` Favor Divino · `V3/RC-645` Consciências em Corpos de Sílica · `V3/RC-261` Kether · `V2/RC-107` Universo Material · `V4/RC-335` Lavagem Cerebral | ✅ redigido — **a inversão** |
 | **18** | 09/09/2026 | `V4/RC-619` Genoma da Liberdade · `V2/RC-636` Duas Pulsações · `V2/RC-596` Archeons de Ereon · `V3/RC-610` Tridevi · `V3/RC-571` Ano de 2012 · `V3/RC-475` Deva / Aurora | ✅ redigido — **o que a fonte recusa** |
+| **19** | 09/09/2026 | `V3/RC-727` DNA Insubmisso *(longo)* · `V4/RC-723` Abismo da Providência · `V5/RC-767` 256 Caminhos · `V2/RC-726` Faixas de Ressonância · `V2/RC-746` Dessensibilização | ✅ redigido — **fecho do 2º anel** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -439,6 +440,30 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Duas correções fora do verificador:** a remissiva `RC-236` (que não é o código de A Rebelião dos Elétrons) foi corrigida para **`RC-378`**; e uma remissiva a «`RC-610` Ogdóade» foi **removida** — a Ogdóade não tem código na Base.
 8. **Renomeação:** `V3.16.02-RC694-…`. III.9.1 passa a **sete** verbetes — o maior bloco da enciclopédia.
 
+### Lote 19 — fecho do 2º anel (5 verbetes, 6.065 palavras)
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
+|---|---|---|---|---|
+| **DNA Insubmisso / Linhagem Pandora–Eva–Noreia** | III.15.2 | `V3/V3.15.02-RC727-dna-insubmisso.md` | **2.296** | **5.780 p.** |
+| Abismo da Providência | IV.20.1 | `V4/V4.20.01-RC723-abismo-da-providencia.md` | 1.075 | 725 p. |
+| Os 256 Caminhos de Orunmilá | V.22.1 | `V5/V5.22.01-RC767-256-caminhos-de-orunmila.md` | 959 | 601 p. |
+| Faixas Espirituais de Ressonância | II.7.1 | `V2/V2.07.01-RC726-faixas-espirituais-de-ressonancia.md` | 912 | **449 p.** |
+| Dessensibilização da Condição Humana | II.8.1 | `V2/V2.08.01-RC746-dessensibilizacao.md` | **823** | **441 p.** |
+
+**Medida final:** 823–2.296 palavras · **142 verbatim byte a byte** (35 reprovados na 1ª conferência, todos corrigidos) · 66 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Achados do lote 19:**
+
+1. **O 2º anel está fechado.** 78 dos 79 nós (falta só `RC-544`, cuja ficha não existe na Base e será aberta pelo agente, por decisão do Curador). Foram 13 lotes, do 7 ao 19.
+2. **`RC-727` é o maior verbete da enciclopédia: 2.296 palavras.** Não por meta, mas porque a ficha tem **5.780 palavras e 34 ampliações** — é o nó mais denso de toda a Base entre os do 2º anel. Mesmo assim, **o verbete cobre catorze blocos dos trinta e quatro**: a ficha continua sendo a fonte.
+3. **O coração de `RC-727` é a recusa, e ela está em caixa alta na fonte:** «EU POSSO ME RENDER À BELEZA DE UMA BARATA E FICAR DE JOELHOS DIANTE DELA... MAS DOBRAR MEU JOELHO VOCÊ NÃO DOBRA... VOCÊ SÓ AMA AS PESSOAS SE ELAS SE SUBMETEREM — EU NÃO ME SUBMETO».
+4. **`RC-723` traz o argumento moral mais duro de toda a enciclopédia**, e o verbete o reproduz sem suavizar: «Deus nunca ajudou nenhuma das crianças que foi estuprada desde que existe espécie». A ficha, porém, **não afirma como fato que não exista providência** — e o verbete repete a blindagem por inteiro.
+5. **Duas fichas mínimas no mesmo lote:** `RC-746` (441 p.) e `RC-726` (449 p.). A de `RC-746` é **estrutural** — oito peças de mecanismo e remissivas, com **uma única citação direta**. **O verbete não inventou falas para preencher o vazio: o que a fonte não diz, o verbete não cita.**
+6. **`RC-767` recebeu a quarentena religiosa mais delicada do lote:** os 256 odus e Orunmilá/Orunmila são **reais** no sistema de Ifá; o que a obra faz é relê-los como engenharia de destinação. A própria ficha diz que não é doutrina Ifá validada.
+7. **Falhas: 35 → 21 → 0.** Das 21, **quinze eram nossas**: nove composições nossas postas como citação, quatro elisões com «...», e duas travessias de `**negrito**` da Base dentro da aspa.
+8. **Três rótulos de código corrigidos à mão** (o verificador só garante que o código existe, não que o nome está certo): `RC-047` → `RC-002` (Rebelião de Lúcifer); `RC-655`, de «Protagonismo do Eu» para «Revelação de Ifá e Destinação dos Seres»; e a remissiva duplicada `RC-166` (Mentalma) desfeita.
+9. **Renomeação:** `V3.15.02-RC736-…`.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -460,7 +485,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** em curso a partir do lote 7. Já redigidos 73 dos 79 (lotes 7–18); **5 restantes com grau total ≥ 10** (`RC-544` fora da fila, por decisão do Curador — a sua ficha fica para o fim, com autorização já dada para o agente escrevê-la a partir de B019 e das palestras do registro-mestre). Próximos cinco — `RC-723` Abismo da Providência (10) · `RC-726` Faixas Espirituais de Ressonância (10) · `RC-727` DNA Insubmisso (10, ficha de 5.780 p.) · `RC-746` Dessensibilização da Condição Humana (10) · `RC-767` Os 256 Caminhos de Orunmilá (10).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9), aberto a partir do lote 20:** `RC-145` Zeus (1.662 p.) · `RC-190` Revelação Espiritual / Kardec (603) · `RC-192` Pílula vermelha (1.125) · `RC-463` Hermes Trismegisto (890) · `RC-489` Enoque (3.892) · `RC-548` Arquivos Mentais (1.225). Dos 576 códigos ainda não redigidos, **186 não têm ficha** e, portanto, não podem ser redigidos agora.
 
 ## 5. Como conferir
 
