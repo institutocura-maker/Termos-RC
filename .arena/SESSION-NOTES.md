@@ -666,3 +666,33 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 13. **Renomeações:** `V3.12.04-RC342`, `V4.17.04-RC086`.
 
 **Próximos (fecho do 6º anel):** RC-164 Criaturas-ferramenta · RC-163 Mente Universal (Emergente) · RC-154 Nidana (ovo cósmico) · RC-148 Agentes da Vida Universal · RC-074 Len Mion (Satã) · RC-002 Rebelião de Lúcifer — os 6 últimos do grau 6.
+
+---
+
+## 09/09/2026 — Lote 32: FECHO DO 6º ANEL, GRAU 6 (6 verbetes, 6.155 palavras)
+
+**Despacho do Curador: «Ok, em frente com o próximo lote [que] fecha o 6º anel»** — RC-002, RC-074, RC-164, RC-148, RC-154, RC-163.
+
+`RC-002` Rebelião de Lúcifer (III.12.1, **1.550**) · `RC-074` Len Mion (III.12.2, **1.156**) · `RC-164` Criaturas-ferramenta (IV.21.1, 994) · `RC-148` Agentes da Vida Universal (IV.17.2, 959) · `RC-154` Nidana (II.6.1, 860) · `RC-163` Mente Universal (V.22.4, **636**).
+
+**GRAU 6 = 0. 6º ANEL FECHADO.** Acumulado: **215 verbetes** · 5.101 verbatim · 2.224 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **435 nós redigíveis · 39 com grau 5.**
+
+**Medida do anel (lotes 28–32): 30 verbetes, 28.822 palavras, 761 verbatim.**
+
+1. **Ambiente estável:** HEAD = remoto = `3cafeca` na abertura.
+2. **RC-002 = 12ª maior ficha do acervo (5.183 p.)** — o evento de ruptura do corpus.
+3. **Tese de RC-002 é sanitária, não moral:** «o nome disso é quarentena»; o isolamento partiu dos próprios doentes, «não foi uma decisão de Sofia».
+4. **A virada está datada:** «deixou de ser uma questão de saúde pública e se tornou um movimento de antagonismo a Sofia».
+5. **A fonte nega a leitura gnóstica clássica:** «não foi porque I Luzbell olhou muito tempo para um abismo...» — queda = infecção, não insight.
+6. **Legado involuntário:** «maior legado da humanidade: A liberdade» (B057, contracapa).
+7. **Cronologia de RC-002 não harmonizada** (742/687/619 mil × 740/742/687 × 700 mil; 200 bi × 213 bi) — a ficha diz «precisa ser confirmada».
+8. **RC-074 = 2º 🟢 verificado do ciclo** (depois de RC-078). **Quarentena política aplicada:** material de B039 e sinopse de B018 (p. 147) marcados **fora** — não citados nem desenvolvidos. «Ritler» retirado do rol de STT por isso.
+9. **Voz de Yel Luzbel isolada (O-7)** — «leitura do ser, não fato ontológico»; em B058, isolamento total (sem prefácio de Ellam).
+10. **RC-074: a obra atribui a si a «'pólvora' certa» e a cada um a «inclinação»** — «responsabilidade de cada um, e não somente sua».
+11. **RC-163 = único verbete do 6º anel sem aspas de fonte primária direta** (ficha = síntese de leitura, materialização F045). **Nenhuma citação inventada.**
+12. **RC-163 fecha o Volume V** («Destino final do Volume V da Enciclopédia»). **Endereço novo V.22.4.**
+13. **RC-154 declara as lacunas em vez de preenchê-las:** RC-153 sem aresta/sem arquivo; RC-693 sem aresta.
+14. **Falhas 11 → 0:** 5 quebra de linha da própria ficha atravessada na aspa (RC-164 ×4, RC-148 ×1) · 4 expressão nossa aspirada · 1 elisão nossa · 1 caixa inicial. **NOVO TIPO DE ERRO REGISTRADO: a aspa da fonte salta de linha no meio da frase** (o recorte precisa parar antes da quebra e recomeçar depois).
+15. **Endereços novos: III.12.2, IV.17.2, V.22.4.** Sem renomeações.
+
+**Próximos (abertura do 7º anel, grau 5):** RC-763 As Sete Leis Herméticas · RC-759 Jainismo · RC-757 Vaishnavismo · RC-753 Estrangulamento Cognitivo · RC-752 Agenda Espiritual · RC-750 Moisés e o Êxodo — 39 no total.

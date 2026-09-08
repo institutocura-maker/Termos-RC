@@ -89,6 +89,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **29** | 09/09/2026 | `V2/RC-657` Verdade Posta × Verdade a Construir · `V4/RC-620` Eu Coalescente · `V3/RC-592` Era de Peixes · `V4/RC-630` Corpo Daiva · `V2/RC-643` Santo Graal · `V2/RC-602` Blindagens Interdimensionais | ✅ redigido |
 | **30** | 09/09/2026 | `V4/RC-557` Conectoma humano · `V4/RC-552` Disciplina dos 3As · `V3/RC-567` Ciclo de Precessão Equinocial · `V3/RC-584` Rama · `V3/RC-487` Enlil · `V4/RC-566` Protocolo da Busca | ✅ redigido |
 | **31** | 09/09/2026 | `V3/RC-424` Linhagem dos Escolhidos · `V3/RC-295` Drama do Fechamento dos Portais · `V3/RC-460` Marduk · `V4/RC-283` Pandora como Serpente do Éden · `V4/RC-400` Foz Côa / FOXP2 · `V2/RC-188` Mente Coletiva | ✅ redigido |
+| **32** | 09/09/2026 | `V3/RC-002` Rebelião de Lúcifer · `V3/RC-074` Len Mion (Satã) · `V4/RC-164` Criaturas-ferramenta · `V4/RC-148` Agentes da Vida Universal · `V2/RC-154` Nidana · `V5/RC-163` Mente Universal (Emergente) | ✅ redigido — **FECHO DO 6º ANEL (GRAU 6)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -859,6 +860,41 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 12. **Falhas 2 → 0, todas de grafia nossa:** «mente una» × «mente uma» (2×). **Depois das 16 do lote 30, a blindagem funcionou** — nenhum negrito atravessado, nenhuma expressão nossa aspirada, nenhuma elisão.
 13. **Renomeações:** `V3.12.04-RC342` (Quarentena Sideral) e `V4.17.04-RC086` (Pandora).
 
+### Lote 32 — fecho do 6º anel, grau 6 (6 verbetes, 6.155 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o próximo lote [que] fecha o 6º anel». **Fechado. Grau 6 = 0.**
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Rebelião de Lúcifer | III.12.1 | `V3/V3.12.01-RC002-rebeliao-de-lucifer.md` | **1.550** | **5.183 p.** |
+| Len Mion (Satã) | III.12.2 | `V3/V3.12.02-len-mion-sata.md` | **1.156** | **3.025 p.** |
+| Criaturas-ferramenta | IV.21.1 | `V4/V4.21.01-RC164-criaturas-ferramenta.md` | 994 | 899 p. |
+| Agentes da Vida Universal | IV.17.2 | `V4/V4.17.02-agentes-da-vida-universal.md` | 959 | 848 p. |
+| Nidana (ovo cósmico) | II.6.1 | `V2/V2.06.01-RC154-nidana.md` | 860 | 794 p. |
+| Mente Universal (Emergente) | V.22.4 | `V5/V5.22.04-mente-universal-emergente.md` | **636** | 375 p. |
+
+**Medida final:** 636–1.550 palavras (média 1.026) · **181 verbatim byte a byte** (11 reprovados na 1ª conferência, todos corrigidos) · 58 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 6º anel (grau 6) está fechado.** Abertos: 215 verbetes · **435 nós redigíveis** · **39 com grau 5**.
+
+**Achados do lote 32:**
+
+1. **Grau 6 = 0.** Dos 30 nós de grau 6 que havia ao abrir o anel, todos foram redigidos — os 24 primeiros nos lotes 28–31, os 6 últimos neste. **O 6º anel levou 5 lotes e 30 verbetes (28.822 palavras).**
+2. **`RC-002` (Rebelião de Lúcifer) tem a 12ª maior ficha do acervo — 5.183 palavras.** É o evento de ruptura do corpus: explica os Exilados de Capela, o isolamento da Terra e a necessidade da Reintegração Cósmica.
+3. **A tese central de `RC-002` é sanitária, não moral:** «o nome disso é quarentena»; «os seres que se sentiam doentes resolveram, por eles mesmos, se isolar... isso não foi uma decisão de Sofia». **A moral foi substituída por epidemiologia** — e a própria obra o diz.
+4. **A virada está datada na fonte:** «Foi quando o movimento deixou de ser uma questão de saúde pública e se tornou um movimento de antagonismo a Sofia». **Saúde pública → antagonismo** é o eixo do verbete.
+5. **A fonte nega expressamente a leitura gnóstica clássica:** «A rebelião de Lúcifer não foi porque I Luzbell olhou muito tempo para um abismo e o abismo olhou para ele e deu broca.» **A queda não foi insight; foi infecção.**
+6. **O legado é involuntário:** o processo «acidentalmente contribuiu na semeadura do» «maior legado da humanidade: A liberdade» (B057, contracapa).
+7. **A cronologia de `RC-002` não foi harmonizada:** B031 (742/687/619 mil), B057 (740/742/687 mil), fala oral (700 mil) — e as cifras (200 bi × 213 bi). **A própria ficha diz que a cronologia «precisa ser confirmada».**
+8. **`RC-074` (Len Mion) é o segundo 🟢 verificado do ciclo**, depois de `RC-078`. **Quarentena política aplicada:** o material político-geopolítico de B039 e a sinopse de B018 (p. 147) estão marcados como **fora** — o verbete não os trouxe nem os desenvolveu.
+9. **A voz de Yel Luzbel é isolada (O-7):** «leitura do ser, não fato ontológico» — em B058, sem prefácio de Ellam, o isolamento é total.
+10. **A peça que impede a leitura maniqueísta de `RC-074` está registrada:** a obra atribui a si a «'pólvora' certa» e a cada um a «inclinação que tinha mais forte dentro de si» — «o que foi da inteira responsabilidade de cada um, e não somente sua».
+11. **`RC-163` (Mente Universal) é o único verbete do 6º anel sem aspas de fonte primária direta:** a ficha é **síntese de leitura** materializada pelo despacho F045 como âncora estrutural. **O verbete não inventou citações para suprir a falta.**
+12. **`RC-163` fecha o Volume V** — a ficha o declara «Destino final do Volume V da Enciclopédia». **Endereço novo: V.22.4.**
+13. **`RC-154` (Nidana) declara as lacunas da malha em vez de preenchê-las:** `RC-153` segue sem aresta e sem arquivo; `RC-693` sem aresta. **Abrir aresta é decisão curatorial.**
+14. **Falhas 11 → 0.** Composição: **5 quebra de linha da própria ficha atravessada na aspa** (`RC-164` ×4, `RC-148` ×1 — as aspas da fonte saltam de linha no meio da frase) · **4 expressão nossa aspirada** (`RC-164` ×2, `RC-154`, `RC-074` ×1) · **1 elisão nossa** (`RC-148`) · **1 caixa inicial** («Destino final…», `RC-163`). **Remédios: aspa contígua para as quebras de linha, itálico para o que é nosso, aspa cheia para a elisão.**
+15. **Endereços novos: III.12.2, IV.17.2, V.22.4.** Sem renomeações neste lote.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -884,7 +920,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6)**, aberto no lote 28 e em curso — **441 nós redigíveis**, dos quais **6 com grau 6**. **O fecho do anel depende de um único lote:** `RC-164` Criaturas-ferramenta · `RC-163` Mente Universal (Emergente) · `RC-154` Nidana (ovo cósmico) · `RC-148` Agentes da Vida Universal · `RC-074` Len Mion (Satã) · `RC-002` Rebelião de Lúcifer.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto em 09/09/2026 — **435 nós redigíveis**, dos quais **39 com grau 5**. Próximos seis: `RC-763` As Sete Leis Herméticas · `RC-759` Jainismo · `RC-757` Vaishnavismo · `RC-753` Estrangulamento Cognitivo · `RC-752` Agenda Espiritual · `RC-750` Moisés e o Êxodo.
 
 ## 5. Como conferir
 
