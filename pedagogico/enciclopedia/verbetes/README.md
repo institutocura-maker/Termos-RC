@@ -1606,6 +1606,33 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **III.15.3 recebe dois verbetes no mesmo lote (4 → 6)** e o lote toca ainda III.12.1 (9 → 10), II.8.1 (22 → 23), IV.19.3 (3 → 4) e IV.19.1 (9 → 10). Nenhum endereço novo, nenhuma renomeação.
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (sétimo lote limpo de primeira — âncoras pré-testadas byte a byte antes da redação; 35/35 OK).
 
+### Lote 56 — 9º anel, grau 3 (6 verbetes, 4.895 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 56» (`RC-355`, `RC-344`, `RC-333`, `RC-314`, `RC-311`, `RC-310`). *(Ambiente estável — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Fenômenos Denunciadores do Fim | III.16.4 | `V3/V3.16.04-RC314-fenomenos-denunciadores-do-fim.md` | **947** | 979 p. |
+| Transição Planetária | III.16.2 | `V3/V3.16.02-RC344-transicao-planetaria.md` | 905 | 789 p. |
+| Adhyshprabrajna (Adhy que caiu) | II.6.1 | `V2/V2.06.01-RC310-adhyshprabrajna-adhy-que-caiu.md` | 794 | 662 p. |
+| Democracia do Amor da Deidade | IV.21.1 | `V4/V4.21.01-RC333-democracia-do-amor-da-deidade.md` | 787 | 551 p. |
+| Fator Extraterrestre (o Elo Perdido) | V.22.1 | `V5/V5.22.01-RC355-fator-extraterrestre-o-elo-perdido.md` | 757 | 634 p. |
+| Adhyagya (formas espirituais Adhy) | III.13.5 | `V3/V3.13.05-RC311-adhyagya-formas-espirituais-adhy.md` | **705** | 587 p. |
+
+**Medida:** 705–947 palavras (média 816) · **49 verbatim byte a byte** · 51 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 54 de 66.** Estado: 355 verbetes · **318 nós redigíveis** · **12 com grau 3 restantes**.
+
+**Achados do lote 56:**
+
+1. **`RC-314` (Fenômenos Denunciadores do Fim, III.16.4) — a primeira absorção de homônimo por despacho:** o cap. 4 de B022 (as "tormentas magnéticas" que devastam as formas dos Senhores da Trimurti) absorveu o homônimo `RC-203` por **F045 (07/09/2026)** — a flag «não fundir» do par foi revogada (título de capítulo em B035 × fenômeno narrado em B022; o leitor precisa de um verbete conceitual único); `RC-203` permanece como remissiva; nenhuma aresta alterada. Quarentenas científica (matéria/antimatéria, «violação da paridade») e clínica (seres «profundamente medicados» — leitura, jamais diagnóstico); falas da Trimurti isoladas; `RC-313`/`RC-300`/`RC-315`/`RC-317` não materializados; promovido de ⚪ a 🟡 com o conteúdo de B022.
+2. **`RC-344` (Transição Planetária, III.16.2 — 8º da seção):** materializada em 29/08/2026 (vivia só no cadastro; 0 termos/0 relações novas); ampliação única P2023-12-03 — o que parou o exídio (U0004) e o **marco com janela** (U0016: marco em 1989; janela 2050–2052, «ditos como ditos», grafia degradada áas/foi foi preservada); **trava D-13**: calendário aqui e em `RC-003`, **vetado em `RC-200`** (assimetria deliberada); **o prazo é da fonte** — a janela já estaria vencida na data da aplicação, registrado no relatório sem harmonização corretiva nem recálculo.
+3. **`RC-333` (Democracia do Amor da Deidade, IV.21.1 — 12º da seção):** B048 caps. 6 e 8; a liberdade total da Deidade («sem jamais obrigar ou impor coisa alguma a quem quer que seja») como polo oposto à Teocracia da Doença (`RC-334`, ficha própria); «Esta é somente amor»; mônadas amorosas emanadas (`RC-149` é-um, B048); "submissão doentia" permanece na ficha `RC-334` com **quarentena clínica**; sem fusão com B031; `RC-332` Favor Divino como contraponto.
+4. **`RC-355` (Fator Extraterrestre, V.22.1 — 21º da seção):** o conceito-título da obra de 2004 — o "elo perdido" da origem humana («a componente extraterrena na nossa história que responde pela nossa origem»); ponte entre a fase kardecista-ufológica (1999–2004) e a RC plena; quarentenas ufológica (leitura, não facto), mediúnica (pedido dos mentores no Posfácio), clínica ("orgulho doentio") e política (Qumran/Israel/Jordânia fora); Sagan/Crick externas; sem materializar `RC-098`/`RC-356`; sem fusão B003/B042.
+5. **`RC-311`/`RC-310` (o par Adhy do B022):** Adhyagya (III.13.5 — 11º da seção) = as formas espirituais que respondem pelas expressões Adhydaiva de Vishnu e Shiva — aproximação **não fundida** com Adhyagia (`RC-012`), grafias por verificar; quarentena mediúnica da conversa narrada; nomes do paratexto (Adhyshmavatna/Adhyshsavna) **sem código novo**. Adhyshprabrajna (II.6.1 — 7º da seção) = o nome completo do Criador pré-queda (Adhy + Prabrajna → Prabrajna → Brahma/Javé/Alá); «da qual tornou-se prisioneira e dela jamais se libertou»; o espírito que jamais se imantou à expressão Adhydaiva × Brahma holográfico «sem "alma"»; atualização P2021-12-04 (Adhyprabrajna × Adhymavatana — fatiamento, a conferir com áudio antes de promover status); `RC-410` ADHYPRABRAJNA (grafia do diagrama) é variação registrada, sem toque.
+6. **Seis seções tocadas (+1 cada):** III.16.4 (6 → 7), III.16.2 (7 → 8), II.6.1 (6 → 7), IV.21.1 (11 → 12), V.22.1 (20 → 21), III.13.5 (10 → 11). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (oitavo lote limpo de primeira — âncoras pré-testadas byte a byte; 40/40 OK).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1642,7 +1669,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 48 de 66** (lotes 48–55, 38.208 palavras). **324 nós redigíveis** · **18 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-355` Fator Extraterrestre (o Elo Perdido) · `RC-344` Transição Planetária · `RC-333` Democracia do Amor da Deidade · `RC-314` Fenômenos Denunciadores do Fim · `RC-311` Adhyagya (formas espirituais Adhy) · `RC-310` Adhyshprabrajna (Adhy que caiu).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 54 de 66** (lotes 48–56, 43.103 palavras). **318 nós redigíveis** · **12 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-308` Adhytia (nível hierárquico) · `RC-298` Descendência de Pirra (Pirra e Deucalião) · `RC-280` Sophia e a Ressurreição de Jesus · `RC-274` Cápsula do Tempo de Sophia (João) · `RC-273` A Falsa Trindade (Concílio de Niceia) · `RC-242` Éden do Criador (Éden como laboratório).
 
 ## 5. Como conferir
 
