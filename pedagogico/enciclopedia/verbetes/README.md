@@ -1252,6 +1252,34 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 9. **Falhas 7 → 0.** Composição: **1 caminho `.md` entre crases** (`RC-560` — renomeação citada com crases; armadilha dos lotes 34/39, removida) · **1 aspa de formulação da Base** (`RC-572` regra de status, caixa «A aprovação») · **1 recorte com elisão nossa inventando reticências** (`RC-442` trecho do Elusbell — restaurado integral) · **2 travessias de `**negrito**` da Base** (`RC-442` B057 ×2 — partidas) · **1 recorte sem palavra da fonte** (`RC-513` «viviam em ocas» × «viviam também em ocas») · **1 palavra da ficha em itálico entre aspas na seção Tensões** (`RC-513`). Regra reiterada: **caminhos `.md` nunca entre crases; elisão nossa não inventa reticências — recorta-se em fragmentos limpos.**
 
+### Lote 43 — 8º anel, grau 4 (6 verbetes, 5.369 palavras)
+
+**Despacho do Curador:** «Em frente com o lote 43» (`RC-437`, `RC-433`, `RC-421`, `RC-416`, `RC-404`, `RC-388`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Joctan e Faleg (filhos de Heber) | **III.14.2** | `V3/V3.14.02-RC437-joctan-e-faleg-filhos-de-heber.md` | **1.102** | **777 p.** |
+| Força de Atração Sexual (anterior à polaridade) | II.8.1 | `V2/V2.08.01-RC433-forca-de-atracao-sexual-anterior-a-polaridade.md` | 969 | 774 p. |
+| Cartas a Javé (obra e diálogo) | V.23.1 | `V5/V5.23.01-RC416-cartas-a-jave-obra-e-dialogo.md` | 855 | 589 p. |
+| As Memórias de Javé (crônicas) | V.23.1 | `V5/V5.23.01-RC421-as-memorias-de-jave-cronicas.md` | 815 | 543 p. |
+| Grupo Atlan | III.15.3 | `V3/V3.15.03-RC388-grupo-atlan.md` | 816 | 658 p. |
+| Sentido Gradualístico das Leis da Evolução Cósmica | II.8.1 | `V2/V2.08.01-RC404-sentido-gradualistico-das-leis-da-evolucao-cosmica.md` | **812** | 411 p. |
+
+**Medida:** 812–1.102 palavras (média 895) · **66 verbatim byte a byte** · 42 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 22 para 28 de 48.** Estado: 281 verbetes · **392 nós redigíveis** · **20 com grau 4 restantes**.
+
+**Achados do lote 43:**
+
+1. **`RC-437` (Joctan e Faleg) tem a maior ficha do lote (777 p.) e o caso de blindagem mais explícito:** maldição de Faleg sobre o DNA feminino e Abraão/Sara irmãos são **leitura do autor** (quarentena histórico-religiosa/Teologia Comparada), nunca transitadas como história. Classificação em divergência ficha (6.2 Linhagens humanas, 05/09/2026) × Base/índice (1.6 Figuras humanas) — registrada, não harmonizada.
+2. **`RC-433` (Força de Atração Sexual) é o caso-modelo de quarentena clínica do lote:** a leitura da homoafetividade como resquício de força demo pré-polar é voz de Despina (narradora), ≠ ontologia; sem leitura clínica real. B052 (2016) é obra primária com narrativa demo.
+3. **`RC-416` e `RC-421` são o par documental de V.23.1** — Favor Divino → Cartas → Memórias, três obras **não fundidas**; o par traz a marca **[REVISAR]** (15 × 16 cartas, BIBLIO intocada) e quarentenas biográficas dos posfácios; `RC-421` é o verbete de **fonte única** do lote (B036).
+4. **`RC-388` (Grupo Atlan) é o único 🟠 em análise do lote e o segundo verbete de III.15.3** — quarentena mediúnica (canal/reuniões); **não fundir com `RC-028`** (base Atlan luciferiana); RC-389/390/393/394 seguem sem materialização.
+5. **`RC-404` (Sentido Gradualístico) tem a menor ficha do lote (411 p.) e base documental parcial:** a amostra do B027 (caps. 1–3); verbete marcado como **complementar quando a obra completa chegar**.
+6. **Endereços compartilhados (3):** II.8.1 (17 → 19 verbetes), V.23.1 (6 → 8), III.15.3 (1 → 2). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+8. **Falhas 1 → 0.** Composição: **1 aspa com apóstrofos retos onde a ficha tem aspas curvas** (`RC-421` «matérias do seu ‘curso de humanização’» — U+2018/U+2019). Regra reiterada: **copiar byte a byte, inclusive aspas internas**.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1277,7 +1305,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **22 de 48** (lotes 39–42). **398 nós redigíveis**, dos quais **26 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-437` Joctan e Faleg (filhos de Heber) · `RC-433` Força de Atração Sexual · `RC-421` As Memórias de Javé · `RC-416` Cartas a Javé · `RC-404` Sentido Gradualístico das Leis da Evolução Cósmica · `RC-388` Grupo Atlan.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **28 de 48** (lotes 39–43). **392 nós redigíveis**, dos quais **20 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-366` O Enigma da Transfiguração · `RC-365` O Fator Judas · `RC-329` Kumari Kandan (tradição) · `RC-328` Imperativo Categórico da Moral · `RC-325` Genética Totalitária · `RC-323` Entroncamentos Genéticos Intersiderais.
 
 ## 5. Como conferir
 

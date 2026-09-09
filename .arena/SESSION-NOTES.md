@@ -930,3 +930,24 @@ Acumulado: **275 verbetes** · 6.287 verbatim · 2.753 códigos · **0 falhas** 
 7. **Falhas 7 → 0:** 1 caminho `.md` entre crases (armadilha lotes 34/39 reincidente) · 1 formulação da Base aspirada (RC-572, caixa) · 1 elisão nossa com reticências (RC-442 restaurado integral) · 2 travessias de negrito (RC-442 B057) · 1 recorte sem palavra da fonte (RC-513) · 1 itálico da Tensões entre aspas (RC-513).
 
 **Próximos (grau 4, 26 restantes):** RC-437 Joctan e Faleg · RC-433 Força de Atração Sexual · RC-421 As Memórias de Javé · RC-416 Cartas a Javé · RC-404 Sentido Gradualístico · RC-388 Grupo Atlan.
+
+---
+
+## 09/09/2026 — Lote 43: 8º ANEL, GRAU 4 (6 verbetes, 5.369 palavras)
+
+**Despacho do Curador:** «Em frente com o lote 43» (`RC-437`, `RC-433`, `RC-421`, `RC-416`, `RC-404`, `RC-388`).
+
+`RC-437` Joctan e Faleg (**III.14.2**, 1.102 p.) · `RC-433` Força de Atração Sexual (II.8.1, 969) · `RC-416` Cartas a Javé (V.23.1, 855) · `RC-388` Grupo Atlan (**III.15.3 — 2º da seção**, 816) · `RC-421` As Memórias de Javé (V.23.1, 815) · `RC-404` Sentido Gradualístico (II.8.1, **812**).
+
+Acumulado: **281 verbetes** · 6.353 verbatim · 2.808 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 28 de 48 · 20 grau-4 restantes · 392 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `8565fcb` na abertura).
+2. **`RC-437` = maior ficha do lote (777 p.) e blindagem mais explícita:** maldição de Faleg + Abraão/Sara = leitura do autor, não transitada; classificação em divergência ficha (6.2) × Base/índice (1.6), registrada; ledger D-6 (F030 «neto») não propagado; aspa byte-exata de B052 p. 111 (cotejo F030) reutilizada.
+3. **`RC-433` = caso-modelo de quarentena clínica:** voz de Despina ≠ ontologia; B052 com narrativa demo; P2024-08-03 (lagosta/oxitocina) sob quarentena científica, STT [GNO XT] preservado.
+4. **`RC-416`/`RC-421` = par documental de V.23.1 (não fundir):** marca [REVISAR] 15 × 16 cartas (BIBLIO intocada); quarentenas biográficas (posfácios; «não confio nele»); RC-421 é o de fonte única (B036) e obra aberta («não se encontra finalizado»).
+5. **`RC-388` = único 🟠 do lote; 2º verbete de III.15.3:** quarentena mediúnica; não fundir com RC-028 (base Atlan); RC-389/390/393/394 sem materialização.
+6. **`RC-404` = menor ficha (411 p.), base parcial (amostra B027):** verbete complementar quando a obra chegar; liga a RC-003/RC-693/RC-720 + Sanchita/Prarabdha (P2024-11-30).
+7. **Endereços compartilhados (3):** II.8.1 17→19 · V.23.1 6→8 · III.15.3 1→2. Nenhum endereço novo; nenhuma renomeação.
+8. **Falhas 1 → 0:** aspa com apóstrofos retos vs curvas da ficha em RC-421 («‘curso de humanização’» U+2018/U+2019). Regra: copiar byte a byte inclusive aspas internas.
+
+**Próximos (grau 4, 20 restantes):** RC-366 O Enigma da Transfiguração · RC-365 O Fator Judas · RC-329 Kumari Kandan · RC-328 Imperativo Categórico da Moral · RC-325 Genética Totalitária · RC-323 Entroncamentos Genéticos Intersiderais.
