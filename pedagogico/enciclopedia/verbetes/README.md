@@ -94,6 +94,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **34** | 09/09/2026 | `V4/RC-748` Genótipo da Gentileza · `V3/RC-741` Projeto Orunmilá–Olodus · `V3/RC-740` Kami · `V5/RC-739` Susanoo · `V4/RC-729` Jabutis Genéticos · `V3/RC-659` Quirino Cornélio | ✅ redigido — 7º anel (grau 5) |
 | **35** | 09/09/2026 | `V5/RC-593` Mahabharata · `V4/RC-644` Xamanismo Virtual · `V5/RC-647` Evangelho de Judas · `V3/RC-607` Cinco Seres LM · `V2/RC-603` Círculo da Perfeição · `V2/RC-601` Departamentalização da Vida | ✅ redigido — 7º anel (grau 5) |
 | **36** | 09/09/2026 | `V4/RC-517` Protocolo Mental · `V3/RC-490` Caim · `V3/RC-459` Parvathi · `V3/RC-483` Barbelo · `V3/RC-578` Fim do Experimento Humano · `V3/RC-568` Eras Equinociais | ✅ redigido — 7º anel (grau 5) |
+| **37** | 09/09/2026 | `V2/RC-160` Entropia e Negentropia · `V2/RC-381` Ressonância Mórfica · `V3/RC-398` Thuata de Dannan · `V3/RC-425` Krishna como «pretenso Keshava» · `V3/RC-284` Caos = Brahma = Javé · `V4/RC-268` Gnosticismo | ✅ redigido — 7º anel (grau 5) |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -1045,6 +1046,46 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 14. **Renomeações (2):** `V3.14.02-quirino-cornelio.md` → `V3.14.02-RC659-quirino-cornelio.md`; `V3.10.04-shiva-savna.md` → `V3.10.04-RC102-shiva-savna.md`. **Nenhum endereço novo.**
 15. **Falhas 1 → 0:** uma única **expressão nossa aspirada** (`RC-578`). **Melhor índice do anel** e o primeiro lote sem erro de recorte. **Nenhum caminho de arquivo entre crases** — a lição do lote 34 foi aplicada.
 
+### Lote 37 — 7º anel, grau 5 (6 verbetes, 5.855 palavras)
+
+**Despacho do Curador:** «em frente com os próximos seis (saltando `RC-449`, à espera de despacho)».
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Entropia e Negentropia | II.8.2 | `V2/V2.08.02-RC160-entropia-e-negentropia.md` | **1.417** | **3.133 p.** |
+| Ressonância Mórfica | II.8.1 | `V2/V2.08.01-RC381-ressonancia-morfica.md` | **1.209** | **2.748 p.** |
+| Thuata de Dannan | III.12.1 | `V3/V3.12.01-RC398-thuata-de-dannan.md` | 899 | 776 p. |
+| Krishna como «pretenso Keshava» | III.13.2 | `V3/V3.13.02-RC425-krishna-pretenso-keshava.md` | 868 | 1.110 p. |
+| Caos = Brahma = Javé | III.9.1 | `V3/V3.09.01-RC284-caos-brahma-jave.md` | 744 | 790 p. |
+| Gnosticismo (contraponto à Cabala) | IV.20.1 | `V4/V4.20.01-RC268-gnosticismo.md` | **718** | 458 p. |
+
+**Medida:** 718–1.417 palavras (média 976) · **197 verbatim byte a byte** · 54 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**É o maior lote do anel** em palavras (5.855) e em verbatim (197) — as duas maiores fichas do lote (`RC-160`, `RC-381`) somam 5.881 palavras de fonte entre as duas.
+
+**Avanço:** 245 verbetes · **405 nós redigíveis** · **9 com grau 5** (de 39 no início do anel; 30 redigidos em cinco lotes). **O 7º anel está a um lote e meio do fecho.**
+
+**Achados do lote 37:**
+
+1. **`RC-160` (Entropia e Negentropia) tem a maior ficha do lote (3.133 p.) e deu o maior verbete (1.417)** — um dos maiores do anel. A tese das **ilhas de negentropia** é a peça mais forte: «NÓS SOMOS A PODRIDÃO QUE EVOLUIU».
+2. **O retrato de Dorian Gray é modelo físico, não alegoria moral** — a ficha o exige expressamente, e o verbete obedeceu.
+3. **A entropia na RC tem um agente:** «a força tamásica de Shiva é a entropia dessa criação», e ela funciona como «selo de garantia» do fim — «A energia tamas de Chiva é o selo de garantia de que o que Brama fez não foi bom.»
+4. **O truque entrópico, com nome e sobrenome:** «50 kg de entropia têm que cair... eu posso fazer com que 1 kg que ia cair em mim eu jogue para cima de Marcos». E o seu fim: «o truque que eles fizeram acabou e por isso que eles estão todos colapsando loucamente».
+5. **`RC-381` traz a ressalva lexical mais instrutiva do anel:** a expressão «ressonância mórfica» **não ocorre** na fonte de 14/10/2023 — a aspa nomeia o **mecanismo**, não a etiqueta da Base. **A ampliação é de conceito, não de termo.**
+6. **A definição de `RC-381` é a de uma tecnologia de captura:** «quem opera o campo opera os que nele estão sintonizados». Daí «Nós somos a novela das 8 para eles.»
+7. **A equação fundante de `RC-381`** vem de P2020-04-25: campo mórfico ≡ «o que o processador faz para as outras espécies» — com **3,5 anos de anterioridade** sobre a fonte oral então cadastrada.
+8. **A malha mantém três coisas separadas, e `RC-381` não as funde:** ressonância *mórfica* (campo de informação) ≠ ressonância *límbica* (afetivo-corporal) ≠ *egrégora*.
+9. **`RC-398` (Thuata de Dannan) é o terceiro 🟢 verificado do ciclo** (depois de `RC-078` e `RC-074`).
+10. **O cotejo F030 de `RC-398` é um caso-modelo de hierarquia de fontes:** «o refatorado NÃO é fonte»; as datas de 20 mil/15 mil do estudo de terceiros «não foram adotadas»; a âncora é a fala («há 14.000 anos atrás»). E a navalha: «nenhum código novo» para as relíquias nem para a Pedra de Scone.
+11. **As quatro relíquias, decodificadas pela própria fala:** «deus de Águeda» = caldeirão de Dagda; «rei Lug» = lança de Lugh; «rei doado» = espada de Nuada; «pedra falante» = Pedra do Destino (Fál).
+12. **`RC-425`: «pretenso» não é glosa deste ciclo — «é o nome do código».** O qualificativo vem do cadastro (B036) e é reafirmado pela fonte de 2023.
+13. **A grafia não foi unificada:** «quechava» (P2023-10-14) × «quechada» (P2023-12-03), ambas do bruto; a prova contada registra «quechav» 0× em livros e «keshava» 31× no impresso. **A ficha materializada não renomeia nada.**
+14. **`RC-284` está sob quarentena biomediúnica:** a correspondência tem «a 2ª confirmação da correspondência na voz dos próprios espíritos» (a 1ª é B020, cap. 1) — **registro fenomênico, não prova**.
+15. **`RC-268`:** a tese é que Thot está por trás de cada foco de revelação — Orfismo, Gnosticismo, Cabala, Teosofia, Hermetismo. **O que é dado:** Nag Hammadi (13 rolos, 52 manuscritos, 1945). **O que é leitura:** a origem do gnosticismo como «necessidade do eu de Jesus após a sua morte».
+16. **Status consistentes:** ao contrário do lote 36, **nenhuma das seis fichas diverge do cadastro** neste lote. A divergência detecteda em `RC-490`/`RC-483` parece ser pontual.
+17. **Falhas 4 → 0.** Composição: **1 conjugação alterada dentro da aspa** (`RC-381` — escrevi «ele propôs» onde a fonte diz «ele propõe»: **tipo novo**) · **1 aspa começando dentro do negrito da ficha** (`RC-381`) · **1 caixa errada** (`RC-381` — «morlens» × «Morlens») · **1 palavra omitida** (`RC-284` — «na voz dos espíritos» × «na voz dos próprios espíritos»).
+18. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1070,7 +1111,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **24 redigidos** nos lotes 33–36; **411 nós redigíveis**, dos quais **15 com grau 5**. Próximos seis: `RC-425` Krishna como 'pretenso Keshava' · `RC-398` Thuata de Dannan · `RC-381` Ressonância Mórfica · `RC-284` Caos = Brahma = Javé · `RC-268` Gnosticismo · `RC-160` Entropia e Negentropia. ⚠️ `RC-449` (1º da fila) é remissiva F045 de `RC-164`: decidir com o Curador.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **30 redigidos** nos lotes 33–37; **405 nós redigíveis**, dos quais **9 com grau 5**. Próximos: `RC-149` Mônada · `RC-142` Yel Luzbel · `RC-068` Hiperbórea · `RC-060` Espiritualidade Operacional · `RC-059` Espiritualidade Superior · `RC-042` Criatura Universal. ⚠️ `RC-449` (remissiva F045 de `RC-164`) segue à espera de despacho e não entra na contagem.
 
 ## 5. Como conferir
 
