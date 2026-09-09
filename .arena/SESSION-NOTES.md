@@ -951,3 +951,25 @@ Acumulado: **281 verbetes** · 6.353 verbatim · 2.808 códigos · **0 falhas** 
 8. **Falhas 1 → 0:** aspa com apóstrofos retos vs curvas da ficha em RC-421 («‘curso de humanização’» U+2018/U+2019). Regra: copiar byte a byte inclusive aspas internas.
 
 **Próximos (grau 4, 20 restantes):** RC-366 O Enigma da Transfiguração · RC-365 O Fator Judas · RC-329 Kumari Kandan · RC-328 Imperativo Categórico da Moral · RC-325 Genética Totalitária · RC-323 Entroncamentos Genéticos Intersiderais.
+
+---
+
+## 09/09/2026 — Lote 44: 8º ANEL, GRAU 4 (6 verbetes, 5.233 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com o lote 44» (`RC-366`, `RC-365`, `RC-329`, `RC-328`, `RC-325`, `RC-323`).
+
+`RC-366` O Enigma da Transfiguração (**III.16.4 — 3º da seção**, 1.194 p.) · `RC-365` O Fator Judas (III.16.5, 937) · `RC-328` Imperativo Categórico da Moral (IV.21.1, 869) · `RC-325` Genética Totalitária (II.8.1, 800) · `RC-323` Entroncamentos Genéticos Intersiderais (IV.18.3, 734) · `RC-329` Kumari Kandan (**II.7.5 — 2º da seção**, **699**).
+
+Acumulado: **287 verbetes** · 6.419 verbatim · 2.862 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 34 de 48 · 14 grau-4 restantes · 386 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `b9a0b59` na abertura).
+2. **`RC-366` = maior ficha do lote (1.306 p.) e divergência-sem-fusão mais explícita:** B011 (Moisés/Elias; Assessoria Cósmica; coordenado) × P2023-06-03 (anjos de Hochmah; «QUEM MANDA SOU EU»; recusa) — Devolutiva O-2, fusão é do curador; RC-367/368 sem ficha (não duplicados).
+3. **`RC-365` = três identificações orais de Judas sem fusão:** Ielan (P2018-12-16) × Eulian (P2023-07-09) × RC-138 sem ficha (não ontologizar); reabilitação = leitura do autor (quarentena); cap. 2 do B011 ainda sem transcrição literal.
+4. **`RC-329` = menor ficha (396 p.) + quarentena cronológica/arqueológica:** Kandan × Kandam não fundidas; 20.000 × 23.000 anos convivendo; não materializar RC-330.
+5. **`RC-328` = empréstimo terminológico vigiado:** Kant × B023 sem fusão; «dignidade kantiana» só na P2026-07-30 (STT sem áudio; divergências abertas); vizinhos IV.21.1: RC-705/720/722.
+6. **`RC-325` = veto político-geopolítico (pp. 87–90 B023 fora, sem âncora);** «Criador decaído e demente» = quarentena clínica; RC-326 sem ficha; RC-331 tem ficha (nota da ficha defasada).
+7. **`RC-323` = Colecionar Incertezas:** ≥8 entroncamentos, 4 sobreviventes; nephelim × Nefilins (RC-488); RC-324 sem ficha; RC-036/RC-186 têm ficha (notas das fichas defasadas — grafado com cuidado).
+8. **Endereços compartilhados (6):** III.16.4 5→6 · III.16.5 5→6 · IV.18.3 10→11 · IV.21.1 10→11 · II.8.1 19→20 · II.7.5 1→2. Nenhum novo; nenhuma renomeação.
+9. **Falhas 4 → 0:** RC-323 «contar a história» ×2 (internas retas vs curvas) · RC-325 «'deuses de fora'» (curvas vs retas) · RC-366 «NÃO INTERFIRAM» (STT) — além de 1 span cruzando negrito pego no pré-teste (RC-328, recorte limpo). Regra: **codepoints de aspas internas e grafias STT são byte a byte**.
+
+**Próximos (grau 4, 14 restantes):** RC-301 Prometeu (titã) · RC-266 Sepher ha-Zohar · RC-259 Apolônio de Tiana · RC-252 Olm · RC-241 Seres dos Portais · RC-231 Razão Filosófica.

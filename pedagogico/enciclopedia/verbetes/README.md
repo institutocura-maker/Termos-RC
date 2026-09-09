@@ -1280,6 +1280,35 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 8. **Falhas 1 → 0.** Composição: **1 aspa com apóstrofos retos onde a ficha tem aspas curvas** (`RC-421` «matérias do seu ‘curso de humanização’» — U+2018/U+2019). Regra reiterada: **copiar byte a byte, inclusive aspas internas**.
 
+### Lote 44 — 8º anel, grau 4 (6 verbetes, 5.233 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com o lote 44» (`RC-366`, `RC-365`, `RC-329`, `RC-328`, `RC-325`, `RC-323`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| O Enigma da Transfiguração | **III.16.4** | `V3/V3.16.04-RC366-o-enigma-da-transfiguracao.md` | **1.194** | **1.306 p.** |
+| O Fator Judas | III.16.5 | `V3/V3.16.05-RC365-o-fator-judas.md` | 937 | 911 p. |
+| Imperativo Categórico da Moral | IV.21.1 | `V4/V4.21.01-RC328-imperativo-categorico-da-moral.md` | 869 | 586 p. |
+| Genética Totalitária | II.8.1 | `V2/V2.08.01-RC325-genetica-totalitaria.md` | 800 | 554 p. |
+| Entroncamentos Genéticos Intersiderais | IV.18.3 | `V4/V4.18.03-RC323-entroncamentos-geneticos-intersiderais.md` | 734 | 537 p. |
+| Kumari Kandan (tradição) | II.7.5 | `V2/V2.07.05-RC329-kumari-kandan-tradicao.md` | **699** | 396 p. |
+
+**Medida:** 699–1.194 palavras (média 872) · **66 verbatim byte a byte** · 47 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 28 para 34 de 48.** Estado: 287 verbetes · **386 nós redigíveis** · **14 com grau 4 restantes**.
+
+**Achados do lote 44:**
+
+1. **`RC-366` (O Enigma da Transfiguração) tem a maior ficha do lote (1.306 p.) e o caso de divergência sem fusão mais explícito do corpus:** leitura do B011 (Moisés/Elias; Assessoria Cósmica; fenômeno coordenado) × leitura de P2023-06-03 (anjos de Hochmah cobrando; «QUEM MANDA SOU EU»; Jesus recusa a agenda) — **Devolutiva O-2**, fundir é decisão do curador. 3º verbete de III.16.4 (com RC-572 e os demais da seção).
+2. **`RC-365` (O Fator Judas) traz três identificações orais de Judas sem fusão:** Ielan (família Iel, P2018-12-16) × Eulian (família Val, P2023-07-09) × Yel Am/Yel Liam (`RC-138`, sem ficha — «não ontologizar»). Reabilitação de Judas = leitura do autor (quarentena histórico-religiosa); transcrição literal do cap. 2 do B011 ainda pendente.
+3. **`RC-329` (Kumari Kandan) tem a menor ficha do lote (396 p.) e a quarentena cronológica/arqueológica como blindagem:** grafias Kandan (B023) × Kandam (palestras) **não fundidas**; cifras 20.000 × 23.000 anos convivendo; 2º verbete de II.7.5 (ao lado de Hiperbórea).
+4. **`RC-328` (Imperativo Categórico da Moral) é o empréstimo terminológico vigiado do lote:** o nome vem de Kant, o conceito do B023 é outro (freio ético da racionalidade humana) — **sem fusão com Kant**; enquadramento da «dignidade kantiana» só na fala P2026-07-30 (STT sem áudio, divergências abertas). Junta-se aos vizinhos RC-705/RC-720/RC-722 em IV.21.1.
+5. **`RC-325` (Genética Totalitária) tem o veto mais explícito do lote:** pp. 87–90 do B023 (nazismo/elites/dicotomia esquerda-direita) = **político-geopolítica — fora**, sem âncora; «Criador decaído e demente» = quarentena clínica (leitura, jamais diagnóstico); nada se refere a povos reais.
+6. **`RC-323` (Entroncamentos Genéticos Intersiderais) carrega a decisão Colecionar Incertezas:** «foram pelo menos oito», só 4 sobreviveram «para contar a história»; grafia nephelim (livro) × Nefilins (`RC-488`) não fundida; Sitchin externa.
+7. **Endereços compartilhados (4):** III.16.4 (5 → 6 verbetes), III.16.5 (5 → 6), II.8.1 (19 → 20), IV.18.3 (10 → 11), IV.21.1 (10 → 11) e II.7.5 (1 → 2). Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+9. **Falhas 4 → 0.** Composição: **2 aspas com aspas internas divergentes** (`RC-323` «sobreviveram para "contar a história"» ×2 — internas retas no verbete, curvas na ficha) · **1 aspa com apóstrofos internos divergentes** (`RC-325` «uma moda criada pelos 'deuses de fora'» — internas curvas no verbete, retas na ficha) · **1 grafia do STT** (`RC-366` «NÃO INTERFIRAM» × «NÃO INTERFERAM»). Regra reiterada: **aspas internas e grafias do STT são byte a byte — conferir os codepoints**; spans que cruzam `**negrito**` da Base reprovam (recorte limpo em `RC-328`).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1305,7 +1334,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **28 de 48** (lotes 39–43). **392 nós redigíveis**, dos quais **20 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-366` O Enigma da Transfiguração · `RC-365` O Fator Judas · `RC-329` Kumari Kandan (tradição) · `RC-328` Imperativo Categórico da Moral · `RC-325` Genética Totalitária · `RC-323` Entroncamentos Genéticos Intersiderais.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **34 de 48** (lotes 39–44). **386 nós redigíveis**, dos quais **14 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-301` Prometeu (titã) · `RC-266` Sepher ha-Zohar (e Shimon Bar Yochai) · `RC-259` Apolônio de Tiana (encarnação do Quarto Logos) · `RC-252` Olm (Codificador de Zion/Zian) · `RC-241` Seres dos Portais · `RC-231` Razão Filosófica dos Terráqueos.
 
 ## 5. Como conferir
 
