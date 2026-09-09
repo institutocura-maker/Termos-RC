@@ -1290,3 +1290,25 @@ Acumulado: **373 verbetes** · 7.220 verbatim · 3.559 códigos · **0 falhas** 
 9. **Statuses:** RC-774/773/772 🟡 provisório e RC-747/743 ⚪ candidato aprovado = cadastro/ÍNDICE — consistentes; RC-842 ⚪ = cadastro/ÍNDICE (cabeçalho da ficha traz 🟡 — divergência registrada, sem harmonizar).
 
 **Próximos (grau 2, 70 restantes):** por código decrescente — `RC-675`, `RC-673`, `RC-663`, `RC-662`, `RC-661`, `RC-651` (a confirmar no despacho do Lote 60).
+
+---
+
+## 09/09/2026 — Lote 60: 10º ANEL, GRAU 2 (6 verbetes, 3.932 palavras)
+
+**Despacho do Curador:** «Sim, em frente com o Lote 60 >>> [`RC-675`, `RC-673`, `RC-663`, `RC-662`, `RC-661`, `RC-651]` — os seis previstos confirmados.
+
+`RC-651` Individualização Epifenomenológica dos Anjos Clones (**IV.19.1 — 11º da seção**, 851 p.; ficha 619) · `RC-663` Áurea Catena (**V.22.1 — 23º da seção**, 764; 549) · `RC-661` Seres Desalmados (**III.12.1 — 11º da seção**, 694; 467) · `RC-673` Intercessão de Enoque pelos Anunnakis (**III.16.5 — 10º da seção**, 599; 276) · `RC-675` Binah (**I.3.2 — 4º da seção**, 521; 105) · `RC-662` Agenda do Desespero dos Espíritos (**IV.21.1 — 14º da seção**, 503; 155).
+
+Acumulado: **379 verbetes** · 7.260 verbatim · 3.592 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **10º anel (grau 2): 12 de 76 · 64 restantes · 294 nós redigíveis.**
+
+1. **3ª ocorrência do incidente de clone — reparada sem perdas.** Na abertura, HEAD apareceu em `6a45059` (commit de partida) e o ref remoto sumiu do clone (remoto = `b11d001`). Protocolo: `git fetch origin refs/heads/arena/01a085d1-termos-rc` → FETCH_HEAD = `b11d001` → `git diff --numstat FETCH_HEAD` = **0 inserções** (só ausências de rastreamento) → `git reset --hard FETCH_HEAD` → HEAD = remoto = `b11d001`, árvore limpa, verificador OK. **Nada se perdeu.** Regra reiterada permanece.
+2. **Âncoras pré-testadas antes do verificador** (40 spans byte a byte; 0 falhas diretas; fragmentos com `**` interno recortados em trecho limpo — RC-663/R-651); lote limpo de primeira.
+3. **`RC-651` — a individualização por inanição de ordens:** P2025-10-25 (pergunta 3 — Ana) + P2023-06-17; abelha rainha/operárias; ~900 milhões de clones em classes; 3 milhões nunca acionados; o clone que virou demo metamorfoseável (origem de Shiva); «ALGUNS POUCOS DESSES SERES HOJE ESTÃO DESLACRADOS... PORQUE JAVÉ PAROU DE DAR ORDENS»; Javé não reassume o papel mesmo ressuscitado; STT caixa alta preservado; juízo "RETARDADO" = leitura do palestrante sobre tipo de IA, jamais clínico; arestas RC-019/RC-147; relacionados RC-055/RC-245.
+4. **`RC-663` — a corrente que acende luz no caos:** P2025-06-26 (definição, pergunta 6); P2023-11-19 cap. 5.3 (função ética; campo mórfico humano — **quarentena Sheldrake**; 'maior das revoluções... sem nenhuma violência' → cruz RC-705); P2024-11-03 (conspiração amorosa; a catena passa por todos os lugares); arestas RC-611/RC-697; relacionados RC-166/RC-094.
+5. **`RC-661` — os sem alma:** P2025-06-26 (pergunta 1) + P2025-06-14 U0102/U0067 (STT); três dos catorze primeiros destruídos por Javé; 4ª geração = infusão de almas; «não há nenhuma função em existir alguém sem alma»; distingue-se de RC-019 e RC-050 (sem ficha); «nós não temos como perceber se um humano é um ser sem alma».
+6. **`RC-673` — Enoque e os anunnakis:** P2025-05-31 + P2023-10-14 U0033 (**anterioridade 7 semanas** × P2023-12-02) + P2023-12-02 (Thot) + P2023-12-03 U0004 (**selo D-9/D-10**; sem ganho de anterioridade — conteúdo, não data; STT 'anunaques'); arestas RC-024/RC-580; RC-489/RC-671.
+7. **`RC-675` Binah e `RC-662` Agenda do Desespero — fichas mínimas (105 e 155 p.):** verbetes proporcionais, sem inventar conteúdo. Binah: 3ª sefirah, é-um RC-263, correspondência RC-102, tríade RC-261/RC-565, contexto Metatron (RC-671). Agenda: «uso antiético de eus humanos...», motiva RC-660, confronta RC-722, relacionados RC-604/RC-620/RC-524 (sem ficha).
+8. **Seções (+1 cada):** V1.03.02 3→4 · V3.16.05 9→10 · V3.12.01 10→11 · V4.19.01 10→11 · V4.21.01 13→14 · V5.22.01 22→23. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+9. **Statuses:** seis fichas ⚪ candidato = cadastro = ÍNDICE — consistentes; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 64 restantes):** por código decrescente — `RC-650`, `RC-648`, `RC-642`, `RC-640`, `RC-634`, `RC-616` (a confirmar no despacho do Lote 61).

@@ -1731,6 +1731,36 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 70 restantes):** por ordem decrescente — `RC-675`, `RC-673`, `RC-663`, `RC-662`, `RC-661`, `RC-651` (a confirmar no despacho do Lote 60).
 
+### Lote 60 — 10º anel, grau 2 (6 verbetes, 3.932 palavras)
+
+**Despacho do Curador:** «Sim, em frente com o Lote 60 >>> [`RC-675`, `RC-673`, `RC-663`, `RC-662`, `RC-661`, `RC-651]` — confirmados os seis previstos. *(Ambiente: **3ª ocorrência do incidente de clone** — HEAD regredira a `6a45059` e o ref remoto sumira; reparado pelo protocolo (fetch → FETCH_HEAD `b11d001` → diff 0 inserções → `reset --hard FETCH_HEAD`); nada se perdeu.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Individualização Epifenomenológica dos Anjos Clones | IV.19.1 | `V4/V4.19.01-RC651-individualizacao-epifenomenologica-dos-anjos-clones.md` | **851** | 619 p. |
+| Áurea Catena | V.22.1 | `V5/V5.22.01-RC663-aurea-catena.md` | 764 | 549 p. |
+| Seres Desalmados | III.12.1 | `V3/V3.12.01-RC661-seres-desalmados.md` | 694 | 467 p. |
+| Intercessão de Enoque pelos Anunnakis | III.16.5 | `V3/V3.16.05-RC673-intercessao-de-enoque-pelos-anunnakis.md` | 599 | 276 p. |
+| Binah | I.3.2 | `V1/V1.03.02-RC675-binah.md` | 521 | 105 p. |
+| Agenda do Desespero dos Espíritos | IV.21.1 | `V4/V4.21.01-RC662-agenda-do-desespero-dos-espiritos.md` | **503** | 155 p. |
+
+**Medida:** 503–851 palavras (média 655) · **40 verbatim byte a byte** · 30 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 12 de 76.** Estado: 379 verbetes · **294 nós redigíveis** · **64 com grau 2 restantes**.
+
+**Achados do lote 60:**
+
+1. **`RC-651` (Individualização Epifenomenológica dos Anjos Clones, IV.19.1 — 11º da seção):** P2025-10-25 (2ª Edição Estagiários do Kaos, pergunta 3 — Ana) + P2023-06-17 (*O Paradoxo Divino*); a abelha rainha e as operárias; 900 e poucos milhões de clones em classes; os não-acionados (3 milhões); o clone que virou demo metamorfoseável (Shiva); **deslacramento por inanição de ordens** («JAVÉ PAROU DE DAR ORDENS»; Javé não reassume o papel de abelha rainha mesmo ressuscitado); STT em caixa alta preservado; juízo do palestrante sobre o tipo de inteligência ("RETARDADO") registrado como leitura, jamais classificação clínica; arestas com `RC-019` (aplica-se-a) e `RC-147` (envolve); relacionados `RC-055`/`RC-245`.
+2. **`RC-663` (Áurea Catena, V.22.1 — 23º da seção):** a corrente de pontos luminosos que acendem luz própria no fundo do caos — definição de P2025-06-26 (pergunta 6); função ética em P2023-11-19 (cap. 5.3: a 'aura catena'/'corrente dourada de força inabalável' no campo mórfico humano; a 'maior das revoluções possíveis... sem nenhuma violência' — cruz `RC-705`); **quarentena científica** (campo mórfico — Sheldrake — como chave de leitura); a voz de 2024 em P2024-11-03 (conspiração amorosa; a catena passa por todos os lugares); arestas com `RC-611` e `RC-697`; relacionados `RC-166`/`RC-094`.
+3. **`RC-661` (Seres Desalmados, III.12.1 — 11º da seção):** P2025-06-26 (pergunta 1) + P2025-06-14 (U0102/U0067, transcrição automatizada); seres antigos sem alma estruturada — «parecidos com a situação do próprio Javé ou Brahma reconstruído sem alma»; dos primeiros catorze seres gerados, três não possuíam alma e foram destruídos por Javé; só da quarta geração em diante a Espiritualidade infundiu almas; **sem função positiva** («não há nenhuma função em existir alguém sem alma»); **distingue-se dos Anjos clones** (`RC-019`) e **dos Demônios** (`RC-050`, sem ficha); «nós não temos como perceber se um humano é um ser sem alma».
+4. **`RC-673` (Intercessão de Enoque pelos Anunnakis, III.16.5 — 10º da seção):** P2025-05-31 (extração) + P2023-10-14 (U0033 — **anterioridade de 7 semanas** sobre P2023-12-02) + P2023-12-02 (Thot «conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque») + P2023-12-03 (U0004, **selo D-9/D-10**: prisões «que não eram dele, nem desse universo»; sem ganho de anterioridade — entrada de conteúdo, não de data; STT *anunaques* preservado); arestas com `RC-024` (envolve) e `RC-580` (relaciona-se); `RC-489`/`RC-671` no círculo.
+5. **`RC-675` (Binah, I.3.2 — 4º da seção; ficha de 105 palavras, estado mínimo) e `RC-662` (Agenda do Desespero dos Espíritos, IV.21.1 — 14º da seção; ficha de 155 palavras, estado mínimo):** verbetes proporcionais ao registro — sem inventar conteúdo; Binah = 3ª *sefirah* (Entendimento), é-um Sefirot (`RC-263`), correspondência teologia comparada com Shiva (`RC-102`), contexto *O Mistério da Árvore da Vida e a Urdidura de Metatron*, tríade `RC-261`/`RC-565`; Agenda = «uso antiético de eus humanos por espíritos para resolver pendências de agendas anteriores», **motiva** a Pegadinha de Javé (`RC-660`), **confronta** a Dignidade (`RC-722`), relacionados `RC-604`/`RC-620`/`RC-524` (sem ficha — só código).
+6. **Seções tocadas (+1 cada):** V1.03.02 3→4 · V3.16.05 9→10 · V3.12.01 10→11 · V4.19.01 10→11 · V4.21.01 13→14 · V5.22.01 22→23. Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (lote limpo de primeira — 40 spans pré-testados byte a byte; fragmentos com `**` interno recortados em trecho limpo).
+8. **Statuses:** seis fichas ⚪ candidato = cadastro = ÍNDICE — todos consistentes; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 64 restantes):** por ordem decrescente — `RC-650`, `RC-648`, `RC-642`, `RC-640`, `RC-634`, `RC-616` (a confirmar no despacho do Lote 61).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1767,7 +1797,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 6 de 76** (primeiros por código decrescente: `RC-842` Milésios · `RC-774` PEP · `RC-773` Nanotecnologia Prânica · `RC-772` Morlens · `RC-747` Vergonha de Existir · `RC-743` Destinação do Lobo). Estado: 373 verbetes · **300 nós redigíveis** · **70 com grau 2 restantes**.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 12 de 76** (lotes 59–60: `RC-842/774/773/772/747/743` e `RC-675/673/663/662/661/651`, por código decrescente). Estado: 379 verbetes · **294 nós redigíveis** · **64 com grau 2 restantes**.
 
 ## 5. Como conferir
 
