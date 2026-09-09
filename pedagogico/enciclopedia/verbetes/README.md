@@ -90,6 +90,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **30** | 09/09/2026 | `V4/RC-557` Conectoma humano · `V4/RC-552` Disciplina dos 3As · `V3/RC-567` Ciclo de Precessão Equinocial · `V3/RC-584` Rama · `V3/RC-487` Enlil · `V4/RC-566` Protocolo da Busca | ✅ redigido |
 | **31** | 09/09/2026 | `V3/RC-424` Linhagem dos Escolhidos · `V3/RC-295` Drama do Fechamento dos Portais · `V3/RC-460` Marduk · `V4/RC-283` Pandora como Serpente do Éden · `V4/RC-400` Foz Côa / FOXP2 · `V2/RC-188` Mente Coletiva | ✅ redigido |
 | **32** | 09/09/2026 | `V3/RC-002` Rebelião de Lúcifer · `V3/RC-074` Len Mion (Satã) · `V4/RC-164` Criaturas-ferramenta · `V4/RC-148` Agentes da Vida Universal · `V2/RC-154` Nidana · `V5/RC-163` Mente Universal (Emergente) | ✅ redigido — **FECHO DO 6º ANEL (GRAU 6)** |
+| **33** | 09/09/2026 | `V2/RC-763` As Sete Leis Herméticas · `V4/RC-759` Jainismo · `V3/RC-757` Vaishnavismo · `V2/RC-753` Estrangulamento Cognitivo · `V5/RC-752` Agenda Espiritual · `V3/RC-750` Moisés e o Êxodo | ✅ redigido — **ABERTURA DO 7º ANEL (GRAU 5)** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -895,6 +896,41 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 14. **Falhas 11 → 0.** Composição: **5 quebra de linha da própria ficha atravessada na aspa** (`RC-164` ×4, `RC-148` ×1 — as aspas da fonte saltam de linha no meio da frase) · **4 expressão nossa aspirada** (`RC-164` ×2, `RC-154`, `RC-074` ×1) · **1 elisão nossa** (`RC-148`) · **1 caixa inicial** («Destino final…», `RC-163`). **Remédios: aspa contígua para as quebras de linha, itálico para o que é nosso, aspa cheia para a elisão.**
 15. **Endereços novos: III.12.2, IV.17.2, V.22.4.** Sem renomeações neste lote.
 
+### Lote 33 — abertura do 7º anel, grau 5 (6 verbetes, 5.290 palavras)
+
+**Despacho do Curador:** «em frente com os próximos seis do grau 5». **7º anel aberto.**
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Jainismo (antigo Druidismo) | IV.20.1 | `V4/V4.20.01-RC759-jainismo.md` | **1.345** | **1.627 p.** |
+| Vaishnavismo (vixenuísmo) | III.10.3 | `V3/V3.10.03-RC757-vaishnavismo.md` | 1.028 | 1.029 p. |
+| As Sete Leis Herméticas | II.8.1 | `V2/V2.08.01-RC763-sete-leis-hermeticas.md` | 834 | 590 p. |
+| Estrangulamento Cognitivo / Neural | II.8.1 | `V2/V2.08.01-RC753-estrangulamento-cognitivo.md` | 777 | 606 p. |
+| Moisés e o Êxodo (leitura RC) | III.16.5 | `V3/V3.16.05-RC750-moises-e-o-exodo.md` | 698 | 418 p. |
+| Agenda Espiritual | V.22.1 | `V5/V5.22.01-RC752-agenda-espiritual.md` | **608** | 456 p. |
+
+**Medida:** 608–1.345 palavras (média 882) · **116 verbatim byte a byte** · 45 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Aberto:** 221 verbetes · **429 nós redigíveis** · **33 com grau 5** (de 39 no início do anel).
+
+**Achados do lote 33:**
+
+1. **Lote inteiro de ⚪ candidatos aprovados pelo curador** — seis de seis. **O 7º anel abre sobrematerial chancelado, mas ainda não consolidado:** nenhum 🟢, nenhum 🟡, nenhum 🟠.
+2. **`RC-759` (Jainismo) tem a maior ficha do lote (1.627 p.) e deu o maior verbete (1.345).** A tese: «o jainismo antes se chamava druidismo».
+3. **A blindagem de `RC-759` registra a data acadêmica na própria ficha:** «a academia data o Jainismo formal no séc. VI–V a.C., com Mahavira». **O verbete não apagou a divergência.**
+4. **A linha mais pessimista do lote — e talvez do corpus — está em `RC-759`:** a resposta de Sileno a Midas, «O QUE DE MAIS UM SER HUMANO DEVERIA ALMEJAR É DE JAMAIS TER NASCIDO. MAS JÁ QUE NASCEU, MORRER LOGO SERIA O QUE ELE MELHOR PODE ALMEJAR. PORQUE ESSA VIDA É ESCRAVIDÃO».
+5. **`RC-759` carrega uma divergência SEM FUSÃO (Devolutiva O-8 / T-5):** P2021-01-23 data o encontro milesianos/Tuatha em «uns 11.000 anos atrás»; P2021-05-15 ancora no cataclismo (14/13/12.000). «As duas cronologias ficam lado a lado; nenhuma é corrigida.»
+6. **`RC-757` (Vaishnavismo) é o caso-modelo de separação fato × leitura:** a definição factual é consensual; a «distorção dos puranas» é atribuição do autor. **A ficha separa — e o verbete manteve a separação.**
+7. **Quarentena política aplicada em `RC-757`:** a fala de P2024-03-17 contém digressão político-eleitoral; **o verbete não a trouxe**. Ficou só o trecho não político da mesma fala.
+8. **`RC-763` (Sete Leis Herméticas) está sob quarentena estrita na lei do gênero:** as inferências clínico-sociais são leitura do autor e a Base «não endossa essas associações como ciência biológica ou psicológica».
+9. **A fonte de `RC-763` distingue o que Thot disse do que os seguidores fizeram:** «tinha três tipos de gênero» × «reduziram a dois, escantearam o hermafroditismo».
+10. **`RC-753` (Estrangulamento) tem quarentena científica explícita:** 400 bi / 2.000 / 10 bits e o Orch-OR (Penrose/Hameroff) são «leitura de Ellam / citação de teoria externa não comprovada».
+11. **A ficha de `RC-753` separa dois mecanismos que parecem o mesmo:** o *estrangulamento* (filtro perceptual) e o *transtorno cognitivo* (que fabrica verdades sem prova). **O verbete manteve a distinção.**
+12. **`RC-752` (Agenda Espiritual) se decide na superação:** o eu humano pode dar conta da agenda do espírito **e criar uma nova agenda** pela própria vontade (autodeterminação, `RC-695`).
+13. **`RC-750` (Moisés e o Êxodo) tem a menor ficha do lote (418 p.) e deu o menor verbete (698).** A tese é uma inversão: a retirada do Egito não é libertação, é «instrumento dos desígnios de Javé» — e a Base registra `RC-750 — é-um → RC-164` (criatura-ferramenta).
+14. **Falhas 2 → 0.** Composição: **1 colagem de duas aspas** (`RC-757` — montei uma aspa com a citação-chave e a elisão `[...]` de outro bloco) · **1 palavra nossa dentro da aspa** (`RC-759` — «os primeiros humanos»; o negrito da ficha começa em «primeiros»). **Remédios: aspa única e íntegra de um só bloco; recorte alinhado ao negrito da fonte.**
+15. **Nenhum endereço novo, nenhuma renomeação.** II.8.1 → 16 verbetes · V.22.1 → 17 · IV.20.1 → 11 · III.10.3 → 5 · III.16.5 → 3.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -920,7 +956,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto em 09/09/2026 — **435 nós redigíveis**, dos quais **39 com grau 5**. Próximos seis: `RC-763` As Sete Leis Herméticas · `RC-759` Jainismo · `RC-757` Vaishnavismo · `RC-753` Estrangulamento Cognitivo · `RC-752` Agenda Espiritual · `RC-750` Moisés e o Êxodo.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **6 redigidos**; **429 nós redigíveis**, dos quais **33 com grau 5**. Próximos seis: `RC-748` Genótipo da Gentileza · `RC-741` Projeto Orunmilá–Olodus · `RC-740` Kami · `RC-739` Susanoo · `RC-729` Jabutis Genéticos · `RC-659` Quirino Cornélio.
 
 ## 5. Como conferir
 

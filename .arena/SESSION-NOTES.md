@@ -696,3 +696,29 @@ conferir `ls-remote` **antes** de qualquer ato destrutivo; e a rotina de abertur
 15. **Endereços novos: III.12.2, IV.17.2, V.22.4.** Sem renomeações.
 
 **Próximos (abertura do 7º anel, grau 5):** RC-763 As Sete Leis Herméticas · RC-759 Jainismo · RC-757 Vaishnavismo · RC-753 Estrangulamento Cognitivo · RC-752 Agenda Espiritual · RC-750 Moisés e o Êxodo — 39 no total.
+
+---
+
+## 09/09/2026 — Lote 33: ABERTURA DO 7º ANEL, GRAU 5 (6 verbetes, 5.290 palavras)
+
+**Despacho do Curador: «em frente com os próximos seis do grau 5»** — RC-763, RC-759, RC-757, RC-753, RC-752, RC-750.
+
+`RC-759` Jainismo (IV.20.1, **1.345**) · `RC-757` Vaishnavismo (III.10.3, 1.028) · `RC-763` Sete Leis Herméticas (II.8.1, 834) · `RC-753` Estrangulamento Cognitivo (II.8.1, 777) · `RC-750` Moisés e o Êxodo (III.16.5, 698) · `RC-752` Agenda Espiritual (V.22.1, **608**).
+
+Acumulado: **221 verbetes** · 5.217 verbatim · 2.274 códigos · **0 falhas** · Base intacta · 0 código criado. **429 redigíveis · 33 com grau 5.**
+
+1. **INCIDENTE DE AMBIENTE — 3ª OCORRÊNCIA.** HEAD apareceu em `708a402` (partida da branch), 40 arquivos sujos, ref remoto ausente do clone. `git fetch origin refs/heads/<branch>` → `FETCH_HEAD = 089312f`; `git diff --numstat FETCH_HEAD` → **0 inserções / 34.868 remoções** → `git reset --hard FETCH_HEAD`. **Nada perdido.** (1ª no 28, 2ª na abertura do 28, 3ª agora.)
+2. **Lote inteiro de ⚪ candidatos aprovados pelo curador (6/6)** — nenhum 🟢/🟡/🟠. **O 7º anel abre sobre material chancelado mas não consolidado.**
+3. **RC-759 = maior ficha (1.627) e maior verbete (1.345).** Tese: «o jainismo antes se chamava druidismo».
+4. **A blindagem de RC-759 registra a data acadêmica:** «a academia data o Jainismo formal no séc. VI–V a.C., com Mahavira».
+5. **A linha mais pessimista do lote está em RC-759:** a resposta de Sileno a Midas — «DEVERIA ALMEJAR É DE JAMAIS TER NASCIDO... PORQUE ESSA VIDA É ESCRAVIDÃO».
+6. **Divergência SEM FUSÃO (O-8/T-5) em RC-759:** 11.000 anos (P2021-01-23) × cataclismo 14/13/12.000 (P2021-05-15). Nenhuma corrigida.
+7. **RC-757 = caso-modelo de separação fato × leitura** (definição consensual × «distorção dos puranas»). **Quarentena política aplicada** ao P2024-03-17 (Lula/Bolsonaro) — não citado.
+8. **RC-763: quarentena estrita na lei do gênero**; a fonte distingue Thot («três tipos de gênero») dos seguidores («reduziram a dois»).
+9. **RC-753: quarentena científica explícita** (400 bi / 2.000 / 10 bits; Orch-OR Penrose/Hameroff). A ficha separa *estrangulamento* (filtro) de *transtorno cognitivo* (fabrica verdades sem prova).
+10. **RC-752 decide-se na superação:** o eu pode cumprir a agenda do espírito **e criar uma nova** (`RC-695`). «a agenda espiritual se acabou nesse tempo» segue em Colecionar Incertezas.
+11. **RC-750 = menor ficha (418) e menor verbete (698).** Tese = inversão: o Êxodo é «instrumento dos desígnios de Javé», com aresta `RC-750 — é-um → RC-164`.
+12. **Falhas 2 → 0:** 1 **COLAGEM DE DUAS ASPAS** (RC-757 — aspa montada com a citação-chave + a elisão `[...]` de outro bloco: tipo novo) · 1 palavra nossa dentro da aspa (RC-759). **Remédios: aspa única e íntegra de um só bloco; recorte alinhado ao negrito da fonte.**
+13. **Nenhum endereço novo, nenhuma renomeação.**
+
+**Próximos (grau 5):** RC-748 Genótipo da Gentileza · RC-741 Projeto Orunmilá–Olodus · RC-740 Kami · RC-739 Susanoo · RC-729 Jabutis Genéticos · RC-659 Quirino Cornélio — 33 no total.
