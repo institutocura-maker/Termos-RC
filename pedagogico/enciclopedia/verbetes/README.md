@@ -1661,6 +1661,46 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Seis seções tocadas (+1 cada):** III.13.5 (11 → 12), III.15.2 (4 → 5), III.11.3 (3 → 4), III.11.2 (5 → 6), V.27.1 (2 → 3), IV.17.4 (2 → 3). Nenhum endereço novo, nenhuma renomeação.
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (nono lote limpo de primeira — 59 spans pré-testados byte a byte; 2 corrigidos na auto-revisão antes do verificador).
 
+### Lote 58 — 9º anel, grau 3 (6 verbetes, 5.284 palavras) — 🏁 FECHO DO ANEL
+
+**Despacho do Curador:** «Ok, em frente com o Lote 58» (`RC-236`, `RC-232`, `RC-207`, `RC-204`, `RC-175`, `RC-055`). *(Ambiente estável — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Abelha-Rainha (Javé) | III.9.1 | `V3/V3.09.01-RC175-abelha-rainha-jave.md` | **1.011** | 864 p. |
+| Ostronomos | III.13.2 | `V3/V3.13.02-RC232-ostronomos.md` | 900 | 752 p. |
+| O Calvário de um Inocente | III.16.1 | `V3/V3.16.01-RC236-o-calvario-de-um-inocente.md` | 877 | 581 p. |
+| Realidade Maior / Paraíso Original | II.5.1 | `V2/V2.05.01-RC204-realidade-maior-paraiso-original.md` | 873 | 340 p. |
+| Arquiteto Universal | III.9.1 | `V3/V3.09.01-RC207-arquiteto-universal.md` | 825 | 627 p. |
+| En Drel | III.13.3 | `V3/V3.13.03-RC055-en-drel.md` | **798** | 463 p. |
+
+**Medida:** 798–1.011 palavras (média 881) · **59 verbatim byte a byte** · 50 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**🏁 O 9º anel (grau 3) está FECHADO — 66 de 66** (lotes 48–58, 54.440 palavras). Estado: 367 verbetes · **306 nós redigíveis** · **0 com grau 3 restantes**.
+
+**Achados do lote 58:**
+
+1. **Fecho do 9º anel (66/66) — o último lote do grau 3.** Com RC-236/232/207/204/175/055, os 66 nós de grau total 3 com ficha estão redigidos (lotes 48–58). Restam **306 nós redigíveis** de graus inferiores — o próximo anel (grau 2) aguarda o censo e o despacho do Curador.
+2. **`RC-204` (Realidade Maior / Paraíso Original, II.5.1 — 1º da seção, endereço novo V2.05.01):** B001 p. 13 («A Realidade Maior é pré-existente a tudo»; «onde nada é transitório posto que tudo é eterno pela vontade do Pai Supremo»); matriz anterior à Espiritualidade Operacional/Laboratorial; P2021-12-04 (o nível paradisíaco como uma única família de seres, anterior à diferenciação); P2026-07-30 (U0042–U0054: plenitude/êxtase permanente que inibe o ímpeto criativo × desdobramentos búdico/manásico — **divergências mantidas abertas**, live em STT sem áudio); P2023-12-03 («todos esses seres são 100% pacíficos.» — selo D-9/D-10, **sem ganho de anterioridade** sobre P2021-12-04); referências externas não ontologizadas (Kardec, «afirmam os Espíritos Codificadores»; Urântia, Ilha Estacionária do Paraíso, só como remissão).
+3. **`RC-175` (Abelha-Rainha (Javé), III.9.1 — 13º da seção):** o sistema colmeico de comando com **blindagem** (metáfora — leitura do autor, não zoologia social validada); P2020-04-25 com **nota de anterioridade** (antecipa 11 meses P2021-03-27, selada sem alterar a cronologia); P2022-03-26 define o regime (a operária «não tem conveniência... É um circuito fechado.»); Sophia como abelha rainha do próprio séquito (relógio messiânico, `RC-765`); B044 (a "Abelha-rainha" que se "aposenta" da função mas segue alimentada por méritos alheios; a humanidade que escapou da colmeia); quarentena clínica ("dementada", p. 97 — jamais diagnóstico) e biográfica (encontro 2010, fora da ontologia); Elohim como colmeia (aresta RC-004 ↔ RC-175, P2024-09-28). **Divergência de categoria registrada lado a lado**: ficha (2.2 Leis e princípios) × Base/ÍNDICE (1.1 Divindades/Criadores) — sem harmonizar.
+4. **`RC-207` (Arquiteto Universal, III.9.1 — 14º da seção):** a função de divindade menor co-criadora nos «setores de criação do paraíso» × a queda (B002, cap. 1) que a transforma no «atualmente conhecida como “o Senhor Javé”»; a tríade **Arquiteto Universal × Senhor Javé × Prabrajna/Prajapati (`RC-152`)** sem fusão; quarentenas científicas (Big Bang como «vontade e do poder mental da divindade criadora»; «há cerca de 13,7 bilhões de anos»); `RC-216` (Queda do Arquiteto Universal) **não materializada** (O-2); `RC-054`/`RC-206`/`RC-208` sem ficha.
+5. **`RC-232` (Ostronomos, III.13.2 — 14º da seção):** a raça intermediária comandada por Sophia; autoidentificação do patriarca em B017, cap. 4 («Ostronomos, pai dos que aqui estão comigo...»); partilha genética e DNA comum com a Família Val (assexuados); **equivalência Sirianos por verificar** (B031 «anfíbios inteligentes» × B017 sem a palavra no trecho lido — sem fusão); **ambiguidade «astronomos» preservada** (Devolutiva O-8/T-9: dois sentidos não fundidos; STT «ASTRONOMOS»/«Apólogo» ≈ Apolo; selo F041-L5 AGUARDA-ÁUDIO); status 🟠 em análise consistente entre ficha/cadastro/índice.
+6. **`RC-236` (O Calvário de um Inocente, III.16.1 — 3º da seção):** B039, cap. 11 — a crucificação de Jesus na **ótica dos exilados**; Yel Luzbel «retirou-se atordoado» e isolou-se (a base Atlan volta a ser o seu refúgio); Len Mion assume o comando da rebelião; ampliação de B011 (véspera pascal; «a postura dos seres de Seu porte era a preocupação de servir e não de ser servido»; «Um de vós me há de trair.»); posfácio com **[NÃO REVELADO] preservado** (sem completar); quarentena de Naves/Sidarta/Zoroastro/IEEA-Orbum; `RC-138` Yel Am/Yel Liam sem ficha.
+7. **`RC-055` (En Drel, III.13.3 — 5º da seção):** os 374 anjos clones criados por Javé no Brahmaloka, «classe especial de guardiões do universo»; corpos-máquina acionados por códigos numéricos, sem consciência individualizada até o despertar de Zont En Drel 29 (`RC-147`); forjados «um pouco antes da grande conflagração»; os dez sagrados; Araboth como residência; status 🟠 em análise consistente; `RC-247` Endrelnianos e `RC-246` Dez Sagrados sem ficha; o cadastro traz ainda B061 e P2025-10-25 além das fontes tabeladas na ficha.
+8. **Seções tocadas:** II.5.1 (0 → 1 — **primeiro verbete do endereço V2.05.01**, que estava vazio com ficha já ancorada), III.9.1 (12 → 14), III.13.2 (13 → 14), III.13.3 (4 → 5), III.16.1 (2 → 3). Um endereço novo materializado; nenhuma renomeação.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (décimo lote limpo de primeira — 59 spans pré-testados byte a byte; 1 corrigido na auto-revisão antes do verificador: ponto final fora do « » em RC-204).
+
+### Fecho do 9º anel — balanço do grau 3 (lotes 48–58)
+
+| | |
+|---|---|
+| Verbetes do anel | **66** (lotes 48–58: 6+6+6+6+6+6+6+6+6+6+6) |
+| Palavras (11 lotes) | **54.440** — lote 48: 4.869 · 49: 5.304 · 50: 4.927 · 51: 4.539 · 52: 4.782 · 53: 4.445 · 54: 4.652 · 55: 4.690 · 56: 4.895 · 57: 6.053 · 58: 5.284 |
+| Verbatim do anel | **545** · 0 falhas |
+| Códigos citados no anel | 0 código criado · Base intacta (946/650/1898) |
+
+**O 9º anel (grau 3) está FECHADO — 66 de 66.** A Enciclopédia alcança **367 verbetes · 7.186 verbatim · 3.527 códigos · 0 falhas**. Próximo anel à vista: **grau 2** — nós com ficha ainda sem verbete (censo e despacho do Curador a confirmar).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1697,7 +1737,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 60 de 66** (lotes 48–57, 49.156 palavras). **312 nós redigíveis** · **6 com grau 3 restantes**. Próximos seis (grau 3): a confirmar com o censo no despacho do Lote 58.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **306 nós redigíveis** · **0 com grau 3 restantes**. Próximo: anel de grau inferior (a confirmar com o censo e o despacho do Curador).
 
 ## 5. Como conferir
 
