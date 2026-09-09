@@ -888,3 +888,25 @@ Acumulado: **263 verbetes** · 6.141 verbatim · 2.647 códigos · **0 falhas** 
 8. **Nenhum endereço novo, nenhuma renomeação.** Filename check: convenção real de arquivo = `RC<NNN>` **sem hífen** (RC742, não RC-742) — conferido byte a byte.
 
 **Próximos (grau 4, 38 restantes):** RC-632 Organoides Genéticos para Sophia · RC-631 Cérebro Radiata · RC-622 Kama · RC-613 Trincheira Vibratória no Campo Informativo · RC-608 Imponderabilidade · RC-587 Anu.
+
+---
+
+## 09/09/2026 — Lote 41: 8º ANEL, GRAU 4 (6 verbetes, 4.843 palavras)
+
+**Despacho do Curador:** «em frente conforme sugerido» (`RC-632`, `RC-631`, `RC-622`, `RC-613`, `RC-608`, `RC-587`).
+
+`RC-631` Cérebro Radiata (IV.18.2, **1.152 p.**) · `RC-587` Anu (III.13.2, 1.085) · `RC-613` Trincheira Vibratória (IV.19.1, 790) · `RC-632` Organoides Genéticos para Sophia (III.11.2, 703) · `RC-622` Kama (III.9.1, 660) · `RC-608` Imponderabilidade (II.8.2, **453**).
+
+Acumulado: **269 verbetes** · 6.230 verbatim · 2.693 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 16 de 48 · 32 grau-4 restantes · 405 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `a21ac10` na abertura).
+2. **`RC-631` = maior ficha do lote (1.792 p., dez fontes 2020–2025) e maior verbete (1.152).** Radiata como limite técnico: «UM EIXO CEREBRAL SÓ — NÃO CONSEGUE RECEBER O ESCANEAMENTO DE UMA CONSCIÊNCIA QUE FOI PRODUZIDA POR DOIS HEMISFÉRIOS» — causa da absorção fracassada do eu de Jesus por Sophia. Regra das três aspas do riso aplicada (a última não vira escárnio). Três cifras cronológicas convivem sem harmonização (800/700 mi × ~4 bi chancelado F037-L1 × 540 mi).
+3. **`RC-632` = o reparo do `RC-631`:** organoides como adornos do cérebro radiata de Sophia; hipótese sensível; [TEXTO CORROMPIDO no STT] preservado.
+4. **`RC-587` (Anu) = o lote dos STT:** *Anibiro*, *Zanuna* (fonte grafa «defendiu», não «defendeu» — erro meu pego pelo verificador), *Enquenil*, *Mardur*, *Hen Lil*, *nemum* — nada saneado; *Henk* AGUARDA-ÁUDIO (F041-L5). Cena do selo de Gauzu = material inédito ⭐⭐.
+5. **`RC-622` (Kama):** correspondência com Eros a investigar (não comprovada); *Cama* STT; autoria do Kama Sutra como leitura da obra.
+6. **`RC-613`:** linguagem metafórica de trincheira/flâmulas preservada; Portal de Comunicação absorvido na ficha.
+7. **`RC-608` = ficha de lastro curto (252 p., fonte única):** uma única voz do autor; nenhuma aspa inventada.
+8. **Nenhum endereço novo, nenhuma renomeação.**
+9. **Falhas 12 → 0.** Composição: **3 travessias de `**negrito**` da Base** (RC-587 B089 ×1, partido em duas aspas contíguas) · **1 conjugação alterada** (RC-587 defendiu×defendeu — reincidência lote 37) · **2 paráfrases nossas aspiradas** (RC-587 «soltando»×«soltaram»; RC-608 seção Contexto) · **2 citações de seções da ficha aspiradas** (RC-587 regra de status; RC-631 Observações) · **2 pontos finais dentro da aspa** (RC-622 ×2) · **2 elisões nossas com reticências dentro da aspa** (RC-613 ×2) · **1 recorte com omissão nossa** (RC-631 «como deles...»). Regra reiterada: aspa nunca atravessa negrito da Base; elisão não inventa reticências — recorta-se em fragmentos limpos.
+
+**Próximos (grau 4, 32 restantes):** RC-572 Fim dos Tempos × Fim do Mundo · RC-569 Eras Zodiacais · RC-560 WD · RC-513 Espiritualidade Errática · RC-499 Forno de Awaymaion · RC-442 Família Yel.

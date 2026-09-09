@@ -1192,6 +1192,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 9. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
 10. **Falhas 8 → 0.** Composição: **3 pontos finais postos dentro da aspa** (`RC-669` «...biológico.» × «...biológico»; `RC-684` «...armação.» × «...armação»; `RC-742` «...finalizado.» × «...finalizado» — as fontes terminam sem ponto) · **1 fragmento com caixa da fonte** (`RC-672`: a fonte grafa «MORREU NO UNIVERSO VIZINHO» em caixa alta) · **1 aspa de metalinguagem** (`RC-668` ×2 — «Na voz do autor» citado como nome de bloco: **tipo novo**; o bloco passou a ser chamado sem aspas) · **1 citação de formulação da Base** (`RC-669` «teologia comparada...», de Observações; passou a prosa) · **1 citação de formulação da Base** (`RC-742` «É cosmologia e Teologia Comparada...», nota da própria ficha; passou a prosa) · **1 aspa em bloco sem voz do autor** (`RC-668`: «permanecem atribuídas à palestra», prosa da ficha vizinha — removida). Regra reiterada: **aspas só para fala; formulação da Base e metalinguagem fora das aspas.**
 
+### Lote 41 — 8º anel, grau 4 (6 verbetes, 4.843 palavras)
+
+**Despacho do Curador:** «em frente conforme sugerido» (`RC-632`, `RC-631`, `RC-622`, `RC-613`, `RC-608`, `RC-587`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Cérebro Radiata | IV.18.2 | `V4/V4.18.02-RC631-cerebro-radiata.md` | **1.152** | **1.792 p.** |
+| Anu — o patriarca Anunnaki | III.13.2 | `V3/V3.13.02-RC587-anu-patriarca-anunnaki.md` | 1.085 | 1.211 p. |
+| Trincheira Vibratória no Campo Informativo | IV.19.1 | `V4/V4.19.01-RC613-trincheira-vibratoria-no-campo-informativo.md` | 790 | 651 p. |
+| Organoides Genéticos para Sophia | III.11.2 | `V3/V3.11.02-RC632-organoides-geneticos-para-sophia.md` | 703 | 525 p. |
+| Kama — a personificação do desejo | III.9.1 | `V3/V3.09.01-RC622-kama-personificacao-do-desejo.md` | 660 | 371 p. |
+| Imponderabilidade — campo de estudo dos Seres LM | II.8.2 | `V2/V2.08.02-RC608-imponderabilidade-campo-de-estudo-dos-seres-lm.md` | **453** | 252 p. |
+
+**Medida:** 453–1.152 palavras (média 807) · **89 verbatim byte a byte** · 42 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 10 para 16 de 48.** Estado: 269 verbetes · **405 nós redigíveis** · **32 com grau 4 restantes**.
+
+**Achados do lote 41:**
+
+1. **`RC-631` (Cérebro Radiata) tem a maior ficha do lote (1.792 p., dez fontes, 2020–2025)** e deu o maior verbete (1.152). A radiata como limite técnico: «UM EIXO CEREBRAL SÓ — NÃO CONSEGUE RECEBER O ESCANEAMENTO DE UMA CONSCIÊNCIA QUE FOI PRODUZIDA POR DOIS HEMISFÉRIOS» — a causa da absorção fracassada do eu de Jesus.
+2. **Regra das três aspas do riso, aplicada:** a ficha manda manter juntas as falas sobre o sorriso para que a última («Esses seres não sabem sorrir.») não vire escárnio do quadro clínico — o verbete respeitou.
+3. **Divergência cronológica em `RC-631` registrada, não harmonizada:** 800/700 milhões (P2025-02-16) × ~4 bilhões (ART-2025-08-01, sob chancela TENSÃO INSOLÚVEL F037-L1) × 540 milhões (P2020-04-25) — as três cifras convivem na ficha.
+4. **`RC-632` é o reparo do `RC-631`:** os organoides como «adornos possíveis no cérebro radiata de Sophia»; hipótese sensível («não apresentar como tecnologia biomédica consolidada»); [TEXTO CORROMPIDO no STT] preservado.
+5. **`RC-587` (Anu) é o lote dos STT:** *Anibiro*, *Zanuna* (que a fonte grafa «defendiu», não «defendeu»), *Enquenil*, *Mardur*, *Hen Lil*, *nemum* — nada saneado; *Henk* sob AGUARDA-ÁUDIO (F041-L5, leitura dupla documentada, não unificada a Enki).
+6. **A cena do selo de Anu (P2023-10-14) é material inédito para a ficha:** «E Gauzu entrega a Enque e a Enlil uma carta de recomendação com o selo de Anu.» — com a assinatura não reconhecida: «É, mas eu não conheço nemum o Gauzu.» ⭐⭐
+7. **`RC-622` (Kama) nasce da correspondência a investigar com Eros** (`RC-286`) — «não como identidade automaticamente comprovada»; o *Cama* do STT e a autoria do *Kama Sutra* como leitura da obra.
+8. **`RC-613` (Trincheira Vibratória) com linguagem metafórica preservada** — «A linguagem de trincheira/flâmulas é metafórica e deve ser preservada como tal»; o Portal de Comunicação foi absorvido na ficha por decisão do curador.
+9. **`RC-608` (Imponderabilidade) é ficha de lastro curto (252 p., fonte única)** — uma única voz do autor, a da própria definição; nenhuma aspa inventada.
+10. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
+11. **Falhas 12 → 0.** Composição: **3 recortes que atravessaram `**negrito**` da Base** (`RC-587` B089 ×1 — partido em duas aspas contíguas · `RC-587` «já que o Zanuna...») · **1 conjugação alterada dentro da aspa** (`RC-587` — «defendiu» × «defendeu»: tipo recorrente, lote 37) · **2 paráfrases nossas aspiradas** (`RC-587` «soltando bombas» × ficha «soltaram»; `RC-608` formulação da seção Contexto) · **1 expressão da seção Observações aspirada** (`RC-587` regra de status) · **1 citação da seção Observações aspirada** (`RC-631` «informação sensível...») · **2 pontos finais dentro da aspa** (`RC-622` «tesão.» × «tesão»; «Kama Sutra na condição.» × sem ponto) · **2 aspas truncadas com elisão nossa** (`RC-613` «...2021...» e «...diferente...») · **1 recorte com omissão nossa** (`RC-631` «como deles...» × «como deles, independente de ser invertebrado ou não»). Regra reiterada: **aspas nunca atravessam negrito da Base; elisão nossa não pode inventar reticências dentro da aspa — recorta-se em fragmentos limpos.**
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1217,7 +1248,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **10 de 48** (lotes 39–40). **387 nós redigíveis**, dos quais **38 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-632` Organoides Genéticos para Sophia · `RC-631` Cérebro Radiata · `RC-622` Kama (personificação do desejo) · `RC-613` Trincheira Vibratória no Campo Informativo · `RC-608` Imponderabilidade (campo de estudo dos Seres LM) · `RC-587` Anu (patriarca Anunnaki).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **16 de 48** (lotes 39–41). **405 nós redigíveis**, dos quais **32 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-572` Fim dos Tempos / Final de Ciclo × Fim do Mundo · `RC-569` Eras Zodiacais · `RC-560` WD (fundido em RC-658) · `RC-513` Espiritualidade Errática · `RC-499` Forno de Awaymaion · `RC-442` Família Yel.
 
 ## 5. Como conferir
 
