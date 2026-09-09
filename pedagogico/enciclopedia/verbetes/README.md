@@ -1791,6 +1791,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 58 restantes):** por ordem decrescente — `RC-599`, `RC-591`, `RC-576`, `RC-562`, `RC-551`, `RC-550` (a confirmar no despacho do Lote 62).
 
+### Lote 62 — 10º anel, grau 2 (6 verbetes, 4.742 palavras)
+
+**Despacho do Curador:** «Beleza! Em frente com os próximos da fila >>> [`RC-599`, `RC-591`, `RC-576`, `RC-562`, `RC-551`, `RC-550`]` — os seis previstos confirmados. *(Ambiente estável — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Baralho genético (metáfora dos 28.869 genes) | IV.18.3 | `V4/V4.18.03-RC562-baralho-genetico-metafora-dos-28-869-genes.md` | **1.172** | 1.989 p. |
+| Dehatma Buddhi | IV.21.1 | `V4/V4.21.01-RC551-dehatma-buddhi-...-corpo.md` | 1.033 | 1.028 p. |
+| Vontade de Progredir (chave dos arquivos mentais) | IV.21.1 | `V4/V4.21.01-RC550-vontade-de-progredir-...-mentais.md` | 876 | 768 p. |
+| Baktun 13 | I.3.4 | `V1/V1.03.04-RC576-baktun-13.md` | 608 | 404 p. |
+| Profecia Hopi da Estrela Azul | III.16.4 | `V3/V3.16.04-RC591-profecia-hopi-da-estrela-azul.md` | 563 | 385 p. |
+| Mermérion | II.7.2 | `V2/V2.07.02-RC599-mermerion.md` | **490** | 227 p. |
+
+**Medida:** 490–1.172 palavras (média 790) · **65 verbatim byte a byte** · 27 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 24 de 76.** Estado: 391 verbetes · **282 nós redigíveis** · **52 com grau 2 restantes**.
+
+**Achados do lote 62:**
+
+1. **`RC-562` (Baralho genético, IV.18.3 — 16º da seção; ficha de 1.989 p., a maior do lote e 3ª maior do 10º anel):** metáfora do crupier/cassino aplicada ao genoma; a cifra canônica 28.869 e a variante 28.879 com **selo T-2** (P2021-05-15, reancoragem declarada) e **selo D-10** (P2022-03-26, sem ganho de anterioridade); o DNA quase todo "inativo" (2–3% ativo; 98,8% "morto"; variações 3,5/4,2/2,5 registradas sem harmonizar; objetivo 0,1; "DNA lixo não é lixo"); ~1.000 genes produzem ~20.000 proteínas; os 226 genes da central de defesa (COVID; STT *antídlopos*); a mutação pela ideia nova (RNA mensageiro → novo códon); "DNA bichado por DNA chique"; «Quem vive é o epigenoma»; a equação final (proteínas que reconstroem o corpo do criador; ressonância `RC-864` sem ficha); **quarentena científica: número de genes é conjuntural**; 13 fontes STT.
+2. **`RC-551` (Dehatma Buddhi, IV.21.1 — 15º da seção; 🟡 provisório):** a doença psíquica da mente identificada com o corpo (*deha+atma+buddhi*); «a maioria dos seres humanos se porta como um 'dehatma buddhi'»; B074 (a "primeira versão" do psiquismo; *mentenet*; livre-arbítrio reduzido; o "dono do lamaçal" Javé; 4º erro fatal) + B075 (o apartado do Corpo Búdico; TV; cura pela PKMzeta — **leitura clínica O-7**; o pior automatismo) + P2012-02-19 (STT *Derratman Bud*); **quarentena clínica** (não é terapia; trecho p. 215 banido O-7) e religiosa (missa/passe/dízimo = leitura); arestas `RC-166` e `RC-702`.
+3. **`RC-550` (Vontade de Progredir, IV.21.1 — 16º da seção; 🟡):** a "chave da soberania espiritual" que abre os Arquivos Mentais (`RC-548`) conscientemente × Circuito do CHA (`RC-549`); B074 cap. 3.1 (o Espírito influenciando o 'ego terreno'; lema de Sai Baba); 1ª e 5ª Constatações (investigação, não fé); B075 (Eu organizador; limpeza das memórias; 16ª Constatação — ninguém, «nem mesmo Jesus ou Deus», faz pelo ser humano; Vontade adulta cocriadora; Sócrates/nada concluir); **Navalha O-3** (vocabulário afim sem código); leituras marcadas (PKMzeta/hipotálamo O-7; bloco político p. 136 fora da malha).
+4. **`RC-576` (Baktun 13, I.3.4 — 3º da seção):** o marco maia reinterpretado como encerramento de período, não fim do mundo; Diego de Landa (STT 'Diego Dilanda'; data 1453 [1562 — REVISAR]); era equinocial de 5.200 anos × baktun tolteca de 5.000/10.000 anos; «os maias não tinham uma visão linear»; o comércio do medo; **atribuição ao palestrante, não consenso historiográfico**; STT (*Bactum 13, bactunes, backtom*); arestas `RC-571`/`RC-572`.
+5. **`RC-591` (Profecia Hopi da Estrela Azul, III.16.4 — 8º da seção):** tradição citada, não fato («não tem que ser necessariamente a passagem entre essas eras com problemas, não. Isso faz parte da lenda nossa»); 2012 benigno × leitura do mérito; **tradição citada pelo palestrante, não confirmação factual nem consenso sobre os Hopis**; STT (*ropes, hopes*); aresta `RC-571`; relacionados `RC-536`/`RC-405` (sem ficha).
+6. **`RC-599` (Mermérion, II.7.2 — 10º da seção; ficha mínima de 227 p.):** o quinto dos Archeons de Ereon, associado a criações complexas e múltiplos tipos de seres; «As de Mermérion já foram extremamente complexas» (P2021-12-04); apresentado depois de Antérion/Danérion e antes de Perpérion/Tempérion; grafia em **-ion fixada pelo curador** (STT: Mermerium/Mermérium/Mermério); regra de status: STT sem áudio → ⚪.
+7. **Seções tocadas:** IV.18.3 15→16 · IV.21.1 14→16 (+2) · I.3.4 2→3 · III.16.4 7→8 · II.7.2 9→10. Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (lote limpo de primeira — 65 spans pré-testados byte a byte; 5 corrigidos na auto-revisão antes do verificador: fragmentos com `**` interno e reticências nossas em RC-562/551/550 — recortados em trecho limpo verbatim).
+9. **Statuses:** RC-562/576/591/599 ⚪ candidato e RC-551/550 🟡 provisório — todos consistentes ficha = cadastro = ÍNDICE; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 52 restantes):** por ordem decrescente — `RC-549`, `RC-520`, `RC-498`, `RC-482`, `RC-481`, `RC-479` (a confirmar no despacho do Lote 63).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1827,7 +1858,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 18 de 76** (lotes 59–61: `RC-842/774/773/772/747/743`, `RC-675/673/663/662/661/651`, `RC-650/648/642/640/634/616`, por código decrescente). Estado: 385 verbetes · **288 nós redigíveis** · **58 com grau 2 restantes**.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 24 de 76** (lotes 59–62: `RC-842/774/773/772/747/743`, `RC-675/673/663/662/661/651`, `RC-650/648/642/640/634/616`, `RC-599/591/576/562/551/550`, por código decrescente). Estado: 391 verbetes · **282 nós redigíveis** · **52 com grau 2 restantes**.
 
 ## 5. Como conferir
 

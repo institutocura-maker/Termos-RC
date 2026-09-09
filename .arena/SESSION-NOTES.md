@@ -1334,3 +1334,26 @@ Acumulado: **385 verbetes** · 7.298 verbatim · 3.620 códigos · **0 falhas** 
 9. **Statuses:** seis fichas ⚪ candidato = cadastro = ÍNDICE — consistentes; nenhuma divergência a registrar.
 
 **Próximos (grau 2, 58 restantes):** por código decrescente — `RC-599`, `RC-591`, `RC-576`, `RC-562`, `RC-551`, `RC-550` (a confirmar no despacho do Lote 62).
+
+---
+
+## 09/09/2026 — Lote 62: 10º ANEL, GRAU 2 (6 verbetes, 4.742 palavras)
+
+**Despacho do Curador:** «Beleza! Em frente com os próximos da fila >>> [`RC-599`, `RC-591`, `RC-576`, `RC-562`, `RC-551`, `RC-550`]` — os seis previstos confirmados.
+
+`RC-562` Baralho genético (**IV.18.3 — 16º da seção**, 1.172 p.; ficha 1.989) · `RC-551` Dehatma Buddhi (**IV.21.1 — 15º da seção**, 1.033; 1.028) · `RC-550` Vontade de Progredir (**IV.21.1 — 16º da seção**, 876; 768) · `RC-576` Baktun 13 (**I.3.4 — 3º da seção**, 608; 404) · `RC-591` Profecia Hopi da Estrela Azul (**III.16.4 — 8º da seção**, 563; 385) · `RC-599` Mermérion (**II.7.2 — 10º da seção**, 490; 227).
+
+Acumulado: **391 verbetes** · 7.363 verbatim · 3.650 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **10º anel (grau 2): 24 de 76 · 52 restantes · 282 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `8faf1a8` na abertura; árvore limpa).
+2. **Âncoras pré-testadas antes do verificador** (65 spans byte a byte; 5 corrigidos na auto-revisão — fragmentos com ** interno e reticências nossas em RC-562/551/550, recortados em trecho limpo verbatim); lote limpo de primeira.
+3. **`RC-562` Baralho genético (IV.18.3; ficha 1.989 p., a maior do lote):** metáfora do crupier/cassino (28.869 genes; «Cada código desse produz uma microsensação»); variante 28.879 **selo T-2** (P2021-05-15, reancoragem) e **selo D-10** (P2022-03-26, sem anterioridade); DNA quase todo inativo (2–3%; 98,8% "morto"; variações sem harmonizar; objetivo 0,1); ~1.000 genes → ~20.000 proteínas; 226 genes da central de defesa (COVID; STT 'antídlopos'); mutação pela ideia nova (RNA/códon); "DNA bichado por DNA chique"; epigenoma; equação final (proteínas do corpo do criador; RC-864 sem ficha); **quarentena científica: número conjuntural**; 13 fontes STT.
+4. **`RC-551` Dehatma Buddhi (IV.21.1; 🟡):** mente identificada com o corpo (deha+atma+buddhi); B074 ('primeira versão', mentenet, livre-arbítrio reduzido, 'dono do lamaçal' Javé) + B075 (apartado do Corpo Búdico; TV; PKMzeta O-7; pior automatismo) + P2012-02-19 (STT 'Derratman Bud'); **quarentenas clínica** (não é terapia; p. 215 banida O-7) e religiosa (leitura); arestas RC-166/RC-702; relacionados RC-548/RC-554/RC-553.
+5. **`RC-550` Vontade de Progredir (IV.21.1; 🟡):** chave que abre os Arquivos Mentais (RC-548) × Circuito do CHA (RC-549); B074 cap. 3.1 (Espírito × 'ego terreno'; lema de Sai Baba); 1ª/5ª Constatações (investigação, não fé); B075 (16ª Constatação: «Ninguém pode fazer isso pelo ser humano»; Vontade adulta cocriadora; Sócrates); **Navalha O-3** (vocabulário afim sem código); leituras marcadas (PKMzeta O-7; bloco político fora da malha).
+6. **`RC-576` Baktun 13 (I.3.4):** fim de período, não fim do mundo; Diego de Landa (STT 'Diego Dilanda'; 1453 [1562 — REVISAR]); era de 5.200 anos × baktun tolteca; não-linearidade maia; comércio do medo; **atribuição ao palestrante**; STT ('Bactum 13', 'bactunes', 'backtom'); arestas RC-571/RC-572.
+7. **`RC-591` Profecia Hopi (III.16.4):** tradição citada, não fato; 2012 benigno × mérito; «Isso faz parte da lenda nossa»; **não é consenso sobre os Hopis**; STT ('ropes', 'hopes'); aresta RC-571; RC-405 sem ficha.
+8. **`RC-599` Mermérion (II.7.2; ficha 227 p.):** 5º Archeon de Ereon (RC-596), criações complexas; depois de RC-597/RC-598, antes de RC-087/RC-472; grafia -ion fixada pelo curador; STT sem áudio → ⚪.
+9. **Seções:** IV.18.3 15→16 · IV.21.1 14→16 (+2) · I.3.4 2→3 · III.16.4 7→8 · II.7.2 9→10. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+10. **Statuses:** RC-562/576/591/599 ⚪ e RC-551/550 🟡 — consistentes ficha = cadastro = ÍNDICE; nenhuma divergência.
+
+**Próximos (grau 2, 52 restantes):** por código decrescente — `RC-549`, `RC-520`, `RC-498`, `RC-482`, `RC-481`, `RC-479` (a confirmar no despacho do Lote 63).
