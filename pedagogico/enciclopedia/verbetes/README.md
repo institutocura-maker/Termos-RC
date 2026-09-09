@@ -215,7 +215,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Trimurti | III.10.1 | `V3/V3.10.01-trimurti.md` | 1.102 | **8.291 p. · ~20 ampliações** |
 | Brahma (Brajna) | III.9.1 | `V3/V3.09.01-RC037-brahma-brajna.md` | 1.024 | 4.912 p. |
 | Vishnu (Mavatna) | III.10.3 | `V3/V3.10.03-vishnu-mavatna.md` | 1.018 | **1.114 p.** (a menor do lote) |
-| Shiva (Savna) | III.10.4 | `V3/V3.10.04-shiva-savna.md` | 915 | 5.951 p. |
+| Shiva (Savna) | III.10.4 | `V3/V3.10.04-RC102-shiva-savna.md` | 915 | 5.951 p. |
 
 **Medida final:** 915–1.745 palavras · **202 verbatim byte a byte** (36 reprovados na 1ª conferência, todos corrigidos) · 69 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -943,7 +943,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Kami (Projeto Japonês) | III.13.1 | `V3/V3.13.01-RC740-kami.md` | 826 | 670 p. |
 | Projeto Orunmilá–Olodus | III.16.5 | `V3/V3.16.05-RC741-projeto-orunmila-olodus.md` | 785 | 646 p. |
 | Jabutis Genéticos | IV.18.3 | `V4/V4.18.03-RC729-jabutis-geneticos.md` | 688 | 435 p. |
-| Quirino Cornélio | III.14.2 | `V3/V3.14.02-quirino-cornelio.md` | 685 | 363 p. |
+| Quirino Cornélio | III.14.2 | `V3/V3.14.02-RC659-quirino-cornelio.md` | 685 | 363 p. |
 | Susanoo | V.27.1 | `V5/V5.27.01-RC739-susanoo.md` | **568** | 336 p. |
 
 **Medida:** 568–914 palavras (média 744) · **106 verbatim byte a byte** · 40 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
