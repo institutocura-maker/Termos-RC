@@ -1074,3 +1074,24 @@ Acumulado: **313 verbetes** · 6.741 verbatim · 3.086 códigos · **0 falhas** 
 9. **Falhas 0 → 0 (segundo lote limpo de primeira).** Correções de processo: RC-017 = Alt´Lam (NÃO é o Projeto TALM — remissiva removida); RC-268 = Gnosticismo (contraponto à Cabala) e RC-750 = Moisés e o Êxodo (leitura RC) com nome completo no registro.
 
 **Próximos (grau 3, 54 restantes):** RC-641 Face Microbiana do Criador · RC-639 Protozoários Antimateriais / Antiprotozoários · RC-629 Reunião Operativa Mental dos 43 Pashvnaj · RC-621 Nyx · RC-617 Inquisição Espiritual (obra anunciada) · RC-606 Protocolos / Algoritmos da Perfeição.
+
+---
+
+## 09/09/2026 — Lote 50: 9º ANEL, GRAU 3 (6 verbetes, 4.927 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 50» (`RC-641`, `RC-639`, `RC-629`, `RC-621`, `RC-617`, `RC-606`).
+
+`RC-606` Protocolos / Algoritmos da Perfeição (**II.5.3 — 2º da seção**, 1.013 p.) · `RC-617` Inquisição Espiritual (**V.23.1 — 10º da seção**, 885) · `RC-641` Face Microbiana do Criador (**II.6.1 — 4º da seção**, 815) · `RC-629` Reunião Operativa Mental dos 43 Pashvnaj (**III.16.5 — 9º da seção**, 803) · `RC-621` Nyx (**III.9.1 — 12º da seção**, 726) · `RC-639` Protozoários Antimateriais (**IV.18.3 — 14º da seção**, 685 — ficha 319 p.).
+
+Acumulado: **319 verbetes** · 6.789 verbatim · 3.121 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 18 de 66 · 48 grau-3 restantes · 354 nós redigíveis.**
+
+1. **INCIDENTE DE SANDBOX no turno anterior:** o `.git` foi restaurado ao commit-base `6a45059d` (clone) com a árvore preservada (58 verbetes "untracked", README "modificado"). Correção: `git fetch origin` + `git reset --hard FETCH_HEAD` → HEAD realinhado a `e40cb45` (lote 49) SEM perda (árvore já continha o estado do lote 49; status 0 após o reset). Remoto nunca esteve em risco.
+2. **`RC-641`/`RC-639` — par da "primeira face ressuscitada" do Criador:** curadoria P2024-05-04 (Prabrajna em Perpérion / Simultaneidade Reversa) é a fonte da Base para ambos; anterioridade de **25 meses** pela P2022-03-26 (selo D-10: «Daqui a um mês sai um livro chamado Além da Ordenação do Caos...» U0020 / «Esse eu caído é um vírus antimaterial...» U0007 — transcritos como ditos); RC-641: título oral diverge de B064 (manter B064 canônico); RC-639: não confundir com Anunnakis nem protozoários biológicos comuns.
+3. **`RC-629` — assembleia da Criação Indevida:** P2024-05-04-R (U0224–U0408); 147 Adhy → 43 Pashvnaj = "vinte e poucas almas" (fatiamentos; seres ≠ almas); Circuito dos 14 (subtermo); Prabrajna forçado a liberar o projeto (temiam que adoecesse); singularidade de 13,7 bilhões de anos via Kundalini; corpo manásico tragado; "cancro ou câncer" → RC-167.
+4. **`RC-621` — Nyx (III.9.1):** grafia Devolutiva-01 + curador (STT NX/Nick); fonte do cadastro P2026-07-30 (U0031–U0032, STT sem áudio → regra de status candidato); ampliação P2023-05-21 (Hebdômada de Apolo): âmago da mediunidade = janela imaginativa da loca; precede RC-475 (Deva/Aurora), gera RC-454 (Moros) — relação a cruzar.
+5. **`RC-617` — Inquisição Espiritual (B079):** obra anunciada/em elaboração, SEM publicação/editora/título definitivo; tétrade das Inquisições; P2021-12-04 (fonte do cadastro, U0657–U0677); anterioridade 7 meses P2021-05-15 (U0018, nome provisório ressalvado); P2021-02-28 (U0063, retrogradar, STT Triburtiano sem emenda).
+6. **`RC-606` — a seção II.5.3 leva o nome do conceito:** origem da falha no Paraíso B (P2023-04-01b — quarentena: "fofoca/metafísica da RC"); blindagem em colapso quântico (⚠️⚠️⚠️⚠️ na ficha); casco de banana sem banana no Paraíso; eu do paraíso imutável (P2024-03-02, ver RC-204); contraponto Liberdade Mental RC-253 sem simplificar; averbação F043 T2 (06/09/2026): GKA é Obra de Apoio (Kris Amon RC-934, EXT-2024-01-04) — fonte secundária, relações blindadas.
+7. **Seis endereços distintos (+1 cada):** II.5.3 1→2 · II.6.1 3→4 · III.9.1 11→12 · III.16.5 8→9 · IV.18.3 13→14 · V.23.1 9→10. Nenhum endereço novo; nenhuma renomeação.
+8. **Falhas 0 → 0 (terceiro lote limpo de primeira).** Nenhuma correção de remissiva neste lote.
+
+**Próximos (grau 3, 48 restantes):** RC-598 Danérion · RC-597 Antérion · RC-595 Avesta · RC-590 Yima · RC-589 Nibiru (1.611 p. — maior ficha do anel até aqui) · RC-588 Ninurta.

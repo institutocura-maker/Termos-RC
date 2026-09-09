@@ -1442,6 +1442,33 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Endereços tocados (5):** III.13.4 (2 → 3), III.16.5 (6 → 8), IV.18.3 (12 → 13), IV.20.1 (14 → 15), V.22.2 (1 → 2). Nenhum endereço novo, nenhuma renomeação.
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (segundo lote limpo de primeira).
 
+### Lote 50 — 9º anel, grau 3 (6 verbetes, 4.927 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 50» (`RC-641`, `RC-639`, `RC-629`, `RC-621`, `RC-617`, `RC-606`). *(O turno sofreu uma restauração do sandbox que devolveu o `.git` ao commit-base; o HEAD foi realinhado ao remoto `e40cb45` por `git reset --hard FETCH_HEAD` sem perda — árvore já continha o estado do lote 49.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Protocolos / Algoritmos da Perfeição | II.5.3 | `V2/V2.05.03-RC606-protocolos-algoritmos-da-perfeicao.md` | **1.013** | 732 p. |
+| Inquisição Espiritual (obra anunciada) | V.23.1 | `V5/V5.23.01-RC617-inquisicao-espiritual-obra-anunciada.md` | 885 | 635 p. |
+| Face Microbiana do Criador | II.6.1 | `V2/V2.06.01-RC641-face-microbiana-do-criador.md` | 815 | 350 p. |
+| Reunião Operativa Mental dos 43 Pashvnaj | III.16.5 | `V3/V3.16.05-RC629-reuniao-operativa-mental-dos-43-pashvnaj.md` | 803 | 459 p. |
+| Nyx | III.9.1 | `V3/V3.09.01-RC621-nyx.md` | 726 | 385 p. |
+| Protozoários Antimateriais / Antiprotozoários | IV.18.3 | `V4/V4.18.03-RC639-protozoarios-antimateriais-antiprotozoarios.md` | **685** | **319 p.** |
+
+**Medida:** 685–1.013 palavras (média 821) · **48 verbatim byte a byte** · 29 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 18 de 66.** Estado: 319 verbetes · **354 nós redigíveis** · **48 com grau 3 restantes**.
+
+**Achados do lote 50:**
+
+1. **`RC-641` e `RC-639` são o par da "primeira face ressuscitada" do Criador:** a face microbiana/virótica (II.6.1) e os antiprotozoários do universo vizinho (IV.18.3) saem da mesma curadoria P2024-05-04 (*Prabrajna em Perpérion / Simultaneidade Reversa*); ambos ganham anterioridade de **25 meses** pela P2022-03-26 (selo D-10, transcrito como dito, sem cifras harmonizadas); RC-641 registra a divergência título oral × B064 canônico (manter B064); RC-639 traz a demarcação "não confundir com Anunnakis nem protozoários biológicos comuns".
+2. **`RC-629` detalha a assembleia que antecedeu a Criação Indevida:** os 43 Pashvnaj = "vinte e poucas almas" (fatiamentos — seres ≠ almas); Circuito dos 14 como subtermo; Prabrajna forçado a liberar o projeto; singularidade de 13,7 bilhões de anos; corpo manásico tragado; "cancro ou câncer".
+3. **`RC-621` (Nyx) é o 12º de III.9.1:** grafia consagrada por Devolutiva-01 (STT NX/Nick); precede a Grande Deusa (`RC-475`), gera a linhagem de Moros (`RC-454`); o âmago da mediunidade como janela imaginativa (P2023-05-21); relação a cruzar com outras fontes.
+4. **`RC-617` (obra anunciada B079):** sem confirmação de publicação/editora/título; tétrade das Inquisições (Poética, Filosófica, Trimurtiana + Espiritual); anterioridade de 7 meses (P2021-05-15, U0018); o retrogradar (P2021-02-28, U0063); nome provisório ressalvado pelo próprio autor.
+5. **`RC-606` batiza a própria seção II.5.3:** os protocolos da perfeição × Liberdade Mental (`RC-253`, contraponto sem simplificação); origem da falha no Paraíso B (P2023-04-01b — quarentena: narrativa como fofoca/metafísica da RC); eu do paraíso imutável (P2024-03-02); averbação F043 T2 — GKA é Obra de Apoio (Kris Amon, `RC-934`, EXT-2024-01-04), fonte secundária, relações blindadas.
+6. **Seis endereços distintos (+1 cada):** II.5.3 (1 → 2), II.6.1 (3 → 4), III.9.1 (11 → 12), III.16.5 (8 → 9), IV.18.3 (13 → 14), V.23.1 (9 → 10). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (terceiro lote limpo de primeira).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1478,7 +1505,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 12 de 66** (lotes 48–49, 10.173 palavras). **366 nós redigíveis** · **54 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-641` Face Microbiana do Criador · `RC-639` Protozoários Antimateriais / Antiprotozoários · `RC-629` Reunião Operativa Mental dos 43 Pashvnaj · `RC-621` Nyx · `RC-617` Inquisição Espiritual (obra anunciada) · `RC-606` Protocolos / Algoritmos da Perfeição.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 18 de 66** (lotes 48–50, 15.100 palavras). **354 nós redigíveis** · **48 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-598` Danérion · `RC-597` Antérion · `RC-595` Avesta · `RC-590` Yima · `RC-589` Nibiru · `RC-588` Ninurta.
 
 ## 5. Como conferir
 
