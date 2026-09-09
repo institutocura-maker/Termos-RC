@@ -910,3 +910,23 @@ Acumulado: **269 verbetes** · 6.230 verbatim · 2.693 códigos · **0 falhas** 
 9. **Falhas 12 → 0.** Composição: **3 travessias de `**negrito**` da Base** (RC-587 B089 ×1, partido em duas aspas contíguas) · **1 conjugação alterada** (RC-587 defendiu×defendeu — reincidência lote 37) · **2 paráfrases nossas aspiradas** (RC-587 «soltando»×«soltaram»; RC-608 seção Contexto) · **2 citações de seções da ficha aspiradas** (RC-587 regra de status; RC-631 Observações) · **2 pontos finais dentro da aspa** (RC-622 ×2) · **2 elisões nossas com reticências dentro da aspa** (RC-613 ×2) · **1 recorte com omissão nossa** (RC-631 «como deles...»). Regra reiterada: aspa nunca atravessa negrito da Base; elisão não inventa reticências — recorta-se em fragmentos limpos.
 
 **Próximos (grau 4, 32 restantes):** RC-572 Fim dos Tempos × Fim do Mundo · RC-569 Eras Zodiacais · RC-560 WD · RC-513 Espiritualidade Errática · RC-499 Forno de Awaymaion · RC-442 Família Yel.
+
+---
+
+## 09/09/2026 — Lote 42: 8º ANEL, GRAU 4 (6 verbetes, 4.376 palavras)
+
+**Despacho do Curador:** «em frente com o lote 42» (`RC-572`, `RC-569`, `RC-560`, `RC-513`, `RC-499`, `RC-442`).
+
+`RC-442` Família Yel (**III.15.3 — endereço novo**, 921 p.) · `RC-513` Espiritualidade Errática (II.7.2, 821) · `RC-499` Forno de Awaymaion (III.10.3, 790) · `RC-560` WD (V.23.3, 643) · `RC-572` Fim dos Tempos × Fim do Mundo (III.16.4, 627) · `RC-569` Eras Zodiacais (III.16.2, **574**).
+
+Acumulado: **275 verbetes** · 6.287 verbatim · 2.753 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 22 de 48 · 26 grau-4 restantes · 398 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `33f5314` na abertura).
+2. **`RC-442` = maior ficha do lote (2.285 p., oito fontes) e abriu o endereço NOVO III.15.3** (Dinastias extraterrestres — 1º verbete da seção). Núcleo documental = narrativa psicografada de Jeane Miranda (B057/B058), fonte secundária — quarentena O-7 (492 mi anos / 5.545 seres só dessa fonte).
+3. **`RC-513` = caso-modelo de quarentena teológica:** leitura de «E Deus viu que era bom» registrada como leitura; linha sob veto (*máscara do bruto*) não transitada.
+4. **`RC-499`:** fonte ART-2025-08-01 declarada (material do curador, não primário); data do bilatério sob chancela TENSÃO INSOLÚVEL F037-L1; divergência de status ficha 🟡 × Base ⚪ registrada.
+5. **`RC-560` = termo-remissão** (caso-modelo inverso do RC-142): ficha declara «não recebe ampliação» (unificação em RC-658); verbete respeita a remissão; cautela de não-fusão do RC-741 registrada em Tensões.
+6. **Renomeação (1):** `V5.23.03-farmacopeia-ancestral.md` → `V5.23.03-RC687-farmacopeia-ancestral.md` (V.23.3 passou a ter 2 verbetes). **Endereço novo (1): III.15.3.**
+7. **Falhas 7 → 0:** 1 caminho `.md` entre crases (armadilha lotes 34/39 reincidente) · 1 formulação da Base aspirada (RC-572, caixa) · 1 elisão nossa com reticências (RC-442 restaurado integral) · 2 travessias de negrito (RC-442 B057) · 1 recorte sem palavra da fonte (RC-513) · 1 itálico da Tensões entre aspas (RC-513).
+
+**Próximos (grau 4, 26 restantes):** RC-437 Joctan e Faleg · RC-433 Força de Atração Sexual · RC-421 As Memórias de Javé · RC-416 Cartas a Javé · RC-404 Sentido Gradualístico · RC-388 Grupo Atlan.

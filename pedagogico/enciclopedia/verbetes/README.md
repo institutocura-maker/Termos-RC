@@ -543,7 +543,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Invasão Ancestral do Genoma | IV.18.3 | `V4/V4.18.03-RC732-invasao-ancestral.md` | 845 | 601 p. |
 | Urdidura de Metatron | II.8.1 | `V2/V2.08.01-rc674-urdidura-de-metatron.md` | 726 | **287 p.** |
 | Orunmilá (Moros de Irém / Orum) | III.14.1 | `V3/V3.14.01-RC665-orunmila.md` | 790 | 1.199 p. |
-| Farmacopeia Ancestral Extraterrestre | V.23.3 | `V5/V5.23.03-farmacopeia-ancestral.md` | **683** | **233 p.** |
+| Farmacopeia Ancestral Extraterrestre | V.23.3 | `V5/V5.23.03-RC687-farmacopeia-ancestral.md` | **683** | **233 p.** |
 
 **Medida final:** 683–898 palavras · **116 verbatim byte a byte** (41 reprovados na 1ª conferência, todos corrigidos) · 74 códigos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -1223,6 +1223,35 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 10. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
 11. **Falhas 12 → 0.** Composição: **3 recortes que atravessaram `**negrito**` da Base** (`RC-587` B089 ×1 — partido em duas aspas contíguas · `RC-587` «já que o Zanuna...») · **1 conjugação alterada dentro da aspa** (`RC-587` — «defendiu» × «defendeu»: tipo recorrente, lote 37) · **2 paráfrases nossas aspiradas** (`RC-587` «soltando bombas» × ficha «soltaram»; `RC-608` formulação da seção Contexto) · **1 expressão da seção Observações aspirada** (`RC-587` regra de status) · **1 citação da seção Observações aspirada** (`RC-631` «informação sensível...») · **2 pontos finais dentro da aspa** (`RC-622` «tesão.» × «tesão»; «Kama Sutra na condição.» × sem ponto) · **2 aspas truncadas com elisão nossa** (`RC-613` «...2021...» e «...diferente...») · **1 recorte com omissão nossa** (`RC-631` «como deles...» × «como deles, independente de ser invertebrado ou não»). Regra reiterada: **aspas nunca atravessam negrito da Base; elisão nossa não pode inventar reticências dentro da aspa — recorta-se em fragmentos limpos.**
 
+### Lote 42 — 8º anel, grau 4 (6 verbetes, 4.376 palavras)
+
+**Despacho do Curador:** «em frente com o lote 42» (`RC-572`, `RC-569`, `RC-560`, `RC-513`, `RC-499`, `RC-442`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Família Yel | **III.15.3** | `V3/V3.15.03-RC442-familia-yel.md` | **921** | **2.285 p.** |
+| Espiritualidade Errática | II.7.2 | `V2/V2.07.02-RC513-espiritualidade-erratica.md` | 821 | 1.846 p. |
+| Forno de Awaymaion | III.10.3 | `V3/V3.10.03-RC499-forno-de-awaymaion.md` | 790 | 1.118 p. |
+| WD — variação de STT unificada em Wyrd/Urd | V.23.3 | `V5/V5.23.03-RC560-wd.md` | 643 | 248 p. |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | III.16.4 | `V3/V3.16.04-RC572-fim-dos-tempos-final-de-ciclo-x-fim-do-mundo.md` | 627 | 425 p. |
+| Eras Zodiacais | III.16.2 | `V3/V3.16.02-RC569-eras-zodiacais.md` | **574** | 295 p. |
+
+**Medida:** 574–921 palavras (média 729) · **57 verbatim byte a byte** · 54 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 16 para 22 de 48.** Estado: 275 verbetes · **398 nós redigíveis** · **26 com grau 4 restantes**.
+
+**Achados do lote 42:**
+
+1. **`RC-442` (Família Yel) tem a maior ficha do lote (2.285 p., oito fontes) e abriu o endereço novo III.15.3** (Dinastias extraterrestres — primeiro verbete da seção). Todo o núcleo documental vem da narrativa psicografada de Jeane Miranda (B057/B058), fonte secundária — quarentena O-7 mantida.
+2. **`RC-513` (Espiritualidade Errática) é o caso-modelo de quarentena teológica do lote:** a leitura de «E Deus viu que era bom» e do criador caído (Prajna) é do autor — registrada como leitura, sem endosso. Linha sob veto (*máscara do bruto, não transita*) **não transitada**.
+3. **`RC-499` (Forno de Awaymaion) tem a fonte mais sensível do lote declarada:** o ART-2025-08-01 é material do curador baseado em Ellam (não primário), confirmado por B061/P2021-12-04. A data do bilatério (~4 bi) segue sob chancela TENSÃO INSOLÚVEL (F037-L1).
+4. **`RC-560` (WD) é o termo-remissão do lote** — caso-modelo inverso do `RC-142`: a ficha declara que **não recebe ampliação** (unificada em `RC-658`); o verbete respeita a remissão e não duplica o verbete de `RC-658`. Cautela de não-fusão do `RC-741` registrada em Tensões.
+5. **`RC-572` e `RC-569` formam o par escatológico-cronológico:** a distinção fim de ciclo × fim de mundo e a métrica 12 × 2.160 = 25.920 — com as cifras de precessão de `RC-567` convivendo sem fusão.
+6. **Renomeação (1):** `V5.23.03-farmacopeia-ancestral.md` → `V5.23.03-RC687-farmacopeia-ancestral.md` — V.23.3 passou a abrigar dois verbetes (`RC-687` + `RC-560`); regra do endereço compartilhado aplicada.
+7. **Endereço novo (1): III.15.3** — `RC-403` e `RC-357` também estão mapeados ali, ainda sem verbete.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+9. **Falhas 7 → 0.** Composição: **1 caminho `.md` entre crases** (`RC-560` — renomeação citada com crases; armadilha dos lotes 34/39, removida) · **1 aspa de formulação da Base** (`RC-572` regra de status, caixa «A aprovação») · **1 recorte com elisão nossa inventando reticências** (`RC-442` trecho do Elusbell — restaurado integral) · **2 travessias de `**negrito**` da Base** (`RC-442` B057 ×2 — partidas) · **1 recorte sem palavra da fonte** (`RC-513` «viviam em ocas» × «viviam também em ocas») · **1 palavra da ficha em itálico entre aspas na seção Tensões** (`RC-513`). Regra reiterada: **caminhos `.md` nunca entre crases; elisão nossa não inventa reticências — recorta-se em fragmentos limpos.**
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1248,7 +1277,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **16 de 48** (lotes 39–41). **405 nós redigíveis**, dos quais **32 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-572` Fim dos Tempos / Final de Ciclo × Fim do Mundo · `RC-569` Eras Zodiacais · `RC-560` WD (fundido em RC-658) · `RC-513` Espiritualidade Errática · `RC-499` Forno de Awaymaion · `RC-442` Família Yel.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **22 de 48** (lotes 39–42). **398 nós redigíveis**, dos quais **26 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-437` Joctan e Faleg (filhos de Heber) · `RC-433` Força de Atração Sexual · `RC-421` As Memórias de Javé · `RC-416` Cartas a Javé · `RC-404` Sentido Gradualístico das Leis da Evolução Cósmica · `RC-388` Grupo Atlan.
 
 ## 5. Como conferir
 
