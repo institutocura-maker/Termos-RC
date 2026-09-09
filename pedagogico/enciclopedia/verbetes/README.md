@@ -96,6 +96,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **36** | 09/09/2026 | `V4/RC-517` Protocolo Mental · `V3/RC-490` Caim · `V3/RC-459` Parvathi · `V3/RC-483` Barbelo · `V3/RC-578` Fim do Experimento Humano · `V3/RC-568` Eras Equinociais | ✅ redigido — 7º anel (grau 5) |
 | **37** | 09/09/2026 | `V2/RC-160` Entropia e Negentropia · `V2/RC-381` Ressonância Mórfica · `V3/RC-398` Thuata de Dannan · `V3/RC-425` Krishna como «pretenso Keshava» · `V3/RC-284` Caos = Brahma = Javé · `V4/RC-268` Gnosticismo | ✅ redigido — 7º anel (grau 5) |
 | **38** | 09/09/2026 | `V2/RC-068` Hiperbórea · `V5/RC-042` Criatura Universal · `V3/RC-142` Yel Luzbel · `V3/RC-149` Mônada · `V2/RC-059` Espiritualidade Superior · `V2/RC-060` Espiritualidade Operacional | ✅ redigido — 7º anel (grau 5) |
+| **39** | 09/09/2026 | `V2/RC-745` Colegiados Espirituais Humanizados · `V1/RC-008` Tzimtzum · `V2/RC-775` Éon das Três Esferas · `V3/RC-928` Sathya Sai Baba · `V3/RC-756` Ganesha · `V3/RC-019` Anjos clones | ✅ redigido — **FECHO DO 7º ANEL + ABERTURA DO 8º** |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -1123,6 +1124,44 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 15. **Renomeação (1):** `V5.22.04-mente-universal-emergente.md` → `V5.22.04-RC163-mente-universal-emergente.md`. **Endereço novo: II.7.5.**
 16. **Falhas 5 → 0.** Composição: **3 aspas curvas da fonte digitadas como retas** (`RC-149` ×3 — B024 p. 111 e B048 p. 15/70: **tipo recorrente**, já visto no lote 30) · **1 expressão nossa aspirada** (`RC-068` — «para a Sibéria», onde a fonte diz «paraa Sibéria») · **1 elisão nossa no meio da aspa** (`RC-042`).
 
+### Lote 39 — fecho do 7º anel + abertura do 8º (6 verbetes, 4.984 palavras)
+
+**Despacho do Curador:** «em frente com `RC-019` + `RC-008` + os quatro primeiros do grau 4».
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Colegiados Espirituais Humanizados | II.7.1 | `V2/V2.07.01-RC745-colegiados-espirituais-humanizados.md` | **1.173** | **1.261 p.** |
+| Tzimtzum | I.3.2 | `V1/V1.03.02-RC008-tzimtzum.md` | **921** | 1.000 p. |
+| Éon das Três Esferas | II.7.6 | `V2/V2.07.06-RC775-eon-das-tres-esferas.md` | 790 | 603 p. |
+| Sathya Sai Baba | III.14.1 | `V3/V3.14.01-RC928-sathya-sai-baba.md` | 739 | 593 p. |
+| Ganesha | III.9.1 | `V3/V3.09.01-RC756-ganesha.md` | 704 | 568 p. |
+| Anjos clones | III.13.3 | `V3/V3.13.03-RC019-anjos-clones.md` | **657** | 541 p. |
+
+**Medida:** 657–1.173 palavras (média 831) · **152 verbatim byte a byte** · 51 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 7º anel (grau 5) está fechado em tudo o que era redigível.** Dos 39 nós, 38 foram redigidos ao longo de sete lotes (33–39). **Só resta `RC-449`, que é remissiva e aguarda despacho do Curador.** Com este lote, **o 8º anel (grau 4) está aberto**: 4 de 48.
+
+**Estado:** 257 verbetes · **393 nós redigíveis** · **44 com grau 4** · 1 com grau 5 (`RC-449`, pendente).
+
+**Achados do lote 39:**
+
+1. **`RC-008` (Tzimtzum) é a ponte entre a Cabala e a cosmologia RC:** «a "contração" de Luria = implosão do Corpo Mental do Criador (a queda)». **A tradição fala em exílio; a RC fala em queda — e a ficha registra as duas sem resolver.**
+2. **A fórmula que a RC recusa:** os rabinos oferecem o «exílio»; Ellam responde: «os rabinos transformaram a queda do criador num passo de dança» — e depois diz a seco: «Mas fica feio o negócio de queda.»
+3. **A imagem final é de B013 p. 146:** o Criador cai «na Nuvem que ele próprio havia criado».
+4. **`RC-019` (Anjos clones) cabe numa insistência:** «eles são 100, não é 99, são 100% fiéis». A **trava** é explícita: a angelologia católica como «romantismo» e a tese «anjo não cuida de humano» são **dito do autor, não doutrina da Base**.
+5. **`RC-745` (Colegiados) tem a maior ficha do lote (1.261) e deu o maior verbete (1.173).** Seis polos, e a sentença que os atravessa: «A devoção é que imbecilizou totalmente o ser humano».
+6. **A origem dos colegiados é um pedido:** «criem um método para vocês estudarem.» (D-8.)
+7. **Limites obrigatórios de `RC-745`, todos respeitados:** não equivalem ao futuro colegiado dignificado (absorvido em `RC-612`/`RC-613`, sem registro autônomo) nem ao Colegiado do Paraíso, a anjos-clones ou a demos não hibridizados.
+8. **A honra demodármica não virou código** (decisão D-1): «Essa honra demodármica sempre se ancorou nas relações da linhagem, das linhagens genéticas.»
+9. **`RC-928` (Sathya Sai Baba) — bloco sob quarentena não trazido:** a ficha contém uma «Leitura interpretativa — [NÃO ANCORADA / QUARENTENA]», marcada como **interpretação editorial sem ancoragem em fonte RC versionada**. **O verbete não a reproduziu** — mesmo critério das quarentenas política e biomediúnica.
+10. **`RC-928`: a biografia está demarcada pela própria ficha** — os fatos verificáveis do mundo são apresentados como **não** doutrina RC. O verbete registrou a **função** (a encarnação na linhagem Sai), não a biografia.
+11. **`RC-775` (Éon das Três Esferas) tem a proveniência mais sensível do lote:** a fonte é **material do curador (não primário)**, por autorização excepcional (Devolutiva Trilogia TALM, O-3). **O verbete declarou isso em vez de apresentar o dossiê como obra de Ellam.**
+12. **A datação de `RC-775` foi encerrada pelo Mutirão (Lote 1):** «Fim da Lila/Trimurti (2015 d.C.)», no bruto de B050.
+13. **`RC-756` (Ganesha) é a exceção que confirma a regra:** «não foi por metamorfose». E a resposta que fecha o verbete: à pergunta se é o filho que volta, «Outro ser.»; sobre os elefantes, «São diferentes.»
+14. **A variante «ser demobio» (2021) entrou como variante datada, sem alterar a ficha** — o verbete manteve esse regime.
+15. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
+16. **Falhas 6 → 0**, com **dois tipos novos**: (a) **caminho de ficha inventado no cabeçalho** — escrevi `termos/RC-775-eon-das-tres-esferas-superloka-geno.md` quando o arquivo real é `termos/RC-775-eon-das-tres-esferas.md`; o verificador abortou («documento-fonte declarado inexistente»). **Lição: o nome do termo na Base não é o nome do arquivo — conferir sempre com `ls termos/RC-NNN-*.md`.** (b) **aspa começando depois de uma aspa dupla da ficha** — «o primeiro ato…» não existe na fonte, porque lá está `o "primeiro ato…`; o recorte tem de começar depois do sinal. Demais: 1 caixa inicial (`A devoção` × `a devoção`), 1 expressão nossa aspirada, 1 caixa errada (`superloka` × `Superloka`).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1148,7 +1187,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **36 redigidos** nos lotes 33–38; **399 nós redigíveis**, dos quais **3 com grau 5**: `RC-449` (remissiva F045 de `RC-164`, à espera de despacho), `RC-019` Anjos clones e `RC-008` Tzimtzum. **O 8º anel (grau 4) tem 48 nós.**
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**, aberto no lote 39: **4 de 48**. **393 nós redigíveis**, dos quais **44 com grau 4**. Próximos seis: `RC-742` Falência dos Deuses · `RC-684` Abel · `RC-672` Os 366 Manuscritos de Enoque · `RC-669` Pashupati · `RC-668` Som da Flauta · `RC-635` Conclave da Espiritualidade Laboratorial.
 
 ## 5. Como conferir
 

@@ -844,3 +844,26 @@ Acumulado: **251 verbetes** (5.916 verbatim) · 2.538 códigos · **0 falhas** �
 10. **Falhas 5 → 0:** 3 **aspas curvas da fonte digitadas como retas** (RC-149 ×3 — **tipo recorrente**, lote 30) · 1 expressão nossa aspirada (RC-068) · 1 elisão nossa no meio da aspa (RC-042).
 
 **Estado do 7º anel: 3 nós de grau 5** — `RC-449` (remissiva, à espera de despacho) · `RC-019` Anjos clones · `RC-008` Tzimtzum. **8º anel (grau 4): 48 nós.**
+
+---
+
+## 09/09/2026 — Lote 39: FECHO DO 7º ANEL + ABERTURA DO 8º (6 verbetes, 4.984 palavras)
+
+**Despacho do Curador: «em frente com RC-019 + RC-008 + os quatro primeiros do grau 4»** — RC-019, RC-008, RC-928, RC-775, RC-756, RC-745.
+
+`RC-745` Colegiados Espirituais Humanizados (II.7.1, **1.173**) · `RC-008` Tzimtzum (I.3.2, **921**) · `RC-775` Éon das Três Esferas (II.7.6, 790) · `RC-928` Sathya Sai Baba (III.14.1, 739) · `RC-756` Ganesha (III.9.1, 704) · `RC-019` Anjos clones (III.13.3, **657**).
+
+Acumulado: **257 verbetes** (6.068 verbatim) · 2.593 códigos · **0 falhas** · Base intacta · 0 código criado. **393 redigíveis · 44 com grau 4 · 1 com grau 5 (RC-449, pendente).**
+
+1. **Ambiente estável** (HEAD = remoto = `c2e9f09` na abertura).
+2. **7º ANEL FECHADO em tudo o que era redigível:** 38 de 39 nós (lotes 33–39). **Só resta RC-449** (remissiva F045 de RC-164), à espera de despacho. **8º ANEL ABERTO:** 4 de 48.
+3. **RC-008 = ponte Cabala × RC:** «a "contração" de Luria = implosão do Corpo Mental do Criador (a queda)». Tradição fala em exílio; RC fala em queda; **as duas registradas sem resolução**. «os rabinos transformaram a queda do criador num passo de dança»; «Mas fica feio o negócio de queda.»
+4. **RC-019:** «eles são 100, não é 99, são 100% fiéis». **Trava:** angelologia católica como «romantismo» e «anjo não cuida de humano» = **dito do autor, não doutrina da Base**. 4 lacunas declaradas (RC-031 sem aresta e sem arquivo; RC-037/055/147 sem aresta).
+5. **RC-745:** maior ficha (1.261) e maior verbete (1.173). Seis polos; «A devoção é que imbecilizou totalmente o ser humano»; origem = pedido («criem um método para vocês estudarem», D-8); **honra demodármica não vira código** (D-1); quarentena biomediúnica não trazida.
+6. **RC-928: bloco sob quarentena NÃO trazido** — «Leitura interpretativa [NÃO ANCORADA / QUARENTENA]» (interpretação editorial sem ancoragem). Mesmo critério das quarentenas política e biomediúnica. **Biografia demarcada pela ficha** como não-doutrina; verbete registrou a função.
+7. **RC-775: proveniência sensível declarada** — fonte = «material do curador (não primário)», por autorização excepcional (Devolutiva Trilogia TALM, O-3). Datação encerrada pelo Mutirão Lote 1 («Fim da Lila/Trimurti (2015 d.C.)»).
+8. **RC-756:** «não foi por metamorfose»; «Outro ser.»; «São diferentes.»; variante «ser demobio» (2021) como variante datada, sem alterar a ficha.
+9. **Nenhum endereço novo, nenhuma renomeação.**
+10. **Falhas 6 → 0 com DOIS TIPOS NOVOS:** (a) **caminho de ficha inventado no cabeçalho** (`termos/RC-775-eon-das-tres-esferas-superloka-geno.md` × real `termos/RC-775-eon-das-tres-esferas.md`) — **o nome do termo na Base NÃO é o nome do arquivo; conferir sempre com `ls termos/RC-NNN-*.md`**; (b) **aspa começando depois de aspa dupla da ficha** («o primeiro ato…» inexiste; a fonte tem `o "primeiro ato…`). Demais: caixa inicial, expressão nossa aspirada, caixa errada.
+
+**Próximos (grau 4, 44 restantes):** RC-742 Falência dos Deuses · RC-684 Abel · RC-672 Os 366 Manuscritos de Enoque · RC-669 Pashupati · RC-668 Som da Flauta · RC-635 Conclave da Espiritualidade Laboratorial.
