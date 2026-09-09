@@ -821,3 +821,26 @@ Acumulado: **245 verbetes** (5.766 verbatim) · 2.476 códigos · **0 falhas** �
 11. **Nenhum endereço novo, nenhuma renomeação.**
 
 **Próximos (grau 5, 9 restantes):** RC-149 Mônada · RC-142 Yel Luzbel · RC-068 Hiperbórea · RC-060 Espiritualidade Operacional · RC-059 Espiritualidade Superior · RC-042 Criatura Universal · (+ RC-928, RC-008, RC-019). **`RC-449` continua à espera de despacho.**
+
+---
+
+## 09/09/2026 — Lote 38: 7º anel, grau 5 (6 verbetes, 5.228 palavras)
+
+**Despacho do Curador: «em frente com os próximos seis do grau 5»** — RC-068, RC-042, RC-149, RC-142, RC-059, RC-060.
+
+`RC-068` Hiperbórea (**II.7.5**, **1.204**) · `RC-042` Criatura Universal (V.22.4, **1.155**) · `RC-142` Yel Luzbel (III.12.1, 859) · `RC-149` Mônada (III.13.5, 768) · `RC-059` Esp. Superior (II.7.2, 658) · `RC-060` Esp. Operacional (II.7.2, **584**).
+
+Acumulado: **251 verbetes** (5.916 verbatim) · 2.538 códigos · **0 falhas** · Base intacta · 0 código criado. **399 redigíveis · 3 com grau 5** (36 de 39 em seis lotes).
+
+1. **Ambiente estável** (HEAD = remoto = `92af866` na abertura).
+2. **⚠️ CORREÇÃO DE REGISTRO:** o commit `5854aa8` saiu com a mensagem «FECHO DO 7º ANEL (grau 5 = 0)» — **falso: grau 5 = 3**. Amend + force-with-lease → `3248c7f` com a mensagem correta. (Force-push só depois de `fetch` + conferência do tip remoto = `5854aa8`.)
+3. **RC-142 = precedente para RC-449.** É termo-remissa de RC-078 (Devolutiva B057, O-2), mas **tem material exclusivo**; o verbete trouxe só isso e não duplicou RC-078. **É o modelo a aplicar em RC-449 se o Curador mandar redigi-lo.**
+4. **RC-142 — blindagem F031 (caso-modelo):** doc terciário fundia Yel × Len Mion; a fonte-mãe desmente («receptor contaminado», não agente Satã); «A Base mantém as fichas separadas»; «nada do doc foi propagado (ledger D-1)».
+5. **RC-068** = maior ficha (2.289) e maior verbete (1.204). «Toda a história da Terra é voltada pro chamado norte sagrado». Thule não virou termo (O-8). Refatorado F030 **não é fonte**; datas 20 mil/15 mil **não adotadas**. **Retratação registrada na ficha** (frase atribuída ao bruto não existe nele) — **não reproduzida**. **Quarentena étnica** assinalada; sem leitura racial/eugênica.
+6. **RC-042:** «ele não precisa estar 100% recomposto, ele precisa estar 100% limpo»; a chave genética (CFDMO + DNAs); prazo de 18.000 anos = formulação oral de 2020, sem suporte em livro (D-10).
+7. **RC-149:** «amorosas, ingênuas e incapacitadas de não amarem» (B048). **Dois processos:** a Esp. Superior «deu de si mônadas» + os Adhyatman «retiraram de si mônadas» — «os dois processos tiveram lugar».
+8. **RC-059/RC-060 = âncoras de governança (F045)**, sem citação direta de fala. **Nenhuma aspa inventada.**
+9. **Renomeação (1):** `V5.22.04-RC163-mente-universal-emergente.md`. **Endereço novo: II.7.5.**
+10. **Falhas 5 → 0:** 3 **aspas curvas da fonte digitadas como retas** (RC-149 ×3 — **tipo recorrente**, lote 30) · 1 expressão nossa aspirada (RC-068) · 1 elisão nossa no meio da aspa (RC-042).
+
+**Estado do 7º anel: 3 nós de grau 5** — `RC-449` (remissiva, à espera de despacho) · `RC-019` Anjos clones · `RC-008` Tzimtzum. **8º anel (grau 4): 48 nós.**

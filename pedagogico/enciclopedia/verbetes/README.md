@@ -95,6 +95,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **35** | 09/09/2026 | `V5/RC-593` Mahabharata · `V4/RC-644` Xamanismo Virtual · `V5/RC-647` Evangelho de Judas · `V3/RC-607` Cinco Seres LM · `V2/RC-603` Círculo da Perfeição · `V2/RC-601` Departamentalização da Vida | ✅ redigido — 7º anel (grau 5) |
 | **36** | 09/09/2026 | `V4/RC-517` Protocolo Mental · `V3/RC-490` Caim · `V3/RC-459` Parvathi · `V3/RC-483` Barbelo · `V3/RC-578` Fim do Experimento Humano · `V3/RC-568` Eras Equinociais | ✅ redigido — 7º anel (grau 5) |
 | **37** | 09/09/2026 | `V2/RC-160` Entropia e Negentropia · `V2/RC-381` Ressonância Mórfica · `V3/RC-398` Thuata de Dannan · `V3/RC-425` Krishna como «pretenso Keshava» · `V3/RC-284` Caos = Brahma = Javé · `V4/RC-268` Gnosticismo | ✅ redigido — 7º anel (grau 5) |
+| **38** | 09/09/2026 | `V2/RC-068` Hiperbórea · `V5/RC-042` Criatura Universal · `V3/RC-142` Yel Luzbel · `V3/RC-149` Mônada · `V2/RC-059` Espiritualidade Superior · `V2/RC-060` Espiritualidade Operacional | ✅ redigido — 7º anel (grau 5) |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -1086,6 +1087,42 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 17. **Falhas 4 → 0.** Composição: **1 conjugação alterada dentro da aspa** (`RC-381` — escrevi «ele propôs» onde a fonte diz «ele propõe»: **tipo novo**) · **1 aspa começando dentro do negrito da ficha** (`RC-381`) · **1 caixa errada** (`RC-381` — «morlens» × «Morlens») · **1 palavra omitida** (`RC-284` — «na voz dos espíritos» × «na voz dos próprios espíritos»).
 18. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
 
+### Lote 38 — 7º anel, grau 5 (6 verbetes, 5.228 palavras)
+
+**Despacho do Curador:** «em frente com os próximos seis do grau 5».
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Hiperbórea | **II.7.5** | `V2/V2.07.05-hiperborea.md` | **1.204** | **2.289 p.** |
+| Criatura Universal | V.22.4 | `V5/V5.22.04-RC042-criatura-universal.md` | **1.155** | 1.729 p. |
+| Yel Luzbel | III.12.1 | `V3/V3.12.01-RC142-yel-luzbel.md` | 859 | 975 p. |
+| Mônada (Mônada Espiritual) | III.13.5 | `V3/V3.13.05-RC149-monada.md` | 768 | 698 p. |
+| Espiritualidade Superior | II.7.2 | `V2/V2.07.02-RC059-espiritualidade-superior.md` | 658 | 463 p. |
+| Espiritualidade Operacional | II.7.2 | `V2/V2.07.02-RC060-espiritualidade-operacional.md` | **584** | 380 p. |
+
+**Medida:** 584–1.204 palavras (média 871) · **150 verbatim byte a byte** · 48 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Avanço:** 251 verbetes · **399 nós redigíveis** · **3 com grau 5** — `RC-449` (remissiva, à espera de despacho), `RC-019` Anjos clones e `RC-008` Tzimtzum. **O 7º anel está a três nós do fecho.**
+
+**Achados do lote 38:**
+
+1. **`RC-142` (Yel Luzbel) é o caso que resolve a questão das remissivas — e é o precedente de que `RC-449` precisa.** É **termo-remissa** de `RC-078` por decisão do Curador (Devolutiva B057, O-2), mas **tem material exclusivo**: a contagem medida («Yel» 1× no bruto; «Yel Luzbel» 0×), a variante feminizada do STT («a rebelião de Lúcia»), o centro de comando das 250.000 famílias, a infecção do processador da família Iel e a blindagem F031. **O verbete trouxe só o material exclusivo e não duplicou `RC-078`.**
+2. **A blindagem F031 de `RC-142` é um caso-modelo:** um documento terciário («1-EDR-O Livro») afirmava a **fusão** entre Yel Luzbel e Len Mion; a própria fonte-mãe desmente — Yel é o «receptor contaminado» da infecção, não o agente Satã. «A Base mantém as fichas separadas» «; nada do doc foi propagado (ledger D-1).»
+3. **A contaminação tem órgão e verbo:** «ia infectar o processador da família Iel e infectou»; «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu».
+4. **`RC-068` (Hiperbórea) tem a maior ficha do lote (2.289) e deu o maior verbete (1.204).** A tese: «Toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul... era o norte sagrado por causa da Hiperbórea... o point, o lugar chique era essa Hiperbórea.»
+5. **Thule não virou termo** (Devolutiva O-8): as grafias orais (Tul / Thu / Tool / Tur) ficam como ouvidas.
+6. **O refatorado F030 não é fonte em `RC-068`:** as datas «20 mil»/«15 mil» **não foram adotadas**; a âncora é a fala («há 14.000 anos atrás»).
+7. **A ficha de `RC-068` registra uma retratação:** uma frase atribuída ao bruto num dossiê anterior **não existe** nele, e nada foi aplicado em nome dela. **O verbete não a reproduziu.**
+8. **Quarentena étnica em `RC-068`:** o uso de «tipo ideal» na descrição dos protótipos está assinalado. O verbete registrou a «cota do código» como dado datado e **não desenvolveu nenhuma leitura racial ou eugênica**.
+9. **`RC-042` (Criatura Universal) tem a fórmula mais resolutiva do lote:** «ele não precisa estar 100% recomposto, ele precisa estar 100% limpo».
+10. **A chave genética de `RC-042`:** «CFDMO com DNA bio mais o DNA humano com expressão de Pandora mais o DNA humano com expressão de chiva de vigo» — «universal dotada chave genética para desligar a criação.»
+11. **O prazo de 18.000 anos é formulação oral de 2020** (D-10): «0 correspondência em livro — não inventar suporte».
+12. **`RC-149` (Mônada):** a definição mais bonita do lote é de B048 — as mônadas são «amorosas, ingênuas e incapacitadas de não amarem».
+13. **Dois processos, e não um:** a Espiritualidade Superior «deu de si mônadas» **e** os Adhyatman de Perpérion «desenvolveram uma tecnologia espiritual na qual retiraram de si mônadas» — «os dois processos tiveram lugar».
+14. **`RC-059` e `RC-060` são âncoras estruturais de governança (F045):** síntese de leitura, sem citação direta de fala. **O verbete não inventou aspas para suprir a falta** — e registrou que nenhuma aresta nova foi criada.
+15. **Renomeação (1):** `V5.22.04-mente-universal-emergente.md` → `V5.22.04-RC163-mente-universal-emergente.md`. **Endereço novo: II.7.5.**
+16. **Falhas 5 → 0.** Composição: **3 aspas curvas da fonte digitadas como retas** (`RC-149` ×3 — B024 p. 111 e B048 p. 15/70: **tipo recorrente**, já visto no lote 30) · **1 expressão nossa aspirada** (`RC-068` — «para a Sibéria», onde a fonte diz «paraa Sibéria») · **1 elisão nossa no meio da aspa** (`RC-042`).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1111,7 +1148,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **30 redigidos** nos lotes 33–37; **405 nós redigíveis**, dos quais **9 com grau 5**. Próximos: `RC-149` Mônada · `RC-142` Yel Luzbel · `RC-068` Hiperbórea · `RC-060` Espiritualidade Operacional · `RC-059` Espiritualidade Superior · `RC-042` Criatura Universal. ⚠️ `RC-449` (remissiva F045 de `RC-164`) segue à espera de despacho e não entra na contagem.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **36 redigidos** nos lotes 33–38; **399 nós redigíveis**, dos quais **3 com grau 5**: `RC-449` (remissiva F045 de `RC-164`, à espera de despacho), `RC-019` Anjos clones e `RC-008` Tzimtzum. **O 8º anel (grau 4) tem 48 nós.**
 
 ## 5. Como conferir
 
