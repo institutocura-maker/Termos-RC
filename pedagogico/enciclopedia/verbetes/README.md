@@ -1551,6 +1551,33 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Seis seções tocadas (+1 cada):** III.13.1 (4 → 5), III.16.2 (6 → 7), IV.20.1 (15 → 16), III.13.5 (9 → 10), II.6.1 (5 → 6). **II.6.2 recebe seu 1º verbete** (abertura da pasta V2.06.02; a seção já existia no índice). Nenhum endereço novo, nenhuma renomeação.
 7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (sexto lote limpo de primeira).
 
+### Lote 54 — 9º anel, grau 3 (6 verbetes, 4.652 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 54» (`RC-516`, `RC-503`, `RC-495`, `RC-485`, `RC-448`, `RC-443`). *(Ambiente estável — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Família Mion | III.15.3 | `V3/V3.15.03-RC443-familia-mion.md` | **1.035** | **1.486 p.** |
+| Hibridização genética (Nefilim reinterpretado) | IV.18.3 | `V4/V4.18.03-RC516-hibridizacao-genetica-nefilim-reinterpretado.md` | 892 | 1.133 p. |
+| Deslacre (rompimento dos lacres psíquicos) | IV.19.1 | `V4/V4.19.01-RC448-deslacre-rompimento-dos-lacres-psiquicos.md` | 724 | 622 p. |
+| Classes de anjos de Arabot-Ráquia | III.13.3 | `V3/V3.13.03-RC485-classes-de-anjos-de-arabot-raquia.md` | 718 | 429 p. |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | II.7.4 | `V2/V2.07.04-RC495-arabot-raquia-shekinah-merkabah.md` | 706 | 380 p. |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | III.10.3 | `V3/V3.10.03-RC503-mavatna-mavatma-mavat-vishnu-em-condicao-adhyatman.md` | **577** | **88 p.** |
+
+**Medida:** 577–1.035 palavras (média 775) · **56 verbatim byte a byte** · 38 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 42 de 66.** Estado: 343 verbetes · **330 nós redigíveis** · **24 com grau 3 restantes**.
+
+**Achados do lote 54:**
+
+1. **`RC-443` (Família Mion) — a maior ficha do lote (1.486 p.):** a estirpe de Len Mion (Satã) e Gron Mion nos "Livros de Yel Luzbel"; mais antiga que a Família Yel; «não mudavam a sua rota até conseguirem os resultados pretendidos. Eles eram fortes, obstinados e ousados» (B057 p. 59); o "Processador Mion"; «essa foi a perdição da família Mion»; protagonismo no Livro 2 (B058 — conclave, confronto com Sophia, oferta do Processador ao renunciante); falas com selos D-7/D-9/D-10 (Cromons/Miões antes; mistura com o processador vol; «a cromon, miom... a primeira porrada»). Quarentena mediumística O-7.
+2. **`RC-516` (Hibridização genética) — os Nefilins reinterpretados:** «Os primeiros anunnaki que desobedeceram Anu e transaram com mulheres humanas» (P2021-03-27); pamíxia com **veto de código mantido** (termo-observação; STT "ponixia"); dois canais de troca (sexual e laboratorial); travas genéticas (P2020-04-25, anterioridade 11 meses); selos D-10 (P2022-03-26, 2,5 bi anos) e D-9/D-10 (P2023-12-03); "Henk" F041-L5 AGUARDA-ÁUDIO. **Blindagem:** leitura do autor, não genética validada.
+3. **`RC-448` (Deslacre) — o primeiro verbete de IV.19.1 a entrar no 9º anel:** conceito dos "Livros de Yel Luzbel" (B057 p. 19: a mutação de Yel Luzbel; B058 SÍNTESE p. 1: o deslacre dos Rebelados de Capela); "o alto patamar de 'deslacre'" (B058 p. 73); **quarentena mediumística O-7** (narrativa psicografada); ficha criada no ciclo B058 (Devolutiva O-2, 2026-08-25); 0 códigos novos.
+4. **`RC-495`/`RC-485` (Arabot-Ráquia e suas classes, P2026-07-25):** Shekinah (artefato/vestimento antimaterial) e Merkabah absorvidas em RC-495 por Devolutiva do curador; o relato de Pinheiros 2007 («meu filho, você precisa fazer um pacto comigo») como vivência pessoal não validada; anjos "robôs" de Javé com as exceções dos ministradores (Uzza, Azza, Azael — «Eu fiz e eu carrego»); Anafiel/Raziel e o rabino Ismael; anjo "Português" F039-L3 (STT preservado).
+5. **`RC-503` (Mavátma/Mavatna/Mavat) — a menor ficha do lote (88 p.):** estado mínimo (uma única ampliação da P2024-03-02, sem definição sintética); «o eu caído de Prabrajna... é muito inferior ao eu caído de Mavatna... porque aqui houve mergulho»; variação de RC-408 (ADHYMAVATANA).
+6. **Seis seções tocadas (+1 cada):** IV.18.3 (14 → 15), III.10.3 (6 → 7), II.7.4 (0 → 1 — **primeiro verbete da pasta**), III.13.3 (3 → 4), IV.19.1 (8 → 9), III.15.3 (3 → 4). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (6 intermediárias — aspas com `[...]`/`...` e cruzando negrito — corrigidas antes do fecho).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1587,7 +1614,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 36 de 66** (lotes 48–53, 28.866 palavras). **336 nós redigíveis** · **30 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-516` Hibridização genética (Nefilim reinterpretado) · `RC-503` Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) · `RC-495` Arabot-Ráquia (ambiente de Javé; = Araboth) · `RC-485` Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) · `RC-448` Deslacre (rompimento dos lacres psíquicos) · `RC-443` Família Mion.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 42 de 66** (lotes 48–54, 33.518 palavras). **330 nós redigíveis** · **24 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-403` Colegiado Druídico · `RC-396` Kvasir e Freya (Vanir/Aesir) · `RC-382` A Vida do CFD de Javé no Ser Humano · `RC-379` Dança dos Elétrons · `RC-359` Abduções e Reparo Espiritual · `RC-357` Confederações de Mundos.
 
 ## 5. Como conferir
 

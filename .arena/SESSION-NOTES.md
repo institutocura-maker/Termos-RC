@@ -1159,3 +1159,24 @@ Acumulado: **337 verbetes** · 6.917 verbatim · 3.256 códigos · **0 falhas** 
 8. **Falhas 0 → 0 (6º lote limpo de primeira).**
 
 **Próximos (grau 3, 30 restantes):** RC-516 Hibridização genética (Nefilim reinterpretado) · RC-503 Mavátma / Mavatna / Mavat · RC-495 Arabot-Ráquia (= Araboth) · RC-485 Classes de anjos de Arabot-Ráquia · RC-448 Deslacre · RC-443 Família Mion (1.540 p.).
+
+---
+
+## 09/09/2026 — Lote 54: 9º ANEL, GRAU 3 (6 verbetes, 4.652 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 54» (`RC-516`, `RC-503`, `RC-495`, `RC-485`, `RC-448`, `RC-443`).
+
+`RC-443` Família Mion (**III.15.3 — 4º da seção**, 1.035 p.; ficha **1.486 p.** — a maior do lote) · `RC-516` Hibridização genética (**IV.18.3 — 15º da seção**, 892) · `RC-448` Deslacre (**IV.19.1 — 9º da seção**, 724) · `RC-485` Classes de anjos de Arabot-Ráquia (**III.13.3 — 4º da seção**, 718) · `RC-495` Arabot-Ráquia (**II.7.4 — 1º da seção**, **abre a pasta V2.07.04**, 706) · `RC-503` Mavátma/Mavatna/Mavat (**III.10.3 — 7º da seção**, **577** — ficha mínima de **88 p.**).
+
+Acumulado: **343 verbetes** · 6.973 verbatim · 3.303 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 42 de 66 · 24 grau-3 restantes · 330 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `a910593` na abertura; sem incidente).
+2. **`RC-443` (III.15.3):** estirpe de Len Mion/Gron Mion (Livros de Yel Luzbel, Jeane Miranda); B057 (p.59 «não mudavam a sua rota... fortes, obstinados e ousados»; p.52 apresentação de Len; p.60 Processador Mion; p.61 «essa foi a perdição da família Mion»); B058 (sinopse p.1; conclave p.14-15; papéis p.58; irredutibilidade p.61; oferta do Processador p.71; lealdade p.73); P2020-08-08 (Cromons/Miões antes — guerreiros × Iels, 310 Ma); P2020-04-25 (250.000 famílias biodêmicas, D-7, anterioridade 3 meses); P2022-03-26 (mistura com processador vol, D-10); P2023-12-03 (D-9/D-10). Quarentena O-7 (psicografada). **Correções de aspa:** 5 spans com [negrito]/... refeitos em fragmentos limpos.
+3. **`RC-516` (IV.18.3):** Nefilim reinterpretado como hibridização anunnaki×humana (P2021-03-27 citação-chave; extermínio; escassez; sangue pós-diluviano); pamíxia (P2021-05-15) com **VETO DE CÓDIGO** (termo-observação; STT «ponixia»; RC-056/RC-729); 2 canais (sexual/laboratorial; demobi/demobiol); constrangimento moral (pecado); travas genéticas (P2020-04-25 — anterioridade 11 meses); selos D-10/D-9-D-10; «Henk» F041-L5 AGUARDA-ÁUDIO. Blindagem: leitura do autor.
+4. **`RC-448` (IV.19.1):** Deslacre dos "Livros de Yel Luzbel"; B057 p.19 (mutação/vibração inusitada de Yel Luzbel); B058 SÍNTESE p.1 (deslacre → Rebelados de Capela); p.43 (bloqueio rompido/falhas na realidade); p.73 («o alto patamar de 'deslacre'...», Primeiro em Comando dos Mion); ficha do ciclo B058 (Devolutiva O-2 2026-08-25); **quarentena mediumística O-7**; 0 códigos novos; eco CFDP RC-153. 1 correção de aspa (negrito em «Rebelados de Capela»).
+5. **`RC-495`/`RC-485` (P2026-07-25, dossiê 19/08/2026):** Arabot-Ráquia = morada de Javé no Brahmaloka (base laboratorial + nave antimaterial; ~25.000 anos); **Shekinah e Merkabah absorvidas** (Devolutiva curador) — artefatos antimateriais (chequiná/mercabá STT); relato Pinheiros 2007 = vivência pessoal não validada («meu filho, você precisa fazer um pacto comigo»); RC-485: anjos "robôs" de Javé (ninguém aceita anjo no conselho dos arcontes); ministradores Uzza/Azza/Azael («Eu fiz e eu carrego, e eu carrego e eu livro»); Anafiel/Raziel (cheiro de Enoque); rabino Ismael (6+1 salões); anjo "Português"/Ofiúsa F039-L3. Status: registro ⚪ × ficha 🟡 em ambos — registrado sem harmonização.
+6. **`RC-503` (III.10.3):** ficha mínima de 88 p. (só ampliação P2024-03-02, sem definição sintética): «o eu caído de Prabrajna, que a gente chama de Brama, é muito inferior ao eu caído de Mavatna, que se chama Vishnu, porque aqui houve mergulho, aqui houve uma queda»; variação de RC-408 ADHYMAVATANA; verbete mais enxuto do lote (577 p.) proporcional à ficha.
+7. **Seis seções (+1 cada):** IV.18.3 14→15 · III.10.3 6→7 · **II.7.4 0→1 (pasta V2.07.04 aberta)** · III.13.3 3→4 · IV.19.1 8→9 · III.15.3 3→4. Nenhum endereço novo; nenhuma renomeação.
+8. **Falhas 0 → 0** (6 intermediárias — aspas com colchetes/`...` e cruzando negrito — corrigidas antes do fecho).
+
+**Próximos (grau 3, 24 restantes):** RC-403 Colegiado Druídico · RC-396 Kvasir e Freya (Vanir/Aesir) · RC-382 A Vida do CFD de Javé no Ser Humano · RC-379 Dança dos Elétrons · RC-359 Abduções e Reparo Espiritual · RC-357 Confederações de Mundos.
