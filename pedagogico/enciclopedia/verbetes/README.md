@@ -1338,6 +1338,32 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 9. **Falhas 2 → 0:** 1 span cruzando `**negrito**` da Base (`RC-301` B088 «Algo age por meio de nós, ó Pandora!» — recorte pela parte limpa) · 1 span com caixa divergente (`RC-259` «do jeito que quis» × «DO JEITO QUE QUIS» — parafraseado sem aspa). Regra reiterada: **caixa dentro da aspa é byte a byte** (maiúsculas do STT preservadas).
 
+### Lote 46 — 8º anel, grau 4 (6 verbetes, 5.462 palavras)
+
+**Despacho do Curador:** «Maravilha! Em frente com o lote 46» (`RC-226`, `RC-225`, `RC-189`, `RC-151`, `RC-109`, `RC-070`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Isolamento Cósmico | III.12.4 | `V3/V3.12.04-RC070-isolamento-cosmico.md` | **1.172** | **1.412 p.** |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | I.3.1 | `V1/V1.03.01-RC151-gunas-criadoras-sattva-rajas-tamas.md` | 1.128 | **1.445 p.** |
+| Val (Família Val) | III.15.3 | `V3/V3.15.03-RC109-val-familia-val.md` | 885 | 779 p. |
+| Eva (figura) | III.14.2 | `V3/V3.14.02-RC189-eva-figura.md` | 816 | 726 p. |
+| Gestão Cósmica | II.8.1 | `V2/V2.08.01-RC225-gestao-cosmica.md` | 771 | 598 p. |
+| Cidadão Cósmico | V.22.3 | `V5/V5.22.03-RC226-cidadao-cosmico.md` | **690** | 455 p. |
+
+**Medida:** 690–1.172 palavras (média 910) · **81 verbatim byte a byte** · 56 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 40 para 46 de 48.** Estado: 299 verbetes · **374 nós redigíveis** · **2 com grau 4 restantes** (`RC-064` Fenvans · `RC-004` Elohim).
+
+**Achados do lote 46:**
+
+1. **`RC-151` (Gunas Criadoras) e `RC-070` (Isolamento Cósmico) têm as maiores fichas do lote (1.445 e 1.412 p.):** Gunas traz a tabela Rajas/Sattva/Tamas × Prabrajna/Mavatna/Savna × 5%/27%/68% sob **quarentena científica** (analogia, não fato; variação 4% registrada) e a averbação F043 T2 (GKA/Kris Amon, obra de apoio — não co-autoria); Isolamento Cósmico cruza B003/B025/B026/B005/B033 com **notas de anterioridade** (P2020-04-25, 13 meses) e o episódio **inédito** do QG teletransportado (~64 mil anos, datado sem harmonizar).
+2. **`RC-109` (Família Val) e `RC-189` (Eva) são verbetes de fichas materializadas** (despacho 29/08/2026; ciclo P2017-10-14 e P2023-12-03; 0 termos/0 relações novas): Val preserva a quarentena social (dito, não endossado) e o STT 'Vol/Família V'; Eva é o caso-modelo de **aspa única D-2** — só «foi o DNAzinho de Maria em Jesus…» transita; a âncora "Depois que Eva disse…" ficou **retida por máscara do STT (D-4), não reescrita**.
+3. **`RC-225` (Gestão Cósmica) e `RC-226` (Cidadão Cósmico) formam o par B033 do lote:** Gestão registra a divisão do comando universal com Jesus (22/02/2012) e o corte clínico («3% da doença do criador» = fora); Cidadão Cósmico é o ideal antropológico "apesar do isolamento", com corte institucional (Orbum = fora) — o par se cruza via `RC-070`.
+4. **Endereços tocados (6):** III.12.4 (2 → 3), I.3.1 (4 → 5), III.15.3 (2 → 3), III.14.2 (4 → 5), II.8.1 (20 → 21), V.22.3 (1 → 2). Nenhum endereço novo, nenhuma renomeação.
+5. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+6. **Falhas 2 → 0:** RC-225 aspa interna reta vs curva (“computador”) · RC-070 elisão nossa com reticências inventadas (recorte pelo fragmento limpo da P2024-03-17). Regra reiterada: **reticências dentro da aspa só as da ficha; elisão nossa recorta em fragmento limpo**.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1363,7 +1389,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **40 de 48** (lotes 39–45). **380 nós redigíveis**, dos quais **8 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-226` Cidadão Cósmico · `RC-225` Gestão Cósmica · `RC-189` Eva (figura) · `RC-151` Gunas Criadoras (Sattva, Rajas, Tamas) · `RC-109` Família Val · `RC-070` Isolamento Cósmico.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **46 de 48** (lotes 39–46). **374 nós redigíveis**, dos quais **2 com grau 4 restantes**: `RC-064` Fenvans (1.429 p.) · `RC-004` Elohim (371 p.). O fecho do anel fica para o lote 47.
 
 ## 5. Como conferir
 

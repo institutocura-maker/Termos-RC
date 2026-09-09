@@ -995,3 +995,21 @@ Acumulado: **293 verbetes** · 6.525 verbatim · 2.921 códigos · **0 falhas** 
 9. **Falhas 2 → 0:** RC-301 span cruzando negrito (B088) — recorte limpo; RC-259 caixa divergente («do jeito que quis» × STT maiúsculo) — parafraseado. Regra: caixa do STT dentro da aspa é byte a byte.
 
 **Próximos (grau 4, 8 restantes):** RC-226 Cidadão Cósmico · RC-225 Gestão Cósmica · RC-189 Eva (figura) · RC-151 Gunas Criadoras · RC-109 Família Val · RC-070 Isolamento Cósmico. Fecha o 8º anel no lote 46? (restariam 2).
+
+---
+
+## 09/09/2026 — Lote 46: 8º ANEL, GRAU 4 (6 verbetes, 5.462 palavras)
+
+**Despacho do Curador:** «Maravilha! Em frente com o lote 46» (`RC-226`, `RC-225`, `RC-189`, `RC-151`, `RC-109`, `RC-070`).
+
+`RC-070` Isolamento Cósmico (**III.12.4 — 3º da seção**, 1.172 p.) · `RC-151` Gunas Criadoras (**I.3.1 — 5º da seção**, 1.128) · `RC-109` Val (Família Val) (**III.15.3 — 3º da seção**, 885) · `RC-189` Eva (figura) (III.14.2, 816) · `RC-225` Gestão Cósmica (II.8.1, 771) · `RC-226` Cidadão Cósmico (**V.22.3 — 2º da seção**, **690**).
+
+Acumulado: **299 verbetes** · 6.606 verbatim · 2.987 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 46 de 48 · 2 grau-4 restantes (RC-064 Fenvans · RC-004 Elohim) · 374 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `4ee46ba` na abertura).
+2. **`RC-151`/`RC-070` = maiores fichas (1.445/1.412 p.):** Gunas — tabela 5/27/68 + quarentena científica (variação 4% registrada) + Nuctemeron 3ª hora + império tamásico pós-9 bi + F043 T2 (GKA/Kris Amon RC-934, obra de apoio); Isolamento — 4 decisões (P2024-07-13), 19 mundos, anterioridade P2020-04-25 (13 meses), QG ~64 mil anos inédito datado, selos D-9/D-10.
+3. **`RC-109` (Val) e `RC-189` (Eva) = fichas materializadas (29/08/2026):** Val — quarentena social (U0149 dito/não endossado), STT Vol/VS preservado, lacunas declaradas (RC-146/089/120/136 sem aresta); Eva — aspa única D-2 (DNAzinho de Maria), âncora "Depois que Eva disse…" retida por máscara D-4 (não reescrita), aspas não autorizadas não transitam.
+4. **`RC-225`/`RC-226` = par B033:** Gestão Cósmica — divisão do comando com Jesus (22/02/2012), «3% da doença» clínica-fora, RC-150 Xadrez Cósmico = Colecionar Incertezas, RC-171/RC-227 sem ficha; Cidadão Cósmico — "apesar do isolamento", organismo/computador quântico (quarentena científica), Orbum institucional-fora.
+5. **Endereços tocados (6):** III.12.4 2→3 · I.3.1 4→5 · III.15.3 2→3 · III.14.2 4→5 · II.8.1 20→21 · V.22.3 1→2. Nenhum novo; nenhuma renomeação.
+6. **Falhas 2 → 0:** RC-225 “computador” curvas (eu havia posto retas) · RC-070 elisão com reticências inventadas (recorte limpo «ainda nem começou e isso pode se dar…»). Regra: reticências só as da ficha.
+7. **Fecho do 8º anel no próximo lote (47):** RC-064 Fenvans (1.429 p.) + RC-004 Elohim (371 p.) — e então 48/48.
