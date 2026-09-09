@@ -1031,3 +1031,24 @@ Acumulado: **301 verbetes** · 6.641 verbatim · 3.003 códigos · **0 falhas** 
 5. **Fecho do anel:** 48/48 nos lotes 39–47 (45.823 palavras, 632 verbatim no anel). 372 nós redigíveis · próximo: 9º anel (grau 3), 66 nós, 0 redigidos.
 
 **Próximos (grau 3, 66 restantes):** RC-929 Prema Sai · RC-927 Sai Baba de Shirdi · RC-801 Saibaba como Precursor de Jesus · RC-777 Ananque · RC-751 Bagagem Espiritual Intransferível · RC-688 Yajna.
+
+---
+
+## 09/09/2026 — Lote 48: ABERTURA DO 9º ANEL, GRAU 3 (6 verbetes, 4.869 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com o lote 48» (`RC-929`, `RC-927`, `RC-801`, `RC-777`, `RC-751`, `RC-688`).
+
+`RC-777` Ananque (**III.13.2 — 12º da seção**, 1.317 p.) · `RC-801` Saibaba como Precursor de Jesus (**III.11.3 — 3º da seção**, 870) · `RC-751` Bagagem Espiritual Intransferível (V.22.1, 802) · `RC-927` Sai Baba de Shirdi (**III.14.1 — 8º da seção**, 682) · `RC-929` Prema Sai (III.14.1, 676) · `RC-688` Yajna (**I.3.1 — 6º da seção**, **522** — verbete mais enxuto da Enciclopédia, ficha de 105 p.).
+
+Acumulado: **307 verbetes** · 6.686 verbatim · 3.048 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 6 de 66 · 60 grau-3 restantes · 366 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `2924e3a` na abertura).
+2. **`RC-777` = maior ficha (1.728 p.) e grafia mais vigiada:** ANANQUE consagrada pela Devolutiva O-4 da P2021-07-24 (fonte primária ao vivo); STT corrigido (Anunque/Anak/ANAC/Nan); dupla Moros/Ananque; quarentena biomediúnica (interações com o autor; «ESSA FIGURA É DEMENTE» retido como índice); ART-2025-08-03 = material do curador.
+3. **`RC-801` = umbrella conceitual da linhagem Sai (RC-927/928/929 com fichas próprias desde 03/09/2026):** quarentena sobre o hinduísmo; F041-L5 aguarda-áudio (P2018-02-24 fonte única); cronologia "2000 anos antes" em aberto (qual Saibaba?).
+4. **`RC-927`/`RC-929` = 1ª e 3ª/última encarnações (III.14.1, ao lado do RC-928 Sathya já redigido):** demarcação nativo/externo; Prema Sai canônica × Prima/Prem Sai sem fusão; cotejo Adhyajna × avatar aberto (RC-260/B016).
+5. **`RC-751` = blindagem epistemológica explícita** (conceitos da RC, não entidades mensuráveis; sem afirmação empírica do karma); P2021-05-15 = anterioridade (3 anos).
+6. **`RC-688` = verbete mais enxuto (ficha de 105 p.):** não inventa o que a ficha não tem; complementar quando a transcrição da P2025-05-31 entrar.
+7. **Endereços tocados (5):** III.13.2 11→12 · III.11.3 2→3 · V.22.1 18→19 · III.14.1 7→9 · I.3.1 5→6. Nenhum novo; nenhuma renomeação.
+8. **Falhas 0 → 0 (lote limpo de primeira):** pré-teste byte a byte + ponto fora do « » na redação.
+
+**Próximos (grau 3, 60 restantes):** RC-686 Plantas de Moléculas Complexas · RC-660 Pegadinha de Javé · RC-656 Atualização das Revelações Anteriores · RC-653 Destino das Mônadas após o Tikun · RC-652 Últimas Ordens de Javé aos Clones · RC-649 Singularidade de Quatro Cabeças.

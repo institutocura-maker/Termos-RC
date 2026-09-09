@@ -1386,6 +1386,34 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 5. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 6. **Falhas 1 → 0:** RC-064 citação-chave com **ponto final dentro da aspa** (regra do lote 42: ponto fora do « »). Regra reiterada e aplicada no fecho.
 
+### Lote 48 — abertura do 9º anel, grau 3 (6 verbetes, 4.869 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com o lote 48» (`RC-929`, `RC-927`, `RC-801`, `RC-777`, `RC-751`, `RC-688`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Ananque | III.13.2 | `V3/V3.13.02-RC777-ananque.md` | **1.317** | **1.728 p.** |
+| Saibaba como Precursor de Jesus | III.11.3 | `V3/V3.11.03-RC801-saibaba-como-precursor-de-jesus.md` | 870 | 833 p. |
+| Bagagem Espiritual Intransferível | V.22.1 | `V5/V5.22.01-RC751-bagagem-espiritual-intransferivel.md` | 802 | 547 p. |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | III.14.1 | `V3/V3.14.01-RC927-sai-baba-de-shirdi-shirdi-sai-baba.md` | 682 | 492 p. |
+| Prema Sai (Prima Sai / Prem Sai) | III.14.1 | `V3/V3.14.01-RC929-prema-sai-prima-sai-prem-sai.md` | 676 | 502 p. |
+| Yajna (ritual de sacrifício/fogo) | I.3.1 | `V1/V1.03.01-RC688-yajna-ritual-de-sacrificio-fogo.md` | **522** | 105 p. |
+
+**Medida:** 522–1.317 palavras (média 812) · **45 verbatim byte a byte** · 32 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3) abre com 6 de 66.** Estado: 307 verbetes · **366 nós redigíveis** · **60 com grau 3 restantes**.
+
+**Achados do lote 48 (abertura do 9º anel):**
+
+1. **`RC-777` (Ananque) tem a maior ficha do lote (1.728 p.) e a grafia mais vigiada da Enciclopédia:** consagrada **ANANQUE** pela Devolutiva O-4 da P2021-07-24 (a fonte primária falou o nome ao vivo), corrigindo "Anã" e as alucinações do STT (Anunque/Anak/ANAC/Nan); quarentenas biomediúnicas das interações com o autor; a dupla Moros/Ananque do "Livro Perdido".
+2. **`RC-801` (Saibaba como Precursor de Jesus) é o caso-modelo de umbrella conceitual:** desde 03/09/2026 as três encarnações (RC-927/928/929) têm ficha própria e este verbete nomeia a leitura que as une — sem duplicá-las; quarentena sobre o hinduísmo (a tese é leitura do autor); chancela F041-L5 (fonte única P2018-02-24, aguarda áudio).
+3. **`RC-927`/`RC-929` (Shirdi e Prema) completam a linhagem Sai em III.14.1 ao lado de `RC-928` (Sathya, já redigido):** primeira e terceira/última encarnações de Shiva; demarcação nativo/externo do contexto biográfico; grafia canônica Prema Sai (curador, 03/09/2026) × Prima/Prem Sai registradas sem fusão; cotejo tipológico Adhyajna × avatar aberto.
+4. **`RC-751` (Bagagem Espiritual) carrega a blindagem epistemológica mais explícita:** "conectomas quânticos"/"álbum de figurinhas" são conceitos próprios da RC, não entidades mensuráveis — o verbete não afirma a realidade empírica do karma.
+5. **`RC-688` (Yajna) é o verbete mais enxuto da Enciclopédia (ficha de 105 p.):** estado mínimo do termo (extraído na curadoria de P2025-05-31, citação ainda não incorporada) — o verbete não inventa o que a ficha não tem e será complementado quando a transcrição entrar.
+6. **Endereços tocados (5):** III.13.2 (11 → 12), III.11.3 (2 → 3), V.22.1 (18 → 19), III.14.1 (7 → 9), I.3.1 (5 → 6). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+8. **Falhas 0 → 0:** lote limpo de primeira (único do 9º anel até aqui) — o pré-teste byte a byte e a regra do ponto fora do « » aplicadas na redação.
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1422,7 +1450,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **372 nós redigíveis** · **0 com grau 4 restantes**. Próximo anel: **9º anel (grau 3) — 66 nós, nenhum redigido ainda**. Primeiros seis (grau 3, ordem decrescente de código): `RC-929` Prema Sai · `RC-927` Sai Baba de Shirdi · `RC-801` Saibaba como Precursor de Jesus · `RC-777` Ananque · `RC-751` Bagagem Espiritual Intransferível · `RC-688` Yajna.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto no lote 48 — 6 de 66** (lotes 48 em diante). **366 nós redigíveis** · **60 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-686` Plantas de Moléculas Complexas · `RC-660` Pegadinha de Javé · `RC-656` Atualização das Revelações Anteriores · `RC-653` Destino das Mônadas após o Tikun · `RC-652` Últimas Ordens de Javé aos Clones · `RC-649` Singularidade de Quatro Cabeças.
 
 ## 5. Como conferir
 
