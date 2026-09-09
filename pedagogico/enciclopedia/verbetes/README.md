@@ -1853,6 +1853,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 46 restantes):** por ordem decrescente — `RC-477`, `RC-461`, `RC-451`, `RC-450`, `RC-446`, `RC-434` (a confirmar no despacho do Lote 64).
 
+### Lote 64 — 10º anel, grau 2 (6 verbetes, 4.641 palavras)
+
+**Despacho do Curador:** «Ok, em frente com os próximos >>> [`RC-477`, `RC-461`, `RC-451`, `RC-450`, `RC-446`, `RC-434`].» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `ac3aa35` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Processadores Familiares | V.23.3 | `V5/V5.23.03-RC446-processadores-familiares.md` | **971** | 1.392 p. |
+| Homoafetividade (resquício da força original) | V.22.1 | `V5/V5.22.01-RC434-homoafetividade-resquicio-da-forca-original.md` | 834 | 814 p. |
+| Revolta Capelina | III.12.3 | `V3/V3.12.03-RC450-revolta-capelina.md` | 792 | 751 p. |
+| Ninmah (Anunnaki geneticista) | III.13.2 | `V3/V3.13.02-RC461-ninmah-anunnaki-geneticista.md` | 762 | 676 p. |
+| Universidade de Tau Ceti | V.27.3 | `V5/V5.27.03-RC451-universidade-de-tau-ceti.md` | 671 | 608 p. |
+| Ensá (espírito primordial companheiro de En Ma) | III.9.1 | `V3/V3.09.01-RC477-ensa-...-en-ma.md` | **611** | 245 p. |
+
+**Medida:** 611–971 palavras (média 774) · **36 verbatim byte a byte** · 32 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 36 de 76.** Estado: 403 verbetes · **270 nós redigíveis** · **40 com grau 2 restantes**.
+
+**Achados do lote 64:**
+
+1. **`RC-446` Processadores Familiares (V.23.3 — 3º da seção; ficha 1.392 p., a maior do lote):** dispositivos que conectam cada família capelina (Processador Yel, Processador Mion), criados por Sophia com os biodemos; desligar-se = deixar de existir como ser coletivo; B057 (p. 15 anatomia; p. 35 mente coletiva; p. 60 corte e Processador Mion); B058 (bloqueio do 'circuito fechado'; desligamento inédito de Yel, pp. 67–72); **P2020-04-25 primeira fonte oral** (o único processador a sobreviver foi o da família "Vol"); **P2022-03-26 selo D-10 sem ganho de anterioridade** («O vírus que surgiu com Lúciferrou esse processo» — STT preservado); **P2023-12-03** definição operacional completa (campo mórfico por família; «WhatsApp de rede»; STT *IEL/familiel*); análogo **Processador Val (`RC-089`)** a verificar em B017/B018 — mesma infraestrutura em duas escalas.
+2. **`RC-434` Homoafetividade (V.22.1 — 24º da seção):** tema-título do B052 (2016, obra primária): resquício da força de atração sexual original (`RC-433`, anterior à polaridade; geração demo do Olimpo); "perspectiva adulta" sem culpa; identidade de gênero **adiada pelo próprio autor** e **fora da ontologia (O-4)**; **quarentena clínica ABSOLUTA** (cosmologia filosófica do autor — jamais fato sociológico/biomédico; respeito às pessoas LGBTQIA+); **divergência preservada sem harmonizar**: B052 × P2025-03-15 (rebelião dos elétrons).
+3. **`RC-450` Revolta Capelina (III.12.3 — **1º da subseção**):** rompimento dos lacres psíquicos dos biodemos de Capela que precedeu a Rebelião de Lúcifer (`RC-002`); B058 p. 31 declaração, p. 40 objetivo radical (Len Mion), pp. 70–74 o 'exército' contra Sophia; **quarentena: fonte secundária psicografada** (Jeane Miranda); cronologia RC-002 × Livros de Yel Luzbel **pendente de reconciliação**; malha registra RC-002/RC-142; ficha lista RC-443/442/453/007 (a registrar).
+4. **`RC-461` Ninmah (III.13.2 — 16º; 🟠 em análise):** anunnaki geneticista, irmã de Enki/Enlil e "irmã de Marduk"; linhagem preservada fora das tábuas; habitat em mares/águas + base secreta nos EUA — **quarentena ufopolítica**; **retirada declarada (P2021-05-15):** a frase «os dois filhos de Anu...» **não existe** no original.txt — contaminação de memória; T-13 não se aplica; grafias Ninmah/Ninharsag não desmembrar sem decisão do Curador.
+5. **`RC-477` Ensá (III.9.1 — 16º):** companheiro de En Ma; metade "de Ensá" do Conselho dos 70 saiu — Saibaba foi o **penúltimo** («o último não, o penúltimo»); saída = sinal do fim da dinastia (`RC-494`); **quarentena teológica** com Sathya Sai Baba; **divergência de cabeçalho anotada, sem harmonizar:** ficha 🟡 Provisório + 1.8 Consciências coletivas × Base/ÍNDICE ⚪ candidato + 1.1 Divindades.
+6. **`RC-451` Universidade de Tau Ceti (V.27.3 — 1º da subseção):** instituição acadêmica dos biodemos regida pelo Conselho de Sábios da Grande Fraternidade Tau Ceti, presidida pelo Grão-mestre (`RC-452`); a "sabatina" de Yel Luzbel com veredito **irrefutáveis** (B058 pp. 54–56); os Sábios **jamais tiveram contato direto com o Criador**; distinção canônica com a escola de Zion (`RC-146`, nota 2 da p. 37); quarentenas mediumística + ufológica (O-7); ficha criada em 2026-08-25 (ciclo B058).
+7. **Seções tocadas:** V5.23.03 2→3 · V5.22.01 23→24 · **V3.12.03 0→1** (primeiro da subseção — III.12.3 abriga também RC-039 Capela e RC-007 Exilados de Capela, ainda sem verbete) · V3.13.02 15→16 · **V5.27.03 0→1** (primeiro da subseção) · V3.09.01 15→16. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (36 spans pré-testados byte a byte; 1 corrigido na auto-revisão — RC-434 ponto final fora do « »; RC-461 sem crases em `original.txt`, que o verificador lê como documento-fonte declarado).
+9. **Statuses:** RC-461 🟠 em análise e RC-451/450/446/434 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. **Divergência de cabeçalho em RC-477** (ficha 🟡 Provisório e 1.8 × Base ⚪ candidato e 1.1) — anotada no verbete, sem harmonizar.
+
+**Próximos (grau 2, 40 restantes):** por ordem decrescente — `RC-432`, `RC-430`, `RC-422`, `RC-417`, `RC-410`, `RC-409` (a confirmar no despacho do Lote 65).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

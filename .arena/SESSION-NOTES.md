@@ -1380,3 +1380,26 @@ Acumulado: **397 verbetes** · 7.412 verbatim · 3.687 códigos · **0 falhas** 
 10. **Statuses:** RC-549 🟡 provisório e RC-498/482 ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. **Divergências de cabeçalho registradas, sem harmonizar** (anotadas nos verbetes e no relatório): as fichas RC-520 (🟡 Candidato), RC-481 (🟡 Provisório) e RC-479 (🟡 Provisório) trazem selo 🟡 no cabeçalho, enquanto cadastro e ÍNDICE as registram ⚪ candidato.
 
 **Próximos (grau 2, 46 restantes):** por código decrescente — `RC-477`, `RC-461`, `RC-451`, `RC-450`, `RC-446`, `RC-434` (a confirmar no despacho do Lote 64).
+
+---
+
+## 09/09/2026 — Lote 64: 10º ANEL, GRAU 2 (6 verbetes, 4.641 palavras)
+
+**Despacho do Curador:** «Ok, em frente com os próximos >>> [`RC-477`, `RC-461`, `RC-451`, `RC-450`, `RC-446`, `RC-434`].» — os seis previstos confirmados.
+
+`RC-446` Processadores Familiares (**V.23.3 — 3º da seção**, 971 p.; ficha 1.392) · `RC-434` Homoafetividade (**V.22.1 — 24º da seção**, 834; 814) · `RC-450` Revolta Capelina (**III.12.3 — 1º da subseção**, 792; 751) · `RC-461` Ninmah (**III.13.2 — 16º da seção**, 762; 676) · `RC-451` Universidade de Tau Ceti (**V.27.3 — 1º da subseção**, 671; 608) · `RC-477` Ensá (**III.9.1 — 16º da seção**, 611; 245).
+
+Acumulado: **403 verbetes** · 7.448 verbatim · 3.726 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **10º anel (grau 2): 36 de 76 · 40 restantes · 270 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `ac3aa35` na abertura; árvore limpa) — sem incidente de clone.
+2. **Âncoras pré-testadas antes do verificador** (36 spans byte a byte, 31/31 na primeira leva + 6 recortes limpos em torno de negritos; 1 corrigido na auto-revisão — RC-434 ponto final fora do « »; 1 ajuste de processo — RC-461: crases removidas de `original.txt`, pois o verificador lê caminho `.md/.txt` entre crases como documento-fonte declarado); lote limpo de primeira no verificador.
+3. **`RC-446` Processadores Familiares (V.23.3):** conectam cada família capelina (Yel, Mion...), criados por Sophia com os biodemos; desligar = deixar de existir como ser coletivo; B057 anatomia (p. 15/35/60), B058 bloqueio/desligamento/suspeita (pp. 27, 67–72); **P2020-04-25 = primeira fonte oral** («O único processador a sobreviver essa história foi a Vol...»); **P2022-03-26 selo D-10 sem ganho de anterioridade** («Lúciferrou», STT); P2023-12-03 definição operacional (campo mórfico; «WhatsApp de rede»; IEL/familiel); análogo RC-089 Processador Val (B017/B018 a verificar).
+4. **`RC-434` Homoafetividade (V.22.1):** B052 tema-título (2016): resquício da força de atração sexual original RC-433; "perspectiva adulta" sem culpa (p. 234); identidade de gênero adiada pelo autor, **fora da ontologia (O-4)**; **quarentena clínica ABSOLUTA**; **divergência preservada** B052 × P2025-03-15 (rebelião dos elétrons) sem harmonização artificial.
+5. **`RC-450` Revolta Capelina (III.12.3 — abre a subseção):** rompimento dos lacres dos biodemos de Capela precedendo RC-002; declaração B058 p. 31; objetivo de Len Mion p. 40; 'exército' pp. 70–74; B059 anunciado; **fonte secundária psicografada (Jeane Miranda)**; reconciliação cronológica RC-002 pendente; ficha lista RC-443/442/453/007 além da malha (RC-002/RC-142).
+6. **`RC-461` Ninmah (III.13.2; 🟠):** irmã geneticista de Enki/Enlil e "de Marduk"; linhagem fora das tábuas; **quarentena ufopolítica** (mares/águas, base secreta, silos); **retirada declarada P2021-05-15** («os dois filhos de Anu...» não existe no original.txt; T-13 não se aplica); P2023-10-14 testes com hominídeos; grafias Ninmah/Ninharsag não desmembrar.
+7. **`RC-477` Ensá (III.9.1):** companheiro de En Ma (RC-476); metade "de Ensá" do Conselho dos 70 saiu; Saibaba penúltimo («o último não, o penúltimo»); fim da dinastia RC-494; **quarentena teológica** Sai Baba; **divergência de cabeçalho**: ficha 🟡 + 1.8 × Base ⚪ + 1.1 — anotada, sem harmonizar.
+8. **`RC-451` Universidade de Tau Ceti (V.27.3 — abre a subseção):** B058 caps. 10–12: sabatina de Yel Luzbel, veredito «irrefutáveis», «jamais tivemos contato direto com o Criador»; nota 2 p. 37: não confundir com escola de Zion (RC-146); quarentenas mediumística + ufológica (O-7); ficha criada 2026-08-25; relações RC-103 (malha), RC-452/RC-450 (ficha).
+9. **Seções:** V5.23.03 2→3 · V5.22.01 23→24 · V3.12.03 0→1 (primeiro; faltam RC-039/RC-007) · V3.13.02 15→16 · V5.27.03 0→1 (primeiro) · V3.09.01 15→16. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+10. **Statuses:** RC-461 🟠 em análise; RC-451/450/446/434 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. **Divergência de cabeçalho em RC-477** (ficha 🟡 Provisório + 1.8 × Base/ÍNDICE ⚪ candidato + 1.1) — anotada no verbete e neste relatório, sem harmonizar.
+
+**Próximos (grau 2, 40 restantes):** por código decrescente — `RC-432`, `RC-430`, `RC-422`, `RC-417`, `RC-410`, `RC-409` (a confirmar no despacho do Lote 65).
