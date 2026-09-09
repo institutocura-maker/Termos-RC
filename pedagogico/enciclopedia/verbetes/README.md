@@ -93,6 +93,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **33** | 09/09/2026 | `V2/RC-763` As Sete Leis Herméticas · `V4/RC-759` Jainismo · `V3/RC-757` Vaishnavismo · `V2/RC-753` Estrangulamento Cognitivo · `V5/RC-752` Agenda Espiritual · `V3/RC-750` Moisés e o Êxodo | ✅ redigido — **ABERTURA DO 7º ANEL (GRAU 5)** |
 | **34** | 09/09/2026 | `V4/RC-748` Genótipo da Gentileza · `V3/RC-741` Projeto Orunmilá–Olodus · `V3/RC-740` Kami · `V5/RC-739` Susanoo · `V4/RC-729` Jabutis Genéticos · `V3/RC-659` Quirino Cornélio | ✅ redigido — 7º anel (grau 5) |
 | **35** | 09/09/2026 | `V5/RC-593` Mahabharata · `V4/RC-644` Xamanismo Virtual · `V5/RC-647` Evangelho de Judas · `V3/RC-607` Cinco Seres LM · `V2/RC-603` Círculo da Perfeição · `V2/RC-601` Departamentalização da Vida | ✅ redigido — 7º anel (grau 5) |
+| **36** | 09/09/2026 | `V4/RC-517` Protocolo Mental · `V3/RC-490` Caim · `V3/RC-459` Parvathi · `V3/RC-483` Barbelo · `V3/RC-578` Fim do Experimento Humano · `V3/RC-568` Eras Equinociais | ✅ redigido — 7º anel (grau 5) |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -1009,6 +1010,41 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 19. **Falhas 2 → 0.** As duas eram **expressão nossa aspirada**: resumi em aspa o que a fonte diz com outras palavras (`RC-644` «campos magnéticos que atraem consciências»; `RC-647` «dez tribos celtas»). **Remédio: itálico para o que é nosso.**
 20. **⚠️ Pendência sinalizada:** `RC-449` (Criaturas-ferramenta) consta na fila por ter ficha, mas **é remissiva F045 de `RC-164`** (duplicata absorvida). Redigir `RC-449` como verbete autônomo duplicaria o conteúdo. **Decisão do Curador solicitada quando ele chegar à fila.**
 
+### Lote 36 — 7º anel, grau 5 (6 verbetes, 4.218 palavras)
+
+**Despacho do Curador:** «em frente com os próximos seis do grau 5».
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Caim (leitura RC) | III.14.2 | `V3/V3.14.02-RC490-caim.md` | **870** | 677 p. |
+| Protocolo Mental | IV.19.1 | `V4/V4.19.01-RC517-protocolo-mental.md` | 827 | **802 p.** |
+| Barbelo | III.9.1 | `V3/V3.09.01-RC483-barbelo.md` | 660 | 393 p. |
+| Fim do Experimento Humano | III.16.4 | `V3/V3.16.04-RC578-fim-do-experimento-humano.md` | 658 | 433 p. |
+| Parvathi | III.10.4 | `V3/V3.10.04-RC459-parvathi.md` | 653 | 491 p. |
+| Eras Equinociais | III.16.2 | `V3/V3.16.02-RC568-eras-equinociais.md` | **550** | 309 p. |
+
+**Medida:** 550–870 palavras (média 703) · **106 verbatim byte a byte** · 47 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Avanço:** 239 verbetes · **411 nós redigíveis** · **15 com grau 5** (de 39 no início do anel; 24 redigidos em quatro lotes).
+
+**Achados do lote 36:**
+
+1. **Quarto lote seguido de ⚪ candidatos — com duas exceções:** pela primeira vez no anel aparecem fichas com status próprio divergente do cadastro (item 2).
+2. **NOVO TIPO DE DIVERGÊNCIA REGISTRADO — status da ficha × status da Base.** `RC-490` e `RC-483` estão como 🟡 **provisório** nas suas fichas e como ⚪ **candidato** na Base. **O verbete registrou os dois, lado a lado, e não harmonizou.** É dado de higiene da malha, não erro de redação.
+3. **`RC-490` (Caim) é o verbete com a quarentena mais pesada do lote:** teológica **e** científica. A identificação de populações e continentes com a descendência de Caim e com os três filhos de Noé é **leitura de Ellam sobre genética de populações**; «a Base não endossa nenhuma afirmação genética, populacional ou racial — registra a leitura».
+4. **A frase que sustenta `RC-490`:** «Javé covardemente criou uma confusão entre eles e os anjos de Javé levaram Caim a matar Abel.» E a distinção que a fonte faz: **«Caim exilado (não punido)»**.
+5. **A tese de `RC-517` cabe numa fórmula:** «a perfeição não é democrática, ela é autoritária». **A ficha exige que a quebra do protocolo entre junto com ela**, para que não seja lida como elogio da autoridade.
+6. **A regra de não-equiparação de `RC-517`:** «não equiparar «protocolos da mente» (2021, oral) a «Protocolo Mental» (RC-517, doc. posterior). Só se registra a circulação do sintagma.»
+7. **`RC-517` é a base técnica do destino:** os protocolos mentais definem, «junto à ancestralidade e ao álbum memorial», «o caminho de destinação de um ser» (`RC-767`, `RC-514`).
+8. **`RC-483` (Barbelo) é o achado mais fino do lote:** «esse barbelo não premia nem castiga ninguém, não se mete. Ele deu de si a semente da sua deidade... a partir daí é cada consciência particularizada com suas opções aos mecanismos das leis de causa e efeito». Daí o «namastê»: «o sagrado em mim saúda o sagrado que está em você».
+9. **`RC-483` guarda uma pendência aberta:** a identificação do «hipócase» (com a hipótese de Hipócrates) segue marcada para revisão. **O verbete não a resolveu.**
+10. **`RC-459` (Parvathi) é ficha materializada** (despacho do Curador de 29/08/2026): **0 termos novos e 0 relações novas**; a relação com `RC-104` (Trimurti) **segue sem aresta** e a ficha declara a lacuna. **Sati está no radar como termo novo.**
+11. **`RC-578` não é profecia determinista:** «a fala o formula como perigo possível e evitável». O núcleo do termo é a distinção — **fim da experiência humana ≠ fim do planeta ≠ fim do universo**.
+12. **A tese da corrupção, em `RC-578`:** «corrupção em seres criativos tem todos os problemas do universo juntos». **A gravidade é proporcional à criatividade.**
+13. **`RC-568` é o menor verbete do lote (550).** A ficha registra que o palestrante usa a mesma expressão para a parte e para o todo; **o verbete preservou a ambiguidade em vez de resolvê-la**. O ciclo real de precessão é ~25.700–25.800 anos — **os 5.120/5.200 são arredondamento do autor**.
+14. **Renomeações (2):** `V3.14.02-quirino-cornelio.md` → `V3.14.02-RC659-quirino-cornelio.md`; `V3.10.04-shiva-savna.md` → `V3.10.04-RC102-shiva-savna.md`. **Nenhum endereço novo.**
+15. **Falhas 1 → 0:** uma única **expressão nossa aspirada** (`RC-578`). **Melhor índice do anel** e o primeiro lote sem erro de recorte. **Nenhum caminho de arquivo entre crases** — a lição do lote 34 foi aplicada.
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1034,7 +1070,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **18 redigidos** nos lotes 33–35; **417 nós redigíveis**, dos quais **21 com grau 5**. Próximos seis: `RC-578` Fim do Experimento Humano · `RC-568` Eras Equinociais · `RC-517` Protocolo Mental · `RC-490` Caim · `RC-483` Barbelo · `RC-459` Parvathi. ⚠️ `RC-449` é remissiva F045 de `RC-164`: decidir com o Curador.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **24 redigidos** nos lotes 33–36; **411 nós redigíveis**, dos quais **15 com grau 5**. Próximos seis: `RC-425` Krishna como 'pretenso Keshava' · `RC-398` Thuata de Dannan · `RC-381` Ressonância Mórfica · `RC-284` Caos = Brahma = Javé · `RC-268` Gnosticismo · `RC-160` Entropia e Negentropia. ⚠️ `RC-449` (1º da fila) é remissiva F045 de `RC-164`: decidir com o Curador.
 
 ## 5. Como conferir
 

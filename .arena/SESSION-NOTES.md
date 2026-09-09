@@ -774,3 +774,26 @@ Acumulado: **233 verbetes** (5.463 verbatim) · 2.369 códigos · **0 falhas** �
 14. **⚠️ PENDÊNCIA SINALIZADA:** `RC-449` (Criaturas-ferramenta) conta na fila por ter ficha, mas **é remissiva F045 de `RC-164`** (duplicata absorvida). Redigi-lo duplicaria conteúdo. **Decisão do Curador solicitada quando ele chegar à fila.**
 
 **Próximos (grau 5):** RC-578 Fim do Experimento Humano · RC-568 Eras Equinociais · RC-517 Protocolo Mental · RC-490 Caim · RC-483 Barbelo · RC-459 Parvathi — 21 no total.
+
+---
+
+## 09/09/2026 — Lote 36: 7º anel, grau 5 (6 verbetes, 4.218 palavras)
+
+**Despacho do Curador: «em frente com os próximos seis do grau 5»** — RC-517, RC-490, RC-459, RC-483, RC-578, RC-568.
+
+`RC-490` Caim (III.14.2, **870**) · `RC-517` Protocolo Mental (IV.19.1, 827) · `RC-483` Barbelo (III.9.1, 660) · `RC-578` Fim do Experimento Humano (III.16.4, 658) · `RC-459` Parvathi (III.10.4, 653) · `RC-568` Eras Equinociais (III.16.2, **550**).
+
+Acumulado: **239 verbetes** (5.569 verbatim) · 2.418 códigos · **0 falhas** · Base intacta · 0 código criado. **411 redigíveis · 15 com grau 5.**
+
+1. **Ambiente estável** (HEAD = remoto = `9a88940` na abertura).
+2. **NOVO TIPO DE DIVERGÊNCIA — status da ficha × status da Base:** `RC-490` e `RC-483` são 🟡 provisório nas fichas e ⚪ candidato na Base. **Registrados lado a lado, sem harmonização.** (Higiene da malha; sinalizar ao Curador.)
+3. **RC-490 = verbete com a quarentena mais pesada do lote** (teológica + científica). A leitura genética de populações (Caim → Américas; filhos de Noé → continentes) é **leitura de Ellam**; «a Base não endossa nenhuma afirmação genética, populacional ou racial». «Caim exilado (não punido)».
+4. **RC-517:** «a perfeição não é democrática, ela é autoritária» — a ficha exige que a quebra do protocolo entre junto para não ser lida como elogio da autoridade. **Regra de não-equiparação:** «protocolos da mente» (2021, oral) ≠ «Protocolo Mental» (RC-517, posterior).
+5. **RC-483:** «esse barbelo não premia nem castiga ninguém, não se mete»; daí o «namastê»: «o sagrado em mim saúda o sagrado que está em você». **Pendência aberta:** a identificação do «hipócase» (hipótese de Hipócrates) não foi resolvida.
+6. **RC-459:** ficha materializada (29/08/2026), 0 termos/0 relações novos; `RC-104` **sem aresta** (lacuna declarada); **Sati no radar** como termo novo; transcrição **não conferida com o áudio**.
+7. **RC-578:** «Não é profecia determinista». Núcleo = distinção (fim da experiência humana ≠ fim do planeta ≠ fim do universo). «corrupção em seres criativos tem todos os problemas do universo juntos».
+8. **RC-568:** menor verbete do lote. A fonte usa a mesma expressão para a parte e o todo — **ambiguidade preservada**. Precessão real ~25.700–25.800; os 5.120/5.200 são arredondamento do autor.
+9. **Renomeações (2):** `V3.14.02-RC659-quirino-cornelio.md`; `V3.10.04-RC102-shiva-savna.md`. **Nenhum endereço novo.** README atualizado nos dois casos.
+10. **Falhas 1 → 0:** única = **expressão nossa aspirada** (RC-578). **Melhor índice do anel**; primeiro lote sem erro de recorte. **Nenhum caminho de arquivo entre crases** (lição do lote 34 aplicada).
+
+**Próximos (grau 5):** `RC-449` (1º da fila — **remissiva F045 de RC-164, decisão do Curador**) · RC-425 Krishna como 'pretenso Keshava' · RC-398 Thuata de Dannan · RC-381 Ressonância Mórfica · RC-284 Caos = Brahma = Javé · RC-268 Gnosticismo · RC-160 Entropia e Negentropia — 15 no total.
