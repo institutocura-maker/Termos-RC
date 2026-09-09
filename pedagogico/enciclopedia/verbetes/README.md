@@ -1701,6 +1701,36 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **O 9º anel (grau 3) está FECHADO — 66 de 66.** A Enciclopédia alcança **367 verbetes · 7.186 verbatim · 3.527 códigos · 0 falhas**. Próximo anel à vista: **grau 2** — nós com ficha ainda sem verbete (censo e despacho do Curador a confirmar).
 
+### Lote 59 — abertura do 10º anel, grau 2 (6 verbetes, 3.419 palavras)
+
+**Despacho aberto do Curador:** «Beleza! Deixa fluir e vamos em frente com o que te parecer o mais apropriado...» — primeira leva do **grau 2** aberta por critério editorial: censo autoritativo (fichas sem verbete por grau total em `RELACOES`; 76 nós no grau 2, nenhum redigido) e ordem decrescente de código. *(Ambiente estável — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Destinação do Lobo | V.22.1 | `V5/V5.22.01-RC743-destinacao-do-lobo.md` | **755** | 703 p. |
+| Morlens | III.13.2 | `V3/V3.13.02-RC772-morlens-programador-genetico-atomico-do-projeto-talm.md` | 623 | 538 p. |
+| PEP — Pulso Eletromagnético Particularizado | V.23.2 | `V5/V5.23.02-RC774-pep-pulso-eletromagnetico-particularizado.md` | 549 | 383 p. |
+| Nanotecnologia Prânica | V.23.2 | `V5/V5.23.02-RC773-nanotecnologia-pranica.md` | 528 | 401 p. |
+| Milésios (raça da Irlanda) | III.14.3 | `V3/V3.14.03-RC842-milesios-raca-da-irlanda.md` | 494 | 451 p. |
+| Vergonha de Existir | IV.21.1 | `V4/V4.21.01-RC747-vergonha-de-existir.md` | **470** | 348 p. |
+
+**Medida:** 470–755 palavras (média 570) · **34 verbatim byte a byte** · 24 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2) abre com 6 de 76.** Estado: 373 verbetes · **300 nós redigíveis** · **70 com grau 2 restantes**.
+
+**Achados do lote 59 (abertura do 10º anel):**
+
+1. **Censo do anel (método rigoroso):** grau total 2 em `RELACOES` = **76 fichas, nenhuma redigida** — anel íntegro, sem sobreposição com lotes anteriores; validação cruzada dos anéis fechados (grau 4 = 48, grau 3 = 66). Fonte: cabeçalho `Código` dos 367 verbetes (não o nome de arquivo, que omite o código em 23 verbetes antigos) — divergência de +23 registrada em relação à contagem histórica de "nós redigíveis", sem correção retroativa.
+2. **`RC-842` (Milésios, III.14.3 — 3º da seção; ⚪):** materialização de 29/08/2026 (vivia só no cadastro; 0 termos/0 relações no ciclo); âncora única de P2017-10-14 (U0141), **transcrição automatizada não conferida com o áudio**; grafias do STT preservadas ('milesanos', *inclusezianos/Grantã/paraa*); arestas canônicas com `RC-403` Colegiado Druídico e `RC-398` Thuata de Dannan (P2021-05-15); `RC-755` declarada **sem aresta** (lacuna não preenchida). **Status divergente**: cabeçalho da ficha "🟡 Candidato" × cadastro/ÍNDICE ⚪ candidato — registrado, sem harmonizar.
+3. **`RC-774` PEP e `RC-773` Nanotecnologia Prânica (V.23.2 — 2º e 3º da seção; 🟡):** o par tecnológico do **Projeto TALM** (`RC-091`), ambos de ART-2025-08-03 (**material do curador, não primário**) — quarentena de confirmação em fonte primária. PEP transfere o nidana (`RC-154`) por 'quanta de energia' (casulo; 3ª geração de estrelas); Nanotecnologia opera em cordas/supercordas e quarks/glúons, com **quarentena de leitura** (vírus = "nanorrobôs" é analogia do autor, jamais virologia) e o espelho "Frank sem costuras".
+4. **`RC-772` (Morlens, III.13.2 — 15º da seção; 🟡):** o 'monstro ciberenergético', programador genético atômico do Projeto TALM; repositórios do **Éon das Três Esferas** (`RC-775`); ser criado **sem lacre** (P2018-12-15 U0012 e P2024-06-16 U0003, STT preservado: *virgino/virgem/morre/morrensor*; quatro cabeças); **nota registrada**: ficha RC-772 grafa "Anã" onde a Base consagra **ANANQUE** (`RC-777`, Devolutiva O-4) — sem toque nas fichas.
+5. **`RC-747` (Vergonha de Existir, IV.21.1 — 13º da seção; ⚪ aprovado):** genótipo como **uso metafórico-próprio de Ellam** (blindagem: não é genética nem psicologia; não é diagnóstico nem modelo); auto-relato do autor (P2024-03-03: «pior presente que eu deixo pro espírito que me anima»); resposta à dessensibilização (`RC-746`); precedente de Lúcifer (`RC-078`); vínculos com `RC-722` e `RC-705`; o avesso de modelo: «não faça isso não, porque dói para cacete».
+6. **`RC-743` (Destinação do Lobo, V.22.1 — 22º da seção; ⚪ aprovado):** P2024-08-03 — a destinação do lobo como convergência de sociabilidade/cuidado/proteção dos vulneráveis; She-Wolf e a manipulação genética (Kasyapa/Marichi × Pulaha); Medb, loba de Roma, Heródoto/Neuri, Lycaon; a inveja que barrou o plano de Pulaha; **destinação atrelada à humana**; **cautela editorial** (não é etologia; legenda viral da alcateia é falsa; carne crua fora); **Pularra** chancela F039-L3 AGUARDA-ÁUDIO (não normalizada; não convertida em relação); arestas com `RC-529` e `RC-525`.
+7. **Seções tocadas:** V3.14.03 (2 → 3) · V5.23.02 (1 → 3 — RC-771 já ocupava a seção) · V3.13.02 (14 → 15) · IV.21.1 → V4.21.01 (12 → 13) · V5.22.01 (21 → 22). Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (lote limpo de primeira — 34 spans pré-testados byte a byte).
+
+**Próximos (grau 2, 70 restantes):** por ordem decrescente — `RC-675`, `RC-673`, `RC-663`, `RC-662`, `RC-661`, `RC-651` (a confirmar no despacho do Lote 60).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1737,7 +1767,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **306 nós redigíveis** · **0 com grau 3 restantes**. Próximo: anel de grau inferior (a confirmar com o censo e o despacho do Curador).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 6 de 76** (primeiros por código decrescente: `RC-842` Milésios · `RC-774` PEP · `RC-773` Nanotecnologia Prânica · `RC-772` Morlens · `RC-747` Vergonha de Existir · `RC-743` Destinação do Lobo). Estado: 373 verbetes · **300 nós redigíveis** · **70 com grau 2 restantes**.
 
 ## 5. Como conferir
 

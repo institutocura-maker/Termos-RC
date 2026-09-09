@@ -1268,3 +1268,25 @@ Acumulado: **367 verbetes** · 7.186 verbatim · 3.527 códigos · **0 falhas** 
 10. **Statuses:** RC-204/RC-207/RC-175 🟡 provisório e RC-232/RC-055 🟠 em análise — todos consistentes ficha/cadastro/ÍNDICE; nenhuma divergência além da categoria do RC-175 (registrada no verbete, sem harmonizar).
 
 **🏁 9º anel (grau 3) FECHADO — 66/66.** Próximo anel: **grau 2** — nós com ficha ainda sem verbete (censo e despacho do Curador a confirmar).
+
+---
+
+## 09/09/2026 — Lote 59: ABERTURA DO 10º ANEL, GRAU 2 (6 verbetes, 3.419 palavras)
+
+**Despacho aberto do Curador:** «Beleza! Deixa fluir e vamos em frente com o que te parecer o mais apropriado...» — primeira leva do grau 2 por critério editorial (censo autoritativo + ordem decrescente).
+
+`RC-743` Destinação do Lobo (**V.22.1 — 22º da seção**, 755 p.; ficha 703) · `RC-772` Morlens (**III.13.2 — 15º da seção**, 623; 538) · `RC-774` PEP (**V.23.2 — 2º da seção**, 549; 383) · `RC-773` Nanotecnologia Prânica (**V.23.2 — 3º da seção**, 528; 401) · `RC-842` Milésios (**III.14.3 — 3º da seção**, 494; 451) · `RC-747` Vergonha de Existir (**IV.21.1 — 13º da seção**, 470; 348).
+
+Acumulado: **373 verbetes** · 7.220 verbatim · 3.559 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **10º anel (grau 2): 6 de 76 · 70 restantes · 300 nós redigíveis** (contagem histórica; censo rigoroso por cabeçalho = 283 — diferença de +23, verbetes antigos sem código no nome de arquivo, sem correção retroativa).
+
+1. **Ambiente estável** (HEAD = remoto = `08cbaa8` na abertura; árvore limpa). Censo do anel: grau total 2 em RELACOES = 76 fichas, nenhuma redigida; validação cruzada grau 4 = 48 · grau 3 = 66 (aneis fechados).
+2. **Âncoras pré-testadas antes do verificador** (34 spans byte a byte, 0 falhas diretas); lote limpo de primeira.
+3. **`RC-842` Milésios (III.14.3 — 3º da seção):** materialização 29/08/2026 (só cadastro; 0/0); P2017-10-14 U0141 **STT não conferida com o áudio**; grafias STT preservadas ('milesanos'; inclusezianos/Grantã/paraa); arestas RC-403/RC-398 (P2021-05-15); RC-755 **sem aresta** (lacuna declarada); **status divergente** (ficha "🟡 Candidato" × cadastro/ÍNDICE ⚪) sem harmonizar.
+4. **`RC-774` PEP + `RC-773` Nanotecnologia Prânica (V.23.2 — 2º/3º da seção):** par tecnológico do Projeto TALM (RC-091); ART-2025-08-03 = **material do curador, não primário** → quarentena de confirmação em fonte primária; PEP transfere nidana (RC-154) em 'quanta de energia' (casulo; 3ª geração de estrelas); Nanotecnologia em cordas/supercordas e quarks/glúons; **quarentena de leitura** (vírus = "nanorrobôs", analogia, jamais virologia); "Frank sem costuras".
+5. **`RC-772` Morlens (III.13.2 — 15º da seção):** 'monstro ciberenergético', programador genético atômico do TALM; Éon das Três Esferas (RC-775); ser sem lacre (P2018-12-15 U0012 + P2024-06-16 U0003; STT virgino/virgem/morre/morrensor; quatro cabeças); **nota**: ficha RC-772 grafa "Anã" × Base consagra ANANQUE (RC-777, Devolutiva O-4) — sem toque.
+6. **`RC-747` Vergonha de Existir (IV.21.1 — 13º da seção):** genótipo = **uso metafórico-próprio de Ellam** (blindagem: não genética/psicologia, não diagnóstico, não modelo); auto-relato P2024-03-03 («pior presente que eu deixo pro espírito que me anima»); resposta à dessensibilização (RC-746); precedente Lúcifer (RC-078); vínculos RC-722/RC-705; «não faça isso não, porque dói para cacete».
+7. **`RC-743` Destinação do Lobo (V.22.1 — 22º da seção):** P2024-08-03; lobo = sociabilidade/cuidado/proteção dos vulneráveis; She-Wolf (Kasyapa/Marichi × Pulaha), Medb, loba de Roma, Heródoto/Neuri, Lycaon; inveja contra o plano de Pulaha; destinação **atrelada à humana**; **cautela editorial** (não etologia; legenda viral da alcateia falsa; carne crua fora); **Pularra F039-L3 AGUARDA-ÁUDIO** (não normalizada; não convertida em relação); arestas RC-529/RC-525.
+8. **Seções (+1/2):** V3.14.03 2→3 · V5.23.02 1→3 (RC-771 já ocupava) · V3.13.02 14→15 · V4.21.01 12→13 · V5.22.01 21→22. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+9. **Statuses:** RC-774/773/772 🟡 provisório e RC-747/743 ⚪ candidato aprovado = cadastro/ÍNDICE — consistentes; RC-842 ⚪ = cadastro/ÍNDICE (cabeçalho da ficha traz 🟡 — divergência registrada, sem harmonizar).
+
+**Próximos (grau 2, 70 restantes):** por código decrescente — `RC-675`, `RC-673`, `RC-663`, `RC-662`, `RC-661`, `RC-651` (a confirmar no despacho do Lote 60).
