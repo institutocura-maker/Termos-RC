@@ -1947,6 +1947,39 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 28 restantes):** por ordem decrescente — `RC-299`, `RC-297`, `RC-294`, `RC-287`, `RC-267`, `RC-265` (a confirmar no despacho do Lote 67).
 
+### Lote 67 — 10º anel, grau 2 (6 verbetes, 6.181 palavras)
+
+**Despacho do Curador:** «Ok, confirmado despacho do Lote 67 >>> [`RC-299`, `RC-297`, `RC-294`, `RC-287`, `RC-267`, `RC-265].`» *(Ambiente: **estável** — HEAD = remoto = `5f087d5` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Kalil Kadmon (nome demo de Pandora) | IV.17.4 | `V4/V4.17.04-RC299-kalil-kadmon-nome-demo-de-pandora.md` | **1.310** | 1.255 p. |
+| Enigma da Esperança (Caixa de Pandora) | V.22.1 | `V5/V5.22.01-RC287-enigma-da-esperanca-caixa-de-pandora.md` | 1.131 | 896 p. |
+| Era dos Humanos (Zeus e a) | III.16.2 | `V3/V3.16.02-RC297-era-dos-humanos-zeus-e-a.md` | 1.040 | 814 p. |
+| Os 270 Mundos (profecia do Zohar) | II.7.4 | `V2/V2.07.04-RC265-os-270-mundos-profecia-do-zohar.md` | 924 | 732 p. |
+| Isaac Luria e o conceito do Tzimtzum | I.3.2 | `V1/V1.03.02-RC267-isaac-luria-e-o-conceito-do-tzimtzum.md` | **901** | 394 p. |
+| Eon de Khaos (Universo de Caos) | II.6.4 | `V2/V2.06.04-RC294-eon-de-khaos-universo-de-caos.md` | 875 | 502 p. |
+
+**Medida final:** 875–1.310 palavras (média 1.030) · **103 verbatim byte a byte** · 76 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 54 de 76.** Estado: 421 verbetes · **252 nós redigíveis** · **22 com grau 2 restantes**.
+
+**Achados do lote 67:**
+
+1. **`RC-299` Kalil Kadmon (IV.17.4 — único 🟢 do lote; ficha de 1.255 p., a maior):** a cadeia Kalil Kadmon → Adam Kadmon → Pandora como os passos da dignificação que culminam no «sorriso de Pandora»; P2024-08-03 U1414–U1419 (STT "Cali Calon" — **chancela do mutirão REVISAR de 06/09/2026 · F039-L3 AGUARDA-ÁUDIO**: grafia registrada como falada, a flag deixa de ser dívida, números como falados B5); P2023-08-05 a gênese completa (a sabotagem do Olimpo: «cada um do Olimpo deu para esse Kalil Kadmon a sua MELHOR sequência genética ao invés da pior»; o algoritmo de Hefesto = livre-arbítrio; o primeiro sorriso; «EU SOU O PAI DOS HUMANOS»/Indra); B050 data a biografia (Toba 74 → uso contra Prometeu 52 → transição de fase 48 mil a.p.); P2021-05-15 **não cita o nome** — vínculo nominal, ausência registrada (não inflar); paratexto B089 (Kummer) registrado sem promover (O-1/O-7). Arestas: variação `RC-086` (B021) e variação `RC-118` Val Dimon (B060).
+2. **`RC-287` Enigma da Esperança (V.22.1):** a caixa como enigma da esperança — «O erro não foi abrir a caixa. O erro foi negar o que havia nela»; B087: o conteúdo em 'vírus'/'algoritmos virais', lista «ódio, maldade, arrogância, desespero, doenças, malícia, soberba, ciúme, luxúria e esperança» com a "esperança" como o **último** algoritmo viral (variante a registrar); manifesto B088 recusa a autoria da abertura; **divergência estrutural O-4** — na psicografia quem abre a caixa é Epimeteu (`RC-302`), jamais fusão com B020; releitura ART-2026-08-18 demarcada (secundária confiável, sem alterar o núcleo); P2020-04-25 primeira fonte oral (U0006) e P2022-03-26 sem ganho de anterioridade (selo D-10); 0 códigos novos (O-3).
+3. **`RC-297` Era dos Humanos (III.16.2):** cap. 23 de B021 ("Zeus e a Impensável 'Era dos Humanos'") — Zeus «invadiu, sim, a 'Era dos Humanos'...» e as religiões o reduziram a mito; oráculos/pitonisas/artes trágicas como vias sem acesso direto; dissolução da Tríade (`RC-300`, sem ficha) e o «projeto de migração»; B087 (o pacto; «olá!»; «essa é somente a primeira geração desses seres») e B088 (a poção cerebral com notas de rodapé Wikipédia = quarentena institucional O-4; a profecia de Témis); P2025-11-29 («os humanos são a última espécie»; 256 possibilidades); paralelo `RC-238` anotado sem fusão.
+4. **`RC-265` Os 270 Mundos (II.7.4):** profecia VAYEHI 21, 8B-9A do Zohar — o mensageiro «ouvida nos 270 mundos da Criação»; B013 pp. 10/12/136/146 (o público-alvo da Cabala e da própria RC — «muito, mais muito superior ao apontado pelo 'Sepher ha-Zohar'»); P2022-12-03 U0021 — a RC como complemento do legado de Enoque e Vyasa (STT "Viaza"/"Zorrar" preservados); P2026-07-25 Parameshthi (~270 mundos que observam a Terra; aresta `RC-037`); **quarentena teológica** — sem código para "mensageiro do Juízo Final".
+5. **`RC-267` Isaac Luria (I.3.2 — ficha mais curta do lote, 394 p.):** o cabalista de Safed (séc. XVI) que «produziu o conceito do 'Tzimtzum'»; P2025-05-31 (o resgate da Otz Chim; «100 interpretações»; a crítica do autor ao viés nacionalista — registro, jamais endosso); B013 («exílio de deus dentro dele mesmo»; Luria «prefere classificar a 'queda' desse Ser como sendo um 'exílio'» — «o termo camufla a queda»); **B013 pp. 30–31 não autoriza acrescentar B013 a `RC-514`** — veto respeitado; quarentena teológica/histórico-religiosa (Safed e o Zohar = narrativa do autor, não biografia acadêmica).
+6. **`RC-294` Eon de Khaos (II.6.4):** o nome grego do universo antimaterial (Brahmaloka) visto pelos olimpianos — «inúmeros genos que compõem o "Eon de Khaos"...» (B021 pp. 10–12); genos edificados com a «energia mental» de Caos sem os "pilares" → «casa caindo sobre suas cabeças»; o eon «planejado» × «improvisado» quando o Criador «caiu» (quarentena científica: quarks/Big Bang = leitura do autor); notas de B021 pp. 157–158 («eon» = «universo» = «geno»; «Eon de Khaos» = «universo do Criador caído»); **travas de governança respeitadas** — sem reancorar `RC-284`/`RC-283`/`RC-285`, sem materializar `RC-038`/`RC-077` (ambos sem ficha), sem fusão com B020.
+7. **Padronização de nome de arquivo em V2.06.04:** os dois vizinhos que estavam sem código no nome foram renomeados via `git mv` para o padrão `RC###` — `V2.06.04-cfd-codigo-fonte-definidor.md` → `V2.06.04-RC040-cfd-codigo-fonte-definidor.md` e `V2.06.04-criacao-indevida.md` → `V2.06.04-RC167-criacao-indevida.md` (conteúdo intacto; `RC-040` e `RC-167` já constavam no cadastro e no ÍNDICE; nenhuma ficha tocada).
+8. **Divergências de legenda de subseção anotadas, não harmonizadas (6):** I.3.2 (`RC-263` grafa "Os símbolos e as chaves" × ÍNDICE "Hebraico e cabala"; volumes "As fontes e as chaves…" e "A fonte e o vocabulário…" × "Fundamentos — o território e as regras do jogo") · II.6.4 (`RC-040` "Os códigos e as leis" e `RC-167` volume "A Criação Indevida…" × ÍNDICE "O CFD, os dois universos e o Khaos") · II.7.4 (`RC-495` volume "Os códigos e as leis — as regras do jogo" × ÍNDICE "Cosmogonia e estrutura do cosmos…") · III.16.2 (`RC-571` "O fim e o recomeço", `RC-694` "Eventos e eras", volumes de `RC-567`/`RC-568`/`RC-569`/`RC-592` × ÍNDICE "Eras, épocas e ciclos") · IV.17.4 (`RC-086` "A espécie e a sua origem" × ÍNDICE "Pandora, o Éden e as hibridações") · V.22.1 (grupo "Profecia de Moros" e grupo "A transformação do humano" × ÍNDICE "A Reintegração Cósmica").
+9. **Seções tocadas (+1 cada):** I.3.02 4→5 · II.6.04 2→3 · II.7.04 2→3 · III.16.02 8→9 · IV.17.04 3→4 · V.22.01 26→27. Nenhum endereço novo, nenhuma ficha tocada.
+10. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (103 spans pré-testados byte a byte; 2 corrigidos na auto-revisão antes do verificador — RC-287: span do manifesto B088 dividido no `**` da ficha e recorte em torno do `**` entre "criar" e "livre"; RC-265: redação ajustada para não cruzar a aspa da ficha).
+11. **Statuses:** RC-299 🟢 **verificado** — consistente ficha = cadastro = ÍNDICE (único do lote); os demais cinco 🟡 provisório — consistentes; nenhuma divergência de status a registrar.
+
+**Próximos (grau 2, 22 restantes):** por ordem decrescente — `RC-262`, `RC-260`, `RC-258`, `RC-245`, `RC-243`, `RC-223` (a confirmar no despacho do Lote 68).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
