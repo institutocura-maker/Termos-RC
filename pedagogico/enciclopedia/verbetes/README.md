@@ -1822,6 +1822,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 52 restantes):** por ordem decrescente — `RC-549`, `RC-520`, `RC-498`, `RC-482`, `RC-481`, `RC-479` (a confirmar no despacho do Lote 63).
 
+### Lote 63 — 10º anel, grau 2 (6 verbetes, 4.621 palavras)
+
+**Despacho do Curador:** «Ok, em frente com os próximos >>> [`RC-549`, `RC-520`, `RC-498`, `RC-482`, `RC-481`, `RC-479`].» — os seis previstos confirmados. *(Ambiente: **4ª ocorrência do incidente de clone** — HEAD regredira a `6a45059` e o ref remoto sumira; reparado pelo protocolo (fetch → FETCH_HEAD `8d50362` → diff 0 inserções → `reset --hard FETCH_HEAD`); nada se perdeu.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Belial (arconte; "Satã" do livro de Jó) | III.12.2 | `V3/V3.12.02-RC479-belial-arconte-sata-do-livro-de-jo.md` | **1.096** | 906 p. |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | III.10.3 | `V3/V3.10.03-RC481-maitreya-dionisio-forma-adiagena-de-vishnu.md` | 799 | 720 p. |
+| Infecção mental / contágio vibratório | IV.19.1 | `V4/V4.19.01-RC520-infeccao-mental-contagio-vibratorio.md` | 777 | 824 p. |
+| Circuito do CHA | II.8.1 | `V2/V2.08.01-RC549-circuito-do-cha-...-atitude.md` | 741 | 653 p. |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | III.9.1 | `V3/V3.09.01-RC482-ialdabaoth-jave-samael-saklas-sabaoth.md` | 663 | 539 p. |
+| Tempérium (variação de Tempérion) | II.7.2 | `V2/V2.07.02-RC498-temperium-...-temperion.md` | **545** | 296 p. |
+
+**Medida:** 545–1.096 palavras (média 770) · **49 verbatim byte a byte** · 33 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 30 de 76.** Estado: 397 verbetes · **276 nós redigíveis** · **46 com grau 2 restantes**.
+
+**Achados do lote 63:**
+
+1. **`RC-479` (Belial, III.12.2 — 2º da seção):** arconte do conselho e "Satã" do Livro de Jó; anjo clone que tomou "fórmulas de poder mental" e fez o trânsito a demo metamorfoseável; «Só que não é Satanás, é Belial.» (P2022-11-20); padrão repetido com Caim; **Evangelho de Bartolomeu** na leitura do autor (P2023-06-03, fonte mais antiga: «o demônio aqui é BELIAL — um anjo clone que desobedeceu a Javé ou a Keter»; os 500 passos; Jesus aprisionou Belial e libertou as almas) — **quarentena teológica**; pacto com Hades/Reides (P2024-07-13); conselho e **B080 *Perversa Gratidão*** (P2026-07-25); selo D-9/D-10 (P2023-12-03, sem anterioridade); cruzamento com `RC-074` aprovado; arestas `RC-474` e `RC-072`.
+2. **`RC-481` (Maitreya, III.10.3 — 9º da seção):** Buda futuro = Dionísio = forma adiágena de Vishnu; retorno messiânico como «continuação da confusão que Marduk fez há 4.000 anos» (P2021-03-27, relógio messiânico `RC-765`); vinda de Madiim/Calque/Caico (P2025-12-14, STT); avatares de Shiva e a fase final de Krishna (P2021-06-26); **divergência Olm × Vishnu com mandato de não-fusão** (B060 O-2: Maitreya = avatar futuro de Olm/Quarto Logos × ficha: forma adiágena de Vishnu; hierarquia das fontes favorece a ficha; relação gravada como registro da divergência — JAMAIS fundir); arestas `RC-765`↔`RC-481`, encarnação-posterior-de `RC-092`.
+3. **`RC-520` (Infecção mental/contágio vibratório, IV.19.1 — 12º da seção):** **materialização de 29/08/2026** (só cadastro; 0/0); doença do criador para dentro e para fora; «Estamos todos doentes.»; «não tem imunidade de rebanho» (P2022-11-26; "na lógica biológica ficou feio, mas tá correto"); os memes de Lemi no entrelaçamento quântico (P2021-04-10); genoma da dignidade (`RC-868` sem ficha) na definição; arestas pré-existentes `RC-448`/`RC-711`; `RC-381` e `RC-099` declaradas sem aresta; nome do cadastro canônico ("Doença do Criador" do curador registrada na definição).
+4. **`RC-549` (Circuito do CHA, II.8.1 — 26º da seção; 🟡):** o "império das circunstâncias" que define os Arquivos Mentais quando falta a Vontade de Progredir; C=Circunstâncias, H=Herança espiritual, A=Atitude (B074 cap. 3, pp. 43–51 e 158); o "Eu piloto automático"; o exemplo do "chato"; "orai e vigiai" = «prudência emocional e atitudinal»; samsara; karma de Kapila = «questão de ressonância, e não de fatalidade»; **Navalha O-3** (samsara etc. sem código); não confundir com outras siglas CHA (RC-266/295/485 por coincidência).
+5. **`RC-482` (Ialdabaoth, III.9.1 — 15º da seção):** epítetos gnósticos de Javé — «Samael, o soberano cego; Saklas, o ignorante; Ialdabaoth, o blasfemador contra o divino; Sabaoth»; P2022-09-17 (STT *Javé Brab* = Brahma; «Eu é que sou Deus, não há outro além de mim»; o feto abortado parido pela nuvem) + P2026-07-25 (confirmação; Pistis Sophia `RC-530` pré-queda × Ialdabaoth pós-queda; `RC-152`); STT a normalizar (Aldabaof/Sácala/Sabaov); arestas: sinônimo de `RC-001` (B061), relaciona `RC-770`.
+6. **`RC-498` (Tempérium, II.7.2 — 11º da seção):** variação histórica/STT de Tempérion, **remissiva ao canônico `RC-472`** (código imutável, nunca reutilizável); correção ontológica (Tempérion é um dos cinco Archeons, não "os cinco"); «Em Tempérion [...] há um tipo de ser que eu chamo de LM.»; curadoria estrutural C-01 a C-07; regra de evidência: STT sem áudio → ⚪.
+7. **Seções tocadas:** V2.08.01 25→26 · V4.19.01 11→12 · V2.07.02 10→11 · III.9.1→V3.09.01 14→15 · V3.10.03 8→9 · V3.12.02 1→2 (RC-479 é o 2º da seção, atrás de RC-074 Len Mion). Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (lote limpo de primeira — 49 spans pré-testados byte a byte; 1 corrigido na auto-revisão antes do verificador: RC-479 ponto final fora do « »).
+9. **Statuses:** RC-549 🟡 provisório e RC-498/482 ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. **Divergências de cabeçalho registradas, sem harmonizar:** as fichas RC-520 ("🟡 Candidato"), RC-481 ("🟡 Provisório") e RC-479 ("🟡 Provisório") trazem selo 🟡 no cabeçalho, enquanto cadastro e ÍNDICE as registram ⚪ candidato — anotado lado a lado em cada verbete.
+
+**Próximos (grau 2, 46 restantes):** por ordem decrescente — `RC-477`, `RC-461`, `RC-451`, `RC-450`, `RC-446`, `RC-434` (a confirmar no despacho do Lote 64).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
