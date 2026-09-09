@@ -1915,6 +1915,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 34 restantes):** por ordem decrescente — `RC-375`, `RC-334`, `RC-322`, `RC-321`, `RC-320`, `RC-302` (a confirmar no despacho do Lote 66).
 
+### Lote 66 — 10º anel, grau 2 (6 verbetes, 5.563 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 66 [...]» — mensagem truncada; confirmado por despacho seguir com os seis anunciados no fecho do Lote 65: `RC-375`, `RC-334`, `RC-322`, `RC-321`, `RC-320`, `RC-302`. *(Ambiente: **estável** — HEAD = remoto = `e0844f3` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Dharma e Castas (origem demo) | I.3.1 | `V1/V1.03.01-RC322-dharma-e-castas-origem-demo.md` | **1.065** | **2.065 p.** |
+| Epimeteu (titã) | III.12.5 | `V3/V3.12.05-RC302-epimeteu-tita.md` | 1.038 | 1.292 p. |
+| Castas Trimurtianas | III.10.1 | `V3/V3.10.01-RC321-castas-trimurtianas.md` | 914 | 804 p. |
+| Teocracia da Doença de uma Divindade | IV.21.1 | `V4/V4.21.01-RC334-teocracia-da-doenca-de-uma-divindade.md` | 884 | 584 p. |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | III.10.1 | `V3/V3.10.01-RC320-senhores-do-dharma-senhores-da-lila-trimurti.md` | 870 | 823 p. |
+| Druidas Celtas (contexto RC) | III.14.3 | `V3/V3.14.03-RC375-druidas-celtas-contexto-rc.md` | **792** | 619 p. |
+
+**Medida final:** 792–1.065 palavras (média 927) · **102 verbatim byte a byte** · 38 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 48 de 76.** Estado: 415 verbetes · **258 nós redigíveis** · **28 com grau 2 restantes**.
+
+**Achados do lote 66:**
+
+1. **`RC-322` Dharma e Castas (I.3.1 — a maior ficha do lote, 2.065 p.):** a ficha foi **materializada por despacho** (Devolutiva 28/08/2026, item 11; o termo vivia só no cadastro) a partir da fonte oral mais antiga do acervo a expor o bloco (P2023-10-14); 0 termos/0 relações novas. **Direção do enunciado:** o dharma não é doutrina humana — é dispositivo de educação de honra para seres híbridos («E Darma foi o principal conceito que na época foi educado para gerar honra entre seres híbridos que não tinham honra»), herdado pela humanidade por transmissão mal endereçada após o fechamento dos portais. **Quarentena ética** (registrar ≠ endossar): a cadeia dever de casta → matar → não gerar karma é o ponto mais delicado e não transita para material de divulgação. STT preservados: «Darma», «paraa», «rakchaças», «varma, dma» (F039-L3, FONTE AUSENTE DA ARCA). Lacunas declaradas: RC-321/RC-094/RC-586 listados sem aresta — não preenchidas.
+2. **`RC-302` Epimeteu (III.12.5):** dupla documental sem fusão (canônica × psicografada B087/B088/B089, criada no ciclo B087; O-6/O-7); **variante estrutural O-4** — na psicografia quem abre a caixa é Epimeteu, não Pandora (× mito clássico × B020, jamais fusão); **quarentena clínica** (o "vício" nas poções = leitura narrativa, jamais diagnóstico) e **científica/botânica** (+500 moléculas complexas e a origem do xamanismo = cosmologia de Ellam); nota mitológica da ed. 2022 do B087 (Epimeteu, «o que pensa depois» — Hesíodo). Arestas: é-um `RC-301` (irmão Prometeu, B021) e é-um `RC-465` (Asuras = Titãs, B060).
+3. **`RC-321` Castas Trimurtianas (III.10.1):** B023 cap. 4 — surgimento «em dois focos de aglomerados não humanos» (Hiperbórea, Norte × tradição Kumari Kandan, sul da Índia, ~20 mil anos); as castas como refino de áreas do **genoma demo-homo** (uma das teses mais ousadas do corpus, leitura da obra); **Kandan × Kandam sem fusão** (livro × ficha RC-329); STT «caixa dos braes» preservado (provável "classe dos brâmanes"); selo D-10 com **anterioridade de 19 meses** (P2022-03-26). Arestas: origina-em `RC-329` e `RC-068` (B023).
+4. **`RC-320` Senhores do Dharma (= Senhores da Lila / Trimurti) (III.10.1):** a equivalência central da leitura comparada hindu/RC (B023 caps. 2/7); os seres que pensavam que «aqueles seres híbridos "herdariam a Terra"»; Krishna como avatar «quechava» com a genética «dos três senhores atribut» (STT, F039-L3 AGUARDA-ÁUDIO); as gunas × os três pilares (P2012-02-19, a fonte mais antiga). Sem fusão com B044; `RC-075` Lila permanece sem arquivo. Arestas: variação de `RC-104` e de `RC-075` (B023).
+5. **`RC-334` Teocracia da Doença de uma Divindade (IV.21.1):** o polo oposto à Democracia do Amor da Deidade (`RC-333`, B048 caps. 6/9 — obra primária) com B037 como leitura de apoio **sem fusão**; **quarentena clínica ABSOLUTA** («doença psíquica», «submissão doentia», «transtorno de personalidade» = leitura, jamais diagnóstico) e **teológica** (Teologia Comparada de Ellam, sem chancela factual); plano imperial/povo eleito (B048 pp. 42–45) = político, fora. Arestas: `RC-333` opõe-se-a `RC-334` e `RC-334` é-um `RC-041` (B048).
+6. **`RC-375` Druidas Celtas (III.14.3):** verbete de **contexto** (grupo humano em moldura doutrinária, não etnografia); **materialização por despacho** (29/08/2026; o termo vivia só no cadastro, `ficha=False`; 0 termos/0 relações novas); **modo D-8** — os dois colégios arquidruídicos entram como método pedido pelos Túatha, não como instituição étnica; STT preservado («toatas de Dané», cinco formas no ciclo, nenhuma unificada). Arestas: `RC-374` é-um `RC-375` (B043) e `RC-403` associado-a `RC-375` (B050); lacunas RC-373/RC-094 declaradas, não preenchidas.
+7. **Divergências de legenda de subseção anotadas, não harmonizadas:** em III.10.1, os arquivos antigos (Trimurti `RC-104`, `RC-575`) grafam "A Trimurti hindu" × ÍNDICE "A Trimurti como sistema" (usada em `RC-320`/`RC-321`); em III.14.3, `RC-586` grafa "Os rishis e os transmissores" × ÍNDICE "Ordens, povos e coletivos humanos" (usada em `RC-375`); em IV.21.1, `RC-335` grafa "O critério e a escolha" × ÍNDICE "Ética, carma e compromissos" (usada em `RC-334`).
+8. **Seções tocadas (+1 cada):** V1.03.01 6→7 · V3.10.01 2→4 (+2) · V3.12.05 2→3 · V3.14.03 3→4 · V4.21.01 16→17. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (102 spans pré-testados byte a byte; 6 corrigidos na auto-revisão antes do verificador — formulações nossas em Tensões desaspadas, aspas internas retas → curvas da ficha em `RC-320`/`RC-334`, ponto final para fora do « » em `RC-375`).
+10. **Statuses:** os seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE; nenhuma divergência de status a registrar.
+
+**Próximos (grau 2, 28 restantes):** por ordem decrescente — `RC-299`, `RC-297`, `RC-294`, `RC-287`, `RC-267`, `RC-265` (a confirmar no despacho do Lote 67).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
