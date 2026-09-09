@@ -1162,6 +1162,36 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 15. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
 16. **Falhas 6 → 0**, com **dois tipos novos**: (a) **caminho de ficha inventado no cabeçalho** — escrevi `termos/RC-775-eon-das-tres-esferas-superloka-geno.md` quando o arquivo real é `termos/RC-775-eon-das-tres-esferas.md`; o verificador abortou («documento-fonte declarado inexistente»). **Lição: o nome do termo na Base não é o nome do arquivo — conferir sempre com `ls termos/RC-NNN-*.md`.** (b) **aspa começando depois de uma aspa dupla da ficha** — «o primeiro ato…» não existe na fonte, porque lá está `o "primeiro ato…`; o recorte tem de começar depois do sinal. Demais: 1 caixa inicial (`A devoção` × `a devoção`), 1 expressão nossa aspirada, 1 caixa errada (`superloka` × `Superloka`).
 
+### Lote 40 — 8º anel, grau 4 (6 verbetes, 4.443 palavras)
+
+**Despacho do Curador:** «Lote 40 — abrir o grau 4» (`RC-742`, `RC-684`, `RC-672`, `RC-669`, `RC-668`, `RC-635`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Falência dos Deuses | III.16.3 | `V3/V3.16.03-RC742-falencia-dos-deuses.md` | **1.039** | **1.174 p.** |
+| Pashupati — o avatar criador das espécies | III.10.4 | `V3/V3.10.04-RC669-pashupati-avatar-de-shiva.md` | 781 | 416 p. |
+| Abel — o primogênito invertido | III.14.2 | `V3/V3.14.02-RC684-abel.md` | 743 | 563 p. |
+| Os 366 Manuscritos de Enoque | V.23.1 | `V5/V5.23.01-RC672-os-366-manuscritos-de-enoque.md` | 689 | 619 p. |
+| Conclave da Espiritualidade Laboratorial | III.16.5 | `V3/V3.16.05-RC635-conclave-da-espiritualidade-laboratorial.md` | 641 | 365 p. |
+| Som da Flauta / Som da Falta | IV.20.1 | `V4/V4.20.01-RC668-som-da-flauta-som-da-falta.md` | **550** | **111 p.** |
+
+**Medida:** 550–1.039 palavras (média 741) · **73 verbatim byte a byte** · 48 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 4 para 10 de 48.** Estado: 263 verbetes · **387 nós redigíveis** · **38 com grau 4 restantes**.
+
+**Achados do lote 40:**
+
+1. **`RC-668` (Som da Flauta / Som da Falta) tem a menor ficha já redigida da enciclopédia — 111 palavras** (recorde anterior: `RC-601`, 220). **O verbete não tem bloco de voz do autor:** a ficha não traz fala direta, e nenhuma aspa foi composta — precedente de `RC-687`/`RC-059`/`RC-060`. A cena da Naga pacificada não está desenvolvida em nenhuma ficha do corpus; o verbete não a reconstituiu.
+2. **`RC-684` (Abel) é o irmão do verbete de Caim (`RC-490`), no mesmo endereço III.14.2 — sem duplicação:** traz o material exclusivo de `RC-684` (a primogenitura invertida, a condição registrada e selada, a armação de Javé, a sucessão de Sete) e remete a `RC-490` para o exílio de Caim e a descendência americana.
+3. **A quarentena clínica de `RC-684` está liquidada por selo:** ENCERRADO-RATIFICADO (F041-L5, 06/09/2026) — «o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais». O verbete registra a leitura como leitura, **sem endosso e sem suavização**.
+4. **`RC-742` tem o maior lastro do lote** (ficha 1.174 p., oito fontes, 2020–2024). Núcleo: a proclamação órfica da falência («os deuses faliram, mas Zeus nunca aceitou isso»), a leitura de 2020 como problema de manutenção («esse eu de Jaé, ele é um eu alimentado até hoje pelo processador B», com a fórmula D-4 obrigatória) e a exceção na Ogdóade («todos esses processos faliram à exceção do criado por Elm/Olm»).
+5. **A relação causal rejeitada em `RC-742`:** a ficha registra que a relação *resulta-de* com `RC-176` (Modelo Colmeia) foi rejeitada (P2024-07-13) — mantém-se apenas proximidade textual; a aresta aceita no registro é com `RC-604`.
+6. **Divergência numérica em `RC-672` registrada sem harmonização (D-9):** *363* na fala de P2022-11-20 × **366** no cadastro e demais fontes. E a nota de anterioridade da fala de 2023 (11 meses sobre P2024-11-03).
+7. **`RC-635` ancora-se na fala de P2024-05-04** («Faz uns quatro anos que rodam conclave lá.») com a nota de anterioridade de P2022-03-26 (25 meses) e o estatuto declarado de candidato por depender de fonte ainda não cruzada com obras primárias.
+8. **Grafias do STT preservadas no lote:** «Jaé»/«Jahé» (`RC-742`); «esturpada» e *Lemion* (`RC-684`, sem fusão com `RC-074`); Pachupat/Pacho Pato/Pachipat (`RC-669`); *Apoaginta* (`RC-672`); `Anarata/Ana Rata` [REVISAR STT] (`RC-668`). **Nada saneado.**
+9. **Nenhum endereço novo, nenhuma renomeação** — os seis endereços já tinham arquivos com código no nome.
+10. **Falhas 8 → 0.** Composição: **3 pontos finais postos dentro da aspa** (`RC-669` «...biológico.» × «...biológico»; `RC-684` «...armação.» × «...armação»; `RC-742` «...finalizado.» × «...finalizado» — as fontes terminam sem ponto) · **1 fragmento com caixa da fonte** (`RC-672`: a fonte grafa «MORREU NO UNIVERSO VIZINHO» em caixa alta) · **1 aspa de metalinguagem** (`RC-668` ×2 — «Na voz do autor» citado como nome de bloco: **tipo novo**; o bloco passou a ser chamado sem aspas) · **1 citação de formulação da Base** (`RC-669` «teologia comparada...», de Observações; passou a prosa) · **1 citação de formulação da Base** (`RC-742` «É cosmologia e Teologia Comparada...», nota da própria ficha; passou a prosa) · **1 aspa em bloco sem voz do autor** (`RC-668`: «permanecem atribuídas à palestra», prosa da ficha vizinha — removida). Regra reiterada: **aspas só para fala; formulação da Base e metalinguagem fora das aspas.**
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1187,7 +1217,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**, aberto no lote 39: **4 de 48**. **393 nós redigíveis**, dos quais **44 com grau 4**. Próximos seis: `RC-742` Falência dos Deuses · `RC-684` Abel · `RC-672` Os 366 Manuscritos de Enoque · `RC-669` Pashupati · `RC-668` Som da Flauta · `RC-635` Conclave da Espiritualidade Laboratorial.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **10 de 48** (lotes 39–40). **387 nós redigíveis**, dos quais **38 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-632` Organoides Genéticos para Sophia · `RC-631` Cérebro Radiata · `RC-622` Kama (personificação do desejo) · `RC-613` Trincheira Vibratória no Campo Informativo · `RC-608` Imponderabilidade (campo de estudo dos Seres LM) · `RC-587` Anu (patriarca Anunnaki).
 
 ## 5. Como conferir
 

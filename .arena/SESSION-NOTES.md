@@ -867,3 +867,24 @@ Acumulado: **257 verbetes** (6.068 verbatim) · 2.593 códigos · **0 falhas** �
 10. **Falhas 6 → 0 com DOIS TIPOS NOVOS:** (a) **caminho de ficha inventado no cabeçalho** (`termos/RC-775-eon-das-tres-esferas-superloka-geno.md` × real `termos/RC-775-eon-das-tres-esferas.md`) — **o nome do termo na Base NÃO é o nome do arquivo; conferir sempre com `ls termos/RC-NNN-*.md`**; (b) **aspa começando depois de aspa dupla da ficha** («o primeiro ato…» inexiste; a fonte tem `o "primeiro ato…`). Demais: caixa inicial, expressão nossa aspirada, caixa errada.
 
 **Próximos (grau 4, 44 restantes):** RC-742 Falência dos Deuses · RC-684 Abel · RC-672 Os 366 Manuscritos de Enoque · RC-669 Pashupati · RC-668 Som da Flauta · RC-635 Conclave da Espiritualidade Laboratorial.
+
+---
+
+## 09/09/2026 — Lote 40: ABERTURA DO 8º ANEL, GRAU 4 (6 verbetes, 4.443 palavras)
+
+**Despacho do Curador:** «Lote 40 — abrir o grau 4» (`RC-742`, `RC-684`, `RC-672`, `RC-669`, `RC-668`, `RC-635`). Sessão nova (Agente 23) retomada da branch `arena/01a07d99-termos-rc` (HEAD `6a45059`) → branch da sessão `arena/01a085d1-termos-rc`.
+
+`RC-742` Falência dos Deuses (III.16.3, **1.039 p.**) · `RC-669` Pashupati (III.10.4, 781) · `RC-684` Abel (III.14.2, 743) · `RC-672` Os 366 Manuscritos de Enoque (V.23.1, 689) · `RC-635` Conclave da Espiritualidade Laboratorial (III.16.5, 641) · `RC-668` Som da Flauta / Som da Falta (IV.20.1, **550**).
+
+Acumulado: **263 verbetes** · 6.141 verbatim · 2.647 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 10 de 48 · 38 grau-4 restantes · 387 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `6a45059` na abertura; rotina ls-remote cumprida; verificação de abertura: validador OK 946/1898 · verificador 257 verbetes/6.068/2.593/0 falhas antes do lote).
+2. **`RC-668` = menor ficha já redigida da enciclopédia — 111 palavras** (recorde anterior `RC-601`, 220). Verbete **sem bloco de voz do autor** (a ficha não traz fala direta); a cena da Naga não está desenvolvida em nenhuma ficha do corpus — não foi reconstituída.
+3. **`RC-684` Abel como complemento de `RC-490` Caim (mesmo endereço III.14.2, sem duplicação):** o verbete traz só o material exclusivo de RC-684; remissivas para o exílio de Caim. Quarentena clínica liquidada por selo F041-L5 RATIFICADO (06/09/2026) — registrada como leitura, sem endosso.
+4. **`RC-742` = maior lastro do lote (ficha 1.174 p., 8 fontes 2020–2024):** proclamação órfica; leitura de 2020 como manutenção (fórmula D-4); relação causal com `RC-176` rejeitada na ficha (aresta aceita: resulta-de `RC-604`).
+5. **`RC-672`:** divergência numérica 363 (P2022-11-20) × 366 registrada sem harmonização (D-9); anterioridade da fala de 03/12/2023 (11 meses).
+6. **`RC-635`:** âncora «Faz uns quatro anos que rodam conclave lá.» (P2024-05-04) + anterioridade P2022-03-26 (25 meses); estatuto candidato declarado (fonte não cruzada com obras primárias).
+7. **Tipos novos de falha de verbatim (8 → 0):** aspa de **metalinguagem** («Na voz do autor» citado como nome de bloco, RC-668 ×2 — bloco passou a ser nomeado sem aspas) e **citação de formulação da Base** como se fosse fala (RC-669 Observações; RC-742 nota AE-CED16 — passaram a prosa). Regra reiterada: aspas só para fala.
+8. **Nenhum endereço novo, nenhuma renomeação.** Filename check: convenção real de arquivo = `RC<NNN>` **sem hífen** (RC742, não RC-742) — conferido byte a byte.
+
+**Próximos (grau 4, 38 restantes):** RC-632 Organoides Genéticos para Sophia · RC-631 Cérebro Radiata · RC-622 Kama · RC-613 Trincheira Vibratória no Campo Informativo · RC-608 Imponderabilidade · RC-587 Anu.
