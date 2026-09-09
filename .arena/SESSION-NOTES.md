@@ -747,3 +747,30 @@ Acumulado: **227 verbetes** (5.323 verbatim) · 2.327 códigos · **0 falhas** �
 12. **LIÇÃO DE PROCESSO NOVA (grave):** **nome de arquivo entre crases derruba o verificador** — todo caminho `.md` entre crases é declaração de documento-fonte e gera `AssertionError` se não existir. Escrevi a nota de renomeação com o caminho em crase e o verificador abortou. **Remédio: nome de arquivo em itálico/texto plano; nota de renomeação no padrão da casa — «Renomeação no mesmo endereço. <endereço> passa a abrigar `RC-xxx` e `RC-yyy`» (códigos, nunca caminhos).** Atualizar também as linhas do README que citam o arquivo renomeado.
 
 **Próximos (grau 5):** RC-647 Evangelho de Judas · RC-644 Xamanismo Virtual · RC-607 Cinco Seres LM de Tempérion · RC-603 Círculo da Perfeição · RC-601 Departamentalização da Vida · RC-593 Mahabharata — 27 no total.
+
+---
+
+## 09/09/2026 — Lote 35: 7º anel, grau 5 (6 verbetes, 5.316 palavras)
+
+**Despacho do Curador: «em frente com os próximos seis do grau 5»** — RC-593, RC-644, RC-647, RC-607, RC-603, RC-601.
+
+`RC-593` Mahabharata (V.23.1, **1.368**) · `RC-644` Xamanismo Virtual (IV.20.1, **1.219**) · `RC-647` Evangelho de Judas (V.23.1, 980) · `RC-607` Cinco Seres LM (III.13.1, 698) · `RC-603` Círculo da Perfeição (**II.5.3**, 583) · `RC-601` Departamentalização da Vida (II.5.4, **468**).
+
+Acumulado: **233 verbetes** (5.463 verbatim) · 2.369 códigos · **0 falhas** · Base intacta · 0 código criado. **417 redigíveis · 21 com grau 5.**
+
+1. **Ambiente estável** (HEAD = remoto = `d2ea757` na abertura).
+2. **3º lote seguido inteiro de ⚪ candidatos (6/6).**
+3. **NOVO RECORDE: `RC-601` tem a menor ficha já redigida — 220 palavras** (recorde anterior: `RC-687`, 233). Verbete de 468. **Regra do lastro no limite.**
+4. **RC-593 = maior ficha do lote (1.713) e maior verbete (1.368).** Tese do financiamento: «EU SOU O FINANCIADOR... POR TRÁS DO BEM E DO MAL»; «não era uma guerra de ódio, era uma guerra em torno do cumprimento do Dharma».
+5. **Vyasa inventa a prosa** (com Parashara) e **divide o tempo** (passado/presente/futuro). A cena de Brahma é lida sem milagre: «Brama era um entrante na cabeça desse ser».
+6. **Equivalência «Marra Barat ≡ Mahabharata» ENCERRADA** (Mutirão Lote 2, soberania estatística, 26 arquivos); **sub-caso «Braba» encerrado no Lote 4** («Brahma ≡ Javé é doutrina do corpus»).
+7. **RC-644 = verbete mais exposto a quarentenas do lote:** tecnológica, científica, **política** e ufológica/clínica. **Quarentena política aplicada** ao bloco da P2023-04-29 (grande reinicialização / novas castas / «os dois») — marcado ⚠️ política e extirpado da apostila; **não foi trazido.**
+8. **O autor fixa o próprio limite:** «eu não tenho como responder essa pergunta, ninguém». **Chave antropológica:** «O QUE TIRA A GENTE DO CONTROLE DELES É A EMOÇÃO».
+9. **RC-647 separa consenso × leitura:** o apócrifo existe, Irineu o condenou; **a inocência de Judas e as tribos celtas na Galileia são leitura de Ellam** (quarentena teológica). «Judas é um ser decente, íntegro» · «a gente não sabe nada, só sabe quem viveu».
+10. **RC-607 obedeceu à regra «Não inventar nomes para os outros três membros»** — só Elm e Olm nomeados. **Ogdóade = 6 Adhy + 2 LM** (Hermópolis, correspondência do autor).
+11. **RC-603 abre II.5.3:** «Isso foi um pouco quebrado, ainda que não prejudicado»; a mônada é «produzida por todos os seres em processo de unificação».
+12. **Renomeação (1):** `V2.05.04-blindagens-interdimensionais.md` → `V2.05.04-RC602-blindagens-interdimensionais.md`. **Endereço novo: II.5.3.**
+13. **Falhas 2 → 0:** as duas eram **expressão nossa aspirada** (resumo em aspa do que a fonte diz com outras palavras). **Remédio: itálico.**
+14. **⚠️ PENDÊNCIA SINALIZADA:** `RC-449` (Criaturas-ferramenta) conta na fila por ter ficha, mas **é remissiva F045 de `RC-164`** (duplicata absorvida). Redigi-lo duplicaria conteúdo. **Decisão do Curador solicitada quando ele chegar à fila.**
+
+**Próximos (grau 5):** RC-578 Fim do Experimento Humano · RC-568 Eras Equinociais · RC-517 Protocolo Mental · RC-490 Caim · RC-483 Barbelo · RC-459 Parvathi — 21 no total.

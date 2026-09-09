@@ -92,6 +92,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **32** | 09/09/2026 | `V3/RC-002` Rebelião de Lúcifer · `V3/RC-074` Len Mion (Satã) · `V4/RC-164` Criaturas-ferramenta · `V4/RC-148` Agentes da Vida Universal · `V2/RC-154` Nidana · `V5/RC-163` Mente Universal (Emergente) | ✅ redigido — **FECHO DO 6º ANEL (GRAU 6)** |
 | **33** | 09/09/2026 | `V2/RC-763` As Sete Leis Herméticas · `V4/RC-759` Jainismo · `V3/RC-757` Vaishnavismo · `V2/RC-753` Estrangulamento Cognitivo · `V5/RC-752` Agenda Espiritual · `V3/RC-750` Moisés e o Êxodo | ✅ redigido — **ABERTURA DO 7º ANEL (GRAU 5)** |
 | **34** | 09/09/2026 | `V4/RC-748` Genótipo da Gentileza · `V3/RC-741` Projeto Orunmilá–Olodus · `V3/RC-740` Kami · `V5/RC-739` Susanoo · `V4/RC-729` Jabutis Genéticos · `V3/RC-659` Quirino Cornélio | ✅ redigido — 7º anel (grau 5) |
+| **35** | 09/09/2026 | `V5/RC-593` Mahabharata · `V4/RC-644` Xamanismo Virtual · `V5/RC-647` Evangelho de Judas · `V3/RC-607` Cinco Seres LM · `V2/RC-603` Círculo da Perfeição · `V2/RC-601` Departamentalização da Vida | ✅ redigido — 7º anel (grau 5) |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -968,6 +969,46 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 15. **Falhas 5 → 0.** Composição: **3 caixa inicial errada ao recortar a aspa no meio da frase** (`RC-740` «A dívida», `RC-741` «Na divinosfera», `RC-739` «A pacificação» — o recorte começava com minúscula onde a fonte tem maiúscula) · **1 aspas curvas da fonte digitadas como retas** (`RC-741`) · **1 expressão nossa aspirada** (`RC-748`). **Alem disso, um erro de processo novo e grave: nome de arquivo entre crases derruba o verificador** (item 16).
 16. **LIÇÃO DE PROCESSO — nome de arquivo entre crases quebra o verificador.** O `verificar_verbetes.py` trata **todo caminho `.md` entre crases como declaração de documento-fonte** e aborta com `AssertionError` se o caminho não existir. Escrevi a nota de renomeação com o nome do arquivo em crase e o verificador caiu. **Remédio: nome de arquivo em itálico ou em texto plano; a nota de renomeação segue o padrão da casa — «Renomeação no mesmo endereço. <endereço> passa a abrigar `RC-xxx` e `RC-yyy`», com códigos, nunca com caminhos.**
 
+### Lote 35 — 7º anel, grau 5 (6 verbetes, 5.316 palavras)
+
+**Despacho do Curador:** «em frente com os próximos seis do grau 5».
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Mahabharata | V.23.1 | `V5/V5.23.01-RC593-mahabharata.md` | **1.368** | **1.713 p.** |
+| Xamanismo Virtual / de Sílica | IV.20.1 | `V4/V4.20.01-RC644-xamanismo-virtual.md` | **1.219** | 1.503 p. |
+| Evangelho de Judas | V.23.1 | `V5/V5.23.01-RC647-evangelho-de-judas.md` | 980 | 685 p. |
+| Cinco Seres LM de Tempérion | III.13.1 | `V3/V3.13.01-RC607-cinco-seres-lm.md` | 698 | 511 p. |
+| Círculo / Circuito da Perfeição | **II.5.3** | `V2/V2.05.03-circulo-da-perfeicao.md` | 583 | 365 p. |
+| Departamentalização da Vida | II.5.4 | `V2/V2.05.04-RC601-departamentalizacao-da-vida.md` | **468** | **220 p.** |
+
+**Medida:** 468–1.368 palavras (média 886) · **140 verbatim byte a byte** · 41 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Avanço:** 233 verbetes · **417 nós redigíveis** · **21 com grau 5** (de 39 no início do anel; 18 redigidos em três lotes).
+
+**Achados do lote 35:**
+
+1. **Terceiro lote seguido inteiro de ⚪ candidatos** — seis de seis. **Todo o 7º anel assenta em material chancelado, não consolidado.**
+2. **`RC-601` (Departamentalização da Vida) tem a menor ficha já redigida — 220 palavras** (o recorde anterior era `RC-687`, com 233). **Ficha mínima, verbete mínimo (468): a regra do lastro aplicada no limite.**
+3. **`RC-593` (Mahabharata) tem a maior ficha do lote (1.713) e deu o maior verbete (1.368)** — um dos maiores do anel.
+4. **A tese central de `RC-593` é a do financiamento:** «PORQUE EU SOU O FINANCIADOR. Eu sou o ser supremo que estou financiando tudo isso. EU SOU O SER POR TRÁS DOS KURUS, POR TRÁS DOS PÂNDAVAS, POR TRÁS DO BEM E DO MAL.» E o desfecho: «não era uma guerra de ódio, era uma guerra em torno do cumprimento do Dharma.»
+5. **Vyasa, na leitura da obra, inventa a prosa** (com Parashara) — antes dele, «as pessoas falavam como poesia», com a métrica servindo de garantia de transmissão.
+6. **E Vyasa divide o tempo:** «pela primeira vez alguém tava dividindo a lógica humana em termos de passado, presente e futuro».
+7. **A cena de Brahma é lida sem milagre:** «Brama era um entrante na cabeça desse ser, e esse ser se deixava dominar porque o ego dele se achava um avatar de Brahma».
+8. **A equivalência «Marra Barat ≡ Mahabharata» está ENCERRADA** pelo Mutirão (Lote 2): «equivalência cravada por soberania estatística» em 26 arquivos. **O sub-caso «Braba» foi encerrado no Lote 4** — «a identidade Brahma ≡ Javé é doutrina do corpus».
+9. **`RC-644` (Xamanismo Virtual) é o verbete mais exposto a quarentenas do lote:** tecnológica, científica, **política** e ufológica/clínica.
+10. **Quarentena política aplicada em `RC-644`:** o bloco da P2023-04-29 sobre grande reinicialização, novas castas e os «dois» que decidiriam a especiação está marcado na ficha como extirpado e rotulado ⚠️ política. **O verbete não o trouxe.**
+11. **O próprio autor fixa o limite:** «a experiência do xamanismo à moda de inteligência artificial vai resultar na retenção? Não, não podemos... eu não tenho como responder essa pergunta, ninguém».
+12. **A chave antropológica de `RC-644`:** «O QUE TIRA A GENTE DO CONTROLE DELES É A EMOÇÃO».
+13. **`RC-647` (Evangelho de Judas) separa o consenso da leitura:** o apócrifo existe e Irineu de Lião o condenou; **a reconstrução das tribos celtas na Galileia e a inocência de Judas são leitura de Ellam** (quarentena teológica).
+14. **A conclusão do autor em `RC-647`:** «Judas é um ser decente, íntegro; ele não é isso aí» — com o limite: «a gente não sabe nada, só sabe quem viveu».
+15. **`RC-607` obedeceu à regra da ficha: «Não inventar nomes para os outros três membros.»** Só Elm e Olm são nomeados; os três seguem sem nome.
+16. **A Ogdóade, em `RC-607`:** «composta por seis Seres Adhy e dois Seres LM» — a correspondência com Hermópolis é do autor.
+17. **`RC-603` abre o endereço II.5.3** com a fórmula mais delicada do lote: «Isso foi um pouco quebrado, ainda que não prejudicado». **A mônada é produzida por todos os seres em processo de unificação** e retirada do círculo.
+18. **Renomeação (1):** `V2.05.04-blindagens-interdimensionais.md` → `V2.05.04-RC602-blindagens-interdimensionais.md`. **Endereço novo: II.5.3.**
+19. **Falhas 2 → 0.** As duas eram **expressão nossa aspirada**: resumi em aspa o que a fonte diz com outras palavras (`RC-644` «campos magnéticos que atraem consciências»; `RC-647` «dez tribos celtas»). **Remédio: itálico para o que é nosso.**
+20. **⚠️ Pendência sinalizada:** `RC-449` (Criaturas-ferramenta) consta na fila por ter ficha, mas **é remissiva F045 de `RC-164`** (duplicata absorvida). Redigir `RC-449` como verbete autônomo duplicaria o conteúdo. **Decisão do Curador solicitada quando ele chegar à fila.**
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -993,7 +1034,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **12 redigidos** nos lotes 33–34; **423 nós redigíveis**, dos quais **27 com grau 5**. Próximos seis: `RC-647` Evangelho de Judas · `RC-644` Xamanismo Virtual · `RC-607` Cinco Seres LM de Tempérion · `RC-603` Círculo da Perfeição · `RC-601` Departamentalização da Vida · `RC-593` Mahabharata.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **18 redigidos** nos lotes 33–35; **417 nós redigíveis**, dos quais **21 com grau 5**. Próximos seis: `RC-578` Fim do Experimento Humano · `RC-568` Eras Equinociais · `RC-517` Protocolo Mental · `RC-490` Caim · `RC-483` Barbelo · `RC-459` Parvathi. ⚠️ `RC-449` é remissiva F045 de `RC-164`: decidir com o Curador.
 
 ## 5. Como conferir
 
