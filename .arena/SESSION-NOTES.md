@@ -1312,3 +1312,25 @@ Acumulado: **379 verbetes** · 7.260 verbatim · 3.592 códigos · **0 falhas** 
 9. **Statuses:** seis fichas ⚪ candidato = cadastro = ÍNDICE — consistentes; nenhuma divergência a registrar.
 
 **Próximos (grau 2, 64 restantes):** por código decrescente — `RC-650`, `RC-648`, `RC-642`, `RC-640`, `RC-634`, `RC-616` (a confirmar no despacho do Lote 61).
+
+---
+
+## 09/09/2026 — Lote 61: 10º ANEL, GRAU 2 (6 verbetes, 3.964 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com >>> [`RC-650`, `RC-648`, `RC-642`, `RC-640`, `RC-634`, `RC-616`]` — os seis previstos confirmados.
+
+`RC-642` Narasimha (**III.10.3 — 8º da seção**, 806 p.; ficha 797) · `RC-616` Roseral do Alto (**II.7.4 — 2º da seção**, 769; 589) · `RC-648` Instabilidade da Eternidade (**II.8.1 — 24º da seção**, 720; 528) · `RC-650` Melquizedec (**III.14.1 — 10º da seção**, 570; 316) · `RC-634` Tempo como Transformação (**II.8.1 — 25º da seção**, 561; 373) · `RC-640` Transições de Fase / Face da Criação (**IV.19.3 — 5º da seção**, 538; 333).
+
+Acumulado: **385 verbetes** · 7.298 verbatim · 3.620 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **10º anel (grau 2): 18 de 76 · 58 restantes · 288 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `008649d` na abertura; árvore limpa).
+2. **Âncoras pré-testadas antes do verificador** (38 spans byte a byte; 1 corrigido na auto-revisão — RC-616 trecho em caixa alta transcrito em minúsculas, restaurado ao verbatim); lote limpo de primeira.
+3. **`RC-642` Narasimha (III.10.3):** avatar de Vishnu («parte de baixo humana, cabeça de leão» — P2022-05-07 U0003); Shiva o desafia para fazê-lo lembrar que é Vishnu («Shiva [...] foi desafiar Narasimha...» — P2024-05-04); **selo D-10 + anterioridade 25 meses** (P2022-03-26 U0048); P2024-03-02: Hiranyaksha/Hiranyakashipu (STT), morte pela unha ao entardecer, **Sharabha**; o espírito que seria Jesus «ficou sendo Narasimha» (RC-072); arestas RC-135 (é-um)/RC-102 (confronta)/RC-414.
+4. **`RC-616` Roseral do Alto (II.7.4):** P2021-12-04 U0660–U0673 (cidade espiritual acima das Astúrias, pro lado da Irlanda; construída no Tibete «antecipando um possível impasse»; STT *Roseraldo Alto*); P2023-04-29 = a PONTE do Paraíso B (caixa alta preservada; cidade dos deslocados; os dois metaversos); **quarentena teológica**; 0 códigos novos (O-3); arestas RC-617 (tema-de)/RC-612/RC-513.
+5. **`RC-648` Instabilidade da Eternidade (II.8.1):** P2025-10-25 (problema pré-existente ao Paraíso; **jainismo/Tirthankaras** como fonte — Tibete/Nepal) + P2026-04-02 («eternidade autoconcebida junto com a perfeição»; «Javé apartou-se, é desgarrado, é desalmado»; metaverso lixeira; anterior ao Tikun); arestas RC-476/RC-604; relacionados RC-620/RC-606.
+6. **`RC-650` Melquizedec (III.14.1):** síntese = rei-sacerdote híbrido ou não humano que funda Salém e legítima Javé diante de Abraão; P2025-10-25 pergunta 2 — Reinaldo (não-saber declarado; genealogia semita até Faleg; «Faleg disse para Éber que não iria honrar a figura de Javé»; não-contato direto; Reinaldo e os 30 anos); arestas RC-001/RC-424; RC-436 sem ficha.
+7. **`RC-634` Tempo como Transformação (II.8.1) e `RC-640` Transições de Fase (IV.19.3):** RC-634: «o O tempo é o modo como o psiquismo se movimenta» (duplicação STT preservada); «Tempo mesmo é sinônimo de transformação»; distinguir de ciclos e do Laço Temporal (RC-272 sem ficha). RC-640: **ambiguidade fase/face preservada**; selo D-10 + anterioridade 25 meses (biodemmo/demobiol); palestra futura anunciada; inclui RC-639/RC-641, relaciona RC-638.
+8. **Seções:** V3.14.01 9→10 · II.8.1 23→25 (+2) · V3.10.03 7→8 · V4.19.03 4→5 · V2.07.04 1→2. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+9. **Statuses:** seis fichas ⚪ candidato = cadastro = ÍNDICE — consistentes; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 58 restantes):** por código decrescente — `RC-599`, `RC-591`, `RC-576`, `RC-562`, `RC-551`, `RC-550` (a confirmar no despacho do Lote 62).

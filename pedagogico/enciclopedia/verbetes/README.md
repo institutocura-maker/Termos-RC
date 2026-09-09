@@ -1761,6 +1761,36 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 64 restantes):** por ordem decrescente — `RC-650`, `RC-648`, `RC-642`, `RC-640`, `RC-634`, `RC-616` (a confirmar no despacho do Lote 61).
 
+### Lote 61 — 10º anel, grau 2 (6 verbetes, 3.964 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com >>> [`RC-650`, `RC-648`, `RC-642`, `RC-640`, `RC-634`, `RC-616`]` — os seis previstos confirmados. *(Ambiente estável — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Narasimha (avatar de Vishnu) | III.10.3 | `V3/V3.10.03-RC642-narasimha-avatar-de-vishnu.md` | **806** | 797 p. |
+| Roseral do Alto | II.7.4 | `V2/V2.07.04-RC616-roseral-do-alto.md` | 769 | 589 p. |
+| Instabilidade da Eternidade | II.8.1 | `V2/V2.08.01-RC648-instabilidade-da-eternidade.md` | 720 | 528 p. |
+| Melquizedec | III.14.1 | `V3/V3.14.01-RC650-melquizedec.md` | 570 | 316 p. |
+| Tempo como Transformação / Permanente Agora | II.8.1 | `V2/V2.08.01-RC634-tempo-como-transformacao-permanente-agora.md` | 561 | 373 p. |
+| Transições de Fase / Face da Criação | IV.19.3 | `V4/V4.19.03-RC640-transicoes-de-fase-face-da-criacao.md` | **538** | 333 p. |
+
+**Medida:** 538–806 palavras (média 661) · **38 verbatim byte a byte** · 27 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 18 de 76.** Estado: 385 verbetes · **288 nós redigíveis** · **58 com grau 2 restantes**.
+
+**Achados do lote 61:**
+
+1. **`RC-642` (Narasimha, III.10.3 — 8º da seção):** avatar de Vishnu com «parte de baixo humana, cabeça de leão» (P2022-05-07, U0003); condição ligada ao agravamento do descompasso e ao confronto de Shiva para fazê-lo recordar a identidade («Shiva [...] foi desafiar Narasimha para ver se durante a luta se lembrava que era Vishnu» — P2024-05-04); **selo D-10** e **anterioridade de 25 meses** (P2022-03-26 U0048); P2024-03-02 (Hiranyaksha/Hiranyakashipu morto pela unha sobre o joelho; **Sharabha**, avatar de Shiva mais forte, criado para acordá-lo); o espírito que seria Jesus «ficou sendo Narasimha» — agravamento búdico/manásico (`RC-072`); **STT preservado** (*Irani Akashipu*, *xaraba*, *Virno*); arestas: é-um `RC-135`, confronta `RC-102`, relaciona `RC-414`.
+2. **`RC-616` (Roseral do Alto, II.7.4 — 2º da seção):** a cidade espiritual «em cima dessas montanhas, mais voltada pro lado da Irlanda» (P2021-12-04, U0660–U0673); construída por poucas figuras no Tibete, «antecipando um possível impasse»; STT *Roseraldo Alto*; P2023-04-29: a **PONTE do Paraíso B** — «A PONTE... TEM UMA PONTE CHAMADA ROSERAL DO ALTO. TÁ LÁ EM CIMA DAS ASTÚRIAS, NOS CÉUS DA ESPANHA»; cidade dos deslocados («NEM NO PARAÍSO, NEM NO INFERNO, NEM NO PURGATÓRIO»); os dois metaversos (padrão de DNA da podridão × DNA mais belo); **quarentena teológica**; 0 códigos novos (O-3); arestas com `RC-617` (tema-de), `RC-612`, `RC-513`.
+3. **`RC-648` (Instabilidade da Eternidade, II.8.1 — 24º da seção):** a fragilização do equilíbrio da eternidade quando eus fatiados adoecem e não retornam à consciência-âncora; P2025-10-25 (pergunta 1: o problema pré-existente ao Paraíso; o **jainismo/Tirthankaras** como fonte, «guardado no Tibete, no Nepal») + P2026-04-02 (pergunta 2: «a eternidade foi autoconcebida junto com a perfeição»; «Javé apartou-se, é desgarrado, é desalmado»; queda dentro de queda para o *metaverso lixeira*; anterior ao Tikun); arestas com `RC-476` e `RC-604`; relacionados `RC-620`/`RC-606`.
+4. **`RC-650` (Melquizedec, III.14.1 — 10º da seção):** rei-sacerdote híbrido ou não humano que funda Salém e legítima Javé diante de Abraão (síntese da ficha); P2025-10-25 (pergunta 2 — Reinaldo): «quase ninguém sabe muita coisa e eu estou nessa lista dos que não sabem»; a semente dos povos semitas (Adão... Faleg); «Faleg disse para Éber que não iria honrar a figura de Javé»; «eu não tive contato direto com Melquizedec»; a possível contemporaneidade de Reinaldo (30 anos); arestas com `RC-001` e `RC-424`; relacionados `RC-437` (ficha) e `RC-436` (sem ficha — só código).
+5. **`RC-634` (Tempo como Transformação, II.8.1 — 25º da seção) e `RC-640` (Transições de Fase / Face da Criação, IV.19.3 — 5º da seção):** RC-634 — «o O tempo é o modo como o psiquismo se movimenta» (P2021-02-28 U0015, duplicação do STT preservada); «Tempo mesmo é sinônimo de transformação» (P2024-05-04); distinguir de ciclos astronômicos e do Laço Temporal (`RC-272` sem ficha); relacionados `RC-160`/`RC-567`/`RC-513`. RC-640 — **ambiguidade fase/face preservada** (regra); «Essa foi a primeira transição de fase ou face da criação» (P2024-05-04); **selo D-10** e **anterioridade de 25 meses** (P2022-03-26 U0009, *biodemmo*); palestra futura específica anunciada; inclui `RC-639` e `RC-641`, relaciona `RC-638`.
+6. **Seções tocadas:** V3.14.01 9→10 · II.8.1 23→25 (+2) · V3.10.03 7→8 · V4.19.03 4→5 · V2.07.04 1→2. Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (lote limpo de primeira — 38 spans pré-testados byte a byte; 1 corrigido na auto-revisão antes do verificador: RC-616 trecho em caixa alta da ficha transcrito em minúsculas — restaurado ao verbatim).
+8. **Statuses:** seis fichas ⚪ candidato = cadastro = ÍNDICE — todos consistentes; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 58 restantes):** por ordem decrescente — `RC-599`, `RC-591`, `RC-576`, `RC-562`, `RC-551`, `RC-550` (a confirmar no despacho do Lote 62).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1797,7 +1827,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 12 de 76** (lotes 59–60: `RC-842/774/773/772/747/743` e `RC-675/673/663/662/661/651`, por código decrescente). Estado: 379 verbetes · **294 nós redigíveis** · **64 com grau 2 restantes**.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): FECHADO no lote 58 — 66 de 66** (lotes 48–58, 54.440 palavras). **10º anel (grau 2): ABERTO no lote 59 — 18 de 76** (lotes 59–61: `RC-842/774/773/772/747/743`, `RC-675/673/663/662/661/651`, `RC-650/648/642/640/634/616`, por código decrescente). Estado: 385 verbetes · **288 nós redigíveis** · **58 com grau 2 restantes**.
 
 ## 5. Como conferir
 
