@@ -1052,3 +1052,25 @@ Acumulado: **307 verbetes** · 6.686 verbatim · 3.048 códigos · **0 falhas** 
 8. **Falhas 0 → 0 (lote limpo de primeira):** pré-teste byte a byte + ponto fora do « » na redação.
 
 **Próximos (grau 3, 60 restantes):** RC-686 Plantas de Moléculas Complexas · RC-660 Pegadinha de Javé · RC-656 Atualização das Revelações Anteriores · RC-653 Destino das Mônadas após o Tikun · RC-652 Últimas Ordens de Javé aos Clones · RC-649 Singularidade de Quatro Cabeças.
+
+---
+
+## 09/09/2026 — Lote 49: 9º ANEL, GRAU 3 (6 verbetes, 5.304 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 49» (`RC-649`, `RC-652`, `RC-660`, `RC-656`, `RC-653`, `RC-686`).
+
+`RC-649` Singularidade de Quatro Cabeças (**III.13.4 — 3º da seção**, 1.041 p.) · `RC-652` Últimas Ordens de Javé aos Clones (**III.16.5 — 8º da seção**, 899) · `RC-656` Atualização das Revelações Anteriores (**IV.20.1 — 15º da seção**, 896) · `RC-660` Pegadinha de Javé (III.16.5, 818) · `RC-653` Destino das Mônadas após o Tikun (**V.22.2 — 2º da seção**, 727) · `RC-686` Plantas de Moléculas Complexas (**IV.18.3 — 13º da seção**, **646** — ficha mínima de 163 p.).
+
+Acumulado: **313 verbetes** · 6.741 verbatim · 3.086 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 12 de 66 · 54 grau-3 restantes · 366 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `c42a147` na abertura).
+2. **`RC-649` e `RC-652` saem da MESMA pergunta 3 da P2025-10-25** (2ª Ed. Estagiários do Kaos — Ana/Zontrel): mecanismo do corpo de 4 cabeças vem da P2023-09-09 (Vishnu convence Shiva e Brahma; cabeça livre pensa por si; «nós três matamos ele ali mesmo»); Phanes/Protogonos (STT Fanis/Fames); eco P2023-12-03 (U0004) com selo D-9/D-10 sem ganho de anterioridade.
+3. **`RC-652` = limite ético declarado** (código de ética impede ir além do conteúdo das ordens); mudança de endereço da busca dos clones (judeus/arianos → alunos da RC); ressignificação P2024-06-16 (U0006) em transcrição automatizada — grafias preservadas (Brama; dupla «o novo projeto que o novo projeto»).
+4. **`RC-660` = mecânica profética como pegadinha** (nenhuma vírgula pode mudar; genoma de Sophia inseminado em Maria; Jesus não existia antes — «quem existia era Sophia»); ardil temido (acusação final a Shiva/Vishnu; Sophia fora do manto da suzerania); Drosnin/Satinover = referências externas não ontológicas.
+5. **`RC-656` = conceito de método**: RC «revendo todos esses itens sem afirmar nada»; «revelação chata» que não aplaude; percurso Enoque→Kardec (paráfrase da ficha); aresta dupla atualiza RC-094 (P2025-10-25 + P2024-07-14).
+6. **`RC-653` = questão em aberto deliberada**: mônadas absorvidas pela deidade × paraíso incriado; ninguém na Terra com estatura moral; gerações futuras discernirão; irmão do Tikun Cósmico RC-514 em V.22.2.
+7. **`RC-686` = estado mínimo** (ficha 163 p., mesma curadoria P2025-05-31 do RC-688): reforços P2025-02-15/P2024-11-30 com ressalva botânica e científica; RC-687 usa RC-686 (P2025-05-31).
+8. **Endereços tocados (5):** III.13.4 2→3 · III.16.5 6→8 · IV.18.3 12→13 · IV.20.1 14→15 · V.22.2 1→2. Nenhum novo; nenhuma renomeação.
+9. **Falhas 0 → 0 (segundo lote limpo de primeira).** Correções de processo: RC-017 = Alt´Lam (NÃO é o Projeto TALM — remissiva removida); RC-268 = Gnosticismo (contraponto à Cabala) e RC-750 = Moisés e o Êxodo (leitura RC) com nome completo no registro.
+
+**Próximos (grau 3, 54 restantes):** RC-641 Face Microbiana do Criador · RC-639 Protozoários Antimateriais / Antiprotozoários · RC-629 Reunião Operativa Mental dos 43 Pashvnaj · RC-621 Nyx · RC-617 Inquisição Espiritual (obra anunciada) · RC-606 Protocolos / Algoritmos da Perfeição.

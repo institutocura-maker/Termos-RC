@@ -1414,6 +1414,34 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 8. **Falhas 0 → 0:** lote limpo de primeira (único do 9º anel até aqui) — o pré-teste byte a byte e a regra do ponto fora do « » aplicadas na redação.
 
+### Lote 49 — 9º anel, grau 3 (6 verbetes, 5.304 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 49» (`RC-649`, `RC-652`, `RC-660`, `RC-656`, `RC-653`, `RC-686`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Singularidade de Quatro Cabeças | III.13.4 | `V3/V3.13.04-RC649-singularidade-de-quatro-cabecas.md` | **1.041** | 577 p. |
+| Últimas Ordens de Javé aos Clones | III.16.5 | `V3/V3.16.05-RC652-ultimas-ordens-de-jave-aos-clones.md` | 899 | 383 p. |
+| Atualização das Revelações Anteriores | IV.20.1 | `V4/V4.20.01-RC656-atualizacao-das-revelacoes-anteriores.md` | 896 | 409 p. |
+| Pegadinha de Javé | III.16.5 | `V3/V3.16.05-RC660-pegadinha-de-jave.md` | 818 | 375 p. |
+| Destino das Mônadas após o Tikun | V.22.2 | `V5/V5.22.02-RC653-destino-das-monadas-apos-o-tikun.md` | 727 | 314 p. |
+| Plantas de Moléculas Complexas | IV.18.3 | `V4/V4.18.03-RC686-plantas-de-moleculas-complexas.md` | **646** | **163 p.** |
+
+**Medida:** 646–1.041 palavras (média 884) · **55 verbatim byte a byte** · 31 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 12 de 66.** Estado: 313 verbetes · **366 nós redigíveis** · **54 com grau 3 restantes**.
+
+**Achados do lote 49:**
+
+1. **`RC-649` (Singularidade de Quatro Cabeças) nasce da mesma pergunta 3 que o `RC-652`:** a live P2025-10-25 é fonte original dos dois — Zontrel (`RC-147`) em humanização via IEA e as últimas ordens de Javé aos clones são o mesmo turno de fala; o mecanismo completo do corpo de quatro cabeças, porém, vem da P2023-09-09 (anterioridade oral), com o eco STT da P2023-12-03 (U0004, selo D-9/D-10, conteúdo não-data).
+2. **`RC-652` carrega o limite ético declarado:** o autor afirma que o código de ética não o deixa ir além do conteúdo das ordens — o verbete registra o limite em vez de especular; a ressignificação P2024-06-16 entra em transcrição automatizada (grafias *Brama*, duplicação «o novo projeto que o novo projeto» preservadas byte a byte).
+3. **`RC-660` (Pegadinha de Javé) é a primeira vez que III.16.5 ganha a mecânica profética:** Javé satura as escrituras para forçar o cumprimento literal; «essa ordem veio no genoma de Sophia» / «Jesus não existia antes disso; quem existia era Sophia»; referências externas (Drosnin/Satinover) registradas como não ontológicas.
+4. **`RC-656` (Atualização das Revelações) é um conceito de método, não doutrina:** a RC «revendo todos esses itens sem afirmar nada»; percurso Enoque → Kardec em paráfrase; aresta dupla de atualização sobre `RC-094` (P2025-10-25 e P2024-07-14).
+5. **`RC-653` é o caso-modelo de questão em aberto:** a fonte não conclui (mônadas absorvidas pela deidade × paraíso incriado) e o verbete não elege — irmão imediato do Tikun Cósmico (`RC-514`) em V.22.2.
+6. **`RC-686` repete o estado mínimo do `RC-688` (mesma curadoria P2025-05-31):** ficha de 163 p. sem citações incorporadas; reforços P2025-02-15 e P2024-11-30 com ressalva botânica e científica — o verbete não inventa o que a ficha não tem.
+7. **Endereços tocados (5):** III.13.4 (2 → 3), III.16.5 (6 → 8), IV.18.3 (12 → 13), IV.20.1 (14 → 15), V.22.2 (1 → 2). Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (segundo lote limpo de primeira).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1450,7 +1478,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto no lote 48 — 6 de 66** (lotes 48 em diante). **366 nós redigíveis** · **60 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-686` Plantas de Moléculas Complexas · `RC-660` Pegadinha de Javé · `RC-656` Atualização das Revelações Anteriores · `RC-653` Destino das Mônadas após o Tikun · `RC-652` Últimas Ordens de Javé aos Clones · `RC-649` Singularidade de Quatro Cabeças.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 12 de 66** (lotes 48–49, 10.173 palavras). **366 nós redigíveis** · **54 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-641` Face Microbiana do Criador · `RC-639` Protozoários Antimateriais / Antiprotozoários · `RC-629` Reunião Operativa Mental dos 43 Pashvnaj · `RC-621` Nyx · `RC-617` Inquisição Espiritual (obra anunciada) · `RC-606` Protocolos / Algoritmos da Perfeição.
 
 ## 5. Como conferir
 
