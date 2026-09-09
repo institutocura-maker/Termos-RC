@@ -1225,3 +1225,23 @@ Acumulado: **355 verbetes** · 7.068 verbatim · 3.415 códigos · **0 falhas** 
 9. **Statuses:** seis fichas 🟡 provisório = cadastro = ÍNDICE — todos consistentes; nenhuma divergência a registrar.
 
 **Próximos (grau 3, 12 restantes):** RC-308 Adhytia · RC-298 Descendência de Pirra (Pirra e Deucalião) · RC-280 Sophia e a Ressurreição de Jesus · RC-274 Cápsula do Tempo de Sophia (João) · RC-273 A Falsa Trindade (Concílio de Niceia) · RC-242 Éden do Criador.
+
+---
+
+## 09/09/2026 — Lote 57: 9º ANEL, GRAU 3 (6 verbetes, 6.053 palavras)
+
+**Despacho do Curador:** «Ok, sinal verde para ir em frente com o Lote 57» (`RC-308`, `RC-298`, `RC-280`, `RC-274`, `RC-273`, `RC-242`).
+
+`RC-274` Cápsula do Tempo de Sophia (João) (**III.11.2 — 6º da seção**, 1.151 p.; ficha 1.104) · `RC-298` Descendência de Pirra (**III.15.2 — 5º da seção**, 1.149; 1.253) · `RC-273` A Falsa Trindade (**V.27.1 — 3º da seção**, 1.144; 1.436) · `RC-280` Sophia e a Ressurreição (**III.11.3 — 4º da seção**, 930; 777) · `RC-242` Éden do Criador (**IV.17.4 — 3º da seção**, 878; 648) · `RC-308` Adhytia (**III.13.5 — 12º da seção**, 801; 586).
+
+Acumulado: **361 verbetes** · 7.127 verbatim · 3.470 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 60 de 66 · 6 grau-3 restantes · 312 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `d578ffa` na abertura; árvore limpa).
+2. **Âncoras pré-testadas antes do verificador** (59 spans testados byte a byte; 2 corrigidos na auto-revisão — RC-298 span cortado por ** interno na ficha; RC-242 'criado'→'criou'); nono lote limpo de primeira, 0 falhas diretas.
+3. **`RC-274`/`RC-280` — o par Sophia/Ressurreição (materializações de 29/08/2026):** RC-274 (B014 cap. 13) = promessas joaninas/Apocalipse como cápsula; cérebro biodemo «somente se dá por vivência»; Apocalipse «encomendado» por ordem exclusiva de Sofia (P2024-03-02); escorpião-avião (P2026-03-21); **quarentena teológica** (espírito de João/Chico/Francisco — sem fusão B014×B042; RC-214/215 sem ficha), **político-geopolítica ABSOLUTA** (O-4/O-7: 2001 fora da ontologia), **cronológica** (5 bi). RC-280 = ressurreição como ato explicado; **trava D-6** (posse revogada; nenhuma relação de fundamento com RC-005); 'ressuscitar' termo inadequado (P2025-05-10, Rockman); versão político-jurídica + Madalena (P2023-12-25-03); lacunas declaradas RC-274/RC-094/RC-770.
+4. **`RC-273` — Niceia 325 obscureceu Sophia (B014 cap. 17):** Trindade «mera criação teológica dos bispos de Niceia»; «Espírito Santo [...] simplesmente não existe» (fé, não ontologia); **quarentena histórico-religiosa/teológica** (narrativa de Ellam, não fato histórico validado); STT preservada (Missé/Eniceia/Nicéia/Agostinho Dipona); aresta RC-072↔RC-273 (ciclo P2024-09-28); RC-672 padrão Niceia; contraponto da Falsa Trimurti (RC-104).
+5. **`RC-308`/`RC-298`/`RC-242`:** Adhytia (B022 cap. 9 — nove seres 'singulares'; linhagem descendente da Trimurti; **Adhytia ≠ Adhy** RC-011; Adityas hindus por verificar; RC-309 não materializada). Descendência de Pirra (B021 cap. 22 + B087/88/89 + P2023-08-05/05-21; Heleno absorvido sem termo; 18 filhos; 4 povos gregos; guerra de Troia = apagar do DNA da não-submissão; leituras sem ontologizar). Éden do Criador (B015 cap. 10 — Éden laboratório «pelas circunstâncias dos fatos»; B052 vozes de personagens + Teologia Comparada Atum=Brahma=Caos; RC-435 sem ficha; IEEA/Orbum fora).
+6. **Seções (+1 cada):** III.13.5 11→12 · III.15.2 4→5 · III.11.3 3→4 · III.11.2 5→6 · V.27.1 2→3 · IV.17.4 2→3. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+7. **Statuses:** seis fichas 🟡 provisório = cadastro = ÍNDICE — todos consistentes; nenhuma divergência a registrar.
+
+**Próximos (grau 3, 6 restantes):** a confirmar com o censo no despacho do Lote 58.
