@@ -1524,6 +1524,33 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 7. **Seis seções tocadas (+1 cada):** III.10.1 (1 → 2), IV.19.3 (2 → 3), V.22.2 (2 → 3), II.6.1 (4 → 5), V.22.1 (19 → 20), II.8.1 (21 → 22). Nenhum endereço novo, nenhuma renomeação.
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (quinto lote limpo de primeira).
 
+### Lote 53 — 9º anel, grau 3 (6 verbetes, 4.445 palavras)
+
+**Despacho do Curador:** «Beleza! Em frente com o lote 53» (`RC-538`, `RC-536`, `RC-535`, `RC-533`, `RC-526`, `RC-525`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Semente da racionalidade (diferencial humano) | II.6.1 | `V2/V2.06.01-RC525-semente-da-racionalidade-diferencial-humano.md` | **815** | 523 p. |
+| Projeto Orbum (cidadania planetária) | IV.20.1 | `V4/V4.20.01-RC535-projeto-orbum-cidadania-planetaria.md` | 790 | 675 p. |
+| Supercomputador Cósmico (Moros — destino) | III.13.5 | `V3/V3.13.05-RC533-supercomputador-cosmico-moros-destino.md` | 733 | 482 p. |
+| Demência do Criador (fases da condição de Javé) | II.6.2 | `V2/V2.06.02-RC526-demencia-do-criador-fases-da-condicao-de-jave.md` | 728 | 489 p. |
+| Era do Conhecimento e da Espiritualização | III.16.2 | `V3/V3.16.02-RC536-era-do-conhecimento-e-da-espiritualizacao.md` | 718 | 576 p. |
+| Consórcio de Mundos (Arquitetos Universais) | III.13.1 | `V3/V3.13.01-RC538-consorcio-de-mundos-arquitetos-universais.md` | **661** | 499 p. |
+
+**Medida:** 661–815 palavras (média 741) · **32 verbatim byte a byte** · 43 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 36 de 66.** Estado: 337 verbetes · **336 nós redigíveis** · **30 com grau 3 restantes**.
+
+**Achados do lote 53:**
+
+1. **`RC-538` (Consórcio de Mundos) é o pano de fundo do B019:** o coletivo dos "Arquitetos Universais" comprometidos com a obtenção da Criatura Universal (RC-042); sinopse (p. 5) + corpo (p. 121, «estão referidos ambientes espirituais...»); quarentena explícita (o autor admite que "nada disso existe cientificamente comprovado"); "conspiração amorosa" (p. 11) **não vira código**.
+2. **`RC-536` (Era do Conhecimento, B042 Esclarecimento):** denominação da Etapa II (~1999–2002); chancela F040-L4 AVERBADA (origem dos textos × colofon do volume — grandezas diferentes; BIBLIO intocado); **quarentena político-geopolítica** das frases sobre fundamentalismos (não ontologizadas); atualização P2022-12-17 (crença → conhecimento).
+3. **`RC-535` (Projeto Orbum) carrega a dupla semântica de Orbum anotada sem fusão:** o movimento de cidadania planetária (Manifesto B042 pp. 226–228) × o planeta de Capela onde Sophia se estabeleceu (Devolutiva O-5, P2024-11-03 — repositório do axismundi); eco P2025-02-22 (linguagem de Capela na Transfiguração; gestão de Sophia em Orbum); nota F033 (Manifesto apêndice, p. 166–174 do dossiê B011).
+4. **`RC-533` e `RC-526` são materializações do cadastro** (despacho 29/08/2026 — ordens nomeadas sem arquivo; 0 termos novos, 0 relações novas): Supercomputador Cósmico = a 'planilha' de Moros em computador quântico (P2024-06-16, U0003; distinto do ente RC-454; lacunas de aresta RC-467/707/714/715/716 declaradas, não preenchidas); Demência do Criador = a natureza doentia de Javé ("não é porque ele seja atrasado", P2012-02-19 U0005; "desalmado, sem capacidade de imaginação ou criatividade", P2025-06-14 U0022; lacunas RC-001/449 declaradas).
+5. **`RC-525` (Semente da racionalidade):** a única descontinuidade em 13,8 bilhões de anos (P2024-08-03 U0946–U1015 — «presos no manicômio chamado Terra», leitura do autor); falência do código travado; P2023-12-03 U0004 atribui a autoria anunnaki da semente (inteligência **e** obediência) — entrada datada sem harmonização.
+6. **Seis seções tocadas (+1 cada):** III.13.1 (4 → 5), III.16.2 (6 → 7), IV.20.1 (15 → 16), III.13.5 (9 → 10), II.6.1 (5 → 6). **II.6.2 recebe seu 1º verbete** (abertura da pasta V2.06.02; a seção já existia no índice). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (sexto lote limpo de primeira).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1560,7 +1587,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 30 de 66** (lotes 48–52, 24.421 palavras). **342 nós redigíveis** · **36 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-538` Consórcio de Mundos (Arquitetos Universais) · `RC-536` Era do Conhecimento e da Espiritualização · `RC-535` Projeto Orbum (cidadania planetária) · `RC-533` Supercomputador Cósmico (Moros — destino) · `RC-526` Demência do Criador (fases da condição de Javé) · `RC-525` Semente da racionalidade (diferencial humano).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 36 de 66** (lotes 48–53, 28.866 palavras). **336 nós redigíveis** · **30 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-516` Hibridização genética (Nefilim reinterpretado) · `RC-503` Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) · `RC-495` Arabot-Ráquia (ambiente de Javé; = Araboth) · `RC-485` Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) · `RC-448` Deslacre (rompimento dos lacres psíquicos) · `RC-443` Família Mion.
 
 ## 5. Como conferir
 

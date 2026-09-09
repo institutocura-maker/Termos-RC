@@ -1138,3 +1138,24 @@ Acumulado: **331 verbetes** · 6.885 verbatim · 3.210 códigos · **0 falhas** 
 9. **Falhas 0 → 0 (5º lote limpo de primeira).**
 
 **Próximos (grau 3, 36 restantes):** RC-538 Consórcio de Mundos (Arquitetos Universais) · RC-536 Era do Conhecimento e da Espiritualização · RC-535 Projeto Orbum (cidadania planetária) · RC-533 Supercomputador Cósmico (Moros — destino) · RC-526 Demência do Criador (fases da condição de Javé) · RC-525 Semente da racionalidade (diferencial humano).
+
+---
+
+## 09/09/2026 — Lote 53: 9º ANEL, GRAU 3 (6 verbetes, 4.445 palavras)
+
+**Despacho do Curador:** «Beleza! Em frente com o lote 53» (`RC-538`, `RC-536`, `RC-535`, `RC-533`, `RC-526`, `RC-525`).
+
+`RC-525` Semente da racionalidade (**II.6.1 — 6º da seção**, 815 p.) · `RC-535` Projeto Orbum (**IV.20.1 — 16º da seção**, 790) · `RC-533` Supercomputador Cósmico (**III.13.5 — 10º da seção**, 733) · `RC-526` Demência do Criador (**II.6.2 — 1º da seção**, **abre a pasta V2.06.02**, 728) · `RC-536` Era do Conhecimento (**III.16.2 — 7º da seção**, 718) · `RC-538` Consórcio de Mundos (**III.13.1 — 5º da seção**, 661).
+
+Acumulado: **337 verbetes** · 6.917 verbatim · 3.256 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 36 de 66 · 30 grau-3 restantes · 336 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `681bd74` na abertura; sem incidente de sandbox).
+2. **`RC-538` (III.13.1):** coletivo dos Arquitetos Universais (B019); sinopse p.5 («um 'Consórcio de Mundos'...» com aspas internas simples) + corpo p.121 («estão referidos ambientes espirituais, Arquitetos Universais...»); quarentena «nada disso existe cientificamente comprovado»; «conspiração amorosa» (p.11) NÃO vira código; RC-539 é-um RC-538; cruzamento pendente RC-172/RC-347.
+3. **`RC-536` (III.16.2):** B042 «Esclarecimento» (Etapa II ~1999–2002); «Estamos nos primeiros tempos de uma nova era a qual... denomino como sendo a do conhecimento e da espiritualização»; fundamentalismos/intolerância = quarentena político-geopolítica (não ontologizadas); F040-L4 AVERBADA (origem textos ~1999–2002 × colofon volume Atlan 04/08/2011 = grandezas diferentes; BIBLIO intocado); P2022-12-17 U0915–U0955 (crença→conhecimento); RC-591 relaciona-se.
+4. **`RC-535` (IV.20.1):** Projeto Orbum = movimento de cidadania planetária (Manifesto B042 pp.226–228; site www.orbum.org); «Exerça plenamente a sua nacionalidade... somos todos cidadãos planetários»; NÃO confundir com planeta Orbum RC-085; dupla semântica O-5 (P2024-11-03): Sophia/Rockma em ORBUM = outro planeta de Capela — anotada sem fusão; projeto = repositório do axismundi (AXISM[UNDI] STT); eco P2025-02-22 (linguagem de Capela; ÓRBÃO/ORBON); F033 (Manifesto apêndice p.166–174 dossiê B011; tradição averbada no ledger sem aspa).
+5. **`RC-533`/`RC-526` — materializações do cadastro (despacho 29/08/2026; 0 termos/0 relações novos):** RC-533 (ciclos/P2024-06-16): «Moros criou uma planilha... em um computador quântico para ser medido o peso da podridão ancestral» (U0003; grafa 'defini' STT); distinto do ente RC-454; lacunas de aresta RC-467/707/714/715/716 DECLARADAS (decisão curatorial). RC-526 (ciclos/P2012-02-19): «Não é porque ele seja atrasado, é porque a sua natureza é doentia» (U0005); «desalmado, sem capacidade de imaginação ou criatividade» (P2025-06-14 U0022, aspas internas preservadas); lacunas RC-001/449 declaradas; RC-641 tema-de (P2024-05-04); RC-721 relaciona (P2024-11-09); B072 vínculo.
+6. **`RC-525` (II.6.1):** descontinuidade humana em 13,8 bi anos (P2024-08-03 U0946–U1015); «manicômio chamado Terra» = leitura do autor; falência do código travado; P2023-12-03 U0004: autoria anunnaki da semente (inteligência E obediência; Enoque; Messias) — entrada datada SEM harmonizar com obras; RC-400/RC-743/RC-727/RC-529/RC-099 na malha; devolutiva curador 2026-08-20.
+7. **Seis seções (+1 cada):** III.13.1 4→5 · III.16.2 6→7 · IV.20.1 15→16 · III.13.5 9→10 · II.6.1 5→6 · **II.6.2 0→1 (pasta V2.06.02 aberta; seção já existia no índice)**. Nenhum endereço novo; nenhuma renomeação.
+8. **Falhas 0 → 0 (6º lote limpo de primeira).**
+
+**Próximos (grau 3, 30 restantes):** RC-516 Hibridização genética (Nefilim reinterpretado) · RC-503 Mavátma / Mavatna / Mavat · RC-495 Arabot-Ráquia (= Araboth) · RC-485 Classes de anjos de Arabot-Ráquia · RC-448 Deslacre · RC-443 Família Mion (1.540 p.).
