@@ -1469,6 +1469,33 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Seis endereços distintos (+1 cada):** II.5.3 (1 → 2), II.6.1 (3 → 4), III.9.1 (11 → 12), III.16.5 (8 → 9), IV.18.3 (13 → 14), V.23.1 (9 → 10). Nenhum endereço novo, nenhuma renomeação.
 7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (terceiro lote limpo de primeira).
 
+### Lote 51 — 9º anel, grau 3 (6 verbetes, 4.539 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 51» (`RC-598`, `RC-597`, `RC-595`, `RC-590`, `RC-589`, `RC-588`). *(Novo incidente de restauração do sandbox no início do turno — `.git` devolvido ao commit-base; HEAD realinhado ao remoto `de0756f` por `git fetch` + `git reset --hard FETCH_HEAD` sem perda.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Nibiru | II.7.3 | `V2/V2.07.03-RC589-nibiru.md` | **1.241** | **1.535 p.** |
+| Avesta | V.23.1 | `V5/V5.23.01-RC595-avesta.md` | 920 | 600 p. |
+| Ninurta | III.13.2 | `V3/V3.13.02-RC588-ninurta.md` | 744 | 456 p. |
+| Yima | III.14.4 | `V3/V3.14.04-RC590-yima.md` | 658 | 347 p. |
+| Danérion | II.7.2 | `V2/V2.07.02-RC598-danerion.md` | **496** | 225 p. |
+| Antérion | II.7.2 | `V2/V2.07.02-RC597-anterion.md` | **480** | 233 p. |
+
+**Medida:** 480–1.241 palavras (média 757) · **51 verbatim byte a byte** · 22 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 24 de 66.** Estado: 325 verbetes · **354 nós redigíveis** · **42 com grau 3 restantes**.
+
+**Achados do lote 51:**
+
+1. **`RC-598`/`RC-597` (Danérion e Antérion) completam os Archeons em II.7.2:** os dois irmãos mais antigos da sequência Antérion–Danérion–Mermérion (anterior a Perpérion/Tempérion) — «os seres de Antérion foram os primeiros a ousar» e «os de Danérion trabalharam as artes criativas da turma de Antérion» (P2021-12-04); grafias em *-ion* fixadas pelo Quadro 9 do curador (STT: Danerium/Danério/Danéon/Danon; Anterium/Antério/Antteré/ané).
+2. **`RC-595` (Avesta) é a maior densidade de quarentenas do lote:** Steiner = referência externa (antroposofia, não ontologia); Saoshyant = Hochmah/Sofia (leitura); triangulação das tríades (Ahura Mazda vem de Vishnu — trecho em negrito na ficha, citado até o limite do negrito); **quarentena biomediúnica** do episódio "Zoroastro procurou Rogério" (registro apenas, «MAS NUNCA FIZ NADA E NÃO VOU FAZER MESMO»).
+3. **`RC-589` (Nibiru, 1.535 p.) concentra as quarentenas mais explícitas da Base:** ufológica crítica (O-7 — B089: o planeta em crise e o escudo de ouro, cruzar com a linha RC jamais fundir); científica (luas 81/72 como cifra viva; F039-L3/F041-L5: fonte ausente da Arca/ratificado); data da última passagem não fixada (fala autocontraditória); **divergência de 2012 selada** (lacramento dos portais × recuo de consciência — nenhuma substitui a outra); órbita de 3.600 anos; pouso ~450.000/445.000 anos; especiação dos que ficaram (P2021-03-27).
+4. **`RC-590` (Yima) fecha o par com o Avesta:** as cidades subterrâneas da atual Turquia (~12.000–14.000 anos, bombardeio de restos de cometa por 1.000 anos); o Kalevala finlandês como segundo testemunho textual; leitura, não arqueologia.
+5. **`RC-588` (Ninurta) entra em III.13.2 (13º da seção):** recusa da chefia a Marduque em 2200 a.C. (STT "Eli" por Enlil preservado); pontaria das bombas (P2021-03-27) com **quarentena histórica** (Sodoma/Gomorra e Mohenjo-Daro = contexto da disputa, não entidades ontológicas).
+6. **Cinco seções tocadas (+1 cada):** II.7.2 (8 → 9), II.7.3 (1 → 2), III.13.2 (12 → 13), III.14.4 (1 → 2), V.23.1 (10 → 11). Nenhum endereço novo, nenhuma renomeação.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (quarto lote limpo de primeira; 1 falha intermediária no RC-595 — aspa cruzando `**VEM DE VISHNU**` em negrito — corrigida antes do fecho).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1505,7 +1532,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 18 de 66** (lotes 48–50, 15.100 palavras). **354 nós redigíveis** · **48 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-598` Danérion · `RC-597` Antérion · `RC-595` Avesta · `RC-590` Yima · `RC-589` Nibiru · `RC-588` Ninurta.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 24 de 66** (lotes 48–51, 19.639 palavras). **354 nós redigíveis** · **42 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-575` Ancoragem do Conglomerado Trimurtiano na Terra · `RC-573` Cinturão de Fótons · `RC-570` Janelas Cósmicas (métricas temporais) · `RC-564` Fios soltos (improviso humano × robô) · `RC-561` Faces de Javé (sucessivas manifestações do Criador) · `RC-545` Coconstrutores da Obra (tikun).
 
 ## 5. Como conferir
 

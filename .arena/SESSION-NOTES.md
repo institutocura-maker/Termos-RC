@@ -1095,3 +1095,24 @@ Acumulado: **319 verbetes** · 6.789 verbatim · 3.121 códigos · **0 falhas** 
 8. **Falhas 0 → 0 (terceiro lote limpo de primeira).** Nenhuma correção de remissiva neste lote.
 
 **Próximos (grau 3, 48 restantes):** RC-598 Danérion · RC-597 Antérion · RC-595 Avesta · RC-590 Yima · RC-589 Nibiru (1.611 p. — maior ficha do anel até aqui) · RC-588 Ninurta.
+
+---
+
+## 09/09/2026 — Lote 51: 9º ANEL, GRAU 3 (6 verbetes, 4.539 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 51» (`RC-598`, `RC-597`, `RC-595`, `RC-590`, `RC-589`, `RC-588`).
+
+`RC-589` Nibiru (**II.7.3 — 2º da seção**, 1.241 p.; ficha **1.535 p.** — a maior do anel até aqui) · `RC-595` Avesta (**V.23.1 — 11º da seção**, 920) · `RC-588` Ninurta (**III.13.2 — 13º da seção**, 744) · `RC-590` Yima (**III.14.4 — 2º da seção**, 658) · `RC-598` Danérion (**II.7.2 — 9º da seção**, 496) · `RC-597` Antérion (II.7.2, 480).
+
+Acumulado: **325 verbetes** · 6.840 verbatim · 3.164 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **9º anel: 24 de 66 · 42 grau-3 restantes · 354 nós redigíveis.**
+
+1. **INCIDENTE DE SANDBOX (2ª ocorrência):** `.git` restaurado ao commit-base no início do turno. Correção idêntica à anterior: `git fetch` + `git reset --hard FETCH_HEAD` → HEAD = `de0756f` (lote 50), árvore limpa, sem perda. Padrão a repetir na abertura dos próximos lotes: conferir `rev-parse` × `ls-remote` antes de tudo.
+2. **`RC-598`/`RC-597` — par Archeons (II.7.2):** sequência Antérion–Danérion–Mermérion anterior a Perpérion/Tempérion (P2021-12-04, U0044–U0510); «Os seres de Antérion foram os primeiros a ousar; criaram inúmeras faixas dimensionais»; «Os de Danérion trabalharam as artes criativas da turma de Antérion»; grafias -ion fixadas (Quadro 9); variantes STT só como alucinações.
+3. **`RC-595` Avesta — densidade de quarentenas:** Steiner referência externa; Saoshyant = Hochmah/Sofia (leitura da P2023-05-20); Ahura Mazda vem de Vishnu (trecho em negrito na ficha → aspa cortada antes do negrito, resposta registrada em itálico fora da aspa — lição aplicada); **quarentena biomediúnica** "Zoroastro procurou Rogério" (registro apenas). Falha intermediária 1: aspa cruzando `**VEM DE VISHNU**` → corrigida.
+4. **`RC-589` Nibiru — o caso-quarentena:** O-7 ufológica crítica (B089 planeta em crise/escudo de ouro; «precisamos voltar à Terra, de tempos a tempos»); quarentena científica (81/72 luas cifra viva; F039-L3 fonte ausente da Arca; F041-L5 ratificado — cadastro tem primazia); data da última passagem NÃO fixada («2000 496»/«499»/«6 anos de Cristo»); **divergência 2012 selada** (lacramento dos portais × recuo de consciência); pouso 450.000/445.000 (U0005); órbita 3.600 anos; especiação P2021-03-27; retirada de Anu.
+5. **`RC-590` Yima (III.14.4):** cidades subterrâneas da Turquia (~12–14 mil anos; restos de cometa por +1.000 anos; avatar produzido pela turma do universo vizinho); Kalevala como 2º testemunho; elisões da ficha preservadas; leitura não-arqueologia.
+6. **`RC-588` Ninurta (III.13.2):** recusa da chefia a Marduque (2200 a.C., U0018 — STT «Eli»/«Marduque»/«Anuna» preservados); pontaria das bombas (P2021-03-27 — Ninurta × Nergal); quarentena histórica (Sodoma/Gomorra, Mohenjo-Daro = contexto da disputa; desfecho absorvido por RC-024/486/487).
+7. **Cinco seções tocadas (+1 cada):** II.7.2 8→9 · II.7.3 1→2 · III.13.2 12→13 · III.14.4 1→2 · V.23.1 10→11. Nenhum endereço novo; nenhuma renomeação.
+8. **Falhas 0 → 0 (4º lote limpo de primeira, após 1 correção intermediária).**
+
+**Próximos (grau 3, 42 restantes):** RC-575 Ancoragem do Conglomerado Trimurtiano na Terra · RC-573 Cinturão de Fótons · RC-570 Janelas Cósmicas (métricas temporais) · RC-564 Fios soltos (improviso humano × robô) · RC-561 Faces de Javé (sucessivas manifestações do Criador) · RC-545 Coconstrutores da Obra (tikun).
