@@ -1309,6 +1309,35 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 8. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 9. **Falhas 4 → 0.** Composição: **2 aspas com aspas internas divergentes** (`RC-323` «sobreviveram para "contar a história"» ×2 — internas retas no verbete, curvas na ficha) · **1 aspa com apóstrofos internos divergentes** (`RC-325` «uma moda criada pelos 'deuses de fora'» — internas curvas no verbete, retas na ficha) · **1 grafia do STT** (`RC-366` «NÃO INTERFIRAM» × «NÃO INTERFERAM»). Regra reiterada: **aspas internas e grafias do STT são byte a byte — conferir os codepoints**; spans que cruzam `**negrito**` da Base reprovam (recorte limpo em `RC-328`).
 
+### Lote 45 — 8º anel, grau 4 (6 verbetes, 6.502 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 45» (`RC-301`, `RC-266`, `RC-259`, `RC-252`, `RC-241`, `RC-231`).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Apolônio de Tiana (encarnação do Quarto Logos) | III.14.1 | `V3/V3.14.01-RC259-apolonio-de-tiana-encarnacao-do-quarto-logos.md` | **1.560** | **2.162 p.** |
+| Olm (Codificador de Zion/Zian) | III.13.5 | `V3/V3.13.05-RC252-olm-codificador-de-zion-zian.md` | 1.117 | 1.000 p. |
+| Prometeu (titã) | III.12.5 | `V3/V3.12.05-RC301-prometeu-tita.md` | 1.095 | 1.238 p. |
+| Seres dos Portais | III.12.1 | `V3/V3.12.01-RC241-seres-dos-portais.md` | 959 | 638 p. |
+| Razão Filosófica dos Terráqueos | V.22.1 | `V5/V5.22.01-RC231-razao-filosofica-dos-terraqueos.md` | 903 | 836 p. |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | V.23.1 | `V5/V5.23.01-RC266-sepher-ha-zohar-e-shimon-bar-yochai.md` | **868** | 459 p. |
+
+**Medida:** 868–1.560 palavras (média 1.084 — o maior lote do 8º anel) · **106 verbatim byte a byte** · 46 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 8º anel (grau 4) avança de 34 para 40 de 48.** Estado: 293 verbetes · **380 nós redigíveis** · **8 com grau 4 restantes**.
+
+**Achados do lote 45:**
+
+1. **`RC-259` (Apolônio de Tiana) tem a maior ficha do lote (2.162 p.) e o maior verbete do 8º anel (1.560 p.):** única encarnação terrena do Quarto Logos; Nuctemeron absorvido como **estrutura narrativa** (Devolutiva O-3, 0 códigos novos); quarentenas teológica + histórica + biomediúndica; lacuna do não-cruzamento com Jesus **deixada em aberto pelo próprio autor**, preservada.
+2. **`RC-252` (Olm) é o caso de não-duplicação do lote:** a função do Quarto Logos já está no verbete `RC-092` (mesmo endereço III.13.5); este verbete cobre o nome/identidade na voz das fontes próprias e registra a **distinção tríplice** nome × função × encarnação — sem repetir o RC-092.
+3. **`RC-301` (Prometeu) tem dupla documental sem fusão:** versão canônica B020/B021 × narrativa psicografada B087/B088/B089 (ficha criada no ciclo B087, O-2/O-6); quarentenas mediumística + ufológica; castigo do Cáucaso em aberto.
+4. **`RC-241` (Seres dos Portais) traz a leitura em evolução registrada sem harmonização:** em 2002–2004 «ainda não estava claro» aos autores que esses seres pertenciam ao universo antimaterial — a compreensão posterior não apaga a dúvida documentada; caps. isolados; sem fusão B017/B018/B039.
+5. **`RC-231` (Razão Filosófica) é o caso-modelo de quarentena filosófica/histórica:** diagnóstico de Aristóteles e história da filosofia são do autor; chancela F039-L3 (plataforma "Orbon" — FONTE AUSENTE DA ARCA) registrada sem especulação.
+6. **`RC-266` (Sepher ha-Zohar) tem a menor ficha do lote (459 p.) e dupla quarentena:** a atribuição do Zohar a Shimon bar Yochai é leitura de Ellam (a autoria histórica é debate acadêmico); «manual de fé» como leitura do B013.
+7. **Endereços compartilhados (5):** III.14.1 (6 → 7), III.13.5 (8 → 9), III.12.5 (1 → 2), III.12.1 (9 → 10), V.22.1 (17 → 18), V.23.1 (8 → 9). Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+9. **Falhas 2 → 0:** 1 span cruzando `**negrito**` da Base (`RC-301` B088 «Algo age por meio de nós, ó Pandora!» — recorte pela parte limpa) · 1 span com caixa divergente (`RC-259` «do jeito que quis» × «DO JEITO QUE QUIS» — parafraseado sem aspa). Regra reiterada: **caixa dentro da aspa é byte a byte** (maiúsculas do STT preservadas).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1334,7 +1363,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **34 de 48** (lotes 39–44). **386 nós redigíveis**, dos quais **14 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-301` Prometeu (titã) · `RC-266` Sepher ha-Zohar (e Shimon Bar Yochai) · `RC-259` Apolônio de Tiana (encarnação do Quarto Logos) · `RC-252` Olm (Codificador de Zion/Zian) · `RC-241` Seres dos Portais · `RC-231` Razão Filosófica dos Terráqueos.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **40 de 48** (lotes 39–45). **380 nós redigíveis**, dos quais **8 com grau 4 restantes**. Próximos seis (grau 4, ordem decrescente de código): `RC-226` Cidadão Cósmico · `RC-225` Gestão Cósmica · `RC-189` Eva (figura) · `RC-151` Gunas Criadoras (Sattva, Rajas, Tamas) · `RC-109` Família Val · `RC-070` Isolamento Cósmico.
 
 ## 5. Como conferir
 

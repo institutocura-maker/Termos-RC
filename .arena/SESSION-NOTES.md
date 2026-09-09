@@ -973,3 +973,25 @@ Acumulado: **287 verbetes** · 6.419 verbatim · 2.862 códigos · **0 falhas** 
 9. **Falhas 4 → 0:** RC-323 «contar a história» ×2 (internas retas vs curvas) · RC-325 «'deuses de fora'» (curvas vs retas) · RC-366 «NÃO INTERFIRAM» (STT) — além de 1 span cruzando negrito pego no pré-teste (RC-328, recorte limpo). Regra: **codepoints de aspas internas e grafias STT são byte a byte**.
 
 **Próximos (grau 4, 14 restantes):** RC-301 Prometeu (titã) · RC-266 Sepher ha-Zohar · RC-259 Apolônio de Tiana · RC-252 Olm · RC-241 Seres dos Portais · RC-231 Razão Filosófica.
+
+---
+
+## 09/09/2026 — Lote 45: 8º ANEL, GRAU 4 (6 verbetes, 6.502 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 45» (`RC-301`, `RC-266`, `RC-259`, `RC-252`, `RC-241`, `RC-231`).
+
+`RC-259` Apolônio de Tiana (**III.14.1**, 1.560 p. — maior verbete do anel) · `RC-252` Olm (**III.13.5**, 1.117) · `RC-301` Prometeu (**III.12.5**, 1.095) · `RC-241` Seres dos Portais (III.12.1, 959) · `RC-231` Razão Filosófica (V.22.1, 903) · `RC-266` Sepher ha-Zohar (V.23.1, **868**).
+
+Acumulado: **293 verbetes** · 6.525 verbatim · 2.921 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **8º anel: 40 de 48 · 8 grau-4 restantes · 380 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `2b75fa1` na abertura).
+2. **`RC-259` = maior ficha (2.162 p.) e maior verbete do anel (1.560 p.):** Nuctemeron absorvido como estrutura narrativa (O-3, 0 códigos novos); lacuna do não-cruzamento com Jesus preservada («ISSO AQUI FICA EM ABERTO»); STT «A POLÔNIA»/«APOL[ÔNIO DE] TIANA»/«No Temeró» preservados; Hermes/3 magos (P2023-12-02).
+3. **`RC-252` = não-duplicação do RC-092 (mesmo endereço III.13.5):** verbete cobre nome/identidade Olm (B016 cap. 5, B057 capelinos, escola de decifração de Zel) e registra distinção tríplice nome × função (`RC-092`) × encarnação (`RC-259`); RC-255/256 sem ficha não materializados.
+4. **`RC-301` = dupla documental sem fusão:** B020/B021 (canônica) × B087/B088/B089 (psicografada, ciclo B087); Cáucaso em aberto; fogo = reciclagem de informação (P2021-05-15); Demobi (P2023-12-03).
+5. **`RC-241` = leitura em evolução sem harmonização (2002–04 «ainda não estava claro»);** caps. isolados; sem fusão B017/B018/B039; IEEA fora (B021).
+6. **`RC-231` = quarentena filosófica/histórica;** «fé-filosofia»; curso "Reflexões quase filosóficas"; chancela F039-L3 (Orbon — FONTE AUSENTE DA ARCA); B033 cap. 18 (surpresa de Javé).
+7. **`RC-266` = menor ficha (459 p.);** atribuição a Shimon bar Yochai = leitura de Ellam (quarentena histórico-religiosa); VAYEHI 21 8B-9A (270 mundos → RC-265); Cabala como reação (B013).
+8. **Endereços compartilhados (5):** III.14.1 6→7 · III.13.5 8→9 · III.12.5 1→2 · III.12.1 9→10 · V.22.1 17→18 · V.23.1 8→9. Nenhum novo; nenhuma renomeação.
+9. **Falhas 2 → 0:** RC-301 span cruzando negrito (B088) — recorte limpo; RC-259 caixa divergente («do jeito que quis» × STT maiúsculo) — parafraseado. Regra: caixa do STT dentro da aspa é byte a byte.
+
+**Próximos (grau 4, 8 restantes):** RC-226 Cidadão Cósmico · RC-225 Gestão Cósmica · RC-189 Eva (figura) · RC-151 Gunas Criadoras · RC-109 Família Val · RC-070 Isolamento Cósmico. Fecha o 8º anel no lote 46? (restariam 2).
