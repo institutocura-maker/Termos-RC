@@ -1013,3 +1013,21 @@ Acumulado: **299 verbetes** · 6.606 verbatim · 2.987 códigos · **0 falhas** 
 5. **Endereços tocados (6):** III.12.4 2→3 · I.3.1 4→5 · III.15.3 2→3 · III.14.2 4→5 · II.8.1 20→21 · V.22.3 1→2. Nenhum novo; nenhuma renomeação.
 6. **Falhas 2 → 0:** RC-225 “computador” curvas (eu havia posto retas) · RC-070 elisão com reticências inventadas (recorte limpo «ainda nem começou e isso pode se dar…»). Regra: reticências só as da ficha.
 7. **Fecho do 8º anel no próximo lote (47):** RC-064 Fenvans (1.429 p.) + RC-004 Elohim (371 p.) — e então 48/48.
+
+---
+
+## 09/09/2026 — Lote 47: FECHO DO 8º ANEL, GRAU 4 (2 verbetes, 2.035 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 47» (`RC-064`, `RC-004` — os dois últimos do grau 4).
+
+`RC-064` Fenvans (**III.13.2 — 11º da seção**, 1.269 p.) · `RC-004` Elohim (**III.13.1 — 4º da seção**, **766**).
+
+Acumulado: **301 verbetes** · 6.641 verbatim · 3.003 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **🏁 8º anel: 48/48 FECHADO · 0 grau-4 restantes · 372 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `1a715a1` na abertura).
+2. **`RC-064` = maior ficha do lote (1.369 p.):** materializada por Devolutiva O-2 (Trilogia TALM); base em ART-2025-08-03 (material do curador, não primário); psique fenva (pensamento único, programados para o suicídio), sacrifício (testes de estresse, torpedos de íons), Ginnungagap/RC-776 (heróis frustrados), mecanismo de influência = quarentena clínica; F038-L2 encerra variação de grafia (fenvan 2×, variantes 0×); P2021-01-30 = fonte oral mais antiga (~7 bi; Morençou idealizou, Fenvães executaram); não confundir com Corpos Fenvã RC-769.
+3. **`RC-004` = único ⚪ candidato do fecho (ficha de 356 p.):** termo não localizado nas obras primárias (nem no glossário B031); desambiguação definitiva P2024-09-28 (Elohim = sistema colmeico de Javé/Abelha-Rainha RC-175 × Nefilins RC-488), confirmada pelo curador 2026-08-18, sem âncora em obra ainda; grafia «Elohins» = STT.
+4. **Falhas 1 → 0:** RC-064 ponto final dentro da aspa na citação-chave (regra do lote 42). Último erro do anel.
+5. **Fecho do anel:** 48/48 nos lotes 39–47 (45.823 palavras, 632 verbatim no anel). 372 nós redigíveis · próximo: 9º anel (grau 3), 66 nós, 0 redigidos.
+
+**Próximos (grau 3, 66 restantes):** RC-929 Prema Sai · RC-927 Sai Baba de Shirdi · RC-801 Saibaba como Precursor de Jesus · RC-777 Ananque · RC-751 Bagagem Espiritual Intransferível · RC-688 Yajna.

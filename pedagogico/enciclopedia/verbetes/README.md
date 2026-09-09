@@ -1364,6 +1364,39 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 5. **Nenhum código criado; nenhum arquivo de ficha tocado.**
 6. **Falhas 2 → 0:** RC-225 aspa interna reta vs curva (“computador”) · RC-070 elisão nossa com reticências inventadas (recorte pelo fragmento limpo da P2024-03-17). Regra reiterada: **reticências dentro da aspa só as da ficha; elisão nossa recorta em fragmento limpo**.
 
+### Lote 47 — fecho do 8º anel, grau 4 (2 verbetes, 2.035 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o lote 47» (`RC-064`, `RC-004` — os dois últimos do grau 4).
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Fenvans | III.13.2 | `V3/V3.13.02-RC064-fenvans.md` | **1.269** | **1.369 p.** |
+| Elohim | III.13.1 | `V3/V3.13.01-RC004-elohim.md` | **766** | 356 p. |
+
+**Medida:** 766–1.269 palavras (média 1.018) · **35 verbatim byte a byte** · 15 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**🏁 O 8º anel (grau 4) FECHA em 48 de 48.** Estado: 301 verbetes · **372 nós redigíveis** · **0 com grau 4 restantes**.
+
+**Achados do lote 47 (fecho do anel):**
+
+1. **`RC-064` (Fenvans) tem a maior ficha do lote (1.369 p.) e é o segundo verbete de III.13.2 sobre a mesma família de seres** (ao lado de Corpos Fenvã `RC-769`): ficha materializada por Devolutiva O-2 (Trilogia TALM); base documental em ART-2025-08-03 (**material do curador, não primário**); quarentena clínica (Toxoplasma/vírus = analogia do autor, jamais parasitologia real); nota F038-L2 encerra o receio de variação da grafia (varredura do bruto: «fenvan» 2×, variantes 0×).
+2. **`RC-004` (Elohim) tem a menor ficha do lote (356 p.) e é o único ⚪ candidato do fecho:** termo ainda não localizado nas obras primárias (não consta no glossário do B031); a **desambiguação definitiva** de P2024-09-28 — Elohim = sistema colmeico de Javé (Abelha-Rainha `RC-175`) × Nefilins `RC-488` (raça extraterrestre do Éden) — é ancorada em fala oral confirmada pelo curador (2026-08-18), ainda sem âncora em obra.
+3. **Sem duplicação na vizinhança:** RC-064 dialoga com `RC-769` (Corpos Fenvã — não confundir), `RC-080`, `RC-091`, `RC-081`, `RC-776`, `RC-775`, `RC-771` e `RC-710`; RC-004 dialoga com `RC-175`, `RC-488`, `RC-474` e `RC-001` — nenhum código criado, nenhuma relação alterada.
+4. **Endereços tocados (2):** III.13.2 (10 → 11 verbetes) e III.13.1 (3 → 4). Nenhum endereço novo, nenhuma renomeação.
+5. **Nenhum código criado; nenhum arquivo de ficha tocado.**
+6. **Falhas 1 → 0:** RC-064 citação-chave com **ponto final dentro da aspa** (regra do lote 42: ponto fora do « »). Regra reiterada e aplicada no fecho.
+
+### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
+
+| | |
+|---|---|
+| Verbetes do anel | **48** (lotes 39–47: 6+6+6+6+6+6+6+6+2) |
+| Palavras (9 lotes) | **45.823** — lote 39: 4.984 · 40: 4.443 · 41: 4.843 · 42: 4.376 · 43: 5.369 · 44: 5.233 · 45: 6.502 · 46: 5.462 · 47: 2.035 |
+| Verbatim do anel | **632** · 0 falhas |
+| Códigos citados no anel | 0 código criado · Base intacta (946/650/1898) |
+
+**O 8º anel (grau 4) está FECHADO — 48 de 48.** A Enciclopédia alcança **301 verbetes · 6.641 verbatim · 3.003 códigos · 0 falhas**. Próximo anel à vista: **grau 3 — 66 nós, nenhum redigido ainda** (primeiros por código decrescente: `RC-929` Prema Sai · `RC-927` Sai Baba de Shirdi · `RC-801` Saibaba como Precursor de Jesus · `RC-777` Ananque · `RC-751` Bagagem Espiritual Intransferível · `RC-688` Yajna).
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -1389,7 +1422,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4)**: aberto no lote 39, **46 de 48** (lotes 39–46). **374 nós redigíveis**, dos quais **2 com grau 4 restantes**: `RC-064` Fenvans (1.429 p.) · `RC-004` Elohim (371 p.). O fecho do anel fica para o lote 47.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **372 nós redigíveis** · **0 com grau 4 restantes**. Próximo anel: **9º anel (grau 3) — 66 nós, nenhum redigido ainda**. Primeiros seis (grau 3, ordem decrescente de código): `RC-929` Prema Sai · `RC-927` Sai Baba de Shirdi · `RC-801` Saibaba como Precursor de Jesus · `RC-777` Ananque · `RC-751` Bagagem Espiritual Intransferível · `RC-688` Yajna.
 
 ## 5. Como conferir
 
