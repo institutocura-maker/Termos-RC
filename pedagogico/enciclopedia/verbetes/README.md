@@ -1884,6 +1884,37 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 40 restantes):** por ordem decrescente — `RC-432`, `RC-430`, `RC-422`, `RC-417`, `RC-410`, `RC-409` (a confirmar no despacho do Lote 65).
 
+### Lote 65 — 10º anel, grau 2 (6 verbetes, 3.955 palavras)
+
+**Despacho do Curador:** «Ok, em frente com >>> [`RC-432`, `RC-430`, `RC-422`, `RC-417`, `RC-410`, `RC-409`].» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `eb119d9` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Ser-Criador fracassado (autoconfissão de Javé) | V.22.1 | `V5/V5.22.01-RC422-ser-criador-fracassado-autoconfissao-de-jave.md` | **766** | 999 p. |
+| Agressividade canalizada (DNA doentio) | II.8.1 | `V2/V2.08.01-RC432-agressividade-canalizada-dna-doentio.md` | 729 | 1.027 p. |
+| ADHYSAVNA (nome completo de Savna/Shiva) | III.10.4 | `V3/V3.10.04-RC409-adhysavna-nome-completo-de-savna-shiva.md` | 723 | 820 p. |
+| Resposta de Javé (em 1ª pessoa) | V.23.1 | `V5/V5.23.01-RC417-resposta-de-jave-em-1a-pessoa.md` | 641 | 578 p. |
+| Esporte como evolução da Guerra | V.22.1 | `V5/V5.22.01-RC430-esporte-como-evolucao-da-guerra.md` | 610 | 588 p. |
+| ADHYPRABRAJNA (grafia do diagrama) | II.6.1 | `V2/V2.06.01-RC410-adhyprabraja.md` | **486** | 329 p. |
+
+**Medida:** 486–766 palavras (média 659) · **34 verbatim byte a byte** · 34 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 10º anel (grau 2): 42 de 76.** Estado: 409 verbetes · **264 nós redigíveis** · **34 com grau 2 restantes**.
+
+**Achados do lote 65:**
+
+1. **`RC-422` Ser-Criador fracassado (V.22.1 — 26º da seção):** a autoconfissão de Javé, coração de B036 (*As Memórias de Javé*): Ellam acusa («Foi a inconsequente roda de gerar vida...»), Javé admite «estou doente. Na verdade, já nasci para esta personalidade doente»; confrontos de B037 sem fusão; **anterioridades orais** — P2023-10-14 antecede P2024-11-09; P2020-04-25 antecipa em **3,5 anos** a fonte oral mais antiga («Esse eu de Jahvel para mim é zero...»; STT *Jahvel*/*Jahrado*); **variante D-8a** (o bem perde sempre) sem substituir o canônico; quarentena clínica.
+2. **`RC-432` Agressividade canalizada (II.8.1 — 27º):** **materialização autorizada** (Devolutiva 28/08/2026, item 11); o reverso de RC-430 (esporte = canalização, guerra = estado não canalizado); DNA doentio projetado por RC-217; P2023-10-14: anunnaki barrados por «travas e controles» e honra de «sangue azul» (STT *NAC* AGUARDA-ÁUDIO, *se enfeem*); P2023-12-03 selo D-9/D-10 sem anterioridade («Ninguém tinha tinha algoritmo...»); **quarentena ética**: linhas misóginas retidas, rótulo "insulto a PcD" retificado.
+3. **`RC-409` ADHYSAVNA (III.10.4 — 4º da seção):** nome completo da condição Adhy de Savna/Shiva per B051 (cadeia ADHYSAVNA → Shiva mergulhado → Hara/Krishna/Sai Baba); gênero Adhy (RC-011), Adhyatman prévia (RC-013), expressão Adhydaiva (RC-014); fontes orais: P2020-07-11 (Sávna espírito adiágia; Pashupati), P2022-05-07 («É um espírito adiágia.»), P2023-06-24 (o nome **CHIVA** antes do balão), P2024-05-04-R (Segundo Logos; campos morfogenéticos com Mohen So; energia Tamásica); 🟠 em análise.
+4. **`RC-417` Resposta de Javé (V.23.1 — 12º da seção):** única fala extensa do Criador em 1ª pessoa; B034 *Cartas a Javé*: Mônica Camargo (RC-420, sem ficha) e o intermediário que "discorda"; «Acostumem-se e compreendam: sou eu que vivo em vocês!»; fecho «Há uma cálice a ser bebido...» assina JAVÉ; **quarentena teológica**.
+5. **`RC-430` Esporte como evolução da Guerra (V.22.1 — 25º):** tese central do B040 (2014, nome civil): do guerreiro ao atleta (RC-431, sem ficha); o primeiro DNA «já com essa tendência doentia»; «Faça amor, não faça guerra… e não esqueça de praticar esportes.»; sem fusão com B015/B019; quarentena clínica.
+6. **`RC-410` ADHYPRABRAJNA (II.6.1 — 8º da seção):** grafia do diagrama para o Criador antes da queda (B051/B060/B061); âncora estrutural **materializada no F045** (07/09/2026) — «foi procedida por Adhyshprabrajna, na sua expressão Adhyatman» (B022); as três grafias (RC-410/310/152) mantidas em códigos distintos **de propósito**.
+7. **Seções tocadas:** V5.22.01 24→26 (+2) · V2.08.01 26→27 · V3.10.04 3→4 · V5.23.01 11→12 · V2.06.01 7→8. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (34 spans pré-testados byte a byte; 1 corrigido na auto-revisão — RC-422 reticências nossas dentro de « » na seção de Tensões).
+9. **Statuses:** RC-409 🟠 em análise e RC-432/430/422/417/410 🟡 provisório — consistentes ficha = cadastro = ÍNDICE; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 34 restantes):** por ordem decrescente — `RC-375`, `RC-334`, `RC-322`, `RC-321`, `RC-320`, `RC-302` (a confirmar no despacho do Lote 66).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

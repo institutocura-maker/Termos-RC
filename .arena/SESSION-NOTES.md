@@ -1403,3 +1403,26 @@ Acumulado: **403 verbetes** · 7.448 verbatim · 3.726 códigos · **0 falhas** 
 10. **Statuses:** RC-461 🟠 em análise; RC-451/450/446/434 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. **Divergência de cabeçalho em RC-477** (ficha 🟡 Provisório + 1.8 × Base/ÍNDICE ⚪ candidato + 1.1) — anotada no verbete e neste relatório, sem harmonizar.
 
 **Próximos (grau 2, 40 restantes):** por código decrescente — `RC-432`, `RC-430`, `RC-422`, `RC-417`, `RC-410`, `RC-409` (a confirmar no despacho do Lote 65).
+
+---
+
+## 09/09/2026 — Lote 65: 10º ANEL, GRAU 2 (6 verbetes, 3.955 palavras)
+
+**Despacho do Curador:** «Ok, em frente com >>> [`RC-432`, `RC-430`, `RC-422`, `RC-417`, `RC-410`, `RC-409`].» — os seis previstos confirmados.
+
+`RC-422` Ser-Criador fracassado (**V.22.1 — 26º da seção**, 766 p.; ficha 999) · `RC-432` Agressividade canalizada (**II.8.1 — 27º da seção**, 729; 1.027) · `RC-409` ADHYSAVNA (**III.10.4 — 4º da seção**, 723; 820) · `RC-417` Resposta de Javé (**V.23.1 — 12º da seção**, 641; 578) · `RC-430` Esporte como evolução da Guerra (**V.22.1 — 25º da seção**, 610; 588) · `RC-410` ADHYPRABRAJNA (**II.6.1 — 8º da seção**, 486; 329).
+
+Acumulado: **409 verbetes** · 7.482 verbatim · 3.769 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **10º anel (grau 2): 42 de 76 · 34 restantes · 264 nós redigíveis.**
+
+1. **Ambiente estável** (HEAD = remoto = `eb119d9` na abertura; árvore limpa) — sem incidente de clone.
+2. **Âncoras pré-testadas antes do verificador** (34 spans byte a byte; 1 corrigido na auto-revisão — RC-422 reticências nossas dentro de « » em Tensões, trocadas por formulação sem aspa); lote limpo de primeira no verificador.
+3. **`RC-422` Ser-Criador fracassado (V.22.1):** autoconfissão de Javé = coração do B036; Ellam (RC-071) acusa na Primeira Crônica; «estou doente. Na verdade, já nasci para esta personalidade doente»; confrontos B037 (transtorno de personalidade/cientista amalucado; Brahma p. 83) sem fusão; **P2023-10-14 anterioridade** (julgador faliu/colapsou; U0033/U0047) + **variante D-8a** (bem perde sempre; canônico intocado); **P2020-04-25 antecipa 3,5 anos** («Esse eu de Jahvel... zero»; vírus = eu de Jahrado); P2022-03-26 D-10 sem ganho (artista caiu na própria obra); quarentena clínica.
+4. **`RC-432` Agressividade canalizada (II.8.1):** materializada pela Devolutiva 28/08/2026 item 11 (vivia só no cadastro); esporte RC-430 = dispositivo de canalização × guerra = não canalizada; DNA doentio ← RC-217; P2023-10-14: «Nenhum no NAC consegue...» (travas/controles; honra de sangue azul) e «se enfeem... pureza de sangue que não existe»; P2023-12-03 U0004 D-9/D-10 sem anterioridade («tinha tinha algoritmo»); **quarentena ética**: linhas misóginas retidas, rótulo PcD retificado.
+5. **`RC-409` ADHYSAVNA (III.10.4):** nome completo de Savna/Shiva (B051): ADHYSAVNA → Shiva (mergulhado) → Hara/Krishna/Sai Baba; Adhy RC-011/Adhyatman RC-013/Adhydaiva RC-014; P2020-07-11 fonte original (Sávna/adiágia; seis mergulhados; Pashupati), P2022-05-07 («É um espírito adiágia.»), P2023-06-24 (CHIVA antes do balão), P2024-05-04-R (Segundo Logos; campos morfogenéticos com Mohen So; Tamásica); 🟠 em análise; STT preservado.
+6. **`RC-417` Resposta de Javé (V.23.1):** única fala extensa do Criador em 1ª pessoa; B034: 16 cartas de Mônica Camargo (RC-420 sem ficha); intermediário (RC-071) que "discorda"; «Acostumem-se e compreendam: sou eu que vivo em vocês!»; fecho assina JAVÉ («Há uma cálice a ser bebido...»); quarentena teológica; RC-419/RC-418 sem ficha.
+7. **`RC-430` Esporte como evolução da Guerra (V.22.1):** tese do B040 (2014, nome civil Rogério de Almeida Freitas); transição guerreiro→atleta (RC-431 sem ficha); DNA com «tendência doentia»; Kampilia/Olímpia; «Faça amor, não faça guerra…»; sem fusão B015/B019; quarentena clínica.
+8. **`RC-410` ADHYPRABRAJNA (II.6.1):** grafia do diagrama (B051/B060/B061) = Adhyshprabrajna (RC-310) antes da queda → Prabrajna (RC-152) → Brahma/Javé (RC-037/RC-001); B022 «foi procedida por Adhyshprabrajna, na sua expressão Adhyatman»; RC-604 (P2021-12-04); **F045 âncora estrutural** (07/09/2026, Apêndice D do ÍNDICE) — sem arestas novas; três grafias em códigos distintos de propósito.
+9. **Seções:** V5.22.01 24→26 (+2: RC-430 25º, RC-422 26º) · V2.08.01 26→27 · V3.10.04 3→4 · V5.23.01 11→12 · V2.06.01 7→8. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada.
+10. **Statuses:** RC-409 🟠 em análise; RC-432/430/422/417/410 🟡 provisório — consistentes ficha = cadastro = ÍNDICE; nenhuma divergência a registrar.
+
+**Próximos (grau 2, 34 restantes):** por código decrescente — `RC-375`, `RC-334`, `RC-322`, `RC-321`, `RC-320`, `RC-302` (a confirmar no despacho do Lote 66).
