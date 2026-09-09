@@ -1496,6 +1496,34 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 6. **Cinco seções tocadas (+1 cada):** II.7.2 (8 → 9), II.7.3 (1 → 2), III.13.2 (12 → 13), III.14.4 (1 → 2), V.23.1 (10 → 11). Nenhum endereço novo, nenhuma renomeação.
 7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (quarto lote limpo de primeira; 1 falha intermediária no RC-595 — aspa cruzando `**VEM DE VISHNU**` em negrito — corrigida antes do fecho).
 
+### Lote 52 — 9º anel, grau 3 (6 verbetes, 4.782 palavras)
+
+**Despacho do Curador:** «Maravilha! Em frente com o lote 52» (`RC-575`, `RC-573`, `RC-570`, `RC-564`, `RC-561`, `RC-545`). *(Ambiente estável neste turno — sem incidente de sandbox.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Coconstrutores da Obra (tikun) | V.22.2 | `V5/V5.22.02-RC545-coconstrutores-da-obra-tikun.md` | **1.073** | 838 p. |
+| Ancoragem do Conglomerado Trimurtiano na Terra | III.10.1 | `V3/V3.10.01-RC575-ancoragem-do-conglomerado-trimurtiano-na-terra.md` | 815 | 561 p. |
+| Fios soltos (improviso humano × robô) | V.22.1 | `V5/V5.22.01-RC564-fios-soltos-improviso-humano-x-robo.md` | 811 | 495 p. |
+| Cinturão de Fótons | IV.19.3 | `V4/V4.19.03-RC573-cinturao-de-fotons.md` | 771 | 532 p. |
+| Faces de Javé (sucessivas manifestações do Criador) | II.6.1 | `V2/V2.06.01-RC561-faces-de-jave-sucessivas-manifestacoes-do-criador.md` | 664 | 250 p. |
+| Janelas Cósmicas (métricas temporais) | II.8.1 | `V2/V2.08.01-RC570-janelas-cosmicas-metricas-temporais.md` | **648** | 377 p. |
+
+**Medida:** 648–1.073 palavras (média 797) · **45 verbatim byte a byte** · 39 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**O 9º anel (grau 3): 30 de 66.** Estado: 331 verbetes · **342 nós redigíveis** · **36 com grau 3 restantes**.
+
+**Achados do lote 52:**
+
+1. **`RC-575` (Ancoragem em III.10.1, junto da Trimurti RC-104):** segunda ancoragem da faixa de realidade vizinha (~100 mil anos, na Terra) × precedente marciano de 300 milhões (Ragnarok, Yggdrasil/Bifrost); reação ao quartel-general de Lúcifer; família Val há ~600 mil anos; eco P2023-12-03 «a Trimurte tem que deixar de existir.» (U0004, D-9/D-10 sem ganho de anterioridade); datas aproximadas e "conglomerado" como descrição.
+2. **`RC-573` (Cinturão de Fótons, IV.19.3):** quarentena científica explícita (leitura do autor, sem endosso); travessia de 26.000 anos duas vezes; entrada desde 2012; era zodiacal de 2.160 anos = "nova era de Aquário"; P2022-12-03 recua a entrada a 1988/89 com atrito máximo em dez/2022 («mas o atritão começa agora»).
+3. **`RC-570` (Janelas Cósmicas, II.8.1):** metáfora que a ficha manda manter figurada; duas janelas (equinocial ~5.200 anos × zodiacal ~2.160); pacto de Zeus com Apolo valendo 2/3 da era de Peixes; «as apostas começaram... em eras zodiacais... para ter mais adrenalina».
+4. **`RC-564` (Fios soltos, V.22.1):** metáfora Westworld/Jaynes (referência externa, F041-L5 AGUARDA-ÁUDIO); o fio desencapado que é Javé a recapear (P2021-01-30, U0015 — fonte oral mais antiga); averbação F043 T2 (GKA, Kris Amon RC-934); "memórias encobridoras" subordinado sem código.
+5. **`RC-561` (Faces de Javé, II.6.1 — 5º da seção):** ficha mínima (250 p.) — percurso hebreus→arianos→hebreus; face atual recriada pelos anjos clones desde a rebelião de Lúcifer; não soube usar a ressonância humana (selo [bôson — REVISAR] preservado); termo-título da P2024-02-25.
+6. **`RC-545` (Coconstrutores, V.22.2 — 🟡 provisório, único do lote):** pequeno grupo «ainda não somos nem 10... 18.000 anos» (Colecionar Incertezas); luz emprestada; B019 ('coconstrutor'/'escravo'/'cobaia') com quarentena científica; anterioridades P2023-10-14 (matrix) e P2022-03-26 (28.869 genes — 19 meses, D-10, conselho ao vivo não-doutrina); aresta dupla com RC-514 (B019 + ART-2026-08-18).
+7. **Seis seções tocadas (+1 cada):** III.10.1 (1 → 2), IV.19.3 (2 → 3), V.22.2 (2 → 3), II.6.1 (4 → 5), V.22.1 (19 → 20), II.8.1 (21 → 22). Nenhum endereço novo, nenhuma renomeação.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 0 → 0 (quinto lote limpo de primeira).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
@@ -1532,7 +1560,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 24 de 66** (lotes 48–51, 19.639 palavras). **354 nós redigíveis** · **42 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-575` Ancoragem do Conglomerado Trimurtiano na Terra · `RC-573` Cinturão de Fótons · `RC-570` Janelas Cósmicas (métricas temporais) · `RC-564` Fios soltos (improviso humano × robô) · `RC-561` Faces de Javé (sucessivas manifestações do Criador) · `RC-545` Coconstrutores da Obra (tikun).
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5): FECHADO no lote 39** — dos 39 nós, **38 redigidos** nos lotes 33–39; resta apenas `RC-449` (remissiva F045 de `RC-164`), à espera de despacho do Curador. **8º anel (grau 4): FECHADO no lote 47 — 48 de 48** (lotes 39–47, 45.823 palavras). **9º anel (grau 3): aberto — 30 de 66** (lotes 48–52, 24.421 palavras). **342 nós redigíveis** · **36 com grau 3 restantes**. Próximos seis (grau 3, ordem decrescente de código): `RC-538` Consórcio de Mundos (Arquitetos Universais) · `RC-536` Era do Conhecimento e da Espiritualização · `RC-535` Projeto Orbum (cidadania planetária) · `RC-533` Supercomputador Cósmico (Moros — destino) · `RC-526` Demência do Criador (fases da condição de Javé) · `RC-525` Semente da racionalidade (diferencial humano).
 
 ## 5. Como conferir
 
