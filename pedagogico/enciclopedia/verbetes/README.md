@@ -91,6 +91,7 @@ Escala: ~350 mil palavras. A alternativa — tudo-Pilar — daria ~900 mil e inv
 | **31** | 09/09/2026 | `V3/RC-424` Linhagem dos Escolhidos · `V3/RC-295` Drama do Fechamento dos Portais · `V3/RC-460` Marduk · `V4/RC-283` Pandora como Serpente do Éden · `V4/RC-400` Foz Côa / FOXP2 · `V2/RC-188` Mente Coletiva | ✅ redigido |
 | **32** | 09/09/2026 | `V3/RC-002` Rebelião de Lúcifer · `V3/RC-074` Len Mion (Satã) · `V4/RC-164` Criaturas-ferramenta · `V4/RC-148` Agentes da Vida Universal · `V2/RC-154` Nidana · `V5/RC-163` Mente Universal (Emergente) | ✅ redigido — **FECHO DO 6º ANEL (GRAU 6)** |
 | **33** | 09/09/2026 | `V2/RC-763` As Sete Leis Herméticas · `V4/RC-759` Jainismo · `V3/RC-757` Vaishnavismo · `V2/RC-753` Estrangulamento Cognitivo · `V5/RC-752` Agenda Espiritual · `V3/RC-750` Moisés e o Êxodo | ✅ redigido — **ABERTURA DO 7º ANEL (GRAU 5)** |
+| **34** | 09/09/2026 | `V4/RC-748` Genótipo da Gentileza · `V3/RC-741` Projeto Orunmilá–Olodus · `V3/RC-740` Kami · `V5/RC-739` Susanoo · `V4/RC-729` Jabutis Genéticos · `V3/RC-659` Quirino Cornélio | ✅ redigido — 7º anel (grau 5) |
 
 **Lote 2 — medida final:** 1.009–1.383 palavras · **150 verbatim byte a byte (59 reprovados na 1ª conferência, todos corrigidos) · 68 códigos · 0 falhas** · 0 código criado · Base intacta (946/650/1898).
 
@@ -931,6 +932,42 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 14. **Falhas 2 → 0.** Composição: **1 colagem de duas aspas** (`RC-757` — montei uma aspa com a citação-chave e a elisão `[...]` de outro bloco) · **1 palavra nossa dentro da aspa** (`RC-759` — «os primeiros humanos»; o negrito da ficha começa em «primeiros»). **Remédios: aspa única e íntegra de um só bloco; recorte alinhado ao negrito da fonte.**
 15. **Nenhum endereço novo, nenhuma renomeação.** II.8.1 → 16 verbetes · V.22.1 → 17 · IV.20.1 → 11 · III.10.3 → 5 · III.16.5 → 3.
 
+### Lote 34 — 7º anel, grau 5 (6 verbetes, 4.466 palavras)
+
+**Despacho do Curador:** «em frente com os próximos seis do grau 5».
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Genótipo da Gentileza (GG) | IV.18.3 | `V4/V4.18.03-RC748-genotipo-da-gentileza.md` | **914** | 855 p. |
+| Kami (Projeto Japonês) | III.13.1 | `V3/V3.13.01-RC740-kami.md` | 826 | 670 p. |
+| Projeto Orunmilá–Olodus | III.16.5 | `V3/V3.16.05-RC741-projeto-orunmila-olodus.md` | 785 | 646 p. |
+| Jabutis Genéticos | IV.18.3 | `V4/V4.18.03-RC729-jabutis-geneticos.md` | 688 | 435 p. |
+| Quirino Cornélio | III.14.2 | `V3/V3.14.02-quirino-cornelio.md` | 685 | 363 p. |
+| Susanoo | V.27.1 | `V5/V5.27.01-RC739-susanoo.md` | **568** | 336 p. |
+
+**Medida:** 568–914 palavras (média 744) · **106 verbatim byte a byte** · 40 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**Avanço:** 227 verbetes · **423 nós redigíveis** · **27 com grau 5** (de 39 no início do anel; 12 redigidos em dois lotes).
+
+**Achados do lote 34:**
+
+1. **Segundo lote seguido inteiro de ⚪ candidatos** — seis de seis. **O 7º anel todo está sobre material chancelado mas não consolidado.**
+2. **`RC-748` (Genótipo da Gentileza) é o caso mais exposto do lote:** a tese é que um genótipo novo entra no genoma «não por acaso genético, mas a partir de uma ideia» — mecanismo **lamarckiano** (ideia → RNA → DNA), sob **quarentena científica e clínica** («jamais diagnóstico nem fato genético validado»).
+3. **A gentileza não é dádiva:** «Porque o genótipo GG não foi Deus que criou.» **O livre-arbítrio é o motor da mudança genômica.**
+4. **Não se compra:** «É preciso criar o genótipo no seu genoma e não se vende em farmácia e não tem alquimia que dê jeito... E a turma devocional não tem».
+5. **A ponte nova de `RC-748` é com `RC-722` (Dignidade):** «sem o tempero, esse sistema genômico não funciona para o Tikun».
+6. **`RC-741` é uma ficha de governança:** a definição e as cautelas são **texto editorial do cadastro, não fala do autor**. **O verbete marcou a diferença** em vez de apresentar tudo como citação.
+7. **A cautela de `RC-741` é a mais operativa do lote:** «Wyrd/Urd é teia/rede de destino; RC-560 WD é computador quântico/genético. Não fundir. Moros/Elm não é Mohen So/Phanes.»
+8. **Na divinosfera de Orunmilá, quem manda é um código, não uma pessoa:** «Na divinosfera de Orunmilá, quem manda é o código de Xangô» — e o critério é moral: «só poderá ser assistido... se tiver bom coração, bom caráter».
+9. **`RC-740` (Kami) tem escopo estrito:** «O registro possui escopo estrito no projeto japonês de RC-737»; «O termo não redefine kami nem a taxonomia do Xintoísmo.»
+10. **`RC-740` liquida uma pendência:** a categoria primordial ficou «ENCERRADO 2026-09-06 · F041-L5: RATIFICADO», com a regra «o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial».
+11. **`RC-739` (Susanoo) tem a menor ficha do lote (336 p.) e deu o menor verbete (568).** A tese: «a pacificação da terra devido à briga de Poseidon e Atena e a briga com Zeus e outras figuras» — **a pacificação da Terra é efeito de uma briga que não é da Terra**.
+12. **`RC-729` (Jabutis Genéticos) é metáfora, e a ficha o diz:** «A imagem é transposta para o genoma humano como recurso retórico, não como método de inferência genética»; «Não é um conceito reconhecido pela genética».
+13. **`RC-659` (Quirino Cornélio) está sob quarentena biográfica ativa:** «RELATO BIOGRÁFICO/PESSOAL do autor, jamais fato histórico validado». **O verbete registrou a função — a identidade atribuída ao espírito — e não desenvolveu biografia.**
+14. **Renomeações (2):** `V3.13.01-pashvnaj.md` → `V3.13.01-RC455-pashvnaj.md`; `V5.27.01-amaterasu.md` → `V5.27.01-RC738-amaterasu.md`. **Endereço novo: III.14.2.**
+15. **Falhas 5 → 0.** Composição: **3 caixa inicial errada ao recortar a aspa no meio da frase** (`RC-740` «A dívida», `RC-741` «Na divinosfera», `RC-739` «A pacificação» — o recorte começava com minúscula onde a fonte tem maiúscula) · **1 aspas curvas da fonte digitadas como retas** (`RC-741`) · **1 expressão nossa aspirada** (`RC-748`). **Alem disso, um erro de processo novo e grave: nome de arquivo entre crases derruba o verificador** (item 16).
+16. **LIÇÃO DE PROCESSO — nome de arquivo entre crases quebra o verificador.** O `verificar_verbetes.py` trata **todo caminho `.md` entre crases como declaração de documento-fonte** e aborta com `AssertionError` se o caminho não existir. Escrevi a nota de renomeação com o nome do arquivo em crase e o verificador caiu. **Remédio: nome de arquivo em itálico ou em texto plano; a nota de renomeação segue o padrão da casa — «Renomeação no mesmo endereço. <endereço> passa a abrigar `RC-xxx` e `RC-yyy`», com códigos, nunca com caminhos.**
+
 ### Incidente de ambiente no lote 8 (e o reparo)
 
 Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit de partida da branch), o ref `origin/arena/01a07d99-termos-rc` **desapareceu** do repositório local e a árvore de trabalho perdeu **78 arquivos já commitados** (12 fichas em `termos/`, 57 em `pedagogico/`, 7 em `ferramentas/` e o `SESSION-NOTES.md`) — 18.049 linhas sumidas, **zero inserções** em relação ao último commit.
@@ -956,7 +993,7 @@ Durante este lote o clone voltou atrás: `HEAD` apareceu em `708a402` (o commit 
 
 **O que fica em aberto, para despacho:** (a) a métrica de prioridade (ver achado 2); (b) o desdobramento de `RC-092` (ficha de 8.302 palavras → verbete de 1.736) e de `RC-414` Krishna (2.071, acima do teto Pilar); (c) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx) após a limpeza das fichas RC-690/RC-691.
 
-**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **6 redigidos**; **429 nós redigíveis**, dos quais **33 com grau 5**. Próximos seis: `RC-748` Genótipo da Gentileza · `RC-741` Projeto Orunmilá–Olodus · `RC-740` Kami · `RC-739` Susanoo · `RC-729` Jabutis Genéticos · `RC-659` Quirino Cornélio.
+**1º anel (nós-hub, grau de saída ≥ 10):** fechado em 08/09/2026 — 35 de 35. **2º anel (grau total):** **FECHADO nos lotes 7–19 — 78 dos 79 nós redigidos.** Falta somente `RC-544`, que não possui ficha na Base e dependerá de abertura de ficha pelo agente (decisão do Curador). **3º anel (grau 9): FECHADO no lote 22.** **4º anel (grau 8): FECHADO no lote 25.** **5º anel (grau 7): FECHADO no lote 27 — 26 nós de uma vez.** **6º anel (grau 6): FECHADO no lote 32** — 30 nós, 5 lotes (28–32), 30.172 palavras. **7º anel (grau 5)**, aberto no lote 33 (09/09/2026) — dos 39 nós de grau 5, **12 redigidos** nos lotes 33–34; **423 nós redigíveis**, dos quais **27 com grau 5**. Próximos seis: `RC-647` Evangelho de Judas · `RC-644` Xamanismo Virtual · `RC-607` Cinco Seres LM de Tempérion · `RC-603` Círculo da Perfeição · `RC-601` Departamentalização da Vida · `RC-593` Mahabharata.
 
 ## 5. Como conferir
 

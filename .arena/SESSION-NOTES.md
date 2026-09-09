@@ -722,3 +722,28 @@ Acumulado: **221 verbetes** · 5.217 verbatim · 2.274 códigos · **0 falhas** 
 13. **Nenhum endereço novo, nenhuma renomeação.**
 
 **Próximos (grau 5):** RC-748 Genótipo da Gentileza · RC-741 Projeto Orunmilá–Olodus · RC-740 Kami · RC-739 Susanoo · RC-729 Jabutis Genéticos · RC-659 Quirino Cornélio — 33 no total.
+
+---
+
+## 09/09/2026 — Lote 34: 7º anel, grau 5 (6 verbetes, 4.466 palavras)
+
+**Despacho do Curador: «em frente com os próximos seis do grau 5»** — RC-748, RC-741, RC-740, RC-739, RC-729, RC-659.
+
+`RC-748` Genótipo da Gentileza (IV.18.3, **914**) · `RC-740` Kami (III.13.1, 826) · `RC-741` Projeto Orunmilá–Olodus (III.16.5, 785) · `RC-729` Jabutis Genéticos (IV.18.3, 688) · `RC-659` Quirino Cornélio (III.14.2, 685) · `RC-739` Susanoo (V.27.1, **568**).
+
+Acumulado: **227 verbetes** (5.323 verbatim) · 2.327 códigos · **0 falhas** · Base intacta · 0 código criado. **423 redigíveis · 27 com grau 5** (12 de 39 em dois lotes).
+
+1. **Ambiente estável** (HEAD = remoto = `cceae39` na abertura) — nenhum incidente neste turno.
+2. **2º lote seguido inteiro de ⚪ candidatos (6/6).**
+3. **RC-748:** tese lamarckiana (ideia → RNA → DNA) sob **quarentena científica e clínica**; «Porque o genótipo GG não foi Deus que criou»; «não se vende em farmácia»; ponte nova com RC-722 (Dignidade) — «sem o tempero, esse sistema genômico não funciona para o Tikun».
+4. **RC-741 = ficha de governança:** definição e cautelas são **texto editorial do cadastro, não fala do autor** — o verbete marcou a diferença. Cautela operativa: «Wyrd/Urd é teia/rede de destino; RC-560 WD é computador quântico/genético. Não fundir.»
+5. **RC-741:** «Na divinosfera de Orunmilá, quem manda é o **código** de Xangô» — critério moral, não personalista.
+6. **RC-740:** escopo estrito no projeto japonês; «O termo não redefine kami nem a taxonomia do Xintoísmo»; pendência «ENCERRADO 2026-09-06 · F041-L5: RATIFICADO».
+7. **RC-739:** menor ficha (336) e menor verbete (568). Tese: «a pacificação da terra devido à briga de Poseidon e Atena» — a pacificação da Terra é efeito de briga alheia.
+8. **RC-729:** «recurso retórico, não método de inferência genética»; blindagem científica obrigatória verbatim.
+9. **RC-659:** **quarentena biográfica ativa** — registrou-se a **função** (identidade atribuída ao espírito), não a biografia.
+10. **Renomeações (2):** `V3.13.01-pashvnaj.md` → `V3.13.01-RC455-pashvnaj.md`; `V5.27.01-amaterasu.md` → `V5.27.01-RC738-amaterasu.md`. **Endereço novo: III.14.2.**
+11. **Falhas 5 → 0:** 3 **caixa inicial errada no recorte no meio da frase** (RC-740 «A dívida», RC-741 «Na divinosfera», RC-739 «A pacificação») · 1 **aspas curvas da fonte digitadas como retas** (RC-741) · 1 expressão nossa aspirada (RC-748).
+12. **LIÇÃO DE PROCESSO NOVA (grave):** **nome de arquivo entre crases derruba o verificador** — todo caminho `.md` entre crases é declaração de documento-fonte e gera `AssertionError` se não existir. Escrevi a nota de renomeação com o caminho em crase e o verificador abortou. **Remédio: nome de arquivo em itálico/texto plano; nota de renomeação no padrão da casa — «Renomeação no mesmo endereço. <endereço> passa a abrigar `RC-xxx` e `RC-yyy`» (códigos, nunca caminhos).** Atualizar também as linhas do README que citam o arquivo renomeado.
+
+**Próximos (grau 5):** RC-647 Evangelho de Judas · RC-644 Xamanismo Virtual · RC-607 Cinco Seres LM de Tempérion · RC-603 Círculo da Perfeição · RC-601 Departamentalização da Vida · RC-593 Mahabharata — 27 no total.
