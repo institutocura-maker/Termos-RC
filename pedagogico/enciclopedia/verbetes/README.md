@@ -367,7 +367,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Verbete | Endereço | Arquivo | Palavras | Ficha (lastro) |
 |---|---|---|---|---|
 | Hipóstase dos Arcontes | V.23.1 | `V5/V5.23.01-RC770-hipostase-dos-arcontes.md` | 1.084 | 1.360 p. |
-| Pashvnaj | III.13.1 | `V3/V3.13.01-pashvnaj.md` | 979 | 896 p. |
+| Pashvnaj | III.13.1 | `V3/V3.13.01-RC455-pashvnaj.md` | 979 | 896 p. |
 | Biodemos | III.13.2 | `V3/V3.13.02-RC036-biodemos.md` | 961 | **4.341 p.** |
 | Escola da Decifração da Realidade | IV.20.1 | `V4/V4.20.01-RC755-escola-da-decifracao-da-realidade.md` | 956 | 1.684 p. |
 | Projeto Talm | IV.17.1 | `V4/V4.17.01-RC091-projeto-talm.md` | 923 | **3.275 p.** · 10 ampliações |
@@ -740,7 +740,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Quarto Cérebro (centro de sabedoria vibracional) | V.22.1 | `V5/V5.22.01-RC758-quarto-cerebro.md` | **1.064** | **1.163 p.** |
 | Malkuth | I.3.2 | `V1/V1.03.02-RC682-malkuth.md` | 919 | 801 p. |
 | Abraço aos Fantasmas / Integridade sem Combate | IV.21.1 | `V4/V4.21.01-RC735-abraco-aos-fantasmas.md` | 835 | 301 p. |
-| Amaterasu (Teologia Comparada de Ellam) | V.27.1 | `V5/V5.27.01-amaterasu.md` | 822 | 379 p. |
+| Amaterasu (Teologia Comparada de Ellam) | V.27.1 | `V5/V5.27.01-RC738-amaterasu.md` | 822 | 379 p. |
 | Chave da Decifração Universal | V.22.1 | `V5/V5.22.01-RC754-chave-da-decifracao-universal.md` | 766 | 466 p. |
 | Nag Hammadi | V.23.1 | `V5/V5.23.01-RC887-nag-hammadi.md` | **751** | 335 p. |
 
