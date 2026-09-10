@@ -2851,6 +2851,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 69 restantes):** por ordem decrescente — `RC-831`, `RC-830`, `RC-829`, `RC-828`, `RC-827`, `RC-826` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 95).
 
+### Lote 95 — 12º anel, grau 0 (6 verbetes, 4.068 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 95 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `5a1b751` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Memória dos Elétrons | IV.19.3 | `V4/V4.19.03-RC829-memoria-dos-eletrons-e-arcanos.md` | **716** | **888 p.** |
+| Rebelião dos Elétrons | IV.19.3 | `V4/V4.19.03-RC826-rebeliao-dos-eletrons.md` | 690 | 1.075 p. |
+| Sophia Biodemo | III.11.2 | `V3/V3.11.02-RC831-sophia-como-biodemo.md` | 688 | **1.129 p.** |
+| Sistema Arcaico Mental | IV.18.3 | `V4/V4.18.03-RC828-sistema-arcaico-mental.md` | 677 | 959 p. |
+| Yel Luzbel Isolado | III.12.1 | `V3/V3.12.01-RC830-yel-luzbel-aventureiro-isolado.md` | 651 | 899 p. |
+| Era do Colapso | III.16.2 | `V3/V3.16.02-RC827-era-do-colapso-do-caos-organizado.md` | **646** | 926 p. |
+
+**Medida final:** 646–716 palavras (média 678) · **12 verbatim byte a byte** · 115 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 84 de 147** (63 restantes; `RC-936` remissiva permanente). Estado: 586 verbetes · **8.432 verbatim · 6.931 códigos · 0 falhas**.
+
+**Achados do lote 95 (o bloco elétrons/rebelião — 826–831):**
+
+1. **`RC-831` Sophia Biodemo (III.11.2 — 12º da seção; maior ficha do lote, 1.129 p.):** 2 spans — «Sophia tem um quê de demo...» + «...dualidade meio simplória até hoje»; 5 fontes; QUARENTENA TEOLÓGICA FORTE; subclasse 1.7 com nome diverso (ficha × cadastro); status ⚪ candidato.
+2. **`RC-830` Yel Luzbel Isolado (III.12.1 — 17º da seção):** 2 spans — «...a dois 1000 anos absolutamente isolado...» + «E Di Luzb [Yel Luzbel] seria alguém...»; quarentena metodológica (STT × nome próprio); 006 sem ficha; status ⚪ candidato.
+3. **`RC-829` Memória dos Elétrons (IV.19.3 — 39º da seção; menor ficha do lote, 888 p.):** 2 spans — «...Tem Charon, que foi o físico nuclear francês...» + «Não existe inconsciente coletivo dos elétrons...»; quarentena acadêmica; class ficha 3.4 × cadastro 4.4; status ⚪ candidato.
+4. **`RC-828` Sistema Arcaico Mental (IV.18.3 — 21º da seção):** 2 spans — «As calmeias [colmeias]...» + «...caldeias [colmeias] c com pinzais...»; colchetes editoriais verbatim; B037 + ganho de anterioridade P2019; class ficha 3.3 × cadastro 4.1; 162 sem ficha; status ⚪ candidato.
+5. **`RC-827` Era do Colapso (III.16.2 — 12º da seção):** 2 spans — «Quem me chamou atenção... foi Bell...» + «...ilhas de energia geetropia [negentropia]...»; 162 e 034 sem ficha; status ⚪ candidato.
+6. **`RC-826` Rebelião dos Elétrons (IV.19.3 — 40º da seção):** 2 spans — «...além das entropias...» + «...infinitude memorial deles não suportar mais apropriar» (evitado o span do tribunal, já usado no RC-832); QUARENTENA CIENTÍFICA FORTE; subclasse 4.5 × 4.4; 330 sem ficha; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** III.11.2 (legenda ×3 — 009/530/565; vol. ×1 — 632; 2+5 seguidores) · III.12.1 (legenda ×4 — 049/078/145/582; vol. ×3 — 002/142/398; 1+8 seguidores) · IV.19.3 (legenda ×2 — 573/637; 2+2+30+3 seguidores) · IV.18.3 (legenda ×5 — 518/543/619/732/646; vol. ×2 — 729/748; 13 seguidores) · III.16.2 (legenda ×2 — 571/694; vol. ×4 — 567/568/569/592; 5 seguidores).
+8. **Seções tocadas:** V3.11.02 11→12 · V3.12.01 16→17 · V4.19.03 38→40 (+2) · V4.18.03 20→21 · V3.16.02 11→12. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 12 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Rótulos × títulos (choques grandes):** 316 "Morenu"×"Decifra-me ou Devoro" (sem ficha) · 369 "Aya/Aye"×"Nietzsche..." · 154 "Inconsciente Coletivo"×"Nidana" · 162 "Plasma"×"Elétrons" (sem ficha) · 148 "Entropia"×"Agentes da Vida Universal" · 378/002/006/099/330/826/827/828/829/832 prefixos; 034 "Big Bang" ✓ (sem ficha).
+
+**Próximos (12º anel, grau 0 — 63 restantes):** por ordem decrescente — `RC-825`, `RC-824`, `RC-823`, `RC-822`, `RC-821`, `RC-820` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 96).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

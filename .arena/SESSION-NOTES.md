@@ -1987,3 +1987,20 @@ Acumulado: **580 verbetes** · 8.420 verbatim · 6.755 códigos · **0 falhas** 
 6. **Seções:** V3.10.04 4→5 · V2.07.04 5→6 · V3.11.02 9→11 · V5.23.01 17→18 · V4.19.03 37→38. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 69 restantes):** por código decrescente — `RC-831`, `RC-830`, `RC-829`, `RC-828`, `RC-827`, `RC-826` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 95).
+
+## 10/09/2026 — Lote 95: 12º ANEL, GRAU 0 (6 verbetes, 4.068 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 95 como sugerido.»
+
+`RC-831` Sophia Biodemo (**III.11.2 — 12º da seção**, 688 p.; ficha 1.129) · `RC-830` Yel Luzbel Isolado (**III.12.1 — 17º da seção**, 651; 899) · `RC-829` Memória dos Elétrons (**IV.19.3 — 39º da seção**, 716; 888) · `RC-828` Sistema Arcaico Mental (**IV.18.3 — 21º da seção**, 677; 959) · `RC-827` Era do Colapso (**III.16.2 — 12º da seção**, 646; 926) · `RC-826` Rebelião dos Elétrons (**IV.19.3 — 40º da seção**, 690; 1.075).
+
+Acumulado: **586 verbetes** · 8.432 verbatim · 6.931 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 84 de 147 · 63 restantes.**
+
+1. **Ambiente estável** (`5a1b751` = remoto; limpa). Fichas 1129/899/888/959/926/1075 = 5.876 p.; 41 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 12 spans de primeira, **0 falhas** (586/8432/6931/0). Nenhuma correção pré-commit.
+3. **`RC-831` Biodemo (maior ficha, 1.129 p.):** quê de demo/dualidade simplória; 5 fontes; quarentena teológica FORTE; ⚪. **`RC-830` Yel Luzbel:** dois 1000 anos/verso de Belquió; 006 sem ficha; ⚪. **`RC-829` Memória (menor, 888 p.):** Charon/arcanos; quarentena acadêmica; 3.4×4.4 (ficha); ⚪. **`RC-828` Arcaico:** calmeias/caldeias verbatim; B037+P2019; 3.3×4.1 (ficha); 162 sem ficha; ⚪. **`RC-827` Colapso:** Bell/geetropia; 162+034 sem ficha; ⚪. **`RC-826` Rebelião:** além das entropias/infinitude memorial; quarentena científica FORTE; 4.5×4.4 (ficha); 330 sem ficha; ⚪.
+4. **Rótulos × títulos:** 316 Morenu×Decifra-me (sem ficha) · 369 Aya/Aye×Nietzsche · 154 Jung×Nidana · 162 Plasma×Elétrons (sem ficha) · 148 Entropia×Agentes da Vida · 378/002/006/099/330 + intra-lote/L94 prefixos; 034 ✓ (sem ficha).
+5. **Divergências (5):** III.11.2 (009/530/565; 632; 2+5) · III.12.1 (049/078/145/582; 002/142/398; 1+8) · IV.19.3 (573/637; 2+2+30+3) · IV.18.3 (518/543/619/732/646; 729/748; 13) · III.16.2 (571/694; 567/568/569/592; 5).
+6. **Seções:** V3.11.02 11→12 · V3.12.01 16→17 · V4.19.03 38→40 · V4.18.03 20→21 · V3.16.02 11→12. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 63 restantes):** por código decrescente — `RC-825`, `RC-824`, `RC-823`, `RC-822`, `RC-821`, `RC-820` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 96).
