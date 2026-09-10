@@ -1970,3 +1970,20 @@ Acumulado: **574 verbetes** · 8.410 verbatim · 6.636 códigos · **0 falhas** 
 6. **Seções:** V4.20.01 20→21 · V3.14.04 7→8 · V1.03.01 9→10 · V3.12.01 15→16 · V3.09.01 22→23 · V3.12.05 3→4. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 75 restantes):** por código decrescente — `RC-837`, `RC-836`, `RC-835`, `RC-834`, `RC-833`, `RC-832` (a confirmar no despacho do Lote 94).
+
+## 10/09/2026 — Lote 94: 12º ANEL, GRAU 0 (6 verbetes, 3.566 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 94 como sugerido.»
+
+`RC-837` Forno de Awaylengan (**III.10.4 — 5º da seção**, 610 p.; ficha 580) · `RC-836` Forno de Awayen (**II.7.4 — 6º da seção**, 593; 733) · `RC-835` Família Aye (**III.11.2 — 10º da seção**, 548; 763) · `RC-834` Família Aya (**III.11.2 — 11º da seção**, 537; 1.080) · `RC-833` 13 Livros de Lúcifer (**V.23.1 — 18º da seção**, 621; 917) · `RC-832` Pulsação dos Elétrons (**IV.19.3 — 38º da seção**, 657; 968).
+
+Acumulado: **580 verbetes** · 8.420 verbatim · 6.755 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 78 de 147 · 69 restantes.**
+
+1. **Ambiente estável** (`618e512` = remoto; limpa). Fichas 580/733/763/1080/917/968 = 5.041 p.; 35 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 10 spans de primeira, **0 falhas** (580/8420/6755/0). Correção pré-commit: notas de método com «» vazios geravam spans-fantasma (espaço) no verificador → reformuladas sem os glifos (8422→8420, exatos).
+3. **`RC-837` Awaylengan (menor ficha, 580 p.):** ZERO «» na ficha — só aspas retas; primeiro forno; lingam; ⚪. **`RC-836` Awayen:** âncora «Awayem»; Central de Realidades; ⚪. **`RC-835` Aye:** remissão→009 com conteúdo; Aie→Aye; ⚪. **`RC-834` Aya (maior, 1.080 p.):** remissão→009 com conteúdo; Aia→Aya; assinatura/anjo incorruptível; ⚪. **`RC-833` 13 Livros:** 13 livros/colapso do caos; 8.1×5.4 (ficha); quarentena autobiográfica FORTE; ⚪. **`RC-832` Pulsação (maior verbete, 657 p.):** afetividade/tribunal; 4.6×4.4 (ficha); QUARENTENA SOCIAL FORTE; ⚪.
+4. **Rótulos × títulos:** 006 "Jesus"×"Guerra do Éden" (sem ficha) · 001 "Anjos Glores"×"Javé" · 330 "Genoma"×"Saraswati" (sem ficha) · 378 "Elétron"×"A Rebelião dos Elétrons" · 002/099/826/827/829 prefixos. Class: ficha prevalece em 833 e 832.
+5. **Divergências (5):** III.10.4 (legenda 102; vols 459/669; 1) · II.7.4 (vol 495; 4) · III.11.2 (legendas 009/530/565; vol 632; 5) · V.23.1 (714/770; vols ×8; 1+6) · IV.19.3 (573/637; 1+35+3).
+6. **Seções:** V3.10.04 4→5 · V2.07.04 5→6 · V3.11.02 9→11 · V5.23.01 17→18 · V4.19.03 37→38. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 69 restantes):** por código decrescente — `RC-831`, `RC-830`, `RC-829`, `RC-828`, `RC-827`, `RC-826` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 95).

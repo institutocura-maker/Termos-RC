@@ -2819,6 +2819,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 75 restantes):** por ordem decrescente — `RC-837`, `RC-836`, `RC-835`, `RC-834`, `RC-833`, `RC-832` (a confirmar no despacho do Lote 94).
 
+### Lote 94 — 12º anel, grau 0 (6 verbetes, 3.566 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 94 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `618e512` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Pulsação dos Elétrons | IV.19.3 | `V4/V4.19.03-RC832-pulsacao-dos-eletrons-como-afetividade-humana.md` | **657** | 968 p. |
+| 13 Livros de Lúcifer | V.23.1 | `V5/V5.23.01-RC833-13-livros-de-lucifer-com-humanos.md` | 621 | 917 p. |
+| Forno de Awaylengan | III.10.4 | `V3/V3.10.04-RC837-forno-de-awaylengan.md` | 610 | **580 p.** |
+| Forno de Awayen | II.7.4 | `V2/V2.07.04-RC836-forno-de-awayen.md` | 593 | 733 p. |
+| Família Aye | III.11.2 | `V3/V3.11.02-RC835-familia-aye.md` | 548 | 763 p. |
+| Família Aya | III.11.2 | `V3/V3.11.02-RC834-familia-aya.md` | **537** | **1.080 p.** |
+
+**Medida final:** 537–657 palavras (média 594) · **10 verbatim byte a byte** · 95 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 78 de 147** (69 restantes; `RC-936` remissiva permanente). Estado: 580 verbetes · **8.420 verbatim · 6.755 códigos · 0 falhas**.
+
+**Achados do lote 94 (6 materializações Motor Único — fornos, Famílias, elétrons):**
+
+1. **`RC-837` Forno de Awaylengan (III.10.4 — 5º da seção; menor ficha do lote, 580 p.):** ZERO spans «» na ficha — verbete sem citação angular, só aspas retas verbatim; primeiro forno a funcionar; lingam/sexualidade; quarentenas teológica + sexualidade; status ⚪ candidato.
+2. **`RC-836` Forno de Awayen (II.7.4 — 6º da seção):** 1 span — «Awayem» (âncora Revisar do mutirão, precedente RC-132/RC-771); nunca funcionou → Central de Realidades; quarentenas ufológica + teológica; status ⚪ candidato.
+3. **`RC-835` Família Aye (III.11.2 — 10º da seção):** ficha-REMISSÃO para RC-009 com conteúdo integral → recebe verbete (≠ RC-936/F045); 2 spans — «foi de Sophia que as Famílias Aya e Aye...» + «desde que a família Aya e Aye...»; "Aie"→Aye; 006 sem ficha; status ⚪ candidato (remissão).
+4. **`RC-834` Família Aya (III.11.2 — 11º da seção; maior ficha do lote, 1.080 p.):** ficha-REMISSÃO para RC-009 com conteúdo integral → recebe verbete; 3 spans — «Esse ser retirou...» + «E os anjos são incorruptíveis.» + «foi de Sophia que as Famílias Aya e Aye...»; "Aia"→Aya; 006 sem ficha; status ⚪ candidato (remissão).
+5. **`RC-833` 13 Livros de Lúcifer (V.23.1 — 18º da seção):** 2 spans — «Então, seria muito bom que Lúcifer...» + «Mas independente de eu publicar livro ou não...»; class ficha 8.1 × cadastro 5.4 (ficha prevalece); quarentena autobiográfica FORTE; status ⚪ candidato.
+6. **`RC-832` Pulsação dos Elétrons (IV.19.3 — 38º da seção):** 2 spans — «Aí surge como afetividade...» + «Os elétrons estão montaram tribunal da Inquisição...»; class ficha 4.6 × cadastro 4.4 (ficha prevalece); QUARENTENA SOCIAL FORTE; 330 sem ficha; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** III.10.4 (legenda ×1 — 102 "Awaylengam"; vol. ×2 — 459/669; 1 seguidor) · II.7.4 (vol. ×1 — 495; 4 seguidores) · III.11.2 (legenda ×3 — 009/530/565; vol. ×1 — 632; 5 seguidores) · V.23.1 (legenda+vol. ×2 — 714/770; vol. ×8; 1+6 seguidores) · IV.19.3 (legenda ×2 — 573/637; 1+35+3 seguidores).
+8. **Seções tocadas:** V3.10.04 4→5 · V2.07.04 5→6 · V3.11.02 9→11 (+2) · V5.23.01 17→18 · V4.19.03 37→38. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 10 spans «» de primeira, 0 falhas. Correção pré-commit: notas de método citavam os glifos «» vazios (fantasmas no verificador) → reformuladas sem os glifos.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Rótulos × títulos:** 006 "Jesus"×"Guerra do Éden" (sem ficha) · 001 "Anjos Glores"×"Javé" · 330 "Genoma"×"Civilização Saraswati" (sem ficha) · 378 "Elétron"×"A Rebelião dos Elétrons" · 002/099/826/827/829 prefixos.
+
+**Próximos (12º anel, grau 0 — 69 restantes):** por ordem decrescente — `RC-831`, `RC-830`, `RC-829`, `RC-828`, `RC-827`, `RC-826` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 95).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
