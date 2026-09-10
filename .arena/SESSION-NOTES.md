@@ -1606,3 +1606,24 @@ Acumulado: **455 verbetes** · 7.881 verbatim · 4.378 códigos · **0 falhas** 
 6. **Seções:** V1.03.02 6→11 (+5) · V2.06.01 10→11. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** seis ⚪ — consistentes ficha = cadastro = ÍNDICE.
 
 **Próximos (11º anel, grau 1 — 47 restantes):** por código decrescente — `RC-627`, `RC-626`, `RC-574`, `RC-555`, `RC-554`, `RC-534` (a confirmar no despacho do Lote 74).
+
+---
+
+## 10/09/2026 — Lote 74: 11º ANEL, GRAU 1 (6 verbetes, 3.905 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com o Lote 74 conforme sugerido.»
+
+`RC-627` Enéade de Heliópolis (**III.15.1 — 6º da seção**, 595 p.; ficha 493) · `RC-626` Universo TÊNET (**II.7.6 — 7º da seção**, 516; 353) · `RC-574` Alcíone (Sistema) (**II.7.3 — 3º da seção**, 611; 400) · `RC-555` Série Mentalma (5 livros + curso) (**V.23.1 — 15º da seção**, 862; 1.048) · `RC-554` Gestão Psíquica e Memórias Complexas (Mentalma II) (**IV.20.1 — 17º da seção**, 795; 727) · `RC-534` Usinas geodésicas de Gizé (engenharia de Thoth) (**V.23.2 — 3º da seção**, 526; 225).
+
+Acumulado: **461 verbetes** · 7.914 verbatim · 4.454 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 18 de 59 · 41 restantes.**
+
+1. **Ambiente estável** (HEAD = remoto = `a8a2cfc` na abertura; árvore limpa) — sem incidente de clone. Fichas lidas integralmente (493/353/400/1.048/727/225 = 3.246 p.); arestas via `dados_termos.py`; 22 pares verificados (6 arestas do lote + 16 sem-aresta).
+2. **Pré-teste:** 33 spans «» byte a byte nos 6 arquivos (3+1+5+11+11+2), **0 falhas** — com 1 correção prévia (RC-555: «Ó Deus» interno da ficha desdobrado em 3 spans exatos); lote limpo no verificador (461 verbetes · 7.914 verbatim · 4.454 códigos · 0 falhas · Base intacta).
+3. **`RC-627` Enéade (III.15.1):** nove deuses × Ogdóade (AGUARDA-ÁUDIO F041-L5); Thot rei ~10.000 anos; Enéade = 9 anunnaki adaptados; segunda geração "ontologicamente posteriores aos oito inengendrados"; **não fusão**; aresta compara-se-a RC-609 (P2026-07-30); RC-626 sem aresta; ⚪.
+4. **`RC-626` TÊNET (II.7.6):** ficha deliberadamente mínima; TÊNET maiúsculas (STT Tênit); ENCERRADO-RATIFICADO F041-L5; aresta rel RC-609; RC-627 sem aresta; ⚪. **`RC-574` Alcíone (II.7.3):** 26.000 anos, 400 e poucos anos-luz, Era de Aquário 2.160; **quarentena científica**; regra de status STT sem áudio; aresta RC-573 associado-a RC-574; RC-567/571 sem aresta; ⚪.
+5. **`RC-555` Série Mentalma (V.23.1 — maior ficha do lote, 1.048 p.):** 7 anunciados/5 publicados + curso; **nome intacto** (curador B074); anterioridade P2020-04-25 6.3 anos; selo D-10; **retenção D-3/D-5 respeitada**; aresta rel RC-166 (B074); RC-548/550/551/552/553/554 sem aresta; 🟡.
+6. **`RC-554` Gestão Psíquica (IV.20.1):** Eu organizador, 4 verbos, fardo espiritual, Dia Meta 10, Pacificação, Grau 6, conectoma mental (spans com **bold** byte a byte); **quarentena O-7**; O-3 sem código; título segue cadastro/ÍNDICE; aresta é-um RC-166 (B075); RC-548/551/550/552/553/555/557 sem aresta; 🟡. **`RC-534` Gizé (V.23.2):** Thoth, blindagem; aresta rel RC-463 (B073); RC-024 sem aresta; **ficha 🟡 × cadastro/ÍNDICE ⚪** (padrão RC-010).
+7. **Divergências de legenda anotadas, não harmonizadas (6):** III.15.1 (RC-610/664/696/701 × RC-609) · II.7.6 (RC-471/730; RC-496/731; RC-775 × RC-776) · II.7.3 (RC-589 + midgard × RC-103) · V.23.1 (RC-714/770; 8 escrituras × RC-080/417/683/887) · IV.20.1 (5 transformação; 4 autonomia; RC-724 caminho; RC-268/644 vol × RC-566/670/759/762) · V.23.2 (fornos × RC-773/774).
+8. **Seções:** V3.15.01 5→6 · V2.07.06 6→7 · V2.07.03 2→3 · V5.23.01 14→15 · V4.20.01 16→17 · V5.23.02 2→3. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** RC-555/554 🟡 consistentes; RC-627/626/574 ⚪ consistentes; RC-534 divergente (segue cadastro/ÍNDICE).
+
+**Próximos (11º anel, grau 1 — 41 restantes):** por código decrescente — `RC-528`, `RC-500`, `RC-497`, `RC-494`, `RC-466`, `RC-464` (a confirmar no despacho do Lote 75).

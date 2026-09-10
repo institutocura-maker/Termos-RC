@@ -2179,6 +2179,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 47 restantes):** por ordem decrescente — `RC-627`, `RC-626`, `RC-574`, `RC-555`, `RC-554`, `RC-534` (a confirmar no despacho do Lote 74).
 
+### Lote 74 — 11º anel, grau 1 (6 verbetes, 3.905 palavras)
+
+**Despacho do Curador:** «Beleza, em frente com o Lote 74 conforme sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `a8a2cfc` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Série Mentalma (5 livros + curso) | V.23.1 | `V5/V5.23.01-RC555-serie-mentalma-5-livros-curso.md` | **862** | **1.048 p.** |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | IV.20.1 | `V4/V4.20.01-RC554-gestao-psiquica-e-memorias-complexas.md` | 795 | 727 p. |
+| Alcíone (Sistema) | II.7.3 | `V2/V2.07.03-RC574-alcione-sistema.md` | 611 | 400 p. |
+| Enéade de Heliópolis | III.15.1 | `V3/V3.15.01-RC627-eneade-de-heliopolis.md` | 595 | 493 p. |
+| Usinas geodésicas de Gizé (engenharia de Thoth) | V.23.2 | `V5/V5.23.02-RC534-usinas-geodesicas-de-gize.md` | 526 | 225 p. |
+| Universo TÊNET | II.7.6 | `V2/V2.07.06-RC626-universo-tenet.md` | **516** | 353 p. |
+
+**Medida final:** 516–862 palavras (média 651) · **33 verbatim byte a byte** · 65 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 18 de 59** (41 restantes). Estado: 461 verbetes · **7.914 verbatim · 4.454 códigos · 0 falhas**.
+
+**Achados do lote 74 (Mentalma, Egito e Alcíone):**
+
+1. **`RC-627` Enéade de Heliópolis (III.15.1 — 6º da seção):** «A história contada em Heliópolis [...] fala não em Ogdóade, mas em Enéade, ou seja, nove deuses.» (P2026-07-30); Ogdóade × Enéade sob **AGUARDA-ÁUDIO** (F041-L5, mutirão liquidado); Thot rei de Heliópolis há ~10.000 anos; «o conceito de Enéade... foi uma adaptação posterior que iniciados fizeram para adequar os nove principais anunnaki ao divino do Egito...»; «se havia o Díog em Hermópolis [ogdóade], o de Enéade são nove seres» — segunda geração, "ontologicamente posteriores aos oito inengendrados"; **não fusão** dos esquemas; aresta: `RC-627` compara-se-a `RC-609` (P2026-07-30); `RC-626` sem aresta; status ⚪ candidato.
+2. **`RC-626` Universo TÊNET (II.7.6 — 7º da seção):** ficha **deliberadamente mínima** — «Dos mistérios de Hermópolis ao Universo TÊNET.» (P2026-07-30, anúncio do encontro de Goiânia); grafia canônica TÊNET em maiúsculas (STT "Tênit"); correlação Ogdóade **ENCERRADA-RATIFICADA** (F041-L5, cadastro com primazia); aresta: `RC-626` relaciona-se-a `RC-609` (P2026-07-30); `RC-627` sem aresta; status ⚪ candidato.
+3. **`RC-574` Alcíone (Sistema) (II.7.3 — 3º da seção):** «O sistema de Alcíone teria [...] um campo em torno da órbita.»; os 26.000 anos («um giro completo em torno dessa estrela chamada [Alcíone]; essa estrela tá aí aos 400 e poucos anos luz da Terra»); a Era de Aquário (2.160 anos); tempos de escuridão fora do campo de fótons; espíritos exilados nascendo como humanos no mundo regenerado — tudo sob **quarentena científica**; grafia validada pelo curador (pré-curadoria P2022-12-17); **regra de status** (STT sem áudio); aresta: `RC-573` associado-a `RC-574` (P2022-12-17); `RC-567`/`RC-571` sem aresta; status ⚪ candidato.
+4. **`RC-555` Série Mentalma (5 livros + curso) (V.23.1 — 15º da seção; maior ficha do lote, 1.048 p.):** 7 partes anunciadas em 2020, 5 publicadas (B074–B078) + curso; VI/VII anunciados (B076–B078 sem PDF, sinopse Amazon); **nome intacto** (decisão do curador, ciclo B074); anterioridade P2020-04-25 («eu só vou dar cinco, talvez seis, no máximo, certo, mas nunca oito.» — 6.3 anos, selada sem alterar a cronologia); «O mentalma é o sanquia atualizado pros tempos modernos...» (selo D-10); «O mentalma que eu produzi hoje, ele não era para ser público.»; **retenção D-3/D-5 respeitada** (a frase sobre as religiões não transita — não citada); aresta: `RC-555` relaciona-se-a `RC-166` (B074); `RC-548`/`RC-550`/`RC-551`/`RC-552`/`RC-553`/`RC-554` sem aresta; status 🟡 provisório.
+5. **`RC-554` Gestão Psíquica e Memórias Complexas (Mentalma II) (IV.20.1 — 17º da seção):** conceito central do *Mentalma II* — o «Eu organizador», «capturar, organizar, colecionar e deletar», o «fardo espiritual», o «Dia Meta 10», a «Pacificação Pessoal, o fim de todos os medos» («rompi com todos os medos e receios»), o «Maestria da Arquitetura do Projeto Espiritual de Vida», o «conectoma mental» (RC-557); spans com negrito da ficha reproduzidos byte a byte; **quarentena O-7** (PKMzeta/hipnose/Phowa jamais terapia; NDEs/milagres/canalizações fora da ontologia); Dia Meta 10 e 6º grau sem código (O-3); título segue cadastro/ÍNDICE (ficha sem o complemento); aresta: `RC-554` é-um `RC-166` (B075); `RC-548`/`RC-551`/`RC-550`/`RC-552`/`RC-553`/`RC-555`/`RC-557` sem aresta; status 🟡 provisório.
+6. **`RC-534` Usinas geodésicas de Gizé (V.23.2 — 3º da seção):** engenharia de Thoth, tecnologia anunnaki preservada no Egito; «a compreensão cosmológica quântica da ancestralidade...»; «Nas pirâmides não tem nada de inscrição, é tudo escondido...»; **blindagem** (leitura do autor, sem validação arqueológica); aresta: `RC-534` relaciona-se-a `RC-463` (B073); `RC-024` sem aresta; **divergência de status** (ficha 🟡 × cadastro/ÍNDICE ⚪ — verbete segue cadastro/ÍNDICE, mesmo padrão do RC-010, lote 71).
+7. **Divergências de legenda anotadas, não harmonizadas (6 subseções):** III.15.1 ("As grandes linhagens" RC-610; "Genealogias e linhagens" RC-664/696; "As descendências" RC-701 × ÍNDICE — RC-609 + RC-627) · II.7.6 (RC-471/730 campos; RC-496/731 vol. curto; RC-775 sem vol. × ÍNDICE — RC-776 + RC-626) · II.7.3 (RC-589 + midgard vol. curto × ÍNDICE — RC-103 + RC-574) · V.23.1 (RC-714/770 Flechas; 8 escrituras × ÍNDICE — RC-080/417/683/887 + RC-555) · IV.20.1 ("A transformação humana" ×5; "Autonomia consciencial" ×4; "O caminho e a prática" RC-724; RC-268/644 vol. "Doutrina e vida espiritual" × ÍNDICE — RC-566/670/759/762 + RC-554) · V.23.2 (fornos-replicadores "Os últimos avisos" × ÍNDICE — RC-773/774 + RC-534).
+8. **Seções tocadas:** V3.15.01 5→6 · V2.07.06 6→7 · V2.07.03 2→3 · V5.23.01 14→15 · V4.20.01 16→17 · V5.23.02 2→3. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste limpo após 1 correção prévia (RC-555: span com «Ó Deus» interno da ficha desdobrado em 3 spans exatos antes do pré-teste; 33/33 no verificador).
+10. **Statuses:** RC-555/554 🟡 provisório — consistentes; RC-627/626/574 ⚪ candidato — consistentes; **RC-534 divergente** (ficha 🟡 × cadastro/ÍNDICE ⚪).
+
+**Próximos (11º anel, grau 1 — 41 restantes):** por ordem decrescente — `RC-528`, `RC-500`, `RC-497`, `RC-494`, `RC-466`, `RC-464` (a confirmar no despacho do Lote 75).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
