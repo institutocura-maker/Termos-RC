@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.3 Cultos / Religiões / Liturgias |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética

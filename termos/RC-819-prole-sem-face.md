@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS ANTROPOLÓGICOS |
 | **Subcategoria** | 3.1 Natureza humana / Consciência |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
