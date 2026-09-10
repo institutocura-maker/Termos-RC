@@ -2004,3 +2004,20 @@ Acumulado: **586 verbetes** · 8.432 verbatim · 6.931 códigos · **0 falhas** 
 6. **Seções:** V3.11.02 11→12 · V3.12.01 16→17 · V4.19.03 38→40 · V4.18.03 20→21 · V3.16.02 11→12. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 63 restantes):** por código decrescente — `RC-825`, `RC-824`, `RC-823`, `RC-822`, `RC-821`, `RC-820` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 96).
+
+## 10/09/2026 — Lote 96: 12º ANEL, GRAU 0 (6 verbetes, 4.098 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 96 como sugerido.»
+
+`RC-825` Código Genético (**IV.18.3 — 21º da seção**, 703 p.; ficha 774) · `RC-824` Greve de Fome (**IV.19.1 — 19º da seção**, 744; 872) · `RC-823` Vechame (**IV.21.1 — 23º da seção**, 651; 648) · `RC-822` Mahatma Magant (**III.13.4 — 7º da seção**, 657; 679) · `RC-821` Soca (**III.10.1 — 5º da seção**, 592; 709) · `RC-820` Perfume (**IV.19.3 — 41º da seção**, 751; 692).
+
+Acumulado: **592 verbetes** · 8.443 verbatim · 7.081 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 90 de 147 · 57 restantes.**
+
+1. **Ambiente estável** (`3794028` = remoto; limpa). Fichas 774/872/648/679/709/692 = 4.374 p.; 36 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 11 spans de primeira, **0 falhas** (592/8443/7081/0). Nenhuma correção pré-commit.
+3. **`RC-825` Código:** espíritos infectados/cadáver alheio; 3.2×4.1 (ficha); ⚪. **`RC-824` Greve (maior ficha, 872 p.):** desestruturação/jejum; relato autobiográfico parafraseado; quarentena autobiográfica FORTE; 4.4-ascéticas×4.2 (ficha); ⚪. **`RC-823` Vechame (menor, 648 p.):** 1 span; ≠ estoicismo/budismo; 5.2×2.6 (ficha); Brama; ⚪. **`RC-822` Magant:** à frente/desde 2015; Magant×Gandhi; 1.7 nome diverso; ⚪. **`RC-821` Soca:** trimurte/protagonista; ≠ Sokar; hub 104 na seção; ⚪. **`RC-820` Perfume:** melhor perfume/Socar-gêmeo (+1 colchete × 821); quarentena demonológica FORTE; 4.3×4.4 (ficha); ⚪.
+4. **Rótulos × títulos:** 148 Shiva×Agentes da Vida (×4) · 001 Javé (Brama)×Javé · 037/727/807/806/335/003 ✓/prefixos · intra-lote prefixos. Nenhum sem-ficha.
+5. **Divergências (5):** IV.18.3 (518/543/619/732/646; 729/748; 13) · IV.19.1 (285+vol-utopia-erro-L78/529/548/613/699/713; 517; 11) · IV.21.1 (253/335; vol unânime; 20) · III.13.4 (645/649; vol unânime; 4) · III.10.1 (575/104-hub; vol unânime; 2).
+6. **Seções:** V4.18.03 20→21 · V4.19.01 18→19 · V4.21.01 22→23 · V3.13.04 6→7 · V3.10.01 4→5 · V4.19.03 40→41. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 57 restantes):** por código decrescente — `RC-819`, `RC-818`, `RC-817`, `RC-816`, `RC-815`, `RC-814` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 97).

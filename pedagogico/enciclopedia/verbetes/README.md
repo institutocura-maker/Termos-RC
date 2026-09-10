@@ -2883,6 +2883,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 63 restantes):** por ordem decrescente — `RC-825`, `RC-824`, `RC-823`, `RC-822`, `RC-821`, `RC-820` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 96).
 
+### Lote 96 — 12º anel, grau 0 (6 verbetes, 4.098 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 96 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `3794028` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Alimentação por Perfume | IV.19.3 | `V4/V4.19.03-RC820-alimentacao-por-perfume.md` | **751** | 692 p. |
+| Greve de Fome Genética | IV.19.1 | `V4/V4.19.01-RC824-greve-de-fome-genetica.md` | 744 | **872 p.** |
+| Código Genético | IV.18.3 | `V4/V4.18.03-RC825-codigo-genetico-marca-demoniaca.md` | 703 | 774 p. |
+| Mahatma Magant | III.13.4 | `V3/V3.13.04-RC822-mahatma-magant-libertador.md` | 657 | 679 p. |
+| Vechame Existencial | IV.21.1 | `V4/V4.21.01-RC823-vechame-existencial.md` | 651 | **648 p.** |
+| Soca Receptor Universal | III.10.1 | `V3/V3.10.01-RC821-soca-receptor-universal.md` | **592** | 709 p. |
+
+**Medida final:** 592–751 palavras (média 683) · **11 verbatim byte a byte** · 124 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 90 de 147** (57 restantes; `RC-936` remissiva permanente). Estado: 592 verbetes · **8.443 verbatim · 7.081 códigos · 0 falhas**.
+
+**Achados do lote 96 (o bloco genético/alimentação demoníaca — P2019-04-14, 820–825):**
+
+1. **`RC-825` Código Genético (IV.18.3 — 21º da seção):** 2 spans — «os nossos espíritos hoje guardam o reflexo...» + «...cadáver alenho [alheio]»; quarentena científica; class ficha 3.2 × cadastro 4.1; status ⚪ candidato.
+2. **`RC-824` Greve de Fome (IV.19.1 — 19º da seção; maior ficha do lote, 872 p.):** 2 spans — a desestruturação + o jejum como arma (relato autobiográfico extenso parafraseado, não citado); QUARENTENA AUTOBIOGRÁFICA FORTE — gesto simbólico-político, autor salvo, recomenda o jejum; subclasse 4.4 "ascéticas" × 4.2; status ⚪ candidato.
+3. **`RC-823` Vechame (IV.21.1 — 23º da seção; menor ficha do lote, 648 p.):** 1 span — «...Isso chama-se vechame existencial»; quarentena filosófica (≠ estoicismo/budismo/niilismo); class ficha 5.2 × cadastro 2.6; "Brama" na tabela; status ⚪ candidato.
+4. **`RC-822` Mahatma Magant (III.13.4 — 7º da seção):** 2 spans — «...o espírito do Mahatma Magant está à frente...» + «Essa história só se enfouqueceu a partir de 2015...»; quarentena metodológica (Magant × Mahatma/Gandhi); subclasse 1.7 com nome diverso; status ⚪ candidato.
+5. **`RC-821` Soca (III.10.1 — 5º da seção):** 2 spans — «Socar, por sua vez... trimurte...» + «...ele o [protagonista]»; quarentena mitológica (≠ Sokar puro); seção com o hub RC-104 publicado ("A Trimurti hindu"); status ⚪ candidato.
+6. **`RC-820` Perfume (IV.19.3 — 41º da seção):** 2 spans — «...o melhor perfume...» + Socar (gêmeo do RC-821 com um colchete a mais — cada verbete segue a sua ficha); QUARENTENA DEMONOLÓGICA FORTE; subclasse 4.3 × 4.4; 9 códigos na tabela; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** IV.18.3 (legenda ×5 — 518/543/619/732/646; vol. ×2 — 729/748; 13 seguidores) · IV.19.1 (legenda ×6 — 285 [+vol. "A utopia", erro L78]/529/548/613/699/713; vol. ×1 — 517; 11 seguidores) · IV.21.1 (legenda ×2 — 253/335; vol. unânime; 20 seguidores) · III.13.4 (legenda ×2 — 645/649; vol. unânime; 4 seguidores) · III.10.1 (legenda ×2 — 575/104-hub; vol. unânime; 2 seguidores).
+8. **Seções tocadas:** V4.18.03 20→21 · V4.19.01 18→19 · V4.21.01 22→23 · V3.13.04 6→7 · V3.10.01 4→5 · V4.19.03 40→41. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 11 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Rótulos × títulos:** 148 "Shiva (Chiva)"×"Agentes da Vida Universal" (×4 fichas) · 001 "Javé (Brama)"×"Javé" · 037/727/807/806/335/003 ✓ ou prefixos · intra-lote 820–825 prefixos. Nenhum sem-ficha no lote.
+
+**Próximos (12º anel, grau 0 — 57 restantes):** por ordem decrescente — `RC-819`, `RC-818`, `RC-817`, `RC-816`, `RC-815`, `RC-814` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 97).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
