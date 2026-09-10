@@ -231,8 +231,8 @@ TERMOS = [
     ("RC-147", "Zont En Drel 29", SER_ANJ[0], SER_ANJ[1], 'em análise', ['B031', 'B015', 'P2025-10-25', 'P2025-06-26', 'P2023-07-30', 'P2022-03-26', "P2024-06-16"], "RC-055; RC-019; RC-001; RC-006; RC-651; RC-652", True),
 
     # ---- Novos termos de B024 (obra primária: A Epopeia dos Agentes da Vida Universal, 2019)
-    ("RC-148", "Agentes da Vida Universal", SER_LOG[0], SER_LOG[1], 'em análise', ["B031", "B024", "B001", "B002", "B014", "B005", "P2020-04-04"], "RC-149; RC-150; RC-160; RC-106; RC-107", True),
-    ("RC-149", "Mônada (Mônada Espiritual)", SER_LOG[0], SER_LOG[1], "em análise", ['B024', 'B001', 'B002', 'B048', 'P2021-12-04', 'P2024-05-04', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09'], 'RC-148; RC-100; RC-012; RC-603; RC-653', True),
+    ("RC-148", "Agentes da Vida Universal", SER_LOG[0], SER_LOG[1], "verificado", ["B031", "B024", "B001", "B002", "B014", "B005", "P2020-04-04"], "RC-149; RC-150; RC-160; RC-106; RC-107", True),
+    ("RC-149", "Mônada (Mônada Espiritual)", SER_LOG[0], SER_LOG[1], "verificado", ['B024', 'B001', 'B002', 'B048', 'P2021-12-04', 'P2024-05-04', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09'], 'RC-148; RC-100; RC-012; RC-603; RC-653', True),
     ("RC-150", "Xadrez Cósmico", COS_COG[0], "2.1 Cosmogonia / Criação", "em análise", ["B024"], "RC-104; RC-075; RC-148; RC-152", True),
     ("RC-151", "Gunas Criadoras (Sattva, Rajas, Tamas)", TER_SAN[0], TER_SAN[1], "em análise", ['B024', 'P2024-09-29', 'P2024-02-03', 'P2024-09-28', 'P2024-11-03', "P2012-02-19", "P2021-04-10"], 'RC-102; RC-135; RC-152; RC-037', True),
     ("RC-152", "Prabrajna", SER_DIV[0], SER_DIV[1], "verificado", ['B024', 'B044', 'B001', 'B016', 'B013', 'B022', 'B060', 'B061', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'P2024-03-02', 'B089', 'P2024-11-03', "P2024-06-16", "P2021-06-26"], 'RC-151; RC-150; RC-037; RC-094; RC-087; RC-628; RC-629; RC-638; RC-691; RC-604; RC-167; RC-530; RC-559', True),
@@ -352,7 +352,7 @@ TERMOS = [
     ("RC-251", "Laboratórios do Criador", COS_COG[0], COS_COG[1], P, ['B015', 'P2024-09-29'], 'RC-242; RC-041; RC-090; RC-167', False),
 
     # ---- Novos termos de B016 (obra primária: O Quarto Logos, 2017)
-    ("RC-252", "Olm (Codificador de Zion/Zian)", SER_LOG[0], SER_LOG[1], 'em análise', ['B016', 'B057', 'B060', 'P2021-12-04', 'P2024-08-03'], "RC-092; RC-253; RC-256; RC-257", True),
+    ("RC-252", "Olm (Codificador de Zion/Zian)", SER_LOG[0], SER_LOG[1], "verificado", ['B016', 'B057', 'B060', 'P2021-12-04', 'P2024-08-03'], "RC-092; RC-253; RC-256; RC-257", True),
     ("RC-253", "Liberdade Mental (premissa do Quarto Logos)", COS_ETI[0], COS_ETI[1], "em análise", ['B016', 'B014', 'B005', 'B049', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2023-12-03'], 'RC-092; RC-252; RC-254; RC-167; RC-566; RC-618; RC-619; RC-620; RC-695; RC-702; RC-703', True),
     ("RC-254", "Dominação (premissa dos Três Primeiros Logos)", COS_ETI[0], COS_ETI[1], P, ['B016', 'P2024-09-29'], 'RC-104; RC-253; RC-176', False),
     ("RC-255", "A Mensagem do Codificador de Zion", TEC_ESC[0], TEC_ESC[1], P, ["B016"], "RC-252; RC-253; RC-071", False),
@@ -418,10 +418,10 @@ TERMOS = [
     ("RC-307", "Hefesto", SER_DEC[0], SER_DEC[1], "verificado", ["B020", "B021", "B060", 'B087', 'B088', "P2021-05-15"], "RC-145; RC-086; RC-285", True),
 
     # ---- Novos termos de B022 (obra primária: Inquisição Trimurtiana — Tempo de Apostasia)
-    ("RC-308", "Adhytia (nível hierárquico)", SER_LOG[0], SER_LOG[1], "em análise", ["B022"], "RC-104; RC-311; RC-011; RC-094", True),
+    ("RC-308", "Adhytia (nível hierárquico)", SER_LOG[0], SER_LOG[1], "verificado", ["B022"], "RC-104; RC-311; RC-011; RC-094", True),
     ("RC-309", "Ordem dos Indecifráveis", SER_LOG[0], SER_LOG[1], P, ["B022"], "RC-308; RC-311; RC-104", False),
     ("RC-310", "Adhyshprabrajna (Adhy que caiu)", SER_DIV[0], SER_DIV[1], "verificado", ['B022', 'B051', 'P2021-12-04'], "RC-152; RC-037; RC-013; RC-094", True),
-    ("RC-311", "Adhyagya (formas espirituais Adhy)", SER_LOG[0], SER_LOG[1], "em análise", ["B022"], "RC-012; RC-308; RC-309; RC-102; RC-135", True),
+    ("RC-311", "Adhyagya (formas espirituais Adhy)", SER_LOG[0], SER_LOG[1], "verificado", ["B022"], "RC-012; RC-308; RC-309; RC-102; RC-135", True),
     ("RC-312", "Criação Bipartida", COS_DIM[0], COS_DIM[1], P, ['B022', 'P2024-11-30'], 'RC-106; RC-107; RC-167; RC-094', False),
     ("RC-313", "Tempo de Apostasia", EVE_ERA[0], EVE_ERA[1], P, ["B022"], "RC-104; RC-300; RC-314; RC-094", False),
     ("RC-314", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], "em análise", ['B022', 'B035', 'P2025-03-15'], 'RC-313; RC-300; RC-104; RC-094; RC-572; RC-578; RC-690; RC-155; RC-070; RC-203', True),  # [F045-MERGE 07-09-2026] absorveu RC-203 (homonimo de B035, candidato sem ficha): fontes e referencias unificadas aqui. Remissiva em RC-203.
@@ -541,7 +541,7 @@ TERMOS = [
     ("RC-408", "ADHYMAVATANA (nome completo de Mavatna/Vishnu)", SER_DIV[0], SER_DIV[1], 'em análise', ['B051', 'B060', 'B061', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-11-30'], 'RC-135; RC-014; RC-013; RC-094; RC-604', True),
     ("RC-409", "ADHYSAVNA (nome completo de Savna/Shiva)", SER_DIV[0], SER_DIV[1], 'em análise', ['B051', 'B060', 'B061', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-11-30', 'P2023-06-24', "P2022-05-07"], 'RC-102; RC-014; RC-013; RC-094', True),
     ("RC-410", "ADHYPRABRAJNA (grafia do diagrama)", SER_DIV[0], SER_DIV[1], "em análise", ['B051', 'B060', 'B061', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-11-30'], 'RC-310; RC-152; RC-037; RC-094; RC-604', True),
-    ("RC-411", "Gênero Adhy (147 seres, 5 espécies)", SER_LOG[0], SER_LOG[1], "em análise", ['B051', 'B022', 'P2021-12-04', 'P2024-05-04', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09'], 'RC-011; RC-012; RC-013; RC-014; RC-015; RC-016; RC-094; RC-455; RC-605; RC-087; RC-635', True),
+    ("RC-411", "Gênero Adhy (147 seres, 5 espécies)", SER_LOG[0], SER_LOG[1], "verificado", ['B051', 'B022', 'P2021-12-04', 'P2024-05-04', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09'], 'RC-011; RC-012; RC-013; RC-014; RC-015; RC-016; RC-094; RC-455; RC-605; RC-087; RC-635', True),
     ("RC-412", "Emissários Humanos (Enoch, Abraão, Moisés, Jesus)", SER_HUM[0], SER_HUM[1], P, ["B051", "B060", "B061"], 'RC-094; RC-072; RC-270', False),
     ("RC-413", "Hara (avatar de Shiva)", SER_EXT[0], SER_EXT[1], "em análise", ["B051", "B024", "P2022-05-07"], "RC-102; RC-073; RC-094", True),
     ("RC-414", "Krishna (avatar de Vishnu/Shiva)", SER_EXT[0], SER_EXT[1], "em análise", ['B051', 'B023', 'B036', 'B061', 'P2025-02-16', 'P2024-11-30', 'P2024-03-02', 'P2023-12-02', 'P2024-09-28', 'P2025-11-29', 'P2023-06-25', 'P2023-05-20', 'P2023-04-30', 'P2023-10-14', 'P2022-03-26', 'P2023-12-03', "P2022-05-07", "P2024-06-16", "P2023-08-27", "P2022-11-26", "P2022-07-16"], 'RC-135; RC-102; RC-094; RC-183; RC-714; RC-717; RC-584; RC-016; RC-009; RC-757; RC-425; RC-073; RC-694; RC-582; RC-722', True),
@@ -593,7 +593,7 @@ TERMOS = [
     ("RC-453", "Hostes de Sophia", SER_COL[0], SER_COL[1], "em análise", ["B057", "B058", 'P2020-08-08', 'P2021-05-08', 'P2023-12-03'], "RC-009; RC-450; RC-036", True),
     ("RC-454", "Elm (Moros — ser LM de Tempérion)", SER_LOG[0], SER_LOG[1], 'em análise', ['B060', 'P2022-12-17', 'P2021-12-04', 'P2026-07-30', 'P2026-04-02', 'P2025-10-25', 'P2025-06-26', 'P2024-11-30', 'P2024-09-29', 'P2024-07-14', 'P2024-03-02', 'P2024-02-03', 'P2023-05-13', 'P2023-12-02', 'P2025-11-29', 'P2024-08-03', 'P2021-05-08', 'P2021-09-04', 'P2023-04-01b', 'P2025-02-22', 'P2025-07-18', "P2018-12-15", "P2022-10-01", "P2022-09-25"], 'RC-456; RC-071; RC-190; RC-436; RC-396; RC-061; RC-472; RC-604; RC-607; RC-609; RC-611; RC-087; RC-620; RC-608; RC-167; RC-081; RC-658; RC-665; RC-714; RC-715; RC-716; RC-718; RC-467; RC-585; RC-659; RC-770', True),
     ("RC-455", "Pashvnaj (espécie de 43 seres do Gênero Adhy)", SER_COL[0], SER_COL[1], 'em análise', ['B060', 'P2021-12-04', 'P2024-05-04'], "RC-152; RC-102; RC-408; RC-087; RC-061; RC-457; RC-411; RC-629", True),
-    ("RC-456", "Ser LM (gênero de Tempérion)", SER_LOG[0], SER_LOG[1], 'em análise', ['B060', 'P2021-12-04', 'P2024-11-30'], 'RC-092; RC-454; RC-061; RC-472; RC-087; RC-605; RC-607; RC-608; RC-635', True),
+    ("RC-456", "Ser LM (gênero de Tempérion)", SER_LOG[0], SER_LOG[1], "verificado", ['B060', 'P2021-12-04', 'P2024-11-30'], 'RC-092; RC-454; RC-061; RC-472; RC-087; RC-605; RC-607; RC-608; RC-635', True),
     ("RC-457", "Sarasvati (consorte de Brahma, Tridevi)", SER_DIV[0], SER_DIV[1], P, ['B060', 'P2021-12-04', 'P2024-07-14'], 'RC-455; RC-037; RC-104; RC-610', False),
     ("RC-458", "Lakshimi (consorte de Vishnu, Tridevi)", SER_DIV[0], SER_DIV[1], P, ['B060', 'P2021-12-04', 'P2024-07-14'], 'RC-455; RC-408; RC-104; RC-610', False),
     ("RC-459", "Parvathi (consorte de Shiva, Tridevi)", SER_DIV[0], SER_DIV[1], 'em análise', ['B060', 'P2021-12-04', 'P2024-07-14', "P2022-05-07"], 'RC-455; RC-409; RC-104; RC-610', True),
@@ -690,7 +690,7 @@ TERMOS = [
     ("RC-550", "Vontade de Progredir (chave dos arquivos mentais)", COS_ETI[0], COS_ETI[1], "verificado", ['B074', 'B075', 'P2025-02-15'], 'RC-548; RC-166', True),
     ("RC-551", "Dehatma Buddhi (doença psíquica da mente identificada com o corpo)", COS_ETI[0], COS_ETI[1], "em análise", ['B074', 'B075', 'P2025-02-15', "P2012-02-19"], 'RC-166; RC-548; RC-702', True),
     ("RC-552", "Disciplina dos 3As (respiração, mente, alinhamento)", COS_ESP[0], COS_ESP[1], "verificado", ['B074', 'B075', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-04-14', "P2026-03-21"], 'RC-166; RC-553; RC-618; RC-633; RC-695; RC-703; RC-706; RC-712', True),
-    ("RC-553", "Eu Profundo (nível espiritual do Eu)", SER_LOG[0], SER_LOG[1], "em análise", ['B074', 'B075', 'P2026-07-30', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'ART-2026-08-18'], 'RC-166; RC-552; RC-620; RC-704; RC-708; RC-719', True),
+    ("RC-553", "Eu Profundo (nível espiritual do Eu)", SER_LOG[0], SER_LOG[1], "verificado", ['B074', 'B075', 'P2026-07-30', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'ART-2026-08-18'], 'RC-166; RC-552; RC-620; RC-704; RC-708; RC-719', True),
     ("RC-554", "Gestão Psíquica e Memórias Complexas (Mentalma II)", COS_ESP[0], COS_ESP[1], "verificado", ['B075', 'P2025-02-15', 'ART-2026-08-18'], 'RC-166; RC-548; RC-551', True),
     ("RC-555", "Série Mentalma (5 livros + curso)", TEC_ESC[0], TEC_ESC[1], "em análise", ["B074", "B075", 'P2026-08-04', "P2020-04-25", "P2022-03-26"], "RC-166; RC-548", True),
     ("RC-556", "Senhor Parameshthi / Brahma Parameshthi (face atual de Javé)", SER_DIV[0], SER_DIV[1], "em análise", ['P2024-02-25', 'P2024-11-30'], 'RC-001; RC-037; RC-561; RC-104; RC-585; RC-437; RC-074', True),
