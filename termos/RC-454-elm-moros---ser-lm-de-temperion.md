@@ -168,6 +168,7 @@ No mapeamento de B060, os **5 eons da Espiritualidade Laboratorial** são: Praba
 Val El / Jan Val Ellam (RC-071); Kardec; Olm (RC-092, colega eon); Prabajna/Javé (RC-001), Mavatina/Vishnu, Savna/Shiva (eons companheiros).
 
 ## Observações
+- **Dúvida ortográfica ABERTA (Curador, 10/09/2026, P6aj):** alunos da RC grafam "Ealm"; Base grafa "Elm (Moros)". Áudios não dirimem — aguardar evidência escrita (telas de apresentação das palestras de Ellam). Termo excluído da leva 🟢 até a confirmação; fica 🟠.
 **Informação sensível:** a cadeia "Elm → Val El → Jan Val Ellam" e "Elm → Kardec" vem de material de aluno (B060) e precisa de confirmação nas obras primárias antes de subir de status. O documento também lista avatares como Enoch, Jacó, Kapila, Boécio, Vyasa, Metraton, Niccolo Polo e o "Aluno de Platão" — registrados no `leitura-B060.md`. Cruzar com RC-412 (Emissários Humanos) e RC-424 (Linhagem dos Escolhidos).
 
 ---
