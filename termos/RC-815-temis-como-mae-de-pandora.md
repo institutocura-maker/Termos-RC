@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Titãs / Deuses Menores / Semideuses |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética

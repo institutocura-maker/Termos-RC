@@ -539,7 +539,7 @@
 | RC-807 | padrao-de-consciencia-genetico-por-especie | Padrão de Consciência Genético por Espécie |
 | RC-808 | era-da-solidao-de-jave | Era da Solidão de Javé (500 Milhões de Anos) |
 | RC-809 | pandemia-buraco-branco-que-traga | Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) |
-| RC-810 | chiva-como-primeiro-demo | Chiva como Primeiro Demo (Saiu do Clone Destruído) |
+| RC-810 | shiva-como-primeiro-demo | Shiva como Primeiro Demo (Saiu do Clone Destruído) |
 | RC-811 | fissao-de-dois-universos | Fissão de Dois Universos (Matéria + Antimatéria) |
 | RC-812 | prometeu-como-saca-nica | Prometeu como Saca-Nica dos Olímpicos |
 | RC-813 | culto-a-lilith-babilonia | Culto a Lilith (Transformação em Deusa Lil Babilônica) |

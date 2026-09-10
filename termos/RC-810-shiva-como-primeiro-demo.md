@@ -1,20 +1,20 @@
-# Chiva como Primeiro Demo (Saiu do Clone Destruído) — RC-810
+# Shiva como Primeiro Demo (Saiu do Clone Destruído) — RC-810
 
 | Campo | Valor |
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
+| **Status** | 🟢 Verificado |
+| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2017-05-14**, U0002/U0003) de que **Chiva (Shiva, RC-148) é o primeiro demo da história** — saiu do corpo destruído de um clone de Brama (Javé, RC-001). "Demo é apenas um indivíduo que não tem um corpo fixo, mas tem uma forma mental que se leva fazer ele. Qual o drama faz efeito? Esse chima quando surgiu, surgiu aqui dentro do drama lóc." Chiva começou a fazer a mesma coisa que Javé tinha feito por clonagem — criar sedes (descendentes) a partir dele, "diversas classes". Cada demo que surgia de Chiva queria uma loca para ele, propagando a "doença da arrogância ou da petulância da que existia na podridão genética de Brama". Ver RC-148 (Shiva), RC-001 (Javé/Brama), RC-149 (Zeus, descendente de Chiva).
+Tese (leitura do autor, palestra **P2017-05-14**, U0002/U0003) de que **Shiva (Chiva no STT, RC-148) é o primeiro demo da história** — saiu do corpo destruído de um clone de Brama (Javé, RC-001). "Demo é apenas um indivíduo que não tem um corpo fixo, mas tem uma forma mental que se leva fazer ele. Qual o drama faz efeito? Esse chima quando surgiu, surgiu aqui dentro do drama lóc." Shiva começou a fazer a mesma coisa que Javé tinha feito por clonagem — criar sedes (descendentes) a partir dele, "diversas classes". Cada demo que surgia de Shiva queria uma loca para ele, propagando a "doença da arrogância ou da petulância da que existia na podridão genética de Brama". Ver RC-148 (Shiva), RC-001 (Javé/Brama), RC-149 (Zeus, descendente de Shiva).
 
 ## Contexto / Origem
-Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconstruiu (RC-808), ele começou a criar clones (anjos glores). Um dos clones — "criou um plano de Chiv [Shiva] e agredir o Brandon [Brama]" — fez Javé parar de criar. Javé então **destruiu o corpo desse clone**, mas o clone "tinha alma" (chamamos de demo) e "saiu com a forma mental". Esse é **Chiva — o primeiro demo da história**.
+Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconstruiu (RC-808), ele começou a criar clones (anjos glores). Um dos clones — "criou um plano de Chiv [Shiva] e agredir o Brandon [Brama]" — fez Javé parar de criar. Javé então **destruiu o corpo desse clone**, mas o clone "tinha alma" (chamamos de demo) e "saiu com a forma mental". Esse é **Shiva — o primeiro demo da história**.
 
 ## Etimologia / Grafias
-- **Grafia preferida:** Chiva como Primeiro Demo
+- **Grafia preferida:** Shiva como Primeiro Demo
 - **Variações STT capturadas:** "Chiva", "Chimo", "Chiv", "Shiva", "Chiva o primeiro demo"
 - **Idioma de origem:** Sânscrito (शिव "Śiva" = "auspicioso", divindade hindu) + Português
 
@@ -38,15 +38,19 @@ Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconst
 | Ser Criador Fracassado | RC-422 | origina |
 
 ## Seres Associados
-- **Chiva/Shiva** (RC-148) — o primeiro demo
+- **Shiva** (Chiva no STT; RC-148) — o primeiro demo
 - **Javé/Brama** (RC-001) — quem destruiu o clone
 - **Os anjos glores (clones)** — quem Javé criou
 
 ## Observações
-- **Quarentena demonológica FORTE**: a leitura do autor de "Chiva como primeiro demo da história" **NÃO FUSIONAR com hinduísmo** (onde Shiva é divindade auspiciosa) nem com demonologia judaico-cristã (Lúcifer como primeiro anjo caído).
+- **Quarentena demonológica FORTE**: a leitura do autor de "Shiva como primeiro demo da história" **NÃO FUSIONAR com hinduísmo** (onde Shiva é divindade auspiciosa) nem com demonologia judaico-cristã (Lúcifer como primeiro anjo caído).
 - [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: pode haver paralelo com RC-002 (Rebelião de Lúcifer) — Lúcifer e Chiva são ambos "primeiros" em algum sentido.
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
 - **Selos do lote:** ll. 47 → ENCERRADO-RATIFICADO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
 - **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+
+## Nota — DESPACHO CURATORIAL 10/09/2026 (P6e): Chiva → Shiva
+- **Título corrigido por ordem do Curador:** Chiva = Shiva. Grafia canônica passa a **Shiva como Primeiro Demo** (cadastro, ficha, verbete,docs canônicos).
+- **Preservado como falado:** "Chiva/Chiv/Chimo/chima" no verbatim «» e nas Variações STT (regra PROMPT-2026-09-01 item 8: verbatim mantém o bruto, glosa usa canônica). A nota do Mutirão Lote 5 ("nada foi renomeado") fica como camada histórica, superada por este despacho.

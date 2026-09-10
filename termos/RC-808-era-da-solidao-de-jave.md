@@ -35,7 +35,7 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no b
 | Javé (Brama) | RC-001 | protagoniza |
 | Ser Criador Fracassado | RC-422 | é-resultado-de |
 | Rebelião de Lúcifer | RC-002 | é-contexto-de |
-| Chiva como Primeiro Demo | RC-810 | é-consequência-de |
+| Shiva como Primeiro Demo | RC-810 | é-consequência-de |
 | Buraco Branco | RC-809 | contextualiza |
 
 ## Seres Associados

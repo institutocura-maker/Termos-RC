@@ -620,7 +620,7 @@
 | RC-807 | 0 | 1 | 3 | 0 | Padrão de Consciência Genético por Espécie |
 | RC-808 | 0 | 2 | 2 | 0 | Era da Solidão de Javé (500 Milhões de Anos) |
 | RC-809 | 3 | 4 | 2 | 0 | Pandemia de Buraco Branco que Traga (Javé Tragado pela  |
-| RC-810 | 0 | 1 | 2 | 0 | Chiva como Primeiro Demo (Saiu do Clone Destruído) |
+| RC-810 | 0 | 1 | 2 | 0 | Shiva como Primeiro Demo (Saiu do Clone Destruído) |
 | RC-811 | 0 | 1 | 2 | 0 | Fissão de Dois Universos (Matéria + Antimatéria) |
 | RC-812 | 0 | 1 | 3 | 0 | Prometeu como Saca-Nica dos Olímpicos |
 | RC-813 | 0 | 3 | 1 | 0 | Culto a Lilith (Transformação em Deusa Lil Babilônica) |

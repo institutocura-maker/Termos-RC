@@ -44,7 +44,7 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 | Ragnarok em Marte | RC-395 | é-contexto-de |
 | Pandora | RC-086 | é-paralelo-com |
 | Têmis | RC-815 | é-equivalente-grego |
-| Chiva como Primeiro Demo | RC-810 | é-consequência-de |
+| Shiva como Primeiro Demo | RC-810 | é-consequência-de |
 
 ## Seres Associados
 - **Fria** (RC-085) — a propositora
