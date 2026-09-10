@@ -2076,6 +2076,45 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (grau 2, 4 restantes — fecho do anel):** por ordem decrescente — `RC-052`, `RC-047`, `RC-035`, `RC-010` (a confirmar no despacho do Lote 71).
 
+### Lote 71 — 10º anel, grau 2 (4 verbetes, 3.329 palavras) — 🏁 FECHO DO ANEL
+
+**Despacho do Curador:** «Beleza ! Em frente com >>> [`RC-052`, `RC-047`, `RC-035`, `RC-010`].» *(Ambiente: **estável** — HEAD = remoto = `757743f` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | III.9.1 | `V3/V3.09.01-RC047-deidade-pai-mae-amantissimo-brahman.md` | **1.199** | **3.363 p.** |
+| Deus / Deus Incognoscível | III.9.1 | `V3/V3.09.01-RC052-deus-deus-incognoscivel.md` | 834 | 662 p. |
+| Bilatérios | III.13.4 | `V3/V3.13.04-RC035-bilaterios.md` | 724 | 894 p. |
+| Atlântida / Terra Atlantis | II.7.5 | `V2/V2.07.05-RC010-atlantida-terra-atlantis.md` | **572** | 422 p. |
+
+**Medida final:** 572–1.199 palavras (média 832) · **37 verbatim byte a byte** · 50 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**🏁 O 10º anel (grau 2) está FECHADO — 76 de 76** (lotes 59–71, 59.477 palavras). Estado: 443 verbetes · **0 com grau 2 restantes**.
+
+**Achados do lote 71 (fecho do anel):**
+
+1. **`RC-052` Deus / Deus Incognoscível (III.9.1 — 17º da seção):** a distinção fundamental das RC — o Deus Bíblico (Javé, o Criador "caído", chamado de Criador e não Deus) × «E existe o Deus Incognoscível que é só amor, a Deidade Suprema, a Fonte de tudo o que há…» (B031); B048 («o único e verdadeiro Deus Pai-Mãe Amoroso, o Incognoscível, o Eterno, o Incriado», sem imposição pela força), B001 («Deus, o Incognoscível» = a Deidade, «incompreensível e indescritível»; «está acima de todas as divindades criadoras»; «parte sagrada») e B002 («simples e ignorantes»; a «prestação de contas… da cota existencial herdada do Deus Incognoscível…») **sem fusão** entre si e sem fundir com Javé; P2024-11-09 («pro caos é uma majestosa inutilidade»; «Nós, os humanos, é que temos que fazer o trabalho sujo»); B019 como leitura-chave; **quarentena teológica**; aresta dupla `RC-723` relaciona-se-a `RC-052` (P2024-11-09); `RC-047`/`RC-041`/`RC-059`/`RC-001`/`RC-054` sem aresta; `RC-054` e `RC-206` sem ficha.
+2. **`RC-047` Deidade (Pai-Mãe Amantíssimo / Brahman) (III.9.1 — 18º da seção; maior ficha do lote, 3.363 p.):** o topo da hierarquia (Deidade → Divindades Co-criadoras → Criador caído); "Brahman" **e não Brahma**; «o único a quem deveríamos nos referir como sendo Deus, o Incognoscível» (B001); B048 («Deidade ser somente amor»; «A Deidade não interfere em coisa alguma…»; todo-poderoso/justiceiro = coisa de Brahma/Javé/Alá), B001 («uma das personificações da Deidade») e B002 («se “personificou” em divindades maiores e menores» — remissão, não fusão) sem fusão; P2023-06-17 *O Paradoxo Divino* (o ENCRIADO que «ELE NÃO SE METE NA VIDA DE NINGUÉM»; «MAS DE UMA INUTILIDADE MAJESTOSA»; «OS SERES DIVINOS NÃO»; «NÃO, porque ele não quer nada… A ABELHA RAINHA dá ordem... ele não.»; «NÃO HÁ NADA TRANSCENDENTAL A ELE» — RC-380 sem ficha; «Será Deus um programa sem hardware? Provavelmente sim»; «QUEM TEM FUNÇÃO SOU EU»; «PIOR DO QUE CRER EM DEUS É AGRADECER A DEUS»; «Se você acredita em Deus, CONTINUE ACREDITANDO… ELEVE O FOCO dessa crença.»); P2012-02-19 («mais um universo criado para homenagear a deidade amantíssima»); Círculo da Perfeição parado; P2024-09-28 (pleroma; semente da deidade = corpo átmico RC-623; encomenda dos setianos RC-766); averbação F043-T3 ("Perpério"/Perpérion); **quarentena teológica no ponto máximo**, **clínica crítica** (TEA = chave filosófica, jamais dado biomédico) e **biomediúnica**; "Alma divinizada" sem código (O-3); arestas: `RC-047` personifica-em `RC-205` (B001), `RC-333` é-um `RC-047` (B048); `RC-205`/`RC-206`/`RC-054`/`RC-011`/`RC-012`/`RC-380` sem ficha.
+3. **`RC-035` Bilatérios (III.13.4 — 6º da seção):** classe de seres no cadastro × atributo de cérebro na fala («O nosso é bilatério.», P2023-12-03 U0038, D-9/D-10 sem anterioridade sobre P2020-04-25) — **divergência registrada, não costurada (F040-L4 RATIFICADO)**; corpo antes do cérebro («Então, primeiro… teve que surgir um corpo bilatério.», P2022-05-07, produto de Awaylengan); fonte fundadora de 2019 («Bilatérios são seres que têm um cérebro, mas que tem duas componentes rodando»; «criaram Nidana B, ou seja, o ovo cov»; «já eram seres bilaterais, porque a tal molécula mãe» — a explosão cambriana); **Devolutiva O-3**: a fonte de 2019 amplia esta ficha em vez de criar código duplicado (o número cogitado não é citado — não existe na Base); Dasein F031 («essa capacidade ímpar de indagar… ("Dasein de Heidegger")» — apropriação de Ellam, sem código novo); **trava D-7 · D-4 · veto de trânsito**; arestas: `RC-631` distingue-se-de `RC-035` (P2024-05-04), `RC-771` relaciona-se-a `RC-035` (ART-2025-08-01); `RC-093`/`RC-036`/`RC-632` sem aresta.
+4. **`RC-010` Atlântida / Terra Atlantis (II.7.5 — 3º da seção):** «a única nave esfera que restou das diversas que chegaram à Terra na rebelião de Lúcifer» — camuflada como ilha, origem dos mitos do paraíso, da idade de ouro e dos campos elísios; «…vindas do Advento da rebelião de Lúcia.» (P2018-12-15 U0003 — STT "Lúcia" preservado, sem emenda); **materialização por despacho** (29/08/2026; 0/0); fontes P2025-02-16 e P2018-12-15 (só a última com citação); arestas: `RC-238` ocorre-após `RC-010`, `RC-237` associado-a `RC-010` (B039); `RC-030`/`RC-088`/`RC-023`/`RC-029` sem aresta e **sem ficha** (confirmado); `RC-237` (Land's End) sem ficha.
+5. **Divergências de legenda anotadas, não harmonizadas (3 subseções):** III.9.1 — a maior da Enciclopédia: 16 arquivos em quatro legendas ("A queda, o cárcere e as prisões" — RC-001/037/476/621; "Os criadores e os Logos" — RC-041/261/475/556; "O Criador e a criação" — RC-622, vol. "A Trimurti e o jogo de poder" × ÍNDICE "Javé / Brahma / Alá e os nomes do Criador" — RC-175/207/477/482 vol. padrão; RC-284/483 vol. "O Criador e a sua condição"; RC-756 sem volume no cabeçalho + RC-052/RC-047 deste lote) · III.13.4 ("Os seres do jogo" — RC-645/649 × ÍNDICE "Híbridos e seres de transição" — RC-709/186/093 + RC-035) · II.7.5 (RC-329 vol. curto "Cosmogonia e estrutura do cosmos"; RC-068 vol. "Cosmografia — universos, planos, lokas e portais" × ÍNDICE vol. "Cosmogonia e estrutura do cosmos — o antes e o onde").
+6. **Seções tocadas:** V3.09.01 16→18 (+2) · V3.13.04 5→6 · V2.07.05 2→3. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+7. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 2 → 0 (RC-047: aspas internas retas onde a ficha tem curvas — "personificou" U+201C/U+2019; span cruzando `**negrito**` da ficha recortado para «QUEM TEM FUNÇÃO SOU EU» — ambas corrigidas no pré-teste byte a byte antes do verificador).
+8. **Statuses:** RC-052/047/035 🟠 em análise — consistentes ficha = cadastro = ÍNDICE. **Divergência de status em RC-010** (anotada, não harmonizada): cabeçalho da ficha "🟡 Candidato" × cadastro e ÍNDICE ⚪ candidato — o verbete segue o cadastro e o ÍNDICE (mesmo padrão do RC-842, lote 59).
+
+**Próximos (11º anel, grau 1 — 59 nós, nenhum redigido):** por ordem decrescente — `RC-898`, `RC-776`, `RC-744`, `RC-685`, `RC-683`, `RC-681` (a confirmar no despacho do Lote 72).
+
+### Fecho do 10º anel — balanço do grau 2 (lotes 59–71)
+
+| | |
+|---|---|
+| Verbetes do anel | **76** (lotes 59–71: 6+6+6+6+6+6+6+6+6+6+6+6+4) |
+| Palavras (13 lotes) | **59.477** — lote 59: 3.419 · 60: 3.932 · 61: 3.964 · 62: 4.742 · 63: 4.621 · 64: 4.641 · 65: 3.955 · 66: 5.563 · 67: 6.181 · 68: 5.145 · 69: 5.370 · 70: 4.615 · 71: 3.329 |
+| Verbatim do anel | **667** · 0 falhas |
+| Códigos citados no anel | 0 código criado · Base intacta (946/650/1898) |
+
+**O 10º anel (grau 2) está FECHADO — 76 de 76.** A Enciclopédia alcança **443 verbetes · 7.853 verbatim · 4.240 códigos · 0 falhas**. Próximo anel à vista: **grau 1 — 59 nós com ficha, nenhum redigido** (primeiros por código decrescente: `RC-898` · `RC-776` · `RC-744` · `RC-685` · `RC-683` · `RC-681`).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
