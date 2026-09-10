@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS QUÂNTICOS |
 | **Subcategoria** | 3.4 Mecânica quântica / Informação |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
