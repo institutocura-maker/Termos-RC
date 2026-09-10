@@ -3,6 +3,7 @@
 """Gera indice-mestre.md a partir da tabela-mestra ferramentas/dados_termos.py.
 Execute a partir de rc-terminologia/ :  python3 ferramentas/build_indice.py
 """
+import glob as _glob
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
 from dados_termos import TERMOS
@@ -20,6 +21,14 @@ def slug(nome):
     s = " ".join(s.split())
     return s.replace(" ", "-")
 
+TERMOS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "termos")
+def ficha_link(cod, nome):
+    # 10/09/2026: resolve o ARQUIVO REAL (o slug derivado errava 101/652 links).
+    cand = sorted(_glob.glob(os.path.join(TERMOS_DIR, f"{cod}-*.md")))
+    if len(cand) == 1:
+        return f"[✔](termos/{os.path.basename(cand[0])})"
+    return f"[✔](termos/{cod}-{slug(nome)}.md)"
+
 lines = []
 lines.append("# Índice Mestre — RC")
 lines.append("")
@@ -32,7 +41,7 @@ lines.append("|---|---|---|---|---|---|---|---|")
 
 # ordenar por categoria (grande grupo) e depois código
 for cod, nome, cat, sub, status, fontes, rel, ficha in sorted(TERMOS, key=lambda t: t[0]):
-    link = f"[✔](termos/{cod}-{slug(nome)}.md)" if ficha else "—"
+    link = ficha_link(cod, nome) if ficha else "—"
     lines.append(f"| {cod} | {nome} | {cat} | {sub} | {STATUS_EMOJI[status]} | {', '.join(fontes) if fontes else '—'} | {rel} | {link} |")
 
 lines.append("")

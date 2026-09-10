@@ -2220,3 +2220,11 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 2. **RC-872 absorvido por RC-581** (4º par F045, RESOLVIDA auto-detectada): P2022-07-16 validada em ciclos/; 581 com 6 fontes + refs; stub remissiva 872.
 3. Verificador: **649/8540/8250/0** · Base 946/**652**/1898 · 0 aresta tocada. **649 verbetes cobrem 652 fichas**, exceto 3 remissivas (449/872/936).
 4. Lacuna F038 documentada: mutirão confirmou "Rxaça" sem cruzar com 581 (grafia aprovada 14/08/2026, anterior ao mutirão).
+
+## 10/09/2026 — P3+P2+P1: errata 807 + mirror §6 + espelhos regenerados
+
+1. **P3:** README L99 "807 22º" → 23º (1 palavra; errata já documentada no L102).
+2. **P2:** STATE-MIRROR §6 reescrita (obra completa 649/652; fila zerada) + §1 censo 650→652.
+3. **Datas:** lote de correção 11→10/09 em 58 arquivos (deslize de datação da sessão; commits sempre foram 10/09) — verificador 0 impacto (649/8540/8250/0).
+4. **P1 espelhos:** 4 builders rodados (mestre + xlsx + docx-leitura + docx-ÍNDICE, 652 fichas). **Bug do builder corrigido:** `slug(nome)` errava 101/652 links — `ficha_link()` agora resolve o arquivo real via glob → **0 quebrados**. xlsx spot-check 544/581/794/872 OK.
+5. Incidente sandbox (git revertido ao handoff): recuperado via fetch+reset p/ c1d85b3; NOTES restaurado do git; verificador pós-recovery OK.

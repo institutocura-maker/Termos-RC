@@ -3265,6 +3265,18 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 2. **RC-872 ("Rakchasas...") absorvido por RC-581** — 4º par F045: título equalizado ("Rakshasas"), relacionados → `RC-581`, flag → True, banner REMISSIVA + stub histórico; 581 unificou fonte P2022-07-16 (validada no `ciclos/`: "estirpe programada no DNA para sugar o sangue") e refs 322/102/414; Apêndice D detectou o par sozinho (**RESOLVIDA**). Censo **651→652 fichas**; `RELACOES` intactas (1898).
 3. Verificador: **649 verbetes · 8.540 verbatim · 8.250 códigos · 0 falhas**. Censo final: **649 verbetes cobrindo as 652 fichas**, exceto as 3 remissivas permanentes (`RC-449`, `RC-872`, `RC-936`).
 
+### Manutenção — espelhos regenerados + errata 807 + mirror §6 (10/09/2026)
+
+**Despacho do Curador:** levantamento de pendências → ordem P3→P2→P1.
+
+1. **P3 (errata 807):** README do L99 dizia "22º" — corrigido para **23º** (1 palavra; errata já documentada no L102; o verbete 807 não cita ordinal).
+2. **P2 (espelho de continuidade):** `STATE-MIRROR.md` §6 reescrita (obra completa: 649 verbetes, 652 fichas, fila zerada) + censo §1 650→652.
+3. **Datas:** correção global 11→10/09 em 58 arquivos (deslize de datação da sessão; os commits sempre foram 10/09) — verificador sem impacto (649/8540/8250/0).
+4. **P1 (espelhos):** 4 builders rodados — `indice-mestre.md` + `base-terminologica.xlsx` (7 abas) + `base-terminologica-leitura.docx` + `INDICE-ENCICLOPEDIA-RC.docx`, todos com 652 fichas. **Bug do builder corrigido:** o `slug(nome)` derivava links que erravam **101/652** arquivos — `ficha_link()` agora resolve o arquivo real via glob → **0 links quebrados**. xlsx conferido por spot-check (544/581/794/872).
+5. Incidente de ambiente: sandbox reverteu o `.git` ao handoff — recuperado via fetch + reset para `c1d85b3`, NOTES restaurado do git, verificador pós-recovery OK. Nada se perdeu.
+
+**Pendências restantes da linha:** long tail `[REVISAR]` (101 flags/65 fichas) · Apêndice C 295 sem ficha (backlog contínuo). Espelhos, mirror e erratas: ZERADOS.
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
