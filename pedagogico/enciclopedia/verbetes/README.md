@@ -2659,6 +2659,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 105 restantes):** por ordem decrescente — `RC-895`, `RC-894`, `RC-893`, `RC-892`, `RC-891`, `RC-890` (a confirmar no despacho do Lote 89).
 
+### Lote 89 — 12º anel, grau 0 (6 verbetes, 3.743 palavras)
+
+**Despacho do Curador:** «Vamos em frente com a sugestão para o Lote 89.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `ad2d53c` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Pós-Verdade | IV.19.3 | `V4/V4.19.03-RC892-pos-verdade.md` | **657** | **450 p.** |
+| Qualia como Processamento Humano | IV.19.3 | `V4/V4.19.03-RC894-qualia-como-processamento-humano.md` | 642 | 438 p. |
+| Bondade Humana | IV.21.1 | `V4/V4.21.01-RC895-bondade-humana.md` | 633 | 446 p. |
+| Eu Observador | IV.19.3 | `V4/V4.19.03-RC890-eu-observador.md` | 617 | 393 p. |
+| Ismos como Limitação Genômica | IV.19.3 | `V4/V4.19.03-RC891-ismos-como-limitacao-genomica.md` | 600 | 386 p. |
+| Pecado Original como Narrativa Cruel | IV.19.3 | `V4/V4.19.03-RC893-pecado-original-como-narrativa-cruel.md` | **594** | **381 p.** |
+
+**Medida final:** 594–657 palavras (média 624) · **21 verbatim byte a byte** · 65 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 48 de 147** (99 restantes; `RC-936` remissiva permanente). Estado: 550 verbetes · **8.358 verbatim · 6.218 códigos · 0 falhas**.
+
+**Achados do lote 89 (Falsa Queda ×4 + Biblioteca Genômica ×2):**
+
+1. **`RC-895` Bondade Humana (IV.21.1 — 21º da seção):** dois verbatims — «Porque nós temos o coração bondoso...» + «Só quem pode fazer o bem...»; quirks "caram"/"Anunque"/"anarcos"/"se mov entam" anotados; subclasse 4.1 Psicologia/Ética × 4.4; 474/072/722/771 sem aresta; status 🟡 provisório.
+2. **`RC-894` Qualia como Processamento Humano (IV.19.3 — 32º da seção):** verbatim longo — «"Ei, diga aí o sabor de uma uva"... escreve 200 páginas...»; aspas retas internas byte a byte; quirks anotados; subclasse 3.1 Neurociência × 4.4; 217/070/889 sem aresta; status 🟡 provisório.
+3. **`RC-893` Pecado Original como Narrativa Cruel (IV.19.3 — 33º da seção):** dois verbatims — «o pior crime já cometido com a sensibilidade humana...» + «essa indignidade transformou-se em religião»; "indecente. injusta" anotado; subclasse 6.1 × 4.4; 749/722/892 sem aresta; status 🟡 provisório.
+4. **`RC-892` Pós-Verdade (IV.19.3 — 34º da seção; maior ficha e maior verbete do lote):** conceito central — «Quase nunca é o fato acontecido. É a bendita ou a maldita narrativa...»; quirks anotados; subclasse 5.1 × 4.4; 722/749/072 sem aresta; status 🟡 provisório.
+5. **`RC-891` Ismos como Limitação Genômica (IV.19.3 — 35º da seção; P2024-03-17):** verbatim — «cada ser humano traz em si o todo...»; "mas aí os O humano" anotado; subclasse 3.1 Genética × 4.4; 217/001/722/889 sem aresta; status 🟡 provisório.
+6. **`RC-890` Eu Observador (IV.19.3 — 36º da seção; P2024-03-17):** dois verbatims — observador × usufruidor («Seus filhos se ferrando...»); subclasse 4.1 Consciência × 4.4; 749/529/722 sem aresta (rótulos × títulos anotados); status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (2 subseções):** IV.19.3 (psiquismo ×2 — 573/637; 3+5+6+5+6+4+5 seguidores) · IV.21.1 (critério ×2 — 253/335; 17+2 seguidores).
+8. **Seções tocadas:** V4.19.03 31→36 (+5) · V4.21.01 20→21. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 21 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Divergências de subclasse (6/6, todas × cadastro 4.4):** 4.1 Ética, 3.1 Neurociência, 6.1, 5.1, 3.1 Genética, 4.1 Consciência — verbetes seguem as fichas, anotadas, não harmonizadas.
+
+**Próximos (12º anel, grau 0 — 99 restantes):** por ordem decrescente — `RC-889`, `RC-871`, `RC-870`, `RC-865`, `RC-863`, `RC-862` (a confirmar no despacho do Lote 90).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

@@ -1885,3 +1885,20 @@ Acumulado: **544 verbetes** · 8.337 verbatim · 5.999 códigos · **0 falhas** 
 6. **Seções:** V4.19.03 27→31 (+4) · V4.19.01 16→17 · V4.21.01 19→20. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 105 restantes):** por código decrescente — `RC-895`, `RC-894`, `RC-893`, `RC-892`, `RC-891`, `RC-890` (a confirmar no despacho do Lote 89).
+
+## 10/09/2026 — Lote 89: 12º ANEL, GRAU 0 (6 verbetes, 3.743 palavras)
+
+**Despacho do Curador:** «Vamos em frente com a sugestão para o Lote 89.»
+
+`RC-895` Bondade Humana (**IV.21.1 — 21º da seção**, 633 p.; ficha 446) · `RC-894` Qualia como Processamento Humano (**IV.19.3 — 32º da seção**, 642; 438) · `RC-893` Pecado Original como Narrativa Cruel (**IV.19.3 — 33º da seção**, 594; 381) · `RC-892` Pós-Verdade (**IV.19.3 — 34º da seção**, 657; 450) · `RC-891` Ismos como Limitação Genômica (**IV.19.3 — 35º da seção**, 600; 386) · `RC-890` Eu Observador (**IV.19.3 — 36º da seção**, 617; 393).
+
+Acumulado: **550 verbetes** · 8.358 verbatim · 6.218 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 48 de 147 · 99 restantes.**
+
+1. **Ambiente estável** (`ad2d53c` = remoto; limpa). Fichas 446/438/381/450/386/393 = 2.494 p.; 20 pares, todos sem-aresta.
+2. **Pré-teste estrito:** 21 spans de primeira, **0 falhas** (550/8358/6218/0) — inclui aspas retas internas do RC-894 byte a byte.
+3. **`RC-895` Bondade:** coração bondoso/big data + samaritano; 🟡. **`RC-894` Qualia:** uva/200 páginas/eflúvios; 🟡. **`RC-893` Pecado:** pior crime/indignidade-religião; 🟡. **`RC-892` Pós-Verdade (maior, 450/657):** Rogério/garrafa/maldita narrativa; 🟡. **`RC-891` Ismos:** todo/células/universo vizinho; 🟡. **`RC-890` Observador:** impulso × êxtase/usufruidor; 🟡.
+4. **Divergências subclasse 6/6:** 4.1 Ética, 3.1 Neuro, 6.1, 5.1, 3.1 Gen, 4.1 Cons × cadastro 4.4 — segue ficha + anota. Rótulos × títulos: 722 (×5), 217 (894/891), 529 (890).
+5. **Divergências (2):** IV.19.3 (psiquismo ×2; 3+5+6+5+6+4+5 seguidores) · IV.21.1 (critério ×2 — 253/335; 17+897+895).
+6. **Seções:** V4.19.03 31→36 (+5) · V4.21.01 20→21. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 99 restantes):** por código decrescente — `RC-889`, `RC-871`, `RC-870`, `RC-865`, `RC-863`, `RC-862` (a confirmar no despacho do Lote 90).
