@@ -2197,3 +2197,17 @@ Acumulado: **648 verbetes** · 8.537 verbatim · 8.215 códigos · **0 falhas** 
 ## 11/09/2026 — ERRATA PÓS-FECHO: a obra está completa, o 13º anel não existe
 
 Verificação pós-L106 (censo ficha×verbete): **648 verbetes cobrem as 650 fichas**, exceto `RC-449` (remissiva F045 de `RC-164`, RESOLVIDA) e `RC-936` (remissiva merge, RESOLVIDA) — ambas permanentemente sem verbete. Dos "22 hubs reservados para o 13º" (decisão L82, repetida por 25 lotes), **21 já tinham verbete** (anéis 1–11 + handoff) — erro de planejamento do Agente, nunca checado até o fecho. Graus reais apurados: 072 g43 · 414 g25 · 217 g23 · 514 g21 · 104 g20 · 717 g18 · 692 g17 · 612 g13 · 638 g12 · 332 g10 · 771/579/600 g8 · 071/465/470 g7 · 074/148/552 g6 · 449/068/603 g5. Validação correta do anel (parser `RELACOES` de 4-tupla): 147 grau-0 com ficha não-hub = 146 publicados + 936 ✓ — o 12º anel é genuinamente grau 0. README emendado no mesmo dia. **Pendências reais:** (a) RC-544 sem ficha; (b) espelhos (indice-mestre/xlsx/docx); (c) erratas menores.
+
+## 11/09/2026 — Lote 107: RC-544 redimido — a 651ª ficha (1 verbete, 733 palavras)
+
+**Despacho do Curador:** abertura de ficha + verbete («tudo»).
+
+`RC-544` Novo Homo sapiens (**IV.18.3 — 25º da seção**, 733 p.; ficha 873, aberta no dia).
+
+Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** · Base 946/**651**/1898 · 0 código criado · 0 aresta tocada. **649 verbetes cobrem as 651 fichas**, exceto remissivas 449/936.
+
+1. **Ficha materializada pelo Agente** (pendência do 2º anel): B019 cap. 12 pp. 135–141 integral + P2025-02-16 U0862 + P2025-02-15 U0383/U1576; outras 5 palestras sem menção direta (vínculo pré-existente).
+2. **Base:** 1 arquivo novo + 1 flag em dados_termos.py (única linha); ÍNDICE regenerado (10+/9-): IV.18.3, Apêndice C 296→295.
+3. **Pré-teste estrito:** 3/3 de primeira, **0 falhas**. Grau 11 (onze arestas/dez códigos); 541 truncado; 541/695 sem aresta.
+4. **Divergências IV.18.3 (7):** 518/543/619/732 + 646 + 729/748.
+5. **Pendências reais restantes:** (b) espelhos (indice-mestre/xlsx/docx); (c) erratas menores (807 ordinal).

@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 650 fichas · 1898 relações
+- **Base de referência:** 946 termos · 651 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -52,10 +52,10 @@
 | **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 33 |
 | **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
 | **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 263 |
-| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 157 |
+| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 158 |
 | **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 76 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **650** |
+| | **TOTAL** | 37 | **651** |
 
 ---
 
@@ -823,7 +823,7 @@
 
 # VOLUME IV — A HUMANIDADE E O OPERADOR — o nós
 
-*Verbetes ancorados neste volume: **157***
+*Verbetes ancorados neste volume: **158***
 
 ## IV.17 — Antropogênese
 
@@ -856,7 +856,7 @@
 
 *De que material o operador humano é feito, segundo a RC.*
 
-**Verbetes:** 32
+**Verbetes:** 33
 
 ### IV.18.1 — Corpos e vestimentas espirituais
 
@@ -894,6 +894,7 @@
 - **Invasão Ancestral do Genoma e do Psiquismo Humanos** — `RC-732` ⚪ · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 3 fonte(s)
 - **Jabutis Genéticos** — `RC-729` ⚪ · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 2 fonte(s)
 - **Midana (o código original primordial semeado no universo biológico)** — `RC-871` ⚪ · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 2 fonte(s)
+- **Novo Homo sapiens (evolução que terá de vir)** — `RC-544` 🟡 · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 8 fonte(s)
 - **Padrão de Consciência Genético por Espécie** — `RC-807` ⚪ · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 1 fonte(s)
 - **Plantas de Moléculas Complexas** — `RC-686` ⚪ · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 3 fonte(s)
 - **Protozoários Antimateriais / Antiprotozoários** — `RC-639` ⚪ · Processos & Fenômenos › 4.1 Processos biológicos / genéticos · 2 fonte(s)
@@ -1377,7 +1378,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (650 verbetes)
+## Apêndice A — Índice alfabético remissivo (651 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1801,6 +1802,7 @@
 | Noreia (Norea) | `RC-579` | III.14.4 | ⚪ |
 | Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | `RC-860` | III.11.3 | ⚪ |
 | Nova Espiritualidade / Novo Paraíso (Paraíso B) | `RC-612` | V.22.3 | ⚪ |
+| Novo Homo sapiens (evolução que terá de vir) | `RC-544` | IV.18.3 | 🟡 |
 | Nyx | `RC-621` | III.9.1 | ⚪ |
 | Nyx como Mãe de Origem de Pandora | `RC-795` | III.15.1 | ⚪ |
 | O Banquete Metafórico | `RC-916` | IV.19.3 | 🟡 |
@@ -2092,7 +2094,7 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
 
-## Apêndice C — Termos sem ficha (296 códigos)
+## Apêndice C — Termos sem ficha (295 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2291,7 +2293,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-250` | Mundo das Águas | Lokas & Geografias › 3.1 Planetas / Sistemas estelares | 🟡 |
 | `RC-082` | Nephilins | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-083` | Norte Divino | Lokas & Geografias › 3.3 Localidades terrestres | 🟡 |
-| `RC-544` | Novo Homo sapiens (evolução que terá de vir) | Processos & Fenômenos › 4.1 Processos biológicos / genéticos | 🟡 |
 | `RC-931` | Nuctemeron | Tecnologias & Artefatos › 5.4 Escrituras / Objetos documentais | ⚪ |
 | `RC-315` | O Fim da Lila | Eventos & Eras › 7.1 Guerras / Rebeliões / Conflitos | 🟡 |
 | `RC-212` | O Grande Dia do Senhor Javé | Eventos & Eras › 7.3 Profecias / Anúncios | 🟡 |
@@ -2416,4 +2417,4 @@ entradas do meio da sequência.
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 650 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 651 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*

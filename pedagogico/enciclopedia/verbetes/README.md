@@ -2,7 +2,7 @@
 
 **Enciclopédia de Referência das Revelações Cósmicas · edição 2026.1** · laboratório aberto em 08/09/2026
 
-Sumário analítico: `../INDICE-ENCICLOPEDIA-RC.md` (650 fichas mapeadas, 0 pendências).
+Sumário analítico: `../INDICE-ENCICLOPEDIA-RC.md` (651 fichas mapeadas, 0 pendências).
 Forma fixada em `../verbetes-modelo/` (3 modelos homologados) e `../verbetes-secao-24/` (3 tratados).
 
 ---
@@ -3237,7 +3237,25 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **OBRA COMPLETA — errata de planejamento (11/09/2026, pós-fecho):** o "13º anel dos 22 hubs" **não existe** — verificação pós-fecho mostrou que 21 dos 22 hubs já têm verbete publicado (dos anéis 1–11 e do handoff); o 22º (`RC-449`) é remissiva F045 de `RC-164`. Censo final: **648 verbetes cobrindo as 650 fichas**, exceto as 2 remissivas permanentes (`RC-449` → `RC-164`; `RC-936` merge). Nada mais há a redigir.
 
-**O que fica em aberto, para despacho:** (a) `RC-544` (sem ficha desde o 2º anel — depende de abertura de ficha); (b) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx); (c) erratas menores (ex.: ordinal do RC-807, 23º não 22º). Aguarda decisão do Curador.
+**O que fica em aberto, para despacho:** ~~(a) `RC-544` (sem ficha desde o 2º anel — depende de abertura de ficha)~~ **RESOLVIDO no Lote 107 (11/09/2026)**; (b) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx); (c) erratas menores (ex.: ordinal do RC-807, 23º não 22º). Aguarda decisão do Curador.
+
+### Lote 107 — pós-fecho: a 651ª ficha (1 verbete, 733 palavras)
+
+**Despacho do Curador (11/09/2026):** abertura de ficha + verbete autorizados («tudo»). *(Ambiente: estável — sem incidente; primeira alteração à Base desde o fecho da edição.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Novo Homo sapiens (evolução que terá de vir) | IV.18.3 — 25º | `V4/V4.18.03-RC544-novo-homo-sapiens.md` | **733** | **873 p.** (aberta no dia) |
+
+**Medida:** 3 verbatim byte a byte, **0 falhas** · 34 códigos distintos · Base 946/**651**/1898 · 0 código criado · 0 aresta criada ou alterada.
+
+**Achados do lote 107 (a pendência do 2º anel, enfim redimida):**
+
+1. **Ficha `RC-544` materializada pelo Agente:** B019 cap. 12, pp. 135–141 (lido integralmente — especiação, Lua/Marte/naves, "turbinarão") + P2025-02-16 (U0862, a condição do Oitavo Dia) + P2025-02-15 (U0383/U1576, a raça turbinada); as outras 5 palestras do cadastro **não mencionam o termo** (vasculhadas nos originais) — vão como vínculo pré-existente, sem mineração.
+2. **Alterações à Base (cirúrgicas):** `termos/RC-544-novo-homo-sapiens.md` (novo) + 1 flag `False→True` em `dados_termos.py` (única linha tocada) → censo **650→651 fichas**; ÍNDICE regenerado pelo próprio script (diff limpo, 10+/9-): 544 em IV.18.3, Apêndice C 296→295, contadores 651.
+3. **Verbete 25º da seção IV.18.3; grau 11** (onze arestas, dez códigos — fora dos anéis de isolamento). Rótulos × títulos: tudo ✓ exceto 541 truncado (prefixo); 541/695 sem aresta (vínculo só de cadastro). Todos os 11 têm ficha.
+4. **Divergências IV.18.3 (7 arquivos, anotadas):** 518/543/619/732 ("O corpo e a herança") · 646 ("Corpo, suporte e transferência") · 729/748 (vol. "A constituição do ser humano").
+5. Pré-teste estrito 3/3 de primeira, 0 falhas. Estado: **649 verbetes · 8.540 verbatim · 8.249 códigos · 0 falhas**. Censo final: **649 verbetes cobrindo as 651 fichas**, exceto as 2 remissivas permanentes (`RC-449`, `RC-936`).
 
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
