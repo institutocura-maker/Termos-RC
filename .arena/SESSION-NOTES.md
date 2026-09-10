@@ -1745,3 +1745,23 @@ Acumulado: **497 verbetes** · 8.142 verbatim · 5.078 códigos · **0 falhas** 
 7. **Seções:** V2.08.01 33→34 · V2.06.01 11→12 · V2.07.03 4→5 · V3.13.02 18→19 · V2.07.04 4→5 · V5.23.01 15→16. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 2×🟡 + 4×🟠.
 
 **Próximos (11º anel, grau 1 — 5 restantes, FECHO DO ANEL):** por código decrescente — `RC-039`, `RC-028`, `RC-025`, `RC-020`, `RC-007` (a confirmar no despacho do Lote 81).
+
+## 10/09/2026 — Lote 81: 11º ANEL, GRAU 1 (5 verbetes, 3.881 palavras) — FECHO DO ANEL
+
+**Despacho do Curador:** «Em frente com o Lote 81 como sugerido.»
+
+`RC-039` Capela (Sistema) (**III.12.3 — 2º da seção**, 731 p.; ficha 1.028) · `RC-028` Atlan (**II.7.5 — 4º da seção**, 672; 753) · `RC-025` Asphezian (**V.23.2 — 5º da seção**, 568; 456) · `RC-020` Anjos caídos (**III.12.1 — 15º da seção**, 913; 1.523) · `RC-007` Exilados de Capela (**III.12.3 — 3º da seção**, 997; 2.054).
+
+Acumulado: **502 verbetes** · 8.183 verbatim · 5.148 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 59 de 59 — FECHADO.**
+
+1. **Ambiente estável** (`df3f408` = remoto; árvore limpa). Fichas 1028/753/456/1523/2054 = 5.814 p. (maior soma do anel); 39 pares (5 arestas + 34 sem-aresta; aresta 007↔039 compartilhada no lote).
+2. **Pré-teste ingênuo 41/0, verificador pegou 1** — negrito `**` deslocado em RC-007 (ficha abre em "como foi o caso", rascunho em "Família Val"): a posição do marcador conta byte a byte. Corrigida; pré-teste estrito 41/0; verificador 502/8183/5148/0. **LIÇÃO: pré-teste doravante estrito (com marcação, contra o bruto).**
+3. **`RC-039` Capela (III.12.3):** ciclo B057 O-2; arranjo 4 estrelas (negrito); 687 mil; suzerano 5-6bi; TURMA; Capella O-4; B058 institucional O-4/O-7; teológica; D-9/D-10 s/ anterioridade; **O-7 ufo**; aresta RC-007 origem-em RC-039 (B031, compartilhada); RC-085 sem ficha; 5 sem-aresta; seres 009/078/074/092/252/071; 🟠. **`RC-028` Atlan (II.7.5):** materialização fila-aberta (0/0); ensaio/astralizar; Luúcifer 98k; 100k anos; Planalto 3.2bi; vetores→Brasília; Macho Picho; Margarete 1996; aresta RC-388 associado-a RC-028 (B006); RC-030/079 sem ficha; 3 sem-aresta; 🟠.
+4. **`RC-025` Asphezian (V.23.2 — menor ficha, 456 p.):** materialização (0/0); Tuto/Aspesian/Zan 270Ma; preposto; Vol/Val casulos; aresta fora da tabela RC-354 inclui RC-025 (B003); RC-354/057/058/022 sem ficha; 4 sem-aresta; 🟠. **`RC-020` Anjos caídos (III.12.1):** Devolutiva 28/08 D-9/D-13 (única; 456→457; teto 777; 1856); pane/mecanismo; Jahrado; robôs/Elusb; STT s/ promoção (F039-L3 AGUARDA-ÁUDIO); **D-3 + D-1** (17.703); **D-10 Lemion × RC-007**; **🟠×🟡 (RC-132)**; **RC-355 Anjos × Fator Extraterrestre**; aresta explica RC-355 (B005); RC-082 sem ficha; 11 sem-aresta; 🟠.
+5. **`RC-007` Exilados (III.12.3 — maior ficha do lote e do anel, 2.054 p.):** Yel/Mion/Cromon/Shanlung 98k; Val 620k; 19 planetas; 750k (O-4 742/750/687); Família Val 736/3 naves (negrito); último isolado (clínica); TURMA/LIXO/comboio; penitenciária; pandemia; improvisado; Nunca; D-10 1641→936; Gron (F042 órfã); **35 meses**; escola 3-4Ma; contagem 1/0; D-12 (RC-006 fora); 1938; 1996 (F039-L3 ARCA); Edgarmon; ufo+clínica+política; B003 pendente; aresta origem-em RC-039; RC-105/136/006 sem ficha; 11 sem-aresta; 🟠.
+6. **Divergências (3 + 1 unânime):** II.7.5 (329 curto; hiperborea-sem-código capítulo-vol; seguidor 010) · V.23.2 (fornos-sem-código × 3 seguidores) · III.12.1 (decaídos ×2; olimpianos ×2; 3 vol. — 7 seguidores) · **III.12.3 unânime** (450 + 039 + 007).
+7. **Seções:** V3.12.03 1→3 (+2) · V2.07.05 3→4 · V5.23.02 4→5 · V3.12.01 14→15. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 5×🟠.
+
+## 10/09/2026 — FECHO DO 11º ANEL (grau 1, lotes 72–81)
+
+59 verbetes · 38.272 palavras (média 649) · 330 verbatim · 0 falhas todos os lotes · Base intacta (946/650/1898) · 0 código criado. Por lote (palavras/verbatim): 72: 3890/20 · 73: 3033/8 · 74: 3905/33 · 75: 3822/44 · 76: 3918/27 · 77: 3783/34 · 78: 4147/45 · 79: 3831/41 · 80: 4062/37 · 81: 3881/41. Estado: 502 verbetes · 8.183 verbatim · 5.148 códigos. Restam 169 fichas sem verbete: 147 grau-0 + 22 hubs (072 g43, 414, 217, 514, 104, 717, 692, 612, 638, 332, 579, 600, 771, 071, 465, 470, 074, 148, 552, 068, 449, 603). **12º anel aguarda despacho:** grau 0 decrescente (RC-946 Pôncio Pilatos/Caifás/Sinédrio, RC-945 Pedro, RC-944 João Batista, RC-943 Maria Madalena, RC-942 Messias, RC-941 Hipocampo...) ou hubs por centralidade.

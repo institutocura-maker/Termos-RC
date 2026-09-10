@@ -2403,6 +2403,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 5 restantes, FECHO DO ANEL):** por ordem decrescente — `RC-039`, `RC-028`, `RC-025`, `RC-020`, `RC-007` (a confirmar no despacho do Lote 81).
 
+### Lote 81 — 11º anel, grau 1 (5 verbetes, 3.881 palavras) — FECHO DO ANEL
+
+**Despacho do Curador:** «Em frente com o Lote 81 como sugerido.» — os cinco previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `df3f408` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Exilados de Capela | III.12.3 | `V3/V3.12.03-RC007-exilados-de-capela.md` | **997** | **2.054 p.** |
+| Anjos caídos | III.12.1 | `V3/V3.12.01-RC020-anjos-caidos.md` | 913 | 1.523 p. |
+| Capela (Sistema) | III.12.3 | `V3/V3.12.03-RC039-capela-sistema.md` | 731 | 1.028 p. |
+| Atlan | II.7.5 | `V2/V2.07.05-RC028-atlan.md` | 672 | 753 p. |
+| Asphezian | V.23.2 | `V5/V5.23.02-RC025-asphezian.md` | **568** | **456 p.** |
+
+**Medida final:** 568–997 palavras (média 776) · **41 verbatim byte a byte** · 58 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 59 de 59 — ANEL FECHADO.** Estado: 502 verbetes · **8.183 verbatim · 5.148 códigos · 0 falhas**.
+
+**Achados do lote 81 (Capela, os exilados, as naves):**
+
+1. **`RC-039` Capela (Sistema) (III.12.3 — 2º da seção):** ciclo B057 O-2 — «Alfa Aurigae ou Capela é, na verdade um arranjo de quatro estrelas...»; «deflagrada há uns 687 mil anos, em Capela...»; governo do suzerano (5–6 bi anos); «Capella» absorvida O-4; B058 quarentena institucional O-4/O-7; teológica; D-9/D-10 sem anterioridade; **quarentena ufológica O-7**; aresta compartilhada: `RC-007` origem-em `RC-039` (B031); `RC-085` sem ficha; 5 sem-aresta; status 🟠 em análise.
+2. **`RC-028` Atlan (II.7.5 — 4º da seção):** **materialização por despacho** 29/08/2026 (0/0, fila aberta) — «Foi aqui que Luúcifer pousou há 98.000 anos atrás uma de suas marchlans luciferianas.»; 100.000 anos; Planalto 3,2 bi; vetores→Brasília; «Macho Picho»; Margarete 1996; STT sem emenda; aresta: `RC-388` associado-a `RC-028` (B006); `RC-030`/`RC-079` sem ficha; 3 sem-aresta; status 🟠 em análise.
+3. **`RC-025` Asphezian (V.23.2 — 5º da seção; menor ficha do lote, 456 p.):** **materialização por despacho** 29/08/2026 (0/0) — «Essa na Tuto, ou seja, Aspesian, havia portado no planeta Zan...»; ~270 Ma; Vol/Val casulos; aresta fora da tabela: `RC-354` inclui `RC-025` (B003); `RC-354`/`RC-057`/`RC-058`/`RC-022` sem ficha; 4 sem-aresta; status 🟠 em análise.
+4. **`RC-020` Anjos caídos (III.12.1 — 15º da seção):** materialização Devolutiva 28/08/2026 D-9/D-13 (única do ciclo; 456→457; teto 777; 1856 intactas) — classe funcional em pane; «O vírus é o eu de Jahrado, desagregado.»; «esses anjos são meio assim, são robôs...»; STT sem promoção (CHANCELA F039-L3 AGUARDA-ÁUDIO); **D-3** (aspa fora) + **D-1** (17.703 bloqueados); **D-10 divergência assumida** (Lemion × RC-007); **tensão 🟠×🟡 (padrão RC-132)**; **título RC-355 × cadastro**; aresta: `RC-355` explica `RC-020` (B005); `RC-082` sem ficha; 11 sem-aresta; status 🟠 em análise.
+5. **`RC-007` Exilados de Capela (III.12.3 — 3º da seção; maior ficha do lote e do anel, 2.054 p.):** 19 planetas; «750 mil anos» (O-4); «como foi o caso de toda a Família Val, com os seus 736 membros... Asphezian, Espherian e Espheron.»; «A TERRA RECEBEU O LIXO da rebelião...»; «O que houve em Capela foi uma pandemia...»; «Nunca. Nunca houve isso.»; D-10 (1.641→936 listados); «Gron» (F042 órfã de censo); **anterioridade 35 meses**; contagem Capela 1/capelinos 0; D-12 (RC-006 fora); Chico/Emmanuel 1938; 1996 (F039-L3 ARCA); quarentenas ufológica+clínica+política; B003 pendente; aresta compartilhada origem-em RC-039; `RC-105`/`RC-136`/`RC-006` sem ficha; 11 sem-aresta; status 🟠 em análise.
+6. **Divergências de legenda anotadas, não harmonizadas (3 subseções):** II.7.5 (RC-329 vol. curto; hiperborea capítulo-vol. — seguidor RC-010) · V.23.2 (fornos-replicadores × ÍNDICE — 3 seguidores) · III.12.1 (decaídos ×2; olimpianos-decaídos ×2; 3 vol. — 7 seguidores). **III.12.3 unânime** (RC-450 + 2 do lote — sem divergências).
+7. **Seções tocadas:** V3.12.03 1→3 (+2) · V2.07.05 3→4 · V5.23.02 4→5 · V3.12.01 14→15. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+8. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste ingênuo 41/0, mas o verificador pegou 1 (negrito `**` deslocado em RC-007 — a posição do marcador conta byte a byte); corrigida, re-verificado 0. **Lição: pré-teste doravante estrito (com marcação, contra o bruto).**
+9. **Statuses:** cinco 🟠 em análise — consistentes ficha = cadastro = ÍNDICE (RC-020 pelo cabeçalho; ver tensão interna).
+
+### Fecho do 11º anel — balanço do grau 1 (lotes 72–81)
+
+59 verbetes em 10 lotes (9×6 + 5) · **38.272 palavras** (média 649) · **330 verbatim byte a byte** · 0 falhas em todos os lotes · Base intacta do início ao fim (946/650/1898) · 0 código criado em todo o anel. Lotes: 72 (3.890 p., 20 v.) · 73 (3.033, 8) · 74 (3.905, 33) · 75 (3.822, 44) · 76 (3.918, 27) · 77 (3.783, 34) · 78 (4.147, 45) · 79 (3.831, 41) · 80 (4.062, 37) · 81 (3.881, 41). Estado: **502 verbetes · 8.183 verbatim · 5.148 códigos**. Fichas sem verbete: 169 — sendo 147 de grau 0 (isolados) + 22 hubs (RC-072 g43 à frente, com RC-414, RC-217, RC-514, RC-104, RC-717...). **O 12º anel depende de despacho:** continuação mecânica seria o grau 0 decrescente (RC-946, RC-945, RC-944, RC-943, RC-942, RC-941...); alternativa, os hubs por centralidade. Aguarda decisão do Curador.
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
