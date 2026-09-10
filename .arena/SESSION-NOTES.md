@@ -1953,3 +1953,20 @@ Acumulado: **568 verbetes** · 8.403 verbatim · 6.538 códigos · **0 falhas** 
 6. **Seções:** V1.03.01 8→9 · V3.09.01 21→22 · V3.14.04 4→7 (+3) · V4.20.01 19→20. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 81 restantes):** por código decrescente — `RC-847`, `RC-846`, `RC-845`, `RC-844`, `RC-843`, `RC-841` (pulando o `RC-842`, já publicado) (a confirmar no despacho do Lote 93).
+
+## 10/09/2026 — Lote 93: 12º ANEL, GRAU 0 (6 verbetes, 2.760 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 93 como sugerido.»
+
+`RC-847` Sociedade Vril (**IV.20.1 — 21º da seção**, 523 p.; ficha 469) · `RC-846` Maria Orsic (**III.14.4 — 8º da seção**, 471; 449) · `RC-845` Nada Brahma (**I.3.1 — 10º da seção**, 429; 356) · `RC-844` Melkor (**III.12.1 — 16º da seção**, 473; 411) · `RC-843` Eru Ilúvatar (**III.9.1 — 23º da seção**, 489; 423) · `RC-841` Cronos (**III.12.5 — 4º da seção**, 375; 466).
+
+Acumulado: **574 verbetes** · 8.410 verbatim · 6.636 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 72 de 147 · 75 restantes.**
+
+1. **Ambiente estável** (`dc0e101` = remoto; limpa). Fichas 469/449/356/411/423/466 = 2.574 p.; 24 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 7 spans de primeira, **0 falhas** (574/8410/6636/0). Correção pré-commit: RC-848 citado como "deste lote" no RC-847 → Lote 92.
+3. **`RC-847` Vril (maior ficha, 469 p.):** frioistas/1902/Alemanhase; ⚪. **`RC-846` Orsic:** 1921-22/Hitler/Ringles; ⚪. **`RC-845` Nada (menor, 356 p.):** tudo é só×som; 038 sem ficha; ⚪. **`RC-844` Melkor:** Melcor/dissonância; ⚪. **`RC-843` Eru:** Heru/éu iluvatar; ⚪. **`RC-841` Cronos:** Titã/castrou/devorar; ⚪.
+4. **Classificações e rótulos coincidem nas 6.** Tabelas defasadas: 847 (4), 846 (3), 844 (843, intra-lote) — anotado; só RC-038 sem ficha de verdade.
+5. **Divergências (5):** IV.20.1 (transformação ×5; autonomia ×4; 724; cap-vol ×2; 5+2+2) · III.14.4 (mestres ×2 — 590/579; 2+4) · I.3.1 (618; 691; 706; 5+2) · III.12.1 (decaídos ×2; olimpianos ×2; vols 002/142/398; 8) · III.9.1 (queda ×4; logos ×4; 622; vol ×2; 756; 9+2). III.12.5 unânime (301/302/465-hub-sem-código).
+6. **Seções:** V4.20.01 20→21 · V3.14.04 7→8 · V1.03.01 9→10 · V3.12.01 15→16 · V3.09.01 22→23 · V3.12.05 3→4. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 75 restantes):** por código decrescente — `RC-837`, `RC-836`, `RC-835`, `RC-834`, `RC-833`, `RC-832` (a confirmar no despacho do Lote 94).

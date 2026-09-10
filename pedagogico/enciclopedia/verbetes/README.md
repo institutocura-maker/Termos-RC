@@ -2787,6 +2787,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 81 restantes):** por ordem decrescente — `RC-847`, `RC-846`, `RC-845`, `RC-844`, `RC-843`, `RC-841` (pulando o `RC-842`, já publicado) (a confirmar no despacho do Lote 93).
 
+### Lote 93 — 12º anel, grau 0 (6 verbetes, 2.760 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 93 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `dc0e101` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Sociedade Vril | IV.20.1 | `V4/V4.20.01-RC847-sociedade-vril.md` | **523** | **469 p.** |
+| Eru Ilúvatar | III.9.1 | `V3/V3.09.01-RC843-eru-iluvatar.md` | 489 | 423 p. |
+| Melkor | III.12.1 | `V3/V3.12.01-RC844-melkor.md` | 473 | 411 p. |
+| Maria Orsic | III.14.4 | `V3/V3.14.04-RC846-maria-orsic.md` | 471 | 449 p. |
+| Nada Brahma | I.3.1 | `V1/V1.03.01-RC845-nada-brahma.md` | 429 | **356 p.** |
+| Cronos | III.12.5 | `V3/V3.12.05-RC841-cronos.md` | **375** | 466 p. |
+
+**Medida final:** 375–523 palavras (média 460) · **7 verbatim byte a byte** · 89 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 72 de 147** (75 restantes; `RC-936` remissiva permanente). Estado: 574 verbetes · **8.410 verbatim · 6.636 códigos · 0 falhas**.
+
+**Achados do lote 93 (6 materializações Motor Único — Vril, som, Titãs):**
+
+1. **`RC-847` Sociedade Vril (IV.20.1 — 21º da seção; maior ficha do lote, 469 p.):** 1 span — «Em 1902, a sociedade do frio surgiu...»; quirks "asem"/"Alemanhase" anotados; tabela × cadastro (4 defasados) anotada; status ⚪ candidato.
+2. **`RC-846` Maria Orsic (III.14.4 — 8º da seção):** 1 span — «Em 1921 e 22, encontramos Hitler sentado junto com Maria Orsic...»; tabela × cadastro (3 defasados) anotada; status ⚪ candidato.
+3. **`RC-845` Nada Brahma (I.3.1 — 10º da seção; menor ficha do lote, 356 p.):** 1 span — «Nada brama... quer dizer tudo é só» ("só" × "som" do título anotado); 038 sem ficha; status ⚪ candidato.
+4. **`RC-844` Melkor (III.12.1 — 16º da seção):** 1 span — «um dos filhos chamado Melcor... apresentou uma dissonância»; tabela × cadastro (843, deste lote) anotada; status ⚪ candidato.
+5. **`RC-843` Eru Ilúvatar (III.9.1 — 23º da seção):** 1 span — «a estranha figura de Heru... éu iluvatar»; quirks anotados; 5 códigos sem aresta; status ⚪ candidato.
+6. **`RC-841` Cronos (III.12.5 — 4º da seção):** 2 spans — «a geração de cronos chamada de Titã» + «castrou-o para cessar sua prole...»; seção unânime, sem divergência; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** IV.20.1 (transformação ×5; autonomia ×4; caminho — 724; cap-vol. ×2; 5+2+2 seguidores) · III.14.4 (mestres ×2 — 590/579; 2+4 seguidores) · I.3.1 (seres — 618; nomes — 691; linguagem — 706; 5+2 seguidores) · III.12.1 (decaídos ×2; olimpianos ×2; vols. — 002/142/398; 8 seguidores) · III.9.1 (queda ×4; logos ×4; 622; vol. ×2; 756; 9+2 seguidores). III.12.5 unânime.
+8. **Seções tocadas:** V4.20.01 20→21 · V3.14.04 7→8 · V1.03.01 9→10 · V3.12.01 15→16 · V3.09.01 22→23 · V3.12.05 3→4. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 7 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha (🟡 Candidato) = cadastro = ÍNDICE. Grau 0 em todo o lote; classificações e rótulos coincidem nas 6. **Tabelas defasadas (3 fichas):** 846/848/239/849, 847/848/239, 843 — anotado, não harmonizado; só RC-038 sem ficha de verdade.
+
+**Próximos (12º anel, grau 0 — 75 restantes):** por ordem decrescente — `RC-837`, `RC-836`, `RC-835`, `RC-834`, `RC-833`, `RC-832` (a confirmar no despacho do Lote 94).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
