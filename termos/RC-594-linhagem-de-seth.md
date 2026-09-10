@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.2 Linhagens humanas |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética

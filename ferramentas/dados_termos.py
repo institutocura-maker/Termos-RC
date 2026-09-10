@@ -406,7 +406,7 @@ TERMOS = [
     ("RC-295", "Drama do Fechamento dos Portais", EVE_CAT[0], EVE_CAT[1], "em análise", ['B021', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-09-29', 'P2023-12-03', "P2022-11-26", "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2021-04-10"], 'RC-296; RC-145; RC-070; RC-106; RC-694; RC-571', True),
     ("RC-296", "Pitonisas e Oráculos (Apolo/Delfos)", COS_ESP[0], COS_ESP[1], P, ["B021", 'P2024-04-13', 'P2023-05-21'], "RC-295; RC-145; RC-099", False),
     ("RC-297", "Era dos Humanos (Zeus e a)", EVE_ERA[0], EVE_ERA[1], "verificado", ["B021", 'P2025-11-29', 'B087', 'B088'], "RC-145; RC-300; RC-099; RC-094", True),
-    ("RC-298", "Descendência de Pirra (Pirra e Deucalião)", GEN_HUM[0], GEN_HUM[1], "em análise", ['B021', 'P2024-11-09', 'B087', 'B088', 'B089', 'P2023-08-05', 'P2023-05-21'], 'RC-303; RC-304; RC-086; RC-301; RC-099', True),
+    ("RC-298", "Descendência de Pirra (Pirra e Deucalião)", GEN_HUM[0], GEN_HUM[1], "verificado", ['B021', 'P2024-11-09', 'B087', 'B088', 'B089', 'P2023-08-05', 'P2023-05-21'], 'RC-303; RC-304; RC-086; RC-301; RC-099', True),
     ("RC-299", "Kalil Kadmon (nome demo de Pandora)", SER_DEC[0], SER_DEC[1], 'verificado', ["B021", 'P2024-08-03', 'B089', 'B050', 'B060', 'P2023-08-05', 'P2021-05-15', "P2022-09-17"], "RC-086; RC-118; RC-145", True),
     ("RC-300", "Dissolução da Tríade (2015–2017)", EVE_ERA[0], EVE_ERA[1], P, ['B021', 'B022', 'P2022-12-17', 'P2024-11-30'], 'RC-104; RC-135; RC-102; RC-037; RC-155; RC-571', False),
     ("RC-301", "Prometeu (titã)", SER_DEC[0], SER_DEC[1], "verificado", ['B020', 'B021', 'P2025-02-16', 'P2024-11-09', 'P2025-06-14b', 'B087', 'B088', 'B089', 'P2021-05-15', 'P2023-12-03'], 'RC-302; RC-145; RC-086; RC-304', True),
@@ -433,7 +433,7 @@ TERMOS = [
     # ---- Novos termos de B023 (obra primária: O Dharma e as Castas Hindus)
     ("RC-319", "Fator Dharma", COS_LEI[0], COS_LEI[1], "em análise", ['B023', 'P2024-11-30', 'P2023-10-14', 'P2022-03-26'], 'RC-320; RC-322; RC-104; RC-075; RC-094', True),
     ("RC-320", "Senhores do Dharma (= Senhores da Lila / Trimurti)", SER_DIV[0], SER_DIV[1], "em análise", ['B023', 'P2024-11-30', 'P2023-10-14', 'P2022-03-26', "P2012-02-19"], 'RC-104; RC-075; RC-319; RC-094', True),
-    ("RC-321", "Castas Trimurtianas", GEN_HUM[0], GEN_HUM[1], "em análise", ['B023', 'P2024-11-30', 'P2023-10-14', 'P2022-03-26', "P2021-02-28"], 'RC-322; RC-319; RC-104; RC-094; RC-586', True),
+    ("RC-321", "Castas Trimurtianas", GEN_HUM[0], GEN_HUM[1], "verificado", ['B023', 'P2024-11-30', 'P2023-10-14', 'P2022-03-26', "P2021-02-28"], 'RC-322; RC-319; RC-104; RC-094; RC-586', True),
     ("RC-322", "Dharma e Castas (origem demo)", TER_SAN[0], TER_SAN[1], "em análise", ['B023', 'P2024-11-30', 'P2023-10-14', 'P2023-12-03', "P2023-02-12", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2021-06-26"], 'RC-319; RC-321; RC-049; RC-094; RC-586', True),
     ("RC-323", "Entroncamentos Genéticos Intersiderais", PRO_BIO[0], PRO_BIO[1], "verificado", ['B023', 'P2025-02-16', 'P2024-11-30', 'P2024-09-29'], 'RC-324; RC-036; RC-082; RC-024; RC-099; RC-094', True),
     ("RC-324", "Grupos de Entroncamento (1-4)", PRO_BIO[0], PRO_BIO[1], P, ["B023"], "RC-323; RC-036; RC-186; RC-082; RC-024; RC-099", False),
@@ -733,7 +733,7 @@ TERMOS = [
     ("RC-591", "Profecia Hopi da Estrela Azul", EVE_PRO[0], EVE_PRO[1], "verificado", ["P2022-12-17"], "RC-571; RC-536; RC-405", True),
     ("RC-592", "Era de Peixes", EVE_ERA[0], EVE_ERA[1], "verificado", ["P2022-12-17", 'P2021-03-27'], "RC-569; RC-072; RC-571; RC-405", True),
     ("RC-593", "Mahabharata", TEC_ESC[0], TEC_ESC[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2023-06-25', 'P2021-05-15', 'P2023-10-14', 'P2022-03-26', 'P2023-12-03', "P2024-06-16"], 'RC-585; RC-586; RC-104; RC-584', True),
-    ("RC-594", "Linhagem de Seth", GEN_HUM[0], GEN_HUM[1], "em análise", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-09-28', "P2018-12-16", "P2023-08-27", "P2023-02-12"], 'RC-424; RC-490; RC-489; RC-579', True),
+    ("RC-594", "Linhagem de Seth", GEN_HUM[0], GEN_HUM[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-09-28', "P2018-12-16", "P2023-08-27", "P2023-02-12"], 'RC-424; RC-490; RC-489; RC-579', True),
     ("RC-595", "Avesta", TEC_ESC[0], TEC_ESC[1], "verificado", ['P2022-12-17', 'P2025-10-25', 'P2023-05-20'], "RC-590; RC-567; RC-568", True),
 
     # ---- Novos termos da palestra P2021-12-04 — Os Archeons de Ereon e os Seres Adhy
