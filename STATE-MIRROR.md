@@ -6,7 +6,7 @@
 - Validador/self-test: `python3 ferramentas/dados_termos.py` → hoje: **OK: 946 termos, 1898 relações**.
 
 ## 1. Números oficiais
-- Base: **946 termos · 670 fichas · 1898 relações · 102 obras** (pós-P5/P6 10/09/2026: +20 fichas, Apêndice C 294→276, status 60⚪/242🟡/502🟠/142🟢; espelhos `indice-mestre.md`, xlsx/docx + docx do ÍNDICE reconstruídos em 10/09/2026 — a cada turno de espelho: `pip install -q --user --break-system-packages openpyxl python-docx`).
+- Base: **946 termos · 671 fichas · 1898 relações · 102 obras** (P6 ENCERRADO 10/09/2026: 35 levas, 291 chancelas, status 60⚪/241🟡/332🟠/313🟢; P5: +21 fichas, Apêndice C 294→275; correções Chiva→Shiva, Sofia→Sophia, Fissão DE→EM; dúvidas abertas 454 Ealm×Moros, 822 Magant=Gandhi?; espelhos `indice-mestre.md`, xlsx/docx + docx do ÍNDICE reconstruídos em 10/09/2026 — a cada turno de espelho: `pip install -q --user --break-system-packages openpyxl python-docx`).
 - Censo de CÓDIGO = `ferramentas/dados_termos.py` (registro-mestre), NUNCA nomes de `termos/` (lição IEEA: fichas paravam em RC-929, registro ia a 933; F043 quase duplicou código).
 - Ledger do Curador: **47 resíduos chancelados** (F041: 33 + F042: 14) · régua BRUTA = **4** (menções literais em 3 fichas-meta + 1 já averbada na reabertura RC-047) · "perdoado até novas evidências", reabertura só por portão.
 - `uploads_recepcao/`: só README + .gitkeep + 8 registros-antigos na raiz (contabilidade histórica, intocável). Caixa canônica de expurgo = `backups/REGISTRO-LIMPEZA-*.json`, último **nº 21**.
