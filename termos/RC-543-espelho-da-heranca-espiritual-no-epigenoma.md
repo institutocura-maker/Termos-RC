@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-13 |
 
 ## Definição Sintética

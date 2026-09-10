@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS BIOLÓGICOS |
 | **Subcategoria** | 3.2 Genética / DNA / Herança |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
