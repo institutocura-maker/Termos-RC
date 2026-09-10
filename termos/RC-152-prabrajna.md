@@ -69,7 +69,7 @@ Prabrajna é central para o capítulo 3 (Gunas): sua energia Rajásica criou os 
 
 ## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
 
-- **[B024 p. 26]** da “reunião operativa mental” em Perpérion surgiu o “Big Bang”; houve “germinação cancerosa” a partir de Prabrajna — **quarentena clínica** (leitura, jamais diagnóstico). Nenhuma Divindade havia visto essa “anomalia”. RC-034 permanece **sem ficha**.
+- **[B024 p. 26]** da “reunião operativa mental” em Perpérion surgiu o “Big Bang”; houve “germinação cancerosa” a partir de Prabrajna — **quarentena clínica** (leitura, jamais diagnóstico). Nenhuma Divindade havia visto essa “anomalia”. RC-034 materializada P5f.
 - **[B024 p. 32–34]** energia característica = Rajas (~5% visível). Prabrajna criou os quarks; com “distúrbio”, os elétrons. Não conseguiu unir os quarks nem finalizar a Obra. Prajapati (variação védica) foi “tragado” como buraco negro; o Ser chamado Brahma é o nome que assumiu depois de se reconstituir na própria Criação. Distinguir **Brahma** (Divindade “caída”) de **Brahman** (p. 32) — **quarentena teológica**.
 - **[B024 p. 38]** no instante da “queda” (Singularidade há 13,8 bi — **quarentena científica / cronológica**) improvisou o Brahmaloka adjacente ao Bhuloka; “perdeu toda a sua condição de Divindade”; o Corpo Mental se fragmentou. Dúvida do autor: “tragado” ou “empurrado”.
 - **[B024 p. 73]** “doença do primeiro impulso” — impulso mental incontrolável ao expelir a Criação; ao se reconstruir, “já estabeleceu o ‘câncer’ nesse seu primeiro corpo” — **quarentena clínica**.

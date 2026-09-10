@@ -51,7 +51,7 @@ Com isso:
 ## Termos Relacionados
 | Termo | Código | Estado na malha |
 |---|---|---|
-| CFDP (Código-fonte Definidor Pessoal) | RC-153 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| CFDP (Código-fonte Definidor Pessoal) | RC-153 | **sem aresta** em `RELACOES`; arquivo existe (P5f) |
 | Projeto Talm | RC-091 | aresta pré-existente; arquivo existe |
 | Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | aresta pré-existente; arquivo existe |
 | Evolução da Informação, não das Espécies | RC-693 | **sem aresta** em `RELACOES`; arquivo existe |

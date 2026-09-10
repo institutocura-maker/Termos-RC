@@ -21,13 +21,13 @@ O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os human
 ## Ampliação — B041 (A Rebelião dos Elétrons)
 
 - **[B041 p. 70]** cap. 10: “A vida do CFD de Javé vive em cada um de nós, enquanto o condicionamento nos faz pensar que somos nós que vivemos a vida”. “A vida nos vive”; *maya* cega com a ilusão. “Esse é o mistério por trás do ‘favor divino’ do qual os nossos espíritos são os agentes da Deidade, na sua ajuda às Divindades problemáticas. Eis a chave de toda questão!”
-- **[B041 p. 70–71]** o autor “briga” filosoficamente com Brahma, Vishnu e Shiva: “eles ‘faliram’ e transferiram para nós uma responsabilidade que não é nossa”. Criaturas-ferramentas + livre-arbítrio para que espíritos “simples e ignorantes” se tornem “esclarecidas e potencialmente amorosas”. RC-040 / RC-153 permanecem **sem ficha**. Sem fusão com B048.
+- **[B041 p. 70–71]** o autor “briga” filosoficamente com Brahma, Vishnu e Shiva: “eles ‘faliram’ e transferiram para nós uma responsabilidade que não é nossa”. Criaturas-ferramentas + livre-arbítrio para que espíritos “simples e ignorantes” se tornem “esclarecidas e potencialmente amorosas”. RC-153 materializada P5f (RC-040 já tem ficha). Sem fusão com B048.
 
 
 ## Ampliação — B034 (Cartas a Javé)
 
 - **[B034 p. 45]** “sou eu que vivo em vocês!” — a vida do código do Criador no humano, na voz do próprio Javé.
-- **[B034 p. 55]** “naquilo que é ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou — o meu DNA. Dele me sirvo para enviar os meus comandos… enquanto recebo os eflúvios… principalmente das suas emoções.” Sem fusão com B041. RC-040 / RC-153 permanecem **sem ficha**.
+- **[B034 p. 55]** “naquilo que é ao mesmo tempo a minha representação e o meu foco reconstrutor do que sou — o meu DNA. Dele me sirvo para enviar os meus comandos… enquanto recebo os eflúvios… principalmente das suas emoções.” Sem fusão com B041. RC-153 materializada P5f (RC-040 já tem ficha).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
