@@ -82,7 +82,7 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 
 ## Ampliação — B022 (Inquisição Trimurtiana)
 
-- **[B022 p. 4–5]** Introdução (só paratexto): «Criação Universal indevida» / «Criação indevida» procedida por Adhyshprabrajna. O que Ellam percebe «se assemelhava a dois universos paralelos»: um em expansão, «onde a vida biológica impera»; outro «retraído, desagregado», com «entes-clones» e classes de «demônios». A locução «Criação Bipartida» (p. 4) = descrição do paratexto; **RC-312 não** materializada. «Entes-clones» **sem código**.
+- **[B022 p. 4–5]** Introdução (só paratexto): «Criação Universal indevida» / «Criação indevida» procedida por Adhyshprabrajna. O que Ellam percebe «se assemelhava a dois universos paralelos»: um em expansão, «onde a vida biológica impera»; outro «retraído, desagregado», com «entes-clones» e classes de «demônios». A locução «Criação Bipartida» (p. 4) = descrição do paratexto; **RC-312** materializada P6r. «Entes-clones» **sem código**.
 - Falas da Trimurti **isoladas**. Sem fusão com B037 / B001 / B024. Fonte **B022** já constava na tabela-mestra.
 ---
 

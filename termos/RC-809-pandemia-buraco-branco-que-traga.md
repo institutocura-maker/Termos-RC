@@ -51,7 +51,7 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois de criar os dois universos (
 | Javé (Brama) | RC-001 | é-tragado-em |
 | Era da Solidão de Javé | RC-808 | é-consequência-de |
 | Big Bang | RC-034 | é-contexto-de |
-| Fissão de Dois Universos | RC-811 | contextualiza |
+| Fissão em Dois Universos | RC-811 | contextualiza |
 | Ser Criador Fracassado | RC-422 | é-resultado-de |
 | Buraco Negro (astrofísico) | (fato científico) | é-metáfora-para |
 

@@ -1,20 +1,20 @@
-# Fissão de Dois Universos (Matéria + Antimatéria) — RC-811
+# Fissão em Dois Universos (Matéria + Antimatéria) — RC-811
 
 | Campo | Valor |
 |---|---|
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-30 |
+| **Status** | 🟢 Verificado |
+| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 Tese (leitura do autor, palestra **P2017-05-14**, U0002) de que **a criação de Javé (RC-001) é "uma coisa composta por duas partes"** — o **universo material** (nosso, com matéria) e o **universo antimaterial** (paralelo, com antimatéria) — surgidas nos **"primeiros microsegundos" do Big Bang (RC-034)**. A ciência confirma: "que sim, que há um universo paralelo. Esse aqui foi formado de matéria e esse aqui de antimatéria". Para que os dois se mantenham, foi necessário criar um "atrito" — quando 10 bilhões de átomos materiais se encontram com 10 bilhões de átomos não materiais, "se autonquilam, sobra um" — e esse "um" constitui o universo. Ver RC-001 (Javé), RC-034 (Big Bang), RC-162 (Elétrons), RC-809 (Pandemia de Buraco Branco).
 
 ## Contexto / Origem
-Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Javé (RC-001) em termos compatíveis com a física moderna (matéria + antimatéria, universo paralelo). A "fissão" dos dois universos aconteceu nos "primeiros microsegundos" do Big Bang.
+Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Javé (RC-001) em termos compatíveis com a física moderna (matéria + antimatéria, universo paralelo). A fissão em dois universos aconteceu nos "primeiros microsegundos" do Big Bang.
 
 ## Etimologia / Grafias
-- **Grafia preferida:** Fissão de Dois Universos (Matéria + Antimatéria)
+- **Grafia preferida:** Fissão em Dois Universos (Matéria + Antimatéria)
 - **Variações STT capturadas:** "universo paralelo", "matéria e antimatéria", "fissão"
 - **Idioma de origem:** Português (com termos científicos: matéria, antimatéria, universo paralelo)
 
@@ -44,7 +44,13 @@ Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Jav
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2017-05-14 é a única fonte primária dessa formulação específica (ligação com a física moderna).
 - Quarentena: leitura do autor; sem fusionar com física de partículas acadêmica (CERN/LHC) ou com teologia da criação cristã.
+- Ver também conceitual (**sem aresta** em `RELACOES`): RC-312 Criação Bipartida — a estrutura doutrinária (B022); RC-167 Criação Indevida — o status da obra. Evento (811) × estrutura (312) × status (167): sem fusão.
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
 - **Selos do lote:** ll. 45 → AGUARDA-ÁUDIO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+## Nota — DESPACHO CURATORIAL 10/09/2026 (P6r): Fissão DE → EM Dois Universos
+- **Título refinado por decisão delegada ao Agente**, a partir da análise estrutural do Assistente do Curador: "fissão *de* dois universos" (genitivo subjetivo — dois universos que fissionam) ≠ o descrito na ficha — UMA estrutura que se partiu em duas (matéria + antimatéria). "Fissão *em* Dois Universos" nomeia o resultado.
+- **Sem conflito com o verbatim:** a palavra "fissão" não ocorre no STT da P2017-05-14 — o título é cunhagem curatorial da Base, não fala do autor. Título anterior registrado aqui por proveniência: *Fissão de Dois Universos (Matéria + Antimatéria)*.
+- **Sem fusão com RC-312:** 811 = evento físico (P2017-05-14); 312 = estrutura doutrinária (B022 + P2024-11-30); 167 = status (indevida). Materialização de RC-312 no mesmo lote.

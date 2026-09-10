@@ -1,0 +1,50 @@
+# Criação Bipartida — RC-312
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
+| **Subcategoria** | 2.1 Cosmogonia / Criação |
+| **Status** | 🟠 Em análise |
+| **Última atualização** | 2026-09-10 |
+
+## Definição Sintética
+A "confusa 'Criação Bipartida'" (B022, Introdução, p. 4): dois universos paralelos, subjacentes — o nosso, em expansão, "onde a vida biológica impera"; e outro "retraído, desagregado", como que "recortado" em "moradas apartadas", onde vivem os "entes-clones" e as diversas classes de "demônios". Na P2024-11-30 (Moros e os Arquivos do Destino Universal): "dois universos que nasceram agarradinhos um no outro, interpostos" — o vizinho/gêmeo, universo de plasma onde a vida primeiro surgiu, e o nosso, universo biológico; "durante os 13.8 bilhões de anos da criação desses dois universos, os primeiros 7, 8 bilhões de anos, a vida só existiu" no vizinho. Só quando Moros resgatar as três setas "todo o conjunto de seres dos dois universos" saberá a história desde o momento zero.
+
+## Contexto / Origem
+B022, Introdução (voz de Ellam, pp. 4–7): em experiência visionária, Ellam conversa com as formas Adhyagya de Vishnu e Shiva, que o instruem sobre a Criação Bipartida — "tudo abaixo de nós" parecia ser a confusa bipartição, "da qual o universo em que a Terra estava situada parecia ser tão somente uma das suas partes componentes". P2024-11-30: a profecia de Moros (três cápsulas atemporais / três setas) como o mecanismo pelo qual a história dos dois universos será um dia lida e compreendida — a Revelação Cósmica como "leitura crítica" humana das setas.
+
+## Etimologia / Grafias
+- **Grafia preferida:** Criação Bipartida
+- **Variações capturadas:** "dois universos paralelos", "dois universos interpostos", "universo vizinho/gêmeo"
+- **Idioma de origem:** Português
+
+## Fontes
+| Obra (sigla) | Capítulo | Página | Tipo |
+|---|---|---|---|
+| B022 — Inquisição Trimurtiana | Introdução (voz de Ellam) | pp. 4–5 | livro impresso (fonte primária) |
+| P2024-11-30 — Moros e os Arquivos do Destino Universal | camada-3 (transcrição) | — | palestra (fonte primária, STT) |
+
+## Citações-chave
+> «a confusa "Criação Bipartida", da qual o universo em que a Terra estava situada parecia ser tão somente uma das suas partes componentes. O que me era dado perceber se assemelhava a dois universos paralelos, subjacentes, um em expansão — o nosso, onde a vida biológica impera — e um outro retraído, desagregado, como se "recortado" em muitas partes — onde vivem os chamados "entes-clones" e as diversas classes de "demônios".» — B022, Introdução (pp. 4–5)
+
+> «São dois universos que nasceram agarradinhos um no outro, interpostos.» — P2024-11-30, camada-3
+
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Universo Antimaterial | RC-106 | inclui |
+| Universo Material | RC-107 | inclui |
+| Criação Indevida | RC-167 | é-qualificada-como |
+| Revelação Cósmica | RC-094 | integra |
+
+## Seres Associados
+- **Entes-clones** (sem código; cf. RC-167) — habitantes do universo retraído
+- **Demônios** (classes diversas) — habitantes do universo retraído
+- **Moros** — quem prescreveu o destino universal dos dois universos
+
+## Observações
+- Introdução do B022 (pp. 4–7) = voz de Ellam, conforme ficha_ingresso do ciclo; sem fusão com física acadêmica de multiverso.
+- Ver também conceitual (**sem aresta** em `RELACOES`): RC-811 Fissão em Dois Universos — o evento físico matéria×antimatéria (P2017-05-14); RC-167 Criação Indevida — o status da obra. Estrutura (312) × evento (811) × status (167): três códigos distintos, sem fusão.
+
+## Nota — MATERIALIZAÇÃO P6r (10/09/2026 · decisão delegada)
+- Ficha materializada a partir de B022 (primária) + P2024-11-30, no rastro da análise estrutural do Assistente do Curador sobre RC-811: a "Fissão" (811) nomeia o evento físico; a "Criação Bipartida" (312), a estrutura doutrinária; a "Criação Indevida" (167), o status. Três códigos, três funções — nenhuma fusão.
