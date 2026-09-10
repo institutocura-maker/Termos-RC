@@ -2113,7 +2113,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Verbatim do anel | **667** · 0 falhas |
 | Códigos citados no anel | 0 código criado · Base intacta (946/650/1898) |
 
-**O 10º anel (grau 2) está FECHADO — 76 de 76.** A Enciclopédia alcança **443 verbetes · 7.853 verbatim · 4.240 códigos · 0 falhas**. Próximo anel à vista: **grau 1 — 59 nós com ficha, nenhum redigido** (primeiros por código decrescente: `RC-898` · `RC-776` · `RC-744` · `RC-685` · `RC-683` · `RC-681`).
+**O 10º anel (grau 2) está FECHADO — 76 de 76.** A Enciclopédia alcança **443 verbetes · 7.853 verbatim · 4.240 códigos · 0 falhas**. Próximo anel à vista: **grau 1 — 59 nós com ficha, nenhum redigido** (primeiros por código decrescente: `RC-898` Choque de Realidade · `RC-776` Ginnungagap · `RC-744` Pendências Existenciais em Realidades Paralelas · `RC-685` Tormento dos Eleitos de Javé · `RC-683` Torá / Pentateuco · `RC-681` Yesod).
 
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
