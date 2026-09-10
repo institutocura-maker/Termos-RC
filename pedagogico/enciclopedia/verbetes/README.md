@@ -2467,6 +2467,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 141 restantes):** por ordem decrescente — `RC-940`, `RC-939`, `RC-938`, `RC-937`, `RC-936`, `RC-935` (a confirmar no despacho do Lote 83).
 
+### Lote 83 — 12º anel, grau 0 (6 verbetes, 2.877 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 83 como sugerido.» — com **substituição curatorialmente neutra**: `RC-936` é remissiva F045 de `RC-898` (verbete canônico já publicado; ÍNDICE l. 2412: RESOLVIDA) — não recebe verbete; entra `RC-934`, próximo da fila. *(Ambiente: **estável** — HEAD = remoto = `e8ea2be` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Livre-arbítrio | II.8.1 | `V2/V2.08.01-RC938-livre-arbitrio.md` | **516** | 236 p. |
+| Kris Amon (Krysamon NEAD) | III.14.4 | `V3/V3.14.04-RC934-kris-amon.md` | 492 | **279 p.** |
+| Mônada | III.13.5 | `V3/V3.13.05-RC937-monada.md` | 487 | 246 p. |
+| Samsara | IV.20.1 | `V4/V4.20.01-RC940-samsara.md` | 475 | 235 p. |
+| Samkhya | IV.20.1 | `V4/V4.20.01-RC939-samkhya.md` | 454 | 246 p. |
+| Cognição | IV.18.3 | `V4/V4.18.03-RC935-cognicao.md` | **453** | 243 p. |
+
+**Medida final:** 453–516 palavras (média 480) · **20 verbatim byte a byte** · 91 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 12 de 147** (135 restantes; `RC-936` remissiva permanente — o anel fechará em 146 verbetes + 1 remissiva). Estado: 514 verbetes · **8.245 verbatim · 5.331 códigos · 0 falhas**.
+
+**Achados do lote 83 (expansão F043-T3, o autor do GKA):**
+
+1. **`RC-940` Samsara (IV.20.1 — 18º da seção; menor ficha do lote, 235 p.):** F043-T3 — «ciclo continuado do renascimento e da morte» (núcleo de aninhada); Tikun = conserto; GKA secundária; zero remissivas; status 🟡 provisório.
+2. **`RC-939` Samkhya (IV.20.1 — 19º da seção):** F043-T3 — «Filosofia, proposta por Kapila, que visa eliminar toda a ignorância.»; «tradição ariana/hindu»; Moksha; GKA secundária; zero remissivas; status 🟡 provisório.
+3. **`RC-938` Livre-arbítrio (II.8.1 — 35º da seção):** F043-T3 — «É a capacidade de decisão ou independência.»; «impróprio para o manejo»; Reintegração métrica; GKA secundária; zero remissivas; status 🟡 provisório.
+4. **`RC-937` Mônada (III.13.5 — 15º da seção):** F043-T3 — «Unidade Espiritual Individualizada»; «Porções de Energia Espiritual» (núcleos de aninhada, … U+2026); GKA secundária; zero remissivas; status 🟡 provisório.
+5. **`RC-935` Cognição (IV.18.3 — 19º da seção):** F043-T3 — «Capacidade de perceber e identificar.»; sexto sentido do bhavanga; consonância GKA × uso elâmico; zero remissivas; status 🟡 provisório.
+6. **`RC-934` Kris Amon (III.14.4 — 4º da seção; maior ficha do lote, 279 p.):** **registro de proveniência F043** (não T3) — «Krysamon/Kris Amon = 0 ocorrências nas 623 fichas»; «Krysamon NEAD»; Entropia–Tamas–Savna/Adhyatman–Perpérion–Tikun; GKA = apoio, não co-autoria; blindado; zero remissivas; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (5 subseções):** IV.20.1 (transformação ×5; autonomia ×4; caminho; capítulo-vol. ×2 — 5+2 seguidores) · II.8.1 (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; 7 sem vol. — 12 seguidores) · III.13.5 (3 legendas; RC-281 "Missões e revelações" × ficha+ÍNDICE; RC-149 vol. — 9 seguidores) · IV.18.3 (corpo ×4; 646; capítulo-vol. ×2 — 11 seguidores) · III.14.4 (mestres ×2 — seguidor RC-239).
+8. **Seções tocadas:** V4.20.01 17→19 (+2) · V2.08.01 34→35 · V3.13.05 14→15 · V4.18.03 18→19 · V3.14.04 3→4. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 20 spans «» de primeira, 0 falhas — aninhadas resolvidas pelo núcleo interno (não-guloso dos dois lados).
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Nota:** a legenda "Missões e revelações" do verbete RC-281 (L78) não consta da ficha RC-281 nem do ÍNDICE (erro desta redação, L78) — documentada como divergente na nota de III.13.5; correção depende de despacho, não harmonizada aqui.
+
+**Próximos (12º anel, grau 0 — 135 restantes):** por ordem decrescente, pulando a remissiva `RC-936` — `RC-926`, `RC-925`, `RC-924`, `RC-923`, `RC-922`, `RC-921` (a confirmar no despacho do Lote 84).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

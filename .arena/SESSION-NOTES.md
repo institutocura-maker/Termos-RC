@@ -1783,3 +1783,20 @@ Acumulado: **508 verbetes** · 8.225 verbatim · 5.221 códigos · **0 falhas** 
 7. **Seções:** V3.14.02 6→10 (+4) · V3.11.04 0→1 (nova) · V4.18.03 17→18. Nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 141 restantes):** por código decrescente — `RC-940`, `RC-939`, `RC-938`, `RC-937`, `RC-936`, `RC-935` (a confirmar no despacho do Lote 83).
+
+## 10/09/2026 — Lote 83: 12º ANEL, GRAU 0 (6 verbetes, 2.877 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 83 como sugerido.» — com substituição: `RC-936` remissiva F045 de `RC-898` (ÍNDICE l. 2412 RESOLVIDA; verbete canônico publicado no L72) → entra `RC-934`.
+
+`RC-940` Samsara (**IV.20.1 — 18º da seção**, 475 p.; ficha 235) · `RC-939` Samkhya (**IV.20.1 — 19º da seção**, 454; 246) · `RC-938` Livre-arbítrio (**II.8.1 — 35º da seção**, 516; 236) · `RC-937` Mônada (**III.13.5 — 15º da seção**, 487; 246) · `RC-935` Cognição (**IV.18.3 — 19º da seção**, 453; 243) · `RC-934` Kris Amon (Krysamon NEAD) (**III.14.4 — 4º da seção**, 492; 279).
+
+Acumulado: **514 verbetes** · 8.245 verbatim · 5.331 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 12 de 147 · 135 restantes** (936 remissiva permanente → anel fecha em 146+1).
+
+1. **Ambiente estável** (`e8ea2be` = remoto; limpa). Fichas 235/246/236/246/243/279 = 1.515 p. (+936 lida, 305 p., descartada como remissiva); 0 pares com aresta (grau 0; nenhuma ficha do lote tem tabela de relacionados).
+2. **Pré-teste estrito:** 20 spans de primeira, **0 falhas** (514/8245/5331/0). Aninhadas (940/937): citar só núcleos internos — não-guloso casa dos dois lados.
+3. **`RC-940` Samsara (IV.20.1 — menor ficha, 235 p.):** T3; ciclo; Tikun; GKA; 🟡. **`RC-939` Samkhya:** T3; Kapila; ariana/hindu; Moksha; 🟡. **`RC-938` Livre-arbítrio (II.8.1):** T3; decisão/independência; impróprio; métrica; 🟡.
+4. **`RC-937` Mônada (III.13.5):** T3; Unidade; Porções (… U+2026); segue ÍNDICE "Consciências coletivas e Logos"; 🟡. **`RC-935` Cognição:** T3; perceber/identificar; bhavanga 6º sentido; consonância; 🟡. **`RC-934` Kris Amon:** F043 proveniência (não T3); 0/623; NEAD; cadeia Entropia–Tikun; apoio≠co-autoria; 🟡.
+5. **Divergências (5):** IV.20.1 (transformação ×5; autonomia ×4; caminho; cap-vol ×2 — 268/644; 5+2 seguidores) · II.8.1 (padrão — 12 seguidores) · III.13.5 (411; 454; 456; **281 "Missões e revelações" × ficha+ÍNDICE — erro L78 desta redação, documentado, correção a despacho**; 149 vol.; 9 seguidores) · IV.18.3 (corpo ×4; 646; cap-vol ×2; 11 seguidores) · III.14.4 (mestres ×2 — 590/noreia; seguidor 239).
+6. **Seções:** V4.20.01 17→19 (+2) · V2.08.01 34→35 · V3.13.05 14→15 · V4.18.03 18→19 · V3.14.04 3→4. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 135 restantes):** por código decrescente, pulando `RC-936` — `RC-926`, `RC-925`, `RC-924`, `RC-923`, `RC-922`, `RC-921` (a confirmar no despacho do Lote 84).
