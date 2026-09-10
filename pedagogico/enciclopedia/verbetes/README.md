@@ -3043,6 +3043,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 33 restantes):** por ordem decrescente — `RC-794`, `RC-793`, `RC-792`, `RC-791`, `RC-790`, `RC-789` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 101).
 
+### Lote 101 — 12º anel, grau 0 (6 verbetes, 3.794 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 101 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `de14d34` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Fogo que se Apaga | II.8.1 | `V2/V2.08.01-RC792-fogo-que-se-apaga.md` | **752** | 656 p. |
+| Lamúria dos Deuses | IV.19.1 | `V4/V4.19.01-RC791-lamuria-dos-deuses.md` | 652 | 570 p. |
+| Conceito Abaiano | IV.21.1 | `V4/V4.21.01-RC793-conceito-abaiano.md` | 618 | 565 p. |
+| Quinaras / Centauros | III.13.4 | `V3/V3.13.04-RC790-quinaras-centauros.md` | 596 | 656 p. |
+| Centro Alquímico-Farmacopédico | II.7.4 | `V2/V2.07.04-RC789-centro-alquimico-farmacopedico.md` | 593 | **563 p.** |
+| Lilith como Raça | III.15.3 | `V3/V3.15.03-RC794-lilith-como-rxaca.md` | **583** | **676 p.** |
+
+**Medida final:** 583–752 palavras (média 632) · **12 verbatim byte a byte** · 125 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 120 de 147** (27 restantes; `RC-936` remissiva permanente). Estado: 622 verbetes · **8.499 verbatim · 7.688 códigos · 0 falhas**.
+
+**Achados do lote 101 (o bloco Revolução Inacabada — P2025-04-06 U0004/U0005/U0006, 789–794):**
+
+1. **`RC-794` Lilith como Raça (III.15.3 — 7º da seção; maior ficha do lote, 676 p.):** 2 spans — «...acredite se quiser que nós temos e adoramos...» + «...algumas coisas que estavam sendo trazidas...»; QUARENTENA DEMONOLÓGICA FORTE; selo ENCERRADO (paralelos); seção nova varrida (unânime); status ⚪ candidato.
+2. **`RC-793` Conceito Abaiano (IV.21.1 — 25º da seção):** 2 spans integrais — «...se eu for comprar na padaria...» + «...semente é tudo que faz mal...»; selo CHANCELA (etimologia abaiana); seção gigante (25º); status ⚪ candidato.
+3. **`RC-792` Fogo que se Apaga (II.8.1 — 37º da seção; maior verbete do 12º anel, 752 p.):** 2 spans — «...Eu sou Pandora...» (mediúnica literal) + «...quando você pertence a qualquer ismo...»; quarentenas mediúnica e teológica; seção gigante, maior divergência do anel; status ⚪ candidato.
+4. **`RC-791` Lamúria dos Deuses (IV.19.1 — 21º da seção):** 2 spans — «...a lamúria dos deuses passou a ser o fato comum...» + «...esses caras eles foram colecionando a lamúria...»; quarentena teológica; 270/271 sem ficha; status ⚪ candidato.
+5. **`RC-790` Quinaras / Centauros (III.13.4 — 8º da seção):** 2 spans — «...Quem diabo são as quináas?...» + «...hoje estão nascendo como humanos...»; QUARENTENA UFOLÓGICA FORTE; selo F041-L5; pálpebra Kiron poupada (span Kiron evitado); 270/271 sem ficha; status ⚪ candidato.
+6. **`RC-789` Centro Alquímico-Farmacopédico (II.7.4 — 7º da seção; menor ficha do lote, 563 p.):** 2 spans — «...fazenda de pimetê...» + «...oito locas desse universo vizinho...»; selo ENCERRADO-RATIFICADO (cadastro tem primazia); \"Odin\"×\"Vishnu (Mavatna)\"; 270/271 sem ficha; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (6 subseções):** III.15.3 (nova varrida — unânime, 6→7º) · IV.21.1 (legenda ×7 — corpo ×7/governo ×3/sombras/limites/psiquismo/justiça; vol. ×1 — 072-hub; 9 seguidores) · II.8.1 (legenda ×4 grupos — Wyrd ×7/códigos ×5/658/ÍNDICE ×14; vol. ×3 — 382/570/657; sem-volume ×7; 14 seguidores) · IV.19.1 (legenda ×6 grupos — 285-erro/529/548+713/613/699; vol. ×1 — 517; 14 seguidores) · III.13.4 (legenda ×2 — 645/649; vol. unânime; 8 seguidores) · II.7.4 (vol. ×1 — 495; legenda unânime; 7 seguidores).
+8. **Seções tocadas:** V3.15.03 6→7 · V4.21.01 24→25 · V2.08.01 36→37 · V4.19.01 20→21 · V3.13.04 7→8 · V2.07.04 6→7. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 12 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem nas 6** (3º lote seguido). **Rótulos × títulos:** 135 \"Odin\"×\"Vishnu (Mavatna)\" (!!) · 105 \"Religiões Impositivas\"×\"Ulsh\" (sem ficha) · 270 (sem ficha, ×4) · 271 (sem ficha, ×3) · 577/396/730/793 prefixos · 785/292/696/788/789/335/086/009/001/149 ✓.
+
+**Próximos (12º anel, grau 0 — 27 restantes):** por ordem decrescente — `RC-788`, `RC-787`, `RC-786`, `RC-785`, `RC-784`, `RC-783` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 102).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

@@ -2089,3 +2089,20 @@ Acumulado: **616 verbetes** · 8.487 verbatim · 7.546 códigos · **0 falhas** 
 6. **Seções:** V3.11.03 9→11 · V2.08.01 35→36 · V3.16.01 5→6 · V5.27.01 6→7 · V3.15.01 6→7. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 33 restantes):** por código decrescente — `RC-794`, `RC-793`, `RC-792`, `RC-791`, `RC-790`, `RC-789` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 101).
+
+## 11/09/2026 — Lote 101: 12º ANEL, GRAU 0 (6 verbetes, 3.794 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 101 como sugerido.»
+
+`RC-794` Lilith como Raça (**III.15.3 — 7º da seção**, 583 p.; ficha 676) · `RC-793` Conceito Abaiano (**IV.21.1 — 25º da seção**, 618; 565) · `RC-792` Fogo que se Apaga (**II.8.1 — 37º da seção**, 752; 656) · `RC-791` Lamúria dos Deuses (**IV.19.1 — 21º da seção**, 652; 570) · `RC-790` Quinaras / Centauros (**III.13.4 — 8º da seção**, 596; 656) · `RC-789` Centro Alquímico-Farmacopédico (**II.7.4 — 7º da seção**, 593; 563).
+
+Acumulado: **622 verbetes** · 8.499 verbatim · 7.688 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 120 de 147 · 27 restantes.**
+
+1. **Ambiente estável** (`de14d34` = remoto; limpa). Fichas 676/565/656/570/656/563 = 3.686 p.; bloco Revolução Inacabada P2025-04-06 U0004/U0005/U0006.
+2. **Pré-teste estrito:** 12 spans de primeira, **0 falhas** (622/8499/7688/0). Nenhuma correção pré-commit.
+3. **`RC-794` Lilith (maior ficha, 676 p.):** adoramos/mito-escudo; QUARENTENA DEMONOLÓGICA FORTE; ENCERRADO paralelos; III.15.3 nova unânime; ⚪. **`RC-793` Abaiano:** padaria/semente; CHANCELA etimologia; IV.21.1-25º; ⚪. **`RC-792` Fogo (maior verbete do anel, 752 p.):** Pandora mediúnica literal/ismo; II.8.1-37º; 105/270 sem ficha; ⚪. **`RC-791` Lamúria:** fato comum/colecionando; Ragnarok→009/730; 270/271 sem ficha; ⚪. **`RC-790` Quináas:** centauros reais/nascem humanos; QUARENTENA UFOLÓGICA FORTE; F041-L5; span Kiron evitado; ⚪. **`RC-789` Centro (menor ficha, 563 p.):** pimetê/oito locas; RATIFICADO vs RC-713; 135 Odin×Vishnu; ⚪.
+4. **Classificações coincidem nas 6 (3º lote seguido).** Rótulos × títulos: 135 "Odin"×"Vishnu (Mavatna)" (!!) · 105 ×Ulsh (sem ficha) · 270 ×Patriarcas (sem ficha, ×4) · 271 ×Pactos (sem ficha, ×3) · 577/396/730/793 prefixos · resto ✓.
+5. **Divergências (6):** III.15.3 (nova, unânime; 7º) · IV.21.1 (legenda ×7 — corpo×7/governo×3/+4; vol ×1 — 072-hub; 9) · II.8.1 (legenda ×4 grupos — Wyrd×7/códigos×5/658/ÍNDICE×14; vol ×3; sem-vol ×7; 14) · IV.19.1 (legenda ×6 — 285-erro/529/548+713/613/699; vol ×1 — 517; 14) · III.13.4 (645/649; vol unânime; 8) · II.7.4 (vol 495; legenda unânime; 7).
+6. **Seções:** V3.15.03 6→7 · V4.21.01 24→25 · V2.08.01 36→37 · V4.19.01 20→21 · V3.13.04 7→8 · V2.07.04 6→7. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 27 restantes):** por código decrescente — `RC-788`, `RC-787`, `RC-786`, `RC-785`, `RC-784`, `RC-783` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 102).
