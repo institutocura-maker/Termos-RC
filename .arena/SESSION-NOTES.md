@@ -1817,3 +1817,20 @@ Acumulado: **520 verbetes** · 8.263 verbatim · 5.408 códigos · **0 falhas** 
 6. **Seções:** V4.19.03 5→10 (+5) · V4.19.01 14→15. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 129 restantes):** por código decrescente — `RC-920`, `RC-919`, `RC-918`, `RC-917`, `RC-916`, `RC-915` (a confirmar no despacho do Lote 85).
+
+## 10/09/2026 — Lote 85: 12º ANEL, GRAU 0 (6 verbetes, 2.707 palavras)
+
+**Despacho do Curador:** «Em frente com a sugestão para o Lote 85.»
+
+`RC-920` Tátivas (**IV.19.3 — 11º da seção**, 469 p.; ficha 119) · `RC-919` Vrites (**IV.19.3 — 12º da seção**, 457; 125) · `RC-918` Entropia e Sujeira Original (**IV.19.3 — 13º da seção**, 447; 118) · `RC-917` Reciclador das Informações Universais (**IV.19.3 — 14º da seção**, 443; 115) · `RC-916` O Banquete Metafórico (**IV.19.3 — 15º da seção**, 450; 120) · `RC-915` Westworld como Metáfora (**IV.19.3 — 16º da seção**, 441; 111).
+
+Acumulado: **526 verbetes** · 8.281 verbatim · 5.516 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 24 de 147 · 123 restantes.**
+
+1. **Ambiente estável** (`070ef98` = remoto; limpa). Fichas 119/125/118/115/120/111 = 708 p.; 12 pares sem-aresta (722/901 ×4; 722/749 ×2).
+2. **Pré-teste estrito:** 18 spans de primeira, **0 falhas** (526/8281/5516/0).
+3. **`RC-920` Tátivas:** Ior/tá tuvas — grafia dupla anotada; 🟡. **`RC-919` Vrites (maior ficha, 125 p.):** ambiente/genoma/devolve; 🟡. **`RC-918` Entropia:** força entrópica; 🟡. **`RC-917` Reciclador:** antena; 🟡. **`RC-916` Banquete (P2023-10-15):** servir/banquetear; 🟡. **`RC-915` Westworld (menor, 111 p.; P2023-10-15):** algoritmos/livre-arbítrio; 🟡.
+4. **Divergência sistemática 6/6 idem L84:** "5.1 Epistemologia/Cognição" × cadastro "4.4" — segue ficha + anota. Rótulo "Dignidade" × cadastro (RC-722).
+5. **Divergência (1):** IV.19.3 (psiquismo ×2 — 573/637; seguidores 379/640/768 + 5 L84 + 6 do lote). **Seção:** V4.19.03 10→16 (+6).
+6. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 123 restantes):** por código decrescente — `RC-914`, `RC-913`, `RC-912`, `RC-911`, `RC-910`, `RC-909` (a confirmar no despacho do Lote 86).

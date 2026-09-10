@@ -2531,6 +2531,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 129 restantes):** por ordem decrescente — `RC-920`, `RC-919`, `RC-918`, `RC-917`, `RC-916`, `RC-915` (a confirmar no despacho do Lote 85).
 
+### Lote 85 — 12º anel, grau 0 (6 verbetes, 2.707 palavras)
+
+**Despacho do Curador:** «Em frente com a sugestão para o Lote 85.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `070ef98` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Tátivas | IV.19.3 | `V4/V4.19.03-RC920-tativas.md` | **469** | 119 p. |
+| Vrites | IV.19.3 | `V4/V4.19.03-RC919-vrites.md` | 457 | **125 p.** |
+| Entropia e Sujeira Original | IV.19.3 | `V4/V4.19.03-RC918-entropia-e-sujeira-original.md` | 447 | 118 p. |
+| O Banquete Metafórico | IV.19.3 | `V4/V4.19.03-RC916-o-banquete-metaforico.md` | 450 | 120 p. |
+| Reciclador das Informações Universais | IV.19.3 | `V4/V4.19.03-RC917-reciclador-das-informacoes-universais.md` | 443 | 115 p. |
+| Westworld como Metáfora | IV.19.3 | `V4/V4.19.03-RC915-westworld-como-metafora.md` | **441** | **111 p.** |
+
+**Medida final:** 441–469 palavras (média 451) · **18 verbatim byte a byte** · 19 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 24 de 147** (123 restantes; `RC-936` remissiva permanente). Estado: 526 verbetes · **8.281 verbatim · 5.516 códigos · 0 falhas**.
+
+**Achados do lote 85 (Reciclador ×4 + Delírio Humano ×2):**
+
+1. **`RC-920` Tátivas (IV.19.3 — 11º da seção):** ficha mínima — «É o quaternário Ior, cheio de tá tuvas...»; fidelidade de grafia "tátiva" × "tá tuvas" anotada; 722/901 sem aresta; status 🟡 provisório.
+2. **`RC-919` Vrites (IV.19.3 — 12º da seção; maior ficha do lote, 125 p.):** ficha mínima — «A vida que nele surgiu Surgiu para pegar informação do ambiente... devolve informações pro meio ambiente.»; 722/901 sem aresta; status 🟡 provisório.
+3. **`RC-918` Entropia e Sujeira Original (IV.19.3 — 13º da seção):** ficha mínima — «A cada dia que passa... a entropia aumenta... ela dificulta a estruturação...»; 722/901 sem aresta; status 🟡 provisório.
+4. **`RC-917` Reciclador das Informações Universais (IV.19.3 — 14º da seção):** ficha mínima — «Um corpo humano ou qualquer corpo vivo, ele é uma antena...»; 722/901 sem aresta; status 🟡 provisório.
+5. **`RC-916` O Banquete Metafórico (IV.19.3 — 15º da seção; P2023-10-15):** ficha mínima — «O banquete já está servido e nós humanos não conseguimos nos banquetear...»; 722/749 sem aresta; status 🟡 provisório.
+6. **`RC-915` Westworld como Metáfora (IV.19.3 — 16º da seção; menor ficha do lote, 111 p.; P2023-10-15):** ficha mínima — «condicionados por memórias e algoritmos biológicos... em vez de exercermos um verdadeiro livre-arbítrio»; 722/749 sem aresta; status 🟡 provisório.
+7. **Divergência de legenda anotada, não harmonizada (1 subseção):** IV.19.3 (psiquismo ×2 — 573/637; 3+5+6 seguidores).
+8. **Seção tocada:** V4.19.03 10→16 (+6). Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 18 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Divergência sistemática de subclasse (6/6 fichas):** "5.1 Epistemologia / Cognição" × cadastro "4.4 Fenômenos físicos / energéticos" — anotada, não harmonizada (idem Lote 84).
+
+**Próximos (12º anel, grau 0 — 123 restantes):** por ordem decrescente — `RC-914`, `RC-913`, `RC-912`, `RC-911`, `RC-910`, `RC-909` (a confirmar no despacho do Lote 86).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
