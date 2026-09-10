@@ -2243,6 +2243,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 35 restantes):** por ordem decrescente — `RC-453`, `RC-452`, `RC-447`, `RC-445`, `RC-426`, `RC-413` (a confirmar no despacho do Lote 76).
 
+### Lote 76 — 11º anel, grau 1 (6 verbetes, 3.918 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 76 conform sugerido...» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `8199e0c` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Primeiro Pesquisador (cargo capelino) | II.8.1 | `V2/V2.08.01-RC447-primeiro-pesquisador.md` | **753** | 791 p. |
+| Hostes de Sophia | III.11.2 | `V3/V3.11.02-RC453-hostes-de-sophia.md` | 737 | **1.329 p.** |
+| Javé sem avatares ('Não tenho isto!') | III.9.1 | `V3/V3.09.01-RC426-jave-sem-avatares.md` | 664 | 517 p. |
+| Biocoletivos | III.13.5 | `V3/V3.13.05-RC445-biocoletivos.md` | 636 | 733 p. |
+| Grão-mestre (Sábios de Tau Ceti) | III.13.2 | `V3/V3.13.02-RC452-grao-mestre.md` | 589 | 520 p. |
+| Hara (avatar de Shiva) | III.10.5 | `V3/V3.10.05-RC413-hara.md` | **539** | 494 p. |
+
+**Medida final:** 539–753 palavras (média 653) · **27 verbatim byte a byte** · 110 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 30 de 59** (29 restantes). Estado: 473 verbetes · **7.985 verbatim · 4.653 códigos · 0 falhas**.
+
+**Achados do lote 76 (trilogia capelina, Javé, Hara):**
+
+1. **`RC-453` Hostes de Sophia (III.11.2 — 9º da seção; maior ficha do lote, 1.329 p.):** «contra Sophia e as suas hostes» / «combater Sophia e as suas Hostes bélicas!» (B057/B058); teoria do ser em revolta (p. 49, quarentena); Orbum RC-085 sem ficha; família Aia — omissão, 310 MA («OS AIAS E AÊS NUNCA ABRIRAM A BOCA»), Lila, «NÓS NÃO SOMOS GUERREIROS...»; fundação de 2021 (anjos apaixonados, múmias, 1994, «QUEM MANDAVA NA NOSSA CRIAÇÃO ERA A FAMÍLIA AIA»); «Os anjos de Sofia trouidaram todo mundo...» (D-9/D-10); **retenção O-7 respeitada** (março/2020); quarentenas mediumística + ufológica; aresta: `RC-453` associado-a `RC-009` (B058); `RC-450`/`RC-036` sem aresta; status 🟡 provisório.
+2. **`RC-452` Grão-mestre (III.13.2 — 18º da seção):** o "Primeiro Mestre" — «o 'Grão-mestre' daquela 'Universidade'...»; endereço cerimonioso; «não conseguimos refutar as argumentações»; «As suas premissas foram irrefutáveis, mas não as consideraremos como certas ou verdadeiras até ouvirmos as explicações do próprio Sophia.»; «Você tem uma mente brilhante!»; cargo, não nome; O-7; aresta: `RC-452` associado-a `RC-451` (B058); `RC-103`/`RC-450` sem aresta; status 🟡 provisório.
+3. **`RC-447` Primeiro Pesquisador (II.8.1 — 31º da seção):** «verificar os graus de atuação e de evolução dos seres...» / «para poderem conhecer o Criador e a sua Obra»; "simples pesquisador"; Antares, censura e «renunciar à função que exerci desde que fui urdido para esta realidade!»; «como pode pensar que conseguirá viver sem que esteja ligado a uma 'família', hierarquia e função»; demissão + Processador Yel; Segundo Pesquisador; ≠ primeiro escalão de Orbum; O-7 ufológica; aresta: `RC-447` associado-a `RC-142` (B057); `RC-442` sem aresta; status 🟡 provisório.
+4. **`RC-445` Biocoletivos (III.13.5 — 13º da seção):** «Os capelinos apresentam uma identidade coletiva...»; «porém são coletivos, e não têm uma identidade própria»; «os demais Biocoletivos espalhados pelo universo»; «não mais existirei como um ser coletivo para este universo?»; «parece ser exatamente o que nos mantêm dominados e controlados!»; nuance RC-442 (individualizados); O-7 ufológica; aresta: `RC-445` variação `RC-036` (B057); `RC-442`/`RC-443`/`RC-450` sem aresta; status 🟡 provisório.
+5. **`RC-426` Javé sem avatares (III.9.1 — 19º da seção):** «Na descendência deles... Não tenho isto! Eu sou o que sou tão somente...» (B036, p. 41); impossibilidade estrutural B016 (pp. 5/48/185, sem interpolar a fórmula); Adhydaiva/Adhybutha/Adhyajna (P2022-12-17); «Brahma não podia criar avatar porque ele é um ser desalmado.» (D-9/D-10); **quarentena teológica**; ficha sem seção de relacionados (cadastro); sem materializar RC-016/RC-425; aresta: `RC-426` opõe-se-a `RC-016` (B036); `RC-001`/`RC-102`/`RC-135`/`RC-094` sem aresta; RC-016 sem ficha; status 🟡 provisório.
+6. **`RC-413` Hara (III.10.5 — 1º da seção):** **materialização por despacho** 29/08/2026 (0/0, lacuna declarada); «Esse outro ser chamado rara... Rara vai se desconstituir junto com o final do universo.» (STT "rara", portão B, sem emenda); aresta: `RC-413` é-um `RC-102` (B051); `RC-073` sem aresta e sem ficha; `RC-094` sem aresta; primeiro codificado do endereço; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (5 subseções + 1 limpa):** III.11.2 (RC-009/530/565 legendas; RC-632 vol. Trimurti × ÍNDICE — RC-258/274/474/494) · III.13.2 (RC-024/036/486/587/769 legendas; RC-425/460/487 vols. × ÍNDICE — 9 seguidores) · II.8.1 — a segunda maior do lote (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; sem vol. ×7 × ÍNDICE — 7 seguidores) · III.13.5 (RC-411/454/456 legendas; RC-149 vol. × ÍNDICE — 8 seguidores) · III.9.1 — a maior da Enciclopédia (queda ×4; criadores ×4; RC-622 × ÍNDICE — 9 seguidores) · III.10.5 limpa (krishna sem código = ÍNDICE).
+8. **Seções tocadas:** V3.11.02 8→9 · V3.13.02 17→18 · V2.08.01 30→31 · V3.13.05 12→13 · V3.09.01 18→19 · V3.10.05 0→1 (endereço estreado em verbete codificado). Nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 1 → 0 (RC-426: aspas retas onde a ficha tem curvas — 'queda' U+2018/U+2019 — corrigida no pré-teste antes do verificador).
+10. **Statuses:** os seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 29 restantes):** por ordem decrescente — `RC-376`, `RC-373`, `RC-371`, `RC-369`, `RC-346`, `RC-331` (a confirmar no despacho do Lote 77).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

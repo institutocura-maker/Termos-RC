@@ -1649,3 +1649,23 @@ Acumulado: **467 verbetes** · 7.958 verbatim · 4.531 códigos · **0 falhas** 
 9. **Lição de ferramenta:** qualquer caminho `.txt`/`.md` entre crases no corpo do verbete é tratado pelo verificador como documento-fonte declarado (assert de existência) — citar nomes de arquivo com aspas retas, nunca crases.
 
 **Próximos (11º anel, grau 1 — 35 restantes):** por código decrescente — `RC-453`, `RC-452`, `RC-447`, `RC-445`, `RC-426`, `RC-413` (a confirmar no despacho do Lote 76).
+
+---
+
+## 10/09/2026 — Lote 76: 11º ANEL, GRAU 1 (6 verbetes, 3.918 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 76 conform sugerido...»
+
+`RC-453` Hostes de Sophia (**III.11.2 — 9º da seção**, 737 p.; ficha 1.329) · `RC-452` Grão-mestre (Sábios de Tau Ceti) (**III.13.2 — 18º da seção**, 589; 520) · `RC-447` Primeiro Pesquisador (cargo capelino) (**II.8.1 — 31º da seção**, 753; 791) · `RC-445` Biocoletivos (**III.13.5 — 13º da seção**, 636; 733) · `RC-426` Javé sem avatares ('Não tenho isto!') (**III.9.1 — 19º da seção**, 664; 517) · `RC-413` Hara (avatar de Shiva) (**III.10.5 — 1º da seção**, 539; 494).
+
+Acumulado: **473 verbetes** · 7.985 verbatim · 4.653 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 30 de 59 · 29 restantes.**
+
+1. **Ambiente estável** (HEAD = remoto = `8199e0c` na abertura; árvore limpa) — sem incidente de clone. Fichas lidas integralmente (1.329/520/791/733/517/494 = 4.384 p.); arestas via `dados_termos.py`; 21 pares verificados (6 arestas do lote + 15 sem-aresta).
+2. **Pré-teste:** 27 spans «» byte a byte nos 6 arquivos (8+5+4+5+4+1); **1 falha corrigida** — RC-426 aspas retas onde a ficha tem curvas ('queda' U+2018/U+2019); lote limpo no verificador (473 verbetes · 7.985 verbatim · 4.653 códigos · 0 falhas · Base intacta).
+3. **`RC-453` Hostes de Sophia (III.11.2 — maior ficha do lote, 1.329 p.):** Hostes bélicas/comando; teoria do ser p.49; Orbum RC-085 sem ficha; Aia (omissão/310MA/Lila/não-guerreiros); fundação 2021; D-9/D-10 2023; **retenção O-7 março/2020 respeitada**; O-7 med+ufo; aresta associado-a RC-009 (B058); RC-450/036 sem aresta; 🟡.
+4. **`RC-452` Grão-mestre (III.13.2):** Primeiro Mestre; recepção/advertência; veredito irrefutável + elogio; cargo não nome; O-7; aresta associado-a RC-451 (B058); RC-103/450 sem aresta; 🟡. **`RC-447` Primeiro Pesquisador (II.8.1):** incumbência; titular; censura/demissão/Processador Yel; ≠ primeiro escalão; O-7 ufo; aresta associado-a RC-142 (B057); RC-442 sem aresta; 🟡.
+5. **`RC-445` Biocoletivos (III.13.5):** identidade coletiva; capelinos × olimpianos; limiar da individualidade (pp. 70–71); nuance RC-442; O-7 ufo; aresta variação RC-036 (B057); RC-442/443/450 sem aresta; 🟡. **`RC-426` Javé sem avatares (III.9.1):** fórmula B036 p.41; estrutura B016 (sem interpolar); P2022-12-17 + D-9/D-10; **quarentena teológica**; ficha sem relacionados (cadastro); sem materializar 016/425; aresta opõe-se-a RC-016; RC-001/102/135/094 sem aresta; RC-016 sem ficha; 🟡. **`RC-413` Hara (III.10.5):** materialização despacho 29/08/2026 (0/0); rara/portão B; aresta é-um RC-102 (B051); RC-073 sem aresta + sem ficha; RC-094 sem aresta; 1º codificado; 🟡.
+6. **Divergências de legenda anotadas, não harmonizadas (5 + 1 limpa):** III.11.2 (RC-009/530/565; RC-632 × 258/274/474/494) · III.13.2 (RC-024/036/486/587/769; RC-425/460/487 × 9) · II.8.1 (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; sem-vol ×7 × 7) · III.13.5 (RC-411/454/456; RC-149 × 8) · III.9.1 (queda ×4; criadores ×4; RC-622 × 9) · III.10.5 limpa.
+7. **Seções:** V3.11.02 8→9 · V3.13.02 17→18 · V2.08.01 30→31 · V3.13.05 12→13 · V3.09.01 18→19 · V3.10.05 0→1 (estreia codificada). Nenhuma renomeação; nenhuma ficha tocada. **Statuses:** seis 🟡 — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 29 restantes):** por código decrescente — `RC-376`, `RC-373`, `RC-371`, `RC-369`, `RC-346`, `RC-331` (a confirmar no despacho do Lote 77).
