@@ -234,7 +234,7 @@ TERMOS = [
     ("RC-148", "Agentes da Vida Universal", SER_LOG[0], SER_LOG[1], "verificado", ["B031", "B024", "B001", "B002", "B014", "B005", "P2020-04-04"], "RC-149; RC-150; RC-160; RC-106; RC-107", True),
     ("RC-149", "Mônada (Mônada Espiritual)", SER_LOG[0], SER_LOG[1], "verificado", ['B024', 'B001', 'B002', 'B048', 'P2021-12-04', 'P2024-05-04', 'P2025-10-25', 'P2024-11-30', 'P2024-11-09'], 'RC-148; RC-100; RC-012; RC-603; RC-653', True),
     ("RC-150", "Xadrez Cósmico", COS_COG[0], "2.1 Cosmogonia / Criação", "verificado", ["B024"], "RC-104; RC-075; RC-148; RC-152", True),
-    ("RC-151", "Gunas Criadoras (Sattva, Rajas, Tamas)", TER_SAN[0], TER_SAN[1], "em análise", ['B024', 'P2024-09-29', 'P2024-02-03', 'P2024-09-28', 'P2024-11-03', "P2012-02-19", "P2021-04-10"], 'RC-102; RC-135; RC-152; RC-037', True),
+    ("RC-151", "Gunas Criadoras (Sattva, Rajas, Tamas)", TER_SAN[0], TER_SAN[1], "verificado", ['B024', 'P2024-09-29', 'P2024-02-03', 'P2024-09-28', 'P2024-11-03', "P2012-02-19", "P2021-04-10"], 'RC-102; RC-135; RC-152; RC-037', True),
     ("RC-152", "Prabrajna", SER_DIV[0], SER_DIV[1], "verificado", ['B024', 'B044', 'B001', 'B016', 'B013', 'B022', 'B060', 'B061', 'P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2024-11-30', 'P2024-11-09', 'P2024-04-14', 'P2025-06-14b', 'P2024-03-02', 'B089', 'P2024-11-03', "P2024-06-16", "P2021-06-26"], 'RC-151; RC-150; RC-037; RC-094; RC-087; RC-628; RC-629; RC-638; RC-691; RC-604; RC-167; RC-530; RC-559', True),
     ("RC-153", "CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador)", COS_LEI[0], COS_LEI[1], "em análise", ['B024', 'B041', 'B019', 'P2025-03-15'], 'RC-040; RC-091; RC-154', True),
     ("RC-154", "Nidana (ovo cósmico)", COS_COG[0], COS_COG[1], "em análise", ['B024', 'P2024-05-04', 'P2025-03-15', 'P2024-11-30', 'P2024-04-13', 'P2023-09-09', 'P2023-04-15', 'P2020-04-25', "P2024-06-16", "P2018-12-15", "P2026-03-21"], 'RC-153; RC-091; RC-691; RC-693', True),
@@ -760,7 +760,7 @@ TERMOS = [
     ("RC-615", "Superconsciência", COS_PRO[0], COS_PRO[1], "verificado", ['P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2023-06-17', "P2024-06-16"], 'RC-614; RC-092; RC-009; RC-003; RC-619; RC-694; RC-695; RC-709', True),
     ("RC-616", "Roseral do Alto", LOK_MUN[0], LOK_MUN[1], "verificado", ["P2021-12-04", 'P2023-04-29'], "RC-617; RC-612; RC-513", True),
     ("RC-617", "Inquisição Espiritual (obra anunciada)", TEC_ESC[0], TEC_ESC[1], "verificado", ["P2021-12-04", "P2021-05-15", "P2021-02-28"], "RC-616; RC-612; RC-071", True),
-    ("RC-618", "Moksha", TER_SAN[0], TER_SAN[1], "em análise", ['P2021-12-04', 'P2026-07-30', 'P2024-02-03'], "RC-166; RC-253; RC-514; RC-552", True),
+    ("RC-618", "Moksha", TER_SAN[0], TER_SAN[1], "verificado", ['P2021-12-04', 'P2026-07-30', 'P2024-02-03'], "RC-166; RC-253; RC-514; RC-552", True),
     ("RC-619", "Genoma da Liberdade", PRO_BIO[0], PRO_BIO[1], "em análise", ['P2021-12-04', 'P2024-05-04', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-07-13', 'P2025-07-18', 'P2023-12-03'], 'RC-217; RC-400; RC-253; RC-564; RC-614; RC-615; RC-633; RC-646; RC-710; RC-712; RC-727', True),
 
     # ---- Devolutiva-01 da live P2026-07-30 — Estagiários do Kaos
