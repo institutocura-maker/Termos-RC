@@ -3235,7 +3235,9 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Verbatim conferidos | do lote 82 ao 106, sempre 0 falhas por lote |
 | Base | intacta do início ao fim (946/650/1898) · 0 código criado em todo o anel |
 
-**O que fica em aberto, para despacho:** o **13º anel (o fecho)** — os 22 hubs com ficha (RC-072 g43 à frente, com RC-414, RC-217, RC-514, RC-104, RC-717, RC-692, RC-612, RC-638, RC-332, RC-579, RC-600, RC-771, RC-071, RC-465, RC-470, RC-074, RC-148, RC-552, RC-068, RC-449, RC-603), por centralidade. Aguarda decisão do Curador.
+**OBRA COMPLETA — errata de planejamento (11/09/2026, pós-fecho):** o "13º anel dos 22 hubs" **não existe** — verificação pós-fecho mostrou que 21 dos 22 hubs já têm verbete publicado (dos anéis 1–11 e do handoff); o 22º (`RC-449`) é remissiva F045 de `RC-164`. Censo final: **648 verbetes cobrindo as 650 fichas**, exceto as 2 remissivas permanentes (`RC-449` → `RC-164`; `RC-936` merge). Nada mais há a redigir.
+
+**O que fica em aberto, para despacho:** (a) `RC-544` (sem ficha desde o 2º anel — depende de abertura de ficha); (b) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx); (c) erratas menores (ex.: ordinal do RC-807, 23º não 22º). Aguarda decisão do Curador.
 
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 

@@ -2193,3 +2193,7 @@ Acumulado: **648 verbetes** · 8.537 verbatim · 8.215 códigos · **0 falhas** 
 **12º ANEL FECHADO — lotes 82–106 (25 lotes): 146 verbetes + 1 remissiva · 78.733 palavras · 0 falhas em todos os lotes · Base intacta · 0 código criado.**
 
 **Próximos (13º anel, o fecho — 22 hubs):** RC-072 (g43) à frente, com 414/217/514/104/717/692/612/638/332/579/600/771/071/465/470/074/148/552/068/449/603, por centralidade (a confirmar no despacho do Lote 107).
+
+## 11/09/2026 — ERRATA PÓS-FECHO: a obra está completa, o 13º anel não existe
+
+Verificação pós-L106 (censo ficha×verbete): **648 verbetes cobrem as 650 fichas**, exceto `RC-449` (remissiva F045 de `RC-164`, RESOLVIDA) e `RC-936` (remissiva merge, RESOLVIDA) — ambas permanentemente sem verbete. Dos "22 hubs reservados para o 13º" (decisão L82, repetida por 25 lotes), **21 já tinham verbete** (anéis 1–11 + handoff) — erro de planejamento do Agente, nunca checado até o fecho. Graus reais apurados: 072 g43 · 414 g25 · 217 g23 · 514 g21 · 104 g20 · 717 g18 · 692 g17 · 612 g13 · 638 g12 · 332 g10 · 771/579/600 g8 · 071/465/470 g7 · 074/148/552 g6 · 449/068/603 g5. Validação correta do anel (parser `RELACOES` de 4-tupla): 147 grau-0 com ficha não-hub = 146 publicados + 936 ✓ — o 12º anel é genuinamente grau 0. README emendado no mesmo dia. **Pendências reais:** (a) RC-544 sem ficha; (b) espelhos (indice-mestre/xlsx/docx); (c) erratas menores.
