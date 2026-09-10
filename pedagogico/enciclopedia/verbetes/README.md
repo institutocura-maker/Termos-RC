@@ -2211,6 +2211,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 41 restantes):** por ordem decrescente — `RC-528`, `RC-500`, `RC-497`, `RC-494`, `RC-466`, `RC-464` (a confirmar no despacho do Lote 75).
 
+### Lote 75 — 11º anel, grau 1 (6 verbetes, 3.822 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 75 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `d7a14dd` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Inanna (= Danu; Anunnaki) | III.13.2 | `V3/V3.13.02-RC464-inanna-danu-anunnaki.md` | **985** | **1.697 p.** |
+| Dinastia das Sophias | III.11.2 | `V3/V3.11.02-RC494-dinastia-das-sophias.md` | 662 | 385 p. |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | I.3.4 | `V1/V1.03.04-RC466-bebida-dos-deuses.md` | 639 | 671 p. |
+| Almaior / Alamaior — erro histórico de STT | II.7.4 | `V2/V2.07.04-RC500-almaior-alamaior.md` | 578 | 611 p. |
+| Impérial — erro histórico de STT | II.7.6 | `V2/V2.07.06-RC497-imperial.md` | 493 | 276 p. |
+| Mergulho (designação ellâmica da queda) | II.6.3 | `V2/V2.06.03-RC528-mergulho.md` | **465** | 266 p. |
+
+**Medida final:** 465–985 palavras (média 637) · **44 verbatim byte a byte** · 73 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 24 de 59** (35 restantes). Estado: 467 verbetes · **7.958 verbatim · 4.531 códigos · 0 falhas**.
+
+**Achados do lote 75 (âncora, erros STT, Sophias, soma, Inanna):**
+
+1. **`RC-528` Mergulho (II.6.3 — 2º da seção):** **verbete-chave do Volume II** — «mergulho», não «queda»: da culpa teológica à descida voluntária malcalculada; o Quarto Logos «mergulhou» no universo biológico; Prabrajna = o mergulho que deu errado → Criação Indevida; **materialização F045** (âncora estrutural, Apêndice D do ÍNDICE), fontes em registro-mestre censado; aresta: `RC-528` variação `RC-167` (B072); `RC-515` (sem ficha)/`RC-152`/`RC-092` sem aresta; subseção sem divergência; status ⚪ candidato.
+2. **`RC-500` Almaior/Alamaior (II.7.4 — 4º da seção):** ficha de advertência — «Produzir espécies através do forno de Alamaior [STT], os biodemos.»; correção pelo material do curador (ART-2025-08-01, O-4); família «Almaior/Alamaior/Aáon/Aamaion» como instabilidade de STT; berço provável em 2019 («a maior»/«A maior»/«Aa maior»); **sem fusão**; AGUARDA-ÁUDIO F039-L3; aresta: `RC-500` erro-stt-de `RC-499` (ART-2025-08-01); código imutável; status ⚪ candidato.
+3. **`RC-497` Impérial (II.7.6 — 8º da seção):** ficha de advertência — «A turma de Antérion, de Danérion, de Mermérion, de Perpérion, de Tempérion.»: cinco Archeons, não seis; curadoria estrutural C-01 a C-07; aresta: `RC-497` erro-stt-de `RC-087` (P2021-12-04); `RC-496` sem aresta; regra de evidência (STT sem áudio); código imutável; status ⚪ candidato.
+4. **`RC-494` Dinastia das Sophias (III.11.2 — 8º da seção):** terceiro conselho — «A nossa palestra é sobre o Eloim, o conselho dos arcontes ou o conselho das Sophias ou a dinastia das Sophias, porque são conceitos que significam a mesma coisa.»; consciências fatiadas de Emá/Ensá; «Sofia não é nome — é epíteto»; 70 clãs desde Babel; Jesus rejeitado, Saibaba recusou; função (manter o criador caído vivo) e crise terminal ("dias contados"); B068 como base publicada; aresta: `RC-474` relaciona-se-a `RC-494` (P2026-07-25); `RC-476`/`RC-477`/`RC-293`/`RC-009`/`RC-770` sem aresta; **classificação divergente** (ficha SERES 1.2 × cadastro/ÍNDICE Genealogias 6.1) e **status divergente** (ficha 🟡 × ⚪ — padrão RC-010).
+5. **`RC-466` Bebida dos Deuses (I.3.4 — 4º da seção):** **materialização por despacho** 29/08/2026 (0/0; ficha declara a lacuna); o remédio dos elétrons («desculpem a metáfora sem futuro, mas é o jeito»); a ilha dos imortais («paraa», «em Tumando» — STT sem emenda); a primeira beberagem («Quando Soma surgiu, aí a loucura de Deus atrás de Soma para beber.»; «Então o próprio Maarata diz: "Surgiu, mas também ninguém sabe muita coisa".»); aspas do portão B, áudio não conferido; aresta: `RC-734` resulta-em `RC-466` (P2024-11-02); `RC-049`/`RC-145` sem aresta (declarado na ficha); status 🟠 em análise.
+6. **`RC-464` Inanna (III.13.2 — 17º da seção; maior ficha do lote, 1.697 p.):** Inanna = Danu — «a deusa Danana é a deusa inana... toatas quer dizer seguidores»; «Anu tinha uma neta chamada Inana.»; ISAR ≈ ISHTAR **encerrada-cravada** (Q-F038-D D1); Senequiribe chancelado; «E se enfraqueciam, não se multiplicavam.»; «não é demo, é biológica»; Turatas de Danã (D-9/D-10); virada política pró-humanidade sob **quarentena religiosa** («Lilif» ≠ Lilith); **direção da equivalência selada** (B060 × oral); TEXTO CORROMPIDO preservado; B5a AGUARDA-ÁUDIO; **materialização O-8** (números da época = retrato histórico); **nota defasada** (ficha diz RC-398 "sem ficha" × censo com ficha — padrão RC-093); aresta: `RC-464` relaciona-se-a `RC-398` (B060); `RC-024` + 9 vínculos de leitura O-8 sem aresta; status 🟠 (regra interna "🟡" anotada sem harmonizar).
+7. **Divergências de legenda anotadas, não harmonizadas (5 subseções + 1 limpa):** II.6.3 limpa (RC-196 = ÍNDICE) · II.7.4 (RC-495 vol. códigos × ÍNDICE — RC-265/616) · II.7.6 (RC-471/730 campos; RC-496/731 vol. curto; RC-775 sem vol. × ÍNDICE — RC-626/776) · III.11.2 (RC-009/530/565 legendas; RC-632 vol. Trimurti × ÍNDICE — RC-258/274/474) · I.3.4 (RC-192 instrumentos + vol. próprio × ÍNDICE — RC-576/666) · III.13.2 (RC-024/036/486/587/769 legendas; RC-425/460/487 vols. × ÍNDICE — 8 seguidores).
+8. **Seções tocadas:** V2.06.03 1→2 · V2.07.04 3→4 · V2.07.06 7→8 · V3.11.02 7→8 · V1.03.04 3→4 · V3.13.02 16→17. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste 44/44 limpo; verificador travou 1 vez por armadilha de ferramenta (`original.txt` entre crases — o verificador o trata como documento-fonte declarado; crases removidas, sem tocar no texto) — 0 falhas de conteúdo.
+10. **Statuses:** RC-466/464 🟠 em análise — consistentes; RC-528/500/497 ⚪ candidato — consistentes; **RC-494 divergente** (ficha 🟡 × cadastro/ÍNDICE ⚪) + classificação divergente (ficha × cadastro/ÍNDICE).
+
+**Próximos (11º anel, grau 1 — 35 restantes):** por ordem decrescente — `RC-453`, `RC-452`, `RC-447`, `RC-445`, `RC-426`, `RC-413` (a confirmar no despacho do Lote 76).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

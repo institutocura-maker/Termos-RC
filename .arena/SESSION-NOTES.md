@@ -1627,3 +1627,25 @@ Acumulado: **461 verbetes** · 7.914 verbatim · 4.454 códigos · **0 falhas** 
 8. **Seções:** V3.15.01 5→6 · V2.07.06 6→7 · V2.07.03 2→3 · V5.23.01 14→15 · V4.20.01 16→17 · V5.23.02 2→3. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** RC-555/554 🟡 consistentes; RC-627/626/574 ⚪ consistentes; RC-534 divergente (segue cadastro/ÍNDICE).
 
 **Próximos (11º anel, grau 1 — 41 restantes):** por código decrescente — `RC-528`, `RC-500`, `RC-497`, `RC-494`, `RC-466`, `RC-464` (a confirmar no despacho do Lote 75).
+
+---
+
+## 10/09/2026 — Lote 75: 11º ANEL, GRAU 1 (6 verbetes, 3.822 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 75 como sugerido.»
+
+`RC-528` Mergulho (designação ellâmica da queda) (**II.6.3 — 2º da seção**, 465 p.; ficha 266) · `RC-500` Almaior / Alamaior (**II.7.4 — 4º da seção**, 578; 611) · `RC-497` Impérial (**II.7.6 — 8º da seção**, 493; 276) · `RC-494` Dinastia das Sophias (**III.11.2 — 8º da seção**, 662; 385) · `RC-466` Bebida dos Deuses (Ambrosia/Amrita/Soma) (**I.3.4 — 4º da seção**, 639; 671) · `RC-464` Inanna (= Danu; Anunnaki) (**III.13.2 — 17º da seção**, 985; 1.697).
+
+Acumulado: **467 verbetes** · 7.958 verbatim · 4.531 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 24 de 59 · 35 restantes.**
+
+1. **Ambiente estável** (HEAD = remoto = `d7a14dd` na abertura; árvore limpa) — sem incidente de clone. Fichas lidas integralmente (266/611/276/385/671/1.697 = 3.906 p.); arestas via `dados_termos.py`; 27 pares verificados (6 arestas do lote + 21 sem-aresta).
+2. **Pré-teste:** 44 spans «» byte a byte nos 6 arquivos (5+8+1+2+5+23), **0 falhas**; verificador travou 1 vez em armadilha de ferramenta (`original.txt` entre crases em RC-466 — documento-fonte declarado inexistente; crases removidas sem tocar no texto) e passou limpo (467 verbetes · 7.958 verbatim · 4.531 códigos · 0 falhas · Base intacta).
+3. **`RC-528` Mergulho (II.6.3):** verbete-chave do Vol. II; «mergulho» × «queda»; F045 âncora estrutural (Apêndice D); registro-mestre censado; aresta variação RC-167 (B072); RC-515 (sem ficha)/152/092 sem aresta; subseção limpa; ⚪.
+4. **`RC-500` Almaior (II.7.4) + `RC-497` Impérial (II.7.6):** duas fichas de advertência (código imutável); RC-500 via ART-2025-08-01 O-4 (curador), berço 2019, AGUARDA-ÁUDIO F039-L3, aresta erro-stt-de RC-499; RC-497 via C-01–C-07, cinco Archeons, aresta erro-stt-de RC-087, RC-496 sem aresta; ambos ⚪.
+5. **`RC-494` Dinastia das Sophias (III.11.2):** terceiro conselho (P2026-07-25, Dossiê 19/08/2026); Emá/Ensá; epíteto; 70 clãs; Jesus/Saibaba; crise terminal; B068; aresta RC-474 rel RC-494; RC-476/477/293/009/770 sem aresta; **classificação ficha SERES 1.2 × cadastro/ÍNDICE Genealogias 6.1 + status ficha 🟡 × ⚪** (verbete segue cadastro/ÍNDICE).
+6. **`RC-466` Bebida dos Deuses (I.3.4):** materialização despacho 29/08/2026 (0/0, lacuna declarada); Satchidanandaghana/elétrons; ilha dos imortais (STT sem emenda); Soma/Maarata; portão B; aresta RC-734 resulta-em RC-466 (P2024-11-02); RC-049/145 sem aresta; 🟠. **`RC-464` Inanna (III.13.2 — maior ficha do lote, 1.697 p.):** Inanna=Danu; ISAR=Ishtar cravada D1; Senequiribe; biológica; Turatas D-9/D-10; quarentenas teo/ufo/histórica; equivalência selada; corrompido preservado; O-8 (retrato histórico 451/777/1856); **RC-398 com ficha (nota defasada, padrão RC-093)**; aresta rel RC-398; RC-024 + 9 vínculos O-8 sem aresta; 🟠 (regra interna 🟡 anotada).
+7. **Divergências de legenda anotadas, não harmonizadas (5 + 1 limpa):** II.6.3 limpa · II.7.4 (RC-495) · II.7.6 (RC-471/730; RC-496/731; RC-775 × RC-626/776) · III.11.2 (RC-009/530/565; RC-632 × RC-258/274/474) · I.3.4 (RC-192 × RC-576/666) · III.13.2 (RC-024/036/486/587/769; RC-425/460/487 × 8 seguidores).
+8. **Seções:** V2.06.03 1→2 · V2.07.04 3→4 · V2.07.06 7→8 · V3.11.02 7→8 · V1.03.04 3→4 · V3.13.02 16→17. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** RC-466/464 🟠 consistentes; RC-528/500/497 ⚪ consistentes; RC-494 duplamente divergente (segue cadastro/ÍNDICE).
+9. **Lição de ferramenta:** qualquer caminho `.txt`/`.md` entre crases no corpo do verbete é tratado pelo verificador como documento-fonte declarado (assert de existência) — citar nomes de arquivo com aspas retas, nunca crases.
+
+**Próximos (11º anel, grau 1 — 35 restantes):** por código decrescente — `RC-453`, `RC-452`, `RC-447`, `RC-445`, `RC-426`, `RC-413` (a confirmar no despacho do Lote 76).
