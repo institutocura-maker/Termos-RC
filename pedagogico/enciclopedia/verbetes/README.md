@@ -2998,7 +2998,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Achados do lote 99 (o bloco Pandora/avatares/religiões — P2017-05-14 + P2018-02-24, 802–807):**
 
-1. **`RC-807` Padrão de Consciência (IV.18.3 — 22º da seção):** 2 spans — «...padrão de consciência X...» + «...o deslacre veio de um ponto que onde ninguém esperava»; quarentena científica; status ⚪ candidato.
+1. **`RC-807` Padrão de Consciência (IV.18.3 — 23º da seção):** 2 spans — «...padrão de consciência X...» + «...o deslacre veio de um ponto que onde ninguém esperava»; quarentena científica; status ⚪ candidato.
 2. **`RC-806` Desvio de Rota (III.16.1 — 5º da seção; maior ficha do lote, 710 p.):** 2 spans — «...prenda surpresa...» + «...apaixonou pelos homoenses...»; 3 fontes; 9 códigos; 270/271 sem ficha; status ⚪ candidato.
 3. **`RC-805` Espiritismo (V.27.1 — 5º da seção):** 1 span — «...o verme, no germe da poluição...» (núcleo do span do RC-803 — fonte partilhada anotada); QUARENTENA FORTE (autocrítica kardecista); 105 em 3 linhas, sem ficha; status ⚪ candidato.
 4. **`RC-804` Versão Oficial (IV.19.1 — 20º da seção; menor ficha do lote, 517 p.):** 2 spans — «...revisadas modificadas...» + «...transformou a beleza grega em pecado»; cita o hub RC-072; 105 sem ficha; status ⚪ candidato.
@@ -3235,13 +3235,13 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 | Verbatim conferidos | do lote 82 ao 106, sempre 0 falhas por lote |
 | Base | intacta do início ao fim (946/650/1898) · 0 código criado em todo o anel |
 
-**OBRA COMPLETA — errata de planejamento (11/09/2026, pós-fecho):** o "13º anel dos 22 hubs" **não existe** — verificação pós-fecho mostrou que 21 dos 22 hubs já têm verbete publicado (dos anéis 1–11 e do handoff); o 22º (`RC-449`) é remissiva F045 de `RC-164`. Censo final: **648 verbetes cobrindo as 650 fichas**, exceto as 2 remissivas permanentes (`RC-449` → `RC-164`; `RC-936` merge). Nada mais há a redigir.
+**OBRA COMPLETA — errata de planejamento (10/09/2026, pós-fecho):** o "13º anel dos 22 hubs" **não existe** — verificação pós-fecho mostrou que 21 dos 22 hubs já têm verbete publicado (dos anéis 1–11 e do handoff); o 22º (`RC-449`) é remissiva F045 de `RC-164`. Censo final: **648 verbetes cobrindo as 650 fichas**, exceto as 2 remissivas permanentes (`RC-449` → `RC-164`; `RC-936` merge). Nada mais há a redigir.
 
-**O que fica em aberto, para despacho:** ~~(a) `RC-544` (sem ficha desde o 2º anel — depende de abertura de ficha)~~ **RESOLVIDO no Lote 107 (11/09/2026)**; (b) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx); (c) erratas menores (ex.: ordinal do RC-807, 23º não 22º). Aguarda decisão do Curador.
+**O que fica em aberto, para despacho:** ~~(a) `RC-544` (sem ficha desde o 2º anel — depende de abertura de ficha)~~ **RESOLVIDO no Lote 107 (10/09/2026)**; (b) a regeneração dos espelhos (`indice-mestre.md`, xlsx, docx); (c) erratas menores (ex.: ordinal do RC-807, 23º não 22º). Aguarda decisão do Curador.
 
 ### Lote 107 — pós-fecho: a 651ª ficha (1 verbete, 733 palavras)
 
-**Despacho do Curador (11/09/2026):** abertura de ficha + verbete autorizados («tudo»). *(Ambiente: estável — sem incidente; primeira alteração à Base desde o fecho da edição.)*
+**Despacho do Curador (10/09/2026):** abertura de ficha + verbete autorizados («tudo»). *(Ambiente: estável — sem incidente; primeira alteração à Base desde o fecho da edição.)*
 
 | Verbete | Endereço | Arquivo | Palavras | Ficha |
 |---|---|---|---|---|
@@ -3257,7 +3257,7 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 4. **Divergências IV.18.3 (7 arquivos, anotadas):** 518/543/619/732 ("O corpo e a herança") · 646 ("Corpo, suporte e transferência") · 729/748 (vol. "A constituição do ser humano").
 5. Pré-teste estrito 3/3 de primeira, 0 falhas. Estado: **649 verbetes · 8.540 verbatim · 8.249 códigos · 0 falhas**. Censo final: **649 verbetes cobrindo as 651 fichas**, exceto as 2 remissivas permanentes (`RC-449`, `RC-936`).
 
-### Manutenção curatorial — caso Rxaça = Rakshasa + remissiva RC-872 (11/09/2026)
+### Manutenção curatorial — caso Rxaça = Rakshasa + remissiva RC-872 (10/09/2026)
 
 **Despacho do Curador:** "Rxaça me parece ser rakshasa" — investigação do Agente confirmou com 6 evidências (a decisiva: "Ravana, rei dos rxaças", P2025-11-29); despacho «tudo»: anotar + renomear 794 + avaliar 872 como remissiva.
 

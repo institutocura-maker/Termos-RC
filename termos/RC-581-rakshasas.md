@@ -75,15 +75,15 @@ A transliteração Rakshasas foi aprovada pelo curador.
 
 ---
 
-## Absorção de RC-872 — F045 · 11/09/2026
+## Absorção de RC-872 — F045 · 10/09/2026
 
 O código **RC-872** («Rakchasas (estirpe dos sugadores de sangue)», fonte única P2022-07-16) era
 variante transliterada (ch × sh) deste ente: "estirpe programada no DNA para sugar o sangue
 dos mamíferos" — a mesma definição ("criados para chupar sangue de mamíferos"; "criados como
 vampiros"). Fontes e referências unificadas aqui (6 fontes; RC-322/RC-102/RC-414 incorporados).
-Remissiva em RC-872. Despacho do Curador, 11/09/2026 (caso Rxaça = Rakshasa).
+Remissiva em RC-872. Despacho do Curador, 10/09/2026 (caso Rxaça = Rakshasa).
 
-## Nota — paralelo RC-794 (11/09/2026 · despacho do Curador)
+## Nota — paralelo RC-794 (10/09/2026 · despacho do Curador)
 
 - A família STT "rxá / Rxaça / Rxassa / rachaça / raxchaça / raquchas" (RC-794 e paralelos F038:
 P2023-05-13, P2025-02-16, P2025-11-29 "Ravana, rei dos rxaças", P2022-03-26 "Pros rakas echaças")

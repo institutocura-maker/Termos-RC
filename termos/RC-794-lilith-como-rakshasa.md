@@ -16,7 +16,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 ## Etimologia / Grafias
 - **Grafia preferida:** Lilith como Rakshasa (Espécie Não-Humana)
 - **Variações STT capturadas:** "Rxassa", "Rchaça", "Rxaças", "rachaças", "Lilif", "Lili"
-- **Idioma de origem:** Sânscrito rākṣasa (clássico); "Rxaça/Rxassa/rachaça/raxchaça" são degradação STT — ver Resolução 11/09/2026 em Observações
+- **Idioma de origem:** Sânscrito rākṣasa (clássico); "Rxaça/Rxassa/rachaça/raxchaça" são degradação STT — ver Resolução 10/09/2026 em Observações
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -46,7 +46,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 ## Observações
 - **Quarentena demonológica FORTE**: a tese afasta Lilith da demonologia judaica-cristã tradicional (1ª esposa de Adão, mãe de demônios) — **NÃO FUSIONAR**.
 - [REVISAR → ENCERRADO 2026-09-05 · F038-L2: ver nota — paralelos confirmados em 4 palestras]: a grafia "Rxaça" pode ter paralelo em outras palestras com a grafia "rachacha" ou similar.
-- ~~O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.~~ **RESOLVIDO 11/09/2026: é RC-581 (Rakshasas) — ver Resolução abaixo.**
+- ~~O conceito de "espécie Rxaça" pode ter ficha dedicada (RC-###) — verificar.~~ **RESOLVIDO 10/09/2026: é RC-581 (Rakshasas) — ver Resolução abaixo.**
 
 ## Ampliação — P2024-03-17
 
@@ -58,7 +58,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 
 - **«Rxaça» tem paralelo? (l. 48): ENCERRADA — SIM, confirmado em 4 palestras.** P2023-05-13 («os rxaças começam a fazer sacrifício»), P2025-02-16 («comandada pelos rxaças e pelos olimpianos»), P2025-11-29 («Ravana, rei dos rxaças») e — a mais forte — P2022-03-26, onde o expositor se autodecorre: «Pros rakas echaças. Rxaças, ele criou 1.400.000 versos...» (a busca oral pela grafia cravando «Rxaças»). O termo é uso coerente do corpus, não incidente único.
 
-## Nota — RESOLUÇÃO RXAÇA = RAKSHASA (11/09/2026 · despacho do Curador)
+## Nota — RESOLUÇÃO RXAÇA = RAKSHASA (10/09/2026 · despacho do Curador)
 
 - **Veredito:** "Rxaça" (e as variantes "Rxassa", "Rchaça", "rachaça", "raxchaça", "raquchas", "rxá") é degradação STT de **Rakshasa** (sânscrito rākṣasa) — o termo canônico **RC-581**. Título do cadastro, ficha e verbete unificados em "Rakshasa"; as formas STT ficam preservadas nas citações, sem harmonização.
 - **Provas:** (1) "Ravana, rei dos rxaças" (P2025-11-29, original) — Ravana é o rei dos rakshasas no Ramayana; (2) a mesma cifra e estrutura frasal — "mais de 1000 tipos de rachas" (U0006) × "os rakshasas são mais de 1.000 espécies nesse gênero" (RC-581, P2024-08-03); (3) a mesma definição — "Um vampiro... que passava pelos portais" (P2024-03-17) × "criados como vampiros para passarem pelos portais" (RC-581, P2022-12-17); (4) "Pros rakas echaças" (P2022-03-26) em lista de classes sânscritas (gandarvas, vasus, pitris) com os 100.000 versos do Mahabharata.

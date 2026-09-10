@@ -2039,7 +2039,7 @@ Acumulado: **598 verbetes** · 8.455 verbatim · 7.217 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 51 restantes):** por código decrescente — `RC-813`, `RC-812`, `RC-811`, `RC-810`, `RC-809`, `RC-808` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 98).
 
-## 11/09/2026 — Lote 98: 12º ANEL, GRAU 0 (6 verbetes, 3.990 palavras)
+## 10/09/2026 — Lote 98: 12º ANEL, GRAU 0 (6 verbetes, 3.990 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 98 como sugerido.» (antecipado; cumprido após publicar o L97.)
 
@@ -2056,7 +2056,7 @@ Acumulado: **604 verbetes** · 8.466 verbatim · 7.327 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 45 restantes):** por código decrescente — `RC-807`, `RC-806`, `RC-805`, `RC-804`, `RC-803`, `RC-802` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 99).
 
-## 11/09/2026 — Lote 99: 12º ANEL, GRAU 0 (6 verbetes, 3.632 palavras)
+## 10/09/2026 — Lote 99: 12º ANEL, GRAU 0 (6 verbetes, 3.632 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 99 como sugerido.»
 
@@ -2073,7 +2073,7 @@ Acumulado: **610 verbetes** · 8.476 verbatim · 7.433 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 39 restantes):** por código decrescente — `RC-800`, `RC-799`, `RC-798`, `RC-797`, `RC-796`, `RC-795` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 100).
 
-## 11/09/2026 — Lote 100: 12º ANEL, GRAU 0 (6 verbetes, 3.764 palavras)
+## 10/09/2026 — Lote 100: 12º ANEL, GRAU 0 (6 verbetes, 3.764 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 100 como sugerido.»
 
@@ -2090,7 +2090,7 @@ Acumulado: **616 verbetes** · 8.487 verbatim · 7.546 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 33 restantes):** por código decrescente — `RC-794`, `RC-793`, `RC-792`, `RC-791`, `RC-790`, `RC-789` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 101).
 
-## 11/09/2026 — Lote 101: 12º ANEL, GRAU 0 (6 verbetes, 3.794 palavras)
+## 10/09/2026 — Lote 101: 12º ANEL, GRAU 0 (6 verbetes, 3.794 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 101 como sugerido.»
 
@@ -2107,7 +2107,7 @@ Acumulado: **622 verbetes** · 8.499 verbatim · 7.688 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 27 restantes):** por código decrescente — `RC-788`, `RC-787`, `RC-786`, `RC-785`, `RC-784`, `RC-783` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 102).
 
-## 11/09/2026 — Lote 102: 12º ANEL, GRAU 0 (6 verbetes, 3.996 palavras)
+## 10/09/2026 — Lote 102: 12º ANEL, GRAU 0 (6 verbetes, 3.996 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 102 como sugerido.»
 
@@ -2124,7 +2124,7 @@ Acumulado: **628 verbetes** · 8.511 verbatim · 7.825 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 21 restantes):** por código decrescente — `RC-782`, `RC-781`, `RC-780`, `RC-779`, `RC-778`, `RC-689` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 103).
 
-## 11/09/2026 — Lote 103: 12º ANEL, GRAU 0 (6 verbetes, 3.809 palavras)
+## 10/09/2026 — Lote 103: 12º ANEL, GRAU 0 (6 verbetes, 3.809 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 103 como sugerido.»
 
@@ -2141,7 +2141,7 @@ Acumulado: **634 verbetes** · 8.519 verbatim · 8.010 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 15 restantes):** por código decrescente — `RC-506`, `RC-305`, `RC-230`, `RC-228`, `RC-191`, `RC-165` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 104).
 
-## 11/09/2026 — Lote 104: 12º ANEL, GRAU 0 (6 verbetes, 3.180 palavras)
+## 10/09/2026 — Lote 104: 12º ANEL, GRAU 0 (6 verbetes, 3.180 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 104 como sugerido.»
 
@@ -2158,7 +2158,7 @@ Acumulado: **640 verbetes** · 8.527 verbatim · 8.130 códigos · **0 falhas** 
 
 **Próximos (12º anel, grau 0 — 9 restantes):** por código decrescente — `RC-120`, `RC-089`, `RC-062`, `RC-046`, `RC-031`, `RC-021` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 105). Restarão `RC-018` + `RC-017` para o Lote 106, o fecho do anel.
 
-## 11/09/2026 — Lote 105: 12º ANEL, GRAU 0 (6 verbetes, 3.228 palavras)
+## 10/09/2026 — Lote 105: 12º ANEL, GRAU 0 (6 verbetes, 3.228 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 105 como sugerido.»
 
@@ -2175,7 +2175,7 @@ Acumulado: **646 verbetes** · 8.534 verbatim · 8.194 códigos · **0 falhas** 
 
 **Próximos (12º anel — 3 restantes):** o fecho — `RC-018` Alt´Lam Gron + `RC-017` Alt´Lam (ambos 🟠; `RC-936` remissiva permanente) (a confirmar no despacho do Lote 106, o fecho do 12º anel).
 
-## 11/09/2026 — Lote 106: 12º ANEL FECHADO (2 verbetes, 1.093 palavras)
+## 10/09/2026 — Lote 106: 12º ANEL FECHADO (2 verbetes, 1.093 palavras)
 
 **Despacho do Curador:** «Ok, em frente com o Lote 106 como sugerido.»
 
@@ -2194,11 +2194,11 @@ Acumulado: **648 verbetes** · 8.537 verbatim · 8.215 códigos · **0 falhas** 
 
 **Próximos (13º anel, o fecho — 22 hubs):** RC-072 (g43) à frente, com 414/217/514/104/717/692/612/638/332/579/600/771/071/465/470/074/148/552/068/449/603, por centralidade (a confirmar no despacho do Lote 107).
 
-## 11/09/2026 — ERRATA PÓS-FECHO: a obra está completa, o 13º anel não existe
+## 10/09/2026 — ERRATA PÓS-FECHO: a obra está completa, o 13º anel não existe
 
 Verificação pós-L106 (censo ficha×verbete): **648 verbetes cobrem as 650 fichas**, exceto `RC-449` (remissiva F045 de `RC-164`, RESOLVIDA) e `RC-936` (remissiva merge, RESOLVIDA) — ambas permanentemente sem verbete. Dos "22 hubs reservados para o 13º" (decisão L82, repetida por 25 lotes), **21 já tinham verbete** (anéis 1–11 + handoff) — erro de planejamento do Agente, nunca checado até o fecho. Graus reais apurados: 072 g43 · 414 g25 · 217 g23 · 514 g21 · 104 g20 · 717 g18 · 692 g17 · 612 g13 · 638 g12 · 332 g10 · 771/579/600 g8 · 071/465/470 g7 · 074/148/552 g6 · 449/068/603 g5. Validação correta do anel (parser `RELACOES` de 4-tupla): 147 grau-0 com ficha não-hub = 146 publicados + 936 ✓ — o 12º anel é genuinamente grau 0. README emendado no mesmo dia. **Pendências reais:** (a) RC-544 sem ficha; (b) espelhos (indice-mestre/xlsx/docx); (c) erratas menores.
 
-## 11/09/2026 — Lote 107: RC-544 redimido — a 651ª ficha (1 verbete, 733 palavras)
+## 10/09/2026 — Lote 107: RC-544 redimido — a 651ª ficha (1 verbete, 733 palavras)
 
 **Despacho do Curador:** abertura de ficha + verbete («tudo»).
 
@@ -2212,7 +2212,7 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 4. **Divergências IV.18.3 (7):** 518/543/619/732 + 646 + 729/748.
 5. **Pendências reais restantes:** (b) espelhos (indice-mestre/xlsx/docx); (c) erratas menores (807 ordinal).
 
-## 11/09/2026 — Manutenção: caso Rxaça = Rakshasa + remissiva RC-872
+## 10/09/2026 — Manutenção: caso Rxaça = Rakshasa + remissiva RC-872
 
 **Despacho do Curador:** avaliar RC-794 ("Rxaça me parece ser rakshasa") → confirmado (6 provas; "Ravana, rei dos rxaças" decisiva) → despacho «tudo».
 

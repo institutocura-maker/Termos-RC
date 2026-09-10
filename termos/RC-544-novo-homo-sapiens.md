@@ -5,7 +5,7 @@
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.1 Processos biológicos / genéticos |
 | **Status** | 🟡 provisório |
-| **Última atualização** | 2026-09-11 |
+| **Última atualização** | 2026-09-10 |
 
 ## Definição Sintética
 Tese (leitura do autor, B019 cap. 12 + P2025-02-16/P2025-02-15) de que a humanidade está dando os primeiros passos no seu próprio processo de especiação: o Homo sapiens atual dará origem — por adaptação ambiental (Lua, Marte, naves), engenharia genética e "turbinagem" tecnológica (chips, biônica, IA) — a novas espécies e subespécies humanas, o "novo tipo de ser humano" sem o qual o Oitavo Dia da Criação não será auspicioso. A especiação é inevitável ("gostemos ou não") e já está em curso. Ver RC-694 (Oitavo Dia), RC-709 (Humano Turbinado), RC-614 (Quarto Cérebro).
@@ -59,7 +59,7 @@ Formulação canônica em B019 — Nem Deus, nem Javé, nem Darwin (Conectar, 20
 - **Homo sapiens** (RC-099) — a espécie que se especia
 
 ## Observações
-- **Ficha aberta pelo Agente em 11/09/2026** (pendência do 2º anel; despacho do Curador) — materialização sem arestas novas; as 11 arestas pré-existentes em RELACOES ficam intactas.
+- **Ficha aberta pelo Agente em 10/09/2026** (pendência do 2º anel; despacho do Curador) — materialização sem arestas novas; as 11 arestas pré-existentes em RELACOES ficam intactas.
 - Quarentena: leitura do autor (especiação futura, transumanismo, engenharia genética); sem fusão com biologia evolutiva acadêmica ou genética validada.
 - B019: obra impressa (Conectar Editora, 2021); páginas conferidas no original.txt. Palestras: STT não conferido com o áudio; refs U da leitura-segmentada.
 - Citado ainda por RC-543 (Espelho da Herança Espiritual no Epigenoma) — sem aresta; abrir é decisão curatorial.
