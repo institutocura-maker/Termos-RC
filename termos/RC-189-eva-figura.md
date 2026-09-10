@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Seres & Entidades |
 | **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
