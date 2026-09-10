@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 5.1 Epistemologia / Cognição |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Consciência / Espiritualidade |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-21 |
 
 ## Definição Sintética

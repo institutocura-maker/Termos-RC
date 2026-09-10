@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.1 Guerras / Rebeliões / Conflitos |
-| **Status** | ⚪ Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética

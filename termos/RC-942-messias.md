@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Termos Específicos |
 | **Subcategoria** | 8.4 Grego / Latim |
-| **Status** | 🟡 provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-06 |
 
 ## Definição Sintética

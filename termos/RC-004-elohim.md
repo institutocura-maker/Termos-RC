@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.2 Coletivos criadores |
-| **Status** | ⚪ Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética

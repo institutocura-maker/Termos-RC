@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Processos & Fenômenos |
 | **Subcategoria** | 4.2 Fenômenos espirituais / mediúnicos |
-| **Status** | 🟡 Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética

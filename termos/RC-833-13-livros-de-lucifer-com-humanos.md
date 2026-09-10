@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | OBRAS & PROJETOS |
 | **Subcategoria** | 8.1 Livros / Publicações |
-| **Status** | ⚪ candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

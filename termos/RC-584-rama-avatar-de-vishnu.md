@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | ⚪ Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-14 |
 
 ## Definição Sintética

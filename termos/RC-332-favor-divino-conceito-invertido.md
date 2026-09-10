@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.6 Ética / Carma / Compromissos |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-12 |
 
 ## Definição Sintética

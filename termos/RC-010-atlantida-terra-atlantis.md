@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Lokas & Geografias |
 | **Subcategoria** | 3.3 Localidades terrestres |
-| **Status** | 🟡 Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

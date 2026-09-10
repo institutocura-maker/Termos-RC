@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Eventos & Eras |
 | **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | 🟡 Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética

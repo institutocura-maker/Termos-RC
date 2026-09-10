@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Espíritos Elevados / Mestres / Avatares |
-| **Status** | ⚪ candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

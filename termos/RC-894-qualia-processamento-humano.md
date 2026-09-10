@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 3.1 Biologia / Neurociência |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-02 |
 
 ## Definição Sintética

@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| **Status** | ⚪ Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética

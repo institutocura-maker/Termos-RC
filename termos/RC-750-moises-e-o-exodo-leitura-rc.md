@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.5 Missões / Expedições / Encontros |
-| **Status** | ⚪ Candidato aprovado pelo curador |
+| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-17 |
 
 ## Definição Sintética

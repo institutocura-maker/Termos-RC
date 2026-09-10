@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.1 Famílias divinas / Celestiais |
-| **Status** | ⚪ Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética

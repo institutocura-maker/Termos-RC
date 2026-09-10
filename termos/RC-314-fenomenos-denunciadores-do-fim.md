@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética

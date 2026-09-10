@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.1 Planetas / Sistemas estelares |
-| **Status** | ⚪ Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | ⚪ Candidato aprovado pelo curador (2026-08-18) |
+| **Status** | 🟠 Em análise (candidatura aprovada pelo curador (2026-08-18)) |
 | **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética

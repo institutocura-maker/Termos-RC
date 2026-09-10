@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | ⚪ Candidato aprovado pelo curador |
+| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética

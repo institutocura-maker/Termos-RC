@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Termos Específicos |
 | **Subcategoria** | 8.1 Sânscrito / Hinduísmo |
-| **Status** | 🟡 Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | LOKAS & GEOGRAFIAS |
 | **Subcategoria** | 3.4 Regiões cósmicas / Portais |
-| **Status** | ⚪ Candidato aprovado pelo curador |
+| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética

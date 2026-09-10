@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | ⚪ Candidato aprovado pelo curador |
+| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.5 Outros idiomas / jargão técnico |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética

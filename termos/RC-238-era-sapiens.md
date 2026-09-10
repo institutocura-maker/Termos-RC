@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Eventos & Eras |
 | **Subcategoria** | 7.2 Eras / Épocas / Ciclos |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

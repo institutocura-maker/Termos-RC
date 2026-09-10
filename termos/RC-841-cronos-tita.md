@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Seres & Entidades |
 | **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
-| **Status** | 🟡 Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

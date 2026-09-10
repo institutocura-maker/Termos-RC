@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | EVENTOS & ERAS |
 | **Subcategoria** | 7.4 Catástrofes / Dilúvios / Quedas |
-| **Status** | ⚪ Candidato aprovado para integração |
+| **Status** | 🟠 Em análise (candidatura aprovado para integração) |
 | **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética

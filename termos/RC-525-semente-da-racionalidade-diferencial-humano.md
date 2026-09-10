@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | ⚪ Candidato aprovado pelo curador |
+| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética

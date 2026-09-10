@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS BIOLÓGICOS |
 | **Subcategoria** | 3.3 Sistemática / Filogenia |
-| **Status** | ⚪ candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
 | **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
-| **Status** | 🟡 Provisório |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética

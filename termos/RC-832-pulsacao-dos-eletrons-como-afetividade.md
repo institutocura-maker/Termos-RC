@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | PROCESSOS & FENÔMENOS |
 | **Subcategoria** | 4.6 Processos sociais / biológicos |
-| **Status** | ⚪ candidato (com quarentena social FORTE) |
+| **Status** | 🟠 Em análise (com quarentena social FORTE) |
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética

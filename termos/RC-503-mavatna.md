@@ -1,3 +1,9 @@
+# Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) — RC-503
+
+| Campo | Valor |
+|---|---|
+| **Status** | 🟠 Em análise |
+| **Última atualização** | 2026-09-10 |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 

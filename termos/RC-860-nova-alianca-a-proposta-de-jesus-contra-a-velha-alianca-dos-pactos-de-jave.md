@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | Conceitos Cosmológicos |
 | **Subcategoria** | 2.4 Espiritualidade / Doutrina |
-| **Status** | 🟡 Candidato |
+| **Status** | 🟠 Em análise |
 | **Última atualização** | 2026-09-01 |
 
 ## Definição Sintética

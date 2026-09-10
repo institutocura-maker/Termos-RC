@@ -10,7 +10,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | ⚪ candidato (remissiva — sem verbete próprio) |
+| **Status** | 🟠 Em análise (remissiva — sem verbete próprio) |
 | **Última atualização** | 2026-09-10 |
 
 ## Registro histórico (título original)

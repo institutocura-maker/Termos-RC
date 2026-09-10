@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.3 Dimensões / Planos de existência |
-| **Status** | ⚪ Candidato aprovado para integração |
+| **Status** | 🟠 Em análise (candidatura aprovado para integração) |
 | **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
