@@ -37,7 +37,7 @@ Brahma integra a **Trimurti** (com Vishnu e Shiva) e é o **Primeiro Logos** da 
 - **[B037 p. 11]** o Ser: «Eu sou Javé, eu sou Brahma, eu sou Alá.»
 - **[B037 p. 76]** «Chame-me de “Brahma”»; «Estas três personificações jamais se “humanizaram”… Eu não!»; o circuito mental com Vishnu e Shiva depende do nome.
 - **[B037 p. 80]** mente de Brahma vinculada à divindade da qual é expressão, «apesar de “adoentada”» — **quarentena clínica**. Energia *rajas*; holografia / colapso quântico = **científica**.
-- **[B037 p. 82–83]** «Estou a deixar-me “humanizar”»; não confia em Vishnu nem em Shiva; «maldisse a raça humana da Terra». Sem fusão com B022 / B024. RC-033 permanece **sem ficha**.
+- **[B037 p. 82–83]** «Estou a deixar-me “humanizar”»; não confia em Vishnu nem em Shiva; «maldisse a raça humana da Terra». Sem fusão com B022 / B024. RC-033 materializada P5e.
 
 
 ## Ampliação — B033 (O Drama Terreno de Javé)

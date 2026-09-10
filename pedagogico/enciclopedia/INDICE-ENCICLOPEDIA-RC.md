@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 662 fichas · 1898 relações
+- **Base de referência:** 946 termos · 666 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -49,19 +49,19 @@
 
 | Vol. | Título | Seções | Verbetes (fichas) |
 |---|---|---|---|
-| **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 34 |
+| **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 37 |
 | **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
-| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 268 |
+| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 269 |
 | **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 160 |
 | **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 79 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **662** |
+| | **TOTAL** | 37 | **666** |
 
 ---
 
 # VOLUME I — FUNDAMENTOS — o território e as regras do jogo
 
-*Verbetes ancorados neste volume: **34***
+*Verbetes ancorados neste volume: **37***
 
 ## I.1 — A Obra e o Autor: corpus, gênero e método
 
@@ -112,11 +112,14 @@
 
 *A RC tem léxico próprio e empréstimos do sânscrito, do hebraico e do grego; sem isso, nada se lê.*
 
-**Verbetes:** 32
+**Verbetes:** 35
 
 ### I.3.1 — Sânscrito e hinduísmo
 
+- **Adhyajna** — `RC-016` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 8 fonte(s)
+- **Adhydaiva** — `RC-014` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 9 fonte(s)
 - **Bhavaṅga / Janela da Percepção** — `RC-706` ⚪ · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 2 fonte(s)
+- **Bhuloka** — `RC-033` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 2 fonte(s)
 - **Brahmaloka** — `RC-038` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 6 fonte(s)
 - **Dharma e Castas (origem demo)** — `RC-322` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 9 fonte(s)
 - **Gunas Criadoras (Sattva, Rajas, Tamas)** — `RC-151` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 7 fonte(s)
@@ -392,7 +395,7 @@
 
 # VOLUME III — ATORES E ACONTECIMENTOS — o quem e o quando
 
-*Verbetes ancorados neste volume: **268***
+*Verbetes ancorados neste volume: **269***
 
 ## III.9 — O Criador e a sua condição
 
@@ -590,7 +593,7 @@
 
 *A população da criação: raças, anjos, coletivos, logoi e híbridos.*
 
-**Verbetes:** 58
+**Verbetes:** 59
 
 ### III.13.1 — Coletivos criadores
 
@@ -647,6 +650,7 @@
 
 ### III.13.5 — Consciências coletivas e Logos
 
+- **Adhy** — `RC-011` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 5 fonte(s)
 - **Adhyagia** — `RC-012` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 7 fonte(s)
 - **Adhyagya (formas espirituais Adhy)** — `RC-311` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
 - **Adhyatman** — `RC-013` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 7 fonte(s)
@@ -1389,7 +1393,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (662 verbetes)
+## Apêndice A — Índice alfabético remissivo (666 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1406,9 +1410,12 @@
 | Abismo da Consciência Cósmica | `RC-721` | V.22.1 | ⚪ |
 | Abismo da Providência / Falsa Providência | `RC-723` | IV.20.1 | ⚪ |
 | Abraço aos Fantasmas / Integridade sem Combate | `RC-735` | IV.21.1 | ⚪ |
+| Adhy | `RC-011` | III.13.5 | 🟡 |
 | Adhyagia | `RC-012` | III.13.5 | 🟡 |
 | Adhyagya (formas espirituais Adhy) | `RC-311` | III.13.5 | 🟡 |
+| Adhyajna | `RC-016` | I.3.1 | 🟡 |
 | Adhyatman | `RC-013` | III.13.5 | 🟡 |
+| Adhydaiva | `RC-014` | I.3.1 | 🟡 |
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | `RC-408` | III.10.3 | 🟠 |
 | ADHYPRABRAJNA (grafia do diagrama) | `RC-410` | II.6.1 | 🟡 |
 | ADHYSAVNA (nome completo de Savna/Shiva) | `RC-409` | III.10.4 | 🟠 |
@@ -1471,6 +1478,7 @@
 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | `RC-466` | I.3.4 | 🟠 |
 | Belial (arconte; 'Satã' do livro de Jó) | `RC-479` | III.12.2 | ⚪ |
 | Bhavaṅga / Janela da Percepção | `RC-706` | I.3.1 | ⚪ |
+| Bhuloka | `RC-033` | I.3.1 | 🟡 |
 | Biblioteca Genômica Humana | `RC-889` | IV.19.3 | 🟡 |
 | Bifrost (Portal interdimensional) | `RC-471` | II.7.6 | 🟠 |
 | Big Data Cósmico | `RC-194` | II.8.1 | 🟡 |
@@ -2116,7 +2124,7 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
 
-## Apêndice C — Termos sem ficha (284 códigos)
+## Apêndice C — Termos sem ficha (280 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2133,10 +2141,7 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-352` | A Segunda Grande Vinda | Eventos & Eras › 7.3 Profecias / Anúncios | 🟡 |
 | `RC-440` | A Sina dos Portadores | Eventos & Eras › 7.3 Profecias / Anúncios | 🟡 |
 | `RC-515` | Acidente cosmogônico (queda de Prabrajna) | Conceitos Cosmológicos › 2.1 Cosmogonia / Criação | ⚪ |
-| `RC-011` | Adhy | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
-| `RC-016` | Adhyajna | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-015` | Adhybutha | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
-| `RC-014` | Adhydaiva | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-423` | Advogado de Acusação (Ellam × Javé) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-505` | Adyabradagna / Adabradagna (= Brahma/Javé) | Seres & Entidades › 1.1 Divindades / Criadores | ⚪ |
 | `RC-504` | Adyadvaivatma / Adimavatma (= Vishnu) | Seres & Entidades › 1.1 Divindades / Criadores | ⚪ |
@@ -2166,7 +2171,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-876` | Atos performativos (as frases que fazem coisas com palavras) | Processos & Fenômenos › 4.2 Fenômenos espirituais / mediúnicos | ⚪ |
 | `RC-884` | Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | Processos & Fenômenos › 4.1 Processos biológicos / genéticos | ⚪ |
 | `RC-032` | Benem | Lokas & Geografias › 3.3 Localidades terrestres | 🟡 |
-| `RC-033` | Bhuloka | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-034` | Big Bang | Conceitos Cosmológicos › 2.1 Cosmogonia / Criação | 🟡 |
 | `RC-197` | Big Data da Terra | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
 | `RC-879` | Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | ⚪ |
@@ -2429,4 +2433,4 @@ entradas do meio da sequência.
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 662 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 666 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*

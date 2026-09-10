@@ -53,7 +53,7 @@ O Projeto Talm é o elo entre o universo demo (antimaterial) e o universo bioló
 ## Ampliação — B044 (A Divina Colmeia)
 
 - **[B044 p. 55]** a principal causa do desassossego da Trimurti, enquanto a vida se manteve no universo demo, foi a ausência de resultados animadores; todos os engendrados surgiam “doentes”, ainda que poderosos — **quarentena clínica** (leitura, não diagnóstico).
-- **[B044 p. 55]** Brahma, Shiva e Vishnu (condições Adhydaiva) se autoatribuíram poder das personalidades anteriores — Prabrajna, Savna e Mavatna (Adhyatman). RC-013 / RC-014 permanecem **sem ficha**.
+- **[B044 p. 55]** Brahma, Shiva e Vishnu (condições Adhydaiva) se autoatribuíram poder das personalidades anteriores — Prabrajna, Savna e Mavatna (Adhyatman). RC-014 materializada P5e (RC-013 materializada P5).
 - **[B044 p. 63]** o planejamento da transferência = “Projeto Talm”; recriar a Colmeia Trimurtina no biológico. Sem cadastrar B045.
 
 

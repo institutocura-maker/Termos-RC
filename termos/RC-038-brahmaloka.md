@@ -42,4 +42,4 @@ Nome sânscrito do universo antimaterial na Revelação Cósmica — "a morada d
 
 ## Observações
 
-Ficha materializada na escala do Apêndice C (P5c, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. O registro P2025-03-15 existe no acervo como índice de estudo (IA), não como transcrição — citado com essa ressalva. Bhuloka (universo material, RC-033, ainda sem ficha) é o par complementar nas fontes.
+Ficha materializada na escala do Apêndice C (P5c, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. O registro P2025-03-15 existe no acervo como índice de estudo (IA), não como transcrição — citado com essa ressalva. Bhuloka (universo material, RC-033, materializada P5e) é o par complementar nas fontes.

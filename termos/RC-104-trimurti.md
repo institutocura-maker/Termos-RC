@@ -75,13 +75,13 @@ Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) —
 - **[B044 p. 13]** o “grande desencanto” ao qual Javé se referiu ao perder o controle sobre a “colmeia *Homo* terrestre”. Subtítulo da obra: *A Trimurti Desencantada*.
 - **[B044 p. 53]** 11ª Constatação: a Trimurti foi estabelecida entre aqueles três Seres — Brahma, Shiva e Vishnu — “quando comparados à lógica que hoje existe no psiquismo humano”. A analogia do “hospício” (p. 53) **não** vira diagnóstico.
 - **[B044 p. 55]** os três, em condição Adhydaiva, consumidos pelo exercício do poder autoatribuído; impasse que desemboca no Projeto Talm.
-- Fonte **B044** acrescentada na tabela-mestra. Sem materializar RC-014 / RC-135. Sem fusão com B022.
+- Fonte **B044** acrescentada na tabela-mestra. Sem materializar RC-135 (RC-014 materializada P5e por despacho do programa Apêndice C). Sem fusão com B022.
 
 
 ## Ampliação — B024 (A Epopeia dos Agentes da Vida Universal)
 
 - **[B024 p. 22]** Figura 1 — “Relação dos ‘Seres da Trimurti’ com esta Criação” = **`[TEXTO INCOMPLETO]`** (só a legenda).
-- **[B024 p. 52]** os “Senhores da Trimurti” — Brahma, Vishnu e Shiva — “estavam visivelmente com ‘câncer’” em suas formas Adhydaiva; Brahma = “projeção holográfica” sem alma imantada ao Eu reconstruído. Vishnu “se desconstituiu em 2016”. **Quarentena clínica** (leitura, jamais diagnóstico). RC-014 / RC-135 permanecem **sem ficha**.
+- **[B024 p. 52]** os “Senhores da Trimurti” — Brahma, Vishnu e Shiva — “estavam visivelmente com ‘câncer’” em suas formas Adhydaiva; Brahma = “projeção holográfica” sem alma imantada ao Eu reconstruído. Vishnu “se desconstituiu em 2016”. **Quarentena clínica** (leitura, jamais diagnóstico). RC-014 materializada P5e (RC-135 já tem ficha).
 - **[B024 p. 68]** o mergulho de Mavatna (grafia do extract: também “Mavatma”) a 4,1 bi “terminou proporcionando a formação da Trimurti”: Brahma o Criador, Shiva o Destruidor, Vishnu o Mantenedor. Os “Estatutos da Lila” resolveram o impasse geopolítico.
 - **[B024 p. 76]** não podendo destruir uns aos outros, viveram juntos e criaram a Lila; Vishnu e Shiva mantêm Brahma “acordado” por apostas. “Apostasia”, no livro, é o Deus que perde e não paga.
 - **[B024 p. 108]** competências: Brahma doa o CFDP; Vishnu o modelo consciencial; Shiva organiza/destrói e ensina a saída do *samsara*.

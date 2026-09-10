@@ -24,7 +24,7 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 - **[B016 p. 185]** por ter-se apartado da condição Adhyagia na queda, “Brahma jamais conseguiu produzir expressões de si mesmo (expressões Adhyajna).”
 - **[B016 p. 185]** Savna/Tusavna mergulhou e edificou a expressão Adhydaiva Shiva; última Adhyajna humana: Sai Baba.
 - **[B016 p. 5 / 48]** só Vishnu e Shiva geram avatares; o Primeiro Logos “não podia gerar avatares.”
-- RC-014 / RC-016 permanecem **sem ficha** (RC-038 materializada P5c).
+- RC-014/RC-016 materializadas P5e.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

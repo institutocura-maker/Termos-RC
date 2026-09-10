@@ -33,7 +33,7 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - **[B024 p. 22]** Figura 1 — “Relação dos ‘Seres da Trimurti’ com esta Criação” = só a legenda extraível → **`[TEXTO INCOMPLETO]`**.
 - **[B024 p. 27]** cap. 2: a Criação “inusitada”. Remissão a *O Drama Cósmico de Javé* (B001) = **não fundir**. Kardec (Espiritualidade Superior preexistente) = **referência externa**.
 - **[B024 p. 36]** a Obra “jamais deveria ter existido”; as criaturas-ferramentas passam pela morte “porque esta Obra não foi finalizada, ou não pôde ser” (já na ficha; âncora confirmada no cap. 3).
-- **[B024 p. 76]** cap. 11: autoria e comando. Brahma, Vishnu e Shiva, em condição Adhydaiva, não podendo destruir uns aos outros, formaram a Trimurti e a Lila (“Passatempo” / “Jogo Mental” / estatuto das apostas). RC-075 / RC-014 permanecem **sem ficha**.
+- **[B024 p. 76]** cap. 11: autoria e comando. Brahma, Vishnu e Shiva, em condição Adhydaiva, não podendo destruir uns aos outros, formaram a Trimurti e a Lila (“Passatempo” / “Jogo Mental” / estatuto das apostas). RC-014 materializada P5e (RC-075 já tem ficha).
 - **[B024 p. 81]** os extrafísicos perceberam que “tinham ‘falido’” — não criaram seres que levassem ao futuro pretendido — e então formularam o Projeto Talm. Sem fusão com B044 / B045.
 
 
