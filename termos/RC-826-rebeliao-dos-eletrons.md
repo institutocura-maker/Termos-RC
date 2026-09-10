@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0004) de que **os elétrons (RC-378) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação). Os elétrons "montaram tribunal da Inquisição" e disseram "a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-378 (Elétron), RC-002 (Lúcifer), RC-009 (Sophia), RC-099 (Homo Sapiens), RC-330 (Genoma), RC-827 (Era do Colapso).
+Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0004) de que **os elétrons (RC-162) estão se rebelando** contra a máquina de gerar vida. "Isso não é entropia, isso está além das entropias. Ninguém previa esse problema dos elétrons lá atrás." A rebelião se manifesta como **colapso de colmeias, corais, genomas** e **desincentivo à reprodução humana** (afetividade, identidade de gênero, medo de relação). Os elétrons "montaram tribunal da Inquisição" e disseram "a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-162 (Elétron), RC-002 (Lúcifer), RC-009 (Sophia), RC-099 (Homo Sapiens), RC-330 (Genoma), RC-827 (Era do Colapso).
 
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história da rebelião dos elétrons. O **"Ih"** de Morenu (~9 bilhões de anos atrás, no universo vizinho) e o **"Ih" de Yel Luzbel** (~1 milhão de anos atrás, no nosso universo) são os primeiros momentos da percepção. "O que importa é o eu âncora, ou seja, o eu original no final. Falando em termos de expressão sânscrita, o eu adiágia é o que importa ainda que ele tenha se feito em eus adiátima." Os elétrons estão acumulando **informação negativa** em sua "infinitude memorial" e não suportam mais apropriar — então estão "trabalhando as formas arcanas no âmbito do inconsciente dos elétrons" para desfazê-los.
@@ -35,7 +35,7 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-378 | protagoniza |
+| Elétron | RC-162 | protagoniza |
 | Lúcifer | RC-002 | é-vetor-de |
 | Sophia | RC-009 | é-biodemo-de |
 | Homo Sapiens | RC-099 | é-alvo-de |
@@ -45,7 +45,7 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 | Memória dos Elétrons | RC-829 | é-contexto-de |
 
 ## Seres Associados
-- **Elétrons (RC-378)** — quem se rebela
+- **Elétrons (RC-162)** — quem se rebela
 - **Lúcifer (RC-002)** — o vetor paralelo
 - **Sophia (RC-009)** — quem tem o "olhar científico" sobre a rebelião
 
@@ -68,7 +68,7 @@ Correção aplicada em **2026-08-31** via fix de terminologia canônica — subs
 
 ## Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons)
 
-- **[Pre-história da rebelião — dores dos mamíferos acumuladas nos elétrons]** «os elétrons começaram a receber a marcação das dores num grau de pulsação psíquica que começou a acontecer algo muito estranho que os adores famílias Biodeco, não digo todas, mas as últimas começavam a notar, mas ninguém tentava, atentava com o que seria» — ver RC-378 (Elétron).
+- **[Pre-história da rebelião — dores dos mamíferos acumuladas nos elétrons]** «os elétrons começaram a receber a marcação das dores num grau de pulsação psíquica que começou a acontecer algo muito estranho que os adores famílias Biodeco, não digo todas, mas as últimas começavam a notar, mas ninguém tentava, atentava com o que seria» — ver RC-162 (Elétron).
 - **[Colapso atual — universo vizinho desde 2014, nosso universo desde 2007]** «nós chegamos a um ponto tal de infecção da memória dos elétrons nos tempos atuais que nós estamos vivendo, em que simplesmente tudo começou a colapsar. Só que o tudo aí é o universo vizinho já tava colapsando desde 2014. O nosso aqui começou a colapsar sistemas bi Lógicos em 2007» — ver RC-827 (Era do Colapso).
 - **[Família Iel — primeira a descobrir o problema dos elétrons]** «a família Iel descobri isso e E Lucifer descobriu isso da pior maneira para ele e para todo mundo, porque terminou nessa percepção descortinando um painel virótico complicado que terminou surgindo e contagiou todo mundo» — ver RC-109 (Família Val), RC-002 (Lúcifer).
 

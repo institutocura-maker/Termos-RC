@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0004/U0005) de que **Lilith (RC-308) e Noreia (RC-309) criaram, ao longo de milênios, um "loop mental vivo"** — cópias de consciência presas que, **quando evocadas (em palestras, livros, rituais), mexem com a estabilidade de quem ouve**. É como se houvesse uma **egrégora** (entidade coletiva gerada por pensamentos/emoções cristalizados) que se ativa toda vez que essas figuras são mencionadas. O autor, por isso, **se esquiva de aprofundá-las** — para não ativar o loop. Ver RC-308 (Lilith), RC-309 (Noreia) para as figuras; RC-335 (Lavagem Cerebral) para o conceito correlato de "memória cancelada".
+Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0004/U0005) de que **Lilith (RC-308) e Noreia (RC-579) criaram, ao longo de milênios, um "loop mental vivo"** — cópias de consciência presas que, **quando evocadas (em palestras, livros, rituais), mexem com a estabilidade de quem ouve**. É como se houvesse uma **egrégora** (entidade coletiva gerada por pensamentos/emoções cristalizados) que se ativa toda vez que essas figuras são mencionadas. O autor, por isso, **se esquiva de aprofundá-las** — para não ativar o loop. Ver RC-308 (Lilith), RC-579 (Noreia) para as figuras; RC-335 (Lavagem Cerebral) para o conceito correlato de "memória cancelada".
 
 ## Contexto / Origem
 Aparece em **P2023-11-11**, U0004 e U0005 (Q&A). Contexto: o autor foi perguntado sobre Noreia e Lilith, e **se recusou a aprofundar**, explicando que há "loops mentais" que essas figuras criaram, e que "quando alguém faz uma palestra sobre isso, é uma confusão que rola entre eles". A analogia é o filme/livro **"Coração de Tinta" (Inkheart)** — onde ler um livro faz os personagens ganharem vida.
@@ -33,14 +33,14 @@ Aparece em **P2023-11-11**, U0004 e U0005 (Q&A). Contexto: o autor foi perguntad
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Lilith | RC-308 | compõe |
-| Noreia | RC-309 | compõe |
+| Noreia | RC-579 | compõe |
 | Lavagem Cerebral | RC-335 | contextualizado-por |
 | Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
 | Egrégora | (sem ficha) | sinônimo |
 
 ## Seres Associados
 - **Lilith** (RC-308) — quem criou parte do loop
-- **Noreia** (RC-309) — quem criou parte do loop
+- **Noreia** (RC-579) — quem criou parte do loop
 - **Cornélia Funke** (autora de Coração de Tinta) — referência cultural
 
 ## Observações

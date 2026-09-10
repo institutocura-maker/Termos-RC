@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0002/U0003/U0004) de que a **racionalidade humana** foi produzida por uma **cadeia de figuras femininas** — **Pandora (RC-086) → Lilith (RC-308) → Irra → Eva (RC-189) → Noreia (RC-309)** — em sequência formativa. Cada uma dessas figuras contribuiu com um traço: Pandora o "primeiro sorriso" (RC-285), Lilith a rebelião contra a submissão, Eva o "DNA submisso" mas suficiente para executar ordens, Noreia (e outros descendentes de Pandora) o "espectro amplo de entendimento". A racionalidade humana é, portanto, **efeito cumulativo** de uma sequência de escolhas feitas por mulheres, não obra de um único ser ou de um plano divino único. Ver RC-086, RC-308, RC-189, RC-309 para as figuras da cadeia.
+Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0002/U0003/U0004) de que a **racionalidade humana** foi produzida por uma **cadeia de figuras femininas** — **Pandora (RC-086) → Lilith (RC-308) → Irra → Eva (RC-189) → Noreia (RC-579)** — em sequência formativa. Cada uma dessas figuras contribuiu com um traço: Pandora o "primeiro sorriso" (RC-285), Lilith a rebelião contra a submissão, Eva o "DNA submisso" mas suficiente para executar ordens, Noreia (e outros descendentes de Pandora) o "espectro amplo de entendimento". A racionalidade humana é, portanto, **efeito cumulativo** de uma sequência de escolhas feitas por mulheres, não obra de um único ser ou de um plano divino único. Ver RC-086, RC-308, RC-189, RC-579 para as figuras da cadeia.
 
 ## Contexto / Origem
 Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfose), U0004 (racionalidade trucidada). É peça-chave do tema **Sequência Formativa da Racionalidade Humana**, **COMPANION** das palestras P2018-10-06, P2019-05-11, P2023-06-25. Conecta-se com:
@@ -17,7 +17,7 @@ Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfos
 - **RC-285** (Opção Inusitada de Pandora) — a primeira escolha
 - **RC-308** (Lilith) — a rebelde
 - **RC-189** (Eva) — a submissa-com-potencial
-- **RC-309** (Noreia) — a continuadora
+- **RC-579** (Noreia) — a continuadora
 
 ## Etimologia / Grafias
 - **Grafia preferida:** Sequência Formativa da Racionalidade Humana
@@ -42,7 +42,7 @@ Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfos
 | Pandora | RC-086 | compõe |
 | Lilith | RC-308 | compõe |
 | Eva | RC-189 | compõe |
-| Noreia | RC-309 | compõe |
+| Noreia | RC-579 | compõe |
 | Momento Zero de Pandora | RC-779 | começa-em |
 | Pandora como Heroína Controversa | RC-780 | paralela-a |
 | Opção Inusitada de Pandora (Primeiro Sorriso) | (RC-285) | parte-de |
@@ -53,7 +53,7 @@ Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfos
 - **Lilith** (RC-308) — elo 2 (rebelde)
 - **Irra** (sem ficha) — elo 3
 - **Eva** (RC-189) — elo 4 (submissa)
-- **Noreia** (RC-309) — elo 5 (continuadora)
+- **Noreia** (RC-579) — elo 5 (continuadora)
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: "Irra" não tem ficha; é figura mencionada brevemente na palestra. Pode ser detalhada em fonte futura.

@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportamento biológico humano** (afetividade, identidade de gênero, medo de relação sexual, vontade de ficar só, insegurança) é promovido pela **pulsação dos elétrons (RC-378)** — **NÃO é escolha humana livre**, é "comportamento biológico promovido pela pulsação dos elétrons". Os elétrons estão **desincentivando a reprodução humana** para parar com a "máquina de gerar vida" — "Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-378 (Elétron), RC-099 (Homo Sapiens), RC-009 (Sophia), RC-330 (Genoma), RC-826 (Rebelião dos Elétrons).
+Tese (leitura do autor, palestra **P2023-12-17**, U0004) de que o **comportamento biológico humano** (afetividade, identidade de gênero, medo de relação sexual, vontade de ficar só, insegurança) é promovido pela **pulsação dos elétrons (RC-162)** — **NÃO é escolha humana livre**, é "comportamento biológico promovido pela pulsação dos elétrons". Os elétrons estão **desincentivando a reprodução humana** para parar com a "máquina de gerar vida" — "Cara, a gente tem que parar com a máquina de gerar vida nos termos em que sempre foi feito". Ver RC-162 (Elétron), RC-099 (Homo Sapiens), RC-009 (Sophia), RC-330 (Genoma), RC-826 (Rebelião dos Elétrons).
 
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétrons estão **reduzindo a reprodução humana** sem matar humanos. "Como no caso humano, masculino e feminino, masculino transa, feminino transa, cria mais seres humanos e mais nós, os elétrons se ferram, porque os humanos inventaram a pior coisa que a gente sente, que é o ódio racionalizado. Então, como é que eu disfaço os humanos? Nós elétrons não podemos matar os humanos, mas como é que a gente pode fazer? É fazer com que a turma no trans mais porque é a única maneira de impedir ou então transcrie. Aí surge como afetividade, surge identidade de gênero, surge, vontade de ficar só, surge, medo de ter relação sexual, surge, aí começa a surgir insegurança, e a humanidade começa a procriar menos."
@@ -33,7 +33,7 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétron
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-378 | tem-pulsação |
+| Elétron | RC-162 | tem-pulsação |
 | Homo Sapiens | RC-099 | é-alvo-de |
 | Sophia | RC-009 | é-biodemo-com |
 | Genoma | RC-330 | é-alvo-de |
@@ -42,7 +42,7 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétron
 | Identidade de Gênero | (tema social) | é-expressão-de |
 
 ## Seres Associados
-- **Elétrons (RC-378)** — quem pulsa
+- **Elétrons (RC-162)** — quem pulsa
 - **Humanos (RC-099)** — quem é afetado
 
 ## Observações

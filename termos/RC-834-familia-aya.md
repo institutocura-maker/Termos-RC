@@ -14,7 +14,7 @@
 > Foi criada para corrigir a grafia informal "Aia" que aparecia em algumas palestras (incluindo a P2023-12-17 processada em 2026-08-31), restabelecendo a grafia canônica **"Aya"** que aparece em **RC-009-sophia-cristo-cosmico.md** e em **B031** (livro do autor).
 
 ## Definição Sintética
-**Aya** é uma das **duas Famílias de clones** (junto com **Aye** — ver RC-835) que trabalharam para **Sophia (RC-009)** na **inseminação artificial de Maria** para a geração de **Jesus (RC-006)**. Conforme a ficha canônica de **RC-009** (B031), "foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o 'pai biológico' de Jesus." Em **P2023-12-17** (Lúcifer e a Rebelião dos Elétrons), Aya e Aye aparecem como **dois tipos de clones** que foram gerados pela "família Aia e Aie" e deveriam passar a integrar o corpo de **Sophia** ou obedecê-la no sentido técnico (mas no sentido político estavam ali para destruir Sophia se fizesse algum movimento estranho contra a Trimurti).
+**Aya** é uma das **duas Famílias de clones** (junto com **Aye** — ver RC-835) que trabalharam para **Sophia (RC-009)** na **inseminação artificial de Maria** para a geração de **Jesus (RC-072)**. Conforme a ficha canônica de **RC-009** (B031), "foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o 'pai biológico' de Jesus." Em **P2023-12-17** (Lúcifer e a Rebelião dos Elétrons), Aya e Aye aparecem como **dois tipos de clones** que foram gerados pela "família Aia e Aie" e deveriam passar a integrar o corpo de **Sophia** ou obedecê-la no sentido técnico (mas no sentido político estavam ali para destruir Sophia se fizesse algum movimento estranho contra a Trimurti).
 
 ## Contexto / Origem
 - **Mencionada em:** RC-009 (Sophia — B031), P2023-12-17 (Lúcifer e a Rebelião dos Elétrons, U0002), RC-793 (Conceito Abaiano), RC-802 (Humanos como Cobaias dos Deuses).
@@ -54,7 +54,7 @@
 |---|---|---|
 | Sophia | RC-009 | é-família-de |
 | Aye (clone irmão) | RC-835 | é-paralelo-com |
-| Jesus | RC-006 | é-clone-para-inseminação-de |
+| Jesus | RC-072 | é-clone-para-inseminação-de |
 | Maria (mãe de Jesus) | (B031) | é-inseminada-por |
 | Anjos Glores (clones) | RC-001 | é-progressivamente-livre-de |
 | Trimurti | RC-104 | é-vigiada-por |

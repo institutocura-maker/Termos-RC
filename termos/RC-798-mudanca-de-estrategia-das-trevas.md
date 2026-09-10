@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **depois de 2 destruições pelos avatares** (Moisés contra o império egípcio, Krishna contra a guerra de Kurukshetra), **as trevas mudaram de estratégia**: em vez de **centralizar o mal em impérios/famílias**, resolveram **espalhar o mal em todos os corações humanos**. Essa mudança **obrigou** os avatares seguintes (Saibaba, Jesus) a **propor a luta íntima do bem e do mal** — transferindo a responsabilidade para os humanos. Ver RC-102 (Krishna), RC-270 (Moisés), RC-072 (Jesus), RC-797 (Estratégia dos Avatares).
+Tese (leitura do autor, palestra **P2018-02-24**, U0004) de que **depois de 2 destruições pelos avatares** (Moisés contra o império egípcio, Krishna contra a guerra de Kurukshetra), **as trevas mudaram de estratégia**: em vez de **centralizar o mal em impérios/famílias**, resolveram **espalhar o mal em todos os corações humanos**. Essa mudança **obrigou** os avatares seguintes (Saibaba, Jesus) a **propor a luta íntima do bem e do mal** — transferindo a responsabilidade para os humanos. Ver RC-102 (Krishna), RC-750 (Moisés), RC-072 (Jesus), RC-797 (Estratégia dos Avatares).
 
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas era centralizar o mal em impérios/famílias. Depois de 2 avatares bem-sucedidos (Moisés, Krishna), a estratégia **inverteu** — o mal foi espalhado em todos os corações humanos, de modo que "se a luz quisesse destruir aquele DNA, aquela semente do mal, teria que destruir toda a humanidade".

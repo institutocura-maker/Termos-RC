@@ -40,7 +40,7 @@ Aparece em **P2018-10-06**, U0004, no contexto da **sequência formativa** (Pand
 ## Seres Associados
 - **Pandora** (RC-086) — o agente do Momento Zero
 - **Kalil Kadmon** (RC-299) — o nome demo de Pandora antes da metamorfose
-- **Lilith** (RC-308), **Eva** (RC-189), **Noreia** (RC-309) — continuadoras da cadeia
+- **Lilith** (RC-308), **Eva** (RC-189), **Noreia** (RC-579) — continuadoras da cadeia
 
 ## Observações
 - [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: o "momento zero" também aparece em RC-611 com sentido cósmico-maior (a criação); esta ficha é especificamente a inflexão humana.

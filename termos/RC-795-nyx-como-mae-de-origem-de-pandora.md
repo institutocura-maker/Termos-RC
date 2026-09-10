@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Nyx (RC-330)** é **mãe de origem** de **Pandora (RC-086)** — "através da descendência de Nix, do mergulho de Moros, que o quarto logos começou naquela brecha a atuar. Aí foi ali que foi plantada a semente de Pandora de Y Luzb. [...] o quarto logos acoplou à sua mente os descendentes de Pandora e que a descendência de Pandora teria o DNA do quarto logos". A genealogia: Nyx → descendência de Nyx + Moros (mergulho) → brecha → Quarto Logos (RC-092) → semente de Pandora (e Yel Luzbel RC-142) → descendentes de Pandora têm DNA do Quarto Logos. Ver RC-330 (Nyx), RC-454 (Moros), RC-092 (Quarto Logos), RC-086 (Pandora), RC-142 (Yel Luzbel).
+Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Nyx (RC-621)** é **mãe de origem** de **Pandora (RC-086)** — "através da descendência de Nix, do mergulho de Moros, que o quarto logos começou naquela brecha a atuar. Aí foi ali que foi plantada a semente de Pandora de Y Luzb. [...] o quarto logos acoplou à sua mente os descendentes de Pandora e que a descendência de Pandora teria o DNA do quarto logos". A genealogia: Nyx → descendência de Nyx + Moros (mergulho) → brecha → Quarto Logos (RC-092) → semente de Pandora (e Yel Luzbel RC-142) → descendentes de Pandora têm DNA do Quarto Logos. Ver RC-621 (Nyx), RC-454 (Moros), RC-092 (Quarto Logos), RC-086 (Pandora), RC-142 (Yel Luzbel).
 
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. Contexto: o plateísta pergunta se há relação entre Nyx e Pandora; o autor confirma a genealogia e adiciona o papel do Quarto Logos (RC-092) e de Moros (RC-454).
@@ -30,7 +30,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Nyx | RC-330 | é-mãe-de-origem |
+| Nyx | RC-621 | é-mãe-de-origem |
 | Moros (Elm) | RC-454 | mergulhou-em |
 | Quarto Logos (Olm) | RC-092 | plantou-semente-em |
 | Pandora | RC-086 | descendente-de |
@@ -38,7 +38,7 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. 
 | Sophia (Cristo Cósmico) | RC-009 | paralelo-com |
 
 ## Seres Associados
-- **Nyx** (RC-330) — a "mãe de origem"
+- **Nyx** (RC-621) — a "mãe de origem"
 - **Moros** (RC-454) — quem "mergulhou" na descendência
 - **Quarto Logos / Olm** (RC-092) — quem "plantou a semente"
 - **Pandora** (RC-086) — descendente

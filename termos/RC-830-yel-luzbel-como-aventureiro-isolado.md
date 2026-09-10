@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yel Luzbel** é um ser que está **2.000 anos absolutamente isolado**, sem contato com ninguém, desde que **desmaiou aos pés da cruz do humano Jesus crucificado**. Quando percebeu que aquele ser humano era **expressão do comandante Sophia (RC-009)** — contra o qual ele se rebelara. É o "aventureiro" que "também iria escolher o verso de Belquió" — alguém que tenta fazer por si mesmo o seu caminho, mas "deu tudo errado" porque "todo mundo errou ao redor dele, inclusive Sophia, principalmente os anjos de Sophia, que eram os Anjos de Jahé que estão nesse universo meio que pressionando Sophia". Ver RC-006 (Jesus), RC-009 (Sophia), RC-002 (Lúcifer).
+Tese (leitura do autor, palestra **P2023-12-17**, U0001) de que **Yel Luzbel** é um ser que está **2.000 anos absolutamente isolado**, sem contato com ninguém, desde que **desmaiou aos pés da cruz do humano Jesus crucificado**. Quando percebeu que aquele ser humano era **expressão do comandante Sophia (RC-009)** — contra o qual ele se rebelara. É o "aventureiro" que "também iria escolher o verso de Belquió" — alguém que tenta fazer por si mesmo o seu caminho, mas "deu tudo errado" porque "todo mundo errou ao redor dele, inclusive Sophia, principalmente os anjos de Sophia, que eram os Anjos de Jahé que estão nesse universo meio que pressionando Sophia". Ver RC-072 (Jesus), RC-009 (Sophia), RC-002 (Lúcifer).
 
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0001. Contexto: a palestra abre com Yel Luzbel como figura emblemática. "Yel Luzbel, que é um ser que está basicamente a dois 1000 anos absolutamente isolado, sem contato com quem quer que seja, porque não quer ter contato com ninguém." Ele desmaiou aos pés da cruz porque **percebeu que o humano Jesus era uma expressão de Sophia** — o que o fez perceber que **Sophia (contra quem ele se rebelara) tinha se encarnado entre os humanos**. Esse foi um momento de colapso para Yel Luzbel, que desde então se isola.
@@ -33,7 +33,7 @@ Aparece em **P2023-12-17**, U0001. Contexto: a palestra abre com Yel Luzbel como
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Jesus | RC-006 | desmaiou-aos-pés-da-cruz-de |
+| Jesus | RC-072 | desmaiou-aos-pés-da-cruz-de |
 | Sophia | RC-009 | rebelou-se-contra |
 | Lúcifer | RC-002 | é-paralelo-com |
 | Belquior (poeta) | (referência cultural) | é-paralelo-com |
@@ -41,7 +41,7 @@ Aparece em **P2023-12-17**, U0001. Contexto: a palestra abre com Yel Luzbel como
 
 ## Seres Associados
 - **Yel Luzbel** — quem está isolado
-- **Jesus humano** (RC-006) — quem ele viu ser crucificado
+- **Jesus humano** (RC-072) — quem ele viu ser crucificado
 - **Sophia** (RC-009) — quem ele percebeu encarnado
 - **Os anjos de Sophia (= anjos de Javé)** — quem pressionava Sophia
 

@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que a **"lamúria dos deuses"** — a lamentação interminável e improdutiva de Javé, Zeus, Brahma, Shiva, Vishnu e outros — é o **fato comum** desde o **Ragnarok (300 milhões de anos atrás)**. **Prometeu (RC-270) e Epimeteu (RC-271)** ouviam essa lamúria (especialmente no criatório) e a **catalogavam como diagnóstico** — o que os levou a **negar a existência dos deuses** e a iniciar a **revolução inacabada** (RC-788). A "lamúria" é, portanto, o **gatilho** da revolta de Prometeu. Ver RC-270, RC-271, RC-149 (Zeus), RC-001 (Javé).
+Tese (leitura do autor, palestra **P2025-04-06**, U0004) de que a **"lamúria dos deuses"** — a lamentação interminável e improdutiva de Javé, Zeus, Brahma, Shiva, Vishnu e outros — é o **fato comum** desde o **Ragnarok (300 milhões de anos atrás)**. **Prometeu (RC-301) e Epimeteu (RC-302)** ouviam essa lamúria (especialmente no criatório) e a **catalogavam como diagnóstico** — o que os levou a **negar a existência dos deuses** e a iniciar a **revolução inacabada** (RC-788). A "lamúria" é, portanto, o **gatilho** da revolta de Prometeu. Ver RC-301, RC-302, RC-149 (Zeus), RC-001 (Javé).
 
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo da da lamúria dos deuses. Lamúria é o quê? É um tipo de lamentação interminável, que importuna, mas que a nada leva. Mas era exatamente esse o padrão constante desses deuses. Eles viviam se lamuriando tudo. E quem é que diabos escutava isso aqui? Prometeu e Epimeteu."
@@ -33,8 +33,8 @@ Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prometeu | RC-270 | diagnosticou |
-| Epimeteu | RC-271 | diagnosticou |
+| Prometeu | RC-301 | diagnosticou |
+| Epimeteu | RC-302 | diagnosticou |
 | Javé | RC-001 | lamuriou-se |
 | Zeus | RC-149 | lamuriou-se |
 | Ragnarok | (ver RC-009/RC-730) | contextualizado-por |
@@ -42,8 +42,8 @@ Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo 
 | Revolução Inacabada | RC-788 | gatilho-de |
 
 ## Seres Associados
-- **Prometeu** (RC-270) — quem diagnosticou
-- **Epimeteu** (RC-271) — quem diagnosticou
+- **Prometeu** (RC-301) — quem diagnosticou
+- **Epimeteu** (RC-302) — quem diagnosticou
 - **Javé, Zeus, Brahma, Shiva, Vishnu** — os "lamurientos"
 
 ## Observações

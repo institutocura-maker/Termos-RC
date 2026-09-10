@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, **mediúnica literal de Pandora**, palestra **P2025-04-06**, U0005) de que o **"fogo"** que **Prometeu (RC-270)** trouxe à humanidade via **insidiosa interferência no pacote genético** (produzido por Prometeu, Hefaístos e Atena, destinado a **Pandora (RC-086)**) — **"não é mais visto a movimentar a consciência dos humanos"**. **Apagou-se**. Pandora diz: "aqui eu me apago". A metáfora é que o dom da racionalidade filosófica e da dignidade existencial está em **extinção** na humanidade atual, e **Pandora desiste** de carregá-lo. Ver RC-086 (Pandora), RC-270 (Prometeu), RC-788 (Revolução Inacabada), RC-149 (Hefaístos).
+Tese (leitura do autor, **mediúnica literal de Pandora**, palestra **P2025-04-06**, U0005) de que o **"fogo"** que **Prometeu (RC-301)** trouxe à humanidade via **insidiosa interferência no pacote genético** (produzido por Prometeu, Hefaístos e Atena, destinado a **Pandora (RC-086)**) — **"não é mais visto a movimentar a consciência dos humanos"**. **Apagou-se**. Pandora diz: "aqui eu me apago". A metáfora é que o dom da racionalidade filosófica e da dignidade existencial está em **extinção** na humanidade atual, e **Pandora desiste** de carregá-lo. Ver RC-086 (Pandora), RC-301 (Prometeu), RC-788 (Revolução Inacabada), RC-149 (Hefaístos).
 
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita uma mensagem de Pandora dita através dele. Contexto: depois de diagnosticar a "lamúria dos deuses" (RC-791), Prometeu cria o "fogo" (racionalidade + dignidade + inconformismo) e o entrega à humanidade via Pandora. Mas as religiões impositivas (RC-105) reescreveram a história e o fogo se apagou.
@@ -34,7 +34,7 @@ Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita um
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | carrega |
-| Prometeu | RC-270 | trouxe |
+| Prometeu | RC-301 | trouxe |
 | Hefaístos (Efestos) | RC-149 | produziu-pacote-genético |
 | Atena | (verificar RC) | produziu-pacote-genético |
 | Revolução Inacabada de Prometeu e Pandora | RC-788 | metaforiza |
@@ -44,7 +44,7 @@ Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita um
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem carrega o fogo
-- **Prometeu** (RC-270) — quem trouxe
+- **Prometeu** (RC-301) — quem trouxe
 - **Hefaístos** (RC-149) — quem produziu o pacote genético
 - **Atena** (verificar RC) — quem produziu o pacote genético
 

@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal**, U0005) de que **Pandora (RC-086) se desvia do plano original de Zeus (RC-149)**. Zeus queria que Pandora fosse "presente funesto" (vírus) para Epimeteu (RC-271) como vingança contra Prometeu (RC-270). Mas os 12 do Olimpo inocularam Kalil Kadmon (RC-299) com o **melhor DNA deles** (não o pior), e Pandora — em vez de contaminar os humanos — se apaixonou pelos homo sapiens (RC-099) das fazendas de Epimeteu, se metamorfoseou em mulher e **gerou a linhagem racional da humanidade**. O "desvio de rota" é o **núcleo da tese cosmogônica** da palestra. Ver RC-086, RC-149, RC-271, RC-270, RC-299, RC-179 (Pirra).
+Tese (leitura do autor, palestra **P2017-05-14 — O Desvio de Rota de Pandora e o Quarto Logos Universal**, U0005) de que **Pandora (RC-086) se desvia do plano original de Zeus (RC-149)**. Zeus queria que Pandora fosse "presente funesto" (vírus) para Epimeteu (RC-302) como vingança contra Prometeu (RC-301). Mas os 12 do Olimpo inocularam Kalil Kadmon (RC-299) com o **melhor DNA deles** (não o pior), e Pandora — em vez de contaminar os humanos — se apaixonou pelos homo sapiens (RC-099) das fazendas de Epimeteu, se metamorfoseou em mulher e **gerou a linhagem racional da humanidade**. O "desvio de rota" é o **núcleo da tese cosmogônica** da palestra. Ver RC-086, RC-149, RC-302, RC-301, RC-299, RC-179 (Pirra).
 
 ## Contexto / Origem
 Aparece em **P2017-05-14**, U0005. Contexto: a palestra reconstrói a história da criação de Pandora como "presente funesto" de Zeus, mas com um twist: o plano de Zeus **falha** porque os 12 do Olimpo inocularam o **melhor** (não o pior) e Pandora se apaixona pelos humanos. Este é o início da racionalidade humana — anterior a Adão.
@@ -37,8 +37,8 @@ Aparece em **P2017-05-14**, U0005. Contexto: a palestra reconstrói a história 
 |---|---|---|
 | Pandora | RC-086 | protagoniza |
 | Zeus | RC-149 | plano-original-de |
-| Epimeteu | RC-271 | alvo-do-plano |
-| Prometeu | RC-270 | motivo-da-vingança |
+| Epimeteu | RC-302 | alvo-do-plano |
+| Prometeu | RC-301 | motivo-da-vingança |
 | Kalil Kadmon | RC-299 | é-morada-de |
 | Homo Sapiens | RC-099 | apaixona-se-por |
 | Pirra | RC-303 | gera-com-epimeteu |
@@ -48,8 +48,8 @@ Aparece em **P2017-05-14**, U0005. Contexto: a palestra reconstrói a história 
 ## Seres Associados
 - **Pandora** (RC-086) — quem se desvia
 - **Zeus** (RC-149) — quem planejou o desvio
-- **Prometeu** (RC-270) — quem sacaneava Zeus
-- **Epimeteu** (RC-271) — quem era o alvo
+- **Prometeu** (RC-301) — quem sacaneava Zeus
+- **Epimeteu** (RC-302) — quem era o alvo
 - **Os 12 do Olimpo** — quem inocularam Kalil Kadmon
 - **Hefaístos (Efestos)** — quem concluiu a "programação"
 

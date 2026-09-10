@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Lilith (RC-308)** **não é humana** — é da **espécie Rakshasa** (STT "Rxaça") (também grafada "racha"), que tem **mais de 1000 tipos/subespécies**. Lilith é **"monstruosa"**, mas **surgiu para apoiar Pandora (RC-086)**. Seus descendentes **mantinham o mito dela** como forma de **esconder Pandora** ("fazendo crer que ela estava morta para ver se ela ganhava um descanso"). A tese afasta Lilith da demonologia judaica-cristã (1ª esposa de Adão) e a reinscreve como **espécie cósmica não-humana**. Ver RC-308 (Lilith), RC-086 (Pandora), RC-105 (Judaísmo).
+Tese (leitura do autor, palestra **P2025-04-06**, U0006) de que **Lilith (RC-308)** **não é humana** — é da **espécie Rakshasa** (STT "Rxaça") (também grafada "racha"), que tem **mais de 1000 tipos/subespécies**. Lilith é **"monstruosa"**, mas **surgiu para apoiar Pandora (RC-086)**. Seus descendentes **mantinham o mito dela** como forma de **esconder Pandora** ("fazendo crer que ela estava morta para ver se ela ganhava um descanso"). A tese afasta Lilith da demonologia judaica-cristã (1ª esposa de Adão) e a reinscreve como **espécie cósmica não-humana**. Ver RC-308 (Lilith), RC-086 (Pandora), RC-796 (Judaísmo).
 
 ## Contexto / Origem
 Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: "Lilif é alguém que surgiu aqui para apoiar a Pandora. Só que Lilif não é humana, é Rxassa. E Lilif é monstruosa. A Pandora não fazia mal a ninguém."

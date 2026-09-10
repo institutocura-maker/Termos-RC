@@ -70,7 +70,7 @@ Presente em B031 (glossário Raquyel) e nas obras primárias B020 *O Sorriso de 
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Deidade (Pai-Mãe Amantíssimo/Brahman) | RC-047 | relaciona-se-a (relação prévia na malha) |
-| Sophia (Cristo Cósmico) | RC-066 | relaciona-se-a (relação prévia) |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a (relação prévia) |
 | Pandora | RC-086 | cria (o criador tirânico) |
 | Prometeu (titã) | RC-301 | adversário (a vingança) |
 | Hefesto | RC-307 | associado-a (coautor da caixa; o "encerramento") |

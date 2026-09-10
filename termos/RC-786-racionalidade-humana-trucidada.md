@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0004) de que a **racionalidade humana** — produzida pela Sequência Formativa (RC-785) — foi **trucidada** ao longo da história por múltiplos eventos: (1) **catolicismo medieval** proibiu a leitura popular por 1000 anos (séculos X-XIII); (2) **Concílio de Niceia (325 DC)** centralizou o debate em arianismo × trinitarismo, abandonando o trívio/quadrívio; (3) **Boécio** foi executado aos 44 anos (524 DC) enquanto traduzia o trívio/quadrívio; (4) **Fausto de Goethe** (séc. XIX) é o símbolo da "tentativa de submeter o eu humano". A racionalidade humana é, portanto, **flor destruída** — que precisa ser reconstruída na intimidade de cada um. Ver RC-105 (Igreja Católica), RC-114 (Concílio de Niceia), RC-335 (Lavagem Cerebral).
+Tese (leitura do autor, palestra **P2023-11-11 — De Pandora a Eva e a Rebelião de Lilith**, U0004) de que a **racionalidade humana** — produzida pela Sequência Formativa (RC-785) — foi **trucidada** ao longo da história por múltiplos eventos: (1) **catolicismo medieval** proibiu a leitura popular por 1000 anos (séculos X-XIII); (2) **Concílio de Niceia (325 DC)** centralizou o debate em arianismo × trinitarismo, abandonando o trívio/quadrívio; (3) **Boécio** foi executado aos 44 anos (524 DC) enquanto traduzia o trívio/quadrívio; (4) **Fausto de Goethe** (séc. XIX) é o símbolo da "tentativa de submeter o eu humano". A racionalidade humana é, portanto, **flor destruída** — que precisa ser reconstruída na intimidade de cada um. Ver RC-105 (Igreja Católica), RC-273 (Concílio de Niceia), RC-335 (Lavagem Cerebral).
 
 ## Contexto / Origem
 Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (RC-785) — depois que a racionalidade foi produzida, foi destruída. Contexto histórico: o **século IV** (com o fim da educação greco-romana via trívio/quadrívio de Marciano Capela) e o **século V** (com o assassinato de Boécio) são os pontos de virada.
@@ -38,7 +38,7 @@ Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (R
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Igreja Católica | RC-105 | trucidou-via |
-| Concílio de Niceia | RC-114 | contribuiu-para |
+| Concílio de Niceia | RC-273 | contribuiu-para |
 | Lavagem Cerebral | RC-335 | é-quebrada-por |
 | Sequência Formativa da Racionalidade Humana | RC-785 | desfecho-de |
 | Homo Sapiens / Seres Terrenos | RC-099 | aplica-se-a |

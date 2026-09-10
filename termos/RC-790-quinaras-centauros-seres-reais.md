@@ -36,8 +36,8 @@ Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca d
 |---|---|---|
 | Geração Regenerada de Brahma | RC-696 | contextualizado-por |
 | Xamanismo Cósmico | RC-577 | opõe-se-a |
-| Prometeu | RC-270 | recebeu-visitas-de |
-| Epimeteu | RC-271 | recebeu-visitas-de |
+| Prometeu | RC-301 | recebeu-visitas-de |
+| Epimeteu | RC-302 | recebeu-visitas-de |
 | Sileno | (sem ficha) | mestre-de |
 | Quirón (centauro) | (sem ficha; pode haver RC) | paralelo-com |
 | Sátiros | (sem ficha) | variante-de |

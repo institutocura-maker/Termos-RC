@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17**, U0003/U0004) de que os **elétrons (RC-378) guardam memórias de tudo que existiu** (universo vizinho + nosso). **"Arcanos"** são memórias antigas que se transformaram em "conceitos mentais à parte" — entidades autônomas no psiquismo dos elétrons. A **rebelião dos elétrons (RC-826)** desfaz esses arcanos. **Experimento de Charon** (físico nuclear francês dos anos 70) confirma matematicamente. Ver RC-378 (Elétron), RC-099 (Homo Sapiens), RC-161 (Memória Quântica dos Elétrons), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons), RC-829-154 (Inconsciente Coletivo de Jung — paralelo formal).
+Tese (leitura do autor, palestra **P2023-12-17**, U0003/U0004) de que os **elétrons (RC-162) guardam memórias de tudo que existiu** (universo vizinho + nosso). **"Arcanos"** são memórias antigas que se transformaram em "conceitos mentais à parte" — entidades autônomas no psiquismo dos elétrons. A **rebelião dos elétrons (RC-826)** desfaz esses arcanos. **Experimento de Charon** (físico nuclear francês dos anos 70) confirma matematicamente. Ver RC-162 (Elétron), RC-099 (Homo Sapiens), RC-161 (Memória Quântica dos Elétrons), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons), RC-829-154 (Inconsciente Coletivo de Jung — paralelo formal).
 
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **memória dos elétrons** como o **arquivo mais antigo da criação** — mais antigo que qualquer ser, mais antigo que Javé, mais antigo que Sophia. "Os elétrons eles estão trabalhando com as formas arcanas no âmbito do inconsciente dos elétrons." O autor cita **Charon** (físico nuclear francês) como o descobridor da memória dos elétrons nos anos 70. Cita também **Jung** ("inconsciente coletivo aprovado matematicamente") como paralelo acadêmico.
@@ -33,7 +33,7 @@ Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **me
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-378 | tem-memória |
+| Elétron | RC-162 | tem-memória |
 | Homo Sapiens | RC-099 | é-paralelo-a |
 | Memória Quântica dos Elétrons | RC-161 | é-paralelo-com |
 | Rebelião dos Elétrons | RC-826 | desfaz-arcanos-de |
@@ -43,7 +43,7 @@ Aparece em **P2023-12-17**, U0003 e U0004. Contexto: a palestra apresenta a **me
 | Sistema Arcaico Mental | RC-828 | é-memória-mais-antiga-de |
 
 ## Seres Associados
-- **Elétrons (RC-378)** — quem tem a memória
+- **Elétrons (RC-162)** — quem tem a memória
 - **Lúcifer (RC-002)** — quem tem "olhar científico" sobre essa memória
 - **Charon (físico nuclear francês, anos 70)** — quem descobriu academicamente
 

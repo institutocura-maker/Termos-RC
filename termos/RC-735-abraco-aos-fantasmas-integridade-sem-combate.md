@@ -33,7 +33,7 @@ Proposta ética de Jan Val Ellam para reconhecer e acolher processos ou seres an
 
 | Termo | Código | Relação |
 |---|---|---|
-| Livre-arbítrio | RC-508 | relaciona-se-a |
+| Livre-arbítrio | RC-938 | relaciona-se-a |
 | Autonomia | RC-509 | relaciona-se-a |
 | Dignidade como Critério | RC-722 | relaciona-se-a |
 | Ponto de Luz Humano | RC-725 | relaciona-se-a |

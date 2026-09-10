@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2019-04-14**, U0001/U0002) de que **a humanidade é a "prole sem face"** — somos os **únicos seres modificáveis** ("podemos modificar o nosso modo de ser, e podemos enriquecer do nosso modo de ser com o curso que a gente faz, com a experiência que a gente tem") mas **sem face definida** ("podemos ser qualquer coisa"). Os **demos** (com 1000 faces, Exu com 256) acham isso "horrível" — porque podem sorrir e enfiar a faca, podem usar da falsidade que eles não têm. **Somos a "progênie de uma briga entre Zeus e Pandora"**. Ver RC-099 (Homo Sapiens), RC-086 (Pandora), RC-149 (Zeus), RC-001 (Javé), RC-270 (Prometeu), RC-271 (Epimeteu).
+Tese (leitura do autor, palestra **P2019-04-14**, U0001/U0002) de que **a humanidade é a "prole sem face"** — somos os **únicos seres modificáveis** ("podemos modificar o nosso modo de ser, e podemos enriquecer do nosso modo de ser com o curso que a gente faz, com a experiência que a gente tem") mas **sem face definida** ("podemos ser qualquer coisa"). Os **demos** (com 1000 faces, Exu com 256) acham isso "horrível" — porque podem sorrir e enfiar a faca, podem usar da falsidade que eles não têm. **Somos a "progênie de uma briga entre Zeus e Pandora"**. Ver RC-099 (Homo Sapiens), RC-086 (Pandora), RC-149 (Zeus), RC-001 (Javé), RC-301 (Prometeu), RC-302 (Epimeteu).
 
 ## Contexto / Origem
 Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **assimetria fundamental** entre humanos e demos. Os demos são **modificáveis em face** (metamorfoseiam) mas **não modificáveis em psiquismo** (não conseguem "se reformar intimamente"). Os humanos são **modificáveis em psiquismo** (podem "se reformar intimamente") mas **não modificáveis em face** (têm só uma face). Esta assimetria é a **origem da exploração**: os demos precisam dos humanos para **gerar o "perfume"** que eles não conseguem gerar sozinhos.
@@ -35,8 +35,8 @@ Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **ass
 | Pandora | RC-086 | é-mãe |
 | Zeus | RC-149 | é-pai |
 | Javé | RC-001 | é-posterior |
-| Prometeu | RC-270 | está-envolvido |
-| Epimeteu | RC-271 | está-envolvido |
+| Prometeu | RC-301 | está-envolvido |
+| Epimeteu | RC-302 | está-envolvido |
 | Desvio de Rota de Pandora | RC-806 | é-origem |
 | Racionalidade Evolutiva de Eva | RC-814 | é-complemento |
 
@@ -45,8 +45,8 @@ Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **ass
 - **Pandora (RC-086)** — a mãe
 - **Zeus (RC-149)** — o pai/brigante
 - **Javé (RC-001)** — o segundo brigante
-- **Prometeu (RC-270)** — envolvido
-- **Epimeteu (RC-271)** — envolvido
+- **Prometeu (RC-301)** — envolvido
+- **Epimeteu (RC-302)** — envolvido
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2019-04-14 é a única fonte primária dessa formulação específica (assimetria modificabilidade/face).

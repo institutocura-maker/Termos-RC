@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora**, U0001/U0005/U0006) de que a **transformação humana** iniciada por **Prometeu (RC-270)**, **Epimeteu (RC-271)** e **Pandora (RC-086)** — que buscava destravar a dignidade humana via **alquimia/farmacologia** nos criatórios — foi **inacabada**: as religiões impositivas (judaísmo, cristianismo, islamismo) reescreveram a história, transformaram os "bandidos-heróis" em "vilões" e o crime em "sagrado". **Pandora desiste e morre "mal"**. Mas o **fogo que Prometeu acendeu** ainda pode ser reacendido por cada humano que se recusa a pertencer a qualquer "-ismo". A palestra é a **peça de encerramento do tema Pandora** na Nova Fase. Ver RC-086 (Pandora), RC-270 (Prometeu), RC-271 (Epimeteu), RC-105 (Religiões Impositivas).
+Tese (leitura do autor, palestra **P2025-04-06 — A Revolução Inacabada de Prometeu e Pandora**, U0001/U0005/U0006) de que a **transformação humana** iniciada por **Prometeu (RC-301)**, **Epimeteu (RC-302)** e **Pandora (RC-086)** — que buscava destravar a dignidade humana via **alquimia/farmacologia** nos criatórios — foi **inacabada**: as religiões impositivas (judaísmo, cristianismo, islamismo) reescreveram a história, transformaram os "bandidos-heróis" em "vilões" e o crime em "sagrado". **Pandora desiste e morre "mal"**. Mas o **fogo que Prometeu acendeu** ainda pode ser reacendido por cada humano que se recusa a pertencer a qualquer "-ismo". A palestra é a **peça de encerramento do tema Pandora** na Nova Fase. Ver RC-086 (Pandora), RC-301 (Prometeu), RC-302 (Epimeteu), RC-105 (Religiões Impositivas).
 
 ## Contexto / Origem
 Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** iniciado em P2018-10-06. Contexto: depois de 4 palestras (P2018, P2019, P2023-N, P2023-K), o autor **encerra o ciclo** com a mensagem de que a revolução foi inacabada, mas pode ser reacendida na intimidade de cada humano inconformado.
@@ -33,8 +33,8 @@ Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** i
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prometeu | RC-270 | protagoniza |
-| Epimeteu | RC-271 | protagoniza |
+| Prometeu | RC-301 | protagoniza |
+| Epimeteu | RC-302 | protagoniza |
 | Pandora | RC-086 | protagoniza |
 | Religiões Impositivas | RC-105 | interrompeu |
 | Centro Alquímico-Farmacopédico | RC-789 | instrumentalizado-via |
@@ -43,8 +43,8 @@ Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** i
 | Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
 
 ## Seres Associados
-- **Prometeu** (RC-270) — o "cientista revoltado"
-- **Epimeteu** (RC-271) — o irmão
+- **Prometeu** (RC-301) — o "cientista revoltado"
+- **Epimeteu** (RC-302) — o irmão
 - **Pandora** (RC-086) — a "mãe quatro vezes" que desiste
 
 ## Observações

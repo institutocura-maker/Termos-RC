@@ -38,7 +38,7 @@ Aparece em **P2018-05-20**, U0004. Contexto: a palestra reconstrói a história 
 | Eva | RC-814 | é-sufocada-por |
 | Lavagem Cerebral | RC-335 | é-mecanismo-de |
 | Culto a Lilith | RC-813 | é-resistência-a |
-| Judaísmo | RC-105 | é-veículo-de |
+| Judaísmo | RC-796 | é-veículo-de |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem instituiu o patriarcado

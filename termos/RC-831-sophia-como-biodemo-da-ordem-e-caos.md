@@ -54,8 +54,8 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 | Aya/Aye (clones) | RC-369 | é-família-de |
 | Anjos Glores (clones) | RC-001 | é-progressivamente-livre-de |
 | Lúcifer | RC-002 | tem-problemas-com |
-| Elétron | RC-378 | tem-pulsação-de |
-| Jesus | RC-006 | é-parte-mais-bela-de |
+| Elétron | RC-162 | tem-pulsação-de |
+| Jesus | RC-072 | é-parte-mais-bela-de |
 
 ## Seres Associados
 - **Sophia (RC-009)** — o biodemo protagonista

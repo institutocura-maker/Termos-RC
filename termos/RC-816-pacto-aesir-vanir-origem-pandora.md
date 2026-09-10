@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2018-05-20**, U0002) de que **o pacto entre os Aesir e os Vanir** (mitologia nórdica, ~5 bilhões de anos atrás) é a **origem nórdica da ideia de Pandora**. **Fria** (a Vanir) olha para a "tigela" de saliva (registro do melhor de cada um dos demônio) e pede a criação de **Kvasir** ("o melhor de todos"). **Kvasir é paralelo a Pandora** — ambos são criados a partir de uma "tigela" que contém o melhor de cada um. A palestra usa o pacto Aesir-Vanir como **analogia mítica** para a clonagem de Pandora por Zeus + Têmis. Ver RC-085 (Fria), RC-378 (Kvasir), RC-489 (Odin), RC-068 (Hiperbórea/Asgard), RC-395 (Ragnarok em Marte), RC-086 (Pandora), RC-815 (Têmis como Mãe-de-Pandora).
+Tese (leitura do autor, palestra **P2018-05-20**, U0002) de que **o pacto entre os Aesir e os Vanir** (mitologia nórdica, ~5 bilhões de anos atrás) é a **origem nórdica da ideia de Pandora**. **Fria** (a Vanir) olha para a "tigela" de saliva (registro do melhor de cada um dos demônio) e pede a criação de **Kvasir** ("o melhor de todos"). **Kvasir é paralelo a Pandora** — ambos são criados a partir de uma "tigela" que contém o melhor de cada um. A palestra usa o pacto Aesir-Vanir como **analogia mítica** para a clonagem de Pandora por Zeus + Têmis. Ver RC-085 (Fria), RC-396 (Kvasir), RC-489 (Odin), RC-068 (Hiperbórea/Asgard), RC-395 (Ragnarok em Marte), RC-086 (Pandora), RC-815 (Têmis como Mãe-de-Pandora).
 
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0002. Contexto: o autor faz um **salto de 5 bilhões de anos** para chegar à origem da ideia de Pandora. "Voltando 5 bilhões de anos no tempo histórico, ao tempo em que Odim desistiu [...] Odim e Zeus são as mesmas figuras. Não são. Odim surgiu para[a] vida há 5 bilhões de anos atrás. Zeus é um menino. Tem uns 300.000 anos." Os Aesir e os Vanir são duas etnias demo (não-biológicas) que brigam; **Odin** chama todos para uma reunião para estabelecer a paz. Eles fazem um pacto e **todos cospem numa tigela** (a "saliva" é o registro do "melhor momento mental" de cada um). **Fria** (a Vanir) olha para a tigela e diz: "que pena nós deixarmos para trás o melhor de cada um de nós". E propõe criar um ser a partir dessa saliva — esse ser é **Kvasir** ("o melhor de todos").
@@ -38,7 +38,7 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Fria | RC-085 | protagoniza |
-| Kvasir | RC-378 | é-resultado-de |
+| Kvasir | RC-396 | é-resultado-de |
 | Odin | RC-489 | convoca |
 | Hiperbórea (Asgard) | RC-068 | é-morada-de |
 | Ragnarok em Marte | RC-395 | é-contexto-de |
@@ -49,7 +49,7 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 ## Seres Associados
 - **Fria** (RC-085) — a propositora
 - **Odin** (RC-489) — o convocador
-- **Kvasir** (RC-378) — o resultado
+- **Kvasir** (RC-396) — o resultado
 - **Aesir e Vanir** — as duas etnias
 
 ## Observações

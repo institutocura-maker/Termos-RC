@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2018-05-20**, U0002) de que **Temis (Têmis)** é **"co-mãe" de Pandora (RC-086)** — Pandora é "filha de Zeus e Temes [Têmis]" (não-sexualmente, mas psiquicamente). Temis é a **"tigela"** que inspirou a clonagem de Pandora, em paralelo com Kvasir (criado pela saliva de Aesir+Vanir da mitologia nórdica). **A "vontade de Zeus" de clonar Pandora foi "provocada por uma professa [promessa?] de Zeus e tênis [Têmis]"**. Ver RC-300 (Têmis), RC-149 (Zeus), RC-086 (Pandora), RC-378 (Kvasir), RC-816 (Pacto Aesir-Vanir).
+Tese (leitura do autor, palestra **P2018-05-20**, U0002) de que **Temis (Têmis)** é **"co-mãe" de Pandora (RC-086)** — Pandora é "filha de Zeus e Temes [Têmis]" (não-sexualmente, mas psiquicamente). Temis é a **"tigela"** que inspirou a clonagem de Pandora, em paralelo com Kvasir (criado pela saliva de Aesir+Vanir da mitologia nórdica). **A "vontade de Zeus" de clonar Pandora foi "provocada por uma professa [promessa?] de Zeus e tênis [Têmis]"**. Ver RC-305 (Têmis), RC-149 (Zeus), RC-086 (Pandora), RC-396 (Kvasir), RC-816 (Pacto Aesir-Vanir).
 
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0002. Contexto: a palestra reconstrói a origem da ideia de Pandora a partir de **dois movimentos paralelos**:
@@ -37,15 +37,15 @@ A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Têmis (Títã grega) | RC-300 | é-paralelo-com |
+| Têmis (Títã grega) | RC-305 | é-paralelo-com |
 | Zeus | RC-149 | co-clona-com |
 | Pandora | RC-086 | é-mãe-de |
-| Kvasir | RC-378 | é-paralelo-nórdico-com |
+| Kvasir | RC-396 | é-paralelo-nórdico-com |
 | Fria | RC-085 | é-equivalente-feminino-de |
 | Pacto Aesir-Vanir | RC-816 | contextualiza |
 
 ## Seres Associados
-- **Têmis** (RC-300) — quem co-clona
+- **Têmis** (RC-305) — quem co-clona
 - **Zeus** (RC-149) — quem co-clona
 - **Pandora** (RC-086) — quem é clonada
 

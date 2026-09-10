@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **Lilith (RC-308) transformou-se em deusa na Babilônia** — "Lil" — e era "mais conhecida de todas" as divindades. O **judaísmo-cristianismo sumiu com o nome dela** ("deixou de Eva, por que Eva funcionou, e ela virou um demônio para religiosidade cristã e católica"). O **culto a Lilith** é a peça que o autor tenta recuperar na palestra. Ver RC-308 (Lilith), RC-794 (Lilith como Rxaça), RC-464 (Inanna), RC-489 (Enoque), RC-105 (Judaísmo).
+Tese (leitura do autor, palestra **P2018-05-20**, U0004) de que **Lilith (RC-308) transformou-se em deusa na Babilônia** — "Lil" — e era "mais conhecida de todas" as divindades. O **judaísmo-cristianismo sumiu com o nome dela** ("deixou de Eva, por que Eva funcionou, e ela virou um demônio para religiosidade cristã e católica"). O **culto a Lilith** é a peça que o autor tenta recuperar na palestra. Ver RC-308 (Lilith), RC-794 (Lilith como Rxaça), RC-464 (Inanna), RC-489 (Enoque), RC-796 (Judaísmo).
 
 ## Contexto / Origem
 Aparece em **P2018-05-20**, U0004. Contexto: depois que Lilith foge do "curral chamado Javid" de Javé, ela "se fortalece" no Gênero da Descendência. Lá, ela vira **deusa em vários lugares da terra** (Babilônia, "mesa" [= Babel?], entre outros). **O culto a Lil** se torna "mais conhecido" do que o culto a Pandora (que era "discreta") ou Pirra (que era "mais relógica" [religiosa]). O judaísmo-cristianismo, ao criar a narrativa de Gênesis, **apagou Lilith** e a transformou em demônio.
@@ -34,7 +34,7 @@ Aparece em **P2018-05-20**, U0004. Contexto: depois que Lilith foge do "curral c
 | Lilith | RC-308 | é-protagonista-de |
 | Lilith como Rxaça | RC-794 | é-paralelo-com |
 | Inanna | RC-464 | é-análoga-babilônica |
-| Judaísmo | RC-105 | apagou |
+| Judaísmo | RC-796 | apagou |
 | Enoque | RC-489 | é-contexto-de |
 | Patriarcado desde Pandora | RC-818 | é-contexto-de |
 

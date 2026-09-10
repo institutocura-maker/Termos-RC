@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o budismo (Gautama, RC-100) é a única exceção** entre as religiões que "jamais falou de Deus" — embora tenha sido "transformado devagarinho" em religião. O budismo seria, portanto, a **única religião não-dominação** entre as "instrumentos de dominação" (judaísmo, cristianismo, islamismo, hinduísmo, "até o espiritismo"). Ver RC-100 (Budismo/Gautama), RC-105 (Religiões Impositivas), RC-797 (Estratégia dos Avatares).
+Tese (leitura do autor, palestra **P2018-02-24**, U0005) de que **o budismo (Gautama, RC-803) é a única exceção** entre as religiões que "jamais falou de Deus" — embora tenha sido "transformado devagarinho" em religião. O budismo seria, portanto, a **única religião não-dominação** entre as "instrumentos de dominação" (judaísmo, cristianismo, islamismo, hinduísmo, "até o espiritismo"). Ver RC-803 (Budismo/Gautama), RC-105 (Religiões Impositivas), RC-797 (Estratégia dos Avatares).
 
 ## Contexto / Origem
 Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como instrumentos de dominação, o autor faz a única exceção: o budismo. "Só sobrou budismo que foi transformado devagarinho também em religião, quando jamais falou de Deus."
@@ -29,7 +29,7 @@ Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Budismo / Gautama | RC-100 | qualifica |
+| Budismo / Gautama | RC-803 | qualifica |
 | Religiões Impositivas | RC-105 | é-exceção-a |
 | Estratégia dos Avatares | RC-797 | escapa-de |
 | Jesus como Último Avatar | RC-800 | paralelo-com (séculos antes/depois) |

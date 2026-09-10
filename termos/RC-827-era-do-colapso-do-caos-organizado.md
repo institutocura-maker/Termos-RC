@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0005) de que **a humanidade está vivendo "a era do colapso do caos organizado"** — o caos se organizou criando vida (colmeias, corais, humanos), mas agora a **entropia (força tamásica, RC-148)** + a **rebelião dos elétrons (RC-826)** estão colapsando as "ilhas de negentropia". "Ninguém reverte isso. Se nós humanos nos especiarmos e vários núcleos humanos conseguirem, isso vai ser serão novas ilhas de neentropia em pleno caos, produzindo informações maravilhosas." Ver RC-378 (Elétron), RC-148 (Shiva), RC-001 (Javé), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons).
+Tese (leitura do autor, palestra **P2023-12-17 — Lúcifer e a Rebelião dos Elétrons**, U0005) de que **a humanidade está vivendo "a era do colapso do caos organizado"** — o caos se organizou criando vida (colmeias, corais, humanos), mas agora a **entropia (força tamásica, RC-148)** + a **rebelião dos elétrons (RC-826)** estão colapsando as "ilhas de negentropia". "Ninguém reverte isso. Se nós humanos nos especiarmos e vários núcleos humanos conseguirem, isso vai ser serão novas ilhas de neentropia em pleno caos, produzindo informações maravilhosas." Ver RC-162 (Elétron), RC-148 (Shiva), RC-001 (Javé), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-832 (Pulsação dos Elétrons).
 
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de **"era do colapso do caos organizado"** como o pano de fundo histórico do nosso tempo. **Yel Luzbel** foi quem chamou atenção do autor para isso — "acho que você devia entender que vocês, nós estamos vivendo o início de uma nova era, era do conhecimento, era mas é a era do colapso do caos organizado". O caos conseguiu se organizar e construir vida (corais, colmeias, humanos), mas agora a entropia (já destrói o organizado) está sendo acrescida da **rebelião dos elétrons** — uma força **além da entropia**.
@@ -33,7 +33,7 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-378 | é-agente-de |
+| Elétron | RC-162 | é-agente-de |
 | Entropia (força tamásica) | RC-148 | é-mecanismo-de |
 | Javé | RC-001 | é-criador-de |
 | Plasma | RC-162 | é-estado-de |
@@ -43,7 +43,7 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de 
 | Corais e Colmeias | (fato biológico) | são-primeiras-vítimas-de |
 
 ## Seres Associados
-- **Elétrons (RC-378)** — quem está colapsando
+- **Elétrons (RC-162)** — quem está colapsando
 - **Yel Luzbel** — quem chamou atenção para a era
 - **Humanos (RC-099)** — "melhor criação do caos", também colapsando
 

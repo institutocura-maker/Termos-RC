@@ -8,7 +8,7 @@
 | **Última atualização** | 2026-08-31 |
 
 ## Definição Sintética
-Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais antigo de organização da vida** é o **sistema arcaico mental** — descrito no livro "Divina Ceia" (B037) — onde **Javé (RC-001) = abelha rainha**, **os clones = abelhas operárias**. É uma "estrutura morfogenética" de 300 milhões de anos, baseada em **hierarquia e controle mental** (Javé controla os clones). Os elétrons (RC-378) estão **colapsando esse sistema arcaico** porque ele é o mais antigo e "são no sentido arcano as maneiras mais antigas como a vida se organizou". Ver RC-001 (Javé), RC-009 (Sophia), RC-378 (Elétron), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-829 (Memória dos Elétrons).
+Tese (leitura do autor, palestra **P2023-12-17**, U0003) de que o **sistema mais antigo de organização da vida** é o **sistema arcaico mental** — descrito no livro "Divina Ceia" (B037) — onde **Javé (RC-001) = abelha rainha**, **os clones = abelhas operárias**. É uma "estrutura morfogenética" de 300 milhões de anos, baseada em **hierarquia e controle mental** (Javé controla os clones). Os elétrons (RC-162) estão **colapsando esse sistema arcaico** porque ele é o mais antigo e "são no sentido arcano as maneiras mais antigas como a vida se organizou". Ver RC-001 (Javé), RC-009 (Sophia), RC-162 (Elétron), RC-162 (Plasma), RC-826 (Rebelião dos Elétrons), RC-829 (Memória dos Elétrons).
 
 ## Contexto / Origem
 Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elétrons estão colapsando colmeias e corais. "As calmeias [colmeias] trazem si o velho sistema comérico [cooperativo] mental que eu explorei no livro chamada Divina Céia, que é o sistema arcaico, mental. mais antigo porque surgiu com Javé e os clones. **Javé era abelha rainha, os clones, as abelhas operárias.** Mas aí surgiram essas formas de vida superiores a essa. Mas na hora em que a vida veio com seu código pro nosso universo, quem veio foi essa daqui, porque Javé queria que todo mundo aqui fosse abelhinha e ele mandasse." Os elétrons têm isso memorizado nos pósitrons e nos elétrons — e estão colapsando o sistema mais antigo.
@@ -34,7 +34,7 @@ Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elét
 |---|---|---|
 | Javé (Brahma) | RC-001 | é-rainha-de |
 | Sophia | RC-009 | é-análoga-a |
-| Elétron | RC-378 | colapsa |
+| Elétron | RC-162 | colapsa |
 | Plasma | RC-162 | é-estado-de |
 | Rebelião dos Elétrons | RC-826 | é-mecanismo-de |
 | Memória dos Elétrons | RC-829 | é-contexto-de |
@@ -44,7 +44,7 @@ Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elét
 ## Seres Associados
 - **Javé (RC-001)** — a abelha rainha
 - **Os clones (anjos glores)** — as abelhas operárias
-- **Os elétrons (RC-378)** — quem colapsa o sistema
+- **Os elétrons (RC-162)** — quem colapsa o sistema
 - **As abelhas/corais (colmeias)** — quem está colapsando (biológico)
 
 ## Observações

@@ -36,7 +36,7 @@ Aparece em **P2025-04-06**, U0006, na conclusão da palestra. Contexto: depois d
 | Pandora | RC-086 | destruiu-mito-de |
 | Lilith | RC-308 | destruiu-mito-de |
 | Eva | RC-189 | reescreveu-história-de |
-| Prometeu | RC-270 | reescreveu-história-de |
+| Prometeu | RC-301 | reescreveu-história-de |
 | Racionalidade Humana Trucidada | RC-786 | é-parte-de |
 | Lavagem Cerebral | RC-335 | é-mantida-por |
 | Egrégora de Lilith/Noreia | RC-787 | ativou |

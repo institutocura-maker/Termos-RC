@@ -35,7 +35,7 @@ No Livro 2 (B058), Tau Ceti é o segundo destino da turnê rebelde ("depois conv
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Capela (Sistema) | RC-067 | relaciona-se-a (relação prévia na malha) |
+| Capela (Sistema) | RC-039 | relaciona-se-a (relação prévia na malha) |
 | Antares (Sistema) | RC-021 | relaciona-se-a (destinos da turnê) |
 | Universidade de Tau Ceti | RC-451 | ocorre-em (sede da Universidade — relação B058) |
 
