@@ -3139,6 +3139,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 15 restantes):** por ordem decrescente — `RC-506`, `RC-305`, `RC-230`, `RC-228`, `RC-191`, `RC-165` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 104).
 
+### Lote 104 — 12º anel, grau 0 (6 verbetes, 3.180 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 104 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `c8a084a` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Observação de Sileno | V.22.1 | `V5/V5.22.01-RC228-observacao-sileno.md` | **579** | 467 p. |
+| Karuna | I.3.1 | `V1/V1.03.01-RC165-karuna.md` | 568 | 540 p. |
+| Fofocas cósmicas | I.3.4 | `V1/V1.03.04-RC191-fofocas-cosmicas.md` | 533 | **1.235 p.** |
+| Reflexos da Doença | IV.21.1 | `V4/V4.21.01-RC230-reflexos-doenca-dna.md` | 530 | 575 p. |
+| Ekatma (Adam Kadmon) | I.3.2 | `V1/V1.03.02-RC506-ekatma-adam-kadmon.md` | 509 | 524 p. |
+| Têmis | III.12.1 | `V3/V3.12.01-RC305-temis.md` | **461** | **407 p.** |
+
+**Medida final:** 461–579 palavras (média 530) · **8 verbatim byte a byte** · 117 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 138 de 147** (9 restantes; `RC-936` remissiva permanente). Estado: 640 verbetes · **8.527 verbatim · 8.130 códigos · 0 falhas**.
+
+**Achados do lote 104 (materializações + TALM — P2012 a P2025, 165–506):**
+
+1. **`RC-506` Ekatma (I.3.2 — 12º da seção):** 1 span — «Adão Cadimão ancestral.» (único «» da ficha); DUPLA divergência ficha×cadastro (SERES 1.1×TER_OUT 8.2, 🟡×⚪) — verbete segue cadastro/ÍNDICE; seção nova; status ⚪ candidato.
+2. **`RC-305` Têmis (III.12.1 — 20º da seção; menor ficha do lote, 407 p.):** 1 span — «...deusa dos juramentos, dos deuses.»; materialização Motor Único P2017-10-14; seção nova (outra Têmis, a 815, já mora nela); 027 sem ficha; status 🟡 provisório.
+3. **`RC-230` Reflexos da Doença (IV.21.1 — 26º da seção):** 2 spans — «...marcada no DNA de todas as espécies.» + «...só está 3% ativado...»; materialização P2012-02-19 + ampliação P2025-06-14; legenda corrigida antes do commit (primeiro rascunho com seção errada, pego na conferência); status 🟡 provisório.
+4. **`RC-228` Observação de Sileno (V.22.1 — 32º da seção; maior verbete do lote, 579 p.):** 1 span longo — «...uma figura chamada Sileno na época do rei Midas...»; materialização P2017-10-14; seção gigante (32º); 227 sem ficha; status 🟡 provisório.
+5. **`RC-191 Fofocas cósmicas (I.3.4 — 6º da seção; maior ficha do lote, 1.235 p.):** 2 spans — «...fofocas do circuito...» + «...não tenho essa capacidade de perceber.»; quarentenas institucional + biográfica (bloco político retido); tabela vazia, lista de leitura 098/036; 098 sem ficha; seção nova; status 🟡 provisório.
+6. **`RC-165` Karuna (I.3.1 — 11º da seção):** 1 span — «...caruna é a construção psíquica mais avançada...»; QUARENTENA CLÍNICA (DNA lixo, religar DNA); divergência de classificação (ficha 2.5 "Consciência/Espiritualidade" inexistente × cadastro 8.1); hub 612 citado; seção nova; status 🟡 provisório.
+7. **Divergências anotadas, não harmonizadas (6 subseções):** I.3.2 (legenda ×1 — 263; vol. ×2 — 008/263; 9 seguidores) · I.3.4 (legenda ×1 + vol. ×1 — 192; 4 seguidores) · I.3.1 (legenda ×3 — 618/691/706; vol. ×2 — 618/691; 7 seguidores) · III.12.1 (legenda ×3 grupos — 049+078/145+582/ÍNDICE ×15; vol. ×2 — 002/142+398; 12 seguidores) · V.22.1 (legenda ×4 grupos — Moros ×3/transformação ×4/708/ÍNDICE ×22; vol. ×4; 22 seguidores) · IV.21.1 (legenda ×1 — 253+335 "O critério e a escolha"; vol. unânime; 24 seguidores).
+8. **Seções tocadas:** V1.03.02 11→12 · V1.03.04 5→6 · V1.03.01 10→11 · V3.12.01 19→20 · V5.22.01 31→32 · V4.21.01 25→26. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 8 spans «» de primeira, 0 falhas — sem nenhuma correção nos spans (1 correção de legenda/volume fora dos spans, antes do commit).
+10. **Statuses:** um ⚪ candidato (506, pelo cadastro/ÍNDICE — a ficha diz 🟡) + cinco 🟡 provisório — fim da sequência ⚪ (19 lotes). **Classificações coincidem em 4/6** — fim da sequência 6/6 (5 lotes): divergem 506 (1.1×8.2) e 165 (2.5-fantasma×8.1). **Rótulos × títulos:** quase tudo ✓ — 766/612 prefixos · 027/098/227 sem ficha · resto exato.
+
+**Próximos (12º anel, grau 0 — 9 restantes):** por ordem decrescente — `RC-120`, `RC-089`, `RC-062`, `RC-046`, `RC-031`, `RC-021` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 105). Restarão `RC-018` + `RC-017` para o Lote 106, o fecho do anel.
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

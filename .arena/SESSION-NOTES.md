@@ -2140,3 +2140,20 @@ Acumulado: **634 verbetes** · 8.519 verbatim · 8.010 códigos · **0 falhas** 
 6. **Seções:** V3.09.01 23→24 · V3.10.03 9→10 · V2.08.01 37→39 · V5.22.01 30→31 · V2.06.01 14→15. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 15 restantes):** por código decrescente — `RC-506`, `RC-305`, `RC-230`, `RC-228`, `RC-191`, `RC-165` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 104).
+
+## 11/09/2026 — Lote 104: 12º ANEL, GRAU 0 (6 verbetes, 3.180 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 104 como sugerido.»
+
+`RC-506` Ekatma (**I.3.2 — 12º da seção**, 509 p.; ficha 524) · `RC-305` Têmis (**III.12.1 — 20º da seção**, 461; 407) · `RC-230` Reflexos da Doença (**IV.21.1 — 26º da seção**, 530; 575) · `RC-228` Observação de Sileno (**V.22.1 — 32º da seção**, 579; 467) · `RC-191` Fofocas cósmicas (**I.3.4 — 6º da seção**, 533; 1235) · `RC-165` Karuna (**I.3.1 — 11º da seção**, 568; 540).
+
+Acumulado: **640 verbetes** · 8.527 verbatim · 8.130 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 138 de 147 · 9 restantes.**
+
+1. **Ambiente estável** (`c8a084a` = remoto; limpa). Fichas 524/407/575/467/1235/540 = 3.748 p.; materializações + TALM.
+2. **Pré-teste estrito:** 8 spans de primeira, **0 falhas** (640/8527/8130/0). 1 correção de legenda/volume no 230 antes do commit (rascunho com seção alheia, pega na conferência com o L101).
+3. **`RC-506` Ekatma:** Adão-Cadimão; DUPLA divergência (1.1×8.2, 🟡×⚪); segue cadastro; ⚪. **`RC-305` Têmis (menor, 461/407 p.):** juramentos; Motor Único P2017; 815 xará na seção; 027 sem ficha; 🟡. **`RC-230` Doença:** marcada-no-DNA/3%-ativado; P2012+P2025; 🟡. **`RC-228` Sileno (maior, 579 p.):** span longo Midas; V.22.1-32º; 227 sem ficha; 🟡. **`RC-191` Fofocas (maior ficha, 1235 p.):** circuito/não-perceber; quarentenas instit+bio; 098 sem ficha; 🟡. **`RC-165` Karuna:** caruna-construção; QUARENTENA CLÍNICA; 2.5-fantasma×8.1; hub 612; 🟡.
+4. **Classificações coincidem em 4/6** (fim da sequência 6/6, 5 lotes). Rótulos × títulos: quase tudo ✓ — 766/612 prefixos · 027/098/227 sem ficha.
+5. **Divergências (6):** I.3.2 (263; 008/263; 9) · I.3.4 (192; 4) · I.3.1 (618/691/706; 618/691; 7) · III.12.1 (049+078/145+582; 002/142+398; 12) · V.22.1 (Moros×3/transformação×4/708/355; 22) · IV.21.1 (253+335; vol unânime; 24).
+6. **Seções:** V1.03.02 11→12 · V1.03.04 5→6 · V1.03.01 10→11 · V3.12.01 19→20 · V5.22.01 31→32 · V4.21.01 25→26. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 1×⚪ + 5×🟡 (fim da sequência ⚪, 19 lotes).
+
+**Próximos (12º anel, grau 0 — 9 restantes):** por código decrescente — `RC-120`, `RC-089`, `RC-062`, `RC-046`, `RC-031`, `RC-021` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 105). Restarão `RC-018` + `RC-017` para o Lote 106, o fecho do anel.
