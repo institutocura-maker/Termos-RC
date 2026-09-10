@@ -402,7 +402,7 @@ TERMOS = [
     # ---- Novos termos de B021 (obra primária: Tempos Difíceis no Olimpo, 2022)
     ("RC-292", "Telos (de um deus)", TER_GRE[0], TER_GRE[1], "em análise", ['B021', 'P2024-09-29', 'P2023-05-21'], 'RC-293; RC-145; RC-297; RC-094', True),
     ("RC-293", "Timé (de um deus)", TER_GRE[0], TER_GRE[1], "em análise", ['B021', 'P2024-09-29', 'P2023-05-21'], 'RC-292; RC-145; RC-294; RC-094; RC-269; RC-736; RC-072', True),
-    ("RC-294", "Eon de Khaos (Universo de Caos)", LOK_REG[0], LOK_REG[1], "em análise", ['B021', 'P2026-07-30'], "RC-284; RC-106; RC-077; RC-038", True),
+    ("RC-294", "Eon de Khaos (Universo de Caos)", LOK_REG[0], LOK_REG[1], "verificado", ['B021', 'P2026-07-30'], "RC-284; RC-106; RC-077; RC-038", True),
     ("RC-295", "Drama do Fechamento dos Portais", EVE_CAT[0], EVE_CAT[1], "em análise", ['B021', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-09-29', 'P2023-12-03', "P2022-11-26", "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2021-04-10"], 'RC-296; RC-145; RC-070; RC-106; RC-694; RC-571', True),
     ("RC-296", "Pitonisas e Oráculos (Apolo/Delfos)", COS_ESP[0], COS_ESP[1], P, ["B021", 'P2024-04-13', 'P2023-05-21'], "RC-295; RC-145; RC-099", False),
     ("RC-297", "Era dos Humanos (Zeus e a)", EVE_ERA[0], EVE_ERA[1], "verificado", ["B021", 'P2025-11-29', 'B087', 'B088'], "RC-145; RC-300; RC-099; RC-094", True),
@@ -608,7 +608,7 @@ TERMOS = [
     ("RC-468", "Ein Sof (Prabrajna na Cabala)", TER_HEB[0], TER_HEB[1], P, ["B060"], "RC-152; RC-261; RC-264", False),
     ("RC-469", "Khorsis (Mundo dos Tronos)", LOK_MUN[0], LOK_MUN[1], P, ["B060"], "RC-061; RC-264", False),
     ("RC-470", "Midgard (Marte + Terra)", LOK_PLA[0], LOK_PLA[1], "verificado", ['B060', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2025-02-22'], 'RC-395; RC-107; RC-358; RC-730; RC-731; RC-471', True),
-    ("RC-471", "Bifrost (Portal interdimensional)", LOK_REG[0], LOK_REG[1], 'em análise', ['B060', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', "P2026-03-21"], 'RC-106; RC-107; RC-343; RC-730; RC-731; RC-395', True),
+    ("RC-471", "Bifrost (Portal interdimensional)", LOK_REG[0], LOK_REG[1], "verificado", ['B060', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', "P2026-03-21"], 'RC-106; RC-107; RC-343; RC-730; RC-731; RC-395', True),
     ("RC-472", "Tempérion (Archeon de Ereon; setor dos seres LM)", COS_DIM[0], COS_DIM[1], "verificado", ['B060', 'B061', 'P2021-12-04', 'P2024-05-04', 'P2024-11-30'], 'RC-061; RC-087; RC-454; RC-456; RC-473; RC-496; RC-498; RC-596; RC-607; RC-092; RC-608', True),
     ("RC-473", "Lempérion e Terpérion (setores da Espiritualidade Laboratorial)", COS_DIM[0], COS_DIM[1], C, [], "RC-061; RC-472", False),
     ("RC-474", "Arcontes (= Sophias e Indras; Conselho dos 70)", SER_COL[0], SER_COL[1], "em análise", ['B061', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2026-08-04', 'P2023-12-02', 'P2023-06-03', 'P2022-09-24', 'P2025-02-22', 'P2023-10-14', 'P2022-03-26', 'P2023-12-03', "P2022-05-07", "P2025-05-10", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-09-17", "P2025-12-14"], 'RC-004; RC-009; RC-145; RC-480; RC-579; RC-293; RC-494; RC-414; RC-769; RC-770; RC-768', True),
@@ -633,8 +633,8 @@ TERMOS = [
     ("RC-493", "Os 9 Val dos Corpos Perdidos", GEN_EXT[0], GEN_EXT[1], C, ["B061"], "RC-109; RC-127", False),
     ("RC-494", "Dinastia das Sophias", GEN_DIV[0], GEN_DIV[1], "em análise", ['B061', 'P2026-07-30; RC-474'], "RC-009; RC-474", True),
     ("RC-495", "Arabot-Ráquia (ambiente de Javé; = Araboth)", LOK_MUN[0], LOK_MUN[1], "em análise", ["B061"], "RC-001; RC-485", True),
-    ("RC-496", "Ereon (região dos cinco Archeons da Espiritualidade Laboratorial)", LOK_REG[0], LOK_REG[1], "em análise", ['B061', 'P2021-12-04', 'P2023-12-03'], "RC-061; RC-087; RC-472; RC-497; RC-498; RC-596; RC-597; RC-598; RC-599", True),
-    ("RC-497", "Impérial — erro histórico de STT (ver Perpérion RC-087)", LOK_REG[0], LOK_REG[1], "em análise", ['B061', 'P2021-12-04'], "RC-496; RC-087", True),
+    ("RC-496", "Ereon (região dos cinco Archeons da Espiritualidade Laboratorial)", LOK_REG[0], LOK_REG[1], "verificado", ['B061', 'P2021-12-04', 'P2023-12-03'], "RC-061; RC-087; RC-472; RC-497; RC-498; RC-596; RC-597; RC-598; RC-599", True),
+    ("RC-497", "Impérial — erro histórico de STT (ver Perpérion RC-087)", LOK_REG[0], LOK_REG[1], "verificado", ['B061', 'P2021-12-04'], "RC-496; RC-087", True),
     ("RC-498", "Tempérium — variação histórica de Tempérion (ver RC-472)", COS_DIM[0], COS_DIM[1], "verificado", ['B061', 'P2021-12-04'], "RC-496; RC-472; RC-061", True),
     ("RC-499", "Forno de Awaymaion (forno de Vishnu; origem de Olm)", LOK_MUN[0], LOK_MUN[1], "verificado", ["B061", "P2019-08-25", "P2021-05-15", "P2022-03-26", "P2022-05-07"], "RC-408; RC-092", True),
     ("RC-500", "Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499)", LOK_MUN[0], LOK_MUN[1], "em análise", ['B061', 'P2021-12-04', 'ART-2025-08-01', 'P2021-05-15'], "RC-499", True),
@@ -771,7 +771,7 @@ TERMOS = [
     ("RC-623", "Corpo Átmico", COS_DIM[0], COS_DIM[1], "verificado", ['P2026-07-30', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-04-14', 'P2025-06-14b', 'P2024-03-02', 'P2024-09-28'], 'RC-204; RC-624; RC-625; RC-013; RC-630; RC-704; RC-706; RC-282; RC-604', True),
     ("RC-624", "Corpo Búdico", COS_DIM[0], COS_DIM[1], "verificado", ['P2026-07-30', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-03-02'], 'RC-204; RC-623; RC-625; RC-606; RC-704; RC-706', True),
     ("RC-625", "Corpo Manásico / Corpo Mental", COS_DIM[0], COS_DIM[1], "em análise", ['P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2025-06-14b', 'P2024-03-02', 'P2023-12-02', 'P2023-12-03'], 'RC-204; RC-623; RC-624; RC-511; RC-517; RC-691; RC-704; RC-706', True),
-    ("RC-626", "Universo TÊNET", LOK_REG[0], LOK_REG[1], "em análise", ["P2026-07-30"], "RC-609; RC-627", True),
+    ("RC-626", "Universo TÊNET", LOK_REG[0], LOK_REG[1], "verificado", ["P2026-07-30"], "RC-609; RC-627", True),
     ("RC-627", "Enéade de Heliópolis", GEN_DIV[0], GEN_DIV[1], "em análise", ["P2026-07-30", 'P2023-12-02'], "RC-609; RC-626", True),
 
     # ---- P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa
