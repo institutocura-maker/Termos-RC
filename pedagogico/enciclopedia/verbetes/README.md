@@ -2563,6 +2563,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 123 restantes):** por ordem decrescente — `RC-914`, `RC-913`, `RC-912`, `RC-911`, `RC-910`, `RC-909` (a confirmar no despacho do Lote 86).
 
+### Lote 86 — 12º anel, grau 0 (6 verbetes, 2.786 palavras)
+
+**Despacho do Curador:** «Vamos seguir com o Lote 86 de acordo com a sugestão.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `db25cea` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Delírio Coletivo | IV.19.1 | `V4/V4.19.01-RC913-delirio-coletivo.md` | **496** | 119 p. |
+| O Bem Feito Apenas por Humanos | IV.19.3 | `V4/V4.19.03-RC910-o-bem-feito-apenas-por-humanos.md` | 479 | **131 p.** |
+| DNA com 2 Hélices Ligadas | IV.19.3 | `V4/V4.19.03-RC911-dna-com-2-helices-ligadas.md` | 460 | 118 p. |
+| Frodo e Sam | IV.19.3 | `V4/V4.19.03-RC914-frodo-e-sam.md` | 456 | 111 p. |
+| Deus Não Se Incomoda com o Sofrimento | IV.19.3 | `V4/V4.19.03-RC909-deus-nao-se-incomoda-com-o-sofrimento.md` | 451 | 107 p. |
+| Aparições Marianas | IV.19.3 | `V4/V4.19.03-RC912-aparicoes-marianas.md` | **444** | **101 p.** |
+
+**Medida final:** 444–496 palavras (média 464) · **19 verbatim byte a byte** · 39 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 30 de 147** (117 restantes; `RC-936` remissiva permanente). Estado: 532 verbetes · **8.300 verbatim · 5.649 códigos · 0 falhas**.
+
+**Achados do lote 86 (Delírio Humano ×6 — P2023-10-15):**
+
+1. **`RC-914` Frodo e Sam (IV.19.3 — 17º da seção):** ficha mínima — «Em nome do bem, senhor Frodo... extrema riqueza filosófica.»; 722/749 sem aresta; status 🟡 provisório.
+2. **`RC-913` Delírio Coletivo (IV.19.1 — 16º da seção):** ficha mínima — «O bom senso de um terrorista já não é humano...»; 722/749 sem aresta; status 🟡 provisório.
+3. **`RC-912` Aparições Marianas (IV.19.3 — 18º da seção; menor ficha do lote, 101 p.):** ficha mínima — «A participação de Maria... é zero.»; 722/749 sem aresta; status 🟡 provisório.
+4. **`RC-911` DNA com 2 Hélices Ligadas (IV.19.3 — 19º da seção):** ficha mínima — «teríamos que ter as 12 hélices ligadas... Isso é escravidão pura.»; 722/749 sem aresta; status 🟡 provisório.
+5. **`RC-910` O Bem Feito Apenas por Humanos (IV.19.3 — 20º da seção; maior ficha do lote, 131 p.):** ficha mínima — «não há nenhum bem registrado... por qualquer outro tipo de intervenção»; 722/749 sem aresta; status 🟡 provisório.
+6. **`RC-909` Deus Não Se Incomoda com o Sofrimento (IV.19.3 — 21º da seção):** ficha mínima — «A trágica pergunta...»; 722/749 sem aresta; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (2 subseções):** IV.19.3 (psiquismo ×2 — 573/637; 3+5+6+5 seguidores) · IV.19.1 (285; 529; psiquismo ×2; 613; 699; 517 cap-vol.; 7+2 seguidores).
+8. **Seções tocadas:** V4.19.03 16→21 (+5) · V4.19.01 15→16. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 19 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Divergência sistemática de subclasse (6/6 fichas):** "5.1 Epistemologia / Cognição" × cadastro "4.4 Fenômenos físicos / energéticos" — anotada, não harmonizada (idem Lotes 84 e 85).
+
+**Próximos (12º anel, grau 0 — 117 restantes):** por ordem decrescente — `RC-908`, `RC-907`, `RC-906`, `RC-905`, `RC-904`, `RC-903` (a confirmar no despacho do Lote 87).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

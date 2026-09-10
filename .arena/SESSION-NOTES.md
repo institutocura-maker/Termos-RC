@@ -1834,3 +1834,20 @@ Acumulado: **526 verbetes** · 8.281 verbatim · 5.516 códigos · **0 falhas** 
 6. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 123 restantes):** por código decrescente — `RC-914`, `RC-913`, `RC-912`, `RC-911`, `RC-910`, `RC-909` (a confirmar no despacho do Lote 86).
+
+## 10/09/2026 — Lote 86: 12º ANEL, GRAU 0 (6 verbetes, 2.786 palavras)
+
+**Despacho do Curador:** «Vamos seguir com o Lote 86 de acordo com a sugestão.»
+
+`RC-914` Frodo e Sam (**IV.19.3 — 17º da seção**, 456 p.; ficha 111) · `RC-913` Delírio Coletivo (**IV.19.1 — 16º da seção**, 496; 119) · `RC-912` Aparições Marianas (**IV.19.3 — 18º da seção**, 444; 101) · `RC-911` DNA com 2 Hélices Ligadas (**IV.19.3 — 19º da seção**, 460; 118) · `RC-910` O Bem Feito Apenas por Humanos (**IV.19.3 — 20º da seção**, 479; 131) · `RC-909` Deus Não Se Incomoda com o Sofrimento (**IV.19.3 — 21º da seção**, 451; 107).
+
+Acumulado: **532 verbetes** · 8.300 verbatim · 5.649 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 30 de 147 · 117 restantes.**
+
+1. **Ambiente estável** (`db25cea` = remoto; limpa). Fichas 111/119/101/118/131/107 = 687 p.; 12 pares sem-aresta (722/749 ×6 — todo o lote).
+2. **Pré-teste estrito:** 19 spans de primeira, **0 falhas** (532/8300/5649/0).
+3. **`RC-914` Frodo:** Sam/«Em nome do bem»; 🟡. **`RC-913` Delírio (IV.19.1):** bom senso corrompido; 🟡. **`RC-912` Marianas (menor, 101 p.):** participação zero; 🟡. **`RC-911` DNA:** 2 vs 12 hélices, escravidão; 🟡. **`RC-910` Bem (maior ficha, 131 p.):** cavalo/cachorro/mamífero; 🟡. **`RC-909` Deus:** trágica pergunta; 🟡.
+4. **Divergência sistemática 6/6 idem L84–L85:** "5.1 Epistemologia/Cognição" × cadastro "4.4" — segue ficha + anota. Rótulo "Dignidade" × cadastro (RC-722).
+5. **Divergências (2):** IV.19.3 (psiquismo ×2 — 573/637; seguidores 379/640/768 + 5 L84 + 6 L85 + 5 do lote) · IV.19.1 (285; 529; psiquismo ×2 — 548/713; 613; 699; 517 cap-vol.; 7 seguidores + 922 + 913).
+6. **Seções:** V4.19.03 16→21 (+5) · V4.19.01 15→16. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 117 restantes):** por código decrescente — `RC-908`, `RC-907`, `RC-906`, `RC-905`, `RC-904`, `RC-903` (a confirmar no despacho do Lote 87).
