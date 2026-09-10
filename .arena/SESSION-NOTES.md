@@ -2174,3 +2174,22 @@ Acumulado: **646 verbetes** · 8.534 verbatim · 8.194 códigos · **0 falhas** 
 6. **Seções:** V1.01.01 1→2 · V5.23.02 5→6 · V2.07.03 5→7 · V3.13.03 6→7 · V3.16.05 12→13. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 1×🟡 + 5×🟠 (estreia do 🟠 no anel).
 
 **Próximos (12º anel — 3 restantes):** o fecho — `RC-018` Alt´Lam Gron + `RC-017` Alt´Lam (ambos 🟠; `RC-936` remissiva permanente) (a confirmar no despacho do Lote 106, o fecho do 12º anel).
+
+## 11/09/2026 — Lote 106: 12º ANEL FECHADO (2 verbetes, 1.093 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 106 como sugerido.»
+
+`RC-018` Alt´Lam Gron (**V.23.2 — 7º da seção**, 625 p.; ficha 1618) · `RC-017` Alt´Lam (**II.7.3 — 8º da seção**, 468; 430).
+
+Acumulado: **648 verbetes** · 8.537 verbatim · 8.215 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 146 de 147 + 1 remissiva (936) — FECHADO.** Fila zerada.
+
+1. **Ambiente estável** (`f7b42eb` = remoto; limpa). Fichas 1618/430 = 2.048 p.; a nave e a base, P2017–P2023.
+2. **Pré-teste estrito:** 3 spans de primeira, **0 falhas** (648/8537/8215/0). Nenhuma correção pré-commit.
+3. **`RC-018` Gron (625/1618 p.):** visita-datada/oeste-da-Irlanda; ISOLAMENTO censo + F042 evento; tabela repete 017/089; "sem arquivo" desatualizado; 058 sem ficha; 🟠. **`RC-017` Atlan (468/430 p.):** base-Atla; Natal=anagrama; tudo ✓; 079 sem ficha; 🟠.
+4. **Classificações coincidem nas 2.** Rótulos × títulos: tudo ✓ · 058/079 sem ficha.
+5. **Divergências (2):** V.23.2 (771-hub; 5) · II.7.3 (589/470-hub trunc; legenda unânime; 5).
+6. **Seções:** V5.23.02 6→7 · V2.07.03 7→8. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 2×🟠.
+
+**12º ANEL FECHADO — lotes 82–106 (25 lotes): 146 verbetes + 1 remissiva · 78.733 palavras · 0 falhas em todos os lotes · Base intacta · 0 código criado.**
+
+**Próximos (13º anel, o fecho — 22 hubs):** RC-072 (g43) à frente, com 414/217/514/104/717/692/612/638/332/579/600/771/071/465/470/074/148/552/068/449/603, por centralidade (a confirmar no despacho do Lote 107).

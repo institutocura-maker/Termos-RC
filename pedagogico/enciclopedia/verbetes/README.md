@@ -3203,6 +3203,40 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 3 restantes):** o fecho — `RC-018` Alt´Lam Gron + `RC-017` Alt´Lam (ambos 🟠 em análise; o `RC-936` permanece como remissiva permanente) (a confirmar no despacho do Lote 106, o fecho do 12º anel).
 
+### Lote 106 — 12º anel, grau 0, FECHO (2 verbetes, 1.093 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 106 como sugerido.» — os dois previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `f7b42eb` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Alt´Lam Gron | V.23.2 | `V5/V5.23.02-RC018-alt-lam-gron.md` | **625** | **1.618 p.** |
+| Alt´Lam | II.7.3 | `V2/V2.07.03-RC017-alt-lam.md` | **468** | **430 p.** |
+
+**Medida final:** 468–625 palavras (média 547) · **3 verbatim byte a byte** · 20 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 146 de 147 + 1 remissiva — FECHADO.** Estado: 648 verbetes · **8.537 verbatim · 8.215 códigos · 0 falhas**.
+
+**Achados do lote 106 (o fecho — a nave e a base, P2017 a P2023, 017–018):**
+
+1. **`RC-018` Alt´Lam Gron (V.23.2 — 7º da seção; maior ficha do lote, 1.618 p.):** 2 spans — «...Sofia esteve aqui nos anos 2018, 19...» + «...fica a oeste da Irlanda.»; censo selado sem harmonizar (F041-L5 ISOLAMENTO); evento datado (F042 RATIFICADO); tabela com 017/089 repetidos; "sem arquivo" desatualizado para 017/062; 058 sem ficha; status 🟠 em análise.
+2. **`RC-017` Alt´Lam (II.7.3 — 8º da seção; menor ficha do lote, 430 p.):** 1 span — «...uma chamada base Atla.»; materialização Motor Único P2017-10-14; Natal = anagrama de Atlan; tudo ✓; 079 sem ficha; status 🟠 em análise.
+3. **Divergências anotadas, não harmonizadas (2 subseções):** V.23.2 (legenda ×1 + vol. ×1 — 771-hub; 5 seguidores) · II.7.3 (vol. truncado ×2 — 589/470-hub; legenda unânime; 5 seguidores).
+4. **Seções tocadas:** V5.23.02 6→7 · V2.07.03 7→8. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+5. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 3 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+6. **Statuses:** dois 🟠 em análise — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem nas 2.** **Rótulos × títulos:** tudo ✓ — 058/079 sem ficha.
+7. **Fila zerada:** nenhum grau-0 com ficha restante fora dos hubs e da remissiva `RC-936`. O 12º anel fecha em **146 verbetes + 1 remissiva**.
+
+### Fecho do 12º anel (grau 0) — lotes 82–106
+
+| | |
+|---|---|
+| Verbetes redigidos | **146** (24 lotes × 6 + o fecho × 2) + 1 remissiva permanente (`RC-936`) |
+| Palavras (`wc -w`) | **78.733** (lotes 82–105: 77.640 · lote 106: 1.093) |
+| Verbatim conferidos | do lote 82 ao 106, sempre 0 falhas por lote |
+| Base | intacta do início ao fim (946/650/1898) · 0 código criado em todo o anel |
+
+**O que fica em aberto, para despacho:** o **13º anel (o fecho)** — os 22 hubs com ficha (RC-072 g43 à frente, com RC-414, RC-217, RC-514, RC-104, RC-717, RC-692, RC-612, RC-638, RC-332, RC-579, RC-600, RC-771, RC-071, RC-465, RC-470, RC-074, RC-148, RC-552, RC-068, RC-449, RC-603), por centralidade. Aguarda decisão do Curador.
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
