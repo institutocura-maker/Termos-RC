@@ -2055,3 +2055,20 @@ Acumulado: **604 verbetes** · 8.466 verbatim · 7.327 códigos · **0 falhas** 
 6. **Seções:** V4.20.01 22→23 · V3.13.03 5→6 · V2.06.01 12→13 · V3.12.01 18→19 · V3.16.03 4→5 · V3.16.02 12→13. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 45 restantes):** por código decrescente — `RC-807`, `RC-806`, `RC-805`, `RC-804`, `RC-803`, `RC-802` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 99).
+
+## 11/09/2026 — Lote 99: 12º ANEL, GRAU 0 (6 verbetes, 3.632 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 99 como sugerido.»
+
+`RC-807` Padrão de Consciência (**IV.18.3 — 22º da seção**, 598 p.; ficha 569) · `RC-806` Desvio de Rota (**III.16.1 — 5º da seção**, 649; 710) · `RC-805` Espiritismo (**V.27.1 — 5º da seção**, 559; 532) · `RC-804` Versão Oficial (**IV.19.1 — 20º da seção**, 592; 517) · `RC-803` Budismo (**V.27.1 — 6º da seção**, 628; 564) · `RC-802` Cobaias (**II.6.1 — 14º da seção**, 606; 599).
+
+Acumulado: **610 verbetes** · 8.476 verbatim · 7.433 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 108 de 147 · 39 restantes.**
+
+1. **Ambiente estável** (`fcc3eb1` = remoto; limpa). Fichas 569/710/532/517/564/599 = 3.491 p.; 37 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 10 spans de primeira, **0 falhas** (610/8476/7433/0). Nenhuma correção pré-commit.
+3. **`RC-807` Padrão:** padrão X/deslacre; ⚪. **`RC-806` Desvio (maior ficha, 710 p.):** prenda/homoenses; 3 fontes; 270/271 sem ficha; ⚪. **`RC-805` Espiritismo:** verme no germe (núcleo do span de 803); QUARENTENA FORTE autocrítica; 105 ×3 sem ficha; ⚪. **`RC-804` Versão (menor, 517 p.):** revisadas-modificadas/beleza-pecado; hub 072 citado; 105 sem ficha; ⚪. **`RC-803` Budismo:** span longo contém o de 805; quarentena budista; 100/105 sem ficha; ⚪. **`RC-802` Cobaias:** final de genética/antídoto; quarentena conspiracionista; ⚪.
+4. **Classificações coincidem nas 6.** Rótulos × títulos: 100 Budismo×Seres Espirituais (sem ficha) · 101 Espiritismo×Shamb-Aha · 105 Religiões×Ulsh (sem ficha, ×3) · 149/270/271 reincidentes · 797/799/800/727/299/285/788/072 ✓/prefixos.
+5. **Divergências (5):** IV.18.3 (518/543/619/732/646; 729/748; 1+13) · III.16.1 (378/583; vol unânime; 1+1) · V.27.1 (vols 273/739; legenda unânime; 2+2) · IV.19.1 (285-erro-L78/529/548/613/699/713; 517; 1+11) · II.6.1 (094/152/525/561/641; 310/154; 1+5).
+6. **Seções:** V4.18.03 21→22 · V3.16.01 4→5 · V5.27.01 4→6 · V4.19.01 19→20 · V2.06.01 13→14. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 39 restantes):** por código decrescente — `RC-800`, `RC-799`, `RC-798`, `RC-797`, `RC-796`, `RC-795` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 100).

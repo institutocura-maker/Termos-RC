@@ -2979,6 +2979,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 45 restantes):** por ordem decrescente — `RC-807`, `RC-806`, `RC-805`, `RC-804`, `RC-803`, `RC-802` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 99).
 
+### Lote 99 — 12º anel, grau 0 (6 verbetes, 3.632 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 99 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `fcc3eb1` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Desvio de Rota de Pandora | III.16.1 | `V3/V3.16.01-RC806-desvio-de-rota-de-pandora.md` | **649** | **710 p.** |
+| Budismo como Exceção | V.27.1 | `V5/V5.27.01-RC803-budismo-como-excecao.md` | 628 | 564 p. |
+| Humanos como Cobaias | II.6.1 | `V2/V2.06.01-RC802-humanos-como-cobaias.md` | 606 | 599 p. |
+| Padrão de Consciência Genético | IV.18.3 | `V4/V4.18.03-RC807-padrao-de-consciencia-genetico.md` | 598 | 569 p. |
+| Versão Oficial dos Seguidores | IV.19.1 | `V4/V4.19.01-RC804-versao-oficial-seguidores.md` | 592 | **517 p.** |
+| Espiritismo Germe da Poluição | V.27.1 | `V5/V5.27.01-RC805-espiritismo-germe-poluicao.md` | **559** | 532 p. |
+
+**Medida final:** 559–649 palavras (média 605) · **10 verbatim byte a byte** · 85 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 108 de 147** (39 restantes; `RC-936` remissiva permanente). Estado: 610 verbetes · **8.476 verbatim · 7.433 códigos · 0 falhas**.
+
+**Achados do lote 99 (o bloco Pandora/avatares/religiões — P2017-05-14 + P2018-02-24, 802–807):**
+
+1. **`RC-807` Padrão de Consciência (IV.18.3 — 22º da seção):** 2 spans — «...padrão de consciência X...» + «...o deslacre veio de um ponto que onde ninguém esperava»; quarentena científica; status ⚪ candidato.
+2. **`RC-806` Desvio de Rota (III.16.1 — 5º da seção; maior ficha do lote, 710 p.):** 2 spans — «...prenda surpresa...» + «...apaixonou pelos homoenses...»; 3 fontes; 9 códigos; 270/271 sem ficha; status ⚪ candidato.
+3. **`RC-805` Espiritismo (V.27.1 — 5º da seção):** 1 span — «...o verme, no germe da poluição...» (núcleo do span do RC-803 — fonte partilhada anotada); QUARENTENA FORTE (autocrítica kardecista); 105 em 3 linhas, sem ficha; status ⚪ candidato.
+4. **`RC-804` Versão Oficial (IV.19.1 — 20º da seção; menor ficha do lote, 517 p.):** 2 spans — «...revisadas modificadas...» + «...transformou a beleza grega em pecado»; cita o hub RC-072; 105 sem ficha; status ⚪ candidato.
+5. **`RC-803` Budismo (V.27.1 — 6º da seção):** 1 span longo — «...Só sobrou budismo... quando jamais falou de Deus» (contém o span do RC-805); quarentena budista (tibetano/theravada/zen); 100/105 sem ficha; status ⚪ candidato.
+6. **`RC-802` Cobaias (II.6.1 — 14º da seção):** 2 spans — «...o final de genética da vida dos deuses» + «...o antídoto com dessa loucura...»; quarentena conspiracionista; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** IV.18.3 (legenda ×5 — 518/543/619/732/646; vol. ×2 — 729/748; 1+13 seguidores) · III.16.1 (legenda ×2 — 378/583; vol. unânime; 1+1 seguidores) · V.27.1 (vol. ×2 — 273/739 "Diálogos e tensões"; legenda unânime; 2+2 seguidores) · IV.19.1 (legenda ×6 + vol. ×1 — 285-erro-L78/529/548/613/699/713, 517; 1+11 seguidores) · II.6.1 (legenda ×5 — 094/152/525/561/641; vol. ×2 — 310/154; 1+5 seguidores).
+8. **Seções tocadas:** V4.18.03 21→22 · V3.16.01 4→5 · V5.27.01 4→6 (+2) · V4.19.01 19→20 · V2.06.01 13→14. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 10 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem nas 6** (raro no anel). **Rótulos × títulos:** 100 "Budismo"×"Seres Espirituais" (sem ficha) · 101 "Espiritismo"×"Shamb-Aha" · 105 "Religiões Impositivas"×"Ulsh" (sem ficha, ×3 fichas) · 149/270/271 (reincidentes) · 797/799/800/727/299/285/788/072 ✓ ou prefixos.
+
+**Próximos (12º anel, grau 0 — 39 restantes):** por ordem decrescente — `RC-800`, `RC-799`, `RC-798`, `RC-797`, `RC-796`, `RC-795` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 100).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
