@@ -2021,3 +2021,20 @@ Acumulado: **592 verbetes** · 8.443 verbatim · 7.081 códigos · **0 falhas** 
 6. **Seções:** V4.18.03 20→21 · V4.19.01 18→19 · V4.21.01 22→23 · V3.13.04 6→7 · V3.10.01 4→5 · V4.19.03 40→41. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 57 restantes):** por código decrescente — `RC-819`, `RC-818`, `RC-817`, `RC-816`, `RC-815`, `RC-814` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 97).
+
+## 10/09/2026 — Lote 97: 12º ANEL, GRAU 0 (6 verbetes, 4.135 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 97 como sugerido.»
+
+`RC-819` Prole sem Face (**IV.20.1 — 22º da seção**, 770 p.; ficha 740) · `RC-818` Patriarcado (**IV.21.1 — 24º da seção**, 654; 627) · `RC-817` Agar (**III.14.2 — 12º da seção**, 700; 690) · `RC-816` Pacto Aesir-Vanir (**III.16.1 — 4º da seção**, 653; 901) · `RC-815` Temis (**III.12.1 — 18º da seção**, 653; 629) · `RC-814` Eva (**III.14.2 — 13º da seção**, 705; 693).
+
+Acumulado: **598 verbetes** · 8.455 verbatim · 7.217 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 96 de 147 · 51 restantes.**
+
+1. **Ambiente estável** (`ced45eb` = remoto; limpa). Fichas 740/627/690/901/629/693 = 4.280 p.; 46 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 12 spans de primeira, **0 falhas** (598/8455/7217/0). Correção pré-commit: RC-814 contava 8 códigos, são 9.
+3. **`RC-819` Prole:** modificáveis/confusão Zeus-Pandora; 3.1×2.4 (ficha); 270/271 sem ficha; ⚪. **`RC-818` Patriarcado (menor ficha, 627 p.):** ferrando feminino/pé da vida; 4.2-social×2.6 (ficha); 105 sem ficha; ⚪. **`RC-817` Agar:** porrada/linhagem fraca; 1.6 nome diverso; (RC-302); ⚪. **`RC-816` Aesir-Vanir (maior, 901 p.):** tigela/melhor de todos; quarentena mitológica FORTE; hub 068 citado; 085 sem ficha; ⚪. **`RC-815` Temis:** Temes/professa-tênis; quarentena mitológica FORTE; 1.3×1.5 (ficha); 300/085 sem ficha; ⚪. **`RC-814` Eva:** alternativa homo/evolutiva; quarentena teológica FORTE; 1.6 nome diverso; (RC-302); ⚪.
+4. **Rótulos × títulos:** 149 Zeus×Mônada · 270 Prometeu×Patriarcas (sem ficha) · 271 Epimeteu×Pactos (sem ficha) · 308 Lilith×Adhytia · 302 Adão×Epimeteu-titã · 455 Agar×Pashvnaj · 085 Fria×Orbum (sem ficha) · 489 Odin×Enoque · 300 Têmis×Dissolução (sem ficha) · 105 Judaísmo×Ulsh (sem ficha) · 378 Kvasir×Rebelião Elétrons.
+5. **Divergências (5):** IV.20.1 (legenda ×10; vols 268/644; 2+7) · IV.21.1 (253/335; vol unânime; 1+20) · III.14.2 (legenda unânime; 437/490/659/684 sem volume no cabeçalho) · III.16.1 (378/583; vol unânime; 1) · III.12.1 (049/078/145/582; 002/142/398; 2+8).
+6. **Seções:** V4.20.01 21→22 · V4.21.01 23→24 · V3.14.02 11→13 · V3.16.01 3→4 · V3.12.01 17→18. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 51 restantes):** por código decrescente — `RC-813`, `RC-812`, `RC-811`, `RC-810`, `RC-809`, `RC-808` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 98).

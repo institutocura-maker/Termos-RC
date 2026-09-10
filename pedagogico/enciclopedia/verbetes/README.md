@@ -2915,6 +2915,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 57 restantes):** por ordem decrescente — `RC-819`, `RC-818`, `RC-817`, `RC-816`, `RC-815`, `RC-814` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 97).
 
+### Lote 97 — 12º anel, grau 0 (6 verbetes, 4.135 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 97 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `ced45eb` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Prole sem Face | IV.20.1 | `V4/V4.20.01-RC819-prole-sem-face.md` | **770** | 740 p. |
+| Eva 3ª Tentativa | III.14.2 | `V3/V3.14.02-RC814-eva-terceira-tentativa.md` | 705 | 693 p. |
+| Agar 2ª Tentativa | III.14.2 | `V3/V3.14.02-RC817-agar-segunda-tentativa.md` | 700 | 690 p. |
+| Patriarcado desde Pandora | IV.21.1 | `V4/V4.21.01-RC818-patriarcado-desde-pandora.md` | 654 | **627 p.** |
+| Pacto Aesir-Vanir | III.16.1 | `V3/V3.16.01-RC816-pacto-aesir-vanir.md` | **653** | **901 p.** |
+| Temis Mãe-de-Pandora | III.12.1 | `V3/V3.12.01-RC815-temis-mae-de-pandora.md` | **653** | 629 p. |
+
+**Medida final:** 653–770 palavras (média 689) · **12 verbatim byte a byte** · 99 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 96 de 147** (51 restantes; `RC-936` remissiva permanente). Estado: 598 verbetes · **8.455 verbatim · 7.217 códigos · 0 falhas**.
+
+**Achados do lote 97 (o bloco Pandora/fêmeas de Adão — P2019-04-14 + P2018-05-20, 814–819):**
+
+1. **`RC-819` Prole sem Face (IV.20.1 — 22º da seção):** 2 spans — «Eles são modificáveis...» + «...confusão entre Zeus e Pandora...»; quarentena acadêmica (≠ Dasein/vir-a-ser); class ficha 3.1 × cadastro 2.4; 270/271 sem ficha; status ⚪ candidato.
+2. **`RC-818` Patriarcado (IV.21.1 — 24º da seção; menor ficha do lote, 627 p.):** 2 spans — «...ferrando feminino...» + «...pé da vida com Pora [Pandora]...»; quarentena feminista (paralela, anterior a Javé); class ficha 4.2-social × cadastro 2.6; 105 sem ficha; status ⚪ candidato.
+3. **`RC-817` Agar (III.14.2 — 12º da seção):** 2 spans — «...iam pra porrada...» + «Adão é de uma linhagem mais fraca...»; quarentena bíblica; subclasse 1.6 com nome diverso; código entre parênteses "(RC-302 é Adão)"; status ⚪ candidato.
+4. **`RC-816` Pacto Aesir-Vanir (III.16.1 — 4º da seção; maior ficha do lote, 901 p.):** 2 spans — «Todos suspiram na famosa tigela...» + «...o melhor de todos nós»; QUARENTENA MITOLÓGICA FORTE (Kvasir = analogia, não princípio); cita o hub RC-068; 085 sem ficha; status ⚪ candidato.
+5. **`RC-815` Temis (III.12.1 — 18º da seção):** 2 spans — «...filho de Zeus e Temes...» + «...professa de Zeus e tênis»; QUARENTENA MITOLÓGICA FORTE (≠ Titã clássica); subclasse 1.3 × 1.5; 300/085 sem ficha; status ⚪ candidato.
+6. **`RC-814` Eva (III.14.2 — 13º da seção):** 2 spans — «...alternativa homo...» + «...racionalidade de Eva, ela foi evolutiva»; QUARENTENA TEOLÓGICA FORTE; subclasse 1.6 com nome diverso; 9 códigos (código entre parênteses idem 817); status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** IV.20.1 (legenda ×10 — 190/535/656/668/723 + 577/633/695/755 + 724; vol. ×2 — 268/644; 2+7 seguidores) · IV.21.1 (legenda ×2 — 253/335; vol. unânime; 1+20 seguidores) · III.14.2 (sem divergência de legenda; 4 arquivos sem volume no cabeçalho — 437/490/659/684) · III.16.1 (legenda ×2 — 378/583; vol. unânime; 1 seguidor) · III.12.1 (legenda ×4 — 049/078/145/582; vol. ×3 — 002/142/398; 2+8 seguidores).
+8. **Seções tocadas:** V4.20.01 21→22 · V4.21.01 23→24 · V3.14.02 11→13 (+2) · V3.16.01 3→4 · V3.12.01 17→18. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 12 spans «» de primeira, 0 falhas. Correção pré-commit: contagem de códigos no RC-814 (8→9).
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Rótulos × títulos (choques máximos):** 149 "Zeus"×"Mônada" · 270 "Prometeu"×"Linhagem dos Patriarcas" (sem ficha) · 271 "Epimeteu"×"Pactos do Criador" (sem ficha) · 308 "Lilith"×"Adhytia" · 302 "Adão"×"Epimeteu (titã)" · 455 "Agar"×"Pashvnaj" · 085 "Fria"×"Orbum" (sem ficha) · 489 "Odin"×"Enoque" · 300 "Têmis"×"Dissolução da Tríade" (sem ficha) · 105 "Judaísmo"×"Ulsh" (sem ficha) · 378 "Kvasir"×"A Rebelião dos Elétrons".
+
+**Próximos (12º anel, grau 0 — 51 restantes):** por ordem decrescente — `RC-813`, `RC-812`, `RC-811`, `RC-810`, `RC-809`, `RC-808` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 98).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
