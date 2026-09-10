@@ -1690,3 +1690,22 @@ Acumulado: **479 verbetes** · 8.019 verbatim · 4.743 códigos · **0 falhas** 
 8. **Seções:** V3.14.02 5→6 · V3.11.03 3→6 (+3) · V3.09.01 19→21 (+2). Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** seis 🟡 — consistentes ficha = cadastro = ÍNDICE.
 
 **Próximos (11º anel, grau 1 — 23 restantes):** por código decrescente — `RC-319`, `RC-307`, `RC-303`, `RC-292`, `RC-285`, `RC-281` (a confirmar no despacho do Lote 78).
+
+## 10/09/2026 — Lote 78: 11º ANEL, GRAU 1 (6 verbetes, 4.147 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 78 como sugerido.»
+
+`RC-319` Fator Dharma (**II.8.1 — 32º da seção**, 716 p.; ficha 768) · `RC-307` Hefesto (**III.12.1 — 13º da seção**, 769; 903) · `RC-303` Pirra (**III.12.1 — 14º da seção**, 835; 1.007) · `RC-292` Telos de um Deus (**I.3.3 — 2º da seção**, 707; 700) · `RC-285` Opção Inusitada de Pandora (humanização) (**IV.19.1 — 14º da seção**, 688; 959) · `RC-281` Agentes do Quarto Logos (**III.13.5 — 14º da seção**, 432; 267).
+
+Acumulado: **485 verbetes** · 8.064 verbatim · 4.845 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 42 de 59 · 17 restantes.**
+
+1. **Ambiente estável** (HEAD = remoto = `5c6f75b` na abertura; árvore limpa) — sem incidente de clone. Fichas lidas integralmente (768/903/1007/700/959/267 = 4.604 p.); arestas via `dados_termos.py`; 29 pares verificados (6 arestas do lote + 23 sem-aresta).
+2. **Pré-teste:** 45 spans «» byte a byte nos 6 arquivos (9+7+6+10+8+5); **5 falhas → 0** — RC-319 retas × curvas U+201C/U+201D ("escondam"/"dharma"); RC-292 continuação fundida com paráfrase (truncada na citação exata); RC-307/285 ponto final dentro × fora do negrito; RC-303 falso positivo de marcação (pré-teste ingênuo × `**` da ficha — refinado para desmarcar os dois lados); lote limpo no verificador (485 verbetes · 8.064 verbatim · 4.845 códigos · 0 falhas · Base intacta).
+3. **`RC-319` Fator Dharma (II.8.1):** B023 caps 2+9; painel/revistas; demodhármica; karma=não-cumprimento; tríade varma/dma (F038-L2 ENCERRADO — grafia oral); trimurte apodrecida (D-10, anterioridade 19m); Bonder externa; sem fusão B024; aresta é-um RC-322 (B023); RC-320/104/075/321/328/094 sem aresta; seres 104/320/049/099; 🟡. **`RC-307` Hefesto (III.12.1):** ciclo B087 O-2; genoma/transição; RETIRADA Afrodite; dupla função; subversão do mito; artefato+vigilância B088; O-7; O-3; aresta cria RC-086 (B021); RC-145/285 sem aresta; seres 145/086/Atena; 🟠.
+4. **`RC-303` Pirra (III.12.1 — maior ficha do lote, 1.007 p.):** ciclo B087 O-2; círculo de luz; missão; decisão soberana (B088); guardiã; melhor protótipo (B089); Enlil; transmutação sem poções; adversidade; conciliação futura (mito × RC-298); O-7; O-3; B088/B089 O-6; aresta parte-de RC-298 (B021); RC-302/086/304 sem aresta; RC-304 sem ficha; seres 086/302/301+macho; 🟡.
+5. **`RC-292` Telos de um Deus (I.3.3):** B060; inevitabilidade; conserto; Rei do Olimpo; destino imposto (Javé degradado × RC-346); timé×telos; Moiras RC-611/467; Morus×Moros ENCERRADO (F038-L2, 31×3); quarentena clínica; Kardec externa; tikun canônica; O-3; aresta relaciona-se-a RC-293 (B021); RC-145/297/294/094 sem aresta; seres 145/049; 🟡.
+6. **`RC-285` Opção Inusitada (IV.19.1):** B086/B087+B088/B089 O-6; presente; Templo/Laboratório; transferência de fase; 1ª mulher racional; deslacre (U0005); travas (anterioridade 19m); B031 secundária; composição RC-242/118; aresta rompe RC-184 (B020); RC-184 sem ficha; RC-086/283/118/242 sem aresta; seres 086/Hefesto/145/289; 🟡. **`RC-281` Agentes 4º Logos (III.13.5 — menor ficha do lote, 267 p.):** âncora F045 (Apêndice D); fonte única B014; [REVISAR]; codificador; Escola RC-256; aresta é-um RC-092 (B014); RC-252/256/071 sem aresta; RC-256 sem ficha; 🟡.
+7. **Divergências de legenda anotadas, não harmonizadas (3):** II.8.1 (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; 7 sem-vol — 9 seguidores) · III.12.1 (decaídos ×2; olimpianos-decaídos ×2; 3 com outro vol — 5 seguidores + 2 do lote) · I.3.3 (RC-293 seres/hierarquias × ÍNDICE — 2º arquivo).
+8. **Seções:** V2.08.01 31→32 · V3.12.01 12→14 (+2) · V1.03.03 1→2 · V4.19.01 13→14 · V3.13.05 13→14. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** cinco 🟡 + um 🟠 (RC-307) — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 17 restantes):** por código decrescente — `RC-257`, `RC-239`, `RC-238`, `RC-200`, `RC-193`, `RC-179` (a confirmar no despacho do Lote 79).

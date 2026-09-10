@@ -2307,6 +2307,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 23 restantes):** por ordem decrescente — `RC-319`, `RC-307`, `RC-303`, `RC-292`, `RC-285`, `RC-281` (a confirmar no despacho do Lote 78).
 
+### Lote 78 — 11º anel, grau 1 (6 verbetes, 4.147 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 78 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `5c6f75b` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Pirra | III.12.1 | `V3/V3.12.01-RC303-pirra.md` | **835** | **1.007 p.** |
+| Hefesto | III.12.1 | `V3/V3.12.01-RC307-hefesto.md` | 769 | 903 p. |
+| Fator Dharma | II.8.1 | `V2/V2.08.01-RC319-fator-dharma.md` | 716 | 768 p. |
+| Telos de um Deus | I.3.3 | `V1/V1.03.03-RC292-telos-de-um-deus.md` | 707 | 700 p. |
+| Opção Inusitada de Pandora (humanização) | IV.19.1 | `V4/V4.19.01-RC285-opcao-inusitada-de-pandora-humanizacao.md` | 688 | 959 p. |
+| Agentes do Quarto Logos | III.13.5 | `V3/V3.13.05-RC281-agentes-do-quarto-logos.md` | **432** | **267 p.** |
+
+**Medida final:** 432–835 palavras (média 691) · **45 verbatim byte a byte** · 78 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 42 de 59** (17 restantes). Estado: 485 verbetes · **8.064 verbatim · 4.845 códigos · 0 falhas**.
+
+**Achados do lote 78 (dharma, olimpianos, telos, humanização):**
+
+1. **`RC-319` Fator Dharma (II.8.1 — 32º da seção):** B023 integral (caps. 2 e 9) — «talvez poucas expressões da atual linguagem humana “escondam” […] tantos mistérios como é o caso de “dharma”»; «painel mental» / «essas precisavam ser revistas»; «demodhármica»; karma = «não cumprimento do dharma»; tríade varma/dma (F038-L2 **ENCERRADO**, grafia oral); «A trimurte apodreceu, os filhos da Trimurte brigam entre eles.» (D-10, anterioridade 19m); Bonder externa; sem materializar RC-322/075; sem fusão B024; aresta: `RC-319` é-um `RC-322` (B023); `RC-320`/`RC-104`/`RC-075`/`RC-321`/`RC-328`/`RC-094` sem aresta; status 🟡 provisório.
+2. **`RC-307` Hefesto (III.12.1 — 13º da seção):** ciclo B087 O-2 — «O genoma de Pandora foi aberto por Efestos, deixando ela ser o que quisesse.»; «quem decidiria isso seria eu e não Zeus»; «Zeus, com a ajuda de Hefesto, fez essa 'caixa' recheada com 'magias'»; «**Zeus mandou dois dos seus mais fiéis filhos impedirem que Prometeu e Hefesto tenham contato**»; **RETIRADA** «o filho de Afrodite» (não está no bruto); dupla função (executor + benfeitor); subversão do mito (Chalita cria × B087 encerra+protege); artefato B088; O-7 med+ufo; O-3; B088 O-6; aresta: `RC-307` cria `RC-086` (B021); `RC-145`/`RC-285` sem aresta; status 🟠 em análise.
+3. **`RC-303` Pirra (III.12.1 — 14º da seção; maior ficha do lote, 1.007 p.):** ciclo B087 O-2 — «O seu nome é Pirra, que significa aquela cheia de sabedoria, de justiça e amor...»; «Quem sou eu? Por que me criaram?»; «**quero que a minha porção titânide permaneça no meu corpo...**»; «**Somos parceiras de ideal!**...»; «**Pirra era o melhor resultado alcançado até então...**»; «**para dar um salto em direção ao desconhecido.**»; círculo de luz; guardiã; Enlil; transmutação sem poções; **conciliação futura** (mito × RC-298 primária); O-7; O-3; B088/B089 O-6; aresta: `RC-303` parte-de `RC-298` (B021); `RC-302`/`RC-086`/`RC-304` sem aresta; RC-304 sem ficha; status 🟡 provisório.
+4. **`RC-292` Telos de um Deus (I.3.3 — 2º da seção):** B060 — «propósito ou finalidade de existir»; «finalidade da inevitabilidade»; «Dramático é, portanto, o telos de cada um de nós!»; «conserto»; «Para o 'Rei do Olimpo' tem sido inacreditável... a missão inglória...»; «**O QUE É O TELOS? É O DESTINO IMPOSTO PELA PODRIDÃO DE JAVÉ [NA] OBRA DELE...**» (Javé degradado × RC-346); timé × telos; Moiras (RC-611/467); **Morus×Moros ENCERRADO** (F038-L2, impresso 31×3); **quarentena clínica** (depressão fora); Kardec externa; tikun canônica; O-3; aresta: `RC-292` relaciona-se-a `RC-293` (B021); `RC-145`/`RC-297`/`RC-294`/`RC-094` sem aresta; status 🟡 provisório.
+5.. **`RC-285` Opção Inusitada de Pandora (IV.19.1 — 14º da seção):** B086/B087 + B088/B089 O-6 — «Foi quando decidi humanizar-me de vez...»; «**Eu era, de facto, um novo ser!**»; «**deixaria que eu decidisse... e quem decidiria isso seria eu e não Zeus**»; «**fez uma transferência de fase e tornou-se um protótipo de uma nova espécie...**»; primeira mulher humana racional; deslacre complementar (U0005); «travas genéticas de controle que eles haviam colocado.» (anterioridade 19m); B031 secundária; composição RC-242/RC-118; aresta: `RC-285` rompe `RC-184` (B020); `RC-184` sem ficha; `RC-086`/`RC-283`/`RC-118`/`RC-242` sem aresta; status 🟡 provisório.
+6. **`RC-281` Agentes do Quarto Logos (III.13.5 — 14º da seção; menor ficha do lote, 267 p.):** **âncora F045** (Apêndice D); fonte única B014; [REVISAR]; «estratégia esclarecedora» / «codificador»; Escola RC-256; aresta: `RC-281` é-um `RC-092` (B014); `RC-252`/`RC-256`/`RC-071` sem aresta; RC-256 sem ficha; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (3 subseções):** II.8.1 (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; 7 sem vol. — 9 seguidores) · III.12.1 (decaídos ×2; olimpianos-decaídos ×2; 3 com outro vol. — 5 seguidores + 2 do lote) · I.3.3 (RC-293 seres/hierarquias × ÍNDICE — 2º arquivo da seção).
+8. **Seções tocadas:** V2.08.01 31→32 · V3.12.01 12→14 (+2) · V1.03.03 1→2 · V4.19.01 13→14 · V3.13.05 13→14. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 5 → 0 (RC-319: retas × curvas U+201C/U+201D "escondam"/"dharma"; RC-292: continuação fundida com paráfrase, truncada na citação exata; RC-307/285: ponto final dentro × fora do negrito; RC-303: falso positivo de marcação do pré-teste — corrigidas antes do verificador).
+10. **Statuses:** cinco 🟡 provisório + um 🟠 em análise (RC-307) — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 17 restantes):** por ordem decrescente — `RC-257`, `RC-239`, `RC-238`, `RC-200`, `RC-193`, `RC-179` (a confirmar no despacho do Lote 79).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
