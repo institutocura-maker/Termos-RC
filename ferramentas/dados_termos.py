@@ -179,7 +179,7 @@ TERMOS = [
     ("RC-095", "Rogério de Almeida Freitas", SER_HUM[0], SER_HUM[1], P, ["B031"], "RC-071; RC-094", False),
     ("RC-096", "Septuaginta", TEC_ESC[0], TEC_ESC[1], 'em análise', ['B031', 'P2026-08-04', "P2025-05-10", "P2023-12-25-04"], 'RC-082; RC-106', True),
     ("RC-097", "Seres Extrafísicos", SER_DEC[0], SER_DEC[1], P, ["B031", "P2020-04-04"], "RC-049; RC-019; RC-024; RC-106; RC-031", False),
-    ("RC-098", "Seres Extraterrenos / Extraterrestres", SER_EXT[0], SER_EXT[1], "em análise", ["B031", "B044", "B005", "B042"], "RC-036; RC-064; RC-009; RC-078; RC-024", True),
+    ("RC-098", "Seres Extraterrenos / Extraterrestres", SER_EXT[0], SER_EXT[1], "verificado", ["B031", "B044", "B005", "B042"], "RC-036; RC-064; RC-009; RC-078; RC-024", True),
     ("RC-099", "Seres Terrenos (Homo Sapiens)", SER_HUM[0], SER_HUM[1], "em análise", ['B031', 'B039', 'B023', 'B048', 'B003', 'B026', 'B005', 'B049', 'B041', 'B006', 'B050', 'B034', 'B036', 'B040', 'B052', 'B061', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-042; RC-056; RC-107; RC-578', True),
     ("RC-100", "Seres Espirituais", SER_LOG[0], SER_LOG[1], P, ['B031', 'B024', 'B006', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09'], 'RC-059; RC-060; RC-084; RC-012; RC-054', False),
     ("RC-101", "Shamb-Aha", LOK_MUN[0], LOK_MUN[1], 'em análise', ["B031", "B017", "B018", "B039", "P2018-12-15"], "RC-127; RC-026; RC-142; RC-074; RC-133; RC-499", True),
@@ -328,7 +328,7 @@ TERMOS = [
     ("RC-231", "Razão Filosófica dos Terráqueos", COS_PRO[0], COS_PRO[1], "em análise", ['B033', 'B005', 'B049', 'P2025-03-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', "P2012-02-19"], 'RC-099; RC-001; RC-094; RC-566; RC-514', True),
 
     # ---- Novos termos da TRILOGIA TERRA ATLANTIS (B017 Livro 1, B018 Livro 2, B039 Livro 3)
-    ("RC-232", "Ostronomos", SER_EXT[0], SER_EXT[1], 'em análise', ["B017", "B018", "B060", "P2021-05-15"], "RC-098; RC-024; RC-036; RC-126; RC-128; RC-129", True),
+    ("RC-232", "Ostronomos", SER_EXT[0], SER_EXT[1], "verificado", ["B017", "B018", "B060", "P2021-05-15"], "RC-098; RC-024; RC-036; RC-126; RC-128; RC-129", True),
     ("RC-233", "Marca Val (A Estratégia do Possível)", PRO_BIO[0], PRO_BIO[1], P, ["B017"], "RC-109; RC-082; RC-186; RC-036", False),
     ("RC-234", "Cidades Voadoras", TEC_NAV[0], TEC_NAV[1], P, ["B018"], "RC-058; RC-018; RC-065", False),
     ("RC-235", "Teurgistas", TER_GRE[0], TER_GRE[1], P, ["B039"], "RC-097; RC-145; RC-049", False),
@@ -719,15 +719,15 @@ TERMOS = [
     ("RC-577", "Xamanismo Cósmico (comunicação e deslacre)", COS_ESP[0], COS_ESP[1], "verificado", ['P2022-12-17', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2026-08-04', 'P2024-09-28', 'P2024-08-03'], 'RC-563; RC-448; RC-400; RC-525; RC-644; RC-664; RC-687; RC-697', True),
     ("RC-578", "Fim do Experimento Humano", EVE_PRO[0], EVE_PRO[1], "verificado", ["P2022-12-17", 'P2026-08-04'], "RC-099; RC-337; RC-544; RC-314; RC-572", True),
     ("RC-579", "Noreia (Norea)", SER_HUM[0], SER_HUM[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2023-12-03', "P2022-09-17"], 'RC-474; RC-424; RC-189; RC-490; RC-594; RC-727; RC-770', True),
-    ("RC-580", "Igigi", SER_EXT[0], SER_EXT[1], "em análise", ["P2022-12-17", 'P2024-04-13', 'P2023-12-02; RC-673; RC-024; RC-488', 'P2023-10-14'], "RC-024; RC-516; RC-488; RC-583", True),
+    ("RC-580", "Igigi", SER_EXT[0], SER_EXT[1], "verificado", ["P2022-12-17", 'P2024-04-13', 'P2023-12-02; RC-673; RC-024; RC-488', 'P2023-10-14'], "RC-024; RC-516; RC-488; RC-583", True),
     ("RC-581", "Rakshasas", SER_DEC[0], SER_DEC[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30', 'P2022-07-16'], 'RC-106; RC-104; RC-522; RC-523; RC-582; RC-700; RC-688; RC-322; RC-102; RC-414; RC-872', True),  # [F045-MERGE 10-09-2026] absorveu RC-872 ("Rakchasas (estirpe dos sugadores de sangue)", variante transliterada com lastro P2022-07-16): fontes e referencias unificadas aqui. Remissiva em RC-872.
     ("RC-582", "Ravana", SER_DEC[0], SER_DEC[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-09-09', 'P2023-04-30', "P2021-02-28", "P2022-09-17"], 'RC-581; RC-584; RC-593; RC-414', True),
     ("RC-583", "Guerra Nuclear Anunnaki (Sete Armas Atômicas)", EVE_GUE[0], EVE_GUE[1], "verificado", ["P2022-12-17", 'P2023-05-20', 'P2021-05-15', 'P2023-10-14'], "RC-486; RC-487; RC-460; RC-587; RC-588; RC-589", True),
-    ("RC-584", "Rama (avatar de Vishnu)", SER_EXT[0], SER_EXT[1], "em análise", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30', "P2022-05-07"], 'RC-135; RC-582; RC-593', True),
+    ("RC-584", "Rama (avatar de Vishnu)", SER_EXT[0], SER_EXT[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30', "P2022-05-07"], 'RC-135; RC-582; RC-593', True),
     ("RC-585", "Vyasa", SER_HUM[0], SER_HUM[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2023-06-25', 'P2021-05-15', 'P2022-03-26', "P2024-06-16"], 'RC-436; RC-586; RC-593; RC-454; RC-718; RC-414; RC-556; RC-072', True),
     ("RC-586", "Rishis", SER_HUM[0], SER_HUM[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-09-28', "P2024-06-16"], 'RC-585; RC-593; RC-321; RC-322; RC-696; RC-700; RC-734', True),
-    ("RC-587", "Anu (patriarca Anunnaki)", SER_EXT[0], SER_EXT[1], "em análise", ["P2022-12-17", 'P2023-12-02', 'B089', 'P2021-05-15', 'P2023-10-14'], "RC-024; RC-486; RC-487; RC-583", True),
-    ("RC-588", "Ninurta", SER_EXT[0], SER_EXT[1], "em análise", ["P2022-12-17", 'P2021-03-27', 'P2023-10-14'], "RC-024; RC-487; RC-583; RC-587", True),
+    ("RC-587", "Anu (patriarca Anunnaki)", SER_EXT[0], SER_EXT[1], "verificado", ["P2022-12-17", 'P2023-12-02', 'B089', 'P2021-05-15', 'P2023-10-14'], "RC-024; RC-486; RC-487; RC-583", True),
+    ("RC-588", "Ninurta", SER_EXT[0], SER_EXT[1], "verificado", ["P2022-12-17", 'P2021-03-27', 'P2023-10-14'], "RC-024; RC-487; RC-583; RC-587", True),
     ("RC-589", "Nibiru", LOK_PLA[0], LOK_PLA[1], "em análise", ["P2022-12-17", 'P2023-12-02', 'P2021-03-27', 'B089', 'P2021-05-15', 'P2023-10-14'], "RC-024; RC-583; RC-460; RC-588", True),
     ("RC-590", "Yima", SER_HUM[0], SER_HUM[1], "verificado", ["P2022-12-17"], "RC-595; RC-567; RC-568", True),
     ("RC-591", "Profecia Hopi da Estrela Azul", EVE_PRO[0], EVE_PRO[1], "verificado", ["P2022-12-17"], "RC-571; RC-536; RC-405", True),
@@ -789,7 +789,7 @@ TERMOS = [
     ("RC-639", "Protozoários Antimateriais / Antiprotozoários", PRO_BIO[0], PRO_BIO[1], "verificado", ["P2024-05-04", "P2022-03-26"], "RC-106; RC-162; RC-638; RC-640", True),
     ("RC-640", "Transições de Fase / Face da Criação", PRO_FIS[0], PRO_FIS[1], "verificado", ["P2024-05-04", "P2022-03-26"], "RC-638; RC-639; RC-641", True),
     ("RC-641", "Face Microbiana do Criador", COS_COG[0], COS_COG[1], "verificado", ['P2024-05-04', 'B064', 'P2024-11-30', 'P2022-03-26'], 'RC-638; RC-639; RC-640; RC-526', True),
-    ("RC-642", "Narasimha (avatar de Vishnu)", SER_EXT[0], SER_EXT[1], "em análise", ["P2024-05-04", "P2022-03-26", "P2022-05-07"], "RC-135; RC-102; RC-414", True),
+    ("RC-642", "Narasimha (avatar de Vishnu)", SER_EXT[0], SER_EXT[1], "verificado", ["P2024-05-04", "P2022-03-26", "P2022-05-07"], "RC-135; RC-102; RC-414", True),
 
     # ---- P2026-04-02 — 3ª Edição Estagiários do Kaos
     ("RC-643", "Santo Graal (Frequência Mestre)", COS_LEI[0], COS_LEI[1], "verificado", ['P2026-04-02', 'P2025-03-15'], 'RC-217; RC-619; RC-514; RC-644; RC-646', True),
