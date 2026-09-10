@@ -2072,3 +2072,20 @@ Acumulado: **610 verbetes** · 8.476 verbatim · 7.433 códigos · **0 falhas** 
 6. **Seções:** V4.18.03 21→22 · V3.16.01 4→5 · V5.27.01 4→6 · V4.19.01 19→20 · V2.06.01 13→14. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 39 restantes):** por código decrescente — `RC-800`, `RC-799`, `RC-798`, `RC-797`, `RC-796`, `RC-795` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 100).
+
+## 11/09/2026 — Lote 100: 12º ANEL, GRAU 0 (6 verbetes, 3.764 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 100 como sugerido.»
+
+`RC-800` Jesus Último Avatar (**III.11.3 — 10º da seção**, 631 p.; ficha 640) · `RC-799` Pandora Oposição (**II.8.1 — 36º da seção**, 703; 571) · `RC-798` Mudança das Trevas (**III.16.1 — 6º da seção**, 597; 551) · `RC-797` Estratégia dos Avatares (**III.11.3 — 11º da seção**, 639; 595) · `RC-796` Judaísmo Destruidor (**V.27.1 — 7º da seção**, 600; 638) · `RC-795` Nyx (**III.15.1 — 7º da seção**, 594; 631).
+
+Acumulado: **616 verbetes** · 8.487 verbatim · 7.546 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 114 de 147 · 33 restantes.**
+
+1. **Ambiente estável** (`5bd276f` = remoto; limpa). Fichas 640/571/551/595/638/631 = 3.626 p.; 41 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 11 spans de primeira, **0 falhas** (616/8487/7546/0). Nenhuma correção pré-commit.
+3. **`RC-800` Jesus (maior ficha, 640 p.):** não matar/cobaias; quarentena teológica FORTE; hub 072 na seção; ⚪. **`RC-799` Oposição:** encabrestar/Panovor; II.8.1 gigante (36º); 105 sem ficha; ⚪. **`RC-798` Trevas (menor, 551 p.):** espalharam/semente; Krishna×Shiva; ⚪. **`RC-797` Estratégia:** vítimas-agentes/instrumentos; quarentena crítica FORTE; 9 códigos; 105 sem ficha; ⚪. **`RC-796` Judaísmo:** Lilif/detestam Pandora; quarentena crítica FORTE; 105/270 sem ficha; ⚪. **`RC-795` Nyx:** Y Luzb/semente; F039-L3; 330 sem ficha; ⚪.
+4. **Classificações coincidem nas 6 (2º lote seguido).** Rótulos × títulos: 102 Krishna×Shiva (×2) · 330 Nyx×Saraswati (sem ficha) · 105 ×Ulsh (sem ficha, ×3) · 270 (sem ficha) · resto ✓/prefixos.
+5. **Divergências (5):** III.11.3 (005/072-hub; vol unânime; 2+7) · II.8.1 (Wyrd ×7/códigos ×5/658; 382/570/657; sem-vol ×7; 12) · III.16.1 (378/583; vol unânime; 2+1) · V.27.1 (273/739; legenda unânime; 1+4) · III.15.1 (610/664/696/701; vol unânime; 2).
+6. **Seções:** V3.11.03 9→11 · V2.08.01 35→36 · V3.16.01 5→6 · V5.27.01 6→7 · V3.15.01 6→7. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 33 restantes):** por código decrescente — `RC-794`, `RC-793`, `RC-792`, `RC-791`, `RC-790`, `RC-789` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 101).

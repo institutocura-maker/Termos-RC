@@ -3011,6 +3011,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 39 restantes):** por ordem decrescente — `RC-800`, `RC-799`, `RC-798`, `RC-797`, `RC-796`, `RC-795` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 100).
 
+### Lote 100 — 12º anel, grau 0 (6 verbetes, 3.764 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 100 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `5bd276f` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Pandora como Oposição | II.8.1 | `V2/V2.08.01-RC799-pandora-oposicao-avatares.md` | **703** | 571 p. |
+| Estratégia dos Avatares | III.11.3 | `V3/V3.11.03-RC797-estrategia-dos-avatares.md` | 639 | 595 p. |
+| Jesus como Último Avatar | III.11.3 | `V3/V3.11.03-RC800-jesus-ultimo-avatar.md` | 631 | **640 p.** |
+| Judaísmo Destruidor do Mito | V.27.1 | `V5/V5.27.01-RC796-judaismo-destruidor-mito.md` | 600 | 638 p. |
+| Mudança de Estratégia das Trevas | III.16.1 | `V3/V3.16.01-RC798-mudanca-estrategia-trevas.md` | 597 | **551 p.** |
+| Nyx Mãe de Origem | III.15.1 | `V3/V3.15.01-RC795-nyx-mae-de-origem.md` | **594** | 631 p. |
+
+**Medida final:** 594–703 palavras (média 627) · **11 verbatim byte a byte** · 84 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 114 de 147** (33 restantes; `RC-936` remissiva permanente). Estado: 616 verbetes · **8.487 verbatim · 7.546 códigos · 0 falhas**.
+
+**Achados do lote 100 (o bloco Estratégia dos Avatares — P2018-02-24 + P2025-04-06, 795–800):**
+
+1. **`RC-800` Jesus Último Avatar (III.11.3 — 10º da seção; maior ficha do lote, 640 p.):** 2 spans — «...resolveu não matar ninguém...» + «...cobaias que receberam o final de genética...»; QUARENTENA TEOLÓGICA FORTE; cita o hub RC-072 (publicado na seção); status ⚪ candidato.
+2. **`RC-799` Pandora Oposição (II.8.1 — 36º da seção):** 2 spans — «...encabrestar...» + «Panovor bate e bate duro...»; seção gigante, maior divergência do anel (legenda ×13, vol. ×3, sem-volume ×7); hub 072 citado; 105 sem ficha; status ⚪ candidato.
+3. **`RC-798` Mudança das Trevas (III.16.1 — 6º da seção; menor ficha do lote, 551 p.):** 2 spans — «...espalharam mal por todos os corações...» + «...teria que destruir toda a humanidade»; quarentena conspiracionista; "Krishna"×"Shiva (Savna)"; status ⚪ candidato.
+4. **`RC-797` Estratégia dos Avatares (III.11.3 — 11º da seção):** 2 spans — «...vítimas que terminaram se tornando agentes...» + «...instrumentos de dominação...»; QUARENTENA CRÍTICA FORTE; 9 códigos; 105 sem ficha; status ⚪ candidato.
+5. **`RC-796` Judaísmo Destruidor (V.27.1 — 7º da seção):** 2 spans — «...tirar o mito de Lilif...» + «...detestam Pandora, ou melhor dizendo, Eva»; QUARENTENA CRÍTICA FORTE (antissemitismo); 105/270 sem ficha; status ⚪ candidato.
+6. **`RC-795` Nyx (III.15.1 — 7º da seção):** 1 span — «...plantada a semente de Pandora de Y Luzb...»; selo F039-L3 (STT & Áudio); quarentena mitológica; "Nyx"×"Civilização Saraswati" sem ficha; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** III.11.3 (legenda ×2 — 005/072-hub; vol. unânime; 2+7 seguidores) · II.8.1 (legenda ×13 — Wyrd ×7/códigos ×5/658; vol. ×3 — 382/570/657; sem-volume ×7; 12 seguidores) · III.16.1 (legenda ×2 — 378/583; vol. unânime; 2+1 seguidores) · V.27.1 (vol. ×2 — 273/739; legenda unânime; 1+4 seguidores) · III.15.1 (legenda ×4 — 610/664/696/701; vol. unânime; 2 seguidores).
+8. **Seções tocadas:** V3.11.03 9→11 (+2) · V2.08.01 35→36 · V3.16.01 5→6 · V5.27.01 6→7 · V3.15.01 6→7. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 11 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem nas 6** (2º lote seguido). **Rótulos × títulos:** 102 "Krishna"×"Shiva (Savna)" (×2) · 330 "Nyx"×"Saraswati" (sem ficha) · 105 "Religiões Impositivas"×"Ulsh" (sem ficha, ×3) · 270 (sem ficha) · 308/072/797/798/799/800/801/802/803/086/099/189/786/787/335/454/092/142/009 ✓ ou prefixos.
+
+**Próximos (12º anel, grau 0 — 33 restantes):** por ordem decrescente — `RC-794`, `RC-793`, `RC-792`, `RC-791`, `RC-790`, `RC-789` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 101).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
