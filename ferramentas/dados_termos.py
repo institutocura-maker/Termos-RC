@@ -93,7 +93,7 @@ TERMOS = [
 
     # ---- Glossário B031 (ordem alfabética)
     ("RC-011", "Adhy", SER_LOG[0], SER_LOG[1], P, ['B031', 'B022', 'B051', 'P2021-12-04', 'P2024-11-30'], 'RC-012; RC-013; RC-014; RC-054', False),
-    ("RC-012", "Adhyagia", SER_LOG[0], SER_LOG[1], P, ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-013; RC-047; RC-059', False),
+    ("RC-012", "Adhyagia", SER_LOG[0], SER_LOG[1], P, ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-013; RC-047; RC-059', True),
     ("RC-013", "Adhyatman", SER_LOG[0], SER_LOG[1], P, ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-012; RC-014; RC-087', True),
     ("RC-014", "Adhydaiva", TER_SAN[0], TER_SAN[1], P, ['B031', 'B044', 'B016', 'B022', 'B051', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-11-30'], 'RC-013; RC-015; RC-016; RC-037; RC-102; RC-135; RC-630', False),
     ("RC-015", "Adhybutha", TER_SAN[0], TER_SAN[1], P, ['B031', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-014; RC-016; RC-049', False),
@@ -119,7 +119,7 @@ TERMOS = [
     ("RC-035", "Bilatérios", SER_HIB[0], SER_HIB[1], 'em análise', ['B031', 'P2019-08-25', 'P2024-05-04', 'P2025-02-16', 'P2024-04-13', 'P2021-05-15', 'P2020-04-25', 'P2023-12-03', "P2022-05-07"], 'RC-093; RC-036; RC-631', True),
     ("RC-036", "Biodemos", SER_EXT[0], SER_EXT[1], 'verificado', ['B031', 'B044', 'B001', 'B017', 'B018', 'B039', 'B023', 'B050', 'B057', 'B058', 'P2024-05-04', 'P2024-04-13', 'P2020-08-08', 'P2021-03-13', 'P2021-09-04', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03', "P2021-01-30", "P2017-10-14", "P2023-08-27", "P2022-10-01", "P2022-09-25"], "RC-109; RC-136; RC-049; RC-098", True),
     ("RC-037", "Brahma (Brajna)", SER_DIV[0], SER_DIV[1], 'verificado', ['B031', 'B024', 'B044', 'B001', 'B033', 'B013', 'B020', 'B022', 'B060', 'B061', 'B037', 'P2022-12-17', 'P2026-07-30', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', 'P2024-08-03', 'P2024-07-14', 'P2025-11-29', 'P2023-06-24', 'P2023-04-15', 'P2023-04-29', 'P2021-09-04', 'P2022-09-24', 'P2024-11-03', 'P2025-02-22', 'P2023-10-14', "P2022-05-07", "P2024-06-16", "P2012-02-19", "P2022-12-03", "P2022-09-18", "P2022-07-16", "P2021-02-28", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01"], 'RC-041; RC-001; RC-052; RC-104; RC-135; RC-102; RC-696; RC-700; RC-701; RC-261; RC-604; RC-265', True),
-    ("RC-038", "Brahmaloka", TER_SAN[0], TER_SAN[1], P, ['B031', 'B016', 'B013', 'B021', 'B023', 'P2025-03-15'], 'RC-106; RC-077; RC-066; RC-049; RC-041', False),
+    ("RC-038", "Brahmaloka", TER_SAN[0], TER_SAN[1], P, ['B031', 'B016', 'B013', 'B021', 'B023', 'P2025-03-15'], 'RC-106; RC-077; RC-066; RC-049; RC-041', True),
     ("RC-039", "Capela (Sistema)", LOK_PLA[0], LOK_PLA[1], 'em análise', ["B031", "B003", "B025", "B057", "B058", 'P2023-04-01', "P2023-12-03"], "RC-085; RC-046; RC-109; RC-146; RC-002; RC-007", True),
     ("RC-040", "CFD (Código Fonte Definidor)", COS_LEI[0], COS_LEI[1], 'em análise', ['B031', 'B024', 'B002', 'B033', 'B021', 'B041', 'B040', 'B019', 'P2022-12-17', 'P2021-12-04', 'P2024-05-04', 'P2024-08-03', 'P2023-12-03', "P2026-03-21"], 'RC-041; RC-104; RC-081; RC-091; RC-742', True),
     ("RC-041", "Criador (Brahma/Javé/Demiurgo)", SER_DIV[0], SER_DIV[1], 'em análise', ['B031', 'B044', 'B035', 'B001', 'B002', 'B033', 'B015', 'B016', 'B013', 'B020', 'B048', 'B041', 'B034', 'B036', 'B017', 'B018', 'B039', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-09-29', "P2023-12-25-01"], 'RC-037; RC-052; RC-047; RC-048; RC-001', True),
@@ -507,7 +507,7 @@ TERMOS = [
     ("RC-382", "A Vida do CFD de Javé no Ser Humano", COS_LEI[0], COS_LEI[1], P, ['B041', 'B034', 'P2024-09-29'], 'RC-040; RC-099; RC-332; RC-094', True),
     ("RC-383", "Roteiro do Absurdo Implantado na Criação", COS_PRO[0], COS_PRO[1], P, ["B041"], "RC-167; RC-378; RC-094; RC-041", False),
     ("RC-384", "Proposta de um Humano Terrestre aos Elétrons", COS_ETI[0], COS_ETI[1], P, ["B041"], "RC-378; RC-071; RC-332; RC-094", False),
-    ("RC-385", "Egrégora (circuito dos elétrons rebeldes)", COS_ESP[0], COS_ESP[1], P, ['B041', 'B074', 'B075', 'P2026-07-30', 'P2025-03-15', 'P2023-06-24', 'P2021-05-08'], 'RC-378; RC-384; RC-094; RC-475', False),
+    ("RC-385", "Egrégora (circuito dos elétrons rebeldes)", COS_ESP[0], COS_ESP[1], P, ['B041', 'B074', 'B075', 'P2026-07-30', 'P2025-03-15', 'P2023-06-24', 'P2021-05-08'], 'RC-378; RC-384; RC-094; RC-475', True),
     ("RC-386", "Memórias para Javé", COS_LEI[0], COS_LEI[1], P, ['B041', 'P2024-09-29'], 'RC-161; RC-378; RC-041; RC-094', False),
     ("RC-387", "Fragmentação do Poder Mental da Divindade", COS_COG[0], COS_COG[1], P, ['B041', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2020-07-04', 'P2023-12-03'], 'RC-041; RC-167; RC-152; RC-094; RC-638', False),
 
@@ -573,7 +573,7 @@ TERMOS = [
     ("RC-433", "Força de Atração Sexual (anterior à polaridade)", COS_LEI[0], COS_LEI[1], P, ['B052', 'P2024-11-30', 'P2024-09-29', 'P2024-08-03'], 'RC-049; RC-099; RC-094', True),
     ("RC-434", "Homoafetividade (resquício da força original)", COS_PRO[0], COS_PRO[1], P, ['B052', 'P2025-03-15', 'P2024-11-30', 'P2024-03-03'], 'RC-433; RC-099; RC-094; RC-378', True),
     ("RC-435", "O Segredo Perdido do Éden", COS_PRO[0], COS_PRO[1], P, ["B052", 'P2024-03-03'], "RC-242; RC-433; RC-094", False),
-    ("RC-436", "Heber (patriarca pós-dilúvio)", SER_HUM[0], SER_HUM[1], P, ['B052', 'B060', 'P2022-12-17', 'P2025-10-25', 'P2024-11-30'], 'RC-270; RC-094; RC-437; RC-585', False),
+    ("RC-436", "Heber (patriarca pós-dilúvio)", SER_HUM[0], SER_HUM[1], P, ['B052', 'B060', 'P2022-12-17', 'P2025-10-25', 'P2024-11-30'], 'RC-270; RC-094; RC-437; RC-585', True),
     ("RC-437", "Joctan e Faleg (filhos de Heber)", SER_HUM[0], SER_HUM[1], P, ['B052', 'P2022-12-17', 'P2025-10-25', 'P2024-11-30', 'P2021-03-27'], 'RC-436; RC-270; RC-094; RC-424', True),
     ("RC-438", "Tubal (filho de Jafé, centro de comércio)", SER_HUM[0], SER_HUM[1], P, ['B052', 'P2024-11-30'], 'RC-270; RC-094', False),
     ("RC-439", "Os Magos do Norte", SER_HUM[0], SER_HUM[1], P, ["B052"], "RC-094; RC-068; RC-403", False),

@@ -22,7 +22,7 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 
 - **[B041 p. 40]** “O Deus Amantíssimo nunca criaria algo tão absurdo e medonho”; o risco é confundir o Pai-Mãe com “um Criador bem-intencionado e genial — Prajapati, que se reconstituiu como Javé (ou Brahma) ao ‘cair’ na própria Obra”. “Deus é alguém totalmente *top*, o que não é o caso de Javé.”
 - **[B041 p. 40]** Prajapati foi “sugado” pela própria Criação — “não há separação entre Divindades Criadoras e as Criações delas”. Em nenhum outro universo o Criador foi sugado pela Obra.
-- **[B041 p. 156–157]** para Javé, a rebelião dos elétrons = “rendição psíquica” e “oportunidade de salvação do que resta da sua consciência”. A Trimurti e a egrégora-corpo “se desfizeram”; nova egrégora, Javé “feito um bebê”, “mais consciente”. RC-385 permanece **sem ficha**. Sem fusão com B001 / B024 / B048.
+- **[B041 p. 156–157]** para Javé, a rebelião dos elétrons = “rendição psíquica” e “oportunidade de salvação do que resta da sua consciência”. A Trimurti e a egrégora-corpo “se desfizeram”; nova egrégora, Javé “feito um bebê”, “mais consciente”. Sem fusão com B001 / B024 / B048.
 
 
 ## Ampliação — B034 (Cartas a Javé)

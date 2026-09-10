@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 655 fichas · 1898 relações
+- **Base de referência:** 946 termos · 659 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -49,19 +49,19 @@
 
 | Vol. | Título | Seções | Verbetes (fichas) |
 |---|---|---|---|
-| **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 33 |
+| **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 34 |
 | **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
-| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 266 |
-| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 159 |
+| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 268 |
+| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 160 |
 | **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 76 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **655** |
+| | **TOTAL** | 37 | **659** |
 
 ---
 
 # VOLUME I — FUNDAMENTOS — o território e as regras do jogo
 
-*Verbetes ancorados neste volume: **33***
+*Verbetes ancorados neste volume: **34***
 
 ## I.1 — A Obra e o Autor: corpus, gênero e método
 
@@ -112,11 +112,12 @@
 
 *A RC tem léxico próprio e empréstimos do sânscrito, do hebraico e do grego; sem isso, nada se lê.*
 
-**Verbetes:** 31
+**Verbetes:** 32
 
 ### I.3.1 — Sânscrito e hinduísmo
 
 - **Bhavaṅga / Janela da Percepção** — `RC-706` ⚪ · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 2 fonte(s)
+- **Brahmaloka** — `RC-038` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 6 fonte(s)
 - **Dharma e Castas (origem demo)** — `RC-322` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 9 fonte(s)
 - **Gunas Criadoras (Sattva, Rajas, Tamas)** — `RC-151` 🟡 · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 7 fonte(s)
 - **Ishvara (Isuara — Retrato de Prabrajna Antes da Queda)** — `RC-691` ⚪ · Termos Específicos › 8.1 Sânscrito / Hinduísmo · 4 fonte(s)
@@ -391,7 +392,7 @@
 
 # VOLUME III — ATORES E ACONTECIMENTOS — o quem e o quando
 
-*Verbetes ancorados neste volume: **266***
+*Verbetes ancorados neste volume: **268***
 
 ## III.9 — O Criador e a sua condição
 
@@ -589,7 +590,7 @@
 
 *A população da criação: raças, anjos, coletivos, logoi e híbridos.*
 
-**Verbetes:** 57
+**Verbetes:** 58
 
 ### III.13.1 — Coletivos criadores
 
@@ -646,6 +647,7 @@
 
 ### III.13.5 — Consciências coletivas e Logos
 
+- **Adhyagia** — `RC-012` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 7 fonte(s)
 - **Adhyagya (formas espirituais Adhy)** — `RC-311` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
 - **Adhyatman** — `RC-013` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 7 fonte(s)
 - **Adhytia (nível hierárquico)** — `RC-308` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
@@ -667,7 +669,7 @@
 
 *As figuras humanas que a leitura de Ellam reinterpreta.*
 
-**Verbetes:** 36
+**Verbetes:** 37
 
 ### III.14.1 — Profetas, mensageiros e enviados
 
@@ -711,6 +713,7 @@
 > Subseção de depósito das figuras humanas: recebe o que não é enviado (III.14.1), bíblico (III.14.2) nem coletivo (III.14.3).
 
 - **Alexandre Magno (tirano sob influência de Lemion)** — `RC-850` ⚪ · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 2 fonte(s)
+- **Heber (patriarca pós-dilúvio)** — `RC-436` 🟡 · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 5 fonte(s)
 - **Hitler (figura histórica no RC)** — `RC-239` 🟡 · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 2 fonte(s)
 - **Kris Amon (Krysamon NEAD)** — `RC-934` 🟡 · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 0 fonte(s)
 - **Maria Orsic (médium da Sociedade Vril)** — `RC-846` ⚪ · Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) · 1 fonte(s)
@@ -826,7 +829,7 @@
 
 # VOLUME IV — A HUMANIDADE E O OPERADOR — o nós
 
-*Verbetes ancorados neste volume: **159***
+*Verbetes ancorados neste volume: **160***
 
 ## IV.17 — Antropogênese
 
@@ -989,7 +992,7 @@
 
 *A doutrina e a prática do dia a dia do operador.*
 
-**Verbetes:** 24
+**Verbetes:** 25
 
 ### IV.20.1 — Espiritualidade e doutrina
 
@@ -998,6 +1001,7 @@
 - **Atualização das Revelações Anteriores** — `RC-656` ⚪ · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 2 fonte(s)
 - **Ciência Pessoal / Doutrina da Própria Personalidade** — `RC-695` ⚪ · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 7 fonte(s)
 - **Culto a Lilith (Transformação em Deusa Lil Babilônica)** — `RC-813` ⚪ · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 3 fonte(s)
+- **Egrégora (circuito dos elétrons rebeldes)** — `RC-385` 🟡 · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 7 fonte(s)
 - **Escola da Decifração da Realidade (Método Druídico)** — `RC-755` ⚪ · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 9 fonte(s)
 - **Formas-Pensamento e Formas-Sentimento** — `RC-724` ⚪ · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 3 fonte(s)
 - **Gestão da Sensação Pessoal** — `RC-633` ⚪ · Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina · 9 fonte(s)
@@ -1382,7 +1386,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (655 verbetes)
+## Apêndice A — Índice alfabético remissivo (659 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1399,6 +1403,7 @@
 | Abismo da Consciência Cósmica | `RC-721` | V.22.1 | ⚪ |
 | Abismo da Providência / Falsa Providência | `RC-723` | IV.20.1 | ⚪ |
 | Abraço aos Fantasmas / Integridade sem Combate | `RC-735` | IV.21.1 | ⚪ |
+| Adhyagia | `RC-012` | III.13.5 | 🟡 |
 | Adhyagya (formas espirituais Adhy) | `RC-311` | III.13.5 | 🟡 |
 | Adhyatman | `RC-013` | III.13.5 | 🟡 |
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | `RC-408` | III.10.3 | 🟠 |
@@ -1475,6 +1480,7 @@
 | Bolhas Psíquicas | `RC-899` | IV.19.1 | 🟡 |
 | Bondade Humana | `RC-895` | IV.21.1 | 🟡 |
 | Brahma (Brajna) | `RC-037` | III.9.1 | 🟢 |
+| Brahmaloka | `RC-038` | I.3.1 | 🟡 |
 | Budismo como Exceção (Sem Deus) | `RC-803` | V.27.1 | ⚪ |
 | Buraco Negro Mental / Consciencial | `RC-717` | III.9.2 | ⚪ |
 | Caim (leitura RC: segundo a nascer) | `RC-490` | III.14.2 | ⚪ |
@@ -1568,6 +1574,7 @@
 | Druidas Celtas (contexto RC) | `RC-375` | III.14.3 | 🟡 |
 | Duas Pulsações da Criação (elétrons e antielétrons) | `RC-636` | II.8.2 | ⚪ |
 | Éden do Criador (Éden como laboratório) | `RC-242` | IV.17.4 | 🟡 |
+| Egrégora (circuito dos elétrons rebeldes) | `RC-385` | IV.20.1 | 🟡 |
 | Egrégora de Lilith / Noreia (Loop Mental Vivo) | `RC-787` | IV.19.1 | ⚪ |
 | Egrégora e Campo Quântico | `RC-922` | IV.19.1 | 🟡 |
 | Ekatma (Adam Kadmon — Homem Primordial) | `RC-506` | I.3.2 | ⚪ |
@@ -1682,6 +1689,7 @@
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | `RC-583` | III.16.1 | ⚪ |
 | Gunas Criadoras (Sattva, Rajas, Tamas) | `RC-151` | I.3.1 | 🟡 |
 | Hara (avatar de Shiva) | `RC-413` | III.10.5 | 🟡 |
+| Heber (patriarca pós-dilúvio) | `RC-436` | III.14.4 | 🟡 |
 | Hefesto | `RC-307` | III.12.1 | 🟠 |
 | Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | `RC-463` | III.14.1 | 🟠 |
 | Hibridização genética (Nefilim reinterpretado) | `RC-516` | IV.18.3 | ⚪ |
@@ -2102,7 +2110,7 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
 
-## Apêndice C — Termos sem ficha (291 códigos)
+## Apêndice C — Termos sem ficha (287 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2120,7 +2128,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-440` | A Sina dos Portadores | Eventos & Eras › 7.3 Profecias / Anúncios | 🟡 |
 | `RC-515` | Acidente cosmogônico (queda de Prabrajna) | Conceitos Cosmológicos › 2.1 Cosmogonia / Criação | ⚪ |
 | `RC-011` | Adhy | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
-| `RC-012` | Adhyagia | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-016` | Adhyajna | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-015` | Adhybutha | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-014` | Adhydaiva | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
@@ -2158,7 +2165,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-197` | Big Data da Terra | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
 | `RC-879` | Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | ⚪ |
 | `RC-510` | Blindagem cósmica (= quarentena terrestre) | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | ⚪ |
-| `RC-038` | Brahmaloka | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-377` | Brendiver e Dolman (personagens celtas) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-886` | Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | Processos & Fenômenos › 4.4 Fenômenos físicos / energéticos | ⚪ |
 | `RC-877` | Carga virótica (a materialização da primeira carga mental do criador) | Processos & Fenômenos › 4.1 Processos biológicos / genéticos | ⚪ |
@@ -2200,7 +2206,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-178` | Dois Grandes Favos | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | 🟡 |
 | `RC-254` | Dominação (premissa dos Três Primeiros Logos) | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-399` | Dwarka (submersa) | Lokas & Geografias › 3.3 Localidades terrestres | 🟡 |
-| `RC-385` | Egrégora (circuito dos elétrons rebeldes) | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | 🟡 |
 | `RC-468` | Ein Sof (Prabrajna na Cabala) | Termos Específicos › 8.2 Hebraico / Cabala | 🟡 |
 | `RC-888` | Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | Seres & Entidades › 1.4 Anjos / Arcanjos / Querubins | ⚪ |
 | `RC-162` | Elétrons (agente básico da vida universal) | Processos & Fenômenos › 4.4 Fenômenos físicos / energéticos | 🟡 |
@@ -2251,7 +2256,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-006` | Guerra do Éden | Eventos & Eras › 7.1 Guerras / Rebeliões / Conflitos | 🟡 |
 | `RC-431` | Guerreiro ao Atleta (transição) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
 | `RC-402` | Halos de Poder (demos) | Tecnologias & Artefatos › 5.3 Dispositivos / Instrumentos | 🟡 |
-| `RC-436` | Heber (patriarca pós-dilúvio) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-519` | Herança Cósmica (padrões de existências anteriores) | Processos & Fenômenos › 4.1 Processos biológicos / genéticos | ⚪ |
 | `RC-507` | Holodomínio (esfera de influência extrafísica) | Conceitos Cosmológicos › 2.3 Dimensões / Planos de existência | ⚪ |
 | `RC-327` | Homo hierarchicus | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
@@ -2422,4 +2426,4 @@ entradas do meio da sequência.
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 655 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 659 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*

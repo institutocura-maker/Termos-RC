@@ -35,7 +35,7 @@ Termo-título da obra primária *A Epopeia dos Agentes da Vida Universal* (B024,
 - **[B024 p. 7]** a encomenda da Introdução: escrever a “Epopeia da Consciência Espiritual” por trás dos “Agentes” de um “Jogo” — o “Xadrez Cósmico” — executado por Divindades que tomam as espécies da vida universal como “equipes”. Sem fusão com B001 / B002.
 - **[B024 p. 55]** a epopeia “começou, portanto, a partir das diversas ‘moradas’ — ou *lokas*” do universo antimaterial (Brahmaloka). Blavatsky / *Estâncias de Dzyan* e Kardec (p. 55) = **referências externas**; RC-190 permanece **sem ficha**.
 - **[B024 p. 81]** há ~6 bilhões de anos o processo de criar seres vivos se redirecionou do antimaterial para o material: os “Agentes da Vida Universal” passaram a intensificá-lo no Bhuloka, com o “Projeto Talm”.
-- **[B024 p. 108–111]** divisão de competências da Trimurti sobre os agentes: Brahma doa o CFDP; Vishnu dá o “modelo consciencial”; Shiva organiza/destrói formas e semeia o conhecimento que liberta do *samsara*. A epopeia “começou quando o caos e o tormento se manifestaram nesta Criação” (p. 109). Cada agente é “peça importante e única” (p. 111). RC-012 / RC-013 / RC-019 / RC-100 permanecem **sem ficha**.
+- **[B024 p. 108–111]** divisão de competências da Trimurti sobre os agentes: Brahma doa o CFDP; Vishnu dá o “modelo consciencial”; Shiva organiza/destrói formas e semeia o conhecimento que liberta do *samsara*. A epopeia “começou quando o caos e o tormento se manifestaram nesta Criação” (p. 109). Cada agente é “peça importante e única” (p. 111). RC-100 permanece **sem ficha** (RC-012/013 materializadas P5/P5c; RC-019 já tem ficha).
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |

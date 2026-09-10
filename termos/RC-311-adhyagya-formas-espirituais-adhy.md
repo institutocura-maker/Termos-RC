@@ -15,7 +15,7 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 
 ## Etimologia / Grafias
 - **Grafia preferida:** Adhyagya
-- **Variações:** formas Adhyagya; espíritos Adhy (formas espirituais); grafia próxima de Adhyagia (RC-012) — verificar distinção
+- **Variações:** formas Adhyagya; espíritos Adhy (formas espirituais); distingue-se de Adhyagia (RC-012): condição × formas (P5c)
 - **Origem:** composto RC (Adhy + agya/agia)
 
 
@@ -23,7 +23,7 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 
 - **[B022 p. 4]** Introdução (voz de Ellam): «vi-me como que sonhando, tendo uma longa conversa com os espíritos — as suas formas **Adhyagya** — que respondem pelas formas trimurtianas (expressões Adhydaiva edificadas após o “mergulho” nesta Criação) de Vishnu e Shiva».
 - **[B022 p. 5]** as formas Adhyagya que respondem por Vishnu e Shiva «instruíram-me numa série de postulados»; as formas Adhyatman então conhecidas como **Adhyshmavatna** (Vishnu) e **Adhyshsavna** (Shiva) — nomes do paratexto, **sem código novo**.
-- **Quarentena mediúnica:** a «orientação que os espíritos… me levaram a fazer» (p. 6) não vira ontologia das entidades. Diálogo dos caps. 1–10 **isolado**. RC-012 **não** materializada. Sem fusão com B037. Fonte **B022** já constava na tabela-mestra.
+- **Quarentena mediúnica:** a «orientação que os espíritos… me levaram a fazer» (p. 6) não vira ontologia das entidades. Diálogo dos caps. 1–10 **isolado**. RC-012 materializada P5c (a partir de B024/B031/B016, não deste capítulo). Sem fusão com B037. Fonte **B022** já constava na tabela-mestra.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -36,7 +36,7 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Adhyagia | RC-012 | aproximação (verificar) |
+| Adhyagia | RC-012 | distingue-se (condição × formas; 311 é-um 012) |
 | Adhyatman | RC-013 | relaciona-se-a |
 | Adhydaiva | RC-014 | responde-por |
 | Vishnu | RC-135 | responde-por |
@@ -47,7 +47,7 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 Vishnu (RC-135); Shiva (RC-102); gênero Adhy (RC-011).
 
 ## Observações
-Ficha baseada em B022 (obra primária). Adhyagya ≈ a forma espiritual/consciência dos Adhy que sustenta as expressões Adhydaiva da Trimurti. Verificar a relação exata com Adhyagia (RC-012) na revisão — podem ser a mesma condição com grafias diferentes.
+Ficha baseada em B022 (obra primária). Adhyagya ≈ a forma espiritual/consciência dos Adhy que sustenta as expressões Adhydaiva da Trimurti. Relação com Adhyagia (RC-012) resolvida P5c: condição × formas, sem fusão (311 é-um 012 no registro).
 
 ## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
 - **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Bhavanga (verbete)»: as partes despedaçadas do Criador como base do jogo bhavanga — eco doutrinário do Adhyagya no glossário do parceiro.

@@ -40,7 +40,7 @@ A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensõe
   - Assiah — “Universo da Ação”, “Mundo da Matéria” = Bhuloka, “o nosso universo físico biológico.”
 - **[B013 p. 71]** “Assiah corresponde ao universo no qual vivemos e ‘Yetzirah’, ao universo vizinho, onde se encontra ‘refém’ o Criador ‘caído’.” Briah: “de onde o Criador se ‘desgraçou’”; Yetzirah e Assiah “se ‘infectaram’.”
 - **[B013 p. 107]** o “exílio forçado” de Kether, com Chokmah e Binah, gerou “infecção vibratória” que separou Atziluth/Briah de Yetzirah/Assiah; “natural blindagem” impede que o Paraíso se contamine.
-- RC-038 / RC-059 / RC-060 / RC-061 permanecem **sem ficha**. Sem código novo para os quatro Olam.
+- RC-038 materializada P5c (a nota original incluía RC-059/060/061, que já têm ficha — ver verbete). Sem código novo para os quatro Olam.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
