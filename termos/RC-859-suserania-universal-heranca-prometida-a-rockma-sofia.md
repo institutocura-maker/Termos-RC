@@ -24,6 +24,7 @@ Com isso:
 **Origem do conteúdo da ampliação:** palestra `P2022-11-26 — Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade` (26/11/2022). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
 ## Observações sobre o Estado da Malha
+- **Dúvida ABERTA (Curador, 10/09/2026, P7-2.5 — termo EXCLUÍDO da leva, fica 🟠):** título usa "Rockma/Sofia" — "Rockma" é forma VETADA (decisão canônica RC-565: *Hochmah, nunca Rockman/Rockma*); "Sofia" inconsistente com o despacho 784 (Sofia→Sophia). Variante "Suserano Celeste" EXISTE em fonte escrita: B014 ll. 3890/4411/5776 (Sophia como "Suserano Celeste", associada ao Quarto Logos; 13ª Constatação). Reparo pendente: retitular + incorporar B014.
 
 * **Materialização imediata (devolutiva):** RC-859 (Suserania Universal) sai da fila e ganha ficha (ficha=False → True) com as pérolas validadas neste ciclo.
 * **Trava aplicável**: nenhuma além das gerais do despacho.

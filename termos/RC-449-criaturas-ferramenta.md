@@ -10,7 +10,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.7 Híbridos / Seres de transição |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-09-07 |
 
 ## Definição Sintética

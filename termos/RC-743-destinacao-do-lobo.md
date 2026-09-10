@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.5 Propósitos / Destinos |
-| **Status** | 🟠 Em análise (candidatura aprovado para integração) |
+| **Status** | 🟢 Verificado (candidatura aprovado para integração) |
 | **Última atualização** | 2026-08-16 |
 
 ## Definição Sintética
