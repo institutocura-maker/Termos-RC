@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 652 fichas · 1898 relações
+- **Base de referência:** 946 termos · 655 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -51,11 +51,11 @@
 |---|---|---|---|
 | **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 33 |
 | **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
-| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 264 |
-| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 158 |
+| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 266 |
+| **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 159 |
 | **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 76 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **652** |
+| | **TOTAL** | 37 | **655** |
 
 ---
 
@@ -391,7 +391,7 @@
 
 # VOLUME III — ATORES E ACONTECIMENTOS — o quem e o quando
 
-*Verbetes ancorados neste volume: **264***
+*Verbetes ancorados neste volume: **266***
 
 ## III.9 — O Criador e a sua condição
 
@@ -589,7 +589,7 @@
 
 *A população da criação: raças, anjos, coletivos, logoi e híbridos.*
 
-**Verbetes:** 55
+**Verbetes:** 57
 
 ### III.13.1 — Coletivos criadores
 
@@ -620,6 +620,7 @@
 - **Ninurta** — `RC-588` ⚪ · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 3 fonte(s)
 - **Ostronomos** — `RC-232` 🟠 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 4 fonte(s)
 - **Rakshasas** — `RC-872` ⚪ · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 1 fonte(s)
+- **Seres Extraterrenos / Extraterrestres** — `RC-098` 🟡 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 4 fonte(s)
 - **Val Tam** — `RC-132` 🟠 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 1 fonte(s)
 
 ### III.13.3 — Anjos, arcanjos e querubins
@@ -646,6 +647,7 @@
 ### III.13.5 — Consciências coletivas e Logos
 
 - **Adhyagya (formas espirituais Adhy)** — `RC-311` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
+- **Adhyatman** — `RC-013` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 7 fonte(s)
 - **Adhytia (nível hierárquico)** — `RC-308` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
 - **Agentes do Quarto Logos** — `RC-281` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 1 fonte(s)
 - **Biocoletivos** — `RC-445` 🟡 · Seres & Entidades › 1.8 Consciências coletivas / Logos · 2 fonte(s)
@@ -824,7 +826,7 @@
 
 # VOLUME IV — A HUMANIDADE E O OPERADOR — o nós
 
-*Verbetes ancorados neste volume: **158***
+*Verbetes ancorados neste volume: **159***
 
 ## IV.17 — Antropogênese
 
@@ -1023,7 +1025,7 @@
 
 *A ética de um universo acidentado — e os conceitos que a RC inverte.*
 
-**Verbetes:** 27
+**Verbetes:** 28
 
 ### IV.21.1 — Ética, carma e compromissos
 
@@ -1056,6 +1058,7 @@
 
 ### IV.21.2 — O Favor Divino e as inversões de conceito
 
+- **Favor Divino** — `RC-063` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 9 fonte(s)
 - **Favor Divino (conceito invertido)** — `RC-332` 🟡 · Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos · 14 fonte(s)
 
 ---
@@ -1379,7 +1382,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (652 verbetes)
+## Apêndice A — Índice alfabético remissivo (655 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1397,6 +1400,7 @@
 | Abismo da Providência / Falsa Providência | `RC-723` | IV.20.1 | ⚪ |
 | Abraço aos Fantasmas / Integridade sem Combate | `RC-735` | IV.21.1 | ⚪ |
 | Adhyagya (formas espirituais Adhy) | `RC-311` | III.13.5 | 🟡 |
+| Adhyatman | `RC-013` | III.13.5 | 🟡 |
 | ADHYMAVATANA (nome completo de Mavatna/Vishnu) | `RC-408` | III.10.3 | 🟠 |
 | ADHYPRABRAJNA (grafia do diagrama) | `RC-410` | II.6.1 | 🟡 |
 | ADHYSAVNA (nome completo de Savna/Shiva) | `RC-409` | III.10.4 | 🟠 |
@@ -1635,6 +1639,7 @@
 | Fatiamento de Consciência | `RC-604` | II.8.3 | ⚪ |
 | Fator Dharma | `RC-319` | II.8.1 | 🟡 |
 | Fator Extraterrestre (o Elo Perdido) | `RC-355` | V.22.1 | 🟡 |
+| Favor Divino | `RC-063` | IV.21.2 | 🟡 |
 | Favor Divino (conceito invertido) | `RC-332` | IV.21.2 | 🟡 |
 | Fenômenos Denunciadores do Fim | `RC-314` | III.16.4 | 🟡 |
 | Fenvans | `RC-064` | III.13.2 | 🟠 |
@@ -1942,6 +1947,7 @@
 | Ser-Criador fracassado (autoconfissão de Javé) | `RC-422` | V.22.1 | 🟡 |
 | Seres Desalmados | `RC-661` | III.12.1 | ⚪ |
 | Seres dos Portais | `RC-241` | III.12.1 | 🟠 |
+| Seres Extraterrenos / Extraterrestres | `RC-098` | III.13.2 | 🟡 |
 | Seres Originais do Paraíso | `RC-600` | II.5.2 | ⚪ |
 | Seres Terrenos (Homo Sapiens) | `RC-099` | IV.17.1 | 🟡 |
 | Série Mentalma (5 livros + curso) | `RC-555` | V.23.1 | 🟡 |
@@ -2054,7 +2060,6 @@ Subseções com **6 fichas ou menos** — lacunas declaradas da obra.
 | IV.17.2 | A semeadura e os Agentes da Vida | 1 | lacuna |
 | IV.17.3 | O DNA como projeção holográfica | 1 | lacuna |
 | IV.19.2 | Transmigração e reencarnação | 1 | lacuna |
-| IV.21.2 | O Favor Divino e as inversões de conceito | 1 | lacuna |
 | I.3.3 | Grego e latim | 2 | lacuna |
 | II.5.3 | Os Protocolos / Algoritmos da Perfeição | 2 | lacuna |
 | II.5.4 | A condição adiátma e o espírito alfa fateado | 2 | lacuna |
@@ -2063,6 +2068,7 @@ Subseções com **6 fichas ou menos** — lacunas declaradas da obra.
 | III.11.1 | Mohen So e a face viva da criação | 2 | lacuna |
 | III.12.2 | Satã / Len Mion — a face monstruosa | 2 | lacuna |
 | IV.17.1 | O Projeto Talm e o transporte da vida | 2 | lacuna |
+| IV.21.2 | O Favor Divino e as inversões de conceito | 2 | lacuna |
 | V.22.3 | O Cidadão Cósmico e o Paraíso B | 2 | lacuna |
 | V.22.4 | A Mente Universal emergente | 2 | lacuna |
 | II.6.4 | O CFD, os dois universos e o Khaos | 3 | baixa densidade |
@@ -2096,7 +2102,7 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
 
-## Apêndice C — Termos sem ficha (294 códigos)
+## Apêndice C — Termos sem ficha (291 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2116,7 +2122,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-011` | Adhy | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-012` | Adhyagia | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-016` | Adhyajna | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
-| `RC-013` | Adhyatman | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-015` | Adhybutha | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-014` | Adhydaiva | Termos Específicos › 8.1 Sânscrito / Hinduísmo | 🟡 |
 | `RC-423` | Advogado de Acusação (Ellam × Javé) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
@@ -2230,7 +2235,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-491` | Família Shanlung (13 membros em Alt'Lam Gron) | Genealogias & Linhagens › 6.3 Dinastias extraterrestres | ⚪ |
 | `RC-180` | Fator Colmeia | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
 | `RC-882` | Fator Javé (o marco operacional do fim da atuação como médium passivo) | Processos & Fenômenos › 4.2 Fenômenos espirituais / mediúnicos | ⚪ |
-| `RC-063` | Favor Divino | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-203` | Fenômenos Denunciadores do Fim | Eventos & Eras › 7.3 Profecias / Anúncios | ⚪ |
 | `RC-341` | Ferramentas do Favor Divino (religiões e pensadores) | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | 🟡 |
 | `RC-222` | Filhos das Estrelas | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
@@ -2345,7 +2349,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-345` | Sentimento Luciferiano | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-100` | Seres Espirituais | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-097` | Seres Extrafísicos | Seres & Entidades › 1.5 Decaídos / Exilados / Demônios | 🟡 |
-| `RC-098` | Seres Extraterrenos / Extraterrestres | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-873` | Sinarquia Cósmica (o governo dos sábios) | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | ⚪ |
 | `RC-419` | Sou eu que vivo em vocês (Javé) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
 | `RC-221` | Sustentação Espiritual do Universo | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
@@ -2419,4 +2422,4 @@ entradas do meio da sequência.
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 652 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 655 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*

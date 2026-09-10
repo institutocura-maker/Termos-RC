@@ -2228,3 +2228,8 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 3. **Datas:** lote de correção 11→10/09 em 58 arquivos (deslize de datação da sessão; commits sempre foram 10/09) — verificador 0 impacto (649/8540/8250/0).
 4. **P1 espelhos:** 4 builders rodados (mestre + xlsx + docx-leitura + docx-ÍNDICE, 652 fichas). **Bug do builder corrigido:** `slug(nome)` errava 101/652 links — `ficha_link()` agora resolve o arquivo real via glob → **0 quebrados**. xlsx spot-check 544/581/794/872 OK.
 5. Incidente sandbox (git revertido ao handoff): recuperado via fetch+reset p/ c1d85b3; NOTES restaurado do git; verificador pós-recovery OK.
+
+## 10/09/2026 — P4+P5: Lote 5 REVISAR liquidado + Apêndice C ranqueado e piloto
+
+1. **P4 (Lote 5):** 101 flags triadas → 82 documentadas em 59 fichas (23 RESOLVIDO + 58 CHANCELA + remoção #59) + 8 espelhos em 6 verbetes + README; +3 espelhos pós-verificador (682/649/594 — âncora com aspas fora do span furou a trava; lição: travar pela REGIÃO ALTERADA). Auditoria nº-a-nº: #44 skip documentado, #58 resgatada, #59 fechada por remoção. 19 skips (7 watch + 12 notas). Verificador 649/8540/8250/0. Commits 3bfee7e+790de53 (push OK; msg do 3bfee7e com contagem 83/18 — errata: 82/19).
+2. **P5 (Apêndice C):** ranking 294 por (🟡 > cit+grau > nfontes) em /tmp/apc_full.json (EFÊMERO — regenerar). Achado: 18 colisões Base×fichas (13 🔴 + 5 🟠; Nova Fase reutilizou códigos-C) — bloqueados até despacho. Piloto: RC-098 + RC-013 + RC-063 materializadas (fontes primárias; B051 não localizada; B042 menção de passagem). Base 946/655/1898; ÍNDICE C=291 + 4 espelhos regen (655 links, 0 quebrados). Próximos limpos: RC-038, RC-012, RC-436, RC-385.

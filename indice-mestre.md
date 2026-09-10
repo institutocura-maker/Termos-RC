@@ -18,7 +18,7 @@
 | RC-010 | Atlântida / Terra Atlantis | Lokas & Geografias | 3.3 Localidades terrestres | ⚪ | P2025-02-16, P2018-12-15 | RC-030; RC-088; RC-023; RC-029 | [✔](termos/RC-010-atlantida-terra-atlantis.md) |
 | RC-011 | Adhy | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B031, B022, B051, P2021-12-04, P2024-11-30 | RC-012; RC-013; RC-014; RC-054 | — |
 | RC-012 | Adhyagia | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B031, B024, B022, B051, P2021-12-04, P2025-02-16, P2024-11-30 | RC-011; RC-013; RC-047; RC-059 | — |
-| RC-013 | Adhyatman | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B031, B024, B022, B051, P2021-12-04, P2025-02-16, P2024-11-30 | RC-011; RC-012; RC-014; RC-087 | — |
+| RC-013 | Adhyatman | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B031, B024, B022, B051, P2021-12-04, P2025-02-16, P2024-11-30 | RC-011; RC-012; RC-014; RC-087 | [✔](termos/RC-013-adhyatman.md) |
 | RC-014 | Adhydaiva | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031, B044, B016, B022, B051, P2021-12-04, P2024-05-04, P2025-02-16, P2024-11-30 | RC-013; RC-015; RC-016; RC-037; RC-102; RC-135; RC-630 | — |
 | RC-015 | Adhybutha | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031, B051, P2021-12-04, P2025-02-16, P2024-11-30 | RC-014; RC-016; RC-049 | — |
 | RC-016 | Adhyajna | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031, B016, B051, P2021-12-04, P2025-02-16, P2024-11-30, P2023-04-15, P2020-05-09 | RC-015; RC-102; RC-135; RC-072 | — |
@@ -68,7 +68,7 @@
 | RC-060 | Espiritualidade Operacional | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟡 | B031, B013, B051, B060, P2021-12-04, P2024-05-04, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14, P2023-06-17, P2023-12-03, P2020-04-04 | RC-061; RC-059; RC-100 | [✔](termos/RC-060-espiritualidade-operacional.md) |
 | RC-061 | Espiritualidade Laboratorial | Conceitos Cosmológicos | 2.3 Dimensões / Planos de existência | 🟡 | B031, B024, B013, B051, B060, P2021-12-04, P2024-05-04, P2025-02-15, P2024-11-30, P2024-11-09, P2024-07-14, P2020-04-04 | RC-060; RC-087; RC-048; RC-472; RC-473; RC-496; RC-596; RC-601; RC-635 | [✔](termos/RC-061-espiritualidade-laboratorial.md) |
 | RC-062 | Experiência Gron | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟠 | B031, P2018-12-15 | RC-058; RC-018; RC-032; RC-068 | [✔](termos/RC-062-experiencia-gron.md) |
-| RC-063 | Favor Divino | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B031, B048, P2025-03-15, P2024-11-09, P2024-09-29, P2024-04-14, P2025-06-14b, P2022-11-19, P2020-04-04 | RC-041; RC-001; RC-048 | — |
+| RC-063 | Favor Divino | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B031, B048, P2025-03-15, P2024-11-09, P2024-09-29, P2024-04-14, P2025-06-14b, P2022-11-19, P2020-04-04 | RC-041; RC-001; RC-048 | [✔](termos/RC-063-favor-divino.md) |
 | RC-064 | Fenvans | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟠 | B031, B024, P2022-12-17, P2024-11-30, P2024-08-03, P2024-04-13, P2023-12-03, P2021-01-30, P2024-06-16 | RC-080; RC-106; RC-098; RC-031; RC-081 | [✔](termos/RC-064-fenvans.md) |
 | RC-065 | Frota Norte | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟡 | B031, B017, B018, B061 | RC-032; RC-043; RC-109 | — |
 | RC-066 | Genos | Termos Específicos | 8.1 Sânscrito / Hinduísmo | 🟡 | B031 | RC-077; RC-038; RC-064; RC-065 | — |
@@ -103,7 +103,7 @@
 | RC-095 | Rogério de Almeida Freitas | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B031 | RC-071; RC-094 | — |
 | RC-096 | Septuaginta | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟠 | B031, P2026-08-04, P2025-05-10, P2023-12-25-04 | RC-082; RC-106 | [✔](termos/RC-096-septuaginta.md) |
 | RC-097 | Seres Extrafísicos | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, P2020-04-04 | RC-049; RC-019; RC-024; RC-106; RC-031 | — |
-| RC-098 | Seres Extraterrenos / Extraterrestres | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B044, B005, B042 | RC-036; RC-064; RC-009; RC-078; RC-024 | — |
+| RC-098 | Seres Extraterrenos / Extraterrestres | Seres & Entidades | 1.3 Extraterrestres / Raças cósmicas | 🟡 | B031, B044, B005, B042 | RC-036; RC-064; RC-009; RC-078; RC-024 | [✔](termos/RC-098-seres-extraterrenos-extraterrestres.md) |
 | RC-099 | Seres Terrenos (Homo Sapiens) | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B031, B039, B023, B048, B003, B026, B005, B049, B041, B006, B050, B034, B036, B040, B052, B061, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-042; RC-056; RC-107; RC-578 | [✔](termos/RC-099-seres-terrenos.md) |
 | RC-100 | Seres Espirituais | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B031, B024, B006, P2025-03-15, P2025-02-16, P2025-02-15, P2024-11-30, P2024-11-09 | RC-059; RC-060; RC-084; RC-012; RC-054 | — |
 | RC-101 | Shamb-Aha | Lokas & Geografias | 3.2 Lokas / Mundos interiores | 🟠 | B031, B017, B018, B039, P2018-12-15 | RC-127; RC-026; RC-142; RC-074; RC-133; RC-499 | [✔](termos/RC-101-shamb-aha.md) |

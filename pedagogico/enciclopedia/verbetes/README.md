@@ -3277,6 +3277,14 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Pendências restantes da linha:** long tail `[REVISAR]` (101 flags/65 fichas) · Apêndice C 295 sem ficha (backlog contínuo). Espelhos, mirror e erratas: ZERADOS.
 
+### Manutenção — P4 Lote 5 (REVISAR) + P5 piloto Apêndice C (10/09/2026)
+
+**Despacho do Curador:** delegação «deixa fluir» sobre o saldo das pendências (P4+P5), 10/09/2026.
+
+1. **P4 (Lote 5):** 101 flags triadas → **82 documentadas em 59 fichas** (23 RESOLVIDO com precedente interno/externo — Antiandel, Maricandã=Tamil, RUDRA, Frigga, Olodus, Charon, Landa-1562, Sokolov, Seth-912, Shockman=Hochmah, Aingan…; 58 CHANCELA de aguardo/escopo; remoção #59). 19 skips intencionais (7 watch: RC-091 l.65 MANTIDO, fontes únicas RC-120/RC-281; 12 notas históricas L1–L4). 8 flags estavam citadas em verbetes → espelhadas em 6 verbetes + README; o verificador acusou +3 (âncora com aspas fora do span furou a trava — 682/649/594 espelhados por extração da ficha). Verificador final **649/8540/8250/0**. Falha de processo registrada: a trava span-check deve cobrir a REGIÃO ALTERADA, não só a âncora.
+2. **P5 (Apêndice C):** ranking dos 294 por (🟡 > citações+grau > nº fontes); o topo colidido (270/271/105) vetou o piloto inicial. Auditoria de uso em todos os 294 códigos: **18 colisões Base×fichas** (13 🔴 aposição direta em prosa — 270 Prometeu/Moisés, 271 Epimeteu, 105 Igreja/Religiões, 162 Plasma, 100 Budismo, 300 Têmis, 085 Fria, 006 Jesus, 309 Noreia, 330 Nyx/Genoma, 316 Morenu, 114 Concílio de Niceia, 206 Prepostos; 5 🟠 só-tabela — 136, 067, 066, 509, 508) — a Nova Fase reutilizou códigos-C com sentidos novos; **bloqueados p/ materialização até despacho**. Piloto materializou 3 fichas limpas: **RC-098** (B031+B005+B044+B042), **RC-013** (B031+B024+P2021-12-04; B051 não localizada no acervo), **RC-063** (B031+B048+U1144). Base **946/655/1898**; ÍNDICE (C=291) + 4 espelhos regenerados (655 links, 0 quebrados).
+3. **Pendente de despacho:** (a) arbitrar as 18 colisões (renomear na Base? remapear as fichas citantes?); (b) escalar a materialização do ranking (próximos limpos sugeridos: RC-038 Brahmaloka, RC-012 Adhyagia, RC-436 Heber, RC-385 Egrégora); (c) decidir se as 3 pilotos ganham verbete (novo anel) ou aguardam.
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
