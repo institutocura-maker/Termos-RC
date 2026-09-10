@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS ÉTICOS & FILOSÓFICOS |
 | **Subcategoria** | 5.2 Ética / Conduta / Valores |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética
