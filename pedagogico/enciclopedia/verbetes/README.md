@@ -2339,6 +2339,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 17 restantes):** por ordem decrescente — `RC-257`, `RC-239`, `RC-238`, `RC-200`, `RC-193`, `RC-179` (a confirmar no despacho do Lote 79).
 
+### Lote 79 — 11º anel, grau 1 (6 verbetes, 3.831 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 79 como sugerido.» — os seis previstos confirmados. *(Ambiente: **incidente com recuperação total** — sandbox reconstruído sobre a base `020a570`, commits L69–L78 ausentes no clone e `SESSION-NOTES.md` revertido (`.arena` fora do snapshot); árvore preservada integralmente (58/58 arquivos == README, verificador 485/0); remoto continha o histórico até `e0cb470` — branch re-ancorado com fixup `15b3924`, zero perda.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Base de Dados do Juízo Final | II.8.1 | `V2/V2.08.01-RC200-base-de-dados-do-juizo-final.md` | **986** | **1.726 p.** |
+| Plano Colmeia (para o Universo Biológico) | III.16.5 | `V3/V3.16.05-RC179-plano-colmeia-para-o-universo-biologico.md` | 591 | 556 p. |
+| Espiritismo como Expressão do Quarto Logos | V.27.1 | `V5/V5.27.01-RC257-espiritismo-como-expressao-do-quarto-logos.md` | 588 | 507 p. |
+| Rebanho humano | I.3.4 | `V1/V1.03.04-RC193-rebanho-humano.md` | 584 | 685 p. |
+| Era Sapiens | III.16.2 | `V3/V3.16.02-RC238-era-sapiens.md` | 567 | 499 p. |
+| Hitler (figura histórica no RC) | III.14.4 | `V3/V3.14.04-RC239-hitler-figura-historica-no-rc.md` | **515** | **422 p.** |
+
+**Medida final:** 515–986 palavras (média 639) · **41 verbatim byte a byte** · 92 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 48 de 59** (11 restantes). Estado: 491 verbetes · **8.105 verbatim · 4.942 códigos · 0 falhas**.
+
+**Achados do lote 79 (espiritismo, história, juízo, rebanho, colmeia):**
+
+1. **`RC-257` Espiritismo como Expressão do Quarto Logos (V.27.1 — 4º da seção):** B016 cap. 5 (voz de Olm) — «O espiritismo, adrede engendrado para ser uma expressão do Quarto Logos, foi abraçado pelas características do Terceiro Logos, porquanto inevitável.»; «disciplina esclarecedora, que fugisse do culto da fé e da crendice»; «espírito de Kardec» (reconceituar); «para muito pouco serviria no futuro»; **defasada RC-190 com ficha (padrão RC-093)**; aresta: `RC-257` é-um `RC-190` (B016); `RC-092`/`RC-252`/`RC-071`/`RC-253`/`RC-223` sem aresta; status 🟡 provisório.
+2. **`RC-239` Hitler (III.14.4 — 3º da seção; menor ficha do lote, 422 p.):** **materialização por despacho** 29/08/2026 (0/0, lacuna declarada); «Valen me dizia: "Olha, Hitler obedecia a um ser, Hitler obedecia a uma voz.» (aspa interna sem fecho — byte a byte); STT não conferido, portão B; 'A Mente de Hitler' (Langer/CIA); B039 a preencher; aresta: `RC-239` dominado-por `RC-074` (B039); `RC-078`/`RC-236` sem aresta; status 🟡 provisório.
+3. **`RC-238` Era Sapiens (III.16.2 — 11º da seção):** **materialização por despacho** 29/08/2026 (0/0); «Então, amanhã a gente vai ver a interação de Lemion com a vinda de Jesus terra e com a ascensão do nazismo...»; «Começa a era SAS.» (cataclismos ~9.000 anos); **defasadas duplas RC-010/RC-099 com ficha (padrão RC-093)**; B039 a preencher; aresta: `RC-238` ocorre-após `RC-010` (B039); `RC-155`/`RC-099` sem aresta; status 🟡 provisório.
+4. **`RC-200` Base de Dados do Juízo Final (II.8.1 — 33º da seção; maior ficha do lote, 1.726 p.):** a inversão — «O JUÍZO FINAL NÃO TEM NADA DE JUÍZO E NÃO TEM NADA DE FINAL.»; «CADA SER HUMANO É O ARTÍFICE DE SI MESMO...»; «NÃO TEM JULGAMENTO GERAL, NÃO TEM JUÍZO FINAL. TEM RECICLAGEM...»; «O JUÍZO FINAL É UMA PIADA QUE JAVÉ INVENTOU LÁ ATRÁS.»; agenda de Enoque (18.000 anos); D-13 (custódia, escatologia datada vetada → RC-003/344); O-3; O-7; quarentenas teológica CRÍTICA + biomediúnica + política ("Hitler 2" retido); **Colecionar Incertezas** («Deus não julga ninguém.»); aresta: `RC-201` associado-a `RC-200` (B035); `RC-201`/`RC-084` sem ficha; `RC-194`/`RC-084`/`RC-003`/`RC-344` sem aresta; status ⚪ candidato.
+5. **`RC-193` Rebanho humano (I.3.4 — 5º da seção):** «padrão de produção proteica»; «o rebanho não deixa você crescer»; «Pergunto então: como se comporta o membro típico do rebanho humano?»; «É um modo que vicia o ser humano a pedir sempre.»; «esse é o pior retrato do rebanho humano da atualidade»; STT sem emenda (nitiana; cristãos islâmicos); **F044-MERGE** (provisório excluído, RC-193 âncora); GKA secundária («Grupo de pessoas facilmente manipuláveis...»); quarentena teológica; devolutiva 2026-08-20; aresta: `RC-193` repercute-em `RC-745` (P2024-07-14); `RC-733` sem aresta; status 🟡 provisório.
+6. **`RC-179` Plano Colmeia (III.16.5 — 11º da seção):** B044 cap. 7 dedicado — elo RC-174↔RC-091; «A intenção sempre foi a de recriar a 'Colmeia Trimurtina' nos moldes biológicos.»; «Os terráqueos representam tão somente a face mais moderna do 'Projeto Talm'.»; «Universo Biológico - Plano Colmeia I» («Plano Colmeia II»?); Sheldrake externa; insectoides quarentena ufológica; **defasada RC-381 com ficha (padrão RC-093)**; RC-183/187 sem ficha; cruzar B024 cap. 12; aresta: `RC-179` associado-a `RC-091` (B044); `RC-174`/`RC-183`/`RC-187`/`RC-036`/`RC-107`/`RC-104`/`RC-009`/`RC-148`/`RC-381` sem aresta; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (6 subseções):** V.27.1 (vol. capítulo ×2 — RC-273/739; seguidor RC-738) · III.14.4 (mestres ×2 — RC-590/noreia × ÍNDICE) · III.16.2 (3 vol. história; 1 vol. eventos; RC-571; RC-694 — 4 seguidores) · II.8.1 (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; 7 sem vol. — 10 seguidores) · I.3.4 (RC-192 × ÍNDICE — 3 seguidores) · III.16.5 (fim ×3; 2 vol. — 5 seguidores).
+8. **Seções tocadas:** V5.27.01 3→4 · V3.14.04 2→3 · V3.16.02 10→11 · V2.08.01 32→33 · V1.03.04 4→5 · V3.16.05 10→11. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste 41 spans «» de primeira, 0 falhas — sem correções antes do verificador.
+10. **Statuses:** cinco 🟡 provisório + um ⚪ candidato (RC-200) — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 11 restantes):** por ordem decrescente — `RC-174`, `RC-150`, `RC-146`, `RC-132`, `RC-101`, `RC-096` (a confirmar no despacho do Lote 80).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
