@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
