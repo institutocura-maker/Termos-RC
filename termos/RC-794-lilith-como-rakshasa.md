@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | GENEALOGIAS & LINHAGENS |
 | **Subcategoria** | 6.3 Dinastias extraterrestres |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-30 |
 
 ## Definição Sintética

@@ -362,7 +362,7 @@
 | RC-354 | Trilogia Queda e Ascensão Espiritual | Tecnologias & Artefatos | 5.4 Escrituras / Objetos documentais | 🟡 | B003, B025, B026 | RC-003; RC-025; RC-026; RC-094 | — |
 | RC-355 | Fator Extraterrestre (o Elo Perdido) | Conceitos Cosmológicos | 2.5 Propósitos / Destinos | 🟢 | B005, B042 | RC-098; RC-020; RC-094; RC-099 | [✔](termos/RC-355-fator-extraterrestre-o-elo-perdido.md) |
 | RC-356 | Fonte da Vida (metáfora da ilha/oceano) | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B005 | RC-148; RC-107; RC-094; RC-033 | — |
-| RC-357 | Confederações de Mundos | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟠 | B005 | RC-098; RC-094; RC-107; RC-059 | [✔](termos/RC-357-confederacoes-de-mundos.md) |
+| RC-357 | Confederações de Mundos | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B005 | RC-098; RC-094; RC-107; RC-059 | [✔](termos/RC-357-confederacoes-de-mundos.md) |
 | RC-358 | Terra de Ninguém (cósmica) | Lokas & Geografias | 3.4 Regiões cósmicas / Portais | 🟡 | B005 | RC-357; RC-070; RC-094; RC-099 | — |
 | RC-359 | Abduções e Reparo Espiritual | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟢 | B005, P2025-02-16 | RC-098; RC-094; RC-099; RC-698 | [✔](termos/RC-359-abducoes-e-reparo-espiritual.md) |
 | RC-360 | Atmosferizar a Lua ou Marte (Opção Final) | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B005 | RC-094; RC-099; RC-107 | — |
@@ -393,7 +393,7 @@
 | RC-385 | Egrégora (circuito dos elétrons rebeldes) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟢 | B041, B074, B075, P2026-07-30, P2025-03-15, P2023-06-24, P2021-05-08 | RC-378; RC-384; RC-094; RC-475 | [✔](termos/RC-385-egregora.md) |
 | RC-386 | Memórias para Javé | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟡 | B041, P2024-09-29 | RC-161; RC-378; RC-041; RC-094 | — |
 | RC-387 | Fragmentação do Poder Mental da Divindade | Conceitos Cosmológicos | 2.1 Cosmogonia / Criação | 🟡 | B041, P2024-05-04, P2025-03-15, P2025-02-16, P2024-11-30, P2024-11-09, P2020-07-04, P2023-12-03 | RC-041; RC-167; RC-152; RC-094; RC-638 | — |
-| RC-388 | Grupo Atlan | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟠 | B006, B031, B044 | RC-389; RC-071; RC-094; RC-100 | [✔](termos/RC-388-grupo-atlan.md) |
+| RC-388 | Grupo Atlan | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B006, B031, B044 | RC-389; RC-071; RC-094; RC-100 | [✔](termos/RC-388-grupo-atlan.md) |
 | RC-389 | Casa de Lucas (origem do Grupo Atlan) | Lokas & Geografias | 3.3 Localidades terrestres | 🟡 | B006 | RC-388; RC-071; RC-094 | — |
 | RC-390 | Espíritos comunicantes do Grupo Atlan | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B006 | RC-388; RC-100; RC-094 | — |
 | RC-391 | Mesmice Espiritual | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B006 | RC-099; RC-100; RC-094 | — |
@@ -447,8 +447,8 @@
 | RC-439 | Os Magos do Norte | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟡 | B052 | RC-094; RC-068; RC-403 | — |
 | RC-440 | A Sina dos Portadores | Eventos & Eras | 7.3 Profecias / Anúncios | 🟡 | B052 | RC-433; RC-094; RC-099 | — |
 | RC-441 | Mistérios Dionisíacos | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟡 | B052 | RC-094; RC-433; RC-049 | — |
-| RC-442 | Família Yel | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟠 | B057, B058, P2020-08-08, P2021-03-13, P2021-09-04, P2020-04-25, P2022-03-26, P2023-12-03 | RC-142; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-442-familia-yel.md) |
-| RC-443 | Família Mion | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟠 | B057, B058, P2020-08-08, P2020-04-25, P2022-03-26, P2023-12-03 | RC-074; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-443-familia-mion.md) |
+| RC-442 | Família Yel | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B057, B058, P2020-08-08, P2021-03-13, P2021-09-04, P2020-04-25, P2022-03-26, P2023-12-03 | RC-142; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-442-familia-yel.md) |
+| RC-443 | Família Mion | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | B057, B058, P2020-08-08, P2020-04-25, P2022-03-26, P2023-12-03 | RC-074; RC-036; RC-039; RC-446; RC-450 | [✔](termos/RC-443-familia-mion.md) |
 | RC-444 | Família Cromon | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | ⚪ | B059, B057, P2020-08-08, P2020-04-25, P2022-03-26, P2023-12-03 | RC-036; RC-450 | — |
 | RC-445 | Biocoletivos | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B057, B058 | RC-036; RC-442; RC-443; RC-450 | [✔](termos/RC-445-biocoletivos.md) |
 | RC-446 | Processadores Familiares | Tecnologias & Artefatos | 5.3 Dispositivos / Instrumentos | 🟠 | B057, B058, P2020-04-25, P2022-03-26, P2023-12-03 | RC-036; RC-009; RC-442; RC-443 | [✔](termos/RC-446-processadores-familiares.md) |
@@ -799,7 +799,7 @@
 | RC-791 | Lamúria dos Deuses (Diagnóstico de Prometeu) | Processos & Fenômenos | 4.2 Fenômenos espirituais / mediúnicos | 🟢 | P2025-04-06 | RC-270; RC-271; RC-001; RC-149; RC-009; RC-730; RC-789; RC-788 | [✔](termos/RC-791-lamuria-dos-deuses.md) |
 | RC-792 | Fogo que se Apaga (Fogo de Prometeu Hoje) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | P2025-04-06 | RC-086; RC-270; RC-149; RC-788; RC-793; RC-335; RC-105 | [✔](termos/RC-792-fogo-que-se-apaga.md) |
 | RC-793 | Conceito Abaiano (Fazer Sem Esperar Receber) | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟢 | P2025-04-06 | RC-792; RC-788; RC-786; RC-292; RC-086; RC-099 | [✔](termos/RC-793-conceito-abaiano.md) |
-| RC-794 | Lilith como Rakshasa (Espécie Não-Humana) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟠 | P2025-04-06, P2023-11-11 | RC-308; RC-086; RC-787; RC-785; RC-796 | [✔](termos/RC-794-lilith-como-rakshasa.md) |
+| RC-794 | Lilith como Rakshasa (Espécie Não-Humana) | Genealogias & Linhagens | 6.3 Dinastias extraterrestres | 🟢 | P2025-04-06, P2023-11-11 | RC-308; RC-086; RC-787; RC-785; RC-796 | [✔](termos/RC-794-lilith-como-rakshasa.md) |
 | RC-795 | Nyx como Mãe de Origem de Pandora | Genealogias & Linhagens | 6.1 Famílias divinas / Celestiais | 🟠 | P2025-04-06, P2023-04-01 | RC-330; RC-454; RC-092; RC-086; RC-142; RC-009 | [✔](termos/RC-795-nyx-como-mae-de-origem-de-pandora.md) |
 | RC-796 | Judaísmo como Destruidor do Mito de Pandora/Lilith | Eventos & Eras | 7.4 Catástrofes / Dilúvios / Quedas | 🟠 | P2025-04-06, P2023-11-11 | RC-105; RC-086; RC-308; RC-189; RC-270; RC-786; RC-335; RC-787 | [✔](termos/RC-796-judaismo-como-destruidor-do-mito.md) |
 | RC-797 | Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | Conceitos Cosmológicos | 2.2 Leis e princípios cósmicos | 🟢 | P2018-02-24 | RC-072; RC-102; RC-105; RC-422; RC-798; RC-799; RC-800; RC-801; RC-803 | [✔](termos/RC-797-estrategia-dos-avatares.md) |

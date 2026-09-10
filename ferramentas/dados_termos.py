@@ -475,7 +475,7 @@ TERMOS = [
     # ---- Novos termos de B005 (obra primária: Fator Extraterrestre, 2004)
     ("RC-355", "Fator Extraterrestre (o Elo Perdido)", COS_PRO[0], COS_PRO[1], "verificado", ["B005", "B042"], "RC-098; RC-020; RC-094; RC-099", True),
     ("RC-356", "Fonte da Vida (metáfora da ilha/oceano)", COS_COG[0], COS_COG[1], P, ["B005"], "RC-148; RC-107; RC-094; RC-033", False),
-    ("RC-357", "Confederações de Mundos", GEN_EXT[0], GEN_EXT[1], "em análise", ["B005"], "RC-098; RC-094; RC-107; RC-059", True),
+    ("RC-357", "Confederações de Mundos", GEN_EXT[0], GEN_EXT[1], "verificado", ["B005"], "RC-098; RC-094; RC-107; RC-059", True),
     ("RC-358", "Terra de Ninguém (cósmica)", LOK_REG[0], LOK_REG[1], P, ["B005"], "RC-357; RC-070; RC-094; RC-099", False),
     ("RC-359", "Abduções e Reparo Espiritual", PRO_ESP[0], PRO_ESP[1], "verificado", ['B005', 'P2025-02-16'], 'RC-098; RC-094; RC-099; RC-698', True),
     ("RC-360", "Atmosferizar a Lua ou Marte (Opção Final)", EVE_MIS[0], EVE_MIS[1], P, ["B005"], "RC-094; RC-099; RC-107", False),
@@ -512,7 +512,7 @@ TERMOS = [
     ("RC-387", "Fragmentação do Poder Mental da Divindade", COS_COG[0], COS_COG[1], P, ['B041', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2020-07-04', 'P2023-12-03'], 'RC-041; RC-167; RC-152; RC-094; RC-638', False),
 
     # ---- Novos termos de B006 (obra primária: Nos Bastidores da Luz I — obra mediúnica, 2000)
-    ("RC-388", "Grupo Atlan", GEN_EXT[0], GEN_EXT[1], 'em análise', ["B006", "B031", "B044"], "RC-389; RC-071; RC-094; RC-100", True),
+    ("RC-388", "Grupo Atlan", GEN_EXT[0], GEN_EXT[1], "verificado", ["B006", "B031", "B044"], "RC-389; RC-071; RC-094; RC-100", True),
     ("RC-389", "Casa de Lucas (origem do Grupo Atlan)", LOK_TER[0], LOK_TER[1], P, ["B006"], "RC-388; RC-071; RC-094", False),
     ("RC-390", "Espíritos comunicantes do Grupo Atlan", SER_LOG[0], SER_LOG[1], P, ["B006"], "RC-388; RC-100; RC-094", False),
     ("RC-391", "Mesmice Espiritual", COS_ETI[0], COS_ETI[1], P, ["B006"], "RC-099; RC-100; RC-094", False),
@@ -579,8 +579,8 @@ TERMOS = [
     ("RC-439", "Os Magos do Norte", SER_HUM[0], SER_HUM[1], P, ["B052"], "RC-094; RC-068; RC-403", False),
     ("RC-440", "A Sina dos Portadores", EVE_PRO[0], EVE_PRO[1], P, ["B052"], "RC-433; RC-094; RC-099", False),
     ("RC-441", "Mistérios Dionisíacos", COS_ESP[0], COS_ESP[1], P, ["B052"], "RC-094; RC-433; RC-049", False),
-    ("RC-442", "Família Yel", GEN_EXT[0], GEN_EXT[1], "em análise", ["B057", "B058", 'P2020-08-08', 'P2021-03-13', 'P2021-09-04', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], "RC-142; RC-036; RC-039; RC-446; RC-450", True),
-    ("RC-443", "Família Mion", GEN_EXT[0], GEN_EXT[1], "em análise", ["B057", "B058", 'P2020-08-08', "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-074; RC-036; RC-039; RC-446; RC-450", True),
+    ("RC-442", "Família Yel", GEN_EXT[0], GEN_EXT[1], "verificado", ["B057", "B058", 'P2020-08-08', 'P2021-03-13', 'P2021-09-04', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], "RC-142; RC-036; RC-039; RC-446; RC-450", True),
+    ("RC-443", "Família Mion", GEN_EXT[0], GEN_EXT[1], "verificado", ["B057", "B058", 'P2020-08-08', "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-074; RC-036; RC-039; RC-446; RC-450", True),
     ("RC-444", "Família Cromon", GEN_EXT[0], GEN_EXT[1], C, ["B059", "B057", 'P2020-08-08', "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-036; RC-450", False),
     ("RC-445", "Biocoletivos", SER_LOG[0], SER_LOG[1], P, ["B057", "B058"], "RC-036; RC-442; RC-443; RC-450", True),
     ("RC-446", "Processadores Familiares", TEC_DIS[0], TEC_DIS[1], "em análise", ["B057", "B058", "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-036; RC-009; RC-442; RC-443", True),
@@ -970,7 +970,7 @@ TERMOS = [
     ("RC-791", "Lamúria dos Deuses (Diagnóstico de Prometeu)", PRO_ESP[0], PRO_ESP[1], "verificado", ['P2025-04-06'], 'RC-270; RC-271; RC-001; RC-149; RC-009; RC-730; RC-789; RC-788', True),
     ("RC-792", "Fogo que se Apaga (Fogo de Prometeu Hoje)", COS_LEI[0], COS_LEI[1], "verificado", ['P2025-04-06'], 'RC-086; RC-270; RC-149; RC-788; RC-793; RC-335; RC-105', True),
     ("RC-793", "Conceito Abaiano (Fazer Sem Esperar Receber)", COS_ETI[0], COS_ETI[1], "verificado", ['P2025-04-06'], 'RC-792; RC-788; RC-786; RC-292; RC-086; RC-099', True),
-    ("RC-794", "Lilith como Rakshasa (Espécie Não-Humana)", GEN_EXT[0], GEN_EXT[1], "em análise", ['P2025-04-06', 'P2023-11-11'], 'RC-308; RC-086; RC-787; RC-785; RC-796', True),
+    ("RC-794", "Lilith como Rakshasa (Espécie Não-Humana)", GEN_EXT[0], GEN_EXT[1], "verificado", ['P2025-04-06', 'P2023-11-11'], 'RC-308; RC-086; RC-787; RC-785; RC-796', True),
     ("RC-795", "Nyx como Mãe de Origem de Pandora", GEN_DIV[0], GEN_DIV[1], "em análise", ['P2025-04-06', 'P2023-04-01'], 'RC-330; RC-454; RC-092; RC-086; RC-142; RC-009', True),
     ("RC-796", "Judaísmo como Destruidor do Mito de Pandora/Lilith", EVE_CAT[0], EVE_CAT[1], "em análise", ['P2025-04-06', 'P2023-11-11'], 'RC-105; RC-086; RC-308; RC-189; RC-270; RC-786; RC-335; RC-787', True),
     ("RC-797", "Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé)", COS_LEI[0], COS_LEI[1], "verificado", ['P2018-02-24'], 'RC-072; RC-102; RC-105; RC-422; RC-798; RC-799; RC-800; RC-801; RC-803', True),
