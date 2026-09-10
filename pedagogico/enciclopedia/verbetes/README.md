@@ -2,7 +2,7 @@
 
 **Enciclopédia de Referência das Revelações Cósmicas · edição 2026.1** · laboratório aberto em 08/09/2026
 
-Sumário analítico: `../INDICE-ENCICLOPEDIA-RC.md` (651 fichas mapeadas, 0 pendências).
+Sumário analítico: `../INDICE-ENCICLOPEDIA-RC.md` (652 fichas mapeadas, 0 pendências).
 Forma fixada em `../verbetes-modelo/` (3 modelos homologados) e `../verbetes-secao-24/` (3 tratados).
 
 ---
@@ -3256,6 +3256,14 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 3. **Verbete 25º da seção IV.18.3; grau 11** (onze arestas, dez códigos — fora dos anéis de isolamento). Rótulos × títulos: tudo ✓ exceto 541 truncado (prefixo); 541/695 sem aresta (vínculo só de cadastro). Todos os 11 têm ficha.
 4. **Divergências IV.18.3 (7 arquivos, anotadas):** 518/543/619/732 ("O corpo e a herança") · 646 ("Corpo, suporte e transferência") · 729/748 (vol. "A constituição do ser humano").
 5. Pré-teste estrito 3/3 de primeira, 0 falhas. Estado: **649 verbetes · 8.540 verbatim · 8.249 códigos · 0 falhas**. Censo final: **649 verbetes cobrindo as 651 fichas**, exceto as 2 remissivas permanentes (`RC-449`, `RC-936`).
+
+### Manutenção curatorial — caso Rxaça = Rakshasa + remissiva RC-872 (11/09/2026)
+
+**Despacho do Curador:** "Rxaça me parece ser rakshasa" — investigação do Agente confirmou com 6 evidências (a decisiva: "Ravana, rei dos rxaças", P2025-11-29); despacho «tudo»: anotar + renomear 794 + avaliar 872 como remissiva.
+
+1. **RC-794 renomeado** "Lilith como Rxaça" → **"Lilith como Rakshasa (Espécie Não-Humana)"** (cadastro + `git mv` da ficha e do verbete + ÍNDICE regenerado). Formas STT preservadas nas citações, sem harmonização; verbete republicado com bala de resolução (2/2 verbatim intactos). Bônus: corrigida a contagem da ficha no cabeçalho do verbete (676→846).
+2. **RC-872 ("Rakchasas...") absorvido por RC-581** — 4º par F045: título equalizado ("Rakshasas"), relacionados → `RC-581`, flag → True, banner REMISSIVA + stub histórico; 581 unificou fonte P2022-07-16 (validada no `ciclos/`: "estirpe programada no DNA para sugar o sangue") e refs 322/102/414; Apêndice D detectou o par sozinho (**RESOLVIDA**). Censo **651→652 fichas**; `RELACOES` intactas (1898).
+3. Verificador: **649 verbetes · 8.540 verbatim · 8.250 códigos · 0 falhas**. Censo final: **649 verbetes cobrindo as 652 fichas**, exceto as 3 remissivas permanentes (`RC-449`, `RC-872`, `RC-936`).
 
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 

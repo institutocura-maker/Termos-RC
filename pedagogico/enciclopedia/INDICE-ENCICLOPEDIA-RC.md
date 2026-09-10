@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 651 fichas · 1898 relações
+- **Base de referência:** 946 termos · 652 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -51,11 +51,11 @@
 |---|---|---|---|
 | **I** | FUNDAMENTOS — o território e as regras do jogo | 4 | 33 |
 | **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
-| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 263 |
+| **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 264 |
 | **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 158 |
 | **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 76 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **651** |
+| | **TOTAL** | 37 | **652** |
 
 ---
 
@@ -391,7 +391,7 @@
 
 # VOLUME III — ATORES E ACONTECIMENTOS — o quem e o quando
 
-*Verbetes ancorados neste volume: **263***
+*Verbetes ancorados neste volume: **264***
 
 ## III.9 — O Criador e a sua condição
 
@@ -549,7 +549,7 @@
 - **Melkor (o filho dissonante)** — `RC-844` ⚪ · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 1 fonte(s)
 - **Pirra** — `RC-303` 🟡 · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 5 fonte(s)
 - **Prisioneiros da Brahmaloka** — `RC-260` 🟡 · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 1 fonte(s)
-- **Rakshasas** — `RC-581` ⚪ · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 5 fonte(s)
+- **Rakshasas** — `RC-581` ⚪ · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 6 fonte(s)
 - **Ravana** — `RC-582` ⚪ · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 8 fonte(s)
 - **Rebelião de Lúcifer** — `RC-002` 🟠 · Eventos & Eras › 7.1 Guerras / Rebeliões / Conflitos · 21 fonte(s)
 - **Seres Desalmados** — `RC-661` ⚪ · Seres & Entidades › 1.5 Decaídos / Exilados / Demônios · 2 fonte(s)
@@ -589,7 +589,7 @@
 
 *A população da criação: raças, anjos, coletivos, logoi e híbridos.*
 
-**Verbetes:** 54
+**Verbetes:** 55
 
 ### III.13.1 — Coletivos criadores
 
@@ -619,6 +619,7 @@
 - **Ninmah (Anunnaki geneticista)** — `RC-461` 🟠 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 4 fonte(s)
 - **Ninurta** — `RC-588` ⚪ · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 3 fonte(s)
 - **Ostronomos** — `RC-232` 🟠 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 4 fonte(s)
+- **Rakshasas** — `RC-872` ⚪ · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 1 fonte(s)
 - **Val Tam** — `RC-132` 🟠 · Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas · 1 fonte(s)
 
 ### III.13.3 — Anjos, arcanjos e querubins
@@ -748,7 +749,7 @@
 - **Família Mion** — `RC-443` 🟡 · Genealogias & Linhagens › 6.3 Dinastias extraterrestres · 6 fonte(s)
 - **Família Yel** — `RC-442` 🟡 · Genealogias & Linhagens › 6.3 Dinastias extraterrestres · 8 fonte(s)
 - **Grupo Atlan** — `RC-388` 🟠 · Genealogias & Linhagens › 6.3 Dinastias extraterrestres · 3 fonte(s)
-- **Lilith como Rxaça (Espécie Não-Humana)** — `RC-794` ⚪ · Genealogias & Linhagens › 6.3 Dinastias extraterrestres · 2 fonte(s)
+- **Lilith como Rakshasa (Espécie Não-Humana)** — `RC-794` ⚪ · Genealogias & Linhagens › 6.3 Dinastias extraterrestres · 2 fonte(s)
 - **Val (Família Val)** — `RC-109` 🟠 · Genealogias & Linhagens › 6.3 Dinastias extraterrestres · 6 fonte(s)
 
 ## III.16 — Eventos, eras, catástrofes e profecias
@@ -1378,7 +1379,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (651 verbetes)
+## Apêndice A — Índice alfabético remissivo (652 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1743,7 +1744,7 @@
 | Len Mion (Satã) | `RC-074` | III.12.2 | 🟢 |
 | Liberdade Mental (premissa do Quarto Logos) | `RC-253` | IV.21.1 | 🟡 |
 | Lila | `RC-075` | I.3.1 | 🟠 |
-| Lilith como Rxaça (Espécie Não-Humana) | `RC-794` | III.15.3 | ⚪ |
+| Lilith como Rakshasa (Espécie Não-Humana) | `RC-794` | III.15.3 | ⚪ |
 | Linhagem de Seth | `RC-594` | III.15.2 | ⚪ |
 | Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | `RC-424` | III.15.2 | 🟠 |
 | Livre-arbítrio | `RC-938` | II.8.1 | 🟡 |
@@ -1892,6 +1893,7 @@
 | Radiatas | `RC-093` | III.13.4 | 🟠 |
 | Ragnarok em Marte | `RC-395` | III.16.3 | 🟢 |
 | Rakshasas | `RC-581` | III.12.1 | ⚪ |
+| Rakshasas | `RC-872` | III.13.2 | ⚪ |
 | Rama (avatar de Vishnu) | `RC-584` | III.10.3 | ⚪ |
 | Ravana | `RC-582` | III.12.1 | ⚪ |
 | Razão Filosófica dos Terráqueos | `RC-231` | V.22.1 | 🟡 |
@@ -2094,7 +2096,7 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
 
-## Apêndice C — Termos sem ficha (295 códigos)
+## Apêndice C — Termos sem ficha (294 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2328,7 +2330,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-384` | Proposta de um Humano Terrestre aos Elétrons | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-509` | Protagonismo consciencial | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | ⚪ |
 | `RC-216` | Queda do Arquiteto Universal | Eventos & Eras › 7.4 Catástrofes / Dilúvios / Quedas | 🟡 |
-| `RC-872` | Rakchasas (estirpe dos sugadores de sangue) | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | ⚪ |
 | `RC-883` | Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | Seres & Entidades › 1.7 Híbridos / Seres de transição | ⚪ |
 | `RC-198` | Rédeas Genéticas | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | ⚪ |
 | `RC-407` | Reencarnação iminente da grande leva de espíritos | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
@@ -2397,7 +2398,7 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-143` | Yel Luziel | Seres & Entidades › 1.3 Extraterrestres / Raças cósmicas | 🟡 |
 | `RC-144` | Zeitgeist | Termos Específicos › 8.5 Outros idiomas / jargão técnico | 🟡 |
 
-## Apêndice E — Duplicatas detectadas (3 nomes repetidos · 3 resolvidos por remissiva)
+## Apêndice E — Duplicatas detectadas (4 nomes repetidos · 4 resolvidos por remissiva)
 
 Detecção automática: nomes idênticos (desconsiderando caixa, acentos e 
 pontuação) em códigos diferentes. **Nenhuma alteração é feita aqui**: a decisão 
@@ -2413,8 +2414,9 @@ entradas do meio da sequência.
 | Choque de Realidade | `RC-898` · `RC-936` | 2/2 | **RESOLVIDA (F045)** — `RC-936` é **remissiva** de `RC-898` (verbete canônico) |
 | Criaturas-ferramenta | `RC-164` · `RC-449` | 2/2 | **RESOLVIDA (F045)** — `RC-449` é **remissiva** de `RC-164` (verbete canônico) |
 | Fenômenos Denunciadores do Fim | `RC-203` · `RC-314` | 1/2 | **RESOLVIDA (F045)** — `RC-203` é **remissiva** de `RC-314` (verbete canônico) |
+| Rakshasas | `RC-581` · `RC-872` | 2/2 | **RESOLVIDA (F045)** — `RC-872` é **remissiva** de `RC-581` (verbete canônico) |
 
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 651 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 652 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*

@@ -720,7 +720,7 @@ TERMOS = [
     ("RC-578", "Fim do Experimento Humano", EVE_PRO[0], EVE_PRO[1], C, ["P2022-12-17", 'P2026-08-04'], "RC-099; RC-337; RC-544; RC-314; RC-572", True),
     ("RC-579", "Noreia (Norea)", SER_HUM[0], SER_HUM[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2023-12-03', "P2022-09-17"], 'RC-474; RC-424; RC-189; RC-490; RC-594; RC-727; RC-770', True),
     ("RC-580", "Igigi", SER_EXT[0], SER_EXT[1], C, ["P2022-12-17", 'P2024-04-13', 'P2023-12-02; RC-673; RC-024; RC-488', 'P2023-10-14'], "RC-024; RC-516; RC-488; RC-583", True),
-    ("RC-581", "Rakshasas", SER_DEC[0], SER_DEC[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30'], 'RC-106; RC-104; RC-522; RC-523; RC-582; RC-700; RC-688', True),
+    ("RC-581", "Rakshasas", SER_DEC[0], SER_DEC[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30', 'P2022-07-16'], 'RC-106; RC-104; RC-522; RC-523; RC-582; RC-700; RC-688; RC-322; RC-102; RC-414; RC-872', True),  # [F045-MERGE 11-09-2026] absorveu RC-872 ("Rakchasas (estirpe dos sugadores de sangue)", variante transliterada com lastro P2022-07-16): fontes e referencias unificadas aqui. Remissiva em RC-872.
     ("RC-582", "Ravana", SER_DEC[0], SER_DEC[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-09-09', 'P2023-04-30', "P2021-02-28", "P2022-09-17"], 'RC-581; RC-584; RC-593; RC-414', True),
     ("RC-583", "Guerra Nuclear Anunnaki (Sete Armas Atômicas)", EVE_GUE[0], EVE_GUE[1], C, ["P2022-12-17", 'P2023-05-20', 'P2021-05-15', 'P2023-10-14'], "RC-486; RC-487; RC-460; RC-587; RC-588; RC-589", True),
     ("RC-584", "Rama (avatar de Vishnu)", SER_EXT[0], SER_EXT[1], C, ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30', "P2022-05-07"], 'RC-135; RC-582; RC-593', True),
@@ -970,7 +970,7 @@ TERMOS = [
     ("RC-791", "Lamúria dos Deuses (Diagnóstico de Prometeu)", PRO_ESP[0], PRO_ESP[1], C, ['P2025-04-06'], 'RC-270; RC-271; RC-001; RC-149; RC-009; RC-730; RC-789; RC-788', True),
     ("RC-792", "Fogo que se Apaga (Fogo de Prometeu Hoje)", COS_LEI[0], COS_LEI[1], C, ['P2025-04-06'], 'RC-086; RC-270; RC-149; RC-788; RC-793; RC-335; RC-105', True),
     ("RC-793", "Conceito Abaiano (Fazer Sem Esperar Receber)", COS_ETI[0], COS_ETI[1], C, ['P2025-04-06'], 'RC-792; RC-788; RC-786; RC-292; RC-086; RC-099', True),
-    ("RC-794", "Lilith como Rxaça (Espécie Não-Humana)", GEN_EXT[0], GEN_EXT[1], C, ['P2025-04-06', 'P2023-11-11'], 'RC-308; RC-086; RC-787; RC-785; RC-796', True),
+    ("RC-794", "Lilith como Rakshasa (Espécie Não-Humana)", GEN_EXT[0], GEN_EXT[1], C, ['P2025-04-06', 'P2023-11-11'], 'RC-308; RC-086; RC-787; RC-785; RC-796', True),
     ("RC-795", "Nyx como Mãe de Origem de Pandora", GEN_DIV[0], GEN_DIV[1], C, ['P2025-04-06', 'P2023-04-01'], 'RC-330; RC-454; RC-092; RC-086; RC-142; RC-009', True),
     ("RC-796", "Judaísmo como Destruidor do Mito de Pandora/Lilith", EVE_CAT[0], EVE_CAT[1], C, ['P2025-04-06', 'P2023-11-11'], 'RC-105; RC-086; RC-308; RC-189; RC-270; RC-786; RC-335; RC-787', True),
     ("RC-797", "Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé)", COS_LEI[0], COS_LEI[1], C, ['P2018-02-24'], 'RC-072; RC-102; RC-105; RC-422; RC-798; RC-799; RC-800; RC-801; RC-803', True),
@@ -1048,7 +1048,7 @@ TERMOS = [
     ("RC-869", "Mentalidade Comum (o contágio do rebanho)", COS_ESP[0], COS_ESP[1], C, ["P2022-11-26"], 'RC-166; RC-520; RC-256; RC-657', False),
     ("RC-870", "Fórmulas Mentais (o código dos demos, contraposto ao DNA humano)", PRO_ESP[0], PRO_ESP[1], C, ["P2022-11-20", "P2021-02-28", "P2021-04-10"], 'RC-562; RC-001; RC-104; RC-474; RC-630; RC-083', True),
     ("RC-871", "Midana (o código original primordial semeado no universo biológico)", PRO_BIO[0], PRO_BIO[1], C, ["P2022-10-01", "P2022-09-25"], 'RC-282; RC-658; RC-783; RC-562; RC-454; RC-104', True),
-    ("RC-872", "Rakchasas (estirpe dos sugadores de sangue)", SER_EXT[0], SER_EXT[1], C, ["P2022-07-16"], 'RC-322; RC-102; RC-414; RC-104', False),
+    ("RC-872", "Rakshasas", SER_EXT[0], SER_EXT[1], C, ["P2022-07-16"], 'RC-581', True),  # [F045-MERGE 11-09-2026] DUPLICATA ABSORVIDA por RC-581 — permanece na sequencia (contiguidade) como REMISSIVA; a ficha aponta para RC-581. Titulo original: "Rakchasas (estirpe dos sugadores de sangue)".
     ("RC-873", "Sinarquia Cósmica (o governo dos sábios)", COS_LEI[0], COS_LEI[1], C, ["P2022-07-16"], 'RC-414; RC-104; RC-037; RC-322', False),
     ("RC-874", "Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento)", COS_PRO[0], COS_PRO[1], C, ["P2026-03-21"], 'RC-665; RC-734; RC-040; RC-160', False),
     ("RC-875", "Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica)", SER_DIV[0], SER_DIV[1], C, ["P2026-03-21"], 'RC-734; RC-466; RC-040; RC-282', False),

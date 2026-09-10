@@ -72,3 +72,20 @@ Ravana (RC-582)
 A transliteração Rakshasas foi aprovada pelo curador.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+---
+
+## Absorção de RC-872 — F045 · 11/09/2026
+
+O código **RC-872** («Rakchasas (estirpe dos sugadores de sangue)», fonte única P2022-07-16) era
+variante transliterada (ch × sh) deste ente: "estirpe programada no DNA para sugar o sangue
+dos mamíferos" — a mesma definição ("criados para chupar sangue de mamíferos"; "criados como
+vampiros"). Fontes e referências unificadas aqui (6 fontes; RC-322/RC-102/RC-414 incorporados).
+Remissiva em RC-872. Despacho do Curador, 11/09/2026 (caso Rxaça = Rakshasa).
+
+## Nota — paralelo RC-794 (11/09/2026 · despacho do Curador)
+
+- A família STT "rxá / Rxaça / Rxassa / rachaça / raxchaça / raquchas" (RC-794 e paralelos F038:
+P2023-05-13, P2025-02-16, P2025-11-29 "Ravana, rei dos rxaças", P2022-03-26 "Pros rakas echaças")
+é este termo — ver Nota-RESOLUÇÃO em RC-794. As variantes já capturadas nesta ficha
+("racchaças, rakchaças, raquchaças") ficam acrescidas das de RC-794, sem harmonização.

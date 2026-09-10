@@ -2211,3 +2211,12 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 3. **Pré-teste estrito:** 3/3 de primeira, **0 falhas**. Grau 11 (onze arestas/dez códigos); 541 truncado; 541/695 sem aresta.
 4. **Divergências IV.18.3 (7):** 518/543/619/732 + 646 + 729/748.
 5. **Pendências reais restantes:** (b) espelhos (indice-mestre/xlsx/docx); (c) erratas menores (807 ordinal).
+
+## 11/09/2026 — Manutenção: caso Rxaça = Rakshasa + remissiva RC-872
+
+**Despacho do Curador:** avaliar RC-794 ("Rxaça me parece ser rakshasa") → confirmado (6 provas; "Ravana, rei dos rxaças" decisiva) → despacho «tudo».
+
+1. **RC-794 → "Lilith como Rakshasa"**: cadastro + git mv ficha/verbete + ÍNDICE; STT preservado; verbete republicado (2/2 intactos); header ficha 676→846 (número antigo estava errado — era outro número).
+2. **RC-872 absorvido por RC-581** (4º par F045, RESOLVIDA auto-detectada): P2022-07-16 validada em ciclos/; 581 com 6 fontes + refs; stub remissiva 872.
+3. Verificador: **649/8540/8250/0** · Base 946/**652**/1898 · 0 aresta tocada. **649 verbetes cobrem 652 fichas**, exceto 3 remissivas (449/872/936).
+4. Lacuna F038 documentada: mutirão confirmou "Rxaça" sem cruzar com 581 (grafia aprovada 14/08/2026, anterior ao mutirão).
