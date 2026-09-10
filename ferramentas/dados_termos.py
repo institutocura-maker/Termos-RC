@@ -424,7 +424,7 @@ TERMOS = [
     ("RC-311", "Adhyagya (formas espirituais Adhy)", SER_LOG[0], SER_LOG[1], "verificado", ["B022"], "RC-012; RC-308; RC-309; RC-102; RC-135", True),
     ("RC-312", "Criação Bipartida", COS_DIM[0], COS_DIM[1], "em análise", ['B022', 'P2024-11-30'], 'RC-106; RC-107; RC-167; RC-094', True),
     ("RC-313", "Tempo de Apostasia", EVE_ERA[0], EVE_ERA[1], P, ["B022"], "RC-104; RC-300; RC-314; RC-094", False),
-    ("RC-314", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], "em análise", ['B022', 'B035', 'P2025-03-15'], 'RC-313; RC-300; RC-104; RC-094; RC-572; RC-578; RC-690; RC-155; RC-070; RC-203', True),  # [F045-MERGE 07-09-2026] absorveu RC-203 (homonimo de B035, candidato sem ficha): fontes e referencias unificadas aqui. Remissiva em RC-203.
+    ("RC-314", "Fenômenos Denunciadores do Fim", EVE_PRO[0], EVE_PRO[1], "verificado", ['B022', 'B035', 'P2025-03-15'], 'RC-313; RC-300; RC-104; RC-094; RC-572; RC-578; RC-690; RC-155; RC-070; RC-203', True),  # [F045-MERGE 07-09-2026] absorveu RC-203 (homonimo de B035, candidato sem ficha): fontes e referencias unificadas aqui. Remissiva em RC-203.
     ("RC-315", "O Fim da Lila", EVE_GUE[0], EVE_GUE[1], P, ['B022', 'P2024-11-30', 'P2023-11-19', 'P2023-12-03'], 'RC-075; RC-104; RC-300; RC-313', False),
     ("RC-316", "Decifra-me ou Devoro (hábito demo)", COS_ETI[0], COS_ETI[1], P, ["B022", 'P2025-06-14b'], "RC-049; RC-104; RC-075", False),
     ("RC-317", "Esgotamento e Solidão (dos Trimurtianos)", COS_PRO[0], COS_PRO[1], P, ["B022"], "RC-104; RC-313; RC-300", False),
@@ -486,7 +486,7 @@ TERMOS = [
 
     # ---- Novos termos das OBRAS SOBRE JESUS (B011 Transfiguração, B049 Nietzsche, B043 Druida)
     ("RC-365", "O Fator Judas", EVE_MIS[0], EVE_MIS[1], "verificado", ['B011', 'P2026-04-02', 'P2025-10-25', "P2018-12-16", "P2025-05-10", "P2022-11-20"], "RC-138; RC-072; RC-236; RC-094; RC-647", True),
-    ("RC-366", "O Enigma da Transfiguração", EVE_PRO[0], EVE_PRO[1], "em análise", ["B011", 'P2023-06-03', "P2025-05-10", "P2023-02-11", "P2022-11-20", "P2020-04-04"], "RC-072; RC-367; RC-094; RC-214", True),
+    ("RC-366", "O Enigma da Transfiguração", EVE_PRO[0], EVE_PRO[1], "verificado", ["B011", 'P2023-06-03', "P2025-05-10", "P2023-02-11", "P2022-11-20", "P2020-04-04"], "RC-072; RC-367; RC-094; RC-214", True),
     ("RC-367", "Alteração Vibratória (Transfiguração)", PRO_FIS[0], PRO_FIS[1], P, ['B011', 'P2025-02-15'], 'RC-366; RC-072; RC-094; RC-713', False),
     ("RC-368", "Assessoria Cósmica (equipes espirituais de Jesus)", SER_LOG[0], SER_LOG[1], P, ['B011', 'P2025-02-15'], 'RC-072; RC-214; RC-094; RC-100', False),
     ("RC-369", "Nietzsche como 'Amigo da Intenção de Jesus'", SER_HUM[0], SER_HUM[1], "verificado", ['B049', 'P2024-11-09', 'P2020-04-25', 'P2022-03-26', "P2022-11-19"], 'RC-072; RC-370; RC-371; RC-094', True),
@@ -711,13 +711,13 @@ TERMOS = [
     ("RC-569", "Eras Zodiacais (ciclos de aproximadamente 2.160 anos)", EVE_ERA[0], EVE_ERA[1], "verificado", ['P2022-12-17'], 'RC-567; RC-568; RC-571; RC-592; RC-405', True),
     ("RC-570", "Janelas Cósmicas (métricas temporais)", COS_LEI[0], COS_LEI[1], "verificado", ["P2022-12-17"], "RC-568; RC-569; RC-225", True),
     ("RC-571", "Ano de 2012 como Divisor de Ciclos", EVE_ERA[0], EVE_ERA[1], "verificado", ['B037', 'P2022-12-17', 'P2025-02-16', 'P2024-09-29'], 'RC-567; RC-568; RC-569; RC-003; RC-405; RC-300; RC-694; RC-295', True),
-    ("RC-572", "Fim dos Tempos / Final de Ciclo × Fim do Mundo", EVE_PRO[0], EVE_PRO[1], "em análise", ["P2022-12-17", 'P2026-08-04'], "RC-571; RC-314; RC-578", True),
+    ("RC-572", "Fim dos Tempos / Final de Ciclo × Fim do Mundo", EVE_PRO[0], EVE_PRO[1], "verificado", ["P2022-12-17", 'P2026-08-04'], "RC-571; RC-314; RC-578", True),
     ("RC-573", "Cinturão de Fótons", PRO_FIS[0], PRO_FIS[1], "verificado", ["P2022-12-17", "P2022-12-03"], "RC-574; RC-571; RC-537; RC-344", True),
     ("RC-574", "Alcíone (Sistema)", LOK_PLA[0], LOK_PLA[1], "verificado", ["P2022-12-17"], "RC-573; RC-567; RC-571", True),
     ("RC-575", "Ancoragem do Conglomerado Trimurtiano na Terra", EVE_MIS[0], EVE_MIS[1], "verificado", ["P2022-12-17", "P2023-12-03"], "RC-104; RC-037; RC-102; RC-135; RC-078; RC-142; RC-106", True),
     ("RC-576", "Baktun 13", TER_OUT[0], TER_OUT[1], "em análise", ['P2022-12-17', 'P2025-02-16'], 'RC-571; RC-572', True),
     ("RC-577", "Xamanismo Cósmico (comunicação e deslacre)", COS_ESP[0], COS_ESP[1], "verificado", ['P2022-12-17', 'P2026-04-02', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2026-08-04', 'P2024-09-28', 'P2024-08-03'], 'RC-563; RC-448; RC-400; RC-525; RC-644; RC-664; RC-687; RC-697', True),
-    ("RC-578", "Fim do Experimento Humano", EVE_PRO[0], EVE_PRO[1], "em análise", ["P2022-12-17", 'P2026-08-04'], "RC-099; RC-337; RC-544; RC-314; RC-572", True),
+    ("RC-578", "Fim do Experimento Humano", EVE_PRO[0], EVE_PRO[1], "verificado", ["P2022-12-17", 'P2026-08-04'], "RC-099; RC-337; RC-544; RC-314; RC-572", True),
     ("RC-579", "Noreia (Norea)", SER_HUM[0], SER_HUM[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2023-12-03', "P2022-09-17"], 'RC-474; RC-424; RC-189; RC-490; RC-594; RC-727; RC-770', True),
     ("RC-580", "Igigi", SER_EXT[0], SER_EXT[1], "em análise", ["P2022-12-17", 'P2024-04-13', 'P2023-12-02; RC-673; RC-024; RC-488', 'P2023-10-14'], "RC-024; RC-516; RC-488; RC-583", True),
     ("RC-581", "Rakshasas", SER_DEC[0], SER_DEC[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-08-03', 'P2023-04-30', 'P2022-07-16'], 'RC-106; RC-104; RC-522; RC-523; RC-582; RC-700; RC-688; RC-322; RC-102; RC-414; RC-872', True),  # [F045-MERGE 10-09-2026] absorveu RC-872 ("Rakchasas (estirpe dos sugadores de sangue)", variante transliterada com lastro P2022-07-16): fontes e referencias unificadas aqui. Remissiva em RC-872.
@@ -730,7 +730,7 @@ TERMOS = [
     ("RC-588", "Ninurta", SER_EXT[0], SER_EXT[1], "em análise", ["P2022-12-17", 'P2021-03-27', 'P2023-10-14'], "RC-024; RC-487; RC-583; RC-587", True),
     ("RC-589", "Nibiru", LOK_PLA[0], LOK_PLA[1], "em análise", ["P2022-12-17", 'P2023-12-02', 'P2021-03-27', 'B089', 'P2021-05-15', 'P2023-10-14'], "RC-024; RC-583; RC-460; RC-588", True),
     ("RC-590", "Yima", SER_HUM[0], SER_HUM[1], "verificado", ["P2022-12-17"], "RC-595; RC-567; RC-568", True),
-    ("RC-591", "Profecia Hopi da Estrela Azul", EVE_PRO[0], EVE_PRO[1], "em análise", ["P2022-12-17"], "RC-571; RC-536; RC-405", True),
+    ("RC-591", "Profecia Hopi da Estrela Azul", EVE_PRO[0], EVE_PRO[1], "verificado", ["P2022-12-17"], "RC-571; RC-536; RC-405", True),
     ("RC-592", "Era de Peixes", EVE_ERA[0], EVE_ERA[1], "verificado", ["P2022-12-17", 'P2021-03-27'], "RC-569; RC-072; RC-571; RC-405", True),
     ("RC-593", "Mahabharata", TEC_ESC[0], TEC_ESC[1], "verificado", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2023-06-25', 'P2021-05-15', 'P2023-10-14', 'P2022-03-26', 'P2023-12-03', "P2024-06-16"], 'RC-585; RC-586; RC-104; RC-584', True),
     ("RC-594", "Linhagem de Seth", GEN_HUM[0], GEN_HUM[1], "em análise", ['P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2024-09-28', "P2018-12-16", "P2023-08-27", "P2023-02-12"], 'RC-424; RC-490; RC-489; RC-579', True),
@@ -753,7 +753,7 @@ TERMOS = [
     ("RC-608", "Imponderabilidade (campo de estudo dos Seres LM)", COS_LEI[0], COS_LEI[1], "verificado", ["P2021-12-04"], "RC-456; RC-607; RC-472; RC-612", True),
     ("RC-609", "Ogdóade de Hermópolis", GEN_DIV[0], GEN_DIV[1], "em análise", ['P2021-12-04', 'P2026-07-30', 'P2023-12-02', 'P2024-08-03', "P2023-12-25-01"], "RC-104; RC-610; RC-454; RC-092; RC-626; RC-627", True),
     ("RC-610", "Tridevi", GEN_DIV[0], GEN_DIV[1], "em análise", ['P2021-12-04', 'P2026-07-30', 'P2024-07-14'], 'RC-457; RC-458; RC-459; RC-104; RC-609; RC-475; RC-621', True),
-    ("RC-611", "Flechas / Profecias de Moros", EVE_PRO[0], EVE_PRO[1], "em análise", ['P2021-12-04', 'P2025-06-26', 'P2025-02-16', 'P2024-11-30', 'P2024-04-13', 'P2023-12-02', 'P2020-09-19', 'P2021-07-24', 'P2025-07-18'], 'RC-454; RC-092; RC-094; RC-612; RC-663; RC-714; RC-718; RC-395', True),
+    ("RC-611", "Flechas / Profecias de Moros", EVE_PRO[0], EVE_PRO[1], "verificado", ['P2021-12-04', 'P2025-06-26', 'P2025-02-16', 'P2024-11-30', 'P2024-04-13', 'P2023-12-02', 'P2020-09-19', 'P2021-07-24', 'P2025-07-18'], 'RC-454; RC-092; RC-094; RC-612; RC-663; RC-714; RC-718; RC-395', True),
     ("RC-612", "Nova Espiritualidade / Novo Paraíso (Paraíso B)", COS_PRO[0], COS_PRO[1], "verificado", ['P2021-12-04', 'P2024-05-04', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-03-03', 'P2024-04-14', 'P2023-05-13'], 'RC-003; RC-092; RC-009; RC-454; RC-472; RC-616; RC-617; RC-635; RC-709; RC-719; RC-613; RC-529', True),
     ("RC-613", "Trincheira Vibratória no Campo Informativo", PRO_ESP[0], PRO_ESP[1], "verificado", ['P2021-12-04', 'P2024-07-14', 'P2023-12-03'], 'RC-602; RC-600; RC-612', True),
     ("RC-614", "Quarto Cérebro Humano", PRO_BIO[0], PRO_BIO[1], "verificado", ['P2021-12-04', 'P2025-02-16', 'P2025-02-15', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26'], 'RC-615; RC-544; RC-400; RC-619; RC-694; RC-695; RC-709; RC-710; RC-758', True),
