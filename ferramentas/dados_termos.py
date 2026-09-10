@@ -386,7 +386,7 @@ TERMOS = [
     ("RC-279", "Modo Trimurtiano de Sophia", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-009; RC-104; RC-075; RC-094", False),
     ("RC-280", "Sophia e a Ressurreição de Jesus", EVE_MIS[0], EVE_MIS[1], "em análise", ['B014', 'P2025-02-15', 'P2024-11-30', 'P2023-06-03', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2023-12-03', "P2025-05-10", "P2023-12-25-03"], 'RC-009; RC-072; RC-274; RC-094; RC-692; RC-770', True),
     ("RC-281", "Agentes do Quarto Logos", SER_LOG[0], SER_LOG[1], "em análise", ["B014"], "RC-092; RC-252; RC-256; RC-071", True),
-    ("RC-282", "Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências)", TER_GRE[0], TER_GRE[1], 'em análise', ['B014', 'B060', 'B061', 'P2026-04-02', 'P2025-10-25', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2024-03-02', 'P2023-12-02', 'P2021-03-27', 'P2023-09-09', "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-06-26"], 'RC-081; RC-135; RC-009; RC-094; RC-454; RC-104; RC-769; RC-091', True),
+    ("RC-282", "Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências)", TER_GRE[0], TER_GRE[1], "verificado", ['B014', 'B060', 'B061', 'P2026-04-02', 'P2025-10-25', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2024-03-02', 'P2023-12-02', 'P2021-03-27', 'P2023-09-09', "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-06-26"], 'RC-081; RC-135; RC-009; RC-094; RC-454; RC-104; RC-769; RC-091', True),
 
     # ---- Novos termos de B020 (obra primária: O Sorriso de Pandora)
     ("RC-283", "Pandora como Serpente do Éden", EVE_MIS[0], EVE_MIS[1], "verificado", ['B020', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09', 'P2025-02-22', 'P2020-04-25', 'P2022-03-26'], 'RC-086; RC-285; RC-242; RC-189; RC-270; RC-664; RC-697; RC-727; RC-701', True),
@@ -400,8 +400,8 @@ TERMOS = [
     ("RC-291", "Fim do Silêncio de Pandora", EVE_ERA[0], EVE_ERA[1], P, ["B020", "P2020-04-25"], "RC-086; RC-094; RC-071; RC-099", False),
 
     # ---- Novos termos de B021 (obra primária: Tempos Difíceis no Olimpo, 2022)
-    ("RC-292", "Telos (de um deus)", TER_GRE[0], TER_GRE[1], "em análise", ['B021', 'P2024-09-29', 'P2023-05-21'], 'RC-293; RC-145; RC-297; RC-094', True),
-    ("RC-293", "Timé (de um deus)", TER_GRE[0], TER_GRE[1], "em análise", ['B021', 'P2024-09-29', 'P2023-05-21'], 'RC-292; RC-145; RC-294; RC-094; RC-269; RC-736; RC-072', True),
+    ("RC-292", "Telos (de um deus)", TER_GRE[0], TER_GRE[1], "verificado", ['B021', 'P2024-09-29', 'P2023-05-21'], 'RC-293; RC-145; RC-297; RC-094', True),
+    ("RC-293", "Timé (de um deus)", TER_GRE[0], TER_GRE[1], "verificado", ['B021', 'P2024-09-29', 'P2023-05-21'], 'RC-292; RC-145; RC-294; RC-094; RC-269; RC-736; RC-072', True),
     ("RC-294", "Eon de Khaos (Universo de Caos)", LOK_REG[0], LOK_REG[1], "verificado", ['B021', 'P2026-07-30'], "RC-284; RC-106; RC-077; RC-038", True),
     ("RC-295", "Drama do Fechamento dos Portais", EVE_CAT[0], EVE_CAT[1], "em análise", ['B021', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2024-09-29', 'P2023-12-03', "P2022-11-26", "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2021-04-10"], 'RC-296; RC-145; RC-070; RC-106; RC-694; RC-571', True),
     ("RC-296", "Pitonisas e Oráculos (Apolo/Delfos)", COS_ESP[0], COS_ESP[1], P, ["B021", 'P2024-04-13', 'P2023-05-21'], "RC-295; RC-145; RC-099", False),
