@@ -513,7 +513,7 @@
 | RC-781 | pactos-de-jave | Pactos de Javé (Brama / Vishnu / Shiva) |
 | RC-782 | jave-como-caos-personificado | Javé como Caos Personificado |
 | RC-783 | especiacao-humana-levas-geneticas | Especiação Humana — Levas Genéticas |
-| RC-784 | sofia-como-protetorado-da-humanidade | Sofia como Protetorado da Humanidade |
+| RC-784 | sophia-como-protetorado-da-humanidade | Sophia como Protetorado da Humanidade |
 | RC-785 | sequencia-formativa-da-racionalidade-humana | Sequência Formativa da Racionalidade Humana |
 | RC-786 | racionalidade-humana-trucidada | Racionalidade Humana Trucidada |
 | RC-787 | egregora-de-lilith-noreia | Egrégora de Lilith / Noreia (Loop Mental Vivo) |

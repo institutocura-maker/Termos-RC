@@ -43,7 +43,7 @@ Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de confl
 | Homo Sapiens / Seres Terrenos | RC-099 | é-resultado-de |
 | Ser Criador Fracassado | RC-422 | manifesta-se-em |
 | Trimurti | RC-104 | contextualizado-por |
-| Sofia como Protetorado da Humanidade | RC-784 | resposta-a |
+| Sophia como Protetorado da Humanidade | RC-784 | resposta-a |
 
 ## Seres Associados
 - **Javé / Brama** (RC-001) — pactuante 1

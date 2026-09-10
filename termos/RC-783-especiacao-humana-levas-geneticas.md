@@ -77,7 +77,7 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 | Especiação (conceito-mãe) | RC-056 | parte-de |
 | Homo Sapiens / Seres Terrenos | RC-099 | aplica-se-a |
 | Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
-| Sofia como Protetorado | RC-784 | contextualizado-por |
+| Sophia como Protetorado | RC-784 | contextualizado-por |
 
 ## Seres Associados
 - **Sophia / Sofia** (RC-009) — quem vai gerenciar a especiação

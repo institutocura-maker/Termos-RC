@@ -48,4 +48,4 @@ Com isso:
 | Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
 | Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | **sem aresta** em `RELACOES`; arquivo existe |
-| Sofia como Protetorado da Humanidade | RC-784 | **sem aresta** em `RELACOES`; arquivo existe |
+| Sophia como Protetorado da Humanidade | RC-784 | **sem aresta** em `RELACOES`; arquivo existe |
