@@ -751,8 +751,8 @@ TERMOS = [
     ("RC-606", "Protocolos / Algoritmos da Perfeição", COS_LEI[0], COS_LEI[1], "verificado", ['P2021-12-04', 'P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-03-02', 'P2023-04-01b'], 'RC-600; RC-253; RC-060; RC-603; RC-623; RC-624; RC-625', True),
     ("RC-607", "Cinco Seres LM de Tempérion", SER_COL[0], SER_COL[1], "em análise", ["P2021-12-04"], "RC-456; RC-472; RC-087; RC-454; RC-092; RC-608", True),
     ("RC-608", "Imponderabilidade (campo de estudo dos Seres LM)", COS_LEI[0], COS_LEI[1], "verificado", ["P2021-12-04"], "RC-456; RC-607; RC-472; RC-612", True),
-    ("RC-609", "Ogdóade de Hermópolis", GEN_DIV[0], GEN_DIV[1], "em análise", ['P2021-12-04', 'P2026-07-30', 'P2023-12-02', 'P2024-08-03', "P2023-12-25-01"], "RC-104; RC-610; RC-454; RC-092; RC-626; RC-627", True),
-    ("RC-610", "Tridevi", GEN_DIV[0], GEN_DIV[1], "em análise", ['P2021-12-04', 'P2026-07-30', 'P2024-07-14'], 'RC-457; RC-458; RC-459; RC-104; RC-609; RC-475; RC-621', True),
+    ("RC-609", "Ogdóade de Hermópolis", GEN_DIV[0], GEN_DIV[1], "verificado", ['P2021-12-04', 'P2026-07-30', 'P2023-12-02', 'P2024-08-03', "P2023-12-25-01"], "RC-104; RC-610; RC-454; RC-092; RC-626; RC-627", True),
+    ("RC-610", "Tridevi", GEN_DIV[0], GEN_DIV[1], "verificado", ['P2021-12-04', 'P2026-07-30', 'P2024-07-14'], 'RC-457; RC-458; RC-459; RC-104; RC-609; RC-475; RC-621', True),
     ("RC-611", "Flechas / Profecias de Moros", EVE_PRO[0], EVE_PRO[1], "verificado", ['P2021-12-04', 'P2025-06-26', 'P2025-02-16', 'P2024-11-30', 'P2024-04-13', 'P2023-12-02', 'P2020-09-19', 'P2021-07-24', 'P2025-07-18'], 'RC-454; RC-092; RC-094; RC-612; RC-663; RC-714; RC-718; RC-395', True),
     ("RC-612", "Nova Espiritualidade / Novo Paraíso (Paraíso B)", COS_PRO[0], COS_PRO[1], "verificado", ['P2021-12-04', 'P2024-05-04', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-03-03', 'P2024-04-14', 'P2023-05-13'], 'RC-003; RC-092; RC-009; RC-454; RC-472; RC-616; RC-617; RC-635; RC-709; RC-719; RC-613; RC-529', True),
     ("RC-613", "Trincheira Vibratória no Campo Informativo", PRO_ESP[0], PRO_ESP[1], "verificado", ['P2021-12-04', 'P2024-07-14', 'P2023-12-03'], 'RC-602; RC-600; RC-612', True),
@@ -772,7 +772,7 @@ TERMOS = [
     ("RC-624", "Corpo Búdico", COS_DIM[0], COS_DIM[1], "verificado", ['P2026-07-30', 'P2024-05-04', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2024-03-02'], 'RC-204; RC-623; RC-625; RC-606; RC-704; RC-706', True),
     ("RC-625", "Corpo Manásico / Corpo Mental", COS_DIM[0], COS_DIM[1], "em análise", ['P2026-07-30', 'P2024-05-04', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', 'P2024-07-14', 'P2025-06-14b', 'P2024-03-02', 'P2023-12-02', 'P2023-12-03'], 'RC-204; RC-623; RC-624; RC-511; RC-517; RC-691; RC-704; RC-706', True),
     ("RC-626", "Universo TÊNET", LOK_REG[0], LOK_REG[1], "verificado", ["P2026-07-30"], "RC-609; RC-627", True),
-    ("RC-627", "Enéade de Heliópolis", GEN_DIV[0], GEN_DIV[1], "em análise", ["P2026-07-30", 'P2023-12-02'], "RC-609; RC-626", True),
+    ("RC-627", "Enéade de Heliópolis", GEN_DIV[0], GEN_DIV[1], "verificado", ["P2026-07-30", 'P2023-12-02'], "RC-609; RC-626", True),
 
     # ---- P2024-05-04 — Prabrajna em Perpérion / Simultaneidade Reversa
     ("RC-628", "Simultaneidade Reversa", COS_LEI[0], COS_LEI[1], "verificado", ["P2024-05-04"], "RC-167; RC-152; RC-476; RC-559; RC-560; RC-217", True),
@@ -817,7 +817,7 @@ TERMOS = [
     ("RC-661", "Seres Desalmados", SER_DEC[0], SER_DEC[1], "em análise", ["P2025-06-26", "P2025-06-14"], "RC-001; RC-019; RC-050", True),
     ("RC-662", "Agenda do Desespero dos Espíritos", COS_ETI[0], COS_ETI[1], "em análise", ['P2025-06-26', 'P2024-07-13'], 'RC-660; RC-604; RC-620; RC-524; RC-722', True),
     ("RC-663", "Áurea Catena", COS_PRO[0], COS_PRO[1], "em análise", ['P2025-06-26', 'P2023-11-19', 'P2024-11-03'], 'RC-166; RC-094; RC-611; RC-697', True),
-    ("RC-664", "Descendência de Kadru (Nagas, Uragas e Maharagas)", GEN_DIV[0], GEN_DIV[1], "em análise", ['P2025-06-26', 'P2025-02-16', 'P2025-02-22'], 'RC-397; RC-663; RC-696; RC-697; RC-698; RC-700; RC-701; RC-577; RC-687; RC-688; RC-668; RC-670; RC-283', True),
+    ("RC-664", "Descendência de Kadru (Nagas, Uragas e Maharagas)", GEN_DIV[0], GEN_DIV[1], "verificado", ['P2025-06-26', 'P2025-02-16', 'P2025-02-22'], 'RC-397; RC-663; RC-696; RC-697; RC-698; RC-700; RC-701; RC-577; RC-687; RC-688; RC-668; RC-670; RC-283', True),
     ("RC-665", "Orunmilá (Moros de Irém / Orum)", SER_HUM[0], SER_HUM[1], "em análise", ['P2025-06-26', 'P2025-02-15', 'P2024-11-30', 'P2024-09-29', 'P2025-06-14b', 'P2024-09-28', 'P2025-11-29', 'P2025-07-18', "P2026-03-21"], 'RC-454; RC-655; RC-658; RC-718; RC-741', True),
     ("RC-666", "Obatalá (correspondência de Javé em Ifá)", TER_OUT[0], TER_OUT[1], "em análise", ['P2025-06-26', 'P2024-09-29', 'P2025-06-14b', 'P2025-11-29'], 'RC-001; RC-655; RC-665', True),
 
