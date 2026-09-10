@@ -42,7 +42,7 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 ## Ampliação — P2024-08-03
 
 - **[P2024-08-03] O cerne (U0051; U0799):** "o cerne das coisas, na minha opinião, chama-se dignidade"; "nós só podemos construir duas coisas nessa história: pacificação pessoal e senso de dignidade própria"; "só assim você se [liberta] em relação a tudo isso, ainda que continue a fazer parte disso".
-- **[P2024-08-03] O eu digno e o espírito (U1683–U1715):** "você tem dignidade, seu espírito nenhum"; "o espírito não tem a sensação de dignidade... ele foi criado para fazer o jogo sujo de preparar corpos dentro do aquário"; "se você sai com o eu digno [STT: 'eu de Tat digno' — REVISAR], o espírito que lhe anima é totalmente submisso a você"; "o espírito assume a face da experiência humana... por karma negativo ou por reconhecimento meritório"; "o espírito não evolui por ele mesmo, ele evolui através das experiências que ele provoca no aquário".
+- **[P2024-08-03] O eu digno e o espírito (U1683–U1715):** "você tem dignidade, seu espírito nenhum"; "o espírito não tem a sensação de dignidade... ele foi criado para fazer o jogo sujo de preparar corpos dentro do aquário"; “se você sai com o eu digno [STT: “eu de Tat digno” — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota], o espírito que lhe anima é totalmente submisso a você"; "o espírito assume a face da experiência humana... por karma negativo ou por reconhecimento meritório"; "o espírito não evolui por ele mesmo, ele evolui através das experiências que ele provoca no aquário".
 
 
 ## Ampliação — P2024-07-14
@@ -104,3 +104,6 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **[P2025-07-18 · U00009–U00017]** A palestra contrapõe obediência cega e liberdade de consciência e afirma que uma sensação digna, quando acompanhada por resoluções e conduta, pode interromper a repetição de um roteiro. A dignidade é apresentada como critério prático de transformação do presente.
 - **Cruzamento aprovado:** rito de passagem, quatro usos do presente e ato de verdade ficam como notas pedagógicas transversais em RC-619, RC-705 e RC-722.
 - **Quarentena:** não transformar o vocabulário de “doença”, “genoma”, carma ou espírito em diagnóstico, psicologia clínica ou instrução de saúde.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[eu de Tat digno]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax.

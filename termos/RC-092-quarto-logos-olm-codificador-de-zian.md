@@ -53,7 +53,7 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 ## Ampliação — P2025-06-26
 
-- **[P2025-06-26 — FONTE ORIGINAL] Olm e a vida biológica (pergunta 5):** "o quarto logos só mergulhou quando a vida biológica surgiu"; "o quarto logos só começou, entre aspas, a operar depois que a vida biológica surgiu, depois do plano de [Morphia? REVISAR — STT] junto com Sophia"; "o quarto logos muitas vezes pode atuar como essa mão invisível [que o grupo comenta]" [contexto do grupo; a resposta do autor não confirma a participação na Áurea Catena].
+- **[P2025-06-26 — FONTE ORIGINAL] Olm e a vida biológica (pergunta 5):** "o quarto logos só mergulhou quando a vida biológica surgiu"; "o quarto logos só começou, entre aspas, a operar depois que a vida biológica surgiu, depois do plano de [Morphia? REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax; hipótese registrada) — ver nota] — STT] junto com Sophia"; "o quarto logos muitas vezes pode atuar como essa mão invisível [que o grupo comenta]" [contexto do grupo; a resposta do autor não confirma a participação na Áurea Catena].
 
 
 ## Ampliação — B014 (Sophia e o Logos Criadores)
@@ -274,3 +274,6 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 ## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
 
 - **CHANCELA — TENSÃO INSOLÚVEL (l. 51), com correção de evidência.** O despacho determinara registrar «o silêncio do B050 sobre Olm»; a verificação de execução achou menção parcial: B050 original.txt l. 87, verbatim: «[ 5,000,000,000 a.p.] (trilha A, y=545) Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)» — o mapa corrobora o piso de 6 bi para a vinda do Codificador de Zion (Olm), dentro da faixa da curadoria 2025 («6 a 7 bilhões»). A tensão de molduras, porém, não se resolve: P2020-07-11 («ficou fora 5–6 bilhões de anos… só quando estabelecida a estratégia [mergulhou]») e P2025-06-26 (l. 56 desta ficha: «o quarto logos só mergulhou quando a vida biológica surgiu») não cabem numa leitura única de «surgir» vs. «assessorar». Chancela lavrada nos termos do despacho; a citação da l. 51 fica como está.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Morphia]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese registrada, sem paralelo.

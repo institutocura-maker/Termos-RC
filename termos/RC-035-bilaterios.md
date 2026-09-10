@@ -9,7 +9,7 @@
 
 ## Definição Sintética
 
-A Base cataloga **Bilatérios** como classe de seres em estágio de transição (Seres & Entidades / 1.7), e não como termo anatômico: é o cadastro quem assim o classifica, e a ficha não reinterpreta a classificação. O que a fonte oral de 03/12/2023 acrescenta é um uso — a afirmação, no meio de um raciocínio sobre cérebros, de que o modelo humano seria bilatério. Fica registrado com endereço. A tensão entre o uso da fala (atributo de cérebro) e a categoria do cadastro (classe de seres) é declarada `[REVISAR]`, não resolvida.
+A Base cataloga **Bilatérios** como classe de seres em estágio de transição (Seres & Entidades / 1.7), e não como termo anatômico: é o cadastro quem assim o classifica, e a ficha não reinterpreta a classificação. O que a fonte oral de 03/12/2023 acrescenta é um uso — a afirmação, no meio de um raciocínio sobre cérebros, de que o modelo humano seria bilatério. Fica registrado com endereço. A tensão entre o uso da fala (atributo de cérebro) e a categoria do cadastro (classe de seres) é declarada `[REVISAR → CHANCELA 10/09/2026 · F040-L5: TENSÃO REGISTRADA (uso da fala × categoria do cadastro; não fundir) — ver nota]`, não resolvida.
 
 ## Contexto / Origem
 
@@ -65,3 +65,6 @@ Com isso:
 
 ## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
 - **Q-F040-A · ENCERRADO-RATIFICADO:** a política da ficha — «A divergência é registrada, não costurada» — fica ratificada por ato do curador (06/09/2026). Bilatérios permanecem classe de seres no cadastro; o uso cerebral da fala de 03/12/2023 vive como registro de fonte. Obsolescência anatômica continua endereçada a RC-631/RC-632 (D-7). A flag de l. 12 era menção entreaspas e não entrou no censo vivo.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[tensão uso×categoria]: chancelada TENSÃO REGISTRADA (F040-L5).** Atributo de cérebro (fala) × classe de seres (cadastro); não fundir.

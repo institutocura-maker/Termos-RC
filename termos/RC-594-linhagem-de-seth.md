@@ -20,7 +20,7 @@ A palestra situa Seth entre Caim e os patriarcas Enos, Cainã, Jared e Enoque, d
 
 ## Ampliação — P2022-12-17
 
-- **[P2022-12-17 — FONTE ORIGINAL] A linhagem de Seth (U0730–U0750):** "a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; aí Caim, que foi o segundo filho de Adão e Eva, matou Abel"; "depois surge Seth, um terceiro filho, que... não quis seguir o mesmo amor por Javé que Adão tinha"; "Adão viveu 930 anos... Seth 105 [912? — REVISAR]"; "essas figuras não estavam nascendo [em lugares diferentes], era no mesmo lugar... entre o Mar Negro e o Mar Cáspio, porque era dali que Javé iria transformar aquilo tudo num super império"; "somente quando chegou os tempos de Cainã é que finalmente a descendência de Adão, Seth, Enos... começaram a homenagear Javé através de sacrifícios, cultos".
+- **[P2022-12-17 — FONTE ORIGINAL] A linhagem de Seth (U0730–U0750):** "a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; aí Caim, que foi o segundo filho de Adão e Eva, matou Abel"; "depois surge Seth, um terceiro filho, que... não quis seguir o mesmo amor por Javé que Adão tinha"; “Adão viveu 930 anos... Seth 105 [912? — REVISAR → RESOLVIDO 10/09/2026 · F043-L5: 912 ANOS, confirmado externamente (Gen 5:8; STT “105” preservado como falado) — ver nota]”; "essas figuras não estavam nascendo [em lugares diferentes], era no mesmo lugar... entre o Mar Negro e o Mar Cáspio, porque era dali que Javé iria transformar aquilo tudo num super império"; "somente quando chegou os tempos de Cainã é que finalmente a descendência de Adão, Seth, Enos... começaram a homenagear Javé através de sacrifícios, cultos".
 
 ## Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)
 
@@ -74,3 +74,6 @@ Modelagem coletiva escolhida pelo curador para simplificar a ontologia e prepara
 - **Linhas carimbadas do lote:** ll. 23 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Seth 105/912]: RESOLVIDA (F043-L5).** Gen 5:8: Seth viveu 912 anos; STT “105” preservado como falado.

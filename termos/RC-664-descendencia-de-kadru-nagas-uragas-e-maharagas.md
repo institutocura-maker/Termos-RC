@@ -71,7 +71,7 @@ Seus descendentes teriam atravessado os portais para procurá-la. As duas possib
 A forma STT `Satia` é provavelmente Satyabhama, esposa de Krishna. A identidade Kadru–Satyabhama não está validada e **não foi incorporada como relação canônica**.
 
 ### Sarpa Satra
-O episódio de serpentes atraídas ao fogo é provavelmente o Sarpa Satra/Sarpa Yajna do Mahabharata. A equivalência permanece `[REVISAR]` até confirmação do áudio.
+O episódio de serpentes atraídas ao fogo é provavelmente o Sarpa Satra/Sarpa Yajna do Mahabharata. A equivalência permanece `[REVISAR → RESOLVIDO 10/09/2026 · F043-L5: EQUIVALÊNCIA CONFIRMADA NA FONTE EXTERNA (sacrifício das serpentes de Janamejaya, Adi Parvan); a forma exata da fala aguarda áudio — ver nota]` até confirmação do áudio.
 
 ### Circuito reencarnatório da Índia
 A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circuito reencarnatório fechado. Mantido como dado atribuído, sem código próprio.
@@ -136,3 +136,6 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 - Imagens serpentinas em experiências com enteógenos não comprovam contato objetivo com Nagas.
 - Genealogias biológicas, extraterrestres e humanas aqui registradas são Teologia Comparada de Ellam.
 - Não usar alegações da plateia sobre vigilância como evidência desta ficha.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Sarpa Satra]: RESOLVIDA-parcial (F043-L5).** Equivalência confirmada na fonte externa (Mahabharata, Adi Parvan: sarpa-satra de Janamejaya); a forma exata da fala aguarda áudio.

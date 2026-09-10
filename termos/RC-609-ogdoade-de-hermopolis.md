@@ -20,7 +20,7 @@ Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à
 
 ## Ampliação — P2024-08-03
 
-- **[P2024-08-03] A Ogdóade na fala (U1463–U1475):** "o quarto logos... você só vai compreender quem ele é se a gente for estudar a Ogdóade, que é uma expressão que existe em uma das quatro mitologias egípcias, os oito deuses criadores"; "na Ogdóade é dito que os três seres que hoje a gente chama de Trimurti... com suas respectivas consortes... Saraswati, Parvati... compõem seis seres e mais dois outros chamados Elm e Ol"; "todos esses processos faliram à exceção do criado por Elm/Olm" [STT: "Elmorus" — REVISAR].
+- **[P2024-08-03] A Ogdóade na fala (U1463–U1475):** "o quarto logos... você só vai compreender quem ele é se a gente for estudar a Ogdóade, que é uma expressão que existe em uma das quatro mitologias egípcias, os oito deuses criadores"; "na Ogdóade é dito que os três seres que hoje a gente chama de Trimurti... com suas respectivas consortes... Saraswati, Parvati... compõem seis seres e mais dois outros chamados Elm e Ol"; "todos esses processos faliram à exceção do criado por Elm/Olm" [STT: “Elmorus” — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (uso coerente: paralelo em RC-454; canônico Elm/Olm mantido) — ver nota].
 
 
 ## Ampliação — P2020-07-11
@@ -71,7 +71,11 @@ Correspondência específica das RC, não apresentação geral da egiptologia.
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Leitura de Thot — oito princípios divinos:** "na cabeça de Thot, esses oito seres eram oito princípios divinos" — a ogdóade como princípios de gênese, não deuses;
-- **Avaliação por par:** Brahma/Sarasvati ("processo de Brama fracassou a tal ponto que ele colapsou"); Vishnu/Lakshmi ("funcionou até um tempo"); Shiva/Parvati (reciclagem, entropia, força tamasica — "funciona até o fim"); **Rem e Renete** (prov. Renenutet — `[REVISAR]`): "o único processo que está em curso", ligado a Moros (RC-454);
+- **Avaliação por par:** Brahma/Sarasvati ("processo de Brama fracassou a tal ponto que ele colapsou"); Vishnu/Lakshmi ("funcionou até um tempo"); Shiva/Parvati (reciclagem, entropia, força tamasica — "funciona até o fim"); **Rem e Renete** (prov. Renenutet — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (“Rem e Renete” paralelo em RC-454, sem flag; equivalência Renenutet não confirmada) — ver nota]`): "o único processo que está em curso", ligado a Moros (RC-454);
 - **Rama/Lakshmi:** Ramayana; Ravana (RC-582) rouba Sita; honra dharmica; exílio de Sita; colapso na Tridevi (leitura do autor);
 - **Krishna (RC-414):** desdobramento dos oito princípios — "avatar quechada" [STT] de DNA misto (nova aresta RC-609 ↔ RC-414);
 - "A mitologia de Hermópolis nunca foi compreendida pelos seres humanos, na verdade nem por Thot. Ele apenas registrou os nomes."
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Elmorus]: chancelada AGUARDA-ÁUDIO (F039-L5).** Uso coerente (paralelo em RC-454); canônico Elm/Olm mantido.
+- **[Rem e Renete/Renenutet]: chancelada AGUARDA-ÁUDIO (F039-L5).** “Rem e Renete” paralelo em RC-454 (sem flag); equivalência à Renenutet egípcia não confirmada no corpus.

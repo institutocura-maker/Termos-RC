@@ -15,7 +15,7 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 
 ## Etimologia / Grafias
 - Grafia preferida: Espiritualidade Superior
-- Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR])
+- Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR → CHANCELA 10/09/2026 · F040-L5: APROXIMAÇÃO DECLARADA E MANTIDA — ver nota])
 - Uso na Base: nível 1 de 3 (Superior → Operacional → Laboratorial)
 
 ## Fontes
@@ -47,3 +47,6 @@ Nível de referência de toda a cosmografia da RC — eixo do Volume II da Encic
 F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
 (Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
 leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Pleroma]: chancelada APROXIMAÇÃO DECLARADA (F040-L5).** Correspondência aproximada, sem promoção a equivalência.

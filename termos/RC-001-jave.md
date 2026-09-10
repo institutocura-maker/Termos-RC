@@ -31,7 +31,7 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 
 - **Colapso do corpo em 2021 (P2024-02-25):** 'o corpo de Javé ou do Brahma Parameshthi... não entrou em coma, ele colapsou'; o eu dele continua existindo, voltou a ser parasitário, atrás de um corpo.
 - **Última aposta no ser humano:** 'a última aposta que o tal eu do criador caído tinha ainda balas... para poder semear num ser humano'.
-- **Não soube usar a ressonância humana:** 'não soube aproveitar o fenômeno da ressonância [bôson — REVISAR]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas'.
+- **Não soube usar a ressonância humana:** 'não soube aproveitar o fenômeno da ressonância [bôson — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (leitura editorial preservada; RC-001×RC-561, mesma fala) — ver nota]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas'.
 
 
 ## Ampliação — P2021-01-23
@@ -324,7 +324,7 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **Modelo Polvo (absorção NT-BR03, decisão do curador):** Javé como **consciência distribuída** — "e se existir um tipo de consciência cujas conexões neurais... estejam distribuídas por vários cérebros... cada cérebro aqui não é o cérebro de uma pessoa, é tão somente um processador de informações em rede com outros cérebros". A analogia terrestre citada é o polvo: "ele tem uma cabeça lá, mas ele tem nove cérebros e três corações". O Modelo Polvo foi absorvido aqui e em RC-604 — sem termo autônomo;
 - **Demência ancestral:** seção 3.5 — "O Espírito de Javé e a Condição de 'Demência Ancestral' do Criador" (ver RC-717 Buraco Negro Mental);
 - **Podridão / ladrões / necrófagos:** "Todo mundo aqui dentro é ladrão. Todo mundo aqui dentro é, além de ladrão, necrófago... Ele apodreceu e, para continuar a existir, ele tinha que continuar a existir podre. E podre ele é até hoje. E tudo que ele pôde fazer foi diminuir o nível de podridão" — a criação como o "retrato" do criador;
-- **Ciclos de coma:** seções 4.4 e 9.1 — "Os Ciclos de 'Coma' de Javé e a Urgência da Intervenção Humana"; "O Ciclo de Javé: De 'Coma' a Busca por Redenção" (cronologia interna; o colapso de 2021 não é citado aqui — `[REVISAR]`);
+- **Ciclos de coma:** seções 4.4 e 9.1 — "Os Ciclos de 'Coma' de Javé e a Urgência da Intervenção Humana"; "O Ciclo de Javé: De 'Coma' a Busca por Redenção" (cronologia interna; o colapso de 2021 não é citado aqui — `[REVISAR → CHANCELA 10/09/2026 · F037-L5: AGUARDA-EVIDÊNCIA (ausência documentada) — ver nota]`);
 - **Humanidade salva-criador:** "pra gente inverter tudo que foi ensinado até hoje, dizendo: 'Ei, tá tudo errado...'" — a humanidade como quem resgata o criador caído, invertendo a narrativa da salvação (seção 4.2).
 
 ### Blindagem — metáfora biológica
@@ -490,3 +490,7 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 
 **Trecho verbatim:** «Uma curiosidade, você falou que o Javé em 2021 implodiu o corpo dele, né, que nem os anjos sabem como é que ressuscita o corpo e o eu dele. O eu dele implodiu, mas não deixou desistir. O corpo deixou o corpo. Eu queria saber de que que esse corpo foi formado. Plasma. Plasma é esse tipo de coisa que a gente vê nas estrelas. Plasma é um estado da matéria comum ao universo paralelo ao nosso, formado por antimatéria.»
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[bôson] (ressonância): chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-561 (mesma fala); a palavra após “ressonância” segue ilegível no STT.
+- **[colapso de 2021] (ciclos de coma): chancelada AGUARDA-EVIDÊNCIA (F037-L5).** Ausência documentada; nada a resolver até fonte que cite.

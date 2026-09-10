@@ -49,7 +49,7 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
   no `original.txt` de 2023 a forma `CFD` tem **0 ocorrências**, e o que se ouve é a expressão por extenso
   (`código fonte definidor`, 2×, sempre seguida de `do criador`).
 - **Na fonte oral (P2023-12-03):** o STT grafa `padroes arquétipos` e degrada o nome de Javé para `Javer` na
-  segunda ocorrência. `[REVISAR]` — as formas entram como vieram, sem emenda.
+  segunda ocorrência. `[REVISAR → CHANCELA 10/09/2026 · F039-L5: FORMAS PRESERVADAS COMO VIERAM (decisão registrada) — ver nota]` — as formas entram como vieram, sem emenda.
 - **Vetado** (devolutiva de 29/08/2026, D-4/D-5): nenhuma máscara do STT entra nesta ficha, e a frase que associa o
   CFD ao «criador» não é lida como negação de Deus — a cláusula «desloca o título de Deus do criador da obra» mora
   em `RC-001`/`RC-042`/`RC-742`, onde o despacho a exigiu.
@@ -104,3 +104,6 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 - **Selos do lote:** ll. 95 → ENCERRADO-RATIFICADO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
 - **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[padroes/Javer]: chancelada FORMAS PRESERVADAS (F039-L5).** Decisão já registrada na ficha; sem emenda.

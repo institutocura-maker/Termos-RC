@@ -28,7 +28,7 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 
 ## Ampliação — P2024-11-09
 
-- **A memória dos elétrons (P2024-11-09):** "quem descobriu isso foi Charon [STT — REVISAR], físico nuclear francês, que descobriu que as menores partículas dessa criação — o elétron — ele memoriza tudo"; o pernil/ovelha/rocha (memória eletrônica); "o elétron não morre nunca"; "nada se cria, nada se perde na natureza, mas tudo se transforma. O que é que se transforma aqui? A memória dos elétrons. Esses são os famosos registros acásicos".
+- **A memória dos elétrons (P2024-11-09):** "quem descobriu isso foi Charon [STT — REVISAR → RESOLVIDO 10/09/2026 · F043-L5: Jean-Émile Charon, confirmado externamente (ver RC-160) — ver nota], físico nuclear francês, que descobriu que as menores partículas dessa criação — o elétron — ele memoriza tudo"; o pernil/ovelha/rocha (memória eletrônica); "o elétron não morre nunca"; "nada se cria, nada se perde na natureza, mas tudo se transforma. O que é que se transforma aqui? A memória dos elétrons. Esses são os famosos registros acásicos".
 - **Corante/bacia:** "o nosso universo é uma bacia bem grande... cheio de um oceano de elétrons"; "do jeito que a água da bacia vai ficando toda azul devido a uma informação nova, quando qualquer nova informação é produzida aqui, instantaneamente ela chega".
 
 
@@ -123,3 +123,6 @@ A palestra atribui aos elétrons memória de sofrimento, preferências e comunic
 - **Linhas carimbadas do lote:** ll. 119 (B5b).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Charon]: RESOLVIDA (F043-L5).** Jean-Émile Charon, confirmado externamente (ver RC-160).

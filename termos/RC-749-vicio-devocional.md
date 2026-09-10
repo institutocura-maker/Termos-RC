@@ -56,7 +56,7 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 - **Crítica à devoção (Krishna):** "ser devoto é você não usar a mente, não usar seus potenciais... e ficar cantando o dia inteiro";
 - **Avatares para engrandecimento:** "Krishna foi o único avatar que começou a produzir avatares dele mesmo para engrandecê-lo. E o senhor Chaitanya foi Krishna feito ser humano para ensinar os humanos a passar o dia inteiro: Hare Krishna, Hare Krishna...";
 - **Devotos "fáceis de manipular":** "são seres humanos puros, devotos, facílimos de serem manipulados. Exatamente porque na sua genética tem a menor malícia, tá tudo bloqueado";
-- **Choque com Moros:** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros" (`[REVISAR]`);
+- **Choque com Moros:** "há um choque de metodologia na maneira como Krishna pretende resolver os problemas acumulados do universo e o que está em curso promovido por Hen-Orl ou Moros” (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (paralelo em RC-454; hipótese Orlog/Hen-Orl) — ver nota]`);
 - **Sai Baba:** "a Revelação Cósmica vai se encontrar com a revelação de Krishna via Sathya Sai Baba, que já renasceu, que é a continuação do Sai Baba, que é um avatar gerado por Cristo" — leitura do autor (Teologia Comparada; quarentena).
 
 ---
@@ -78,3 +78,6 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 
 **Trecho verbatim:** «Mas se você um fardo de certezas e verdades e presta contas a esses fardos, a essas bagagens de conceitos terríveis que cada um de nós coleciona. O peso dessa prestação de contas chama-se religião nos termos em que nós conhecemos. E a coisa mais falsa que já foi inventada como narrativa ou de um ser maluco, ou de um ser maldoso, ou de um ser que inventou isso em cima de fatos que efetivamente aconteceram, mas foram por ele distorcidos.»
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Hen-Orl]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-454.

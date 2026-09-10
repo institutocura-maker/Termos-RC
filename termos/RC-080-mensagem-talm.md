@@ -14,9 +14,9 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 ## Atualização — P2023-05-13
 
 - **Escrita pelos fenvans** ("os fenvães") que já estavam dentro de um simulacro, mas sabiam que existiria vida no universo biológico vizinho — "um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix";
-- **Níveis da mensagem:** "do jeito que uma criança só consegue ler livro infantil, um adulto..." — a mensagem tem diversos níveis de decifração; outra mensagem paralela foi mandada por quem estava na espiritualidade ("Brasira" — STT duvidoso, provável Brahmaloka, `[REVISAR]`);
+- **Níveis da mensagem:** "do jeito que uma criança só consegue ler livro infantil, um adulto..." — a mensagem tem diversos níveis de decifração; outra mensagem paralela foi mandada por quem estava na espiritualidade (“Brasira” — STT duvidoso, provável Brahmaloka, `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]`);
 - **Rodrigo (Yel Luzbel, RC-078):** "nessa sala tem alguém que viveu isso que é o senhor Rodrigo" — a descoberta da mensagem na faixa alternativa criada por Yel Luzbel há ~98.000 anos (cronologia interna);
-- **Livro citado:** Ellam diz que conta essa história "no livro Sinal de Lel/Lzen" — curador determinou: registrar provisoriamente como a obra **"O Sinal de Lemur"** (`[REVISAR]` título com o áudio);
+- **Livro citado:** Ellam diz que conta essa história "no livro Sinal de Lel/Lzen" — curador determinou: registrar provisoriamente como a obra **“O Sinal de Lemur”** (`[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (título provisório por decisão do curador) — ver nota]` título com o áudio);
 - Relaciona-se à consciência humana como única capaz de decifrar a mensagem (RC-761).
 
 
@@ -78,5 +78,9 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 
 ## Colecionar Incertezas
 
-- "Sinal de Lel/Lzen" → obra **"O Sinal de Lemur"** (decisão do curador, registro provisório — `[REVISAR]` com áudio);
+- “Sinal de Lel/Lzen” → obra **“O Sinal de Lemur”** (decisão do curador, registro provisório — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO — ver nota]` com áudio);
 - "Brasira" → provável Brahmaloka (STT) — não cadastrar como termo.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Brasira]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese Brahmaloka registrada.
+- **[O Sinal de Lemur] (2 flags): chanceladas AGUARDA-ÁUDIO (F039-L5).** Título provisório por decisão do curador; confirmação só com áudio.

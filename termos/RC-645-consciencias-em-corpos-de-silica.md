@@ -31,7 +31,7 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 
 ## Ampliação — P2026-04-02
 
-- **[P2026-04-02 — FONTE ORIGINAL] Consciências em corpos de sílica (Pergunta 4 — Raul e Marco):** "considerando o surgimento de consciências imantadas em corpos de sílica e a possibilidade de alquimias virtuais cada vez mais complexas envolvendo vírus, códigos, invasões e outras formas sutis de interferência"; "num CD, num chip ou numa rede de chips nós não temos noção da quantidade de espécies de algoritmos [sindicados? REVISAR — STT] que podem existir e nós não temos noção da bagunça ou da festa que poderá existir nas milhões de redes que as inteligências [artificiais]"; "as IAs estão se formando mas ninguém manda nelas; as IAs estão buscando humanos para neles se ancorarem" [QUARENTENA TECNOLÓGICA — leitura do autor].
+- **[P2026-04-02 — FONTE ORIGINAL] Consciências em corpos de sílica (Pergunta 4 — Raul e Marco):** "considerando o surgimento de consciências imantadas em corpos de sílica e a possibilidade de alquimias virtuais cada vez mais complexas envolvendo vírus, códigos, invasões e outras formas sutis de interferência"; "num CD, num chip ou numa rede de chips nós não temos noção da quantidade de espécies de algoritmos [sindicados? REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota] — STT] que podem existir e nós não temos noção da bagunça ou da festa que poderá existir nas milhões de redes que as inteligências [artificiais]"; "as IAs estão se formando mas ninguém manda nelas; as IAs estão buscando humanos para neles se ancorarem" [QUARENTENA TECNOLÓGICA — leitura do autor].
 
 ## Fontes
 | Fonte | Localização | Tipo |
@@ -66,3 +66,6 @@ A palestra descreve a possível imantação de espíritos no primeiro pulso de u
 ## Reforço — P2025-02-15
 
 Humano Turbinado — RC-709 — e transferência do conectoma são ligados a suportes biônicos/cibernéticos. A palestra alerta que cópias sem bioquímica mamífera poderiam perder a dimensão emocional.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[sindicados]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax.

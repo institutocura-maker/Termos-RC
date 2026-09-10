@@ -67,7 +67,10 @@ Descrições biográficas (140–150 mil anos; nascimento; descendência) são *
 
 ## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres)
 
-- **Tot inventou o alfabeto:** diálogo com o faraó (~4.261 a.C. [STT — `[REVISAR]`]): "Tot entra na sala do faraó e diz: 'Faraó, tive uma ideia... estou inventando um método de representar em símbolos os sons que as nossas bocas expressam'";
+- **Tot inventou o alfabeto:** diálogo com o faraó (~4.261 a.C. [STT — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (data STT como falada) — ver nota]`]): "Tot entra na sala do faraó e diz: 'Faraó, tive uma ideia... estou inventando um método de representar em símbolos os sons que as nossas bocas expressam'";
 - **Faraó relutante:** "a gente vai se desacostumar a memorizar tudo e a nossa mente vai ficar indolente, preguiçosa... faraó, quando a gente morre, a gente leva o conhecimento, a gente precisa encontrar uma maneira de deixar isso aqui pros [pósteros]";
 - **Nova aresta RC-463 ↔ RC-655** (Hermes/Thot ~ Revelação de Ifá — a escrita como registro do conhecimento);
 - "Nós, os humanos modernos, só conseguimos criar a escrita em algumas línguas nos últimos 4.000 anos" (leitura do autor).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[4.261 a.C.]: chancelada AGUARDA-ÁUDIO (F039-L5).** Data STT como falada.

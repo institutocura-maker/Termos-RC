@@ -18,7 +18,7 @@ A forma canônica aprovada é:
 “Podridão” é a interpretação humana usada na palestra para explicar o conteúdo medido; não integra necessariamente a expansão da sigla. O eBook de IA alterna formas e não decide a questão.
 
 ## Contexto / Origem
-Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR]` teria relacionado genoma e necessidades derivadas desse peso. Wyrd organizaria o retorno das informações ao emissor.
+Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (ver Ananque, RC-777, grafia consagrada; STT nunca renomeado por conveniência) — ver nota]` teria relacionado genoma e necessidades derivadas desse peso. Wyrd organizaria o retorno das informações ao emissor.
 
 
 ## Ampliação — P2024-11-30
@@ -58,3 +58,6 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR]` teria relaci
 ## Observações
 - Anankê permanece em quarentena.
 - PIA não é medida científica reconhecida.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Anank/Anankê]: chancelada AGUARDA-ÁUDIO (F039-L5).** Ver Ananque (RC-777, grafia consagrada); forma preservada (STT nunca renomeado por conveniência).

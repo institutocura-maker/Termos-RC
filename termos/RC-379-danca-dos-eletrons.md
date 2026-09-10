@@ -22,7 +22,7 @@ O cap. 7 de B041 (2018) detalha a dança: quarks e léptons (primeiras partícul
 
 - **[B041 p. 46]** cap. 7: a “dança” — “quando um elétron salta de uma órbita para outra ou quando ele desaparece de uma órbita e aparece em outra” — é responsável pela tabela periódica; “cria e modifica a forma material das coisas e dos corpos dos seres vivos”. Quantidade de elétrons = a mesma desde o início (conservação: “nada se perde, nada se cria, tudo se transforma”).
 - **[B041 p. 46]** Charon, físico nuclear francês, “percebeu que os elétrons… têm memória quântica infinita” — **referência externa**; **não ontologizar**.
-- **[B041 p. 47]** comunicação instantânea e não-local entre todos os elétrons — **quarentena científica**. “já existem há 13,8 milhões de anos” no mesmo livro que usa 13,8 bilhões → **`[REVISAR]`**. RC-162 permanece **sem ficha**. Sem fusão com B024.
+- **[B041 p. 47]** comunicação instantânea e não-local entre todos os elétrons — **quarentena científica**. “já existem há 13,8 milhões de anos” no mesmo livro que usa 13,8 bilhões → **`[REVISAR → CHANCELA 10/09/2026 · F040-L5: CONTRADIÇÃO INTRA-OBRA REGISTRADA (não fundir) — ver nota]`**. RC-162 permanece **sem ficha**. Sem fusão com B024.
 
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
@@ -46,3 +46,6 @@ Charon (físico nuclear francês); Criador (RC-041).
 
 ## Observações
 Ficha baseada em B041 (obra primária). A dança dos elétrons é a "física" por trás da criação material — conecta a ciência à cosmologia RC.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[13,8 mi × bi]: chancelada CONTRADIÇÃO REGISTRADA (F040-L5).** Intra-obra; não fundir.

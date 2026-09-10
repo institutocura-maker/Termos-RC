@@ -32,7 +32,7 @@ A obra B041 (2018) desenvolve o tema: os elétrons, "sujados" pela violência im
 - **[B041 p. 131–132]** cap. 17: “movimento inconsciente de ‘rebelião íntima’ no âmbito dos elétrons”. Primeira etapa (reverter o caos dos “deuses primordiais”): Moros (grafia do extract: “Morus”), Ananke, Mohen So, Odin, Kvasir, Têmis. Segunda etapa (ponto de inflexão): Yel Luzbel, famílias rebeldes, Ostronomos, Pandora, Dionísio, Pirra, Eva. Sem materializar novos nós.
 - **[B041 p. 147]** cap. 21: “os elétrons não suportam mais receber marcação deletéria”; vivem como se estivessem “enjoados” ou “enojados” — analogia médico/paciente. O descompasso de sexo (psiquismo × genoma) = **quarentena clínica** (leitura, jamais diagnóstico).
 - **[B041 p. 156–157]** cap. 22: “foi e é o único padrão modificador do Código de Vida Pessoal do Criador (ou seja, do CFDP), daí o título do presente livro”. Para Javé, significa “rendição psíquica” — abrir mão da gestão dos “pedaços desagregados de si mesmo”. Ressonância mórfica entre antielétrons e elétrons = “principal agente” — Sheldrake = **referência externa**; RC-381 permanece **sem ficha**.
-- **[B041 p. 157–158]** nova egrégora: a Trimurti e a egrégora-corpo de Javé “se desfizeram”; Javé “feito um bebê” ligado a outra, “só que mais consciente”, mantida pelas mentes da Revelação Cósmica. “Ohm” (p. 158) = variação de **Olm** — `[REVISAR]`; não criar código. Remissão ao Quarto Logos (B016) = **não fundir**. IEEA / Orbum **fora**.
+- **[B041 p. 157–158]** nova egrégora: a Trimurti e a egrégora-corpo de Javé “se desfizeram”; Javé “feito um bebê” ligado a outra, “só que mais consciente”, mantida pelas mentes da Revelação Cósmica. “Ohm” (p. 158) = variação de **Olm** — `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Ohm” é grafia IMPRESSA de B041 (“Quarto Logos (Ohm)”); variação registrada, não fundida — ver nota]`; não criar código. Remissão ao Quarto Logos (B016) = **não fundir**. IEEA / Orbum **fora**.
 
 
 ## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
@@ -125,3 +125,6 @@ A hipótese sobre reprodução, orientação sexual e identidade de gênero perm
 
 ## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
 - **Q-F040-C · CHANCELA DADO-NARRATIVO:** «acabou em fevereiro desse ano [2025]» — a âncora [2025] da própria linha é o registro; nenhum código de data novo é criado, a cronologia oficial não é tocada.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Ohm]: RESOLVIDA (F038-L5).** “Ohm” é grafia impressa de B041 (“Quarto Logos (Ohm)”); variação de Olm registrada, sem código novo.

@@ -22,7 +22,7 @@ Episódio mítico hindu no qual Devas e Asuras cooperam no batimento do oceano d
 
 ## Pontos não harmonizados
 
-O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR]`; não foram completados por fontes externas dentro da transcrição.
+O STT alterna ou deforma nomes e funções. A identificação exata da serpente, o papel de Kurma/Vishnu e a enumeração completa dos produtos do batimento permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCOMPLETUDE REGISTRADA (não completado por fontes externas) — ver nota]`; não foram completados por fontes externas dentro da transcrição.
 
 
 ## Ampliação — P2023-04-30 (O Senhor Krishna e as Expressões do Ser)
@@ -62,3 +62,6 @@ O episódio pertence à mitologia e às tradições religiosas hindus. As equiva
 - **[P2024-08-03] AE-FD05 — U0324–U0334; U0637–U0640:** Registra Samudra Manthana como resposta narrativa à dor/falência das descendências e amrita como alívio escasso, segundo Ellam. A relação já vigente entre os registros não é duplicada semanticamente.
 - **[P2024-08-03] O recurso desesperado (U0324–U0333):** Brama e descendentes "perceberam que estavam falidos... doía tudo e ninguém conseguia produzir nada de remédio"; "no hinduísmo surge a notícia do samudra manthã, que foi algo desesperador": uma super serpente batendo num líquido do universo vizinho "do jeito que você bate no leite para fazer manteiga"; daí surgiu o amrita, "um tipo de elixir que aplacava a dor de todas as espécies"; "assim que esse pouco de remédio surgiu, todas essas espécies começaram a brigar porque o remédio não dava para todo mundo".
 - **[P2024-08-03] A escada dos produtos (U0637–U0650):** "o motivo das guerras descritas nas mitologias é a disputa por essas novidades"; o amrita foi um dos produtos; "o último produto e ainda disputadíssimo é o sangue humano"; "pra turma mais sofisticada, o último produto é o eu humano" — o eu que ri da própria desgraça, faz poesia, é altruísta, "despreza todas as regras de conduta que Brama impôs à evolução".
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[produtos do batimento]: chancelada INCOMPLETUDE REGISTRADA (F040-L5).** Não completado por fontes externas — decisão mantida.

@@ -50,7 +50,7 @@ editada por este ciclo.
 - **Canônico da Base:** *Alt´Lam Gron* — com **acento agudo** (`´`, U+00B4), não crase, não cedilha: é a grafia do
   cadastro e ela preside o nome da ficha.
 - **Na fonte oral (P2023-12-03)** o nome aparece **degradação a baixo pelo STT em três formas** —
-  `Alto Longró`, `Alto Langron`, `Alto Longron` — nunca como o par `Alt´Lam` + `Gron` do cadastro. `[REVISAR]`:
+  `Alto Longró`, `Alto Langron`, `Alto Longron` — nunca como o par `Alt´Lam` + `Gron` do cadastro. `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (três formas STT preservadas; cluster paralelo em RC-036: ALTA LANGRON/ALTO LONGBRON) — ver nota]`:
   nenhuma delas promotiona a grafia canônica, e nenhuma hipótese etimológica é feita a partir do TXT.
 - **Vetado** (devolutiva de 29/08/2026, D-4): nenhuma das máscaras do STT (`p****`, `m****`, `b******`, `e******`)
   transita para esta ficha. As nove ocorrências ficam na apostila, com a moldura, onde o leitor vê que são máscara.
@@ -109,3 +109,6 @@ editada por este ciclo.
 ## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
 - **Selos da varredura:** ll. 99 (RA).
 - **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Alto Longró/Langron/Longron]: chancelada AGUARDA-ÁUDIO (F039-L5).** Nenhuma forma STT promotiona o par do cadastro; cluster paralelo em RC-036.

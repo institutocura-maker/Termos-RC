@@ -18,7 +18,7 @@ Forma preferida: Malkuth.
 ## Ampliação — P2025-05-31
 
 - **Malkuth = Hochmah/Sophia (P2025-05-31) — CONSOLIDAÇÃO CANÔNICA:** "Maulcuf é o nome cabalístico de Rockmar [Hochmah]"; "só tem uma sefirá que é Hochmah, que foi criado nesse universo nosso. E Hochmah também é chamado de Sofia e também é chamado de Malkuth nas tradições cabalísticas."
-- **"Hochmah é apenas um filho de Shockman [Chokhmah? — REVISAR]";** "foi engendrado lá atrás para ser o suzerano" do universo biológico.
+- **“Hochmah é apenas um filho de Shockman [Chokhmah? — REVISAR → RESOLVIDO 10/09/2026 · F038-L5: Shockman = Hochmah (família STT Rockma/Rockman/Hotman/Hman/Shockma, todas normalizadas em RC-565; veto do curador) — ver nota]”;** "foi engendrado lá atrás para ser o suzerano" do universo biológico.
 
 
 ## Ampliação — P2024-07-14
@@ -70,3 +70,6 @@ Consultar Base.
 
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Shockman]: RESOLVIDA (F038-L5).** = Hochmah: pertence à família STT Rockma/Rockman/Hotman/Hman/Shockma, todas normalizadas para Hochmah em RC-565 (decisão canônica do curador).

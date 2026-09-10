@@ -13,7 +13,7 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 
 ## Ampliação — P2025-05-31
 
-- **Na palestra (P2025-05-31):** antes do máximo glacial, há cerca de 23.000 anos, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana; existia um continente da Lemúria, continente de Mu, basicamente ligado ao continente hindu — a cultura que aí existia chama-se Kumari Kandam; expressões avatáricas Anahata/Pashupati [STT — REVISAR] comprovadas por registros arqueológicos de +20.000 anos; dravidianos (Mohenjo-Daro/Harapa) como povo de Shiva; a palavra Deus não existia (surgiu na Trácia, 4–5.000 anos).
+- **Na palestra (P2025-05-31):** antes do máximo glacial, há cerca de 23.000 anos, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana; existia um continente da Lemúria, continente de Mu, basicamente ligado ao continente hindu — a cultura que aí existia chama-se Kumari Kandam; expressões avatáricas Anahata/Pashupati [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (formas STT; a alegação arqueológica é do expositor) — ver nota] comprovadas por registros arqueológicos de +20.000 anos; dravidianos (Mohenjo-Daro/Harapa) como povo de Shiva; a palavra Deus não existia (surgiu na Trácia, 4–5.000 anos).
 
 
 ## Ampliação — P2025-02-16
@@ -48,3 +48,6 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 Quarentena cronológica/arqueológica — leitura do autor.
 
 ---
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Anahata/Pashupati]: chancelada AGUARDA-ÁUDIO (F039-L5).** Formas STT; a alegação arqueológica (+20 mil anos) é do expositor, sem fusão.

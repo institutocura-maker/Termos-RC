@@ -51,4 +51,7 @@ A fala distingue possibilidades:
 ## Observações
 - Termo transumanista/conjuntural da palestra.
 - Não afirmar que upload de identidade, consciência autônoma ou capacidades biônicas descritas já estejam comprovados.
-- “Exoterráqueos” permanece `[REVISAR]` e não foi absorvido como sinônimo.
+- “Exoterráqueos” permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax P2025-02-15; não absorvido — decisão mantida) — ver nota]` e não foi absorvido como sinônimo.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Exoterráqueos]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax (P2025-02-15); não absorvido como sinônimo — decisão mantida.

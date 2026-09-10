@@ -70,5 +70,8 @@ A palestra relaciona cannabis e outras plantas à expansão de consciência e ao
 - **Três elementos comuns dos transes xamânicos (pesquisa citada):** (1) "a sensação de que aquilo era terrivelmente verdadeiro"; (2) "as árvores estão vivas querendo falar com você"; (3) "aparecem cobras e em alguns casos essas cobras se transformam em felinos";
 - **Teriantropia (absorvida aqui — decisão do curador):** "existe em alguma realidade subjacente à nossa... seres serpentoides e alguns deles que se transformam em felinos, se metamorfoseiam em felinos; o nome disso é teriantropia";
 - **Serpente no Gênesis:** "todo mundo que entra em transe se defronta com serpente" — a serpente como realidade subjacente (RC-283 Pandora como Serpente);
-- **Quinara (futuro):** "daqui a uns 4.000 e poucos anos... essa pessoa se reassuma como uma quinara. É um outro tipo de teriantropia mais parecida com centauros" — `[REVISAR]` (Colecionar Incertezas);
+- **Quinara (futuro):** "daqui a uns 4.000 e poucos anos... essa pessoa se reassuma como uma quinara. É um outro tipo de teriantropia mais parecida com centauros” — `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: ver RC-790 (ficha dedicada: Quinaras/Centauros, seres reais) — ver nota]` (Colecionar Incertezas);
 - Nova aresta RC-577 ↔ RC-160 (Xamanismo ~ Entropia).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[quinara]: RESOLVIDA (F038-L5).** Ver RC-790, ficha dedicada (Quinaras/Centauros, seres reais que hoje nascem humanos).

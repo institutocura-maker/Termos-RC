@@ -20,7 +20,7 @@ Surge na crítica às leituras apocalípticas modernas das estelas maias e à pe
 
 ## Ampliação — P2022-12-17
 
-- **[P2022-12-17 — FONTE ORIGINAL] Baktun 13 e Diego de Landa (U0620–U0640):** "se não fosse Diego de Landa [STT 'Diego Dilanda'], um frade espanhol que em 1453 [1562 — REVISAR] destruiu quase toda a biblioteca dos maias, deixando restar só dois pedaços entre milhares de códices que ele destruiu, dizendo que aquilo era a obra do demônio da Igreja Católica Espanhola"; "esses intérpretes terminaram vendo nas estelas um e seis... o final daquele Baktun 13 corresponderia ao ano 2012"; "tudo indica que é uma era equinocial de 5.200 anos"; "originalmente nos toltecas, como essas figuras híbridas e demo viviam milhares, milhões de anos, um baktun para eles era 5.000 anos, 10.000 anos, dois baktuns"; "os maias não tinham uma visão linear da passagem do tempo"; "os intérpretes do século XX... se você escreve um livro dizendo que o mundo vai se acabar, todo mundo copia, é formidável" — crítica ao comércio do medo.
+- **[P2022-12-17 — FONTE ORIGINAL] Baktun 13 e Diego de Landa (U0620–U0640):** "se não fosse Diego de Landa [STT 'Diego Dilanda'], um frade espanhol que em 1453 [1562 — REVISAR → RESOLVIDO 10/09/2026 · F043-L5: DATA CONFIRMADA EXTERNAMENTE (auto-de-fé de Maní, 12/07/1562; STT “1453” preservado como falado) — ver nota] destruiu quase toda a biblioteca dos maias, deixando restar só dois pedaços entre milhares de códices que ele destruiu, dizendo que aquilo era a obra do demônio da Igreja Católica Espanhola"; "esses intérpretes terminaram vendo nas estelas um e seis... o final daquele Baktun 13 corresponderia ao ano 2012"; "tudo indica que é uma era equinocial de 5.200 anos"; "originalmente nos toltecas, como essas figuras híbridas e demo viviam milhares, milhões de anos, um baktun para eles era 5.000 anos, 10.000 anos, dois baktuns"; "os maias não tinham uma visão linear da passagem do tempo"; "os intérpretes do século XX... se você escreve um livro dizendo que o mundo vai se acabar, todo mundo copia, é formidável" — crítica ao comércio do medo.
 
 ## Fontes
 | Obra/palestra | Localização | Tipo |
@@ -43,3 +43,6 @@ Surge na crítica às leituras apocalípticas modernas das estelas maias e à pe
 A interpretação específica deve ser atribuída ao palestrante. Não tratar como consenso historiográfico.
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[1453/1562]: RESOLVIDA (F043-L5).** Auto-de-fé de Maní: 12/07/1562 (confirmado externamente); STT “1453” preservado como falado.

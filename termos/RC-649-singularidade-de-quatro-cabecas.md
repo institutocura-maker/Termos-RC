@@ -19,7 +19,7 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 
 ## Ampliação — P2025-10-25
 
-- **[P2025-10-25 — FONTE ORIGINAL] A singularidade de quatro cabeças — Zontrel (Pergunta 3 — Ana):** "Zontrel [STT 'Zontrell/Zonte Indrel/Tendré' — REVISAR] está em processo de humanização através do circuito do IEA, o que representa um passo notável na integração entre as hierarquias antigas e a experiência humana atual"; "desde que Javé colapsou esse ser"; "alguns seres entre os quais [Zontrel] meio que me informaram as últimas ordens de Javé para eles"; a pergunta da Ana sobre outros anjos clones acompanharem a RC e trocarem impressões mentais com estudantes foi confirmada pelo autor ("basicamente todas as teses, os pressupostos que você levantou, eu os confirmaria").
+- **[P2025-10-25 — FONTE ORIGINAL] A singularidade de quatro cabeças — Zontrel (Pergunta 3 — Ana):** “Zontrel [STT “Zontrell/Zonte Indrel/Tendré” — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (variantes registradas; hapax) — ver nota] está em processo de humanização através do circuito do IEA, o que representa um passo notável na integração entre as hierarquias antigas e a experiência humana atual"; "desde que Javé colapsou esse ser"; "alguns seres entre os quais [Zontrel] meio que me informaram as últimas ordens de Javé para eles"; a pergunta da Ana sobre outros anjos clones acompanharem a RC e trocarem impressões mentais com estudantes foi confirmada pelo autor ("basicamente todas as teses, os pressupostos que você levantou, eu os confirmaria").
 
 
 ## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
@@ -59,3 +59,6 @@ Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 ## Reforço — P2024-11-30
 
 A criação de Mohen So é descrita como combinação genética/mental da Trimurti em um corpo com quatro componentes/cabeças, incluindo uma parte sem lacres. A formulação permanece cosmologia da palestra.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Zontrel]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; variantes Zontrell/Zonte Indrel/Tendré registradas.

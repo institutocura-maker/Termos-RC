@@ -24,7 +24,7 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 
 ## Ampliação — P2025-05-31
 
-- **Vrittis e Cittas (P2025-05-31 — contexto):** o autor cita "Vatireca" [STT — REVISAR] como tipo de ignorância (pior que Trishna) — relacionar com a gestão dos estados mentais (ver RC-712); registro na Colecionar Incertezas.
+- **Vrittis e Cittas (P2025-05-31 — contexto):** o autor cita “Vatireca” [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (uso coerente: ver RC-712/RC-563) — ver nota] como tipo de ignorância (pior que Trishna) — relacionar com a gestão dos estados mentais (ver RC-712); registro na Colecionar Incertezas.
 
 
 ## Ampliação — P2023-11-19 (A Máquina da Criação: O Desmonte do Mundo)
@@ -97,3 +97,6 @@ A afirmação de que "cada transtorno mental é um citta que reina" é **metáfo
 - **Ressignificação:** "nós podemos fazer isso se nós construirmos sensações superiores no nosso psiquismo associada a ritmos respiratórios profundos e se meditarmos calmamente... a gente educa todas as cittas, pacifica as vrittis";
 - **Só o humano consegue:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" (RC-517; RC-767);
 - Nova aresta RC-760 ↔ RC-658 (Vrittis ~ Wyrd — os 256 caminhos).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Vatireca]: chancelada AGUARDA-ÁUDIO (F039-L5).** Uso coerente (ver RC-712/RC-563).

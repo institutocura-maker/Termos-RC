@@ -19,7 +19,7 @@ As sucessivas manifestações/formas do eu do criador caído ao longo da histór
 
 ## Citação-chave
 
-> "Javé teve muitas faces ao longo de toda essa história. A última, essa que a gente chama de Javé ou de Brahma Parameshthi. Mas essa face não soube aproveitar o fenômeno da ressonância [bôson — REVISAR]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas."
+> "Javé teve muitas faces ao longo de toda essa história. A última, essa que a gente chama de Javé ou de Brahma Parameshthi. Mas essa face não soube aproveitar o fenômeno da ressonância [bôson — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (leitura editorial preservada; RC-001×RC-561, mesma fala) — ver nota]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas."
 
 ## Termos Relacionados
 
@@ -34,3 +34,6 @@ As sucessivas manifestações/formas do eu do criador caído ao longo da histór
 Termo-título da palestra; já registrado também em P2025-02-16 e P2024-11-30.
 
 ---
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[bôson]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-001 (mesma fala).

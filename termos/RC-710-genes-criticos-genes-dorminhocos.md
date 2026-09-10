@@ -26,7 +26,7 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 
 ## Ampliação — P2025-02-15
 
-- **O teclado dos genes (P2025-02-15):** "saber usar os postulados quânticos como forma de tocar o teclado dos seus 25.869 genes [STT — REVISAR], para que você, na condição humana, possa influenciar não só o seu nível de vida, mas todo o ambiente em que está inserido, para além das fronteiras dessa realidade".
+- **O teclado dos genes (P2025-02-15):** "saber usar os postulados quânticos como forma de tocar o teclado dos seus 25.869 genes [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: NÚMERO COMO FALADO (B5; paralelo em RC-518, mesma fala) — ver nota], para que você, na condição humana, possa influenciar não só o seu nível de vida, mas todo o ambiente em que está inserido, para além das fronteiras dessa realidade".
 - **O genoma se modifica:** "o que você pensa você cria, o que você sente você atrai, o que você aspira a ser, o seu genoma se modifica para exatamente você ser aquilo que você aspira. Quando o seu genoma reescreve o gene com a proteína para que aquilo aconteça em você — seja a cura de uma célula doente, seja capacidades no campo intelectual".
 
 
@@ -73,3 +73,6 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 
 ## Ressalva Científica
 “Genes críticos” não constitui categoria reconhecida da genética. Mensagens mentais não são comprovadas como mecanismo capaz de reescrever genes, produzir levitação ou transformar peixes em aves. Preservar como conceito RC atribuído à palestra.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[25.869 genes]: chancelada NÚMERO COMO FALADO (F039-L5, B5).** Paralelo em RC-518 (mesma fala P2025-02-15).

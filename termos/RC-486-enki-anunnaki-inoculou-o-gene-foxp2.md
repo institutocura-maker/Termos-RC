@@ -16,7 +16,7 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 - **Pai de Thot:** "ele é um anunnaki terráqueo... ele é filho de Enki" — Thot/Ninjizida como filho de Enki (nova aresta RC-463 ↔ RC-486);
 - **Irmãos:** Enki e Enlil entre os três filhos de Anu enviados à Terra (com a irmã Ninmah/Ninhursag);
 - **Comando:** "esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão" — contexto do efetivo anunnaki na Terra;
-- Enki e Enlil na dinastia de Nibiru (RC-589) — "Dieck Eno" [STT duvidoso para Enki? — `[REVISAR]`].
+- Enki e Enlil na dinastia de Nibiru (RC-589) — “Dieck Eno” [STT duvidoso para Enki? — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hipótese Enki registrada; hapax) — ver nota]`].
 
 
 ## Ampliação — P2025-05-31
@@ -130,3 +130,6 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 ## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
 - **Selos da varredura:** ll. 64 (RA).
 - **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Dieck Eno]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese Enki registrada.

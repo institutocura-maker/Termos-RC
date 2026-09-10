@@ -71,7 +71,7 @@ A distinção **Criador (caído) × Deidade (Pai-Mãe)** é um dos eixos doutrin
 ## Ampliação — B018 (Terra Atlantis II: A Frota Norte)
 
 - **[B018 p. 68]** NAT: a face referida por Val Eno era a de um «Criador falido» — **quarentena clínica** (leitura, jamais diagnóstico); o «fator Javé» só se tornou consciente para os biodemos de Alt'Lam Gron e Shamb-Aha entre 2006 e 2017.
-- **[B018 p. 131–132]** Cronologia (Ellam): Javé/Brahma, «Ser Trimurtiano»; Criação «equivocada»; «tombou doente» / «código de vida doentio» = **clínica — fora**. Diferenças × cronologia de B003 = `[REVISAR]` — **não fundir**. Caps. 1–11 **isolados**. Fonte **B018** acrescentada na tabela-mestra.
+- **[B018 p. 131–132]** Cronologia (Ellam): Javé/Brahma, «Ser Trimurtiano»; Criação «equivocada»; «tombou doente» / «código de vida doentio» = **clínica — fora**. Diferenças × cronologia de B003 = `[REVISAR → CHANCELA 10/09/2026 · F040-L5: TENSÃO REGISTRADA (não fundir) — ver nota]` — **não fundir**. Caps. 1–11 **isolados**. Fonte **B018** acrescentada na tabela-mestra.
 
 
 ## Ampliação — B039 (Terra Atlantis III: A Era Sapiens)
@@ -119,3 +119,6 @@ Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-05
 
 ## Observações
 Ficha baseada no glossário de B031. O termo "Criador" funciona como **canônico** para a entidade Brahma/Javé/Demiurgo — as demais grafias são variações.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[diferenças × B003]: chancelada TENSÃO REGISTRADA (F040-L5).** Não fundir, já decidido.

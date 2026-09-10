@@ -53,7 +53,7 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 
 - **"O retrato de Prabrajna" (P2025-03-15):** "dizem que o último retrato dele foi tirado... o último retrato de Prabrajna que alguém tirou chama-se Ishvara"; "o limite de modulação pré-estabelecido desde a queda do seu criador. Que limite? É o retrato de Ishvara".
 - **Epítetos:** "significa o eu do universo, o ego do universo, o senhor do universo, o Deus do universo — você encontra uns 20 epítetos e nenhum deles bate"; "o que de mais próximo se chegou foi o Samkhya que Kapila produziu".
-- **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR]).
+- **"Hoje a palestra vai falar pela primeira vez abertamente sobre o mistério de Ishvara"** (em Milen Brumana [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota]).
 - **Verificabilidade:** "isso que você vai explicar é verificável? Não. Por isso vocês apenas vão entender, mas não vão assumir isso como verdade".
 
 ## Fontes
@@ -84,3 +84,6 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 - A equivalência cosmológica é própria da Revelação Cósmica e não deve ser confundida automaticamente com todas as escolas hindus.
 - O “Limite de Modulação de Ishvara” foi absorvido nesta ficha.
 - A fonte recebida termina no intervalo; nenhuma conclusão ausente foi reconstruída.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Milen Brumana]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax.

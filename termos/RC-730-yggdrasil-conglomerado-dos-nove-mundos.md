@@ -55,7 +55,7 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 
 ## Blindagem histórica e comparativa
 
-A identificação de Yggdrasil com um sistema interdimensional centrado em Marte é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica, da história das religiões, da astronomia ou da arqueologia. A fala pode sobrepor tradições nórdicas, célticas, hindus e a literatura de Tolkien; identidades duvidosas permanecem `[REVISAR]` e não geram equivalência canônica.
+A identificação de Yggdrasil com um sistema interdimensional centrado em Marte é **Teologia Comparada de Ellam**, não consenso da mitologia nórdica, da história das religiões, da astronomia ou da arqueologia. A fala pode sobrepor tradições nórdicas, célticas, hindus e a literatura de Tolkien; identidades duvidosas permanecem `[REVISAR → CHANCELA 10/09/2026 · F040-L5: SEM EQUIVALÊNCIA CANÔNICA (decisão registrada) — ver nota]` e não geram equivalência canônica.
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 
@@ -82,3 +82,6 @@ A identificação de Yggdrasil com um sistema interdimensional centrado em Marte
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.»
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[identidades duvidosas]: chancelada SEM EQUIVALÊNCIA (F040-L5).** Tradições sobrepostas; sem equivalência canônica.

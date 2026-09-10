@@ -13,7 +13,7 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 ## Atualização — P2023-12-02
 
-- **Arcontes = descendentes:** "Arcontes são os descendentes dessas figuras aí, principalmente os seis da Tridevi e da Trimurti" [STT parcial — `[REVISAR]`];
+- **Arcontes = descendentes:** "Arcontes são os descendentes dessas figuras aí, principalmente os seis da Tridevi e da Trimurti" [STT parcial — `[REVISAR → chancelada · F039-L5: AGUARDA-ÁUDIO (transcrição parcial assumida; sem normalização) — ver nota]`];
 - **Intriga sobre a herança:** "a vinda de Sophia é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava o fal..." [frase truncada] — a vinda de Sophia (RC-009) situada em disputa arconte;
 - "vários outros arcontes não querem que nenhum desses dois assuma nada" (Cristo/Sophia vs. o processo em curso) — confusão registrada pelo autor.
 
@@ -78,7 +78,7 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 ## Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade)
 
-- **[O Conselho de Antiandel] (U0002)** «E esse conselho de Antiandel é o único lugar aonde alguns desses arcontes, ou todo eles eventualmente participam, não para resolver alguma algum Esse conselho não funciona, tipo a ONU.» — o Conselho de Antiandel é o único fórum em que alguns arcontes participam — "não funciona, tipo a ONU" (grafia STT "alguma algum" sem emenda); grafia "Antiandel" confirmada nesta palestra (a ficha RC-005 registrava "Antiondel [STT — REVISAR]"); candidato a código novo — ver BLOCO 2.
+- **[O Conselho de Antiandel] (U0002)** «E esse conselho de Antiandel é o único lugar aonde alguns desses arcontes, ou todo eles eventualmente participam, não para resolver alguma algum Esse conselho não funciona, tipo a ONU.» — o Conselho de Antiandel é o único fórum em que alguns arcontes participam — "não funciona, tipo a ONU" (grafia STT "alguma algum" sem emenda); grafia "Antiandel" confirmada nesta palestra (a ficha RC-005 registrava “Antiondel” — RESOLVIDO no Lote 5: grafia Antiandel, confirmada aqui); candidato a código novo — ver BLOCO 2.
 
 
 ## Ampliação — P2022-11-20 (A Incompreendida Nova Aliança proposta por Jesus)
@@ -134,3 +134,7 @@ Trecho truncado na transcrição — `[frase truncada]`. Contexto geopolítico a
 **Fonte:** palestra «A Falsa Queda do Ser Humano e a Indignidade Entronizada como Religião» (04/02/2024).
 
 **Trecho verbatim:** «Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada
+- **[seis da Tridevi e da Trimurti]: chancelada AGUARDA-ÁUDIO (F039-L5).** STT parcial assumido; sem normalização até o áudio. (10/09/2026 · delegação “deixa fluir”)
+- **[Antiondel→Antiandel]: RESOLVIDA aqui (F038-L5).** U0002 confirma “Antiandel”; flag do RC-005 encerrada no Lote 5.

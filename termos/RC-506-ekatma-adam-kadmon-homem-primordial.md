@@ -14,7 +14,7 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 ## Atualização — P2024-09-28
 
 - **Adão cósmico ≠ Adão da Terra:** "aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon [Kadmon], que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico" (resposta à pergunta de Rogério sobre o demo hesitante);
-- **Demos hesitantes:** "o que liga os chamados demos hesitantes... essa história ainda falta elementos poder me referir a ela" — `[REVISAR]` (Colecionar Incertezas);
+- **Demos hesitantes:** "o que liga os chamados demos hesitantes... essa história ainda falta elementos poder me referir a ela” — `[REVISAR → CHANCELA 10/09/2026 · F040-L5: INCERTEZA COLECIONADA (demos hesitantes; sem ontologia) — ver nota]` (Colecionar Incertezas);
 - Contexto: o autor declara não ter ainda elementos para aprofundar a relação (pergunta de Maria Helena sobre o campo morfogenético da humanidade).
 
 
@@ -25,7 +25,7 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 ## Ampliação — P2023-09-09 (O Colapso da Trimurti e Suas Consequências)
 
-- **[P2023-09-09 · O PRIMEIRO ADÃO]** "desse análise de Phanes... emergiu **o primeiro Adão num forno de vida que foi construído por essa turma nesse nosso universo chamado Aingan [⚠ REVISAR — o forno; cross RC-499/RC-771]**... **esse primeiro Adão aqui não é o Adão da Bíblia, não. Esse aqui é um GIGANTE que foi construído na perspectiva de ser o primeiro molde, um modelo corporal que um dia poderia receber a correção de todas as doenças do corpo do criador no sonho de fazer com que um dia esse criador assumisse um eu desse tipo de modelo corporal**" (o Evangelho apócrifo de João; "eu já fiz uma palestra toda sobre isso") — o Primeiro Adão = o Adam Kadmon/Ekatma como o MOLDE de ressureição do criador.
+- **[P2023-09-09 · O PRIMEIRO ADÃO]** "desse análise de Phanes... emergiu **o primeiro Adão num forno de vida que foi construído por essa turma nesse nosso universo chamado Aingan [⚠ REVISAR → RESOLVIDO 10/09/2026 · F038-L5: Aingan = Awaymaion (forno; ver RC-499 e RC-500, erro histórico de STT Almaior/Alamaior) — ver nota]**... **esse primeiro Adão aqui não é o Adão da Bíblia, não. Esse aqui é um GIGANTE que foi construído na perspectiva de ser o primeiro molde, um modelo corporal que um dia poderia receber a correção de todas as doenças do corpo do criador no sonho de fazer com que um dia esse criador assumisse um eu desse tipo de modelo corporal**" (o Evangelho apócrifo de João; "eu já fiz uma palestra toda sobre isso") — o Primeiro Adão = o Adam Kadmon/Ekatma como o MOLDE de ressureição do criador.
 
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
@@ -51,4 +51,9 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 ## Observações
 
-Menção breve na palestra (resposta à plateia). A relação com "demos hesitantes" permanece `[REVISAR]` — sem ontologia até verificação do áudio.
+Menção breve na palestra (resposta à plateia). A relação com “demos hesitantes” permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (sem ontologia até verificação) — ver nota]` — sem ontologia até verificação do áudio.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[demos hesitantes]: chancelada INCERTEZA COLECIONADA (F040-L5).** Sem ontologia até verificação.
+- **[Aingan]: RESOLVIDA (F038-L5).** = Awaymaion: o forno onde emergiu o primeiro Adão (ver RC-499; RC-500 registra Almaior/Alamaior como erro histórico de STT).
+- **[demos hesitantes/observações]: chancelada AGUARDA-ÁUDIO (F039-L5).** Sem ontologia até verificação do áudio.

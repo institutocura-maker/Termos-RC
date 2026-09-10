@@ -30,4 +30,7 @@ Estruturas mentais e emocionais que, segundo a explicação da palestra, seriam 
 - Big Data Cósmico — RC-194.
 
 ## Blindagem epistemológica
-“Campos mórficos”, egrégoras e armazenamento não são aqui apresentados como mecanismos neurocientíficos ou físicos validados. A expressão “Rede Neural de Consciência Planetária” permanece `[REVISAR STT/ESCOPO]` e não foi absorvida nesta ficha.
+“Campos mórficos”, egrégoras e armazenamento não são aqui apresentados como mecanismos neurocientíficos ou físicos validados. A expressão “Rede Neural de Consciência Planetária” permanece `[REVISAR → CHANCELA 10/09/2026 · F040-L5: ESCOPO DECIDIDO (não absorvida nesta ficha) — ver nota] STT/ESCOPO` e não foi absorvida nesta ficha.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Rede Neural de Consciência Planetária]: chancelada ESCOPO DECIDIDO (F040-L5).** Não absorvida nesta ficha — decisão mantida.

@@ -24,7 +24,7 @@ Devolutiva do curador (19/08/2026): "Genoma Humano como Joia" absorvido aqui (e 
 
 ## Ampliação — P2025-03-15
 
-- **Genoma/epigenoma (P2025-03-15):** "o eu da gente trabalha só esses genes que produzem proteína... 25.869 genes [STT — REVISAR]"; "o eu de um ser humano, as sensações que sente, se referem ao uso que ele faz da produção proteica"; Freud: forças ocultas no inconsciente; "o inconsciente é separado do consciente por uma barreira".
+- **Genoma/epigenoma (P2025-03-15):** "o eu da gente trabalha só esses genes que produzem proteína... 25.869 genes [STT — REVISAR → CHANCELA 10/09/2026 · F039-L5: NÚMERO COMO FALADO (B5; paralelo em RC-710, mesma fala) — ver nota]"; "o eu de um ser humano, as sensações que sente, se referem ao uso que ele faz da produção proteica"; Freud: forças ocultas no inconsciente; "o inconsciente é separado do consciente por uma barreira".
 
 ## Fontes
 
@@ -49,3 +49,6 @@ Devolutiva do curador (19/08/2026): "Genoma Humano como Joia" absorvido aqui (e 
 Quarentena científica — leitura do autor.
 
 ---
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[25.869 genes]: chancelada NÚMERO COMO FALADO (F039-L5, B5).** Paralelo em RC-710 (mesma fala P2025-02-15).

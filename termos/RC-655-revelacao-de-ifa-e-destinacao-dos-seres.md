@@ -71,14 +71,14 @@ Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 
 ## Reforço — P2024-11-30
 
-Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Molés/Olodus `[REVISAR]` e 256 caminhos. A distinção entre destino obrigatório e destino criado pelo eu é ampliada.
+Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: “Olodus” (16) é termo canônico (RC-741, Projeto Orunmilá–Olodus); “Molés” = forma STT paralela, preservada — ver nota]` e 256 caminhos. A distinção entre destino obrigatório e destino criado pelo eu é ampliada.
 
 ---
 
 ## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 
 - **Palestra futura anunciada:** "sábado de novembro vai ser a Revelação de Ifá... o ritmo da inevitabilidade do código primordial" (Rezende) — elo com a Base (RC-655) e os 250 caminhos de Orunmilá (RC-665);
-- Contexto: entidades que "personificaram entidades protocionais no mundo biológico" (referência a entes/Senhor dos Anéis; Léon Denis; Flammarion — `[REVISAR]`).
+- Contexto: entidades que "personificaram entidades protocionais no mundo biológico" (referência a entes/Senhor dos Anéis; Léon Denis; Flammarion — `[REVISAR → CHANCELA 10/09/2026 · F043-L5: AGUARDA-EVIDÊNCIA EXTERNA (espíritos em árvores em Denis/Flammarion não localizado em 10/09/2026; alegação do expositor) — ver nota]`).
 
 ---
 
@@ -105,3 +105,7 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 - **[P2025-07-18 · U00016]** Na atualização atribuída a Orunmilá, a fala descreve a passagem de três processadores para **16 odus/olodus e 256 caminhos previsíveis**, vinculados às origens ancestrais e aos códigos que entrariam no universo biológico. O expositor afirma que determinados caminhos seriam destinos a cumprir, enquanto o ser humano que não gera novas pendências poderia construir outra destinação no presente.
 - **[Nota cruzada]** A “sincronicidade profetizável” é absorvida estritamente como ponte de leitura entre RC-655, RC-665, RC-658 e RC-718; não recebe código independente.
 - **Quarentena:** a cadeia é uma leitura mitológico-cosmológica; termos como genoma, alma, trânsito de espécies e destino não devem ser tratados como genética ou antropologia validadas.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Molés/Olodus]: RESOLVIDA (F038-L5).** “Olodus” (16 → 256 caminhos) é termo canônico (RC-741); “Molés” é forma STT paralela (RC-665), preservada.
+- **[Denis/Flammarion]: chancelada AGUARDA-EVIDÊNCIA EXTERNA (F043-L5).** Registro de espíritos em árvores não localizado nas obras em 10/09/2026; alegação do expositor, sem fusão.

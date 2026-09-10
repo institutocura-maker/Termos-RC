@@ -13,7 +13,7 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 
 ## Contexto / Origem
 
-[P2024-08-03] A palestra relata: "ele antes era um ser que se chamava Kalil Kadmon [STT: 'Cali Calon']" — grafia fonética mantida em `[REVISAR]` até conferência de áudio.
+[P2024-08-03] A palestra relata: "ele antes era um ser que se chamava Kalil Kadmon [STT: “Cali Calon”]” — grafia fonética mantida em `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: PAR FORMA/STT PARALELO em RC-086 (sem flag); grafia preservada — ver nota]` até conferência de áudio.
 
 ## Escopo e evidência
 
@@ -87,3 +87,6 @@ Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA
 - **Linhas carimbadas do lote:** ll. 80 (B5b).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Cali Calon]: RESOLVIDA (F038-L5).** Par “Kalil Kadmon [STT ‘Cali Calon’]” paralelo em RC-086, sem flag; grafia fonética preservada.

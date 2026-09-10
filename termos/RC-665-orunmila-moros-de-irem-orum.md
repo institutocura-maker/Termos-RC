@@ -55,7 +55,7 @@ Correspondências culturais são atribuídas à leitura de Val Ellam, não a con
 
 ## Reforço — atualização humana dos Arquivos / P2024-11-30
 
-Orunmilá é apresentado como expressão produzida pelo espírito de Moros para atualizar Wyrd com códigos humanos, treinar 16 Molés/Olodus `[REVISAR]` e estruturar os 256 caminhos profetizáveis de Ifá.
+Orunmilá é apresentado como expressão produzida pelo espírito de Moros para atualizar Wyrd com códigos humanos, treinar 16 Molés/Olodus `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: ver RC-655/RC-741 (“Olodus” canônico; “Molés” STT) — ver nota]` e estruturar os 256 caminhos profetizáveis de Ifá.
 
 Olodumaré/“Olo Maré” permanece em quarentena.
 
@@ -87,3 +87,6 @@ Olodumaré/“Olo Maré” permanece em quarentena.
 - **Forma ouvida:** `Orumilá/Aurumilá/Orumiá`; aplicar **Orunmilá** nos derivados, mantendo o STT no original e no dicionário.
 - **Cruzamento aprovado:** reforço de RC-655, RC-658, RC-741 e RC-767; status do termo permanece inalterado.
 - **Quarentena:** a equivalência Moros–Orunmilá e a taxonomia das origens são atribuídas à palestra, não a consenso religioso ou acadêmico.
+
+## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
+- **[Molés/Olodus]: RESOLVIDA (F038-L5).** Ver RC-655/RC-741.
