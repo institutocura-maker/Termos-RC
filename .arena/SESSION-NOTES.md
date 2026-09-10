@@ -1800,3 +1800,20 @@ Acumulado: **514 verbetes** · 8.245 verbatim · 5.331 códigos · **0 falhas** 
 6. **Seções:** V4.20.01 17→19 (+2) · V2.08.01 34→35 · V3.13.05 14→15 · V4.18.03 18→19 · V3.14.04 3→4. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 135 restantes):** por código decrescente, pulando `RC-936` — `RC-926`, `RC-925`, `RC-924`, `RC-923`, `RC-922`, `RC-921` (a confirmar no despacho do Lote 84).
+
+## 10/09/2026 — Lote 84: 12º ANEL, GRAU 0 (6 verbetes, 2.629 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 84 como sugerido.»
+
+`RC-926` Lixo de Informações Apodrecidas (**IV.19.3 — 6º da seção**, 434 p.; ficha 120) · `RC-925` Espírito como Ator (**IV.19.3 — 7º da seção**, 430; 119) · `RC-924` Loop Mental (**IV.19.3 — 8º da seção**, 433; 121) · `RC-923` Programas Encarnatórios (**IV.19.3 — 9º da seção**, 425; 113) · `RC-922` Egrégora e Campo Quântico (**IV.19.1 — 15º da seção**, 486; 119) · `RC-921` Niroda (**IV.19.3 — 10º da seção**, 421; 111).
+
+Acumulado: **520 verbetes** · 8.263 verbatim · 5.408 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 18 de 147 · 129 restantes.**
+
+1. **Ambiente estável** (`788fb7e` = remoto; limpa). Fichas 120/119/121/113/119/111 = 703 p. (lote mínimo — stubs P2023-11-18); 12 pares, todos sem-aresta (722/901 × 6).
+2. **Pré-teste estrito:** 18 spans (3 por verbete: título + trecho + título) de primeira, **0 falhas** (520/8263/5408/0).
+3. **`RC-926` Lixo (IV.19.3):** fosso/reciclar; 🟡. **`RC-925` Ator:** novelas/vidas; distinto; 🟡. **`RC-924` Loop (maior ficha, 121 p.):** se acaba; pendências; 🟡. **`RC-923` Programas:** porcaria/disciplina; 🟡. **`RC-922` Egrégora (IV.19.1):** 5/10/15 min; campo; 🟡. **`RC-921` Niroda (menor, 111 p.):** propósito central; respiração; 🟡.
+4. **Divergência sistemática 6/6:** subclasse ficha "5.1 Epistemologia/Cognição" × cadastro "4.4 Fenômenos físicos/energéticos" — verbete segue a ficha + anota. Rótulo "Dignidade" × "Dignidade como Critério de Consciência" (RC-722).
+5. **Divergências (2):** IV.19.3 (psiquismo ×2 — 573/637; seguidores 379/640/768 + 5 do lote) · IV.19.1 (**285 legenda+vol exclusivos × ÍNDICE — erro L78, documentado, a despacho**; 529; psiquismo ×2 — 548/713; 613; 699; 517 cap-vol; 7 seguidores).
+6. **Seções:** V4.19.03 5→10 (+5) · V4.19.01 14→15. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 129 restantes):** por código decrescente — `RC-920`, `RC-919`, `RC-918`, `RC-917`, `RC-916`, `RC-915` (a confirmar no despacho do Lote 85).

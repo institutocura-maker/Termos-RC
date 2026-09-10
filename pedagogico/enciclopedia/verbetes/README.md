@@ -2499,6 +2499,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 135 restantes):** por ordem decrescente, pulando a remissiva `RC-936` — `RC-926`, `RC-925`, `RC-924`, `RC-923`, `RC-922`, `RC-921` (a confirmar no despacho do Lote 84).
 
+### Lote 84 — 12º anel, grau 0 (6 verbetes, 2.629 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 84 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `788fb7e` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Egrégora e Campo Quântico | IV.19.1 | `V4/V4.19.01-RC922-egregora-e-campo-quantico.md` | **486** | 119 p. |
+| Lixo de Informações Apodrecidas | IV.19.3 | `V4/V4.19.03-RC926-lixo-de-informacoes-apodrecidas.md` | 434 | 120 p. |
+| Loop Mental | IV.19.3 | `V4/V4.19.03-RC924-loop-mental.md` | 433 | **121 p.** |
+| Espírito como Ator | IV.19.3 | `V4/V4.19.03-RC925-espirito-como-ator.md` | 430 | 119 p. |
+| Programas Encarnatórios | IV.19.3 | `V4/V4.19.03-RC923-programas-encarnatorios.md` | 425 | 113 p. |
+| Niroda | IV.19.3 | `V4/V4.19.03-RC921-niroda.md` | **421** | **111 p.** |
+
+**Medida final:** 421–486 palavras (média 438) · **18 verbatim byte a byte** · 27 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 18 de 147** (129 restantes; `RC-936` remissiva permanente). Estado: 520 verbetes · **8.263 verbatim · 5.408 códigos · 0 falhas**.
+
+**Achados do lote 84 (o Reciclador — P2023-11-18):**
+
+1. **`RC-926` Lixo de Informações Apodrecidas (IV.19.3 — 6º da seção):** ficha mínima — «A gente poderia dizer o fosso ou o lixo de informações apodrecidas...»; 722/901 sem aresta; status 🟡 provisório.
+2. **`RC-925` Espírito como Ator (IV.19.3 — 7º da seção):** ficha mínima — «Na medida em que um ator faz várias novelas... Mas ele é alguém distinto do personagem.»; 722/901 sem aresta; status 🟡 provisório.
+3. **`RC-924` Loop Mental (IV.19.3 — 8º da seção; maior ficha do lote, 121 p.):** ficha mínima — «Se acaba se o eu humano se limpar... não ter mais nenhum loop mental negativo, só positivo.»; 722/901 sem aresta; status 🟡 provisório.
+4. **`RC-923` Programas Encarnatórios (IV.19.3 — 9º da seção):** ficha mínima — «Criando programa encarnatórios... só vai se vivenciar a prática da disciplina mental.»; 722/901 sem aresta; status 🟡 provisório.
+5. **`RC-922` Egrégora e Campo Quântico (IV.19.1 — 15º da seção):** ficha mínima — «Nós aqui formamos um egrégora daqui a 5, 10, 15 minutos... a gente termina criando um campo quântico.»; 722/901 sem aresta; status 🟡 provisório.
+6. **`RC-921` Niroda (IV.19.3 — 10º da seção; menor ficha do lote, 111 p.):** ficha mínima — «O propósito central da existência seria, portanto, a prática do niroda...»; 722/901 sem aresta; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (2 subseções):** IV.19.3 (psiquismo ×2 — 573/637; 3+5 seguidores) · IV.19.1 (RC-285 legenda+vol. exclusivos × ÍNDICE; 529; psiquismo ×2 — 548/713; 613; 699; 517 capítulo-vol. — 7 seguidores).
+8. **Seções tocadas:** V4.19.03 5→10 (+5) · V4.19.01 14→15. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 18 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Divergência sistemática de subclasse (6/6 fichas):** "5.1 Epistemologia / Cognição" × cadastro "4.4 Fenômenos físicos / energéticos" — anotada, não harmonizada. **Nota:** legenda+volume do verbete RC-285 (L78) divergem do ÍNDICE — documentados na nota de IV.19.1; correção a despacho.
+
+**Próximos (12º anel, grau 0 — 129 restantes):** por ordem decrescente — `RC-920`, `RC-919`, `RC-918`, `RC-917`, `RC-916`, `RC-915` (a confirmar no despacho do Lote 85).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
