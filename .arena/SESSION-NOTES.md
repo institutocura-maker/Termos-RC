@@ -1919,3 +1919,20 @@ Acumulado: **556 verbetes** · 8.376 verbatim · 6.347 códigos · **0 falhas** 
 6. **Seções:** V4.19.03 36→37 · V4.18.03 19→20 · V4.19.01 17→18 · V4.21.01 21→22 · V3.16.03 3→4 · V3.14.03 4→5. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 1×🟡 + 5×⚪.
 
 **Próximos (12º anel, grau 0 — 93 restantes):** por código decrescente — `RC-860`, `RC-859`, `RC-858`, `RC-856`, `RC-855`, `RC-854` (pulando o `RC-857`, já publicado) (a confirmar no despacho do Lote 91).
+
+## 10/09/2026 — Lote 91: 12º ANEL, GRAU 0 (6 verbetes, 2.882 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 91 como sugerido.»
+
+`RC-860` Nova Aliança (**III.11.3 — 8º da seção**, 471 p.; ficha 748) · `RC-859` Suserania Universal (**V.22.1 — 29º da seção**, 523; 642) · `RC-858` Desígnios Proféticos (**III.16.4 — 9º da seção**, 497; 620) · `RC-856` Saulo de Tarso / Paulo (**III.11.3 — 9º da seção**, 455; 521) · `RC-855` João Evangelista (**III.14.2 — 11º da seção**, 456; 488) · `RC-854` Apocalipse (**V.23.1 — 17º da seção**, 480; 1.058).
+
+Acumulado: **562 verbetes** · 8.392 verbatim · 6.452 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 60 de 147 · 87 restantes.**
+
+1. **Ambiente estável** (`464f4f7` = remoto; limpa). Fichas 748/642/620/521/488/1058 = 4.077 p.; 24 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 16 spans de primeira, **0 falhas** (562/8392/6452/0).
+3. **`RC-860` Aliança:** limite humano/compreendida-aceite; ⚪. **`RC-859` Suserania:** vestimenta/2006; ⚪. **`RC-858` Desígnios:** interpolação/Enoque/big data; 326 sem ficha; ⚪. **`RC-856` Paulo:** nome Cristo/salvação/nem conheceu; ⚪. **`RC-855` João (menor, 488 p.):** rapazote/não fugiu; ⚪. **`RC-854` Apocalipse (maior, 1.058 p.):** inexorável/revelação/confusão; ⚪.
+4. **Classificações e rótulos coincidem nas 6** (ficha = cadastro). Sem aresta em tudo; só RC-326 sem ficha.
+5. **Divergências (5):** III.11.3 (005; 072 cap-legenda, arquivo sem código no nome) · V.22.1 (Moros ×3; transformação ×4; 708; 355 vol.; 19 seguidores) · III.16.4 (611; cap-vol ×2; 5 seguidores) · III.14.2 (4 sem volume — 437/490/659/684; 6+855) · V.23.1 (arquivos ×2; vol ×8; 6 seguidores).
+6. **Seções:** V3.11.03 7→9 (+2) · V5.22.01 28→29 · V3.16.04 8→9 · V3.14.02 10→11 · V5.23.01 16→17. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 87 restantes):** por código decrescente — `RC-853`, `RC-852`, `RC-851`, `RC-850`, `RC-849`, `RC-848` (a confirmar no despacho do Lote 92).

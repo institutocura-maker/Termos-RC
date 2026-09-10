@@ -2723,6 +2723,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 93 restantes):** por ordem decrescente — `RC-860`, `RC-859`, `RC-858`, `RC-856`, `RC-855`, `RC-854` (pulando o `RC-857`, já publicado) (a confirmar no despacho do Lote 91).
 
+### Lote 91 — 12º anel, grau 0 (6 verbetes, 2.882 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 91 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `464f4f7` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Suserania Universal | V.22.1 | `V5/V5.22.01-RC859-suserania-universal.md` | **523** | 642 p. |
+| Desígnios Proféticos | III.16.4 | `V3/V3.16.04-RC858-designios-profeticos.md` | 497 | 620 p. |
+| Apocalipse | V.23.1 | `V5/V5.23.01-RC854-apocalipse.md` | 480 | **1.058 p.** |
+| Nova Aliança | III.11.3 | `V3/V3.11.03-RC860-nova-alianca.md` | 471 | 748 p. |
+| João Evangelista | III.14.2 | `V3/V3.14.02-RC855-joao-evangelista.md` | 456 | **488 p.** |
+| Saulo de Tarso / Paulo | III.11.3 | `V3/V3.11.03-RC856-saulo-de-tarso-paulo.md` | **455** | 521 p. |
+
+**Medida final:** 455–523 palavras (média 480) · **16 verbatim byte a byte** · 87 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 60 de 147** (87 restantes; `RC-936` remissiva permanente). Estado: 562 verbetes · **8.392 verbatim · 6.452 códigos · 0 falhas**.
+
+**Achados do lote 91 (6 materializações Motor Único — Jesus, Sofia, profecia):**
+
+1. **`RC-860` Nova Aliança (III.11.3 — 8º da seção):** 2 spans — «não é uma ideia de um gênio, foi uma questão de limite humano» + «primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite»; 072/781/001/858 sem aresta; status ⚪ candidato.
+2. **`RC-859` Suserania Universal (V.22.1 — 29º da seção):** 3 spans — «a vestimenta do Suzerano a Sofia...» + «uma vestimenta que eles devem Sofia» + «Eles não me deram a vestimenta de suserano...»; 009/001/474/784 sem aresta; status ⚪ candidato.
+3. **`RC-858` Desígnios Proféticos (III.16.4 — 9º da seção):** 3 spans — «Isso foi uma manipulação feita posteriormente...» + «O Enoque nunca escreveu...» + «Javé não conseguia prever isso no big data...»; 326 sem ficha anotado; status ⚪ candidato.
+4. **`RC-856` Saulo de Tarso / Paulo (III.11.3 — 9º da seção):** 3 spans — «Quem criou esse nome Cristo foi Paulo.» + «Aí Paulo criou o conceito de salvação.» + «Paulo nem conheceu Jesus»; 005/009 sem aresta; status ⚪ candidato.
+5. **`RC-855` João Evangelista (III.14.2 — 11º da seção; menor ficha do lote, 488 p.):** 2 spans — «Era um rapazote de 16 anos...» + «o único apóstolo que não fugiu...»; quirks "é Era"/"único Quando" anotados; 854/009/274 sem aresta; status ⚪ candidato.
+6. **`RC-854` Apocalipse (V.23.1 — 17º da seção; maior ficha do lote, 1.058 p.):** 3 spans — «inexoravelmente vai acontecer» + «não é fim de mundo... é revelação» + «livro encomendado no meio dessa confusão»; 855/009/565/005/258 sem aresta; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** III.11.3 (ciclos — 005; capítulo-vol. — 072, arquivo sem código no nome) · V.22.1 (Moros ×3 — 003/467/725; transformação ×4 — 558/615/654/767; 708; 355 vol.; 19 seguidores) · III.16.4 (fim — 611; cap-vol. ×2 — 572/578; 5 seguidores) · III.14.2 (4 cabeçalhos sem volume — 437/490/659/684; 6+1 seguidores) · V.23.1 (arquivos ×2 — 714/770; vol. escrituras ×8; 6 seguidores).
+8. **Seções tocadas:** V3.11.03 7→9 (+2) · V5.22.01 28→29 · V3.16.04 8→9 · V3.14.02 10→11 · V5.23.01 16→17. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 16 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha (🟡 Candidato) = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem ficha = cadastro nas 6**; rótulos × títulos coincidem nas 6.
+
+**Próximos (12º anel, grau 0 — 87 restantes):** por ordem decrescente — `RC-853`, `RC-852`, `RC-851`, `RC-850`, `RC-849`, `RC-848` (a confirmar no despacho do Lote 92).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
