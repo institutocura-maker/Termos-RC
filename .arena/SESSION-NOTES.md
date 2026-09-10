@@ -1902,3 +1902,20 @@ Acumulado: **550 verbetes** · 8.358 verbatim · 6.218 códigos · **0 falhas** 
 6. **Seções:** V4.19.03 31→36 (+5) · V4.21.01 20→21. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 99 restantes):** por código decrescente — `RC-889`, `RC-871`, `RC-870`, `RC-865`, `RC-863`, `RC-862` (a confirmar no despacho do Lote 90).
+
+## 10/09/2026 — Lote 90: 12º ANEL, GRAU 0 (6 verbetes, 3.155 palavras)
+
+**Despacho do Curador:** «Sugestão aceita. Em frente com o Lote 90.»
+
+`RC-889` Biblioteca Genômica Humana (**IV.19.3 — 37º da seção**, 687 p.; ficha 459) · `RC-871` Midana (**IV.18.3 — 20º da seção**, 525; 648) · `RC-870` Fórmulas Mentais (**IV.19.1 — 18º da seção**, 620; 1.253) · `RC-865` Pulsação Digna (**IV.21.1 — 22º da seção**, 476; 844) · `RC-863` Ocaso do Criador (**III.16.3 — 4º da seção**, 413; 724) · `RC-862` Essênios (**III.14.3 — 5º da seção**, 434; 285).
+
+Acumulado: **556 verbetes** · 8.376 verbatim · 6.347 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 54 de 147 · 93 restantes.**
+
+1. **Ambiente estável** (`353a15c` = remoto; limpa). Fichas 459/648/1253/844/724/285 = 4.213 p.; 27 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 18 spans de primeira, **0 falhas** (556/8376/6347/0).
+3. **`RC-889` Biblioteca:** laboratório/pirataria + código espalhado; 🟡. **`RC-871` Midana:** encandescente/molécula mãe; ⚪. **`RC-870` Fórmulas (maior ficha, 1.253 p.):** demos/DNA/leão-demo-Deus; 083 sem ficha; ⚪. **`RC-865` Pulsação:** onda/fogueira/alguns humanos; ⚪. **`RC-863` Ocaso:** Javer/abelhas/deu errado/jamais desativado; ⚪. **`RC-862` Essênios (menor, 285 p.; F044):** Messias/João; ⚪.
+4. **Divergência subclasse só RC-889** (3.1×4.4); materializações 871/870/865/863/862 coincidem. Rótulos × títulos só no RC-889 (217, 722).
+5. **Divergências (5):** IV.19.3 (psiquismo ×2; 3+32) · IV.18.3 (corpo ×4; 646; cap-vol ×2; 12 seguidores) · IV.19.1 (285; 529; psiquismo ×2; 613; 699; 517; 7+4) · IV.21.1 (critério ×2; 17+3) · III.14.3 (586; 766; 2 seguidores). III.16.3 unânime (3+863).
+6. **Seções:** V4.19.03 36→37 · V4.18.03 19→20 · V4.19.01 17→18 · V4.21.01 21→22 · V3.16.03 3→4 · V3.14.03 4→5. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 1×🟡 + 5×⚪.
+
+**Próximos (12º anel, grau 0 — 93 restantes):** por código decrescente — `RC-860`, `RC-859`, `RC-858`, `RC-856`, `RC-855`, `RC-854` (pulando o `RC-857`, já publicado) (a confirmar no despacho do Lote 91).

@@ -2691,6 +2691,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 99 restantes):** por ordem decrescente — `RC-889`, `RC-871`, `RC-870`, `RC-865`, `RC-863`, `RC-862` (a confirmar no despacho do Lote 90).
 
+### Lote 90 — 12º anel, grau 0 (6 verbetes, 3.155 palavras)
+
+**Despacho do Curador:** «Sugestão aceita. Em frente com o Lote 90.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `353a15c` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Biblioteca Genômica Humana | IV.19.3 | `V4/V4.19.03-RC889-biblioteca-genomica-humana.md` | **687** | 459 p. |
+| Fórmulas Mentais | IV.19.1 | `V4/V4.19.01-RC870-formulas-mentais.md` | 620 | **1.253 p.** |
+| Midana | IV.18.3 | `V4/V4.18.03-RC871-midana.md` | 525 | 648 p. |
+| Pulsação Digna | IV.21.1 | `V4/V4.21.01-RC865-pulsacao-digna.md` | 476 | 844 p. |
+| Essênios | III.14.3 | `V3/V3.14.03-RC862-essenios.md` | 434 | **285 p.** |
+| Ocaso do Criador | III.16.3 | `V3/V3.16.03-RC863-ocaso-do-criador.md` | **413** | 724 p. |
+
+**Medida final:** 413–687 palavras (média 526) · **18 verbatim byte a byte** · 123 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 54 de 147** (93 restantes; `RC-936` remissiva permanente). Estado: 556 verbetes · **8.376 verbatim · 6.347 códigos · 0 falhas**.
+
+**Achados do lote 90 (4 materializações Motor Único + F044 + palestra):**
+
+1. **`RC-889` Biblioteca Genômica Humana (IV.19.3 — 37º da seção):** dois verbatims — «não vem o indivíduo, vem só o DNA...» + «o código dele espalhado nesses dois universos...»; quirks anotados; subclasse 3.1 Genética × 4.4; 001/217/070/722 sem aresta; status 🟡 provisório.
+2. **`RC-871` Midana (IV.18.3 — 20º da seção; materialização):** 1 span «» — «A Terra tem 4 bilhões 600 milhões de anos... bola encandescente de lava»; tabela com 6 códigos sem aresta; status ⚪ candidato.
+3. **`RC-870` Fórmulas Mentais (IV.19.1 — 18º da seção; maior ficha do lote, 1.253 p.; materialização):** 4 spans — «Porque na condição demo...» + «produzquências...» + «Uma fórmula mental manda num dela.» + «pior que o leão, pior que o demo, melhor que Deus»; 083 sem ficha anotado; status ⚪ candidato.
+4. **`RC-865` Pulsação Digna (IV.21.1 — 22º da seção; materialização):** 3 spans — a onda que inibe + «Quando você cansa de pulsar...» + «A raça humana não. Mas alguns humanos sim»; 4 códigos sem aresta; status ⚪ candidato.
+5. **`RC-863` Ocaso do Criador (III.16.3 — 4º da seção; materialização):** 3 spans — «o ocaso de Javer junto com a colônia das abelhas» + «Simplesmente deu errado» + «mas jamais desativado»; 5 códigos sem aresta; seção unânime, sem divergência; status ⚪ candidato.
+6. **`RC-862` Essênios (III.14.3 — 5º da seção; menor ficha do lote, 285 p.; F044):** 2 spans — «o Messias já está entre nós» + «...se filho foi criado pelos Essênios...» ("..." final byte a byte); 944/072 sem aresta; status ⚪ candidato.
+7. **Divergências de legenda anotadas, não harmonizadas (5 subseções):** IV.19.3 (psiquismo ×2 — 573/637; 3+32 seguidores) · IV.18.3 (corpo ×4 — 518/543/619/732; 646; cap-vol. ×2 — 729/748; 12 seguidores) · IV.19.1 (285; 529; psiquismo ×2; 613; 699; 517 cap-vol.; 7+4 seguidores) · IV.21.1 (critério ×2 — 253/335; 17+3 seguidores) · III.14.3 (rishis — 586; mestres — 766; 2 seguidores). III.16.3 unânime.
+8. **Seções tocadas:** V4.19.03 36→37 · V4.18.03 19→20 · V4.19.01 17→18 · V4.21.01 21→22 · V3.16.03 3→4 · V3.14.03 4→5. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 18 spans «» de primeira, 0 falhas.
+10. **Statuses:** 1× 🟡 provisório (889) + 5× ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Divergência de subclasse só no RC-889** (3.1 × 4.4); as 5 materializações coincidem ficha = cadastro.
+
+**Próximos (12º anel, grau 0 — 93 restantes):** por ordem decrescente — `RC-860`, `RC-859`, `RC-858`, `RC-856`, `RC-855`, `RC-854` (pulando o `RC-857`, já publicado) (a confirmar no despacho do Lote 91).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
