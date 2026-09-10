@@ -3075,6 +3075,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 27 restantes):** por ordem decrescente — `RC-788`, `RC-787`, `RC-786`, `RC-785`, `RC-784`, `RC-783` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 102).
 
+### Lote 102 — 12º anel, grau 0 (6 verbetes, 3.996 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 102 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `222d87c` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Egrégora de Lilith / Noreia | IV.19.1 | `V4/V4.19.01-RC787-egregora-lilith-noreia.md` | **746** | 680 p. |
+| Especiação Humana — Levas Genéticas | IV.18.3 | `V4/V4.18.03-RC783-especiacao-humana-levas-geneticas.md` | 710 | **2.030 p.** |
+| Racionalidade Humana Trucidada | III.16.3 | `V3/V3.16.03-RC786-racionalidade-humana-trucidada.md` | 649 | 779 p. |
+| Revolução Inacabada de Prometeu e Pandora | III.16.5 | `V3/V3.16.05-RC788-revolucao-inacabada-prometeu-pandora.md` | 643 | 613 p. |
+| Sofia como Protetorado da Humanidade | V.22.1 | `V5/V5.22.01-RC784-sofia-protetorado-humanidade.md` | 633 | **541 p.** |
+| Sequência Formativa da Racionalidade Humana | III.15.2 | `V3/V3.15.02-RC785-sequencia-formativa-racionalidade.md` | **615** | 687 p. |
+
+**Medida final:** 615–746 palavras (média 666) · **12 verbatim byte a byte** · 121 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 126 de 147** (21 restantes; `RC-936` remissiva permanente). Estado: 628 verbetes · **8.511 verbatim · 7.825 códigos · 0 falhas**.
+
+**Achados do lote 102 (o bloco Pandora — P2019-05-11 + P2023-11-11 + P2025-04-06, 783–788):**
+
+1. **`RC-788` Revolução Inacabada (III.16.5 — 12º da seção):** 2 spans — «...parou de levar a sério a si mesmo...» + «...nascer como mãe quatro vezes...»; peça de encerramento do tema Pandora; quarentena crítica; 270/271/105 sem ficha; status ⚪ candidato.
+2. **`RC-787` Egrégora de Lilith / Noreia (IV.19.1 — 22º da seção):** 2 spans — «...Lili e Noré... lups mentais...» + «...o carteiro poeta...»; QUARENTENA FORTE (não inventar o conteúdo do loop); selo F040-L4; \"Lilith\"×\"Adhytia\" + \"Noreia\"×\"Indecifráveis\" (sem ficha); status ⚪ candidato.
+3. **`RC-786` Racionalidade Trucidada (III.16.3 — 6º da seção):** 2 spans — «...1000 anos, ninguém na Europa podia aprender a ler...» + «...matar o cara com 44 anos...»; seção unânime (5/5); quarentenas historiográfica + Fausto; \"Niceia\"×\"Val Antien\" (sem ficha); status ⚪ candidato.
+4. **`RC-785` Sequência Formativa (III.15.2 — 6º da seção):** 2 spans — «...Pandora, Lilif, Irra, Eva, Noreia...» + «...Pandora transou bastante...»; quarentenas Lilith/Noreia FORTE + Eva; (285) entre parênteses; status ⚪ candidato.
+5. **`RC-784` Sofia Protetorado (V.22.1 — 30º da seção; menor ficha do lote, 541 p.):** 2 spans — «...Sofia que vai ter que resolver isso...» + «...Saia daqui tudo que é pirata.»; seção gigante (30º); \"Insetoides\"×\"Ressurreição do Cadáver\"; status ⚪ candidato.
+6. **`RC-783` Especiação Levas (IV.18.3 — 24º da seção; maior ficha do 12º anel, 2.030 p., 1 primária + 7 ampliações):** 2 spans — «...a genética que vai não é a melhor, é a que puder ir...» + «...raça raiz pra nova mente espiritual...»; quarentena darwiniana; errata de contagem do L99 (807 foi o 23º); status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções + 1 unânime):** III.16.5 (legenda ×2 — 635/734/737; vol. ×2 — 741/750; 6 seguidores) · III.16.3 (unânime 5/5 — sem divergência) · III.15.2 (legenda ×1 — 727; vol. ×1 — 424; 3 seguidores) · V.22.1 (legenda ×4 grupos — Moros ×3/transformação ×4/708/ÍNDICE ×20; vol. ×4 — destinos/para-onde/obra/ÍNDICE; 20 seguidores) · IV.18.3 (legenda ×2 — corpo-herança ×4/646; vol. ×1 — 729/748; 17 seguidores) · IV.19.1 (legenda ×6 grupos — 285-erro/529/548+713/613/699; vol. ×1 — 517; 14 seguidores).
+8. **Seções tocadas:** V3.16.05 11→12 · V4.19.01 21→22 · V3.16.03 5→6 · V3.15.02 5→6 · V5.22.01 29→30 · V4.18.03 23→24. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 12 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem nas 6** (4º lote seguido). **Rótulos × títulos:** 308 \"Lilith\"×\"Adhytia\" (×2) · 309 \"Noreia\"×\"Indecifráveis\" (sem ficha, ×2) · 114 \"Niceia\"×\"Val Antien\" (sem ficha) · 638 \"Insetoides\"×\"Ressurreição do Cadáver\" (×2) · 105 ×Ulsh (sem ficha, ×2) · 270/271 (sem ficha) · resto ✓/prefixos.
+
+**Próximos (12º anel, grau 0 — 21 restantes):** por ordem decrescente — `RC-782`, `RC-781`, `RC-780`, `RC-779`, `RC-778`, `RC-689` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 103).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

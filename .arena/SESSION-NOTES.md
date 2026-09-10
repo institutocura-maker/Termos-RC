@@ -2106,3 +2106,20 @@ Acumulado: **622 verbetes** · 8.499 verbatim · 7.688 códigos · **0 falhas** 
 6. **Seções:** V3.15.03 6→7 · V4.21.01 24→25 · V2.08.01 36→37 · V4.19.01 20→21 · V3.13.04 7→8 · V2.07.04 6→7. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 27 restantes):** por código decrescente — `RC-788`, `RC-787`, `RC-786`, `RC-785`, `RC-784`, `RC-783` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 102).
+
+## 11/09/2026 — Lote 102: 12º ANEL, GRAU 0 (6 verbetes, 3.996 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 102 como sugerido.»
+
+`RC-788` Revolução Inacabada (**III.16.5 — 12º da seção**, 643 p.; ficha 613) · `RC-787` Egrégora de Lilith / Noreia (**IV.19.1 — 22º da seção**, 746; 680) · `RC-786` Racionalidade Humana Trucidada (**III.16.3 — 6º da seção**, 649; 779) · `RC-785` Sequência Formativa (**III.15.2 — 6º da seção**, 615; 687) · `RC-784` Sofia como Protetorado (**V.22.1 — 30º da seção**, 633; 541) · `RC-783` Especiação Levas Genéticas (**IV.18.3 — 24º da seção**, 710; 2030).
+
+Acumulado: **628 verbetes** · 8.511 verbatim · 7.825 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 126 de 147 · 21 restantes.**
+
+1. **Ambiente estável** (`222d87c` = remoto; limpa). Fichas 613/680/779/687/541/2030 = 5.330 p.; bloco Pandora P2019+P2023+P2025.
+2. **Pré-teste estrito:** 12 spans de primeira, **0 falhas** (628/8511/7825/0). Nenhuma correção pré-commit.
+3. **`RC-788` Revolução:** parou-de-levar-a-sério/mãe-quatro-vezes; encerramento tema Pandora; 270/271/105 sem ficha; ⚪. **`RC-787` Egrégora (maior verbete, 746 p.):** Lili-e-Noré/carteiro-poeta; QUARENTENA FORTE anti-invenção; F040-L4; 308/309 choques; ⚪. **`RC-786` Trucidada:** 1000-anos/Boécio-44; III.16.3 unânime; 114 Niceia×Val Antien; ⚪. **`RC-785` Sequência:** cinco-figuras/transou-bastante; quarentena Eva; (285) parênteses; ⚪. **`RC-784` Sofia (menor ficha, 541 p.):** resolver/piratas; V.22.1-30º; 638 choque; ⚪. **`RC-783` Levas (maior ficha do anel, 2030 p.):** puder-ir/raça-raiz; 1+7 fontes; errata 807=23º; ⚪.
+4. **Classificações coincidem nas 6 (4º lote seguido).** Rótulos × títulos: 308 Lilith×Adhytia (×2) · 309 Noreia×Indecifráveis (sem ficha, ×2) · 114 Niceia×Val Antien (sem ficha) · 638 Insetoides×Ressurreição (×2) · 105 ×Ulsh (sem ficha, ×2) · 270/271 sem ficha · resto ✓/prefixos.
+5. **Divergências (5+1):** III.16.5 (635/734/737; 741/750; 6) · III.16.3 (unânime 5/5) · III.15.2 (727; 424; 3) · V.22.1 (003/467/725; 558/615/654/767; 708; 355; 20) · IV.18.3 (518/543/619/732; 646; 729/748; 17) · IV.19.1 (285-erro/529/548+713/613/699; 517; 14).
+6. **Seções:** V3.16.05 11→12 · V4.19.01 21→22 · V3.16.03 5→6 · V3.15.02 5→6 · V5.22.01 29→30 · V4.18.03 23→24. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 21 restantes):** por código decrescente — `RC-782`, `RC-781`, `RC-780`, `RC-779`, `RC-778`, `RC-689` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 103).
