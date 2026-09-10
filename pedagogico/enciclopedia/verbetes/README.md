@@ -3171,6 +3171,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 9 restantes):** por ordem decrescente — `RC-120`, `RC-089`, `RC-062`, `RC-046`, `RC-031`, `RC-021` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 105). Restarão `RC-018` + `RC-017` para o Lote 106, o fecho do anel.
 
+### Lote 105 — 12º anel, grau 0 (6 verbetes, 3.228 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 105 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `9620e3e` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Processador Val | V.23.2 | `V5/V5.23.02-RC089-processador-val.md` | **613** | **1.871 p.** |
+| Dan | II.7.3 | `V2/V2.07.03-RC046-dan.md` | 559 | 765 p. |
+| Antares (Sistema) | II.7.3 | `V2/V2.07.03-RC021-antares-sistema.md` | 539 | 1.080 p. |
+| Val El / Val Ellam | I.1.1 | `V1/V1.01.01-RC120-val-el-val-ellam.md` | 536 | **285 p.** |
+| Aya e Aye | III.13.3 | `V3/V3.13.03-RC031-aya-e-aye.md` | 499 | 514 p. |
+| Experiência Gron | III.16.5 | `V3/V3.16.05-RC062-experiencia-gron.md` | **482** | 419 p. |
+
+**Medida final:** 482–613 palavras (média 538) · **7 verbatim byte a byte** · 54 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 144 de 147** (3 restantes: `RC-018` + `RC-017` + a remissiva `RC-936`). Estado: 646 verbetes · **8.534 verbatim · 8.194 códigos · 0 falhas**.
+
+**Achados do lote 105 (o bloco capelino — B031/B057/B058 + palestras, 021–120):**
+
+1. **`RC-120` Val El / Val Ellam (I.1.1 — 2º da seção; menor ficha do lote, 285 p.):** 1 span — «Val El / Val Ellam» (nome composto; ficha de aparato F045 quase sem verbatim); lista sem rótulos 109/071/140/068/083; 140/083 sem ficha; hubs 071+068; seção nova (o outro morador é o hub 071); status 🟡 provisório.
+2. **`RC-089` Processador Val (V.23.2 — 6º da seção; maior ficha do lote, 1.871 p., 11 fontes):** 2 spans — «...o último processador a ser gerado, ele era o mais moderno...» + «...hoje é o corpo de J...»; tensão D-10 com RC-446 preservada; STT Vol/vol/voz; seção nova (hub 771 na vizinhança); status 🟠 em análise.
+3. **`RC-062` Experiência Gron (III.16.5 — 13º da seção; menor verbete do lote, 482 p.):** 1 span — «...a experiência cronom...»; materialização P2018-12-15; 058/032 sem ficha (032 com arestas F030 mas sem arquivo); hub 068; status 🟠 em análise.
+4. **`RC-046` Dan (II.7.3 — 6º da seção):** 1 span — «...a lenda dos Turatas de Danã...»; QUARENTENA UFOLÓGICA O-7 (mundo-nave, voz isolada de Yel Luzbel); "Raças capelinas"×"Yel"; 136/079 sem ficha; seção nova (hub 470 na vizinhança); status 🟠 em análise.
+5. **`RC-031` Aya e Aye (III.13.3 — 7º da seção):** 1 span — «...os seres aia queriam jogar em cima dele...»; materialização P2018-12-16 (BLOCO 5 vazio); tudo ✓; 097 sem ficha; seção nova; status 🟠 em análise.
+6. **`RC-021` Antares (II.7.3 — 7º da seção):** 1 span — «...a rebelião de Lúcifero... se concentrou em Antares.»; QUARENTENA UFOLÓGICA + institucional (Wikipédia do adaptador); "Capela"×"Gron Mion"; 067 sem ficha; status 🟠 em análise.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** I.1.1 (legenda ×1 + vol. ×1 — 071-hub; 1 seguidor: este) · V.23.2 (legenda ×1 + vol. ×1 — 771-hub; 4 seguidores) · II.7.3 (vol. truncado ×2 — 589/470-hub; legenda unânime; 5 seguidores) · III.13.3 (legenda ×1 — 147; vol. ×1 — 019; 4 seguidores) · III.16.5 (legenda ×2 — 635/734/737; vol. ×2 — 741/750; 7 seguidores).
+8. **Seções tocadas:** V1.01.01 1→2 · V5.23.02 5→6 · V2.07.03 5→7 (+2) · V3.13.03 6→7 · V3.16.05 12→13. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 7 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** um 🟡 provisório + cinco 🟠 em análise — **estreia do 🟠 no 12º anel**. Grau 0 em todo o lote. **Classificações coincidem nas 6** (volta do 6/6). **Rótulos × títulos:** 136 "Raças capelinas"×"Yel" (sem ficha) · 067 "Capela"×"Gron Mion" (sem ficha) · 120 sem rótulos · 109/036/058/018/032/068/039/079/019/009/001/097/017/002/103 ✓/prefixos · sem-ficha: 140/083/058/032/136/079/097/067.
+
+**Próximos (12º anel, grau 0 — 3 restantes):** o fecho — `RC-018` Alt´Lam Gron + `RC-017` Alt´Lam (ambos 🟠 em análise; o `RC-936` permanece como remissiva permanente) (a confirmar no despacho do Lote 106, o fecho do 12º anel).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

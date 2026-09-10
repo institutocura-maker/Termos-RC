@@ -2157,3 +2157,20 @@ Acumulado: **640 verbetes** · 8.527 verbatim · 8.130 códigos · **0 falhas** 
 6. **Seções:** V1.03.02 11→12 · V1.03.04 5→6 · V1.03.01 10→11 · V3.12.01 19→20 · V5.22.01 31→32 · V4.21.01 25→26. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 1×⚪ + 5×🟡 (fim da sequência ⚪, 19 lotes).
 
 **Próximos (12º anel, grau 0 — 9 restantes):** por código decrescente — `RC-120`, `RC-089`, `RC-062`, `RC-046`, `RC-031`, `RC-021` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 105). Restarão `RC-018` + `RC-017` para o Lote 106, o fecho do anel.
+
+## 11/09/2026 — Lote 105: 12º ANEL, GRAU 0 (6 verbetes, 3.228 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 105 como sugerido.»
+
+`RC-120` Val El / Val Ellam (**I.1.1 — 2º da seção**, 536 p.; ficha 285) · `RC-089` Processador Val (**V.23.2 — 6º da seção**, 613; 1871) · `RC-062` Experiência Gron (**III.16.5 — 13º da seção**, 482; 419) · `RC-046` Dan (**II.7.3 — 6º da seção**, 559; 765) · `RC-031` Aya e Aye (**III.13.3 — 7º da seção**, 499; 514) · `RC-021` Antares (**II.7.3 — 7º da seção**, 539; 1080).
+
+Acumulado: **646 verbetes** · 8.534 verbatim · 8.194 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 144 de 147 · 3 restantes (018/017 + remissiva 936).**
+
+1. **Ambiente estável** (`9620e3e` = remoto; limpa). Fichas 285/1871/419/765/514/1080 = 4.934 p.; bloco capelino B031/B057/B058 + palestras.
+2. **Pré-teste estrito:** 7 spans de primeira, **0 falhas** (646/8534/8194/0). Nenhuma correção pré-commit.
+3. **`RC-120` Val El (menor ficha, 285 p.):** nome-composto; aparato F045; sem rótulos; hubs 071+068; 140/083 sem ficha; 🟡. **`RC-089` Val (maior, 613/1871 p.):** mais-moderno/corpo-de-J; tensão D-10; Vol-STT; 🟠. **`RC-062` Gron (menor verbete, 482 p.):** cronom; 983/1641; 058/032 sem ficha; hub 068; 🟠. **`RC-046` Dan:** Turatas-de-Danã; QUAR.UFOLÓGICA O-7; Raças×Yel; 136/079 sem ficha; 🟠. **`RC-031` Aya/Aye:** seres-aia/Sete; BLOCO-5 vazio; tudo ✓; 097 sem ficha; 🟠. **`RC-021` Antares:** Lúcifero-concentrou; QUAR.UFOL+instit; Capela×Gron-Mion; 067 sem ficha; 🟠.
+4. **Classificações coincidem nas 6 (volta do 6/6).** Rótulos × títulos: 136 Raças×Yel · 067 Capela×Gron-Mion · 120 sem rótulos · resto ✓/prefixos · 8 sem-ficha (140/083/058/032/136/079/097/067).
+5. **Divergências (5):** I.1.1 (071-hub; 1) · V.23.2 (771-hub; 4) · II.7.3 (589/470-hub trunc; legenda unânime; 5) · III.13.3 (147; 019; 4) · III.16.5 (635/734/737; 741/750; 7).
+6. **Seções:** V1.01.01 1→2 · V5.23.02 5→6 · V2.07.03 5→7 · V3.13.03 6→7 · V3.16.05 12→13. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 1×🟡 + 5×🟠 (estreia do 🟠 no anel).
+
+**Próximos (12º anel — 3 restantes):** o fecho — `RC-018` Alt´Lam Gron + `RC-017` Alt´Lam (ambos 🟠; `RC-936` remissiva permanente) (a confirmar no despacho do Lote 106, o fecho do 12º anel).
