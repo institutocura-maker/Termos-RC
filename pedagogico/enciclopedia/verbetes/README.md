@@ -2595,6 +2595,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 117 restantes):** por ordem decrescente — `RC-908`, `RC-907`, `RC-906`, `RC-905`, `RC-904`, `RC-903` (a confirmar no despacho do Lote 87).
 
+### Lote 87 — 12º anel, grau 0 (6 verbetes, 2.619 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 87 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `ce8dd0f` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Yoga Tibetana dos Sonhos | IV.19.3 | `V4/V4.19.03-RC906-yoga-tibetana-dos-sonhos.md` | **449** | 106 p. |
+| Evangelho de Bartolomeu | IV.19.3 | `V4/V4.19.03-RC904-evangelho-de-bartolomeu.md` | 449 | **136 p.** |
+| Sonhos como Realidades Paralelas | IV.19.3 | `V4/V4.19.03-RC908-sonhos-como-realidades-paralelas.md` | 445 | 105 p. |
+| Tonteltã | IV.19.3 | `V4/V4.19.03-RC907-tontelta.md` | 426 | 91 p. |
+| Tions | IV.19.3 | `V4/V4.19.03-RC905-tions.md` | **425** | 96 p. |
+| Umbrais | IV.19.3 | `V4/V4.19.03-RC903-umbrais.md` | 425 | **90 p.** |
+
+**Medida final:** 425–449 palavras (média 437) · **19 verbatim byte a byte** · 34 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 36 de 147** (111 restantes; `RC-936` remissiva permanente). Estado: 538 verbetes · **8.319 verbatim · 5.823 códigos · 0 falhas**.
+
+**Achados do lote 87 (Teia da Vida ×6 — P2024-01-13):**
+
+1. **`RC-908` Sonhos como Realidades Paralelas (IV.19.3 — 22º da seção):** ficha mínima — «desdobramentos que o eu da gente espiritual ou encarnado faz...»; 557/628 sem aresta; status 🟡 provisório.
+2. **`RC-907` Tonteltã (IV.19.3 — 23º da seção):** ficha mínima — «Esse ser chamado espírito chamado Tonteltã...»; 072/490 sem aresta; status 🟡 provisório.
+3. **`RC-906` Yoga Tibetana dos Sonhos (IV.19.3 — 24º da seção):** ficha mínima — «Existe yoga que você pode fazer para você se recordar melhor...»; 557/899 sem aresta; status 🟡 provisório.
+4. **`RC-905` Tions (IV.19.3 — 25º da seção):** ficha mínima — «partículas que se movimentam numa perspectiva superluminal»; 559/628 sem aresta; status 🟡 provisório.
+5. **`RC-904` Evangelho de Bartolomeu (IV.19.3 — 26º da seção; maior ficha do lote, 136 p.):** duas ampliações — P2024-01-13 («Bartolomeu produziu um chamado evangelho apócrifo») + P2023-12-25-03 Aula 03 (**«conversando com Judas Dídimo Tomé...»** em negrito, reproduzido com a marcação); 072/479 sem aresta; status 🟡 provisório.
+6. **`RC-903` Umbrais (IV.19.3 — 27º da seção; menor ficha do lote, 90 p.):** ficha mínima — «os famosos umbrais... uma exculhambação»; 479/899 sem aresta; status 🟡 provisório.
+7. **Divergência de legenda anotada, não harmonizada (1 subseção):** IV.19.3 (psiquismo ×2 — 573/637; 3+5+6+5+6 seguidores).
+8. **Seção tocada:** V4.19.03 21→27 (+6). Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 19 spans «» de primeira, 0 falhas (negrito do RC-904 conferido contra o bruto).
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote; fichas listam códigos sem rótulos. **Divergência sistemática de subclasse (6/6 fichas):** "5.1 Epistemologia / Cognição" × cadastro "4.4 Fenômenos físicos / energéticos" — anotada, não harmonizada (idem Lotes 84, 85 e 86).
+
+**Próximos (12º anel, grau 0 — 111 restantes):** por ordem decrescente — `RC-902`, `RC-901`, `RC-900`, `RC-899`, `RC-897`, `RC-896` (pulando o `RC-898`, publicado no L72) (a confirmar no despacho do Lote 88).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

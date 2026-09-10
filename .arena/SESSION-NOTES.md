@@ -1851,3 +1851,20 @@ Acumulado: **532 verbetes** · 8.300 verbatim · 5.649 códigos · **0 falhas** 
 6. **Seções:** V4.19.03 16→21 (+5) · V4.19.01 15→16. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 117 restantes):** por código decrescente — `RC-908`, `RC-907`, `RC-906`, `RC-905`, `RC-904`, `RC-903` (a confirmar no despacho do Lote 87).
+
+## 10/09/2026 — Lote 87: 12º ANEL, GRAU 0 (6 verbetes, 2.619 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 87 como sugerido.»
+
+`RC-908` Sonhos como Realidades Paralelas (**IV.19.3 — 22º da seção**, 445 p.; ficha 105) · `RC-907` Tonteltã (**IV.19.3 — 23º da seção**, 426; 91) · `RC-906` Yoga Tibetana dos Sonhos (**IV.19.3 — 24º da seção**, 449; 106) · `RC-905` Tions (**IV.19.3 — 25º da seção**, 425; 96) · `RC-904` Evangelho de Bartolomeu (**IV.19.3 — 26º da seção**, 449; 136) · `RC-903` Umbrais (**IV.19.3 — 27º da seção**, 425; 90).
+
+Acumulado: **538 verbetes** · 8.319 verbatim · 5.823 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 36 de 147 · 111 restantes.**
+
+1. **Ambiente estável** (`ce8dd0f` = remoto; limpa). Fichas 105/91/106/96/136/90 = 624 p.; 12 pares, todos sem-aresta (557/628, 072/490, 557/899, 559/628, 072/479, 479/899).
+2. **Pré-teste estrito:** 19 spans de primeira, **0 falhas** (538/8319/5823/0); negrito do RC-904 conferido contra o bruto (reproduzido byte a byte).
+3. **`RC-908` Sonhos:** desdobramentos/paralelas; 🟡. **`RC-907` Tonteltã:** asas; 🟡. **`RC-906` Yoga:** recordar vigília/sono/sonhos; 🟡. **`RC-905` Tions:** superluminal; 🟡. **`RC-904` Bartolomeu (maior ficha, 136 p.):** apócrifo + Aula 03 (Tomé/Filipe/Bartolomeu/Madalena); 🟡. **`RC-903` Umbrais (menor, 90 p.):** exculhambação; 🟡.
+4. **Divergência sistemática 6/6 idem L84–L86:** "5.1 Epistemologia/Cognição" × cadastro "4.4" — segue ficha + anota. Fichas sem rótulos (códigos nus).
+5. **Divergência (1):** IV.19.3 (psiquismo ×2 — 573/637; seguidores 379/640/768 + 5 L84 + 6 L85 + 5 L86 + 6 do lote). **Seção:** V4.19.03 21→27 (+6).
+6. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 111 restantes):** por código decrescente — `RC-902`, `RC-901`, `RC-900`, `RC-899`, `RC-897`, `RC-896` (pulando o `RC-898`, publicado no L72) (a confirmar no despacho do Lote 88).
