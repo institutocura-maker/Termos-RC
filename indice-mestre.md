@@ -60,7 +60,7 @@
 | RC-052 | Deus / Deus Incognoscível | Seres & Entidades | 1.1 Divindades / Criadores | 🟢 | B031, B001, B002, B048, B061, P2025-03-15, P2025-02-15, P2024-11-30, P2024-11-09, P2023-12-25-01 | RC-047; RC-041; RC-059; RC-001; RC-723 | [✔](termos/RC-052-deus-deus-incognoscivel.md) |
 | RC-053 | Deuses (os dois tipos) | Seres & Entidades | 1.5 Decaídos / Exilados / Demônios | 🟡 | B031, P2025-02-16, P2024-11-30, P2024-11-09 | RC-049; RC-024; RC-047; RC-064; RC-065 | — |
 | RC-054 | Divindades (Co-criadoras) | Seres & Entidades | 1.1 Divindades / Criadores | 🟡 | B031, B024 | RC-047; RC-011; RC-012; RC-037 | — |
-| RC-055 | En Drel | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟠 | B031, B015, B061, P2025-10-25 | RC-019; RC-147; RC-001 | [✔](termos/RC-055-en-drel.md) |
+| RC-055 | En Drel | Seres & Entidades | 1.4 Anjos / Arcanjos / Querubins | 🟢 | B031, B015, B061, P2025-10-25 | RC-019; RC-147; RC-001 | [✔](termos/RC-055-en-drel.md) |
 | RC-056 | Especiação | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟠 | B031, P2022-12-17, P2025-02-16, P2024-09-29, P2024-07-13, P2023-05-13, P2021-03-27, P2025-11-29, P2021-05-15, P2020-04-25, P2022-03-26, P2023-12-03 | RC-042; RC-099; RC-698 | [✔](termos/RC-056-especiacao.md) |
 | RC-057 | Espherian | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟠 | B031 | RC-058; RC-025; RC-032; RC-065 | [✔](termos/RC-057-espherian.md) |
 | RC-058 | Espheron | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟠 | B031, B017, B018, B039 | RC-057; RC-025; RC-018; RC-062 | [✔](termos/RC-058-espheron.md) |

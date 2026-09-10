@@ -136,7 +136,7 @@ TERMOS = [
     ("RC-052", "Deus / Deus Incognoscível", SER_DIV[0], SER_DIV[1], "verificado", ['B031', 'B001', 'B002', 'B048', 'B061', 'P2025-03-15', 'P2025-02-15', 'P2024-11-30', 'P2024-11-09', "P2023-12-25-01"], 'RC-047; RC-041; RC-059; RC-001; RC-723', True),
     ("RC-053", "Deuses (os dois tipos)", SER_DEC[0], SER_DEC[1], P, ['B031', 'P2025-02-16', 'P2024-11-30', 'P2024-11-09'], 'RC-049; RC-024; RC-047; RC-064; RC-065', False),
     ("RC-054", "Divindades (Co-criadoras)", SER_DIV[0], SER_DIV[1], P, ["B031", "B024"], "RC-047; RC-011; RC-012; RC-037", False),
-    ("RC-055", "En Drel", SER_ANJ[0], SER_ANJ[1], 'em análise', ['B031', 'B015', 'B061', 'P2025-10-25'], "RC-019; RC-147; RC-001", True),
+    ("RC-055", "En Drel", SER_ANJ[0], SER_ANJ[1], "verificado", ['B031', 'B015', 'B061', 'P2025-10-25'], "RC-019; RC-147; RC-001", True),
     ("RC-056", "Especiação", PRO_BIO[0], PRO_BIO[1], 'em análise', ['B031', 'P2022-12-17', 'P2025-02-16', 'P2024-09-29', 'P2024-07-13', 'P2023-05-13', 'P2021-03-27', 'P2025-11-29', 'P2021-05-15', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], 'RC-042; RC-099; RC-698', True),
     ("RC-057", "Espherian", TEC_NAV[0], TEC_NAV[1], "em análise", ["B031"], "RC-058; RC-025; RC-032; RC-065", True),
     ("RC-058", "Espheron", TEC_NAV[0], TEC_NAV[1], "em análise", ["B031", "B017", "B018", "B039"], "RC-057; RC-025; RC-018; RC-062", True),
