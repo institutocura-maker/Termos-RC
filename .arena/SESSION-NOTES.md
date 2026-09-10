@@ -1936,3 +1936,20 @@ Acumulado: **562 verbetes** · 8.392 verbatim · 6.452 códigos · **0 falhas** 
 6. **Seções:** V3.11.03 7→9 (+2) · V5.22.01 28→29 · V3.16.04 8→9 · V3.14.02 10→11 · V5.23.01 16→17. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 87 restantes):** por código decrescente — `RC-853`, `RC-852`, `RC-851`, `RC-850`, `RC-849`, `RC-848` (a confirmar no despacho do Lote 92).
+
+## 10/09/2026 — Lote 92: 12º ANEL, GRAU 0 (6 verbetes, 3.135 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 92 como sugerido.»
+
+`RC-853` Sankalpa (**I.3.1 — 9º da seção**, 476 p.; ficha 436) · `RC-852` Prajapati (**III.9.1 — 22º da seção**, 531; 583) · `RC-851` Qin Shi Huang Di (**III.14.4 — 5º da seção**, 614; 675) · `RC-850` Alexandre Magno (**III.14.4 — 6º da seção**, 602; 1.031) · `RC-849` Nicola Tesla (**III.14.4 — 7º da seção**, 414; 382) · `RC-848` Sociedade Thule (**IV.20.1 — 20º da seção**, 498; 467).
+
+Acumulado: **568 verbetes** · 8.403 verbatim · 6.538 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 66 de 147 · 81 restantes.**
+
+1. **Ambiente estável** (`f1ec9d0` = remoto; limpa). Fichas 436/583/675/1031/382/467 = 3.574 p.; 20 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 11 spans de primeira, **0 falhas** (568/8403/6538/0).
+3. **`RC-853` Sankalpa:** sancalpa/30 palavras; ⚪. **`RC-852` Prajapati:** hesitou/prisioneira/Brajna; ⚪. **`RC-851` Qin:** Huang/muralha/nave esverdeada; ⚪. **`RC-850` Alexandre (maior, 1.031 p.):** melhor DNA/união/Iel Brasil + D-9; 406 sem ficha; ⚪. **`RC-849` Tesla (menor, 382 p.):** sânscrito/Orsic; ⚪. **`RC-848` Thule:** Turno/frio/Rita; ⚪.
+4. **Classificações e rótulos coincidem nas 6.** Tabelas defasadas: 075/847/239/846 "sem arquivo" × ficha=True — anotado; só RC-406 sem ficha de verdade.
+5. **Divergências (4):** I.3.1 (618; 691; 706; 5 seguidores) · III.9.1 (queda ×4; logos ×4; 622; vol ×2; 756; 9 seguidores) · III.14.4 (mestres ×2 — 590/579-hub-sem-código; 2+3) · IV.20.1 (transformação ×5; autonomia ×4; 724; cap-vol ×2; 5+2+1).
+6. **Seções:** V1.03.01 8→9 · V3.09.01 21→22 · V3.14.04 4→7 (+3) · V4.20.01 19→20. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 81 restantes):** por código decrescente — `RC-847`, `RC-846`, `RC-845`, `RC-844`, `RC-843`, `RC-841` (pulando o `RC-842`, já publicado) (a confirmar no despacho do Lote 93).

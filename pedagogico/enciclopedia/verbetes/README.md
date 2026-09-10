@@ -2755,6 +2755,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 87 restantes):** por ordem decrescente — `RC-853`, `RC-852`, `RC-851`, `RC-850`, `RC-849`, `RC-848` (a confirmar no despacho do Lote 92).
 
+### Lote 92 — 12º anel, grau 0 (6 verbetes, 3.135 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 92 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `f1ec9d0` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Qin Shi Huang Di | III.14.4 | `V3/V3.14.04-RC851-qin-shi-huang-di.md` | **614** | 675 p. |
+| Alexandre Magno | III.14.4 | `V3/V3.14.04-RC850-alexandre-magno.md` | 602 | **1.031 p.** |
+| Prajapati | III.9.1 | `V3/V3.09.01-RC852-prajapati.md` | 531 | 583 p. |
+| Sociedade Thule | IV.20.1 | `V4/V4.20.01-RC848-sociedade-thule.md` | 498 | 467 p. |
+| Sankalpa | I.3.1 | `V1/V1.03.01-RC853-sankalpa.md` | 476 | 436 p. |
+| Nicola Tesla | III.14.4 | `V3/V3.14.04-RC849-nicola-tesla.md` | **414** | **382 p.** |
+
+**Medida final:** 414–614 palavras (média 523) · **11 verbatim byte a byte** · 67 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 66 de 147** (81 restantes; `RC-936` remissiva permanente). Estado: 568 verbetes · **8.403 verbatim · 6.538 códigos · 0 falhas**.
+
+**Achados do lote 92 (6 materializações Motor Único — sânscrito, tiranos, Thule):**
+
+1. **`RC-853` Sankalpa (I.3.1 — 9º da seção):** 1 span — «...uma palavra que significa sancalpa... umas 30 palavras em português»; tabela × cadastro (075) anotada; 075/151 sem aresta; status ⚪ candidato.
+2. **`RC-852` Prajapati (III.9.1 — 22º da seção):** 3 spans — «também chamada de prajapati, hesitou...» + «prisoneira da sua própria criação» + «Por milésimos de segundo, Brajna percebeu o erro...»; 037/001/809/047 sem aresta; status ⚪ candidato.
+3. **`RC-851` Qin Shi Huang Di (III.14.4 — 5º da seção):** 2 spans — o Huang + a muralha (nave esverdeada); quirks "porê"/"maluquíes"/"Rio Anti" anotados; 074/486/466 sem aresta; status ⚪ candidato.
+4. **`RC-850` Alexandre Magno (III.14.4 — 6º da seção; maior ficha do lote, 1.031 p.):** 3 spans — «o melhor DNA humano... paraa lógica dele» + Ocidente/Oriente + «queva... Iel Brasil»; DIVERGÊNCIA interna D-9 anotada; 406 sem ficha; status ⚪ candidato.
+5. **`RC-849` Nicola Tesla (III.14.4 — 7º da seção; menor ficha do lote, 382 p.):** 1 span — «recebia mensagens em sânscrito»; tabela × cadastro (847/239) anotada; status ⚪ candidato.
+6. **`RC-848` Sociedade Thule (IV.20.1 — 20º da seção):** 1 span — «da sociedade Turno, da sociedade frio...»; tabela × cadastro (847/846/239) anotada; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (4 subseções):** I.3.1 (seres — 618; nomes — 691; linguagem — 706; 5 seguidores) · III.9.1 (queda ×4; logos ×4; 622; vol. ×2 — 284/483; 756 sem volume; 9 seguidores) · III.14.4 (mestres ×2 — 590/579, este sem código no nome; 2+3 seguidores) · IV.20.1 (transformação ×5; autonomia ×4; caminho — 724; cap-vol. ×2; 5+2+1 seguidores).
+8. **Seções tocadas:** V1.03.01 8→9 · V3.09.01 21→22 · V3.14.04 4→7 (+3) · V4.20.01 19→20. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 11 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha (🟡 Candidato) = cadastro = ÍNDICE. Grau 0 em todo o lote; classificações e rótulos coincidem nas 6. **Tabelas defasadas (3 fichas):** 075/847/239/846 marcados "sem arquivo" mas com ficha=True no cadastro — anotado, não harmonizado.
+
+**Próximos (12º anel, grau 0 — 81 restantes):** por ordem decrescente — `RC-847`, `RC-846`, `RC-845`, `RC-844`, `RC-843`, `RC-841` (pulando o `RC-842`, já publicado) (a confirmar no despacho do Lote 93).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
