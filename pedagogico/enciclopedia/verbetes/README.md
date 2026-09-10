@@ -2371,6 +2371,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 11 restantes):** por ordem decrescente — `RC-174`, `RC-150`, `RC-146`, `RC-132`, `RC-101`, `RC-096` (a confirmar no despacho do Lote 80).
 
+### Lote 80 — 11º anel, grau 1 (6 verbetes, 4.062 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 80 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `fb476ec` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Colmeia Universal | II.8.1 | `V2/V2.08.01-RC174-colmeia-universal.md` | **928** | **1.521 p.** |
+| Val Tam | III.13.2 | `V3/V3.13.02-RC132-val-tam.md` | 788 | 682 p. |
+| Zian (Zion) | II.7.3 | `V2/V2.07.03-RC146-zian-zion.md` | 633 | 517 p. |
+| Xadrez Cósmico | II.6.1 | `V2/V2.06.01-RC150-xadrez-cosmico.md` | 590 | 389 p. |
+| Septuaginta | V.23.1 | `V5/V5.23.01-RC096-septuaginta.md` | 585 | 420 p. |
+| Shamb-Aha | II.7.4 | `V2/V2.07.04-RC101-shamb-aha.md` | **538** | 495 p. |
+
+**Medida final:** 538–928 palavras (média 677) · **37 verbatim byte a byte** · 130 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 54 de 59** (5 restantes). Estado: 497 verbetes · **8.142 verbatim · 5.078 códigos · 0 falhas**.
+
+**Achados do lote 80 (colmeia, jogo, capelinos, escrituras):**
+
+1. **`RC-174` Colmeia Universal (II.8.1 — 34º da seção; maior ficha do lote, 1.521 p.):** B044 conceito central — «Abelha-Rainha»; «grandes favos»; Pluribus unum; B041 não fundir; IEEA/Orbum fora; «Ano 2018, A trimurte colapsou...»; «assisti pessoalmente ao colapso do sistema colmeico de Javé e dos Anjos.»; «Primeiro colapsam os sistemas, depois os entes que geram sistemas»; «Quem primeiro somatizou a bronca foi o sistema colmico do lado biológico»; caps. 13–15 verificar; aresta: `RC-178` parte-de `RC-174` (B044); `RC-178`/`RC-180`/`RC-181` sem ficha; 9 sem-aresta; status 🟡 provisório.
+2. **`RC-150` Xadrez Cósmico (II.6.1 — 12º da seção; menor ficha do lote, 389 p.):** B024 conceito central — «no futuro, eu deveria escrever sobre a 'Epopeia da Consciência Espiritual'... 'Xadrez Cósmico'...»; «refém» / «Programa Operacional» / Tamas; «o jogo de samsara»; «a 'Caverna de Platão' jamais estivera tão povoada...»; caps. 2–3 verificar (poderes); aresta: `RC-150` envolve `RC-104` (B024); `RC-075`/`RC-148`/`RC-152`/`RC-167`/`RC-165` sem aresta; status 🟡 provisório.
+3. **`RC-146` Zian (Zion) (II.7.3 — 5º da seção):** ciclo B057 O-2 — planeta-escola do Mestre Codificador; «para onde convergiam todas as informações...»; «tinha vindo com Sophia para este nosso lado do universo»; O-4 grafia absorvida (Zion → Zian canônico); **quarentena ufológica O-7** (cruzar, não materializar); B057 psicografada (Yel Luzbel); B061 mineração; O-3; aresta: `RC-755` ocorre-em `RC-146` (P2022-03-26); `RC-109`/`RC-039`/`RC-092`/`RC-252`/`RC-009`/`RC-078` sem aresta; status 🟠 em análise.
+4. **`RC-132` Val Tam (III.13.2 — 19º da seção):** materializado por Devolutiva ART-2025-08-01 O-2 (não primário) — «A consciência espiritual de Val Tam está de algum modo acoplada ou prisioneira [a Awayen]...»; «captado» pelo «Processador Val» (**DADO-NARRATIVO** F041-L5); **Awayen×Awayem CHANCELA FONTE AUSENTE DA ARCA** (F038-L2, B083 não possessa, F035-V4); liquidação Q-F041-E (grafia preservada, dívida de áudio perdoada); **tensões internas da ficha** (cabeçalho 🟠 × "Regra" 🟡; subclasse 1.7 × cadastro 1.3); B083 anunciada; aresta: `RC-771` relaciona-se-a `RC-132` (ART-2025-08-01); `RC-501`/`RC-502`/`RC-065` sem ficha; 5 sem-aresta; status 🟠 em análise.
+5. **`RC-101` Shamb-Aha (II.7.4 — 5º da seção):** **materialização por despacho** 29/08/2026 (0/0); «Mas Shambaá é uma vibra, é uma realidade alternativa.»; STT Shambaá/Chambarrá; **Decisão do Curador** (manifesta-se-em RC-499); molde Alt'Lam; especificação × P2017-10-14; precursora da astralização; B031/B017/B018/B039 a preencher; aresta: `RC-101` manifesta-se-em `RC-499` (P2018-12-15); `RC-127`/`RC-026`/`RC-133` sem ficha; 5 sem-aresta; status 🟠 em análise.
+6. **`RC-096` Septuaginta (V.23.1 — 16º da seção):** **materialização por despacho** 29/08/2026 (0/0); «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta... 47, porque o livro de Enoque fazia parte.»; STT Septoaginta/coletâine; vulgata 73; B031 a preencher; aresta fora da tabela: `RC-096` relaciona-se-a `RC-273` (P2026-08-04); `RC-082` sem ficha; `RC-082`/`RC-106` sem aresta; status 🟠 em análise.
+7. **Divergências de legenda anotadas, não harmonizadas (6 subseções):** II.8.1 (Wyrd ×7; códigos ×5; RC-658; RC-382/570; RC-657; 7 sem vol. — 11 seguidores) · II.6.1 (laboratorial ×5; RC-154; RC-310 — 4 seguidores) · II.7.3 (vol. curto ×2 — RC-589/midgard; 2 seguidores) · III.13.2 (4 legendas ×5; 3 vol. — 10 seguidores) · II.7.4 (RC-495 vol. — 3 seguidores) · V.23.1 (arquivos ×2; capítulo-vol. ×8 — 5 seguidores).
+8. **Seções tocadas:** V2.08.01 33→34 · V2.06.01 11→12 · V2.07.03 4→5 · V3.13.02 18→19 · V2.07.04 4→5 · V5.23.01 15→16. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste 37 spans «» de primeira, 0 falhas — sem correções antes do verificador.
+10. **Statuses:** dois 🟡 provisório + quatro 🟠 em análise (RC-146, RC-132, RC-101, RC-096) — consistentes ficha = cadastro = ÍNDICE (RC-132 pelo cabeçalho; ver tensão interna).
+
+**Próximos (11º anel, grau 1 — 5 restantes, FECHO DO ANEL):** por ordem decrescente — `RC-039`, `RC-028`, `RC-025`, `RC-020`, `RC-007` (a confirmar no despacho do Lote 81).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
