@@ -2435,6 +2435,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 59 verbetes em 10 lotes (9×6 + 5) · **38.272 palavras** (média 649) · **330 verbatim byte a byte** · 0 falhas em todos os lotes · Base intacta do início ao fim (946/650/1898) · 0 código criado em todo o anel. Lotes: 72 (3.890 p., 20 v.) · 73 (3.033, 8) · 74 (3.905, 33) · 75 (3.822, 44) · 76 (3.918, 27) · 77 (3.783, 34) · 78 (4.147, 45) · 79 (3.831, 41) · 80 (4.062, 37) · 81 (3.881, 41). Estado: **502 verbetes · 8.183 verbatim · 5.148 códigos**. Fichas sem verbete: 169 — sendo 147 de grau 0 (isolados) + 22 hubs (RC-072 g43 à frente, com RC-414, RC-217, RC-514, RC-104, RC-717...). **O 12º anel depende de despacho:** continuação mecânica seria o grau 0 decrescente (RC-946, RC-945, RC-944, RC-943, RC-942, RC-941...); alternativa, os hubs por centralidade. Aguarda decisão do Curador.
 
+### Lote 82 — abertura do 12º anel, grau 0 (6 verbetes, 3.063 palavras)
+
+**Despacho do Curador:** liberdade de caminho ao Agente («deixa fluir») — **escolha: 12º anel = grau 0 decrescente**, honrando a arquitetura (um grau por anel, descendente); os 22 hubs ficam para o 13º anel, o fecho. *(Ambiente: **estável** — HEAD = remoto = `d16ae8c` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Pôncio Pilatos / Caifás / Sinédrio | III.14.2 | `V3/V3.14.02-RC946-poncio-pilatos-caifas-sinedrio.md` | **590** | **393 p.** |
+| Maria Madalena | III.14.2 | `V3/V3.14.02-RC943-maria-madalena.md` | 535 | 333 p. |
+| Hipocampo | IV.18.3 | `V4/V4.18.03-RC941-hipocampo.md` | 496 | 262 p. |
+| João Batista | III.14.2 | `V3/V3.14.02-RC944-joao-batista.md` | 495 | 307 p. |
+| Messias | III.11.4 | `V3/V3.11.04-RC942-messias.md` | 480 | 355 p. |
+| Pedro (apóstolo) | III.14.2 | `V3/V3.14.02-RC945-pedro.md` | **467** | **245 p.** |
+
+**Medida final:** 467–590 palavras (média 511) · **42 verbatim byte a byte** · 36 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 6 de 147** (141 restantes). Estado: 508 verbetes · **8.225 verbatim · 5.221 códigos · 0 falhas**.
+
+**Achados do lote 82 (Paixão, Messias, o cérebro):**
+
+1. **`RC-946` Pôncio Pilatos / Caifás / Sinédrio (III.14.2 — 7º da seção; maior ficha do lote, 393 p.):** verbete agrupado (decisão Ana C) — «não queria crucificar Jesus»; «Sinédrio judaico» (pleonasmo); «Ah! Jesus foi crucificado porque...»; «subornado por José de Arimatéi...»; STT «Anais»; quarentena teológica; F044 Anel C; 072/280/273 sem aresta; rótulos × cadastro (280/273); status 🟡 provisório.
+2. **`RC-945` Pedro (III.14.2 — 8º da seção; menor ficha do lote, 245 p.):** a negação — «turma do Sinédrio» / «turma de Jesus»; «Petros»; Aula 03 única; quarentena teológica; 072/904 sem aresta; rótulo × cadastro (904); status 🟡 provisório.
+3. **`RC-944` João Batista (III.14.2 — 9º da seção):** o essênio — «400 anos de silêncio profético»; «eu humano enjaulado»; «Batista»; Aulas 01–02; quarentena teológica; 072/862/752 sem aresta; rótulo × cadastro (752); status 🟡 provisório.
+4. **`RC-943` Maria Madalena (III.14.2 — 10º da seção):** a terceira fase — «ressuscitado»; «verdadeira face»; «portadora da revelação»; «A igreja preferiu a versão que Paulo criou. Paulo não conheceu Jesus...»; apóstola × paulino; Aulas 03+05; quarentena teológica; 072/280/904 sem aresta; rótulos × cadastro (280/904); status 🟡 provisório.
+5. **`RC-942` Messias (III.11.4 — 1º da seção, ABRE O ENDEREÇO):** o eixo do F044 (57.179 p.) — «enviado»; «super poderoso em nome de Javé»; «mashiach»→«christós»; «Christos»; Jesus ≠ avatar; quarentena teológica; 072/005/752 sem aresta; rótulo × cadastro (752); status 🟡 provisório.
+6. **`RC-941` Hipocampo (IV.18.3 — 18º da seção):** **F043-T3 expansão condicionada** (≥5 menções, censo 06/09) — «puxada»; GKA verbatim («memória… parte», U+2026); EXT-2024-01-04 secundária; hierarquia primárias intacta; sem canonicidade; **zero remissivas** (nenhum código na ficha); status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (2 subseções):** III.14.2 (4 sem vol. — 437/490/659/684; 2+4 seguidores) · IV.18.3 (corpo ×4 — 518/543/619/732; 646; capítulo-vol. ×2 — 729/748; 10 seguidores). **III.11.4 abre-se agora** (sem vizinhos).
+8. **Seções tocadas:** V3.14.02 6→10 (+4) · V3.11.04 0→1 (nova) · V4.18.03 17→18. Um endereço novo (III.11.4), nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 42 spans «» (com marcação, contra o bruto) de primeira, 0 falhas — a lição do L81 aplicada.
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote (`relacoes/` blindado nas seis fichas).
+
+**Próximos (12º anel, grau 0 — 141 restantes):** por ordem decrescente — `RC-940`, `RC-939`, `RC-938`, `RC-937`, `RC-936`, `RC-935` (a confirmar no despacho do Lote 83).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

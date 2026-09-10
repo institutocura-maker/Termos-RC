@@ -1765,3 +1765,21 @@ Acumulado: **502 verbetes** · 8.183 verbatim · 5.148 códigos · **0 falhas** 
 ## 10/09/2026 — FECHO DO 11º ANEL (grau 1, lotes 72–81)
 
 59 verbetes · 38.272 palavras (média 649) · 330 verbatim · 0 falhas todos os lotes · Base intacta (946/650/1898) · 0 código criado. Por lote (palavras/verbatim): 72: 3890/20 · 73: 3033/8 · 74: 3905/33 · 75: 3822/44 · 76: 3918/27 · 77: 3783/34 · 78: 4147/45 · 79: 3831/41 · 80: 4062/37 · 81: 3881/41. Estado: 502 verbetes · 8.183 verbatim · 5.148 códigos. Restam 169 fichas sem verbete: 147 grau-0 + 22 hubs (072 g43, 414, 217, 514, 104, 717, 692, 612, 638, 332, 579, 600, 771, 071, 465, 470, 074, 148, 552, 068, 449, 603). **12º anel aguarda despacho:** grau 0 decrescente (RC-946 Pôncio Pilatos/Caifás/Sinédrio, RC-945 Pedro, RC-944 João Batista, RC-943 Maria Madalena, RC-942 Messias, RC-941 Hipocampo...) ou hubs por centralidade.
+
+## 10/09/2026 — Lote 82: ABERTURA DO 12º ANEL, GRAU 0 (6 verbetes, 3.063 palavras)
+
+**Despacho do Curador:** liberdade de caminho («deixa fluir») — **escolha do Agente: 12º anel = grau 0 decrescente** (arquitetura um-grau-por-anel); 22 hubs → 13º anel (fecho).
+
+`RC-946` Pôncio Pilatos / Caifás / Sinédrio (**III.14.2 — 7º da seção**, 590 p.; ficha 393) · `RC-945` Pedro (apóstolo) (**III.14.2 — 8º da seção**, 467; 245) · `RC-944` João Batista (**III.14.2 — 9º da seção**, 495; 307) · `RC-943` Maria Madalena (**III.14.2 — 10º da seção**, 535; 333) · `RC-942` Messias (**III.11.4 — 1º da seção, ABRE**, 480; 355) · `RC-941` Hipocampo (**IV.18.3 — 18º da seção**, 496; 262).
+
+Acumulado: **508 verbetes** · 8.225 verbatim · 5.221 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 6 de 147 · 141 restantes.**
+
+1. **Ambiente estável** (`d16ae8c` = remoto; limpa). Fichas 393/245/307/333/355/262 = 1.895 p.; 14 pares, todos sem-aresta (grau 0 em todo o lote).
+2. **Pré-teste estrito** (com marcação, contra o bruto — lição L81): 42 spans de primeira, **0 falhas** (508/8225/5221/0).
+3. **`RC-946` Paixão (III.14.2 — maior ficha, 393 p.):** agrupado Ana C; não queria; pleonasmo; Arimatéi; Anais; teológica; F044 Anel C; 072/280/273 sem aresta; rótulos×cadastro (280 Sophia/Ressurreição; 273 Falsa Trindade); 🟡. **`RC-945` Pedro (menor, 245 p.):** negação; turmas; Petros; Aula 03; 072/904 sem aresta; rótulo×cadastro (904 Bartolomeu); 🟡.
+4. **`RC-944` Batista:** essênio 862; 400 anos; enjaulado; Aulas 01–02; 072/862/752 sem aresta; rótulo×cadastro (752 Agenda); 🟡. **`RC-943` Madalena:** terceira fase; ressuscitado; verdadeira face; portadora; Paulo não conheceu; apóstola×paulino; Aulas 03+05; 072/280/904 sem aresta; rótulos×cadastro; 🟡.
+5. **`RC-942` Messias (ABRE III.11.4):** eixo F044 (57.179 p.); enviado; super poderoso; mashiach/christós/Christos; ≠ avatar; 072/005/752 sem aresta; rótulo×cadastro (752); 🟡. **`RC-941` Hipocampo:** F043-T3 (≥5 menções); puxada; GKA … U+2026; EXT secundária; primárias intactas; s/ canonicidade; **zero remissivas**; 🟡.
+6. **Divergências (2 + 1 nova):** III.14.2 (4 sem-vol — 437/490/659/684; seguidores 189/376 + 4 do lote) · IV.18.3 (corpo ×4; 646; capítulo-vol. ×2 — 729/748; 10 seguidores) · **III.11.4 nova** (O Messias não assumido).
+7. **Seções:** V3.14.02 6→10 (+4) · V3.11.04 0→1 (nova) · V4.18.03 17→18. Nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 141 restantes):** por código decrescente — `RC-940`, `RC-939`, `RC-938`, `RC-937`, `RC-936`, `RC-935` (a confirmar no despacho do Lote 83).
