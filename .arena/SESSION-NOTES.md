@@ -2038,3 +2038,20 @@ Acumulado: **598 verbetes** · 8.455 verbatim · 7.217 códigos · **0 falhas** 
 6. **Seções:** V4.20.01 21→22 · V4.21.01 23→24 · V3.14.02 11→13 · V3.16.01 3→4 · V3.12.01 17→18. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 51 restantes):** por código decrescente — `RC-813`, `RC-812`, `RC-811`, `RC-810`, `RC-809`, `RC-808` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 98).
+
+## 11/09/2026 — Lote 98: 12º ANEL, GRAU 0 (6 verbetes, 3.990 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 98 como sugerido.» (antecipado; cumprido após publicar o L97.)
+
+`RC-813` Culto a Lilith (**IV.20.1 — 23º da seção**, 641 p.; ficha 604) · `RC-812` Prometeu Saca-Nica (**III.13.3 — 6º da seção**, 583; 619) · `RC-811` Fissão (**II.6.1 — 13º da seção**, 697; 606) · `RC-810` Chiva (**III.12.1 — 19º da seção**, 737; 693) · `RC-809` Buraco Branco (**III.16.3 — 5º da seção**, 637; 951) · `RC-808` Era da Solidão (**III.16.2 — 13º da seção**, 695; 599).
+
+Acumulado: **604 verbetes** · 8.466 verbatim · 7.327 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 102 de 147 · 45 restantes.**
+
+1. **Ambiente estável** (`977ac55` = remoto; limpa). Fichas 604/619/606/693/951/599 = 4.072 p.; 32 pares, todos sem-aresta (6 tabelas de relacionados).
+2. **Pré-teste estrito:** 11 spans de primeira, **0 falhas** (604/8466/7327/0). Nenhuma correção pré-commit.
+3. **`RC-813` Lilith:** deusa na mesa/adestrados; quarentena demonológica FORTE; 7.3×2.4 (ficha); 105 sem ficha; ⚪. **`RC-812` Prometeu:** Pometeu-Pimeteu/sacranear-richa; 1.4 coincide; 149 ×2 linhas; 270/271 sem ficha; ⚪. **`RC-811` Fissão:** microsegundos/autonquilam; 034/162 sem ficha; ⚪. **`RC-810` Chiva:** Brandon/chima-drama-lóc; ENCERRADO-RATIFICADO; quarentena demonológica FORTE; ⚪. **`RC-809` Buraco Branco (maior ficha, 951 p.):** entra em rou/corpo mental; 4 fontes, 5 spans Ampliação não usados; seção unânime; 034 sem ficha; ⚪. **`RC-808` Solidão (menor, 599 p.):** Japé/ser múltiplo; ENCERRADO corroborado B050 (sem crases); ⚪.
+4. **Rótulos × títulos:** 308 Lilith×Adhytia · 105 Judaísmo×Ulsh (sem ficha) · 270/271 (sem ficha) · 149 Zeus/Hefaístos×Mônada · 162 Elétrons (sem ficha) · 034 ✓ (sem ficha) · 148/422/794/464/489 ✓/prefixos · intra-lote prefixos.
+5. **Divergências (5):** IV.20.1 (legenda ×10; vols 268/644; 3+7) · III.13.3 (147; 019; 3) · II.6.1 (094/152/525/561/641; 310/154; 5) · III.12.1 (049/078/145/582; 002/142/398; 3+8) · III.16.2 (571/694; 567/568/569/592; 1+5). III.16.3 unânime.
+6. **Seções:** V4.20.01 22→23 · V3.13.03 5→6 · V2.06.01 12→13 · V3.12.01 18→19 · V3.16.03 4→5 · V3.16.02 12→13. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 45 restantes):** por código decrescente — `RC-807`, `RC-806`, `RC-805`, `RC-804`, `RC-803`, `RC-802` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 99).

@@ -2947,6 +2947,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 51 restantes):** por ordem decrescente — `RC-813`, `RC-812`, `RC-811`, `RC-810`, `RC-809`, `RC-808` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 98).
 
+### Lote 98 — 12º anel, grau 0 (6 verbetes, 3.990 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 98 como sugerido.» — os seis previstos confirmados (despacho antecipado, cumprido após a publicação do Lote 97). *(Ambiente: **estável** — HEAD = remoto = `977ac55` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Chiva Primeiro Demo | III.12.1 | `V3/V3.12.01-RC810-chiva-primeiro-demo.md` | **737** | 693 p. |
+| Fissão de Dois Universos | II.6.1 | `V2/V2.06.01-RC811-fissao-de-dois-universos.md` | 697 | 606 p. |
+| Era da Solidão | III.16.2 | `V3/V3.16.02-RC808-era-da-solidao-de-jave.md` | 695 | **599 p.** |
+| Culto a Lilith | IV.20.1 | `V4/V4.20.01-RC813-culto-a-lilith.md` | 641 | 604 p. |
+| Pandemia de Buraco Branco | III.16.3 | `V3/V3.16.03-RC809-pandemia-buraco-branco.md` | 637 | **951 p.** |
+| Prometeu Saca-Nica | III.13.3 | `V3/V3.13.03-RC812-prometeu-saca-nica.md` | **583** | 619 p. |
+
+**Medida final:** 583–737 palavras (média 665) · **11 verbatim byte a byte** · 95 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 102 de 147** (45 restantes; `RC-936` remissiva permanente). Estado: 604 verbetes · **8.466 verbatim · 7.327 códigos · 0 falhas**.
+
+**Achados do lote 98 (o bloco Javé tragado + Lilith/Prometeu — P2017-05-14 + P2018-05-20, 808–813):**
+
+1. **`RC-813` Culto a Lilith (IV.20.1 — 23º da seção):** 1 span — «Lil transformou-se em deusa na mesa...»; 3 fontes; QUARENTENA DEMONOLÓGICA FORTE; class ficha 7.3 × cadastro 2.4; 105 sem ficha; status ⚪ candidato.
+2. **`RC-812` Prometeu Saca-Nica (III.13.3 — 6º da seção):** 2 spans — «...Pometeu... Pimeteu era um cientista maluco...» + «...sacranear vocês...»; class 1.4 coincide (inclusive o inusitado); 149 em duas linhas (Zeus + Hefaístos); 270/271 sem ficha; status ⚪ candidato.
+3. **`RC-811` Fissão (II.6.1 — 13º da seção):** 2 spans — «...primeiros microsegundos...» + «...se autonquilam, sobra um sobra»; quarentena científica; 034/162 sem ficha; status ⚪ candidato.
+4. **`RC-810` Chiva (III.12.1 — 19º da seção):** 2 spans — «...plano de Chiv e agredir o Brandon...» + «...chi o primeiro demo da história»; selo ENCERRADO-RATIFICADO; QUARENTENA DEMONOLÓGICA FORTE; status ⚪ candidato.
+5. **`RC-809` Buraco Branco (III.16.3 — 5º da seção; maior ficha do lote, 951 p.):** 2 spans — «...buraco branco que entra em rou» + «...só o corpo mental dele caiu» (5 spans de Ampliação não usados); 4 fontes; seção unânime; 034 sem ficha; status ⚪ candidato.
+6. **`RC-808` Era da Solidão (III.16.2 — 13º da seção; menor ficha do lote, 599 p.):** 2 spans — «...era da solidão do Japé...» + «...ser múltiplo...»; selo ENCERRADO, cifra corroborada pelo mapa B050 (citado sem crases); status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** IV.20.1 (legenda ×10; vol. ×2 — 268/644; 3+7 seguidores) · III.13.3 (legenda ×1 — 147; vol. ×1 — 019; 3 seguidores) · II.6.1 (legenda ×5 — 094/152/525/561/641; vol. ×2 — 310/154; 5 seguidores) · III.12.1 (legenda ×4 — 049/078/145/582; vol. ×3 — 002/142/398; 3+8 seguidores) · III.16.2 (legenda ×2 — 571/694; vol. ×4 — 567/568/569/592; 1+5 seguidores). III.16.3 unânime.
+8. **Seções tocadas:** V4.20.01 22→23 · V3.13.03 5→6 · V2.06.01 12→13 · V3.12.01 18→19 · V3.16.03 4→5 · V3.16.02 12→13. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 11 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit.
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Rótulos × títulos:** 308 "Lilith"×"Adhytia" · 105 "Judaísmo"×"Ulsh" (sem ficha) · 270/271 (sem ficha) · 149 "Zeus"/"Hefaístos"×"Mônada" · 162 "Elétrons" (sem ficha) · 034 "Big Bang" ✓ (sem ficha) · 148/422/794/464/489 ✓ ou prefixos · intra-lote prefixos.
+
+**Próximos (12º anel, grau 0 — 45 restantes):** por ordem decrescente — `RC-807`, `RC-806`, `RC-805`, `RC-804`, `RC-803`, `RC-802` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 99).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
