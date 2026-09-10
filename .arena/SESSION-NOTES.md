@@ -1727,3 +1727,21 @@ Acumulado: **491 verbetes** · 8.105 verbatim · 4.942 códigos · **0 falhas** 
 7. **Seções:** V5.27.01 3→4 · V3.14.04 2→3 · V3.16.02 10→11 · V2.08.01 32→33 · V1.03.04 4→5 · V3.16.05 10→11. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** cinco 🟡 + um ⚪ (RC-200).
 
 **Próximos (11º anel, grau 1 — 11 restantes):** por código decrescente — `RC-174`, `RC-150`, `RC-146`, `RC-132`, `RC-101`, `RC-096` (a confirmar no despacho do Lote 80).
+
+## 10/09/2026 — Lote 80: 11º ANEL, GRAU 1 (6 verbetes, 4.062 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 80 como sugerido.»
+
+`RC-174` Colmeia Universal (**II.8.1 — 34º da seção**, 928 p.; ficha 1.521) · `RC-150` Xadrez Cósmico (**II.6.1 — 12º da seção**, 590; 389) · `RC-146` Zian (Zion) (**II.7.3 — 5º da seção**, 633; 517) · `RC-132` Val Tam (**III.13.2 — 19º da seção**, 788; 682) · `RC-101` Shamb-Aha (**II.7.4 — 5º da seção**, 538; 495) · `RC-096` Septuaginta (**V.23.1 — 16º da seção**, 585; 420).
+
+Acumulado: **497 verbetes** · 8.142 verbatim · 5.078 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 54 de 59 · 5 restantes.**
+
+1. **Ambiente estável** (`fb476ec` = remoto; árvore limpa). Fichas 1521/389/517/682/495/420 = 4.024 p.; 38 pares (6 arestas + 32 sem-aresta).
+2. **Pré-teste:** 37 spans «» de primeira, **0 falhas** — sem correções (497 verbetes · 8.142 verbatim · 5.078 códigos · Base intacta).
+3. **`RC-174` Colmeia (II.8.1 — maior ficha, 1.521 p.):** B044 central; rainha/favos/Pluribus; B041 não fundir; IEEA fora; trimurte 2018; ocaso/assistiu; 2019-2020 sucumbiu; Trimurto/STT; somatizou; colônias; sistemas×entes; RC-520; caps 13–15; aresta RC-178 parte-de RC-174 (B044); RC-178/180/181 sem ficha; 9 sem-aresta; seres 001/037/019/049/036/099; 🟡. **`RC-150` Xadrez (II.6.1 — menor ficha, 389 p.):** B024 central; epopeia (travessões –); refém/programa/Tamas; samsara; caverna; caps 2–3; aresta envolve RC-104 (B024); 5 sem-aresta; seres 037/135/102; 🟡.
+4. **`RC-146` Zian (II.7.3):** ciclo B057 O-2; planeta-escola; convergiam; escola (negrito); veio com Sophia; O-4 Zion→Zian; **O-7 ufo**; psicografada Yel; B061 mineração; O-3; aresta RC-755 ocorre-em RC-146 (P2022-03-26); 6 sem-aresta; seres 092/252/009/078; 🟠. **`RC-132` Val Tam (III.13.2):** Devolutiva O-2 (não primário); acoplada Awayen; captado/Processador (DADO-NARRATIVO F041-L5); **Awayen×Awayem CHANCELA ARCA (F038-L2, B083, F035-V4)**; liquidação Q-F041-E; **tensões internas** (🟠×🟡; 1.7×1.3 — verbete: cabeçalho+ficha); B083; aresta RC-771 relaciona-se-a RC-132 (ART); RC-501/502/065 sem ficha; 5 sem-aresta; seres 502/065/109/771; 🟠.
+5. **`RC-101` Shamb-Aha (II.7.4):** materialização (0/0); vibra; STT; **Decisão Curador** (manifesta-se-em 499); molde Alt'Lam; × P2017-10-14; astralização; B031/017/018/039 preencher; aresta manifesta-se-em RC-499; RC-127/026/133 sem ficha; 5 sem-aresta; 🟠. **`RC-096` Septuaginta (V.23.1):** materialização (0/0); coletâine/47/Enoque; STT; vulgata 73; B031 preencher; **aresta fora da tabela** (relaciona-se-a RC-273, P2026-08-04); RC-082 sem ficha; 2 sem-aresta; 🟠.
+6. **Divergências (6):** II.8.1 (Wyrd ×7; códigos ×5; 658; 382/570; 657; 7 sem-vol — 11 seguidores) · II.6.1 (laboratorial ×5; 154; 310 — 4 seguidores) · II.7.3 (vol. curto ×2 — 589/midgard-sem-código; 2 seguidores) · III.13.2 (linhagens 024; jogo ×2; anunnakis 587; vizinho 769; cosmo 425; história ×2 — 10 seguidores) · II.7.4 (495 vol. — 3 seguidores) · V.23.1 (arquivos ×2; capítulo-vol. ×8 — 5 seguidores).
+7. **Seções:** V2.08.01 33→34 · V2.06.01 11→12 · V2.07.03 4→5 · V3.13.02 18→19 · V2.07.04 4→5 · V5.23.01 15→16. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 2×🟡 + 4×🟠.
+
+**Próximos (11º anel, grau 1 — 5 restantes, FECHO DO ANEL):** por código decrescente — `RC-039`, `RC-028`, `RC-025`, `RC-020`, `RC-007` (a confirmar no despacho do Lote 81).
