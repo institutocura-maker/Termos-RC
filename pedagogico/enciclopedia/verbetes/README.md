@@ -2627,6 +2627,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 111 restantes):** por ordem decrescente — `RC-902`, `RC-901`, `RC-900`, `RC-899`, `RC-897`, `RC-896` (pulando o `RC-898`, publicado no L72) (a confirmar no despacho do Lote 88).
 
+### Lote 88 — 12º anel, grau 0 (6 verbetes, 3.087 palavras)
+
+**Despacho do Curador:** «Sugestão aceita. Em frente com o Lote 88.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `58d4ffa` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Point Interdimensional | IV.19.3 | `V4/V4.19.03-RC896-point-interdimensional.md` | **590** | 378 p. |
+| Código Filosófico Pessoal | IV.21.1 | `V4/V4.21.01-RC897-codigo-filosofico-pessoal.md` | 578 | **390 p.** |
+| Bolhas Psíquicas | IV.19.1 | `V4/V4.19.01-RC899-bolhas-psiquicas.md` | 551 | 205 p. |
+| Domínios de Morfeu | IV.19.3 | `V4/V4.19.03-RC901-dominios-de-morfeu.md` | 475 | 101 p. |
+| Germe da Morte | IV.19.3 | `V4/V4.19.03-RC900-germe-da-morte.md` | 449 | 98 p. |
+| Tártaro Reides | IV.19.3 | `V4/V4.19.03-RC902-tartaro-reides.md` | **444** | 98 p. |
+
+**Medida final:** 444–590 palavras (média 515) · **18 verbatim byte a byte** · 78 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 42 de 147** (105 restantes; `RC-936` remissiva permanente). Estado: 544 verbetes · **8.337 verbatim · 5.999 códigos · 0 falhas**.
+
+**Achados do lote 88 (Teia da Vida ×4 + Falsa Queda ×2):**
+
+1. **`RC-902` Tártaro Reides (IV.19.3 — 28º da seção):** ficha mínima — «o próprio tártaro, que é o domínio de Reides...»; 479/072 sem aresta; status 🟡 provisório.
+2. **`RC-901` Domínios de Morfeu (IV.19.3 — 29º da seção):** ficha mínima — «Quais são os domínios de Morfeu?...»; grafia "lupos mentais" anotada; 479/899 sem aresta; status 🟡 provisório.
+3. **`RC-900` Germe da Morte (IV.19.3 — 30º da seção):** ficha mínima — «nada existe de vivo que não traga em si o germe da sua própria morte»; 559/628 sem aresta; status 🟡 provisório.
+4. **`RC-899` Bolhas Psíquicas (IV.19.1 — 17º da seção):** definição + contexto + verbatim — «a humanidade vive em uma realidade simulada...»; 559/628/557 sem aresta (rótulos × títulos anotados); status 🟡 provisório.
+5. **`RC-897` Código Filosófico Pessoal (IV.21.1 — 20º da seção; maior ficha do lote, 390 p.):** verbatim longo — «o único pouso seguro onde a nossa consciência pode repousar... O resto, pessoal, é resto.»; quirks "se se nós"/"com a as fontes" anotados; subclasse 4.1 × cadastro 4.4; 722/892/749/890 sem aresta; status 🟡 provisório.
+6. **`RC-896` Point Interdimensional (IV.19.3 — 31º da seção):** verbatim longo — «a Terra terminou sendo Point... os DNA dos humanos é o mais novo DNA...»; "Suzirania" × "Suzerania" da própria ficha anotado; categoria 2.1 × cadastro 4.4; 070/889/001 sem aresta; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (3 subseções):** IV.19.3 (psiquismo ×2 — 573/637; 3+5+6+5+6+4 seguidores) · IV.19.1 (285; 529; psiquismo ×2; 613; 699; 517 cap-vol.; 7+3 seguidores) · IV.21.1 (critério ×2 — 253/335; 17 seguidores).
+8. **Seções tocadas:** V4.19.03 27→31 (+4) · V4.19.01 16→17 · V4.21.01 19→20. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 18 spans «» de primeira, 0 falhas.
+10. **Statuses:** seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Divergências ficha × cadastro:** 4× subclasse 5.1 × 4.4 (idem Lotes 84–87) + RC-897 (4.1 × 4.4) + RC-896 (categoria 2.1 × 4.4) — todas anotadas, não harmonizadas.
+
+**Próximos (12º anel, grau 0 — 105 restantes):** por ordem decrescente — `RC-895`, `RC-894`, `RC-893`, `RC-892`, `RC-891`, `RC-890` (a confirmar no despacho do Lote 89).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

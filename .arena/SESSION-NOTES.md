@@ -1868,3 +1868,20 @@ Acumulado: **538 verbetes** · 8.319 verbatim · 5.823 códigos · **0 falhas** 
 6. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
 
 **Próximos (12º anel, grau 0 — 111 restantes):** por código decrescente — `RC-902`, `RC-901`, `RC-900`, `RC-899`, `RC-897`, `RC-896` (pulando o `RC-898`, publicado no L72) (a confirmar no despacho do Lote 88).
+
+## 10/09/2026 — Lote 88: 12º ANEL, GRAU 0 (6 verbetes, 3.087 palavras)
+
+**Despacho do Curador:** «Sugestão aceita. Em frente com o Lote 88.»
+
+`RC-902` Tártaro Reides (**IV.19.3 — 28º da seção**, 444 p.; ficha 98) · `RC-901` Domínios de Morfeu (**IV.19.3 — 29º da seção**, 475; 101) · `RC-900` Germe da Morte (**IV.19.3 — 30º da seção**, 449; 98) · `RC-899` Bolhas Psíquicas (**IV.19.1 — 17º da seção**, 551; 205) · `RC-897` Código Filosófico Pessoal (**IV.21.1 — 20º da seção**, 578; 390) · `RC-896` Point Interdimensional (**IV.19.3 — 31º da seção**, 590; 378).
+
+Acumulado: **544 verbetes** · 8.337 verbatim · 5.999 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 42 de 147 · 105 restantes.**
+
+1. **Ambiente estável** (`58d4ffa` = remoto; limpa). Fichas 98/101/98/205/390/378 = 1.270 p.; 16 pares, todos sem-aresta.
+2. **Pré-teste estrito:** 18 spans de primeira, **0 falhas** (544/8337/5999/0).
+3. **`RC-902` Tártaro:** Reides/irmão de Zeus; 🟡. **`RC-901` Morfeu:** lupos mentais — grafia anotada; 🟡. **`RC-900` Germe:** germe da morte; 🟡. **`RC-899` Bolhas:** simulada/enjaulada; 🟡. **`RC-897` Código (maior ficha, 390 p.):** pouso seguro/antítese da religião; 🟡. **`RC-896` Point:** Suzerania/point/13.8 bi; 🟡.
+4. **Divergências ficha×cadastro:** 4× 5.1×4.4 + RC-897 (4.1×4.4) + RC-896 (Estruturas 2.1 × Processos 4.4) — verbete segue a ficha + anota. Rótulos × títulos: 559/557 (RC-899), 722 (RC-897); RC-896 coincide.
+5. **Divergências (3):** IV.19.3 (psiquismo ×2; 3+5+6+5+6+4 seguidores) · IV.19.1 (285; 529; psiquismo ×2; 613; 699; 517 cap-vol.; 7+3) · IV.21.1 (critério ×2 — 253/335; 17 seguidores).
+6. **Seções:** V4.19.03 27→31 (+4) · V4.19.01 16→17 · V4.21.01 19→20. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×🟡.
+
+**Próximos (12º anel, grau 0 — 105 restantes):** por código decrescente — `RC-895`, `RC-894`, `RC-893`, `RC-892`, `RC-891`, `RC-890` (a confirmar no despacho do Lote 89).
