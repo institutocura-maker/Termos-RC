@@ -7,7 +7,7 @@
 > editorial da obra.
 
 - **Edição:** 2026.1 · **Data de fechamento:** 2026-09-07
-- **Base de referência:** 946 termos · 659 fichas · 1898 relações
+- **Base de referência:** 946 termos · 662 fichas · 1898 relações
 - **Fonte do censo:** `ferramentas/dados_termos.py` (registro-mestre) — nunca `ls termos/`
 - **Gerado por:** `ferramentas/build_indice_enciclopedia.py` (não editar à mão)
 - **Natureza:** obra de referência sobre a **leitura de Jan Val Ellam**. Conteúdo 
@@ -53,9 +53,9 @@
 | **II** | COSMOGONIA E ESTRUTURA DO COSMOS — o antes e o onde | 4 | 121 |
 | **III** | ATORES E ACONTECIMENTOS — o quem e o quando | 8 | 268 |
 | **IV** | A HUMANIDADE E O OPERADOR — o nós | 5 | 160 |
-| **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 76 |
+| **V** | PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa | 7 | 79 |
 | **VI** | APARELHOS — os instrumentos de consulta | 9 | 0 |
-| | **TOTAL** | 37 | **659** |
+| | **TOTAL** | 37 | **662** |
 
 ---
 
@@ -1069,7 +1069,7 @@
 
 # VOLUME V — PROPÓSITOS, FILOSOFIA E HORIZONTES — o que significa
 
-*Verbetes ancorados neste volume: **76***
+*Verbetes ancorados neste volume: **79***
 
 ## V.22 — Propósitos e destinos
 
@@ -1135,7 +1135,7 @@
 
 *Os objetos e as tecnologias que a obra atribui à criação.*
 
-**Verbetes:** 28
+**Verbetes:** 31
 
 ### V.23.1 — Escrituras e objetos documentais
 
@@ -1162,7 +1162,10 @@
 
 - **Alt´Lam Gron** — `RC-018` 🟠 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 9 fonte(s)
 - **Asphezian** — `RC-025` 🟠 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 2 fonte(s)
+- **Espherian** — `RC-057` 🟡 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 1 fonte(s)
+- **Espheron** — `RC-058` 🟡 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 4 fonte(s)
 - **Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion)** — `RC-771` 🟡 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 12 fonte(s)
+- **Mastlans Phisosferas / Luciferianas** — `RC-079` 🟡 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 3 fonte(s)
 - **Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM)** — `RC-773` 🟡 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 1 fonte(s)
 - **PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos)** — `RC-774` 🟡 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 1 fonte(s)
 - **Processador Val** — `RC-089` 🟠 · Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre · 11 fonte(s)
@@ -1386,7 +1389,7 @@
 
 # APÊNDICES
 
-## Apêndice A — Índice alfabético remissivo (659 verbetes)
+## Apêndice A — Índice alfabético remissivo (662 verbetes)
 
 | Termo | Código | Endereço | Selo |
 |---|---|---|---|
@@ -1611,6 +1614,8 @@
 | Especiação a partir do DNA Humano | `RC-778` | II.8.1 | ⚪ |
 | Especiação Humana — Levas Genéticas | `RC-783` | IV.18.3 | ⚪ |
 | Espelho da Herança Espiritual no Epigenoma | `RC-543` | IV.18.3 | 🟡 |
+| Espherian | `RC-057` | V.23.2 | 🟡 |
+| Espheron | `RC-058` | V.23.2 | 🟡 |
 | Espiritismo com Germe da Poluição Católica/Protestante | `RC-805` | V.27.1 | ⚪ |
 | Espiritismo como Expressão do Quarto Logos | `RC-257` | V.27.1 | 🟡 |
 | Espírito como Ator | `RC-925` | IV.19.3 | 🟡 |
@@ -1772,6 +1777,7 @@
 | Marduk (= Ra; Anunnaki filho de Enki) | `RC-460` | III.13.2 | 🟠 |
 | Maria Madalena | `RC-943` | III.14.2 | 🟡 |
 | Maria Orsic (médium da Sociedade Vril) | `RC-846` | III.14.4 | ⚪ |
+| Mastlans Phisosferas / Luciferianas | `RC-079` | V.23.2 | 🟡 |
 | Matriz Modeladora / Matriz de Cocriação | `RC-210` | II.6.1 | 🟡 |
 | Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | `RC-503` | III.10.3 | ⚪ |
 | Melkor (o filho dissonante) | `RC-844` | III.12.1 | ⚪ |
@@ -2110,7 +2116,7 @@ Nenhum deles pôde ser distribuído como verbete nesta edição.
 | Código | Termo | Área › Subárea | Endereço previsto |
 |---|---|---|---|
 
-## Apêndice C — Termos sem ficha (287 códigos)
+## Apêndice C — Termos sem ficha (284 códigos)
 
 Códigos existentes no registro-mestre **sem ficha materializada**. São candidatos a 
 verbete: constam do censo, mas ainda não têm entrada de referência.
@@ -2226,8 +2232,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-170` | Era do Refinamento da Semeadura Biológica Universal | Eventos & Eras › 7.2 Eras / Épocas / Ciclos | 🟡 |
 | `RC-256` | Escola dos Agentes Esclarecidos da Busca da Verdade | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | 🟡 |
 | `RC-317` | Esgotamento e Solidão (dos Trimurtianos) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
-| `RC-057` | Espherian | Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre | 🟡 |
-| `RC-058` | Espheron | Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre | 🟡 |
 | `RC-390` | Espíritos comunicantes do Grupo Atlan | Seres & Entidades › 1.8 Consciências coletivas / Logos | 🟡 |
 | `RC-336` | Ética da Sobrevivência de Javé | Conceitos Cosmológicos › 2.6 Ética / Carma / Compromissos | 🟡 |
 | `RC-547` | Evolução Criativa (hipótese consciencial) | Conceitos Cosmológicos › 2.5 Propósitos / Destinos | 🟡 |
@@ -2288,7 +2292,6 @@ verbete: constam do censo, mas ainda não têm entrada de referência.
 | `RC-394` | Mandreya Ramataiana (espírito comunicante) | Seres & Entidades › 1.6 Figuras humanas (históricas/míticas) | 🟡 |
 | `RC-233` | Marca Val (A Estratégia do Possível) | Processos & Fenômenos › 4.1 Processos biológicos / genéticos | 🟡 |
 | `RC-537` | Maré Cósmica (eventos cósmicos que afetam a Terra) | Processos & Fenômenos › 4.4 Fenômenos físicos / energéticos | 🟡 |
-| `RC-079` | Mastlans Phisosferas / Luciferianas | Tecnologias & Artefatos › 5.1 Naves / Tecnologia extraterrestre | 🟡 |
 | `RC-492` | Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | Genealogias & Linhagens › 6.3 Dinastias extraterrestres | ⚪ |
 | `RC-386` | Memórias para Javé | Conceitos Cosmológicos › 2.2 Leis e princípios cósmicos | 🟡 |
 | `RC-869` | Mentalidade Comum (o contágio do rebanho) | Conceitos Cosmológicos › 2.4 Espiritualidade / Doutrina | ⚪ |
@@ -2426,4 +2429,4 @@ entradas do meio da sequência.
 ---
 
 *Fim do índice — Enciclopédia de Referência das Revelações Cósmicas, edição 2026.1 
-(fechada em 2026-09-07). Base: 946 termos · 659 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*
+(fechada em 2026-09-07). Base: 946 termos · 662 fichas · 1898 relações. Síntese de leitura: nada em `termos/`, `relacoes/` ou `ferramentas/dados_termos.py` foi alterado.*

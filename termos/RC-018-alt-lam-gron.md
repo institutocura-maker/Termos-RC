@@ -85,7 +85,7 @@ editada por este ciclo.
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Alt´Lam | RC-017 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; **sem arquivo** |
-| Espheron | RC-058 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; **sem arquivo** |
+| Espheron | RC-058 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Experiência Gron | RC-062 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; **sem arquivo** |
 | Processador Val | RC-089 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe |
 | Alt´Lam | RC-017 | par nomeador — `RC-017` também está **sem arquivo**; nenhum dos dois recebeu materialização |

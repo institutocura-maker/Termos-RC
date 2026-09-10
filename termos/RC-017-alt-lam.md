@@ -42,5 +42,5 @@ Com isso:
 | Termo | Código | Estado na malha |
 |---|---|---|
 | Antares (Sistema) | RC-021 | **sem aresta** em `RELACOES`; arquivo existe |
-| Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Yel Luzbel | RC-142 | **sem aresta** em `RELACOES`; arquivo existe |

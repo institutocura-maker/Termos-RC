@@ -46,5 +46,5 @@ Com isso:
 | Termo | Código | Estado na malha |
 |---|---|---|
 | Atlantes | RC-030 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Atlântida / Terra Atlantis | RC-010 | **sem aresta** em `RELACOES`; arquivo existe |

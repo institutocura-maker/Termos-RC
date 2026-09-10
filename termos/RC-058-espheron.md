@@ -1,0 +1,39 @@
+# Espheron — RC-058
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
+| **Subcategoria** | 5.1 Naves / Tecnologia extraterrestre |
+| **Status** | 🟡 Provisório |
+| **Última atualização** | 2026-09-10 |
+
+## Definição Sintética
+
+A terceira das três grandes naves da Família Val — a menor e mais adaptada para todo tipo de missão, que permaneceu em órbita como que sinalizando a presença Val na Terra (B017). Quando as irmãs foram sucateadas para construir bases planetárias, Espheron permaneceu atuante (B018) e sediou a Experiência Gron: o Processador Val foi transferido de Benem para Espheron, e nave e tripulantes passariam pela "elevação de fase vibratória" na "operação magnética" — experiência idealizada há cerca de 22 mil anos e concluída há cerca de 19.700 (B018). "A cidade de Espheron, ou Alt'Lam Gron" (B018): a cidadela suspensa e invisível — a nave Espheron com as fases vibratórias alteradas, próxima aos céus da Escócia e da Irlanda; dos 1.641 seres entre Benem e Espheron, 983 passaram pela experiência (B031). Na Era Sapiens, a "camuflagem de Espheron" é a cidade-base de Alt'Lam Gron, transmutada para uma dimensão de disfarce, com artefatos voadores em seu sistema operativo (B039).
+
+## Fontes
+
+| Fonte | Localização | Tipo |
+|---|---|---|
+| B017 | Terra Atlantis: O Sinal de Land's End — a menor, adaptada, em órbita; tríade do Veneto | livro impresso |
+| B018 | Terra Atlantis: A Frota Norte — permaneceu atuante; Processador Val; fase vibratória; "cidade de Espheron, ou Alt'Lam Gron" | livro impresso |
+| B031 | Painéis Emergentes da Revelação Cósmica — síntese Gron (22 mil → 19.700; 1.641/983; Escócia/Irlanda) | livro impresso (secundário) |
+| B039 | Terra Atlantis: A Era Sapiens — camuflagem de Espheron; dimensão de disfarce; artefatos do sistema operativo | livro impresso |
+
+## Citação-chave
+
+> "Alt'Lam Gron: Nome da cidadela suspensa e invisível criada a partir da Experiência Gron. Nada mais é do que a nave Espheron que, através de uma 'operação magnética', teve suas 'fases vibratórias' alteradas para se tornar invisível." — B031
+
+## Termos Relacionados
+
+| Termo | Código | Relação |
+|---|---|---|
+| Espherian | RC-057 | nave-irmã (tríade Val) |
+| Asphezian | RC-025 | nave-irmã (tríade Val) |
+| Alt'Lam Gron | RC-018 | convertida-em (cidadela) |
+| Experiência Gron | RC-062 | sediou |
+| Benem | RC-032 | associado-a (1.641 seres; aresta no registro) |
+
+## Observações
+
+Ficha materializada na escala do Apêndice C (P5d — Frota Val, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. Todas as fontes já constavam do cadastro.
