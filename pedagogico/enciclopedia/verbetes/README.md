@@ -2147,6 +2147,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 53 restantes):** por ordem decrescente — `RC-680`, `RC-679`, `RC-678`, `RC-677`, `RC-676`, `RC-667` (a confirmar no despacho do Lote 73).
 
+### Lote 73 — 11º anel, grau 1 (6 verbetes, 3.033 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 73 conform sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `fee3166` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Autofagia do Criador | II.6.1 | `V2/V2.06.01-RC667-autofagia-do-criador.md` | **584** | **228 p.** |
+| Tiferet / Tiphareth | I.3.2 | `V1/V1.03.02-RC678-tiferet-tiphareth.md` | 493 | 109 p. |
+| Geburah | I.3.2 | `V1/V1.03.02-RC677-geburah.md` | 491 | 105 p. |
+| Chesed | I.3.2 | `V1/V1.03.02-RC676-chesed.md` | 491 | 105 p. |
+| Hod | I.3.2 | `V1/V1.03.02-RC680-hod.md` | **487** | 105 p. |
+| Netzach | I.3.2 | `V1/V1.03.02-RC679-netzach.md` | **487** | 105 p. |
+
+**Medida final:** 487–584 palavras (média 506) · **8 verbatim byte a byte** · 24 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 12 de 59** (47 restantes). Estado: 455 verbetes · **7.881 verbatim · 4.378 códigos · 0 falhas**.
+
+**Achados do lote 73 (cinco sefirot + a autofagia):**
+
+1. **`RC-680` Hod (I.3.2 — 7º da seção):** ficha mínima (105 p.), termo extraído e aprovado na curadoria de P2025-05-31, sem fala citável; aresta: `RC-680` é-um `RC-263` (P2025-05-31); `RC-679`/`RC-681` sem aresta; status ⚪ candidato.
+2. **`RC-679` Netzach (I.3.2 — 8º da seção):** ficha mínima (105 p.), mesmo estado; aresta: `RC-679` é-um `RC-263` (P2025-05-31); `RC-680`/`RC-681` sem aresta; status ⚪ candidato.
+3. **`RC-678` Tiferet / Tiphareth (I.3.2 — 9º da seção):** ficha mínima (109 p.), mesmo estado; aresta: `RC-678` é-um `RC-263` (P2025-05-31); `RC-676`/`RC-677` sem aresta; status ⚪ candidato.
+4. **`RC-677` Geburah (I.3.2 — 10º da seção):** ficha mínima (105 p.), mesmo estado; aresta: `RC-677` é-um `RC-263` (P2025-05-31); `RC-676`/`RC-678` sem aresta; status ⚪ candidato.
+5. **`RC-676` Chesed (I.3.2 — 11º da seção):** ficha mínima (105 p.), mesmo estado; aresta: `RC-676` é-um `RC-263` (P2025-05-31); `RC-677`/`RC-678` sem aresta; status ⚪ candidato.
+6. **`RC-667` Autofagia do Criador (II.6.1 — 11º da seção; maior ficha do lote, 228 p.):** «condição de Brahma recém-reconstruído alimentando-se de si mesmo»; a neurose («Ele dava um jeito de não se comer todo, para deixar uma parte dele viva, se alimentando dele mesmo [...] Essa sensação de um psiquismo que o tempo inteiro precisa sobreviver a cada segundo novo é isso que a gente chama de neurose, ansiedade.») e o vício em jogo («O vício em jogo vem dos deuses, porque era a forma de manter todo mundo acordado...») — P2024-03-02 *O Drama Espiritual de Jesus*, transcrição automatizada, corte [...] sem emenda; **anterioridade registrada, não costurada** (contexto P2026-02-28 × ampliação P2024-03-02); aresta: `RC-667` condição-de `RC-001` (P2026-02-28); `RC-135`/`RC-102` sem aresta; status ⚪ candidato.
+7. **Divergências de legenda anotadas, não harmonizadas (2 subseções):** I.3.2 (RC-263 "Os símbolos e as chaves" + vol. próprio; RC-008 vol. próprio × ÍNDICE — RC-267/675/681/682 + os cinco deste lote) · II.6.1 ("A Experiência Laboratorial" — RC-094/152/525/561/641, todos vol. "códigos e leis"; RC-154 vol. "A mecânica da criação — como funciona"; RC-310 vol. "códigos e leis" × ÍNDICE — RC-210/410 + RC-667).
+8. **Seções tocadas:** V1.03.02 6→11 (+5) · V2.06.01 10→11. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste limpo de primeira (8/8 spans «» byte a byte, 0 falhas) — primeiro lote do 11º anel sem correção pré-verificador.
+10. **Statuses:** os seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 47 restantes):** por ordem decrescente — `RC-627`, `RC-626`, `RC-574`, `RC-555`, `RC-554`, `RC-534` (a confirmar no despacho do Lote 74).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

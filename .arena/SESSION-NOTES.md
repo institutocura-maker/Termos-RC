@@ -1587,3 +1587,22 @@ Acumulado: **449 verbetes** · 7.873 verbatim · 4.310 códigos · **0 falhas** 
 9. **Lição de ferramenta:** grep com regex sem escape (`"V.23.1"`) incluiu arquivos de outras seções na análise de vizinhos da V5.23.1 (contagem "dez" errada) — membros reconfirmados por **nome de arquivo** (`V5.23.01-RC*`), contagem corrigida para **oito** antes do commit. Sempre escapar pontos em padrões de endereço.
 
 **Próximos (11º anel, grau 1 — 53 restantes):** por código decrescente — `RC-680`, `RC-679`, `RC-678`, `RC-677`, `RC-676`, `RC-667` (a confirmar no despacho do Lote 73).
+
+---
+
+## 10/09/2026 — Lote 73: 11º ANEL, GRAU 1 (6 verbetes, 3.033 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 73 conform sugerido.»
+
+`RC-680` Hod (**I.3.2 — 7º da seção**, 487 p.; ficha 105) · `RC-679` Netzach (**I.3.2 — 8º da seção**, 487; 105) · `RC-678` Tiferet / Tiphareth (**I.3.2 — 9º da seção**, 493; 109) · `RC-677` Geburah (**I.3.2 — 10º da seção**, 491; 105) · `RC-676` Chesed (**I.3.2 — 11º da seção**, 491; 105) · `RC-667` Autofagia do Criador (**II.6.1 — 11º da seção**, 584; 228).
+
+Acumulado: **455 verbetes** · 7.881 verbatim · 4.378 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 12 de 59 · 47 restantes.**
+
+1. **Ambiente estável** (HEAD = remoto = `fee3166` na abertura; árvore limpa) — sem incidente de clone. Fichas lidas integralmente (105×4 + 109 + 228 = 757 p.); arestas via `dados_termos.py`; 14 pares verificados (6 arestas do lote + 8 sem-aresta).
+2. **Pré-teste limpo de primeira:** 8 spans «» byte a byte nos 6 arquivos (1+1+1+1+1+3), **0 falhas** — primeiro lote do 11º anel sem correção pré-verificador; lote limpo no verificador (455 verbetes · 7.881 verbatim · 4.378 códigos · 0 falhas · Base intacta).
+3. **Cinco sefirot em estado mínimo** (P2025-05-31, sem fala citável): `RC-680`/`RC-679`/`RC-678`/`RC-677`/`RC-676` é-um `RC-263`; irmãos sem aresta (680↔679/681; 679↔681; 678↔676/677; 677↔676); todos ⚪ consistentes.
+4. **`RC-667` Autofagia do Criador (II.6.1 — maior ficha do lote, 228 p.):** «condição de Brahma recém-reconstruído alimentando-se de si mesmo»; neurose + vício em jogo (P2024-03-02, STT, [...] sem emenda); **anterioridade P2026-02-28 × P2024-03-02 registrada, não costurada**; aresta: RC-667 condição-de RC-001 (P2026-02-28); RC-135/102 sem aresta; ⚪.
+5. **Divergências de legenda anotadas, não harmonizadas (2):** I.3.2 (RC-263 símbolos + vol próprio; RC-008 vol próprio; ÍNDICE RC-267/675/681/682 + 5 do lote) · II.6.1 ("A Experiência Laboratorial" RC-094/152/525/561/641; RC-154 vol mecânica; RC-310 vol códigos; ÍNDICE RC-210/410 + RC-667).
+6. **Seções:** V1.03.02 6→11 (+5) · V2.06.01 10→11. Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** seis ⚪ — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 47 restantes):** por código decrescente — `RC-627`, `RC-626`, `RC-574`, `RC-555`, `RC-554`, `RC-534` (a confirmar no despacho do Lote 74).
