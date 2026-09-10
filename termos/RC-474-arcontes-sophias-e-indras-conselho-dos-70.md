@@ -13,7 +13,7 @@ Na RC, colegiado de seres = "Sophias e Indras; Conselho dos 70" — linhagem de 
 
 ## Atualização — P2023-12-02
 
-- **Arcontes = descendentes:** "Arcontes são os descendentes dessas figuras aí, principalmente os seis da Tridevi e da Trimurti" [STT parcial — `[REVISAR → chancelada · F039-L5: AGUARDA-ÁUDIO (transcrição parcial assumida; sem normalização) — ver nota]`];
+- **Arcontes = descendentes:** "Arcontes são os descendentes dessas figuras aí, principalmente os seis da Tridevi e da Trimurti" [STT parcial — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (transcrição parcial assumida; sem normalização) — ver nota]`];
 - **Intriga sobre a herança:** "a vinda de Sophia é uma promessa que Jesus ou humano fez, mas dentro de um contexto geopolítico de intriga entre os arcontes, ver quem deles herdava o fal..." [frase truncada] — a vinda de Sophia (RC-009) situada em disputa arconte;
 - "vários outros arcontes não querem que nenhum desses dois assuma nada" (Cristo/Sophia vs. o processo em curso) — confusão registrada pelo autor.
 
