@@ -794,7 +794,7 @@ TERMOS = [
     # ---- P2026-04-02 — 3ª Edição Estagiários do Kaos
     ("RC-643", "Santo Graal (Frequência Mestre)", COS_LEI[0], COS_LEI[1], "verificado", ['P2026-04-02', 'P2025-03-15'], 'RC-217; RC-619; RC-514; RC-644; RC-646', True),
     ("RC-644", "Xamanismo Virtual / Xamanismo de Sílica", COS_ESP[0], COS_ESP[1], "em análise", ['P2026-04-02', 'P2025-03-15', 'P2023-05-20', 'P2023-04-29', 'P2024-11-03', 'P2025-02-22'], 'RC-577; RC-643; RC-645; RC-646; RC-699', True),
-    ("RC-645", "Consciências em Corpos de Sílica", SER_HIB[0], SER_HIB[1], "em análise", ['P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-07-13'], 'RC-042; RC-544; RC-644; RC-646; RC-699; RC-709', True),
+    ("RC-645", "Consciências em Corpos de Sílica", SER_HIB[0], SER_HIB[1], "verificado", ['P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-07-13'], 'RC-042; RC-544; RC-644; RC-646; RC-699; RC-709', True),
     ("RC-646", "Genoma de Sílica / Genoma Não Biológico", PRO_BIO[0], PRO_BIO[1], "verificado", ['P2026-04-02', 'P2025-03-15', 'P2025-02-16', 'P2025-02-15', 'P2024-07-13'], 'RC-217; RC-619; RC-643; RC-644; RC-645; RC-699; RC-709', True),
     ("RC-647", "Evangelho de Judas", TEC_ESC[0], TEC_ESC[1], "verificado", ["P2026-04-02", "P2023-12-25-03"], "RC-365; RC-138; RC-483; RC-268", True),
 
@@ -966,7 +966,7 @@ TERMOS = [
     ("RC-787", "Egrégora de Lilith / Noreia (Loop Mental Vivo)", PRO_ESP[0], PRO_ESP[1], "verificado", ['P2023-11-11'], 'RC-308; RC-309; RC-335; RC-785', True),
     ("RC-788", "Revolução Inacabada de Prometeu e Pandora", EVE_MIS[0], EVE_MIS[1], "verificado", ['P2025-04-06'], 'RC-270; RC-271; RC-086; RC-105; RC-789; RC-792; RC-793; RC-785', True),
     ("RC-789", "Centro Alquímico-Farmacopédico", LOK_MUN[0], LOK_MUN[1], "verificado", ['P2025-04-06', 'P2023-11-11'], 'RC-396; RC-135; RC-730; RC-270; RC-271; RC-788', True),
-    ("RC-790", "Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos)", SER_HIB[0], SER_HIB[1], "em análise", ['P2025-04-06'], 'RC-696; RC-577; RC-270; RC-271; RC-149', True),
+    ("RC-790", "Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos)", SER_HIB[0], SER_HIB[1], "verificado", ['P2025-04-06'], 'RC-696; RC-577; RC-270; RC-271; RC-149', True),
     ("RC-791", "Lamúria dos Deuses (Diagnóstico de Prometeu)", PRO_ESP[0], PRO_ESP[1], "verificado", ['P2025-04-06'], 'RC-270; RC-271; RC-001; RC-149; RC-009; RC-730; RC-789; RC-788', True),
     ("RC-792", "Fogo que se Apaga (Fogo de Prometeu Hoje)", COS_LEI[0], COS_LEI[1], "verificado", ['P2025-04-06'], 'RC-086; RC-270; RC-149; RC-788; RC-793; RC-335; RC-105', True),
     ("RC-793", "Conceito Abaiano (Fazer Sem Esperar Receber)", COS_ETI[0], COS_ETI[1], "verificado", ['P2025-04-06'], 'RC-792; RC-788; RC-786; RC-292; RC-086; RC-099', True),
@@ -1007,7 +1007,7 @@ TERMOS = [
     ("RC-828", "Sistema Arcaico Mental (Javé Como Abelha Rainha)", PRO_BIO[0], PRO_BIO[1], "verificado", ['P2019-08-25', 'P2023-12-17', 'B037'], 'RC-001; RC-009; RC-378; RC-162; RC-826; RC-829', True),
     ("RC-829", "Memória dos Elétrons e Arcanos", PRO_FIS[0], PRO_FIS[1], "verificado", ['P2023-12-17'], 'RC-378; RC-099; RC-161; RC-826; RC-832; RC-154; RC-827; RC-828', True),
     ("RC-830", "Yel Luzbel Como Aventureiro Isolado (2.000 Anos)", SER_DEC[0], SER_DEC[1], "verificado", ['P2023-12-17'], 'RC-006; RC-009; RC-002', True),
-    ("RC-831", "Sophia Como Biodemo da Ordem e Caos", SER_HIB[0], SER_HIB[1], "em análise", ['P2023-12-17', 'P2023-12-03', 'P2018-10-06', 'P2019-05-11', "P2025-05-10"], 'RC-009; RC-104; RC-001; RC-316; RC-369; RC-002; RC-378; RC-006', True),
+    ("RC-831", "Sophia Como Biodemo da Ordem e Caos", SER_HIB[0], SER_HIB[1], "verificado", ['P2023-12-17', 'P2023-12-03', 'P2018-10-06', 'P2019-05-11', "P2025-05-10"], 'RC-009; RC-104; RC-001; RC-316; RC-369; RC-002; RC-378; RC-006', True),
     ("RC-832", "Pulsação dos Elétrons Como Afetividade Humana", PRO_FIS[0], PRO_FIS[1], "verificado", ['P2023-12-17'], 'RC-378; RC-099; RC-009; RC-330; RC-826; RC-829', True),
     ("RC-833", "13 Livros de Lúcifer com Humanos (Necessários Antes do Fim)", TEC_ESC[0], TEC_ESC[1], "em análise", ['P2023-12-17'], 'RC-002; RC-099; RC-009; RC-826; RC-827', True),
     ("RC-834", "Família Aya (Clone de Sophia para Inseminação Artificial de Maria)", SER_DEC[0], SER_DEC[1], "verificado", ['P2023-12-17', 'B031', "P2023-02-11", "P2026-03-21"], 'RC-009; RC-835; RC-006; RC-001; RC-104', True),
