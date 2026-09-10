@@ -1669,3 +1669,24 @@ Acumulado: **473 verbetes** · 7.985 verbatim · 4.653 códigos · **0 falhas** 
 7. **Seções:** V3.11.02 8→9 · V3.13.02 17→18 · V2.08.01 30→31 · V3.13.05 12→13 · V3.09.01 18→19 · V3.10.05 0→1 (estreia codificada). Nenhuma renomeação; nenhuma ficha tocada. **Statuses:** seis 🟡 — consistentes ficha = cadastro = ÍNDICE.
 
 **Próximos (11º anel, grau 1 — 29 restantes):** por código decrescente — `RC-376`, `RC-373`, `RC-371`, `RC-369`, `RC-346`, `RC-331` (a confirmar no despacho do Lote 77).
+
+---
+
+## 10/09/2026 — Lote 77: 11º ANEL, GRAU 1 (6 verbetes, 3.783 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 77 como sugerido.»
+
+`RC-376` José de Arimatéia (no corpus RC) (**III.14.2 — 6º da seção**, 520 p.; ficha 494) · `RC-373` Os 20 Anos de Jesus entre os Celtas (**III.11.3 — 4º da seção**, 619; 582) · `RC-371` A Fé de Jesus e a Razão de Nietzsche (**III.11.3 — 5º da seção**, 617; 565) · `RC-369` Nietzsche como 'Amigo da Intenção de Jesus' (**III.11.3 — 6º da seção**, 819; 963) · `RC-346` Jeová (grafia da trilogia) (**III.9.1 — 20º da seção**, 607; 395) · `RC-331` Ra-Atom / Og-mi (nomes do Criador) (**III.9.1 — 21º da seção**, 601; 264).
+
+Acumulado: **479 verbetes** · 8.019 verbatim · 4.743 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **11º anel (grau 1): 36 de 59 · 23 restantes.**
+
+1. **Ambiente estável** (HEAD = remoto = `6ece137` na abertura; árvore limpa) — sem incidente de clone. Fichas lidas integralmente (494/582/565/963/395/264 = 3.263 p.); arestas via `dados_termos.py`; 26 pares verificados (6 arestas do lote + 20 sem-aresta).
+2. **Pré-teste:** 34 spans «» byte a byte nos 6 arquivos (2+4+8+15+2+3); **2 falhas corrigidas** — RC-371/369 aspas retas onde as fichas têm curvas ("move montanhas"/"homem Jesus" U+201C/U+2019); lote limpo no verificador (479 verbetes · 8.019 verbatim · 4.743 códigos · 0 falhas · Base intacta).
+3. **`RC-376` José de Arimatéia (III.14.2):** materialização despacho 29/08/2026 (0/0); segundo pai; financiador (Aula 03); STT/portão B; aresta acompanha RC-072 (B043); RC-373/094 sem aresta; 🟡. **`RC-373` 20 Anos (III.11.3):** B043; norte mítico/druida; não ontologizar; **defasadas RC-375/376 com ficha (padrão RC-093)**; aresta envolve RC-072; RC-374/375/376 sem aresta; RC-374/377 sem ficha; 🟡.
+4. **`RC-371` Fé/Razão (III.11.3):** B049 caps 11–12; enjaulado/plano de fora; clínica; 1ª fonte oral (termina × termina na RC-369 — cada qual verbatim da sua ficha); "A inserir"; sem fusão B001/B014; aresta opõe-se-a RC-253 (B049); RC-369/072/372/231 sem aresta; RC-372 sem ficha; 🟡.
+5. **`RC-369` Nietzsche (III.11.3 — maior ficha do lote, 963 p.):** estranha parceria; ídolos/rebanho/agente; quarentena clínica; abismo nega+materializa (anterioridade 4.5a); D-10; infantiloide; cap.14 fora; sem fusão B011/B043; aresta parceria-de RC-072 (B011); RC-371/370/372/253 sem aresta; RC-370/372 sem ficha; 🟡.
+6. **`RC-346` Jeová (III.9.1):** 1ª fase 1999–2000 (73 ocor.); principiara/Mestre; evolução Jeová→Javé→Caos; B025 dedicado; aresta variação RC-001 (B003); RC-284/041/078/351 sem aresta; RC-351 sem ficha; 🟡. **`RC-331` Ra-Atom/Og-mi (III.9.1):** âncora F045 (Apêndice D); registro-mestre; série onomástica (B020); top-down; ficha indica I.3 × ÍNDICE III.9.1 (segue ÍNDICE); aresta variação RC-284 (B023); RC-001/094 sem aresta; 🟡.
+7. **Divergências de legenda anotadas, não harmonizadas (3):** III.14.2 (4 sem-vol × RC-189) · III.11.3 (RC-005; jesus × RC-280/801 + 3 do lote) · III.9.1 (queda ×4; criadores ×4; RC-622 × 11 seguidores — 21 arquivos).
+8. **Seções:** V3.14.02 5→6 · V3.11.03 3→6 (+3) · V3.09.01 19→21 (+2). Nenhum endereço novo; nenhuma renomeação; nenhuma ficha tocada. **Statuses:** seis 🟡 — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 23 restantes):** por código decrescente — `RC-319`, `RC-307`, `RC-303`, `RC-292`, `RC-285`, `RC-281` (a confirmar no despacho do Lote 78).

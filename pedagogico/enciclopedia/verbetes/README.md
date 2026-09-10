@@ -2275,6 +2275,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (11º anel, grau 1 — 29 restantes):** por ordem decrescente — `RC-376`, `RC-373`, `RC-371`, `RC-369`, `RC-346`, `RC-331` (a confirmar no despacho do Lote 77).
 
+### Lote 77 — 11º anel, grau 1 (6 verbetes, 3.783 palavras)
+
+**Despacho do Curador:** «Em frente com o Lote 77 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `6ece137` na abertura, árvore limpa; sem incidente de clone.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Nietzsche como 'Amigo da Intenção de Jesus' | III.11.3 | `V3/V3.11.03-RC369-nietzsche-amigo-da-intencao-de-jesus.md` | **819** | **963 p.** |
+| Os 20 Anos de Jesus entre os Celtas | III.11.3 | `V3/V3.11.03-RC373-20-anos-de-jesus-entre-os-celtas.md` | 619 | 582 p. |
+| A Fé de Jesus e a Razão de Nietzsche | III.11.3 | `V3/V3.11.03-RC371-fe-de-jesus-razao-de-nietzsche.md` | 617 | 565 p. |
+| Jeová (grafia da trilogia) | III.9.1 | `V3/V3.09.01-RC346-jeova.md` | 607 | 395 p. |
+| Ra-Atom / Og-mi (nomes do Criador) | III.9.1 | `V3/V3.09.01-RC331-ra-atom-og-mi.md` | 601 | 264 p. |
+| José de Arimatéia (no corpus RC) | III.14.2 | `V3/V3.14.02-RC376-jose-de-arimateia.md` | **520** | 494 p. |
+
+**Medida final:** 520–819 palavras (média 631) · **34 verbatim byte a byte** · 47 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**11º anel (grau 1) — 36 de 59** (23 restantes). Estado: 479 verbetes · **8.019 verbatim · 4.743 códigos · 0 falhas**.
+
+**Achados do lote 77 (Jesus, Nietzsche, os nomes do Criador):**
+
+1. **`RC-376` José de Arimatéia (III.14.2 — 6º da seção):** **materialização por despacho** 29/08/2026 (0/0, lacuna declarada); «José de Arimateia foi um espécie de segundo pai de Jesus.»; «A Europa é uma viagem dos tempos em que José de Arimateia financiava. As caravanas...»; STT sem emenda, portão B; aresta: `RC-376` acompanha `RC-072` (B043); `RC-373`/`RC-094` sem aresta; status 🟡 provisório.
+2. **`RC-373` Os 20 Anos de Jesus entre os Celtas (III.11.3 — 4º da seção):** B043 integral — «São fatos da sua juventude... […] até profundos e reveladores diálogos com seu irmão Tiago»; «ao norte mítico»; «o velho druida da montanha, guardador dos mistérios ancestrais.»; «estranhos poderes» (não ontologizar); **notas defasadas duplas** (ficha diz RC-375/376 "sem ficha" × censo com ficha — padrão RC-093); aresta: `RC-373` envolve `RC-072` (B043); `RC-374`/`RC-375`/`RC-376` sem aresta; RC-374/377 sem ficha; status 🟡 provisório.
+3. **`RC-371` A Fé de Jesus e a Razão de Nietzsche (III.11.3 — 5º da seção):** «A fé, efetivamente, "move montanhas", mas a "vontade de potência" também»; «enjaulado» / «passou longe» / «plano de fora»; «Egos adoecidos» = clínica; primeira fonte oral («Niets dizia... termina olhando»; «o abismo paraa Javela»); citações-chave "A inserir"; sem fusão B001/B014; aresta: `RC-371` opõe-se-a `RC-253` (B049); `RC-369`/`RC-072`/`RC-372`/`RC-231` sem aresta; RC-372 sem ficha; status 🟡 provisório.
+4. **`RC-369` Nietzsche como 'Amigo da Intenção de Jesus' (III.11.3 — 6º da seção; maior ficha do lote, 963 p.):** «a mais estranha das parcerias»; «dois dos meus ídolos» / «rebanho» / «agente da vida» / «já leu»; **quarentena clínica**; o abismo nega-e-materializa («O abismo é metafórico, não é literal...» — as duas aspas juntas); anterioridade 4.5 anos; D-10; «Ei, humanidade infantiloide»; cap. 14 fora; sem fusão B011/B043; aresta: `RC-369` parceria-de `RC-072` (B011); `RC-371`/`RC-370`/`RC-372`/`RC-253` sem aresta; RC-370/372 sem ficha; status 🟡 provisório.
+5. **`RC-346` Jeová (III.9.1 — 20º da seção):** grafia da 1ª fase (73 ocorrências, 1999–2000); «Realmente, desde que a atuação de Jeová principiara...»; «ali certamente estava próxima a encarnação de uma entidade muito próxima do Mestre»; **Jeová → Javé → Caos/Brahma/Javé**; B025 com capítulo dedicado; aresta: `RC-346` variação `RC-001` (B003); `RC-284`/`RC-041`/`RC-078`/`RC-351` sem aresta; RC-351 sem ficha; status 🟡 provisório.
+6. **`RC-331` Ra-Atom / Og-mi (III.9.1 — 21º da seção):** **âncora estrutural F045** (Apêndice D), registro-mestre censado; «Ra-Atom / Og-mi»; série Javé · Brahma · Caos · Ialdabaoth · Alá (B020); «afinal, Javé e Brahma são a mesma coisa?»; leitura comparada de Ellam; ficha indica Vol. I/I.3 × ÍNDICE III.9.1 (verbete segue o ÍNDICE); aresta: `RC-331` variação `RC-284` (B023); `RC-001`/`RC-094` sem aresta; status 🟡 provisório.
+7. **Divergências de legenda anotadas, não harmonizadas (3 subseções):** III.14.2 (RC-437/490/659/684 sem vol. × ÍNDICE — RC-189) · III.11.3 (RC-005 ciclos; jesus atores × ÍNDICE — RC-280/801 + 3 do lote) · III.9.1 — a maior da Enciclopédia, agora com 21 (queda ×4; criadores ×4; RC-622 × ÍNDICE — 11 seguidores).
+8. **Seções tocadas:** V3.14.02 5→6 · V3.11.03 3→6 (+3) · V3.09.01 19→21 (+2). Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Falhas 2 → 0 (RC-371 e RC-369: aspas retas onde as fichas têm curvas — "move montanhas"/"homem Jesus" U+201C/U+2019 — corrigidas no pré-teste antes do verificador).
+10. **Statuses:** os seis 🟡 provisório — consistentes ficha = cadastro = ÍNDICE.
+
+**Próximos (11º anel, grau 1 — 23 restantes):** por ordem decrescente — `RC-319`, `RC-307`, `RC-303`, `RC-292`, `RC-285`, `RC-281` (a confirmar no despacho do Lote 78).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |
