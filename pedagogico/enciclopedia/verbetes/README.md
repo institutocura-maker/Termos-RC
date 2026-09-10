@@ -3107,6 +3107,38 @@ Justificativa: o grau de saída mede quantas relações a ficha *declarou*; o gr
 
 **Próximos (12º anel, grau 0 — 21 restantes):** por ordem decrescente — `RC-782`, `RC-781`, `RC-780`, `RC-779`, `RC-778`, `RC-689` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 103).
 
+### Lote 103 — 12º anel, grau 0 (6 verbetes, 3.809 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 103 como sugerido.» — os seis previstos confirmados. *(Ambiente: **estável** — HEAD = remoto = `c22889d` na abertura, árvore limpa; sem incidente.)*
+
+| Verbete | Endereço | Arquivo | Palavras | Ficha |
+|---|---|---|---|---|
+| Javé como Caos Personificado | III.9.1 | `V3/V3.09.01-RC782-jave-caos-personificado.md` | **690** | 591 p. |
+| Especiação a partir do DNA Humano | II.8.1 | `V2/V2.08.01-RC778-especiacao-dna-humano.md` | 660 | 541 p. |
+| Pandora como Heroína Controversa | II.8.1 | `V2/V2.08.01-RC780-pandora-heroina-controversa.md` | 654 | 551 p. |
+| Pactos de Javé | III.10.3 | `V3/V3.10.03-RC781-pactos-de-jave.md` | 648 | **797 p.** |
+| Sangue como Cópia da Seiva | II.6.1 | `V2/V2.06.01-RC689-sangue-copia-seiva.md` | 587 | **113 p.** |
+| Momento Zero de Pandora | V.22.1 | `V5/V5.22.01-RC779-momento-zero-pandora.md` | **570** | 524 p. |
+
+**Medida final:** 570–690 palavras (média 635) · **8 verbatim byte a byte** · 133 códigos distintos · **0 falhas** · 0 código criado · Base intacta (946/650/1898).
+
+**12º anel (grau 0) — 132 de 147** (15 restantes; `RC-936` remissiva permanente). Estado: 634 verbetes · **8.519 verbatim · 8.010 códigos · 0 falhas**.
+
+**Achados do lote 103 (o bloco Javé × Pandora — P2018-10-06 + P2019-05-11 + P2025-05-31, 689/778–782):**
+
+1. **`RC-782` Javé Caos Personificado (III.9.1 — 24º da seção):** 2 spans — «...Exildo usou o pior palavrão...» + «...neurônios se despedaçaram...»; selo F040-L4 (Hesíodo × caos do autor); seção gigante nova (24º); \"Ovo Cósmico\"×\"Momento Zero\"; 162 sem ficha; status ⚪ candidato.
+2. **`RC-781` Pactos de Javé (III.10.3 — 10º da seção; maior ficha do lote, 797 p.):** 2 spans — «...muito curtos de inteligência.» + «...contrato de pacto com Gommer...»; selo RATIFICADO; seção nova; \"Krishna\"×\"Shiva\" + \"Shiva\"×\"Agentes da Vida\"; hub 104 citado; status ⚪ candidato.
+3. **`RC-780` Pandora Heroína (II.8.1 — 38º da seção):** 2 spans — «...Pandora fez isso por desespero.» + «...figura absolutamente livre, liberta.»; selo CHANCELA; quarentena hagiográfica; seção gigante (38º); status ⚪ candidato.
+4. **`RC-779` Momento Zero (V.22.1 — 31º da seção):** 1 span — «...Foi o destrave de Pandora...» (parafraseado na origem, ressalva herdada); selo RATIFICADO; seção gigante (31º); status ⚪ candidato.
+5. **`RC-778` Especiação DNA (II.8.1 — 39º da seção):** 1 span — «...é a fábrica da próxima geração...» (parafraseado na origem, ressalva herdada); selo CHANCELA; quarentena panspermia; \"Fornos Replicadores\"×\"Mente Coletiva\"; status ⚪ candidato.
+6. **`RC-689` Sangue/Seiva (II.6.1 — 15º da seção; menor ficha do 12º anel, 113 p.):** **0 spans** — ficha-esqueleto sem citações ("Ver transcrição."); sem categoria declarada (cadastro+ÍNDICE suprem: 2.1); tabela de relacionados invertida (códigos na coluna Termo); verbete-notícia honesto; status ⚪ candidato.
+7. **Divergências anotadas, não harmonizadas (5 subseções):** III.9.1 (legenda ×4 grupos — queda ×4/logos ×4/622+vol-Trimurti/ÍNDICE ×14; vol. ×2 — 284/483; sem-vol ×1 — 756; 11 seguidores) · III.10.3 (legenda ×3 grupos — preservador ×2/conflitos ×2/ÍNDICE ×5; vol. ×2 — 584/757; 3 seguidores) · II.8.1 (legenda ×4 grupos — Wyrd ×7/códigos ×5/658/ÍNDICE ×16; vol. ×3 — 382/570/657; sem-vol ×7; 16 seguidores) · V.22.1 (legenda ×4 grupos — Moros ×3/transformação ×4/708/ÍNDICE ×21; vol. ×4; 21 seguidores) · II.6.1 (legenda ×2 grupos — laboratório ×5/ÍNDICE ×9; vol. ×2 — 310/154; 7 seguidores).
+8. **Seções tocadas:** V3.09.01 23→24 · V3.10.03 9→10 · V2.08.01 37→39 (+2) · V5.22.01 30→31 · V2.06.01 14→15. Nenhum endereço novo, nenhuma renomeação, nenhuma ficha tocada.
+9. **Nenhum código criado; nenhum arquivo de ficha tocado.** Pré-teste **estrito** 8 spans «» de primeira, 0 falhas — sem nenhuma correção pré-commit (1 correção de slip de redação no 689, fora dos spans).
+10. **Statuses:** seis ⚪ candidato — consistentes ficha = cadastro = ÍNDICE. Grau 0 em todo o lote. **Classificações coincidem nas 6** (5º lote seguido). **Rótulos × títulos:** 779 \"Ovo Cósmico\"×\"Momento Zero\" · 102 \"Krishna\"×\"Shiva\" · 148 \"Shiva\"×\"Agentes da Vida\" · 188 \"Fornos\"×\"Mente Coletiva\" · 162 \"Elétrons\"×\"Elétrons (agente...)\" (sem ficha) · 689 sem rótulos (tabela invertida) · resto ✓/prefixos.
+
+**Próximos (12º anel, grau 0 — 15 restantes):** por ordem decrescente — `RC-506`, `RC-305`, `RC-230`, `RC-228`, `RC-191`, `RC-165` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 104).
+
 ### Fecho do 8º anel — balanço do grau 4 (lotes 39–47)
 
 | | |

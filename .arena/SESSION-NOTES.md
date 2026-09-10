@@ -2123,3 +2123,20 @@ Acumulado: **628 verbetes** · 8.511 verbatim · 7.825 códigos · **0 falhas** 
 6. **Seções:** V3.16.05 11→12 · V4.19.01 21→22 · V3.16.03 5→6 · V3.15.02 5→6 · V5.22.01 29→30 · V4.18.03 23→24. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
 
 **Próximos (12º anel, grau 0 — 21 restantes):** por código decrescente — `RC-782`, `RC-781`, `RC-780`, `RC-779`, `RC-778`, `RC-689` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 103).
+
+## 11/09/2026 — Lote 103: 12º ANEL, GRAU 0 (6 verbetes, 3.809 palavras)
+
+**Despacho do Curador:** «Ok, em frente com o Lote 103 como sugerido.»
+
+`RC-782` Javé como Caos Personificado (**III.9.1 — 24º da seção**, 690 p.; ficha 591) · `RC-781` Pactos de Javé (**III.10.3 — 10º da seção**, 648; 797) · `RC-780` Pandora como Heroína Controversa (**II.8.1 — 38º da seção**, 654; 551) · `RC-779` Momento Zero de Pandora (**V.22.1 — 31º da seção**, 570; 524) · `RC-778` Especiação a partir do DNA Humano (**II.8.1 — 39º da seção**, 660; 541) · `RC-689` Sangue como Cópia da Seiva (**II.6.1 — 15º da seção**, 587; 113).
+
+Acumulado: **634 verbetes** · 8.519 verbatim · 8.010 códigos · **0 falhas** · Base intacta (946/650/1898) · 0 código criado. **12º anel (grau 0): 132 de 147 · 15 restantes.**
+
+1. **Ambiente estável** (`c22889d` = remoto; limpa). Fichas 591/797/551/524/541/113 = 3.117 p.; bloco Javé×Pandora P2018+P2019+P2025.
+2. **Pré-teste estrito:** 8 spans de primeira, **0 falhas** (634/8519/8010/0). 689 com 0 spans (ficha sem citações). 1 slip de redação corrigido no 689 (fora dos spans).
+3. **`RC-782` Caos (maior verbete, 690 p.):** Exildo-paletavrão/neurônios; F040-L4 Hesíodo; III.9.1-24º; 162 sem ficha; ⚪. **`RC-781` Pactos (maior ficha, 797 p.):** curtos-de-inteligência/Gommer; RATIFICADO; III.10.3 nova; hub 104; ⚪. **`RC-780` Heroína:** desespero/livre-liberta; CHANCELA; II.8.1-38º; ⚪. **`RC-779` Zero (menor verbete, 570 p.):** destrave (parafraseada); RATIFICADO; V.22.1-31º; ⚪. **`RC-778` Fábrica:** fábrica-não-joia (parafraseada); CHANCELA; II.8.1-39º; ⚪. **`RC-689` Sangue (menor ficha do anel, 113 p.):** esqueleto, 0 spans, sem categoria, tabela invertida; ⚪.
+4. **Classificações coincidem nas 6 (5º lote seguido).** Rótulos × títulos: 779 Ovo×Momento · 102 Krishna×Shiva · 148 Shiva×Agentes · 188 Fornos×Mente · 162 Elétrons (sem ficha) · 689 sem rótulos · resto ✓/prefixos.
+5. **Divergências (5):** III.9.1 (queda×4/logos×4/622; 284/483; 756; 11) · III.10.3 (135/499; 286/408; 584/757; 3) · II.8.1 (Wyrd×7/códigos×5/658; 382/570/657; sem-vol×7; 16) · V.22.1 (Moros×3/transformação×4/708/355; 21) · II.6.1 (laboratório×5; 310/154; 7).
+6. **Seções:** V3.09.01 23→24 · V3.10.03 9→10 · V2.08.01 37→39 · V5.22.01 30→31 · V2.06.01 14→15. Nada novo; nada renomeado; nenhuma ficha tocada. **Statuses:** 6×⚪.
+
+**Próximos (12º anel, grau 0 — 15 restantes):** por código decrescente — `RC-506`, `RC-305`, `RC-230`, `RC-228`, `RC-191`, `RC-165` (pulando o `RC-936`, remissiva permanente) (a confirmar no despacho do Lote 104).
