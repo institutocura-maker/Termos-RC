@@ -40,7 +40,7 @@
 | Criaturas-ferramenta | RC-449 | relaciona-se-a |
 | Enki | RC-486 | relaciona-se-a |
 | Enlil | RC-487 | relaciona-se-a |
-| Nefilins (= Anunnakis) | RC-488 | relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

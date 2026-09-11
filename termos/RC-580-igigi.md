@@ -48,11 +48,11 @@ A hibridização atribuída aos Igigi é situada na segunda era equinocial e lig
 |---|---|---|
 | Anunnaki | RC-024 | é-um |
 | Hibridização genética (Nefilim reinterpretado) | RC-516 | envolve |
-| Nefilins (= Anunnakis) | RC-488 | relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | relaciona-se-a |
 
 ## Seres Associados
-Anunnakis (RC-024); Nefilins (= Anunnakis) (RC-488)
+Anunnakis (RC-024); Nefilins (= Anunnaki) (RC-488)
 
 ## Observações
 Grafia e contexto mesopotâmico validados pelo curador. Status permanece candidato até cruzamento com obra primária/áudio.

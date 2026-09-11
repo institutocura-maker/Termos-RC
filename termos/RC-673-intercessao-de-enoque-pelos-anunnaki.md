@@ -1,4 +1,4 @@
-# Intercessão de Enoque pelos Anunnakis — RC-673
+# Intercessão de Enoque pelos Anunnaki — RC-673
 
 | Campo | Valor |
 |---|---|
@@ -12,7 +12,7 @@ Termo extraído e aprovado na curadoria de P2025-05-31.
 O Mistério da Árvore da Vida e a Urdidura de Metatron.
 
 ## Etimologia / Grafias
-Forma preferida: Intercessão de Enoque pelos Anunnakis.
+Forma preferida: Intercessão de Enoque pelos Anunnaki.
 
 
 ## Ampliação — P2023-10-14 (A Esquecida Honra dos Anunnaki)
@@ -33,3 +33,6 @@ Forma preferida: Intercessão de Enoque pelos Anunnakis.
 - **[P2023-12-03 · INTERCESSÃO DE ENOQUE PELOS ANUNNAKIS NA FALA DE 03/12/2023]** «percebe prisões que não eram dele, nem desse universo, nem desse, onde vários anunaques estavam presos.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-10-14`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+## Nota — DESPACHO CURATORIAL 10/09/2026 (P7c-ter): extensão do invariável Anunnaki (RC-024)
+- Título corrigido por ordem do Curador ("assim fica consistente"): *Intercessão de Enoque pelos Anunnaki*. Status inalterado (🟠).

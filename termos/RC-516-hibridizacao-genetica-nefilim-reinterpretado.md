@@ -71,7 +71,7 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 
 | Termo | Código | Relação |
 |---|---|---|
-| Nefilins (= Anunnakis) | RC-488 | relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 | Anunnaki | RC-024 | relaciona-se-a |
 
 ## Blindagem

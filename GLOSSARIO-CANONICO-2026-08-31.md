@@ -251,7 +251,7 @@
 | RC-485 | classes-de-anjos-de-arabot-raquia | Classes de anjos de Arabot-Ráquia |
 | RC-486 | enki-anunnaki-inoculou-o-gene-foxp2 | Enki (Anunnaki; inoculou o gene FOXP2) |
 | RC-487 | enlil-deus-sumerio-par-de-enki | Enlil (deus sumério, par de Enki) |
-| RC-488 | nefilins-anunnakis | Nefilins (= Anunnakis) |
+| RC-488 | nefilins-anunnaki | Nefilins (= Anunnaki) |
 | RC-489 | enoque-setimo-patriarca-levado-por-jave | Enoque (sétimo patriarca; levado por Javé) |
 | RC-490 | caim-leitura-rc-segundo-a-nascer | Caim (leitura RC: segundo a nascer) |
 | RC-494 | dinastia-das-sophias | Dinastia das Sophias |
@@ -402,7 +402,7 @@
 | RC-670 | yoga-ancestral-origem-cosmica | Yoga Ancestral |
 | RC-671 | metatron | Metatron |
 | RC-672 | os-366-manuscritos-de-enoque | Os 366 Manuscritos de Enoque |
-| RC-673 | intercessao-de-enoque-pelos-anunnakis | Intercessão de Enoque pelos Anunnakis |
+| RC-673 | intercessao-de-enoque-pelos-anunnaki | Intercessão de Enoque pelos Anunnaki |
 | RC-674 | urdidura-de-metatron | Urdidura de Metatron |
 | RC-675 | binah | Binah |
 | RC-676 | chesed | Chesed |

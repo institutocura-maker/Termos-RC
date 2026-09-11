@@ -130,7 +130,7 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 | Termo | Código | Relação |
 |---|---|---|
 | Hermes Trismegisto (Thot) | RC-463 | relaciona-se-a |
-| Intercessão de Enoque pelos Anunnakis | RC-673 | relaciona-se-a |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 

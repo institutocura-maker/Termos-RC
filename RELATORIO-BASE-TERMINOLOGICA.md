@@ -328,7 +328,7 @@
 | RC-485 | 1 | 1 | 1 | 0 | Classes de anjos de Arabot-Ráquia |
 | RC-486 | 10 | 6 | 1 | 0 | Enki (Anunnaki; inoculou o gene FOXP2) |
 | RC-487 | 5 | 4 | 2 | 0 | Enlil (deus sumério, par de Enki) |
-| RC-488 | 5 | 5 | 1 | 0 | Nefilins (= Anunnakis) |
+| RC-488 | 5 | 5 | 1 | 0 | Nefilins (= Anunnaki) |
 | RC-489 | 17 | 10 | 1 | 0 | Enoque (sétimo patriarca; levado por Javé) |
 | RC-490 | 3 | 1 | 1 | 0 | Caim (leitura RC: segundo a nascer) |
 | RC-494 | 1 | 1 | 1 | 0 | Dinastia das Sophias |
@@ -483,7 +483,7 @@
 | RC-670 | 1 | 3 | 0 | 0 | Yoga Ancestral |
 | RC-671 | 11 | 1 | 0 | 6 | Metatron |
 | RC-672 | 5 | 1 | 0 | 2 | Os 366 Manuscritos de Enoque |
-| RC-673 | 2 | 4 | 0 | 0 | Intercessão de Enoque pelos Anunnakis |
+| RC-673 | 2 | 4 | 0 | 0 | Intercessão de Enoque pelos Anunnaki |
 | RC-674 | 2 | 2 | 0 | 5 | Urdidura de Metatron |
 | RC-675 | 0 | 1 | 0 | 3 | Binah |
 | RC-676 | 0 | 1 | 0 | 3 | Chesed |

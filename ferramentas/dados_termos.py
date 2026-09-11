@@ -625,7 +625,7 @@ TERMOS = [
     ("RC-485", "Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim)", SER_ANJ[0], SER_ANJ[1], "em análise", ["B061"], "RC-495; RC-001", True),
     ("RC-486", "Enki (Anunnaki; inoculou o gene FOXP2)", SER_EXT[0], SER_EXT[1], "verificado", ['B061', 'P2022-12-17', 'P2021-12-04', 'P2024-11-09', 'P2024-03-03', 'P2023-12-02', 'P2021-03-27', 'P2024-08-03', 'B089', 'P2024-11-03', 'P2025-02-22', 'P2021-05-15', 'P2023-10-14', "P2017-10-14", "P2018-12-16", "P2023-08-27"], 'RC-024; RC-487; RC-400; RC-583; RC-587; RC-727', True),
     ("RC-487", "Enlil (deus sumério, par de Enki)", SER_EXT[0], SER_EXT[1], "verificado", ['B061', 'P2022-12-17', 'P2024-04-13', 'P2021-03-27', 'B089', 'P2021-05-15', 'P2023-10-14', 'P2023-12-03'], "RC-024; RC-486; RC-583; RC-587; RC-588", True),
-    ("RC-488", "Nefilins (= Anunnakis)", SER_EXT[0], SER_EXT[1], "verificado", ['B061', 'P2026-08-04', 'P2021-03-27', 'P2024-09-28', 'P2023-10-14', "P2018-12-16", "P2022-09-17"], 'RC-024; RC-580', True),
+    ("RC-488", "Nefilins (= Anunnaki)", SER_EXT[0], SER_EXT[1], "verificado", ['B061', 'P2026-08-04', 'P2021-03-27', 'P2024-09-28', 'P2023-10-14', "P2018-12-16", "P2022-09-17"], 'RC-024; RC-580', True),
     ("RC-489", "Enoque (sétimo patriarca; levado por Javé)", SER_HUM[0], SER_HUM[1], "verificado", ['B061', 'P2022-12-17', 'P2024-11-30', 'P2024-07-14', 'P2024-04-13', 'P2026-08-04', 'P2024-03-02', 'P2023-12-02', 'P2023-05-20', 'P2020-05-09', 'P2021-05-08', 'P2024-11-03', 'P2023-10-14', 'P2023-12-03', "P2017-10-14", "P2018-12-16", "P2022-11-20", "P2022-10-01", "P2022-07-16", "P2025-12-14", "P2023-12-25-01"], 'RC-424; RC-495; RC-594; RC-485; RC-671; RC-672', True),
     ("RC-490", "Caim (leitura RC: segundo a nascer)", SER_HUM[0], SER_HUM[1], "verificado", ['B061', 'P2022-12-17', 'P2025-02-16', 'P2024-11-30', 'P2023-08-05', 'P2023-05-20'], 'RC-001; RC-424; RC-579; RC-594; RC-684', True),
     ("RC-491", "Família Shanlung (13 membros em Alt'Lam Gron)", GEN_EXT[0], GEN_EXT[1], C, ["B061", "B057", "P2020-04-25"], "RC-036; RC-105", False),
@@ -830,7 +830,7 @@ TERMOS = [
     # ---- P2025-05-31 — Árvore da Vida / Metatron
     ("RC-671", "Metatron", SER_ANJ[0], SER_ANJ[1], "em análise", ['P2025-05-31', 'P2024-07-14', 'P2021-05-08', 'P2024-11-03', 'P2023-10-14', "P2022-11-20", "P2025-12-14", "P2023-12-25-01"], 'RC-489; RC-001; RC-263; RC-672; RC-673; RC-674; RC-485; RC-454', True),
     ("RC-672", "Os 366 Manuscritos de Enoque", TEC_ESC[0], TEC_ESC[1], "em análise", ['P2025-05-31', 'P2025-02-15', 'P2024-11-30', 'P2026-08-04', 'P2024-11-03', 'P2023-12-03', "P2022-11-20", "P2025-12-14"], 'RC-489; RC-671', True),
-    ("RC-673", "Intercessão de Enoque pelos Anunnakis", EVE_MIS[0], EVE_MIS[1], "em análise", ["P2025-05-31", 'P2023-12-02', 'P2023-10-14', 'P2023-12-03'], "RC-489; RC-671; RC-024; RC-580", True),
+    ("RC-673", "Intercessão de Enoque pelos Anunnaki", EVE_MIS[0], EVE_MIS[1], "em análise", ["P2025-05-31", 'P2023-12-02', 'P2023-10-14', 'P2023-12-03'], "RC-489; RC-671; RC-024; RC-580", True),
     ("RC-674", "Urdidura de Metatron", COS_LEI[0], COS_LEI[1], "em análise", ["P2025-05-31"], "RC-671; RC-263; RC-264; RC-292; RC-293", True),
     ("RC-675", "Binah", TER_HEB[0], TER_HEB[1], "em análise", ['P2025-05-31', 'P2024-07-14'], 'RC-263; RC-261; RC-565; RC-102', True),
     ("RC-676", "Chesed", TER_HEB[0], TER_HEB[1], "em análise", ["P2025-05-31"], "RC-263; RC-677; RC-678", True),

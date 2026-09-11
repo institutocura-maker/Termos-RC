@@ -1,4 +1,4 @@
-# Nefilins (= Anunnakis) — RC-488
+# Nefilins (= Anunnaki) — RC-488
 
 | Campo | Valor |
 |---|---|
@@ -78,3 +78,6 @@ Correlação anaquins/enacins = Anunnaki/Nefilins é **leitura do autor** (Teolo
 - **Nefelim sumério → Anunak acadiano:** "Nefelim é a expressão que o povo sumério chamava uma certa raça que pousou lá na Mesopotâmia... quando os sumérios foram substituídos pelos acadianos... os acadianos passaram a chamar essa turma de Anunak. Então, Nefelins são os famosos Anunnakis chamados à moda acadiana";
 - **Distinção com Elohim (RC-004):** "não tem nada a ver com os Elohins" — raça extraterrestre na Terra na época do Éden;
 - Nova aresta RC-004 ↔ RC-488 (Elohim ~ Nefelins) — desambiguação confirmada pelo curador.
+
+## Nota — DESPACHO CURATORIAL 10/09/2026 (P7c-ter): extensão do invariável Anunnaki (RC-024)
+- Título corrigido por ordem do Curador ("assim fica consistente"): *Nefilins (= Anunnaki)*. Verbatim/STT preservados ("Anunax", «famosos Anunnakis chamados à moda acadiana").
