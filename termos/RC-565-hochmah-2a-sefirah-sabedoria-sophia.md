@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | TERMOS ESPECÍFICOS |
 | **Subcategoria** | 8.2 Hebraico / Cabala |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
@@ -174,7 +174,7 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 | Pistis Sophia | RC-530 | relaciona-se-a |
 
 ## Observações
-- **Grafia SOB SUSPEITA (Curador, 10/09/2026, contexto P7-2.5):** "Hochmah" pode misturar *Hokhmah* (sefardita) + *Chokhmah* (ashkenazi). Decisão canônica anterior ("Hochmah, nunca Rockman/Rockma") MANTIDA até despacho expresso; fica 🟠.
+- **Grafia SOB SUSPEITA (Curador, 10/09/2026, contexto P7-2.5):** "Hochmah" pode misturar *Hokhmah* (sefardita) + *Chokhmah* (ashkenazi). Decisão canônica anterior ("Hochmah, nunca Rockman/Rockma") MANTIDA; suspeita ENCERRADA por despacho expresso do Curador (P7j 11/09/2026 — o V da leva 8.2 vale como liberação; grafia Hochmah confirmada) → 🟢.
 
 Fonemas "Rockma/Rockman" continuam na Colecionar Incertezas (não resolvem identidade sem áudio) — veto estrito do curador mantido.
 
