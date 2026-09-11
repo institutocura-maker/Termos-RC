@@ -49,6 +49,7 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta d
 - **Humanos (RC-099)** — coautores dos 13 livros
 
 ## Observações
+- **Retenção curatorial (P6 10/09/2026 + P7i 11/09/2026)**: excluído da chancela da leva 5.4 por decisão expressa do Curador nas duas fases (`except1` no P6; `mantem` no P7i). Mantém-se 🟠 Em análise: fonte única STT (P2023-12-17, U0005) + quarentena autobiográfica FORTE (plano dos 9/13 livros). Reavaliar apenas com nova evidência ou despacho curatorial explícito.
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2023-12-17 é a única fonte primária dessa formulação específica (13 livros de Lúcifer com humanos).
 - **Quarentena autobiográfica FORTE**: o autor revela que está **escrevendo 9 livros** (publicou 1 com Maria Helena) como parte dos **13 livros de Lúcifer com humanos**. **NÃO FUSIONAR com** plano editorial comercial ou lançamento de produto. É um **gesto simbólico e político** dentro da cosmogonia do autor.
 - **Conexão com a P2023-12-03**: a P2023-12-03 trata da "rebelião de Lúcifer ainda por ser finalizada" — os 13 livros são a forma de **finalizar a rebelião** (pelo menos parcialmente).
