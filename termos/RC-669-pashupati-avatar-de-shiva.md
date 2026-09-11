@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
