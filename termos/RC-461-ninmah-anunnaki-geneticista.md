@@ -49,7 +49,7 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 |---|---|---|
 | Enki | RC-486 | irmã-de |
 | Enlil | RC-487 | irmã-de |
-| Anunnakis | RC-024 | relaciona-se-a |
+| Anunnaki | RC-024 | relaciona-se-a |
 
 ## Blindagem
 

@@ -60,7 +60,7 @@ Aparece na disputa entre clãs e na reação ao uso das armas atômicas que teri
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Anunnakis | RC-024 | é-um |
+| Anunnaki | RC-024 | é-um |
 | Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | pai-de |
 | Enlil (deus sumério, par de Enki) | RC-487 | pai-de |
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | relaciona-se-a |

@@ -44,7 +44,7 @@
 | 23 | RC-161 | 14 | 17 | 0 | 14 | Memória Quântica dos Elétrons |
 | 24 | RC-474 | 14 | 11 | 1 | 14 | Arcontes (= Sophias e Indras; Conselho dos 70) |
 | 25 | RC-725 | 14 | 7 | 0 | 13 | Ponto de Luz Humano / Ilha de Negentropia |
-| 26 | RC-024 | 13 | 19 | 0 | 13 | Anunnakis |
+| 26 | RC-024 | 13 | 19 | 0 | 13 | Anunnaki |
 | 27 | RC-036 | 13 | 13 | 2 | 13 | Biodemos |
 | 28 | RC-074 | 13 | 9 | 1 | 13 | Len Mion (Satã) |
 | 29 | RC-160 | 12 | 17 | 0 | 12 | Entropia e Negentropia |
@@ -55,7 +55,7 @@
 | # | Código | Fontes | Ampl | Cit | Termo |
 |---|---|---|---|---|---|
 | 1 | RC-727 | 26 | 26 | 0 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia |
-| 2 | RC-024 | 19 | 13 | 0 | Anunnakis |
+| 2 | RC-024 | 19 | 13 | 0 | Anunnaki |
 | 3 | RC-078 | 18 | 10 | 0 | Lúcifer (Yel Luzbel) |
 | 4 | RC-094 | 18 | 10 | 0 | Revelação Cósmica (conceito) |
 | 5 | RC-161 | 17 | 14 | 0 | Memória Quântica dos Elétrons |
@@ -103,7 +103,7 @@
 | RC-019 | 1 | 8 | 0 | 0 | Anjos clones |
 | RC-020 | 3 | 6 | 1 | 0 | Anjos caídos |
 | RC-021 | 2 | 6 | 2 | 0 | Antares (Sistema) |
-| RC-024 | 13 | 19 | 0 | 0 | Anunnakis |
+| RC-024 | 13 | 19 | 0 | 0 | Anunnaki |
 | RC-025 | 1 | 2 | 0 | 0 | Asphezian |
 | RC-028 | 1 | 6 | 0 | 0 | Atlan |
 | RC-031 | 1 | 5 | 0 | 0 | Aya e Aye |

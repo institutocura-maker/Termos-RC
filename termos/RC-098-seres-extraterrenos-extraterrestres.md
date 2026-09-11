@@ -32,7 +32,7 @@ Seres com corpos físicos e biológicos como os nossos, mas que habitam outros p
 | Fenvans | RC-064 | inclui (classe enfatizada) |
 | Sophia (Cristo Cósmico) | RC-009 | inclui (exemplo de biodemo) |
 | Lúcifer (Yel Luzbel) | RC-078 | inclui (exemplo de biodemo) |
-| Anunnakis | RC-024 | relaciona-se-a |
+| Anunnaki | RC-024 | relaciona-se-a |
 
 ## Observações
 

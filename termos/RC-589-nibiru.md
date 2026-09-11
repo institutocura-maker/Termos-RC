@@ -61,7 +61,7 @@ Aparece no relato da guerra entre os clãs de Enki e Enlil.
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Anunnakis | RC-024 | associado-a |
+| Anunnaki | RC-024 | associado-a |
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | origem-de |
 | Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
 | Ninurta | RC-588 | relaciona-se-a |

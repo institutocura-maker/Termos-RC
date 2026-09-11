@@ -39,6 +39,7 @@ Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígne
 | Princípio da Externalização | RC-768 | relaciona-se-a |
 
 ## Observações
+- **RETIDO P7c (10/09/2026, `?` do Curador):** ficha magra — sem refs, `Citação-chave` vazia, só 2 palestras 2026; equação "fenvães/elfos" sem lastro visível. Fica 🟠 até engorda ou atesto expresso.
 
 Grafia "Fenvã" provém de STT da palestra P2026-07-25; manter [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] até confirmação em fonte publicada (provável termo do autor em B068).
 

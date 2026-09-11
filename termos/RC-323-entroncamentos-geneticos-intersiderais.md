@@ -46,11 +46,11 @@ Os entroncamentos genéticos explicam a composição do genoma humano como "mosa
 | Biodemos | RC-036 | envolve |
 | Biodemol | RC-186 | envolve |
 | Nephilins | RC-082 | envolve |
-| Anunnakis | RC-024 | envolve |
+| Anunnaki | RC-024 | envolve |
 | Hiperbórea | RC-068 | local |
 
 ## Seres Associados
-Biodemos (RC-036); Biodemol (RC-186); Nephilins/Anunnakis (RC-082/RC-024); Seres Terrenos (RC-099).
+Biodemos (RC-036); Biodemol (RC-186); Nephilins/Anunnaki (RC-082/RC-024); Seres Terrenos (RC-099).
 
 ## Observações
 Ficha baseada em B023 (obra primária). Os 4 grupos (de ~8 ocorridos) mapeiam a composição genética da humanidade. Cruzar com RC-324 e com a trilogia Terra Atlantis.

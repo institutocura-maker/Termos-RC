@@ -39,7 +39,7 @@ Os Ostronomos são uma das "espécies de fora" que monitoravam a Terra nos tempo
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Seres Extraterrestres | RC-098 | é-um |
-| Anunnakis | RC-024 | associado-a (origem comum) |
+| Anunnaki | RC-024 | associado-a (origem comum) |
 | Biodemos | RC-036 | origem comum (DNA) |
 | Val Geon | RC-126 | interagiu |
 | Val Pen | RC-129 | interagiu |

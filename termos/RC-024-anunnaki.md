@@ -1,10 +1,10 @@
-# Anunnakis — RC-024
+# Anunnaki — RC-024
 
 | Campo | Valor |
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.3 Extraterrestres / Raças cósmicas |
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
@@ -23,7 +23,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 ## Ampliação — P2025-05-31
 
-- **Anunnakis na fala (P2025-05-31):** "Nefilim e Anunnaki é a mesmíssima coisa, apenas dois nomes chamados por duas culturas diferentes"; "a Bíblia inicia dizendo: houve um tempo em que os Nefilins estavam na Terra" (traduções portuguesas ocultam: "gigantes"); federação de figuras; igigis como ramo.
+- **Anunnaki na fala (P2025-05-31):** "Nefilim e Anunnaki é a mesmíssima coisa, apenas dois nomes chamados por duas culturas diferentes"; "a Bíblia inicia dizendo: houve um tempo em que os Nefilins estavam na Terra" (traduções portuguesas ocultam: "gigantes"); federação de figuras; igigis como ramo.
 
 
 ## Ampliação — P2024-07-13
@@ -115,11 +115,11 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 
 ## Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Mistérios de Awaylengam)
 
-- **[Anunnakis — a ponta final do ramo de Awaylengan] (U0003)** «Os anunac são a ponta final desse dessa história que eu tô falando aqui, desse vírus, tá?» — os anunnakis como o resultado do encontro do ramo de Awaylengan com o vírus de Lúcifer; ver RC-002.
+- **[Anunnaki — a ponta final do ramo de Awaylengan] (U0003)** «Os anunac são a ponta final desse dessa história que eu tô falando aqui, desse vírus, tá?» — os anunnakis como o resultado do encontro do ramo de Awaylengan com o vírus de Lúcifer; ver RC-002.
 
 ## Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)
 
-- **[anunnakis, sirianos e deuses] (U0010)** «Essas outras forças eram os anonques, eram os anfíbios sirianos, eram os tais deuses que nessa época saí dos portais ficavam aqui na terra.» — STT `anonques`=Anunnakis; junto com os anfíbios sirianos e os deuses que saíam dos portais, já estavam na Terra antes dos biodemos.
+- **[anunnaki, sirianos e deuses] (U0010)** «Essas outras forças eram os anonques, eram os anfíbios sirianos, eram os tais deuses que nessa época saí dos portais ficavam aqui na terra.» — STT `anonques`=Anunnakis; junto com os anfíbios sirianos e os deuses que saíam dos portais, já estavam na Terra antes dos biodemos.
 
 
 ## Ampliação — P2024-03-17
@@ -140,3 +140,7 @@ Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
 - **Selos do lote:** ll. 95 → AGUARDA-ÁUDIO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+## Nota — DESPACHO CURATORIAL 10/09/2026 (P7c): Anunnakis → Anunnaki (invariável)
+- **Título corrigido por ordem do Curador** (questão P7-1.3: "Anunnaki já não é plural?"): sim — *Anunna(kī)* é coletivo/plural na assiriologia; o "-s" lusitano criava duplo plural. A própria ficha já usava o invariável no corpo ("os Anunnaki que…", "~850–900 anunnaki"). Título anterior registrado por proveniência: *Anunnakis*.
+- **Escopo:** nome do termo (cadastro, ficha, verbete, slugs, rótulos RC-024, docs). **Preservados:** verbatim/STT («esses 900 anunnakis», «anunac», «anonques»), títulos de palestra (*As Etnias Hiperbóreas e os Anunnakis*), prosa dos verbetes, títulos de terceiros (RC-488, RC-673 — pendentes de despacho próprio).

@@ -52,7 +52,7 @@
 | RC-018 | alt-lam-gron | Alt´Lam Gron |
 | RC-020 | anjos-caidos | Anjos caídos |
 | RC-021 | antares-sistema | Antares (Sistema) |
-| RC-024 | anunnakis | Anunnakis |
+| RC-024 | anunnaki | Anunnaki |
 | RC-035 | bilaterios | Bilatérios |
 | RC-036 | biodemos | Biodemos |
 | RC-037 | brahma-brajna | Brahma (Brajna) |

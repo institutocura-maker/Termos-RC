@@ -35,7 +35,7 @@ No verbete de B060, Hermes Trismegisto é listado como um personagem com múltip
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Anunnakis | RC-024 | relaciona-se-a (Ningishzidda) |
+| Anunnaki | RC-024 | relaciona-se-a (Ningishzidda) |
 | Apolônio de Tiana | RC-259 | relaciona-se-a (encarnação do 4º Logos) |
 | Quarto Logos (Olm) | RC-092 | relaciona-se-a (tradição hermética) |
 

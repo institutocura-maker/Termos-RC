@@ -40,7 +40,7 @@ Anunnaki relacionado à localização e ao uso das sete armas atômicas no confl
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Anunnakis | RC-024 | é-um |
+| Anunnaki | RC-024 | é-um |
 | Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | envolve |
 | Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
 | Anu (patriarca Anunnaki) | RC-587 | relaciona-se-a |

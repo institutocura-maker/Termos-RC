@@ -34,7 +34,7 @@
 
 | Termo | Código | Relação |
 |---|---|---|
-| Anunnakis | RC-024 | relaciona-se-a |
+| Anunnaki | RC-024 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a |
 | Criaturas-ferramenta | RC-164 | relaciona-se-a |
 | Criaturas-ferramenta | RC-449 | relaciona-se-a |

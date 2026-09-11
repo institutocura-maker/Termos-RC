@@ -77,7 +77,7 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 |---|---|---|
 | Enki | RC-486 | irmão-de (clã rival) |
 | Javé | RC-001 | relaciona-se-a (objetivos parecidos) |
-| Anunnakis | RC-024 | relaciona-se-a |
+| Anunnaki | RC-024 | relaciona-se-a |
 | Anu | RC-587 | filho-de |
 | Ninmah (Ninhursag) | RC-461 | irmão-de |
 | Ao Vencedor as Batatas | RC-764 | relaciona-se-a |

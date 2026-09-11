@@ -63,7 +63,7 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Anunnakis | RC-024 | é-um |
+| Anunnaki | RC-024 | é-um |
 | Thuata de Dannan | RC-398 | relaciona-se-a |
 
 ## Seres Associados

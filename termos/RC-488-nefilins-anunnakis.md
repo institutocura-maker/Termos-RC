@@ -9,7 +9,7 @@
 
 ## Definição Sintética
 
-Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os **Anunnakis** (RC-024) — os "vigilantes"/híbridos da desobediência pré-diluviana.
+Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os **Anunnaki** (RC-024) — os "vigilantes"/híbridos da desobediência pré-diluviana.
 
 ## Atualização — P2021-03-27 — ABSORÇÃO DE NT-BA04 (Anaquins/Enacins)
 
@@ -63,7 +63,7 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 
 | Termo | Código | Relação |
 |---|---|---|
-| Anunnakis | RC-024 | sinônimo |
+| Anunnaki | RC-024 | sinônimo |
 | Hibridização genética | RC-516 | relaciona-se-a |
 | Ao Vencedor as Batatas | RC-764 | relaciona-se-a |
 
