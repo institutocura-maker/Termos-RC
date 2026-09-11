@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
 | **Subcategoria** | 2.2 Leis e princípios cósmicos |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
+| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-17 |
 
 ## Definição Sintética
