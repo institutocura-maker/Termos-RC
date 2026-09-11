@@ -4,7 +4,7 @@
 |---|---|
 | **Categoria Principal** | SERES & ENTIDADES |
 | **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟠 Em análise (candidatura aprovada pelo curador) |
+| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
 | **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética

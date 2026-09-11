@@ -2,7 +2,7 @@
 
 | Campo | Valor |
 |---|---|
-| **Status** | 🟠 Em análise |
+| **Status** | 🟢 Verificado |
 | **Última atualização** | 2026-09-10 |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
