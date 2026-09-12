@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: SOB-DEMANDA (material N0; uso pontual)
 """Gera o MAPA DE ABSTRAÇÃO (N0) da Revelação Cósmica — SVG + PDF + PNG.
 
 Materializa a melhoria pedagógica nº 1 da PROPOSTA-PEDAGOGICA-TOP-DOWN:

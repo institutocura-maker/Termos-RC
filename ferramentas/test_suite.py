@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-P7 (11 checks; Onda 0.1)
 """SUITE DE INTEGRIDADE DA BASE RC — Onda 0.1 (11 checks, só-stdlib).
 
 Uso:  python3 ferramentas/test_suite.py        (a partir da raiz do repo)

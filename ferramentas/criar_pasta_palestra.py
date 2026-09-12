@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: SOB-DEMANDA (scaffold de ciclo)
 """Cria a pasta padrão de uma nova palestra (estrutura canônica).
 
 Uso:

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-ENCICLOPEDIA (linha verbetes, outro fluxo)
 """Gera o INDICE DA ENCICLOPEDIA DE REFERENCIA DAS REVELACOES COSMICAS.
 
 Obra de referencia (consulta por verbete) distinta do material didatico

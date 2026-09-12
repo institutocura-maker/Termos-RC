@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-P7 (README vivo; Onda 0.4)
 """Gera README.md vivo — Onda 0.4.
 
 Fontes: loader (números, sempre vivos) + STATE-MIRROR §1 (narrativa de fase)

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: SOB-DEMANDA (linha apostilas, outro fluxo)
 """Gera a APOSTILA DE ESTUDO (DOCX) a partir de um Markdown estruturado.
 
 Reproduz a formatação do exemplo "Apostila TOP — A Raça Inabalável dos Sethianos

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: REGISTRO-MESTRE vigente (transição Onda 1)
 """TABELA-MESTRA DA BASE TERMINOLÓGICA RC — fonte única de verdade.
 
 Termos extraídos do Glossário de Termos da Revelação Cósmica (B031 - Raquyel Braga,

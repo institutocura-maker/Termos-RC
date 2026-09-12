@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: DORMENTE-2026-09 (era esteira-leve; P6/P7 não invocam)
 """MOTOR ÚNICO DA ESTEIRA LEVE — Base Terminológica RC.
 
 Nasce do despacho do Curador de 29/08/2026, §4 (Mandato para a Engenharia):

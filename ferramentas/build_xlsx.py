@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-P7 (espelho principal; Onda 0.2 loader)
 """Gera a planilha consolidada da Base Terminológica RC (base-terminologica.xlsx)
 a partir da tabela-mestra ferramentas/dados_termos.py.
 Execute a partir de rc-terminologia/ :  python3 ferramentas/build_xlsx.py

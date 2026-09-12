@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+# STATUS: ATIVO-ENCICLOPEDIA (linha verbetes, outro fluxo)
 Gera o DOCX de registro do Indice da Enciclopedia (ed. 2026.1).
 
 Conversor minimo e auditavel de Markdown -> DOCX: titulos (1-4), paragrafos,

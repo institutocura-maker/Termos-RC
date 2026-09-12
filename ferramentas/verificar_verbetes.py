@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """
+# STATUS: ATIVO-P7 (portão verbatim; Onda 0.2 loader)
 Verificacao mecanica dos verbetes da Enciclopedia (ed. 2026.1).
 
 Dois asserts, nenhuma indulgencia:

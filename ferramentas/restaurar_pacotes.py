@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: SOB-DEMANDA (era migração-de-chats)
 """
 Restaurador dos pacotes de garantia RC (2026-08-16) — v3 (binário, fiel).
 

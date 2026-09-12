@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-P7 (espelho leitura; Onda 0.2 loader)
 """Gera base-terminologica-leitura.docx — versão Word para LEITURA HUMANA.
 
 A planilha XLSX continua sendo a fonte estruturada (para IAs e dados);

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-P7 (indice-mestre; Onda 0.2 loader)
 """Gera indice-mestre.md a partir da tabela-mestra ferramentas/dados_termos.py.
 Execute a partir de rc-terminologia/ :  python3 ferramentas/build_indice.py
 """

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: ATIVO-P7 (loader único; Onda 0.2)
 """LOADER ÚNICO DA BASE RC — Onda 0.2.
 
 Um módulo, uma API, três consumidores (build_xlsx, build_word, build_indice,

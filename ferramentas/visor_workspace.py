@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+# STATUS: DORMENTE-2026-09 (servidor HTTP; inviável no sandbox)
 """Visor somente-leitura do workspace da Base Terminológica RC.
 
 Servidor HTTP em Python puro. Nunca grava, move ou apaga.
