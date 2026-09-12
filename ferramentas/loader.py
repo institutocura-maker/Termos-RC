@@ -66,4 +66,23 @@ def _biblio_do_json():
              o["ano"], o["status"], o["nota"]] for o in doc["obras"]]
 
 
+def carregar_canonico():
+    """Onda 1.7 (JSON-primeiro, despacho 1.2 Opção A): TERMOS/RELACOES lidos
+    de base/canonico.json. Reconstrói as tuplas no formato do registro
+    (relacionados voltam a string "; ") para que os builders troquem de fonte
+    sem tocar na lógica. O PRODUTOR do JSON segue sendo exportar_json.py
+    (registro-mestre -> json); `validar` continua a porta dos dados.
+    Aceite de paridade por builder: espelhos byte-idênticos (exceto a placa
+    de procedência, quando houver)."""
+    import json
+    raiz = os.path.dirname(FER)
+    doc = json.load(open(os.path.join(raiz, "base", "canonico.json"),
+                         encoding="utf-8"))
+    termos = [(t["codigo"], t["nome"], t["categoria"], t["subcategoria"],
+               t["status"], list(t["fontes"]), "; ".join(t["relacionados"]),
+               t["ficha"]) for t in doc["termos"]]
+    rels = [(r["a"], r["tipo"], r["b"], r["fonte"]) for r in doc["relacoes"]]
+    return termos, rels
+
+
 BIBLIO = _biblio_do_json()

@@ -2,7 +2,7 @@
 
 > Tabela com **todos** os termos do projeto. Termos com ficha completa têm link em `termos/`.
 > Status: ⚪ candidato · 🟡 provisório (fonte publicada, aguardando revisão) · 🟠 em análise · 🟢 verificado.
-> Gerado por `ferramentas/build_indice.py` a partir de `ferramentas/dados_termos.py` — **não editar à mão**.
+> Gerado por `ferramentas/build_indice.py` a partir de `base/canonico.json` (registro-mestre exportado) — **não editar à mão**.
 
 | Código | Termo | Categoria | Subcategoria | Status | Fontes | Relacionados | Ficha |
 |---|---|---|---|---|---|---|---|
