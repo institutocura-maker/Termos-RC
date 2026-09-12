@@ -88,6 +88,21 @@ def flag_hold(decisoes, hold=None):
             if v == "V" and c in hold}
 
 
+def assert_template_count(path, esperado):
+    """Rito E3: template gerado deve ter exatamente N linhas de dados.
+
+    Cura o incidente `40afd50` (template 5.4 vazio por nome de chunk errado).
+    Uso: assert_template_count("chancela/P7-X.csv", n) logo após gerar.
+    """
+    with open(path, encoding="utf-8-sig") as f:
+        rows = [r for r in csv.DictReader(f, delimiter=";")
+                if (r.get("código") or "").strip()]
+    assert len(rows) == esperado, (
+        f"{path}: {len(rows)} linhas, esperado {esperado} "
+        "(nome de chunk errado? filtro vazio?)")
+    return len(rows)
+
+
 def _load_baseline():
     with open(BASELINE, encoding="utf-8") as f:
         return json.load(f)
