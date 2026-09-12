@@ -41,3 +41,6 @@ Contra-argumento registrado (honestidade): se a base passar a ter **escritores c
 ---
 
 *Parecer lavrado pelo agente de engenharia em 12/09/2026. Devolver ao Assistente Auditor como revisor (item 7 do encaminhamento).*
+
+## Despacho (Curador, 12/09/2026)
+**Opção A: JSON canônico (+ SQLite derivado sob demanda).** Executar 1.1 → 1.3 → 1.4 → 1.5 → 1.7 nesta ordem; 1.6 (B061-BIBLIO e fantasmas) junto com 1.3.
