@@ -6,7 +6,7 @@
 - Validador/self-test: `python3 ferramentas/dados_termos.py` → hoje: **OK: 946 termos, 1898 relações**.
 
 ## 1. Números oficiais
-- Base: **946 termos · 671 fichas · 1898 relações · 102 obras** (P7 PAUSADO 11/09/2026: P6 35 levas/291 + P7a–j/155 CSV, status 60⚪/241🟡/166🟠/479🟢; auditoria interna A→E + Plano ondas 0–3; Onda 0 em execução (B061 materializado, HOLD.csv, suite, loader, README vivo); Apêndice C=275; dúvidas abertas 454, 822, 769, 859 (+HOLD.csv c/ 13); espelhos reconstruídos em 12/09/2026 — a cada turno de espelho: `pip install -q --user --break-system-packages openpyxl python-docx`).
+- Base: **946 termos · 671 fichas · 1898 relações · 102 obras** (P7 PAUSADO 11/09/2026: P6 35 levas/291 + P7a–j/155 CSV, status 60⚪/241🟡/166🟠/479🟢; auditoria interna A→E + Plano ondas 0–3; Onda 0 CONCLUÍDA 12/09/2026 (B061, HOLD.csv, suite 17 OK, loader+paridade, README vivo, legacy/, pacotes tag, ritos; P7 liberado p/ retomada sob portões novos); Apêndice C=275; dúvidas abertas 454, 822, 769, 859 (+HOLD.csv c/ 13); espelhos reconstruídos em 12/09/2026 — a cada turno de espelho: `pip install -q --user --break-system-packages openpyxl python-docx`).
 - Censo de CÓDIGO = `ferramentas/dados_termos.py` (registro-mestre), NUNCA nomes de `termos/` (lição IEEA: fichas paravam em RC-929, registro ia a 933; F043 quase duplicou código).
 - Ledger do Curador: **47 resíduos chancelados** (F041: 33 + F042: 14) · régua BRUTA = **4** (menções literais em 3 fichas-meta + 1 já averbada na reabertura RC-047) · "perdoado até novas evidências", reabertura só por portão.
 - `uploads_recepcao/`: só README + .gitkeep + 8 registros-antigos na raiz (contabilidade histórica, intocável). Caixa canônica de expurgo = `backups/REGISTRO-LIMPEZA-*.json`, último **nº 21**.
