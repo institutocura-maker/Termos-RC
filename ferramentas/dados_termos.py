@@ -11,6 +11,10 @@ Estrutura: (codigo, nome, categoria, subcategoria, status, fontes, relacionados,
 - status: candidato | provisório | em análise | verificado
 - fontes: siglas B### (lista)
 - relacionados: códigos RC-### referenciados (NAVEGAÇÃO ampla; hierarquia Onda 1.4 no loader.py)
+- tipo de RELACOES: RÓTULO LIVRE controlado por censo (não enum). Onda 1.4:
+  fusão Grupo A 12/09 (269 tipos) + dedups-espelho 2º despacho; hapax válidos;
+  vocabulário fechado ~20 tipos = projeto Onda 2+.
+  Censo/certidão: diagnostico/DESPACHO-FUSAO-TIPOS-1.4-2026-09-12.md
 - ficha: True se existe ficha detalhada em termos/
 
 Regras:
@@ -1728,7 +1732,6 @@ RELACOES = [
     ("RC-588", "é-um", "RC-024", "P2022-12-17"),
     ("RC-588", "envolve", "RC-583", "P2022-12-17"),
     ("RC-589", "associado-a", "RC-024", "P2022-12-17"),
-    ("RC-589", "origem-de", "RC-583", "P2022-12-17"),
     ("RC-590", "tema-de", "RC-595", "P2022-12-17"),
     ("RC-590", "relaciona-se-a", "RC-568", "P2022-12-17"),
     ("RC-591", "relaciona-se-a", "RC-571", "P2022-12-17"),
@@ -2314,7 +2317,6 @@ RELACOES = [
     ('RC-717', 'envolve', 'RC-638', 'P2024-11-30'),
     ('RC-717', 'é-fenômeno-de', 'RC-690', 'P2024-11-30'),
     ('RC-717', 'primeiro-caso', 'RC-001', 'P2024-11-30'),
-    ('RC-717', 'risco-para', 'RC-414', 'P2024-11-30'),
     ('RC-717', 'envolve', 'RC-715', 'P2024-11-30'),
     ('RC-717', 'relaciona-se-a', 'RC-716', 'P2024-11-30'),
     ('RC-717', 'relaciona-se-a', 'RC-425', 'P2024-11-30'),

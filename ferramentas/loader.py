@@ -16,6 +16,11 @@ Hierarquia das relações (Onda 1.4): TERMOS[t][6] = NAVEGAÇÃO ampla
 ("ver também", não-tipado); RELACOES = CURATORIAL tipado (tipo + fonte).
 Regra: todo par RELACOES existe em t[6] (reconciliado 12/09/2026); o inverso
 não vale (4.662 navegações x 1.723 pares tipados únicos).
+
+Tipos de RELACOES = RÓTULO LIVRE controlado por censo (despacho Onda 1.4:
+fundir só flexões óbvias [Grupo A], manter pares de preposição com sentido próprio,
+dedup de espelhos; ver diagnostico/CENSO-TIPOS-RELACAO-2026-09-12.md e certidão em
+diagnostico/DESPACHO-FUSAO-TIPOS-1.4-2026-09-12.md). Vocabulário fechado = Onda 2+.
 """
 import os
 import sys

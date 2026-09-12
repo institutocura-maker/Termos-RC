@@ -72,3 +72,11 @@
 - Notas de registro: (a) A5 executada como tabelado (fusão em `aplica-se-a`); a leitura passiva "aplicada PELO Criador" fica preservada no comentário da aresta — se algum dia o Curador quiser `aplicada-por`, é despacho de 1 linha. (b) Mecânica: script único `/tmp/aplicar_fusao_14A_v2.py` (EFÊMERO), dry-run→assert→apply; backup prévio em `/tmp/bkp_14A/` (EFÊMERO).
 
 **ADIADO para 2º despacho (expressão do aceite "só o Grupo A"):** dedups-espelho **B4** (`origem-de` RC-589→583, −1 aresta) e **C1** (`risco-para` RC-717→414, −1 aresta); **C4** declaração rótulo-livre no loader/registro; os 9 "manter" ficam como estão (já conformes ao caminho a).
+
+## Certidão de execução — 2º despacho (12/09/2026, Agente 25 · "seguimos para o 2º despacho")
+
+- **B4:** removida `("RC-589", "origem-de", "RC-583", "P2022-12-17")` — fato preservado na aresta mantida `RC-583 --origem-em--> RC-589`; linha da ficha RC-589 intocada (lê do próprio sujeito: Nibiru é origem da Guerra; convenção table-only, 2.5 adjudica).
+- **C1:** removida `('RC-717', 'risco-para', 'RC-414', 'P2024-11-30')` — fato na aresta mantida `RC-414 --risco-de--> RC-717`; ficha RC-717 idem (linha coerente lida do Buraco Negro).
+- **C4:** declaração lavrada em DUAS âncoras: docstring do `dados_termos.py` (campo RELACOES) e do `loader.py` (hierarquia 1.4): *tipo = RÓTULO LIVRE controlado por censo* (não enum; 269 tipos pós-A; hapax válidos; vocabulário fechado ~20 = projeto Onda 2+).
+- **Contagens:** RELACOES **1889→1887** · tipos 269→**267** · validador OK · canonico regen + validar_json OK · 4 builds regen (xlsx/docx/índices) · verificador verbetes OK · suite 17 OK.
+- Mecânica: `/tmp/aplicar_dedup_14BC.py` (dry→apply; backups `/tmp/bkp_14BC/`, efêmeros). **Detalhe 1.4 FECHADO** (plano: "0 pares só-RELACOES ✓; tipos hapax justificados ou fundidos ✓" — justificação = declaração C4).
