@@ -248,6 +248,31 @@ class TestParser(unittest.TestCase):
         dec = {"RC-833": "V", "RC-001": "X"}
         self.assertEqual(flag_hold(dec, hold), {"RC-833": "retido"})
 
+    def test_template_count_ok(self):
+        import tempfile
+        with tempfile.NamedTemporaryFile(
+                "w", suffix=".csv", delete=False, encoding="utf-8-sig",
+                newline="") as f:
+            f.write("código;termo\nRC-001;X\nRC-002;Y\n")
+            path = f.name
+        try:
+            self.assertEqual(assert_template_count(path, 2), 2)
+        finally:
+            os.unlink(path)
+
+    def test_template_count_falha(self):
+        import tempfile
+        with tempfile.NamedTemporaryFile(
+                "w", suffix=".csv", delete=False, encoding="utf-8-sig",
+                newline="") as f:
+            f.write("código;termo\n")
+            path = f.name
+        try:
+            with self.assertRaises(AssertionError):
+                assert_template_count(path, 12)
+        finally:
+            os.unlink(path)
+
 
 if __name__ == "__main__":
     unittest.main(verbosity=1)
