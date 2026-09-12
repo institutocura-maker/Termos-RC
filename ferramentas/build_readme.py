@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (README vivo; Onda 0.4)
+# STATUS: ATIVO-P7 (README vivo; Onda 1.7-c JSON-canônico)
 """Gera README.md vivo — Onda 0.4.
 
 Fontes: loader (números, sempre vivos) + STATE-MIRROR §1 (narrativa de fase)
@@ -21,7 +21,8 @@ from datetime import date
 FER = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(FER)
 sys.path.insert(0, FER)
-from loader import TERMOS, RELACOES, via_de, confianca_de  # noqa: E402
+from loader import carregar_canonico, via_de, confianca_de  # noqa: E402
+TERMOS, RELACOES = carregar_canonico()
 
 st = Counter(t[4] for t in TERMOS)
 fichas = sum(1 for t in TERMOS if t[7])
@@ -79,8 +80,8 @@ A(f"2. **Legado sob regressão**: "
   "falha no que for novo.")
 A("3. **P7 (chancela por conhecimento) pausado** durante a Onda 0; retoma sob "
   "os portões novos (`HOLD.csv` + suite).")
-A("4. **Verdade-mestra em transição**: `dados_termos.py` segue vigente; "
-  "canônico JSON/SQLite na Onda 1 (despacho pendente).")
+A("4. **Verdade-mestra**: o registro `dados_termos.py` continua mestre dos dados; "
+  "os builds leem o canônico `base/canonico.json` (Onda 1.7 concluída 12/09/2026).")
 A("")
 A("---")
 A("")
