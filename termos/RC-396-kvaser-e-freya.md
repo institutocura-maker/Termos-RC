@@ -1,3 +1,11 @@
+# Kvasir e Freya (Vanir/Aesir) — RC-396
+
+| Campo | Valor |
+|---|---|
+| **Categoria Principal** | Seres & Entidades |
+| **Subcategoria** | 1.5 Decaídos / Exilados / Demônios |
+| **Status** | 🟢 Verificado |
+| **Última atualização** | 2026-09-12 |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 
