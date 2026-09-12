@@ -80,3 +80,7 @@ Pipeline proposto (transcrição → pré-filtro → lotes de 10–15 → CSV de
 ---
 
 *Parecer sobre o parecer, lavrado pelo agente de engenharia em 11/09/2026. Tom propositalmente simétrico ao do auditor: pontos fortes primeiro, riscos depois, prioridades por fim.*
+
+## Adendo (Onda 0.4, 12/09/2026)
+- Item A-6 ("branch 01a07777 não existe no README"): origem localizada — a string está no **STATE-MIRROR §0** (outra linhagem de sessão), não no README. O auditor leu o arquivo certo com o nome errado; o ponto continua válido como "referência de branch obsoleta", só muda o endereço.
+- Item B-R2 (README): resolvido — README vivo gerado (`ferramentas/build_readme.py`), histórico arquivado em `docs/historico/README-2026-08-17.md` com placa.
