@@ -38,6 +38,26 @@ def validar():
     return _d.validar()
 
 
+# ------------------------------------------------- Onda 1.5 — regra interim (Opção A)
+# `via` e `confianca_fonte` são DERIVADAS (não vivem na tupla do registro):
+#   via: status `em análise` -> P7-conhecimento (os 166 da linha de auditoria);
+#        demais status -> P6-evidência.
+#   confianca_fonte: alta = verificado COM >=1 fonte de livro (B###);
+#        baixa = candidato ou em análise; média = demais.
+# Reversível: mudar a regra aqui regenera o canônico (exportar_json).
+def via_de(t):
+    return "P7-conhecimento" if t[4] == "em análise" else "P6-evidência"
+
+
+def confianca_de(t):
+    tem_livro = any(str(f).startswith("B") for f in t[5])
+    if t[4] == "verificado" and tem_livro:
+        return "alta"
+    if t[4] in ("candidato", "em análise"):
+        return "baixa"
+    return "média"
+
+
 def _biblio_do_json():
     import json
     doc = json.load(open(os.path.join(RAIZ := os.path.dirname(FER),

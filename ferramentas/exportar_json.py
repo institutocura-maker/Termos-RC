@@ -15,7 +15,7 @@ import sys
 FER = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(FER)
 sys.path.insert(0, FER)
-from loader import TERMOS, RELACOES  # noqa: E402
+from loader import TERMOS, RELACOES, via_de, confianca_de  # noqa: E402
 
 OUT = os.path.join(RAIZ, "base", "canonico.json")
 
@@ -26,14 +26,16 @@ def split_rel(s):
 
 
 def exportar(out=OUT):
+    VIA = {t[0]: via_de(t) for t in TERMOS}
+    CONF = {t[0]: confianca_de(t) for t in TERMOS}
     doc = {
-        "meta": {"formato": "canonico-1",
+        "meta": {"formato": "canonico-1.1",
                  "gerado_de": "ferramentas/dados_termos.py",
-                 "nota": "Verdade-mestra (despacho 1.2, Opção A)."},
+                 "nota": "Verdade-mestra (despacho 1.2, Opção A); via/confianca_fonte =\n                  regra interim 1.5 (loader.py)."},
         "termos": [
             {"codigo": c, "nome": n, "categoria": cat, "subcategoria": sub,
              "status": st, "fontes": list(f), "relacionados": split_rel(r),
-             "ficha": bool(fc)}
+             "ficha": bool(fc), "via": VIA[c], "confianca_fonte": CONF[c]}
             for c, n, cat, sub, st, f, r, fc in TERMOS],
         "relacoes": [
             {"a": a, "tipo": t, "b": b, "fonte": f}

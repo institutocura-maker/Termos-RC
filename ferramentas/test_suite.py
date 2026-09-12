@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (11 checks; Onda 0.1)
-"""SUITE DE INTEGRIDADE DA BASE RC — Onda 0.1 (11 checks, só-stdlib).
+# STATUS: ATIVO-P7 (12 checks; Onda 0.1 + 1.5)
+"""SUITE DE INTEGRIDADE DA BASE RC — Onda 0.1 (12 checks, só-stdlib).
 
 Uso:  python3 ferramentas/test_suite.py        (a partir da raiz do repo)
 Portão: exit 0 = verde. Checks com legado conhecido usam regressão contra
@@ -20,6 +20,7 @@ Checks:
   T9  status dentro do enum
   T10 HOLD.csv íntegro (parse + códigos existem)
   T11 higiene do parser de retorno (testes unitários puros)
+  T12 via/confianca_fonte do canônico == regra do loader (1.5, regra interim)
 """
 import csv
 import glob as _glob
@@ -217,6 +218,30 @@ class TestBase(unittest.TestCase):
     def test_T9_status_enum(self):
         ruins = [(t[0], t[4]) for t in d.TERMOS if t[4] not in EMOJI]
         self.assertEqual(ruins, [], ruins)
+
+    def test_T12_via_confianca(self):
+        """1.5: campos derivados no canônico coincidem com a regra do loader;
+        conjunto P7-conhecimento == conjunto `em análise` (166 hoje)."""
+        from loader import via_de, confianca_de
+        doc = json.load(open(os.path.join(ROOT, "base", "canonico.json"),
+                             encoding="utf-8"))
+        by = {t["codigo"]: t for t in doc["termos"]}
+        ruins = []
+        for t in d.TERMOS:
+            j = by.get(t[0])
+            if j is None:
+                ruins.append(f"{t[0]}: ausente no canônico")
+                continue
+            if j.get("via") != via_de(t):
+                ruins.append(f"{t[0]}: via {j.get('via')!r} != regra")
+            if j.get("confianca_fonte") != confianca_de(t):
+                ruins.append(f"{t[0]}: confianca_fonte != regra")
+        emana = {t[0] for t in d.TERMOS if t[4] == "em análise"}
+        p7 = {k for k, v in by.items() if v.get("via") == "P7-conhecimento"}
+        if p7 != emana:
+            ruins.append(f"P7 != em análise: sóP7={sorted(p7 - emana)[:5]} "
+                         f"sóAnálise={sorted(emana - p7)[:5]}")
+        self.assertEqual(ruins[:5], [], ruins[:5])
 
     def test_T10_hold(self):
         hold = load_hold()

@@ -21,7 +21,7 @@ from datetime import date
 FER = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(FER)
 sys.path.insert(0, FER)
-from loader import TERMOS, RELACOES  # noqa: E402
+from loader import TERMOS, RELACOES, via_de, confianca_de  # noqa: E402
 
 st = Counter(t[4] for t in TERMOS)
 fichas = sum(1 for t in TERMOS if t[7])
@@ -51,6 +51,11 @@ A(f"- **{len(TERMOS)} termos · {fichas} fichas · {len(RELACOES)} relações ·
   f"{biblio_n} obras**")
 A(f"- Status: {st['candidato']}⚪ · {st['provisório']}🟡 · "
   f"{st['em análise']}🟠 · {st['verificado']}🟢")
+_v = Counter(via_de(t) for t in TERMOS)
+_c = Counter(confianca_de(t) for t in TERMOS)
+A(f"- Via/confiança (1.5 · regra interim): {_v['P7-conhecimento']} "
+  f"`P7-conhecimento` · {_v['P6-evidência']} `P6-evidência` — fontes: "
+  f"{_c['alta']} alta · {_c['média']} média · {_c['baixa']} baixa")
 A(f"- Fase: {fase}")
 A("")
 A("## Navegação")

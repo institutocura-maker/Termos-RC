@@ -15,6 +15,7 @@ Estrutura: (codigo, nome, categoria, subcategoria, status, fontes, relacionados,
   fusão Grupo A 12/09 (269 tipos) + dedups-espelho 2º despacho; hapax válidos;
   vocabulário fechado ~20 tipos = projeto Onda 2+.
   Censo/certidão: diagnostico/DESPACHO-FUSAO-TIPOS-1.4-2026-09-12.md
+- via/confianca_fonte (Onda 1.5): regra interim DERIVADA no loader.py (não vive na tupla).
 - ficha: True se existe ficha detalhada em termos/
 
 Regras:
