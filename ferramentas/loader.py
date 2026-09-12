@@ -11,6 +11,11 @@ verificar_verbetes, test_suite). Aposenta:
 INTERIM (até Onda 1.3): BIBLIO continua morando no código de build_xlsx.py;
 a extração via AST vive aqui, num SÓ lugar, documentada. Quando a Onda 1.3
 mover BIBLIO para os dados canônicos, só este arquivo muda.
+
+Hierarquia das relações (Onda 1.4): TERMOS[t][6] = NAVEGAÇÃO ampla
+("ver também", não-tipado); RELACOES = CURATORIAL tipado (tipo + fonte).
+Regra: todo par RELACOES existe em t[6] (reconciliado 12/09/2026); o inverso
+não vale (4.662 navegações x 1.723 pares tipados únicos).
 """
 import os
 import sys
