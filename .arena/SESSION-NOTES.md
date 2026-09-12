@@ -2262,3 +2262,4 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 - U6 ✅ 1.7-a (12/09): loader.carregar_canonico() (JSON→tuplas idênticas ao registro; verificado 946+1887) + build_indice JSON-primeiro; paridade byte-a-byte com 1 linha de placa; suite 18 OK; certidão nova CERTIDAO-ONDA1.7 (a✅; b=xlsx, c=word+readme pendentes).
 - U8 ✅ 1.7-c (12/09): build_word+build_readme no canônico; docx document.xml BYTE-IDÊNTICO; README diff = só linha 4; suite 18 OK. Commit 4fe076d.
 - U9 ✅ fecho: certidão 1.7 completada (a/b/c) + espelho marca ONDA 1 CONCLUÍDA (aguarda aceite do Curador, rito do plano). HEAD da linha: 4fe076d→U9.
+- U10 ✅ ACEITE (12/09): Curador aceitou a Onda 1 sem ressalvas (ask_user aceite_onda1); lavrado diagnostico/ACEITE-ONDA1-2026-09-12.md + espelho §1 atualizado. P7 continua pausado; Onda 2 aguarda chancela item a item. Sessão Agente 25 fecha aqui (HEAD da linha = este commit).
