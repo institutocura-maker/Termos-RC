@@ -14,6 +14,10 @@
 | **Conteúdo** | Cabeçalho de missão (prompt: Fontes 1–3, diretrizes) + verbetes em bullets `•`/`◦` |
 | **Slug** | `B061_glossario-mestre-1.0` |
 
-## 2. Despacho curatorial (12/09/2026)
+## 2. Nota de versão (despacho curatorial, Onda 1.3, 12/09/2026)
+
+O arquivo aqui arquivado é a **v1.0** (114 verbetes em bullets, corpus: 28 livros + 2 planos-guia); a entrada B061 na BIBLIO descreve a **v3.0** (~500 entradas, 5 palestras STT, seções A–E). Despacho do Curador: **mesma linhagem** — a v1.0 permanece como materialização de B061; a v3.0 (se existir arquivo) ingressa depois como complemento. Política de uso vigente: a da BIBLIO (mineração/pista, não fonte primária) — revisão em pauta (doc 1.6, questão 2).
+
+## 3. Despacho curatorial (12/09/2026)
 
 Sigla B061 identificada pelo Curador como "glossário antigo elaborado com ajuda de IA a partir dos livros do Ellam". Decisão do agente (delegada): arquivar como amostra materializada, fechando C4 para B061. Demais siglas-fantasma (B051/059/064/071/072/073 no cadastro + 21 só-em-fichas) seguem para a Onda 1.6.
