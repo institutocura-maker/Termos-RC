@@ -248,6 +248,10 @@ for f in fichas:
     cod = f.split("-")[0] + "-" + f.split("-")[1]
     nome = nome_por_cod.get(cod, "")
     md = open(os.path.join(RAIZ, "termos", f), encoding="utf-8").read()
+    if md.startswith("+++\n"):  # 2.1: frontmatter não vaza no docx
+        _e = md.find("\n+++\n", 4)
+        if _e >= 0:
+            md = md[_e + 5:]
     linhas = md.splitlines()
     if linhas and linhas[0].strip().startswith("# "):
         # a ficha já traz o título; usar como heading e não duplicar

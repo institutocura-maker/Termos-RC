@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-611"
+nome = "Flechas / Profecias de Moros"
+categoria = "Eventos & Eras"
+subcategoria = "7.3 Profecias / Anúncios"
+status = "verificado"
+fontes = ["P2021-12-04", "P2025-06-26", "P2025-02-16", "P2024-11-30", "P2024-04-13", "P2023-12-02", "P2020-09-19", "P2021-07-24", "P2025-07-18"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-18"
++++
 # Flechas / Profecias de Moros — RC-611
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | EVENTOS & ERAS |
-| **Subcategoria** | 7.3 Profecias / Anúncios |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-18 |
 
 ## Definição Sintética
 Avisos atribuídos a Moros, destinados a serem revividos quando a revelação psíquica, espiritual e cósmica permitisse recontar a história universal.

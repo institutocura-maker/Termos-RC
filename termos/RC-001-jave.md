@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-001"
+nome = "Javé"
+categoria = "Seres & Entidades"
+subcategoria = "1.1 Divindades / Criadores"
+status = "verificado"
+fontes = ["B031", "B044", "B035", "B001", "B002", "B033", "B015", "B013", "B014", "B020", "B021", "B022", "B023", "B048", "B003", "B025", "B026", "B034", "B036", "B060", "B019", "B043", "B037", "B039", "P2022-12-17", "P2026-07-30", "P2024-05-04", "P2025-06-26", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-09-29", "P2024-08-03", "P2024-07-14", "P2024-03-03", "P2024-04-13", "P2024-04-14", "P2026-08-04", "P2024-03-02", "P2024-02-03", "P2023-05-13", "P2023-12-02", "P2021-03-27", "P2025-11-29", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2020-09-19", "P2021-05-08", "P2021-07-24", "P2021-09-04", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2021-05-15", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2021-01-30", "P2022-05-07", "P2024-06-16", "P2017-10-14", "P2012-02-19", "P2022-12-03", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-18", "P2022-07-16", "P2026-03-21", "P2021-02-28", "P2021-04-10", "P2021-06-26", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Javé (Senhor Javé) — RC-001
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.1 Divindades / Criadores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Nas Revelações Cósmicas, Javé é o "Deus Bíblico do Antigo Testamento" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador "caído"** deste universo — e por isso chamado de Criador e não de Deus —, o protagonista do "drama cósmico/espiritual de Javé". (Definição preliminar baseada em B031; a refinar com as obras primárias.)

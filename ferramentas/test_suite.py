@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (12 checks; Onda 0.1 + 1.5)
+# STATUS: ATIVO-P7 (13 checks; Onda 0.1 + 1.5 + 2.1)
 """SUITE DE INTEGRIDADE DA BASE RC — Onda 0.1 (12 checks, só-stdlib).
 
 Uso:  python3 ferramentas/test_suite.py        (a partir da raiz do repo)
@@ -21,6 +21,7 @@ Checks:
   T10 HOLD.csv íntegro (parse + códigos existem)
   T11 higiene do parser de retorno (testes unitários puros)
   T12 via/confianca_fonte do canônico == regra do loader (1.5, regra interim)
+  T13 frontmatter TOML das fichas-piloto parseia e bate com o registro (2.1)
 """
 import csv
 import glob as _glob
@@ -156,6 +157,20 @@ class TestBase(unittest.TestCase):
         falhas = []
         for cod, paths in sorted(fm.items()):
             x = open(paths[0], encoding="utf-8").read()
+            if x.startswith("+++"):
+                # 2.1: envelope virou frontmatter TOML — xor estrito (G3.3)
+                end = x.find("\n+++\n", 4)
+                try:
+                    import tomllib
+                    front = tomllib.loads(x[4:end]) if end > 0 else {}
+                except Exception as e:  # noqa: BLE001
+                    falhas.append(f"{cod}: frontmatter inválido ({e})")
+                    continue
+                if "| **Status** |" in x[end:]:
+                    falhas.append(f"{cod}: envelope duplicado (TOML e tabela)")
+                if front.get("status") != T[cod][4]:
+                    falhas.append(f"{cod}: status TOML x registro")
+                continue
             b = re.findall(r"\| \*\*Status\*\* \| ([^|]+) \|", x)
             if len(b) != 1:
                 falhas.append(f"{cod}: {len(b)} badges")
@@ -209,6 +224,10 @@ class TestBase(unittest.TestCase):
             cod = re.match(r"(RC-\d+)-", os.path.basename(p)).group(1)
             with open(p, encoding="utf-8") as _f:
                 x = _f.read()
+            if x.startswith("+++\n"):  # 2.1: varredura é da CARTA; o envelope
+                _e = x.find("\n+++\n", 4)  # reflete o registro, que já é fiscalizado
+                if _e >= 0:
+                    x = x[_e + 5:]
             for s in set(re.findall(r"\b(B\d{3})\b", x)) - dirsB:
                 fantas.add(f"ficha:{cod}:{s}")
             for s in set(re.findall(r"\b(P\d{4}-\d{2}-\d{2})\b", x)) - dirsP:
@@ -242,6 +261,41 @@ class TestBase(unittest.TestCase):
             ruins.append(f"P7 != em análise: sóP7={sorted(p7 - emana)[:5]} "
                          f"sóAnálise={sorted(emana - p7)[:5]}")
         self.assertEqual(ruins[:5], [], ruins[:5])
+
+    def test_T13_frontmatter(self):
+        """2.1: fichas com frontmatter -> TOML parseia e bate 1:1 com o registro."""
+        import tomllib
+        T = {t[0]: t for t in d.TERMOS}
+        ruins = []
+        n_front = 0
+        for p in _glob.glob(os.path.join(ROOT, "termos", "*.md")):
+            x = open(p, encoding="utf-8").read()
+            if not x.startswith("+++"):
+                continue
+            n_front += 1
+            cod = re.match(r"(RC-\d+)-", os.path.basename(p)).group(1)
+            end = x.find("\n+++\n", 4)
+            if end < 0:
+                ruins.append(f"{cod}: frontmatter não fechado")
+                continue
+            try:
+                f = tomllib.loads(x[4:end])
+            except Exception as e:  # noqa: BLE001
+                ruins.append(f"{cod}: TOML inválido ({e})")
+                continue
+            t = T.get(cod)
+            if t is None:
+                ruins.append(f"{cod}: sem registro")
+                continue
+            exp = {"codigo": cod, "nome": t[1], "categoria": t[2],
+                   "subcategoria": t[3], "status": t[4], "fontes": list(t[5])}
+            for k, v in exp.items():
+                if f.get(k) != v:
+                    ruins.append(f"{cod}: TOML.{k} diverge do registro")
+            if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", str(f.get("atualizado", ""))):
+                ruins.append(f"{cod}: atualizado fora do ISO")
+        print(f"\n[T13] {n_front} fichas com frontmatter (piloto 2.1)")
+        self.assertEqual(ruins[:8], [], ruins[:8])
 
     def test_T10_hold(self):
         hold = load_hold()

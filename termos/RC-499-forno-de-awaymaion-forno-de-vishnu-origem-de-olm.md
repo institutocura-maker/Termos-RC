@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-499"
+nome = "Forno de Awaymaion (forno de Vishnu; origem de Olm)"
+categoria = "Lokas & Geografias"
+subcategoria = "3.2 Lokas / Mundos interiores"
+status = "verificado"
+fontes = ["B061", "P2019-08-25", "P2021-05-15", "P2022-03-26", "P2022-05-07"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-28"
++++
 # Forno de Awaymaion (forno de Vishnu; origem de Olm) — RC-499
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | LOKAS & GEOGRAFIAS |
-| **Subcategoria** | 3.2 Lokas / Mundos interiores |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-28 |
 
 ## Definição Sintética
 Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu** (Terceiro Logos). Descrito como "nave ou estação gigantesca" em formato de **charuto gigante**, localizada na Via Láctea. Responsável pela emergência do gênero existencial **biodemo** (RC-036) — seres **radiata** (RC-093) mais racionalizados, frios e lógicos, com poucas emoções. Dele surgiram **Sophia** (RC-009) e outros avatares de Vishnu; o **Quarto Logos Olm** (RC-092) surgiu "a partir" do forno e depois apareceu na nave **Asphezian** (RC-025) no Sistema de Capela.

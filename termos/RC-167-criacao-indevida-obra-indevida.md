@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-167"
+nome = "Criação Indevida (Obra indevida)"
+categoria = "Conceitos Cosmológicos"
+subcategoria = "2.1 Cosmogonia / Criação"
+status = "em análise"
+fontes = ["B024", "B035", "B001", "B002", "B016", "B013", "B022", "B041", "B037", "B033", "P2021-12-04", "P2026-07-30", "P2024-05-04", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-05-13", "P2023-12-03"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-08-29"
++++
 # Criação Indevida (Obra Indevida) — RC-167
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | CONCEITOS COSMOLÓGICOS |
-| **Subcategoria** | 2.1 Cosmogonia / Criação |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 Expressão recorrente nas RC para designar o **universo gerado pelo erro do Criador** — a Criação de Prabrajna (Brahma/Javé) que "saiu errada" e que **jamais deveria ter sido iniciada**. A obra é "indevida" porque: (1) o Criador "caiu" dentro dela e tornou-se prisioneiro; (2) não foi finalizada — daí a morte, a entropia e o sofrimento das criaturas; (3) as criaturas-ferramenta têm que passar pela experiência da morte "porque esta Obra não foi finalizada, ou não pôde ser" (B024, cap. 3).

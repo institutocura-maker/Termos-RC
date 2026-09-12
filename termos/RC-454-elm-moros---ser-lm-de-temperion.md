@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-454"
+nome = "Elm (Moros — ser LM de Tempérion)"
+categoria = "Seres & Entidades"
+subcategoria = "1.8 Consciências coletivas / Logos"
+status = "em análise"
+fontes = ["B060", "P2022-12-17", "P2021-12-04", "P2026-07-30", "P2026-04-02", "P2025-10-25", "P2025-06-26", "P2024-11-30", "P2024-09-29", "P2024-07-14", "P2024-03-02", "P2024-02-03", "P2023-05-13", "P2023-12-02", "P2025-11-29", "P2024-08-03", "P2021-05-08", "P2021-09-04", "P2023-04-01b", "P2025-02-22", "P2025-07-18", "P2018-12-15", "P2022-10-01", "P2022-09-25"]
+via = "P7-conhecimento"
+confianca_fonte = "baixa"
+atualizado = "2026-09-05"
++++
 # Elm (Moros) — RC-454
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.8 Consciências coletivas / Logos |
-| **Status** | 🟠 Em análise |
-| **Última atualização** | 2026-09-05 |
 
 ## Definição Sintética
 **Elm** é, segundo o material de apoio de aluno de Ellam (B060), um **ser LM de Tempérion**, um dos **5 eons da Espiritualidade Laboratorial** — equivalente grego **Moros** (personificação do destino/sorte). É descrito como um eon cujos **avatares** incluem **Val El (Jan Val Ellam)**, **Kardec** (codificador do Espiritismo), **Heber** (patriarca bíblico), **Kvasir** (nórdico), Enoch, Jacó, Kapila, Boécio e Vyasa, entre outros. (Fonte secundária — a confirmar nas obras primárias de Ellam.)

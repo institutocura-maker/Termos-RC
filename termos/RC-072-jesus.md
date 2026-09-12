@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-072"
+nome = "Jesus"
+categoria = "Seres & Entidades"
+subcategoria = "1.6 Figuras humanas (históricas/míticas)"
+status = "verificado"
+fontes = ["B031", "B017", "B018", "B039", "B015", "B016", "B014", "B020", "B003", "B025", "B026", "B005", "B011", "B049", "B043", "B009", "B027", "B001", "P2026-07-30", "P2025-06-26", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-07-14", "P2026-08-04", "P2024-03-02", "P2023-05-13", "P2024-09-28", "P2025-11-29", "P2023-08-05", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2020-07-04", "P2020-05-09", "P2020-09-19", "P2021-05-08", "P2021-07-24", "P2021-09-04", "P2022-09-24", "P2023-04-01b", "P2024-11-03", "P2025-02-22", "P2023-10-14", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2023-02-11", "P2022-11-26", "P2022-11-20", "P2022-10-01", "P2022-09-18", "P2026-03-21", "P2022-11-19", "P2025-12-14", "P2023-12-25-01", "P2023-12-25-02", "P2020-04-04"]
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-08-29"
++++
 # Jesus — RC-072
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | SERES & ENTIDADES |
-| **Subcategoria** | 1.6 Figuras humanas (históricas/míticas) |
-| **Status** | 🟢 Verificado |
-| **Última atualização** | 2026-08-29 |
 
 ## Definição Sintética
 

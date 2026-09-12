@@ -1,11 +1,16 @@
++++
+# frontmatter curatorial (Onda 2.1 piloto) — fonte: registro-mestre
+codigo = "RC-714"
+nome = "Arquivos do Destino Universal"
+categoria = "Tecnologias & Artefatos"
+subcategoria = "5.4 Escrituras / Objetos documentais"
+status = "verificado"
+fontes = ["P2024-11-30"]
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-08-15"
++++
 # Arquivos do Destino Universal — RC-714
-
-| Campo | Valor |
-|---|---|
-| **Categoria Principal** | TECNOLOGIAS & ARTEFATOS |
-| **Subcategoria** | 5.4 Escrituras / Objetos documentais |
-| **Status** | 🟢 Verificado (candidatura aprovada pelo curador) |
-| **Última atualização** | 2026-08-15 |
 
 ## Definição Sintética
 Conjunto de arquivos contendo Informações Vivas relativas à origem, peso ancestral, necessidades e destinação dos seres dos dois universos, ocultados em três cápsulas/setas atemporais.
