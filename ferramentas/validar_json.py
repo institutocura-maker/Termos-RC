@@ -57,8 +57,28 @@ def validar(path=DOC):
     return falhas
 
 
+BIB = os.path.join(RAIZ, "base", "biblio.json")
+
+
+def validar_biblio(path=BIB):
+    doc = json.load(open(path, encoding="utf-8"))
+    falhas = []
+    vistos = set()
+    for i, o in enumerate(doc.get("obras", [])):
+        ctx = o.get("codigo", f"#{i}")
+        for k in ("codigo", "titulo", "subtitulo", "editora", "ano",
+                  "status", "nota"):
+            if k not in o:
+                falhas.append(f"{ctx}: sem chave {k}")
+        if ctx in vistos:
+            falhas.append(f"{ctx}: código duplicado")
+        vistos.add(ctx)
+    return falhas
+
+
 if __name__ == "__main__":
     falhas = validar(sys.argv[1] if len(sys.argv) > 1 else DOC)
+    falhas += validar_biblio()
     if falhas:
         print(f"{len(falhas)} FALHAS:")
         for f in falhas[:20]:

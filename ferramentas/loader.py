@@ -12,7 +12,6 @@ INTERIM (até Onda 1.3): BIBLIO continua morando no código de build_xlsx.py;
 a extração via AST vive aqui, num SÓ lugar, documentada. Quando a Onda 1.3
 mover BIBLIO para os dados canônicos, só este arquivo muda.
 """
-import ast
 import os
 import sys
 
@@ -29,16 +28,12 @@ def validar():
     return _d.validar()
 
 
-def _biblio_via_ast():
-    path = os.path.join(FER, "build_xlsx.py")
-    src = open(path, encoding="utf-8").read()
-    tree = ast.parse(src)
-    for node in tree.body:
-        if isinstance(node, ast.Assign):
-            for t in node.targets:
-                if isinstance(t, ast.Name) and t.id == "BIBLIO":
-                    return ast.literal_eval(node.value)
-    raise RuntimeError("BIBLIO não encontrada em build_xlsx.py (loader interim)")
+def _biblio_do_json():
+    import json
+    doc = json.load(open(os.path.join(RAIZ := os.path.dirname(FER),
+                                      "base", "biblio.json"), encoding="utf-8"))
+    return [[o["codigo"], o["titulo"], o["subtitulo"], o["editora"],
+             o["ano"], o["status"], o["nota"]] for o in doc["obras"]]
 
 
-BIBLIO = _biblio_via_ast()
+BIBLIO = _biblio_do_json()

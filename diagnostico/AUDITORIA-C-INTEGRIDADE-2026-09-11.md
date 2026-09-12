@@ -51,3 +51,6 @@ Status fora do enum: 0 · códigos RC-001…RC-946 sem gaps (0 furos). ✅ A seq
 ## Síntese da Frente C
 
 O esqueleto é são (C2/C3/C5 zerados — os portões existentes funcionam), mas há **três fraturas**: (1) verdade dupla nas relações sem hierarquia declarada; (2) **fontes-fantasma**, com B061 contaminando ~65 termos; (3) schema implícito com tipos inconsistentes. Recomendação central: **portão "sem-fantasma" no test-suite (Onda 0)** + despacho sobre B061 + declaração da hierarquia `t[6]`×`RELACOES`.
+
+## Errata 2 (Onda 1.3, 12/09/2026)
+- **C4 refinado (B061)**: minha afirmação "B061 sem entrada no BIBLIO" estava errada — artefato do meu `grep` (a linha B061 quebra em várias linhas). B061 **é declarada** na BIBLIO (status `minerada`, v3.0, 5 palestras STT). O fantasma real era só-ausência-de-pasta (fechada pela materialização) + a questão aberta v1.0×v3.0 (doc 1.6, questão 1).
