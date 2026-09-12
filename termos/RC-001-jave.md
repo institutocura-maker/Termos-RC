@@ -13,7 +13,7 @@ atualizado = "2026-08-29"
 # Javé (Senhor Javé) — RC-001
 
 ## Definição Sintética
-Nas Revelações Cósmicas, Javé é o "Deus Bíblico do Antigo Testamento" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador "caído"** deste universo — e por isso chamado de Criador e não de Deus —, o protagonista do "drama cósmico/espiritual de Javé". (Definição preliminar baseada em B031; a refinar com as obras primárias.)
+Nas RC, Javé é o Deus bíblico do Antigo Testamento — Jeová/Yahweh, Alá, Brahma, Caos, Pangu e Atom nas outras tradições (B031). É o **Criador "caído"**, e por isso chamado Criador e não Deus: o protagonista do drama cósmico que ele mesmo gerou, do isolamento prometido à reintegração.
 
 ## Contexto / Origem
 Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Drama Espiritual de Javé*, 2011). O glossário de B031 situa Javé como o Criador do universo material e do universo antimaterial, cuja "queda" na própria Criação gerou os dois universos paralelos.
@@ -452,6 +452,12 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 ---
 ---
 ---
+
+## Observações
+
+### Definição anterior a 2.2 U13 (arquivo verbatim)
+
+> Nas Revelações Cósmicas, Javé é o "Deus Bíblico do Antigo Testamento" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador "caído"** deste universo — e por isso chamado de Criador e não de Deus —, o protagonista do "drama cósmico/espiritual de Javé". (Definição preliminar baseada em B031; a refinar com as obras primárias.)
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[bôson] (ressonância): chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-561 (mesma fala); a palavra após “ressonância” segue ilegível no STT.

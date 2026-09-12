@@ -13,7 +13,7 @@ atualizado = "2026-08-29"
 # Sophia (Cristo Cósmico) — RC-009
 
 ## Definição Sintética
-Sophia é **o Cristo Cósmico** e o **Suserano Cósmico** deste universo. É um ser **biológico (biodemo e radiata)** do nosso universo, com sede de sua "Governadoria Cósmica" no planeta **Orbum** (Sistema de Capela), de onde governa o universo material. É um **avatar de Mohen So**, que por sua vez era avatar de **Vishnu** — os dois (Jesus e Sophia) possuem o mesmo espírito (também o de Vishnu e Mavatna). Foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o "pai biológico" de Jesus (B031).
+Sophia é o **Cristo Cósmico** e o **Suserano Cósmico** deste universo: ser biológico (biodemo e radiata) que governa o universo material a partir de sua Governadoria Cósmica no planeta **Orbum** (Sistema de Capela). É avatar de Mohen So — por sua vez avatar de **Vishnu** —, e ela e Jesus possuem o mesmo espírito (também o de Vishnu e Mavatna). As Famílias Aya e Aye extraíram parte de seu DNA para a inseminação artificial de Maria: em palavras do autor, Sophia é o "pai biológico" de Jesus (B031).
 
 ## Contexto / Origem
 A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cósmico e o início da Reintegração Cósmica. O nome Sophia aparece no texto gnóstico *Pistis Sophia* (250–300 d.C.) e sua ausência na história da humanidade se deve ao sumiço dos Livros de Enoque.
@@ -437,6 +437,12 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 ---
 ---
 ---
+
+## Observações
+
+### Definição anterior a 2.2 U13 (arquivo verbatim)
+
+> Sophia é **o Cristo Cósmico** e o **Suserano Cósmico** deste universo. É um ser **biológico (biodemo e radiata)** do nosso universo, com sede de sua "Governadoria Cósmica" no planeta **Orbum** (Sistema de Capela), de onde governa o universo material. É um **avatar de Mohen So**, que por sua vez era avatar de **Vishnu** — os dois (Jesus e Sophia) possuem o mesmo espírito (também o de Vishnu e Mavatna). Foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o "pai biológico" de Jesus (B031).
 
 ## Nota — reforço cronológico do MUTIRÃO · Lote 1 (05/09/2026 · despacho Q-F037-C)
 
