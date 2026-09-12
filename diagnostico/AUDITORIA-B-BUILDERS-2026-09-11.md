@@ -53,3 +53,9 @@ Nenhum `.py` os importa; todas as referências estão em `.md` da era anterior. 
 ## Síntese da Frente B
 
 Os builders são **fiéis ao cadastro e cegos às fichas**, carregam a verdade por **três mecanismos distintos**, hospedam **dados (BIBLIO) no código**, e dividem o diretório com **~5.200 linhas** de outros fluxos/eras sem placa de status. Nenhum desses problemas quebra o build de hoje — todos são do tipo que quebra o build de amanhã, na véspera de uma entrega. Recomendação central: **loader único + BIBLIO-nos-dados + placas de status** (todos Onda 0/1, nenhum quebra compatibilidade).
+
+## Errata (lavrada na Onda 0.2, 12/09/2026)
+
+1. **B1 corrigido**: o `.docx` **lê sim as fichas** — a PARTE 2 embute o Markdown integral das 671 fichas (é o que explica 1,7 MB). Cegos às fichas: só o `.xlsx` e o `indice-mestre.md`. Consequência para 0.4: a PARTE 6 do docx lê a seção `## ⚠️ Pontos de atenção` do README — o README vivo gerado **deve preservar essa seção**.
+2. **B2 refinado**: o `build_word.py` carregava TERMOS/RELACOES via `exec()` (não AST); AST era só para BIBLIO. Aposentados ambos pelo `loader.py`, com paridade comprovada (Onda 0.2).
+3. **B3 refinado**: BIBLIO tem **102** entradas (reconcilia com a base) — minha contagem `grep` de 100 era artefato do padrão. Apodrecido: só o comentário "50 obras".

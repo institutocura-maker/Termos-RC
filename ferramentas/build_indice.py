@@ -6,7 +6,7 @@ Execute a partir de rc-terminologia/ :  python3 ferramentas/build_indice.py
 import glob as _glob
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
-from dados_termos import TERMOS
+from loader import TERMOS  # Onda 0.2: loader único
 
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "indice-mestre.md")
 STATUS_EMOJI = {"candidato": "⚪", "provisório": "🟡", "em análise": "🟠", "verificado": "🟢"}

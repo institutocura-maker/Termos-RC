@@ -20,7 +20,7 @@ import glob
 AQUI = os.path.dirname(os.path.abspath(__file__))
 RAIZ = os.path.dirname(AQUI)
 sys.path.insert(0, AQUI)
-import dados_termos as d  # noqa: E402
+import loader as d  # noqa: E402 — Onda 0.2: loader único
 
 
 def carregar_documento(caminho):

@@ -6,7 +6,7 @@ Execute a partir de rc-terminologia/ :  python3 ferramentas/build_xlsx.py
 """
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
-from dados_termos import TERMOS, RELACOES
+from loader import TERMOS, RELACOES  # Onda 0.2: loader único
 
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side

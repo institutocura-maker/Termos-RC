@@ -12,7 +12,7 @@ Fonte única de verdade: ferramentas/dados_termos.py (TERMOS/RELACOES)
                         termos/*.md (fichas)
                         README.md (pontos de atenção)
 """
-import os, re, ast, sys, datetime
+import os, re, sys, datetime
 from docx import Document
 from docx.shared import Pt, Cm, RGBColor
 from docx.enum.text import WD_ALIGN_PARAGRAPH
@@ -24,28 +24,9 @@ RAIZ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 FER = os.path.join(RAIZ, "ferramentas")
 
 # ---------------------------------------------------------------- carregar dados
-def carregar_py(var, path):
-    """Carrega uma variável de um arquivo .py executando-o num namespace
-    com __name__ != '__main__' (a validação fica protegida por __main__)."""
-    src = open(path, encoding="utf-8").read()
-    ns = {"__name__": "rc_carregado", "__file__": path}
-    exec(compile(src, path, "exec"), ns)
-    return ns.get(var)
-
-def carregar_literal(var, path):
-    """Extrai uma variável literal (sem subscripts) via AST — para BIBLIO."""
-    src = open(path, encoding="utf-8").read()
-    tree = ast.parse(src)
-    for node in tree.body:
-        if isinstance(node, ast.Assign):
-            for t in node.targets:
-                if isinstance(t, ast.Name) and t.id == var:
-                    return ast.literal_eval(node.value)
-    return None
-
-TERMOS = carregar_py("TERMOS", os.path.join(FER, "dados_termos.py"))
-RELACOES = carregar_py("RELACOES", os.path.join(FER, "dados_termos.py"))
-BIBLIO = carregar_literal("BIBLIO", os.path.join(FER, "build_xlsx.py"))
+# Onda 0.2: loader único (aposenta carregar_py/carregar_literal).
+sys.path.insert(0, FER)
+from loader import TERMOS, RELACOES, BIBLIO
 
 STATUS_LABEL = {"candidato": "⚪ candidato", "provisório": "🟡 provisório",
                 "em análise": "🟠 em análise", "verificado": "🟢 verificado",
