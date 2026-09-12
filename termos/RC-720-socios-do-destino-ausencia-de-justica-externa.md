@@ -41,7 +41,7 @@ A palestra afirma que:
 | Termo | Código | Relação |
 |---|---|---|
 | Wyrd/Urd | RC-658 | submetidos-a |
-| Revelação de Ifá | RC-655 | explicados-por |
+| Revelação de Ifá | RC-655 | explicado-por |
 | Decência Cósmica | RC-508 | relaciona-se-a |
 | Imperativo Categórico | RC-328 | relaciona-se-a |
 | PIA | RC-716 | envolve |

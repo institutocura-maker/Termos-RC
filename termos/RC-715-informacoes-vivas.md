@@ -44,7 +44,7 @@ A palestra trata elétrons/antielétrons como remanescentes informacionais da me
 | Elétrons | RC-162 | compõe |
 | DNA do Criador | RC-217 | organiza-se-em |
 | Evolução da Informação | RC-693 | relaciona-se-a |
-| Arquivos do Destino | RC-714 | armazenada-em |
+| Arquivos do Destino | RC-714 | armazenado-em |
 | PIA | RC-716 | medida-por |
 | Buraco Negro Mental | RC-717 | pode-colapsar-em |
 | Modelo Colmeia | RC-176 | relaciona-se-a |

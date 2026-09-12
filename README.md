@@ -7,7 +7,7 @@
 
 - **946 termos · 671 fichas · 1889 relações · 102 obras**
 - Status: 60⚪ · 241🟡 · 166🟠 · 479🟢
-- Fase: P7 PAUSADO 11/09/2026: P6 35 levas/291 + P7a–j/155 CSV, status 60⚪/241🟡/166🟠/479🟢; auditoria interna A→E + Plano ondas 0–3; Onda 0 CONCLUÍDA 12/09/2026; Onda 1 EM EXECUÇÃO (1.2 despacho JSON, 1.1 canônico, 1.3 BIBLIO+fantasmas-doc, 1.4 hierarquia+168+9dupes=1889 relações; pendente: detalhe tipos-rotulo-livre + 1.5 via/confiança + 1.7 builds-no-canônico; PAUSA 12/09: timeouts de plataforma); Apêndice C=275; dúvidas abertas 454, 822, 769, 859 (+HOLD.csv c/ 13); espelhos reconstruídos em 12/09/2026 — a cada turno de espelho: `pip install -q --user --break-system-packages openpyxl python-docx`
+- Fase: P7 PAUSADO 11/09/2026: P6 35 levas/291 + P7a–j/155 CSV, status 60⚪/241🟡/166🟠/479🟢; auditoria interna A→E + Plano ondas 0–3; Onda 0 CONCLUÍDA 12/09/2026; Onda 1 EM EXECUÇÃO (1.2 despacho JSON, 1.1 canônico, 1.3 BIBLIO+fantasmas-doc, 1.4 hierarquia+168+9dupes=1889 relações; detalhe tipos: GRUPO A EXECUTADO 12/09 (269 tipos; certidão no DESPACHO-FUSAO-TIPOS-1.4) — 2º despacho pendente: dedups origem-de/risco-para + declaração rótulo-livre; 1.5 via/confiança + 1.7 builds-no-canônico pendentes; PAUSA 12/09: timeouts de plataforma); Apêndice C=275; dúvidas abertas 454, 822, 769, 859 (+HOLD.csv c/ 13); espelhos reconstruídos em 12/09/2026 — a cada turno de espelho: `pip install -q --user --break-system-packages openpyxl python-docx`
 
 ## Navegação
 

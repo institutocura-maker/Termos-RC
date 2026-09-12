@@ -1361,7 +1361,7 @@ RELACOES = [
     ("RC-333", "opõe-se-a", "RC-334", "B048"),       # Democracia do Amor × Teocracia da Doença
     ("RC-333", "é-um", "RC-047", "B048"),            # Democracia do Amor é atributo da Deidade
     ("RC-334", "é-um", "RC-041", "B048"),            # Teocracia da Doença é do Criador
-    ("RC-335", "aplica-a", "RC-041", "B048"),        # Lavagem Cerebral aplicada pelo Criador
+    ("RC-335", "aplica-se-a", "RC-041", "B048"),          # Lavagem Cerebral aplicada pelo Criador
     ("RC-335", "vitima", "RC-099", "B048"),          # Lavagem Cerebral vitima os humanos
     ("RC-336", "é-um", "RC-041", "B048"),            # Ética da Sobrevivência é de Javé
     ("RC-338", "relaciona-se-a", "RC-332", "B048"),  # Reconhecimento ↔ Favor Divino
@@ -1426,7 +1426,7 @@ RELACOES = [
     ("RC-380", "base-de", "RC-379", "B041"),          # Imanência/Transcendência base da dança
     ("RC-382", "é-um", "RC-040", "B041"),             # Vida do CFD = CFD vivendo no humano
     ("RC-382", "relaciona-se-a", "RC-332", "B041"),   # Vida do CFD ↔ Favor Divino
-    ("RC-384", "propõe-a", "RC-378", "B041"),         # Proposta humana endereçada à rebelião
+    ("RC-384", "propõe", "RC-378", "B041"),           # Proposta humana endereçada à rebelião
     ("RC-385", "é-um", "RC-378", "B041"),             # Egrégora = circuito dos elétrons rebeldes
     ("RC-386", "registra", "RC-161", "B041"),         # Memórias para Javé registram na memória quântica
     ("RC-387", "resulta-em", "RC-167", "B041"),       # Fragmentação do poder mental → Criação Indevida
@@ -1735,7 +1735,7 @@ RELACOES = [
     ("RC-591", "relaciona-se-a", "RC-536", "P2022-12-17"),
     ("RC-592", "é-um", "RC-569", "P2022-12-17"),
     ("RC-592", "envolve", "RC-072", "P2022-12-17"),
-    ("RC-592", "sucede-por", "RC-405", "P2022-12-17"),
+    ("RC-405", "sucede", "RC-592", "P2022-12-17"),
     ("RC-593", "associado-a", "RC-585", "P2022-12-17"),
     ("RC-593", "envolve", "RC-586", "P2022-12-17"),
     ("RC-593", "envolve", "RC-104", "P2022-12-17"),
@@ -2288,10 +2288,10 @@ RELACOES = [
     ('RC-508', 'relaciona-se-a', 'RC-705', 'P2025-02-15'),
 
     # ---- Relações P2024-11-30 — devolutiva oficial
-    ('RC-714', 'criados-por', 'RC-454', 'P2024-11-30'),
+    ('RC-714', 'criado-por', 'RC-454', 'P2024-11-30'),
     ('RC-714', 'contêm', 'RC-715', 'P2024-11-30'),
     ('RC-714', 'relaciona-se-a', 'RC-716', 'P2024-11-30'),
-    ('RC-714', 'transportados-por', 'RC-611', 'P2024-11-30'),
+    ('RC-714', 'transportado-por', 'RC-611', 'P2024-11-30'),
     ('RC-714', 'organizados-por', 'RC-658', 'P2024-11-30'),
     ('RC-714', 'relaciona-se-a', 'RC-521', 'P2024-11-30'),
     ('RC-714', 'cumpre-se-em', 'RC-718', 'P2024-11-30'),
@@ -2299,7 +2299,7 @@ RELACOES = [
     ('RC-715', 'compõe', 'RC-162', 'P2024-11-30'),
     ('RC-715', 'organiza-se-em', 'RC-217', 'P2024-11-30'),
     ('RC-715', 'relaciona-se-a', 'RC-693', 'P2024-11-30'),
-    ('RC-715', 'armazenada-em', 'RC-714', 'P2024-11-30'),
+    ('RC-715', 'armazenado-em', 'RC-714', 'P2024-11-30'),
     ('RC-715', 'medida-por', 'RC-716', 'P2024-11-30'),
     ('RC-715', 'pode-colapsar-em', 'RC-717', 'P2024-11-30'),
     ('RC-715', 'relaciona-se-a', 'RC-176', 'P2024-11-30'),
@@ -2334,7 +2334,7 @@ RELACOES = [
     ('RC-719', 'relaciona-se-a', 'RC-529', 'P2024-11-30'),
     ('RC-719', 'aplica-se-a', 'RC-654', 'P2024-11-30'),
     ('RC-720', 'submetidos-a', 'RC-658', 'P2024-11-30'),
-    ('RC-720', 'explicados-por', 'RC-655', 'P2024-11-30'),
+    ('RC-720', 'explicado-por', 'RC-655', 'P2024-11-30'),
     ('RC-720', 'relaciona-se-a', 'RC-508', 'P2024-11-30'),
     ('RC-720', 'relaciona-se-a', 'RC-328', 'P2024-11-30'),
     ('RC-720', 'envolve', 'RC-716', 'P2024-11-30'),
@@ -2349,10 +2349,10 @@ RELACOES = [
     ('RC-585', 'vinculado-ao-espírito', 'RC-454', 'P2024-11-30'),
     ('RC-659', 'vinculado-ao-espírito', 'RC-454', 'P2024-11-30'),
     ('RC-665', 'variação', 'RC-454', 'P2024-11-30'),
-    ('RC-658', 'criada-por', 'RC-454', 'P2024-11-30'),
+    ('RC-658', 'criado-por', 'RC-454', 'P2024-11-30'),
     ('RC-658', 'organiza', 'RC-715', 'P2024-11-30'),
     ('RC-658', 'processa', 'RC-716', 'P2024-11-30'),
-    ('RC-467', 'criadas-por', 'RC-454', 'P2024-11-30'),
+    ('RC-467', 'criado-por', 'RC-454', 'P2024-11-30'),
     ('RC-467', 'operam-em', 'RC-658', 'P2024-11-30'),
     ('RC-611', 'transporta', 'RC-714', 'P2024-11-30'),
     ('RC-611', 'originada-em', 'RC-454', 'P2024-11-30'),
@@ -2392,7 +2392,7 @@ RELACOES = [
     ('RC-723', 'relaciona-se-a', 'RC-720', 'P2024-11-09'),
     ('RC-723', 'relaciona-se-a', 'RC-605', 'P2024-11-09'),
     ('RC-724', 'registradas-em', 'RC-548', 'P2024-11-09'),
-    ('RC-724', 'armazenadas-em', 'RC-711', 'P2024-11-09'),
+    ('RC-724', 'armazenado-em', 'RC-711', 'P2024-11-09'),
     ('RC-724', 'relaciona-se-a', 'RC-381', 'P2024-11-09'),
     ('RC-724', 'relaciona-se-a', 'RC-194', 'P2024-11-09'),
     ('RC-725', 'é-ilha-de', 'RC-160', 'P2024-11-09'),
@@ -2598,7 +2598,7 @@ RELACOES = [
     ("RC-646", "suporta", "RC-699", "P2024-07-13"),  # R-RCT18
     ("RC-709", "usa", "RC-645", "P2024-07-13"),  # R-RCT19
     ("RC-709", "usa", "RC-646", "P2024-07-13"),  # R-RCT20
-    ("RC-724", "armazenadas-em", "RC-711", "P2024-07-13"),  # R-RCT21
+    ("RC-724", "armazenado-em", "RC-711", "P2024-07-13"),    # R-RCT21
     # R-RCT06 rejeitada: RC-742 resulta-de RC-176 não foi materializada
     ("RC-746", "relaciona-se-a", "RC-529", "P2024-03-03"),  # R-DS01 dessensibilização ~ ressonância límbica
     ("RC-746", "relaciona-se-a", "RC-049", "P2024-03-03"),  # R-DS02 usufruto / insensibilidade demo
@@ -3099,7 +3099,7 @@ RELACOES = [
     ('RC-772', 'trabalha-em', 'RC-775', 'ART-2025-08-03'),          # Morlens no Éon das Três Esferas
     ('RC-772', 'relaciona-se-a', 'RC-773', 'ART-2025-08-03'),      # ~ Nanotecnologia Prânica
     ('RC-773', 'usada-em', 'RC-774', 'ART-2025-08-03'),            # PEP usa a nanotecnologia
-    ('RC-774', 'transfere', 'RC-154', 'ART-2025-08-03'),           # PEP transfere o nidana
+    ('RC-774', 'transfere-para', 'RC-154', 'ART-2025-08-03'),             # PEP transfere o nidana
     ('RC-775', 'inclui', 'RC-771', 'ART-2025-08-03'),              # Éon inclui os fornos (esferas)
     ('RC-775', 'relaciona-se-a', 'RC-454', 'ART-2025-08-03'),      # sequências de Moros
     ('RC-775', 'relaciona-se-a', 'RC-467', 'ART-2025-08-03'),      # Nornes operacionalizam

@@ -59,3 +59,16 @@
 
 ---
 *Agente 25 · lavrado 12/09/2026 · nada executado — aguarda despacho do Curador cluster a cluster (ou "vale tudo como proposto").*
+
+---
+
+## Certidão de execução — GRUPO A (12/09/2026, Agente 25 · despacho do Curador: "só o Grupo A")
+
+**Executado** (1 registro-mestre + 7 espelhos; `relacoes/` fora dos rótulos: 0 arestas apagadas):
+- 11 rebatizadas: `armazenada-em/armazenadas-em→armazenado-em` (3) · `criada-por/criadas-por/criados-por→criado-por` (3) · `explicados-por→explicado-por` · `transportados-por→transportado-por` · `aplica-a→aplica-se-a` · `transfere→transfere-para` · `propõe-a→propõe`.
+- 1 inversão (A8): `("RC-592","sucede-por","RC-405")` → `("RC-405","sucede","RC-592","P2022-12-17")` — preserva a direção do fato ("Alvorecer sucede a Era de Peixes"); ficha RC-405 **não existe** no filesystem, a linha espelho em RC-592 ficou como `é-sucedida-por` (convenção ler-do-sujeito, precedente `é-origem-de` na RC-827; tabelas só-na-tabela serão adjudicadas na Onda 2.5).
+- Espelhos em fichas: RC-714 (2 linhas) · RC-715 · RC-720 · RC-335 · RC-774 · RC-592; verbete V3.16.04 («transportados-por»→«transportado-por»). Prosa de V4.21.01 ("aplica-a aos arquivos") e V3.16.02 ("sucede por") intocadas — natural, não-rótulo.
+- **Contagens:** tipos **279→269** · RELACOES **1889 (inalterado)** · validador OK · `canonico.json` exportado com round-trip limpo · `validar_json` OK · verificador verbetes **649/8.540/8.250/0** · suite **17 OK** · espelhos xlsx/docx-leitura/docx-ÍNDICE/README regenerados.
+- Notas de registro: (a) A5 executada como tabelado (fusão em `aplica-se-a`); a leitura passiva "aplicada PELO Criador" fica preservada no comentário da aresta — se algum dia o Curador quiser `aplicada-por`, é despacho de 1 linha. (b) Mecânica: script único `/tmp/aplicar_fusao_14A_v2.py` (EFÊMERO), dry-run→assert→apply; backup prévio em `/tmp/bkp_14A/` (EFÊMERO).
+
+**ADIADO para 2º despacho (expressão do aceite "só o Grupo A"):** dedups-espelho **B4** (`origem-de` RC-589→583, −1 aresta) e **C1** (`risco-para` RC-717→414, −1 aresta); **C4** declaração rótulo-livre no loader/registro; os 9 "manter" ficam como estão (já conformes ao caminho a).

@@ -35,7 +35,7 @@ Era zodiacal ligada, na palestra, à vida de Jesus e a uma orientação de liber
 |---|---|---|
 | Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | é-um |
 | Jesus | RC-072 | envolve |
-| Alvorecer de Aquário | RC-405 | sucede-por |
+| Alvorecer de Aquário | RC-405 | é-sucedida-por |
 | Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
 
 ## Seres Associados

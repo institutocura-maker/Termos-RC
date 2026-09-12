@@ -34,8 +34,8 @@ Moros teria criado os arquivos após diagnosticar o PIA e perceber que seu conhe
 ## Termos Relacionados
 | Termo | Código | Relação |
 |---|---|---|
-| Moros/Elm | RC-454 | criados-por |
-| Flechas de Moros | RC-611 | transportados-por |
+| Moros/Elm | RC-454 | criado-por |
+| Flechas de Moros | RC-611 | transportado-por |
 | Informações Vivas | RC-715 | contêm |
 | PIA | RC-716 | relaciona-se-a |
 | Wyrd/Urd | RC-658 | organizados-por |

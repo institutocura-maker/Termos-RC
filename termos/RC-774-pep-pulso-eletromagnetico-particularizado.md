@@ -32,7 +32,7 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Nanotecnologia Prânica | RC-773 | usa |
-| Nidana | RC-154 | transfere |
+| Nidana | RC-154 | transfere-para |
 | Projeto Talm | RC-091 | relaciona-se-a |
 | Mohen So | RC-081 | relaciona-se-a |
 

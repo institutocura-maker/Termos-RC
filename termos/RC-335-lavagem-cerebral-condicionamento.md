@@ -38,7 +38,7 @@ A lavagem cerebral é o mecanismo pelo qual a Teocracia da Doença (RC-334) se m
 |---|---|---|
 | Modelo Colmeia | RC-176 | relaciona-se-a |
 | Teocracia da Doença | RC-334 | instrumento |
-| Criador | RC-041 | aplica-a |
+| Criador | RC-041 | aplica-se-a |
 | Seres Terrenos | RC-099 | vitima |
 | Liberdade Mental | RC-253 | antídoto |
 | Genética Totalitária | RC-325 | relaciona-se-a |

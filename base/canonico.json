@@ -21619,7 +21619,7 @@
   },
   {
    "a": "RC-335",
-   "tipo": "aplica-a",
+   "tipo": "aplica-se-a",
    "b": "RC-041",
    "fonte": "B048"
   },
@@ -21961,7 +21961,7 @@
   },
   {
    "a": "RC-384",
-   "tipo": "propõe-a",
+   "tipo": "propõe",
    "b": "RC-378",
    "fonte": "B041"
   },
@@ -23718,9 +23718,9 @@
    "fonte": "P2022-12-17"
   },
   {
-   "a": "RC-592",
-   "tipo": "sucede-por",
-   "b": "RC-405",
+   "a": "RC-405",
+   "tipo": "sucede",
+   "b": "RC-592",
    "fonte": "P2022-12-17"
   },
   {
@@ -26845,7 +26845,7 @@
   },
   {
    "a": "RC-714",
-   "tipo": "criados-por",
+   "tipo": "criado-por",
    "b": "RC-454",
    "fonte": "P2024-11-30"
   },
@@ -26863,7 +26863,7 @@
   },
   {
    "a": "RC-714",
-   "tipo": "transportados-por",
+   "tipo": "transportado-por",
    "b": "RC-611",
    "fonte": "P2024-11-30"
   },
@@ -26911,7 +26911,7 @@
   },
   {
    "a": "RC-715",
-   "tipo": "armazenada-em",
+   "tipo": "armazenado-em",
    "b": "RC-714",
    "fonte": "P2024-11-30"
   },
@@ -27121,7 +27121,7 @@
   },
   {
    "a": "RC-720",
-   "tipo": "explicados-por",
+   "tipo": "explicado-por",
    "b": "RC-655",
    "fonte": "P2024-11-30"
   },
@@ -27211,7 +27211,7 @@
   },
   {
    "a": "RC-658",
-   "tipo": "criada-por",
+   "tipo": "criado-por",
    "b": "RC-454",
    "fonte": "P2024-11-30"
   },
@@ -27229,7 +27229,7 @@
   },
   {
    "a": "RC-467",
-   "tipo": "criadas-por",
+   "tipo": "criado-por",
    "b": "RC-454",
    "fonte": "P2024-11-30"
   },
@@ -27457,7 +27457,7 @@
   },
   {
    "a": "RC-724",
-   "tipo": "armazenadas-em",
+   "tipo": "armazenado-em",
    "b": "RC-711",
    "fonte": "P2024-11-09"
   },
@@ -28603,7 +28603,7 @@
   },
   {
    "a": "RC-724",
-   "tipo": "armazenadas-em",
+   "tipo": "armazenado-em",
    "b": "RC-711",
    "fonte": "P2024-07-13"
   },
@@ -31549,7 +31549,7 @@
   },
   {
    "a": "RC-774",
-   "tipo": "transfere",
+   "tipo": "transfere-para",
    "b": "RC-154",
    "fonte": "ART-2025-08-03"
   },
