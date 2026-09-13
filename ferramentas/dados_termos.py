@@ -98,9 +98,9 @@ TERMOS = [
     ("RC-010", "Atlântida / Terra Atlantis", LOK_TER[0], LOK_TER[1], "em análise", ['P2025-02-16', "P2018-12-15"], 'RC-030; RC-088; RC-023; RC-029', True),
 
     # ---- Glossário B031 (ordem alfabética)
-    ("RC-011", "Adhy", SER_LOG[0], SER_LOG[1], "em análise", ['B031', 'B022', 'B051', 'P2021-12-04', 'P2024-11-30'], 'RC-012; RC-013; RC-014; RC-047; RC-054; RC-087', True),
-    ("RC-012", "Adhyagia", SER_LOG[0], SER_LOG[1], "em análise", ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-013; RC-014; RC-016; RC-047; RC-059; RC-087; RC-260', True),
-    ("RC-013", "Adhyatman", SER_LOG[0], SER_LOG[1], "em análise", ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-012; RC-014; RC-087; RC-149; RC-152; RC-311', True),
+    ("RC-011", "Adhy", SER_LOG[0], SER_LOG[1], "verificado", ['B031', 'B022', 'B051', 'P2021-12-04', 'P2024-11-30'], 'RC-012; RC-013; RC-014; RC-047; RC-054; RC-087', True),
+    ("RC-012", "Adhyagia", SER_LOG[0], SER_LOG[1], "verificado", ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-013; RC-014; RC-016; RC-047; RC-059; RC-087; RC-260', True),
+    ("RC-013", "Adhyatman", SER_LOG[0], SER_LOG[1], "verificado", ['B031', 'B024', 'B022', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-011; RC-012; RC-014; RC-087; RC-149; RC-152; RC-311', True),
     ("RC-014", "Adhydaiva", TER_SAN[0], TER_SAN[1], "verificado", ['B031', 'B044', 'B016', 'B022', 'B051', 'P2021-12-04', 'P2024-05-04', 'P2025-02-16', 'P2024-11-30'], 'RC-012; RC-013; RC-015; RC-016; RC-037; RC-102; RC-135; RC-310; RC-311; RC-630', True),
     ("RC-015", "Adhybutha", TER_SAN[0], TER_SAN[1], "verificado", ['B031', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30'], 'RC-014; RC-016; RC-049', True),
     ("RC-016", "Adhyajna", TER_SAN[0], TER_SAN[1], "verificado", ['B031', 'B016', 'B051', 'P2021-12-04', 'P2025-02-16', 'P2024-11-30', 'P2023-04-15', 'P2020-05-09'], 'RC-012; RC-015; RC-072; RC-102; RC-135', True),
@@ -391,7 +391,7 @@ TERMOS = [
     ("RC-278", "Olhar Adulto", COS_PRO[0], COS_PRO[1], P, ["B014"], "RC-099; RC-253; RC-231; RC-094; RC-566", False),
     ("RC-279", "Modo Trimurtiano de Sophia", COS_LEI[0], COS_LEI[1], P, ["B014"], "RC-009; RC-104; RC-075; RC-094", False),
     ("RC-280", "Sophia e a Ressurreição de Jesus", EVE_MIS[0], EVE_MIS[1], "em análise", ['B014', 'P2025-02-15', 'P2024-11-30', 'P2023-06-03', 'P2023-04-15', 'P2023-04-01', 'P2023-04-29', 'P2023-12-03', "P2025-05-10", "P2023-12-25-03"], 'RC-009; RC-072; RC-274; RC-094; RC-692; RC-770', True),
-    ("RC-281", "Agentes do Quarto Logos", SER_LOG[0], SER_LOG[1], "em análise", ["B014"], "RC-092; RC-252; RC-256; RC-071", True),
+    ("RC-281", "Agentes do Quarto Logos", SER_LOG[0], SER_LOG[1], "verificado", ["B014"], "RC-092; RC-252; RC-256; RC-071", True),
     ("RC-282", "Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências)", TER_GRE[0], TER_GRE[1], "verificado", ['B014', 'B060', 'P2026-04-02', 'P2025-10-25', 'P2024-11-30', 'P2024-11-02', 'P2024-08-03', 'P2024-04-14', 'P2024-03-02', 'P2023-12-02', 'P2021-03-27', 'P2023-09-09', "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-06-26"], 'RC-009; RC-081; RC-091; RC-094; RC-104; RC-135; RC-454; RC-481; RC-769', True),
 
     # ---- Novos termos de B020 (obra primária: O Sorriso de Pandora)
@@ -588,7 +588,7 @@ TERMOS = [
     ("RC-442", "Família Yel", GEN_EXT[0], GEN_EXT[1], "verificado", ["B057", "B058", 'P2020-08-08', 'P2021-03-13', 'P2021-09-04', 'P2020-04-25', 'P2022-03-26', 'P2023-12-03'], "RC-142; RC-036; RC-039; RC-446; RC-450; RC-443", True),
     ("RC-443", "Família Mion", GEN_EXT[0], GEN_EXT[1], "verificado", ["B057", "B058", 'P2020-08-08', "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-074; RC-036; RC-039; RC-446; RC-450", True),
     ("RC-444", "Família Cromon", GEN_EXT[0], GEN_EXT[1], C, ["B059", "B057", 'P2020-08-08', "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-036; RC-450", False),
-    ("RC-445", "Biocoletivos", SER_LOG[0], SER_LOG[1], P, ["B057", "B058"], "RC-036; RC-442; RC-443; RC-450", True),
+    ("RC-445", "Biocoletivos", SER_LOG[0], SER_LOG[1], "verificado", ["B057", "B058"], "RC-036; RC-442; RC-443; RC-450", True),
     ("RC-446", "Processadores Familiares", TEC_DIS[0], TEC_DIS[1], "verificado", ["B057", "B058", "P2020-04-25", "P2022-03-26", "P2023-12-03"], "RC-009; RC-036; RC-089; RC-442; RC-443", True),
     ("RC-447", "Primeiro Pesquisador (cargo capelino)", COS_LEI[0], COS_LEI[1], P, ["B057", "B058"], "RC-142; RC-442", True),
     ("RC-448", "Deslacre (rompimento dos lacres psíquicos)", PRO_ESP[0], PRO_ESP[1], P, ['B057', 'B058', 'P2022-12-17'], "RC-142; RC-036; RC-445; RC-577", True),
@@ -623,7 +623,7 @@ TERMOS = [
     ("RC-477", "Ensá (espírito primordial companheiro de En Ma)", SER_DIV[0], SER_DIV[1], "verificado", [], "RC-474; RC-476; RC-494", True),
     ("RC-478", "Chequinhá (veículo/nave de Javé)", TEC_NAV[0], TEC_NAV[1], C, [], "RC-001", False),
     ("RC-479", "Belial (arconte; 'Satã' do livro de Jó)", SER_DEC[0], SER_DEC[1], "verificado", ['P2022-12-17', 'P2026-08-04', 'P2023-06-03', 'P2023-12-03', "P2022-11-20"], "RC-474; RC-074; RC-286; RC-072", True),
-    ("RC-480", "Indra (título de arconte)", SER_LOG[0], SER_LOG[1], "em análise", ['P2022-12-17', 'P2025-10-25', 'P2025-02-16', 'P2024-09-29'], 'RC-145; RC-293; RC-474; RC-696; RC-700; RC-701', True),
+    ("RC-480", "Indra (título de arconte)", SER_LOG[0], SER_LOG[1], "verificado", ['P2022-12-17', 'P2025-10-25', 'P2025-02-16', 'P2024-09-29'], 'RC-145; RC-293; RC-474; RC-696; RC-700; RC-701', True),
     ("RC-481", "Maitreya (Dionísio; forma adiágena de Vishnu)", SER_DIV[0], SER_DIV[1], "verificado", ['P2021-03-27', 'B060', "P2021-06-26", "P2025-12-14"], "RC-092; RC-282; RC-306; RC-408", True),
     ("RC-482", "Ialdabaoth (= Javé/Samael/Saklas/Sabaoth)", SER_DIV[0], SER_DIV[1], "verificado", ["P2022-09-17"], "RC-001; RC-152; RC-474; RC-530", True),
     ("RC-483", "Barbelo (Mãe-Pai primordial gnóstica)", SER_DIV[0], SER_DIV[1], "verificado", ['P2026-04-02', 'P2024-09-28'], "RC-047; RC-474; RC-647", True),
@@ -676,7 +676,7 @@ TERMOS = [
     ("RC-530", "Pistis Sophia (feminino cósmico gnóstico)", SER_DIV[0], SER_DIV[1], "verificado", ['B072', 'P2024-11-09', 'P2023-04-15', 'P2023-12-03', "P2022-09-17", "P2022-11-19"], 'RC-009; RC-152; RC-482; RC-483; RC-494; RC-565; RC-770; RC-887; RC-888', True),
     ("RC-531", "Laboratório Genético Terra (linhagens monitoradas)", LOK_TER[0], LOK_TER[1], C, ['B073', 'P2024-09-29'], 'RC-099; RC-323; RC-024; RC-736; RC-737', False),
     ("RC-532", "Vacina do Amor (ancoragem de Jesus no CFD)", COS_PRO[0], COS_PRO[1], C, ["B073"], "RC-072; RC-040; RC-243", False),
-    ("RC-533", "Supercomputador Cósmico (Moros — destino)", SER_LOG[0], SER_LOG[1], "em análise", ['B073', 'P2025-02-15', 'P2024-11-30', 'P2024-04-13', "P2024-06-16"], 'RC-454; RC-467; RC-707; RC-714; RC-715; RC-716', True),
+    ("RC-533", "Supercomputador Cósmico (Moros — destino)", SER_LOG[0], SER_LOG[1], "verificado", ['B073', 'P2025-02-15', 'P2024-11-30', 'P2024-04-13', "P2024-06-16"], 'RC-454; RC-467; RC-707; RC-714; RC-715; RC-716', True),
     ("RC-534", "Usinas geodésicas de Gizé (engenharia de Thoth)", TEC_NAV[0], TEC_NAV[1], "em análise", ["B073", 'P2023-12-02'], "RC-463; RC-024", True),
     ("RC-535", "Projeto Orbum (cidadania planetária)", COS_ESP[0], COS_ESP[1], "verificado", ['B042', 'P2025-10-25', 'P2024-02-03', 'P2024-11-03', 'P2025-02-22'], "RC-085; RC-094; RC-226; RC-344; RC-656", True),
     ("RC-536", "Era do Conhecimento e da Espiritualização", EVE_ERA[0], EVE_ERA[1], "verificado", ['B042', 'P2022-12-17'], "RC-094; RC-003; RC-344; RC-591", True),
@@ -1120,7 +1120,7 @@ TERMOS = [
     ("RC-934", "Kris Amon (Krysamon NEAD)", SER_HUM[0], SER_HUM[1], P, [], 'RC-047; RC-160; RC-102', True),  # F043 06-09-2026 — parceiro-autor do GKA EXT-2024-01-04 (OBRA DE APOIO, não co-autoria; cadastro de proveniência lavrado por despacho; ficha RC-934)
     ("RC-935", "Cognição", PRO_BIO[0], PRO_BIO[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
     ("RC-936", "Choque de realidade", PRO_ESP[0], PRO_ESP[1], P, [], 'RC-898', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária · [F045-MERGE 07-09-2026] DUPLICATA ABSORVIDA por RC-898 — permanece na sequencia (contiguidade) como REMISSIVA; a ficha aponta para RC-898.
-    ("RC-937", "Mônada", SER_LOG[0], SER_LOG[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
+    ("RC-937", "Mônada", SER_LOG[0], SER_LOG[1], "verificado", [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
     ("RC-938", "Livre-arbítrio", COS_LEI[0], COS_LEI[1], P, [], "RC-735", True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
     ("RC-939", "Samkhya", COS_ESP[0], COS_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária
     ("RC-940", "Samsara", COS_ESP[0], COS_ESP[1], P, [], '', True),  # F043-T3 06-09-2026 — Anel C >=5 menções; GKA fonte secundária

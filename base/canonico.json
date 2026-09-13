@@ -496,7 +496,7 @@
    "nome": "Adhy",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B022",
@@ -513,15 +513,15 @@
     "RC-087"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-012",
    "nome": "Adhyagia",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B024",
@@ -542,15 +542,15 @@
     "RC-260"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-013",
    "nome": "Adhyatman",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B024",
@@ -570,8 +570,8 @@
     "RC-311"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-014",
@@ -7343,7 +7343,7 @@
    "nome": "Agentes do Quarto Logos",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B014"
    ],
@@ -7354,8 +7354,8 @@
     "RC-071"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-282",
@@ -11141,7 +11141,7 @@
    "nome": "Biocoletivos",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B057",
     "B058"
@@ -11154,7 +11154,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-446",
@@ -11986,7 +11986,7 @@
    "nome": "Indra (título de arconte)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2022-12-17",
     "P2025-10-25",
@@ -12002,8 +12002,8 @@
     "RC-701"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-481",
@@ -13204,7 +13204,7 @@
    "nome": "Supercomputador Cósmico (Moros — destino)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B073",
     "P2025-02-15",
@@ -13221,8 +13221,8 @@
     "RC-716"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-534",
@@ -22585,7 +22585,7 @@
    "nome": "Mônada",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [],
    "relacionados": [],
    "ficha": true,

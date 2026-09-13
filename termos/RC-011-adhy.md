@@ -4,11 +4,11 @@ codigo = "RC-011"
 nome = "Adhy"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
-status = "em análise"
+status = "verificado"
 fontes = ["B031", "B022", "B051", "P2021-12-04", "P2024-11-30"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-09-10"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Adhy — RC-011
 

@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-13",
+ "numero": 27,
+ "tipo": "EXECUÇÃO — P7-1.8-logos RETORNO de chancela (8 aplicados, 9 chancelados-suspensos)",
+ "contexto": "Devolução do Curador via GitHub com V nos 17 (OBS com aviso SEM FICHA preservadas em 9 linhas). Leva P7n: 8 termos → verificado (cadastro + frontmatter fm_toml; corpo intacto; RELACOES intocado). Os 9 sem ficha entraram no HOLD com a pauta do adiamento da exploração referenciada.",
+ "regra": "EXPURGAR-SÓ-CANONIZADO: sha256 conferido antes de remover da caixa.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/P7-1.8-logos_retorno.csv",
+   "bytes": 2413,
+   "sha256": "833d1a5220004f44a3f835afb829d31f49aa57e46083e920ac6b0e15fc6804ed",
+   "destino": "chancela/P7-1.8-logos_retorno.csv"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/P7-1.8-logos_retorno.csv"
+ ],
+ "aptos_para_ordem_de_remocao": [],
+ "observacao": "Tema 1.8 chancelado: 8 aplicáveis + 9 suspensos p/ a exploração do gap (HOLD total: 33 linhas-parse, 18 chancelados-suspensos das levas P7m/P7n). Fila restante: 7.5 Missões (16)."
+}

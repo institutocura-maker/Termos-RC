@@ -4,11 +4,11 @@ codigo = "RC-533"
 nome = "Supercomputador Cósmico (Moros — destino)"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
-status = "em análise"
+status = "verificado"
 fontes = ["B073", "P2025-02-15", "P2024-11-30", "P2024-04-13", "P2024-06-16"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Supercomputador Cósmico (Moros — destino) — RC-533
 

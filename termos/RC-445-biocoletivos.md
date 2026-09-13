@@ -4,11 +4,11 @@ codigo = "RC-445"
 nome = "Biocoletivos"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
-status = "provisório"
+status = "verificado"
 fontes = ["B057", "B058"]
 via = "P6-evidência"
-confianca_fonte = "média"
-atualizado = "2026-08-25"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Biocoletivos — RC-445
 

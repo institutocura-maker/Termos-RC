@@ -4,11 +4,11 @@ codigo = "RC-937"
 nome = "Mônada"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
-status = "provisório"
+status = "verificado"
 fontes = []
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-06"
+atualizado = "2026-09-13"
 +++
 # MÔNADA — RC-937
 

@@ -1,0 +1,30 @@
+{
+ "unidade": "U36",
+ "data": "2026-09-13",
+ "tipo": "leva P7n aplicada (parcial por trava, regime P7m)",
+ "aplicados": [
+  "RC-011",
+  "RC-012",
+  "RC-013",
+  "RC-281",
+  "RC-445",
+  "RC-480",
+  "RC-533",
+  "RC-937"
+ ],
+ "suspensos_aguardando_exploracao": [
+  "RC-076",
+  "RC-100",
+  "RC-214",
+  "RC-215",
+  "RC-222",
+  "RC-246",
+  "RC-309",
+  "RC-368",
+  "RC-390"
+ ],
+ "entrada": "REGISTRO-LIMPEZA nº 27 (sha 833d1a522000…)",
+ "status_base": "60⚪/236🟡/111🟠/539🟢",
+ "fila": "restam 7.5 Missões (16) p/ a próxima proposta",
+ "nota_rito": "primeira lavragem parou num assert meu de contagem errada (33 vs 24 esperados) — nada aplicado duas vezes; complementada"
+}
