@@ -1,0 +1,10 @@
+{
+ "unidade": "U35",
+ "data": "2026-09-13",
+ "arquivo": "chancela/P7-1.8-logos.csv",
+ "termos": 17,
+ "candidatos": 17,
+ "sem_ficha": 0,
+ "contexto": "tema 1.8 Consciências coletivas / Logos; OBS sem ponto-e-vírgula (lição U33 reaplicada na correção); gap adiado por despacho",
+ "nota_rito": "commit principal saiu com csv de 10 colunas e mensagem com placeholder — crash do assert antes do ledger/espelho; sanado neste adendo, sem --amend"
+}
