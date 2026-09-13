@@ -48,6 +48,24 @@ A live identifica este nível como origem do ímpeto criativo, após a tomada de
 - **[Corpo manásico despedaçado — queda de Prabrajna]:** «Quando esse rapaz criou algo que não devia, duas coisas desse eu aqui caíram na criação. Esse corpo manásico projetado se espatifou aqui dentro e a sensação desse eu também caiu aqui dentro. O corpo búdico tá em coma.» — ver RC-152 (Prabrajna), RC-623 (Corpo Átmico), RC-624 (Corpo Búdico).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | ← relaciona-se-a |
+| Espiritualidade Laboratorial | RC-061 | ← associada-a |
+| Realidade Maior / Paraíso Original | RC-204 | associado |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
+| Corpo Átmico | RC-623 | relaciona-se-a |
+| Corpo Búdico | RC-624 | ← investido-por |
+| Corpo Búdico | RC-624 | investe |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -21,17 +21,19 @@
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-001 | relaciona-se-a / ver grafo |
-| RC-145 | relaciona-se-a / ver grafo |
-| RC-269 | relaciona-se-a / ver grafo |
-| RC-531 | relaciona-se-a / ver grafo |
-| RC-736 | relaciona-se-a / ver grafo |
-| RC-738 | relaciona-se-a / ver grafo |
-| RC-739 | relaciona-se-a / ver grafo |
-| RC-740 | relaciona-se-a / ver grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a / ver grafo |
+| Zeus | RC-145 | relaciona-se-a / ver grafo |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | manifesta-se-em |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← inclui |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | envolve |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | relaciona-se-a |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | envolve |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
+| Kami (Projeto Japonês) | RC-740 | envolve |
+| Kami (Projeto Japonês) | RC-740 | relaciona-se-a |
 
 ## Glossário interno / absorções
 

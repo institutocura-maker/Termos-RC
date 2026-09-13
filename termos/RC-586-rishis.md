@@ -33,10 +33,21 @@ São situados na quarta era equinocial, em conexão com Vyasa, Kshatriyas e Brah
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Vyasa | RC-585 | relaciona-se-a |
-| Mahabharata | RC-593 | relaciona-se-a |
 | Castas Trimurtianas | RC-321 | relaciona-se-a |
 | Dharma e Castas (origem demo) | RC-322 | relaciona-se-a |
+| Vyasa | RC-585 | relaciona-se-a |
+| Mahabharata | RC-593 | relaciona-se-a |
+| Mahabharata | RC-593 | ← envolve |
+| Pashupati (avatar de Shiva) | RC-669 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Geração Regenerada de Brahma | RC-696 | parte-de |
+| Geração Regenerada de Brahma | RC-696 | integra |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Kashyapa | RC-700 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← descende-de-membro-de |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
+| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
 
 ## Seres Associados
 Vyasa (RC-585)

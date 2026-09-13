@@ -51,11 +51,17 @@ Novo modo de expressão da consciência humana associado ao Quarto Cérebro, ao 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Quarto Cérebro Humano | RC-614 | resulta-de |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
-| Sophia (Cristo Cósmico) | RC-009 | envolve |
 | Reintegração Cósmica | RC-003 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
+| Quarto Cérebro Humano | RC-614 | ← produz |
+| Quarto Cérebro Humano | RC-614 | resulta-de |
 | Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← requer |
+| Oitavo Dia da Criação | RC-694 | necessário-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

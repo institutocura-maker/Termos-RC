@@ -37,13 +37,14 @@ O evento marca o ponto de virada da Era Sapiens: após a crucificação, ocorre 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Jesus | RC-072 | envolve |
-| Yel Luzbel | RC-142 | afeta (retirada) |
-| Lúcifer | RC-078 | afeta |
-| Len Mion | RC-074 | assume o comando |
-| Hitler | RC-239 | desdobramento |
 | Atlan | RC-028 | refúgio |
+| Jesus | RC-072 | envolve |
+| Len Mion (Satã) | RC-074 | assume o comando |
+| Lúcifer (Yel Luzbel) | RC-078 | afeta |
+| Yel Luzbel | RC-142 | afeta (retirada) |
 | Era Sapiens | RC-238 | contexto |
+| Hitler (figura histórica no RC) | RC-239 | desdobramento |
+| O Fator Judas | RC-365 | ← relaciona-se-a |
 
 ## Seres Associados
 Jesus (RC-072); Yel Luzbel/Lúcifer (RC-142/RC-078); Len Mion/Satã (RC-074); Sophia (RC-009).

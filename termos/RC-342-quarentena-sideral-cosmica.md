@@ -49,12 +49,20 @@ A quarentena foi decretada "a fim de que a loucura do orgulho de Lúcifer não p
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Isolamento Cósmico | RC-070 | variação |
-| Reintegração Cósmica | RC-003 | encerra-com |
 | Rebelião de Lúcifer | RC-002 | impõe-se-a |
-| Portal Cósmico | RC-343 | contexto |
-| Ilha Cósmica | RC-353 | é-um |
+| Reintegração Cósmica | RC-003 | encerra-com |
+| Reintegração Cósmica | RC-003 | encerra-com |
+| Isolamento Cósmico | RC-070 | variação |
+| Projeto Planeta Azul | RC-090 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Portal Cósmico (destinação do Planeta Azul) | RC-343 | contexto |
+| Transição Planetária | RC-344 | associado |
+| Sentimento Luciferiano | RC-345 | associado |
+| Projeto Terra | RC-347 | associado |
+| Roteiro do Exílio | RC-348 | ← relaciona-se-a |
 | Exílios Interplanetários | RC-349 | relaciona-se-a |
+| Ilha Cósmica (mundos rebelados) | RC-353 | ← é-um |
+| Blindagem cósmica (= quarentena terrestre) | RC-510 | ← variação |
 
 ## Seres Associados
 Lúcifer (RC-078); Jesus (RC-072); Exilados de Capela (RC-007).

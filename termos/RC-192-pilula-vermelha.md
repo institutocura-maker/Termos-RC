@@ -74,13 +74,19 @@ Metáfora da trilogia Matrix incorporada por Jan Val Ellam à linguagem da RC: o
 > "Quantos tipos de pílula vermelha existem ou são necessárias para que um ser humano que esteja inserido no ângulo dessa matrix perceba a matrix, perceba os seus alicerces, perceba o programa que está sendo rodado, perceba as falhas dessa Matrix que nos fez assim?" — P2023-05-13
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Camuflagem da Realidade | RC-702 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a (reinar sobre o processo) |
 | Especiação | RC-056 | relaciona-se-a |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Jesus | RC-072 | relaciona-se-a (reinar sobre o processo) |
+| Revelação Cósmica (conceito) | RC-094 | associado-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
 
 ## Blindagem epistemológica — USO ANALÓGICO
 

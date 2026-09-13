@@ -21,11 +21,12 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relacionado |
-| RC-096 | — | relacionado |
-| RC-424 | — | relacionado |
+| Javé | RC-001 | — |
+| Septuaginta | RC-096 | — |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | — |
+| Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

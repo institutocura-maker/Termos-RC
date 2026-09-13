@@ -49,12 +49,19 @@ Na RC, os **padrões organizadores da mente** — os protocolos mentais que uma 
 > "A coleção de protocolos mentais que uma consciência coleciona das experiências ocorridas em outras espécies... e o álbum memorial das vidas sucessivas desenvolvidas na natureza humana." — P2025-11-29
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
-| Vrittis e Cittas | RC-760 | relaciona-se-a |
-| Arquivos Mentais | RC-548 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | relaciona-se-a |
+| Arquivos da Memória Cósmica | RC-521 | associado |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | associado |
+| Camuflagem da Realidade | RC-702 | associado |
+| Universo de Egrégoras Emocionais | RC-711 | ← usa |
+| Lei da Mente do Buda | RC-712 | ← usa |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
 
 ## Blindagem
 

@@ -30,13 +30,15 @@ Na gnose, a **Mãe-Pai primordial** — no material RC, a Deidade imanente do Pl
 > "Esse barbelo não premia nem castiga ninguém, não se mete. Somente a antiga assinatura algorítmica da insubmissão, do inconformismo e ou do gnosticismo primordial parece ter se vívido de base para a construção de consciências humanas habilitadas à realização do Tikun." — P2024-09-28
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| A Raça Inabalável dos Sethianos | RC-766 | relaciona-se-a |
-| Deidade (Pai-Mãe Amantíssimo) | RC-047 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Gnosticismo | RC-268 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a |
+| Gnosticismo (contraponto à Cabala) | RC-268 | ← relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | ← relaciona-se-a |
+| Evangelho de Judas | RC-647 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
 
 ## Blindagem
 

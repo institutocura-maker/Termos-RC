@@ -37,13 +37,16 @@ Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (R
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Igreja Católica | RC-105 | trucidou-via |
-| Concílio de Niceia | RC-273 | contribuiu-para |
-| Lavagem Cerebral | RC-335 | é-quebrada-por |
+| Javé | RC-001 | paralelo-com (Fausto como alegoria) |
+| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
+| Ulsh | RC-105 | trucidou-via |
+| Val Antien | RC-114 | associado |
+| Razão Filosófica dos Terráqueos | RC-231 | paralelo-com |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | contribuiu-para |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-quebrada-por |
 | Sequência Formativa da Racionalidade Humana | RC-785 | desfecho-de |
-| Homo Sapiens / Seres Terrenos | RC-099 | aplica-se-a |
-| Razão Filosófica dos Terraqueos | RC-231 | paralelo-com |
-| Javé (Brama) | RC-001 | paralelo-com (Fausto como alegoria) |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
 
 ## Seres Associados
 - **Marciano Capela** (séc. V) — quem criou o sistema trívio/quadrívio

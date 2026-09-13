@@ -50,17 +50,26 @@ O Conselho das Nagas foi absorvido nesta ficha como principal componente citado 
 > “O mais atuante são as interferências discretas, pontuais, que as Nagas fizeram.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Descendência de Kadru | RC-664 | inclui/atua-por |
-| Tirthankaras | RC-397 | relaciona-se-a |
-| Quarto Logos | RC-092 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Pandora como Serpente do Éden | RC-283 | associado |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | atua-sobre |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
 | Áurea Catena | RC-663 | relaciona-se-a |
-| Protagonismo Consciencial | RC-509 | atua-sobre |
-| Yoga Ancestral | RC-670 | relaciona-se-a |
-| Xamanismo Cósmico | RC-577 | relaciona-se-a |
-| Geração Regenerada | RC-696 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | inclui |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← atua-por |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | associado |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← disputada-por |
 | Kashyapa | RC-700 | relaciona-se-a |
+| Kashyapa | RC-700 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 
 ## Observações
 - Não converter “mão invisível” em prova histórica ou científica.

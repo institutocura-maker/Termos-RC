@@ -18,6 +18,14 @@ Fonte única (B014). O Quarto Logos é o único dos quatro que não mergulhou no
 - Variações: agentes de Olm; esclarecedores
 - Logos: Quarto Logos / Olm (RC-092, RC-252)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um |
+| Olm (Codificador de Zion/Zian) | RC-252 | associado |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

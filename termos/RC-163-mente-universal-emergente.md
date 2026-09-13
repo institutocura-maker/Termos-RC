@@ -18,6 +18,21 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 - Variações: Mente Universal; Biocosmos; Mente-una
 - Par declarado pela fonte: RC-879 (variação)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criatura Universal | RC-042 | associado |
+| Memória Quântica dos Elétrons | RC-161 | associado |
+| Criaturas-ferramenta | RC-164 | associado |
+| Era da Criatura Universal | RC-172 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Primado da Informação | RC-707 | associado |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← alimenta |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | alimentada-por |
+| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

@@ -26,11 +26,10 @@ Espírito primordial companheiro de En Ma (Emá, RC-476). Na leitura da RC, os 7
 > "Todos os 70 membros do conselho dos Arcontes hoje são consciências fatiadas de Emá e de Ensá." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| En Ma (Emá) | RC-476 | relaciona-se-a |
-| Arcontes | RC-474 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← relaciona-se-a |
 | Dinastia das Sophias | RC-494 | relaciona-se-a |
 
 ## Observações

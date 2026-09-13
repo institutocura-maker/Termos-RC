@@ -35,14 +35,17 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra reconstrói a história 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-162 | protagoniza |
-| Lúcifer | RC-002 | é-vetor-de |
-| Sophia | RC-009 | é-biodemo-de |
-| Homo Sapiens | RC-099 | é-alvo-de |
-| Genoma | RC-330 | é-alvo-de |
+| Rebelião de Lúcifer | RC-002 | é-vetor-de |
+| Sophia (Cristo Cósmico) | RC-009 | é-biodemo-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-alvo-de |
+| Elétrons (agente básico da vida universal) | RC-162 | protagoniza |
+| Civilização Saraswati | RC-330 | é-alvo-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
 | Era do Colapso do Caos Organizado | RC-827 | contextualiza |
-| Pulsação dos Elétrons | RC-832 | é-mecanismo-de |
-| Memória dos Elétrons | RC-829 | é-contexto-de |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
+| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | é-mecanismo-de |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
 
 ## Seres Associados
 - **Elétrons (RC-162)** — quem se rebela

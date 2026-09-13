@@ -36,12 +36,13 @@ Na Introdução do B022, Ellam conversa com as formas Adhyagya de Vishnu e Shiva
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Adhyagia | RC-012 | distingue-se (condição × formas; 311 é-um 012) |
+| Adhyagia | RC-012 | é-um |
 | Adhyatman | RC-013 | relaciona-se-a |
 | Adhydaiva | RC-014 | responde-por |
-| Vishnu | RC-135 | responde-por |
-| Shiva | RC-102 | responde-por |
-| Adhytia | RC-308 | relaciona-se-a |
+| Shiva (Savna) | RC-102 | responde-por |
+| Vishnu (Mavatna) | RC-135 | responde-por |
+| Adhytia (nível hierárquico) | RC-308 | relaciona-se-a |
+| Ordem dos Indecifráveis | RC-309 | associado |
 
 ## Seres Associados
 Vishnu (RC-135); Shiva (RC-102); gênero Adhy (RC-011).

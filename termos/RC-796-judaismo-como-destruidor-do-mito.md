@@ -32,14 +32,18 @@ Aparece em **P2025-04-06**, U0006, na conclusão da palestra. Contexto: depois d
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Religiões Impositivas | RC-105 | inclui |
 | Pandora | RC-086 | destruiu-mito-de |
-| Lilith | RC-308 | destruiu-mito-de |
-| Eva | RC-189 | reescreveu-história-de |
-| Prometeu | RC-301 | reescreveu-história-de |
+| Ulsh | RC-105 | inclui |
+| Eva (figura) | RC-189 | reescreveu-história-de |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Prometeu (titã) | RC-301 | reescreveu-história-de |
+| Adhytia (nível hierárquico) | RC-308 | destruiu-mito-de |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-mantida-por |
 | Racionalidade Humana Trucidada | RC-786 | é-parte-de |
-| Lavagem Cerebral | RC-335 | é-mantida-por |
-| Egrégora de Lilith/Noreia | RC-787 | ativou |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | ativou |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
 
 ## Seres Associados
 - **Judaísmo** (religião) — quem destruiu o mito

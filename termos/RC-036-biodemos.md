@@ -123,13 +123,38 @@ Termo do universo da Revelação Cósmica (presente nas obras primárias de Ella
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Bilatérios | RC-035 | associado |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | criado-por |
 | Dan | RC-046 | relaciona-se-a (mundo-nave de urdidura dos capelinos) |
-| Raças capelinas / famílias | RC-109 | relaciona-se-a |
-| Seres Extraterrenos | RC-098 | é-um (categoria) |
 | Demos | RC-049 | relaciona-se-a (estirpe afim na malha) |
-| Biocoletivos | RC-445 | relaciona-se-a (capelinos = coletivos de biodemos) |
-| Família Yel | RC-442 | é-um (coletivo de biodemos — relação B058) |
-| Família Mion | RC-443 | é-um (coletivo de biodemos — relação B058) |
+| Processador Val | RC-089 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um (categoria) |
+| Ulsh | RC-105 | associado |
+| Val (Família Val) | RC-109 | ← parte-de |
+| Yel (Família Yel) | RC-136 | ← parte-de |
+| Criaturas-ferramenta | RC-164 | associado |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
+| Biodemol | RC-186 | ← é-um |
+| Insectoides | RC-187 | associado |
+| Fofocas cósmicas | RC-191 | associado |
+| Vida de Padrão Dependente | RC-209 | associado |
+| Ostronomos | RC-232 | associado |
+| Marca Val (A Estratégia do Possível) | RC-233 | associado |
+| A Jaula de Cada Espécie | RC-277 | associado |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
+| Grupos de Entroncamento (1-4) | RC-324 | associado |
+| Família Demolle (biodemos) | RC-401 | ← é-um |
+| Família Yel | RC-442 | ← é-um |
+| Família Mion | RC-443 | ← é-um |
+| Família Cromon | RC-444 | ← é-um |
+| Biocoletivos | RC-445 | ← variação |
+| Processadores Familiares | RC-446 | associado |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
+| Criaturas-ferramenta | RC-449 | ← relaciona-se-a |
+| Hostes de Sophia | RC-453 | associado |
+| Família Shanlung (13 membros em Alt'Lam Gron) | RC-491 | ← é-um |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
+| Cérebro Radiata | RC-631 | associado |
 
 ## Seres Associados
 Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das famílias capelinas); Len Mion (RC-074).

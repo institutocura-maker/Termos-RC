@@ -70,15 +70,23 @@ Satchidananda é mantido, neste ciclo, dentro da explicação de Ishvara e da ca
 > “O último retrato que essa mente tirou de si mesma antes de explodir passou para todos os elétrons.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Prabrajna | RC-152 | retrata-antes-da-queda |
-| Ressurreição do Cadáver do Criador | RC-638 | serve-de-modelo-para |
+| Prabrajna | RC-152 | ← retratado-em |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
 | Memória Quântica dos Elétrons | RC-161 | codificado-em |
-| Corpo Manásico / Corpo Mental | RC-625 | relacionado-a |
-| Nidana | RC-154 | relacionado-a |
-| Mente Universal | RC-163 | relacionado-a |
-| Evolução da Informação | RC-693 | relacionado-a |
+| Mente Universal (Emergente) | RC-163 | relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | serve-de-modelo-para |
+| Ressurreição do Cadáver do Criador | RC-638 | ← tem-como-modelo |
+| Ressurreição do Cadáver do Criador | RC-638 | ← relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | ← relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | relacionado-a |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
 
 ## Observações
 - A equivalência cosmológica é própria da Revelação Cósmica e não deve ser confundida automaticamente com todas as escolas hindus.

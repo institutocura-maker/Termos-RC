@@ -32,9 +32,10 @@ Termo do universo capelino da RC (glossário B031; também B061). No B057, o pla
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Raças capelinas | RC-109 | relaciona-se-a |
 | Capela (Sistema) | RC-039 | ocorre-em (planeta do sistema) |
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado-a (o Codificador de Zion) |
+| Val (Família Val) | RC-109 | relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← ocorre-em |
 
 ## Seres Associados
 Olm / Mestre Codificador de Zion (RC-092/RC-252); Sophia (RC-009, com quem o Codificador veio); Yel Luzbel (RC-078, que lhe entregou o levantamento de dados).

@@ -28,12 +28,15 @@ Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian J
 > "Eu chamo isso de os fios soltos que diferenciam o ser humano, um androide de um robô. Porque se tiver fio fechado, aí o robô é só cumprir aquilo ali. Fio solto é que você não sabe o que vai acontecer no próximo momento."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sensação de eu | RC-558 | relaciona-se-a |
-| Travas e lacres | RC-563 | relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | relaciona-se-a |
 | Quarto Cérebro Humano | RC-614 | relaciona-se-a |
+| Genoma da Liberdade | RC-619 | associado |
 
 ## Observações
 

@@ -33,11 +33,11 @@ Aparece em **P2019-04-14**, U0005. Contexto: a palestra apresenta o **gesto extr
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Código Genético como Marca | RC-825 | desestrutura |
-| Alimentação por Perfume | RC-820 | é-alternativa-a |
-| Mahatma Magant | RC-822 | lidera |
-| Vechame Existencial | RC-823 | é-extensão-de |
 | Javé | RC-001 | é-resistência-a |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | é-alternativa-a |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | lidera |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | é-extensão-de |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
 | Jejum (parcial) | (prática) | é-versão-moderada-de |
 
 ## Seres Associados

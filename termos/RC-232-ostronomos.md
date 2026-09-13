@@ -38,13 +38,14 @@ Os Ostronomos são uma das "espécies de fora" que monitoravam a Terra nos tempo
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Seres Extraterrestres | RC-098 | é-um |
-| Anunnaki | RC-024 | associado-a (origem comum) |
+| Sophia (Cristo Cósmico) | RC-009 | comandava |
+| Anunnaki | RC-024 | associado-a |
 | Biodemos | RC-036 | origem comum (DNA) |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um |
 | Val Geon | RC-126 | interagiu |
-| Val Pen | RC-129 | interagiu |
 | Val Ilon | RC-128 | interagiu |
-| Sophia | RC-009 | comandava |
+| Val Pen | RC-129 | interagiu |
+| Oannes (filho de Ostronomos) | RC-462 | ← é-um |
 
 ## Seres Associados
 Sophia (RC-009); Família Val (RC-109); Val Geon (RC-126); Val Pen (RC-129); Val Ilon (RC-128).

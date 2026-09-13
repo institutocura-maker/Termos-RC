@@ -21,11 +21,12 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-263 | — | relacionado |
-| RC-261 | — | relacionado |
-| RC-565 | — | relacionado |
+| Shiva (Savna) | RC-102 | correspondência-em-teologia-comparada-de |
+| Kether (Javé na Cabala) | RC-261 | — |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | — |
 
 ## Seres Associados
 Consultar Base.

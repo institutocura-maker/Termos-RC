@@ -42,12 +42,13 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 > Ver P2026-04-02, U0114–U0117.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-365 | — | relaciona-se-a |
-| RC-138 | — | relaciona-se-a |
-| RC-483 | — | relaciona-se-a |
-| RC-268 | — | relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Yel Am / Yel Liam | RC-138 | envolve |
+| Gnosticismo (contraponto à Cabala) | RC-268 | relaciona-se-a |
+| O Fator Judas | RC-365 | tema-de |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
 
 ## Seres Associados
 Consultar relações na Base.

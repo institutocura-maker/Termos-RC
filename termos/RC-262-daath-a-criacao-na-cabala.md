@@ -47,12 +47,14 @@ Daath (Da'at) na Cabala: a sefirá oculta do conhecimento — na leitura da pale
 > Existia uma luz que criou o que não devia, caiu onde não devia e por isso a sua luz se tornou refém do abismo que ela própria criou.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sefirot/Árvore da Vida | RC-263 | relaciona-se-a |
+| Tzimtzum | RC-008 | ← relaciona-se-a |
 | Tzimtzum | RC-008 | relaciona-se-a |
-| Isaac Luria | RC-267 | relaciona-se-a |
+| Criação Indevida (Obra indevida) | RC-167 | associado |
+| Kether (Javé na Cabala) | RC-261 | associado |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
 
 ## Observações
 

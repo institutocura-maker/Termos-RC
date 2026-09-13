@@ -59,17 +59,26 @@ O termo é neologismo/emprego próprio da palestra. Também aparece como “gene
 > “Genes críticos seriam genes dorminhocos com potencial evolutivo.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Genoma Derivado | RC-518 | atua-em |
-| Epigenoma | RC-543 | acionado-por |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | atua-em |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | acionado-por |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | produz |
+| Quarto Cérebro Humano | RC-614 | associado |
 | Genoma da Liberdade | RC-619 | relaciona-se-a |
-| FOXP2 | RC-400 | relaciona-se-a |
-| Novo Homo sapiens | RC-544 | produz |
-| Lei da Mente do Buda | RC-712 | relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
 | Humano Turbinado | RC-709 | relaciona-se-a |
-| Evolução da Informação | RC-693 | relaciona-se-a |
-| Cessão Consciente do DNA | RC-698 | relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
+| Jabutis Genéticos | RC-729 | associado |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
 
 ## Ressalva Científica
 “Genes críticos” não constitui categoria reconhecida da genética. Mensagens mentais não são comprovadas como mecanismo capaz de reescrever genes, produzir levitação ou transformar peixes em aves. Preservar como conceito RC atribuído à palestra.

@@ -30,12 +30,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relaciona-se-a |
-| RC-424 | — | relaciona-se-a |
-| RC-436 | — | relaciona-se-a |
-| RC-437 | — | relaciona-se-a |
+| Javé | RC-001 | relaciona-se-a |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
+| Heber (patriarca pós-dilúvio) | RC-436 | — |
+| Joctan e Faleg (filhos de Heber) | RC-437 | — |
 
 ## Seres Associados
 Consultar relações na Base.

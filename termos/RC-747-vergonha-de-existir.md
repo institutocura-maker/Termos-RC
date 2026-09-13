@@ -30,13 +30,12 @@ Conceito ético-evolutivo interno da Revelação Cósmica: um **genótipo** (na 
 > "Eu criei para mim mesmo um novo tipo de genótipo chamado vergonha de existir... E esse é o pior presente que eu deixo pro espírito que me anima."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a (resposta) |
-| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a (criou genoma antes) |
-| Ato de Verdade | RC-705 | relaciona-se-a |
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
 | Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
 
 ## Blindagem epistemológica
 

@@ -55,12 +55,19 @@ Sistema central da cosmologia capelina na Revelação Cósmica (obras primárias
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Orbum | RC-085 | ocorre-em (sede governamental do sistema) |
-| Dan | RC-046 | ocorre-em (mundo-nave de urdidura) |
-| Raças capelinas | RC-109 | origina (as famílias de biodemos) |
-| Zian (Zion) | RC-146 | relaciona-se-a (planeta do Codificador) |
 | Rebelião de Lúcifer | RC-002 | ocorre-em (a Revolta deflagrada em Capela) |
-| Exilados de Capela | RC-007 | origina (os rebeldes exilados na Terra) |
+| Exilados de Capela | RC-007 | ← origem-em |
+| Antares (Sistema) | RC-021 | associado |
+| Dan | RC-046 | ocorre-em (mundo-nave de urdidura) |
+| Orbum | RC-085 | ocorre-em (sede governamental do sistema) |
+| Tau Ceti (Sistema) | RC-103 | associado |
+| Val (Família Val) | RC-109 | origina (as famílias de biodemos) |
+| Zian (Zion) | RC-146 | relaciona-se-a (planeta do Codificador) |
+| Land's End (Sinal de Land's End) | RC-237 | associado |
+| Jesus, o Capelino | RC-350 | associado |
+| Mestres de Capela | RC-351 | associado |
+| Família Yel | RC-442 | associado |
+| Família Mion | RC-443 | associado |
 
 ## Seres Associados
 Sophia (RC-009, "Pai dos Capelinos" e Comandante); Yel Luzbel (RC-078); Len Mion (RC-074); Olm/Codificador de Zion (RC-092/RC-252); Val El (RC-071/B060).

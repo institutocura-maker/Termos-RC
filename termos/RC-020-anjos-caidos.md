@@ -60,9 +60,11 @@ Com isso:
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Anjos (classes de Arabot/Raquia) | RC-355 | explica (de RC-355 para cá — a única aresta registrada no cadastro) |
-
-> O cadastro lista ainda **RC-007, RC-078, RC-024, RC-082** em `relacionados` desta ficha; **não existem arestas correspondentes** em `RELACOES` para eles. Nada foi criado aqui para «preencher» essa lacuna — abrir essas quatro arestas é decisão curatorial e continua pendente.
+| Exilados de Capela | RC-007 | associado |
+| Anunnaki | RC-024 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | associado |
+| Nephilins | RC-082 | associado |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | ← explica |
 
 ## Observações
 

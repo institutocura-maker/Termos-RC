@@ -59,11 +59,20 @@ A palestra relaciona os Rakshasas aos sacrifícios, ao sangue de mamíferos e ao
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Shiva (Savna) | RC-102 | associado |
+| Trimurti | RC-104 | relaciona-se-a |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
+| Dharma e Castas (origem demo) | RC-322 | associado |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
+| Parasitismo energético (obsessão ampliada) | RC-522 | relaciona-se-a |
 | Vampirismo consciencial | RC-523 | relaciona-se-a |
 | Ravana | RC-582 | inclui |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
-| Trimurti | RC-104 | relaciona-se-a |
-| Parasitismo energético (obsessão ampliada) | RC-522 | relaciona-se-a |
+| Ravana | RC-582 | ← é-um |
+| Ravana | RC-582 | ← relaciona-se-a |
+| Ravana | RC-582 | relaciona-se-a |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
+| Kashyapa | RC-700 | ← gera-linhagem-de |
+| Rakshasas | RC-872 | associado |
 
 ## Seres Associados
 Ravana (RC-582)

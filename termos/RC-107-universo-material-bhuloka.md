@@ -37,11 +37,40 @@ Um dos dois universos paralelos resultantes da queda do Criador. É o cenário d
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Bhuloka | RC-033 | sinônimo |
-| Universo Antimaterial | RC-106 | opõe-se-a (paralelo) |
 | Big Bang | RC-034 | origem |
+| Criatura Universal | RC-042 | associado |
 | Orbe | RC-084 | parte-de (ambientes) |
-| Seres Terrenos | RC-099 | habita |
+| Perpérion | RC-087 | associado |
+| Projeto Planeta Azul | RC-090 | associado |
 | Projeto Talm | RC-091 | destino (código de vida) |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | habita |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | opõe-se-a (paralelo) |
+| Agentes da Vida Universal | RC-148 | associado |
+| Era do Refinamento da Semeadura Biológica Universal | RC-170 | associado |
+| Colmeia Universal | RC-174 | associado |
+| Dois Grandes Favos | RC-178 | parte-de |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | associado |
+| Sustentação Espiritual do Universo | RC-221 | associado |
+| Filhos das Estrelas | RC-222 | associado |
+| Opção Terra | RC-227 | associado |
+| Germe da Desconfiança | RC-244 | associado |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← inclui |
+| Criação Bipartida | RC-312 | ← inclui |
+| Portal Cósmico (destinação do Planeta Azul) | RC-343 | associado |
+| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado |
+| Confederações de Mundos | RC-357 | associado |
+| Atmosferizar a Lua ou Marte (Opção Final) | RC-360 | ← alternativa-a |
+| Dança dos Elétrons | RC-379 | ← sustenta |
+| Midgard (Marte + Terra) | RC-470 | associado |
+| Bifrost (Portal interdimensional) | RC-471 | associado |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← ocorre-em |
+| Transferência da Memória dos Antielétrons | RC-637 | ← transfere-para |
+| Transferência da Memória dos Antielétrons | RC-637 | ← descreve-transferência-de |
+| Malkuth | RC-682 | associado |
+| Colapso do Caos Organizado | RC-690 | ← afeta |
+| Axis Mundi / Axismund | RC-731 | associado |
 
 ## Seres Associados
 Biodemos (RC-036); Seres Terrenos (RC-099); Sophia (RC-009, suserano).

@@ -51,14 +51,25 @@ Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 > “Essas 13 filhas de Daksha são as mães de quase tudo que nós vemos.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Kashyapa | RC-700 | relaciona-se-a |
-| Descendência de Kadru | RC-664 | gera-linhagem-de |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Asuras | RC-465 | relaciona-se-a |
-| Indra/Devas | RC-480 | relaciona-se-a |
+| Brahma (Brajna) | RC-037 | ← relaciona-se-a |
+| Pandora como Serpente do Éden | RC-283 | ← relaciona-se-a |
+| Asuras (= Titãs) | RC-465 | relaciona-se-a |
+| Indra (título de arconte) | RC-480 | relaciona-se-a |
 | Rishis | RC-586 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | gera-linhagem-de |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← descende-de |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Pashupati (avatar de Shiva) | RC-669 | relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Geração Regenerada de Brahma | RC-696 | parte-de |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← relaciona-se-a |
+| Kashyapa | RC-700 | relaciona-se-a |
+| Kashyapa | RC-700 | ← une-se-às-filhas-de |
+| Kashyapa | RC-700 | tem-filhas-unidas-a |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
 
 ## Observações
 - Preservar 69 e 13 como contagens de conjuntos diferentes na fala.

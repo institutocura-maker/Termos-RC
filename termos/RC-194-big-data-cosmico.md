@@ -63,12 +63,22 @@ Tema-título da obra *O Big Data do Criador* (B035): a ideia de que o Criador, a
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé | RC-001 | instrumento-de (agente) |
-| Simbiose Quântica | RC-195 | relaciona-se-a |
-| O Livro do Criador | RC-201 | desdobramento |
-| Base de Dados do Juízo Final | RC-200 | associado-a |
-| Big Data da Terra | RC-197 | analogia terrena |
+| Javé | RC-001 | instrumento-de |
 | Anjos clones | RC-019 | operadores |
+| Simbiose Quântica | RC-195 | relaciona-se-a |
+| Big Data da Terra | RC-197 | ← analogia-de |
+| Rédeas Genéticas | RC-198 | associado |
+| Assinatura da Alma | RC-199 | associado |
+| Base de Dados do Juízo Final | RC-200 | associado-a |
+| O Livro do Criador | RC-201 | desdobramento |
+| Linhagens Preferenciais do Criador | RC-202 | associado |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | mapeia |
+| Primado da Informação | RC-707 | ← organiza |
+| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
+| Vício Devocional | RC-749 | ← relaciona-se-a |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
 
 ## Seres Associados
 Javé (RC-001); anjos-clones (RC-019); criaturas-ferramenta (RC-164).

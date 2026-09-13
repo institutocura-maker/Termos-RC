@@ -55,10 +55,12 @@ No Mentalma I (B074, itens 7.2 e 13.1 — "A 'primeira versão' do psiquismo hum
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mentalma | RC-166 | relaciona-se-a (o método trata a doença) |
-| Arquivos Mentais | RC-548 | relaciona-se-a |
-| Gestão Psíquica | RC-554 | relaciona-se-a |
-| Eu Profundo | RC-553 | relaciona-se-a (antídoto) |
+| Mentalma | RC-166 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (antídoto) |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
 
 ## Seres Associados
 Ser humano comum ("dehatma buddhi"); praticante do Mentalma (em emancipação).

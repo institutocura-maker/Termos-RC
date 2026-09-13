@@ -82,13 +82,16 @@ O exemplo principal é a cura de cegueira por Jesus com areia/argila e saliva, i
 > “Aqui exige conhecimento taumatúrgico.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | envolve |
-| Apolônio de Tiana | RC-259 | envolve |
-| DNA do Criador | RC-217 | atua-em |
-| Alteração Vibratória | RC-367 | relaciona-se-a |
-| Gestão da Sensação | RC-633 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | envolve |
+| Alteração Vibratória (Transfiguração) | RC-367 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
 | Lei da Mente do Buda | RC-712 | distingue-se-de |
 
 ## Ressalva Biomédica

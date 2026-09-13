@@ -73,11 +73,14 @@ Aparece em **P2019-05-11**, U0005 (Q&A), em resposta à pergunta sobre "seres de
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Especiação | RC-056 | parte-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | associado |
 | Especiação a partir do DNA Humano | RC-778 | sinônimo-parcial |
-| Especiação (conceito-mãe) | RC-056 | parte-de |
-| Homo Sapiens / Seres Terrenos | RC-099 | aplica-se-a |
+| Sophia como Protetorado da Humanidade | RC-784 | contextualizado-por |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
 | Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
-| Sophia como Protetorado | RC-784 | contextualizado-por |
 
 ## Seres Associados
 - **Sophia / Sofia** (RC-009) — quem vai gerenciar a especiação

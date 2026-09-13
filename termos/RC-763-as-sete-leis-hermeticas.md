@@ -34,14 +34,14 @@ Conjunto basilar de **sete princípios** que, na cosmovisão apresentada por Jan
 > "Quais são as sete leis que o nosso amigo Tot, ao longo desse tempo, foi montando como sendo uma espécie de sete matérias, princípios que os seres todos... deveriam entender: a lei do mentalismo, da correspondência, da vibração, da polaridade, do ritmo, da causa e efeito e a lei do gênero. Tirando a lei do gênero, o resumo das outras seis é: o que você pensa, você cria; o que você sente, você atrai; o que você respira, a ser se torna realidade. É o que a física quântica tá explicando que é real." — P2023-12-02
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Hermes Trismegisto (Thot) | RC-463 | relaciona-se-a (compilador) |
-| As Três Escalas da Consciência | RC-762 | relaciona-se-a (percurso iniciático) |
-| Postulados Quânticos | RC-703 | relaciona-se-a (leitura moderna) |
-| Teia quântica | RC-559 | relaciona-se-a (causa e efeito) |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a (destino/ritmo) |
+| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | relaciona-se-a |
 
 ## Blindagem epistemológica — QUARENTENA
 

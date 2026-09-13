@@ -42,4 +42,23 @@ A fala situa sua repercussão recente e relaciona o processo a Pandora, Enki, FO
 ---
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | associado |
+| Fios soltos (improviso humano × robô) | RC-564 | associado |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
+| Superconsciência | RC-615 | associado |
+| Gestão da Sensação Pessoal | RC-633 | ← relaciona-se-a |
+| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← atua-em |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← relaciona-se-a |
+| Jabutis Genéticos | RC-729 | associado |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
+
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-619.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

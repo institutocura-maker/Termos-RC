@@ -22,12 +22,12 @@ As sucessivas manifestações/formas do eu do criador caído ao longo da histór
 > "Javé teve muitas faces ao longo de toda essa história. A última, essa que a gente chama de Javé ou de Brahma Parameshthi. Mas essa face não soube aproveitar o fenômeno da ressonância [bôson — REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (leitura editorial preservada; RC-001×RC-561, mesma fala) — ver nota]... não soube usar os fenômenos da ressonância humana via os arcanos do inconsciente coletivo e as egrégoras humanas."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Javé | RC-001 | relaciona-se-a |
-| Senhor Parameshthi | RC-556 | relaciona-se-a |
-| Joctan e Faleg | RC-437 | relaciona-se-a |
+| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
 
 ## Observações
 

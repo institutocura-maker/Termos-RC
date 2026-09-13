@@ -68,11 +68,12 @@ Na RC, a **mistura genética entre anunnaki (RC-024) e humanos** — reinterpret
 > "Os primeiros anunnaki que desobedeceram Anu e transaram com mulheres humanas... isso aconteceu num tempo pré-diluviano. Essa turma terminou gerando uma série de linhagens de aparentemente seres humanos, mas também tinham gigantes, figuras deformadas." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 | Anunnaki | RC-024 | relaciona-se-a |
+| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
+| Igigi | RC-580 | ← envolve |
 
 ## Blindagem
 

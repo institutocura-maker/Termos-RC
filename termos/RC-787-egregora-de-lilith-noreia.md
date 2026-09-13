@@ -32,10 +32,14 @@ Aparece em **P2023-11-11**, U0004 e U0005 (Q&A). Contexto: o autor foi perguntad
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Lilith | RC-308 | compõe |
-| Noreia | RC-579 | compõe |
-| Lavagem Cerebral | RC-335 | contextualizado-por |
+| Adhytia (nível hierárquico) | RC-308 | compõe |
+| Ordem dos Indecifráveis | RC-309 | associado |
+| Lavagem Cerebral (condicionamento) | RC-335 | contextualizado-por |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado |
+| Noreia (Norea) | RC-579 | compõe |
 | Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
 | Egrégora | (sem ficha) | sinônimo |
 
 ## Seres Associados

@@ -83,8 +83,19 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Javé | RC-001 | — |
+| Sefirot / Árvore da Vida | RC-263 | — |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | variação-posterior-de |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | — |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | — |
+| Urdidura de Metatron | RC-674 | produz |
+| Urdidura de Metatron | RC-674 | relaciona-se-a |
+| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
@@ -92,12 +103,6 @@ Ver transcrição.
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| RC-489 | — | relacionado |
-| RC-001 | — | relacionado |
-| RC-263 | — | relacionado |
-| RC-672 | — | relacionado |
-| RC-673 | — | relacionado |
-| RC-674 | — | relacionado |
 
 ## Seres Associados
 Consultar Base.

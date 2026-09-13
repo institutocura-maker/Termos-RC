@@ -29,6 +29,13 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - RC-070 (Isolamento Cósmico) — os seres de fora usando os qualia humanos
 - RC-889 (Biblioteca Genômica Humana) — o DNA como laboratório cósmico
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Isolamento Cósmico | RC-070 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Biblioteca Genômica Humana | RC-889 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

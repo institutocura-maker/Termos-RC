@@ -48,9 +48,10 @@ Termo do universo capelino da RC (glossário B031; presente também em B058). No
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Raças capelinas | RC-136 | relaciona-se-a (mundo de urdidura) |
+| Biodemos | RC-036 | associado |
 | Capela (Sistema) | RC-039 | ocorre-em (mundo do sistema) |
 | Mastlans Phisosferas / Luciferianas | RC-079 | relaciona-se-a (relação prévia na malha) |
+| Yel (Família Yel) | RC-136 | relaciona-se-a (mundo de urdidura) |
 
 ## Seres Associados
 Yel Luzbel (RC-078, nascido em Dan); os administradores de Dan (seres anônimos da narrativa); Sophia (RC-009, criador das famílias).

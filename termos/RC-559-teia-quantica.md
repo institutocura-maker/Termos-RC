@@ -11,6 +11,30 @@
 
 Na RC, o "tear da vida": a malha de interconexão que entrelaça as linhas de vida de todos os seres — o que nela se tece retorna ("o que sai volta"). Em P2023-05-13, Ellam a vincula à mitologia nórdica: a teia do destino administrada pelas **nornas**, sob a égide de **Orlog** (STT "Orlock" corrigido) e ligada a **Urd/Wyrd** (STT "Earth/Eard" corrigido) — mesma linhagem do Elm (RC-454, Moros), ser LM de Tempérion que administra o destino.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Prabrajna | RC-152 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | associado |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | associado |
+| Simultaneidade Reversa | RC-628 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | ← relaciona-se-a |
+| Ser Humano Não Local | RC-708 | ← atua-em |
+| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
+| Bolhas Psíquicas | RC-899 | associado |
+| Germe da Morte | RC-900 | associado |
+| Tions | RC-905 | associado |
+
 ## Atualização — P2023-05-13
 
 - **Tear da vida / Orlog:** "surgiu Orlock com a teia do Earth e as nornas geradas para administrar essa teia... essa teia quântica, que seria o tear da vida. Todas as linhas da vida de todos os seres fazem parte disso";

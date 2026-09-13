@@ -36,14 +36,20 @@ Aparece em **P2017-05-14**, U0005. Contexto: a palestra reconstrói a história 
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | protagoniza |
-| Zeus | RC-149 | plano-original-de |
-| Epimeteu | RC-302 | alvo-do-plano |
-| Prometeu | RC-301 | motivo-da-vingança |
-| Kalil Kadmon | RC-299 | é-morada-de |
-| Homo Sapiens | RC-099 | apaixona-se-por |
+| Seres Terrenos (Homo Sapiens) | RC-099 | apaixona-se-por |
+| Mônada (Mônada Espiritual) | RC-149 | plano-original-de |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Opção Inusitada de Pandora (humanização) | RC-285 | paralelo-com |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | é-morada-de |
+| Prometeu (titã) | RC-301 | motivo-da-vingança |
+| Epimeteu (titã) | RC-302 | alvo-do-plano |
 | Pirra | RC-303 | gera-com-epimeteu |
-| Opção Inusitada de Pandora | RC-285 | paralelo-com |
 | Revolução Inacabada de Prometeu e Pandora | RC-788 | paralelo-com |
+| Padrão de Consciência Genético por Espécie | RC-807 | associado |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem se desvia

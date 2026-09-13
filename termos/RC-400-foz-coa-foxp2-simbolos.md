@@ -41,6 +41,19 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 - **[Os microtúbulos como porta de entrada da informação quântica] (U0088)** «E mais especificamente através dos microtúbulos, que são os citoesqueletos desses neurônios.» — os microtúbulos (citoesqueletos dos neurônios) como a porta específica pela qual a flutuação quântica penetra o cérebro; a realidade composta das 2.000 informações processadas (RC-400; paráfrase do contexto U0088).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
+| Semente da racionalidade (diferencial humano) | RC-525 | ← relaciona-se-a |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Quarto Cérebro Humano | RC-614 | associado |
+| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

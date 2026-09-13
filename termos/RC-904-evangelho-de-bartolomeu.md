@@ -23,3 +23,11 @@ Evangelho de Bartolomeu — conceito desenvolvido na palestra «A Teia da Vida e
 - **«conversando com Judas Dídimo Tomé, que além de apóstolo de Jesus, era também irmão dele»**
 - Aula 03 situa a revelação pós-ressurreição a **apóstolos + mulheres** (Tomé, Filipe, Bartolomeu, Madalena) — contexto do Evangelho de Bartolomeu (RC-904).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Maria Madalena | RC-943 | associado |
+| Pedro (apóstolo) | RC-945 | associado |
+

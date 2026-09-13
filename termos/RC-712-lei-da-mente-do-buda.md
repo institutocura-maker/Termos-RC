@@ -47,15 +47,22 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 > “O que você pensa, você cria; o que você sente, você atrai; aquilo que aspira, o seu genoma se modifica.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Gestão da Sensação | RC-633 | orienta |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
+| Moksha | RC-618 | relaciona-se-a |
 | Genoma da Liberdade | RC-619 | atua-em |
-| Disciplina dos 3As | RC-552 | usa |
-| Postulados Quânticos | RC-703 | relaciona-se-a |
-| Genes Críticos | RC-710 | relaciona-se-a |
-| Ciência Pessoal | RC-695 | orienta |
-| Protocolo Mental | RC-517 | usa |
+| Gestão da Sensação Pessoal | RC-633 | orienta |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | orienta |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← distingue-se-de |
 
 ## Observações
 Preservar a atribuição “Lei da Mente do Buda” como nome usado na palestra, sem validar autoria histórica budista.

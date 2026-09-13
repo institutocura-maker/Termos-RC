@@ -47,15 +47,17 @@ Aparece em **P2023-12-17**, U0002. Contexto: a palestra reconstrói a **geraçã
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia | RC-009 | é-biodemo |
-| Trimurti (Brahma+Shiva+Vishnu) | RC-104 | é-representante-de |
-| Javé (Brahma) | RC-001 | é-controlado-por |
-| Morenu | RC-316 | é-paralelo-com |
-| Aya/Aye (clones) | RC-369 | é-família-de |
-| Anjos Glores (clones) | RC-001 | é-progressivamente-livre-de |
-| Lúcifer | RC-002 | tem-problemas-com |
-| Elétron | RC-162 | tem-pulsação-de |
+| Javé | RC-001 | é-controlado-por |
+| Javé | RC-001 | é-progressivamente-livre-de |
+| Rebelião de Lúcifer | RC-002 | tem-problemas-com |
+| Guerra do Éden | RC-006 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | é-biodemo |
 | Jesus | RC-072 | é-parte-mais-bela-de |
+| Trimurti | RC-104 | é-representante-de |
+| Elétrons (agente básico da vida universal) | RC-162 | tem-pulsação-de |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | é-paralelo-com |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-família-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
 
 ## Seres Associados
 - **Sophia (RC-009)** — o biodemo protagonista

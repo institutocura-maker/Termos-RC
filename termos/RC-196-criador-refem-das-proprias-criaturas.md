@@ -18,6 +18,14 @@ A Base aproxima este verbete de dois outros: a Simbiose Quântica (RC-195), a in
 - Variações: criador refém; refém da própria obra
 - Condição conexa: Demência do Criador (RC-526)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
+| Simbiose Quântica | RC-195 | associado |
+| Centro de Comando Paralelo | RC-213 | variação |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

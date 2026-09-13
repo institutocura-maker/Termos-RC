@@ -18,6 +18,17 @@ Registrado com uma única fonte (B031), o verbete tem valor sobretudo prosopogr�
 - Variações: Val El; Val Ellam
 - Família: Val (RC-109) · Autor: Jan Val Ellam (RC-071)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Hiperbórea | RC-068 | associado |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Norte Divino | RC-083 | associado |
+| Val (Família Val) | RC-109 | associado |
+| Val Gevi | RC-125 | associado |
+| Yel Am / Yel Liam | RC-138 | associado |
+| Yel Liam | RC-140 | associado |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

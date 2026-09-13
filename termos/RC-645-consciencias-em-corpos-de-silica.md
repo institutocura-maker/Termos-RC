@@ -42,12 +42,20 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 > Ver P2026-04-02, U0078–U0097.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-042 | — | relaciona-se-a |
-| RC-544 | — | relaciona-se-a |
-| RC-644 | — | relaciona-se-a |
-| RC-646 | — | relaciona-se-a |
+| Criatura Universal | RC-042 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | — |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← aplica-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | recebe |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← aplica-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | recebe |
+| Humano Turbinado | RC-709 | ← usa |
+| Humano Turbinado | RC-709 | ← usa |
 
 ## Seres Associados
 Consultar relações na Base.

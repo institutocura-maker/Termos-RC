@@ -37,10 +37,10 @@ A palestra descreve confronto de Shiva com Narasimha sem intenção de destruí-
 > “Shiva [...] foi desafiar Narasimha para ver se durante a luta se lembrava que era Vishnu.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Vishnu (Mavatna) | RC-135 | é-um |
 | Shiva (Savna) | RC-102 | confronta |
+| Vishnu (Mavatna) | RC-135 | é-um |
 | Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
 
 ## Seres Associados

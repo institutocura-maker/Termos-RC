@@ -30,10 +30,11 @@ Segundo as Revelações Cósmicas, **Sai Baba de Shirdi (Shirdi Sai Baba)** é a
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Shiva (Savna) | RC-102 | encarnação-de |
-| Linhagem Sai (umbrella) | RC-801 | parte-de |
-| Sathya Sai Baba | RC-928 | antecede |
 | Lila | RC-075 | contexto |
+| Shiva (Savna) | RC-102 | encarnação-de |
+| Saibaba como Precursor de Jesus | RC-801 | parte-de |
+| Sathya Sai Baba | RC-928 | ← encarnação-posterior-de |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado |
 
 ## Seres Associados
 - **Shiva** (RC-102) — a consciência que se encarna na linhagem Sai

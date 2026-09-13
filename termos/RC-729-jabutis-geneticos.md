@@ -34,13 +34,17 @@ A fala retoma a anedota política da tartaruga ou do jabuti encontrado sobre uma
 > “No nosso genoma tem vários jabutis, várias tartarugas [...], mas alguma coisa colocou o jabuti ou a tartaruga na árvore porque ela não sobe.”
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| DNA como Projeção Holográfica do Psiquismo | RC-217 | metáfora alegada sobre |
-| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Invasão Ancestral | RC-732 | contextualiza |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | metáfora-alegada-da-RC-sobre |
 | Genética Totalitária | RC-325 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | associado |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
+| Genoma da Liberdade | RC-619 | associado |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | contextualiza |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← manifesta-se-no-discurso-como |
 
 ## Blindagem científica obrigatória
 

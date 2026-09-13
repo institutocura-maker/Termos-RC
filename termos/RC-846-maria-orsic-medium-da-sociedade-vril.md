@@ -38,12 +38,13 @@ Com isso:
 | P2018-12-16 | Terra Atlantis - Era Sapiens (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
+| Hitler (figura histórica no RC) | RC-239 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Sociedade Vril | RC-847 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Sociedade Thule | RC-848 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Hitler (figura histórica no RC) | RC-239 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

@@ -32,6 +32,41 @@ A 38ª Constatação de B016 contrasta as duas premissas: os três primeiros Log
 - **[B049 p. 106]** transferir a cota da vida a «deus», Jesus, Buda ou Maomé faz o humano esquecer que é o «agente das transformações»; os que não dão conta entregam a tarefa a manipuladores. Sem fusão com B016. RC-370 permanece **sem ficha**.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | associado |
+| Olm (Codificador de Zion/Zian) | RC-252 | associado |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | rompe-com |
+| A Mensagem do Codificador de Zion | RC-255 | associado |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | associado |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | associado |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | associado |
+| Sacralização do Absurdo | RC-276 | ← opõe-se-a |
+| Olhar Adulto | RC-278 | associado |
+| Imperativo Categórico da Moral | RC-328 | associado |
+| Democracia do Amor da Deidade | RC-333 | associado |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado |
+| Apego aos Conceitos Terrenos | RC-362 | ← opõe-se-a |
+| Ótica e Ética Cósmicas | RC-363 | associado |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | associado |
+| A Fé de Jesus e a Razão de Nietzsche | RC-371 | ← opõe-se-a |
+| O Ser Humano Emancipado | RC-372 | ← é-um |
+| Javé alimenta-se do senso crítico humano | RC-429 | associado |
+| Decência cósmica (ética ellâmica) | RC-508 | ← relaciona-se-a |
+| Protagonismo consciencial | RC-509 | ← relaciona-se-a |
+| Protocolo da Busca | RC-566 | ← relaciona-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | ← opõe-se-a |
+| Moksha | RC-618 | ← relaciona-se-a |
+| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
+| Eu Coalescente | RC-620 | associado |
+| Verdade Posta × Verdade a Construir | RC-657 | associado |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+
 ## Atualização — P2021-12-04
 
 - **Unidades:** U0154–U0176; U0563–U0571; U0593–U0601.

@@ -79,6 +79,42 @@ O físico nuclear francês **Jean-Émile Charon** descortinou essa característi
 - **[P2022-03-26 · MEMÓRIA QUÂNTICA DOS ELÉTRONS NA FALA DE 26/03/2022]** "diz o nome inclusive do demo que desse universo vizinho tenta manipular todas as espécies biológicas que surgiram e se organizaram a partir do primeiro vírus que foi aqui introjetado." (U0007) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **15 meses** a atual fonte oral mais antiga da ficha (`P2023-06-24`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Entropia e Negentropia | RC-160 | associado |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
+| Mente Universal (Emergente) | RC-163 | associado |
+| Simbiose Quântica | RC-195 | associado |
+| A Rebelião dos Elétrons | RC-378 | ← envolve |
+| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Dança dos Elétrons | RC-379 | associado |
+| Memórias para Javé | RC-386 | ← registra |
+| Arquivos da Memória Cósmica | RC-521 | ← relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← envolve |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← relaciona-se-a |
+| Transferência da Memória dos Antielétrons | RC-637 | ← transfere-para |
+| Transferência da Memória dos Antielétrons | RC-637 | relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | ← envolve |
+| Colapso do Caos Organizado | RC-690 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← codificado-em |
+| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
+| Evolução da Informação, não das Espécies | RC-693 | ← envolve |
+| Primado da Informação | RC-707 | associado |
+| Ser Humano Não Local | RC-708 | ← envolve |
+| Ser Humano Não Local | RC-708 | ← envolve |
+| Ser Humano Não Local | RC-708 | ← relaciona-se-a |
+| Ser Humano Não Local | RC-708 | relaciona-se-a |
+| Informações Vivas | RC-715 | ← compõe |
+| Memória dos Elétrons e Arcanos | RC-829 | associado |
+| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
+
 ## Atualização — P2024-05-04
 
 - A memória dos elétrons/antielétrons é tratada como portadora dos bits do corpo manásico fragmentado.

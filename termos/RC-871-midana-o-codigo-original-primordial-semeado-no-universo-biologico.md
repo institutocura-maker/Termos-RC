@@ -38,11 +38,13 @@ Com isso:
 | P2022-09-25 | O Contexto Espiritual da Construção de Brasília (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
 | Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | **sem aresta** em `RELACOES`; arquivo existe |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | **sem aresta** em `RELACOES`; arquivo existe |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
 | Wyrd / Urd (Teia do Destino) | RC-658 | **sem aresta** em `RELACOES`; arquivo existe |
 | Especiação Humana — Levas Genéticas | RC-783 | **sem aresta** em `RELACOES`; arquivo existe |
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | **sem aresta** em `RELACOES`; arquivo existe |
-| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
+

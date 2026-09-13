@@ -48,9 +48,9 @@ Em 2021, o autor dizia tentar concluí-lo e não saber se conseguiria publicá-l
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Nova Espiritualidade / Novo Paraíso | RC-612 | tema-de |
 | Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | anunciada-por |
-| Roseral do Alto | RC-616 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | tema-de |
+| Roseral do Alto | RC-616 | ← tema-de |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

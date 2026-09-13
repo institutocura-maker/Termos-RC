@@ -35,6 +35,20 @@ Os Seres dos Portais viviam nas moradas do universo paralelo (lokas/genos) e tra
 - **[B021 p. 140–141]** ensaio: «as futuras gerações humanas terão que voltar a conviver com os "seres dos portais" — é assim que eu os denomino na trilogia "Terra Atlantis"»; «chamados de "seres dos portais" porque apareciam e desapareciam próximo àqueles vórtices». Remissão à trilogia B017 / B018 / B039 — **não fundir**. IEEA (mesmo capítulo) = **institucional — fora**. Falas de Zeus **isoladas**. Sem fusão com B020 / B017. Fonte **B021** já constava na tabela-mestra.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Astréia | RC-027 | associado |
+| Demos | RC-049 | é-um |
+| Despina | RC-051 | associado |
+| Pandora | RC-086 | associado |
+| Seres Extrafísicos | RC-097 | associado |
+| Zeus | RC-145 | associado-a |
+| Zeus | RC-145 | ← é-um |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | ← é-um |
+| Timé (de um deus) | RC-293 | associado |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0506; U0646–U0669; U0731–U0739.

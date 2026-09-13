@@ -53,11 +53,14 @@ Com isso:
 | B014 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | aresta pré-existente; arquivo existe |
-| Jesus | RC-072 | aresta pré-existente; arquivo existe |
-| Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Jesus | RC-072 | envolve |
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
-| Kit Reencarnatório de Elétrons | RC-692 | aresta pré-existente; arquivo existe |
+| Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
+| Kit Reencarnatório de Elétrons | RC-692 | relaciona-se-a |
 | Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | **sem aresta** em `RELACOES`; arquivo existe |
+| Maria Madalena | RC-943 | associado |
+| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
+

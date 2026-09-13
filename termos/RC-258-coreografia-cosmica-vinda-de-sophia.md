@@ -39,9 +39,11 @@ Com isso:
 | B016 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | aresta pré-existente; arquivo existe |
+| Reintegração Cósmica | RC-003 | ← envolve |
 | Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
-| Reintegração Cósmica | RC-003 | aresta pré-existente; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
 | Isolamento Cósmico | RC-070 | **sem aresta** em `RELACOES`; arquivo existe |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
+

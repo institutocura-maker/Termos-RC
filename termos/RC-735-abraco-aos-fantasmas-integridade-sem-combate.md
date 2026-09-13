@@ -30,14 +30,17 @@ Proposta ética de Jan Val Ellam para reconhecer e acolher processos ou seres an
 > “Não é caçador [...], é para abraçar esses fantasmas, porque, por piores que eles nos pareçam ser, todos eles precisam de colo, porque todo mundo é vítima.”
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Mentalma | RC-166 | associado |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Dominação Psíquica pela Devoção | RC-733 | ← enfrentada-por |
 | Livre-arbítrio | RC-938 | relaciona-se-a |
-| Autonomia | RC-509 | relaciona-se-a |
-| Dignidade como Critério | RC-722 | relaciona-se-a |
-| Ponto de Luz Humano | RC-725 | relaciona-se-a |
-| Dominação Psíquica pela Devoção | RC-733 | enfrenta sem combate |
 
 ## Blindagem ética e clínica
 

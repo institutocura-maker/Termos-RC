@@ -35,12 +35,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relaciona-se-a |
-| RC-019 | — | relaciona-se-a |
-| RC-147 | — | relaciona-se-a |
-| RC-094 | — | relaciona-se-a |
+| Javé | RC-001 | proferida-por |
+| Anjos clones | RC-019 | destinada-a |
+| Revelação Cósmica (conceito) | RC-094 | — |
+| Zont En Drel 29 | RC-147 | envolve |
 
 ## Seres Associados
 Consultar relações na Base.

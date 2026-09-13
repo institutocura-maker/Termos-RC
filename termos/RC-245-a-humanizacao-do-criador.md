@@ -50,12 +50,14 @@ A Humanização do Criador é o tema do capítulo 17 de B015 e o arco dramático
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Criador | RC-041 | sujeito |
 | Javé | RC-001 | identidade |
-| Zont En Drel 29 | RC-147 | testemunha |
-| Genética da Confiança | RC-243 | fator |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | sujeito |
+| Seres Terrenos (Homo Sapiens) | RC-099 | agentes |
+| Zont En Drel 29 | RC-147 | experimenta |
 | Razão Filosófica dos Terráqueos | RC-231 | fator |
-| Seres Terrenos | RC-099 | agentes |
+| Genética da Confiança | RC-243 | fator |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | ← relaciona-se-a |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado |
 
 ## Seres Associados
 Criador/Javé (RC-041/RC-001); Zont En Drel 29 (RC-147); Jesus (RC-072); Seres Terrenos (RC-099).

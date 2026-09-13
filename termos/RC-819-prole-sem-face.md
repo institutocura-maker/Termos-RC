@@ -31,14 +31,16 @@ Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **ass
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Homo Sapiens | RC-099 | é-progênie |
-| Pandora | RC-086 | é-mãe |
-| Zeus | RC-149 | é-pai |
 | Javé | RC-001 | é-posterior |
-| Prometeu | RC-301 | está-envolvido |
-| Epimeteu | RC-302 | está-envolvido |
-| Desvio de Rota de Pandora | RC-806 | é-origem |
-| Racionalidade Evolutiva de Eva | RC-814 | é-complemento |
+| Pandora | RC-086 | é-mãe |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-progênie |
+| Mônada (Mônada Espiritual) | RC-149 | é-pai |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Prometeu (titã) | RC-301 | está-envolvido |
+| Epimeteu (titã) | RC-302 | está-envolvido |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | é-origem |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-complemento |
 
 ## Seres Associados
 - **Humanos (Homo Sapiens, RC-099)** — a prole

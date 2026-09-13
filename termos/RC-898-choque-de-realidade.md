@@ -31,6 +31,15 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - RC-722 (Dignidade) — o despertar como conquista da dignidade
 - RC-070 (Isolamento Cósmico) — os seres de fora apenas assistindo
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Isolamento Cósmico | RC-070 | associado |
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | ← variação |
+| Pós-Verdade | RC-892 | associado |
+| Choque de realidade | RC-936 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

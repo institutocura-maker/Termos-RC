@@ -29,6 +29,16 @@ Conceito central da palestra «A Falsa Queda do Ser Humano e a Indignidade Entro
 - RC-749 (Vício Devocional) — a religião como narrativa falsa
 - RC-072 (Jesus) — a parábola do Bom Samaritano como narrativa verdadeira
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Vício Devocional | RC-749 | associado |
+| Pecado Original como Narrativa Cruel | RC-893 | associado |
+| Código Filosófico Pessoal | RC-897 | associado |
+| Choque de Realidade | RC-898 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -18,6 +18,24 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 - Variações: o Todo; o Paraíso; Pleroma (correspondência aproximada, [REVISAR → CHANCELA 10/09/2026 · F040-L5: APROXIMAÇÃO DECLARADA E MANTIDA — ver nota])
 - Uso na Base: nível 1 de 3 (Superior → Operacional → Laboratorial)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Adhyagia | RC-012 | associado |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Deus / Deus Incognoscível | RC-052 | associado |
+| Espiritualidade Operacional | RC-060 | associado |
+| Seres Espirituais | RC-100 | associado |
+| Realidade Maior / Paraíso Original | RC-204 | associado |
+| Agente do Mais Alto | RC-214 | associado |
+| Emissários da Espiritualidade Maior | RC-215 | associado |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← inclui |
+| Confederações de Mundos | RC-357 | ← subordinada-a |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | associado |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← inclui |
+| Departamentalização da Vida | RC-601 | ← envolve |
+| Corpo Átmico | RC-623 | associada-a |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

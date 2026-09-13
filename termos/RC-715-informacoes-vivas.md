@@ -38,16 +38,26 @@ A palestra trata elétrons/antielétrons como remanescentes informacionais da me
 > “Tudo isso é informação viva.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Memória dos Elétrons | RC-161 | compõe |
-| Elétrons | RC-162 | compõe |
-| DNA do Criador | RC-217 | organiza-se-em |
-| Evolução da Informação | RC-693 | relaciona-se-a |
-| Arquivos do Destino | RC-714 | armazenado-em |
-| PIA | RC-716 | medida-por |
-| Buraco Negro Mental | RC-717 | pode-colapsar-em |
-| Modelo Colmeia | RC-176 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | compõe |
+| Elétrons (agente básico da vida universal) | RC-162 | compõe |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | ← relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | organiza-se-em |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← organiza |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | ← contêm |
+| Arquivos do Destino Universal | RC-714 | armazenado-em |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | medida-por |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← mede |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← relaciona-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | pode-colapsar-em |
+| Buraco Negro Mental / Consciencial | RC-717 | ← envolve |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← processa |
 
 ## Observações Científicas
 “Informação viva” é conceito cosmológico da palestra. Elétrons não são organismos vivos no sentido biológico aceito.

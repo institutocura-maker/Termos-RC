@@ -68,15 +68,25 @@ A hipótese de Krishna tornar-se um segundo Buraco Negro Mental foi absorvida ne
 > “Surgiu o primeiro buraco negro mental no âmbito dessa criação.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Ressurreição do Criador | RC-638 | envolve |
-| Colapso do Caos Organizado | RC-690 | é-fenômeno-de |
 | Javé | RC-001 | primeiro-caso |
-| Krishna | RC-414 | risco-para |
+| Javé | RC-001 | relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Lavagem Cerebral (condicionamento) | RC-335 | ← relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← risco-de |
+| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | envolve |
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | é-fenômeno-de |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
+| Informações Vivas | RC-715 | ← pode-colapsar-em |
 | Informações Vivas | RC-715 | envolve |
-| PIA | RC-716 | relaciona-se-a |
-| Krishna Pretenso Keshava | RC-425 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
 
 ## Observações
 - Destruição das Moiras e futuro de Javé permanecem em quarentena.

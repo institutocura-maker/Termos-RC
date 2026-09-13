@@ -86,11 +86,12 @@ Na narrativa psicografada, enquanto os sábios da Família Yel aguardam resposta
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Len Mion (Satã) | RC-074 | é-um (integrante) |
-| Biodemos | RC-036 | é-um (coletivo de) |
+| Biodemos | RC-036 | é-um |
 | Capela (Sistema) | RC-039 | origina-se-em |
+| Len Mion (Satã) | RC-074 | ← é-um |
+| Família Yel | RC-442 | ← relaciona-se-a |
+| Biocoletivos | RC-445 | associado |
 | Processadores Familiares | RC-446 | associado-a |
-| Família Yel | RC-442 | relaciona-se-a |
 | Revolta Capelina | RC-450 | protagoniza |
 
 ## Seres Associados

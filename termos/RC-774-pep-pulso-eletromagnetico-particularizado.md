@@ -31,10 +31,10 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Nanotecnologia Prânica | RC-773 | usa |
-| Nidana | RC-154 | transfere-para |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
 | Projeto Talm | RC-091 | relaciona-se-a |
-| Mohen So | RC-081 | relaciona-se-a |
+| Nidana (ovo cósmico) | RC-154 | transfere-para |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | ← usada-em |
 
 ## Observações
 - Fonte: material do curador (não primário); mecânica detalhada aguarda confirmação em fonte primária.

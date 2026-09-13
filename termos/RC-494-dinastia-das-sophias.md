@@ -30,15 +30,15 @@ Nome do terceiro conselho dos deuses na leitura da RC: a dinastia dos arcontes (
 > "A nossa palestra é sobre o Eloim, o conselho dos arcontes ou o conselho das Sophias ou a dinastia das Sophias, porque são conceitos que significam a mesma coisa." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Arcontes | RC-474 | relaciona-se-a |
-| Emá (En Ma) | RC-476 | relaciona-se-a |
-| Ensá | RC-477 | relaciona-se-a |
-| Timé | RC-293 | relaciona-se-a |
-| Sophia | RC-009 | relaciona-se-a |
-| Hipóstase dos Arcontes | RC-770 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a |
+| Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | associado |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | relaciona-se-a |
 
 ## Observações
 

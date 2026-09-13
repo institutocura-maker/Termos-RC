@@ -25,14 +25,19 @@ Seres com corpos físicos e biológicos como os nossos, mas que habitam outros p
 > "São seres com corpos físicos e biológicos como nós, mas que habitam outros planetas e galáxias do nosso universo material."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | inclui (exemplo de biodemo) |
+| Anunnaki | RC-024 | relaciona-se-a |
 | Biodemos | RC-036 | inclui (classe enfatizada) |
 | Fenvans | RC-064 | inclui (classe enfatizada) |
-| Sophia (Cristo Cósmico) | RC-009 | inclui (exemplo de biodemo) |
 | Lúcifer (Yel Luzbel) | RC-078 | inclui (exemplo de biodemo) |
-| Anunnaki | RC-024 | relaciona-se-a |
+| Insectoides | RC-187 | ← é-um |
+| Fofocas cósmicas | RC-191 | associado |
+| Ostronomos | RC-232 | ← é-um |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | ← é-um |
+| Confederações de Mundos | RC-357 | ← é-um |
+| Abduções e Reparo Espiritual | RC-359 | ← realizada-por |
 
 ## Observações
 

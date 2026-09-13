@@ -61,17 +61,41 @@ Com isso:
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
+| Sophia (Cristo Cósmico) | RC-009 | correspondência-em-teologia-comparada-de |
+| Adhydaiva | RC-014 | associado |
+| Adhyajna | RC-016 | associado |
 | Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
+| Keshava | RC-073 | associado |
+| Lila | RC-075 | associado |
+| Logos / Logos Criadores | RC-076 | associado |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← é-um |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← é-um |
+| Projeto Talm | RC-091 | associado |
 | Shiva (Savna) | RC-102 | **sem aresta** em `RELACOES`; arquivo existe |
 | Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
-| Mohen So (Avatar Keshava de Vishnu) | RC-081 | aresta pré-existente; arquivo existe |
-| Sophia (Cristo Cósmico) | RC-009 | aresta pré-existente; arquivo existe |
-| Rama (avatar de Vishnu) | RC-584 | aresta pré-existente; arquivo existe |
-| Kama (personificação do desejo) | RC-622 | aresta pré-existente; arquivo existe |
-| Narasimha (avatar de Vishnu) | RC-642 | aresta pré-existente; arquivo existe |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | aresta pré-existente; arquivo existe |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | ← associado-a |
+| Prabrajna | RC-152 | variação |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← associado-a |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← variação |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Adhyagya (formas espirituais Adhy) | RC-311 | ← responde-por |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | ← variação |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← é-um |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | associado |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | ← ancora |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← variação |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← variação |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
+| Rama (avatar de Vishnu) | RC-584 | ← é-um |
+| Kama (personificação do desejo) | RC-622 | ← criado-por |
+| Narasimha (avatar de Vishnu) | RC-642 | ← é-um |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← envolve |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | ← relaciona-se-a |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Eru Ilúvatar (criador no Silmarillion) | RC-843 | associado |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 

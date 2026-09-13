@@ -36,12 +36,14 @@ O nome Adhyshprabrajna (Adhy + Prabrajna) revela a linhagem completa: um ser do 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prabrajna | RC-152 | variação |
-| Brahma | RC-037 | variação (pós-queda) |
 | Javé | RC-001 | variação |
 | Adhyatman | RC-013 | condição pré-queda |
 | Adhydaiva | RC-014 | forma pós-queda |
-| Criador | RC-041 | é-um |
+| Brahma (Brajna) | RC-037 | variação |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Prabrajna | RC-152 | variação |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | ← variação |
 
 ## Seres Associados
 Prabrajna (RC-152); Brahma (RC-037); Javé (RC-001); Criador (RC-041).

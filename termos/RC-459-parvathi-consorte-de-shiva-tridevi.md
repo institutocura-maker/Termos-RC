@@ -39,12 +39,15 @@ Com isso:
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | aresta pré-existente; arquivo existe |
-| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | aresta pré-existente; arquivo existe |
 | Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
-| Tridevi | RC-610 | aresta pré-existente; arquivo existe |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | relaciona-se-a |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | é-um |
+| Tridevi | RC-610 | ← inclui |
+| Tridevi | RC-610 | ← inclui |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

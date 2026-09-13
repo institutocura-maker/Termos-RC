@@ -30,13 +30,15 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 > Ver P2026-04-02, U0078–U0093.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-217 | — | relaciona-se-a |
-| RC-619 | — | relaciona-se-a |
-| RC-514 | — | relaciona-se-a |
-| RC-644 | — | relaciona-se-a |
-| RC-646 | — | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | ← busca |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | — |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
+| Humano Turbinado | RC-709 | relaciona-se-a |
 
 ## Seres Associados
 Consultar relações na Base.

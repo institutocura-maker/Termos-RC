@@ -46,12 +46,18 @@ No Mentalma I (B074, cap. 11 — "O 'Eu' que Surge da 'Caixa de Depósitos'"), E
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mentalma | RC-166 | relaciona-se-a (método que desperta) |
-| Disciplina dos 3As | RC-552 | relaciona-se-a (prática de alinhamento) |
-| Eu Coalescente | RC-620 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
+| Mentalma | RC-166 | relaciona-se-a |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | associado |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (prática de alinhamento) |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
+| Eu Coalescente | RC-620 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← hospeda |
 | Ser Humano Não Local | RC-708 | relaciona-se-a |
-| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | ← inclui |
+| Três Faíscas da Consciência Humana | RC-719 | integra |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | ← relaciona-se-a |
 
 ## Seres Associados
 Espírito encarnado; os níveis do "Eu" da "Consciência Particularizada"; Jan Val Ellam (RC-071 — criador do método).

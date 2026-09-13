@@ -34,10 +34,13 @@ Ellam pesquisou casos de abdução no interior do Nordeste (Paraíba, Rio Grande
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Seres Extraterrestres | RC-098 | realizadas-por |
-| Seres Terrenos | RC-099 | vitimas |
-| Fator Extraterrestre | RC-355 | contexto |
-| Revelação Cósmica | RC-094 | contexto |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Seres Extraterrenos / Extraterrestres | RC-098 | realizada-por |
+| Seres Terrenos (Homo Sapiens) | RC-099 | vitimas |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | associado |
+| Cessão Consciente do DNA Humano | RC-698 | ← distingue-se-de |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
 
 ## Seres Associados
 Extraterrestres (RC-098); abduzidos humanos (RC-099); Bob Pratt (pesquisador).

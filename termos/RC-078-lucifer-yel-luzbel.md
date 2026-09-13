@@ -83,6 +83,30 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 - **[P2022-03-26 · LUCIFER COMO AUTOR DO AGENTE, COM O NOME DEFORMADO PELO STT]** "Esse eu caído é um vírus antimaterial. Tudo na obra de Javé é podre, porque tudo se desagregou, tudo virou." (U0007) — A fala grafa o nome em quatro formas degradadas (ver dicionário da apostila); nenhuma é promovida. O conteúdo que transita é o ato — *criar um vírus* — e a definição do agente como eu antimaterial.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | inicia |
+| Exilados de Capela | RC-007 | associado |
+| Anjos caídos | RC-020 | associado |
+| Demônios | RC-050 | associado |
+| Isolamento Cósmico | RC-070 | associado |
+| Mensagem Talm | RC-080 | ← relaciona-se-a |
+| Pandora | RC-086 | associado-a |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
+| Yel (Família Yel) | RC-136 | associado |
+| Yel Luzbel | RC-142 | variação |
+| Trava-demo | RC-184 | associado |
+| Biodemol | RC-186 | associado |
+| O Calvário de um Inocente | RC-236 | ← afeta |
+| Hitler (figura histórica no RC) | RC-239 | associado |
+| Viajores da Rebelião | RC-248 | associado |
+| Sentimento Luciferiano | RC-345 | associado |
+| Jeová (grafia da trilogia) | RC-346 | associado |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← envolve |
+| Vergonha de Existir | RC-747 | ← relaciona-se-a |
+| Melkor (o filho dissonante) | RC-844 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0125–U0156.

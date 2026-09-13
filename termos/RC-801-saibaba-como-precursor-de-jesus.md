@@ -40,14 +40,14 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Estratégia dos Avatares | RC-797 | manifesta-se-em |
-| Jesus como Último Avatar | RC-800 | precede |
-| Mudança de Estratégia das Trevas | RC-798 | primeira-resposta-a |
-| Krishna | RC-102 | paralelo-com (avatar hindu) |
 | Jesus | RC-072 | paralelo-com (avatar cristão) |
-| Sai Baba de Shirdi | RC-927 | inclui (1ª encarnação da linhagem) |
-| Sathya Sai Baba | RC-928 | inclui (2ª encarnação da linhagem) |
-| Prema Sai | RC-929 | inclui (3ª/última encarnação da linhagem) |
+| Shiva (Savna) | RC-102 | paralelo-com (avatar hindu) |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | manifesta-se-em |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | primeira-resposta-a |
+| Jesus como Último Avatar (Não Mata) | RC-800 | precede |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | ← parte-de |
+| Sathya Sai Baba | RC-928 | ← parte-de |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | ← parte-de |
 
 ## Seres Associados
 - **Saibaba** (avatar hindu, ~séc. XIX-XX)

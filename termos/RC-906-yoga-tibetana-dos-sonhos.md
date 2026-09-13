@@ -17,3 +17,9 @@ Yoga Tibetana dos Sonhos — conceito desenvolvido na palestra «A Teia da Vida 
 ## Relações
 - RC-557
 - RC-899
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
+| Bolhas Psíquicas | RC-899 | associado |
+

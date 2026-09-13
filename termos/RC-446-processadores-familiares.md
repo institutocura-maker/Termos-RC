@@ -75,11 +75,11 @@ Nos "Livros de Yel Luzbel", o Processador Familiar é o mecanismo que mantém ca
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia | RC-009 | criado-por |
+| Sophia (Cristo Cósmico) | RC-009 | criado-por |
 | Biodemos | RC-036 | associa-se-a |
-| Família Yel | RC-442 | associado-a (Processador Yel) |
-| Família Mion | RC-443 | associado-a |
 | Processador Val | RC-089 | análogo |
+| Família Yel | RC-442 | associado-a |
+| Família Mion | RC-443 | associado-a |
 
 ## Seres Associados
 Yel Luzbel (RC-142, primeiro a se desligar); Sophia (RC-009, criadora); Sábios das famílias capelinas (administradores).

@@ -51,9 +51,9 @@ O nome que a RC dá ao **tráfego de informação na espiritualidade** — o cir
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Biodemos | RC-036 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
 | — (nenhuma aresta cadastrada) | — | — |
-
-> Lista de leitura do cadastro: **RC-098** (sem arquivo) e **RC-036** (*Biodemos*). Nenhum vínculo estrutural foi criado nesta aplicação (teto de 1.856 arestas).
 
 ## Observações
 

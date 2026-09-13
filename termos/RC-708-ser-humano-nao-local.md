@@ -36,16 +36,30 @@ O termo não se refere a deslocamento físico instantâneo, mas a atuação do e
 > “O ser humano é não local. Ele não precisa estar no lugar para atuar naquele lugar.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Protagonismo Consciencial | RC-509 | realiza |
-| Memória dos Elétrons | RC-161 | envolve |
-| Teia Quântica | RC-559 | atua-em |
-| Terminal Nervoso do Criador | RC-418 | aplica-se-a |
-| Primado da Informação | RC-707 | usa |
-| Camuflagem da Realidade | RC-702 | atravessa |
-| Ser Humano Emancipado | RC-372 | é-um |
+| Memória Quântica dos Elétrons | RC-161 | envolve |
+| Memória Quântica dos Elétrons | RC-161 | envolve |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
+| Holograma Universal | RC-218 | associado |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | relaciona-se-a |
+| O Ser Humano Emancipado | RC-372 | é-um |
+| Terminal Nervoso do Criador (humano) | RC-418 | aplica-se-a |
+| Protagonismo consciencial | RC-509 | realiza |
+| Coleta de informações (espírito encarnado) | RC-524 | associado |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← sustenta-ponte-não-local |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | associado |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | associado |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | atua-em |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
 | Humanos: Últimos e Primeiros | RC-654 | aplica-se-a |
+| Camuflagem da Realidade | RC-702 | atravessa |
+| Primado da Informação | RC-707 | ← relaciona-se-a |
+| Primado da Informação | RC-707 | usa |
+| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
 
 ## Observações Científicas
 Emaranhamento quântico não permite concluir que pensamentos humanos transmitam mensagens controladas instantaneamente. A definição permanece atribuída à palestra.

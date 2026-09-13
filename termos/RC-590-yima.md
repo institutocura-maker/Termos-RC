@@ -33,9 +33,10 @@ A palestra cita Yima ao tratar das eras e de cidades subterrâneas na região da
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Avesta | RC-595 | tema-de |
-| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
 | Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
+| Avesta | RC-595 | tema-de |
+| Avesta | RC-595 | ← inclui |
 
 ## Seres Associados
 —

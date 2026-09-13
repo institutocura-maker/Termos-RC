@@ -39,11 +39,13 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 > "O retorno de Maitreya, a vinda do Avatar Kalki, a volta de Jesus... é continuação da confusão que Marduk fez há 4.000 anos." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Relógio Messiânico | RC-765 | relaciona-se-a |
-| Mohen So = Kalki | RC-282 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | encarnação-posterior-de |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
+| Apolo | RC-306 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
 
 ## Citações-chave
 

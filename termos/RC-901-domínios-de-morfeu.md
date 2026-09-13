@@ -17,3 +17,19 @@ Domínios de Morfeu — conceito desenvolvido na palestra «A Teia da Vida e o C
 ## Relações
 - RC-479
 - RC-899
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Bolhas Psíquicas | RC-899 | associado |
+| Reciclador das Informações Universais | RC-917 | associado |
+| Entropia e Sujeira Original | RC-918 | associado |
+| Vrites | RC-919 | associado |
+| Tátivas | RC-920 | associado |
+| Niroda | RC-921 | associado |
+| Egrégora e Campo Quântico | RC-922 | associado |
+| Programas Encarnatórios | RC-923 | associado |
+| Loop Mental | RC-924 | associado |
+| Espírito como Ator | RC-925 | associado |
+| Lixo de Informações Apodrecidas | RC-926 | associado |
+

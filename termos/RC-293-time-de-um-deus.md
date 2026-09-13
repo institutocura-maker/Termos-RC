@@ -53,11 +53,20 @@ Quanto mais cidades "conquistadas", preces e sacrifícios um deus recebia, "maio
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Telos (de um deus) | RC-292 | relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Jesus | RC-072 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Zeus | RC-145 | valoriza |
-| Eon de Khaos | RC-294 | ambiente |
 | Seres dos Portais | RC-241 | é-um (deuses) |
-| Prometeu | RC-301 | corresponde-a (varna) |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | expressa-se-em |
+| Telos (de um deus) | RC-292 | ← relaciona-se-a |
+| Eon de Khaos (Universo de Caos) | RC-294 | ambiente |
+| Prometeu (titã) | RC-301 | corresponde-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Indra (título de arconte) | RC-480 | associado |
+| Dinastia das Sophias | RC-494 | associado |
+| Urdidura de Metatron | RC-674 | associado |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
 
 ## Seres Associados
 Zeus (RC-145); deuses do Olimpo (RC-241/RC-049).

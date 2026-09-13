@@ -38,8 +38,9 @@ Com isso:
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Nidana (ovo cósmico) | RC-154 | **sem aresta** em `RELACOES`; arquivo existe |
-| Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
 | Brahmaloka | RC-038 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
+| Nidana (ovo cósmico) | RC-154 | **sem aresta** em `RELACOES`; arquivo existe |
+

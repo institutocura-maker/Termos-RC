@@ -67,9 +67,12 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 > **Demarcação de autoria:** a releitura vibracional (caixa como DNA espiritual) é interpretação do artigo ART-2026-08-18 (fonte secundária confiável), enriquecendo este verbete sem alterar o núcleo canônico.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Pandora | RC-086 | relaciona-se-a |
-| En Ma (espírito-âncora) | RC-476 | (contexto) |
-| Tikun Cósmico | RC-514 | relaciona-se-a |
+| Pandora | RC-086 | associado-a |
+| Pandora | RC-086 | ← relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Zeus | RC-145 | associado |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | (contexto) |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+

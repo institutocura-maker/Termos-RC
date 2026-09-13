@@ -44,7 +44,7 @@ No B057: "Eu, Yel Luzbel, **um dos primeiros pesquisadores da família Yel**, fu
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Yel Luzbel | RC-142 | associado-a (Yel Luzbel exercia o cargo — relação B057) |
+| Yel Luzbel | RC-142 | associado-a |
 | Família Yel | RC-442 | associado-a (cargo da família) |
 
 ## Seres Associados

@@ -21,10 +21,12 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-016 | — | relacionado |
-| RC-577 | — | relacionado |
+| Adhyajna | RC-016 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | — |
+| Rakshasas | RC-581 | ← relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

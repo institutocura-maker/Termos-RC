@@ -26,15 +26,16 @@ Gênero espiritual da Espiritualidade Laboratorial (Perpérion): "Gênero espiri
 > "Os 147 seres que terminaram compondo essa espécie ou esse gênero... eles são gênero, porque esses 147 seres, nesse número pequeno, têm cinco tipos de seres que compõem os 147 seres; então são cinco espécies formando esse gênero." — P2021-12-04 (apud RC-411)
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Adhyagia | RC-012 | tem-condição |
 | Adhyatman | RC-013 | personifica-se-como (imantado) |
 | Adhydaiva | RC-014 | expressa-se-como (caídos) |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
 | Divindades (Co-criadoras) | RC-054 | associado-a |
-| Gênero Adhy (147 seres) | RC-411 | recenseado-em |
 | Perpérion | RC-087 | habita |
+| Adhytia (nível hierárquico) | RC-308 | ← é-um |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | ← é-um |
 
 ## Observações
 

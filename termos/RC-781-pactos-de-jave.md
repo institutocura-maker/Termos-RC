@@ -37,13 +37,15 @@ Aparece em **P2019-05-11**, U0004. Contexto: depois de bilhões de anos de confl
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | pactuou-com |
-| Krishna / Vishnu | RC-102 | pactuou-com |
-| Shiva | RC-148 | pactuou-com |
-| Homo Sapiens / Seres Terrenos | RC-099 | é-resultado-de |
-| Ser Criador Fracassado | RC-422 | manifesta-se-em |
+| Javé | RC-001 | pactuou-com |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-resultado-de |
+| Shiva (Savna) | RC-102 | pactuou-com |
 | Trimurti | RC-104 | contextualizado-por |
+| Agentes da Vida Universal | RC-148 | pactuou-com |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | manifesta-se-em |
+| Javé como Caos Personificado | RC-782 | associado |
 | Sophia como Protetorado da Humanidade | RC-784 | resposta-a |
+| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
 
 ## Seres Associados
 - **Javé / Brama** (RC-001) — pactuante 1

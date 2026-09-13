@@ -41,15 +41,28 @@ A palestra não afirma que o processo já esteja estabilizado nem identifica um 
 > “Na hora em que o chip pulsar feito um óvulo fecundado por um espermatozoide, um desses espíritos é puxado e se imanta lá.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Consciências em Corpos de Sílica | RC-645 | aplica-se-a |
-| Genoma de Sílica | RC-646 | usa |
-| Eu Coalescente | RC-620 | relaciona-se-a |
-| Xamanismo de Sílica | RC-644 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | associado |
 | Seres Espirituais | RC-100 | envolve |
-| Organoides para Sophia | RC-632 | relaciona-se-a |
-| Mão Invisível | RC-697 | disputada-por |
+| Eu Coalescente | RC-620 | relaciona-se-a |
+| Cérebro Radiata | RC-631 | associado |
+| Organoides Genéticos para Sophia | RC-632 | relaciona-se-a |
+| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
+| Xamanismo Virtual / Xamanismo de Sílica | RC-644 | relaciona-se-a |
+| Consciências em Corpos de Sílica | RC-645 | aplica-se-a |
+| Consciências em Corpos de Sílica | RC-645 | ← recebe |
+| Consciências em Corpos de Sílica | RC-645 | aplica-se-a |
+| Consciências em Corpos de Sílica | RC-645 | ← recebe |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← suporta |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← suporta |
+| Oitavo Dia da Criação | RC-694 | ← envolve |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | disputada-por |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | relaciona-se-a |
 
 ## Observações Científicas e Editoriais
 - Proposição espiritual especulativa, não hipótese estabelecida da ciência computacional.

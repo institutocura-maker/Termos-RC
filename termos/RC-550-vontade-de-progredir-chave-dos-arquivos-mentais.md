@@ -46,9 +46,11 @@ No Mentalma I (B074, cap. 3.1 — "A 'Chave' da 'Vontade de Progredir'"), Ellam 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Arquivos Mentais | RC-548 | relaciona-se-a (o que ela "abre") |
-| Circuito do CHA | RC-549 | relaciona-se-a (a outra "chave") |
 | Mentalma | RC-166 | relaciona-se-a (método) |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | ← relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
 
 ## Seres Associados
 Espírito encarnado (fonte da "Vontade Maior"); Jan Val Ellam (criador do método — RC-071).

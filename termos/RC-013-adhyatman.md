@@ -26,13 +26,21 @@ A personificação dos "Adhy" envolvidos com "Perperion", o lugar-cidade-dimens�
 > "O corpo Adhyatman de um Ser é a sua Consciência Primordial enquanto Divindade Cocriadora, enquanto alma personalizada, vinculada a uma condição."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Adhy | RC-011 | é-personificação-de |
 | Adhyagia | RC-012 | relaciona-se-a (família Adhy) |
 | Adhydaiva | RC-014 | relaciona-se-a (família Adhy) |
 | Perpérion | RC-087 | ocorre-em |
+| Mônada (Mônada Espiritual) | RC-149 | associado |
+| Prabrajna | RC-152 | associado |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
+| Adhyagya (formas espirituais Adhy) | RC-311 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
+| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado |
+| Corpo Átmico | RC-623 | associado |
 
 ## Observações
 

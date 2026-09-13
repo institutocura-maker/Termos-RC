@@ -41,14 +41,13 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 > "O nome disso, pessoal, é bagagem espiritual intransferível. Cada espírito tem uma bagagem de conectomas quânticos, que corresponde ao álbum de figurinhas memorial associado a emoções de cada vida. E o espírito guarda tudo isso na sua mente eterna."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Agenda Espiritual | RC-752 | gera |
-| Arquivos Mentais | RC-548 | relaciona-se-a |
-| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a (continuidade do eu) |
 | Criaturas-ferramenta | RC-164 | relaciona-se-a |
-| Favor Divino | RC-332 | relaciona-se-a |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
+| Agenda Espiritual | RC-752 | gera |
 
 ## Blindagem epistemológica
 

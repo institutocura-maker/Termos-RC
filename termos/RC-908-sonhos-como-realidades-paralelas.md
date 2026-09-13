@@ -17,3 +17,9 @@ Sonhos como Realidades Paralelas — conceito desenvolvido na palestra «A Teia 
 ## Relações
 - RC-557
 - RC-628
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
+| Simultaneidade Reversa | RC-628 | associado |
+

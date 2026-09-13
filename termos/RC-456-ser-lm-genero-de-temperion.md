@@ -35,10 +35,18 @@ A palestra descreve um grupo de cinco LM enviado a Perpérion. A maioria retorna
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
 | Perpérion | RC-087 | enviado-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← é-um |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← é-um |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← é-um |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← é-um |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ocorre-em |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ← abriga |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
+| Cinco Seres LM de Tempérion | RC-607 | ← é-um |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | ← estudado-por |
+| Conclave da Espiritualidade Laboratorial | RC-635 | ← envolve |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

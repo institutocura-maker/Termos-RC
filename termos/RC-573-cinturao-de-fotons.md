@@ -39,10 +39,10 @@ Campo de fótons atribuído, na palestra, ao sistema de Alcíone e atravessado p
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Alcíone (Sistema) | RC-574 | associado-a |
-| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
-| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | relaciona-se-a |
 | Transição Planetária | RC-344 | relaciona-se-a |
+| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | relaciona-se-a |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
+| Alcíone (Sistema) | RC-574 | associado-a |
 
 ## Seres Associados
 —

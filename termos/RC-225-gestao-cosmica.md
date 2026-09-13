@@ -36,11 +36,12 @@ A Gestão Cósmica é o pano de fundo "político" do drama: as mitologias de tod
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Trimurti | RC-104 | envolve |
 | Javé | RC-001 | gestor atual |
-| Jesus | RC-072 | co-gestor (divisão) |
-| Era da Geopolítica Universal | RC-171 | desdobramento |
-| Eras da Criação | RC-155 | fonte-em |
+| Jesus | RC-072 | divide-com |
+| Trimurti | RC-104 | envolve |
+| Eras da Criação (10 eras) | RC-155 | ← fonte-em |
+| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | desdobramento |
+| Janelas Cósmicas (métricas temporais) | RC-570 | ← relaciona-se-a |
 | Sai Baba | (candidato) | Shiva (termos delineados) |
 
 ## Seres Associados

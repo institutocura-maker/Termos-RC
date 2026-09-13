@@ -18,6 +18,19 @@ Na sequência descrita por Ellam, a experiência da incompletude exigiu sucessiv
 - Variações: Espiritualidade Operativa (grafia encontrada em fichas da Base)
 - Corpo associado: corpo búdico
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Superior | RC-059 | associado |
+| Espiritualidade Laboratorial | RC-061 | associado |
+| Seres Espirituais | RC-100 | associado |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← inclui |
+| Seres Originais do Paraíso | RC-600 | ← cria |
+| Departamentalização da Vida | RC-601 | ← envolve |
+| Protocolos / Algoritmos da Perfeição | RC-606 | ← precede |
+| Corpo Búdico | RC-624 | associada-a |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

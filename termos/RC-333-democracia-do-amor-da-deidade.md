@@ -35,12 +35,13 @@ A Democracia do Amor é o atributo da Deidade ("Esta é somente amor"): "Quem é
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Teocracia da Doença | RC-334 | opõe-se-a |
-| Deidade | RC-047 | é-um (atributo) |
-| Deus Incognoscível | RC-052 | é-um |
-| Mônada | RC-149 | é-um (emanadas) |
-| Favor Divino | RC-332 | contraponto |
-| Liberdade Mental | RC-253 | relaciona-se-a |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | é-um |
+| Deus / Deus Incognoscível | RC-052 | é-um |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Mônada (Mônada Espiritual) | RC-149 | ← é-um |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Favor Divino (conceito invertido) | RC-332 | contraponto |
+| Teocracia da Doença de uma Divindade | RC-334 | opõe-se-a |
 
 ## Seres Associados
 Deidade (RC-047); Seres Terrenos (RC-099, beneficiários da liberdade).

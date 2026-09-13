@@ -52,9 +52,9 @@ No Livro 2 (B058), as designações se sucedem: "Sophia e as suas Hostes" (recor
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | associado-a (a serviço de — relação B058) |
-| Revolta Capelina | RC-450 | envolve (o alvo bélico do "Exército") |
+| Sophia (Cristo Cósmico) | RC-009 | associado-a |
 | Biodemos | RC-036 | relaciona-se-a (os dois lados do conflito) |
+| Revolta Capelina | RC-450 | envolve (o alvo bélico do "Exército") |
 
 ## Seres Associados
 Sophia (RC-009, o comandante); os Administradores/Assessores; os "anjos assessores" (B057, p. 45); Yel Luzbel e Len Mion (os adversários).

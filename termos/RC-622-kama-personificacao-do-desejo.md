@@ -39,9 +39,12 @@ Surge após a externalização da cólera: o desejo coletivo dos deuses de levar
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Vishnu (Mavatna) | RC-135 | criado-por |
-| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a |
 | Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a |
+| Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
 | Nyx | RC-621 | relaciona-se-a |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | associado |
 
 ## Seres Associados
 Consultar relações acima.

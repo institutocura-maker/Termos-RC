@@ -50,10 +50,13 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Descendência de Pirra (Pirra e Deucalião) | RC-298 | origina (a mãe da descendência) |
-| Epimeteu (titã) | RC-302 | filha-de (o pai) |
 | Pandora | RC-086 | criada-por (a co-criadora) |
-| (relação prévia) | RC-304 | ver malha |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | parte-de |
+| Epimeteu (titã) | RC-302 | filha-de (o pai) |
+| Deucalião | RC-304 | ver malha |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | associado |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | associado |
 
 ## Seres Associados
 Pandora (RC-086) e Epimeteu (RC-302, os criadores); Prometeu (RC-301, o "tio"); o macho especial (o aluno).

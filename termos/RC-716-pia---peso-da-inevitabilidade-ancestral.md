@@ -44,16 +44,29 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 > “Moros mediu o Peso da Inevitabilidade Ancestral.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Moros/Elm | RC-454 | mapeado-por |
-| Herança Cósmica | RC-519 | atua-em |
-| DNA do Criador | RC-217 | atua-em |
-| Wyrd/Urd | RC-658 | processado-por |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-em |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
+| Favor Divino (conceito invertido) | RC-332 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | mapeado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← mapeia |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | atua-em |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
+| Wyrd / Urd (Teia do Destino) | RC-658 | processado-por |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← processa |
+| Arquivos do Destino Universal | RC-714 | ← relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | registrado-em |
+| Informações Vivas | RC-715 | ← medida-por |
 | Informações Vivas | RC-715 | mede |
-| Favor Divino | RC-332 | relaciona-se-a |
-| Arquivos do Destino | RC-714 | registrado-em |
-| Sócios do Destino | RC-720 | submete |
+| Informações Vivas | RC-715 | ← relaciona-se-a |
+| Informações Vivas | RC-715 | relaciona-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | submete |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← envolve |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
+| Melkor (o filho dissonante) | RC-844 | associado |
 
 ## Observações
 - Anankê permanece em quarentena.

@@ -35,11 +35,15 @@ A Genética da Confiança é o contraponto do **Germe da Desconfiança** (RC-244
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origem da superação |
+| Seres Terrenos (Homo Sapiens) | RC-099 | base-do |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
+| Éden do Criador (Éden como laboratório) | RC-242 | local de surgimento |
 | Germe da Desconfiança | RC-244 | opõe-se-a |
-| Éden do Criador | RC-242 | local de surgimento |
-| Seres Terrenos | RC-099 | base-do |
-| Criador | RC-041 | origem da superação |
+| A Humanização do Criador | RC-245 | associado |
 | Laboratórios do Criador | RC-251 | contexto |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
+| Vacina do Amor (ancoragem de Jesus no CFD) | RC-532 | associado |
 
 ## Seres Associados
 Seres Terrenos (RC-099); Criador (RC-041); Adão e Eva (RC-189).

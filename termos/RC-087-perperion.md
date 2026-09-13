@@ -43,17 +43,31 @@ A palestra o apresenta junto a Antérion, Danérion, Mermérion e Tempérion. É
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prabrajna | RC-152 | relaciona-se-a |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | parte-de |
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
+| Adhy | RC-011 | associado |
+| Adhyagia | RC-012 | associado |
 | Adhyatman | RC-013 | relaciona-se-a |
 | Demiurgo | RC-048 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← enviado-a |
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
 | Universo Material (Bhuloka) | RC-107 | relaciona-se-a |
-| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
-| Impérial — erro histórico de STT (ver Perpérion RC-087) | RC-497 | relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Prabrajna | RC-152 | abriga |
+| Criação Indevida (Obra indevida) | RC-167 | ← inicia-em |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | abriga |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← enviado-a |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | abriga |
+| Ser LM (gênero de Tempérion) | RC-456 | ← enviado-a |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ← relaciona-se-a |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | ← inclui |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | parte-de |
+| Impérial — erro histórico de STT (ver Perpérion RC-087) | RC-497 | ← erro-stt-de |
+| Archeons de Ereon | RC-596 | ← inclui |
+| Antérion | RC-597 | associado |
+| Danérion | RC-598 | associado |
+| Mermérion | RC-599 | associado |
+| Cinco Seres LM de Tempérion | RC-607 | ← enviado-a |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

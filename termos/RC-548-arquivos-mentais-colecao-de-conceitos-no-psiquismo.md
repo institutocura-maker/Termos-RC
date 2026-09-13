@@ -55,11 +55,20 @@ No Mentalma I (B074, cap. 2 — "Cada Conceito, um Arquivo Mental"), Ellam expli
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mentalma | RC-166 | é-um (base do método) |
-| Circuito do CHA | RC-549 | relaciona-se-a (define os arquivos) |
-| Vontade de Progredir | RC-550 | relaciona-se-a (chave de acesso) |
-| Dehatma Buddhi | RC-551 | relaciona-se-a |
-| Protocolo Mental | RC-517 | relaciona-se-a |
+| Mentalma | RC-166 | é-um |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | ← relaciona-se-a |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | ← relaciona-se-a |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Corpo Sutil Reencarnante | RC-704 | ← transporta |
+| Universo de Egrégoras Emocionais | RC-711 | ← usa |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← registradas-em |
+| Dominação Psíquica pela Devoção | RC-733 | associado |
+| Bagagem Espiritual Intransferível | RC-751 | ← relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
 
 ## Seres Associados
 Espírito encarnado (colecionador dos arquivos); Jan Val Ellam (criador do método).

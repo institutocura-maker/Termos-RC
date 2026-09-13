@@ -41,9 +41,10 @@ No B057 (cap. 2, pp. 21–22), Yel Luzbel explica o gênero capelino por contras
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Biodemos | RC-036 | variação (biocoletivos = coletivos de biodemos — relação B057) |
+| Biodemos | RC-036 | variação |
 | Família Yel | RC-442 | é-um (biocoletivo) |
 | Família Mion | RC-443 | é-um (biocoletivo) |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | associado |
 | Revolta Capelina | RC-450 | relaciona-se-a |
 
 ## Seres Associados

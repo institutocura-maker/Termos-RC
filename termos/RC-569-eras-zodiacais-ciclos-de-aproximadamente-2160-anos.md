@@ -28,11 +28,13 @@ Segundo a palestra, tornaram-se relógio para pactos, apostas, avatares e regên
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Alvorecer de Aquário | RC-405 | relaciona-se-a |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | ← divide-se-em |
 | Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | parte-de |
 | Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | relaciona-se-a |
+| Janelas Cósmicas (métricas temporais) | RC-570 | ← usa |
 | Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
-| Era de Peixes | RC-592 | relaciona-se-a |
-| Alvorecer de Aquário | RC-405 | relaciona-se-a |
+| Era de Peixes | RC-592 | ← é-um |
 
 ## Seres Associados
 —

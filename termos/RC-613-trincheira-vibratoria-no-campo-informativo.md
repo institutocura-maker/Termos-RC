@@ -44,9 +44,11 @@ O Portal de Comunicação com o Paraíso foi absorvido nesta ficha por decisão 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | atravessa |
 | Seres Originais do Paraíso | RC-600 | comunica-com |
-| Nova Espiritualidade / Novo Paraíso | RC-612 | relaciona-se-a |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | atravessa |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | base-de |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

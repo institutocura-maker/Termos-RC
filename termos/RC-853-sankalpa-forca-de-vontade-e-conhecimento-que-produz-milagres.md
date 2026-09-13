@@ -38,10 +38,11 @@ Com isso:
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Lila | RC-075 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

@@ -24,6 +24,11 @@ Aberta pelo F043-T3 (despacho de 06/09/2026, §2): expansão limitada aos termos
 - **Variações / grafias alternativas:** (nenhuma registrada no censo)
 - **Idioma de origem:** português (registro do grupo)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Choque de Realidade | RC-898 | associado |
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|

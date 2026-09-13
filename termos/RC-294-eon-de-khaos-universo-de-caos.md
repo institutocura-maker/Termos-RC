@@ -37,11 +37,13 @@ O "Eon de Khaos" é o nome grego para o universo antimaterial (Brahmaloka) visto
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Caos = Brahma = Javé | RC-284 | variação (dono) |
-| Universo Antimaterial | RC-106 | é-um |
 | Brahmaloka | RC-038 | é-um |
-| Lokas | RC-077 | inclui (genos) |
-| Timé | RC-293 | contexto (domínio) |
+| Lokas | RC-077 | inclui |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | é-um |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação |
+| Telos (de um deus) | RC-292 | associado |
+| Timé (de um deus) | RC-293 | contexto (domínio) |
+| Antimundo / antimatéria ('outro lado' da criação) | RC-527 | associado |
 
 ## Seres Associados
 Caos/Javé (RC-284); Zeus (RC-145); demos (RC-049).

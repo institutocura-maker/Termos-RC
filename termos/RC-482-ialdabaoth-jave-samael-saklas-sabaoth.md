@@ -34,13 +34,13 @@ A palestra confirma e amplia os epítetos: Samael/Sáclas/Aldabaof/Sabaof (STT d
 > "Samael, o soberano cego, também chamado de Sácala, o ignorante, e de Aldabaof, que é o blasfemador contra o divino, e de Sabaov... tudo isso é sinônimo pro nome de Javé." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Hipóstase dos Arcontes | RC-770 | relaciona-se-a |
-| Javé | RC-001 | relaciona-se-a |
-| Pistis Sophia | RC-530 | relaciona-se-a |
+| Javé | RC-001 | sinônimo |
 | Prabrajna | RC-152 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
 
 ## Observações
 

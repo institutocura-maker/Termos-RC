@@ -31,7 +31,9 @@ A departamentalização permitiria experiências intramuros, limitando a exporta
 | Espiritualidade Superior | RC-059 | envolve |
 | Espiritualidade Operacional | RC-060 | envolve |
 | Espiritualidade Laboratorial | RC-061 | envolve |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
 | Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | produz |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← parte-de |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

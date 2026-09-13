@@ -38,10 +38,12 @@ Com isso:
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
 | Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
-| Vishnu (Mavatna) | RC-135 | **sem aresta** em `RELACOES`; arquivo existe |
-| Shiva (Savna) | RC-102 | **sem aresta** em `RELACOES`; arquivo existe |
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | **sem aresta** em `RELACOES`; arquivo existe |
+| Shiva (Savna) | RC-102 | **sem aresta** em `RELACOES`; arquivo existe |
+| Vishnu (Mavatna) | RC-135 | **sem aresta** em `RELACOES`; arquivo existe |
+| Prabrajna | RC-152 | **sem aresta** em `RELACOES`; arquivo existe |
+| Melkor (o filho dissonante) | RC-844 | associado |
+

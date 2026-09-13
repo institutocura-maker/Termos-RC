@@ -49,16 +49,23 @@ Forma canônica: **cessão**, ato de ceder. Corrigir o STT `sessão consciencial
 > “Esse DNA humano tem que ser cedido de maneira consciente.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| DNA do Criador | RC-217 | aplica-se-a |
-| Abduções e Reparo | RC-359 | distingue-se-de |
-| Coconstrutores da Obra | RC-545 | relaciona-se-a |
-| Evolução da Informação | RC-693 | relaciona-se-a |
-| Descendência de Kadru | RC-664 | relaciona-se-a |
 | Especiação | RC-056 | aplica-se-a |
-| Novo Homo sapiens | RC-544 | relaciona-se-a |
-| Oitavo Dia | RC-694 | integra |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | aplica-se-a |
+| Abduções e Reparo Espiritual | RC-359 | distingue-se-de |
+| Abduções e Reparo Espiritual | RC-359 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | relaciona-se-a |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← envolve |
+| Oitavo Dia da Criação | RC-694 | integra |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
 
 ## Observações Científicas
 Não existe base genética ou biomédica conhecida para a exigência de anuência consciencial na funcionalidade do DNA transplantado. Manter a proposição atribuída ao palestrante.

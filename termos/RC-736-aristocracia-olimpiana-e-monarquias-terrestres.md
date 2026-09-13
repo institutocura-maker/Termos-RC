@@ -21,27 +21,30 @@
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-001 | relaciona-se-a / ver grafo |
-| RC-037 | relaciona-se-a / ver grafo |
-| RC-041 | relaciona-se-a / ver grafo |
-| RC-049 | relaciona-se-a / ver grafo |
-| RC-145 | relaciona-se-a / ver grafo |
-| RC-194 | relaciona-se-a / ver grafo |
-| RC-202 | relaciona-se-a / ver grafo |
-| RC-240 | relaciona-se-a / ver grafo |
-| RC-254 | relaciona-se-a / ver grafo |
-| RC-269 | relaciona-se-a / ver grafo |
-| RC-293 | relaciona-se-a / ver grafo |
-| RC-323 | relaciona-se-a / ver grafo |
-| RC-325 | relaciona-se-a / ver grafo |
-| RC-480 | relaciona-se-a / ver grafo |
-| RC-531 | relaciona-se-a / ver grafo |
-| RC-697 | relaciona-se-a / ver grafo |
-| RC-737 | relaciona-se-a / ver grafo |
-| RC-741 | relaciona-se-a / ver grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | atribuído-a |
+| Brahma (Brajna) | RC-037 | relaciona-se-a / ver grafo |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | relaciona-se-a / ver grafo |
+| Demos | RC-049 | relaciona-se-a / ver grafo |
+| Zeus | RC-145 | relaciona-se-a / ver grafo |
+| Big Data Cósmico | RC-194 | relaciona-se-a / ver grafo |
+| Linhagens Preferenciais do Criador | RC-202 | relaciona-se-a / ver grafo |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | manifesta-se-em |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | relaciona-se-a / ver grafo |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | opera-por |
+| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Entroncamentos Genéticos Intersiderais | RC-323 | relaciona-se-a / ver grafo |
+| Genética Totalitária | RC-325 | relaciona-se-a / ver grafo |
+| Indra (título de arconte) | RC-480 | relaciona-se-a / ver grafo |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | relaciona-se-a |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a / ver grafo |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Projeto Amaterasu–Kami no Japão | RC-737 | inclui |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | relaciona-se-a |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | ← relaciona-se-a |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a |
+| Projeto Orunmilá–Olodus | RC-741 | inclui |
 
 ## Glossário interno / absorções
 

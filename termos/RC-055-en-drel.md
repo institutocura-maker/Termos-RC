@@ -29,11 +29,12 @@ O B015 (cap. 4, "A Geração dos En Drel") detalha a origem: foram **forjados po
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Zont En Drel 29 | RC-147 | é-um (desperto) |
-| Endrelnianos | RC-247 | membros |
-| Dez Sagrados | RC-246 | mentor |
-| Anjos clones | RC-019 | é-um |
 | Javé | RC-001 | criado-por |
+| Anjos clones | RC-019 | é-um |
+| Zont En Drel 29 | RC-147 | ← é-um |
+| Dez Sagrados (primeira geração do Criador) | RC-246 | ← mentor-de |
+| Endrelnianos | RC-247 | ← é-um |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | associado |
 
 ## Seres Associados
 Javé (RC-001); Zont En Drel 29 (RC-147); Comandante En Drel 1; Criador (RC-041).

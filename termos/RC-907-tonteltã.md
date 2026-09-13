@@ -17,3 +17,9 @@ Tonteltã — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oc
 ## Relações
 - RC-072
 - RC-490
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+

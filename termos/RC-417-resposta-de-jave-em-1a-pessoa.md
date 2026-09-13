@@ -36,11 +36,12 @@ A Resposta de Javé é a **única fala extensa do Criador em 1ª pessoa** no cor
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Cartas a Javé | RC-416 | responde-a |
-| "Sou eu que vivo em vocês" | RC-419 | é-um (frase) |
-| Javé | RC-001 | é-um (autor) |
-| Terminal Nervoso do Criador | RC-418 | tema |
-| Vida do CFD no Ser Humano | RC-382 | relaciona-se-a |
+| Javé | RC-001 | é-um |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| A Vida do CFD de Javé no Ser Humano | RC-382 | relaciona-se-a |
+| Cartas a Javé (obra e diálogo) | RC-416 | responde-a |
+| Terminal Nervoso do Criador (humano) | RC-418 | tema |
+| Sou eu que vivo em vocês (Javé) | RC-419 | é-um (frase) |
 
 ## Seres Associados
 Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário).

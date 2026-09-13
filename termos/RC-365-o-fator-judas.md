@@ -52,10 +52,13 @@ O B011 (Jesus e o Enigma da Transfiguração) narra os fatos do período final d
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Yel Am / Yel Liam (Judas) | RC-138 | envolve |
-| O Calvário de um Inocente | RC-236 | relaciona-se-a |
 | Jesus | RC-072 | envolve |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Yel Am / Yel Liam | RC-138 | envolve |
+| Yel Am / Yel Liam | RC-138 | reabilita |
+| O Calvário de um Inocente | RC-236 | relaciona-se-a |
 | O Enigma da Transfiguração | RC-366 | contexto |
+| Evangelho de Judas | RC-647 | ← tema-de |
 
 ## Seres Associados
 Judas (Yel Am/Yel Liam, RC-138); Jesus (RC-072); Tiago (narrador).

@@ -44,11 +44,13 @@ Com isso:
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Radiatas | RC-093 | **sem aresta** em `RELACOES`; arquivo existe |
 | Biodemos | RC-036 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cérebro Radiata | RC-631 | aresta pré-existente; arquivo existe |
+| Radiatas | RC-093 | **sem aresta** em `RELACOES`; arquivo existe |
+| Cérebro Radiata | RC-631 | ← distingue-se-de |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
 ## Ampliação — P2019-08-25 (Os Três Fornos Replicadores do Projeto Talm)
 

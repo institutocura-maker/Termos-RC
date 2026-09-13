@@ -31,11 +31,11 @@ A fala descreve um circuito interno de 14 e uma corrente secundária; esse detal
 > “Numa reunião desses 43, em que 14 se uniram mais ainda num circuito fechado.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | envolve |
 | Prabrajna | RC-152 | envolve |
 | Criação Indevida (Obra indevida) | RC-167 | resulta-em |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | envolve |
 | Simultaneidade Reversa | RC-628 | relaciona-se-a |
 
 ## Seres Associados

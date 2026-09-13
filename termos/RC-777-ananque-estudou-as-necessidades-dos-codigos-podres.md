@@ -60,9 +60,10 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Moros (Elm) | RC-454 | relaciona-se-a |
-| Moiras / Nornes / Parcas | RC-467 | relaciona-se-a |
-| Éon das Três Esferas | RC-775 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a |
 
 ## Observações
 - ~~[REVISAR — grafia/fonética]: nome provisório; aguarda confirmação em fonte primária (palestra/livro)~~ — **RESOLVIDO (2026-08-27): grafia consagrada ANANQUE pela Devolutiva O-4 da P2021-07-24**;

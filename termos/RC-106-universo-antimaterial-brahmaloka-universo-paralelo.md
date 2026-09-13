@@ -30,6 +30,55 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 - 0 códigos novos (O-3).
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Reintegração Cósmica | RC-003 | ← envolve |
+| Big Bang | RC-034 | associado |
+| Brahmaloka | RC-038 | sinônimo |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
+| Fenvans | RC-064 | associado |
+| Lokas | RC-077 | associado |
+| Perpérion | RC-087 | associado |
+| Projeto Planeta Azul | RC-090 | associado |
+| Projeto Talm | RC-091 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Septuaginta | RC-096 | associado |
+| Seres Extrafísicos | RC-097 | associado |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Universo Paralelo | RC-108 | sinônimo |
+| Universo Paralelo | RC-108 | variação |
+| Agentes da Vida Universal | RC-148 | associado |
+| Colmeia Universal | RC-174 | associado |
+| Dois Grandes Favos | RC-178 | parte-de |
+| Centro de Comando Paralelo | RC-213 | associado |
+| Holograma Universal | RC-218 | associado |
+| Sustentação Espiritual do Universo | RC-221 | associado |
+| Prisioneiros da Brahmaloka | RC-260 | associado |
+| Eon de Khaos (Universo de Caos) | RC-294 | associado |
+| Drama do Fechamento dos Portais | RC-295 | associado |
+| Criação Bipartida | RC-312 | ← inclui |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | ← vincula |
+| Bifrost (Portal interdimensional) | RC-471 | ← relaciona-se-a |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | ← relaciona-se-a |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | ← relaciona-se-a |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | ← relaciona-se-a |
+| Antimundo / antimatéria ('outro lado' da criação) | RC-527 | ← variação |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | ← relaciona-se-a |
+| Rakshasas | RC-581 | associado |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← ocorre-em |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← ocorre-em |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← ocorre-em |
+| Transferência da Memória dos Antielétrons | RC-637 | ← origem-em |
+| Transferência da Memória dos Antielétrons | RC-637 | ← transfere-para |
+| Transferência da Memória dos Antielétrons | RC-637 | ← origem-em |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | ← ocorre-em |
+| Colapso do Caos Organizado | RC-690 | ← afeta |
+| Colapso do Caos Organizado | RC-690 | ← afeta |
+| Axis Mundi / Axismund | RC-731 | associado |
+| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
+| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0114–U0121; U0129–U0156; U0414–U0425.

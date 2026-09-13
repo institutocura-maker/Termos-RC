@@ -32,6 +32,13 @@ E (Aula 04), sobre a releitura romana:
 - **Variações / grafias alternativas:** (STT «Anais» = Anás; «Sinédrio» como grafia fixa)
 - **Idioma de origem:** — (pessoa + instituição)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | associado |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

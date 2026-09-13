@@ -74,14 +74,15 @@ Mecânica técnica de funcionamento psíquico apresentada por Jan Val Ellam (P20
 > "Segundo Patanjali, a mente humana é uma assembleia de cittas que disputam permanentemente o controle do eu daquele ser humano... Isso aqui é a vontade de sobrevivência que loucamente Javé criou para ele mesmo quando ele caiu." — P2024-02-03
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Teia quântica | RC-559 | relaciona-se-a |
-| Protocolo Mental | RC-517 | relaciona-se-a |
-| Arquivos Mentais | RC-548 | relaciona-se-a |
-| Jainismo (antigo Druidismo) | RC-759 | relaciona-se-a |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
 
 ## Blindagem epistemológica — QUARENTENA CLÍNICA
 

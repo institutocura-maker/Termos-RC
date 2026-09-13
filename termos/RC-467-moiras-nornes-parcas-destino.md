@@ -122,12 +122,27 @@ As fiandeiras do destino na mitologia grega (Moiras), nórdica (Nornes) e romana
 > Orlog ficou tão pressionado que ele resolveu criar três seres: Urd, Verdandi e Skuld.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Wyrd/Urd | RC-658 | relaciona-se-a |
-| Elm (Moros) | RC-454 | relaciona-se-a |
-| Teia quântica | RC-559 | relaciona-se-a |
+| Zeus | RC-145 | associado |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← cria |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | criado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | operam-em |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | associado |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | ← relaciona-se-a |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | ← relaciona-se-a |
 
 ## Observações
 

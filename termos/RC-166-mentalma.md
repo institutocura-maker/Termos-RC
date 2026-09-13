@@ -114,13 +114,29 @@ Criado ao longo dos anos pelo próprio Ellam ("fui transformando as minhas atua�
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Arquivos Mentais | RC-548 | é-um (base do método) |
-| Circuito do CHA | RC-549 | relaciona-se-a |
-| Vontade de Progredir | RC-550 | relaciona-se-a |
-| Dehatma Buddhi | RC-551 | relaciona-se-a (doença que o método trata) |
-| Disciplina dos 3As | RC-552 | relaciona-se-a |
-| Eu Profundo | RC-553 | relaciona-se-a |
-| Série Mentalma | RC-555 | relaciona-se-a (os livros) |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | ← é-um |
+| Circuito do CHA (Circunstâncias+Herança+Atitude) | RC-549 | relaciona-se-a |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | ← relaciona-se-a |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | ← relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | ← relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | ← é-um |
+| Série Mentalma (5 livros + curso) | RC-555 | ← relaciona-se-a |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
+| Protocolo da Busca | RC-566 | orienta |
+| Moksha | RC-618 | ← relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | ← relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Áurea Catena | RC-663 | associado |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | associado |
+| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
 
 ## Seres Associados
 Jan Val Ellam (RC-071, criador).

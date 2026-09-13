@@ -33,13 +33,16 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra apresenta o conceito de 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-162 | é-agente-de |
-| Entropia (força tamásica) | RC-148 | é-mecanismo-de |
 | Javé | RC-001 | é-criador-de |
-| Plasma | RC-162 | é-estado-de |
-| Rebelião dos Elétrons | RC-826 | é-componente-de |
-| Pulsação dos Elétrons | RC-832 | é-mecanismo-de |
 | Big Bang | RC-034 | é-origem-de |
+| Agentes da Vida Universal | RC-148 | é-mecanismo-de |
+| Elétrons (agente básico da vida universal) | RC-162 | é-agente-de |
+| Elétrons (agente básico da vida universal) | RC-162 | é-estado-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-componente-de |
+| Memória dos Elétrons e Arcanos | RC-829 | associado |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | é-mecanismo-de |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
 | Corais e Colmeias | (fato biológico) | são-primeiras-vítimas-de |
 
 ## Seres Associados

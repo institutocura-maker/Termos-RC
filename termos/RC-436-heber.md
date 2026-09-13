@@ -24,14 +24,13 @@ Patriarca pós-diluviano da linhagem hebraica: filho de Salé, neto de Arfaxad, 
 > "Por que então os meus pais Noé, Sem, Arfaxad e Salé me investiram da responsabilidade de retornar no mesmo rumo dos passos de Tubal?" — B052 (pensamento de Heber)
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Joctan e Faleg | RC-437 | pai-de |
-| Linhagem dos Patriarcas Hebreus | RC-270 | é-um (patriarca da linhagem) |
-| Revelação Cósmica | RC-094 | associado-a |
-| Vyasa | RC-585 | encarnação-anterior-de |
-| Elm | RC-454 | relaciona-se-a (avatar; B060, a confirmar) |
+| Revelação Cósmica (conceito) | RC-094 | associado-a |
+| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
+| Joctan e Faleg (filhos de Heber) | RC-437 | ← é-um |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Vyasa | RC-585 | ← encarnação-posterior-de |
 | Melquizedec | RC-650 | associado-a (cita RC-436) |
 
 ## Observações

@@ -33,11 +33,11 @@ Aparece em **P2023-12-17**, U0005. Contexto: a palestra encerra com a proposta d
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Lúcifer | RC-002 | é-protagonista-de |
-| Homo Sapiens | RC-099 | é-coautor-de |
-| Sophia | RC-009 | é-paralelo-com |
-| Rebelião dos Elétrons | RC-826 | é-tema-de |
-| Era do Colapso | RC-827 | é-contexto-de |
+| Rebelião de Lúcifer | RC-002 | é-protagonista-de |
+| Sophia (Cristo Cósmico) | RC-009 | é-paralelo-com |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-coautor-de |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-tema-de |
+| Era do Colapso do Caos Organizado | RC-827 | é-contexto-de |
 | Maria Helena | (pessoa real) | é-coautora-de |
 | Revelação Cósmica | B001 | é-obra-de |
 | Reintegração Cósmica | B018 | é-obra-de |

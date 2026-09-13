@@ -33,13 +33,14 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fornos Replicadores | RC-771 | inclui (esferas) |
-| Projeto Talm | RC-091 | relaciona-se-a |
-| Moros | RC-454 | relaciona-se-a |
-| Nornes | RC-467 | relaciona-se-a |
-| Mohen So | RC-081 | relaciona-se-a |
-| Morlens | RC-772 | relaciona-se-a |
 | Fenvans | RC-064 | relaciona-se-a |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
+| Projeto Talm | RC-091 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | inclui |
+| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | ← trabalha-em |
+| Ananque (estudou as necessidades dos códigos podres, com Moros; base das Nornes) | RC-777 | associado |
 
 ## Observações
 - Datas [REVISAR — conferir B050 → ENCERRADO 2026-09-05 · F037-L1: ver nota ao fim da ficha] Trimurti desfeita 2015–2018;

@@ -34,11 +34,11 @@ Dois integrantes são recuperáveis como Elm e Olm; os outros três não são no
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Perpérion | RC-087 | enviado-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
 | Ser LM (gênero de Tempérion) | RC-456 | é-um |
 | Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | origem-em |
-| Perpérion | RC-087 | enviado-a |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui |
 | Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | relaciona-se-a |
 
 ## Seres Associados

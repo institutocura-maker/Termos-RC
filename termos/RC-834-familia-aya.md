@@ -52,12 +52,13 @@
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia | RC-009 | é-família-de |
-| Aye (clone irmão) | RC-835 | é-paralelo-com |
+| Javé | RC-001 | é-progressivamente-livre-de |
+| Guerra do Éden | RC-006 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | é-família-de |
 | Jesus | RC-072 | é-clone-para-inseminação-de |
-| Maria (mãe de Jesus) | (B031) | é-inseminada-por |
-| Anjos Glores (clones) | RC-001 | é-progressivamente-livre-de |
 | Trimurti | RC-104 | é-vigiada-por |
+| Família Aye (Clone de Sophia para Inseminação Artificial de Maria) | RC-835 | é-paralelo-com |
+| Maria (mãe de Jesus) | (B031) | é-inseminada-por |
 
 ## Observações
 - [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]: a grafia "Aia" (que apareceu na P2023-12-17) é **corruptela STT** de "Aya" — a grafia canônica em **RC-009** é **"Aya"**.

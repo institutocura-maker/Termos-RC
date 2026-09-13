@@ -31,14 +31,15 @@ Aparece em **P2018-05-20**, U0004. Contexto: a palestra reconstrói a história 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | institui |
+| Javé | RC-001 | institui |
 | Pandora | RC-086 | é-início-de |
+| Ulsh | RC-105 | associado |
 | Pirra | RC-303 | continua |
-| Lilith | RC-308 | continua |
-| Eva | RC-814 | é-sufocada-por |
-| Lavagem Cerebral | RC-335 | é-mecanismo-de |
-| Culto a Lilith | RC-813 | é-resistência-a |
-| Judaísmo | RC-796 | é-veículo-de |
+| Adhytia (nível hierárquico) | RC-308 | continua |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-mecanismo-de |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | é-veículo-de |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | é-resistência-a |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-sufocada-por |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem instituiu o patriarcado

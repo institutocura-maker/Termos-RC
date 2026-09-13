@@ -45,12 +45,20 @@ O diagrama (B051) apresenta os três "nomes completos" Adhy da Trimurti: **ADHYP
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Vishnu (Mavatna) | RC-135 | variação |
-| Adhydaiva | RC-014 | expressão |
+| Sophia (Cristo Cósmico) | RC-009 | gera (cadeia) |
 | Adhyatman | RC-013 | condição prévia |
-| Mohen So | RC-081 | gera |
-| Sophia | RC-009 | gera (cadeia) |
+| Adhydaiva | RC-014 | expressão |
 | Jesus | RC-072 | gera (cadeia) |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | gera |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | ← relaciona-se-a |
+| Lakshimi (consorte de Vishnu, Tridevi) | RC-458 | ← relaciona-se-a |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | associado |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | ← variação |
+| Adyadvaivatma / Adimavatma (= Vishnu) | RC-504 | ← variação |
+| Fatiamento de Consciência | RC-604 | ← envolve |
 
 ## Seres Associados
 Vishnu (RC-135); Mohen So (RC-081); Sophia (RC-009); Jesus (RC-072).

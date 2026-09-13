@@ -45,10 +45,13 @@ Elm e Olm seriam os dois LM presentes na correlação; os demais correspondem à
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Trimurti | RC-104 | inclui |
-| Tridevi | RC-610 | inclui |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | inclui |
+| Trimurti | RC-104 | inclui |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | inclui |
+| Tridevi | RC-610 | inclui |
+| Universo TÊNET | RC-626 | ← relaciona-se-a |
+| Enéade de Heliópolis | RC-627 | ← compara-se-a |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

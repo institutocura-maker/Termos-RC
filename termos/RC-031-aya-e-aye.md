@@ -46,9 +46,13 @@ Com isso:
 | B061 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Anjos clones | RC-019 | **sem aresta** em `RELACOES`; arquivo existe |
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
+| Anjos clones | RC-019 | **sem aresta** em `RELACOES`; arquivo existe |
+| Fenvans | RC-064 | associado |
 | Seres Extrafísicos | RC-097 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Era do Impasse | RC-159 | associado |
+| Horda Colmeia | RC-185 | associado |
+

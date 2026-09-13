@@ -33,6 +33,15 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 - **«rebanho humano»** — «esse é o pior retrato do rebanho humano da atualidade».
 - Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Colmeia Universal | RC-174 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
+| Big Data da Terra | RC-197 | associado |
+| Colegiados Espirituais Humanizados | RC-745 | repercute-em |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -46,9 +46,13 @@ Com isso:
 | B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Deslacre (rompimento dos lacres psíquicos) | RC-448 | aresta pré-existente; arquivo existe |
-| Ressonância Mórfica (agente da rebelião) | RC-381 | **sem aresta** em `RELACOES`; arquivo existe |
 | Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Universo de Egrégoras Emocionais | RC-711 | aresta pré-existente; arquivo existe |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | **sem aresta** em `RELACOES`; arquivo existe |
+| Deslacre (rompimento dos lacres psíquicos) | RC-448 | relaciona-se-a |
+| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
+| Genoma da Dignidade (o código esquecido na criação) | RC-868 | associado |
+| Mentalidade Comum (o contágio do rebanho) | RC-869 | associado |
+

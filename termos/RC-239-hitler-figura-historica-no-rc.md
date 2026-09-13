@@ -39,8 +39,13 @@ Com isso:
 | B039 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Len Mion (Satã) | RC-074 | aresta pré-existente; arquivo existe |
+| Len Mion (Satã) | RC-074 | dominado-por |
 | Lúcifer (Yel Luzbel) | RC-078 | **sem aresta** em `RELACOES`; arquivo existe |
 | O Calvário de um Inocente | RC-236 | **sem aresta** em `RELACOES`; arquivo existe |
+| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado |
+| Sociedade Vril | RC-847 | associado |
+| Sociedade Thule | RC-848 | associado |
+| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado |
+

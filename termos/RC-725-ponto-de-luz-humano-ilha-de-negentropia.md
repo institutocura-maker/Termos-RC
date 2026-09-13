@@ -99,6 +99,26 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 - **[A yoga do sono e do sonho: a mesma consciência nos três estados] (U0012)** «É, nós temos uma consciência, segundo o budismo que transita, a gente vai ver isso amanhã, da consciência de vigília para consciência do sonho, paraa consciência do sono.» — "Mas é a mesma consciência trabalhando o tempo inteiro" (U0012: «Mas é a mesma consciência trabalhando o tempo inteiro.»); a antiguidade do conhecimento: "há 17.000 anos que esse conhecimento tá disponível pros ancestrais e os tibetanos, que é a chamada yoga do sono e do sonho" (U0038: «Voltando pro caso A, há 17.000 anos que esse conhecimento tá disponível pros ancestrais e os tibetanos, que é a chamada yoga do sono e do sonho.»); "a yoga do sono e do sonho da vigília dos tibetanos é a melhor forma de você compreender as sequências do seu eu" (U0038: «Mas é assim, a yoga do sono e do sonho da vigília dos tibetanos é a melhor forma de você compreender as sequências do seu eu.»).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Entropia e Negentropia | RC-160 | é-ilha-de |
+| Entropia e Negentropia | RC-160 | ← manifesta-se-em |
+| Mente Universal (Emergente) | RC-163 | alimenta |
+| Mente Universal (Emergente) | RC-163 | ← alimentada-por |
+| Decência cósmica (ética ellâmica) | RC-508 | realiza |
+| Protagonismo consciencial | RC-509 | associado |
+| Colapso do Caos Organizado | RC-690 | resiste-a |
+| Colapso do Caos Organizado | RC-690 | ← resistido-por |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
+| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

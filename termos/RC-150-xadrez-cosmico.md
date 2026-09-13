@@ -28,12 +28,12 @@ A metáfora do xadrez estrutura toda a narrativa de B024: a "Epopeia da Consciê
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Trimurti | RC-104 | envolve |
 | Lila | RC-075 | relaciona-se-a |
+| Trimurti | RC-104 | envolve |
 | Agentes da Vida Universal | RC-148 | jogadores (equipes) |
 | Prabrajna | RC-152 | iniciador |
-| Criação Indevida | RC-167 | tabuleiro |
 | Karuna | RC-165 | estratégia (modo de agir) |
+| Criação Indevida (Obra indevida) | RC-167 | tabuleiro |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).

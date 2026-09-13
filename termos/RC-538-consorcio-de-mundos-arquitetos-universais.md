@@ -37,10 +37,11 @@ Na sinopse do B019: "Ao indicar um cenário de evolução possível, o autor ain
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Criatura Universal | RC-042 | relaciona-se-a (objetivo) |
-| Arquiteto Universal | RC-207 | relaciona-se-a (integrante) |
-| Arquitetos Universais | RC-539 | é-um (coletivo) |
-| Evolução Possível | RC-541 | relaciona-se-a |
+| Criatura Universal | RC-042 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Arquiteto Universal | RC-207 | relaciona-se-a |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | ← é-um |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
 
 ## Seres Associados
 Arquitetos Universais (RC-539); Arquiteto Universal (RC-207); Criatura Universal (RC-042, alvo do projeto).

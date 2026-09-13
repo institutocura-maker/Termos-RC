@@ -70,6 +70,54 @@ O conceito conecta a física do DNA à cosmologia RC: cada ser carrega o "códig
 - 0 códigos novos (O-3). Quarentena: clínica (a linguagem da "doença" como metáfora).
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | é-um |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
+| Nidana (ovo cósmico) | RC-154 | ← converte-se-em |
+| Holograma Universal | RC-218 | associado |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | associado |
+| Reflexos da Doença (Herança do DNA) | RC-230 | associado |
+| Terminal Nervoso do Criador (humano) | RC-418 | associado |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
+| Esporte como evolução da Guerra | RC-430 | associado |
+| Agressividade canalizada (DNA doentio) | RC-432 | ← origina-em |
+| Mêntion (estruturas da mente extrafísica) | RC-511 | associado |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← atua-em |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | ← relaciona-se-a |
+| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | ← relaciona-se-a |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | ← relaciona-se-a |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | ← relaciona-se-a |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | ← relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | associado |
+| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
+| Simultaneidade Reversa | RC-628 | ← envolve |
+| Organoides Genéticos para Sophia | RC-632 | ← relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | associado |
+| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Plantas de Moléculas Complexas | RC-686 | associado |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | ← aplica-se-a |
+| Corpo Sutil Reencarnante | RC-704 | associado |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
+| Taumaturgia Genético-Química | RC-713 | ← atua-em |
+| Informações Vivas | RC-715 | ← organiza-se-em |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← atua-em |
+| Três Faíscas da Consciência Humana | RC-719 | ← inclui |
+| Jabutis Genéticos | RC-729 | ← metáfora-alegada-da-RC-sobre |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← atua-sobre |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
+| Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo) | RC-884 | associado |
+| Biblioteca Genômica Humana | RC-889 | associado |
+| Ismos como Limitação Genômica | RC-891 | associado |
+| Qualia como Processamento Humano | RC-894 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0666–U0676; U0937–U0946.

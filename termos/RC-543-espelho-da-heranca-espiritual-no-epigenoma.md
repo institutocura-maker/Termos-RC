@@ -55,10 +55,18 @@ No cap. 16, Ellam apresenta a epigenética como "uma nova e importante Ciência"
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| DNA como Projeção Holográfica | RC-217 | relaciona-se-a |
-| Ex-DNA-lixo | RC-542 | relaciona-se-a |
-| CFD | RC-040 | relaciona-se-a |
-| Novo Homo sapiens | RC-544 | relaciona-se-a |
+| CFD (Código Fonte Definidor) | RC-040 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | associado |
+| Organoides Genéticos para Sophia | RC-632 | ← relaciona-se-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← acionado-por |
+| Jabutis Genéticos | RC-729 | ← relaciona-se-a |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← relaciona-se-a |
+| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
 
 ## Seres Associados
 Homo sapiens (RC-099); Criador (cujo psiquismo se projeta no DNA — RC-217).

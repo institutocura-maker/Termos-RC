@@ -34,13 +34,21 @@ Definição central da palestra: 'a sensação particular que você sente a cada
 > "Vocês sabem qual é a única definição aceitável para o sentido do eu de cada um de nós? Anotem na mente de vocês: é a sensação particular que você sente a cada instante."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Conectoma humano | RC-557 | relaciona-se-a |
 | Mentalma | RC-166 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | ← relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | associado |
+| Fios soltos (improviso humano × robô) | RC-564 | associado |
 | Quarto Cérebro Humano | RC-614 | relaciona-se-a |
-| Genoma Derivado | RC-518 | relaciona-se-a |
+| Eu Coalescente | RC-620 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← hospeda |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Ser Humano Não Local | RC-708 | associado |
+| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
+| Estrangulamento Cognitivo / Neural | RC-753 | associado |
 
 ## Observações
 

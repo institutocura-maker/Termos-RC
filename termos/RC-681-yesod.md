@@ -21,12 +21,12 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-263 | — | relacionado |
-| RC-679 | — | relacionado |
-| RC-680 | — | relacionado |
-| RC-682 | — | relacionado |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| Netzach | RC-679 | — |
+| Hod | RC-680 | — |
+| Malkuth | RC-682 | — |
 
 ## Seres Associados
 Consultar Base.

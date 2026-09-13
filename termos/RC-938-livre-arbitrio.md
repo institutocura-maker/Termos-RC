@@ -18,6 +18,11 @@ Aberta pelo F043-T3 (despacho de 06/09/2026, §2): expansão limitada aos termos
 - **Variações / grafias alternativas:** (nenhuma registrada no censo)
 - **Idioma de origem:** português/latim
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | associado |
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo (citação/paráfrase) |
 |---|---|---|---|

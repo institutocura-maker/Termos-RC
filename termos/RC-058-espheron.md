@@ -25,14 +25,14 @@ A terceira das três grandes naves da Família Val — a menor e mais adaptada p
 > "Alt'Lam Gron: Nome da cidadela suspensa e invisível criada a partir da Experiência Gron. Nada mais é do que a nave Espheron que, através de uma 'operação magnética', teve suas 'fases vibratórias' alteradas para se tornar invisível." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Espherian | RC-057 | nave-irmã (tríade Val) |
+| Alt´Lam Gron | RC-018 | convertida-em (cidadela) |
 | Asphezian | RC-025 | nave-irmã (tríade Val) |
-| Alt'Lam Gron | RC-018 | convertida-em (cidadela) |
+| Benem | RC-032 | ← relaciona-se-a |
+| Espherian | RC-057 | nave-irmã (tríade Val) |
 | Experiência Gron | RC-062 | sediou |
-| Benem | RC-032 | associado-a (1.641 seres; aresta no registro) |
+| Cidades Voadoras | RC-234 | ← associado-a |
 
 ## Observações
 

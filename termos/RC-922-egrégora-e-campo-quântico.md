@@ -17,3 +17,9 @@ Egrégora e Campo Quântico — conceito desenvolvido na palestra «O Reciclador
 ## Relações
 - RC-722 (Dignidade)
 - RC-901 (Domínios de Morfeu)
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Domínios de Morfeu | RC-901 | associado |
+

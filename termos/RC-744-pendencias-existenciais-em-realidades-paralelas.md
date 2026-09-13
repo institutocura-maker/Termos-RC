@@ -21,10 +21,9 @@
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-108 | consultar relação tipada no grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Universo Paralelo | RC-108 | persiste-em |
 
 ## Glossário interno / pendências
 

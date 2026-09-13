@@ -31,12 +31,12 @@ Aparece em **P2018-02-24**, U0004. Contexto: a "estratégia antiga" das trevas e
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Estratégia dos Avatares | RC-797 | fase-de |
-| Jesus como Último Avatar | RC-800 | resposta-a |
-| Saibaba como Precursor | RC-801 | primeira-resposta-a |
-| Krishna | RC-102 | destruiu-centralizado-em |
 | Jesus | RC-072 | replica-resposta-a |
-| Pandora como Oposição | RC-799 | opõe-se-a |
+| Shiva (Savna) | RC-102 | destruiu-centralizado-em |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | fase-de |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a |
+| Jesus como Último Avatar (Não Mata) | RC-800 | resposta-a |
+| Saibaba como Precursor de Jesus | RC-801 | primeira-resposta-a |
 
 ## Seres Associados
 - **As trevas** (entidade cósmica) — quem mudou a estratégia

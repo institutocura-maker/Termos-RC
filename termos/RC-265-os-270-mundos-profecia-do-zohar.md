@@ -49,10 +49,13 @@ A profecia conecta-se ao Juízo Final (na cultura cristã, relacionado ao retorn
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sepher ha-Zohar | RC-266 | profecias-em |
 | Reintegração Cósmica | RC-003 | contexto |
+| Tzimtzum | RC-008 | associado |
+| Brahma (Brajna) | RC-037 | ← relaciona-se-a |
 | Isolamento Cósmico | RC-070 | contexto |
 | Lokas | RC-077 | é-um (moradas) |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | profecias-em |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
 | Juízo Final | (relacionado) | evento |
 
 ## Seres Associados

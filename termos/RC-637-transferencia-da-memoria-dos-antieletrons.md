@@ -30,11 +30,19 @@ A transferência concentraria a informação dos dois universos nos elétrons re
 > “A memória deles toda [...] já está vindo para a memória dos elétrons.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Memória Quântica dos Elétrons | RC-161 | transfere-para |
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | transfere-para |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | origem-em |
+| Universo Material (Bhuloka) | RC-107 | transfere-para |
+| Universo Material (Bhuloka) | RC-107 | descreve-transferência-de |
+| Memória Quântica dos Elétrons | RC-161 | transfere-para |
+| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
 | Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | ← envolve |
+| Colapso do Caos Organizado | RC-690 | ← envolve |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
 
 ## Seres Associados
 Consultar relações acima.

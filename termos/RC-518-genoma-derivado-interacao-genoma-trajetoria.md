@@ -37,12 +37,19 @@ Devolutiva do curador (19/08/2026): "Genoma Humano como Joia" absorvido aqui (e 
 > "Não é o ser humano que é a joia. É o que um eu de um ser humano faz do seu genoma." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Invasão Ancestral do Genoma | RC-732 | relaciona-se-a |
-| DNA como Projeção Holográfica | RC-217 | relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | ← relaciona-se-a |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | relaciona-se-a |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
 | Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | ← opera-em |
+| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← atua-em |
+| Jabutis Genéticos | RC-729 | associado |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← relaciona-se-a |
 
 ## Observações
 

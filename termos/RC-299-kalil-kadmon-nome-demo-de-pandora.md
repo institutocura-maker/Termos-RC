@@ -57,6 +57,15 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 - **[Car Cadmon: a metamorfose que originou Pandora] (U0035)** «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — há cerca de 48.000 anos (número no BLOCO 3; o span inicia em "000 anos" porque o STT retoma a contagem); «Car Cadmon»/«Caliil Cadmon» = Kalil Kadmon, o nome demo de Pandora (RC-299): a inoculação dos vírus encomendada por Zeus para se vingar de Prometeu, com Pandora levando o "presente funesto" (paráfrase do contexto U0035; RC-086 Pandora; RC-301 Prometeu).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | variação |
+| Val Dimon | RC-118 | variação |
+| Zeus | RC-145 | associado |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

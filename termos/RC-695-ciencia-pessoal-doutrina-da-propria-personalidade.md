@@ -46,16 +46,27 @@ Não significa isolamento intelectual nem recusa de estudo. Implica:
 > “Seja você o seu próprio guru, mova-se.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Liberdade Mental | RC-253 | relaciona-se-a |
-| Protagonismo Consciencial | RC-509 | realiza |
-| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
-| Disciplina dos 3As | RC-552 | usa |
-| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a |
-| Quarto Cérebro | RC-614 | relaciona-se-a |
+| Mentalma | RC-166 | ← relaciona-se-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | realiza |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
 | Superconsciência | RC-615 | relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
+| Verdade Posta × Verdade a Construir | RC-657 | relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← envolve |
 | Oitavo Dia da Criação | RC-694 | realiza |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← orienta |
+| Ato de Verdade / Satyagraha | RC-705 | ← orienta |
+| Lei da Mente do Buda | RC-712 | ← orienta |
+| Agenda Espiritual | RC-752 | ← relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
 
 ## Observações
 Não transformar Ciência Pessoal em doutrina padronizada e coletiva: a singularidade é constitutiva do conceito.

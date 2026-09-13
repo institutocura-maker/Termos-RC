@@ -39,15 +39,16 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 > "Existir é ter uma agenda espiritual para cumprir. Esse é o sinônimo mais simples que a gente deve compreender."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Bagagem Espiritual Intransferível | RC-751 | gerada-por |
-| Criaturas-ferramenta | RC-164 | relaciona-se-a (programa encarnatório) |
-| Favor Divino | RC-332 | relaciona-se-a |
+| Javé | RC-001 | relaciona-se-a |
+| Criaturas-ferramenta | RC-164 | relaciona-se-a |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
 | Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
-| Ciência Pessoal | RC-695 | relaciona-se-a (criação de nova agenda) |
-| Javé | RC-001 | relaciona-se-a (contexto dos desígnios) |
+| Bagagem Espiritual Intransferível | RC-751 | ← gera |
+| Messias | RC-942 | associado |
+| João Batista | RC-944 | associado |
 
 ## Blindagem epistemológica
 

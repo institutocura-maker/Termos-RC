@@ -35,13 +35,13 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Shiva*
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fornos Replicadores | RC-771 | incluído-em |
-| Forno de Awaymaion | RC-499 | irmão-de (tríade de fornos) |
-| Forno de Awayen | RC-836 | irmão-de (tríade de fornos) |
-| Projeto Talm | RC-091 | viabiliza |
-| Shiva (Savna) | RC-102 | pertence-a |
-| Radiatas | RC-093 | produz |
 | Bilatérios | RC-035 | precede (via Nidana B) |
+| Projeto Talm | RC-091 | viabiliza |
+| Radiatas | RC-093 | produz |
+| Shiva (Savna) | RC-102 | pertence-a |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | irmão-de (tríade de fornos) |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | incluído-em |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | irmão-de (tríade de fornos) |
 
 ## Seres Associados
 Shiva (RC-102), os fenvans (RC-064), os seres radiata (RC-093).

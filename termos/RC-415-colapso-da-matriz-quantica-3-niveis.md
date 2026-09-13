@@ -31,6 +31,19 @@ O diagrama B051 organiza verticalmente a cosmologia: Espiritualidade Superior �
 - **Colapso da matriz quântica (P2025-03-15 — contexto):** a rebelião dos elétrons como o mecanismo do colapso: "na hora que a energia pulsa... a recarga que os elétrons dão em si mesmos quando vão se materializar de novo está produzindo situações de desobediência ao que antes já estava em curso" — o colapso do caos organizado.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Superior | RC-059 | inclui |
+| Espiritualidade Operacional | RC-060 | inclui |
+| Espiritualidade Laboratorial | RC-061 | inclui |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | resulta-em |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← relaciona-se-a |
+| Blindagens Interdimensionais (Intramuros Vibratórios) | RC-602 | ← relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | ← distingue-se-de |
+| Colapso do Caos Organizado | RC-690 | distingue-se-de |
+
 ## Atualização — P2021-12-04
 
 - **Unidades:** U0045–U0051; U0102–U0108.

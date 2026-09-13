@@ -39,8 +39,11 @@ Com isso:
 | B021 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
 | Astréia | RC-027 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
+| Cronos (titã) | RC-841 | associado |
+

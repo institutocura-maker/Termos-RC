@@ -79,10 +79,14 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fator Dharma | RC-319 | é-um (de RC-319 para cá) |
 | Demos | RC-049 | aplica-se-a |
-
-> O cadastro lista ainda **RC-321, RC-094, RC-586** em `relacionados` desta ficha; **não existem arestas correspondentes** em `RELACOES` para eles. Nada foi criado aqui para "preencher" essa lacuna — a decisão de abrir essas três arestas é curatorial e continua pendente.
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Fator Dharma | RC-319 | ← é-um |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
+| Castas Trimurtianas | RC-321 | associado |
+| Rakshasas | RC-581 | associado |
+| Rishis | RC-586 | associado |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
 
 ## Observações
 

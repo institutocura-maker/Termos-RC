@@ -33,13 +33,19 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-671 | — | relacionado |
-| RC-263 | — | relacionado |
-| RC-264 | — | relacionado |
-| RC-292 | — | relacionado |
-| RC-293 | — | relacionado |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
+| Sefirot / Árvore da Vida | RC-263 | organiza |
+| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | inclui |
+| Telos (de um deus) | RC-292 | — |
+| Timé (de um deus) | RC-293 | — |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Metatron | RC-671 | ← produz |
+| Metatron | RC-671 | ← relaciona-se-a |
+| Metatron | RC-671 | relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

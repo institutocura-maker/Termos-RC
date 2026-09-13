@@ -45,13 +45,21 @@ Na leitura comparada de Jan Val Ellam, Yggdrasil designa um conglomerado de nove
 > “Marte [...] passou a fazer parte desse conglomerado de realidades composto por nove mundos, sendo oito do universo vizinho e um do nosso universo.”
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Midgard | RC-470 | inclui |
-| Bifrost | RC-471 | conecta-se-por |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
 | Ragnarok em Marte | RC-395 | destruído-em |
-| Axis Mundi | RC-731 | sucedido-por |
+| Ragnarok em Marte | RC-395 | ← destrói |
+| Midgard (Marte + Terra) | RC-470 | inclui |
+| Midgard (Marte + Terra) | RC-470 | ← integra |
+| Bifrost (Portal interdimensional) | RC-471 | conecta-se-por |
+| Bifrost (Portal interdimensional) | RC-471 | ← conecta |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Axis Mundi / Axismund | RC-731 | sucedido-por |
+| Axis Mundi / Axismund | RC-731 | ← sucede |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
 
 ## Blindagem histórica e comparativa
 

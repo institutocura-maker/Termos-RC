@@ -45,12 +45,13 @@ A Era dos Humanos sucede o fechamento dos portais: sem acesso direto, os deuses 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | protagonistas |
 | Zeus | RC-145 | envolve |
-| Drama do Fechamento dos Portais | RC-295 | sucede |
-| Dissolução da Tríade | RC-300 | contexto |
-| Telos | RC-292 | missão de Zeus |
-| Seres Terrenos | RC-099 | protagonistas |
 | Era Sapiens | RC-238 | paralelo |
+| Telos (de um deus) | RC-292 | missão de Zeus |
+| Drama do Fechamento dos Portais | RC-295 | sucede |
+| Dissolução da Tríade (2015–2017) | RC-300 | contexto |
 
 ## Seres Associados
 Zeus (RC-145); humanos (RC-099); demos (RC-049); Caos/Javé (RC-284).

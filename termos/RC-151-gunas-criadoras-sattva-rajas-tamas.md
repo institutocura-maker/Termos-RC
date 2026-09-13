@@ -68,12 +68,14 @@ As Gunas explicam a física da Criação "indevida" associada à mitologia hindu
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prabrajna | RC-152 | energia Rajas |
-| Vishnu (Mavatna) | RC-135 | energia Sattva |
-| Shiva (Savna) | RC-102 | energia Tamas |
+| Brahma (Brajna) | RC-037 | associado-a |
+| Shiva (Savna) | RC-102 | associado-a |
 | Trimurti | RC-104 | corresponde-a |
-| Elétrons | RC-162 | criados pela vibração Rajas |
-| Entropia | RC-160 | ligada a Tamas |
+| Vishnu (Mavatna) | RC-135 | associado-a |
+| Prabrajna | RC-152 | energia Rajas |
+| Entropia e Negentropia | RC-160 | ← relaciona-se-a |
+| Elétrons (agente básico da vida universal) | RC-162 | criados pela vibração Rajas |
+| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102).

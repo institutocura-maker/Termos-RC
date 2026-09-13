@@ -29,11 +29,12 @@ Aparece em **P2019-04-14**, U0004. Contexto: a palestra denuncia que **"a mão q
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | é-resposta-a |
-| Desvio de Rota de Pandora | RC-806 | é-análogo-a |
-| Lavagem Cerebral | RC-335 | é-resistência-a |
-| Mahatma Magant | RC-822 | pratica |
-| Greve de Fome Genética | RC-824 | é-complemento-a |
+| Javé | RC-001 | é-resposta-a |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-resistência-a |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | é-análogo-a |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | associado |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | pratica |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | é-complemento-a |
 
 ## Seres Associados
 - **Javé (RC-001)** — quem é "ajudado mesmo sendo opressor"

@@ -37,11 +37,15 @@ Kumari Kandam — o continente lemuriano do sul da Índia (tradição tâmil), c
 > Quando esse processo começou, Shiva resolveu criar o seu quartel general na Terra para dominar a raça humana... e assim ele criou expressões avatáricas ou adhyajnas de si mesmo.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Shiva | RC-102 | relaciona-se-a |
-| Nefilins | RC-488 | relaciona-se-a |
+| Atlântida / Terra Atlantis | RC-010 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Shiva (Savna) | RC-102 | ← associado-a |
+| Shiva (Savna) | RC-102 | relaciona-se-a |
+| Castas Trimurtianas | RC-321 | ← origina-em |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 
 ## Observações
 

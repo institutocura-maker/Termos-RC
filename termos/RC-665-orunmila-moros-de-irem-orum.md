@@ -41,11 +41,19 @@ Forma preferida: **Orunmilá (Moros de Irém / Orum)**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-454 | — | relaciona-se-a |
-| RC-655 | — | relaciona-se-a |
-| RC-658 | — | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | variação |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | associado |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+| Projeto Orunmilá–Olodus | RC-741 | ← envolve |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
 
 ## Seres Associados
 Consultar Base.

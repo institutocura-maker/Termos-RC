@@ -56,10 +56,12 @@ O B049 (2019, 14 capítulos) examina o contraste e a complementaridade entre Jes
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | parceria-de |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| A Criação de Ídolos para a Humanidade | RC-370 | contexto |
 | A Fé de Jesus e a Razão de Nietzsche | RC-371 | é-um |
-| A Criação de Ídolos | RC-370 | contexto |
 | O Ser Humano Emancipado | RC-372 | desdobramento |
-| Liberdade Mental | RC-253 | relaciona-se-a |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
 
 ## Seres Associados
 Jesus (RC-072); Nietzsche (figura histórica, RC-369); Voltaire (precedente citado).

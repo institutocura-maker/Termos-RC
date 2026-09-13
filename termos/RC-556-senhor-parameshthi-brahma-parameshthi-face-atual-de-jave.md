@@ -31,15 +31,19 @@
 > "O corpo de Javé ou do Brahma Parameshthi, que sempre se apresentava sentado num trono, esse corpo agora ele não entrou em coma, ele colapsou... o eu dele continua existindo, voltou a ser parasitário, voltou a ser aquele eu atrás de um corpo."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Javé | RC-001 | variação |
 | Javé | RC-001 | relaciona-se-a |
-| Faces de Javé | RC-561 | relaciona-se-a |
-| Trimurti | RC-104 | relaciona-se-a |
-| Vyasa | RC-585 | relaciona-se-a |
-| Joctan e Faleg | RC-437 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Brahma (Brajna) | RC-037 | variação |
+| Jesus | RC-072 | ← relaciona-se-a |
 | Len Mion (Satã) | RC-074 | relaciona-se-a |
+| Trimurti | RC-104 | relaciona-se-a |
+| Joctan e Faleg (filhos de Heber) | RC-437 | relaciona-se-a |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a |
+| Vyasa | RC-585 | relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
 
 ## Observações
 

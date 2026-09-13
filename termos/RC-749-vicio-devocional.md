@@ -36,14 +36,28 @@ Mecanismo cármico/ético central da Revelação Cósmica: o condicionamento dev
 > "Quase 7 bilhões e cacetada de milhões de seres humanos, todos são cativos do vício devocional que a imposição de Javé marcou no DNA humano."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé | RC-001 | relaciona-se-a (imposição) |
-| Lavagem Cerebral | RC-335 | relaciona-se-a (condicionamento) |
-| Anjos clones | RC-019 | relaciona-se-a (coordenação) |
-| Big Data Cósmico | RC-194 | relaciona-se-a (mecanismo) |
+| Javé | RC-001 | relaciona-se-a |
+| Anjos clones | RC-019 | relaciona-se-a |
+| Big Data Cósmico | RC-194 | relaciona-se-a |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
 | Dessensibilização da Condição Humana | RC-746 | relaciona-se-a |
+| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
+| Eu Observador | RC-890 | associado |
+| Pós-Verdade | RC-892 | associado |
+| Pecado Original como Narrativa Cruel | RC-893 | associado |
+| Código Filosófico Pessoal | RC-897 | associado |
+| Deus Não Se Incomoda com o Sofrimento | RC-909 | associado |
+| O Bem Feito Apenas por Humanos | RC-910 | associado |
+| DNA com 2 Hélices Ligadas | RC-911 | associado |
+| Aparições Marianas | RC-912 | associado |
+| Delírio Coletivo | RC-913 | associado |
+| Frodo e Sam | RC-914 | associado |
+| Westworld como Metáfora | RC-915 | associado |
+| O Banquete Metafórico | RC-916 | associado |
 
 ## Blindagem epistemológica
 

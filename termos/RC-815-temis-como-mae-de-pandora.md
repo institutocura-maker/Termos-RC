@@ -37,12 +37,14 @@ A Temis da palestra **NÃO É a Titã grega clássica** (Têmis grega = filha de
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Têmis (Títã grega) | RC-305 | é-paralelo-com |
-| Zeus | RC-149 | co-clona-com |
+| Orbum | RC-085 | é-equivalente-feminino-de |
 | Pandora | RC-086 | é-mãe-de |
-| Kvasir | RC-396 | é-paralelo-nórdico-com |
-| Fria | RC-085 | é-equivalente-feminino-de |
-| Pacto Aesir-Vanir | RC-816 | contextualiza |
+| Mônada (Mônada Espiritual) | RC-149 | co-clona-com |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Têmis | RC-305 | é-paralelo-com |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | é-paralelo-nórdico-com |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | contextualiza |
 
 ## Seres Associados
 - **Têmis** (RC-305) — quem co-clona

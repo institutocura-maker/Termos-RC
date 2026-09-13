@@ -32,10 +32,10 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Morlens | RC-772 | relaciona-se-a |
-| PEP | RC-774 | usada-em |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
 | Projeto Talm | RC-091 | relaciona-se-a |
-| Mohen So | RC-081 | relaciona-se-a |
+| Morlens (programador genético atômico do Projeto TALM; 'monstro ciberenergético') | RC-772 | ← relaciona-se-a |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | usada-em |
 
 ## Observações
 - QUARENTENA: vírus como "nanorrobôs" é leitura do autor, jamais virologia validada;

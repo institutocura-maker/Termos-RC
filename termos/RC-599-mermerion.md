@@ -28,11 +28,13 @@ Um dos cinco Archeons de Ereon, associado a criações complexas e a múltiplos 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Perpérion | RC-087 | relaciona-se-a |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | associado |
+| Archeons de Ereon | RC-596 | ← inclui |
 | Archeons de Ereon | RC-596 | é-um |
 | Antérion | RC-597 | relaciona-se-a |
 | Danérion | RC-598 | relaciona-se-a |
-| Perpérion | RC-087 | relaciona-se-a |
-| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

@@ -42,11 +42,12 @@ O capítulo 12 de B005 ("A Busca do Elo Perdido: O Fator Extraterrestre") argume
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Seres Extraterrestres | RC-098 | é-um |
 | Anjos caídos | RC-020 | explica |
-| Revelação Cósmica | RC-094 | associado-a |
-| Seres Terrenos | RC-099 | origem |
+| Revelação Cósmica (conceito) | RC-094 | associado-a |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um |
+| Seres Terrenos (Homo Sapiens) | RC-099 | origem |
 | Confederações de Mundos | RC-357 | contexto |
+| Abduções e Reparo Espiritual | RC-359 | associado |
 
 ## Seres Associados
 Seres extraterrestres (RC-098); anjos decaídos (RC-020); Jesus (RC-072).

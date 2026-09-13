@@ -50,10 +50,21 @@ A palestra os apresenta como face emblemática da estratégia dos Seres LM/Quart
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | proferida-por |
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
 | Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso | RC-612 | relaciona-se-a |
+| Cápsula do Tempo de Sophia (João) | RC-274 | relaciona-se-a |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Ragnarok em Marte | RC-395 | relaciona-se-a |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | associado |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | proferida-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | originada-em |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Áurea Catena | RC-663 | ← relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | ← transportado-por |
+| Arquivos do Destino Universal | RC-714 | transporta |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← cumpre |
+| Momento Zero de Pandora | RC-779 | associado |
+| Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | associado |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

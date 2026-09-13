@@ -40,12 +40,18 @@ A live amplia a antiga ficha: Deva/Aurora não seria simplesmente a primeira ent
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Trimurti | RC-104 | associado |
 | Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | relaciona-se-a |
 | Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a |
 | Tridevi | RC-610 | gera |
 | Nyx | RC-621 | sucede |
-| En Ma (Emá / Emar — espírito-âncora) | RC-476 | relaciona-se-a |
+| Nyx | RC-621 | ← precede |
+| Kama (personificação do desejo) | RC-622 | ← relaciona-se-a |
 | Kama (personificação do desejo) | RC-622 | relaciona-se-a |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar relações acima.

@@ -65,10 +65,14 @@ O B011 é dedicado a desvendar o enigma: "a Transfiguração relatada nas págin
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Alteração Vibratória | RC-367 | é-um |
 | Jesus | RC-072 | envolve |
-| Assessoria Cósmica | RC-368 | contexto |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Agente do Mais Alto | RC-214 | relaciona-se-a |
+| O Fator Judas | RC-365 | associado |
+| Alteração Vibratória (Transfiguração) | RC-367 | é-um |
+| Assessoria Cósmica (equipes espirituais de Jesus) | RC-368 | contexto |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← relaciona-se-a |
 
 ## Seres Associados
 Jesus (RC-072); Moisés e Elias (personagens da Transfiguração); Pedro, Tiago e João (testemunhas).

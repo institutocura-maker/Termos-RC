@@ -18,6 +18,13 @@ Registro de proveniência criado pelo ciclo F043 (despacho de 06/09/2026, §2) p
 - **Variações / grafias alternativas:** Krysamon (assinatura do próprio material, «Krysamon NEAD») — grafias de chat, sem normalização; o corpus não as pronunciou ainda.
 - **Idioma de origem:** — (pessoa)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Entropia e Negentropia | RC-160 | associado |
+
 ## Fontes
 | Obra (sigla) | Capítulo | Página | Tipo |
 |---|---|---|---|

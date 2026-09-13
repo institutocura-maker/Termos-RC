@@ -50,11 +50,11 @@ Em P2025-06-14b, Ellam afirma: **"A justiça divina não existe. Deus não julga
 Há uma **aparente contradição retórica** com a existência deste verbete ("Base de Dados do Juízo Final"): o registro mantém ambos os polos em **Colecionar Incertezas** — o conceito de "juízo final" como acervo/processo da criação vs. a negação de "justiça divina" como mecanismo de premiação/castigo. A interpretação do autor parece distinguir **organização/registro de dados** (que existe) de **justiça punitiva pessoal** (que ele nega). Compatibilização completa fica sob curadoria.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Big Data Cósmico | RC-194 | relaciona-se-a |
-| O Livro do Criador | RC-201 | relaciona-se-a |
+| O Livro do Criador | RC-201 | ← associado-a |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

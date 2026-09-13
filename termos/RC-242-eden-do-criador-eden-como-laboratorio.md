@@ -39,12 +39,16 @@ O Éden do Criador (B015, cap. 10) esclarece o propósito dos experimentos edên
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Laboratórios do Criador | RC-251 | é-um |
-| Zont En Drel 29 | RC-147 | guarda |
-| Genética da Confiança | RC-243 | base |
-| Colmeia do Éden | RC-177 | variação (B044) |
 | Guerra do Éden | RC-006 | contexto |
-| Adão e Eva (Eva) | RC-189 | habitantes |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
+| Zont En Drel 29 | RC-147 | guarda |
+| Colmeia do Éden | RC-177 | variação (B044) |
+| Eva (figura) | RC-189 | habitantes |
+| Genética da Confiança | RC-243 | base |
+| Laboratórios do Criador | RC-251 | é-um |
+| Pandora como Serpente do Éden | RC-283 | associado |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
+| O Segredo Perdido do Éden | RC-435 | ← relaciona-se-a |
 
 ## Seres Associados
 Criador (RC-041); Zont En Drel 29 (RC-147); Adão e Eva (RC-189); Jesus (RC-072).

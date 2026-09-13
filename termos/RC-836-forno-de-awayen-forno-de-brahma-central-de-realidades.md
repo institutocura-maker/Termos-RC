@@ -35,13 +35,13 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Brahma
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fornos Replicadores | RC-771 | incluído-em |
-| Forno de Awaymaion | RC-499 | irmão-de (tríade de fornos) |
-| Forno de Awaylengan | RC-837 | irmão-de (tríade de fornos) |
-| Projeto Talm | RC-091 | viabiliza |
-| Brahma (Brajna) | RC-037 | pertence-a |
 | Javé | RC-001 | é-de |
+| Brahma (Brajna) | RC-037 | pertence-a |
+| Projeto Talm | RC-091 | viabiliza |
 | Val Tam | RC-132 | acopla (consciência) |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | irmão-de (tríade de fornos) |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | incluído-em |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | irmão-de (tríade de fornos) |
 
 ## Seres Associados
 Brahma/Javé (RC-037/RC-001), os Aya/Aye (RC-834/RC-835 — assessores), Val Tam (RC-132).

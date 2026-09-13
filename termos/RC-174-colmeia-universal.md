@@ -68,14 +68,20 @@ Termo-título da obra *A Divina Colmeia: A Trimurti Desencantada* (B044, 2019), 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Abelha-Rainha (Javé) | RC-175 | integrante (topo) |
-| Modelo Colmeia | RC-176 | é-um (o modelo de relação) |
-| Dois Grandes Favos | RC-178 | parte-de |
-| Universo Material | RC-107 | parte-de (favo planejado) |
-| Universo Antimaterial | RC-106 | parte-de (favo improvisado) |
 | Javé | RC-001 | criador |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | parte-de (favo improvisado) |
+| Universo Material (Bhuloka) | RC-107 | parte-de (favo planejado) |
+| Abelha-Rainha (Javé) | RC-175 | integrante (topo) |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | é-um (o modelo de relação) |
+| Colmeia do Éden | RC-177 | associado |
+| Dois Grandes Favos | RC-178 | ← parte-de |
+| Plano Colmeia (para o Universo Biológico) | RC-179 | desdobramento biológico |
 | Fator Colmeia | RC-180 | relaciona-se-a |
-| Plano Colmeia | RC-179 | desdobramento biológico |
+| Pluribus Unum | RC-181 | associado |
+| Unus Pluribum | RC-182 | associado |
+| Horda Colmeia | RC-185 | associado |
+| Rebanho humano | RC-193 | associado |
+| Ocaso do Criador (a segunda derrocada do criador reconstruído) | RC-863 | associado |
 
 ## Seres Associados
 Javé/Brahma (RC-001/RC-037); anjos-clones (RC-019); demos (RC-049); biodemos (RC-036); seres biológicos (RC-099).

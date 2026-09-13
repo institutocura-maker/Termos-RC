@@ -18,6 +18,15 @@ A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-2
 - Variações: Val Dimon (biodemo) → Pandora (humanizada)
 - Família: Val (RC-109)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Pandora | RC-086 | ← variação |
+| Val (Família Val) | RC-109 | associado |
+| Val dos Corpos Perdidos / Dimensionados | RC-133 | associado |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | ← variação |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

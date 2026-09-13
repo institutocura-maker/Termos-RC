@@ -28,13 +28,12 @@ Devolutiva do curador (19/08/2026): **Shekinah** e **Merkabah** absorvidas neste
 > "Chequiná nada mais é do que um artefato, vestimento, um adaptador antimaterial que os seres do universo antimaterial usam para interagir com os humanos... Mercabá seria um artefato que Javé, quando investido da sua chequiná, nele ele se desloca no âmbito do universo vizinho." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Classes de anjos de Arabot-Ráquia | RC-485 | relaciona-se-a |
-| Universo Antimaterial | RC-106 | relaciona-se-a |
-| Javé | RC-001 | relaciona-se-a |
-| Enoque | RC-489 | relaciona-se-a |
+| Javé | RC-001 | associado-a |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
 
 ## Observações
 

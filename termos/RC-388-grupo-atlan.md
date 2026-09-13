@@ -36,11 +36,12 @@ O Esclarecimento do B006 narra a origem: "No início, era a Casa de Lucas. Centr
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Casa de Lucas | RC-389 | origina-em |
-| Jan Val Ellam | RC-071 | fundado-por |
-| Espíritos comunicantes | RC-390 | inclui |
 | Atlan | RC-028 | associado-a |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | fundado-por |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Seres Espirituais | RC-100 | contexto |
+| Casa de Lucas (origem do Grupo Atlan) | RC-389 | origina-em |
+| Espíritos comunicantes do Grupo Atlan | RC-390 | inclui |
 
 ## Seres Associados
 Jan Val Ellam (RC-071); espíritos comunicantes: Enéas (RC-393), Rochester, Mandreya Ramataiana (RC-394), Yammes, Francisco, Teodoro, Pe. Fratélio, François.

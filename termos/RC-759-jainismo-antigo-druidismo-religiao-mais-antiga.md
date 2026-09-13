@@ -60,14 +60,13 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 > "Se alguém perguntar qual a religião mais antiga da Terra, quem entende de assunto religioso vai dizer: é o jainismo. Não tem outra. Isso aqui é a coisa mais antiga da Terra. Só que o jainismo antes se chamava druidismo." — P2024-02-03
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
-| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
-| Moksha | RC-618 | relaciona-se-a |
 | Thuata de Dannan | RC-398 | relaciona-se-a |
-| Vrittis e Cittas | RC-760 | relaciona-se-a |
+| Moksha | RC-618 | relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

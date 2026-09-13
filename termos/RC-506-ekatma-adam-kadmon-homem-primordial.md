@@ -44,10 +44,11 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 > "Aquilo que no futuro viria ser o primeiro protótipo de um Adão Cadmon, que não tem nada a ver com o Adão aqui da Terra, foi um Adão cósmico." — P2024-09-28
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| A Raça Inabalável dos Sethianos | RC-766 | relaciona-se-a |
+| Adhyatman | RC-013 | associado |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a |
 
 ## Observações
 

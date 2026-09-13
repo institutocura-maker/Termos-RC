@@ -39,10 +39,13 @@ Com isso:
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Nephilins | RC-082 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
+| A Falsa Trindade (Concílio de Niceia) | RC-273 | relaciona-se-a |
+| Torá / Pentateuco | RC-683 | associado |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

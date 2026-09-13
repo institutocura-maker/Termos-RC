@@ -33,9 +33,9 @@ Tradição atribuída aos Hopis segundo a qual uma Estrela Azul marcaria transi�
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
-| Era do Conhecimento e da Espiritualização | RC-536 | relaciona-se-a |
 | Alvorecer de Aquário | RC-405 | relaciona-se-a |
+| Era do Conhecimento e da Espiritualização | RC-536 | relaciona-se-a |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
 
 ## Seres Associados
 —

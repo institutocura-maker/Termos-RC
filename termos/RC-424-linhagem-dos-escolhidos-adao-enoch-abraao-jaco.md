@@ -60,6 +60,26 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 - **[P2023-10-14 · A LISTA DOS PATRIARCAS, COM O CORTE PRÓPRIO DA FONTE]** "Aí Adão termina produzindo um terceiro filho chamado Sete, que produz outro chamado Enos, Cainan, Malalarel, Jaré, Deno Matusalém, Lanec, Noé, Sena, Faxado, Salé, blá blá blá blá blá blá, Abraão, Isaque, Jacó, blá blá blá blá blá." (U0015); "Essa pergunta Adão, sete, Enos, Cainã, Malalar, Jaré, Denoque, Matusalém, Lam, ou seja, todo Os escolhios de Javé se fazem." (U0033) — ⚠️ Duas listas patriarcais na mesma fonte, com cortes diferentes (U0015 × U0033): divergência de STT, **não** de doutrina — registrar sem harmonizar.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| CFD (Código Fonte Definidor) | RC-040 | ← inserido-em |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Linhagem dos Patriarcas Hebreus | RC-270 | é-um |
+| Joctan e Faleg (filhos de Heber) | RC-437 | ← relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+| Noreia (Norea) | RC-579 | associado |
+| Linhagem de Seth | RC-594 | ← relaciona-se-a |
+| Melquizedec | RC-650 | ← relaciona-se-a |
+| Torá / Pentateuco | RC-683 | associado |
+| Abel | RC-684 | associado |
+| Tormento dos Eleitos de Javé | RC-685 | associado |
+| Moisés e o Êxodo (leitura RC) | RC-750 | ← relaciona-se-a |
+| Elo Adâmico (o gene que Javé pôs em Adão) | RC-857 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0677–U0726.

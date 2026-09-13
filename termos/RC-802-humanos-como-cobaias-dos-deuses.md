@@ -33,12 +33,12 @@ Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois de 2 avatares destru
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Homo Sapiens / Seres Terrenos | RC-099 | qualifica |
-| Ser Criador Fracassado | RC-422 | transferiu-doença-para |
-| Estratégia dos Avatares | RC-797 | é-produto-de |
-| Jesus como Último Avatar | RC-800 | reconheceu |
-| Pandora como Oposição | RC-799 | bate-duro-por |
-| DNA Insubmisso (Linhagem Pandora-Eva-Noreia) | RC-727 | contrapõe-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | qualifica |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | transferiu-doença-para |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | contrapõe-a |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | é-produto-de |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | bate-duro-por |
+| Jesus como Último Avatar (Não Mata) | RC-800 | reconheceu |
 
 ## Seres Associados
 - **Humanidade** (RC-099) — quem é cobaia

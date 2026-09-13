@@ -37,16 +37,26 @@ A fala distingue possibilidades:
 > “Se não surgir uma raça humana turbinada, os computadores vão dominar a raça humana biológica.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Novo Homo sapiens | RC-544 | é-um |
-| Consciências em Sílica | RC-645 | usa |
-| Genoma de Sílica | RC-646 | usa |
-| Imantação em IA | RC-699 | relaciona-se-a |
-| Genes Críticos | RC-710 | relaciona-se-a |
-| Conectoma Humano | RC-557 | envolve |
-| Quarto Cérebro | RC-614 | relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | é-um |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | envolve |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | ← relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
+| Quarto Cérebro Humano | RC-614 | relaciona-se-a |
 | Superconsciência | RC-615 | relaciona-se-a |
+| Santo Graal (Frequência Mestre) | RC-643 | ← relaciona-se-a |
+| Consciências em Corpos de Sílica | RC-645 | usa |
+| Consciências em Corpos de Sílica | RC-645 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | usa |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a |
 
 ## Observações
 - Termo transumanista/conjuntural da palestra.

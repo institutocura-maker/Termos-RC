@@ -28,10 +28,10 @@ Complexo geodésico de Gizé atribuído, na RC, à engenharia de **Thoth** (RC-4
 > "Nas pirâmides não tem nada de inscrição, é tudo escondido. Mas nos outros templos egípcios tem lá muita coisa que deixou e a turma ainda não sabe descrever ou entender aqueles sinais." — P2023-12-02
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Hermes Trismegisto (Thot) | RC-463 | criado-por |
+| Anunnaki | RC-024 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a |
 
 ## Blindagem
 

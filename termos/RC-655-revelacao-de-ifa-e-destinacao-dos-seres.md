@@ -57,11 +57,30 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-397 | — | relaciona-se-a |
-| RC-514 | — | relaciona-se-a |
-| RC-226 | — | relaciona-se-a |
+| Hiperbórea | RC-068 | ← relaciona-se-a |
+| Mentalma | RC-166 | ← relaciona-se-a |
+| Cidadão Cósmico | RC-226 | — |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Wyrd / Urd (Teia do Destino) | RC-658 | atualiza |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | ← relaciona-se-a |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← explicado-por |
+| Projeto Orunmilá–Olodus | RC-741 | ← produz |
+| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | relaciona-se-a |
 
 ## Seres Associados
 Consultar relações na Base.

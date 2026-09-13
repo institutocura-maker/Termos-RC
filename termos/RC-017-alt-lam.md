@@ -39,8 +39,10 @@ Com isso:
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Alt´Lam Gron | RC-018 | associado |
 | Antares (Sistema) | RC-021 | **sem aresta** em `RELACOES`; arquivo existe |
 | Mastlans Phisosferas / Luciferianas | RC-079 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Yel Luzbel | RC-142 | **sem aresta** em `RELACOES`; arquivo existe |
+

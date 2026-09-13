@@ -32,12 +32,15 @@ Aparece em **P2025-04-06**, U0004. Contexto: depois da destruição de Asgard pe
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Kvasir e Freya | RC-396 | primeiro-ocorreu-em |
-| Odin | RC-135 | gerou |
-| Yggdrasil / Conglomerado | RC-730 | ocorreu-em |
-| Prometeu | RC-301 | operou-segundo |
-| Epimeteu | RC-302 | operou-segundo |
+| Vishnu (Mavatna) | RC-135 | gerou |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Prometeu (titã) | RC-301 | operou-segundo |
+| Epimeteu (titã) | RC-302 | operou-segundo |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | primeiro-ocorreu-em |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ocorreu-em |
 | Revolução Inacabada de Prometeu e Pandora | RC-788 | base-de |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
 
 ## Seres Associados
 - **Anões de Asgard** (criadores de Kvasir)

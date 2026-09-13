@@ -52,13 +52,13 @@ A série é **paralela às RC, mas intimamente ligada** ao corpus (o termo já e
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mentalma | RC-166 | é-um (o método da série) |
-| Arquivos Mentais | RC-548 | relaciona-se-a (tema do vol. I) |
-| Vontade de Progredir | RC-550 | relaciona-se-a (tema do vol. I) |
-| Dehatma Buddhi | RC-551 | relaciona-se-a (tema dos vols. I–II) |
-| Disciplina dos 3As | RC-552 | relaciona-se-a (tema dos vols. I–II) |
-| Eu Profundo | RC-553 | relaciona-se-a (tema dos vols. I–II) |
-| Gestão Psíquica e Memórias Complexas | RC-554 | relaciona-se-a (tema do vol. II) |
+| Mentalma | RC-166 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a (tema do vol. I) |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a (tema do vol. I) |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a (tema dos vols. I–II) |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (tema dos vols. I–II) |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (tema dos vols. I–II) |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a (tema do vol. II) |
 
 ## Seres Associados
 Jan Val Ellam (RC-071, criador e formulador da série e do curso).

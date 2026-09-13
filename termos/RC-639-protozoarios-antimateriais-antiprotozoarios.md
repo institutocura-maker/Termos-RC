@@ -32,12 +32,13 @@ São apresentadas como primeira face ressuscitada de Javé no universo vizinho.
 > “Os antiprotozoários foram os primeiros seres a habitar esse universo vizinho.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
-| Ressurreição do Cadáver do Criador | RC-638 | é-fase-de |
 | Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
-| Transições de Fase / Face da Criação | RC-640 | relaciona-se-a |
+| Ressurreição do Cadáver do Criador | RC-638 | é-fase-de |
+| Transições de Fase / Face da Criação | RC-640 | ← inclui |
+| Face Microbiana do Criador | RC-641 | associado |
 
 ## Seres Associados
 Consultar relações acima.

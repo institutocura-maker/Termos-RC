@@ -73,12 +73,22 @@ Conjunto de pulsações que as sinapses cerebrais produzem a cada instante, marc
 > "O que é o conectoma humano? É o conjunto de pulsações que as sinapses cerebrais a cada instante produzem, marcando, produzindo pensamentos, sentimentos que passam a caracterizar a sensação de eu daquela pessoa."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sensação de eu | RC-558 | relaciona-se-a |
 | Mentalma | RC-166 | relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | associado |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
+| Fios soltos (improviso humano × robô) | RC-564 | associado |
 | Quarto Cérebro Humano | RC-614 | relaciona-se-a |
+| Eu Coalescente | RC-620 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | ← envolve |
+| Humano Turbinado | RC-709 | relaciona-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | ← relaciona-se-a |
+| Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira) | RC-866 | associado |
+| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado |
+| Bolhas Psíquicas | RC-899 | associado |
+| Yoga Tibetana dos Sonhos | RC-906 | associado |
+| Sonhos como Realidades Paralelas | RC-908 | associado |
 
 ## Observações
 

@@ -50,13 +50,15 @@ Na leitura de Jan Val Ellam, um genótipo (GG) associado à gentileza, que teria
 > "Alguém teve a ideia de ser gentil. E esse alguém que teve a ideia de ser gentil marcou no genoma dele a mutação... E é assim que um novo genótipo é introduzido no genoma humano."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Dessensibilização da Condição Humana | RC-746 | relaciona-se-a (alternativa de genótipo) |
-| Enki (Anunnaki) | RC-486 | relaciona-se-a (introdução externa × produção interna) |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
 | Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
-| Evolução Possível | RC-541 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Dessensibilização da Condição Humana | RC-746 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
 
 ## Blindagem epistemológica — RESSAIVA OBRIGATÓRIA
 

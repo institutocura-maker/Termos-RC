@@ -26,11 +26,12 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relacionado |
-| RC-424 | — | relacionado |
-| RC-334 | — | relacionado |
+| Javé | RC-001 | — |
+| Jesus | RC-072 | relaciona-se-a |
+| Teocracia da Doença de uma Divindade | RC-334 | — |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | — |
 
 ## Seres Associados
 Consultar Base.

@@ -53,11 +53,17 @@ Esta distinção é a chave hermenêutica das RC: separa o "Deus" das religiões
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Deidade | RC-047 | sinônimo (Deus Incognoscível) |
-| Criador | RC-041 | distingue-se |
 | Javé | RC-001 | opõe-se-a (Deus Bíblico ≠ Deus Incognoscível) |
+| Brahma (Brajna) | RC-037 | associado |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | distingue-se |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | sinônimo (Deus Incognoscível) |
+| Divindades (Co-criadoras) | RC-054 | acima-de |
 | Espiritualidade Superior | RC-059 | unificado-ao |
-| Divindades | RC-054 | acima-de |
+| Realidade Maior / Paraíso Original | RC-204 | associado |
+| Pai Supremo (Amantíssimo) | RC-205 | associado |
+| Prevalece o Amor | RC-224 | associado |
+| Democracia do Amor da Deidade | RC-333 | associado |
+| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
 
 ## Seres Associados
 Deidade (RC-047); Criador/Brahma (RC-041, RC-037).

@@ -31,11 +31,11 @@ Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Jav
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | criou |
+| Javé | RC-001 | criou |
 | Big Bang | RC-034 | ocorreu-em |
-| Elétrons | RC-162 | paralelo-com |
-| Pandemia de Buraco Branco | RC-809 | contextualiza |
-| Era da Solidão de Javé | RC-808 | contextualiza |
+| Elétrons (agente básico da vida universal) | RC-162 | paralelo-com |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | contextualiza |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | contextualiza |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem criou os dois universos

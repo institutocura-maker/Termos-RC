@@ -31,6 +31,14 @@ Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Gen
 - RC-529 (Ressonância Límbica) — linguagem quântica que une os seres
 - RC-722 (Dignidade) — a pulsação da dignidade como proteção contra manipulação
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | associado |
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Vício Devocional | RC-749 | associado |
+| Código Filosófico Pessoal | RC-897 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

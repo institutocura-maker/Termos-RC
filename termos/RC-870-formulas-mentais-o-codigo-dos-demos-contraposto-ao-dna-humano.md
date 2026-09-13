@@ -54,11 +54,17 @@ Com isso:
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
+| Norte Divino | RC-083 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
 | Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | **sem aresta** em `RELACOES`; arquivo existe |
+| Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
 | Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | **sem aresta** em `RELACOES`; arquivo existe |
-| Norte Divino | RC-083 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Atos performativos (as frases que fazem coisas com palavras) | RC-876 | associado |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
+| Maestria existencial (o valor repousado no modo como se vive) | RC-880 | associado |
+| O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento) | RC-881 | associado |
+| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
+

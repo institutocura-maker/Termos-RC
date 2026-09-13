@@ -38,10 +38,13 @@ O B043 (2009, romance espírita psicografado por JVE) narra: o Drama dos Reis Ga
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | envolve |
-| Mordon (o Druida) | RC-374 | é-um |
-| Druidas Celtas | RC-375 | contexto |
-| José de Arimatéia | RC-376 | acompanha |
-| Brendiver e Dolman | RC-377 | associado-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Mordon (o Druida da Montanha) | RC-374 | é-um |
+| Druidas Celtas (contexto RC) | RC-375 | contexto |
+| José de Arimatéia (no corpus RC) | RC-376 | acompanha |
+| Brendiver e Dolman (personagens celtas) | RC-377 | associado-a |
+| Thuata de Dannan | RC-398 | associado |
+| Colegiado Druídico | RC-403 | associado |
 
 ## Seres Associados
 Jesus (RC-072); José de Arimatéia (RC-376); Mordon (RC-374); Brendiver e Dolman (RC-377).

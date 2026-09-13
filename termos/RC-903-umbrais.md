@@ -17,3 +17,9 @@ Umbrais — conceito desenvolvido na palestra «A Teia da Vida e o Circuito Ocul
 ## Relações
 - RC-479
 - RC-899
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Bolhas Psíquicas | RC-899 | associado |
+

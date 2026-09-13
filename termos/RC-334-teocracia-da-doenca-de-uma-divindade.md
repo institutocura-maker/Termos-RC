@@ -43,12 +43,15 @@ O capítulo 6 de B048 (título completo: "A Democracia do Amor da Deidade x a Te
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Democracia do Amor | RC-333 | opõe-se-a |
-| Criador | RC-041 | é-um |
 | Javé | RC-001 | agente |
-| Modelo Colmeia | RC-176 | expressão |
-| Lavagem Cerebral | RC-335 | instrumento |
-| A Difícil Cobrança | RC-339 | desdobramento |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | expressão |
+| Favor Divino (conceito invertido) | RC-332 | associado |
+| Democracia do Amor da Deidade | RC-333 | ← opõe-se-a |
+| Lavagem Cerebral (condicionamento) | RC-335 | instrumento |
+| A Difícil Cobrança sobre os Humanos | RC-339 | desdobramento |
+| Tormento dos Eleitos de Javé | RC-685 | associado |
 
 ## Seres Associados
 Javé (RC-001); Criador (RC-041); Seres Terrenos (RC-099, submetidos).

@@ -33,13 +33,17 @@ Aparece em **P2025-04-06**, U0004. Contexto: "central de informação. Eu chamo 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prometeu | RC-301 | diagnosticou |
-| Epimeteu | RC-302 | diagnosticou |
 | Javé | RC-001 | lamuriou-se |
-| Zeus | RC-149 | lamuriou-se |
-| Ragnarok | (ver RC-009/RC-730) | contextualizado-por |
+| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Mônada (Mônada Espiritual) | RC-149 | lamuriou-se |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Prometeu (titã) | RC-301 | diagnosticou |
+| Epimeteu (titã) | RC-302 | diagnosticou |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | gatilho-de |
 | Centro Alquímico-Farmacopédico | RC-789 | ouviu-em |
-| Revolução Inacabada | RC-788 | gatilho-de |
+| Ragnarok | (ver RC-009/RC-730) | contextualizado-por |
 
 ## Seres Associados
 - **Prometeu** (RC-301) — quem diagnosticou

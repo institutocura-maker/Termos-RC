@@ -60,12 +60,16 @@ Na RC, os **Nefilins** da tradição bíblica (Gênesis 6) identificados com os 
 > "A Bíblia fala de cidades que eram dos povos chamados anaquins, enacins, e na linguagem bíblica essas duas expressões, anaquins e enacins, é a mesma coisa que Anunnaki e Nefilim." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Elohim | RC-004 | ← relaciona-se-a |
+| Anunnaki | RC-024 | variação |
 | Anunnaki | RC-024 | sinônimo |
-| Hibridização genética | RC-516 | relaciona-se-a |
-| Ao Vencedor as Batatas | RC-764 | relaciona-se-a |
+| Kumari Kandan (tradição) | RC-329 | associado |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | ← relaciona-se-a |
+| Igigi | RC-580 | ← relaciona-se-a |
+| Igigi | RC-580 | relaciona-se-a |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
 ## Blindagem
 

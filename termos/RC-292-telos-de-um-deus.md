@@ -42,10 +42,14 @@ O conceito de telos é central para compreender a psicologia dos deuses demo nas
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Zeus | RC-145 | agente |
-| Era dos Humanos | RC-297 | contexto |
-| Eon de Khaos | RC-294 | ambiente |
+| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Eon de Khaos (Universo de Caos) | RC-294 | ambiente |
+| Era dos Humanos (Zeus e a) | RC-297 | contexto |
+| Urdidura de Metatron | RC-674 | associado |
+| Sophia como Protetorado da Humanidade | RC-784 | associado |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | associado |
 
 ## Seres Associados
 Zeus (RC-145); demos do Olimpo (RC-049).

@@ -44,9 +44,10 @@ Com isso:
 | P2012-02-19 | Xadrez Cósmico de Brahma, Vishnu e Shiva (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | **sem aresta** em `RELACOES`; arquivo existe |
+| Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
 | Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | **sem aresta** em `RELACOES`; arquivo existe |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | **sem aresta** em `RELACOES`; arquivo existe |
+

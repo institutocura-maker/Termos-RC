@@ -25,12 +25,13 @@ Título de um dos livros de Jan Val Ellam (B048), no qual se demonstra que os es
 > "Nós estamos fazendo um favor divino, colecionando em cada um de nós as piores informações dessa história e procurando ressignificá-las ao longo da nossa existência."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Criador (Brahma/Javé/Demiurgo) | RC-041 | beneficia (alvo do favor) |
 | Javé | RC-001 | beneficia (o Ser adoentado) |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | beneficia (alvo do favor) |
 | Demiurgo | RC-048 | equivale-em-função |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Favor Divino (conceito invertido) | RC-332 | ← variação |
 
 ## Observações
 

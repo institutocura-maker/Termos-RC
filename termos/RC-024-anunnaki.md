@@ -11,6 +11,44 @@
 
 Na RC, os "deuses" da antiga Suméria: seres biológicos de **Nibiru** (RC-589) presentes na Terra há ~450.000 anos, organizados sob um imperador (**Anu**, RC-587) e comandantes (**Enki** RC-486, **Enlil** RC-487, **Ninmah** RC-461), incluindo a tipologia dos **Igigi** (RC-580). "Donos da terra" segundo a própria lógica anunnaki, perderam espaço mas mantêm "título" de propriedade.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anjos caídos | RC-020 | associado |
+| Deuses (os dois tipos) | RC-053 | associado |
+| Mensagem Talm | RC-080 | associado |
+| Nephilins | RC-082 | associado |
+| Seres Extrafísicos | RC-097 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
+| Val Geon | RC-126 | associado |
+| Val Pen | RC-129 | associado |
+| Viajores | RC-134 | associado |
+| Ostronomos | RC-232 | ← associado-a |
+| Mundo das Águas | RC-250 | associado |
+| Entroncamentos Genéticos Intersiderais | RC-323 | ← envolve |
+| Grupos de Entroncamento (1-4) | RC-324 | associado |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← é-um |
+| Ninmah (Anunnaki geneticista) | RC-461 | ← é-um |
+| Oannes (filho de Ostronomos) | RC-462 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Inanna (= Danu; Anunnaki) | RC-464 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← é-um |
+| Enlil (deus sumério, par de Enki) | RC-487 | ← é-um |
+| Nefilins (= Anunnaki) | RC-488 | ← variação |
+| Nefilins (= Anunnaki) | RC-488 | ← sinônimo |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | associado |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | associado |
+| Usinas geodésicas de Gizé (engenharia de Thoth) | RC-534 | associado |
+| Igigi | RC-580 | ← é-um |
+| Igigi | RC-580 | ← relaciona-se-a |
+| Igigi | RC-580 | relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | associado |
+| Anu (patriarca Anunnaki) | RC-587 | ← é-um |
+| Ninurta | RC-588 | ← é-um |
+| Nibiru | RC-589 | ← associado-a |
+| Intercessão de Enoque pelos Anunnaki | RC-673 | ← envolve |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+
 ## Atualização — P2023-12-02
 
 - **Chegada:** há ~450.000 anos; Alalu chegou primeiro (fugindo de disputa em Nibiru) e descobriu o **ouro** terrestre — escudo atmosférico de Nibiru (obliquidade orbital);

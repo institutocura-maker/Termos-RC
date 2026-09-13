@@ -26,6 +26,13 @@ Na Aula 05, «a verdadeira face de Maria Madalena» é desdobrada (papel de apó
 - **Variações / grafias alternativas:** Madalena
 - **Idioma de origem:** — (pessoa; «Madalena» = de Magdala)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado |
+| Evangelho de Bartolomeu | RC-904 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

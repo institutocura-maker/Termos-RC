@@ -52,13 +52,18 @@ No B015, Zont narra: (1) o primeiro contato com os "Viajores" (há ~48 mil anos,
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| En Drel | RC-055 | é-um |
-| Endrelnianos | RC-247 | irmãos |
-| Éden do Criador | RC-242 | guarda |
-| Viajores da Rebelião | RC-248 | contato |
-| Expulsão dos Viajores | RC-249 | executou |
+| Javé | RC-001 | associado |
 | Guerra do Éden | RC-006 | contexto |
-| A Humanização do Criador | RC-245 | observa |
+| Anjos clones | RC-019 | associado |
+| En Drel | RC-055 | é-um |
+| Seres Terrenos (Homo Sapiens) | RC-099 | humaniza-se-por |
+| Éden do Criador (Éden como laboratório) | RC-242 | ← guarda |
+| A Humanização do Criador | RC-245 | ← experimenta |
+| Endrelnianos | RC-247 | irmãos |
+| Viajores da Rebelião | RC-248 | contato |
+| Expulsão dos Viajores (decreto do Criador) | RC-249 | ← executado-por |
+| Individualização Epifenomenológica dos Anjos Clones | RC-651 | ← envolve |
+| Últimas Ordens de Javé aos Clones | RC-652 | ← envolve |
 
 ## Seres Associados
 Javé (RC-001); Criador (RC-041); Comandante En Drel 1; Adão e Eva (RC-189); Jesus (RC-072).

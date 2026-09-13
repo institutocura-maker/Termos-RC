@@ -29,11 +29,11 @@ Aparece em **P2018-10-06 — Humanidade em Disputa a Descendência de Pandora**,
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Especiação (conceito-mãe) | RC-056 | associado-a |
-| Especiação Humana — Levas Genéticas | RC-783 | sinônimo-parcial |
-| Homo Sapiens / Seres Terrenos | RC-099 | aplica-se-a |
+| Especiação | RC-056 | associado-a |
 | Pandora | RC-086 | é-resultado-de |
-| Fornos Replicadores | RC-188 | instrumentalizado-por |
+| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | instrumentalizado-por |
+| Especiação Humana — Levas Genéticas | RC-783 | sinônimo-parcial |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem destravou a humanidade para que a especiação fosse possível

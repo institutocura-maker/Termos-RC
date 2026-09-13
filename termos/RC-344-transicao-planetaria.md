@@ -43,10 +43,15 @@ Com isso:
 | B042 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Reintegração Cósmica | RC-003 | aresta pré-existente; arquivo existe |
-| Quarentena Sideral / Cósmica | RC-342 | **sem aresta** em `RELACOES`; arquivo existe |
-| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+| Reintegração Cósmica | RC-003 | antecede |
+| Reintegração Cósmica | RC-003 | ← relaciona-se-a |
 | Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
+| Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+| Quarentena Sideral / Cósmica | RC-342 | **sem aresta** em `RELACOES`; arquivo existe |
+| Projeto Orbum (cidadania planetária) | RC-535 | associado |
+| Era do Conhecimento e da Espiritualização | RC-536 | associado |
+| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | ← relaciona-se-a |
 | Cinturão de Fótons | RC-573 | **sem aresta** em `RELACOES`; arquivo existe |
+

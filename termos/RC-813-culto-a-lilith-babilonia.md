@@ -31,12 +31,13 @@ Aparece em **P2018-05-20**, U0004. Contexto: depois que Lilith foge do "curral c
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Lilith | RC-308 | é-protagonista-de |
-| Lilith como Rxaça | RC-794 | é-paralelo-com |
-| Inanna | RC-464 | é-análoga-babilônica |
-| Judaísmo | RC-796 | apagou |
-| Enoque | RC-489 | é-contexto-de |
-| Patriarcado desde Pandora | RC-818 | é-contexto-de |
+| Ulsh | RC-105 | associado |
+| Adhytia (nível hierárquico) | RC-308 | é-protagonista-de |
+| Inanna (= Danu; Anunnaki) | RC-464 | é-análoga-babilônica |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | é-contexto-de |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | é-paralelo-com |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | apagou |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | é-contexto-de |
 
 ## Seres Associados
 - **Lilith** (RC-308) — quem se transformou em deusa

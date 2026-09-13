@@ -33,12 +33,14 @@ Aparece em **P2018-02-24**, U0002 e U0005. Contexto: Pandora é apresentada como
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Pandora | RC-086 | protagoniza |
-| Estratégia dos Avatares | RC-797 | opõe-se-a |
 | Jesus | RC-072 | opõe-se-a (atitudes antagônicas) |
-| Mudança de Estratégia das Trevas | RC-798 | contextualiza |
-| Religiões Impositivas | RC-105 | critica |
-| Seres Terrenos / Humanidade | RC-099 | bate-duro-por |
+| Pandora | RC-086 | protagoniza |
+| Seres Terrenos (Homo Sapiens) | RC-099 | bate-duro-por |
+| Ulsh | RC-105 | critica |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | opõe-se-a |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | contextualiza |
+| Humanos como Cobaias dos Deuses | RC-802 | associado |
+| Versão Oficial como Construção dos Seguidores | RC-804 | associado |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem se opõe

@@ -49,11 +49,19 @@ Com isso:
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| CFDP (Código-fonte Definidor Pessoal) | RC-153 | **sem aresta** em `RELACOES`; arquivo existe (P5f) |
-| Projeto Talm | RC-091 | aresta pré-existente; arquivo existe |
-| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | aresta pré-existente; arquivo existe |
+| Projeto Talm | RC-091 | produzido-por |
+| Projeto Talm | RC-091 | ← transforma |
+| Projeto Talm | RC-091 | ← relaciona-se-a |
+| CFDP (Código-fonte Definidor Pessoal / Código de Vida Pessoal do Criador) | RC-153 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | converte-se-em |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | ← relaciona-se-a |
 | Evolução da Informação, não das Espécies | RC-693 | **sem aresta** em `RELACOES`; arquivo existe |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | ← transfere-para |
+| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado |
+| Memória dos Elétrons e Arcanos | RC-829 | associado |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+| Nada Brahma (tudo é som) | RC-845 | associado |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
 
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-154.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

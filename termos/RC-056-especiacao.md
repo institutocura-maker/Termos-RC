@@ -11,6 +11,19 @@
 
 Processo descrito na Revelação Cósmica como a **mudança de expressão conscencial/biológica da humanidade** — não por evolução darwiniana nem por intervenção divina, mas por um salto qualitativo ligado à produção de **novas proteínas** e à elevação de consciência. Em P2023-05-13, Ellam apresenta a especiação como a via para gerar a Criatura Universal (RC-042): "aqui na terra talvez não dê para ser feito isso" com a humanidade atual.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criatura Universal | RC-042 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Pílula vermelha | RC-192 | associado |
+| Cessão Consciente do DNA Humano | RC-698 | ← aplica-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Especiação a partir do DNA Humano | RC-778 | associado |
+| Especiação Humana — Levas Genéticas | RC-783 | associado |
+| DNA Neutralizado (código neutralizado de podridão do criador) | RC-864 | associado |
+
 ## Atualização — P2023-05-13
 
 - **Novas proteínas:** "processo de compreensão e de produção das novas proteínas que são necessárias para o que vem por aí";

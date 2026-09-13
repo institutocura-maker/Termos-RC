@@ -48,11 +48,16 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 > "Javé teve uma raiva tão grande de Faleg e depois de uns descendentes de Gômer que ele jogou uma maldição que transformava o DNA de tudo que era mulheres em um tipo de DNA estéril." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé | RC-001 | relaciona-se-a (maldição) |
-| Heber (patriarca pós-dilúvio) | RC-436 | filho-de |
+| Javé | RC-001 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
+| Heber (patriarca pós-dilúvio) | RC-436 | é-um |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | associado |
+| Melquizedec | RC-650 | associado |
 
 ## Blindagem
 

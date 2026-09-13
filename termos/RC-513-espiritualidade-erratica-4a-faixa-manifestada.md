@@ -52,6 +52,18 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 
 - **[A espiritualidade errática e os níveis espirituais] (U0036)** «os espíritos que flu nesse processo pertence a essa condição.» — a pergunta sobre os níveis: "a maioria dos espíritos que flu nesse processo pertence a essa condição. Porém existia sim e existe sim nessa sala tem um outro espírito que já existia por aqui antes de para Brasna fazer essa besteira e hoje tem corpos aqui" (U0036: «Porém existia sim e existe sim nessa sala tem um outro espírito que já existia por aqui antes de para Brasna fazer essa besteira»); "Kardec chamava isso aqui de erra cidade" (U0036: «Kardec chamava isso aqui de erra cidade»); "os índios que já viviam lá foram se encontrando em níveis espirituais vinculados à Terra e construíram nosso lar" (U0036: «os índios que já viviam lá foram se encontrando em níveis espirituais vinculados à Terra e construíram nosso lar»).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Roseral do Alto | RC-616 | associado |
+| Tempo como Transformação / Permanente Agora | RC-634 | associado |
+| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Faixas Espirituais de Ressonância | RC-726 | ← relaciona-se-a |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

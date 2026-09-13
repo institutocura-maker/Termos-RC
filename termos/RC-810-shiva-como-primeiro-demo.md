@@ -31,11 +31,12 @@ Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconst
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Shiva (Chiva) | RC-148 | é-primeiro-demo |
-| Javé (Brama) | RC-001 | destruiu-clone-de |
-| Era da Solidão de Javé | RC-808 | contextualiza |
-| Zeus | RC-149 | é-descendente-de |
-| Ser Criador Fracassado | RC-422 | origina |
+| Javé | RC-001 | destruiu-clone-de |
+| Agentes da Vida Universal | RC-148 | é-primeiro-demo |
+| Mônada (Mônada Espiritual) | RC-149 | é-descendente-de |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | origina |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | contextualiza |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
 
 ## Seres Associados
 - **Shiva** (Chiva no STT; RC-148) — o primeiro demo

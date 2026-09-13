@@ -48,10 +48,16 @@ Em B020, Pandora narra sua convivência com o criador: "os desígnios de Caos/Ja
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Javé | RC-001 | variação |
-| Brahma | RC-037 | variação |
-| Criador | RC-041 | é-um |
-| Eros = Vishnu / Tártaro = Shiva | RC-286 | paralelo |
-| Pandora como Serpente | RC-283 | afronta |
+| Brahma (Brajna) | RC-037 | variação |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Pandora como Serpente do Éden | RC-283 | ← afronta |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | paralelo |
+| Os Anais de uma Cultura Perdida | RC-288 | associado |
+| Eon de Khaos (Universo de Caos) | RC-294 | ← variação |
+| Genética Totalitária | RC-325 | associado |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | ← variação |
+| Jeová (grafia da trilogia) | RC-346 | associado |
 
 ## Seres Associados
 Caos/Javé (RC-001); Brahma (RC-037); Criador (RC-041).

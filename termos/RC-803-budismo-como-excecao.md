@@ -29,11 +29,12 @@ Aparece em **P2018-02-24**, U0005. Contexto: depois de listar as religiões como
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Seres Espirituais | RC-100 | associado |
+| Ulsh | RC-105 | é-exceção-a |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | escapa-de |
+| Jesus como Último Avatar (Não Mata) | RC-800 | paralelo-com (séculos antes/depois) |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | opõe-se-a |
 | Budismo / Gautama | RC-803 | qualifica |
-| Religiões Impositivas | RC-105 | é-exceção-a |
-| Estratégia dos Avatares | RC-797 | escapa-de |
-| Jesus como Último Avatar | RC-800 | paralelo-com (séculos antes/depois) |
-| Espiritismo com Germe da Poluição | RC-805 | opõe-se-a |
 
 ## Seres Associados
 - **Buda/Gautama** (~séc. V-IV AC)

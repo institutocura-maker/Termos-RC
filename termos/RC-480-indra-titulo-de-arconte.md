@@ -28,11 +28,17 @@ Título/epíteto, não nome próprio: na leitura da RC, "um Indra é um arconte"
 > "Um Indra é um arconte, é um epíteto, não é nome próprio." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Arcontes | RC-474 | relaciona-se-a |
-| Timé | RC-293 | relaciona-se-a |
+| Zeus | RC-145 | ← variação |
+| Zeus | RC-145 | ← variação |
+| Zeus | RC-145 | ← variação |
+| Timé (de um deus) | RC-293 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← gera-linhagem-de |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 | Zeus | — | relaciona-se-a |
 
 ## Observações

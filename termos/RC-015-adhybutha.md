@@ -25,12 +25,12 @@ Perispírito menor: instrumento modelador biológico e demo — a "base dos ente
 > "Adhybutha seria uma 'expansão' de um tipo de 'projeção' da condição Adhyagia." — B024, Nota 20
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Adhydaiva | RC-014 | edificada-por |
 | Adhyajna | RC-016 | dá-suporte-a |
 | Demos | RC-049 | associado-a |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
 
 ## Observações
 

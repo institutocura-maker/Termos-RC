@@ -42,8 +42,12 @@ Com isso:
 | B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Biodemos | RC-036 | aresta pré-existente; arquivo existe |
+| Biodemos | RC-036 | é-um |
 | Lúcifer (Yel Luzbel) | RC-078 | **sem aresta** em `RELACOES`; arquivo existe |
 | Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | **sem aresta** em `RELACOES`; arquivo existe |
+| Marca Val (A Estratégia do Possível) | RC-233 | ← revela |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
+| Grupos de Entroncamento (1-4) | RC-324 | associado |
+

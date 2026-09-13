@@ -38,16 +38,26 @@ A palestra afirma que:
 > “Não há autoridade, não há justiça divina em curso.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Wyrd/Urd | RC-658 | submetidos-a |
-| Revelação de Ifá | RC-655 | explicado-por |
-| Decência Cósmica | RC-508 | relaciona-se-a |
-| Imperativo Categórico | RC-328 | relaciona-se-a |
-| PIA | RC-716 | envolve |
-| Herança Cósmica | RC-519 | envolve |
-| Sentido Gradualístico | RC-404 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | ← relaciona-se-a |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | envolve |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
+| Moksha | RC-618 | relaciona-se-a |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | explicado-por |
+| Wyrd / Urd (Teia do Destino) | RC-658 | submetidos-a |
 | Informações Vivas | RC-715 | processa |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← submete |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | envolve |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | relaciona-se-a |
 
 ## Observações
 - Não confundir ausência de juiz externo com ausência de consequências.

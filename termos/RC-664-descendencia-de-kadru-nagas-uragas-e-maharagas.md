@@ -115,21 +115,35 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 > “O primeiro reino efetivamente organizado [...] foi o reino dos Uragas e das Nagas.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Mão Invisível Multiforme | RC-697 | atua-por |
-| Cessão Consciente do DNA | RC-698 | relaciona-se-a |
-| Kashyapa | RC-700 | descende-de |
-| Daksha e Virini | RC-701 | descende-de |
-| Tirthankaras | RC-397 | relaciona-se-a |
-| Xamanismo Cósmico | RC-577 | relaciona-se-a |
-| Farmacopeia Ancestral | RC-687 | relaciona-se-a |
-| Yajna | RC-688 | relaciona-se-a |
-| Som da Flauta | RC-668 | relaciona-se-a |
-| Yoga Ancestral | RC-670 | relaciona-se-a |
-| Pandora como Serpente | RC-283 | influencia |
+| Pandora como Serpente do Éden | RC-283 | influencia |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
 | Áurea Catena | RC-663 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | ← relaciona-se-a |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | relaciona-se-a |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | ← relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | ← relaciona-se-a |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | parte-de |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← inclui |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | atua-por |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← gera-linhagem-de |
+| Kashyapa | RC-700 | descende-de |
+| Kashyapa | RC-700 | ← relaciona-se-a |
+| Kashyapa | RC-700 | relaciona-se-a |
+| Daksha e Virini | RC-701 | ← gera-linhagem-de |
+| Daksha e Virini | RC-701 | descende-de |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Kami (Projeto Japonês) | RC-740 | ← relaciona-se-a |
 
 ## Observações Científicas e Comparativas
 - Tradições hindu, budista, jainista e iconográfica reconhecem Nagas em sentidos próprios; isso não valida automaticamente a ontologia física da palestra.

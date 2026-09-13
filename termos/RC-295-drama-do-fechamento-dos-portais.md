@@ -25,6 +25,20 @@ O fechamento dos portais é o divisor entre o tempo em que os deuses conviviam d
 - **[B021 p. 127–128]** cap. 21: tema «ausente nos estudos humanos»; «a partir desse evento se acabou o engodo dos deuses». Pitonisas/oráculos = descrição do ensaio; RC-296 permanece **sem ficha**. «Dementes» (p. 128) = **clínica — fora da ontologia**. Falas de Zeus **isoladas**. Sem fusão com B024 / B001. Fonte **B021** já constava na tabela-mestra.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Isolamento Cósmico | RC-070 | associado |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
+| Zeus | RC-145 | envolve |
+| Pitonisas e Oráculos (Apolo/Delfos) | RC-296 | resulta-em |
+| Era dos Humanos (Zeus e a) | RC-297 | ← sucede |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0496–U0502; U0855–U0863.

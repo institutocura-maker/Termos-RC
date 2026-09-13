@@ -26,6 +26,22 @@ A lista é uma arquitetura da palestra; identidades e cronologias devem permanec
 - **Cumprimento da Profecia (P2024-11-30):** "a profecia diz que só quando [Moros] resgatasse as três setas, todo o conjunto de seres dos dois universos iriam entender e saber a história desde o momento zero desta criação até os tempos em que as setas fossem descortinadas, deslacradas, novamente lidas, compreendidas e explicadas"; "esta [espécie humana] apenas faria a leitura crítica e explicaria para todas as demais espécies, cujo entendimento é inferior" — a RC como leitura crítica humana das setas.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | é-evento-de |
+| Revelação Cósmica (conceito) | RC-094 | ← cumpre |
+| Revelação Espiritual (Kardec) | RC-190 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | iniciado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Vyasa | RC-585 | envolve |
+| Flechas / Profecias de Moros | RC-611 | cumpre |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
+| Arquivos do Destino Universal | RC-714 | ← cumpre-se-em |
+| Arquivos do Destino Universal | RC-714 | abre |
+| Arquivos do Destino Universal | RC-714 | relaciona-se-a |
+
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Confirmação do cumprimento:** "essas setas estão sendo encontradas nesse tempo de vida da gente. E esse processo aqui funcionou. E a Revelação Cósmica é exatamente a revelação das setas" — o cumprimento da profecia de Moros (RC-611) em curso;

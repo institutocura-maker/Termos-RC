@@ -35,12 +35,20 @@ A Genética Totalitária conecta-se à escolha dos **três segmentos étnicos** 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Povos Escolhidos | RC-326 | usa |
-| Caos = Brahma = Javé | RC-284 | agente |
 | Javé | RC-001 | agente |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | alvo |
+| Caos = Brahma = Javé (correspondência) | RC-284 | agente |
 | Castas Trimurtianas | RC-321 | instrumento |
-| Seres Terrenos | RC-099 | alvo |
-| Ra-Atom / Og-mi | RC-331 | nomes do Criador |
+| Povos Escolhidos (ariano, judeu, árabe) | RC-326 | usa |
+| Homo hierarchicus | RC-327 | associado |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | nomes do Criador |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← atribuído-em-teologia-comparada-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← opõe-se-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | opõe-se-a |
+| Jabutis Genéticos | RC-729 | associado |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 
 ## Seres Associados
 Criador (RC-041); Javé (RC-001); Pandora (RC-086, origem da fuga do controle genético).

@@ -29,13 +29,13 @@ Aparece em **P2018-02-24**, U0005. Contexto: o autor lista as religiões como in
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Espiritismo / Kardec | RC-101 | qualifica |
-| Religiões Impositivas | RC-105 | inclui |
-| Lavagem Cerebral | RC-335 | contém-germe-de |
+| Shamb-Aha | RC-101 | qualifica |
+| Ulsh | RC-105 | inclui |
+| Lavagem Cerebral (condicionamento) | RC-335 | contém-germe-de |
+| Jesus como Último Avatar (Não Mata) | RC-800 | paralelo-com |
+| Budismo como Exceção (Sem Deus) | RC-803 | opõe-se-a |
 | Catolicismo | (parte de RC-105) | contaminou-via |
 | Protestantismo | (parte de RC-105) | contaminou-via |
-| Budismo como Exceção | RC-803 | opõe-se-a |
-| Jesus como Último Avatar | RC-800 | paralelo-com |
 
 ## Seres Associados
 - **Kardec** (1804-1869) — codificador do Espiritismo

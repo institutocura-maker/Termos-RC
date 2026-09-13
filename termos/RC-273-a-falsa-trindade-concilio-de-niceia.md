@@ -76,11 +76,14 @@ O capítulo 17 de B014 parte da constatação de que Sophia, "apesar de investid
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia | RC-009 | obscurece |
-| Jesus | RC-072 | substituído (trindade) |
-| Trimurti | RC-104 | distorce (paralelo hindu) |
-| Revelação Cósmica | RC-094 | contexto |
 | Javé | RC-001 | "Pai" da trindade |
+| Sophia (Cristo Cósmico) | RC-009 | obscurece |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Septuaginta | RC-096 | ← relaciona-se-a |
+| Trimurti | RC-104 | distorce (paralelo hindu) |
+| Racionalidade Humana Trucidada | RC-786 | associado |
+| Pôncio Pilatos / Caifás / Sinédrio | RC-946 | associado |
 
 ## Seres Associados
 Sophia (RC-009); Jesus (RC-072); Javé (RC-001).

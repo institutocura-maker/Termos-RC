@@ -24,6 +24,13 @@ E (Aula 02), sobre o batismo como necessidade:
 - **Variações / grafias alternativas:** (nenhuma registrada no censo)
 - **Idioma de origem:** — (pessoa; «Batista» = o que batiza)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Agenda Espiritual | RC-752 | associado |
+| Essênios (seita judaica puritana; criadores de João Batista) | RC-862 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -32,13 +32,14 @@ Aparece em **P2018-05-20**, U0003. Contexto: a palestra reconstrói a **sequênc
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Agar (bíblica) | RC-455 | é-paralelo-com |
-| Javé (Brama) | RC-001 | é-2ª-tentativa-de |
-| Lilith | RC-308 | é-1ª-tentativa |
-| Eva | RC-814 | é-3ª-tentativa-sucesso |
-| Adão | (RC-302 é Adão) | é-companheiro-de |
-| Homo Sapiens | RC-099 | é-da-espécie |
+| Javé | RC-001 | é-2ª-tentativa-de |
 | Pandora | RC-086 | é-mãe-de-Ascendência-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-da-espécie |
+| Epimeteu (titã) | RC-302 | associado |
+| Adhytia (nível hierárquico) | RC-308 | é-1ª-tentativa |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | é-paralelo-com |
+| Eva como 3ª Tentativa de Fêmea para Adão (Homem + Mulher da Espécie Sábia) | RC-814 | é-3ª-tentativa-sucesso |
+| Adão | (RC-302 é Adão) | é-companheiro-de |
 
 ## Seres Associados
 - **Agar** — quem é a 2ª tentativa

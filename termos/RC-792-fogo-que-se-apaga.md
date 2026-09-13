@@ -34,13 +34,14 @@ Aparece em **P2025-04-06**, U0005. **Fonte mediúnica literal**: o autor cita um
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | carrega |
-| Prometeu | RC-301 | trouxe |
-| Hefaístos (Efestos) | RC-149 | produziu-pacote-genético |
-| Atena | (verificar RC) | produziu-pacote-genético |
+| Ulsh | RC-105 | corrompe-via |
+| Mônada (Mônada Espiritual) | RC-149 | produziu-pacote-genético |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Prometeu (titã) | RC-301 | trouxe |
+| Lavagem Cerebral (condicionamento) | RC-335 | apaga-via |
 | Revolução Inacabada de Prometeu e Pandora | RC-788 | metaforiza |
-| Conceito Abaiano | RC-793 | caminho-para-reacender |
-| Lavagem Cerebral | RC-335 | apaga-via |
-| Religiões Impositivas | RC-105 | corrompe-via |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | caminho-para-reacender |
+| Atena | (verificar RC) | produziu-pacote-genético |
 
 ## Seres Associados
 - **Pandora** (RC-086) — quem carrega o fogo

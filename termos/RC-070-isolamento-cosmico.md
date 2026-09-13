@@ -73,6 +73,31 @@ O Isolamento Cósmico é o **fim do período da Rebelião de Lúcifer** e a cond
 - **[P2022-03-26 · ISOLAMENTO CÓSMICO NA FALA DE 26/03/2022]** "Na época ficaram isolados 19 mundos. A Terra era só um desses mundos." (U0009) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebelião de Lúcifer | RC-002 | ← resulta-em |
+| Reintegração Cósmica | RC-003 | associado |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | termina-com |
+| Exilados de Capela | RC-007 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | associado |
+| Ulsh | RC-105 | associado |
+| Yel Luzbel | RC-142 | associado |
+| Cidadão Cósmico | RC-226 | associado |
+| Coreografia Cósmica (vinda de Sophia) | RC-258 | associado |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | associado |
+| Drama do Fechamento dos Portais | RC-295 | associado |
+| Fenômenos Denunciadores do Fim | RC-314 | associado |
+| Quarentena Sideral / Cósmica | RC-342 | ← variação |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
+| Terra de Ninguém (cósmica) | RC-358 | associado |
+| Blindagem cósmica (= quarentena terrestre) | RC-510 | ← variação |
+| Biblioteca Genômica Humana | RC-889 | associado |
+| Qualia como Processamento Humano | RC-894 | associado |
+| Point Interdimensional | RC-896 | associado |
+| Choque de Realidade | RC-898 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0862–U0881.

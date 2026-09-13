@@ -35,13 +35,16 @@ Coletivo da tradição hindu apresentado, na Teologia Comparada de Ellam, em cor
 | P2024-11-02 | U0656–U0724; U0743–U0815 | palestra/STT pré-curada |
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Samudra Manthana | RC-734 | participa-de |
-| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
-| Kashyapa | RC-700 | linhagem atribuída a |
-| Daksha e Virini | RC-701 | relaciona-se-a |
+| Zeus | RC-145 | associado |
+| Prometeu (titã) | RC-301 | ← é-um |
+| Epimeteu (titã) | RC-302 | ← é-um |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Kashyapa | RC-700 | ← gera-linhagem-de |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← envolve |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | participa-de |
 
 ## Blindagem histórica e religiosa
 

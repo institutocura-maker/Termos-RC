@@ -17,3 +17,9 @@ Germe da Morte — conceito desenvolvido na palestra «A Teia da Vida e o Circui
 ## Relações
 - RC-559
 - RC-628
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
+| Simultaneidade Reversa | RC-628 | associado |
+

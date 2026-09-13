@@ -36,12 +36,15 @@ A obra materializa o diálogo direto Criador × criatura: Mônica abre a Carta 1
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Resposta de Javé | RC-417 | responde-a |
-| Mônica Camargo | RC-420 | escrita-por |
-| Terminal Nervoso do Criador | RC-418 | tema |
-| "Sou eu que vivo em vocês" | RC-419 | tema |
 | Javé | RC-001 | destinatário |
-| Drama Espiritual de Javé | RC-002 | baseada-em |
+| Rebelião de Lúcifer | RC-002 | baseada-em |
+| Bhuloka | RC-033 | baseada-em |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | ← responde-a |
+| Terminal Nervoso do Criador (humano) | RC-418 | tema |
+| Sou eu que vivo em vocês (Javé) | RC-419 | tema |
+| Mônica Camargo (autora das cartas) | RC-420 | escrita-por |
+| As Memórias de Javé (crônicas) | RC-421 | associado |
 
 ## Seres Associados
 Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário).

@@ -45,15 +45,15 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 > "Na perspectiva dos antigos, nós temos que entender os chamados três mundos... o mundo físico dos fatos, o mundo astral das leis e o mundo espiritual ou dos princípios... O iniciado é o senhor dos fatos, das leis e dos princípios. O mago, sob essa perspectiva, só conhece os fatos e as leis. O sábio limita-se tão somente aos fatos. E assim, Tot sempre se autodenominou como sendo um sábio, porque ele tinha noção dos limites." — P2023-12-02
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Hermes Trismegisto (Thot) | RC-463 | relaciona-se-a (três vezes grande) |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a (par analítico) |
-| Planos de Existência da Cabala | RC-264 | relaciona-se-a (correspondência estrutural) |
-| Quarto Logos (Olm) | RC-092 | relaciona-se-a (futuro iniciático) |
-| Ser Humano Emancipado | RC-372 | relaciona-se-a (meta da escala) |
-| Ciência Pessoal | RC-695 | relaciona-se-a (laboratório íntimo do percurso) |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | relaciona-se-a |
+| O Ser Humano Emancipado | RC-372 | relaciona-se-a |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
+| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
 
 ## Blindagem epistemológica
 

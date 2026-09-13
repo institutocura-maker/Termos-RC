@@ -43,12 +43,13 @@ Com isso:
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | **sem aresta** em `RELACOES`; arquivo existe |
-| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | **sem aresta** em `RELACOES`; arquivo existe |
 | Entropia e Negentropia | RC-160 | **sem aresta** em `RELACOES`; arquivo existe |
 | Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | **sem aresta** em `RELACOES`; arquivo existe |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

@@ -36,10 +36,12 @@ No Livro 1 (B057), Yel Luzbel descreve a origem em si: a "vibração inusitada" 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Yel Luzbel | RC-142 | relaciona-se-a (o 1º a abrir lacres — relação B057) |
 | Biodemos | RC-036 | afeta (o condicionamento rompido) |
+| Yel Luzbel | RC-142 | relaciona-se-a |
 | Biocoletivos | RC-445 | relaciona-se-a (coletivo → individual) |
-| Infecção mental | RC-577 | relaciona-se-a (relação prévia B072) |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | associado |
+| Infecção mental / contágio vibratório | RC-520 | ← relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
 
 ## Seres Associados
 Yel Luzbel (RC-078/RC-142, o inaugurador); os "Rebelados de Capela"; Len Mion (RC-074).

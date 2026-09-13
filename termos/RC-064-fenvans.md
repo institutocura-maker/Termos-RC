@@ -64,12 +64,21 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Aya e Aye | RC-031 | associado |
+| Cultura Demo | RC-044 | associado |
+| Deuses (os dois tipos) | RC-053 | associado |
+| Genos | RC-066 | associado |
 | Mensagem Talm | RC-080 | relaciona-se-a (criadores) |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | ← gera |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | relaciona-se-a |
 | Projeto Talm | RC-091 | relaciona-se-a |
-| Ginnungagap | RC-776 | relaciona-se-a |
-| Éon das Três Esferas | RC-775 | relaciona-se-a |
-| Mohen So | RC-081 | relaciona-se-a |
-| Corpos Fenvã | RC-769 | relaciona-se-a |
+| Seres Extraterrenos / Extraterrestres | RC-098 | associado |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
+| Karuna | RC-165 | associado |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | relaciona-se-a |
+| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | ← relaciona-se-a |
 
 ## Observações
 - QUARENTENA CLÍNICA: Toxoplasma Gondii, "DNA lixo", vírus como "nanorrobôs" — leitura do autor, jamais dado biomédico;

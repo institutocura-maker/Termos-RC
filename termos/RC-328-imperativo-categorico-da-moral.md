@@ -35,11 +35,17 @@ O imperativo categórico marca a mudança provocada pelo modo humano de existir:
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | surge-em |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | freia |
 | Razão Filosófica dos Terráqueos | RC-231 | surge-em |
-| Liberdade Mental | RC-253 | relaciona-se-a |
-| Seres Terrenos | RC-099 | surge-em |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
 | Fator Dharma | RC-319 | desdobramento |
-| O Mal: Subproduto da Ignorância | RC-223 | freia |
+| Eu Coalescente | RC-620 | associado |
+| Verdade Posta × Verdade a Construir | RC-657 | associado |
+| Ato de Verdade / Satyagraha | RC-705 | ← relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | ← relaciona-se-a |
 
 ## Seres Associados
 Seres Terrenos (RC-099); Trimurti (RC-104); demos (RC-049).

@@ -24,12 +24,13 @@ Nome sânscrito do universo material — "o mundo" (B031): o universo que habita
 > "Na Revelação Cósmica esse universo é chamado de Bhuloka, que em sânscrito significa 'o mundo'." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Universo Material | RC-107 | sinônimo (nome sânscrito) |
 | Big Bang | RC-034 | originado-por |
 | Brahmaloka | RC-038 | associado-a (par complementar) |
+| Universo Material (Bhuloka) | RC-107 | ← sinônimo |
+| Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado |
+| Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
 
 ## Observações
 

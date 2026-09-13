@@ -38,9 +38,10 @@ Com isso:
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Rebelião de Lúcifer | RC-002 | **sem aresta** em `RELACOES`; arquivo existe |
 | Lúcifer (Yel Luzbel) | RC-078 | **sem aresta** em `RELACOES`; arquivo existe |
 | PIA — Peso da Inevitabilidade Ancestral | RC-716 | **sem aresta** em `RELACOES`; arquivo existe |
 | Eru Ilúvatar (criador no Silmarillion) | RC-843 | **sem aresta** em `RELACOES`; **sem arquivo** |
+

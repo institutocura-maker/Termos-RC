@@ -35,14 +35,14 @@ Aparece em **P2019-04-14**, U0003 e U0005. Contexto: a palestra explica que os h
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Alimentação por Perfume | RC-820 | é-mecanismo-de |
 | Javé | RC-001 | é-criador-de |
-| Shiva (Chiva) | RC-148 | animalizou-via |
 | Trimurti | RC-104 | orquestra |
-| Mahatma Magant | RC-822 | liberta-de |
-| Greve de Fome Genética | RC-824 | desestrutura |
-| DNA Insubmisso | RC-727 | é-complemento |
-| Padrão de Consciência Genético | RC-807 | é-paralelo-com |
+| Agentes da Vida Universal | RC-148 | animalizou-via |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | é-complemento |
+| Padrão de Consciência Genético por Espécie | RC-807 | é-paralelo-com |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | é-mecanismo-de |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | liberta-de |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | desestrutura |
 
 ## Seres Associados
 - **Javé (RC-001)** — quem iniciou a sequência

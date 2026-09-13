@@ -30,12 +30,12 @@ Forma preferida: **Pegadinha de Javé**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relaciona-se-a |
-| RC-659 | — | relaciona-se-a |
-| RC-072 | — | relaciona-se-a |
-| RC-662 | — | relaciona-se-a |
+| Javé | RC-001 | planejada-por |
+| Jesus | RC-072 | — |
+| Quirino Cornélio (Centurião da Crucificação) | RC-659 | envolve |
+| Agenda do Desespero dos Espíritos | RC-662 | ← motiva |
 
 ## Seres Associados
 Consultar Base.

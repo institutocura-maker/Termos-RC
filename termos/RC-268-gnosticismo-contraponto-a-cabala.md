@@ -33,14 +33,18 @@ Corrente esotérica cujas fontes são os **evangelhos gnósticos** — na RC, um
 > "Se eu pegar o Orfismo ou o Gnosticismo ou a Cabala ou a Teosofia ou o hermetismo, Thot está por trás de cada um deles, porque ele falou, ele organizou tudo isso lá atrás." — P2023-12-02
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Hermes Trismegisto (Thot) | RC-463 | relaciona-se-a |
-| Cabala | RC-261/262/264/468 | contraponto-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Revelação Espiritual (Kardec) | RC-190 | associado |
+| Kether (Javé na Cabala) | RC-261 | opõe-se-a |
+| Sefirot / Árvore da Vida | RC-263 | associado |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+| Evangelho de Judas | RC-647 | ← relaciona-se-a |
 | As Sete Leis Herméticas | RC-763 | relaciona-se-a |
-
----
+| Cabala | RC-261/262/264/468 | contraponto-a |
 
 ## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados)
 

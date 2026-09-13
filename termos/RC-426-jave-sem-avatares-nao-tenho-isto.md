@@ -33,6 +33,15 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - Esta é a fonte da fórmula — **não** interpolar em B016. Sem materializar RC-016 / RC-425 a partir desta fonte (RC-016 materializada P5e a partir de outras fontes). Sem fusão com B016.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Adhyajna | RC-016 | opõe-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Vishnu (Mavatna) | RC-135 | associado |
+
 ## Atualização — P2022-12-17
 
 - **Fonte:** palestra *O Incompreendido Ano de 2012 e a Falsa Noção do Fim do Mundo* — unidades U0662–U0666.

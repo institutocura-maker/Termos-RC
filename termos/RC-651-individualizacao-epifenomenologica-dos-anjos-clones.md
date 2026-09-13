@@ -36,12 +36,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-019 | — | relaciona-se-a |
-| RC-055 | — | relaciona-se-a |
-| RC-147 | — | relaciona-se-a |
-| RC-245 | — | relaciona-se-a |
+| Anjos clones | RC-019 | aplica-se-a |
+| En Drel | RC-055 | — |
+| Zont En Drel 29 | RC-147 | envolve |
+| A Humanização do Criador | RC-245 | — |
 
 ## Seres Associados
 Consultar relações na Base.

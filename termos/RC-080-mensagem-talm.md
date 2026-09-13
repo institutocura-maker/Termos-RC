@@ -69,12 +69,19 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 > "Tem essa mensagem talma que foi escrita pelos fenvães que já estavam dentro de um simulacro, mas que, em sabendo que iria existir vida no universo vizinho biológico, que era um outro simulacro, ou seja, faixas de realidade dentro de uma grande matrix. Essa mensagenzinha veio e no livro Sinal de Lzen eu conto, a pedidos desses seres, como é que esses seres descobriram essa mensagem." — P2023-05-13
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Yel Luzbel (Lúcifer) | RC-078 | relaciona-se-a (Rodrigo / faixa alternativa) |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
+| Anunnaki | RC-024 | associado |
+| Fenvans | RC-064 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
+| Processador Val | RC-089 | associado |
+| Projeto Talm | RC-091 | associado |
+| Yel Lupon | RC-141 | associado |
+| Karuna | RC-165 | associado |
 | Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Ginnungagap (zona intercessória entre universos; prisão dos fenvans frustrados) | RC-776 | associado |
+| Carga virótica (a materialização da primeira carga mental do criador) | RC-877 | associado |
 
 ## Colecionar Incertezas
 

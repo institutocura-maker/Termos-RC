@@ -30,12 +30,14 @@ Forma preferida: **Quirino Cornélio (Centurião da Crucificação)**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-071 | — | relaciona-se-a |
-| RC-072 | — | relaciona-se-a |
-| RC-001 | — | relaciona-se-a |
-| RC-660 | — | relaciona-se-a |
+| Javé | RC-001 | — |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | encarnação-de |
+| Jesus | RC-072 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Pegadinha de Javé | RC-660 | ← envolve |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
 
 ## Seres Associados
 Consultar Base.

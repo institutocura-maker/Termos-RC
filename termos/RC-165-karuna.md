@@ -43,9 +43,14 @@
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mensagem Talm | RC-080 | relaciona-se-a |
 | Fenvans | RC-064 | relaciona-se-a |
-| Nova Espiritualidade / Novo Paraíso | RC-612 | relaciona-se-a |
+| Lila | RC-075 | associado |
+| Mensagem Talm | RC-080 | relaciona-se-a |
+| Agentes da Vida Universal | RC-148 | associado |
+| Xadrez Cósmico | RC-150 | associado |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Oxitocina (hormônio do bem — base bioquímica da Karuna) | RC-839 | associado |
+| Kleśas (cinco entraves mentais ao progresso humano) | RC-840 | associado |
 
 ## Observações
 - Karuna (compaixão) — raiz sânscrita; reapropriação da RC (não é budismo acadêmico);

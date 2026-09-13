@@ -33,9 +33,11 @@ Aparece em **P2018-10-06**, U0004, no contexto da **sequência formativa** (Pand
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | associado-a |
-| Opção Inusitada de Pandora | RC-285 | parte-de |
+| Opção Inusitada de Pandora (humanização) | RC-285 | parte-de |
+| Flechas / Profecias de Moros | RC-611 | paralelo-com |
+| Pandora como Heroína Controversa | RC-780 | associado |
+| Javé como Caos Personificado | RC-782 | associado |
 | Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
-| Flechas/Profecias de Moros | RC-611 | paralelo-com |
 
 ## Seres Associados
 - **Pandora** (RC-086) — o agente do Momento Zero

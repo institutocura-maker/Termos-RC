@@ -31,12 +31,13 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica que a **liberta�
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Alimentação por Perfume | RC-820 | liberta-de |
-| Homo Sapiens | RC-099 | liberta |
 | Reintegração Cósmica | RC-003 | é-contexto-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | liberta |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | liberta-de |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | associado |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | é-método-de |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
 | Mahatma Gandhi | (fato histórico) | é-paralelo-com |
-| Jejum / Greve de Fome Genética | RC-824 | é-método-de |
-| Código Genético como Marca | RC-825 | é-alvo-de |
 
 ## Seres Associados
 - **Mahatma Magant** — quem lidera a libertação

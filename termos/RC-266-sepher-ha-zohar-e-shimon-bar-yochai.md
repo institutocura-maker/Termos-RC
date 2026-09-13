@@ -36,12 +36,16 @@ O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar 
 > Javé precisava criar um sistema que servisse de contraponto à derrota dele pelo fato de Jesus ter ressuscitado.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sefirot/Árvore da Vida | RC-263 | relaciona-se-a |
-| Isaac Luria | RC-267 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a |
+| Tzimtzum | RC-008 | associado |
+| Kether (Javé na Cabala) | RC-261 | revelado-por |
+| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
+| Sefirot / Árvore da Vida | RC-263 | relaciona-se-a |
+| Os 270 Mundos (profecia do Zohar) | RC-265 | ← profecias-em |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
+| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
 
 ## Observações
 

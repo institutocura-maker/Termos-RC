@@ -40,11 +40,13 @@ Com isso:
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Shiva (Savna) | RC-102 | aresta pré-existente; arquivo existe |
 | Keshava | RC-073 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+| Shiva (Savna) | RC-102 | é-um |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

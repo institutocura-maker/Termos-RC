@@ -53,9 +53,13 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 > "Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Criaturas-ferramenta | RC-164 | verbete canônico — este código é remissiva ([F045-MERGE 07-09-2026]) |
 | Javé | RC-001 | relaciona-se-a |
-| Ao Vencedor as Batatas | RC-764 | relaciona-se-a |
+| Biodemos | RC-036 | relaciona-se-a |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a |
+| Criaturas-ferramenta | RC-164 | variação |
+| Demência do Criador (fases da condição de Javé) | RC-526 | associado |
+| Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
+

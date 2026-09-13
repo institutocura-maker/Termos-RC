@@ -42,13 +42,13 @@ O **vaishnavismo** (ou vixenuísmo) é uma das principais tradições do hinduí
 > "Quem produziu esse purana é o que a gente chama de vaxinavas, ou seja, seguidores de Vishnu. E como os seguidores de Vishnu disputavam com os brahmanes, que eram os seguidores de Brama, e com os shivaístas, que eram os seguidores de Shiva, qual dos três era o maior, esses seguidores começaram a distorcer os fatos sempre para aumentar a grandeza do deus de preferência deles." — P2024-03-02
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Vishnu (Mavatna) | RC-135 | relaciona-se-a |
-| Krishna | RC-414 | relaciona-se-a |
 | Trimurti | RC-104 | relaciona-se-a |
-| Mavatna / Mavat | RC-503 | relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

@@ -32,14 +32,15 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 > "De fato, a chave da decifração universal está escondida na consciência humana. Aquela capa da palestra, que tem o cérebro e a chave lá dentro... retrata muito bem esse aspecto da questão."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a (superação) |
-| Escola da Decifração da Realidade | RC-755 | relaciona-se-a |
-| Ciência Pessoal | RC-695 | relaciona-se-a |
-| Decifra-me ou Devoro | RC-316 | relaciona-se-a |
-| Revelação Cósmica | RC-094 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
+| Estrangulamento Cognitivo / Neural | RC-753 | ← relaciona-se-a |
+| Estrangulamento Cognitivo / Neural | RC-753 | relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | ← relaciona-se-a |
 
 ## Blindagem epistemológica
 

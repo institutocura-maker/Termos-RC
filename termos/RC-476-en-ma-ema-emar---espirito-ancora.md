@@ -43,11 +43,21 @@ A Devolutiva fixou a forma En Ma. As formas antigas Emá e Emar são preservadas
 |---|---|---|
 | Javé | RC-001 | relaciona-se-a |
 | Javé | RC-001 | ancora |
+| Javé | RC-001 | relaciona-se-a |
 | Sophia (Cristo Cósmico) | RC-009 | ancora |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Brahma (Brajna) | RC-037 | relaciona-se-a |
 | Jesus | RC-072 | ancora |
+| Jesus | RC-072 | relaciona-se-a |
 | Vishnu (Mavatna) | RC-135 | ancora |
+| Enigma da Esperança (Caixa de Pandora) | RC-287 | associado |
+| Deva / Aurora (A Grande Deusa) | RC-475 | associado |
 | Ensá (espírito primordial companheiro de En Ma) | RC-477 | relaciona-se-a |
-| Eu Coalescente | RC-620 | relaciona-se-a |
+| Dinastia das Sophias | RC-494 | associado |
+| Eu Coalescente | RC-620 | ← aplica-se-a |
+| Simultaneidade Reversa | RC-628 | ← repercute-em |
+| Instabilidade da Eternidade | RC-648 | ← envolve |
 
 ## Seres Associados
 Consultar relações acima.

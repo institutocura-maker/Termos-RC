@@ -61,10 +61,14 @@ A Opção Inusitada é o eixo do B020: criada pelos deuses como "demônio feito 
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | sujeito |
-| Trava-demo | RC-184 | rompe |
-| Pandora como Serpente | RC-283 | desdobramento |
 | Val Dimon | RC-118 | identidade anterior |
-| Éden do Criador | RC-242 | contexto posterior |
+| Trava-demo | RC-184 | rompe |
+| Éden do Criador (Éden como laboratório) | RC-242 | contexto posterior |
+| Pandora como Serpente do Éden | RC-283 | desdobramento |
+| Hefesto | RC-307 | associado |
+| Momento Zero de Pandora | RC-779 | associado |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
 
 ## Seres Associados
 Pandora (RC-086); Hefesto (deus que deixou a "opção mental"); Zeus (RC-145); Epimeteu (RC-289).

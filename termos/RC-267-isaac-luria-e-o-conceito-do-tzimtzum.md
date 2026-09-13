@@ -37,12 +37,13 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 > Com a melhor das intenções criaram 100 interpretações e passaram a chamar isso de árvore da vida.
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Tzimtzum | RC-008 | relaciona-se-a |
-| Sepher ha-Zohar | RC-266 | relaciona-se-a |
-| Sefirot/Árvore da Vida | RC-263 | relaciona-se-a |
+| Kether (Javé na Cabala) | RC-261 | associado |
+| Daath (a Criação na Cabala) | RC-262 | associado |
+| Sefirot / Árvore da Vida | RC-263 | ← relaciona-se-a |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | relaciona-se-a |
 
 ## Observações
 

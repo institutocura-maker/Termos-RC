@@ -33,13 +33,19 @@ Veículo plasmático produzido no mergulho no universo antimaterial, associado �
 > “Quem mergulha na criação antimaterial cria um corpo daiva, um corpo demoníaco de plasma.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Javé | RC-001 | relaciona-se-a |
 | Adhydaiva | RC-014 | relaciona-se-a |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
 | Demos | RC-049 | relaciona-se-a |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ocorre-em |
 | Corpo Átmico | RC-623 | relaciona-se-a |
 | Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | relaciona-se-a |
+| Extísicos (seres do universo vizinho, não biológicos, compostos de plasma) | RC-861 | associado |
+| Fórmulas Mentais (o código dos demos, contraposto ao DNA humano) | RC-870 | associado |
 
 ## Seres Associados
 Consultar relações acima.

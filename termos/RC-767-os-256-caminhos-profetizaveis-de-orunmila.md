@@ -37,17 +37,18 @@
 > "Orunmilá percebeu, junto com outros seres, que a vida nesse universo do vizinho faliu e os códigos tinham que ser transferidos para cá, para a vida biológica. Porumilá percebeu ou construiu, retirando essa informação da Wyrd, os 256 caminhos possíveis de serem trilhados pelo conjunto das entidades individualizadas." — P2025-11-29
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Orunmilá (Moros de Irém/Orum) | RC-665 | relaciona-se-a |
-| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
-| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Elm (Moros) | RC-454 | relaciona-se-a |
-| Protocolo Mental | RC-517 | relaciona-se-a |
-| Arquivos Mentais | RC-548 | relaciona-se-a |
-| Vrittis e Cittas | RC-760 | relaciona-se-a |
 | Especiação | RC-056 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

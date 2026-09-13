@@ -31,9 +31,10 @@ A trilogia é a primeira fase do pensamento de Ellam (1999–2000), em que o voc
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Javé | RC-001 | variação |
-| Caos = Brahma = Javé | RC-284 | variação |
-| Criador | RC-041 | é-um |
-| Lúcifer | RC-078 | relaciona-se-a |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | é-um |
+| Lúcifer (Yel Luzbel) | RC-078 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação |
 | Mestres de Capela | RC-351 | contexto |
 
 ## Seres Associados

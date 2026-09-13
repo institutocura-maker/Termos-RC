@@ -33,9 +33,10 @@ Aparece em **P2019-05-11**, U0001 (abertura — Pandora escreve livros), U0002 (
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | qualifica |
-| Razão Filosófica dos Terraqueos | RC-231 | manifesta-se-em |
+| Razão Filosófica dos Terráqueos | RC-231 | manifesta-se-em |
 | Momento Zero de Pandora | RC-779 | paralelo-com |
 | Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
+| Choque de Realidade (o perpétuo espanto dos donos da verdade) | RC-867 | associado |
 
 ## Seres Associados
 - **Pandora** (RC-086) — a heroína controversa

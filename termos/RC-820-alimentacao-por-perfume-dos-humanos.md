@@ -33,15 +33,16 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica **por que os hum
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Trimurti | RC-104 | origina |
-| Shiva (Chiva) | RC-148 | executa |
-| Brahma | RC-037 | co-executa |
-| Soca/Reis/Rit | RC-821 | é-instrumento-de |
 | Javé | RC-001 | é-criminoso-de |
-| Homo Sapiens | RC-099 | é-fonte-de |
-| Código Genético como Marca | RC-825 | é-mecanismo-de |
-| Mahatma Magant | RC-822 | liberta-de |
-| Vechame Existencial | RC-823 | é-resposta-a |
+| Brahma (Brajna) | RC-037 | co-executa |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-fonte-de |
+| Trimurti | RC-104 | origina |
+| Agentes da Vida Universal | RC-148 | executa |
+| Soca/Reis/Rit como Receptor Universal (Instrumento da Trimurti) | RC-821 | é-instrumento-de |
+| Mahatma Magant como Libertador da Alimentação Demoníaca | RC-822 | liberta-de |
+| Vechame Existencial (Sangue de Barata = Amor sem Submissão) | RC-823 | é-resposta-a |
+| Greve de Fome Genética (Suicídio como Quebra do Código Demoníaco) | RC-824 | associado |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
 
 ## Seres Associados
 - **Trimurti (RC-104)** — quem orquestra

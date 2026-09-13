@@ -46,11 +46,22 @@ Com isso:
 | B042 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | aresta pré-existente; arquivo existe |
 | Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | **sem aresta** em `RELACOES`; arquivo existe |
+| Revelação Cósmica (conceito) | RC-094 | associado-a |
 | Seres Espirituais | RC-100 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | ← associado-a |
+| Espiritismo como Expressão do Quarto Logos | RC-257 | ← é-um |
+| Gnosticismo (contraponto à Cabala) | RC-268 | associado |
+| Ferramentas do Favor Divino (religiões e pensadores) | RC-341 | ← usa |
+| Reforma Íntima (tema do Grupo Atlan) | RC-392 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Atualização das Revelações Anteriores | RC-656 | ← relaciona-se-a |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← envolve |
+| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado |
+| Revelação Psíquica (Kapila — escola Samkhya) | RC-933 | ← relaciona-se-a |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

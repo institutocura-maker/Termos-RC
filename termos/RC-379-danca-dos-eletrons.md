@@ -35,11 +35,12 @@ O cap. 7 de B041 (2018) detalha a dança: quarks e léptons (primeiras partícul
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétrons | RC-162 | é-um |
-| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
-| Universo Material | RC-107 | sustenta |
-| Imanência e Transcendência | RC-380 | base-de |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Universo Material (Bhuloka) | RC-107 | sustenta |
 | Memória Quântica dos Elétrons | RC-161 | envolve |
+| Elétrons (agente básico da vida universal) | RC-162 | é-um |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Imanência e Transcendência (Upanishades) | RC-380 | ← base-de |
 
 ## Seres Associados
 Charon (físico nuclear francês); Criador (RC-041).

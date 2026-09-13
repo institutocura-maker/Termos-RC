@@ -33,16 +33,16 @@ Formulação central de Jan Val Ellam segundo a qual heranças não resolvidas d
 > “O ser humano é meio que um fantasma de tudo o que houve.”
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Jabutis Genéticos | RC-729 | estrutura-se-por |
-| Yggdrasil | RC-730 | estrutura-se-por |
-| Axis Mundi | RC-731 | estrutura-se-por |
-| Invasão Ancestral | RC-732 | estrutura-se-por |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | estrutura-se-por |
+| Axis Mundi / Axismund | RC-731 | estrutura-se-por |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | estrutura-se-por |
 | Dominação Psíquica pela Devoção | RC-733 | estrutura-se-por |
-| Samudra Manthana | RC-734 | estrutura-se-por |
-| Abraço aos Fantasmas | RC-735 | estrutura-se-por |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | estrutura-se-por |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | estrutura-se-por |
 
 ## Blindagem epistemológica
 

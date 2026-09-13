@@ -61,14 +61,14 @@
 > "O Quarto Cérebro é o espaço onde o sentir se reconcilia com a consciência e se transforma em linguagem criadora." — O Quarto Logos, cap. 7 (citado em ART-2026-08-18)
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Quarto Logos (Olm) | RC-092 | manifesta-se-em |
 | Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Tikun Cósmico | RC-514 | relaciona-se-a |
 | Pandora | RC-086 | relaciona-se-a |
-| Eu Profundo | RC-553 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | manifesta-se-em |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
+| Quarto Cérebro Humano | RC-614 | ← relaciona-se-a |
 
 ## Blindagem epistemológica — AUTORIA SECUNDÁRIA
 

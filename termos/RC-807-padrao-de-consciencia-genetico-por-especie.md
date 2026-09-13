@@ -33,11 +33,12 @@ Aparece em **P2017-05-14**, U0001 (abertura). Contexto: o autor abre a palestra 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Homo Sapiens | RC-099 | é-padrão-de |
 | Pandora | RC-086 | rompeu-lacre-de |
-| Desvio de Rota de Pandora | RC-806 | manifesta-se-via |
-| DNA Insubmisso | RC-727 | paralelo-com |
-| Lavagem Cerebral | RC-335 | é-programação-de |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-padrão-de |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-programação-de |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | paralelo-com |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | manifesta-se-via |
+| Código Genético como Marca da Herança Demoníaca | RC-825 | associado |
 
 ## Seres Associados
 - **Todas as espécies biológicas** (leões, elefantes, macacos, vermes intestinais, etc.) — cada uma com seu padrão

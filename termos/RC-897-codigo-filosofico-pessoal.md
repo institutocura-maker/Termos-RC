@@ -30,6 +30,14 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - RC-749 (Vício Devocional) — a antítese da religião como peso
 - RC-890 (Eu Observador) — a autonomia decisória do observador
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Vício Devocional | RC-749 | associado |
+| Eu Observador | RC-890 | associado |
+| Pós-Verdade | RC-892 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

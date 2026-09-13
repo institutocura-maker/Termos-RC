@@ -21,11 +21,10 @@
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-529 | consultar relação tipada no grafo |
-| RC-525 | consultar relação tipada no grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Semente da racionalidade (diferencial humano) | RC-525 | é-comparada-à-emergência-de |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | expressa-sociabilidade-por |
 
 ## Glossário interno / pendências
 

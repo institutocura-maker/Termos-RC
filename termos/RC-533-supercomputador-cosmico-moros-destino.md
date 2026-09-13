@@ -39,11 +39,14 @@ Com isso:
 | B073 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Elm (Moros — ser LM de Tempérion) | RC-454 | aresta pré-existente; arquivo existe |
-| Moiras / Nornes / Parcas (destino) | RC-467 | **sem aresta** em `RELACOES`; arquivo existe |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | **sem aresta** em `RELACOES`; arquivo existe |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | ← relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
 | Primado da Informação | RC-707 | **sem aresta** em `RELACOES`; arquivo existe |
 | Arquivos do Destino Universal | RC-714 | **sem aresta** em `RELACOES`; arquivo existe |
 | Informações Vivas | RC-715 | **sem aresta** em `RELACOES`; arquivo existe |
 | PIA — Peso da Inevitabilidade Ancestral | RC-716 | **sem aresta** em `RELACOES`; arquivo existe |
+

@@ -32,6 +32,14 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - RC-722 (Dignidade) — a bondade como expressão da dignidade
 - RC-771 (Fornos Replicadores) — o big data dos arcontes
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado |
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

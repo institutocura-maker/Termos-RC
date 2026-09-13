@@ -35,11 +35,12 @@ A afirmação integra a "Mensagem do Codificador de Zion": "Se antes a intençã
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | codificador atual |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | expressão |
 | Revelação Espiritual (Kardec) | RC-190 | é-um |
-| Quarto Logos | RC-092 | expressão |
-| Olm | RC-252 | agente |
-| Jan Val Ellam | RC-071 | codificador atual |
-| Liberdade Mental | RC-253 | finalidade |
+| Olm (Codificador de Zion/Zian) | RC-252 | agente |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | finalidade |
+| Fator Javé (o marco operacional do fim da atuação como médium passivo) | RC-882 | associado |
 
 ## Seres Associados
 Olm (RC-252); Allan Kardec (espírito codificador); Jan Val Ellam (RC-071).

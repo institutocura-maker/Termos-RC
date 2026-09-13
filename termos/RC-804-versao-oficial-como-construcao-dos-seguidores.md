@@ -34,10 +34,10 @@ Aparece em **P2018-02-24**, U0001 (abertura) e U0005 (encerramento). Contexto: o
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | versão-oficial-de |
-| Religiões Impositivas | RC-105 | é-mantida-via |
-| Lavagem Cerebral | RC-335 | é-produzida-via |
-| Estratégia dos Avatares | RC-797 | instrumentaliza |
-| Pandora como Oposição | RC-799 | opõe-se-a |
+| Ulsh | RC-105 | é-mantida-via |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-produzida-via |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | instrumentaliza |
+| Pandora como Oposição à Estratégia dos Avatares | RC-799 | opõe-se-a |
 
 ## Seres Associados
 - **Os seguidores dos avatares** — quem produzem as versões oficiais

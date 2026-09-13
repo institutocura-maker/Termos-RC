@@ -28,15 +28,20 @@ Terceira forma de vida do universo vizinho segundo a palestra: 1ª) corpos ígne
 > —
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Corpo Daiva | RC-630 | relaciona-se-a |
-| Deva/Aurora | RC-475 | relaciona-se-a |
-| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
+| Javé | RC-001 | associado |
+| Brahma (Brajna) | RC-037 | relaciona-se-a |
+| Fenvans | RC-064 | associado |
 | Trimurti | RC-104 | relaciona-se-a |
-| Brahma | RC-037 | relaciona-se-a |
-| Princípio da Externalização | RC-768 | relaciona-se-a |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Deva / Aurora (A Grande Deusa) | RC-475 | relaciona-se-a |
+| Kama (personificação do desejo) | RC-622 | associado |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | relaciona-se-a |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | relaciona-se-a |
 
 ## Observações
 - **RETIDO P7c (10/09/2026, `?` do Curador):** ficha magra — sem refs, `Citação-chave` vazia, só 2 palestras 2026; equação "fenvães/elfos" sem lastro visível. Fica 🟠 até engorda ou atesto expresso.

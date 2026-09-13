@@ -35,13 +35,13 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica o **mecanismo de
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Brahma (Brajna) | RC-037 | co-executa |
 | Trimurti | RC-104 | manipula |
-| Shiva (Chiva) | RC-148 | retira-sequências-de |
-| Brahma | RC-037 | co-executa |
+| Agentes da Vida Universal | RC-148 | retira-sequências-de |
+| Alimentação por Perfume dos Humanos (Demos se Alimentam de DNA) | RC-820 | é-mecanismo-de |
 | Sokar (egípcio) | (fato mitológico) | é-paralelo-com |
 | Rudra (hindu) | (fato mitológico) | é-paralelo-com |
 | Reis (nórdico) | (fato mitológico) | é-paralelo-com |
-| Alimentação por Perfume | RC-820 | é-mecanismo-de |
 
 ## Seres Associados
 - **Soca/Reis/Rit** — quem é o receptor

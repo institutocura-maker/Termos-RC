@@ -26,17 +26,31 @@ O "agente básico da vida universal": o único que existe desde o primeiro momen
 > "O elétron 'marca' em si mesmo tudo o que ele 'vivencia' e não é demais lembrar que esse 'agente básico da vida universal' é o único que existe desde o primeiro momento da Criação." — B024
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Memória Quântica dos Elétrons | RC-161 | tem-propriedade |
 | Agentes da Vida Universal | RC-148 | associado-a |
-| Duas Pulsações da Criação | RC-636 | forma-par-com (antielétrons) |
-| Colapso do Caos Organizado | RC-690 | associado-a |
-| Kit Reencarnatório de Elétrons | RC-692 | associado-a |
-| Evolução da Informação | RC-693 | associado-a |
-| Informações Vivas | RC-715 | associado-a |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | associado |
+| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
 | A Rebelião dos Elétrons | RC-378 | protagoniza |
+| Dança dos Elétrons | RC-379 | ← é-um |
+| Imanência e Transcendência (Upanishades) | RC-380 | associado |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | associado |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | associado |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | ← envolve |
+| Protozoários Antimateriais / Antiprotozoários | RC-639 | associado |
+| Colapso do Caos Organizado | RC-690 | associado-a |
+| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
+| Kit Reencarnatório de Elétrons | RC-692 | ← usa |
+| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
+| Informações Vivas | RC-715 | ← compõe |
+| Javé como Caos Personificado | RC-782 | associado |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
+| Era do Colapso do Caos Organizado | RC-827 | associado |
+| Sistema Arcaico Mental (Javé Como Abelha Rainha) | RC-828 | associado |
+| Memória dos Elétrons e Arcanos | RC-829 | associado |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+| Pulsação dos Elétrons Como Afetividade Humana | RC-832 | associado |
 
 ## Observações
 

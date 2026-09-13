@@ -33,9 +33,9 @@ Aparece na explicação visual do segundo slide e na interpretação do ano de 2
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Cinturão de Fótons | RC-573 | relaciona-se-a |
 | Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
 | Ano de 2012 como Divisor de Ciclos | RC-571 | relaciona-se-a |
+| Cinturão de Fótons | RC-573 | ← associado-a |
 
 ## Seres Associados
 —

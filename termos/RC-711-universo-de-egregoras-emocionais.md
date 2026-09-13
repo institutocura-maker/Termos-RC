@@ -58,16 +58,22 @@ Formações alimentadas pela repetição de emoções e sentimentos associados a
 > “A egrégora surge quando você repete a emoção.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Egrégora dos Elétrons Rebeldes | RC-385 | relaciona-se-a, mas distingue-se pelo escopo |
-| Ressonância Límbica | RC-529 | condensa |
-| Infecção Mental | RC-520 | relaciona-se-a |
-| Vampirismo Consciencial | RC-523 | relaciona-se-a |
-| Arquivos Mentais | RC-548 | usa |
-| Protocolos Mentais | RC-517 | usa |
-| Camuflagem da Realidade | RC-702 | reforça |
 | Big Data Cósmico | RC-194 | relaciona-se-a |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | ← relaciona-se-a |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a |
+| Decência cósmica (ética ellâmica) | RC-508 | associado |
+| Protocolo Mental (padrões organizadores da mente) | RC-517 | usa |
+| Infecção mental / contágio vibratório | RC-520 | relaciona-se-a |
+| Vampirismo consciencial | RC-523 | relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | condensa |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | usa |
+| Camuflagem da Realidade | RC-702 | reforça |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← armazenado-em |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← armazenado-em |
 
 ## Observações Científicas e Editoriais
 - “Buracos negros mentais” não são fenômenos astrofísicos.

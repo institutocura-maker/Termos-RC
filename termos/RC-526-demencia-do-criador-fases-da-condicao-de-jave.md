@@ -44,8 +44,12 @@ Com isso:
 | B072 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
-| Criação Indevida (Obra indevida) | RC-167 | aresta pré-existente; arquivo existe |
+| Criação Indevida (Obra indevida) | RC-167 | relaciona-se-a |
 | Criaturas-ferramenta | RC-449 | **sem aresta** em `RELACOES`; arquivo existe |
+| Face Microbiana do Criador | RC-641 | ← tema-de |
+| Autofagia do Criador | RC-667 | associado |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a |
+

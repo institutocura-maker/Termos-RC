@@ -30,12 +30,13 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-149 | — | relaciona-se-a |
-| RC-514 | — | relaciona-se-a |
-| RC-003 | — | relaciona-se-a |
-| RC-047 | — | relaciona-se-a |
+| Reintegração Cósmica | RC-003 | — |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | — |
+| Mônada (Mônada Espiritual) | RC-149 | envolve |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | sucede |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | sucede |
 
 ## Seres Associados
 Consultar relações na Base.

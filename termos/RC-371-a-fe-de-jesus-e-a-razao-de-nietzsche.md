@@ -41,11 +41,12 @@ O B049 explora a dialética fé × razão como complementares: a fé de Jesus (a
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Nietzsche como Amigo da Intenção | RC-369 | é-um |
 | Jesus | RC-072 | agente (fé) |
-| Liberdade Mental | RC-253 | opõe-se-a / complementa |
-| O Ser Humano Emancipado | RC-372 | desdobramento |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | opõe-se-a |
+| Nietzsche como 'Amigo da Intenção de Jesus' | RC-369 | é-um |
+| O Ser Humano Emancipado | RC-372 | desdobramento |
 
 ## Seres Associados
 Jesus (RC-072); Nietzsche (RC-369); Seres Terrenos (RC-099).

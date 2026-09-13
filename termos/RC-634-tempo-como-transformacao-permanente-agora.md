@@ -31,12 +31,12 @@ A fala distingue tempo astronômico de transformação e afirma atemporalidade d
 > “Tempo mesmo é sinônimo de transformação.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Entropia e Negentropia | RC-160 | relaciona-se-a |
 | Laço Temporal de Kether/Javé | RC-272 | relaciona-se-a |
-| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
 | Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | relaciona-se-a |
 
 ## Seres Associados
 Consultar relações acima.

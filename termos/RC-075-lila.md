@@ -44,9 +44,23 @@ Com isso:
 | B023 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
 | Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
 | Shiva (Savna) | RC-102 | **sem aresta** em `RELACOES`; arquivo existe |
+| Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
 | Vishnu (Mavatna) | RC-135 | **sem aresta** em `RELACOES`; arquivo existe |
+| Xadrez Cósmico | RC-150 | associado |
+| Karuna | RC-165 | associado |
+| Era da Lila e da Aceitação | RC-168 | associado |
+| Cultura Demodhármica | RC-183 | associado |
+| Modo Trimurtiano de Sophia | RC-279 | associado |
+| O Fim da Lila | RC-315 | ← encerra |
+| Decifra-me ou Devoro (hábito demo) | RC-316 | associado |
+| Fator Dharma | RC-319 | associado |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | ← variação |
+| Sankalpa (força de vontade e conhecimento que produz milagres) | RC-853 | associado |
+| Sai Baba de Shirdi (Shirdi Sai Baba) | RC-927 | associado |
+| Sathya Sai Baba | RC-928 | associado |
+| Prema Sai (Prima Sai / Prem Sai) | RC-929 | associado |
+

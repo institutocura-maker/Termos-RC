@@ -35,11 +35,16 @@ Forma preferida: **Obatalá (correspondência de Javé em Ifá)**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relaciona-se-a |
-| RC-655 | — | relaciona-se-a |
-| RC-665 | — | relaciona-se-a |
+| Javé | RC-001 | variação |
+| Javé | RC-001 | variação |
+| Javé | RC-001 | variação |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← relaciona-se-a |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | — |
+| Projeto Orunmilá–Olodus | RC-741 | ← relaciona-se-a |
+| Vício Devocional | RC-749 | relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

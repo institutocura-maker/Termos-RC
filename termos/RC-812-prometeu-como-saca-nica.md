@@ -33,12 +33,14 @@ Aparece em **P2017-05-14**, U0004. Contexto: a relação Prometeu-Zeus é de "ri
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prometeu | RC-301 | protagoniza |
-| Zeus | RC-149 | sacanela |
 | Pandora | RC-086 | é-vingança-via |
-| Epimeteu | RC-302 | é-irmão-de |
-| Desvio de Rota de Pandora | RC-806 | é-consequência-de |
-| Hefaístos | RC-149 | é-paralelo-com |
+| Mônada (Mônada Espiritual) | RC-149 | sacanela |
+| Mônada (Mônada Espiritual) | RC-149 | é-paralelo-com |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Prometeu (titã) | RC-301 | protagoniza |
+| Epimeteu (titã) | RC-302 | é-irmão-de |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | é-consequência-de |
 
 ## Seres Associados
 - **Prometeu** (RC-301) — o "saca-nica"

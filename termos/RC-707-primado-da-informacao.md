@@ -31,15 +31,23 @@ O humano poderia emitir novas informações para participar da reparação da ob
 > “A informação é quem forma o tempo, a matéria, a energia e o espaço.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Prabrajna | RC-152 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | associado |
+| Mente Universal (Emergente) | RC-163 | associado |
 | Big Data Cósmico | RC-194 | organiza |
 | Holograma Universal | RC-218 | relaciona-se-a |
-| Primado da Consciência | RC-546 | relaciona-se-a |
-| Evolução da Informação | RC-693 | relaciona-se-a |
-| Tikun Cósmico | RC-514 | usado-por |
-| Postulados Quânticos | RC-703 | explicado-por |
+| Holograma Universal | RC-218 | ← relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | usado-por |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← usa |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
+| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | explicado-por |
 | Ser Humano Não Local | RC-708 | relaciona-se-a |
+| Ser Humano Não Local | RC-708 | ← usa |
 
 ## Observações Científicas
 “Informação” possui sentidos distintos na física, computação e filosofia. A síntese apresentada é cosmologia da palestra, não consenso unificado dessas áreas.

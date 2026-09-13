@@ -33,14 +33,18 @@ Aparece em **P2025-04-06** — palestra de 2025 que **encerra o tema Pandora** i
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Prometeu | RC-301 | protagoniza |
-| Epimeteu | RC-302 | protagoniza |
 | Pandora | RC-086 | protagoniza |
-| Religiões Impositivas | RC-105 | interrompeu |
-| Centro Alquímico-Farmacopédico | RC-789 | instrumentalizado-via |
-| Fogo que se Apaga | RC-792 | metaforiza |
-| Conceito Abaiano | RC-793 | reativa-via |
+| Ulsh | RC-105 | interrompeu |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Prometeu (titã) | RC-301 | protagoniza |
+| Epimeteu (titã) | RC-302 | protagoniza |
 | Sequência Formativa da Racionalidade Humana | RC-785 | parte-de |
+| Centro Alquímico-Farmacopédico | RC-789 | instrumentalizado-via |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | metaforiza |
+| Conceito Abaiano (Fazer Sem Esperar Receber) | RC-793 | reativa-via |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
 
 ## Seres Associados
 - **Prometeu** (RC-301) — o "cientista revoltado"

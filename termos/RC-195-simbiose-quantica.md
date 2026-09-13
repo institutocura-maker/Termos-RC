@@ -35,11 +35,11 @@ Consequência direta da queda do Criador: como todas as criaturas dividem "o mes
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Big Data Cósmico | RC-194 | relaciona-se-a |
-| Criador refém das próprias criaturas | RC-196 | explica |
-| Criação Indevida | RC-167 | abrange |
-| Criador | RC-041 | energia geradora |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | energia geradora |
 | Memória Quântica dos Elétrons | RC-161 | correlato (física quântica) |
+| Criação Indevida (Obra indevida) | RC-167 | abrange |
+| Big Data Cósmico | RC-194 | ← relaciona-se-a |
+| Criador refém das próprias criaturas | RC-196 | explica |
 
 ## Seres Associados
 Criador (RC-041); anjos-clones (RC-019); demos (RC-049); criaturas-ferramenta (RC-164).

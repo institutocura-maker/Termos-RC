@@ -40,11 +40,14 @@ O capítulo 10 de B041 conecta o CFD (RC-040) ao Favor Divino (RC-332): os human
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| CFD | RC-040 | é-um |
-| Favor Divino | RC-332 | relaciona-se-a |
-| Seres Terrenos | RC-099 | portadores |
-| Criador | RC-041 | origem |
+| CFD (Código Fonte Definidor) | RC-040 | é-um |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origem |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | portadores |
 | Criaturas-ferramenta | RC-164 | é-um (contexto) |
+| Favor Divino (conceito invertido) | RC-332 | relaciona-se-a |
+| Resposta de Javé (em 1ª pessoa) | RC-417 | associado |
+| Sou eu que vivo em vocês (Javé) | RC-419 | ← relaciona-se-a |
 
 ## Seres Associados
 Javé (RC-001); Seres Terrenos (RC-099); Deidade (RC-047).

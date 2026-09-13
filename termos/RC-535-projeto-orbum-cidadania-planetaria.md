@@ -44,10 +44,11 @@ O Manifesto do Projeto Orbum (B042, pp. 226–228) convida à "filiação espiri
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Orbum (planeta) | RC-085 | relaciona-se-a (origem do nome) |
-| Cidadão Cósmico | RC-226 | relaciona-se-a (ideal) |
-| Revelação Cósmica | RC-094 | relaciona-se-a (doutrina de base) |
+| Orbum | RC-085 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| Cidadão Cósmico | RC-226 | relaciona-se-a |
 | Transição Planetária | RC-344 | relaciona-se-a (contexto) |
+| Atualização das Revelações Anteriores | RC-656 | associado |
 
 ## Seres Associados
 Jan Val Ellam (RC-071, idealizador); Jesus (ensinamento da cidadania cósmica, segundo o livro).

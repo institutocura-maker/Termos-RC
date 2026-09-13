@@ -27,12 +27,17 @@ Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais:
 > "O jogo preparado foi esse, com travas e lacres para que o ser humano nunca despertasse os seus potenciais, porque assim é mais fácil manipular."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Eva | RC-189 | relaciona-se-a |
 | Pandora | RC-086 | relaciona-se-a |
-| Fios soltos | RC-564 | relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Eva (figura) | RC-189 | relaciona-se-a |
+| Criaturas-ferramenta | RC-449 | relaciona-se-a |
+| Fios soltos (improviso humano × robô) | RC-564 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | ← sustentada-por |
+| Camuflagem da Realidade | RC-702 | sustenta |
+| Lei da Mente do Buda | RC-712 | relaciona-se-a |
 
 ## Observações
 

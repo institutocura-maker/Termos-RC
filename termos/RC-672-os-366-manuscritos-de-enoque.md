@@ -49,8 +49,13 @@ P2026-08-04 — Podcast Irmãos Dias #272 (aliens e a Bíblia).
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | escrito-por |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | relaciona-se-a |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Metatron | RC-671 | — |
 | P2025-12-14 | Os Fundamentos da Revelação Cósmica (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
@@ -58,8 +63,6 @@ Ver transcrição.
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
-| RC-489 | — | relacionado |
-| RC-671 | — | relacionado |
 
 ## Seres Associados
 Consultar Base.

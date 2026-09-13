@@ -37,9 +37,15 @@ O Cidadão Cósmico é o **ideal antropológico das RC**: o humano que desenvolv
 |---|---|---|
 | Reintegração Cósmica | RC-003 | relaciona-se-a |
 | Isolamento Cósmico | RC-070 | contexto |
-| Seres Terrenos | RC-099 | é-um (ideal) |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um (ideal) |
 | Razão Filosófica dos Terráqueos | RC-231 | capacita |
-| Revelação Cósmica | RC-094 | contexto |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | ← envolve |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+| Protagonismo consciencial | RC-509 | associado |
+| Projeto Orbum (cidadania planetária) | RC-535 | ← relaciona-se-a |
+| Protocolo da Busca | RC-566 | ← relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | associado |
 
 ## Seres Associados
 Jesus (RC-072); Sai Baba (candidato); Sophia (RC-009).

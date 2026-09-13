@@ -47,17 +47,26 @@ A vírgula preserva a oposição formulada na fala: “não são as espécies qu
 > “Não são as espécies que evoluem, mas sim a informação nelas disposta como sendo os seus genomas.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
-| Genoma Derivado | RC-518 | opera-em |
-| Evolução Possível | RC-541 | relaciona-se-a |
-| Leis da Evolução Cósmica | RC-404 | relaciona-se-a |
+| Nidana (ovo cósmico) | RC-154 | relacionado-a |
 | Memória Quântica dos Elétrons | RC-161 | envolve |
-| Elétrons | RC-162 | relaciona-se-a |
+| Elétrons (agente básico da vida universal) | RC-162 | relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Sentido Gradualístico das Leis da Evolução Cósmica | RC-404 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | opera-em |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
 | Humanos: Últimos e Primeiros | RC-654 | aplica-se-a |
-| Nidana | RC-154 | relacionado-a |
-| Ishvara | RC-691 | relacionado-a |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | relaciona-se-a |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relacionado-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+| Primado da Informação | RC-707 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | ← relaciona-se-a |
+| Informações Vivas | RC-715 | ← relaciona-se-a |
 
 ## Observações Científicas e Editoriais
 - O termo registra uma proposição doutrinária da palestra, não uma reformulação aceita da teoria evolutiva.

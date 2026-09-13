@@ -55,12 +55,19 @@ O sistema de castas chegaria aos humanos via descendentes de Gomer (ancestral do
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fator Dharma | RC-319 | relaciona-se-a |
-| Kumari Kandan | RC-329 | origina-em |
 | Hiperbórea | RC-068 | origina-em |
-| Civilização Saraswati | RC-330 | contexto |
-| Homo hierarchicus | RC-327 | efeito |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Trimurti | RC-104 | associado |
+| Fator Dharma | RC-319 | relaciona-se-a |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | associado |
+| Dharma e Castas (origem demo) | RC-322 | associado |
 | Genética Totalitária | RC-325 | instrumento |
+| Homo hierarchicus | RC-327 | efeito |
+| Kumari Kandan (tradição) | RC-329 | origina-em |
+| Civilização Saraswati | RC-330 | contexto |
+| Rishis | RC-586 | associado |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
+| Savant (a genialidade preservada além do autismo num grau; figura útil no final) | RC-885 | associado |
 
 ## Seres Associados
 Trimurti (RC-104); Senhores do Dharma (RC-320); Seres Terrenos (RC-099).

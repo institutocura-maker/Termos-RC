@@ -31,6 +31,13 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - RC-722 (Dignidade) — a indignidade transformada em religião
 - RC-892 (Pós-Verdade) — a narrativa cruel como falsa verdade
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Vício Devocional | RC-749 | associado |
+| Pós-Verdade | RC-892 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

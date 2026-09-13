@@ -27,12 +27,14 @@ A singularidade que criou o nosso universo — "teoria cosmológica sobre o dese
 > "Big Bang: É a teoria cosmológica sobre o desenvolvimento inicial do universo. Também chamada de 'Grande Expansão', foi o nome dado à singularidade que criou o nosso universo." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Bhuloka | RC-033 | originou |
-| Universo Material | RC-107 | originou |
-| Universo Antimaterial | RC-106 | originou (gêmeo) |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | originou (gêmeo) |
+| Universo Material (Bhuloka) | RC-107 | originou |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | associado |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
+| Era do Colapso do Caos Organizado | RC-827 | associado |
 
 ## Observações
 

@@ -46,12 +46,19 @@ NT-FP21 permanece bloqueado. Este verbete **não** abrange teriantropia/licantro
 | P2024-11-02 | U0358–U0430; U0816–U0895; U1312–U1358 | palestra/STT pré-curada |
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | atua-sobre |
+| Lavagem Cerebral (condicionamento) | RC-335 | relaciona-se-a |
+| Genoma Derivado (interação genoma × trajetória) | RC-518 | relaciona-se-a |
+| Ex-DNA-lixo (DNA não codificante reinterpretado) | RC-542 | ← relaciona-se-a |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
+| Transferência da Memória dos Antielétrons | RC-637 | associado |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Jabutis Genéticos | RC-729 | ← contextualiza |
 | Jabutis Genéticos | RC-729 | manifesta-se-no-discurso-como |
-| DNA como Projeção Holográfica | RC-217 | atua-sobre, segundo a narrativa |
-| Lavagem Cerebral | RC-335 | relaciona-se-a |
 | Dominação Psíquica pela Devoção | RC-733 | favorece |
 
 ## Blindagem clínica e científica máxima

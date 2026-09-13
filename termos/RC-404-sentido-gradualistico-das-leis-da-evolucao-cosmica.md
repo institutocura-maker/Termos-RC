@@ -29,9 +29,12 @@ O aviso espiritual que inaugura o B027 estabelece o programa: "Se é dado a cada
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Reintegração Cósmica | RC-003 | explica |
-| Revelação Cósmica | RC-094 | contexto |
 | Espiritualidade Superior | RC-059 | origem |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
 | Alvorecer de Aquário | RC-405 | contexto |
+| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
 
 ## Seres Associados
 Mestre Jesus (RC-072); mentores espirituais (RC-100); Jan Val Ellam (RC-071).

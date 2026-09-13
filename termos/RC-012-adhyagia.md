@@ -32,17 +32,21 @@ Adhyagia (RC-012) é a **condição** do espírito puro Adhy; Adhyagya (RC-311) 
 > "Na Espiritualidade Operacional [...] a alma ou o espírito puro do 'gênero espiritual Adhy' está sob a condição Adhyagia, que é, portanto, o corpo causal da consciência espiritual plena ou o corpo espiritual superior." — B024, Nota 5
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Adhy | RC-011 | condição-de (gênero) |
 | Adhyatman | RC-013 | resulta-em (quando imantada em Perpérion) |
-| Deidade | RC-047 | associado-a |
-| Espiritualidade Superior | RC-059 | nível-abaixo-de |
 | Adhydaiva | RC-014 | associado-a (família Adhy) |
 | Adhyajna | RC-016 | associado-a (família Adhy) |
-| Adhyagya | RC-311 | distingue-se (condição × formas; 311 é-um 012 no registro) |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado-a |
+| Divindades (Co-criadoras) | RC-054 | associado |
+| Espiritualidade Superior | RC-059 | nível-abaixo-de |
 | Perpérion | RC-087 | associado-a (imantação → Adhyatman) |
+| Seres Espirituais | RC-100 | associado |
+| Mônada (Mônada Espiritual) | RC-149 | associado |
+| Prisioneiros da Brahmaloka | RC-260 | associado |
+| Adhyagya (formas espirituais Adhy) | RC-311 | ← é-um |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
 
 ## Observações
 

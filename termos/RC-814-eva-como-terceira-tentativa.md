@@ -32,15 +32,17 @@ Aparece em **P2018-05-20**, U0003. Contexto: depois de Lilith fracassar (fugir d
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | tentou-3-vezes |
-| Lilith | RC-308 | é-1ª-tentativa-fracassada |
-| Agar | RC-817 | é-2ª-tentativa-fracassada |
-| Homo Sapiens | RC-099 | é-espécie-de |
-| Adão | (RC-302 é Adão) | é-companheiro-de |
+| Javé | RC-001 | tentou-3-vezes |
 | Pandora | RC-086 | racionalidade-instantânea |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-espécie-de |
+| Epimeteu (titã) | RC-302 | associado |
 | Pirra | RC-303 | racionalidade-reflexiva |
-| Lavagem Cerebral | RC-335 | é-contexto-de |
-| Patriarcado desde Pandora | RC-818 | é-consequência-de |
+| Adhytia (nível hierárquico) | RC-308 | é-1ª-tentativa-fracassada |
+| Lavagem Cerebral (condicionamento) | RC-335 | é-contexto-de |
+| Agar como 2ª Tentativa Fracassada de Fêmea para Adão | RC-817 | é-2ª-tentativa-fracassada |
+| Patriarcado desde Pandora (Origem no Feminino, Dominação pelo Masculino) | RC-818 | é-consequência-de |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Adão | (RC-302 é Adão) | é-companheiro-de |
 
 ## Seres Associados
 - **Eva** — quem é a 3ª tentativa

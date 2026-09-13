@@ -163,13 +163,29 @@ Período de inquietações de **Yel Luzbel (Lúcifer)** iniciado há **742 mil a
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Lúcifer (Yel Luzbel) | RC-078 | inicia (agente) |
-| Isolamento Cósmico | RC-070 | resulta-em |
-| Exilados de Capela | RC-007 | gera |
+| Javé | RC-001 | envolve |
 | Reintegração Cósmica | RC-003 | encerra-se-com |
+| Exilados de Capela | RC-007 | gera |
 | Antares (Sistema) | RC-021 | ocorre-em (parte) |
 | Capela (Sistema) | RC-039 | inicia-em |
-| Javé | RC-001 | envolve |
+| Isolamento Cósmico | RC-070 | resulta-em |
+| Len Mion (Satã) | RC-074 | associado |
+| Lúcifer (Yel Luzbel) | RC-078 | ← inicia |
+| Mastlans Phisosferas / Luciferianas | RC-079 | associado |
+| Yel Luzbel | RC-142 | associado |
+| Viajores da Rebelião | RC-248 | associado |
+| Quarentena Sideral / Cósmica | RC-342 | ← impõe-se-a |
+| Sentimento Luciferiano | RC-345 | associado |
+| Exílios Interplanetários | RC-349 | ← origina-em |
+| Ilha Cósmica (mundos rebelados) | RC-353 | associado |
+| Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
+| Revolta Capelina | RC-450 | ← relaciona-se-a |
+| Era da Solidão de Javé (500 Milhões de Anos) | RC-808 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | associado |
+| Yel Luzbel Como Aventureiro Isolado (2.000 Anos) | RC-830 | associado |
+| Sophia Como Biodemo da Ordem e Caos | RC-831 | associado |
+| 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) | RC-833 | associado |
+| Melkor (o filho dissonante) | RC-844 | associado |
 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); Família Yel (RC-136); Família Val (RC-109); Sophia (RC-009, impôs o isolamento).

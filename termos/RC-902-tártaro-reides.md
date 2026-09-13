@@ -17,3 +17,9 @@ Tártaro Reides — conceito desenvolvido na palestra «A Teia da Vida e o Circu
 ## Relações
 - RC-479
 - RC-072
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+

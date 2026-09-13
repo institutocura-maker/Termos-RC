@@ -29,6 +29,13 @@ Conceito desenvolvido na palestra «A Falsa Queda do Ser Humano e a Indignidade 
 - RC-889 (Biblioteca Genômica Humana) — o DNA como laboratório cósmico
 - RC-001 (Javé) — a disputa da Suzerania Universal
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Isolamento Cósmico | RC-070 | associado |
+| Biblioteca Genômica Humana | RC-889 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

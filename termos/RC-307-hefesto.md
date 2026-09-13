@@ -49,8 +49,8 @@ No B087 (psicografia de Jeane Miranda — versão paralela às obras primárias 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Pandora | RC-086 | cria |
 | Zeus | RC-145 | associado-a (executor das ordens; coautor da caixa) |
-| Pandora | RC-086 | protege (o "presente" da escolha) |
 | Opção Inusitada de Pandora (humanização) | RC-285 | possibilita (a decisão de ficar "totalmente homo") |
 
 ## Seres Associados

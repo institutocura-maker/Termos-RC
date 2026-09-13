@@ -19,6 +19,30 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 - Corpo associado: corpo manásico
 - Subdivisões: cinco Archeons de Ereon (RC-596)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Demiurgo | RC-048 | associado |
+| Espiritualidade Operacional | RC-060 | associado |
+| Perpérion | RC-087 | associado |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← inclui |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← inclui |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado |
+| Pashvnaj (espécie de 43 seres do Gênero Adhy) | RC-455 | associado |
+| Ser LM (gênero de Tempérion) | RC-456 | ← relaciona-se-a |
+| Khorsis (Mundo dos Tronos) | RC-469 | ← relaciona-se-a |
+| Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | ← parte-de |
+| Lempérion e Terpérion (setores da Espiritualidade Laboratorial) | RC-473 | ← parte-de |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | ← relaciona-se-a |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | ← parte-de |
+| Tempérium — variação histórica de Tempérion (ver RC-472) | RC-498 | associado |
+| Holodomínio (esfera de influência extrafísica) | RC-507 | associado |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | ← relaciona-se-a |
+| Archeons de Ereon | RC-596 | ← parte-de |
+| Departamentalização da Vida | RC-601 | ← envolve |
+| Corpo Manásico / Corpo Mental | RC-625 | associada-a |
+| Conclave da Espiritualidade Laboratorial | RC-635 | ← ocorre-em |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

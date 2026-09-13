@@ -37,13 +37,18 @@ As localizações e funções acima pertencem à cosmologia da fala e não estab
 > “Axis Mundi significa centro do mundo, pilar do mundo, eixo do mundo.”
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Yggdrasil | RC-730 | sucede |
-| Midgard | RC-470 | ancora |
-| Bifrost | RC-471 | conecta-se-por |
-| Samudra Manthana | RC-734 | contextualiza |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | associado |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Midgard (Marte + Terra) | RC-470 | ancora |
+| Bifrost (Portal interdimensional) | RC-471 | conecta-se-por |
+| Ancoragem do Conglomerado Trimurtiano na Terra | RC-575 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← sucedido-por |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | sucede |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | contextualiza |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← relaciona-se-a |
 
 ## Blindagem histórica, religiosa e geográfica
 

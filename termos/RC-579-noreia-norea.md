@@ -46,11 +46,19 @@ A menção ocorre durante a reconstrução da primeira era equinocial. O curador
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado-a |
-| Linhagem de Seth | RC-594 | parte-de |
-| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
 | Eva (figura) | RC-189 | relaciona-se-a |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | associado-a |
 | Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
+| Linhagem de Seth | RC-594 | parte-de |
+| Linhagem de Seth | RC-594 | ← inclui |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← inclui |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Sequência Formativa da Racionalidade Humana | RC-785 | associado |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | ← relaciona-se-a |
+| Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados) | RC-888 | relaciona-se-a |
 
 ## Seres Associados
 Arcontes (= Sophias e Indras; Conselho dos 70) (RC-474); Eva (figura) (RC-189); Caim (leitura RC: segundo a nascer) (RC-490)

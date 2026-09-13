@@ -34,10 +34,13 @@ Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca d
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Mônada (Mônada Espiritual) | RC-149 | associado |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Pactos do Criador (troca de informações) | RC-271 | associado |
+| Prometeu (titã) | RC-301 | recebeu-visitas-de |
+| Epimeteu (titã) | RC-302 | recebeu-visitas-de |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | opõe-se-a |
 | Geração Regenerada de Brahma | RC-696 | contextualizado-por |
-| Xamanismo Cósmico | RC-577 | opõe-se-a |
-| Prometeu | RC-301 | recebeu-visitas-de |
-| Epimeteu | RC-302 | recebeu-visitas-de |
 | Sileno | (sem ficha) | mestre-de |
 | Quirón (centauro) | (sem ficha; pode haver RC) | paralelo-com |
 | Sátiros | (sem ficha) | variante-de |

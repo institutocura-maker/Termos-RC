@@ -20,6 +20,14 @@ Forma preferida: Intercessão de Enoque pelos Anunnaki.
 - **[P2023-10-14 · A INTERCESSÃO NARRADA EM 14/10/2023 (anterioridade)]** "Ou seja, lá atrás, quando Javé mandou Enoque ser levado até o seu hábitat para ele dizer a Enoque a agenda que Enoque ao voltar a conviver com os humanos e viria dizer aos humanos, ainda que Enoque depois disso fosse viver definitivamente no universo vizinho." (U0033) — 🆕 anterioridade: P2023-12-02 — esta fonte é **7 semanas** anterior.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anunnaki | RC-024 | envolve |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | associado |
+| Igigi | RC-580 | ← relaciona-se-a |
+| Metatron | RC-671 | associado |
+
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Thot trabalhou com Enoque:** "conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque" — contexto da intercessão de Enoque pelos anunnaki (RC-673) e da ponte Thot/anunnaki × Javé (RC-001);

@@ -40,14 +40,17 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | — |
+| Caim (leitura RC: segundo a nascer) | RC-490 | ← relaciona-se-a |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
+| Caim (leitura RC: segundo a nascer) | RC-490 | relaciona-se-a |
+| Caim (leitura RC: segundo a nascer) | RC-490 | ← relaciona-se-a |
+| Linhagem de Seth | RC-594 | — |
 | P2022-09-17 | A Hipóstase dos Arcontes (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
 | P2023-08-27 | Len Mion e os Senhores da Terra Alexandre Magno e Qin Shi Huang Di (palestra) | — | transcrição automatizada; citação |
-| RC-424 | — | relacionado |
-| RC-490 | — | relacionado |
-| RC-594 | — | relacionado |
 
 ## Seres Associados
 Consultar Base.

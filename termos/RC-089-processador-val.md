@@ -73,9 +73,12 @@ Com isso:
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Processadores Familiares | RC-446 | análogo (aresta registrada na ficha RC-446; **não** há aresta em `RELACOES` para RC-089) |
-| Família Val | RC-109 | listado no cadastro sem aresta |
+| Alt´Lam Gron | RC-018 | associado |
 | Biodemos | RC-036 | — (citação desta fala, não aresta) |
+| Mensagem Talm | RC-080 | associado |
+| Val (Família Val) | RC-109 | listado no cadastro sem aresta |
+| Yel Lupon | RC-141 | associado |
+| Processadores Familiares | RC-446 | análogo (aresta registrada na ficha RC-446; **não** há aresta em `RELACOES` para RC-089) |
 
 ## Observações
 

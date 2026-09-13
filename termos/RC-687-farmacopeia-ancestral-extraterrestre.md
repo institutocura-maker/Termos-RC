@@ -21,11 +21,18 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-686 | — | relacionado |
-| RC-577 | — | relacionado |
-| RC-359 | — | relacionado |
+| Abduções e Reparo Espiritual | RC-359 | — |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Plantas de Moléculas Complexas | RC-686 | usa |
+| Plantas de Moléculas Complexas | RC-686 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

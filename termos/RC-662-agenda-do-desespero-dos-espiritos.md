@@ -25,12 +25,14 @@ Forma preferida: **Agenda do Desespero dos Espíritos**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-660 | — | relaciona-se-a |
-| RC-604 | — | relaciona-se-a |
-| RC-620 | — | relaciona-se-a |
-| RC-524 | — | relaciona-se-a |
+| Javé | RC-001 | associado |
+| Coleta de informações (espírito encarnado) | RC-524 | — |
+| Fatiamento de Consciência | RC-604 | — |
+| Eu Coalescente | RC-620 | — |
+| Pegadinha de Javé | RC-660 | motiva |
+| Dignidade como Critério de Consciência | RC-722 | confronta |
 
 ## Seres Associados
 Consultar Base.

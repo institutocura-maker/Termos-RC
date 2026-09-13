@@ -28,10 +28,12 @@ A estratégia de Tempérion teria transformado o setor em lugar de observação 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← observa |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← observa |
 | Ser LM (gênero de Tempérion) | RC-456 | estudado-por |
-| Nova Espiritualidade / Novo Paraíso | RC-612 | orienta |
-| Cinco Seres LM de Tempérion | RC-607 | relaciona-se-a |
 | Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
+| Cinco Seres LM de Tempérion | RC-607 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | orienta |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

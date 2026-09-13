@@ -36,12 +36,14 @@ O capítulo 17 de B002 desenvolve o tema mostrando a "brutal ditadura" sob a qua
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Revelação Espiritual (Kardec) | RC-190 | associado-a |
-| Revelação Cósmica | RC-094 | contexto |
 | Javé | RC-001 | agente (ditadura) |
-| Criador | RC-041 | origem |
-| DNA como Projeção Holográfica | RC-217 | herança (cota doentia) |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | origem |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Revelação Espiritual (Kardec) | RC-190 | associado-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | herança (cota doentia) |
 | Prevalece o Amor | RC-224 | contraponto |
+| Imperativo Categórico da Moral | RC-328 | associado |
+| Abismo da Consciência Cósmica | RC-721 | comparado-a |
 
 ## Seres Associados
 Javé (RC-001); Jesus (RC-072); hierarquia celestial (Aya e Aye, RC-031).

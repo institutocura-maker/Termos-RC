@@ -106,11 +106,30 @@ A Deidade é o topo da hierarquia ontológica das RC: **Deidade (Pai-Mãe) → D
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Deus / Deus Incognoscível | RC-052 | sinônimo (Deus Incognoscível) |
-| Divindades (Co-criadoras) | RC-054 | é-um (origem) |
-| Criador | RC-041 | distingue-se |
-| Espiritualidade Superior | RC-059 | relaciona-se-a |
 | Adhy | RC-011 | criado-por (origem) |
+| Adhyagia | RC-012 | associado |
+| Astréia | RC-027 | associado |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | distingue-se |
+| Despina | RC-051 | associado |
+| Deus / Deus Incognoscível | RC-052 | sinônimo (Deus Incognoscível) |
+| Deuses (os dois tipos) | RC-053 | associado |
+| Divindades (Co-criadoras) | RC-054 | é-um (origem) |
+| Espiritualidade Superior | RC-059 | relaciona-se-a |
+| Pandora | RC-086 | associado |
+| Portlan e Portlon | RC-088 | associado |
+| Yel Breasil | RC-139 | associado |
+| Zeus | RC-145 | associado |
+| Realidade Maior / Paraíso Original | RC-204 | associado |
+| Pai Supremo (Amantíssimo) | RC-205 | personifica-em |
+| Divindades Excelsas | RC-206 | associado |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
+| Democracia do Amor da Deidade | RC-333 | ← é-um |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | associado |
+| Seres Originais do Paraíso | RC-600 | associado |
+| Destino das Mônadas após o Tikun | RC-653 | associado |
+| Prajapati (a divindade antes de virar Brama) | RC-852 | associado |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado |
 
 ## Seres Associados
 Divindades Co-criadoras (RC-054); Adhy (RC-011); Adhyagia (RC-012).

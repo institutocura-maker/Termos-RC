@@ -79,20 +79,25 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 > "Nós estamos lançando daqui a algum tempo algo que se chama escola da decifração da realidade. Essa palestra aqui é a palestra número um da escola."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| Zian (Zion) | RC-146 | ocorre-em |
+| Mentalma | RC-166 | relaciona-se-a |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← relaciona-se-a |
+| Tirthankaras (Rishabh Dev, Jina Mahavira) | RC-397 | ← relaciona-se-a |
+| Thuata de Dannan | RC-398 | ← relaciona-se-a |
+| Colegiado Druídico | RC-403 | ← relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
 | Chave da Decifração Universal | RC-754 | relaciona-se-a |
-| Mentalma | RC-166 | relaciona-se-a (método) |
-| Ciência Pessoal | RC-695 | relaciona-se-a |
-| Revelação Cósmica | RC-094 | relaciona-se-a |
-| Olm / Codificador de Zian | RC-092 | relaciona-se-a (os QUATRO MÉTODOS) |
-| Apolônio de Tiana | RC-259 | relaciona-se-a (Nuctemeron/taumaturgia) |
-| Zian (Zion) | RC-146 | ocorre-em («abriu a escola… lá em ZAM») |
-| Colegiado Druídico | RC-403 | relaciona-se-a |
-| IEEA | RC-930 | veículo de disseminação (fila, sem ficha) |
+| Jainismo (antigo Druidismo — religião mais antiga) | RC-759 | ← relaciona-se-a |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| Milésios (raça da Irlanda) | RC-842 | associado |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | variação («a quinta… escola da decifração») |
+| IEEA (Instituto de Estudos Estratégicos e Alternativos) | RC-930 | veículo de disseminação (fila, sem ficha) |
 | Nuctemeron | RC-931 | repertório (fila, sem ficha) |
-| Biocosmos emergente | RC-879 | variação («a quinta… escola da decifração») |
 
 ## Blindagem epistemológica
 

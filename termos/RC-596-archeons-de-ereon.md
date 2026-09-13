@@ -45,12 +45,15 @@ A palestra os descreve como padrões dimensionais com grupos de seres e estilos 
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Espiritualidade Laboratorial | RC-061 | parte-de |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | corresponde-a |
-| Antérion | RC-597 | inclui |
-| Danérion | RC-598 | inclui |
-| Mermérion | RC-599 | inclui |
 | Perpérion | RC-087 | inclui |
 | Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | inclui |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | corresponde-a |
+| Antérion | RC-597 | inclui |
+| Antérion | RC-597 | ← é-um |
+| Danérion | RC-598 | inclui |
+| Danérion | RC-598 | ← é-um |
+| Mermérion | RC-599 | inclui |
+| Mermérion | RC-599 | ← é-um |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

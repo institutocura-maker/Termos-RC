@@ -48,12 +48,24 @@ Prática de dirigir respiração, atitude mental e química corporal para produz
 > “Quando você se torna mestre das suas próprias sensações, essa é a maior alquimia.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Mentalma | RC-166 | relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
 | Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
 | Genoma da Liberdade | RC-619 | relaciona-se-a |
-| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Postulados Quânticos como Manual Operativo | RC-703 | ← usa |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← orienta |
+| Taumaturgia Genético-Química | RC-713 | ← relaciona-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | ← gerida-por |
+| Três Faíscas da Consciência Humana | RC-719 | gere |
+| Dignidade como Critério de Consciência | RC-722 | ← depende-de |
+| Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
+| Faixas Espirituais de Ressonância | RC-726 | orienta-destinação-em |
+| Faixas Espirituais de Ressonância | RC-726 | ← destinação-gerida-por |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
 
 ## Seres Associados
 Consultar relações acima.

@@ -50,7 +50,7 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 |---|---|---|
 | Fenvans | RC-064 | relaciona-se-a |
 | Mensagem Talm | RC-080 | relaciona-se-a |
-| Nidana | RC-154 | relaciona-se-a |
+| Nidana (ovo cósmico) | RC-154 | relaciona-se-a |
 
 ## Observações
 - Termo da mitologia nórdica reapropriado pela RC (mesmo padrão de Wyrd/Urd, RC-658);

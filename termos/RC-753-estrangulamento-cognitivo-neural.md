@@ -40,14 +40,14 @@ Na leitura de Jan Val Ellam (P2025-06-14b), a mecânica limitadora fundamental q
 > "Chega 400 bilhões de informações. Seu cérebro só tem tempo de decodificar 2.000. E você, ou seja, o eu que você pensa que é, só consegue lidar com 10 bits por segundo. O que é isso? Sacanagem. Escravidão."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Chave da Decifração Universal | RC-754 | relaciona-se-a (superação) |
-| Mentalma | RC-166 | relaciona-se-a |
-| Ser Humano Não Local | RC-708 | relaciona-se-a |
 | Mente Universal (Emergente) | RC-163 | relaciona-se-a |
-| Sensação de eu | RC-558 | relaciona-se-a |
+| Mentalma | RC-166 | relaciona-se-a |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | relaciona-se-a |
+| Ser Humano Não Local | RC-708 | relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | relaciona-se-a |
+| Chave da Decifração Universal | RC-754 | ← relaciona-se-a |
 
 ## Blindagem epistemológica — QUARENTENA CIENTÍFICA
 

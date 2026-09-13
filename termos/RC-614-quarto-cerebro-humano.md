@@ -66,10 +66,22 @@ A palestra remete a explicações anteriores e o associa diretamente à Supercon
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Superconsciência | RC-615 | produz |
-| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
 | Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
-| Genoma da Liberdade | RC-619 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
+| Sensação de eu (a sensação particular a cada instante) | RC-558 | ← relaciona-se-a |
+| Fios soltos (improviso humano × robô) | RC-564 | ← relaciona-se-a |
+| Superconsciência | RC-615 | produz |
+| Superconsciência | RC-615 | ← resulta-de |
+| Genoma da Liberdade | RC-619 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← requer |
+| Oitavo Dia da Criação | RC-694 | necessário-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | ← relaciona-se-a |
+| Genes Críticos / Genes Dorminhocos | RC-710 | associado |
+| Quarto Cérebro (centro de sabedoria vibracional) | RC-758 | relaciona-se-a |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

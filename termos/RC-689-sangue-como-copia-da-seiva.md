@@ -21,11 +21,11 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-433 | — | relacionado |
-| RC-577 | — | relacionado |
-| RC-686 | — | relacionado |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | — |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | — |
+| Plantas de Moléculas Complexas | RC-686 | — |
 
 ## Seres Associados
 Consultar Base.

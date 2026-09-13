@@ -38,11 +38,13 @@ Com isso:
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
 | Big Data Cósmico | RC-194 | **sem aresta** em `RELACOES`; arquivo existe |
-| Flechas / Profecias de Moros | RC-611 | **sem aresta** em `RELACOES`; arquivo existe |
 | Os 270 Mundos (profecia do Zohar) | RC-265 | **sem aresta** em `RELACOES`; arquivo existe |
-| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | **sem aresta** em `RELACOES`; arquivo existe |
 | Povos Escolhidos (ariano, judeu, árabe) | RC-326 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Flechas / Profecias de Moros | RC-611 | **sem aresta** em `RELACOES`; arquivo existe |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | **sem aresta** em `RELACOES`; arquivo existe |
+| Nova Aliança (a proposta de Jesus contra a velha aliança dos pactos de Javé) | RC-860 | associado |
+

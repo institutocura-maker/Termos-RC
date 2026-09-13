@@ -42,11 +42,15 @@ A tese: a desconfiança (doença do DNA do Criador) impedia a união dos seres; 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Homoafetividade | RC-434 | é-um (resquício) |
-| Demos | RC-049 | surgiu-em (geração do Olimpo) |
-| Seres Terrenos | RC-099 | antecede |
+| Demos | RC-049 | surgiu-em |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | antecede |
+| Agressividade canalizada (DNA doentio) | RC-432 | contexto |
+| Homoafetividade (resquício da força original) | RC-434 | ← é-um |
 | O Segredo Perdido do Éden | RC-435 | relaciona-se-a |
-| Desconfiança (DNA) | RC-432 | contexto |
+| A Sina dos Portadores | RC-440 | associado |
+| Mistérios Dionisíacos | RC-441 | ← associado-a |
+| Sangue como Cópia da Seiva | RC-689 | associado |
 
 ## Seres Associados
 Demos da geração do Olimpo (RC-049); Despina (ser que narra); Heber (RC-436) e Joctan (RC-437), testemunhas.

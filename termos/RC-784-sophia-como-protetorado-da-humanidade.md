@@ -29,13 +29,15 @@ Aparece em **P2019-05-11**, U0005 (Q&A). Contexto: das 900 milhões de civiliza�
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia / Sofia | RC-009 | qualifica |
-| Homo Sapiens / Seres Terrenos | RC-099 | protege |
-| Ser Criador Fracassado | RC-422 | resolve |
-| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | qualifica |
+| Seres Terrenos (Homo Sapiens) | RC-099 | protege |
+| Telos (de um deus) | RC-292 | é-cumprido-via |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | resolve |
+| Ressurreição do Cadáver do Criador | RC-638 | associado |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | resposta-a |
 | Especiação Humana — Levas Genéticas | RC-783 | contextualizado-por |
-| Pactos de Javé | RC-781 | resposta-a |
-| Telos de um Deus | RC-292 | é-cumprido-via |
+| Suserania Universal (herança prometida a Rockma/Sofia) | RC-859 | associado |
+| Civilizações Insetoides (12 bi anos) | (RC-638) | opõe-se-a |
 
 ## Seres Associados
 - **Sophia / Sofia** (RC-009) — quem declara o protetorado

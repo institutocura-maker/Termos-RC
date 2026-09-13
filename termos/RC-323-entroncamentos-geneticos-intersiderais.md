@@ -42,12 +42,17 @@ Os entroncamentos genéticos explicam a composição do genoma humano como "mosa
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Grupos de Entroncamento | RC-324 | é-um |
-| Biodemos | RC-036 | envolve |
-| Biodemol | RC-186 | envolve |
-| Nephilins | RC-082 | envolve |
 | Anunnaki | RC-024 | envolve |
+| Biodemos | RC-036 | envolve |
 | Hiperbórea | RC-068 | local |
+| Nephilins | RC-082 | envolve |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Biodemol | RC-186 | envolve |
+| Grupos de Entroncamento (1-4) | RC-324 | é-um |
+| Hibridização genética (Nefilim reinterpretado) | RC-516 | ← relaciona-se-a |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | associado |
 
 ## Seres Associados
 Biodemos (RC-036); Biodemol (RC-186); Nephilins/Anunnaki (RC-082/RC-024); Seres Terrenos (RC-099).

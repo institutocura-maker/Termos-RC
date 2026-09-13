@@ -31,15 +31,14 @@
 > "Os anunnaki em relação aos humanos: pros anunnaki, batatas, os humanos que se ferrassem. Sempre foi assim. E para Javé, anunnaki humano que se ferre, as batatas. É para Javé. Então Javé sempre usou desgraçadamente as suas criaturas-ferramenta por estirpe, por espécie, sem a menor preocupação." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Anunnaki | RC-024 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a |
+| Anunnaki | RC-024 | relaciona-se-a |
 | Criaturas-ferramenta | RC-164 | relaciona-se-a |
 | Criaturas-ferramenta | RC-449 | relaciona-se-a |
-| Enki | RC-486 | relaciona-se-a |
-| Enlil | RC-487 | relaciona-se-a |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
+| Enlil (deus sumério, par de Enki) | RC-487 | relaciona-se-a |
 | Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 
 ## Blindagem epistemológica

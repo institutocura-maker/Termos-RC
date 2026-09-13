@@ -39,11 +39,12 @@ Com isso:
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | **sem aresta** em `RELACOES`; arquivo existe |
 | Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

@@ -34,10 +34,12 @@ São distintas da Blindagem Cósmica terrestre/quarentena RC-510. A palestra afi
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Departamentalização da Vida | RC-601 | parte-de |
-| Blindagem cósmica (= quarentena terrestre) | RC-510 | distingue-se-de |
 | Colapso da Matriz Quântica (3 níveis) | RC-415 | relaciona-se-a |
-| Trincheira Vibratória no Campo Informativo | RC-613 | relaciona-se-a |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | relaciona-se-a |
+| Blindagem cósmica (= quarentena terrestre) | RC-510 | distingue-se-de |
+| Departamentalização da Vida | RC-601 | ← produz |
+| Departamentalização da Vida | RC-601 | parte-de |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← atravessa |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

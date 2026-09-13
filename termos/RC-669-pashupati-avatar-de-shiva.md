@@ -37,7 +37,13 @@ P2026-02-28.
 Ver transcrição.
 
 ## Termos Relacionados
-Consultar Base.
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | é-um |
+| Rishis | RC-586 | relaciona-se-a |
+| Som da Flauta / Som da Falta | RC-668 | associado |
+| Yoga Ancestral (Origem Cósmica) | RC-670 | desenvolve |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

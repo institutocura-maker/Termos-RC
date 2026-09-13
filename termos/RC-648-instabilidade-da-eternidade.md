@@ -35,12 +35,12 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-476 | — | relaciona-se-a |
-| RC-620 | — | relaciona-se-a |
-| RC-604 | — | relaciona-se-a |
-| RC-606 | — | relaciona-se-a |
+| En Ma (Emá / Emar — espírito-âncora) | RC-476 | envolve |
+| Fatiamento de Consciência | RC-604 | envolve |
+| Protocolos / Algoritmos da Perfeição | RC-606 | — |
+| Eu Coalescente | RC-620 | — |
 
 ## Seres Associados
 Consultar relações na Base.

@@ -19,3 +19,8 @@
 - **Fonte única:** P2022-07-16 — "os Rakchasas (estirpe programada no DNA para sugar o sangue dos mamíferos...)" (`ciclos/P2022-07-16/`).
 - **Referências do cadastro à época do merge:** RC-322; RC-104; RC-414; RC-102 — unificadas em RC-581.
 - **Motivo:** a definição ("sugar o sangue dos mamíferos") é a mesma de RC-581 ("criados para chupar sangue de mamíferos", P2025-02-16; "criados como vampiros", P2022-12-17). Despacho do Curador, 10/09/2026 (caso Rxaça = Rakshasa).
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rakshasas | RC-581 | associado |
+

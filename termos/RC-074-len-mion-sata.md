@@ -127,12 +127,26 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 > "Len Mion e sua influência em Marduk... a problemática do psiquismo de 'deuses' e seres cósmicos." — P2021-03-27 (seções 6.2–6.3)
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Marduk (= Ra) | RC-460 | influencia |
-| Relógio Messiânico | RC-765 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a |
+| Rebelião de Lúcifer | RC-002 | associado |
+| Astralização dos Biodemos | RC-026 | associado |
+| Gron Mion | RC-067 | associado |
+| Shamb-Aha | RC-101 | associado |
+| Yel Luzbel | RC-142 | associado |
+| O Calvário de um Inocente | RC-236 | associado |
+| Hitler (figura histórica no RC) | RC-239 | ← dominado-por |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | ← relaciona-se-a |
+| Família Mion | RC-443 | é-um |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | ← relaciona-se-a |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
+| Senhor Parameshthi / Brahma Parameshthi (face atual de Javé) | RC-556 | ← relaciona-se-a |
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
+| Maria Orsic (médium da Sociedade Vril) | RC-846 | associado |
+| Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | associado |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
 
 ## Blindagem
 

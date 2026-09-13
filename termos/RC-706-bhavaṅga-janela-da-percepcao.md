@@ -40,14 +40,18 @@ Formas STT: `bavanga`, `bafanga`.
 > “Bhavaṅga é quando você consegue furar essa camuflagem e constrói uma janelinha.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Camuflagem da Realidade | RC-702 | atravessa |
-| Disciplina dos 3As | RC-552 | usa |
+| Mentalma | RC-166 | relaciona-se-a |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | usa |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a |
 | Corpo Átmico | RC-623 | relaciona-se-a |
 | Corpo Búdico | RC-624 | relaciona-se-a |
-| Corpo Manásico | RC-625 | relaciona-se-a |
-| Gestão da Sensação | RC-633 | relaciona-se-a |
+| Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | relaciona-se-a |
+| Camuflagem da Realidade | RC-702 | ← atravessada-por |
+| Camuflagem da Realidade | RC-702 | atravessa |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
 | Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
 
 ## Observações

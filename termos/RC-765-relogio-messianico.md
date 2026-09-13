@@ -31,16 +31,16 @@
 > "Há 4.000 anos atrás soltaram bomba porque o relógio messiânico estava apontando pro fato de que naquela época iria aparecer o enviado dos céus que tomaria a regência da terra para si durante a era de peixes. Aí Marduk é que fez isso e a turma não aceitou. Ferraram com Marduk." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Marduk (= Ra) | RC-460 | relaciona-se-a |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Era de Peixes | RC-592 | relaciona-se-a |
-| Maitreya (Dionísio) | RC-481 | relaciona-se-a |
-| Mohen So = Kalki | RC-282 | relaciona-se-a |
-| Len Mion (Satã) | RC-074 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Len Mion (Satã) | RC-074 | relaciona-se-a |
+| Abelha-Rainha (Javé) | RC-175 | associado |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | relaciona-se-a |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | relaciona-se-a |
+| Maitreya (Dionísio; forma adiágena de Vishnu) | RC-481 | relaciona-se-a |
+| Era de Peixes | RC-592 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

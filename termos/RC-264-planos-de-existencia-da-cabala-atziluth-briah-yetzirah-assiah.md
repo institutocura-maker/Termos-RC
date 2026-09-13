@@ -53,14 +53,20 @@ A Doutrina das Emanações das Sefiroth opera "por sobre" essas quatro dimensõe
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Espiritualidade Superior | RC-059 | inclui (Atziluth) |
+| Brahmaloka | RC-038 | inclui |
+| Espiritualidade Superior | RC-059 | inclui |
 | Espiritualidade Operacional | RC-060 | inclui (Atziluth) |
-| Espiritualidade Laboratorial | RC-061 | inclui (Briah) |
+| Espiritualidade Laboratorial | RC-061 | inclui |
 | Perpérion | RC-087 | inclui (Briah) |
-| Brahmaloka | RC-038 | inclui (Yetzirah) |
-| Universo Material | RC-107 | inclui (Assiah) |
-| Kether (Javé) | RC-261 | reside em Yetzirah |
-| Sefirot | RC-263 | associado-a |
+| Universo Material (Bhuloka) | RC-107 | inclui |
+| Kether (Javé na Cabala) | RC-261 | reside em Yetzirah |
+| Sefirot / Árvore da Vida | RC-263 | associado-a |
+| Ein Sof (Prabrajna na Cabala) | RC-468 | associado |
+| Khorsis (Mundo dos Tronos) | RC-469 | associado |
+| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado |
+| Urdidura de Metatron | RC-674 | ← inclui |
+| Malkuth | RC-682 | relaciona-se-a |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
 
 ## Seres Associados
 Kether/Javé (RC-261); Deidade (RC-047); Criador (RC-041).

@@ -36,21 +36,29 @@ Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o mome
 > "Existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou... se a gente olhar pela lente da mitologia, todas as mitologias vão dizer: 'Isso começou porque um ser criador problemático gerou o que não devia e terminou caindo na própria criação'... Um deus teísta é aquele que se mete em tudo e premia e castiga todo mundo. Um deus deísta é tipo um relojoeiro que cria um relógio, coloca um relógio para funcionar e se afasta e deixa a coisa rodando... Qual é a quinta lente? É a chamada ciência avançada... Eles dizem que são supercomputadores, inteligência artificial." — P2023-05-13
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Revelação Cósmica (conceito) | RC-094 | integra (soma das cinco lentes) |
-| Javé | RC-001 | relaciona-se-a (lente da mitologia: criador problemático) |
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a (lente religiosa / vinda de Sophia) |
-| Evolução Possível | RC-541 | relaciona-se-a (terceira via — nem Deus nem acaso) |
-| Camuflagem da Realidade | RC-702 | relaciona-se-a (simulacro / faixas de realidade) |
-| Pílula vermelha | RC-192 | relaciona-se-a (múltiplas pílulas) |
-| Mensagem Talm | RC-080 | relaciona-se-a (mensagem de fora do simulacro) |
-| Quarto Logos (Olm) | RC-092 | relaciona-se-a (futuro esclarecido) |
-| Criatura Universal | RC-042 | relaciona-se-a (especiação / pós-2050) |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a (Modelo Polvo — consciência distribuída) |
-| Modelo Colmeia | RC-176 | relaciona-se-a (sociedade: colmeia × liberdade) |
-| Mentalma | RC-166 | relaciona-se-a (respiração / 1º impulso) |
+| Javé | RC-001 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Criatura Universal | RC-042 | relaciona-se-a |
+| Especiação | RC-056 | associado |
+| Jesus | RC-072 | associado |
+| Mensagem Talm | RC-080 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | integra |
+| Mentalma | RC-166 | relaciona-se-a |
+| Criação Indevida (Obra indevida) | RC-167 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
+| Pílula vermelha | RC-192 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | associado |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | associado |
+| Camuflagem da Realidade | RC-702 | relaciona-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | associado |
+| As Três Escalas da Consciência (Sábio → Mago → Iniciado) | RC-762 | ← relaciona-se-a |
 
 ## Blindagem epistemológica — ABSORÇÃO DE NT-BR05 E ANALOGIAS
 

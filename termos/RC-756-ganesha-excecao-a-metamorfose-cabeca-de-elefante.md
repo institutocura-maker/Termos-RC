@@ -37,13 +37,12 @@ Na cosmologia de Jan Val Ellam (P2024-03-02), Ganesha é a divindade hindu descr
 > "Aí ele, Chiva pediu licença a um deles, tirou a cabeça de um deles e colou no corpo e Ganesha surgiu, não foi por metamorfose, por esse tipo de história."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Shiva (Savna) | RC-102 | relaciona-se-a (pai) |
-| Parvathi | RC-459 | relaciona-se-a (mãe) |
-| Fatiamento de Consciência | RC-604 | relaciona-se-a (exceção à metamorfose) |
-| Krishna | RC-414 | relaciona-se-a |
+| Shiva (Savna) | RC-102 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Parvathi (consorte de Shiva, Tridevi) | RC-459 | relaciona-se-a |
+| Fatiamento de Consciência | RC-604 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

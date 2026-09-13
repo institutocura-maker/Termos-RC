@@ -20,6 +20,13 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 - **Variações / grafias alternativas:** O Ungido; Cristo (ekv. grego «Christos»)
 - **Idioma de origem:** hebraico «mashiach» → grego «christós» (ungido)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado |
+| Jesus | RC-072 | associado |
+| Agenda Espiritual | RC-752 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

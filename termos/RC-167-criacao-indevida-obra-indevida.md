@@ -91,6 +91,44 @@ A Criação "indevida" é o **tema central da Revelação Cósmica**: "houve um 
 - Falas da Trimurti **isoladas**. Sem fusão com B037 / B001 / B024. Fonte **B022** já constava na tabela-mestra.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | associado |
+| Perpérion | RC-087 | inicia-em |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← mergulha-em |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Xadrez Cósmico | RC-150 | associado |
+| Prabrajna | RC-152 | ← inicia |
+| Prabrajna | RC-152 | ← relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Prabrajna | RC-152 | ← relaciona-se-a |
+| Eras da Criação (10 eras) | RC-155 | associado |
+| Simbiose Quântica | RC-195 | ← abrange |
+| Vida de Padrão Dependente | RC-209 | associado |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
+| Queda do Arquiteto Universal | RC-216 | associado |
+| Germe da Desconfiança | RC-244 | associado |
+| Laboratórios do Criador | RC-251 | associado |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado |
+| Daath (a Criação na Cabala) | RC-262 | associado |
+| Laço Temporal de Kether/Javé | RC-272 | associado |
+| Criação Bipartida | RC-312 | associado |
+| Atores de uma Peça Incompreensível | RC-340 | associado |
+| Roteiro do Absurdo Implantado na Criação | RC-383 | associado |
+| Fragmentação do Poder Mental da Divindade | RC-387 | ← resulta-em |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← resulta-em |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← mergulha-em |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | associado |
+| Acidente cosmogônico (queda de Prabrajna) | RC-515 | ← variação |
+| Demência do Criador (fases da condição de Javé) | RC-526 | ← relaciona-se-a |
+| Mergulho (designação ellâmica da queda) | RC-528 | ← variação |
+| Simultaneidade Reversa | RC-628 | ← vincula |
+| Reunião Operativa Mental dos 43 Pashvnaj | RC-629 | ← resulta-em |
+| Ressurreição do Cadáver do Criador | RC-638 | associado |
+| Camuflagem da Realidade | RC-702 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | associado |
+
 ## Atualização — P2021-12-04
 
 - **Unidades:** U0136–U0148; U0200–U0266.

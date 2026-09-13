@@ -44,9 +44,10 @@ Com isso:
 | P2022-11-26 | Choque de Realidade – o Perpétuo Espanto dos Donos da Verdade (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | **sem aresta** em `RELACOES`; arquivo existe |
 | Sophia como Protetorado da Humanidade | RC-784 | **sem aresta** em `RELACOES`; arquivo existe |
+

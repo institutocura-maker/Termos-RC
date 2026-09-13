@@ -34,11 +34,13 @@ Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois que as trevas espalh
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Jesus | RC-072 | qualifica |
-| Estratégia dos Avatares | RC-797 | é-último-de |
-| Mudança de Estratégia das Trevas | RC-798 | responde-a |
-| Saibaba como Precursor | RC-801 | paralelo-com |
-| Ser Criador Fracassado | RC-422 | recusa-usar-poderes-de |
-| Humanos como Cobaias | RC-802 | reconhece-que-humanos-são |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | recusa-usar-poderes-de |
+| Estratégia dos Avatares (Moisés/Krishna/Saibaba/Jesus/Maomé) | RC-797 | é-último-de |
+| Mudança de Estratégia das Trevas (Centralizar → Espalhar) | RC-798 | responde-a |
+| Saibaba como Precursor de Jesus | RC-801 | paralelo-com |
+| Humanos como Cobaias dos Deuses | RC-802 | reconhece-que-humanos-são |
+| Budismo como Exceção (Sem Deus) | RC-803 | associado |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado |
 
 ## Seres Associados
 - **Jesus** (RC-072) — o último avatar

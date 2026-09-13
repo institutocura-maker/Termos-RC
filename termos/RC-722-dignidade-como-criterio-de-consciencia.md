@@ -52,6 +52,60 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - **[P2024-07-14] O mérito no caos (U0200–U0280):** "no paraíso você não atinge a perfeição, você já nasce perfeito... Qual o mérito de alguém que nasce no paraíso? Nenhum. Nasceu. É um privilegiado"; "venha para cá, seja obrigado a lidar diariamente com [o caos] e ainda mantenha a luz da sua alma acesa. Para você conseguir isso, aqui você tem que ter mérito. E a dignificação de uma consciência está nesse ponto aqui: não há dignidade em ter nascido no céu perfeito, mas há dignidade em ter nascido no meio da [podridão] e você vai transformando a podridão em beleza existencial pelo seu próprio esforço meritório".
 - **[P2024-07-14] A crítica à culpa (U0650–U0670):** "'ah, não, mas quando eu morrer é que vão me dizer se eu fui digno ou não.' Esse é o retrato da humanidade... 'por minha culpa, minha culpa, minha máxima culpa.' Culpa de quê, pessoal? Mas é assim que a gente foi acostumado, e a gente acha que Deus gosta do humano que faz isso. Gosta, porque é mais fácil ele manipular. Só que não é Deus: são figuras que se fazem passar por Deus".
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | ← serve-de-modelo-para |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Pílula vermelha | RC-192 | relaciona-se-a |
+| Imperativo Categórico da Moral | RC-328 | relaciona-se-a |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | relaciona-se-a |
+| Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia) | RC-406 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Krishna como 'pretenso Keshava' | RC-425 | ← relaciona-se-a |
+| Decência cósmica (ética ellâmica) | RC-508 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | orienta |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | necessário-a |
+| Gestão da Sensação Pessoal | RC-633 | depende-de |
+| Agenda do Desespero dos Espíritos | RC-662 | ← confronta |
+| Ato de Verdade / Satyagraha | RC-705 | realizada-por |
+| Ato de Verdade / Satyagraha | RC-705 | ← realiza |
+| Abismo da Consciência Cósmica | RC-721 | ← avaliado-por |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← relaciona-se-a |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | ← relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← relaciona-se-a |
+| Colegiados Espirituais Humanizados | RC-745 | ← avaliado-por |
+| Vergonha de Existir | RC-747 | associado |
+| Genótipo da Gentileza (GG) | RC-748 | ← relaciona-se-a |
+| A Raça Inabalável dos Sethianos Emancipados | RC-766 | ← relaciona-se-a |
+| Biblioteca Genômica Humana | RC-889 | associado |
+| Eu Observador | RC-890 | associado |
+| Ismos como Limitação Genômica | RC-891 | associado |
+| Pós-Verdade | RC-892 | associado |
+| Pecado Original como Narrativa Cruel | RC-893 | associado |
+| Bondade Humana | RC-895 | associado |
+| Código Filosófico Pessoal | RC-897 | associado |
+| Choque de Realidade | RC-898 | associado |
+| Deus Não Se Incomoda com o Sofrimento | RC-909 | associado |
+| O Bem Feito Apenas por Humanos | RC-910 | associado |
+| DNA com 2 Hélices Ligadas | RC-911 | associado |
+| Aparições Marianas | RC-912 | associado |
+| Delírio Coletivo | RC-913 | associado |
+| Frodo e Sam | RC-914 | associado |
+| Westworld como Metáfora | RC-915 | associado |
+| O Banquete Metafórico | RC-916 | associado |
+| Reciclador das Informações Universais | RC-917 | associado |
+| Entropia e Sujeira Original | RC-918 | associado |
+| Vrites | RC-919 | associado |
+| Tátivas | RC-920 | associado |
+| Niroda | RC-921 | associado |
+| Egrégora e Campo Quântico | RC-922 | associado |
+| Programas Encarnatórios | RC-923 | associado |
+| Loop Mental | RC-924 | associado |
+| Espírito como Ator | RC-925 | associado |
+| Lixo de Informações Apodrecidas | RC-926 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

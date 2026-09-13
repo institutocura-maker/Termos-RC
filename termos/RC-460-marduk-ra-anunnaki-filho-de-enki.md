@@ -48,14 +48,18 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 > "Rá é o eu, Amon é o corpo despedaçado. Enquanto Javé não for reconstruído... a humanidade vai ser a massa de manobra, onde todos os testes vão ser feitos para que tenham padrões genéticos por trás de todas as sensações existenciais." — P2023-12-02
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé | RC-001 | relaciona-se-a (Amon-R) |
+| Javé | RC-001 | ← relaciona-se-a |
+| Anunnaki | RC-024 | é-um |
+| Len Mion (Satã) | RC-074 | relaciona-se-a |
+| Ra-Atom / Og-mi (nomes do Criador) | RC-331 | associado |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
+| Nibiru | RC-589 | associado |
+| Era de Peixes | RC-592 | relaciona-se-a |
 | Corpo Manásico / Corpo Mental | RC-625 | relaciona-se-a |
 | Enéade de Heliópolis | RC-627 | relaciona-se-a |
-
----
+| Relógio Messiânico | RC-765 | ← relaciona-se-a |
 
 ## Atualização — P2021-03-27 (Enki, Enlil e o Fim Súbito da Babilônia)
 

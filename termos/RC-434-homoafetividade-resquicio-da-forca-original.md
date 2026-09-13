@@ -44,10 +44,12 @@ O B052 é uma narrativa em 4 partes (Narrativas Esquecidas / Antigas / Tardias /
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Força de Atração Sexual | RC-433 | é-um (resquício) |
-| O Segredo Perdido do Éden | RC-435 | relaciona-se-a |
-| Seres Terrenos | RC-099 | tema |
 | Demos | RC-049 | origem |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | tema |
+| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | é-um |
+| O Segredo Perdido do Éden | RC-435 | relaciona-se-a |
 
 ## Seres Associados
 Heber (RC-436); Joctan (RC-437); Noé; Despina (narradora da estirpe).

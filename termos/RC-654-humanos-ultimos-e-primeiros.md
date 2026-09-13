@@ -30,12 +30,24 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-099 | — | relaciona-se-a |
-| RC-148 | — | relaciona-se-a |
-| RC-042 | — | relaciona-se-a |
-| RC-545 | — | relaciona-se-a |
+| Criatura Universal | RC-042 | — |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-um |
+| Agentes da Vida Universal | RC-148 | relaciona-se-a |
+| Protagonismo consciencial | RC-509 | realiza |
+| Coconstrutores da Obra (tikun) | RC-545 | — |
+| Evolução da Informação, não das Espécies | RC-693 | ← aplica-se-a |
+| Oitavo Dia da Criação | RC-694 | associado |
+| Cessão Consciente do DNA Humano | RC-698 | associado |
+| Corpo Sutil Reencarnante | RC-704 | associado |
+| Ser Humano Não Local | RC-708 | ← aplica-se-a |
+| Humano Turbinado | RC-709 | associado |
+| Três Faíscas da Consciência Humana | RC-719 | ← aplica-se-a |
+| Três Faíscas da Consciência Humana | RC-719 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | associado |
+| Abismo da Consciência Cósmica | RC-721 | ← observado-de-dentro-por |
+| Abismo da Consciência Cósmica | RC-721 | observa-de-dentro |
 
 ## Seres Associados
 Consultar relações na Base.

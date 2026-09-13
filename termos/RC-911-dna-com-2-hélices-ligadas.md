@@ -17,3 +17,9 @@ DNA com 2 Hélices Ligadas — conceito desenvolvido na palestra «Delírio Huma
 ## Relações
 - RC-722 (Dignidade)
 - RC-749 (Vício Devocional)
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Vício Devocional | RC-749 | associado |
+

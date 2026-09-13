@@ -67,6 +67,35 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - 0 códigos novos (O-3).
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | ← variação |
+| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
+| Sophia (Cristo Cósmico) | RC-009 | ← é-um |
+| Sophia (Cristo Cósmico) | RC-009 | gera |
+| CFD (Código Fonte Definidor) | RC-040 | associado |
+| Fenvans | RC-064 | gera |
+| Fenvans | RC-064 | ← relaciona-se-a |
+| Keshava | RC-073 | é-um |
+| Projeto Talm | RC-091 | propõe |
+| Projeto Talm | RC-091 | ← proposto-por |
+| Projeto Talm | RC-091 | propõe |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | variação |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | variação |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← correspondência-em-teologia-comparada-de |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | ← correspondência-em-teologia-comparada-de |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | ← gera |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | distingue-se-de |
+| Singularidade de Quatro Cabeças | RC-649 | ← envolve |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | associado |
+| PEP — Pulso Eletromagnético Particularizado (transferência de nanopontos da genética entre universos) | RC-774 | associado |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | associado |
+
 ## Atualização — P2023-12-02 (Thot, o Enigmático Hermes Trismegisto)
 
 - **Mohen So no Orfismo:** "desse ovo sai um ser chamado Phanes, que é o mesmo Protogonos... que é o mesmo ser a quem eu chamo de Mohen So";

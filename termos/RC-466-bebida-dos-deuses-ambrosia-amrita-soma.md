@@ -49,7 +49,13 @@ Com isso:
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Demos | RC-049 | **sem aresta** em `RELACOES`; arquivo existe |
 | Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← resulta-em |
+| Satchidanandaghana (super código genômico do Projeto TALM) | RC-838 | associado |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
+| Qin Shi Huang Di (imperador chinês sob influência de Lemion) | RC-851 | associado |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
+

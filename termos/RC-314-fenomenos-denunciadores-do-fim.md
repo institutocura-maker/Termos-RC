@@ -38,11 +38,18 @@ Os fenômenos denunciadores do fim são o pano de fundo sensorial de todo o B022
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Tempo de Apostasia | RC-313 | denuncia |
-| Dissolução da Tríade | RC-300 | anuncia |
-| O Fim da Lila | RC-315 | contexto |
+| Isolamento Cósmico | RC-070 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Trimurti | RC-104 | afeta |
-| Esgotamento e Solidão | RC-317 | consequência |
+| Eras da Criação (10 eras) | RC-155 | associado |
+| Fenômenos Denunciadores do Fim | RC-203 | ← variação |
+| Dissolução da Tríade (2015–2017) | RC-300 | anuncia |
+| Tempo de Apostasia | RC-313 | denuncia |
+| O Fim da Lila | RC-315 | contexto |
+| Esgotamento e Solidão (dos Trimurtianos) | RC-317 | consequência |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | associado |
+| Fim do Experimento Humano | RC-578 | associado |
+| Colapso do Caos Organizado | RC-690 | ← relaciona-se-a |
 
 ## Seres Associados
 Brahma (RC-037); Vishnu (RC-135); Shiva (RC-102); Jan Val Ellam (RC-071, testemunha).

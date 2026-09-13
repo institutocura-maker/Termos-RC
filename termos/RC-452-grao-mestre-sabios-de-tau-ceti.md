@@ -32,9 +32,9 @@ Capítulos 10–12 do B058: "o 'Grão-mestre' daquela 'Universidade', ou seja, *
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Universidade de Tau Ceti | RC-451 | associado-a (preside — relação B058) |
 | Tau Ceti (Sistema) | RC-103 | associado-a (localização) |
 | Revolta Capelina | RC-450 | relaciona-se-a (o veredito dá respaldo ao movimento) |
+| Universidade de Tau Ceti | RC-451 | associado-a |
 
 ## Seres Associados
 Os Mestres/Sábios de Tau Ceti; Yel Luzbel (RC-078, o avaliado); Sophia (RC-009 — destinatário do ofício).

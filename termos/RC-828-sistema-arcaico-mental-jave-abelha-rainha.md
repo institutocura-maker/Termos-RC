@@ -32,12 +32,13 @@ Aparece em **P2023-12-17**, U0003. Contexto: a palestra explica por que os elét
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brahma) | RC-001 | é-rainha-de |
-| Sophia | RC-009 | é-análoga-a |
-| Elétron | RC-162 | colapsa |
-| Plasma | RC-162 | é-estado-de |
-| Rebelião dos Elétrons | RC-826 | é-mecanismo-de |
-| Memória dos Elétrons | RC-829 | é-contexto-de |
+| Javé | RC-001 | é-rainha-de |
+| Sophia (Cristo Cósmico) | RC-009 | é-análoga-a |
+| Elétrons (agente básico da vida universal) | RC-162 | colapsa |
+| Elétrons (agente básico da vida universal) | RC-162 | é-estado-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-mecanismo-de |
+| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
 | Corais | (fato biológico) | colapsa |
 | Abelhas/Colmeias | (fato biológico) | colapsa |
 

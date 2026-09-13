@@ -40,13 +40,15 @@ Com isso:
 | B002 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
 | DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | **sem aresta** em `RELACOES`; arquivo existe |
 | Agente Secreto do Bem | RC-219 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
-| Primado da Informação | RC-707 | aresta pré-existente; arquivo existe |
+| Primado da Informação | RC-707 | ← relaciona-se-a |
+| Primado da Informação | RC-707 | relaciona-se-a |
 | Ser Humano Não Local | RC-708 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

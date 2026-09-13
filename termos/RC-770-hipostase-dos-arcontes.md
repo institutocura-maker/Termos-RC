@@ -53,3 +53,22 @@ Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regent
 - «No início do século e eu vou revelar hoje aqui uma coisa pela primeira vez pra gente poder compreender melhor esses livros todos que Maria Madalena no século havia produzido e que eh Mani e outras figuras, Valentiniano, outras figuras chamadas gnósticas ao longo desses séculos foram produzindo.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0004
 - «A hipóstese dos arcontes ou a realidade dos regentes cósmicos é considerada por estudiosos uma exegese, ou seja, uma análise dos seis primeiros capítulos do livro do Gênesis, que expressam a mitologia gnóstica da criação do cosmos e da humanidade.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0004
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | associado |
+| Jesus | RC-072 | relaciona-se-a |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Sophia e a Ressurreição de Jesus | RC-280 | associado |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Ialdabaoth (= Javé/Samael/Saklas/Sabaoth) | RC-482 | relaciona-se-a |
+| Dinastia das Sophias | RC-494 | associado |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Noreia (Norea) | RC-579 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | ← relaciona-se-a |
+| Nag Hammadi (a biblioteca egípcia onde em 1945 foi encontrada a cópia copta da Hipóstase dos Arcontes — STT «Naghama»; marco físico e histórico da recuperação da revelação gnóstica original) | RC-887 | relaciona-se-a |
+

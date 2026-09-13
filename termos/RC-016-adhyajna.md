@@ -29,13 +29,19 @@ As formas avatáricas — demo ou homo — de Vishnu e Shiva, "base sacrificial"
 > "Adhyajna: Formas avatáricas, demo ou homo, de Vishnu e Shiva; também denominada 'base sacrificial'. Foram criadas pelo fato das formas Adhydaiva não poderem deixar o universo paralelo, onde se encontram." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Adhyagia | RC-012 | associado |
+| Adhydaiva | RC-014 | associado |
 | Adhybutha | RC-015 | recorre-a (sem suporte) |
-| Shiva | RC-102 | avatar-de |
-| Vishnu | RC-135 | avatar-de |
 | Jesus | RC-072 | tem-expressão |
+| Shiva (Savna) | RC-102 | avatar-de |
+| Vishnu (Mavatna) | RC-135 | avatar-de |
+| Prisioneiros da Brahmaloka | RC-260 | ← opõe-se-a |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
+| Javé sem avatares ('Não tenho isto!') | RC-426 | ← opõe-se-a |
+| Yajna (ritual de sacrifício/fogo) | RC-688 | ← relaciona-se-a |
 
 ## Observações
 

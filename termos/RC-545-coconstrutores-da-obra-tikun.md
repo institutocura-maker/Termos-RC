@@ -44,6 +44,17 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 - **[P2022-03-26 · COCONSTRUTORES DA OBRA (TIKUN) NA FALA DE 26/03/2022]** "evolua no sentido de consertar seus 28.869 genes, que é o favor divino que ele tá fazendo ao dono desse código, que é o criador falido." (U0029) — **Selo temporal (D-10):** fórmula oral de 26/03/2022, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⭐ **NOTA DE ANTERIORIDADE — P2022-03-26:** antecipa **19 meses** a atual fonte oral mais antiga da ficha (`P2023-10-14`); selada com a data da fonte, **sem** alterar a cronologia canônica da Base.
 - **[P2022-03-26 · O FAVOR DIVINO É DO HUMANO PARA O CRIADOR]** "Ele cede a alma que dá a imantação ou que permite a estruturação dos eus transitórios, mas não protege esses eus transitórios. Dá a liberdade de cada um agir como quiser." (U0040); "nós assumimos as culpas de causas que não causamos e sofrimentos que não geramos?" (U0040) — A inversão que dá título à saída prática da palestra: *consertar os 28.869 genes* como favor a um Deus inoperante. Registrar com a ressalva de que a fonte apresenta isso como conselho ao vivo, não como doutrina fechada.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criatura Universal | RC-042 | associado |
+| Criaturas-ferramenta | RC-164 | associado |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | ← relaciona-se-a |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | associado |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| Cessão Consciente do DNA Humano | RC-698 | ← relaciona-se-a |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

@@ -72,11 +72,28 @@ Na leitura de B013, a Cabala surgiu como **reação de Javé ao gnosticismo** (s
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Kether (Javé) | RC-261 | emanações-de |
-| Daath | RC-262 | associado-a |
-| Planos de Existência da Cabala | RC-264 | associado-a |
 | Tzimtzum | RC-008 | contexto |
-| Gnosticismo | RC-268 | origem (reação) |
+| Kether (Javé na Cabala) | RC-261 | compõe |
+| Daath (a Criação na Cabala) | RC-262 | associado-a |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado-a |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | relaciona-se-a |
+| Sepher ha-Zohar (e Shimon Bar Yochai) | RC-266 | ← relaciona-se-a |
+| Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
+| Gnosticismo (contraponto à Cabala) | RC-268 | origem (reação) |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | ← é-um |
+| Metatron | RC-671 | associado |
+| Urdidura de Metatron | RC-674 | ← organiza |
+| Urdidura de Metatron | RC-674 | relaciona-se-a |
+| Urdidura de Metatron | RC-674 | ← relaciona-se-a |
+| Binah | RC-675 | ← é-um |
+| Chesed | RC-676 | ← é-um |
+| Geburah | RC-677 | ← é-um |
+| Tiferet / Tiphareth | RC-678 | ← é-um |
+| Netzach | RC-679 | ← é-um |
+| Hod | RC-680 | ← é-um |
+| Yesod | RC-681 | ← é-um |
+| Malkuth | RC-682 | ← é-um |
+| Malkuth | RC-682 | ← relaciona-se-a |
 
 ## Seres Associados
 Kether/Javé (RC-261); Deidade (RC-047).

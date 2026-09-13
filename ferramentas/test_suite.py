@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (13 checks; Onda 0.1 + 1.5 + 2.1)
+# STATUS: ATIVO-P7 (14 checks; Onda 0.1 + 1.5 + 2.1 + 2.5)
 """SUITE DE INTEGRIDADE DA BASE RC — Onda 0.1 (12 checks, só-stdlib).
 
 Uso:  python3 ferramentas/test_suite.py        (a partir da raiz do repo)
@@ -296,6 +296,40 @@ class TestBase(unittest.TestCase):
                 ruins.append(f"{cod}: atualizado fora do ISO")
         print(f"\n[T13] {n_front} fichas com frontmatter (piloto 2.1)")
         self.assertEqual(ruins[:8], [], ruins[:8])
+
+    def test_T14_tabelas_relacionados(self):
+        """2.5 (M3): tabela '## Termos Relacionados' == f(cadastro) — par visto dos dois
+        polos (espelho t[6] ∪ arestas RELACOES); linhas-candidato/auto/sem-código fora do match."""
+        T = {t[0]: t for t in d.TERMOS}
+        esp = {}
+        for t in d.TERMOS:
+            for c in str(t[6]).split(";"):
+                c = c.strip()
+                if c in T and c != t[0]:
+                    esp.setdefault(t[0], set()).add(c)
+                    esp.setdefault(c, set()).add(t[0])
+        for a, _tip, b, _f in d.RELACOES:
+            if a in T and b in T:
+                esp.setdefault(a, set()).add(b)
+                esp.setdefault(b, set()).add(a)
+        ruins = []
+        for p in sorted(_glob.glob(os.path.join(ROOT, "termos", "*.md"))):
+            mc = re.match(r"(RC-\d+)-", os.path.basename(p))
+            if not mc or mc.group(1) not in T:
+                continue
+            cod = mc.group(1)
+            x = open(p, encoding="utf-8").read()
+            carta = x[x.find("\n+++\n", 4) + 5:] if x.startswith("+++\n") else x
+            m = re.search(r"(?ms)^## Termos Relacionados\n(.*?)(?=^## |\Z)", carta)
+            have = set()
+            for line in (m.group(1).splitlines() if m else []):
+                for c in [y.strip() for y in line.strip().strip("|").split("|")]:
+                    if re.fullmatch(r"RC-\d+", c) and c in T and c != cod:
+                        have.add(c)
+            if have != esp.get(cod, set()):
+                ruins.append(cod)
+        print(f"\n[T14] tabelas == cadastro (M3) · divergentes: {len(ruins)}")
+        self.assertEqual(ruins[:8], [], f"tabelas divergem do cadastro: {ruins[:8]}")
 
     def test_T10_hold(self):
         hold = load_hold()

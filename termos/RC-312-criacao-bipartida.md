@@ -32,10 +32,10 @@ B022, Introdução (voz de Ellam, pp. 4–7): em experiência visionária, Ellam
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Universo Antimaterial | RC-106 | inclui |
-| Universo Material | RC-107 | inclui |
-| Criação Indevida | RC-167 | é-qualificada-como |
-| Revelação Cósmica | RC-094 | integra |
+| Revelação Cósmica (conceito) | RC-094 | integra |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | inclui |
+| Universo Material (Bhuloka) | RC-107 | inclui |
+| Criação Indevida (Obra indevida) | RC-167 | é-qualificada-como |
 
 ## Seres Associados
 - **Entes-clones** (sem código; cf. RC-167) — habitantes do universo retraído

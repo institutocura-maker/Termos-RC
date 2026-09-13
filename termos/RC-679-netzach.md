@@ -21,11 +21,11 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-263 | — | relacionado |
-| RC-680 | — | relacionado |
-| RC-681 | — | relacionado |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| Hod | RC-680 | — |
+| Yesod | RC-681 | — |
 
 ## Seres Associados
 Consultar Base.

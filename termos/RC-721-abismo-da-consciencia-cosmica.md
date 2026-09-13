@@ -42,14 +42,22 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 > “Há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Dignidade como Critério | RC-722 | avaliado-por |
-| Falsa Providência | RC-723 | manifesta-se-em |
-| Autismo Funcional dos Seres Superiores | RC-605 | relaciona-se-a |
-| Buraco Negro Mental | RC-717 | relaciona-se-a |
-| Sócios do Destino | RC-720 | relaciona-se-a |
+| O Mal: Subproduto da Ignorância Espiritual | RC-223 | ← comparado-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Decência cósmica (ética ellâmica) | RC-508 | associado |
+| Demência do Criador (fases da condição de Javé) | RC-526 | ← relaciona-se-a |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | relaciona-se-a |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← relaciona-se-a |
 | Humanos: Últimos e Primeiros | RC-654 | observado-de-dentro-por |
+| Humanos: Últimos e Primeiros | RC-654 | ← observa-de-dentro |
+| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | manifesta-se-em |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
 
 ## Blindagem epistemológica
 Conceito interno da cosmologia e crítica filosófica de Ellam. Não é diagnóstico psicológico, psiquiátrico ou neurocientífico. As “faces dos poderosos” são juízos atribuídos ao palestrante, não consenso histórico ou religioso.

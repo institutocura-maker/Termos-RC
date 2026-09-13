@@ -50,11 +50,12 @@ O Fator Dharma é a chave interpretativa do B023: o sistema de dharma/castas foi
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Senhores do Dharma | RC-320 | é-um |
-| Dharma e Castas (origem demo) | RC-322 | é-um |
-| Castas Trimurtianas | RC-321 | relaciona-se-a |
-| Trimurti | RC-104 | agentes |
 | Lila | RC-075 | variação |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Trimurti | RC-104 | agentes |
+| Senhores do Dharma (= Senhores da Lila / Trimurti) | RC-320 | é-um |
+| Castas Trimurtianas | RC-321 | relaciona-se-a |
+| Dharma e Castas (origem demo) | RC-322 | é-um |
 | Imperativo Categórico da Moral | RC-328 | desdobramento |
 
 ## Seres Associados

@@ -50,13 +50,14 @@ Com isso:
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Bilatérios | RC-035 | **sem aresta** em `RELACOES`; arquivo existe |
 | Val (Família Val) | RC-109 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Yel (Família Yel) | RC-136 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Cérebro Radiata | RC-631 | aresta pré-existente; arquivo existe |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | associado |
+| Cérebro Radiata | RC-631 | ← é-um |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← relaciona-se-a |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
-
-> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-093.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

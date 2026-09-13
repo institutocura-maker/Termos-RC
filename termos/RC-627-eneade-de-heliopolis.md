@@ -33,6 +33,7 @@ A comparação mostra que os oito da Ogdóade não representam contagem exaustiv
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
 | Ogdóade de Hermópolis | RC-609 | compara-se-a |
 | Universo TÊNET | RC-626 | relaciona-se-a |
 

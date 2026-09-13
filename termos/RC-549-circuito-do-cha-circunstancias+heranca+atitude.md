@@ -40,9 +40,9 @@ Ellam contrapõe o "circuito do CHA" à "vontade de progredir": quem não desper
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Arquivos Mentais | RC-548 | relaciona-se-a (define os arquivos) |
-| Vontade de Progredir | RC-550 | relaciona-se-a (antídoto) |
 | Mentalma | RC-166 | relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | relaciona-se-a |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a |
 
 ## Seres Associados
 Espírito encarnado; "Eu piloto automático" (o que vive o circuito).

@@ -30,6 +30,14 @@ Conceito desenvolvido na palestra «A Quem Pertence o Planeta e a Biblioteca Gen
 - RC-722 (Dignidade) — a pulsação da dignidade como caminho para superar os ismos
 - RC-889 (Biblioteca Genômica Humana) — o DNA como laboratório onde os ismos são impostos
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Biblioteca Genômica Humana | RC-889 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

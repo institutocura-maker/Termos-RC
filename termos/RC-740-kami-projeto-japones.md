@@ -21,14 +21,17 @@
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-737 | relaciona-se-a / ver grafo |
-| RC-738 | relaciona-se-a / ver grafo |
-| RC-739 | relaciona-se-a / ver grafo |
-| RC-269 | relaciona-se-a / ver grafo |
-| RC-531 | relaciona-se-a / ver grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Trimurti | RC-104 | relaciona-se-a |
+| Linhagens Humanas: Preferidas e Preteridas | RC-269 | relaciona-se-a / ver grafo |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Laboratório Genético Terra (linhagens monitoradas) | RC-531 | relaciona-se-a / ver grafo |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Projeto Amaterasu–Kami no Japão | RC-737 | ← envolve |
+| Projeto Amaterasu–Kami no Japão | RC-737 | ← relaciona-se-a |
+| Amaterasu (Teologia Comparada de Ellam) | RC-738 | relaciona-se-a / ver grafo |
+| Susanoo (Teologia Comparada de Ellam) | RC-739 | relaciona-se-a / ver grafo |
 
 ## Glossário interno / absorções
 

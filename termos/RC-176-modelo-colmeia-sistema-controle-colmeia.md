@@ -44,6 +44,30 @@ O modelo colmeia **já vigia entre Javé e os seus anjos-clones no universo anti
 - **[P2022-03-26 · RÉDEAS FROUXAS: SOPHIA COMO RAINHA QUE NÃO IMPÕE]** "No livro A Divina Colmeia, a gente analisa hoje isso aí." (U0008) — A fonte remete o desenvolvimento ao livro já catalogado (cross-reference D-11): **B044 A Divina Colmeia**. Nada de obra nova: o vínculo é de conteúdo com endereço.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Anjos clones | RC-019 | associado |
+| Colmeia Universal | RC-174 | associado |
+| Abelha-Rainha (Javé) | RC-175 | associado |
+| Colmeia do Éden | RC-177 | associado |
+| Fator Colmeia | RC-180 | associado |
+| Biodemol | RC-186 | associado |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | implementa |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | ← distingue-se-de |
+| Rebanho humano | RC-193 | associado |
+| Criador refém das próprias criaturas | RC-196 | associado |
+| Dominação (premissa dos Três Primeiros Logos) | RC-254 | associado |
+| A Jaula de Cada Espécie | RC-277 | ← relaciona-se-a |
+| Teocracia da Doença de uma Divindade | RC-334 | associado |
+| Lavagem Cerebral (condicionamento) | RC-335 | associado |
+| Colapso do Caos Organizado | RC-690 | ← manifesta-se-em |
+| Colapso do Caos Organizado | RC-690 | ← manifesta-se-em |
+| Informações Vivas | RC-715 | ← relaciona-se-a |
+| Informações Vivas | RC-715 | relaciona-se-a |
+| Dominação Psíquica pela Devoção | RC-733 | associado |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+
 ## Atualização — P2021-12-04
 
 - **Unidades:** U0490–U0493.

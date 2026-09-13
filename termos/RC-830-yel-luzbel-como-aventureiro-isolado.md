@@ -33,9 +33,10 @@ Aparece em **P2023-12-17**, U0001. Contexto: a palestra abre com Yel Luzbel como
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Rebelião de Lúcifer | RC-002 | é-paralelo-com |
+| Guerra do Éden | RC-006 | associado |
+| Sophia (Cristo Cósmico) | RC-009 | rebelou-se-contra |
 | Jesus | RC-072 | desmaiou-aos-pés-da-cruz-de |
-| Sophia | RC-009 | rebelou-se-contra |
-| Lúcifer | RC-002 | é-paralelo-com |
 | Belquior (poeta) | (referência cultural) | é-paralelo-com |
 | Fernando Pessoa (poeta) | (referência cultural) | é-paralelo-com |
 

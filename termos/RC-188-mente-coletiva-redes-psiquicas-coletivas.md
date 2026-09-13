@@ -69,10 +69,18 @@ Em B044, a mente coletiva aparecia sobretudo como instrumento do Modelo Colmeia.
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Modelo Colmeia | RC-176 | distingue-se-de / pode ser instrumentalizado-por |
-| Círculo da Perfeição | RC-603 | relaciona-se-a |
+| Javé | RC-001 | associado |
+| Anjos clones | RC-019 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | ← implementa |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | distingue-se-de |
 | Departamentalização da Vida | RC-601 | relaciona-se-a |
-| Protocolos da Perfeição | RC-606 | relaciona-se-a |
+| Círculo / Circuito da Perfeição | RC-603 | ← relaciona-se-a |
+| Círculo / Circuito da Perfeição | RC-603 | relaciona-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | associado |
+| Dominação Psíquica pela Devoção | RC-733 | ← usa |
+| Especiação a partir do DNA Humano | RC-778 | associado |
 
 ## Seres Associados
 Seres Originais do Paraíso (RC-600); Gênero Adhy (RC-411); Seres LM (RC-456).

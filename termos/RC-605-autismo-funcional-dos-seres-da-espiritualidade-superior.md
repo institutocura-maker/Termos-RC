@@ -47,10 +47,16 @@ A analogia é aplicada a seres do Paraíso, da Operacional e da Laboratorial, co
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Seres Originais do Paraíso | RC-600 | aplica-se-a |
 | Gênero Adhy (147 seres, 5 espécies) | RC-411 | aplica-se-a |
 | Ser LM (gênero de Tempérion) | RC-456 | aplica-se-a |
+| Seres Originais do Paraíso | RC-600 | aplica-se-a |
 | Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+| Conclave da Espiritualidade Laboratorial | RC-635 | associado |
+| Abismo da Consciência Cósmica | RC-721 | ← relaciona-se-a |
+| Abismo da Consciência Cósmica | RC-721 | relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | ← relaciona-se-a |
+| Abismo da Providência / Falsa Providência | RC-723 | relaciona-se-a |
+| Disforia de gênio (a confiança ilimitada na pretensa capacidade) | RC-878 | associado |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

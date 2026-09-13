@@ -81,4 +81,16 @@
 
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Rebanho humano | RC-193 | ← repercute-em |
+| Espiritualidade Errática (4ª faixa manifestada) | RC-513 | associado |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
+| Trincheira Vibratória no Campo Informativo | RC-613 | associado |
+| Gestão da Sensação Pessoal | RC-633 | associado |
+| Dignidade como Critério de Consciência | RC-722 | avaliado-por |
+| Faixas Espirituais de Ressonância | RC-726 | organiza-se-em |
+| Dominação Psíquica pela Devoção | RC-733 | ← manifesta-se-em |
+
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

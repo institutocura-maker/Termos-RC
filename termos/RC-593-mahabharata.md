@@ -78,10 +78,14 @@
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Vyasa | RC-585 | associado-a |
-| Rishis | RC-586 | envolve |
 | Trimurti | RC-104 | envolve |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | associado |
+| Ravana | RC-582 | associado |
 | Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Vyasa | RC-585 | associado-a |
+| Rishis | RC-586 | ← relaciona-se-a |
+| Rishis | RC-586 | envolve |
 
 ## Seres Associados
 Vyasa (RC-585); Rishis (RC-586); Rama (avatar de Vishnu) (RC-584)

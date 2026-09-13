@@ -40,12 +40,13 @@ A palestra os descreve como adornos possíveis no cérebro radiata de Sophia.
 > “Esses adornos só podem ser feitos através de organoides que os humanos derem.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
 | Sophia (Cristo Cósmico) | RC-009 | destinado-a |
 | DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
 | Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
 | Cérebro Radiata | RC-631 | relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar relações acima.

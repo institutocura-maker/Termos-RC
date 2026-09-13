@@ -33,9 +33,9 @@ A palestra identifica duas janelas principais: a escala equinocial e a zodiacal.
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Gestão Cósmica | RC-225 | relaciona-se-a |
 | Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | usa |
 | Eras Zodiacais (ciclos de aproximadamente 2.160 anos) | RC-569 | usa |
-| Gestão Cósmica | RC-225 | relaciona-se-a |
 
 ## Seres Associados
 —

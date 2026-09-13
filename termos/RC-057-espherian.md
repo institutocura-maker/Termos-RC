@@ -25,12 +25,11 @@ A maior das três grandes naves com que a Família Val (736 membros) aportou na 
 > "Primeiro pousou 'espherian', a maior das três; depois 'asphezian', a mais requintada e poderosa e, cerca de quase seis milénios depois, a menor e mais adaptada para todo tipo de missão." — B017
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Espheron | RC-058 | nave-irmã (tríade Val) |
 | Asphezian | RC-025 | nave-irmã (tríade Val) |
 | Benem | RC-032 | convertida-em (estação Benem) |
+| Espheron | RC-058 | nave-irmã (tríade Val) |
 | Frota Norte | RC-065 | associado-a (sediada em Benem) |
 
 ## Observações

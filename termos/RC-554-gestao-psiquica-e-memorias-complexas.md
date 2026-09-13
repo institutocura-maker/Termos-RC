@@ -36,14 +36,14 @@ No *Mentalma II* (B075), Ellam aprofunda o método do *Mentalma I* (B074) no ter
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mentalma | RC-166 | é-um (aplicação do método no vol. II) |
-| Arquivos Mentais | RC-548 | envolve (o que é gerido) |
-| Dehatma Buddhi | RC-551 | relaciona-se-a (a "doença" que a gestão trata) |
-| Vontade de Progredir | RC-550 | relaciona-se-a (a Vontade comanda o processo) |
-| Disciplina dos 3As | RC-552 | relaciona-se-a (prática-base: PRA) |
-| Eu Profundo | RC-553 | relaciona-se-a (o "Eu Mais Profundo" como gestor) |
-| Série Mentalma | RC-555 | está-em (volume II) |
-| Conectoma humano | RC-557 | relaciona-se-a ("conectoma mental", p. 190–191) |
+| Mentalma | RC-166 | é-um |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | envolve (o que é gerido) |
+| Vontade de Progredir (chave dos arquivos mentais) | RC-550 | relaciona-se-a (a Vontade comanda o processo) |
+| Dehatma Buddhi (doença psíquica da mente identificada com o corpo) | RC-551 | relaciona-se-a (a "doença" que a gestão trata) |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | relaciona-se-a (prática-base: PRA) |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a (o "Eu Mais Profundo" como gestor) |
+| Série Mentalma (5 livros + curso) | RC-555 | está-em (volume II) |
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | relaciona-se-a ("conectoma mental", p. 190–191) |
 
 ## Seres Associados
 Espírito encarnado (o "Eu organizador" em ação); Jan Val Ellam (RC-071, criador do método).

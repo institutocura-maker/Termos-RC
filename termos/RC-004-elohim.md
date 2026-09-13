@@ -31,6 +31,10 @@ Termo do Antigo Testamento (plural de *Eloah*) reapropriado pela literatura ufol
 |---|---|---|
 | Javé | RC-001 | associado-a |
 | Guerra do Éden | RC-006 | envolve (a confirmar) |
+| Abelha-Rainha (Javé) | RC-175 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← sinônimo |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Nefilins (= Anunnaki) | RC-488 | relaciona-se-a |
 
 ## Seres Associados
 Javé (RC-001).

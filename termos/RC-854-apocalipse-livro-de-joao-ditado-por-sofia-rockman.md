@@ -59,13 +59,14 @@ Com isso:
 | P2025-05-10 | Mistérios do Apocalipse (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| João Evangelista (apóstolo, o discípulo amado) | RC-855 | **sem aresta** em `RELACOES`; arquivo existe |
-| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
-| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | **sem aresta** em `RELACOES`; arquivo existe |
 | Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
+| Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Coreografia Cósmica (vinda de Sophia) | RC-258 | **sem aresta** em `RELACOES`; arquivo existe |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | **sem aresta** em `RELACOES`; arquivo existe |
+| João Evangelista (apóstolo, o discípulo amado) | RC-855 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

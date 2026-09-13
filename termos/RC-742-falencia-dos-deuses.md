@@ -21,12 +21,12 @@
 - **[P2024-08-03] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada; devolutiva oficial do curador registrada em 2026-08-16.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-040 | consultar relação tipada no grafo |
-| RC-734 | consultar relação tipada no grafo |
-| RC-395 | consultar relação tipada no grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| CFD (Código Fonte Definidor) | RC-040 | é-falência-de |
+| Ragnarok em Marte | RC-395 | reaparece-como-destruição-em |
+| Fatiamento de Consciência | RC-604 | resulta-de |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | motiva-recurso-a |
 
 ## Glossário interno / pendências
 

@@ -39,14 +39,18 @@ Na cosmologia comparada de Jan Val Ellam, Bifrost é uma ponte periódica entre 
 | P2024-11-02 | U0172–U0208; U0268–U0302; U0618–U0646; U1029 | palestra/STT pré-curada |
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Yggdrasil | RC-730 | conecta |
-| Ragnarok em Marte | RC-395 | relaciona-se-a |
-| Axis Mundi | RC-731 | conecta-se-a |
-| Universo Antimaterial | RC-106 | origem de travessia, segundo a narrativa |
-| Universo Material | RC-107 | destino de travessia, segundo a narrativa |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
+| Universo Material (Bhuloka) | RC-107 | destino de travessia, segundo a narrativa |
+| Portal Cósmico (destinação do Planeta Azul) | RC-343 | associado |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Midgard (Marte + Terra) | RC-470 | ← relaciona-se-a |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← conecta-se-por |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | conecta |
+| Axis Mundi / Axismund | RC-731 | ← conecta-se-por |
 
 ## Blindagem científica e histórica
 

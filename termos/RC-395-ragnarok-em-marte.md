@@ -135,6 +135,31 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 - **[Ragnarok — destruição de Yggdrasil há ~300 milhões de anos]:** «Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-730 (Yggdrasil), RC-396 (Kvaser), RC-454 (Moros).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Tau Ceti (Sistema) | RC-103 | ocorre-em |
+| Zeus | RC-145 | associado |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | mata |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| Midgard (Marte + Terra) | RC-470 | ← relaciona-se-a |
+| Midgard (Marte + Terra) | RC-470 | ocorre-no-eixo-de |
+| Midgard (Marte + Terra) | RC-470 | relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Flechas / Profecias de Moros | RC-611 | relaciona-se-a |
+| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | associado |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← destruído-em |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | destrói |
+| Falência dos Deuses | RC-742 | ← reaparece-como-destruição-em |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

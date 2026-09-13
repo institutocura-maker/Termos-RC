@@ -43,9 +43,10 @@ Com isso:
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
-| Têmis | RC-305 | **sem aresta** em `RELACOES`; arquivo existe |
-| Prometeu (titã) | RC-301 | **sem aresta** em `RELACOES`; arquivo existe |
 | Brahma (Brajna) | RC-037 | **sem aresta** em `RELACOES`; arquivo existe |
+| Zeus | RC-145 | **sem aresta** em `RELACOES`; arquivo existe |
+| Prometeu (titã) | RC-301 | **sem aresta** em `RELACOES`; arquivo existe |
+| Têmis | RC-305 | **sem aresta** em `RELACOES`; arquivo existe |
+

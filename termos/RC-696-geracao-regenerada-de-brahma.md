@@ -60,17 +60,35 @@ Entre os filhos da mente aparecem Rishis como Marichi, Atri, Angiras, Pulastya, 
 > “Ele criou então filhos e filhas da sua mente e criou também filhos e filhas do seu corpo.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Brahma | RC-037 | gerada-por |
-| Faces de Javé | RC-561 | relaciona-se-a |
+| Brahma (Brajna) | RC-037 | gerada-por |
+| Brahma (Brajna) | RC-037 | ← gera |
+| Brahma (Brajna) | RC-037 | ← relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Asuras (= Titãs) | RC-465 | relaciona-se-a |
+| Indra (título de arconte) | RC-480 | relaciona-se-a |
+| Faces de Javé (sucessivas manifestações do Criador) | RC-561 | relaciona-se-a |
+| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
 | Rishis | RC-586 | inclui |
-| Descendência de Kadru | RC-664 | relaciona-se-a |
-| DNA do Criador | RC-217 | relaciona-se-a |
+| Rishis | RC-586 | ← parte-de |
+| Rishis | RC-586 | ← integra |
+| Rishis | RC-586 | inclui |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← parte-de |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
 | Kashyapa | RC-700 | inclui |
+| Kashyapa | RC-700 | ← parte-de |
+| Kashyapa | RC-700 | inclui |
+| Kashyapa | RC-700 | relaciona-se-a |
+| Kashyapa | RC-700 | ← relaciona-se-a |
 | Daksha e Virini | RC-701 | inclui |
-| Asuras | RC-465 | relaciona-se-a |
-| Indra/Devas | RC-480 | relaciona-se-a |
+| Daksha e Virini | RC-701 | ← parte-de |
+| Daksha e Virini | RC-701 | relaciona-se-a |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | ← precede |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | sucede |
+| Corpos Fenvã (terceira forma de vida do universo vizinho) | RC-769 | ← relaciona-se-a |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
 
 ## Observações
 - `[TEXTO INCOMPLETO]`: o sétimo nome da enumeração dos Rishis não é recuperável com segurança.

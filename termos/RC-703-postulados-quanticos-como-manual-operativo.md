@@ -38,16 +38,25 @@ O termo articula:
 > “Os postulados quânticos são importantes porque são o manual operativo.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Ciência Pessoal | RC-695 | orienta |
-| Primado da Consciência | RC-546 | relaciona-se-a |
-| Teia Quântica | RC-559 | relaciona-se-a |
-| Gestão da Sensação | RC-633 | usa |
-| Protagonismo Consciencial | RC-509 | realiza |
-| Camuflagem da Realidade | RC-702 | explica/rompe |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | associado |
+| Protagonismo consciencial | RC-509 | realiza |
+| Primado da Consciência Criativa (Goswami) | RC-546 | relaciona-se-a |
+| Disciplina dos 3As (respiração, mente, alinhamento) | RC-552 | associado |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Gestão da Sensação Pessoal | RC-633 | usa |
+| Verdade Posta × Verdade a Construir | RC-657 | associado |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | orienta |
+| Camuflagem da Realidade | RC-702 | ← rompida-por |
+| Camuflagem da Realidade | RC-702 | explica |
+| Ato de Verdade / Satyagraha | RC-705 | ← usa |
 | Primado da Informação | RC-707 | relaciona-se-a |
+| Primado da Informação | RC-707 | ← explicado-por |
+| Genes Críticos / Genes Dorminhocos | RC-710 | relaciona-se-a |
 | Lei da Mente do Buda | RC-712 | relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← relaciona-se-a |
+| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
 
 ## Observações Científicas
 A palestra utiliza “postulados quânticos” de modo ampliado. Observador, não-localidade, tempo de Planck e cocriação macroscópica não devem ser apresentados como consenso da física.

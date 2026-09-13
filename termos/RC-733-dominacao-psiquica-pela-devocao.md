@@ -34,13 +34,18 @@ Espíritos bem-intencionados que manteriam modelos devocionais por considerá-lo
 | P2024-11-02 | U0466–U0560; U0567–U0617 | palestra/STT pré-curada |
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Redes Psíquicas Coletivas | RC-188 | usa |
-| Lavagem Cerebral | RC-335 | reforça |
-| Egrégora | RC-385 | alimenta |
-| Abraço aos Fantasmas | RC-735 | enfrentada-por |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | associado |
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | usa |
+| Lavagem Cerebral (condicionamento) | RC-335 | reforça |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | alimenta |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | associado |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Invasão Ancestral do Genoma e do Psiquismo Humanos | RC-732 | ← favorece |
+| Abraço aos Fantasmas / Integridade sem Combate | RC-735 | enfrentada-por |
+| Colegiados Espirituais Humanizados | RC-745 | manifesta-se-em |
 
 ## Blindagem religiosa, clínica e científica
 

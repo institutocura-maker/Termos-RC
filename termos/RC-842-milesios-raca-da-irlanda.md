@@ -42,11 +42,12 @@ Com isso:
 | P2017-10-14 | Da Base Atlan ao Colégio Druídico (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Thuata de Dannan | RC-398 | **sem aresta** em `RELACOES`; arquivo existe |
-| Colegiado Druídico | RC-403 | **sem aresta** em `RELACOES`; arquivo existe |
+| Thuata de Dannan | RC-398 | ← relaciona-se-a |
+| Colegiado Druídico | RC-403 | relaciona-se-a |
 | Escola da Decifração da Realidade (Método Druídico) | RC-755 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

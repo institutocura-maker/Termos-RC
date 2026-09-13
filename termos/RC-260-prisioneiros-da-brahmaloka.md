@@ -37,13 +37,13 @@ O apêndice "Prisioneiros da Brahmaloka" (B016) é uma das fontes mais densas da
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Brahmaloka | RC-038 | local |
-| Criador | RC-041 | inclui |
-| Universo Antimaterial | RC-106 | contexto |
-| Adhyajna | RC-016 | não produz (Brahma) |
-| Adhydaiva | RC-014 | expressões da Trimurti |
+| Sophia (Cristo Cósmico) | RC-009 | expressão Adhyajna de Vishnu |
 | Adhyagia | RC-012 | condição perdida |
-| Sophia | RC-009 | expressão Adhyajna de Vishnu |
+| Adhydaiva | RC-014 | expressões da Trimurti |
+| Adhyajna | RC-016 | opõe-se-a |
+| Brahmaloka | RC-038 | local |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | inclui |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | contexto |
 
 ## Seres Associados
 Brahma/Javé (RC-037/RC-001); Shiva (RC-102); Vishnu (RC-135); Sophia (RC-009); Jesus (RC-072).

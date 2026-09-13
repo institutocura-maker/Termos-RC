@@ -37,14 +37,15 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fria | RC-085 | protagoniza |
-| Kvasir | RC-396 | é-resultado-de |
-| Odin | RC-489 | convoca |
-| Hiperbórea (Asgard) | RC-068 | é-morada-de |
-| Ragnarok em Marte | RC-395 | é-contexto-de |
+| Hiperbórea | RC-068 | é-morada-de |
+| Orbum | RC-085 | protagoniza |
 | Pandora | RC-086 | é-paralelo-com |
-| Têmis | RC-815 | é-equivalente-grego |
-| Shiva como Primeiro Demo | RC-810 | é-consequência-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Ragnarok em Marte | RC-395 | é-contexto-de |
+| Kvasir e Freya (Vanir/Aesir) | RC-396 | é-resultado-de |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | convoca |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | é-consequência-de |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | é-equivalente-grego |
 
 ## Seres Associados
 - **Fria** (RC-085) — a propositora

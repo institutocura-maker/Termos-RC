@@ -44,9 +44,9 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Nanotecnologia Prânica | RC-773 | relaciona-se-a |
-| Éon das Três Esferas | RC-775 | trabalha-em |
 | Projeto Talm | RC-091 | relaciona-se-a |
+| Nanotecnologia Prânica (manipulação da matéria em escala atômica; base tecnológica do Projeto TALM) | RC-773 | relaciona-se-a |
+| Éon das Três Esferas (superloka/geno; repositório de tesouros genéticos do Projeto TALM) | RC-775 | trabalha-em |
 
 ## Seres Associados
 Mohen So (RC-081), Moros (RC-454), Anã (RC-777), Nornes (RC-467).

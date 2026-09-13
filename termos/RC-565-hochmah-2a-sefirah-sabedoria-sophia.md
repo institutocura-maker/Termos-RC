@@ -166,12 +166,27 @@ Na palestra, o ser que inseminou Maria para gerar Jesus aparece em variações S
 > "Jesus nasceu como via uma humana Maria, mas via uma inseminação artificial em Maria feita por um ser chamado Rockma ou Sofia." — P2026-07-25 [STT normalizado: Hochmah/Sophia]
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia | RC-009 | relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a |
-| Pistis Sophia | RC-530 | relaciona-se-a |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | variação |
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | variação |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Kether (Javé na Cabala) | RC-261 | relaciona-se-a |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| O Enigma da Transfiguração | RC-366 | ← relaciona-se-a |
+| O Enigma da Transfiguração | RC-366 | relaciona-se-a |
+| Pistis Sophia (feminino cósmico gnóstico) | RC-530 | relaciona-se-a |
+| Cérebro Radiata | RC-631 | ← relaciona-se-a |
+| Binah | RC-675 | associado |
+| Malkuth | RC-682 | ← relaciona-se-a |
+| Malkuth | RC-682 | relaciona-se-a |
+| Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | associado |
 
 ## Observações
 - **Grafia SOB SUSPEITA (Curador, 10/09/2026, contexto P7-2.5):** "Hochmah" pode misturar *Hokhmah* (sefardita) + *Chokhmah* (ashkenazi). Decisão canônica anterior ("Hochmah, nunca Rockman/Rockma") MANTIDA; suspeita ENCERRADA por despacho expresso do Curador (P7j 11/09/2026 — o V da leva 8.2 vale como liberação; grafia Hochmah confirmada) → 🟢.

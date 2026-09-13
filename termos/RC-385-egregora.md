@@ -28,17 +28,19 @@ Campo de energias extrafísicas formado no plano astral a partir das emoções e
 > "Aqueles humanos que 'lideram' ou mesmo 'tomam conta' de parte dos elétrons 'rebeldes', estão todos, nesses tempos recentes, congregados numa egrégora — um tipo de circuito que passa a ter uma espécie de vida e/ou de 'personalidade representativa' própria." — B041, pp. 146–147
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| A Rebelião dos Elétrons | RC-378 | é-um (circuito; B041) |
-| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado-a (passagem-chave) |
-| Revelação Cósmica | RC-094 | associado-a |
-| Deva / Aurora | RC-475 | associado-a (egrégora de cólera) |
-| Elétrons | RC-162 | associado-a (circuito) |
 | Javé | RC-001 | associado-a (vampirizava) |
-| Universo de Egrégoras Emocionais | RC-711 | associado-a (distingue escopo) |
-| Egrégora de Lilith / Noreia | RC-787 | associado-a (instância) |
+| Revelação Cósmica (conceito) | RC-094 | associado-a |
+| Elétrons (agente básico da vida universal) | RC-162 | associado-a (circuito) |
+| A Rebelião dos Elétrons | RC-378 | é-um |
+| Proposta de um Humano Terrestre aos Elétrons | RC-384 | associado-a (passagem-chave) |
+| Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
+| Universo de Egrégoras Emocionais | RC-711 | ← relaciona-se-a |
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
+| Dominação Psíquica pela Devoção | RC-733 | ← alimenta |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado-a (instância) |
 
 ## Observações
 

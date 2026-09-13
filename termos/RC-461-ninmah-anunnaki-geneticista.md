@@ -44,12 +44,12 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 > "Marduk e essa irmã deles, Ninhursag... é craque na manipulação genética, mas ela foi embora. Mas a linhagem dela ficou e é uma linhagem que não foi traduzida nas páginas das tábuas sumérias." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Enki | RC-486 | irmã-de |
-| Enlil | RC-487 | irmã-de |
-| Anunnaki | RC-024 | relaciona-se-a |
+| Anunnaki | RC-024 | é-um |
+| Viajores | RC-134 | associado |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | relaciona-se-a |
+| Enlil (deus sumério, par de Enki) | RC-487 | irmã-de |
 
 ## Blindagem
 

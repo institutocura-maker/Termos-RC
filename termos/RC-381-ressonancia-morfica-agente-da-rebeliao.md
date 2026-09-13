@@ -102,13 +102,17 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| A Rebelião dos Elétrons | RC-378 | envolve (de RC-378 para cá) |
+| Revelação Cósmica (conceito) | RC-094 | associado |
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | vincula |
-| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a (de RC-529 para cá) |
+| Elétrons (agente básico da vida universal) | RC-162 | associado |
+| A Rebelião dos Elétrons | RC-378 | ← envolve |
+| Infecção mental / contágio vibratório | RC-520 | associado |
+| Parasitismo energético (obsessão ampliada) | RC-522 | associado |
+| Vampirismo consciencial | RC-523 | associado |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
 | Universo de Egrégoras Emocionais | RC-711 | relaciona-se-a |
-| Formas-Pensamento e Formas-Sentimento | RC-724 | relaciona-se-a (de RC-724 para cá) |
-
-> O cadastro lista ainda **RC-162, RC-094** em `relacionados`; não há arestas do cadastro que liguem esses códigos a esta ficha, e nenhuma foi criada aqui.
+| Formas-Pensamento e Formas-Sentimento | RC-724 | ← relaciona-se-a |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
 
 ## Observações
 

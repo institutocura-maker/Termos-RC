@@ -16,6 +16,19 @@ Estruturas mentais e emocionais que, segundo a explicação da palestra, seriam 
 - **Formas-pensamento (P2024-11-09):** "vamos chamar de formas-pensamento e formas-sentimento, que são guardadas nos campos mórficos de cada espécie, os campos morfogênicos, os campos memoriais, que se transformam às vezes em inconsciente coletivo, como os arcanos, o mundo das egrégoras".
 - **O elétron não chega lá:** "isso aí não é com elétron, não. Ele não chega nisso... ele guarda a informação. A informação é que chega nesses campos, mas não é que o elétron [vá]".
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Mente Coletiva / Redes Psíquicas Coletivas | RC-188 | relaciona-se-a |
+| Big Data Cósmico | RC-194 | relaciona-se-a |
+| Ressonância Mórfica (agente da rebelião) | RC-381 | relaciona-se-a |
+| Egrégora (circuito dos elétrons rebeldes) | RC-385 | relaciona-se-a |
+| Parasitismo energético (obsessão ampliada) | RC-522 | ← relaciona-se-a |
+| Arquivos Mentais (coleção de conceitos no psiquismo) | RC-548 | registradas-em |
+| Universo de Egrégoras Emocionais | RC-711 | armazenado-em |
+| Universo de Egrégoras Emocionais | RC-711 | armazenado-em |
+| Dominação Psíquica pela Devoção | RC-733 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

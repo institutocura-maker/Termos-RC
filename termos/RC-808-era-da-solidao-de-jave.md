@@ -32,11 +32,12 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no b
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | protagoniza |
-| Ser Criador Fracassado | RC-422 | é-resultado-de |
+| Javé | RC-001 | protagoniza |
 | Rebelião de Lúcifer | RC-002 | é-contexto-de |
-| Shiva como Primeiro Demo | RC-810 | é-consequência-de |
-| Buraco Branco | RC-809 | contextualiza |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | é-resultado-de |
+| Pandemia de Buraco Branco que Traga (Javé Tragado pela Criação) | RC-809 | contextualiza |
+| Shiva como Primeiro Demo (Saiu do Clone Destruído) | RC-810 | é-consequência-de |
+| Fissão em Dois Universos (Matéria + Antimatéria) | RC-811 | associado |
 
 ## Seres Associados
 - **Javé** (RC-001) — quem passou a era da solidão

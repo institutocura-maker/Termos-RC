@@ -65,13 +65,16 @@ Forno replicador de vida do **Projeto Talm** (RC-091) sob o controle de **Vishnu
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fornos Replicadores | RC-771 | incluído-em |
-| Adhymavatana (Mavatna/Vishnu) | RC-408 | relaciona-se-a |
-| Olm (Quarto Logos) | RC-092 | origem-de (Olm surgiu no forno) |
 | Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
 | Biodemos | RC-036 | produz |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← origem-em |
 | Radiatas | RC-093 | produz |
-| Almaior / Alamaior | RC-500 | erro-stt-de |
+| Shamb-Aha | RC-101 | ← manifesta-se-em |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | relaciona-se-a |
+| Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) | RC-500 | ← erro-stt-de |
+| Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion) | RC-771 | ← inclui |
+| Forno de Awayen (forno de Brahma/Javé → Central de Realidades) | RC-836 | associado |
+| Forno de Awaylengan (forno de Shiva — o primeiro a funcionar) | RC-837 | associado |
 
 ## Seres Associados
 Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (RC-132 — via RC-771).

@@ -65,6 +65,7 @@ Figura do panteão anunnaki registrada na Base como **Inanna = Danu**: neta de *
 |---|---|---|
 | Anunnaki | RC-024 | é-um |
 | Thuata de Dannan | RC-398 | relaciona-se-a |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
 
 ## Seres Associados
 

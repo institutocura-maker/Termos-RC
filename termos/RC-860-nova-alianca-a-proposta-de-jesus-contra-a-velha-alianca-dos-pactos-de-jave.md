@@ -40,12 +40,13 @@ Com isso:
 | P2022-11-20 | A Incompreendida Nova Aliança proposta por Jesus (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
 | Jesus | RC-072 | **sem aresta** em `RELACOES`; arquivo existe |
 | Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | **sem aresta** em `RELACOES`; arquivo existe |
-| Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
 | Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | **sem aresta** em `RELACOES`; arquivo existe |
+
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.

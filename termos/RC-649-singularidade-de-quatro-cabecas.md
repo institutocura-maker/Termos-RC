@@ -43,12 +43,13 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-081 | — | relaciona-se-a |
-| RC-282 | — | relaciona-se-a |
-| RC-104 | — | relaciona-se-a |
-| RC-454 | — | relaciona-se-a |
+| Mohen So (Avatar Keshava de Vishnu) | RC-081 | envolve |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | associado |
+| Trimurti | RC-104 | envolve |
+| Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências) | RC-282 | — |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
 
 ## Seres Associados
 Consultar relações na Base.

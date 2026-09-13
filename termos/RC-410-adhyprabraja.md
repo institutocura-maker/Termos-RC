@@ -18,6 +18,15 @@ A ficha de RC-310 registra o uso em «Inquisição Trimurtiana» (B022, Introdu�
 - Variações: Adhyshprabrajna (RC-310); Prabrajna (RC-152); Prajapati (tradição védica)
 - Condição: Adhyatman
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Brahma (Brajna) | RC-037 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Prabrajna | RC-152 | associado |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | variação |
+| Fatiamento de Consciência | RC-604 | ← envolve |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

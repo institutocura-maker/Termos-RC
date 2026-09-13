@@ -32,10 +32,11 @@ Aparece em **P2019-05-11**, U0003, no contexto do **ovo cósmico de Brahman** qu
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé (Brama) | RC-001 | qualifica |
-| Elétrons | RC-162 | é-mente-desmembrada-em |
-| Ser Criador Fracassado | RC-422 | manifesta-se-em |
-| Pactos de Javé | RC-781 | contexto-de |
+| Javé | RC-001 | qualifica |
+| Elétrons (agente básico da vida universal) | RC-162 | é-mente-desmembrada-em |
+| Ser-Criador fracassado (autoconfissão de Javé) | RC-422 | manifesta-se-em |
+| Momento Zero de Pandora | RC-779 | associado |
+| Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | contexto-de |
 | Ovo Cósmico de Brahman | (RC-779) | paralelo-com |
 
 ## Seres Associados

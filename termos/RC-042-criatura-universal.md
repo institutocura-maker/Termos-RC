@@ -81,12 +81,24 @@ Entidade cósmica resultante do **processo de especiação humana** (RC-056): a 
 > "Isso vai ter que ser feito através de um processo de especiação, porque aqui na terra talvez não dê para ser feito isso. Então, o que fazer? Não há muito a ser feito fora de cada um de nós... e esse é o processo de elevação de consciência que nós precisamos fazer." — P2023-05-13
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Especiação | RC-056 | relaciona-se-a |
-| As Cinco Lentes da Realidade | RC-761 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a (recomposição do criador) |
+| Especiação | RC-056 | relaciona-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Mente Universal (Emergente) | RC-163 | associado |
+| Era da Criatura Universal | RC-172 | associado |
+| Era das Supercivilizações | RC-173 | associado |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
+| Evolução Possível (terceira via: nem Darwin, nem deus) | RC-541 | ← relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | ← relaciona-se-a |
+| Coconstrutores da Obra (tikun) | RC-545 | associado |
+| Consciências em Corpos de Sílica | RC-645 | ← relaciona-se-a |
+| Humanos: Últimos e Primeiros | RC-654 | associado |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+| Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos) | RC-879 | associado |
 
 ## Observações
 

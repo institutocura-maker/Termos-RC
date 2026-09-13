@@ -31,12 +31,12 @@ Aparece em **P2025-04-06**, U0005, no encerramento da palestra. Contexto: depois
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Fogo que se Apaga | RC-792 | caminho-para-reacender |
-| Revolução Inacabada de Prometeu e Pandora | RC-788 | operacionaliza |
-| Racionalidade Humana Trucidada | RC-786 | contrapõe-a |
-| Telos de um Deus | RC-292 | é-cumprido-via |
 | Pandora | RC-086 | substitui |
-| Homo Sapiens / Seres Terrenos | RC-099 | aplica-se-a |
+| Seres Terrenos (Homo Sapiens) | RC-099 | aplica-se-a |
+| Telos (de um deus) | RC-292 | é-cumprido-via |
+| Racionalidade Humana Trucidada | RC-786 | contrapõe-a |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | operacionaliza |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | caminho-para-reacender |
 
 ## Seres Associados
 - **Seres humanos inconformados** (RC-099) — quem pratica o Conceito Abaiano

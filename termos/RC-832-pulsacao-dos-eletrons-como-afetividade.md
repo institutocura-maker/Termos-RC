@@ -33,12 +33,15 @@ Aparece em **P2023-12-17**, U0004. Contexto: a palestra explica como os elétron
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Elétron | RC-162 | tem-pulsação |
-| Homo Sapiens | RC-099 | é-alvo-de |
-| Sophia | RC-009 | é-biodemo-com |
-| Genoma | RC-330 | é-alvo-de |
-| Rebelião dos Elétrons | RC-826 | é-mecanismo-de |
-| Memória dos Elétrons | RC-829 | é-contexto-de |
+| Sophia (Cristo Cósmico) | RC-009 | é-biodemo-com |
+| Seres Terrenos (Homo Sapiens) | RC-099 | é-alvo-de |
+| Elétrons (agente básico da vida universal) | RC-162 | tem-pulsação |
+| Civilização Saraswati | RC-330 | é-alvo-de |
+| A Rebelião dos Elétrons | RC-378 | associado |
+| Rebelião dos Elétrons (Além da Entropia) | RC-826 | é-mecanismo-de |
+| Era do Colapso do Caos Organizado | RC-827 | associado |
+| Memória dos Elétrons e Arcanos | RC-829 | é-contexto-de |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
 | Identidade de Gênero | (tema social) | é-expressão-de |
 
 ## Seres Associados

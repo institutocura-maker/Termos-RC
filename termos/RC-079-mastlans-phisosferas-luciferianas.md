@@ -25,14 +25,13 @@ As seis naves-base dos rebelados — "Mastlans Phisosferas" ou "Mastlans Lucifer
 > "97 mil anos A.P.: Seis naves-base chamadas de 'Mastlans Phisosferas' ou 'Mastlans Luciferianas' aportam na Terra trazendo 6.029 seres biodemos rebelados de várias famílias, entre os quais estava Yel Luzbel (Lúcifer)." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Alt'Lam | RC-017 | desenvolvida-em |
+| Rebelião de Lúcifer | RC-002 | frota-de |
+| Alt´Lam | RC-017 | desenvolvida-em |
+| Antlar | RC-022 | associado-a (Império de Antlar) |
 | Atlan | RC-028 | associado-a (base luciferiana) |
 | Dan | RC-046 | associado-a |
-| Rebelião de Lúcifer | RC-002 | frota-de |
-| Antlar | RC-022 | associado-a (Império de Antlar) |
 
 ## Observações
 

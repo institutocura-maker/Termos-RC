@@ -43,15 +43,25 @@ O STT alterna ou deforma nomes e funções. A identificação exata da serpente,
 | P2024-11-02 | U0681–U0724; U1018–U1037 | palestra/STT pré-curada |
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Brahma | RC-037 | regenerado-na-narrativa após receber Amrita |
-| Vishnu | RC-135 | envolve |
-| Asuras | RC-465 | envolve |
-| Bebida dos Deuses / Amrita | RC-466 | resulta-em |
+| Brahma (Brajna) | RC-037 | regenera-na-narrativa |
+| Vishnu (Mavatna) | RC-135 | envolve |
+| Asuras (= Titãs) | RC-465 | envolve |
+| Asuras (= Titãs) | RC-465 | ← participa-de |
+| Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | resulta-em |
+| Rishis | RC-586 | associado |
 | Geração Regenerada de Brahma | RC-696 | precede |
-| Axis Mundi | RC-731 | relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← sucede |
+| Kashyapa | RC-700 | associado |
+| Daksha e Virini | RC-701 | associado |
+| Fantasmas do Passado Mitológico | RC-728 | ← estrutura-se-por |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | associado |
+| Axis Mundi / Axismund | RC-731 | ← contextualiza |
+| Axis Mundi / Axismund | RC-731 | relaciona-se-a |
+| Falência dos Deuses | RC-742 | ← motiva-recurso-a |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
+| Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica) | RC-875 | associado |
 
 ## Blindagem histórica e religiosa
 

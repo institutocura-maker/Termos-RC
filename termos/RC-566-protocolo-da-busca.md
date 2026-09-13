@@ -28,10 +28,13 @@ A palestra abre distinguindo quem busca e percebe de quem apenas recebe concepç
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
+| Mentalma | RC-166 | ← orienta |
 | Cidadão Cósmico | RC-226 | relaciona-se-a |
 | Razão Filosófica dos Terráqueos | RC-231 | relaciona-se-a |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | relaciona-se-a |
 | Olhar Adulto | RC-278 | relaciona-se-a |
+| Verdade Posta × Verdade a Construir | RC-657 | ← relaciona-se-a |
+| Ato de Verdade / Satyagraha | RC-705 | ← relaciona-se-a |
 
 ## Seres Associados
 —

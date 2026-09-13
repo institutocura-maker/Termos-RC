@@ -64,12 +64,13 @@ A descendência de Pirra representa a **mistura do CFD demo com o DNA humano**: 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Pirra | RC-303 | parte-de |
-| Deucalião | RC-304 | parte-de |
 | Pandora | RC-086 | origina-de |
-| Epimeteu | RC-302 | pai de Pirra |
-| Prometeu | RC-301 | pai de Deucalião |
-| Kalil Kadmon | RC-299 | nome demo de Pandora |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Kalil Kadmon (nome demo de Pandora) | RC-299 | nome demo de Pandora |
+| Prometeu (titã) | RC-301 | pai de Deucalião |
+| Epimeteu (titã) | RC-302 | pai de Pirra |
+| Pirra | RC-303 | ← parte-de |
+| Deucalião | RC-304 | ← parte-de |
 
 ## Seres Associados
 Pirra (RC-303); Deucalião (RC-304); Pandora (RC-086); Epimeteu (RC-302); Prometeu (RC-301).

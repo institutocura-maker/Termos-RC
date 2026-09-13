@@ -85,11 +85,15 @@ editada por este ciclo.
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Alt´Lam | RC-017 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; **sem arquivo** |
+| Alt´Lam | RC-017 | par nomeador — `RC-017` também está **sem arquivo**; nenhum dos dois recebeu materialização |
 | Espheron | RC-058 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Experiência Gron | RC-062 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; **sem arquivo** |
+| Ion Crom | RC-069 | associado |
 | Processador Val | RC-089 | listado no cadastro como relacionados, **sem aresta** em `RELACOES`; arquivo existe |
-| Alt´Lam | RC-017 | par nomeador — `RC-017` também está **sem arquivo**; nenhum dos dois recebeu materialização |
 | Processador Val | RC-089 | a fala põe o processador da família **dentro** da nave: mesma cena, duas fichas |
+| Val Eno | RC-123 | associado |
+| Val Tam | RC-132 | associado |
+| Cidades Voadoras | RC-234 | associado |
 
 ## Observações
 

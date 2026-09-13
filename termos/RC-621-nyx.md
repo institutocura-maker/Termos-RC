@@ -34,9 +34,12 @@ A live usa Nyx para distinguir sua descendência da genealogia posterior da Trid
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Deva / Aurora (A Grande Deusa) | RC-475 | precede |
 | Elm (Moros — ser LM de Tempérion) | RC-454 | gera |
+| Deva / Aurora (A Grande Deusa) | RC-475 | ← sucede |
+| Deva / Aurora (A Grande Deusa) | RC-475 | precede |
+| Tridevi | RC-610 | associado |
 | Kama (personificação do desejo) | RC-622 | relaciona-se-a |
+| Nyx como Mãe de Origem de Pandora | RC-795 | associado |
 
 ## Seres Associados
 Consultar relações acima.

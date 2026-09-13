@@ -35,9 +35,10 @@ A palestra o apresenta como possibilidade real ligada à corrupção de seres cr
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Seres Terrenos (Homo Sapiens) | RC-099 | ameaça |
+| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
 | Humanos: uma simples Experiência Biológica | RC-337 | relaciona-se-a |
 | Novo Homo sapiens (evolução que terá de vir) | RC-544 | relaciona-se-a |
-| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
+| Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | ← distingue-se-de |
 | Fim dos Tempos / Final de Ciclo × Fim do Mundo | RC-572 | relaciona-se-a |
 
 ## Seres Associados

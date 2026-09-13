@@ -27,6 +27,22 @@ O livro (18 capítulos) percorre: as teorias da evolução, o "Jogo das Mutaçõ
 - **Quarentena:** IEEA citado no cap. 1 (p. 9) como moldura institucional do autor — **fora da ontologia**.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Criatura Universal | RC-042 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | associado |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
+| Molécula-mãe (ancestral comum da vida terrestre) | RC-540 | relaciona-se-a |
+| Novo Homo sapiens (evolução que terá de vir) | RC-544 | associado |
+| Primado da Consciência Criativa (Goswami) | RC-546 | ← relaciona-se-a |
+| Evolução Criativa (hipótese consciencial) | RC-547 | associado |
+| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
+| Genótipo da Gentileza (GG) | RC-748 | associado |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+
 ## Atualização — P2023-05-13 (Bastidores da Revelação Cósmica)
 
 - **Terceira via confirmada:** as Cinco Lentes (RC-761) mostram que nenhuma resposta isolada (mito, teísmo, deísmo, acaso, supercomputador) resolve — a RC é a soma integrada, e a **consciência humana** é o fator ausente em todas: nem o deus teísta, nem o deísta, nem o acaso, nem o supercomputador a possuem (seção 3.2);

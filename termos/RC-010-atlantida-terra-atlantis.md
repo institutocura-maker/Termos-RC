@@ -38,9 +38,16 @@ Com isso:
 | P2018-12-15 | Terra Atlantis – Aprofundamento (palestra) | — | transcrição automatizada; citação |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Antlartes | RC-023 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Atlan | RC-028 | associado |
+| Atlans | RC-029 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Atlantes | RC-030 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Portlan e Portlon | RC-088 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Antlartes | RC-023 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Atlans | RC-029 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Land's End (Sinal de Land's End) | RC-237 | ← associado-a |
+| Era Sapiens | RC-238 | ← ocorre-após |
+| Império dos Descendentes dos Seres dos Portais | RC-240 | associado |
+| Kumari Kandan (tradição) | RC-329 | associado |
+| Dwarka (submersa) | RC-399 | associado |
+

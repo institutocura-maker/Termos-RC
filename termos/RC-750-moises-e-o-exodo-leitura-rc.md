@@ -34,14 +34,13 @@ Evento/missão central da narrativa de Javé na leitura de Ellam: a retirada das
 > "O êxodo, ou seja, a retirada das 12 tribos de hebreus lá do Egito, foi um instrumento que Javé usou depois que o plano dele de usar os egípcios não deu certo."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé | RC-001 | relaciona-se-a (desígnios) |
-| Criaturas-ferramenta | RC-164 | é-um (Moisés/Êxodo como instrumento) |
-| Linhagem dos Escolhidos | RC-424 | relaciona-se-a (12 tribos) |
-| Pactos do Criador | RC-271 | relaciona-se-a (renovação) |
-| Torá / Pentateuco | RC-683 | relaciona-se-a (releitura proposta) |
+| Javé | RC-001 | relaciona-se-a |
+| Criaturas-ferramenta | RC-164 | é-um |
+| Pactos do Criador (troca de informações) | RC-271 | relaciona-se-a |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | relaciona-se-a |
+| Torá / Pentateuco | RC-683 | relaciona-se-a |
 
 ## Blindagem epistemológica — RESSAIVA OBRIGATÓRIA
 

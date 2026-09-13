@@ -47,11 +47,15 @@ Seus movimentos de consciência teriam gerado porções da incompletude e, poste
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Realidade Maior / Paraíso Original | RC-204 | ocorre-em |
-| Espiritualidade Operacional | RC-060 | cria |
-| Círculo / Circuito da Perfeição | RC-603 | participa-de |
 | Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | relaciona-se-a |
-| Protocolos / Algoritmos da Perfeição | RC-606 | relaciona-se-a |
+| Espiritualidade Operacional | RC-060 | cria |
+| Realidade Maior / Paraíso Original | RC-204 | ocorre-em |
+| Realidade Maior / Paraíso Original | RC-204 | ← variação |
+| Círculo / Circuito da Perfeição | RC-603 | participa-de |
+| Círculo / Circuito da Perfeição | RC-603 | ← envolve |
+| Autismo Funcional dos Seres da Espiritualidade Superior | RC-605 | ← aplica-se-a |
+| Protocolos / Algoritmos da Perfeição | RC-606 | ← rege |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← comunica-com |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

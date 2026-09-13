@@ -32,17 +32,17 @@
 > "Somente a raça inabalável dos antigos setianos e gnósticos barbelos setianos emancipados poderá se habilitar para a função. Os demais precisam apenas não atrapalhar o processo." — P2024-09-28
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Linhagem de Seth | RC-594 | relaciona-se-a |
-| Tikun Cósmico | RC-514 | relaciona-se-a |
-| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
-| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Quarto Logos (Olm) | RC-092 | relaciona-se-a |
-| Barbelo | RC-483 | relaciona-se-a |
 | Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Jesus | RC-072 | relaciona-se-a (gnose pós-ressurreição) |
+| Jesus | RC-072 | relaciona-se-a |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | relaciona-se-a |
+| Barbelo (Mãe-Pai primordial gnóstica) | RC-483 | relaciona-se-a |
+| Ekatma (Adam Kadmon — Homem Primordial) | RC-506 | associado |
+| Tikun Cósmico (restabelecimento da Criação) | RC-514 | relaciona-se-a |
+| Linhagem de Seth | RC-594 | relaciona-se-a |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Genótipo da Gentileza (GG) | RC-748 | relaciona-se-a |
 
 ## Blindagem epistemológica
 

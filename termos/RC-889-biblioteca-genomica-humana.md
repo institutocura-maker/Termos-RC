@@ -32,6 +32,17 @@ Conceito central da palestra «A Quem Pertence o Planeta e a Biblioteca Genômic
 - RC-070 (Isolamento Cósmico) — a pirataria genômica como invasão
 - RC-722 (Dignidade) — a pulsação da dignidade protege o código genético
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Isolamento Cósmico | RC-070 | associado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| Dignidade como Critério de Consciência | RC-722 | associado |
+| Ismos como Limitação Genômica | RC-891 | associado |
+| Qualia como Processamento Humano | RC-894 | associado |
+| Point Interdimensional | RC-896 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

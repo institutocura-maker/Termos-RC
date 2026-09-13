@@ -25,12 +25,13 @@ O Código-fonte Definidor Pessoal — o "Código de Vida Pessoal" do Criador: Vi
 > "Para poder se manter vivo, [o Criador] semeou o seu 'Código-fonte Definidor Pessoal (CFDP)' em todo e em qualquer ser que existiu, exista e que venha a existir, como modo de se manter vivo." — B041
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| CFD (Código Fonte Definidor) | RC-040 | é-um (CFD pessoal) |
+| CFD (Código Fonte Definidor) | RC-040 | deriva-de |
 | Projeto Talm | RC-091 | associado-a (transferência) |
 | Nidana (ovo cósmico) | RC-154 | associado-a |
+| A Rebelião dos Elétrons | RC-378 | ← modifica |
+| Princípio da Externalização (criação divina sem sexualidade) | RC-768 | ← relaciona-se-a |
 
 ## Observações
 

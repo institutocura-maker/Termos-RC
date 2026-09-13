@@ -39,9 +39,9 @@ Cidade espiritual situada acima da região montanhosa do norte da Espanha, em di
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Inquisição Espiritual (obra anunciada) | RC-617 | tema-de |
-| Nova Espiritualidade / Novo Paraíso | RC-612 | relaciona-se-a |
 | Espiritualidade Errática (4ª faixa manifestada) | RC-513 | relaciona-se-a |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | relaciona-se-a |
+| Inquisição Espiritual (obra anunciada) | RC-617 | tema-de |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

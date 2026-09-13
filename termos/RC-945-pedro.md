@@ -20,6 +20,12 @@ Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
 - **Variações / grafias alternativas:** Pedro (apóstolo)
 - **Idioma de origem:** — (pessoa; grego «Petros» = pedra)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Jesus | RC-072 | associado |
+| Evangelho de Bartolomeu | RC-904 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

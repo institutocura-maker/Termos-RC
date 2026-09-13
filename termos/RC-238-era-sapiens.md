@@ -48,8 +48,11 @@ Com isso:
 | B039 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Atlântida / Terra Atlantis | RC-010 | aresta pré-existente; **sem arquivo** |
-| Eras da Criação (10 eras) | RC-155 | **sem aresta** em `RELACOES`; arquivo existe |
+| Atlântida / Terra Atlantis | RC-010 | ocorre-após |
 | Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
+| Eras da Criação (10 eras) | RC-155 | **sem aresta** em `RELACOES`; arquivo existe |
+| O Calvário de um Inocente | RC-236 | associado |
+| Era dos Humanos (Zeus e a) | RC-297 | associado |
+

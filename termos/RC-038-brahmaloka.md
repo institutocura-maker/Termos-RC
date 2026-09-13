@@ -27,18 +27,20 @@ Nome sânscrito do universo antimaterial na Revelação Cósmica — "a morada d
 > "Na Revelação Cósmica esse universo é chamado de Brahmaloka, que significa 'a morada de Brahma', e é composto por lokas (ou moradas extrafísicas). É no Brahmaloka que Brahma/Javé (o Deus Bíblico) 'caiu' na hora da criação e ainda reside." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Universo Antimaterial | RC-106 | sinônimo (nome sânscrito) |
-| Criador | RC-041 | morada-de |
-| Brahma | RC-037 | morada-de |
-| Demos | RC-049 | habitado-por |
-| Lokas | RC-077 | inclui |
-| Genos | RC-066 | inclui (genos ≈ lokas) |
 | Bhuloka | RC-033 | associado-a (par complementar) |
+| Brahma (Brajna) | RC-037 | morada-de |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | morada-de |
+| Demos | RC-049 | habitado-por |
+| Genos | RC-066 | inclui (genos ≈ lokas) |
+| Lokas | RC-077 | inclui |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | ← sinônimo |
+| Universo Paralelo | RC-108 | associado |
 | Prisioneiros da Brahmaloka | RC-260 | associado-a (apêndice) |
-| Planos de Existência da Cabala | RC-264 | associado-a (Yetzirah) |
+| Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | ← inclui |
+| Eon de Khaos (Universo de Caos) | RC-294 | associado |
+| Nada Brahma (tudo é som) | RC-845 | associado |
 
 ## Observações
 

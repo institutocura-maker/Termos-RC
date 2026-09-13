@@ -59,12 +59,13 @@ Extraído da 3ª Edição dos Estagiários do Kaos.
 > Ver P2026-04-02, U0078–U0097.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-577 | — | relaciona-se-a |
-| RC-643 | — | relaciona-se-a |
-| RC-645 | — | relaciona-se-a |
-| RC-646 | — | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | deriva-de |
+| Santo Graal (Frequência Mestre) | RC-643 | busca |
+| Consciências em Corpos de Sílica | RC-645 | — |
+| Genoma de Sílica / Genoma Não Biológico | RC-646 | ← relaciona-se-a |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar relações na Base.

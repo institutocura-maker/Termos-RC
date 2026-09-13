@@ -21,18 +21,18 @@
 - **[P2024-09-29] Proveniência:** palestra de Jan Val Ellam; transcrição STT pré-curada e devolutiva oficial do curador.
 
 ## Termos Relacionados
-
-| Código | Relação editorial |
-|---|---|
-| RC-001 | relaciona-se-a / ver grafo |
-| RC-037 | relaciona-se-a / ver grafo |
-| RC-454 | relaciona-se-a / ver grafo |
-| RC-560 | relaciona-se-a / ver grafo |
-| RC-655 | relaciona-se-a / ver grafo |
-| RC-658 | relaciona-se-a / ver grafo |
-| RC-665 | relaciona-se-a / ver grafo |
-| RC-666 | relaciona-se-a / ver grafo |
-| RC-736 | relaciona-se-a / ver grafo |
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | relaciona-se-a / ver grafo |
+| Brahma (Brajna) | RC-037 | relaciona-se-a / ver grafo |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a / ver grafo |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a / ver grafo |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | produz |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
+| Wyrd / Urd (Teia do Destino) | RC-658 | relaciona-se-a / ver grafo |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | envolve |
+| Obatalá (correspondência de Javé em Ifá) | RC-666 | relaciona-se-a |
+| Aristocracia Olimpiana e Monarquias Terrestres | RC-736 | ← inclui |
 
 ## Glossário interno / absorções
 

@@ -48,10 +48,12 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Esporte como evolução da Guerra | RC-430 | canaliza (de RC-430 para cá) |
+| CFD (Código Fonte Definidor) | RC-040 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
 | DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina-em |
-
-> O cadastro lista ainda **RC-099, RC-040, RC-094** em `relacionados`; não há arestas do cadastro que liguem esses códigos a esta ficha, e nenhuma foi criada aqui.
+| Esporte como evolução da Guerra | RC-430 | ← canaliza |
+| Força de Atração Sexual (anterior à polaridade) | RC-433 | associado |
 
 ## Observações
 

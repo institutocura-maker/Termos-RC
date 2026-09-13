@@ -57,6 +57,25 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - **[P2022-03-26 · ENTROPIA TRANSFERIDA: O RETRATO DE DORIAN GRAY COMO MECÂNICA]** "Nós, os humanos, morremos rápido. A entropia nos ferra logo para deixar os seres demos do universo vizinho viverem. E os biodemos também. E esses seres foram pagando o pato dessa entropia mais rápida." (U0009) — A fonte usa a literatura como modelo **físico** (a entropia vai para o retrato; o retrato é a humanidade). Registrar a comparação como ela é dita, sem transformá-la em alegoria moral.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Shiva (Savna) | RC-102 | associado |
+| Agentes da Vida Universal | RC-148 | associado |
+| Gunas Criadoras (Sattva, Rajas, Tamas) | RC-151 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | associado |
+| Criaturas-ferramenta | RC-164 | associado |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | ← relaciona-se-a |
+| Tempo como Transformação / Permanente Agora | RC-634 | ← relaciona-se-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← é-ilha-de |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | manifesta-se-em |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | associado |
+| Pulsação Digna (a pulsação alinhada a conceitos supremos) | RC-865 | associado |
+| Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento) | RC-874 | associado |
+| Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível) | RC-883 | associado |
+| Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz) | RC-886 | associado |
+| Kris Amon (Krysamon NEAD) | RC-934 | associado |
+
 ## Atualização — P2024-09-28 (A Raça Inabalável dos Sethianos Emancipados) — ABSORÇÃO NT-ST04 (RETRATO DE JAVÉ)
 
 - **"Nós somos o retrato de Javé" (Dorian Grey):** "esses seres do universo vizinho, para manterem vidas longas, quando criaram as vidas biológicas, fizeram com que as vidas biológicas fossem curtas, porque nós somos o retrato de Javé... nós envelhecemos e morremos várias vezes para manter Javé funcionando e todos os seres desse universo terem vidas de bilhões e milhões de anos";

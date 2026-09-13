@@ -31,11 +31,25 @@ Na palestra, Tempérion contrasta com Perpérion: os LM desenvolveram estratégi
 |---|---|---|
 | Espiritualidade Laboratorial | RC-061 | parte-de |
 | Perpérion | RC-087 | relaciona-se-a |
-| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | parte-de |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← ocorre-em |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | ← origem-em |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← ocorre-em |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← origem-em |
+| Ser LM (gênero de Tempérion) | RC-456 | ← ocorre-em |
+| Ser LM (gênero de Tempérion) | RC-456 | ← ocorre-em |
 | Ser LM (gênero de Tempérion) | RC-456 | abriga |
-| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
 | Lempérion e Terpérion (setores da Espiritualidade Laboratorial) | RC-473 | relaciona-se-a |
-| Tempérium — variação histórica de Tempérion (ver RC-472) | RC-498 | relaciona-se-a |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | ← inclui |
+| Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | parte-de |
+| Tempérium — variação histórica de Tempérion (ver RC-472) | RC-498 | ← relaciona-se-a |
+| Tempérium — variação histórica de Tempérion (ver RC-472) | RC-498 | ← variação |
+| Archeons de Ereon | RC-596 | ← inclui |
+| Antérion | RC-597 | associado |
+| Danérion | RC-598 | associado |
+| Mermérion | RC-599 | associado |
+| Cinco Seres LM de Tempérion | RC-607 | ← origem-em |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | associado |
+| Nova Espiritualidade / Novo Paraíso (Paraíso B) | RC-612 | associado |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

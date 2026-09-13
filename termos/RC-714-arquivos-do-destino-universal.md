@@ -37,15 +37,27 @@ Moros teria criado os arquivos após diagnosticar o PIA e perceber que seu conhe
 > “Moros atirou três arquivos atemporais para um futuro incerto.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Moros/Elm | RC-454 | criado-por |
-| Flechas de Moros | RC-611 | transportado-por |
+| Revelação Cósmica (conceito) | RC-094 | cumpre-se-em RC-718 |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | associado |
+| Krishna como 'pretenso Keshava' | RC-425 | ← opõe-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | criado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← cria |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | associado |
+| Arquivos da Memória Cósmica | RC-521 | relaciona-se-a |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | associado |
+| Flechas / Profecias de Moros | RC-611 | transportado-por |
+| Flechas / Profecias de Moros | RC-611 | ← transporta |
+| Wyrd / Urd (Teia do Destino) | RC-658 | organizados-por |
 | Informações Vivas | RC-715 | contêm |
-| PIA | RC-716 | relaciona-se-a |
-| Wyrd/Urd | RC-658 | organizados-por |
-| Arquivos da Memória | RC-521 | relaciona-se-a |
-| Revelação Cósmica | RC-094 | cumpre-se-em RC-718 |
+| Informações Vivas | RC-715 | ← armazenado-em |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | relaciona-se-a |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← registrado-em |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | cumpre-se-em |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← abre |
+| Cumprimento da Profecia de Moros pela Revelação Cósmica | RC-718 | ← relaciona-se-a |
 
 ## Observações
 - Não confundir com livro físico único.

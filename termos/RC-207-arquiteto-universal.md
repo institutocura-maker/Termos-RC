@@ -42,12 +42,15 @@ Termo central da trilogia dos Dramas de Javé. O Arquiteto Universal é uma divi
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Javé | RC-001 | é-um (pós-queda) |
-| Criador | RC-041 | variação |
+| Javé | RC-001 | ← é-um |
+| Criador (Brahma/Javé/Demiurgo) | RC-041 | variação |
+| Divindades (Co-criadoras) | RC-054 | é-um |
 | Prabrajna | RC-152 | identidade prévia |
 | Criador de Padrões Dependentes | RC-208 | modo de criar |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | associado |
 | Queda do Arquiteto Universal | RC-216 | evento |
-| Divindades Co-criadoras | RC-054 | é-um |
+| Consórcio de Mundos (Arquitetos Universais) | RC-538 | ← relaciona-se-a |
+| Arquitetos Universais (coletivo cocriador) | RC-539 | associado |
 
 ## Seres Associados
 Prabrajna/Prajapati (RC-152); Javé (RC-001); Deidade (RC-047); Divindades Excelsas (RC-206).

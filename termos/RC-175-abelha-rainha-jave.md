@@ -56,11 +56,13 @@ Na RC, metáfora do **sistema colmeico de comando** — o modelo em que um coman
 > "A Sofia é a abelha rainha, ou seja, é o velho sistema colmeico que funciona entre eles." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
-| Modelo Colmeia | RC-176 | relaciona-se-a |
+| Javé | RC-001 | variação |
+| Elohim | RC-004 | ← relaciona-se-a |
+| Sophia (Cristo Cósmico) | RC-009 | ← relaciona-se-a |
+| Colmeia Universal | RC-174 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | relaciona-se-a |
 | Relógio Messiânico | RC-765 | relaciona-se-a |
 
 ## Blindagem

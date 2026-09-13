@@ -22,13 +22,15 @@ Remissão histórica: variações de STT ('WD', 'Word', 'Werde', 'teia da verde'
 > "Ele criou a WD. O que é o WD? É um computador quântico que organiza a genética de todos os seres vivos ali dentro e faz com que o que saia de um ser retorne para ele. Isso não é punição, não é uma justiça, era só uma organização."
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Wyrd/Urd | RC-658 | relaciona-se-a |
-| Elm (Moros) | RC-454 | relaciona-se-a |
-| Supercomputador Cósmico | RC-533 | relaciona-se-a |
-| Teia quântica | RC-559 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Simultaneidade Reversa | RC-628 | associado |
+| Wyrd / Urd (Teia do Destino) | RC-658 | variação |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Projeto Orunmilá–Olodus | RC-741 | associado |
 
 ## Observações
 

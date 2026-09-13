@@ -80,13 +80,18 @@ Resultado direto da Rebelião de Lúcifer e do consequente Isolamento Cósmico. 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Javé | RC-001 | associado |
 | Rebelião de Lúcifer | RC-002 | origem |
-| Isolamento Cósmico | RC-070 | contexto |
-| Capela (Sistema) | RC-039 | origem-em |
-| Lúcifer (Yel Luzbel) | RC-078 | inclui |
-| Anjos caídos | RC-020 | equivalência parcial |
-| Ulsh | RC-105 | é-um (família específica) |
 | Reintegração Cósmica | RC-003 | destino |
+| Anjos caídos | RC-020 | equivalência parcial |
+| Capela (Sistema) | RC-039 | origem-em |
+| Isolamento Cósmico | RC-070 | contexto |
+| Lúcifer (Yel Luzbel) | RC-078 | inclui |
+| Ulsh | RC-105 | é-um (família específica) |
+| Roteiro do Exílio | RC-348 | associado |
+| Exílios Interplanetários | RC-349 | associado |
+| Jesus, o Capelino | RC-350 | associado |
+| Revolta Capelina | RC-450 | associado |
 
 ## Seres Associados
 Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mion, Cromon, Shanlung; Família Ulsh (RC-105).

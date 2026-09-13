@@ -66,10 +66,23 @@ Versão primária em B020/B021 (Ellam). No B087 (psicografia de Jeane Miranda �
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Epimeteu (titã) | RC-302 | irmão/co-criador |
-| Zeus | RC-145 | adversário (as "peças" e a vingança) |
 | Pandora | RC-086 | parceiro-de-ideal (o pacto) |
-| (relação prévia) | RC-304 | ver malha |
+| Zeus | RC-145 | opõe-se-a |
+| Timé (de um deus) | RC-293 | ← corresponde-a |
+| Descendência de Pirra (Pirra e Deucalião) | RC-298 | associado |
+| Epimeteu (titã) | RC-302 | ← é-um |
+| Deucalião | RC-304 | ver malha |
+| Asuras (= Titãs) | RC-465 | é-um |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Quinaras / Centauros (Seres Reais que Hoje Nascem Humanos) | RC-790 | associado |
+| Lamúria dos Deuses (Diagnóstico de Prometeu) | RC-791 | associado |
+| Fogo que se Apaga (Fogo de Prometeu Hoje) | RC-792 | associado |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | associado |
+| Desvio de Rota de Pandora (Contra o Plano de Zeus) | RC-806 | associado |
+| Prometeu como Saca-Nica dos Olímpicos | RC-812 | associado |
+| Prole sem Face (Humanos Modificáveis sem Face Definida) | RC-819 | associado |
+| Cronos (titã) | RC-841 | associado |
 
 ## Seres Associados
 Epimeteu (RC-302, o irmão); Pandora (RC-086, a discípula); Zeus (RC-145); Atena (as "fêmeas-testes" criadas por ela).

@@ -43,11 +43,15 @@ Com isso:
 | B039 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Val-Ha | RC-127 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Astralização dos Biodemos | RC-026 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Yel Luzbel | RC-142 | **sem aresta** em `RELACOES`; arquivo existe |
+| Astréia | RC-027 | associado |
 | Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
+| Val-Ha | RC-127 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Val dos Corpos Perdidos / Dimensionados | RC-133 | **sem aresta** em `RELACOES`; **sem arquivo** |
-| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | aresta pré-existente; arquivo existe |
+| Yel Lupon | RC-141 | associado |
+| Yel Luzbel | RC-142 | **sem aresta** em `RELACOES`; arquivo existe |
+| Forno de Awaymaion (forno de Vishnu; origem de Olm) | RC-499 | manifesta-se-em |
+| Espiritismo com Germe da Poluição Católica/Protestante | RC-805 | associado |
+

@@ -53,12 +53,18 @@ No B020, Pandora narra em 1ª pessoa: cerca de 30 mil anos após sua "humanizaç
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Pandora | RC-086 | é-um (papel) |
-| Caos = Brahma = Javé | RC-284 | afronta |
-| Éden do Criador | RC-242 | local |
-| Eva | RC-189 | protege |
-| Opção Inusitada | RC-285 | precede |
+| Pandora | RC-086 | ← é-um |
 | Trava-demo | RC-184 | contexto |
+| Eva (figura) | RC-189 | protege |
+| Éden do Criador (Éden como laboratório) | RC-242 | local |
+| Linhagem dos Patriarcas Hebreus | RC-270 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | afronta |
+| Opção Inusitada de Pandora (humanização) | RC-285 | precede |
+| O Vício de Epimeteu | RC-289 | associado |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← influencia |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | associado |
+| Daksha e Virini | RC-701 | relaciona-se-a |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | ← relaciona-se-a |
 
 ## Seres Associados
 Pandora (RC-086); Caos/Javé (RC-284/RC-001); Adão e Eva bíblicos (RC-189); anjos do Criador.

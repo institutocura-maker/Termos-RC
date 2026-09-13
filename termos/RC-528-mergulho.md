@@ -18,6 +18,13 @@ O vocabulário importa: na RC, «mergulhar» é o que fazem os Logos e as cocria
 - Variações: mergulho; a descida
 - Uso oposto: «queda» (a leitura tradicional)
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Prabrajna | RC-152 | associado |
+| Criação Indevida (Obra indevida) | RC-167 | variação |
+| Acidente cosmogônico (queda de Prabrajna) | RC-515 | associado |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

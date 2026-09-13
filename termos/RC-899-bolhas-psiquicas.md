@@ -21,3 +21,13 @@ Conceito desenvolvido na palestra «A Teia da Vida e o Circuito Oculto dos Deuse
 - RC-559 (Teia Quântica) — o sistema que organiza as bolhas
 - RC-628 (Simultaneidade Reversa) — a simultaneidade das realidades
 - RC-557 (Conectoma) — os padrões mentais que geram as bolhas
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Conectoma humano (pulsações sinápticas e a sensação de eu) | RC-557 | associado |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | associado |
+| Simultaneidade Reversa | RC-628 | associado |
+| Domínios de Morfeu | RC-901 | associado |
+| Umbrais | RC-903 | associado |
+| Yoga Tibetana dos Sonhos | RC-906 | associado |
+

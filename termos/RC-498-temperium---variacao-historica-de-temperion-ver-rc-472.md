@@ -29,10 +29,10 @@ A descrição antiga “os cinco Archeons de Eeron” estava ontologicamente inc
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
 | Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
 | Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | variação |
 | Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) | RC-496 | relaciona-se-a |
-| Espiritualidade Laboratorial | RC-061 | relaciona-se-a |
 
 ## Seres Associados
 Ver relações acima e os nós Elm (RC-454), Olm (RC-092), Prabrajna (RC-152), Gênero Adhy (RC-411) e Seres LM (RC-456), conforme aplicável.

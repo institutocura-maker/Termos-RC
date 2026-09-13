@@ -94,12 +94,15 @@ Nos livros de Jeane Miranda, as famílias capelinas são **Biocoletivos** (colet
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Yel Luzbel | RC-142 | é-um (integrante) |
-| Biodemos | RC-036 | é-um (coletivo de) |
+| Biodemos | RC-036 | é-um |
 | Capela (Sistema) | RC-039 | origina-se-em |
-| Processadores Familiares | RC-446 | associado-a (Processador Yel) |
+| Yel Luzbel | RC-142 | ← é-um |
 | Família Mion | RC-443 | relaciona-se-a |
+| Biocoletivos | RC-445 | associado |
+| Processadores Familiares | RC-446 | ← associado-a |
+| Primeiro Pesquisador (cargo capelino) | RC-447 | associado |
 | Revolta Capelina | RC-450 | envolvida-em |
+| Membros da Família Yel (Luziel, Adrax, Breasil, Lupon) | RC-492 | associado |
 
 ## Seres Associados
 Yel Luzbel (RC-142); Len Mion (RC-074, estirpe rival); Sophia (RC-009, criadora dos biodemos); Olm / Mestre Codificador de Zion (RC-252, interlocutor).

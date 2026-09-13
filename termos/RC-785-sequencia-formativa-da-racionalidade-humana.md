@@ -40,13 +40,18 @@ Aparece em **P2023-11-11**, U0002 (Prometeu/Epimeteu), U0003 (Pandora/metamorfos
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Pandora | RC-086 | compõe |
-| Lilith | RC-308 | compõe |
-| Eva | RC-189 | compõe |
-| Noreia | RC-579 | compõe |
+| Eva (figura) | RC-189 | compõe |
+| Opção Inusitada de Pandora (humanização) | RC-285 | associado |
+| Adhytia (nível hierárquico) | RC-308 | compõe |
+| Ordem dos Indecifráveis | RC-309 | associado |
+| Noreia (Norea) | RC-579 | compõe |
 | Momento Zero de Pandora | RC-779 | começa-em |
 | Pandora como Heroína Controversa | RC-780 | paralela-a |
-| Opção Inusitada de Pandora (Primeiro Sorriso) | (RC-285) | parte-de |
 | Racionalidade Humana Trucidada | RC-786 | desfecho-de |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | associado |
+| Revolução Inacabada de Prometeu e Pandora | RC-788 | associado |
+| Lilith como Rakshasa (Espécie Não-Humana) | RC-794 | associado |
+| Opção Inusitada de Pandora (Primeiro Sorriso) | (RC-285) | parte-de |
 
 ## Seres Associados
 - **Pandora** (RC-086) — elo 1

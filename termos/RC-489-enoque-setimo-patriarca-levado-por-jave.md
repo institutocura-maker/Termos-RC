@@ -126,11 +126,23 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 > "Além disso, conviveu e trabalhou com os anjos de Javé... com o Adão bíblico, com Enoque." — P2023-12-02 (sobre Thot)
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Hermes Trismegisto (Thot) | RC-463 | relaciona-se-a |
+| Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) | RC-424 | associado |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim) | RC-485 | relaciona-se-a |
+| Caim (leitura RC: segundo a nascer) | RC-490 | associado |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | associado |
+| Linhagem de Seth | RC-594 | ← relaciona-se-a |
+| Metatron | RC-671 | ← variação-posterior-de |
+| Metatron | RC-671 | relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | ← escrito-por |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | ← relaciona-se-a |
+| Os 366 Manuscritos de Enoque | RC-672 | relaciona-se-a |
 | Intercessão de Enoque pelos Anunnaki | RC-673 | relaciona-se-a |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
 
 ## Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)
 

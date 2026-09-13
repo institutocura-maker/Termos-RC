@@ -25,6 +25,22 @@ B001 registra a Realidade Maior. P2021-12-04 a descreve como Paraíso Original o
 - «afirmam os Espíritos Codificadores» = **referência externa** (Kardec); Ellam relata, não ontologizar a codificação. Sem fusão com P2021-12-04. Fonte **B001** já constava na tabela-mestra.
 ---
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | associado |
+| Deus / Deus Incognoscível | RC-052 | associado |
+| Espiritualidade Superior | RC-059 | associado |
+| Pai Supremo (Amantíssimo) | RC-205 | associado |
+| Matriz Modeladora / Matriz de Cocriação | RC-210 | ← depende-de |
+| Seres Originais do Paraíso | RC-600 | ← ocorre-em |
+| Seres Originais do Paraíso | RC-600 | variação |
+| Círculo / Circuito da Perfeição | RC-603 | associado |
+| Protocolos / Algoritmos da Perfeição | RC-606 | associado |
+| Corpo Átmico | RC-623 | associado |
+| Corpo Búdico | RC-624 | associado |
+| Corpo Manásico / Corpo Mental | RC-625 | associado |
+
 ## Atualização — P2026-07-30
 
 - **Unidades:** U0042–U0054.

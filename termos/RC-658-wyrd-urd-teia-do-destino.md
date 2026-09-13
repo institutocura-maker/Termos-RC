@@ -143,6 +143,49 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 - **[Wyrd — não é karma, não é justiça]** «tem nada a ver com essa questão de karma. Não tem nada a ver no sentido de que Orlog jamais criou aquilo com vistas a algum sentido de karma. Porque o sentido de karma veio surgir muito, muito, muito mais recentemente, ancorado nos mecanismos de ação e reação que são produzidos pela te» — distinção fundamental: Wyrd ≠ karma ≠ justiça divina.
 - **[Dois oceanos de elétrons/antielétrons interligados]** «são dois oceanos de elétron de antielétron, mas cada um ligado e os dois interligados porque pertencem à mesma fonte e memorizam tudo que o que vivenciam» — ver RC-637 (Transferência da Memória dos Antielétrons).
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | relaciona-se-a |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | organizada-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← cria |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | criado-por |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← operam-em |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
+| Moiras / Nornes / Súdices / Parcas (destino) | RC-467 | ← relaciona-se-a |
+| Supercomputador Cósmico (Moros — destino) | RC-533 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | ← relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| Teia quântica (o que sai de um ser volta para ele) | RC-559 | relaciona-se-a |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | ← variação |
+| WD (variação de STT = Wyrd/Urd — fundido em RC-658) | RC-560 | relaciona-se-a |
+| Simultaneidade Reversa | RC-628 | ← relaciona-se-a |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← atualiza |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← atualiza |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← atualiza |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← atualiza |
+| Revelação de Ifá e Destinação dos Seres | RC-655 | ← atualiza |
+| Orunmilá (Moros de Irém / Orum) | RC-665 | ← relaciona-se-a |
+| Colapso do Caos Organizado | RC-690 | associado |
+| Ato de Verdade / Satyagraha | RC-705 | ← relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | ← organizados-por |
+| Informações Vivas | RC-715 | organiza |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | ← processado-por |
+| PIA — Peso da Inevitabilidade Ancestral | RC-716 | processa |
+| Sócios do Destino / Ausência de Justiça Externa | RC-720 | ← submetidos-a |
+| Projeto Orunmilá–Olodus | RC-741 | associado |
+| Vrittis e Cittas (atividades e núcleos mentais) | RC-760 | ← relaciona-se-a |
+| As Sete Leis Herméticas | RC-763 | ← relaciona-se-a |
+| Os 256 Caminhos Profetizáveis de Orunmilá | RC-767 | ← relaciona-se-a |
+| Hipóstase dos Arcontes (livro gnóstico; 'realidade dos regentes') | RC-770 | ← relaciona-se-a |
+| Midana (o código original primordial semeado no universo biológico) | RC-871 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

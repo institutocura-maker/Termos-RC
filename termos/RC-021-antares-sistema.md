@@ -46,9 +46,10 @@ No Livro 2 (B058), após a declaração da Revolta Capelina, Len Mion revela o p
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Rebelião de Lúcifer | RC-002 | envolve (sistemas atingidos pela Revolta — B057) |
 | Alt´Lam | RC-017 | relaciona-se-a (relação prévia na malha) |
 | Capela (Sistema) | RC-039 | relaciona-se-a |
-| Rebelião de Lúcifer | RC-002 | envolve (sistemas atingidos pela Revolta — B057) |
+| Gron Mion | RC-067 | associado |
 | Tau Ceti (Sistema) | RC-103 | relaciona-se-a (destinos da turnê) |
 
 ## Seres Associados

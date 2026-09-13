@@ -21,11 +21,13 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-577 | — | relacionado |
-| RC-217 | — | relacionado |
-| RC-687 | — | relacionado |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | — |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | relaciona-se-a |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | ← usa |
+| Farmacopeia Ancestral Extraterrestre | RC-687 | relaciona-se-a |
+| Sangue como Cópia da Seiva | RC-689 | associado |
 
 ## Seres Associados
 Consultar Base.

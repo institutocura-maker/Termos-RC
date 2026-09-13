@@ -35,12 +35,13 @@ Extraído da live P2025-10-25 — 2ª Edição Estagiários do Kaos.
 > Ver P2025-10-25.
 
 ## Termos Relacionados
-| Termo/código | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-094 | — | relaciona-se-a |
-| RC-190 | — | relaciona-se-a |
-| RC-535 | — | relaciona-se-a |
-| RC-595 | — | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | atualiza |
+| Revelação Cósmica (conceito) | RC-094 | atualiza |
+| Revelação Espiritual (Kardec) | RC-190 | relaciona-se-a |
+| Projeto Orbum (cidadania planetária) | RC-535 | — |
+| Avesta | RC-595 | — |
 
 ## Seres Associados
 Consultar relações na Base.

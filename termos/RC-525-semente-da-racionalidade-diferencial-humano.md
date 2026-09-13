@@ -29,6 +29,15 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 
 - **[P2023-12-03 · O QUE FOI COLOCADO NO DNA HUMANO]** «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos livros que sobrou. Mas qual o problema? O problema é que existia vários seres já criados com função de autoridade» (U0004) — A semente da racionalidade recebe a autoria anunnaki segundo a fonte, com o par que a incomoda (inteligência **e obediência**). Entrada datada, sem harmonizar com as formulações das obras.
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Seres Terrenos (Homo Sapiens) | RC-099 | associado |
+| Foz Côa / FOXP2 (símbolos) | RC-400 | relaciona-se-a |
+| Xamanismo Cósmico (comunicação e deslacre) | RC-577 | associado |
+| DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | manifesta-descontinuidade-em |
+| Destinação do Lobo | RC-743 | ← é-comparada-à-emergência-de |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

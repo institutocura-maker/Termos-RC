@@ -34,11 +34,13 @@ As Confederações de Mundos são o pano de fundo político-cósmico do B005: a 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Seres Extraterrestres | RC-098 | é-um |
-| Espiritualidade Superior | RC-059 | subordinada-a |
-| Terra de Ninguém | RC-358 | é-um |
 | Reintegração Cósmica | RC-003 | contexto |
-| Fator Extraterrestre | RC-355 | contexto |
+| Espiritualidade Superior | RC-059 | subordinada-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Extraterrenos / Extraterrestres | RC-098 | é-um |
+| Universo Material (Bhuloka) | RC-107 | associado |
+| Fator Extraterrestre (o Elo Perdido) | RC-355 | contexto |
+| Terra de Ninguém (cósmica) | RC-358 | ← é-um |
 
 ## Seres Associados
 Prepostos da Deidade (RC-206); civilizações planetárias (RC-098).

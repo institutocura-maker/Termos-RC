@@ -43,11 +43,13 @@ Forma preferida: **Áurea Catena**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-166 | — | relaciona-se-a |
-| RC-094 | — | relaciona-se-a |
-| RC-611 | — | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | — |
+| Mentalma | RC-166 | — |
+| Flechas / Profecias de Moros | RC-611 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | associado |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
 
 ## Seres Associados
 Consultar Base.

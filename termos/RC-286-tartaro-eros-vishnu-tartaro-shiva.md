@@ -39,13 +39,19 @@ Devolutiva do curador (19/08/2026): o candidato **Hades/Reides** foi absorvido n
 > "Eu dei 500 passos em direção ao inferno e, em chegando lá, libertei o inferno de Belial... e de o dono do inferno, que era Reides, o irmão de Zeus. Eu aprisionei os dois e soltei todas as almas de humanos que lá estavam." — P2026-07-25 (Jesus, segundo o Evangelho de Bartolomeu)
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Satã | RC-074 | relaciona-se-a |
+| Jesus | RC-072 | ← relaciona-se-a |
 | Jesus | RC-072 | relaciona-se-a |
-| Herança Cósmica | RC-519 | relaciona-se-a |
-| Pandora | RC-086 | relaciona-se-a |
+| Len Mion (Satã) | RC-074 | relaciona-se-a |
+| Pandora | RC-086 | ← relaciona-se-a |
+| Shiva (Savna) | RC-102 | variação |
+| Vishnu (Mavatna) | RC-135 | variação |
+| Zeus | RC-145 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | associado |
+| Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | relaciona-se-a |
+| Kama (personificação do desejo) | RC-622 | associado |
 
 ## Observações
 

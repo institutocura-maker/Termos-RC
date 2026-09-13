@@ -82,12 +82,19 @@ Na RC, o **"Norte Sagrado"** — a região mítica do extremo norte (também **N
 > "Toda a história da Terra é voltada pro chamado norte sagrado, não era pro sul... era o norte sagrado por causa da Hiperbórea... o point, o lugar chique era essa Hiperbórea." — P2025-11-29
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Experiência Gron | RC-062 | associado |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | associado |
+| Norte Divino | RC-083 | ← sinônimo |
+| Val El / Val Ellam | RC-120 | associado |
+| Castas Trimurtianas | RC-321 | ← origina-em |
+| Entroncamentos Genéticos Intersiderais | RC-323 | associado |
+| Thuata de Dannan | RC-398 | associado |
+| Os Magos do Norte | RC-439 | ← associado-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
 | Revelação de Ifá e Destinação dos Seres | RC-655 | relaciona-se-a |
-| Elm (Moros) | RC-454 | relaciona-se-a |
-| Norte Divino | RC-083 | sinônimo |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
 | Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) |
 
 ## Blindagem

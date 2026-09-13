@@ -50,11 +50,15 @@ A encarnação de Apolônio marca a atuação do Quarto Logos no mundo: sua mens
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Olm | RC-252 | é-um (encarnação) |
-| Quarto Logos | RC-092 | é-um (encarnação) |
+| Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | atual agente |
 | Jesus | RC-072 | contemporâneo |
-| Liberdade Mental | RC-253 | mensagem |
-| Jan Val Ellam | RC-071 | atual agente |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | é-um (encarnação) |
+| Olm (Codificador de Zion/Zian) | RC-252 | é-um |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | mensagem |
+| Hermes Trismegisto (= Ningishzidda/Thoth/Quetzalcóatl) | RC-463 | ← relaciona-se-a |
+| Taumaturgia Genético-Química | RC-713 | ← envolve |
+| Escola da Decifração da Realidade (Método Druídico) | RC-755 | relaciona-se-a |
+| Nuctemeron | RC-931 | associado |
 
 ## Seres Associados
 Olm (RC-252); Jesus (RC-072); Sophia (RC-009).

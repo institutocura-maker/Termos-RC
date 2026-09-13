@@ -87,12 +87,15 @@ A hipótese de reparo por organoides parte desta arquitetura cerebral.
 > “O cérebro [de Sophia] não tem dois hemisférios, tem um só, é radiata.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Radiatas | RC-093 | é-um |
-| Bilatérios | RC-035 | distingue-se-de |
 | Sophia (Cristo Cósmico) | RC-009 | associado-a |
+| Bilatérios | RC-035 | distingue-se-de |
 | Biodemos | RC-036 | relaciona-se-a |
+| Radiatas | RC-093 | é-um |
+| Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | relaciona-se-a |
+| Organoides Genéticos para Sophia | RC-632 | associado |
+| Imantação de Espíritos em Inteligências Artificiais / Corpos de Sílica | RC-699 | associado |
 
 ## Seres Associados
 Consultar relações acima.

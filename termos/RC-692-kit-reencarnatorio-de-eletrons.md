@@ -57,15 +57,24 @@ A fala usa “o mesmo kit de elétrons”. “Reencarnatório” explicita edito
 > “Cada espírito fora desses dois universos usa o mesmo kit de elétrons para sempre imantar-se nos corpos diferentes que aparentemente produz a cada vida.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
 | Seres Espirituais | RC-100 | acompanha |
-| Memória Quântica dos Elétrons | RC-161 | relacionado-a |
-| Elétrons | RC-162 | usa |
+| Memória Quântica dos Elétrons | RC-161 | relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | ← relaciona-se-a |
+| Memória Quântica dos Elétrons | RC-161 | usa |
+| Elétrons (agente básico da vida universal) | RC-162 | usa |
+| Elétrons (agente básico da vida universal) | RC-162 | usa |
 | Assinatura da Alma | RC-199 | reconhece |
-| Herança Cósmica | RC-519 | transporta |
-| Coleta de Informações | RC-524 | relaciona-se-a |
-| Epigenoma | RC-543 | relaciona-se-a |
+| Assinatura da Alma | RC-199 | ← reconhecida-por |
+| Sophia e a Ressurreição de Jesus | RC-280 | ← relaciona-se-a |
+| Herança Cósmica (padrões de existências anteriores) | RC-519 | transporta |
+| Coleta de informações (espírito encarnado) | RC-524 | relaciona-se-a |
+| Espelho da Herança Espiritual no Epigenoma | RC-543 | relaciona-se-a |
+| Duas Pulsações da Criação (elétrons e antielétrons) | RC-636 | relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | ← relaciona-se-a |
+| Corpo Sutil Reencarnante | RC-704 | relaciona-se-a |
 
 ## Observações Científicas e Editoriais
 - Trata-se de proposição cosmológica da palestra, sem validação na física ou biologia.

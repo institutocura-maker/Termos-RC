@@ -18,6 +18,15 @@ O verbete funciona como entrada filológica: é pela multiplicidade de nomes que
 - Variações: Ra-Atom; Og-mi
 - Série onomástica: Javé · Brahma · Caos · Ialdabaoth · Alá
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Caos = Brahma = Javé (correspondência) | RC-284 | variação |
+| Genética Totalitária | RC-325 | associado |
+| Marduk (= Ra; Anunnaki filho de Enki) | RC-460 | associado |
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|

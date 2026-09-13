@@ -48,9 +48,11 @@ Com isso:
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
-| Termo | Código | Estado na malha |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Antlar | RC-022 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Espherian | RC-057 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
 | Espheron | RC-058 | **sem aresta** em `RELACOES`; arquivo existe (P5d) |
-| Antlar | RC-022 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Quarto Logos (Olm / Codificador de Zian) | RC-092 | **sem aresta** em `RELACOES`; arquivo existe |
+| Trilogia Queda e Ascensão Espiritual | RC-354 | ← inclui |
+

@@ -30,12 +30,13 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx e Pandora. 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Nyx | RC-621 | é-mãe-de-origem |
-| Moros (Elm) | RC-454 | mergulhou-em |
-| Quarto Logos (Olm) | RC-092 | plantou-semente-em |
-| Pandora | RC-086 | descendente-de |
-| Yel Luzbel | RC-142 | paralelo-com (Y Luzb = "Y" = mesmo) |
 | Sophia (Cristo Cósmico) | RC-009 | paralelo-com |
+| Pandora | RC-086 | descendente-de |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | plantou-semente-em |
+| Yel Luzbel | RC-142 | paralelo-com (Y Luzb = "Y" = mesmo) |
+| Civilização Saraswati | RC-330 | associado |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | mergulhou-em |
+| Nyx | RC-621 | é-mãe-de-origem |
 
 ## Seres Associados
 - **Nyx** (RC-621) — a "mãe de origem"

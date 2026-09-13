@@ -55,11 +55,13 @@ O capítulo 13 de B014 ("João e a 'Cápsula do Tempo' de Sophia") explica que o
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Sophia | RC-009 | agente |
-| Segundo Advento | RC-005 | cumpre |
-| Jesus | RC-072 | autor das promessas |
-| Revelação Cósmica | RC-094 | contexto |
-| Sophia e a Ressurreição | RC-280 | desdobramento |
+| Segundo Advento do Cristo (Volta de Jesus) | RC-005 | associado-a |
+| Sophia (Cristo Cósmico) | RC-009 | agente |
+| Jesus | RC-072 | revelada-a |
+| Revelação Cósmica (conceito) | RC-094 | contexto |
+| Sophia e a Ressurreição de Jesus | RC-280 | desdobramento |
+| Flechas / Profecias de Moros | RC-611 | ← relaciona-se-a |
+| João Evangelista (apóstolo, o discípulo amado) | RC-855 | associado |
 
 ## Seres Associados
 Sophia (RC-009); Jesus (RC-072); João (apóstolo, escritor do Apocalipse).

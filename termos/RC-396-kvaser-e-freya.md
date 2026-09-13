@@ -12,6 +12,19 @@
 - **[Kvaser — Moros renascido em Yggdrasil]:** «Vishnu conseguiu fazer com que alguns dos seus ex-avatares, dentre os quais Moros, que é um filho de Vishnu, renascesse aqui dentro como Kvaser, um ser múltiplo formado por padrões genéticos dos Aesir e dos Vanir [...] Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que aconteceu há 300 milhões de anos, acabou com essas oito locas e com parte do que era o reino de Odin, que era o planeta Marte.» — ver RC-730 (Yggdrasil), RC-454 (Moros), RC-395 (Ragnarok).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Demos | RC-049 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Ragnarok em Marte | RC-395 | ← mata |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | ← relaciona-se-a |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | vinculado-ao-espírito |
+| Flechas / Profecias de Moros | RC-611 | associado |
+| Centro Alquímico-Farmacopédico | RC-789 | associado |
+| Temis (Têmis) como Mãe-de-Pandora (Co-clonadora) | RC-815 | associado |
+| Pacto Aesir-Vanir como Origem Nórdica da Ideia de Pandora | RC-816 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

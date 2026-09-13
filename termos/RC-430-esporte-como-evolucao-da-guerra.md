@@ -37,11 +37,12 @@ O B040 (2014, assinado com o nome civil Rogério de Almeida Freitas) argumenta q
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Guerreiro ao Atleta | RC-431 | é-um |
-| Agressividade canalizada | RC-432 | canaliza |
-| DNA como Projeção | RC-217 | origina-em |
-| CFD | RC-040 | contexto |
-| Seres Terrenos | RC-099 | protagonistas |
+| CFD (Código Fonte Definidor) | RC-040 | contexto |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Seres Terrenos (Homo Sapiens) | RC-099 | protagonistas |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | origina-em |
+| Guerreiro ao Atleta (transição) | RC-431 | é-um |
+| Agressividade canalizada (DNA doentio) | RC-432 | canaliza |
 
 ## Seres Associados
 Seres Terrenos (RC-099); Criador (RC-041, origem do DNA doentio).

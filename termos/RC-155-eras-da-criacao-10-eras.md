@@ -70,18 +70,27 @@ As Eras da Criação são o **esqueleto cronológico** da cosmologia RC: organiz
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Projeto Talm | RC-091 | promovido-por |
+| Revelação Cósmica (conceito) | RC-094 | confirmada-por |
 | Era da Solidão | RC-156 | parte-de |
 | Era da Geração | RC-157 | parte-de |
 | Era da Punição | RC-158 | parte-de |
 | Era do Impasse | RC-159 | parte-de |
+| Criação Indevida (Obra indevida) | RC-167 | contexto |
 | Era da Lila e da Aceitação | RC-168 | parte-de |
 | Era da Semeadura Universal | RC-169 | parte-de |
-| Era do Refinamento | RC-170 | parte-de |
-| Era da Geopolítica Universal | RC-171 | parte-de |
+| Era do Refinamento da Semeadura Biológica Universal | RC-170 | parte-de |
+| Era da Geopolítica Universal e da Divisão do Comando | RC-171 | parte-de |
 | Era da Criatura Universal | RC-172 | parte-de |
 | Era das Supercivilizações | RC-173 | parte-de |
-| Criação Indevida | RC-167 | contexto |
-| Projeto Talm | RC-091 | promovido-por |
+| Fator Colmeia | RC-180 | associado |
+| Gestão Cósmica | RC-225 | fonte-em |
+| Era Sapiens | RC-238 | associado |
+| Dissolução da Tríade (2015–2017) | RC-300 | associado |
+| Fenômenos Denunciadores do Fim | RC-314 | associado |
+| Maré Cósmica (eventos cósmicos que afetam a Terra) | RC-537 | associado |
+| Ciclo de Precessão Equinocial (Precessão dos Equinócios) | RC-567 | associado |
+| Eras Equinociais (ciclos de aproximadamente 5.200 anos) | RC-568 | associado |
 
 ## Seres Associados
 Prabrajna/Brahma (RC-152/RC-037); Savna/Shiva (RC-102); Mavatna/Vishnu (RC-135); Sophia (RC-009); Quarto Logos (RC-092).

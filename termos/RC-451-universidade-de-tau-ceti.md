@@ -33,9 +33,9 @@ Caps. 10–12 do B058: a recepção cerimoniosa ("Não é nosso costume ouvir in
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Tau Ceti (Sistema) | RC-103 | associado-a (localização — relação B058) |
-| Grão-mestre (Sábios de Tau Ceti) | RC-452 | associado-a (presidência — relação B058) |
+| Tau Ceti (Sistema) | RC-103 | associado-a |
 | Revolta Capelina | RC-450 | relaciona-se-a (o veredito valida o movimento) |
+| Grão-mestre (Sábios de Tau Ceti) | RC-452 | ← associado-a |
 
 ## Seres Associados
 O Grão-mestre (RC-452) e os Mestres/Sábios; Yel Luzbel (RC-078, o avaliado); Len Mion (RC-074); o "Primeiro em Comando" da família Mion.

@@ -30,13 +30,13 @@ As diversas classes de anjos clones de Javé que povoam Arabot-Ráquia (RC-495):
 > "Os anjos de Javé não são de um só tipo, é de vários tipos." — P2026-07-25
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Arabot-Ráquia | RC-495 | relaciona-se-a |
-| Enoque | RC-489 | relaciona-se-a |
-| Metatron | RC-671 | relaciona-se-a |
 | Javé | RC-001 | relaciona-se-a |
+| Anjos ministradores (Usá, Azá, Aziel) | RC-484 | associado |
+| Enoque (sétimo patriarca; levado por Javé) | RC-489 | ← relaciona-se-a |
+| Arabot-Ráquia (ambiente de Javé; = Araboth) | RC-495 | ← relaciona-se-a |
+| Metatron | RC-671 | ← relaciona-se-a |
 
 ## Observações
 

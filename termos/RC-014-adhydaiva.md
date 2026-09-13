@@ -28,16 +28,24 @@ As formas de vida surgidas como produto da queda: "Brahma, Vishnu e Shiva foram 
 > "Adhydaiva: Formas de vida que surgiram como produto da 'queda' (experiência consequente)... base da forma demo; 'prisão' para as suas mentes." — B031
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Adhy | RC-011 | associado |
+| Adhyagia | RC-012 | associado |
 | Adhyatman | RC-013 | provém-de (mergulho) |
 | Adhybutha | RC-015 | associado-a (suporte) |
 | Adhyajna | RC-016 | produz (avatares) |
-| Brahma | RC-037 | tem-forma (caída) |
-| Shiva | RC-102 | tem-forma |
-| Vishnu | RC-135 | tem-forma |
-| Corpo Daiva | RC-630 | associado-a |
+| Brahma (Brajna) | RC-037 | tem-forma (caída) |
+| Shiva (Savna) | RC-102 | tem-forma |
+| Vishnu (Mavatna) | RC-135 | tem-forma |
+| A Lógica de Javé e a Origem da Humanidade | RC-229 | associado |
+| Prisioneiros da Brahmaloka | RC-260 | associado |
+| Adhyshprabrajna (Adhy que caiu) | RC-310 | associado |
+| Adhyagya (formas espirituais Adhy) | RC-311 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | associado |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
+| Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
+| Corpo Daiva / Corpo Demoníaco de Plasma | RC-630 | ← relaciona-se-a |
 
 ## Observações
 

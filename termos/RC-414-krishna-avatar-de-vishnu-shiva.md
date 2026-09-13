@@ -188,6 +188,43 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 - **[Contentamento permanente como doença — Guruloca]:** «O que é que todo mundo faz na loca de Krishna [Guruloca]? É uma sensação realmente formidável, porque a pulsação de centenas de milhões de espíritos desencarnados pulsando sobre uma mesma batuta tem um poder vibratório impressionante. Mas é um samba de uma nota só. Não provoca mutações no DNA de ninguém [...] Esse contentamento permanente não resolve nada.» — ver RC-746 (Dessensibilização).
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Sophia (Cristo Cósmico) | RC-009 | relaciona-se-a |
+| Adhyajna | RC-016 | relaciona-se-a |
+| Keshava | RC-073 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Shiva (Savna) | RC-102 | associado |
+| Trimurti | RC-104 | ← relaciona-se-a |
+| Vishnu (Mavatna) | RC-135 | é-um |
+| Cultura Demodhármica | RC-183 | associado |
+| Kumari Kandan (tradição) | RC-329 | ← relaciona-se-a |
+| ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | associado |
+| Krishna como 'pretenso Keshava' | RC-425 | ← variação |
+| Krishna como 'pretenso Keshava' | RC-425 | relaciona-se-a |
+| Arcontes (= Sophias e Indras; Conselho dos 70) | RC-474 | ← relaciona-se-a |
+| Rakshasas | RC-581 | associado |
+| Ravana | RC-582 | ← relaciona-se-a |
+| Ravana | RC-582 | relaciona-se-a |
+| Rama (avatar de Vishnu) | RC-584 | relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Vyasa | RC-585 | ← relaciona-se-a |
+| Ogdóade de Hermópolis | RC-609 | ← relaciona-se-a |
+| Narasimha (avatar de Vishnu) | RC-642 | associado |
+| Wyrd / Urd (Teia do Destino) | RC-658 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | ← relaciona-se-a |
+| Oitavo Dia da Criação | RC-694 | relaciona-se-a |
+| Arquivos do Destino Universal | RC-714 | associado |
+| Buraco Negro Mental / Consciencial | RC-717 | risco-de |
+| Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
+| Vício Devocional | RC-749 | relaciona-se-a |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | ← relaciona-se-a |
+| Vaishnavismo (vixenuísmo — tradição hindu de adoração a Vishnu/Krishna) | RC-757 | relaciona-se-a |
+| Alexandre Magno (tirano sob influência de Lemion) | RC-850 | associado |
+| Sinarquia Cósmica (o governo dos sábios) | RC-873 | associado |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

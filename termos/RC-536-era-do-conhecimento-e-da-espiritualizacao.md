@@ -38,9 +38,10 @@ A abertura das *Crônicas de um Novo Tempo* (B042) situa o livro no contexto da 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Revelação Cósmica | RC-094 | relaciona-se-a |
 | Reintegração Cósmica | RC-003 | relaciona-se-a |
+| Revelação Cósmica (conceito) | RC-094 | relaciona-se-a |
 | Transição Planetária | RC-344 | relaciona-se-a |
+| Profecia Hopi da Estrela Azul | RC-591 | ← relaciona-se-a |
 
 ## Observações
 Denominação da fase histórica do ponto de vista do Ellam (Etapa II do pensamento). Cruzar com RC-155 (Eras da Criação — escala cósmica) e com a "Transição Planetária" (RC-344) na revisão.

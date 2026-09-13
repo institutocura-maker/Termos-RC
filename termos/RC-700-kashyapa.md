@@ -45,16 +45,30 @@ Formas de STT: `Casiapa`, `Casiata`, `Casipa`, `Caseat`.
 > “Kashyapa é um só ser; Asuras são uma porrada de seres, Devas outra, Prachetas outra.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Rishis | RC-586 | relaciona-se-a |
-| Asuras | RC-465 | gera-linhagem-de |
-| Descendência de Kadru | RC-664 | gera-linhagem-de |
-| Geração Regenerada de Brahma | RC-696 | parte-de |
-| Daksha e Virini | RC-701 | relaciona-se-a |
-| Indra/Devas | RC-480 | gera-linhagem-de |
+| Brahma (Brajna) | RC-037 | associado |
+| Asuras (= Titãs) | RC-465 | gera-linhagem-de |
+| Indra (título de arconte) | RC-480 | gera-linhagem-de |
 | Rakshasas | RC-581 | gera-linhagem-de |
-| Mão Invisível | RC-697 | relaciona-se-a |
+| Rishis | RC-586 | relaciona-se-a |
+| Rishis | RC-586 | descende-de-membro-de |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | gera-linhagem-de |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← descende-de |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | relaciona-se-a |
+| Descendência de Kadru (Nagas, Uragas e Maharagas) | RC-664 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Geração Regenerada de Brahma | RC-696 | parte-de |
+| Geração Regenerada de Brahma | RC-696 | ← inclui |
+| Geração Regenerada de Brahma | RC-696 | ← relaciona-se-a |
+| Geração Regenerada de Brahma | RC-696 | relaciona-se-a |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | ← relaciona-se-a |
+| Mão Invisível Multiforme / Conselho das Nagas | RC-697 | relaciona-se-a |
+| Daksha e Virini | RC-701 | relaciona-se-a |
+| Daksha e Virini | RC-701 | ← relaciona-se-a |
+| Daksha e Virini | RC-701 | une-se-às-filhas-de |
+| Daksha e Virini | RC-701 | ← tem-filhas-unidas-a |
+| Samudra Manthana / Batimento do Oceano de Leite | RC-734 | associado |
 
 ## Observações
 As relações biológicas/cósmicas são atribuições da leitura RC e não devem ser apresentadas como genealogia histórica ou científica.

@@ -36,12 +36,12 @@ O "Plano Colmeia" é o elo entre a Colmeia Universal (RC-174) e o Projeto Talm (
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Projeto Talm | RC-091 | associado-a (mesmo processo) |
+| Biodemos | RC-036 | expressão biológica |
+| Projeto Talm | RC-091 | associado-a |
+| Universo Material (Bhuloka) | RC-107 | destino |
 | Colmeia Universal | RC-174 | desdobramento |
 | Cultura Demodhármica | RC-183 | código transferido |
 | Insectoides | RC-187 | produtos (espécies) |
-| Biodemos | RC-036 | expressão biológica |
-| Universo Material | RC-107 | destino |
 
 ## Seres Associados
 Seres da Trimurti (RC-104); Sophia (RC-009); Agentes da Vida Universal (RC-148).

@@ -21,11 +21,11 @@ P2025-05-31.
 Ver transcrição.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-263 | — | relacionado |
-| RC-676 | — | relacionado |
-| RC-678 | — | relacionado |
+| Sefirot / Árvore da Vida | RC-263 | é-um |
+| Chesed | RC-676 | — |
+| Tiferet / Tiphareth | RC-678 | — |
 
 ## Seres Associados
 Consultar Base.

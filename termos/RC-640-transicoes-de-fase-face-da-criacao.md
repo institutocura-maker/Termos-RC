@@ -32,11 +32,11 @@ A fala anuncia palestra futura específica sobre as transferências de fase.
 > “Essa foi a primeira transição de fase ou face da criação.” — P2024-05-04
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
 | Protozoários Antimateriais / Antiprotozoários | RC-639 | inclui |
 | Face Microbiana do Criador | RC-641 | inclui |
-| Ressurreição do Cadáver do Criador | RC-638 | relaciona-se-a |
 
 ## Seres Associados
 Consultar relações acima.

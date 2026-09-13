@@ -39,13 +39,14 @@ A palestra situa a ancoragem há cerca de 100–104 mil anos, em reação à ins
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Trimurti | RC-104 | envolve |
-| Lúcifer (Yel Luzbel) | RC-078 | envolve |
-| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
 | Brahma (Brajna) | RC-037 | relaciona-se-a |
+| Lúcifer (Yel Luzbel) | RC-078 | envolve |
 | Shiva (Savna) | RC-102 | relaciona-se-a |
+| Trimurti | RC-104 | envolve |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | relaciona-se-a |
 | Vishnu (Mavatna) | RC-135 | relaciona-se-a |
 | Yel Luzbel | RC-142 | relaciona-se-a |
+| Axis Mundi / Axismund | RC-731 | associado |
 
 ## Seres Associados
 Lúcifer (Yel Luzbel) (RC-078); Brahma (Brajna) (RC-037); Shiva (Savna) (RC-102); Vishnu (Mavatna) (RC-135); Yel Luzbel (RC-142)

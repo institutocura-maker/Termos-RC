@@ -32,11 +32,12 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Lilith | RC-308 | é-da-espécie |
 | Pandora | RC-086 | apoia |
-| Egrégora de Lilith/Noreia (Loop Mental Vivo) | RC-787 | manifesta-em |
+| Adhytia (nível hierárquico) | RC-308 | é-da-espécie |
 | Sequência Formativa da Racionalidade Humana | RC-785 | paralela-a |
-| Judaísmo como Destruidor do Mito | RC-796 | reescreveu |
+| Egrégora de Lilith / Noreia (Loop Mental Vivo) | RC-787 | manifesta-em |
+| Judaísmo como Destruidor do Mito de Pandora/Lilith | RC-796 | reescreveu |
+| Culto a Lilith (Transformação em Deusa Lil Babilônica) | RC-813 | associado |
 
 ## Seres Associados
 - **Lilith** (RC-308) — espécime Rakshasa

@@ -59,16 +59,35 @@ Forma preferida: **Colapso do Caos Organizado**.
 > “Hoje isso tudo está sendo colapsado aos poucos ou repentinamente, depende do que estiver em jogo, pela Rebelião dos Elétrons.”
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
+| Reintegração Cósmica | RC-003 | ← ocorre-em |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | afeta |
+| Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | afeta |
+| Universo Material (Bhuloka) | RC-107 | afeta |
+| Memória Quântica dos Elétrons | RC-161 | associado |
+| Elétrons (agente básico da vida universal) | RC-162 | associado |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | manifesta-se-em |
+| Modelo Colmeia (Sistema/Controle Colmeia) | RC-176 | manifesta-se-em |
+| Fenômenos Denunciadores do Fim | RC-203 | relaciona-se-a |
+| Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
 | A Rebelião dos Elétrons | RC-378 | impulsionado-por |
-| Colapso da Matriz Quântica | RC-415 | distingue-se-de |
-| Modelo Colmeia | RC-176 | manifesta-se-em |
-| Fenômenos Denunciadores do Fim | RC-203 / RC-314 | relaciona-se-a |
-| Universo Antimaterial | RC-106 | afeta |
-| Universo Material | RC-107 | afeta |
+| A Rebelião dos Elétrons | RC-378 | ← impulsiona |
+| A Rebelião dos Elétrons | RC-378 | ← relaciona-se-a |
+| A Rebelião dos Elétrons | RC-378 | relaciona-se-a |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | distingue-se-de |
+| Colapso da Matriz Quântica (3 níveis) | RC-415 | ← distingue-se-de |
 | Transferência da Memória dos Antielétrons | RC-637 | envolve |
-| Evolução da Informação | RC-693 | relaciona-se-a |
+| Transferência da Memória dos Antielétrons | RC-637 | envolve |
+| Wyrd / Urd (Teia do Destino) | RC-658 | associado |
+| Ishvara (Isuara — Retrato de Prabrajna Antes da Queda) | RC-691 | relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
+| Evolução da Informação, não das Espécies | RC-693 | ← relaciona-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | ← é-fenômeno-de |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← resiste-a |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | resistido-por |
+| Ponto de Luz Humano / Ilha de Negentropia | RC-725 | ← relaciona-se-a |
+| Fenômenos Denunciadores do Fim | RC-203 / RC-314 | relaciona-se-a |
 
 ## Observações Científicas e Editoriais
 - A ligação causal entre a Rebelião dos Elétrons e colapsos biológicos é cosmologia da palestra, não consenso científico.

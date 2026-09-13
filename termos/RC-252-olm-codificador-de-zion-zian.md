@@ -53,12 +53,13 @@ Olm atua desde tempos antigos (a consciência que o personifica já atuou em out
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Quarto Logos | RC-092 | variação |
-| Liberdade Mental | RC-253 | premissa |
-| A Mensagem do Codificador de Zion | RC-255 | proferida-por |
-| Escola dos Agentes Esclarecidos | RC-256 | fundada-por |
-| Apolônio de Tiana | RC-259 | é-um (encarnação) |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | variação |
+| Liberdade Mental (premissa do Quarto Logos) | RC-253 | premissa |
+| A Mensagem do Codificador de Zion | RC-255 | ← proferida-por |
+| Escola dos Agentes Esclarecidos da Busca da Verdade | RC-256 | ← fundada-por |
 | Espiritismo como Expressão do Quarto Logos | RC-257 | relaciona-se-a |
+| Apolônio de Tiana (encarnação do Quarto Logos) | RC-259 | ← é-um |
+| Agentes do Quarto Logos | RC-281 | associado |
 
 ## Seres Associados
 Jan Val Ellam (RC-071); Apolônio de Tiana (RC-259); Sophia (RC-009); Jesus (RC-072).

@@ -72,15 +72,16 @@ Anunnaki filho de Anu (RC-587), irmão de **Enki** (RC-486) e de Ninmah/Ninhursa
 > "Os descendentes dos clãs de Enki e Enlil sempre disputaram o poder nessas cidades sumerianas e nas cidades do Egito... E os objetivos de Enlil e Anu eram mais parecidos com os de Javé do que propriamente com os de Enki." — P2021-03-27
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Enki | RC-486 | irmão-de (clã rival) |
-| Javé | RC-001 | relaciona-se-a (objetivos parecidos) |
-| Anunnaki | RC-024 | relaciona-se-a |
-| Anu | RC-587 | filho-de |
-| Ninmah (Ninhursag) | RC-461 | irmão-de |
-| Ao Vencedor as Batatas | RC-764 | relaciona-se-a |
+| Javé | RC-001 | relaciona-se-a |
+| Anunnaki | RC-024 | é-um |
+| Ninmah (Anunnaki geneticista) | RC-461 | irmão-de |
+| Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | ← relaciona-se-a |
+| Guerra Nuclear Anunnaki (Sete Armas Atômicas) | RC-583 | ← envolve |
+| Anu (patriarca Anunnaki) | RC-587 | ← pai-de |
+| Ninurta | RC-588 | associado |
+| Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
 ## Observação do curador — HIPÓTESE DE LEITURA (2026-08-18)
 

@@ -48,13 +48,14 @@
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
+| Keshava | RC-073 | associado |
+| Revelação Cósmica (conceito) | RC-094 | associado |
+| Trimurti | RC-104 | associado |
 | Krishna (avatar de Vishnu/Shiva) | RC-414 | variação |
+| Krishna (avatar de Vishnu/Shiva) | RC-414 | ← relaciona-se-a |
 | Arquivos do Destino Universal | RC-714 | opõe-se-a |
+| Buraco Negro Mental / Consciencial | RC-717 | ← relaciona-se-a |
 | Dignidade como Critério de Consciência | RC-722 | relaciona-se-a |
-| Buraco Negro Mental / Consciencial | RC-717 | relaciona-se-a (de RC-717 para cá) |
-| Krishna (avatar de Vishnu/Shiva) | RC-414 | relaciona-se-a (de RC-414 para cá, P2024-02-25) |
-
-> O cadastro lista ainda **RC-073, RC-104, RC-094** em `relacionados`; não há arestas do cadastro entre eles e esta ficha, e nenhuma foi criada aqui.
 
 ## Observações
 

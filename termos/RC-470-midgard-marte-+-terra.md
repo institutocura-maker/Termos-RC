@@ -41,13 +41,17 @@ A palestra descreve Marte como o nono mundo material conectado a oito locas do u
 | P2024-11-02 | U0172–U0208; U0260–U0302; U0618–U0630 | palestra/STT pré-curada |
 
 ## Termos Relacionados
-
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| Yggdrasil | RC-730 | integra |
-| Ragnarok em Marte | RC-395 | ocorre-no-eixo-de |
-| Axis Mundi | RC-731 | ancorado-por |
-| Universo Material | RC-107 | localiza-se-em |
+| Universo Material (Bhuloka) | RC-107 | localiza-se-em |
+| Terra de Ninguém (cósmica) | RC-358 | associado |
+| Ragnarok em Marte | RC-395 | relaciona-se-a |
+| Ragnarok em Marte | RC-395 | ← ocorre-no-eixo-de |
+| Ragnarok em Marte | RC-395 | ← relaciona-se-a |
+| Bifrost (Portal interdimensional) | RC-471 | relaciona-se-a |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | ← inclui |
+| Yggdrasil / Conglomerado dos Nove Mundos | RC-730 | integra |
+| Axis Mundi / Axismund | RC-731 | ← ancora |
 
 ## Blindagem científica e comparativa
 

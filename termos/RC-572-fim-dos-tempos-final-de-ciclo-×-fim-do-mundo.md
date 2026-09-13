@@ -34,9 +34,11 @@ A palestra critica a transformação de calendários cíclicos e tradições ant
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Ano de 2012 como Divisor de Ciclos | RC-571 | explica |
-| Fim do Experimento Humano | RC-578 | distingue-se-de |
 | Fenômenos Denunciadores do Fim | RC-314 | relaciona-se-a |
+| Ano de 2012 como Divisor de Ciclos | RC-571 | explica |
+| Baktun 13 | RC-576 | ← relaciona-se-a |
+| Fim do Experimento Humano | RC-578 | distingue-se-de |
+| Fim do Experimento Humano | RC-578 | ← relaciona-se-a |
 
 ## Seres Associados
 —

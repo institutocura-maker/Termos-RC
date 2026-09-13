@@ -57,9 +57,17 @@ Ellam relata que os "3As" tornaram-se "a mais preciosa" das práticas do seu cot
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Mentalma | RC-166 | relaciona-se-a (prática central) |
-| Eu Profundo | RC-553 | relaciona-se-a |
-| Gestão Psíquica | RC-554 | relaciona-se-a |
+| Mentalma | RC-166 | relaciona-se-a |
+| Eu Profundo (nível espiritual do Eu) | RC-553 | relaciona-se-a |
+| Gestão Psíquica e Memórias Complexas (Mentalma II) | RC-554 | relaciona-se-a |
+| Série Mentalma (5 livros + curso) | RC-555 | associado |
+| Moksha | RC-618 | associado |
+| Gestão da Sensação Pessoal | RC-633 | ← usa |
+| Ciência Pessoal / Doutrina da Própria Personalidade | RC-695 | ← usa |
+| Postulados Quânticos como Manual Operativo | RC-703 | associado |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← usa |
+| Bhavaṅga / Janela da Percepção | RC-706 | ← relaciona-se-a |
+| Lei da Mente do Buda | RC-712 | ← usa |
 
 ## Seres Associados
 Praticante do Mentalma; o "Eu" que se alinha ao Espírito.

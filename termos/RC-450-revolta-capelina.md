@@ -42,12 +42,16 @@ No Livro 1 (B057), Yel Luzbel levanta suas constatações sobre a Obra do Criado
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Rebelião de Lúcifer | RC-002 | relaciona-se-a (fase inicial) |
-| Yel Luzbel | RC-142 | protagoniza |
-| Família Mion | RC-443 | impulsiona |
-| Família Yel | RC-442 | origina-se-em |
-| Hostes de Sophia | RC-453 | combate |
+| Rebelião de Lúcifer | RC-002 | relaciona-se-a |
 | Exilados de Capela | RC-007 | resulta-em (desdobramento) |
+| Yel Luzbel | RC-142 | relaciona-se-a |
+| Família Yel | RC-442 | origina-se-em |
+| Família Mion | RC-443 | impulsiona |
+| Família Cromon | RC-444 | associado |
+| Biocoletivos | RC-445 | associado |
+| Universidade de Tau Ceti | RC-451 | associado |
+| Grão-mestre (Sábios de Tau Ceti) | RC-452 | associado |
+| Hostes de Sophia | RC-453 | combate |
 
 ## Seres Associados
 Yel Luzbel (RC-142); Len Mion (RC-074); Sophia (RC-009, questionada); o "Primeiro em Comando" da Família Mion; os Sábios e o Grão-mestre de Tau Ceti (RC-452).

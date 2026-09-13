@@ -34,11 +34,15 @@ A Matriz Modeladora é o que faltou ao Criador de Padrões Dependentes: o modelo
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |
 |---|---|---|
-| Realidade Maior | RC-204 | depende-de |
-| Deidade | RC-047 | origem |
-| Criador de Padrões Dependentes | RC-208 | opõe-se-a |
-| Criação Indevida | RC-167 | contexto |
+| Deidade (Pai-Mãe Amantíssimo / Brahman) | RC-047 | origem |
+| Criação Indevida (Obra indevida) | RC-167 | contexto |
+| Realidade Maior / Paraíso Original | RC-204 | depende-de |
 | Arquiteto Universal | RC-207 | não-conectada-por |
+| Criador de Padrões Dependentes | RC-208 | opõe-se-a |
+| Kundalini (no contexto RC) | RC-211 | associado |
+| Genética da Confiança | RC-243 | associado |
+| Imanência e Transcendência (Upanishades) | RC-380 | associado |
+| Simultaneidade Reversa | RC-628 | relaciona-se-a |
 
 ## Seres Associados
 Deidade (RC-047); Divindades Excelsas (RC-206).

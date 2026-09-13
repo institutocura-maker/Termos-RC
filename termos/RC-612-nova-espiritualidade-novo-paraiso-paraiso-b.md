@@ -59,12 +59,25 @@ Reorganização futura dos níveis espirituais que não seria mero retorno aos p
 | Termo | Código | Tipo de relação |
 |---|---|---|
 | Reintegração Cósmica | RC-003 | relaciona-se-a |
-| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
 | Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
+| Karuna | RC-165 | associado |
 | Elm (Moros — ser LM de Tempérion) | RC-454 | relaciona-se-a |
 | Tempérion (Archeon de Ereon; setor dos seres LM) | RC-472 | relaciona-se-a |
-| Roseral do Alto | RC-616 | relaciona-se-a |
-| Inquisição Espiritual (obra anunciada) | RC-617 | relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | ← relaciona-se-a |
+| Ressonância límbica (emoções como tecnologia cósmica) | RC-529 | relaciona-se-a |
+| Imponderabilidade (campo de estudo dos Seres LM) | RC-608 | ← orienta |
+| Flechas / Profecias de Moros | RC-611 | associado |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← relaciona-se-a |
+| Trincheira Vibratória no Campo Informativo | RC-613 | ← base-de |
+| Roseral do Alto | RC-616 | ← relaciona-se-a |
+| Inquisição Espiritual (obra anunciada) | RC-617 | ← tema-de |
+| Conclave da Espiritualidade Laboratorial | RC-635 | ← relaciona-se-a |
+| Humano Turbinado | RC-709 | associado |
+| Três Faíscas da Consciência Humana | RC-719 | associado |
+| Colegiados Espirituais Humanizados | RC-745 | associado |
+| As Cinco Lentes da Realidade | RC-761 | associado |
 
 ## Seres Associados
 Consultar as relações tipadas acima.

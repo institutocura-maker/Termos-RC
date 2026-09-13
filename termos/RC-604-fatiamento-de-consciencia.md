@@ -113,6 +113,33 @@ Na resposta final, Shiva é apresentado como expressão de um espírito, enquant
 - Fia o conceito de **Fateamento de Consciência** à queda da Trimurti e ao drama de Javé/Sofia/Jesus — três seres fateados de um só espírito alfa.
 
 
+## Termos Relacionados
+| Termo | Código | Tipo de relação |
+|---|---|---|
+| Javé | RC-001 | envolve |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Sophia (Cristo Cósmico) | RC-009 | envolve |
+| Brahma (Brajna) | RC-037 | envolve |
+| Jesus | RC-072 | envolve |
+| Jesus | RC-072 | envolve |
+| Quarto Logos (Olm / Codificador de Zian) | RC-092 | envolve |
+| Shiva (Savna) | RC-102 | envolve |
+| Prabrajna | RC-152 | relaciona-se-a |
+| Prabrajna | RC-152 | ← relaciona-se-a |
+| DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | associado |
+| ADHYMAVATANA (nome completo de Mavatna/Vishnu) | RC-408 | envolve |
+| ADHYPRABRAJNA (grafia do diagrama) | RC-410 | envolve |
+| Elm (Moros — ser LM de Tempérion) | RC-454 | envolve |
+| Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) | RC-503 | relaciona-se-a |
+| Eu Coalescente | RC-620 | ← integra |
+| Corpo Átmico | RC-623 | ← relaciona-se-a |
+| Corpo Átmico | RC-623 | relaciona-se-a |
+| Instabilidade da Eternidade | RC-648 | ← envolve |
+| Agenda do Desespero dos Espíritos | RC-662 | associado |
+| Falência dos Deuses | RC-742 | ← resulta-de |
+| Ganesha (exceção à metamorfose; cabeça de elefante) | RC-756 | ← relaciona-se-a |
+| As Cinco Lentes da Realidade | RC-761 | ← relaciona-se-a |
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

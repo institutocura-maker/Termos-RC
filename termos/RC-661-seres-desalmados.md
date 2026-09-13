@@ -36,11 +36,11 @@ Forma preferida: **Seres Desalmados**.
 > Ver P2025-06-26.
 
 ## Termos Relacionados
-| Termo | Código | Relação |
+| Termo | Código | Tipo de relação |
 |---|---|---|
-| RC-001 | — | relaciona-se-a |
-| RC-019 | — | relaciona-se-a |
-| RC-050 | — | relaciona-se-a |
+| Javé | RC-001 | — |
+| Anjos clones | RC-019 | distingue-se-de |
+| Demônios | RC-050 | distingue-se-de |
 
 ## Seres Associados
 Consultar Base.
