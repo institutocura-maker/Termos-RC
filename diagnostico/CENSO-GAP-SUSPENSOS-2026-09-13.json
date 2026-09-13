@@ -1,0 +1,310 @@
+{
+ "suspensos": [
+  {
+   "cod": "RC-027",
+   "nome": "Astréia",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "B060",
+    "P2023-05-21"
+   ],
+   "chave": "astreia",
+   "occ": 28,
+   "maxline": 99424,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-030",
+   "nome": "Atlantes",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B031"
+   ],
+   "chave": "atlantes",
+   "occ": 84,
+   "maxline": 104568,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-050",
+   "nome": "Demônios",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "P2025-06-26"
+   ],
+   "chave": "demonios",
+   "occ": 199,
+   "maxline": 86986,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-051",
+   "nome": "Despina",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "B060",
+    "B089"
+   ],
+   "chave": "despina",
+   "occ": 38,
+   "maxline": 86924,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-053",
+   "nome": "Deuses (os dois tipos)",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "P2025-02-16",
+    "P2024-11-30",
+    "P2024-11-09"
+   ],
+   "chave": "deuses",
+   "occ": 1814,
+   "maxline": 112921,
+   "declared": true,
+   "fam": "F.nome-ambíguo",
+   "alias": ""
+  },
+  {
+   "cod": "RC-076",
+   "nome": "Logos / Logos Criadores",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "B014"
+   ],
+   "chave": "logos",
+   "occ": 1448,
+   "maxline": 112921,
+   "declared": true,
+   "fam": "F.nome-ambíguo",
+   "alias": ""
+  },
+  {
+   "cod": "RC-097",
+   "nome": "Seres Extrafísicos",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "P2020-04-04"
+   ],
+   "chave": "seres extrafisicos",
+   "occ": 105,
+   "maxline": 78072,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-100",
+   "nome": "Seres Espirituais",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B031",
+    "B024",
+    "B006",
+    "P2025-03-15",
+    "P2025-02-16",
+    "P2025-02-15",
+    "P2024-11-30",
+    "P2024-11-09"
+   ],
+   "chave": "seres espirituais",
+   "occ": 31,
+   "maxline": 42404,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-214",
+   "nome": "Agente do Mais Alto",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B001",
+    "B011",
+    "B042"
+   ],
+   "chave": "agente do mais alto",
+   "occ": 8,
+   "maxline": 68,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-215",
+   "nome": "Emissários da Espiritualidade Maior",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B001",
+    "B042"
+   ],
+   "chave": "emissarios da espiritualidade maior",
+   "occ": 6,
+   "maxline": 35,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-222",
+   "nome": "Filhos das Estrelas",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B002"
+   ],
+   "chave": "filhos das estrelas",
+   "occ": 8,
+   "maxline": 77,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-246",
+   "nome": "Dez Sagrados (primeira geração do Criador)",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B015"
+   ],
+   "chave": "dez sagrados",
+   "occ": 2,
+   "maxline": 74,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-248",
+   "nome": "Viajores da Rebelião",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B015"
+   ],
+   "chave": "viajores da rebeliao",
+   "occ": 1,
+   "maxline": 62,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-304",
+   "nome": "Deucalião",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B021",
+    "P2024-11-09"
+   ],
+   "chave": "deucaliao",
+   "occ": 34,
+   "maxline": 86924,
+   "declared": true,
+   "fam": "B.prosa-citável-na-fonte-declarada",
+   "alias": ""
+  },
+  {
+   "cod": "RC-306",
+   "nome": "Apolo",
+   "sub": "1.5 Decaídos / Exilados / Demônios",
+   "status": "provisório",
+   "fontes": [
+    "B021",
+    "B060",
+    "P2024-04-13",
+    "P2023-05-21",
+    "P2023-12-03",
+    "P2020-04-04"
+   ],
+   "chave": "apolo",
+   "occ": 378,
+   "maxline": 112921,
+   "declared": true,
+   "fam": "F.nome-ambíguo",
+   "alias": ""
+  },
+  {
+   "cod": "RC-309",
+   "nome": "Ordem dos Indecifráveis",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B022"
+   ],
+   "chave": "ordem dos indecifraveis",
+   "occ": 1,
+   "maxline": 40,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-368",
+   "nome": "Assessoria Cósmica (equipes espirituais de Jesus)",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B011",
+    "P2025-02-15"
+   ],
+   "chave": "assessoria cosmica",
+   "occ": 5,
+   "maxline": 76,
+   "declared": true,
+   "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+   "alias": ""
+  },
+  {
+   "cod": "RC-390",
+   "nome": "Espíritos comunicantes do Grupo Atlan",
+   "sub": "1.8 Consciências coletivas / Logos",
+   "status": "provisório",
+   "fontes": [
+    "B006"
+   ],
+   "chave": "espiritos comunicantes do grupo atlan",
+   "occ": 0,
+   "maxline": 0,
+   "declared": false,
+   "fam": "E.não-achado-no-corpus",
+   "alias": ""
+  }
+ ],
+ "contagens": {
+  "E.não-achado-no-corpus": 40,
+  "B.prosa-citável-na-fonte-declarada": 71,
+  "D.só-estrutural(listas/sumários/hard-wrap)": 104,
+  "F.nome-ambíguo": 11,
+  "C.prosa-fora-das-fontes-declaradas": 41,
+  "A.alias-variação": 6
+ },
+ "metodologia": "varredura invertida 251 arquivos (livros+apostilas+ciclos/translado), chave = nome canônico sem parênteses/barras, fold sem acentos; B exige prosa com linha ≥90 chars na FONTE DECLARADA; F = occ>300 ou chave curta"
+}

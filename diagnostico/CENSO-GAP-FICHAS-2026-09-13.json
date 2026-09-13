@@ -1,0 +1,4295 @@
+[
+ {
+  "cod": "RC-006",
+  "nome": "Guerra do Éden",
+  "sub": "7.1 Guerras / Rebeliões / Conflitos",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "guerra do eden",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-022",
+  "nome": "Antlar",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "antlar",
+  "occ": 34,
+  "maxline": 3289,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-023",
+  "nome": "Antlartes",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "antlartes",
+  "occ": 3,
+  "maxline": 87,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-026",
+  "nome": "Astralização dos Biodemos",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "astralizacao dos biodemos",
+  "occ": 3,
+  "maxline": 66,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-027",
+  "nome": "Astréia",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B060",
+   "P2023-05-21"
+  ],
+  "chave": "astreia",
+  "occ": 28,
+  "maxline": 99424,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-029",
+  "nome": "Atlans",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "atlans",
+  "occ": 3,
+  "maxline": 87,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-030",
+  "nome": "Atlantes",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "atlantes",
+  "occ": 84,
+  "maxline": 104568,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-032",
+  "nome": "Benem",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B017",
+   "B018"
+  ],
+  "chave": "benem",
+  "occ": 97,
+  "maxline": 37833,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-043",
+  "nome": "Conselho dos Cinco",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "conselho dos cinco",
+  "occ": 4,
+  "maxline": 67,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-044",
+  "nome": "Cultura Demo",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B044"
+  ],
+  "chave": "cultura demo",
+  "occ": 116,
+  "maxline": 86924,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-045",
+  "nome": "Daemon",
+  "sub": "8.4 Grego / Latim",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "daemon",
+  "occ": 16,
+  "maxline": 4193,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-048",
+  "nome": "Demiurgo",
+  "sub": "8.4 Grego / Latim",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "demiurgo",
+  "occ": 89,
+  "maxline": 73231,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-050",
+  "nome": "Demônios",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2025-06-26"
+  ],
+  "chave": "demonios",
+  "occ": 199,
+  "maxline": 86986,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-051",
+  "nome": "Despina",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B060",
+   "B089"
+  ],
+  "chave": "despina",
+  "occ": 38,
+  "maxline": 86924,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-053",
+  "nome": "Deuses (os dois tipos)",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2025-02-16",
+   "P2024-11-30",
+   "P2024-11-09"
+  ],
+  "chave": "deuses",
+  "occ": 1814,
+  "maxline": 112921,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-054",
+  "nome": "Divindades (Co-criadoras)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B024"
+  ],
+  "chave": "divindades",
+  "occ": 375,
+  "maxline": 104568,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-065",
+  "nome": "Frota Norte",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B017",
+   "B018"
+  ],
+  "chave": "frota norte",
+  "occ": 208,
+  "maxline": 83070,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-066",
+  "nome": "Genos",
+  "sub": "8.1 Sânscrito / Hinduísmo",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "genos",
+  "occ": 152,
+  "maxline": 102695,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-067",
+  "nome": "Gron Mion",
+  "sub": "3.1 Planetas / Sistemas estelares",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "gron mion",
+  "occ": 9,
+  "maxline": 75,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-069",
+  "nome": "Ion Crom",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "ion crom",
+  "occ": 3,
+  "maxline": 264,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-073",
+  "nome": "Keshava",
+  "sub": "8.1 Sânscrito / Hinduísmo",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2026-04-02"
+  ],
+  "chave": "keshava",
+  "occ": 78,
+  "maxline": 1123,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-076",
+  "nome": "Logos / Logos Criadores",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B014"
+  ],
+  "chave": "logos",
+  "occ": 1448,
+  "maxline": 112921,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-077",
+  "nome": "Lokas",
+  "sub": "8.1 Sânscrito / Hinduísmo",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B021",
+   "B060"
+  ],
+  "chave": "lokas",
+  "occ": 134,
+  "maxline": 1281,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-082",
+  "nome": "Nephilins",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B017",
+   "B018",
+   "B023"
+  ],
+  "chave": "nephilins",
+  "occ": 12,
+  "maxline": 300,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-083",
+  "nome": "Norte Divino",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "norte divino",
+  "occ": 19,
+  "maxline": 87,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-084",
+  "nome": "Orbe",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2024-11-09"
+  ],
+  "chave": "orbe",
+  "occ": 396,
+  "maxline": 83070,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-085",
+  "nome": "Orbum",
+  "sub": "3.1 Planetas / Sistemas estelares",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B042",
+   "B057",
+   "P2020-08-08"
+  ],
+  "chave": "orbum",
+  "occ": 233,
+  "maxline": 64935,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-088",
+  "nome": "Portlan e Portlon",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "portlan e portlon",
+  "occ": 1,
+  "maxline": 66,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-090",
+  "nome": "Projeto Planeta Azul",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B003",
+   "B026"
+  ],
+  "chave": "projeto planeta azul",
+  "occ": 17,
+  "maxline": 876,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-095",
+  "nome": "Rogério de Almeida Freitas",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "rogerio de almeida freitas",
+  "occ": 72,
+  "maxline": 808,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-097",
+  "nome": "Seres Extrafísicos",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2020-04-04"
+  ],
+  "chave": "seres extrafisicos",
+  "occ": 105,
+  "maxline": 78072,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-100",
+  "nome": "Seres Espirituais",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B024",
+   "B006",
+   "P2025-03-15",
+   "P2025-02-16",
+   "P2025-02-15",
+   "P2024-11-30",
+   "P2024-11-09"
+  ],
+  "chave": "seres espirituais",
+  "occ": 31,
+  "maxline": 42404,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-105",
+  "nome": "Ulsh",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "ulsh",
+  "occ": 9,
+  "maxline": 1068,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-108",
+  "nome": "Universo Paralelo",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2025-02-16",
+   "P2024-11-30",
+   "P2024-11-09",
+   "P2024-08-03"
+  ],
+  "chave": "universo paralelo",
+  "occ": 292,
+  "maxline": 95268,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-110",
+  "nome": "Val Am",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val am",
+  "occ": 19,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-111",
+  "nome": "Val Amon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val amon",
+  "occ": 12,
+  "maxline": 82,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-112",
+  "nome": "Val Anen",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B060"
+  ],
+  "chave": "val anen",
+  "occ": 12,
+  "maxline": 794,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-113",
+  "nome": "Val Anon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val anon",
+  "occ": 2,
+  "maxline": 73,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-114",
+  "nome": "Val Antien",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val antien",
+  "occ": 20,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-115",
+  "nome": "Val Aten",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val aten",
+  "occ": 7,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-116",
+  "nome": "Val Bon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B060"
+  ],
+  "chave": "val bon",
+  "occ": 11,
+  "maxline": 794,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-117",
+  "nome": "Val Den",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val den",
+  "occ": 5,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-119",
+  "nome": "Val Ean",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val ean",
+  "occ": 4,
+  "maxline": 79,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-121",
+  "nome": "Val Elliah",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val elliah",
+  "occ": 9,
+  "maxline": 80,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-122",
+  "nome": "Val Ellieh",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val ellieh",
+  "occ": 11,
+  "maxline": 80,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-123",
+  "nome": "Val Eno",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B017",
+   "B018",
+   "B039"
+  ],
+  "chave": "val eno",
+  "occ": 78,
+  "maxline": 794,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-124",
+  "nome": "Val Eon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val eon",
+  "occ": 11,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-125",
+  "nome": "Val Gevi",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val gevi",
+  "occ": 8,
+  "maxline": 86,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-126",
+  "nome": "Val Geon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val geon",
+  "occ": 13,
+  "maxline": 77,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-127",
+  "nome": "Val-Ha",
+  "sub": "3.2 Lokas / Mundos interiores",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val-ha",
+  "occ": 25,
+  "maxline": 1207,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-128",
+  "nome": "Val Ilon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val ilon",
+  "occ": 5,
+  "maxline": 77,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-129",
+  "nome": "Val Pen",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B060"
+  ],
+  "chave": "val pen",
+  "occ": 30,
+  "maxline": 87,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-130",
+  "nome": "Val Sean",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val sean",
+  "occ": 21,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-131",
+  "nome": "Val Sion",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val sion",
+  "occ": 5,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-133",
+  "nome": "Val dos Corpos Perdidos / Dimensionados",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "val dos corpos perdidos",
+  "occ": 20,
+  "maxline": 1207,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-134",
+  "nome": "Viajores",
+  "sub": "8.5 Outros idiomas / jargão técnico",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B015"
+  ],
+  "chave": "viajores",
+  "occ": 32,
+  "maxline": 78072,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-136",
+  "nome": "Yel (Família Yel)",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "P2020-04-25",
+   "P2023-12-03"
+  ],
+  "chave": "yel",
+  "occ": 1309,
+  "maxline": 95268,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-137",
+  "nome": "Yel Adrax",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "yel adrax",
+  "occ": 1,
+  "maxline": 66,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-138",
+  "nome": "Yel Am / Yel Liam",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031",
+   "B011",
+   "B060",
+   "P2026-04-02",
+   "P2025-10-25"
+  ],
+  "chave": "yel am",
+  "occ": 20,
+  "maxline": 84,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-139",
+  "nome": "Yel Breasil",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "yel breasil",
+  "occ": 1,
+  "maxline": 52,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-140",
+  "nome": "Yel Liam",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "yel liam",
+  "occ": 49,
+  "maxline": 86,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-141",
+  "nome": "Yel Lupon",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "yel lupon",
+  "occ": 46,
+  "maxline": 1046,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-143",
+  "nome": "Yel Luziel",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "yel luziel",
+  "occ": 3,
+  "maxline": 74,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-144",
+  "nome": "Zeitgeist",
+  "sub": "8.5 Outros idiomas / jargão técnico",
+  "status": "provisório",
+  "fontes": [
+   "B031"
+  ],
+  "chave": "zeitgeist",
+  "occ": 48,
+  "maxline": 4006,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-156",
+  "nome": "Era da Solidão",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era da solidao",
+  "occ": 26,
+  "maxline": 23344,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-157",
+  "nome": "Era da Geração",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era da geracao",
+  "occ": 7,
+  "maxline": 562,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-158",
+  "nome": "Era da Punição",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era da punicao",
+  "occ": 6,
+  "maxline": 23344,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-159",
+  "nome": "Era do Impasse",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era do impasse",
+  "occ": 11,
+  "maxline": 13597,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-168",
+  "nome": "Era da Lila e da Aceitação",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era da lila e da aceitacao",
+  "occ": 3,
+  "maxline": 104,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-169",
+  "nome": "Era da Semeadura Universal",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era da semeadura universal",
+  "occ": 4,
+  "maxline": 104,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-170",
+  "nome": "Era do Refinamento da Semeadura Biológica Universal",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era do refinamento da semeadura biologica universal",
+  "occ": 1,
+  "maxline": 567,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-171",
+  "nome": "Era da Geopolítica Universal e da Divisão do Comando",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era da geopolitica universal e da divisao do comando",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-172",
+  "nome": "Era da Criatura Universal",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024",
+   "B019"
+  ],
+  "chave": "era da criatura universal",
+  "occ": 1,
+  "maxline": 33,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-173",
+  "nome": "Era das Supercivilizações",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B024"
+  ],
+  "chave": "era das supercivilizacoes",
+  "occ": 3,
+  "maxline": 274,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-177",
+  "nome": "Colmeia do Éden",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B044",
+   "B015"
+  ],
+  "chave": "colmeia do eden",
+  "occ": 2,
+  "maxline": 22,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-178",
+  "nome": "Dois Grandes Favos",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "provisório",
+  "fontes": [
+   "B044"
+  ],
+  "chave": "dois grandes favos",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-180",
+  "nome": "Fator Colmeia",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B044",
+   "P2024-11-30"
+  ],
+  "chave": "fator colmeia",
+  "occ": 6,
+  "maxline": 17631,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-181",
+  "nome": "Pluribus Unum",
+  "sub": "8.4 Grego / Latim",
+  "status": "provisório",
+  "fontes": [
+   "B044"
+  ],
+  "chave": "pluribus unum",
+  "occ": 6,
+  "maxline": 57,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-182",
+  "nome": "Unus Pluribum",
+  "sub": "8.4 Grego / Latim",
+  "status": "provisório",
+  "fontes": [
+   "B044"
+  ],
+  "chave": "unus pluribum",
+  "occ": 6,
+  "maxline": 57,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-183",
+  "nome": "Cultura Demodhármica",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B044",
+   "B014"
+  ],
+  "chave": "cultura demodharmica",
+  "occ": 5,
+  "maxline": 602,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-184",
+  "nome": "Trava-demo",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B044",
+   "B020"
+  ],
+  "chave": "trava-demo",
+  "occ": 3,
+  "maxline": 133,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-185",
+  "nome": "Horda Colmeia",
+  "sub": "1.4 Anjos / Arcanjos / Querubins",
+  "status": "provisório",
+  "fontes": [
+   "B044"
+  ],
+  "chave": "horda colmeia",
+  "occ": 1,
+  "maxline": 67,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-187",
+  "nome": "Insectoides",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B044"
+  ],
+  "chave": "insectoides",
+  "occ": 2,
+  "maxline": 59,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-197",
+  "nome": "Big Data da Terra",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B035",
+   "P2024-09-29"
+  ],
+  "chave": "big data da terra",
+  "occ": 1,
+  "maxline": 22,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-198",
+  "nome": "Rédeas Genéticas",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "candidato",
+  "fontes": [
+   "B035",
+   "P2024-09-29"
+  ],
+  "chave": "redeas geneticas",
+  "occ": 1,
+  "maxline": 19,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-199",
+  "nome": "Assinatura da Alma",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "candidato",
+  "fontes": [
+   "B035",
+   "P2025-03-15"
+  ],
+  "chave": "assinatura da alma",
+  "occ": 1,
+  "maxline": 21,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-201",
+  "nome": "O Livro do Criador",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "candidato",
+  "fontes": [
+   "B035"
+  ],
+  "chave": "livro do criador",
+  "occ": 1,
+  "maxline": 22,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-202",
+  "nome": "Linhagens Preferenciais do Criador",
+  "sub": "6.2 Linhagens humanas",
+  "status": "candidato",
+  "fontes": [
+   "B035",
+   "P2024-09-29"
+  ],
+  "chave": "linhagens preferenciais do criador",
+  "occ": 1,
+  "maxline": 56,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-203",
+  "nome": "Fenômenos Denunciadores do Fim",
+  "sub": "7.3 Profecias / Anúncios",
+  "status": "candidato",
+  "fontes": [
+   "B035",
+   "P2025-03-15"
+  ],
+  "chave": "fenomenos denunciadores do fim",
+  "occ": 2,
+  "maxline": 33,
+  "declared": true,
+  "fam": "A.alias-variação",
+  "alias": "RC-314"
+ },
+ {
+  "cod": "RC-205",
+  "nome": "Pai Supremo (Amantíssimo)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "provisório",
+  "fontes": [
+   "B001",
+   "P2025-02-16",
+   "P2025-02-15",
+   "P2024-11-30",
+   "P2024-11-09"
+  ],
+  "chave": "pai supremo",
+  "occ": 10,
+  "maxline": 79,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-206",
+  "nome": "Divindades Excelsas",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "provisório",
+  "fontes": [
+   "B001"
+  ],
+  "chave": "divindades excelsas",
+  "occ": 5,
+  "maxline": 78,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-208",
+  "nome": "Criador de Padrões Dependentes",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B001",
+   "B002",
+   "P2024-05-04"
+  ],
+  "chave": "criador de padroes dependentes",
+  "occ": 5,
+  "maxline": 70,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-209",
+  "nome": "Vida de Padrão Dependente",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B001",
+   "B002",
+   "P2024-05-04"
+  ],
+  "chave": "vida de padrao dependente",
+  "occ": 2,
+  "maxline": 73,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-211",
+  "nome": "Kundalini (no contexto RC)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "provisório",
+  "fontes": [
+   "B001",
+   "B074",
+   "B075",
+   "P2024-05-04",
+   "P2023-07-05",
+   "P2024-11-03"
+  ],
+  "chave": "kundalini",
+  "occ": 56,
+  "maxline": 5922,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-212",
+  "nome": "O Grande Dia do Senhor Javé",
+  "sub": "7.3 Profecias / Anúncios",
+  "status": "provisório",
+  "fontes": [
+   "B001"
+  ],
+  "chave": "grande dia do senhor jave",
+  "occ": 10,
+  "maxline": 75,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-213",
+  "nome": "Centro de Comando Paralelo",
+  "sub": "3.4 Regiões cósmicas / Portais",
+  "status": "provisório",
+  "fontes": [
+   "B001"
+  ],
+  "chave": "centro de comando paralelo",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-214",
+  "nome": "Agente do Mais Alto",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B001",
+   "B011",
+   "B042"
+  ],
+  "chave": "agente do mais alto",
+  "occ": 8,
+  "maxline": 68,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-215",
+  "nome": "Emissários da Espiritualidade Maior",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B001",
+   "B042"
+  ],
+  "chave": "emissarios da espiritualidade maior",
+  "occ": 6,
+  "maxline": 35,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-216",
+  "nome": "Queda do Arquiteto Universal",
+  "sub": "7.4 Catástrofes / Dilúvios / Quedas",
+  "status": "provisório",
+  "fontes": [
+   "B002",
+   "B019"
+  ],
+  "chave": "queda do arquiteto universal",
+  "occ": 11,
+  "maxline": 99,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-219",
+  "nome": "Agente Secreto do Bem",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B002"
+  ],
+  "chave": "agente secreto do bem",
+  "occ": 2,
+  "maxline": 69,
+  "declared": true,
+  "fam": "A.alias-variação",
+  "alias": "RC-072"
+ },
+ {
+  "cod": "RC-220",
+  "nome": "Conspiração do Desespero",
+  "sub": "7.1 Guerras / Rebeliões / Conflitos",
+  "status": "provisório",
+  "fontes": [
+   "B002"
+  ],
+  "chave": "conspiracao do desespero",
+  "occ": 2,
+  "maxline": 26,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-221",
+  "nome": "Sustentação Espiritual do Universo",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B002"
+  ],
+  "chave": "sustentacao espiritual do universo",
+  "occ": 2,
+  "maxline": 36,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-222",
+  "nome": "Filhos das Estrelas",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B002"
+  ],
+  "chave": "filhos das estrelas",
+  "occ": 8,
+  "maxline": 77,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-224",
+  "nome": "Prevalece o Amor",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B002",
+   "P2025-03-15"
+  ],
+  "chave": "prevalece o amor",
+  "occ": 2,
+  "maxline": 16,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-227",
+  "nome": "Opção Terra",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B033"
+  ],
+  "chave": "opcao terra",
+  "occ": 6,
+  "maxline": 76,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-229",
+  "nome": "A Lógica de Javé e a Origem da Humanidade",
+  "sub": "2.1 Cosmogonia / Criação",
+  "status": "provisório",
+  "fontes": [
+   "B033"
+  ],
+  "chave": "logica de jave e a origem da humanidade",
+  "occ": 2,
+  "maxline": 41,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-233",
+  "nome": "Marca Val (A Estratégia do Possível)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "provisório",
+  "fontes": [
+   "B017"
+  ],
+  "chave": "marca val",
+  "occ": 2,
+  "maxline": 142,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-234",
+  "nome": "Cidades Voadoras",
+  "sub": "5.1 Naves / Tecnologia extraterrestre",
+  "status": "provisório",
+  "fontes": [
+   "B018"
+  ],
+  "chave": "cidades voadoras",
+  "occ": 11,
+  "maxline": 152,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-235",
+  "nome": "Teurgistas",
+  "sub": "8.4 Grego / Latim",
+  "status": "provisório",
+  "fontes": [
+   "B039"
+  ],
+  "chave": "teurgistas",
+  "occ": 17,
+  "maxline": 73231,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-237",
+  "nome": "Land's End (Sinal de Land's End)",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B017"
+  ],
+  "chave": "land's end",
+  "occ": 4,
+  "maxline": 542,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-240",
+  "nome": "Império dos Descendentes dos Seres dos Portais",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "provisório",
+  "fontes": [
+   "B018",
+   "P2024-09-29"
+  ],
+  "chave": "imperio dos descendentes dos seres dos portais",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-244",
+  "nome": "Germe da Desconfiança",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "germe da desconfianca",
+  "occ": 2,
+  "maxline": 74,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-246",
+  "nome": "Dez Sagrados (primeira geração do Criador)",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "dez sagrados",
+  "occ": 2,
+  "maxline": 74,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-247",
+  "nome": "Endrelnianos",
+  "sub": "1.4 Anjos / Arcanjos / Querubins",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "endrelnianos",
+  "occ": 6,
+  "maxline": 74,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-248",
+  "nome": "Viajores da Rebelião",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "viajores da rebeliao",
+  "occ": 1,
+  "maxline": 62,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-249",
+  "nome": "Expulsão dos Viajores (decreto do Criador)",
+  "sub": "7.1 Guerras / Rebeliões / Conflitos",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "expulsao dos viajores",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-250",
+  "nome": "Mundo das Águas",
+  "sub": "3.1 Planetas / Sistemas estelares",
+  "status": "provisório",
+  "fontes": [
+   "B015"
+  ],
+  "chave": "mundo das aguas",
+  "occ": 5,
+  "maxline": 74,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-251",
+  "nome": "Laboratórios do Criador",
+  "sub": "2.1 Cosmogonia / Criação",
+  "status": "provisório",
+  "fontes": [
+   "B015",
+   "P2024-09-29"
+  ],
+  "chave": "laboratorios do criador",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-254",
+  "nome": "Dominação (premissa dos Três Primeiros Logos)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B016",
+   "P2024-09-29"
+  ],
+  "chave": "dominacao",
+  "occ": 312,
+  "maxline": 99424,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-255",
+  "nome": "A Mensagem do Codificador de Zion",
+  "sub": "5.4 Escrituras / Objetos documentais",
+  "status": "provisório",
+  "fontes": [
+   "B016"
+  ],
+  "chave": "mensagem do codificador de zion",
+  "occ": 2,
+  "maxline": 33,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-256",
+  "nome": "Escola dos Agentes Esclarecidos da Busca da Verdade",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "provisório",
+  "fontes": [
+   "B016",
+   "P2021-12-04"
+  ],
+  "chave": "escola dos agentes esclarecidos da busca da verdade",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-269",
+  "nome": "Linhagens Humanas: Preferidas e Preteridas",
+  "sub": "6.2 Linhagens humanas",
+  "status": "provisório",
+  "fontes": [
+   "B013",
+   "P2024-09-29"
+  ],
+  "chave": "linhagens humanas: preferidas e preteridas",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-270",
+  "nome": "Linhagem dos Patriarcas Hebreus",
+  "sub": "6.2 Linhagens humanas",
+  "status": "provisório",
+  "fontes": [
+   "B013",
+   "B036",
+   "B052"
+  ],
+  "chave": "linhagem dos patriarcas hebreus",
+  "occ": 5,
+  "maxline": 74,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-271",
+  "nome": "Pactos do Criador (troca de informações)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B013",
+   "P2024-09-29",
+   "P2024-04-13"
+  ],
+  "chave": "pactos do criador",
+  "occ": 2,
+  "maxline": 81,
+  "declared": false,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-272",
+  "nome": "Laço Temporal de Kether/Javé",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B013",
+   "P2023-10-14"
+  ],
+  "chave": "laco temporal de kether/jave",
+  "occ": 2,
+  "maxline": 540,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-275",
+  "nome": "Arte Demodhármica do Possível",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B014"
+  ],
+  "chave": "arte demodharmica do possivel",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-276",
+  "nome": "Sacralização do Absurdo",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B014"
+  ],
+  "chave": "sacralizacao do absurdo",
+  "occ": 3,
+  "maxline": 30,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-277",
+  "nome": "A Jaula de Cada Espécie",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B014"
+  ],
+  "chave": "jaula de cada especie",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-278",
+  "nome": "Olhar Adulto",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B014"
+  ],
+  "chave": "olhar adulto",
+  "occ": 12,
+  "maxline": 9209,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-279",
+  "nome": "Modo Trimurtiano de Sophia",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B014"
+  ],
+  "chave": "modo trimurtiano de sophia",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-288",
+  "nome": "Os Anais de uma Cultura Perdida",
+  "sub": "5.4 Escrituras / Objetos documentais",
+  "status": "provisório",
+  "fontes": [
+   "B020"
+  ],
+  "chave": "anais de uma cultura perdida",
+  "occ": 1,
+  "maxline": 102,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-289",
+  "nome": "O Vício de Epimeteu",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B020"
+  ],
+  "chave": "vicio de epimeteu",
+  "occ": 2,
+  "maxline": 113,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-290",
+  "nome": "Cuidado com o 'Ide e Pregai'",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B020"
+  ],
+  "chave": "cuidado com o 'ide e pregai'",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-291",
+  "nome": "Fim do Silêncio de Pandora",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B020",
+   "P2020-04-25"
+  ],
+  "chave": "fim do silencio de pandora",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-296",
+  "nome": "Pitonisas e Oráculos (Apolo/Delfos)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "provisório",
+  "fontes": [
+   "B021",
+   "P2024-04-13",
+   "P2023-05-21"
+  ],
+  "chave": "pitonisas e oraculos",
+  "occ": 5,
+  "maxline": 1065,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-300",
+  "nome": "Dissolução da Tríade (2015–2017)",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B021",
+   "B022",
+   "P2022-12-17",
+   "P2024-11-30"
+  ],
+  "chave": "dissolucao da triade",
+  "occ": 1,
+  "maxline": 72,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-304",
+  "nome": "Deucalião",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B021",
+   "P2024-11-09"
+  ],
+  "chave": "deucaliao",
+  "occ": 34,
+  "maxline": 86924,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-306",
+  "nome": "Apolo",
+  "sub": "1.5 Decaídos / Exilados / Demônios",
+  "status": "provisório",
+  "fontes": [
+   "B021",
+   "B060",
+   "P2024-04-13",
+   "P2023-05-21",
+   "P2023-12-03",
+   "P2020-04-04"
+  ],
+  "chave": "apolo",
+  "occ": 378,
+  "maxline": 112921,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-309",
+  "nome": "Ordem dos Indecifráveis",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B022"
+  ],
+  "chave": "ordem dos indecifraveis",
+  "occ": 1,
+  "maxline": 40,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-313",
+  "nome": "Tempo de Apostasia",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B022"
+  ],
+  "chave": "tempo de apostasia",
+  "occ": 35,
+  "maxline": 91,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-315",
+  "nome": "O Fim da Lila",
+  "sub": "7.1 Guerras / Rebeliões / Conflitos",
+  "status": "provisório",
+  "fontes": [
+   "B022",
+   "P2024-11-30",
+   "P2023-11-19",
+   "P2023-12-03"
+  ],
+  "chave": "fim da lila",
+  "occ": 7,
+  "maxline": 2299,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-316",
+  "nome": "Decifra-me ou Devoro (hábito demo)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B022",
+   "P2025-06-14b"
+  ],
+  "chave": "decifra-me ou devoro",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-317",
+  "nome": "Esgotamento e Solidão (dos Trimurtianos)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B022"
+  ],
+  "chave": "esgotamento e solidao",
+  "occ": 2,
+  "maxline": 139,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-318",
+  "nome": "A Estranha Autorrealização de Shiva",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B022"
+  ],
+  "chave": "estranha autorrealizacao de shiva",
+  "occ": 1,
+  "maxline": 35,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-324",
+  "nome": "Grupos de Entroncamento (1-4)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "provisório",
+  "fontes": [
+   "B023"
+  ],
+  "chave": "grupos de entroncamento",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-326",
+  "nome": "Povos Escolhidos (ariano, judeu, árabe)",
+  "sub": "6.2 Linhagens humanas",
+  "status": "provisório",
+  "fontes": [
+   "B023",
+   "P2024-11-30",
+   "P2024-04-13"
+  ],
+  "chave": "povos escolhidos",
+  "occ": 6,
+  "maxline": 100,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-327",
+  "nome": "Homo hierarchicus",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B023"
+  ],
+  "chave": "homo hierarchicus",
+  "occ": 5,
+  "maxline": 19,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-330",
+  "nome": "Civilização Saraswati",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B023"
+  ],
+  "chave": "civilizacao saraswati",
+  "occ": 5,
+  "maxline": 75,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-336",
+  "nome": "Ética da Sobrevivência de Javé",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B048",
+   "P2024-11-30"
+  ],
+  "chave": "etica da sobrevivencia de jave",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-337",
+  "nome": "Humanos: uma simples Experiência Biológica",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B048",
+   "P2024-11-30"
+  ],
+  "chave": "humanos: uma simples experiencia biologica",
+  "occ": 2,
+  "maxline": 42,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-338",
+  "nome": "O Reconhecimento que nunca veio",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B048"
+  ],
+  "chave": "reconhecimento que nunca veio",
+  "occ": 3,
+  "maxline": 35,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-339",
+  "nome": "A Difícil Cobrança sobre os Humanos",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B048"
+  ],
+  "chave": "dificil cobranca sobre os humanos",
+  "occ": 3,
+  "maxline": 38,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-340",
+  "nome": "Atores de uma Peça Incompreensível",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B048"
+  ],
+  "chave": "atores de uma peca incompreensivel",
+  "occ": 3,
+  "maxline": 37,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-341",
+  "nome": "Ferramentas do Favor Divino (religiões e pensadores)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "provisório",
+  "fontes": [
+   "B048",
+   "P2024-11-09",
+   "P2024-09-29"
+  ],
+  "chave": "ferramentas do favor divino",
+  "occ": 4,
+  "maxline": 152,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-343",
+  "nome": "Portal Cósmico (destinação do Planeta Azul)",
+  "sub": "3.4 Regiões cósmicas / Portais",
+  "status": "provisório",
+  "fontes": [
+   "B003",
+   "B026"
+  ],
+  "chave": "portal cosmico",
+  "occ": 14,
+  "maxline": 192,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-345",
+  "nome": "Sentimento Luciferiano",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B003"
+  ],
+  "chave": "sentimento luciferiano",
+  "occ": 1,
+  "maxline": 67,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-347",
+  "nome": "Projeto Terra",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B026",
+   "B019",
+   "P2024-11-30"
+  ],
+  "chave": "projeto terra",
+  "occ": 6,
+  "maxline": 76,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-348",
+  "nome": "Roteiro do Exílio",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B026"
+  ],
+  "chave": "roteiro do exilio",
+  "occ": 2,
+  "maxline": 20,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-349",
+  "nome": "Exílios Interplanetários",
+  "sub": "7.1 Guerras / Rebeliões / Conflitos",
+  "status": "provisório",
+  "fontes": [
+   "B003"
+  ],
+  "chave": "exilios interplanetarios",
+  "occ": 2,
+  "maxline": 27,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-350",
+  "nome": "Jesus, o Capelino",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B025"
+  ],
+  "chave": "jesus, o capelino",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-351",
+  "nome": "Mestres de Capela",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B025"
+  ],
+  "chave": "mestres de capela",
+  "occ": 2,
+  "maxline": 27,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-352",
+  "nome": "A Segunda Grande Vinda",
+  "sub": "7.3 Profecias / Anúncios",
+  "status": "provisório",
+  "fontes": [
+   "B025"
+  ],
+  "chave": "segunda grande vinda",
+  "occ": 4,
+  "maxline": 72,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": "RC-005"
+ },
+ {
+  "cod": "RC-353",
+  "nome": "Ilha Cósmica (mundos rebelados)",
+  "sub": "3.4 Regiões cósmicas / Portais",
+  "status": "provisório",
+  "fontes": [
+   "B003"
+  ],
+  "chave": "ilha cosmica",
+  "occ": 6,
+  "maxline": 68,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-354",
+  "nome": "Trilogia Queda e Ascensão Espiritual",
+  "sub": "5.4 Escrituras / Objetos documentais",
+  "status": "provisório",
+  "fontes": [
+   "B003",
+   "B025",
+   "B026"
+  ],
+  "chave": "trilogia queda e ascensao espiritual",
+  "occ": 3,
+  "maxline": 67,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-356",
+  "nome": "Fonte da Vida (metáfora da ilha/oceano)",
+  "sub": "2.1 Cosmogonia / Criação",
+  "status": "provisório",
+  "fontes": [
+   "B005"
+  ],
+  "chave": "fonte da vida",
+  "occ": 3,
+  "maxline": 51763,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-358",
+  "nome": "Terra de Ninguém (cósmica)",
+  "sub": "3.4 Regiões cósmicas / Portais",
+  "status": "provisório",
+  "fontes": [
+   "B005"
+  ],
+  "chave": "terra de ninguem",
+  "occ": 3,
+  "maxline": 83,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-360",
+  "nome": "Atmosferizar a Lua ou Marte (Opção Final)",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B005"
+  ],
+  "chave": "atmosferizar a lua ou marte",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-361",
+  "nome": "Antropocentrismo (crítica)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B005"
+  ],
+  "chave": "antropocentrismo",
+  "occ": 24,
+  "maxline": 22757,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-362",
+  "nome": "Apego aos Conceitos Terrenos",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B005"
+  ],
+  "chave": "apego aos conceitos terrenos",
+  "occ": 1,
+  "maxline": 53,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-363",
+  "nome": "Ótica e Ética Cósmicas",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B005"
+  ],
+  "chave": "otica e etica cosmicas",
+  "occ": 2,
+  "maxline": 47,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-364",
+  "nome": "A Missão do Mestre",
+  "sub": "7.5 Missões / Expedições / Encontros",
+  "status": "provisório",
+  "fontes": [
+   "B005",
+   "B042"
+  ],
+  "chave": "missao do mestre",
+  "occ": 5,
+  "maxline": 60,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-368",
+  "nome": "Assessoria Cósmica (equipes espirituais de Jesus)",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B011",
+   "P2025-02-15"
+  ],
+  "chave": "assessoria cosmica",
+  "occ": 5,
+  "maxline": 76,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-370",
+  "nome": "A Criação de Ídolos para a Humanidade",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B049"
+  ],
+  "chave": "criacao de idolos para a humanidade",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-372",
+  "nome": "O Ser Humano Emancipado",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B049",
+   "P2026-07-30",
+   "P2025-02-15"
+  ],
+  "chave": "ser humano emancipado",
+  "occ": 9,
+  "maxline": 10212,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-374",
+  "nome": "Mordon (o Druida da Montanha)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B043"
+  ],
+  "chave": "mordon",
+  "occ": 68,
+  "maxline": 93,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-377",
+  "nome": "Brendiver e Dolman (personagens celtas)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B043"
+  ],
+  "chave": "brendiver e dolman",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-380",
+  "nome": "Imanência e Transcendência (Upanishades)",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B041"
+  ],
+  "chave": "imanencia e transcendencia",
+  "occ": 3,
+  "maxline": 6352,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-383",
+  "nome": "Roteiro do Absurdo Implantado na Criação",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B041"
+  ],
+  "chave": "roteiro do absurdo implantado na criacao",
+  "occ": 1,
+  "maxline": 40,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-384",
+  "nome": "Proposta de um Humano Terrestre aos Elétrons",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B041"
+  ],
+  "chave": "proposta de um humano terrestre aos eletrons",
+  "occ": 1,
+  "maxline": 44,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-386",
+  "nome": "Memórias para Javé",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B041",
+   "P2024-09-29"
+  ],
+  "chave": "memorias para jave",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-387",
+  "nome": "Fragmentação do Poder Mental da Divindade",
+  "sub": "2.1 Cosmogonia / Criação",
+  "status": "provisório",
+  "fontes": [
+   "B041",
+   "P2024-05-04",
+   "P2025-03-15",
+   "P2025-02-16",
+   "P2024-11-30",
+   "P2024-11-09",
+   "P2020-07-04",
+   "P2023-12-03"
+  ],
+  "chave": "fragmentacao do poder mental da divindade",
+  "occ": 1,
+  "maxline": 43,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-389",
+  "nome": "Casa de Lucas (origem do Grupo Atlan)",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B006"
+  ],
+  "chave": "casa de lucas",
+  "occ": 3,
+  "maxline": 89,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-390",
+  "nome": "Espíritos comunicantes do Grupo Atlan",
+  "sub": "1.8 Consciências coletivas / Logos",
+  "status": "provisório",
+  "fontes": [
+   "B006"
+  ],
+  "chave": "espiritos comunicantes do grupo atlan",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-391",
+  "nome": "Mesmice Espiritual",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B006"
+  ],
+  "chave": "mesmice espiritual",
+  "occ": 2,
+  "maxline": 21,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-392",
+  "nome": "Reforma Íntima (tema do Grupo Atlan)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "provisório",
+  "fontes": [
+   "B006",
+   "B074",
+   "B075",
+   "P2025-03-15"
+  ],
+  "chave": "reforma intima",
+  "occ": 99,
+  "maxline": 95159,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-393",
+  "nome": "Enéas (espírito comunicante)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B006"
+  ],
+  "chave": "eneas",
+  "occ": 28,
+  "maxline": 91,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-394",
+  "nome": "Mandreya Ramataiana (espírito comunicante)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B006"
+  ],
+  "chave": "mandreya ramataiana",
+  "occ": 4,
+  "maxline": 79,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-397",
+  "nome": "Tirthankaras (Rishabh Dev, Jina Mahavira)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B050",
+   "P2025-10-25",
+   "P2025-02-16",
+   "P2024-02-03"
+  ],
+  "chave": "tirthankaras",
+  "occ": 22,
+  "maxline": 13935,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-399",
+  "nome": "Dwarka (submersa)",
+  "sub": "3.3 Localidades terrestres",
+  "status": "provisório",
+  "fontes": [
+   "B050"
+  ],
+  "chave": "dwarka",
+  "occ": 9,
+  "maxline": 298,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-401",
+  "nome": "Família Demolle (biodemos)",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "provisório",
+  "fontes": [
+   "B050",
+   "P2021-05-15"
+  ],
+  "chave": "familia demolle",
+  "occ": 1,
+  "maxline": 353,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-402",
+  "nome": "Halos de Poder (demos)",
+  "sub": "5.3 Dispositivos / Instrumentos",
+  "status": "provisório",
+  "fontes": [
+   "B050"
+  ],
+  "chave": "halos de poder",
+  "occ": 1,
+  "maxline": 124,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-405",
+  "nome": "Alvorecer de Aquário",
+  "sub": "7.3 Profecias / Anúncios",
+  "status": "provisório",
+  "fontes": [
+   "B027",
+   "P2022-12-17"
+  ],
+  "chave": "alvorecer de aquario",
+  "occ": 1,
+  "maxline": 28,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-406",
+  "nome": "Diálogos de Sócrates, Platão e Aristóteles (nos Céus da Grécia)",
+  "sub": "5.4 Escrituras / Objetos documentais",
+  "status": "provisório",
+  "fontes": [
+   "B027",
+   "P2023-08-27",
+   "P2022-11-19"
+  ],
+  "chave": "dialogos de socrates, platao e aristoteles",
+  "occ": 1,
+  "maxline": 127,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-407",
+  "nome": "Reencarnação iminente da grande leva de espíritos",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B027"
+  ],
+  "chave": "reencarnacao iminente da grande leva de espiritos",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-412",
+  "nome": "Emissários Humanos (Enoch, Abraão, Moisés, Jesus)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B051",
+   "B060"
+  ],
+  "chave": "emissarios humanos",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-418",
+  "nome": "Terminal Nervoso do Criador (humano)",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B034",
+   "B036",
+   "P2025-03-15",
+   "P2025-02-15"
+  ],
+  "chave": "terminal nervoso do criador",
+  "occ": 1,
+  "maxline": 97,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-419",
+  "nome": "Sou eu que vivo em vocês (Javé)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B034",
+   "P2024-11-30"
+  ],
+  "chave": "sou eu que vivo em voces",
+  "occ": 1,
+  "maxline": 53,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-420",
+  "nome": "Mônica Camargo (autora das cartas)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B034"
+  ],
+  "chave": "monica camargo",
+  "occ": 18,
+  "maxline": 98,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-423",
+  "nome": "Advogado de Acusação (Ellam × Javé)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B036"
+  ],
+  "chave": "advogado de acusacao",
+  "occ": 6,
+  "maxline": 46364,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-427",
+  "nome": "Criatura-teste (estágio avançado)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B036"
+  ],
+  "chave": "criatura-teste",
+  "occ": 1,
+  "maxline": 36,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-428",
+  "nome": "Tempo-limite (transição crítica de Javé)",
+  "sub": "7.2 Eras / Épocas / Ciclos",
+  "status": "provisório",
+  "fontes": [
+   "B036",
+   "P2024-11-30",
+   "P2024-09-29"
+  ],
+  "chave": "tempo-limite",
+  "occ": 1,
+  "maxline": 71,
+  "declared": false,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-429",
+  "nome": "Javé alimenta-se do senso crítico humano",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "provisório",
+  "fontes": [
+   "B036",
+   "P2025-02-15",
+   "P2024-11-30",
+   "P2024-09-29"
+  ],
+  "chave": "jave alimenta-se do senso critico humano",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-431",
+  "nome": "Guerreiro ao Atleta (transição)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B040"
+  ],
+  "chave": "guerreiro ao atleta",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-435",
+  "nome": "O Segredo Perdido do Éden",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B052",
+   "P2024-03-03"
+  ],
+  "chave": "segredo perdido do eden",
+  "occ": 15,
+  "maxline": 62237,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-438",
+  "nome": "Tubal (filho de Jafé, centro de comércio)",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B052",
+   "P2024-11-30"
+  ],
+  "chave": "tubal",
+  "occ": 69,
+  "maxline": 95,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-439",
+  "nome": "Os Magos do Norte",
+  "sub": "1.6 Figuras humanas (históricas/míticas)",
+  "status": "provisório",
+  "fontes": [
+   "B052"
+  ],
+  "chave": "magos do norte",
+  "occ": 4,
+  "maxline": 76,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-440",
+  "nome": "A Sina dos Portadores",
+  "sub": "7.3 Profecias / Anúncios",
+  "status": "provisório",
+  "fontes": [
+   "B052"
+  ],
+  "chave": "sina dos portadores",
+  "occ": 2,
+  "maxline": 71,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-441",
+  "nome": "Mistérios Dionisíacos",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "provisório",
+  "fontes": [
+   "B052"
+  ],
+  "chave": "misterios dionisiacos",
+  "occ": 1,
+  "maxline": 24,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-444",
+  "nome": "Família Cromon",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "candidato",
+  "fontes": [
+   "B059",
+   "B057",
+   "P2020-08-08",
+   "P2020-04-25",
+   "P2022-03-26",
+   "P2023-12-03"
+  ],
+  "chave": "familia cromon",
+  "occ": 7,
+  "maxline": 1832,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-457",
+  "nome": "Sarasvati (consorte de Brahma, Tridevi)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "provisório",
+  "fontes": [
+   "B060",
+   "P2021-12-04",
+   "P2024-07-14"
+  ],
+  "chave": "sarasvati",
+  "occ": 6,
+  "maxline": 649,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-458",
+  "nome": "Lakshimi (consorte de Vishnu, Tridevi)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "provisório",
+  "fontes": [
+   "B060",
+   "P2021-12-04",
+   "P2024-07-14"
+  ],
+  "chave": "lakshimi",
+  "occ": 4,
+  "maxline": 82,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-462",
+  "nome": "Oannes (filho de Ostronomos)",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "provisório",
+  "fontes": [
+   "B060"
+  ],
+  "chave": "oannes",
+  "occ": 2,
+  "maxline": 38,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-468",
+  "nome": "Ein Sof (Prabrajna na Cabala)",
+  "sub": "8.2 Hebraico / Cabala",
+  "status": "provisório",
+  "fontes": [
+   "B060"
+  ],
+  "chave": "ein sof",
+  "occ": 3,
+  "maxline": 67,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-469",
+  "nome": "Khorsis (Mundo dos Tronos)",
+  "sub": "3.2 Lokas / Mundos interiores",
+  "status": "provisório",
+  "fontes": [
+   "B060"
+  ],
+  "chave": "khorsis",
+  "occ": 2,
+  "maxline": 9,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-473",
+  "nome": "Lempérion e Terpérion (setores da Espiritualidade Laboratorial)",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "lemperion e terperion",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-478",
+  "nome": "Chequinhá (veículo/nave de Javé)",
+  "sub": "5.1 Naves / Tecnologia extraterrestre",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "chequinha",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-484",
+  "nome": "Anjos ministradores (Usá, Azá, Aziel)",
+  "sub": "1.4 Anjos / Arcanjos / Querubins",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "anjos ministradores",
+  "occ": 5,
+  "maxline": 43565,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-491",
+  "nome": "Família Shanlung (13 membros em Alt'Lam Gron)",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "candidato",
+  "fontes": [
+   "B057",
+   "P2020-04-25"
+  ],
+  "chave": "familia shanlung",
+  "occ": 4,
+  "maxline": 183,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-492",
+  "nome": "Membros da Família Yel (Luziel, Adrax, Breasil, Lupon)",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "membros da familia yel",
+  "occ": 12,
+  "maxline": 655,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-493",
+  "nome": "Os 9 Val dos Corpos Perdidos",
+  "sub": "6.3 Dinastias extraterrestres",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "9 val dos corpos perdidos",
+  "occ": 12,
+  "maxline": 84,
+  "declared": false,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-501",
+  "nome": "Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel)",
+  "sub": "1.2 Coletivos criadores",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "conselho dos cinco",
+  "occ": 4,
+  "maxline": 67,
+  "declared": false,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-502",
+  "nome": "Val Aten (último Val de Val-Ha)",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "candidato",
+  "fontes": [],
+  "chave": "val aten",
+  "occ": 7,
+  "maxline": 84,
+  "declared": false,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-504",
+  "nome": "Adyadvaivatma / Adimavatma (= Vishnu)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "candidato",
+  "fontes": [
+   "P2024-11-30"
+  ],
+  "chave": "adyadvaivatma",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "A.alias-variação",
+  "alias": "RC-408"
+ },
+ {
+  "cod": "RC-505",
+  "nome": "Adyabradagna / Adabradagna (= Brahma/Javé)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "candidato",
+  "fontes": [
+   "P2024-11-30"
+  ],
+  "chave": "adyabradagna",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "A.alias-variação",
+  "alias": "RC-152"
+ },
+ {
+  "cod": "RC-507",
+  "nome": "Holodomínio (esfera de influência extrafísica)",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "candidato",
+  "fontes": [
+   "B071"
+  ],
+  "chave": "holodominio",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-508",
+  "nome": "Decência cósmica (ética ellâmica)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "candidato",
+  "fontes": [
+   "B071",
+   "P2025-03-15",
+   "P2025-02-15",
+   "P2024-11-30",
+   "P2024-11-09",
+   "P2021-09-04",
+   "P2023-12-03"
+  ],
+  "chave": "decencia cosmica",
+  "occ": 2,
+  "maxline": 124,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-509",
+  "nome": "Protagonismo consciencial",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "candidato",
+  "fontes": [
+   "B071",
+   "P2025-02-16",
+   "P2025-02-15",
+   "P2024-11-30",
+   "P2024-11-09",
+   "P2024-09-29"
+  ],
+  "chave": "protagonismo consciencial",
+  "occ": 1,
+  "maxline": 397,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-510",
+  "nome": "Blindagem cósmica (= quarentena terrestre)",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "candidato",
+  "fontes": [
+   "B071"
+  ],
+  "chave": "blindagem cosmica",
+  "occ": 1,
+  "maxline": 211,
+  "declared": false,
+  "fam": "A.alias-variação",
+  "alias": "RC-342"
+ },
+ {
+  "cod": "RC-511",
+  "nome": "Mêntion (estruturas da mente extrafísica)",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "candidato",
+  "fontes": [
+   "B071",
+   "B074",
+   "B075",
+   "P2026-07-30",
+   "P2024-05-04",
+   "P2026-04-02"
+  ],
+  "chave": "mention",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-512",
+  "nome": "Amnésia espiritual (esquecimento das origens)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "candidato",
+  "fontes": [
+   "B071",
+   "ART-2026-08-18"
+  ],
+  "chave": "amnesia espiritual",
+  "occ": 1,
+  "maxline": 327,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-515",
+  "nome": "Acidente cosmogônico (queda de Prabrajna)",
+  "sub": "2.1 Cosmogonia / Criação",
+  "status": "candidato",
+  "fontes": [
+   "B071"
+  ],
+  "chave": "acidente cosmogonico",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "A.alias-variação",
+  "alias": "RC-167"
+ },
+ {
+  "cod": "RC-519",
+  "nome": "Herança Cósmica (padrões de existências anteriores)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "B072",
+   "P2025-03-15",
+   "P2025-02-15",
+   "P2024-11-30"
+  ],
+  "chave": "heranca cosmica",
+  "occ": 2,
+  "maxline": 170,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-521",
+  "nome": "Arquivos da Memória Cósmica",
+  "sub": "5.3 Dispositivos / Instrumentos",
+  "status": "candidato",
+  "fontes": [
+   "B072",
+   "P2025-03-15",
+   "P2025-02-15",
+   "P2024-11-30"
+  ],
+  "chave": "arquivos da memoria cosmica",
+  "occ": 2,
+  "maxline": 123,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-522",
+  "nome": "Parasitismo energético (obsessão ampliada)",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "candidato",
+  "fontes": [
+   "B072",
+   "P2022-12-17"
+  ],
+  "chave": "parasitismo energetico",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-523",
+  "nome": "Vampirismo consciencial",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "candidato",
+  "fontes": [
+   "B072",
+   "P2022-12-17",
+   "P2025-02-15"
+  ],
+  "chave": "vampirismo consciencial",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-524",
+  "nome": "Coleta de informações (espírito encarnado)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "candidato",
+  "fontes": [
+   "B072",
+   "P2025-03-15",
+   "P2025-02-15",
+   "P2024-11-30"
+  ],
+  "chave": "coleta de informacoes",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-527",
+  "nome": "Antimundo / antimatéria ('outro lado' da criação)",
+  "sub": "2.3 Dimensões / Planos de existência",
+  "status": "candidato",
+  "fontes": [
+   "B072",
+   "P2025-03-15",
+   "P2025-02-16",
+   "P2024-11-30"
+  ],
+  "chave": "antimundo",
+  "occ": 4,
+  "maxline": 130,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": "RC-106"
+ },
+ {
+  "cod": "RC-531",
+  "nome": "Laboratório Genético Terra (linhagens monitoradas)",
+  "sub": "3.3 Localidades terrestres",
+  "status": "candidato",
+  "fontes": [
+   "B073",
+   "P2024-09-29"
+  ],
+  "chave": "laboratorio genetico terra",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-532",
+  "nome": "Vacina do Amor (ancoragem de Jesus no CFD)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "candidato",
+  "fontes": [
+   "B073"
+  ],
+  "chave": "vacina do amor",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-539",
+  "nome": "Arquitetos Universais (coletivo cocriador)",
+  "sub": "1.2 Coletivos criadores",
+  "status": "provisório",
+  "fontes": [
+   "B019"
+  ],
+  "chave": "arquitetos universais",
+  "occ": 5,
+  "maxline": 75,
+  "declared": true,
+  "fam": "D.só-estrutural(listas/sumários/hard-wrap)",
+  "alias": ""
+ },
+ {
+  "cod": "RC-540",
+  "nome": "Molécula-mãe (ancestral comum da vida terrestre)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "provisório",
+  "fontes": [
+   "B019",
+   "P2024-11-30",
+   "P2024-11-09",
+   "P2020-09-19",
+   "P2021-03-13"
+  ],
+  "chave": "molecula-mae",
+  "occ": 142,
+  "maxline": 1689,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-542",
+  "nome": "Ex-DNA-lixo (DNA não codificante reinterpretado)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "provisório",
+  "fontes": [
+   "B019",
+   "P2025-03-15",
+   "P2025-02-15",
+   "P2024-11-30"
+  ],
+  "chave": "ex-dna-lixo",
+  "occ": 8,
+  "maxline": 1747,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-546",
+  "nome": "Primado da Consciência Criativa (Goswami)",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "provisório",
+  "fontes": [
+   "B019",
+   "P2025-03-15",
+   "P2025-02-15",
+   "P2020-08-08",
+   "P2023-12-03"
+  ],
+  "chave": "primado da consciencia criativa",
+  "occ": 2,
+  "maxline": 152,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-547",
+  "nome": "Evolução Criativa (hipótese consciencial)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "provisório",
+  "fontes": [
+   "B019"
+  ],
+  "chave": "evolucao criativa",
+  "occ": 14,
+  "maxline": 9743,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-838",
+  "nome": "Satchidanandaghana (super código genômico do Projeto TALM)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2024-06-16"
+  ],
+  "chave": "satchidanandaghana",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-839",
+  "nome": "Oxitocina (hormônio do bem — base bioquímica da Karuna)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2024-06-16"
+  ],
+  "chave": "oxitocina",
+  "occ": 80,
+  "maxline": 95268,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-840",
+  "nome": "Kleśas (cinco entraves mentais ao progresso humano)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "candidato",
+  "fontes": [
+   "P2024-06-16"
+  ],
+  "chave": "klesas",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-857",
+  "nome": "Elo Adâmico (o gene que Javé pôs em Adão)",
+  "sub": "6.2 Linhagens humanas",
+  "status": "candidato",
+  "fontes": [
+   "P2023-02-12",
+   "P2023-02-11"
+  ],
+  "chave": "elo adamico",
+  "occ": 2,
+  "maxline": 12569,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-861",
+  "nome": "Extísicos (seres do universo vizinho, não biológicos, compostos de plasma)",
+  "sub": "1.3 Extraterrestres / Raças cósmicas",
+  "status": "candidato",
+  "fontes": [
+   "P2023-02-11"
+  ],
+  "chave": "extisicos",
+  "occ": 1,
+  "maxline": 20468,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-864",
+  "nome": "DNA Neutralizado (código neutralizado de podridão do criador)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2022-12-03"
+  ],
+  "chave": "dna neutralizado",
+  "occ": 1,
+  "maxline": 22374,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-866",
+  "nome": "Guardadores de Lixo Memorial (os humanos como hospedeiros da sujeira)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "candidato",
+  "fontes": [
+   "P2022-12-03"
+  ],
+  "chave": "guardadores de lixo memorial",
+  "occ": 1,
+  "maxline": 15572,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-867",
+  "nome": "Choque de Realidade (o perpétuo espanto dos donos da verdade)",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "candidato",
+  "fontes": [
+   "P2022-11-26"
+  ],
+  "chave": "choque de realidade",
+  "occ": 59,
+  "maxline": 99424,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": "RC-898"
+ },
+ {
+  "cod": "RC-868",
+  "nome": "Genoma da Dignidade (o código esquecido na criação)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2022-11-26"
+  ],
+  "chave": "genoma da dignidade",
+  "occ": 1,
+  "maxline": 87073,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-869",
+  "nome": "Mentalidade Comum (o contágio do rebanho)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "candidato",
+  "fontes": [
+   "P2022-11-26"
+  ],
+  "chave": "mentalidade comum",
+  "occ": 3,
+  "maxline": 87073,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-873",
+  "nome": "Sinarquia Cósmica (o governo dos sábios)",
+  "sub": "2.2 Leis e princípios cósmicos",
+  "status": "candidato",
+  "fontes": [
+   "P2022-07-16"
+  ],
+  "chave": "sinarquia cosmica",
+  "occ": 1,
+  "maxline": 11092,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-874",
+  "nome": "Transumanismo (o ponto de reencontro: IA humanizada e o novo batimento)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "candidato",
+  "fontes": [
+   "P2026-03-21"
+  ],
+  "chave": "transumanismo",
+  "occ": 53,
+  "maxline": 95159,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-875",
+  "nome": "Dhanvantari (o médico dos devas: Amrita e a Ayurveda cósmica)",
+  "sub": "1.1 Divindades / Criadores",
+  "status": "candidato",
+  "fontes": [
+   "P2026-03-21"
+  ],
+  "chave": "dhanvantari",
+  "occ": 4,
+  "maxline": 5270,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-876",
+  "nome": "Atos performativos (as frases que fazem coisas com palavras)",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-02-28"
+  ],
+  "chave": "atos performativos",
+  "occ": 2,
+  "maxline": 33954,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-877",
+  "nome": "Carga virótica (a materialização da primeira carga mental do criador)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-02-28"
+  ],
+  "chave": "carga virotica",
+  "occ": 3,
+  "maxline": 33954,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-878",
+  "nome": "Disforia de gênio (a confiança ilimitada na pretensa capacidade)",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-02-28"
+  ],
+  "chave": "disforia de genio",
+  "occ": 9,
+  "maxline": 92291,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-879",
+  "nome": "Biocosmos emergente (a nova mente biológica global ancorada nos campos mórficos)",
+  "sub": "2.5 Propósitos / Destinos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-02-28"
+  ],
+  "chave": "biocosmos emergente",
+  "occ": 54,
+  "maxline": 102695,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-880",
+  "nome": "Maestria existencial (o valor repousado no modo como se vive)",
+  "sub": "2.6 Ética / Carma / Compromissos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-02-28"
+  ],
+  "chave": "maestria existencial",
+  "occ": 1,
+  "maxline": 13801,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-881",
+  "nome": "O Tal (Tao) (a via de ressignificação que faz da podridão da criação alimento)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "candidato",
+  "fontes": [
+   "P2021-04-10"
+  ],
+  "chave": "tal",
+  "occ": 11188,
+  "maxline": 112921,
+  "declared": false,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-882",
+  "nome": "Fator Javé (o marco operacional do fim da atuação como médium passivo)",
+  "sub": "4.2 Fenômenos espirituais / mediúnicos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-04-10"
+  ],
+  "chave": "fator jave",
+  "occ": 19,
+  "maxline": 84063,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-883",
+  "nome": "Rara (o ser de energia tamásica criado por Chiva para o sacrifício final; indestrutível)",
+  "sub": "1.7 Híbridos / Seres de transição",
+  "status": "candidato",
+  "fontes": [
+   "P2021-06-26"
+  ],
+  "chave": "rara",
+  "occ": 1197,
+  "maxline": 112921,
+  "declared": false,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-884",
+  "nome": "Bemisia tabaci / Mosca branca (a praga que incorporou um gene vegetal; metáfora do humano que domou o gene demo)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-06-26"
+  ],
+  "chave": "bemisia tabaci",
+  "occ": 1,
+  "maxline": 640,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-885",
+  "nome": "Savant (a genialidade preservada além do autismo num grau; figura útil no final)",
+  "sub": "4.1 Processos biológicos / genéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-06-26"
+  ],
+  "chave": "savant",
+  "occ": 18,
+  "maxline": 4213,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-886",
+  "nome": "Campo de Higgs (o campo de força mental de Mavatma que definiu o limite velocidade-da-luz)",
+  "sub": "4.4 Fenômenos físicos / energéticos",
+  "status": "candidato",
+  "fontes": [
+   "P2021-06-26"
+  ],
+  "chave": "campo de higgs",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-888",
+  "nome": "Elelev / Eleleth (o grande anjo da revelação gnóstica que respondeu à busca de Noreia, indicando a incorruptibilidade Sofia/Pistes no interior dos domínios ilimitados)",
+  "sub": "1.4 Anjos / Arcanjos / Querubins",
+  "status": "candidato",
+  "fontes": [
+   "P2022-09-17"
+  ],
+  "chave": "elelev",
+  "occ": 1,
+  "maxline": 13896,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ },
+ {
+  "cod": "RC-930",
+  "nome": "IEEA (Instituto de Estudos Estratégicos e Alternativos)",
+  "sub": "3.3 Localidades terrestres",
+  "status": "candidato",
+  "fontes": [
+   "P2025-06-14",
+   "B016",
+   "P2024-11-30"
+  ],
+  "chave": "ieea",
+  "occ": 281,
+  "maxline": 1209,
+  "declared": true,
+  "fam": "F.nome-ambíguo",
+  "alias": ""
+ },
+ {
+  "cod": "RC-931",
+  "nome": "Nuctemeron",
+  "sub": "5.4 Escrituras / Objetos documentais",
+  "status": "candidato",
+  "fontes": [
+   "B016",
+   "P2024-11-03"
+  ],
+  "chave": "nuctemeron",
+  "occ": 15,
+  "maxline": 5922,
+  "declared": true,
+  "fam": "B.prosa-citável-na-fonte-declarada",
+  "alias": ""
+ },
+ {
+  "cod": "RC-932",
+  "nome": "Cidades Sagradas do Hiperbóreo",
+  "sub": "3.3 Localidades terrestres",
+  "status": "candidato",
+  "fontes": [
+   "P2024-03-17",
+   "P2018-12-15"
+  ],
+  "chave": "cidades sagradas do hiperboreo",
+  "occ": 0,
+  "maxline": 0,
+  "declared": false,
+  "fam": "E.não-achado-no-corpus",
+  "alias": ""
+ },
+ {
+  "cod": "RC-933",
+  "nome": "Revelação Psíquica (Kapila — escola Samkhya)",
+  "sub": "2.4 Espiritualidade / Doutrina",
+  "status": "candidato",
+  "fontes": [
+   "P2024-11-30",
+   "P2023-06-25",
+   "P2024-08-03"
+  ],
+  "chave": "revelacao psiquica",
+  "occ": 17,
+  "maxline": 104568,
+  "declared": false,
+  "fam": "C.prosa-fora-das-fontes-declaradas",
+  "alias": ""
+ }
+]
