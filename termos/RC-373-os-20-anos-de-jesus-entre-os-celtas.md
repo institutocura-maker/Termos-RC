@@ -4,11 +4,11 @@ codigo = "RC-373"
 nome = "Os 20 Anos de Jesus entre os Celtas"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["B043"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-12"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Os 20 Anos de Jesus entre os Celtas — RC-373
 

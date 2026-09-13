@@ -4,11 +4,11 @@ codigo = "RC-280"
 nome = "Sophia e a Ressurreição de Jesus"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["B014", "P2025-02-15", "P2024-11-30", "P2023-06-03", "P2023-04-15", "P2023-04-01", "P2023-04-29", "P2023-12-03", "P2025-05-10", "P2023-12-25-03"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Sophia e a Ressurreição de Jesus — RC-280
 

@@ -1,0 +1,28 @@
+{
+ "unidade": "U39",
+ "data": "2026-09-13",
+ "tipo": "leva P7o aplicada (parcial por trava, regime P7m/n) — última da fila de temas",
+ "aplicados": [
+  "RC-062",
+  "RC-280",
+  "RC-373",
+  "RC-652",
+  "RC-660",
+  "RC-673",
+  "RC-737",
+  "RC-741",
+  "RC-750"
+ ],
+ "suspensos": [
+  "RC-090",
+  "RC-227",
+  "RC-318",
+  "RC-347",
+  "RC-348",
+  "RC-360",
+  "RC-364"
+ ],
+ "entrada": "REGISTRO-LIMPEZA nº 28 (sha b6767261a158…)",
+ "status_base": "60⚪/236🟡/102🟠/548🟢",
+ "marco": "fila de temas da Auditoria ENCERRADA; frente seguinte = exploração do gap (R1–R4 do dossiê U38)"
+}

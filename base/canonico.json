@@ -1889,7 +1889,7 @@
    "nome": "Experiência Gron",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B031",
     "P2018-12-15"
@@ -1901,8 +1901,8 @@
     "RC-068"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-063",
@@ -7313,7 +7313,7 @@
    "nome": "Sophia e a Ressurreição de Jesus",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B014",
     "P2025-02-15",
@@ -7335,8 +7335,8 @@
     "RC-770"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-281",
@@ -9455,7 +9455,7 @@
    "nome": "Os 20 Anos de Jesus entre os Celtas",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B043"
    ],
@@ -9466,8 +9466,8 @@
     "RC-094"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-374",
@@ -16114,7 +16114,7 @@
    "nome": "Últimas Ordens de Javé aos Clones",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2025-10-25",
     "P2025-06-26",
@@ -16127,8 +16127,8 @@
     "RC-094"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-653",
@@ -16343,7 +16343,7 @@
    "nome": "Pegadinha de Javé",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2025-06-26"
    ],
@@ -16354,8 +16354,8 @@
     "RC-662"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-661",
@@ -16648,7 +16648,7 @@
    "nome": "Intercessão de Enoque pelos Anunnaki",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2025-05-31",
     "P2023-12-02",
@@ -16662,8 +16662,8 @@
     "RC-580"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-674",
@@ -18307,7 +18307,7 @@
    "nome": "Projeto Amaterasu–Kami no Japão",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2024-09-29"
    ],
@@ -18322,8 +18322,8 @@
     "RC-740"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-738",
@@ -18394,7 +18394,7 @@
    "nome": "Projeto Orunmilá–Olodus",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2024-09-29",
     "P2025-11-29",
@@ -18412,8 +18412,8 @@
     "RC-736"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-742",
@@ -18595,7 +18595,7 @@
    "nome": "Moisés e o Êxodo (leitura RC)",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2024-04-13"
    ],
@@ -18607,8 +18607,8 @@
     "RC-683"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-751",

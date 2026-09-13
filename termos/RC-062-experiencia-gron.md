@@ -4,11 +4,11 @@ codigo = "RC-062"
 nome = "Experiência Gron"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["B031", "P2018-12-15"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-09-05"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Experiência Gron — RC-062
 

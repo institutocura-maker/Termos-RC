@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-13",
+ "numero": 28,
+ "tipo": "EXECUÇÃO — P7-7.5-missoes RETORNO de chancela (9 aplicados, 7 chancelados-suspensos)",
+ "contexto": "Devolução do Curador via GitHub com V nos 16 (OBS SEM FICHA preservadas em 7). Leva P7o: 9 termos → verificado (cadastro + frontmatter fm_toml; corpo intacto; RELACOES intocado). Os 7 sem ficha entraram no HOLD — fila de temas da Auditoria ENCERRADA com esta leva.",
+ "regra": "EXPURGAR-SÓ-CANONIZADO: sha256 conferido antes de remover da caixa.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/P7-7.5-missoes_retorno.csv",
+   "bytes": 2119,
+   "sha256": "b6767261a1582f772a2857f05807f2b6873fc9a10269ff47b0752c0ba9e14de3",
+   "destino": "chancela/P7-7.5-missoes_retorno.csv"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/P7-7.5-missoes_retorno.csv"
+ ],
+ "aptos_para_ordem_de_remocao": [],
+ "observacao": "HOLD total: 40 linhas-parse (25 suspensos com V das levas m/n/o)."
+}

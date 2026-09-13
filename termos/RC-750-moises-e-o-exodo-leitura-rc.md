@@ -4,11 +4,11 @@ codigo = "RC-750"
 nome = "Moisés e o Êxodo (leitura RC)"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["P2024-04-13"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-17"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Moisés e o Êxodo (leitura RC) — RC-750
 

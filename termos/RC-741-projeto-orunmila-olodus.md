@@ -4,11 +4,11 @@ codigo = "RC-741"
 nome = "Projeto Orunmilá–Olodus"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["P2024-09-29", "P2025-11-29", "P2025-07-18"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-18"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Projeto Orunmilá–Olodus — RC-741
 

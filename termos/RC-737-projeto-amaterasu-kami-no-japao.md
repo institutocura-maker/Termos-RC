@@ -4,11 +4,11 @@ codigo = "RC-737"
 nome = "Projeto Amaterasu–Kami no Japão"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["P2024-09-29"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-16"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Projeto Amaterasu–Kami no Japão — RC-737
 

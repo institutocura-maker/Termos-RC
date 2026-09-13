@@ -4,11 +4,11 @@ codigo = "RC-660"
 nome = "Pegadinha de Javé"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["P2025-06-26"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-15"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Pegadinha de Javé — RC-660
 

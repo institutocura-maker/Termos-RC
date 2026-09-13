@@ -4,11 +4,11 @@ codigo = "RC-652"
 nome = "Últimas Ordens de Javé aos Clones"
 categoria = "Eventos & Eras"
 subcategoria = "7.5 Missões / Expedições / Encontros"
-status = "em análise"
+status = "verificado"
 fontes = ["P2025-10-25", "P2025-06-26", "P2024-06-16"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-15"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Últimas Ordens de Javé aos Clones — RC-652
 
