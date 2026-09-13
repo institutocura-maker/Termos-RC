@@ -2256,3 +2256,30 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
 1. **Fichas:** RC-011 (B031 verbete gênero + B022 + B024 N5 + P2021-12-04/STT; censo vive em RC-411); RC-014 (B031 queda/prisão + B022 pós-mergulho + B016 demos puros + B044 Javé-Adhydaiva/Adhyatman-em-coma + P2025-02-16/P2024-05-04); RC-016 (B031 base sacrificial + B016 + B024 Vishnu/Mohen-So + P2025-02-16/P2020-05-09 STT adiágena/P2024-05-04; B022/B024/P2024-05-04 não constavam); RC-033 (B031 o-mundo + B013 Vyasa + P2025-03-15 índice-IA). Família Adhy completa no corpus.
 2. **Governanças:** RC-104 (Sem materializar 014/135 → 014 por despacho); RC-426 (a partir desta fonte → 016 de outras fontes). RC-075/135 já tinham ficha (notas 167/104 corrigidas). Espelhos: 7 fichas (037/038/091/104/167/260/426) + 3 verbetes (047/426/260). V-RC308 sem alteração (309 ≠ nosso escopo).
 3. Verificador OK; ÍNDICE + 4 espelhos regen.
+
+## 13/09/2026 — U41 (Agente 26): ROTA R1 DO GAP — os 8 «suspenso-B» materializados · Base 946/681/1887
+
+1. **Despacho:** Curador abriu pela **R1** entre R1–R4 (dossiê `diagnostico/CENSO-GAP-FICHAS-2026-09-13.md`, U38).
+   Escopo = os 8 dos 25 chancelados-e-suspensos das levas P7m/n/o que caem na família **B** (prosa citável na fonte
+   declarada): RC-027 · RC-030 · RC-050 · RC-051 · RC-090 · RC-097 · RC-100 · RC-304.
+2. **Método:** garimpo nas fontes declaradas (B031/B021/B003 e as palestras), sentença-a-sentença; cada citação é um
+   **fragmento verbatim intra-linha** com assert de byte a byte contra o `original.txt` (portão B) — 31 fragmentos,
+   0 falhas. Dois erros meus de transcrição foram presos pelo assert ANTES de qualquer arquivo nascer (B031 L3182
+   fecha `…multiplicação).`; a citação de P2024-11-09 está na L85, não na L1).
+3. **Achado de método (importante para o Curador):** TODOS os livros do corpus são hard-wrapped — B031 = 92 chars na
+   maior linha · B021 = 106 · B026 = 109 · B003 = 111 · B024 = 100 · B006 = 169. Em 7 dos 8 casos **nenhuma sentença
+   inteira coube numa linha**; valeu a política 2.3 da casa (trecho literal + apontador do bloco-fonte). As fontes
+   orais (P###) são linha única de STT → admitem sentença inteira, mas com a degradação da transcrição.
+   **Conclusão: R1 não dispensa o refinamento R2.**
+4. **Cadastro:** 8 linhas viradas na região `TERMOS` (`ficha=False→True`, `P → verificado` = V aplicado).
+   `RELACOES` intocado (1887; 0 arestas abertas/fechadas/reeetiquetadas). Frontmatter sempre por `motor.fm_toml`.
+5. **Provas:** suíte 21/21 (T13 681 · T14 0 divergentes · T15 681/0) · verificador 946/681/1887 ·
+   5 builds na ordem (indice → json → xlsx → word → readme). Status **60⚪/228🟡/102🟠/556🟢** · gap **273 → 265** ·
+   suspensos no HOLD **25 → 17**.
+6. **HOLD:** 8 desfechos lavrados (nada deletado). Reparo declarado: o `motivo` de RC-090 estava partido por um `;`
+   interno herdado das levas anteriores → recomposto com `,` (linha devolvida a 4 colunas). Fins de linha originais
+   preservados (o arquivo está misto: 28 CRLF + 13 LF — higiene futura, não mexer sem despacho).
+7. **Artefatos:** `diagnostico/CERTIDAO-U41-R1-MATERIALIZACAO-8-2026-09-13.md` + `U41-R1-MATERIALIZACAO-2026-09-13.json`
+   + registro executável `ferramentas/u41_materializar_r1.py` (`--dry` confere sem escrever).
+8. **Próximo:** restam **63 códigos na família B** (71 − 8), mesmíssimo procedimento, ranqueados por ocorrências no
+   censo; R2 (D, 104) · R3 (E, 40) · R4 (A, 6) seguem intactas e independentes.

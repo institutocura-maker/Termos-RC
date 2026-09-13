@@ -1,0 +1,157 @@
+{
+ "unidade": "U41",
+ "data": "2026-09-13",
+ "agente": "Agente 26",
+ "tipo": "rota R1 do dossiê do gap — materialização dos 8 suspenso-B + V aplicado",
+ "despacho": "Curador escolheu R1 entre R1/R2/R3/R4 (13/09/2026)",
+ "escopo": "os 8 dos 25 chancelados-e-suspensos das levas P7m/n/o classificados na família B (prosa citável na fonte declarada)",
+ "fichas": {
+  "RC-027": {
+   "nome": "Astréia",
+   "leva": "P7m",
+   "arquivo": "termos/RC-027-astreia.md",
+   "fragmentos": 2,
+   "cit": [
+    "B031 L3156",
+    "P2023-05-21 L22"
+   ]
+  },
+  "RC-030": {
+   "nome": "Atlantes",
+   "leva": "P7m",
+   "arquivo": "termos/RC-030-atlantes.md",
+   "fragmentos": 3,
+   "cit": [
+    "B031 L3177",
+    "B031 L3178",
+    "B031 L3182"
+   ]
+  },
+  "RC-050": {
+   "nome": "Demônios",
+   "leva": "P7m",
+   "arquivo": "termos/RC-050-demonios.md",
+   "fragmentos": 3,
+   "cit": [
+    "B031 L266",
+    "B031 L267",
+    "B031 L674"
+   ]
+  },
+  "RC-051": {
+   "nome": "Despina",
+   "leva": "P7m",
+   "arquivo": "termos/RC-051-despina.md",
+   "fragmentos": 4,
+   "cit": [
+    "B031 L3336",
+    "B031 L3337",
+    "B031 L3342",
+    "B031 L3908"
+   ]
+  },
+  "RC-090": {
+   "nome": "Projeto Planeta Azul",
+   "leva": "P7o",
+   "arquivo": "termos/RC-090-projeto-planeta-azul.md",
+   "fragmentos": 4,
+   "cit": [
+    "B031 L3692",
+    "B031 L1846",
+    "B031 L1865",
+    "B003 L477"
+   ]
+  },
+  "RC-097": {
+   "nome": "Seres Extrafísicos",
+   "leva": "P7m",
+   "arquivo": "termos/RC-097-seres-extrafisicos.md",
+   "fragmentos": 5,
+   "cit": [
+    "B031 L664",
+    "B031 L665",
+    "B031 L666",
+    "B031 L667",
+    "B031 L673"
+   ]
+  },
+  "RC-100": {
+   "nome": "Seres Espirituais",
+   "leva": "P7n",
+   "arquivo": "termos/RC-100-seres-espirituais.md",
+   "fragmentos": 5,
+   "cit": [
+    "B031 L3798",
+    "B031 L640",
+    "B031 L641",
+    "B031 L3803",
+    "B031 L3805"
+   ]
+  },
+  "RC-304": {
+   "nome": "Deucalião",
+   "leva": "P7m",
+   "arquivo": "termos/RC-304-deucaliao.md",
+   "fragmentos": 5,
+   "cit": [
+    "B021 L4434",
+    "B021 L4435",
+    "B021 L4433",
+    "B021 L5259",
+    "P2024-11-09 L85"
+   ]
+  }
+ },
+ "portao_B": {
+  "fragmentos_conferidos": 31,
+  "falhas": 0,
+  "erros_de_transcricao_presos_antes_da_escrita": [
+   "B031 L3182: fecho real '…multiplicação).' (eu havia digitado '…multiplicação.')",
+   "P2024-11-09: sentença está na L85, não na L1"
+  ]
+ },
+ "achado_de_metodo": "todos os livros do corpus são hard-wrapped (B031=92 chars na maior linha); em 7 dos 8 casos nenhuma sentença inteira coube numa linha — aplicada a política 2.3 (trecho literal + apontador do bloco-fonte). R1 não dispensa R2",
+ "cadastro": {
+  "linhas_viradas": 8,
+  "regiao": "TERMOS",
+  "ficha": "False→True",
+  "status": "provisório→verificado"
+ },
+ "relacoes": {
+  "antes": 1887,
+  "depois": 1887,
+  "arestas_abertas": 0,
+  "arestas_reeetiquetadas": 0
+ },
+ "provas": {
+  "suite": "21/21 verdes",
+  "T13": "681 fichas com frontmatter",
+  "T14": "0 divergentes",
+  "T15": "681 conferidas · 0 divergentes",
+  "verificar_verbetes": "946 termos · 681 fichas · 1887 relações",
+  "builds": [
+   "build_indice",
+   "exportar_json",
+   "build_xlsx",
+   "build_word",
+   "build_readme"
+  ]
+ },
+ "hold": {
+  "desfechos_lavrados": 8,
+  "linhas_alteradas_no_arquivo": 8,
+  "reparo_declarado": "RC-090: campo motivo partido por ';' interno herdado — recomposto com ',' (4 colunas)",
+  "preservado": "fins de linha originais (arquivo misto: 28 CRLF + 13 LF)"
+ },
+ "status_base": "60⚪/228🟡/102🟠/556🟢",
+ "gap": {
+  "antes": 273,
+  "depois": 265,
+  "suspensos_no_hold": {
+   "antes": 25,
+   "depois": 17
+  }
+ },
+ "registro_executavel": "ferramentas/u41_materializar_r1.py (--dry confere sem escrever)",
+ "proximo_sugerido": "63 códigos restantes na família B (mesmo procedimento) · R2 (D) · R3 (E) · R4 (A)"
+}

@@ -916,7 +916,7 @@
    "nome": "Astréia",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B060",
@@ -927,9 +927,9 @@
     "RC-047",
     "RC-101"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-028",
@@ -978,7 +978,7 @@
    "nome": "Atlantes",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031"
    ],
@@ -989,9 +989,9 @@
     "RC-022",
     "RC-023"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-031",
@@ -1586,7 +1586,7 @@
    "nome": "Demônios",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "P2025-06-26"
@@ -1596,16 +1596,16 @@
     "RC-045",
     "RC-078"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-051",
    "nome": "Despina",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B060",
@@ -1615,9 +1615,9 @@
     "RC-112",
     "RC-047"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-052",
@@ -2711,7 +2711,7 @@
    "nome": "Projeto Planeta Azul",
    "categoria": "Eventos & Eras",
    "subcategoria": "7.5 Missões / Expedições / Encontros",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B003",
@@ -2722,9 +2722,9 @@
     "RC-106",
     "RC-094"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-091",
@@ -2977,7 +2977,7 @@
    "nome": "Seres Extrafísicos",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "P2020-04-04"
@@ -2990,9 +2990,9 @@
     "RC-106",
     "RC-149"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-098",
@@ -3060,7 +3060,7 @@
    "nome": "Seres Espirituais",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.8 Consciências coletivas / Logos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B024",
@@ -3078,9 +3078,9 @@
     "RC-012",
     "RC-054"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-101",
@@ -7941,7 +7941,7 @@
    "nome": "Deucalião",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B021",
     "P2024-11-09"
@@ -7951,9 +7951,9 @@
     "RC-301",
     "RC-303"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-305",
