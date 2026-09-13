@@ -80,3 +80,7 @@ Metáfora de comando — **leitura do autor**, não zoologia social validada.
 
 - **Elohim = colmeia de Javé:** "Elohim era um sistema que funcionava de Javé para os seus anjos clones, do jeito que uma abelha rainha e as suas abelhas operárias compõem uma colmeia... era um grupo de seres com alfa mandando e o resto obedecendo" (RC-004 Elohim — nova aresta RC-004 ↔ RC-175);
 - Reforça o modelo colmeico como estrutura de comando de Javé (contraste com os Sethianos Emancipados, RC-766).
+
+
+## Citações-chave
+> "A pergunta que se impõe para análise é: o que o atual nível da condição humana poderia saber sobre a “DRAMÁTICA COLMEIA DESENCANTADA” da qual ela faz parte, ainda que, na atualidade, tanto a “Abelha-rainha” (Javé) quanto os espécimes da mesma (as “criaturas- ferramentas” humanas) se viram desenquadrados em relação à função genética que antes os moviam, levando-se também em conta que o Criador não tem a mais remota consciência do que está havendo com a sua condição pessoal? Que choque foi esse? Antes, a “Abelha-rainha” mandava em tudo e em todos, e as criaturas obedeciam." — B044

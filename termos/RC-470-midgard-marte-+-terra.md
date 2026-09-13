@@ -65,3 +65,7 @@ A identificação de Midgard com Marte/Terra e a transferência de um eixo cósm
 ## Ampliação — P2024-08-03
 
 - **[P2024-08-03] AE-FD06 — U0375–U0388; U0400–U0404:** Acrescenta Ragnarok como destruição do conglomerado de nove mundos, com Marte/Midgard e portais, somente na interpretação cosmológica de Ellam. Qualquer apoio em John Brandenburg ou hipótese marciana permanece controverso.
+
+
+## Citações-chave
+> "Só quando essa Bifrost era estabelecida, seres dessas comunidades podiam viajar de uma para outra, inclusive vir para a Terra. É isso que a mitologia nórdica descreve. Eles iam para a Terra — mas assim, eles iam para Marte. A mitologia nórdica fala Midgard. Aí a gente joga a Terra como sendo Midgard, mas na época era Marte. Por quê? Porque Marte era o Axis Mundi. Isso acabou. O Axis Mundi passou a ser Naimisha, na Índia." — P2025-02-16

@@ -52,6 +52,10 @@ O Zohar (Livro do Esplendor) é atribuído pela tradição ao rabino Shimon bar 
 | Isaac Luria e o conceito do Tzimtzum | RC-267 | relaciona-se-a |
 | Gnosticismo (contraponto à Cabala) | RC-268 | associado |
 
+## Citações-chave
+> "Na verdade, se juntarmos essas “moradas” do universo paralelo – capazes de entenderem minimamente o que está sendo resgatado desse passado antes oculto para o entendimento humano – com as civilizações deste universo biológico que também acompanham e aguardam o momento da “Reintegração Cósmica da Terra”, a quantidade de “mundos” que têm acompanhado os temas colecionados pelos estudos estratégicos dos institutos vinculados a estes livros que produzo, é muito, mais muito superior ao apontado pelo “Sepher ha-Zohar” . POR QUE O “MENSAGEIRO” FOI ANUNCIADO? Nas intrigas da época, o que se encontrava e ainda se encontra em “jogo” é o domínio sobre o planeta Terra, objetivo maior de Javé e de outros que o confrontavam. Nesse contexto, o seu “desígnio” apontava para a construção de um outro “pacto” entre ele e o “escriba inicial” da “Revelação Cósmica”, para que este o ratificasse como “Deus Todo-Poderoso”, “Criador dos Céus e da Terra”, conforme registrado nas escrituras do judaísmo. Contudo, pela primeira vez, uma criatura humana se recusou a ser submissa à vontade deste Ser, e o “pacto” não foi firmado, ainda que não se negue o reconhecimento do fato de que ele é efetivamente o “caído” Criador da Realidade na qual vivemos." — B013, p. 5
+
+
 ## Observações
 
 Quarentena teológica — leitura do autor; STT Bariokai normalizado.

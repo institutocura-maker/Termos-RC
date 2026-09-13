@@ -38,6 +38,10 @@ Patriarca pós-diluviano da linhagem hebraica: filho de Salé, neto de Arfaxad, 
 | Vyasa | RC-585 | ← encarnação-posterior-de |
 | Melquizedec | RC-650 | associado-a (cita RC-436) |
 
+## Citações-chave
+> "Heber resolveu não poupar o patriarca de algum possível desagrado, e ressaltou, ponto por ponto, todo o conjunto desconcertante de informações que ele havia colecionado quando do seu contato com Despina. O relato de Heber muito contrariou o patriarca, e o fez ficar de pé em alguns momentos. Indefinição do Criador quanto à Sua forma de ser; o modelo de conduta que Ele queria dos humanos e não conseguira obter; a escolha da linhagem de Adão para a construção desse modelo, associado ainda à questão de que os humanos eram o que a semente do Criador neles existente os impelia a ser — eram tão perturbadores os conceitos que o patriarca escutava de Heber, que o fizeram, em uma das ocasiões em que estava de pé, de costas para o grupo e olhando para a parede da caverna, levantar uma das mãos pedindo uma pausa para confessar que, com ele, estava se dando o mesmo atordoamento descrito por Heber, o que o fazia perder parte da narrativa enquanto procurava organizar as ideias em torno daquelas notícias. — Acreditamos que todos os seres que existem vieram do Criador, inclusive esse ser... Esse ser que parece ser uma senhora, apesar de ter lhe dito que não era nem macho nem fêmea, veio também do Criador, nisso acredito, pois ele me disse: eu sou pai e criador de todos os seres que existem; contudo, não me comprazo com todos, pois muitos se corromperam." — B052
+
+
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5c, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. B052 é romance do autor — a genealogia acima é a dramatizada na obra (convergente com a bíblica: Noé–Sem–Arfaxad–Salé–Heber–Faleg). O drama de Faleg (maldição e interrupção da linhagem) vive em RC-437, não duplicado aqui.

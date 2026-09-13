@@ -50,3 +50,7 @@ Verbete exigido pela seção IV.17.4 da Enciclopédia (Pandora, o Éden e as hib
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-118.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "Foram os 9 Val que começaram a operar fora das naves, e que morreram logo na primeira experiência há aproximadamente há 599 mil anos atrás. Estes passaram a ser chamados de “Os 9 Val dos Corpos Perdidos”. Também foram chamados de Val Dimensionados, pois “estranhamente” as suas consciências passaram a habitar uma nova dimensão a qual chamaram de Val-Ha. Passaram a se comunicar com os demais da Família Val através do Processador Val. Os 9 Val dos Corpos Perdidos ou Dimensionados eram: Val Sean, Val Sion, Val Den, Val Dimon, Val Bon, Val Antien, Val Anen, Val Am e Val Aten. Val Ean: Biodemo da Família Val. Foi dotado de senso prático, de visão estratégica singular e de grande conhecimento na área da navegação aérea. Val El ou Val Ellam: Biodemo da Família Val que teve (e tem) papel preponderante nos desdobramentos da história da Revelação Cósmica. Foi urgido no Sistema de Capela, dentro de uma das 3 naves da Família Val (Espherian, Asphezian e Espheron), há aproximadamente 230 milhões de anos. Vivia com os demais 735 membros de sua família, mais especificamente no planeta Zian, onde os 736 indivíduos se dedicavam à arte da codificação cósmica." — B031, p. 11

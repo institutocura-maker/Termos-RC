@@ -37,6 +37,10 @@ Nome sânscrito do universo material — "o mundo" (B031): o universo que habita
 | Fonte da Vida (metáfora da ilha/oceano) | RC-356 | associado |
 | Cartas a Javé (obra e diálogo) | RC-416 | ← baseada-em |
 
+## Citações-chave
+> "Nome do projeto de transferência do código de vida (“DNA”) do Criador “caído”, do Brahmaloka (universo antimaterial onde vivem os demos) para o Bhuloka (universo material onde vivem os seres biológicos de “vida curta”). Em outras palavras, foi um projeto edificado pelos “Senhores da Trimurti” – Brahma, Vishnu e Shiva –, que conseguiu trazer o “código da vida” do universo antimaterial para o de ordem material e biológica, onde vivemos. ◆ ◆ ◆ Quarto Logos: Seu nome é “Olm”, porém é mais conhecido como o Codificador de Zian (ou Zion). “Mergulhou” de Perpérion (faixa de espiritualidade dentro da Espiritualidade Laboratorial) diretamente para o nosso universo biológico (Bhuloka). Ele foi o único dos quatro Logos que não mergulhou no universo antimaterial (Brahmaloka), podendo criar um “DNA” ou CFD (Código Fonte Definidor) próprio, livre da programação existencial gerada pelo primeiro Logos, o que o diferencia dos outros três Logos.  Surgiu no forno de Vishnu, Awaymaion, e depois apareceu na nave Asphezian no Sistema de Capela, passando a dar assessoria a Sophia. Teve uma única encarnação terrena como “Apolônio de Tiana”, há aproximadamente 2.000 anos, sendo contemporâneo de Jesus Cristo." — B031, p. 11
+
+
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5e — lote Adhy, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. O registro P2025-03-15 existe no acervo como índice de estudo (IA), não como transcrição — citado com essa ressalva (idem RC-038).

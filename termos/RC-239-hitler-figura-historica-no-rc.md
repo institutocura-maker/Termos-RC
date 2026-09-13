@@ -28,6 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2018-12-16 — Terra Atlantis - Era Sapiens` (16/12/2018). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Citações-chave
+> "Ainda assim, assustava-me um pouco – o confesso – o último aspeto das notícias de Val Eno sobre o elo entre Len  Mion e Hitler, o que corresponderia ao “final da trilogia”, aspeto do qual sempre procurei fugir, porque, à exceção de Val Eno, os demais personagens eram-me profundamente desagradáveis. Além do que, eu já havia mesmo construído a minha quota de inevitáveis preconceitos em relação a todos eles, notadamente a Hitler e a Javé, por questões obviamente bem distintas. Para piorar o contexto informativo, Val Eno  explicou-me, com o máximo de informações que dispunha, sobre de que modo Len Mion utilizou -se de Hitler para usar a humanidade como massa de manobra  para os seus objetivos." — B039
+
+
 ## Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'Rita' / 'Rit' / 'Riti' / 'Rito' = Hitler. Obedecia a uma voz (Lemion) que o conduzia como 'novo Messias' alemão.
