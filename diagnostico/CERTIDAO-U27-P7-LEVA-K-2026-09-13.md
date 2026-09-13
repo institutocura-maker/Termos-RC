@@ -15,4 +15,4 @@ Curador devolveu a proposta com **V nos 27 termos**. Execução:
 
 Fila do tema 4.4: restam 15 candidatos (nova proposta gerada na sequência — U28).
 Nota de rito: o commit principal levou os dados; esta certidão e o ledger saíram em adendo
-porque um script de文档 com truque json quebrado antecedeu a lavragem — sem --amend.
+porque um script de documentação com truque json quebrado antecedeu a lavragem — sem --amend.
