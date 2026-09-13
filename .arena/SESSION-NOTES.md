@@ -2305,3 +2305,29 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
    família B 63→55.
 5. **Próximo lote (ranking):** RC-032 Benem · RC-048 Demiurgo · RC-073 Keshava · RC-123 Val Eno ·
    RC-095 Rogério de Almeida Freitas · RC-438 Tubal · RC-374 Mordon · RC-211 Kundalini.
+
+## 13/09/2026 — U43 (Agente 26): V aplicado ao lote 1 + DESPACHO «presunção de V por fonte de livro»
+
+1. **Despacho do Curador:** «pode aplicar_V em todos os termos [do bloco anterior] e para o próximo também» +
+   pergunta: «o que você acha de considerar V todo termo que teve origem em livro (Bxxx)? Já olhei geral, estão
+   corretos.»
+2. **Parecer dado (favorável, 2 ressalvas + plano de exceções):** livro = lastro forte (só ele permite citação
+   conferida byte a byte; STT degrada nomes) e a própria regra do loader já dá confiança alta a verificado+livro.
+   MAS (i) V chancela IDENTIDADE (nome/grafia/não-colisão), e livro garante LASTRO, não identidade — prova: RC-053
+   Deuses · RC-076 Logos · RC-306 Apolo têm B031 e são família F; os 6 de A e os 40 de E idem; (ii) 🟢 também é
+   afirmação sobre a ficha, e virar regra faz o badge perder poder discriminante. Custo assumido COM REMÉDIO:
+   cada V presuntivo fica marcado no corpo da ficha + certidão do lote (reversível e auditável em bloco).
+3. **Regra lavrada** em `diagnostico/DESPACHO-V-POR-FONTE-DE-LIVRO-2026-09-13.md`: presunção de V para ficha
+   nascida com citação verbatim em obra publicada (B###), com exceções **E1** HOLD ativo · **E2** famílias A/F ·
+   **E3** família E · **E4** colisão Base×fichas viva · **E5** sem ficha (trava §7). O lote declara
+   `aplicar_V: "presuncao-livro"`.
+4. **Guardas instaladas no driver** (`checar_excecoes`), provadas: RC-833 → E1 · RC-053/RC-306 → E1+E2 ·
+   RC-006 → E3. **E4 é viva, não lista estática:** RC-085 e RC-066 constavam das colisões da P5b e, conferidos
+   hoje em todas as fichas/verbetes, usam o nome da Base — lista estática teria barrado 2 termos limpos.
+5. **Execução:** V aplicado aos 8 do lote 1 (RC-108/085/065/066/540/077/044/392), 0 impedimentos; frontmatter
+   regenerado por `motor.fm_toml`; nota «V aplicado (U43)» no corpo. Instrumento novo
+   `ferramentas/aplicar_v.py`. Suíte 21/21 (T13 689 · T14 0 · T15 689/0) · verificador 946/689/1887 · 5 builds.
+   Status **60⚪/220🟡/102🟠/564🟢**.
+6. **Próximo:** lote 2 da B já com `aplicar_V` (RC-032 Benem · RC-048 Demiurgo · RC-073 Keshava · RC-123 Val Eno ·
+   RC-095 Rogério de Almeida Freitas · RC-438 Tubal · RC-374 Mordon · RC-211 Kundalini) — as guardas E1–E5 rodam
+   antes de escrever.

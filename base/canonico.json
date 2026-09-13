@@ -1424,7 +1424,7 @@
    "nome": "Cultura Demo",
    "categoria": "Conceitos Cosmológicos",
    "subcategoria": "2.2 Leis e princípios cósmicos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B044"
@@ -1437,7 +1437,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-045",
@@ -1967,7 +1967,7 @@
    "nome": "Frota Norte",
    "categoria": "Genealogias & Linhagens",
    "subcategoria": "6.3 Dinastias extraterrestres",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B017",
@@ -1980,14 +1980,14 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-066",
    "nome": "Genos",
    "categoria": "Termos Específicos",
    "subcategoria": "8.1 Sânscrito / Hinduísmo",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031"
    ],
@@ -1999,7 +1999,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-067",
@@ -2351,7 +2351,7 @@
    "nome": "Lokas",
    "categoria": "Termos Específicos",
    "subcategoria": "8.1 Sânscrito / Hinduísmo",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B021",
@@ -2364,7 +2364,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-078",
@@ -2553,7 +2553,7 @@
    "nome": "Orbum",
    "categoria": "Lokas & Geografias",
    "subcategoria": "3.1 Planetas / Sistemas estelares",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B042",
@@ -2567,7 +2567,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-086",
@@ -3393,7 +3393,7 @@
    "nome": "Universo Paralelo",
    "categoria": "Conceitos Cosmológicos",
    "subcategoria": "2.3 Dimensões / Planos de existência",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B031",
     "P2025-02-16",
@@ -3408,7 +3408,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-109",
@@ -9890,7 +9890,7 @@
    "nome": "Reforma Íntima (tema do Grupo Atlan)",
    "categoria": "Conceitos Cosmológicos",
    "subcategoria": "2.4 Espiritualidade / Doutrina",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B006",
     "B074",
@@ -9905,7 +9905,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-393",
@@ -13348,7 +13348,7 @@
    "nome": "Molécula-mãe (ancestral comum da vida terrestre)",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.1 Processos biológicos / genéticos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B019",
     "P2024-11-30",
@@ -13363,7 +13363,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-541",

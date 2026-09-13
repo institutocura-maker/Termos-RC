@@ -194,6 +194,55 @@ def corpo(f: dict, termo: tuple, lote: dict) -> str:
     ])
 
 
+# ─────────────────── guardas da presunção de V (DESPACHO-V-POR-FONTE-DE-LIVRO)
+def checar_excecoes(cods: list[str], lote: dict) -> list[str]:
+    """E1–E5 antes de qualquer escrita. Lista de impedimentos (vazia = pode seguir).
+
+    E1 HOLD ativo · E2 famílias A/F · E3 família E · E4 colisão Base×fichas viva.
+    A E4 é viva (conferida no ato), não a lista estática da auditoria P5b.
+    """
+    if not lote.get("aplicar_V"):
+        return []
+    import glob, json as _json, os as _os, unicodedata
+
+    def sa(x):
+        return ''.join(c for c in unicodedata.normalize('NFD', x)
+                       if unicodedata.category(c) != 'Mn').lower()
+
+    T = {t[0]: t for t in _d.TERMOS}
+    hold = set()                                                     # E1
+    with open(_os.path.join(RAIZ, "chancela", "HOLD.csv"), encoding="utf-8-sig") as fh:
+        for ln in fh:
+            campos = ln.rstrip("\r\n").split(";")
+            if campos and campos[0].strip() in T and "DESFECHO" not in ln:
+                hold.add(campos[0].strip())
+    censo = _os.path.join(RAIZ, "diagnostico", "CENSO-GAP-FICHAS-2026-09-13.json")
+    fam = ({c["cod"]: c["fam"] for c in _json.load(open(censo, encoding="utf-8"))}
+           if _os.path.exists(censo) else {})
+    usos = {c: set() for c in cods}                                  # E4
+    for arq in glob.glob(_os.path.join(RAIZ, "termos", "*.md")):
+        with open(arq, encoding="utf-8") as fh:
+            for ln in fh:
+                for c in cods:
+                    if c in ln:
+                        m = re.match(r"^\|\s*([^|]+?)\s*\|\s*" + c + r"\s*\|", ln.strip())
+                        if m:
+                            usos[c].add(sa(m.group(1)))
+    ruins = []
+    for c in cods:
+        if c in hold:
+            ruins.append(f"E1 · {c}: HOLD ativo")
+        f = fam.get(c, "")
+        if f.startswith(("A.", "F.")):
+            ruins.append(f"E2 · {c}: família {f} (ambíguo/alias — qualificar antes)")
+        if f.startswith("E."):
+            ruins.append(f"E3 · {c}: família {f} (não achado no corpus — auditar)")
+        div = sorted(u for u in usos[c] if u != sa(T[c][1]))
+        if div:
+            ruins.append(f"E4 · {c}: colisão Base×fichas — uso divergente {div[:3]}")
+    return ruins
+
+
 # ──────────────────────────────────────────── virada do cadastro (região TERMOS)
 def virar_cadastro(codes: list[str], aplicar_v: bool = False) -> int:
     linhas_arq = open(CADASTRO, encoding="utf-8").read().split("\n")
@@ -238,6 +287,12 @@ def main() -> int:
 
     cods = [f["cod"] for f in lote["fichas"]]
     aplicar_v = bool(lote.get("aplicar_V"))
+    imped = checar_excecoes(cods, lote)
+    if imped:
+        sys.exit("PRESUNÇÃO DE V BLOQUEADA (DESPACHO-V-POR-FONTE-DE-LIVRO):\n  " +
+                 "\n  ".join(imped))
+    print("  guardas E1–E5: 0 impedimentos (presunção de V por fonte de livro)"
+          if lote.get("aplicar_V") else "  guardas E1–E5: não aplicáveis (lote sem V)")
     print(f"\ncadastro: {virar_cadastro(cods, aplicar_v)} linha(s) virada(s) na região TERMOS (ficha False→True" + (" · provisório→verificado — V do Curador)" if aplicar_v else " · status PRESERVADO — sem V)"))
 
     import importlib

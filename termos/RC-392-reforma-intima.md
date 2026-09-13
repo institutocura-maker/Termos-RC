@@ -4,10 +4,10 @@ codigo = "RC-392"
 nome = "Reforma Íntima (tema do Grupo Atlan)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
-status = "provisório"
+status = "verificado"
 fontes = ["B006", "B074", "B075", "P2025-03-15"]
 via = "P6-evidência"
-confianca_fonte = "média"
+confianca_fonte = "alta"
 atualizado = "2026-09-13"
 +++
 # Reforma Íntima (tema do Grupo Atlan) — RC-392
@@ -57,4 +57,4 @@ Na pregação do Grupo Atlan recolhida em B006, o processo de correção de si: 
 
 - O termo é do vocabulário espírita e comparece nas obras de apoio da casa (B006, de teor mediúnico, e B075) — a ficha registra o emprego que elas fazem, sem harmonizá-lo com a dogmática das RC.
 - **Fratura de hard-wrap:** a edição digital das fontes quebra as sentenças em linhas curtas. Cada fragmento entre «» é verbatim **intra-linha**, conferido byte a byte contra o `original.txt` da obra declarada; quando uma sentença foi partida, o seu início e o seu fecho aparecem como fragmentos distintos, com as linhas indicadas. A sentença íntegra só será citável após o refinamento **R2** (reconstrução de parágrafos), previsto no dossiê do gap.
-- **Status de nascença:** 🟡 **provisório** — este código nunca passou por leva de chancela (nenhuma planilha `chancela/P7-*.csv` o contém): a materialização da ficha foi despachada, o **V não**, e marcar 🟢 sem chancela seria autocancela. A ficha segue para a próxima leva de chancela, com as citações já extraídas e conferidas.
+- **V aplicado (U43, 13/09/2026):** despacho do Curador — «pode aplicar_V em todos os termos» deste lote e dos próximos, com a regra de **presunção de V por fonte de livro** (`diagnostico/DESPACHO-V-POR-FONTE-DE-LIVRO-2026-09-13.md`). O 🟢 é aqui **presuntivo**: vem do lastro em obra publicada (fonte `B###` declarada), não de revisão termo a termo — reversível a qualquer tempo. Uso do código conferido em toda a Base: nenhuma colisão Base×fichas viva nos 8.
