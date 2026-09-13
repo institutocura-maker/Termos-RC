@@ -1,0 +1,9 @@
+{
+ "unidade": "U31",
+ "data": "2026-09-13",
+ "arquivo": "chancela/P7-1.5-decaidos.csv",
+ "termos": 18,
+ "candidatos": 18,
+ "sem_ficha": 9,
+ "notas": "geração completa do tema 1.5 numa leva só; aviso de trava §7 na coluna OBS dos 9 sem ficha (ponto-e-vírgula trocado por '·' para não estourar colunas); U32 saneou o cadastro antes; ledger da U31 e espelho faltaram no commit principal (crash de assert) — sanados na U33, sem --amend"
+}
