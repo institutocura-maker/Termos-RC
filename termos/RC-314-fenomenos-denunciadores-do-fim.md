@@ -62,6 +62,10 @@ Ficha baseada em B022 (obra primária) + B035 (título de capítulo). Termo prom
 
 ---
 
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-203** — Fenômenos Denunciadores do Fim (candidato). O cadastro mantém RC-203 (`candidato`, ficha=False) com o mesmo nome como alias à espera — averbado no despacho 2.6, sem fundir nem excluir.
+
 ## Absorção de RC-203 (F045 · 07/09/2026)
 
 O código **RC-203** («Fenômenos Denunciadores do Fim», EVENTOS & ERAS / 7.3, status

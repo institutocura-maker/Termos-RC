@@ -35,4 +35,9 @@ Aberta pelo F043-T3 (despacho de 06/09/2026, §2): expansão limitada aos termos
 | EXT-2024-01-04 — Glossário Krys Amon (OBRA DE APOIO) | verbete «Choque de realidade» | — | paráfrase/definição (fonte secundária) |
 
 
+## Observações
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-898** — Choque de Realidade (em análise). Ficha do Anel C (GKA, EXT-2024-01-04): não fundir com RC-898 (precedente dos anéis); remissiva declarada em 2.6.
+
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-936.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

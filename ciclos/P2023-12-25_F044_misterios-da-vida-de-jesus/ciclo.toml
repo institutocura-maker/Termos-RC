@@ -9,7 +9,7 @@ agente = "Agente 20 (receção); execução designada a sessão nova"
 
 [recepcao]
 entrada = "5 .docx via upload web na branch (commit d4d6e056), 2026-09-06"
-canone = "ciclos/F044_misterios-da-vida-de-jesus/brutos/ (byte a byte) + translado/ (texto fiel)"
+canone = "ciclos/P2023-12-25_F044_misterios-da-vida-de-jesus/brutos/ (byte a byte) + translado/ (texto fiel)"
 registro_limpeza = 22
 qualidade = "transcrição revisada linha a linha pelo Curador contra o áudio; terminologia por padronizar (trabalho do ciclo)"
 

@@ -24,3 +24,8 @@
 |---|---|---|
 | Rakshasas | RC-581 | associado |
 
+## Observações
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-581** — Rakshasas (verificado). Esta ficha é a entrada enxuta do par; o dossiê maior é RC-581. Despacho 2.6: manter sem fusão.
+

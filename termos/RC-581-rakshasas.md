@@ -84,6 +84,10 @@ A transliteração Rakshasas foi aprovada pelo curador.
 
 ---
 
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-872** — Rakshasas (verificado). O par RC-872 é entrada verificada mais enxuta; despacho 2.6 decidiu NÃO fundir — cada dossiê segue próprio.
+
 ## Absorção de RC-872 — F045 · 10/09/2026
 
 O código **RC-872** («Rakchasas (estirpe dos sugadores de sangue)», fonte única P2022-07-16) era

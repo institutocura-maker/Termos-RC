@@ -63,3 +63,8 @@ Segundo verbete "Criaturas-ferramenta" da Base (paralelo ao RC-164): os seres vi
 | Travas e lacres (mecanismos de controle do despertar) | RC-563 | ← relaciona-se-a |
 | Ao Vencedor as Batatas (paradigma do domínio) | RC-764 | ← relaciona-se-a |
 
+## Observações
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-164** — Criaturas-ferramenta (verificado). Mesmo nome e categoria; dossiês independentes com faces próprias (6.293c × 3.838c, similaridade 0.42).
+

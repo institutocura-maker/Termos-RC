@@ -67,3 +67,8 @@ descreve o *efeito* do choque sobre o indivíduo — a desilusão que rompe a zo
 conforto teórico; a definição canônica (acima) descreve a *causa* coletiva — os
 processos já represados que a humanidade mesma engatilhou. Efeito e causa: o
 despertar forçado é o outro nome da explosão.
+## Observações
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-936** — Choque de realidade (provisório). O par RC-936 é entrada provisória do Anel C do GKA (obra de apoio, fonte SECUNDÁRIA); fundir contaminaria o lastro primário — mantidos separados por decisão de 2.6.
+

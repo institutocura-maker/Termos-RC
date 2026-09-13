@@ -112,3 +112,8 @@ verbete fica preservado abaixo.
   instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8
   bilhões de anos consegue fazer isso no paraíso» — o diferencial humano como
   ferramenta de ressignificação.
+## Observações
+
+### Remissiva C6 (despacho 2.6 — 12/09/2026)
+Homônimo no cadastro: **RC-449** — Criaturas-ferramenta (verificado). Mesmo nome e categoria; dossiês independentes com faces próprias (6.293c × 3.838c, similaridade 0.42).
+
