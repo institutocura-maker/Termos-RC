@@ -372,7 +372,7 @@
 | RC-364 | A Missão do Mestre | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟡 | B005, B042 | RC-072; RC-094; RC-005 | — |
 | RC-365 | O Fator Judas | Eventos & Eras | 7.5 Missões / Expedições / Encontros | 🟢 | B011, P2026-04-02, P2025-10-25, P2018-12-16, P2025-05-10, P2022-11-20 | RC-072; RC-094; RC-138; RC-236; RC-366; RC-647 | [✔](termos/RC-365-o-fator-judas.md) |
 | RC-366 | O Enigma da Transfiguração | Eventos & Eras | 7.3 Profecias / Anúncios | 🟢 | B011, P2023-06-03, P2025-05-10, P2023-02-11, P2022-11-20, P2020-04-04 | RC-072; RC-094; RC-214; RC-365; RC-367; RC-368; RC-565 | [✔](termos/RC-366-o-enigma-da-transfiguracao.md) |
-| RC-367 | Alteração Vibratória (Transfiguração) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟡 | B011, P2025-02-15 | RC-366; RC-072; RC-094; RC-713 | — |
+| RC-367 | Alteração Vibratória (Transfiguração) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟢 | B011, P2025-02-15 | RC-366; RC-072; RC-094; RC-713 | [✔](termos/RC-367-alteracao-vibratoria-transfiguracao.md) |
 | RC-368 | Assessoria Cósmica (equipes espirituais de Jesus) | Seres & Entidades | 1.8 Consciências coletivas / Logos | 🟡 | B011, P2025-02-15 | RC-072; RC-094; RC-100; RC-214; RC-366 | — |
 | RC-369 | Nietzsche como 'Amigo da Intenção de Jesus' | Seres & Entidades | 1.6 Figuras humanas (históricas/míticas) | 🟢 | B049, P2024-11-09, P2020-04-25, P2022-03-26, P2022-11-19 | RC-072; RC-094; RC-253; RC-370; RC-371; RC-372 | [✔](termos/RC-369-nietzsche-como-amigo-da-intencao-de-jesus.md) |
 | RC-370 | A Criação de Ídolos para a Humanidade | Conceitos Cosmológicos | 2.6 Ética / Carma / Compromissos | 🟡 | B049 | RC-099; RC-369; RC-094; RC-041 | — |
@@ -542,7 +542,7 @@
 | RC-534 | Usinas geodésicas de Gizé (engenharia de Thoth) | Tecnologias & Artefatos | 5.1 Naves / Tecnologia extraterrestre | 🟠 | B073, P2023-12-02 | RC-463; RC-024 | [✔](termos/RC-534-usinas-geodesicas-de-gize-engenharia-de-thoth.md) |
 | RC-535 | Projeto Orbum (cidadania planetária) | Conceitos Cosmológicos | 2.4 Espiritualidade / Doutrina | 🟢 | B042, P2025-10-25, P2024-02-03, P2024-11-03, P2025-02-22 | RC-085; RC-094; RC-226; RC-344; RC-656 | [✔](termos/RC-535-projeto-orbum-cidadania-planetaria.md) |
 | RC-536 | Era do Conhecimento e da Espiritualização | Eventos & Eras | 7.2 Eras / Épocas / Ciclos | 🟢 | B042, P2022-12-17 | RC-094; RC-003; RC-344; RC-591 | [✔](termos/RC-536-era-do-conhecimento-e-da-espiritualizacao.md) |
-| RC-537 | Maré Cósmica (eventos cósmicos que afetam a Terra) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟡 | B042, P2022-12-17 | RC-344; RC-094; RC-155; RC-573 | — |
+| RC-537 | Maré Cósmica (eventos cósmicos que afetam a Terra) | Processos & Fenômenos | 4.4 Fenômenos físicos / energéticos | 🟢 | B042, P2022-12-17 | RC-344; RC-094; RC-155; RC-573 | [✔](termos/RC-537-mare-cosmica-eventos-cosmicos-que-afetam-a-terra.md) |
 | RC-538 | Consórcio de Mundos (Arquitetos Universais) | Seres & Entidades | 1.2 Coletivos criadores | 🟢 | B019 | RC-042; RC-207; RC-541; RC-094 | [✔](termos/RC-538-consorcio-de-mundos-arquitetos-universais.md) |
 | RC-539 | Arquitetos Universais (coletivo cocriador) | Seres & Entidades | 1.2 Coletivos criadores | 🟡 | B019 | RC-538; RC-207; RC-042 | — |
 | RC-540 | Molécula-mãe (ancestral comum da vida terrestre) | Processos & Fenômenos | 4.1 Processos biológicos / genéticos | 🟡 | B019, P2024-11-30, P2024-11-09, P2020-09-19, P2021-03-13 | RC-217; RC-099; RC-539 | — |

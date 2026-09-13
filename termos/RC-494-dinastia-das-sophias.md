@@ -5,10 +5,10 @@ nome = "Dinastia das Sophias"
 categoria = "Genealogias & Linhagens"
 subcategoria = "6.1 Famílias divinas / Celestiais"
 status = "em análise"
-fontes = ["P2026-07-30; RC-474"]
+fontes = ["P2026-07-30"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-12"
+atualizado = "2026-09-13"
 +++
 # Dinastia das Sophias — RC-494
 

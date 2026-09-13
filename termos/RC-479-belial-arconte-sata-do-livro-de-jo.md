@@ -5,10 +5,10 @@ nome = "Belial (arconte; 'Satã' do livro de Jó)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "em análise"
-fontes = ["P2022-12-17", "P2026-08-04; RC-286; RC-072", "P2023-06-03", "P2023-12-03", "P2022-11-20"]
+fontes = ["P2022-12-17", "P2026-08-04", "P2023-06-03", "P2023-12-03", "P2022-11-20"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-09-12"
+atualizado = "2026-09-13"
 +++
 # Belial — RC-479
 
@@ -59,4 +59,5 @@ Arconte do conselho ("Satã" no Livro de Jó): começou como anjo clone de Javé
 | Tártaro Reides | RC-902 | associado |
 | Umbrais | RC-903 | associado |
 | Evangelho de Bartolomeu | RC-904 | associado |
+| Eros = Vishnu / Tártaro = Shiva (correspondências) | RC-286 | associado |
 

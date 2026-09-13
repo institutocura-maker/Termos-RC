@@ -57,6 +57,7 @@ Devolutiva do curador (19/08/2026): o candidato **Hades/Reides** foi absorvido n
 | Deva / Aurora (A Grande Deusa) | RC-475 | ← relaciona-se-a |
 | Herança Cósmica (padrões de existências anteriores) | RC-519 | relaciona-se-a |
 | Kama (personificação do desejo) | RC-622 | associado |
+| Belial (arconte; 'Satã' do livro de Jó) | RC-479 | associado |
 
 ## Observações
 

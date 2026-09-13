@@ -5,10 +5,10 @@ nome = "Cápsula do Tempo de Sophia (João)"
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.4 Escrituras / Objetos documentais"
 status = "verificado"
-fontes = ["B014", "B042", "P2024-03-02; RC-009", "P2026-03-21"]
+fontes = ["B014", "B042", "P2024-03-02", "P2026-03-21"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-09-13"
 +++
 # Cápsula do Tempo de Sophia (João) — RC-274
 

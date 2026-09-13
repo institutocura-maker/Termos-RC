@@ -5,10 +5,10 @@ nome = "Igigi"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["P2022-12-17", "P2024-04-13", "P2023-12-02; RC-673; RC-024; RC-488", "P2023-10-14"]
+fontes = ["P2022-12-17", "P2024-04-13", "P2023-12-02", "P2023-10-14"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-28"
+atualizado = "2026-09-13"
 +++
 # Igigi — RC-580
 

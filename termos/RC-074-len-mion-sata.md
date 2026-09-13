@@ -5,10 +5,10 @@ nome = "Len Mion (Satã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B039", "B057", "B058", "B060", "P2021-03-27; RC-286", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-15", "P2018-12-16", "P2023-08-27", "P2023-02-11", "P2021-04-10"]
+fontes = ["B031", "B017", "B018", "B039", "B057", "B058", "B060", "P2021-03-27", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-15", "P2018-12-16", "P2023-08-27", "P2023-02-11", "P2021-04-10"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-09-13"
 +++
 # Len Mion (Satã) — RC-074
 

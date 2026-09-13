@@ -1,0 +1,9 @@
+{
+ "unidade": "U32",
+ "data": "2026-09-13",
+ "tipo": "reparo de integridade do registro-mestre",
+ "achado": "9 termos com fragmentos de rel colados no campo fontes (era pré-TOML): RC-005, RC-074, RC-274, RC-475, RC-479, RC-494, RC-564, RC-580, RC-718 — padrão 'P<data>; RC-x; RC-y'",
+ "reparo": "fontes limpas (só a sigla); órfãs realocadas para o espelho t[6] onde faltavam (074←286, 479←286+072); tabela do polo oposto propagada no mecanismo M3 (286←479); frontmatter das 9 regerado por fm_toml",
+ "provas": "verificar_verbetes 946·673·1887 · suíte sola 21/21 (T14 0 divergentes, T15 673/0) · RELACOES intocado (1887)",
+ "contexto": "descoberto ao gerar a proposta P7-1.5-decaidos.csv (U31), que estourou o parser de ';' na linha de RC-479"
+}

@@ -5,10 +5,10 @@ nome = "Deva / Aurora (A Grande Deusa)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["P2026-07-30; RC-622; RC-768"]
+fontes = ["P2026-07-30"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-09-12"
+atualizado = "2026-09-13"
 +++
 # Deva / Aurora (A Grande Deusa) — RC-475
 

@@ -5,10 +5,10 @@ nome = "Fios soltos (improviso humano × robô)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.5 Propósitos / Destinos"
 status = "verificado"
-fontes = ["P2024-02-25", "P2022-12-17", "P2021-12-04", "P2024-05-04; RC-614", "P2021-01-30"]
+fontes = ["P2024-02-25", "P2022-12-17", "P2021-12-04", "P2024-05-04", "P2021-01-30"]
 via = "P6-evidência"
 confianca_fonte = "média"
-atualizado = "2026-08-19"
+atualizado = "2026-09-13"
 +++
 # Fios soltos (improviso humano × robô) — RC-564
 

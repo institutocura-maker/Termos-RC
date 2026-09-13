@@ -5,10 +5,10 @@ nome = "Cumprimento da Profecia de Moros pela Revelação Cósmica"
 categoria = "Eventos & Eras"
 subcategoria = "7.3 Profecias / Anúncios"
 status = "em análise"
-fontes = ["P2024-11-30", "P2023-12-02", "P2021-03-27", "P2025-11-29; RC-714; RC-454", "P2025-07-18", "P2023-12-03"]
+fontes = ["P2024-11-30", "P2023-12-02", "P2021-03-27", "P2025-11-29", "P2025-07-18", "P2023-12-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-09-13"
 +++
 # Cumprimento da Profecia de Moros pela Revelação Cósmica — RC-718
 
