@@ -22,6 +22,7 @@ Checks:
   T11 higiene do parser de retorno (testes unitários puros)
   T12 via/confianca_fonte do canônico == regra do loader (1.5, regra interim)
   T13 frontmatter TOML das fichas-piloto parseia e bate com o registro (2.1)
+  T15 molde motor.fm_toml == frontmatter das fichas (P7 retomado — U25)
 """
 import csv
 import glob as _glob
@@ -333,6 +334,32 @@ class TestBase(unittest.TestCase):
                 ruins.append(cod)
         print(f"\n[T14] tabelas == cadastro (M3) · divergentes: {len(ruins)}")
         self.assertEqual(ruins[:8], [], f"tabelas divergem do cadastro: {ruins[:8]}")
+
+    def test_T15_molde_motor(self):
+        """P7 retomado (U25): o frontmatter que o motor gera == o bloco `+++` das 671 fichas,
+        byte a byte — exceto a placa histórica do piloto («2.1 piloto»), que o motor não reimprime.
+        Se alguém mudar o molde num lado sem mudar no outro, a regressão grita aqui."""
+        import motor as _m
+        T = {t[0]: t for t in d.TERMOS}
+        ruins = []
+        n = 0
+        for p in sorted(_glob.glob(os.path.join(ROOT, "termos", "RC-*.md"))):
+            x = open(p, encoding="utf-8").read()
+            if not x.startswith("+++\n"):
+                continue
+            n += 1
+            cod = re.match(r"(RC-\d+)-", os.path.basename(p)).group(1)
+            end = x.find("\n+++\n", 4)
+            bloco = x[4:end + 5]
+            m = re.search(r'atualizado = "([^"]+)"', bloco)
+            if cod not in T or not m:
+                ruins.append(f"{cod}: sem paridade de base")
+                continue
+            ger = _m.fm_toml(T[cod], m.group(1))[4:]
+            if "\n".join(ger.splitlines()[1:]) != "\n".join(bloco.splitlines()[1:]):
+                ruins.append(f"{cod}: corpo do frontmatter difere do molde")
+        print(f"\n[T15] motor.fm_toml == frontmatter das fichas · {n} conferidas · divergentes: {len(ruins)}")
+        self.assertEqual(ruins[:8], [], ruins[:8])
 
     def test_T10_hold(self):
         hold = load_hold()

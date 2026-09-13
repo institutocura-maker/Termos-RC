@@ -1,0 +1,29 @@
+{
+ "unidade": "U25",
+ "data": "2026-09-13",
+ "frente": "Plano da Auditoria — retomada de P7 (motor)",
+ "pendencia_2_1B": "cumprida: materializar() do motor passou a emitir o frontmatter TOML `+++` (molde canônico, 9 campos) em vez do envelope `| Campo | Valor |`; regra via/confiança importada do loader (fonte única), não reimplementada",
+ "guarda": "T15 nova na suíte: fm_toml == bloco +++ das 671 fichas byte a byte (placa histórica «2.1 piloto» tolerada); suíte 21/21 OK sola; selftest do motor 9/9",
+ "fila_P7_residuo": {
+  "retornos_revisados": 170,
+  "V_ja_aplicadas": 148,
+  "pendentes": [
+   {
+    "cod": "RC-833",
+    "situação": "V no retorno 5.4, mas em HOLD (retenção P6/P7i — fonte única STT + quarentena autobiográfica FORTE); portão 0.3 dispara pergunta ao Curador",
+    "status_atual": "em análise"
+   },
+   {
+    "cod": "RC-769",
+    "situação": "? no retorno 1.3 + HOLD (ficha magra); obs do Curador «Fenvã = Fenvan» — grafia/relação com RC-064 Fenvans (verificado)",
+    "status_atual": "em análise"
+   },
+   {
+    "cod": "RC-024",
+    "situação": "? no retorno 1.3 era dúvida de grafia «Anunnaki não é palavra no plural?» — JÁ RESPONDIDA pelo renomeio chancelado (Anunnakis→Anunnaki invariável); termo no cadastro é 'Anunnaki' ✓ — sem ação, só averbação",
+    "status_atual": "verificado"
+   }
+  ]
+ },
+ "builds": "README regenerado do espelho; xlsx/docx/canonico inalterados (zero mudança de dados)"
+}

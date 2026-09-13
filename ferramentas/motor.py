@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: DORMENTE-2026-09 (era esteira-leve; P6/P7 não invocam)
+# STATUS: ATIVO-ESTEIRA-CICLOS (P7 retomado 13/09 — pendência 2.1B cumprida: `materializar`
+#          gera frontmatter TOML `+++`, não mais o envelope `| Campo | Valor |`; guarda T15)
 """MOTOR ÚNICO DA ESTEIRA LEVE — Base Terminológica RC.
 
 Nasce do despacho do Curador de 29/08/2026, §4 (Mandato para a Engenharia):
@@ -62,6 +63,11 @@ try:
     import tomllib
 except ImportError:                                                     # pragma: no cover
     sys.exit("este motor exige Python ≥ 3.11 (tomllib)")
+
+# `via` e `confianca_fonte` são derivadas pela regra da casa, que mora no loader (Onda 1.5).
+# O motor IMPORTA a regra — não a reimplementa (paridade com T13 garantida por construção).
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from loader import via_de, confianca_de  # noqa: E402
 
 # As duas famílias de linha do cadastro. Os dois estilos de aspa convivem no arquivo por
 # herança de ciclos, então a régua autoritativa é `medir_codigo` (executa o texto medido).
@@ -163,6 +169,30 @@ def chk(ok: bool, bom: str, ruim: str) -> None:
     print(("  ✓ " if ok else "  ✗ ") + (bom if ok else ruim))
     if not ok:
         raise FalhaPortao(ruim)
+
+
+def fm_toml(t: tuple, hoje: str) -> str:
+    """Frontmatter curatorial `+++` — o molde canônico das 671 fichas (Onda 2.1/2.1B).
+
+    Os 7 campos literais vêm do registro-mestre; `via` e `confianca_fonte` são derivados
+    pela regra do loader; `atualizado` é o carimbo do dia. A T15 da suíte confere paridade
+    byte a byte contra as fichas existentes, e a T13 confere campo a campo — o motor não
+    pode, portanto, gerar ficha desalinhada da Base sem derrubar a regressão.
+    (Exigência da retomada de P7, pendência lavrada na certidão 2.1B de 12/09/2026.)
+    """
+    q = lambda v: json.dumps(v, ensure_ascii=False)                      # noqa: E731
+    L = ["+++", "# frontmatter curatorial (Onda 2.1) — fonte: registro-mestre",
+         f"codigo = {q(t[0])}",
+         f"nome = {q(t[1])}",
+         f"categoria = {q(t[2])}",
+         f"subcategoria = {q(t[3])}",
+         f"status = {q(t[4])}",
+         f"fontes = [{', '.join(q(x) for x in t[5])}]",
+         f"via = {q(via_de(t))}",
+         f"confianca_fonte = {q(confianca_de(t))}",
+         f"atualizado = {q(hoje)}",
+         "+++", ""]
+    return "\n".join(L)
 
 
 class Cfg:
@@ -831,11 +861,6 @@ def materializar(c: Ciclo) -> None:
         secao = c.secao_limpa(cod)
         rebatidas = c.log_rebaixado.get(cod, [])
         L = [f"# {t[1]} — {cod}", "",
-             "| Campo | Valor |", "|---|---|",
-             f"| **Categoria Principal** | {t[2].title()} |",
-             f"| **Subcategoria** | {t[3]} |",
-             f"| **Status** | 🟡 {str(t[4]).capitalize()} |",
-             f"| **Última atualização** | {hoje} |", "",
              "## Definição Sintética", "", c.definicoes.get(cod, "(sem definição no ciclo.toml)"), "",
              "## Contexto / Origem", "",
              f"**Materialização (não é criação).** `{cod}` vivia só no cadastro: linha em "
@@ -871,6 +896,9 @@ def materializar(c: Ciclo) -> None:
               + ("; **sem arquivo**" if r not in c.fichas else "; arquivo existe") + " |" for r in rels] or \
              ["| — | — | o cadastro não lista relacionados |"]
         corpo = re.sub(r"[ \t]+$", "", "\n".join(L) + "\n", flags=re.M)
+        corpo = fm_toml(t, hoje) + corpo
+        assert tomllib.loads(corpo[4:corpo.find("\n+++\n", 4)]).get("codigo") == cod, \
+            f"{cod}: frontmatter gerado não round-tripa"
         open(arq, "w", encoding="utf-8").write(corpo)
         assert f"## Ampliação — {c.sigla}" in corpo, f"{cod}: a seção do ciclo não entrou na ficha"
         print(f"  ficha: {os.path.relpath(arq, c.raiz)} · {os.path.getsize(arq):,} B · "

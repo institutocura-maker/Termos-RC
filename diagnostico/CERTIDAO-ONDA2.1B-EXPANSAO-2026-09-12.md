@@ -13,7 +13,7 @@
 - JSON canônico válido (946/1887) · builds: docx sem `+++` e **sem envelope algum no espelho de leitura** (a carta agora é só ouro: conceito, citações, contexto — o triplo ponto arquitetônico do Curador em vigência integral), xlsx/README regenerados.
 
 ## Pendência lavrada (não executada — fora do escopo assinado)
-`ferramentas/motor.py` (linhas ~719/~834) ainda **gera** fichas novas com envelope `| Campo | Valor |`. Enquanto P7 estiver pausado, nada é gerado; na reabertura do P7, o motor deve emitir o bloco `+++` (mesma função `fm_de` desta unidade vale como molde). Decisão e data de execução: do Curador.
+`ferramentas/motor.py` (linhas ~719/~834) ainda **gera** fichas novas com envelope `| Campo | Valor |`. Enquanto P7 estiver pausado, nada é gerado; na reabertura do P7, o motor deve emitir o bloco `+++` (mesma função `fm_de` desta unidade vale como molde). Decisão e data de execução: do Curador. **— CUMPRIDA 13/09/2026 (U25):** despacho «retomar P7»; o motor agora gera o bloco `+++` (`fm_toml`, molde canônico + regra do loader importada); guarda T15 na suíte (671 fichas conferidas byte a byte, 0 divergentes); selftest 9/9. Registro: `diagnostico/P7-RETOMA-U25-2026-09-13.json`.
 
 ## Reversão
 Um commit (esta unidade inteira) — `git revert` devolve envelopes a todas as 658 com o mesmo byte-prova ao contrário.

@@ -8,7 +8,7 @@
 - **946 termos · 671 fichas · 1887 relações · 102 obras**
 - Status: 60⚪ · 241🟡 · 166🟠 · 479🟢
 - Via/confiança (1.5 · regra interim): 166 `P7-conhecimento` · 780 `P6-evidência` — fontes: 219 alta · 501 média · 226 baixa
-- Fase: P7 PAUSADO 11/09/2026: P6 35 levas/291 + P7a–j/155 CSV, status 60⚪/241🟡/166🟠/479🟢; auditoria interna A→E + Plano ondas 0–3; Onda 0 CONCLUÍDA 12/09/2026; Onda 1 EM EXECUÇÃO (1.2 despacho JSON, 1.1 canônico, 1.3 BIBLIO+fantasmas-doc, 1.4 hierarquia+168+9dupes=1889 relações; detalhe tipos FECHADO 12/09 em 2 despachos (Grupo A 269 tipos + dedups B4/C1 → 1887 rel. + declaração C4 'rótulo livre'; certidões no DESPACHO-FUSAO-TIPOS-1.4); 1.5 EXECUTADO 12/09 (regra interim Opção A: 166 P7-conhecimento · confiança 233/487/226 · certidão CERTIDAO-ONDA1.5; suite 18 checks); 1.7 CONCLUÍDA 12/09 (a/b/c paridade nos 3 builds — certidão CERTIDAO-ONDA1.7
+- Fase: P7 RETOMADO 13/09/2026 (U25 — motor gera TOML, T15 lavrada; levas: P6 35/291 + P7a–j aplicadas, resíduo = 2 perguntas HOLD a despachar + 1 averbação): P6 35 levas/291 + P7a–j/155 CSV, status 60⚪/241🟡/166🟠/479🟢; auditoria interna A→E + Plano ondas 0–3; Onda 0 CONCLUÍDA 12/09/2026; Onda 1 EM EXECUÇÃO (1.2 despacho JSON, 1.1 canônico, 1.3 BIBLIO+fantasmas-doc, 1.4 hierarquia+168+9dupes=1889 relações; detalhe tipos FECHADO 12/09 em 2 despachos (Grupo A 269 tipos + dedups B4/C1 → 1887 rel. + declaração C4 'rótulo livre'; certidões no DESPACHO-FUSAO-TIPOS-1.4); 1.5 EXECUTADO 12/09 (regra interim Opção A: 166 P7-conhecimento · confiança 233/487/226 · certidão CERTIDAO-ONDA1.5; suite 18 checks); 1.7 CONCLUÍDA 12/09 (a/b/c paridade nos 3 builds — certidão CERTIDAO-ONDA1.7
 
 ## Navegação
 
