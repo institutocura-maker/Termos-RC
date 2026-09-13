@@ -493,7 +493,7 @@ TERMOS = [
     # ---- Novos termos das OBRAS SOBRE JESUS (B011 Transfiguração, B049 Nietzsche, B043 Druida)
     ("RC-365", "O Fator Judas", EVE_MIS[0], EVE_MIS[1], "verificado", ['B011', 'P2026-04-02', 'P2025-10-25', "P2018-12-16", "P2025-05-10", "P2022-11-20"], "RC-072; RC-094; RC-138; RC-236; RC-366; RC-647", True),
     ("RC-366", "O Enigma da Transfiguração", EVE_PRO[0], EVE_PRO[1], "verificado", ["B011", 'P2023-06-03', "P2025-05-10", "P2023-02-11", "P2022-11-20", "P2020-04-04"], "RC-072; RC-094; RC-214; RC-365; RC-367; RC-368; RC-565", True),
-    ("RC-367", "Alteração Vibratória (Transfiguração)", PRO_FIS[0], PRO_FIS[1], P, ['B011', 'P2025-02-15'], 'RC-366; RC-072; RC-094; RC-713', False),
+    ("RC-367", "Alteração Vibratória (Transfiguração)", PRO_FIS[0], PRO_FIS[1], "verificado", ['B011', 'P2025-02-15'], 'RC-366; RC-072; RC-094; RC-713', True),
     ("RC-368", "Assessoria Cósmica (equipes espirituais de Jesus)", SER_LOG[0], SER_LOG[1], P, ['B011', 'P2025-02-15'], 'RC-072; RC-094; RC-100; RC-214; RC-366', False),
     ("RC-369", "Nietzsche como 'Amigo da Intenção de Jesus'", SER_HUM[0], SER_HUM[1], "verificado", ['B049', 'P2024-11-09', 'P2020-04-25', 'P2022-03-26', "P2022-11-19"], 'RC-072; RC-094; RC-253; RC-370; RC-371; RC-372', True),
     ("RC-370", "A Criação de Ídolos para a Humanidade", COS_ETI[0], COS_ETI[1], P, ["B049"], "RC-099; RC-369; RC-094; RC-041", False),
@@ -680,7 +680,7 @@ TERMOS = [
     ("RC-534", "Usinas geodésicas de Gizé (engenharia de Thoth)", TEC_NAV[0], TEC_NAV[1], "em análise", ["B073", 'P2023-12-02'], "RC-463; RC-024", True),
     ("RC-535", "Projeto Orbum (cidadania planetária)", COS_ESP[0], COS_ESP[1], "verificado", ['B042', 'P2025-10-25', 'P2024-02-03', 'P2024-11-03', 'P2025-02-22'], "RC-085; RC-094; RC-226; RC-344; RC-656", True),
     ("RC-536", "Era do Conhecimento e da Espiritualização", EVE_ERA[0], EVE_ERA[1], "verificado", ['B042', 'P2022-12-17'], "RC-094; RC-003; RC-344; RC-591", True),
-    ("RC-537", "Maré Cósmica (eventos cósmicos que afetam a Terra)", PRO_FIS[0], PRO_FIS[1], P, ['B042', 'P2022-12-17'], "RC-344; RC-094; RC-155; RC-573", False),
+    ("RC-537", "Maré Cósmica (eventos cósmicos que afetam a Terra)", PRO_FIS[0], PRO_FIS[1], "verificado", ['B042', 'P2022-12-17'], "RC-344; RC-094; RC-155; RC-573", True),
     ("RC-538", "Consórcio de Mundos (Arquitetos Universais)", SER_COL[0], SER_COL[1], "verificado", ["B019"], "RC-042; RC-207; RC-541; RC-094", True),
     ("RC-539", "Arquitetos Universais (coletivo cocriador)", SER_COL[0], SER_COL[1], P, ["B019"], "RC-538; RC-207; RC-042", False),
     ("RC-540", "Molécula-mãe (ancestral comum da vida terrestre)", PRO_BIO[0], PRO_BIO[1], P, ['B019', 'P2024-11-30', 'P2024-11-09', 'P2020-09-19', 'P2021-03-13'], 'RC-217; RC-099; RC-539', False),

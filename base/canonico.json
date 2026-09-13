@@ -9322,7 +9322,7 @@
    "nome": "Alteração Vibratória (Transfiguração)",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B011",
     "P2025-02-15"
@@ -9333,9 +9333,9 @@
     "RC-094",
     "RC-713"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-368",
@@ -13288,7 +13288,7 @@
    "nome": "Maré Cósmica (eventos cósmicos que afetam a Terra)",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B042",
     "P2022-12-17"
@@ -13299,9 +13299,9 @@
     "RC-155",
     "RC-573"
    ],
-   "ficha": false,
+   "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-538",

@@ -1,0 +1,12 @@
+{
+ "unidade": "U30",
+ "data": "2026-09-13",
+ "tipo": "materialização despachada + V aplicado (trava §7 resolvida)",
+ "decisao": "Curador escolheu «Materializar as 2 fichas»; cadastro: RC-367/RC-537 ficha=False→True, P(provisório)→verificado (V da P7l aplicado sob a condição da materialização)",
+ "fichas": {
+  "RC-367": "termos/RC-367-alteracao-vibratoria-transfiguracao.md — citação intra-linha B011 (sentença completa que coube na linha do hard-wrap) + declaração do título estrutural; nota de limitação lavrada",
+  "RC-537": "termos/RC-537-mare-cosmica-eventos-cosmicos-que-afetam-a-terra.md — epígrafe de Heráclito citada intra-linha + heading degradado do STT documentado; grafia canônica do sumário mantida"
+ },
+ "rito": "verificador 946·673·1887 · builds regenerados (T15 673/0; T14 0) · HOLD baixado com desfecho · nenhuma aresta tocada",
+ "status_base": "60⚪/239🟡/125🟠/522🟢"
+}
