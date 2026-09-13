@@ -5,10 +5,10 @@ nome = "Barbelo (Mãe-Pai primordial gnóstica)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B061", "P2026-04-02", "P2024-09-28"]
+fontes = ["P2026-04-02", "P2024-09-28"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-18"
+atualizado = "2026-09-12"
 +++
 # Barbelo (Mãe-Pai primordial gnóstica) — RC-483
 

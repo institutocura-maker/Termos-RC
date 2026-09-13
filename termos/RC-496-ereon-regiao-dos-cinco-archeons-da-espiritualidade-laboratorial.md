@@ -5,10 +5,10 @@ nome = "Ereon (região dos cinco Archeons da Espiritualidade Laboratorial)"
 categoria = "Lokas & Geografias"
 subcategoria = "3.4 Regiões cósmicas / Portais"
 status = "verificado"
-fontes = ["B061", "P2021-12-04", "P2023-12-03"]
+fontes = ["P2021-12-04", "P2023-12-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-09-12"
 +++
 # Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) — RC-496
 

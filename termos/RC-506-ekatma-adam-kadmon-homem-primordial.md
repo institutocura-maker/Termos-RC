@@ -5,10 +5,10 @@ nome = "Ekatma (Adam Kadmon — Homem Primordial)"
 categoria = "Termos Específicos"
 subcategoria = "8.2 Hebraico / Cabala"
 status = "verificado"
-fontes = ["B061", "P2024-09-28", "P2024-08-03", "P2023-09-09", "P2023-12-03"]
+fontes = ["P2024-09-28", "P2024-08-03", "P2023-09-09", "P2023-12-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-09-12"
 +++
 # Ekatma (Adam Kadmon — Homem Primordial) — RC-506
 

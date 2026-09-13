@@ -5,10 +5,10 @@ nome = "Revelação Espiritual (Kardec)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.4 Espiritualidade / Doutrina"
 status = "verificado"
-fontes = ["B044", "B016", "B013", "B048", "B006", "B060", "B061", "B042", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2024-02-03", "P2020-09-19", "P2012-02-19"]
+fontes = ["B044", "B016", "B013", "B048", "B006", "B060", "B042", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2024-02-03", "P2020-09-19", "P2012-02-19"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-31"
+atualizado = "2026-09-12"
 +++
 # Revelação Espiritual (Kardec) — RC-190
 
@@ -47,7 +47,6 @@ Com isso:
 | B048 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B006 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B060 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B061 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B042 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados

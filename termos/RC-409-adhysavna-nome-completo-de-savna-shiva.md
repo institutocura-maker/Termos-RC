@@ -5,10 +5,10 @@ nome = "ADHYSAVNA (nome completo de Savna/Shiva)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B051", "B060", "B061", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30", "P2023-06-24", "P2022-05-07"]
+fontes = ["B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30", "P2023-06-24", "P2022-05-07"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-13"
+atualizado = "2026-09-12"
 +++
 # ADHYSAVNA (nome completo de Savna/Shiva) — RC-409
 

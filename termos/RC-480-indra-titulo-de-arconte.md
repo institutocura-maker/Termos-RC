@@ -5,10 +5,10 @@ nome = "Indra (título de arconte)"
 categoria = "Seres & Entidades"
 subcategoria = "1.8 Consciências coletivas / Logos"
 status = "em análise"
-fontes = ["B061", "P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-09-29"]
+fontes = ["P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-09-29"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-19"
+atualizado = "2026-09-12"
 +++
 # Indra — RC-480
 

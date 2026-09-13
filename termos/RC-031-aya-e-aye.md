@@ -5,10 +5,10 @@ nome = "Aya e Aye"
 categoria = "Seres & Entidades"
 subcategoria = "1.4 Anjos / Arcanjos / Querubins"
 status = "em análise"
-fontes = ["B031", "B024", "B044", "B061", "P2021-05-15", "P2018-12-16"]
+fontes = ["B031", "B024", "B044", "P2021-05-15", "P2018-12-16"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+atualizado = "2026-09-12"
 +++
 # Aya e Aye — RC-031
 
@@ -48,7 +48,6 @@ Com isso:
 | B031 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B024 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B044 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
-| B061 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
 ## Termos Relacionados
 | Termo | Código | Tipo de relação |

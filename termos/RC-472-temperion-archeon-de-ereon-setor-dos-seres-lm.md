@@ -5,10 +5,10 @@ nome = "Tempérion (Archeon de Ereon; setor dos seres LM)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["B060", "B061", "P2021-12-04", "P2024-05-04", "P2024-11-30"]
+fontes = ["B060", "P2021-12-04", "P2024-05-04", "P2024-11-30"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-14"
+atualizado = "2026-09-12"
 +++
 # Tempérion (Archeon de Ereon; setor dos seres LM) — RC-472
 

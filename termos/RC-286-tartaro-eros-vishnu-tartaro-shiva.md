@@ -5,10 +5,10 @@ nome = "Eros = Vishnu / Tártaro = Shiva (correspondências)"
 categoria = "Termos Específicos"
 subcategoria = "8.4 Grego / Latim"
 status = "em análise"
-fontes = ["B020", "B021", "B060", "B061", "P2024-11-30", "P2024-11-09", "P2023-05-21", "P2022-09-17"]
+fontes = ["B020", "B021", "B060", "P2024-11-30", "P2024-11-09", "P2023-05-21", "P2022-09-17"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-19"
+atualizado = "2026-09-12"
 +++
 # Tártaro — RC-286
 

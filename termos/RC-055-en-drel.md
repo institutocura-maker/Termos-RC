@@ -5,10 +5,10 @@ nome = "En Drel"
 categoria = "Seres & Entidades"
 subcategoria = "1.4 Anjos / Arcanjos / Querubins"
 status = "verificado"
-fontes = ["B031", "B015", "B061", "P2025-10-25"]
+fontes = ["B031", "B015", "P2025-10-25"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-09-12"
 +++
 # En Drel — RC-055
 

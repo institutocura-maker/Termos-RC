@@ -5,10 +5,10 @@ nome = "Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashma
 categoria = "Seres & Entidades"
 subcategoria = "1.4 Anjos / Arcanjos / Querubins"
 status = "em análise"
-fontes = ["B061"]
+fontes = []
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-19"
+atualizado = "2026-09-12"
 +++
 # Classes de anjos de Arabot-Ráquia — RC-485
 

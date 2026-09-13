@@ -5,10 +5,10 @@ nome = "Tempérium — variação histórica de Tempérion (ver RC-472)"
 categoria = "Conceitos Cosmológicos"
 subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
-fontes = ["B061", "P2021-12-04"]
+fontes = ["P2021-12-04"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-14"
+atualizado = "2026-09-12"
 +++
 # Tempérium — variação histórica de Tempérion (ver RC-472) — RC-498
 

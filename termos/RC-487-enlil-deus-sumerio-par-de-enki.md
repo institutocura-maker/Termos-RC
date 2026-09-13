@@ -5,10 +5,10 @@ nome = "Enlil (deus sumério, par de Enki)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B061", "P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03"]
+fontes = ["P2022-12-17", "P2024-04-13", "P2021-03-27", "B089", "P2021-05-15", "P2023-10-14", "P2023-12-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-09-12"
 +++
 # Enlil (deus sumério, par de Enki) — RC-487
 

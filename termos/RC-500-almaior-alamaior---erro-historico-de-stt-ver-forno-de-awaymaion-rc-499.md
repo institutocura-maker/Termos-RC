@@ -5,10 +5,10 @@ nome = "Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC
 categoria = "Lokas & Geografias"
 subcategoria = "3.2 Lokas / Mundos interiores"
 status = "em análise"
-fontes = ["B061", "P2021-12-04", "ART-2025-08-01", "P2021-05-15"]
+fontes = ["P2021-12-04", "ART-2025-08-01", "P2021-05-15"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-28"
+atualizado = "2026-09-12"
 +++
 # Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499) — RC-500
 

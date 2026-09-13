@@ -1,0 +1,572 @@
+{
+ "data": "2026-09-12",
+ "despacho": "A — guilhotina ao Anel A (U20-B, doc 1.6 q.2)",
+ "total_fontes_no_registro": 67,
+ "fichas_patchadas": 53,
+ "termos_sem_ficha": [
+  "RC-032",
+  "RC-065",
+  "RC-105",
+  "RC-127",
+  "RC-412",
+  "RC-478",
+  "RC-484",
+  "RC-491",
+  "RC-492",
+  "RC-493",
+  "RC-501",
+  "RC-502",
+  "RC-504",
+  "RC-505"
+ ],
+ "solo_b061_fontes_agora_vazias": [
+  "RC-477",
+  "RC-478",
+  "RC-484",
+  "RC-485",
+  "RC-492",
+  "RC-493",
+  "RC-495",
+  "RC-501",
+  "RC-502"
+ ],
+ "politica": "B061 resta como MINERAÇÃO/PISTA na BIBLIO; prosa/amplos com menções históricas intactos; aparatos com linha | B061 | (4) ceifados",
+ "itens": [
+  {
+   "cod": "RC-004",
+   "nome": "Elohim",
+   "status": "em análise",
+   "ficha": "RC-004-elohim.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-009",
+   "nome": "Sophia (Cristo Cósmico)",
+   "status": "verificado",
+   "ficha": "RC-009-sophia-cristo-cosmico.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-024",
+   "nome": "Anunnaki",
+   "status": "verificado",
+   "ficha": "RC-024-anunnaki.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-031",
+   "nome": "Aya e Aye",
+   "status": "em análise",
+   "ficha": "RC-031-aya-e-aye.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-032",
+   "nome": "Benem",
+   "status": "provisório",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-037",
+   "nome": "Brahma (Brajna)",
+   "status": "verificado",
+   "ficha": "RC-037-brahma-brajna.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-052",
+   "nome": "Deus / Deus Incognoscível",
+   "status": "verificado",
+   "ficha": "RC-052-deus-deus-incognoscivel.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-055",
+   "nome": "En Drel",
+   "status": "verificado",
+   "ficha": "RC-055-en-drel.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-065",
+   "nome": "Frota Norte",
+   "status": "provisório",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-068",
+   "nome": "Hiperbórea",
+   "status": "em análise",
+   "ficha": "RC-068-hiperborea.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-078",
+   "nome": "Lúcifer (Yel Luzbel)",
+   "status": "verificado",
+   "ficha": "RC-078-lucifer-yel-luzbel.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-079",
+   "nome": "Mastlans Phisosferas / Luciferianas",
+   "status": "em análise",
+   "ficha": "RC-079-mastlans-phisosferas-luciferianas.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-081",
+   "nome": "Mohen So (Avatar Keshava de Vishnu)",
+   "status": "verificado",
+   "ficha": "RC-081-mohen-so-avatar-keshava-de-vishnu.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-086",
+   "nome": "Pandora",
+   "status": "em análise",
+   "ficha": "RC-086-pandora.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-099",
+   "nome": "Seres Terrenos (Homo Sapiens)",
+   "status": "verificado",
+   "ficha": "RC-099-seres-terrenos.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-105",
+   "nome": "Ulsh",
+   "status": "provisório",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-127",
+   "nome": "Val-Ha",
+   "status": "provisório",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-146",
+   "nome": "Zian (Zion)",
+   "status": "verificado",
+   "ficha": "RC-146-zian-zion.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-152",
+   "nome": "Prabrajna",
+   "status": "verificado",
+   "ficha": "RC-152-prabrajna.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-190",
+   "nome": "Revelação Espiritual (Kardec)",
+   "status": "verificado",
+   "ficha": "RC-190-revelacao-espiritual-kardec.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-259",
+   "nome": "Apolônio de Tiana (encarnação do Quarto Logos)",
+   "status": "verificado",
+   "ficha": "RC-259-apolonio-de-tiana-encarnacao-do-quarto-logos.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-282",
+   "nome": "Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências)",
+   "status": "verificado",
+   "ficha": "RC-282-mohen-so-phanes-protogonos-vasuki-kalki-correspondencias.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-286",
+   "nome": "Eros = Vishnu / Tártaro = Shiva (correspondências)",
+   "status": "em análise",
+   "ficha": "RC-286-tartaro-eros-vishnu-tartaro-shiva.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-400",
+   "nome": "Foz Côa / FOXP2 (símbolos)",
+   "status": "verificado",
+   "ficha": "RC-400-foz-coa-foxp2-simbolos.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-408",
+   "nome": "ADHYMAVATANA (nome completo de Mavatna/Vishnu)",
+   "status": "verificado",
+   "ficha": "RC-408-adhymavatana-nome-completo-de-mavatna-vishnu.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-409",
+   "nome": "ADHYSAVNA (nome completo de Savna/Shiva)",
+   "status": "verificado",
+   "ficha": "RC-409-adhysavna-nome-completo-de-savna-shiva.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-410",
+   "nome": "ADHYPRABRAJNA (grafia do diagrama)",
+   "status": "verificado",
+   "ficha": "RC-410-adhyprabraja.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-412",
+   "nome": "Emissários Humanos (Enoch, Abraão, Moisés, Jesus)",
+   "status": "provisório",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-414",
+   "nome": "Krishna (avatar de Vishnu/Shiva)",
+   "status": "verificado",
+   "ficha": "RC-414-krishna-avatar-de-vishnu-shiva.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-424",
+   "nome": "Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó)",
+   "status": "em análise",
+   "ficha": "RC-424-linhagem-dos-escolhidos-adao-enoch-abraao-jaco.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-465",
+   "nome": "Asuras (= Titãs)",
+   "status": "em análise",
+   "ficha": "RC-465-asuras-titas.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-472",
+   "nome": "Tempérion (Archeon de Ereon; setor dos seres LM)",
+   "status": "verificado",
+   "ficha": "RC-472-temperion-archeon-de-ereon-setor-dos-seres-lm.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-474",
+   "nome": "Arcontes (= Sophias e Indras; Conselho dos 70)",
+   "status": "em análise",
+   "ficha": "RC-474-arcontes-sophias-e-indras-conselho-dos-70.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-475",
+   "nome": "Deva / Aurora (A Grande Deusa)",
+   "status": "verificado",
+   "ficha": "RC-475-deva-aurora-a-grande-deusa.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-476",
+   "nome": "En Ma (Emá / Emar — espírito-âncora)",
+   "status": "verificado",
+   "ficha": "RC-476-en-ma-ema-emar---espirito-ancora.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-477",
+   "nome": "Ensá (espírito primordial companheiro de En Ma)",
+   "status": "verificado",
+   "ficha": "RC-477-ensa-espirito-primordial-companheiro-de-en-ma.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-478",
+   "nome": "Chequinhá (veículo/nave de Javé)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-479",
+   "nome": "Belial (arconte; 'Satã' do livro de Jó)",
+   "status": "em análise",
+   "ficha": "RC-479-belial-arconte-sata-do-livro-de-jo.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-480",
+   "nome": "Indra (título de arconte)",
+   "status": "em análise",
+   "ficha": "RC-480-indra-titulo-de-arconte.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-481",
+   "nome": "Maitreya (Dionísio; forma adiágena de Vishnu)",
+   "status": "verificado",
+   "ficha": "RC-481-maitreya-dionisio-forma-adiagena-de-vishnu.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-482",
+   "nome": "Ialdabaoth (= Javé/Samael/Saklas/Sabaoth)",
+   "status": "verificado",
+   "ficha": "RC-482-ialdabaoth-jave-samael-saklas-sabaoth.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-483",
+   "nome": "Barbelo (Mãe-Pai primordial gnóstica)",
+   "status": "verificado",
+   "ficha": "RC-483-barbelo-mae-pai-primordial-gnostica.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-484",
+   "nome": "Anjos ministradores (Usá, Azá, Aziel)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-485",
+   "nome": "Classes de anjos de Arabot-Ráquia (ofanim, serafins, galgaulim, chashmalim)",
+   "status": "em análise",
+   "ficha": "RC-485-classes-de-anjos-de-arabot-raquia.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-486",
+   "nome": "Enki (Anunnaki; inoculou o gene FOXP2)",
+   "status": "verificado",
+   "ficha": "RC-486-enki-anunnaki-inoculou-o-gene-foxp2.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-487",
+   "nome": "Enlil (deus sumério, par de Enki)",
+   "status": "verificado",
+   "ficha": "RC-487-enlil-deus-sumerio-par-de-enki.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-488",
+   "nome": "Nefilins (= Anunnaki)",
+   "status": "verificado",
+   "ficha": "RC-488-nefilins-anunnaki.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-489",
+   "nome": "Enoque (sétimo patriarca; levado por Javé)",
+   "status": "verificado",
+   "ficha": "RC-489-enoque-setimo-patriarca-levado-por-jave.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-490",
+   "nome": "Caim (leitura RC: segundo a nascer)",
+   "status": "verificado",
+   "ficha": "RC-490-caim-leitura-rc-segundo-a-nascer.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-491",
+   "nome": "Família Shanlung (13 membros em Alt'Lam Gron)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-492",
+   "nome": "Membros da Família Yel (Luziel, Adrax, Breasil, Lupon)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-493",
+   "nome": "Os 9 Val dos Corpos Perdidos",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-494",
+   "nome": "Dinastia das Sophias",
+   "status": "em análise",
+   "ficha": "RC-494-dinastia-das-sophias.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-495",
+   "nome": "Arabot-Ráquia (ambiente de Javé; = Araboth)",
+   "status": "em análise",
+   "ficha": "RC-495-arabot-raquia-shekinah-merkabah.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-496",
+   "nome": "Ereon (região dos cinco Archeons da Espiritualidade Laboratorial)",
+   "status": "verificado",
+   "ficha": "RC-496-ereon-regiao-dos-cinco-archeons-da-espiritualidade-laboratorial.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-497",
+   "nome": "Impérial — erro histórico de STT (ver Perpérion RC-087)",
+   "status": "verificado",
+   "ficha": "RC-497-imperial---erro-historico-de-stt-ver-perperion-rc-087.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-498",
+   "nome": "Tempérium — variação histórica de Tempérion (ver RC-472)",
+   "status": "verificado",
+   "ficha": "RC-498-temperium---variacao-historica-de-temperion-ver-rc-472.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-499",
+   "nome": "Forno de Awaymaion (forno de Vishnu; origem de Olm)",
+   "status": "verificado",
+   "ficha": "RC-499-forno-de-awaymaion-forno-de-vishnu-origem-de-olm.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-500",
+   "nome": "Almaior / Alamaior — erro histórico de STT (ver Forno de Awaymaion RC-499)",
+   "status": "em análise",
+   "ficha": "RC-500-almaior-alamaior---erro-historico-de-stt-ver-forno-de-awaymaion-rc-499.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-501",
+   "nome": "Conselho dos Cinco (comando da Frota Norte: 3 Val + 2 Yel)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-502",
+   "nome": "Val Aten (último Val de Val-Ha)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": true
+  },
+  {
+   "cod": "RC-503",
+   "nome": "Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman)",
+   "status": "verificado",
+   "ficha": "RC-503-mavatna.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-504",
+   "nome": "Adyadvaivatma / Adimavatma (= Vishnu)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-505",
+   "nome": "Adyabradagna / Adabradagna (= Brahma/Javé)",
+   "status": "candidato",
+   "ficha": null,
+   "ficha_patchada": false,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-506",
+   "nome": "Ekatma (Adam Kadmon — Homem Primordial)",
+   "status": "verificado",
+   "ficha": "RC-506-ekatma-adam-kadmon-homem-primordial.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-514",
+   "nome": "Tikun Cósmico (restabelecimento da Criação)",
+   "status": "verificado",
+   "ficha": "RC-514-tikun-cosmico-restabelecimento-da-criacao.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  },
+  {
+   "cod": "RC-771",
+   "nome": "Fornos Replicadores (naves/estações de semeadura de vida do Projeto Talm; Awayen, Awaylengan e Awaymaion)",
+   "status": "em análise",
+   "ficha": "RC-771-fornos-replicadores.md",
+   "ficha_patchada": true,
+   "fontes_unicas_era_b061_solo": false
+  }
+ ]
+}

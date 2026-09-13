@@ -5,10 +5,10 @@ nome = "Asuras (= Titãs)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "em análise"
-fontes = ["B060", "B061", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-09-29", "P2024-04-13", "B087", "B088"]
+fontes = ["B060", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-09-29", "P2024-04-13", "B087", "B088"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-16"
+atualizado = "2026-09-12"
 +++
 # Asuras (= Titãs) — RC-465
 

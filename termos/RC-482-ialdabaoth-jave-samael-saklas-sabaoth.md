@@ -5,10 +5,10 @@ nome = "Ialdabaoth (= Javé/Samael/Saklas/Sabaoth)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B061", "P2022-09-17"]
+fontes = ["P2022-09-17"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-19"
+atualizado = "2026-09-12"
 +++
 # Ialdabaoth — RC-482
 

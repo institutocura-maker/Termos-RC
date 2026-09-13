@@ -5,10 +5,10 @@ nome = "Apolônio de Tiana (encarnação do Quarto Logos)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["B016", "B061", "P2021-12-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-02", "P2024-11-03"]
+fontes = ["B016", "P2021-12-04", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-02", "P2024-11-03"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-18"
+atualizado = "2026-09-12"
 +++
 # Apolônio de Tiana (encarnação do Quarto Logos) — RC-259
 

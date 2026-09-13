@@ -5,10 +5,10 @@ nome = "Mohen So = Phanes / Protogonos / Vasuki / Kalki (correspondências)"
 categoria = "Termos Específicos"
 subcategoria = "8.4 Grego / Latim"
 status = "verificado"
-fontes = ["B014", "B060", "B061", "P2026-04-02", "P2025-10-25", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2024-03-02", "P2023-12-02", "P2021-03-27", "P2023-09-09", "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-06-26"]
+fontes = ["B014", "B060", "P2026-04-02", "P2025-10-25", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2024-03-02", "P2023-12-02", "P2021-03-27", "P2023-09-09", "P2022-10-01", "P2022-09-25", "P2022-07-16", "P2026-03-21", "P2021-06-26"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-05"
+atualizado = "2026-09-12"
 +++
 # Mohen So = Phanes / Protogonos / Vasuki / Kalki — RC-282
 

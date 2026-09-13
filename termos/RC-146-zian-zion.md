@@ -5,10 +5,10 @@ nome = "Zian (Zion)"
 categoria = "Lokas & Geografias"
 subcategoria = "3.1 Planetas / Sistemas estelares"
 status = "verificado"
-fontes = ["B031", "B057", "B061"]
+fontes = ["B031", "B057"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-25"
+atualizado = "2026-09-12"
 +++
 # Zian (Zion) — RC-146
 

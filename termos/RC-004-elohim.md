@@ -5,10 +5,10 @@ nome = "Elohim"
 categoria = "Seres & Entidades"
 subcategoria = "1.2 Coletivos criadores"
 status = "em análise"
-fontes = ["B061", "P2024-09-28"]
+fontes = ["P2024-09-28"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-18"
+atualizado = "2026-09-12"
 +++
 # Elohim — RC-004
 

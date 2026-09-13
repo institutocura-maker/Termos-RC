@@ -5,10 +5,10 @@ nome = "Fornos Replicadores (naves/estações de semeadura de vida do Projeto Ta
 categoria = "Tecnologias & Artefatos"
 subcategoria = "5.1 Naves / Tecnologia extraterrestre"
 status = "em análise"
-fontes = ["B061", "P2021-12-04", "P2024-05-04", "ART-2025-08-01", "P2025-02-22", "P2025-07-18", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2017-10-14"]
+fontes = ["P2021-12-04", "P2024-05-04", "ART-2025-08-01", "P2025-02-22", "P2025-07-18", "P2021-05-15", "P2022-03-26", "P2023-12-03", "P2022-05-07", "P2024-06-16", "P2017-10-14"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-09-12"
 +++
 # Fornos Replicadores — RC-771
 

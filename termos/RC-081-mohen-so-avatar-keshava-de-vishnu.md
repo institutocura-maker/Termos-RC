@@ -5,10 +5,10 @@ nome = "Mohen So (Avatar Keshava de Vishnu)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B017", "B014", "B061", "P2026-04-02", "P2025-10-25", "P2025-08-03", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2023-12-02", "P2023-06-25", "P2023-12-03", "P2021-01-30"]
+fontes = ["B031", "B017", "B014", "P2026-04-02", "P2025-10-25", "P2025-08-03", "P2024-11-30", "P2024-11-02", "P2024-08-03", "P2024-04-14", "P2023-12-02", "P2023-06-25", "P2023-12-03", "P2021-01-30"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-05"
+atualizado = "2026-09-12"
 +++
 # Mohen So (Avatar Keshava de Vishnu) — RC-081
 

@@ -5,10 +5,10 @@ nome = "Lúcifer (Yel Luzbel)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
 status = "verificado"
-fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "B061", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27"]
+fontes = ["B031", "B017", "B018", "B039", "B015", "B003", "B025", "B026", "B057", "B058", "B060", "P2022-12-17", "P2024-03-03", "P2020-04-25", "P2022-03-26", "P2023-12-03", "P2018-12-16", "P2023-08-27"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-09-12"
 +++
 # Lúcifer (Yel Luzbel) — RC-078
 

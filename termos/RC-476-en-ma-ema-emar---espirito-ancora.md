@@ -5,10 +5,10 @@ nome = "En Ma (Emá / Emar — espírito-âncora)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B061", "P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-10-25", "P2024-11-30"]
+fontes = ["P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-10-25", "P2024-11-30"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-14"
+atualizado = "2026-09-12"
 +++
 # En Ma (Emá / Emar — espírito-âncora) — RC-476
 

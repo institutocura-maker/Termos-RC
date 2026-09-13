@@ -5,10 +5,10 @@ nome = "Seres Terrenos (Homo Sapiens)"
 categoria = "Seres & Entidades"
 subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
-fontes = ["B031", "B039", "B023", "B048", "B003", "B026", "B005", "B049", "B041", "B006", "B050", "B034", "B036", "B040", "B052", "B061", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
+fontes = ["B031", "B039", "B023", "B048", "B003", "B026", "B005", "B049", "B041", "B006", "B050", "B034", "B036", "B040", "B052", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-07"
+atualizado = "2026-09-12"
 +++
 # Seres Terrenos (Homo Sapiens) — RC-099
 
@@ -145,7 +145,6 @@ O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna
 | B036 | — | registro-mestre (fonte censada) |
 | B040 | — | registro-mestre (fonte censada) |
 | B052 | — | registro-mestre (fonte censada) |
-| B061 | — | registro-mestre (fonte censada) |
 | P2025-03-15 | — | registro-mestre (fonte censada) |
 | P2025-02-16 | — | registro-mestre (fonte censada) |
 | P2025-02-15 | — | registro-mestre (fonte censada) |

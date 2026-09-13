@@ -5,10 +5,10 @@ nome = "Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó)"
 categoria = "Genealogias & Linhagens"
 subcategoria = "6.2 Linhagens humanas"
 status = "em análise"
-fontes = ["B036", "B060", "B061", "P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2026-08-04", "P2024-02-03", "P2023-09-09", "P2020-05-09", "P2023-10-14", "P2023-12-03"]
+fontes = ["B036", "B060", "P2022-12-17", "P2025-10-25", "P2025-02-16", "P2024-11-30", "P2024-11-09", "P2024-04-13", "P2026-08-04", "P2024-02-03", "P2023-09-09", "P2020-05-09", "P2023-10-14", "P2023-12-03"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+atualizado = "2026-09-12"
 +++
 # Linhagem dos Escolhidos (Adão, Enoch, Abraão, Jacó) — RC-424
 

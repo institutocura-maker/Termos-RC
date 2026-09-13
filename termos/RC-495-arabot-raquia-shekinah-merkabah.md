@@ -5,10 +5,10 @@ nome = "Arabot-Ráquia (ambiente de Javé; = Araboth)"
 categoria = "Lokas & Geografias"
 subcategoria = "3.2 Lokas / Mundos interiores"
 status = "em análise"
-fontes = ["B061"]
+fontes = []
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-19"
+atualizado = "2026-09-12"
 +++
 # Arabot-Ráquia — RC-495
 

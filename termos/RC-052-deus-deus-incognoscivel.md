@@ -5,10 +5,10 @@ nome = "Deus / Deus Incognoscível"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B031", "B001", "B002", "B048", "B061", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-25-01"]
+fontes = ["B031", "B001", "B002", "B048", "P2025-03-15", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2023-12-25-01"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-12"
+atualizado = "2026-09-12"
 +++
 # Deus / Deus Incognoscível — RC-052
 

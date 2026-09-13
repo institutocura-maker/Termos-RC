@@ -5,10 +5,10 @@ nome = "ADHYPRABRAJNA (grafia do diagrama)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B051", "B060", "B061", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30"]
+fontes = ["B051", "B060", "P2021-12-04", "P2024-05-04", "P2025-02-16", "P2024-11-30"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-09-07"
+atualizado = "2026-09-12"
 +++
 # ADHYPRABRAJNA (grafia do diagrama) — RC-410
 
@@ -37,7 +37,6 @@ A ficha de RC-310 registra o uso em «Inquisição Trimurtiana» (B022, Introdu�
 |---|---|---|
 | B051 | — | registro-mestre (fonte censada) |
 | B060 | — | registro-mestre (fonte censada) |
-| B061 | — | registro-mestre (fonte censada) |
 | P2021-12-04 | — | registro-mestre (fonte censada) |
 | P2024-05-04 | — | registro-mestre (fonte censada) |
 | P2025-02-16 | — | registro-mestre (fonte censada) |

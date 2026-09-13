@@ -5,10 +5,10 @@ nome = "Maitreya (Dionísio; forma adiágena de Vishnu)"
 categoria = "Seres & Entidades"
 subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
-fontes = ["B061", "P2021-03-27", "B060", "P2021-06-26", "P2025-12-14"]
+fontes = ["P2021-03-27", "B060", "P2021-06-26", "P2025-12-14"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-18"
+atualizado = "2026-09-12"
 +++
 # Maitreya (Dionísio; forma adiágena de Vishnu) — RC-481
 
