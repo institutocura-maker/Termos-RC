@@ -1,4 +1,4 @@
-# A5 — bancada de ditado (52 fichas) — 2026-09-12 (U22)
+# A5 — bancada de ditado (52 fichas · v2, lápides removidas) — 2026-09-12 (U22)
 
 As candidatas abaixo **não** entram sozinhas: são pontos de partida p/ o despacho do Curador (confirmar/corrigir/ditar por cima). Marcas: `livro` = prosa revisada · `organizada` = apostila.md · `STT-bruta` = transcrição crua (risco de ruído — validar antes). Formato de ditado aceito: `RC-###: «texto» — FONTE[, localizador]` (uma linha por citação; até 3 por ficha). Lavro com os portões da U21 (verbatim à fonte + restauração byte a byte) e proveniência «ditado 12/09» no ledger.
 
@@ -49,11 +49,6 @@ As candidatas abaixo **não** entram sozinhas: são pontos de partida p/ o despa
 - fontes em disco: B040;B052;P2024-11-30;P2023-10-14;P2023-12-03
 - **sem candidata nas fontes em disco** — ditado livre (ou indicar outra obra)
 
-### RC-449 — Criaturas-ferramenta  (verificado)
-- fontes: B057;B058;P2025-03-15;P2021-03-27;P2025-11-29
-- fontes em disco: B057;B058;P2025-03-15;P2021-03-27;P2025-11-29
-- candidata [organizada · P2025-03-15]: “E, para a obra de Javé ou pra obra de Prabrajna, seja lá o nome que a gente quiser dar, os espíritos não servem de nada. Ou servem como museu para o que os eus transitórios dentro da matrix — ou dentro do aquário — vão produzindo: eles colocam o peixinho no aquário, o peixinho nada e, quando tá morrendo, eles escaneiam o cérebro do peixinho e guardam nele os protocolos. É isso que os espíritos faz…”
-- candidata [organizada · P2025-03-15]: “Nota do editor: ver RC-099 (Seres Terrenos/Homo Sapiens) e RC-518 (Genoma Derivado); quarentena científica (número de genes).  ## O herói escondido  > "O fato mais marcante da vida universal, e que nós humanos não temos nem olhos para compreender e valorizar, é que o pior dos 8 bilhões de seres humanos — o pior de todos nós, se assim isso puder existir — ele é capaz de ser alguém que age como um h…”
 
 ### RC-461 — Ninmah (Anunnaki geneticista)  (verificado)
 - fontes: B060;P2021-03-27;P2021-05-15;P2023-10-14
@@ -297,10 +292,6 @@ As candidatas abaixo **não** entram sozinhas: são pontos de partida p/ o despa
 - fontes em disco: —
 - **sem candidata nas fontes em disco** — ditado livre (ou indicar outra obra)
 
-### RC-872 — Rakshasas  (verificado)
-- fontes: P2022-07-16
-- fontes em disco: —
-- **sem candidata nas fontes em disco** — ditado livre (ou indicar outra obra)
 
+Resumo: **52 fichas** na bancada (lápides RC-449/RC-872 fora) — 52 com candidato(s) p/ validar · 16 de ditado livre.
 
-Resumo: 37 fichas com candidato(s) · 17 de ditado livre.
