@@ -1,0 +1,18 @@
+{
+ "unidade": "U26",
+ "data": "2026-09-13",
+ "despacho": "respostas do Curador ao despacho triplo (13/09)",
+ "decisoes": {
+  "RC-833": "manter HOLD (portao 0.3 perguntou; V do retorno P7i NAO aplicado; averbacao na ficha + motivo atualizado no HOLD.csv)",
+  "RC-769": "fundir no RC-064 por remissiva (mecanismo F045/2.6, sem deletar): status verificado, corpo preservado como lapide, Ampliacao P2026-03-21 + linha de fonte migradas verbatim p/ 064, fonte P2026-03-21 adicionada ao cadastro de 064; HOLD baixado com desfecho; RELACOES intacto (769 nao tinha arestas)",
+  "RC-024": "sem acao — duvida de grafia ja respondida pelo renomeio chancelado (Anunnakis->Anunnaki invariavel)"
+ },
+ "leva_nova": {
+  "arquivo": "chancela/P7-4.4-fenomenos.csv",
+  "termos": 27,
+  "candidatos": 42,
+  "fila_restante": 15,
+  "formato": "proposta (DECISAO/OBS vazias p/ o Curador devolver como _retorno)"
+ },
+ "rito": "verificar ok - indice/canonico/xlsx/docx/readme rebuildados - suite sola 21/21 OK - T15 671/0"
+}
