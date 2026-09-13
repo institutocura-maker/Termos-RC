@@ -36,7 +36,7 @@ B061 resolvida (materializada; questão de versão abaixo). Restam as siglas cit
 
 ## Questões estruturais (não por sigla)
 
-1. **B061 v1.0 × v3.0**: o arquivo do Curador (v1.0, 114 verbetes, corpus 28 livros) ≠ a descrição BIBLIO (v3.0, ~500 entradas, 5 palestras STT). Mesma linhagem (manter em B061 + anotar) ou artefatos distintos (v1.0 p/ materiais_externos + B061 segue sem pasta)?
+1. **B061 v1.0 × v3.0**: o arquivo do Curador (v1.0, 114 verbetes, corpus 28 livros) ≠ a descrição BIBLIO (v3.0, ~500 entradas, 5 palestras STT). Mesma linhagem (manter em B061 + anotar) ou artefatos distintos (v1.0 p/ materiais_externos + B061 segue sem pasta)? **✅ FECHADA 12/09/2026 (U20): mesma linhagem, chancela Onda 1.3; v3.0 = coleção de apostilas das 5 palestras (obra-descrita, sem arquivo), P2026-02-28 materializada; prova de cobertura 67% — ver dossiê `B061-RECON-2026-09-12.md`.**
 2. **Política B061 violada em escala**: a BIBLIO diz 'USO: apenas MINERAÇÃO (⚪), NÃO citar como fonte primária' — mas ~65 termos citam B061 em `fontes`, incluindo 🟢 (ex.: RC-009, RC-024, RC-052). Reduzir as citações a pista (Anel A) ou revisar a política?
-3. **P2023-12-25**: o STATE-MIRROR §5 diz que é o curso F044 (5 aulas, sufixos -01…-05) — mas não há pasta. As citações -02/-04 referem-se ao F044? Criar a(s) pasta(s) ou corrigir as citações?
-4. **P2026-02-28** (Desafios Planetário, cf. BIBLIO B061): palestra anunciada sem pasta. Existe transcrição?
+3. **P2023-12-25**: ✅ FECHADA (Onda 2.6 — F044 materializado como P2023-12-25, git mv sancionado).
+4. **P2026-02-28** (Desafios Planetário, cf. BIBLIO B061): ✅ FECHADA (U19 12/09 — apostila revisada canonizada, expurgo nº 23, baseline 123; STT bruta externa declarada).
