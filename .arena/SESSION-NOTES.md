@@ -2283,3 +2283,25 @@ Acumulado: **649 verbetes** · 8.540 verbatim · 8.249 códigos · **0 falhas** 
    + registro executável `ferramentas/u41_materializar_r1.py` (`--dry` confere sem escrever).
 8. **Próximo:** restam **63 códigos na família B** (71 − 8), mesmíssimo procedimento, ranqueados por ocorrências no
    censo; R2 (D, 104) · R3 (E, 40) · R4 (A, 6) seguem intactas e independentes.
+
+## 13/09/2026 — U42 (Agente 26): lote 1 da família B (+8 fichas) · Base 946/689/1887 · ACHADO DE GOVERNANÇA
+
+1. **Despacho:** «seguir na família B (63 restantes)» — lote 1 = top-8 por ocorrências no censo:
+   RC-108 Universo Paralelo · RC-085 Orbum · RC-065 Frota Norte · RC-066 Genos · RC-540 Molécula-mãe ·
+   RC-077 Lokas · RC-044 Cultura Demo · RC-392 Reforma Íntima. 28 fragmentos verbatim, 0 falhas na 1ª passada.
+   7 dos 8 renderam ao menos uma sentença completa intra-linha (exceção RC-044: 2 sentenças × 3 fragmentos).
+2. **ACHADO DE GOVERNANÇA (parei e corrigi):** ao virar o cadastro o script marcaria os 8 como 🟢
+   (copiando U30/U41). Conferi: NENHUM dos 8 consta de qualquer `chancela/P7-*.csv` — nunca foram a leva.
+   Em U30/U41 o 🟢 era legítimo porque o V JÁ EXISTIA, suspenso só pela trava §7 «sem ficha → bloqueia».
+   Aqui o V não existe → marcar 🟢 seria AUTOCANCELA. Correção: as 8 nascem **🟡 provisório**
+   (confianca_fonte=média) com ficha=True; o driver passou a exigir `aplicar_V: true` no lote para promover;
+   cada ficha carrega a nota de status de nascença. **Os 55 restantes da B também não têm V — nascerão 🟡
+   salvo despacho explícito do Curador** (só os 17 suspensos do HOLD têm V).
+3. **Instrumento novo:** `ferramentas/materializar_lote.py` — driver genérico por lote (dados em
+   `diagnostico/U42-R1-LOTE1-2026-09-13.json`), para não copiar 400 linhas por lote. O script da U41 fica
+   intacto como registro histórico.
+4. **Provas:** suíte 21/21 (T13 689 · T14 0 · T15 689/0) · verificador 946/689/1887 · 5 builds na ordem ·
+   RELACOES 1887 intocado. Status 60⚪/228🟡/102🟠/556🟢 (inalterado — as 8 entram no 🟡) · gap 265→257 ·
+   família B 63→55.
+5. **Próximo lote (ranking):** RC-032 Benem · RC-048 Demiurgo · RC-073 Keshava · RC-123 Val Eno ·
+   RC-095 Rogério de Almeida Freitas · RC-438 Tubal · RC-374 Mordon · RC-211 Kundalini.

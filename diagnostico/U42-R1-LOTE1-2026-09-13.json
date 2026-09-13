@@ -1,0 +1,309 @@
+{
+ "unidade": "U42",
+ "lote": 1,
+ "data": "2026-09-13",
+ "rota": "R1",
+ "criterio": "ranking por ocorrências no CENSO-GAP-FICHAS-2026-09-13.json (família B, 63 restantes)",
+ "fichas": [
+  {
+   "cod": "RC-108",
+   "slug": "universo-paralelo",
+   "definicao": "Segundo o glossário de B031, é o universo paralelo ao nosso, chamado de Universo Antimaterial (ou Brahmaloka), que começou a se formar no mesmo instante que o universo material. O verbete «Universo Antimaterial» do mesmo glossário (ver RC-106) acrescenta que ele é formado por genos ou lokas onde vivem os seres extrafísicos — Brahma, Vishnu, Shiva, anjos clones, demos, seres dos portais —, e a entrada «Perpérion» estima que somente a partir daquela dimensão-laboratório foram criados mais de 3.500 universos, estando o nosso e o universo paralelo entre eles. Na pregação oral, é o universo das inteligências não humanas «sobejamente descrito pelas mitologias, mas estranhamente oculto e escondido para nós, humanos modernos».",
+   "cit": [
+    [
+     "B031",
+     3886,
+     [
+      "Universo Paralelo: É o universo paralelo ao nosso, chamado de"
+     ],
+     "glossário, verbete «Universo Paralelo» — início da sentença (continua em L3887)"
+    ],
+    [
+     "B031",
+     3887,
+     [
+      "Universo Antimaterial (ou Brahmaloka), que começou a se formar no"
+     ],
+     "mesma sentença, fraturada pelo hard-wrap"
+    ],
+    [
+     "B031",
+     3888,
+     [
+      "mesmo instante que o universo material."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "P2025-02-16",
+     100,
+     [
+      "Ele estava lidando com diversas formas de inteligência, de estirpes ou de espécies não humanas que vivem num universo paralelo ao nosso, sobejamente descrito pelas mitologias, mas estranhamente oculto e escondido para nós, humanos modernos."
+     ],
+     "palestra (STT) — sentença completa; o sujeito é Krishna Dwaipayana (Vyasa) e a sua demanda de explicação"
+    ]
+   ],
+   "obs": [
+    "A composição do universo paralelo (genos/lokas e os seres que neles vivem) está declarada no verbete «Universo Antimaterial» do mesmo glossário — isto é, sob RC-106, e não sob este código; a ficha não a reivindoca como definição própria."
+   ]
+  },
+  {
+   "cod": "RC-085",
+   "slug": "orbum",
+   "definicao": "Planeta do Sistema de Capela — um magnífico sol cuja luz gasta cerca de 42 anos para chegar à face da Terra, e que B031 arrola entre os planetas do sistema ao lado de Zian (ou Zion), Dan, Arden e Mollen — e sede da governadoria de Sophia: conforme B057, é a sede da governadoria e sede de trabalho de Administradores deste universo, onde se congregavam os seres mais evoluídos dos sistemas que compunham, numa analogia com a situação governamental terrena, os «ministérios» dos diversos campos específicos da vida cósmica; eram o «primeiro escalão», não mais que duas dezenas de milhões de entidades, ficando nos outros planetas do mesmo sistema as partes de apoio, execução e controle operativo. Foi em Orbum que se reuniu, há cerca de 3 milhões de anos, o conclave que escolheu a Terra para o Projeto Planeta Azul (B031; ver RC-090).",
+   "cit": [
+    [
+     "B057",
+     990,
+     [
+      "O planeta Orbum, no sistema de Capela, é a sede da governadoria e sede de trabalho de Administradores deste universo."
+     ],
+     "nota de rodapé 2 — sentença completa intra-linha"
+    ],
+    [
+     "B031",
+     3237,
+     [
+      "Orbum, Zian (ou Zion), Dan, Arden, Mollen, entre outros."
+     ],
+     "glossário, verbete «Capela» — fecho intra-linha da relação dos planetas do sistema"
+    ],
+    [
+     "B057",
+     993,
+     [
+      "que formavam o que poderíamos chamar de “primeiro escalão”."
+     ],
+     "mesma nota — fecho intra-linha da sentença iniciada em L992 («Eram, na verdade, os seres»)"
+    ]
+   ],
+   "obs": [
+    "B042 consta do cadastro como fonte e a busca de 13/09/2026 não localizou nele o nome do planeta com grafia canônica — nenhuma citação foi extraída dessa obra."
+   ]
+  },
+  {
+   "cod": "RC-065",
+   "slug": "frota-norte",
+   "definicao": "A designação dos 1.841 biodemos que passaram a viver em Benem, a base terrestre e subterrânea construída com as partes da nave Espherian — uma das três naves da Família Val que vieram para a Terra há 620 mil anos —, no Norte do planeta, onde hoje é a fronteira entre Alemanha, Bélgica e Holanda. Em B017, os rebeldes agrupados em Benem passam a compor uma força-tarefa que, por milênios, foi assim denominada em torno da nave Espheron; e em B018 a própria coletividade narra o seu surgimento: no padrão cultural algo isolado dos irmãos originais de Antlar, sem agenda comum com os «clonados rebeldes» ou com os «dimensionados», a Frota Norte surgiu em Benem como sendo o «norte existencial» daqueles 1841 seres biodemos originais, que foram gerando as suas próprias buscas e os seus próprios desafios.",
+   "cit": [
+    [
+     "B031",
+     3408,
+     [
+      "passaram a viver nesta base ficaram conhecidos como “Frota Norte”."
+     ],
+     "glossário, verbete «Espherian» — fecho intra-linha da sentença"
+    ],
+    [
+     "B017",
+     6733,
+     [
+      "milénios, foi denominada como sendo a Frota Norte, em torno da nave “espheron”."
+     ],
+     "fecho intra-linha da sentença sobre a força-tarefa dos rebeldes"
+    ],
+    [
+     "B018",
+     870,
+     [
+      "isolado que a Frota Norte surgiu em Benem, como sendo o nosso “norte existencial”."
+     ],
+     "fecho intra-linha da sentença em que a própria Frota narra a sua origem"
+    ]
+   ],
+   "obs": []
+  },
+  {
+   "cod": "RC-066",
+   "slug": "genos",
+   "definicao": "Termo da Mitologia Grega para as «moradas» do universo antimaterial: os genos são dimensões ou realidades alternativas onde vivem os anjos clones e os demos. São o mesmo que as lokas da tradição hindu — «as lokas (Mitologia Hindu) também podem ser chamadas de genos (Mitologia Grega)» —, e o glossário de B031 dá o exemplo canônico dessa equivalência: o geno, ou loka, de Zeus é o Olimpo. O verbete «Lokas» do mesmo glossário arrola ainda Asgard (loka de Odin), os mundos da Mitologia Nórdica ligados a Yggdrasil e os mundos da Kabalah.",
+   "cit": [
+    [
+     "B031",
+     3493,
+     [
+      "Genos: São as “moradas” do universo antimaterial."
+     ],
+     "glossário, verbete «Genos» — sentença completa intra-linha"
+    ],
+    [
+     "B031",
+     3494,
+     [
+      "realidades alternativas onde vivem os anjos clones e demos."
+     ],
+     "mesmo verbete — fecho intra-linha da sentença sobre a natureza dos genos"
+    ],
+    [
+     "B031",
+     3590,
+     [
+      "Também podem ser denominadas como genos (Mitologia Grega)."
+     ],
+     "glossário, verbete «Lokas» — a equivalência genos × lokas"
+    ]
+   ],
+   "obs": [
+    "Genos e lokas são, no glossário de B031, dois nomes para a mesma realidade (grego e sânscrito); o cadastro os mantém como códigos distintos (RC-066 e RC-077) e esta ficha não os funde."
+   ]
+  },
+  {
+   "cod": "RC-540",
+   "slug": "molecula-mae",
+   "definicao": "No argumento de B019, o ancestral comum de toda a vida terrestre: apenas existe um tipo de «código com receita para a vida» que apareceu no nosso mundo, e os demais corpos de seres vivos que irromperam ao longo da evolução derivaram dessa molécula-mãe — não há duas, somente uma. A vida biológica teria sido ancorada sempre numa molécula-mãe portadora do «Código digitalizado»: muitos caminhos foram primeiro trilhados no universo vizinho e, com a falência do tipo de vida que lá existia, o Código atualizado desse problema foi transferido quanticamente para cá, propiciando o surgimento da vida biológica, e semeado em diversos mundos pelos próprios seres que, com o tempo, surgiram neste universo.",
+   "cit": [
+    [
+     "B019",
+     7923,
+     [
+      "irroperam ao longo da evolução, derivaram dessa “molécula-mãe”."
+     ],
+     "fecho intra-linha da sentença sobre a unidade do código da vida"
+    ],
+    [
+     "B019",
+     8056,
+     [
+      "numa “molécula-mãe” com o tal “Código digitalizado”."
+     ],
+     "fecho intra-linha da sentença sobre a transferência do Código do universo vizinho"
+    ]
+   ],
+   "obs": [
+    "A grafia do original é «irroperam» (L7923), preservada na citação; a Definição Sintética usa a forma corrente «irromperam» por se tratar de paráfrase, não de citação."
+   ]
+  },
+  {
+   "cod": "RC-077",
+   "slug": "lokas",
+   "definicao": "Em sânscrito, «mundo, morada, lugar ou plano de existência»: as lokas são as «moradas» do universo antimaterial, dimensões ou realidades alternativas onde vivem os anjos clones e os demos, e que também podem ser chamadas de genos na tradição grega. B031 arrola como exemplos o Olimpo (loka de Zeus), Asgard (loka de Odin), cada um dos mundos da Mitologia Nórdica ligados a Yggdrasil e os mundos da Kabalah. É nelas — e não apenas em orbes ou planetas do nosso universo — que habitam, em erraticidade, os espíritos desencarnados ou «desimantados» (ver RC-100).",
+   "cit": [
+    [
+     "B031",
+     3588,
+     [
+      "Lokas são as “moradas” do universo antimaterial."
+     ],
+     "glossário, verbete «Lokas» — sentença completa intra-linha"
+    ],
+    [
+     "B031",
+     3589,
+     [
+      "dimensões ou realidades alternativas onde vivem os anjos clones e demos."
+     ],
+     "mesmo verbete — fecho intra-linha da sentença seguinte"
+    ],
+    [
+     "B031",
+     635,
+     [
+      "podem ser chamadas de genos (Mitologia Grega)."
+     ],
+     "seção «Lokas» — a equivalência com os genos"
+    ]
+   ],
+   "obs": []
+  },
+  {
+   "cod": "RC-044",
+   "slug": "cultura-demo",
+   "definicao": "Segundo B031, a cultura correspondente às páginas das mitologias que jamais foram consideradas dignas de serem tomadas como verdade, sob a perspectiva de serem invenções de nossos ancestrais: a «cultura demo» é a que foi produzida nas diversas «moradas» do universo antimaterial, onde vivem inúmeras classes de seres demos, equivocadamente tidos como personagens mitológicos. Em B044, Krishna é apresentado como o grande definidor ou mesmo revelador dessas questões para os povos da cultura demo e seus descendentes que passaram a viver na Terra; e o modo comum a essa cultura, associado à lei do dharma, é tratado à parte como «cultura demodhármica» (RC-183).",
+   "cit": [
+    [
+     "B031",
+     3257,
+     [
+      "Cultura Demo: Cultura correspondente às páginas das mitologias"
+     ],
+     "glossário, verbete «Cultura Demo» — início da sentença (continua em L3258)"
+    ],
+    [
+     "B031",
+     3258,
+     [
+      "que jamais foram consideradas como dignas de serem tomadas como"
+     ],
+     "mesma sentença, fraturada pelo hard-wrap"
+    ],
+    [
+     "B031",
+     3259,
+     [
+      "verdade, sob a perspectiva de serem invenções de nossos ancestrais."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "B031",
+     3260,
+     [
+      "“cultura demo”, portanto, seria a que foi produzida nas diversas “moradas”"
+     ],
+     "início da sentença que dá a natureza da cultura demo (continua em L3261)"
+    ],
+    [
+     "B031",
+     3261,
+     [
+      "do universo antimaterial, onde vivem inúmeras classes de seres demos,"
+     ],
+     "mesma sentença, fraturada pelo hard-wrap"
+    ],
+    [
+     "B031",
+     3262,
+     [
+      "equivocadamente tidos como sendo personagens mitológicos."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ]
+   ],
+   "obs": [
+    "B044 comparece no cadastro como fonte e a busca de 13/09/2026 localizou nele o sintagma em duas passagens — L1851 (Krishna como definidor para os povos «da cultura demo e de seus descendentes que passaram a viver na Terra») e L5445, que pertence ao verbete vizinho «Cultura Demodhármica» (RC-183); nenhuma delas coube inteira numa linha, e por isso a citação-chave ficou com o glossário de B031."
+   ]
+  },
+  {
+   "cod": "RC-392",
+   "slug": "reforma-intima",
+   "definicao": "Na pregação do Grupo Atlan recolhida em B006, o processo de correção de si: à pergunta de como realizá-la na prática, a resposta foi «através da substituição das tendências, das inclinações e dos impulsos infelizes por posturas sensatas e mais amorosas» — somente pela vigilância constante do que nos vem do íntimo se podem administrar as próprias emoções, substituindo os maus pendores ainda existentes no espírito por melhores posturas. A dificuldade, segundo B075, está nas antigas ideias «enraizadas» profundamente no psiquismo humano, pois elas dificultam a reforma íntima da pessoa: a bagagem sináptica do cérebro e a herança de hábitos e habilidades da sua Mente Espiritual permanecem as mesmas, e só exercícios meditativos e o ressignificar dos pensamentos as desalojam. Na fonte oral, o autor adverte que se trata de um processo adulto e profundo, e não da superficialidade das crenças religiosas.",
+   "cit": [
+    [
+     "B006",
+     1228,
+     [
+      "através da substituição das tendências, das inclinações e dos impulsos infelizes por posturas"
+     ],
+     "cap. 10 «Reforma Íntima» — início da resposta (continua em L1229)"
+    ],
+    [
+     "B006",
+     1229,
+     [
+      "sensatas e mais amorosas."
+     ],
+     "fecho intra-linha da mesma sentença"
+    ],
+    [
+     "B075",
+     1183,
+     [
+      "psiquismo humano, pois elas dificultam a reforma íntima da pessoa."
+     ],
+     "fecho intra-linha da sentença sobre as ideias enraizadas no psiquismo"
+    ],
+    [
+     "P2025-03-15",
+     50,
+     [
+      "Mas é assim, mesmo o processo adulto e profundo da reforma íntima."
+     ],
+     "palestra (STT) — sentença completa"
+    ]
+   ],
+   "obs": [
+    "O termo é do vocabulário espírita e comparece nas obras de apoio da casa (B006, de teor mediúnico, e B075) — a ficha registra o emprego que elas fazem, sem harmonizá-lo com a dogmática das RC."
+   ]
+  }
+ ]
+}
