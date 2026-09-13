@@ -59,4 +59,4 @@ A demência do Criador refere-se ao estado de deterioração consciencial de Jav
 | Face Microbiana do Criador | RC-641 | ← tema-de |
 | Autofagia do Criador | RC-667 | associado |
 | Abismo da Consciência Cósmica | RC-721 | relaciona-se-a |
-
+ (Natureza: síntese curatorial — texto ditado pelo Curador, sem parágrafo correspondente nas obras-fonte processadas até 13/09/2026; mantido como referência interpretativa, não como citação literal.)

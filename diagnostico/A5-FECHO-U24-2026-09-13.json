@@ -3,7 +3,7 @@
  "data": "2026-09-13",
  "despacho": "fecho da bancada A5 (3 regras do Curador, 13/09)",
  "regras": {
-  "1_sínteses": "RC-426 e RC-526: ditado movido ipsis litteris para ## Observações; Citações-chave removida (restauração byte a byte provada contra 64c9e06)",
+  "1_sínteses": "RC-426 e RC-526: ditado movido ipsis litteris para ## Observações; Citações-chave removida (restauração byte a byte provada contra 64c9e06); nota de natureza (síntese curatorial, não citação) aposta ao fim do texto",
   "2_estruturais": "nota padrão em ## Citações-chave das 8 fichas com termo só em listas/tabelas (reversão exata provada)",
   "3_quarentena": "[Aguardando Ditado Livre] no topo de ## Observações das 14 (16 originais menos as 2 realocadas pela regra 1)"
  },
