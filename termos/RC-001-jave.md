@@ -467,6 +467,5 @@ Atitudes de **Enlil (RC-487)** "perigosamente parecidas" com as do Criador caíd
 
 > Nas Revelações Cósmicas, Javé é o "Deus Bíblico do Antigo Testamento" (B031), identificado em outras tradições como **Jeová/Yahweh** (Cristianismo/Judaísmo), **Alá** (Islamismo), **Brahma** (Hinduísmo), **Caos** (Mitologia Grega), **Pangu/Pan'Ku** (Mitologia Chinesa) e **Atom** (Mitologia Egípcia). Ele é o **Criador "caído"** deste universo — e por isso chamado de Criador e não de Deus —, o protagonista do "drama cósmico/espiritual de Javé". (Definição preliminar baseada em B031; a refinar com as obras primárias.)
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[bôson] (ressonância): chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-561 (mesma fala); a palavra após “ressonância” segue ilegível no STT.
-- **[colapso de 2021] (ciclos de coma): chancelada AGUARDA-EVIDÊNCIA (F037-L5).** Ausência documentada; nada a resolver até fonte que cite.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-001.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

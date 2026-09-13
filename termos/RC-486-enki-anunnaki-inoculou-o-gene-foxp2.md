@@ -118,24 +118,11 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 **Trecho verbatim:** «E ele fez isso e conseguiu introduzir o DNA de Enk em muitas linhagens humanas. Isso aconteceu há 48.000 anos atrás.»
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 57 (B4).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B4:** TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA (precedente Senequeribe) — a Arca documenta a Revelação Cósmica, não julga anacronismos seculares.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 64 (RA).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Dieck Eno]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese Enki registrada.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0017
 
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-486.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

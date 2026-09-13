@@ -79,8 +79,6 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 
 **Trecho verbatim:** «Mas se você um fardo de certezas e verdades e presta contas a esses fardos, a essas bagagens de conceitos terríveis que cada um de nós coleciona. O peso dessa prestação de contas chama-se religião nos termos em que nós conhecemos. E a coisa mais falsa que já foi inventada como narrativa ou de um ser maluco, ou de um ser maldoso, ou de um ser que inventou isso em cima de fatos que efetivamente aconteceram, mas foram por ele distorcidos.»
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Hen-Orl]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-454.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -89,3 +87,5 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 - «Mas se você um fardo de certezas e verdades e presta contas a esses fardos, a essas bagagens de conceitos terríveis que cada um de nós coleciona. O peso dessa prestação de contas chama-se religião nos termos em que nós conhecemos. E a coisa mais falsa que já foi inventada como narrativa ou de um […]» — *ver:* **Ampliação — P2024-02-04**
 - «Acreditem se quiser, mas o sentido devocional atrapalha isso aqui, porque faz com que a consciência de um ser humano se torne passiva e pulsante só num determinado padrão e cessa o empirismo da experiência humana que faz com que as mutações adaptativas e modificativas ocorram no genoma de cada ser […]» — *ver:* **Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os …** U0003
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-749.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

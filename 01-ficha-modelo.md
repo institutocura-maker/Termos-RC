@@ -71,4 +71,4 @@ Escreva como se fosse para um leitor novo. Comece sempre pelo que o termo **é**
 Só vincule termos que **já existem** (com código) ou marque com *(candidato)*. Use os tipos de relação da seção 4 de `00-arquitetura.md`.
 
 ### 7. Citações-chave
-Política 2.3 (censo A3, opção b): a seção é **índice curado, não arquivo** — cada item traz trecho literal (começo da citação) e aponta o bloco-fonte onde ela vive inteira. **Só fichas 🟢 carregam a seção** (lastro visível); nas demais ela some do modelo (opção a) — a citação mora no bloco-fonte, sempre. Máx. 3 por ficha. Transcrição **literal** — jamais parafrasear (PACTO G2.4).
+Transcrição **literal** entre aspas, com a fonte logo acima. Máximo 2–3 por ficha para não inflar o arquivo.

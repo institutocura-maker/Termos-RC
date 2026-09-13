@@ -68,12 +68,5 @@ Criado por autorização excepcional do curador (Devolutiva Trilogia TALM, O-3 �
 - ~~[REVISAR — grafia/fonética]: nome provisório; aguarda confirmação em fonte primária (palestra/livro)~~ — **RESOLVIDO (2026-08-27): grafia consagrada ANANQUE pela Devolutiva O-4 da P2021-07-24**;
 - Fontes: material do curador (ART-2025-08-03) + **a palestra P2021-07-24 (a fonte primária)**.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 14 (B5a) · ll. 28 (B2).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Tanã/Tânatos]: chancelada AGUARDA-ÁUDIO (F039-L5).** “Tânatos” existe no corpus (RC-736: Nyx, Érebo, Moros, Tânatos); atribuição a “Tanã” plausível, sem confirmação de áudio.
-- **[Friga]: RESOLVIDA (F038-L5).** = Frigga: RC-467 (U1363–U1368) confirma “Frigga [STT ‘Friga/fragil’]”, chancelado F039.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-777.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

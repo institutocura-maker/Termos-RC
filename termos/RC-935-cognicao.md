@@ -23,6 +23,5 @@ Aberta pelo F043-T3 (despacho de 06/09/2026, §2): expansão limitada aos termos
 |---|---|---|---|
 | EXT-2024-01-04 — Glossário Krys Amon (OBRA DE APOIO) | verbete «Cognição» | — | paráfrase/definição (fonte secundária) |
 
-## Nota — F043 T3 · Ficha nascida da expansão condicionada
-- Definição GKA, verbatim: «Capacidade de perceber e identificar.»
-- Cadastro criado por autorização expressa do despacho §4 (T3); zero arestas em `relacoes/` (blindado); nenhuma pretensão de canonicidade doutrinária — a ficha registra o que o corpus já usava, com o dicionário do parceiro ao pé da letra.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-935.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

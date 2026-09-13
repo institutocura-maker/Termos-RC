@@ -54,6 +54,5 @@ Aparece em **P2018-05-20**, U0003. Contexto: depois de Lilith fracassar (fugir d
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (a sequência Lilith → Agar → Eva como 3 tentativas).
 - A **racionalidade "evolutiva"** de Eva é a **marca distinta** que diferencia Eva de Pandora (instantânea) e Pirra (reflexiva). É o que **"sufocou"** a racionalidade dela no patriarcalismo.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-814.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

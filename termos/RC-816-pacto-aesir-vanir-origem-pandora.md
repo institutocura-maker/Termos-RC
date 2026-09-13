@@ -57,6 +57,5 @@ A palestra **NÃO FUSIONA o Kvasir da mitologia nórdica clássica com o "princ�
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: AGUARDA-ÁUDIO (dívida perdoada até nova evidência na base; STT preservado como falado) — ver nota]: a palestra de 2018-05-20 é a única fonte primária dessa formulação específica (Kvasir como origem da ideia de Pandora).
 - **Conexão com a P2017-05-14**: o autor já tinha apresentado Kvasir como "o primeiro demo da história" (que se tornou Chiva). Aqui em P2018-05-20 ele reinterpreta Kvasir como **origem da ideia de Pandora** — duas leituras paralelas do mesmo mito.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 57 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-816.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

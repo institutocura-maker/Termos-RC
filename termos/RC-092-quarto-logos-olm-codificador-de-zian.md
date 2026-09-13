@@ -262,21 +262,6 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Nota — Abaiuan (o destemor) — F031 aplicação (05/09/2026)
-
-- **[P2023-04-01b · A PONTE PARA O CONTRATO DA ESCOLA]** «na linguagem sânscrita, tem uma expressão chamada Abaiuan, que significa o destemor, não no sentido de medo disso ou daquilo, mas é o medo de ter ou não ter um resultado. Quando você age em Abaiuan, Jesus chamava isso de outra forma, dizendo: "Quando a mão direita não sabe o que a esquerda [faz]"» — grafia canônica da Base: **Abaiuan**. O doc-fonte F031 retransliterou «Abhaiyam»; sem código novo (Q-B/G4: nota nesta ficha).
-## Nota — Ohm ou Olm, Holos e a pílula vermelha — F033 aplicação (05/09/2026)
-
-- **[P2025-08-02 · apostila, l.272]** «O "Quarto Logos", também conhecido como Ohm ou Olm, não é uma divindade criadora, mas uma "autoridade ratificadora e retificadora" do que foi construído até esta etapa da evolução universal. Sua função emerge quando o "jogo divino" da Trimurti – Brahma/Javé, Vishnu e Shiva – atinge seu limite de exaustão, assinalando o fim dos "Poderes-criadores Ditatoriais".» — grafia dupla canônica da própria fonte: «Ohm» não é corrupção do compilador (auditoria F033 R-4).
-- **[P2025-08-02 · apostila, l.39 + l.631–633]** «Ele é o iniciador de um novo processo, visando o surgimento de uma "nova civilização de Holos".» + «Sua principal missão é atuar como "tutor e mentor para o conhecimento esclarecido", oferecendo a "pílula vermelha" para que estirpes e civilizações do universo alcancem a "compreensão adulta".» — a metáfora de Matrix é da fonte (P2021-12-04: «vamos usar aí a metáfora de matrix»), não do doc.
-- **[B014 · l.7984]** «O movimento em direção a uma civilização de Holos, não é uma mera opção: é um imperativo de sobrevivência.» — fecha a pendência do F031 (mapeamento 1.32 · G7): a nota pedia RC-163, que não tem ficha (fila — política F030); assentada aqui, no RC-092, a pedido do despacho F033-Q-B(ii).
-
-## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
-
-- **CHANCELA — TENSÃO INSOLÚVEL (l. 51), com correção de evidência.** O despacho determinara registrar «o silêncio do B050 sobre Olm»; a verificação de execução achou menção parcial: B050 original.txt l. 87, verbatim: «[ 5,000,000,000 a.p.] (trilha A, y=545) Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)» — o mapa corrobora o piso de 6 bi para a vinda do Codificador de Zion (Olm), dentro da faixa da curadoria 2025 («6 a 7 bilhões»). A tensão de molduras, porém, não se resolve: P2020-07-11 («ficou fora 5–6 bilhões de anos… só quando estabelecida a estratégia [mergulhou]») e P2025-06-26 (l. 56 desta ficha: «o quarto logos só mergulhou quando a vida biológica surgiu») não cabem numa leitura única de «surgir» vs. «assessorar». Chancela lavrada nos termos do despacho; a citação da l. 51 fica como está.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Morphia]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese registrada, sem paralelo.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -285,3 +270,5 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 - «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0014
 - «Mas esse espírito de Chiva A condição adi patrocinado todo esse processo, como também ele é que foi dando as dicas para o espírito de que é poder surgir junto com Sofia no concerto já da vida biológica para poder ir até o fim.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0020
 
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-092.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

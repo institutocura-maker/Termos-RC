@@ -43,10 +43,5 @@ A Espiritualidade Superior é o «lado de fora» do universo: o que não é acid
 ## Observação
 Nível de referência de toda a cosmografia da RC — eixo do Volume II da Enciclopédia e caixa «O FORA» do Mapa de Abstração (N0). A correspondência com Pleroma é leitura comparada, não identidade declarada pelo autor.
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Pleroma]: chancelada APROXIMAÇÃO DECLARADA (F040-L5).** Correspondência aproximada, sem promoção a equivalência.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-059.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

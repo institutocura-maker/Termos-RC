@@ -53,7 +53,5 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 
 Menção breve na palestra (resposta à plateia). A relação com “demos hesitantes” permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (sem ontologia até verificação) — ver nota]` — sem ontologia até verificação do áudio.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[demos hesitantes]: chancelada INCERTEZA COLECIONADA (F040-L5).** Sem ontologia até verificação.
-- **[Aingan]: RESOLVIDA (F038-L5).** = Awaymaion: o forno onde emergiu o primeiro Adão (ver RC-499; RC-500 registra Almaior/Alamaior como erro histórico de STT).
-- **[demos hesitantes/observações]: chancelada AGUARDA-ÁUDIO (F039-L5).** Sem ontologia até verificação do áudio.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-506.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

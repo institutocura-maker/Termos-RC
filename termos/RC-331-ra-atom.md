@@ -32,7 +32,5 @@ O verbete funciona como entrada filológica: é pela multiplicidade de nomes que
 ## Observação
 Verbete de filologia (Volume I, seção I.3 — a linguagem da RC). A equivalência entre nomes de tradições distintas é leitura comparada de Ellam.
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-331.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

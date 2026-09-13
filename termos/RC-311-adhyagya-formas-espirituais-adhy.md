@@ -49,6 +49,5 @@ Vishnu (RC-135); Shiva (RC-102); gênero Adhy (RC-011).
 ## Observações
 Ficha baseada em B022 (obra primária). Adhyagya ≈ a forma espiritual/consciência dos Adhy que sustenta as expressões Adhydaiva da Trimurti. Relação com Adhyagia (RC-012) resolvida P5c: condição × formas, sem fusão (311 é-um 012 no registro).
 
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Bhavanga (verbete)»: as partes despedaçadas do Criador como base do jogo bhavanga — eco doutrinário do Adhyagya no glossário do parceiro.
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-311.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

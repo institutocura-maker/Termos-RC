@@ -411,12 +411,5 @@ Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressã
 ---
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 24 (B5b) · ll. 28 (B3) · ll. 194 (B5a) · ll. 224 (B2).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[fósforo/fóssil]: chancelada AGUARDA-ÁUDIO (F039-L5).** Leitura “fósforo” registrada contra STT “fóssil”; sem confirmação.
-- **[ADIBUTA]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese adibuddha (buda primordial) registrada, sem confirmação.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-072.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -33,5 +33,5 @@ Termo candidato.
 
 O episódio da Naga pacificada pelo som da flauta é retomado. A palestra acrescenta a hipótese de intuição do Conselho das Nagas na descoberta da respiração/Yoga por Shiva. O nome `Anarata/Ana Rata` permanece `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO (hapax) — ver nota] STT`.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Anarata/Ana Rata]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-668.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

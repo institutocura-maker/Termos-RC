@@ -87,6 +87,5 @@ Edimburgo, Split e Naimisharanya permanecem localizações atribuídas à palest
 - **Decisão editorial aplicada:** manter RC-611 exclusivamente no arco Flechas/Profecias de Moros. O suposto sinal do James Webb permanece fora da ontologia, exclusivamente no radar externo de fontes e sob quarentena científica.
 - **Quarentena:** a comparação é uma pergunta da plateia e uma resposta autoral; não é identificação física, astronômica ou ontológica do sinal.
 
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 28 (AG).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-611.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

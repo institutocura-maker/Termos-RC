@@ -45,6 +45,5 @@ Tema-título da palestra de 14/06/2025: a **finalidade/propósito evolutivo** da
 
 "A chave da decifração universal" é **conceito próprio de Ellam**, metaforicamente ancorado na consciência humana; não é objeto físico nem capacidade cientificamente mensurável. As citações de Pitágoras/Protágoras e a cronologia associada são leitura do autor. O verbete descreve o propósito evolutivo na narrativa da RC, sem afirmação factual externa.
 
-## Nota — Tikkun (o reparo) — F031 aplicação (05/09/2026)
 
-- Glossário 2025-08-03 (*Dossiê Fenvans*): «Tikkun: Conceito cabalístico que significa "reparo" ou "conserto". No contexto da Revelação Cósmica, refere-se à capacidade humana de "consertar" o DNA herdado de Javé e de reparar o próprio Criador e sua criação.»; a fonte oral P2021-06-26 grafou o termo no próprio título («…e o Tikum»). Registrado no ledger como **RC-864** (sem ficha); G3/Q-B: nota, não código novo.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-754.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

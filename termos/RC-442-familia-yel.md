@@ -107,5 +107,5 @@ Yel Luzbel (RC-142); Len Mion (RC-074, estirpe rival); Sophia (RC-009, criadora 
 ## Observações
 A narrativa psicografada descreve os Yel como "individualizados" — nuance que difere do quadro geral da RC (capelinos como seres de mente coletiva); registrar como ponto de atenção (item README) para reconciliar com as obras primárias de Ellam. Dado cronológico: 492 milhões de anos e 5.545 integrantes vêm exclusivamente de B057 (fonte secundária psicografada).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[VALENO]: RESOLVIDA (F038-L5).** Forma aceita no corpus (RC-080 U0004 «Valeno chamou de mensagem talm», sem flag; +RC-378, RC-848). **[MILENO]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-442.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

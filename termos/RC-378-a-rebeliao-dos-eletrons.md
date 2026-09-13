@@ -123,8 +123,5 @@ A hipótese sobre reprodução, orientação sexual e identidade de gênero perm
 
 **Fonte:** P2025-03-15, U0116–U0120, U0311–U0384, U0723–U0789 e U1148–U1155 — fonte incompleta.
 
-## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
-- **Q-F040-C · CHANCELA DADO-NARRATIVO:** «acabou em fevereiro desse ano [2025]» — a âncora [2025] da própria linha é o registro; nenhum código de data novo é criado, a cronologia oficial não é tocada.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Ohm]: RESOLVIDA (F038-L5).** “Ohm” é grafia impressa de B041 (“Quarto Logos (Ohm)”); variação de Olm registrada, sem código novo.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-378.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

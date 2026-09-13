@@ -133,6 +133,5 @@ O eBook *Moros — O Livro* lista `Phanis/Phanes` como manifestação de Moros. 
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 | P2024-11-30 | Moros – Arquivos do Destino Universal (palestra) | — | apostila, ll.194–200 |
 
-## Nota — «Moron» [STT — Phanes/Protogonos] — F033 aplicação (05/09/2026)
 
-- **[P2024-11-30 · apostila, l.200]** «Foi assim que surgiu um ser chamado Moron [STT — Phanes/Protogonos].» — alíás manuscrito de Mohen So no registro de fala (STT); nota do editor (l.196) já remete a esta ficha: «ver RC-282 (Mohen So = Phanes/Protogonos) ampliada — o "ser com quatro cabeças" (leitura do autor)».
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-282.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

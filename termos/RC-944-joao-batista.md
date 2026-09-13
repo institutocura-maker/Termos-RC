@@ -38,11 +38,11 @@ E (Aula 02), sobre o batismo como necessidade:
 ## Observação
 **Quarentena teológica** — a moldura essênia e a leitura da hesitação de Jesus são de Ellam. `relacoes/` blindado (0 arestas novas).
 
-## Nota de governança
-F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do translado; nenhuma aresta nova.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - ««Depois de 400 anos de silêncio profético, João Batista começou a dizer que o Messias iria aparecer no tempo da vida dele, que era naquele tempo que aquele Messias profetizado na faixa de 2000 anos, finalmente tinha chegado o momento.»» — *ver:* **Contexto / Origem**
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-944.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -70,10 +70,5 @@ Modelagem coletiva escolhida pelo curador para simplificar a ontologia e prepara
 - **Linhagem espiritual:** a "mesma turma" que encarnou na época de Seth encarnou na época de Jesus (gnósticos) — e hoje forma a **Raça Inabalável dos Sethianos Emancipados (RC-766)**;
 - **Habilitados ao Tikun (RC-514):** os setianos "que não venderam as suas dignidades" (RC-722) se habilitam ao reparo da criação (novas arestas RC-594 ↔ RC-072, RC-594 ↔ RC-514).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 23 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Seth 105/912]: RESOLVIDA (F043-L5).** Gen 5:8: Seth viveu 912 anos; STT “105” preservado como falado.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-594.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

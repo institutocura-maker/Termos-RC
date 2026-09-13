@@ -40,6 +40,5 @@ Leitura do autor; já registrado também em P2022-12-17 e P2025-03-15.
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 12 (B3).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-563.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

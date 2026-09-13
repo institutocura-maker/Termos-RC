@@ -36,10 +36,6 @@
 
 [P2024-08-03] Códigos, genética e ovos cósmicos são linguagem da cosmologia de Ellam. Não constituem genética, física, história das religiões ou ciência validada.
 
-## Nota de governança
-
-[P2024-08-03] As formulações mitológicas, cosmológicas, zoológicas, históricas, religiosas, genéticas, biológicas ou clínicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais. Não equivalem a consenso científico, histórico ou religioso.
-
 ## Ampliação — P2024-07-14
 
 - **[P2024-07-14] AE-CED16 — U0665–U0675; U0691–U0714:** Acrescenta a fala segundo a qual deuses/avatares fatiados, competição por soberania e incapacidade de reparar a criação seriam sinais de falência funcional. É cosmologia e Teologia Comparada de Ellam, não consenso religioso.
@@ -93,3 +89,5 @@
 - **[P2023-12-03 · FALÊNCIA DOS DEUSES NA FALA DE 03/12/2023]** «A somatória dos estresses extremos, da falência das religiões, da falência do psiquismo das pessoas, da falência de todas as utopias, da falência de tudo aquilo que os humanos sonharam.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2020-04-25`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-742.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

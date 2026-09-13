@@ -47,5 +47,5 @@ Charon (físico nuclear francês); Criador (RC-041).
 ## Observações
 Ficha baseada em B041 (obra primária). A dança dos elétrons é a "física" por trás da criação material — conecta a ciência à cosmologia RC.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[13,8 mi × bi]: chancelada CONTRADIÇÃO REGISTRADA (F040-L5).** Intra-obra; não fundir.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-379.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

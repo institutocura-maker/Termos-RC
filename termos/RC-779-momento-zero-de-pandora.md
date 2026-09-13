@@ -46,7 +46,5 @@ Aparece em **P2018-10-06**, U0004, no contexto da **sequência formativa** (Pand
 - [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: o "momento zero" também aparece em RC-611 com sentido cósmico-maior (a criação); esta ficha é especificamente a inflexão humana.
 - Quarentena: leitura do autor; sem fusão com teoria do Big Bang ou evento-chave paleontológico.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 46 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-779.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

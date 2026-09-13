@@ -41,10 +41,6 @@
 
 [P2024-09-29] Cautela máxima: a história imperial japonesa e o Xintoísmo têm contextos próprios e não podem ser reduzidos à cosmologia do projeto. Descendência divina ou biológica não é tratada como fato histórico ou genético.
 
-## Nota de governança
-
-[P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
-
 ## Ampliação — P2024-09-29
 
 - **Kojiki e Nihon Shoki (P2024-09-29):** "existem dois livros sobreviventes, os mais antigos escritos no Japão, cujas crônicas datam do século VI, mas a tradição oral é muito mais antiga, vem de alguns milênios: é o Kojiki e o Nihon Shoki"; "todos os dois têm uma preocupação básica: descrever a genealogia de todos os imperadores divinos e humanos que o Japão teve, sendo todos eles descendentes de Amaterasu".
@@ -54,3 +50,5 @@
 - **Função do Kojiki:** "o Kojiki não tem a função de colecionar mitos, mas sim de apresentar uma genealogia oficial para provar que as famílias aristocráticas da corte devem servir à família real imperial, porque seus ancestrais assim o fizeram desde a era dos deuses."
 
 ---
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-737.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

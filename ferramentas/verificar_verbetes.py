@@ -40,6 +40,10 @@ def main(pasta=None):
     corpus = ""
     for p in sorted(glob.glob(os.path.join(RAIZ, "termos", "*.md"))):
         corpus += open(p, encoding="utf-8").read()
+    # 2.4 (12/09/2026): notas de processo migraram verbatim para notas/fichas/ —
+    # lastro lá é lastro da ficha; o corpus do verificador acompanha o arquivo.
+    for p in sorted(glob.glob(os.path.join(RAIZ, "notas", "fichas", "*.md"))):
+        corpus += open(p, encoding="utf-8").read()
     codigos = {t[0] for t in d.TERMOS}
 
     falhas_q, falhas_c, total_q, n_cod = [], [], 0, 0

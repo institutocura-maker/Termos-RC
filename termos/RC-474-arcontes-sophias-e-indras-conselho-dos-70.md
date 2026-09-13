@@ -135,6 +135,5 @@ Trecho truncado na transcrição — `[frase truncada]`. Contexto geopolítico a
 
 **Trecho verbatim:** «Os arcontos quando perceberam que os humanos tinham essa coisa de bondade, eles caram que é isso? Que é isso? Que é isso? E quiseram destruir isso nos humanos, porque isso eleva a vibração dos humanos a um padrão que foge ao controle do big data, ou seja, da maneira como os clones e os arcontes acompanham o próprio genoma humano.»
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada
-- **[seis da Tridevi e da Trimurti]: chancelada AGUARDA-ÁUDIO (F039-L5).** STT parcial assumido; sem normalização até o áudio. (10/09/2026 · delegação “deixa fluir”)
-- **[Antiondel→Antiandel]: RESOLVIDA aqui (F038-L5).** U0002 confirma “Antiandel”; flag do RC-005 encerrada no Lote 5.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-474.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -34,7 +34,5 @@ A ficha de Pandora (RC-086) registra a identidade-val, e a de Kalil Kadmon (RC-2
 ## Observação
 Verbete exigido pela seção IV.17.4 da Enciclopédia (Pandora, o Éden e as hibridações). As identidades sobrepostas de Pandora são uma das «identidades que se confundem» que o percurso top-down manda destravar no N2.
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-118.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

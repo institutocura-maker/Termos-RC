@@ -120,5 +120,5 @@ Brahma (RC-037); Javé (RC-001); Vishnu (RC-135); Shiva (RC-102); En Drel (RC-05
 ## Observações
 Ficha baseada no glossário de B031. O termo "Criador" funciona como **canônico** para a entidade Brahma/Javé/Demiurgo — as demais grafias são variações.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[diferenças × B003]: chancelada TENSÃO REGISTRADA (F040-L5).** Não fundir, já decidido.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-041.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

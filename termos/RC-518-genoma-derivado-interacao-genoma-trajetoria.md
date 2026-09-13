@@ -50,5 +50,5 @@ Quarentena científica — leitura do autor.
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[25.869 genes]: chancelada NÚMERO COMO FALADO (F039-L5, B5).** Paralelo em RC-710 (mesma fala P2025-02-15).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-518.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -98,18 +98,6 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 
 - **[A entropia: a energia tamásica crescendo até 100%] (U0012)** «Quando ela chegar 100% você acaba tudo. Isso chama-se entropia.» — "eu vou aplicar a minha energia tamásica aqui leve, mas ela vai crescendo, crescendo, crescendo" (U0012: «Ela, então vamos dar um tempo, eu vou aplicar a minha energia tamásica aqui leve, mas ela vai crescendo, crescendo, crescendo.»); "É uma face da opia que garante que tudo aqui vai acabar tudo o quê?" (U0012: «É uma face da opia que garante que tudo aqui vai acabar tudo o quê?» — STT; sem emenda).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 29 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
-
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Entropia — COSTURA-MESTRA»: «ação desagregadora advinda da energia Tamas, de Savna (Ser Adhyatman, de Perpérion, localizado na Espiritualidade Laboratorial, e que mergulhou na Criação, constituindo-se como Shiva)… selo de garantia da finalização de uma Obra que sequer deveria ter sido iniciada».
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
-- **COSTURA (Anel B, despacho §1):** o verbete é a única fonte escrita da Arca que encadeia nominalmente RC-160 + RC-151 (Tamas) + RC-102/RC-409 (Savna/Adhy-Savna) + família Adhy- (RC-037/310/311/411) + RC-514 (Tikun) + Perpérion (RC-047, averbada no T3). Lavrada aqui por ordem expressa; nenhuma aresta em `relacoes/`.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Charon]: RESOLVIDA (F043-L5).** Jean-Émile Charon confirmado externamente: físico nuclear francês (CEA Saclay), Relativité complexe (1977), elétron como microuniverso.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -117,3 +105,5 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 - «Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado.» — *ver:* **Ampliação — P2023-02-12 (A Desconexão dos Desígnios Profé…** U0087
 - «Isso começou há cerca de 4 bilhões de anos atrás, quando o universo começou a se expandir até uma aceleração, a sua expansão se acelerou como forma de acabar mais cedo.» — *ver:* **Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião …** U0020
 
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-160.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -51,10 +51,6 @@
 
 [P2024-09-29] Alegação extraordinária genética e histórica restrita à interpretação de Ellam. Descendência divina, marcadores genéticos e continuidade monárquica não são apresentados como genealogia ou genética validada.
 
-## Nota de governança
-
-[P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
-
 ## Ampliação — P2024-09-29
 
 - **Aristocracia Olimpiana × Monarquias Terrestres (P2024-09-29):** as monarquias terrestres como cópia do modelo de dominação da aristocracia olimpiana (Zeus/Atena/Poseidon); "era isso que Javé, Zeus e todo mundo queria: humanos submetidos aos deuses"; "não há nenhum exemplo maior do que [o Japão], porque os japoneses de fato se submetem à casa imperial japonesa — o maior exemplo e o mais atual".
@@ -106,3 +102,5 @@
 - **[P2023-12-03 · ARISTOCRACIA OLIMPIANA E MONARQUIAS TERRESTRES NA FALA DE 03/12/2023]** «tipo uma rainha da Inglaterra, um rei da Inglaterra, em que todo mundo faz de tudo e de vez em quando ele mostra lá, cara.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-04-15`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-736.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

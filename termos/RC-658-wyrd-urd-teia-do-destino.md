@@ -148,24 +148,6 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 |---|---|---|
 | P2023-07-09 | A Wyrd Quântica, o Processador Val e a Rebelião dos Elétrons (palestra) | — | transcrição automatizada; citação |
 
-## Nota — teia ~9 bi — F034 aplicação (05/09/2026)
-
-- teia ~9 bi (P2025-08-03, apostila ll. 826/882) — averbação sem blindagem, por despacho Q-F034-B; retifica o veto D-5 do ciclo F032 (a cifra tem âncora de curadoria, na camada-apostila do dossiê; o original.txt do dossiê não a contém, e a frase de B016 continua referente à entropia pós-início).
-- **[P2025-08-03 · apostila, l.826 — verbete Moros]** «Criou a "teia quântica" (Wyrd) há cerca de 9 bilhões de anos, uma fonte de registros factuais que controla um fluxo de informações ao qual até os deuses estavam submetidos.»
-- **[P2025-08-03 · apostila, l.882 — verbete Wyrd]** «Wyrd: "Teia quântica" ou "fonte de registros factuais" engendrada por Moros há cerca de 9 bilhões de anos.»
-- **[P2023-08-05 · DOSSIE-PRE-CURADORIA, l.21 — antecedente]** «RC-658 [F] (opcional): "Moros/Orlog engendrou a Wyrd há 9 bilhões — a teia quântica que associa grau de podridão codificado com necessidade/capacidade de resiliência".» — a cifra já fora proposta à curadoria em 2023.
-
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
-
-- **«Word» = Wyrd; «normes» = Nornes (l. 84): ENCERRADA.** A equivalência que a flag pedia já está lavrada na própria anotação da ficha (linha U0033) — a flag esvaziou-se por anotação prévia; nada mais a pendenciar.
-
-## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
-- **Q-F040-A · ENCERRADO-RATIFICADO:** a própria fala resolve a grafia — «EU TÔ USANDO IRÉM/IRON PORQUE É A EXPRESSÃO MAIS ANTIGA QUE EU CONHEÇO, ARCA DRUÍDICA» (P2023-05-20). Equivalência IRÉM ≡ IRON lavrada por anotação, no mesmo modelo Wyrd/Nornes chancelado no Lote 2 para esta ficha.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 91 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -174,3 +156,5 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 - «Ele junto com a ajuda de Vdo, pois sua descendência via Nix era via eles então criaram uma um genuo, uma loca específica para, entre aspas reter esse mecanismo, esse campo quântico, virou uma espécie de uma loca de muito especial, diferente das outras, porque ali não existiam seres, era uma loca eh […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
 - «A partir desse ponto em que houve essa organização, todos os seres ficaram associados aos campos de registro comportamental das estirps e o sistema automatizou-se, como eu disse antes, saindo do controle mental operacional de horlog, ainda que os demais seres jamais souberam que a interface então […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
 
+
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-658.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

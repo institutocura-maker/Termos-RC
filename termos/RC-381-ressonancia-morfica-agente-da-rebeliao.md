@@ -120,10 +120,6 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fonte publicada (B041) e em fontes orais do acervo; nenhuma citação foi conferida com o áudio. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 39 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -132,3 +128,5 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0031
 - «o tempo inteiro, enquanto a espécie esteja existindo, quando a espécie é extinta e não tem mais nenhum membro enviando via ponte quântica do seu DNA com o campo quântico o seu comportamento, porque esse corpo morreu, o campo mórfico daquela espécie tende a também colapsar e deixa desistir.» — *ver:* **Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da…** U0031
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-381.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

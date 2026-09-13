@@ -102,13 +102,5 @@ editada por este ciclo.
 * Esta ficha **não** afirma que a nave exista fisicamente no Atlântico Norte: transcreve, com endereço, a afirmação
   de que ela «pulou umita para cima e continuou flutuando» como a fonte a disse, em 2023.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 96 → ISOLAMENTO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
 
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 99 (RA).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Alto Longró/Langron/Longron]: chancelada AGUARDA-ÁUDIO (F039-L5).** Nenhuma forma STT promotiona o par do cadastro; cluster paralelo em RC-036.
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-018.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

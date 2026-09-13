@@ -79,20 +79,11 @@ Nome demo de Pandora anterior à sua humanização: na cosmologia de Ellam, a ca
 
 Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota]; a identificação com Kalil Kadmon segue a ficha de B021 (O Sorriso de Pandora).
 
-## Nota de governança
-
-[P2024-08-03] As formulações mitológicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
-
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 80 (B5b).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Cali Calon]: RESOLVIDA (F038-L5).** Par “Kalil Kadmon [STT ‘Cali Calon’]” paralelo em RC-086, sem flag; grafia fonética preservada.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0003
 
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-299.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

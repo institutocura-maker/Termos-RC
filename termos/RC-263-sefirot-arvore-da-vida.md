@@ -84,7 +84,5 @@ Kether/Javé (RC-261); Deidade (RC-047).
 ## Observações
 Ficha baseada em B013 (obra primária). As Sefirot conectam a Cabala à cosmologia RC: são o "mapa" do império além-mundo de Javé. Cruzar com RC-264 (os quatro universos associados às Sefirot).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 49 (B4).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B4:** TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA (precedente Senequeribe) — a Arca documenta a Revelação Cósmica, não julga anacronismos seculares.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-263.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

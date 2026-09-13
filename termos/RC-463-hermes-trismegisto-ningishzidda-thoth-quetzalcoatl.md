@@ -72,5 +72,5 @@ Descrições biográficas (140–150 mil anos; nascimento; descendência) são *
 - **Nova aresta RC-463 ↔ RC-655** (Hermes/Thot ~ Revelação de Ifá — a escrita como registro do conhecimento);
 - "Nós, os humanos modernos, só conseguimos criar a escrita em algumas línguas nos últimos 4.000 anos" (leitura do autor).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[4.261 a.C.]: chancelada AGUARDA-ÁUDIO (F039-L5).** Data STT como falada.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-463.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

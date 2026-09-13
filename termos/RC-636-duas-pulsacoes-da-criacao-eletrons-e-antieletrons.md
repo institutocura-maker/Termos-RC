@@ -93,6 +93,5 @@ Postulado da palestra, não consenso científico.
 
 Status candidato por depender de palestra e alegações ainda não cruzadas integralmente com obras primárias.
 
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 47 (IS).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-636.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

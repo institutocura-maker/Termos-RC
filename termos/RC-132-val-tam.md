@@ -53,10 +53,5 @@ Val Aten (RC-502), Frota Norte (RC-065), Val-Ha (RC-109), Fornos Replicadores (R
 
 **Regra de status:** 🟡 provisório — materializado por Devolutiva ART-2025-08-01; aguarda confirmação em fonte primária.
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **Awayen × Awayem (ll. 19 e 24): CHANCELA — FONTE AUSENTE DA ARCA (estado sancionado no despacho Q-A).** A dúvida incide sobre o TÍTULO IMPRESSO de B083 («Awayen/Awayem – A Central de Realidades»), obra anunciada e não possessa pela Arca (certificado F035-V4); nem livro, nem mapa, nem palestra dirimem. As flags deixam de ser pendência e viram averiguação registrada — só a posse da obra a levanta.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 29 → DADO-NARRATIVO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-132.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

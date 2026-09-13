@@ -91,13 +91,5 @@ O vocabulário controlado já citava Nibiru como exemplo a confirmar, mas não h
 - **Especiação anunnaki:** "a turma que ficou aqui na Terra, decorridos 400.000 anos, adquiriu alguns complementos na sua condição física que ninguém de Nibiru tem, são diferentes";
 - **Nibiru como origem:** Anu, imperador de Nibiru (RC-587), e a dinastia que enviou Enki/Enlil/Ninmah à Terra (~450.000 anos).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 37 (B2).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
-- **Migração declarada:** a(s) linha(s) reivindicada(s) em overlap exato pelo censo também como L5-OUTROS **não** foi(ram) carimbada(s) neste lote — deferida(s) ao julgamento do L5 para não fechar dívida alheia.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 38 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-589.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

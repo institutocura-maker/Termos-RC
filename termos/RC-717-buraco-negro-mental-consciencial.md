@@ -102,5 +102,5 @@ A implosão de Javé em 2021 e a aceleração do colapso do universo vizinho sã
 - **Decisão editorial aplicada:** absorver como **alegação**, sem literalidade astrofísica, neurológica ou clínica. O status do verbete não muda.
 - **Quarentena:** separar este uso do sinal do James Webb e de buracos negros astronômicos; não usar para diagnosticar pessoas nem para afirmar uma descoberta científica.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[colapso 2021]: chancelada AGUARDA-EVIDÊNCIA (F037-L5).** Ausência documentada (ver RC-001).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-717.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -83,9 +83,5 @@ dos mamíferos" — a mesma definição ("criados para chupar sangue de mamífer
 vampiros"). Fontes e referências unificadas aqui (6 fontes; RC-322/RC-102/RC-414 incorporados).
 Remissiva em RC-872. Despacho do Curador, 10/09/2026 (caso Rxaça = Rakshasa).
 
-## Nota — paralelo RC-794 (10/09/2026 · despacho do Curador)
 
-- A família STT "rxá / Rxaça / Rxassa / rachaça / raxchaça / raquchas" (RC-794 e paralelos F038:
-P2023-05-13, P2025-02-16, P2025-11-29 "Ravana, rei dos rxaças", P2022-03-26 "Pros rakas echaças")
-é este termo — ver Nota-RESOLUÇÃO em RC-794. As variantes já capturadas nesta ficha
-("racchaças, rakchaças, raquchaças") ficam acrescidas das de RC-794, sem harmonização.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-581.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

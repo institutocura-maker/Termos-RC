@@ -54,6 +54,5 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica o **mecanismo de
 - **Quarentena mitológica**: Soca **NÃO É APENAS** o Sokar egípcio (deidade funerária do Mênfis, relacionada a Ptah). É uma **interpretação do autor** que funde Sokar + Rudra + Reis em um único "receptor universal".
 - **Paralelo acadêmico**: a interpretação do autor tem ressonância com a teoria de **"complexo de Deus"** (Robert S. Ellwood, *The Eagle and the Rising Sun*, 1974) — onde divindades de diferentes mitologias são o "mesmo princípio" visto de culturas diferentes.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 53 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-821.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

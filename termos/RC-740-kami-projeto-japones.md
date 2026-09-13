@@ -38,10 +38,6 @@
 
 [P2024-09-29] O termo não redefine kami nem a taxonomia do Xintoísmo. Amatsukami e a possível forma Kotoamatsukami/Takamimusubi permanecem [REVISAR → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota] onde a STT não é segura.
 
-## Nota de governança
-
-[P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
-
 ## Ampliação — P2024-09-29
 
 - **Kami (P2024-09-29):** "o xintoísmo é a religião do Japão, que no fundo é basicamente o culto aos deuses chamado Kami"; "os kami seriam os mais novos, os amatsukami, os mais antigos"; "o takamimusubi representa os deuses primordiais que eram anteriores inclusive aos amatsukami" — a classificação japonesa equiparada ao panteão grego (destaque O-2).
@@ -49,12 +45,5 @@
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 39 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 35 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-740.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

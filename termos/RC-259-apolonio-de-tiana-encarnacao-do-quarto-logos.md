@@ -79,5 +79,5 @@ Ficha baseada em B016 (obra primária) + B031. O cap. 8 de B016 é narrado na 1�
 - **Três magos = três iniciados:** "Jesus recebeu a visita de três magos. Não, foram três iniciados. Iniciado era um arquétipo antigo" (leitura do autor);
 - Nova aresta RC-463 ↔ RC-259 (Hermes Trismegisto ~ Apolônio).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[raçamadi/RAJA YOGA]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese RAJA YOGA registrada.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-259.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

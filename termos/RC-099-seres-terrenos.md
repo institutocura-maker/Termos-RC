@@ -52,7 +52,5 @@ O termo é o «nós» da narrativa: aparece em 21 fontes do censo, o que o torna
 ## Observação
 Materialização de âncora estrutural do Volume IV (Antropogênese). Quarentena: a antropogênese da RC é leitura de Ellam e não substitui nem a biologia evolutiva nem a teologia das religiões.
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-099.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

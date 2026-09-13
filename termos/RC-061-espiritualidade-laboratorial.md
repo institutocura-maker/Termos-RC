@@ -49,7 +49,5 @@ O terceiro e mais denso dos três níveis: a região da «Experiência Laborator
 ## Observação
 O elo mais citado e menos documentado da cosmografia — materializado por exigência da estrutura da Enciclopédia (Volume II, seção II.7.2).
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-061.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

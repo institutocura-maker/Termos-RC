@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (espelho principal; Onda 1.7-b JSON-canônico)
+# STATUS: ATIVO-P7 (espelho principal; Onda 0.2 loader)
 """Gera a planilha consolidada da Base Terminológica RC (base-terminologica.xlsx)
-a partir do canônico base/canonico.json (exportado de ferramentas/dados_termos.py).
-Paridade 1.7-b: por CONTEÚDO (célula a célula) — o artefato é zip com timestamps.
+a partir da tabela-mestra ferramentas/dados_termos.py.
 Execute a partir de rc-terminologia/ :  python3 ferramentas/build_xlsx.py
 """
 import sys, os
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
-from loader import carregar_canonico, BIBLIO  # Onda 1.7-b: JSON-primeiro
-TERMOS, RELACOES = carregar_canonico()
+from loader import TERMOS, RELACOES, BIBLIO  # Onda 0.2/1.3: loader único
 
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side

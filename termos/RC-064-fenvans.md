@@ -75,6 +75,5 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 - QUARENTENA CLÍNICA: Toxoplasma Gondii, "DNA lixo", vírus como "nanorrobôs" — leitura do autor, jamais dado biomédico;
 - Ficha materializada por Devolutiva O-2 (Trilogia TALM).
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **«A grafia do bruto varia» (l. 37): ENCERRADA por inexistência da variação.** Varredura do bruto P2023-12-03 (original.txt): «fenvan» 2×; variantes «femban/fenban/fenvam/femvan» **0×**. O receio do levantamento não se confirmou no arquivo — flag liquidada com a contagem provando.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-064.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

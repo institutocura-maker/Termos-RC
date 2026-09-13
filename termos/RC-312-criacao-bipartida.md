@@ -46,5 +46,5 @@ B022, Introdução (voz de Ellam, pp. 4–7): em experiência visionária, Ellam
 - Introdução do B022 (pp. 4–7) = voz de Ellam, conforme ficha_ingresso do ciclo; sem fusão com física acadêmica de multiverso.
 - Ver também conceitual (**sem aresta** em `RELACOES`): RC-811 Fissão em Dois Universos — o evento físico matéria×antimatéria (P2017-05-14); RC-167 Criação Indevida — o status da obra. Estrutura (312) × evento (811) × status (167): três códigos distintos, sem fusão.
 
-## Nota — MATERIALIZAÇÃO P6r (10/09/2026 · decisão delegada)
-- Ficha materializada a partir de B022 (primária) + P2024-11-30, no rastro da análise estrutural do Assistente do Curador sobre RC-811: a "Fissão" (811) nomeia o evento físico; a "Criação Bipartida" (312), a estrutura doutrinária; a "Criação Indevida" (167), o status. Três códigos, três funções — nenhuma fusão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-312.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

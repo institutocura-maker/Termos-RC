@@ -76,14 +76,6 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 
 ---
 
-## Nota — P2023-12-02 + pista do curador (2026-08-18)
-
-- A palestra P2023-12-02 confirma Mohen So = Phanes/Protogonos (orfismo; ovo cósmico; ver RC-282);
-- **Pista do curador:** na documentação confiável dele, **Mohen So = Avatar Keshava** (já canônico no nome deste verbete) e **Krishna = Avatar biodemol Keshava** — reforça a hipótese de que o STT "quachadas/quechada" distorce **"Keshava"** (Colecionar Incertezas; VETO ESTRITO mantido).
----
----
----
-
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · MOHEN SO (AVATAR KESHAVA DE VISHNU) NA FALA DE 03/12/2023]** «criou um avatar chamado Rockmar em árabe e Sofia em grego.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-06-25`); a entrada desta fonte é de **conteúdo**, não de data.
@@ -109,17 +101,11 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - **[P2024-11-30 · apostila, l.194]** Caos: «Eu concordo, desde que a gente crie um ser com quatro cabeças: uma, você, Eros; outra, você, Tártara; e a outra, para ser sem lacre. Mas tem que ser no mesmo corpo, porque, se ele tiver a besta [solta], nós três a gente ataca e mata.» + (l.200) «Foi assim que surgiu um ser chamado Moron [STT — Phanes/Protogonos]. Moron surgiu com a somatória da genética dos três, mas sem lacres, sem travas.» — a cabeça «sem lacre» (a livre) é a razão de Mohen So. A reformulação do doc («uma livre e cada uma das três outras obedecia a um dos Senhores») fica de fora: vale a formulação da apostila (ledger F033 D-4).
 - Fontes: **P2025-08-03** acrescentada ao cadastro; o alíás «Moron» está espelhado na ficha RC-282.
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
-
-- **Morren So × Mohen So (l. 99): ENCERRADA com consagração de Mohen So.** Livros do acervo: «Mohen So» **84×**, «Morren So» **0×**; apostilas: 255× × 81× (as variantes «Morren/Moren So» são exclusivamente de transcrições orais). Canônimo grafado: **Mohen So**; variante oral registrada na própria ficha (sem fusão de identidade — a questão da fusão esvazia-se: tratam-se, univocamente, da mesma entidade).
-
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 32 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «Eu concordo, desde que a gente crie um ser com quatro cabeças: uma, você, Eros; outra, você, Tártara; e a outra, para ser sem lacre. Mas tem que ser no mesmo corpo, porque, se ele tiver a besta [solta], nós três a gente ataca e mata.» — *ver:* **Ampliação — F033 aplicação (05/09/2026): a desconstituiçã…**
 
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-081.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

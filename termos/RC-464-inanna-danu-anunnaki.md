@@ -80,12 +80,5 @@ Anu (RC-587 — avô e, nesta fonte, amante); Enki (RC-486) e Enlil (RC-487) —
 
 **Regra de status:** 🟡 provisório — a ficha existe e está fundamentada em fonte do acervo, mas nenhuma das citações foi conferida com o áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações: o que o autor disse está registrado *como dito*.
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **ISAR ≈ ISHTAR (l. 29): ENCERRADA — EQUIVALÊNCIA CRAVADA (despacho Q-F038-D, opção D1).** Fica grafado: «Isar» = **grafia de fala (STT) de Ishtar** na fonte; códigos do cluster Inana/Danu mantêm seus títulos (nenhum renomeado) e a variante fica registrada como tal.
-- **Senequiribe/Senequaribe (l. 38): CHANCELA — querência oral da própria fonte.** O expositor autodeclara a incerteza («acho que o nome é esse, Senequaribe, alguma coisa»); assiriologia não tem tribunal na Arca; a oscilação de grafia fica registrada como traço da fala (a equivalência Isar=Ishtar da mesma linha morre pelo carimbo D1 acima).
-
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 42 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-464.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

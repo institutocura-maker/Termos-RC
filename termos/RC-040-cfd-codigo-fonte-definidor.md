@@ -100,13 +100,6 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
   computacional, não há paralelo com «código-fonte» em engenharia de software. O sentido é o das obras vinculadas
   (definição escrita da vida biológica) mais o que a fala de 2023 acrescenta sobre organização e paz.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 95 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[padroes/Javer]: chancelada FORMAS PRESERVADAS (F039-L5).** Decisão já registrada na ficha; sem emenda.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -115,3 +108,5 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 - «Só quando os cvães ou elfos foram criados é que essa coisa de ter líquido dentro do corpo de plasma deles ou um tipo de líquido que ainda não é água, surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
 - «padrões arquétipos do código fonte definidor do criador, que ou isso aqui fica organizado ou jamais esse ser aqui terá paz, terá condição psíquica de trazer para si tudo que dele foi fragmentado.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
 
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-040.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

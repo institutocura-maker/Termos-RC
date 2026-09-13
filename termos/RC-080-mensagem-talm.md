@@ -81,12 +81,11 @@ Mensagem enviada **de fora do simulacro** (da espiritualidade / dos fenvans, lig
 - “Sinal de Lel/Lzen” → obra **“O Sinal de Lemur”** (decisão do curador, registro provisório — `[REVISAR → CHANCELA 10/09/2026 · F039-L5: AGUARDA-ÁUDIO — ver nota]` com áudio);
 - "Brasira" → provável Brahmaloka (STT) — não cadastrar como termo.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Brasira]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese Brahmaloka registrada.
-- **[O Sinal de Lemur] (2 flags): chanceladas AGUARDA-ÁUDIO (F039-L5).** Título provisório por decisão do curador; confirmação só com áudio.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «E vamos jogar, passar daqui para cá para semear esse universo vizinho com o nosso vírus, porque lá a gente pode tentar produzir um tipo de vida que aqui não existe e essa vida pode produzir evolução, produzir novas sequências genéticas que a gente copie, aproprie e resolva o nosso problema de […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0070
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-080.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

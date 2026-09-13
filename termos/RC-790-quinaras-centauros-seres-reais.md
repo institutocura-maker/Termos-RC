@@ -53,6 +53,5 @@ Aparece em **P2025-04-06**, U0004. O autor foi levado em espírito a uma "loca d
 - **Quarentena ufológica FORTE**: o autor afirma que centauros são **seres reais** que hoje nascem como humanos — **NÃO FUSIONAR com ufológicos modernos** (greys, reptilianos, etc.). A leitura é especificamente sobre "centauros" como categoria de híbrido metade-animal/metade-humano.
 - [REVISAR → CHANCELA 2026-09-06 · F041-L5: TENSÃO NÃO-RESOLVÍVEL INTRA-ARCA (a Arca não arbitra a academia) — ver nota]: pode haver outras RC para Quirón/Sileno/Sátiros; verificar antes de criar fichas.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 54 → TENSÃO NÃO-RESOLVÍVEL.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-790.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -64,6 +64,5 @@ Na RC, deus mesopotâmico identificado como anunnaki filho de Enki, equivalente 
 - **A "confusão de Marduk":** "todas as religiões... falam no retorno dos deuses... essa história toda é continuação da confusão que Marduk fez há 4.000 anos";
 - **Guerras atômicas (contexto):** a disputa dos clãs (Enki/Enlil) e a busca de supremacia contra Marduk — "Ninurta e Nergal jogaram as tais bombas para tentar impedir a supremacia de Marduk" — **quarentena histórica** (contexto, não ontologia).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 34 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-460.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

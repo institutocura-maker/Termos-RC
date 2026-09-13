@@ -46,11 +46,5 @@ Aparece em **P2017-05-14**, U0002 e U0003. Contexto: depois que Javé se reconst
 - **Quarentena demonológica FORTE**: a leitura do autor de "Shiva como primeiro demo da história" **NÃO FUSIONAR com hinduísmo** (onde Shiva é divindade auspiciosa) nem com demonologia judaico-cristã (Lúcifer como primeiro anjo caído).
 - [REVISAR → ENCERRADO 2026-09-06 · F041-L5: RATIFICADO — o cadastro tem primazia; registra-se o processo do autor sem harmonização artificial — ver nota]: pode haver paralelo com RC-002 (Rebelião de Lúcifer) — Lúcifer e Chiva são ambos "primeiros" em algum sentido.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 47 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
 
-## Nota — DESPACHO CURATORIAL 10/09/2026 (P6e): Chiva → Shiva
-- **Título corrigido por ordem do Curador:** Chiva = Shiva. Grafia canônica passa a **Shiva como Primeiro Demo** (cadastro, ficha, verbete,docs canônicos).
-- **Preservado como falado:** "Chiva/Chiv/Chimo/chima" no verbatim «» e nas Variações STT (regra PROMPT-2026-09-01 item 8: verbatim mantém o bruto, glosa usa canônica). A nota do Mutirão Lote 5 ("nada foi renomeado") fica como camada histórica, superada por este despacho.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-810.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

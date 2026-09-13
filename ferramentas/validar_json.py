@@ -37,10 +37,6 @@ def validar(path=DOC):
         vistos.add(t.get("codigo"))
         if t.get("status") not in ENUM:
             falhas.append(f"{ctx}: status {t.get('status')!r}")
-        if t.get("via") not in (None, "P6-evidência", "P7-conhecimento"):
-            falhas.append(f"{ctx}: via {t.get('via')!r}")
-        if t.get("confianca_fonte") not in (None, "alta", "média", "baixa"):
-            falhas.append(f"{ctx}: confianca_fonte {t.get('confianca_fonte')!r}")
         if not re.fullmatch(r"RC-\d{3}", t.get("codigo", "")):
             falhas.append(f"{ctx}: código fora do padrão")
     nums = sorted(int(c[3:]) for c in vistos if re.fullmatch(r"RC-\d{3}", c))

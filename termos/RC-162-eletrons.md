@@ -11,10 +11,6 @@
 
 O "agente básico da vida universal": o único que existe desde o primeiro momento da Criação (B024). Sua face mais misteriosa é a memória quântica — o elétron "marca" em si tudo o que "vivencia" (B024); Charon percebeu que os elétrons têm memória quântica infinita, registrando nos seus circuitos e matrizes tudo o que vivenciam (B041). Elétrons, códigos-fontes definidores e egrégoras são as únicas coisas "eternas" que realmente existem (B041). São as "micropartes 'podres' e 'sujas' do Criador 'caído'" — os "neurônios da mente de Prabrajna que foi esculhambada pela criação" — e os humanos, pelo bom uso da razão e do sentimento, "limpam" os elétrons sob sua guarda; o Quarto Logos assumirá a Mente Universal Emergente quando uma massa crítica de elétrons organizados for alcançada (P2024-05-04). No fim, quando a energia Tamásica presidir a finalização das forças nucleares, as informações dos elétrons estarão associadas à emergente "Mente Universal" (B024).
 
-## Nota de uso
-
-Fichas da Nova Fase citam RC-162 como "Plasma" — uso aceito como loose-legit em P5b (ver P2023-12-17, que taggeia «Plasma (RC-162)»), sem fusão de sentidos: o registro define Elétrons.
-
 ## Fontes
 
 | Fonte | Localização | Tipo |
@@ -45,3 +41,5 @@ Fichas da Nova Fase citam RC-162 como "Plasma" — uso aceito como loose-legit e
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5f — Física da Criação, 10/09/2026): código 🟡 provisório, colisão Plasma arbitrada P5b (loose-legit, sem fusão).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-162.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

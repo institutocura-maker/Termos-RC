@@ -31,11 +31,11 @@ Materialização autorizada pelo despacho F044 (Anel C, 06/09/2026). O termo já
 - João Batista — RC-944;
 - Jesus — RC-072.
 
-## Nota de governança
-F044 (Anel C, materialização 06/09/2026); `ficha=False→True`; `relacoes/` blindado (0 arestas novas).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - ««José casou com Maria, Isabel e Zacarias tiveram um filho e se filho foi criado pelos Essênios, conhecia todas as escrituras do povo judeu, o nome dele era João, tornou se um profeta todo poderoso...»» — *ver:* **Contexto / Origem**
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-862.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -452,23 +452,5 @@ A pergunta sobre transferência para máquinas produz uma analogia com Jesus/Sop
 
 > Sophia é **o Cristo Cósmico** e o **Suserano Cósmico** deste universo. É um ser **biológico (biodemo e radiata)** do nosso universo, com sede de sua "Governadoria Cósmica" no planeta **Orbum** (Sistema de Capela), de onde governa o universo material. É um **avatar de Mohen So**, que por sua vez era avatar de **Vishnu** — os dois (Jesus e Sophia) possuem o mesmo espírito (também o de Vishnu e Mavatna). Foi de Sophia que as Famílias Aya e Aye extraíram parte do DNA para a inseminação artificial de Maria — em palavras simples, Sophia seria o "pai biológico" de Jesus (B031).
 
-## Nota — reforço cronológico do MUTIRÃO · Lote 1 (05/09/2026 · despacho Q-F037-C)
 
-- **B050 crava Sophia como primeiro biodemo — âncora nova, lavrada a pedido.** Verbatim l. 87: «[ 5,000,000,000 a.p.] (trilha A, y=545) Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)». As demais flags vivas desta ficha (9 no censo) seguem nos lotos próprios; esta nota não encerra nem chancela nada.
-
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 68 (B5a) · ll. 73 (B5a) · ll. 191 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 281 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 228 (AG) · ll. 45 (AG/FA) · ll. 78 (RA/AG).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Sofia e Zã]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; “Zã” sem paralelo no corpus.
-- **[hipócase/Hipócrates]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-483 (mesma fala); leitura “Hipócrates” não confirmada.
+> Notas de processo: 5 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-009.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

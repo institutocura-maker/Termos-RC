@@ -36,17 +36,10 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 - 0 códigos novos (O-3).
 ---
 
-## Nota pedagógica — P2025-07-18 — dignidade e resistência não violenta
-
-- **[P2025-07-18 · U00016–U00017]** No fecho, o expositor chama de resistência pacífica e amorosa o esforço de permanecer ligado à verdade íntima, agir com dignidade a cada segundo e não esperar um resultado externo como condição do ato.
-- **Cruzamento aprovado:** a nota de rito de passagem e a “sincronicidade profetizável” podem ser lidas transversalmente com RC-619 e RC-722, sem gerar novo termo ou relação.
-- **Quarentena:** trata-se de formulação ética/pedagógica do expositor; não é método clínico, garantia de destino ou prescrição religiosa.
----
----
----
-
 ## Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por ser Finalizada)
 
 - **[P2023-12-03 · ATO DE VERDADE / SATYAGRAHA NA FALA DE 03/12/2023]** «usando a expressão sâns do satagrar, que a resistência pacífica e amorosa em torno da verdade que se acredita ser reto, real.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2023-11-19`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-705.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

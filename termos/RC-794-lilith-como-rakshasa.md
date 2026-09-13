@@ -54,12 +54,5 @@ Aparece em **P2025-04-06**, U0006, em resposta à pergunta sobre Nyx. Contexto: 
 
 **Trecho verbatim:** «A mais desagradável é que ela era uma raxchaça. O que é uma rachaça? Um vampiro. Um ser criado nesse universo vizinho que passava pelos portais para cá. Mas o vampiro não tem culpa de ser vampiro. Ele já foi criado desse jeito. Só que Lili era uma rachaça esclarecida e que Vendo o que Pandora havia feito, revoltou-se contra o controle dos deuses sobre os humanos e sobre os próprios raquchas.»
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **«Rxaça» tem paralelo? (l. 48): ENCERRADA — SIM, confirmado em 4 palestras.** P2023-05-13 («os rxaças começam a fazer sacrifício»), P2025-02-16 («comandada pelos rxaças e pelos olimpianos»), P2025-11-29 («Ravana, rei dos rxaças») e — a mais forte — P2022-03-26, onde o expositor se autodecorre: «Pros rakas echaças. Rxaças, ele criou 1.400.000 versos...» (a busca oral pela grafia cravando «Rxaças»). O termo é uso coerente do corpus, não incidente único.
-
-## Nota — RESOLUÇÃO RXAÇA = RAKSHASA (10/09/2026 · despacho do Curador)
-
-- **Veredito:** "Rxaça" (e as variantes "Rxassa", "Rchaça", "rachaça", "raxchaça", "raquchas", "rxá") é degradação STT de **Rakshasa** (sânscrito rākṣasa) — o termo canônico **RC-581**. Título do cadastro, ficha e verbete unificados em "Rakshasa"; as formas STT ficam preservadas nas citações, sem harmonização.
-- **Provas:** (1) "Ravana, rei dos rxaças" (P2025-11-29, original) — Ravana é o rei dos rakshasas no Ramayana; (2) a mesma cifra e estrutura frasal — "mais de 1000 tipos de rachas" (U0006) × "os rakshasas são mais de 1.000 espécies nesse gênero" (RC-581, P2024-08-03); (3) a mesma definição — "Um vampiro... que passava pelos portais" (P2024-03-17) × "criados como vampiros para passarem pelos portais" (RC-581, P2022-12-17); (4) "Pros rakas echaças" (P2022-03-26) em lista de classes sânscritas (gandarvas, vasus, pitris) com os 100.000 versos do Mahabharata.
-- **Lacuna do mutirão F038 (05/09/2026):** confirmou "Rxaça" como uso coerente do corpus sem cruzar com RC-581 (grafia aprovada pelo Curador em 14/08/2026). Cruzamento feito nesta resolução.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-794.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -42,12 +42,6 @@
 
 [P2024-09-29] Leitura religiosa e cultural não consensual, sempre atribuída a Ellam. Wyrd/Urd é teia/rede de destino; RC-560 WD é computador quântico/genético. Não fundir. Moros/Elm não é Mohen So/Phanes.
 
-## Nota de governança
-
-[P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
-
----
-
 ## Atualização — P2025-11-29 (A Revelação de Ifá e o Destino dos Seres) — ABSORÇÃO NT-IF04 (DIVINOSFERA DOS ORIXÁS)
 
 - **Divinosfera dos Orixás (absorvida aqui — decisão do curador):** "a divinosfera dos orixás... se refere aos eventos ocorridos e que envolveram a geopolítica dos dois universos";
@@ -70,3 +64,5 @@
 - **[P2025-07-18 · U00016]** A palestra reconta o Projeto Orunmilá–Olodus como atualização da Wyrd/Ifá com informações humanas e como construção de caminhos previsíveis conforme a origem ancestral da entidade. O número narrado é **16 odus e 256 caminhos**.
 - **Decisão editorial:** manter a leitura como ampliação de um projeto já existente, sem ficha nova, sem código novo e sem alteração da contagem da malha.
 - **Quarentena:** os termos “alma”, “origem vegetal/animal/mineral” e “trânsito para o universo biológico” são componentes da cosmologia narrada; não são classificação biológica.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-741.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

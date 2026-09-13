@@ -63,6 +63,5 @@ Trimurti (RC-104); Senhores do Dharma (RC-320); demos (RC-049); Seres Terrenos (
 ## Observações
 Ficha baseada em B023 (obra primária). O Fator Dharma reposiciona o conceito hindu: sistema feito para demos, não humanos. Cruzar com RC-320 e RC-322.
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **«varma, dma e karma» (l. 31): ENCERRADA como grafia oral da tríade.** Livros do acervo: «varna» 19×, «varma» 0× — a tríada varṇa-dharma-karma é a leitura sustentada; a citação preserva a fala. Anterioridade pedagógica (híbridos) intacta — nada doutrinário se move.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-319.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

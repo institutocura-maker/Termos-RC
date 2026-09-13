@@ -52,6 +52,5 @@ Sophia (RC-009); Família Val (RC-109); Val Geon (RC-126); Val Pen (RC-129); Val
 ## Observações
 Ficha baseada em B017/B018 (obras primárias) + B031. A equivalência exata Ostronomos = Sirianos precisa de verificação: B031 descreve os Sirianos como anfíbios inteligentes; B017 não usa a palavra "Siriano" explicitamente no trecho lido. Verificar no cap. 4 completo.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 23 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-232.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

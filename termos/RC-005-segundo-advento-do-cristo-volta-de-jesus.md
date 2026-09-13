@@ -189,5 +189,5 @@ A promessa da volta de Jesus (Segunda Vinda) — na leitura da RC, ligada à pro
 | P2023-12-25-02 | Aula 02 — Os Anos de Pregação e a Promessa do Retorno (palestra) | — | transcrição automatizada; citação |
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[ANTIONDEL]: RESOLVIDA (F038-L5).** Grafia confirmada “Antiandel” em P2022-11-26, U0002 (RC-474, Conselho de Antiandel).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-005.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

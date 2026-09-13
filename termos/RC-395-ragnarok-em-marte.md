@@ -157,9 +157,6 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 
 **Trecho verbatim:** «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra. Mas quando a gente fala Marte e Terra, a gente tem que entender duas coisas por trás de Marte. Antes de 500.000 anos, os seres élficos de Asgar e de outros níveis. De 500.000 anos para cá, esses seres e os anunax.»
 
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 62 (AG).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -168,3 +165,5 @@ Antes da destruição de Marte, Kvasir teria repetido o gesto de Moros e enviado
 - «O rainarok aconteceu não é porque A brigou com B, brigou com C, brigou com D, é porque a trimurte queria destruir aquilo tudo para destruir, foi um momento de loucura da Trimurto, destruir as joias ou as setas de moros de ordem que acabar com aquela história, porque era todo mundo atrás daquilo» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
 - «Vazer, o tal ser que surgiu na vasilha cheia de saliva, quando ele viu que o Rainarox ia acontecer, quando ele viu que os mísseis, vamos falar assim, estavam chegando e Asgard, ele pegou os segredos alquímicos e atirou, soltou três setas para fora do Bramaloca na direção de Marte.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-395.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -60,5 +60,5 @@ A lei é vinculada ao diálogo interior, aos RNA mensageiros, à prática mental
 ## Observações
 Preservar a atribuição “Lei da Mente do Buda” como nome usado na palestra, sem validar autoria histórica budista.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Vatireca] (2 flags): chanceladas AGUARDA-ÁUDIO (F039-L5).** Uso coerente do corpus: trio Avidya/Trishna/Vatireca em RC-563, RC-712 e RC-760 (mesma fala P2025-03-15).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-712.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

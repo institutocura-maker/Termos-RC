@@ -59,6 +59,5 @@ Relacionar a Liberdade Mental como contraponto, sem simplificar a cosmologia.
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Algoritmo»: «conjunto de regras, raciocínios ou procedimentos definidos, aplicado a um número finito de informações, permitindo um resultado em um número finito de etapas».
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-606.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

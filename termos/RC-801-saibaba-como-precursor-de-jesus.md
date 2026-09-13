@@ -60,6 +60,5 @@ Aparece em **P2018-02-24**, U0004. Contexto: depois que as trevas espalharam o m
 - A cronologia "2000 anos antes" sugere Saibaba de Shirdi (~séc. XIX-XX), mas a palestra não especifica qual Saibaba.
 - **"Prima Sai" (STT) → grafia canônica "Prema Sai"** (decisão curador 03/09/2026): terceira/última encarnação da linhagem Sai de Shiva. Em 03/09/2026 a linhagem passou a ter **fichas próprias: RC-927 (Sai Baba de Shirdi), RC-928 (Sathya Sai Baba), RC-929 (Prema Sai)**. Esta ficha RC-801 permanece como umbrella conceitual. Cotejo: B031/B060.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 59 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-801.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

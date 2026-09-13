@@ -66,5 +66,5 @@ Processo descrito na Revelação Cósmica como a **mudança de expressão consce
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[duas numerações]: chancelada DOCUMENTADO (F040-L5).** Não viram termo; ficam no dicionário da apostila.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-056.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

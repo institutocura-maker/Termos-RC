@@ -94,11 +94,5 @@ Yel Luzbel (RC-078); Len Mion (RC-074); famílias Val (RC-109), Yel (RC-136), Mi
 ## Observações
 Verificar nas obras primárias: a relação com a doutrina espírita dos "exilados de Capela" e a lista completa das famílias envolvidas.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 62 (B2).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
 
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 47 (AG/AG).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-007.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

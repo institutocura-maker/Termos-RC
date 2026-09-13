@@ -45,14 +45,6 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 | Relógio Messiânico | RC-765 | relaciona-se-a |
 | Mohen So = Kalki | RC-282 | relaciona-se-a |
 
-## Nota de Devolutiva — B060 (2026-08-26): a divergência Olm × Vishnu
-
-> **MANDATO EXPRESSO DA DEVOLUTIVA B060 (O-2):** a relação **("RC-481", "encarnação-posterior-de", "RC-092", "B060")** foi gravada na tabela-mestra (Maitreya = avatar FUTURO de Olm/Quarto Logos — o B060 o lista entre os avatares de Olm: "Senhor Maitreya (Cabala Judaica — ainda virá)").
->
-> ⚠️ **A DIVERGÊNCIA, rigorosamente anotada, SEM fusão conceitual:**
-> - **B060** (material de aluno, p. 5, verbete "Olm"): Maitreya = avatar futuro de **OLM** (ao lado de Apolônio de Tiana).
-> - **Esta ficha / B061 + P2021-03-27**: Maitreya = "**forma adiágena de Vishnu**" (RC-135) — e a citação-chave acima o liga ao ciclo Kalki/Mohen So (RC-282).
-> - As DUAS leituras coexistem registradas; a hierarquia das fontes (obras/palestras de Ellam > material de aluno) favorece a leitura da ficha; a relação B060 fica como o registro da divergência. **JAMAIS fundir.**
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -60,3 +52,5 @@ Figura profética do Buda futuro — na RC, correlacionada a Dionísio e a uma f
 - «Na hora em que um saibar mantém como homem e espírito apoio ao sistema de castas na Índia, ele está prisioneiro de um uma jaula, de um processo mental que foi gerado lá atrás para organizar seres que eram dementes em classes.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
 - «E esse alguém é chamado de a vinda de Madiim, a vinda de do Messias, a segunda vinda de Jesus, eh, a vinda do Avatar Calque, ou seja, a a vinda do Caico para os incas.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0013
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-481.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

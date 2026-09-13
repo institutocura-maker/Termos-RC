@@ -23,6 +23,5 @@ Registro de proveniência criado pelo ciclo F043 (despacho de 06/09/2026, §2) p
 |---|---|---|---|
 | EXT-2024-01-04 — Glossário Krys Amon | — | — | autoria direta (material de apoio) |
 
-## Nota — F043 · Enquadramento e limites
-- O GKA é **obra de apoio**, não co-autoria da Revelação Cósmica (despacho F043 §1); as definições aqui corroboradas valem como registro lexicográfico do circunstante letrado, com hierarquia de fonte primária intocada.
-- `relacoes/` blindado: nenhuma aresta nasce desta ficha sem despacho taxonômico posterior.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-934.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

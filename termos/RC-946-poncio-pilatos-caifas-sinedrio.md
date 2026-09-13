@@ -46,8 +46,6 @@ E (Aula 04), sobre a releitura romana:
 ## Observação
 **Quarentena teológica** — a atribuição de culpa e a leitura política da Paixão são de Ellam; agrupamento temático por decisão do curador (Ana C). `relacoes/` blindado (0 arestas novas).
 
-## Nota de governança
-F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do translado; nenhuma aresta nova.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -56,3 +54,5 @@ F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do tran
 - «Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.» — *ver:* **Contexto / Origem**
 - «Ah! Jesus foi crucificado porque... o Sinédrio judaico... é uma redundância, um pleonasmo porque o Sinédrio só existe no judaísmo... Foi Pôncio Pilatos.» — *ver:* **Contexto / Origem**
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-946.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

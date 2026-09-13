@@ -137,18 +137,5 @@ Yel Luzbel (RC-078/RC-142, o primeiro a mutar); Sophia (RC-009, criador das fam�
 ## Observações
 **Ficha criada no ciclo B057 (Devolutiva O-2, 2026-08-25)** — termo já constava da tabela-mestra (fontes B031 e demais obras) sem ficha física. **Quarentena ufológica (O-7):** estirpe extraterrestre de Capela — cruzar com as obras primárias de Ellam, não materializar como fato; a narrativa de B057 é psicografia (voz isolada de Yel Luzbel). 0 códigos novos (O-3).
 
-## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
 
-- **Variante numérica documentada (l. 33; despacho Q-F037-B, texto da palestra intocado).** O «SÓ A CERCA DE NOVE MILHÕES DE ANOS ATRÁS» da fala é artefato de STT para «novecentos milhões», com cadeia de corroboração: RC-771 l. 33 («os biodemos surgiram muito mais tarde (últimos 900 milhões de anos)», ART-2025-08-03), B057 original.txt l. 753: «(900 milhões a 230 milhões de anos, aproximadamente) de existência das famílias de» e l. 816: «900 milhões a 230 milhões de anos antes do presente, aproximadamente, cada qual com», e o encerramento F036-V-5 (P2022-03-26 · P2020-04-25).
-- **Nota de censo:** o `[REVISAR]` grafo na própria l. 33 tem por alvo o nome «'Olga'» (matéria de áudio — lote L3), não a cifra; essa flag permanece aberta e sai do roster do L1. O encerramento assinado «RC-036 l. 33» incidiu sobre a variante numérica, que é o que a linha documentava como pendência de cronologia.
-
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
-
-- **「'Olga'» (l. 33): CHANCELA — ISOLAMENTO (ordem Q-C).** Varredura integral do corpus (todas as apostilas + livros `original.txt`): «Olga» ocorre **exatamente 1×** — a própria frase da flag (P2020-08-08), na mesma sentença da «variante numérica» já documentada supra. Sem segunda ocorrência, sem variante, sem paralelo; áudio não fabrica recorrência — a orfandade é fato textual e por isso se chancela, sem migração ao L3. Texto da palestra intocado; as demais flags «[STT — [REVISAR]]» da linha permanecem (a substituição incidiu só no token de 'Olga', por posição).
-
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 33 (AG/AG).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[ALTO LONGBRON]: chancelada AGUARDA-ÁUDIO (F039-L5).** Cluster paralelo em RC-018; formas preservadas.
+> Notas de processo: 4 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-036.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

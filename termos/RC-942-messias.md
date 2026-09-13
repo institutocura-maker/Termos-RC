@@ -35,5 +35,5 @@ O termo aparece nas aulas 01–05 do curso F044 (57.179 palavras, fonte primári
 ## Observação
 **Quarentena teológica** — Messias/Cristo são categorias das tradições; esta ficha documenta a releitura de Ellam dentro da Revelação Cósmica, não consenso religioso. `relacoes/` blindado (0 arestas novas).
 
-## Nota de governança
-F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do translado; nenhuma aresta nova.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-942.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

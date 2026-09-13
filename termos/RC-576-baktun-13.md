@@ -44,5 +44,5 @@ A interpretação específica deve ser atribuída ao palestrante. Não tratar co
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[1453/1562]: RESOLVIDA (F043-L5).** Auto-de-fé de Maní: 12/07/1562 (confirmado externamente); STT “1453” preservado como falado.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-576.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

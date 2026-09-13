@@ -209,31 +209,6 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - O forno de Shiva (Awaylengan) foi "o primeiro forno a funcionar"; dele a **animalidade** e a **emoção/sensação** (ver RC-837);
 - A morada de Shiva no Himalaia (a "Aingan" / base cósmica) — quarentena ufológica.
 
-## Nota — cronologia conferida em B050: [REVISAR] encerrado — F035 aplicação (05/09/2026)
-
-- **[B050 · original.txt, l. 67]** «Savna mergulha na singularidade imperfeita e imanta-se a um anjo-clone. / Passa a procurar uma forma de ajudar Brahma. (Aproximadamente 12,17 bilhões a.p.)» — a data do mergulho (~12,17 bi a.p.), tal como a grafava a Parte II da refatorada (doc F035 l. 50), BATE EXATA no mapa das eras;
-- **[B050 · original.txt, l. 69]** «Brahma passa a mexer no algorítmo mestre para replicar / partes diferenciadas. Shiva corta uma das cinco cabeças / de Brahma. (11,6 bilhões de anos a.p.)» — o ato do corte da cabeça, que a ficha trazia sem marco, ganha a data da fonte;
-- Despacho Q-F035-B (05/09/2026): a flag «[REVISAR — conferir B050]» da seção ART-2025-08-01 (l. 30) considera-se **oficialmente encerrada**. *(Nota de execução: a proposta citava «ll. 67/68»; o corte está na l. 69 — linha corrigida contra a fonte, sendo a l. 68 o «Anjo clone "especial" de Javé engendrado (12 bilhões de anos a.p.)», que por si corrobora o quadro.)*
-
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 23 (B5a) · ll. 25 (B5b) · ll. 71 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 61 → AGUARDA-ÁUDIO · ll. 95 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
-
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Savna (via verbete Entropia)»: «Ser Adhyatman, de Perpérion… que mergulhou na Criação, constituindo-se como Shiva».
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[maricandã]: RESOLVIDA (F038-L5).** = tradição Tamil: a apostila P2021-01-23 equaciona “tradição Tamil” ao STT “Maric Candô”.
-- **[hipergorianos]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; sem hipótese registrada.
-- **[Eliu e Yen]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax (a outra ocorrência de “eliu” no corpus é “hesitou”).
-- **[RARA]: RESOLVIDA (F038-L5).** = Rudra: RC-413 estabelece que o STT grafa “rara” para Hara/Rudra.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -242,3 +217,5 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - «Então assim, vendo o tamanho do circo, eu não acho que Xiv seja um um dono de circo, entendendo por isso as mais de 1000 expressões adiágenas que ele criou a partir dele mesmo, ele perdeu o controle, ele não consegue e não tem plano B nenhum em ação» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
 - «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
 
+
+> Notas de processo: 5 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-102.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -47,6 +47,5 @@ Segundo as Revelações Cósmicas, **Sathya Sai Baba** é a **segunda encarnaç�
 - **Divergência de cronologia registrada:** B016 (via RC-260) afirma que "Sai Baba foi a última Adhyajna humana de Shiva", enquanto B031/P2012 descrevem a linhagem tripla com Prema Sai ainda por vir — cotejar a tipologia Adhyajna × avatar (ver RC-801).
 - A morte antecipada de Sathya (2021 → antes, por Javé) é ponto central do relato de P2012-02-19 sobre a Lila.
 
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Vibhuti»: «os egos de outras vidas do Espírito de Sai Baba trabalharam muito com fogo e cinzas… o vibhuti não é Prana, mas foi produzido por um tipo muito especial desta Energia».
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-928.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -106,6 +106,5 @@ Ifá é apresentado como atualização humana de Wyrd por Orunmilá, com 16 Mol�
 - **[Nota cruzada]** A “sincronicidade profetizável” é absorvida estritamente como ponte de leitura entre RC-655, RC-665, RC-658 e RC-718; não recebe código independente.
 - **Quarentena:** a cadeia é uma leitura mitológico-cosmológica; termos como genoma, alma, trânsito de espécies e destino não devem ser tratados como genética ou antropologia validadas.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Molés/Olodus]: RESOLVIDA (F038-L5).** “Olodus” (16 → 256 caminhos) é termo canônico (RC-741); “Molés” é forma STT paralela (RC-665), preservada.
-- **[Denis/Flammarion]: chancelada AGUARDA-EVIDÊNCIA EXTERNA (F043-L5).** Registro de espíritos em árvores não localizado nas obras em 10/09/2026; alegação do expositor, sem fusão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-655.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

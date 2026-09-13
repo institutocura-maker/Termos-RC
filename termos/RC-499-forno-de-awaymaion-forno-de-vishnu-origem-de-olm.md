@@ -92,6 +92,5 @@ Vishnu (RC-408/135), Sophia (RC-009), Olm (RC-092), Mohen So (RC-081), Val Tam (
 - **Ganho de anterioridade:** a ficha até aqui tinha fonte oral mais antiga `P2021-05-15`; `P2019-08-25` passa a ser a **primeira fala**.
 - **Grafias embrionárias (não renomear):** "Aon/Aô/a maior/Mayon/Mayão/Amaion".
 
-## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
 
-- **CHANCELA — TENSÃO INSOLÚVEL (l. 27 e l. 76): o mapa não trata do cérebro bilatério.** Varredura integral do B050 original.txt: nenhuma linha «bilatério»/«cérebro»/«hemisfério». A linha semanticamente mais próxima, l. 94, verbatim: «[ 3,800,000,000 a.p.] (trilha A, y=1342) Surge a água no planeta Terra. / Surge o Nidana ("molécula-mãe). / Primeiras moléculas que já / possuiam câncer. (3,8 bilhões a.p.)», trata de outro evento (água/Nidana/moléculas). A data «~4 bilhões» do encontro dos protótipos segue ancorada só na moldura da fonte (P2019-08-25 e irmãos); chancela nos termos do despacho — ver nó RC-771, mesma conclusão.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-499.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

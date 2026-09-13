@@ -57,6 +57,5 @@ Ficha baseada em B022 (obra primária). Adhyshprabrajna é a forma mais completa
 - **Contexto acrescentado:** Adhyprabrajna aparece em relação de fatiamento com Adhymavatana: faces distintas sustentadas por um mesmo espírito ancestral.
 - **Status da evidência:** transcrição automatizada, pré-curada e aprovada quanto à integração terminológica; conferir com áudio/obra antes de promover status.
 
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Bhavanga (verbete)»: «o Criador, quando caiu na própria Obra, gerou partes despedaçadas de si mesmo e, até agora, tais partes seguem buscando o que nem ele sabe o que é».
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-310.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

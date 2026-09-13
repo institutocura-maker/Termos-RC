@@ -40,8 +40,6 @@ Na Aula 05, «a verdadeira face de Maria Madalena» é desdobrada (papel de apó
 ## Observação
 **Quarentena teológica** — a figura de Madalena (apóstola, evidenciadora, «portadora da revelação») é leitura de Ellam, divergente da tradição cristã consolidada. `relacoes/` blindado (0 arestas novas).
 
-## Nota de governança
-F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do translado; nenhuma aresta nova.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -49,3 +47,5 @@ F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do tran
 - ««agora Jesus iniciava uma terceira fase, quando ele chamou Maria Madalena e pediu para ela chamar mais quatro mulheres de Jerusalém e alguns apóstolos, porque ele, Jesus, iria ditar uma nova revelação, agora que estava como ressuscitado...»» — *ver:* **Contexto / Origem**
 - ««Jesus o Vivo, o Ressuscitado que através de Madalena, criou uma outra revelação totalmente diferente... A igreja preferiu a versão que Paulo criou. Paulo não conheceu Jesus...»» — *ver:* **Contexto / Origem**
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-943.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -53,5 +53,5 @@ Denominação da fase histórica do ponto de vista do Ellam (Etapa II do pensame
 - **Contexto acrescentado:** A transição é associada à passagem da crença para o conhecimento e à necessidade de intencionalidade espiritual, embora a fala afirme que seus efeitos ainda não se concretizaram plenamente.
 - **Status da evidência:** transcrição automatizada, pré-curada e validada terminologicamente pelo curador; conferir com áudio/obra primária antes de promoção de status.
 
-## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
-- **Q-F040-C · CHANCELA AVERBADA:** B042 não tem conflito — a BIBLIO data a ORIGEM DOS TEXTOS (Etapa II ~1999–2002, «alguns já em jornais»), o colofon data o VOLUME (Atlan, 04/08/2011). Grandezas diferentes; BIBLIO intocado.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-536.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

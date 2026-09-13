@@ -67,6 +67,5 @@ Na cosmologia de Ellam, os humanos que se habilitam — via conhecimento, limpez
 
 "18.000 anos" (Colecionar Incertezas — reforça P2024-08-03); a metáfora da luz emprestada como leitura do autor.
 
-## Nota de governança
 
-[P2024-07-14] As formulações cosmológicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-545.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

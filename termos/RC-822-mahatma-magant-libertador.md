@@ -49,6 +49,5 @@ Aparece em **P2019-04-14**, U0003. Contexto: a palestra explica que a **liberta�
 - **Paralelo histórico**: Mahatma Gandhi liderou a **desobediência civil não-violenta** (satyagraha) na Índia contra o Império Britânico. O **Mahatma Magant** lidera a **desobediência cósmica não-violenta** contra a Trimurti — usando jejum e greve de fome como armas.
 - **Conexão com 2015**: a palestra menciona que "a partir de 2015" o processo se intensificou. Pode haver conexão com eventos do autor ou da espiritualidade.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 47 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-822.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

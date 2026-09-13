@@ -93,10 +93,6 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 
 **Regra de status:** 🟡 provisório — a ficha existe, está fundamentada em fonte publicada (B023) e em fonte oral do acervo, mas nenhuma das citações foi conferida com o áudio nem com página de obra primária. A aprovação curatorial valida a **modelagem terminológica**, não a veracidade factual das alegações: o que o autor disse está registrado *como dito*.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 27 (B2).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -105,3 +101,5 @@ O **dharma** e o sistema de **castas** entendidos, na RC, como **instituição p
 - «Então enquanto existem essas prisões, porque Quem entendam o arima, que é a coisa mais bela que eu conheço olhando o lado da moeda, são homens e mulheres que nascem pobres, acho a Índia, desde crianças são educados, né, a gente já falou disso aqui, a não cometer o quê?» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0013
 - «Existe um problema pendente das castas que é a responsabilidade agora do senor Krishna e do senor Chiva e como saibava propriou a questão na condição humana, ou eles resolvem isso aqui, ou a Terra vai ficar inviabilizada para o programa de reestruturação universal.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0021
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-322.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

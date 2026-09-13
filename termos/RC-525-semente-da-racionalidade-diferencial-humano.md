@@ -50,12 +50,11 @@ Na cosmologia de Ellam, o diferencial de racionalidade que tornou os humanos a �
 
 "Manicômio chamado Terra" e a "descontinuidade" como leitura do autor.
 
-## Nota de governança
-
-[P2024-08-03] As formulações cosmológicas, genéticas ou psicológicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «mexeram no DNA humano para colocar inteligência e obediência. E foi isso que Javé fez. Escolheu Adão, sete, Enos, Cainâ, Lalahelu, Jaré, Enoque, Matusalém, isso tudo aqui com intenção de lá na frente mandar o Messias dele julgar, já que ele, Javé, não podia fazer isso só. E Enoque explica isso nos […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-525.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

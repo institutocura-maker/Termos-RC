@@ -44,7 +44,5 @@ O conceito fecha o arco da apostila «A Queda»: a crise culmina na construção
 ## Observação
 Destino final do Volume V da Enciclopédia (V.22.4). Quarentena cosmológica: não há correspondência com qualquer conceito da física ou da neurociência acadêmicas.
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-163.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

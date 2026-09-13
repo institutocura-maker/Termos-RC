@@ -55,7 +55,5 @@ Código imutável e nunca reutilizável. Não usar "Alamaior" como entidade vál
 - O STT de 2019 já oscila entre a referência ao forno ("A maior") e o superlativo comum ("a maior quantidade de seres") — a ambiguidade que provavelmente gerou a corrupção capturada depois.
 - **Sem fusão:** RC-500 permanece remissão a RC-499; esta nota só documenta a origem.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 14 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-500.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

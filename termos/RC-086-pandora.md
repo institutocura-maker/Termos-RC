@@ -192,7 +192,5 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 
 **Trecho verbatim:** «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E como esse ser vivia na fazenda de Epimeteu e lá tinha animais humanos irracionais, do jeito que a gente é apaixonado por cachorro, gato, papagaio, animais de estimação, na época o humanos irracionais eram os animais de estimação dos deuses de Pandora. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa humana num mulher.»
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 84 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-086.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

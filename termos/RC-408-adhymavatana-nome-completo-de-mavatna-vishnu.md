@@ -75,8 +75,5 @@ Ficha baseada no B051 (obra complementar de alunos, revisada pelo usuário). O n
 - O forno de Vishnu (Awaymaion) = o **segundo** a funcionar; a "Mensagem Talm" codificada nele (ver RC-499);
 - Vishnu engendrou Sophia **junto com** Morren So: "Vishnu, junto com Morren So, engendrou Sophia".
 
-## Nota — Eros, o Terceiro Logos e o período de influência — F035 aplicação (05/09/2026)
 
-- **[P2019-08-25 · apostila, l. 86 — glossário]** «Vishnu (RC-408): o Terceiro Logos; propôs a Trimurti e a Lila. Seu forno (Awaymaion) foi o segundo; origem dos biodemos e dos radiata racionais.» — o epíteto que a seção «Ampliação — P2019-08-25» desta ficha já anunciava no título ganha ora o verbatim da fonte, por despacho Q-F035-C;
-- **[P2025-08-01 · DOSSIE-UTILIDADE, l. 50]** «Shiva = Tártaro (grego), anjo-clone rebelde, "Pai dos Demos", Tamas; Vishnu = Mavatna/Eros, Sattva, Vaikuntha, desconstituição Adhydaiva em 2016; Brahma/Javé = Caos, CFDP doente, "zumbi de si mesmo"» — o alias **«Eros» (mitologia grega)** assentado na mesma genealogia que liga Shiva a Tártaro (cf. P2022-09-24: «caos=brahma=javé; tártaro=shiva»);
-- **[B050 · original.txt, ll. 50/76]** «Z — Período da influência avassaladora de Vishnu/Eros (9,7 a 9,5 bi a.p.)» — a data da refatorada («mergulhou cerca de 4,1 bilhões de anos após o início», doc F035 l. 82; DOSSIE l. 78: «datas a conferir com B050») é COMPATÍVEL com o mapa: 13,8 − 4,1 ≈ 9,7 — conferida, nada a corrigir (averbação V-2 do ledger F035).
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-408.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -46,6 +46,5 @@ Aparece em **P2017-05-14**, U0002. Contexto: depois que Javé (RC-001) caiu no b
 - [REVISAR → ENCERRADO 2026-09-05 · F037-L1: ver nota]: a palestra de 2017-05-14 é a única fonte primária dessa formulação específica (500 milhões de anos).
 - Quarentena: leitura do autor; sem fusionar com teologia cristã/juía/islâmica (que vê Javé como onisciente desde o início).
 
-## Nota — MUTIRÃO REVISAR · Lote 1 — Cronologia (05/09/2026 · despacho Q-F037-B)
 
-- **Corroboração de alçada: a «Era da Solidão» tem bordas cravadas no mapa.** B050 original.txt l. 46, verbatim: «I    — Era da Solidão                     (13,8 a 13,3 bilhões de anos a.p.)»; e l. 64: «[13,300,000,000 a.p.] (trilha A, y=2164) I / Era da Solidão (13,8 a 13,3 bilhões de anos  a.p.)». A duração 13,8 − 13,3 = 500 milhões coincide com a formulação única da palestra de 2017-05-14 — a flag de «única fonte primária» encerra CORROBORADA (o mapa certifica a cifra; não substitui a palestra como fonte da formulação).
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-808.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

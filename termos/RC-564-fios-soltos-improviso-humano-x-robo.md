@@ -41,16 +41,11 @@ Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian J
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 12 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Fios soltos»: «sucessão de fatos que podem ocorrer, ou não, resultantes de algo que já se deu».
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0015
 
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-564.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

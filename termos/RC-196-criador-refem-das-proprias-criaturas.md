@@ -32,7 +32,5 @@ A Base aproxima este verbete de dois outros: a Simbiose Quântica (RC-195), a in
 ## Observação
 Nó ético e dramático do Volume III da Enciclopédia (III.9.4). A imagem do «refém» é leitura de Ellam, não categoria teológica das religiões.
 
-## Nota de governança
-F045 (despacho 07/09/2026) — materialização de âncora estrutural da Enciclopédia 
-(Apêndice D do `pedagogico/enciclopedia/INDICE-ENCICLOPEDIA-RC.md`). Síntese de 
-leitura construída sobre o acervo; nenhuma aresta nova em `relacoes/`.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-196.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

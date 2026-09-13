@@ -46,11 +46,5 @@ Aparece em **P2017-05-14**, U0002. Contexto: o autor explica a cosmogonia de Jav
 - Quarentena: leitura do autor; sem fusionar com física de partículas acadêmica (CERN/LHC) ou com teologia da criação cristã.
 - Ver também conceitual (**sem aresta** em `RELACOES`): RC-312 Criação Bipartida — a estrutura doutrinária (B022); RC-167 Criação Indevida — o status da obra. Evento (811) × estrutura (312) × status (167): sem fusão.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 45 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
 
-## Nota — DESPACHO CURATORIAL 10/09/2026 (P6r): Fissão DE → EM Dois Universos
-- **Título refinado por decisão delegada ao Agente**, a partir da análise estrutural do Assistente do Curador: "fissão *de* dois universos" (genitivo subjetivo — dois universos que fissionam) ≠ o descrito na ficha — UMA estrutura que se partiu em duas (matéria + antimatéria). "Fissão *em* Dois Universos" nomeia o resultado.
-- **Sem conflito com o verbatim:** a palavra "fissão" não ocorre no STT da P2017-05-14 — o título é cunhagem curatorial da Base, não fala do autor. Título anterior registrado aqui por proveniência: *Fissão de Dois Universos (Matéria + Antimatéria)*.
-- **Sem fusão com RC-312:** 811 = evento físico (P2017-05-14); 312 = estrutura doutrinária (B022 + P2024-11-30); 167 = status (indevida). Materialização de RC-312 no mesmo lote.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-811.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

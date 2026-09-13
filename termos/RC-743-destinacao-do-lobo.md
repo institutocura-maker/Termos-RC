@@ -35,10 +35,6 @@
 
 [P2024-08-03] Não confundir a interpretação de Ellam com etologia ou evolução validadas. A legenda viral da alcateia é falsa; carne crua não é apresentada editorialmente como ativadora de memória lupina; alegações clínicas foram excluídas.
 
-## Nota de governança
-
-[P2024-08-03] As formulações mitológicas, cosmológicas, zoológicas, históricas, religiosas, genéticas, biológicas ou clínicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais. Não equivalem a consenso científico, histórico ou religioso.
-
 ## Ampliação — P2024-08-03
 
 - **[P2024-08-03 — destaque O-2] A She-Wolf (U1223–U1245):** "o lobo sempre esteve associado à mulher, representando a mulher livre, independente, ativa, também chamada de She Wolf"; lendas celtas correspondentes ao que Michelle Pfeiffer interpretou no cinema; "essa associação de lobo e mulher traduz uma manipulação genética dos descendentes de Kasyapa e Marichi com os descendentes de Pulaha, ou seja, de humanos com lobos" — perspectiva de um híbrido que trouxesse aos humanos a genética lupina de cuidar dos vulneráveis ("os mais vulneráveis na frente para que o resto cuide").
@@ -51,7 +47,5 @@
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 32 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-743.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

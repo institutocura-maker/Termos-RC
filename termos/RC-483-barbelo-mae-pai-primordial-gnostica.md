@@ -42,5 +42,5 @@ Na gnose, a **Mãe-Pai primordial** — no material RC, a Deidade imanente do Pl
 
 Pleroma/Barbelo e a "encomenda" dos setianos são **leitura do autor** (Teologia Comparada/gnose) — não é teologia validada.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[hipócase/Hipócrates]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-009 (mesma fala).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-483.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

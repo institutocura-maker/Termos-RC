@@ -46,7 +46,5 @@ Na Hipóstase dos Arcontes (RC-770): "Javé é Pistis Sophia... caída. Mas ante
 
 - **[O Mentalma como ferramenta de auto-observação] (U0057)** «Mas o mentalma que eu criei foi para eu não fazer isso, para eu não me repetir nunca.» — o Mentalma (livro/ferramenta de Ellam) como instrumento para o humano perceber suas idiotices e provocar mutações no próprio DNA; a auto-observação como via de mudança epigenética (RC-530; RC-562).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 27 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-530.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

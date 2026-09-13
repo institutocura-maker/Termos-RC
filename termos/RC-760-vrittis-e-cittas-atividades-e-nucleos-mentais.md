@@ -98,5 +98,5 @@ A afirmação de que "cada transtorno mental é um citta que reina" é **metáfo
 - **Só o humano consegue:** "só quem tem no seu cérebro os protocolos mentais da condição humana pode recolher essas vrittis ressignificá-las" (RC-517; RC-767);
 - Nova aresta RC-760 ↔ RC-658 (Vrittis ~ Wyrd — os 256 caminhos).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Vatireca]: chancelada AGUARDA-ÁUDIO (F039-L5).** Uso coerente (ver RC-712/RC-563).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-760.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

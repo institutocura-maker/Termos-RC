@@ -85,6 +85,5 @@ Titã irmão de Prometeu que, na cosmologia de Jan Val Ellam, teria sido o grand
 
 Leitura mitológica do autor; plantas com "+500 moléculas complexas" e a origem do xamanismo são cosmologia de Ellam, não botânica ou história validada.
 
-## Nota de governança
 
-[P2024-08-03] As formulações mitológicas, cosmológicas, botânicas ou clínicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais. Não equivalem a consenso científico, histórico ou religioso.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-302.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -88,5 +88,5 @@ Olodumaré/“Olo Maré” permanece em quarentena.
 - **Cruzamento aprovado:** reforço de RC-655, RC-658, RC-741 e RC-767; status do termo permanece inalterado.
 - **Quarentena:** a equivalência Moros–Orunmilá e a taxonomia das origens são atribuídas à palestra, não a consenso religioso ou acadêmico.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Molés/Olodus]: RESOLVIDA (F038-L5).** Ver RC-655/RC-741.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-665.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

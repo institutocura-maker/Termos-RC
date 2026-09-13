@@ -137,5 +137,5 @@ A fala associa sacrifícios Naga a renascimentos humanos na Índia e a um circui
 - Genealogias biológicas, extraterrestres e humanas aqui registradas são Teologia Comparada de Ellam.
 - Não usar alegações da plateia sobre vigilância como evidência desta ficha.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Sarpa Satra]: RESOLVIDA-parcial (F043-L5).** Equivalência confirmada na fonte externa (Mahabharata, Adi Parvan: sarpa-satra de Janamejaya); a forma exata da fala aguarda áudio.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-664.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

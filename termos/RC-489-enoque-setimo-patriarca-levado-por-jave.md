@@ -142,19 +142,6 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 36 (B5b) · ll. 37 (B5b) · ll. 59 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
-- **Migração declarada:** a(s) linha(s) reivindicada(s) em overlap exato pelo censo também como L5-OUTROS **não** foi(ram) carimbada(s) neste lote — deferida(s) ao julgamento do L5 para não fechar dívida alheia.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 35 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Socolov]: RESOLVIDA (F043-L5).** Matvei Sokolov, confirmado externamente: 2 Enoch (eslavônico), ms. Belgrado 1886, ed. 1899 — o “outro” livro de Enoque ao lado do de Bruce/Etiópia.
-- **[elo Enoque×Moros]: RESOLVIDO (F038-L5).** Ver RC-454 (P2025-05-31 verbatim; RC-533).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -163,3 +150,5 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 - «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0007
 - «Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0069
 
+
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-489.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

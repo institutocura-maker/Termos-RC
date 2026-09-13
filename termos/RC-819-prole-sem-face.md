@@ -53,6 +53,5 @@ Aparece em **P2019-04-14**, U0001 e U0002. Contexto: a palestra abre com a **ass
 - **Quarentena acadêmica**: o conceito **NÃO FUSIONAR com** "Dasein" (Heidegger) ou "vir-a-ser" (Nietzsche) — embora haja paralelo formal, o contexto é **cosmológico-demoníaco**, não filosófico.
 - **Conexão com a palestra anterior (P2018-05-20)**: a P2018-05-20 apresenta as 3 tentativas de fêmea para Adão (Lilith, Agar, Eva) — a P2019-04-14 aprofunda o porquê de a humanidade ter essa característica única: a **progênie da briga** carrega tanto a **racionalidade modificável** (de Pandora) quanto a **instabilidade** (sem face).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 52 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-819.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

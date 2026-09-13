@@ -59,12 +59,5 @@ Com isso:
 - **Materialização decidida por Devolutiva O-3** — em vez de criar um código duplicado (RC-838), a fonte fundadora de 2019 amplia a ficha **RC-035 Bilatérios** já existente (correção do dossiê O-2, que por erro de busca não a localizara).
 
 
-## Nota — Dasein — F031 aplicação (05/09/2026)
 
-- **[P2025-06-14 · DASEIN NA FONTE-MÃE]** a fala já traz a referência embutida: «essa capacidade ímpar de indagar, buscar respostas e decifrar a realidade ao seu redor ("Dasein de Heidegger")» — G6/Q-B: **sem código novo**; o uso heideggeriano é apropriação de Ellam (contexto), não admissão da filosofia de Heidegger como fonte.
-
-## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
-- **Q-F040-A · ENCERRADO-RATIFICADO:** a política da ficha — «A divergência é registrada, não costurada» — fica ratificada por ato do curador (06/09/2026). Bilatérios permanecem classe de seres no cadastro; o uso cerebral da fala de 03/12/2023 vive como registro de fonte. Obsolescência anatômica continua endereçada a RC-631/RC-632 (D-7). A flag de l. 12 era menção entreaspas e não entrou no censo vivo.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[tensão uso×categoria]: chancelada TENSÃO REGISTRADA (F040-L5).** Atributo de cérebro (fala) × classe de seres (cadastro); não fundir.
+> Notas de processo: 3 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-035.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

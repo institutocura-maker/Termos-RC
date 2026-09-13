@@ -138,13 +138,6 @@ Na RC, figura correlacionada a **Satã** — ser de alto escalão no drama da cr
 
 Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comparada) — sem validação histórica.
 
-## Nota de blindagem — F031 aplicação (05/09/2026)
-
-- Espelho da nota em RC-142: o doc-fonte «1-EDR-O Livro» propunha fundir Satã/Len Mion (família Mion, Tau Ceti) com Yel Luzbel (família Yel); a fonte-mãe mantém os dois papéis distintos — contágio × agente. Separação **RC-074 × RC-142** reafirmada; nenhuma afirmação do doc foi incorporada (ledger D-1).
-
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 66 (IS).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -153,3 +146,5 @@ Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comp
 - «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
 - «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
 
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-074.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -54,6 +54,5 @@ Jan Val Ellam (RC-071, idealizador); Jesus (ensinamento da cidadania cósmica, s
 
 ## Observações
 Movimento real do Ellam (site www.orbum.org; citado em outras obras da Etapa II). Registrar o Projeto Orbum como expressão prática da RC — o elo entre a doutrina e a cidadania planetária.
-## Nota — o Manifesto Orbum como apêndice — F033 aplicação (05/09/2026)
 
-- **[B011 · DOSSIE-PRE-CURADORIA-TERMINOLÓGICA-v1, l.54]** «Institucional: IEEA, Manifesto Orbum (p. 166–174).» — o Manifesto é apêndice do livro, com paginação do dossiê; a tradição «presente no fim de cada um dos livros publicados pelo autor» provém do anexo do doc F033 e fica averbada só no ledger, sem aspa própria.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-535.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

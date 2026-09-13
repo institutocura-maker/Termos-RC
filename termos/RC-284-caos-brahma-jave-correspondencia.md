@@ -59,7 +59,5 @@ Caos/Javé (RC-001); Brahma (RC-037); Criador (RC-041).
 ## Observações
 Ficha baseada em B020 (obra primária) + B031. A cadeia de sinonímia do Criador (Caos = Brahma = Javé = Jeová = Alá = Pangu = Atom) é fundamental para a leitura comparada das mitologias no corpus RC. Cruzar com RC-286 (Eros/Tártaro).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 24 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-284.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

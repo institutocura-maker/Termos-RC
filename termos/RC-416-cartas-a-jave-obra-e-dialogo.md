@@ -49,5 +49,5 @@ Javé (RC-001); Mônica Camargo (RC-420); Jan Val Ellam (RC-071, intermediário)
 ## Observações
 Ficha baseada em B034 (obra primária, 2014). O livro é único no corpus: **Javé fala em 1ª pessoa** — fonte primária valiosíssima para a psicologia do Criador. Nota técnica: o PDF tem 94 págs; páginas 1 (capa) e 72 sem texto (extração das demais OK).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[15 × 16 cartas]: chancelada DIVERGÊNCIA REGISTRADA (F040-L5).** Sumário (15) × BIBLIO (16); BIBLIO intocada.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-416.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

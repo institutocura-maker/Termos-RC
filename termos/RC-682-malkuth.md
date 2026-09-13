@@ -71,5 +71,5 @@ Consultar Base.
 ## Observações
 Teologia comparada e alegações científicas permanecem atribuídas ao palestrante.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Shockman]: RESOLVIDA (F038-L5).** = Hochmah: pertence à família STT Rockma/Rockman/Hotman/Hman/Shockma, todas normalizadas para Hochmah em RC-565 (decisão canônica do curador).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-682.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

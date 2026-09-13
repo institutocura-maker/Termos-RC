@@ -32,11 +32,11 @@ Aparece na Aula 03 (fonte primária F044). Verbatim-chave:
 ## Observação
 **Quarentena teológica** — a leitura da negação e do raio da perseguição é de Ellam. `relacoes/` blindado (0 arestas novas).
 
-## Nota de governança
-F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraído do translado; nenhuma aresta nova.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - ««No dia em que Jesus foi preso pela turma do Sinédrio, era para prender toda a turma de Jesus. Pedro negou várias vezes. Foi quando Jesus percebeu que aqueles 11 apóstolos que ele havia escolhido lá da Galileia, porque o 12º, era Judas da Judeia...»» — *ver:* **Contexto / Origem**
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-945.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

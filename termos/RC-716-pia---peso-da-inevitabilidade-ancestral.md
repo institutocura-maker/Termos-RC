@@ -59,5 +59,5 @@ Moros teria calculado o PIA de cada ser e Anank/Anankê `[REVISAR → CHANCELA 1
 - Anankê permanece em quarentena.
 - PIA não é medida científica reconhecida.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Anank/Anankê]: chancelada AGUARDA-ÁUDIO (F039-L5).** Ver Ananque (RC-777, grafia consagrada); forma preservada (STT nunca renomeado por conveniência).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-716.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

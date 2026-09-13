@@ -72,7 +72,5 @@ Formas STT: `Daxha`, `Daxa`, `Dakar`, `Virine`.
 - **Cadru (13ª filha) + Cásiapa = serpentes:** "13 filhas uniram os seus códigos-fontes definidores ao de Cásiapa. E principalmente a 13ª filha chama-se Cadru. Cadru e Cásiapa criaram todos os tipos de serpentes que existem no universo vizinho" — centenas/milhares de espécies;
 - **Pashupati (RC-669):** "foi quando Shiva criou a expressão adiágena dele como Pashupati para interagir com isso... Pashupati centralizou, tomou desse trabalho e a partir dele migrou as informações pro universo biológico" (nova aresta RC-701 ↔ RC-669).
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 30 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-701.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

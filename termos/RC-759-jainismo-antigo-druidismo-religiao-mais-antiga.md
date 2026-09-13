@@ -73,7 +73,5 @@ Na leitura de Jan Val Ellam (P2024-02-03), o **Jainismo é a religião mais anti
 
 A afirmação de que o **Jainismo é a religião mais antiga da Terra** e que **jainismo = antigo druidismo** é **leitura de Ellam**, não consenso histórico-religioso (a academia data o Jainismo formal no séc. VI–V a.C., com Mahavira). A associação com o druidismo e com Mohenjo-Daro/Harappa é interpretação do autor. O registro descreve a cosmologia da RC, sem validação histórica externa. A cronologia interna é conflituosa (4–5 mil anos × 2.500 anos × "o mais antigo") — registrada em Colecionar Incertezas.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 47 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-759.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

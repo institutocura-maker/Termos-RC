@@ -63,17 +63,11 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 
 **Quarentena filosófica/histórica:** o diagnóstico de Aristóteles e a leitura da história da filosofia são do autor; plataforma "Orbon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA-ÁUDIO (STT preservado como falado) — ver nota].
 
-## Nota de governança
-
-[P2024-07-14] As formulações filosóficas ou históricas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
-
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 26 (B2) · ll. 64 (B3).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
 
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-231.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -73,5 +73,5 @@ A palestra relaciona cannabis e outras plantas à expansão de consciência e ao
 - **Quinara (futuro):** "daqui a uns 4.000 e poucos anos... essa pessoa se reassuma como uma quinara. É um outro tipo de teriantropia mais parecida com centauros” — `[REVISAR → RESOLVIDO 10/09/2026 · F038-L5: ver RC-790 (ficha dedicada: Quinaras/Centauros, seres reais) — ver nota]` (Colecionar Incertezas);
 - Nova aresta RC-577 ↔ RC-160 (Xamanismo ~ Entropia).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[quinara]: RESOLVIDA (F038-L5).** Ver RC-790, ficha dedicada (Quinaras/Centauros, seres reais que hoje nascem humanos).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-577.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -47,5 +47,5 @@ Aparece em **P2019-05-11**, U0003, no contexto do **ovo cósmico de Brahman** qu
 - Quarentena: leitura do autor; sem fusão com a Teogonia acadêmica ou com mitologia comparada.
 - A grafia STT "Exildo" deve ser canonizada para "Hesíodo" (a apostila já documentou).
 
-## Nota — MUTIRÃO REVISAR · Lote 4 — Tensão Intra-Corpus (06/09/2026 · despacho Q-F040-A…E)
-- **Q-F040-A · ENCERRADO-RATIFICADO:** χ άος hesiódico × «caos» do autor = divergência com a academia, que não é pauta da Arca (precedente Senequeribe, Q-F038-C, estendido neste despacho). A interpretação do autor fica registrada como leitura, não como erro.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-782.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

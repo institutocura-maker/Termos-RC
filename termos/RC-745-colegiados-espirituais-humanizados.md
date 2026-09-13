@@ -41,10 +41,6 @@
 
 [P2024-07-14] A classificação de coletivos religiosos e espirituais documenta a interpretação de Ellam. Não constitui classificação histórica, sociológica, clínica ou confessional universal.
 
-## Nota de governança
-
-[P2024-07-14] Criado como registro compactado por decisão oficial do curador em 2026-08-17; a variante foi preservada e a fragmentação por polos religiosos foi vetada.
-
 ## Ampliação — P2024-07-14
 
 - **[P2024-07-14] Os seis polos em detalhe (U0358–U0494):** colegiado do êxtase da fé católica ("vinculado diretamente a Jesus e indiretamente a Javé e ao chamado culto mental do Espírito Santo"; "a Igreja Católica criou a figura do Espírito Santo no século IV, em Niceia"); colegiado do êxtase da fé islâmica ("a mente dessas pessoas está vinculada diretamente à figura de Javé/Alá e também de Maomé"); colegiado do êxtase da fé protestante ("vinculado diretamente a Javé e indiretamente a Jesus"); colegiado do êxtase da fé budista-yogue ("vinculado diretamente à figura de Buda e indiretamente à figura de Cristo"); colegiado híbrido demodármico devocional ("vinculado diretamente a Krishna"; "quem iniciou foi esse rapaz chamado Krishna... convenceu as pessoas a passarem o dia inteiro cantando os mantras"; "a educação que Krishna na época impôs aos humanos é a dármica, ou seja, o conceito do dharma, o dever sagrado"; "quando os seres humanos começaram a se tornar Hare Krishna, aí surgiu na espiritualidade esse colegiado, e é o maior"); colegiado de caráter filosófico ("não é devocional... congrega núcleos druídicos lá dos tempos celtas, hiperbóreos, nórdicos, com confucianos na base da educação dos ancestrais chineses, taoístas, tibetanos e dos antigos dravidianos"; "quase não tem defunto ocidental lá"; "é o único que não é de caráter de êxtase devocional. E ele é bem pequeno se comparado a esses outros grandes colegiados").
@@ -84,3 +80,5 @@
 - **[P2023-12-03 · O PEDIDO POR TRÁS DOS COLÉGIOS]** «criem um método para vocês estudarem.» (U0004) — D-8: os colegiados ganham origem narrada: os não-humanos pediram que os humanos **inventassem um método**, com a promessa de aprenderem com o nível de compreensão alcançado. A constatação de que a Arca seria esse método fica no relatório — e é vedada como auto-legitimação na ficha.
 
 ---
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-745.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

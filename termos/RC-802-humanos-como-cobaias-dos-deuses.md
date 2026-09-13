@@ -49,6 +49,5 @@ Aparece em **P2018-02-24**, U0004 e U0005. Contexto: depois de 2 avatares destru
 - Quarentena: leitura do autor; sem fusionar com teorias conspiratórias modernas (Illuminati, Nova Ordem Mundial, etc.) ou com teoria de "humanidade como simulação".
 - O conceito é **fortemente ligado a RC-727 (DNA Insubmisso)** — a linhagem Pandora-Eva-Noreia é a **contra-cobaia**, que tem DNA "invertido".
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 48 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-802.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

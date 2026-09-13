@@ -63,8 +63,6 @@ O episódio pertence à mitologia e às tradições religiosas hindus. As equiva
 - **[P2024-08-03] O recurso desesperado (U0324–U0333):** Brama e descendentes "perceberam que estavam falidos... doía tudo e ninguém conseguia produzir nada de remédio"; "no hinduísmo surge a notícia do samudra manthã, que foi algo desesperador": uma super serpente batendo num líquido do universo vizinho "do jeito que você bate no leite para fazer manteiga"; daí surgiu o amrita, "um tipo de elixir que aplacava a dor de todas as espécies"; "assim que esse pouco de remédio surgiu, todas essas espécies começaram a brigar porque o remédio não dava para todo mundo".
 - **[P2024-08-03] A escada dos produtos (U0637–U0650):** "o motivo das guerras descritas nas mitologias é a disputa por essas novidades"; o amrita foi um dos produtos; "o último produto e ainda disputadíssimo é o sangue humano"; "pra turma mais sofisticada, o último produto é o eu humano" — o eu que ri da própria desgraça, faz poesia, é altruísta, "despreza todas as regras de conduta que Brama impôs à evolução".
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[produtos do batimento]: chancelada INCOMPLETUDE REGISTRADA (F040-L5).** Não completado por fontes externas — decisão mantida.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -72,3 +70,5 @@ O episódio pertence à mitologia e às tradições religiosas hindus. As equiva
 - «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0019
 - «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-734.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

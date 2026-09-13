@@ -79,11 +79,11 @@ Correlação anaquins/enacins = Anunnaki/Nefilins é **leitura do autor** (Teolo
 - **Distinção com Elohim (RC-004):** "não tem nada a ver com os Elohins" — raça extraterrestre na Terra na época do Éden;
 - Nova aresta RC-004 ↔ RC-488 (Elohim ~ Nefelins) — desambiguação confirmada pelo curador.
 
-## Nota — DESPACHO CURATORIAL 10/09/2026 (P7c-ter): extensão do invariável Anunnaki (RC-024)
-- Título corrigido por ordem do Curador ("assim fica consistente"): *Nefilins (= Anunnaki)*. Verbatim/STT preservados ("Anunax", «famosos Anunnakis chamados à moda acadiana").
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «Os Anunax transaram com as mulheres, os Igis, que é um tipo de anunque, desceram no monte Horb e desobedecendo a lei de Enk, de Enlil, eles transaram com as humanas aqui.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0068
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-488.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

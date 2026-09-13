@@ -35,5 +35,5 @@ Termo-título da palestra; já registrado também em P2025-02-16 e P2024-11-30.
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[bôson]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-001 (mesma fala).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-561.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

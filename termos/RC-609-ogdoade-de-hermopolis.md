@@ -76,6 +76,5 @@ Correspondência específica das RC, não apresentação geral da egiptologia.
 - **Krishna (RC-414):** desdobramento dos oito princípios — "avatar quechada" [STT] de DNA misto (nova aresta RC-609 ↔ RC-414);
 - "A mitologia de Hermópolis nunca foi compreendida pelos seres humanos, na verdade nem por Thot. Ele apenas registrou os nomes."
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Elmorus]: chancelada AGUARDA-ÁUDIO (F039-L5).** Uso coerente (paralelo em RC-454); canônico Elm/Olm mantido.
-- **[Rem e Renete/Renenutet]: chancelada AGUARDA-ÁUDIO (F039-L5).** “Rem e Renete” paralelo em RC-454 (sem flag); equivalência à Renenutet egípcia não confirmada no corpus.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-609.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

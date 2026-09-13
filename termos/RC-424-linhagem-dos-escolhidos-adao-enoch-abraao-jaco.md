@@ -75,6 +75,5 @@ O B036 detalha a linhagem como engenharia genética divina: Javé admite ter "ma
 
 ---
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Maricandã]: RESOLVIDA (F038-L5).** = tradição Tamil (ver RC-102; P2021-01-23).
-- **[divismo]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese “plano de Vishnu” registrada.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-424.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -214,11 +214,5 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias: a condiçã
 - a polinomia do criador: "Brahma ou javé ou atum vários nomes" (STT);
 - o forno de Brahma (Awayen) "nunca funcionou" → Central de Realidades (ver RC-836).
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 24 → ENCERRADO-RATIFICADO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
-- **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
 
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Criador caído / condição Adhyatman»: «a fórmula mental precisa evoluir para que as necessidades do Criador caído possam ser atendidas» — a condição anterior à queda grafada como o cadastro a grafa (Brajna/Adhyatman).
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-037.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

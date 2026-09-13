@@ -73,6 +73,5 @@ Zecharia Sitchin é a referência autoral citada pela fala. Datas e localizaçã
 
 **Regra de status:** permanece ⚪ candidato porque a fonte é STT sem áudio anexado. A aprovação do curador valida a modelagem terminológica, não substitui a futura conferência com áudio ou obra primária.
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **Mardur / clã Hen Lil (l. 36): ENCERRADA em duas metades.** «Mardur»: 0× nos livros × «Marduk» 8× → variante oral documentada, grafia analítica Marduk (citação intocada). «clã Hen Lil»: **1× em todo o corpus varrido** (a própria fala P2021-05-15) → averbado como orfandade de corpus: sem renomeação, sem fusão, sem criação; se a Trilha D do futuro trouxer par, reabre.
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-583.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

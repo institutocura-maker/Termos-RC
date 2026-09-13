@@ -55,6 +55,5 @@ Aparece em **P2023-11-11**, U0004, em conexão com a **Sequência Formativa** (R
 - Quarentena: leitura do autor; sem fusão com historiografia acadêmica (onde o analfabetismo medieval é multifatorial) ou com teologia cristã (onde o catolicismo é visto como preservador do conhecimento).
 - Quarentena sobre **Fausto de Goethe**: a leitura do autor é que Fausto simboliza a tentativa de submeter o eu humano; não é a leitura acadêmica padrão.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Outros (06/09/2026 · despacho Q-F041-A…E, liquidação final do mutirão)
-- **Selos do lote:** ll. 54 → AGUARDA-ÁUDIO.
-- **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-786.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

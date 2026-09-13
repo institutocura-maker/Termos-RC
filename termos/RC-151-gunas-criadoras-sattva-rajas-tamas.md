@@ -88,6 +88,5 @@ Ficha baseada em B024 (obra primária). As porcentagens (5/27/68) vêm do cruzam
 - **Força entrópica = força tamásica de Shiva:** "a força tamásica de Shiva é a entropia dessa criação... existe uma lei entrópica que diz que o que cai de entropia num sistema, ninguém consegue mexer nessa equação" (RC-160 — nova aresta RC-160 ↔ RC-151);
 - Shiva como "reciclagem vinculada à entropia cósmica, vinculada à força tamásica" (reforço de P2023-12-02).
 
-## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
-- **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Entropia/Tamas»: «a ação desagregadora advinda da energia Tamas» — o GKA ancora a entropia do corpus na gunas sem violar o cadastro.
-- Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-151.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

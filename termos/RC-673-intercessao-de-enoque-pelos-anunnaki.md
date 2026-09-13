@@ -34,5 +34,5 @@ Forma preferida: Intercessão de Enoque pelos Anunnaki.
 
 ---
 
-## Nota — DESPACHO CURATORIAL 10/09/2026 (P7c-ter): extensão do invariável Anunnaki (RC-024)
-- Título corrigido por ordem do Curador ("assim fica consistente"): *Intercessão de Enoque pelos Anunnaki*. Status inalterado (🟠).
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-673.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

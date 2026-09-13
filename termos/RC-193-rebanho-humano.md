@@ -33,14 +33,6 @@ Na cosmologia de Ellam, o conjunto dos humanos que se comportam dentro do mesmo 
 - **«rebanho humano»** — «esse é o pior retrato do rebanho humano da atualidade».
 - Aula 04 usa «rebanho humano» no contexto do julgamento da humanidade (mundo administrado), corroborando RC-193.
 
-## Nota — F044-MERGE (RC-941 → RC-193) · 06/09/2026
-
-O código provisório **RC-941 «Rebanho humano»** (criado pelo F043-T3 como expansão condicionada) foi **excluído por despacho do Curador** por tratar-se de duplicidade com esta RC-193, que permanece **âncora**. A definição dicionarizada do parceiro (obra de apoio, fonte **secundária**) foi absorvida aqui como nota, sem criar aresta em `relacoes/`:
-
-- **Definição GKA (EXT-2024-01-04), verbatim:** «Grupo de pessoas facilmente manipuláveis, acostumadas a serem conduzidas.»
-
-**«rebanho humano» no F044 (fonte primária) — Aula 04:** este é o pior retrato do rebanho humano da atualidade.» Em contraste com a acepção GKA (manipulação), o curso de Ellam opera sobre a noção elâmica de massa horizontalizada (ver Definição Sintética acima); não há pretensão de canonicidade doutrinária.
-
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|
@@ -62,6 +54,5 @@ O código provisório **RC-941 «Rebanho humano»** (criado pelo F043-T3 como ex
 
 Leitura do autor; **quarentena teológica** — as classificações religiosas não são consenso das tradições.
 
-## Nota de governança
 
-[P2024-07-14] As formulações sociológicas ou religiosas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-193.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -49,17 +49,11 @@
 
 ---
 
-## Nota de blindagem — F031 aplicação (05/09/2026): Yel Luzbel ≠ Len Mion
-
-- O doc-fonte F031 («1-EDR-O Livro», compilação terciária) afirmava **fusão** entre Yel Luzbel (Lúcifer, família Yel) e Len Mion (Satã, família Mion / Tau Ceti). A **própria fonte-mãe desmente**: «ia infectar o processador da família Iel e infectou» / «toda a família IEL se contaminou pelo vírus» — Yel é o **receptor contaminado** da infecção Luciferana, não o agente Satã. A Base mantém as fichas separadas (**RC-142** × **RC-074**); nada do doc foi propagado (ledger D-1).
-- **[P2021-06-26 · TIKUM]** o título da palestra-fonte desta ficha é «Shiva — A Reconstrução do Erro de Brahma e o **Tikum**» — grafia oral de **Tikkun** (conceito cabalístico do reparo; glossário 2025-08-03: «capacidade humana de "consertar" o DNA herdado de Javé e de reparar o próprio Criador e sua criação»). G6/Q-B: **sem código novo**; a nota vive nesta ficha e na RC-754.
-
-## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
-- **Selos da varredura:** ll. 29 (RA).
-- **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
 
 - «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
 
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-142.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

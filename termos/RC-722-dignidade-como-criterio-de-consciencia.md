@@ -99,14 +99,6 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 
 ---
 
-## Nota pedagógica — P2025-07-18 — dignidade como descontinuidade
-
-- **[P2025-07-18 · U00009–U00017]** A palestra contrapõe obediência cega e liberdade de consciência e afirma que uma sensação digna, quando acompanhada por resoluções e conduta, pode interromper a repetição de um roteiro. A dignidade é apresentada como critério prático de transformação do presente.
-- **Cruzamento aprovado:** rito de passagem, quatro usos do presente e ato de verdade ficam como notas pedagógicas transversais em RC-619, RC-705 e RC-722.
-- **Quarentena:** não transformar o vocabulário de “doença”, “genoma”, carma ou espírito em diagnóstico, psicologia clínica ou instrução de saúde.
-
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[eu de Tat digno]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax.
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -114,3 +106,5 @@ Critério ético proposto na palestra para avaliar crenças, poderes e ações: 
 - «Quando um ser humano acende em si mesmo a pulsação da dignidade e quando isso é honesto na pessoa, eles perdem totalmente a condição de se aproximar. daquele ser humano e mexer, porque a pulsação daquele ser humano cria um campo protetor ao redor do ser humano que impede de jáé a qualquer anjo ou […]» — *ver:* **Ampliação — P2024-03-17**
 - «Eis o problema, essa indignidade transformou-se em religião. Que indignidade considerar o ser humano um pecador, um filho do demônio. E a gente aceita isso, pessoal. Nós nos submetemos a toda hora às religiões e a base jurídica para que tal coisa se dê jurídica, teológica, é essa crença.» — *ver:* **Ampliação — P2024-02-04**
 
+
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-722.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

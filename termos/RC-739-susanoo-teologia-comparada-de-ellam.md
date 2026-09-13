@@ -38,13 +38,11 @@
 
 [P2024-09-29] A equivalência não é consenso histórico, filológico ou religioso. Não se inferem genealogias biológicas validadas.
 
-## Nota de governança
-
-[P2024-09-29] As formulações mitológicas, cosmológicas, históricas, religiosas, genéticas ou biológicas desta ficha documentam a interpretação de Ellam. Não equivalem a consenso histórico, religioso ou científico.
-
 ## Ampliação — P2024-09-29
 
 - **Susanoo = Poseidon (P2024-09-29 — destaque O-2):** "Susanoo, que é Poseidon"; "em tese, Amaterasu e Susanoo, que é Poseidon e Atena, não são seres anfíbios, ou podem assumir a forma, porque são metamorfoseáveis, mas não há registro de Atena se metamorfoseando nesses últimos tempos"; "Poseidon continua lá".
 - **A pacificação da Terra:** "a pacificação da terra não porque alguém na terra tava brigando. A pacificação da terra devido à briga de Poseidon e Atena e a briga com Zeus e outras figuras. Essas nunca pararam. Algumas sim, outras novas também surgem a toda hora."
 
 ---
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-739.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -39,14 +39,11 @@ Com isso:
 | B050 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 | B052 | a preencher | — | paráfrase (vínculo pré-existente do cadastro) |
 
-## Nota de convergência — cotejo F030 (05/09/2026, decisão do curador Q-F030-B: "só como contexto")
-
-- O estudo de terceiros **F030** (Colégio Druídico — Estudo Continuado, Daniela D. Ferro) reproduz o tríptico cronológico deste ciclo **sem erro**: **270 milhões de anos** (chegada da nave Asphezian a Capela — RC-025) → **230 milhões de anos** (família Val, "a última família" — RC-109, U0023) → **4 milhões de anos** (instituição da Escola da Decifração pelo Codificador — RC-092, U0008). É a **primeira vez que um refatorado externo fecha as três cifras ao pé da letra** — registradas aqui como **auditoria de leitura** da malha capelino-druídica.
-- Rigor anti-pseudoconfirmação (regra do despacho): convergência com mesma fonte raiz **não corrobora nem eleva STATUS**; nenhum dado, data ou aspa foi importado do F030 (a vedação integral está na Devolutiva do curador de 05/09/2026 — ver `consolidacoes/F030_colegio-druidico/DECISAO-DO-CURADOR.md`).
-
 ## Termos Relacionados
 | Termo | Código | Estado na malha |
 |---|---|---|
 | Druidas Celtas (contexto RC) | RC-375 | aresta pré-existente; arquivo existe |
 | Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-403.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

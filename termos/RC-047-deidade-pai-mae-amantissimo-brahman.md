@@ -126,12 +126,5 @@ Ficha baseada no glossário de B031. Verificar nas obras primárias o tratamento
 - **Semente da deidade:** "ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser" (RC-623);
 - **Encomenda dos setianos (RC-766):** "seriam uma encomenda, um sonho desse Deus que é imanente a tudo, mas que não se movimenta, porque ele por ele mesmo não se mete".
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 70 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 
-## Nota — F043 T3 · Reabertura pelo portão de evidência nova (06/09/2026 · despacho §4)
-- **Conversão lavrada:** a chancela AGUARDA-ÁUDIO da l. 70 (2 selo(s)) tornou-se averbação definitiva: o Glossário Krys Amon (obra de apoio do letrado circunstante, 04/01/2024) grafa de forma estável «Perpérion» — 38× em fichas, grafia dominante contra «Perpério» 39× em variantes de fala. A fala de 2018 não é corrigida nem renomeada; o que muda é o estado: de «aguarda áudio» para «averbado por fonte escrita nova».
-- **Guarda:** l. 65 da RC-091 intocada (assert global abaixo); texto do F039 no corpo da l. 70 preservado verbatim até o ponto de conversão; `relacoes/` blindado.
-- **Portão F041-E exercido:** obra nova procurei, resíduo reli; primeiro e único caso do ledger dos 47 com evidência direta — os demais permanecem chancelados como estavam.
+> Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-047.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

@@ -53,6 +53,5 @@ Zeus (RC-145); demos do Olimpo (RC-049).
 ## Observações
 Ficha baseada em B021 (obra primária). Telos e timé são conceitos-gêmeos da "psicologia divina" das RC — cruzar com RC-293.
 
-## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
-- **Morus × Moros (l. 25): ENCERRADA a verificação — preferência impressa é «Morus» (31× × 3× nos livros do acervo; B050 original.txt l. 87, verbatim: «[ 5,000,000,000 a.p.] (trilha A, y=545) Surge Sophia, o primeiro biodemo. Em seguida, surge também o Codificador de Zion (6 bilhões a.p.) / Desconstituição de Morus. Implosão pessoal de Brahma. Surge Urano. (6 - 5 bilhões a.p.)»). O cadastro mantém o canônimo «Moros» — renomear é ato de despacho futuro, se o curador quiser; averbado aqui como dado, não como pendência.**
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-292.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

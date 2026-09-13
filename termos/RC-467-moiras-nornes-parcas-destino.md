@@ -149,10 +149,6 @@ Quarentena mitológica — leitura do autor.
 - **[P2024-11-30 · A TERCEIRA DENOMINAÇÃO, NA FONTE]** «Moros pegou 25% das informações vivas da sua inteligência, criou um ser. 25% criou outro, 25% criou outro e ficou com ele só com 25%. Esses três seres na mitologia grega são chamados de moiras. Na mitologia nórdica são chamadas de nornas ou nornes. Na mitologia são chamado de Súdices.» — a tríade de nomes entra no lema e na ficha; **a própria fonte trunca o idioma** («Na mitologia são chamado de…» — o qualificador caiu no STT): o «sânscrita» que o doc F032 completou **não é adotado como fato**, registrado apenas como leitura provável do compilador (ledger D-10). O mecanismo do 25%×4 (três seres + as três cápsulas/setas retidas) nasce da mesma sentença — ver RC-454, RC-611, RC-658.
 - **[P2024-11-30 · FUNÇÃO]** as três «recebem parte do conhecimento de Orlog» (passado/presente/futuro pendente) — consistente com a seção Urd/Verdandi/Skuld acima.
 
-## Nota — MUTIRÃO REVISAR · Lote 3 — STT & Áudio (06/09/2026 · despacho Q-F039-A…F, aprovação em bloco)
-- **Linhas carimbadas do lote:** ll. 35 (B5b) · ll. 74 (B5a).
-- **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
-- **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
 ## Citações-chave
 
 > Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
@@ -160,3 +156,5 @@ Quarentena mitológica — leitura do autor.
 - «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
 - «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0033
 
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-467.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

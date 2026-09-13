@@ -60,5 +60,5 @@ Termo candidato, sujeito a cruzamento com obras e palestras adicionais.
 
 A criação de Mohen So é descrita como combinação genética/mental da Trimurti em um corpo com quatro componentes/cabeças, incluindo uma parte sem lacres. A formulação permanece cosmologia da palestra.
 
-## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
-- **[Zontrel]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; variantes Zontrell/Zonte Indrel/Tendré registradas.
+
+> Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-649.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
