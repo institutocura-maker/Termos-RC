@@ -54,3 +54,7 @@ A fala retoma a anedota política da tartaruga ou do jabuti encontrado sobre uma
 ## Blindagem científica obrigatória
 
 **Jabutis Genéticos é estritamente uma metáfora/alegação da Revelação Cósmica. Não é um conceito reconhecido pela genética, não demonstra inserção artificial de genes e não substitui explicações de evolução, transferência genética, regulação gênica ou incerteza científica.** Referências orais a `HR1`, FOXP2, MHC, números de genes ou “genes sem rastreio” exigem conferência técnica e não são validadas por este cadastro.
+
+
+## Citações-chave
+> "Do jeito que você vê uma tartaruga em cima de uma árvore e diz 'ela não subiu; alguém colocou', no nosso genoma tem vários jabutis, várias tartarugas que não há rastreamento lógico de como certos genes da nossa área HR1 surgiram. O que implica que a ciência não tem coragem de dizer: são jabutis que mentes outras colocaram. E desse tipo de interferência, a última foi dos anunnakis no sentido biológico, há 48.000 anos atrás, quando Enki, um dos dois filhos de Anu, irmão de Enlil, introduziu o gene FOXP2 na condição humana."" — P2024-11-02

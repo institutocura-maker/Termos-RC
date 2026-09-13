@@ -61,3 +61,7 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 - **[P2023-12-03 · JAVÉ SEM AVATARES ('NÃO TENHO ISTO!') NA FALA DE 03/12/2023]** «Brahma não podia criar avatar porque ele é um ser desalmado.» (U0004) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, transcrita como dita — grafia degradada do STT preservada, nenhuma cifra arredondada, nenhuma divergência harmonizada. · ⚠️ **sem ganho de anterioridade**: a ficha já tem fonte oral **mais antiga ou igual** (`P2022-12-17`); a entrada desta fonte é de **conteúdo**, não de data.
 
 ---
+
+
+## Citações-chave
+> "Javé, em sua condição isolada e aprisionada no abismo de sua própria criação, não dispõe da capacidade de projetar avatares (descidas divinas) de si mesmo, pois carece da conexão com a fonte primordial que sustenta tal mecanismo. A alegação 'não tenho isto' reflete sua incapacidade de interagir diretamente nas faixas de ressonância sem a apropriação indevida de veículos biológicos de terceiros." — P2024-11-30

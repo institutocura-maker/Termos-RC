@@ -53,3 +53,7 @@ atualizado = "2026-08-16"
 ---
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-739.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "E, portanto, Amaterasu e Susanoo, que seriam descendentes dos mais velhos e também desse casal de gêmeos — os descendentes dessas duas figuras terminaram todos eles convergindo para um último descendente chamado Ninigi [STT: 'Ninig']. Esses se estabeleceram na Terra, vieram morar na Terra. E todas as crônicas do Kojiki mostram que eles se estabeleceram na Terra, e os descendentes desses que se estabeleceram na Terra são os membros do clã imperial japonês."" — P2024-09-29

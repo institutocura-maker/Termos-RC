@@ -66,3 +66,7 @@ Na formulação de Jan Val Ellam, é a distância entre poder ou conhecimento e 
 
 ## Blindagem epistemológica
 Conceito interno da cosmologia e crítica filosófica de Ellam. Não é diagnóstico psicológico, psiquiátrico ou neurocientífico. As “faces dos poderosos” são juízos atribuídos ao palestrante, não consenso histórico ou religioso.
+
+
+## Citações-chave
+> "Dito isso, o título da palestra, 'o abismo da consciência cósmica', já vai dizendo que é um problema muito sério, aonde não divirjas de nenhum tipo de problema. Mas, infelizmente, há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana. Abismos existem em todos os níveis de consciência, devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo. E isso, durante milênios, fez com que seres humanos transitórios, temporais, seres espirituais eternos, ou seja lá como queiramos chamar, e outros tipos de seres, todos nós embarcássemos numa situação de demência, de protorracionalidade, de irracionalidade, de uma quase racionalidade."" — P2024-11-09

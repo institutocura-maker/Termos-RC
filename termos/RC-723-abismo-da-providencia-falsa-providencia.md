@@ -65,3 +65,7 @@ Crítica, na palestra, à distância entre a crença numa providência cuidadora
 
 ## Blindagem epistemológica
 A ficha registra a posição filosófico-cosmológica da palestra. Não afirma como fato que não exista providência, divindade ou experiência espiritual.
+
+
+## Citações-chave
+> "Dito isso, o título da palestra, 'o abismo da consciência cósmica', já vai dizendo que é um problema muito sério, aonde não divirjas de nenhum tipo de problema. Mas, infelizmente, há um abismo na consciência cósmica, há um abismo na consciência espiritual, há um abismo na consciência humana. Abismos existem em todos os níveis de consciência, devido ao problema que nós estamos vivendo. Problema esse que nunca foi decifrado, mas foi inventada toda uma narrativa falsa que nos cegou durante muito tempo. E isso, durante milênios, fez com que seres humanos transitórios, temporais, seres espirituais eternos, ou seja lá como queiramos chamar, e outros tipos de seres, todos nós embarcássemos numa situação de demência, de protorracionalidade, de irracionalidade, de uma quase racionalidade."" — P2024-11-09

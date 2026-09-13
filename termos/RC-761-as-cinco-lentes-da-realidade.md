@@ -71,3 +71,7 @@ Palestra integral dedicada ao tema (P2023-05-13). Ellam a apresenta como "o mome
 - **Matrix / Simulacro (candidato NT-BR02):** analogia cinematográfica — o conceito mecânico de "simulacro e faixas de realidade" foi absorvido em **RC-702 (Camuflagem da Realidade)** e **RC-167 (Criação Indevida)**, não como termo próprio.
 - **Modelo Polvo (candidato NT-BR03):** metáfora biológica para a consciência de Javé — absorvida em **RC-001 (Javé)** e **RC-604 (Fatiamento de Consciência)**.
 - As cinco lentes são **estrutura epistemológica do autor**, não conclusão acadêmica: a "ciência avançada" citada (supercomputadores/IA) permanece em quarentena tecnológica (leitura do autor, sem validação).
+
+
+## Citações-chave
+> "Depois de 30 anos estudando isso sob a perspectiva da condição humana e sob algumas outras perspectivas, existem cinco lentes básicas através das quais a gente pode olhar pra vida, pra realidade que a gente tá inserido e tentar entender como isso começou. Por que que é importante entender como isso começou?" — P2023-05-13

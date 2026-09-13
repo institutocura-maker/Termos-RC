@@ -7,7 +7,7 @@ subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
 fontes = ["P2026-08-04", "P2021-03-27", "P2024-09-28", "P2023-10-14", "P2018-12-16", "P2022-09-17"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Nefilins (= Anunnaki) — RC-488

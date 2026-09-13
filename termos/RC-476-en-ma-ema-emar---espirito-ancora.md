@@ -7,7 +7,7 @@ subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
 fontes = ["P2026-07-30", "P2024-05-04", "P2026-04-02", "P2025-10-25", "P2024-11-30"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # En Ma (Emá / Emar — espírito-âncora) — RC-476

@@ -52,3 +52,7 @@ Estruturas mentais e emocionais que, segundo a explicação da palestra, seriam 
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-724.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "Primeiro, vamos definir o que é a rede neural de consciência do planeta — porque pensamentos, os nossos, [formam] uma crosta [de formas-pensamento], e cada um se refere de uma maneira de falar, e são tantos nomes... Então, vou tentar definir isso para a gente poder ajustar. Vamos chamar então de formas-pensamento e formas-sentimento, que são guardadas nos campos mórficos de cada espécie, os campos morfogênicos, os campos memoriais, que se transformam às vezes em inconsciente coletivo, como os arcanos, o mundo das egrégoras." — P2024-11-09

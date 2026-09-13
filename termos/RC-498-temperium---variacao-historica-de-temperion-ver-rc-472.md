@@ -7,7 +7,7 @@ subcategoria = "2.3 Dimensões / Planos de existência"
 status = "verificado"
 fontes = ["P2021-12-04"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Tempérium — variação histórica de Tempérion (ver RC-472) — RC-498

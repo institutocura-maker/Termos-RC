@@ -56,3 +56,7 @@ Formulação central de Jan Val Ellam (tema-título da palestra de 03/03/2024) s
 ## Blindagem epistemológica
 
 "Dessensibilização" aqui é **uso próprio de Ellam** em sentido cósmico/ético, distinto do uso clínico (imunoterapia hipossensibilizante) e psicológico (terapia de fobias) que o próprio autor menciona. O verbete não afirma como fato científico as alegações genéticas (genes desligados), clínicas (transtornos) ou paleogenéticas. Causa e origem (Criador caído, vetores demo/biodemo) pertencem à cosmologia de Ellam, não a consenso histórico-científico.
+
+
+## Citações-chave
+> "Aí você olha para 10 milhões de espécies e vê que só o lobo é o único animal que nunca esquece os pais dele... Por que é que diabos o lobo faz isso e os outros animais não fazem? No dia que você entender a destinação do DNA do lobo... por trás de cada genótipo há todo um processo histórico."" — P2024-03-03

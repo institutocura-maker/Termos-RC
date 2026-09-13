@@ -50,3 +50,7 @@ Proposta ética de Jan Val Ellam para reconhecer e acolher processos ou seres an
 ## Blindagem ética e clínica
 
 A formulação é um princípio ético interno da palestra, não protocolo clínico, jurídico ou de segurança. “Abraçar” é metafórico: não exige aproximação física de pessoas, animais ou sistemas potencialmente perigosos e não substitui limites, avaliação profissional, proteção ou emergência quando necessários.
+
+
+## Citações-chave
+> "Como a gente não vai poder falar bonito, a gente vai ter que falar feio, porque a história é feia. Eu peço então desculpas a vocês. Nós vamos falar de fantasmas, de um passado mitológico. E esses fantasmas estão todos atuando sobre a humanidade. A gente sente os efeitos, mas não percebe a causa. Pelo efeito a gente tem que deduzir a causa. E nisso aqui a gente não tem conseguido."" — P2024-11-02

@@ -7,7 +7,7 @@ subcategoria = "3.2 Lokas / Mundos interiores"
 status = "verificado"
 fontes = ["P2019-08-25", "P2021-05-15", "P2022-03-26", "P2022-05-07"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Forno de Awaymaion (forno de Vishnu; origem de Olm) — RC-499

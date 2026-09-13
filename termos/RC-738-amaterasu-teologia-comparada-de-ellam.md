@@ -55,3 +55,7 @@ atualizado = "2026-08-16"
 ---
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-738.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "E Amaterasu, que é Atena, que é, entre aspas, filha de Zeus. E Atena é tida como deusa virgem. E o pior: de fato, assim ela permaneceu, porque tudo o que ela fez foi por manipulação genética. Então, a pureza do sangue dos descendentes da casa real japonesa tem a pretensão de ser, entre aspas, a pureza da deusa Amaterasu."" — P2024-09-29

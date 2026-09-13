@@ -57,3 +57,7 @@ Termo guarda-chuva da palestra de 14/04/2024: o conjunto **intransferível** de 
 ## Blindagem epistemológica
 
 "Bagagem espiritual", "conectomas quânticos" e "álbum de figurinhas" são **conceitos próprios da RC**, não entidades mensuráveis. A intransferibilidade e a mecânica cármica descrevem a leitura de Ellam; não constituem doutrina espiritual validada nem prescrição. O registro não afirma a realidade empírica do karma ou das vidas passadas como fato científico.
+
+
+## Citações-chave
+> "Esse espírito aqui funciona como um ator ou uma atriz que tem uma personalidade própria, mas já fez 50 novelas. Em cada novela tinha um nome diferente, mas ele é ele... O espírito evolui assim ou se ferra assim, porque se ele só produziu personagens que se ferraram ou ferraram alguém, ele é obrigado a apropriar isso nele. E o nome disso, pessoal, é bagagem espiritual intransferível."" — P2024-04-14

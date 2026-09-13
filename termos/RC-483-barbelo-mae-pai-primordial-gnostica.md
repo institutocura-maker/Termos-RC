@@ -7,7 +7,7 @@ subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
 fontes = ["P2026-04-02", "P2024-09-28"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Barbelo (Mãe-Pai primordial gnóstica) — RC-483
@@ -51,3 +51,7 @@ Pleroma/Barbelo e a "encomenda" dos setianos são **leitura do autor** (Teologia
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-483.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "Esse barbelo não premia nem castiga ninguém, não se mete. Ele deu de si a semente da sua deidade. E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser." — P2024-09-28

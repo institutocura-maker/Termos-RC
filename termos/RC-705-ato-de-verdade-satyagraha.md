@@ -69,3 +69,7 @@ O ato vale porque a pessoa reconhece em si uma proposição vivida com integrida
 | Vergonha de Existir | RC-747 | associado |
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-705.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "Repito, eh, a minha pergunta eu bastante simples, acredito que do meu tamanho, porém eu gostaria de entender algo que você vem trazendo em algumas palestras falando sobre a questão do ato de verdade de cada um de nós, né? Eu tenho tentado, apesar de bastante complexo, o caminho, não é? fácil. Eh, considero que ainda tem muito a ser desenvolvido. Agora eu gostaria de perguntar o seguinte: a quando você diz que todos nós precisamos a partir da nossa própria decisão, nos expandir, buscar por nós mesmos, sair dessa dessa desse controle? E foi o que figuras como Jesus, como Buda, como tantos outros disseram que conseguiram, mas por eles mesmos. né? E parece que ninguém conseguiu entender essa mensagem, pelo menos a grande maioria." — P2025-07-18

@@ -56,3 +56,7 @@ Ambientes espirituais que, segundo a palestra, seriam sustentados pela ressonân
 
 ## Observação
 É uma descrição doutrinária/espiritual da palestra, não modelo físico de dimensões. A anedota sobre Coca-Cola e hospitais espirituais permanece exemplo oral, não norma ontológica independente.
+
+
+## Citações-chave
+> "E o porquê de nós não podermos mais continuar a viver como se fôssemos crianças: porque na espiritualidade, ou seja, nos ambientes espirituais, para além da vida terrena — que é um tema também inquietante, porque ninguém pode provar nada a ninguém — é um tema que ainda não é de ordem científica, é um tema no âmbito da revelação. Porque o contexto espiritual nós não percebemos objetivamente. Algumas pessoas percebem, é. Mas, enquanto não for compartilhado o conhecimento por todo mundo, isso estará sempre sob um escrutínio que deve nunca deixar de ser praticado. Porque dar como sabendo o que a gente ainda precisa saber não é uma atitude muito inteligente, não é uma atitude muito racional: não há sabedoria nisso."" — P2024-11-09

@@ -7,7 +7,7 @@ subcategoria = "8.2 Hebraico / Cabala"
 status = "verificado"
 fontes = ["P2024-09-28", "P2024-08-03", "P2023-09-09", "P2023-12-03"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Ekatma (Adam Kadmon — Homem Primordial) — RC-506
@@ -54,6 +54,10 @@ Na RC, o **Homem Primordial cósmico** (Adam Kadmon) — distinto do Adão bíbl
 | Adhyatman | RC-013 | associado |
 | Planos de Existência da Cabala (Atziluth, Briah, Yetzirah, Assiah) | RC-264 | associado |
 | A Raça Inabalável dos Sethianos Emancipados | RC-766 | relaciona-se-a |
+
+## Citações-chave
+> "E isso está presente em cada consciência particularizada, porque é o tal do corpo átmico presente em cada ser. Por isso que a gente usa aquela expressão: namastê." — P2024-09-28
+
 
 ## Observações
 

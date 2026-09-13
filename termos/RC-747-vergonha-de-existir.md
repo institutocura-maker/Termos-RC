@@ -45,3 +45,7 @@ Conceito ético-evolutivo interno da Revelação Cósmica: um **genótipo** (na 
 ## Blindagem epistemológica
 
 "Genótipo" e "vergonha de existir" são **uso metafórico-próprio de Ellam**, não conceito da genética científica. O registro descreve a ética interna do autor (freio contra indignidade); não constitui diagnóstico, autoavaliação clínica nem prescrição. O incômodo é apresentado pelo autor como pessoal e intransferível, não como modelo a ser imitado ("não faça isso não, porque dói para cacete").
+
+
+## Citações-chave
+> "Eu criei para mim mesmo um novo tipo de genótipo chamado vergonha de existir... Eu fiz isso para provocar o meu espírito. E a partir de agora todo eu que ele produzir virá com essa vergonha de existir, que é a única forma de causar incômodo nele."" — P2024-03-03

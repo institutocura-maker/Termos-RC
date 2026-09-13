@@ -39,6 +39,7 @@ sys.path.insert(0, FER)
 import dados_termos as d  # noqa: E402
 
 BASELINE = os.path.join(FER, "test_baseline.json")
+LAPIDES_F045 = {"RC-449", "RC-872", "RC-936"}  # 2.1B: exceção histórica sancionada
 EMOJI = {"candidato": "⚪", "provisório": "🟡", "em análise": "🟠",
          "verificado": "🟢"}
 
@@ -159,6 +160,8 @@ class TestBase(unittest.TestCase):
             x = open(paths[0], encoding="utf-8").read()
             if x.startswith("+++"):
                 # 2.1: envelope virou frontmatter TOML — xor estrito (G3.3)
+                if cod in LAPIDES_F045:
+                    continue  # envelope-história post-remissiva preservado — sanção nominal na CERTIDAO-ONDA2.1B
                 end = x.find("\n+++\n", 4)
                 try:
                     import tomllib

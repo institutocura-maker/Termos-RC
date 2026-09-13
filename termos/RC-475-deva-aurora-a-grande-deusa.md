@@ -7,7 +7,7 @@ subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
 fontes = ["P2026-07-30; RC-622; RC-768"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Deva / Aurora (A Grande Deusa) — RC-475

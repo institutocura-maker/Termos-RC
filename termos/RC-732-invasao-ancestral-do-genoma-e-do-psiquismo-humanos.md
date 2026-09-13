@@ -83,3 +83,7 @@ Esta é uma categoria interna da cosmologia de Ellam, **não um mecanismo reconh
 
 - **[P2024-07-13]** Autismo, homoafetividade, reprodução, memória genética, neurobiologia e matérias clínicas permanecem segregados da ontologia cósmica.
 - **[P2024-07-13]** Não converter metáfora, profecia ou alegação cosmológica em causalidade espiritual, diagnóstico, mecanismo genético, orientação terapêutica ou ciência demonstrada.
+
+
+## Citações-chave
+> "Houve um tempo quando os portais entre o Brahmaloka e o Bhuloka se encontravam naturalmente abertos, em que certa classe de demos da estirpe ancestral manipulou a genética de uma das espécies ancestrais do gênero canis, a cerca de 4,5 milhões de anos atrás. Nessa época, essa espécie de ancestral do lobo era chamada de Eucion. E o Eucion era o ancestral comum de lobos, coiotes e chacais. Esses nossos amigos lobos vagavam selvagens por cerca de 8 milhões de anos, até encontrarem os humanos, há cerca de 10.000 anos atrás." — P2024-08-03

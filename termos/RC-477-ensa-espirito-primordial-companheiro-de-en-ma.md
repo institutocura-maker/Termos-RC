@@ -7,7 +7,7 @@ subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
 fontes = []
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Ensá — RC-477

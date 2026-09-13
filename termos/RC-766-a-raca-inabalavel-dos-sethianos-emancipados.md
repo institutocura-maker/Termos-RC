@@ -52,3 +52,7 @@ atualizado = "2026-08-18"
 ## Blindagem epistemológica
 
 Linhagem espiritual e "encomenda" da Deidade são **leitura do autor** (Teologia Comparada) — não é genealogia histórica validada. O contraste setianos × devocionais reforça a crítica à devoção (RC-749), mantendo a hierarquia da Base.
+
+
+## Citações-chave
+> "Pra gente compreender essa raça inabalável dos Sethianos Emancipados, nós vamos ter que nos referir a três épocas distintas e cruciais. Primeira época, a do tempo da vida de Seth, como filho de Adão e Eva; o tempo da vida de Jesus; e os tempos atuais da Revelação Cósmica."" — P2024-09-28

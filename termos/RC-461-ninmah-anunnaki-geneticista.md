@@ -59,3 +59,7 @@ Anunnaki geneticista, irmã de Enki (RC-486) e Enlil (RC-487) — também chamad
 ## Blindagem
 
 Base secreta nos EUA, derretimento de silos na Guerra Fria e habitat em mares/águas são **inferências narrativas do autor** (quarentena ufopolítica) — a Arca não as chancela como fatos.
+
+
+## Citações-chave
+> "Esses 900 anunnakis eram comandados por Enlil. Enki era o outro irmão... Se a gente for para trás na história, há cerca de 450.000 anos os anunnaki chegaram aqui... Anu ou An, o imperador de Nibiru, mandou os dois filhos dele para cá — na verdade três: Enki, Enlil e uma irmã chamada Ninmah."" — P2021-03-27

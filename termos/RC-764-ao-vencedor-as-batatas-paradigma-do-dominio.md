@@ -49,3 +49,7 @@ atualizado = "2026-08-18"
 ## Blindagem epistemológica
 
 Metáfora literária (Quincas Borba) adotada pelo autor como chave de leitura histórica — **registro doutrinário**, não teoria sociológica validada. A menção a "psicopatas" é **metáfora**, não terminologia clínica (quarentena clínica).
+
+
+## Citações-chave
+> "Ao perdedor a vergonha, a desonra da derrota, e ao vencedor as batatas.' Então essa expressão de Machado de Assis, 'ao vencedor as batatas', reside nessa crítica que ele faz a esses supremacistas, que sempre são os vencedores, os pobres que se exploram, que se ferrem, e aos vencedores, as batatas, nesse sentido. E por que que eu tô fazendo essa brincadeira? Porque Hitler criou o nazismo exatamente com esse tipo de noção, quando ele colocou os judeus em guetos, as minorias em guetos, para morrerem de fome antes mesmo de inventar as câmaras de gás."" — P2021-03-27

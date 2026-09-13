@@ -7,7 +7,7 @@ subcategoria = "1.6 Figuras humanas (históricas/míticas)"
 status = "verificado"
 fontes = ["P2022-12-17", "P2025-02-16", "P2024-11-30", "P2023-08-05", "P2023-05-20"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Caim (leitura RC: segundo a nascer) — RC-490
@@ -57,6 +57,10 @@ Na leitura da RC, Caim não foi o primogênito — Abel nasceu primeiro; Caim te
 | Abel | RC-684 | ← relaciona-se-a |
 | Abel | RC-684 | relaciona-se-a |
 | Tonteltã | RC-907 | associado |
+
+## Citações-chave
+> "Abriu o destravou a consciência. deu para Adão. Adão destravou a dele e a partir daí Javé que já havia gasto a fórmula do seu código fonte definidor, porque ele alojou isso em Adão, ele ficou refém dessa situação, não podia arrancar de volta. E, portanto, a descendência de Adão e Eva, Javé teve que engolir o fato de que Abel nasceu afeminado. Aí Caim, que já Caim foi o segundo filho de Adão e Eva, matou Abel. Aí depois surge sete, um terceiro filho, queem sabendo daquela história e vendo que Javé tinha influenciado Caim para matar, não quis seguir o mesmo amor por Javé que Adão tinha, Eva nem tanto. E toda uma história, né, uma outra filha de e******** pelos arcontes, chamada Noreia. Então, tudo acontece, eu começo a acontecer a cerca de 24, 23, 22.000 anos. Tempos em que Adão, Eva, Set, Enos, até Cainã viveram e criaram aqueles contextos que estão sendo descritos ou que foram descritos em livros da antiguidade. E a Sim. Sabem qual foi um dos acontecimentos mais importantes dessa era que nocial aí entre 24 e cerca de 18.000 anos?" — P2022-12-17
+
 
 ## Observações
 

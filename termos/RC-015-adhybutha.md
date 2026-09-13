@@ -37,6 +37,10 @@ Perispírito menor: instrumento modelador biológico e demo — a "base dos ente
 | Demos | RC-049 | associado-a |
 | Gênero Adhy (147 seres, 5 espécies) | RC-411 | associado |
 
+## Citações-chave
+> "Formas de vida que surgiram como produto da “queda” (experiência consequente) e que foram decorrentes do processo de estruturação possível ao contexto antimaterial ou universo paralelo, que se encontra situado como imediatamente “vizinho”; base da forma demo; “prisão” para as suas mentes. “Base divina” é uma denominação equivocada deste tipo de expressão." — B031
+
+
 ## Observações
 
 Ficha materializada na escala do Apêndice C (P5f — fecho da família Adhy, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus. B051 consta do cadastro como fonte mas a pasta não foi localizada no acervo. Com esta, a família Adhy (011/012/013/014/015/016) está completa no corpus.

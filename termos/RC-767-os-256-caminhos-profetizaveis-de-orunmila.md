@@ -66,3 +66,7 @@ Estrutura técnica da destinação é **leitura do autor** (cronologia interna +
 - **[P2025-07-18 · U00016]** O expositor afirma que a atualização atribuída a Orunmilá transforma a Wyrd em Ifá e organiza **16 odus/olodus e 256 caminhos previsíveis** para diferentes origens ancestrais. O discurso contrapõe o destino ligado a pendências à abertura produzida pelo uso consciente do presente.
 - **Nota cruzada aprovada:** a expressão **sincronicidade profetizável** é somente uma nota de ligação entre RC-767, RC-658, RC-655 e RC-718. Não se cria termo autônomo.
 - **Quarentena:** manter o status do verbete e a ressalva epistemológica já existente; a palestra é fonte de ampliação, não prova de um sistema divinatório factual.
+
+
+## Citações-chave
+> "Na divinosfera de Orunmilá, quem manda é o código de Xangô. Porque Orunmilá nunca estabeleceu regras no sentido de lei. Ele estabeleceu versos no sentido de orientar. E como ele largou, Xangô com o seu código de honra de Orixá é que estabeleceu, e essa regra vale para todos os terreiros... O que vale é o código moral de Xangô." — P2025-11-29

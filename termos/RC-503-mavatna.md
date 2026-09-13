@@ -7,7 +7,7 @@ subcategoria = "1.1 Divindades / Criadores"
 status = "verificado"
 fontes = ["P2025-02-16", "P2024-11-30", "P2024-03-02"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Mavátma / Mavatna / Mavat (Vishnu em condição Adhyatman) — RC-503

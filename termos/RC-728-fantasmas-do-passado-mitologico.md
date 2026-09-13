@@ -52,3 +52,7 @@ Formulação central de Jan Val Ellam segundo a qual heranças não resolvidas d
 ## Blindagem epistemológica
 
 “Fantasmas” é metáfora interna da cosmologia e da ética de Ellam. O verbete não afirma como fato histórico, biológico ou clínico as genealogias, intervenções genéticas, portais, entidades ou causalidades narradas. Correspondências interculturais são **Teologia Comparada de Ellam**.
+
+
+## Citações-chave
+> "Como a gente não vai poder falar bonito, a gente vai ter que falar feio, porque a história é feia. Eu peço então desculpas a vocês. Nós vamos falar de fantasmas, de um passado mitológico. E esses fantasmas estão todos atuando sobre a humanidade. A gente sente os efeitos, mas não percebe a causa. Pelo efeito a gente tem que deduzir a causa. E nisso aqui a gente não tem conseguido."" — P2024-11-02

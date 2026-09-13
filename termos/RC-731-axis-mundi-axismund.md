@@ -58,3 +58,7 @@ As localizações e funções acima pertencem à cosmologia da fala e não estab
 ## Blindagem histórica, religiosa e geográfica
 
 O verbete registra a interpretação cosmológica de Ellam. Não afirma a existência empírica de portais nem transforma Naimisharanya, Goloka ou Vaikuntha em locais físicos comprovados. Correspondências entre cosmologias nórdica e hindu são **Teologia Comparada de Ellam**.
+
+
+## Citações-chave
+> "Devido a isso, Brama decidiu estabelecer algo que no conhecimento humano chama-se Axismund. Axismund significa o eixo do mundo, o centro do mundo, ou o lugar do nosso mundo físico onde outro tipo de realidade não física se estabelece... O ponto de convergência onde esta ligação ocorreu corresponde ao lugar onde hoje se encontra a floresta de Naimisha, no norte da Índia, no estado de Uttarakhand, próximo ao Nepal, próximo ao Himalaia." — P2024-11-02

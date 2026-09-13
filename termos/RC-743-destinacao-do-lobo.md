@@ -53,3 +53,7 @@ atualizado = "2026-08-16"
 
 
 > Notas de processo: 2 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-743.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+
+## Citações-chave
+> "Vamos falar sobre a falência dos deuses e a destinação do lobo. O que é que significa falência dos deuses? O que é que significa destinação do lobo? Por que é que diabos o nome da palestra é esse aqui? Essas duas senhoras me pediram para falar nisso. O nome da palestra é porque elas duas me pediram. Mas tem tudo a ver. Inclusive eu já havia feito uma abordagem antes sobre a questão do lobo em uma certa palestra que eu fiz, e apenas agora eu vou aprofundar e introduzir uma série de temas que na época eu não tive coragem de fazer."" — P2024-08-03

@@ -7,7 +7,7 @@ subcategoria = "3.4 Regiões cósmicas / Portais"
 status = "verificado"
 fontes = ["P2021-12-04", "P2023-12-03"]
 via = "P6-evidência"
-confianca_fonte = "alta"
+confianca_fonte = "média"
 atualizado = "2026-09-12"
 +++
 # Ereon (região dos cinco Archeons da Espiritualidade Laboratorial) — RC-496

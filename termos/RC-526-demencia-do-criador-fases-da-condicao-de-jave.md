@@ -28,6 +28,10 @@ Com isso:
 
 **Origem do conteúdo da ampliação:** palestra `P2012-02-19 — Xadrez Cósmico de Brahma, Vishnu e Shiva` (19/02/2012). Transcrição automatizada, **não conferida com o áudio**; cada aspa foi recortada do `original.txt` pelo índice de âncoras do motor e conferida byte a byte pelo portão B. Nada foi digitado de memória.
 
+## Citações-chave
+> "A demência do Criador refere-se ao estado de deterioração consciencial de Javé, decorrente do isolamento e da incapacidade de processar o choque da própria ignorância existencial. Esse estado evolui em fases cíclicas, manifestando-se através de explosões de fúria e necessidades patológicas de devoção por parte de suas criaturas, que atuam como amortecedores psíquicos para o seu desespero." — P2024-11-09
+
+
 ## Observações sobre o Estado da Malha
 
 * **Grafia STT:** 'doença' / 'natureza é doentia' / 'impulso mental incontrolável'. A condição de Javé é doença, não atraso evolutivo.

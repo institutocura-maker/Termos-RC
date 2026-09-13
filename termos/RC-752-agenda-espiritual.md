@@ -58,3 +58,7 @@ A **expressão prática** da bagagem espiritual: o conjunto de necessidades e pe
 ## Blindagem epistemológica
 
 "Agenda espiritual", "encomenda de encarnações" e "encriptação no código genético" são **leitura própria de Ellam** sobre a dinâmica espírito/eu, não fato científico nem doutrina espiritual validada. O registro não afirma a realidade mensurável de uma "agenda"; descreve o modelo cosmológico-ético do autor. A fala "a agenda espiritual se acabou nesse tempo" permanece em Colecionar Incertezas (aguardando contexto).
+
+
+## Citações-chave
+> "Esse espírito aqui funciona como um ator ou uma atriz que tem uma personalidade própria, mas já fez 50 novelas. Em cada novela tinha um nome diferente, mas ele é ele... O espírito evolui assim ou se ferra assim, porque se ele só produziu personagens que se ferraram ou ferraram alguém, ele é obrigado a apropriar isso nele. E o nome disso, pessoal, é bagagem espiritual intransferível."" — P2024-04-14
