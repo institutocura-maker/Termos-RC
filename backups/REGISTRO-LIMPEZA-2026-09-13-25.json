@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-13",
+ "numero": 25,
+ "tipo": "EXECUÇÃO — P7-4.4-fenomenos-2 RETORNO de chancela (13 aplicados, 2 bloqueados por trava)",
+ "contexto": "Devolução do Curador via GitHub. Canonizado byte a byte em chancela/. Leva P7l: 13 termos → verificado (cadastro + frontmatter pelo molde fm_toml, corpo intacto). RC-367 e RC-537 (ficha=False): trava «sem ficha → bloqueia» do processo; entraram em HOLD com lastro documentado (B011/B042). RELACOES intacto.",
+ "regra": "EXPURGAR-SÓ-CANONIZADO: zero bytes removidos sem sha256 conferido.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/P7-4.4-fenomenos-2_retorno.csv",
+   "bytes": 1552,
+   "sha256": "d8953cb1d37c135bece67e7cfe37bb9159f0e784a16540d0a6e2555e8a112cd3",
+   "destino": "chancela/P7-4.4-fenomenos-2_retorno.csv"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/P7-4.4-fenomenos-2_retorno.csv"
+ ],
+ "aptos_para_ordem_de_remocao": [],
+ "observacao": "Tema 4.4 esgotado na chancela (42 candidatos = 27 P7k + 13 P7l + 2 travados)."
+}

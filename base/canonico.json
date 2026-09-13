@@ -21830,7 +21830,7 @@
    "nome": "Germe da Morte",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21843,8 +21843,8 @@
     "RC-628"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-901",
@@ -21872,7 +21872,7 @@
    "nome": "Tártaro Reides",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21885,15 +21885,15 @@
     "RC-072"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-903",
    "nome": "Umbrais",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21906,8 +21906,8 @@
     "RC-899"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-904",
@@ -21936,7 +21936,7 @@
    "nome": "Tions",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21949,15 +21949,15 @@
     "RC-628"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-906",
    "nome": "Yoga Tibetana dos Sonhos",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21970,15 +21970,15 @@
     "RC-899"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-907",
    "nome": "Tonteltã",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21991,15 +21991,15 @@
     "RC-490"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-908",
    "nome": "Sonhos como Realidades Paralelas",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22012,15 +22012,15 @@
     "RC-628"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-909",
    "nome": "Deus Não Se Incomoda com o Sofrimento",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22033,8 +22033,8 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-910",
@@ -22083,7 +22083,7 @@
    "nome": "Aparições Marianas",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22096,8 +22096,8 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-913",
@@ -22125,7 +22125,7 @@
    "nome": "Frodo e Sam",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22138,8 +22138,8 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-915",
@@ -22251,7 +22251,7 @@
    "nome": "Tátivas",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22264,15 +22264,15 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-921",
    "nome": "Niroda",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22285,8 +22285,8 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-922",
@@ -22335,7 +22335,7 @@
    "nome": "Loop Mental",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22348,8 +22348,8 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-925",

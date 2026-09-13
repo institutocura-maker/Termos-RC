@@ -1,0 +1,29 @@
+{
+ "unidade": "U29",
+ "data": "2026-09-13",
+ "tipo": "leva P7l aplicada (parcial por trava)",
+ "retorno": "chancela/P7-4.4-fenomenos-2_retorno.csv (sha d8953cb1d37c…, 15 linhas V)",
+ "aplicados": [
+  "RC-900",
+  "RC-902",
+  "RC-903",
+  "RC-905",
+  "RC-906",
+  "RC-907",
+  "RC-908",
+  "RC-909",
+  "RC-912",
+  "RC-914",
+  "RC-920",
+  "RC-921",
+  "RC-924"
+ ],
+ "bloqueados": {
+  "RC-367": "V sem ficha (ficha=False, provisório); entrou em HOLD c/ lastro documentado (B011: 18× «transfigura»)",
+  "RC-537": "idem; B042 l.3469 «Mar é Cósmica» (heading STT degradado)"
+ },
+ "trava": "§7 do processo: «sem ficha → bloqueia»; materialização exige despacho do Curador (motor não inventa conteúdo)",
+ "entrada": "REGISTRO-LIMPEZA nº 25; caixa expurgada",
+ "status_base": "60⚪·241🟡·125🟠·520🟢",
+ "fila": "tema 4.4 esgotado (42 = 27 P7k + 13 P7l + 2 travados)"
+}
