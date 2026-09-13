@@ -22,3 +22,15 @@ Despacho do Curador em três frentes: (1) aprovação nominal de 3 candidatas (R
 
 ## Incidente técnico sanado na U23 (honestidade de censo)
 A suíte vinha sendo lida via `tail` com pipe, o que mascarou o exit-code desde a U18. Rodada sem pipe revelou duas falhas latentes, ambas corrigidas na U23: (i) **T6 x lápides** — o xor G3.3 não conhecia a exceção histórica sancionada na certidão 2.1B; isenção lavrada em código com referência à sanção (dado intocado — o envelope-história é registro); (ii) **T12 x canonico.json** — o produtor `exportar_json.py` não rodara após a guilhotina B061, e 14 fichas portavam `confianca_fonte="alta"` que só se sustentava no B061 como livro (regra `tem_livro`): JSON reexportado + TOML das 14 alinhado à regra do loader (alta→média); suíte agora verde com exit-code 0 sem pipe. Builds finais reconstruídos sobre os dados corrigidos.
+
+## 2.8-G — U24 (13/09): fecho da bancada A5 — BANCADA DECLARADA LIMPA
+
+Despacho do Curador, três regras, todas com reversão provada byte a byte:
+1. **Sínteses curatoriais (2)** — RC-426 e RC-526 (ditado sem texto correspondente nas fontes processadas): os textos foram movidos, *ipsis litteris*, para `## Observações`, com a natureza declarada; a seção `## Citações-chave` da U23 foi removida — o corpo de cada ficha restaura o pré-U23 (`64c9e06`) byte a byte. Precedente reafirmado: **fonte vence em citação; ditado sem lastro na fonte é síntese, não citação**.
+2. **Estruturais (8)** — RC-164, RC-545, RC-563, RC-756, RC-759, RC-760, RC-762, RC-763 (termo só em índices/listas/tabelas): `## Citações-chave` com a nota padrão do despacho («referenciada apenas estruturalmente… aguardando processamento de prosa descritiva»), sem forçar prosa.
+3. **Quarentena de ditado (14)** — RC-098, RC-196, RC-267, RC-410, RC-425, RC-432, RC-477, RC-556, RC-754, RC-843, RC-845, RC-849, RC-852, RC-856: `[Aguardando Ditado Livre]` no topo de `## Observações` (a honestidade da lapidação preservada) e **fora da fila ativa por despacho**. Conta: os 16 originais da categoria menos RC-426/RC-526, realocados pela regra 1.
+
+Controle final da fila A5: 28 (U21) + 28 (U23) ouro + 2 sínteses + 8 estruturais + 14 quarentena + 2 lápides F045 = **82 fichas, 100% processadas**. Registros: `diagnostico/A5-FECHO-U24-2026-09-13.{json,md}`.
+Incidentes da unidade, documentados: (a) o sandbox foi recriado no meio da unidade — HEAD e /tmp voláteis; o ramo remoto prevaleceu como fonte de verdade (ls-remote→fetch→update-ref), grupos re-derivados dos artefatos canônicos com soma de controle 54=54 antes de qualquer escrita; (b) o commit principal da U24 saiu sem certidão/espelho porque o script de acréscimo usou nome errado de arquivo (CERTIDAO-ONDA2.8-P2-* ≠ CERTIDAO-ONDA2.8-A5-MINERACAO-*) — sanado em adendo próprio, sem `--amend`. Suíte sola (sem pipes): 20/20 OK. Builds regenerados; base íntegra (946·671·1887·102).
+
+**BANCADA A5 LIMPA** — próxima frente: execução do Plano da Auditoria (P7/motor.py na bancada).
