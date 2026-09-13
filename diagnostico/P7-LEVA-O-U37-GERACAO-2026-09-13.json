@@ -5,5 +5,6 @@
  "termos": 16,
  "candidatos": 16,
  "sem_ficha": 7,
- "contexto": "tema 7.5 Missões/Expedições/Encontros; push da U36 retido por token expirado — commit local, enviar ao reconectar"
+ "contexto": "tema 7.5 Missões/Expedições/Encontros; push da U36 retido por token expirado — commit local, enviar ao reconectar",
+ "errata_mensagem_commit": "A mensagem do commit 2081e74 diz «3 com aviso SEM FICHA» — o valor correto é 7 (o ledger sempre carregou o número certo; placeholder meu na mensagem). Sem --amend por pacto; esta errata lavra a correção."
 }
