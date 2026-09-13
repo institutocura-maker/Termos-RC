@@ -53,3 +53,6 @@ Conjunto basilar de **sete princípios** que, na cosmovisão apresentada por Jan
 - As sete leis são **compilação atribuída a Thot** no hermetismo — registro doutrinário da RC, não leis físicas validadas;
 - A associação com a física quântica é **leitura do autor** (quarentena científica);
 - **Lei do Gênero:** as inferências clínico-sociais derivadas dela (identidade de gênero; "milhões de identidades"; Javé assexuado; "loucura da genética do criador") são **leitura do autor** — a Base **não endossa essas associações como ciência biológica ou psicológica** (quarentena estrita, confirmada pelo curador 2026-08-18).
+
+## Citações-chave
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*

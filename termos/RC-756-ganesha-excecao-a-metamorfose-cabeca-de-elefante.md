@@ -62,3 +62,6 @@ A história de Ganesha, a loca de elefantes racionais e o livro de Ellam sobre o
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+
+## Citações-chave
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*

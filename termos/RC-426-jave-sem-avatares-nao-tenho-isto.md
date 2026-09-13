@@ -62,6 +62,6 @@ A declaração confirma e reforça o que o B016 já apontava (apêndice "Prision
 
 ---
 
+## Observações
 
-## Citações-chave
-> "Javé, em sua condição isolada e aprisionada no abismo de sua própria criação, não dispõe da capacidade de projetar avatares (descidas divinas) de si mesmo, pois carece da conexão com a fonte primordial que sustenta tal mecanismo. A alegação 'não tenho isto' reflete sua incapacidade de interagir diretamente nas faixas de ressonância sem a apropriação indevida de veículos biológicos de terceiros." — P2024-11-30
+Javé, em sua condição isolada e aprisionada no abismo de sua própria criação, não dispõe da capacidade de projetar avatares (descidas divinas) de si mesmo, pois carece da conexão com a fonte primordial que sustenta tal mecanismo. A alegação 'não tenho isto' reflete sua incapacidade de interagir diretamente nas faixas de ressonância sem a apropriação indevida de veículos biológicos de terceiros.

@@ -46,4 +46,6 @@ Seres com corpos físicos e biológicos como os nossos, mas que habitam outros p
 
 ## Observações
 
+[Aguardando Ditado Livre]
+
 Ficha materializada no piloto do Apêndice C (P5, 10/09/2026): código 🟡 provisório, sem colisão de uso no corpus (usos "Extraterrestres"/"Seres extraterrestres" coerentes com o registro). B042 consta do cadastro como fonte; as ocorrências localizadas são menções de passagem.

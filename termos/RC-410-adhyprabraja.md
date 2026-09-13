@@ -54,3 +54,7 @@ Verbete-ponte entre a filologia (Volume I) e a cadeia do Criador (Volume III). A
 
 
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-410.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
+
+## Observações
+
+[Aguardando Ditado Livre]

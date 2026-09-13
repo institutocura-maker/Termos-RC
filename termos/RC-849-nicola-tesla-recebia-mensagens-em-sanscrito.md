@@ -30,6 +30,8 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
+[Aguardando Ditado Livre]
+
 * **Grafia STT:** 'Nicola Tesla' (literal). Recebia mensagens em sânscrito e as reproduzia; morreu em 1943.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 

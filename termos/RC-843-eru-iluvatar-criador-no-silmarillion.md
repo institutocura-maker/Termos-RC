@@ -30,6 +30,8 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
+[Aguardando Ditado Livre]
+
 * **Grafia STT:** 'Heru' / 'éu iluvatar' = Eru Ilúvatar, o criador no Silmarillion.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 

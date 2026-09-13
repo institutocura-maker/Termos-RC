@@ -44,6 +44,9 @@ Mecanismos de bloqueio que impediriam o ser humano de despertar seus potenciais:
 | Camuflagem da Realidade | RC-702 | sustenta |
 | Lei da Mente do Buda | RC-712 | relaciona-se-a |
 
+## Citações-chave
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
+
 ## Observações
 
 Leitura do autor; já registrado também em P2022-12-17 e P2025-03-15.

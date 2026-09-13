@@ -62,6 +62,8 @@ O mecanismo pelo qual a **agressividade** da espécie, em vez de eliminada, é *
 
 ## Observações
 
+[Aguardando Ditado Livre]
+
 1. **O que esta fonte acrescenta de fato:** o *porquê* da canalização malsucedida nos híbridos — não é falta de inteligência, é **excesso de regra de sangue**: a honra deles «não está em questões filosóficas, mas em questões de sangue azul, de descendência», e por isso buscam «uma pureza de sangue **que não existe**». A frase final é a costura direta com RC-217 (o DNA como projeção) e com o bloco do dharma (RC-322).
 2. **Quarentena aplicada (ética):** a fonte contém, em outras linhas, formulações misóginas (U0015 e U0033) e uso depreciativo de «retardados» — neste caso **dirigido aos anunnaki e aos humanos**, não a pessoas com deficiência. As passagens misóginas ficam **retidas** (item 10 da devolutiva): não entram em ficha, nem em glossário, nem na apostila. O rótulo «insulto a PcD» que constava do dossiê O-5 foi **retificado** em `DECISAO-DO-CURADOR.md` §5 após checagem (`cadeira`, `deficiente`: 0 ocorrências no bruto).
 3. **Vínculos de leitura desta fonte** (sem nova aresta): RC-322, RC-319, RC-024, RC-217, RC-430, RC-422.

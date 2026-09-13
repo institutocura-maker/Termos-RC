@@ -39,6 +39,8 @@ Espírito primordial companheiro de En Ma (Emá, RC-476). Na leitura da RC, os 7
 
 ## Observações
 
+[Aguardando Ditado Livre]
+
 Relação com a figura de Sathya Sai Baba sob quarentena teológica (leitura do autor).
 
 ---

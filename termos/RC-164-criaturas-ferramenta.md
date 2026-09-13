@@ -117,6 +117,9 @@ verbete fica preservado abaixo.
   instante... ele dá a vida dele por alguém que ele ama. Ponto. Ninguém nesses 13,8
   bilhões de anos consegue fazer isso no paraíso» — o diferencial humano como
   ferramenta de ressignificação.
+## Citações-chave
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*
+
 ## Observações
 
 ### Remissiva C6 (despacho 2.6 — 12/09/2026)

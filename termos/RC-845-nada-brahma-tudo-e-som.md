@@ -30,6 +30,8 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
+[Aguardando Ditado Livre]
+
 * **Grafia STT:** 'nada brama' = Nada Brahma (tudo é som).
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 

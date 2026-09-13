@@ -63,3 +63,6 @@ Estrutura epistemológica apresentada por Jan Val Ellam na palestra "Thot, o Eni
 ## Blindagem epistemológica
 
 Estrutura doutrinária do autor (leitura iniciática de Thot/Hermetismo) — não é classificação acadêmica de psicologia do desenvolvimento. A hierarquia sábio/mago/iniciado é registro da cosmovisão RC, sem validação científica.
+
+## Citações-chave
+*Ocorrência referenciada apenas estruturalmente (índices/listas) nas obras-fonte processadas até o momento. Aguardando processamento de prosa descritiva.*

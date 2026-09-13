@@ -30,6 +30,8 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
+[Aguardando Ditado Livre]
+
 * **Grafia STT:** 'prajapati' / 'para Japati' = Prajapati. O nome que a divindade tinha antes de se tornar prisioneira da própria criação e passar a ser chamada de Brama.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 

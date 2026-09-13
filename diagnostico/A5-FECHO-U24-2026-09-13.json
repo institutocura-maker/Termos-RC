@@ -1,0 +1,51 @@
+{
+ "unidade": "U24",
+ "data": "2026-09-13",
+ "despacho": "fecho da bancada A5 (3 regras do Curador, 13/09)",
+ "regras": {
+  "1_sínteses": "RC-426 e RC-526: ditado movido ipsis litteris para ## Observações; Citações-chave removida (restauração byte a byte provada contra 64c9e06)",
+  "2_estruturais": "nota padrão em ## Citações-chave das 8 fichas com termo só em listas/tabelas (reversão exata provada)",
+  "3_quarentena": "[Aguardando Ditado Livre] no topo de ## Observações das 14 (16 originais menos as 2 realocadas pela regra 1)"
+ },
+ "contas": {
+  "ouro_U21": 28,
+  "ouro_U23": 28,
+  "sínteses_obs": 2,
+  "notas_estruturais": 8,
+  "quarentenas": 14,
+  "lápides_f045": 2,
+  "bancada_U22": 52,
+  "fila_total": 82
+ },
+ "estruturais": [
+  "RC-164",
+  "RC-545",
+  "RC-563",
+  "RC-756",
+  "RC-759",
+  "RC-760",
+  "RC-762",
+  "RC-763"
+ ],
+ "quarentenas": [
+  "RC-098",
+  "RC-196",
+  "RC-267",
+  "RC-410",
+  "RC-425",
+  "RC-432",
+  "RC-477",
+  "RC-556",
+  "RC-754",
+  "RC-843",
+  "RC-845",
+  "RC-849",
+  "RC-852",
+  "RC-856"
+ ],
+ "sinteses": [
+  "RC-426",
+  "RC-526"
+ ],
+ "declaração": "BANCADA A5 LIMPA: toda ficha dos 82 foi processada — 56 com ouro verbatim, 2 sínteses curatoriais em Observações, 8 com nota estrutural, 14 em quarentena de ditado (tag no topo), 2 lápides fora por política 2.1B. Retiradas da fila ativa por despacho."
+}

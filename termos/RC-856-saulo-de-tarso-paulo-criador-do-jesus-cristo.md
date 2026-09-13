@@ -30,6 +30,8 @@ Com isso:
 
 ## Observações sobre o Estado da Malha
 
+[Aguardando Ditado Livre]
+
 * **Grafia STT:** 'Saulo de Tarso' / 'Saulo de Társ' / 'Paulo' (literal). Perseguidor convertido; nunca conheceu Jesus em vida — só as 'fofocas' do Sinédrio e o relato de Ananias.
 * **Trava aplicável**: nenhuma além das gerais do despacho.
 

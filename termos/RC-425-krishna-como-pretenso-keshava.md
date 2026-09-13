@@ -64,6 +64,8 @@ atualizado = "2026-08-29"
 
 ## Observações
 
+[Aguardando Ditado Livre]
+
 1. **Por que a ficha é «pretenso»:** o qualificativo vem do cadastro (B036) e é reafirmado pela fonte de 2023 — Krishna «não como Krishna, mas em encarnações anteriores dele mesmo como avatar de Chiva, Vígno e Brama», trazendo «um pouco da genética dos três senhores atributo desse universo vizinho». O termo de contestação, portanto, **não é glosa deste ciclo**: é o nome do código.
 2. **Divergência selada, não fundida:** a fonte de 14/10/2023 apresenta Krishna como **introdutor do conceito de dharma** para híbridos (ver RC-322), enquanto a leitura devocional o apresenta como revelador do dharma *eterno*. A ficha registra a tese **como tese datada**, sem harmonizar.
 3. **Quarentenas aplicadas neste termo:** *histórica* (a genealogia Bharata da fonte está corrompida em vários pontos — nomes e graus; nada foi recomposto); *ética* (a frase «o bem tem que destruir o mal» e sua variante ficam em RC-422/RC-742 com rótulo, não aqui).

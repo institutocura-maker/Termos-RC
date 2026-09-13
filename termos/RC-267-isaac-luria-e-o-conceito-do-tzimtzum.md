@@ -52,6 +52,8 @@ Isaac Luria (séc. XVI, Safed) — cabalista que sistematizou o conceito do Tzim
 
 ## Observações
 
+[Aguardando Ditado Livre]
+
 Quarentena teológica — leitura do autor.
 
 ---

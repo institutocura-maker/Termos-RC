@@ -52,6 +52,8 @@ atualizado = "2026-08-19"
 
 ## Observações
 
+[Aguardando Ditado Livre]
+
 Cronologia interna do autor (2018/2021/27.000 anos) sob quarentena; a figura é descrita em B068 e em P2024-11-30.
 
 ---
