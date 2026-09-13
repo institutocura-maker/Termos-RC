@@ -4,11 +4,11 @@ codigo = "RC-768"
 nome = "Princípio da Externalização (criação divina sem sexualidade)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
-status = "em análise"
+status = "verificado"
 fontes = ["P2026-07-25"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-19"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Princípio da Externalização — RC-768
 

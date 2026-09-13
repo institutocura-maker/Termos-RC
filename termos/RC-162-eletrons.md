@@ -4,11 +4,11 @@ codigo = "RC-162"
 nome = "Elétrons (agente básico da vida universal)"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
-status = "em análise"
+status = "verificado"
 fontes = ["B024", "B041", "P2024-05-04", "P2025-03-15", "P2025-02-16", "P2025-02-15", "P2024-11-30", "P2024-11-09", "P2024-03-03", "P2024-04-14", "P2025-06-14b", "P2023-11-19"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-09-10"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Elétrons (agente básico da vida universal) — RC-162
 

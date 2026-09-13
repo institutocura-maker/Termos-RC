@@ -4,11 +4,11 @@ codigo = "RC-899"
 nome = "Bolhas Psíquicas"
 categoria = "Processos & Fenômenos"
 subcategoria = "4.4 Fenômenos físicos / energéticos"
-status = "em análise"
+status = "verificado"
 fontes = ["P2023-10-15", "P2023-11-18", "P2024-01-13", "P2024-02-04", "P2024-03-17"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-09-02"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Bolhas Psíquicas — RC-899
 

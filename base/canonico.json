@@ -4628,7 +4628,7 @@
    "nome": "Elétrons (agente básico da vida universal)",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B024",
     "B041",
@@ -4659,8 +4659,8 @@
     "RC-832"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-163",
@@ -19014,7 +19014,7 @@
    "nome": "Princípio da Externalização (criação divina sem sexualidade)",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2026-07-25"
    ],
@@ -19028,8 +19028,8 @@
     "RC-769"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-769",
@@ -21583,7 +21583,7 @@
    "nome": "Biblioteca Genômica Humana",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21598,15 +21598,15 @@
     "RC-722"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-890",
    "nome": "Eu Observador",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21620,15 +21620,15 @@
     "RC-722"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-891",
    "nome": "Ismos como Limitação Genômica",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21643,15 +21643,15 @@
     "RC-889"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-892",
    "nome": "Pós-Verdade",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21665,15 +21665,15 @@
     "RC-072"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-893",
    "nome": "Pecado Original como Narrativa Cruel",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21687,15 +21687,15 @@
     "RC-892"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-894",
    "nome": "Qualia como Processamento Humano",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21709,15 +21709,15 @@
     "RC-889"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-895",
    "nome": "Bondade Humana",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21732,15 +21732,15 @@
     "RC-771"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-896",
    "nome": "Point Interdimensional",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21754,15 +21754,15 @@
     "RC-001"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-897",
    "nome": "Código Filosófico Pessoal",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21777,15 +21777,15 @@
     "RC-890"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-898",
    "nome": "Choque de Realidade",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21800,15 +21800,15 @@
     "RC-936"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-899",
    "nome": "Bolhas Psíquicas",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21822,8 +21822,8 @@
     "RC-557"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-900",
@@ -21851,7 +21851,7 @@
    "nome": "Domínios de Morfeu",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21864,8 +21864,8 @@
     "RC-899"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-902",
@@ -21914,7 +21914,7 @@
    "nome": "Evangelho de Bartolomeu",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -21928,8 +21928,8 @@
     "RC-479"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-905",
@@ -22041,7 +22041,7 @@
    "nome": "O Bem Feito Apenas por Humanos",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22054,15 +22054,15 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-911",
    "nome": "DNA com 2 Hélices Ligadas",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22075,8 +22075,8 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-912",
@@ -22104,7 +22104,7 @@
    "nome": "Delírio Coletivo",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22117,8 +22117,8 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-914",
@@ -22146,7 +22146,7 @@
    "nome": "Westworld como Metáfora",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22159,15 +22159,15 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-916",
    "nome": "O Banquete Metafórico",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22180,15 +22180,15 @@
     "RC-749"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-917",
    "nome": "Reciclador das Informações Universais",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22201,15 +22201,15 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-918",
    "nome": "Entropia e Sujeira Original",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22222,15 +22222,15 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-919",
    "nome": "Vrites",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22243,8 +22243,8 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-920",
@@ -22293,7 +22293,7 @@
    "nome": "Egrégora e Campo Quântico",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22306,15 +22306,15 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-923",
    "nome": "Programas Encarnatórios",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22327,8 +22327,8 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-924",
@@ -22356,7 +22356,7 @@
    "nome": "Espírito como Ator",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22369,15 +22369,15 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-926",
    "nome": "Lixo de Informações Apodrecidas",
    "categoria": "Processos & Fenômenos",
    "subcategoria": "4.4 Fenômenos físicos / energéticos",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2023-10-15",
     "P2023-11-18",
@@ -22390,8 +22390,8 @@
     "RC-901"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-927",

@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-13",
+ "numero": 24,
+ "tipo": "EXECUÇÃO — P7-4.4-fenomenos RETORNO de chancela aplicado (27 V)",
+ "contexto": "Devolução do Curador via GitHub (uploads_recepcao). Canonizada byte a byte em chancela/P7-4.4-fenomenos_retorno.csv; aplicada como leva P7k: 27 termos 'em análise'→'verificado' no registro-mestre; frontmatter das 27 fichas regerado pelo molde fm_toml do motor (T15); corpo intacto; RELACOES intocado; HOLD vazio na leva (flag_hold=0).",
+ "regra": "EXPURGAR-SÓ-CANONIZADO (perpetuada): zero bytes removidos da caixa sem sha256 conferido contra o destino canônico.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/P7-4.4-fenomenos_retorno.csv",
+   "bytes": 3088,
+   "sha256": "48ab5052d188759fb6897881a81d383b43b22f7508c33e87ba6b7744ad1e6f1d",
+   "destino": "chancela/P7-4.4-fenomenos_retorno.csv"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/P7-4.4-fenomenos_retorno.csv"
+ ],
+ "aptos_para_ordem_de_remocao": [],
+ "observacao": "Leva U27. Próxima: 15 candidatos restantes do tema 4.4 (proposta P7-4.4-fenomenos-2.csv) — fila no espelho."
+}
