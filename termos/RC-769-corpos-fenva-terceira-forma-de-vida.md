@@ -4,12 +4,21 @@ codigo = "RC-769"
 nome = "Corpos Fenvã (terceira forma de vida do universo vizinho)"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
-status = "em análise"
+status = "verificado"
 fontes = ["P2026-07-25", "P2026-03-21"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-19"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
+> **REMISSIVA — [U26-MERGE 13-09-2026]** Este código foi **fundido em RC-064 («Fenvans»)** por despacho do Curador (o `?` do retorno 1.3: «Fenvã = Fenvan»). O verbete canônico é **RC-064** — é ele que deve ser citado. O registro abaixo fica preservado como lastro histórico da abertura: a Ampliação P2026-03-21 e a fonte migraram byte a byte para a ficha canônica; o HOLD P7c foi baixado com a decisão de fusão.
+
+## Registro histórico (título original)
+
+- **Título original:** "Corpos Fenvã (terceira forma de vida do universo vizinho)" — grafia "Fenvã" provém de STT da palestra P2026-07-25.
+- **Fontes da abertura:** P2026-03-21, P2026-07-25.
+
+---
+
 # Corpos Fenvã — RC-769
 
 ## Definição Sintética

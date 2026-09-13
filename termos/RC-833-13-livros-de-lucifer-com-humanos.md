@@ -8,7 +8,7 @@ status = "em análise"
 fontes = ["P2023-12-17"]
 via = "P7-conhecimento"
 confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+atualizado = "2026-09-13"
 +++
 # 13 Livros de Lúcifer com Humanos (Necessários Antes do Fim) — RC-833
 
@@ -73,4 +73,5 @@ Esta ficha usa exclusivamente as **grafias canônicas** do repositório:
 Correção aplicada em **2026-08-31** via fix de terminologia canônica — substituições de 158 ocorrências (Sofia/Yosbel/Brama/Aia/Aie/Luzbell → Sophia/Yel Luzbel/Brahma/Aya/Aye/Yel Luzbel) na apostila P2023-12-17 e nas 8 fichas RC-826..833, com criação de RC-834 (Aya) e RC-835 (Aye) como remissões.
 
 
+* **Portão 0.3 acionado e respondido (13/09/2026):** o retorno P7i (5.4-escrituras) trouxe V sobre o HOLD; a pergunta foi lavrada ao Curador e a decisão é **manter o HOLD** — a retenção P6/P7i continua e a liberação exige despacho novo. Status inalterado por ordem do Curador.
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-833.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.

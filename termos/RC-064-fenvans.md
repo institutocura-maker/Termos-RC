@@ -5,10 +5,10 @@ nome = "Fenvans"
 categoria = "Seres & Entidades"
 subcategoria = "1.3 Extraterrestres / Raças cósmicas"
 status = "verificado"
-fontes = ["B031", "B024", "P2022-12-17", "P2024-11-30", "P2024-08-03", "P2024-04-13", "P2023-12-03", "P2021-01-30", "P2024-06-16"]
+fontes = ["B031", "B024", "P2022-12-17", "P2024-11-30", "P2024-08-03", "P2024-04-13", "P2023-12-03", "P2021-01-30", "P2024-06-16", "P2026-03-21"]
 via = "P6-evidência"
 confianca_fonte = "alta"
-atualizado = "2026-08-29"
+atualizado = "2026-09-13"
 +++
 # Fenvans — RC-064
 
@@ -53,6 +53,10 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 
 - **[Fenvans — os que mergulhavam] (U0006)** «Então, os cvães eram figuras malucas que existiam aqui, que ficava o tempo todo olhando pro universo.» — os Fenvans (STT "cvães/fvães/fenvães/senvães"), residentes no Ginnungagap, idealizavam formas biológicas e "mergulhavam" para imantar-se nelas.
 
+## Ampliação — P2026-03-21 (importada da remissiva RC-769 — U26/13-09-2026) (Samudra Manthan A Enigmatica Alquimia de Vishnu)
+
+- **[Os fenvães/elfos de Ig Brasil: corpos de plasma e o padrão emocional] (U0008)** «Mais tarde, perto de 6 bilhões de anos após o início do universo da criação, foi engendrada uma outra espécie de seres demoníacos, só que mais modernos, também com corpos de plasma chamados de fenvães ou de elfos na mitologia nórdica ou na mitologia celta, na quem assistiu Senhor dos Anéis tem uma noção da coisa.» — Odim, o primeiro demo curioso: "Odim foi o primeiro demo que queria entender as coisas" (U0008: «Odim foi o primeiro demo que queria entender as coisas.»); "A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica" (U0008: «A curiosidade intelectual de Odim está plenamente descrita na mitologia nórdica.»); a novidade do padrão emocional: "Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional" (U0008: «Os últimos aqui de Brasil, surgiu a novidade nesse universo vizinho, o padrão emocional.»).
+
 ## Fontes
 | Obra/palestra | Localização | Tipo |
 |---|---|---|
@@ -61,7 +65,7 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 | P2023-12-03 | A Rebelião de Lúcifer ainda por ser Finalizada (palestra/STT) | citação verbatim; paráfrase |
 | ART-2025-08-03 — Dossiê Fenvans (Edson Cella Mendes) | Partes I–III | material do curador |
 | Fontes anteriores da Base | B031, B024 | apoio/remissão |
-
+| P2026-03-21 | Samudra Manthan A Enigmatica Alquimia de Vishnu (palestra) | — | transcrição automatizada; citação |
 
 ## Citações-chave
 > "Os Fenvans foram a espécie precursora e experimental, designados como 'seres-cobaias' ou 'primeiros astronautas'." — ART-2025-08-03, Cap. 3
@@ -90,4 +94,5 @@ Espécie precursora e experimental do **Projeto TALM** (RC-091): "seres-cobaias"
 - Ficha materializada por Devolutiva O-2 (Trilogia TALM).
 
 
+* **Fenvã = Fenvans (U26, despacho do Curador 13/09/2026):** RC-769 «Corpos Fenvã» foi fundido aqui por remissiva (grafia «Fenvã» provém de STT da palestra P2026-07-25); a Ampliação P2026-03-21 migrou verbatim para esta ficha, com a fonte no cadastro e na tabela. O pendente de confirmação em fonte publicada acompanha a lápide RC-769 (histórico preservado).
 > Notas de processo: 1 bloco(s) arquivado(s) VERBATIM em `notas/fichas/RC-064.md` (migração 2.4 — 12/09/2026). Histórico de mutirão/governança — consultar lá, não reescrever.
