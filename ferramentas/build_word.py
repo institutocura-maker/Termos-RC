@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (espelho leitura; Onda 0.2 loader)
+# STATUS: ATIVO-P7 (espelho leitura; Onda 1.7-c JSON-canônico)
 """Gera base-terminologica-leitura.docx — versão Word para LEITURA HUMANA.
 
 A planilha XLSX continua sendo a fonte estruturada (para IAs e dados);
@@ -8,8 +8,8 @@ este documento converte o mesmo conteúdo em um arquivo Word legível:
 capa, sumário, índice mestre por categoria, fichas detalhadas,
 relações, bibliografia, categorias e pontos de atenção.
 
-Fonte única de verdade: ferramentas/dados_termos.py (TERMOS/RELACOES)
-                        ferramentas/build_xlsx.py (BIBLIO, via AST — sem executar)
+Fonte dos dados: base/canonico.json (espelho exportado do registro; Onda 1.7-c)
+                 base/biblio.json (Onda 1.3)
                         termos/*.md (fichas)
                         README.md (pontos de atenção)
 """
@@ -27,7 +27,8 @@ FER = os.path.join(RAIZ, "ferramentas")
 # ---------------------------------------------------------------- carregar dados
 # Onda 0.2: loader único (aposenta carregar_py/carregar_literal).
 sys.path.insert(0, FER)
-from loader import TERMOS, RELACOES, BIBLIO
+from loader import carregar_canonico, BIBLIO  # Onda 1.7-c: JSON-primeiro
+TERMOS, RELACOES = carregar_canonico()
 
 STATUS_LABEL = {"candidato": "⚪ candidato", "provisório": "🟡 provisório",
                 "em análise": "🟠 em análise", "verificado": "🟢 verificado",
@@ -247,6 +248,10 @@ for f in fichas:
     cod = f.split("-")[0] + "-" + f.split("-")[1]
     nome = nome_por_cod.get(cod, "")
     md = open(os.path.join(RAIZ, "termos", f), encoding="utf-8").read()
+    if md.startswith("+++\n"):  # 2.1: frontmatter não vaza no docx
+        _e = md.find("\n+++\n", 4)
+        if _e >= 0:
+            md = md[_e + 5:]
     linhas = md.splitlines()
     if linhas and linhas[0].strip().startswith("# "):
         # a ficha já traz o título; usar como heading e não duplicar

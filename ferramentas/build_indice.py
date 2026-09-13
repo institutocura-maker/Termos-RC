@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# STATUS: ATIVO-P7 (indice-mestre; Onda 0.2 loader)
-"""Gera indice-mestre.md a partir da tabela-mestra ferramentas/dados_termos.py.
+# STATUS: ATIVO-P7 (indice-mestre; Onda 1.7 JSON-canônico)
+"""Gera indice-mestre.md a partir do canônico (base/canonico.json, exportado de
+ferramentas/dados_termos.py) — Onda 1.7, paridade byte a byte com o modo antigo.
 Execute a partir de rc-terminologia/ :  python3 ferramentas/build_indice.py
 """
 import glob as _glob
 import os, sys
 sys.path.insert(0, os.path.join(os.path.dirname(__file__)))
-from loader import TERMOS  # Onda 0.2: loader único
+from loader import carregar_canonico  # Onda 1.7: JSON-primeiro (base/canonico.json)
+TERMOS, _ = carregar_canonico()
 
 OUT = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "indice-mestre.md")
 STATUS_EMOJI = {"candidato": "⚪", "provisório": "🟡", "em análise": "🟠", "verificado": "🟢"}
@@ -35,7 +37,7 @@ lines.append("# Índice Mestre — RC")
 lines.append("")
 lines.append("> Tabela com **todos** os termos do projeto. Termos com ficha completa têm link em `termos/`.")
 lines.append("> Status: ⚪ candidato · 🟡 provisório (fonte publicada, aguardando revisão) · 🟠 em análise · 🟢 verificado.")
-lines.append("> Gerado por `ferramentas/build_indice.py` a partir de `ferramentas/dados_termos.py` — **não editar à mão**.")
+lines.append("> Gerado por `ferramentas/build_indice.py` a partir de `base/canonico.json` (registro-mestre exportado) — **não editar à mão**.")
 lines.append("")
 lines.append("| Código | Termo | Categoria | Subcategoria | Status | Fontes | Relacionados | Ficha |")
 lines.append("|---|---|---|---|---|---|---|---|")
