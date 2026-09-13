@@ -4,11 +4,11 @@ codigo = "RC-841"
 nome = "Cronos (titã)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["P2017-10-14", "P2025-06-14"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Cronos (titã) — RC-841
 

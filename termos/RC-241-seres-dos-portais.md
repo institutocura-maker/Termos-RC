@@ -4,11 +4,11 @@ codigo = "RC-241"
 nome = "Seres dos Portais"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["B017", "B018", "B039", "B031", "B021", "P2022-12-17", "P2023-12-03"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Seres dos Portais — RC-241
 

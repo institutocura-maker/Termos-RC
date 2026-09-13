@@ -4,11 +4,11 @@ codigo = "RC-305"
 nome = "Têmis"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["B021", "P2023-05-21", "P2017-10-14"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Têmis — RC-305
 

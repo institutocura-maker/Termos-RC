@@ -4,11 +4,11 @@ codigo = "RC-465"
 nome = "Asuras (= Titãs)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["B060", "P2025-02-16", "P2024-11-30", "P2024-11-02", "P2024-09-29", "P2024-04-13", "B087", "B088"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-09-12"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Asuras (= Titãs) — RC-465
 

@@ -4,11 +4,11 @@ codigo = "RC-303"
 nome = "Pirra"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "provisório"
+status = "verificado"
 fontes = ["B021", "P2024-11-09", "B087", "B088", "B089"]
 via = "P6-evidência"
-confianca_fonte = "média"
-atualizado = "2026-08-25"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Pirra — RC-303
 

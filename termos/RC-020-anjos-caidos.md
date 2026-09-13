@@ -4,11 +4,11 @@ codigo = "RC-020"
 nome = "Anjos caídos"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["B031", "B003", "B005", "P2020-04-25", "P2022-03-26", "P2023-12-03"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-29"
+via = "P6-evidência"
+confianca_fonte = "alta"
+atualizado = "2026-09-13"
 +++
 # Anjos caídos — RC-020
 

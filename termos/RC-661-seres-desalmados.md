@@ -4,11 +4,11 @@ codigo = "RC-661"
 nome = "Seres Desalmados"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["P2025-06-26", "P2025-06-14"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-15"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Seres Desalmados — RC-661
 

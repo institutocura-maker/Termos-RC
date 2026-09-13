@@ -4,11 +4,11 @@ codigo = "RC-844"
 nome = "Melkor (o filho dissonante)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["P2018-12-15"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
-atualizado = "2026-08-31"
+via = "P6-evidência"
+confianca_fonte = "média"
+atualizado = "2026-09-13"
 +++
 # Melkor (o filho dissonante) — RC-844
 

@@ -4,10 +4,10 @@ codigo = "RC-479"
 nome = "Belial (arconte; 'Satã' do livro de Jó)"
 categoria = "Seres & Entidades"
 subcategoria = "1.5 Decaídos / Exilados / Demônios"
-status = "em análise"
+status = "verificado"
 fontes = ["P2022-12-17", "P2026-08-04", "P2023-06-03", "P2023-12-03", "P2022-11-20"]
-via = "P7-conhecimento"
-confianca_fonte = "baixa"
+via = "P6-evidência"
+confianca_fonte = "média"
 atualizado = "2026-09-13"
 +++
 # Belial — RC-479

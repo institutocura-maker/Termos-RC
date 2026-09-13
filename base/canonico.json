@@ -748,7 +748,7 @@
    "nome": "Anjos caídos",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B031",
     "B003",
@@ -764,8 +764,8 @@
     "RC-082"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-021",
@@ -6431,7 +6431,7 @@
    "nome": "Seres dos Portais",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B017",
     "B018",
@@ -6452,8 +6452,8 @@
     "RC-293"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-242",
@@ -7918,7 +7918,7 @@
    "nome": "Pirra",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "provisório",
+   "status": "verificado",
    "fontes": [
     "B021",
     "P2024-11-09",
@@ -7934,7 +7934,7 @@
    ],
    "ficha": true,
    "via": "P6-evidência",
-   "confianca_fonte": "média"
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-304",
@@ -7960,7 +7960,7 @@
    "nome": "Têmis",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B021",
     "P2023-05-21",
@@ -7973,8 +7973,8 @@
     "RC-815"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-306",
@@ -11617,7 +11617,7 @@
    "nome": "Asuras (= Titãs)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "B060",
     "P2025-02-16",
@@ -11638,8 +11638,8 @@
     "RC-734"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "alta"
   },
   {
    "codigo": "RC-466",
@@ -11963,7 +11963,7 @@
    "nome": "Belial (arconte; 'Satã' do livro de Jó)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2022-12-17",
     "P2026-08-04",
@@ -11978,8 +11978,8 @@
     "RC-072"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-480",
@@ -16362,7 +16362,7 @@
    "nome": "Seres Desalmados",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2025-06-26",
     "P2025-06-14"
@@ -16373,8 +16373,8 @@
     "RC-050"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-662",
@@ -20657,7 +20657,7 @@
    "nome": "Cronos (titã)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2017-10-14",
     "P2025-06-14"
@@ -20669,8 +20669,8 @@
     "RC-037"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-842",
@@ -20715,7 +20715,7 @@
    "nome": "Melkor (o filho dissonante)",
    "categoria": "Seres & Entidades",
    "subcategoria": "1.5 Decaídos / Exilados / Demônios",
-   "status": "em análise",
+   "status": "verificado",
    "fontes": [
     "P2018-12-15"
    ],
@@ -20726,8 +20726,8 @@
     "RC-843"
    ],
    "ficha": true,
-   "via": "P7-conhecimento",
-   "confianca_fonte": "baixa"
+   "via": "P6-evidência",
+   "confianca_fonte": "média"
   },
   {
    "codigo": "RC-845",

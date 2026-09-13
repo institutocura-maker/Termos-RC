@@ -1,0 +1,32 @@
+{
+ "unidade": "U34",
+ "data": "2026-09-13",
+ "tipo": "leva P7m aplicada (parcial por trava, com deferimento expresso)",
+ "aplicados": [
+  "RC-020",
+  "RC-241",
+  "RC-303",
+  "RC-305",
+  "RC-465",
+  "RC-479",
+  "RC-661",
+  "RC-841",
+  "RC-844"
+ ],
+ "travados_aguardando_exploracao": [
+  "RC-027",
+  "RC-030",
+  "RC-050",
+  "RC-051",
+  "RC-053",
+  "RC-097",
+  "RC-248",
+  "RC-304",
+  "RC-306"
+ ],
+ "despacho": "«Depois precisamos explorar melhor o fato dos termos não terem fichas» — pauta engatilhada, censo só com despacho (VIGÍLIA)",
+ "entrada": "REGISTRO-LIMPEZA nº 26 (sha 4cc8cb166ab5…) · sandbox recriado → ramo remoto restaurado",
+ "rita": "builds+suíte a seguir",
+ "status_base": "60⚪/238🟡/117🟠/531🟢",
+ "sem_ficha_tema_1_5": 9
+}

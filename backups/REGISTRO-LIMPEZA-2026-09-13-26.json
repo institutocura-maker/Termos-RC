@@ -1,0 +1,20 @@
+{
+ "data": "2026-09-13",
+ "numero": 26,
+ "tipo": "EXECUÇÃO — P7-1.5-decaidos RETORNO de chancela (9 aplicados, 9 travados p/ exploração)",
+ "contexto": "Devolução do Curador via GitHub com V nos 18 (a coluna OBS com o aviso SEM FICHA foi preservada na devolução). Leva P7m: 9 termos → verificado (cadastro + frontmatter fm_toml; corpo intacto). Os 9 sem ficha entraram em HOLD — despacho do Curador: «depois precisamos explorar melhor o fato dos termos não terem fichas». RELACOES intacto.",
+ "regra": "EXPURGAR-SÓ-CANONIZADO: sha256 conferido antes de remover da caixa. Sandbox recriado no meio da unidade: o ramo remoto (fe51aa8) prevaleceu como fonte de verdade (fetch+update-ref+reset); retorno restaurado do git antes da canonização.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/P7-1.5-decaidos_retorno.csv",
+   "bytes": 2579,
+   "sha256": "4cc8cb166ab573a36ef6ddabadfdcfc3ff636b620fea96cd8b70a2b047cce9c0",
+   "destino": "chancela/P7-1.5-decaidos_retorno.csv"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/P7-1.5-decaidos_retorno.csv"
+ ],
+ "aptos_para_ordem_de_remocao": [],
+ "observacao": "Tema 1.5 chancelado: 18 V — 9 aplicáveis já, 9 aguardam exploração estrutural do gap de fichas."
+}
