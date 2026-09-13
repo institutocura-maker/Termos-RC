@@ -1,0 +1,27 @@
+{
+ "data": "2026-09-12",
+ "numero": 23,
+ "tipo": "EXECUÇÃO — P2026-02-28 RECEPÇÃO da apostila revisada (DOCX + apostila.md, chancela 'não tem alteração')",
+ "contexto": "Material depositado pelo Curador via GitHub na branch (commit c104f4b) e conciliado com a caixa. Canonizado em apostilas/CONCLUIDAS/2026-02-28_os_desafios_da_transicao_planetaria_aprofundamento/ (cópia byte a byte + ficha de ingresso com localizadores de sha). Base STT bruta (original.txt, SHA declarado 4e3ed5f2…) permanece EXTERNA ao git — declarada na ficha; nenhum L## renomeado. Fichas RC-667..670 intocadas (zero fato novo, prova de dif no ato).",
+ "regra": "EXPURGAR-SÓ-CANONIZADO (perpetuada): zero bytes removidos da caixa sem sha256 conferido contra o destino canônico. Upload via git: o original vive também no histórico do commit c104f4b — expurgo da caixa não destrói nada.",
+ "arquivos": [
+  {
+   "nome": "uploads_recepcao/Apostila_2.2 - Os Desafios da Transição Planetária (Aprofundamento).docx",
+   "bytes": 48367,
+   "sha256": "70066067d059b60061d8d93df3b3b89026eb3c072195fe655651da602200d819",
+   "destino": "apostilas/CONCLUIDAS/2026-02-28_os_desafios_da_transicao_planetaria_aprofundamento/Apostila_2.2 - Os Desafios da Transição Planetária (Aprofundamento).docx"
+  },
+  {
+   "nome": "uploads_recepcao/apostila.md",
+   "bytes": 24726,
+   "sha256": "945e262cb509a24e4fa83f481ef7946c1a43a23f63afe5effd0e8668c2603754",
+   "destino": "apostilas/CONCLUIDAS/2026-02-28_os_desafios_da_transicao_planetaria_aprofundamento/apostila.md"
+  }
+ ],
+ "removidos": [
+  "uploads_recepcao/Apostila_2.2 - Os Desafios da Transição Planetária (Aprofundamento).docx",
+  "uploads_recepcao/apostila.md"
+ ],
+ "aptos_para_ordem_de_remocao": [],
+ "observacao": "Sanção do baseline P2026-02-28 (4 itens ficha:RC-667..670) levantada por materialização legítima: pasta datada visível ao T8; baseline 127→123. F045/P2023-12-25 seguem com as datas chanceladas no 2.6."
+}

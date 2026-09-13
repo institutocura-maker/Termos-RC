@@ -22,7 +22,7 @@
 ## ⚠️ Pontos de atenção
 
 1. **HOLD curatorial (13 códigos)**: RC-833, RC-769, RC-859, RC-500, RC-795, RC-785, RC-193, RC-576, RC-800, RC-801, RC-812, RC-454, RC-822 — ver `chancela/HOLD.csv` (motivo por código). Nenhum vira 🟢 sem despacho.
-2. **Legado sob regressão**: 89 tabelas Fontes malformadas + 127 menções-fantasma no baseline — o test-suite só falha no que for novo.
+2. **Legado sob regressão**: 89 tabelas Fontes malformadas + 123 menções-fantasma no baseline — o test-suite só falha no que for novo.
 3. **P7 (chancela por conhecimento) pausado** durante a Onda 0; retoma sob os portões novos (`HOLD.csv` + suite).
 4. **Verdade-mestra**: o registro `dados_termos.py` continua mestre dos dados; os builds leem o canônico `base/canonico.json` (Onda 1.7 concluída 12/09/2026).
 

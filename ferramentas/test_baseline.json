@@ -1,6 +1,6 @@
 {
  "gerado_em": "2026-09-12",
- "nota": "Legado conhecido na criação (Onda 0.1). Só falha o que for NOVO. | 2.6/12-09: sanados 18 itens (ficha:RC-448:B072 + P2023-12-25×17 via materialização F044 chancelada); P2026-02-28×4 mantido sob sanção (DOCX aguardando revisão)",
+ "nota": "Legado conhecido na criação (Onda 0.1). Só falha o que for NOVO. | 2.6/12-09: sanados 18 itens (ficha:RC-448:B072 + P2023-12-25×17 via materialização F044 chancelada); P2026-02-28×4 mantido sob sanção (DOCX aguardando revisão) | P2026-02-28/12-09: materialização chancelada (expurgo 23) — sanados 4 itens: ['ficha:RC-667:P2026-02-28', 'ficha:RC-668:P2026-02-28', 'ficha:RC-669:P2026-02-28', 'ficha:RC-670:P2026-02-28']",
  "fontes_malformadas": [
   "RC-001",
   "RC-003",
@@ -212,10 +212,6 @@
   "ficha:RC-617:B079",
   "ficha:RC-641:B064",
   "ficha:RC-658:B085",
-  "ficha:RC-667:P2026-02-28",
-  "ficha:RC-668:P2026-02-28",
-  "ficha:RC-669:P2026-02-28",
-  "ficha:RC-670:P2026-02-28",
   "ficha:RC-721:B065",
   "ficha:RC-769:B068",
   "ficha:RC-771:B083",
