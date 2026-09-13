@@ -293,5 +293,5 @@ As candidatas abaixo **não** entram sozinhas: são pontos de partida p/ o despa
 - **sem candidata nas fontes em disco** — ditado livre (ou indicar outra obra)
 
 
-Resumo: **52 fichas** na bancada (lápides RC-449/RC-872 fora) — 52 com candidato(s) p/ validar · 16 de ditado livre.
+Resumo: **52 fichas** na bancada (lápides RC-449/RC-872 fora) — 36 com candidato(s) p/ validar (65 janelas) · 16 de ditado livre.
 
