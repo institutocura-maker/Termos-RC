@@ -45,3 +45,11 @@ Livro gnóstico (séculos I–III d.C.), também chamado "A Realidade dos Regent
 
 - **[A Humildade de João: o Verbo acima do Criador] (U0033)** «Então tudo que foi feito foi feito pelo verbo criador, porque sem esse verbo, nada do que foi feito teria sido feito sozinho pelo criador.» — João humilhou publicamente o Deus dos judeus: sem o Verbo (Jesus), nada do que o Criador fez teria sido feito sozinho; o mesmo processo de Brama/Vishnu na mitologia hindu — «Brama é o criador, mas quem de fato ajeitou tudo foi Virgo» (Vishnu) (RC-770 Hipóstase; RC-072 Jesus; RC-104 Trimurti).
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «esses arcontes querem vir para cá. Aí querendo vir para cá, a velha ideia de que Sofia que ia mandar para eles não faz mais sentido, que eles querem mandar, até porque Sofia foi o responsável por ter preparado o humano Jesus para servir a Keter ou javera ou brama. E Jesus se recusou a cumprir o […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+- «No início do século e eu vou revelar hoje aqui uma coisa pela primeira vez pra gente poder compreender melhor esses livros todos que Maria Madalena no século havia produzido e que eh Mani e outras figuras, Valentiniano, outras figuras chamadas gnósticas ao longo desses séculos foram produzindo.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0004
+- «A hipóstese dos arcontes ou a realidade dos regentes cósmicos é considerada por estudiosos uma exegese, ou seja, uma análise dos seis primeiros capítulos do livro do Gênesis, que expressam a mitologia gnóstica da criação do cosmos e da humanidade.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0004
+

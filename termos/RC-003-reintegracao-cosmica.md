@@ -156,3 +156,10 @@ Conceito que amarra os três eixos do pensamento de Ellam — cristianismo, espi
 ## Nota — MUTIRÃO REVISAR · Lote 2 — Grafia & Taxonomia (05/09/2026 · despacho Q-F038-B/C/D)
 
 - **Carma e Compromisso × Compreensão (l. 71): ENCERRADA por soberania estatística (Q-B).** O acervo em `livros/CONCLUIDOS/B026_carma_e_compromisso/` traz o título «Carma e Compromisso»; o fragmento do livro na Arca imprime «compromisso» **240×** contra «compreensão» 6× (este em outros contextos). Equivalência «Compreensão» = título de B026 não sustentada; **não fundir** mantido — a semântica de RC-003 não se move.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «A Reintegração Cósmica da Terra, marcada pelo retorno de Sophia (Cristo Cósmico/Jesus), e a ascensão do Quarto Logos dependem crucialmente da contribuição consciente dos humanos para a recomposição do Criador.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0063
+- «a Terra somente poderá ser reintegrada à convivência cósmica após o exílio, para outros orbes, dos irmãos terráqueos ainda empedernidos em posturas violentas de desamor e intolerância» — *ver:* **Ampliação — B025 (Caminhos Espirituais)**, p. 108
+

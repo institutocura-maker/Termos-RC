@@ -53,3 +53,11 @@ Com isso:
 | DNA Insubmisso / Linhagem Pandora–Eva–Noreia | RC-727 | **sem aresta** em `RELACOES`; arquivo existe |
 | Krishna (avatar de Vishnu/Shiva) | RC-414 | **sem aresta** em `RELACOES`; arquivo existe |
 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E ele quando viu Alexandre Magno que analisou o DNA do rapaz, pessoal, esse aqui é o melhor DNA humano que até então o nosso amigo Lemion havia visto no sentido de melhor DNA humano paraa lógica dele, não entre no mérito.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+- «Alexandre Magno, quando tinha 8, 9, 10, 11, 12, 13, 14, 15, 16 anos, até os 16 anos ele foi educado por Aristóteles, mas não foi só ele, ele e mais vários amigos dele, filhos também das principais famílias da Macedônia.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0003
+- «Ele conseguiu unir a cultura ocidental e a cultura oriental, o que de melhor havia na cultura ocidental, produzido pelos filósofos gregos e Alexandre Magno teve como preceptor a figura de Aristóteles.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+

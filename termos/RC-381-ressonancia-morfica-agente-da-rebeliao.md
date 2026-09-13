@@ -124,3 +124,11 @@ A **ressonância mórfica** na RC não é apenas o mecanismo de herança de háb
 - **Linhas carimbadas do lote:** ll. 39 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então sim, a constelação familiar é um instrumento maravilhoso, tem a ver com a tragédia grega, é a própria tragédia grega sendo encenada dentro de mecanismos que estão sendo aplicados por terapeutas, com isso tudo é muito agora, não é todo tipo de prática de constelação familiar que produz de […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0078
+- «Talvez a a a própria Solange Matilde que faz a questão da constelação e eu tô fazendo um curso de de constelação também e vejo que quando finaliza a constelação eh dá a sensação que é o que a gente quando a gente acessa o campo mórfico daquela situação familiar ali, a constelação se desenrol se […]» — *ver:* **Ampliação — P2021-02-28 (Tragédia Anunciada - As Fórmulas…** U0031
+- «o tempo inteiro, enquanto a espécie esteja existindo, quando a espécie é extinta e não tem mais nenhum membro enviando via ponte quântica do seu DNA com o campo quântico o seu comportamento, porque esse corpo morreu, o campo mórfico daquela espécie tende a também colapsar e deixa desistir.» — *ver:* **Ampliação — P2022-09-18 (Os Níveis de Estresse Extremo da…** U0031
+

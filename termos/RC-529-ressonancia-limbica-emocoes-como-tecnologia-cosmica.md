@@ -99,3 +99,9 @@ Na cosmologia de Ellam, a linguagem silenciosa dos mamíferos que permite perceb
 ## Nota de governança
 
 [P2024-08-03/07-14] As formulações biológicas, neurológicas ou clínicas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais. Não equivalem a consenso científico.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Ressonância límica é um tipo de linguagem quântica que faz com que uma leioa sinta o que as outras leoas estão sentindo, que um elefante sinta o que os outros estão sentindo, que um cavalo sinta que um uma vaca, ou seja, é um tipo de linguagem que une os seres daquela espécie em torno de uma […]» — *ver:* **Ampliação — P2024-03-17**
+

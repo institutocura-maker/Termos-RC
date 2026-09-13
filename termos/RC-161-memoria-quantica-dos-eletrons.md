@@ -126,3 +126,11 @@ A palestra atribui aos elétrons memória de sofrimento, preferências e comunic
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Charon]: RESOLVIDA (F043-L5).** Jean-Émile Charon, confirmado externamente (ver RC-160).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Não pode surgir nenhum elétron novo e nenhum dos elétrons que existe pode morrer, porque senão quando for reconstruir o puzzle, ou seja, o quebra-cabeças, que seria formar a mente do criador de novo, nenhuma dessas partezinhas pode faltar, senão não reconstrói nos termos em que foi.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0012
+- «Mas isso aqui é o espectro de atitudes mentais possíveis aos seres para que eles produzam suas formas, pensamento e formas sentimentos e isso fique marcado em algum lugar, ou seja, nos registros acásicos ou acásticos, que é a memória quântica dos elétrons.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
+- «Os qualihas mentais de Lemi, os coalhas mentais de A, B, C, D, G, os meus e seus, os qual mentais que marcaram os elétrons são eles que têm que lutar.» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+

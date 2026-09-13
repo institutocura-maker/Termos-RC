@@ -34,3 +34,11 @@
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Qual foi a maior mistura de gene já ocorrida na história dessa criação? É essa que eu acabei de contar. Ela foi a base de todos os principais acontecimentos que vieram a ter lugar em certas faixas habitáveis dos dois universos ao longo dos últimos 600 milhões de anos. E o que foi isso? Essa mistura de Gênes surgiu devido ao pacto ocorrido entre o Zair e o Zuaniir em Asgar.»
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Vishnu conseguiu fazer com que alguns dos seus ex-avatares, dentre os quais Moros, que é um filho de Vishnu, renascesse aqui dentro como Kvaser, um ser múltiplo formado por padrões genéticos dos Aesir e dos Vanir [...] Então, Brama resolveu destruir Yggdrasil. Por isso, o famoso Ragnarok, que […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «cada um cuspir numa tigela e a saliva de todos eles ficaria junto. E essa Assim mesmo que a coisa se deu. E na saída Fre aí não é frio, Frea. Ela chega para Odinha e diz: "Olha, mas que pena, essa tigela, essa vasilha, vamos chamar assim, contém o melhor de todos nós ou de cada um de nós." Que pena […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
+- «Qual foi a maior mistura de gene já ocorrida na história dessa criação? É essa que eu acabei de contar. Ela foi a base de todos os principais acontecimentos que vieram a ter lugar em certas faixas habitáveis dos dois universos ao longo dos últimos 600 milhões de anos. E o que foi isso? Essa mistura […]» — *ver:* **Ampliação — P2024-03-17**
+

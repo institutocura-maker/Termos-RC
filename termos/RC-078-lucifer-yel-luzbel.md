@@ -106,3 +106,9 @@ Yel Luzbel é o protagonista negativo-positivo do drama cósmico: sua inquietaç
 
 - **[Lúcifer reconstituído no corpo físico] (U0006)** «Então, ele foi reconstituído no corpo físico que ele tinha antes como biodemo.» — após a crucificação, o espírito de Jesus recolheu Elusbell (Lúcifer, RC-078), que foi 'reconstituído no corpo físico que ele tinha antes como biodemo' — algo parecido com o que foi feito com Enoque (RC-489), numa forma 'metatrônica' (RC-671).
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «o coitado do Lucifer, que nunca pretendeu comandar porcaria nenhuma, teve que ser o o comandante, né, porque ele sabia explicar as coisas relativas àquele problema.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+

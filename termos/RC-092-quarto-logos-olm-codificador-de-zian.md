@@ -277,3 +277,11 @@ A partir de 1989 passou a operar o Quarto Logos, substituindo os 3 primeiros Log
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Morphia]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese registrada, sem paralelo.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Mas é nesse ponto que surge o quarto logos, como sendo a grande novidade que convidará os humanos não a exercer o império de uma força mental estupidificada ou cretinizada por esse passado de equívoco dos três primeiros logos, mas sim como alguém que vai promover sua própria evolução através da ex […]» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0003
+- «A locomotiva já partiu, ou seja, o planejamento do quarto logos e a especiação humana e o que ela poderá produzir já foi planejada, já tá sendo planejada e alguns espíritos não conseguem se inscrever nesse processo, mesmo não sendo espíritos que serão exilados.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0014
+- «Mas esse espírito de Chiva A condição adi patrocinado todo esse processo, como também ele é que foi dando as dicas para o espírito de que é poder surgir junto com Sofia no concerto já da vida biológica para poder ir até o fim.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0020
+

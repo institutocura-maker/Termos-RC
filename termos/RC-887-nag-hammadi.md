@@ -34,3 +34,9 @@ O curso usa Nag Hammadi como **marco físico-histórico da recuperação da reve
 
 ## Nota de governança
 F044 (Anel C, materialização 06/09/2026); `ficha=False→True`; `relacoes/` blindado (0 arestas novas).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- ««Quando eles souberam que legiões de tropas romanas estavam destruindo livros hereges, eles então esconderam, no século IV provavelmente no ano de 374, esconderam vários códices de papiros em uma certa caverna, uma região na época chamada Nag Hammadi, e que ainda continua sendo chamada assim... os […]» — *ver:* **Contexto / Origem**
+

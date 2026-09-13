@@ -70,3 +70,10 @@ A **definição factual** do vaishnavismo (tradição hindu de adoração a Vish
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Ah, não, mas a Índia não é porcaria, não. É isso aqui. É o quê também? O que é que as igrejas que dizem ter Jesus no coração estão fazendo do coração dos seus fiéis, colocando Lula, Bolsonaro, blá, blá, blá. Ou seja, nós nos ferramos a tal ponto que nós quem, a humanidade inteira, tá certo? Que destruímos e distorcemos tudo, mas os hindus eles não distorceram nada. É hoje do jeito que era, 4000.»
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando a gente estuda as 10 principais encarnações avatáricas de Vishnu, eu tenho que dizer: isso é furado. Isso não é verdadeiro. Isso não é realmente produzido por Vishnu. Todas, algumas são Shiva e outras são outros espíritos. Mas por que essa desonestidade? Porque quem produziu esse purana é o […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Ah, não, mas a Índia não é porcaria, não. É isso aqui. É o quê também? O que é que as igrejas que dizem ter Jesus no coração estão fazendo do coração dos seus fiéis, colocando Lula, Bolsonaro, blá, blá, blá. Ou seja, nós nos ferramos a tal ponto que nós quem, a humanidade inteira, tá certo? Que […]» — *ver:* **Ampliação — P2024-03-17**
+

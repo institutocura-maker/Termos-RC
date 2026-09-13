@@ -45,3 +45,9 @@ Com isso:
 | ADHYSAVNA (nome completo de Savna/Shiva) | RC-409 | aresta pré-existente; arquivo existe |
 | Trimurti | RC-104 | **sem aresta** em `RELACOES`; arquivo existe |
 | Tridevi | RC-610 | aresta pré-existente; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Sat ficou tão triste com o pai que resolveu entrar numa fogueira e o corpo dela híbrido, humanizado, se desfez, seu espírito saiu e mais tarde eh assumiria a função de Paraki, ou seja, outra esposa de Chico.» — *ver:* **Ampliação — P2022-05-07 (Shiva, o Projeto Talm e os Misté…** U0003
+

@@ -155,3 +155,11 @@ Sétimo patriarca bíblico, levado por Javé — na RC, figura-chave da interces
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Socolov]: RESOLVIDA (F043-L5).** Matvei Sokolov, confirmado externamente: 2 Enoch (eslavônico), ms. Belgrado 1886, ed. 1899 — o “outro” livro de Enoque ao lado do de Bruce/Etiópia.
 - **[elo Enoque×Moros]: RESOLVIDO (F038-L5).** Ver RC-454 (P2025-05-31 verbatim; RC-533).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando tudo deu errado, Brama usou Enoque [...] Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana.'» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Depois eu compreendi o equívoco dos próprios espíritos a afirmarem isso, porque o próprio Jesus não estava afirmando, ele estava só reafirmando a velha agenda que Enoque apresentou o seres humanos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0007
+- «Porque Enoque foi o primeiro ser humano a apresentar ao mundo a agenda geopolítica do tal ser chamado Javé e da sucessiva aparição de avatares na Terra, cumprindo essa agenda de Javé.» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0069
+

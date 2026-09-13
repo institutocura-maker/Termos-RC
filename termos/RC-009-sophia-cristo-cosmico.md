@@ -23,6 +23,14 @@ A vinda de Sophia ("Jesus em seu corpo glorioso") marca o fim do Isolamento Cós
 - **Variações:** Cristo Cósmico; Suserano Cósmico; "Jesus em seu corpo glorioso"; Sofia; **Hochmah** (epíteto hebraico = Sabedoria, ver RC-565; grafia oral da palestra P2024-02-25 registrada como "Rockman/Rochman" por erro de STT, confirmada pelo curador como **Hochmah**); Sapienza (italiano)
 - **Idioma de origem:** Grego (σοφία = sabedoria)
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E o apocalipse por ordem exclusiva de Sofia. E o apocalipse é Sofia mandando um anjo avisar as igrejas da época que ele Sofia no futuro iria cumprir as promessas que o humano Jesus fez de que no futuro voltaria mais na sua condição de autoridade cósmica. E o apocalipse foi uma cápsula temporal que […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Aí Vishnu disse: 'Ai, eu lhe empresto um avatar meu. Eu falo com Sofia. Sofia dá um jeito de transar com a mulher, mas Sofia não tem pênis [...] Mas ele pode então pegar a genética dele e artificialmente colocar na humana. E aí esse humano que vai nascer, Jesus, eu prometo a você, Brama, que ele é […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Foi assim que surgiu a figura de Rockma ou Sofia. Há cerca de 6 bilhões de anos atrás, esse ser foi criado para existir nesse universo material [...] O tipo de cérebro que Sofia tem quando ele foi criado há 6 bilhões de anos atrás é radiata, ou seja, só tem um eixo. O tipo de cérebro que nós […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)** U1650
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

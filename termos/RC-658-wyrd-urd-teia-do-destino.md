@@ -166,3 +166,11 @@ Tudo.» (U0037) — **Selo temporal (D-9/D-10):** fórmula oral de 03/12/2023, t
 - **Selos do lote:** ll. 91 → ENCERRADO-RATIFICADO.
 - **Liquidação final do Mutirão REVISAR (despacho Q-F041-E):** a grafia/valor originais ficam preservados como falados; nada foi renomeado. A dívida de áudio está perdoada até que novas evidências (áudios, obras, despachos) ingressem na base — e então reabre por portão próprio, não por mutirão.
 - **Ratificação:** o cadastro tem primazia; a base documenta o processo do autor sem harmonizações artificiais (precedentes dos Lotes 4 e 5).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «os antielétrons do universo vizinho, ou seja, aos pósitrons, porque pósitron, ou seja, antielétron e os elétrons do nosso universo, juntando tudo isso aí corresponderia os neurônios do crânio da mente do criador que caiu e tudo que tinha na sua mente, ou seja, fazendo analogia com o crânio humano e […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
+- «Ele junto com a ajuda de Vdo, pois sua descendência via Nix era via eles então criaram uma um genuo, uma loca específica para, entre aspas reter esse mecanismo, esse campo quântico, virou uma espécie de uma loca de muito especial, diferente das outras, porque ali não existiam seres, era uma loca eh […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
+- «A partir desse ponto em que houve essa organização, todos os seres ficaram associados aos campos de registro comportamental das estirps e o sistema automatizou-se, como eu disse antes, saindo do controle mental operacional de horlog, ainda que os demais seres jamais souberam que a interface então […]» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
+

@@ -133,3 +133,9 @@ Anunnaki filho de Anu, irmão de Enlil — na RC, responsável pela inoculação
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Dieck Eno]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; hipótese Enki registrada.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E ele foi eh colocado DNA humano pelos, né, o na quando eles precisavam de macacides e inteligentes para trabalhar o ouro necessário aos ananares, não foi certo?» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0017
+

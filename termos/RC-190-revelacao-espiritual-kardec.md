@@ -51,3 +51,9 @@ Com isso:
 | Revelação Cósmica (conceito) | RC-094 | aresta pré-existente; arquivo existe |
 | Jan Val Ellam (Rogério de Almeida Freitas) | RC-071 | **sem aresta** em `RELACOES`; arquivo existe |
 | Seres Espirituais | RC-100 | **sem aresta** em `RELACOES`; **sem arquivo** |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E já concluindo, quando do advento da revelação espiritual, quando A equipe do Espírito da verdade, na segunda metade do século XIX, apoiado nos esforços de Kardec e outros na França, transmitem ao mundo a revelação espiritual e a turma de Javé que não consegue perceber o que se encontra além das […]» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
+

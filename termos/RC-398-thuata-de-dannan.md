@@ -54,3 +54,10 @@ Com isso:
 | Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
 | Hiperbórea | RC-068 | **sem aresta** em `RELACOES`; arquivo existe |
 | Cidades Sagradas do Hiperbóreo | RC-932 | arquivado na fila (F031 aplicação; sem ficha) — Fálias/Górias/Mírias/Múrias/Solia/Exólia (P2024-03-17) |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «os toatas de Danã, que há 14.000 anos atrás, quando saíram do hiperbório que havia sucumbido a certos cataclismas e chegaram no norte da Escócia, No norte da Irlanda, eles elevaram quatro objetos, entre aspas, sagrados para a cultura dos hiperbórios. O caldeirão do deus de Águeda, a lança do rei […]» — *ver:* **Ampliação — P2022-09-18 (as quatro relíquias; cotejo F030…** U0002
+- «A história da mitologia irlandesa diz que os filhos de já existiam lá, mas que tiveram que conviver com a chegada de povos que não eram humanos, chamado partolanos, nemedianos, formorianos, toatas de ganã.» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0166
+

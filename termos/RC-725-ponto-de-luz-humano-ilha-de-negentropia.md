@@ -113,3 +113,11 @@ Humano que, por vontade, serenidade e decência, produziria um foco de resistên
 
 ## Blindagem científica
 As afirmações sobre voltagem celular, aura de 18 metros, elétrons e massa crítica não são tratadas como ciência estabelecida. Números conjunturais não integram a definição canônica.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E aos poucos, quem puder criar negropias, que são ilhas de entropia positiva no meio do caos negativo para durante o tempo, o corpo da gente é uma ilha de gentropia, ou seja, de entropia positiva, porque durante o tempo em que esse corpo tá vivo, O eu da gente produz informações para o espírito que […]» — *ver:* **Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo…** U0009
+- «Aí nós vamos explicar que só um determinado tipo de pulsação consegue anular em ilhas de negent, ou seja, ilhas de produção no meio do caos que impedem a entropia de, melhor dizendo, que impedem a entropia de atrapalhar a produção de coisas boas no meio da sujeira, no meio da podridão.» — *ver:* **Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião …** U0014
+- «Nas negentropias, que são ilhas de produção ativa no meio do caos, no meio da da entropia, alguns seres humanos conseguem ser aquele pedaço de pau resistente que a correnteza tá tentando arrastar e ele tá ali.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0002
+

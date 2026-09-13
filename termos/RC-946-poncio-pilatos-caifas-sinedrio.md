@@ -48,3 +48,11 @@ E (Aula 04), sobre a releitura romana:
 
 ## Nota de governança
 F044 (Anel C, despacho 06/09/2026); fonte primária; verbatim extraídos do translado; nenhuma aresta nova.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- ««quando Caifás e Anás descobrem isso, vão para cima de Pilatos. Pilatos abre imediatamente uma verificação ou acusação em cima do centurião... O centurião apareceu como sendo alguém que teria sido subornado por José de Arimatéi...»» — *ver:* **Contexto / Origem**
+- «Pôncio Pilatos, que representavam os romanos lá na crucificação, não queria crucificar Jesus. Ele tentou. Ele colocou Barrabás para dar uma opção para a turba decidir.» — *ver:* **Contexto / Origem**
+- «Ah! Jesus foi crucificado porque... o Sinédrio judaico... é uma redundância, um pleonasmo porque o Sinédrio só existe no judaísmo... Foi Pôncio Pilatos.» — *ver:* **Contexto / Origem**
+

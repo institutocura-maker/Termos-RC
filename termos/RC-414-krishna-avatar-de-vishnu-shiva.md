@@ -212,3 +212,11 @@ O curador conferiu em **documentação confiável** (fora do corpus) e identific
 ## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
 - **Selos da varredura:** ll. 28 (AG).
 - **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Compreendam quem dominou mesmo a humanidade foi Krishna e seu manual de usuário devocional atuando a partir da Índia. Compreendam quem inventou a devoção aqui na terra foi Krishna há cerca de 4.000 anos atrás. Tudo que veio depois veio com base nisso, em que lá atrás produziu o DNA submisso, mas o […]» — *ver:* **Ampliação — P2024-03-17**
+- «O que é que todo mundo faz na loca de Krishna [Guruloca]? É uma sensação realmente formidável, porque a pulsação de centenas de milhões de espíritos desencarnados pulsando sobre uma mesma batuta tem um poder vibratório impressionante. Mas é um samba de uma nota só. Não provoca mutações no DNA de […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «O espírito de Krishna era de quem? Dois. Esse aqui que está por trás de Vishnu e Brama e o de Shiva, já que Krishna é avatar Keshava dos três. Nas três porções avatáricas genômicas de Krishna existia uma banda podre que era Brama, um eu de Vishnu um pouco mais fraco e um eu de Shiva. E Krishna […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+

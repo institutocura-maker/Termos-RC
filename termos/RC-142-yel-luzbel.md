@@ -57,3 +57,9 @@
 ## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
 - **Selos da varredura:** ll. 29 (RA).
 - **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «deu guarida informação de Lúcifera, como se dissesse isso tem procedência. Instantaneamente, toda a família IEL se contaminou pelo vírus que surgiu, não é? O vírus não só surge aqui na terra, não suja. Vocês não tm noção do problema. Aí isso começou a se espalhar pelos outros processadores das […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+

@@ -105,3 +105,11 @@ A Revelação Cósmica é o **macroconceito** que engloba todos os demais termos
 - **Linhas carimbadas do lote:** ll. 31 (B5b).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E é meio absurdo, mas coisas que estão erradas na cabala, no hinduísmo, no jainismo, no druidismo, no taoísmo e nos ismos promovidos por Javé, a exceção de Buda, que nisso a gente não vai se meter.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
+- «O resto a gente tá tendo que, entre aspas, semear reflexões para que essas versões equivocadas sejam revistas a partir das páginas da revelação cósmica, envolvendo aí, obviamente o cristianismo.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0004
+- «Emanuel Kant, filósofo prciano, filósofo alemão, dizia com muita propriedade que o intelecto humano pode e deve ser medido pela capacidade que ele tem de colecionar incertezas.» — *ver:* **Ampliação — P2022-07-16 (Do Ramayana ao Mahabharata)** U0003
+

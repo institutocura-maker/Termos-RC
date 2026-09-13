@@ -57,3 +57,10 @@ Conceito central também em P2024-11-09 (Abismo da Consciência) e P2025-02-15.
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Não, não tem a ver com dignidade, dignidade. Você pode até ser inquieto, ser desequilibrado, mas se você fodesse com seu padrão de integridade pessoal, você consegue modificar o genoma no padrão que é necessário para isso. Não é só equilíbrio, ser bonzinho; tem que ter ousadia, dignidade.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Eu queria perguntar sobre a componente humana que você falou que precisaria ainda ser desenvolvida para ajudar Jesus. Tem a ver com essa pacificação mental que a gente precisa?» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+

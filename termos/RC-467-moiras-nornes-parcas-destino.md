@@ -153,3 +153,10 @@ Quarentena mitológica — leitura do autor.
 - **Linhas carimbadas do lote:** ll. 35 (B5b) · ll. 74 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «decidiu criar o que na mitologia nórdica se chama as normes do feminino ainda que aqui não estejamos falando de nada masculino nem feminino, porque não existia esse padrão que hoje na sexualidade da vida biológica a gente percebe, isso será lá atrás. E esses ou essas normes recebem parte do […]» — *ver:* **Ampliação — P2023-07-09 (A Wyrd Quântica, o Processador V…**
+- «Mas Morus antes de sumir criou três seres que na compreensão da mitologia grega seriam três senhoras, três mulheres chamado moiras, mas não não eram femininos aqueles seres não era sexuado, mas a turma entendeu assim, então ficou assim.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0033
+

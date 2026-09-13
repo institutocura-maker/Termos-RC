@@ -81,3 +81,11 @@ O número de "7 bilhões" e a universalidade do mecanismo são **afirmação de 
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Hen-Orl]: chancelada AGUARDA-ÁUDIO (F039-L5).** Paralelo em RC-454.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E a emoção mais estranha que esses seres inocularam na gente é a expectativa de receber bênçãos, milagres, favores divinos a cada momento. E por isso a gente vive rezando, vive. Aí com isso, você não é mais aquele observador, você é aquele que usufrui o tempo inteiro de uma emoção. O mundo ao seu […]» — *ver:* **Ampliação — P2024-03-17**
+- «Mas se você um fardo de certezas e verdades e presta contas a esses fardos, a essas bagagens de conceitos terríveis que cada um de nós coleciona. O peso dessa prestação de contas chama-se religião nos termos em que nós conhecemos. E a coisa mais falsa que já foi inventada como narrativa ou de um […]» — *ver:* **Ampliação — P2024-02-04**
+- «Acreditem se quiser, mas o sentido devocional atrapalha isso aqui, porque faz com que a consciência de um ser humano se torne passiva e pulsante só num determinado padrão e cessa o empirismo da experiência humana que faz com que as mutações adaptativas e modificativas ocorram no genoma de cada ser […]» — *ver:* **Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os …** U0003
+

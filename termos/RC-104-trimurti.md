@@ -15,6 +15,14 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Tríade hindu de princípios ontológicos de gênese (Brahma, Vishnu, Shiva) — na RC, correlacionada à leitura que Thot fazia da **Ogdóade de Hermópolis (RC-609)** e ao drama da criação problemática (RC-167).
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Os três Eles da Trimur criaram três formas de replicação de replicação de vida biológica. Um nunca funcionou, mas os outros dois funcionaram. Esse ser, esse forno de replicação chamado Aamon era comandado por uma loca aqui de VDN. Esse outro forno chamado a Wiingan, era comandada por outra loca. […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+- «Bem, quando Quando o mundo dos demos para de funcionar ou funciona vagarosamente ou não funciona, ainda que eles se movimentem, quando o mundo dos demos não produz nada para trimurte, paraa aristocracia trimurtiana, ou seja, a aristocracia trimurtiana, que eu chamo são os descendentes dos três […]» — *ver:* **Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os …** U0006
+- «Morrensor reviveu a Trimurte e, entre aspas, deixou-os livres sem manipulá-los, mas criou os projetos por íveis de realizar os dois trabalhos que precisam ser realizados, um no âmbito interno para resolver uma questão interna e outro no âmbito interno, mas que vai repercutir lá no âmbito externo.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0012
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

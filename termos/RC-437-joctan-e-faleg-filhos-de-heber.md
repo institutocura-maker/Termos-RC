@@ -57,3 +57,9 @@ Filhos de Heber (RC-436), patriarcas pós-diluvianos da linhagem hebraica — **
 ## Blindagem
 
 Maldição de Faleg e Abraão/Sara irmãos são **leitura do autor** (quarentena histórico-religiosa/Teologia Comparada).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «O mensageiro levou também a instrução dada por Heber de que ele, desde que possível, fosse em direção ao norte, para verificar as notícias recebidas pelo Conselho dos Anciãos sobre a vida que lá se desenvolvia.» — *ver:* **Ampliação — B052 (Homoafetividade: O Segredo Perdido do É…**, p. 111
+

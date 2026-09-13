@@ -90,3 +90,9 @@ Grafia "Cali Calon" [REVISAR — STT → CHANCELA 2026-09-06 · F039-L3: AGUARDA
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Cali Calon]: RESOLVIDA (F038-L5).** Par “Kalil Kadmon [STT ‘Cali Calon’]” paralelo em RC-086, sem flag; grafia fonética preservada.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «000 anos atrás, quando nessa época os homo sapiens eram só animais de estimação dos deuses desses arcontos, quando um deles chamado Car Cadmon fez uma metamorfose definitiva, se transformou numa fêmea dos humanos que existiam na fazenda de Epimeteu.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0003
+

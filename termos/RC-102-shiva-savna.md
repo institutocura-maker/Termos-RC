@@ -234,3 +234,11 @@ Papel de Shiva na entropia é **leitura do autor** (cosmovisão RC) — não é 
 - **[hipergorianos]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax; sem hipótese registrada.
 - **[Eliu e Yen]: chancelada AGUARDA-ÁUDIO (F039-L5).** Hapax (a outra ocorrência de “eliu” no corpus é “hesitou”).
 - **[RARA]: RESOLVIDA (F038-L5).** = Rudra: RC-413 estabelece que o STT grafa “rara” para Hara/Rudra.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E ele uma vez me disse que quando ele me fez chegar nas minhas mãos um pequeno opúsculo que ele escreveu através de seguidor dele da antiguidade que se chama Chiva Samita, seus escritos de Chiva e que ele soltou lá uma frase dizendo: "Nessa criação todos sofrem o tempo todo, tudo é sofrimento".» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+- «Então assim, vendo o tamanho do circo, eu não acho que Xiv seja um um dono de circo, entendendo por isso as mais de 1000 expressões adiágenas que ele criou a partir dele mesmo, ele perdeu o controle, ele não consegue e não tem plano B nenhum em ação» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+- «Então assim, Shiv, ele me disse que ele criou Krishna e Saibaba porque estes olhavam pros seres humanos com o carinho, a ternura que ele enquanto Shiva à moda desses três tipos de consciência, ele não conseguia olhar, né?» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0006
+

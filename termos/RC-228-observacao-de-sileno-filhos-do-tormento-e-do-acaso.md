@@ -44,3 +44,9 @@ Com isso:
 | Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
 | Opção Terra | RC-227 | **sem aresta** em `RELACOES`; **sem arquivo** |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E demos não tem senso crítico muito mas um dos, entre aspas de que seguiam o deus deiono uma figura chamada Sileno na época do rei Midas, estamos falando aqui há cerca de 3 4000 anos atrás, na época do rei Midas, que foi mais recente inclusive que isso, Midas ele tinha muito muito defeito, ele era […]» — *ver:* **Ampliação — P2017-10-14 (Da Base Atlan ao Colégio Druídico)** U0021
+

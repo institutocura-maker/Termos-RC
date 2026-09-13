@@ -43,3 +43,9 @@ Com isso:
 | Sociedade Vril | RC-847 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Maria Orsic (médium da Sociedade Vril) | RC-846 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Hitler (figura histórica no RC) | RC-239 | **sem aresta** em `RELACOES`; **sem arquivo** |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Comecei a comprar ali um inglês português que existia sobre Hitler, mas eu percebi a influência esotérica, entre aspas, da sociedade Turno, da sociedade frio, que a gente vai falar daqui a pouco, sobre sobre Rita, porque Valeno também tinha falado isso, mas eu não tinha ainda descoberto as coisas […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0003
+

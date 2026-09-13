@@ -97,3 +97,11 @@ A via **institucional/prática** proposta pela narrativa de Ellam: uma escola �
 ## Blindagem epistemológica
 
 A "Escola da Decifração da Realidade" e o "método druídico" são **proposta/projeto de Ellam** (lançamento virtual), não instituição formal nem doutrina validada. As associações históricas (druidas, Tales, Pitágoras, Protágoras) são leitura do autor. O verbete registra a via prática proposta pela narrativa da RC, sem endossar a historicidade das reconstruções.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Explicando melhor, em outras palavras, eram esses os quatro métodos que, com o desenrolar dos acontecimentos inerentes à chamada "Rebelião de Lúcifer", o "Codificador de Zion" foi desenvolvendo com os seus alunos, no sistema de Capela: 1º) A arte da decifração/codificação; 2º) O progresso pela […]» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
+- «do seu legado restou uma estranha obra, cujo título é "Nuctemeron", que foi apresentada como se a cada uma das "doze horas" da passagem do tempo da Criação, um anúncio ou uma constatação específica se fazia regist[rado]» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
+- «Bloco inserido por despacho do curador (Q-C/Q-D do ciclo F031). Fonte: B016 (*O Quarto Logos*)» — *ver:* **Ampliação — F031 aplicação (05/09/2026): os QUATRO MÉTODO…**
+

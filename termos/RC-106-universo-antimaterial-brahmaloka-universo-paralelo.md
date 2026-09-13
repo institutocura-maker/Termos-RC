@@ -49,3 +49,9 @@ O Universo Antimaterial é um dos dois produtos do "erro da criação" (a queda 
 
 - **[Brahmaloka, improvisação da queda] (U0030)** «Em contraste, o Brahmaloka, também referido como universo paralelo, universo demo, ou universo vizinho, formou-se simultaneamente ao nosso, mas de forma improvisada, usando partículas antimateriais, como uma "salva de emergência" para o Criador que caía.» — o Brahmaloka (RC-106) formou-se de modo improvisado, com partículas antimateriais, 'como uma salva de emergência para o Criador que caía'.
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Em contraste, o Brahmaloka, também referido como universo paralelo, universo demo, ou universo vizinho, formou-se simultaneamente ao nosso, mas de forma improvisada, usando partículas antimateriais, como uma "salva de emergência" para o Criador que caía.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0030
+

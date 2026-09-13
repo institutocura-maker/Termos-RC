@@ -46,3 +46,10 @@ Com isso:
 | Pactos de Javé (Brama / Vishnu / Shiva) | RC-781 | **sem aresta** em `RELACOES`; arquivo existe |
 | Javé | RC-001 | **sem aresta** em `RELACOES`; arquivo existe |
 | Desígnios Proféticos (profecia como instrumento de domínio e sua desconexão) | RC-858 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «está ligado mesmo e hoje nós vamos falar de um tema em que com certa dose de suavidade, ao longo desses 20 anos aí ou mais, a gente já se referiu um pouco a alguns aspectos do que aqui a gente vai abordar, mas Hoje nós vamos ter que abordá-lo de forma completa, porque esse tema ele, se houvesse uma […]» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0002
+- «A nova aliança de Jesus que Jesus propôs entre os seres humanos e Javé, primeiro precisa ser compreendida pelos seres humanos para que depois Javé aceite.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0007
+

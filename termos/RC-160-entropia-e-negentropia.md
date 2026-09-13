@@ -110,3 +110,10 @@ A entropia está associada à energia Tamas (Savna/Shiva): é "uma energia desag
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[Charon]: RESOLVIDA (F043-L5).** Jean-Émile Charon confirmado externamente: físico nuclear francês (CEA Saclay), Relativité complexe (1977), elétron como microuniverso.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Aí cerca de 21% de uma tal matéria escura que ninguém consegue detectar o que é, mas se detecta que existe, porque a matéria escura é o que mantém as galáxias funcionando, senão elas já teriam se desorganizado.» — *ver:* **Ampliação — P2023-02-12 (A Desconexão dos Desígnios Profé…** U0087
+- «Isso começou há cerca de 4 bilhões de anos atrás, quando o universo começou a se expandir até uma aceleração, a sua expansão se acelerou como forma de acabar mais cedo.» — *ver:* **Ampliação — P2022-12-03 (O Ocaso do Criador e a Rebelião …** U0020
+

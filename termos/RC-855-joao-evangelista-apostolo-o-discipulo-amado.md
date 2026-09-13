@@ -44,3 +44,9 @@ Com isso:
 | Apocalipse (livro de João, ditado por Sofia/Rockman) | RC-854 | **sem aresta** em `RELACOES`; arquivo existe |
 | Sophia (Cristo Cósmico) | RC-009 | **sem aresta** em `RELACOES`; arquivo existe |
 | Cápsula do Tempo de Sophia (João) | RC-274 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então, o apóstolo João de Jesus é Era um rapazote de 16 anos no meio de um grupo de coroas, todo mundo com 30 anos, ou seja, no meio de um grupo de velhos.» — *ver:* **Ampliação — P2025-05-10 (Mistérios do Apocalipse)** U0003
+

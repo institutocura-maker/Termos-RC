@@ -47,3 +47,10 @@ A palestra confirma e amplia os epítetos: Samael/Sáclas/Aldabaof/Sabaof (STT d
 Grafias STT registradas: Aldabaof, Aldabaofelo, Sácala/Sáclas, Sabaov/Sabaof — normalizar para as canônicas (Ialdabaoth, Saklas, Sabaoth).
 
 ---
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «É o soberano cego, que também é chamado de Sacla, o ignorante, também de Aldabaof, o blasfemador contra o divino, também de Sabaof, mas Mas esse é o mesmo ser conhecido como Javé Brab.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0004
+- «E o que ela havia criado foi parido pela nuvem como um feto abortado, ou seja, o criador reconstruído, ou seja, Javé reconstruído, Samael reconstruído, é um feto.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0046
+

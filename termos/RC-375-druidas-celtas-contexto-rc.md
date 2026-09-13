@@ -46,3 +46,9 @@ Com isso:
 | Os 20 Anos de Jesus entre os Celtas | RC-373 | **sem aresta** em `RELACOES`; arquivo existe |
 | Mordon (o Druida da Montanha) | RC-374 | aresta pré-existente; **sem arquivo** |
 | Revelação Cósmica (conceito) | RC-094 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «dois colégios arquidruídicos para estudar o conhecimento que receberam dos toatas de Dané, o que Javé tava fazendo com Enoque era a mesma coisa, era mandando os anjos dele passar os conhecimentos que eles tinham para Enoque, para Enoque.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+

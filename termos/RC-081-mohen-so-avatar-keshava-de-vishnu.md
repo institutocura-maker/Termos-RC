@@ -117,3 +117,9 @@ A live P2026-04-02 normaliza os ruídos Morren So/Morrençor como Mohen So e o r
 - **Linhas carimbadas do lote:** ll. 32 (B5a).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B5:** números ficam como falados; datas de palestra e cifras locais não têm par impresso que as confirme (regra M2: transcrição STT não conta como prova).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Eu concordo, desde que a gente crie um ser com quatro cabeças: uma, você, Eros; outra, você, Tártara; e a outra, para ser sem lacre. Mas tem que ser no mesmo corpo, porque, se ele tiver a besta [solta], nós três a gente ataca e mata.» — *ver:* **Ampliação — F033 aplicação (05/09/2026): a desconstituiçã…**
+

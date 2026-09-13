@@ -85,3 +85,10 @@ A identificação de Yggdrasil com um sistema interdimensional centrado em Marte
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[identidades duvidosas]: chancelada SEM EQUIVALÊNCIA (F040-L5).** Tradições sobrepostas; sem equivalência canônica.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando Mohen So começou a criar um novo tipo de demo nesse universo chamado Fenvam, ele criou um ser chamado Buri. Esse ser nasceu com duas coisas que não existiam: os órgãos sexuais masculino e feminino. Um ser andrógino [...] Buri e sua descendência, Bor e depois Odin, organizaram um conglomerado […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «As correntes de asgardianos que não estão claramente distinguíveis nas mitologias nórdicas, mas eles aparecem por trás dos padrões da mitologia nórdica. Eles, essas correntes, foi quem mais trouxe, produziu esse fluxo de informações entre Marte e Terra.» — *ver:* **Ampliação — P2024-03-17**
+

@@ -49,3 +49,10 @@ Com isso:
 | Pulsação dos Elétrons Como Afetividade Humana | RC-832 | **sem aresta** em `RELACOES`; arquivo existe |
 | Entropia e Negentropia | RC-160 | **sem aresta** em `RELACOES`; arquivo existe |
 | Baralho genético (metáfora dos 28.869 genes) | RC-562 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Na hora em que a gente faz isso, nada de negativo consegue chegar perto da gente, porque é como se fosse um fogo saindo de uma fogueira que dói em quem dela se aproxima e uma pessoa estaciona alguns metros de uma fogueira porque o fogo dói nela.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0007
+- «Esses seres, eles têm que receber a onda da pulsação digna de um ser humano ou de vários seres humanos para que eles essa pulsação os inibe e eles não podem fazer nada.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0003
+

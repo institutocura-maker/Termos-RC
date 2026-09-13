@@ -48,3 +48,9 @@ Metáfora (da série Westworld, baseada na teoria da mente bicameral de Julian J
 ## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
 - **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Fios soltos»: «sucessão de fatos que podem ocorrer, ou não, resultantes de algo que já se deu».
 - Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «nós somos os fios soltos que precisaram ser livres ou libertos para tentar recapear, reconduzir esse fio solto, dando choque, que se chama javé, a uma condição de pretensa ou aparente normalidade.» — *ver:* **Ampliação — P2021-01-30 (A Mensagem TALM e os Fios Soltos…** U0015
+

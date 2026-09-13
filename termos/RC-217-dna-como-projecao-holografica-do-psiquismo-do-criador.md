@@ -115,3 +115,11 @@ A palestra descreve a cadeia Nidana → DNA biológico → reorganização futur
 ## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
 - **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «DNA»: «contém as instruções genéticas, na sequência de suas bases nitrogenadas, dos seres vivos da Terra e de alguns outros mundos».
 - Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «O sentido holográfico do universo, um dos das faces dessa compreensão, mostra que o todo está contido em uma de suas partes. Quando um detetive entra numa sala onde houve um assassinato e ele pega um fio de cabelo e por esse fio de cabelo ele descobre o DNA, uma célula ali por exemplo, e pelo DNA […]» — *ver:* **Ampliação — P2024-03-17** U0070
+- «O que entendemos na Terra como molécula de DNA, na verdade é uma espécie de projeção holográfica do padrão mental e emocional do Senhor Javé. Em outras palavras, é uma representação química do seu psiquismo.» — *ver:* **Ampliação — B002 (O Drama Espiritual de Javé)**, p. 7
+- «Essas PEPS do criador agora exist entes no universo biológico foram sendo encriptografadas e transformadas nos atuais genes sob a forma do DNA que conhecemos, o que modernizou sobre maneira unidana.» — *ver:* **Ampliação — P2024-06-16 (O Projeto TALM, os Fenvans e os …** U0006
+

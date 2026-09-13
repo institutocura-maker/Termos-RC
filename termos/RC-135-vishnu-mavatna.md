@@ -86,3 +86,11 @@ Com isso:
 | Fonte | Localização | Tipo |
 |---|---|---|
 | P2024-03-02 | O Drama Espiritual de Jesus (palestra) | — | transcrição automatizada; citação |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Os seguidores de Vishnu dizem que a primeira encarnação dele foi Matsya, como peixe, na época do grande dilúvio, para salvar informações que estavam reproduzidas em pedras, em manuscritos [...] Isso não é, entre aspas, real, mas de fato, pelas fofocas na espiritualidade, o senhor Vishnu no tempo […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «Vishnu se fez um javali e matou o demônio Hiranyaksha, que era filho de Shiva e Brama, da mistura do DNA dos demos [...] Brama disse: 'Quais os animais que você que é antídoto contra eles?' A citou todos os animais que ele se lembrou, mas ele esqueceu javali.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+- «A segunda encarnação avatárica de Vishnu é esse nome chamado Kurma, que significa em sânscrito tartaruga [...] Vishnu recebeu uma comunidade de deuses na sua loca chamada Vaikuntha.» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+

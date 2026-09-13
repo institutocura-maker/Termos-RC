@@ -54,3 +54,9 @@ Com isso:
 **Fonte:** palestra «A Quem Pertence o Planeta e a Biblioteca Genômica Mais Atualizada do Universo» (17/03/2024).
 
 **Trecho verbatim:** «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa humana num mulher.»
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Pandora então recebe, a turma tava chateada com Zeus, recebe os melhores genes e Efestos ainda dá para ela um algoritmo que permitia que, movido pela sua vontade, ela, esse ser, se transformasse no que ela quisesse. E ela se apaixonou pelos humanos e um belo dia fez a metamorfose transformou numa […]» — *ver:* **Ampliação — P2024-03-17**
+

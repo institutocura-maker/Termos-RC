@@ -44,3 +44,10 @@ Com isso:
 | Len Mion (Satã) | RC-074 | **sem aresta** em `RELACOES`; arquivo existe |
 | Enki (Anunnaki; inoculou o gene FOXP2) | RC-486 | **sem aresta** em `RELACOES`; arquivo existe |
 | Bebida dos Deuses (Ambrosia/Amrita/Soma) | RC-466 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E também porê devido a muralha da China, quando Xiranti resolveu reconstruir parte das muralhas da China para isolar mais ainda a China do resto do mundo, isso já era um desdobramento histórico de maluquíes que haviam acontecido nos bons quatro, cinco 6000 anos antes naquela região, envolvendo […]» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+- «E no tempo em que a lenda dos antigos três Hangs, esse nome Xinchi Huang, Huang, significa um epíteto, que os três primeiros imperadores mitológicos da China são chamados três primeiros.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0004
+

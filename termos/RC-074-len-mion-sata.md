@@ -145,3 +145,11 @@ Papel de Len Mion no relógio messiânico é **leitura do autor** (Teologia Comp
 ## Nota — MUTIRÃO REVISAR · F042 — Varredura do Resíduo Bruto (06/09/2026 · despacho Q-F042-A…C)
 - **Selos da varredura:** ll. 66 (IS).
 - **Órfãs de censo:** estas flags nunca foram reivindicadas pelo inventário de F037 (censo com furos, reconhecido na certidão de encerramento); reconhecidas e carimbadas agora por ciclo de varredura, sob as regras dos Lotes 3–5. Nada renomeado; dívida de áudio perdoada até nova evidência.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E eh em 2004, Valon disse que iria aprofundar o que ele não fez, porque talvez já não tenha colaborado, num assunto que ao nos anos 90, eh, os espíritos que haviam escrito comigo o livro Reintegração Cósmica haviam tocado, que foi a distinção muito forte entre ebel e Lemi que foi o fato deles […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0003
+- «E a última obra dele foi Hitler, nos termos em que eu descrevo no livro A era Sapiens da trilogia, quando ele feito um encosto em Hitler, porque Hitler é um humano, mas cujo espírito um dia foi da família Mion e muito próximo a ele, Léon, ele dominava totalmente Ritler.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
+- «Ele foi recolhido pela espiritualidade nos anos 90 já esteve para ser exilado umas duas ou três vezes, mas no último instante o exílio dele para por questões que eu não sei entender direito ainda e nem quero, mas para.» — *ver:* **Ampliação — P2023-08-27 (Len Mion e os Senhores da Terra …** U0005
+

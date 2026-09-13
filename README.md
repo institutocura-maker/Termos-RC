@@ -1,6 +1,6 @@
 # Base Terminológica RC — Revelações Cósmicas (Jan Val Ellam)
 
-> **README vivo** — gerado por `ferramentas/build_readme.py` em 12/09/2026 — **não editar à mão**.
+> **README vivo** — gerado por `ferramentas/build_readme.py` em 13/09/2026 — **não editar à mão**.
 > O README histórico (ago/2026) está arquivado em `docs/historico/README-2026-08-17.md`.
 
 ## Números oficiais (lidos do cadastro a cada build)
@@ -28,4 +28,4 @@
 
 ---
 
-*Regenerado em 12/09/2026 · `python3 ferramentas/build_readme.py`*
+*Regenerado em 13/09/2026 · `python3 ferramentas/build_readme.py`*

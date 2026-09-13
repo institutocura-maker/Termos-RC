@@ -23,6 +23,14 @@ Tema central da obra de Ellam (livros *O Drama Cósmico de Javé*, 2010, e *O Dr
 - **Variações:** Senhor Javé; Jeová; Yahweh; YHWH; Deus Bíblico; Brahma (no sistema RC); Criador
 - **Idioma de origem:** Hebraico (tetragrama YHWH)
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «E tal não se dá porque esse espírito ainda carrega o cancro chamado Javé, que mesmo eh desativado e nem está ligado a esse espírito porque houve a quebra devido a queda lá atrás, mas é como se fosse uma coisa Bluetooth com esse espírito, apesar de não estar ligado diretamente e mesmo esse esse eu […]» — *ver:* **Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo…** U0002
+- «Então, o eu de Javahé hoje existe, mas de forma parasitária, como existiu no início dessa confusão toda estranha, hoje o eu do criador é um sem teto, ou seja, ele não tem Ele é dono disso tudo e não tem um corpo através do qual ele possa se expressar, mas ele acha que ele é o dono de todos os […]» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0032
+- «Uma curiosidade, você falou que o Javé em 2021 implodiu o corpo dele, né, que nem os anjos sabem como é que ressuscita o corpo e o eu dele. O eu dele implodiu, mas não deixou desistir. O corpo deixou o corpo. Eu queria saber de que que esse corpo foi formado. Plasma. Plasma é esse tipo de coisa que […]» — *ver:* **Ampliação — P2024-02-04**
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

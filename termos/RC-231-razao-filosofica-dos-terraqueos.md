@@ -71,3 +71,9 @@ Na cosmologia de Ellam, a capacidade filosófica humana — apresentada como "ca
 - **Linhas carimbadas do lote:** ll. 26 (B2) · ll. 64 (B3).
 - **Chancela-padrão do bloco:** a esteira não possui o áudio; a grafia/valor do bruto fica registrada como falada — nenhum código renomeado. A flag deixa de ser dívida do mutirão (matéria da era pós-áudio).
 - **B2:** obra citada não possessa pela Arca — estado FONTE AUSENTE DA ARCA (sancionado no despacho Q-F038-A); pendência congelada até a obra/arquivo ingressar no acervo.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Nós Somos, apesar de miseráveis, uma das poucas raças no cosmos, com a razão filosófica desperta para o bem e, infelizmente, para o mal, mas com razão filosófica desperta.» — *ver:* **Ampliação — P2012-02-19 (Xadrez Cósmico de Brahma, Vishnu…** U0005
+

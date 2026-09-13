@@ -66,3 +66,9 @@ Registro que associa o gene FOXP2 — vinculado na cosmologia de Ellam à emerg�
 ## Nota de governança
 
 [P2024-08-03] As formulações genéticas, paleontológicas ou históricas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais. Não equivalem a consenso científico.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Pô, sobre o cérebro límbico mamífero, surgiu o cérebro primata e no topo do cérebro primata um córtex cerebral, no qual o gene Fox P2, que é o da linguagem, o da racionalidade surgiu.» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0041
+

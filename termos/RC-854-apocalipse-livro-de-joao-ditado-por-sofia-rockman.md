@@ -66,3 +66,11 @@ Com isso:
 | Hochmah (2ª Sefirah — Sabedoria; = Sophia) | RC-565 | **sem aresta** em `RELACOES`; arquivo existe |
 | Segundo Advento do Cristo (Volta de Jesus) | RC-005 | **sem aresta** em `RELACOES`; arquivo existe |
 | Coreografia Cósmica (vinda de Sophia) | RC-258 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Os termos do estranho livro do Apocalipse, que nada mais é do que a confirmação de Sofia, dizendo que iria cumprir sim a promessa que o eu humano dele havia feito em nome dele, de que no futuro ele retornaria e o apocalipse seria exatamente o enredo e o roteiro das profecias que inevit aconteceria.» — *ver:* **Ampliação — P2023-02-11 (Agente Humano Jesus e os Arcontes)** U0033
+- «Esses 30 minutos que é dito, que vai acontecer entre o toque do da sexta trombeta de um anjo e o da sétima trombeta, que já anuncia a chegada de Jesus, são 30 minutos em que o próprio Sofia na época ficou sem saber o que é que diabos ia acontecer direito ali.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0032
+- «Então, quando Sofia escreveu Apocalipse através de um anjo através de João, o apóstolo, foi dizendo: "Eu vou cumprir tudo que o meu avatar humano disse que faria em relação a boa nova que ele deixou entre os homens.» — *ver:* **Ampliação — P2022-11-20 (A Incompreendida Nova Aliança pr…** U0007
+

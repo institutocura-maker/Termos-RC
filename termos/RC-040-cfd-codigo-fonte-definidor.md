@@ -107,3 +107,11 @@ aspa fica datada aqui, e a eventual revisão do verbete nas obras continua pende
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[padroes/Javer]: chancelada FORMAS PRESERVADAS (F039-L5).** Decisão já registrada na ficha; sem emenda.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Mas cada ser humano traz em si, no seu genômico, todas as marcas dessa história e o eu humano é o batedor do seu próprio genoma e nós somos o próprio Samudra Mantã ambulante, produzindo ou as mesmas proteínas o tempo inteiro, tendo os mesmos comportamentos, ou alguns seres humanos conseguem […]» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
+- «Só quando os cvães ou elfos foram criados é que essa coisa de ter líquido dentro do corpo de plasma deles ou um tipo de líquido que ainda não é água, surgiu permitindo que o que a mente pensasse ficasse gravado na saliva, na porção líquida.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
+- «padrões arquétipos do código fonte definidor do criador, que ou isso aqui fica organizado ou jamais esse ser aqui terá paz, terá condição psíquica de trazer para si tudo que dele foi fragmentado.» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0004
+

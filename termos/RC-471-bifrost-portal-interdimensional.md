@@ -55,3 +55,9 @@ O portal interdimensional é elemento da cosmologia de Ellam. Não há afirmaç�
 ## Ampliação — P2024-08-03
 
 - **[P2024-08-03] AE-FD06 — U0375–U0388; U0400–U0404:** Acrescenta Ragnarok como destruição do conglomerado de nove mundos, com Marte/Midgard e portais, somente na interpretação cosmológica de Ellam. Qualquer apoio em John Brandenburg ou hipótese marciana permanece controverso.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Quando Odin foi expandindo o seu reino de Brasil, e seus cientistas criaram a primeira ponte ligando às oito locas do universo vizinho com o nosso universo, que passou a ser chamado por ele de mais uma loca.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0013
+

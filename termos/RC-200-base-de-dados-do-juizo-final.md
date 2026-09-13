@@ -55,3 +55,10 @@ Há uma **aparente contradição retórica** com a existência deste verbete ("B
 |---|---|---|
 | Big Data Cósmico | RC-194 | relaciona-se-a |
 | O Livro do Criador | RC-201 | relaciona-se-a |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «nós existimos para guardar essas informações, mas a cada vez que esse cérebro que morre, o espírito que anima esse corpo, escaneia as informações para passar para um outro cérebro e enquanto esse jogo durar, vai ser assim, mas no final tem que se tirar tudo e o resto tem que tá limpo para esse essa […]» — *ver:* **Ampliação — P2023-12-03 (A Rebelião de Lúcifer ainda por …** U0038
+- «Porque o desmascaramento que já foi feito em torno do juízo final simplesmente impediu esse processo maluco que foi vacinado lá atrás por Enoque a pedido de Javé.» — *ver:* **Ampliação — P2021-04-10 (O Fechamento dos Portais e o Imp…** U0016
+

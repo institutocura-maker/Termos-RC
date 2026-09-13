@@ -47,3 +47,9 @@ Com isso:
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
 | Primado da Informação | RC-707 | aresta pré-existente; arquivo existe |
 | Ser Humano Não Local | RC-708 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Consequentemente, Javé se reconstituiu como um "holograma de sua força mental", apoiado em sua força divina remanescente, mas sem a plenitude da consciência que possuía antes da queda.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0021
+

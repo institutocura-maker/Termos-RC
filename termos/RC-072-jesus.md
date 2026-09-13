@@ -15,6 +15,14 @@ atualizado = "2026-08-29"
 ## Definição Sintética
 Figura central do drama da RC: na leitura de Jan Val Ellam, Jesus é a expressão do **Cristo Cósmico (Sophia, RC-009)** — não o "filho único de Deus" da teologia, mas o agente da reintegração cósmica que veio "desfazer" o impasse do criador caído. A teologia católica acertou, segundo o autor, em **um único ponto essencial: a imolação** — a entrega sacrificial como chave do processo.
 
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então, o Hipóstase dos Arcontes é um livro, eu não reproduzi o livro todo, só algumas partes, mas eu espero ter passado para vocês o o conceito a temática profunda de alguns manuscritos que foram produzidos h cerca de 19 e poucos anos atrás, falando desses temas com essa profundidade e assim parece […]» — *ver:* **Ampliação — P2022-09-17 (A Hipóstase dos Arcontes)** U0046
+- «E somos todos nós cativos dessa infecção, já que todos fomos acostumados a pedir, a pedir, a querer receber sempre, a esperar milagres, a esperar bênçãos, a blá blá blá, a blá blá blá, o tal pedi e vos será dado, que Jesus em tese falou lá atrás, é um erro terrível, porque esta frase, e aí eu […]» — *ver:* **Ampliação — P2025-12-14 (Os Fundamentos da Revelação Cósm…** U0007
+- «Existe uma falha nessa história que ninguém nunca escreveu [...] O problema todo reside porque Jesus apropriou os discípulos de São João Batista como sendo os seus primeiros apóstolos [...] houve uma transferência de uma pureza defendida pelos essênios, que ferrou com Jesus até o último segundo em […]» — *ver:* **Ampliação — P2024-03-02 (O Drama Espiritual de Jesus)**
+
 ## Fontes
 | Fonte | Localização | Tipo |
 |---|---|---|

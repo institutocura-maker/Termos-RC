@@ -43,3 +43,9 @@ Com isso:
 |---|---|---|
 | Nephilins | RC-082 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Universo Antimaterial (Brahmaloka / Universo Paralelo) | RC-106 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Mas na época que Jesus nasceu, existia uma coletâine em grego chamado Septoaginta, que era composta não de 46 livros como Antigo Testamento, mas de 47, porque o livro de Enoque fazia parte.» — *ver:* **Ampliação — P2025-05-10 (Mistérios do Apocalipse)** U0003
+

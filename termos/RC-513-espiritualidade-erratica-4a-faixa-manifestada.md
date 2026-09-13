@@ -80,3 +80,11 @@ Na cosmologia de Ellam, a faixa espiritual intermediária que envolve a Terra �
 ## Nota de governança
 
 [P2024-07-14] As formulações religiosas ou históricas desta ficha documentam a interpretação de Ellam e suas cautelas editoriais.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então vamos lá para cidades espirituais em cima do Brasil para pressionar, para pressionar, porque o ódio tá, então a espiritualidade brasileira foi invadida por espíritos revoltados, mas também muitos preguiçosos e um fluxo cármico.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0006
+- «E foi assim que espíritos velhos foram se congregando em torno de uma possível cultura angloicana que veio a surgir na América do Norte, de uma expansão da cultura espanhola que se fixou na América Central e na América Latina.» — *ver:* **Ampliação — P2022-09-25 (O Contexto Espiritual da Constru…** U0006
+- «Lembrem-se, nosso lar, a cidade que Chico Xavier descreve com André Luiz no livro cujo título é nosso lar, só foi construída século X, 17, 18, ou seja, cerca de 200, 300 anos.» — *ver:* **Ampliação — P2022-10-01 (A Wyrd e a Espiritualidade)** U0002
+

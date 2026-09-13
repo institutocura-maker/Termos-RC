@@ -50,3 +50,9 @@ Com isso:
 | DNA como Projeção Holográfica do Psiquismo do Criador | RC-217 | **sem aresta** em `RELACOES`; arquivo existe |
 | Seres Terrenos (Homo Sapiens) | RC-099 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | CFD (Código Fonte Definidor) | RC-040 | **sem aresta** em `RELACOES`; arquivo existe |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Essa "doença" é caracterizada por impulsos de sobrevivência a qualquer custo, predatismo, multiplicação do algoritmo definidor e a lei do mais forte sobre o mais fraco.» — *ver:* **Ampliação — P2025-06-14 (PALESTRA SOBRE A QUEDA DO CRIADO…** U0177
+

@@ -52,3 +52,9 @@ Na leitura de Jan Val Ellam (P2025-06-14b), a mecânica limitadora fundamental q
 ## Blindagem epistemológica — QUARENTENA CIENTÍFICA
 
 Os números (400 bi/2.000/10 bits) e a referência à "redução objetiva orquestrada" (Penrose/Hameroff) são **leitura de Ellam / citação de teoria externa não comprovada** — a Base não endossa essas teorias como ciência validada. O verbete registra a mecânica limitadora como modelo cosmológico do autor, não como dado neurocientífico estabelecido.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Esse problema de redução objetiva orquestrada tem a ver com as teses que eu já falei no início da causação ascendente e da causação descendente, que são as duas teses que discutam.» — *ver:* **Ampliação — P2025-06-14b (A Consciência Humana e a Chave …** U0017
+

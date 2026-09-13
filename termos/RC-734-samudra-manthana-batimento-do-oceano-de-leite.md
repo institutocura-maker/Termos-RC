@@ -65,3 +65,10 @@ O episódio pertence à mitologia e às tradições religiosas hindus. As equiva
 
 ## Nota — MUTIRÃO REVISAR · Lote 5 — Resíduo & evidência cruzada (10/09/2026 · delegação “deixa fluir”)
 - **[produtos do batimento]: chancelada INCOMPLETUDE REGISTRADA (F040-L5).** Não completado por fontes externas — decisão mantida.
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Então, o samudra mantã, ele não é só uma metáfora de um fato que na realidade aconteceu, mas se a gente quiser se lembrar da metáfora e se lembrar que o nosso interior é o oceano que precisa ser batido pelo Eu da gente, essa talvez seja a melhor metáfora que reste dessa palestra.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0019
+- «Então, samudra mantã, os hindus chamam de o batimento de um oceano de leite do Qual o senhor virgino retirou maravilhas chamado ratas, joias de uma alquimia que produziu várias coisas e isso em tese mudou outras tantas coisas.» — *ver:* **Ampliação — P2026-03-21 (Samudra Manthan A Enigmatica Alq…** U0008
+

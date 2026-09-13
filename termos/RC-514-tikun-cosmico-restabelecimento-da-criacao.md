@@ -170,3 +170,11 @@ Na leitura/interpretação do artigo *O Quarto Cérebro de Pandora* (Denise Ferr
 ## Nota — F043 T2 · Averbação cruzada da Obra de Apoio (06/09/2026 · despacho §3 — GKA é Obra de Apoio, não co-autoria)
 - **GKA corrobora (EXT-2024-01-04, 04/01/2024 — Kris Amon, RC-934):** verbete «Tikun Olam»: «o conserto desta Criação problemática, visando o retorno do Eu do Criador caído para a sua condição anterior de Divindade Cocriadora».
 - Fonte secundária: hierarquia das primárias intacta; nenhuma mutação de cadastro; `relacoes/` blindado (despachos §1/§3).
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Eu vou ter que fazer revelações fortes sobre esse tipo de questão, porque somos nós, os humanos, não esse tipo de humano que agora nós somos, mas um um continuação disso aqui que vai tem que resolver todas essas paradas porque simplesmente é zero a construção até agora da parte de quem quer que […]» — *ver:* **Ampliação — P2022-11-26 (Choque de Realidade – o Perpétuo…** U0002
+- «Porque nós, os humanos, somos os únicos capazes de realizar o ticum cabalist. O que é o ticum cabalístico? É o reparo que o DNA do criador precisa sofrer no sentido de nós humanos estamos reparando não só a obra complicada, mas como o corpo do criador que precisa ser reparado, ser ressuscitado.» — *ver:* **Ampliação — P2024-03-17**
+- «Porque mesmo esse ser dizendo ou tentando dizer o que houve com ele, mas a turma que recebia era do orador de Javé, então fazia essas reversões e os próprios cabalistas engrandeceram Keter, que é a primeira sefirá da árvore da vida.» — *ver:* **Ampliação — P2021-06-26 (Shiva - A Reconstrução do Erro d…** U0009
+

@@ -44,3 +44,9 @@ Com isso:
 | Sociedade Thule | RC-848 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Hitler (figura histórica no RC) | RC-239 | **sem aresta** em `RELACOES`; **sem arquivo** |
 | Nicola Tesla (recebia mensagens em sânscrito) | RC-849 | **sem aresta** em `RELACOES`; **sem arquivo** |
+## Citações-chave
+
+> Índice curado (2.3, opção b do censo A3): trecho literal de abertura + ponteiro para o bloco-fonte, onde a citação vive inteira. Seleção mecânica (maiores cotações), máx. 3.
+
+- «Em 1902, a sociedade do frio surgiu e os frioistas, os línguiros da época, eram só mulheres, que recebiam mensagens de uma raça alienígena que se propunha repassar técnica, notícias de um antigo asem da época dos deuses para que só a Alemanhase aquelas notícias e por isso pudesse desenvolver armas […]» — *ver:* **Ampliação — P2018-12-16 (Terra Atlantis - Era Sapiens)** U0059
+
